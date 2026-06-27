@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE WHEEL OF FATE"
+title: "[[Sanity]] — THE [[Wheel|WHEEL]] OF FATE"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Sanity-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-  1. The Wheel of Fate
+  1. The [[Wheel]] of Fate

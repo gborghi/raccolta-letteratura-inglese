@@ -19,9 +19,9 @@ Relenting
 
 
 Florence had need of help. Her father’s need of it was sore, and made
-the aid of her old friend invaluable. Death stood at his pillow. A
+the aid of her old friend invaluable. [[Death]] stood at his pillow. A
 shade, already, of what he had been, shattered in mind, and perilously
-sick in body, he laid his weary head down on the bed his daughter’s
+sick in [[Body|body]], he laid his weary head down on the bed his daughter’s
 hands prepared for him, and had never raised it since.
 
 She was always with him. He knew her, generally; though, in the
@@ -34,7 +34,7 @@ hand. Sometimes he would ask her for herself. “Where is Florence?” “I
 am here, Papa, I am here.” “I don’t know her!” he would cry. “We have
 been parted so long, that I don’t know her!” and then a staring dread
 would be upon him, until she could soothe his perturbation; and recall
-the tears she tried so hard, at other times, to dry.
+the [[Tears|tears]] she tried so hard, at other times, to dry.
 
 He rambled through the scenes of his old pursuits—through many where
 Florence lost him as she listened—sometimes for hours. He would repeat
@@ -49,10 +49,10 @@ and begin again in the same way.
 But this was when his mind was in its most distracted state. In all the
 other phases of its illness, and in those to which it was most
 constant, it always turned on Florence. What he would oftenest do was
-this: he would recall that night he had so recently remembered, the
-night on which she came down to his room, and would imagine that his
+this: he would recall that [[Night|night]] he had so recently remembered, the
+[[Night|night]] on which she came down to his room, and would imagine that his
 heart smote him, and that he went out after her, and up the stairs to
-seek her. Then, confounding that time with the later days of the many
+seek her. Then, confounding that [[Time|time]] with the later days of the many
 footsteps, he would be amazed at their number, and begin to count them
 as he followed her. Here, of a sudden, was a bloody footstep going on
 among the others; and after it there began to be, at intervals, doors
@@ -81,28 +81,28 @@ He remained like this for days and weeks. At length, lying, the faint
 feeble semblance of a man, upon his bed, and speaking in a voice so low
 that they could only hear him by listening very near to his lips, he
 became quiet. It was dimly pleasant to him now, to lie there, with the
-window open, looking out at the summer sky and the trees: and, in the
-evening, at the sunset. To watch the shadows of the clouds and leaves,
+[[Window|window]] open, looking out at the [[Summer|summer]] sky and the trees: and, in the
+evening, at the sunset. To watch the shadows of the clouds and [[Leaves|leaves]],
 and seem to feel a sympathy with shadows. It was natural that he
 should. To him, life and the world were nothing else.
 
 He began to show now that he thought of Florence’s fatigue: and often
 taxed his weakness to whisper to her, “Go and walk, my dearest, in the
-sweet air. Go to your good husband!” One time when Walter was in his
+sweet air. Go to your good husband!” One [[Time|time]] when Walter was in his
 room, he beckoned him to come near, and to stoop down; and pressing his
 hand, whispered an assurance to him that he knew he could trust him
-with his child when he was dead.
+with his [[Child|child]] when he was dead.
 
 It chanced one evening, towards sunset, when Florence and Walter were
 sitting in his room together, as he liked to see them, that Florence,
 having her baby in her arms, began in a low voice to sing to the little
-fellow, and sang the old tune she had so often sung to the dead child:
-He could not bear it at the time; he held up his trembling hand,
+fellow, and sang the old tune she had so often sung to the dead [[Child|child]]:
+He could not bear it at the [[Time|time]]; he held up his trembling hand,
 imploring her to stop; but next day he asked her to repeat it, and to
 do so often of an evening: which she did. He listening, with his face
 turned away.
 
-Florence was sitting on a certain time by his window, with her
+Florence was sitting on a certain [[Time|time]] by his [[Window|window]], with her
 work-basket between her and her old attendant, who was still her
 faithful companion. He had fallen into a doze. It was a beautiful
 evening, with two hours of light to come yet; and the tranquillity and
@@ -114,22 +114,22 @@ leaning on the back of her chair, made her start.
 “My dear,” said Walter, “there is someone downstairs who wishes to
 speak to you.”
 
-She fancied Walter looked grave, and asked him if anything had
+She fancied Walter looked [[Grave|grave]], and asked him if anything had
 happened.
 
-“No, no, my love!” said Walter. “I have seen the gentleman myself, and
+“No, no, my [[Love|love]]!” said Walter. “I have seen the gentleman myself, and
 spoken with him. Nothing has happened. Will you come?”
 
 Florence put her arm through his; and confiding her father to the
 black-eyed Mrs Toots, who sat as brisk and smart at her work as
 black-eyed woman could, accompanied her husband downstairs. In the
-pleasant little parlour opening on the garden, sat a gentleman, who
-rose to advance towards her when she came in, but turned off, by reason
+pleasant little parlour opening on the [[Garden|garden]], sat a gentleman, who
+[[Rose|rose]] to advance towards her when she came in, but turned off, by reason
 of some peculiarity in his legs, and was only stopped by the table.
 
 Florence then remembered Cousin Feenix, whom she had not at first
-recognised in the shade of the leaves. Cousin Feenix took her hand, and
-congratulated her upon her marriage.
+recognised in the shade of the [[Leaves|leaves]]. Cousin Feenix took her hand, and
+congratulated her upon her [[Marriage|marriage]].
 
 “I could have wished, I am sure,” said Cousin Feenix, sitting down as
 Florence sat, “to have had an earlier opportunity of offering my
@@ -148,8 +148,8 @@ manner no less, that something more immediately tending to some object
 was to follow this.
 
 “I have been mentioning to my friend Mr Gay, if I may be allowed to
-have the honour of calling him so,” said Cousin Feenix, “that I am
-rejoiced to hear that my friend Dombey is very decidedly mending. I
+have the [[Honour|honour]] of calling him so,” said Cousin Feenix, “that I am
+rejoiced to hear that my friend Dombey is very decidedly [[mending]]. I
 trust my friend Dombey will not allow his mind to be too much preyed
 upon, by any mere loss of fortune. I cannot say that I have ever
 experienced any very great loss of fortune myself: never having had, in
@@ -172,35 +172,35 @@ exceedingly kind and open manner, for which I am very much indebted to
 him—to solicit it. I am sensible that so amiable a lady as the lovely
 and accomplished daughter of my friend Dombey will not require much
 urging; but I am happy to know, that I am supported by my friend Gay’s
-influence and approval. As in my parliamentary time, when a man had a
+influence and approval. As in my parliamentary [[Time|time]], when a man had a
 motion to make of any sort—which happened seldom in those days, for we
 were kept very tight in hand, the leaders on both sides being regular
 Martinets, which was a devilish good thing for the rank and file, like
 myself, and prevented our exposing ourselves continually, as a great
-many of us had a feverish anxiety to do—as, in my parliamentary time, I
+many of us had a feverish anxiety to do—as, in my parliamentary [[Time|time]], I
 was about to say, when a man had leave to let off any little private
 popgun, it was always considered a great point for him to say that he
 had the happiness of believing that his sentiments were not without an
 echo in the breast of Mr Pitt; the pilot, in point of fact, who had
-weathered the storm. Upon which, a devilish large number of fellows
+weathered the [[Storm|storm]]. Upon which, a devilish large number of fellows
 immediately cheered, and put him in spirits. Though the fact is, that
 these fellows, being under orders to cheer most excessively whenever Mr
 Pitt’s name was mentioned, became so proficient that it always woke
-’em. And they were so entirely innocent of what was going on,
+’em. And they were so entirely [[Innocent|innocent]] of what was going on,
 otherwise, that it used to be commonly said by Conversation
 Brown—four-bottle man at the Treasury Board, with whom the father of my
 friend Gay was probably acquainted, for it was before my friend Gay’s
-time—that if a man had risen in his place, and said that he regretted
-to inform the house that there was an Honourable Member in the last
+[[Time|time]]—that if a man had risen in his place, and said that he regretted
+to inform the [[house]] that there was an Honourable Member in the last
 stage of convulsions in the Lobby, and that the Honourable Member’s
 name was Pitt, the approbation would have been vociferous.”
 
 This postponement of the point, put Florence in a flutter; and she
 looked from Cousin Feenix to Walter, in increasing agitation.
 
-“My love,” said Walter, “there is nothing the matter.”
+“My [[Love|love]],” said Walter, “there is nothing the matter.”
 
-“There is nothing the matter, upon my honour,” said Cousin Feenix; “and
+“There is nothing the matter, upon my [[Honour|honour]],” said Cousin Feenix; “and
 I am deeply distressed at being the means of causing you a moment’s
 uneasiness. I beg to assure you that there is nothing the matter. The
 favour that I have to ask is, simply—but it really does seem so
@@ -211,7 +211,7 @@ the ice,” said Cousin Feenix.
 Walter thus appealed to, and appealed to no less in the look that
 Florence turned towards him, said:
 
-“My dearest, it is no more than this. That you will ride to London with
+“My dearest, it is no more than this. That you will ride to [[London]] with
 this gentleman, whom you know.”
 
 “And my friend Gay, also—I beg your pardon!” interrupted Cousin Feenix.
@@ -231,7 +231,7 @@ making the request.”
 “And think it right?”
 
 “Yes. Only because I am sure that you would too. Though there may be
-reasons I very well understand, which make it better that nothing more
+reasons I very [[Well|well]] understand, which make it better that nothing more
 should be said beforehand.”
 
 “If Papa is still asleep, or can spare me if he is awake, I will go
@@ -240,15 +240,15 @@ with a look that was a little alarmed but perfectly confiding, left the
 room.
 
 When she came back, ready to bear them company, they were talking
-together, gravely, at the window; and Florence could not but wonder
-what the topic was, that had made them so well acquainted in so short a
-time. She did not wonder at the look of pride and love with which her
+together, gravely, at the [[Window|window]]; and Florence could not but [[Wonder|wonder]]
+what the topic was, that had made them so [[Well|well]] acquainted in so short a
+[[Time|time]]. She did not [[Wonder|wonder]] at the look of [[Pride|pride]] and [[Love|love]] with which her
 husband broke off as she entered; for she never saw him, but that
 rested on her.
 
 “I will leave,” said Cousin Feenix, “a card for my friend Dombey,
 sincerely trusting that he will pick up health and strength with every
-returning hour. And I hope my friend Dombey will do me the favour to
+returning hour. And I [[Hope|hope]] my friend Dombey will do me the favour to
 consider me a man who has a devilish warm admiration of his character,
 as, in point of fact, a British merchant and a devilish upright
 gentleman. My place in the country is in a most confounded state of
@@ -262,7 +262,7 @@ very freely, I should say, let it be in point of fact the yolk of an
 egg, beat up with sugar and nutmeg, in a glass of sherry, and taken in
 the morning with a slice of dry toast. Jackson, who kept the
 boxing-rooms in Bond Street—man of very superior qualifications, with
-whose reputation my friend Gay is no doubt acquainted—used to mention
+whose reputation my friend Gay is no [[Doubt|doubt]] acquainted—used to mention
 that in training for the ring they substituted rum for sherry. I should
 recommend sherry in this case, on account of my friend Dombey being in
 an invalided condition; which might occasion rum to fly—in point of
@@ -271,33 +271,33 @@ fact to his head—and throw him into a devil of a state.”
 Of all this, Cousin Feenix delivered himself with an obviously nervous
 and discomposed air. Then, giving his arm to Florence, and putting the
 strongest possible constraint upon his wilful legs, which seemed
-determined to go out into the garden, he led her to the door, and
+determined to go out into the [[Garden|garden]], he led her to the door, and
 handed her into a carriage that was ready for her reception.
 
 Walter entered after him, and they drove away.
 
 Their ride was six or eight miles long. When they drove through certain
-dull and stately streets, lying westward in London, it was growing
-dusk. Florence had, by this time, put her hand in Walter’s; and was
+dull and stately streets, lying westward in [[London]], it was growing
+dusk. Florence had, by this [[Time|time]], put her hand in Walter’s; and was
 looking very earnestly, and with increasing agitation, into every new
 street into which they turned.
 
-When the carriage stopped, at last, before that house in Brook Street,
-where her father’s unhappy marriage had been celebrated, Florence said,
+When the carriage stopped, at last, before that [[house]] in Brook Street,
+where her father’s unhappy [[Marriage|marriage]] had been celebrated, Florence said,
 “Walter, what is this? Who is here?” Walter cheering her, and not
-replying, she glanced up at the house-front, and saw that all the
+replying, she glanced up at the [[house]]-front, and saw that all the
 windows were shut, as if it were uninhabited. Cousin Feenix had by this
-time alighted, and was offering his hand.
+[[Time|time]] alighted, and was offering his hand.
 
 “Are you not coming, Walter?”
 
-“No, I will remain here. Don’t tremble there is nothing to fear,
+“No, I will remain here. Don’t tremble there is nothing to [[Fear|fear]],
 dearest Florence.”
 
 “I know that, Walter, with you so near. I am sure of that, but—”
 
 The door was softly opened, without any knock, and Cousin Feenix led
-her out of the summer evening air into the close dull house. More
+her out of the [[Summer|summer]] evening air into the close dull [[house]]. More
 sombre and brown than ever, it seemed to have been shut up from the
 wedding-day, and to have hoarded darkness and sadness ever since.
 
@@ -306,7 +306,7 @@ conductor, at the drawing-room door. He opened it, without speaking,
 and signed an entreaty to her to advance into the inner room, while he
 remained there. Florence, after hesitating an instant, complied.
 
-Sitting by the window at a table, where she seemed to have been writing
+Sitting by the [[Window|window]] at a table, where she seemed to have been writing
 or drawing, was a lady, whose head, turned away towards the dying
 light, was resting on her hand. Florence advancing, doubtfully, all at
 once stood still, as if she had lost the power of motion. The lady
@@ -314,17 +314,17 @@ turned her head.
 
 “Great Heaven!” she said, “what is this?”
 
-“No, no!” cried Florence, shrinking back as she rose up and putting out
+“No, no!” cried Florence, shrinking back as she [[Rose|rose]] up and putting out
 her hands to keep her off. “Mama!”
 
-They stood looking at each other. Passion and pride had worn it, but it
+They stood looking at each other. Passion and [[Pride|pride]] had worn it, but it
 was the face of Edith, and beautiful and stately yet. It was the face
 of Florence, and through all the terrified avoidance it expressed,
-there was pity in it, sorrow, a grateful tender memory. On each face,
-wonder and fear were painted vividly; each so still and silent, looking
+there was pity in it, sorrow, a grateful tender [[Memory|memory]]. On each face,
+[[Wonder|wonder]] and [[Fear|fear]] were painted vividly; each so still and silent, looking
 at the other over the black gulf of the irrevocable past.
 
-Florence was the first to change. Bursting into tears, she said from
+Florence was the first to change. Bursting into [[Tears|tears]], she said from
 her full heart, “Oh, Mama, Mama! why do we meet like this? Why were you
 ever kind to me when there was no one else, that we should meet like
 this?”
@@ -346,17 +346,17 @@ you are repentant; that you are changed,” said Florence, looking
 mournfully upon her; “and he will speak to Papa with me, I know. Is
 there anything but this that I can do?”
 
-Edith, breaking her silence, without moving eye or limb, answered
+Edith, breaking her [[Silence|silence]], without moving eye or limb, answered
 slowly:
 
-“The stain upon your name, upon your husband’s, on your child’s. Will
+“The stain upon your name, upon your husband’s, on your [[Child|child]]’s. Will
 that ever be forgiven, Florence?”
 
 “Will it ever be, Mama? It is! Freely, freely, both by Walter and by
 me. If that is any consolation to you, there is nothing that you may
 believe more certainly. You do not—you do not,” faltered Florence,
 “speak of Papa; but I am sure you wish that I should ask him for his
-forgiveness. I am sure you do.”
+[[Forgiveness|forgiveness]]. I am sure you do.”
 
 She answered not a word.
 
@@ -364,7 +364,7 @@ She answered not a word.
 then, perhaps, we may take leave of each other, more like what we used
 to be to one another. I have not,” said Florence very gently, and
 drawing nearer to her, “I have not shrunk back from you, Mama, because
-I fear you, or because I dread to be disgraced by you. I only wish to
+I [[Fear|fear]] you, or because I dread to be disgraced by you. I only wish to
 do my duty to Papa. I am very dear to him, and he is very dear to me.
 But I never can forget that you were very good to me. Oh, pray to
 Heaven,” cried Florence, falling on her bosom, “pray to Heaven, Mama,
@@ -376,30 +376,30 @@ caught her round the neck.
 
 “Florence!” she cried. “My better angel! Before I am mad again, before
 my stubbornness comes back and strikes me dumb, believe me, upon my
-soul I am innocent!”
+[[Soul|soul]] I am [[Innocent|innocent]]!”
 
 “Mama!”
 
 “Guilty of much! Guilty of that which sets a waste between us evermore.
 Guilty of what must separate me, through the whole remainder of my
-life, from purity and innocence—from you, of all the earth. Guilty of a
+life, from purity and [[innocence]]—from you, of all the earth. Guilty of a
 blind and passionate resentment, of which I do not, cannot, will not,
 even now, repent; but not guilty with that dead man. Before God!”
 
 Upon her knees upon the ground, she held up both her hands, and swore
 it.
 
-“Florence!” she said, “purest and best of natures,—whom I love—who
-might have changed me long ago, and did for a time work some change
-even in the woman that I am,—believe me, I am innocent of that; and
+“Florence!” she said, “purest and best of natures,—whom I [[Love|love]]—who
+might have changed me long ago, and did for a [[Time|time]] work some change
+even in the woman that I am,—believe me, I am [[Innocent|innocent]] of that; and
 once more, on my desolate heart, let me lay this dear head, for the
-last time!”
+last [[Time|time]]!”
 
 She was moved and weeping. Had she been oftener thus in older days, she
 had been happier now.
 
 “There is nothing else in all the world,” she said, “that would have
-wrung denial from me. No love, no hatred, no hope, no threat. I said
+wrung denial from me. No [[Love|love]], no hatred, no [[Hope|hope]], no threat. I said
 that I would die, and make no sign. I could have done so, and I would,
 if we had never met, Florence.”
 
@@ -422,7 +422,7 @@ and that we are a careless family—and also that my aunt, though a
 devilish lively woman, had perhaps not been the very best of mothers—I
 took the liberty of seeking her in France, and offering her such
 protection as a man very much out at elbows could offer. Upon which
-occasion, my lovely and accomplished relative did me the honour to
+occasion, my lovely and accomplished relative did me the [[Honour|honour]] to
 express that she believed I was, in my way, a devilish good sort of
 fellow; and that therefore she put herself under my protection. Which
 in point of fact I understood to be a kind thing on the part of my
@@ -446,8 +446,8 @@ But, observing lately, that her accessible point did appear to be a
 very strong description of tenderness for the daughter of my friend
 Dombey, it occurred to me that if I could bring about a meeting,
 unexpected on both sides, it might lead to beneficial results.
-Therefore, we being in London, in the present private way, before going
-to the South of Italy, there to establish ourselves, in point of fact,
+Therefore, we being in [[London]], in the present private way, before going
+to the South of [[Italy]], there to establish ourselves, in point of fact,
 until we go to our long homes, which is a devilish disagreeable
 reflection for a man, I applied myself to the discovery of the
 residence of my friend Gay—handsome man of an uncommonly frank
@@ -457,21 +457,21 @@ present place. And now,” said Cousin Feenix, with a real and genuine
 earnestness shining through the levity of his manner and his slipshod
 speech, “I do conjure my relative, not to stop half way, but to set
 right, as far as she can, whatever she has done wrong—not for the
-honour of her family, not for her own fame, not for any of those
+[[Honour|honour]] of her family, not for her own fame, not for any of those
 considerations which unfortunate circumstances have induced her to
 regard as hollow, and in point of fact, as approaching to humbug—but
 because it is wrong, and not right.”
 
 Cousin Feenix’s legs consented to take him away after this; and leaving
-them alone together, he shut the door.
+them [[Alone|alone]] together, he shut the door.
 
 Edith remained silent for some minutes, with Florence sitting close
 beside her. Then she took from her bosom a sealed paper.
 
-“I debated with myself a long time,” she said in a low voice, “whether
+“I debated with myself a long [[Time|time]],” she said in a low voice, “whether
 to write this at all, in case of dying suddenly or by accident, and
 feeling the want of it upon me. I have deliberated, ever since, when
-and how to destroy it. Take it, Florence. The truth is written in it.”
+and how to destroy it. Take it, Florence. The [[Truth|truth]] is written in it.”
 
 “Is it for Papa?” asked Florence.
 
@@ -481,7 +481,7 @@ obtained by you. He never could have had it otherwise.”
 Again they sat silent, in the deepening darkness.
 
 “Mama,” said Florence, “he has lost his fortune; he has been at the
-point of death; he may not recover, even now. Is there any word that I
+point of [[Death|death]]; he may not recover, even now. Is there any word that I
 shall say to him from you?”
 
 “Did you tell me,” asked Edith, “that you were very dear to him?”
@@ -509,30 +509,30 @@ afflictions he has suffered?”
 dear to him. He will not grieve for them himself, one day, if they have
 brought that lesson, Florence.”
 
-“You wish well to him, and would have him happy. I am sure you would!”
+“You wish [[Well|well]] to him, and would have him happy. I am sure you would!”
 said Florence. “Oh! let me be able, if I have the occasion at some
-future time, to say so?”
+future [[Time|time]], to say so?”
 
 Edith sat with her dark eyes gazing steadfastly before her, and did not
 reply until Florence had repeated her entreaty; when she drew her hand
-within her arm, and said, with the same thoughtful gaze upon the night
+within her arm, and said, with the same thoughtful gaze upon the [[Night|night]]
 outside:
 
 “Tell him that if, in his own present, he can find any reason to
 compassionate my past, I sent word that I asked him to do so. Tell him
 that if, in his own present, he can find a reason to think less
 bitterly of me, I asked him to do so. Tell him, that, dead as we are to
-one another, never more to meet on this side of eternity, he knows
+one another, never more to meet on this side of [[Eternity|eternity]], he knows
 there is one feeling in common between us now, that there never was
 before.”
 
-Her sternness seemed to yield, and there were tears in her dark eyes.
+Her sternness seemed to yield, and there were [[Tears|tears]] in her dark eyes.
 
 “I trust myself to that,” she said, “for his better thoughts of me, and
 mine of him. When he loves his Florence most, he will hate me least.
 When he is most proud and happy in her and her children, he will be
 most repentant of his own part in the dark vision of our married life.
-At that time, I will be repentant too—let him know it then—and think
+At that [[Time|time]], I will be repentant too—let him know it then—and think
 that when I thought so much of all the causes that had made me what I
 was, I needed to have allowed more for the causes that had made him
 what he was. I will try, then, to forgive him his share of blame. Let
@@ -550,15 +550,15 @@ of me—that I am most forbearing in my thoughts of him! Those are the
 last words I send him! Now, goodbye, my life!”
 
 She clasped her in her arms, and seemed to pour out all her woman’s
-soul of love and tenderness at once.
+[[Soul|soul]] of [[Love|love]] and tenderness at once.
 
-“This kiss for your child! These kisses for a blessing on your head! My
+“This kiss for your [[Child|child]]! These kisses for a blessing on your head! My
 own dear Florence, my sweet girl, farewell!”
 
 “To meet again!” cried Florence.
 
 “Never again! Never again! When you leave me in this dark room, think
-that you have left me in the grave. Remember only that I was once, and
+that you have left me in the [[Grave|grave]]. Remember only that I was once, and
 that I loved you!”
 
 And Florence left her, seeing her face no more, but accompanied by her
@@ -571,19 +571,19 @@ dingy dining room, upon whose shoulder she laid her head weeping.
 his eyes in the simplest manner possible, and without the least
 concealment, “that the lovely and accomplished daughter of my friend
 Dombey and amiable wife of my friend Gay, should have had her sensitive
-nature so very much distressed and cut up by the interview which is
-just concluded. But I hope and trust I have acted for the best, and
+[[Nature|nature]] so very much distressed and cut up by the interview which is
+just concluded. But I [[Hope|hope]] and trust I have acted for the best, and
 that my honourable friend Dombey will find his mind relieved by the
 disclosures which have taken place. I exceedingly lament that my friend
 Dombey should have got himself, in point of fact, into the devil’s own
 state of conglomeration by an alliance with our family; but am strongly
 of opinion that if it hadn’t been for the infernal scoundrel Barker—man
 with white teeth—everything would have gone on pretty smoothly. In
-regard to my relative who does me the honour to have formed an
+regard to my relative who does me the [[Honour|honour]] to have formed an
 uncommonly good opinion of myself, I can assure the amiable wife of my
 friend Gay, that she may rely on my being, in point of fact, a father
 to her. And in regard to the changes of human life, and the
 extraordinary manner in which we are perpetually conducting ourselves,
 all I can say is, with my friend Shakespeare—man who wasn’t for an age
-but for all time, and with whom my friend Gay is no doubt
-acquainted—that its like the shadow of a dream.”
+but for all [[Time|time]], and with whom my friend Gay is no [[Doubt|doubt]]
+acquainted—that its like the [[Shadow|shadow]] of [[A Dream|a dream]].”

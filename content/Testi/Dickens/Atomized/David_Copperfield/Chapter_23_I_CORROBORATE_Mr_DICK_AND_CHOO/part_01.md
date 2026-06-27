@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 1)"
+title: "[[David Copperfield]] — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -18,7 +18,7 @@ CHAPTER 23. I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION
 
 
 When I awoke in the morning I thought very much of little Em’ly, and her
-emotion last night, after Martha had left. I felt as if I had come into
+emotion last [[Night|night]], after Martha had left. I felt as if I had come into
 the knowledge of those domestic weaknesses and tendernesses in a sacred
 confidence, and that to disclose them, even to Steerforth, would be
 wrong. I had no gentler feeling towards anyone than towards the
@@ -27,20 +27,20 @@ persuaded, and shall always be persuaded, to my dying day, I then
 devotedly loved. The repetition to any ears--even to Steerforth’s--of
 what she had been unable to repress when her heart lay open to me by an
 accident, I felt would be a rough deed, unworthy of myself, unworthy of
-the light of our pure childhood, which I always saw encircling her head.
+the light of our pure [[Childhood|childhood]], which I always saw encircling her head.
 I made a resolution, therefore, to keep it in my own breast; and there
 it gave her image a new grace.
 
 While we were at breakfast, a letter was delivered to me from my aunt.
 As it contained matter on which I thought Steerforth could advise me
-as well as anyone, and on which I knew I should be delighted to consult
-him, I resolved to make it a subject of discussion on our journey home.
+as [[Well|well]] as anyone, and on which I knew I should be delighted to consult
+him, I resolved to make it a subject of discussion on our [[Journey|journey]] [[Home|home]].
 For the present we had enough to do, in taking leave of all our friends.
 Mr. Barkis was far from being the last among them, in his regret at
 our departure; and I believe would even have opened the box again, and
 sacrificed another guinea, if it would have kept us eight-and-forty
 hours in Yarmouth. Peggotty and all her family were full of grief at our
-going. The whole house of Omer and Joram turned out to bid us good-bye;
+going. The whole [[house]] of Omer and Joram turned out to bid us good-bye;
 and there were so many seafaring volunteers in attendance on Steerforth,
 when our portmanteaux went to the coach, that if we had had the baggage
 of a regiment with us, we should hardly have wanted porters to carry it.
@@ -59,10 +59,10 @@ knows what he has to do, and he’ll do it.’
 
 Littimer touched his hat in acknowledgement of my good opinion, and I
 felt about eight years old. He touched it once more, wishing us a good
-journey; and we left him standing on the pavement, as respectable a
-mystery as any pyramid in Egypt.
+[[Journey|journey]]; and we left him standing on the pavement, as respectable a
+mystery as any pyramid in [[Egypt]].
 
-For some little time we held no conversation, Steerforth being unusually
+For some little [[Time|time]] we held no conversation, Steerforth being unusually
 silent, and I being sufficiently engaged in wondering, within myself,
 when I should see the old places again, and what new changes might
 happen to me or them in the meanwhile. At length Steerforth, becoming
@@ -81,10 +81,10 @@ expedition to look about me, and to think a little.’
 
 ‘Which, of course, you have done?’
 
-‘Indeed I can’t say I have, particularly. To tell you the truth, I am
+‘Indeed I can’t say I have, particularly. To tell you the [[Truth|truth]], I am
 afraid I have forgotten it.’
 
-‘Well! look about you now, and make up for your negligence,’ said
+‘[[Well]]! look about you now, and make up for your negligence,’ said
 Steerforth. ‘Look to the right, and you’ll see a flat country, with a
 good deal of marsh in it; look to the left, and you’ll see the same.
 Look to the front, and you’ll find no difference; look to the rear,
@@ -98,7 +98,7 @@ the letter in my hand. ‘Does she suggest anything?’
 ‘Why, yes,’ said I. ‘She asks me, here, if I think I should like to be a
 proctor? What do you think of it?’
 
-‘Well, I don’t know,’ replied Steerforth, coolly. ‘You may as well do
+‘[[Well]], I don’t know,’ replied Steerforth, coolly. ‘You may as [[Well|well]] do
 that as anything else, I suppose?’
 
 I could not help laughing again, at his balancing all callings and
@@ -127,8 +127,8 @@ is any affinity between nautical matters and ecclesiastical matters?’
 they are managed and decided by the same set of people, down in that
 same Doctors’ Commons. You shall go there one day, and find them
 blundering through half the nautical terms in Young’s Dictionary,
-apropos of the “Nancy” having run down the “Sarah Jane”, or Mr. Peggotty
-and the Yarmouth boatmen having put off in a gale of wind with an anchor
+apropos of the “[[Nancy]]” having run down the “Sarah Jane”, or Mr. Peggotty
+and the Yarmouth boatmen having put off in a gale of [[Wind|wind]] with an anchor
 and cable to the “Nelson” Indiaman in distress; and you shall go there
 another day, and find them deep in the evidence, pro and con, respecting
 a clergyman who has misbehaved himself; and you shall find the judge

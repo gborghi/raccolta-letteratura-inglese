@@ -1,5 +1,5 @@
 ---
-title: "Common Man — Giotto And St.  Francis (part 2)"
+title: "[[Common Man]] — Giotto And St.  Francis (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Common-Man-(Chesterton)"
@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-The city is founded upon a rock; the city is a rock; and it is too
+The [[City|city]] is founded upon a rock; the [[City|city]] is a rock; and it is too
 simple for anybody to spoil.  It has proved practically impossible
 to paint or gild or pad or upholster or even to scratch that rock.
-In the main lines of it an austerity alone remains in the memory;
-and even the beauty of the milder landscape is itself austere.
+In the main lines of it an austerity [[Alone|alone]] remains in the [[Memory|memory]];
+and even the [[Beauty|beauty]] of the milder landscape is itself austere.
 There may be, indeed there is, the usual accumulation in corners
 of the popular trinkets or traditional toys of devotion, which some
 people are so unfortunately fastidious as to resent; but that is
 not the sort of peril of which I am thinking, even from the point
 of view of those who would admit it to be in other ways perilous.
-It is not a question of any abuses among the ignorant or the innocent
+It is not a question of any abuses among the ignorant or the [[Innocent|innocent]]
 who look up to the saint; it is a question of the condescending culture
 that looks down to him; not a matter of importing idolatry into the
 institution of a patron saint; but a matter of patronising the patron.
@@ -33,11 +33,11 @@ passed through so established a station of the Italian pilgrimage,
 they have not in fact left any trail behind them, as they have
 in so many similar places; the hills have forgotten them and their
 personalities have passed away with the smell of their petrol.
-St. Francis is still left alone with his own friars and mostly
+St. Francis is still left [[Alone|alone]] with his own friars and mostly
 with his own friends; and especially with that great first friend
 who was his interpreter to the expanding civilisation that came
 after him; the friend who could express in images what Francis
-himself had always felt as imagery, or what we call imagination;
+himself had always felt as imagery, or what we call [[Imagination|imagination]];
 the painter who translated the poet--Giotto.
 
 The advance of art criticism is a continual retreat; it would seem
@@ -45,32 +45,32 @@ in some strange manner destined to march perpetually backwards into
 older and older periods.  At the beginning of the nineteenth century
 the critics had finally accepted the normality of the Ancient Greeks.
 By the end of the nineteenth century the critics were already inaugurating
-the novelty of the Ancient Egyptians.  We must all, by this time,
+the novelty of the Ancient Egyptians.  We must all, by this [[Time|time]],
 be familiar with expressions of admiration for the art of the Caveman,
 scrawled in rock and red ochre with an unmistakable spirit and
 even distinction of draughtsmanship; the cult of the prehistoric
 which has given a new meaning to the cult of the Primitives.
 It will soon seem perfectly natural to be talking about the modernised
 and decadent sophistication of the Second Stone Age as compared
-with the rich but well-balanced civilisation of the First Stone Age.
+with the rich but [[Well|well]]-balanced civilisation of the First Stone Age.
 The further we go back to explore, the more we find that is
 really worth exploring; and the nearer we are to the real
 primitive man, the further we are from the ape or even the savage.
-This being true even of the tremendous scope of the whole history
+This being true even of the tremendous scope of the whole [[history]]
 of the human tribe, it is not to be wondered at that men have made
 the same discovery about the high and complex culture of Christendom.
 The spotlight of artistic interest and concentration has been
-steadily travelling backwards ever since I was a child.
+steadily travelling backwards ever since I was a [[Child|child]].
 I can remember faintly that in my first years it was still felt as
-something of a paradox to maintain that the quaintness of Botticelli
+something of a [[Paradox|paradox]] to maintain that the quaintness of Botticelli
 could be taken as seriously as the solid finish of Guido Reni;
 that Ruskin was still a revolutionist for preferring the dayspring
-of the Renaissance in the fourteenth century to the dregs
-of the Renaissance in the eighteenth.  Even as late as that,
+of the [[Renaissance]] in the fourteenth century to the dregs
+of the [[Renaissance]] in the eighteenth.  Even as late as that,
 for most people, Giotto was still not so much a Primitive
 as a primitive man.  He was a sort of savage who had done some
 service by discovering that it was possible to scratch something
-resembling a rudimentary human figure on the walls of his cave.
+resembling a rudimentary human figure on the walls of his [[Cave|cave]].
 For most people all serious art still lay between Raphael and Reynolds.
 As I grew up, the Ruskinian revolution prevailed, and most men came
 to realise that Giotto was a great painter; but even those men
@@ -87,8 +87,8 @@ with something like a broad hint that Giotto brought it to an end.
 
 The spotlight has moved further back, and is now illuminating
 what even Ruskin and the romantic medievalists would have regarded
-as a desert of dead and barbaric formalism; the true Dark Ages.
-Our Progressives are now bound with golden chains to the
+as a [[Desert|desert]] of dead and barbaric formalism; the true Dark Ages.
+Our Progressives are now bound with golden [[Chains|chains]] to the
 decline of Byzantium, rather than to the rise of Florence.
 It is quaint to think how little harm a blundering nickname need
 do in the long run.  All the admirers of Gothic call it Gothic,
@@ -102,33 +102,33 @@ an unmixed improvement as it appeared to the Victorian medievalists.
 There is, as it were, a new school of Pre-Raphaelites, who are not
 only pre-Raphael, but pre-Giotto. The shining figure of the shepherd
 no longer stands against a background of black and barbarous darkness;
-but in a sort of double light, in itself involving some of these
+but in a sort of [[Double|double]] light, in itself involving some of these
 subtler problems of balance and recurrence; having on his right hand
-the wide white daybreak of Rome and Assisi and Paris and all the West,
+the wide white daybreak of Rome and Assisi and [[Paris]] and all the West,
 and on his left the long and gorgeous golden sunset of the great
-city of Constantine.
+[[City|city]] of Constantine.
 
-But in truth this double light may make for a better enlightenment,
+But in [[Truth|truth]] this [[Double|double]] light may make for a better enlightenment,
 both about Giotto and his master St. Francis.  The two artistic movements,
 coming one after the other, have between them done some justice
-to two halves of medieval history, and an earlier and a later period
+to two halves of medieval [[history]], and an earlier and a later period
 of Christendom, both of which had been underrated and misunderstood.
-There is a sort of mathematical beauty in the harshness of Byzantine
+There is a sort of mathematical [[Beauty|beauty]] in the harshness of Byzantine
 art which is only beginning to be understood; but there is none
-the less another and livelier kind of beauty in the more humanised art
+the less another and livelier kind of [[Beauty|beauty]] in the more humanised art
 of the later Middle Ages; something suggestive of a moment when a dead
-design comes to life, or a pattern begins to move, or even to dance.
+design comes to life, or a pattern begins to move, or even to [[Dance|dance]].
 Some humorist wrote a work called "The Loves of the Triangle",
 and a mystical theologian might find in it a profound significance
 touching the loves of the Trinity.  In other words, the old abstract
-expression of divine beauty was the expression of a truth, but the other
-truth of its expression in the concrete was none the less true.
+expression of divine [[Beauty|beauty]] was the expression of a [[Truth|truth]], but the other
+[[Truth|truth]] of its expression in the concrete was none the less true.
 Now what is true of the early abstract art and the humanistic
 revolution of Giotto, is equally true of the abstract theology
 and the humanistic revolution of Francis.  Some modern writers
 on the first Franciscans talk as if Francis was the first to invent
-the idea of the Love of God and the God of Love; or at least was
-the first to go back and find it in the Gospels.  The truth is that
+the idea of the [[Love]] of God and the God of [[Love]]; or at least was
+the first to go back and find it in the Gospels.  The [[Truth|truth]] is that
 anybody could find it in any of the creeds and doctrinal definitions
 of any period between the Gospels and the Franciscan movement.
 But he would find it in the theological dogmas as he would find
@@ -142,7 +142,7 @@ Thus we find that St. Francis was in many ways the actual founder of
 the medieval miracle play; and there is all this suggestion of a stiff
 thing coming to life in the tale of his contact with the Bambino,
 illustrated in one of Giotto's designs.  And thus we find in Giotto
-himself a quality unique and hardly to be repeated in history.
+himself a quality unique and hardly to be repeated in [[history]].
 It is a sense, not only of movement, but of the first movement.
 There is still something in his figures that suggests that they
 are like the pillars of a church moved by the spiritual earthquake
@@ -152,12 +152,12 @@ while the faces are alive with portraiture.  This first moment
 of motion has much to do with that sense of morning and youth
 which so many admirers of medievalism have felt, and which I shall
 continue to feel, with all respect to the medievalist sculptor.
-Nothing is nearer to the nerve of primal wonder, which is the soul of
+Nothing is nearer to the nerve of primal [[Wonder|wonder]], which is the [[Soul|soul]] of
 all the arts, than that strange saying of the blind man in the Gospels,
 that when he was half awakened to sight, he saw "men as trees walking."
 There is something about the figures of Giotto that suggests men
 as trees walking.  The Byzantine School will not permit me to say that
-before his eyes were thus opened, the artist had been wholly blind.
+before his eyes were thus opened, the [[Artist|artist]] had been wholly blind.
 But I will still maintain that there was something like a miracle,
 in the transition from treating trees as tracery and men as trees,
 to the realisation of the new shock of liberation; and how,

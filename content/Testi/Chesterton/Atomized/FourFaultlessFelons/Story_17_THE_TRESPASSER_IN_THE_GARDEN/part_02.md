@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE TRESPASSER IN THE GARDEN (part 2)"
+title: "[[FourFaultlessFelons]] — THE TRESPASSER IN THE [[Garden|GARDEN]] (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -44,7 +44,7 @@ portraits that appeared in bookish weeklies illustrating the conflict of
 
 Religion and Science. It did not take Judson long to verify the accuracy
 
-of his version of the original Doone Theory. But all the time they were
+of his version of the original Doone Theory. But all the [[Time|time]] they were
 
 talking, the dark and restless eyes of the young doctor were darting
 
@@ -84,9 +84,9 @@ one of my points, except with that absurd quibble about the word Eocene.
 
 Branders was better; Branders had made some real contribution in his
 
-time, though he could not quite see that his time was past. But
+[[Time|time]], though he could not quite see that his [[Time|time]] was past. But
 
-Grossmark-well, really!"
+Grossmark-[[Well|well]], really!"
 
 
 
@@ -94,7 +94,7 @@ And Dr. Doone settled himself back in his arm-chair and laughed genially.
 
 
 
-"Well," said Judson, "I am much obliged to you. I knew I should learn a
+"[[Well]]," said Judson, "I am much obliged to you. I knew I should learn a
 
 great deal if I came here."
 
@@ -110,7 +110,7 @@ eccentric, very eccentric."
 
 
 
-Dr. John Judson came away from the house with a very thoughtful
+Dr. John Judson came away from the [[house]] with a very thoughtful
 
 expression and seemed to be revolving rather more than might have
 
@@ -122,19 +122,19 @@ thunderbolts of Doone, but he had a general and half-conscious tendency
 
 to drift in that direction in any case. And before his own intentions
 
-were clear, he found himself in front of the house and saw something
+were clear, he found himself in front of the [[house]] and saw something
 
 which brought him to a standstill, staring up at it with a sort of stolid
 
 suspicion. For some instants he stood quite motionless, then crossed the
 
-road with catlike swiftness and peered round the corner of the house.
+[[Road|road]] with catlike swiftness and peered round the corner of the [[house]].
 
 
 
-Night had fallen and a large moon painted everything with pale colours.
+[[Night]] had fallen and a large [[Moon|moon]] painted everything with pale colours.
 
-The house or bungalow that the landscape-painter had originally built in
+The [[house]] or bungalow that the landscape-painter had originally built in
 
 an open landscape was now wedged in a row of villas, though it retained
 
@@ -144,17 +144,17 @@ be, rather awkwardly, turning its back upon the street. Perhaps this hint
 
 of secrecy was only suggested by its own absurd secret, for just behind
 
-it could be seen the high spiked walls of the garden like the castellated
+it could be seen the high spiked walls of the [[Garden|garden]] like the castellated
 
-walls of some pantomime prison. Only one crack gave a green glimpse of
+walls of some pantomime [[Prison|prison]]. Only one crack gave a green glimpse of
 
-the enclosed shrubbery, where, on one side of the house, was a high
+the enclosed shrubbery, where, on one side of the [[house]], was a high
 
 narrow gate of a lattice pattern, which was always kept locked; but
 
 through the loopholes the stranger in the street could just see the
 
-glimmer of moonlight on the leaves. But the stranger in the street (if
+glimmer of moonlight on the [[Leaves|leaves]]. But the stranger in the street (if
 
 Dr. Judson may be so described) could at this moment see something else,
 
@@ -172,7 +172,7 @@ monkeys that had formed the topic of conversation. He seemed, however, to
 
 be an unusually tall monkey and when he came to the top rung of his
 
-ladder-towering as if he might tip over into the street-the wind of that
+ladder-towering as if he might tip over into the street-the [[Wind|wind]] of that
 
 high place took two long locks of his hair and waved them fantastically,
 
@@ -180,9 +180,9 @@ as if he were a sort of demon with two horns which he could move like
 
 ears. But that last touch, in which some might find the culmination of
 
-the uncanny, the common sense of Dr. Judson found reality and
+the [[Uncanny|uncanny]], the common sense of Dr. Judson found reality and
 
-recognition. He was well acquainted with those two exceedingly annoying
+recognition. He was [[Well|well]] acquainted with those two exceedingly annoying
 
 wisps of hair. He had seen them flopping (as he would have illiberally
 
@@ -210,10 +210,10 @@ must be quite a case for a psychologist."
 
 "It seems to me to be a case for a policeman," said Dr. Judson. "May I
 
-ask what you are doing in Windrush's garden, which he likes to keep
+ask what you are doing in Windrush's [[Garden|garden]], which he likes to keep
 
 locked up-and anyhow, why you should leave it in that fashion?"
 
 
 
-"I might very well ask why you should ask," replied the other pleasantly.
+"I might very [[Well|well]] ask why you should ask," replied the other pleasantly.

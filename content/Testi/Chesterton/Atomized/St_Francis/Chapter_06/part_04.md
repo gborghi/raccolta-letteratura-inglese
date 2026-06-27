@@ -15,13 +15,13 @@ tags:
 
 
 But even apart from any miraculous powers, men of that magnetic sort,
-with that intense interest in animals, often have an extraordinary
+with that intense interest in [[Animals|animals]], often have an extraordinary
 power over them.  St. Francis's power was always exercised with this
 elaborate politeness.  Much of it was doubtless a sort of symbolic joke,
 a pious pantomime intended to convey the vital distinction
 in his divine mission, that he not only loved but reverenced God
 in all his creatures.  In this sense he had the air not only
-of apologising to the cat or to the birds, but of apologising
+of apologising to the cat or to the [[Birds|birds]], but of apologising
 to a chair for sitting on it or to a table for sitting down at it.
 Any one who had followed him through life merely to laugh at him,
 as a sort of lovable lunatic, might easily have had an impression as of
@@ -40,14 +40,14 @@ from any mere demagogue is that he never either deceived or was deceived
 by the illusion of mass-suggestion. Whatever his taste in monsters,
 he never saw before him a many-headed beast.  He only saw the image
 of God multiplied but never monotonous.  To him a man was always a man
-and did not disappear in a dense crowd any more than in a desert.
+and did not disappear in a dense crowd any more than in a [[Desert|desert]].
 He honoured all men; that is, he not only loved but respected them all.
 What gave him his extraordinary personal power was this;
 that from the Pope to the beggar, from the sultan of Syria
 in his pavilion to the ragged robbers crawling out of the wood,
 there was never a man who looked into those brown burning eyes without
 being certain that Francis Bernardone was really interested in him;
-in his own inner individual life from the cradle to the grave;
+in his own inner individual life from the cradle to the [[Grave|grave]];
 that he himself was being valued and taken seriously, and not
 merely added to the spoils of some social policy or the names
 in some clerical document.  Now for this particular moral and
@@ -57,34 +57,34 @@ beneficence does not express it, for it is not mere pity.
 It can only be conveyed by a certain grand manner which may be called
 good manners.  We may say if we like that St. Francis, in the bare
 and barren simplicity of his life, had clung to one rag of luxury;
-the manners of a court.
+the manners of a [[Court|court]].
 
-But whereas in a court there is one king and a hundred courtiers,
+But whereas in a [[Court|court]] there is one [[King|king]] and a hundred courtiers,
 in this story there was one courtier, moving among a hundred kings.
 For he treated the whole mob of men as a mob of kings.
 And this was really and truly the only attitude that will
 appeal to that part of man to which he wished to appeal.
 It cannot be done by giving gold or even bread; for it is
 a proverb that any reveller may fling largesse in mere scorn.
-It cannot even be done by giving time and attention; for any
+It cannot even be done by giving [[Time|time]] and attention; for any
 number of philanthropists and benevolent bureaucrats do such
 work with a scorn far more cold and horrible in their hearts.
 No plans or proposals or efficient rearrangements will give back
-to a broken man his self-respect and sense of speaking with an equal.
+to a broken man his [[Self|self]]-respect and sense of speaking with an equal.
 One gesture will do it.
 
 With that gesture Francis of Assisi moved among men; and it was soon
-found to have something in it of magic and to act, in a double sense,
+found to have something in it of [[Magic|magic]] and to act, in a [[Double|double]] sense,
 like a charm.  But it must always be conceived as a completely
 natural gesture; for indeed it was almost a gesture of apology.
 He must be imagined as moving thus swiftly through the world with
 a sort of impetuous politeness; almost like the movement of a man
 who stumbles on one knee half in haste and half in obeisance.
 The eager face under the brown hood was that of a man always
-going somewhere, as if he followed as well as watched the flight
-of the birds.  And this sense of motion is indeed the meaning
+going somewhere, as if he followed as [[Well|well]] as watched the flight
+of the [[Birds|birds]].  And this sense of motion is indeed the meaning
 of the whole revolution that he made; for the work that has now
-to be described was of the nature of an earthquake or a volcano,
+to be described was of the [[Nature|nature]] of an earthquake or a volcano,
 an explosion that drove outwards with dynamic energy the forces
 stored up by ten centuries in the monastic fortress or arsenal
 and scattered all its riches recklessly to the ends of the earth.
@@ -96,4 +96,4 @@ The servants of God who had been a besieged garrison became
 a marching army; the ways of the world were filled as with thunder
 with the trampling of their feet and far ahead of that ever swelling
 host went a man singing; as simply he had sung that morning
-in the winter woods, where he walked alone.
+in the [[Winter|winter]] woods, where he walked [[Alone|alone]].

@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 56: AN IMPORTANT CONFERENCE TAKES PLACE BETWEEN MR. PICKWICK"
+title: "The [[Pickwick]] Papers — Chapter 56: AN IMPORTANT CONFERENCE TAKES PLACE BETWEEN MR. [[Pickwick|PICKWICK]]"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-CHAPTER LVI. AN IMPORTANT CONFERENCE TAKES PLACE BETWEEN MR. PICKWICK
+CHAPTER LVI. AN IMPORTANT CONFERENCE TAKES PLACE BETWEEN MR. [[Pickwick|PICKWICK]]
 AND SAMUEL WELLER, AT WHICH HIS PARENT ASSISTS--AN OLD GENTLEMAN IN A
 SNUFF-COLOURED SUIT ARRIVES UNEXPECTEDLY
 
-Mr. Pickwick was sitting alone, musing over many things, and thinking
+Mr. [[Pickwick]] was sitting [[Alone|alone]], musing over many things, and thinking
 among other considerations how he could best provide for the young
 couple whose present unsettled condition was matter of constant regret
 and anxiety to him, when Mary stepped lightly into the room, and,
@@ -27,81 +27,81 @@ advancing to the table, said, rather hastily--
 ‘Oh, if you please, Sir, Samuel is downstairs, and he says may his
 father see you?’
 
-‘Surely,’ replied Mr. Pickwick.
+‘Surely,’ replied Mr. [[Pickwick]].
 
 ‘Thank you, Sir,’ said Mary, tripping towards the door again.
 
-‘Sam has not been here long, has he?’ inquired Mr. Pickwick.
+‘Sam has not been here long, has he?’ inquired Mr. [[Pickwick]].
 
-‘Oh, no, Sir,’ replied Mary eagerly. ‘He has only just come home. He is
+‘Oh, no, Sir,’ replied Mary eagerly. ‘He has only just come [[Home|home]]. He is
 not going to ask you for any more leave, Sir, he says.’
 
 Mary might have been conscious that she had communicated this last
 intelligence with more warmth than seemed actually necessary, or she
-might have observed the good-humoured smile with which Mr. Pickwick
+might have observed the good-humoured smile with which Mr. [[Pickwick]]
 regarded her, when she had finished speaking. She certainly held down
 her head, and examined the corner of a very smart little apron, with
 more closeness than there appeared any absolute occasion for.
 
-‘Tell them they can come up at once, by all means,’ said Mr. Pickwick.
+‘Tell them they can come up at once, by all means,’ said Mr. [[Pickwick]].
 
 Mary, apparently much relieved, hurried away with her message.
 
-Mr. Pickwick took two or three turns up and down the room; and, rubbing
+Mr. [[Pickwick]] took two or three turns up and down the room; and, rubbing
 his chin with his left hand as he did so, appeared lost in thought.
 
-‘Well, well,’ said Mr. Pickwick, at length in a kind but somewhat
-melancholy tone, ‘it is the best way in which I could reward him for his
+‘[[Well]], [[Well|well]],’ said Mr. [[Pickwick]], at length in a kind but somewhat
+[[Melancholy|melancholy]] tone, ‘it is the best way in which I could reward him for his
 attachment and fidelity; let it be so, in Heaven’s name. It is the fate
 of a lonely old man, that those about him should form new and different
 attachments and leave him. I have no right to expect that it should be
-otherwise with me. No, no,’ added Mr. Pickwick more cheerfully, ‘it
+otherwise with me. No, no,’ added Mr. [[Pickwick]] more cheerfully, ‘it
 would be selfish and ungrateful. I ought to be happy to have an
-opportunity of providing for him so well. I am. Of course I am.’
+opportunity of providing for him so [[Well|well]]. I am. Of course I am.’
 
-Mr. Pickwick had been so absorbed in these reflections, that a knock at
+Mr. [[Pickwick]] had been so absorbed in these reflections, that a knock at
 the door was three or four times repeated before he heard it. Hastily
 seating himself, and calling up his accustomed pleasant looks, he gave
-the required permission, and Sam Weller entered, followed by his father.
+the required permission, and [[Sam Weller]] entered, followed by his father.
 
-‘Glad to see you back again, Sam,’ said Mr. Pickwick. ‘How do you do,
+‘Glad to see you back again, Sam,’ said Mr. [[Pickwick]]. ‘How do you do,
 Mr. Weller?’
 
-‘Wery hearty, thank’ee, sir,’ replied the widower; ‘hope I see you well,
+‘Wery hearty, thank’ee, sir,’ replied the widower; ‘[[Hope|hope]] I see you [[Well|well]],
 sir.’
 
-‘Quite, I thank you,’ replied Mr. Pickwick.
+‘Quite, I thank you,’ replied Mr. [[Pickwick]].
 
 ‘I wanted to have a little bit o’ conwersation with you, sir,’ said Mr.
 Weller, ‘if you could spare me five minits or so, sir.’
 
-‘Certainly,’ replied Mr. Pickwick. ‘Sam, give your father a chair.’
+‘Certainly,’ replied Mr. [[Pickwick]]. ‘Sam, give your father a chair.’
 
 ‘Thank’ee, Samivel, I’ve got a cheer here,’ said Mr. Weller, bringing
 one forward as he spoke; ‘uncommon fine day it’s been, sir,’ added the
 old gentleman, laying his hat on the floor as he sat himself down.
 
-‘Remarkably so, indeed,’ replied Mr. Pickwick. ‘Very seasonable.’
+‘Remarkably so, indeed,’ replied Mr. [[Pickwick]]. ‘Very seasonable.’
 
 ‘Seasonablest veather I ever see, sir,’ rejoined Mr. Weller. Here, the
 old gentleman was seized with a violent fit of coughing, which, being
 terminated, he nodded his head and winked and made several supplicatory
-and threatening gestures to his son, all of which Sam Weller steadily
+and threatening gestures to his son, all of which [[Sam Weller]] steadily
 abstained from seeing.
 
-Mr. Pickwick, perceiving that there was some embarrassment on the old
-gentleman’s part, affected to be engaged in cutting the leaves of a book
+Mr. [[Pickwick]], perceiving that there was some embarrassment on the old
+gentleman’s part, affected to be engaged in cutting the [[Leaves|leaves]] of a book
 that lay beside him, and waited patiently until Mr. Weller should arrive
 at the object of his visit.
 
 ‘I never see sich a aggrawatin’ boy as you are, Samivel,’ said Mr.
 Weller, looking indignantly at his son; ‘never in all my born days.’
 
-‘What is he doing, Mr. Weller?’ inquired Mr. Pickwick.
+‘What is he doing, Mr. Weller?’ inquired Mr. [[Pickwick]].
 
 ‘He von’t begin, sir,’ rejoined Mr. Weller; ‘he knows I ain’t ekal to
 ex-pressin’ myself ven there’s anythin’ partickler to be done, and yet
-he’ll stand and see me a-settin’ here taking up your walable time, and
+he’ll stand and see me a-settin’ here taking up your walable [[Time|time]], and
 makin’ a reg’lar spectacle o’ myself, rayther than help me out vith a
 syllable. It ain’t filial conduct, Samivel,’ said Mr. Weller, wiping his
 forehead; ‘wery far from it.’
@@ -110,7 +110,7 @@ forehead; ‘wery far from it.’
 at the wery beginnin’?’
 
 ‘You might ha’ seen I warn’t able to start,’ rejoined his father; ‘I’m
-on the wrong side of the road, and backin’ into the palin’s, and all
+on the wrong side of the [[Road|road]], and backin’ into the palin’s, and all
 manner of unpleasantness, and yet you von’t put out a hand to help me.
 I’m ashamed on you, Samivel.’
 
@@ -126,7 +126,7 @@ Mr. Weller nodded his head an extraordinary number of times, in the
 excess of his gratification, and waited in a listening attitude for Sam
 to resume his statement.
 
-‘You may sit down, Sam,’ said Mr. Pickwick, apprehending that the
+‘You may sit down, Sam,’ said Mr. [[Pickwick]], apprehending that the
 interview was likely to prove rather longer than he had expected.
 
 Sam bowed again and sat down; his father looking round, he continued--
@@ -140,15 +140,15 @@ Sam; ‘five hundred and thirty pounds is the sum, ain’t it?’
 
 ‘All right, Samivel,’ replied Mr. Weller.
 
-‘To vich sum, he has added for the house and bisness--’
+‘To vich sum, he has added for the [[house]] and bisness--’
 
 ‘Lease, good-vill, stock, and fixters,’ interposed Mr. Weller.
 
 ‘As much as makes it,’ continued Sam, ‘altogether, eleven hundred and
 eighty pound.’
 
-‘Indeed!’ said Mr. Pickwick. ‘I am delighted to hear it. I congratulate
-you, Mr. Weller, on having done so well.’
+‘Indeed!’ said Mr. [[Pickwick]]. ‘I am delighted to hear it. I congratulate
+you, Mr. Weller, on having done so [[Well|well]].’
 
 ‘Vait a minit, Sir,’ said Mr. Weller, raising his hand in a deprecatory
 manner. ‘Get on, Samivel.’
@@ -157,7 +157,7 @@ manner. ‘Get on, Samivel.’
 put someveres, vere he knows it’ll be safe, and I’m wery anxious too,
 for if he keeps it, he’ll go a-lendin’ it to somebody, or inwestin’
 property in horses, or droppin’ his pocket-book down an airy, or makin’
-a Egyptian mummy of his-self in some vay or another.’
+a Egyptian mummy of his-[[Self|self]] in some vay or another.’
 
 ‘Wery good, Samivel,’ observed Mr. Weller, in as complacent a manner as
 if Sam had been passing the highest eulogiums on his prudence and
@@ -171,23 +171,23 @@ to say, leastvays to offer, or in other vords--’
 ain’t o’ no use to me. I’m a-goin’ to vork a coach reg’lar, and ha’n’t
 got noveres to keep it in, unless I vos to pay the guard for takin’ care
 on it, or to put it in vun o’ the coach pockets, vich ‘ud be a
-temptation to the insides. If you’ll take care on it for me, sir, I
+[[Temptation|temptation]] to the insides. If you’ll take care on it for me, sir, I
 shall be wery much obliged to you. P’raps,’ said Mr. Weller, walking up
-to Mr. Pickwick and whispering in his ear--‘p’raps it’ll go a little vay
+to Mr. [[Pickwick]] and whispering in his ear--‘p’raps it’ll go a little vay
 towards the expenses o’ that ‘ere conwiction. All I say is, just you
 keep it till I ask you for it again.’ With these words, Mr. Weller
-placed the pocket-book in Mr. Pickwick’s hands, caught up his hat, and
+placed the pocket-book in Mr. [[Pickwick]]’s hands, caught up his hat, and
 ran out of the room with a celerity scarcely to be expected from so
 corpulent a subject.
 
-‘Stop him, Sam!’ exclaimed Mr. Pickwick earnestly. ‘Overtake him; bring
+‘Stop him, Sam!’ exclaimed Mr. [[Pickwick]] earnestly. ‘Overtake him; bring
 him back instantly! Mr. Weller--here--come back!’
 
 Sam saw that his master’s injunctions were not to be disobeyed; and,
 catching his father by the arm as he was descending the stairs, dragged
 him back by main force.
 
-‘My good friend,’ said Mr. Pickwick, taking the old man by the hand,
+‘My good friend,’ said Mr. [[Pickwick]], taking the old man by the hand,
 ‘your honest confidence overpowers me.’
 
 ‘I don’t see no occasion for nothin’ o’ the kind, Sir,’ replied Mr.
@@ -195,22 +195,22 @@ Weller obstinately.
 
 ‘I assure you, my good friend, I have more money than I can ever need;
 far more than a man at my age can ever live to spend,’ said Mr.
-Pickwick.
+[[Pickwick]].
 
 ‘No man knows how much he can spend, till he tries,’ observed Mr.
 Weller.
 
-‘Perhaps not,’ replied Mr. Pickwick; ‘but as I have no intention of
+‘Perhaps not,’ replied Mr. [[Pickwick]]; ‘but as I have no intention of
 trying any such experiments, I am not likely to come to want. I must beg
 you to take this back, Mr. Weller.’
 
-Wery well,’ said Mr. Weller, with a discontented look. ‘Mark my vords,
+Wery [[Well|well]],’ said Mr. Weller, with a discontented look. ‘Mark my vords,
 Sammy, I’ll do somethin’ desperate vith this here property; somethin’
 desperate!’
 
 ‘You’d better not,’ replied Sam.
 
-Mr. Weller reflected for a short time, and then, buttoning up his coat
+Mr. Weller reflected for a short [[Time|time]], and then, buttoning up his coat
 with great determination, said--
 
 ‘I’ll keep a pike.’
@@ -223,39 +223,39 @@ to a pike.’
 
 This threat was such an awful one, and Mr. Weller, besides appearing
 fully resolved to carry it into execution, seemed so deeply mortified by
-Mr. Pickwick’s refusal, that that gentleman, after a short reflection,
+Mr. [[Pickwick]]’s refusal, that that gentleman, after a short reflection,
 said--
 
-‘Well, well, Mr. Weller, I will keep your money. I can do more good with
+‘[[Well]], [[Well|well]], Mr. Weller, I will keep your money. I can do more good with
 it, perhaps, than you can.’
 
 ‘Just the wery thing, to be sure,’ said Mr. Weller, brightening up; ‘o’
 course you can, sir.’
 
-‘Say no more about it,’ said Mr. Pickwick, locking the pocket-book in
+‘Say no more about it,’ said Mr. [[Pickwick]], locking the pocket-book in
 his desk; ‘I am heartily obliged to you, my good friend. Now sit down
 again. I want to ask your advice.’
 
-The internal laughter occasioned by the triumphant success of his visit,
+The internal laughter occasioned by the triumphant [[success]] of his visit,
 which had convulsed not only Mr. Weller’s face, but his arms, legs, and
-body also, during the locking up of the pocket-book, suddenly gave place
+[[Body|body]] also, during the locking up of the pocket-book, suddenly gave place
 to the most dignified gravity as he heard these words.
 
-‘Wait outside a few minutes, Sam, will you?’ said Mr. Pickwick.
+‘Wait outside a few minutes, Sam, will you?’ said Mr. [[Pickwick]].
 
 Sam immediately withdrew.
 
 Mr. Weller looked uncommonly wise and very much amazed, when Mr.
-Pickwick opened the discourse by saying--
+[[Pickwick]] opened the discourse by saying--
 
 ‘You are not an advocate for matrimony, I think, Mr. Weller?’
 
 Mr. Weller shook his head. He was wholly unable to speak; vague thoughts
 of some wicked widow having been successful in her designs on Mr.
-Pickwick, choked his utterance.
+[[Pickwick]], choked his utterance.
 
 ‘Did you happen to see a young girl downstairs when you came in just now
-with your son?’ inquired Mr. Pickwick.
+with your son?’ inquired Mr. [[Pickwick]].
 
 ‘Yes. I see a young gal,’ replied Mr. Weller shortly.
 
@@ -265,120 +265,120 @@ think of her?’
 ‘I thought she wos wery plump, and vell made,’ said Mr. Weller, with a
 critical air.
 
-‘So she is,’ said Mr. Pickwick, ‘so she is. What did you think of her
+‘So she is,’ said Mr. [[Pickwick]], ‘so she is. What did you think of her
 manners, from what you saw of her?’
 
 ‘Wery pleasant,’ rejoined Mr. Weller. ‘Wery pleasant and comformable.’
 
 The precise meaning which Mr. Weller attached to this last-mentioned
 adjective, did not appear; but, as it was evident from the tone in which
-he used it that it was a favourable expression, Mr. Pickwick was as well
+he used it that it was a favourable expression, Mr. [[Pickwick]] was as [[Well|well]]
 satisfied as if he had been thoroughly enlightened on the subject.
 
-‘I take a great interest in her, Mr. Weller,’ said Mr. Pickwick.
+‘I take a great interest in her, Mr. Weller,’ said Mr. [[Pickwick]].
 
 Mr. Weller coughed.
 
-‘I mean an interest in her doing well,’ resumed Mr. Pickwick; ‘a desire
+‘I mean an interest in her doing [[Well|well]],’ resumed Mr. [[Pickwick]]; ‘a [[Desire|desire]]
 that she may be comfortable and prosperous. You understand?’
 
 ‘Wery clearly,’ replied Mr. Weller, who understood nothing yet.
 
-‘That young person,’ said Mr. Pickwick, ‘is attached to your son.’
+‘That young person,’ said Mr. [[Pickwick]], ‘is attached to your son.’
 
 ‘To Samivel Veller!’ exclaimed the parent.
 
-‘Yes,’ said Mr. Pickwick.
+‘Yes,’ said Mr. [[Pickwick]].
 
 ‘It’s nat’ral,’ said Mr. Weller, after some consideration, ‘nat’ral, but
 rayther alarmin’. Sammy must be careful.’
 
-‘How do you mean?’ inquired Mr. Pickwick.
+‘How do you mean?’ inquired Mr. [[Pickwick]].
 
 ‘Wery careful that he don’t say nothin’ to her,’ responded Mr. Weller.
-‘Wery careful that he ain’t led avay, in a innocent moment, to say
+‘Wery careful that he ain’t led avay, in a [[Innocent|innocent]] moment, to say
 anythin’ as may lead to a conwiction for breach. You’re never safe vith
-‘em, Mr. Pickwick, ven they vunce has designs on you; there’s no knowin’
+‘em, Mr. [[Pickwick]], ven they vunce has designs on you; there’s no knowin’
 vere to have ‘em; and vile you’re a-considering of it, they have you. I
 wos married fust, that vay myself, Sir, and Sammy wos the consekens o’
 the manoover.’
 
 ‘You give me no great encouragement to conclude what I have to say,’
-observed Mr. Pickwick, ‘but I had better do so at once. This young
+observed Mr. [[Pickwick]], ‘but I had better do so at once. This young
 person is not only attached to your son, Mr. Weller, but your son is
 attached to her.’
 
 ‘Vell,’ said Mr. Weller, ‘this here’s a pretty sort o’ thing to come to
 a father’s ears, this is!’
 
-‘I have observed them on several occasions,’ said Mr. Pickwick, making
-no comment on Mr. Weller’s last remark; ‘and entertain no doubt at all
+‘I have observed them on several occasions,’ said Mr. [[Pickwick]], making
+no comment on Mr. Weller’s last remark; ‘and entertain no [[Doubt|doubt]] at all
 about it. Supposing I were desirous of establishing them comfortably as
-man and wife in some little business or situation, where they might hope
+man and wife in some little business or situation, where they might [[Hope|hope]]
 to obtain a decent living, what should you think of it, Mr. Weller?’
 
 At first, Mr. Weller received with wry faces a proposition involving the
-marriage of anybody in whom he took an interest; but, as Mr. Pickwick
+[[Marriage|marriage]] of anybody in whom he took an interest; but, as Mr. [[Pickwick]]
 argued the point with him, and laid great stress on the fact that Mary
-was not a widow, he gradually became more tractable. Mr. Pickwick had
+was not a widow, he gradually became more tractable. Mr. [[Pickwick]] had
 great influence over him, and he had been much struck with Mary’s
 appearance; having, in fact, bestowed several very unfatherly winks upon
 her, already. At length he said that it was not for him to oppose Mr.
-Pickwick’s inclination, and that he would be very happy to yield to his
-advice; upon which, Mr. Pickwick joyfully took him at his word, and
+[[Pickwick]]’s inclination, and that he would be very happy to yield to his
+advice; upon which, Mr. [[Pickwick]] joyfully took him at his word, and
 called Sam back into the room.
 
-‘Sam,’ said Mr. Pickwick, clearing his throat, ‘your father and I have
+‘Sam,’ said Mr. [[Pickwick]], clearing his throat, ‘your father and I have
 been having some conversation about you.’
 
 ‘About you, Samivel,’ said Mr. Weller, in a patronising and impressive
 voice.
 
-‘I am not so blind, Sam, as not to have seen, a long time since, that
+‘I am not so blind, Sam, as not to have seen, a long [[Time|time]] since, that
 you entertain something more than a friendly feeling towards Mrs.
-Winkle’s maid,’ said Mr. Pickwick.
+Winkle’s maid,’ said Mr. [[Pickwick]].
 
 ‘You hear this, Samivel?’ said Mr. Weller, in the same judicial form of
 speech as before.
 
-‘I hope, Sir,’ said Sam, addressing his master, ‘I hope there’s no harm
+‘I [[Hope|hope]], Sir,’ said Sam, addressing his master, ‘I [[Hope|hope]] there’s no harm
 in a young man takin’ notice of a young ‘ooman as is undeniably good-
-looking and well-conducted.’
+looking and [[Well|well]]-conducted.’
 
-‘Certainly not,’ said Mr. Pickwick.
+‘Certainly not,’ said Mr. [[Pickwick]].
 
 ‘Not by no means,’ acquiesced Mr. Weller, affably but magisterially.
 
 ‘So far from thinking there is anything wrong in conduct so natural,’
-resumed Mr. Pickwick, ‘it is my wish to assist and promote your wishes
+resumed Mr. [[Pickwick]], ‘it is my wish to assist and promote your wishes
 in this respect. With this view, I have had a little conversation with
 your father; and finding that he is of my opinion--’
 
 ‘The lady not bein’ a widder,’ interposed Mr. Weller in explanation.
 
-‘The lady not being a widow,’ said Mr. Pickwick, smiling. ‘I wish to
+‘The lady not being a widow,’ said Mr. [[Pickwick]], smiling. ‘I wish to
 free you from the restraint which your present position imposes upon
 you, and to mark my sense of your fidelity and many excellent qualities,
 by enabling you to marry this girl at once, and to earn an independent
 livelihood for yourself and family. I shall be proud, Sam,’ said Mr.
-Pickwick, whose voice had faltered a little hitherto, but now resumed
+[[Pickwick]], whose voice had faltered a little hitherto, but now resumed
 its customary tone, ‘proud and happy to make your future prospects in
 life my grateful and peculiar care.’
 
-There was a profound silence for a short time, and then Sam said, in a
+There was a profound [[Silence|silence]] for a short [[Time|time]], and then Sam said, in a
 low, husky sort of voice, but firmly withal--
 
 ‘I’m very much obliged to you for your goodness, Sir, as is only like
 yourself; but it can’t be done.’
 
-‘Can’t be done!’ ejaculated Mr. Pickwick in astonishment.
+‘Can’t be done!’ ejaculated Mr. [[Pickwick]] in astonishment.
 
 ‘Samivel!’ said Mr. Weller, with dignity.
 
 ‘I say it can’t be done,’ repeated Sam in a louder key. ‘Wot’s to become
 of you, Sir?’
 
-‘My good fellow,’ replied Mr. Pickwick, ‘the recent changes among my
+‘My good fellow,’ replied Mr. [[Pickwick]], ‘the recent changes among my
 friends will alter my mode of life in future, entirely; besides, I am
 growing older, and want repose and quiet. My rambles, Sam, are over.’
 
@@ -391,7 +391,7 @@ can’t be done, Sir, it can’t be done.’
 encouragingly.
 
 ‘I speak after long deliberation, Sam, and with the certainty that I
-shall keep my word,’ said Mr. Pickwick, shaking his head. ‘New scenes
+shall keep my word,’ said Mr. [[Pickwick]], shaking his head. ‘New scenes
 have closed upon me; my rambles are at an end.’
 
 ‘Wery good,’ rejoined Sam. ‘Then, that’s the wery best reason wy you
@@ -404,11 +404,11 @@ ev’rythin’ and ev’rybody do their wery fiercest, nothin’ shall ever
 perwent it!’
 
 At the close of this declaration, which Sam made with great emotion, the
-elder Mr. Weller rose from his chair, and, forgetting all considerations
-of time, place, or propriety, waved his hat above his head, and gave
+elder Mr. Weller [[Rose|rose]] from his chair, and, forgetting all considerations
+of [[Time|time]], place, or propriety, waved his hat above his head, and gave
 three vehement cheers.
 
-‘My good fellow,’ said Mr. Pickwick, when Mr. Weller had sat down again,
+‘My good fellow,’ said Mr. [[Pickwick]], when Mr. Weller had sat down again,
 rather abashed at his own enthusiasm, ‘you are bound to consider the
 young woman also.’
 
@@ -419,19 +419,19 @@ she’s not the young ‘ooman I take her for, and I give her up vith
 readiness. You’ve know’d me afore, Sir. My mind’s made up, and nothin’
 can ever alter it.’
 
-Who could combat this resolution? Not Mr. Pickwick. He derived, at that
-moment, more pride and luxury of feeling from the disinterested
+Who could combat this resolution? Not Mr. [[Pickwick]]. He derived, at that
+moment, more [[Pride|pride]] and luxury of feeling from the disinterested
 attachment of his humble friends, than ten thousand protestations from
 the greatest men living could have awakened in his heart.
 
-While this conversation was passing in Mr. Pickwick’s room, a little old
+While this conversation was passing in Mr. [[Pickwick]]’s room, a little old
 gentleman in a suit of snuff-coloured clothes, followed by a porter
 carrying a small portmanteau, presented himself below; and, after
-securing a bed for the night, inquired of the waiter whether one Mrs.
+securing a bed for the [[Night|night]], inquired of the waiter whether one Mrs.
 Winkle was staying there, to which question the waiter of course
 responded in the affirmative.
 
-‘Is she alone?’ inquired the old gentleman.
+‘Is she [[Alone|alone]]?’ inquired the old gentleman.
 
 ‘I believe she is, Sir,’ replied the waiter; ‘I can call her own maid,
 Sir, if you--’
@@ -449,7 +449,7 @@ room without announcing me.’
 
 ‘Yes, Sir.’
 
-‘That’s well. Show me to Mrs. Winkle’s room, without announcing me.’
+‘That’s [[Well|well]]. Show me to Mrs. Winkle’s room, without announcing me.’
 
 As the little old gentleman uttered this command, he slipped five
 shillings into the waiter’s hand, and looked steadily at him.
@@ -457,7 +457,7 @@ shillings into the waiter’s hand, and looked steadily at him.
 ‘Really, sir,’ said the waiter, ‘I don’t know, sir, whether--’
 
 ‘Ah! you’ll do it, I see,’ said the little old gentleman. ‘You had
-better do it at once. It will save time.’
+better do it at once. It will save [[Time|time]].’
 
 There was something so very cool and collected in the gentleman’s
 manner, that the waiter put the five shillings in his pocket, and led
@@ -473,7 +473,7 @@ tapped at the door.
 
 ‘Um, a pretty voice, at any rate,’ murmured the little old gentleman;
 ‘but that’s nothing.’ As he said this, he opened the door and walked in.
-Arabella, who was sitting at work, rose on beholding a stranger--a
+Arabella, who was sitting at work, [[Rose|rose]] on beholding a stranger--a
 little confused--but by no means ungracefully so.
 
 ‘Pray don’t rise, ma’am,’ said the unknown, walking in, and closing the
@@ -481,7 +481,7 @@ door after him. ‘Mrs. Winkle, I believe?’
 
 Arabella inclined her head.
 
-‘Mrs. Nathaniel Winkle, who married the son of the old man at
+‘Mrs. [[Nathaniel Winkle]], who married the son of the old man at
 Birmingham?’ said the stranger, eyeing Arabella with visible curiosity.
 
 Again Arabella inclined her head, and looked uneasily round, as if
@@ -533,8 +533,8 @@ father’s wishes?’ said the old gentleman. ‘This is what boys and girls
 call disinterested affection, till they have boys and girls of their
 own, and then they see it in a rougher and very different light!’
 
-Arabella’s tears flowed fast, as she pleaded in extenuation that she was
-young and inexperienced; that her attachment had alone induced her to
+Arabella’s [[Tears|tears]] flowed fast, as she pleaded in extenuation that she was
+young and inexperienced; that her attachment had [[Alone|alone]] induced her to
 take the step to which she had resorted; and that she had been deprived
 of the counsel and guidance of her parents almost from infancy.
 
@@ -544,13 +544,13 @@ was romantic, unbusinesslike, foolish.’
 ‘It was my fault; all my fault, Sir,’ replied poor Arabella, weeping.
 
 ‘Nonsense,’ said the old gentleman; ‘it was not your fault that he fell
-in love with you, I suppose? Yes it was, though,’ said the old
+in [[Love|love]] with you, I suppose? Yes it was, though,’ said the old
 gentleman, looking rather slily at Arabella. ‘It was your fault. He
 couldn’t help it.’
 
 This little compliment, or the little gentleman’s odd way of paying it,
 or his altered manner--so much kinder than it was, at first--or all
-three together, forced a smile from Arabella in the midst of her tears.
+three together, forced a smile from Arabella in the midst of her [[Tears|tears]].
 
 ‘Where’s your husband?’ inquired the old gentleman, abruptly; stopping a
 smile which was just coming over his own face.
@@ -577,12 +577,12 @@ entered the room.
 
 ‘Father!’ cried Mr. Winkle, recoiling in amazement.
 
-‘Yes, sir,’ replied the little old gentleman. ‘Well, Sir, what have you
+‘Yes, sir,’ replied the little old gentleman. ‘[[Well]], Sir, what have you
 got to say to me?’
 
 Mr. Winkle remained silent.
 
-‘You are ashamed of yourself, I hope, Sir?’ said the old gentleman.
+‘You are ashamed of yourself, I [[Hope|hope]], Sir?’ said the old gentleman.
 
 Still Mr. Winkle said nothing.
 
@@ -595,34 +595,34 @@ not ashamed of myself, or of my wife either.’
 ‘Upon my word!’ cried the old gentleman ironically.
 
 ‘I am very sorry to have done anything which has lessened your affection
-for me, Sir,’ said Mr. Winkle; ‘but I will say, at the same time, that I
+for me, Sir,’ said Mr. Winkle; ‘but I will say, at the same [[Time|time]], that I
 have no reason to be ashamed of having this lady for my wife, nor you of
 having her for a daughter.’
 
 ‘Give me your hand, Nat,’ said the old gentleman, in an altered voice.
-‘Kiss me, my love. You are a very charming little daughter-in-law after
+‘Kiss me, my [[Love|love]]. You are a very charming little daughter-in-law after
 all!’
 
-In a few minutes’ time Mr. Winkle went in search of Mr. Pickwick, and
+In a few minutes’ [[Time|time]] Mr. Winkle went in search of Mr. [[Pickwick]], and
 returning with that gentleman, presented him to his father, whereupon
 they shook hands for five minutes incessantly.
 
-‘Mr. Pickwick, I thank you most heartily for all your kindness to my
+‘Mr. [[Pickwick]], I thank you most heartily for all your kindness to my
 son,’ said old Mr. Winkle, in a bluff, straightforward way. ‘I am a
 hasty fellow, and when I saw you last, I was vexed and taken by
 surprise. I have judged for myself now, and am more than satisfied.
-Shall I make any more apologies, Mr. Pickwick?’
+Shall I make any more apologies, Mr. [[Pickwick]]?’
 
 ‘Not one,’ replied that gentleman. ‘You have done the only thing wanting
 to complete my happiness.’
 
 Hereupon there was another shaking of hands for five minutes longer,
 accompanied by a great number of complimentary speeches, which, besides
-being complimentary, had the additional and very novel recommendation of
+being complimentary, had the additional and very [[Novel|novel]] recommendation of
 being sincere.
 
 Sam had dutifully seen his father to the Belle Sauvage, when, on
-returning, he encountered the fat boy in the court, who had been charged
+returning, he encountered the fat boy in the [[Court|court]], who had been charged
 with the delivery of a note from Emily Wardle.
 
 ‘I say,’ said Joe, who was unusually loquacious, ‘what a pretty girl
@@ -631,4 +631,4 @@ Mary is, isn’t she? I am _so_ fond of her, I am!’
 Mr. Weller made no verbal remark in reply; but eyeing the fat boy for a
 moment, quite transfixed at his presumption, led him by the collar to
 the corner, and dismissed him with a harmless but ceremonious kick.
-After which, he walked home, whistling.
+After which, he walked [[Home|home]], whistling.

@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 42"
+title: "[[Sense and Sensibility]] — Chapter 42"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,7 +24,7 @@ One other short call in Harley Street, in which Elinor received her
 
 brother’s congratulations on their travelling so far towards Barton
 
-without any expense, and on Colonel Brandon’s being to follow them to
+without any expense, and on [[Colonel Brandon]]’s being to follow them to
 
 Cleveland in a day or two, completed the intercourse of the brother and
 
@@ -48,7 +48,7 @@ her to Delaford;—a place, in which, of all others, she would now least
 
 chuse to visit, or wish to reside; for not only was it considered as
 
-her future home by her brother and Mrs. Jennings, but even Lucy, when
+her future [[Home|home]] by her brother and Mrs. Jennings, but even Lucy, when
 
 they parted, gave her a pressing invitation to visit her there.
 
@@ -58,29 +58,29 @@ Very early in April, and tolerably early in the day, the two parties
 
 from Hanover Square and Berkeley Street set out from their respective
 
-homes, to meet, by appointment, on the road. For the convenience of
+homes, to meet, by appointment, on the [[Road|road]]. For the convenience of
 
-Charlotte and her child, they were to be more than two days on their
+Charlotte and her [[Child|child]], they were to be more than two days on their
 
-journey, and Mr. Palmer, travelling more expeditiously with Colonel
+[[Journey|journey]], and Mr. Palmer, travelling more expeditiously with Colonel
 
 Brandon, was to join them at Cleveland soon after their arrival.
 
 
 
-Marianne, few as had been her hours of comfort in London, and eager as
+Marianne, few as had been her hours of comfort in [[London]], and eager as
 
 she had long been to quit it, could not, when it came to the point, bid
 
-adieu to the house in which she had for the last time enjoyed those
+adieu to the [[house]] in which she had for the last [[Time|time]] enjoyed those
 
 hopes, and that confidence, in Willoughby, which were now extinguished
 
-for ever, without great pain. Nor could she leave the place in which
+for ever, without great [[Pain|pain]]. Nor could she leave the place in which
 
 Willoughby remained, busy in new engagements, and new schemes, in which
 
-_she_ could have no share, without shedding many tears.
+_she_ could have no share, without shedding many [[Tears|tears]].
 
 
 
@@ -92,37 +92,37 @@ creature behind, from whom it would give her a moment’s regret to be
 
 divided for ever, she was pleased to be free herself from the
 
-persecution of Lucy’s friendship, she was grateful for bringing her
+persecution of Lucy’s [[Friendship|friendship]], she was grateful for bringing her
 
-sister away unseen by Willoughby since his marriage, and she looked
+sister away unseen by Willoughby since his [[Marriage|marriage]], and she looked
 
-forward with hope to what a few months of tranquility at Barton might
+forward with [[Hope|hope]] to what a few months of tranquility at Barton might
 
 do towards restoring Marianne’s peace of mind, and confirming her own.
 
 
 
-Their journey was safely performed. The second day brought them into
+Their [[Journey|journey]] was safely performed. The second day brought them into
 
 the cherished, or the prohibited, county of Somerset, for as such was
 
-it dwelt on by turns in Marianne’s imagination; and in the forenoon of
+it dwelt on by turns in Marianne’s [[Imagination|imagination]]; and in the forenoon of
 
 the third they drove up to Cleveland.
 
 
 
-Cleveland was a spacious, modern-built house, situated on a sloping
+Cleveland was a spacious, modern-built [[house]], situated on a sloping
 
 lawn. It had no park, but the pleasure-grounds were tolerably
 
 extensive; and like every other place of the same degree of importance,
 
-it had its open shrubbery, and closer wood walk, a road of smooth
+it had its open shrubbery, and closer wood walk, a [[Road|road]] of smooth
 
 gravel winding round a plantation, led to the front, the lawn was
 
-dotted over with timber, the house itself was under the guardianship of
+dotted over with timber, the [[house]] itself was under the guardianship of
 
 the fir, the mountain-ash, and the acacia, and a thick screen of them
 
@@ -132,17 +132,17 @@ offices.
 
 
 
-Marianne entered the house with a heart swelling with emotion from the
+Marianne entered the [[house]] with a heart swelling with emotion from the
 
 consciousness of being only eighty miles from Barton, and not thirty
 
 from Combe Magna; and before she had been five minutes within its
 
-walls, while the others were busily helping Charlotte to show her child
+walls, while the others were busily helping Charlotte to show her [[Child|child]]
 
 to the housekeeper, she quitted it again, stealing away through the
 
-winding shrubberies, now just beginning to be in beauty, to gain a
+winding shrubberies, now just beginning to be in [[Beauty|beauty]], to gain a
 
 distant eminence; where, from its Grecian temple, her eye, wandering
 
@@ -154,13 +154,13 @@ summits Combe Magna might be seen.
 
 
 
-In such moments of precious, invaluable misery, she rejoiced in tears
+In such moments of precious, invaluable misery, she rejoiced in [[Tears|tears]]
 
 of agony to be at Cleveland; and as she returned by a different circuit
 
-to the house, feeling all the happy privilege of country liberty, of
+to the [[house]], feeling all the happy privilege of country liberty, of
 
-wandering from place to place in free and luxurious solitude, she
+wandering from place to place in free and luxurious [[Solitude|solitude]], she
 
 resolved to spend almost every hour of every day while she remained
 
@@ -168,19 +168,19 @@ with the Palmers, in the indulgence of such solitary rambles.
 
 
 
-She returned just in time to join the others as they quitted the house,
+She returned just in [[Time|time]] to join the others as they quitted the [[house]],
 
 on an excursion through its more immediate premises; and the rest of
 
 the morning was easily whiled away, in lounging round the kitchen
 
-garden, examining the bloom upon its walls, and listening to the
+[[Garden|garden]], examining the bloom upon its walls, and listening to the
 
 gardener’s lamentations upon blights, in dawdling through the
 
-green-house, where the loss of her favourite plants, unwarily exposed,
+green-[[house]], where the loss of her favourite plants, unwarily exposed,
 
-and nipped by the lingering frost, raised the laughter of
+and nipped by the lingering [[Frost|frost]], raised the laughter of
 
 Charlotte,—and in visiting her poultry-yard, where, in the disappointed
 
@@ -212,17 +212,17 @@ dry or pleasant weather for walking.
 
 Their party was small, and the hours passed quietly away. Mrs. Palmer
 
-had her child, and Mrs. Jennings her carpet-work; they talked of the
+had her [[Child|child]], and Mrs. Jennings her carpet-work; they talked of the
 
 friends they had left behind, arranged Lady Middleton’s engagements,
 
-and wondered whether Mr. Palmer and Colonel Brandon would get farther
+and wondered whether Mr. Palmer and [[Colonel Brandon]] would get farther
 
-than Reading that night. Elinor, however little concerned in it, joined
+than Reading that [[Night|night]]. Elinor, however little concerned in it, joined
 
 in their discourse; and Marianne, who had the knack of finding her way
 
-in every house to the library, however it might be avoided by the
+in every [[house]] to the library, however it might be avoided by the
 
 family in general, soon procured herself a book.
 
@@ -230,7 +230,7 @@ family in general, soon procured herself a book.
 
 Nothing was wanting on Mrs. Palmer’s side that constant and friendly
 
-good humour could do, to make them feel themselves welcome. The
+good [[Humour|humour]] could do, to make them feel themselves welcome. The
 
 openness and heartiness of her manner more than atoned for that want of
 
@@ -276,9 +276,9 @@ Jennings and Charlotte. For the rest of his character and habits, they
 
 were marked, as far as Elinor could perceive, with no traits at all
 
-unusual in his sex and time of life. He was nice in his eating,
+unusual in his sex and [[Time|time]] of life. He was nice in his eating,
 
-uncertain in his hours; fond of his child, though affecting to slight
+uncertain in his hours; fond of his [[Child|child]], though affecting to slight
 
 it; and idled away the mornings at billiards, which ought to have been
 
@@ -298,7 +298,7 @@ taste, and diffident feelings.
 
 Of Edward, or at least of some of his concerns, she now received
 
-intelligence from Colonel Brandon, who had been into Dorsetshire
+intelligence from [[Colonel Brandon]], who had been into Dorsetshire
 
 lately; and who, treating her at once as the disinterested friend of
 
@@ -308,13 +308,13 @@ deal of the parsonage at Delaford, described its deficiencies, and told
 
 her what he meant to do himself towards removing them.—His behaviour to
 
-her in this, as well as in every other particular, his open pleasure in
+her in this, as [[Well|well]] as in every other particular, his open pleasure in
 
 meeting her after an absence of only ten days, his readiness to
 
-converse with her, and his deference for her opinion, might very well
+converse with her, and his deference for her opinion, might very [[Well|well]]
 
-justify Mrs. Jennings’s persuasion of his attachment, and would have
+justify Mrs. Jennings’s [[Persuasion|persuasion]] of his attachment, and would have
 
 been enough, perhaps, had not Elinor still, as from the first, believed
 
@@ -334,7 +334,7 @@ of a heavy cold, because unexpressed by words, entirely escaped the
 
 latter lady’s observation;—_she_ could discover in them the quick
 
-feelings, and needless alarm of a lover.
+feelings, and needless alarm of a [[Lover|lover]].
 
 
 
@@ -354,13 +354,13 @@ shoes and stockings—given Marianne a cold so violent as, though for a
 
 day or two trifled with or denied, would force itself by increasing
 
-ailments on the concern of every body, and the notice of herself.
+ailments on the concern of every [[Body|body]], and the notice of herself.
 
 Prescriptions poured in from all quarters, and as usual, were all
 
-declined. Though heavy and feverish, with a pain in her limbs, and a
+declined. Though heavy and feverish, with a [[Pain|pain]] in her limbs, and a
 
-cough, and a sore throat, a good night’s rest was to cure her entirely;
+cough, and a sore throat, a good [[Night|night]]’s rest was to cure her entirely;
 
 and it was with difficulty that Elinor prevailed on her, when she went
 

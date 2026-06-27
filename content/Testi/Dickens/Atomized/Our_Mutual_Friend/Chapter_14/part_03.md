@@ -18,7 +18,7 @@ tags:
 
 Mrs Milvey, looking rather alarmed, her husband added:
 
-‘An orphan, my dear.’
+‘An [[Orphan|orphan]], my dear.’
 
 ‘Oh!’ said Mrs Milvey, reassured for her own little boys.
 
@@ -38,19 +38,19 @@ was against him?
 
 ‘I DON’T think,’ said Mrs Milvey, glancing at the Reverend Frank, ‘—and
 I believe my husband will agree with me when he considers it again—that
-you could possibly keep that orphan clean from snuff. Because his
+you could possibly keep that [[Orphan|orphan]] clean from snuff. Because his
 grandmother takes so MANY ounces, and drops it over him.’
 
 ‘But he would not be living with his grandmother then, Margaretta,’ said
 Mr Milvey.
 
 ‘No, Frank, but it would be impossible to keep her from Mrs Boffin’s
-house; and the MORE there was to eat and drink there, the oftener she
-would go. And she IS an inconvenient woman. I HOPE it’s not uncharitable
+[[house]]; and the MORE there was to eat and drink there, the oftener she
+would go. And she IS an inconvenient woman. I [[Hope|HOPE]] it’s not uncharitable
 to remember that last Christmas Eve she drank eleven cups of tea, and
-grumbled all the time. And she is NOT a grateful woman, Frank. You
-recollect her addressing a crowd outside this house, about her wrongs,
-when, one night after we had gone to bed, she brought back the petticoat
+grumbled all the [[Time|time]]. And she is NOT a grateful woman, Frank. You
+recollect her addressing a crowd outside this [[house]], about her wrongs,
+when, one [[Night|night]] after we had gone to bed, she brought back the petticoat
 of new flannel that had been given her, because it was too short.’
 
 ‘That’s true,’ said Mr Milvey. ‘I don’t think that would do. Would
@@ -60,7 +60,7 @@ little Harrison—’
 
 ‘He has no grandmother, my dear.’
 
-‘No, but I DON’T think Mrs Boffin would like an orphan who squints so
+‘No, but I DON’T think Mrs Boffin would like an [[Orphan|orphan]] who squints so
 MUCH.’
 
 ‘That’s true again,’ said Mr Milvey, becoming haggard with perplexity.
@@ -71,8 +71,8 @@ MUCH.’
 ‘That’s true again,’ said Mr Milvey. ‘Tom Bocker is a nice boy’
 (thoughtfully).
 
-‘But I DOUBT, Frank,’ Mrs Milvey hinted, after a little hesitation, ‘if
-Mrs Boffin wants an orphan QUITE nineteen, who drives a cart and waters
+‘But I [[Doubt|DOUBT]], Frank,’ Mrs Milvey hinted, after a little hesitation, ‘if
+Mrs Boffin wants an [[Orphan|orphan]] QUITE nineteen, who drives a cart and waters
 the roads.’
 
 Mr Milvey referred the point to Mrs Boffin in a look; on that smiling
@@ -88,9 +88,9 @@ am—I don’t think I would have come.’
 ‘No, don’t say that,’ assented Mr Milvey, ‘because we are so much
 obliged to you for giving us the preference.’ Which Mrs Milvey
 confirmed; and really the kind, conscientious couple spoke, as if they
-kept some profitable orphan warehouse and were personally patronized.
+kept some profitable [[Orphan|orphan]] warehouse and were personally patronized.
 ‘But it is a responsible trust,’ added Mr Milvey, ‘and difficult to
-discharge. At the same time, we are naturally very unwilling to lose the
+discharge. At the same [[Time|time]], we are naturally very unwilling to lose the
 chance you so kindly give us, and if you could afford us a day or two
 to look about us,—you know, Margaretta, we might carefully examine the
 workhouse, and the Infant School, and your District.’
@@ -102,24 +102,24 @@ he might have added, ‘in stock,’ and quite as anxiously as if there were
 great competition in the business and he were afraid of losing an order,
 ‘over at the clay-pits; but they are employed by relations or friends,
 and I am afraid it would come at last to a transaction in the way of
-barter. And even if you exchanged blankets for the child—or books
+barter. And even if you exchanged blankets for the [[Child|child]]—or books
 and firing—it would be impossible to prevent their being turned into
 liquor.’
 
 Accordingly, it was resolved that Mr and Mrs Milvey should search for
-an orphan likely to suit, and as free as possible from the foregoing
+an [[Orphan|orphan]] likely to suit, and as free as possible from the foregoing
 objections, and should communicate again with Mrs Boffin. Then, Mr
 Boffin took the liberty of mentioning to Mr Milvey that if Mr Milvey
 would do him the kindness to be perpetually his banker to the extent
 of ‘a twenty-pound note or so,’ to be expended without any reference
 to him, he would be heartily obliged. At this, both Mr Milvey and Mrs
 Milvey were quite as much pleased as if they had no wants of their own,
-but only knew what poverty was, in the persons of other people; and
+but only knew what [[Poverty|poverty]] was, in the persons of other people; and
 so the interview terminated with satisfaction and good opinion on all
 sides.
 
 ‘Now, old lady,’ said Mr Boffin, as they resumed their seats behind the
-hammer-headed horse and man: ‘having made a very agreeable visit there,
+hammer-headed [[Horse|horse]] and man: ‘having made a very agreeable visit there,
 we’ll try Wilfer’s.’
 
 It appeared, on their drawing up at the family gate, that to try
@@ -128,29 +128,29 @@ extreme difficulty of getting into that establishment; three pulls
 at the bell producing no external result; though each was attended
 by audible sounds of scampering and rushing within. At the fourth
 tug—vindictively administered by the hammer-headed young man—Miss
-Lavinia appeared, emerging from the house in an accidental manner, with
+[[Lavinia]] appeared, emerging from the [[house]] in an accidental manner, with
 a bonnet and parasol, as designing to take a contemplative walk. The
 young lady was astonished to find visitors at the gate, and expressed
 her feelings in appropriate action.
 
 ‘Here’s Mr and Mrs Boffin!’ growled the hammer-headed young man through
-the bars of the gate, and at the same time shaking it, as if he were on
+the bars of the gate, and at the same [[Time|time]] shaking it, as if he were on
 view in a Menagerie; ‘they’ve been here half an hour.’
 
-‘Who did you say?’ asked Miss Lavinia.
+‘Who did you say?’ asked Miss [[Lavinia]].
 
 ‘Mr and Mrs BOFFIN’ returned the young man, rising into a roar.
 
-Miss Lavinia tripped up the steps to the house-door, tripped down the
-steps with the key, tripped across the little garden, and opened the
-gate. ‘Please to walk in,’ said Miss Lavinia, haughtily. ‘Our servant is
+Miss [[Lavinia]] tripped up the steps to the [[house]]-door, tripped down the
+steps with the key, tripped across the little [[Garden|garden]], and opened the
+gate. ‘Please to walk in,’ said Miss [[Lavinia]], haughtily. ‘Our servant is
 out.’
 
 Mr and Mrs Boffin complying, and pausing in the little hall until Miss
-Lavinia came up to show them where to go next, perceived three pairs of
+[[Lavinia]] came up to show them where to go next, perceived three pairs of
 listening legs upon the stairs above. Mrs Wilfer’s legs, Miss Bella’s
 legs, Mr George Sampson’s legs.
 
-‘Mr and Mrs Boffin, I think?’ said Lavinia, in a warning voice. Strained
+‘Mr and Mrs Boffin, I think?’ said [[Lavinia]], in a warning voice. Strained
 attention on the part of Mrs Wilfer’s legs, of Miss Bella’s legs, of Mr
 George Sampson’s legs.

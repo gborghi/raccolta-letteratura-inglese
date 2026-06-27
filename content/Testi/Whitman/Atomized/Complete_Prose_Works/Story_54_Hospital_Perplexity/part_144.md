@@ -20,7 +20,7 @@ THE SPANISH ELEMENT IN OUR NATIONALITY
 
 [Our friends at Santa Fe, New Mexico, have just finish'd their
 long-drawn-out anniversary of the 333d year of the settlement of their
-city by the Spanish. The good, gray Walt Whitman was asked to write
+[[City|city]] by the Spanish. The good, gray Walt Whitman was asked to write
 them a poem in commemoration. Instead he wrote them a letter as
 follows:--_Philadelphia Press_, August 5, 1883.]
 
@@ -34,7 +34,7 @@ to decline, with sincere regret. But I will say a few words offhand.
 
 We Americans have yet to really learn our own antecedents, and sort
 them, to unify them. They will be found ampler than has been supposed,
-and in widely different sources. Thus far, impress'd by New England
+and in widely different sources. Thus far, impress'd by [[New England]]
 writers and schoolmasters, we tacitly abandon ourselves to the notion
 that our United States have been fashion'd from the British Islands
 only, and essentially form a second England only--which is a very great
@@ -56,23 +56,23 @@ and democratic attributes--not one of which at present definitely
 exists--entirely different from the past, though unerringly founded on
 it, and to justify it.
 
-To that composite American identity of the future, Spanish character
+To that composite American [[Identity|identity]] of the future, Spanish character
 will supply some of the most needed parts. No stock shows a grander
 historic retrospect--grander in religiousness and loyalty, or for
-patriotism, courage, decorum, gravity and honor. (It is time to dismiss
+patriotism, [[Courage|courage]], decorum, gravity and honor. (It is [[Time|time]] to dismiss
 utterly the illusion-compound, half raw-head-and-bloody-bones and half
 Mysteries-of-Udolpho, inherited from the English writers of the past 200
-years. It is time to realize--for it is certainly true--that there
+years. It is [[Time|time]] to realize--for it is certainly true--that there
 will not be found any more cruelty, tyranny, superstition, &c., in the
-_r�sum�_ of past Spanish history than in the corresponding _r�sum�_ of
-Anglo-Norman history. Nay, I think there will not be found so much.)
+_r�sum�_ of past Spanish [[history]] than in the corresponding _r�sum�_ of
+Anglo-Norman [[history]]. Nay, I think there will not be found so much.)
 
 Then another point, relating to American ethnology, past and to come,
 I will here touch upon at a venture. As to our aboriginal or Indian
 population--the Aztec in the South, and many a tribe in the North and
 West--I know it seems to be agreed that they must gradually dwindle as
-time rolls on, and in a few generations more leave only a reminiscence,
-a blank. But I am not at all clear about that. As America, from its
+[[Time|time]] rolls on, and in a few generations more leave only a reminiscence,
+a blank. But I am not at all clear about that. As [[America]], from its
 many far-back sources and current supplies, develops, adapts, entwines,
 faithfully identifies its own--are we to see it cheerfully accepting
 and using all the contributions of foreign lands from the whole outside
@@ -82,7 +82,7 @@ autochthonic ones?
 As to the Spanish stock of our Southwest, it is certain to me that we
 do not begin to appreciate the splendor and sterling value of its
 race element. Who knows but that element, like the course of some
-subterranean river, dipping invisibly for a hundred or two years, is now
+subterranean [[River|river]], dipping invisibly for a hundred or two years, is now
 to emerge in broadest flow and permanent action?
 
 If I might assume to do so, I would like to send you the most cordial,
@@ -116,21 +116,21 @@ get it all, the chief in a complexity of puzzles. Conceiv'd out of
 the fullest heat and pulse of European feudalism--personifying in
 unparallel'd ways the mediaeval aristocracy, its towering spirit of
 ruthless and gigantic caste, with its own peculiar air and arrogance
-(no mere imitation)--only one of the "wolfish earls" so plenteous in the
+(no mere [[Imitation|imitation]])--only one of the "wolfish earls" so plenteous in the
 plays themselves, or some born descendant and knower, might seem to be
 the true author of those amazing works--works in some respects greater
 than anything else in recorded literature.
 
 The start and germ-stock of the pieces on which the present speculation
 is founded are undoubtedly (with, at the outset, no small amount of
-bungling work) in "Henry VI." It is plain to me that as profound and
+bungling work) in "[[Henry VI]]." It is plain to me that as profound and
 forecasting a brain and pen as ever appear'd in literature, after
 floundering somewhat in the first part of that trilogy--or perhaps
 draughting it more or less experimentally or by accident--afterward
 developed and defined his plan in the Second and Third Parts, and from
-time to time, thenceforward, systematically enlarged it to majestic and
-mature proportions in "Richard II," "Richard III," "King John," "Henry
-IV," "Henry V," and even in "Macbeth," "Coriolanus" and "Lear." For it
+[[Time|time]] to [[Time|time]], thenceforward, systematically enlarged it to majestic and
+mature proportions in "[[Richard II]]," "[[Richard III]]," "[[King John]]," "Henry
+IV," "[[Henry V]]," and even in "[[Macbeth]]," "[[Coriolanus]]" and "Lear." For it
 is impossible to grasp the whole cluster of those plays, however wide
 the intervals and different circumstances of their composition, without
 thinking of them as, in a free sense, the result of an _essentially
@@ -140,7 +140,7 @@ episodes of Cade, Joan of Arc, and the like (which sometimes seem to me
 like interpolations allow'd,) may be meant to foil the possible sleuth,
 and throw any too 'cute pursuer off the scent. In the whole matter I
 should specially dwell on, and make much of, that inexplicable element
-of every highest poetic nature which causes it to cover up and involve
+of every highest poetic [[Nature|nature]] which causes it to cover up and involve
 its real purpose and meanings in folded removes and far recesses. Of
 this trait--hiding the nest where common seekers may never find it--the
 Shaksperean works afford the most numerous and mark'd illustrations

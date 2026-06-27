@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 3 (part 5)"
+title: "[[GKC-Autobiography]] — Chapter 3 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -17,16 +17,16 @@ tags:
 One day I was frozen with astonishment to find my name in an
 announcement on the notice-board, saying that I was to be accorded
 the privileges of the highest form, though I did not belong to it.
-It produced in me a desire to be accorded the privileges
+It produced in me a [[Desire|desire]] to be accorded the privileges
 and protection of the coal-cellar and never to come out again.
-At the same time I learned that a special branch of the highest form had
+At the same [[Time|time]] I learned that a special branch of the highest form had
 actually been created for my two principal friends, in order that they
-might study for History Scholarships at the Universities.  All this
+might study for [[history|History]] Scholarships at the Universities.  All this
 seemed like the very universe breaking up and turning topsy-turvy;
-and indeed all sorts of things happened about this time that seemed
-to be quite outside the laws of nature.  I got a prize, for instance;
-what was called the Milton Prize for what was called a prize poem;
-I imagine it was about as bad as all other prize poems, but I
+and indeed all sorts of things happened about this [[Time|time]] that seemed
+to be quite outside the laws of [[Nature|nature]].  I got a prize, for instance;
+what was called the [[Milton]] Prize for what was called a prize poem;
+I imagine it was about as bad as all other prize [[Poems|poems]], but I
 am happy to say that I cannot recall a single syllable of it.
 I do, however recall the subject, not without a faint thrill of irony;
 for the subject was St. Francis Xavier, the great Jesuit who preached
@@ -35,18 +35,18 @@ course of my school life, because I am not sorry to be an exception
 to the modern tendency to reproach the old Victorian schoolmaster
 with stupidity and neglect and to represent the rising generation
 as a shining band of Shelleys inspired by light and liberty to rise.
-The truth is that in this case it was I who exhibited the stupidity;
+The [[Truth|truth]] is that in this case it was I who exhibited the stupidity;
 though I really think it was largely an affected stupidity.
 And certainly it was I who rejoiced in the neglect, and who asked
 for nothing better than to be neglected.  It was, if anything,
 the authorities who dragged me, in my own despite, out of the
 comfortable and protected atmosphere of obscurity and failure.
-Personally, I was perfectly happy at the bottom of the class.
+Personally, I was perfectly happy at the [[Bottom|bottom]] of the class.
 
 For the rest, I think the chief impression I produced, on most of
-the masters and many of the boys, was a pretty well-founded conviction
+the masters and many of the boys, was a pretty [[Well|well]]-founded conviction
 that I was asleep.  Perhaps what nobody knew, not even myself, was that I
-was asleep and dreaming.  The dreams were not much more sensible
+was asleep and dreaming.  The [[Dreams|dreams]] were not much more sensible
 or valuable than they commonly are in persons in such profound slumber;
 but they already had this obscure effect on my existence;
 that my mind was already occupied, though I myself was idle.
@@ -56,9 +56,9 @@ sense persecuted, but solitary.  But though I was solitary,
 I was not sorry; and I think I can claim that I was not sulky.
 One effect of this was that my first acquaintances, as distinct from
 my ultimate friends, were odd and scrappy sort of people like myself.
-These individuals were accidents; one or two of them I fear
+These individuals were accidents; one or two of them I [[Fear|fear]]
 were disasters.  I remember one youth who made one appearance
-in my daily life, that puzzled me like a detective story.
+in my daily life, that puzzled me like a [[Detective|detective]] story.
 I cannot imagine how I came to cultivate his society; still less
 how he came to cultivate mine.  For he was a brilliant mathematician,
 and must presumably have worked hard at mathematics; whereas I
@@ -71,7 +71,7 @@ So far as enthusiasm for that study was concerned I could answer, "Thy
 need is greater than mine," with all the gesture of Sir Philip Sidney;
 but I had to observe some minimum of attention to the mathematical class;
 so in lending him the book, I told him I should want it back
-some time next week.  As the time approached, I was much mystified
+some [[Time|time]] next week.  As the [[Time|time]] approached, I was much mystified
 by the fact that I found it quite difficult to get it back.
 He gave evasive replies; he interposed postponements and hazy promises;
 till at last I quarrelled with him, using the words of action
@@ -79,11 +79,11 @@ which are really commoner among schoolboys as words than as actions;
 but anyhow indicating that I should make an earnest effort
 to punch his head.  To this threat, he ultimately capitulated;
 and eventually led me to his locker, which he reluctantly opened.
-And his locker was stuffed from top to bottom with about twenty-five
+And his locker was stuffed from top to [[Bottom|bottom]] with about twenty-five
 identical copies of Hall & Knight's Algebra, which he had
 presumably collected by similar arts from similar acquaintances.
 I believe he left the school later, without any particular scandal;
-and I hope the poor fellow recovered his mental balance somewhere else.
+and I [[Hope|hope]] the poor fellow recovered his mental balance somewhere else.
 I write in no superior spirit; I was quite capable myself at many
 early stages of going mad in a quiet way; but not by an exaggerated
 appetite for Hall & Knight's Algebra.

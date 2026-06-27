@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 30"
+title: "[[Northanger Abbey]] — Chapter 30"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -28,17 +28,17 @@ defects of that sort, her mother could not but perceive them now to be
 
 greatly increased. She could neither sit still nor employ herself for
 
-ten minutes together, walking round the garden and orchard again and
+ten minutes together, walking round the [[Garden|garden]] and orchard again and
 
 again, as if nothing but motion was voluntary; and it seemed as if she
 
-could even walk about the house rather than remain fixed for any time
+could even walk about the [[house]] rather than remain fixed for any [[Time|time]]
 
 in the parlour. Her loss of spirits was a yet greater alteration. In
 
 her rambling and her idleness she might only be a caricature of
 
-herself; but in her silence and sadness she was the very reverse of all
+herself; but in her [[Silence|silence]] and sadness she was the very reverse of all
 
 that she had been before.
 
@@ -46,7 +46,7 @@ that she had been before.
 
 For two days Mrs. Morland allowed it to pass even without a hint; but
 
-when a third night’s rest had neither restored her cheerfulness,
+when a third [[Night|night]]’s rest had neither restored her cheerfulness,
 
 improved her in useful activity, nor given her a greater inclination
 
@@ -54,11 +54,11 @@ for needlework, she could no longer refrain from the gentle reproof of,
 
 “My dear Catherine, I am afraid you are growing quite a fine lady. I do
 
-not know when poor Richard’s cravats would be done, if he had no friend
+not know when poor [[Richard]]’s cravats would be done, if he had no friend
 
-but you. Your head runs too much upon Bath; but there is a time for
+but you. Your head runs too much upon Bath; but there is a [[Time|time]] for
 
-everything—a time for balls and plays, and a time for work. You have
+everything—a [[Time|time]] for balls and plays, and a [[Time|time]] for work. You have
 
 had a long run of amusement, and now you must try to be useful.”
 
@@ -70,19 +70,19 @@ Catherine took up her work directly, saying, in a dejected voice, that
 
 
 
-“Then you are fretting about General Tilney, and that is very simple of
+“Then you are fretting about [[General Tilney]], and that is very simple of
 
 you; for ten to one whether you ever see him again. You should never
 
-fret about trifles.” After a short silence—“I hope, my Catherine, you
+fret about trifles.” After a short [[Silence|silence]]—“I [[Hope|hope]], my Catherine, you
 
-are not getting out of humour with home because it is not so grand as
+are not getting out of [[Humour|humour]] with [[Home|home]] because it is not so grand as
 
 Northanger. That would be turning your visit into an evil indeed.
 
 Wherever you are you should always be contented, but especially at
 
-home, because there you must spend the most of your time. I did not
+[[Home|home]], because there you must spend the most of your [[Time|time]]. I did not
 
 quite like, at breakfast, to hear you talk so much about the French
 
@@ -96,11 +96,11 @@ I eat.”
 
 
 
-“There is a very clever essay in one of the books upstairs upon much
+“There is a very clever [[Essay|essay]] in one of the books upstairs upon much
 
-such a subject, about young girls that have been spoilt for home by
+such a subject, about young girls that have been spoilt for [[Home|home]] by
 
-great acquaintance—The Mirror, I think. I will look it out for you some
+great acquaintance—The [[Mirror]], I think. I will look it out for you some
 
 day or other, because I am sure it will do you good.”
 
@@ -122,9 +122,9 @@ repining spirit to which she had now begun to attribute her want of
 
 cheerfulness, hastily left the room to fetch the book in question,
 
-anxious to lose no time in attacking so dreadful a malady. It was some
+anxious to lose no [[Time|time]] in attacking so dreadful a malady. It was some
 
-time before she could find what she looked for; and other family
+[[Time|time]] before she could find what she looked for; and other family
 
 matters occurring to detain her, a quarter of an hour had elapsed ere
 
@@ -138,9 +138,9 @@ minutes, till, on entering the room, the first object she beheld was a
 
 young man whom she had never seen before. With a look of much respect,
 
-he immediately rose, and being introduced to her by her conscious
+he immediately [[Rose|rose]], and being introduced to her by her conscious
 
-daughter as “Mr. Henry Tilney,” with the embarrassment of real
+daughter as “Mr. [[Henry Tilney]],” with the embarrassment of real
 
 sensibility began to apologize for his appearance there, acknowledging
 
@@ -148,7 +148,7 @@ that after what had passed he had little right to expect a welcome at
 
 Fullerton, and stating his impatience to be assured of Miss Morland’s
 
-having reached her home in safety, as the cause of his intrusion. He
+having reached her [[Home|home]] in safety, as the cause of his intrusion. He
 
 did not address himself to an uncandid judge or a resentful heart. Far
 
@@ -172,7 +172,7 @@ greatly relieved by such unlooked-for mildness, it was not just at that
 
 moment in his power to say anything to the purpose. Returning in
 
-silence to his seat, therefore, he remained for some minutes most
+[[Silence|silence]] to his seat, therefore, he remained for some minutes most
 
 civilly answering all Mrs. Morland’s common remarks about the weather
 
@@ -182,13 +182,13 @@ Catherine—said not a word; but her glowing cheek and brightened eye
 
 made her mother trust that this good-natured visit would at least set
 
-her heart at ease for a time, and gladly therefore did she lay aside
+her heart at ease for a [[Time|time]], and gladly therefore did she lay aside
 
-the first volume of The Mirror for a future hour.
+the first volume of The [[Mirror]] for a future hour.
 
 
 
-Desirous of Mr. Morland’s assistance, as well in giving encouragement,
+Desirous of Mr. Morland’s assistance, as [[Well|well]] in giving encouragement,
 
 as in finding conversation for her guest, whose embarrassment on his
 
@@ -196,11 +196,11 @@ father’s account she earnestly pitied, Mrs. Morland had very early
 
 dispatched one of the children to summon him; but Mr. Morland was from
 
-home—and being thus without any support, at the end of a quarter of an
+[[Home|home]]—and being thus without any support, at the end of a quarter of an
 
 hour she had nothing to say. After a couple of minutes’ unbroken
 
-silence, Henry, turning to Catherine for the first time since her
+[[Silence|silence]], Henry, turning to Catherine for the first [[Time|time]] since her
 
 mother’s entrance, asked her, with sudden alacrity, if Mr. and Mrs.
 
@@ -212,9 +212,9 @@ would have given, immediately expressed his intention of paying his
 
 respects to them, and, with a rising colour, asked her if she would
 
-have the goodness to show him the way. “You may see the house from this
+have the goodness to show him the way. “You may see the [[house]] from this
 
-window, sir,” was information on Sarah’s side, which produced only a
+[[Window|window]], sir,” was information on Sarah’s side, which produced only a
 
 bow of acknowledgment from the gentleman, and a silencing nod from her
 
@@ -234,7 +234,7 @@ wishing it. Some explanation on his father’s account he had to give;
 
 but his first purpose was to explain himself, and before they reached
 
-Mr. Allen’s grounds he had done it so well that Catherine did not think
+Mr. Allen’s grounds he had done it so [[Well|well]] that Catherine did not think
 
 it could ever be repeated too often. She was assured of his affection;
 
@@ -248,15 +248,15 @@ excellencies of her character and truly loved her society, I must
 
 confess that his affection originated in nothing better than gratitude,
 
-or, in other words, that a persuasion of her partiality for him had
+or, in other words, that a [[Persuasion|persuasion]] of her partiality for him had
 
 been the only cause of giving her a serious thought. It is a new
 
-circumstance in romance, I acknowledge, and dreadfully derogatory of an
+circumstance in [[Romance|romance]], I acknowledge, and dreadfully derogatory of an
 
 heroine’s dignity; but if it be as new in common life, the credit of a
 
-wild imagination will at least be all my own.
+wild [[Imagination|imagination]] will at least be all my own.
 
 
 
@@ -288,7 +288,7 @@ listened to this account, could not but rejoice in the kind caution
 
 with which Henry had saved her from the necessity of a conscientious
 
-rejection, by engaging her faith before he mentioned the subject; and
+rejection, by engaging her [[Faith|faith]] before he mentioned the subject; and
 
 as he proceeded to give the particulars, and explain the motives of his
 
@@ -298,17 +298,17 @@ delight. The General had had nothing to accuse her of, nothing to lay
 
 to her charge, but her being the involuntary, unconscious object of a
 
-deception which his pride could not pardon, and which a better pride
+[[Deception|deception]] which his [[Pride|pride]] could not pardon, and which a better [[Pride|pride]]
 
 would have been ashamed to own. She was guilty only of being less rich
 
-than he had supposed her to be. Under a mistaken persuasion of her
+than he had supposed her to be. Under a mistaken [[Persuasion|persuasion]] of her
 
 possessions and claims, he had courted her acquaintance in Bath,
 
 solicited her company at Northanger, and designed her for his
 
-daughter-in-law. On discovering his error, to turn her from the house
+daughter-in-law. On discovering his error, to turn her from the [[house]]
 
 seemed the best, though to his feelings an inadequate proof of his
 
@@ -316,23 +316,23 @@ resentment towards herself, and his contempt of her family.
 
 
 
-John Thorpe had first misled him. The General, perceiving his son one
+[[John Thorpe]] had first misled him. The General, perceiving his son one
 
-night at the theatre to be paying considerable attention to Miss
+[[Night|night]] at the theatre to be paying considerable attention to Miss
 
 Morland, had accidentally inquired of Thorpe if he knew more of her
 
 than her name. Thorpe, most happy to be on speaking terms with a man of
 
-General Tilney’s importance, had been joyfully and proudly
+[[General Tilney]]’s importance, had been joyfully and proudly
 
-communicative; and being at that time not only in daily expectation of
+communicative; and being at that [[Time|time]] not only in daily expectation of
 
-Morland’s engaging Isabella, but likewise pretty well resolved upon
+Morland’s engaging [[Isabella]], but likewise pretty [[Well|well]] resolved upon
 
-marrying Catherine himself, his vanity induced him to represent the
+marrying Catherine himself, his [[Vanity|vanity]] induced him to represent the
 
-family as yet more wealthy than his vanity and avarice had made him
+family as yet more wealthy than his [[Vanity|vanity]] and avarice had made him
 
 believe them. With whomsoever he was, or was likely to be connected,
 
@@ -342,7 +342,7 @@ his intimacy with any acquaintance grew, so regularly grew their
 
 fortune. The expectations of his friend Morland, therefore, from the
 
-first overrated, had ever since his introduction to Isabella been
+first overrated, had ever since his introduction to [[Isabella]] been
 
 gradually increasing; and by merely adding twice as much for the
 
@@ -368,7 +368,7 @@ speak of her therefore as the almost acknowledged future heiress of
 
 Fullerton naturally followed. Upon such intelligence the General had
 
-proceeded; for never had it occurred to him to doubt its authority.
+proceeded; for never had it occurred to him to [[Doubt|doubt]] its authority.
 
 Thorpe’s interest in the family, by his sister’s approaching connection
 
@@ -376,7 +376,7 @@ with one of its members, and his own views on another (circumstances of
 
 which he boasted with almost equal openness), seemed sufficient
 
-vouchers for his truth; and to these were added the absolute facts of
+vouchers for his [[Truth|truth]]; and to these were added the absolute facts of
 
 the Allens being wealthy and childless, of Miss Morland’s being under
 
@@ -392,9 +392,9 @@ almost instantly determined to spare no pains in weakening his boasted
 
 interest and ruining his dearest hopes. Catherine herself could not be
 
-more ignorant at the time of all this, than his own children. Henry and
+more ignorant at the [[Time|time]] of all this, than his own children. Henry and
 
-Eleanor, perceiving nothing in her situation likely to engage their
+[[Eleanor]], perceiving nothing in her situation likely to engage their
 
 father’s particular respect, had seen with astonishment the suddenness,
 
@@ -418,9 +418,9 @@ and who, under the influence of exactly opposite feelings, irritated by
 
 Catherine’s refusal, and yet more by the failure of a very recent
 
-endeavour to accomplish a reconciliation between Morland and Isabella,
+endeavour to accomplish a [[Reconciliation|reconciliation]] between Morland and [[Isabella]],
 
-convinced that they were separated forever, and spurning a friendship
+convinced that they were separated forever, and spurning a [[Friendship|friendship]]
 
 which could be no longer serviceable, hastened to contradict all that
 
@@ -434,7 +434,7 @@ father a man of substance and credit, whereas the transactions of the
 
 two or three last weeks proved him to be neither; for after coming
 
-eagerly forward on the first overture of a marriage between the
+eagerly forward on the first overture of a [[Marriage|marriage]] between the
 
 families, with the most liberal proposals, he had, on being brought to
 
@@ -472,7 +472,7 @@ next day for the abbey, where his performances have been seen.
 
 I leave it to my reader’s sagacity to determine how much of all this it
 
-was possible for Henry to communicate at this time to Catherine, how
+was possible for Henry to communicate at this [[Time|time]] to Catherine, how
 
 much of it he could have learnt from his father, in what points his own
 
@@ -482,7 +482,7 @@ told in a letter from James. I have united for their ease what they
 
 must divide for mine. Catherine, at any rate, heard enough to feel that
 
-in suspecting General Tilney of either murdering or shutting up his
+in suspecting [[General Tilney]] of either murdering or shutting up his
 
 wife, she had scarcely sinned against his character, or magnified his
 
@@ -506,17 +506,17 @@ them, had been open and bold. The General, accustomed on every ordinary
 
 occasion to give the law in his family, prepared for no reluctance but
 
-of feeling, no opposing desire that should dare to clothe itself in
+of feeling, no opposing [[Desire|desire]] that should dare to clothe itself in
 
 words, could ill brook the opposition of his son, steady as the
 
-sanction of reason and the dictate of conscience could make it. But, in
+sanction of reason and the dictate of [[Conscience|conscience]] could make it. But, in
 
 such a cause, his anger, though it must shock, could not intimidate
 
 Henry, who was sustained in his purpose by a conviction of its justice.
 
-He felt himself bound as much in honour as in affection to Miss
+He felt himself bound as much in [[Honour|honour]] as in affection to Miss
 
 Morland, and believing that heart to be his own which he had been
 
@@ -540,6 +540,6 @@ disagreement. Henry, in an agitation of mind which many solitary hours
 
 were required to compose, had returned almost instantly to Woodston,
 
-and, on the afternoon of the following day, had begun his journey to
+and, on the afternoon of the following day, had begun his [[Journey|journey]] to
 
 Fullerton.

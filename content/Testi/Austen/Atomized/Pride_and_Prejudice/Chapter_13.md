@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 13"
+title: "[[Pride and Prejudice]] — Chapter 13"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -19,21 +19,21 @@ CHAPTER XIII
 
 [Illustration]
 
-“I hope, my dear,” said Mr. Bennet to his wife, as they were at
+“I [[Hope|hope]], my dear,” said Mr. Bennet to his wife, as they were at
 breakfast the next morning, “that you have ordered a good dinner to-day,
 because I have reason to expect an addition to our family party.”
 
 “Who do you mean, my dear? I know of nobody that is coming, I am sure,
-unless Charlotte Lucas should happen to call in; and I hope _my_ dinners
-are good enough for her. I do not believe she often sees such at home.”
+unless [[Charlotte Lucas]] should happen to call in; and I [[Hope|hope]] _my_ dinners
+are good enough for her. I do not believe she often sees such at [[Home|home]].”
 
 “The person of whom I speak is a gentleman and a stranger.”
 
 Mrs. Bennet’s eyes sparkled. “A gentleman and a stranger! It is Mr.
 Bingley, I am sure. Why, Jane--you never dropped a word of this--you sly
-thing! Well, I am sure I shall be extremely glad to see Mr. Bingley.
+thing! [[Well]], I am sure I shall be extremely glad to see Mr. Bingley.
 But--good Lord! how unlucky! there is not a bit of fish to be got
-to-day. Lydia, my love, ring the bell. I must speak to Hill this
+to-day. Lydia, my [[Love|love]], ring the bell. I must speak to [[Hill]] this
 moment.”
 
 “It is _not_ Mr. Bingley,” said her husband; “it is a person whom I
@@ -42,11 +42,11 @@ never saw in the whole course of my life.”
 This roused a general astonishment; and he had the pleasure of being
 eagerly questioned by his wife and five daughters at once.
 
-After amusing himself some time with their curiosity, he thus
+After amusing himself some [[Time|time]] with their curiosity, he thus
 explained:--“About a month ago I received this letter, and about a
 fortnight ago I answered it; for I thought it a case of some delicacy,
 and requiring early attention. It is from my cousin, Mr. Collins, who,
-when I am dead, may turn you all out of this house as soon as he
+when I am dead, may turn you all out of this [[house]] as soon as he
 pleases.”
 
 “Oh, my dear,” cried his wife, “I cannot bear to hear that mentioned.
@@ -55,14 +55,14 @@ in the world, that your estate should be entailed away from your own
 children; and I am sure, if I had been you, I should have tried long ago
 to do something or other about it.”
 
-Jane and Elizabeth attempted to explain to her the nature of an entail.
+Jane and Elizabeth attempted to explain to her the [[Nature|nature]] of an entail.
 They had often attempted it before: but it was a subject on which Mrs.
 Bennet was beyond the reach of reason; and she continued to rail
 bitterly against the cruelty of settling an estate away from a family of
 five daughters, in favour of a man whom nobody cared anything about.
 
 “It certainly is a most iniquitous affair,” said Mr. Bennet; “and
-nothing can clear Mr. Collins from the guilt of inheriting Longbourn.
+nothing can clear Mr. Collins from the [[Guilt|guilt]] of inheriting Longbourn.
 But if you will listen to his letter, you may, perhaps, be a little
 softened by his manner of expressing himself.”
 
@@ -74,20 +74,20 @@ did before him?”
 “Why, indeed, he does seem to have had some filial scruples on that
 head, as you will hear.”
 
-     /* RIGHT “Hunsford, near Westerham, Kent, _15th October_. */
+     /* RIGHT “Hunsford, near Westerham, [[Kent]], _15th October_. */
 
 “Dear Sir,
 
      “The disagreement subsisting between yourself and my late honoured
      father always gave me much uneasiness; and, since I have had the
      misfortune to lose him, I have frequently wished to heal the
-     breach: but, for some time, I was kept back by my own doubts,
-     fearing lest it might seem disrespectful to his memory for me to be
+     breach: but, for some [[Time|time]], I was kept back by my own doubts,
+     fearing lest it might seem disrespectful to his [[Memory|memory]] for me to be
      on good terms with anyone with whom it had always pleased him to be
      at variance.”--‘There, Mrs. Bennet.’--“My mind, however, is now
      made up on the subject; for, having received ordination at Easter,
      I have been so fortunate as to be distinguished by the patronage of
-     the Right Honourable Lady Catherine de Bourgh, widow of Sir Lewis
+     the Right Honourable [[Lady Catherine de Bourgh]], widow of Sir Lewis
      de Bourgh, whose bounty and beneficence has preferred me to the
      valuable rectory of this parish, where it shall be my earnest
      endeavour to demean myself with grateful respect towards her
@@ -101,23 +101,23 @@ head, as you will hear.”
      overlooked on your side, and not lead you to reject the offered
      olive branch. I cannot be otherwise than concerned at being the
      means of injuring your amiable daughters, and beg leave to
-     apologize for it, as well as to assure you of my readiness to make
+     apologize for it, as [[Well|well]] as to assure you of my readiness to make
      them every possible amends; but of this hereafter. If you should
-     have no objection to receive me into your house, I propose myself
+     have no objection to receive me into your [[house]], I propose myself
      the satisfaction of waiting on you and your family, Monday,
-     November 18th, by four o’clock, and shall probably trespass on your
+     November 18th, by four o’[[Clock|clock]], and shall probably trespass on your
      hospitality till the Saturday se’nnight following, which I can do
      without any inconvenience, as Lady Catherine is far from objecting
-     to my occasional absence on a Sunday, provided that some other
+     to my occasional absence on a [[Sunday]], provided that some other
      clergyman is engaged to do the duty of the day. I remain, dear sir,
      with respectful compliments to your lady and daughters, your
-     well-wisher and friend,
+     [[Well|well]]-wisher and friend,
 
 “WILLIAM COLLINS.”
 
-“At four o’clock, therefore, we may expect this peace-making gentleman,”
+“At four o’[[Clock|clock]], therefore, we may expect this peace-making gentleman,”
 said Mr. Bennet, as he folded up the letter. “He seems to be a most
-conscientious and polite young man, upon my word; and, I doubt not, will
+conscientious and polite young man, upon my word; and, I [[Doubt|doubt]] not, will
 prove a valuable acquaintance, especially if Lady Catherine should be so
 indulgent as to let him come to us again.”
 
@@ -139,12 +139,12 @@ apologizing for being next in the entail? We cannot suppose he would
 help it, if he could. Can he be a sensible man, sir?”
 
 “No, my dear; I think not. I have great hopes of finding him quite the
-reverse. There is a mixture of servility and self-importance in his
-letter which promises well. I am impatient to see him.”
+reverse. There is a mixture of servility and [[Self|self]]-importance in his
+letter which promises [[Well|well]]. I am impatient to see him.”
 
 “In point of composition,” said Mary, “his letter does not seem
 defective. The idea of the olive branch perhaps is not wholly new, yet I
-think it is well expressed.”
+think it is [[Well|well]] expressed.”
 
 To Catherine and Lydia neither the letter nor its writer were in any
 degree interesting. It was next to impossible that their cousin should
@@ -154,16 +154,16 @@ their mother, Mr. Collins’s letter had done away much of her ill-will,
 and she was preparing to see him with a degree of composure which
 astonished her husband and daughters.
 
-Mr. Collins was punctual to his time, and was received with great
+Mr. Collins was punctual to his [[Time|time]], and was received with great
 politeness by the whole family. Mr. Bennet indeed said little; but the
 ladies were ready enough to talk, and Mr. Collins seemed neither in need
 of encouragement, nor inclined to be silent himself. He was a tall,
-heavy-looking young man of five-and-twenty. His air was grave and
+heavy-looking young man of five-and-twenty. His air was [[Grave|grave]] and
 stately, and his manners were very formal. He had not been long seated
 before he complimented Mrs. Bennet on having so fine a family of
-daughters, said he had heard much of their beauty, but that, in this
-instance, fame had fallen short of the truth; and added, that he did not
-doubt her seeing them all in due time well disposed of in marriage. This
+daughters, said he had heard much of their [[Beauty|beauty]], but that, in this
+instance, fame had fallen short of the [[Truth|truth]]; and added, that he did not
+[[Doubt|doubt]] her seeing them all in due [[Time|time]] [[Well|well]] disposed of in [[Marriage|marriage]]. This
 gallantry was not much to the taste of some of his hearers; but Mrs.
 Bennet, who quarrelled with no compliments, answered most readily,--
 
@@ -192,7 +192,7 @@ heart, but for the mortifying supposition of his viewing it all as his
 own future property. The dinner, too, in its turn, was highly admired;
 and he begged to know to which of his fair cousins the excellence of its
 cookery was owing. But here he was set right by Mrs. Bennet, who assured
-him, with some asperity, that they were very well able to keep a good
+him, with some asperity, that they were very [[Well|well]] able to keep a good
 cook, and that her daughters had nothing to do in the kitchen. He begged
 pardon for having displeased her. In a softened tone she declared
 herself not at all offended; but he continued to apologize for about a

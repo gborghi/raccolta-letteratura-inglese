@@ -1,5 +1,5 @@
 ---
-title: "The Devil in the Belfry (part 3)"
+title: "[[The Devil in the Belfry]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Devil-in-the-Belfry-(Poe)"
@@ -16,7 +16,7 @@ tags:
 
       the words had in them something of the spirit of prophecy. It
 
-      wanted five minutes of noon, on the day before yesterday, when
+      wanted five minutes of [[Noon|noon]], on the day before yesterday, when
 
       there appeared a very odd-looking object on the summit of the
 
@@ -28,17 +28,17 @@ tags:
 
       dismay upon the phenomenon, still keeping the other upon the
 
-      clock in the steeple.
+      [[Clock|clock]] in the steeple.
 
 
 
-      By the time that it wanted only three minutes to noon, the droll
+      By the [[Time|time]] that it wanted only three minutes to [[Noon|noon]], the droll
 
       object in question was perceived to be a very diminutive
 
       foreign-looking young man. He descended the hills at a great
 
-      rate, so that every body had soon a good look at him. He was
+      rate, so that every [[Body|body]] had soon a good look at him. He was
 
       really the most finicky little personage that had ever been seen
 
@@ -54,7 +54,7 @@ tags:
 
       face to be seen. His head was uncovered, and his hair neatly done
 
-      up in papillotes. His dress was a tight-fitting swallow-tailed
+      up in papillotes. His dress was a tight-fitting [[Swallow|swallow]]-tailed
 
       black coat (from one of whose pockets dangled a vast length of
 
@@ -68,11 +68,11 @@ tags:
 
       as big as himself. In his left hand was a gold snuff-box, from
 
-      which, as he capered down the hill, cutting all manner of
+      which, as he capered down the [[Hill|hill]], cutting all manner of
 
       fantastic steps, he took snuff incessantly with an air of the
 
-      greatest possible self-satisfaction. God bless me!—here was a
+      greatest possible [[Self|self]]-satisfaction. God bless me!—here was a
 
       sight for the honest burghers of Vondervotteimittiss!
 
@@ -90,13 +90,13 @@ tags:
 
       handkerchief which hung so obtrusively from the pocket of his
 
-      swallow-tailed coat. But what mainly occasioned a righteous
+      [[Swallow|swallow]]-tailed coat. But what mainly occasioned a righteous
 
       indignation was, that the scoundrelly popinjay, while he cut a
 
       fandango here, and a whirligig there, did not seem to have the
 
-      remotest idea in the world of such a thing as keeping time in his
+      remotest idea in the world of such a thing as keeping [[Time|time]] in his
 
       steps.
 
@@ -106,15 +106,15 @@ tags:
 
       get their eyes thoroughly open, when, just as it wanted half a
 
-      minute of noon, the rascal bounced, as I say, right into the
+      minute of [[Noon|noon]], the rascal bounced, as I say, right into the
 
       midst of them; gave a _chassez_ here, and a _balancez_ there; and
 
       then, after a _pirouette_ and a _pas-de-zephyr_, pigeon-winged
 
-      himself right up into the belfry of the House of the Town
+      himself right up into the belfry of the [[house|House]] of the Town
 
-      Council, where the wonder-stricken belfry-man sat smoking in a
+      Council, where the [[Wonder|wonder]]-stricken belfry-man sat smoking in a
 
       state of dignity and dismay. But the little chap seized him at
 
@@ -128,7 +128,7 @@ tags:
 
       fat, and the fiddle being so hollow, you would have sworn that
 
-      there was a regiment of double-bass drummers all beating the
+      there was a regiment of [[Double|double]]-bass drummers all beating the
 
       devil’s tattoo up in the belfry of the steeple of
 
@@ -140,25 +140,25 @@ tags:
 
       unprincipled attack might have aroused the inhabitants, but for
 
-      the important fact that it now wanted only half a second of noon.
+      the important fact that it now wanted only half a second of [[Noon|noon]].
 
       The bell was about to strike, and it was a matter of absolute and
 
-      pre-eminent necessity that every body should look well at his
+      pre-eminent necessity that every [[Body|body]] should look [[Well|well]] at his
 
       watch. It was evident, however, that just at this moment the
 
       fellow in the steeple was doing something that he had no business
 
-      to do with the clock. But as it now began to strike, nobody had
+      to do with the [[Clock|clock]]. But as it now began to strike, nobody had
 
-      any time to attend to his manœuvres, for they had all to count
+      any [[Time|time]] to attend to his manœuvres, for they had all to count
 
       the strokes of the bell as it sounded.
 
 
 
-      “One!” said the clock.
+      “One!” said the [[Clock|clock]].
 
 
 
@@ -230,7 +230,7 @@ tags:
 
       “Der Teufel!” groaned they, “Dirteen! Dirteen!!—Mein Gott, it is
 
-      Dirteen o’clock!!”
+      Dirteen o’[[Clock|clock]]!!”
 
 
 

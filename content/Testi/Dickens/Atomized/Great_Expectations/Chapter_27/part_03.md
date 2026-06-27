@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 27 (part 3)"
+title: "[[Great Expectations]] — Chapter 27 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-“Well, sir,” pursued Joe, “this is how it were. I were at the Bargemen
-t’other night, Pip;”—whenever he subsided into affection, he called me
+“[[Well]], sir,” pursued Joe, “this is how it were. I were at the Bargemen
+t’other [[Night|night]], Pip;”—whenever he subsided into affection, he called me
 Pip, and whenever he relapsed into politeness he called me sir; “when
 there come up in his shay-cart, Pumblechook. Which that same
 identical,” said Joe, going down a new track, “do comb my ’air the
@@ -26,13 +26,13 @@ playfellow by yourself.”
 “Nonsense. It was you, Joe.”
 
 “Which I fully believed it were, Pip,” said Joe, slightly tossing his
-head, “though it signify little now, sir. Well, Pip; this same
+head, “though it signify little now, sir. [[Well]], Pip; this same
 identical, which his manners is given to blusterous, come to me at the
 Bargemen (wot a pipe and a pint of beer do give refreshment to the
 workingman, sir, and do not over stimilate), and his word were,
-‘Joseph, Miss Havisham she wish to speak to you.’”
+‘Joseph, [[Miss Havisham]] she wish to speak to you.’”
 
-“Miss Havisham, Joe?”
+“[[Miss Havisham]], Joe?”
 
 “‘She wish,’ were Pumblechook’s word, ‘to speak to you.’” Joe sat and
 rolled his eyes at the ceiling.
@@ -42,7 +42,7 @@ rolled his eyes at the ceiling.
 “Next day, sir,” said Joe, looking at me as if I were a long way off,
 “having cleaned myself, I go and I see Miss A.”
 
-“Miss A., Joe? Miss Havisham?”
+“Miss A., Joe? [[Miss Havisham]]?”
 
 “Which I say, sir,” replied Joe, with an air of legal formality, as if
 he were making his will, “Miss A., or otherways Havisham. Her
@@ -50,18 +50,18 @@ expression air then as follering: ‘Mr. Gargery. You air in
 correspondence with Mr. Pip?’ Having had a letter from you, I were able
 to say ‘I am.’ (When I married your sister, sir, I said ‘I will;’ and
 when I answered your friend, Pip, I said ‘I am.’) ‘Would you tell him,
-then,’ said she, ‘that which Estella has come home and would be glad to
+then,’ said she, ‘that which [[Estella]] has come [[Home|home]] and would be glad to
 see him.’”
 
-I felt my face fire up as I looked at Joe. I hope one remote cause of
+I felt my face [[Fire|fire]] up as I looked at Joe. I [[Hope|hope]] one remote cause of
 its firing may have been my consciousness that if I had known his
 errand, I should have given him more encouragement.
 
-“Biddy,” pursued Joe, “when I got home and asked her fur to write the
-message to you, a little hung back. Biddy says, ‘I know he will be very
-glad to have it by word of mouth, it is holiday time, you want to see
+“[[Biddy]],” pursued Joe, “when I got [[Home|home]] and asked her fur to write the
+message to you, a little hung back. [[Biddy]] says, ‘I know he will be very
+glad to have it by word of mouth, it is holiday [[Time|time]], you want to see
 him, go!’ I have now concluded, sir,” said Joe, rising from his chair,
-“and, Pip, I wish you ever well and ever prospering to a greater and a
+“and, Pip, I wish you ever [[Well|well]] and ever prospering to a greater and a
 greater height.”
 
 “But you are not going now, Joe?”
@@ -80,7 +80,7 @@ together, as I may say, and one man’s a blacksmith, and one’s a
 whitesmith, and one’s a goldsmith, and one’s a coppersmith. Diwisions
 among such must come, and must be met as they come. If there’s been any
 fault at all to-day, it’s mine. You and me is not two figures to be
-together in London; nor yet anywheres else but what is private, and
+together in [[London]]; nor yet anywheres else but what is private, and
 beknown, and understood among friends. It ain’t that I am proud, but
 that I want to be right, as you shall never see me no more in these
 clothes. I’m wrong in these clothes. I’m wrong out of the forge, the
@@ -88,8 +88,8 @@ kitchen, or off th’ meshes. You won’t find half so much fault in me if
 you think of me in my forge dress, with my hammer in my hand, or even
 my pipe. You won’t find half so much fault in me if, supposing as you
 should ever wish to see me, you come and put your head in at the forge
-window and see Joe the blacksmith, there, at the old anvil, in the old
-burnt apron, sticking to the old work. I’m awful dull, but I hope I’ve
+[[Window|window]] and see Joe the blacksmith, there, at the old anvil, in the old
+burnt apron, sticking to the old work. I’m awful dull, but I [[Hope|hope]] I’ve
 beat out something nigh the rights of this at last. And so GOD bless
 you, dear old Pip, old chap, GOD bless you!”
 

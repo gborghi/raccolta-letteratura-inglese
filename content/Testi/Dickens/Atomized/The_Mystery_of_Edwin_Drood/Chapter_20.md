@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 19"
+title: "The Mystery of [[Edwin Drood]] — Chapter 19"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -15,26 +15,26 @@ tags:
 
 
 CHAPTER XIX.
-SHADOW ON THE SUN-DIAL
+[[Shadow|SHADOW]] ON THE SUN-DIAL
 
 
 Again Miss Twinkleton has delivered her valedictory address, with the
 accompaniments of white-wine and pound-cake, and again the young ladies
-have departed to their several homes. Helena Landless has left the
-Nuns’ House to attend her brother’s fortunes, and pretty Rosa is alone.
+have departed to their several homes. [[Helena Landless]] has left the
+Nuns’ [[house|House]] to attend her brother’s fortunes, and pretty Rosa is [[Alone|alone]].
 
-Cloisterham is so bright and sunny in these summer days, that the
-Cathedral and the monastery-ruin show as if their strong walls were
+Cloisterham is so bright and sunny in these [[Summer|summer]] days, that the
+[[Cathedral]] and the monastery-ruin show as if their strong walls were
 transparent. A soft glow seems to shine from within them, rather than
 upon them from without, such is their mellowness as they look forth on
-the hot corn-fields and the smoking roads that distantly wind among
-them. The Cloisterham gardens blush with ripening fruit. Time was when
-travel-stained pilgrims rode in clattering parties through the city’s
-welcome shades; time is when wayfarers, leading a gipsy life between
-haymaking time and harvest, and looking as if they were just made of
-the dust of the earth, so very dusty are they, lounge about on cool
+the hot corn-fields and the smoking roads that distantly [[Wind|wind]] among
+them. The Cloisterham gardens blush with ripening fruit. [[Time]] was when
+travel-stained pilgrims rode in clattering parties through the [[City|city]]’s
+welcome shades; [[Time|time]] is when wayfarers, leading a gipsy life between
+haymaking [[Time|time]] and harvest, and looking as if they were just made of
+the [[Dust|dust]] of the earth, so very dusty are they, lounge about on cool
 doorsteps, trying to mend their unmendable shoes, or giving them to
-the city kennels as a hopeless job, and seeking others in the bundles
+the [[City|city]] kennels as a hopeless job, and seeking others in the bundles
 that they carry, along with their yet unused sickles swathed in bands
 of straw. At all the more public pumps there is much cooling of bare
 feet, together with much bubbling and gurgling of drinking with hand to
@@ -43,42 +43,42 @@ looking askant from their beats with suspicion, and manifest impatience
 that the intruders should depart from within the civic bounds, and once
 more fry themselves on the simmering high-roads.
 
-On the afternoon of such a day, when the last Cathedral service is
-done, and when that side of the High Street on which the Nuns’ House
-stands is in grateful shade, save where its quaint old garden opens to
+On the afternoon of such a day, when the last [[Cathedral]] service is
+done, and when that side of the High Street on which the Nuns’ [[house|House]]
+stands is in grateful shade, save where its quaint old [[Garden|garden]] opens to
 the west between the boughs of trees, a servant informs Rosa, to her
 terror, that Mr. Jasper desires to see her.
 
-If he had chosen his time for finding her at a disadvantage, he could
-have done no better. Perhaps he has chosen it. Helena Landless is gone,
+If he had chosen his [[Time|time]] for finding her at a disadvantage, he could
+have done no better. Perhaps he has chosen it. [[Helena Landless]] is gone,
 Mrs. Tisher is absent on leave, Miss Twinkleton (in her amateur state
 of existence) has contributed herself and a veal pie to a picnic.
 
-“O why, why, why, did you say I was at home!” cried Rosa, helplessly.
+“O why, why, why, did you say I was at [[Home|home]]!” cried Rosa, helplessly.
 
 The maid replies, that Mr. Jasper never asked the question.
 
-That he said he knew she was at home, and begged she might be told that
+That he said he knew she was at [[Home|home]], and begged she might be told that
 he asked to see her.
 
 “What shall I do! what shall I do!” thinks Rosa, clasping her hands.
 
 Possessed by a kind of desperation, she adds in the next breath, that
-she will come to Mr. Jasper in the garden. She shudders at the thought
-of being shut up with him in the house; but many of its windows command
-the garden, and she can be seen as well as heard there, and can shriek
+she will come to Mr. Jasper in the [[Garden|garden]]. She shudders at the thought
+of being shut up with him in the [[house]]; but many of its windows command
+the [[Garden|garden]], and she can be seen as [[Well|well]] as heard there, and can shriek
 in the free air and run away. Such is the wild idea that flutters
 through her mind.
 
-She has never seen him since the fatal night, except when she was
+She has never seen him since the fatal [[Night|night]], except when she was
 questioned before the Mayor, and then he was present in gloomy
 watchfulness, as representing his lost nephew and burning to avenge
-him. She hangs her garden-hat on her arm, and goes out. The moment she
+him. She hangs her [[Garden|garden]]-hat on her arm, and goes out. The moment she
 sees him from the porch, leaning on the sun-dial, the old horrible
 feeling of being compelled by him, asserts its hold upon her. She feels
 that she would even then go back, but that he draws her feet towards
 him. She cannot resist, and sits down, with her head bent, on the
-garden-seat beside the sun-dial. She cannot look up at him for
+[[Garden|garden]]-seat beside the sun-dial. She cannot look up at him for
 abhorrence, but she has perceived that he is dressed in deep mourning.
 So is she. It was not so at first; but the lost has long been given up,
 and mourned for, as dead.
@@ -87,7 +87,7 @@ He would begin by touching her hand. She feels the intention, and draws
 her hand back. His eyes are then fixed upon her, she knows, though her
 own see nothing but the grass.
 
-“I have been waiting,” he begins, “for some time, to be summoned back
+“I have been waiting,” he begins, “for some [[Time|time]], to be summoned back
 to my duty near you.”
 
 After several times forming her lips, which she knows he is closely
@@ -106,12 +106,12 @@ When will you resume?”
 
 “Never? You could have done no more if you had loved my dear boy.”
 
-“I did love him!” cried Rosa, with a flash of anger.
+“I did [[Love|love]] him!” cried Rosa, with a flash of anger.
 
 “Yes; but not quite—not quite in the right way, shall I say? Not in the
 intended and expected way. Much as my dear boy was, unhappily, too
-self-conscious and self-satisfied (I’ll draw no parallel between him
-and you in that respect) to love as he should have loved, or as any one
+[[Self|self]]-conscious and [[Self|self]]-satisfied (I’ll draw no parallel between him
+and you in that respect) to [[Love|love]] as he should have loved, or as any one
 in his place would have loved—must have loved!”
 
 She sits in the same still attitude, but shrinking a little more.
@@ -129,9 +129,9 @@ that I was determined to stand by my resolution.”
 all events, I will not answer any more; I have that in my power.”
 
 She is so conscious of his looking at her with a gloating admiration of
-the touch of anger on her, and the fire and animation it brings with
+the touch of anger on her, and the [[Fire|fire]] and animation it brings with
 it, that even as her spirit rises, it falls again, and she struggles
-with a sense of shame, affront, and fear, much as she did that night at
+with a sense of shame, affront, and [[Fear|fear]], much as she did that [[Night|night]] at
 the piano.
 
 “I will not question you any more, since you object to it so much; I
@@ -139,7 +139,7 @@ will confess—”
 
 “I do not wish to hear you, sir,” cries Rosa, rising.
 
-This time he does touch her with his outstretched hand. In shrinking
+This [[Time|time]] he does touch her with his outstretched hand. In shrinking
 from it, she shrinks into her seat again.
 
 “We must sometimes act in opposition to our wishes,” he tells her in a
@@ -154,14 +154,14 @@ answer the question presently. Dearest Rosa! Charming Rosa!”
 
 She starts up again.
 
-This time he does not touch her. But his face looks so wicked and
+This [[Time|time]] he does not touch her. But his face looks so wicked and
 menacing, as he stands leaning against the sun-dial-setting, as it
 were, his black mark upon the very face of day—that her flight is
 arrested by horror as she looks at him.
 
 “I do not forget how many windows command a view of us,” he says,
 glancing towards them. “I will not touch you again; I will come no
-nearer to you than I am. Sit down, and there will be no mighty wonder
+nearer to you than I am. Sit down, and there will be no mighty [[Wonder|wonder]]
 in your music-master’s leaning idly against a pedestal and speaking
 with you, remembering all that has happened, and our shares in it. Sit
 down, my beloved.”
@@ -178,7 +178,7 @@ ardently devoted to you, I loved you madly; even when he gave me the
 picture of your lovely face so carelessly traduced by him, which I
 feigned to hang always in my sight for his sake, but worshipped in
 torment for years, I loved you madly; in the distasteful work of the
-day, in the wakeful misery of the night, girded by sordid realities, or
+day, in the wakeful misery of the [[Night|night]], girded by sordid realities, or
 wandering through Paradises and Hells of visions into which I rushed,
 carrying your image in my arms, I loved you madly.”
 
@@ -186,7 +186,7 @@ If anything could make his words more hideous to her than they are in
 themselves, it would be the contrast between the violence of his look
 and delivery, and the composure of his assumed attitude.
 
-“I endured it all in silence. So long as you were his, or so long as I
+“I endured it all in [[Silence|silence]]. So long as you were his, or so long as I
 supposed you to be his, I hid my secret loyally. Did I not?”
 
 This lie, so gross, while the mere words in which it is told are so
@@ -195,32 +195,32 @@ indignation: “You were as false throughout, sir, as you are now. You
 were false to him, daily and hourly. You know that you made my life
 unhappy by your pursuit of me. You know that you made me afraid to open
 his generous eyes, and that you forced me, for his own trusting, good,
-good sake, to keep the truth from him, that you were a bad, bad man!”
+good sake, to keep the [[Truth|truth]] from him, that you were a bad, bad man!”
 
 His preservation of his easy attitude rendering his working features
 and his convulsive hands absolutely diabolical, he returns, with a
 fierce extreme of admiration:
 
 “How beautiful you are! You are more beautiful in anger than in repose.
-I don’t ask you for your love; give me yourself and your hatred; give
+I don’t ask you for your [[Love|love]]; give me yourself and your hatred; give
 me yourself and that pretty rage; give me yourself and that enchanting
 scorn; it will be enough for me.”
 
-Impatient tears rise to the eyes of the trembling little beauty, and
+Impatient [[Tears|tears]] rise to the eyes of the trembling little [[Beauty|beauty]], and
 her face flames; but as she again rises to leave him in indignation,
-and seek protection within the house, he stretches out his hand towards
+and seek protection within the [[house]], he stretches out his hand towards
 the porch, as though he invited her to enter it.
 
-“I told you, you rare charmer, you sweet witch, that you must stay and
+“I told you, you rare charmer, you sweet [[Witch|witch]], that you must stay and
 hear me, or do more harm than can ever be undone. You asked me what
 harm. Stay, and I will tell you. Go, and I will do it!”
 
-Again Rosa quails before his threatening face, though innocent of its
+Again Rosa quails before his threatening face, though [[Innocent|innocent]] of its
 meaning, and she remains. Her panting breathing comes and goes as if it
 would choke her; but with a repressive hand upon her bosom, she
 remains.
 
-“I have made my confession that my love is mad. It is so mad, that had
+“I have made my confession that my [[Love|love]] is mad. It is so mad, that had
 the ties between me and my dear lost boy been one silken thread less
 strong, I might have swept even him from your side, when you favoured
 him.”
@@ -229,19 +229,19 @@ A film comes over the eyes she raises for an instant, as though he had
 turned her faint.
 
 “Even him,” he repeats. “Yes, even him! Rosa, you see me and you hear
-me. Judge for yourself whether any other admirer shall love you and
+me. Judge for yourself whether any other admirer shall [[Love|love]] you and
 live, whose life is in my hand.”
 
 “What do you mean, sir?”
 
-“I mean to show you how mad my love is. It was hawked through the late
+“I mean to show you how mad my [[Love|love]] is. It was hawked through the late
 inquiries by Mr. Crisparkle, that young Landless had confessed to him
 that he was a rival of my lost boy. That is an inexpiable offence in my
 eyes. The same Mr. Crisparkle knows under my hand that I have devoted
 myself to the murderer’s discovery and destruction, be he whom he
 might, and that I determined to discuss the mystery with no one until I
 should hold the clue in which to entangle the murderer as in a net. I
-have since worked patiently to wind and wind it round him; and it is
+have since worked patiently to [[Wind|wind]] and [[Wind|wind]] it round him; and it is
 slowly winding as I speak.”
 
 [Illustration: Jasper’s sacrifices]
@@ -250,11 +250,11 @@ slowly winding as I speak.”
 “Your belief, if you believe in the criminality of Mr. Landless, is not
 Mr. Crisparkle’s belief, and he is a good man,” Rosa retorts.
 
-“My belief is my own; and I reserve it, worshipped of my soul!
-Circumstances may accumulate so strongly _even against an innocent
+“My belief is my own; and I reserve it, worshipped of my [[Soul|soul]]!
+Circumstances may accumulate so strongly _even against an [[Innocent|innocent]]
 man_, that directed, sharpened, and pointed, they may slay him. One
 wanting link discovered by perseverance against a guilty man, proves
-his guilt, however slight its evidence before, and he dies. Young
+his [[Guilt|guilt]], however slight its evidence before, and he dies. Young
 Landless stands in deadly peril either way.”
 
 “If you really suppose,” Rosa pleads with him, turning paler, “that I
@@ -264,17 +264,17 @@ himself to me, you are wrong.”
 He puts that from him with a slighting action of his hand and a curled
 lip.
 
-“I was going to show you how madly I love you. More madly now than
+“I was going to show you how madly I [[Love|love]] you. More madly now than
 ever, for I am willing to renounce the second object that has arisen in
 my life to divide it with you; and henceforth to have no object in
 existence but you only. Miss Landless has become your bosom friend. You
 care for her peace of mind?”
 
-“I love her dearly.”
+“I [[Love|love]] her dearly.”
 
 “You care for her good name?”
 
-“I have said, sir, I love her dearly.”
+“I have said, sir, I [[Love|love]] her dearly.”
 
 “I am unconsciously,” he observes with a smile, as he folds his hands
 upon the sun-dial and leans his chin upon them, so that his talk would
@@ -282,15 +282,15 @@ seem from the windows (faces occasionally come and go there) to be of
 the airiest and playfullest—“I am unconsciously giving offence by
 questioning again. I will simply make statements, therefore, and not
 put questions. You do care for your bosom friend’s good name, and you
-do care for her peace of mind. Then remove the shadow of the gallows
+do care for her peace of mind. Then remove the [[Shadow|shadow]] of the gallows
 from her, dear one!”
 
 “You dare propose to me to—”
 
 “Darling, I dare propose to you. Stop there. If it be bad to idolise
-you, I am the worst of men; if it be good, I am the best. My love for
-you is above all other love, and my truth to you is above all other
-truth. Let me have hope and favour, and I am a forsworn man for your
+you, I am the worst of men; if it be good, I am the best. My [[Love|love]] for
+you is above all other [[Love|love]], and my [[Truth|truth]] to you is above all other
+[[Truth|truth]]. Let me have [[Hope|hope]] and favour, and I am a forsworn man for your
 sake.”
 
 Rosa puts her hands to her temples, and, pushing back her hair, looks
@@ -301,7 +301,7 @@ fragments.
 “Reckon up nothing at this moment, angel, but the sacrifices that I lay
 at those dear feet, which I could fall down among the vilest ashes and
 kiss, and put upon my head as a poor savage might. There is my fidelity
-to my dear boy after death. Tread upon it!”
+to my dear boy after [[Death|death]]. Tread upon it!”
 
 With an action of his hands, as though he cast down something precious.
 
@@ -316,8 +316,8 @@ months. Crush them!”
 With another repetition of the action.
 
 “There is my past and my present wasted life. There is the desolation
-of my heart and my soul. There is my peace; there is my despair. Stamp
-them into the dust; so that you take me, were it even mortally hating
+of my heart and my [[Soul|soul]]. There is my peace; there is my [[Despair|despair]]. Stamp
+them into the [[Dust|dust]]; so that you take me, were it even mortally hating
 me!”
 
 The frightful vehemence of the man, now reaching its full height, so
@@ -325,20 +325,20 @@ additionally terrifies her as to break the spell that has held her to
 the spot. She swiftly moves towards the porch; but in an instant he is
 at her side, and speaking in her ear.
 
-“Rosa, I am self-repressed again. I am walking calmly beside you to the
-house. I shall wait for some encouragement and hope. I shall not strike
+“Rosa, I am [[Self|self]]-repressed again. I am walking calmly beside you to the
+[[house]]. I shall wait for some encouragement and [[Hope|hope]]. I shall not strike
 too soon. Give me a sign that you attend to me.”
 
 She slightly and constrainedly moves her hand.
 
 “Not a word of this to any one, or it will bring down the blow, as
-certainly as night follows day. Another sign that you attend to me.”
+certainly as [[Night|night]] follows day. Another sign that you attend to me.”
 
 She moves her hand once more.
 
-“I love you, love you, love you! If you were to cast me off now—but you
+“I [[Love|love]] you, [[Love|love]] you, [[Love|love]] you! If you were to cast me off now—but you
 will not—you would never be rid of me. No one should come between us. I
-would pursue you to the death.”
+would pursue you to the [[Death|death]].”
 
 The handmaid coming out to open the gate for him, he quietly pulls off
 his hat as a parting salute, and goes away with no greater show of
@@ -346,4 +346,4 @@ agitation than is visible in the effigy of Mr. Sapsea’s father
 opposite. Rosa faints in going up-stairs, and is carefully carried to
 her room and laid down on her bed. A thunderstorm is coming on, the
 maids say, and the hot and stifling air has overset the pretty dear: no
-wonder; they have felt their own knees all of a tremble all day long.
+[[Wonder|wonder]]; they have felt their own knees all of a tremble all day long.

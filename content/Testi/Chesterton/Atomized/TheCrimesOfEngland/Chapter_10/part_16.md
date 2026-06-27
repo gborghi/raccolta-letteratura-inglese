@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 16)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 16)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Germany--I do not mean "Faust," but Grimm's Fairy Tales--there is a
+[[Germany]]--I do not mean "[[Faust]]," but Grimm's Fairy Tales--there is a
 
 gorgeous story about a boy who went through a number of experiences
 
@@ -28,7 +28,7 @@ and joined up; but this was almost an anti-climax. Now that is very
 
 charming, and full of the best German domesticity. It suggests truly
 
-what wild adventures the traveller can find by stopping at home. But it
+what wild adventures the traveller can find by stopping at [[Home|home]]. But it
 
 also illustrates in various ways how that great German influence on
 
@@ -42,7 +42,7 @@ of the dark background of forest behind our European cities. That old
 
 German darkness was immeasurably livelier than the new German light. The
 
-devils of Germany were much better than the angels. Look at the Teutonic
+devils of [[Germany]] were much better than the angels. Look at the Teutonic
 
 pictures of "The Three Huntsmen" and observe that while the wicked
 
@@ -56,7 +56,7 @@ stages they have exactly this salt of salvation, that the boy does _not_
 
 shudder. They are made fearful that he may be fearless, not that he may
 
-fear. As long as that limit is kept, the barbaric dreamland is decent;
+[[Fear|fear]]. As long as that limit is kept, the barbaric dreamland is decent;
 
 and though individuals like Coleridge and De Quincey mixed it with worse
 
@@ -78,7 +78,7 @@ Hauptmann, we do see this growing tendency to take horror seriously,
 
 which is diabolism. The German begins to have an eerie abstract sympathy
 
-with the force and fear he describes, as distinct from their objective.
+with the force and [[Fear|fear]] he describes, as distinct from their objective.
 
 The German is no longer sympathising with the boy against the goblin,
 
@@ -90,7 +90,7 @@ forest are already building upon a mountain the empty throne of the
 
 Superman. Now it is just at this point that I for one, and most men who
 
-love truth as well as tales, begin to lose interest. I am all for "going
+[[Love|love]] [[Truth|truth]] as [[Well|well]] as tales, begin to lose interest. I am all for "going
 
 out into the world to seek my fortune," but I do not want to find
 
@@ -120,7 +120,7 @@ art, and stare at it, and cannot see round it. They will not believe
 
 that art is a light and slight thing--a feather, even if it be from an
 
-angelic wing. Only the slime is at the bottom of a pool; the sky is on
+angelic wing. Only the slime is at the [[Bottom|bottom]] of a pool; the sky is on
 
 the surface. We see this in that very typical process, the Germanising
 
@@ -134,9 +134,9 @@ above all, that he knew his art was an art and not an attribute of
 
 deity. That is what is the matter with the Germans; they cannot "ring
 
-fancy's knell"; their knells have no gaiety. The phrase of Hamlet about
+fancy's knell"; their knells have no gaiety. The phrase of [[Hamlet]] about
 
-"holding the mirror up to nature" is always quoted by such earnest
+"holding the [[Mirror|mirror]] up to [[Nature|nature]]" is always quoted by such earnest
 
 critics as meaning that art is nothing if not realistic. But it really
 
@@ -144,21 +144,21 @@ means (or at least its author really thought) that art is nothing if not
 
 artificial. Realists, like other barbarians, really _believe_ the
 
-mirror; and therefore break the mirror. Also they leave out the phrase
+[[Mirror|mirror]]; and therefore break the [[Mirror|mirror]]. Also they leave out the phrase
 
 "as 'twere," which must be read into every remark of Shakespeare, and
 
-especially every remark of Hamlet. What I mean by believing the mirror,
+especially every remark of [[Hamlet]]. What I mean by believing the [[Mirror|mirror]],
 
 and breaking it, can be recorded in one case I remember; in which a
 
-realistic critic quoted German authorities to prove that Hamlet had a
+realistic critic quoted German authorities to prove that [[Hamlet]] had a
 
 particular psycho-pathological abnormality, which is admittedly nowhere
 
 mentioned in the play. The critic was bewitched; he was thinking of
 
-Hamlet as a real man, with a background behind him three dimensions
+[[Hamlet]] as a real man, with a background behind him three dimensions
 
 deep--which does not exist in a looking-glass. "The best in this kind
 
@@ -170,11 +170,11 @@ more English than in his blunders; but he was nowhere more successful
 
 than in the description of very English types of character. And if
 
-anything is to be said about Hamlet, beyond what Shakespeare has said
+anything is to be said about [[Hamlet]], beyond what Shakespeare has said
 
-about him, I should say that Hamlet was an Englishman too. He was as
+about him, I should say that [[Hamlet]] was an Englishman too. He was as
 
-much an Englishman as he was a gentleman, and he had the very grave
+much an Englishman as he was a gentleman, and he had the very [[Grave|grave]]
 
 weaknesses of both characters. The chief English fault, especially in
 

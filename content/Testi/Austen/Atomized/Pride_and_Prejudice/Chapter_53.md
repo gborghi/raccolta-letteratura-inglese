@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 53"
+title: "[[Pride and Prejudice]] — Chapter 53"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -35,7 +35,7 @@ continue at least a twelvemonth.
 
 “Write to me very often, my dear.”
 
-“As often as I can. But you know married women have never much time for
+“As often as I can. But you know married women have never much [[Time|time]] for
 writing. My sisters may write to _me_. They will have nothing else to
 do.”
 
@@ -43,7 +43,7 @@ Mr. Wickham’s adieus were much more affectionate than his wife’s. He
 smiled, looked handsome, and said many pretty things.
 
 “He is as fine a fellow,” said Mr. Bennet, as soon as they were out of
-the house, “as ever I saw. He simpers, and smirks, and makes love to us
+the [[house]], “as ever I saw. He simpers, and smirks, and makes [[Love|love]] to us
 all. I am prodigiously proud of him. I defy even Sir William Lucas
 himself to produce a more valuable son-in-law.”
 
@@ -61,15 +61,15 @@ but only because her husband’s regiment happens to be so far off. If
 that had been nearer, she would not have gone so soon.”
 
 But the spiritless condition which this event threw her into was shortly
-relieved, and her mind opened again to the agitation of hope, by an
+relieved, and her mind opened again to the agitation of [[Hope|hope]], by an
 article of news which then began to be in circulation. The housekeeper
 at Netherfield had received orders to prepare for the arrival of her
 master, who was coming down in a day or two, to shoot there for several
 weeks. Mrs. Bennet was quite in the fidgets. She looked at Jane, and
 smiled, and shook her head, by turns.
 
-“Well, well, and so Mr. Bingley is coming down, sister,” (for Mrs.
-Philips first brought her the news). “Well, so much the better. Not that
+“[[Well]], [[Well|well]], and so Mr. Bingley is coming down, sister,” (for Mrs.
+Philips first brought her the news). “[[Well]], so much the better. Not that
 I care about it, though. He is nothing to us, you know, and I am sure I
 never want to see him again. But, however, he is very welcome to come to
 Netherfield, if he likes it. And who knows what _may_ happen? But that
@@ -77,22 +77,22 @@ is nothing to us. You know, sister, we agreed long ago never to mention
 a word about it. And so, it is quite certain he is coming?”
 
 “You may depend on it,” replied the other, “for Mrs. Nichols was in
-Meryton last night: I saw her passing by, and went out myself on purpose
-to know the truth of it; and she told me that it was certainly true. He
-comes down on Thursday, at the latest, very likely on Wednesday. She was
+Meryton last [[Night|night]]: I saw her passing by, and went out myself on purpose
+to know the [[Truth|truth]] of it; and she told me that it was certainly true. He
+comes down on [[thursday|Thursday]], at the latest, very likely on Wednesday. She was
 going to the butcher’s, she told me, on purpose to order in some meat on
 Wednesday, and she has got three couple of ducks just fit to be killed.”
 
 Miss Bennet had not been able to hear of his coming without changing
 colour. It was many months since she had mentioned his name to
-Elizabeth; but now, as soon as they were alone together, she said,--
+Elizabeth; but now, as soon as they were [[Alone|alone]] together, she said,--
 
 “I saw you look at me to-day, Lizzy, when my aunt told us of the present
 report; and I know I appeared distressed; but don’t imagine it was from
 any silly cause. I was only confused for the moment, because I felt that
 I _should_ be looked at. I do assure you that the news does not affect
-me either with pleasure or pain. I am glad of one thing, that he comes
-alone; because we shall see the less of him. Not that I am afraid of
+me either with pleasure or [[Pain|pain]]. I am glad of one thing, that he comes
+[[Alone|alone]]; because we shall see the less of him. Not that I am afraid of
 _myself_, but I dread other people’s remarks.”
 
 Elizabeth did not know what to make of it. Had she not seen him in
@@ -103,7 +103,7 @@ there _with_ his friend’s permission, or being bold enough to come
 without it.
 
 “Yet it is hard,” she sometimes thought, “that this poor man cannot come
-to a house, which he has legally hired, without raising all this
+to a [[house]], which he has legally hired, without raising all this
 speculation! I _will_ leave him to himself.”
 
 In spite of what her sister declared, and really believed to be her
@@ -119,7 +119,7 @@ will wait on him, of course.”
 
 “No, no. You forced me into visiting him last year, and promised, if I
 went to see him, he should marry one of my daughters. But it ended in
-nothing, and I will not be sent on a fool’s errand again.”
+nothing, and I will not be sent on a [[Fool|fool]]’s errand again.”
 
 His wife represented to him how absolutely necessary such an attention
 would be from all the neighbouring gentlemen, on his returning to
@@ -127,10 +127,10 @@ Netherfield.
 
 “’Tis an _etiquette_ I despise,” said he. “If he wants our society, let
 him seek it. He knows where we live. I will not spend _my_ hours in
-running after my neighbours every time they go away and come back
+running after my neighbours every [[Time|time]] they go away and come back
 again.”
 
-“Well, all I know is, that it will be abominably rude if you do not wait
+“[[Well]], all I know is, that it will be abominably rude if you do not wait
 on him. But, however, that shan’t prevent my asking him to dine here, I
 am determined. We must have Mrs. Long and the Gouldings soon. That will
 make thirteen with ourselves, so there will be just room at table for
@@ -143,7 +143,7 @@ _they_ did. As the day of his arrival drew near,--
 
 “I begin to be sorry that he comes at all,” said Jane to her sister. “It
 would be nothing; I could see him with perfect indifference; but I can
-hardly bear to hear it thus perpetually talked of. My mother means well;
+hardly bear to hear it thus perpetually talked of. My mother means [[Well|well]];
 but she does not know, no one can know, how much I suffer from what she
 says. Happy shall I be when his stay at Netherfield is over!”
 
@@ -157,12 +157,12 @@ contrived to have the earliest tidings of it, that the period of anxiety
 and fretfulness on her side be as long as it could. She counted the days
 that must intervene before their invitation could be sent--hopeless of
 seeing him before. But on the third morning after his arrival in
-Hertfordshire, she saw him from her dressing-room window enter the
-paddock, and ride towards the house.
+Hertfordshire, she saw him from her dressing-room [[Window|window]] enter the
+paddock, and ride towards the [[house]].
 
 Her daughters were eagerly called to partake of her joy. Jane resolutely
 kept her place at the table; but Elizabeth, to satisfy her mother, went
-to the window--she looked--she saw Mr. Darcy with him, and sat down
+to the [[Window|window]]--she looked--she saw Mr. Darcy with him, and sat down
 again by her sister.
 
 “There is a gentleman with him, mamma,” said Kitty; “who can it be?”
@@ -173,19 +173,19 @@ know.”
 “La!” replied Kitty, “it looks just like that man that used to be with
 him before. Mr. what’s his name--that tall, proud man.”
 
-“Good gracious! Mr. Darcy!--and so it does, I vow. Well, any friend of
+“Good gracious! Mr. Darcy!--and so it does, I vow. [[Well]], any friend of
 Mr. Bingley’s will always be welcome here, to be sure; but else I must
 say that I hate the very sight of him.”
 
 Jane looked at Elizabeth with surprise and concern. She knew but little
 of their meeting in Derbyshire, and therefore felt for the awkwardness
-which must attend her sister, in seeing him almost for the first time
+which must attend her sister, in seeing him almost for the first [[Time|time]]
 after receiving his explanatory letter. Both sisters were uncomfortable
 enough. Each felt for the other, and of course for themselves; and their
 mother talked on of her dislike of Mr. Darcy, and her resolution to be
 civil to him only as Mr. Bingley’s friend, without being heard by either
 of them. But Elizabeth had sources of uneasiness which could not yet be
-suspected by Jane, to whom she had never yet had courage to show Mrs.
+suspected by Jane, to whom she had never yet had [[Courage|courage]] to show Mrs.
 Gardiner’s letter, or to relate her own change of sentiment towards
 him. To Jane, he could be only a man whose proposals she had refused,
 and whose merits she had undervalued; but to her own more extensive
@@ -199,7 +199,7 @@ behaviour in Derbyshire.
 
 The colour which had been driven from her face returned for half a
 minute with an additional glow, and a smile of delight added lustre to
-her eyes, as she thought for that space of time that his affection and
+her eyes, as she thought for that space of [[Time|time]] that his affection and
 wishes must still be unshaken; but she would not be secure.
 
 “Let me first see how he behaves,” said she; “it will then be early
@@ -234,7 +234,7 @@ applied.
 
 Darcy, after inquiring of her how Mr. and Mrs. Gardiner did--a question
 which she could not answer without confusion--said scarcely anything. He
-was not seated by her: perhaps that was the reason of his silence; but
+was not seated by her: perhaps that was the reason of his [[Silence|silence]]; but
 it had not been so in Derbyshire. There he had talked to her friends
 when he could not to herself. But now several minutes elapsed, without
 bringing the sound of his voice; and when occasionally, unable to resist
@@ -246,33 +246,33 @@ with herself for being so.
 
 “Could I expect it to be otherwise?” said she. “Yet why did he come?”
 
-She was in no humour for conversation with anyone but himself; and to
-him she had hardly courage to speak.
+She was in no [[Humour|humour]] for conversation with anyone but himself; and to
+him she had hardly [[Courage|courage]] to speak.
 
 She inquired after his sister, but could do no more.
 
-“It is a long time, Mr. Bingley, since you went away,” said Mrs. Bennet.
+“It is a long [[Time|time]], Mr. Bingley, since you went away,” said Mrs. Bennet.
 
 He readily agreed to it.
 
 “I began to be afraid you would never come back again. People _did_ say,
-you meant to quit the place entirely at Michaelmas; but, however, I hope
+you meant to quit the place entirely at Michaelmas; but, however, I [[Hope|hope]]
 it is not true. A great many changes have happened in the neighbourhood
 since you went away. Miss Lucas is married and settled: and one of my
 own daughters. I suppose you have heard of it; indeed, you must have
 seen it in the papers. It was in the ‘Times’ and the ‘Courier,’ I know;
 though it was not put in as it ought to be. It was only said, ‘Lately,
-George Wickham, Esq., to Miss Lydia Bennet,’ without there being a
+George Wickham, Esq., to Miss [[Lydia Bennet]],’ without there being a
 syllable said of her father, or the place where she lived, or anything.
-It was my brother Gardiner’s drawing up, too, and I wonder how he came
+It was my brother Gardiner’s drawing up, too, and I [[Wonder|wonder]] how he came
 to make such an awkward business of it. Did you see it?”
 
 Bingley replied that he did, and made his congratulations. Elizabeth
 dared not lift up her eyes. How Mr. Darcy looked, therefore, she could
 not tell.
 
-“It is a delightful thing, to be sure, to have a daughter well married,”
-continued her mother; “but at the same time, Mr. Bingley, it is very
+“It is a delightful thing, to be sure, to have a daughter [[Well|well]] married,”
+continued her mother; “but at the same [[Time|time]], Mr. Bingley, it is very
 hard to have her taken away from me. They are gone down to Newcastle, a
 place quite northward it seems, and there they are to stay, I do not
 know how long. His regiment is there; for I suppose you have heard of
@@ -286,7 +286,7 @@ the exertion of speaking, which nothing else had so effectually done
 before; and she asked Bingley whether he meant to make any stay in the
 country at present. A few weeks, he believed.
 
-“When you have killed all your own birds, Mr. Bingley,” said her mother,
+“When you have killed all your own [[Birds|birds]], Mr. Bingley,” said her mother,
 “I beg you will come here and shoot as many as you please on Mr.
 Bennet’s manor. I am sure he will be vastly happy to oblige you, and
 will save all the best of the coveys for you.”
@@ -305,8 +305,8 @@ one or the other again!”
 
 Yet the misery, for which years of happiness were to offer no
 compensation, received soon afterwards material relief, from observing
-how much the beauty of her sister rekindled the admiration of her former
-lover. When first he came in, he had spoken to her but little, but every
+how much the [[Beauty|beauty]] of her sister rekindled the admiration of her former
+[[Lover|lover]]. When first he came in, he had spoken to her but little, but every
 five minutes seemed to be giving her more of his attention. He found her
 as handsome as she had been last year; as good-natured, and as
 unaffected, though not quite so chatty. Jane was anxious that no
@@ -314,12 +314,12 @@ difference should be perceived in her at all, and was really persuaded
 that she talked as much as ever; but her mind was so busily engaged,
 that she did not always know when she was silent.
 
-When the gentlemen rose to go away, Mrs. Bennet was mindful of her
+When the gentlemen [[Rose|rose]] to go away, Mrs. Bennet was mindful of her
 intended civility, and they were invited and engaged to dine at
-Longbourn in a few days’ time.
+Longbourn in a few days’ [[Time|time]].
 
 “You are quite a visit in my debt, Mr. Bingley,” she added; “for when
-you went to town last winter, you promised to take a family dinner with
+you went to town last [[Winter|winter]], you promised to take a family dinner with
 us as soon as you returned. I have not forgot, you see; and I assure you
 I was very much disappointed that you did not come back and keep your
 engagement.”
@@ -330,7 +330,7 @@ his concern at having been prevented by business. They then went away.
 Mrs. Bennet had been strongly inclined to ask them to stay and dine
 there that day; but, though she always kept a very good table, she did
 not think anything less than two courses could be good enough for a man
-on whom she had such anxious designs, or satisfy the appetite and pride
+on whom she had such anxious designs, or satisfy the appetite and [[Pride|pride]]
 of one who had ten thousand a year.
 
 

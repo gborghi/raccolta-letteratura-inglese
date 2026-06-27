@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — ORD KITCHENER (part 6)"
+title: "[[LordKitchener]] — ORD KITCHENER (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/LordKitchener-(Chesterton)"
@@ -28,21 +28,21 @@ race. The English professional soldier of our youth had been
 
 conspicuous not only by his red coat but by his rarity. When rare
 
-things become common they do not become commonplace. The memory of
+things become common they do not become commonplace. The [[Memory|memory]] of
 
 their singularity is still strong enough to give them rather the
 
 appearance of a prodigy, as anyone can realise by imagining an army of
 
-hunchbacks or a city of one-eyed men. The English soldier had indeed
+hunchbacks or a [[City|city]] of one-eyed men. The English soldier had indeed
 
 been respected as a patriotic symbol, but rather as a priest or a
 
 prince can be a symbol, as being the exception and not the rule. A
 
-child was taken to see the soldier outside Buckingham Palace almost as
+[[Child|child]] was taken to see the soldier outside [[Buckingham]] Palace almost as
 
-he was taken to see the King driving out of Buckingham Palace. Hence
+he was taken to see the [[King]] driving out of [[Buckingham]] Palace. Hence
 
 the first effect of the enlargement of the armies was something almost
 
@@ -60,7 +60,7 @@ set himself to their organisation, consisted entirely of volunteers.
 
 It was not till long after the whole face of England had been
 
-transformed by this mobilisation that the Government resorted to
+transformed by this mobilisation that the [[government|Government]] resorted to
 
 compulsion to bring in a mere margin of men. Save for the personality
 
@@ -70,9 +70,9 @@ from the English. While it was as universal as a tax, it was as
 
 spontaneous as a riot. But it is obvious that to produce so large and
 
-novel an effect out of the mere psychology of a nation, apart from its
+[[Novel|novel]] an effect out of the mere psychology of a nation, apart from its
 
-organisation, was something which required tact as well as decision:
+organisation, was something which required tact as [[Well|well]] as decision:
 
 and it is this which illustrated a side of the English general's
 
@@ -82,7 +82,7 @@ misunderstood.
 
 
 
-It is of the nature of national heroes of Kitchener's type that their
+It is of the [[Nature|nature]] of national heroes of Kitchener's type that their
 
 admirers are unjust to them. They would have been better appreciated
 
@@ -114,21 +114,21 @@ is the boast of the Christian and the civilised man--that he is free
 
 and flexible, yet always returns to his true position, like a tempered
 
-sword. Now too much of the eulogy on a man like Kitchener tended to
+[[Sword|sword]]. Now too much of the eulogy on a man like Kitchener tended to
 
-praise him not as a sword but as a poker. He happened to rise into his
+praise him not as a [[Sword|sword]] but as a poker. He happened to rise into his
 
-first fame at a time when much of the English Press and governing
+first fame at a [[Time|time]] when much of the English Press and governing
 
-class was still entirely duped by Germany, and to some extent judged
+class was still entirely duped by [[Germany]], and to some extent judged
 
-everything by a Bismarckian test of blood and iron. It tended to
+everything by a Bismarckian test of [[Blood|blood]] and iron. It tended to
 
 neglect the very real disadvantages, even in practical life, which lie
 
-upon the man of blood and iron, as compared with the man of blood and
+upon the man of [[Blood|blood]] and iron, as compared with the man of [[Blood|blood]] and
 
-bone. It is one grave disadvantage, for instance, that if a man made
+bone. It is one [[Grave|grave]] disadvantage, for instance, that if a man made
 
 of iron were to break his bones, they would not heal. In other words,
 
@@ -158,9 +158,9 @@ what a hand of iron would not know; and that is exactly the error in
 
 the German ideal of a hand of iron. No candid critic of England can
 
-read its history fairly and fail to see a certain flexibility and
+read its [[history]] fairly and fail to see a certain flexibility and
 
-self-modification; illiberal policies followed by liberal ones; men
+[[Self|self]]-modification; illiberal policies followed by liberal ones; men
 
 failing in something and succeeding in something else; men sent to do
 
@@ -186,7 +186,7 @@ conventions were those of the ordinary English officer, especially the
 
 officer who has lived among Orientals--conventions which in any case
 
-tend in the direction of silence. He also really had, and to an extent
+tend in the direction of [[Silence|silence]]. He also really had, and to an extent
 
 of which some people complained, a certain English embarrassment about
 

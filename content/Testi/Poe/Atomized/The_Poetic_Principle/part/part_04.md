@@ -1,5 +1,5 @@
 ---
-title: "The Poetic Principle (part 4)"
+title: "[[The Poetic Principle]] (part 4)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -13,20 +13,20 @@ tags:
 </nav>
 
 
-      With no great range of imagination, these lines have been justly admired
+      With no great range of [[Imagination|imagination]], these lines have been justly admired
       for their delicacy of expression. Some of the images are very effective.
       Nothing can be better than—
 
-    ———————the bards sublime,
+    ———————the bards [[Sublime|sublime]],
          Whose distant footsteps echo
-     Down the corridors of Time.
+     Down the corridors of [[Time]].
 
       The idea of the last quatrain is also very effective. The poem on the
       whole, however, is chiefly to be admired for the graceful _insouciance
-      _of its metre, so well in accordance with the character of the
+      _of its metre, so [[Well|well]] in accordance with the character of the
       sentiments, and especially for the _ease _of the general manner. This
       “ease” or naturalness, in a literary style, it has long been the fashion
-      to regard as ease in appearance alone—as a point of really difficult
+      to regard as ease in appearance [[Alone|alone]]—as a point of really difficult
       attainment. But not so:—a natural manner is difficult only to him
       who should never meddle with it—to the unnatural. It is but the
       result of writing with the understanding, or with the instinct, that _the
@@ -36,26 +36,26 @@ tags:
       be upon _all _occasions merely “quiet,” must necessarily upon _many
       _occasions be simply silly, or stupid; and has no more right to be
       considered “easy” or “natural” than a Cockney exquisite, or than the
-      sleeping Beauty in the waxworks.
+      sleeping [[Beauty]] in the waxworks.
 
-      Among the minor poems of Bryant, none has so much impressed me as the one
+      Among the minor [[Poems|poems]] of Bryant, none has so much impressed me as the one
       which he entitles “June.” I quote only a portion of it:—
 
-     There, through the long, long summer hours,
+     There, through the long, long [[Summer|summer]] hours,
          The golden light should lie,
-     And thick young herbs and groups of flowers
-         Stand in their beauty by.
+     And thick young herbs and groups of [[Flowers|flowers]]
+         Stand in their [[Beauty|beauty]] by.
      The oriole should build and tell
-     His love-tale, close beside my cell;
+     His [[Love|love]]-tale, close beside my cell;
          The idle butterfly
      Should rest him there, and there be heard
      The housewife-bee and humming bird.
-     And what, if cheerful shouts at noon,
+     And what, if cheerful shouts at [[Noon|noon]],
          Come, from the village sent,
-     Or songs of maids, beneath the moon,
+     Or [[songs]] of maids, beneath the [[Moon|moon]],
          With fairy laughter blent?
      And what if, in the evening light,
-     Betrothed lovers walk in sight
+     Betrothed [[lovers]] walk in sight
          Of my low monument?
      I would the lovely scene around
      Might know no sadder sight nor sound.
@@ -63,34 +63,34 @@ tags:
          The season’s glorious show,
      Nor would its brightness shine for me;
          Nor its wild music flow;
-     But if, around my place of sleep,
-     The friends I love should come to weep,
+     But if, around my place of [[Sleep|sleep]],
+     The friends I [[Love|love]] should come to weep,
          They might not haste to go.
-     Soft airs and song, and the light and bloom,
+     Soft airs and [[Song|song]], and the light and bloom,
      Should keep them lingering by my tomb.
      These to their soften’d hearts should bear
          The thoughts of what has been,
      And speak of one who cannot share
          The gladness of the scene;
      Whose part in all the pomp that fills
-     The circuit of the summer hills,
-         Is—that his grave is green;
+     The circuit of the [[Summer|summer]] hills,
+         Is—that his [[Grave|grave]] is green;
      And deeply would their hearts rejoice
      To hear again his living voice.
 
       The rhythmical flow here is even voluptuous—nothing could be more
       melodious. The poem has always affected me in a remarkable manner. The
-      intense melancholy which seems to well up, perforce, to the surface of all
-      the poet’s cheerful sayings about his grave, we find thrilling us to the
-      soul—while there is the truest poetic elevation in the thrill. The
+      intense [[Melancholy|melancholy]] which seems to [[Well|well]] up, perforce, to the surface of all
+      the poet’s cheerful sayings about his [[Grave|grave]], we find thrilling us to the
+      [[Soul|soul]]—while there is the truest poetic elevation in the thrill. The
       impression left is one of a pleasurable sadness. And if, in the remaining
       compositions which I shall introduce to you, there be more or less of a
       similar tone always apparent, let me remind you that (how or why we know
       not) this certain taint of sadness is inseparably connected with all the
-      higher manifestations of true Beauty. It is, nevertheless,
+      higher manifestations of true [[Beauty]]. It is, nevertheless,
 
-     A feeling of sadness and longing
-         That is not akin to pain,
+     A feeling of sadness and [[Longing|longing]]
+         That is not akin to [[Pain|pain]],
      And resembles sorrow only
          As the mist resembles the rain.
 
@@ -98,25 +98,25 @@ tags:
       of brilliancy and spirit as “The Health” of Edward Coate Pinckney:—
 
      I fill this cup to one made up
-         Of loveliness alone,
+         Of loveliness [[Alone|alone]],
      A woman, of her gentle sex
          The seeming paragon;
      To whom the better elements
-         And kindly stars have given
+         And kindly [[Stars|stars]] have given
      A form so fair that, like the air,
          ’Tis less of earth than heaven.
      Her every tone is music’s own,
-         Like those of morning birds,
+         Like those of morning [[Birds|birds]],
      And something more than melody
          Dwells ever in her words;
      The coinage of her heart are they,
          And from her lips each flows
      As one may see the burden’d bee
-         Forth issue from the rose.
+         Forth issue from the [[Rose|rose]].
      Affections are as thoughts to her,
          The measures of her hours;
      Her feelings have the flagrancy,
-         The freshness of young flowers;
+         The freshness of young [[Flowers|flowers]];
      And lovely passions, changing oft,
          So fill her, she appears
      The image of themselves by turns,—
@@ -125,12 +125,12 @@ tags:
          A picture on the brain,
      And of her voice in echoing hearts
          A sound must long remain;
-     But memory, such as mine of her,
+     But [[Memory|memory]], such as mine of her,
          So very much endears,
-     When death is nigh my latest sigh
+     When [[Death|death]] is nigh my latest sigh
          Will not be life’s, but hers.
      I fill’d this cup to one made up
-         Of loveliness alone,
+         Of loveliness [[Alone|alone]],
      A woman, of her gentle sex
          The seeming paragon—
      Her health! and would on earth there stood,

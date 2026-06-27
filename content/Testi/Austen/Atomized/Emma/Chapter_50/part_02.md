@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 12 (part 2)"
+title: "[[Emma]] — Chapter 12 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -19,37 +19,37 @@ many months,” continued Mrs. Weston, “she was energetic. This was one
 of her expressions. ‘I will not say, that since I entered into the
 engagement I have not had some happy moments; but I can say, that I
 have never known the blessing of one tranquil hour:’—and the quivering
-lip, Emma, which uttered it, was an attestation that I felt at my
+lip, [[Emma]], which uttered it, was an attestation that I felt at my
 heart.”
 
-“Poor girl!” said Emma. “She thinks herself wrong, then, for having
+“Poor girl!” said [[Emma]]. “She thinks herself wrong, then, for having
 consented to a private engagement?”
 
 “Wrong! No one, I believe, can blame her more than she is disposed to
 blame herself. ‘The consequence,’ said she, ‘has been a state of
-perpetual suffering to me; and so it ought. But after all the
+perpetual [[Suffering|suffering]] to me; and so it ought. But after all the
 punishment that misconduct can bring, it is still not less misconduct.
-Pain is no expiation. I never can be blameless. I have been acting
+[[Pain]] is no expiation. I never can be blameless. I have been acting
 contrary to all my sense of right; and the fortunate turn that every
 thing has taken, and the kindness I am now receiving, is what my
-conscience tells me ought not to be.’ ‘Do not imagine, madam,’ she
+[[Conscience|conscience]] tells me ought not to be.’ ‘Do not imagine, madam,’ she
 continued, ‘that I was taught wrong. Do not let any reflection fall on
 the principles or the care of the friends who brought me up. The error
 has been all my own; and I do assure you that, with all the excuse that
 present circumstances may appear to give, I shall yet dread making the
 story known to Colonel Campbell.’”
 
-“Poor girl!” said Emma again. “She loves him then excessively, I
+“Poor girl!” said [[Emma]] again. “She loves him then excessively, I
 suppose. It must have been from attachment only, that she could be led
 to form the engagement. Her affection must have overpowered her
 judgment.”
 
-“Yes, I have no doubt of her being extremely attached to him.”
+“Yes, I have no [[Doubt|doubt]] of her being extremely attached to him.”
 
-“I am afraid,” returned Emma, sighing, “that I must often have
+“I am afraid,” returned [[Emma]], sighing, “that I must often have
 contributed to make her unhappy.”
 
-“On your side, my love, it was very innocently done. But she probably
+“On your side, my [[Love|love]], it was very innocently done. But she probably
 had something of that in her thoughts, when alluding to the
 misunderstandings which he had given us hints of before. One natural
 consequence of the evil she had involved herself in,” she said, “was
@@ -67,33 +67,33 @@ opportunity, to thank you—I could not thank you too much—for every wish
 and every endeavour to do her good. She was sensible that you had never
 received any proper acknowledgment from herself.”
 
-“If I did not know her to be happy now,” said Emma, seriously, “which,
-in spite of every little drawback from her scrupulous conscience, she
+“If I did not know her to be happy now,” said [[Emma]], seriously, “which,
+in spite of every little drawback from her scrupulous [[Conscience|conscience]], she
 must be, I could not bear these thanks;—for, oh! Mrs. Weston, if there
 were an account drawn up of the evil and the good I have done Miss
-Fairfax!—Well (checking herself, and trying to be more lively), this is
+Fairfax!—[[Well]] (checking herself, and trying to be more lively), this is
 all to be forgotten. You are very kind to bring me these interesting
 particulars. They shew her to the greatest advantage. I am sure she is
-very good—I hope she will be very happy. It is fit that the fortune
+very good—I [[Hope|hope]] she will be very happy. It is fit that the fortune
 should be on his side, for I think the merit will be all on hers.”
 
 Such a conclusion could not pass unanswered by Mrs. Weston. She thought
-well of Frank in almost every respect; and, what was more, she loved
+[[Well|well]] of Frank in almost every respect; and, what was more, she loved
 him very much, and her defence was, therefore, earnest. She talked with
 a great deal of reason, and at least equal affection—but she had too
-much to urge for Emma’s attention; it was soon gone to Brunswick Square
+much to urge for [[Emma]]’s attention; it was soon gone to Brunswick Square
 or to Donwell; she forgot to attempt to listen; and when Mrs. Weston
 ended with, “We have not yet had the letter we are so anxious for, you
-know, but I hope it will soon come,” she was obliged to pause before
+know, but I [[Hope|hope]] it will soon come,” she was obliged to pause before
 she answered, and at last obliged to answer at random, before she could
 at all recollect what letter it was which they were so anxious for.
 
-“Are you well, my Emma?” was Mrs. Weston’s parting question.
+“Are you [[Well|well]], my [[Emma]]?” was Mrs. Weston’s parting question.
 
-“Oh! perfectly. I am always well, you know. Be sure to give me
+“Oh! perfectly. I am always [[Well|well]], you know. Be sure to give me
 intelligence of the letter as soon as possible.”
 
-Mrs. Weston’s communications furnished Emma with more food for
+Mrs. Weston’s communications furnished [[Emma]] with more food for
 unpleasant reflection, by increasing her esteem and compassion, and her
 sense of past injustice towards Miss Fairfax. She bitterly regretted
 not having sought a closer acquaintance with her, and blushed for the
@@ -101,9 +101,9 @@ envious feelings which had certainly been, in some measure, the cause.
 Had she followed Mr. Knightley’s known wishes, in paying that attention
 to Miss Fairfax, which was every way her due; had she tried to know her
 better; had she done her part towards intimacy; had she endeavoured to
-find a friend there instead of in Harriet Smith; she must, in all
-probability, have been spared from every pain which pressed on her
-now.—Birth, abilities, and education, had been equally marking one as
+find a friend there instead of in [[Harriet Smith]]; she must, in all
+probability, have been spared from every [[Pain|pain]] which pressed on her
+now.—Birth, abilities, and [[Education|education]], had been equally marking one as
 an associate for her, to be received with gratitude; and the other—what
 was she?—Supposing even that they had never become intimate friends;
 that she had never been admitted into Miss Fairfax’s confidence on this
@@ -113,10 +113,10 @@ abominable suspicions of an improper attachment to Mr. Dixon, which she
 had not only so foolishly fashioned and harboured herself, but had so
 unpardonably imparted; an idea which she greatly feared had been made a
 subject of material distress to the delicacy of Jane’s feelings, by the
-levity or carelessness of Frank Churchill’s. Of all the sources of evil
+levity or carelessness of [[Frank Churchill]]’s. Of all the sources of evil
 surrounding the former, since her coming to Highbury, she was persuaded
 that she must herself have been the worst. She must have been a
 perpetual enemy. They never could have been all three together, without
-her having stabbed Jane Fairfax’s peace in a thousand instances; and on
-Box Hill, perhaps, it had been the agony of a mind that would bear no
+her having stabbed [[Jane Fairfax]]’s peace in a thousand instances; and on
+Box [[Hill]], perhaps, it had been the agony of a mind that would bear no
 more.

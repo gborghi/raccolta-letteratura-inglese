@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 19 (part 1)"
+title: "[[Jane Eyre]] — Chapter 19 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -22,14 +22,14 @@ Sibyl she were—was seated snugly enough in an easy-chair at the
 chimney-corner. She had on a red cloak and a black bonnet: or rather, a
 broad-brimmed gipsy hat, tied down with a striped handkerchief under
 her chin. An extinguished candle stood on the table; she was bending
-over the fire, and seemed reading in a little black book, like a
-prayer-book, by the light of the blaze: she muttered the words to
+over the [[Fire|fire]], and seemed reading in a little black book, like a
+[[Prayer|prayer]]-book, by the light of the blaze: she muttered the words to
 herself, as most old women do, while she read; she did not desist
 immediately on my entrance: it appeared she wished to finish a
 paragraph.
 
 I stood on the rug and warmed my hands, which were rather cold with
-sitting at a distance from the drawing-room fire. I felt now as
+sitting at a distance from the drawing-room [[Fire|fire]]. I felt now as
 composed as ever I did in my life: there was nothing indeed in the
 gipsy’s appearance to trouble one’s calm. She shut her book and slowly
 looked up; her hat-brim partially shaded her face, yet I could see, as
@@ -38,11 +38,11 @@ black: elf-locks bristled out from beneath a white band which passed
 under her chin, and came half over her cheeks, or rather jaws: her eye
 confronted me at once, with a bold and direct gaze.
 
-“Well, and you want your fortune told?” she said, in a voice as decided
+“[[Well]], and you want your fortune told?” she said, in a voice as decided
 as her glance, as harsh as her features.
 
 “I don’t care about it, mother; you may please yourself: but I ought to
-warn you, I have no faith.”
+warn you, I have no [[Faith|faith]].”
 
 “It’s like your impudence to say so: I expected it of you; I heard it
 in your step as you crossed the threshold.”
@@ -66,18 +66,18 @@ you tremble?”
 
 “I’m not silly.”
 
-The old crone “nichered” a laugh under her bonnet and bandage; she then
+The old [[Crone|crone]] “nichered” a laugh under her bonnet and bandage; she then
 drew out a short black pipe, and lighting it began to smoke. Having
-indulged a while in this sedative, she raised her bent body, took the
-pipe from her lips, and while gazing steadily at the fire, said very
+indulged a while in this sedative, she raised her bent [[Body|body]], took the
+pipe from her lips, and while gazing steadily at the [[Fire|fire]], said very
 deliberately—
 
 “You are cold; you are sick; and you are silly.”
 
 “Prove it,” I rejoined.
 
-“I will, in few words. You are cold, because you are alone: no contact
-strikes the fire from you that is in you. You are sick; because the
+“I will, in few words. You are cold, because you are [[Alone|alone]]: no contact
+strikes the [[Fire|fire]] from you that is in you. You are sick; because the
 best of feelings, the highest and the sweetest given to man, keeps far
 away from you. You are silly, because, suffer as you may, you will not
 beckon it to approach, nor will you stir one step to meet it where it
@@ -87,7 +87,7 @@ She again put her short black pipe to her lips, and renewed her smoking
 with vigour.
 
 “You might say all that to almost any one who you knew lived as a
-solitary dependent in a great house.”
+solitary dependent in a [[Great House|great house]].”
 
 “I might say it to almost any one: but would it be true of almost any
 one?”
@@ -105,11 +105,11 @@ are all prepared; there only wants a movement to combine them. Chance
 laid them somewhat apart; let them be once approached and bliss
 results.”
 
-“I don’t understand enigmas. I never could guess a riddle in my life.”
+“I don’t understand enigmas. I never could guess a [[Riddle|riddle]] in my life.”
 
 “If you wish me to speak more plainly, show me your palm.”
 
-“And I must cross it with silver, I suppose?”
+“And I must [[Cross|cross]] it with silver, I suppose?”
 
 “To be sure.”
 
@@ -128,33 +128,33 @@ written there.”
 eyes, in the lines of the mouth. Kneel, and lift up your head.”
 
 “Ah! now you are coming to reality,” I said, as I obeyed her. “I shall
-begin to put some faith in you presently.”
+begin to put some [[Faith|faith]] in you presently.”
 
-I knelt within half a yard of her. She stirred the fire, so that a
+I knelt within half a yard of her. She stirred the [[Fire|fire]], so that a
 ripple of light broke from the disturbed coal: the glare, however, as
-she sat, only threw her face into deeper shadow: mine, it illumined.
+she sat, only threw her face into deeper [[Shadow|shadow]]: mine, it illumined.
 
-“I wonder with what feelings you came to me to-night,” she said, when
-she had examined me a while. “I wonder what thoughts are busy in your
+“I [[Wonder|wonder]] with what feelings you came to me to-[[Night|night]],” she said, when
+she had examined me a while. “I [[Wonder|wonder]] what thoughts are busy in your
 heart during all the hours you sit in yonder room with the fine people
-flitting before you like shapes in a magic-lantern: just as little
+flitting before you like shapes in a [[Magic|magic]]-lantern: just as little
 sympathetic communion passing between you and them as if they were
 really mere shadows of human forms, and not the actual substance.”
 
 “I feel tired often, sleepy sometimes, but seldom sad.”
 
-“Then you have some secret hope to buoy you up and please you with
+“Then you have some secret [[Hope|hope]] to buoy you up and please you with
 whispers of the future?”
 
-“Not I. The utmost I hope is, to save money enough out of my earnings
-to set up a school some day in a little house rented by myself.”
+“Not I. The utmost I [[Hope|hope]] is, to save money enough out of my earnings
+to set up a school some day in a little [[house]] rented by myself.”
 
 “A mean nutriment for the spirit to exist on: and sitting in that
-window-seat (you see I know your habits)—”
+[[Window|window]]-seat (you see I know your habits)—”
 
 “You have learned them from the servants.”
 
-“Ah! you think yourself sharp. Well, perhaps I have: to speak truth, I
+“Ah! you think yourself sharp. [[Well]], perhaps I have: to speak [[Truth|truth]], I
 have an acquaintance with one of them, Mrs. Poole—”
 
 I started to my feet when I heard the name.
@@ -164,7 +164,7 @@ after all, then!”
 
 “Don’t be alarmed,” continued the strange being; “she’s a safe hand is
 Mrs. Poole: close and quiet; any one may repose confidence in her. But,
-as I was saying: sitting in that window-seat, do you think of nothing
+as I was saying: sitting in that [[Window|window]]-seat, do you think of nothing
 but your future school? Have you no present interest in any of the
 company who occupy the sofas and chairs before you? Is there not one
 face you study? one figure whose movements you follow with at least

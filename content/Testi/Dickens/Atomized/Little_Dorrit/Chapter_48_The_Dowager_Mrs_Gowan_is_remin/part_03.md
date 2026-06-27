@@ -17,10 +17,10 @@ tags:
 Everything about him tended to confirm him in the custom of looking on
 himself as an elderly man, from whom such aspirations as he had combated
 in the case of Minnie Gowan (though that was not so long ago either,
-reckoning by months and seasons), were finally departed. His relations
+reckoning by months and [[Seasons|seasons]]), were finally departed. His relations
 with her father and mother were like those on which a widower son-in-law
 might have stood. If the twin sister who was dead had lived to pass away
-in the bloom of womanhood, and he had been her husband, the nature of
+in the bloom of womanhood, and he had been her husband, the [[Nature|nature]] of
 his intercourse with Mr and Mrs Meagles would probably have been just
 what it was. This imperceptibly helped to render habitual the impression
 within him, that he had done with, and dismissed that part of life.
@@ -28,7 +28,7 @@ within him, that he had done with, and dismissed that part of life.
 He invariably heard of Minnie from them, as telling them in her letters
 how happy she was, and how she loved her husband; but inseparable from
 that subject, he invariably saw the old cloud on Mr Meagles’s face. Mr
-Meagles had never been quite so radiant since the marriage as before.
+Meagles had never been quite so radiant since the [[Marriage|marriage]] as before.
 He had never quite recovered the separation from Pet. He was the same
 good-humoured, open creature; but as if his face, from being much turned
 towards the pictures of his two children which could show him only one
@@ -36,7 +36,7 @@ look, unconsciously adopted a characteristic from them, it always had
 now, through all its changes of expression, a look of loss in it.
 
 One wintry Saturday when Clennam was at the cottage, the Dowager Mrs
-Gowan drove up, in the Hampton Court equipage which pretended to be the
+Gowan drove up, in the Hampton [[Court]] equipage which pretended to be the
 exclusive equipage of so many individual proprietors. She descended, in
 her shady ambuscade of green fan, to favour Mr and Mrs Meagles with a
 call.
@@ -53,7 +53,7 @@ fallen a victim to the Meagles’ wiles.
 than I have?’
 
 Which also delicately implied that her son had been captured by mere
-beauty, and under its fascination had forgone all sorts of worldly
+[[Beauty|beauty]], and under its fascination had forgone all sorts of worldly
 advantages.
 
 ‘I am sure,’ said Mrs Gowan, without straining her attention on the
@@ -63,8 +63,8 @@ so used to roving about, and to being inconstant and popular among all
 manner of people, that it’s the greatest comfort in life. I suppose
 they’re as poor as mice, Papa Meagles?’
 
-Mr Meagles, fidgety under the question, replied, ‘I hope not, ma’am. I
-hope they will manage their little income.’
+Mr Meagles, fidgety under the question, replied, ‘I [[Hope|hope]] not, ma’am. I
+[[Hope|hope]] they will manage their little income.’
 
 ‘Oh! my dearest Meagles!’ returned the lady, tapping him on the arm with
 the green fan and then adroitly interposing it between a yawn and
@@ -79,12 +79,12 @@ artful schemer.)
 dear fellow! The idea of his managing hundreds! And the sweet pretty
 creature too. The notion of her managing! Papa Meagles! Don’t!’
 
-‘Well, ma’am,’ said Mr Meagles, gravely, ‘I am sorry to admit, then,
+‘[[Well]], ma’am,’ said Mr Meagles, gravely, ‘I am sorry to admit, then,
 that Henry certainly does anticipate his means.’
 
 ‘My dear good man--I use no ceremony with you, because we are a kind of
 relations;--positively, Mama Meagles,’ exclaimed Mrs Gowan cheerfully,
-as if the absurd coincidence then flashed upon her for the first time,
+as if the absurd coincidence then flashed upon her for the first [[Time|time]],
 ‘a kind of relations! My dear good man, in this world none of us can
 have _everything_ our own way.’
 
@@ -133,9 +133,9 @@ too much.’
 
 ‘There, there!’ said Mrs Gowan, putting him in his inferior place with
 an expressive action of her hand. ‘Too much for my poor fellow’s
-mother to bear at this time of day. They are fast married, and can’t
+mother to bear at this [[Time|time]] of day. They are fast married, and can’t
 be unmarried. There, there! I know that! You needn’t tell me that, Papa
-Meagles. I know it very well. What was it I said just now? That it was
+Meagles. I know it very [[Well|well]]. What was it I said just now? That it was
 a great comfort they continued happy. It is to be hoped they will still
 continue happy. It is to be hoped Pretty One will do everything she
 can to make my poor fellow happy, and keep him contented. Papa and Mama

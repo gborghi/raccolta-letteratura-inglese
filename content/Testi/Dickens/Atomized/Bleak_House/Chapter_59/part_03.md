@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 59 (part 3)"
+title: "Bleak [[house|House]] — Chapter 59 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -32,9 +32,9 @@ heart that can feel for another. Mr. Woodcourt, would you be so good
 as see to her, and if you can get that letter from her, to let me
 have it as soon as ever you can?”
 
-As they went out, Mr. Bucket made me sit down in a corner by the fire
+As they went out, Mr. Bucket made me sit down in a corner by the [[Fire|fire]]
 and take off my wet shoes, which he turned up to dry upon the fender,
-talking all the time.
+talking all the [[Time|time]].
 
 “Don’t you be at all put out, miss, by the want of a hospitable look
 from Mrs. Snagsby there, because she’s under a mistake altogether.
@@ -44,7 +44,7 @@ to explain it to her.” Here, standing on the hearth with his wet hat
 and shawls in his hand, himself a pile of wet, he turned to Mrs.
 Snagsby. “Now, the first thing that I say to you, as a married woman
 possessing what you may call charms, you know—‘Believe Me, if All
-Those Endearing,’ and cetrer—you’re well acquainted with the song,
+Those Endearing,’ and cetrer—you’re [[Well|well]] acquainted with the [[Song|song]],
 because it’s in vain for you to tell me that you and good society are
 strangers—charms—attractions, mind you, that ought to give you
 confidence in yourself—is, that you’ve done it.”
@@ -53,10 +53,10 @@ Mrs. Snagsby looked rather alarmed, relented a little and faltered,
 what did Mr. Bucket mean.
 
 “What does Mr. Bucket mean?” he repeated, and I saw by his face that
-all the time he talked he was listening for the discovery of the
+all the [[Time|time]] he talked he was listening for the discovery of the
 letter, to my own great agitation, for I knew then how important it
-must be; “I’ll tell you what he means, ma’am. Go and see Othello
-acted. That’s the tragedy for you.”
+must be; “I’ll tell you what he means, ma’am. Go and see [[Othello]]
+acted. That’s the [[Tragedy|tragedy]] for you.”
 
 Mrs. Snagsby consciously asked why.
 
@@ -64,13 +64,13 @@ Mrs. Snagsby consciously asked why.
 look out. Why, at the very moment while I speak, I know what your
 mind’s not wholly free from respecting this young lady. But shall I
 tell you who this young lady is? Now, come, you’re what I call an
-intellectual woman—with your soul too large for your body, if you
+intellectual woman—with your [[Soul|soul]] too large for your [[Body|body]], if you
 come to that, and chafing it—and you know me, and you recollect
 where you saw me last, and what was talked of in that circle. Don’t
-you? Yes! Very well. This young lady is that young lady.”
+you? Yes! Very [[Well|well]]. This young lady is that young lady.”
 
 Mrs. Snagsby appeared to understand the reference better than I did
-at the time.
+at the [[Time|time]].
 
 “And Toughey—him as you call Jo—was mixed up in the same business,
 and no other; and the law-writer that you know of was mixed up in the
@@ -81,13 +81,13 @@ the whole bileing of people was mixed up in the same business, and no
 other. And yet a married woman, possessing your attractions, shuts
 her eyes (and sparklers too), and goes and runs her delicate-formed
 head against a wall. Why, I am ashamed of you! (I expected Mr.
-Woodcourt might have got it by this time.)”
+Woodcourt might have got it by this [[Time|time]].)”
 
 Mrs. Snagsby shook her head and put her handkerchief to her eyes.
 
 “Is that all?” said Mr. Bucket excitedly. “No. See what happens.
 Another person mixed up in that business and no other, a person in a
-wretched state, comes here to-night and is seen a-speaking to your
+wretched state, comes here to-[[Night|night]] and is seen a-speaking to your
 maid-servant; and between her and your maid-servant there passes
 a paper that I would give a hundred pound for, down. What do
 you do? You hide and you watch ’em, and you pounce upon that
@@ -129,21 +129,21 @@ follows:
    object, to elude pursuit and to be lost. Do not blame the
    mother for her share. The assistance that she rendered me,
    she rendered on my strongest assurance that it was for the
-   dear one’s good. You remember her dead child. The men’s
+   dear one’s good. You remember her dead [[Child|child]]. The men’s
    consent I bought, but her help was freely given.
 
 
 “‘I came.’ That was written,” said my companion, “when she rested
 there. It bears out what I made of it. I was right.”
 
-The next was written at another time:
+The next was written at another [[Time|time]]:
 
 
    I have wandered a long distance, and for many hours, and
    I know that I must soon die. These streets! I have no
    purpose but to die. When I left, I had a worse, but I am
-   saved from adding that guilt to the rest. Cold, wet, and
+   saved from adding that [[Guilt|guilt]] to the rest. Cold, wet, and
    fatigue are sufficient causes for my being found dead, but
    I shall die of others, though I suffer from these. It was
    right that all that had sustained me should give way at
-   once and that I should die of terror and my conscience.
+   once and that I should die of terror and my [[Conscience|conscience]].

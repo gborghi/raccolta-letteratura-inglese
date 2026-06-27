@@ -1,5 +1,5 @@
 ---
-title: "Emma — Volume 2"
+title: "[[Emma]] — Volume 2"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Emma-(Austen)"

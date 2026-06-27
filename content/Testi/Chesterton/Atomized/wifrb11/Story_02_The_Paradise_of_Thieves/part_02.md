@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Paradise of Thieves (part 2)"
+title: "[[wifrb11]] — The Paradise of Thieves (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -21,7 +21,7 @@ the courier Ezza to share their table and their talk.  In Ethel Harrogate
 conventionality crowned itself with a perfection and splendour of its own. 
 Proud of her father's prosperity, fond of fashionable pleasures,
 a fond daughter but an arrant flirt, she was all these things with
-a sort of golden good-nature that made her very pride pleasing
+a sort of golden good-[[Nature|nature]] that made her very [[Pride|pride]] pleasing
 and her worldly respectability a fresh and hearty thing.
 
      They were in an eddy of excitement about some alleged peril
@@ -32,16 +32,16 @@ of the modern legend, still haunted that ridge and held that pass
 of the Apennines.
 
      "They say," she cried, with the awful relish of a schoolgirl,
-"that all that country isn't ruled by the King of Italy, but by
-the King of Thieves.  Who is the King of Thieves?"
+"that all that country isn't ruled by the [[King]] of [[Italy]], but by
+the [[King]] of Thieves.  Who is the [[King]] of Thieves?"
 
      "A great man," replied Muscari, "worthy to rank with
-your own Robin Hood, signorina.  Montano, the King of Thieves,
-was first heard of in the mountains some ten years ago, when people
+your own [[Robin Hood]], signorina.  Montano, the [[King]] of Thieves,
+was first heard of in the [[Mountains|mountains]] some ten years ago, when people
 said brigands were extinct.  But his wild authority spread with
 the swiftness of a silent revolution.  Men found his fierce proclamations
 nailed in every mountain village; his sentinels, gun in hand,
-in every mountain ravine.  Six times the Italian Government
+in every mountain ravine.  Six times the Italian [[government|Government]]
 tried to dislodge him, and was defeated in six pitched battles
 as if by Napoleon."
 
@@ -51,20 +51,20 @@ choose another route.  But the courier thought it perfectly safe."
 
      "It is perfectly safe," said the courier contemptuously. 
 "I have been over it twenty times.  There may have been some old
-jailbird called a King in the time of our grandmothers;
-but he belongs to history if not to fable.  Brigandage is utterly
+jailbird called a [[King]] in the [[Time|time]] of our grandmothers;
+but he belongs to [[history]] if not to [[Fable|fable]].  Brigandage is utterly
 stamped out."
 
      "It can never be utterly stamped out," Muscari answered;
 "because armed revolt is a recreation natural to southerners. 
-Our peasants are like their mountains, rich in grace and green gaiety,
-but with the fires beneath.  There is a point of human despair where
+Our peasants are like their [[Mountains|mountains]], rich in grace and green gaiety,
+but with the fires beneath.  There is a point of human [[Despair|despair]] where
 the northern poor take to drink--and our own poor take to daggers."
 
      "A poet is privileged," replied Ezza, with a sneer. 
 "If Signor Muscari were English he would still be looking
 for highwaymen in Wandsworth.  Believe me, there is no more danger
-of being captured in Italy than of being scalped in Boston."
+of being captured in [[Italy]] than of being scalped in Boston."
 
      "Then you propose to attempt it?" asked Mr Harrogate, frowning.
 
@@ -75,9 +75,9 @@ glorious eyes on Muscari.  "Do you really think the pass is dangerous?"
 he said.  "I am crossing it tomorrow."
 
      The young Harrogate was left behind for a moment emptying a glass of
-white wine and lighting a cigarette, as the beauty retired with the banker,
-the courier and the poet, distributing peals of silvery satire. 
-At about the same instant the two priests in the corner rose;
+white wine and lighting a cigarette, as the [[Beauty|beauty]] retired with the banker,
+the courier and the poet, distributing peals of silvery [[Satire|satire]]. 
+At about the same instant the two priests in the corner [[Rose|rose]];
 the taller, a white-haired Italian, taking his leave.  The shorter priest
 turned and walked towards the banker's son, and the latter was astonished
 to realize that though a Roman priest the man was an Englishman. 
@@ -92,11 +92,11 @@ take care of your sister in her great sorrow."
 
      Even for Frank's truly fraternal indifference the radiance
 and derision of his sister still seemed to sparkle and ring;
-he could hear her laughter still from the garden of the hotel,
+he could hear her laughter still from the [[Garden|garden]] of the hotel,
 and he stared at his sombre adviser in puzzledom.
 
      "Do you mean the brigands?" he asked; and then, remembering
-a vague fear of his own, "or can you be thinking of Muscari?"
+a vague [[Fear|fear]] of his own, "or can you be thinking of Muscari?"
 
      "One is never thinking of the real sorrow," said the strange priest. 
 "One can only be kind when it comes."
@@ -108,10 +108,10 @@ with his mouth open.
 really crawling and staggering up the spurs of the menacing mountain range. 
 Between Ezza's cheery denial of the danger and Muscari's boisterous
 defiance of it, the financial family were firm in their original purpose;
-and Muscari made his mountain journey coincide with theirs. 
+and Muscari made his mountain [[Journey|journey]] coincide with theirs. 
 A more surprising feature was the appearance at the coast-town station
 of the little priest of the restaurant; he alleged merely
-that business led him also to cross the mountains of the midland. 
+that business led him also to [[Cross|cross]] the [[Mountains|mountains]] of the midland. 
 But young Harrogate could not but connect his presence with
 the mystical fears and warnings of yesterday.
 
@@ -129,10 +129,10 @@ the lovely Englishwoman; on the other side of her sat the priest,
 whose name was Brown and who was fortunately a silent individual;
 the courier and the father and son were on the banc behind. 
 Muscari was in towering spirits, seriously believing in the peril,
-and his talk to Ethel might well have made her think him a maniac. 
+and his talk to Ethel might [[Well|well]] have made her think him a maniac. 
 But there was something in the crazy and gorgeous ascent,
 amid crags like peaks loaded with woods like orchards, that dragged
-her spirit up alone with his into purple preposterous heavens
-with wheeling suns.  The white road climbed like a white cat;
+her spirit up [[Alone|alone]] with his into purple preposterous heavens
+with wheeling suns.  The white [[Road|road]] climbed like a white cat;
 it spanned sunless chasms like a tight-rope; it was flung round
 far-off headlands like a lasso.

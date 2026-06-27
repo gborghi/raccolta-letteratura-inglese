@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 4 (part 1)"
+title: "[[Emma]] — Chapter 4 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -17,17 +17,17 @@ tags:
 CHAPTER IV
 
 
-Harriet Smith’s intimacy at Hartfield was soon a settled thing. Quick
-and decided in her ways, Emma lost no time in inviting, encouraging,
+[[Harriet Smith]]’s intimacy at Hartfield was soon a settled thing. Quick
+and decided in her ways, [[Emma]] lost no [[Time|time]] in inviting, encouraging,
 and telling her to come very often; and as their acquaintance
 increased, so did their satisfaction in each other. As a walking
-companion, Emma had very early foreseen how useful she might find her.
+companion, [[Emma]] had very early foreseen how useful she might find her.
 In that respect Mrs. Weston’s loss had been important. Her father never
 went beyond the shrubbery, where two divisions of the ground sufficed
 him for his long walk, or his short, as the year varied; and since Mrs.
-Weston’s marriage her exercise had been too much confined. She had
-ventured once alone to Randalls, but it was not pleasant; and a Harriet
-Smith, therefore, one whom she could summon at any time to a walk,
+Weston’s [[Marriage|marriage]] her exercise had been too much confined. She had
+ventured once [[Alone|alone]] to Randalls, but it was not pleasant; and a Harriet
+[[smith|Smith]], therefore, one whom she could summon at any [[Time|time]] to a walk,
 would be a valuable addition to her privileges. But in every respect,
 as she saw more of her, she approved her, and was confirmed in all her
 kind designs.
@@ -38,8 +38,8 @@ guided by any one she looked up to. Her early attachment to herself was
 very amiable; and her inclination for good company, and power of
 appreciating what was elegant and clever, shewed that there was no want
 of taste, though strength of understanding must not be expected.
-Altogether she was quite convinced of Harriet Smith’s being exactly the
-young friend she wanted—exactly the something which her home required.
+Altogether she was quite convinced of [[Harriet Smith]]’s being exactly the
+young friend she wanted—exactly the something which her [[Home|home]] required.
 Such a friend as Mrs. Weston was out of the question. Two such could
 never be granted. Two such she did not want. It was quite a different
 sort of thing, a sentiment distinct and independent. Mrs. Weston was
@@ -49,9 +49,9 @@ Weston there was nothing to be done; for Harriet every thing.
 
 Her first attempts at usefulness were in an endeavour to find out who
 were the parents, but Harriet could not tell. She was ready to tell
-every thing in her power, but on this subject questions were vain. Emma
+every thing in her power, but on this subject questions were vain. [[Emma]]
 was obliged to fancy what she liked—but she could never believe that in
-the same situation _she_ should not have discovered the truth. Harriet
+the same situation _she_ should not have discovered the [[Truth|truth]]. Harriet
 had no penetration. She had been satisfied to hear and believe just
 what Mrs. Goddard chose to tell her; and looked no farther.
 
@@ -61,7 +61,7 @@ conversation—and but for her acquaintance with the Martins of
 Abbey-Mill Farm, it must have been the whole. But the Martins occupied
 her thoughts a good deal; she had spent two very happy months with
 them, and now loved to talk of the pleasures of her visit, and describe
-the many comforts and wonders of the place. Emma encouraged her
+the many comforts and wonders of the place. [[Emma]] encouraged her
 talkativeness—amused by such a picture of another set of beings, and
 enjoying the youthful simplicity which could speak with so much
 exultation of Mrs. Martin’s having “_two_ parlours, two very good
@@ -71,16 +71,16 @@ five-and-twenty years with her; and of their having eight cows, two of
 them Alderneys, and one a little Welch cow, a very pretty little Welch
 cow indeed; and of Mrs. Martin’s saying as she was so fond of it, it
 should be called _her_ cow; and of their having a very handsome
-summer-house in their garden, where some day next year they were all to
-drink tea:—a very handsome summer-house, large enough to hold a dozen
+[[Summer|summer]]-[[house]] in their [[Garden|garden]], where some day next year they were all to
+drink tea:—a very handsome [[Summer|summer]]-[[house]], large enough to hold a dozen
 people.”
 
-For some time she was amused, without thinking beyond the immediate
+For some [[Time|time]] she was amused, without thinking beyond the immediate
 cause; but as she came to understand the family better, other feelings
 arose. She had taken up a wrong idea, fancying it was a mother and
 daughter, a son and son’s wife, who all lived together; but when it
 appeared that the Mr. Martin, who bore a part in the narrative, and was
-always mentioned with approbation for his great good-nature in doing
+always mentioned with approbation for his great good-[[Nature|nature]] in doing
 something or other, was a single man; that there was no young Mrs.
 Martin, no wife in the case; she did suspect danger to her poor little
 friend from all this hospitality and kindness, and that, if she were
@@ -94,22 +94,22 @@ evening games; and dwelt a good deal upon his being so very
 good-humoured and obliging. He had gone three miles round one day in
 order to bring her some walnuts, because she had said how fond she was
 of them, and in every thing else he was so very obliging. He had his
-shepherd’s son into the parlour one night on purpose to sing to her.
+shepherd’s son into the parlour one [[Night|night]] on purpose to sing to her.
 She was very fond of singing. He could sing a little himself. She
 believed he was very clever, and understood every thing. He had a very
 fine flock, and, while she was with them, he had been bid more for his
-wool than any body in the country. She believed every body spoke well
+wool than any [[Body|body]] in the country. She believed every [[Body|body]] spoke [[Well|well]]
 of him. His mother and sisters were very fond of him. Mrs. Martin had
 told her one day (and there was a blush as she said it,) that it was
-impossible for any body to be a better son, and therefore she was sure,
+impossible for any [[Body|body]] to be a better son, and therefore she was sure,
 whenever he married, he would make a good husband. Not that she
 _wanted_ him to marry. She was in no hurry at all.
 
-“Well done, Mrs. Martin!” thought Emma. “You know what you are about.”
+“[[Well]] done, Mrs. Martin!” thought [[Emma]]. “You know what you are about.”
 
 “And when she had come away, Mrs. Martin was so very kind as to send
 Mrs. Goddard a beautiful goose—the finest goose Mrs. Goddard had ever
-seen. Mrs. Goddard had dressed it on a Sunday, and asked all the three
+seen. Mrs. Goddard had dressed it on a [[Sunday]], and asked all the three
 teachers, Miss Nash, and Miss Prince, and Miss Richardson, to sup with
 her.”
 
@@ -119,10 +119,10 @@ his own business? He does not read?”
 “Oh yes!—that is, no—I do not know—but I believe he has read a good
 deal—but not what you would think any thing of. He reads the
 Agricultural Reports, and some other books that lay in one of the
-window seats—but he reads all _them_ to himself. But sometimes of an
+[[Window|window]] seats—but he reads all _them_ to himself. But sometimes of an
 evening, before we went to cards, he would read something aloud out of
 the Elegant Extracts, very entertaining. And I know he has read the
-Vicar of Wakefield. He never read the Romance of the Forest, nor The
+Vicar of Wakefield. He never read the [[Romance]] of the Forest, nor The
 Children of the Abbey. He had never heard of such books before I
 mentioned them, but he is determined to get them now as soon as ever he
 can.”

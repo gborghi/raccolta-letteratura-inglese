@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 42"
+title: "[[Mansfield Park]] — Chapter 42"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -22,17 +22,17 @@ Crawford appeared again. He came, not to stop, but to join them; he was
 asked to go with them to the Garrison chapel, which was exactly what he
 had intended, and they all walked thither together.
 
-The family were now seen to advantage. Nature had given them no
-inconsiderable share of beauty, and every Sunday dressed them in their
-cleanest skins and best attire. Sunday always brought this comfort to
-Fanny, and on this Sunday she felt it more than ever. Her poor mother
-now did not look so very unworthy of being Lady Bertram’s sister as she
+The family were now seen to advantage. [[Nature]] had given them no
+inconsiderable share of [[Beauty|beauty]], and every [[Sunday]] dressed them in their
+cleanest skins and best attire. [[Sunday]] always brought this comfort to
+Fanny, and on this [[Sunday]] she felt it more than ever. Her poor mother
+now did not look so very unworthy of being Lady [[Bertram]]’s sister as she
 was but too apt to look. It often grieved her to the heart to think of
-the contrast between them; to think that where nature had made so
+the contrast between them; to think that where [[Nature|nature]] had made so
 little difference, circumstances should have made so much, and that her
-mother, as handsome as Lady Bertram, and some years her junior, should
+mother, as handsome as Lady [[Bertram]], and some years her junior, should
 have an appearance so much more worn and faded, so comfortless, so
-slatternly, so shabby. But Sunday made her a very creditable and
+slatternly, so shabby. But [[Sunday]] made her a very creditable and
 tolerably cheerful-looking Mrs. Price, coming abroad with a fine family
 of children, feeling a little respite of her weekly cares, and only
 discomposed if she saw her boys run into danger, or Rebecca pass by
@@ -42,9 +42,9 @@ In chapel they were obliged to divide, but Mr. Crawford took care not
 to be divided from the female branch; and after chapel he still
 continued with them, and made one in the family party on the ramparts.
 
-Mrs. Price took her weekly walk on the ramparts every fine Sunday
+Mrs. Price took her weekly walk on the ramparts every fine [[Sunday]]
 throughout the year, always going directly after morning service and
-staying till dinner-time. It was her public place: there she met her
+staying till dinner-[[Time|time]]. It was her public place: there she met her
 acquaintance, heard a little news, talked over the badness of the
 Portsmouth servants, and wound up her spirits for the six days ensuing.
 
@@ -53,15 +53,15 @@ Prices as his peculiar charge; and before they had been there long,
 somehow or other, there was no saying how, Fanny could not have
 believed it, but he was walking between them with an arm of each under
 his, and she did not know how to prevent or put an end to it. It made
-her uncomfortable for a time, but yet there were enjoyments in the day
+her uncomfortable for a [[Time|time]], but yet there were enjoyments in the day
 and in the view which would be felt.
 
 The day was uncommonly lovely. It was really March; but it was April in
-its mild air, brisk soft wind, and bright sun, occasionally clouded for
+its mild air, brisk soft [[Wind|wind]], and bright sun, occasionally clouded for
 a minute; and everything looked so beautiful under the influence of
 such a sky, the effects of the shadows pursuing each other on the ships
 at Spithead and the island beyond, with the ever-varying hues of the
-sea, now at high water, dancing in its glee and dashing against the
+sea, now at high [[Water|water]], dancing in its glee and dashing against the
 ramparts with so fine a sound, produced altogether such a combination
 of charms for Fanny, as made her gradually almost careless of the
 circumstances under which she felt them. Nay, had she been without his
@@ -70,18 +70,18 @@ strength for a two hours’ saunter of this kind, coming, as it generally
 did, upon a week’s previous inactivity. Fanny was beginning to feel the
 effect of being debarred from her usual regular exercise; she had lost
 ground as to health since her being in Portsmouth; and but for Mr.
-Crawford and the beauty of the weather would soon have been knocked up
+Crawford and the [[Beauty|beauty]] of the weather would soon have been knocked up
 now.
 
 The loveliness of the day, and of the view, he felt like herself. They
 often stopt with the same sentiment and taste, leaning against the
 wall, some minutes, to look and admire; and considering he was not
-Edmund, Fanny could not but allow that he was sufficiently open to the
-charms of nature, and very well able to express his admiration. She had
+[[Edmund]], Fanny could not but allow that he was sufficiently open to the
+charms of [[Nature|nature]], and very [[Well|well]] able to express his admiration. She had
 a few tender reveries now and then, which he could sometimes take
 advantage of to look in her face without detection; and the result of
 these looks was, that though as bewitching as ever, her face was less
-blooming than it ought to be. She _said_ she was very well, and did not
+blooming than it ought to be. She _said_ she was very [[Well|well]], and did not
 like to be supposed otherwise; but take it all in all, he was convinced
 that her present residence could not be comfortable, and therefore
 could not be salutary for her, and he was growing anxious for her being
@@ -120,7 +120,7 @@ Two months is an ample allowance; I should think six weeks quite
 enough. I am considering your sister’s health,” said he, addressing
 himself to Susan, “which I think the confinement of Portsmouth
 unfavourable to. She requires constant air and exercise. When you know
-her as well as I do, I am sure you will agree that she does, and that
+her as [[Well|well]] as I do, I am sure you will agree that she does, and that
 she ought never to be long banished from the free air and liberty of
 the country. If, therefore” (turning again to Fanny), “you find
 yourself growing unwell, and any difficulties arise about your
@@ -135,21 +135,21 @@ would be felt on the occasion.”
 Fanny thanked him, but tried to laugh it off.
 
 “I am perfectly serious,” he replied, “as you perfectly know. And I
-hope you will not be cruelly concealing any tendency to indisposition.
+[[Hope|hope]] you will not be cruelly concealing any tendency to indisposition.
 Indeed, you shall _not_; it shall not be in your power; for so long
-only as you positively say, in every letter to Mary, ‘I am well,’ and I
+only as you positively say, in every letter to Mary, ‘I am [[Well|well]],’ and I
 know you cannot speak or write a falsehood, so long only shall you be
-considered as well.”
+considered as [[Well|well]].”
 
 Fanny thanked him again, but was affected and distressed to a degree
 that made it impossible for her to say much, or even to be certain of
 what she ought to say. This was towards the close of their walk. He
 attended them to the last, and left them only at the door of their own
-house, when he knew them to be going to dinner, and therefore pretended
+[[house]], when he knew them to be going to dinner, and therefore pretended
 to be waited for elsewhere.
 
 “I wish you were not so tired,” said he, still detaining Fanny after
-all the others were in the house—“I wish I left you in stronger health.
+all the others were in the [[house]]—“I wish I left you in stronger health.
 Is there anything I can do for you in town? I have half an idea of
 going into Norfolk again soon. I am not satisfied about Maddison. I am
 sure he still means to impose on me if possible, and get a cousin of
@@ -169,14 +169,14 @@ tenant, instead of an honest man, to whom I have given half a promise
 already. Would it not be worse than simple? Shall I go? Do you advise
 it?”
 
-“I advise! You know very well what is right.”
+“I advise! You know very [[Well|well]] what is right.”
 
 “Yes. When you give me your opinion, I always know what is right. Your
 judgment is my rule of right.”
 
 “Oh, no! do not say so. We have all a better guide in ourselves, if we
 would attend to it, than any other person can be. Good-bye; I wish you
-a pleasant journey to-morrow.”
+a pleasant [[Journey|journey]] to-morrow.”
 
 “Is there nothing I can do for you in town?”
 
@@ -184,8 +184,8 @@ a pleasant journey to-morrow.”
 
 “Have you no message for anybody?”
 
-“My love to your sister, if you please; and when you see my cousin, my
-cousin Edmund, I wish you would be so good as to say that I suppose I
+“My [[Love|love]] to your sister, if you please; and when you see my cousin, my
+cousin [[Edmund]], I wish you would be so good as to say that I suppose I
 shall soon hear from him.”
 
 “Certainly; and if he is lazy or negligent, I will write his excuses
@@ -199,7 +199,7 @@ _she_ turned in to her more simple one immediately.
 
 Their general fare bore a very different character; and could he have
 suspected how many privations, besides that of exercise, she endured in
-her father’s house, he would have wondered that her looks were not much
+her father’s [[house]], he would have wondered that her looks were not much
 more affected than he found them. She was so little equal to Rebecca’s
 puddings and Rebecca’s hashes, brought to table, as they all were, with
 such accompaniments of half-cleaned plates, and not half-cleaned knives
@@ -208,22 +208,22 @@ meal till she could send her brothers in the evening for biscuits and
 buns. After being nursed up at Mansfield, it was too late in the day to
 be hardened at Portsmouth; and though Sir Thomas, had he known all,
 might have thought his niece in the most promising way of being
-starved, both mind and body, into a much juster value for Mr.
+starved, both mind and [[Body|body]], into a much juster value for Mr.
 Crawford’s good company and good fortune, he would probably have feared
 to push his experiment farther, lest she might die under the cure.
 
 Fanny was out of spirits all the rest of the day. Though tolerably
 secure of not seeing Mr. Crawford again, she could not help being low.
-It was parting with somebody of the nature of a friend; and though, in
+It was parting with somebody of the [[Nature|nature]] of a friend; and though, in
 one light, glad to have him gone, it seemed as if she was now deserted
 by everybody; it was a sort of renewed separation from Mansfield; and
 she could not think of his returning to town, and being frequently with
-Mary and Edmund, without feelings so near akin to envy as made her hate
+Mary and [[Edmund]], without feelings so near akin to envy as made her hate
 herself for having them.
 
 Her dejection had no abatement from anything passing around her; a
 friend or two of her father’s, as always happened if he was not with
-them, spent the long, long evening there; and from six o’clock till
+them, spent the long, long evening there; and from six o’[[Clock|clock]] till
 half-past nine, there was little intermission of noise or grog. She was
 very low. The wonderful improvement which she still fancied in Mr.
 Crawford was the nearest to administering comfort of anything within

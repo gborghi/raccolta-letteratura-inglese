@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 47 (part 2)"
+title: "Bleak [[house|House]] — Chapter 47 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -29,7 +29,7 @@ which, in his politeness, he has testified some intention of doing.
 experience that it’s not disagreeable to Miss Flite, and since it’s
 equally agreeable to yourself—” and finishes the sentence by putting
 it between his lips again. Allan proceeds to tell him all he knows
-about Jo, unto which the trooper listens with a grave face.
+about Jo, unto which the trooper listens with a [[Grave|grave]] face.
 
 “And that’s the lad, sir, is it?” he inquires, looking along the
 entry to where Jo stands staring up at the great letters on the
@@ -55,18 +55,18 @@ mentioned that party’s name. Is it a secret, sir?”
 
 “The boy makes it one. But his name is Bucket.”
 
-“Bucket the detective, sir?”
+“Bucket the [[Detective|detective]], sir?”
 
 “The same man.”
 
 “The man is known to me, sir,” returns the trooper after blowing out
 a cloud of smoke and squaring his chest, “and the boy is so far
 correct that he undoubtedly is a—rum customer.” Mr. George smokes
-with a profound meaning after this and surveys Miss Flite in silence.
+with a profound meaning after this and surveys Miss Flite in [[Silence|silence]].
 
 “Now, I wish Mr. Jarndyce and Miss Summerson at least to know that
 this Jo, who tells so strange a story, has reappeared, and to have it
-in their power to speak with him if they should desire to do so.
+in their power to speak with him if they should [[Desire|desire]] to do so.
 Therefore I want to get him, for the present moment, into any poor
 lodging kept by decent people where he would be admitted. Decent
 people and Jo, Mr. George,” says Allan, following the direction of
@@ -81,8 +81,8 @@ figure and countenance, into the trooper’s face. After a few more
 puffs at his pipe, the trooper looks down askant at the little man,
 and the little man winks up at the trooper.
 
-“Well, sir,” says Mr. George, “I can assure you that I would
-willingly be knocked on the head at any time if it would be at all
+“[[Well]], sir,” says Mr. George, “I can assure you that I would
+willingly be knocked on the head at any [[Time|time]] if it would be at all
 agreeable to Miss Summerson, and consequently I esteem it a privilege
 to do that young lady any service, however small. We are naturally in
 the vagabond way here, sir, both myself and Phil. You see what the
@@ -112,7 +112,7 @@ that he may be—I do not say that he is—too far gone to recover.”
 
 “Do you consider him in present danger, sir?” inquires the trooper.
 
-“Yes, I fear so.”
+“Yes, I [[Fear|fear]] so.”
 
 “Then, sir,” returns the trooper in a decisive manner, “it appears to
 me—being naturally in the vagabond way myself—that the sooner he
@@ -123,14 +123,14 @@ and the trooper, having smoked his pipe, lays it by. Jo is brought
 in. He is not one of Mrs. Pardiggle’s Tockahoopo Indians; he is not
 one of Mrs. Jellyby’s lambs, being wholly unconnected with
 Borrioboola-Gha; he is not softened by distance and unfamiliarity; he
-is not a genuine foreign-grown savage; he is the ordinary home-made
-article. Dirty, ugly, disagreeable to all the senses, in body a
-common creature of the common streets, only in soul a heathen. Homely
+is not a genuine foreign-grown savage; he is the ordinary [[Home|home]]-made
+article. Dirty, ugly, disagreeable to all the senses, in [[Body|body]] a
+common creature of the common streets, only in [[Soul|soul]] a heathen. Homely
 filth begrimes him, homely parasites devour him, homely sores are in
 him, homely rags are on him; native ignorance, the growth of English
-soil and climate, sinks his immortal nature lower than the beasts
+soil and climate, sinks his immortal [[Nature|nature]] lower than the beasts
 that perish. Stand forth, Jo, in uncompromising colours! From the
-sole of thy foot to the crown of thy head, there is nothing
+sole of thy foot to the [[Crown|crown]] of thy head, there is nothing
 interesting about thee.
 
 He shuffles slowly into Mr. George’s gallery and stands huddled

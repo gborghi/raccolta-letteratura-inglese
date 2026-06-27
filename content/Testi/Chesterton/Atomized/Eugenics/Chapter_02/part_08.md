@@ -1,5 +1,5 @@
 ---
-title: "Eugenics — Part 1 (part 8)"
+title: "[[Eugenics]] — Part 1 (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Eugenics-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Now the first principle behind Eugenics becomes plain enough.
+Now the first principle behind [[Eugenics]] becomes plain enough.
 It is the proposal that somebody or something should criticize
 men with the same superiority with which men criticize madmen.
 It might exercise this right with great moderation; but I am
@@ -36,7 +36,7 @@ from an other.  Outside the exception, what we find is the average.
 And the practical, legal shape of the quarrel is this:  that unless
 the normal men have the right to expel the abnormal, what particular
 sort of abnormal men have the right to expel the normal men?
-If sanity is not good enough, what is there that is saner than sanity?
+If [[Sanity|sanity]] is not good enough, what is there that is saner than [[Sanity|sanity]]?
 
 Without any grip of the notion of a rule and an exception, the general
 idea of judging people's heredity breaks down and is useless.
@@ -52,8 +52,8 @@ such are the hereditary results of a profligate soldier
 marrying a hot-tempered woman."  The poet might logically reply
 (with characteristic lucidity and impropriety), "Sir, I perceive
 you have a confused mind and an unphilosophic theory about
-other people's love affairs.  Such are the hereditary delusions
-bred by a Syrian doctor marrying a Quaker lady from New York."
+other people's [[Love|love]] affairs.  Such are the hereditary delusions
+bred by a Syrian doctor marrying a Quaker lady from [[New York]]."
 Suppose Dr. Karl Pearson had said to Shelley, "From what I see
 of your temperament, you are running great risks in forming a
 connection with the daughter of a fanatic and eccentric like Godwin."
@@ -63,8 +63,8 @@ your mind, you are rushing on destruction in marrying the great-niece
 of an old corpse of a courtier and dilettante like Samuel Rogers."
 It is only opinion for opinion.  Nobody can pretend that either
 Mary Godwin or Samuel Rogers was mad; and the general view a man may
-hold about the healthiness of inheriting their blood or type is simply
-the same sort of general view by which men do marry for love or liking.
+hold about the healthiness of inheriting their [[Blood|blood]] or type is simply
+the same sort of general view by which men do marry for [[Love|love]] or liking.
 There is no reason to suppose that Dr. Karl Pearson is any better
 judge of a bridegroom than the bridegroom is of a bride.
 
@@ -78,19 +78,19 @@ is going mad, we still mean mad by our own common human definition.
 We mean, is be going to be a certain sort of person whom men recognize
 when once he exists.  That certain specialists can detect the approach
 of him, before he exists, does not alter the fact that it is of the
-practical and popular madman that we are talking, and of him alone.
+practical and popular madman that we are talking, and of him [[Alone|alone]].
 The doctor merely sees a certain fact potentially in the future,
 while we, with less information, can only see it in the present;
 but his fact is our fact and everybody's fact, or we should not bother
 about it at all.  Here is no question of the doctor bringing an entirely
 new sort of person under coercion, as in the Feeble-Minded Bill.
-The doctor can say, "Tobacco is death to you," because the dislike
-of death can be taken for granted, being a highly democratic institution;
+The doctor can say, "Tobacco is [[Death|death]] to you," because the dislike
+of [[Death|death]] can be taken for granted, being a highly democratic institution;
 and it is the same with the dislike of the indubitable exception
-called madness.  The doctor can say, "Jones has that twitch
-in the nerves, and he may burn down the house."  But it is not
-the medical detail we fear, but the moral upshot.  We should say,
-"Let him twitch, as long as he doesn't burn down the house."
+called [[Madness|madness]].  The doctor can say, "[[Jones]] has that twitch
+in the nerves, and he may burn down the [[house]]."  But it is not
+the medical detail we [[Fear|fear]], but the moral upshot.  We should say,
+"Let him twitch, as long as he doesn't burn down the [[house]]."
 The doctor may say "He has that look in the eyes, and he may take
 the hatchet and brain you all."  But we do not object to the look
 in the eyes as such; we object to consequences which, once come,
@@ -100,17 +100,17 @@ look for the hatchet."
 
 Now, that specialists are valuable for this particular
 and practical purpose, of predicting the approach of enormous
-and admitted human calamities, nobody but a fool would deny.
+and admitted human calamities, nobody but a [[Fool|fool]] would deny.
 But that does not bring us one inch nearer to allowing them
 the right to define what is a calamity; or to call things calamities
 which common-sense does not call calamities.  We call in the doctor
-to save us from death; and, death being admittedly an evil,
+to save us from [[Death|death]]; and, [[Death|death]] being admittedly an evil,
 he has the right to administer the queerest and most recondite
-pill which he may think is a cure for all such menaces of death.
-He has not the right to administer death as the cure for all human ills.
+pill which he may think is a cure for all such menaces of [[Death|death]].
+He has not the right to administer [[Death|death]] as the cure for all human ills.
 And as he has no moral authority to enforce a new conception of happiness,
-so he has no moral authority to enforce a new conception of sanity.
-He may know I am going mad; for madness is an isolated thing
+so he has no moral authority to enforce a new conception of [[Sanity|sanity]].
+He may know I am going mad; for [[Madness|madness]] is an isolated thing
 like leprosy; and I know nothing about leprosy.  But if he merely
 thinks my mind is weak, I may happen to think the same of his.
 I often do.

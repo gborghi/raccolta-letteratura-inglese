@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 35: IN WHICH MR. PICKWICK THINKS HE HAD BETTER GO TO BATH; AND"
+title: "The [[Pickwick]] Papers — Chapter 35: IN WHICH MR. [[Pickwick|PICKWICK]] THINKS HE HAD BETTER GO TO BATH; AND"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,26 +14,26 @@ tags:
 </nav>
 
 
-CHAPTER XXXV. IN WHICH MR. PICKWICK THINKS HE HAD BETTER GO TO BATH; AND
+CHAPTER XXXV. IN WHICH MR. [[Pickwick|PICKWICK]] THINKS HE HAD BETTER GO TO BATH; AND
 GOES ACCORDINGLY
 
 But surely, my dear sir,’ said little Perker, as he stood in Mr.
-Pickwick’s apartment on the morning after the trial, ‘surely you don’t
+[[Pickwick]]’s apartment on the morning after the trial, ‘surely you don’t
 really mean--really and seriously now, and irritation apart--that you
 won’t pay these costs and damages?’
 
-‘Not one halfpenny,’ said Mr. Pickwick firmly; ‘not one halfpenny.’
+‘Not one halfpenny,’ said Mr. [[Pickwick]] firmly; ‘not one halfpenny.’
 
 ‘Hooroar for the principle, as the money-lender said ven he vouldn’t
 renew the bill,’ observed Mr. Weller, who was clearing away the
 breakfast-things.
 
-‘Sam,’ said Mr. Pickwick, ‘have the goodness to step downstairs.’
+‘Sam,’ said Mr. [[Pickwick]], ‘have the goodness to step downstairs.’
 
-‘Cert’nly, sir,’ replied Mr. Weller; and acting on Mr. Pickwick’s gentle
+‘Cert’nly, sir,’ replied Mr. Weller; and acting on Mr. [[Pickwick]]’s gentle
 hint, Sam retired.
 
-‘No, Perker,’ said Mr. Pickwick, with great seriousness of manner, ‘my
+‘No, Perker,’ said Mr. [[Pickwick]], with great seriousness of manner, ‘my
 friends here have endeavoured to dissuade me from this determination,
 but without avail. I shall employ myself as usual, until the opposite
 party have the power of issuing a legal process of execution against me;
@@ -45,60 +45,60 @@ heart. When can they do this?’
 and taxed costs, next term,’ replied Perker, ‘just two months hence, my
 dear sir.’
 
-‘Very good,’ said Mr. Pickwick. ‘Until that time, my dear fellow, let me
-hear no more of the matter. And now,’ continued Mr. Pickwick, looking
+‘Very good,’ said Mr. [[Pickwick]]. ‘Until that [[Time|time]], my dear fellow, let me
+hear no more of the matter. And now,’ continued Mr. [[Pickwick]], looking
 round on his friends with a good-humoured smile, and a sparkle in the
 eye which no spectacles could dim or conceal, ‘the only question is,
 Where shall we go next?’
 
 Mr. Tupman and Mr. Snodgrass were too much affected by their friend’s
-heroism to offer any reply. Mr. Winkle had not yet sufficiently
+[[Heroism|heroism]] to offer any reply. Mr. Winkle had not yet sufficiently
 recovered the recollection of his evidence at the trial, to make any
-observation on any subject, so Mr. Pickwick paused in vain.
+observation on any subject, so Mr. [[Pickwick]] paused in vain.
 
-‘Well,’ said that gentleman, ‘if you leave me to suggest our
+‘[[Well]],’ said that gentleman, ‘if you leave me to suggest our
 destination, I say Bath. I think none of us have ever been there.’
 
 Nobody had; and as the proposition was warmly seconded by Perker, who
-considered it extremely probable that if Mr. Pickwick saw a little
+considered it extremely probable that if Mr. [[Pickwick]] saw a little
 change and gaiety he would be inclined to think better of his
-determination, and worse of a debtor’s prison, it was carried
-unanimously; and Sam was at once despatched to the White Horse Cellar,
-to take five places by the half-past seven o’clock coach, next morning.
+determination, and worse of a debtor’s [[Prison|prison]], it was carried
+unanimously; and Sam was at once despatched to the White [[Horse]] Cellar,
+to take five places by the half-past seven o’[[Clock|clock]] coach, next morning.
 
 There were just two places to be had inside, and just three to be had
-out; so Sam Weller booked for them all, and having exchanged a few
+out; so [[Sam Weller]] booked for them all, and having exchanged a few
 compliments with the booking-office clerk on the subject of a pewter
-half-crown which was tendered him as a portion of his ‘change,’ walked
+half-[[Crown|crown]] which was tendered him as a portion of his ‘change,’ walked
 back to the George and Vulture, where he was pretty busily employed
-until bed-time in reducing clothes and linen into the smallest possible
+until bed-[[Time|time]] in reducing clothes and linen into the smallest possible
 compass, and exerting his mechanical genius in constructing a variety of
 ingenious devices for keeping the lids on boxes which had neither locks
 nor hinges.
 
-The next was a very unpropitious morning for a journey--muggy, damp, and
+The next was a very unpropitious morning for a [[Journey|journey]]--muggy, damp, and
 drizzly. The horses in the stages that were going out, and had come
-through the city, were smoking so, that the outside passengers were
+through the [[City|city]], were smoking so, that the outside passengers were
 invisible. The newspaper-sellers looked moist, and smelled mouldy; the
 wet ran off the hats of the orange-vendors as they thrust their heads
 into the coach windows, and diluted the insides in a refreshing manner.
-The Jews with the fifty-bladed penknives shut them up in despair; the
+The Jews with the fifty-bladed penknives shut them up in [[Despair|despair]]; the
 men with the pocket-books made pocket-books of them. Watch-guards and
 toasting-forks were alike at a discount, and pencil-cases and sponges
 were a drug in the market.
 
-Leaving Sam Weller to rescue the luggage from the seven or eight porters
+Leaving [[Sam Weller]] to rescue the luggage from the seven or eight porters
 who flung themselves savagely upon it, the moment the coach stopped, and
-finding that they were about twenty minutes too early, Mr. Pickwick and
+finding that they were about twenty minutes too early, Mr. [[Pickwick]] and
 his friends went for shelter into the travellers’ room--the last
 resource of human dejection.
 
-The travellers’ room at the White Horse Cellar is of course
+The travellers’ room at the White [[Horse]] Cellar is of course
 uncomfortable; it would be no travellers’ room if it were not. It is the
 right-hand parlour, into which an aspiring kitchen fireplace appears to
 have walked, accompanied by a rebellious poker, tongs, and shovel. It is
 divided into boxes, for the solitary confinement of travellers, and is
-furnished with a clock, a looking-glass, and a live waiter, which latter
+furnished with a [[Clock|clock]], a looking-glass, and a live waiter, which latter
 article is kept in a small kennel for washing glasses, in a corner of
 the apartment.
 
@@ -108,7 +108,7 @@ forehead, with a good deal of black hair at the sides and back of his
 head, and large black whiskers. He was buttoned up to the chin in a
 brown coat; and had a large sealskin travelling-cap, and a greatcoat and
 cloak, lying on the seat beside him. He looked up from his breakfast as
-Mr. Pickwick entered, with a fierce and peremptory air, which was very
+Mr. [[Pickwick]] entered, with a fierce and peremptory air, which was very
 dignified; and, having scrutinised that gentleman and his companions to
 his entire satisfaction, hummed a tune, in a manner which seemed to say
 that he rather suspected somebody wanted to take advantage of him, but
@@ -129,30 +129,30 @@ emerging from the kennel before mentioned.
 
 The gentleman with the whiskers hummed a tune in the same manner as
 before, and pending the arrival of the toast, advanced to the front of
-the fire, and, taking his coat tails under his arms, looked at his boots
+the [[Fire|fire]], and, taking his coat tails under his arms, looked at his boots
 and ruminated.
 
-‘I wonder whereabouts in Bath this coach puts up,’ said Mr. Pickwick,
+‘I [[Wonder|wonder]] whereabouts in Bath this coach puts up,’ said Mr. [[Pickwick]],
 mildly addressing Mr. Winkle.
 
 ‘Hum--eh--what’s that?’ said the strange man.
 
-‘I made an observation to my friend, sir,’ replied Mr. Pickwick, always
-ready to enter into conversation. ‘I wondered at what house the Bath
+‘I made an observation to my friend, sir,’ replied Mr. [[Pickwick]], always
+ready to enter into conversation. ‘I wondered at what [[house]] the Bath
 coach put up. Perhaps you can inform me.’
 
 Are you going to Bath?’ said the strange man.
 
-‘I am, sir,’ replied Mr. Pickwick.
+‘I am, sir,’ replied Mr. [[Pickwick]].
 
 ‘And those other gentlemen?’
 
-‘They are going also,’ said Mr. Pickwick.
+‘They are going also,’ said Mr. [[Pickwick]].
 
 ‘Not inside--I’ll be damned if you’re going inside,’ said the strange
 man.
 
-‘Not all of us,’ said Mr. Pickwick.
+‘Not all of us,’ said Mr. [[Pickwick]].
 
 ‘No, not all of you,’ said the strange man emphatically. ‘I’ve taken two
 places. If they try to squeeze six people into an infernal box that only
@@ -164,18 +164,18 @@ best, best know it; crush me!’ Here the fierce gentleman rang the bell
 with great violence, and told the waiter he’d better bring the toast in
 five seconds, or he’d know the reason why.
 
-‘My good sir,’ said Mr. Pickwick, ‘you will allow me to observe that
+‘My good sir,’ said Mr. [[Pickwick]], ‘you will allow me to observe that
 this is a very unnecessary display of excitement. I have only taken
 places inside for two.’
 
 ‘I am glad to hear it,’ said the fierce man. ‘I withdraw my expressions.
 I tender an apology. There’s my card. Give me your acquaintance.’
 
-‘With great pleasure, Sir,’ replied Mr. Pickwick. ‘We are to be fellow-
-travellers, and I hope we shall find each other’s society mutually
+‘With great pleasure, Sir,’ replied Mr. [[Pickwick]]. ‘We are to be fellow-
+travellers, and I [[Hope|hope]] we shall find each other’s society mutually
 agreeable.’
 
-‘I hope we shall,’ said the fierce gentleman. ‘I know we shall. I like
+‘I [[Hope|hope]] we shall,’ said the fierce gentleman. ‘I know we shall. I like
 your looks; they please me. Gentlemen, your hands and names. Know me.’
 
 Of course, an interchange of friendly salutations followed this gracious
@@ -190,16 +190,16 @@ his lady wife.
 ‘She’s a fine woman,’ said Mr. Dowler. ‘I am proud of her. I have
 reason.’
 
-‘I hope I shall have the pleasure of judging,’ said Mr. Pickwick, with a
+‘I [[Hope|hope]] I shall have the pleasure of judging,’ said Mr. [[Pickwick]], with a
 smile.
 
 ‘You shall,’ replied Dowler. ‘She shall know you. She shall esteem you.
 I courted her under singular circumstances. I won her through a rash
 vow. Thus. I saw her; I loved her; I proposed; she refused me.--“You
-love another?”--“Spare my blushes.”--“I know him.”--“You do.”--“Very
+[[Love|love]] another?”--“Spare my blushes.”--“I know him.”--“You do.”--“Very
 good; if he remains here, I’ll skin him.”’
 
-‘Lord bless me!’ exclaimed Mr. Pickwick involuntarily.
+‘Lord bless me!’ exclaimed Mr. [[Pickwick]] involuntarily.
 
 ‘Did you skin the gentleman, Sir?’ inquired Mr. Winkle, with a very pale
 face.
@@ -216,36 +216,36 @@ were imperative. He fled. I married her. Here’s the coach. That’s her
 head.’
 
 As Mr. Dowler concluded, he pointed to a stage which had just driven up,
-from the open window of which a rather pretty face in a bright blue
+from the open [[Window|window]] of which a rather pretty face in a bright blue
 bonnet was looking among the crowd on the pavement, most probably for
 the rash man himself. Mr. Dowler paid his bill, and hurried out with his
-travelling cap, coat, and cloak; and Mr. Pickwick and his friends
+travelling cap, coat, and cloak; and Mr. [[Pickwick]] and his friends
 followed to secure their places.
 
 Mr. Tupman and Mr. Snodgrass had seated themselves at the back part of
-the coach; Mr. Winkle had got inside; and Mr. Pickwick was preparing to
-follow him, when Sam Weller came up to his master, and whispering in his
+the coach; Mr. Winkle had got inside; and Mr. [[Pickwick]] was preparing to
+follow him, when [[Sam Weller]] came up to his master, and whispering in his
 ear, begged to speak to him, with an air of the deepest mystery.
 
-‘Well, Sam,’ said Mr. Pickwick, ‘what’s the matter now?’
+‘[[Well]], Sam,’ said Mr. [[Pickwick]], ‘what’s the matter now?’
 
 ‘Here’s rayther a rum go, sir,’ replied Sam.
 
-‘What?’ inquired Mr. Pickwick.
+‘What?’ inquired Mr. [[Pickwick]].
 
 ‘This here, Sir,’ rejoined Sam. ‘I’m wery much afeerd, sir, that the
 properiator o’ this here coach is a playin’ some imperence vith us.’
 
-‘How is that, Sam?’ said Mr. Pickwick; ‘aren’t the names down on the
+‘How is that, Sam?’ said Mr. [[Pickwick]]; ‘aren’t the names down on the
 way-bill?’
 
 ‘The names is not only down on the vay-bill, Sir,’ replied Sam, ‘but
 they’ve painted vun on ‘em up, on the door o’ the coach.’ As Sam spoke,
 he pointed to that part of the coach door on which the proprietor’s name
 usually appears; and there, sure enough, in gilt letters of a goodly
-size, was the magic name of _Pickwick_!
+size, was the [[Magic|magic]] name of _Pickwick_!
 
-‘Dear me,’ exclaimed Mr. Pickwick, quite staggered by the coincidence;
+‘Dear me,’ exclaimed Mr. [[Pickwick]], quite staggered by the coincidence;
 ‘what a very extraordinary thing!’
 
 ‘Yes, but that ain’t all,’ said Sam, again directing his master’s
@@ -254,61 +254,61 @@ attention to the coach door; ‘not content vith writin’ up “Pick-wick,”
 parrot said ven they not only took him from his native land, but made
 him talk the English langwidge arterwards.’
 
-‘It’s odd enough, certainly, Sam,’ said Mr. Pickwick; ‘but if we stand
+‘It’s odd enough, certainly, Sam,’ said Mr. [[Pickwick]]; ‘but if we stand
 talking here, we shall lose our places.’
 
 ‘Wot, ain’t nothin’ to be done in consequence, sir?’ exclaimed Sam,
-perfectly aghast at the coolness with which Mr. Pickwick prepared to
+perfectly aghast at the coolness with which Mr. [[Pickwick]] prepared to
 ensconce himself inside.
 
-‘Done!’ said Mr. Pickwick. ‘What should be done?’
+‘Done!’ said Mr. [[Pickwick]]. ‘What should be done?’
 
 Ain’t nobody to be whopped for takin’ this here liberty, sir?’ said Mr.
 Weller, who had expected that at least he would have been commissioned
 to challenge the guard and the coachman to a pugilistic encounter on the
 spot.
 
-‘Certainly not,’ replied Mr. Pickwick eagerly; ‘not on any account. Jump
+‘Certainly not,’ replied Mr. [[Pickwick]] eagerly; ‘not on any account. Jump
 up to your seat directly.’
 
 ‘I am wery much afeered,’ muttered Sam to himself, as he turned away,
 ‘that somethin’ queer’s come over the governor, or he’d never ha’ stood
-this so quiet. I hope that ‘ere trial hasn’t broke his spirit, but it
+this so quiet. I [[Hope|hope]] that ‘ere trial hasn’t broke his spirit, but it
 looks bad, wery bad.’ Mr. Weller shook his head gravely; and it is
 worthy of remark, as an illustration of the manner in which he took this
 circumstance to heart, that he did not speak another word until the
-coach reached the Kensington turnpike. Which was so long a time for him
+coach reached the Kensington turnpike. Which was so long a [[Time|time]] for him
 to remain taciturn, that the fact may be considered wholly
 unprecedented.
 
-Nothing worthy of special mention occurred during the journey. Mr.
+Nothing worthy of special mention occurred during the [[Journey|journey]]. Mr.
 Dowler related a variety of anecdotes, all illustrative of his own
 personal prowess and desperation, and appealed to Mrs. Dowler in
 corroboration thereof; when Mrs. Dowler invariably brought in, in the
 form of an appendix, some remarkable fact or circumstance which Mr.
 Dowler had forgotten, or had perhaps through modesty, omitted; for the
 addenda in every instance went to show that Mr. Dowler was even a more
-wonderful fellow than he made himself out to be. Mr. Pickwick and Mr.
+wonderful fellow than he made himself out to be. Mr. [[Pickwick]] and Mr.
 Winkle listened with great admiration, and at intervals conversed with
 Mrs. Dowler, who was a very agreeable and fascinating person. So, what
 between Mr. Dowler’s stories, and Mrs. Dowler’s charms, and Mr.
-Pickwick’s good-humour, and Mr. Winkle’s good listening, the insides
+[[Pickwick]]’s good-[[Humour|humour]], and Mr. Winkle’s good listening, the insides
 contrived to be very companionable all the way.
 
 The outsides did as outsides always do. They were very cheerful and
 talkative at the beginning of every stage, and very dismal and sleepy in
 the middle, and very bright and wakeful again towards the end. There was
 one young gentleman in an India-rubber cloak, who smoked cigars all day;
-and there was another young gentleman in a parody upon a greatcoat, who
+and there was another young gentleman in a [[Parody|parody]] upon a greatcoat, who
 lighted a good many, and feeling obviously unsettled after the second
 whiff, threw them away when he thought nobody was looking at him. There
 was a third young man on the box who wished to be learned in cattle; and
 an old one behind, who was familiar with farming. There was a constant
 succession of Christian names in smock-frocks and white coats, who were
-invited to have a ‘lift’ by the guard, and who knew every horse and
-hostler on the road and off it; and there was a dinner which would have
-been cheap at half-a-crown a mouth, if any moderate number of mouths
-could have eaten it in the time. And at seven o’clock P.M. Mr. Pickwick
+invited to have a ‘lift’ by the guard, and who knew every [[Horse|horse]] and
+hostler on the [[Road|road]] and off it; and there was a dinner which would have
+been cheap at half-a-[[Crown|crown]] a mouth, if any moderate number of mouths
+could have eaten it in the [[Time|time]]. And at seven o’[[Clock|clock]] P.M. Mr. [[Pickwick]]
 and his friends, and Mr. Dowler and his wife, respectively retired to
 their private sitting-rooms at the White Hart Hotel, opposite the Great
 Pump Room, Bath, where the waiters, from their costume, might be
@@ -334,96 +334,96 @@ scent _bouquet du roi_. His features were contracted into a perpetual
 smile; and his teeth were in such perfect order that it was difficult at
 a small distance to tell the real from the false.
 
-‘Mr. Pickwick,’ said Mr. Dowler; ‘my friend, Angelo Cyrus Bantam,
-Esquire, M.C.; Bantam; Mr. Pickwick. Know each other.’
+‘Mr. [[Pickwick]],’ said Mr. Dowler; ‘my friend, [[Angelo]] Cyrus Bantam,
+Esquire, M.C.; Bantam; Mr. [[Pickwick]]. Know each other.’
 
 ‘Welcome to Ba--ath, Sir. This is indeed an acquisition. Most welcome to
-Ba--ath, sir. It is long--very long, Mr. Pickwick, since you drank the
-waters. It appears an age, Mr. Pickwick. Re-markable!’
+Ba--ath, sir. It is long--very long, Mr. [[Pickwick]], since you drank the
+waters. It appears an age, Mr. [[Pickwick]]. Re-markable!’
 
-Such were the expressions with which Angelo Cyrus Bantam, Esquire, M.C.,
-took Mr. Pickwick’s hand; retaining it in his, meantime, and shrugging
+Such were the expressions with which [[Angelo]] Cyrus Bantam, Esquire, M.C.,
+took Mr. [[Pickwick]]’s hand; retaining it in his, meantime, and shrugging
 up his shoulders with a constant succession of bows, as if he really
 could not make up his mind to the trial of letting it go again.
 
-‘It is a very long time since I drank the waters, certainly,’ replied
-Mr. Pickwick; ‘for, to the best of my knowledge, I was never here
+‘It is a very long [[Time|time]] since I drank the waters, certainly,’ replied
+Mr. [[Pickwick]]; ‘for, to the best of my knowledge, I was never here
 before.’
 
-‘Never in Ba--ath, Mr. Pickwick!’ exclaimed the Grand Master, letting
-the hand fall in astonishment. ‘Never in Ba--ath! He! he! Mr. Pickwick,
+‘Never in Ba--ath, Mr. [[Pickwick]]!’ exclaimed the Grand Master, letting
+the hand fall in astonishment. ‘Never in Ba--ath! He! he! Mr. [[Pickwick]],
 you are a wag. Not bad, not bad. Good, good. He! he! he! Re-markable!’
 
 ‘To my shame, I must say that I am perfectly serious,’ rejoined Mr.
-Pickwick. ‘I really never was here before.’
+[[Pickwick]]. ‘I really never was here before.’
 
 ‘Oh, I see,’ exclaimed the Grand Master, looking extremely pleased;
 ‘yes, yes--good, good--better and better. You are the gentleman of whom
-we have heard. Yes; we know you, Mr. Pickwick; we know you.’
+we have heard. Yes; we know you, Mr. [[Pickwick]]; we know you.’
 
 ‘The reports of the trial in those confounded papers,’ thought Mr.
-Pickwick. ‘They have heard all about me.’
+[[Pickwick]]. ‘They have heard all about me.’
 
 You are the gentleman residing on Clapham Green,’ resumed Bantam, ‘who
 lost the use of his limbs from imprudently taking cold after port wine;
-who could not be moved in consequence of acute suffering, and who had
-the water from the king’s bath bottled at one hundred and three degrees,
+who could not be moved in consequence of acute [[Suffering|suffering]], and who had
+the [[Water|water]] from the [[King|king]]’s bath bottled at one hundred and three degrees,
 and sent by wagon to his bedroom in town, where he bathed, sneezed, and
 the same day recovered. Very remarkable!’
 
-Mr. Pickwick acknowledged the compliment which the supposition implied,
-but had the self-denial to repudiate it, notwithstanding; and taking
-advantage of a moment’s silence on the part of the M.C., begged to
+Mr. [[Pickwick]] acknowledged the compliment which the supposition implied,
+but had the [[Self|self]]-denial to repudiate it, notwithstanding; and taking
+advantage of a moment’s [[Silence|silence]] on the part of the M.C., begged to
 introduce his friends, Mr. Tupman, Mr. Winkle, and Mr. Snodgrass. An
-introduction which overwhelmed the M.C. with delight and honour.
+introduction which overwhelmed the M.C. with delight and [[Honour|honour]].
 
-‘Bantam,’ said Mr. Dowler, ‘Mr. Pickwick and his friends are strangers.
+‘Bantam,’ said Mr. Dowler, ‘Mr. [[Pickwick]] and his friends are strangers.
 They must put their names down. Where’s the book?’
 
 ‘The register of the distinguished visitors in Ba--ath will be at the
-Pump Room this morning at two o’clock,’ replied the M.C. ‘Will you guide
+Pump Room this morning at two o’[[Clock|clock]],’ replied the M.C. ‘Will you guide
 our friends to that splendid building, and enable me to procure their
 autographs?’
 
-‘I will,’ rejoined Dowler. ‘This is a long call. It’s time to go. I
+‘I will,’ rejoined Dowler. ‘This is a long call. It’s [[Time|time]] to go. I
 shall be here again in an hour. Come.’
 
-‘This is a ball-night,’ said the M.C., again taking Mr. Pickwick’s hand,
-as he rose to go. ‘The ball-nights in Ba--ath are moments snatched from
-paradise; rendered bewitching by music, beauty, elegance, fashion,
+‘This is a ball-[[Night|night]],’ said the M.C., again taking Mr. [[Pickwick]]’s hand,
+as he [[Rose|rose]] to go. ‘The ball-nights in Ba--ath are moments snatched from
+paradise; rendered bewitching by music, [[Beauty|beauty]], elegance, fashion,
 etiquette, and--and--above all, by the absence of tradespeople, who are
 quite inconsistent with paradise, and who have an amalgamation of
 themselves at the Guildhall every fortnight, which is, to say the least,
 remarkable. Good-bye, good-bye!’ and protesting all the way downstairs
 that he was most satisfied, and most delighted, and most overpowered,
-and most flattered, Angelo Cyrus Bantam, Esquire, M.C., stepped into a
+and most flattered, [[Angelo]] Cyrus Bantam, Esquire, M.C., stepped into a
 very elegant chariot that waited at the door, and rattled off.
 
-At the appointed hour, Mr. Pickwick and his friends, escorted by Dowler,
+At the appointed hour, Mr. [[Pickwick]] and his friends, escorted by Dowler,
 repaired to the Assembly Rooms, and wrote their names down in the book--
-an instance of condescension at which Angelo Bantam was even more
+an instance of condescension at which [[Angelo]] Bantam was even more
 overpowered than before. Tickets of admission to that evening’s assembly
 were to have been prepared for the whole party, but as they were not
-ready, Mr. Pickwick undertook, despite all the protestations to the
-contrary of Angelo Bantam, to send Sam for them at four o’clock in the
-afternoon, to the M.C.’s house in Queen Square. Having taken a short
-walk through the city, and arrived at the unanimous conclusion that Park
+ready, Mr. [[Pickwick]] undertook, despite all the protestations to the
+contrary of [[Angelo]] Bantam, to send Sam for them at four o’[[Clock|clock]] in the
+afternoon, to the M.C.’s [[house]] in [[Queen]] Square. Having taken a short
+walk through the [[City|city]], and arrived at the unanimous conclusion that Park
 Street was very much like the perpendicular streets a man sees in a
 dream, which he cannot get up for the life of him, they returned to the
 White Hart, and despatched Sam on the errand to which his master had
 pledged him.
 
-Sam Weller put on his hat in a very easy and graceful manner, and,
+[[Sam Weller]] put on his hat in a very easy and graceful manner, and,
 thrusting his hands in his waistcoat pockets, walked with great
-deliberation to Queen Square, whistling as he went along, several of the
+deliberation to [[Queen]] Square, whistling as he went along, several of the
 most popular airs of the day, as arranged with entirely new movements
 for that noble instrument the organ, either mouth or barrel. Arriving at
-the number in Queen Square to which he had been directed, he left off
+the number in [[Queen]] Square to which he had been directed, he left off
 whistling and gave a cheerful knock, which was instantaneously answered
 by a powdered-headed footman in gorgeous livery, and of symmetrical
 stature.
 
-‘Is this here Mr. Bantam’s, old feller?’ inquired Sam Weller, nothing
+‘Is this here Mr. Bantam’s, old feller?’ inquired [[Sam Weller]], nothing
 abashed by the blaze of splendour which burst upon his sight in the
 person of the powdered-headed footman with the gorgeous livery.
 
@@ -455,7 +455,7 @@ perspiration. No hurry, six-foot. I’ve had my dinner.’
 ‘I have not had the pleasure of hearing of you before.’
 
 ‘I haven’t created any wery surprisin’ sensation here, as yet,’ rejoined
-Sam, ‘for me and the other fash’nables only come last night.’
+Sam, ‘for me and the other fash’nables only come last [[Night|night]].’
 
 ‘Nice place, Sir,’ said the powdered-headed footman.
 
@@ -476,7 +476,7 @@ small snuff-box with a fox’s head on the top of it.
 
 ‘Why, it _is_ difficult, sir, I confess,’ said the tall footman. ‘It may
 be done by degrees, Sir. Coffee is the best practice. I carried coffee,
-Sir, for a long time. It looks very like rappee, sir.’
+Sir, for a long [[Time|time]]. It looks very like rappee, sir.’
 
 Here, a sharp peal at the bell reduced the powdered-headed footman to
 the ignominious necessity of putting the fox’s head in his pocket, and
@@ -490,7 +490,7 @@ afraid you’ll find it inconveniently large.’
 ‘Don’t mention it,’ said Sam, taking a letter with a small enclosure.
 ‘It’s just possible as exhausted natur’ may manage to surwive it.’
 
-‘I hope we shall meet again, Sir,’ said the powdered-headed footman,
+‘I [[Hope|hope]] we shall meet again, Sir,’ said the powdered-headed footman,
 rubbing his hands, and following Sam out to the door-step.
 
 ‘You are wery obligin’, sir,’ replied Sam. ‘Now, don’t allow yourself to
@@ -508,7 +508,7 @@ Sam said nothing at all. He winked, shook his head, smiled, winked
 again; and, with an expression of countenance which seemed to denote
 that he was greatly amused with something or other, walked merrily away.
 
-At precisely twenty minutes before eight o’clock that night, Angelo
+At precisely twenty minutes before eight o’[[Clock|clock]] that [[Night|night]], [[Angelo]]
 Cyrus Bantam, Esq., the Master of the Ceremonies, emerged from his
 chariot at the door of the Assembly Rooms in the same wig, the same
 teeth, the same eye-glass, the same watch and seals, the same rings, the
@@ -540,7 +540,7 @@ small talk and scandal of the day, with a relish and gusto which
 sufficiently bespoke the intensity of the pleasure they derived from the
 occupation. Mingled with these groups, were three or four match-making
 mammas, appearing to be wholly absorbed by the conversation in which
-they were taking part, but failing not from time to time to cast an
+they were taking part, but failing not from [[Time|time]] to [[Time|time]] to cast an
 anxious sidelong glance upon their daughters, who, remembering the
 maternal injunction to make the best use of their youth, had already
 commenced incipient flirtations in the mislaying scarves, putting on
@@ -565,13 +565,13 @@ glitter, and show; of richly-dressed people, handsome mirrors, chalked
 floors, girandoles and wax-candles; and in all parts of the scene,
 gliding from spot to spot in silent softness, bowing obsequiously to
 this party, nodding familiarly to that, and smiling complacently on all,
-was the sprucely-attired person of Angelo Cyrus Bantam, Esquire, the
+was the sprucely-attired person of [[Angelo]] Cyrus Bantam, Esquire, the
 Master of the Ceremonies.
 
-‘Stop in the tea-room. Take your sixpenn’orth. Then lay on hot water,
+‘Stop in the tea-room. Take your sixpenn’orth. Then lay on hot [[Water|water]],
 and call it tea. Drink it,’ said Mr. Dowler, in a loud voice, directing
-Mr. Pickwick, who advanced at the head of the little party, with Mrs.
-Dowler on his arm. Into the tea-room Mr. Pickwick turned; and catching
+Mr. [[Pickwick]], who advanced at the head of the little party, with Mrs.
+Dowler on his arm. Into the tea-room Mr. [[Pickwick]] turned; and catching
 sight of him, Mr. Bantam corkscrewed his way through the crowd and
 welcomed him with ecstasy.
 
@@ -581,29 +581,29 @@ markable!’
 
 ‘Anybody here?’ inquired Dowler suspiciously.
 
-‘Anybody! The _elite _of Ba--ath. Mr. Pickwick, do you see the old lady
+‘Anybody! The _elite _of Ba--ath. Mr. [[Pickwick]], do you see the old lady
 in the gauze turban?’
 
-‘The fat old lady?’ inquired Mr. Pickwick innocently.
+‘The fat old lady?’ inquired Mr. [[Pickwick]] innocently.
 
 ‘Hush, my dear sir--nobody’s fat or old in Ba--ath. That’s the Dowager
 Lady Snuphanuph.’
 
-‘Is it, indeed?’ said Mr. Pickwick.
+‘Is it, indeed?’ said Mr. [[Pickwick]].
 
 ‘No less a person, I assure you,’ said the Master of the Ceremonies.
-‘Hush. Draw a little nearer, Mr. Pickwick. You see the splendidly-
+‘Hush. Draw a little nearer, Mr. [[Pickwick]]. You see the splendidly-
 dressed young man coming this way?’
 
 ‘The one with the long hair, and the particularly small forehead?’
-inquired Mr. Pickwick.
+inquired Mr. [[Pickwick]].
 
 ‘The same. The richest young man in Ba--ath at this moment. Young Lord
 Mutanhed.’
 
-‘You don’t say so?’ said Mr. Pickwick.
+‘You don’t say so?’ said Mr. [[Pickwick]].
 
-‘Yes. You’ll hear his voice in a moment, Mr. Pickwick. He’ll speak to
+‘Yes. You’ll hear his voice in a moment, Mr. [[Pickwick]]. He’ll speak to
 me. The other gentleman with him, in the red under-waistcoat and dark
 moustache, is the Honourable Mr. Crushton, his bosom friend. How do you
 do, my Lord?’
@@ -616,7 +616,7 @@ do, my Lord?’
 
 ‘Have you seen his Lordship’s mail-cart, Bantam?’ inquired the
 Honourable Mr. Crushton, after a short pause, during which young Lord
-Mutanhed had been endeavouring to stare Mr. Pickwick out of countenance,
+Mutanhed had been endeavouring to stare Mr. [[Pickwick]] out of countenance,
 and Mr. Crushton had been reflecting what subject his Lordship could
 talk about best.
 
@@ -642,31 +642,31 @@ obsequious Mr. Crushton, Lord Mutanhed walked away.
 
 ‘Delightful young man, his Lordship,’ said the Master of the Ceremonies.
 
-‘So I should think,’ rejoined Mr. Pickwick drily.
+‘So I should think,’ rejoined Mr. [[Pickwick]] drily.
 
 The dancing having commenced, the necessary introductions having been
-made, and all preliminaries arranged, Angelo Bantam rejoined Mr.
-Pickwick, and led him into the card-room.
+made, and all preliminaries arranged, [[Angelo]] Bantam rejoined Mr.
+[[Pickwick]], and led him into the card-room.
 
 Just at the very moment of their entrance, the Dowager Lady Snuphanuph
 and two other ladies of an ancient and whist-like appearance, were
 hovering over an unoccupied card-table; and they no sooner set eyes upon
-Mr. Pickwick under the convoy of Angelo Bantam, than they exchanged
+Mr. [[Pickwick]] under the convoy of [[Angelo]] Bantam, than they exchanged
 glances with each other, seeing that he was precisely the very person
 they wanted, to make up the rubber.
 
 ‘My dear Bantam,’ said the Dowager Lady Snuphanuph coaxingly, ‘find us
-some nice creature to make up this table; there’s a good soul.’ Mr.
-Pickwick happened to be looking another way at the moment, so her
+some nice creature to make up this table; there’s a good [[Soul|soul]].’ Mr.
+[[Pickwick]] happened to be looking another way at the moment, so her
 Ladyship nodded her head towards him, and frowned expressively.
 
-‘My friend Mr. Pickwick, my Lady, will be most happy, I am sure,
-remarkably so,’ said the M.C., taking the hint. ‘Mr. Pickwick, Lady
+‘My friend Mr. [[Pickwick]], my Lady, will be most happy, I am sure,
+remarkably so,’ said the M.C., taking the hint. ‘Mr. [[Pickwick]], Lady
 Snuphanuph--Mrs. Colonel Wugsby--Miss Bolo.’
 
 
-Mr. Pickwick bowed to each of the ladies, and, finding escape
-impossible, cut. Mr. Pickwick and Miss Bolo against Lady Snuphanuph and
+Mr. [[Pickwick]] bowed to each of the ladies, and, finding escape
+impossible, cut. Mr. [[Pickwick]] and Miss Bolo against Lady Snuphanuph and
 Mrs. Colonel Wugsby.
 
 As the trump card was turned up, at the commencement of the second deal,
@@ -677,7 +677,7 @@ until the hand was over.
 ‘Now, Jane,’ said Mrs. Colonel Wugsby, turning to one of the girls,
 ‘what is it?’
 
-I came to ask, ma, whether I might dance with the youngest Mr. Crawley,’
+I came to ask, ma, whether I might [[Dance|dance]] with the youngest Mr. Crawley,’
 whispered the prettier and younger of the two.
 
 ‘Good God, Jane, how can you think of such things?’ replied the mamma
@@ -689,13 +689,13 @@ account.’
 insipid and artificial, ‘Lord Mutanhed has been introduced to me. I said
 I thought I wasn’t engaged, ma.’
 
-‘You’re a sweet pet, my love,’ replied Mrs. Colonel Wugsby, tapping her
+‘You’re a sweet pet, my [[Love|love]],’ replied Mrs. Colonel Wugsby, tapping her
 daughter’s cheek with her fan, ‘and are always to be trusted. He’s
 immensely rich, my dear. Bless you!’ With these words Mrs. Colonel
 Wugsby kissed her eldest daughter most affectionately, and frowning in a
 warning manner upon the other, sorted her cards.
 
-Poor Mr. Pickwick! he had never played with three thorough-paced female
+Poor Mr. [[Pickwick]]! he had never played with three thorough-paced female
 card-players before. They were so desperately sharp, that they quite
 frightened him. If he played a wrong card, Miss Bolo looked a small
 armoury of daggers; if he stopped to consider which was the right one,
@@ -704,23 +704,23 @@ mingled glance of impatience and pity to Mrs. Colonel Wugsby, at which
 Mrs. Colonel Wugsby would shrug up her shoulders, and cough, as much as
 to say she wondered whether he ever would begin. Then, at the end of
 every hand, Miss Bolo would inquire with a dismal countenance and
-reproachful sigh, why Mr. Pickwick had not returned that diamond, or led
+reproachful sigh, why Mr. [[Pickwick]] had not returned that diamond, or led
 the club, or roughed the spade, or finessed the heart, or led through
-the honour, or brought out the ace, or played up to the king, or some
-such thing; and in reply to all these grave charges, Mr. Pickwick would
+the [[Honour|honour]], or brought out the ace, or played up to the [[King|king]], or some
+such thing; and in reply to all these [[Grave|grave]] charges, Mr. [[Pickwick]] would
 be wholly unable to plead any justification whatever, having by this
-time forgotten all about the game. People came and looked on, too, which
-made Mr. Pickwick nervous. Besides all this, there was a great deal of
-distracting conversation near the table, between Angelo Bantam and the
-two Misses Matinter, who, being single and singular, paid great court to
-the Master of the Ceremonies, in the hope of getting a stray partner now
+[[Time|time]] forgotten all about the game. People came and looked on, too, which
+made Mr. [[Pickwick]] nervous. Besides all this, there was a great deal of
+distracting conversation near the table, between [[Angelo]] Bantam and the
+two Misses Matinter, who, being single and singular, paid great [[Court|court]] to
+the Master of the Ceremonies, in the [[Hope|hope]] of getting a stray partner now
 and then. All these things, combined with the noises and interruptions
-of constant comings in and goings out, made Mr. Pickwick play rather
+of constant comings in and goings out, made Mr. [[Pickwick]] play rather
 badly; the cards were against him, also; and when they left off at ten
-minutes past eleven, Miss Bolo rose from the table considerably
-agitated, and went straight home, in a flood of tears and a sedan-chair.
+minutes past eleven, Miss Bolo [[Rose|rose]] from the table considerably
+agitated, and went straight [[Home|home]], in a flood of [[Tears|tears]] and a sedan-chair.
 
 Being joined by his friends, who one and all protested that they had
-scarcely ever spent a more pleasant evening, Mr. Pickwick accompanied
+scarcely ever spent a more pleasant evening, Mr. [[Pickwick]] accompanied
 them to the White Hart, and having soothed his feelings with something
-hot, went to bed, and to sleep, almost simultaneously.
+hot, went to bed, and to [[Sleep|sleep]], almost simultaneously.

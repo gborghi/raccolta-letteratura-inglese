@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE"
+title: "The [[Pickwick]] Papers — Chapter 49: CONTAINING THE STORY OF THE BAGMAN’S UNCLE"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -19,23 +19,23 @@ CHAPTER XLIX. CONTAINING THE STORY OF THE BAGMAN’S UNCLE
 My uncle, gentlemen,’ said the bagman, ‘was one of the merriest,
 pleasantest, cleverest fellows, that ever lived. I wish you had known
 him, gentlemen. On second thoughts, gentlemen, I don’t wish you had
-known him, for if you had, you would have been all, by this time, in the
-ordinary course of nature, if not dead, at all events so near it, as to
-have taken to stopping at home and giving up company, which would have
+known him, for if you had, you would have been all, by this [[Time|time]], in the
+ordinary course of [[Nature|nature]], if not dead, at all events so near it, as to
+have taken to stopping at [[Home|home]] and giving up company, which would have
 deprived me of the inestimable pleasure of addressing you at this
 moment. Gentlemen, I wish your fathers and mothers had known my uncle.
 They would have been amazingly fond of him, especially your respectable
 mothers; I know they would. If any two of his numerous virtues
 predominated over the many that adorned his character, I should say they
-were his mixed punch and his after-supper song. Excuse my dwelling on
-these melancholy recollections of departed worth; you won’t see a man
+were his mixed punch and his after-supper [[Song|song]]. Excuse my dwelling on
+these [[Melancholy|melancholy]] recollections of departed worth; you won’t see a man
 like my uncle every day in the week.
 
 ‘I have always considered it a great point in my uncle’s character,
 gentlemen, that he was the intimate friend and companion of Tom Smart,
-of the great house of Bilson and Slum, Cateaton Street, City. My uncle
-collected for Tiggin and Welps, but for a long time he went pretty near
-the same journey as Tom; and the very first night they met, my uncle
+of the [[Great House|great house]] of Bilson and Slum, Cateaton Street, [[City]]. My uncle
+collected for Tiggin and Welps, but for a long [[Time|time]] he went pretty near
+the same [[Journey|journey]] as Tom; and the very first [[Night|night]] they met, my uncle
 took a fancy for Tom, and Tom took a fancy for my uncle. They made a bet
 of a new hat before they had known each other half an hour, who should
 brew the best quart of punch and drink it the quickest. My uncle was
@@ -48,7 +48,7 @@ destiny in these things, gentlemen; we can’t help it.
 size; he was a thought stouter too, than the ordinary run of people, and
 perhaps his face might be a shade redder. He had the jolliest face you
 ever saw, gentleman: something like Punch, with a handsome nose and
-chin; his eyes were always twinkling and sparkling with good-humour; and
+chin; his eyes were always twinkling and sparkling with good-[[Humour|humour]]; and
 a smile--not one of your unmeaning wooden grins, but a real, merry,
 hearty, good-tempered smile--was perpetually on his countenance. He was
 pitched out of his gig once, and knocked, head first, against a
@@ -60,7 +60,7 @@ gentlemen, I feel pretty sure she wouldn’t, for she died when my uncle
 was two years and seven months old, and I think it’s very likely that,
 even without the gravel, his top-boots would have puzzled the good lady
 not a little; to say nothing of his jolly red face. However, there he
-lay, and I have heard my uncle say, many a time, that the man said who
+lay, and I have heard my uncle say, many a [[Time|time]], that the man said who
 picked him up that he was smiling as merrily as if he had tumbled out
 for a treat, and that after they had bled him, the first faint
 glimmerings of returning animation, were his jumping up in bed, bursting
@@ -69,10 +69,10 @@ demanding a mutton chop and a pickled walnut. He was very fond of
 pickled walnuts, gentlemen. He said he always found that, taken without
 vinegar, they relished the beer.
 
-‘My uncle’s great journey was in the fall of the leaf, at which time he
-collected debts, and took orders, in the north; going from London to
+‘My uncle’s great [[Journey|journey]] was in the fall of the leaf, at which [[Time|time]] he
+collected debts, and took orders, in the north; going from [[London]] to
 Edinburgh, from Edinburgh to Glasgow, from Glasgow back to Edinburgh,
-and thence to London by the smack. You are to understand that his second
+and thence to [[London]] by the smack. You are to understand that his second
 visit to Edinburgh was for his own pleasure. He used to go back for a
 week, just to look up his old friends; and what with breakfasting with
 this one, lunching with that, dining with the third, and supping with
@@ -84,9 +84,9 @@ close up with. If you ever did, you will agree with me that it requires
 a pretty strong head to go out to dinner and supper afterwards.
 
 ‘But bless your hearts and eyebrows, all this sort of thing was nothing
-to my uncle! He was so well seasoned, that it was mere child’s play. I
+to my uncle! He was so [[Well|well]] seasoned, that it was mere [[Child|child]]’s play. I
 have heard him say that he could see the Dundee people out, any day, and
-walk home afterwards without staggering; and yet the Dundee people have
+walk [[Home|home]] afterwards without staggering; and yet the Dundee people have
 as strong heads and as strong punch, gentlemen, as you are likely to
 meet with, between the poles. I have heard of a Glasgow man and a Dundee
 man drinking against each other for fifteen hours at a sitting. They
@@ -94,15 +94,15 @@ were both suffocated, as nearly as could be ascertained, at the same
 moment, but with this trifling exception, gentlemen, they were not a bit
 the worse for it.
 
-‘One night, within four-and-twenty hours of the time when he had settled
-to take shipping for London, my uncle supped at the house of a very old
+‘One [[Night|night]], within four-and-twenty hours of the [[Time|time]] when he had settled
+to take shipping for [[London]], my uncle supped at the [[house]] of a very old
 friend of his, a Bailie Mac something and four syllables after it, who
 lived in the old town of Edinburgh. There were the bailie’s wife, and
 the bailie’s three daughters, and the bailie’s grown-up son, and three
 or four stout, bushy eye-browed, canny, old Scotch fellows, that the
-bailie had got together to do honour to my uncle, and help to make
+bailie had got together to do [[Honour|honour]] to my uncle, and help to make
 merry. It was a glorious supper. There was kippered salmon, and Finnan
-haddocks, and a lamb’s head, and a haggis--a celebrated Scotch dish,
+haddocks, and a [[Lamb|lamb]]’s head, and a haggis--a celebrated Scotch dish,
 gentlemen, which my uncle used to say always looked to him, when it came
 to table, very much like a Cupid’s stomach--and a great many other
 things besides, that I forget the names of, but very good things,
@@ -111,27 +111,27 @@ wife was one of the best creatures that ever lived; and my uncle was in
 thoroughly good cue. The consequence of which was, that the young ladies
 tittered and giggled, and the old lady laughed out loud, and the bailie
 and the other old fellows roared till they were red in the face, the
-whole mortal time. I don’t quite recollect how many tumblers of whiskey-
+whole mortal [[Time|time]]. I don’t quite recollect how many tumblers of whiskey-
 toddy each man drank after supper; but this I know, that about one
-o’clock in the morning, the bailie’s grown-up son became insensible
+o’[[Clock|clock]] in the morning, the bailie’s grown-up son became insensible
 while attempting the first verse of “Willie brewed a peck o’ maut”; and
 he having been, for half an hour before, the only other man visible
-above the mahogany, it occurred to my uncle that it was almost time to
-think about going, especially as drinking had set in at seven o’clock,
-in order that he might get home at a decent hour. But, thinking it might
+above the mahogany, it occurred to my uncle that it was almost [[Time|time]] to
+think about going, especially as drinking had set in at seven o’[[Clock|clock]],
+in order that he might get [[Home|home]] at a decent hour. But, thinking it might
 not be quite polite to go just then, my uncle voted himself into the
-chair, mixed another glass, rose to propose his own health, addressed
+chair, mixed another glass, [[Rose|rose]] to propose his own health, addressed
 himself in a neat and complimentary speech, and drank the toast with
 great enthusiasm. Still nobody woke; so my uncle took a little drop
-more--neat this time, to prevent the toddy from disagreeing with him--
+more--neat this [[Time|time]], to prevent the toddy from disagreeing with him--
 and, laying violent hands on his hat, sallied forth into the street.
 
-‘It was a wild, gusty night when my uncle closed the bailie’s door, and
-settling his hat firmly on his head to prevent the wind from taking it,
+‘It was a wild, gusty [[Night|night]] when my uncle closed the bailie’s door, and
+settling his hat firmly on his head to prevent the [[Wind|wind]] from taking it,
 thrust his hands into his pockets, and looking upward, took a short
 survey of the state of the weather. The clouds were drifting over the
-moon at their giddiest speed; at one time wholly obscuring her; at
-another, suffering her to burst forth in full splendour and shed her
+[[Moon|moon]] at their giddiest [[Speed|speed]]; at one [[Time|time]] wholly obscuring her; at
+another, [[Suffering|suffering]] her to burst forth in full splendour and shed her
 light on all the objects around; anon, driving over her again, with
 increased velocity, and shrouding everything in darkness. “Really, this
 won’t do,” said my uncle, addressing himself to the weather, as if he
@@ -141,25 +141,25 @@ impressively. Having repeated this, several times, he recovered his
 balance with some difficulty--for he was rather giddy with looking up
 into the sky so long--and walked merrily on.
 
-‘The bailie’s house was in the Canongate, and my uncle was going to the
-other end of Leith Walk, rather better than a mile’s journey. On either
+‘The bailie’s [[house]] was in the Canongate, and my uncle was going to the
+other end of Leith Walk, rather better than a mile’s [[Journey|journey]]. On either
 side of him, there shot up against the dark sky, tall, gaunt, straggling
-houses, with time-stained fronts, and windows that seemed to have shared
+houses, with [[Time|time]]-stained fronts, and windows that seemed to have shared
 the lot of eyes in mortals, and to have grown dim and sunken with age.
 Six, seven, eight storey high, were the houses; storey piled upon
 storey, as children build with cards--throwing their dark shadows over
-the roughly paved road, and making the dark night darker. A few oil
+the roughly paved [[Road|road]], and making the dark [[Night|night]] darker. A few oil
 lamps were scattered at long distances, but they only served to mark the
 dirty entrance to some narrow close, or to show where a common stair
 communicated, by steep and intricate windings, with the various flats
 above. Glancing at all these things with the air of a man who had seen
 them too often before, to think them worthy of much notice now, my uncle
 walked up the middle of the street, with a thumb in each waistcoat
-pocket, indulging from time to time in various snatches of song, chanted
+pocket, indulging from [[Time|time]] to [[Time|time]] in various snatches of [[Song|song]], chanted
 forth with such good-will and spirit, that the quiet honest folk started
-from their first sleep and lay trembling in bed till the sound died away
+from their first [[Sleep|sleep]] and lay trembling in bed till the sound died away
 in the distance; when, satisfying themselves that it was only some
-drunken ne’er-do-weel finding his way home, they covered themselves up
+drunken ne’er-do-weel finding his way [[Home|home]], they covered themselves up
 warm and fell asleep again.
 
 ‘I am particular in describing how my uncle walked up the middle of the
@@ -171,34 +171,34 @@ turn.
 
 ‘Gentlemen, my uncle walked on with his thumbs in his waistcoat pockets,
 taking the middle of the street to himself, and singing, now a verse of
-a love song, and then a verse of a drinking one, and when he was tired
+a [[Love|love]] [[Song|song]], and then a verse of a drinking one, and when he was tired
 of both, whistling melodiously, until he reached the North Bridge,
 which, at this point, connects the old and new towns of Edinburgh. Here
 he stopped for a minute, to look at the strange, irregular clusters of
 lights piled one above the other, and twinkling afar off so high, that
-they looked like stars, gleaming from the castle walls on the one side
-and the Calton Hill on the other, as if they illuminated veritable
+they looked like [[Stars|stars]], gleaming from the [[Castle|castle]] walls on the one side
+and the Calton [[Hill]] on the other, as if they illuminated veritable
 castles in the air; while the old picturesque town slept heavily on, in
 gloom and darkness below: its palace and chapel of Holyrood, guarded day
-and night, as a friend of my uncle’s used to say, by old Arthur’s Seat,
-towering, surly and dark, like some gruff genius, over the ancient city
+and [[Night|night]], as a friend of my uncle’s used to say, by old [[arthur|Arthur]]’s Seat,
+towering, surly and dark, like some gruff genius, over the ancient [[City|city]]
 he has watched so long. I say, gentlemen, my uncle stopped here, for a
 minute, to look about him; and then, paying a compliment to the weather,
-which had a little cleared up, though the moon was sinking, walked on
-again, as royally as before; keeping the middle of the road with great
+which had a little cleared up, though the [[Moon|moon]] was sinking, walked on
+again, as royally as before; keeping the middle of the [[Road|road]] with great
 dignity, and looking as if he would very much like to meet with somebody
 who would dispute possession of it with him. There was nobody at all
 disposed to contest the point, as it happened; and so, on he went, with
-his thumbs in his waistcoat pockets, like a lamb.
+his thumbs in his waistcoat pockets, like a [[Lamb|lamb]].
 
-‘When my uncle reached the end of Leith Walk, he had to cross a pretty
+‘When my uncle reached the end of Leith Walk, he had to [[Cross|cross]] a pretty
 large piece of waste ground which separated him from a short street
 which he had to turn down to go direct to his lodging. Now, in this
-piece of waste ground, there was, at that time, an enclosure belonging
+piece of waste ground, there was, at that [[Time|time]], an enclosure belonging
 to some wheelwright who contracted with the Post Office for the purchase
 of old, worn-out mail coaches; and my uncle, being very fond of coaches,
 old, young, or middle-aged, all at once took it into his head to step
-out of his road for no other purpose than to peep between the palings at
+out of his [[Road|road]] for no other purpose than to peep between the palings at
 these mails--about a dozen of which he remembered to have seen, crowded
 together in a very forlorn and dismantled state, inside. My uncle was a
 very enthusiastic, emphatic sort of person, gentlemen; so, finding that
@@ -213,31 +213,31 @@ huddled together in the most desolate condition imaginable. The doors
 had been torn from their hinges and removed; the linings had been
 stripped off, only a shred hanging here and there by a rusty nail; the
 lamps were gone, the poles had long since vanished, the ironwork was
-rusty, the paint was worn away; the wind whistled through the chinks in
+rusty, the paint was worn away; the [[Wind|wind]] whistled through the chinks in
 the bare woodwork; and the rain, which had collected on the roofs, fell,
-drop by drop, into the insides with a hollow and melancholy sound. They
+drop by drop, into the insides with a hollow and [[Melancholy|melancholy]] sound. They
 were the decaying skeletons of departed mails, and in that lonely place,
-at that time of night, they looked chill and dismal.
+at that [[Time|time]] of [[Night|night]], they looked chill and dismal.
 
 ‘My uncle rested his head upon his hands, and thought of the busy,
 bustling people who had rattled about, years before, in the old coaches,
 and were now as silent and changed; he thought of the numbers of people
-to whom one of these crazy, mouldering vehicles had borne, night after
-night, for many years, and through all weathers, the anxiously expected
+to whom one of these crazy, mouldering vehicles had borne, [[Night|night]] after
+[[Night|night]], for many years, and through all weathers, the anxiously expected
 intelligence, the eagerly looked-for remittance, the promised assurance
-of health and safety, the sudden announcement of sickness and death. The
-merchant, the lover, the wife, the widow, the mother, the school-boy,
-the very child who tottered to the door at the postman’s knock--how had
+of health and safety, the sudden announcement of sickness and [[Death|death]]. The
+merchant, the [[Lover|lover]], the wife, the widow, the mother, the school-boy,
+the very [[Child|child]] who tottered to the door at the postman’s knock--how had
 they all looked forward to the arrival of the old coach. And where were
 they all now?
 
-‘Gentlemen, my uncle used to _say _that he thought all this at the time,
+‘Gentlemen, my uncle used to _say _that he thought all this at the [[Time|time]],
 but I rather suspect he learned it out of some book afterwards, for he
 distinctly stated that he fell into a kind of doze, as he sat on the old
 axle-tree looking at the decayed mail coaches, and that he was suddenly
 awakened by some deep church bell striking two. Now, my uncle was never
 a fast thinker, and if he had thought all these things, I am quite
-certain it would have taken him till full half-past two o’clock at the
+certain it would have taken him till full half-past two o’[[Clock|clock]] at the
 very least. I am, therefore, decidedly of opinion, gentlemen, that my
 uncle fell into a kind of doze, without having thought about anything at
 all.
@@ -245,18 +245,18 @@ all.
 ‘Be this as it may, a church bell struck two. My uncle woke, rubbed his
 eyes, and jumped up in astonishment.
 
-‘In one instant, after the clock struck two, the whole of this deserted
+‘In one instant, after the [[Clock|clock]] struck two, the whole of this deserted
 and quiet spot had become a scene of most extraordinary life and
 animation. The mail coach doors were on their hinges, the lining was
 replaced, the ironwork was as good as new, the paint was restored, the
 lamps were alight; cushions and greatcoats were on every coach-box,
 porters were thrusting parcels into every boot, guards were stowing away
-letter-bags, hostlers were dashing pails of water against the renovated
+letter-bags, hostlers were dashing pails of [[Water|water]] against the renovated
 wheels; numbers of men were pushing about, fixing poles into every
 coach; passengers arrived, portmanteaus were handed up, horses were put
 to; in short, it was perfectly clear that every mail there, was to be
 off directly. Gentlemen, my uncle opened his eyes so wide at all this,
-that, to the very last moment of his life, he used to wonder how it fell
+that, to the very last moment of his life, he used to [[Wonder|wonder]] how it fell
 out that he had ever been able to shut ‘em again.
 
 ‘“Now then!” said a voice, as my uncle felt a hand on his shoulder,
@@ -272,8 +272,8 @@ persons, and although fresh faces were pouring in, every moment, there
 was no telling where they came from. They seemed to start up, in some
 strange manner, from the ground, or the air, and disappear in the same
 way. When a porter had put his luggage in the coach, and received his
-fare, he turned round and was gone; and before my uncle had well begun
-to wonder what had become of him, half a dozen fresh ones started up,
+fare, he turned round and was gone; and before my uncle had [[Well|well]] begun
+to [[Wonder|wonder]] what had become of him, half a dozen fresh ones started up,
 and staggered along under the weight of parcels, which seemed big enough
 to crush them. The passengers were all dressed so oddly too! Large,
 broad-skirted laced coats, with great cuffs and no collars; and wigs,
@@ -306,7 +306,7 @@ known it.
 ‘“It is, is it?” said my uncle. “Then here goes! Which coach?”
 
 ‘“This,” said the guard, pointing to an old-fashioned Edinburgh and
-London mail, which had the steps down and the door open. “Stop! Here are
+[[London]] mail, which had the steps down and the door open. “Stop! Here are
 the other passengers. Let them get in first.”
 
 ‘As the guard spoke, there all at once appeared, right in front of my
@@ -316,13 +316,13 @@ with buckram. Tiggin and Welps were in the printed calico and waistcoat
 piece line, gentlemen, so my uncle knew all the materials at once. He
 wore knee breeches, and a kind of leggings rolled up over his silk
 stockings, and shoes with buckles; he had ruffles at his wrists, a
-three-cornered hat on his head, and a long taper sword by his side. The
+three-cornered hat on his head, and a long taper [[Sword|sword]] by his side. The
 flaps of his waist-coat came half-way down his thighs, and the ends of
 his cravat reached to his waist. He stalked gravely to the coach door,
 pulled off his hat, and held it above his head at arm’s length, cocking
-his little finger in the air at the same time, as some affected people
+his little finger in the air at the same [[Time|time]], as some affected people
 do, when they take a cup of tea. Then he drew his feet together, and
-made a low, grave bow, and then put out his left hand. My uncle was just
+made a low, [[Grave|grave]] bow, and then put out his left hand. My uncle was just
 going to step forward, and shake it heartily, when he perceived that
 these attentions were directed, not towards him, but to a young lady who
 just then appeared at the foot of the steps, attired in an old-fashioned
@@ -343,7 +343,7 @@ powdered wig, notwithstanding his show of gallantry, which was all very
 fine and grand, clasped her tight by the wrist when she got in, and
 followed himself immediately afterwards. An uncommonly ill-looking
 fellow, in a close brown wig, and a plum-coloured suit, wearing a very
-large sword, and boots up to his hips, belonged to the party; and when
+large [[Sword|sword]], and boots up to his hips, belonged to the party; and when
 he sat himself down next to the young lady, who shrank into a corner at
 his approach, my uncle was confirmed in his original impression that
 something dark and mysterious was going forward, or, as he always said
@@ -351,68 +351,68 @@ himself, that “there was a screw loose somewhere.” It’s quite surprising
 how quickly he made up his mind to help the lady at any peril, if she
 needed any help.
 
-‘“Death and lightning!” exclaimed the young gentleman, laying his hand
-upon his sword as my uncle entered the coach.
+‘“[[Death]] and [[Lightning|lightning]]!” exclaimed the young gentleman, laying his hand
+upon his [[Sword|sword]] as my uncle entered the coach.
 
-‘“Blood and thunder!” roared the other gentleman. With this, he whipped
-his sword out, and made a lunge at my uncle without further ceremony. My
+‘“[[Blood]] and thunder!” roared the other gentleman. With this, he whipped
+his [[Sword|sword]] out, and made a lunge at my uncle without further ceremony. My
 uncle had no weapon about him, but with great dexterity he snatched the
 ill-looking gentleman’s three-cornered hat from his head, and, receiving
-the point of his sword right through the crown, squeezed the sides
+the point of his [[Sword|sword]] right through the [[Crown|crown]], squeezed the sides
 together, and held it tight.
 
 ‘“Pink him behind!” cried the ill-looking gentleman to his companion, as
-he struggled to regain his sword.
+he struggled to regain his [[Sword|sword]].
 
 ‘“He had better not,” cried my uncle, displaying the heel of one of his
 shoes, in a threatening manner. “I’ll kick his brains out, if he has
 any--, or fracture his skull if he hasn’t.” Exerting all his strength,
-at this moment, my uncle wrenched the ill-looking man’s sword from his
-grasp, and flung it clean out of the coach window, upon which the
-younger gentleman vociferated, “Death and lightning!” again, and laid
-his hand upon the hilt of his sword, in a very fierce manner, but didn’t
+at this moment, my uncle wrenched the ill-looking man’s [[Sword|sword]] from his
+grasp, and flung it clean out of the coach [[Window|window]], upon which the
+younger gentleman vociferated, “[[Death]] and [[Lightning|lightning]]!” again, and laid
+his hand upon the hilt of his [[Sword|sword]], in a very fierce manner, but didn’t
 draw it. Perhaps, gentlemen, as my uncle used to say with a smile,
 perhaps he was afraid of alarming the lady.
 
 ‘“Now, gentlemen,” said my uncle, taking his seat deliberately, “I don’t
-want to have any death, with or without lightning, in a lady’s presence,
-and we have had quite blood and thundering enough for one journey; so,
+want to have any [[Death|death]], with or without [[Lightning|lightning]], in a lady’s presence,
+and we have had quite [[Blood|blood]] and thundering enough for one [[Journey|journey]]; so,
 if you please, we’ll sit in our places like quiet insides. Here, guard,
 pick up that gentleman’s carving-knife.”
 
 ‘As quickly as my uncle said the words, the guard appeared at the coach
-window, with the gentleman’s sword in his hand. He held up his lantern,
+[[Window|window]], with the gentleman’s [[Sword|sword]] in his hand. He held up his lantern,
 and looked earnestly in my uncle’s face, as he handed it in, when, by
 its light, my uncle saw, to his great surprise, that an immense crowd of
-mail-coach guards swarmed round the window, every one of whom had his
+mail-coach guards swarmed round the [[Window|window]], every one of whom had his
 eyes earnestly fixed upon him too. He had never seen such a sea of white
 faces, red bodies, and earnest eyes, in all his born days.
 
 ‘“This is the strangest sort of thing I ever had anything to do with,”
  thought my uncle; “allow me to return you your hat, sir.”
 
-‘The ill-looking gentleman received his three-cornered hat in silence,
+‘The ill-looking gentleman received his three-cornered hat in [[Silence|silence]],
 looked at the hole in the middle with an inquiring air, and finally
 stuck it on the top of his wig with a solemnity the effect of which was
 a trifle impaired by his sneezing violently at the moment, and jerking
 it off again.
 
 ‘“All right!” cried the guard with the lantern, mounting into his little
-seat behind. Away they went. My uncle peeped out of the coach window as
+seat behind. Away they went. My uncle peeped out of the coach [[Window|window]] as
 they emerged from the yard, and observed that the other mails, with
 coachmen, guards, horses, and passengers, complete, were driving round
 and round in circles, at a slow trot of about five miles an hour. My
 uncle burned with indignation, gentlemen. As a commercial man, he felt
 that the mail-bags were not to be trifled with, and he resolved to
 memorialise the Post Office on the subject, the very instant he reached
-London.
+[[London]].
 
 ‘At present, however, his thoughts were occupied with the young lady who
 sat in the farthest corner of the coach, with her face muffled closely
 in her hood; the gentleman with the sky-blue coat sitting opposite to
 her; the other man in the plum-coloured suit, by her side; and both
 watching her intently. If she so much as rustled the folds of her hood,
-he could hear the ill-looking man clap his hand upon his sword, and
+he could hear the ill-looking man clap his hand upon his [[Sword|sword]], and
 could tell by the other’s breathing (it was so dark he couldn’t see his
 face) that he was looking as big as if he were going to devour her at a
 mouthful. This roused my uncle more and more, and he resolved, come what
@@ -423,18 +423,18 @@ whole sex. It runs in our family, gentleman--so am I.
 ‘Many were the devices which my uncle practised, to attract the lady’s
 attention, or at all events, to engage the mysterious gentlemen in
 conversation. They were all in vain; the gentlemen wouldn’t talk, and
-the lady didn’t dare. He thrust his head out of the coach window at
+the lady didn’t dare. He thrust his head out of the coach [[Window|window]] at
 intervals, and bawled out to know why they didn’t go faster. But he
 called till he was hoarse; nobody paid the least attention to him. He
 leaned back in the coach, and thought of the beautiful face, and the
-feet and legs. This answered better; it whiled away the time, and kept
+feet and legs. This answered better; it whiled away the [[Time|time]], and kept
 him from wondering where he was going, and how it was that he found
 himself in such an odd situation. Not that this would have worried him
 much, anyway--he was a mighty free and easy, roving, devil-may-care sort
 of person, was my uncle, gentlemen.
 
 ‘All of a sudden the coach stopped. “Hollo!” said my uncle, “what’s in
-the wind now?”
+the [[Wind|wind]] now?”
 
 ‘“Alight here,” said the guard, letting down the steps.
 
@@ -444,7 +444,7 @@ the wind now?”
 
 ‘“I’ll do nothing of the sort,” said my uncle.
 
-‘“Very well, then stop where you are,” said the guard.
+‘“Very [[Well|well]], then stop where you are,” said the guard.
 
 ‘“I will,” said my uncle.
 
@@ -453,7 +453,7 @@ the wind now?”
 ‘The passengers had regarded this colloquy with great attention, and,
 finding that my uncle was determined not to alight, the younger man
 squeezed past him, to hand the lady out. At this moment, the ill-looking
-man was inspecting the hole in the crown of his three-cornered hat. As
+man was inspecting the hole in the [[Crown|crown]] of his three-cornered hat. As
 the young lady brushed past, she dropped one of her gloves into my
 uncle’s hand, and softly whispered, with her lips so close to his face
 that he felt her warm breath on his nose, the single word “Help!”
@@ -463,28 +463,28 @@ that it rocked on the springs again.
 ‘“Oh! you’ve thought better of it, have you?” said the guard, when he
 saw my uncle standing on the ground.
 
-‘My uncle looked at the guard for a few seconds, in some doubt whether
-it wouldn’t be better to wrench his blunderbuss from him, fire it in the
-face of the man with the big sword, knock the rest of the company over
+‘My uncle looked at the guard for a few seconds, in some [[Doubt|doubt]] whether
+it wouldn’t be better to wrench his blunderbuss from him, [[Fire|fire]] it in the
+face of the man with the big [[Sword|sword]], knock the rest of the company over
 the head with the stock, snatch up the young lady, and go off in the
 smoke. On second thoughts, however, he abandoned this plan, as being a
 shade too melodramatic in the execution, and followed the two mysterious
-men, who, keeping the lady between them, were now entering an old house
+men, who, keeping the lady between them, were now entering an old [[house]]
 in front of which the coach had stopped. They turned into the passage,
 and my uncle followed.
 
 ‘Of all the ruinous and desolate places my uncle had ever beheld, this
-was the most so. It looked as if it had once been a large house of
+was the most so. It looked as if it had once been a large [[house]] of
 entertainment; but the roof had fallen in, in many places, and the
 stairs were steep, rugged, and broken. There was a huge fireplace in the
 room into which they walked, and the chimney was blackened with smoke;
-but no warm blaze lighted it up now. The white feathery dust of burned
+but no warm blaze lighted it up now. The white feathery [[Dust|dust]] of burned
 wood was still strewed over the hearth, but the stove was cold, and all
 was dark and gloomy.
 
-‘“Well,” said my uncle, as he looked about him, “a mail travelling at
+‘“[[Well]],” said my uncle, as he looked about him, “a mail travelling at
 the rate of six miles and a half an hour, and stopping for an indefinite
-time at such a hole as this, is rather an irregular sort of proceeding,
+[[Time|time]] at such a hole as this, is rather an irregular sort of proceeding,
 I fancy. This shall be made known. I’ll write to the papers.”
 
 ‘My uncle said this in a pretty loud voice, and in an open, unreserved
@@ -506,22 +506,22 @@ must be a _very _comfortable one;” with this, my uncle sat himself down
 in a high-backed chair, and took such an accurate measure of the
 gentleman, with his eyes, that Tiggin and Welps could have supplied him
 with printed calico for a suit, and not an inch too much or too little,
-from that estimate alone.
+from that estimate [[Alone|alone]].
 
 ‘“Quit this room,” said both men together, grasping their swords.
 
 ‘“Eh?” said my uncle, not at all appearing to comprehend their meaning.
 
 ‘“Quit the room, or you are a dead man,” said the ill-looking fellow
-with the large sword, drawing it at the same time and flourishing it in
+with the large [[Sword|sword]], drawing it at the same [[Time|time]] and flourishing it in
 the air.
 
-‘“Down with him!” cried the gentleman in sky-blue, drawing his sword
+‘“Down with him!” cried the gentleman in sky-blue, drawing his [[Sword|sword]]
 also, and falling back two or three yards. “Down with him!” The lady
 gave a loud scream.
 
 ‘Now, my uncle was always remarkable for great boldness, and great
-presence of mind. All the time that he had appeared so indifferent to
+presence of mind. All the [[Time|time]] that he had appeared so indifferent to
 what was going on, he had been looking slily about for some missile or
 weapon of defence, and at the very instant when the swords were drawn,
 he espied, standing in the chimney-corner, an old basket-hilted rapier
@@ -533,15 +533,15 @@ confusion, fell upon them both, pell-mell.
 
 ‘Gentlemen, there is an old story--none the worse for being true--
 regarding a fine young Irish gentleman, who being asked if he could play
-the fiddle, replied he had no doubt he could, but he couldn’t exactly
+the fiddle, replied he had no [[Doubt|doubt]] he could, but he couldn’t exactly
 say, for certain, because he had never tried. This is not inapplicable
-to my uncle and his fencing. He had never had a sword in his hand
-before, except once when he played Richard the Third at a private
+to my uncle and his fencing. He had never had a [[Sword|sword]] in his hand
+before, except once when he played [[Richard]] the Third at a private
 theatre, upon which occasion it was arranged with Richmond that he was
 to be run through, from behind, without showing fight at all. But here
 he was, cutting and slashing with two experienced swordsman, thrusting,
 and guarding, and poking, and slicing, and acquitting himself in the
-most manful and dexterous manner possible, although up to that time he
+most manful and dexterous manner possible, although up to that [[Time|time]] he
 had never been aware that he had the least notion of the science. It
 only shows how true the old saying is, that a man never knows what he
 can do till he tries, gentlemen.
@@ -549,18 +549,18 @@ can do till he tries, gentlemen.
 ‘The noise of the combat was terrific; each of the three combatants
 swearing like troopers, and their swords clashing with as much noise as
 if all the knives and steels in Newport market were rattling together,
-at the same time. When it was at its very height, the lady (to encourage
+at the same [[Time|time]]. When it was at its very height, the lady (to encourage
 my uncle most probably) withdrew her hood entirely from her face, and
-disclosed a countenance of such dazzling beauty, that he would have
+disclosed a countenance of such dazzling [[Beauty|beauty]], that he would have
 fought against fifty men, to win one smile from it and die. He had done
 wonders before, but now he began to powder away like a raving mad giant.
 
 ‘At this very moment, the gentleman in sky-blue turning round, and
 seeing the young lady with her face uncovered, vented an exclamation of
-rage and jealousy, and, turning his weapon against her beautiful bosom,
+rage and [[Jealousy|jealousy]], and, turning his weapon against her beautiful bosom,
 pointed a thrust at her heart, which caused my uncle to utter a cry of
 apprehension that made the building ring. The lady stepped lightly
-aside, and snatching the young man’s sword from his hand, before he had
+aside, and snatching the young man’s [[Sword|sword]] from his hand, before he had
 recovered his balance, drove him to the wall, and running it through
 him, and the panelling, up to the very hilt, pinned him there, hard and
 fast. It was a splendid example. My uncle, with a loud shout of triumph,
@@ -572,26 +572,26 @@ about in agony, like the toy-shop figures that are moved by a piece of
 pack-thread. My uncle always said, afterwards, that this was one of the
 surest means he knew of, for disposing of an enemy; but it was liable to
 one objection on the ground of expense, inasmuch as it involved the loss
-of a sword for every man disabled.
+of a [[Sword|sword]] for every man disabled.
 
 ‘“The mail, the mail!” cried the lady, running up to my uncle and
 throwing her beautiful arms round his neck; “we may yet escape.”
 
 ‘“May!” cried my uncle; “why, my dear, there’s nobody else to kill, is
 there?” My uncle was rather disappointed, gentlemen, for he thought a
-little quiet bit of love-making would be agreeable after the
+little quiet bit of [[Love|love]]-making would be agreeable after the
 slaughtering, if it were only to change the subject.
 
 ‘“We have not an instant to lose here,” said the young lady. “He
 (pointing to the young gentleman in sky-blue) is the only son of the
 powerful Marquess of Filletoville.”
 
-‘“Well then, my dear, I’m afraid he’ll never come to the title,” said my
+‘“[[Well]] then, my dear, I’m afraid he’ll never come to the title,” said my
 uncle, looking coolly at the young gentleman as he stood fixed up
 against the wall, in the cockchafer fashion that I have described. “You
-have cut off the entail, my love.”
+have cut off the entail, my [[Love|love]].”
 
-‘“I have been torn from my home and my friends by these villains,” said
+‘“I have been torn from my [[Home|home]] and my friends by these villains,” said
 the young lady, her features glowing with indignation. “That wretch
 would have married me by violence in another hour.”
 
@@ -604,13 +604,13 @@ assistance. If their accomplices find us here, we are lost. Two minutes
 hence may be too late. The mail!” With these words, overpowered by her
 feelings, and the exertion of sticking the young Marquess of
 Filletoville, she sank into my uncle’s arms. My uncle caught her up, and
-bore her to the house door. There stood the mail, with four long-tailed,
+bore her to the [[house]] door. There stood the mail, with four long-tailed,
 flowing-maned, black horses, ready harnessed; but no coachman, no guard,
 no hostler even, at the horses’ heads.
 
-‘Gentlemen, I hope I do no injustice to my uncle’s memory, when I
+‘Gentlemen, I [[Hope|hope]] I do no injustice to my uncle’s [[Memory|memory]], when I
 express my opinion, that although he was a bachelor, he had held some
-ladies in his arms before this time; I believe, indeed, that he had
+ladies in his arms before this [[Time|time]]; I believe, indeed, that he had
 rather a habit of kissing barmaids; and I know, that in one or two
 instances, he had been seen by credible witnesses, to hug a landlady in
 a very perceptible manner. I mention the circumstance, to show what a
@@ -620,7 +620,7 @@ her long dark hair trailed over his arm, and her beautiful dark eyes
 fixed themselves upon his face when she recovered, he felt so strange
 and nervous that his legs trembled beneath him. But who can look in a
 sweet, soft pair of dark eyes, without feeling queer? I can’t,
-gentlemen. I am afraid to look at some eyes I know, and that’s the truth
+gentlemen. I am afraid to look at some eyes I know, and that’s the [[Truth|truth]]
 of it.
 
 ‘“You will never leave me,” murmured the young lady.
@@ -642,7 +642,7 @@ and said--No, she didn’t say anything--she smiled. When you are looking
 at a pair of the most delicious lips in the world, and see them gently
 break into a roguish smile--if you are very near them, and nobody else
 by--you cannot better testify your admiration of their beautiful form
-and colour than by kissing them at once. My uncle did so, and I honour
+and colour than by kissing them at once. My uncle did so, and I [[Honour|honour]]
 him for it.
 
 ‘“Hark!” cried the young lady, starting. “The noise of wheels, and
@@ -652,18 +652,18 @@ horses!”
 the trampling of hoofs; but there appeared to be so many horses and
 carriages rattling towards them, from a distance, that it was impossible
 to form a guess at their number. The sound was like that of fifty
-brakes, with six blood cattle in each.
+brakes, with six [[Blood|blood]] cattle in each.
 
 ‘“We are pursued!” cried the young lady, clasping her hands. “We are
-pursued. I have no hope but in you!”
+pursued. I have no [[Hope|hope]] but in you!”
 
 ‘There was such an expression of terror in her beautiful face, that my
 uncle made up his mind at once. He lifted her into the coach, told her
 not to be frightened, pressed his lips to hers once more, and then
-advising her to draw up the window to keep the cold air out, mounted to
+advising her to draw up the [[Window|window]] to keep the cold air out, mounted to
 the box.
 
-‘“Stay, love,” cried the young lady.
+‘“Stay, [[Love|love]],” cried the young lady.
 
 ‘“What’s the matter?” said my uncle, from the coach-box.
 
@@ -674,18 +674,18 @@ word, dearest.”
 smiled again. Such a smile, gentlemen! It beat the other one, all to
 nothing. My uncle descended from his perch in a twinkling.
 
-‘“What is it, my dear?” said my uncle, looking in at the coach window.
-The lady happened to bend forward at the same time, and my uncle thought
+‘“What is it, my dear?” said my uncle, looking in at the coach [[Window|window]].
+The lady happened to bend forward at the same [[Time|time]], and my uncle thought
 she looked more beautiful than she had done yet. He was very close to
 her just then, gentlemen, so he really ought to know.
 
 ‘“What is it, my dear?” said my uncle.
 
-‘“Will you never love any one but me--never marry any one beside?” said
+‘“Will you never [[Love|love]] any one but me--never marry any one beside?” said
 the young lady.
 
 ‘My uncle swore a great oath that he never would marry anybody else, and
-the young lady drew in her head, and pulled up the window. He jumped
+the young lady drew in her head, and pulled up the [[Window|window]]. He jumped
 upon the box, squared his elbows, adjusted the ribands, seized the whip
 which lay on the roof, gave one flick to the off leader, and away went
 the four long-tailed, flowing-maned black horses, at fifteen good
@@ -693,8 +693,8 @@ English miles an hour, with the old mail-coach behind them. Whew! How
 they tore along!
 
 ‘The noise behind grew louder. The faster the old mail went, the faster
-came the pursuers--men, horses, dogs, were leagued in the pursuit. The
-noise was frightful, but, above all, rose the voice of the young lady,
+came the pursuers--men, horses, [[dogs]], were leagued in the pursuit. The
+noise was frightful, but, above all, [[Rose|rose]] the voice of the young lady,
 urging my uncle on, and shrieking, “Faster! Faster!”
 
 ‘They whirled past the dark trees, as feathers would be swept before a
@@ -713,20 +713,20 @@ them! He got down, and looked eagerly inside for the beautiful young
 lady. Alas! There was neither door nor seat to the coach. It was a mere
 shell.
 
-‘Of course, my uncle knew very well that there was some mystery in the
+‘Of course, my uncle knew very [[Well|well]] that there was some mystery in the
 matter, and that everything had passed exactly as he used to relate it.
 He remained staunch to the great oath he had sworn to the beautiful
 young lady, refusing several eligible landladies on her account, and
 dying a bachelor at last. He always said what a curious thing it was
 that he should have found out, by such a mere accident as his clambering
-over the palings, that the ghosts of mail-coaches and horses, guards,
+over the palings, that the [[Ghosts|ghosts]] of mail-coaches and horses, guards,
 coachmen, and passengers, were in the habit of making journeys regularly
-every night. He used to add, that he believed he was the only living
+every [[Night|night]]. He used to add, that he believed he was the only living
 person who had ever been taken as a passenger on one of these
 excursions. And I think he was right, gentlemen--at least I never heard
 of any other.’
 
-‘I wonder what these ghosts of mail-coaches carry in their bags,’ said
+‘I [[Wonder|wonder]] what these [[Ghosts|ghosts]] of mail-coaches carry in their bags,’ said
 the landlord, who had listened to the whole story with profound
 attention.
 

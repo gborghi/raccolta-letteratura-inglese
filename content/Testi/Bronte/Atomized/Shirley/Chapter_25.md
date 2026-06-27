@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 25"
+title: "[[Shirley]] — Chapter 25"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -18,33 +18,33 @@ CHAPTER XXV.
 
 
 
-THE WEST WIND BLOWS.
+THE WEST [[Wind|WIND]] BLOWS.
 
 
 
 
 
-Not always do those who dare such divine conflict prevail. Night after
+Not always do those who dare such divine conflict prevail. [[Night]] after
 
-night the sweat of agony may burst dark on the forehead; the supplicant
+[[Night|night]] the sweat of agony may burst dark on the forehead; the supplicant
 
-may cry for mercy with that soundless voice the soul utters when its
+may cry for [[Mercy|mercy]] with that soundless voice the [[Soul|soul]] utters when its
 
 appeal is to the Invisible. "Spare my beloved," it may implore. "Heal my
 
 life's life. Rend not from me what long affection entwines with my whole
 
-nature. God of heaven, bend, hear, be clement!" And after this cry and
+[[Nature|nature]]. God of heaven, bend, hear, be clement!" And after this cry and
 
 strife the sun may rise and see him worsted. That opening morn, which
 
-used to salute him with the whisper of zephyrs, the carol of skylarks,
+used to salute him with the whisper of zephyrs, the [[carol]] of skylarks,
 
 may breathe, as its first accents, from the dear lips which colour and
 
-heat have quitted, "Oh! I have had a suffering night. This morning I am
+heat have quitted, "Oh! I have had a [[Suffering|suffering]] [[Night|night]]. This morning I am
 
-worse. I have tried to rise. I cannot. Dreams I am unused to have
+worse. I have tried to rise. I cannot. [[Dreams]] I am unused to have
 
 troubled me."
 
@@ -56,19 +56,19 @@ strange moulding of the familiar features, feels at once that the
 
 insufferable moment draws nigh, knows that it is God's will his idol
 
-shall be broken, and bends his head, and subdues his soul to the
+shall be broken, and bends his head, and subdues his [[Soul|soul]] to the
 
 sentence he cannot avert and scarce can bear.
 
 
 
-Happy Mrs. Pryor! She was still praying, unconscious that the summer sun
+Happy Mrs. Pryor! She was still praying, unconscious that the [[Summer|summer]] sun
 
-hung above the hills, when her child softly woke in her arms. No
+hung above the hills, when her [[Child|child]] softly woke in her arms. No
 
 piteous, unconscious moaning--sound which so wastes our strength that,
 
-even if we have sworn to be firm, a rush of unconquerable tears sweeps
+even if we have sworn to be firm, a rush of unconquerable [[Tears|tears]] sweeps
 
 away the oath--preceded her waking. No space of deaf apathy followed.
 
@@ -82,13 +82,13 @@ happened.
 
 
 
-"Mamma, I have slept _so_ well. I only dreamed and woke twice."
+"Mamma, I have slept _so_ [[Well|well]]. I only dreamed and woke twice."
 
 
 
-Mrs. Pryor rose with a start, that her daughter might not see the joyful
+Mrs. Pryor [[Rose|rose]] with a start, that her daughter might not see the joyful
 
-tears called into her eyes by that affectionate word "mamma," and the
+[[Tears|tears]] called into her eyes by that affectionate word "mamma," and the
 
 welcome assurance that followed it.
 
@@ -112,17 +112,17 @@ The effort to eat, to talk, to look cheerful, was unsuccessful. Many an
 
 hour passed during which Mrs. Pryor feared that the chords of life could
 
-never more be strengthened, though the time of their breaking might be
+never more be strengthened, though the [[Time|time]] of their breaking might be
 
 deferred.
 
 
 
-During this space the mother and daughter seemed left almost alone in
+During this space the mother and daughter seemed left almost [[Alone|alone]] in
 
 the neighbourhood. It was the close of August; the weather was
 
-fine--that is to say, it was very dry and very dusty, for an arid wind
+fine--that is to say, it was very dry and very dusty, for an arid [[Wind|wind]]
 
 had been blowing from the east this month past; very cloudless, too,
 
@@ -134,7 +134,7 @@ and of all glow the light of day. Almost every family in Briarfield was
 
 absent on an excursion. Miss Keeldar and her friends were at the
 
-seaside; so were Mrs. Yorke's household. Mr. Hall and Louis Moore,
+seaside; so were Mrs. Yorke's household. Mr. Hall and [[Louis Moore]],
 
 between whom a spontaneous intimacy seemed to have arisen--the result,
 
@@ -142,19 +142,19 @@ probably, of harmony of views and temperament--were gone "up north" on a
 
 pedestrian excursion to the Lakes. Even Hortense, who would fain have
 
-stayed at home and aided Mrs. Pryor in nursing Caroline, had been so
+stayed at [[Home|home]] and aided Mrs. Pryor in nursing Caroline, had been so
 
 earnestly entreated by Miss Mann to accompany her once more to Wormwood
 
-Wells, in the hope of alleviating sufferings greatly aggravated by the
+Wells, in the [[Hope|hope]] of alleviating sufferings greatly aggravated by the
 
 insalubrious weather, that she felt obliged to comply; indeed, it was
 
-not in her nature to refuse a request that at once appealed to her
+not in her [[Nature|nature]] to refuse a request that at once appealed to her
 
 goodness of heart, and, by a confession of dependency, flattered her
 
-_amour propre_. As for Robert, from Birmingham he had gone on to London,
+_amour propre_. As for Robert, from Birmingham he had gone on to [[London]],
 
 where he still sojourned.
 
@@ -164,11 +164,11 @@ So long as the breath of Asiatic deserts parched Caroline's lips and
 
 fevered her veins, her physical convalescence could not keep pace with
 
-her returning mental tranquillity; but there came a day when the wind
+her returning mental tranquillity; but there came a day when the [[Wind|wind]]
 
 ceased to sob at the eastern gable of the rectory, and at the oriel
 
-window of the church. A little cloud like a man's hand arose in the
+[[Window|window]] of the church. A little cloud like a man's hand arose in the
 
 west; gusts from the same quarter drove it on and spread it wide; wet
 
@@ -176,7 +176,7 @@ and tempest prevailed a while. When that was over the sun broke out
 
 genially, heaven regained its azure, and earth its green; the livid
 
-cholera-tint had vanished from the face of nature; the hills rose clear
+cholera-tint had vanished from the face of [[Nature|nature]]; the hills [[Rose|rose]] clear
 
 round the horizon, absolved from that pale malaria-haze.
 
@@ -186,11 +186,11 @@ Caroline's youth could now be of some avail to her, and so could her
 
 mother's nurture. Both, crowned by God's blessing, sent in the pure west
 
-wind blowing soft as fresh through the ever-open chamber lattice,
+[[Wind|wind]] blowing soft as fresh through the ever-open chamber lattice,
 
 rekindled her long-languishing energies. At last Mrs. Pryor saw that it
 
-was permitted to hope: a genuine, material convalescence had commenced.
+was permitted to [[Hope|hope]]: a genuine, material convalescence had commenced.
 
 It was not merely Caroline's smile which was brighter, or her spirits
 
@@ -224,7 +224,7 @@ no longer equally distasteful; she could be induced, sometimes, to
 
 indicate a preference. With what trembling pleasure and anxious care did
 
-not her nurse prepare what was selected! How she watched her as she
+not her [[Nurse|nurse]] prepare what was selected! How she watched her as she
 
 partook of it!
 
@@ -232,13 +232,13 @@ partook of it!
 
 Nourishment brought strength. She could sit up. Then she longed to
 
-breathe the fresh air, to revisit her flowers, to see how the fruit had
+breathe the fresh air, to revisit her [[Flowers|flowers]], to see how the fruit had
 
-ripened. Her uncle, always liberal, had bought a garden-chair for her
+ripened. Her uncle, always liberal, had bought a [[Garden|garden]]-chair for her
 
 express use. He carried her down in his own arms, and placed her in it
 
-himself, and William Farren was there to wheel her round the walks, to
+himself, and William Farren was there to [[Wheel|wheel]] her round the walks, to
 
 show her what he had done amongst her plants, to take her directions for
 
@@ -250,13 +250,13 @@ William and she found plenty to talk about. They had a dozen topics in
 
 common--interesting to them, unimportant to the rest of the world. They
 
-took a similar interest in animals, birds, insects, and plants; they
+took a similar interest in [[Animals|animals]], [[Birds|birds]], [[Insects|insects]], and plants; they
 
 held similar doctrines about humanity to the lower creation, and had a
 
-similar turn for minute observation on points of natural history. The
+similar turn for minute observation on points of natural [[history]]. The
 
-nest and proceedings of some ground-bees, which had burrowed in the turf
+nest and proceedings of some ground-[[Bees|bees]], which had burrowed in the turf
 
 under an old cherry-tree, was one subject of interest; the haunts of
 
@@ -272,7 +272,7 @@ formed Miss Helstone's and Farren's favourite periodical. She would have
 
 subscribed for it, and to him each number would duly have been lent;
 
-both would have put implicit faith and found great savour in its
+both would have put implicit [[Faith|faith]] and found great savour in its
 
 marvellous anecdotes of animal sagacity.
 
@@ -282,7 +282,7 @@ This is a digression, but it suffices to explain why Caroline would have
 
 no other hand than William's to guide her chair, and why his society and
 
-conversation sufficed to give interest to her garden-airings.
+conversation sufficed to give interest to her [[Garden|garden]]-airings.
 
 
 
@@ -292,7 +292,7 @@ ease with a "man of the people." _She_ found it impossible to speak to
 
 him otherwise than stiffly. She felt as if a great gulf lay between her
 
-caste and his, and that to cross it or meet him half-way would be to
+caste and his, and that to [[Cross|cross]] it or meet him half-way would be to
 
 degrade herself. She gently asked Caroline, "Are you not afraid, my
 
@@ -326,7 +326,7 @@ failed to give him his due.
 
 The evening restored Caroline entirely to her mother, and Mrs. Pryor
 
-liked the evening; for then, alone with her daughter, no human shadow
+liked the evening; for then, [[Alone|alone]] with her daughter, no human [[Shadow|shadow]]
 
 came between her and what she loved. During the day she would have her
 
@@ -338,13 +338,13 @@ kept up. Anything like familiarity would have bred contempt at once in
 
 one or both these personages; but by dint of strict civility and
 
-well-maintained distance they got on very smoothly.
+[[Well|well]]-maintained distance they got on very smoothly.
 
 
 
 Towards the servants Mrs. Pryor's bearing was not uncourteous, but shy,
 
-freezing, ungenial. Perhaps it was diffidence rather than pride which
+freezing, ungenial. Perhaps it was diffidence rather than [[Pride|pride]] which
 
 made her appear so haughty; but, as was to be expected, Fanny and Eliza
 
@@ -358,15 +358,15 @@ else dejected, chill, and taciturn.
 
 
 
-This mood changed to Caroline's influence, and to that influence alone.
+This mood changed to Caroline's influence, and to that influence [[Alone|alone]].
 
 The dependent fondness of her nursling, the natural affection of her
 
-child, came over her suavely. Her frost fell away, her rigidity unbent;
+[[Child|child]], came over her suavely. Her [[Frost|frost]] fell away, her rigidity unbent;
 
 she grew smiling and pliant. Not that Caroline made any wordy profession
 
-of love--that would ill have suited Mrs. Pryor; she would have read
+of [[Love|love]]--that would ill have suited Mrs. Pryor; she would have read
 
 therein the proof of insincerity--but she hung on her with easy
 
@@ -406,7 +406,7 @@ lecture her parent; and that parent, instead of being hurt, felt a
 
 sensation of pleasure in discovering that the girl _dared_ lecture her,
 
-that she was so much at home with her.
+that she was so much at [[Home|home]] with her.
 
 
 
@@ -440,7 +440,7 @@ recommending. Let me choose the pattern. You always want to disguise
 
 yourself like a grandmother. You would persuade one that you are old and
 
-ugly. Not at all! On the contrary, when well dressed and cheerful you
+ugly. Not at all! On the contrary, when [[Well|well]] dressed and cheerful you
 
 are very comely indeed; your smile is so pleasant, your teeth are so
 
@@ -482,7 +482,7 @@ handkerchief and resmoothed her hair.
 
 thought of their relationship, "who belongs to me, and to whom I belong!
 
-I am a rich girl now. I have something I can love well, and not be
+I am a rich girl now. I have something I can [[Love|love]] [[Well|well]], and not be
 
 afraid of loving. Mamma, who gave you this little brooch? Let me unpin
 
@@ -540,7 +540,7 @@ Caroline had lived to see her niece!"
 
 "Ah, mamma, you mean your teasing daughter, who will never let you
 
-alone; who, when you go into your room, cannot help running to seek for
+[[Alone|alone]]; who, when you go into your room, cannot help running to seek for
 
 you; who follows you upstairs and down, like a dog."
 
@@ -548,7 +548,7 @@ you; who follows you upstairs and down, like a dog."
 
 "Whose features still give me such a strange thrill sometimes. I half
 
-fear your fair looks yet, child."
+[[Fear|fear]] your fair looks yet, [[Child|child]]."
 
 
 
@@ -556,7 +556,7 @@ fear your fair looks yet, child."
 
 he had been. Wickedness spoils and poisons all pleasant things. It kills
 
-love. If you and I thought each other wicked, we could not love each
+[[Love|love]]. If you and I thought each other wicked, we could not [[Love|love]] each
 
 other, could we?"
 
@@ -590,7 +590,7 @@ propriety of expression or purity of accent."
 
 "I wish I could reciprocate the compliment, Cary; but, really, the first
 
-time I heard your truly excellent friend read and preach I could not
+[[Time|time]] I heard your truly excellent friend read and preach I could not
 
 understand his broad northern tongue."
 
@@ -602,7 +602,7 @@ understand his broad northern tongue."
 
 "No. I almost wished you had, as I wished you had looked unpolished.
 
-Your father, Caroline, naturally spoke well, quite otherwise than your
+Your father, Caroline, naturally spoke [[Well|well]], quite otherwise than your
 
 worthy uncle--correctly, gently, smoothly. You inherit the gift."
 
@@ -612,7 +612,7 @@ worthy uncle--correctly, gently, smoothly. You inherit the gift."
 
 
 
-"Why he was _as_ he was--and happily of that you, child, can form no
+"Why he was _as_ he was--and happily of that you, [[Child|child]], can form no
 
 conception--I cannot tell. It is a deep mystery. The key is in the hands
 
@@ -632,7 +632,7 @@ favourite--Cowper."
 
 These importunities were the mother's pleasure. If ever she delayed
 
-compliance, it was only to hear them repeated, and to enjoy her child's
+compliance, it was only to hear them repeated, and to enjoy her [[Child|child]]'s
 
 soft, half-playful, half-petulant urgency. And then, when she yielded,
 

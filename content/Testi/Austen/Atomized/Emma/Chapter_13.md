@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 13"
+title: "[[Emma]] — Chapter 13"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Emma-(Austen)"
@@ -25,7 +25,7 @@ nothing to wish otherwise, but that the days did not pass so swiftly.
 It was a delightful visit;—perfect, in being much too short.
 
 In general their evenings were less engaged with friends than their
-mornings; but one complete dinner engagement, and out of the house too,
+mornings; but one complete dinner engagement, and out of the [[house]] too,
 there was no avoiding, though at Christmas. Mr. Weston would take no
 denial; they must all dine at Randalls one day;—even Mr. Woodhouse was
 persuaded to think it a possible thing in preference to a division of
@@ -34,28 +34,28 @@ the party.
 How they were all to be conveyed, he would have made a difficulty if he
 could, but as his son and daughter’s carriage and horses were actually
 at Hartfield, he was not able to make more than a simple question on
-that head; it hardly amounted to a doubt; nor did it occupy Emma long
+that head; it hardly amounted to a [[Doubt|doubt]]; nor did it occupy [[Emma]] long
 to convince him that they might in one of the carriages find room for
 Harriet also.
 
 Harriet, Mr. Elton, and Mr. Knightley, their own especial set, were the
-only persons invited to meet them;—the hours were to be early, as well
+only persons invited to meet them;—the hours were to be early, as [[Well|well]]
 as the numbers few; Mr. Woodhouse’s habits and inclination being
 consulted in every thing.
 
 The evening before this great event (for it was a very great event that
 Mr. Woodhouse should dine out, on the 24th of December) had been spent
-by Harriet at Hartfield, and she had gone home so much indisposed with
+by Harriet at Hartfield, and she had gone [[Home|home]] so much indisposed with
 a cold, that, but for her own earnest wish of being nursed by Mrs.
-Goddard, Emma could not have allowed her to leave the house. Emma
+Goddard, [[Emma]] could not have allowed her to leave the [[house]]. [[Emma]]
 called on her the next day, and found her doom already signed with
 regard to Randalls. She was very feverish and had a bad sore throat:
 Mrs. Goddard was full of care and affection, Mr. Perry was talked of,
 and Harriet herself was too ill and low to resist the authority which
 excluded her from this delightful engagement, though she could not
-speak of her loss without many tears.
+speak of her loss without many [[Tears|tears]].
 
-Emma sat with her as long as she could, to attend her in Mrs. Goddard’s
+[[Emma]] sat with her as long as she could, to attend her in Mrs. Goddard’s
 unavoidable absences, and raise her spirits by representing how much
 Mr. Elton’s would be depressed when he knew her state; and left her at
 last tolerably comfortable, in the sweet dependence of his having a
@@ -68,27 +68,27 @@ might carry some report of her to Hartfield—they were overtaken by Mr.
 John Knightley returning from the daily visit to Donwell, with his two
 eldest boys, whose healthy, glowing faces shewed all the benefit of a
 country run, and seemed to ensure a quick despatch of the roast mutton
-and rice pudding they were hastening home for. They joined company and
-proceeded together. Emma was just describing the nature of her friend’s
+and rice pudding they were hastening [[Home|home]] for. They joined company and
+proceeded together. [[Emma]] was just describing the [[Nature|nature]] of her friend’s
 complaint;—“a throat very much inflamed, with a great deal of heat
 about her, a quick, low pulse, &c. and she was sorry to find from Mrs.
 Goddard that Harriet was liable to very bad sore-throats, and had often
 alarmed her with them.” Mr. Elton looked all alarm on the occasion, as
 he exclaimed,
 
-“A sore-throat!—I hope not infectious. I hope not of a putrid
+“A sore-throat!—I [[Hope|hope]] not infectious. I [[Hope|hope]] not of a putrid
 infectious sort. Has Perry seen her? Indeed you should take care of
-yourself as well as of your friend. Let me entreat you to run no risks.
+yourself as [[Well|well]] as of your friend. Let me entreat you to run no risks.
 Why does not Perry see her?”
 
-Emma, who was not really at all frightened herself, tranquillised this
+[[Emma]], who was not really at all frightened herself, tranquillised this
 excess of apprehension by assurances of Mrs. Goddard’s experience and
 care; but as there must still remain a degree of uneasiness which she
 could not wish to reason away, which she would rather feed and assist
 than not, she added soon afterwards—as if quite another subject,
 
 “It is so cold, so very cold—and looks and feels so very much like
-snow, that if it were to any other place or with any other party, I
+[[Snow|snow]], that if it were to any other place or with any other party, I
 should really try not to go out to-day—and dissuade my father from
 venturing; but as he has made up his mind, and does not seem to feel
 the cold himself, I do not like to interfere, as I know it would be so
@@ -96,14 +96,14 @@ great a disappointment to Mr. and Mrs. Weston. But, upon my word, Mr.
 Elton, in your case, I should certainly excuse myself. You appear to me
 a little hoarse already, and when you consider what demand of voice and
 what fatigues to-morrow will bring, I think it would be no more than
-common prudence to stay at home and take care of yourself to-night.”
+common prudence to stay at [[Home|home]] and take care of yourself to-[[Night|night]].”
 
-Mr. Elton looked as if he did not very well know what answer to make;
+Mr. Elton looked as if he did not very [[Well|well]] know what answer to make;
 which was exactly the case; for though very much gratified by the kind
 care of such a fair lady, and not liking to resist any advice of her’s,
-he had not really the least inclination to give up the visit;—but Emma,
+he had not really the least inclination to give up the visit;—but [[Emma]],
 too eager and busy in her own previous conceptions and views to hear
-him impartially, or see him with clear vision, was very well satisfied
+him impartially, or see him with clear vision, was very [[Well|well]] satisfied
 with his muttering acknowledgment of its being “very cold, certainly
 very cold,” and walked on, rejoicing in having extricated him from
 Randalls, and secured him the power of sending to inquire after Harriet
@@ -120,17 +120,17 @@ his broad handsome face expressed more pleasure than at this moment;
 never had his smile been stronger, nor his eyes more exulting than when
 he next looked at her.
 
-“Well,” said she to herself, “this is most strange!—After I had got him
-off so well, to chuse to go into company, and leave Harriet ill
+“[[Well]],” said she to herself, “this is most strange!—After I had got him
+off so [[Well|well]], to chuse to go into company, and leave Harriet ill
 behind!—Most strange indeed!—But there is, I believe, in many men,
 especially single men, such an inclination—such a passion for dining
 out—a dinner engagement is so high in the class of their pleasures,
 their employments, their dignities, almost their duties, that any thing
 gives way to it—and this must be the case with Mr. Elton; a most
 valuable, amiable, pleasing young man undoubtedly, and very much in
-love with Harriet; but still, he cannot refuse an invitation, he must
-dine out wherever he is asked. What a strange thing love is! he can see
-ready wit in Harriet, but will not dine alone for her.”
+[[Love|love]] with Harriet; but still, he cannot refuse an invitation, he must
+dine out wherever he is asked. What a strange thing [[Love|love]] is! he can see
+ready wit in Harriet, but will not dine [[Alone|alone]] for her.”
 
 Soon afterwards Mr. Elton quitted them, and she could not but do him
 the justice of feeling that there was a great deal of sentiment in his
@@ -141,7 +141,7 @@ her again, when he hoped to be able to give a better report; and he
 sighed and smiled himself off in a way that left the balance of
 approbation much in his favour.
 
-After a few minutes of entire silence between them, John Knightley
+After a few minutes of entire [[Silence|silence]] between them, John Knightley
 began with—
 
 “I never in my life saw a man more intent on being agreeable than Mr.
@@ -149,7 +149,7 @@ Elton. It is downright labour to him where ladies are concerned. With
 men he can be rational and unaffected, but when he has ladies to
 please, every feature works.”
 
-“Mr. Elton’s manners are not perfect,” replied Emma; “but where there
+“Mr. Elton’s manners are not perfect,” replied [[Emma]]; “but where there
 is a wish to please, one ought to overlook, and one does overlook a
 great deal. Where a man does his best with only moderate powers, he
 will have the advantage over negligent superiority. There is such
@@ -162,15 +162,15 @@ to have a great deal of good-will towards you.”
 “Me!” she replied with a smile of astonishment, “are you imagining me
 to be Mr. Elton’s object?”
 
-“Such an imagination has crossed me, I own, Emma; and if it never
-occurred to you before, you may as well take it into consideration
+“Such an [[Imagination|imagination]] has crossed me, I own, [[Emma]]; and if it never
+occurred to you before, you may as [[Well|well]] take it into consideration
 now.”
 
-“Mr. Elton in love with me!—What an idea!”
+“Mr. Elton in [[Love|love]] with me!—What an idea!”
 
-“I do not say it is so; but you will do well to consider whether it is
+“I do not say it is so; but you will do [[Well|well]] to consider whether it is
 so or not, and to regulate your behaviour accordingly. I think your
-manners to him encouraging. I speak as a friend, Emma. You had better
+manners to him encouraging. I speak as a friend, [[Emma]]. You had better
 look about you, and ascertain what you do, and what you mean to do.”
 
 “I thank you; but I assure you you are quite mistaken. Mr. Elton and I
@@ -178,22 +178,22 @@ are very good friends, and nothing more;” and she walked on, amusing
 herself in the consideration of the blunders which often arise from a
 partial knowledge of circumstances, of the mistakes which people of
 high pretensions to judgment are for ever falling into; and not very
-well pleased with her brother for imagining her blind and ignorant, and
+[[Well|well]] pleased with her brother for imagining her blind and ignorant, and
 in want of counsel. He said no more.
 
 Mr. Woodhouse had so completely made up his mind to the visit, that in
 spite of the increasing coldness, he seemed to have no idea of
 shrinking from it, and set forward at last most punctually with his
 eldest daughter in his own carriage, with less apparent consciousness
-of the weather than either of the others; too full of the wonder of his
+of the weather than either of the others; too full of the [[Wonder|wonder]] of his
 own going, and the pleasure it was to afford at Randalls to see that it
-was cold, and too well wrapt up to feel it. The cold, however, was
-severe; and by the time the second carriage was in motion, a few flakes
-of snow were finding their way down, and the sky had the appearance of
+was cold, and too [[Well|well]] wrapt up to feel it. The cold, however, was
+severe; and by the [[Time|time]] the second carriage was in motion, a few flakes
+of [[Snow|snow]] were finding their way down, and the sky had the appearance of
 being so overcharged as to want only a milder air to produce a very
-white world in a very short time.
+white world in a very short [[Time|time]].
 
-Emma soon saw that her companion was not in the happiest humour. The
+[[Emma]] soon saw that her companion was not in the happiest [[Humour|humour]]. The
 preparing and the going abroad in such weather, with the sacrifice of
 his children after dinner, were evils, were disagreeables at least,
 which Mr. John Knightley did not by any means like; he anticipated
@@ -206,32 +206,32 @@ asks people to leave their own fireside, and encounter such a day as
 this, for the sake of coming to see him. He must think himself a most
 agreeable fellow; I could not do such a thing. It is the greatest
 absurdity—Actually snowing at this moment!—The folly of not allowing
-people to be comfortable at home—and the folly of people’s not staying
-comfortably at home when they can! If we were obliged to go out such an
+people to be comfortable at [[Home|home]]—and the folly of people’s not staying
+comfortably at [[Home|home]] when they can! If we were obliged to go out such an
 evening as this, by any call of duty or business, what a hardship we
 should deem it;—and here are we, probably with rather thinner clothing
 than usual, setting forward voluntarily, without excuse, in defiance of
-the voice of nature, which tells man, in every thing given to his view
-or his feelings, to stay at home himself, and keep all under shelter
+the voice of [[Nature|nature]], which tells man, in every thing given to his view
+or his feelings, to stay at [[Home|home]] himself, and keep all under shelter
 that he can;—here are we setting forward to spend five dull hours in
-another man’s house, with nothing to say or to hear that was not said
+another man’s [[house]], with nothing to say or to hear that was not said
 and heard yesterday, and may not be said and heard again to-morrow.
 Going in dismal weather, to return probably in worse;—four horses and
 four servants taken out for nothing but to convey five idle, shivering
 creatures into colder rooms and worse company than they might have had
-at home.”
+at [[Home|home]].”
 
-Emma did not find herself equal to give the pleased assent, which no
-doubt he was in the habit of receiving, to emulate the “Very true, my
-love,” which must have been usually administered by his travelling
+[[Emma]] did not find herself equal to give the pleased assent, which no
+[[Doubt|doubt]] he was in the habit of receiving, to emulate the “Very true, my
+[[Love|love]],” which must have been usually administered by his travelling
 companion; but she had resolution enough to refrain from making any
 answer at all. She could not be complying, she dreaded being
-quarrelsome; her heroism reached only to silence. She allowed him to
+quarrelsome; her [[Heroism|heroism]] reached only to [[Silence|silence]]. She allowed him to
 talk, and arranged the glasses, and wrapped herself up, without opening
 her lips.
 
 They arrived, the carriage turned, the step was let down, and Mr.
-Elton, spruce, black, and smiling, was with them instantly. Emma
+Elton, spruce, black, and smiling, was with them instantly. [[Emma]]
 thought with pleasure of some change of subject. Mr. Elton was all
 obligation and cheerfulness; he was so very cheerful in his civilities
 indeed, that she began to think he must have received a different
@@ -246,19 +246,19 @@ sentiment as he answered.
 
 “Oh! no—I am grieved to find—I was on the point of telling you that
 when I called at Mrs. Goddard’s door, which I did the very last thing
-before I returned to dress, I was told that Miss Smith was not better,
+before I returned to dress, I was told that Miss [[smith|Smith]] was not better,
 by no means better, rather worse. Very much grieved and concerned—I had
 flattered myself that she must be better after such a cordial as I knew
 had been given her in the morning.”
 
-Emma smiled and answered—“My visit was of use to the nervous part of
-her complaint, I hope; but not even I can charm away a sore throat; it
+[[Emma]] smiled and answered—“My visit was of use to the nervous part of
+her complaint, I [[Hope|hope]]; but not even I can charm away a sore throat; it
 is a most severe cold indeed. Mr. Perry has been with her, as you
 probably heard.”
 
 “Yes—I imagined—that is—I did not—”
 
-“He has been used to her in these complaints, and I hope to-morrow
+“He has been used to her in these complaints, and I [[Hope|hope]] to-morrow
 morning will bring us both a more comfortable report. But it is
 impossible not to feel uneasiness. Such a sad loss to our party
 to-day!”
@@ -266,7 +266,7 @@ to-day!”
 “Dreadful!—Exactly so, indeed.—She will be missed every moment.”
 
 This was very proper; the sigh which accompanied it was really
-estimable; but it should have lasted longer. Emma was rather in dismay
+estimable; but it should have lasted longer. [[Emma]] was rather in dismay
 when only half a minute afterwards he began to speak of other things,
 and in a voice of the greatest alacrity and enjoyment.
 
@@ -286,11 +286,11 @@ it.”
 extremely fortunate we may think ourselves that it did not begin
 yesterday, and prevent this day’s party, which it might very possibly
 have done, for Mr. Woodhouse would hardly have ventured had there been
-much snow on the ground; but now it is of no consequence. This is quite
-the season indeed for friendly meetings. At Christmas every body
+much [[Snow|snow]] on the ground; but now it is of no consequence. This is quite
+the season indeed for friendly meetings. At Christmas every [[Body|body]]
 invites their friends about them, and people think little of even the
-worst weather. I was snowed up at a friend’s house once for a week.
-Nothing could be pleasanter. I went for only one night, and could not
+worst weather. I was snowed up at a friend’s [[house]] once for a week.
+Nothing could be pleasanter. I went for only one [[Night|night]], and could not
 get away till that very day se’nnight.”
 
 Mr. John Knightley looked as if he did not comprehend the pleasure, but
@@ -298,7 +298,7 @@ said only, coolly,
 
 “I cannot wish to be snowed up a week at Randalls.”
 
-At another time Emma might have been amused, but she was too much
+At another [[Time|time]] [[Emma]] might have been amused, but she was too much
 astonished now at Mr. Elton’s spirits for other feelings. Harriet
 seemed quite forgotten in the expectation of a pleasant party.
 
@@ -310,15 +310,15 @@ small parties are select, they are perhaps the most agreeable of any.
 Mr. Weston’s dining-room does not accommodate more than ten
 comfortably; and for my part, I would rather, under such circumstances,
 fall short by two than exceed by two. I think you will agree with me,
-(turning with a soft air to Emma,) I think I shall certainly have your
+(turning with a soft air to [[Emma]],) I think I shall certainly have your
 approbation, though Mr. Knightley perhaps, from being used to the large
-parties of London, may not quite enter into our feelings.”
+parties of [[London]], may not quite enter into our feelings.”
 
-“I know nothing of the large parties of London, sir—I never dine with
-any body.”
+“I know nothing of the large parties of [[London]], sir—I never dine with
+any [[Body|body]].”
 
-“Indeed! (in a tone of wonder and pity,) I had no idea that the law had
-been so great a slavery. Well, sir, the time must come when you will be
+“Indeed! (in a tone of [[Wonder|wonder]] and pity,) I had no idea that the law had
+been so great a [[Slavery|slavery]]. [[Well]], sir, the [[Time|time]] must come when you will be
 paid for all this, when you will have little labour and great
 enjoyment.”
 

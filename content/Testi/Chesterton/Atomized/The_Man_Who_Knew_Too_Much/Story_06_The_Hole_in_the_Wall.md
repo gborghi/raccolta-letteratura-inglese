@@ -18,17 +18,17 @@ VI - The Hole in the Wall
 *
 Two men, the one an architect and the other an archaeologist, met on
 
-the steps of the great house at Prior's Park; and their host, Lord
+the steps of the [[Great House|great house]] at Prior's Park; and their host, Lord
 
 Bulmer, in his breezy way, thought it natural to introduce them. It
 
-must be confessed that he was hazy as well as breezy, and had no
+must be confessed that he was hazy as [[Well|well]] as breezy, and had no
 
 very clear connection in his mind, beyond the sense that an
 
 architect and an archaeologist begin with the same series of
 
-letters. The world must remain in a reverent doubt as to whether he
+letters. The world must remain in a reverent [[Doubt|doubt]] as to whether he
 
 would, on the same principles, have presented a diplomatist to a
 
@@ -45,9 +45,9 @@ rather an old building, by the way, though I say it who shouldn't. I
 
 must ask you to excuse me a moment; I've got to go and see about the
 
-cards for this Christmas romp my sister's arranging. We hope to see
+cards for this Christmas romp my sister's arranging. We [[Hope|hope]] to see
 
-you all there, of course. Juliet wants it to be a fancy-dress
+you all there, of course. [[Juliet]] wants it to be a fancy-dress
 
 affair—abbots and crusaders and all that. My ancestors, I suppose,
 
@@ -59,33 +59,33 @@ gentleman, with a smile.
 
 laughing; then his rather rambling eye rolled round the ordered
 
-landscape in front of the house; an artificial sheet of water
+landscape in front of the [[house]]; an artificial sheet of [[Water|water]]
 
 ornamented with an antiquated nymph in the center and surrounded by
 
 a park of tall trees now gray and black and frosty, for it was in
 
-the depth of a severe winter.
+the depth of a severe [[Winter|winter]].
 "It's getting jolly cold," his lordship continued. "My sister hopes
 
-we shall have some skating as well as dancing."
+we shall have some skating as [[Well|well]] as dancing."
 "If the crusaders come in full armor," said the other, "you must be
 
 careful not to drown your ancestors."
-"Oh, there's no fear of that," answered Bulmer; "this precious lake
+"Oh, there's no [[Fear|fear]] of that," answered Bulmer; "this precious lake
 
 of ours is not two feet deep anywhere." And with one of his
 
-flourishing gestures he stuck his stick into the water to
+flourishing gestures he stuck his stick into the [[Water|water]] to
 
 demonstrate its shallowness. They could see the short end bent in
 
-the water, so that he seemed for a moment to lean his large weight
+the [[Water|water]], so that he seemed for a moment to lean his large weight
 
 on a breaking staff.
 "The worst you can expect is to see an abbot sit down rather
 
-suddenly," he added, turning away. "Well, au revoir; I'll let you
+suddenly," he added, turning away. "[[Well]], au revoir; I'll let you
 
 know about it later."
 The archaeologist and the architect were left on the great stone
@@ -98,9 +98,9 @@ might even have found some contradiction in each considered
 
 individually. The former, a Mr. James Haddow, came from a drowsy den
 
-in the Inns of Court, full of leather and parchment, for the law was
+in the Inns of [[Court]], full of leather and parchment, for the law was
 
-his profession and history only his hobby; he was indeed, among
+his profession and [[history]] only his hobby; he was indeed, among
 
 other things, the solicitor and agent of the Prior's Park estate.
 
@@ -112,19 +112,19 @@ as his very neat costume. The latter, whose name was Leonard Crane,
 
 came straight from a crude and almost cockney office of builders and
 
-house agents in the neighboring suburb, sunning itself at the end of
+[[house]] agents in the neighboring suburb, sunning itself at the end of
 
 a new row of jerry-built houses with plans in very bright colors and
 
 notices in very large letters. But a serious observer, at a second
 
-glance, might have seen in his eyes something of that shining sleep
+glance, might have seen in his eyes something of that shining [[Sleep|sleep]]
 
 that is called vision; and his yellow hair, while not affectedly
 
-long, was unaffectedly untidy. It was a manifest if melancholy truth
+long, was unaffectedly untidy. It was a manifest if [[Melancholy|melancholy]] [[Truth|truth]]
 
-that the architect was an artist. But the artistic temperament was
+that the architect was an [[artist]]. But the artistic temperament was
 
 far from explaining him; there was something else about him that was
 
@@ -158,7 +158,7 @@ rugged face was fainter as he replied, quietly:
 
 Gothic, and I cannot find any trace of destruction or restoration.
 
-But the house and the estate generally—well the romantic ideas read
+But the [[house]] and the estate generally—[[Well|well]] the romantic ideas read
 
 into these things are often rather recent romances, things almost
 
@@ -166,15 +166,15 @@ like fashionable novels. For instance, the very name of this place,
 
 Prior's Park, makes everybody think of it as a moonlit mediaeval
 
-abbey; I dare say the spiritualists by this time have discovered the
+abbey; I dare say the spiritualists by this [[Time|time]] have discovered the
 
-ghost of a monk there. But, according to the only authoritative
+[[Ghost|ghost]] of a monk there. But, according to the only authoritative
 
 study of the matter I can find, the place was simply called Prior's
 
-as any rural place is called Podger's. It was the house of a Mr.
+as any rural place is called Podger's. It was the [[house]] of a Mr.
 
-Prior, a farmhouse, probably, that stood here at some time or other
+Prior, a farmhouse, probably, that stood here at some [[Time|time]] or other
 
 and was a local landmark. Oh, there are a great many examples of the
 
@@ -184,7 +184,7 @@ a village, and because some of the people slurred the name and
 
 pronounced it Holliwell, many a minor poet indulged in fancies about
 
-a Holy Well, with spells and fairies and all the rest of it, filling
+a Holy [[Well]], with spells and fairies and all the rest of it, filling
 
 the suburban drawing-rooms with the Celtic twilight. Whereas anyone
 
@@ -201,7 +201,7 @@ lecture on antiquities and novelties, and the cause of his
 
 restlessness was soon apparent, and indeed approaching. Lord
 
-Bulmer's sister, Juliet Bray, was coming slowly across the lawn,
+Bulmer's sister, [[Juliet]] Bray, was coming slowly across the lawn,
 
 accompanied by one gentleman and followed by two others. The young
 
@@ -218,7 +218,7 @@ had been paying a round of visits at various English country houses,
 
 and exactly what he was doing for diplomacy at Prior's Park was as
 
-much a secret as any diplomatist could desire. The obvious thing to
+much a secret as any diplomatist could [[Desire|desire]]. The obvious thing to
 
 say of his appearance was that he would have been extremely handsome
 
@@ -256,7 +256,7 @@ understood that he had been a judge and police official in India, and
 
 that he had enemies, who had represented his measures against crime as
 
-themselves almost criminal. He was a brown skeleton of a man with dark,
+themselves almost criminal. He was a brown [[skeleton]] of a man with dark,
 
 deep, sunken eyes and a black mustache that hid the meaning of his
 
@@ -267,7 +267,7 @@ his movements were much more alert than those of his lounging companion.
 
 they came within hailing distance. "You've all got to put on
 
-masquerade things and very likely skates as well, though the prince
+masquerade things and very likely skates as [[Well|well]], though the prince
 
 says they don't go with it; but we don't care about that. It's
 
@@ -275,14 +275,14 @@ freezing already, and we don't often get such a chance in England."
 "Even in India we don't exactly skate all the year round," observed
 
 Mr. Brain.
-"And even Italy is not primarily associated with ice," said the
+"And even [[Italy]] is not primarily associated with ice," said the
 
 Italian.
-"Italy is primarily associated with ices," remarked Mr. Horne
+"[[Italy]] is primarily associated with ices," remarked Mr. Horne
 
 Fisher. "I mean with ice cream men. Most people in this country
 
-imagine that Italy is entirely populated with ice cream men and
+imagine that [[Italy]] is entirely populated with ice cream men and
 
 organ grinders. There certainly are a lot of them; perhaps they're
 
@@ -296,12 +296,12 @@ army of organ grinders might pick up hints, and their monkeys might
 pick up all sort of things."
 "The organs are organized in fact," said the flippant Mr. Fisher.
 
-"Well, I've known it pretty cold before now in Italy and even in
+"[[Well]], I've known it pretty cold before now in [[Italy]] and even in
 
 India, up on the Himalayan slopes. The ice on our own little round
 
 pond will be quite cozy by comparison."
-Juliet Bray was an attractive lady with dark hair and eyebrows and
+[[Juliet]] Bray was an attractive lady with dark hair and eyebrows and
 
 dancing eyes, and there was a geniality and even generosity in her
 
@@ -317,11 +317,11 @@ most respectable and reluctant of them with her mediaeval
 
 masquerade. And it really seemed as if she could command the
 
-elements also, like a witch. For the weather steadily hardened and
+elements also, like a [[Witch|witch]]. For the weather steadily hardened and
 
-sharpened; that night the ice of the lake, glimmering in the
+sharpened; that [[Night|night]] the ice of the lake, glimmering in the
 
-moonlight, was like a marble floor, and they had begun to dance and
+moonlight, was like a marble floor, and they had begun to [[Dance|dance]] and
 
 skate on it before it was dark.
 Prior's Park, or, more properly, the surrounding district of
@@ -330,7 +330,7 @@ Holinwall, was a country seat that had become a suburb; having once
 
 had only a dependent village at its doors, it now found outside all
 
-its doors the signals of the expansion of London. Mr. Haddow, who
+its doors the signals of the expansion of [[London]]. Mr. Haddow, who
 
 was engaged in historical researches both in the library and the
 
@@ -352,14 +352,14 @@ constantly shifting their homes from one suburb to another, or their
 
 children from one school to another, could have no corporate
 
-continuity. They had all that forgetfulness of history that goes
+continuity. They had all that forgetfulness of [[history]] that goes
 
-everywhere with the extension of education.
+everywhere with the extension of [[Education|education]].
 Nevertheless, when he came out of the library next morning and saw
 
 the wintry trees standing round the frozen pond like a black forest,
 
-he felt he might well have been far in the depths of the country.
+he felt he might [[Well|well]] have been far in the depths of the country.
 
 The old wall running round the park kept that inclosure itself still
 
@@ -373,12 +373,12 @@ were all the more severe or somber as a contrast to the colored
 
 carnival groups that already stood on and around the frozen pool.
 
-For the house party had already flung themselves impatiently into
+For the [[house]] party had already flung themselves impatiently into
 
 fancy dress, and the lawyer, with his neat black suit and red hair,
 
 was the only modern figure among them.
-"Aren't you going to dress up?" asked Juliet, indignantly shaking at
+"Aren't you going to dress up?" asked [[Juliet]], indignantly shaking at
 
 him a horned and towering blue headdress of the fourteenth century
 
@@ -394,7 +394,7 @@ them together; he's supposed to be a monk, too. As to the prince,
 
 he's perfectly glorious, in great crimson robes as a cardinal. He
 
-looks as if he could poison everybody. You simply must be
+looks as if he could [[Poison|poison]] everybody. You simply must be
 
 something."
 "I will be something later in the day," he replied. "At present I am
@@ -415,7 +415,7 @@ The noble lord was indeed marching toward them in a magnificent
 
 sixteenth-century costume of purple and gold, with a gold-hilted
 
-sword and a plumed cap, and manners to match. Indeed, there was
+[[Sword|sword]] and a plumed cap, and manners to match. Indeed, there was
 
 something more than his usual expansiveness of bodily action in his
 
@@ -423,32 +423,32 @@ appearance at that moment. It almost seemed, so to speak, that the
 
 plumes on his hat had gone to his head. He flapped his great,
 
-gold-lined cloak like the wings of a fairy king in a pantomime; he
+gold-lined cloak like the wings of a fairy [[King|king]] in a pantomime; he
 
-even drew his sword with a flourish and waved it about as he did his
+even drew his [[Sword|sword]] with a flourish and waved it about as he did his
 
 walking stick. In the light of after events there seemed to be
 
 something monstrous and ominous about that exuberance, something of
 
-the spirit that is called fey. At the time it merely crossed a few
+the spirit that is called fey. At the [[Time|time]] it merely crossed a few
 
 people's minds that he might possibly be drunk.
 As he strode toward his sister the first figure he passed was that
 
-of Leonard Crane, clad in Lincoln green, with the horn and baldrick
+of Leonard Crane, clad in [[Lincoln]] green, with the horn and baldrick
 
-and sword appropriate to Robin Hood; for he was standing nearest to
+and [[Sword|sword]] appropriate to [[Robin Hood]]; for he was standing nearest to
 
 the lady, where, indeed, he might have been found during a
 
-disproportionate part of the time. He had displayed one of his
+disproportionate part of the [[Time|time]]. He had displayed one of his
 
 buried talents in the matter of skating, and now that the skating
 
 was over seemed disposed to prolong the partnership. The boisterous
 
-Bulmer playfully made a pass at him with his drawn sword, going
+Bulmer playfully made a pass at him with his drawn [[Sword|sword]], going
 
 forward with the lunge in the proper fencing fashion, and making a
 
@@ -457,17 +457,17 @@ somewhat too familiar Shakespearean quotation about a rodent and a
 Venetian coin.
 Probably in Crane also there was a subdued excitement just then;
 
-anyhow, in one flash he had drawn his own sword and parried; and
+anyhow, in one flash he had drawn his own [[Sword|sword]] and parried; and
 
 then suddenly, to the surprise of everyone, Bulmer's weapon seemed
 
-to spring out of his hand into the air and rolled away on the
+to [[spring]] out of his hand into the air and rolled away on the
 
 ringing ice.
-"Well, I never!" said the lady, as if with justifiable indignation.
+"[[Well]], I never!" said the lady, as if with justifiable indignation.
 
 "You never told me you could fence, too."
-Bulmer put up his sword with an air rather bewildered than annoyed,
+Bulmer put up his [[Sword|sword]] with an air rather bewildered than annoyed,
 
 which increased the impression of something irresponsible in his
 
@@ -476,9 +476,9 @@ mood at the moment; then he turned rather abruptly to his lawyer,
 saying:
 "We can settle up about the estate after dinner; I've missed nearly
 
-all the skating as it is, and I doubt if the ice will hold till
+all the skating as it is, and I [[Doubt|doubt]] if the ice will hold till
 
-to-morrow night. I think I shall get up early and have a spin by
+to-morrow [[Night|night]]. I think I shall get up early and have a spin by
 
 myself."
 "You won't be disturbed with my company," said Horne Fisher, in his
@@ -494,15 +494,15 @@ laughed.
 *
 A considerable group of the skating party had consisted of the
 
-guests staying at the house, and the rest had tailed off in twos and
+guests staying at the [[house]], and the rest had tailed off in twos and
 
-threes some time before most of the guests began to retire for the
+threes some [[Time|time]] before most of the guests began to retire for the
 
-night. Neighbors, always invited to Prior's Park on such occasions,
+[[Night|night]]. Neighbors, always invited to Prior's Park on such occasions,
 
 went back to their own houses in motors or on foot; the legal and
 
-archeological gentleman had returned to the Inns of Court by a late
+archeological gentleman had returned to the Inns of [[Court]] by a late
 
 train, to get a paper called for during his consultation with his
 
@@ -514,7 +514,7 @@ deprive himself of any excuse for his refusal of early rising, had
 
 been the first to retire to his room; but, sleepy as he looked, he
 
-could not sleep. He had picked up from a table the book of
+could not [[Sleep|sleep]]. He had picked up from a table the book of
 
 antiquarian topography, in which Haddow had found his first hints
 
@@ -524,7 +524,7 @@ and quaint capacity for being interested in anything, he began to
 
 read it steadily, making notes now and then of details on which his
 
-previous reading left him with a certain doubt about his present
+previous reading left him with a certain [[Doubt|doubt]] about his present
 
 conclusions. His room was the one nearest to the lake in the center
 
@@ -536,9 +536,9 @@ carefully the argument which established the derivation from Mr.
 
 Prior's farm and the hole in the wall, and disposed of any
 
-fashionable fancy about monks and magic wells, when he began to be
+fashionable fancy about [[Monks|monks]] and [[Magic|magic]] wells, when he began to be
 
-conscious of a noise audible in the frozen silence of the night. It
+conscious of a noise audible in the frozen [[Silence|silence]] of the [[Night|night]]. It
 
 was not a particularly loud noise, but it seemed to consist of a
 
@@ -552,21 +552,21 @@ had given way. He opened his own bedroom door and listened, but as
 
 he heard talk and laughter all over the lower floors, he had no
 
-reason to fear that a summons would be neglected or the house left
+reason to [[Fear|fear]] that a summons would be neglected or the [[house]] left
 
-without protection. He went to his open window, looking out over the
+without protection. He went to his open [[Window|window]], looking out over the
 
 frozen pond and the moonlit statue in the middle of their circle of
 
-darkling woods, and listened again. But silence had returned to that
+darkling woods, and listened again. But [[Silence|silence]] had returned to that
 
-silent place, and, after straining his ears for a considerable time,
+silent place, and, after straining his ears for a considerable [[Time|time]],
 
 he could hear nothing but the solitary hoot of a distant departing
 
 train. Then he reminded himself how many nameless noises can be
 
-heard by the wakeful during the most ordinary night, and shrugging
+heard by the wakeful during the most ordinary [[Night|night]], and shrugging
 
 his shoulders, went wearily to bed.
 He awoke suddenly and sat up in bed with his ears filled, as with
@@ -577,7 +577,7 @@ rigid for a moment, and then sprang out of bed, throwing on the
 
 loose gown of sacking he had worn all day. He went first to the
 
-window, which was open, but covered with a thick curtain, so that
+[[Window|window]], which was open, but covered with a thick curtain, so that
 
 his room was still completely dark; but when he tossed the curtain
 
@@ -587,27 +587,27 @@ had already appeared behind the black woods that surrounded the
 
 little lake, and that was all that he did see. Though the sound had
 
-certainly come in through the open window from this direction, the
+certainly come in through the open [[Window|window]] from this direction, the
 
 whole scene was still and empty under the morning light as under the
 
 moonlight. Then the long, rather lackadaisical hand he had laid on a
 
-window sill gripped it tighter, as if to master a tremor, and his
+[[Window|window]] sill gripped it tighter, as if to master a tremor, and his
 
-peering blue eyes grew bleak with fear. It may seem that his emotion
+peering blue eyes grew bleak with [[Fear|fear]]. It may seem that his emotion
 
 was exaggerated and needless, considering the effort of common sense
 
 by which he had conquered his nervousness about the noise on the
 
-previous night. But that had been a very different sort of noise. It
+previous [[Night|night]]. But that had been a very different sort of noise. It
 
 might have been made by half a hundred things, from the chopping of
 
-wood to the breaking of bottles. There was only one thing in nature
+wood to the breaking of bottles. There was only one thing in [[Nature|nature]]
 
-from which could come the sound that echoed through the dark house
+from which could come the sound that echoed through the dark [[house]]
 
 at daybreak. It was the awful articulate voice of man; and it was
 
@@ -620,20 +620,20 @@ been swallowed up, as if the man had been stifled or snatched away
 
 even as he spoke. Only the mocking reverberations of it remained
 
-even in his memory, but he had no doubt of the original voice. He
+even in his [[Memory|memory]], but he had no [[Doubt|doubt]] of the original voice. He
 
-had no doubt that the great bull's voice of Francis Bray, Baron
+had no [[Doubt|doubt]] that the great bull's voice of Francis Bray, Baron
 
-Bulmer, had been heard for the last time between the darkness and
+Bulmer, had been heard for the last [[Time|time]] between the darkness and
 
-the lifting dawn.
+the lifting [[Dawn|dawn]].
 How long he stood there he never knew, but he was startled into life
 
 by the first living thing that he saw stirring in that half-frozen
 
 landscape. Along the path beside the lake, and immediately under his
 
-window, a figure was walking slowly and softly, but with great
+[[Window|window]], a figure was walking slowly and softly, but with great
 
 composure—a stately figure in robes of a splendid scarlet; it was
 
@@ -649,8 +649,8 @@ finished and formal, in the way of an early bird, about this
 
 magnificent red cockatoo. It was as if the early bird had been up
 
-all night.
-"What is the matter?" he called, sharply, leaning out of the window,
+all [[Night|night]].
+"What is the matter?" he called, sharply, leaning out of the [[Window|window]],
 
 and the Italian turned up his great yellow face like a mask of
 
@@ -662,21 +662,21 @@ entering the doorway and blocking the entrance with his bulk.
 "Did you hear that cry?" demanded Fisher.
 "I heard a noise and I came out," answered the diplomatist, and his
 
-face was too dark in the shadow for its expression to be read.
+face was too dark in the [[Shadow|shadow]] for its expression to be read.
 "It was Bulmer's voice," insisted Fisher. "I'll swear it was
 
 Bulmer's voice."
-"Did you know him well?" asked the other.
+"Did you know him [[Well|well]]?" asked the other.
 The question seemed irrelevant, though it was not illogical, and
 
 Fisher could only answer in a random fashion that he knew Lord
 
 Bulmer only slightly.
-"Nobody seems to have known him well," continued the Italian, in
+"Nobody seems to have known him [[Well|well]]," continued the Italian, in
 
 level tones. "Nobody except that man Brain. Brain is rather older
 
-than Bulmer, but I fancy they shared a good many secrets."
+than Bulmer, but I fancy they shared a good many [[Secrets|secrets]]."
 Fisher moved abruptly, as if waking from a momentary trance, and
 
 said, in a new and more vigorous voice, "But look here, hadn't we
@@ -685,23 +685,23 @@ better get outside and see if anything has happened."
 "The ice seems to be thawing," said the other, almost with
 
 indifference.
-When they emerged from the house, dark stains and stars in the gray
+When they emerged from the [[house]], dark stains and [[Stars|stars]] in the gray
 
-field of ice did indeed indicate that the frost was breaking up, as
+field of ice did indeed indicate that the [[Frost|frost]] was breaking up, as
 
-their host had prophesied the day before, and the very memory of
+their host had prophesied the day before, and the very [[Memory|memory]] of
 
 yesterday brought back the mystery of to-day.
 "He knew there would be a thaw," observed the prince. "He went out
 
 skating quite early on purpose. Did he call out because he landed in
 
-the water, do you think?"
+the [[Water|water]], do you think?"
 Fisher looked puzzled. "Bulmer was the last man to bellow like that
 
 because he got his boots wet. And that's all he could do here; the
 
-water would hardly come up to the calf of a man of his size. You can
+[[Water|water]] would hardly come up to the calf of a man of his size. You can
 
 see the flat weeds on the floor of the lake, as if it were through a
 
@@ -712,12 +712,12 @@ wouldn't have said much at the moment, though possibly a good deal
 afterward. We should have found him stamping and damning up and down
 
 this path, and calling for clean boots."
-"Let us hope we shall find him as happily employed," remarked the
+"Let us [[Hope|hope]] we shall find him as happily employed," remarked the
 
 diplomatist. "In that case the voice must have come out of the
 
 wood."
-"I'll swear it didn't come out of the house," said Fisher; and the
+"I'll swear it didn't come out of the [[house]]," said Fisher; and the
 
 two disappeared together into the twilight of wintry trees.
 The plantation stood dark against the fiery colors of sunrise, a
@@ -742,7 +742,7 @@ that his bed had been slept in and his skates and his fancy costume
 
 were gone, as if he had risen early for the purpose he had himself
 
-avowed. But from the top of the house to the bottom, from the walls
+avowed. But from the top of the [[house]] to the [[Bottom|bottom]], from the walls
 
 round the park to the pond in the center, there was no trace of Lord
 
@@ -769,20 +769,20 @@ keeper had seen no one pass. Fisher was fairly sure that he had
 
 before him a mathematical problem in an inclosed space. His instinct
 
-had been from the first so attuned to the tragedy that it would have
+had been from the first so attuned to the [[Tragedy|tragedy]] that it would have
 
 been almost a relief to him to find the corpse. He would have been
 
-grieved, but not horrified, to come on the nobleman's body dangling
+grieved, but not horrified, to come on the nobleman's [[Body|body]] dangling
 
 from one of his own trees as from a gibbet, or floating in his own
 
 pool like a pallid weed. What horrified him was to find nothing.
-He soon become conscious that he was not alone even in his most
+He soon become conscious that he was not [[Alone|alone]] even in his most
 
 individual and isolated experiments. He often found a figure
 
-following him like his shadow, in silent and almost secret clearings
+following him like his [[Shadow|shadow]], in silent and almost secret clearings
 
 in the plantation or outlying nooks and corners of the old wall. The
 
@@ -797,22 +797,22 @@ a tiger. Seeing that he was the only personal friend of the vanished
 man, this seemed natural enough, and Fisher resolved to deal frankly
 
 with him.
-"This silence is rather a social strain," he said. "May I break the
+"This [[Silence|silence]] is rather a social strain," he said. "May I break the
 
 ice by talking about the weather?—which, by the way, has already
 
 broken the ice. I know that breaking the ice might be a rather
 
-melancholy metaphor in this case."
+[[Melancholy|melancholy]] metaphor in this case."
 "I don't think so," replied Brain, shortly. "I don't fancy the ice
 
 had much to do with it. I don't see how it could."
 "What would you propose doing?" asked Fisher.
-"Well, we've sent for the authorities, of course, but I hope to find
+"[[Well]], we've sent for the authorities, of course, but I [[Hope|hope]] to find
 
 something out before they come," replied the Anglo-Indian. "I can't
 
-say I have much hope from police methods in this country. Too much
+say I have much [[Hope|hope]] from police methods in this country. Too much
 
 red tape, habeas corpus and that sort of thing. What we want is to
 
@@ -821,7 +821,7 @@ see that nobody bolts; the nearest we could get to it would be to
 collect the company and count them, so to speak. Nobody's left
 
 lately, except that lawyer who was poking about for antiquities."
-"Oh, he's out of it; he left last night," answered the other. "Eight
+"Oh, he's out of it; he left last [[Night|night]]," answered the other. "Eight
 
 hours after Bulmer's chauffeur saw his lawyer off by the train I
 
@@ -844,11 +844,11 @@ to comment once more on the young architect's delay in putting in
 an appearance, he found himself in the presence of a minor mystery,
 
 and a psychological development of an entirely unexpected kind.
-Juliet Bray had confronted the catastrophe of her brother's
+[[Juliet]] Bray had confronted the catastrophe of her brother's
 
 disappearance with a somber stoicism in which there was, perhaps,
 
-more paralysis than pain; but when the other question came to the
+more paralysis than [[Pain|pain]]; but when the other question came to the
 
 surface she was both agitated and angry.
 "We don't want to jump to any conclusions about anybody," Brain was
@@ -870,11 +870,11 @@ anybody; but then we haven't the means to make a real case against
 anybody. Till the police come we are only a pack of very amateur
 
 sleuthhounds."
-"And I think you're a pack of snobs," said Juliet. "Because Mr.
+"And I think you're a pack of snobs," said [[Juliet]]. "Because Mr.
 
 Crane is a genius who's made his own way, you try to suggest he's a
 
-murderer without daring to say so. Because he wore a toy sword and
+murderer without daring to say so. Because he wore a toy [[Sword|sword]] and
 
 happened to know how to use it, you want us to believe he used it
 
@@ -887,7 +887,7 @@ That's the sort of way you argue. And as for his having disappeared,
 you're wrong in that as you are in everything else, for here he
 
 comes."
-And, indeed, the green figure of the fictitious Robin Hood slowly
+And, indeed, the green figure of the fictitious [[Robin Hood]] slowly
 
 detached itself from the gray background of the trees, and came
 
@@ -898,7 +898,7 @@ decidedly pale, and the eyes of Brain and Fisher had already taken
 
 in one detail of the green-clad figure more clearly than all the
 
-rest. The horn still swung from his baldrick, but the sword was
+rest. The horn still swung from his baldrick, but the [[Sword|sword]] was
 
 gone.
 Rather to the surprise of the company, Brain did not follow up the
@@ -913,23 +913,23 @@ question I want to ask to begin with. Did anybody here actually see
 Lord Bulmer this morning?"
 Leonard Crane turned his pale face round the circle of faces till he
 
-came to Juliet's; then he compressed his lips a little and said:
+came to [[Juliet]]'s; then he compressed his lips a little and said:
 "Yes, I saw him."
-"Was he alive and well?" asked Brain, quickly. "How was he
+"Was he alive and [[Well|well]]?" asked Brain, quickly. "How was he
 
 dressed?"
-"He appeared exceedingly well," replied Crane, with a curious
+"He appeared exceedingly [[Well|well]]," replied Crane, with a curious
 
 intonation. "He was dressed as he was yesterday, in that purple
 
 costume copied from the portrait of his ancestor in the sixteenth
 
 century. He had his skates in his hand."
-"And his sword at his side, I suppose," added the questioner. "Where
+"And his [[Sword|sword]] at his side, I suppose," added the questioner. "Where
 
-is your own sword, Mr. Crane?"
+is your own [[Sword|sword]], Mr. Crane?"
 "I threw it away."
-In the singular silence that ensued, the train of thought in many
+In the singular [[Silence|silence]] that ensued, the train of thought in many
 
 minds became involuntarily a series of colored pictures.
 They had grown used to their fanciful garments looking more gay and
@@ -946,7 +946,7 @@ attitude that remained in their memories had been anything but
 
 merely monastic; that of the moment when the figure in bright green
 
-and the other in vivid violet had for a moment made a silver cross
+and the other in vivid violet had for a moment made a silver [[Cross|cross]]
 
 of their crossing swords. Even when it was a jest it had been
 
@@ -954,7 +954,7 @@ something of a drama; and it was a strange and sinister thought that
 
 in the gray daybreak the same figures in the same posture might have
 
-been repeated as a tragedy.
+been repeated as a [[Tragedy|tragedy]].
 "Did you quarrel with him?" asked Brain, suddenly.
 "Yes," replied the immovable man in green. "Or he quarreled with
 
@@ -964,14 +964,14 @@ me."
 Crane made no reply.
 Horne Fisher, curiously enough, had only given half his attention to
 
-this crucial cross-examination. His heavy-lidded eyes had languidly
+this crucial [[Cross|cross]]-examination. His heavy-lidded eyes had languidly
 
 followed the figure of Prince Borodino, who at this stage had
 
 strolled away toward the fringe of the wood; and, after a pause, as
 
 of meditation, had disappeared into the darkness of the trees.
-He was recalled from his irrelevance by the voice of Juliet Bray,
+He was recalled from his irrelevance by the voice of [[Juliet]] Bray,
 
 which rang out with an altogether new note of decision:
 "If that is the difficulty, it had best be cleared up. I am engaged
@@ -984,7 +984,7 @@ Neither Brain nor Fisher exhibited any surprise, but the former
 added, quietly:
 "Except, I suppose, that he and your brother went off into the wood
 
-to discuss it, where Mr. Crane mislaid his sword, not to mention his
+to discuss it, where Mr. Crane mislaid his [[Sword|sword]], not to mention his
 
 companion."
 "And may I ask," inquired Crane, with a certain flicker of mockery
@@ -995,7 +995,7 @@ with either of them? Let us adopt the cheerful thesis that I am a
 
 murderer; it has yet to be shown that I am a magician. If I ran your
 
-unfortunate friend through the body, what did I do with the body?
+unfortunate friend through the [[Body|body]], what did I do with the [[Body|body]]?
 
 Did I have it carried away by seven flying dragons, or was it merely
 
@@ -1017,7 +1017,7 @@ pathway. Brain had had half a notion that the prince might have gone
 
 to look for the lost rapier. But when he reappeared he was carrying
 
-in his hand, not a sword, but an ax.
+in his hand, not a [[Sword|sword]], but an ax.
 The incongruity between the masquerade and the mystery had created a
 
 curious psychological atmosphere. At first they had all felt
@@ -1038,9 +1038,9 @@ their ridiculous trappings, a curious sensation had come over some
 
 of them, notably over the more sensitive, like Crane and Fisher and
 
-Juliet, but in some degree over everybody except the practical Mr.
+[[Juliet]], but in some degree over everybody except the practical Mr.
 
-Brain. It was almost as if they were the ghosts of their own
+Brain. It was almost as if they were the [[Ghosts|ghosts]] of their own
 
 ancestors haunting that dark wood and dismal lake, and playing some
 
@@ -1050,7 +1050,7 @@ colored figures seemed to mean something that had been settled long
 
 before, like a silent heraldry. Acts, attitudes, external objects,
 
-were accepted as an allegory even without the key; and they knew
+were accepted as an [[Allegory|allegory]] even without the key; and they knew
 
 when a crisis had come, when they did not know what it was. And
 
@@ -1060,7 +1060,7 @@ and terrible turn, when they saw the prince stand in the gap of the
 
 gaunt trees, in his robes of angry crimson and with his lowering
 
-face of bronze, bearing in his hand a new shape of death. They could
+face of bronze, bearing in his hand a new shape of [[Death|death]]. They could
 
 not have named a reason, but the two swords seemed indeed to have
 
@@ -1105,7 +1105,7 @@ Brain was staring at the dull blue gleam of the ax head with fierce
 and fascinated eyes. "I don't understand you," he said. "There is
 
 no—there are no marks on it."
-"It has shed no blood," answered Fisher, "but for all that it has
+"It has shed no [[Blood|blood]]," answered Fisher, "but for all that it has
 
 committed a crime. This is as near as the criminal came to the crime
 
@@ -1114,9 +1114,9 @@ when he committed it."
 "He was not there when he did it," explained Fisher. "It's a poor
 
 sort of murderer who can't murder people when he isn't there."
-"You seem to be talking merely for the sake of mystification," said
+"You seem to be talking merely for the sake of [[Mystification|mystification]]," said
 
-Brain. "If you have any practical advice to give you might as well
+Brain. "If you have any practical advice to give you might as [[Well|well]]
 
 make it intelligible."
 "The only practical advice I can suggest," said Fisher,
@@ -1133,25 +1133,25 @@ business."
 "And you have nothing more immediate than your topography to offer,"
 
 said Brain, with a sneer, "to help me avenge my friend?"
-"Well," said Fisher, "I should find out the truth about the Hole in
+"[[Well]]," said Fisher, "I should find out the [[Truth|truth]] about the Hole in
 
 the Wall."
 *
-That night, at the close of a stormy twilight and under a strong
+That [[Night|night]], at the close of a stormy twilight and under a strong
 
-west wind that followed the breaking of the frost, Leonard Crane was
+west [[Wind|wind]] that followed the breaking of the [[Frost|frost]], Leonard Crane was
 
 wending his way in a wild rotatory walk round and round the high,
 
 continuous wall that inclosed the little wood. He was driven by a
 
-desperate idea of solving for himself the riddle that had clouded
+desperate idea of solving for himself the [[Riddle|riddle]] that had clouded
 
 his reputation and already even threatened his liberty. The police
 
 authorities, now in charge of the inquiry, had not arrested him, but
 
-he knew well enough that if he tried to move far afield he would be
+he knew [[Well|well]] enough that if he tried to move far afield he would be
 
 instantly arrested. Horne Fisher's fragmentary hints, though he had
 
@@ -1179,11 +1179,11 @@ the wild eastward bend and sweep of the gray and feathery trees,
 
 seeing shifting gleams of a lost sunset winking almost like
 
-lightning as the clouds of tempest scudded across the sky and
+[[Lightning|lightning]] as the clouds of tempest scudded across the sky and
 
 mingling with the first faint blue light from a slowly strengthened
 
-moon behind him, he began to feel his head going round as his heels
+[[Moon|moon]] behind him, he began to feel his head going round as his heels
 
 were going round and round the blind recurrent barrier. He had
 
@@ -1191,11 +1191,11 @@ thoughts on the border of thought; fancies about a fourth dimension
 
 which was itself a hole to hide anything, of seeing everything from
 
-a new angle out of a new window in the senses; or of some mystical
+a new angle out of a new [[Window|window]] in the senses; or of some mystical
 
 light and transparency, like the new rays of chemistry, in which he
 
-could see Bulmer's body, horrible and glaring, floating in a lurid
+could see Bulmer's [[Body|body]], horrible and glaring, floating in a lurid
 
 halo over the woods and the wall. He was haunted also with the hint,
 
@@ -1212,17 +1212,17 @@ that he had been bidden to seek the seed of these dreadful things.
 As a matter of fact, he had found that no local inquiries had
 
 revealed anything at all about the Prior family.
-The moonlight had broadened and brightened, the wind had driven off
+The moonlight had broadened and brightened, the [[Wind|wind]] had driven off
 
 the clouds and itself died fitfully away, when he came round again
 
-to the artificial lake in front of the house. For some reason it
+to the artificial lake in front of the [[house]]. For some reason it
 
 looked a very artificial lake; indeed, the whole scene was like a
 
 classical landscape with a touch of Watteau; the Palladian facade of
 
-the house pale in the moon, and the same silver touching the very
+the [[house]] pale in the [[Moon|moon]], and the same silver touching the very
 
 pagan and naked marble nymph in the middle of the pond. Rather to
 
@@ -1232,7 +1232,7 @@ sitting almost equally motionless; and the same silver pencil traced
 
 the wrinkled brow and patient face of Horne Fisher, still dressed as
 
-a hermit and apparently practicing something of the solitude of a
+a hermit and apparently practicing something of the [[Solitude|solitude]] of a
 
 hermit. Nevertheless, he looked up at Leonard Crane and smiled,
 
@@ -1246,10 +1246,10 @@ Fisher, "but I've no objection to telling you something first. But,
 
 to begin with, will you tell me something? What really happened when
 
-you met Bulmer this morning? You did throw away your sword, but you
+you met Bulmer this morning? You did throw away your [[Sword|sword]], but you
 
 didn't kill him."
-"I didn't kill him because I threw away my sword," said the other.
+"I didn't kill him because I threw away my [[Sword|sword]]," said the other.
 
 "I did it on purpose—or I'm not sure what might have happened."
 After a pause he went on, quietly: "The late Lord Bulmer was a very
@@ -1258,7 +1258,7 @@ breezy gentleman, extremely breezy. He was very genial with his
 
 inferiors, and would have his lawyer and his architect staying in
 
-his house for all sorts of holidays and amusements. But there was
+his [[house]] for all sorts of holidays and amusements. But there was
 
 another side to him, which they found out when they tried to be his
 
@@ -1266,14 +1266,14 @@ equals. When I told him that his sister and I were engaged,
 
 something happened which I simply can't and won't describe. It
 
-seemed to me like some monstrous upheaval of madness. But I suppose
+seemed to me like some monstrous upheaval of [[Madness|madness]]. But I suppose
 
-the truth is painfully simple. There is such a thing as the
+the [[Truth|truth]] is painfully simple. There is such a thing as the
 
 coarseness of a gentleman. And it is the most horrible thing in
 
 humanity."
-"I know," said Fisher. "The Renaissance nobles of the Tudor time
+"I know," said Fisher. "The [[Renaissance]] nobles of the Tudor [[Time|time]]
 
 were like that."
 "It is odd that you should say that," Crane went on. "For while we
@@ -1282,7 +1282,7 @@ were talking there came on me a curious feeling that we were
 
 repeating some scene of the past, and that I was really some outlaw,
 
-found in the woods like Robin Hood, and that he had really stepped
+found in the woods like [[Robin Hood]], and that he had really stepped
 
 in all his plumes and purple out of the picture frame of the
 
@@ -1317,7 +1317,7 @@ without noticing it. In the village or suburb outside there's an inn
 
 with the sign of St. George and the Dragon. Now suppose I went about
 
-telling everybody that this was only a corruption of King George and
+telling everybody that this was only a corruption of [[King]] George and
 
 the Dragoon. Scores of people would believe it, without any inquiry,
 
@@ -1333,7 +1333,7 @@ remember having seen St. George in old Italian pictures and French
 
 romances, but a good many wouldn't think about it at all. They would
 
-just swallow the skepticism because it was skepticism. Modern
+just [[Swallow|swallow]] the skepticism because it was skepticism. Modern
 
 intelligence won't accept anything on authority. But it will accept
 
@@ -1352,7 +1352,7 @@ priory, and shared the fate of most priories—that is, the Tudor
 
 gentleman with the plumes simply stole it by brute force and turned
 
-it into his own private house; he did worse things, as you shall
+it into his own private [[house]]; he did worse things, as you shall
 
 hear. But the point here is that this is how the trick works, and
 
@@ -1369,22 +1369,22 @@ ignorant and old-fashioned of the poor. But it is spelled wrong and
 pronounced right."
 "Do you mean to say," asked Crane, quickly, "that there really was a
 
-well?"
-"There is a well," said Fisher, "and the truth lies at the bottom of
+[[Well|well]]?"
+"There is a [[Well|well]]," said Fisher, "and the [[Truth|truth]] lies at the [[Bottom|bottom]] of
 
 it."
 As he spoke he stretched out his hand and pointed toward the sheet
 
-of water in front of him.
-"The well is under that water somewhere," he said, "and this is not
+of [[Water|water]] in front of him.
+"The [[Well|well]] is under that [[Water|water]] somewhere," he said, "and this is not
 
-the first tragedy connected with it. The founder of this house did
+the first [[Tragedy|tragedy]] connected with it. The founder of this [[house]] did
 
 something which his fellow ruffians very seldom did; something that
 
 had to be hushed up even in the anarchy of the pillage of the
 
-monasteries. The well was connected with the miracles of some saint,
+monasteries. The [[Well|well]] was connected with the miracles of some saint,
 
 and the last prior that guarded it was something like a saint
 
@@ -1392,12 +1392,12 @@ himself; certainly he was something very like a martyr. He defied
 
 the new owner and dared him to pollute the place, till the noble, in
 
-a fury, stabbed him and flung his body into the well, whither, after
+a fury, stabbed him and flung his [[Body|body]] into the [[Well|well]], whither, after
 
-four hundred years, it has been followed by an heir of the usurper,
+four hundred years, it has been followed by an heir of the [[Usurper|usurper]],
 
-clad in the same purple and walking the world with the same pride."
-"But how did it happen," demanded Crane, "that for the first time
+clad in the same purple and walking the world with the same [[Pride|pride]]."
+"But how did it happen," demanded Crane, "that for the first [[Time|time]]
 
 Bulmer fell in at that particular spot?"
 "Because the ice was only loosened at that particular spot, by the
@@ -1410,25 +1410,25 @@ myself heard the hammering and did not understand it. The place had
 
 been covered with an artificial lake, if only because the whole
 
-truth had to be covered with an artificial legend. But don't you see
+[[Truth|truth]] had to be covered with an artificial legend. But don't you see
 
 that it is exactly what those pagan nobles would have done, to
 
 desecrate it with a sort of heathen goddess, as the Roman Emperor
 
-built a temple to Venus on the Holy Sepulchre. But the truth could
+built a temple to [[Venus]] on the Holy Sepulchre. But the [[Truth|truth]] could
 
 still be traced out, by any scholarly man determined to trace it.
 
 And this man was determined to trace it."
-"What man?" asked the other, with a shadow of the answer in his
+"What man?" asked the other, with a [[Shadow|shadow]] of the answer in his
 
 mind.
 "The only man who has an alibi," replied Fisher. "James Haddow, the
 
-antiquarian lawyer, left the night before the fatality, but he left
+antiquarian lawyer, left the [[Night|night]] before the fatality, but he left
 
-that black star of death on the ice. He left abruptly, having
+that black star of [[Death|death]] on the ice. He left abruptly, having
 
 previously proposed to stay; probably, I think, after an ugly scene
 
@@ -1438,24 +1438,24 @@ could make a man feel pretty murderous, and I rather fancy the
 
 lawyer had himself irregularities to confess, and was in danger of
 
-exposure by his client. But it's my reading of human nature that a
+exposure by his client. But it's my reading of human [[Nature|nature]] that a
 
 man will cheat in his trade, but not in his hobby. Haddow may have
 
 been a dishonest lawyer, but he couldn't help being an honest
 
-antiquary. When he got on the track of the truth about the Holy Well
+antiquary. When he got on the track of the [[Truth|truth]] about the Holy [[Well]]
 
 he had to follow it up; he was not to be bamboozled with newspaper
 
 anecdotes about Mr. Prior and a hole in the wall; he found out
 
-everything, even to the exact location of the well, and he was
+everything, even to the exact location of the [[Well|well]], and he was
 
 rewarded, if being a successful assassin can be regarded as a
 
 reward."
-"And how did you get on the track of all this hidden history?" asked
+"And how did you get on the track of all this hidden [[history]]?" asked
 
 the young architect.
 A cloud came across the brow of Horne Fisher. "I knew only too much
@@ -1472,17 +1472,17 @@ the holy places and the persecution of the poor. After all, it needs
 
 very little poking about in the past to find that hole in the wall,
 
-that great breach in the defenses of English history. It lies just
+that great breach in the defenses of English [[history]]. It lies just
 
 under the surface of a thin sheet of sham information and
 
-instruction, just as the black and blood-stained well lies just
+instruction, just as the black and [[Blood|blood]]-stained [[Well|well]] lies just
 
-under that floor of shallow water and flat weeds. Oh, the ice is
+under that floor of shallow [[Water|water]] and flat weeds. Oh, the ice is
 
 thin, but it bears; it is strong enough to support us when we dress
 
-up as monks and dance on it, in mockery of the dear, quaint old
+up as [[Monks|monks]] and [[Dance|dance]] on it, in mockery of the dear, quaint old
 
 Middle Ages. They told me I must put on fancy dress; so I did put on
 
@@ -1491,9 +1491,9 @@ fancy dress, according to my own taste and fancy. I put on the only
 costume I think fit for a man who has inherited the position of a
 
 gentleman, and yet has not entirely lost the feelings of one."
-In answer to a look of inquiry, he rose with a sweeping and downward
+In answer to a look of inquiry, he [[Rose|rose]] with a sweeping and downward
 
 gesture.
-"Sackcloth," he said; "and I would wear the ashes as well if they
+"Sackcloth," he said; "and I would wear the ashes as [[Well|well]] if they
 
 would stay on my bald head."

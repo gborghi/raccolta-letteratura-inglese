@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 9)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -20,9 +20,9 @@ and that he would certainly be nowhere. Colonising is not talked of
 
 merely as a coarse, economic expedient for going to a new market. It is
 
-really offered as something that will cure the hopeless tragedy of
+really offered as something that will cure the hopeless [[Tragedy|tragedy]] of
 
-Peggotty; as something that will cure the still more hopeless comedy of
+Peggotty; as something that will cure the still more hopeless [[Comedy|comedy]] of
 
 Micawber.
 
@@ -48,11 +48,11 @@ diseased. It is said that in the twilight and decline of Rome, close to
 
 the dark ages, the people in Gaul believed that Britain was a land of
 
-ghosts (perhaps it was foggy), and that the dead were ferried across to
+[[Ghosts|ghosts]] (perhaps it was foggy), and that the dead were ferried across to
 
 it from the northern coast of France. If (as is not entirely impossible)
 
-our own century appears to future ages as a time of temporary decay and
+our own century appears to future ages as a [[Time|time]] of temporary [[Decay|decay]] and
 
 twilight, it may be said that there was attached to England a blessed
 
@@ -64,11 +64,11 @@ ferried across to remain in bliss for ever.
 
 This element which is represented by the colonial optimism at the end of
 
-_David Copperfield_ is a moral element. The truth is that there is
+_David Copperfield_ is a moral element. The [[Truth|truth]] is that there is
 
 something a little mean about this sort of optimism. I do not like the
 
-notion of David Copperfield sitting down comfortably to his tea-table
+notion of [[David Copperfield]] sitting down comfortably to his tea-table
 
 with Agnes, having got rid of all the inconvenient or distressing
 
@@ -82,7 +82,7 @@ There is too much in the whole thing of that element which was satirised
 
 by an ironic interpretation of the epitaph "Peace, perfect peace, with
 
-loved ones far away." We should have thought more of David Copperfield
+loved ones far away." We should have thought more of [[David Copperfield]]
 
 (and also of Charles Dickens) if he had endeavoured for the rest of his
 
@@ -94,17 +94,17 @@ Copperfield (and also of Charles Dickens) if he had faced the
 
 possibility of going on till his dying day lending money to Mr. Wilkins
 
-Micawber. We should have thought more of David Copperfield (and also of
+Micawber. We should have thought more of [[David Copperfield]] (and also of
 
-Charles Dickens) if he had not looked upon the marriage with Dora merely
+Charles Dickens) if he had not looked upon the [[Marriage|marriage]] with Dora merely
 
 as a flirtation, an episode which he survived and ought to survive. And
 
-yet the truth is that there is nowhere in fiction where we feel so
+yet the [[Truth|truth]] is that there is nowhere in fiction where we feel so
 
-keenly the primary human instinct and principle that a marriage is a
+keenly the primary human instinct and principle that a [[Marriage|marriage]] is a
 
-marriage and irrevocable, that such things do leave a wound and also a
+[[Marriage|marriage]] and irrevocable, that such things do leave a wound and also a
 
 bond as in this case of David's short connection with his silly little
 
@@ -116,19 +116,19 @@ everything in the pink tape of optimism, the fact, in the psychology of
 
 the reader, still remains. The reader does still feel that David's
 
-marriage to Dora was a real marriage; and that his marriage to Agnes was
+[[Marriage|marriage]] to Dora was a real [[Marriage|marriage]]; and that his [[Marriage|marriage]] to Agnes was
 
 nothing, a middle-aged compromise, a taking of the second best, a sort
 
-of spiritualised and sublimated marriage of convenience. For all the
+of spiritualised and sublimated [[Marriage|marriage]] of convenience. For all the
 
 readers of Dickens Dora is thoroughly avenged. The modern world (intent
 
-on anarchy in everything, even in Government) refuses to perceive the
+on anarchy in everything, even in [[government|Government]]) refuses to perceive the
 
 permanent element of tragic constancy which inheres in all passion, and
 
-which is the origin of marriage. Marriage rests upon the fact that you
+which is the origin of [[Marriage|marriage]]. [[Marriage]] rests upon the fact that you
 
 cannot have your cake and eat it; that you cannot lose your heart and
 
@@ -136,11 +136,11 @@ have it. But, as I have said, there is perhaps no place in literature
 
 where we feel more vividly the sense of this monogamous instinct in man
 
-than in David Copperfield. A man is monogamous even if he is only
+than in [[David Copperfield]]. A man is monogamous even if he is only
 
-monogamous for a month; love is eternal even if it is only eternal for a
+monogamous for a month; [[Love|love]] is eternal even if it is only eternal for a
 
-month. It always leaves behind it the sense of something broken and
+month. It always [[Leaves|leaves]] behind it the sense of something broken and
 
 betrayed.
 
@@ -154,7 +154,7 @@ there is at the end of this book too much tendency to bless people and
 
 get rid of them. Micawber is a nuisance. Dickens the despot condemns him
 
-to exile. Dora is a nuisance. Dickens the despot condemns her to death.
+to [[Exile|exile]]. Dora is a nuisance. Dickens the despot condemns her to [[Death|death]].
 
 But it is the whole business of Dickens in the world to express the fact
 
@@ -192,4 +192,4 @@ stretches of experience of life. It is just the man who is maddening
 
 when he is ordering a cutlet or arranging an appointment who is probably
 
-the man in whose company it is worth while to journey steadily towards
+the man in whose company it is worth while to [[Journey|journey]] steadily towards

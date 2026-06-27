@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 27"
+title: "[[Barnaby Rudge]] — Chapter 27"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -18,8 +18,8 @@ Chapter 27
 
 
 Mr Haredale stood in the widow’s parlour with the door-key in his hand,
-gazing by turns at Mr Chester and at Gabriel Varden, and occasionally
-glancing downward at the key as in the hope that of its own accord
+gazing by turns at Mr Chester and at [[Gabriel Varden]], and occasionally
+glancing downward at the key as in the [[Hope|hope]] that of its own accord
 it would unlock the mystery; until Mr Chester, putting on his hat and
 gloves, and sweetly inquiring whether they were walking in the same
 direction, recalled him to himself.
@@ -27,20 +27,20 @@ direction, recalled him to himself.
 ‘No,’ he said. ‘Our roads diverge--widely, as you know. For the present,
 I shall remain here.’
 
-‘You will be hipped, Haredale; you will be miserable, melancholy,
+‘You will be hipped, Haredale; you will be miserable, [[Melancholy|melancholy]],
 utterly wretched,’ returned the other. ‘It’s a place of the very last
 description for a man of your temper. I know it will make you very
 miserable.’
 
 ‘Let it,’ said Mr Haredale, sitting down; ‘and thrive upon the thought.
-Good night!’
+Good [[Night|night]]!’
 
 Feigning to be wholly unconscious of the abrupt wave of the hand which
 rendered this farewell tantamount to a dismissal, Mr Chester retorted
 with a bland and heartfelt benediction, and inquired of Gabriel in what
 direction HE was going.
 
-‘Yours, sir, would be too much honour for the like of me,’ replied the
+‘Yours, sir, would be too much [[Honour|honour]] for the like of me,’ replied the
 locksmith, hesitating.
 
 ‘I wish you to remain here a little while, Varden,’ said Mr Haredale,
@@ -77,32 +77,32 @@ graciously dismissed him with a fervent blessing.
 you please!’ The chairmen were rendered quite vivacious by having such a
 courteous burden, and to Clerkenwell they went at a fair round trot.
 
-Alighting at a certain point he had indicated to them upon the road, and
+Alighting at a certain point he had indicated to them upon the [[Road|road]], and
 paying them something less than they expected from a fare of such gentle
 speech, he turned into the street in which the locksmith dwelt, and
-presently stood beneath the shadow of the Golden Key. Mr Tappertit, who
+presently stood beneath the [[Shadow|shadow]] of the Golden Key. Mr Tappertit, who
 was hard at work by lamplight, in a corner of the workshop, remained
 unconscious of his presence until a hand upon his shoulder made him
 start and turn his head.
 
-‘Industry,’ said Mr Chester, ‘is the soul of business, and the keystone
+‘Industry,’ said Mr Chester, ‘is the [[Soul|soul]] of business, and the keystone
 of prosperity. Mr Tappertit, I shall expect you to invite me to dinner
-when you are Lord Mayor of London.’
+when you are [[Lord Mayor]] of [[London]].’
 
 ‘Sir,’ returned the ‘prentice, laying down his hammer, and rubbing
-his nose on the back of a very sooty hand, ‘I scorn the Lord Mayor and
+his nose on the back of a very sooty hand, ‘I scorn the [[Lord Mayor]] and
 everything that belongs to him. We must have another state of society,
-sir, before you catch me being Lord Mayor. How de do, sir?’
+sir, before you catch me being [[Lord Mayor]]. How de do, sir?’
 
 ‘The better, Mr Tappertit, for looking into your ingenuous face once
-more. I hope you are well.’
+more. I [[Hope|hope]] you are [[Well|well]].’
 
-‘I am as well, sir,’ said Sim, standing up to get nearer to his ear, and
+‘I am as [[Well|well]], sir,’ said Sim, standing up to get nearer to his ear, and
 whispering hoarsely, ‘as any man can be under the aggrawations to which
 I am exposed. My life’s a burden to me. If it wasn’t for wengeance, I’d
 play at pitch and toss with it on the losing hazard.’
 
-‘Is Mrs Varden at home?’ said Mr Chester.
+‘Is Mrs Varden at [[Home|home]]?’ said Mr Chester.
 
 ‘Sir,’ returned Sim, eyeing him over with a look of concentrated
 expression,--‘she is. Did you wish to see her?’
@@ -133,7 +133,7 @@ let his father be any check or restraint on your domestic occupations,
 Miss Varden.’
 
 ‘Oh! Now! There! An’t I always a-saying it!’ exclaimed Miggs, clapping
-her hands. ‘If he an’t been and took Missis for her own daughter. Well,
+her hands. ‘If he an’t been and took Missis for her own daughter. [[Well]],
 she DO look like it, that she do. Only think of that, mim!’
 
 ‘Is it possible,’ said Mr Chester in his softest tones, ‘that this is
@@ -150,10 +150,10 @@ dear madam--your daughter too.’
 
 Dolly showed some reluctance to perform this ceremony, but was sharply
 reproved by Mrs Varden, who insisted on her undergoing it that minute.
-For pride, she said with great severity, was one of the seven deadly
-sins, and humility and lowliness of heart were virtues. Wherefore she
-desired that Dolly would be kissed immediately, on pain of her just
-displeasure; at the same time giving her to understand that whatever
+For [[Pride|pride]], she said with great severity, was one of the seven deadly
+sins, and [[Humility|humility]] and lowliness of heart were virtues. Wherefore she
+desired that Dolly would be kissed immediately, on [[Pain|pain]] of her just
+displeasure; at the same [[Time|time]] giving her to understand that whatever
 she saw her mother do, she might safely do herself, without being at the
 trouble of any reasoning or reflection on the subject--which, indeed,
 was offensive and undutiful, and in direct contravention of the church
@@ -186,24 +186,24 @@ And Miss Miggs cast up her eyes to signify where that might be.
 As Mrs Varden distinctly heard, and was intended to hear, all that Miggs
 said, and as these words appeared to convey in metaphorical terms a
 presage or foreboding that she would at some early period droop beneath
-her trials and take an easy flight towards the stars, she immediately
+her trials and take an easy flight towards the [[Stars|stars]], she immediately
 began to languish, and taking a volume of the Manual from a neighbouring
-table, leant her arm upon it as though she were Hope and that her
+table, leant her arm upon it as though she were [[Hope]] and that her
 Anchor. Mr Chester perceiving this, and seeing how the volume was
 lettered on the back, took it gently from her hand, and turned the
-fluttering leaves.
+fluttering [[Leaves|leaves]].
 
 ‘My favourite book, dear madam. How often, how very often in his early
 life--before he can remember’--(this clause was strictly true) ‘have I
 deduced little easy moral lessons from its pages, for my dear son Ned!
 You know Ned?’
 
-Mrs Varden had that honour, and a fine affable young gentleman he was.
+Mrs Varden had that [[Honour|honour]], and a fine affable young gentleman he was.
 
 ‘You’re a mother, Mrs Varden,’ said Mr Chester, taking a pinch of snuff,
 ‘and you know what I, as a father, feel, when he is praised. He gives me
-some uneasiness--much uneasiness--he’s of a roving nature, ma’am--from
-flower to flower--from sweet to sweet--but his is the butterfly time of
+some uneasiness--much uneasiness--he’s of a roving [[Nature|nature]], ma’am--from
+flower to flower--from sweet to sweet--but his is the butterfly [[Time|time]] of
 life, and we must not be hard upon such trifling.’
 
 He glanced at Dolly. She was attending evidently to what he said. Just
@@ -211,7 +211,7 @@ what he desired!
 
 ‘The only thing I object to in this little trait of Ned’s, is,’ said Mr
 Chester, ‘--and the mention of his name reminds me, by the way, that I
-am about to beg the favour of a minute’s talk with you alone--the only
+am about to beg the favour of a minute’s talk with you [[Alone|alone]]--the only
 thing I object to in it, is, that it DOES partake of insincerity. Now,
 however I may attempt to disguise the fact from myself in my affection
 for Ned, still I always revert to this--that if we are not sincere, we
@@ -221,7 +221,7 @@ are nothing. Nothing upon earth. Let us be sincere, my dear madam--’
 
 ‘--and Protestant above all things. Let us be sincere and Protestant,
 strictly moral, strictly just (though always with a leaning towards
-mercy), strictly honest, and strictly true, and we gain--it is a slight
+[[Mercy|mercy]]), strictly honest, and strictly true, and we gain--it is a slight
 point, certainly, but still it is something tangible; we throw up a
 groundwork and foundation, so to speak, of goodness, on which we may
 afterwards erect some worthy superstructure.’
@@ -230,7 +230,7 @@ Now, to be sure, Mrs Varden thought, here is a perfect character. Here
 is a meek, righteous, thoroughgoing Christian, who, having mastered all
 these qualities, so difficult of attainment; who, having dropped a pinch
 of salt on the tails of all the cardinal virtues, and caught them every
-one; makes light of their possession, and pants for more morality. For
+one; makes light of their possession, and pants for more [[morality]]. For
 the good woman never doubted (as many good men and women never do), that
 this slighting kind of profession, this setting so little store by great
 matters, this seeming to say, ‘I am not proud, I am what you hear, but I
@@ -241,10 +241,10 @@ effect was marvellous.
 
 Aware of the impression he had made--few men were quicker than he at
 such discoveries--Mr Chester followed up the blow by propounding certain
-virtuous maxims, somewhat vague and general in their nature, doubtless,
+virtuous maxims, somewhat vague and general in their [[Nature|nature]], doubtless,
 and occasionally partaking of the character of truisms, worn a little
 out at elbow, but delivered in so charming a voice and with such
-uncommon serenity and peace of mind, that they answered as well as the
+uncommon serenity and peace of mind, that they answered as [[Well|well]] as the
 best. Nor is this to be wondered at; for as hollow vessels produce a far
 more musical sound in falling than those which are substantial, so it
 will oftentimes be found that sentiments which have nothing in them make
@@ -257,7 +257,7 @@ notwithstanding their conflicting interests and thoughts. Even Dolly,
 who, between his keen regards and her eyeing over by Mr Tappertit, was
 put quite out of countenance, could not help owning within herself that
 he was the sweetest-spoken gentleman she had ever seen. Even Miss Miggs,
-who was divided between admiration of Mr Chester and a mortal jealousy
+who was divided between admiration of Mr Chester and a mortal [[Jealousy|jealousy]]
 of her young mistress, had sufficient leisure to be propitiated. Even
 Mr Tappertit, though occupied as we have seen in gazing at his heart’s
 delight, could not wholly divert his thoughts from the voice of the
@@ -285,7 +285,7 @@ Mrs Varden slightly raised her hands, shook her head, and looked at the
 ground as though she saw straight through the globe, out at the other
 end, and into the immensity of space beyond.
 
-‘I may confide in you,’ said Mr Chester, ‘without reserve. I love
+‘I may confide in you,’ said Mr Chester, ‘without reserve. I [[Love|love]]
 my son, ma’am, dearly; and loving him as I do, I would save him from
 working certain misery. You know of his attachment to Miss Haredale.
 You have abetted him in it, and very kind of you it was to do so. I am
@@ -296,12 +296,12 @@ Mrs Varden stammered that she was sorry--
 
 ‘Sorry, my dear ma’am,’ he interposed. ‘Never be sorry for what is so
 very amiable, so very good in intention, so perfectly like yourself. But
-there are grave and weighty reasons, pressing family considerations, and
+there are [[Grave|grave]] and weighty reasons, pressing family considerations, and
 apart even from these, points of religious difference, which interpose
-themselves, and render their union impossible; utterly im-possible.
+themselves, and render their [[Union|union]] impossible; utterly im-possible.
 I should have mentioned these circumstances to your husband; but he
 has--you will excuse my saying this so freely--he has NOT your quickness
-of apprehension or depth of moral sense. What an extremely airy house
+of apprehension or depth of moral sense. What an extremely airy [[house]]
 this is, and how beautifully kept! For one like myself--a widower so
 long--these tokens of female care and superintendence have inexpressible
 charms.’
@@ -316,21 +316,21 @@ am told, your lovely daughter’s aid, and your open-hearted husband’s.’
 ‘--Much more than mine, sir,’ said Mrs Varden; ‘a great deal more. I
 have often had my doubts. It’s a--’
 
-‘A bad example,’ suggested Mr Chester. ‘It is. No doubt it is. Your
+‘A bad example,’ suggested Mr Chester. ‘It is. No [[Doubt|doubt]] it is. Your
 daughter is at that age when to set before her an encouragement for
-young persons to rebel against their parents on this most important
+young persons to [[Rebel|rebel]] against their parents on this most important
 point, is particularly injudicious. You are quite right. I ought to have
 thought of that myself, but it escaped me, I confess--so far superior
 are your sex to ours, dear madam, in point of penetration and sagacity.’
 
 Mrs Varden looked as wise as if she had really said something to deserve
-this compliment--firmly believed she had, in short--and her faith in her
+this compliment--firmly believed she had, in short--and her [[Faith|faith]] in her
 own shrewdness increased considerably.
 
 ‘My dear ma’am,’ said Mr Chester, ‘you embolden me to be plain with
 you. My son and I are at variance on this point. The young lady and her
 natural guardian differ upon it, also. And the closing point is, that my
-son is bound by his duty to me, by his honour, by every solemn tie and
+son is bound by his duty to me, by his [[Honour|honour]], by every solemn tie and
 obligation, to marry some one else.’
 
 ‘Engaged to marry another lady!’ quoth Mrs Varden, holding up her hands.
@@ -342,7 +342,7 @@ very charming creature.’
 ‘I am her foster-mother, and should know--the best young lady in the
 world,’ said Mrs Varden.
 
-‘I have not the smallest doubt of it. I am sure she is. And you, who
+‘I have not the smallest [[Doubt|doubt]] of it. I am sure she is. And you, who
 have stood in that tender relation towards her, are bound to consult her
 happiness. Now, can I--as I have said to Haredale, who quite agrees--can
 I possibly stand by, and suffer her to throw herself away (although she
@@ -356,9 +356,9 @@ heart myself when I was Ned’s age.’
 ‘Oh sir,’ said Mrs Varden, ‘I think you must have had. It’s impossible
 that you, who have so much now, can ever have been without any.’
 
-‘I hope,’ he answered, shrugging his shoulders meekly, ‘I have a little;
-I hope, a very little--Heaven knows! But to return to Ned; I have no
-doubt you thought, and therefore interfered benevolently in his behalf,
+‘I [[Hope|hope]],’ he answered, shrugging his shoulders meekly, ‘I have a little;
+I [[Hope|hope]], a very little--Heaven knows! But to return to Ned; I have no
+[[Doubt|doubt]] you thought, and therefore interfered benevolently in his behalf,
 that I objected to Miss Haredale. How very natural! My dear madam, I
 object to him--to him--emphatically to Ned himself.’
 
@@ -371,20 +371,20 @@ expensive habits; and if, in a moment of caprice and wilfulness, he
 were to marry this young lady, and so deprive himself of the means
 of gratifying the tastes to which he has been so long accustomed, he
 would--my dear madam, he would break the gentle creature’s heart. Mrs
-Varden, my good lady, my dear soul, I put it to you--is such a sacrifice
+Varden, my good lady, my dear [[Soul|soul]], I put it to you--is such a sacrifice
 to be endured? Is the female heart a thing to be trifled with in this
 way? Ask your own, my dear madam. Ask your own, I beseech you.’
 
 ‘Truly,’ thought Mrs Varden, ‘this gentleman is a saint. But,’ she added
-aloud, and not unnaturally, ‘if you take Miss Emma’s lover away, sir,
+aloud, and not unnaturally, ‘if you take Miss [[Emma]]’s [[Lover|lover]] away, sir,
 what becomes of the poor thing’s heart then?’
 
 ‘The very point,’ said Mr Chester, not at all abashed, ‘to which I
-wished to lead you. A marriage with my son, whom I should be compelled
+wished to lead you. A [[Marriage|marriage]] with my son, whom I should be compelled
 to disown, would be followed by years of misery; they would be
 separated, my dear madam, in a twelvemonth. To break off this
 attachment, which is more fancied than real, as you and I know very
-well, will cost the dear girl but a few tears, and she is happy again.
+[[Well|well]], will cost the dear girl but a few [[Tears|tears]], and she is happy again.
 Take the case of your own daughter, the young lady downstairs, who is
 your breathing image’--Mrs Varden coughed and simpered--‘there is a
 young man (I am sorry to say, a dissolute fellow, of very
@@ -403,18 +403,18 @@ dare to think of such a thing!’
 
 ‘My dear madam, that’s the whole case. I know it would be like his
 impudence. It is like Ned’s impudence to do as he has done; but you
-would not on that account, or because of a few tears from your beautiful
+would not on that account, or because of a few [[Tears|tears]] from your beautiful
 daughter, refrain from checking their inclinations in their birth. I
 meant to have reasoned thus with your husband when I saw him at Mrs
 Rudge’s this evening--’
 
 ‘My husband,’ said Mrs Varden, interposing with emotion, ‘would be a
-great deal better at home than going to Mrs Rudge’s so often. I don’t
+great deal better at [[Home|home]] than going to Mrs Rudge’s so often. I don’t
 know what he does there. I don’t see what occasion he has to busy
 himself in her affairs at all, sir.’
 
 ‘If I don’t appear to express my concurrence in those last sentiments of
-yours,’ returned Mr Chester, ‘quite so strongly as you might desire,
+yours,’ returned Mr Chester, ‘quite so strongly as you might [[Desire|desire]],
 it is because his being there, my dear madam, and not proving
 conversational, led me hither, and procured me the happiness of
 this interview with one, in whom the whole management, conduct, and
@@ -427,14 +427,14 @@ eyes--proceeded in the same strain of mingled sophistry, cajolery,
 and flattery, to entreat that her utmost influence might be exerted to
 restrain her husband and daughter from any further promotion of Edward’s
 suit to Miss Haredale, and from aiding or abetting either party in any
-way. Mrs Varden was but a woman, and had her share of vanity, obstinacy,
-and love of power. She entered into a secret treaty of alliance,
+way. Mrs Varden was but a woman, and had her share of [[Vanity|vanity]], obstinacy,
+and [[Love|love]] of power. She entered into a secret treaty of alliance,
 offensive and defensive, with her insinuating visitor; and really did
 believe, as many others would have done who saw and heard him, that in
-so doing she furthered the ends of truth, justice, and morality, in a
+so doing she furthered the ends of [[Truth|truth]], justice, and [[morality]], in a
 very uncommon degree.
 
-Overjoyed by the success of his negotiation, and mightily amused within
+Overjoyed by the [[success]] of his negotiation, and mightily amused within
 himself, Mr Chester conducted her downstairs in the same state as
 before; and having repeated the previous ceremony of salutation, which
 also as before comprehended Dolly, took his leave; first completing the
@@ -464,7 +464,7 @@ behind their backs in my presence, miss,’ said Mrs Varden, ‘I shall
 insist upon your taking a candle and going to bed directly. How dare
 you, Dolly? I’m astonished at you. The rudeness of your whole behaviour
 this evening has been disgraceful. Did anybody ever hear,’ cried the
-enraged matron, bursting into tears, ‘of a daughter telling her own
+enraged matron, bursting into [[Tears|tears]], ‘of a daughter telling her own
 mother she has been made game of!’
 
 What a very uncertain temper Mrs Varden’s was!

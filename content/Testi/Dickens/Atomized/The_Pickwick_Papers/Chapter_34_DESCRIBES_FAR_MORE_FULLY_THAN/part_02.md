@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 32: DESCRIBES, FAR MORE FULLY THAN THE COURT NEWSMAN EVER (part 2)"
+title: "The [[Pickwick]] Papers — Chapter 32: DESCRIBES, FAR MORE FULLY THAN THE [[Court|COURT]] NEWSMAN EVER (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -15,15 +15,15 @@ tags:
 
 
 ‘I am very sorry, Mrs. Raddle,’ said Bob Sawyer, with all imaginable
-humility, ‘but the fact is, that I have been disappointed in the City
-to-day.’--Extraordinary place that City. An astonishing number of men
+[[Humility|humility]], ‘but the fact is, that I have been disappointed in the [[City]]
+to-day.’--Extraordinary place that [[City]]. An astonishing number of men
 always _are _getting disappointed there.
 
-‘Well, Mr. Sawyer,’ said Mrs. Raddle, planting herself firmly on a
+‘[[Well]], Mr. Sawyer,’ said Mrs. Raddle, planting herself firmly on a
 purple cauliflower in the Kidderminster carpet, ‘and what’s that to me,
 Sir?’
 
-‘I--I--have no doubt, Mrs. Raddle,’ said Bob Sawyer, blinking this last
+‘I--I--have no [[Doubt|doubt]], Mrs. Raddle,’ said Bob Sawyer, blinking this last
 question, ‘that before the middle of next week we shall be able to set
 ourselves quite square, and go on, on a better system, afterwards.’
 
@@ -41,13 +41,13 @@ his rent, nor even the very money laid out for the fresh butter and lump
 sugar that’s bought for his breakfast, and the very milk that’s took in,
 at the street door? Do you suppose a hard-working and industrious woman
 as has lived in this street for twenty year (ten year over the way, and
-nine year and three-quarters in this very house) has nothing else to do
-but to work herself to death after a parcel of lazy idle fellars, that
+nine year and three-quarters in this very [[house]]) has nothing else to do
+but to work herself to [[Death|death]] after a parcel of lazy idle fellars, that
 are always smoking and drinking, and lounging, when they ought to be
 glad to turn their hands to anything that would help ‘em to pay their
 bills? Do you--’
 
-‘My good soul,’ interposed Mr. Benjamin Allen soothingly.
+‘My good [[Soul|soul]],’ interposed Mr. Benjamin Allen soothingly.
 
 ‘Have the goodness to keep your observashuns to yourself, Sir, I beg,’
 said Mrs. Raddle, suddenly arresting the rapid torrent of her speech,
@@ -97,13 +97,13 @@ the ruffinly creatures--that’s afraid--that’s afraid to come!’ Mrs.
 Raddle paused to listen whether the repetition of the taunt had roused
 her better half; and finding that it had not been successful, proceeded
 to descend the stairs with sobs innumerable; when there came a loud
-double knock at the street door; whereupon she burst into an hysterical
+[[Double|double]] knock at the street door; whereupon she burst into an hysterical
 fit of weeping, accompanied with dismal moans, which was prolonged until
 the knock had been repeated six times, when, in an uncontrollable burst
 of mental agony, she threw down all the umbrellas, and disappeared into
 the back parlour, closing the door after her with an awful crash.
 
-‘Does Mr. Sawyer live here?’ said Mr. Pickwick, when the door was
+‘Does Mr. Sawyer live here?’ said Mr. [[Pickwick]], when the door was
 opened.
 
 ‘Yes,’ said the girl, ‘first floor. It’s the door straight afore you,
@@ -119,17 +119,17 @@ upstairs, where they were received by Mr. Bob Sawyer, who had been
 afraid to go down, lest he should be waylaid by Mrs. Raddle.
 
 ‘How are you?’ said the discomfited student. ‘Glad to see you--take care
-of the glasses.’ This caution was addressed to Mr. Pickwick, who had put
+of the glasses.’ This caution was addressed to Mr. [[Pickwick]], who had put
 his hat in the tray.
 
-‘Dear me,’ said Mr. Pickwick, ‘I beg your pardon.’
+‘Dear me,’ said Mr. [[Pickwick]], ‘I beg your pardon.’
 
 ‘Don’t mention it, don’t mention it,’ said Bob Sawyer. ‘I’m rather
 confined for room here, but you must put up with all that, when you come
 to see a young bachelor. Walk in. You’ve seen this gentleman before, I
-think?’ Mr. Pickwick shook hands with Mr. Benjamin Allen, and his
+think?’ Mr. [[Pickwick]] shook hands with Mr. Benjamin Allen, and his
 friends followed his example. They had scarcely taken their seats when
-there was another double knock.
+there was another [[Double|double]] knock.
 
-‘I hope that’s Jack Hopkins!’ said Mr. Bob Sawyer. ‘Hush. Yes, it is.
+‘I [[Hope|hope]] that’s Jack Hopkins!’ said Mr. Bob Sawyer. ‘Hush. Yes, it is.
 Come up, Jack; come up.’

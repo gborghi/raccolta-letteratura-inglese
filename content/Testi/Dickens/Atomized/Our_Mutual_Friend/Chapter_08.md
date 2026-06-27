@@ -35,7 +35,7 @@ frame than procession, and more carving than country.
 
 ‘My father, Jesse Hexam.’
 
-‘Is it he who found the body?’
+‘Is it he who found the [[Body|body]]?’
 
 ‘Yes, sir.’
 
@@ -47,7 +47,7 @@ right leg of his trousers, ‘He gets his living along-shore.’
 
 ‘Is it far?’
 
-‘Is which far?’ asked the boy, upon his guard, and again upon the road
+‘Is which far?’ asked the boy, upon his guard, and again upon the [[Road|road]]
 to Canterbury.
 
 ‘To your father’s?’
@@ -75,7 +75,7 @@ Lazarus was only half as far gone, that was the greatest of all the
 miracles.’
 
 ‘Halloa!’ cried Mortimer, turning round with his hat upon his head, ‘you
-seem to be at home in the Red Sea, my young friend?’
+seem to be at [[Home|home]] in the Red Sea, my young friend?’
 
 ‘Read of it with teacher at the school,’ said the boy.
 
@@ -94,7 +94,7 @@ assisted at the latter part of the dialogue; when the boy spoke these
 words slightingly of his sister, he took him roughly enough by the chin,
 and turned up his face to look at it.
 
-‘Well, I’m sure, sir!’ said the boy, resisting; ‘I hope you’ll know me
+‘[[Well]], I’m sure, sir!’ said the boy, resisting; ‘I [[Hope|hope]] you’ll know me
 again.’
 
 Eugene vouchsafed no answer; but made the proposal to Mortimer, ‘I’ll
@@ -104,7 +104,7 @@ a public school) inside, smoking cigars; the messenger on the box beside
 the driver.
 
 ‘Let me see,’ said Mortimer, as they went along; ‘I have been, Eugene,
-upon the honourable roll of solicitors of the High Court of Chancery,
+upon the honourable roll of solicitors of the High [[Court]] of Chancery,
 and attorneys at Common Law, five years; and—except gratuitously taking
 instructions, on an average once a fortnight, for the will of Lady
 Tippins who has nothing to leave—I have had no scrap of business but
@@ -132,7 +132,7 @@ we wanted a solicitor in the family. And we have got a precious one.’
 
 ‘There are four of us, with our names painted on a door-post in right of
 one black hole called a set of chambers,’ said Eugene; ‘and each of us
-has the fourth of a clerk—Cassim Baba, in the robber’s cave—and Cassim
+has the fourth of a clerk—Cassim Baba, in the robber’s [[Cave|cave]]—and Cassim
 is the only respectable member of the party.’
 
 ‘I am one by myself, one,’ said Mortimer, ‘high up an awful staircase
@@ -141,7 +141,7 @@ has nothing to do but look at the burial-ground, and what he will turn
 out when arrived at maturity, I cannot conceive. Whether, in that shabby
 rook’s nest, he is always plotting wisdom, or plotting murder; whether
 he will grow up, after so much solitary brooding, to enlighten his
-fellow-creatures, or to poison them; is the only speck of interest that
+fellow-creatures, or to [[Poison|poison]] them; is the only speck of interest that
 presents itself to my professional view. Will you give me a light? Thank
 you.’
 
@@ -151,7 +151,7 @@ If there is a word in the dictionary under any letter from A to Z that
 I abominate, it is energy. It is such a conventional superstition, such
 parrot gabble! What the deuce! Am I to rush out into the street, collar
 the first man of a wealthy appearance that I meet, shake him, and say,
-“Go to law upon the spot, you dog, and retain me, or I’ll be the death
+“Go to law upon the spot, you dog, and retain me, or I’ll be the [[Death|death]]
 of you”? Yet that would be energy.’
 
 ‘Precisely my view of the case, Eugene. But show me a good opportunity,
@@ -161,18 +161,18 @@ energy.’
 ‘And so will I,’ said Eugene.
 
 And it is likely enough that ten thousand other young men, within the
-limits of the London Post-office town delivery, made the same hopeful
+limits of the [[London]] Post-office town delivery, made the same hopeful
 remark in the course of the same evening.
 
 The wheels rolled on, and rolled down by the Monument and by the Tower,
 and by the Docks; down by Ratcliffe, and by Rotherhithe; down by where
 accumulated scum of humanity seemed to be washed from higher grounds,
 like so much moral sewage, and to be pausing until its own weight forced
-it over the bank and sunk it in the river. In and out among vessels
+it over the bank and sunk it in the [[River|river]]. In and out among vessels
 that seemed to have got ashore, and houses that seemed to have got
 afloat—among bowsprits staring into windows, and windows staring
 into ships—the wheels rolled on, until they stopped at a dark corner,
-river-washed and otherwise not washed at all, where the boy alighted and
+[[River|river]]-washed and otherwise not washed at all, where the boy alighted and
 opened the door.
 
 ‘You must walk the rest, sir; it’s not many yards.’ He spoke in the
@@ -187,10 +187,10 @@ sharp.
 The low building had the look of having once been a mill. There was a
 rotten wart of wood upon its forehead that seemed to indicate where
 the sails had been, but the whole was very indistinctly seen in the
-obscurity of the night. The boy lifted the latch of the door, and they
+obscurity of the [[Night|night]]. The boy lifted the latch of the door, and they
 passed at once into a low circular room, where a man stood before a red
-fire, looking down into it, and a girl sat engaged in needlework. The
-fire was in a rusty brazier, not fitted to the hearth; and a common
+[[Fire|fire]], looking down into it, and a girl sat engaged in needlework. The
+[[Fire|fire]] was in a rusty brazier, not fitted to the hearth; and a common
 lamp, shaped like a hyacinth-root, smoked and flared in the neck of a
 stone bottle on the table. There was a wooden bunk or berth in a corner,
 and in another corner a wooden stair leading above—so clumsy and steep
@@ -206,7 +206,7 @@ damp, alike had a look of decomposition.
 
 ‘The gentleman, father.’
 
-The figure at the red fire turned, raised its ruffled head, and looked
+The figure at the red [[Fire|fire]] turned, raised its ruffled head, and looked
 like a bird of prey.
 
 ‘You’re Mortimer Lightwood Esquire; are you, sir?’
@@ -216,11 +216,11 @@ rather shrinkingly towards the bunk; ‘is it here?’
 
 ‘’Tain’t not to say here, but it’s close by. I do everything reg’lar.
 I’ve giv’ notice of the circumstarnce to the police, and the police have
-took possession of it. No time ain’t been lost, on any hand. The police
+took possession of it. No [[Time|time]] ain’t been lost, on any hand. The police
 have put into print already, and here’s what the print says of it.’
 
 Taking up the bottle with the lamp in it, he held it near a paper on
-the wall, with the police heading, BODY FOUND. The two friends read the
+the wall, with the police heading, [[Body|BODY]] FOUND. The two friends read the
 handbill as it stuck against the wall, and Gaffer read them as he held
 the light.
 
@@ -244,28 +244,28 @@ placard, ‘HIS pockets was found empty, and turned inside out. And here,’
 moving the light to another, ‘HER pocket was found empty, and turned
 inside out. And so was this one’s. And so was that one’s. I can’t read,
 nor I don’t want to it, for I know ’em by their places on the wall. This
-one was a sailor, with two anchors and a flag and G. F. T. on his arm.
+one was a sailor, with two anchors and a [[Flag|flag]] and G. F. T. on his arm.
 Look and see if he warn’t.’
 
 ‘Quite right.’
 
 ‘This one was the young woman in grey boots, and her linen marked with a
-cross. Look and see if she warn’t.’
+[[Cross|cross]]. Look and see if she warn’t.’
 
 ‘Quite right.’
 
 ‘This is him as had a nasty cut over the eye. This is them two young
 sisters what tied themselves together with a handkecher. This the
 drunken old chap, in a pair of list slippers and a nightcap, wot had
-offered—it afterwards come out—to make a hole in the water for a
+offered—it afterwards come out—to make a hole in the [[Water|water]] for a
 quartern of rum stood aforehand, and kept to his word for the first and
-last time in his life. They pretty well papers the room, you see; but I
+last [[Time|time]] in his life. They pretty [[Well|well]] papers the room, you see; but I
 know ’em all. I’m scholar enough!’
 
 He waved the light over the whole, as if to typify the light of his
 scholarly intelligence, and then put it down on the table and stood
 behind it looking intently at his visitors. He had the special
-peculiarity of some birds of prey, that when he knitted his brow, his
+peculiarity of some [[Birds|birds]] of prey, that when he knitted his brow, his
 ruffled crest stood highest.
 
 ‘You did not find all these yourself; did you?’ asked Eugene.
@@ -276,7 +276,7 @@ now?’
 ‘This is my friend,’ Mortimer Lightwood interposed; ‘Mr Eugene
 Wrayburn.’
 
-‘Mr Eugene Wrayburn, is it? And what might Mr Eugene Wrayburn have asked
+‘Mr [[Eugene Wrayburn]], is it? And what might Mr [[Eugene Wrayburn]] have asked
 of me?’
 
 ‘I asked you, simply, if you found all these yourself?’
@@ -287,7 +287,7 @@ of me?’
 among these cases?’
 
 ‘I don’t suppose at all about it,’ returned Gaffer. ‘I ain’t one of the
-supposing sort. If you’d got your living to haul out of the river every
+supposing sort. If you’d got your living to haul out of the [[River|river]] every
 day of your life, you mightn’t be much given to supposing. Am I to show
 the way?’
 
@@ -295,7 +295,7 @@ As he opened the door, in pursuance of a nod from Lightwood, an
 extremely pale and disturbed face appeared in the doorway—the face of a
 man much agitated.
 
-‘A body missing?’ asked Gaffer Hexam, stopping short; ‘or a body found?
+‘A [[Body|body]] missing?’ asked Gaffer Hexam, stopping short; ‘or a [[Body|body]] found?
 Which?’
 
 ‘I am lost!’ replied the man, in a hurried and an eager manner.
@@ -316,12 +316,12 @@ guided Gaffer to a ready conclusion.
 During a pause, Mortimer and the stranger confronted each other. Neither
 knew the other.
 
-‘I think, sir,’ said Mortimer, breaking the awkward silence with his
-airy self-possession, ‘that you did me the honour to mention my name?’
+‘I think, sir,’ said Mortimer, breaking the awkward [[Silence|silence]] with his
+airy [[Self|self]]-possession, ‘that you did me the [[Honour|honour]] to mention my name?’
 
 ‘I repeated it, after this man.’
 
-‘You said you were a stranger in London?’
+‘You said you were a stranger in [[London]]?’
 
 ‘An utter stranger.’
 
@@ -330,12 +330,12 @@ airy self-possession, ‘that you did me the honour to mention my name?’
 ‘No.’
 
 ‘Then I believe I can assure you that you are on a fruitless errand, and
-will not find what you fear to find. Will you come with us?’
+will not find what you [[Fear|fear]] to find. Will you come with us?’
 
 A little winding through some muddy alleys that might have been
 deposited by the last ill-savoured tide, brought them to the
 wicket-gate and bright lamp of a Police Station; where they found the
-Night-Inspector, with a pen and ink, and ruler, posting up his books in
+[[Night]]-Inspector, with a pen and ink, and ruler, posting up his books in
 a whitewashed office, as studiously as if he were in a monastery on
 top of a mountain, and no howling fury of a drunken woman were banging
 herself against a cell-door in the back-yard at his elbow. With the
@@ -349,7 +349,7 @@ methodical manner, showing not the slightest consciousness of the woman
 who was banging herself with increased violence, and shrieking most
 terrifically for some other woman’s liver.
 
-‘A bull’s-eye,’ said the Night-Inspector, taking up his keys. Which a
+‘A bull’s-eye,’ said the [[Night]]-Inspector, taking up his keys. Which a
 deferential satellite produced. ‘Now, gentlemen.’
 
 With one of his keys, he opened a cool grot at the end of the yard,
@@ -360,16 +360,16 @@ Lady Tippins.’
 So, back to the whitewashed library of the monastery—with that liver
 still in shrieking requisition, as it had been loudly, while they looked
 at the silent sight they came to see—and there through the merits of
-the case as summed up by the Abbot. No clue to how body came into river.
+the case as summed up by the Abbot. No clue to how [[Body|body]] came into [[River|river]].
 Very often was no clue. Too late to know for certain, whether injuries
-received before or after death; one excellent surgical opinion said,
-before; other excellent surgical opinion said, after. Steward of ship in
-which gentleman came home passenger, had been round to view, and could
-swear to identity. Likewise could swear to clothes. And then, you
+received before or after [[Death|death]]; one excellent surgical opinion said,
+before; other excellent surgical opinion said, after. Steward of [[Ship|ship]] in
+which gentleman came [[Home|home]] passenger, had been round to view, and could
+swear to [[Identity|identity]]. Likewise could swear to clothes. And then, you
 see, you had the papers, too. How was it he had totally disappeared on
-leaving ship, till found in river? Well! Probably had been upon some
+leaving [[Ship|ship]], till found in [[River|river]]? [[Well]]! Probably had been upon some
 little game. Probably thought it a harmless game, wasn’t up to things,
-and it turned out a fatal game. Inquest to-morrow, and no doubt open
+and it turned out a fatal game. Inquest to-morrow, and no [[Doubt|doubt]] open
 verdict.
 
 ‘It appears to have knocked your friend over—knocked him completely off
@@ -408,7 +408,7 @@ head, looked round and answered, ‘No. It’s a horrible sight!’
 ‘Who did you think it might have been?’ asked Mr Inspector. ‘Give us a
 description, sir. Perhaps we can help you.’
 
-‘No, no,’ said the stranger; ‘it would be quite useless. Good-night.’
+‘No, no,’ said the stranger; ‘it would be quite useless. Good-[[Night|night]].’
 
 Mr Inspector had not moved, and had given no order; but, the satellite
 slipped his back against the wicket, and laid his left arm along the top
@@ -416,14 +416,14 @@ of it, and with his right hand turned the bull’s-eye he had taken from
 his chief—in quite a casual manner—towards the stranger.
 
 ‘You missed a friend, you know; or you missed a foe, you know; or you
-wouldn’t have come here, you know. Well, then; ain’t it reasonable to
+wouldn’t have come here, you know. [[Well]], then; ain’t it reasonable to
 ask, who was it?’ Thus, Mr Inspector.
 
 ‘You must excuse my telling you. No class of man can understand better
 than you, that families may not choose to publish their disagreements
 and misfortunes, except on the last necessity. I do not dispute that you
 discharge your duty in asking me the question; you will not dispute my
-right to withhold the answer. Good-night.’
+right to withhold the answer. Good-[[Night|night]].’
 
 Again he turned towards the wicket, where the satellite, with his eye
 upon his chief, remained a dumb statue.
@@ -444,7 +444,7 @@ piece of paper close beside him; then resumed his former attitude.
 The stranger stepped up to the desk, and wrote in a rather tremulous
 hand—Mr Inspector taking sidelong note of every hair of his head when
 it was bent down for the purpose—‘Mr Julius Handford, Exchequer Coffee
-House, Palace Yard, Westminster.’
+[[house|House]], Palace Yard, Westminster.’
 
 ‘Staying there, I presume, sir?’
 
@@ -454,7 +454,7 @@ House, Palace Yard, Westminster.’
 
 ‘Eh? Yes—from the country.’
 
-‘Good-night, sir.’
+‘Good-[[Night|night]], sir.’
 
 The satellite removed his arm and opened the wicket, and Mr Julius
 Handford went out.
@@ -476,20 +476,20 @@ so, murder. We were all of us up to that. Had seen scores of people come
 to identify, and never saw one person struck in that particular way.
 Might, however, have been Stomach and not Mind. If so, rum stomach.
 But to be sure there were rum everythings. Pity there was not a word
-of truth in that superstition about bodies bleeding when touched by the
+of [[Truth|truth]] in that superstition about bodies bleeding when touched by the
 hand of the right person; you never got a sign out of bodies. You got
-row enough out of such as her—she was good for all night now (referring
+row enough out of such as her—she was good for all [[Night|night]] now (referring
 here to the banging demands for the liver), ‘but you got nothing out of
 bodies if it was ever so.’
 
 There being nothing more to be done until the Inquest was held next day,
 the friends went away together, and Gaffer Hexam and his son went their
 separate way. But, arriving at the last corner, Gaffer bade his boy go
-home while he turned into a red-curtained tavern, that stood dropsically
+[[Home|home]] while he turned into a red-curtained tavern, that stood dropsically
 bulging over the causeway, ‘for a half-a-pint.’
 
 The boy lifted the latch he had lifted before, and found his sister
-again seated before the fire at her work. Who raised her head upon his
+again seated before the [[Fire|fire]] at her work. Who raised her head upon his
 coming in and asking:
 
 ‘Where did you go, Liz?’
@@ -508,15 +508,15 @@ could read it. And when I wrote slowest and smeared but with my finger
 most, father was best pleased, as he stood looking over me.’
 
 The girl put aside her work, and drawing her seat close to his seat by
-the fire, laid her arm gently on his shoulder.
+the [[Fire|fire]], laid her arm gently on his shoulder.
 
-‘You’ll make the most of your time, Charley; won’t you?’
+‘You’ll make the most of your [[Time|time]], Charley; won’t you?’
 
 ‘Won’t I? Come! I like that. Don’t I?’
 
 ‘Yes, Charley, yes. You work hard at your learning, I know. And I work
 a little, Charley, and plan and contrive a little (wake out of my
-sleep contriving sometimes), how to get together a shilling now, and a
+[[Sleep|sleep]] contriving sometimes), how to get together a shilling now, and a
 shilling then, that shall make father believe you are beginning to earn
 a stray living along shore.’
 
@@ -529,19 +529,19 @@ a’most content to die.’
 ‘Don’t talk stuff about dying, Liz.’
 
 She placed her hands in one another on his shoulder, and laying her
-rich brown cheek against them as she looked down at the fire, went on
+rich brown cheek against them as she looked down at the [[Fire|fire]], went on
 thoughtfully:
 
 ‘Of an evening, Charley, when you are at the school, and father’s—’
 
 ‘At the Six Jolly Fellowship Porters,’ the boy struck in, with a
-backward nod of his head towards the public-house.
+backward nod of his head towards the public-[[house]].
 
-‘Yes. Then as I sit a-looking at the fire, I seem to see in the burning
+‘Yes. Then as I sit a-looking at the [[Fire|fire]], I seem to see in the burning
 coal—like where that glow is now—’
 
 ‘That’s gas, that is,’ said the boy, ‘coming out of a bit of a forest
-that’s been under the mud that was under the water in the days of Noah’s
+that’s been under the mud that was under the [[Water|water]] in the days of Noah’s
 Ark. Look here! When I take the poker—so—and give it a dig—’
 
 ‘Don’t disturb it, Charley, or it’ll be all in a blaze. It’s that dull
@@ -560,13 +560,13 @@ never knew a mother—’
 ‘Don’t go saying I never knew a mother,’ interposed the boy, ‘for I knew
 a little sister that was sister and mother both.’
 
-The girl laughed delightedly, and her eyes filled with pleasant tears,
+The girl laughed delightedly, and her eyes filled with pleasant [[Tears|tears]],
 as he put both his arms round her waist and so held her.
 
 ‘There are you and me, Charley, when father was away at work and locked
-us out, for fear we should set ourselves afire or fall out of window,
+us out, for [[Fear|fear]] we should set ourselves afire or fall out of [[Window|window]],
 sitting on the door-sill, sitting on other door-steps, sitting on the
-bank of the river, wandering about to get through the time. You
+bank of the [[River|river]], wandering about to get through the [[Time|time]]. You
 are rather heavy to carry, Charley, and I am often obliged to rest.
 Sometimes we are sleepy and fall asleep together in a corner, sometimes
 we are very hungry, sometimes we are a little frightened, but what is
@@ -578,8 +578,8 @@ snuggled under a little shawl, and it was warm there.’
 ‘Sometimes it rains, and we creep under a boat or the like of that:
 sometimes it’s dark, and we get among the gaslights, sitting watching
 the people as they go along the streets. At last, up comes father and
-takes us home. And home seems such a shelter after out of doors! And
-father pulls my shoes off, and dries my feet at the fire, and has me
+takes us [[Home|home]]. And [[Home|home]] seems such a shelter after out of doors! And
+father pulls my shoes off, and dries my feet at the [[Fire|fire]], and has me
 to sit by him while he smokes his pipe long after you are abed, and
 I notice that father’s is a large hand but never a heavy one when it
 touches me, and that father’s is a rough voice but never an angry one
@@ -595,14 +595,14 @@ ME though!’
 ‘Cut away again,’ said the boy, ‘and give us a fortune-telling one; a
 future one.’
 
-‘Well! There am I, continuing with father and holding to father, because
-father loves me and I love father. I can’t so much as read a book,
+‘[[Well]]! There am I, continuing with father and holding to father, because
+father loves me and I [[Love|love]] father. I can’t so much as read a book,
 because, if I had learned, father would have thought I was deserting
 him, and I should have lost my influence. I have not the influence I
 want to have, I cannot stop some dreadful things I try to stop, but I
-go on in the hope and trust that the time will come. In the meanwhile
+go on in the [[Hope|hope]] and trust that the [[Time|time]] will come. In the meanwhile
 I know that I am in some things a stay to father, and that if I was
-not faithful to him he would—in revenge-like, or in disappointment, or
+not faithful to him he would—in [[Revenge|revenge]]-like, or in disappointment, or
 both—go wild and bad.’
 
 ‘Give us a touch of the fortune-telling pictures about me.’
@@ -617,7 +617,7 @@ her attitude since she began, and who now mournfully shook her head;
 
 ‘There seems to be the deuce-and-all in the hollow down by the flare,’
 said the boy, glancing from her eyes to the brazier, which had a grisly
-skeleton look on its long thin legs.
+[[skeleton]] look on its long thin legs.
 
 ‘There are you, Charley, working your way, in secret from father, at
 the school; and you get prizes; and you go on better and better; and you
@@ -643,7 +643,7 @@ way. But I see too, Charley—’
 
 ‘Ah! Still. That it is a great work to have cut you away from father’s
 life, and to have made a new and good beginning. So there am I, Charley,
-left alone with father, keeping him as straight as I can, watching
+left [[Alone|alone]] with father, keeping him as straight as I can, watching
 for more influence than I have, and hoping that through some fortunate
 chance, or when he is ill, or when—I don’t know what—I may turn him to
 wish to do better things.’
@@ -675,9 +675,9 @@ Harmon, had returned to England; exclusive private proprietorship in
 which circumstances was set up at dinner-tables for several days, by
 Veneering, Twemlow, Podsnap, and all the Buffers: who all related them
 irreconcilably with one another, and contradicted themselves. It was
-also made interesting by the testimony of Job Potterson, the ship’s
+also made interesting by the testimony of Job Potterson, the [[Ship|ship]]’s
 steward, and one Mr Jacob Kibble, a fellow-passenger, that the deceased
-Mr John Harmon did bring over, in a hand-valise with which he did
+Mr [[John Harmon]] did bring over, in a hand-valise with which he did
 disembark, the sum realized by the forced sale of his little landed
 property, and that the sum exceeded, in ready money, seven hundred
 pounds. It was further made interesting, by the remarkable experiences
@@ -686,24 +686,24 @@ and for whose behoof a rapturous admirer subscribing himself ‘A friend
 to Burial’ (perhaps an undertaker), sent eighteen postage stamps, and
 five ‘Now Sir’s to the editor of the Times.
 
-Upon the evidence adduced before them, the Jury found, That the body
-of Mr John Harmon had been discovered floating in the Thames, in an
-advanced state of decay, and much injured; and that the said Mr John
-Harmon had come by his death under highly suspicious circumstances,
+Upon the evidence adduced before them, the Jury found, That the [[Body|body]]
+of Mr [[John Harmon]] had been discovered floating in the Thames, in an
+advanced state of [[Decay|decay]], and much injured; and that the said Mr John
+Harmon had come by his [[Death|death]] under highly suspicious circumstances,
 though by whose act or in what precise manner there was no evidence
 before this Jury to show. And they appended to their verdict, a
-recommendation to the Home Office (which Mr Inspector appeared to think
+recommendation to the [[Home]] Office (which Mr Inspector appeared to think
 highly sensible), to offer a reward for the solution of the mystery.
 Within eight-and-forty hours, a reward of One Hundred Pounds was
 proclaimed, together with a free pardon to any person or persons not the
 actual perpetrator or perpetrators, and so forth in due form.
 
 This Proclamation rendered Mr Inspector additionally studious, and
-caused him to stand meditating on river-stairs and causeways, and to go
+caused him to stand meditating on [[River|river]]-stairs and causeways, and to go
 lurking about in boats, putting this and that together. But, according
-to the success with which you put this and that together, you get a
-woman and a fish apart, or a Mermaid in combination. And Mr Inspector
-could turn out nothing better than a Mermaid, which no Judge and Jury
+to the [[success]] with which you put this and that together, you get a
+woman and a fish apart, or a [[Mermaid]] in combination. And Mr Inspector
+could turn out nothing better than a [[Mermaid]], which no Judge and Jury
 would believe in.
 
 Thus, like the tides on which it had been borne to the knowledge of men,
@@ -711,4 +711,4 @@ the Harmon Murder—as it came to be popularly called—went up and down,
 and ebbed and flowed, now in the town, now in the country, now among
 palaces, now among hovels, now among lords and ladies and gentlefolks,
 now among labourers and hammerers and ballast-heavers, until at last,
-after a long interval of slack water it got out to sea and drifted away.
+after a long interval of slack [[Water|water]] it got out to sea and drifted away.

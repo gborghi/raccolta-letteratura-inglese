@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Doom of the Darnaways (part 4)"
+title: "[[Incredulity]] — The Doom of the Darnaways (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -38,7 +38,7 @@ the striped dark sands by the darkening sea; `did you say that young
 man was betrothed to Miss Darnaway by a family compact or something?
 Sounds rather like a novel.'
 
-`But an historical novel,' answered Dr Barnet.  `The Darnaways
+`But an [[Historical Novel|historical novel]],' answered Dr Barnet.  `The Darnaways
 all went to sleep a few centuries ago, when things were really done
 that we only read of in romances.  Yes; I believe there's some family
 tradition by which second or third cousins always marry when they
@@ -50,7 +50,7 @@ for their having gone so rotten.'
 `I should hardly say,' answered Payne a little stuffily,
 `that they had all gone rotten.'
 
-`Well,' replied the doctor, `the young man doesn't look rotten,
+`[[Well]],' replied the doctor, `the young man doesn't look rotten,
 of course, though he's certainly lame.'
 
 `The young man!' cried Payne, who was suddenly and unreasonably angry.
@@ -60,26 +60,26 @@ who have rotten taste.'
 The doctor's face grew dark and bitter.  `I fancy I know more about it
 than you do,' he snapped.
 
-They completed the walk in silence, each feeling that he had been
+They completed the walk in [[Silence|silence]], each feeling that he had been
 irrationally rude and had suffered equally irrational rudeness;
-and Payne was left to brood alone on the matter, for his friend Wood
+and Payne was left to brood [[Alone|alone]] on the matter, for his friend Wood
 had remained behind to attend to some of his business in connexion
 with the pictures.
 
 Payne took very full advantage of the invitation extended
 by the colonial cousin, who wanted somebody to cheer him up.
 During the next few weeks he saw a good deal of the dark interior
-of the Darnaway home; though it might be said that he did not
+of the Darnaway [[Home|home]]; though it might be said that he did not
 confine himself entirely to cheering up the colonial cousin.
-The lady's melancholy was of longer standing and perhaps needed
+The lady's [[Melancholy|melancholy]] was of longer standing and perhaps needed
 more lifting; anyhow, he showed a laborious readiness to lift it.
-He was not without a conscience, however, and the situation
+He was not without a [[Conscience|conscience]], however, and the situation
 made him doubtful and uncomfortable.  Weeks went by and nobody
 could discover from the demeanour of the new Darnaway whether
 he considered himself engaged according to the old compact or no.
 He went mooning about the dark galleries and stood staring vacantly
-at the dark and sinister picture.  The shades of that prison--
-house were certainly beginning to close on him, and there
+at the dark and sinister picture.  The shades of that [[Prison|prison]]--
+[[house]] were certainly beginning to close on him, and there
 was little of his Australian assurance left.  But Payne could
 discover nothing upon the point that concerned him most.
 Once he attempted to confide in his friend Martin Wood, as he was
@@ -138,6 +138,6 @@ of family council at which he put his cards on the table.
 It might be said that he flung down his cards on the table,
 for he did it with a rather desperate air, like one who had been
 harassed for days and nights by the increasing pressure of a problem.
-In that short time the shadows of that place of low windows
+In that short [[Time|time]] the shadows of that place of low windows
 and sinking pavements had curiously changed him, and increased
 a certain resemblance that crept through all their memories.

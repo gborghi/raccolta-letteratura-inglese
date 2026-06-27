@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 3: On the Road (part 4)"
+title: "Little Dorrit — Chapter 3: On the [[Road]] (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -20,7 +20,7 @@ yourself.’
 
 Ah, just Heaven, then, how could the host explain himself when he had
 nothing more to explain; when he had only to apologise, and confide
-himself to the so well-known magnanimity of Monseigneur!
+himself to the so [[Well|well]]-known magnanimity of Monseigneur!
 
 ‘I tell you, sir,’ said Mr Dorrit, panting with anger, ‘that you
 separate me--ha--from other gentlemen; that you make distinctions
@@ -32,15 +32,15 @@ Permit the landlord humbly to submit to Monsieur the Courier then, that
 Monseigneur, ordinarily so gracious, enraged himself without cause.
 There was no why. Monsieur the Courier would represent to Monseigneur,
 that he deceived himself in suspecting that there was any why, but the
-why his devoted servant had already had the honour to present to him.
+why his devoted servant had already had the [[Honour|honour]] to present to him.
 The very genteel lady--
 
-‘Silence!’ cried Mr Dorrit. ‘Hold your tongue! I will hear no more
+‘[[Silence]]!’ cried Mr Dorrit. ‘Hold your tongue! I will hear no more
 of the very genteel lady; I will hear no more of you. Look at this
 family--my family--a family more genteel than any lady. You have treated
 this family with disrespect; you have been insolent to this family. I’ll
 ruin you. Ha--send for the horses, pack the carriages, I’ll not set foot
-in this man’s house again!’
+in this man’s [[house]] again!’
 
 No one had interfered in the dispute, which was beyond the French
 colloquial powers of Edward Dorrit, Esquire, and scarcely within the
@@ -56,9 +56,9 @@ they ought to be torn from him.
 All the guides, mule-drivers, and idlers in the yard, had made
 themselves parties to the angry conference, and were much impressed by
 the courier’s now bestirring himself to get the carriages out. With the
-aid of some dozen people to each wheel, this was done at a great cost of
+aid of some dozen people to each [[Wheel|wheel]], this was done at a great cost of
 noise; and then the loading was proceeded with, pending the arrival of
-the horses from the post-house.
+the horses from the post-[[house]].
 
 But the very genteel lady’s English chariot being already horsed and at
 the inn-door, the landlord had slipped up-stairs to represent his hard
@@ -89,19 +89,19 @@ it’s not pleasant to find other people in ‘em.’
 ‘No,’ said the other, ‘I know it isn’t. I admit it. Still, let you and I
 try to make it all right, and avoid Row. The fault is not this chap’s
 at all, but my mother’s. Being a remarkably fine woman with no bigodd
-nonsense about her--well educated, too--she was too many for this chap.
+nonsense about her--[[Well|well]] educated, too--she was too many for this chap.
 Regularly pocketed him.’
 
 ‘If that’s the case--’ Edward Dorrit, Esquire, began.
 
-‘Assure you ‘pon my soul ‘tis the case. Consequently,’ said the other
+‘Assure you ‘pon my [[Soul|soul]] ‘tis the case. Consequently,’ said the other
 gentleman, retiring on his main position, ‘why Row?’
 
-‘Edmund,’ said the lady from the doorway, ‘I hope you have explained,
+‘[[Edmund]],’ said the lady from the doorway, ‘I [[Hope|hope]] you have explained,
 or are explaining, to the satisfaction of this gentleman and his family
 that the civil landlord is not to blame?’
 
-‘Assure you, ma’am,’ returned Edmund, ‘perfectly paralysing myself with
+‘Assure you, ma’am,’ returned [[Edmund]], ‘perfectly paralysing myself with
 trying it on.’ He then looked steadfastly at Edward Dorrit, Esquire, for
 some seconds, and suddenly added, in a burst of confidence, ‘Old feller!
 _Is_ it all right?’
@@ -110,7 +110,7 @@ _Is_ it all right?’
 two towards Mr Dorrit, ‘but that I had better say myself, at once,
 that I assured this good man I took all the consequences on myself of
 occupying one of a stranger’s suite of rooms during his absence, for
-just as much (or as little) time as I could dine in. I had no idea the
+just as much (or as little) [[Time|time]] as I could dine in. I had no idea the
 rightful owner would come back so soon, nor had I any idea that he
 had come back, or I should have hastened to make restoration of my
 ill-gotten chamber, and to have offered my explanation and apology. I
@@ -126,12 +126,12 @@ lady from head to foot.
 
 The lady, recovering herself quickly--for it was Mrs Merdle and she was
 not easily dashed--went on to add that she trusted in saying this, she
-apologised for her boldness, and restored this well-behaved landlord to
+apologised for her boldness, and restored this [[Well|well]]-behaved landlord to
 the favour that was so very valuable to him. Mr Dorrit, on the altar of
 whose dignity all this was incense, made a gracious reply; and said
 that his people should--ha--countermand his horses, and he
 would--hum--overlook what he had at first supposed to be an affront,
-but now regarded as an honour. Upon this the bosom bent to him; and its
+but now regarded as an [[Honour|honour]]. Upon this the bosom bent to him; and its
 owner, with a wonderful command of feature, addressed a winning smile of
 adieu to the two sisters, as young ladies of fortune in whose favour she
 was much prepossessed, and whom she had never had the gratification of

@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Doom of the Darnaways (part 9)"
+title: "[[Incredulity]] — The Doom of the Darnaways (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -47,7 +47,7 @@ And I was such a fool that I never looked at the books in the library;
 and it was only in this photograph, by very undeserved good luck,
 that I saw the simple fact of a book about Pope Joan.'
 
-`You've kept your best riddle for the end,' said Payne grimly.
+`You've kept your best [[Riddle|riddle]] for the end,' said Payne grimly.
 `What on earth can Pope Joan have to do with it?'
 
 `Don't forget the book about the Something of Iceland,'
@@ -73,6 +73,6 @@ some hidden staircase--`
 said the priest nodding.  `I'm sorry.  It couldn't be helped.
 It's dreadfully banal and stupid, as stupid as I have been on this
 pretty banal case.  But we were mixed up in a real musty old
-romance of decayed gentility and a fallen family mansion; and it
-was too much to hope that we could escape having a secret passage.
+[[Romance|romance]] of decayed gentility and a fallen family mansion; and it
+was too much to [[Hope|hope]] that we could escape having a secret passage.
 It was a priest's hole; and I deserve to be put in it.'

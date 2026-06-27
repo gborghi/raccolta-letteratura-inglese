@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 30 (part 6)"
+title: "Bleak [[house|House]] — Chapter 30 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,14 +14,14 @@ tags:
 </nav>
 
 
-At last the time came when poor Caddy was to go and when all her
+At last the [[Time|time]] came when poor Caddy was to go and when all her
 property was packed on the hired coach and pair that was to take her
 and her husband to Gravesend. It affected us to see Caddy clinging,
-then, to her deplorable home and hanging on her mother’s neck with
+then, to her deplorable [[Home|home]] and hanging on her mother’s neck with
 the greatest tenderness.
 
 “I am very sorry I couldn’t go on writing from dictation, Ma,” sobbed
-Caddy. “I hope you forgive me now.”
+Caddy. “I [[Hope|hope]] you forgive me now.”
 
 “Oh, Caddy, Caddy!” said Mrs. Jellyby. “I have told you over and over
 again that I have engaged a boy, and there’s an end of it.”
@@ -30,18 +30,18 @@ again that I have engaged a boy, and there’s an end of it.”
 sure before I go away, Ma?”
 
 “You foolish Caddy,” returned Mrs. Jellyby, “do I look angry, or have
-I inclination to be angry, or time to be angry? How CAN you?”
+I inclination to be angry, or [[Time|time]] to be angry? How CAN you?”
 
 “Take a little care of Pa while I am gone, Mama!”
 
-Mrs. Jellyby positively laughed at the fancy. “You romantic child,”
+Mrs. Jellyby positively laughed at the fancy. “You romantic [[Child|child]],”
 said she, lightly patting Caddy’s back. “Go along. I am excellent
 friends with you. Now, good-bye, Caddy, and be very happy!”
 
 Then Caddy hung upon her father and nursed his cheek against hers as
-if he were some poor dull child in pain. All this took place in the
+if he were some poor dull [[Child|child]] in [[Pain|pain]]. All this took place in the
 hall. Her father released her, took out his pocket handkerchief, and
-sat down on the stairs with his head against the wall. I hope he
+sat down on the stairs with his head against the wall. I [[Hope|hope]] he
 found some consolation in walls. I almost think he did.
 
 And then Prince took her arm in his and turned with great emotion and
@@ -50,7 +50,7 @@ overwhelming.
 
 “Thank you over and over again, father!” said Prince, kissing his
 hand. “I am very grateful for all your kindness and consideration
-regarding our marriage, and so, I can assure you, is Caddy.”
+regarding our [[Marriage|marriage]], and so, I can assure you, is Caddy.”
 
 “Very,” sobbed Caddy. “Ve-ry!”
 
@@ -65,22 +65,22 @@ believe?”
 “Never, never, dear Mr. Turveydrop!” said Caddy.
 
 “This,” returned Mr. Turveydrop, “is as it should be. My children, my
-home is yours, my heart is yours, my all is yours. I will never leave
-you; nothing but death shall part us. My dear son, you contemplate an
+[[Home|home]] is yours, my heart is yours, my all is yours. I will never leave
+you; nothing but [[Death|death]] shall part us. My dear son, you contemplate an
 absence of a week, I think?”
 
-“A week, dear father. We shall return home this day week.”
+“A week, dear father. We shall return [[Home|home]] this day week.”
 
-“My dear child,” said Mr. Turveydrop, “let me, even under the present
+“My dear [[Child|child]],” said Mr. Turveydrop, “let me, even under the present
 exceptional circumstances, recommend strict punctuality. It is highly
 important to keep the connexion together; and schools, if at all
 neglected, are apt to take offence.”
 
-“This day week, father, we shall be sure to be home to dinner.”
+“This day week, father, we shall be sure to be [[Home|home]] to dinner.”
 
 “Good!” said Mr. Turveydrop. “You will find fires, my dear Caroline,
 in your own room, and dinner prepared in my apartment. Yes, yes,
-Prince!” anticipating some self-denying objection on his son’s part
+Prince!” anticipating some [[Self|self]]-denying objection on his son’s part
 with a great air. “You and our Caroline will be strange in the upper
 part of the premises and will, therefore, dine that day in my
 apartment. Now, bless ye!”
@@ -94,25 +94,25 @@ them earnestly, and opened his mouth twice. I was so sure of his
 meaning that I said, quite flurried, “You are very welcome, sir. Pray
 don’t mention it!”
 
-“I hope this marriage is for the best, guardian,” said I when we
-three were on our road home.
+“I [[Hope|hope]] this [[Marriage|marriage]] is for the best, guardian,” said I when we
+three were on our [[Road|road]] [[Home|home]].
 
-“I hope it is, little woman. Patience. We shall see.”
+“I [[Hope|hope]] it is, little woman. Patience. We shall see.”
 
-“Is the wind in the east to-day?” I ventured to ask him.
+“Is the [[Wind|wind]] in the east to-day?” I ventured to ask him.
 
 He laughed heartily and answered, “No.”
 
 “But it must have been this morning, I think,” said I.
 
-He answered “No” again, and this time my dear girl confidently
+He answered “No” again, and this [[Time|time]] my dear girl confidently
 answered “No” too and shook the lovely head which, with its blooming
-flowers against the golden hair, was like the very spring. “Much YOU
+[[Flowers|flowers]] against the golden hair, was like the very [[Spring|spring]]. “Much YOU
 know of east winds, my ugly darling,” said I, kissing her in my
 admiration—I couldn’t help it.
 
-Well! It was only their love for me, I know very well, and it is a
-long time ago. I must write it even if I rub it out again, because it
-gives me so much pleasure. They said there could be no east wind
+[[Well]]! It was only their [[Love|love]] for me, I know very [[Well|well]], and it is a
+long [[Time|time]] ago. I must write it even if I rub it out again, because it
+gives me so much pleasure. They said there could be no east [[Wind|wind]]
 where Somebody was; they said that wherever Dame Durden went, there
-was sunshine and summer air.
+was sunshine and [[Summer|summer]] air.

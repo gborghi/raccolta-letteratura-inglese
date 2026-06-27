@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE"
+title: "The [[Pickwick]] Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -20,14 +20,14 @@ UNTIMELY DOWNFALL OF MR. STIGGINS
 Considering it a matter of delicacy to abstain from introducing either
 Bob Sawyer or Ben Allen to the young couple, until they were fully
 prepared to expect them, and wishing to spare Arabella’s feelings as
-much as possible, Mr. Pickwick proposed that he and Sam should alight in
+much as possible, Mr. [[Pickwick]] proposed that he and Sam should alight in
 the neighbourhood of the George and Vulture, and that the two young men
 should for the present take up their quarters elsewhere. To this they
 very readily agreed, and the proposition was accordingly acted upon; Mr.
 Ben Allen and Mr. Bob Sawyer betaking themselves to a sequestered pot-
 shop on the remotest confines of the Borough, behind the bar door of
 which their names had in other days very often appeared at the head of
-long and complex calculations worked in white chalk.
+long and complex calculations worked in white [[chalk]].
 
 ‘Dear me, Mr. Weller,’ said the pretty housemaid, meeting Sam at the
 door.
@@ -51,7 +51,7 @@ letter been waiting here for you four days; you hadn’t gone away, half
 an hour, when it came; and more than that, it’s got “immediate,” on the
 outside.’
 
-‘Vere is it, my love?’ inquired Sam.
+‘Vere is it, my [[Love|love]]?’ inquired Sam.
 
 ‘I took care of it, for you, or I dare say it would have been lost long
 before this,’ replied Mary. ‘There, take it; it’s more than you
@@ -67,18 +67,18 @@ unconsciousness, ‘you seem to have grown very fond of it all at once.’
 
 To this Mr. Weller only replied by a wink, the intense meaning of which
 no description could convey the faintest idea of; and, sitting himself
-down beside Mary on a window-seat, opened the letter and glanced at the
+down beside Mary on a [[Window|window]]-seat, opened the letter and glanced at the
 contents.
 
 ‘Hollo!’ exclaimed Sam, ‘wot’s all this?’
 
-‘Nothing the matter, I hope?’ said Mary, peeping over his shoulder.
+‘Nothing the matter, I [[Hope|hope]]?’ said Mary, peeping over his shoulder.
 
 ‘Bless them eyes o’ yourn!’ said Sam, looking up.
 
 ‘Never mind my eyes; you had much better read your letter,’ said the
 pretty housemaid; and as she said so, she made the eyes twinkle with
-such slyness and beauty that they were perfectly irresistible.
+such slyness and [[Beauty|beauty]] that they were perfectly irresistible.
 
 Sam refreshed himself with a kiss, and read as follows:--
 
@@ -90,18 +90,18 @@ Sam refreshed himself with a kiss, and read as follows:--
 ‘I am wery sorry to have the pleasure of being a Bear of ill news your
 Mother in law cort cold consekens of imprudently settin too long on the
 damp grass in the rain a hearin of a shepherd who warnt able to leave
-off till late at night owen to his having vound his-self up vith brandy
-and vater and not being able to stop his-self till he got a little sober
+off till late at [[Night|night]] owen to his having vound his-[[Self|self]] up vith brandy
+and vater and not being able to stop his-[[Self|self]] till he got a little sober
 which took a many hours to do the doctor says that if she’d svallo’d
 varm brandy and vater artervards insted of afore she mightn’t have been
 no vus her veels wos immedetly greased and everythink done to set her
 agoin as could be inwented your father had hopes as she vould have
 vorked round as usual but just as she wos a turnen the corner my boy she
-took the wrong road and vent down hill vith a welocity you never see and
+took the wrong [[Road|road]] and vent down [[Hill|hill]] vith a welocity you never see and
 notvithstandin that the drag wos put on drectly by the medikel man it
 wornt of no use at all for she paid the last pike at twenty minutes
-afore six o’clock yesterday evenin havin done the jouney wery much under
-the reglar time vich praps was partly owen to her haven taken in wery
+afore six o’[[Clock|clock]] yesterday evenin havin done the jouney wery much under
+the reglar [[Time|time]] vich praps was partly owen to her haven taken in wery
 little luggage by the vay your father says that if you vill come and see
 me Sammy he vill take it as a wery great favor for I am wery lonely
 Samivel N. B. he _vill _have it spelt that vay vich I say ant right and
@@ -128,14 +128,14 @@ do. You’re right, Mary, my dear.’
 
 Having satisfied himself on this point, Sam read the letter all over,
 once more, and, appearing to form a clear notion of its contents for the
-first time, ejaculated thoughtfully, as he folded it up--
+first [[Time|time]], ejaculated thoughtfully, as he folded it up--
 
 ‘And so the poor creetur’s dead! I’m sorry for it. She warn’t a bad-
-disposed ‘ooman, if them shepherds had let her alone. I’m wery sorry for
+disposed ‘ooman, if them shepherds had let her [[Alone|alone]]. I’m wery sorry for
 it.’
 
 Mr. Weller uttered these words in so serious a manner, that the pretty
-housemaid cast down her eyes and looked very grave.
+housemaid cast down her eyes and looked very [[Grave|grave]].
 
 ‘Hows’ever,’ said Sam, putting the letter in his pocket with a gentle
 sigh, ‘it wos to be--and wos, as the old lady said arter she’d married
@@ -151,17 +151,17 @@ Mary sighed again--the letter was so very affecting.
 
 ‘Good-bye,’ rejoined the pretty housemaid, turning her head away.
 
-‘Well, shake hands, won’t you?’ said Sam.
+‘[[Well]], shake hands, won’t you?’ said Sam.
 
 The pretty housemaid put out a hand which, although it was a
-housemaid’s, was a very small one, and rose to go.
+housemaid’s, was a very small one, and [[Rose|rose]] to go.
 
 ‘I shan’t be wery long avay,’ said Sam.
 
 ‘You’re always away,’ said Mary, giving her head the slightest possible
 toss in the air. ‘You no sooner come, Mr. Weller, than you go again.’
 
-Mr. Weller drew the household beauty closer to him, and entered upon a
+Mr. Weller drew the household [[Beauty|beauty]] closer to him, and entered upon a
 whispering conversation, which had not proceeded far, when she turned
 her face round and condescended to look at him again. When they parted,
 it was somehow or other indispensably necessary for her to go to her
@@ -171,30 +171,30 @@ perform, bestowing many nods and smiles on Sam over the banisters as she
 tripped upstairs.
 
 ‘I shan’t be avay more than a day, or two, Sir, at the furthest,’ said
-Sam, when he had communicated to Mr. Pickwick the intelligence of his
+Sam, when he had communicated to Mr. [[Pickwick]] the intelligence of his
 father’s loss.
 
-‘As long as may be necessary, Sam,’ replied Mr. Pickwick, ‘you have my
+‘As long as may be necessary, Sam,’ replied Mr. [[Pickwick]], ‘you have my
 full permission to remain.’
 
 Sam bowed.
 
 ‘You will tell your father, Sam, that if I can be of any assistance to
 him in his present situation, I shall be most willing and ready to lend
-him any aid in my power,’ said Mr. Pickwick.
+him any aid in my power,’ said Mr. [[Pickwick]].
 
 ‘Thank’ee, sir,’ rejoined Sam. ‘I’ll mention it, sir.’
 
 And with some expressions of mutual good-will and interest, master and
 man separated.
 
-It was just seven o’clock when Samuel Weller, alighting from the box of
+It was just seven o’[[Clock|clock]] when Samuel Weller, alighting from the box of
 a stage-coach which passed through Dorking, stood within a few hundred
 yards of the Marquis of Granby. It was a cold, dull evening; the little
 street looked dreary and dismal; and the mahogany countenance of the
-noble and gallant marquis seemed to wear a more sad and melancholy
+noble and gallant marquis seemed to wear a more sad and [[Melancholy|melancholy]]
 expression than it was wont to do, as it swung to and fro, creaking
-mournfully in the wind. The blinds were pulled down, and the shutters
+mournfully in the [[Wind|wind]]. The blinds were pulled down, and the shutters
 partly closed; of the knot of loungers that usually collected about the
 door, not one was to be seen; the place was silent and desolate.
 
@@ -203,7 +203,7 @@ softly in, and glancing round, he quickly recognised his parent in the
 distance.
 
 The widower was seated at a small round table in the little room behind
-the bar, smoking a pipe, with his eyes intently fixed upon the fire. The
+the bar, smoking a pipe, with his eyes intently fixed upon the [[Fire|fire]]. The
 funeral had evidently taken place that day, for attached to his hat,
 which he still retained on his head, was a hatband measuring about a
 yard and a half in length, which hung over the top rail of the chair and
@@ -218,10 +218,10 @@ palm of his hand on his shoulder.
 ‘I’ve been a-callin’ to you half a dozen times,’ said Sam, hanging his
 hat on a peg, ‘but you didn’t hear me.’
 
-‘No, Sammy,’ replied Mr. Weller, again looking thoughtfully at the fire.
+‘No, Sammy,’ replied Mr. Weller, again looking thoughtfully at the [[Fire|fire]].
 ‘I was in a referee, Sammy.’
 
-‘Wot about?’ inquired Sam, drawing his chair up to the fire.
+‘Wot about?’ inquired Sam, drawing his chair up to the [[Fire|fire]].
 
 ‘In a referee, Sammy,’ replied the elder Mr. Weller, ‘regarding _her_,
 Samivel.’ Here Mr. Weller jerked his head in the direction of Dorking
@@ -237,10 +237,10 @@ that upon the whole I wos wery sorry she wos gone.’
 ‘Vell, and so you ought to be,’ replied Sam.
 
 Mr. Weller nodded his acquiescence in the sentiment, and again fastening
-his eyes on the fire, shrouded himself in a cloud, and mused deeply.
+his eyes on the [[Fire|fire]], shrouded himself in a cloud, and mused deeply.
 
 ‘Those wos wery sensible observations as she made, Sammy,’ said Mr.
-Weller, driving the smoke away with his hand, after a long silence.
+Weller, driving the smoke away with his hand, after a long [[Silence|silence]].
 
 ‘Wot observations?’ inquired Sam.
 
@@ -250,15 +250,15 @@ Weller, driving the smoke away with his hand, after a long silence.
 
 ‘Somethin’ to this here effect. “Veller,” she says, “I’m afeered I’ve
 not done by you quite wot I ought to have done; you’re a wery kind-
-hearted man, and I might ha’ made your home more comfortabler. I begin
+hearted man, and I might ha’ made your [[Home|home]] more comfortabler. I begin
 to see now,” she says, “ven it’s too late, that if a married ‘ooman
 vishes to be religious, she should begin vith dischargin’ her dooties at
-home, and makin’ them as is about her cheerful and happy, and that vile
+[[Home|home]], and makin’ them as is about her cheerful and happy, and that vile
 she goes to church, or chapel, or wot not, at all proper times, she
 should be wery careful not to con-wert this sort o’ thing into a excuse
-for idleness or self-indulgence. I have done this,” she says, “and I’ve
-vasted time and substance on them as has done it more than me; but I
-hope ven I’m gone, Veller, that you’ll think on me as I wos afore I
+for idleness or [[Self|self]]-indulgence. I have done this,” she says, “and I’ve
+vasted [[Time|time]] and substance on them as has done it more than me; but I
+[[Hope|hope]] ven I’m gone, Veller, that you’ll think on me as I wos afore I
 know’d them people, and as I raly wos by natur.” ‘“Susan,” says I--I wos
 took up wery short by this, Samivel; I von’t deny it, my boy--“Susan,” I
 says, “you’ve been a wery good vife to me, altogether; don’t say nothin’
@@ -274,13 +274,13 @@ gov’nor, ve must all come to it, one day or another.’
 
 ‘So we must, Sammy,’ said Mr. Weller the elder.
 
-‘There’s a Providence in it all,’ said Sam.
+‘There’s a [[Providence]] in it all,’ said Sam.
 
-‘O’ course there is,’ replied his father, with a nod of grave approval.
+‘O’ course there is,’ replied his father, with a nod of [[Grave|grave]] approval.
 ‘Wot ‘ud become of the undertakers vithout it, Sammy?’
 
 Lost in the immense field of conjecture opened by this reflection, the
-elder Mr. Weller laid his pipe on the table, and stirred the fire with a
+elder Mr. Weller laid his pipe on the table, and stirred the [[Fire|fire]] with a
 meditative visage.
 
 While the old gentleman was thus engaged, a very buxom-looking cook,
@@ -293,7 +293,7 @@ was followed by a louder one.
 ‘Hollo!’ said the elder Mr. Weller, dropping the poker as he looked
 round, and hastily drew his chair away. ‘Wot’s the matter now?’
 
-‘Have a cup of tea, there’s a good soul,’ replied the buxom female
+‘Have a cup of tea, there’s a good [[Soul|soul]],’ replied the buxom female
 coaxingly.
 
 ‘I von’t,’ replied Mr. Weller, in a somewhat boisterous manner. ‘I’ll
@@ -306,7 +306,7 @@ looking upwards.
 ‘It’s the only thing ‘twixt this and the doctor as shall change my
 condition,’ muttered Mr. Weller.
 
-‘I really never saw a man so cross,’ said the buxom female.
+‘I really never saw a man so [[Cross|cross]],’ said the buxom female.
 
 ‘Never mind. It’s all for my own good; vich is the reflection vith vich
 the penitent school-boy comforted his feelin’s ven they flogged him,’
@@ -327,10 +327,10 @@ speaker, putting her hand before her mouth, coughed again, and looked
 affectionately at the elder Mr. Weller.
 
 ‘As I don’t rekvire any o’ your conversation just now, mum, vill you
-have the goodness to re-tire?’ inquired Mr. Weller, in a grave and
+have the goodness to re-tire?’ inquired Mr. Weller, in a [[Grave|grave]] and
 steady voice.
 
-‘Well, Mr. Weller,’ said the buxom female, ‘I’m sure I only spoke to you
+‘[[Well]], Mr. Weller,’ said the buxom female, ‘I’m sure I only spoke to you
 out of kindness.’
 
 ‘Wery likely, mum,’ replied Mr. Weller. ‘Samivel, show the lady out, and
@@ -340,7 +340,7 @@ This hint was not lost upon the buxom female; for she at once left the
 room, and slammed the door behind her, upon which Mr. Weller, senior,
 falling back in his chair in a violent perspiration, said--
 
-‘Sammy, if I wos to stop here alone vun week--only vun week, my boy--
+‘Sammy, if I wos to stop here [[Alone|alone]] vun week--only vun week, my boy--
 that ‘ere ‘ooman ‘ud marry me by force and wiolence afore it was over.’
 
 ‘Wot! is she so wery fond on you?’ inquired Sam.
@@ -351,10 +351,10 @@ to get at me, Sammy.’
 
 ‘Wot a thing it is to be so sought arter!’ observed Sam, smiling.
 
-‘I don’t take no pride out on it, Sammy,’ replied Mr. Weller, poking the
-fire vehemently, ‘it’s a horrid sitiwation. I’m actiwally drove out o’
-house and home by it. The breath was scarcely out o’ your poor mother-
-in-law’s body, ven vun old ‘ooman sends me a pot o’ jam, and another a
+‘I don’t take no [[Pride|pride]] out on it, Sammy,’ replied Mr. Weller, poking the
+[[Fire|fire]] vehemently, ‘it’s a horrid sitiwation. I’m actiwally drove out o’
+[[house]] and [[Home|home]] by it. The breath was scarcely out o’ your poor mother-
+in-law’s [[Body|body]], ven vun old ‘ooman sends me a pot o’ jam, and another a
 pot o’ jelly, and another brews a blessed large jug o’ camomile-tea,
 vich she brings in vith her own hands.’ Mr. Weller paused with an aspect
 of intense disgust, and looking round, added in a whisper, ‘They wos all
@@ -413,7 +413,7 @@ more summoning up a meditative expression of countenance, continued as
 follows--
 
 ‘Therefore, my boy, as I do not see the adwisability o’ stoppin here to
-be married vether I vant to or not, and as at the same time I do not
+be married vether I vant to or not, and as at the same [[Time|time]] I do not
 vish to separate myself from them interestin’ members o’ society
 altogether, I have come to the determination o’ driving the Safety, and
 puttin’ up vunce more at the Bell Savage, vich is my nat’ral born
@@ -429,7 +429,7 @@ call them things agin?’
 
 ‘Wot things?’ inquired Sam.
 
-‘Them things as is always a-goin’ up and down, in the city.’
+‘Them things as is always a-goin’ up and down, in the [[City|city]].’
 
 ‘Omnibuses?’ suggested Sam.
 
@@ -447,7 +447,7 @@ reduced counsels, Sammy.’
 obliged to her.’
 
 ‘The rest will be inwested in my name,’ continued the elder Mr. Weller;
-‘and wen I’m took off the road, it’ll come to you, so take care you
+‘and wen I’m took off the [[Road|road]], it’ll come to you, so take care you
 don’t spend it all at vunst, my boy, and mind that no widder gets a
 inklin’ o’ your fortun’, or you’re done.’
 
@@ -473,26 +473,26 @@ red face of Mr. Stiggins. Mr. Weller’s pipe fell from his hands.
 
 The reverend gentleman gradually opened the door by almost imperceptible
 degrees, until the aperture was just wide enough to admit of the passage
-of his lank body, when he glided into the room and closed it after him,
+of his lank [[Body|body]], when he glided into the room and closed it after him,
 with great care and gentleness. Turning towards Sam, and raising his
 hands and eyes in token of the unspeakable sorrow with which he regarded
 the calamity that had befallen the family, he carried the high-backed
-chair to his old corner by the fire, and, seating himself on the very
+chair to his old corner by the [[Fire|fire]], and, seating himself on the very
 edge, drew forth a brown pocket-handkerchief, and applied the same to
 his optics.
 
 While this was going forward, the elder Mr. Weller sat back in his
 chair, with his eyes wide open, his hands planted on his knees, and his
 whole countenance expressive of absorbing and overwhelming astonishment.
-Sam sat opposite him in perfect silence, waiting, with eager curiosity,
+Sam sat opposite him in perfect [[Silence|silence]], waiting, with eager curiosity,
 for the termination of the scene.
 
 Mr. Stiggins kept the brown pocket-handkerchief before his eyes for some
 minutes, moaning decently meanwhile, and then, mastering his feelings by
 a strong effort, put it in his pocket and buttoned it up. After this, he
-stirred the fire; after that, he rubbed his hands and looked at Sam.
+stirred the [[Fire|fire]]; after that, he rubbed his hands and looked at Sam.
 
-‘Oh, my young friend,’ said Mr. Stiggins, breaking the silence, in a
+‘Oh, my young friend,’ said Mr. Stiggins, breaking the [[Silence|silence]], in a
 very low voice, ‘here’s a sorrowful affliction!’
 
 Sam nodded very slightly.
@@ -511,7 +511,7 @@ closer to Sam, ‘whether she has left Emanuel anything?’
 ‘The chapel,’ replied Mr. Stiggins; ‘our chapel; our fold, Mr. Samuel.’
 
 ‘She hasn’t left the fold nothin’, nor the shepherd nothin’, nor the
-animals nothin’,’ said Sam decisively; ‘nor the dogs neither.’
+[[Animals|animals]] nothin’,’ said Sam decisively; ‘nor the [[dogs]] neither.’
 
 Mr. Stiggins looked slily at Sam; glanced at the old gentleman, who was
 sitting with his eyes closed, as if asleep; and drawing his chair still
@@ -546,24 +546,24 @@ seemed to partake in some degree of the character of all four.
 
 Mr. Stiggins, encouraged by this sound, which he understood to betoken
 remorse or repentance, looked about him, rubbed his hands, wept, smiled,
-wept again, and then, walking softly across the room to a well-
+wept again, and then, walking softly across the room to a [[Well|well]]-
 remembered shelf in one corner, took down a tumbler, and with great
 deliberation put four lumps of sugar in it. Having got thus far, he
 looked about him again, and sighed grievously; with that, he walked
 softly into the bar, and presently returning with the tumbler half full
 of pine-apple rum, advanced to the kettle which was singing gaily on the
 hob, mixed his grog, stirred it, sipped it, sat down, and taking a long
-and hearty pull at the rum-and-water, stopped for breath.
+and hearty pull at the rum-and-[[Water|water]], stopped for breath.
 
 The elder Mr. Weller, who still continued to make various strange and
 uncouth attempts to appear asleep, offered not a single word during
 these proceedings; but when Stiggins stopped for breath, he darted upon
 him, and snatching the tumbler from his hand, threw the remainder of the
-rum-and-water in his face, and the glass itself into the grate. Then,
+rum-and-[[Water|water]] in his face, and the glass itself into the grate. Then,
 seizing the reverend gentleman firmly by the collar, he suddenly fell to
 kicking him most furiously, accompanying every application of his top-
 boot to Mr. Stiggins’s person, with sundry violent and incoherent
-anathemas upon his limbs, eyes, and body.
+anathemas upon his limbs, eyes, and [[Body|body]].
 
 ‘Sammy,’ said Mr. Weller, ‘put my hat on tight for me.’
 
@@ -572,13 +572,13 @@ father’s head, and the old gentleman, resuming his kicking with greater
 agility than before, tumbled with Mr. Stiggins through the bar, and
 through the passage, out at the front door, and so into the street--the
 kicking continuing the whole way, and increasing in vehemence, rather
-than diminishing, every time the top-boot was lifted.
+than diminishing, every [[Time|time]] the top-boot was lifted.
 
 It was a beautiful and exhilarating sight to see the red-nosed man
 writhing in Mr. Weller’s grasp, and his whole frame quivering with
 anguish as kick followed kick in rapid succession; it was a still more
 exciting spectacle to behold Mr. Weller, after a powerful struggle,
-immersing Mr. Stiggins’s head in a horse-trough full of water, and
+immersing Mr. Stiggins’s head in a [[Horse|horse]]-trough full of [[Water|water]], and
 holding it there, until he was half suffocated.
 
 ‘There!’ said Mr. Weller, throwing all his energy into one most

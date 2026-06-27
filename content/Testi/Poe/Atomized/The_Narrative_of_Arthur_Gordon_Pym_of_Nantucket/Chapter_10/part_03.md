@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 11 (part 3)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 11 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -20,7 +20,7 @@ they were too excessively debilitated to be able to follow my advice. I
 
 continued to chew pieces of it at intervals, and found some relief from
 
-so doing; my chief distress was for water, and I was only prevented
+so doing; my chief distress was for [[Water|water]], and I was only prevented
 
 from taking a draught from the sea by remembering the horrible
 
@@ -32,7 +32,7 @@ situated with ourselves.
 
 The day wore on in this manner, when I suddenly discovered a sail to
 
-the eastward, and on our larboard bow. She appeared to be a large ship,
+the eastward, and on our larboard bow. She appeared to be a large [[Ship|ship]],
 
 and was coming nearly athwart us, being probably twelve or fifteen
 
@@ -54,17 +54,17 @@ laughing in an idiotic manner, jumping, stamping upon the deck, tearing
 
 their hair, and praying and cursing by turns. I was so affected by
 
-their conduct, as well as by what I now considered a sure prospect of
+their conduct, as [[Well|well]] as by what I now considered a sure prospect of
 
 deliverance, that I could not refrain from joining in with their
 
-madness, and gave way to the impulses of my gratitude and ecstasy by
+[[Madness|madness]], and gave way to the impulses of my gratitude and ecstasy by
 
-lying and rolling on the deck, clapping my hands, shouting, and other
+lying and [[rolling]] on the deck, clapping my hands, shouting, and other
 
 similar acts, until I was suddenly called to my recollection, and once
 
-more to the extreme of human misery and despair, by perceiving the ship
+more to the extreme of human misery and [[Despair|despair]], by perceiving the [[Ship|ship]]
 
 all at once with her stern fully presented towards us, and steering in
 
@@ -74,7 +74,7 @@ her.
 
 
 
-It was some time before I could induce my poor companions to believe
+It was some [[Time|time]] before I could induce my poor companions to believe
 
 that this sad reverse in our prospects had actually taken place. They
 
@@ -84,11 +84,11 @@ they were not to be deceived by such misrepresentations. The conduct of
 
 Augustus most sensibly affected me. In spite of all I could say or do
 
-to the contrary, he persisted in saying that the ship was rapidly
+to the contrary, he persisted in saying that the [[Ship|ship]] was rapidly
 
 nearing us, and in making preparations to go on board of her. Some
 
-seaweed floating by the brig, he maintained that it was the ship's
+seaweed floating by the brig, he maintained that it was the [[Ship|ship]]'s
 
 boat, and endeavoured to throw himself upon it, howling and shrieking
 
@@ -98,7 +98,7 @@ thus casting himself into the sea.
 
 
 
-Having become in some degree pacified, we continued to watch the ship
+Having become in some degree pacified, we continued to watch the [[Ship|ship]]
 
 until we finally lost sight of her, the weather becoming hazy, with a
 
@@ -106,7 +106,7 @@ light breeze springing up. As soon as she was entirely gone, Parker
 
 turned suddenly towards me with an expression of countenance which made
 
-me shudder. There was about him an air of self-possession which I had
+me shudder. There was about him an air of [[Self|self]]-possession which I had
 
 not noticed in him until now, and before he opened his lips my heart
 

@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 6)"
+title: "[[David Copperfield]] — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -22,7 +22,7 @@ running.
 
 ‘Good day, sir,’ said my aunt, ‘and good-bye! Good day to you, too,
 ma’am,’ said my aunt, turning suddenly upon his sister. ‘Let me see you
-ride a donkey over my green again, and as sure as you have a head upon
+ride a [[donkey]] over my green again, and as sure as you have a head upon
 your shoulders, I’ll knock your bonnet off, and tread upon it!’
 
 It would require a painter, and no common painter too, to depict my
@@ -30,8 +30,8 @@ aunt’s face as she delivered herself of this very unexpected sentiment,
 and Miss Murdstone’s face as she heard it. But the manner of the speech,
 no less than the matter, was so fiery, that Miss Murdstone, without a
 word in answer, discreetly put her arm through her brother’s, and walked
-haughtily out of the cottage; my aunt remaining in the window looking
-after them; prepared, I have no doubt, in case of the donkey’s
+haughtily out of the cottage; my aunt remaining in the [[Window|window]] looking
+after them; prepared, I have no [[Doubt|doubt]], in case of the [[donkey]]’s
 reappearance, to carry her threat into instant execution.
 
 No attempt at defiance being made, however, her face gradually relaxed,
@@ -41,7 +41,7 @@ her neck. I then shook hands with Mr. Dick, who shook hands with me a
 great many times, and hailed this happy close of the proceedings with
 repeated bursts of laughter.
 
-‘You’ll consider yourself guardian, jointly with me, of this child, Mr.
+‘You’ll consider yourself guardian, jointly with me, of this [[Child|child]], Mr.
 Dick,’ said my aunt.
 
 ‘I shall be delighted,’ said Mr. Dick, ‘to be the guardian of David’s
@@ -66,8 +66,8 @@ which were ordered to be made for me (a complete outfit was bespoke that
 afternoon) should be marked in the same way.
 
 Thus I began my new life, in a new name, and with everything new about
-me. Now that the state of doubt was over, I felt, for many days,
-like one in a dream. I never thought that I had a curious couple of
+me. Now that the state of [[Doubt|doubt]] was over, I felt, for many days,
+like one in [[A Dream|a dream]]. I never thought that I had a curious couple of
 guardians, in my aunt and Mr. Dick. I never thought of anything about
 myself, distinctly. The two things clearest in my mind were, that a
 remoteness had come upon the old Blunderstone life--which seemed to lie
@@ -75,8 +75,8 @@ in the haze of an immeasurable distance; and that a curtain had for ever
 fallen on my life at Murdstone and Grinby’s. No one has ever raised that
 curtain since. I have lifted it for a moment, even in this narrative,
 with a reluctant hand, and dropped it gladly. The remembrance of that
-life is fraught with so much pain to me, with so much mental suffering
-and want of hope, that I have never had the courage even to examine how
+life is fraught with so much [[Pain|pain]] to me, with so much mental [[Suffering|suffering]]
+and want of [[Hope|hope]], that I have never had the [[Courage|courage]] even to examine how
 long I was doomed to lead it. Whether it lasted for a year, or more, or
 less, I do not know. I only know that it was, and ceased to be; and that
 I have written, and there I leave it.

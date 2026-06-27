@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 31 (part 3)"
+title: "[[Villette]] — Chapter 31 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -15,7 +15,7 @@ tags:
 
 
 “Mademoiselle, neither titles nor crowned heads excite my modesty; and
-publicity is very much my element. I like it well, and breathe in it
+publicity is very much my element. I like it [[Well|well]], and breathe in it
 quite freely;—but—but, in short, here is the sentiment brought into
 action, at this very moment; however, I disdain to be worsted by it.
 If, Mademoiselle, I were a marrying man (which I am not; and you may
@@ -30,7 +30,7 @@ sincerity of esteem which made my heart ache.
 “As to the St. Pierre,” he went on, recovering himself, for his voice
 had altered a little, “she once intended to be Madame Emanuel; and I
 don’t know whither I might have been led, but for yonder little lattice
-with the light. Ah, magic lattice! what miracles of discovery hast thou
+with the light. Ah, [[Magic|magic]] lattice! what miracles of discovery hast thou
 wrought! Yes,” he pursued, “I have seen her rancours, her vanities, her
 levities—not only here, but elsewhere: I have witnessed what bucklers
 me against all her arts: I am safe from poor Zélie.”
@@ -39,7 +39,7 @@ me against all her arts: I am safe from poor Zélie.”
 filles—so mild and meek—I have seen the most reserved—romp like boys,
 the demurest—snatch grapes from the walls, shake pears from the trees.
 When the English teacher came, I saw her, marked her early preference
-for this alley, noticed her taste for seclusion, watched her well, long
+for this alley, noticed her taste for seclusion, watched her [[Well|well]], long
 before she and I came to speaking terms; do you recollect my once
 coming silently and offering you a little knot of white violets when we
 were strangers?”
@@ -50,16 +50,16 @@ were strangers?”
 prudery—that sentiment which I ever dread to excite, and which, when it
 is revealed in eye or gesture, I vindictively detest. To return. Not
 only did _I_ watch you; but often—especially at eventide—another
-guardian angel was noiselessly hovering near: night after night my
+guardian angel was noiselessly hovering near: [[Night|night]] after [[Night|night]] my
 cousin Beck has stolen down yonder steps, and glidingly pursued your
 movements when you did not see her.”
 
-“But, Monsieur, you could not from the distance of that window see what
-passed in this garden at night?”
+“But, Monsieur, you could not from the distance of that [[Window|window]] see what
+passed in this [[Garden|garden]] at [[Night|night]]?”
 
 “By moonlight I possibly might with a glass—I use a glass—but the
-garden itself is open to me. In the shed, at the bottom, there is a
-door leading into a court, which communicates with the college; of that
+[[Garden|garden]] itself is open to me. In the shed, at the [[Bottom|bottom]], there is a
+door leading into a [[Court|court]], which communicates with the college; of that
 door I possess the key, and thus come and go at pleasure. This
 afternoon I came through it, and found you asleep in classe; again this
 evening I have availed myself of the same entrance.”
@@ -69,7 +69,7 @@ terrible would all this be!”
 
 His attention seemed incapable of being arrested by this view of the
 subject: he lit his cigar, and while he puffed it, leaning against a
-tree, and looking at me in a cool, amused way he had when his humour
+tree, and looking at me in a cool, amused way he had when his [[Humour|humour]]
 was tranquil, I thought proper to go on sermonizing him: he often
 lectured me by the hour together—I did not see why I should not speak
 my mind for once. So I told him my impressions concerning his
@@ -84,15 +84,15 @@ often, in your high insular presence, have I taken a pleasure in
 trampling upon, what you are pleased to call, my dignity; tearing it,
 scattering it to the winds, in those mad transports you witness with
 such hauteur, and which I know you think very like the ravings of a
-third-rate London actor.”
+third-rate [[London]] actor.”
 
 “Monsieur, I tell you every glance you cast from that lattice is a
-wrong done to the best part of your own nature. To study the human
+wrong done to the best part of your own [[Nature|nature]]. To study the human
 heart thus, is to banquet secretly and sacrilegiously on Eve’s apples.
 I wish you were a Protestant.”
 
 Indifferent to the wish, he smoked on. After a space of smiling yet
-thoughtful silence, he said, rather suddenly—“I have seen other
+thoughtful [[Silence|silence]], he said, rather suddenly—“I have seen other
 things.”
 
 “What other things?”
@@ -105,25 +105,25 @@ me?”
 
 He took a turn down the walk; presently returning, he went on:—“I have
 seen, Miss Lucy, things to me unaccountable, that have made me watch
-all night for a solution, and I have not yet found it.”
+all [[Night|night]] for a solution, and I have not yet found it.”
 
 The tone was peculiar; my veins thrilled; he saw me shiver.
 
 “Are you afraid? Whether is it of my words or that red jealous eye just
 winking itself out?”
 
-“I am cold; the night grows dark and late, and the air is changed; it
-is time to go in.”
+“I am cold; the [[Night|night]] grows dark and late, and the air is changed; it
+is [[Time|time]] to go in.”
 
 “It is little past eight, but you shall go in soon. Answer me only this
 question.”
 
-Yet he paused ere he put it. The garden was truly growing dark; dusk
+Yet he paused ere he put it. The [[Garden|garden]] was truly growing dark; dusk
 had come on with clouds, and drops of rain began to patter through the
 trees. I hoped he would feel this, but, for the moment, he seemed too
 much absorbed to be sensible of the change.
 
-“Mademoiselle, do you Protestants believe in the supernatural?”
+“Mademoiselle, do you Protestants believe in the [[Supernatural|supernatural]]?”
 
 “There is a difference of theory and belief on this point amongst
 Protestants as amongst other sects,” I answered. “Why, Monsieur, do you
@@ -142,7 +142,7 @@ subjects. I dislike it the more because—”
 
 “Yes; not many months ago.”
 
-“Here?—in this house?”
+“Here?—in this [[house]]?”
 
 “Yes.”
 
@@ -163,28 +163,28 @@ had my ‘impressions.’”
 
 “Monsieur, tell me them.”
 
-“I desire no better, and intend no less. You know the legend of this
-house and garden?”
+“I [[Desire|desire]] no better, and intend no less. You know the legend of this
+[[house]] and [[Garden|garden]]?”
 
 “I know it. Yes. They say that hundreds of years ago a nun was buried
 here alive at the foot of this very tree, beneath the ground which now
 bears us.”
 
-“And that in former days a nun’s ghost used to come and go here.”
+“And that in former days a nun’s [[Ghost|ghost]] used to come and go here.”
 
 “Monsieur, what if it comes and goes here still?”
 
-“Something comes and goes here: there is a shape frequenting this house
-by night, different to any forms that show themselves by day. I have
+“Something comes and goes here: there is a shape frequenting this [[house]]
+by [[Night|night]], different to any forms that show themselves by day. I have
 indisputably seen a something, more than once; and to me its conventual
 weeds were a strange sight, saying more than they can do to any other
 living being. A nun!”
 
 “Monsieur, I, too, have seen it.”
 
-“I anticipated that. Whether this nun be flesh and blood, or something
-that remains when blood is dried, and flesh is wasted, her business is
-as much with you as with me, probably. Well, I mean to make it out; it
+“I anticipated that. Whether this nun be flesh and [[Blood|blood]], or something
+that remains when [[Blood|blood]] is dried, and flesh is wasted, her business is
+as much with you as with me, probably. [[Well]], I mean to make it out; it
 has baffled me so far, but I mean to follow up the mystery. I mean—”
 
 Instead of telling what he meant, he raised his head suddenly; I made
@@ -197,12 +197,12 @@ crushed against the massive trunk. Yes; there scarce stirred a breeze,
 and that heavy tree was convulsed, whilst the feathery shrubs stood
 still. For some minutes amongst the wood and leafage a rending and
 heaving went on. Dark as it was, it seemed to me that something more
-solid than either night-shadow, or branch-shadow, blackened out of the
+solid than either [[Night|night]]-[[Shadow|shadow]], or branch-[[Shadow|shadow]], blackened out of the
 boles. At last the struggle ceased. What birth succeeded this travail?
 What Dryad was born of these throes? We watched fixedly. A sudden bell
-rang in the house—the prayer-bell. Instantly into our alley there came,
+rang in the [[house]]—the [[Prayer|prayer]]-bell. Instantly into our alley there came,
 out of the berceau, an apparition, all black and white. With a sort of
 angry rush-close, close past our faces—swept swiftly the very NUN
 herself! Never had I seen her so clearly. She looked tall of stature,
-and fierce of gesture. As she went, the wind rose sobbing; the rain
-poured wild and cold; the whole night seemed to feel her.
+and fierce of gesture. As she went, the [[Wind|wind]] [[Rose|rose]] sobbing; the rain
+poured wild and cold; the whole [[Night|night]] seemed to feel her.

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 13 (part 4)"
+title: "[[Shirley]] — Chapter 13 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -28,11 +28,11 @@ difference."
 
 
 
-"My dear, you should go from home."
+"My dear, you should go from [[Home|home]]."
 
 
 
-"Mrs. Pryor, I should like to go from home, but not on any purposeless
+"Mrs. Pryor, I should like to go from [[Home|home]], but not on any purposeless
 
 excursion or visit. I wish to be a governess, as you have been. It would
 
@@ -40,7 +40,7 @@ oblige me greatly if you would speak to my uncle on the subject."
 
 
 
-"Nonsense!" broke in Shirley. "What an idea! Be a governess! Better be a
+"Nonsense!" broke in [[Shirley]]. "What an idea! Be a governess! Better be a
 
 slave at once. Where is the necessity of it? Why should you dream of
 
@@ -60,17 +60,17 @@ severe."
 
 
 
-"Occupy you!" cried Shirley. "When are you idle? I never saw a more
+"Occupy you!" cried [[Shirley]]. "When are you idle? I never saw a more
 
 industrious girl than you. You are always at work. Come," she
 
 continued--"come and sit by my side, and take some tea to refresh you.
 
-You don't care much for my friendship, then, that you wish to leave me?"
+You don't care much for my [[Friendship|friendship]], then, that you wish to leave me?"
 
 
 
-"Indeed I do, Shirley; and I don't wish to leave you. I shall never find
+"Indeed I do, [[Shirley]]; and I don't wish to leave you. I shall never find
 
 another friend so dear."
 
@@ -78,7 +78,7 @@ another friend so dear."
 
 At which words Miss Keeldar put her hand into Caroline's with an
 
-impulsively affectionate movement, which was well seconded by the
+impulsively affectionate movement, which was [[Well|well]] seconded by the
 
 expression of her face.
 
@@ -96,13 +96,13 @@ think of exchanging an old-fashioned mother for something modish and
 
 stylish. As for you--why, I began to flatter myself we were thoroughly
 
-friends; that you liked Shirley almost as well as Shirley likes you, and
+friends; that you liked [[Shirley]] almost as [[Well|well]] as [[Shirley]] likes you, and
 
 she does not stint her regard."
 
 
 
-"I _do_ like Shirley. I like her more and more every day. But that does
+"I _do_ like [[Shirley]]. I like her more and more every day. But that does
 
 not make me strong or happy."
 
@@ -112,7 +112,7 @@ not make me strong or happy."
 
 amongst utter strangers? It would not. And the experiment must not be
 
-tried; I tell you it would fail. It is not in your nature to bear the
+tried; I tell you it would fail. It is not in your [[Nature|nature]] to bear the
 
 desolate life governesses generally lead; you would fall ill. I won't
 
@@ -132,7 +132,7 @@ quiet, shrewd, thoughtful companion and monitress is coming back to me;
 
 that I shall have her sitting in the room to look at, to talk to or to
 
-let alone, as she and I please. This may be a selfish sort of
+let [[Alone|alone]], as she and I please. This may be a selfish sort of
 
 language--I know it is--but it is the language which naturally rises to
 
@@ -140,7 +140,7 @@ my lips, therefore I utter it."
 
 
 
-"I would write to you, Shirley."
+"I would write to you, [[Shirley]]."
 
 
 
@@ -148,7 +148,7 @@ my lips, therefore I utter it."
 
 Caroline. Eat something--you eat nothing. Laugh and be cheerful, and
 
-stay at home."
+stay at [[Home|home]]."
 
 
 
@@ -162,7 +162,7 @@ her own judgment, she thought she should be able to find perhaps a harsh
 
 but an effectual cure for her sufferings. But this judgment, founded on
 
-circumstances she could fully explain to none, least of all to Shirley,
+circumstances she could fully explain to none, least of all to [[Shirley]],
 
 seemed, in all eyes but her own, incomprehensible and fantastic, and
 
@@ -172,7 +172,7 @@ was opposed accordingly.
 
 There really was no present pecuniary need for her to leave a
 
-comfortable home and "take a situation;" and there was every probability
+comfortable [[Home|home]] and "take a situation;" and there was every probability
 
 that her uncle might, in some way, permanently provide for her. So her
 
@@ -188,19 +188,19 @@ and hopeless to explain; to wait and endure was her only plan. Many that
 
 want food and clothing have cheerier lives and brighter prospects than
 
-she had; many, harassed by poverty, are in a strait less afflictive.
+she had; many, harassed by [[Poverty|poverty]], are in a strait less afflictive.
 
 
 
-"Now, is your mind quieted?" inquired Shirley. "Will you consent to stay
+"Now, is your mind quieted?" inquired [[Shirley]]. "Will you consent to stay
 
-at home?"
+at [[Home|home]]?"
 
 
 
 "I shall not leave it against the approbation of my friends," was the
 
-reply; "but I think in time they will be obliged to think as I do."
+reply; "but I think in [[Time|time]] they will be obliged to think as I do."
 
 
 
@@ -212,7 +212,7 @@ interrogate others closely. She could think a multitude of questions she
 
 never ventured to put, give advice in her mind which her tongue never
 
-delivered. Had she been alone with Caroline, she might possibly have
+delivered. Had she been [[Alone|alone]] with Caroline, she might possibly have
 
 said something to the point: Miss Keeldar's presence, accustomed as she
 
@@ -222,15 +222,15 @@ inexplicable nervous scruples kept her back from interfering. She merely
 
 showed her concern for Miss Helstone in an indirect way, by asking her
 
-if the fire made her too warm, placing a screen between her chair and
+if the [[Fire|fire]] made her too warm, placing a screen between her chair and
 
-the hearth, closing a window whence she imagined a draught proceeded,
+the hearth, closing a [[Window|window]] whence she imagined a draught proceeded,
 
-and often and restlessly glancing at her. Shirley resumed: "Having
+and often and restlessly glancing at her. [[Shirley]] resumed: "Having
 
-destroyed your plan," she said, "which I hope I have done, I shall
+destroyed your plan," she said, "which I [[Hope|hope]] I have done, I shall
 
-construct a new one of my own. Every summer I make an excursion. This
+construct a new one of my own. Every [[Summer|summer]] I make an excursion. This
 
 season I propose spending two months either at the Scotch lochs or the
 
@@ -240,7 +240,7 @@ accompany me. If you refuse, I shall not stir a foot."
 
 
 
-"You are very good, Shirley."
+"You are very good, [[Shirley]]."
 
 
 

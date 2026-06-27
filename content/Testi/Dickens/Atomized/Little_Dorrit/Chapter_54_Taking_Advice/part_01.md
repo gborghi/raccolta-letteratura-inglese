@@ -23,15 +23,15 @@ Lords of their Circumlocution Office, they took it as a piece of news
 with which they had no nearer concern than with any other piece of
 news--any other Accident or Offence--in the English papers. Some
 laughed; some said, by way of complete excuse, that the post was
-virtually a sinecure, and any fool who could spell his name was good
+virtually a sinecure, and any [[Fool|fool]] who could spell his name was good
 enough for it; some, and these the more solemn political oracles,
 said that Decimus did wisely to strengthen himself, and that the sole
 constitutional purpose of all places within the gift of Decimus, was,
 that Decimus _should_ strengthen himself. A few bilious Britons there were
-who would not subscribe to this article of faith; but their objection
+who would not subscribe to this article of [[Faith|faith]]; but their objection
 was purely theoretical. In a practical point of view, they listlessly
 abandoned the matter, as being the business of some other Britons
-unknown, somewhere, or nowhere. In like manner, at home, great numbers
+unknown, somewhere, or nowhere. In like manner, at [[Home|home]], great numbers
 of Britons maintained, for as long as four-and-twenty consecutive hours,
 that those invisible and anonymous Britons ‘ought to take it up;’ and
 that if they quietly acquiesced in it, they deserved it. But of what
@@ -44,21 +44,21 @@ shore of the black Thames, made apparent to men.
 
 Mrs Merdle circulated the news, as she received congratulations on it,
 with a careless grace that displayed it to advantage, as the setting
-displays the jewel. Yes, she said, Edmund had taken the place. Mr Merdle
-wished him to take it, and he had taken it. She hoped Edmund might like
+displays the [[Jewel|jewel]]. Yes, she said, [[Edmund]] had taken the place. [[Mr Merdle]]
+wished him to take it, and he had taken it. She hoped [[Edmund]] might like
 it, but really she didn’t know. It would keep him in town a good
 deal, and he preferred the country. Still, it was not a disagreeable
 position--and it was a position. There was no denying that the thing
-was a compliment to Mr Merdle, and was not a bad thing for Edmund if he
-liked it. It was just as well that he should have something to do, and
-it was just as well that he should have something for doing it. Whether
-it would be more agreeable to Edmund than the army, remained to be seen.
+was a compliment to [[Mr Merdle]], and was not a bad thing for [[Edmund]] if he
+liked it. It was just as [[Well|well]] that he should have something to do, and
+it was just as [[Well|well]] that he should have something for doing it. Whether
+it would be more agreeable to [[Edmund]] than the army, remained to be seen.
 
 Thus the Bosom; accomplished in the art of seeming to make things of
 small account, and really enhancing them in the process. While Henry
 Gowan, whom Decimus had thrown away, went through the whole round of
 his acquaintance between the Gate of the People and the town of Albano,
-vowing, almost (but not quite) with tears in his eyes, that Sparkler was
+vowing, almost (but not quite) with [[Tears|tears]] in his eyes, that Sparkler was
 the sweetest-tempered, simplest-hearted, altogether most lovable jackass
 that ever grazed on the public common; and that only one circumstance
 could have delighted him (Gowan) more, than his (the beloved jackass’s)
@@ -67,7 +67,7 @@ himself. He said it was the very thing for Sparkler. There was nothing
 to do, and he would do it charmingly; there was a handsome salary to
 draw, and he would draw it charmingly; it was a delightful, appropriate,
 capital appointment; and he almost forgave the donor his slight of
-himself, in his joy that the dear donkey for whom he had so great an
+himself, in his joy that the dear [[donkey]] for whom he had so great an
 affection was so admirably stabled. Nor did his benevolence stop here.
 He took pains, on all social occasions, to draw Mr Sparkler out, and
 make him conspicuous before the company; and, although the considerate
@@ -87,8 +87,8 @@ whether to get rid of him or more decidedly encourage him, distracted
 with apprehensions that she was every day becoming more and more
 immeshed in her uncertainties, and tortured by misgivings that Mrs
 Merdle triumphed in her distress. With this tumult in her mind, it is no
-subject for surprise that Miss Fanny came home one night in a state
-of agitation from a concert and ball at Mrs Merdle’s house, and on her
+subject for surprise that Miss Fanny came [[Home|home]] one [[Night|night]] in a state
+of agitation from a concert and ball at Mrs Merdle’s [[house]], and on her
 sister affectionately trying to soothe her, pushed that sister away from
 the toilette-table at which she sat angrily trying to cry, and declared
 with a heaving bosom that she detested everybody, and she wished she was
@@ -111,10 +111,10 @@ Immediately afterwards, she became remorseful for having called her
 sister names; declaring with sobs that she knew she made herself
 hateful, but that everybody drove her to it.
 
-‘I don’t think you are well to-night, dear Fanny.’
+‘I don’t think you are [[Well|well]] to-[[Night|night]], dear Fanny.’
 
 ‘Stuff and nonsense!’ replied the young lady, turning angry again; ‘I am
-as well as you are. Perhaps I might say better, and yet make no boast of
+as [[Well|well]] as you are. Perhaps I might say better, and yet make no boast of
 it.’
 
 Poor Little Dorrit, not seeing her way to the offering of any soothing

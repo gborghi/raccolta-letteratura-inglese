@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 12: TWELVE (part 5)"
+title: "[[Martin Chuzzlewit]] — Chapter 12: TWELVE (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -32,7 +32,7 @@ knowledge of another, and saw him in a true light, and in his own proper
 colours, Tom has that knowledge of Mr Pecksniff.’
 
 ‘Why, of course I have,’ cried Tom. ‘That’s exactly what I have so often
-said to you. If you knew him as well as I do--John, I’d give almost any
+said to you. If you knew him as [[Well|well]] as I do--John, I’d give almost any
 money to bring that about--you’d admire, respect, and reverence him. You
 couldn’t help it. Oh, how you wounded his feelings when you went away!’
 
@@ -49,23 +49,23 @@ silenced when Mr Pecksniff’s merits were once in question, continued
 notwithstanding.
 
 ‘HIS feelings! Oh, he’s a tender-hearted man. HIS feelings! Oh, he’s a
-considerate, conscientious, self-examining, moral vagabond, he is! HIS
+considerate, conscientious, [[Self|self]]-examining, moral vagabond, he is! HIS
 feelings! Oh!--what’s the matter, Tom?’
 
-Mr Pinch was by this time erect upon the hearth-rug, buttoning his coat
+Mr Pinch was by this [[Time|time]] erect upon the hearth-rug, buttoning his coat
 with great energy.
 
 ‘I can’t bear it,’ said Tom, shaking his head. ‘No. I really cannot. You
-must excuse me, John. I have a great esteem and friendship for you;
-I love you very much; and have been perfectly charmed and overjoyed
+must excuse me, John. I have a great esteem and [[Friendship|friendship]] for you;
+I [[Love|love]] you very much; and have been perfectly charmed and overjoyed
 to-day, to find you just the same as ever; but I cannot listen to this.’
 
 ‘Why, it’s my old way, Tom; and you say yourself that you are glad to
 find me unchanged.’
 
-‘Not in this respect,’ said Tom Pinch. ‘You must excuse me, John. I
+‘Not in this respect,’ said [[Tom Pinch]]. ‘You must excuse me, John. I
 cannot, really; I will not. It’s very wrong; you should be more guarded
-in your expressions. It was bad enough when you and I used to be alone
+in your expressions. It was bad enough when you and I used to be [[Alone|alone]]
 together, but under existing circumstances, I can’t endure it, really.
 No. I cannot, indeed.’
 
@@ -78,7 +78,7 @@ your being so ungenerous in this one solitary instance, only grieves
 me the more. It’s not my pardon you have to ask, John. You have done ME
 nothing but kindnesses.’
 
-‘Well! Pecksniff’s pardon then,’ said young Westlock. ‘Anything Tom,
+‘[[Well]]! Pecksniff’s pardon then,’ said young Westlock. ‘Anything Tom,
 or anybody. Pecksniff’s pardon--will that do? Here! let us drink
 Pecksniff’s health!’
 
@@ -89,14 +89,14 @@ Pecksniff’s health, and prosperity to him!’
 John Westlock echoed the sentiment, or nearly so; for he drank Mr
 Pecksniff’s health, and Something to him--but what, was not quite
 audible. The general unanimity being then completely restored, they drew
-their chairs closer round the fire, and conversed in perfect harmony and
-enjoyment until bed-time.
+their chairs closer round the [[Fire|fire]], and conversed in perfect harmony and
+enjoyment until bed-[[Time|time]].
 
 No slight circumstance, perhaps, could have better illustrated the
-difference of character between John Westlock and Martin Chuzzlewit,
-than the manner in which each of the young men contemplated Tom Pinch,
+difference of character between John Westlock and [[Martin Chuzzlewit]],
+than the manner in which each of the young men contemplated [[Tom Pinch]],
 after the little rupture just described. There was a certain amount of
-jocularity in the looks of both, no doubt, but there all resemblance
+jocularity in the looks of both, no [[Doubt|doubt]], but there all resemblance
 ceased. The old pupil could not do enough to show Tom how cordially he
 felt towards him, and his friendly regard seemed of a graver and more
 thoughtful kind than before. The new one, on the other hand, had no
@@ -130,11 +130,11 @@ and to return it with many thanks. Here it is. I suppose it’s a good
 one, but he is rather a doubtful kind of customer, Tom.’
 
 Mr Pinch received the little piece of gold with a face whose brightness
-might have shamed the metal; and said he had no fear about that. He
+might have shamed the metal; and said he had no [[Fear|fear]] about that. He
 was glad, he added, to find Mr Tigg so prompt and honourable in his
 dealings; very glad.
 
-‘Why, to tell you the truth, Tom,’ replied his friend, ‘he is not always
+‘Why, to tell you the [[Truth|truth]], Tom,’ replied his friend, ‘he is not always
 so. If you’ll take my advice, you’ll avoid him as much as you can, in
 the event of your encountering him again. And by no means, Tom--pray
 bear this in mind, for I am very serious--by no means lend him money any

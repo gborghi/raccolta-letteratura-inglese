@@ -1,5 +1,5 @@
 ---
-title: "debate — OICE:  Yes he is."
+title: "[[debate]] — OICE:  Yes he is."
 author: "Chesterton"
 unitType: story
 parentWork: "Works/debate-(Chesterton)"

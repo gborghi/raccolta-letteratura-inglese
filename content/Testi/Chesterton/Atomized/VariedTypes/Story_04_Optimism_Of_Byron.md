@@ -1,5 +1,5 @@
 ---
-title: "VariedTypes — Optimism Of Byron"
+title: "[[VariedTypes]] — Optimism Of Byron"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/VariedTypes-(Chesterton)"
@@ -22,7 +22,7 @@ OPTIMISM OF BYRON
 
 Everything is against our appreciating the spirit and the age of
 
-Byron. The age that has just passed from us is always like a dream when
+Byron. The age that has just passed from us is always like [[A Dream|a dream]] when
 
 we wake in the morning, a thing incredible and centuries away. And the
 
@@ -46,15 +46,15 @@ less ready shall we be to make use of the word "artificial." Nothing in
 
 the world has ever been artificial. Many customs, many dresses, many
 
-works of art are branded with artificiality because they exhibit vanity
+works of art are branded with artificiality because they exhibit [[Vanity|vanity]]
 
-and self-consciousness: as if vanity were not a deep and elemental
+and [[Self|self]]-consciousness: as if [[Vanity|vanity]] were not a deep and elemental
 
-thing, like love and hate and the fear of death. Vanity may be found in
+thing, like [[Love|love]] and hate and the [[Fear|fear]] of [[Death|death]]. [[Vanity]] may be found in
 
 darkling deserts, in the hermit and in the wild beasts that crawl around
 
-him. It may be good or evil, but assuredly it is not artificial: vanity
+him. It may be good or evil, but assuredly it is not artificial: [[Vanity|vanity]]
 
 is a voice out of the abyss.
 
@@ -68,29 +68,29 @@ remote and the product of some other age or spirit, we think it not
 
 savage or terrible, but merely artificial. There are many instances of
 
-this: a fair one is the case of tropical plants and birds. When we see
+this: a fair one is the case of tropical plants and [[Birds|birds]]. When we see
 
 some of the monstrous and flamboyant blossoms that enrich the equatorial
 
-woods, we do not feel that they are conflagrations of nature; silent
+woods, we do not feel that they are conflagrations of [[Nature|nature]]; silent
 
 explosions of her frightful energy. We simply find it hard to believe
 
-that they are not wax flowers grown under a glass case. When we see some
+that they are not wax [[Flowers|flowers]] grown under a glass case. When we see some
 
-of the tropic birds, with their tiny bodies attached to gigantic beaks,
+of the tropic [[Birds|birds]], with their tiny bodies attached to gigantic beaks,
 
-we do not feel that they are freaks of the fierce humour of Creation.
+we do not feel that they are freaks of the fierce [[Humour|humour]] of Creation.
 
-We almost believe that they are toys out of a child's play-box,
+We almost believe that they are toys out of a [[Child|child]]'s play-box,
 
 artificially carved and artificially coloured. So it is with the great
 
-convulsion of Nature which was known as Byronism. The volcano is not an
+convulsion of [[Nature]] which was known as Byronism. The volcano is not an
 
 extinct volcano now; it is the dead stick of a rocket. It is the remains
 
-not of a natural but of an artificial fire.
+not of a natural but of an artificial [[Fire|fire]].
 
 
 
@@ -124,11 +124,11 @@ extolled to the disadvantage of everything else.
 
 One after another almost every one of the phenomena of the universe has
 
-been declared to be alone capable of making life worth living. Books,
+been declared to be [[Alone|alone]] capable of making life worth living. Books,
 
-love, business, religion, alcohol, abstract truth, private emotion,
+[[Love|love]], business, religion, alcohol, abstract [[Truth|truth]], private emotion,
 
-money, simplicity, mysticism, hard work, a life close to nature, a life
+money, simplicity, mysticism, hard work, a life close to [[Nature|nature]], a life
 
 close to Belgrave Square are every one of them passionately maintained
 
@@ -142,11 +142,11 @@ detail.
 
 
 
-Existence has been praised and absolved by a chorus of pessimists. The
+Existence has been praised and absolved by a [[Chorus|chorus]] of pessimists. The
 
 work of giving thanks to Heaven is, as it were, divided ingeniously
 
-among them. Schopenhauer is told off as a kind of librarian in the House
+among them. Schopenhauer is told off as a kind of librarian in the [[house|House]]
 
 of God, to sing the praises of the austere pleasures of the mind.
 
@@ -154,15 +154,15 @@ Carlyle, as steward, undertakes the working department and eulogises a
 
 life of labour in the fields. Omar Khayyam is established in the
 
-cellar, and swears that it is the only room in the house. Even the
+cellar, and swears that it is the only room in the [[house]]. Even the
 
 blackest of pessimistic artists enjoys his art. At the precise moment
 
 that he has written some shameless and terrible indictment of Creation,
 
-his one pang of joy in the achievement joins the universal chorus of
+his one pang of joy in the achievement joins the universal [[Chorus|chorus]] of
 
-gratitude, with the scent of the wild flower and the song of the bird.
+gratitude, with the scent of the wild flower and the [[Song|song]] of the bird.
 
 
 
@@ -182,9 +182,9 @@ pessimism is an oddity; it is almost a contradiction in terms. Men would
 
 no more receive the news of the failure of existence or of the
 
-harmonious hostility of the stars with ardour or popular rejoicing than
+harmonious hostility of the [[Stars|stars]] with ardour or popular rejoicing than
 
-they would light bonfires for the arrival of cholera or dance a
+they would light bonfires for the arrival of cholera or [[Dance|dance]] a
 
 breakdown when they were condemned to be hanged. When the pessimist is
 
@@ -194,7 +194,7 @@ because he shows some things to be good.
 
 
 
-Men can only join in a chorus of praise, even if it is the praise of
+Men can only join in a [[Chorus|chorus]] of praise, even if it is the praise of
 
 denunciation. The man who is popular must be optimistic about something,
 
@@ -208,7 +208,7 @@ they praised something. They heaped curses upon man, but they used man
 
 merely as a foil. The things they wished to praise by comparison were
 
-the energies of Nature. Man was to them what talk and fashion were to
+the energies of [[Nature]]. Man was to them what talk and fashion were to
 
 Carlyle, what philosophical and religious quarrels were to Omar, what
 
@@ -218,31 +218,31 @@ which must be censured in order that somebody else may be exalted. It
 
 was merely a recognition of the fact that one cannot write in white
 
-chalk except on a black-board.
+[[chalk]] except on a black-board.
 
 
 
-Surely it is ridiculous to maintain seriously that Byron's love of the
+Surely it is ridiculous to maintain seriously that Byron's [[Love|love]] of the
 
-desolate and inhuman in nature was the mark of vital scepticism and
+desolate and inhuman in [[Nature|nature]] was the mark of vital scepticism and
 
-depression. When a young man can elect deliberately to walk alone in
+depression. When a young man can elect deliberately to walk [[Alone|alone]] in
 
-winter by the side of the shattering sea, when he takes pleasure in
+[[Winter|winter]] by the side of the shattering sea, when he takes pleasure in
 
-storms and stricken peaks, and the lawless melancholy of the older
+storms and stricken peaks, and the lawless [[Melancholy|melancholy]] of the older
 
-earth, we may deduce with the certainty of logic that he is very young
+earth, we may deduce with the certainty of [[logic]] that he is very young
 
 and very happy. There is a certain darkness which we see in wine when
 
-seen in shadow; we see it again in the night that has just buried a
+seen in [[Shadow|shadow]]; we see it again in the [[Night|night]] that has just buried a
 
-gorgeous sunset. The wine seems black, and yet at the same time
+gorgeous sunset. The wine seems black, and yet at the same [[Time|time]]
 
 powerfully and almost impossibly red; the sky seems black, and yet at
 
-the same time to be only too dense a blend of purple and green. Such was
+the same [[Time|time]] to be only too dense a blend of purple and green. Such was
 
 the darkness which lay around the Byronic school. Darkness with them was
 
@@ -254,7 +254,7 @@ flaming like their own firesides.
 
 
 
-Matters are very different with the more modern school of doubt and
+Matters are very different with the more modern school of [[Doubt|doubt]] and
 
 lamentation. The last movement of pessimism is perhaps expressed in Mr.
 
@@ -264,7 +264,7 @@ pessimism which tends naturally not towards the oldest elements of the
 
 cosmos, but towards the last and most fantastic fripperies of artificial
 
-life. Byronism tended towards the desert; the new pessimism towards the
+life. Byronism tended towards the [[Desert|desert]]; the new pessimism towards the
 
 restaurant. Byronism was a revolt against artificiality; the new
 
@@ -278,25 +278,25 @@ going a step deeper into the avenues of the unreal, has positively an
 
 affectation of affectation. And it is by their fopperies and their
 
-frivolities that we know that their sinister philosophy is sincere; in
+frivolities that we know that their sinister [[philosophy]] is sincere; in
 
-their lights and garlands and ribbons we read their indwelling despair.
+their lights and garlands and ribbons we read their indwelling [[Despair|despair]].
 
 It was so, indeed, with Byron himself; his really bitter moments were
 
-his frivolous moments. He went on year after year calling down fire
+his frivolous moments. He went on year after year calling down [[Fire|fire]]
 
-upon mankind, summoning the deluge and the destructive sea and all the
+upon mankind, summoning the [[deluge]] and the destructive sea and all the
 
-ultimate energies of nature to sweep away the cities of the spawn of
+ultimate energies of [[Nature|nature]] to sweep away the cities of the spawn of
 
 man. But through all this his subconscious mind was not that of a
 
 despairer; on the contrary, there is something of a kind of lawless
 
-faith in thus parleying with such immense and immemorial brutalities. It
+[[Faith|faith]] in thus parleying with such immense and immemorial brutalities. It
 
-was not until the time in which he wrote "Don Juan" that he really lost
+was not until the [[Time|time]] in which he wrote "Don Juan" that he really lost
 
 this inward warmth and geniality, and a sudden shout of hilarious
 
@@ -310,7 +310,7 @@ One of the best tests in the world of what a poet really means is his
 
 metre. He may be a hypocrite in his metaphysics, but he cannot be a
 
-hypocrite in his prosody. And all the time that Byron's language is of
+hypocrite in his prosody. And all the [[Time|time]] that Byron's language is of
 
 horror and emptiness, his metre is a bounding _pas de quatre_. He may
 
@@ -318,15 +318,15 @@ arraign existence on the most deadly charges, he may condemn it with the
 
 most desolating verdict, but he cannot alter the fact that on some walk
 
-in a spring morning when all the limbs are swinging and all the blood
+in a [[spring]] morning when all the limbs are swinging and all the [[Blood|blood]]
 
-alive in the body, the lips may be caught repeating:
+alive in the [[Body|body]], the lips may be caught repeating:
 
 
 
   "Oh, there's not a joy the world can give like that it takes away,
 
-  When the glow of early youth declines in beauty's dull decay;
+  When the glow of early youth declines in [[Beauty|beauty]]'s dull [[Decay|decay]];
 
   'Tis not upon the cheek of youth the blush that fades so fast,
 
@@ -338,13 +338,13 @@ That automatic recitation is the answer to the whole pessimism of Byron.
 
 
 
-The truth is that Byron was one of a class who may be called the
+The [[Truth|truth]] is that Byron was one of a class who may be called the
 
 unconscious optimists, who are very often, indeed, the most
 
 uncompromising conscious pessimists, because the exuberance of their
 
-nature demands for an adversary a dragon as big as the world. But the
+[[Nature|nature]] demands for an adversary a dragon as big as the world. But the
 
 whole of his essential and unconscious being was spirited and confident,
 
@@ -354,7 +354,7 @@ artifices, suddenly sprang into prominence in the face of a cold, hard,
 
 political necessity. In Greece he heard the cry of reality, and at the
 
-time that he was dying, he began to live. He heard suddenly the call of
+[[Time|time]] that he was dying, he began to live. He heard suddenly the call of
 
 that buried and subconscious happiness which is in all of us, and which
 

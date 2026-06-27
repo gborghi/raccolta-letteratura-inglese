@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE HOLE IN THE WALL (part 7)"
+title: "[[manwho]] — THE HOLE IN THE WALL (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -52,7 +52,7 @@ no--there are no marks on it."
 
 
 
-"It has shed no blood," answered Fisher, "but for all that it has
+"It has shed no [[Blood|blood]]," answered Fisher, "but for all that it has
 
 committed a crime. This is as near as the criminal came to the crime
 
@@ -70,9 +70,9 @@ sort of murderer who can't murder people when he isn't there."
 
 
 
-"You seem to be talking merely for the sake of mystification," said
+"You seem to be talking merely for the sake of [[Mystification|mystification]]," said
 
-Brain. "If you have any practical advice to give you might as well
+Brain. "If you have any practical advice to give you might as [[Well|well]]
 
 make it intelligible."
 
@@ -98,7 +98,7 @@ said Brain, with a sneer, "to help me avenge my friend?"
 
 
 
-"Well," said Fisher, "I should find out the truth about the Hole in
+"[[Well]]," said Fisher, "I should find out the [[Truth|truth]] about the Hole in
 
 the Wall."
 
@@ -110,21 +110,21 @@ the Wall."
 
 
 
-That night, at the close of a stormy twilight and under a strong
+That [[Night|night]], at the close of a stormy twilight and under a strong
 
-west wind that followed the breaking of the frost, Leonard Crane was
+west [[Wind|wind]] that followed the breaking of the [[Frost|frost]], Leonard Crane was
 
 wending his way in a wild rotatory walk round and round the high,
 
 continuous wall that inclosed the little wood. He was driven by a
 
-desperate idea of solving for himself the riddle that had clouded
+desperate idea of solving for himself the [[Riddle|riddle]] that had clouded
 
 his reputation and already even threatened his liberty. The police
 
 authorities, now in charge of the inquiry, had not arrested him, but
 
-he knew well enough that if he tried to move far afield he would be
+he knew [[Well|well]] enough that if he tried to move far afield he would be
 
 instantly arrested. Horne Fisher's fragmentary hints, though he had
 
@@ -152,11 +152,11 @@ the wild eastward bend and sweep of the gray and feathery trees,
 
 seeing shifting gleams of a lost sunset winking almost like
 
-lightning as the clouds of tempest scudded across the sky and
+[[Lightning|lightning]] as the clouds of tempest scudded across the sky and
 
 mingling with the first faint blue light from a slowly strengthened
 
-moon behind him, he began to feel his head going round as his heels
+[[Moon|moon]] behind him, he began to feel his head going round as his heels
 
 were going round and round the blind recurrent barrier. He had
 
@@ -164,11 +164,11 @@ thoughts on the border of thought; fancies about a fourth dimension
 
 which was itself a hole to hide anything, of seeing everything from
 
-a new angle out of a new window in the senses; or of some mystical
+a new angle out of a new [[Window|window]] in the senses; or of some mystical
 
 light and transparency, like the new rays of chemistry, in which he
 
-could see Bulmer's body, horrible and glaring, floating in a lurid
+could see Bulmer's [[Body|body]], horrible and glaring, floating in a lurid
 
 halo over the woods and the wall. He was haunted also with the hint,
 
@@ -188,17 +188,17 @@ revealed anything at all about the Prior family.
 
 
 
-The moonlight had broadened and brightened, the wind had driven off
+The moonlight had broadened and brightened, the [[Wind|wind]] had driven off
 
 the clouds and itself died fitfully away, when he came round again
 
-to the artificial lake in front of the house. For some reason it
+to the artificial lake in front of the [[house]]. For some reason it
 
 looked a very artificial lake; indeed, the whole scene was like a
 
 classical landscape with a touch of Watteau; the Palladian facade of
 
-the house pale in the moon, and the same silver touching the very
+the [[house]] pale in the [[Moon|moon]], and the same silver touching the very
 
 pagan and naked marble nymph in the middle of the pond. Rather to
 
@@ -208,7 +208,7 @@ sitting almost equally motionless; and the same silver pencil traced
 
 the wrinkled brow and patient face of Horne Fisher, still dressed as
 
-a hermit and apparently practicing something of the solitude of a
+a hermit and apparently practicing something of the [[Solitude|solitude]] of a
 
 hermit. Nevertheless, he looked up at Leonard Crane and smiled,
 
@@ -228,13 +228,13 @@ Fisher, "but I've no objection to telling you something first. But,
 
 to begin with, will you tell me something? What really happened when
 
-you met Bulmer this morning? You did throw away your sword, but you
+you met Bulmer this morning? You did throw away your [[Sword|sword]], but you
 
 didn't kill him."
 
 
 
-"I didn't kill him because I threw away my sword," said the other.
+"I didn't kill him because I threw away my [[Sword|sword]]," said the other.
 
 "I did it on purpose--or I'm not sure what might have happened."
 

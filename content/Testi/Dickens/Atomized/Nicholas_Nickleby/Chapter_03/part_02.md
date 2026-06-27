@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 3 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 3 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -29,7 +29,7 @@ disappointment--and said, ‘Oh, indeed!’
 ‘I infer from what you said to your servant, that the floor above
 belongs to you, ma’am,’ said Mr. Nickleby.
 
-Yes it did, Miss La Creevy replied. The upper part of the house belonged
+Yes it did, Miss La Creevy replied. The upper part of the [[house]] belonged
 to her, and as she had no necessity for the second-floor rooms just
 then, she was in the habit of letting them. Indeed, there was a lady
 from the country and her two children in them, at that present speaking.
@@ -41,10 +41,10 @@ from the country and her two children in them, at that present speaking.
 ‘A POOR widow, ma’am,’ said Ralph, with a powerful emphasis on that
 little adjective which conveys so much.
 
-‘Well, I’m afraid she IS poor,’ rejoined Miss La Creevy.
+‘[[Well]], I’m afraid she IS poor,’ rejoined Miss La Creevy.
 
 ‘I happen to know that she is, ma’am,’ said Ralph. ‘Now, what business
-has a poor widow in such a house as this, ma’am?’
+has a poor widow in such a [[house]] as this, ma’am?’
 
 ‘Very true,’ replied Miss La Creevy, not at all displeased with this
 implied compliment to the apartments. ‘Exceedingly true.’
@@ -53,7 +53,7 @@ implied compliment to the apartments. ‘Exceedingly true.’
 am a relation of the family; and I should recommend you not to keep them
 here, ma’am.’
 
-‘I should hope, if there was any incompatibility to meet the pecuniary
+‘I should [[Hope|hope]], if there was any incompatibility to meet the pecuniary
 obligations,’ said Miss La Creevy with another cough, ‘that the lady’s
 family would--’
 
@@ -87,15 +87,15 @@ apartments.’
 
 ‘Of course you can’t, ma’am,’ replied Ralph.
 
-‘Though at the same time,’ added Miss La Creevy, who was plainly
-wavering between her good-nature and her interest, ‘I have nothing
+‘Though at the same [[Time|time]],’ added Miss La Creevy, who was plainly
+wavering between her good-[[Nature|nature]] and her interest, ‘I have nothing
 whatever to say against the lady, who is extremely pleasant and affable,
 though, poor thing, she seems terribly low in her spirits; nor against
 the young people either, for nicer, or better-behaved young people
 cannot be.’
 
-‘Very well, ma’am,’ said Ralph, turning to the door, for these encomiums
-on poverty irritated him; ‘I have done my duty, and perhaps more than I
+‘Very [[Well|well]], ma’am,’ said Ralph, turning to the door, for these encomiums
+on [[Poverty|poverty]] irritated him; ‘I have done my duty, and perhaps more than I
 ought: of course nobody will thank me for saying what I have.’
 
 ‘I am sure I am very much obliged to you at least, sir,’ said Miss La
@@ -103,10 +103,10 @@ Creevy in a gracious manner. ‘Would you do me the favour to look at a
 few specimens of my portrait painting?’
 
 ‘You’re very good, ma’am,’ said Mr. Nickleby, making off with great
-speed; ‘but as I have a visit to pay upstairs, and my time is precious,
+[[Speed|speed]]; ‘but as I have a visit to pay upstairs, and my [[Time|time]] is precious,
 I really can’t.’
 
-‘At any other time when you are passing, I shall be most happy,’ said
+‘At any other [[Time|time]] when you are passing, I shall be most happy,’ said
 Miss La Creevy. ‘Perhaps you will have the kindness to take a card of
 terms with you? Thank you--good-morning!’
 
@@ -114,7 +114,7 @@ terms with you? Thank you--good-morning!’
 to prevent any further conversation. ‘Now for my sister-in-law. Bah!’
 
 Climbing up another perpendicular flight, composed with great mechanical
-ingenuity of nothing but corner stairs, Mr. Ralph Nickleby stopped to
+ingenuity of nothing but corner stairs, Mr. [[Ralph Nickleby]] stopped to
 take breath on the landing, when he was overtaken by the handmaid, whom
 the politeness of Miss La Creevy had dispatched to announce him, and
 who had apparently been making a variety of unsuccessful attempts, since
@@ -128,7 +128,7 @@ dirtier.
 ‘Oh! Mrs. Nickleby,’ said the girl, throwing open the door, ‘here’s Mr
 Nickleby.’
 
-A lady in deep mourning rose as Mr. Ralph Nickleby entered, but appeared
+A lady in deep mourning [[Rose|rose]] as Mr. [[Ralph Nickleby]] entered, but appeared
 incapable of advancing to meet him, and leant upon the arm of a slight
 but very beautiful girl of about seventeen, who had been sitting by her.
 A youth, who appeared a year or two older, stepped forward and saluted
@@ -139,7 +139,7 @@ suppose?’
 
 ‘That is my name, sir,’ replied the youth.
 
-‘Put my hat down,’ said Ralph, imperiously. ‘Well, ma’am, how do you do?
+‘Put my hat down,’ said Ralph, imperiously. ‘[[Well]], ma’am, how do you do?
 You must bear up against sorrow, ma’am; I always do.’
 
 ‘Mine was no common loss!’ said Mrs. Nickleby, applying her handkerchief
@@ -150,16 +150,16 @@ unbuttoned his spencer. ‘Husbands die every day, ma’am, and wives too.’
 
 ‘And brothers also, sir,’ said Nicholas, with a glance of indignation.
 
-‘Yes, sir, and puppies, and pug-dogs likewise,’ replied his uncle,
+‘Yes, sir, and puppies, and pug-[[dogs]] likewise,’ replied his uncle,
 taking a chair. ‘You didn’t mention in your letter what my brother’s
 complaint was, ma’am.’
 
 ‘The doctors could attribute it to no particular disease,’ said Mrs
-Nickleby; shedding tears. ‘We have too much reason to fear that he died
+Nickleby; shedding [[Tears|tears]]. ‘We have too much reason to [[Fear|fear]] that he died
 of a broken heart.’
 
 ‘Pooh!’ said Ralph, ‘there’s no such thing. I can understand a man’s
-dying of a broken neck, or suffering from a broken arm, or a broken
+dying of a broken neck, or [[Suffering|suffering]] from a broken arm, or a broken
 head, or a broken leg, or a broken nose; but a broken heart!--nonsense,
 it’s the cant of the day. If a man can’t pay his debts, he dies of a
 broken heart, and his widow’s a martyr.’

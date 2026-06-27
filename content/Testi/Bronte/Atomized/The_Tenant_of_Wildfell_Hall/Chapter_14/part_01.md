@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 14 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 14 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,27 +22,27 @@ tags:
 
 Next morning, I bethought me, I, too, had business at L——; so I mounted
 
-my horse, and set forth on the expedition soon after breakfast. It was
+my [[Horse|horse]], and set forth on the expedition soon after breakfast. It was
 
 a dull, drizzly day; but that was no matter: it was all the more
 
-suitable to my frame of mind. It was likely to be a lonely journey; for
+suitable to my frame of mind. It was likely to be a lonely [[Journey|journey]]; for
 
-it was no market-day, and the road I traversed was little frequented at
+it was no market-day, and the [[Road|road]] I traversed was little frequented at
 
-any other time; but that suited me all the better too.
+any other [[Time|time]]; but that suited me all the better too.
 
 
 
 As I trotted along, however, chewing the cud of—_bitter_ fancies, I
 
-heard another horse at no great distance behind me; but I never
+heard another [[Horse|horse]] at no great distance behind me; but I never
 
 conjectured who the rider might be, or troubled my head about him,
 
 till, on slackening my pace to ascend a gentle acclivity, or rather,
 
-suffering my horse to slacken his pace into a lazy walk—for, rapt in my
+[[Suffering|suffering]] my [[Horse|horse]] to slacken his pace into a lazy walk—for, rapt in my
 
 own reflections, I was letting it jog on as leisurely as it thought
 
@@ -60,7 +60,7 @@ me, and began to talk about the weather and the crops. I gave the
 
 briefest possible answers to his queries and observations, and fell
 
-back. He fell back too, and asked if my horse was lame. I replied with
+back. He fell back too, and asked if my [[Horse|horse]] was lame. I replied with
 
 a _look_, at which he placidly smiled.
 
@@ -84,13 +84,13 @@ him: now, positive rudeness could not drive him away. Had he heard of
 
 my disappointment; and was he come to witness the result, and triumph
 
-in my despair? I grasped my whip with more determined energy than
+in my [[Despair|despair]]? I grasped my whip with more determined energy than
 
-before—but still forbore to raise it, and rode on in silence, waiting
+before—but still forbore to raise it, and rode on in [[Silence|silence]], waiting
 
 for some more tangible cause of offence, before I opened the floodgates
 
-of my soul and poured out the dammed-up fury that was foaming and
+of my [[Soul|soul]] and poured out the dammed-up fury that was foaming and
 
 swelling within.
 
@@ -110,7 +110,7 @@ He said no more; for, impelled by some fiend at my elbow, I had seized
 
 my whip by the small end, and—swift and sudden as a flash of
 
-lightning—brought the other down upon his head. It was not without a
+[[Lightning|lightning]]—brought the other down upon his head. It was not without a
 
 feeling of savage satisfaction that I beheld the instant, deadly pallor
 
@@ -122,7 +122,7 @@ backward to the ground. The pony, surprised to be so strangely relieved
 
 of its burden, started and capered, and kicked a little, and then made
 
-use of its freedom to go and crop the grass of the hedge-bank: while
+use of its [[Freedom|freedom]] to go and crop the grass of the hedge-bank: while
 
 its master lay as still and silent as a corpse. Had I killed him?—an
 
@@ -136,19 +136,19 @@ breathed again—he was only stunned by the fall. It served him right—it
 
 would teach him better manners in future. Should I help him to his
 
-horse? No. For any other combination of offences I would; but his were
+[[Horse|horse]]? No. For any other combination of offences I would; but his were
 
 too unpardonable. He might mount it himself, if he liked—in a while:
 
 already he was beginning to stir and look about him—and there it was
 
-for him, quietly browsing on the road-side.
+for him, quietly browsing on the [[Road|road]]-side.
 
 
 
 So with a muttered execration I left the fellow to his fate, and
 
-clapping spurs to my own horse, galloped away, excited by a combination
+clapping spurs to my own [[Horse|horse]], galloped away, excited by a combination
 
 of feelings it would not be easy to analyse; and perhaps, if I did so,
 
@@ -166,13 +166,13 @@ minutes elapsed before I had turned and gone back to look after the
 
 fate of my victim. It was no generous impulse—no kind relentings that
 
-led me to this—nor even the fear of what might be the consequences to
+led me to this—nor even the [[Fear|fear]] of what might be the consequences to
 
 myself, if I finished my assault upon the squire by leaving him thus
 
 neglected, and exposed to further injury; it was, simply, the voice of
 
-conscience; and I took great credit to myself for attending so promptly
+[[Conscience|conscience]]; and I took great credit to myself for attending so promptly
 
 to its dictates—and judging the merit of the deed by the sacrifice it
 
@@ -184,7 +184,7 @@ Mr. Lawrence and his pony had both altered their positions in some
 
 degree. The pony had wandered eight or ten yards further away; and he
 
-had managed, somehow, to remove himself from the middle of the road: I
+had managed, somehow, to remove himself from the middle of the [[Road|road]]: I
 
 found him seated in a recumbent position on the bank,—looking very
 
@@ -194,15 +194,15 @@ red than white) to his head. It must have been a powerful blow; but
 
 half the credit—or the blame of it (which you please) must be
 
-attributed to the whip, which was garnished with a massive horse’s head
+attributed to the whip, which was garnished with a massive [[Horse|horse]]’s head
 
 of plated metal. The grass, being sodden with rain, afforded the young
 
 gentleman a rather inhospitable couch; his clothes were considerably
 
-bemired; and his hat was rolling in the mud on the other side of the
+bemired; and his hat was [[rolling]] in the mud on the other side of the
 
-road. But his thoughts seemed chiefly bent upon his pony, on which he
+[[Road|road]]. But his thoughts seemed chiefly bent upon his pony, on which he
 
 was wistfully gazing—half in helpless anxiety, and half in hopeless
 

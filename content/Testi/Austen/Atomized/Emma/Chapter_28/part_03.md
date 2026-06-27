@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 9 (part 3)"
+title: "[[Emma]] — Chapter 9 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -16,16 +16,16 @@ tags:
 
 “How do you do, Mrs. Ford? I beg your pardon. I did not see you before.
 I hear you have a charming collection of new ribbons from town. Jane
-came back delighted yesterday. Thank ye, the gloves do very well—only a
+came back delighted yesterday. Thank ye, the gloves do very [[Well|well]]—only a
 little too large about the wrist; but Jane is taking them in.”
 
 “What was I talking of?” said she, beginning again when they were all
 in the street.
 
-Emma wondered on what, of all the medley, she would fix.
+[[Emma]] wondered on what, of all the medley, she would fix.
 
 “I declare I cannot recollect what I was talking of.—Oh! my mother’s
-spectacles. So very obliging of Mr. Frank Churchill! ‘Oh!’ said he, ‘I
+spectacles. So very obliging of Mr. [[Frank Churchill]]! ‘Oh!’ said he, ‘I
 do think I can fasten the rivet; I like a job of this kind
 excessively.’—Which you know shewed him to be so very.... Indeed I must
 say that, much as I had heard of him before and much as I had expected,
@@ -36,13 +36,13 @@ excessively.’ I never shall forget his manner. And when I brought out
 the baked apples from the closet, and hoped our friends would be so
 very obliging as to take some, ‘Oh!’ said he directly, ‘there is
 nothing in the way of fruit half so good, and these are the
-finest-looking home-baked apples I ever saw in my life.’ That, you
+finest-looking [[Home|home]]-baked apples I ever saw in my life.’ That, you
 know, was so very.... And I am sure, by his manner, it was no
 compliment. Indeed they are very delightful apples, and Mrs. Wallis
 does them full justice—only we do not have them baked more than twice,
 and Mr. Woodhouse made us promise to have them done three times—but
 Miss Woodhouse will be so good as not to mention it. The apples
-themselves are the very finest sort for baking, beyond a doubt; all
+themselves are the very finest sort for baking, beyond a [[Doubt|doubt]]; all
 from Donwell—some of Mr. Knightley’s most liberal supply. He sends us a
 sack every year; and certainly there never was such a keeping apple
 anywhere as one of his trees—I believe there is two of them. My mother
@@ -75,21 +75,21 @@ himself, he was so pleased to think his master had sold so many; for
 William, you know, thinks more of his master’s profit than any thing;
 but Mrs. Hodges, he said, was quite displeased at their being all sent
 away. She could not bear that her master should not be able to have
-another apple-tart this spring. He told Patty this, but bid her not
+another apple-tart this [[spring]]. He told Patty this, but bid her not
 mind it, and be sure not to say any thing to us about it, for Mrs.
-Hodges _would_ be cross sometimes, and as long as so many sacks were
+Hodges _would_ be [[Cross|cross]] sometimes, and as long as so many sacks were
 sold, it did not signify who ate the remainder. And so Patty told me,
 and I was excessively shocked indeed! I would not have Mr. Knightley
 know any thing about it for the world! He would be so very.... I wanted
 to keep it from Jane’s knowledge; but, unluckily, I had mentioned it
 before I was aware.”
 
-Miss Bates had just done as Patty opened the door; and her visitors
+[[Miss Bates]] had just done as Patty opened the door; and her visitors
 walked upstairs without having any regular narration to attend to,
 pursued only by the sounds of her desultory good-will.
 
 “Pray take care, Mrs. Weston, there is a step at the turning. Pray take
 care, Miss Woodhouse, ours is rather a dark staircase—rather darker and
-narrower than one could wish. Miss Smith, pray take care. Miss
+narrower than one could wish. Miss [[smith|Smith]], pray take care. Miss
 Woodhouse, I am quite concerned, I am sure you hit your foot. Miss
-Smith, the step at the turning.”
+[[smith|Smith]], the step at the turning.”

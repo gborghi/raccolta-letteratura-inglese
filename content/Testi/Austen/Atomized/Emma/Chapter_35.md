@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 16"
+title: "[[Emma]] — Chapter 16"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Emma-(Austen)"
@@ -17,8 +17,8 @@ tags:
 CHAPTER XVI
 
 
-Every body in and about Highbury who had ever visited Mr. Elton, was
-disposed to pay him attention on his marriage. Dinner-parties and
+Every [[Body|body]] in and about Highbury who had ever visited Mr. Elton, was
+disposed to pay him attention on his [[Marriage|marriage]]. Dinner-parties and
 evening-parties were made for him and his lady; and invitations flowed
 in so fast that she had soon the pleasure of apprehending they were
 never to have a disengaged day.
@@ -37,36 +37,36 @@ the poor attempt at rout-cakes, and there being no ice in the Highbury
 card-parties. Mrs. Bates, Mrs. Perry, Mrs. Goddard and others, were a
 good deal behind-hand in knowledge of the world, but she would soon
 shew them how every thing ought to be arranged. In the course of the
-spring she must return their civilities by one very superior party—in
+[[spring]] she must return their civilities by one very superior party—in
 which her card-tables should be set out with their separate candles and
 unbroken packs in the true style—and more waiters engaged for the
 evening than their own establishment could furnish, to carry round the
 refreshments at exactly the proper hour, and in the proper order.
 
-Emma, in the meanwhile, could not be satisfied without a dinner at
+[[Emma]], in the meanwhile, could not be satisfied without a dinner at
 Hartfield for the Eltons. They must not do less than others, or she
 should be exposed to odious suspicions, and imagined capable of pitiful
-resentment. A dinner there must be. After Emma had talked about it for
+resentment. A dinner there must be. After [[Emma]] had talked about it for
 ten minutes, Mr. Woodhouse felt no unwillingness, and only made the
-usual stipulation of not sitting at the bottom of the table himself,
+usual stipulation of not sitting at the [[Bottom|bottom]] of the table himself,
 with the usual regular difficulty of deciding who should do it for him.
 
 The persons to be invited, required little thought. Besides the Eltons,
 it must be the Westons and Mr. Knightley; so far it was all of
 course—and it was hardly less inevitable that poor little Harriet must
 be asked to make the eighth:—but this invitation was not given with
-equal satisfaction, and on many accounts Emma was particularly pleased
+equal satisfaction, and on many accounts [[Emma]] was particularly pleased
 by Harriet’s begging to be allowed to decline it. “She would rather not
 be in his company more than she could help. She was not yet quite able
 to see him and his charming happy wife together, without feeling
 uncomfortable. If Miss Woodhouse would not be displeased, she would
-rather stay at home.” It was precisely what Emma would have wished, had
+rather stay at [[Home|home]].” It was precisely what [[Emma]] would have wished, had
 she deemed it possible enough for wishing. She was delighted with the
 fortitude of her little friend—for fortitude she knew it was in her to
-give up being in company and stay at home; and she could now invite the
-very person whom she really wanted to make the eighth, Jane Fairfax.—
+give up being in company and stay at [[Home|home]]; and she could now invite the
+very person whom she really wanted to make the eighth, [[Jane Fairfax]].—
 Since her last conversation with Mrs. Weston and Mr. Knightley, she was
-more conscience-stricken about Jane Fairfax than she had often
+more [[Conscience|conscience]]-stricken about [[Jane Fairfax]] than she had often
 been.—Mr. Knightley’s words dwelt with her. He had said that Jane
 Fairfax received attentions from Mrs. Elton which nobody else paid her.
 
@@ -80,13 +80,13 @@ Every invitation was successful. They were all disengaged and all
 happy.—The preparatory interest of this dinner, however, was not yet
 over. A circumstance rather unlucky occurred. The two eldest little
 Knightleys were engaged to pay their grandpapa and aunt a visit of some
-weeks in the spring, and their papa now proposed bringing them, and
+weeks in the [[spring]], and their papa now proposed bringing them, and
 staying one whole day at Hartfield—which one day would be the very day
 of this party.—His professional engagements did not allow of his being
 put off, but both father and daughter were disturbed by its happening
 so. Mr. Woodhouse considered eight persons at dinner together as the
-utmost that his nerves could bear—and here would be a ninth—and Emma
-apprehended that it would be a ninth very much out of humour at not
+utmost that his nerves could bear—and here would be a ninth—and [[Emma]]
+apprehended that it would be a ninth very much out of [[Humour|humour]] at not
 being able to come even to Hartfield for forty-eight hours without
 falling in with a dinner-party.
 
@@ -94,33 +94,33 @@ She comforted her father better than she could comfort herself, by
 representing that though he certainly would make them nine, yet he
 always said so little, that the increase of noise would be very
 immaterial. She thought it in reality a sad exchange for herself, to
-have him with his grave looks and reluctant conversation opposed to her
+have him with his [[Grave|grave]] looks and reluctant conversation opposed to her
 instead of his brother.
 
-The event was more favourable to Mr. Woodhouse than to Emma. John
+The event was more favourable to Mr. Woodhouse than to [[Emma]]. John
 Knightley came; but Mr. Weston was unexpectedly summoned to town and
 must be absent on the very day. He might be able to join them in the
 evening, but certainly not to dinner. Mr. Woodhouse was quite at ease;
 and the seeing him so, with the arrival of the little boys and the
 philosophic composure of her brother on hearing his fate, removed the
-chief of even Emma’s vexation.
+chief of even [[Emma]]’s vexation.
 
 The day came, the party were punctually assembled, and Mr. John
 Knightley seemed early to devote himself to the business of being
-agreeable. Instead of drawing his brother off to a window while they
+agreeable. Instead of drawing his brother off to a [[Window|window]] while they
 waited for dinner, he was talking to Miss Fairfax. Mrs. Elton, as
 elegant as lace and pearls could make her, he looked at in
-silence—wanting only to observe enough for Isabella’s information—but
+[[Silence|silence]]—wanting only to observe enough for [[Isabella]]’s information—but
 Miss Fairfax was an old acquaintance and a quiet girl, and he could
 talk to her. He had met her before breakfast as he was returning from a
 walk with his little boys, when it had been just beginning to rain. It
 was natural to have some civil hopes on the subject, and he said,
 
-“I hope you did not venture far, Miss Fairfax, this morning, or I am
-sure you must have been wet.—We scarcely got home in time. I hope you
+“I [[Hope|hope]] you did not venture far, Miss Fairfax, this morning, or I am
+sure you must have been wet.—We scarcely got [[Home|home]] in [[Time|time]]. I [[Hope|hope]] you
 turned directly.”
 
-“I went only to the post-office,” said she, “and reached home before
+“I went only to the post-office,” said she, “and reached [[Home|home]] before
 the rain was much. It is my daily errand. I always fetch the letters
 when I am here. It saves trouble, and is a something to get me out. A
 walk before breakfast does me good.”
@@ -140,7 +140,7 @@ going through the rain for.”
 
 There was a little blush, and then this answer,
 
-“I must not hope to be ever situated as you are, in the midst of every
+“I must not [[Hope|hope]] to be ever situated as you are, in the midst of every
 dearest connexion, and therefore I cannot expect that simply growing
 older should make me indifferent about letters.”
 
@@ -149,27 +149,27 @@ Letters are no matter of indifference; they are generally a very
 positive curse.”
 
 “You are speaking of letters of business; mine are letters of
-friendship.”
+[[Friendship|friendship]].”
 
 “I have often thought them the worst of the two,” replied he coolly.
-“Business, you know, may bring money, but friendship hardly ever does.”
+“Business, you know, may bring money, but [[Friendship|friendship]] hardly ever does.”
 
-“Ah! you are not serious now. I know Mr. John Knightley too well—I am
-very sure he understands the value of friendship as well as any body. I
+“Ah! you are not serious now. I know Mr. John Knightley too [[Well|well]]—I am
+very sure he understands the value of [[Friendship|friendship]] as [[Well|well]] as any [[Body|body]]. I
 can easily believe that letters are very little to you, much less than
 to me, but it is not your being ten years older than myself which makes
-the difference, it is not age, but situation. You have every body
+the difference, it is not age, but situation. You have every [[Body|body]]
 dearest to you always at hand, I, probably, never shall again; and
 therefore till I have outlived all my affections, a post-office, I
 think, must always have power to draw me out, in worse weather than
 to-day.”
 
-“When I talked of your being altered by time, by the progress of
+“When I talked of your being altered by [[Time|time]], by the progress of
 years,” said John Knightley, “I meant to imply the change of situation
-which time usually brings. I consider one as including the other. Time
+which [[Time|time]] usually brings. I consider one as including the other. [[Time]]
 will generally lessen the interest of every attachment not within the
 daily circle—but that is not the change I had in view for you. As an
-old friend, you will allow me to hope, Miss Fairfax, that ten years
+old friend, you will allow me to [[Hope|hope]], Miss Fairfax, that ten years
 hence you may have as many concentrated objects as I have.”
 
 It was kindly said, and very far from giving offence. A pleasant “thank
@@ -189,16 +189,16 @@ complexion. My dear, did you change your stockings?”
 solicitude about me.”
 
 “My dear Miss Fairfax, young ladies are very sure to be cared for.—I
-hope your good grand-mama and aunt are well. They are some of my very
+[[Hope|hope]] your good grand-mama and aunt are [[Well|well]]. They are some of my very
 old friends. I wish my health allowed me to be a better neighbour. You
-do us a great deal of honour to-day, I am sure. My daughter and I are
+do us a great deal of [[Honour|honour]] to-day, I am sure. My daughter and I are
 both highly sensible of your goodness, and have the greatest
 satisfaction in seeing you at Hartfield.”
 
 The kind-hearted, polite old man might then sit down and feel that he
 had done his duty, and made every fair lady welcome and easy.
 
-By this time, the walk in the rain had reached Mrs. Elton, and her
+By this [[Time|time]], the walk in the rain had reached Mrs. Elton, and her
 remonstrances now opened upon Jane.
 
 “My dear Jane, what is this I hear?—Going to the post-office in the
@@ -215,7 +215,7 @@ authority.”
 “My advice,” said Mrs. Weston kindly and persuasively, “I certainly do
 feel tempted to give. Miss Fairfax, you must not run such risks.—Liable
 as you have been to severe colds, indeed you ought to be particularly
-careful, especially at this time of year. The spring I always think
+careful, especially at this [[Time|time]] of year. The [[spring]] I always think
 requires more than common care. Better wait an hour or two, or even
 half a day for your letters, than run the risk of bringing on your
 cough again. Now do not you feel that you had? Yes, I am sure you are
@@ -257,21 +257,21 @@ answering, she began speaking again to Mr. John Knightley.
 
 “The post-office is a wonderful establishment!” said she.—“The
 regularity and despatch of it! If one thinks of all that it has to do,
-and all that it does so well, it is really astonishing!”
+and all that it does so [[Well|well]], it is really astonishing!”
 
-“It is certainly very well regulated.”
+“It is certainly very [[Well|well]] regulated.”
 
 “So seldom that any negligence or blunder appears! So seldom that a
 letter, among the thousands that are constantly passing about the
 kingdom, is even carried wrong—and not one in a million, I suppose,
 actually lost! And when one considers the variety of hands, and of bad
-hands too, that are to be deciphered, it increases the wonder.”
+hands too, that are to be deciphered, it increases the [[Wonder|wonder]].”
 
 “The clerks grow expert from habit.—They must begin with some quickness
 of sight and hand, and exercise improves them. If you want any farther
 explanation,” continued he, smiling, “they are paid for it. That is the
 key to a great deal of capacity. The public pays and must be served
-well.”
+[[Well|well]].”
 
 The varieties of handwriting were farther talked of, and the usual
 observations made.
@@ -281,19 +281,19 @@ handwriting often prevails in a family; and where the same master
 teaches, it is natural enough. But for that reason, I should imagine
 the likeness must be chiefly confined to the females, for boys have
 very little teaching after an early age, and scramble into any hand
-they can get. Isabella and Emma, I think, do write very much alike. I
+they can get. [[Isabella]] and [[Emma]], I think, do write very much alike. I
 have not always known their writing apart.”
 
 “Yes,” said his brother hesitatingly, “there is a likeness. I know what
-you mean—but Emma’s hand is the strongest.”
+you mean—but [[Emma]]’s hand is the strongest.”
 
-“Isabella and Emma both write beautifully,” said Mr. Woodhouse; “and
+“[[Isabella]] and [[Emma]] both write beautifully,” said Mr. Woodhouse; “and
 always did. And so does poor Mrs. Weston”—with half a sigh and half a
 smile at her.
 
-“I never saw any gentleman’s handwriting”—Emma began, looking also at
+“I never saw any gentleman’s handwriting”—[[Emma]] began, looking also at
 Mrs. Weston; but stopped, on perceiving that Mrs. Weston was attending
-to some one else—and the pause gave her time to reflect, “Now, how am I
+to some one else—and the pause gave her [[Time|time]] to reflect, “Now, how am I
 going to introduce him?—Am I unequal to speaking his name at once
 before all these people? Is it necessary for me to use any roundabout
 phrase?—Your Yorkshire friend—your correspondent in Yorkshire;—that
@@ -301,7 +301,7 @@ would be the way, I suppose, if I were very bad.—No, I can pronounce
 his name without the smallest distress. I certainly get better and
 better.—Now for it.”
 
-Mrs. Weston was disengaged and Emma began again—“Mr. Frank Churchill
+Mrs. Weston was disengaged and [[Emma]] began again—“Mr. [[Frank Churchill]]
 writes one of the best gentleman’s hands I ever saw.”
 
 “I do not admire it,” said Mr. Knightley. “It is too small—wants
@@ -313,16 +313,16 @@ large hand, but very clear and certainly strong. Had not Mrs. Weston
 any letter about her to produce?” No, she had heard from him very
 lately, but having answered the letter, had put it away.
 
-“If we were in the other room,” said Emma, “if I had my writing-desk, I
+“If we were in the other room,” said [[Emma]], “if I had my writing-desk, I
 am sure I could produce a specimen. I have a note of his.—Do not you
 remember, Mrs. Weston, employing him to write for you one day?”
 
 “He chose to say he was employed”—
 
-“Well, well, I have that note; and can shew it after dinner to convince
+“[[Well]], [[Well|well]], I have that note; and can shew it after dinner to convince
 Mr. Knightley.”
 
-“Oh! when a gallant young man, like Mr. Frank Churchill,” said Mr.
+“Oh! when a gallant young man, like Mr. [[Frank Churchill]],” said Mr.
 Knightley dryly, “writes to a fair lady like Miss Woodhouse, he will,
 of course, put forth his best.”
 
@@ -332,7 +332,7 @@ allowed to hand her into the dining-parlour, was saying—
 
 “Must I go first? I really am ashamed of always leading the way.”
 
-Jane’s solicitude about fetching her own letters had not escaped Emma.
+Jane’s solicitude about fetching her own letters had not escaped [[Emma]].
 She had heard and seen it all; and felt some curiosity to know whether
 the wet walk of this morning had produced any. She suspected that it
 _had_; that it would not have been so resolutely encountered but in
@@ -343,6 +343,6 @@ than usual—a glow both of complexion and spirits.
 She could have made an inquiry or two, as to the expedition and the
 expense of the Irish mails;—it was at her tongue’s end—but she
 abstained. She was quite determined not to utter a word that should
-hurt Jane Fairfax’s feelings; and they followed the other ladies out of
+hurt [[Jane Fairfax]]’s feelings; and they followed the other ladies out of
 the room, arm in arm, with an appearance of good-will highly becoming
-to the beauty and grace of each.
+to the [[Beauty|beauty]] and grace of each.

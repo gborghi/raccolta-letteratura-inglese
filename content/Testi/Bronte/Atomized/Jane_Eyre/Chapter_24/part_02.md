@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 24 (part 2)"
+title: "[[Jane Eyre]] — Chapter 24 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“You shall sojourn at Paris, Rome, and Naples: at Florence, Venice, and
+“You shall sojourn at [[Paris]], Rome, and Naples: at Florence, [[Venice]], and
 Vienna: all the ground I have wandered over shall be re-trodden by you:
 wherever I stamped my hoof, your sylph’s foot shall step also. Ten
 years since, I flew through Europe half mad; with disgust, hate, and
@@ -32,16 +32,16 @@ anticipate.”
 “For a little while you will perhaps be as you are now,—a very little
 while; and then you will turn cool; and then you will be capricious;
 and then you will be stern, and I shall have much ado to please you:
-but when you get well used to me, you will perhaps like me
-again,—_like_ me, I say, not _love_ me. I suppose your love will
+but when you get [[Well|well]] used to me, you will perhaps like me
+again,—_like_ me, I say, not _love_ me. I suppose your [[Love|love]] will
 effervesce in six months, or less. I have observed in books written by
 men, that period assigned as the farthest to which a husband’s ardour
-extends. Yet, after all, as a friend and companion, I hope never to
+extends. Yet, after all, as a friend and companion, I [[Hope|hope]] never to
 become quite distasteful to my dear master.”
 
 “Distasteful! and like you again! I think I shall like you again, and
 yet again: and I will make you confess I do not only _like_, but _love_
-you—with truth, fervour, constancy.”
+you—with [[Truth|truth]], fervour, constancy.”
 
 “Yet are you not capricious, sir?”
 
@@ -49,14 +49,14 @@ you—with truth, fervour, constancy.”
 find out they have neither souls nor hearts—when they open to me a
 perspective of flatness, triviality, and perhaps imbecility,
 coarseness, and ill-temper: but to the clear eye and eloquent tongue,
-to the soul made of fire, and the character that bends but does not
+to the [[Soul|soul]] made of [[Fire|fire]], and the character that bends but does not
 break—at once supple and stable, tractable and consistent—I am ever
 tender and true.”
 
-“Had you ever experience of such a character, sir? Did you ever love
+“Had you ever experience of such a character, sir? Did you ever [[Love|love]]
 such an one?”
 
-“I love it now.”
+“I [[Love|love]] it now.”
 
 “But before me: if I, indeed, in any respect come up to your difficult
 standard?”
@@ -67,7 +67,7 @@ am twining the soft, silken skein round my finger, it sends a thrill up
 my arm to my heart. I am influenced—conquered; and the influence is
 sweeter than I can express; and the conquest I undergo has a witchery
 beyond any triumph I can win. Why do you smile, Jane? What does that
-inexplicable, that uncanny turn of countenance mean?”
+inexplicable, that [[Uncanny|uncanny]] turn of countenance mean?”
 
 “I was thinking, sir (you will excuse the idea; it was involuntary), I
 was thinking of Hercules and Samson with their charmers—”
@@ -76,34 +76,34 @@ was thinking of Hercules and Samson with their charmers—”
 
 “Hush, sir! You don’t talk very wisely just now; any more than those
 gentlemen acted very wisely. However, had they been married, they would
-no doubt by their severity as husbands have made up for their softness
-as suitors; and so will you, I fear. I wonder how you will answer me a
+no [[Doubt|doubt]] by their severity as husbands have made up for their softness
+as suitors; and so will you, I [[Fear|fear]]. I [[Wonder|wonder]] how you will answer me a
 year hence, should I ask a favour it does not suit your convenience or
 pleasure to grant.”
 
-“Ask me something now, Janet,—the least thing: I desire to be
+“Ask me something now, Janet,—the least thing: I [[Desire|desire]] to be
 entreated—”
 
 “Indeed I will, sir; I have my petition all ready.”
 
 “Speak! But if you look up and smile with that countenance, I shall
-swear concession before I know to what, and that will make a fool of
+swear concession before I know to what, and that will make a [[Fool|fool]] of
 me.”
 
 “Not at all, sir; I ask only this: don’t send for the jewels, and don’t
-crown me with roses: you might as well put a border of gold lace round
+[[Crown|crown]] me with roses: you might as [[Well|well]] put a border of gold lace round
 that plain pocket handkerchief you have there.”
 
-“I might as well ‘gild refined gold.’ I know it: your request is
-granted then—for the time. I will remand the order I despatched to my
+“I might as [[Well|well]] ‘gild refined gold.’ I know it: your request is
+granted then—for the [[Time|time]]. I will remand the order I despatched to my
 banker. But you have not yet asked for anything; you have prayed a gift
 to be withdrawn: try again.”
 
-“Well then, sir, have the goodness to gratify my curiosity, which is
+“[[Well]] then, sir, have the goodness to gratify my curiosity, which is
 much piqued on one point.”
 
 He looked disturbed. “What? what?” he said hastily. “Curiosity is a
-dangerous petition: it is well I have not taken a vow to accord every
+dangerous petition: it is [[Well|well]] I have not taken a vow to accord every
 request—”
 
 “But there can be no danger in complying with this, sir.”
@@ -111,19 +111,19 @@ request—”
 “Utter it, Jane: but I wish that instead of a mere inquiry into,
 perhaps, a secret, it was a wish for half my estate.”
 
-“Now, King Ahasuerus! What do I want with half your estate? Do you
+“Now, [[King]] Ahasuerus! What do I want with half your estate? Do you
 think I am a Jew-usurer, seeking good investment in land? I would much
 rather have all your confidence. You will not exclude me from your
 confidence if you admit me to your heart?”
 
 “You are welcome to all my confidence that is worth having, Jane; but
-for God’s sake, don’t desire a useless burden! Don’t long for
-poison—don’t turn out a downright Eve on my hands!”
+for God’s sake, don’t [[Desire|desire]] a useless burden! Don’t long for
+[[Poison|poison]]—don’t turn out a downright Eve on my hands!”
 
 “Why not, sir? You have just been telling me how much you liked to be
-conquered, and how pleasant over-persuasion is to you. Don’t you think
+conquered, and how pleasant over-[[Persuasion|persuasion]] is to you. Don’t you think
 I had better take advantage of the confession, and begin and coax and
-entreat—even cry and be sulky if necessary—for the sake of a mere essay
+entreat—even cry and be sulky if necessary—for the sake of a mere [[Essay|essay]]
 of my power?”
 
 “I dare you to any such experiment. Encroach, presume, and the game is
@@ -144,10 +144,10 @@ what I have to ask,—Why did you take such pains to make me believe you
 wished to marry Miss Ingram?”
 
 “Is that all? Thank God it is no worse!” And now he unknit his black
-brows; looked down, smiling at me, and stroked my hair, as if well
+brows; looked down, smiling at me, and stroked my hair, as if [[Well|well]]
 pleased at seeing a danger averted. “I think I may confess,” he
 continued, “even although I should make you a little indignant,
-Jane—and I have seen what a fire-spirit you can be when you are
-indignant. You glowed in the cool moonlight last night, when you
+Jane—and I have seen what a [[Fire|fire]]-spirit you can be when you are
+indignant. You glowed in the cool moonlight last [[Night|night]], when you
 mutinied against fate, and claimed your rank as my equal. Janet,
 by-the-bye, it was you who made me the offer.”

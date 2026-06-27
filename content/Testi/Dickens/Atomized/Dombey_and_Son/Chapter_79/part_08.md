@@ -17,28 +17,28 @@ tags:
 The Captain put his oracle inside, and gloried so much in having
 secured him, and having got that mind into a hackney-coach, that he
 could not refrain from often peeping in at Florence through the little
-window behind the driver, and testifying his delight in smiles, and
+[[Window|window]] behind the driver, and testifying his delight in smiles, and
 also in taps upon his forehead, to hint to her that the brain of Bunsby
 was hard at it. In the meantime, Bunsby, still hugging Miss Nipper (for
 his friend, the Captain, had not exaggerated the softness of his
 heart), uniformly preserved his gravity of deportment, and showed no
 other consciousness of her or anything.
 
-Uncle Sol, who had come home, received them at the door, and ushered
+Uncle Sol, who had come [[Home|home]], received them at the door, and ushered
 them immediately into the little back parlour: strangely altered by the
 absence of Walter. On the table, and about the room, were the charts
 and maps on which the heavy-hearted Instrument-maker had again and
 again tracked the missing vessel across the sea, and on which, with a
 pair of compasses that he still had in his hand, he had been measuring,
 a minute before, how far she must have driven, to have driven here or
-there: and trying to demonstrate that a long time must elapse before
-hope was exhausted.
+there: and trying to demonstrate that a long [[Time|time]] must elapse before
+[[Hope|hope]] was exhausted.
 
 “Whether she can have run,” said Uncle Sol, looking wistfully over the
 chart; “but no, that’s almost impossible or whether she can have been
 forced by stress of weather,—but that’s not reasonably likely. Or
-whether there is any hope she so far changed her course as—but even I
-can hardly hope that!” With such broken suggestions, poor old Uncle Sol
+whether there is any [[Hope|hope]] she so far changed her course as—but even I
+can hardly [[Hope|hope]] that!” With such broken suggestions, poor old Uncle Sol
 roamed over the great sheet before him, and could not find a speck of
 hopeful probability in it large enough to set one small point of the
 compasses upon.
@@ -65,25 +65,25 @@ arm.
 “Did I say ‘before?’” replied old Sol. “If I did, I must have meant
 before we should have news of my dear boy.”
 
-“You are not well,” said Florence, tenderly. “You have been so very
-anxious I am sure you are not well.”
+“You are not [[Well|well]],” said Florence, tenderly. “You have been so very
+anxious I am sure you are not [[Well|well]].”
 
-“I am as well,” returned the old man, shutting up his right hand, and
-holding it out to show her: “as well and firm as any man at my time of
-life can hope to be. See! It’s steady. Is its master not as capable of
+“I am as [[Well|well]],” returned the old man, shutting up his right hand, and
+holding it out to show her: “as [[Well|well]] and firm as any man at my [[Time|time]] of
+life can [[Hope|hope]] to be. See! It’s steady. Is its master not as capable of
 resolution and fortitude as many a younger man? I think so. We shall
 see.”
 
 There was that in his manner more than in his words, though they
 remained with her too, which impressed Florence so much, that she would
-have confided her uneasiness to Captain Cuttle at that moment, if the
+have confided her uneasiness to [[Captain Cuttle]] at that moment, if the
 Captain had not seized that moment for expounding the state of
 circumstance, on which the opinion of the sagacious Bunsby was
 requested, and entreating that profound authority to deliver the same.
 
 Bunsby, whose eye continued to be addressed to somewhere about the
-half-way house between London and Gravesend, two or three times put out
-his rough right arm, as seeking to wind it for inspiration round the
+half-way [[house]] between [[London]] and Gravesend, two or three times put out
+his rough right arm, as seeking to [[Wind|wind]] it for inspiration round the
 fair form of Miss Nipper; but that young female having withdrawn
 herself, in displeasure, to the opposite side of the table, the soft
 heart of the Commander of the Cautious Clara met with no response to
@@ -94,7 +94,7 @@ were possessed by a gruff spirit:
 
 “My name’s Jack Bunsby!”
 
-“He was christened John,” cried the delighted Captain Cuttle. “Hear
+“He was christened John,” cried the delighted [[Captain Cuttle]]. “Hear
 him!”
 
 “And what I says,” pursued the voice, after some deliberation, “I
@@ -127,14 +127,14 @@ The students of the sage’s precepts, left to their own application of
 his wisdom—upon a principle which was the main leg of the Bunsby
 tripod, as it is perchance of some other oracular stools—looked upon
 one another in a little uncertainty; while Rob the Grinder, who had
-taken the innocent freedom of peering in, and listening, through the
+taken the [[Innocent|innocent]] [[Freedom|freedom]] of peering in, and listening, through the
 skylight in the roof, came softly down from the leads, in a state of
-very dense confusion. Captain Cuttle, however, whose admiration of
+very dense confusion. [[Captain Cuttle]], however, whose admiration of
 Bunsby was, if possible, enhanced by the splendid manner in which he
 had justified his reputation and come through this solemn reference,
 proceeded to explain that Bunsby meant nothing but confidence; that
 Bunsby had no misgivings; and that such an opinion as that man had
-given, coming from such a mind as his, was Hope’s own anchor, with good
+given, coming from such a mind as his, was [[Hope]]’s own anchor, with good
 roads to cast it in. Florence endeavoured to believe that the Captain
 was right; but the Nipper, with her arms tight folded, shook her head
 in resolute denial, and had no more trust in Bunsby than in Mr Perch

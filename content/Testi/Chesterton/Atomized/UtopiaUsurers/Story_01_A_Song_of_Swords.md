@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — A Song of Swords"
+title: "[[UtopiaUsurers]] — A [[Song]] of Swords"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-A SONG OF SWORDS
+A [[Song|SONG]] OF SWORDS
 
 
 
@@ -24,7 +24,7 @@ A SONG OF SWORDS
 
 
 
-  In the place called Swords on the Irish road
+  In the place called Swords on the Irish [[Road|road]]
 
   It is told for a new renown
 
@@ -44,9 +44,9 @@ A SONG OF SWORDS
 
   On the souls that suddenly all men knew,
 
-  And the green flag flew and the red flag flew,
+  And the green [[Flag|flag]] flew and the red [[Flag|flag]] flew,
 
-  And many a wheel of the world stopped, too,
+  And many a [[Wheel|wheel]] of the world stopped, too,
 
   When the cattle were stopped at Swords.
 
@@ -66,7 +66,7 @@ A SONG OF SWORDS
 
 
 
-  You pinched a child to a torture price
+  You pinched a [[Child|child]] to a torture price
 
   That you dared not name in words;
 
@@ -80,11 +80,11 @@ A SONG OF SWORDS
 
 
 
-  The wheel of the torrent of wives went round
+  The [[Wheel|wheel]] of the torrent of wives went round
 
   To break men's brotherhood;
 
-  You gave the good Irish blood to grease
+  You gave the good Irish [[Blood|blood]] to grease
 
   The clubs of your country's enemies;
 
@@ -100,9 +100,9 @@ A SONG OF SWORDS
 
   But the kings and crowds are holding their breath,
 
-  In a giant shadow o'er all beneath
+  In a giant [[Shadow|shadow]] o'er all beneath
 
-  Where God stands holding the scales of Death
+  Where God stands holding the scales of [[Death]]
 
   Between the cattle and Swords.
 

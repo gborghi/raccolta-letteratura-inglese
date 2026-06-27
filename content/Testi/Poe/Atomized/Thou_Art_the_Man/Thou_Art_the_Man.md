@@ -1,5 +1,5 @@
 ---
-title: "Thou Art the Man"
+title: "[[Thou Art the Man]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/Thou-Art-the-Man-(Poe)"
@@ -14,26 +14,26 @@ tags:
 
 
 I will now play the Oedipus to the Rattleborough enigma. I will expound to
-      you—as I alone can—the secret of the enginery that effected
+      you—as I [[Alone|alone]] can—the secret of the enginery that effected
       the Rattleborough miracle—the one, the true, the admitted, the
       undisputed, the indisputable miracle, which put a definite end to
       infidelity among the Rattleburghers and converted to the orthodoxy of the
       grandames all the carnal-minded who had ventured to be sceptical before.
 
       This event—which I should be sorry to discuss in a tone of
-      unsuitable levity—occurred in the summer of 18—. Mr. Barnabas
+      unsuitable levity—occurred in the [[Summer|summer]] of 18—. Mr. Barnabas
       Shuttleworthy—one of the wealthiest and most respectable citizens of
       the borough—had been missing for several days under circumstances
       which gave rise to suspicion of foul play. Mr. Shuttleworthy had set out
       from Rattleborough very early one Saturday morning, on horseback, with the
-      avowed intention of proceeding to the city of ——, about fifteen miles
-      distant, and of returning the night of the same day. Two hours after his
-      departure, however, his horse returned without him, and without the
+      avowed intention of proceeding to the [[City|city]] of ——, about fifteen miles
+      distant, and of returning the [[Night|night]] of the same day. Two hours after his
+      departure, however, his [[Horse|horse]] returned without him, and without the
       saddle-bags which had been strapped on his back at starting. The animal
       was wounded, too, and covered with mud. These circumstances naturally gave
       rise to much alarm among the friends of the missing man; and when it was
-      found, on Sunday morning, that he had not yet made his appearance, the
-      whole borough arose en masse to go and look for his body.
+      found, on [[Sunday]] morning, that he had not yet made his appearance, the
+      whole borough arose en masse to go and look for his [[Body|body]].
 
       The foremost and most energetic in instituting this search was the bosom
       friend of Mr. Shuttleworthy—a Mr. Charles Goodfellow, or, as he was
@@ -44,7 +44,7 @@ I will now play the Oedipus to the Rattleborough enigma. I will expound to
       never yet was any person named Charles who was not an open, manly, honest,
       good-natured, and frank-hearted fellow, with a rich, clear voice, that did
       you good to hear it, and an eye that looked you always straight in the
-      face, as much as to say: “I have a clear conscience myself, am afraid of
+      face, as much as to say: “I have a clear [[Conscience|conscience]] myself, am afraid of
       no man, and am altogether above doing a mean action.” And thus all the
       hearty, careless, “walking gentlemen” of the stage are very certain to be
       called Charles.
@@ -66,7 +66,7 @@ I will now play the Oedipus to the Rattleborough enigma. I will expound to
       Charley Goodfellow” was upon as intimate terms with him as if he had been
       his own brother. The two old gentlemen were next-door neighbours, and,
       although Mr. Shuttleworthy seldom, if ever, visited “Old Charley,” and
-      never was known to take a meal in his house, still this did not prevent
+      never was known to take a meal in his [[house]], still this did not prevent
       the two friends from being exceedingly intimate, as I have just observed;
       for “Old Charley” never let a day pass without stepping in three or four
       times to see how his neighbour came on, and very often he would stay to
@@ -74,17 +74,17 @@ I will now play the Oedipus to the Rattleborough enigma. I will expound to
       that was made way with by the two cronies at a sitting, it would really be
       a difficult thing to ascertain. “Old Charleys” favorite beverage was
       Chateau-Margaux, and it appeared to do Mr. Shuttleworthy’s heart good to
-      see the old fellow swallow it, as he did, quart after quart; so that, one
+      see the old fellow [[Swallow|swallow]] it, as he did, quart after quart; so that, one
       day, when the wine was in and the wit as a natural consequence, somewhat
       out, he said to his crony, as he slapped him upon the back—“I tell
       you what it is, ‘Old Charley,’ you are, by all odds, the heartiest old
-      fellow I ever came across in all my born days; and, since you love to
+      fellow I ever came across in all my born days; and, since you [[Love|love]] to
       guzzle the wine at that fashion, I’ll be darned if I don’t have to make
       thee a present of a big box of the Chateau-Margaux. Od rot me,”—(Mr.
       Shuttleworthy had a sad habit of swearing, although he seldom went beyond
       “Od rot me,” or “By gosh,” or “By the jolly golly,”)—“Od rot me,”
        says he, “if I don’t send an order to town this very afternoon for a
-      double box of the best that can be got, and I’ll make ye a present of it,
+      [[Double|double]] box of the best that can be got, and I’ll make ye a present of it,
       I will!—ye needn’t say a word now—I will, I tell ye, and
       there’s an end of it; so look out for it—it will come to hand some
       of these fine days, precisely when ye are looking for it the least!” I
@@ -92,27 +92,27 @@ I will now play the Oedipus to the Rattleborough enigma. I will expound to
       just by way of showing you how very intimate an understanding existed
       between the two friends.
 
-      Well, on the Sunday morning in question, when it came to be fairly
+      [[Well]], on the [[Sunday]] morning in question, when it came to be fairly
       understood that Mr. Shuttleworthy had met with foul play, I never saw any
       one so profoundly affected as “Old Charley Goodfellow.” When he first
-      heard that the horse had come home without his master, and without his
-      master’s saddle-bags, and all bloody from a pistol-shot, that had gone
+      heard that the [[Horse|horse]] had come [[Home|home]] without his master, and without his
+      master’s saddle-bags, and all bloody from a [[Pistol|pistol]]-shot, that had gone
       clean through and through the poor animal’s chest without quite killing
       him; when he heard all this, he turned as pale as if the missing man had
       been his own dear brother or father, and shivered and shook all over as if
       he had had a fit of the ague.
 
       At first he was too much overpowered with grief to be able to do any thing
-      at all, or to concert upon any plan of action; so that for a long time he
+      at all, or to concert upon any plan of action; so that for a long [[Time|time]] he
       endeavored to dissuade Mr. Shuttleworthy’s other friends from making a
       stir about the matter, thinking it best to wait awhile—say for a
       week or two, or a month, or two—to see if something wouldn’t turn
       up, or if Mr. Shuttleworthy wouldn’t come in the natural way, and explain
-      his reasons for sending his horse on before. I dare say you have often
+      his reasons for sending his [[Horse|horse]] on before. I dare say you have often
       observed this disposition to temporize, or to procrastinate, in people who
       are labouring under any very poignant sorrow. Their powers of mind seem to
       be rendered torpid, so that they have a horror of any thing like action,
-      and like nothing in the world so well as to lie quietly in bed and “nurse
+      and like nothing in the world so [[Well|well]] as to lie quietly in bed and “[[Nurse|nurse]]
       their grief,” as the old ladies express it—that is to say, ruminate
       over the trouble.
 
@@ -127,7 +127,7 @@ I will now play the Oedipus to the Rattleborough enigma. I will expound to
       nothing like reason in the matter of “lying quiet,” but insisted upon
       making immediate search for the “corpse of the murdered man.” This
       was the expression he employed; and Mr. Goodfellow acutely remarked at the
-      time, that it was “a singular expression, to say no more.” This remark of
+      [[Time|time]], that it was “a singular expression, to say no more.” This remark of
       “Old Charley’s,” too, had great effect upon the crowd; and one of the
       party was heard to ask, very impressively, “how it happened that young Mr.
       Pennifeather was so intimately cognizant of all the circumstances
@@ -139,18 +139,18 @@ I will now play the Oedipus to the Rattleborough enigma. I will expound to
       means a novelty, for little good-will had subsisted between the parties for
       the last three or four months; and matters had even gone so far that Mr.
       Pennifeather had actually knocked down his uncle’s friend for some alleged
-      excess of liberty that the latter had taken in the uncle’s house, of which
+      excess of liberty that the latter had taken in the uncle’s [[house]], of which
       the nephew was an inmate. Upon this occasion “Old Charley” is said to have
-      behaved with exemplary moderation and Christian charity. He arose from the
+      behaved with exemplary moderation and Christian [[Charity|charity]]. He arose from the
       blow, adjusted his clothes, and made no attempt at retaliation at all—merely
       muttering a few words about “taking summary vengeance at the first
       convenient opportunity,”—a natural and very justifiable ebullition
-      of anger, which meant nothing, however, and, beyond doubt, was no sooner
+      of anger, which meant nothing, however, and, beyond [[Doubt|doubt]], was no sooner
       given vent to than forgotten.
 
       However these matters may be (which have no reference to the point now at
       issue), it is quite certain that the people of Rattleborough, principally
-      through the persuasion of Mr. Pennifeather, came at length to the
+      through the [[Persuasion|persuasion]] of Mr. Pennifeather, came at length to the
       determination of dispersion over the adjacent country in search of the
       missing Mr. Shuttleworthy. I say they came to this determination in the
       first instance. After it had been fully resolved that a search should be
@@ -168,34 +168,34 @@ I will now play the Oedipus to the Rattleborough enigma. I will expound to
       “Old Charley,” whom everybody knew to have the eye of a lynx; but,
       although he led them into all manner of out-of-the-way holes and corners,
       by routes that nobody had ever suspected of existing in the neighbourhood,
-      and although the search was incessantly kept up day and night for nearly a
+      and although the search was incessantly kept up day and [[Night|night]] for nearly a
       week, still no trace of Mr. Shuttleworthy could be discovered. When I say
       no trace, however, I must not be understood to speak literally; for trace,
       to some extent, there certainly was. The poor gentleman had been tracked,
-      by his horse’s shoes (which were peculiar), to a spot about three miles to
-      the east of the borough, on the main road leading to the city. Here the
+      by his [[Horse|horse]]’s shoes (which were peculiar), to a spot about three miles to
+      the east of the borough, on the main [[Road|road]] leading to the [[City|city]]. Here the
       track made off into a by-path through a piece of woodland—the path
-      coming out again into the main road, and cutting off about half a mile of
+      coming out again into the main [[Road|road]], and cutting off about half a mile of
       the regular distance. Following the shoe-marks down this lane, the party
-      came at length to a pool of stagnant water, half hidden by the brambles,
+      came at length to a pool of stagnant [[Water|water]], half hidden by the brambles,
       to the right of the lane, and opposite this pool all vestige of the track
-      was lost sight of. It appeared, however, that a struggle of some nature
-      had here taken place, and it seemed as if some large and heavy body, much
+      was lost sight of. It appeared, however, that a struggle of some [[Nature|nature]]
+      had here taken place, and it seemed as if some large and heavy [[Body|body]], much
       larger and heavier than a man, had been drawn from the by-path to the
       pool. This latter was carefully dragged twice, but nothing was found; and
-      the party was upon the point of going away, in despair of coming to any
-      result, when Providence suggested to Mr. Goodfellow the expediency of
-      draining the water off altogether. This project was received with cheers,
+      the party was upon the point of going away, in [[Despair|despair]] of coming to any
+      result, when [[Providence]] suggested to Mr. Goodfellow the expediency of
+      draining the [[Water|water]] off altogether. This project was received with cheers,
       and many high compliments to “Old Charley” upon his sagacity and
       consideration. As many of the burghers had brought spades with them,
       supposing that they might possibly be called upon to disinter a corpse,
-      the drain was easily and speedily effected; and no sooner was the bottom
+      the drain was easily and speedily effected; and no sooner was the [[Bottom|bottom]]
       visible, than right in the middle of the mud that remained was discovered
       a black silk velvet waistcoat, which nearly every one present immediately
       recognized as the property of Mr. Pennifeather. This waistcoat was much
-      torn and stained with blood, and there were several persons among the
+      torn and stained with [[Blood|blood]], and there were several persons among the
       party who had a distinct remembrance of its having been worn by its owner
-      on the very morning of Mr. Shuttleworthy’s departure for the city; while
+      on the very morning of Mr. Shuttleworthy’s departure for the [[City|city]]; while
       there were others, again, ready to testify upon oath, if required, that
       Mr. P. did not wear the garment in question at any period during the
       remainder of that memorable day, nor could any one be found to say that he
@@ -212,10 +212,10 @@ I will now play the Oedipus to the Rattleborough enigma. I will expound to
       magnanimity of Mr. Goodfellow shone forth with only the more brilliant
       lustre through contrast. He made a warm and intensely eloquent defence of
       Mr. Pennifeather, in which he alluded more than once to his own sincere
-      forgiveness of that wild young gentleman—“the heir of the worthy Mr.
+      [[Forgiveness|forgiveness]] of that wild young gentleman—“the heir of the worthy Mr.
       Shuttleworthy,”—for the insult which he (the young gentleman) had,
-      no doubt in the heat of passion, thought proper to put upon him (Mr.
-      Goodfellow). “He forgave him for it,” he said, “from the very bottom of
+      no [[Doubt|doubt]] in the heat of passion, thought proper to put upon him (Mr.
+      Goodfellow). “He forgave him for it,” he said, “from the very [[Bottom|bottom]] of
       his heart; and for himself (Mr. Goodfellow), so far from pushing the
       suspicious circumstances to extremity, which he was sorry to say, really
       had arisen against Mr. Pennifeather, he (Mr. Goodfellow) would make every
@@ -273,8 +273,8 @@ I will now play the Oedipus to the Rattleborough enigma. I will expound to
       after making a will in his favour, with disinheritance. But the threat had
       not been actually kept; the original will, it appeared, had not been
       altered. Had it been altered, the only supposable motive for murder on the
-      part of the suspected would have been the ordinary one of revenge; and
-      even this would have been counteracted by the hope of reinstation into the
+      part of the suspected would have been the ordinary one of [[Revenge|revenge]]; and
+      even this would have been counteracted by the [[Hope|hope]] of reinstation into the
       good graces of the uncle. But the will being unaltered, while the threat
       to alter remained suspended over the nephew’s head, there appears at once
       the very strongest possible inducement for the atrocity, and so concluded,
@@ -293,29 +293,29 @@ I will now play the Oedipus to the Rattleborough enigma. I will expound to
       as belonging to Mr. Pennifeather. Moreover, his initials were engraved
       upon the handle. The blade of this knife was open and bloody.
 
-      No doubt now remained of the guilt of the nephew, and immediately upon
+      No [[Doubt|doubt]] now remained of the [[Guilt|guilt]] of the nephew, and immediately upon
       reaching Rattleborough he was taken before a magistrate for examination.
 
       Here matters again took a most unfavourable turn. The prisoner, being
       questioned as to his whereabouts on the morning of Mr. Shuttleworthy’s
       disappearance, had absolutely the audacity to acknowledge that on that
       very morning he had been out with his rifle deer-stalking, in the
-      immediate neighbourhood of the pool where the blood-stained waistcoat had
+      immediate neighbourhood of the pool where the [[Blood|blood]]-stained waistcoat had
       been discovered through the sagacity of Mr. Goodfellow.
 
-      This latter now came forward, and, with tears in his eyes, asked
+      This latter now came forward, and, with [[Tears|tears]] in his eyes, asked
       permission to be examined. He said that a stern sense of the duty he owed
       his Maker, not less than his fellow-men, would permit him no longer to
       remain silent. Hitherto, the sincerest affection for the young man
       (notwithstanding the latter’s ill-treatment of himself, Mr. Goodfellow)
-      had induced him to make every hypothesis which imagination could suggest,
+      had induced him to make every hypothesis which [[Imagination|imagination]] could suggest,
       by way of endeavoring to account for what appeared suspicious in the
       circumstances that told so seriously against Mr. Pennifeather, but these
       circumstances were now altogether too convincing—too damning; he
       would hesitate no longer—he would tell all he knew, although his
       heart (Mr. Goodfellow’s) should absolutely burst asunder in the effort. He
       then went on to state that, on the afternoon of the day previous to Mr.
-      Shuttleworthy’s departure for the city, that worthy old gentleman had
+      Shuttleworthy’s departure for the [[City|city]], that worthy old gentleman had
       mentioned to his nephew, in his hearing (Mr. Goodfellow’s), that his
       object in going to town on the morrow was to make a deposit of an
       unusually large sum of money in the “Farmers’ and Mechanics’ Bank,” and
@@ -323,13 +323,13 @@ I will now play the Oedipus to the Rattleborough enigma. I will expound to
       the said nephew his irrevocable determination of rescinding the will
       originally made, and of cutting him off with a shilling. He (the witness)
       now solemnly called upon the accused to state whether what he (the
-      witness) had just stated was or was not the truth in every substantial
+      witness) had just stated was or was not the [[Truth|truth]] in every substantial
       particular. Much to the astonishment of every one present, Mr.
       Pennifeather frankly admitted that it was.
 
       The magistrate now considered it his duty to send a couple of constables
-      to search the chamber of the accused in the house of his uncle. From this
-      search they almost immediately returned with the well-known steel-bound,
+      to search the chamber of the accused in the [[house]] of his uncle. From this
+      search they almost immediately returned with the [[Well|well]]-known steel-bound,
       russet leather pocket-book which the old gentleman had been in the habit
       of carrying for years. Its valuable contents, however, had been
       abstracted, and the magistrate in vain endeavored to extort from the
@@ -337,14 +337,14 @@ I will now play the Oedipus to the Rattleborough enigma. I will expound to
       concealment. Indeed, he obstinately denied all knowledge of the matter.
       The constables, also, discovered, between the bed and sacking of the
       unhappy man, a shirt and neck-handkerchief both marked with the initials
-      of his name, and both hideously besmeared with the blood of the victim.
+      of his name, and both hideously besmeared with the [[Blood|blood]] of the victim.
 
-      At this juncture, it was announced that the horse of the murdered man had
+      At this juncture, it was announced that the [[Horse|horse]] of the murdered man had
       just expired in the stable from the effects of the wound he had received,
       and it was proposed by Mr. Goodfellow that a post mortem examination of
       the beast should be immediately made, with the view, if possible, of
       discovering the ball. This was accordingly done; and, as if to demonstrate
-      beyond a question the guilt of the accused, Mr. Goodfellow, after
+      beyond a question the [[Guilt|guilt]] of the accused, Mr. Goodfellow, after
       considerable searching in the cavity of the chest was enabled to detect
       and to pull forth a bullet of very extraordinary size, which, upon trial,
       was found to be exactly adapted to the bore of Mr. Pennifeather’s rifle,
@@ -372,20 +372,20 @@ I will now play the Oedipus to the Rattleborough enigma. I will expound to
       the next criminal sessions, when the chain of circumstantial evidence
       (strengthened as it was by some additional damning facts, which Mr.
       Goodfellow’s sensitive conscientiousness forbade him to withhold from the
-      court) was considered so unbroken and so thoroughly conclusive, that the
+      [[Court|court]]) was considered so unbroken and so thoroughly conclusive, that the
       jury, without leaving their seats, returned an immediate verdict of
       “Guilty of murder in the first degree.” Soon afterward the unhappy wretch
-      received sentence of death, and was remanded to the county jail to await
+      received sentence of [[Death|death]], and was remanded to the county jail to await
       the inexorable vengeance of the law.
 
       In the meantime, the noble behavior of “Old Charley Goodfellow,” had
       doubly endeared him to the honest citizens of the borough. He became ten
       times a greater favorite than ever, and, as a natural result of the
       hospitality with which he was treated, he relaxed, as it were, perforce,
-      the extremely parsimonious habits which his poverty had hitherto impelled
-      him to observe, and very frequently had little reunions at his own house,
+      the extremely parsimonious habits which his [[Poverty|poverty]] had hitherto impelled
+      him to observe, and very frequently had little reunions at his own [[house]],
       when wit and jollity reigned supreme—dampened a little, of course, by the
-      occasional remembrance of the untoward and melancholy fate which impended
+      occasional remembrance of the untoward and [[Melancholy|melancholy]] fate which impended
       over the nephew of the late lamented bosom friend of the generous host.
 
       One fine day, this magnanimous old gentleman was agreeably surprised at
@@ -400,7 +400,7 @@ Chat. Mar. A—No. 1.—6 doz. bottles (1/2 Gross)
     “Dear Sir—In conformity with an order transmitted to our firm
 about two months since, by our esteemed correspondent, Mr. Barnabus
 Shuttleworthy, we have the honor of forwarding this morning, to your address, a
-double box of Chateau-Margaux of the antelope brand, violet seal. Box numbered
+[[Double|double]] box of Chateau-Margaux of the antelope brand, violet seal. Box numbered
 and marked as per margin.
 
 
@@ -409,7 +409,7 @@ and marked as per margin.
 “HOGGS, FROGS, BOGS, & CO.
 
 
-“City of—, June 21, 18—.
+“[[City]] of—, June 21, 18—.
 “P.S.—The box will reach you by wagon, on the day after your
 receipt of this letter. Our respects to Mr. Shuttleworthy.
 
@@ -417,10 +417,10 @@ receipt of this letter. Our respects to Mr. Shuttleworthy.
 “H., F., B., & CO.”
 
 
-      The fact is, that Mr. Goodfellow had, since the death of Mr.
+      The fact is, that Mr. Goodfellow had, since the [[Death|death]] of Mr.
       Shuttleworthy, given over all expectation of ever receiving the promised
       Chateau-Margaux; and he, therefore, looked upon it now as a sort of
-      especial dispensation of Providence in his behalf. He was highly
+      especial dispensation of [[Providence]] in his behalf. He was highly
       delighted, of course, and in the exuberance of his joy invited a large
       party of friends to a petit souper on the morrow, for the purpose of
       broaching the good old Mr. Shuttleworthy’s present. Not that he said any
@@ -429,15 +429,15 @@ receipt of this letter. Our respects to Mr. Shuttleworthy.
       all. He did not mention to any one—if I remember aright—that
       he had received a present of Chateau-Margaux. He merely asked his friends
       to come and help him drink some, of a remarkable fine quality and rich
-      flavour, that he had ordered up from the city a couple of months ago, and
+      flavour, that he had ordered up from the [[City|city]] a couple of months ago, and
       of which he would be in the receipt upon the morrow. I have often puzzled
       myself to imagine why it was that “Old Charley” came to the conclusion to
       say nothing about having received the wine from his old friend, but I
-      could never precisely understand his reason for the silence, although he
-      had some excellent and very magnanimous reason, no doubt.
+      could never precisely understand his reason for the [[Silence|silence]], although he
+      had some excellent and very magnanimous reason, no [[Doubt|doubt]].
 
       The morrow at length arrived, and with it a very large and highly
-      respectable company at Mr. Goodfellow’s house. Indeed, half the borough
+      respectable company at Mr. Goodfellow’s [[house]]. Indeed, half the borough
       was there,—I myself among the number,—but, much to the
       vexation of the host, the Chateau-Margaux did not arrive until a late
       hour, and when the sumptuous supper supplied by “Old Charley” had been
@@ -456,7 +456,7 @@ receipt of this letter. Our respects to Mr. Shuttleworthy.
 
 
       After some vociferation, quiet was at length fully restored, and, as very
-      often happens in similar cases, a profound and remarkable silence ensued.
+      often happens in similar cases, a profound and remarkable [[Silence|silence]] ensued.
       Being then requested to force open the lid, I complied, of course, “with
       an infinite deal of pleasure.” I inserted a chisel, and giving it a few
       slight taps with a hammer, the top of the box flew suddenly off, and at
@@ -465,7 +465,7 @@ receipt of this letter. Our respects to Mr. Shuttleworthy.
       Mr. Shuttleworthy himself. It gazed for a few seconds, fixedly and
       sorrowfully, with its decaying and lack-lustre eyes, full into the
       countenance of Mr. Goodfellow; uttered slowly, but clearly and
-      impressively, the words—“Thou art the man!” and then, falling over
+      impressively, the words—“[[Thou Art the Man|Thou art the man]]!” and then, falling over
       the side of the chest as if thoroughly satisfied, stretched out its limbs
       quiveringly upon the table.
 
@@ -478,7 +478,7 @@ receipt of this letter. Our respects to Mr. Shuttleworthy.
       triumph and wine. For several minutes he sat rigidly as a statue of
       marble; his eyes seeming, in the intense vacancy of their gaze, to be
       turned inward and absorbed in the contemplation of his own miserable,
-      murderous soul. At length their expression appeared to flash suddenly out
+      murderous [[Soul|soul]]. At length their expression appeared to flash suddenly out
       into the external world, when, with a quick leap, he sprang from his
       chair, and falling heavily with his head and shoulders upon the table, and
       in contact with the corpse, poured out rapidly and vehemently a detailed
@@ -486,9 +486,9 @@ receipt of this letter. Our respects to Mr. Shuttleworthy.
       imprisoned and doomed to die.
 
       What he recounted was in substance this:—He followed his victim to
-      the vicinity of the pool; there shot his horse with a pistol; despatched
+      the vicinity of the pool; there shot his [[Horse|horse]] with a [[Pistol|pistol]]; despatched
       its rider with the butt end; possessed himself of the pocket-book; and,
-      supposing the horse dead, dragged it with great labour to the brambles by
+      supposing the [[Horse|horse]] dead, dragged it with great labour to the brambles by
       the pond. Upon his own beast he slung the corpse of Mr. Shuttleworthy, and
       thus bore it to a secure place of concealment a long distance off through
       the woods.
@@ -498,7 +498,7 @@ receipt of this letter. Our respects to Mr. Shuttleworthy.
       Pennifeather. He had also contrived the discovery of the stained
       handkerchief and shirt.
 
-      Toward the end of the blood-chilling recital the words of the guilty
+      Toward the end of the [[Blood|blood]]-chilling recital the words of the guilty
       wretch faltered and grew hollow. When the record was finally exhausted, he
       arose, staggered backward from the table, and fell—_dead_.
 
@@ -514,12 +514,12 @@ receipt of this letter. Our respects to Mr. Shuttleworthy.
       at once that all the criminating discoveries arose, either directly or
       indirectly, from himself. But the fact which clearly opened my eyes to the
       true state of the case, was the affair of the bullet, found by Mr. G. in
-      the carcass of the horse. I had not forgotten, although the Rattleburghers
-      had, that there was a hole where the ball had entered the horse, and
+      the carcass of the [[Horse|horse]]. I had not forgotten, although the Rattleburghers
+      had, that there was a hole where the ball had entered the [[Horse|horse]], and
       another where it went out. If it were found in the animal then, after
       having made its exit, I saw clearly that it must have been deposited by
       the person who found it. The bloody shirt and handkerchief confirmed the
-      idea suggested by the bullet; for the blood on examination proved to be
+      idea suggested by the bullet; for the [[Blood|blood]] on examination proved to be
       capital claret, and no more. When I came to think of these things, and
       also of the late increase of liberality and expenditure on the part of Mr.
       Goodfellow, I entertained a suspicion which was none the less strong
@@ -529,26 +529,26 @@ receipt of this letter. Our respects to Mr. Shuttleworthy.
       Mr. Shuttleworthy, and, for good reasons, searched in quarters as
       divergent as possible from those to which Mr. Goodfellow conducted his
       party. The result was that, after some days, I came across an old dry
-      well, the mouth of which was nearly hidden by brambles; and here, at the
-      bottom, I discovered what I sought.
+      [[Well|well]], the mouth of which was nearly hidden by brambles; and here, at the
+      [[Bottom|bottom]], I discovered what I sought.
 
       Now it so happened that I had overheard the colloquy between the two
       cronies, when Mr. Goodfellow had contrived to cajole his host into the
       promise of a box of Chateaux-Margaux. Upon this hint I acted. I procured a
       stiff piece of whalebone, thrust it down the throat of the corpse, and
-      deposited the latter in an old wine box—taking care so to double the body
-      up as to double the whalebone with it. In this manner I had to press
+      deposited the latter in an old wine box—taking care so to [[Double|double]] the [[Body|body]]
+      up as to [[Double|double]] the whalebone with it. In this manner I had to press
       forcibly upon the lid to keep it down while I secured it with nails; and I
       anticipated, of course, that as soon as these latter were removed, the top
-      would fly off and the body up.
+      would fly off and the [[Body|body]] up.
 
       Having thus arranged the box, I marked, numbered, and addressed it as
       already told; and then writing a letter in the name of the wine merchants
       with whom Mr. Shuttleworthy dealt, I gave instructions to my servant to
-      wheel the box to Mr. Goodfellow’s door, in a barrow, at a given signal
+      [[Wheel|wheel]] the box to Mr. Goodfellow’s door, in a barrow, at a given signal
       from myself. For the words which I intended the corpse to speak, I
       confidently depended upon my ventriloquial abilities; for their effect, I
-      counted upon the conscience of the murderous wretch.
+      counted upon the [[Conscience|conscience]] of the murderous wretch.
 
       I believe there is nothing more to be explained. Mr. Pennifeather was
       released upon the spot, inherited the fortune of his uncle, profited by

@@ -40,16 +40,16 @@ that was what I asked.”
 “What you asked, Sol Gills?” repeated the Captain.
 
 “Ay,” said the old man. “Don’t you know, Ned? Sure you have not
-forgotten? Every time I wrote to you.”
+forgotten? Every [[Time|time]] I wrote to you.”
 
 The Captain took off his glazed hat, hung it on his hook, and smoothing
 his hair from behind with his hand, sat gazing at the group around him:
-a perfect image of wondering resignation.
+a perfect image of wondering [[Resignation|resignation]].
 
 “You don’t appear to understand me, Ned!” observed old Sol.
 
 “Sol Gills,” returned the Captain, after staring at him and the rest
-for a long time, without speaking, “I’m gone about and adrift. Pay out
+for a long [[Time|time]], without speaking, “I’m gone about and adrift. Pay out
 a word or two respecting them adwenturs, will you! Can’t I bring up,
 nohows? Nohows?” said the Captain, ruminating, and staring all round.
 
@@ -61,12 +61,12 @@ packet, Ned?”
 “And read it?” said the old man.
 
 “And read it,” answered the Captain, eyeing him attentively, and
-proceeding to quote it from memory. “‘My dear Ned Cuttle, when I left
-home for the West Indies in forlorn search of intelligence of my dear-’
+proceeding to quote it from [[Memory|memory]]. “‘My dear Ned Cuttle, when I left
+[[Home|home]] for the West Indies in forlorn search of intelligence of my dear-’
 There he sits! There’s Wal”r!” said the Captain, as if he were relieved
 by getting hold of anything that was real and indisputable.
 
-“Well, Ned. Now attend a moment!” said the old man. “When I wrote
+“[[Well]], Ned. Now attend a moment!” said the old man. “When I wrote
 first—that was from Barbados—I said that though you would receive that
 letter long before the year was out, I should be glad if you would open
 the packet, as it explained the reason of my going away. Very good,
@@ -92,9 +92,9 @@ of my boy, until I died.”
 Captain, as before, and with great seriousness.
 
 “But when the news come one day, Ned,—that was to Barbados, after I got
-back there,—that a China trader home’ard bound had been spoke, that had
-my boy aboard, then, Ned, I took passage in the next ship and came
-home; arrived at home tonight to find it true, thank God!” said the
+back there,—that a China trader [[Home|home]]’ard bound had been spoke, that had
+my boy aboard, then, Ned, I took passage in the next [[Ship|ship]] and came
+[[Home|home]]; arrived at [[Home|home]] tonight to find it true, thank God!” said the
 old man, devoutly.
 
 The Captain, after bowing his head with great reverence, stared all
@@ -107,7 +107,7 @@ bolt-ropes, and bring you on your beam ends with a lurch. Not one of
 them letters was ever delivered to Ed’ard Cuttle. Not one o’ them
 letters,” repeated the Captain, to make his declaration the more solemn
 and impressive, “was ever delivered unto Ed’ard Cuttle, Mariner, of
-England, as lives at home at ease, and doth improve each shining hour!”
+England, as lives at [[Home|home]] at ease, and doth improve each shining hour!”
 
 “And posted by my own hand! And directed by my own hand, Number nine
 Brig Place!” exclaimed old Sol.
@@ -119,7 +119,7 @@ in a glow.
 inquired the Captain.
 
 “Mean? Your lodgings, Ned,” returned the old man. “Mrs What’s-her-name!
-I shall forget my own name next, but I am behind the present time—I
+I shall forget my own name next, but I am behind the present [[Time|time]]—I
 always was, you recollect—and very much confused. Mrs—”
 
 “Sol Gills!” said the Captain, as if he were putting the most
@@ -129,19 +129,19 @@ you’re a trying to remember?”
 “Of course it is!” exclaimed the Instrument-maker. “To be sure Ned. Mrs
 MacStinger!”
 
-Captain Cuttle, whose eyes were now as wide open as they would be, and
+[[Captain Cuttle]], whose eyes were now as wide open as they would be, and
 the knobs upon whose face were perfectly luminous, gave a long shrill
-whistle of a most melancholy sound, and stood gazing at everybody in a
+whistle of a most [[Melancholy|melancholy]] sound, and stood gazing at everybody in a
 state of speechlessness.
 
 “Overhaul that there again, Sol Gills, will you be so kind?” he said at
 last.
 
-“All these letters,” returned Uncle Sol, beating time with the
+“All these letters,” returned Uncle Sol, beating [[Time|time]] with the
 forefinger of his right hand upon the palm of his left, with a
-steadiness and distinctness that might have done honour, even to the
+steadiness and distinctness that might have done [[Honour|honour]], even to the
 infallible chronometer in his pocket, “I posted with my own hand, and
-directed with my own hand, to Captain Cuttle, at Mrs MacStinger’s,
+directed with my own hand, to [[Captain Cuttle]], at Mrs MacStinger’s,
 Number nine Brig Place.”
 
 The Captain took his glazed hat off his hook, looked into it, put it

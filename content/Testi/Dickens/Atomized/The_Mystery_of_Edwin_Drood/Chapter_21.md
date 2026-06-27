@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 20"
+title: "The Mystery of [[Edwin Drood]] — Chapter 20"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -25,20 +25,20 @@ What to do, she was at a frightened loss to know: the only one clear
 thought in her mind was, that she must fly from this terrible man.
 
 But where could she take refuge, and how could she go? She had never
-breathed her dread of him to any one but Helena. If she went to Helena,
+breathed her dread of him to any one but [[Helena]]. If she went to [[Helena]],
 and told her what had passed, that very act might bring down the
 irreparable mischief that he threatened he had the power, and that she
 knew he had the will, to do. The more fearful he appeared to her
-excited memory and imagination, the more alarming her responsibility
+excited [[Memory|memory]] and [[Imagination|imagination]], the more alarming her responsibility
 appeared; seeing that a slight mistake on her part, either in action or
-delay, might let his malevolence loose on Helena’s brother.
+delay, might let his malevolence loose on [[Helena]]’s brother.
 
 Rosa’s mind throughout the last six months had been stormily confused.
 A half-formed, wholly unexpressed suspicion tossed in it, now heaving
 itself up, and now sinking into the deep; now gaining palpability, and
-now losing it. Jasper’s self-absorption in his nephew when he was
+now losing it. Jasper’s [[Self|self]]-absorption in his nephew when he was
 alive, and his unceasing pursuit of the inquiry how he came by his
-death, if he were dead, were themes so rife in the place, that no one
+[[Death|death]], if he were dead, were themes so rife in the place, that no one
 appeared able to suspect the possibility of foul play at his hands. She
 had asked herself the question, “Am I so wicked in my thoughts as to
 conceive a wickedness that others cannot imagine?” Then she had
@@ -46,12 +46,12 @@ considered, Did the suspicion come of her previous recoiling from him
 before the fact? And if so, was not that a proof of its baselessness?
 Then she had reflected, “What motive could he have, according to my
 accusation?” She was ashamed to answer in her mind, “The motive of
-gaining _me_!” And covered her face, as if the lightest shadow of the
-idea of founding murder on such an idle vanity were a crime almost as
+gaining _me_!” And covered her face, as if the lightest [[Shadow|shadow]] of the
+idea of founding murder on such an idle [[Vanity|vanity]] were a crime almost as
 great.
 
 She ran over in her mind again, all that he had said by the sun-dial in
-the garden. He had persisted in treating the disappearance as murder,
+the [[Garden|garden]]. He had persisted in treating the disappearance as murder,
 consistently with his whole public course since the finding of the
 watch and shirt-pin. If he were afraid of the crime being traced out,
 would he not rather encourage the idea of a voluntary disappearance? He
@@ -60,24 +60,24 @@ less strong, he might have swept “even him” away from her side. Was
 that like his having really done so? He had spoken of laying his six
 months’ labours in the cause of a just vengeance at her feet. Would he
 have done that, with that violence of passion, if they were a pretence?
-Would he have ranged them with his desolate heart and soul, his wasted
-life, his peace and his despair? The very first sacrifice that he
+Would he have ranged them with his desolate heart and [[Soul|soul]], his wasted
+life, his peace and his [[Despair|despair]]? The very first sacrifice that he
 represented himself as making for her, was his fidelity to his dear boy
-after death. Surely these facts were strong against a fancy that
+after [[Death|death]]. Surely these facts were strong against a fancy that
 scarcely dared to hint itself. And yet he was so terrible a man! In
 short, the poor girl (for what could she know of the criminal
 intellect, which its own professed students perpetually misread,
 because they persist in trying to reconcile it with the average
 intellect of average men, instead of identifying it as a horrible
-wonder apart) could get by no road to any other conclusion than that he
+[[Wonder|wonder]] apart) could get by no [[Road|road]] to any other conclusion than that he
 _was_ a terrible man, and must be fled from.
 
-She had been Helena’s stay and comfort during the whole time. She had
-constantly assured her of her full belief in her brother’s innocence,
+She had been [[Helena]]’s stay and comfort during the whole [[Time|time]]. She had
+constantly assured her of her full belief in her brother’s [[innocence]],
 and of her sympathy with him in his misery. But she had never seen him
-since the disappearance, nor had Helena ever spoken one word of his
+since the disappearance, nor had [[Helena]] ever spoken one word of his
 avowal to Mr. Crisparkle in regard of Rosa, though as a part of the
-interest of the case it was well known far and wide. He was Helena’s
+interest of the case it was [[Well|well]] known far and wide. He was [[Helena]]’s
 unfortunate brother, to her, and nothing more. The assurance she had
 given her odious suitor was strictly true, though it would have been
 better (she considered now) if she could have restrained herself from
@@ -87,33 +87,33 @@ lips.
 
 But where was she to go? Anywhere beyond his reach, was no reply to the
 question. Somewhere must be thought of. She determined to go to her
-guardian, and to go immediately. The feeling she had imparted to Helena
-on the night of their first confidence, was so strong upon her—the
+guardian, and to go immediately. The feeling she had imparted to [[Helena]]
+on the [[Night|night]] of their first confidence, was so strong upon her—the
 feeling of not being safe from him, and of the solid walls of the old
 convent being powerless to keep out his ghostly following of her—that
 no reasoning of her own could calm her terrors. The fascination of
 repulsion had been upon her so long, and now culminated so darkly, that
 she felt as if he had power to bind her by a spell. Glancing out at
-window, even now, as she rose to dress, the sight of the sun-dial on
+[[Window|window]], even now, as she [[Rose|rose]] to dress, the sight of the sun-dial on
 which he had leaned when he declared himself, turned her cold, and made
 her shrink from it, as though he had invested it with some awful
-quality from his own nature.
+quality from his own [[Nature|nature]].
 
 She wrote a hurried note to Miss Twinkleton, saying that she had sudden
 reason for wishing to see her guardian promptly, and had gone to him;
-also, entreating the good lady not to be uneasy, for all was well with
+also, entreating the good lady not to be uneasy, for all was [[Well|well]] with
 her. She hurried a few quite useless articles into a very little bag,
 left the note in a conspicuous place, and went out, softly closing the
 gate after her.
 
-It was the first time she had ever been even in Cloisterham High Street
-alone. But knowing all its ways and windings very well, she hurried
+It was the first [[Time|time]] she had ever been even in Cloisterham High Street
+[[Alone|alone]]. But knowing all its ways and windings very [[Well|well]], she hurried
 straight to the corner from which the omnibus departed. It was, at that
 very moment, going off.
 
-“Stop and take me, if you please, Joe. I am obliged to go to London.”
+“Stop and take me, if you please, Joe. I am obliged to go to [[London]].”
 
-In less than another minute she was on her road to the railway, under
+In less than another minute she was on her [[Road|road]] to the railway, under
 Joe’s protection. Joe waited on her when she got there, put her safely
 into the railway carriage, and handed in the very little bag after her,
 as though it were some enormous trunk, hundredweights heavy, which she
@@ -124,30 +124,30 @@ saw me safely off, Joe?”
 
 “It shall be done, Miss.”
 
-“With my love, please, Joe.”
+“With my [[Love|love]], please, Joe.”
 
 “Yes, Miss—and I wouldn’t mind having it myself!” But Joe did not
 articulate the last clause; only thought it.
 
-Now that she was whirling away for London in real earnest, Rosa was at
+Now that she was whirling away for [[London]] in real earnest, Rosa was at
 leisure to resume the thoughts which her personal hurry had checked.
-The indignant thought that his declaration of love soiled her; that she
+The indignant thought that his declaration of [[Love|love]] soiled her; that she
 could only be cleansed from the stain of its impurity by appealing to
-the honest and true; supported her for a time against her fears, and
+the honest and true; supported her for a [[Time|time]] against her fears, and
 confirmed her in her hasty resolution. But as the evening grew darker
-and darker, and the great city impended nearer and nearer, the doubts
+and darker, and the great [[City|city]] impended nearer and nearer, the doubts
 usual in such cases began to arise. Whether this was not a wild
 proceeding, after all; how Mr. Grewgious might regard it; whether she
-should find him at the journey’s end; how she would act if he were
-absent; what might become of her, alone, in a place so strange and
+should find him at the [[Journey|journey]]’s end; how she would act if he were
+absent; what might become of her, [[Alone|alone]], in a place so strange and
 crowded; how if she had but waited and taken counsel first; whether, if
 she could now go back, she would not do it thankfully; a multitude of
 such uneasy speculations disturbed her, more and more as they
-accumulated. At length the train came into London over the housetops;
+accumulated. At length the train came into [[London]] over the housetops;
 and down below lay the gritty streets with their yet un-needed lamps
-a-glow, on a hot, light, summer night.
+a-glow, on a hot, light, [[Summer|summer]] [[Night|night]].
 
-“Hiram Grewgious, Esquire, Staple Inn, London.” This was all Rosa knew
+“Hiram Grewgious, Esquire, Staple Inn, [[London]].” This was all Rosa knew
 of her destination; but it was enough to send her rattling away again
 in a cab, through deserts of gritty streets, where many people crowded
 at the corner of courts and byways to get some air, and where many
@@ -157,9 +157,9 @@ surroundings were so gritty and so shabby!
 
 There was music playing here and there, but it did not enliven the
 case. No barrel-organ mended the matter, and no big drum beat dull care
-away. Like the chapel bells that were also going here and there, they
-only seemed to evoke echoes from brick surfaces, and dust from
-everything. As to the flat wind-instruments, they seemed to have
+away. Like the chapel [[Bells|bells]] that were also going here and there, they
+only seemed to evoke echoes from brick surfaces, and [[Dust|dust]] from
+everything. As to the flat [[Wind|wind]]-instruments, they seemed to have
 cracked their hearts and souls in pining for the country.
 
 Her jingling conveyance stopped at last at a fast-closed gateway, which
@@ -180,30 +180,30 @@ street-door.
 Guided by the painted name of Mr. Grewgious, she went up-stairs and
 softly tapped and tapped several times. But no one answering, and Mr.
 Grewgious’s door-handle yielding to her touch, she went in, and saw her
-guardian sitting on a window-seat at an open window, with a shaded lamp
+guardian sitting on a [[Window|window]]-seat at an open [[Window|window]], with a shaded lamp
 placed far from him on a table in a corner.
 
 Rosa drew nearer to him in the twilight of the room. He saw her, and he
 said, in an undertone: “Good Heaven!”
 
-Rosa fell upon his neck, with tears, and then he said, returning her
+Rosa fell upon his neck, with [[Tears|tears]], and then he said, returning her
 embrace:
 
-“My child, my child! I thought you were your mother!—But what, what,
+“My [[Child|child]], my [[Child|child]]! I thought you were your mother!—But what, what,
 what,” he added, soothingly, “has happened? My dear, what has brought
 you here? Who has brought you here?”
 
-“No one. I came alone.”
+“No one. I came [[Alone|alone]].”
 
-“Lord bless me!” ejaculated Mr. Grewgious. “Came alone! Why didn’t you
+“Lord bless me!” ejaculated Mr. Grewgious. “Came [[Alone|alone]]! Why didn’t you
 write to me to come and fetch you?”
 
-“I had no time. I took a sudden resolution. Poor, poor Eddy!”
+“I had no [[Time|time]]. I took a sudden resolution. Poor, poor Eddy!”
 
 “Ah, poor fellow, poor fellow!”
 
-“His uncle has made love to me. I cannot bear it,” said Rosa, at once
-with a burst of tears, and a stamp of her little foot; “I shudder with
+“His uncle has made [[Love|love]] to me. I cannot bear it,” said Rosa, at once
+with a burst of [[Tears|tears]], and a stamp of her little foot; “I shudder with
 horror of him, and I have come to you to protect me and all of us from
 him, if you will?”
 
@@ -262,7 +262,7 @@ and frizzled ham, ran across to Furnival’s without his hat, to give his
 various directions. And soon afterwards they were realised in practice,
 and the board was spread.
 
-“Lord bless my soul,” cried Mr. Grewgious, putting the lamp upon it,
+“Lord bless my [[Soul|soul]],” cried Mr. Grewgious, putting the lamp upon it,
 and taking his seat opposite Rosa; “what a new sensation for a poor old
 Angular bachelor, to be sure!”
 
@@ -284,9 +284,9 @@ her tea-cup, ventured to touch him with her small hand too.
 
 “Yes, my dear.”
 
-“And always alone?”
+“And always [[Alone|alone]]?”
 
-“Always alone; except that I have daily company in a gentleman by the
+“Always [[Alone|alone]]; except that I have daily company in a gentleman by the
 name of Bazzard, my clerk.”
 
 “_He_ doesn’t live here?”
@@ -299,7 +299,7 @@ difficult to replace Mr. Bazzard.”
 “He must be very fond of you,” said Rosa.
 
 “He bears up against it with commendable fortitude if he is,” returned
-Mr. Grewgious, after considering the matter. “But I doubt if he is. Not
+Mr. Grewgious, after considering the matter. “But I [[Doubt|doubt]] if he is. Not
 particularly so. You see, he is discontented, poor fellow.”
 
 “Why isn’t he contented?” was the natural inquiry.
@@ -312,9 +312,9 @@ Rosa’s eyebrows resumed their inquisitive and perplexed expression.
 apologetic towards him. And he feels (though he doesn’t mention it)
 that I have reason to be.”
 
-Mr. Grewgious had by this time grown so very mysterious, that Rosa did
+Mr. Grewgious had by this [[Time|time]] grown so very mysterious, that Rosa did
 not know how to go on. While she was thinking about it Mr. Grewgious
-suddenly jerked out of himself for the second time:
+suddenly jerked out of himself for the second [[Time|time]]:
 
 “Let’s talk. We were speaking of Mr. Bazzard. It’s a secret, and
 moreover it is Mr. Bazzard’s secret; but the sweet presence at my table
@@ -322,10 +322,10 @@ makes me so unusually expansive, that I feel I must impart it in
 inviolable confidence. What do you think Mr. Bazzard has done?”
 
 “O dear!” cried Rosa, drawing her chair a little nearer, and her mind
-reverting to Jasper, “nothing dreadful, I hope?”
+reverting to Jasper, “nothing dreadful, I [[Hope|hope]]?”
 
 “He has written a play,” said Mr. Grewgious, in a solemn whisper. “A
-tragedy.”
+[[Tragedy|tragedy]].”
 
 Rosa seemed much relieved.
 
@@ -392,43 +392,43 @@ of a thousand dedications.
 “Which again, naturally, rubs against the grain of Mr. Bazzard,” said
 Mr. Grewgious. “He is very short with me sometimes, and then I feel
 that he is meditating, ‘This blockhead is my master! A fellow who
-couldn’t write a tragedy on pain of death, and who will never have one
+couldn’t write a [[Tragedy|tragedy]] on [[Pain|pain]] of [[Death|death]], and who will never have one
 dedicated to him with the most complimentary congratulations on the
 high position he has taken in the eyes of posterity!’ Very trying, very
 trying. However, in giving him directions, I reflect beforehand:
 ‘Perhaps he may not like this,’ or ‘He might take it ill if I asked
-that;’ and so we get on very well. Indeed, better than I could have
+that;’ and so we get on very [[Well|well]]. Indeed, better than I could have
 expected.”
 
-“Is the tragedy named, sir?” asked Rosa.
+“Is the [[Tragedy|tragedy]] named, sir?” asked Rosa.
 
 “Strictly between ourselves,” answered Mr. Grewgious, “it has a
 dreadfully appropriate name. It is called The Thorn of Anxiety. But Mr.
-Bazzard hopes—and I hope—that it will come out at last.”
+Bazzard hopes—and I [[Hope|hope]]—that it will come out at last.”
 
 It was not hard to divine that Mr. Grewgious had related the Bazzard
-history thus fully, at least quite as much for the recreation of his
+[[history]] thus fully, at least quite as much for the recreation of his
 ward’s mind from the subject that had driven her there, as for the
 gratification of his own tendency to be social and communicative.
 
 “And now, my dear,” he said at this point, “if you are not too tired to
 tell me more of what passed to-day—but only if you feel quite able—I
-should be glad to hear it. I may digest it the better, if I sleep on it
-to-night.”
+should be glad to hear it. I may digest it the better, if I [[Sleep|sleep]] on it
+to-[[Night|night]].”
 
 Rosa, composed now, gave him a faithful account of the interview. Mr.
 Grewgious often smoothed his head while it was in progress, and begged
-to be told a second time those parts which bore on Helena and Neville.
-When Rosa had finished, he sat grave, silent, and meditative for a
+to be told a second [[Time|time]] those parts which bore on [[Helena]] and Neville.
+When Rosa had finished, he sat [[Grave|grave]], silent, and meditative for a
 while.
 
-“Clearly narrated,” was his only remark at last, “and, I hope, clearly
+“Clearly narrated,” was his only remark at last, “and, I [[Hope|hope]], clearly
 put away here,” smoothing his head again. “See, my dear,” taking her to
-the open window, “where they live! The dark windows over yonder.”
+the open [[Window|window]], “where they live! The dark windows over yonder.”
 
-“I may go to Helena to-morrow?” asked Rosa.
+“I may go to [[Helena]] to-morrow?” asked Rosa.
 
-“I should like to sleep on that question to-night,” he answered
+“I should like to [[Sleep|sleep]] on that question to-[[Night|night]],” he answered
 doubtfully. “But let me take you to your own rest, for you must need
 it.”
 
@@ -451,24 +451,24 @@ affectionate care of her.
 I who thank you for your charming confidence and for your charming
 company. Your breakfast will be provided for you in a neat, compact,
 and graceful little sitting-room (appropriate to your figure), and I
-will come to you at ten o’clock in the morning. I hope you don’t feel
+will come to you at ten o’[[Clock|clock]] in the morning. I [[Hope|hope]] you don’t feel
 very strange indeed, in this strange place.”
 
 “O no, I feel so safe!”
 
-“Yes, you may be sure that the stairs are fire-proof,” said Mr.
+“Yes, you may be sure that the stairs are [[Fire|fire]]-proof,” said Mr.
 Grewgious, “and that any outbreak of the devouring element would be
 perceived and suppressed by the watchmen.”
 
 “I did not mean that,” Rosa replied. “I mean, I feel so safe from him.”
 
 “There is a stout gate of iron bars to keep him out,” said Mr.
-Grewgious, smiling; “and Furnival’s is fire-proof, and specially
+Grewgious, smiling; “and Furnival’s is [[Fire|fire]]-proof, and specially
 watched and lighted, and _I_ live over the way!” In the stoutness of
 his knight-errantry, he seemed to think the last-named protection all
 sufficient. In the same spirit he said to the gate-porter as he went
 out, “If some one staying in the hotel should wish to send across the
-road to me in the night, a crown will be ready for the messenger.” In
+[[Road|road]] to me in the [[Night|night]], a [[Crown|crown]] will be ready for the messenger.” In
 the same spirit, he walked up and down outside the iron gate for the
 best part of an hour, with some solicitude; occasionally looking in
 between the bars, as if he had laid a dove in a high roost in a cage of

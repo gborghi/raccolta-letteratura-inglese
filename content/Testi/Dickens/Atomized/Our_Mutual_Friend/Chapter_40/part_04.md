@@ -17,7 +17,7 @@ tags:
 Mrs Lammle has sat quite still, with her eyes cast down upon the
 table-cloth. As Mr Lammle’s address ends, Twemlow once more turns to her
 involuntarily, not cured yet of that often recurring impression that she
-is going to speak to him. This time she really is going to speak to him.
+is going to speak to him. This [[Time|time]] she really is going to speak to him.
 Veneering is talking with his other next neighbour, and she speaks in a
 low voice.
 
@@ -26,7 +26,7 @@ low voice.
 He answers, ‘I beg your pardon? Yes?’ Still a little doubtful, because
 of her not looking at him.
 
-‘You have the soul of a gentleman, and I know I may trust you. Will you
+‘You have the [[Soul|soul]] of a gentleman, and I know I may trust you. Will you
 give me the opportunity of saying a few words to you when you come up
 stairs?’
 
@@ -66,7 +66,7 @@ before to-day?’
 
 ‘Now that you do see him, you see what he is. You are not proud of him?’
 
-‘To say the truth, Mrs Lammle, no.’
+‘To say the [[Truth|truth]], Mrs Lammle, no.’
 
 ‘If you knew more of him, you would be less inclined to acknowledge him.
 Here is another portrait. What do you think of it?’
@@ -94,12 +94,12 @@ me that you never will betray my confidence—that you will respect it,
 even though you may no longer respect me,—and I shall be as satisfied
 as if you had sworn it.’
 
-‘Madam, on the honour of a poor gentleman—’
+‘Madam, on the [[Honour|honour]] of a poor gentleman—’
 
-‘Thank you. I can desire no more. Mr Twemlow, I implore you to save that
-child!’
+‘Thank you. I can [[Desire|desire]] no more. Mr Twemlow, I implore you to save that
+[[Child|child]]!’
 
-‘That child?’
+‘That [[Child|child]]?’
 
 ‘Georgiana. She will be sacrificed. She will be inveigled and married
 to that connexion of yours. It is a partnership affair, a
@@ -122,8 +122,8 @@ it were in China.
 ‘And ex—’ But Twemlow, in his demolished state, cannot command the
 word, and trails off into ‘—actly so.’
 
-‘Mr Twemlow, your word will have weight with her pompous, self-blinded
-father. You know how much he makes of your family. Lose no time. Warn
+‘Mr Twemlow, your word will have weight with her pompous, [[Self|self]]-blinded
+father. You know how much he makes of your family. Lose no [[Time|time]]. Warn
 him.’
 
 ‘But warn him against whom?’
@@ -141,7 +141,7 @@ instant. The stimulant is Lammle’s voice.
 
 ‘Yes, Alfred.’
 
-She puts the book down, takes another book up, turns the leaves, and
+She puts the book down, takes another book up, turns the [[Leaves|leaves]], and
 presents the portrait to Twemlow.
 
 ‘That is the last of Mr Lammle. Do you think it good?—Warn her father
@@ -157,7 +157,7 @@ Twemlow, in a stunned condition, feigns to compare the portrait in his
 hand with the original looking towards him from his Mephistophelean
 corner.
 
-‘Very well indeed!’ are at length the words which Twemlow with great
+‘Very [[Well|well]] indeed!’ are at length the words which Twemlow with great
 difficulty extracts from himself.
 
 ‘I am glad you think so. On the whole, I myself consider it the best.
@@ -170,14 +170,14 @@ and not tell him? Tell him how much? Tell him how little? I—I—am
 getting lost.’
 
 ‘Tell him I am a match-maker; tell him I am an artful and designing
-woman; tell him you are sure his daughter is best out of my house and my
+woman; tell him you are sure his daughter is best out of my [[house]] and my
 company. Tell him any such things of me; they will all be true. You know
-what a puffed-up man he is, and how easily you can cause his vanity to
+what a puffed-up man he is, and how easily you can cause his [[Vanity|vanity]] to
 take the alarm. Tell him as much as will give him the alarm and make
 him careful of her, and spare me the rest. Mr Twemlow, I feel my sudden
 degradation in your eyes; familiar as I am with my degradation in my own
 eyes, I keenly feel the change that must have come upon me in yours,
-in these last few moments. But I trust to your good faith with me as
+in these last few moments. But I trust to your good [[Faith|faith]] with me as
 implicitly as when I began. If you knew how often I have tried to speak
 to you to-day, you would almost pity me. I want no new promise from you
 on my own account, for I am satisfied, and I always shall be satisfied,
@@ -199,5 +199,5 @@ Then good-bye and good-bye, and charming occasion worthy of the Golden
 Age, and more about the flitch of bacon, and the like of that; and
 Twemlow goes staggering across Piccadilly with his hand to his forehead,
 and is nearly run down by a flushed lettercart, and at last drops
-safe in his easy-chair, innocent good gentleman, with his hand to his
+safe in his easy-chair, [[Innocent|innocent]] good gentleman, with his hand to his
 forehead still, and his head in a whirl.

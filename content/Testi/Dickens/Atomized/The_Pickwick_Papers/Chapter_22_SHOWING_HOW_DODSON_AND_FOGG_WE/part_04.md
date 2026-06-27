@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 20: SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR (part 4)"
+title: "The [[Pickwick]] Papers — Chapter 20: SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-‘Who’s that, Sam?’ inquired Mr. Pickwick.
+‘Who’s that, Sam?’ inquired Mr. [[Pickwick]].
 
 ‘Why, I wouldn’t ha’ believed it, Sir,’ replied Mr. Weller, with
 astonished eyes. ‘It’s the old ‘un.’
 
-‘Old one,’ said Mr. Pickwick. ‘What old one?’
+‘Old one,’ said Mr. [[Pickwick]]. ‘What old one?’
 
 ‘My father, sir,’ replied Mr. Weller. ‘How are you, my ancient?’ And
 with this beautiful ebullition of filial affection, Mr. Weller made room
@@ -43,30 +43,30 @@ Don’t she, though?’ inquired Mr. Weller, junior.
 The elder Mr. Weller shook his head, as he replied with a sigh, ‘I’ve
 done it once too often, Sammy; I’ve done it once too often. Take example
 by your father, my boy, and be wery careful o’ widders all your life,
-‘specially if they’ve kept a public-house, Sammy.’ Having delivered this
+‘specially if they’ve kept a public-[[house]], Sammy.’ Having delivered this
 parental advice with great pathos, Mr. Weller, senior, refilled his pipe
 from a tin box he carried in his pocket; and, lighting his fresh pipe
 from the ashes of the old One, commenced smoking at a great rate.
 
 ‘Beg your pardon, sir,’ he said, renewing the subject, and addressing
-Mr. Pickwick, after a considerable pause, ‘nothin’ personal, I hope,
-sir; I hope you ha’n’t got a widder, sir.’
+Mr. [[Pickwick]], after a considerable pause, ‘nothin’ personal, I [[Hope|hope]],
+sir; I [[Hope|hope]] you ha’n’t got a widder, sir.’
 
-‘Not I,’ replied Mr. Pickwick, laughing; and while Mr. Pickwick laughed,
-Sam Weller informed his parent in a whisper, of the relation in which he
+‘Not I,’ replied Mr. [[Pickwick]], laughing; and while Mr. [[Pickwick]] laughed,
+[[Sam Weller]] informed his parent in a whisper, of the relation in which he
 stood towards that gentleman.
 
 ‘Beg your pardon, sir,’ said Mr. Weller, senior, taking off his hat, ‘I
-hope you’ve no fault to find with Sammy, Sir?’
+[[Hope|hope]] you’ve no fault to find with Sammy, Sir?’
 
-‘None whatever,’ said Mr. Pickwick.
+‘None whatever,’ said Mr. [[Pickwick]].
 
 ‘Wery glad to hear it, sir,’ replied the old man; ‘I took a good deal o’
 pains with his eddication, sir; let him run in the streets when he was
 wery young, and shift for hisself. It’s the only way to make a boy
 sharp, sir.’
 
-‘Rather a dangerous process, I should imagine,’ said Mr. Pickwick, with
+‘Rather a dangerous process, I should imagine,’ said Mr. [[Pickwick]], with
 a smile.
 
 ‘And not a wery sure one, neither,’ added Mr. Weller; ‘I got reg’larly
@@ -84,27 +84,27 @@ attention, and, at its termination, said--
 ‘Worn’t one o’ these chaps slim and tall, with long hair, and the gift
 o’ the gab wery gallopin’?’
 
-Mr. Pickwick did not quite understand the last item of description, but,
+Mr. [[Pickwick]] did not quite understand the last item of description, but,
 comprehending the first, said ‘Yes,’ at a venture.
 
 ‘T’ other’s a black-haired chap in mulberry livery, with a wery large
 head?’
 
-‘Yes, yes, he is,’ said Mr. Pickwick and Sam, with great earnestness.
+‘Yes, yes, he is,’ said Mr. [[Pickwick]] and Sam, with great earnestness.
 
 ‘Then I know where they are, and that’s all about it,’ said Mr. Weller;
 ‘they’re at Ipswich, safe enough, them two.’
 
-‘No!’ said Mr. Pickwick.
+‘No!’ said Mr. [[Pickwick]].
 
 ‘Fact,’ said Mr. Weller, ‘and I’ll tell you how I know it. I work an
 Ipswich coach now and then for a friend o’ mine. I worked down the wery
-day arter the night as you caught the rheumatic, and at the Black Boy at
+day arter the [[Night|night]] as you caught the rheumatic, and at the Black Boy at
 Chelmsford--the wery place they’d come to--I took ‘em up, right through
 to Ipswich, where the man-servant--him in the mulberries--told me they
-was a-goin’ to put up for a long time.’
+was a-goin’ to put up for a long [[Time|time]].’
 
-‘I’ll follow him,’ said Mr. Pickwick; ‘we may as well see Ipswich as any
+‘I’ll follow him,’ said Mr. [[Pickwick]]; ‘we may as [[Well|well]] see Ipswich as any
 other place. I’ll follow him.’
 
 ‘You’re quite certain it was them, governor?’ inquired Mr. Weller,
@@ -116,45 +116,45 @@ formiliar with his servant; and, more than that, as they sat in the
 front, right behind the box, I heerd ‘em laughing and saying how they’d
 done old Fireworks.’
 
-‘Old who?’ said Mr. Pickwick.
+‘Old who?’ said Mr. [[Pickwick]].
 
-‘Old Fireworks, Sir; by which, I’ve no doubt, they meant you, Sir.’
+‘Old Fireworks, Sir; by which, I’ve no [[Doubt|doubt]], they meant you, Sir.’
 
 There is nothing positively vile or atrocious in the appellation of ‘old
 Fireworks,’ but still it is by no means a respectful or flattering
 designation. The recollection of all the wrongs he had sustained at
-Jingle’s hands, had crowded on Mr. Pickwick’s mind, the moment Mr.
+Jingle’s hands, had crowded on Mr. [[Pickwick]]’s mind, the moment Mr.
 Weller began to speak; it wanted but a feather to turn the scale, and
 ‘old Fireworks’ did it.
 
-‘I’ll follow him,’ said Mr. Pickwick, with an emphatic blow on the
+‘I’ll follow him,’ said Mr. [[Pickwick]], with an emphatic blow on the
 table.
 
 ‘I shall work down to Ipswich the day arter to-morrow, Sir,’ said Mr.
 Weller the elder, ‘from the Bull in Whitechapel; and if you really mean
 to go, you’d better go with me.’
 
-‘So we had,’ said Mr. Pickwick; ‘very true; I can write to Bury, and
+‘So we had,’ said Mr. [[Pickwick]]; ‘very true; I can write to Bury, and
 tell them to meet me at Ipswich. We will go with you. But don’t hurry
 away, Mr. Weller; won’t you take anything?’
 
 ‘You’re wery good, Sir,’ replied Mr. W., stopping short;--‘perhaps a
-small glass of brandy to drink your health, and success to Sammy, Sir,
+small glass of brandy to drink your health, and [[success]] to Sammy, Sir,
 wouldn’t be amiss.’
 
-‘Certainly not,’ replied Mr. Pickwick.
+‘Certainly not,’ replied Mr. [[Pickwick]].
 
 ‘A glass of brandy here!’ The brandy was brought; and Mr. Weller, after
-pulling his hair to Mr. Pickwick, and nodding to Sam, jerked it down his
+pulling his hair to Mr. [[Pickwick]], and nodding to Sam, jerked it down his
 capacious throat as if it had been a small thimbleful.
 
-‘Well done, father,’ said Sam, ‘take care, old fellow, or you’ll have a
+‘[[Well]] done, father,’ said Sam, ‘take care, old fellow, or you’ll have a
 touch of your old complaint, the gout.’
 
 ‘I’ve found a sov’rin’ cure for that, Sammy,’ said Mr. Weller, setting
 down the glass.
 
-‘A sovereign cure for the gout,’ said Mr. Pickwick, hastily producing
+‘A sovereign cure for the gout,’ said Mr. [[Pickwick]], hastily producing
 his note-book--‘what is it?’
 
 ‘The gout, Sir,’ replied Mr. Weller, ‘the gout is a complaint as arises

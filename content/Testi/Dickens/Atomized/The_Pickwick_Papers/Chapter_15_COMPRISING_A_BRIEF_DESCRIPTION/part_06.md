@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 6)"
+title: "The [[Pickwick]] Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -55,9 +55,9 @@ of the widow’s hand, and remained there while he spoke.
 committing the amiable--“my dear ma’am, you deserve a very excellent
 husband--you do indeed.”
 
-‘“Lor, Sir!” said the widow--as well she might; Tom’s mode of commencing
+‘“Lor, Sir!” said the widow--as [[Well|well]] she might; Tom’s mode of commencing
 the conversation being rather unusual, not to say startling; the fact of
-his never having set eyes upon her before the previous night being taken
+his never having set eyes upon her before the previous [[Night|night]] being taken
 into consideration. “Lor, Sir!”
 
 ‘“I scorn to flatter, my dear ma’am,” said Tom Smart. “You deserve a
@@ -75,8 +75,8 @@ Widows, gentlemen, are not usually timorous, as my uncle used to say.
 ’”_If_,” said Tom Smart, looking very shrewdly out of the right-hand
 corner of his left eye. “_If_--”
 
-“Well,” said the widow, laughing outright this time, “_when _I do, I
-hope I shall have as good a husband as you describe.”
+“[[Well]],” said the widow, laughing outright this [[Time|time]], “_when _I do, I
+[[Hope|hope]] I shall have as good a husband as you describe.”
 
 ‘“Jinkins, to wit,” said Tom.
 
@@ -89,7 +89,7 @@ widow, bridling up at the mysterious air with which Tom had spoken.
 
 ‘“Hem!” said Tom Smart.
 
-‘The widow began to think it was high time to cry, so she took out her
+‘The widow began to think it was high [[Time|time]] to cry, so she took out her
 handkerchief, and inquired whether Tom wished to insult her, whether he
 thought it like a gentleman to take away the character of another
 gentleman behind his back, why, if he had got anything to say, he didn’t
@@ -122,7 +122,7 @@ and unfolded it. “You won’t scream?” said Tom doubtfully.
 ‘“And don’t run out, and blow him up,” said Tom; “because I’ll do all
 that for you. You had better not exert yourself.”
 
-‘“Well, well,” said the widow, “let me see it.”
+‘“[[Well]], [[Well|well]],” said the widow, “let me see it.”
 
 ‘“I will,” replied Tom Smart; and, with these words, he placed the
 letter in the widow’s hand.
@@ -132,18 +132,18 @@ lamentations when she heard the disclosure would have pierced a heart of
 stone. Tom was certainly very tender-hearted, but they pierced his, to
 the very core. The widow rocked herself to and fro, and wrung her hands.
 
-‘“Oh, the deception and villainy of the man!” said the widow.
+‘“Oh, the [[Deception|deception]] and villainy of the man!” said the widow.
 
 ‘“Frightful, my dear ma’am; but compose yourself,” said Tom Smart.
 
 ‘“Oh, I can’t compose myself,” shrieked the widow. “I shall never find
-anyone else I can love so much!”
+anyone else I can [[Love|love]] so much!”
 
-‘“Oh, yes you will, my dear soul,” said Tom Smart, letting fall a shower
-of the largest-sized tears, in pity for the widow’s misfortunes. Tom
+‘“Oh, yes you will, my dear [[Soul|soul]],” said Tom Smart, letting fall a shower
+of the largest-sized [[Tears|tears]], in pity for the widow’s misfortunes. Tom
 Smart, in the energy of his compassion, had put his arm round the
 widow’s waist; and the widow, in a passion of grief, had clasped Tom’s
-hand. She looked up in Tom’s face, and smiled through her tears. Tom
+hand. She looked up in Tom’s face, and smiled through her [[Tears|tears]]. Tom
 looked down in hers, and smiled through his.
 
 ‘I never could find out, gentlemen, whether Tom did or did not kiss the
@@ -156,7 +156,7 @@ an hour later, and married the widow a month after. And he used to drive
 about the country, with the clay-coloured gig with the red wheels, and
 the vixenish mare with the fast pace, till he gave up business many
 years afterwards, and went to France with his wife; and then the old
-house was pulled down.’
+[[house]] was pulled down.’
 
 ‘Will you allow me to ask you,’ said the inquisitive old gentleman,
 ‘what became of the chair?’

@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 33 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 33 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -21,20 +21,20 @@ everything been done, that it was barely half-past nine when he reached
 the place of meeting.
 
 ‘Here is the letter for Ralph,’ said Nicholas, ‘and here the key. When
-you come to me this evening, not a word of last night. Ill news travels
+you come to me this evening, not a word of last [[Night|night]]. Ill news travels
 fast, and they will know it soon enough. Have you heard if he was much
 hurt?’
 
 Newman shook his head.
 
-‘I will ascertain that myself without loss of time,’ said Nicholas.
+‘I will ascertain that myself without loss of [[Time|time]],’ said Nicholas.
 
 ‘You had better take some rest,’ returned Newman. ‘You are fevered and
 ill.’
 
 Nicholas waved his hand carelessly, and concealing the indisposition he
 really felt, now that the excitement which had sustained him was over,
-took a hurried farewell of Newman Noggs, and left him.
+took a hurried farewell of [[Newman Noggs]], and left him.
 
 Newman was not three minutes’ walk from Golden Square, but in the course
 of that three minutes he took the letter out of his hat and put it in
@@ -46,7 +46,7 @@ ecstasy with his commission.
 
 He reached the office, hung his hat on its accustomed peg, laid the
 letter and key upon the desk, and waited impatiently until Ralph
-Nickleby should appear. After a few minutes, the well-known creaking of
+Nickleby should appear. After a few minutes, the [[Well|well]]-known creaking of
 his boots was heard on the stairs, and then the bell rung.
 
 ‘Has the post come in?’
@@ -69,21 +69,21 @@ follows:--
 head which would carry with them one thousandth part of the grovelling
 shame that this assurance will awaken even in your breast.
 
-‘Your brother’s widow and her orphan child spurn the shelter of your
+‘Your brother’s widow and her [[Orphan|orphan]] [[Child|child]] spurn the shelter of your
 roof, and shun you with disgust and loathing. Your kindred renounce you,
-for they know no shame but the ties of blood which bind them in name
+for they know no shame but the ties of [[Blood|blood]] which bind them in name
 with you.
 
-‘You are an old man, and I leave you to the grave. May every
+‘You are an old man, and I leave you to the [[Grave|grave]]. May every
 recollection of your life cling to your false heart, and cast their
-darkness on your death-bed.’
+darkness on your [[Death|death]]-bed.’
 
-Ralph Nickleby read this letter twice, and frowning heavily, fell into
+[[Ralph Nickleby]] read this letter twice, and frowning heavily, fell into
 a fit of musing; the paper fluttered from his hand and dropped upon the
 floor, but he clasped his fingers, as if he held it still.
 
 Suddenly, he started from his seat, and thrusting it all crumpled into
-his pocket, turned furiously to Newman Noggs, as though to ask him
+his pocket, turned furiously to [[Newman Noggs]], as though to ask him
 why he lingered. But Newman stood unmoved, with his back towards him,
 following up, with the worn and blackened stump of an old pen, some
 figures in an Interest-table which was pasted against the wall, and

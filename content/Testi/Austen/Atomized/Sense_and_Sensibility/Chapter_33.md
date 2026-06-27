@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 33"
+title: "[[Sense and Sensibility]] — Chapter 33"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -56,7 +56,7 @@ was, to sit down at that end of the counter which seemed to promise the
 
 quickest succession; one gentleman only was standing there, and it is
 
-probable that Elinor was not without hope of exciting his politeness to
+probable that Elinor was not without [[Hope|hope]] of exciting his politeness to
 
 a quicker despatch. But the correctness of his eye, and the delicacy of
 
@@ -88,7 +88,7 @@ the puppyism of his manner in deciding on all the different horrors of
 
 the different toothpick-cases presented to his inspection, by remaining
 
-unconscious of it all; for she was as well able to collect her thoughts
+unconscious of it all; for she was as [[Well|well]] able to collect her thoughts
 
 within herself, and be as ignorant of what was passing around her, in
 
@@ -112,7 +112,7 @@ happy air of real conceit and affected indifference.
 
 
 
-Elinor lost no time in bringing her business forward, was on the point
+Elinor lost no [[Time|time]] in bringing her business forward, was on the point
 
 of concluding it, when another gentleman presented himself at her side.
 
@@ -202,7 +202,7 @@ them at the door.
 
 Mr. Dashwood attended them down stairs, was introduced to Mrs. Jennings
 
-at the door of her carriage, and repeating his hope of being able to
+at the door of her carriage, and repeating his [[Hope|hope]] of being able to
 
 call on them the next day, took leave.
 
@@ -238,11 +238,11 @@ to Conduit Street, and introduce him to Sir John and Lady Middleton.
 
 The weather was remarkably fine, and she readily consented. As soon as
 
-they were out of the house, his enquiries began.
+they were out of the [[house]], his enquiries began.
 
 
 
-“Who is Colonel Brandon? Is he a man of fortune?”
+“Who is [[Colonel Brandon]]? Is he a man of fortune?”
 
 
 
@@ -282,7 +282,7 @@ were _twice_ as much, for your sake.”
 
 “Indeed I believe you,” replied Elinor; “but I am very sure that
 
-Colonel Brandon has not the smallest wish of marrying _me_.”
+[[Colonel Brandon]] has not the smallest wish of marrying _me_.”
 
 
 
@@ -304,7 +304,7 @@ side—in short, you know as to an attachment of that kind, it is quite
 
 out of the question, the objections are insurmountable—you have too
 
-much sense not to see all that. Colonel Brandon must be the man; and no
+much sense not to see all that. [[Colonel Brandon]] must be the man; and no
 
 civility shall be wanting on my part to make him pleased with you and
 
@@ -316,7 +316,7 @@ whisper—“will be exceedingly welcome to _all parties_.” Recollecting
 
 himself, however, he added, “That is, I mean to say—your friends are
 
-all truly anxious to see you well settled; Fanny particularly, for she
+all truly anxious to see you [[Well|well]] settled; Fanny particularly, for she
 
 has your interest very much at heart, I assure you. And her mother too,
 
@@ -334,11 +334,11 @@ Elinor would not vouchsafe any answer.
 
 droll, if Fanny should have a brother and I a sister settling at the
 
-same time. And yet it is not very unlikely.”
+same [[Time|time]]. And yet it is not very unlikely.”
 
 
 
-“Is Mr. Edward Ferrars,” said Elinor, with resolution, “going to be
+“Is Mr. [[Edward Ferrars]],” said Elinor, with resolution, “going to be
 
 married?”
 
@@ -354,9 +354,9 @@ takes place. The lady is the Hon. Miss Morton, only daughter of the
 
 late Lord Morton, with thirty thousand pounds. A very desirable
 
-connection on both sides, and I have not a doubt of its taking place in
+connection on both sides, and I have not a [[Doubt|doubt]] of its taking place in
 
-time. A thousand a-year is a great deal for a mother to give away, to
+[[Time|time]]. A thousand a-year is a great deal for a mother to give away, to
 
 make over for ever; but Mrs. Ferrars has a noble spirit. To give you
 
@@ -384,9 +384,9 @@ but your income is a large one.”
 
 “Not so large, I dare say, as many people suppose. I do not mean to
 
-complain, however; it is undoubtedly a comfortable one, and I hope will
+complain, however; it is undoubtedly a comfortable one, and I [[Hope|hope]] will
 
-in time be better. The enclosure of Norland Common, now carrying on, is
+in [[Time|time]] be better. The enclosure of Norland Common, now carrying on, is
 
 a most serious drain. And then I have made a little purchase within
 
@@ -396,7 +396,7 @@ old Gibson used to live. The land was so very desirable for me in every
 
 respect, so immediately adjoining my own property, that I felt it my
 
-duty to buy it. I could not have answered it to my conscience to let it
+duty to buy it. I could not have answered it to my [[Conscience|conscience]] to let it
 
 fall into any other hands. A man must pay for his convenience; and it
 
@@ -408,11 +408,11 @@ _has_ cost me a vast deal of money.”
 
 
 
-“Why, I hope not that. I might have sold it again, the next day, for
+“Why, I [[Hope|hope]] not that. I might have sold it again, the next day, for
 
 more than I gave: but, with regard to the purchase-money, I might have
 
-been very unfortunate indeed; for the stocks were at that time so low,
+been very unfortunate indeed; for the stocks were at that [[Time|time]] so low,
 
 that if I had not happened to have the necessary sum in my banker’s
 
@@ -426,7 +426,7 @@ Elinor could only smile.
 
 “Other great and inevitable expenses too we have had on first coming to
 
-Norland. Our respected father, as you well know, bequeathed all the
+Norland. Our respected father, as you [[Well|well]] know, bequeathed all the
 
 Stanhill effects that remained at Norland (and very valuable they were)
 
@@ -444,7 +444,7 @@ rich, and how acceptable Mrs. Ferrars’s kindness is.”
 
 
 
-“Certainly,” said Elinor; “and assisted by her liberality, I hope you
+“Certainly,” said Elinor; “and assisted by her liberality, I [[Hope|hope]] you
 
 may yet live to be in easy circumstances.”
 
@@ -454,21 +454,21 @@ may yet live to be in easy circumstances.”
 
 however there is still a great deal to be done. There is not a stone
 
-laid of Fanny’s green-house, and nothing but the plan of the
+laid of Fanny’s green-[[house]], and nothing but the plan of the
 
-flower-garden marked out.”
-
-
-
-“Where is the green-house to be?”
+flower-[[Garden|garden]] marked out.”
 
 
 
-“Upon the knoll behind the house. The old walnut trees are all come
+“Where is the green-[[house]] to be?”
+
+
+
+“Upon the knoll behind the [[house]]. The old walnut trees are all come
 
 down to make room for it. It will be a very fine object from many parts
 
-of the park, and the flower-garden will slope down just before it, and
+of the park, and the flower-[[Garden|garden]] will slope down just before it, and
 
 be exceedingly pretty. We have cleared away all the old thorns that
 
@@ -482,7 +482,7 @@ thankful that Marianne was not present, to share the provocation.
 
 
 
-Having now said enough to make his poverty clear, and to do away the
+Having now said enough to make his [[Poverty|poverty]] clear, and to do away the
 
 necessity of buying a pair of ear-rings for each of his sisters, in his
 
@@ -492,7 +492,7 @@ began to congratulate Elinor on having such a friend as Mrs. Jennings.
 
 
 
-“She seems a most valuable woman indeed. Her house, her style of
+“She seems a most valuable woman indeed. Her [[house]], her style of
 
 living, all bespeak an exceeding good income; and it is an acquaintance
 
@@ -528,7 +528,7 @@ daughters, than to us?”
 
 
 
-“Her daughters are both exceedingly well married, and therefore I
+“Her daughters are both exceedingly [[Well|well]] married, and therefore I
 
 cannot perceive the necessity of her remembering them farther. Whereas,
 
@@ -560,19 +560,19 @@ and is grown quite thin. Is she ill?”
 
 
 
-“She is not well, she has had a nervous complaint on her for several
+“She is not [[Well|well]], she has had a nervous complaint on her for several
 
 weeks.”
 
 
 
-“I am sorry for that. At her time of life, any thing of an illness
+“I am sorry for that. At her [[Time|time]] of life, any thing of an illness
 
 destroys the bloom for ever! Hers has been a very short one! She was as
 
 handsome a girl last September, as I ever saw; and as likely to attract
 
-the man. There was something in her style of beauty, to please them
+the man. There was something in her style of [[Beauty|beauty]], to please them
 
 particularly. I remember Fanny used to say that she would marry sooner
 
@@ -596,25 +596,25 @@ earliest and best pleased of your visitors.”
 
 Elinor tried very seriously to convince him that there was no
 
-likelihood of her marrying Colonel Brandon; but it was an expectation
+likelihood of her marrying [[Colonel Brandon]]; but it was an expectation
 
 of too much pleasure to himself to be relinquished, and he was really
 
 resolved on seeking an intimacy with that gentleman, and promoting the
 
-marriage by every possible attention. He had just compunction enough
+[[Marriage|marriage]] by every possible attention. He had just compunction enough
 
 for having done nothing for his sisters himself, to be exceedingly
 
 anxious that everybody else should do a great deal; and an offer from
 
-Colonel Brandon, or a legacy from Mrs. Jennings, was the easiest means
+[[Colonel Brandon]], or a legacy from Mrs. Jennings, was the easiest means
 
 of atoning for his own neglect.
 
 
 
-They were lucky enough to find Lady Middleton at home, and Sir John
+They were lucky enough to find Lady Middleton at [[Home|home]], and Sir John
 
 came in before their visit ended. Abundance of civilities passed on all
 
@@ -636,11 +636,11 @@ walked back with his sister. “Lady Middleton is really a most elegant
 
 woman! Such a woman as I am sure Fanny will be glad to know. And Mrs.
 
-Jennings too, an exceedingly well-behaved woman, though not so elegant
+Jennings too, an exceedingly [[Well|well]]-behaved woman, though not so elegant
 
 as her daughter. Your sister need not have any scruple even of visiting
 
-_her_, which, to say the truth, has been a little the case, and very
+_her_, which, to say the [[Truth|truth]], has been a little the case, and very
 
 naturally; for we only knew that Mrs. Jennings was the widow of a man
 

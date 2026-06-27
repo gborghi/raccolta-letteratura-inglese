@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 37 (part 2)"
+title: "[[Oliver Twist]] — Chapter 37 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Now, Mrs. Corney that was, had tried the tears, because they were less
+Now, Mrs. Corney that was, had tried the [[Tears|tears]], because they were less
 troublesome than a manual assault; but, she was quite prepared to make
 trial of the latter mode of proceeding, as Mr. Bumble was not long in
 discovering.
@@ -26,15 +26,15 @@ head, the expert lady, clasping him tightly round the throat with one
 hand, inflicted a shower of blows (dealt with singular vigour and
 dexterity) upon it with the other. This done, she created a little
 variety by scratching his face, and tearing his hair; and, having, by
-this time, inflicted as much punishment as she deemed necessary for the
-offence, she pushed him over a chair, which was luckily well situated
+this [[Time|time]], inflicted as much punishment as she deemed necessary for the
+offence, she pushed him over a chair, which was luckily [[Well|well]] situated
 for the purpose: and defied him to talk about his prerogative again, if
 he dared.
 
 “Get up!” said Mrs. Bumble, in a voice of command. “And take yourself
 away from here, unless you want me to do something desperate.”
 
-Mr. Bumble rose with a very rueful countenance: wondering much what
+Mr. Bumble [[Rose|rose]] with a very rueful countenance: wondering much what
 something desperate might be. Picking up his hat, he looked towards the
 door.
 
@@ -61,7 +61,7 @@ impressing the reader with a just sense of his qualifications for
 office.
 
 But, the measure of his degradation was not yet full. After making a
-tour of the house, and thinking, for the first time, that the poor-laws
+tour of the [[house]], and thinking, for the first [[Time|time]], that the poor-laws
 really were too hard on people; and that men who ran away from their
 wives, leaving them chargeable to the parish, ought, in justice to be
 visited with no punishment at all, but rather rewarded as meritorious
@@ -86,7 +86,7 @@ here?”
 “I thought they were talking rather too much to be doing their work
 properly, my dear,” replied Mr. Bumble: glancing distractedly at a
 couple of old women at the wash-tub, who were comparing notes of
-admiration at the workhouse-master’s humility.
+admiration at the workhouse-master’s [[Humility|humility]].
 
 “_You_ thought they were talking too much?” said Mrs. Bumble. “What
 business is it of yours?”
@@ -100,15 +100,15 @@ business is it of yours?”
 
 “I’ll tell you what, Mr. Bumble,” returned his lady. “We don’t want any
 of your interference. You’re a great deal too fond of poking your nose
-into things that don’t concern you, making everybody in the house
+into things that don’t concern you, making everybody in the [[house]]
 laugh, the moment your back is turned, and making yourself look like a
-fool every hour in the day. Be off; come!”
+[[Fool|fool]] every hour in the day. Be off; come!”
 
 Mr. Bumble, seeing with excruciating feelings, the delight of the two
 old paupers, who were tittering together most rapturously, hesitated
 for an instant. Mrs. Bumble, whose patience brooked no delay, caught up
 a bowl of soap-suds, and motioning him towards the door, ordered him
-instantly to depart, on pain of receiving the contents upon his portly
+instantly to depart, on [[Pain|pain]] of receiving the contents upon his portly
 person.
 
 What could Mr. Bumble do? He looked dejectedly round, and slunk away;

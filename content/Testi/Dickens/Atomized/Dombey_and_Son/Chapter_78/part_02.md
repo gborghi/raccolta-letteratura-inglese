@@ -54,11 +54,11 @@ Carker read this slowly; weighing the words as he went, and bringing
 every tooth in his head to bear upon them. When he had read it through
 once, he turned it over again, and picked out these passages. “I find
 myself benefited by the change, and am not yet inclined to name any
-time for my return.” “I wish, Carker, you would arrange to come down
+[[Time|time]] for my return.” “I wish, Carker, you would arrange to come down
 once and see me here, and let me know how things are going on, in
 person.” “I omitted to speak to you about young Gay. If not gone per
 Son and Heir, or if Son and Heir still lying in the Docks, appoint some
-other young man and keep him in the City for the present. I am not
+other young man and keep him in the [[City]] for the present. I am not
 decided.” “Now that’s unfortunate!” said Mr Carker the Manager,
 expanding his mouth, as if it were made of India-rubber: “for he’s far
 away.”
@@ -66,7 +66,7 @@ away.”
 Still that passage, which was in a postscript, attracted his attention
 and his teeth, once more.
 
-“I think,” he said, “my good friend Captain Cuttle mentioned something
+“I think,” he said, “my good friend [[Captain Cuttle]] mentioned something
 about being towed along in the wake of that day. What a pity he’s so
 far away!”
 
@@ -74,7 +74,7 @@ He refolded the letter, and was sitting trifling with it, standing it
 long-wise and broad-wise on his table, and turning it over and over on
 all sides—doing pretty much the same thing, perhaps, by its
 contents—when Mr Perch the messenger knocked softly at the door, and
-coming in on tiptoe, bending his body at every step as if it were the
+coming in on tiptoe, bending his [[Body|body]] at every step as if it were the
 delight of his life to bow, laid some papers on the table.
 
 “Would you please to be engaged, Sir?” asked Mr Perch, rubbing his
@@ -85,7 +85,7 @@ keep it as much out of the way as possible.
 “Who wants me?”
 
 “Why, Sir,” said Mr Perch, in a soft voice, “really nobody, Sir, to
-speak of at present. Mr Gills the Ship’s Instrument-maker, Sir, has
+speak of at present. Mr Gills the [[Ship]]’s Instrument-maker, Sir, has
 looked in, about a little matter of payment, he says: but I mentioned
 to him, Sir, that you was engaged several deep; several deep.”
 
@@ -93,12 +93,12 @@ Mr Perch coughed once behind his hand, and waited for further orders.
 
 “Anybody else?”
 
-“Well, Sir,” said Mr Perch, “I wouldn’t of my own self take the liberty
+“[[Well]], Sir,” said Mr Perch, “I wouldn’t of my own [[Self|self]] take the liberty
 of mentioning, Sir, that there was anybody else; but that same young
 lad that was here yesterday, Sir, and last week, has been hanging about
 the place; and it looks, Sir,” added Mr Perch, stopping to shut the
 door, “dreadful unbusiness-like to see him whistling to the sparrows
-down the court, and making of ’em answer him.”
+down the [[Court|court]], and making of ’em answer him.”
 
 “You said he wanted something to do, didn’t you, Perch?” asked Mr
 Carker, leaning back in his chair and looking at that officer.
@@ -112,17 +112,17 @@ head very dubiously indeed.
 “What does he say when he comes?” asked Mr Carker.
 
 “Indeed, Sir,” said Mr Perch, coughing another cough behind his hand,
-which was always his resource as an expression of humility when nothing
+which was always his resource as an expression of [[Humility|humility]] when nothing
 else occurred to him, “his observation generally air that he would
 humbly wish to see one of the gentlemen, and that he wants to earn a
 living. But you see, Sir,” added Perch, dropping his voice to a
-whisper, and turning, in the inviolable nature of his confidence, to
+whisper, and turning, in the inviolable [[Nature|nature]] of his confidence, to
 give the door a thrust with his hand and knee, as if that would shut it
 any more when it was shut already, “it’s hardly to be bore, Sir, that a
 common lad like that should come a prowling here, and saying that his
-mother nursed our House’s young gentleman, and that he hopes our House
+mother nursed our [[house|House]]’s young gentleman, and that he hopes our [[house|House]]
 will give him a chance on that account. I am sure, Sir,” observed Mr
-Perch, “that although Mrs Perch was at that time nursing as thriving a
+Perch, “that although Mrs Perch was at that [[Time|time]] nursing as thriving a
 little girl, Sir, as we’ve ever took the liberty of adding to our
 family, I wouldn’t have made so free as drop a hint of her being
 capable of imparting nourishment, not if it was never so!”
@@ -130,9 +130,9 @@ capable of imparting nourishment, not if it was never so!”
 Mr Carker grinned at him like a shark, but in an absent, thoughtful
 manner.
 
-“Whether,” submitted Mr Perch, after a short silence, and another
+“Whether,” submitted Mr Perch, after a short [[Silence|silence]], and another
 cough, “it mightn’t be best for me to tell him, that if he was seen
 here any more he would be given into custody; and to keep to it! With
-respect to bodily fear,” said Mr Perch, “I’m so timid, myself, by
-nature, Sir, and my nerves is so unstrung by Mrs Perch’s state, that I
+respect to bodily [[Fear|fear]],” said Mr Perch, “I’m so timid, myself, by
+[[Nature|nature]], Sir, and my nerves is so unstrung by Mrs Perch’s state, that I
 could take my affidavit easy.”

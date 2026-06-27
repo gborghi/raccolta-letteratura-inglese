@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the \"Right"
+title: "[[LordKitchener]] — F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the \"Right"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/LordKitchener-(Chesterton)"

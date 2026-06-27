@@ -1,5 +1,5 @@
 ---
-title: "history — Chapter 13 (part 2)"
+title: "[[history]] — Chapter 13 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/history-(Chesterton)"
@@ -15,15 +15,15 @@ tags:
 
 
 The next thing to note is that their conception of
-church-government was in a true sense self-government;
+church-[[government]] was in a true sense [[Self|self]]-[[government]];
 and yet, for a particular reason, turned out to be a rather
-selfish self-government. It was equal and yet it was exclusive.
+selfish [[Self|self]]-[[government]]. It was equal and yet it was exclusive.
 Internally the synod or conventicle tended to be a small republic,
 but unfortunately to be a very small republic.  In relation to the
 street outside the conventicle was not a republic but an aristocracy.
 It was the most awful of all aristocracies, that of the elect;
 for it was not a right of birth but a right before birth,
-and alone of all nobilities it was not laid level in the dust.
+and [[Alone|alone]] of all nobilities it was not laid level in the [[Dust|dust]].
 Hence we have, on the one hand, in the simpler Puritans
 a ring of real republican virtue; a defiance of tyrants,
 an assertion of human dignity, but above all an appeal
@@ -39,10 +39,10 @@ the Regicide was not afraid to point.  They were certainly public,
 they may have been public-spirited, they were never popular;
 and it seems never to have crossed their minds that there
 was any need to be popular.  England was never so little of a
-democracy as during the short time when she was a republic.
+[[democracy]] as during the short [[Time|time]] when she was a republic.
 
 The struggle with the Stuarts, which is the next passage
-in our history, arose from an alliance, which some may think
+in our [[history]], arose from an alliance, which some may think
 an accidental alliance, between two things.  The first was this
 intellectual fashion of Calvinism which affected the cultured
 world as did our recent intellectual fashion of Collectivism.
@@ -51,42 +51,42 @@ and perhaps that cultured world possible--the aristocratic
 revolt under the last Tudors.  It was, we might say, the story
 of a father and a son dragging down the same golden image,
 but the younger really from hatred of idolatry, and the older
-solely from love of gold.  It is at once the tragedy and the
-paradox of England that it was the eternal passion that passed,
+solely from [[Love|love]] of gold.  It is at once the [[Tragedy|tragedy]] and the
+[[Paradox|paradox]] of England that it was the eternal passion that passed,
 and the transient or terrestrial passion that remained.
 This was true of England; it was far less true of Scotland;
 and that is the meaning of the Scotch and English war that ended
 at Worcester.  The first change had indeed been much the same
 materialist matter in both countries--a mere brigandage of barons;
-and even John Knox, though he has become a national hero,
+and even John Knox, though he has become a national [[Hero|hero]],
 was an extremely anti-national politician.  The patriot party
 in Scotland was that of Cardinal Beaton and Mary Stuart.
 Nevertheless the new creed did become popular in the Lowlands
 in a positive sense, not even yet known in our own land.
-Hence in Scotland Puritanism was the main thing, and was mixed
+Hence in Scotland [[Puritanism]] was the main thing, and was mixed
 with Parliamentary and other oligarchies.  In England Parliamentary
-oligarchy was the main thing, and was mixed with Puritanism.
-When the storm began to rise against Charles I, after the more
-or less transitional time of his father, the Scotch successor
+oligarchy was the main thing, and was mixed with [[Puritanism]].
+When the [[Storm|storm]] began to rise against Charles I, after the more
+or less transitional [[Time|time]] of his father, the Scotch successor
 of Elizabeth, the instances commonly cited mark all the difference
 between democratic religion and aristocratic politics.
 The Scotch legend is that of Jenny Geddes, the poor woman who threw
 a stool at the priest.  The English legend is that of John Hampden,
-the great squire who raised a county against the King.
+the great squire who raised a county against the [[King]].
 The Parliamentary movement in England was, indeed, almost wholly
 a thing of squires, with their new allies the merchants.
-They were squires who may well have regarded themselves
+They were squires who may [[Well|well]] have regarded themselves
 as the real and natural leaders of the English; but they
 were leaders who allowed no mutiny among their followers.
 There was certainly no Village Hampden in Hampden Village.
 
 The Stuarts, it may be suspected, brought from Scotland
 a more mediaeval and therefore more logical view of their
-own function; for the note of their nation was logic.
+own function; for the note of their nation was [[logic]].
 It is a proverb that James I was a Scot and a pedant;
 it is hardly sufficiently noted that Charles I also was
 not a little of a pedant, being very much of a Scot.
-He had also the virtues of a Scot, courage, and a quite
+He had also the virtues of a Scot, [[Courage|courage]], and a quite
 natural dignity and an appetite for the things of the mind.
 Being somewhat Scottish, he was very un-English, and could
 not manage a compromise:  he tried instead to split hairs,
@@ -99,19 +99,19 @@ perhaps he almost felt it as a foreigner.  The issue is familiar,
 and we need not be so careful as the gentleman who wished
 to finish the chapter in order to find not what happened
 to Charles I. His minister, the great Strafford, was foiled
-in an attempt to make him strong in the fashion of a French king,
+in an attempt to make him strong in the fashion of a French [[King|king]],
 and perished on the scaffold, a frustrated Richelieu.
 The Parliament claiming the power of the purse, Charles appealed
-to the power of the sword, and at first carried all before him;
-but success passed to the wealth of the Parliamentary class,
+to the power of the [[Sword|sword]], and at first carried all before him;
+but [[success]] passed to the wealth of the Parliamentary class,
 the discipline of the new army, and the patience and genius
-of Cromwell, and Charles died the same death as his great servant.
+of Cromwell, and Charles died the same [[Death|death]] as his great servant.
 
 Historically, the quarrel resolved itself; through ramifications
 generally followed perhaps in more detail than they deserve,
-into the great modern query of whether a king can raise taxes without
+into the great modern query of whether a [[King|king]] can raise taxes without
 the consent of his Parliament.  The test case was that of Hampden,
-the great Buckingham shire magnate, who challenged the legality
+the great [[Buckingham]] shire magnate, who challenged the legality
 of a tax which Charles imposed, professedly for a national navy.
 As even innovators always of necessity seek for sanctity in the past,
 the Puritan squires made a legend of the mediaeval Magna Carta;

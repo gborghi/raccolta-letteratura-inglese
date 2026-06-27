@@ -1,5 +1,5 @@
 ---
-title: "heret12 — On Sandals and Simplicity"
+title: "[[heret12]] — On Sandals and Simplicity"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/heret12-(Chesterton)"
@@ -33,7 +33,7 @@ Now, I do not think that it can be honestly denied that
 some portion of this impossibility attaches to a class
 very different in their own opinion, at least, to the school
 of Anglo-Saxonism. I mean that school of the simple life,
-commonly associated with Tolstoy.  If a perpetual talk about
+commonly associated with [[tolstoy|Tolstoy]].  If a perpetual talk about
 one's own robustness leads to being less robust, it is even
 more true that a perpetual talking about one's own simplicity
 leads to being less simple.  One great complaint, I think,
@@ -45,14 +45,14 @@ the unimportant things, but complex in the important things.
 They would make us simple in the things that do not matter--
 that is, in diet, in costume, in etiquette, in economic system.
 But they would make us complex in the things that do matter--
-in philosophy, in loyalty, in spiritual acceptance,
+in [[philosophy]], in loyalty, in spiritual acceptance,
 and spiritual rejection.  It does not so very much matter whether
 a man eats a grilled tomato or a plain tomato; it does very much
 matter whether he eats a plain tomato with a grilled mind.
 The only kind of simplicity worth preserving is the simplicity
 of the heart, the simplicity which accepts and enjoys.
-There may be a reasonable doubt as to what system preserves this;
-there can surely be no doubt that a system of simplicity destroys it.
+There may be a reasonable [[Doubt|doubt]] as to what system preserves this;
+there can surely be no [[Doubt|doubt]] that a system of simplicity destroys it.
 There is more simplicity in the man who eats caviar on
 impulse than in the man who eats grape-nuts on principle.
 The chief error of these people is to be found in the very phrase
@@ -70,13 +70,13 @@ It would teach them that ritualism is older than any religion.
 And a little plain thinking would teach them how harsh and
 fanciful are the mass of their own ethics, how very civilized
 and very complicated must be the brain of the Tolstoyan who
-really believes it to be evil to love one's country and wicked
+really believes it to be evil to [[Love|love]] one's country and wicked
 to strike a blow.
 
 A man approaches, wearing sandals and simple raiment, a raw tomato
 held firmly in his right hand, and says, "The affections of family and
-country alike are hindrances to the fuller development of human love;"
-but the plain thinker will only answer him, with a wonder not untinged
+country alike are hindrances to the fuller development of human [[Love|love]];"
+but the plain thinker will only answer him, with a [[Wonder|wonder]] not untinged
 with admiration, "What a great deal of trouble you must have taken
 in order to feel like that."  High living will reject the tomato.
 Plain thinking will equally decisively reject the idea of the invariable
@@ -87,37 +87,37 @@ than to reserve our horror chiefly for material wounds.
 
 The only simplicity that matters is the simplicity of the heart.
 If that be gone, it can be brought back by no turnips or
-cellular clothing; but only by tears and terror and the fires
+cellular clothing; but only by [[Tears|tears]] and terror and the fires
 that are not quenched.  If that remain, it matters very little
 if a few Early Victorian armchairs remain along with it.
 Let us put a complex entree into a simple old gentleman;
 let us not put a simple entree into a complex old gentleman.
-So long as human society will leave my spiritual inside alone,
+So long as human society will leave my spiritual inside [[Alone|alone]],
 I will allow it, with a comparative submission, to work its wild
 will with my physical interior.  I will submit to cigars.
 I will meekly embrace a bottle of Burgundy.  I will humble myself
 to a hansom cab.  If only by this means I may preserve to myself
-the virginity of the spirit, which enjoys with astonishment and fear.
+the virginity of the spirit, which enjoys with astonishment and [[Fear|fear]].
 I do not say that these are the only methods of preserving it.
 I incline to the belief that there are others.  But I will have
-nothing to do with simplicity which lacks the fear, the astonishment,
+nothing to do with simplicity which lacks the [[Fear|fear]], the astonishment,
 and the joy alike.  I will have nothing to do with the devilish
-vision of a child who is too simple to like toys.
+vision of a [[Child|child]] who is too simple to like toys.
 
-The child is, indeed, in these, and many other matters, the best guide.
-And in nothing is the child so righteously childlike, in nothing
+The [[Child|child]] is, indeed, in these, and many other matters, the best guide.
+And in nothing is the [[Child|child]] so righteously childlike, in nothing
 does he exhibit more accurately the sounder order of simplicity,
 than in the fact that he sees everything with a simple pleasure,
 even the complex things.  The false type of naturalness harps
 always on the distinction between the natural and the artificial.
 The higher kind of naturalness ignores that distinction.
-To the child the tree and the lamp-post are as natural and as
+To the [[Child|child]] the tree and the lamp-post are as natural and as
 artificial as each other; or rather, neither of them are natural
-but both supernatural.  For both are splendid and unexplained.
+but both [[Supernatural|supernatural]].  For both are splendid and unexplained.
 The flower with which God crowns the one, and the flame with which
 Sam the lamplighter crowns the other, are equally of the gold
 of fairy-tales. In the middle of the wildest fields the most rustic
-child is, ten to one, playing at steam-engines. And the only spiritual
+[[Child|child]] is, ten to one, playing at steam-engines. And the only spiritual
 or philosophical objection to steam-engines is not that men pay
 for them or work at them, or make them very ugly, or even that men
 are killed by them; but merely that men do not play at them.
@@ -128,14 +128,14 @@ but that men are mechanical.
 
 In this matter, then, as in all the other matters treated
 in this book, our main conclusion is that it is a fundamental
-point of view, a philosophy or religion which is needed,
+point of view, a [[philosophy]] or religion which is needed,
 and not any change in habit or social routine.  The things we
 need most for immediate practical purposes are all abstractions.
 We need a right view of the human lot, a right view of
 the human society; and if we were living eagerly and angrily
 in the enthusiasm of those things, we should, ipso facto,
 be living simply in the genuine and spiritual sense.
-Desire and danger make every one simple.  And to those who talk to us
+[[Desire]] and danger make every one simple.  And to those who talk to us
 with interfering eloquence about Jaeger and the pores of the skin,
 and about Plasmon and the coats of the stomach, at them shall
 only be hurled the words that are hurled at fops and gluttons,
@@ -146,16 +146,16 @@ His righteousness, and all these things shall be added unto you."
 Those amazing words are not only extraordinarily good,
 practical politics; they are also superlatively good hygiene.
 The one supreme way of making all those processes go right,
-the processes of health, and strength, and grace, and beauty,
+the processes of health, and strength, and grace, and [[Beauty|beauty]],
 the one and only way of making certain of their accuracy,
 is to think about something else.  If a man is bent on climbing into
 the seventh heaven, he may be quite easy about the pores of his skin.
 If he harnesses his waggon to a star, the process will have
 a most satisfactory effect upon the coats of his stomach.
 For the thing called "taking thought," the thing for which
-the best modern word is "rationalizing," is in its nature,
+the best modern word is "rationalizing," is in its [[Nature|nature]],
 inapplicable to all plain and urgent things.  Men take
 thought and ponder rationalistically, touching remote things--
 things that only theoretically matter, such as the transit
-of Venus.  But only at their peril can men rationalize about
+of [[Venus]].  But only at their peril can men rationalize about
 so practical a matter as health.

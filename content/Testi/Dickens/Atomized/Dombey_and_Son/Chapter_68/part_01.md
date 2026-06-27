@@ -15,11 +15,11 @@ tags:
 
 
 CHAPTER XII.
-Paul’s Education
+Paul’s [[Education]]
 
 
-After the lapse of some minutes, which appeared an immense time to
-little Paul Dombey on the table, Doctor Blimber came back. The Doctor’s
+After the lapse of some minutes, which appeared an immense [[Time|time]] to
+little [[Paul Dombey]] on the table, Doctor Blimber came back. The Doctor’s
 walk was stately, and calculated to impress the juvenile mind with
 solemn feelings. It was a sort of march; but when the Doctor put out
 his right foot, he gravely turned upon his axis, with a semi-circular
@@ -52,18 +52,18 @@ Blimber.
 Miss Blimber’s sensibility, he looked up at the three faces that were
 looking down at him, and said:
 
-“I haven’t been well. I have been a weak child. I couldn’t learn a
+“I haven’t been [[Well|well]]. I have been a weak [[Child|child]]. I couldn’t learn a
 Latin Grammar when I was out, every day, with old Glubb. I wish you’d
 tell old Glubb to come and see me, if you please.”
 
 “What a dreadfully low name” said Mrs Blimber. “Unclassical to a
-degree! Who is the monster, child?”
+degree! Who is the [[Monster|monster]], [[Child|child]]?”
 
-“What monster?” inquired Paul.
+“What [[Monster|monster]]?” inquired Paul.
 
 “Glubb,” said Mrs Blimber, with a great disrelish.
 
-“He’s no more a monster than you are,” returned Paul.
+“He’s no more a [[Monster|monster]] than you are,” returned Paul.
 
 “What!” cried the Doctor, in a terrible voice. “Ay, ay, ay? Aha! What’s
 that?”
@@ -74,7 +74,7 @@ absent Glubb, though he did it trembling.
 “He’s a very nice old man, Ma’am,” he said. “He used to draw my couch.
 He knows all about the deep sea, and the fish that are in it, and the
 great monsters that come and lie on rocks in the sun, and dive into the
-water again when they’re startled, blowing and splashing so, that they
+[[Water|water]] again when they’re startled, blowing and splashing so, that they
 can be heard for miles. There are some creatures, said Paul, warming
 with his subject, “I don’t know how many yards long, and I forget their
 names, but Florence knows, that pretend to be in distress; and when a
@@ -85,19 +85,19 @@ runs away, and then, as they turn slowly, because they are so long, and
 can’t bend, he’s sure to beat them. And though old Glubb don’t know why
 the sea should make me think of my Mama that’s dead, or what it is that
 it is always saying—always saying! he knows a great deal about it. And
-I wish,” the child concluded, with a sudden falling of his countenance,
+I wish,” the [[Child|child]] concluded, with a sudden falling of his countenance,
 and failing in his animation, as he looked like one forlorn, upon the
 three strange faces, “that you’d let old Glubb come here to see me, for
-I know him very well, and he knows me.”
+I know him very [[Well|well]], and he knows me.”
 
 “Ha!” said the Doctor, shaking his head; “this is bad, but study will
 do much.”
 
 Mrs Blimber opined, with something like a shiver, that he was an
-unaccountable child; and, allowing for the difference of visage, looked
+unaccountable [[Child|child]]; and, allowing for the difference of visage, looked
 at him pretty much as Mrs Pipchin had been used to do.
 
-“Take him round the house, Cornelia,” said the Doctor, “and familiarise
+“Take him round the [[house]], Cornelia,” said the Doctor, “and familiarise
 him with his new sphere. Go with that young lady, Dombey.”
 
 Dombey obeyed; giving his hand to the abstruse Cornelia, and looking at
@@ -110,7 +110,7 @@ Cornelia took him first to the schoolroom, which was situated at the
 back of the hall, and was approached through two baize doors, which
 deadened and muffled the young gentlemen’s voices. Here, there were
 eight young gentlemen in various stages of mental prostration, all very
-hard at work, and very grave indeed. Toots, as an old hand, had a desk
+hard at work, and very [[Grave|grave]] indeed. Toots, as an old hand, had a desk
 to himself in one corner: and a magnificent man, of immense age, he
 looked, in Paul’s young eyes, behind it.
 
@@ -118,10 +118,10 @@ Mr Feeder, B.A., who sat at another little desk, had his Virgil stop
 on, and was slowly grinding that tune to four young gentlemen. Of the
 remaining four, two, who grasped their foreheads convulsively, were
 engaged in solving mathematical problems; one with his face like a
-dirty window, from much crying, was endeavouring to flounder through a
+dirty [[Window|window]], from much crying, was endeavouring to flounder through a
 hopeless number of lines before dinner; and one sat looking at his task
-in stony stupefaction and despair—which it seemed had been his
-condition ever since breakfast time.
+in stony stupefaction and [[Despair|despair]]—which it seemed had been his
+condition ever since breakfast [[Time|time]].
 
 The appearance of a new boy did not create the sensation that might
 have been expected. Mr Feeder, B.A. (who was in the habit of shaving
@@ -131,7 +131,7 @@ have been very glad to have told him, if he could have done so with the
 least sincerity. Then Paul, instructed by Cornelia, shook hands with
 the four young gentlemen at Mr Feeder’s desk; then with the two young
 gentlemen at work on the problems, who were very feverish; then with
-the young gentleman at work against time, who was very inky; and lastly
+the young gentleman at work against [[Time|time]], who was very inky; and lastly
 with the young gentleman in a state of stupefaction, who was flabby and
 quite cold.
 

@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 6)"
+title: "[[David Copperfield]] — Chapter 17: SOMEBODY TURNS UP (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -27,26 +27,26 @@ induced to think, on inquiry, that there might be an opening for a
 man of his talent in the Medway Coal Trade. Then, as Mr. Micawber very
 properly said, the first step to be taken clearly was, to come and see
 the Medway. Which we came and saw. I say “we”, Master Copperfield; for
-I never will,’ said Mrs. Micawber with emotion, ‘I never will desert Mr.
+I never will,’ said Mrs. Micawber with emotion, ‘I never will [[Desert|desert]] Mr.
 Micawber.’
 
 I murmured my admiration and approbation.
 
 ‘We came,’ repeated Mrs. Micawber, ‘and saw the Medway. My opinion of
-the coal trade on that river is, that it may require talent, but that
+the coal trade on that [[River|river]] is, that it may require talent, but that
 it certainly requires capital. Talent, Mr. Micawber has; capital, Mr.
 Micawber has not. We saw, I think, the greater part of the Medway; and
 that is my individual conclusion. Being so near here, Mr. Micawber was
-of opinion that it would be rash not to come on, and see the Cathedral.
-Firstly, on account of its being so well worth seeing, and our never
+of opinion that it would be rash not to come on, and see the [[Cathedral]].
+Firstly, on account of its being so [[Well|well]] worth seeing, and our never
 having seen it; and secondly, on account of the great probability of
-something turning up in a cathedral town. We have been here,’ said Mrs.
+something turning up in a [[Cathedral|cathedral]] town. We have been here,’ said Mrs.
 Micawber, ‘three days. Nothing has, as yet, turned up; and it may
 not surprise you, my dear Master Copperfield, so much as it would a
 stranger, to know that we are at present waiting for a remittance from
-London, to discharge our pecuniary obligations at this hotel. Until the
+[[London]], to discharge our pecuniary obligations at this hotel. Until the
 arrival of that remittance,’ said Mrs. Micawber with much feeling, ‘I am
-cut off from my home (I allude to lodgings in Pentonville), from my boy
+cut off from my [[Home|home]] (I allude to lodgings in Pentonville), from my boy
 and girl, and from my twins.’
 
 I felt the utmost sympathy for Mr. and Mrs. Micawber in this anxious
@@ -72,14 +72,14 @@ found Mr. Micawber in the parlour; who had called to say that the dinner
 would take place as proposed. When I asked him if the remittance had
 come, he pressed my hand and departed.
 
-As I was looking out of window that same evening, it surprised me, and
-made me rather uneasy, to see Mr. Micawber and Uriah Heep walk past, arm
-in arm: Uriah humbly sensible of the honour that was done him, and Mr.
+As I was looking out of [[Window|window]] that same evening, it surprised me, and
+made me rather uneasy, to see Mr. Micawber and [[Uriah Heep]] walk past, arm
+in arm: Uriah humbly sensible of the [[Honour|honour]] that was done him, and Mr.
 Micawber taking a bland delight in extending his patronage to Uriah. But
 I was still more surprised, when I went to the little hotel next day at
-the appointed dinner-hour, which was four o’clock, to find, from what
-Mr. Micawber said, that he had gone home with Uriah, and had drunk
-brandy-and-water at Mrs. Heep’s.
+the appointed dinner-hour, which was four o’[[Clock|clock]], to find, from what
+Mr. Micawber said, that he had gone [[Home|home]] with Uriah, and had drunk
+brandy-and-[[Water|water]] at Mrs. Heep’s.
 
 ‘And I’ll tell you what, my dear Copperfield,’ said Mr. Micawber, ‘your
 friend Heep is a young fellow who might be attorney-general. If I had
@@ -103,7 +103,7 @@ dinner Mrs. Micawber made us a bowl of hot punch with her own hands.
 Mr. Micawber was uncommonly convivial. I never saw him such good
 company. He made his face shine with the punch, so that it looked as if
 it had been varnished all over. He got cheerfully sentimental about
-the town, and proposed success to it; observing that Mrs. Micawber and
+the town, and proposed [[success]] to it; observing that Mrs. Micawber and
 himself had been made extremely snug and comfortable there and that he
 never should forget the agreeable hours they had passed in Canterbury.
 He proposed me afterwards; and he, and Mrs. Micawber, and I, took a
@@ -113,7 +113,7 @@ said, modestly, ‘If you’ll allow me, Mrs. Micawber, I shall now have
 the pleasure of drinking your health, ma’am.’ On which Mr. Micawber
 delivered an eulogium on Mrs. Micawber’s character, and said she
 had ever been his guide, philosopher, and friend, and that he would
-recommend me, when I came to a marrying time of life, to marry such
+recommend me, when I came to a marrying [[Time|time]] of life, to marry such
 another woman, if such another woman could be found.
 
 As the punch disappeared, Mr. Micawber became still more friendly and

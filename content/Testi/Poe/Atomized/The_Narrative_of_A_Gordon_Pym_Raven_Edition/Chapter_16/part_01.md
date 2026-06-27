@@ -28,7 +28,7 @@ CHAPTER 16
 
       information received at Tristan d’Acunha induced him to steer to
 
-      the southward, in the hope of falling in with some small islands
+      the southward, in the [[Hope|hope]] of falling in with some small islands
 
       said to lie about the parallel of 60 degrees S., longitude 41
 
@@ -52,7 +52,7 @@ CHAPTER 16
 
       Before entering upon this portion of my narrative, it may be as
 
-      well, for the information of those readers who have paid little
+      [[Well|well]], for the information of those readers who have paid little
 
       attention to the progress of discovery in these regions, to give
 
@@ -80,7 +80,7 @@ CHAPTER 16
 
       difficulty in forcing a passage. At this period Captain Cook
 
-      supposed, from the vast number of birds to be seen, and from
+      supposed, from the vast number of [[Birds|birds]] to be seen, and from
 
       other indications, that he was in the near vicinity of land. He
 
@@ -96,7 +96,7 @@ CHAPTER 16
 
       penetrating much farther; for upon reaching latitude 67 degrees
 
-      15’ they found all farther progress impeded by an immense body of
+      15’ they found all farther progress impeded by an immense [[Body|body]] of
 
       ice, extending all along the southern horizon as far as the eye
 
@@ -104,9 +104,9 @@ CHAPTER 16
 
       of it, miles in extent, formed a compact mass, rising eighteen or
 
-      twenty feet above the water. It being late in the season, and no
+      twenty feet above the [[Water|water]]. It being late in the season, and no
 
-      hope entertained of rounding these obstructions, Captain Cook now
+      [[Hope|hope]] entertained of rounding these obstructions, Captain Cook now
 
       reluctantly turned to the northward.
 
@@ -120,7 +120,7 @@ CHAPTER 16
 
       67 degrees 31’, longitude 142 degrees 54’ W., the cold was
 
-      excessive, with heavy gales and fog. Here also birds were
+      excessive, with heavy gales and fog. Here also [[Birds|birds]] were
 
       abundant; the albatross, the penguin, and the peterel especially.
 
@@ -146,7 +146,7 @@ CHAPTER 16
 
       terminated in the extreme background by gigantic ranges of ice
 
-      mountains, the one towering above the other. Captain Cook
+      [[Mountains|mountains]], the one towering above the other. Captain Cook
 
       concluded that this vast field reached the southern pole or was
 
@@ -176,7 +176,7 @@ CHAPTER 16
 
       the sixth of January—and we should not be surprised if a portion
 
-      of the icy mountains described was attached to the main body of
+      of the icy [[Mountains|mountains]] described was attached to the main [[Body|body]] of
 
       Palmer’s Land, or to some other portions of land lying farther to
 
@@ -186,7 +186,7 @@ CHAPTER 16
 
       In 1803, Captains Kreutzenstern and Lisiausky were dispatched by
 
-      Alexander of Russia for the purpose of circumnavigating the
+      Alexander of [[Russia]] for the purpose of circumnavigating the
 
       globe. In endeavouring to get south, they made no farther than 59
 

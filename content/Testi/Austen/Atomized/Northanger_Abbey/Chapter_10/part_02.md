@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 9 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 9 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -26,7 +26,7 @@ an hour) by no means alarmingly fast, gave herself up to all the
 
 enjoyment of air and exercise of the most invigorating kind, in a fine
 
-mild day of February, with the consciousness of safety. A silence of
+mild day of February, with the consciousness of safety. A [[Silence|silence]] of
 
 several minutes succeeded their first short dialogue; it was broken by
 
@@ -68,7 +68,7 @@ adding in explanation, “Old Allen, the man you are with.”
 
 “Aye, that is what I meant. He seems a good kind of old fellow enough,
 
-and has lived very well in his time, I dare say; he is not gouty for
+and has lived very [[Well|well]] in his [[Time|time]], I dare say; he is not gouty for
 
 nothing. Does he drink his bottle a day now?”
 
@@ -76,7 +76,7 @@ nothing. Does he drink his bottle a day now?”
 
 “His bottle a day! no. Why should you think of such a thing? He is a
 
-very temperate man, and you could not fancy him in liquor last night?”
+very temperate man, and you could not fancy him in liquor last [[Night|night]]?”
 
 
 
@@ -106,11 +106,11 @@ be. Our foggy climate wants help.”
 
 “And yet I have heard that there is a great deal of wine drunk in
 
-Oxford.”
+[[Oxford]].”
 
 
 
-“Oxford! there is no drinking at Oxford now, I assure you. Nobody
+“[[Oxford]]! there is no drinking at [[Oxford]] now, I assure you. Nobody
 
 drinks there. You would hardly meet with a man who goes beyond his four
 
@@ -122,7 +122,7 @@ about five pints a head. It was looked upon as something out of the
 
 common way. _Mine_ is famous good stuff, to be sure. You would not
 
-often meet with anything like it in Oxford—and that may account for it.
+often meet with anything like it in [[Oxford]]—and that may account for it.
 
 But this will just give you a notion of the general rate of drinking
 
@@ -146,7 +146,7 @@ almost to oaths, which adorned it, and Catherine was left, when it
 
 ended, with rather a strengthened belief of there being a great deal of
 
-wine drunk in Oxford, and the same happy conviction of her brother’s
+wine drunk in [[Oxford]], and the same happy conviction of her brother’s
 
 comparative sobriety.
 
@@ -154,13 +154,13 @@ comparative sobriety.
 
 Thorpe’s ideas then all reverted to the merits of his own equipage, and
 
-she was called on to admire the spirit and freedom with which his horse
+she was called on to admire the spirit and [[Freedom|freedom]] with which his [[Horse|horse]]
 
-moved along, and the ease which his paces, as well as the excellence of
+moved along, and the ease which his paces, as [[Well|well]] as the excellence of
 
 the springs, gave the motion of the carriage. She followed him in all
 
-his admiration as well as she could. To go before or beyond him was
+his admiration as [[Well|well]] as she could. To go before or beyond him was
 
 impossible. His knowledge and her ignorance of the subject, his
 
@@ -174,9 +174,9 @@ between them without any difficulty that his equipage was altogether
 
 the most complete of its kind in England, his carriage the neatest, his
 
-horse the best goer, and himself the best coachman. “You do not really
+[[Horse|horse]] the best goer, and himself the best coachman. “You do not really
 
-think, Mr. Thorpe,” said Catherine, venturing after some time to
+think, Mr. Thorpe,” said Catherine, venturing after some [[Time|time]] to
 
 consider the matter as entirely decided, and to offer some little
 
@@ -188,9 +188,9 @@ variation on the subject, “that James’s gig will break down?”
 
 your life? There is not a sound piece of iron about it. The wheels have
 
-been fairly worn out these ten years at least—and as for the body! upon
+been fairly worn out these ten years at least—and as for the [[Body|body]]! upon
 
-my soul, you might shake it to pieces yourself with a touch. It is the
+my [[Soul|soul]], you might shake it to pieces yourself with a touch. It is the
 
 most devilish little rickety business I ever beheld! thank God! we have
 
@@ -232,7 +232,7 @@ such very different accounts of the same thing; for she had not been
 
 brought up to understand the propensities of a rattle, nor to know to
 
-how many idle assertions and impudent falsehoods the excess of vanity
+how many idle assertions and impudent falsehoods the excess of [[Vanity|vanity]]
 
 will lead. Her own family were plain, matter-of-fact people who seldom
 
@@ -244,4 +244,4 @@ therefore of telling lies to increase their importance, or of asserting
 
 at one moment what they would contradict the next. She reflected on the
 
-affair for some time in much perplexity, and was more than once on the
+affair for some [[Time|time]] in much perplexity, and was more than once on the

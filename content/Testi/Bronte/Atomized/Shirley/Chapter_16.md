@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 16"
+title: "[[Shirley]] — Chapter 16"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -38,11 +38,11 @@ poor. The neighbourhood seemed to grow calmer. For a fortnight past no
 
 cloth had been destroyed; no outrage on mill or mansion had been
 
-committed in the three parishes. Shirley was sanguine that the evil she
+committed in the three parishes. [[Shirley]] was sanguine that the evil she
 
-wished to avert was almost escaped, that the threatened storm was
+wished to avert was almost escaped, that the threatened [[Storm|storm]] was
 
-passing over. With the approach of summer she felt certain that trade
+passing over. With the approach of [[Summer|summer]] she felt certain that trade
 
 would improve--it always did; and then this weary war could not last for
 
@@ -64,9 +64,9 @@ least some additional remark. Smiling in his way, with that expression
 
 which gave a remarkable cast of sweetness to his mouth, while his brow
 
-remained grave, he would answer to the effect that himself too trusted
+remained [[Grave|grave]], he would answer to the effect that himself too trusted
 
-in the finite nature of the war; that it was indeed on that ground the
+in the finite [[Nature|nature]] of the war; that it was indeed on that ground the
 
 anchor of his hopes was fixed; thereon his speculations depended. "For
 
@@ -78,7 +78,7 @@ goods. I manufacture for a future day. I make myself ready to take
 
 advantage of the first opening that shall occur. Three months ago this
 
-was impossible to me; I had exhausted both credit and capital. You well
+was impossible to me; I had exhausted both credit and capital. You [[Well|well]]
 
 know who came to my rescue, from what hand I received the loan which
 
@@ -100,11 +100,11 @@ impulse to commerce. In this you are right; but as to the restored
 
 tranquillity of the neighbourhood, as to the permanent good effect of
 
-your charitable fund, I doubt. Eleemosynary relief never yet
+your charitable fund, I [[Doubt|doubt]]. Eleemosynary relief never yet
 
 tranquillized the working-classes--it never made them grateful; it is
 
-not in human nature that it should. I suppose, were all things ordered
+not in human [[Nature|nature]] that it should. I suppose, were all things ordered
 
 aright, they ought not to be in a position to need that humiliating
 
@@ -124,17 +124,17 @@ good state of discipline; no blow is struck without mature deliberation.
 
 In sultry weather you have seen the sky threaten thunder day by day, and
 
-yet night after night the clouds have cleared, and the sun has set
+yet [[Night|night]] after [[Night|night]] the clouds have cleared, and the sun has set
 
 quietly; but the danger was not gone--it was only delayed. The
 
-long-threatening storm is sure to break at last. There is analogy
+long-threatening [[Storm|storm]] is sure to break at last. There is analogy
 
 between the moral and physical atmosphere."
 
 
 
-"Well, Mr. Moore" (so these conferences always ended), "take care of
+"[[Well]], Mr. Moore" (so these conferences always ended), "take care of
 
 yourself. If you think that I have ever done you any good, reward me by
 
@@ -166,15 +166,15 @@ The maid came bustling in with the tea-things.
 
 The early part of that May, as we have seen, was fine; the middle was
 
-wet; but in the last week, at change of moon, it cleared again. A fresh
+wet; but in the last week, at change of [[Moon|moon]], it cleared again. A fresh
 
-wind swept off the silver-white, deep-piled rain-clouds, bearing them,
+[[Wind|wind]] swept off the silver-white, deep-piled rain-clouds, bearing them,
 
 mass on mass, to the eastern horizon, on whose verge they dwindled, and
 
 behind whose rim they disappeared, leaving the vault behind all pure
 
-blue space, ready for the reign of the summer sun. That sun rose broad
+blue space, ready for the reign of the [[Summer|summer]] sun. That sun [[Rose|rose]] broad
 
 on Whitsuntide. The gathering of the schools was signalized by splendid
 
@@ -188,9 +188,9 @@ schoolrooms of Briarfield, built by the present rector, chiefly at his
 
 own expense, were cleaned out, whitewashed, repainted, and decorated
 
-with flowers and evergreens--some from the rectory garden, two cartloads
+with [[Flowers|flowers]] and evergreens--some from the rectory [[Garden|garden]], two cartloads
 
-from Fieldhead, and a wheel-barrowful from the more stingy domain of De
+from Fieldhead, and a [[Wheel|wheel]]-barrowful from the more stingy domain of De
 
 Walden, the residence of Mr. Wynne. In these schoolrooms twenty tables,
 
@@ -202,7 +202,7 @@ at least some twenty cages, containing as many canaries, according to a
 
 fancy of the district, specially cherished by Mr. Helstone's clerk, who
 
-delighted in the piercing song of these birds, and knew that amidst
+delighted in the piercing [[Song|song]] of these [[Birds|birds]], and knew that amidst
 
 confusion of tongues they always carolled loudest. These tables, be it
 
@@ -212,7 +212,7 @@ assembled from the three parishes, but only for the patrons and teachers
 
 of the schools. The children's feast was to be spread in the open air.
 
-At one o'clock the troops were to come in; at two they were to be
+At one o'[[Clock|clock]] the troops were to come in; at two they were to be
 
 marshalled; till four they were to parade the parish; then came the
 
@@ -246,7 +246,7 @@ and imperious brother. They let him lead and rule.
 
 This notable anniversary had always hitherto been a trying day to
 
-Caroline Helstone, because it dragged her perforce into public,
+[[Caroline Helstone]], because it dragged her perforce into public,
 
 compelling her to face all that was wealthy, respectable, influential in
 
@@ -270,27 +270,27 @@ approach of Whitsuntide.
 
 
 
-But this year Shirley was to be with her, and that changed the aspect of
+But this year [[Shirley]] was to be with her, and that changed the aspect of
 
 the trial singularly--it changed it utterly. It was a trial no
 
 longer--it was almost an enjoyment. Miss Keeldar was better in her
 
-single self than a host of ordinary friends. Quite self-possessed, and
+single [[Self|self]] than a host of ordinary friends. Quite [[Self|self]]-possessed, and
 
 always spirited and easy; conscious of her social importance, yet never
 
-presuming upon it--it would be enough to give one courage only to look
+presuming upon it--it would be enough to give one [[Courage|courage]] only to look
 
-at her. The only fear was lest the heiress should not be punctual to
+at her. The only [[Fear|fear]] was lest the heiress should not be punctual to
 
-tryst. She often had a careless way of lingering behind time, and
+tryst. She often had a careless way of lingering behind [[Time|time]], and
 
 Caroline knew her uncle would not wait a second for any one. At the
 
-moment of the church clock tolling two, the bells would clash out and
+moment of the church [[Clock|clock]] tolling two, [[The Bells|the bells]] would clash out and
 
-the march begin. She must look after Shirley, then, in this matter, or
+the march begin. She must look after [[Shirley]], then, in this matter, or
 
 her expected companion would fail her.
 
@@ -334,7 +334,7 @@ her brown eye and clear forehead showed of her mind was in keeping with
 
 her dress and face--modest, gentle, and, though pensive, harmonious. It
 
-appeared that neither lamb nor dove need fear her, but would welcome
+appeared that neither [[Lamb|lamb]] nor dove need [[Fear|fear]] her, but would welcome
 
 rather, in her look of simplicity and softness, a sympathy with their
 
@@ -356,7 +356,7 @@ Away Caroline went, across some very sequestered fields and through some
 
 quite hidden lanes, to Fieldhead. She glided quickly under the green
 
-hedges and across the greener leas. There was no dust, no moisture, to
+hedges and across the greener leas. There was no [[Dust|dust]], no moisture, to
 
 soil the hem of her stainless garment, or to damp her slender sandal.
 
@@ -370,9 +370,9 @@ Keeldar's dressing-room.
 
 
 
-It was well she had come, or Shirley would have been too late. Instead
+It was [[Well|well]] she had come, or [[Shirley]] would have been too late. Instead
 
-of making ready with all speed, she lay stretched on a couch, absorbed
+of making ready with all [[Speed|speed]], she lay stretched on a couch, absorbed
 
 in reading. Mrs. Pryor stood near, vainly urging her to rise and dress.
 
@@ -380,11 +380,11 @@ Caroline wasted no words. She immediately took the book from her, and
 
 with her own hands commenced the business of disrobing and rerobing her.
 
-Shirley, indolent with the heat, and gay with her youth and pleasurable
+[[Shirley]], indolent with the heat, and gay with her youth and pleasurable
 
-nature, wanted to talk, laugh, and linger; but Caroline, intent on being
+[[Nature|nature]], wanted to talk, laugh, and linger; but Caroline, intent on being
 
-in time, persevered in dressing her as fast as fingers could fasten
+in [[Time|time]], persevered in dressing her as fast as fingers could fasten
 
 strings or insert pins. At length, as she united a final row of hooks
 
@@ -392,7 +392,7 @@ and eyes, she found leisure to chide her, saying she was very naughty to
 
 be so unpunctual, that she looked even now the picture of incorrigible
 
-carelessness; and so Shirley did, but a very lovely picture of that
+carelessness; and so [[Shirley]] did, but a very lovely picture of that
 
 tiresome quality.
 
@@ -406,7 +406,7 @@ better than a simpler costume; the deep embroidered scarf became her.
 
 She wore it negligently but gracefully. The wreath on her bonnet
 
-crowned her well. The attention to fashion, the tasteful appliance of
+crowned her [[Well|well]]. The attention to fashion, the tasteful appliance of
 
 ornament in each portion of her dress, were quite in place with her. All
 
@@ -418,13 +418,13 @@ Caroline took her hand when she was dressed, hurried her downstairs, out
 
 of doors; and thus they sped through the fields, laughing as they went,
 
-and looking very much like a snow-white dove and gem-tinted bird of
+and looking very much like a [[Snow|snow]]-white dove and gem-tinted bird of
 
 paradise joined in social flight.
 
 
 
-Thanks to Miss Helstone's promptitude, they arrived in good time. While
+Thanks to Miss Helstone's promptitude, they arrived in good [[Time|time]]. While
 
 yet trees hid the church, they heard the bell tolling a measured but
 
@@ -432,7 +432,7 @@ urgent summons for all to assemble. The trooping in of numbers, the
 
 trampling of many steps and murmuring of many voices, were likewise
 
-audible. From a rising ground, they presently saw, on the Whinbury road,
+audible. From a rising ground, they presently saw, on the Whinbury [[Road|road]],
 
 the Whinbury school approaching. It numbered five hundred souls. The
 
@@ -456,7 +456,7 @@ compared to the broad bulk of his principal, contrived, notwithstanding,
 
 to look every inch a curate. All about him was pragmatical and
 
-self-complacent, from his turned-up nose and elevated chin to his
+[[Self|self]]-complacent, from his turned-up nose and elevated chin to his
 
 clerical black gaiters, his somewhat short, strapless trousers, and his
 
@@ -466,7 +466,7 @@ square-toed shoes.
 
 Walk on, Mr. Donne! You have undergone scrutiny. You think you look
 
-well. Whether the white and purple figures watching you from yonder hill
+[[Well|well]]. Whether the white and purple figures watching you from yonder [[Hill|hill]]
 
 think so is another question.
 
@@ -480,19 +480,19 @@ holiday attire; and, distressed as is the district, bad as are the
 
 times, it is wonderful to see how respectably, how handsomely even, they
 
-have contrived to clothe themselves. That British love of decency will
+have contrived to clothe themselves. That British [[Love|love]] of decency will
 
-work miracles. The poverty which reduces an Irish girl to rags is
+work miracles. The [[Poverty|poverty]] which reduces an Irish girl to rags is
 
 impotent to rob the English girl of the neat wardrobe she knows
 
-necessary to her self-respect. Besides, the lady of the manor--that
+necessary to her [[Self|self]]-respect. Besides, the lady of the manor--that
 
-Shirley, now gazing with pleasure on this well-dressed and happy-looking
+[[Shirley]], now gazing with pleasure on this [[Well|well]]-dressed and happy-looking
 
 crowd--has really done them good. Her seasonable bounty consoled many a
 
-poor family against the coming holiday, and supplied many a child with a
+poor family against the coming holiday, and supplied many a [[Child|child]] with a
 
 new frock or bonnet for the occasion. She knows it, and is elate with
 
@@ -500,7 +500,7 @@ the consciousness--glad that her money, example, and influence have
 
 really, substantially, benefited those around her. She cannot be
 
-charitable like Miss Ainley: it is not in her nature. It relieves her to
+charitable like Miss Ainley: it is not in her [[Nature|nature]]. It relieves her to
 
 feel that there is another way of being charitable, practicable for
 
@@ -516,15 +516,15 @@ ill spare, to aid in fitting out the scholars of her class; and as she
 
 could not give money, she has followed Miss Ainley's example in giving
 
-her time and her industry to sew for the children.
+her [[Time|time]] and her industry to sew for the children.
 
 
 
-Not only is the churchyard full, but the rectory garden is also
+Not only is the churchyard full, but the rectory [[Garden|garden]] is also
 
 thronged. Pairs and parties of ladies and gentlemen are seen walking
 
-amongst the waving lilacs and laburnums. The house also is occupied: at
+amongst the waving lilacs and laburnums. The [[house]] also is occupied: at
 
 the wide-open parlour windows gay groups are standing. These are the
 
@@ -544,7 +544,7 @@ Whatever he had a hand in must be managed handsomely. "Shabby doings" of
 
 any description were not endured under his sanction. From the erection
 
-of a public building, a church, school, or court-house, to the cooking
+of a public building, a church, school, or [[Court|court]]-[[house]], to the cooking
 
 of a dinner, he still advocated the lordly, liberal, and effective. Miss
 
@@ -554,7 +554,7 @@ other's arrangements.
 
 
 
-Caroline and Shirley were soon in the midst of the company. The former
+Caroline and [[Shirley]] were soon in the midst of the company. The former
 
 met them very easily for her. Instead of sitting down in a retired
 
@@ -564,11 +564,11 @@ marshalled, according to her wont, she moved through the three
 
 parlours, conversed and smiled, absolutely spoke once or twice ere she
 
-was spoken to, and, in short, seemed a new creature. It was Shirley's
+was spoken to, and, in short, seemed a new creature. It was [[Shirley]]'s
 
 presence which thus transformed her; the view of Miss Keeldar's air and
 
-manner did her a world of good. Shirley had no fear of her kind, no
+manner did her a world of good. [[Shirley]] had no [[Fear|fear]] of her kind, no
 
 tendency to shrink from, to avoid it. All human beings--men, women, or
 
@@ -578,7 +578,7 @@ positively offensive, were welcome enough to her--some much more so than
 
 others, of course; but, generally speaking, till a man had indisputably
 
-proved himself bad and a nuisance, Shirley was willing to think him good
+proved himself bad and a nuisance, [[Shirley]] was willing to think him good
 
 and an acquisition, and to treat him accordingly. This disposition made
 
@@ -586,7 +586,7 @@ her a general favourite, for it robbed her very raillery of its sting,
 
 and gave her serious or smiling conversation a happy charm; nor did it
 
-diminish the value of her intimate friendship, which was a distinct
+diminish the value of her intimate [[Friendship|friendship]], which was a distinct
 
 thing from this social benevolence--depending, indeed, on quite a
 
@@ -594,11 +594,11 @@ different part of her character. Miss Helstone was the choice of her
 
 affection and intellect; the Misses Pearson, Sykes, Wynne, etc., etc.,
 
-only the profiteers by her good-nature and vivacity.
+only the profiteers by her good-[[Nature|nature]] and vivacity.
 
 
 
-Donne happened to come into the drawing-room while Shirley, sitting on
+Donne happened to come into the drawing-room while [[Shirley]], sitting on
 
 the sofa, formed the centre of a tolerably wide circle. She had already
 
@@ -606,7 +606,7 @@ forgotten her exasperation against him, and she bowed and smiled
 
 good-humouredly. The disposition of the man was then seen. He knew
 
-neither how to decline the advance with dignity, as one whose just pride
+neither how to decline the advance with dignity, as one whose just [[Pride|pride]]
 
 has been wounded, nor how to meet it with frankness, as one who is glad
 
@@ -622,13 +622,13 @@ Nothing could ever again reconcile him to his enemy; while no passion of
 
 resentment, for even sharper and more ignominious inflictions, could his
 
-lymphatic nature know.
+lymphatic [[Nature|nature]] know.
 
 
 
-"He was not worth a scene!" said Shirley to Caroline. "What a fool I
+"He was not worth a scene!" said [[Shirley]] to Caroline. "What a [[Fool|fool]] I
 
-was! To revenge on poor Donne his silly spite at Yorkshire is something
+was! To [[Revenge|revenge]] on poor Donne his silly spite at Yorkshire is something
 
 like crushing a gnat for attacking the hide of a rhinoceros. Had I been
 
@@ -656,9 +656,9 @@ heiress with a grace to which the most cunning pencil could do but
 
 defective justice. And who, after this, could dare to say that Peter was
 
-not a lady's man? He had gathered and he had given flowers; he had
+not a lady's man? He had gathered and he had given [[Flowers|flowers]]; he had
 
-offered a sentimental, a poetic tribute at the shrine of Love or Mammon.
+offered a sentimental, a poetic tribute at the shrine of [[Love]] or Mammon.
 
 Hercules holding the distaff was but a faint type of Peter bearing the
 
@@ -666,7 +666,7 @@ roses. He must have thought this himself, for he seemed amazed at what
 
 he had done. He backed without a word; he was going away with a husky
 
-chuckle of self-satisfaction; then he bethought himself to stop and
+chuckle of [[Self|self]]-satisfaction; then he bethought himself to stop and
 
 turn, to ascertain by ocular testimony that he really had presented a
 
@@ -684,7 +684,7 @@ the subject of a jest for a petticoat--for two petticoats: Miss Helstone
 
 too was smiling. Moreover, he felt he was seen through, and Peter grew
 
-black as a thunder-cloud. When Shirley looked up, a fell eye was
+black as a thunder-cloud. When [[Shirley]] looked up, a fell eye was
 
 fastened on her. Malone, at least, had energy enough in hate. She saw it
 
@@ -704,19 +704,19 @@ their faces--appeared at the dining-room door the three rectors. They
 
 had hitherto been busy in the church, and were now coming to take some
 
-little refreshment for the body, ere the march commenced. The large
+little refreshment for the [[Body|body]], ere the march commenced. The large
 
 morocco-covered easy-chair had been left vacant for Dr. Boultby. He was
 
-put into it, and Caroline, obeying the instigations of Shirley, who told
+put into it, and Caroline, obeying the instigations of [[Shirley]], who told
 
-her now was the time to play the hostess, hastened to hand to her
+her now was the [[Time|time]] to play the hostess, hastened to hand to her
 
 uncle's vast, revered, and, on the whole, worthy friend, a glass of
 
 wine and a plate of macaroons. Boultby's churchwardens, patrons of the
 
-Sunday school both, as he insisted on their being, were already beside
+[[Sunday]] school both, as he insisted on their being, were already beside
 
 him; Mrs. Sykes and the other ladies of his congregation were on his
 
@@ -744,13 +744,13 @@ macaroons, however, and being fond of sweets, possessed himself of a
 
 small handful thereof. The wine Mrs. Boultby insisted on mingling with
 
-hot water, and qualifying with sugar and nutmeg.
+hot [[Water|water]], and qualifying with sugar and nutmeg.
 
 
 
-Mr. Hall stood near an open window, breathing the fresh air and scent of
+Mr. Hall stood near an open [[Window|window]], breathing the fresh air and scent of
 
-flowers, and talking like a brother to Miss Ainley. To him Caroline
+[[Flowers|flowers]], and talking like a brother to Miss Ainley. To him Caroline
 
 turned her attention with pleasure. "What should she bring him? He must
 
@@ -778,9 +778,9 @@ young ladies watched them afar off, but ventured not nigh.
 
 Mr. Helstone produced his watch. "Ten minutes to two," he announced
 
-aloud. "Time for all to fall into line. Come." He seized his shovel-hat
+aloud. "[[Time]] for all to fall into line. Come." He seized his shovel-hat
 
-and marched away. All rose and followed _en masse_.
+and marched away. All [[Rose|rose]] and followed _en masse_.
 
 
 
@@ -802,7 +802,7 @@ teachers in pairs. To the van of the armies he summoned,--
 
 
 
-"Caroline Helstone and Shirley Keeldar head Briarfield."
+"[[Caroline Helstone]] and [[Shirley Keeldar]] head Briarfield."
 
 
 
@@ -824,7 +824,7 @@ The rectors passed to the full front; the parish clerks fell to the
 
 extreme rear. Helstone lifted his shovel-hat. In an instant out clashed
 
-the eight bells in the tower, loud swelled the sounding bands, flute
+the eight [[Bells|bells]] in the tower, loud swelled the sounding bands, flute
 
 spoke and clarion answered, deep rolled the drums, and away they
 
@@ -832,13 +832,13 @@ marched.
 
 
 
-The broad white road unrolled before the long procession, the sun and
+The broad white [[Road|road]] unrolled before the long procession, the sun and
 
-sky surveyed it cloudless, the wind tossed the tree boughs above it, and
+sky surveyed it cloudless, the [[Wind|wind]] tossed the tree boughs above it, and
 
 the twelve hundred children and one hundred and forty adults of which it
 
-was composed trod on in time and tune, with gay faces and glad hearts.
+was composed trod on in [[Time|time]] and tune, with gay faces and glad hearts.
 
 It was a joyous scene, and a scene to do good. It was a day of happiness
 
@@ -846,8 +846,8 @@ for rich and poor--the work, first of God, and then of the clergy. Let
 
 England's priests have their due. They are a faulty set in some
 
-respects, being only of common flesh and blood like us all; but the land
+respects, being only of common flesh and [[Blood|blood]] like us all; but the land
 
 would be badly off without them. Britain would miss her church, if that
 
-church fell. God save it! God also reform it!
+church fell. God save it! God also [[Reform|reform]] it!

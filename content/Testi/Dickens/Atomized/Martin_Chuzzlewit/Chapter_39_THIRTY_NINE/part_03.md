@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 39: THIRTY NINE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -26,7 +26,7 @@ must confess that I am. Tom, will you kindly come to my relief?’
 
 ‘Mr John Westlock,’ said Tom. ‘My sister.’
 
-‘I hope that, as the sister of so old a friend,’ said John, laughing
+‘I [[Hope|hope]] that, as the sister of so old a friend,’ said John, laughing
 ‘you will have the goodness to detach your first impressions of me from
 my unfortunate entrance.’
 
@@ -45,7 +45,7 @@ themselves on easy terms immediately.
 
 ‘I can only think of sitting down on one condition,’ returned his
 friend; ‘and that is, that your sister goes on with the pudding, as if
-you were still alone.’
+you were still [[Alone|alone]].’
 
 ‘That I am sure she will,’ said Tom. ‘On one other condition, and that
 is, that you stay and help us to eat it.’
@@ -69,16 +69,16 @@ respectable young man, aged thirty-five”--The beginning of a description
 of myself. That’s all.’
 
 ‘I don’t think you will have occasion to finish it, Tom. But how is it
-you never told me you had friends in London?’
+you never told me you had friends in [[London]]?’
 
 Tom looked at his sister with all his might; and certainly his sister
 looked with all her might at him.
 
-‘Friends in London!’ echoed Tom.
+‘Friends in [[London]]!’ echoed Tom.
 
 ‘Ah!’ said Westlock, ‘to be sure.’
 
-‘Have YOU any friends in London, Ruth, my dear!’ asked Tom.
+‘Have YOU any friends in [[London]], Ruth, my dear!’ asked Tom.
 
 ‘No, Tom.’
 
@@ -93,15 +93,15 @@ morning, there comes a knock at my door.’
 
 ‘So I did. And the person who knocked, not being a respectable young
 man, aged thirty-five, from the country, came in when he was invited,
-instead of standing gaping and staring about him on the landing. Well!
-When he came in, I found he was a stranger; a grave, business-like,
+instead of standing gaping and staring about him on the landing. [[Well]]!
+When he came in, I found he was a stranger; a [[Grave|grave]], business-like,
 sedate-looking, stranger. “Mr Westlock?” said he. “That is my name,”
  said I. “The favour of a few words with you?” said he. “Pray be seated,
 sir,” said I.’
 
 Here John stopped for an instant, to glance towards the table, where
 Tom’s sister, listening attentively, was still busy with the basin,
-which by this time made a noble appearance. Then he resumed:
+which by this [[Time|time]] made a noble appearance. Then he resumed:
 
 ‘The pudding having taken a chair, Tom--’
 
@@ -112,7 +112,7 @@ which by this time made a noble appearance. Then he resumed:
 ‘You said a pudding.’
 
 ‘No, no,’ replied John, colouring rather; ‘a chair. The idea of a
-stranger coming into my rooms at half-past eight o’clock in the morning,
+stranger coming into my rooms at half-past eight o’[[Clock|clock]] in the morning,
 and taking a pudding! Having taken a chair, Tom, a chair--amazed me by
 opening the conversation thus: “I believe you are acquainted, sir, with
 Mr Thomas Pinch?”
@@ -120,7 +120,7 @@ Mr Thomas Pinch?”
 ‘No!’ cried Tom.
 
 ‘His very words, I assure you. I told him I was. Did I know where you
-were at present residing? Yes. In London? Yes. He had casually heard,
+were at present residing? Yes. In [[London]]? Yes. He had casually heard,
 in a roundabout way, that you had left your situation with Mr Pecksniff.
 Was that the fact? Yes, it was. Did you want another? Yes, you did.’
 
@@ -128,7 +128,7 @@ Was that the fact? Yes, it was. Did you want another? Yes, you did.’
 
 ‘Just what I impressed upon him. You may rest assured that I set that
 point beyond the possibility of any mistake, and gave him distinctly to
-understand that he might make up his mind about it. Very well.’
+understand that he might make up his mind about it. Very [[Well|well]].’
 
 “Then,” said he, “I think I can accommodate him.”’
 
@@ -149,7 +149,7 @@ nor lodging, still the duties were not heavy, and there the post was.
 Vacant, and ready for your acceptance.’
 
 ‘Good gracious me!’ cried Tom; ‘a hundred pounds a year! My dear John!
-Ruth, my love! A hundred pounds a year!’
+Ruth, my [[Love|love]]! A hundred pounds a year!’
 
 ‘But the strangest part of the story,’ resumed John Westlock, laying his
 hand on Tom’s wrist, to bespeak his attention, and repress his ecstasies

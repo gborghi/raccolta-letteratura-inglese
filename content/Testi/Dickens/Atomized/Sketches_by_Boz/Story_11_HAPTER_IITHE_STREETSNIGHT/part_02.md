@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER II—THE STREETS—NIGHT (part 2)"
+title: "Sketches by Boz — HAPTER II—THE STREETS—[[Night|NIGHT]] (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -17,23 +17,23 @@ tags:
 There was another, but it has ceased. That wretched woman with the
 infant in her arms, round whose meagre form the remnant of her own
 scanty shawl is carefully wrapped, has been attempting to sing some
-popular ballad, in the hope of wringing a few pence from the
+popular ballad, in the [[Hope|hope]] of wringing a few pence from the
 compassionate passer-by. A brutal laugh at her weak voice is all she
-has gained. The tears fall thick and fast down her own pale face; the
-child is cold and hungry, and its low half-stifled wailing adds to the
+has gained. The [[Tears|tears]] fall thick and fast down her own pale face; the
+[[Child|child]] is cold and hungry, and its low half-stifled wailing adds to the
 misery of its wretched mother, as she moans aloud, and sinks
 despairingly down, on a cold damp door-step.
 
 Singing! How few of those who pass such a miserable creature as this,
-think of the anguish of heart, the sinking of soul and spirit, which
+think of the anguish of heart, the sinking of [[Soul|soul]] and spirit, which
 the very effort of singing produces. Bitter mockery! Disease, neglect,
 and starvation, faintly articulating the words of the joyous ditty,
 that has enlivened your hours of feasting and merriment, God knows how
 often! It is no subject of jeering. The weak tremulous voice tells a
 fearful tale of want and famishing; and the feeble singer of this
-roaring song may turn away, only to die of cold and hunger.
+roaring [[Song|song]] may turn away, only to die of cold and hunger.
 
-One o’clock! Parties returning from the different theatres foot it
+One o’[[Clock|clock]]! Parties returning from the different theatres foot it
 through the muddy streets; cabs, hackney-coaches, carriages, and
 theatre omnibuses, roll swiftly by; watermen with dim dirty lanterns in
 their hands, and large brass plates upon their breasts, who have been
@@ -66,10 +66,10 @@ than any man: so low sometimes that you can’t hear him.’ And so he
 does. To hear him growling away, gradually lower and lower down, till
 he can’t get back again, is the most delightful thing in the world, and
 it is quite impossible to witness unmoved the impressive solemnity with
-which he pours forth his soul in ‘My ’art’s in the ’ighlands,’ or ‘The
+which he pours forth his [[Soul|soul]] in ‘My ’art’s in the ’ighlands,’ or ‘The
 brave old Hoak.’ The stout man is also addicted to sentimentality, and
 warbles ‘Fly, fly from the world, my Bessy, with me,’ or some such
-song, with lady-like sweetness, and in the most seductive tones
+[[Song|song]], with lady-like sweetness, and in the most seductive tones
 imaginable.
 
 ‘Pray give your orders, gen’l’m’n—pray give your orders,’—says the
@@ -83,15 +83,15 @@ manner possible.
 
 The little round-faced man, with the small brown surtout, white
 stockings and shoes, is in the comic line; the mixed air of
-self-denial, and mental consciousness of his own powers, with which he
+[[Self|self]]-denial, and mental consciousness of his own powers, with which he
 acknowledges the call of the chair, is particularly gratifying.
 ‘Gen’l’men,’ says the little pompous man, accompanying the word with a
 knock of the president’s hammer on the table—‘Gen’l’men, allow me to
 claim your attention—our friend, Mr. Smuggins, will oblige.’—‘Bravo!’
 shout the company; and Smuggins, after a considerable quantity of
 coughing by way of symphony, and a most facetious sniff or two, which
-afford general delight, sings a comic song, with a
-fal-de-ral—tol-de-ral chorus at the end of every verse, much longer
+afford general delight, sings a comic [[Song|song]], with a
+fal-de-ral—tol-de-ral [[Chorus|chorus]] at the end of every verse, much longer
 than the verse itself. It is received with unbounded applause, and
 after some aspiring genius has volunteered a recitation, and failed
 dismally therein, the little pompous man gives another knock, and says
@@ -102,7 +102,7 @@ stout glasses off their legs—a humorous device; but one which
 frequently occasions some slight altercation when the form of paying
 the damage is proposed to be gone through by the waiter.
 
-Scenes like these are continued until three or four o’clock in the
+Scenes like these are continued until three or four o’[[Clock|clock]] in the
 morning; and even when they close, fresh ones open to the inquisitive
 novice. But as a description of all of them, however slight, would
 require a volume, the contents of which, however instructive, would be

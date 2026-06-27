@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — The Divine Comedy"
+title: "Man Orthodox — The Divine [[Comedy]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-THE DIVINE COMEDY
+THE DIVINE [[Comedy|COMEDY]]
 
 At the beginning and at the end of all life, learned and ignorant,
-there is the abiding truth that in the inmost theatre of the soul of man,
+there is the abiding [[Truth|truth]] that in the inmost theatre of the [[Soul|soul]] of man,
 with a scenery of bottomless infinities and appalling abstractions,
 there is always going forward one ancient mystery play in which there
 are only two characters.

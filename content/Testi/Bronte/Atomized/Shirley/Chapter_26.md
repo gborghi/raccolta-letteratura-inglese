@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 26"
+title: "[[Shirley]] — Chapter 26"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,21 +24,21 @@ OLD COPY-BOOKS.
 
 
 
-By the time the Fieldhead party returned to Briarfield Caroline was
+By the [[Time|time]] the Fieldhead party returned to Briarfield Caroline was
 
-nearly well. Miss Keeldar, who had received news by post of her friend's
+nearly [[Well|well]]. Miss Keeldar, who had received news by post of her friend's
 
 convalescence, hardly suffered an hour to elapse between her arrival at
 
-home and her first call at the rectory.
+[[Home|home]] and her first call at the rectory.
 
 
 
-A shower of rain was falling gently, yet fast, on the late flowers and
+A shower of rain was falling gently, yet fast, on the late [[Flowers|flowers]] and
 
-russet autumn shrubs, when the garden wicket was heard to swing open,
+russet [[Autumn|autumn]] shrubs, when the [[Garden|garden]] wicket was heard to swing open,
 
-and Shirley's well-known form passed the window. On her entrance her
+and [[Shirley]]'s [[Well|well]]-known form passed the [[Window|window]]. On her entrance her
 
 feelings were evinced in her own peculiar fashion. When deeply moved by
 
@@ -58,7 +58,7 @@ your health may be called on to sustain no more shocks!"
 
 
 
-She proceeded to talk fluently about the journey. In the midst of
+She proceeded to talk fluently about the [[Journey|journey]]. In the midst of
 
 vivacious discourse her eye still wandered to Caroline. There spoke in
 
@@ -82,7 +82,7 @@ Suddenly her glance reverted to Mrs. Pryor. It pierced her through.
 
 "May I tell her all?" demanded Caroline of her mother. Leave being
 
-signified by a gesture, Shirley was presently enlightened on what had
+signified by a gesture, [[Shirley]] was presently enlightened on what had
 
 happened in her absence.
 
@@ -98,7 +98,7 @@ happened in her absence.
 
 "I guessed long since the whole business. I have heard somewhat of Mrs.
 
-Pryor's history--not from herself, but from others. With every detail of
+Pryor's [[history]]--not from herself, but from others. With every detail of
 
 Mr. James Helstone's career and character I was acquainted. An
 
@@ -106,15 +106,15 @@ afternoon's sitting and conversation with Miss Mann had rendered me
 
 familiar therewith; also he is one of Mrs. Yorke's warning examples--one
 
-of the blood-red lights she hangs out to scare young ladies from
+of the [[Blood|blood]]-red lights she hangs out to scare young ladies from
 
-matrimony. I believe I should have been sceptical about the truth of the
+matrimony. I believe I should have been sceptical about the [[Truth|truth]] of the
 
 portrait traced by such fingers--both these ladies take a dark pleasure
 
 in offering to view the dark side of life--but I questioned Mr. Yorke on
 
-the subject, and he said, 'Shirley, my woman, if you want to know aught
+the subject, and he said, '[[Shirley]], my woman, if you want to know aught
 
 about yond' James Helstone, I can only say he was a man-tiger. He was
 
@@ -124,11 +124,11 @@ Cary; we'll say no more about it."
 
 
 
-"I am not crying, Shirley; or if I am, it is nothing. Go on; you are no
+"I am not crying, [[Shirley]]; or if I am, it is nothing. Go on; you are no
 
-friend if you withhold from me the truth. I hate that false plan of
+friend if you withhold from me the [[Truth|truth]]. I hate that false plan of
 
-disguising, mutilating the truth."
+disguising, mutilating the [[Truth|truth]]."
 
 
 
@@ -142,21 +142,21 @@ shabbier than lies."
 
 
 
-"But papa is dead; they should let him alone now."
+"But papa is dead; they should let him [[Alone|alone]] now."
 
 
 
-"They should; and we _will_ let him alone. Cry away, Cary; it will do
+"They should; and we _will_ let him [[Alone|alone]]. Cry away, Cary; it will do
 
-you good. It is wrong to check natural tears. Besides, I choose to
+you good. It is wrong to check natural [[Tears|tears]]. Besides, I choose to
 
 please myself by sharing an idea that at this moment beams in your
 
 mother's eye while she looks at you. Every drop blots out a sin. Weep!
 
-your tears have the virtue which the rivers of Damascus lacked. Like
+your [[Tears|tears]] have the virtue which the rivers of Damascus lacked. Like
 
-Jordan, they can cleanse a leprous memory."
+Jordan, they can cleanse a leprous [[Memory|memory]]."
 
 
 
@@ -168,7 +168,7 @@ your marvellous similarity in many points, observing (pardon me) your
 
 irrepressible emotions in the presence and still more in the absence of
 
-your child--and not form my own conjectures? I formed them, and they are
+your [[Child|child]]--and not form my own conjectures? I formed them, and they are
 
 literally correct. I shall begin to think myself shrewd."
 
@@ -216,7 +216,7 @@ Good-day."
 
 
 
-Caroline thus seemed to get a view of Shirley's character under a novel
+Caroline thus seemed to get a view of [[Shirley]]'s character under a [[Novel|novel]]
 
 aspect. Ere long the prospect was renewed; it opened upon her.
 
@@ -226,7 +226,7 @@ No sooner had she regained sufficient strength to bear a change of
 
 scene--the excitement of a little society--than Miss Keeldar sued daily
 
-for her presence at Fieldhead. Whether Shirley had become wearied of her
+for her presence at Fieldhead. Whether [[Shirley]] had become wearied of her
 
 honoured relatives is not known. She did not say she was; but she
 
@@ -242,7 +242,7 @@ received by them with courtesy. Mr. Sympson proved to be a man of
 
 spotless respectability, worrying temper, pious principles, and worldly
 
-views; his lady was a very good woman--patient, kind, well-bred. She had
+views; his lady was a very good woman--patient, kind, [[Well|well]]-bred. She had
 
 been brought up on a narrow system of views, starved on a few
 
@@ -260,9 +260,9 @@ of this diet or to ask for a crumb beyond it.
 
 The daughters were an example to their sex. They were tall, with a Roman
 
-nose apiece. They had been educated faultlessly. All they did was well
+nose apiece. They had been educated faultlessly. All they did was [[Well|well]]
 
-done. History and the most solid books had cultivated their minds.
+done. [[history|History]] and the most solid books had cultivated their minds.
 
 Principles and opinions they possessed which could not be mended. More
 
@@ -296,11 +296,11 @@ be bad. Let it be denounced and chained up.
 
 
 
-Henry Sympson, the only son and youngest child of the family, was a boy
+Henry Sympson, the only son and youngest [[Child|child]] of the family, was a boy
 
 of fifteen. He generally kept with his tutor. When he left him, he
 
-sought his cousin Shirley. This boy differed from his sisters. He was
+sought his cousin [[Shirley]]. This boy differed from his sisters. He was
 
 little, lame, and pale; his large eyes shone somewhat languidly in a wan
 
@@ -318,9 +318,9 @@ she allowed. She believed him regenerate--a new Samuel--called of God
 
 from his birth. He was to be a clergyman. Mr. and the Misses Sympson,
 
-not understanding the youth, let him much alone. Shirley made him her
+not understanding the youth, let him much [[Alone|alone]]. [[Shirley]] made him her
 
-pet, and he made Shirley his playmate.
+pet, and he made [[Shirley]] his playmate.
 
 
 
@@ -330,7 +330,7 @@ tutor--the satellite.
 
 
 
-Yes, Louis Moore was a satellite of the house of Sympson--connected, yet
+Yes, [[Louis Moore]] was a satellite of the [[house]] of Sympson--connected, yet
 
 apart; ever attendant, ever distant. Each member of that correct family
 
@@ -344,7 +344,7 @@ by their manner, that their brother's tutor did not live for them. They
 
 were learned; so was he--but not for them. They were accomplished; he
 
-had talents too, imperceptible to their senses. The most spirited sketch
+had talents too, imperceptible to their senses. The most spirited [[Sketch|sketch]]
 
 from his fingers was a blank to their eyes; the most original
 
@@ -356,7 +356,7 @@ exceed the propriety of their behaviour.
 
 I should have said nothing could have equalled it; but I remember a fact
 
-which strangely astonished Caroline Helstone. It was--to discover that
+which strangely astonished [[Caroline Helstone]]. It was--to discover that
 
 her cousin had absolutely _no_ sympathizing friend at Fieldhead; that to
 
@@ -366,21 +366,21 @@ little a man, as to the estimable Misses Sympson.
 
 
 
-What had befallen the kind-hearted Shirley that she should be so
+What had befallen the kind-hearted [[Shirley]] that she should be so
 
 indifferent to the dreary position of a fellow-creature thus isolated
 
 under her roof? She was not, perhaps, haughty to him, but she never
 
-noticed him--she let him alone. He came and went, spoke or was silent,
+noticed him--she let him [[Alone|alone]]. He came and went, spoke or was silent,
 
 and she rarely recognized his existence.
 
 
 
-As to Louis Moore himself, he had the air of a man used to this life,
+As to [[Louis Moore]] himself, he had the air of a man used to this life,
 
-and who had made up his mind to bear it for a time. His faculties seemed
+and who had made up his mind to bear it for a [[Time|time]]. His faculties seemed
 
 walled up in him, and were unmurmuring in their captivity. He never
 
@@ -392,11 +392,11 @@ than civility from the rest of the world. It even appeared that he would
 
 accept nothing more--in that abode at least; for when his cousin
 
-Caroline made gentle overtures of friendship, he did not encourage
+Caroline made gentle overtures of [[Friendship|friendship]], he did not encourage
 
-them--he rather avoided than sought her. One living thing alone, besides
+them--he rather avoided than sought her. One living thing [[Alone|alone]], besides
 
-his pale, crippled scholar, he fondled in the house, and that was the
+his pale, crippled scholar, he fondled in the [[house]], and that was the
 
 ruffianly Tartar, who, sullen and impracticable to others, acquired a
 
@@ -404,7 +404,7 @@ singular partiality for him--a partiality so marked that sometimes, when
 
 Moore, summoned to a meal, entered the room and sat down unwelcomed,
 
-Tartar would rise from his lair at Shirley's feet and betake himself to
+Tartar would rise from his lair at [[Shirley]]'s feet and betake himself to
 
 the taciturn tutor. Once--but once--she noticed the desertion, and
 
@@ -414,7 +414,7 @@ Tartar looked, slavered, and sighed, as his manner was, but yet
 
 disregarded the invitation, and coolly settled himself on his haunches
 
-at Louis Moore's side. That gentleman drew the dog's big, black-muzzled
+at [[Louis Moore]]'s side. That gentleman drew the dog's big, black-muzzled
 
 head on to his knee, patted him, and smiled one little smile to himself.
 
@@ -422,7 +422,7 @@ head on to his knee, patted him, and smiled one little smile to himself.
 
 An acute observer might have remarked, in the course of the same
 
-evening, that after Tartar had resumed his allegiance to Shirley, and
+evening, that after Tartar had resumed his allegiance to [[Shirley]], and
 
 was once more couched near her footstool, the audacious tutor by one
 
@@ -440,17 +440,17 @@ significant smile again rippled across Moore's quiet face.
 
 
 
-"Shirley," said Caroline one day, as they two were sitting alone in the
+"[[Shirley]]," said Caroline one day, as they two were sitting [[Alone|alone]] in the
 
-summer-house, "did you know that my cousin Louis was tutor in your
+[[Summer|summer]]-[[house]], "did you know that my cousin Louis was tutor in your
 
 uncle's family before the Sympsons came down here?"
 
 
 
-Shirley's reply was not so prompt as her responses usually were, but at
+[[Shirley]]'s reply was not so prompt as her responses usually were, but at
 
-last she answered, "Yes--of course; I knew it well."
+last she answered, "Yes--of course; I knew it [[Well|well]]."
 
 
 
@@ -458,7 +458,7 @@ last she answered, "Yes--of course; I knew it well."
 
 
 
-"Well! what then?"
+"[[Well]]! what then?"
 
 
 
@@ -478,15 +478,15 @@ freely. How was that circumstance never touched on?"
 
 
 
-"Because it never was," and Shirley laughed.
+"Because it never was," and [[Shirley]] laughed.
 
 
 
 "You are a singular being!" observed her friend. "I thought I knew you
 
-quite well; I begin to find myself mistaken. You were silent as the
+quite [[Well|well]]; I begin to find myself mistaken. You were silent as the
 
-grave about Mrs. Pryor, and now again here is another secret. But why
+[[Grave|grave]] about Mrs. Pryor, and now again here is another secret. But why
 
 you made it a secret is the mystery to me."
 
@@ -512,39 +512,39 @@ placed?"
 
 "Robert's brother, indeed!" was the exclamation, uttered in a tone like
 
-the accents of scorn; and with a movement of proud impatience Shirley
+the accents of scorn; and with a movement of proud impatience [[Shirley]]
 
-snatched a rose from a branch peeping through the open lattice.
+snatched a [[Rose|rose]] from a branch peeping through the open lattice.
 
 
 
 "Yes," repeated Caroline, with mild firmness, "Robert's brother. He _is_
 
-thus closely related to Gérard Moore of the Hollow, though nature has
+thus closely related to Gérard Moore of the Hollow, though [[Nature|nature]] has
 
 not given him features so handsome or an air so noble as his kinsman;
 
-but his blood is as good, and he is as much a gentleman were he free."
+but his [[Blood|blood]] is as good, and he is as much a gentleman were he free."
 
 
 
-"Wise, humble, pious Caroline!" exclaimed Shirley ironically. "Men and
+"Wise, humble, pious Caroline!" exclaimed [[Shirley]] ironically. "Men and
 
 angels, hear her! We should not despise plain features, nor a laborious
 
 yet honest occupation, should we? Look at the subject of your panegyric.
 
-He is there in the garden," she continued, pointing through an aperture
+He is there in the [[Garden|garden]]," she continued, pointing through an aperture
 
-in the clustering creepers; and by that aperture Louis Moore was
+in the clustering creepers; and by that aperture [[Louis Moore]] was
 
 visible, coming slowly down the walk.
 
 
 
-"He is not ugly, Shirley," pleaded Caroline; "he is not ignoble. He is
+"He is not ugly, [[Shirley]]," pleaded Caroline; "he is not ignoble. He is
 
-sad; silence seals his mind. But I believe him to be intelligent; and be
+sad; [[Silence|silence]] seals his mind. But I believe him to be intelligent; and be
 
 certain, if he had not something very commendable in his disposition,
 
@@ -552,11 +552,11 @@ Mr. Hall would never seek his society as he does."
 
 
 
-Shirley laughed; she laughed again, each time with a slightly sarcastic
+[[Shirley]] laughed; she laughed again, each [[Time|time]] with a slightly sarcastic
 
-sound. "Well, well," was her comment. "On the plea of the man being
+sound. "[[Well]], [[Well|well]]," was her comment. "On the plea of the man being
 
-Cyril Hall's friend and Robert Moore's brother, we'll just tolerate his
+Cyril Hall's friend and [[Robert Moore]]'s brother, we'll just tolerate his
 
 existence; won't we, Cary? You believe him to be intelligent, do you?
 
@@ -570,7 +570,7 @@ speak to him."
 
 
 
-He approached the summer-house. Unconscious that it was tenanted, he sat
+He approached the [[Summer|summer]]-[[house]]. Unconscious that it was tenanted, he sat
 
 down on the step. Tartar, now his customary companion, had followed him,
 
@@ -580,11 +580,11 @@ and he couched across his feet.
 
 "Old boy!" said Louis, pulling his tawny ear, or rather the mutilated
 
-remains of that organ, torn and chewed in a hundred battles, "the autumn
+remains of that organ, torn and chewed in a hundred battles, "the [[Autumn|autumn]]
 
 sun shines as pleasantly on us as on the fairest and richest. This
 
-garden is none of ours, but we enjoy its greenness and perfume, don't
+[[Garden|garden]] is none of ours, but we enjoy its greenness and perfume, don't
 
 we?"
 
@@ -594,7 +594,7 @@ He sat silent, still caressing Tartar, who slobbered with exceeding
 
 affection. A faint twittering commenced among the trees round. Something
 
-fluttered down as light as leaves. They were little birds, which,
+fluttered down as light as [[Leaves|leaves]]. They were little [[Birds|birds]], which,
 
 lighting on the sward at shy distance, hopped as if expectant.
 
@@ -604,7 +604,7 @@ lighting on the sward at shy distance, hopped as if expectant.
 
 again soliloquized Louis. "They want some more biscuit. To-day I forgot
 
-to save a fragment. Eager little sprites, I have not a crumb for you."
+to save a [[Fragment|fragment]]. Eager little sprites, I have not a crumb for you."
 
 
 
@@ -626,11 +626,11 @@ shoulder, put the crumbs into his hand.
 
 
 
-"There," said she--"there is a providence for the improvident."
+"There," said she--"there is a [[Providence|providence]] for the improvident."
 
 
 
-"This September afternoon is pleasant," observed Louis Moore, as, not at
+"This September afternoon is pleasant," observed [[Louis Moore]], as, not at
 
 all discomposed, he calmly cast the crumbs on to the grass.
 
@@ -650,7 +650,7 @@ the elements and the inanimate and lower animate creation."
 
 
 
-"Solitary, but not harsh. With animals I feel I am Adam's son, the heir
+"Solitary, but not harsh. With [[Animals|animals]] I feel I am Adam's son, the heir
 
 of him to whom dominion was given over 'every living thing that moveth
 
@@ -658,7 +658,7 @@ upon the earth.' Your dog likes and follows me. When I go into that
 
 yard, the pigeons from your dovecot flutter at my feet. Your mare in the
 
-stable knows me as well as it knows you, and obeys me better."
+stable knows me as [[Well|well]] as it knows you, and obeys me better."
 
 
 
@@ -674,9 +674,9 @@ me; they are _mine_."
 
 He walked off. Tartar followed him, as if in duty and affection bound,
 
-and Shirley remained standing on the summer-house step. Caroline saw her
+and [[Shirley]] remained standing on the [[Summer|summer]]-[[house]] step. Caroline saw her
 
-face as she looked after the rude tutor. It was pale, as if her pride
+face as she looked after the rude tutor. It was pale, as if her [[Pride|pride]]
 
 bled inwardly.
 
@@ -688,7 +688,7 @@ hurt it makes him morose."
 
 
 
-"You see," retorted Shirley, with ire, "he is a topic on which you and I
+"You see," retorted [[Shirley]], with ire, "he is a topic on which you and I
 
 shall quarrel if we discuss it often; so drop it henceforward and for
 
@@ -698,11 +698,11 @@ ever."
 
 "I suppose he has more than once behaved in this way," thought Caroline
 
-to herself, "and that renders Shirley so distant to him. Yet I wonder
+to herself, "and that renders [[Shirley]] so distant to him. Yet I [[Wonder|wonder]]
 
-she cannot make allowance for character and circumstances. I wonder the
+she cannot make allowance for character and circumstances. I [[Wonder|wonder]] the
 
-general modesty, manliness, sincerity of his nature do not plead with
+general modesty, manliness, sincerity of his [[Nature|nature]] do not plead with
 
 her in his behalf. She is not often so inconsiderate, so irritable."
 
@@ -724,7 +724,7 @@ He--William--"could do aught for that man. And then to see how t' bairns
 
 liked him, and how t' wife took to him first minute she saw him. He
 
-never went into a house but t' childer wor about him directly. Them
+never went into a [[house]] but t' childer wor about him directly. Them
 
 little things wor like as if they'd a keener sense nor grown-up folks i'
 
@@ -734,25 +734,25 @@ finding our folk's natures."
 
 Mr. Hall, in answer to a question of Miss Helstone's as to what he
 
-thought of Louis Moore, replied promptly that he was the best fellow he
+thought of [[Louis Moore]], replied promptly that he was the best fellow he
 
 had met with since he left Cambridge.
 
 
 
-"But he is so grave," objected Caroline.
+"But he is so [[Grave|grave]]," objected Caroline.
 
 
 
-"Grave! the finest company in the world! Full of odd, quiet,
+"[[Grave]]! the finest company in the world! Full of odd, quiet,
 
-out-of-the-way humour. Never enjoyed an excursion so much in my life as
+out-of-the-way [[Humour|humour]]. Never enjoyed an excursion so much in my life as
 
 the one I took with him to the Lakes. His understanding and tastes are
 
 so superior, it does a man good to be within their influence; and as to
 
-his temper and nature, I call them fine."
+his temper and [[Nature|nature]], I call them fine."
 
 
 
@@ -782,7 +782,7 @@ enough to do justice to his merits."
 
 
 
-"Well, I suppose she doesn't know him," mused Caroline to herself, and
+"[[Well]], I suppose she doesn't know him," mused Caroline to herself, and
 
 by this hypothesis she endeavoured to account for what seemed else
 
@@ -816,7 +816,7 @@ little bundle of small marble-coloured cahiers, tied with tape. Henry
 
 looked at them. "What rubbish Mr. Moore stores up in his desk!" he
 
-said. "I hope he won't keep my old exercises so carefully."
+said. "I [[Hope|hope]] he won't keep my old exercises so carefully."
 
 
 
@@ -852,7 +852,7 @@ recognizable. She scarcely needed the further evidence of the name
 
 signed at the close of each theme to tell her whose they were. Yet that
 
-name astonished her--"Shirley Keeldar, Sympson Grove, ----shire" (a
+name astonished her--"[[Shirley Keeldar]], Sympson Grove, ----shire" (a
 
 southern county), and a date four years back.
 
@@ -864,7 +864,7 @@ half felt as if, in opening it, she had violated a confidence.
 
 
 
-"They are Shirley's, you see," said Henry carelessly.
+"They are [[Shirley]]'s, you see," said Henry carelessly.
 
 
 
@@ -886,7 +886,7 @@ us there. Mr. Moore taught her French; it is his native language."
 
 "She was a wild, laughing thing, but pleasant to have in the room. She
 
-made lesson-time charming. She learned fast--you could hardly tell when
+made lesson-[[Time|time]] charming. She learned fast--you could hardly tell when
 
 or how. French was nothing to her. She spoke it quick, quick--as quick
 
@@ -900,7 +900,7 @@ as Mr. Moore himself."
 
 "She gave plenty of trouble, in a way. She was giddy, but I liked her.
 
-I'm desperately fond of Shirley."
+I'm desperately fond of [[Shirley]]."
 
 
 
@@ -910,7 +910,7 @@ I'm desperately fond of Shirley."
 
 "I _am desperately_ fond of her. She is the light of my eyes. I said so
 
-to Mr. Moore last night."
+to Mr. Moore last [[Night|night]]."
 
 
 
@@ -926,7 +926,7 @@ Keeldar was no more than that, she was less than he took her to be; for
 
 I was but a dim-eyed, short-sighted little chap. I'm afraid I am a poor
 
-unfortunate, Miss Caroline Helstone. I am a cripple, you know."
+unfortunate, Miss [[Caroline Helstone]]. I am a cripple, you know."
 
 
 
@@ -938,7 +938,7 @@ and an excellent heart and brain."
 
 
 
-"I shall be despised. I sometimes think both Shirley and you despise
+"I shall be despised. I sometimes think both [[Shirley]] and you despise
 
 me."
 
@@ -948,7 +948,7 @@ me."
 
 horror of them. They seem to me little ruffians, who take an unnatural
 
-delight in killing and tormenting birds, and insects, and kittens, and
+delight in killing and tormenting [[Birds|birds]], and [[Insects|insects]], and kittens, and
 
 whatever is weaker than themselves. But you are so different I am quite
 
@@ -1002,11 +1002,11 @@ kept carefully."
 
 
 
-She showed the bundle. Shirley snatched it up. "Did not know one was in
+She showed the bundle. [[Shirley]] snatched it up. "Did not know one was in
 
 existence," she said. "I thought the whole lot had long since lit the
 
-kitchen fire, or curled the maid's hair at Sympson Grove.--What made you
+kitchen [[Fire|fire]], or curled the maid's hair at Sympson Grove.--What made you
 
 keep them, Henry?"
 
@@ -1020,15 +1020,15 @@ inner drawer of his desk. Perhaps he forgot them."
 
 
 
-"C'est cela. He forgot them, no doubt," echoed Shirley. "They are
+"C'est cela. He forgot them, no [[Doubt|doubt]]," echoed [[Shirley]]. "They are
 
-extremely well written," she observed complacently.
+extremely [[Well|well]] written," she observed complacently.
 
 
 
-"What a giddy girl you were, Shirley, in those days! I remember you so
+"What a giddy girl you were, [[Shirley]], in those days! I remember you so
 
-well. A slim, light creature whom, though you were so tall, I could lift
+[[Well|well]]. A slim, light creature whom, though you were so tall, I could lift
 
 off the floor. I see you with your long, countless curls on your
 
@@ -1038,17 +1038,17 @@ lively--that is, at first. I believe you grieved him after a while."
 
 
 
-Shirley turned the closely-written pages and said nothing. Presently she
+[[Shirley]] turned the closely-written pages and said nothing. Presently she
 
-observed, "That was written one winter afternoon. It was a description
+observed, "That was written one [[Winter|winter]] afternoon. It was a description
 
-of a snow scene."
+of a [[Snow|snow]] scene."
 
 
 
 "I remember," said Henry. "Mr. Moore, when he read it, cried, 'Voilà le
 
-Français gagné!' He said it was well done. Afterwards you made him draw,
+Français gagné!' He said it was [[Well|well]] done. Afterwards you made him draw,
 
 in sepia, the landscape you described."
 
@@ -1064,7 +1064,7 @@ when called. I can remember my tutor sitting at his easel, and you
 
 standing behind him, holding the candle, and watching him draw the snowy
 
-cliff, the pine, the deer couched under it, and the half-moon hung
+cliff, the pine, the deer couched under it, and the half-[[Moon|moon]] hung
 
 above."
 
@@ -1082,13 +1082,13 @@ above."
 
 
 
-"You should ask him, Shirley. You are shy of him now. You are grown a
+"You should ask him, [[Shirley]]. You are shy of him now. You are grown a
 
 proud lady to him; I notice that."
 
 
 
-"Shirley, you are a real enigma," whispered Caroline in her ear. "What
+"[[Shirley]], you are a real enigma," whispered Caroline in her ear. "What
 
 queer discoveries I make day by day now!--I who thought I had your
 
@@ -1104,29 +1104,29 @@ answering young Sympson, and not heeding Caroline.
 
 "Which you never should have done. You don't deserve to be a man's
 
-morning star if you have so short a memory."
+morning star if you have so short a [[Memory|memory]]."
 
 
 
 "A man's morning star, indeed! and by 'a man' is meant your worshipful
 
-self, I suppose? Come, drink your new milk while it is warm."
+[[Self|self]], I suppose? Come, drink your new milk while it is warm."
 
 
 
-The young cripple rose and limped towards the fire; he had left his
+The young cripple [[Rose|rose]] and limped towards the [[Fire|fire]]; he had left his
 
 crutch near the mantelpiece.
 
 
 
-"My poor lame darling!" murmured Shirley, in her softest voice, aiding
+"My poor lame darling!" murmured [[Shirley]], in her softest voice, aiding
 
 him.
 
 
 
-"Whether do you like me or Mr. Sam Wynne best, Shirley?" inquired the
+"Whether do you like me or Mr. Sam Wynne best, [[Shirley]]?" inquired the
 
 boy, as she settled him in an arm-chair.
 
@@ -1160,17 +1160,17 @@ than a little pale lameter."
 
 "You need not be sorrowful. Have I not often told you who was almost as
 
-little, as pale, as suffering as you, and yet potent as a giant and
+little, as pale, as [[Suffering|suffering]] as you, and yet potent as a giant and
 
-brave as a lion?"
-
-
-
-"Admiral Horatio?"
+brave as a [[Lion|lion]]?"
 
 
 
-"Admiral Horatio, Viscount Nelson, and Duke of Bronte; great at heart as
+"Admiral [[Horatio]]?"
+
+
+
+"Admiral [[Horatio]], Viscount Nelson, and Duke of Bronte; great at heart as
 
 a Titan; gallant and heroic as all the world and age of chivalry; leader
 
@@ -1180,9 +1180,9 @@ of her thunder over the flood."
 
 
 
-"A great man. But I am not warlike, Shirley; and yet my mind is so
+"A great man. But I am not warlike, [[Shirley]]; and yet my mind is so
 
-restless I burn day and night--for what I can hardly tell--to be--to
+restless I burn day and [[Night|night]]--for what I can hardly tell--to be--to
 
 do--to suffer, I think."
 
@@ -1194,9 +1194,9 @@ that troubles you. It is a captive; it lies in physical bondage. But it
 
 will work its own redemption yet. Study carefully not only books but the
 
-world. You love nature; love her without fear. Be patient--wait the
+world. You [[Love|love]] [[Nature|nature]]; [[Love|love]] her without [[Fear|fear]]. Be patient--wait the
 
-course of time. You will not be a soldier or a sailor, Henry; but if you
+course of [[Time|time]]. You will not be a soldier or a sailor, Henry; but if you
 
 live you will be--listen to my prophecy--you will be an author, perhaps
 
@@ -1210,7 +1210,7 @@ I'll write a book that I may dedicate it to you."
 
 
 
-"You will write it that you may give your soul its natural release.
+"You will write it that you may give your [[Soul|soul]] its natural release.
 
 Bless me! what am I saying? more than I understand, I believe, or can
 
@@ -1218,13 +1218,13 @@ make good. Here, Hal--here is your toasted oatcake; eat and live!"
 
 
 
-"Willingly!" here cried a voice outside the open window. "I know that
+"Willingly!" here cried a voice outside the open [[Window|window]]. "I know that
 
 fragrance of meal bread. Miss Keeldar, may I come in and partake?"
 
 
 
-"Mr. Hall"--it was Mr. Hall, and with him was Louis Moore, returned from
+"Mr. Hall"--it was Mr. Hall, and with him was [[Louis Moore]], returned from
 
 their walk--"there is a proper luncheon laid out in the dining-room and
 
@@ -1240,7 +1240,7 @@ to prefer ill-regulated proceedings, step in here, and do as we do."
 
 the nose," returned Mr. Hall, who presently entered, accompanied by
 
-Louis Moore. That gentleman's eye fell on his desk, pillaged.
+[[Louis Moore]]. That gentleman's eye fell on his desk, pillaged.
 
 
 
@@ -1248,9 +1248,9 @@ Louis Moore. That gentleman's eye fell on his desk, pillaged.
 
 
 
-"Give it to Shirley and Caroline; they did it," was alleged, with more
+"Give it to [[Shirley]] and Caroline; they did it," was alleged, with more
 
-attention to effect than truth.
+attention to effect than [[Truth|truth]].
 
 
 
@@ -1294,7 +1294,7 @@ girls deserve reprimand."
 
 
 
-"It accuses them of crimes intended as well as perpetrated, sir. If I
+"It accuses them of crimes intended as [[Well|well]] as perpetrated, sir. If I
 
 had not been here, they would have treated your portfolio as they have
 
@@ -1302,7 +1302,7 @@ done your desk; but I told them it was padlocked."
 
 
 
-"And will you have lunch with us?" here interposed Shirley, addressing
+"And will you have lunch with us?" here interposed [[Shirley]], addressing
 
 Moore, and desirous, as it seemed, to turn the conversation.
 
@@ -1340,7 +1340,7 @@ presently executed. She herself measured out the milk, and distributed
 
 the bread round the cosy circle now enclosing the bright little
 
-schoolroom fire. She then took the post of toaster-general; and kneeling
+schoolroom [[Fire|fire]]. She then took the post of toaster-general; and kneeling
 
 on the rug, fork in hand, fulfilled her office with dexterity. Mr. Hall,
 
@@ -1350,7 +1350,7 @@ husky oatcake was from custom suave as manna, seemed in his best
 
 spirits. He talked and laughed gleefully--now with Caroline, whom he had
 
-fixed by his side, now with Shirley, and again with Louis Moore. And
+fixed by his side, now with [[Shirley]], and again with [[Louis Moore]]. And
 
 Louis met him in congenial spirit. He did not laugh much, but he uttered
 
@@ -1360,25 +1360,25 @@ marked by unexpected turns and a quite fresh flavour and poignancy, fell
 
 easily from his lips. He proved himself to be--what Mr. Hall had said he
 
-was--excellent company. Caroline marvelled at his humour, but still more
+was--excellent company. Caroline marvelled at his [[Humour|humour]], but still more
 
-at his entire self-possession. Nobody there present seemed to impose on
+at his entire [[Self|self]]-possession. Nobody there present seemed to impose on
 
 him a sensation of unpleasant restraint. Nobody seemed a bore--a
 
 check--a chill to him; and yet there was the cool and lofty Miss Keeldar
 
-kneeling before the fire, almost at his feet.
+kneeling before the [[Fire|fire]], almost at his feet.
 
 
 
-But Shirley was cool and lofty no longer, at least not at this moment.
+But [[Shirley]] was cool and lofty no longer, at least not at this moment.
 
-She appeared unconscious of the humility of her present position; or if
+She appeared unconscious of the [[Humility|humility]] of her present position; or if
 
 conscious, it was only to taste a charm in its lowliness. It did not
 
-revolt her pride that the group to whom she voluntarily officiated as
+revolt her [[Pride|pride]] that the group to whom she voluntarily officiated as
 
 handmaid should include her cousin's tutor. It did not scare her that
 
@@ -1392,7 +1392,7 @@ had been her equal.
 
 "You are overheated now," he said, when she had retained the fork for
 
-some time; "let me relieve you."
+some [[Time|time]]; "let me relieve you."
 
 
 
@@ -1410,9 +1410,9 @@ sumptuous luncheon was discussed.--"Would not you, Mr. Hall?"
 
 "To please you, I should; but, for my own part, I have cut him as an
 
-artist. I had enough of him in that capacity in Cumberland and
+[[Artist|artist]]. I had enough of him in that capacity in Cumberland and
 
-Westmoreland. Many a wetting we got amongst the mountains because he
+Westmoreland. Many a wetting we got amongst the [[Mountains|mountains]] because he
 
 would persist in sitting on a camp-stool, catching effects of
 
@@ -1428,7 +1428,7 @@ on his crutch with the other.
 
 Louis took it, but he still sat as if he wanted another to speak. It
 
-seemed as if he would not open it unless the proud Shirley deigned to
+seemed as if he would not open it unless the proud [[Shirley]] deigned to
 
 show herself interested in the exhibition.
 
@@ -1446,9 +1446,9 @@ spoiled the lock for me once; try now."
 
 He held it. She opened it, and, monopolizing the contents, had the first
 
-view of every sketch herself. She enjoyed the treat--if treat it
+view of every [[Sketch|sketch]] herself. She enjoyed the treat--if treat it
 
-were--in silence, without a single comment. Moore stood behind her chair
+were--in [[Silence|silence]], without a single comment. Moore stood behind her chair
 
 and looked over her shoulder, and when she had done and the others were
 
@@ -1456,7 +1456,7 @@ still gazing, he left his post and paced through the room.
 
 
 
-A carriage was heard in the lane--the gate-bell rang. Shirley started.
+A carriage was heard in the lane--the gate-bell rang. [[Shirley]] started.
 
 
 
@@ -1464,7 +1464,7 @@ A carriage was heard in the lane--the gate-bell rang. Shirley started.
 
 pretty figure--as they say--I am to receive company. I and Henry have
 
-been in the garden gathering fruit half the morning. Oh for rest under
+been in the [[Garden|garden]] gathering fruit half the morning. Oh for rest under
 
 my own vine and my own fig-tree! Happy is the slave-wife of the Indian
 
@@ -1478,7 +1478,7 @@ to the western woods."
 
 
 
-Louis Moore laughed.
+[[Louis Moore]] laughed.
 
 
 
@@ -1486,19 +1486,19 @@ Louis Moore laughed.
 
 yourself to the tender task of digging your lord's maize-field while he
 
-smokes his pipe or drinks fire-water."
+smokes his pipe or drinks [[Fire|fire]]-[[Water|water]]."
 
 
 
-Shirley seemed about to reply, but here the schoolroom door unclosed,
+[[Shirley]] seemed about to reply, but here the schoolroom door unclosed,
 
 admitting Mr. Sympson. That personage stood aghast when he saw the group
 
-around the fire.
+around the [[Fire|fire]].
 
 
 
-"I thought you alone, Miss Keeldar," he said. "I find quite a party."
+"I thought you [[Alone|alone]], Miss Keeldar," he said. "I find quite a party."
 
 
 
@@ -1522,19 +1522,19 @@ the drawing-room." And he bowed and withdrew.
 
 "The family from De Walden Hall! Couldn't be a worse set," murmured
 
-Shirley.
+[[Shirley]].
 
 
 
 She sat still, looking a little contumacious, and very much indisposed
 
-to stir. She was flushed with the fire. Her dark hair had been more than
+to stir. She was flushed with the [[Fire|fire]]. Her dark hair had been more than
 
-once dishevelled by the morning wind that day. Her attire was a light,
+once dishevelled by the morning [[Wind|wind]] that day. Her attire was a light,
 
 neatly fitting, but amply flowing dress of muslin; the shawl she had
 
-worn in the garden was still draped in a careless fold round her.
+worn in the [[Garden|garden]] was still draped in a careless fold round her.
 
 Indolent, wilful, picturesque, and singularly pretty was her
 
@@ -1544,17 +1544,17 @@ knows how, had given new bloom and expression to her features.
 
 
 
-"Shirley, Shirley, you ought to go," whispered Caroline.
+"[[Shirley]], [[Shirley]], you ought to go," whispered Caroline.
 
 
 
-"I wonder why?"
+"I [[Wonder|wonder]] why?"
 
 
 
 She lifted her eyes, and saw in the glass over the fireplace both Mr.
 
-Hall and Louis Moore gazing at her gravely.
+Hall and [[Louis Moore]] gazing at her gravely.
 
 
 
@@ -1568,7 +1568,7 @@ I ought to go hold up their hands."
 
 
 
-Again consulting the mirror, it reflected an unanimous vote against her.
+Again consulting the [[Mirror|mirror]], it reflected an unanimous vote against her.
 
 
 
@@ -1578,13 +1578,13 @@ duties to society. It is not permitted you to please only yourself."
 
 
 
-Louis Moore assented with a low "Hear, hear!"
+[[Louis Moore]] assented with a low "Hear, hear!"
 
 
 
 Caroline, approaching her, smoothed her wavy curls, gave to her attire a
 
-less artistic and more domestic grace, and Shirley was put out of the
+less artistic and more domestic grace, and [[Shirley]] was put out of the
 
 room, protesting still, by a pouting lip, against her dismissal.
 
@@ -1598,7 +1598,7 @@ mother, and there are two funerals."
 
 
 
-"Henry, get your books; it is lesson-time," said Moore, sitting down to
+"Henry, get your books; it is lesson-[[Time|time]]," said Moore, sitting down to
 
 his desk.
 
@@ -1606,7 +1606,7 @@ his desk.
 
 "A curious charm!" repeated the pupil, when he and his master were left
 
-alone. "True. Is she not a kind of white witch?" he asked.
+[[Alone|alone]]. "True. Is she not a kind of white [[Witch|witch]]?" he asked.
 
 
 
@@ -1614,11 +1614,11 @@ alone. "True. Is she not a kind of white witch?" he asked.
 
 
 
-"Of my cousin Shirley."
+"Of my cousin [[Shirley]]."
 
 
 
-"No irrelevant questions; study in silence."
+"No irrelevant questions; study in [[Silence|silence]]."
 
 
 

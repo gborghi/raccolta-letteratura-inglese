@@ -1,5 +1,5 @@
 ---
-title: "Ms. Found in a Bottle (part 4)"
+title: "[[Ms. Found in a Bottle]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Ms.-Found-in-a-Bottle-(Poe)"
@@ -38,11 +38,11 @@ tags:
 
       weather-beaten Dutch navigator comes full upon my recollection.
 
-      “It is as sure,” he was wont to say, when any doubt was
+      “It is as sure,” he was wont to say, when any [[Doubt|doubt]] was
 
       entertained of his veracity, “as sure as there is a sea where the
 
-      ship itself will grow in bulk like the living body of the
+      [[Ship|ship]] itself will grow in bulk like the living [[Body|body]] of the
 
       seaman.”
 
@@ -60,9 +60,9 @@ tags:
 
       they all bore about them the marks of a hoary old age. Their
 
-      knees trembled with infirmity; their shoulders were bent double
+      knees trembled with infirmity; their shoulders were bent [[Double|double]]
 
-      with decrepitude; their shrivelled skins rattled in the wind;
+      with decrepitude; their shrivelled skins rattled in the [[Wind|wind]];
 
       their voices were low, tremulous and broken; their eyes glistened
 
@@ -78,17 +78,17 @@ tags:
 
 
 
-      I mentioned some time ago the bending of a studding-sail. From
+      I mentioned some [[Time|time]] ago the bending of a studding-sail. From
 
-      that period the ship, being thrown dead off the wind, has
+      that period the [[Ship|ship]], being thrown dead off the [[Wind|wind]], has
 
       continued her terrific course due south, with every rag of canvas
 
       packed upon her, from her trucks to her lower studding-sail
 
-      booms, and rolling every moment her top-gallant yard-arms into
+      booms, and [[rolling]] every moment her top-gallant yard-arms into
 
-      the most appalling hell of water which it can enter into the mind
+      the most appalling hell of [[Water|water]] which it can enter into the mind
 
       of a man to imagine. I have just left the deck, where I find it
 
@@ -100,7 +100,7 @@ tags:
 
       forever. We are surely doomed to hover continually upon the brink
 
-      of eternity, without taking a final plunge into the abyss. From
+      of [[Eternity|eternity]], without taking a final plunge into the abyss. From
 
       billows a thousand times more stupendous than any I have ever
 
@@ -114,7 +114,7 @@ tags:
 
       natural cause which can account for such effect. I must suppose
 
-      the ship to be within the influence of some strong current, or
+      the [[Ship|ship]] to be within the influence of some strong current, or
 
       impetuous under-tow.
 
@@ -132,11 +132,11 @@ tags:
 
       irrepressible reverence and awe mingled with the sensation of
 
-      wonder with which I regarded him. In stature he is nearly my own
+      [[Wonder|wonder]] with which I regarded him. In stature he is nearly my own
 
       height; that is, about five feet eight inches. He is of a
 
-      well-knit and compact frame of body, neither robust nor
+      [[Well|well]]-knit and compact frame of [[Body|body]], neither robust nor
 
       remarkably otherwise. But it is the singularity of the expression
 
@@ -174,9 +174,9 @@ tags:
 
 
 
-      The ship and all in it are imbued with the spirit of Eld. The
+      The [[Ship|ship]] and all in it are imbued with the spirit of Eld. The
 
-      crew glide to and fro like the ghosts of buried centuries; their
+      crew glide to and fro like the [[Ghosts|ghosts]] of buried centuries; their
 
       eyes have an eager and uneasy meaning; and when their fingers
 
@@ -188,7 +188,7 @@ tags:
 
       fallen columns at Balbec, and Tadmor, and Persepolis, until my
 
-      very soul has become a ruin.
+      very [[Soul|soul]] has become a ruin.
 
 
 
@@ -198,13 +198,13 @@ tags:
 
       If I trembled at the blast which has hitherto attended us, shall
 
-      I not stand aghast at a warring of wind and ocean, to convey any
+      I not stand aghast at a warring of [[Wind|wind]] and ocean, to convey any
 
       idea of which the words tornado and simoom are trivial and
 
-      ineffective? All in the immediate vicinity of the ship is the
+      ineffective? All in the immediate vicinity of the [[Ship|ship]] is the
 
-      blackness of eternal night, and a chaos of foamless water; but,
+      blackness of eternal [[Night|night]], and a chaos of foamless [[Water|water]]; but,
 
       about a league on either side of us, may be seen, indistinctly
 
@@ -216,7 +216,7 @@ tags:
 
 
 
-      As I imagined, the ship proves to be in a current—if that
+      As I imagined, the [[Ship|ship]] proves to be in a current—if that
 
       appellation can properly be given to a tide which, howling and
 
@@ -232,9 +232,9 @@ tags:
 
       impossible; yet a curiosity to penetrate the mysteries of these
 
-      awful regions, predominates even over my despair, and will
+      awful regions, predominates even over my [[Despair|despair]], and will
 
-      reconcile me to the most hideous aspect of death. It is evident
+      reconcile me to the most hideous aspect of [[Death|death]]. It is evident
 
       that we are hurrying onwards to some exciting knowledge—some
 
@@ -254,13 +254,13 @@ tags:
 
       is upon their countenances an expression more of the eagerness of
 
-      hope than of the apathy of despair.
+      [[Hope|hope]] than of the apathy of [[Despair|despair]].
 
 
 
-      In the meantime the wind is still in our poop, and, as we carry a
+      In the meantime the [[Wind|wind]] is still in our poop, and, as we carry a
 
-      crowd of canvas, the ship is at times lifted bodily from out the
+      crowd of canvas, the [[Ship|ship]] is at times lifted bodily from out the
 
       sea! Oh, horror upon horror!—the ice opens suddenly to the right,
 
@@ -270,19 +270,19 @@ tags:
 
       amphitheatre, the summit of whose walls is lost in the darkness
 
-      and the distance. But little time will be left me to ponder upon
+      and the distance. But little [[Time|time]] will be left me to ponder upon
 
       my destiny! The circles rapidly grow small—we are plunging madly
 
       within the grasp of the whirlpool—and amid a roaring, and
 
-      bellowing, and thundering of ocean and of tempest, the ship is
+      bellowing, and thundering of ocean and of tempest, the [[Ship|ship]] is
 
       quivering—oh God! and—going down.
 
 
 
-      NOTE.—The “MS. Found in a Bottle,” was originally published in
+      NOTE.—The “[[Ms. Found in a Bottle|MS. Found in a Bottle]],” was originally published in
 
       1831, and it was not until many years afterwards that I became
 

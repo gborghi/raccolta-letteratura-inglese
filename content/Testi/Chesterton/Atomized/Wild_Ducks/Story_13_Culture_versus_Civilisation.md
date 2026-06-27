@@ -25,30 +25,30 @@ The German, being a freethinker and an agnostic, is, of course,
 rigidly bound by the iron rivets of the dogmas of materialism.
 The Russian, being a Greek Orthodox Christian and the relic
 of a ruined and persecuted Church, is a little more cheerful,
-and seems to think there is some such thing as human freedom
+and seems to think there is some such thing as human [[Freedom|freedom]]
 and a chance for human liberty.  But both agree, more or less,
 in a certain theory of the relation between Culture and Civilization;
 and it is roughly that Civilization is the end of Culture,
-even in the sense of the death of Culture.
+even in the sense of the [[Death|death]] of Culture.
 
 Restating the matter roughly here, for my own purposes,
 the conception is that Culture is growth; the original sprouting
-of man's spiritual or artistic nature, as it appears in the
+of man's spiritual or artistic [[Nature|nature]], as it appears in the
 native folklore or primitive architecture of a whole people.
 Civilization is rather the limit or compromise laid upon this
 by the discovery that there are other peoples or other methods
 of production.  In following Culture, a man develops his arts;
 that is to say, his tastes.  Consequently, true Culture,
-like true Charity, begins at home.  With Civilization there appears
+like true [[Charity]], begins at [[Home|home]].  With Civilization there appears
 something that is not only purely public, but a little homeless.
 Culture is growing such flowering trees as you prefer
-in your own front garden, and planting them where you like.
+in your own front [[Garden|garden]], and planting them where you like.
 Civilization is having a lawsuit with the next-door neighbour
-about whether your trees overshadow his garden, or calling
+about whether your trees overshadow his [[Garden|garden]], or calling
 in the policeman to throw him out if he becomes violent
 upon the question.
 
-It is possible to recognise a certain rough truth in this distinction,
+It is possible to recognise a certain rough [[Truth|truth]] in this distinction,
 without committing oneself to the fatalistic and rather pessimistic view
 which Spengler takes of his geological epochs with their human fossils.
 It is enough to say that we are not fossils; and that Isaiah and
@@ -60,10 +60,10 @@ and easy, but especially more free.  It is not my purpose here,
 however, to adjudicate on the theory or on the two theorists.
 I am only concerned with one particular angle or aspect of it,
 which affects the Civilization in which most of my countrymen actually
-have to live--the Civilization of London and the big industrial towns--
+have to live--the Civilization of [[London]] and the big industrial towns--
 if you can call it a Civilization.
 
-Here, for instance, is a doubt that troubles me.  If there was
+Here, for instance, is a [[Doubt|doubt]] that troubles me.  If there was
 one thing which we did suppose was done for us by Civilization,
 it was to make us civil.  The very word politeness is really
 the Greek for civilization, just as the very word civilization
@@ -84,13 +84,13 @@ and their most intimate friends.  But there is another side
 to the story, and it is becoming rather a tragic story,
 in the light of that thesis about Civilization as the fossilization
 and final end of the truly creative life of a culture.
-I think we have reason for grave criticism and apprehension
+I think we have reason for [[Grave|grave]] criticism and apprehension
 when there is a tendency for civic and public life to become
 more coarse and brutal than private and educational life.
 It is a dark and sinister omen when men begin to be ruder
 to strangers than they are to friends.
 
-After all, the home, insofar as any ruins of it are left standing,
+After all, the [[Home|home]], insofar as any ruins of it are left standing,
 is still the school of good manners.  Many make very great efforts,
 and most make some sort of effort, to train their children at least
 in some standard of social behaviour.  Little trivial gestures
@@ -104,14 +104,14 @@ are still largely traditions of a household; they concern opening
 the door to a lady or passing the mustard to a guest.  Almost all
 that remains of the forms of courtesy are the forms of hospitality.
 Whether you call it behaving like a gentleman or behaving like a snob,
-it is still inside a human house that the man generally tries to live
+it is still inside a human [[house]] that the man generally tries to live
 up to his highest standards, and to perform what are, in fact,
 the ancient rites and ceremonies of his Culture.
 
 But in public things have altered a good deal.  There you have
-the sharp test and truth; that the man is generally not living
+the sharp test and [[Truth|truth]]; that the man is generally not living
 up to the highest standards, even of his own family; but often
-abandoning them in despair, owing to the crush and crowding
+abandoning them in [[Despair|despair]], owing to the crush and crowding
 of modern street life.  The man who would bow somebody else
 into a drawing room is content himself with barging into a tram.
 The man who would make room for his guest in a tiny villa will leave
@@ -126,11 +126,11 @@ that our civilization makes us more barbaric.  Culture, in the
 connotation used by the writers I mention, is something interior
 and imaginative and almost sacred, which, when it takes form,
 we recognise as the characteristic work of a particular people; as we
-recognise certain art as the characteristic work of a certain artist.
+recognise certain art as the characteristic work of a certain [[artist]].
 It is a growth of the English culture, for instance, that the poorest
-cottagers love to have a mass of flowers in their front gardens.
+cottagers [[Love|love]] to have a mass of [[Flowers|flowers]] in their front gardens.
 It is even a growth of English culture, in a way, that English
-cottages and villages have a certain peculiar beauty,
+cottages and villages have a certain peculiar [[Beauty|beauty]],
 and are picturesque even when they are inconvenient.
 It would be with a certain sorrow, whatever our opinions, that we
 should yield to a more orderly civilization, which should make

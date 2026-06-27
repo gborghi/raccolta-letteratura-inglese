@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 4 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 4 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,27 +20,27 @@ tags:
 
 
 
-Our party, on the 5th of November, passed off very well, in spite of
+Our party, on the 5th of November, passed off very [[Well|well]], in spite of
 
 Mrs. Graham’s refusal to grace it with her presence. Indeed, it is
 
 probable that, had she been there, there would have been less
 
-cordiality, freedom, and frolic amongst us than there was without her.
+cordiality, [[Freedom|freedom]], and frolic amongst us than there was without her.
 
 
 
 My mother, as usual, was cheerful and chatty, full of activity and
 
-good-nature, and only faulty in being too anxious to make her guests
+good-[[Nature|nature]], and only faulty in being too anxious to make her guests
 
-happy, thereby forcing several of them to do what their soul abhorred
+happy, thereby forcing several of them to do what their [[Soul|soul]] abhorred
 
-in the way of eating or drinking, sitting opposite the blazing fire, or
+in the way of eating or drinking, sitting opposite the blazing [[Fire|fire]], or
 
 talking when they would be silent. Nevertheless, they bore it very
 
-well, being all in their holiday humours.
+[[Well|well]], being all in their holiday humours.
 
 
 
@@ -52,7 +52,7 @@ edification of the whole assembly in general, and of the admiring Mrs.
 
 Markham, the polite Mr. Lawrence, the sedate Mary Millward, the quiet
 
-Richard Wilson, and the matter-of-fact Robert in particular,—as being
+[[Richard]] Wilson, and the matter-of-fact Robert in particular,—as being
 
 the most attentive listeners.
 
@@ -86,13 +86,13 @@ subjugation were too subtle and impalpable to attract my observation;
 
 but I thought there was a certain _refined_ affectation of superiority,
 
-and an ungenial self-consciousness about her, that negatived all her
+and an ungenial [[Self|self]]-consciousness about her, that negatived all her
 
-advantages; and after she was gone, Rose interpreted to me her various
+advantages; and after she was gone, [[Rose]] interpreted to me her various
 
 looks, words, and actions with a mingled acuteness and asperity that
 
-made me wonder, equally, at the lady’s artifice and my sister’s
+made me [[Wonder|wonder]], equally, at the lady’s artifice and my sister’s
 
 penetration, and ask myself if she too had an eye to the squire—but
 
@@ -100,7 +100,7 @@ never mind, Halford; she had not.
 
 
 
-Richard Wilson, Jane’s younger brother, sat in a corner, apparently
+[[Richard]] Wilson, Jane’s younger brother, sat in a corner, apparently
 
 good-tempered, but silent and shy, desirous to escape observation, but
 
@@ -108,7 +108,7 @@ willing enough to listen and observe: and, although somewhat out of his
 
 element, he would have been happy enough in his own quiet way, if my
 
-mother could only have let him alone; but in her mistaken kindness, she
+mother could only have let him [[Alone|alone]]; but in her mistaken kindness, she
 
 would keep persecuting him with her attentions—pressing upon him all
 
@@ -122,7 +122,7 @@ attempted to draw him into conversation.
 
 
 
-Rose informed me that he never would have favoured us with his company
+[[Rose]] informed me that he never would have favoured us with his company
 
 but for the importunities of his sister Jane, who was most anxious to
 
@@ -134,11 +134,11 @@ solicitous to keep away; but he affirmed that he saw no reason why he
 
 should not enjoy a crack with Markham and the old lady (my mother was
 
-not old, really), and bonny Miss Rose and the parson, as well as the
+not old, really), and bonny Miss [[Rose]] and the parson, as [[Well|well]] as the
 
 best;—and he was in the right of it too. So he talked common-place with
 
-my mother and Rose, and discussed parish affairs with the vicar,
+my mother and [[Rose]], and discussed parish affairs with the vicar,
 
 farming matters with me, and politics with us both.
 
@@ -160,13 +160,13 @@ having taken it into his head that she devoted herself too exclusively
 
 to her household duties, to the neglect of such relaxations and
 
-innocent enjoyments as were proper to her age and sex. She seemed to me
+[[Innocent|innocent]] enjoyments as were proper to her age and sex. She seemed to me
 
 to be good-humoured enough on the whole. Once or twice she was provoked
 
 to laughter by the wit or the merriment of some favoured individual
 
-amongst us; and then I observed she sought the eye of Richard Wilson,
+amongst us; and then I observed she sought the eye of [[Richard]] Wilson,
 
 who sat over against her. As he studied with her father, she had some
 
@@ -184,7 +184,7 @@ that of all the room besides. Her delight in having me near her, seated
 
 or standing by her side, whispering in her ear, or pressing her hand in
 
-the dance, was plainly legible in her glowing face and heaving bosom,
+the [[Dance|dance]], was plainly legible in her glowing face and heaving bosom,
 
 however belied by saucy words and gestures. But I had better hold my
 
@@ -194,7 +194,7 @@ hereafter.
 
 
 
-To proceed, then, with the various individuals of our party; Rose was
+To proceed, then, with the various individuals of our party; [[Rose]] was
 
 simple and natural as usual, and full of mirth and vivacity.
 
@@ -220,6 +220,6 @@ tolerably intimate terms. Essentially of reserved habits, and but
 
 seldom quitting the secluded place of his birth, where he had lived in
 
-solitary state since the death of his father, he had neither the
+solitary state since the [[Death|death]] of his father, he had neither the
 
 opportunity nor the inclination for forming many acquaintances; and, of

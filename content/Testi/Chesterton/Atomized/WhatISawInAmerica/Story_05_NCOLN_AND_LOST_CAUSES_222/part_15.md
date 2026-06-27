@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 15)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 15)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -16,9 +16,9 @@ tags:
 
 progress of our people, would prevent the spread of any sort of economic
 
-education, would keep the whole country on a level lower than that of
+[[Education|education]], would keep the whole country on a level lower than that of
 
-the most prehistoric methods of barter. What Russia needs most is a
+the most prehistoric methods of barter. What [[Russia]] needs most is a
 
 mercantile middle class; and it is unjust to ask us to swamp its small
 
@@ -26,7 +26,7 @@ beginnings in thousands of these rude tribesmen, who cannot do a sum of
 
 simple addition, or understand the symbolic character of a threepenny
 
-bit. We might as well be asked to give civic rights to cows and pigs as
+bit. We might as [[Well|well]] be asked to give civic rights to cows and pigs as
 
 to this unhappy, half-witted race who can no more count than the beasts
 
@@ -90,7 +90,7 @@ saying, more or less humorously, that the Irishman rules them. A highly
 
 intelligent professor said to me in Boston, 'We have solved the Irish
 
-problem here; we have an entirely independent Irish Government.' While
+problem here; we have an entirely independent Irish [[government|Government]].' While
 
 we are complaining, in an almost passionate manner, of the impotence of
 
@@ -100,7 +100,7 @@ very indignant manner, of the power of great gangs of bosses and
 
 bullies. There are a great many Americans who pity the Irish, very
 
-naturally and very rightly, for the historic martyrdom which their
+naturally and very rightly, for the historic [[Martyrdom|martyrdom]] which their
 
 patriotism has endured. But there are a great many Americans who do not
 
@@ -116,17 +116,17 @@ our action, and another by our apology.
 
 
 
-It is a thing that can from time to time be found in history; a
+It is a thing that can from [[Time|time]] to [[Time|time]] be found in [[history]]; a
 
 misunderstanding that really has a moral. The English excuse would carry
 
-much more weight if it had more sincerity and more humility. There are
+much more weight if it had more sincerity and more [[Humility|humility]]. There are
 
 a considerable number of people in the United States who could
 
-sympathise with us, if we would say frankly that we fear the Irish.
+sympathise with us, if we would say frankly that we [[Fear|fear]] the Irish.
 
-Those who thus despise our pity might possibly even respect our fear.
+Those who thus despise our pity might possibly even respect our [[Fear|fear]].
 
 The argument I have often used in other places comes back with
 
@@ -150,7 +150,7 @@ to penal servitude; and who connives at the continuance of the sentence,
 
 not because he himself is particularly vindictive, but because he is
 
-afraid of what the convict will do when he comes out of prison. This is
+afraid of what the convict will do when he comes out of [[Prison|prison]]. This is
 
 not exactly a moral strength, but it is a very human weakness; and that
 
@@ -188,9 +188,9 @@ or know the value of a coin.
 
 The first thing for any honest Englishman to send across the sea is
 
-this; that the English have not the shadow of a notion of what they are
+this; that the English have not the [[Shadow|shadow]] of a notion of what they are
 
-up against in America. They have never even heard of the batteries of
+up against in [[America]]. They have never even heard of the batteries of
 
 almost brutal energy, of which I had thus touched a live wire even
 

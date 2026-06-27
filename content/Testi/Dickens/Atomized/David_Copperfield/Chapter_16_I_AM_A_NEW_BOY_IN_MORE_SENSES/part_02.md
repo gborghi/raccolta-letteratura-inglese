@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 2)"
+title: "[[David Copperfield]] — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-But there was such an influence in Mr. Wickfield’s old house, that when
+But there was such an influence in Mr. Wickfield’s old [[house]], that when
 I knocked at it, with my new school-books under my arm, I began to feel
 my uneasiness softening away. As I went up to my airy old room, the
-grave shadow of the staircase seemed to fall upon my doubts and fears,
+[[Grave|grave]] [[Shadow|shadow]] of the staircase seemed to fall upon my doubts and fears,
 and to make the past more indistinct. I sat there, sturdily conning my
-books, until dinner-time (we were out of school for good at three); and
+books, until dinner-[[Time|time]] (we were out of school for good at three); and
 went down, hopeful of becoming a passable sort of boy yet.
 
 Agnes was in the drawing-room, waiting for her father, who was detained
@@ -30,10 +30,10 @@ hoped; but I was a little strange to it at first.
 ‘You have never been to school,’ I said, ‘have you?’ ‘Oh yes! Every
 day.’
 
-‘Ah, but you mean here, at your own home?’
+‘Ah, but you mean here, at your own [[Home|home]]?’
 
 ‘Papa couldn’t spare me to go anywhere else,’ she answered, smiling and
-shaking her head. ‘His housekeeper must be in his house, you know.’
+shaking her head. ‘His housekeeper must be in his [[house]], you know.’
 
 ‘He is very fond of you, I am sure,’ I said.
 
@@ -64,7 +64,7 @@ He spoke, I thought, as if he were weary, or dissatisfied with
 something; but I did not pursue the question in my mind, for dinner was
 just then announced, and we went down and took the same seats as before.
 
-We had scarcely done so, when Uriah Heep put in his red head and his
+We had scarcely done so, when [[Uriah Heep]] put in his red head and his
 lank hand at the door, and said:
 
 ‘Here’s Mr. Maldon begs the favour of a word, sir.’
@@ -93,18 +93,18 @@ Doctor; it’s all the same, you know.’
 
 ‘I don’t know,’ returned Mr. Wickfield.
 
-‘Well, Doctor Strong,’ said the other--‘Doctor Strong was of the same
+‘[[Well]], Doctor Strong,’ said the other--‘Doctor Strong was of the same
 mind, I believed. But as it appears from the course you take with me he
 has changed his mind, why there’s no more to be said, except that the
 sooner I am off, the better. Therefore, I thought I’d come back and say,
 that the sooner I am off the better. When a plunge is to be made into
-the water, it’s of no use lingering on the bank.’
+the [[Water|water]], it’s of no use lingering on the bank.’
 
 ‘There shall be as little lingering as possible, in your case, Mr.
 Maldon, you may depend upon it,’ said Mr. Wickfield.
 
 ‘Thank’ee,’ said the other. ‘Much obliged. I don’t want to look a
-gift-horse in the mouth, which is not a gracious thing to do; otherwise,
+gift-[[Horse|horse]] in the mouth, which is not a gracious thing to do; otherwise,
 I dare say, my cousin Annie could easily arrange it in her own way. I
 suppose Annie would only have to say to the old Doctor--’
 
@@ -122,13 +122,13 @@ sedately eating his dinner.
 Strong, I mean--is not quite a charming young boy,’ said Mr. Jack
 Maldon, laughing. ‘No offence to anybody, Mr. Wickfield. I only mean
 that I suppose some compensation is fair and reasonable in that sort of
-marriage.’
+[[Marriage|marriage]].’
 
 ‘Compensation to the lady, sir?’ asked Mr. Wickfield gravely.
 
 ‘To the lady, sir,’ Mr. Jack Maldon answered, laughing. But appearing
 to remark that Mr. Wickfield went on with his dinner in the same sedate,
-immovable manner, and that there was no hope of making him relax a
+immovable manner, and that there was no [[Hope|hope]] of making him relax a
 muscle of his face, he added: ‘However, I have said what I came to say,
 and, with another apology for this intrusion, I may take myself off. Of
 course I shall observe your directions, in considering the matter as one

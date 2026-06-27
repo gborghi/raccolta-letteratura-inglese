@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 29 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 29 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -21,7 +21,7 @@ carrying his eyes back again to the ceiling.
 
 ‘And how dare you bring it here, sir?’ asked Nicholas, tearing it into
 very little pieces, and jerking it in a shower towards the messenger.
-‘Had you no fear of being kicked downstairs, sir?’
+‘Had you no [[Fear|fear]] of being kicked downstairs, sir?’
 
 Mr. Folair turned his head--now ornamented with several fragments of the
 note--towards Nicholas, and with the same imperturbable dignity, briefly
@@ -55,7 +55,7 @@ dangerous reminder for the subject of your facetiousness. Was it written
 in joke, too, pray?’
 
 ‘No, no, that’s the best of it,’ returned the actor; ‘right down
-earnest--honour bright.’
+earnest--[[Honour|honour]] bright.’
 
 Nicholas could not repress a smile at the odd figure before him, which,
 at all times more calculated to provoke mirth than anger, was especially
@@ -70,17 +70,17 @@ goodness to explain.’
 ‘Why, I’ll tell you how it is,’ said Mr. Folair, sitting himself down
 in a chair with great coolness. ‘Since you came here Lenville has done
 nothing but second business, and, instead of having a reception every
-night as he used to have, they have let him come on as if he was
+[[Night|night]] as he used to have, they have let him come on as if he was
 nobody.’
 
 ‘What do you mean by a reception?’ asked Nicholas.
 
 ‘Jupiter!’ exclaimed Mr. Folair, ‘what an unsophisticated shepherd you
-are, Johnson! Why, applause from the house when you first come on. So he
-has gone on night after night, never getting a hand, and you getting a
+are, Johnson! Why, applause from the [[house]] when you first come on. So he
+has gone on [[Night|night]] after [[Night|night]], never getting a hand, and you getting a
 couple of rounds at least, and sometimes three, till at length he got
-quite desperate, and had half a mind last night to play Tybalt with a
-real sword, and pink you--not dangerously, but just enough to lay you up
+quite desperate, and had half a mind last [[Night|night]] to play [[Tybalt]] with a
+real [[Sword|sword]], and pink you--not dangerously, but just enough to lay you up
 for a month or two.’
 
 ‘Very considerate,’ remarked Nicholas.
@@ -88,13 +88,13 @@ for a month or two.’
 ‘Yes, I think it was under the circumstances; his professional
 reputation being at stake,’ said Mr. Folair, quite seriously. ‘But his
 heart failed him, and he cast about for some other way of annoying
-you, and making himself popular at the same time--for that’s the point.
+you, and making himself popular at the same [[Time|time]]--for that’s the point.
 Notoriety, notoriety, is the thing. Bless you, if he had pinked you,’
 said Mr. Folair, stopping to make a calculation in his mind, ‘it would
 have been worth--ah, it would have been worth eight or ten shillings a
 week to him. All the town would have come to see the actor who nearly
-killed a man by mistake; I shouldn’t wonder if it had got him an
-engagement in London. However, he was obliged to try some other mode of
+killed a man by mistake; I shouldn’t [[Wonder|wonder]] if it had got him an
+engagement in [[London]]. However, he was obliged to try some other mode of
 getting popular, and this one occurred to him. It’s a clever idea, really.
 If you had shown the white feather, and let him pull your nose, he’d
 have got it into the paper; if you had sworn the peace against him, it
@@ -105,19 +105,19 @@ about as you--don’t you see?’
 tables, and pull HIS nose, what then? Would that make his fortune?’
 
 ‘Why, I don’t think it would,’ replied Mr. Folair, scratching his head,
-‘because there wouldn’t be any romance about it, and he wouldn’t be
-favourably known. To tell you the truth though, he didn’t calculate much
+‘because there wouldn’t be any [[Romance|romance]] about it, and he wouldn’t be
+favourably known. To tell you the [[Truth|truth]] though, he didn’t calculate much
 upon that, for you’re always so mild-spoken, and are so popular among
 the women, that we didn’t suspect you of showing fight. If you did,
 however, he has a way of getting out of it easily, depend upon that.’
 
 ‘Has he?’ rejoined Nicholas. ‘We will try, tomorrow morning. In the
 meantime, you can give whatever account of our interview you like best.
-Good-night.’
+Good-[[Night|night]].’
 
-As Mr. Folair was pretty well known among his fellow-actors for a man who
+As Mr. Folair was pretty [[Well|well]] known among his fellow-actors for a man who
 delighted in mischief, and was by no means scrupulous, Nicholas had not
-much doubt but that he had secretly prompted the tragedian in the course
+much [[Doubt|doubt]] but that he had secretly prompted the tragedian in the course
 he had taken, and, moreover, that he would have carried his mission with
 a very high hand if he had not been disconcerted by the very unexpected
 demonstrations with which it had been received. It was not worth his
@@ -128,8 +128,8 @@ exceedingly good part, walked away to confer with his principal,
 and give such an account of his proceedings as he might think best
 calculated to carry on the joke.
 
-He had no doubt reported that Nicholas was in a state of extreme bodily
-fear; for when that young gentleman walked with much deliberation down
+He had no [[Doubt|doubt]] reported that Nicholas was in a state of extreme bodily
+[[Fear|fear]]; for when that young gentleman walked with much deliberation down
 to the theatre next morning at the usual hour, he found all the company
 assembled in evident expectation, and Mr. Lenville, with his severest
 stage face, sitting majestically on a table, whistling defiance.
@@ -139,5 +139,5 @@ jealous) were on the side of the disappointed tragedian; so that the
 latter formed a little group about the redoubtable Mr. Lenville, and the
 former looked on at a little distance in some trepidation and anxiety.
 On Nicholas stopping to salute them, Mr. Lenville laughed a scornful
-laugh, and made some general remark touching the natural history of
+laugh, and made some general remark touching the natural [[history]] of
 puppies.

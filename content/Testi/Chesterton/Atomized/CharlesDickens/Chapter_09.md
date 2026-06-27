@@ -1,5 +1,5 @@
 ---
-title: "CharlesDickens — Part 2"
+title: "[[CharlesDickens]] — Part 2"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/CharlesDickens-(Chesterton)"
@@ -21,7 +21,7 @@ CONTENTS
                  * CHAPTER VII
                    DICKENS AND CHRISTMAS
                  * CHAPTER VIII
-                   THE TIME OF TRANSITION
+                   THE [[Time|TIME]] OF TRANSITION
                  * CHAPTER IX
                    LATER LIFE AND WORKS
                  * CHAPTER X

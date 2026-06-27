@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 2: THE FIRST DAY’S JOURNEY, AND THE FIRST EVENING’S ADVENTURES; (part 8)"
+title: "The [[Pickwick]] Papers — Chapter 2: THE FIRST DAY’S [[Journey|JOURNEY]], AND THE FIRST EVENING’S ADVENTURES; (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -25,14 +25,14 @@ surmised by the uninitiated in such matters that by an understood
 arrangement between the seconds, the pistols were seldom loaded with
 ball; and, furthermore, he reflected that if he applied to Mr. Snodgrass
 to act as his second, and depicted the danger in glowing terms, that
-gentleman might possibly communicate the intelligence to Mr. Pickwick,
-who would certainly lose no time in transmitting it to the local
+gentleman might possibly communicate the intelligence to Mr. [[Pickwick]],
+who would certainly lose no [[Time|time]] in transmitting it to the local
 authorities, and thus prevent the killing or maiming of his follower.
 
 Such were his thoughts when he returned to the coffee-room, and
 intimated his intention of accepting the doctor’s challenge.
 
-‘Will you refer me to a friend, to arrange the time and place of
+‘Will you refer me to a friend, to arrange the [[Time|time]] and place of
 meeting?’ said the officer.
 
 ‘Quite unnecessary,’ replied Mr. Winkle; ‘name them to me, and I can
@@ -50,10 +50,10 @@ tone.
 ‘If you will take the trouble to turn into the field which borders the
 trench, take the foot-path to the left when you arrive at an angle of
 the fortification, and keep straight on, till you see me, I will precede
-you to a secluded place, where the affair can be conducted without fear
+you to a secluded place, where the affair can be conducted without [[Fear|fear]]
 of interruption.’
 
-‘Fear of interruption!’ thought Mr. Winkle.
+‘[[Fear]] of interruption!’ thought Mr. Winkle.
 
 ‘Nothing more to arrange, I think,’ said the officer.
 
@@ -62,11 +62,11 @@ of interruption.’
 ‘Good-morning;’ and the officer whistled a lively air as he strode away.
 
 That morning’s breakfast passed heavily off. Mr. Tupman was not in a
-condition to rise, after the unwonted dissipation of the previous night;
+condition to rise, after the unwonted dissipation of the previous [[Night|night]];
 Mr. Snodgrass appeared to labour under a poetical depression of spirits;
-and even Mr. Pickwick evinced an unusual attachment to silence and soda-
-water. Mr. Winkle eagerly watched his opportunity: it was not long
-wanting. Mr. Snodgrass proposed a visit to the castle, and as Mr. Winkle
+and even Mr. [[Pickwick]] evinced an unusual attachment to [[Silence|silence]] and soda-
+[[Water|water]]. Mr. Winkle eagerly watched his opportunity: it was not long
+wanting. Mr. Snodgrass proposed a visit to the [[Castle|castle]], and as Mr. Winkle
 was the only other member of the party disposed to walk, they went out
 together.
 
@@ -84,7 +84,7 @@ Mr. Snodgrass dropped the hand which he had, in the spirit of poesy,
 raised towards the clouds as he made the above appeal, and assumed an
 attitude of attention.
 
-‘I want your assistance, my dear fellow, in an affair of honour,’ said
+‘I want your assistance, my dear fellow, in an affair of [[Honour|honour]],’ said
 Mr. Winkle.
 
 ‘You shall have it,’ replied Mr. Snodgrass, clasping his friend’s hand.
@@ -102,7 +102,7 @@ forgotten this. He had judged of his friend’s feelings by his own.
 
 ‘The consequences may be dreadful,’ said Mr. Winkle.
 
-‘I hope not,’ said Mr. Snodgrass.
+‘I [[Hope|hope]] not,’ said Mr. Snodgrass.
 
 ‘The doctor, I believe, is a very good shot,’ said Mr. Winkle.
 
@@ -124,11 +124,11 @@ twopenny postman.
 friend, will be tried as an accessory before the fact. Shall I involve
 my friend in transportation--possibly for life!’
 
-Mr. Snodgrass winced a little at this, but his heroism was invincible.
-‘In the cause of friendship,’ he fervently exclaimed, ‘I would brave all
+Mr. Snodgrass winced a little at this, but his [[Heroism|heroism]] was invincible.
+‘In the cause of [[Friendship|friendship]],’ he fervently exclaimed, ‘I would brave all
 dangers.’
 
-How Mr. Winkle cursed his companion’s devoted friendship internally, as
+How Mr. Winkle cursed his companion’s devoted [[Friendship|friendship]] internally, as
 they walked silently along, side by side, for some minutes, each
 immersed in his own meditations! The morning was wearing away; he grew
 desperate.
@@ -143,7 +143,7 @@ Mr. Snodgrass seized his friend’s hand warmly, as he enthusiastically
 replied, ‘Not for worlds!’
 
 A thrill passed over Mr. Winkle’s frame as the conviction that he had
-nothing to hope from his friend’s fears, and that he was destined to
+nothing to [[Hope|hope]] from his friend’s fears, and that he was destined to
 become an animated target, rushed forcibly upon him.
 
 The state of the case having been formally explained to Mr. Snodgrass,

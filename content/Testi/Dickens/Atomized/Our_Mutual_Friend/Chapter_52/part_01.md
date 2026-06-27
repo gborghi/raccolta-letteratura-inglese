@@ -19,11 +19,11 @@ Chapter 11
 IN THE DARK
 
 
-There was no sleep for Bradley Headstone on that night when Eugene
-Wrayburn turned so easily in his bed; there was no sleep for little
+There was no [[Sleep|sleep]] for [[Bradley Headstone]] on that [[Night|night]] when Eugene
+Wrayburn turned so easily in his bed; there was no [[Sleep|sleep]] for little
 Miss Peecher. Bradley consumed the lonely hours, and consumed himself in
 haunting the spot where his careless rival lay a dreaming; little Miss
-Peecher wore them away in listening for the return home of the master
+Peecher wore them away in listening for the return [[Home|home]] of the master
 of her heart, and in sorrowfully presaging that much was amiss with him.
 Yet more was amiss with him than Miss Peecher’s simply arranged little
 work-box of thoughts, fitted with no gloomy and dark recesses, could
@@ -31,35 +31,35 @@ hold. For, the state of the man was murderous.
 
 The state of the man was murderous, and he knew it. More; he irritated
 it, with a kind of perverse pleasure akin to that which a sick man
-sometimes has in irritating a wound upon his body. Tied up all day with
+sometimes has in irritating a wound upon his [[Body|body]]. Tied up all day with
 his disciplined show upon him, subdued to the performance of his routine
 of educational tricks, encircled by a gabbling crowd, he broke loose at
-night like an ill-tamed wild animal. Under his daily restraint, it was
+[[Night|night]] like an ill-tamed wild animal. Under his daily restraint, it was
 his compensation, not his trouble, to give a glance towards his state at
-night, and to the freedom of its being indulged. If great criminals told
-the truth—which, being great criminals, they do not—they would very
+[[Night|night]], and to the [[Freedom|freedom]] of its being indulged. If great criminals told
+the [[Truth|truth]]—which, being great criminals, they do not—they would very
 rarely tell of their struggles against the crime. Their struggles are
 towards it. They buffet with opposing waves, to gain the bloody shore,
 not to recede from it. This man perfectly comprehended that he hated his
 rival with his strongest and worst forces, and that if he tracked him to
-Lizzie Hexam, his so doing would never serve himself with her, or serve
+[[Lizzie Hexam]], his so doing would never serve himself with her, or serve
 her. All his pains were taken, to the end that he might incense himself
 with the sight of the detested figure in her company and favour, in her
-place of concealment. And he knew as well what act of his would follow
+place of concealment. And he knew as [[Well|well]] what act of his would follow
 if he did, as he knew that his mother had borne him. Granted, that he
 may not have held it necessary to make express mention to himself of the
-one familiar truth any more than of the other.
+one familiar [[Truth|truth]] any more than of the other.
 
-He knew equally well that he fed his wrath and hatred, and that he
-accumulated provocation and self-justification, by being made the
+He knew equally [[Well|well]] that he fed his wrath and hatred, and that he
+accumulated provocation and [[Self|self]]-justification, by being made the
 nightly sport of the reckless and insolent Eugene. Knowing all
-this,—and still always going on with infinite endurance, pains, and
-perseverance, could his dark soul doubt whither he went?
+this,—and still always going on with infinite [[Endurance|endurance]], pains, and
+perseverance, could his dark [[Soul|soul]] [[Doubt|doubt]] whither he went?
 
 Baffled, exasperated, and weary, he lingered opposite the Temple gate
 when it closed on Wrayburn and Lightwood, debating with himself should
-he go home for that time or should he watch longer. Possessed in his
-jealousy by the fixed idea that Wrayburn was in the secret, if it were
+he go [[Home|home]] for that [[Time|time]] or should he watch longer. Possessed in his
+[[Jealousy|jealousy]] by the fixed idea that Wrayburn was in the secret, if it were
 not altogether of his contriving, Bradley was as confident of getting
 the better of him at last by sullenly sticking to him, as he would have
 been—and often had been—of mastering any piece of study in the way
@@ -73,7 +73,7 @@ Chambers. It would furnish another reason for Wrayburn’s purposeless
 walks, and it might be. He thought of it and thought of it, until
 he resolved to steal up the stairs, if the gatekeeper would let him
 through, and listen. So, the haggard head suspended in the air flitted
-across the road, like the spectre of one of the many heads erst hoisted
+across the [[Road|road]], like the spectre of one of the many heads erst hoisted
 upon neighbouring Temple Bar, and stopped before the watchman.
 
 The watchman looked at it, and asked: ‘Who for?’
@@ -98,8 +98,8 @@ distinguishable, but they were both the voices of men. In a few moments
 the voices were silent, and there was no sound of footstep, and the
 inner light went out. If Lightwood could have seen the face which kept
 him awake, staring and listening in the darkness outside the door as
-he spoke of it, he might have been less disposed to sleep, through the
-remainder of the night.
+he spoke of it, he might have been less disposed to [[Sleep|sleep]], through the
+remainder of the [[Night|night]].
 
 ‘Not there,’ said Bradley; ‘but she might have been.’ The head arose to
 its former height from the ground, floated down the stair-case again,
@@ -139,4 +139,4 @@ his right thumb, ‘the T’other Governor?’
 ‘Why look here,’ hooking his proposition on his left-hand fingers with
 the forefinger of his right. ‘There’s two Governors, ain’t there? One
 and one, two—Lawyer Lightwood, my first finger, he’s one, ain’t he?
-Well; might you be acquainted with my middle finger, the T’other?’
+[[Well]]; might you be acquainted with my middle finger, the T’other?’

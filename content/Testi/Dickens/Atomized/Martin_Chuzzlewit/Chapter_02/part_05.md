@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 2 (part 5)"
+title: "[[Martin Chuzzlewit]] — Chapter 2 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,21 +14,21 @@ tags:
 </nav>
 
 
-‘Hark!’ said Miss Charity, holding up her finger, as a gentle rap was
+‘Hark!’ said Miss [[Charity]], holding up her finger, as a gentle rap was
 heard at the street door. ‘There is the creature! Now mark my words, he
 has come back with John Westlock for his box, and is going to help
 him to take it to the mail. Only mark my words, if that isn’t his
 intention!’
 
 Even as she spoke, the box appeared to be in progress of conveyance from
-the house, but after a brief murmuring of question and answer, it was
+the [[house]], but after a brief murmuring of question and answer, it was
 put down again, and somebody knocked at the parlour door.
 
 ‘Come in!’ cried Mr Pecksniff--not severely; only virtuously. ‘Come in!’
 
 An ungainly, awkward-looking man, extremely short-sighted, and
 prematurely bald, availed himself of this permission; and seeing that
-Mr Pecksniff sat with his back towards him, gazing at the fire,
+Mr Pecksniff sat with his back towards him, gazing at the [[Fire|fire]],
 stood hesitating, with the door in his hand. He was far from handsome
 certainly; and was drest in a snuff-coloured suit, of an uncouth make at
 the best, which, being shrunk with long wear, was twisted and tortured
@@ -42,8 +42,8 @@ strange creatures who never decline into an ancient appearance, but look
 their oldest when they are very young, and get it over at once.
 
 Keeping his hand upon the lock of the door, he glanced from Mr Pecksniff
-to Mercy, from Mercy to Charity, and from Charity to Mr Pecksniff again,
-several times; but the young ladies being as intent upon the fire as
+to [[Mercy]], from [[Mercy]] to [[Charity]], and from [[Charity]] to Mr Pecksniff again,
+several times; but the young ladies being as intent upon the [[Fire|fire]] as
 their father was, and neither of the three taking any notice of him, he
 was fain to say, at last,
 
@@ -56,10 +56,10 @@ door, Mr Pinch, if you please.’
 
 ‘Certainly, sir,’ said Pinch; not doing so, however, but holding it
 rather wider open than before, and beckoning nervously to somebody
-without: ‘Mr Westlock, sir, hearing that you were come home--’
+without: ‘Mr Westlock, sir, hearing that you were come [[Home|home]]--’
 
 ‘Mr Pinch, Mr Pinch!’ said Pecksniff, wheeling his chair about, and
-looking at him with an aspect of the deepest melancholy, ‘I did not
+looking at him with an aspect of the deepest [[Melancholy|melancholy]], ‘I did not
 expect this from you. I have not deserved this from you!’
 
 ‘No, but upon my word, sir--’ urged Pinch.
@@ -73,9 +73,9 @@ all, wishes to leave none but friends behind him. Mr Westlock and you,
 sir, had a little difference the other day; you have had many little
 differences.’
 
-‘Little differences!’ cried Charity.
+‘Little differences!’ cried [[Charity]].
 
-‘Little differences!’ echoed Mercy.
+‘Little differences!’ echoed [[Mercy]].
 
 ‘My loves!’ said Mr Pecksniff, with the same serene upraising of his
 hand; ‘My dears!’ After a solemn pause he meekly bowed to Mr Pinch, as
@@ -86,7 +86,7 @@ good-looking youth, newly arrived at man’s estate, had not stepped
 forward from the doorway and taken up the thread of the discourse.
 
 ‘Come, Mr Pecksniff,’ he said, with a smile, ‘don’t let there be any
-ill-blood between us, pray. I am sorry we have ever differed, and
+ill-[[Blood|blood]] between us, pray. I am sorry we have ever differed, and
 extremely sorry I have ever given you offence. Bear me no ill-will at
 parting, sir.’
 
@@ -115,11 +115,11 @@ Poor Pinch looked down uneasily at Mr Pecksniff, whose eye was fixed
 upon him as it had been from the first; and looking up at the ceiling
 again, made no reply.
 
-‘As to your forgiveness, Mr Pecksniff,’ said the youth, ‘I’ll not have
+‘As to your [[Forgiveness|forgiveness]], Mr Pecksniff,’ said the youth, ‘I’ll not have
 it upon such terms. I won’t be forgiven.’
 
 ‘Won’t you, John?’ retorted Mr Pecksniff, with a smile. ‘You must. You
-can’t help it. Forgiveness is a high quality; an exalted virtue; far
+can’t help it. [[Forgiveness]] is a high quality; an exalted virtue; far
 above YOUR control or influence, John. I WILL forgive you. You cannot
 move me to remember any wrong you have ever done me, John.’
 
@@ -135,8 +135,8 @@ remember its existence. I will not even remember the conduct of that
 misguided person’--and here, although he spoke like one at peace with
 all the world, he used an emphasis that plainly said “I have my eye
 upon the rascal now”--‘that misguided person who has brought you here
-to-night, seeking to disturb (it is a happiness to say, in vain) the
-heart’s repose and peace of one who would have shed his dearest blood to
+to-[[Night|night]], seeking to disturb (it is a happiness to say, in vain) the
+heart’s repose and peace of one who would have shed his dearest [[Blood|blood]] to
 serve him.’
 
 The voice of Mr Pecksniff trembled as he spoke, and sobs were heard from

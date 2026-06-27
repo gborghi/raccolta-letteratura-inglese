@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 18"
+title: "[[Nicholas Nickleby]] — Chapter 18"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,34 +16,34 @@ tags:
 
 CHAPTER 18
 
-Miss Knag, after doting on Kate Nickleby for three whole Days, makes
+Miss Knag, after doting on [[Kate Nickleby]] for three whole Days, makes
 up her Mind to hate her for evermore. The Causes which led Miss Knag to
 form this Resolution
 
 
-There are many lives of much pain, hardship, and suffering, which,
+There are many lives of much [[Pain|pain]], hardship, and [[Suffering|suffering]], which,
 having no stirring interest for any but those who lead them, are
 disregarded by persons who do not want thought or feeling, but who
 pamper their compassion and need high stimulants to rouse it.
 
-There are not a few among the disciples of charity who require, in their
+There are not a few among the disciples of [[Charity|charity]] who require, in their
 vocation, scarcely less excitement than the votaries of pleasure in
 theirs; and hence it is that diseased sympathy and compassion are every
 day expended on out-of-the-way objects, when only too many demands upon
 the legitimate exercise of the same virtues in a healthy state, are
 constantly within the sight and hearing of the most unobservant person
-alive. In short, charity must have its romance, as the novelist or
+alive. In short, [[Charity|charity]] must have its [[Romance|romance]], as the novelist or
 playwright must have his. A thief in fustian is a vulgar character,
 scarcely to be thought of by persons of refinement; but dress him in
 green velvet, with a high-crowned hat, and change the scene of his
-operations, from a thickly-peopled city, to a mountain road, and you
-shall find in him the very soul of poetry and adventure. So it is with
+operations, from a thickly-peopled [[City|city]], to a mountain [[Road|road]], and you
+shall find in him the very [[Soul|soul]] of poetry and adventure. So it is with
 the one great cardinal virtue, which, properly nourished and exercised,
 leads to, if it does not necessarily include, all the others. It must
-have its romance; and the less of real, hard, struggling work-a-day life
-there is in that romance, the better.
+have its [[Romance|romance]]; and the less of real, hard, struggling work-a-day life
+there is in that [[Romance|romance]], the better.
 
-The life to which poor Kate Nickleby was devoted, in consequence of the
+The life to which poor [[Kate Nickleby]] was devoted, in consequence of the
 unforeseen train of circumstances already developed in this narrative,
 was a hard one; but lest the very dulness, unhealthy confinement, and
 bodily fatigue, which made up its sum and substance, should deprive it
@@ -52,20 +52,20 @@ rather keep Miss Nickleby herself in view just now, than chill them in
 the outset, by a minute and lengthened description of the establishment
 presided over by Madame Mantalini.
 
-‘Well, now, indeed, Madame Mantalini,’ said Miss Knag, as Kate was
-taking her weary way homewards on the first night of her novitiate;
+‘[[Well]], now, indeed, Madame Mantalini,’ said Miss Knag, as Kate was
+taking her weary way homewards on the first [[Night|night]] of her novitiate;
 ‘that Miss Nickleby is a very creditable young person--a very creditable
 young person indeed--hem--upon my word, Madame Mantalini, it does very
 extraordinary credit even to your discrimination that you should
-have found such a very excellent, very well-behaved, very--hem--very
+have found such a very excellent, very [[Well|well]]-behaved, very--hem--very
 unassuming young woman to assist in the fitting on. I have seen some
 young women when they had the opportunity of displaying before their
-betters, behave in such a--oh, dear--well--but you’re always right,
+betters, behave in such a--oh, dear--[[Well|well]]--but you’re always right,
 Madame Mantalini, always; and as I very often tell the young ladies,
 how you do contrive to be always right, when so many people are so often
 wrong, is to me a mystery indeed.’
 
-‘Beyond putting a very excellent client out of humour, Miss Nickleby has
+‘Beyond putting a very excellent client out of [[Humour|humour]], Miss Nickleby has
 not done anything very remarkable today--that I am aware of, at least,’
 said Madame Mantalini in reply.
 
@@ -79,9 +79,9 @@ reddening; ‘because if youth were any excuse, you wouldn’t have--’
 
 ‘Quite so good a forewoman as I have, I suppose,’ suggested Madame.
 
-‘Well, I never did know anybody like you, Madame Mantalini,’ rejoined
+‘[[Well]], I never did know anybody like you, Madame Mantalini,’ rejoined
 Miss Knag most complacently, ‘and that’s the fact, for you know what
-one’s going to say, before it has time to rise to one’s lips. Oh, very
+one’s going to say, before it has [[Time|time]] to rise to one’s lips. Oh, very
 good! Ha, ha, ha!’
 
 ‘For myself,’ observed Madame Mantalini, glancing with affected
@@ -89,18 +89,18 @@ carelessness at her assistant, and laughing heartily in her sleeve, ‘I
 consider Miss Nickleby the most awkward girl I ever saw in my life.’
 
 ‘Poor dear thing,’ said Miss Knag, ‘it’s not her fault. If it was, we
-might hope to cure it; but as it’s her misfortune, Madame Mantalini,
-why really you know, as the man said about the blind horse, we ought to
+might [[Hope|hope]] to cure it; but as it’s her misfortune, Madame Mantalini,
+why really you know, as the man said about the blind [[Horse|horse]], we ought to
 respect it.’
 
 ‘Her uncle told me she had been considered pretty,’ remarked Madame
 Mantalini. ‘I think her one of the most ordinary girls I ever met with.’
 
 ‘Ordinary!’ cried Miss Knag with a countenance beaming delight; ‘and
-awkward! Well, all I can say is, Madame Mantalini, that I quite love the
+awkward! [[Well]], all I can say is, Madame Mantalini, that I quite [[Love|love]] the
 poor girl; and that if she was twice as indifferent-looking, and twice
 as awkward as she is, I should be only so much the more her friend, and
-that’s the truth of it.’
+that’s the [[Truth|truth]] of it.’
 
 In fact, Miss Knag had conceived an incipient affection for Kate
 Nickleby, after witnessing her failure that morning, and this short
@@ -110,12 +110,12 @@ first scanned that young lady’s face and figure, she had entertained
 certain inward misgivings that they would never agree.
 
 ‘But now,’ said Miss Knag, glancing at the reflection of herself in a
-mirror at no great distance, ‘I love her--I quite love her--I declare I
+[[Mirror|mirror]] at no great distance, ‘I [[Love|love]] her--I quite [[Love|love]] her--I declare I
 do!’
 
-Of such a highly disinterested quality was this devoted friendship, and
-so superior was it to the little weaknesses of flattery or ill-nature,
-that the kind-hearted Miss Knag candidly informed Kate Nickleby, next
+Of such a highly disinterested quality was this devoted [[Friendship|friendship]], and
+so superior was it to the little weaknesses of flattery or ill-[[Nature|nature]],
+that the kind-hearted Miss Knag candidly informed [[Kate Nickleby]], next
 day, that she saw she would never do for the business, but that she need
 not give herself the slightest uneasiness on this account, for that she
 (Miss Knag), by increased exertions on her own part, would keep her as
@@ -127,12 +127,12 @@ that she readily promised implicit reliance on the excellent spinster’s
 advice: without questioning, or indeed bestowing a moment’s reflection
 upon, the motives that dictated it.
 
-‘I take quite a lively interest in you, my dear soul, upon my word,’
+‘I take quite a lively interest in you, my dear [[Soul|soul]], upon my word,’
 said Miss Knag; ‘a sister’s interest, actually. It’s the most singular
 circumstance I ever knew.’
 
 Undoubtedly it was singular, that if Miss Knag did feel a strong
-interest in Kate Nickleby, it should not rather have been the interest
+interest in [[Kate Nickleby]], it should not rather have been the interest
 of a maiden aunt or grandmother; that being the conclusion to which the
 difference in their respective ages would have naturally tended. But
 Miss Knag wore clothes of a very youthful pattern, and perhaps her
@@ -142,20 +142,20 @@ feelings took the same shape.
 conclusion of the second day’s work, ‘how very awkward you have been all
 day.’
 
-‘I fear your kind and open communication, which has rendered me more
+‘I [[Fear|fear]] your kind and open communication, which has rendered me more
 painfully conscious of my own defects, has not improved me,’ sighed
 Kate.
 
 ‘No, no, I dare say not,’ rejoined Miss Knag, in a most uncommon flow of
-good humour. ‘But how much better that you should know it at first,
+good [[Humour|humour]]. ‘But how much better that you should know it at first,
 and so be able to go on, straight and comfortable! Which way are you
-walking, my love?’
+walking, my [[Love|love]]?’
 
-‘Towards the city,’ replied Kate.
+‘Towards the [[City|city]],’ replied Kate.
 
-‘The city!’ cried Miss Knag, regarding herself with great favour in the
+‘The [[City|city]]!’ cried Miss Knag, regarding herself with great favour in the
 glass as she tied her bonnet. ‘Goodness gracious me! now do you really
-live in the city?’
+live in the [[City|city]]?’
 
 ‘Is it so very unusual for anybody to live there?’ asked Kate, half
 smiling.
@@ -173,15 +173,15 @@ with that sort of half-sigh, which, accompanied by two or three slight
 nods of the head, is pity’s small change in general society; ‘and that’s
 what I very often tell my brother, when our servants go away ill, one
 after another, and he thinks the back-kitchen’s rather too damp for
-‘em to sleep in. These sort of people, I tell him, are glad to sleep
+‘em to [[Sleep|sleep]] in. These sort of people, I tell him, are glad to [[Sleep|sleep]]
 anywhere! Heaven suits the back to the burden. What a nice thing it is
 to think that it should be so, isn’t it?’
 
 ‘Very,’ replied Kate.
 
 ‘I’ll walk with you part of the way, my dear,’ said Miss Knag, ‘for
-you must go very near our house; and as it’s quite dark, and our last
-servant went to the hospital a week ago, with St Anthony’s fire in her
+you must go very near our [[house]]; and as it’s quite dark, and our last
+servant went to the hospital a week ago, with St Anthony’s [[Fire|fire]] in her
 face, I shall be glad of your company.’
 
 Kate would willingly have excused herself from this flattering
@@ -190,14 +190,14 @@ satisfaction, took her arm with an air which plainly showed how much
 she felt the compliment she was conferring, and they were in the street
 before she could say another word.
 
-‘I fear,’ said Kate, hesitating, ‘that mama--my mother, I mean--is
+‘I [[Fear|fear]],’ said Kate, hesitating, ‘that mama--my mother, I mean--is
 waiting for me.’
 
 ‘You needn’t make the least apology, my dear,’ said Miss Knag, smiling
 sweetly as she spoke; ‘I dare say she is a very respectable old person,
 and I shall be quite--hem--quite pleased to know her.’
 
-As poor Mrs. Nickleby was cooling--not her heels alone, but her limbs
+As poor Mrs. Nickleby was cooling--not her heels [[Alone|alone]], but her limbs
 generally at the street corner, Kate had no alternative but to make
 her known to Miss Knag, who, doing the last new carriage customer
 at second-hand, acknowledged the introduction with condescending
@@ -206,7 +206,7 @@ the middle, in a special state of amiability.
 
 ‘I have taken such a fancy to your daughter, Mrs. Nickleby, you can’t
 think,’ said Miss Knag, after she had proceeded a little distance in
-dignified silence.
+dignified [[Silence|silence]].
 
 ‘I am delighted to hear it,’ said Mrs. Nickleby; ‘though it is nothing
 new to me, that even strangers should like Kate.’
@@ -215,8 +215,8 @@ new to me, that even strangers should like Kate.’
 
 ‘You will like her better when you know how good she is,’ said Mrs
 Nickleby. ‘It is a great blessing to me, in my misfortunes, to have a
-child, who knows neither pride nor vanity, and whose bringing-up might
-very well have excused a little of both at first. You don’t know what it
+[[Child|child]], who knows neither [[Pride|pride]] nor [[Vanity|vanity]], and whose bringing-up might
+very [[Well|well]] have excused a little of both at first. You don’t know what it
 is to lose a husband, Miss Knag.’
 
 As Miss Knag had never yet known what it was to gain one, it followed,
@@ -225,7 +225,7 @@ lose one; so she said, in some haste, ‘No, indeed I don’t,’ and said it
 with an air intending to signify that she should like to catch herself
 marrying anybody--no, no, she knew better than that.
 
-‘Kate has improved even in this little time, I have no doubt,’ said Mrs
+‘Kate has improved even in this little [[Time|time]], I have no [[Doubt|doubt]],’ said Mrs
 Nickleby, glancing proudly at her daughter.
 
 ‘Oh! of course,’ said Miss Knag.
@@ -237,10 +237,10 @@ in her own, to point the joke.
 
 ‘She always was clever,’ said poor Mrs. Nickleby, brightening up,
 ‘always, from a baby. I recollect when she was only two years and a
-half old, that a gentleman who used to visit very much at our house--Mr
+half old, that a gentleman who used to visit very much at our [[house]]--Mr
 Watkins, you know, Kate, my dear, that your poor papa went bail for,
 who afterwards ran away to the United States, and sent us a pair of
-snow shoes, with such an affectionate letter that it made your poor dear
+[[Snow|snow]] shoes, with such an affectionate letter that it made your poor dear
 father cry for a week. You remember the letter? In which he said that he
 was very sorry he couldn’t repay the fifty pounds just then, because
 his capital was all out at interest, and he was very busy making his
@@ -248,7 +248,7 @@ fortune, but that he didn’t forget you were his god-daughter, and he
 should take it very unkind if we didn’t buy you a silver coral and put
 it down to his old account? Dear me, yes, my dear, how stupid you are!
 and spoke so affectionately of the old port wine that he used to drink a
-bottle and a half of every time he came. You must remember, Kate?’
+bottle and a half of every [[Time|time]] he came. You must remember, Kate?’
 
 ‘Yes, yes, mama; what of him?’
 
@@ -262,14 +262,14 @@ same--that Mr. Watkins said, when you were only two years and a half old,
 that you were one of the most astonishing children he ever saw. He did
 indeed, Miss Knag, and he wasn’t at all fond of children, and couldn’t
 have had the slightest motive for doing it. I know it was he who said
-so, because I recollect, as well as if it was only yesterday,
+so, because I recollect, as [[Well|well]] as if it was only yesterday,
 his borrowing twenty pounds of her poor dear papa the very moment
 afterwards.’
 
 Having quoted this extraordinary and most disinterested testimony to her
 daughter’s excellence, Mrs. Nickleby stopped to breathe; and Miss Knag,
-finding that the discourse was turning upon family greatness, lost no
-time in striking in, with a small reminiscence on her own account.
+finding that the discourse was turning upon family [[Greatness|greatness]], lost no
+[[Time|time]] in striking in, with a small reminiscence on her own account.
 
 ‘Don’t talk of lending money, Mrs. Nickleby,’ said Miss Knag, ‘or you’ll
 drive me crazy, perfectly crazy. My mama--hem--was the most lovely and
@@ -280,7 +280,7 @@ delightful and accomplished woman, perhaps, that ever was seen; but she
 had that one failing of lending money, and carried it to such an extent
 that she lent--hem--oh! thousands of pounds, all our little fortunes,
 and what’s more, Mrs. Nickleby, I don’t think, if we were to live
-till--till--hem--till the very end of time, that we should ever get them
+till--till--hem--till the very end of [[Time|time]], that we should ever get them
 back again. I don’t indeed.’
 
 After concluding this effort of invention without being interrupted,
@@ -295,7 +295,7 @@ and caring very little whether anybody listened or not.
 
 In this manner they walked on, very amicably, until they arrived at Miss
 Knag’s brother’s, who was an ornamental stationer and small circulating
-library keeper, in a by-street off Tottenham Court Road; and who let
+library keeper, in a by-street off Tottenham [[Court]] [[Road]]; and who let
 out by the day, week, month, or year, the newest old novels, whereof
 the titles were displayed in pen-and-ink characters on a sheet of
 pasteboard, swinging at his door-post. As Miss Knag happened, at the
@@ -311,7 +311,7 @@ Nickleby.’
 
 Having given utterance to these ejaculations with a very profound
 and thoughtful air, Mr. Knag slowly snuffed two kitchen candles on the
-counter, and two more in the window, and then snuffed himself from a box
+counter, and two more in the [[Window|window]], and then snuffed himself from a box
 in his waistcoat pocket.
 
 There was something very impressive in the ghostly air with which
@@ -327,7 +327,7 @@ Thomas was a boy nearly half as tall as a shutter, and the warehouse was
 a shop about the size of three hackney coaches.
 
 ‘Ah!’ said Mr. Knag once more, heaving a deep sigh as he restored to its
-parent shelf the book he had been reading. ‘Well--yes--I believe supper
+parent shelf the book he had been reading. ‘[[Well]]--yes--I believe supper
 is ready, sister.’
 
 With another sigh Mr. Knag took up the kitchen candles from the counter,
@@ -340,14 +340,14 @@ putting the supper out.
 begged you not to come into the room with your bonnet on!’
 
 ‘I can’t help it, Miss Knag,’ said the charwoman, bridling up on the
-shortest notice. ‘There’s been a deal o’cleaning to do in this house,
+shortest notice. ‘There’s been a deal o’cleaning to do in this [[house]],
 and if you don’t like it, I must trouble you to look out for somebody
-else, for it don’t hardly pay me, and that’s the truth, if I was to be
+else, for it don’t hardly pay me, and that’s the [[Truth|truth]], if I was to be
 hung this minute.’
 
 ‘I don’t want any remarks if YOU please,’ said Miss Knag, with a strong
-emphasis on the personal pronoun. ‘Is there any fire downstairs for some
-hot water presently?’
+emphasis on the personal pronoun. ‘Is there any [[Fire|fire]] downstairs for some
+hot [[Water|water]] presently?’
 
 ‘No there is not, indeed, Miss Knag,’ replied the substitute; ‘and so I
 won’t tell you no stories about it.’
@@ -362,7 +362,7 @@ replied Mrs. Blockson.
 violently into this dialogue.
 
 ‘By your leave, Mr. Knag,’ retorted the charwoman, turning sharp round.
-‘I’m only too glad not to speak in this house, excepting when and where
+‘I’m only too glad not to speak in this [[house]], excepting when and where
 I’m spoke to, sir; and with regard to being a female, sir, I should wish
 to know what you considered yourself?’
 
@@ -373,8 +373,8 @@ miserable wretch.’
 sir,’ said Mrs. Blockson; ‘and as I had two twin children the day before
 yesterday was only seven weeks, and my little Charley fell down a airy
 and put his elber out, last Monday, I shall take it as a favour if
-you’ll send nine shillings, for one week’s work, to my house, afore the
-clock strikes ten tomorrow.’
+you’ll send nine shillings, for one week’s work, to my [[house]], afore the
+[[Clock|clock]] strikes ten tomorrow.’
 
 With these parting words, the good woman quitted the room with great
 ease of manner, leaving the door wide open; Mr. Knag, at the same moment,
@@ -385,7 +385,7 @@ greatly disturbed by the sound.
 
 ‘Is he ill?’ inquired Kate, really alarmed.
 
-‘Hush!’ replied Miss Knag; ‘a most melancholy history. He was once most
+‘Hush!’ replied Miss Knag; ‘a most [[Melancholy|melancholy]] [[history]]. He was once most
 devotedly attached to--hem--to Madame Mantalini.’
 
 ‘Bless me!’ exclaimed Mrs. Nickleby.
@@ -394,8 +394,8 @@ devotedly attached to--hem--to Madame Mantalini.’
 and confidently hoped to marry her. He has a most romantic heart,
 Mrs. Nickleby, as indeed--hem--as indeed all our family have, and the
 disappointment was a dreadful blow. He is a wonderfully accomplished
-man--most extraordinarily accomplished--reads--hem--reads every novel
-that comes out; I mean every novel that--hem--that has any fashion in
+man--most extraordinarily accomplished--reads--hem--reads every [[Novel|novel]]
+that comes out; I mean every [[Novel|novel]] that--hem--that has any fashion in
 it, of course. The fact is, that he did find so much in the books he
 read, applicable to his own misfortunes, and did find himself in every
 respect so much like the heroes--because of course he is conscious of
@@ -420,19 +420,19 @@ it has, I don’t believe his genius would ever have come out at all.’
 
 How much more communicative Miss Knag might have become under more
 favourable circumstances, it is impossible to divine, but as the gloomy
-one was within ear-shot, and the fire wanted making up, her disclosures
+one was within ear-shot, and the [[Fire|fire]] wanted making up, her disclosures
 stopped here. To judge from all appearances, and the difficulty of
-making the water warm, the last servant could not have been much
-accustomed to any other fire than St Anthony’s; but a little brandy and
-water was made at last, and the guests, having been previously regaled
-with cold leg of mutton and bread and cheese, soon afterwards took
-leave; Kate amusing herself, all the way home, with the recollection of
+making the [[Water|water]] warm, the last servant could not have been much
+accustomed to any other [[Fire|fire]] than St Anthony’s; but a little brandy and
+[[Water|water]] was made at last, and the guests, having been previously regaled
+with cold leg of mutton and bread and [[cheese]], soon afterwards took
+leave; Kate amusing herself, all the way [[Home|home]], with the recollection of
 her last glimpse of Mr. Mortimer Knag deeply abstracted in the shop; and
 Mrs. Nickleby by debating within herself whether the dressmaking firm
 would ultimately become ‘Mantalini, Knag, and Nickleby’, or ‘Mantalini,
 Nickleby, and Knag’.
 
-At this high point, Miss Knag’s friendship remained for three whole
+At this high point, Miss Knag’s [[Friendship|friendship]] remained for three whole
 days, much to the wonderment of Madame Mantalini’s young ladies who had
 never beheld such constancy in that quarter, before; but on the fourth,
 it received a check no less violent than sudden, which thus occurred.
@@ -484,7 +484,7 @@ creature, I beg, whenever I come.’
 means.’
 
 ‘Everybody is talking about her,’ said the young lady, in the same
-careless manner; ‘and my lord, being a great admirer of beauty, must
+careless manner; ‘and my lord, being a great admirer of [[Beauty|beauty]], must
 positively see her.’
 
 ‘She IS universally admired,’ replied Madame Mantalini. ‘Miss Knag, send
@@ -494,12 +494,12 @@ up Miss Nickleby. You needn’t return.’
 Knag, trembling.
 
 ‘You needn’t return,’ repeated the superior, sharply. Miss Knag vanished
-without another word, and in all reasonable time was replaced by Kate,
+without another word, and in all reasonable [[Time|time]] was replaced by Kate,
 who took off the new bonnets and put on the old ones: blushing very much
 to find that the old lord and the two young ladies were staring her out
-of countenance all the time.
+of countenance all the [[Time|time]].
 
-‘Why, how you colour, child!’ said the lord’s chosen bride.
+‘Why, how you colour, [[Child|child]]!’ said the lord’s chosen bride.
 
 ‘She is not quite so accustomed to her business, as she will be in a
 week or two,’ interposed Madame Mantalini with a gracious smile.
@@ -517,7 +517,7 @@ him to a fearful ebb of coughing and gasping; it was some minutes
 before he could find breath to remark that the girl was too pretty for a
 milliner.
 
-‘I hope you don’t think good looks a disqualification for the business,
+‘I [[Hope|hope]] you don’t think good looks a disqualification for the business,
 my lord,’ said Madame Mantalini, simpering.
 
 ‘Not by any means,’ replied the old lord, ‘or you would have left it
@@ -534,13 +534,13 @@ sportiveness ensued.
 ‘You will see that those little alterations are made, Madame Mantalini,’
 said the lady. ‘Nay, you bad man, you positively shall go first; I
 wouldn’t leave you behind with that pretty girl, not for half a second.
-I know you too well. Jane, my dear, let him go first, and we shall be
+I know you too [[Well|well]]. Jane, my dear, let him go first, and we shall be
 quite sure of him.’
 
 The old lord, evidently much flattered by this suspicion, bestowed a
-grotesque leer upon Kate as he passed; and, receiving another tap with
+[[Grotesque|grotesque]] leer upon Kate as he passed; and, receiving another tap with
 the parasol for his wickedness, tottered downstairs to the door, where
-his sprightly body was hoisted into the carriage by two stout footmen.
+his sprightly [[Body|body]] was hoisted into the carriage by two stout footmen.
 
 ‘Foh!’ said Madame Mantalini, ‘how he ever gets into a carriage without
 thinking of a hearse, I can’t think. There, take the things away, my
@@ -554,8 +554,8 @@ dominion.
 The circumstances of the little kingdom had greatly changed, however,
 during the short period of her absence. In place of Miss Knag being
 stationed in her accustomed seat, preserving all the dignity and
-greatness of Madame Mantalini’s representative, that worthy soul was
-reposing on a large box, bathed in tears, while three or four of the
+[[Greatness|greatness]] of Madame Mantalini’s representative, that worthy [[Soul|soul]] was
+reposing on a large box, bathed in [[Tears|tears]], while three or four of the
 young ladies in close attendance upon her, together with the presence
 of hartshorn, vinegar, and other restoratives, would have borne ample
 testimony, even without the derangement of the head-dress and front row
@@ -578,7 +578,7 @@ nasty creature!’
 adjective had been jerked out from between Miss Knag’s closed teeth;
 ‘have I offended you?’
 
-‘YOU offended me!’ retorted Miss Knag, ‘YOU! a chit, a child, an upstart
+‘YOU offended me!’ retorted Miss Knag, ‘YOU! a chit, a [[Child|child]], an upstart
 nobody! Oh, indeed! Ha, ha!’
 
 Now, it was evident, as Miss Knag laughed, that something struck her as
@@ -590,7 +590,7 @@ sarcastically to each other, as much as to say how very good that was!
 ‘Here she is,’ continued Miss Knag, getting off the box, and introducing
 Kate with much ceremony and many low curtseys to the delighted throng;
 ‘here she is--everybody is talking about her--the belle, ladies--the
-beauty, the--oh, you bold-faced thing!’
+[[Beauty|beauty]], the--oh, you bold-faced thing!’
 
 At this crisis, Miss Knag was unable to repress a virtuous shudder,
 which immediately communicated itself to all the young ladies; after
@@ -600,7 +600,7 @@ which, Miss Knag laughed, and after that, cried.
 manner, ‘for fifteen years have I been the credit and ornament of this
 room and the one upstairs. Thank God,’ said Miss Knag, stamping first
 her right foot and then her left with remarkable energy, ‘I have never
-in all that time, till now, been exposed to the arts, the vile arts, of
+in all that [[Time|time]], till now, been exposed to the arts, the vile arts, of
 a creature, who disgraces us with all her proceedings, and makes proper
 people blush for themselves. But I feel it, I do feel it, although I am
 disgusted.’
@@ -616,19 +616,19 @@ they hardly knew what to do with themselves.
 suddenly becoming convulsive, and making an effort to tear her front
 off.
 
-‘Oh no, no,’ replied the chorus, ‘pray don’t say so; don’t now!’
+‘Oh no, no,’ replied the [[Chorus|chorus]], ‘pray don’t say so; don’t now!’
 
 ‘Have I deserved to be called an elderly person?’ screamed Miss Knag,
 wrestling with the supernumeraries.
 
-‘Don’t think of such things, dear,’ answered the chorus.
+‘Don’t think of such things, dear,’ answered the [[Chorus|chorus]].
 
 ‘I hate her,’ cried Miss Knag; ‘I detest and hate her. Never let her
 speak to me again; never let anybody who is a friend of mine speak to
 her; a slut, a hussy, an impudent artful hussy!’ Having denounced the
 object of her wrath, in these terms, Miss Knag screamed once, hiccuped
 thrice, gurgled in her throat several times, slumbered, shivered, woke,
-came to, composed her head-dress, and declared herself quite well again.
+came to, composed her head-dress, and declared herself quite [[Well|well]] again.
 
 Poor Kate had regarded these proceedings, at first, in perfect
 bewilderment. She had then turned red and pale by turns, and once
@@ -637,6 +637,6 @@ behaviour developed themselves, she retired a few paces, and looked
 calmly on without deigning a reply. Nevertheless, although she walked
 proudly to her seat, and turned her back upon the group of little
 satellites who clustered round their ruling planet in the remotest
-corner of the room, she gave way, in secret, to some such bitter tears
-as would have gladdened Miss Knag’s inmost soul, if she could have seen
+corner of the room, she gave way, in secret, to some such bitter [[Tears|tears]]
+as would have gladdened Miss Knag’s inmost [[Soul|soul]], if she could have seen
 them fall.

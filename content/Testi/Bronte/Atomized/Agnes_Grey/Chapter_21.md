@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 20"
+title: "[[Agnes Grey]] — Chapter 20"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -18,48 +18,48 @@ CHAPTER XX.
 THE FAREWELL
 
 
-A house in A——, the fashionable watering-place, was hired for our
+A [[house]] in A——, the fashionable watering-place, was hired for our
 seminary; and a promise of two or three pupils was obtained to commence
 with. I returned to Horton Lodge about the middle of July, leaving my
-mother to conclude the bargain for the house, to obtain more pupils, to
+mother to conclude the bargain for the [[house]], to obtain more pupils, to
 sell off the furniture of our old abode, and to fit out the new one.
 
 We often pity the poor, because they have no leisure to mourn their
 departed relatives, and necessity obliges them to labour through their
 severest afflictions: but is not active employment the best remedy for
-overwhelming sorrow—the surest antidote for despair? It may be a rough
+overwhelming sorrow—the surest antidote for [[Despair|despair]]? It may be a rough
 comforter: it may seem hard to be harassed with the cares of life when
 we have no relish for its enjoyments; to be goaded to labour when the
 heart is ready to break, and the vexed spirit implores for rest only to
-weep in silence: but is not labour better than the rest we covet? and
+weep in [[Silence|silence]]: but is not labour better than the rest we covet? and
 are not those petty, tormenting cares less hurtful than a continual
 brooding over the great affliction that oppresses us? Besides, we
-cannot have cares, and anxieties, and toil, without hope—if it be but
-the hope of fulfilling our joyless task, accomplishing some needful
+cannot have cares, and anxieties, and toil, without [[Hope|hope]]—if it be but
+the [[Hope|hope]] of fulfilling our joyless task, accomplishing some needful
 project, or escaping some further annoyance. At any rate, I was glad my
 mother had so much employment for every faculty of her action-loving
 frame. Our kind neighbours lamented that she, once so exalted in wealth
-and station, should be reduced to such extremity in her time of sorrow;
+and station, should be reduced to such extremity in her [[Time|time]] of sorrow;
 but I am persuaded that she would have suffered thrice as much had she
-been left in affluence, with liberty to remain in that house, the scene
+been left in affluence, with liberty to remain in that [[house]], the scene
 of her early happiness and late affliction, and no stern necessity to
 prevent her from incessantly brooding over and lamenting her
 bereavement.
 
-I will not dilate upon the feelings with which I left the old house,
-the well-known garden, the little village church—then doubly dear to
+I will not dilate upon the feelings with which I left the old [[house]],
+the [[Well|well]]-known [[Garden|garden]], the little village church—then doubly dear to
 me, because my father, who, for thirty years, had taught and prayed
 within its walls, lay slumbering now beneath its flags—and the old bare
 hills, delightful in their very desolation, with the narrow vales
-between, smiling in green wood and sparkling water—the house where I
+between, smiling in green wood and sparkling [[Water|water]]—the [[house]] where I
 was born, the scene of all my early associations, the place where
 throughout life my earthly affections had been centred;—and left them
 to return no more! True, I was going back to Horton Lodge, where, amid
 many evils, one source of pleasure yet remained: but it was pleasure
-mingled with excessive pain; and my stay, alas! was limited to six
-weeks. And even of that precious time, day after day slipped by and I
+mingled with excessive [[Pain|pain]]; and my stay, alas! was limited to six
+weeks. And even of that precious [[Time|time]], day after day slipped by and I
 did not see him: except at church, I never saw him for a fortnight
-after my return. It seemed a long time to me: and, as I was often out
+after my return. It seemed a long [[Time|time]] to me: and, as I was often out
 with my rambling pupil, of course hopes would keep rising, and
 disappointments would ensue; and then, I would say to my own heart,
 “Here is a convincing proof—if you would but have the sense to see it,
@@ -67,13 +67,13 @@ or the candour to acknowledge it—that he does not care for you. If he
 only thought _half_ as much about you as you do about him, he would
 have contrived to meet you many times ere this: you must know that, by
 consulting your own feelings. Therefore, have done with this nonsense:
-you have no ground for hope: dismiss, at once, these hurtful thoughts
+you have no ground for [[Hope|hope]]: dismiss, at once, these hurtful thoughts
 and foolish wishes from your mind, and turn to your own duty, and the
 dull blank life that lies before you. You might have known such
 happiness was not for you.”
 
 But I saw him at last. He came suddenly upon me as I was crossing a
-field in returning from a visit to Nancy Brown, which I had taken the
+field in returning from a visit to [[Nancy]] Brown, which I had taken the
 opportunity of paying while Matilda Murray was riding her matchless
 mare. He must have heard of the heavy loss I had sustained: he
 expressed no sympathy, offered no condolence: but almost the first
@@ -82,7 +82,7 @@ matter-of-course question, for I never told him that I had a mother: he
 must have learned the fact from others, if he knew it at all; and,
 besides, there was sincere goodwill, and even deep, touching,
 unobtrusive sympathy in the tone and manner of the inquiry. I thanked
-him with due civility, and told him she was as well as could be
+him with due civility, and told him she was as [[Well|well]] as could be
 expected. “What will she do?” was the next question. Many would have
 deemed it an impertinent one, and given an evasive reply; but such an
 idea never entered my head, and I gave a brief but plain statement of
@@ -98,7 +98,7 @@ say,—“I should think you will be willing enough to go?”
 
 “Yes—for some things,” I replied.
 
-“For _some_ things only—I wonder what should make you regret it?”
+“For _some_ things only—I [[Wonder|wonder]] what should make you regret it?”
 
 I was annoyed at this in some degree; because it embarrassed me: I had
 only one reason for regretting it; and that was a profound secret,
@@ -113,9 +113,9 @@ you _must_ dislike it.”
 
 “But if you remember rightly, I said, or meant to say, I could not live
 contentedly without a friend in the world: I was not so unreasonable as
-to require one always near me. I think I could be happy in a house full
+to require one always near me. I think I could be happy in a [[house]] full
 of enemies, if—” but no; that sentence must not be continued—I paused,
-and hastily added,—“And, besides, we cannot well leave a place where we
+and hastily added,—“And, besides, we cannot [[Well|well]] leave a place where we
 have lived for two or three years, without some feeling of regret.”
 
 “Will you regret to part with Miss Murray, your sole remaining pupil
@@ -126,7 +126,7 @@ with her sister.”
 
 “I can imagine that.”
 
-“Well, Miss Matilda is quite as good—better in one respect.”
+“[[Well]], Miss Matilda is quite as good—better in one respect.”
 
 “What is that?”
 
@@ -138,7 +138,7 @@ with her sister.”
 little artful.”
 
 “_Artful_ is she?—I saw she was giddy and vain—and now,” he added,
-after a pause, “I can well believe she was artful too; but so
+after a pause, “I can [[Well|well]] believe she was artful too; but so
 excessively so as to assume an aspect of extreme simplicity and
 unguarded openness. Yes,” continued he, musingly, “that accounts for
 some little things that puzzled me a trifle before.”
@@ -147,17 +147,17 @@ After that, he turned the conversation to more general subjects. He did
 not leave me till we had nearly reached the park-gates: he had
 certainly stepped a little out of his way to accompany me so far, for
 he now went back and disappeared down Moss Lane, the entrance of which
-we had passed some time before. Assuredly I did not regret this
+we had passed some [[Time|time]] before. Assuredly I did not regret this
 circumstance: if sorrow had any place in my heart, it was that he was
 gone at last—that he was no longer walking by my side, and that that
 short interval of delightful intercourse was at an end. He had not
-breathed a word of love, or dropped one hint of tenderness or
+breathed a word of [[Love|love]], or dropped one hint of tenderness or
 affection, and yet I had been supremely happy. To be near him, to hear
 him talk as he did talk, and to feel that he thought me worthy to be so
 spoken to—capable of understanding and duly appreciating such
 discourse—was enough.
 
-“Yes, Edward Weston, I could indeed be happy in a house full of
+“Yes, [[Edward Weston]], I could indeed be happy in a [[house]] full of
 enemies, if I had but one friend, who truly, deeply, and faithfully
 loved me; and if that friend were you—though we might be far
 apart—seldom to hear from each other, still more seldom to meet—though
@@ -170,18 +170,18 @@ through will be so clouded? Is it not possible that God may hear my
 prayers, disperse these gloomy shadows, and grant me some beams of
 heaven’s sunshine yet? Will He entirely deny to me those blessings
 which are so freely given to others, who neither ask them nor
-acknowledge them when received? May I not still hope and trust? I did
-hope and trust for a while: but, alas, alas! the time ebbed away: one
+acknowledge them when received? May I not still [[Hope|hope]] and trust? I did
+[[Hope|hope]] and trust for a while: but, alas, alas! the [[Time|time]] ebbed away: one
 week followed another, and, excepting one distant glimpse and two
 transient meetings—during which scarcely anything was said—while I was
 walking with Miss Matilda, I saw nothing of him: except, of course, at
 church.
 
-And now, the last Sunday was come, and the last service. I was often on
-the point of melting into tears during the sermon—the last I was to
-hear from him: the best I should hear from anyone, I was well assured.
+And now, the last [[Sunday]] was come, and the last service. I was often on
+the point of melting into [[Tears|tears]] during the sermon—the last I was to
+hear from him: the best I should hear from anyone, I was [[Well|well]] assured.
 It was over—the congregation were departing; and I must follow. I had
-then seen him, and heard his voice, too, probably for the last time. In
+then seen him, and heard his voice, too, probably for the last [[Time|time]]. In
 the churchyard, Matilda was pounced upon by the two Misses Green. They
 had many inquiries to make about her sister, and I know not what
 besides. I only wished they would have done, that we might hasten back
@@ -196,7 +196,7 @@ very much startled; and had I been at all hysterically inclined, I
 certainly should have committed myself in some way then. Thank God, I
 was not.
 
-“Well,” said Mr. Weston, “I want to bid you good-bye—it is not likely I
+“[[Well]],” said Mr. Weston, “I want to bid you good-bye—it is not likely I
 shall see you again before you go.”
 
 “Good-bye, Mr. Weston,” I said. Oh, how I struggled to say it calmly! I
@@ -208,11 +208,11 @@ consequence to you whether we do or not?”
 “Yes, I should be very glad to see you again.”
 
 I _could_ say no less. He kindly pressed my hand, and went. Now, I was
-happy again—though more inclined to burst into tears than ever. If I
+happy again—though more inclined to burst into [[Tears|tears]] than ever. If I
 had been forced to speak at that moment, a succession of sobs would
-have inevitably ensued; and as it was, I could not keep the water out
+have inevitably ensued; and as it was, I could not keep the [[Water|water]] out
 of my eyes. I walked along with Miss Murray, turning aside my face, and
 neglecting to notice several successive remarks, till she bawled out
 that I was either deaf or stupid; and then (having recovered my
-self-possession), as one awakened from a fit of abstraction, I suddenly
+[[Self|self]]-possession), as one awakened from a fit of abstraction, I suddenly
 looked up and asked what she had been saying.

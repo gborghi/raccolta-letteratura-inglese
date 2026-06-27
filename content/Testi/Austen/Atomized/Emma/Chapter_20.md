@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 1"
+title: "[[Emma]] — Chapter 1"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Emma-(Austen)"
@@ -17,34 +17,34 @@ tags:
 CHAPTER I
 
 
-Emma and Harriet had been walking together one morning, and, in Emma’s
+[[Emma]] and Harriet had been walking together one morning, and, in [[Emma]]’s
 opinion, had been talking enough of Mr. Elton for that day. She could
 not think that Harriet’s solace or her own sins required more; and she
 was therefore industriously getting rid of the subject as they
 returned;—but it burst out again when she thought she had succeeded,
-and after speaking some time of what the poor must suffer in winter,
+and after speaking some [[Time|time]] of what the poor must suffer in [[Winter|winter]],
 and receiving no other answer than a very plaintive—“Mr. Elton is so
 good to the poor!” she found something else must be done.
 
-They were just approaching the house where lived Mrs. and Miss Bates.
+They were just approaching the [[house]] where lived Mrs. and [[Miss Bates]].
 She determined to call upon them and seek safety in numbers. There was
-always sufficient reason for such an attention; Mrs. and Miss Bates
+always sufficient reason for such an attention; Mrs. and [[Miss Bates]]
 loved to be called on, and she knew she was considered by the very few
 who presumed ever to see imperfection in her, as rather negligent in
 that respect, and as not contributing what she ought to the stock of
 their scanty comforts.
 
 She had had many a hint from Mr. Knightley and some from her own heart,
-as to her deficiency—but none were equal to counteract the persuasion
-of its being very disagreeable,—a waste of time—tiresome women—and all
+as to her deficiency—but none were equal to counteract the [[Persuasion|persuasion]]
+of its being very disagreeable,—a waste of [[Time|time]]—tiresome women—and all
 the horror of being in danger of falling in with the second-rate and
 third-rate of Highbury, who were calling on them for ever, and
 therefore she seldom went near them. But now she made the sudden
 resolution of not passing their door without going in—observing, as she
-proposed it to Harriet, that, as well as she could calculate, they were
-just now quite safe from any letter from Jane Fairfax.
+proposed it to Harriet, that, as [[Well|well]] as she could calculate, they were
+just now quite safe from any letter from [[Jane Fairfax]].
 
-The house belonged to people in business. Mrs. and Miss Bates occupied
+The [[house]] belonged to people in business. Mrs. and [[Miss Bates]] occupied
 the drawing-room floor; and there, in the very moderate-sized
 apartment, which was every thing to them, the visitors were most
 cordially and even gratefully welcomed; the quiet neat old lady, who
@@ -57,43 +57,43 @@ sweet-cake from the beaufet—“Mrs. Cole had just been there, just called
 in for ten minutes, and had been so good as to sit an hour with them,
 and _she_ had taken a piece of cake and been so kind as to say she
 liked it very much; and, therefore, she hoped Miss Woodhouse and Miss
-Smith would do them the favour to eat a piece too.”
+[[smith|Smith]] would do them the favour to eat a piece too.”
 
 The mention of the Coles was sure to be followed by that of Mr. Elton.
 There was intimacy between them, and Mr. Cole had heard from Mr. Elton
-since his going away. Emma knew what was coming; they must have the
+since his going away. [[Emma]] knew what was coming; they must have the
 letter over again, and settle how long he had been gone, and how much
 he was engaged in company, and what a favourite he was wherever he
 went, and how full the Master of the Ceremonies’ ball had been; and she
-went through it very well, with all the interest and all the
+went through it very [[Well|well]], with all the interest and all the
 commendation that could be requisite, and always putting forward to
 prevent Harriet’s being obliged to say a word.
 
-This she had been prepared for when she entered the house; but meant,
+This she had been prepared for when she entered the [[house]]; but meant,
 having once talked him handsomely over, to be no farther incommoded by
 any troublesome topic, and to wander at large amongst all the
 Mistresses and Misses of Highbury, and their card-parties. She had not
-been prepared to have Jane Fairfax succeed Mr. Elton; but he was
-actually hurried off by Miss Bates, she jumped away from him at last
+been prepared to have [[Jane Fairfax]] succeed Mr. Elton; but he was
+actually hurried off by [[Miss Bates]], she jumped away from him at last
 abruptly to the Coles, to usher in a letter from her niece.
 
 “Oh! yes—Mr. Elton, I understand—certainly as to dancing—Mrs. Cole was
 telling me that dancing at the rooms at Bath was—Mrs. Cole was so kind
-as to sit some time with us, talking of Jane; for as soon as she came
+as to sit some [[Time|time]] with us, talking of Jane; for as soon as she came
 in, she began inquiring after her, Jane is so very great a favourite
 there. Whenever she is with us, Mrs. Cole does not know how to shew her
 kindness enough; and I must say that Jane deserves it as much as any
-body can. And so she began inquiring after her directly, saying, ‘I
-know you cannot have heard from Jane lately, because it is not her time
+[[Body|body]] can. And so she began inquiring after her directly, saying, ‘I
+know you cannot have heard from Jane lately, because it is not her [[Time|time]]
 for writing;’ and when I immediately said, ‘But indeed we have, we had
-a letter this very morning,’ I do not know that I ever saw any body
-more surprized. ‘Have you, upon your honour?’ said she; ‘well, that is
+a letter this very morning,’ I do not know that I ever saw any [[Body|body]]
+more surprized. ‘Have you, upon your [[Honour|honour]]?’ said she; ‘[[Well|well]], that is
 quite unexpected. Do let me hear what she says.’”
 
-Emma’s politeness was at hand directly, to say, with smiling interest—
+[[Emma]]’s politeness was at hand directly, to say, with smiling interest—
 
 “Have you heard from Miss Fairfax so lately? I am extremely happy. I
-hope she is well?”
+[[Hope|hope]] she is [[Well|well]]?”
 
 “Thank you. You are so kind!” replied the happily deceived aunt, while
 eagerly hunting for the letter.—“Oh! here it is. I was sure it could
@@ -107,34 +107,34 @@ here it is, only just under my huswife—and since you are so kind as to
 wish to hear what she says;—but, first of all, I really must, in
 justice to Jane, apologise for her writing so short a letter—only two
 pages you see—hardly two—and in general she fills the whole paper and
-crosses half. My mother often wonders that I can make it out so well.
-She often says, when the letter is first opened, ‘Well, Hetty, now I
+crosses half. My mother often wonders that I can make it out so [[Well|well]].
+She often says, when the letter is first opened, ‘[[Well]], Hetty, now I
 think you will be put to it to make out all that checker-work’—don’t
 you, ma’am?—And then I tell her, I am sure she would contrive to make
 it out herself, if she had nobody to do it for her—every word of it—I
 am sure she would pore over it till she had made out every word. And,
 indeed, though my mother’s eyes are not so good as they were, she can
-see amazingly well still, thank God! with the help of spectacles. It is
+see amazingly [[Well|well]] still, thank God! with the help of spectacles. It is
 such a blessing! My mother’s are really very good indeed. Jane often
 says, when she is here, ‘I am sure, grandmama, you must have had very
 strong eyes to see as you do—and so much fine work as you have done
-too!—I only wish my eyes may last me as well.’”
+too!—I only wish my eyes may last me as [[Well|well]].’”
 
-All this spoken extremely fast obliged Miss Bates to stop for breath;
-and Emma said something very civil about the excellence of Miss
+All this spoken extremely fast obliged [[Miss Bates]] to stop for breath;
+and [[Emma]] said something very civil about the excellence of Miss
 Fairfax’s handwriting.
 
-“You are extremely kind,” replied Miss Bates, highly gratified; “you
+“You are extremely kind,” replied [[Miss Bates]], highly gratified; “you
 who are such a judge, and write so beautifully yourself. I am sure
 there is nobody’s praise that could give us so much pleasure as Miss
 Woodhouse’s. My mother does not hear; she is a little deaf you know.
 Ma’am,” addressing her, “do you hear what Miss Woodhouse is so obliging
 to say about Jane’s handwriting?”
 
-And Emma had the advantage of hearing her own silly compliment repeated
+And [[Emma]] had the advantage of hearing her own silly compliment repeated
 twice over before the good old lady could comprehend it. She was
 pondering, in the meanwhile, upon the possibility, without seeming very
-rude, of making her escape from Jane Fairfax’s letter, and had almost
+rude, of making her escape from [[Jane Fairfax]]’s letter, and had almost
 resolved on hurrying away directly under some slight excuse, when Miss
 Bates turned to her again and seized her attention.
 
@@ -144,7 +144,7 @@ she is sure to hear; but then she is used to my voice. But it is very
 remarkable that she should always hear Jane better than she does me.
 Jane speaks so distinct! However, she will not find her grandmama at
 all deafer than she was two years ago; which is saying a great deal at
-my mother’s time of life—and it really is full two years, you know,
+my mother’s [[Time|time]] of life—and it really is full two years, you know,
 since she was here. We never were so long without seeing her before,
 and as I was telling Mrs. Cole, we shall hardly know how to make enough
 of her now.”
@@ -155,8 +155,8 @@ of her now.”
 
 “Indeed!—that must be a very great pleasure.”
 
-“Thank you. You are very kind. Yes, next week. Every body is so
-surprized; and every body says the same obliging things. I am sure she
+“Thank you. You are very kind. Yes, next week. Every [[Body|body]] is so
+surprized; and every [[Body|body]] says the same obliging things. I am sure she
 will be as happy to see her friends at Highbury, as they can be to see
 her. Yes, Friday or Saturday; she cannot say which, because Colonel
 Campbell will be wanting the carriage himself one of those days. So
@@ -176,35 +176,35 @@ Three months, she says so, positively, as I am going to have the
 pleasure of reading to you. The case is, you see, that the Campbells
 are going to Ireland. Mrs. Dixon has persuaded her father and mother to
 come over and see her directly. They had not intended to go over till
-the summer, but she is so impatient to see them again—for till she
+the [[Summer|summer]], but she is so impatient to see them again—for till she
 married, last October, she was never away from them so much as a week,
 which must make it very strange to be in different kingdoms, I was
 going to say, but however different countries, and so she wrote a very
 urgent letter to her mother—or her father, I declare I do not know
 which it was, but we shall see presently in Jane’s letter—wrote in Mr.
-Dixon’s name as well as her own, to press their coming over directly,
+Dixon’s name as [[Well|well]] as her own, to press their coming over directly,
 and they would give them the meeting in Dublin, and take them back to
 their country seat, Baly-craig, a beautiful place, I fancy. Jane has
-heard a great deal of its beauty; from Mr. Dixon, I mean—I do not know
-that she ever heard about it from any body else; but it was very
+heard a great deal of its [[Beauty|beauty]]; from Mr. Dixon, I mean—I do not know
+that she ever heard about it from any [[Body|body]] else; but it was very
 natural, you know, that he should like to speak of his own place while
 he was paying his addresses—and as Jane used to be very often walking
 out with them—for Colonel and Mrs. Campbell were very particular about
 their daughter’s not walking out often with only Mr. Dixon, for which I
 do not at all blame them; of course she heard every thing he might be
-telling Miss Campbell about his own home in Ireland; and I think she
+telling Miss Campbell about his own [[Home|home]] in Ireland; and I think she
 wrote us word that he had shewn them some drawings of the place, views
 that he had taken himself. He is a most amiable, charming young man, I
-believe. Jane was quite longing to go to Ireland, from his account of
+believe. Jane was quite [[Longing|longing]] to go to Ireland, from his account of
 things.”
 
-At this moment, an ingenious and animating suspicion entering Emma’s
-brain with regard to Jane Fairfax, this charming Mr. Dixon, and the not
+At this moment, an ingenious and animating suspicion entering [[Emma]]’s
+brain with regard to [[Jane Fairfax]], this charming Mr. Dixon, and the not
 going to Ireland, she said, with the insidious design of farther
 discovery,
 
 “You must feel it very fortunate that Miss Fairfax should be allowed to
-come to you at such a time. Considering the very particular friendship
+come to you at such a [[Time|time]]. Considering the very particular [[Friendship|friendship]]
 between her and Mrs. Dixon, you could hardly have expected her to be
 excused from accompanying Colonel and Mrs. Campbell.”
 
@@ -217,24 +217,24 @@ Campbell; quite depend upon it; nothing can be more kind or pressing
 than their _joint_ invitation, Jane says, as you will hear presently;
 Mr. Dixon does not seem in the least backward in any attention. He is a
 most charming young man. Ever since the service he rendered Jane at
-Weymouth, when they were out in that party on the water, and she, by
+Weymouth, when they were out in that party on the [[Water|water]], and she, by
 the sudden whirling round of something or other among the sails, would
 have been dashed into the sea at once, and actually was all but gone,
 if he had not, with the greatest presence of mind, caught hold of her
 habit— (I can never think of it without trembling!)—But ever since we
-had the history of that day, I have been so fond of Mr. Dixon!”
+had the [[history]] of that day, I have been so fond of Mr. Dixon!”
 
 “But, in spite of all her friends’ urgency, and her own wish of seeing
-Ireland, Miss Fairfax prefers devoting the time to you and Mrs. Bates?”
+Ireland, Miss Fairfax prefers devoting the [[Time|time]] to you and Mrs. Bates?”
 
 “Yes—entirely her own doing, entirely her own choice; and Colonel and
 Mrs. Campbell think she does quite right, just what they should
 recommend; and indeed they particularly _wish_ her to try her native
-air, as she has not been quite so well as usual lately.”
+air, as she has not been quite so [[Well|well]] as usual lately.”
 
 “I am concerned to hear of it. I think they judge wisely. But Mrs.
 Dixon must be very much disappointed. Mrs. Dixon, I understand, has no
-remarkable degree of personal beauty; is not, by any means, to be
+remarkable degree of personal [[Beauty|beauty]]; is not, by any means, to be
 compared with Miss Fairfax.”
 
 “Oh! no. You are very obliging to say such things—but certainly not.
@@ -244,15 +244,15 @@ absolutely plain—but extremely elegant and amiable.”
 “Yes, that of course.”
 
 “Jane caught a bad cold, poor thing! so long ago as the 7th of
-November, (as I am going to read to you,) and has never been well
-since. A long time, is not it, for a cold to hang upon her? She never
+November, (as I am going to read to you,) and has never been [[Well|well]]
+since. A long [[Time|time]], is not it, for a cold to hang upon her? She never
 mentioned it before, because she would not alarm us. Just like her! so
-considerate!—But however, she is so far from well, that her kind
-friends the Campbells think she had better come home, and try an air
-that always agrees with her; and they have no doubt that three or four
+considerate!—But however, she is so far from [[Well|well]], that her kind
+friends the Campbells think she had better come [[Home|home]], and try an air
+that always agrees with her; and they have no [[Doubt|doubt]] that three or four
 months at Highbury will entirely cure her—and it is certainly a great
 deal better that she should come here, than go to Ireland, if she is
-unwell. Nobody could nurse her, as we should do.”
+unwell. Nobody could [[Nurse|nurse]] her, as we should do.”
 
 “It appears to me the most desirable arrangement in the world.”
 
@@ -264,7 +264,7 @@ her illness—but I am afraid we must expect to see her grown thin, and
 looking very poorly. I must tell you what an unlucky thing happened to
 me, as to that. I always make a point of reading Jane’s letters through
 to myself first, before I read them aloud to my mother, you know, for
-fear of there being any thing in them to distress her. Jane desired me
+[[Fear|fear]] of there being any thing in them to distress her. Jane desired me
 to do it, so I always do: and so I began to-day with my usual caution;
 but no sooner did I come to the mention of her being unwell, than I
 burst out, quite frightened, with ‘Bless me! poor Jane is ill!’—which
@@ -272,19 +272,19 @@ my mother, being on the watch, heard distinctly, and was sadly alarmed
 at. However, when I read on, I found it was not near so bad as I had
 fancied at first; and I make so light of it now to her, that she does
 not think much about it. But I cannot imagine how I could be so off my
-guard. If Jane does not get well soon, we will call in Mr. Perry. The
+guard. If Jane does not get [[Well|well]] soon, we will call in Mr. Perry. The
 expense shall not be thought of; and though he is so liberal, and so
 fond of Jane that I dare say he would not mean to charge any thing for
 attendance, we could not suffer it to be so, you know. He has a wife
-and family to maintain, and is not to be giving away his time. Well,
+and family to maintain, and is not to be giving away his [[Time|time]]. [[Well]],
 now I have just given you a hint of what Jane writes about, we will
 turn to her letter, and I am sure she tells her own story a great deal
 better than I can tell it for her.”
 
-“I am afraid we must be running away,” said Emma, glancing at Harriet,
+“I am afraid we must be running away,” said [[Emma]], glancing at Harriet,
 and beginning to rise—“My father will be expecting us. I had no
 intention, I thought I had no power of staying more than five minutes,
-when I first entered the house. I merely called, because I would not
+when I first entered the [[house]]. I merely called, because I would not
 pass the door without inquiring after Mrs. Bates; but I have been so
 pleasantly detained! Now, however, we must wish you and Mrs. Bates good
 morning.”
@@ -292,4 +292,4 @@ morning.”
 And not all that could be urged to detain her succeeded. She regained
 the street—happy in this, that though much had been forced on her
 against her will, though she had in fact heard the whole substance of
-Jane Fairfax’s letter, she had been able to escape the letter itself.
+[[Jane Fairfax]]’s letter, she had been able to escape the letter itself.

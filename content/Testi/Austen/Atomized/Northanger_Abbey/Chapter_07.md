@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 6"
+title: "[[Northanger Abbey]] — Chapter 6"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -32,7 +32,7 @@ marked the reasonableness of that attachment.
 
 
 
-They met by appointment; and as Isabella had arrived nearly five
+They met by appointment; and as [[Isabella]] had arrived nearly five
 
 minutes before her friend, her first address naturally was, “My dearest
 
@@ -44,7 +44,7 @@ at least this age!”
 
 “Have you, indeed! i am very sorry for it; but really I thought I was
 
-in very good time. It is but just one. I hope you have not been here
+in very good [[Time|time]]. It is but just one. I [[Hope|hope]] you have not been here
 
 long?”
 
@@ -62,7 +62,7 @@ set off; it looked very showery, and that would have thrown me into
 
 agonies! do you know, I saw the prettiest hat you can imagine, in a
 
-shop window in Milsom Street just now—very like yours, only with
+shop [[Window|window]] in Milsom Street just now—very like yours, only with
 
 coquelicot ribbons instead of green; I quite longed for it. But, my
 
@@ -86,9 +86,9 @@ behind the black veil for the world! are not you wild to know?”
 
 “Oh! yes, quite; what can it be? But do not tell me—I would not be told
 
-upon any account. I know it must be a skeleton, I am sure it is
+upon any account. I know it must be a [[skeleton]], I am sure it is
 
-Laurentina’s skeleton. Oh! i am delighted with the book! i should like
+Laurentina’s [[skeleton]]. Oh! i am delighted with the book! i should like
 
 to spend my whole life in reading it. I assure you, if it had not been
 
@@ -110,15 +110,15 @@ out a list of ten or twelve more of the same kind for you.”
 
 “I will read you their names directly; here they are, in my pocketbook.
 
-Castle of Wolfenbach, Clermont, Mysterious Warnings, Necromancer of the
+[[Castle]] of Wolfenbach, Clermont, Mysterious Warnings, Necromancer of the
 
-Black Forest, Midnight Bell, Orphan of the Rhine, and Horrid Mysteries.
+Black Forest, Midnight Bell, [[Orphan]] of the Rhine, and Horrid Mysteries.
 
-Those will last us some time.”
+Those will last us some [[Time|time]].”
 
 
 
-“Yes, pretty well; but are they all horrid, are you sure they are all
+“Yes, pretty [[Well|well]]; but are they all horrid, are you sure they are all
 
 horrid?”
 
@@ -146,19 +146,19 @@ not admiring her! i scold them all amazingly about it.”
 
 really my friends. I have no notion of loving people by halves; it is
 
-not my nature. My attachments are always excessively strong. I told
+not my [[Nature|nature]]. My attachments are always excessively strong. I told
 
-Captain Hunt at one of our assemblies this winter that if he was to
+Captain Hunt at one of our assemblies this [[Winter|winter]] that if he was to
 
-tease me all night, I would not dance with him, unless he would allow
+tease me all [[Night|night]], I would not [[Dance|dance]] with him, unless he would allow
 
 Miss Andrews to be as beautiful as an angel. The men think us incapable
 
-of real friendship, you know, and I am determined to show them the
+of real [[Friendship|friendship]], you know, and I am determined to show them the
 
 difference. Now, if I were to hear anybody speak slightingly of you, I
 
-should fire up in a moment: but that is not at all likely, for _you_
+should [[Fire|fire]] up in a moment: but that is not at all likely, for _you_
 
 are just the kind of girl to be a great favourite with the men.”
 
@@ -168,7 +168,7 @@ are just the kind of girl to be a great favourite with the men.”
 
 
 
-“I know you very well; you have so much animation, which is exactly
+“I know you very [[Well|well]]; you have so much animation, which is exactly
 
 what Miss Andrews wants, for I must confess there is something
 
@@ -176,9 +176,9 @@ amazingly insipid about her. Oh! i must tell you, that just after we
 
 parted yesterday, I saw a young man looking at you so earnestly—I am
 
-sure he is in love with you.” Catherine coloured, and disclaimed again.
+sure he is in [[Love|love]] with you.” Catherine coloured, and disclaimed again.
 
-Isabella laughed. “It is very true, upon my honour, but I see how it
+[[Isabella]] laughed. “It is very true, upon my [[Honour|honour]], but I see how it
 
 is; you are indifferent to everybody’s admiration, except that of one
 
@@ -186,7 +186,7 @@ gentleman, who shall be nameless. Nay, I cannot blame you”—speaking
 
 more seriously—“your feelings are easily understood. Where the heart is
 
-really attached, I know very well how little one can be pleased with
+really attached, I know very [[Well|well]] how little one can be pleased with
 
 the attention of anybody else. Everything is so insipid, so
 
@@ -214,7 +214,7 @@ much pleased with him; but while I have Udolpho to read, I feel as if
 
 nobody could make me miserable. Oh! the dreadful black veil! my dear
 
-Isabella, I am sure there must be Laurentina’s skeleton behind it.”
+[[Isabella]], I am sure there must be Laurentina’s [[skeleton]] behind it.”
 
 
 
@@ -246,7 +246,7 @@ entertaining.”
 
 But, my dearest Catherine, have you settled what to wear on your head
 
-to-night? I am determined at all events to be dressed exactly like you.
+to-[[Night|night]]? I am determined at all events to be dressed exactly like you.
 
 The men take notice of _that_ sometimes, you know.”
 
@@ -264,7 +264,7 @@ spirit, and make them keep their distance.”
 
 
 
-“Are they? Well, I never observed _that_. They always behave very well
+“Are they? [[Well]], I never observed _that_. They always behave very [[Well|well]]
 
 to me.”
 
@@ -288,11 +288,11 @@ I think. Brown—not fair, and—and not very dark.”
 
 
 
-“Very well, Catherine. That is exactly he. I have not forgot your
+“Very [[Well|well]], Catherine. That is exactly he. I have not forgot your
 
 description of Mr. Tilney—‘a brown skin, with dark eyes, and rather
 
-dark hair.’ Well, my taste is different. I prefer light eyes, and as to
+dark hair.’ [[Well]], my taste is different. I prefer light eyes, and as to
 
 complexion—do you know—I like a sallow better than any other. You must
 
@@ -316,9 +316,9 @@ Catherine, in some amazement, complied, and after remaining a few
 
 moments silent, was on the point of reverting to what interested her at
 
-that time rather more than anything else in the world, Laurentina’s
+that [[Time|time]] rather more than anything else in the world, Laurentina’s
 
-skeleton, when her friend prevented her, by saying, “For heaven’s sake!
+[[skeleton]], when her friend prevented her, by saying, “For heaven’s sake!
 
 Let us move away from this end of the room. Do you know, there are two
 
@@ -330,7 +330,7 @@ arrivals. They will hardly follow us there.”
 
 
 
-Away they walked to the book; and while Isabella examined the names, it
+Away they walked to the book; and while [[Isabella]] examined the names, it
 
 was Catherine’s employment to watch the proceedings of these alarming
 
@@ -338,7 +338,7 @@ young men.
 
 
 
-“They are not coming this way, are they? I hope they are not so
+“They are not coming this way, are they? I [[Hope|hope]] they are not so
 
 impertinent as to follow us. Pray let me know if they are coming. I am
 
@@ -354,7 +354,7 @@ pump-room.
 
 
 
-“And which way are they gone?” said Isabella, turning hastily round.
+“And which way are they gone?” said [[Isabella]], turning hastily round.
 
 “One was a very good-looking young man.”
 
@@ -364,9 +364,9 @@ pump-room.
 
 
 
-“Well, I am amazingly glad I have got rid of them! and now, what say
+“[[Well]], I am amazingly glad I have got rid of them! and now, what say
 
-you to going to Edgar’s Buildings with me, and looking at my new hat?
+you to going to [[Edgar]]’s Buildings with me, and looking at my new hat?
 
 You said you should like to see it.”
 

@@ -1,5 +1,5 @@
 ---
-title: "The Glass Walking Stick — On The Essay"
+title: "The Glass Walking Stick — On The [[Essay]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-ON THE ESSAY
+ON THE [[Essay|ESSAY]]
 
 THERE are dark and morbid moods in which I am tempted to feel
 that Evil re-entered the world in the form of Essays.
-The Essay is like the Serpent, smooth and graceful and easy
+The [[Essay]] is like the Serpent, smooth and graceful and easy
 of movement, also wavering or wandering.  Besides, I suppose that
-the very word Essay had the original meaning of `trying it on'.
+the very word [[Essay]] had the original meaning of `trying it on'.
 The serpent was in every sense of the word tentative.
 The tempter is always feeling his way, and finding out how much
 other people will stand.  That misleading air of irresponsibility
@@ -102,10 +102,10 @@ as a thought.  A man would not travel hopefully at all,
 if he thought that the goal would be disappointing as
 compared with the travels.  It is tenable that travel is the
 more enjoyable; but in that ease it cannot be called hopeful.
-For the traveller is here presumed to hope for the end of travel,
+For the traveller is here presumed to [[Hope|hope]] for the end of travel,
 not merely for its continuance.  Now, of course, I do not mean
 that pleasant paradoxes of this sort have not a place in literature;
-and because of them the essay has a place in literature.
+and because of them the [[Essay|essay]] has a place in literature.
 There is room for the merely idle and wandering essayist,
 as for the merely idle and wandering traveller.  The trouble
 is that the essayists have become the only ethical philosophers.
@@ -114,7 +114,7 @@ and our only substitute for preaching friars.
 And whether our system is to be materialist or moralist,
 or sceptical or transcendent we need more of a system than that.
 After a certain amount of wandering the mind wants either to get
-there or to go home.  It is one thing to travel hopefully,
+there or to go [[Home|home]].  It is one thing to travel hopefully,
 and say half in jest that it is better than to arrive.
 It is another thing to travel hopelessly, because you know
 you will never arrive.
@@ -129,13 +129,13 @@ and constantly railed at Tories for not trusting men or mobs.
 I think it was he who lectured Walter Scott for so small a matter
 as making the medieval mob in `Ivanhoe' jeer ungenerously at the retreat
 of the Templars.  Anyhow, from any number of passages, one would
-infer that Hazlitt offered him self as a friend of the people.
+infer that Hazlitt offered him [[Self|self]] as a friend of the people.
 But he offered himself most furiously as an enemy of the Public.
 When he began to write about the Public, he described exactly
-the same many-headed monster of ignorance and cowardice and cruelty
+the same many-headed [[Monster|monster]] of ignorance and cowardice and cruelty
 which the worst Tories called the Mob.
 
-Now, if Hazlitt had been obliged to set forth his thoughts on Democracy
+Now, if Hazlitt had been obliged to set forth his thoughts on [[democracy|Democracy]]
 in the theses of a medieval schoolman, he would have had to think
 much more clearly and make up his mind much more decisively.
 I will leave the last word with the essayist; and admit that I am

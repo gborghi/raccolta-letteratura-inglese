@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 47: MARTHA (part 4)"
+title: "[[David Copperfield]] — Chapter 47: MARTHA (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,27 +14,27 @@ tags:
 </nav>
 
 
-It was midnight when I arrived at home. I had reached my own gate, and
+It was midnight when I arrived at [[Home|home]]. I had reached my own gate, and
 was standing listening for the deep bell of St. Paul’s, the sound
 of which I thought had been borne towards me among the multitude of
 striking clocks, when I was rather surprised to see that the door of my
 aunt’s cottage was open, and that a faint light in the entry was shining
-out across the road.
+out across the [[Road|road]].
 
 Thinking that my aunt might have relapsed into one of her old alarms,
 and might be watching the progress of some imaginary conflagration in
 the distance, I went to speak to her. It was with very great surprise
-that I saw a man standing in her little garden.
+that I saw a man standing in her little [[Garden|garden]].
 
 He had a glass and bottle in his hand, and was in the act of drinking. I
-stopped short, among the thick foliage outside, for the moon was up now,
+stopped short, among the thick foliage outside, for the [[Moon|moon]] was up now,
 though obscured; and I recognized the man whom I had once supposed to be
 a delusion of Mr. Dick’s, and had once encountered with my aunt in the
-streets of the city.
+streets of the [[City|city]].
 
-He was eating as well as drinking, and seemed to eat with a hungry
+He was eating as [[Well|well]] as drinking, and seemed to eat with a hungry
 appetite. He seemed curious regarding the cottage, too, as if it were
-the first time he had seen it. After stooping to put the bottle on the
+the first [[Time|time]] he had seen it. After stooping to put the bottle on the
 ground, he looked up at the windows, and looked about; though with a
 covert and impatient air, as if he was anxious to be gone.
 
@@ -64,7 +64,7 @@ length he said:
 
 ‘It is all I CAN give you,’ said my aunt. ‘You know I have had losses,
 and am poorer than I used to be. I have told you so. Having got it, why
-do you give me the pain of looking at you for another moment, and seeing
+do you give me the [[Pain|pain]] of looking at you for another moment, and seeing
 what you have become?’
 
 ‘I have become shabby enough, if you mean that,’ he said. ‘I lead the
@@ -76,18 +76,18 @@ treated me falsely, ungratefully, and cruelly. Go, and repent of it.
 Don’t add new injuries to the long, long list of injuries you have done
 me!’
 
-‘Aye!’ he returned. ‘It’s all very fine--Well! I must do the best I can,
+‘Aye!’ he returned. ‘It’s all very fine--[[Well]]! I must do the best I can,
 for the present, I suppose.’
 
-In spite of himself, he appeared abashed by my aunt’s indignant tears,
-and came slouching out of the garden. Taking two or three quick steps,
+In spite of himself, he appeared abashed by my aunt’s indignant [[Tears|tears]],
+and came slouching out of the [[Garden|garden]]. Taking two or three quick steps,
 as if I had just come up, I met him at the gate, and went in as he came
 out. We eyed one another narrowly in passing, and with no favour.
 
 ‘Aunt,’ said I, hurriedly. ‘This man alarming you again! Let me speak to
 him. Who is he?’
 
-‘Child,’ returned my aunt, taking my arm, ‘come in, and don’t speak to
+‘[[Child]],’ returned my aunt, taking my arm, ‘come in, and don’t speak to
 me for ten minutes.’
 
 We sat down in her little parlour. My aunt retired behind the round
@@ -103,34 +103,34 @@ came out, and took a seat beside me.
 
 I sat in silent amazement.
 
-‘Betsey Trotwood don’t look a likely subject for the tender passion,’
-said my aunt, composedly, ‘but the time was, Trot, when she believed in
-that man most entirely. When she loved him, Trot, right well. When there
+‘[[Betsey Trotwood]] don’t look a likely subject for the tender passion,’
+said my aunt, composedly, ‘but the [[Time|time]] was, Trot, when she believed in
+that man most entirely. When she loved him, Trot, right [[Well|well]]. When there
 was no proof of attachment and affection that she would not have given
 him. He repaid her by breaking her fortune, and nearly breaking her
 heart. So she put all that sort of sentiment, once and for ever, in a
-grave, and filled it up, and flattened it down.’
+[[Grave|grave]], and filled it up, and flattened it down.’
 
 ‘My dear, good aunt!’
 
 ‘I left him,’ my aunt proceeded, laying her hand as usual on the back of
-mine, ‘generously. I may say at this distance of time, Trot, that I left
+mine, ‘generously. I may say at this distance of [[Time|time]], Trot, that I left
 him generously. He had been so cruel to me, that I might have effected
 a separation on easy terms for myself; but I did not. He soon made ducks
 and drakes of what I gave him, sank lower and lower, married another
 woman, I believe, became an adventurer, a gambler, and a cheat. What he
 is now, you see. But he was a fine-looking man when I married him,’ said
-my aunt, with an echo of her old pride and admiration in her tone; ‘and
-I believed him--I was a fool!--to be the soul of honour!’
+my aunt, with an echo of her old [[Pride|pride]] and admiration in her tone; ‘and
+I believed him--I was a [[Fool|fool]]!--to be the [[Soul|soul]] of [[Honour|honour]]!’
 
 She gave my hand a squeeze, and shook her head.
 
 ‘He is nothing to me now, Trot--less than nothing. But, sooner than have
 him punished for his offences (as he would be if he prowled about in
 this country), I give him more money than I can afford, at intervals
-when he reappears, to go away. I was a fool when I married him; and I am
-so far an incurable fool on that subject, that, for the sake of what
-I once believed him to be, I wouldn’t have even this shadow of my idle
+when he reappears, to go away. I was a [[Fool|fool]] when I married him; and I am
+so far an incurable [[Fool|fool]] on that subject, that, for the sake of what
+I once believed him to be, I wouldn’t have even this [[Shadow|shadow]] of my idle
 fancy hardly dealt with. For I was in earnest, Trot, if ever a woman
 was.’
 

@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 80"
+title: "[[Barnaby Rudge]] — Chapter 80"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -28,18 +28,18 @@ best-contented old buck, in Great Britain or out of it.
 
 There he sat, with his beaming eye on Mrs V., and his shining face
 suffused with gladness, and his capacious waistcoat smiling in every
-wrinkle, and his jovial humour peeping from under the table in the very
-plumpness of his legs; a sight to turn the vinegar of misanthropy into
+wrinkle, and his jovial [[Humour|humour]] peeping from under the table in the very
+plumpness of his legs; a sight to turn the vinegar of [[Misanthropy|misanthropy]] into
 purest milk of human kindness. There he sat, watching his wife as she
-decorated the room with flowers for the greater honour of Dolly and
+decorated the room with [[Flowers|flowers]] for the greater [[Honour|honour]] of Dolly and
 Joseph Willet, who had gone out walking, and for whom the tea-kettle
 had been singing gaily on the hob full twenty minutes, chirping as
 never kettle chirped before; for whom the best service of real undoubted
 china, patterned with divers round-faced mandarins holding up broad
 umbrellas, was now displayed in all its glory; to tempt whose
 appetites a clear, transparent, juicy ham, garnished with cool green
-lettuce-leaves and fragrant cucumber, reposed upon a shady table,
-covered with a snow-white cloth; for whose delight, preserves and jams,
+lettuce-[[Leaves|leaves]] and fragrant cucumber, reposed upon a shady table,
+covered with a [[Snow|snow]]-white cloth; for whose delight, preserves and jams,
 crisp cakes and other pastry, short to eat, with cunning twists, and
 cottage loaves, and rolls of bread both white and brown, were all set
 forth in rich profusion; in whose youth Mrs V. herself had grown quite
@@ -58,21 +58,21 @@ to joke; and how her colour came and went in a little restless flutter
 of happiness, which made her do everything wrong, and yet so charmingly
 wrong that it was better than right!--why, the locksmith could have
 looked on at this (as he mentioned to Mrs Varden when they retired for
-the night) for four-and-twenty hours at a stretch, and never wished it
+the [[Night|night]]) for four-and-twenty hours at a stretch, and never wished it
 done.
 
 The recollections, too, with which they made merry over that long
 protracted tea! The glee with which the locksmith asked Joe if he
-remembered that stormy night at the Maypole when he first asked after
-Dolly--the laugh they all had, about that night when she was going out
+remembered that stormy [[Night|night]] at the Maypole when he first asked after
+Dolly--the laugh they all had, about that [[Night|night]] when she was going out
 to the party in the sedan-chair--the unmerciful manner in which they
-rallied Mrs Varden about putting those flowers outside that very
-window--the difficulty Mrs Varden found in joining the laugh against
+rallied Mrs Varden about putting those [[Flowers|flowers]] outside that very
+[[Window|window]]--the difficulty Mrs Varden found in joining the laugh against
 herself, at first, and the extraordinary perception she had of the joke
 when she overcame it--the confidential statements of Joe concerning the
 precise day and hour when he was first conscious of being fond of Dolly,
 and Dolly’s blushing admissions, half volunteered and half extorted, as
-to the time from which she dated the discovery that she ‘didn’t mind’
+to the [[Time|time]] from which she dated the discovery that she ‘didn’t mind’
 Joe--here was an exhaustless fund of mirth and conversation.
 
 Then, there was a great deal to be said regarding Mrs Varden’s doubts,
@@ -88,9 +88,9 @@ nobody else could make anything out of them even now; and had, it
 seemed from first to last, displayed the most unbounded tact and most
 consummate generalship.
 
-Of course the night when Joe WOULD ride homeward by the side of the
+Of course the [[Night|night]] when Joe WOULD ride homeward by the side of the
 chaise, and when Mrs Varden WOULD insist upon his going back again,
-was not forgotten--nor the night when Dolly fainted on his name being
+was not forgotten--nor the [[Night|night]] when Dolly fainted on his name being
 mentioned--nor the times upon times when Mrs Varden, ever watchful and
 prudent, had found her pining in her own chamber. In short, nothing was
 forgotten; and everything by some means or other brought them back to
@@ -100,7 +100,7 @@ nothing could be suggested which would have made it better.
 
 While they were in the full glow of such discourse as this, there came a
 startling knock at the door, opening from the street into the workshop,
-which had been kept closed all day that the house might be more quiet.
+which had been kept closed all day that the [[house]] might be more quiet.
 Joe, as in duty bound, would hear of nobody but himself going to open
 it; and accordingly left the room for that purpose.
 
@@ -110,7 +110,7 @@ straight before him, he could not easily have missed it. But Dolly,
 perhaps because she was in the flutter of spirits before mentioned, or
 perhaps because she thought he would not be able to open it with his one
 arm--she could have had no other reason--hurried out after him; and they
-stopped so long in the passage--no doubt owing to Joe’s entreaties
+stopped so long in the passage--no [[Doubt|doubt]] owing to Joe’s entreaties
 that she would not expose herself to the draught of July air which must
 infallibly come rushing in on this same door being opened--that the
 knock was repeated, in a yet more startling manner than before.
@@ -122,7 +122,7 @@ Upon that, Dolly went running back into the parlour, all dimples and
 blushes; and Joe opened it with a mighty noise, and other superfluous
 demonstrations of being in a violent hurry.
 
-‘Well,’ said the locksmith, when he reappeared: ‘what is it? eh Joe?
+‘[[Well]],’ said the locksmith, when he reappeared: ‘what is it? eh Joe?
 what are you laughing at?’
 
 ‘Nothing, sir. It’s coming in.’
@@ -131,7 +131,7 @@ what are you laughing at?’
 her husband, could only shake her head in answer to his inquiring look:
 so, the locksmith wheeled his chair round to command a better view of
 the room-door, and stared at it with his eyes wide open, and a mingled
-expression of curiosity and wonder shining in his jolly face.
+expression of curiosity and [[Wonder|wonder]] shining in his jolly face.
 
 Instead of some person or persons straightway appearing, divers
 remarkable sounds were heard, first in the workshop and afterwards
@@ -146,12 +146,12 @@ consternation:
 
 ‘Damme, if it an’t Miggs come back!’
 
-The young damsel whom he named no sooner heard these words, than
+The young [[Damsel|damsel]] whom he named no sooner heard these words, than
 deserting a small boy and a very large box by which she was accompanied,
 and advancing with such precipitation that her bonnet flew off her head,
 burst into the room, clasped her hands (in which she held a pair of
 pattens, one in each), raised her eyes devotedly to the ceiling, and
-shed a flood of tears.
+shed a flood of [[Tears|tears]].
 
 ‘The old story!’ cried the locksmith, looking at her in inexpressible
 desperation. ‘She was born to be a damper, this young woman! nothing can
@@ -179,12 +179,12 @@ juncture; and then resumed, in the softest accents:
 
 ‘And did my missis think--ho goodness, did she think--as her own Miggs,
 which supported her under so many trials, and understood her natur’
-when them as intended well but acted rough, went so deep into her
+when them as intended [[Well|well]] but acted rough, went so deep into her
 feelings--did she think as her own Miggs would ever leave her? Did she
 think as Miggs, though she was but a servant, and knowed that servitudes
 was no inheritances, would forgit that she was the humble instruments
 as always made it comfortable between them two when they fell out,
-and always told master of the meekness and forgiveness of her blessed
+and always told master of the meekness and [[Forgiveness|forgiveness]] of her blessed
 dispositions! Did she think as Miggs had no attachments! Did she think
 that wages was her only object!’
 
@@ -192,42 +192,42 @@ To none of these interrogatories, whereof every one was more
 pathetically delivered than the last, did Mrs Varden answer one word:
 but Miggs, not at all abashed by this circumstance, turned to the
 small boy in attendance--her eldest nephew--son of her own married
-sister--born in Golden Lion Court, number twenty-sivin, and bred in the
-very shadow of the second bell-handle on the right-hand door-post--and
+sister--born in Golden [[Lion]] [[Court]], number twenty-sivin, and bred in the
+very [[Shadow|shadow]] of the second bell-handle on the right-hand door-post--and
 with a plentiful use of her pocket-handkerchief, addressed herself to
-him: requesting that on his return home he would console his parents for
+him: requesting that on his return [[Home|home]] he would console his parents for
 the loss of her, his aunt, by delivering to them a faithful statement
 of his having left her in the bosom of that family, with which, as his
-aforesaid parents well knew, her best affections were incorporated; that
+aforesaid parents [[Well|well]] knew, her best affections were incorporated; that
 he would remind them that nothing less than her imperious sense of duty,
 and devoted attachment to her old master and missis, likewise Miss Dolly
 and young Mr Joe, should ever have induced her to decline that pressing
 invitation which they, his parents, had, as he could testify, given her,
 to lodge and board with them, free of all cost and charge, for evermore;
 lastly, that he would help her with her box upstairs, and then repair
-straight home, bearing her blessing and her strong injunctions to mingle
-in his prayers a supplication that he might in course of time grow up
+straight [[Home|home]], bearing her blessing and her strong injunctions to mingle
+in his prayers a supplication that he might in course of [[Time|time]] grow up
 a locksmith, or a Mr Joe, and have Mrs Vardens and Miss Dollys for his
 relations and friends.
 
-Having brought this admonition to an end--upon which, to say the truth,
+Having brought this admonition to an end--upon which, to say the [[Truth|truth]],
 the young gentleman for whose benefit it was designed, bestowed little
 or no heed, having to all appearance his faculties absorbed in the
 contemplation of the sweetmeats,--Miss Miggs signified to the company in
 general that they were not to be uneasy, for she would soon return; and,
 with her nephew’s aid, prepared to bear her wardrobe up the staircase.
 
-‘My dear,’ said the locksmith to his wife. ‘Do you desire this?’
+‘My dear,’ said the locksmith to his wife. ‘Do you [[Desire|desire]] this?’
 
-‘I desire it!’ she answered. ‘I am astonished--I am amazed--at her
-audacity. Let her leave the house this moment.’
+‘I [[Desire|desire]] it!’ she answered. ‘I am astonished--I am amazed--at her
+audacity. Let her leave the [[house]] this moment.’
 
 Miggs, hearing this, let her end of the box fall heavily to the floor,
 gave a very loud sniff, crossed her arms, screwed down the corners of
 her mouth, and cried, in an ascending scale, ‘Ho, good gracious!’ three
 distinct times.
 
-‘You hear what your mistress says, my love,’ remarked the locksmith.
+‘You hear what your mistress says, my [[Love|love]],’ remarked the locksmith.
 ‘You had better go, I think. Stay; take this with you, for the sake of
 old service.’
 
@@ -252,10 +252,10 @@ towards Mrs Varden, and her eye on the rest of the company, as she
 alluded to them in her remarks, proceeded:
 
 ‘I’m quite delighted, I’m sure, to find sich independency, feeling sorry
-though, at the same time, mim, that you should have been forced into
+though, at the same [[Time|time]], mim, that you should have been forced into
 submissions when you couldn’t help yourself--he he he! It must be great
 vexations, ‘specially considering how ill you always spoke of Mr Joe--to
-have him for a son-in-law at last; and I wonder Miss Dolly can put
+have him for a son-in-law at last; and I [[Wonder|wonder]] Miss Dolly can put
 up with him, either, after being off and on for so many years with a
 coachmaker. But I HAVE heerd say, that the coachmaker thought twice
 about it--he he he!--and that he told a young man as was a frind of his,
@@ -272,7 +272,7 @@ heerd the neighbours make remark as some one as they was acquainted
 with, was a poor good-natur’d mean-spirited creetur, as went out
 fishing for a wife one day, and caught a Tartar. Of course I never to my
 knowledge see the poor person himself. Nor did you neither, mim--ho no.
-I wonder who it can be--don’t you, mim? No doubt you do, mim. Ho yes. He
+I [[Wonder|wonder]] who it can be--don’t you, mim? No [[Doubt|doubt]] you do, mim. Ho yes. He
 he he!’
 
 Again Miggs paused for a reply; and none being offered, was so oppressed
@@ -293,27 +293,27 @@ dustman!’
 Miss Miggs was about to add, and had, indeed, begun to add, that,
 taking them in the abstract, dustmen were far more eligible matches than
 soldiers, though, to be sure, when people were past choosing they must
-take the best they could get, and think themselves well off too; but her
+take the best they could get, and think themselves [[Well|well]] off too; but her
 vexation and chagrin being of that internally bitter sort which finds no
-relief in words, and is aggravated to madness by want of contradiction,
-she could hold out no longer, and burst into a storm of sobs and tears.
+relief in words, and is aggravated to [[Madness|madness]] by want of contradiction,
+she could hold out no longer, and burst into a [[Storm|storm]] of sobs and [[Tears|tears]].
 
 In this extremity she fell on the unlucky nephew, tooth and nail, and
 plucking a handful of hair from his head, demanded to know how long she
 was to stand there to be insulted, and whether or no he meant to help
 her to carry out the box again, and if he took a pleasure in hearing his
-family reviled: with other inquiries of that nature; at which disgrace
-and provocation, the small boy, who had been all this time gradually
-lashed into rebellion by the sight of unattainable pastry, walked off
+family reviled: with other inquiries of that [[Nature|nature]]; at which disgrace
+and provocation, the small boy, who had been all this [[Time|time]] gradually
+lashed into rebellion by the sight of [[Unattainable|unattainable]] pastry, walked off
 indignant, leaving his aunt and the box to follow at their leisure.
 Somehow or other, by dint of pushing and pulling, they did attain the
 street at last; where Miss Miggs, all blowzed with the exertion of
-getting there, and with her sobs and tears, sat down upon her property
+getting there, and with her sobs and [[Tears|tears]], sat down upon her property
 to rest and grieve, until she could ensnare some other youth to help her
-home.
+[[Home|home]].
 
 ‘It’s a thing to laugh at, Martha, not to care for,’ whispered the
-locksmith, as he followed his wife to the window, and good-humouredly
+locksmith, as he followed his wife to the [[Window|window]], and good-humouredly
 dried her eyes. ‘What does it matter? You had seen your fault before.
-Come! Bring up Toby again, my dear; Dolly shall sing us a song; and
+Come! Bring up Toby again, my dear; Dolly shall sing us a [[Song|song]]; and
 we’ll be all the merrier for this interruption!’

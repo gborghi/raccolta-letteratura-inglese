@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 39"
+title: "[[Villette]] — Chapter 39"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -20,7 +20,7 @@ OLD AND NEW ACQUAINTANCE.
 
 Fascinated as by a basilisk with three heads, I could not leave this
 clique; the ground near them seemed to hold my feet. The canopy of
-entwined trees held out shadow, the night whispered a pledge of
+entwined trees held out [[Shadow|shadow]], the [[Night|night]] whispered a pledge of
 protection, and an officious lamp flashed just one beam to show me an
 obscure, safe seat, and then vanished. Let me now briefly tell the
 reader all that, during the past dark fortnight, I have been silently
@@ -33,18 +33,18 @@ possess, in the estimation of these her votaries, an idol’s
 consequence. The fact was, she had been rich—very rich; and though, for
 the present, without the command of money, she was likely one day to be
 rich again. At Basseterre, in Guadaloupe, she possessed a large estate,
-received in dowry on her marriage sixty years ago, sequestered since
+received in dowry on her [[Marriage|marriage]] sixty years ago, sequestered since
 her husband’s failure; but now, it was supposed, cleared of claim, and,
 if duly looked after by a competent agent of integrity, considered
 capable of being made, in a few years, largely productive.
 
 Père Silas took an interest in this prospective improvement for the
 sake of religion and the church, whereof Magliore Walravens was a
-devout daughter. Madame Beck, distantly related to the hunchback and
+devout daughter. [[Madame Beck]], distantly related to the hunchback and
 knowing her to be without family of her own, had long brooded over
 contingencies with a mother’s calculating forethought, and, harshly
-treated as she was by Madame Walravens, never ceased to court her for
-interest’s sake. Madame Beck and the priest were thus, for money
+treated as she was by Madame Walravens, never ceased to [[Court|court]] her for
+interest’s sake. [[Madame Beck]] and the priest were thus, for money
 reasons, equally and sincerely interested in the nursing of the West
 Indian estate.
 
@@ -53,16 +53,16 @@ and upright agent wanted, must be a devoted man. Just such a man had
 Madame Walravens retained for twenty years in her service, blighting
 his life, and then living on him, like an old fungus; such a man had
 Père Silas trained, taught, and bound to him by the ties of gratitude,
-habit, and belief. Such a man Madame Beck knew, and could in some
+habit, and belief. Such a man [[Madame Beck]] knew, and could in some
 measure influence. “My pupil,” said Père Silas, “if he remains in
 Europe, runs risk of apostacy, for he has become entangled with a
-heretic.” Madame Beck made also her private comment, and preferred in
+heretic.” [[Madame Beck]] made also her private comment, and preferred in
 her own breast her secret reason for desiring expatriation. The thing
 she could not obtain, she desired not another to win: rather would she
 destroy it. As to Madame Walravens, she wanted her money and her land,
 and knew Paul, if he liked, could make the best and faithfullest
-steward: so the three self-seekers banded and beset the one unselfish.
-They reasoned, they appealed, they implored; on his mercy they cast
+steward: so the three [[Self|self]]-seekers banded and beset the one unselfish.
+They reasoned, they appealed, they implored; on his [[Mercy|mercy]] they cast
 themselves, into his hands they confidingly thrust their interests.
 They asked but two or three years of devotion—after that, he should
 live for himself: one of the number, perhaps, wished that in the
@@ -70,7 +70,7 @@ meantime he might die.
 
 No living being ever humbly laid his advantage at M. Emanuel’s feet, or
 confidingly put it into his hands, that he spurned the trust or
-repulsed the repository. What might be his private pain or inward
+repulsed the repository. What might be his private [[Pain|pain]] or inward
 reluctance to leave Europe—what his calculations for his own
 future—none asked, or knew, or reported. All this was a blank to me.
 His conferences with his confessor I might guess; the part duty and
@@ -80,10 +80,10 @@ He was gone, and had made no sign. There my knowledge closed.
 With my head bent, and my forehead resting on my hands, I sat amidst
 grouped tree-stems and branching brushwood. Whatever talk passed
 amongst my neighbours, I might hear, if I would; I was near enough; but
-for some time, there was scarce motive to attend. They gossiped about
-the dresses, the music, the illuminations, the fine night. I listened
+for some [[Time|time]], there was scarce motive to attend. They gossiped about
+the dresses, the music, the illuminations, the fine [[Night|night]]. I listened
 to hear them say, “It is calm weather for _his_ voyage; the _Antigua_”
-(his ship) “will sail prosperously.” No such remark fell; neither the
+(his [[Ship|ship]]) “will sail prosperously.” No such remark fell; neither the
 _Antigua_, nor her course, nor her passenger were named.
 
 Perhaps the light chat scarcely interested old Madame Walravens more
@@ -97,13 +97,13 @@ enough, but it sent a shock through me—“Messieurs et mesdames,” said
 she, “où donc est Justine Marie?”
 
 “Justine Marie!” What was this? Justine Marie—the dead nun—where was
-she? Why, in her grave, Madame Walravens—what can you want with her?
+she? Why, in her [[Grave|grave]], Madame Walravens—what can you want with her?
 You shall go to her, but she shall not come to you.
 
 Thus _I_ should have answered, had the response lain with me, but
 nobody seemed to be of my mind; nobody seemed surprised, startled, or
 at a loss. The quietest commonplace answer met the strange, the
-dead-disturbing, the Witch-of-Endor query of the hunchback.
+dead-disturbing, the [[Witch]]-of-Endor query of the hunchback.
 
 “Justine Marie,” said one, “is coming; she is in the kiosk; she will be
 here presently.”
@@ -116,27 +116,27 @@ listen as intently as I would—and I _did_ listen _now_ with a fated
 interest—I could make out no more than that some scheme was on foot, in
 which this ghostly Justine Marie—dead or alive—was concerned. This
 family-junta seemed grasping at her somehow, for some reason; there
-seemed question of a marriage, of a fortune—for whom I could not quite
+seemed question of a [[Marriage|marriage]], of a fortune—for whom I could not quite
 make out—perhaps for Victor Kint, perhaps for Josef Emanuel—both were
 bachelors. Once I thought the hints and jests rained upon a young
 fair-haired foreigner of the party, whom they called Heinrich Mühler.
-Amidst all the badinage, Madame Walravens still obtruded from time to
-time, hoarse, cross-grained speeches; her impatience being diverted
+Amidst all the badinage, Madame Walravens still obtruded from [[Time|time]] to
+[[Time|time]], hoarse, [[Cross|cross]]-grained speeches; her impatience being diverted
 only by an implacable surveillance of Désirée, who could not stir but
 the old woman menaced her with her staff.
 
 “La voilà!” suddenly cried one of the gentlemen, “voilà Justine Marie
 qui arrive!”
 
-This moment was for me peculiar. I called up to memory the pictured nun
-on the panel; present to my mind was the sad love-story; I saw in
+This moment was for me peculiar. I called up to [[Memory|memory]] the pictured nun
+on the panel; present to my mind was the sad [[Love|love]]-story; I saw in
 thought the vision of the garret, the apparition of the alley, the
 strange birth of the berceau; I underwent a presentiment of discovery,
-a strong conviction of coming disclosure. Ah! when imagination once
-runs riot where do we stop? What winter tree so bare and
+a strong conviction of coming disclosure. Ah! when [[Imagination|imagination]] once
+runs riot where do we stop? What [[Winter|winter]] tree so bare and
 branchless—what way-side, hedge-munching animal so humble, that Fancy,
 a passing cloud, and a struggling moonbeam, will not clothe it in
-spirituality, and make of it a phantom?
+spirituality, and make of it a [[Phantom|phantom]]?
 
 With solemn force pressed on my heart, the expectation of mystery
 breaking up: hitherto I had seen this spectre only through a glass
@@ -147,55 +147,55 @@ looked.
 
 The circle opened as if opening to admit a new and welcome member. At
 this instant a torch chanced to be carried past; its blaze aided the
-pale moon in doing justice to the crisis, in lighting to perfection the
+pale [[Moon|moon]] in doing justice to the crisis, in lighting to perfection the
 dénouement pressing on. Surely those near me must have felt some little
 of the anxiety I felt, in degree so unmeted. Of that group the coolest
-must have “held his breath for a time!” As for me, my life stood still.
+must have “held his breath for a [[Time|time]]!” As for me, my life stood still.
 
 It is over. The moment and the nun are come. The crisis and the
 revelation are passed by.
 
-The flambeau glares still within a yard, held up in a park-keeper’s
+The [[Flambeau|flambeau]] glares still within a yard, held up in a park-keeper’s
 hand; its long eager tongue of flame almost licks the figure of the
 Expected—there—where she stands full in my sight. What is she like?
 What does she wear? How does she look? Who is she?
 
-There are many masks in the park to-night, and as the hour wears late,
+There are many masks in the park to-[[Night|night]], and as the hour wears late,
 so strange a feeling of revelry and mystery begins to spread abroad,
 that scarce would you discredit me, reader, were I to say that she is
 like the nun of the attic, that she wears black skirts and white
-head-clothes, that she looks the resurrection of the flesh, and that
-she is a risen ghost.
+head-clothes, that she looks the [[Resurrection|resurrection]] of the flesh, and that
+she is a risen [[Ghost|ghost]].
 
 All falsities—all figments! We will not deal in this gear. Let us be
-honest, and cut, as heretofore, from the homely web of truth.
+honest, and cut, as heretofore, from the homely web of [[Truth|truth]].
 
 _Homely_, though, is an ill-chosen word. What I see is not precisely
-homely. A girl of Villette stands there—a girl fresh from her
-pensionnat. She is very comely, with the beauty indigenous to this
-country. She looks well-nourished, fair, and fat of flesh. Her cheeks
+homely. A girl of [[Villette]] stands there—a girl fresh from her
+pensionnat. She is very comely, with the [[Beauty|beauty]] indigenous to this
+country. She looks [[Well|well]]-nourished, fair, and fat of flesh. Her cheeks
 are round, her eyes good; her hair is abundant. She is handsomely
-dressed. She is not alone; her escort consists of three persons—two
+dressed. She is not [[Alone|alone]]; her escort consists of three persons—two
 being elderly; these she addresses as “Mon Oncle” and “Ma Tante.” She
 laughs, she chats; good-humoured, buxom, and blooming, she looks, at
 all points, the bourgeoise belle.
 
-“So much for Justine Marie;” so much for ghosts and mystery: not that
+“So much for Justine Marie;” so much for [[Ghosts|ghosts]] and mystery: not that
 this last was solved—this girl certainly is not my nun: what I saw in
-the garret and garden must have been taller by a span.
+the garret and [[Garden|garden]] must have been taller by a span.
 
-We have looked at the city belle; we have cursorily glanced at the
+We have looked at the [[City|city]] belle; we have cursorily glanced at the
 respectable old uncle and aunt. Have we a stray glance to give to the
 third member of this company? Can we spare him a moment’s notice? We
 ought to distinguish him so far, reader; he has claims on us; we do not
-now meet him for the first time. I clasped my hands very hard, and I
+now meet him for the first [[Time|time]]. I clasped my hands very hard, and I
 drew my breath very deep: I held in the cry, I devoured the
 ejaculation, I forbade the start, I spoke and I stirred no more than a
 stone; but I knew what I looked on; through the dimness left in my eyes
 by many nights’ weeping, I knew him. They said he was to sail by the
-_Antigua_. Madame Beck said so. She lied, or she had uttered what was
-once truth, and failed to contradict it when it became false. The
-_Antigua_ was gone, and there stood Paul Emanuel.
+_Antigua_. [[Madame Beck]] said so. She lied, or she had uttered what was
+once [[Truth|truth]], and failed to contradict it when it became false. The
+_Antigua_ was gone, and there stood [[Paul Emanuel]].
 
 Was I glad? A huge load left me. Was it a fact to warrant joy? I know
 not. Ask first what were the circumstances attendant on this respite?
@@ -204,10 +204,10 @@ touch more nearly?
 
 After all, who may this young girl, this Justine Marie, be? Not a
 stranger, reader; she is known to me by sight; she visits at the Rue
-Fossette: she is often of Madame Beck’s Sunday parties. She is a
+Fossette: she is often of [[Madame Beck]]’s [[Sunday]] parties. She is a
 relation of both the Becks and Walravens; she derives her baptismal
 name from the sainted nun who would have been her aunt had she lived;
-her patronymic is Sauveur; she is an heiress and an orphan, and M.
+her patronymic is Sauveur; she is an heiress and an [[Orphan|orphan]], and M.
 Emanuel is her guardian; some say her godfather.
 
 The family junta wish this heiress to be married to one of their
@@ -215,7 +215,7 @@ band—which is it? Vital question—which is it?
 
 I felt very glad now, that the drug administered in the sweet draught
 had filled me with a possession which made bed and chamber intolerable.
-I always, through my whole life, liked to penetrate to the real truth;
+I always, through my whole life, liked to penetrate to the real [[Truth|truth]];
 I like seeking the goddess in her temple, and handling the veil, and
 daring the dread glance. O Titaness among deities! the covered outline
 of thine aspect sickens often through its uncertainty, but define to us
@@ -223,13 +223,13 @@ one trait, show us one lineament, clear in awful sincerity; we may gasp
 in untold terror, but with that gasp we drink in a breath of thy
 divinity; our heart shakes, and its currents sway like rivers lifted by
 earthquake, but we have swallowed strength. To see and know the worst
-is to take from Fear her main advantage.
+is to take from [[Fear]] her main advantage.
 
 The Walravens’ party, augmented in numbers, now became very gay. The
 gentlemen fetched refreshments from the kiosk, all sat down on the turf
 under the trees; they drank healths and sentiments; they laughed, they
 jested. M. Emanuel underwent some raillery, half good-humoured, half, I
-thought, malicious, especially on Madame Beck’s part. I soon gathered
+thought, malicious, especially on [[Madame Beck]]’s part. I soon gathered
 that his voyage had been temporarily deferred of his own will, without
 the concurrence, even against the advice, of his friends; he had let
 the _Antigua_ go, and had taken his berth in the _Paul et Virginie_,
@@ -251,15 +251,15 @@ even grumbled a few words, whereat M. Emanuel actually laughed in his
 face, and with the ruthless triumph of the assured conqueror, he drew
 his ward nearer to him.
 
-M. Emanuel was indeed very joyous that night. He seemed not one whit
+M. Emanuel was indeed very joyous that [[Night|night]]. He seemed not one whit
 subdued by the change of scene and action impending. He was the true
 life of the party; a little despotic, perhaps, determined to be chief
-in mirth, as well as in labour, yet from moment to moment proving
+in mirth, as [[Well|well]] as in labour, yet from moment to moment proving
 indisputably his right of leadership. His was the wittiest word, the
 pleasantest anecdote, the frankest laugh. Restlessly active, after his
 manner, he multiplied himself to wait on all; but oh! I saw which was
 his favourite. I saw at whose feet he lay on the turf, I saw whom he
-folded carefully from the night air, whom he tended, watched, and
+folded carefully from the [[Night|night]] air, whom he tended, watched, and
 cherished as the apple of his eye.
 
 Still, hint and raillery flew thick, and still I gathered that while M.
@@ -274,105 +274,105 @@ Thus it must be. The revelation was indeed come. Presentiment had not
 been mistaken in her impulse: there is a kind of presentiment which
 never _is_ mistaken; it was I who had for a moment miscalculated; not
 seeing the true bearing of the oracle, I had thought she muttered of
-vision when, in truth, her prediction touched reality.
+vision when, in [[Truth|truth]], her prediction touched reality.
 
 I might have paused longer upon what I saw; I might have deliberated
 ere I drew inferences. Some, perhaps, would have held the premises
 doubtful, the proofs insufficient; some slow sceptics would have
 incredulously examined ere they conclusively accepted the project of a
-marriage between a poor and unselfish man of forty, and his wealthy
+[[Marriage|marriage]] between a poor and unselfish man of forty, and his wealthy
 ward of eighteen; but far from me such shifts and palliatives, far from
 me such temporary evasion of the actual, such coward fleeing from the
 dread, the swift-footed, the all-overtaking Fact, such feeble suspense
 of submission to her the sole sovereign, such paltering and faltering
 resistance to the Power whose errand is to march conquering and to
-conquer, such traitor defection from the TRUTH.
+conquer, such traitor defection from the [[Truth|TRUTH]].
 
 No. I hastened to accept the whole plan. I extended my grasp and took
 it all in. I gathered it to me with a sort of rage of haste, and folded
 it round me, as the soldier struck on the field folds his colours about
 his breast. I invoked Conviction to nail upon me the certainty,
 abhorred while embraced, to fix it with the strongest spikes her
-strongest strokes could drive; and when the iron had entered well my
-soul, I stood up, as I thought, renovated.
+strongest strokes could drive; and when the iron had entered [[Well|well]] my
+[[Soul|soul]], I stood up, as I thought, renovated.
 
-In my infatuation, I said, “Truth, you are a good mistress to your
+In my infatuation, I said, “[[Truth]], you are a good mistress to your
 faithful servants! While a Lie pressed me, how I suffered! Even when
 the Falsehood was still sweet, still flattering to the fancy, and warm
-to the feelings, it wasted me with hourly torment. The persuasion that
+to the feelings, it wasted me with hourly torment. The [[Persuasion|persuasion]] that
 affection was won could not be divorced from the dread that, by another
-turn of the wheel, it might be lost. Truth stripped away Falsehood, and
+turn of the [[Wheel|wheel]], it might be lost. [[Truth]] stripped away Falsehood, and
 Flattery, and Expectancy, and here I stand—free!”
 
-Nothing remained now but to take my freedom to my chamber, to carry it
+Nothing remained now but to take my [[Freedom|freedom]] to my chamber, to carry it
 with me to my bed and see what I could make of it. The play was not
 yet, indeed, quite played out. I might have waited and watched longer
-that love-scene under the trees, that sylvan courtship. Had there been
-nothing of love in the demonstration, my Fancy in this hour was so
+that [[Love|love]]-scene under the trees, that sylvan courtship. Had there been
+nothing of [[Love|love]] in the demonstration, my Fancy in this hour was so
 generous, so creative, she could have modelled for it the most salient
 lineaments, and given it the deepest life and highest colour of
 passion. But I _would_ not look; I had fixed my resolve, but I would
-not violate my nature. And then—something tore me so cruelly under my
+not violate my [[Nature|nature]]. And then—something tore me so cruelly under my
 shawl, something so dug into my side, a vulture so strong in beak and
-talon, I must be alone to grapple with it. I think I never felt
-jealousy till now. This was not like enduring the endearments of Dr.
-John and Paulina, against which while I sealed my eyes and my ears,
+talon, I must be [[Alone|alone]] to grapple with it. I think I never felt
+[[Jealousy|jealousy]] till now. This was not like enduring the endearments of Dr.
+John and [[Paulina]], against which while I sealed my eyes and my ears,
 while I withdrew thence my thoughts, my sense of harmony still
-acknowledged in it a charm. This was an outrage. The love born of
-beauty was not mine; I had nothing in common with it: I could not dare
-to meddle with it, but another love, venturing diffidently into life
-after long acquaintance, furnace-tried by pain, stamped by constancy,
+acknowledged in it a charm. This was an outrage. The [[Love|love]] born of
+[[Beauty|beauty]] was not mine; I had nothing in common with it: I could not dare
+to meddle with it, but another [[Love|love]], venturing diffidently into life
+after long acquaintance, furnace-tried by [[Pain|pain]], stamped by constancy,
 consolidated by affection’s pure and durable alloy, submitted by
 intellect to intellect’s own tests, and finally wrought up, by his own
-process, to his own unflawed completeness, this Love that laughed at
+process, to his own unflawed completeness, this [[Love]] that laughed at
 Passion, his fast frenzies and his hot and hurried extinction, in
-_this_ Love I had a vested interest; and whatever tended either to its
+_this_ [[Love]] I had a vested interest; and whatever tended either to its
 culture or its destruction, I could not view impassibly.
 
 I turned from the group of trees and the “merrie companie” in its
 shade. Midnight was long past; the concert was over, the crowds were
-thinning. I followed the ebb. Leaving the radiant park and well-lit
-Haute-Ville (still well lit, this it seems was to be a “nuit blanche”
-in Villette), I sought the dim lower quarter.
+thinning. I followed the ebb. Leaving the radiant park and [[Well|well]]-lit
+Haute-Ville (still [[Well|well]] lit, this it seems was to be a “nuit blanche”
+in [[Villette]]), I sought the dim lower quarter.
 
-Dim I should not say, for the beauty of moonlight—forgotten in the
+Dim I should not say, for the [[Beauty|beauty]] of moonlight—forgotten in the
 park—here once more flowed in upon perception. High she rode, and calm
 and stainlessly she shone. The music and the mirth of the fête, the
-fire and bright hues of those lamps had out-done and out-shone her for
-an hour, but now, again, her glory and her silence triumphed. The rival
+[[Fire|fire]] and bright hues of those lamps had out-done and out-shone her for
+an hour, but now, again, her glory and her [[Silence|silence]] triumphed. The rival
 lamps were dying: she held her course like a white fate. Drum, trumpet,
 bugle, had uttered their clangour, and were forgotten; with pencil-ray
 she wrote on heaven and on earth records for archives everlasting. She
-and those stars seemed to me at once the types and witnesses of truth
-all regnant. The night-sky lit her reign: like its slow-wheeling
+and those [[Stars|stars]] seemed to me at once the types and witnesses of [[Truth|truth]]
+all regnant. The [[Night|night]]-sky lit her reign: like its slow-wheeling
 progress, advanced her victory—that onward movement which has been, and
-is, and will be from eternity to eternity.
+is, and will be from [[Eternity|eternity]] to [[Eternity|eternity]].
 
 These oil-twinkling streets are very still: I like them for their
 lowliness and peace. Homeward-bound burghers pass me now and then, but
 these companies are pedestrians, make little noise, and are soon gone.
-So well do I love Villette under her present aspect, not willingly
+So [[Well|well]] do I [[Love|love]] [[Villette]] under her present aspect, not willingly
 would I re-enter under a roof, but that I am bent on pursuing my
 strange adventure to a successful close, and quietly regaining my bed
-in the great dormitory, before Madame Beck comes home.
+in the great dormitory, before [[Madame Beck]] comes [[Home|home]].
 
 Only one street lies between me and the Rue Fossette; as I enter it,
-for the first time, the sound of a carriage tears up the deep peace of
+for the first [[Time|time]], the sound of a carriage [[Tears|tears]] up the deep peace of
 this quarter. It comes this way—comes very fast. How loud sounds its
 rattle on the paved path! The street is narrow, and I keep carefully to
 the causeway. The carriage thunders past, but what do I see, or fancy I
 see, as it rushes by? Surely something white fluttered from that
-window—surely a hand waved a handkerchief. Was that signal meant for
+[[Window|window]]—surely a hand waved a handkerchief. Was that signal meant for
 me? Am I known? Who could recognise me? That is not M. de
 Bassompierre’s carriage, nor Mrs. Bretton’s; and besides, neither the
 Hôtel Crécy nor the château of La Terrasse lies in that direction.
-Well, I have no time for conjecture; I must hurry home.
+[[Well]], I have no [[Time|time]] for conjecture; I must hurry [[Home|home]].
 
 Gaining the Rue Fossette, reaching the pensionnat, all there was still;
 no fiacre had yet arrived with Madame and Désirée. I had left the great
-door ajar; should I find it thus? Perhaps the wind or some other
+door ajar; should I find it thus? Perhaps the [[Wind|wind]] or some other
 accident may have thrown it to with sufficient force to start the
-spring-bolt? In that case, hopeless became admission; my adventure must
+[[spring]]-bolt? In that case, hopeless became admission; my adventure must
 issue in catastrophe. I lightly pushed the heavy leaf; would it yield?
 
 Yes. As soundless, as unresisting, as if some propitious genius had
@@ -383,8 +383,8 @@ sought the dormitory, and reached my couch.
 Ay! I reached it, and once more drew a free inspiration. The next
 moment, I almost shrieked—almost, but not quite, thank Heaven!
 
-Throughout the dormitory, throughout the house, there reigned at this
-hour the stillness of death. All slept, and in such hush, it seemed
+Throughout the dormitory, throughout the [[house]], there reigned at this
+hour the stillness of [[Death|death]]. All slept, and in such hush, it seemed
 that none dreamed. Stretched on the nineteen beds lay nineteen forms,
 at full-length and motionless. On mine—the twentieth couch—nothing
 _ought_ to have lain: I had left it void, and void should have found
@@ -393,11 +393,11 @@ usurping shape, supine, long, and strange? Is it a robber who has made
 his way through the open street-door, and lies there in wait? It looks
 very black, I think it looks—not human. Can it be a wandering dog that
 has come in from the street and crept and nestled hither? Will it
-spring, will it leap out if I approach? Approach I must. Courage! One
+[[spring]], will it leap out if I approach? Approach I must. [[Courage]]! One
 step!—
 
-My head reeled, for by the faint night-lamp, I saw stretched on my bed
-the old phantom—the NUN.
+My head reeled, for by the faint [[Night|night]]-lamp, I saw stretched on my bed
+the old [[Phantom|phantom]]—the NUN.
 
 A cry at this moment might have ruined me. Be the spectacle what it
 might, I could afford neither consternation, scream, nor swoon.
@@ -414,25 +414,25 @@ around me—down in shreds and fragments—and I trode upon her.
 Here again—behold the branchless tree, the unstabled Rosinante; the
 film of cloud, the flicker of moonshine. The long nun proved a long
 bolster dressed in a long black stole, and artfully invested with a
-white veil. The garments in very truth, strange as it may seem, were
+white veil. The garments in very [[Truth|truth]], strange as it may seem, were
 genuine nun’s garments, and by some hand they had been disposed with a
 view to illusion. Whence came these vestments? Who contrived this
 artifice? These questions still remained. To the head-bandage was
 pinned a slip of paper: it bore in pencil these mocking words—
 
-“The nun of the attic bequeaths to Lucy Snowe her wardrobe. She will be
+“The nun of the attic bequeaths to [[Lucy Snowe]] her wardrobe. She will be
 seen in the Rue Fossette no more.”
 
 And what and who was she that had haunted me? She, I had actually seen
 three times. Not a woman of my acquaintance had the stature of that
-ghost. She was not of a female height. Not to any man I knew could the
+[[Ghost|ghost]]. She was not of a female height. Not to any man I knew could the
 machination, for a moment, be attributed.
 
 Still mystified beyond expression, but as thoroughly, as suddenly,
 relieved from all sense of the spectral and unearthly; scorning also to
-wear out my brain with the fret of a trivial though insoluble riddle, I
+wear out my brain with the fret of a trivial though insoluble [[Riddle|riddle]], I
 just bundled together stole, veil, and bandages, thrust them beneath my
 pillow, lay down, listened till I heard the wheels of Madame’s
-home-returning fiacre, then turned, and worn out by many nights’
+[[Home|home]]-returning fiacre, then turned, and worn out by many nights’
 vigils, conquered, too, perhaps, by the now reacting narcotic, I deeply
 slept.

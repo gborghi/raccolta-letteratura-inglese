@@ -18,15 +18,15 @@ CHAPTER XXII—GIN-SHOPS
 
 
 It is a remarkable circumstance, that different trades appear to
-partake of the disease to which elephants and dogs are especially
+partake of the disease to which elephants and [[dogs]] are especially
 liable, and to run stark, staring, raving mad, periodically. The great
-distinction between the animals and the trades, is, that the former run
+distinction between the [[Animals|animals]] and the trades, is, that the former run
 mad with a certain degree of propriety—they are very regular in their
 irregularities. We know the period at which the emergency will arise,
 and provide against it accordingly. If an elephant run mad, we are all
 ready for him—kill or cure—pills or bullets, calomel in conserve of
 roses, or lead in a musket-barrel. If a dog happen to look unpleasantly
-warm in the summer months, and to trot about the shady side of the
+warm in the [[Summer|summer]] months, and to trot about the shady side of the
 streets with a quarter of a yard of tongue hanging out of his mouth, a
 thick leather muzzle, which has been previously prepared in compliance
 with the thoughtful injunctions of the Legislature, is instantly
@@ -41,7 +41,7 @@ diffuses itself, almost incredible.
 We will cite two or three cases in illustration of our meaning. Six or
 eight years ago, the epidemic began to display itself among the
 linen-drapers and haberdashers. The primary symptoms were an inordinate
-love of plate-glass, and a passion for gas-lights and gilding. The
+[[Love|love]] of plate-glass, and a passion for gas-lights and gilding. The
 disease gradually progressed, and at last attained a fearful height.
 Quiet, dusty old shops in different parts of town, were pulled down;
 spacious premises with stuccoed fronts and gold letters, were erected
@@ -49,12 +49,12 @@ instead; floors were covered with Turkey carpets; roofs supported by
 massive pillars; doors knocked into windows; a dozen squares of glass
 into one; one shopman into a dozen; and there is no knowing what would
 have been done, if it had not been fortunately discovered, just in
-time, that the Commissioners of Bankruptcy were as competent to decide
+[[Time|time]], that the Commissioners of Bankruptcy were as competent to decide
 such cases as the Commissioners of Lunacy, and that a little
 confinement and gentle examination did wonders. The disease abated. It
 died away. A year or two of comparative tranquillity ensued. Suddenly
 it burst out again amongst the chemists; the symptoms were the same,
-with the addition of a strong desire to stick the royal arms over the
+with the addition of a strong [[Desire|desire]] to stick the royal arms over the
 shop-door, and a great rage for mahogany, varnish, and expensive
 floor-cloth. Then, the hosiers were infected, and began to pull down
 their shop-fronts with frantic recklessness. The mania again died away,
@@ -70,7 +70,7 @@ illuminated clocks, at the corner of every street.
 The extensive scale on which these places are established, and the
 ostentatious manner in which the business of even the smallest among
 them is divided into branches, is amusing. A handsome plate of ground
-glass in one door directs you ‘To the Counting-house;’ another to the
+glass in one door directs you ‘To the Counting-[[house]];’ another to the
 ‘Bottle Department; a third to the ‘Wholesale Department;’ a fourth to
 ‘The Wine Promenade;’ and so forth, until we are in daily expectation
 of meeting with a ‘Brandy Bell,’ or a ‘Whiskey Entrance.’ Then,
@@ -84,21 +84,21 @@ Knock-me-down,’ ‘The celebrated Butter Gin,’ ‘The regular Flare-up,’
 and a dozen other, equally inviting and wholesome _liqueurs_. Although
 places of this description are to be met with in every second street,
 they are invariably numerous and splendid in precise proportion to the
-dirt and poverty of the surrounding neighbourhood. The gin-shops in and
-near Drury-Lane, Holborn, St. Giles’s, Covent-garden, and Clare-market,
-are the handsomest in London. There is more of filth and squalid misery
-near those great thorough-fares than in any part of this mighty city.
+dirt and [[Poverty|poverty]] of the surrounding neighbourhood. The gin-shops in and
+near Drury-Lane, Holborn, St. Giles’s, Covent-[[Garden|garden]], and Clare-market,
+are the handsomest in [[London]]. There is more of filth and squalid misery
+near those great thorough-fares than in any part of this mighty [[City|city]].
 
-We will endeavour to sketch the bar of a large gin-shop, and its
+We will endeavour to [[Sketch|sketch]] the bar of a large gin-shop, and its
 ordinary customers, for the edification of such of our readers as may
 not have had opportunities of observing such scenes; and on the chance
-of finding one well suited to our purpose, we will make for Drury-Lane,
+of finding one [[Well|well]] suited to our purpose, we will make for Drury-Lane,
 through the narrow streets and dirty courts which divide it from
-Oxford-street, and that classical spot adjoining the brewery at the
-bottom of Tottenham-court-road, best known to the initiated as the
+[[Oxford]]-street, and that classical spot adjoining the brewery at the
+[[Bottom|bottom]] of Tottenham-[[Court|court]]-[[Road|road]], best known to the initiated as the
 ‘Rookery.’
 
-The filthy and miserable appearance of this part of London can hardly
+The filthy and miserable appearance of this part of [[London]] can hardly
 be imagined by those (and there are many such) who have not witnessed
 it. Wretched houses with broken windows patched with rags and paper:
 every room let out to a different family, and in many instances to two
@@ -118,7 +118,7 @@ squabbling, fighting, and swearing.
 You turn the corner. What a change! All is light and brilliancy. The
 hum of many voices issues from that splendid gin-shop which forms the
 commencement of the two streets opposite; and the gay building with the
-fantastically ornamented parapet, the illuminated clock, the
+fantastically ornamented parapet, the illuminated [[Clock|clock]], the
 plate-glass windows surrounded by stucco rosettes, and its profusion of
 gas-lights in richly-gilt burners, is perfectly dazzling when
 contrasted with the darkness and dirt we have just left. The interior
@@ -129,7 +129,7 @@ a light brass rail, and bearing such inscriptions, as ‘Old Tom, 549;’
 ‘Young Tom, 360;’ ‘Samson, 1421’—the figures agreeing, we presume, with
 ‘gallons,’ understood. Beyond the bar is a lofty and spacious saloon,
 full of the same enticing vessels, with a gallery running round it,
-equally well furnished. On the counter, in addition to the usual spirit
+equally [[Well|well]] furnished. On the counter, in addition to the usual spirit
 apparatus, are two or three little baskets of cakes and biscuits, which
 are carefully secured at top with wicker-work, to prevent their
 contents being unlawfully abstracted. Behind it, are two
@@ -154,7 +154,7 @@ at one of the young ladies with singular coolness, and calls for a
 carefully looking every way but the right one, to show that the wink
 had no effect upon her. ‘For me, Mary, my dear,’ replies the gentleman
 in brown. ‘My name an’t Mary as it happens,’ says the young girl,
-rather relaxing as she delivers the change. ‘Well, if it an’t, it ought
+rather relaxing as she delivers the change. ‘[[Well]], if it an’t, it ought
 to be,’ responds the irresistible one; ‘all the Marys as ever _I_ see,
 was handsome gals.’ Here the young lady, not precisely remembering how
 blushes are managed in such cases, abruptly ends the flirtation by
@@ -179,27 +179,27 @@ occasional stragglers—cold, wretched-looking creatures, in the last
 stage of emaciation and disease. The knot of Irish labourers at the
 lower end of the place, who have been alternately shaking hands with,
 and threatening the life of each other, for the last hour, become
-furious in their disputes, and finding it impossible to silence one
+furious in their disputes, and finding it impossible to [[Silence|silence]] one
 man, who is particularly anxious to adjust the difference, they resort
 to the expedient of knocking him down and jumping on him afterwards.
 The man in the fur cap, and the potboy rush out; a scene of riot and
 confusion ensues; half the Irishmen get shut out, and the other half
-get shut in; the potboy is knocked among the tubs in no time; the
+get shut in; the potboy is knocked among the tubs in no [[Time|time]]; the
 landlord hits everybody, and everybody hits the landlord; the barmaids
 scream; the police come in; the rest is a confused mixture of arms,
 legs, staves, torn coats, shouting, and struggling. Some of the party
-are borne off to the station-house, and the remainder slink home to
+are borne off to the station-[[house]], and the remainder slink [[Home|home]] to
 beat their wives for complaining, and kick the children for daring to
 be hungry.
 
 We have sketched this subject very slightly, not only because our
 limits compel us to do so, but because, if it were pursued farther, it
-would be painful and repulsive. Well-disposed gentlemen, and charitable
+would be painful and repulsive. [[Well]]-disposed gentlemen, and charitable
 ladies, would alike turn with coldness and disgust from a description
 of the drunken besotted men, and wretched broken-down miserable women,
 who form no inconsiderable portion of the frequenters of these haunts;
 forgetting, in the pleasant consciousness of their own rectitude, the
-poverty of the one, and the temptation of the other. Gin-drinking is a
+[[Poverty|poverty]] of the one, and the [[Temptation|temptation]] of the other. Gin-drinking is a
 great vice in England, but wretchedness and dirt are a greater; and
 until you improve the homes of the poor, or persuade a half-famished
 wretch not to seek relief in the temporary oblivion of his own misery,
@@ -207,5 +207,5 @@ with the pittance which, divided among his family, would furnish a
 morsel of bread for each, gin-shops will increase in number and
 splendour. If Temperance Societies would suggest an antidote against
 hunger, filth, and foul air, or could establish dispensaries for the
-gratuitous distribution of bottles of Lethe-water, gin-palaces would be
+gratuitous distribution of bottles of Lethe-[[Water|water]], gin-palaces would be
 numbered among the things that were.

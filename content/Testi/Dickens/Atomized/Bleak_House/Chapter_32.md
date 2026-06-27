@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 32"
+title: "Bleak [[house|House]] — Chapter 32"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -16,19 +16,19 @@ tags:
 
 CHAPTER XXXII
 
-The Appointed Time
+The Appointed [[Time]]
 
 
-It is night in Lincoln’s Inn—perplexed and troublous valley of the
-shadow of the law, where suitors generally find but little day—and
+It is [[Night|night]] in [[Lincoln]]’s Inn—perplexed and troublous valley of the
+[[Shadow|shadow]] of the law, where suitors generally find but little day—and
 fat candles are snuffed out in offices, and clerks have rattled down
 the crazy wooden stairs and dispersed. The bell that rings at nine
-o’clock has ceased its doleful clangour about nothing; the gates are
-shut; and the night-porter, a solemn warder with a mighty power of
-sleep, keeps guard in his lodge. From tiers of staircase windows
+o’[[Clock|clock]] has ceased its doleful clangour about nothing; the gates are
+shut; and the [[Night|night]]-porter, a solemn warder with a mighty power of
+[[Sleep|sleep]], keeps guard in his lodge. From tiers of staircase windows
 clogged lamps like the eyes of Equity, bleared Argus with a
 fathomless pocket for every eye and an eye upon it, dimly blink at
-the stars. In dirty upper casements, here and there, hazy little
+the [[Stars|stars]]. In dirty upper casements, here and there, hazy little
 patches of candlelight reveal where some wise draughtsman and
 conveyancer yet toils for the entanglement of real estate in meshes
 of sheep-skin, in the average ratio of about a dozen of sheep to an
@@ -36,7 +36,7 @@ acre of land. Over which bee-like industry these benefactors of their
 species linger yet, though office-hours be past, that they may give,
 for every day, some good account at last.
 
-In the neighbouring court, where the Lord Chancellor of the rag and
+In the neighbouring [[Court|court]], where the Lord Chancellor of the rag and
 bottle shop dwells, there is a general tendency towards beer and
 supper. Mrs. Piper and Mrs. Perkins, whose respective sons, engaged
 with a circle of acquaintance in the game of hide and seek, have been
@@ -49,44 +49,44 @@ the fact of Mr. Krook’s being “continually in liquor,” and the
 testamentary prospects of the young man are, as usual, the staple of
 their conversation. But they have something to say, likewise, of the
 Harmonic Meeting at the Sol’s Arms, where the sound of the piano
-through the partly opened windows jingles out into the court, and
-where Little Swills, after keeping the lovers of harmony in a roar
+through the partly opened windows jingles out into the [[Court|court]], and
+where Little Swills, after keeping the [[lovers]] of harmony in a roar
 like a very Yorick, may now be heard taking the gruff line in a
 concerted piece and sentimentally adjuring his friends and patrons to
 “Listen, listen, listen, tew the wa-ter fall!” Mrs. Perkins and Mrs.
 Piper compare opinions on the subject of the young lady of
 professional celebrity who assists at the Harmonic Meetings and who
-has a space to herself in the manuscript announcement in the window,
+has a space to herself in the manuscript announcement in the [[Window|window]],
 Mrs. Perkins possessing information that she has been married a year
 and a half, though announced as Miss M. Melvilleson, the noted siren,
 and that her baby is clandestinely conveyed to the Sol’s Arms every
-night to receive its natural nourishment during the entertainments.
+[[Night|night]] to receive its natural nourishment during the entertainments.
 “Sooner than which, myself,” says Mrs. Perkins, “I would get my
 living by selling lucifers.” Mrs. Piper, as in duty bound, is of the
 same opinion, holding that a private station is better than public
 applause, and thanking heaven for her own (and, by implication, Mrs.
-Perkins’) respectability. By this time the pot-boy of the Sol’s Arms
-appearing with her supper-pint well frothed, Mrs. Piper accepts that
-tankard and retires indoors, first giving a fair good night to Mrs.
+Perkins’) respectability. By this [[Time|time]] the pot-boy of the Sol’s Arms
+appearing with her supper-pint [[Well|well]] frothed, Mrs. Piper accepts that
+tankard and retires indoors, first giving a fair good [[Night|night]] to Mrs.
 Perkins, who has had her own pint in her hand ever since it was
 fetched from the same hostelry by young Perkins before he was sent to
-bed. Now there is a sound of putting up shop-shutters in the court
-and a smell as of the smoking of pipes; and shooting stars are seen
+bed. Now there is a sound of putting up shop-shutters in the [[Court|court]]
+and a smell as of the smoking of pipes; and shooting [[Stars|stars]] are seen
 in upper windows, further indicating retirement to rest. Now, too,
 the policeman begins to push at doors; to try fastenings; to be
 suspicious of bundles; and to administer his beat, on the hypothesis
 that every one is either robbing or being robbed.
 
-It is a close night, though the damp cold is searching too, and there
+It is a close [[Night|night]], though the damp cold is searching too, and there
 is a laggard mist a little way up in the air. It is a fine steaming
-night to turn the slaughter-houses, the unwholesome trades, the
-sewerage, bad water, and burial-grounds to account, and give the
+[[Night|night]] to turn the slaughter-houses, the unwholesome trades, the
+sewerage, bad [[Water|water]], and burial-grounds to account, and give the
 registrar of deaths some extra business. It may be something in the
 air—there is plenty in it—or it may be something in himself that is
 in fault; but Mr. Weevle, otherwise Jobling, is very ill at ease. He
 comes and goes between his own room and the open street door twenty
 times an hour. He has been doing so ever since it fell dark. Since
-the Chancellor shut up his shop, which he did very early to-night,
+the Chancellor shut up his shop, which he did very early to-[[Night|night]],
 Mr. Weevle has been down and up, and down and up (with a cheap tight
 velvet skull-cap on his head, making his whiskers look out of all
 proportion), oftener than before.
@@ -95,9 +95,9 @@ It is no phenomenon that Mr. Snagsby should be ill at ease too, for
 he always is so, more or less, under the oppressive influence of the
 secret that is upon him. Impelled by the mystery of which he is a
 partaker and yet in which he is not a sharer, Mr. Snagsby haunts what
-seems to be its fountain-head—the rag and bottle shop in the court.
+seems to be its fountain-head—the rag and bottle shop in the [[Court|court]].
 It has an irresistible attraction for him. Even now, coming round by
-the Sol’s Arms with the intention of passing down the court, and out
+the Sol’s Arms with the intention of passing down the [[Court|court]], and out
 at the Chancery Lane end, and so terminating his unpremeditated
 after-supper stroll of ten minutes’ long from his own door and back
 again, Mr. Snagsby approaches.
@@ -111,7 +111,7 @@ there?”
 inquires.
 
 “Why, there’s not much air to be got here; and what there is, is not
-very freshening,” Weevle answers, glancing up and down the court.
+very freshening,” Weevle answers, glancing up and down the [[Court|court]].
 
 “Very true, sir. Don’t you observe,” says Mr. Snagsby, pausing to
 sniff and taste the air a little, “don’t you observe, Mr. Weevle,
@@ -119,11 +119,11 @@ that you’re—not to put too fine a point upon it—that you’re rather
 greasy here, sir?”
 
 “Why, I have noticed myself that there is a queer kind of flavour in
-the place to-night,” Mr. Weevle rejoins. “I suppose it’s chops at the
+the place to-[[Night|night]],” Mr. Weevle rejoins. “I suppose it’s chops at the
 Sol’s Arms.”
 
 “Chops, do you think? Oh! Chops, eh?” Mr. Snagsby sniffs and tastes
-again. “Well, sir, I suppose it is. But I should say their cook at
+again. “[[Well]], sir, I suppose it is. But I should say their cook at
 the Sol wanted a little looking after. She has been burning ’em, sir!
 And I don’t think”—Mr. Snagsby sniffs and tastes again and then
 spits and wipes his mouth—“I don’t think—not to put too fine a
@@ -140,8 +140,8 @@ sinking to the spirits.”
 “Then, you see, you live in a lonesome way, and in a lonesome room,
 with a black circumstance hanging over it,” says Mr. Snagsby, looking
 in past the other’s shoulder along the dark passage and then falling
-back a step to look up at the house. “I couldn’t live in that room
-alone, as you do, sir. I should get so fidgety and worried of an
+back a step to look up at the [[house]]. “I couldn’t live in that room
+[[Alone|alone]], as you do, sir. I should get so fidgety and worried of an
 evening, sometimes, that I should be driven to come to the door and
 stand here sooner than sit there. But then it’s very true that you
 didn’t see, in your room, what I saw there. That makes a difference.”
@@ -149,10 +149,10 @@ didn’t see, in your room, what I saw there. That makes a difference.”
 “I know quite enough about it,” returns Tony.
 
 “It’s not agreeable, is it?” pursues Mr. Snagsby, coughing his cough
-of mild persuasion behind his hand. “Mr. Krook ought to consider it
-in the rent. I hope he does, I am sure.”
+of mild [[Persuasion|persuasion]] behind his hand. “Mr. Krook ought to consider it
+in the rent. I [[Hope|hope]] he does, I am sure.”
 
-“I hope he does,” says Tony. “But I doubt it.”
+“I [[Hope|hope]] he does,” says Tony. “But I [[Doubt|doubt]] it.”
 
 “You find the rent too high, do you, sir?” returns the stationer.
 “Rents ARE high about here. I don’t know how it is exactly, but the
@@ -160,7 +160,7 @@ law seems to put things up in price. Not,” adds Mr. Snagsby with his
 apologetic cough, “that I mean to say a word against the profession I
 get my living by.”
 
-Mr. Weevle again glances up and down the court and then looks at the
+Mr. Weevle again glances up and down the [[Court|court]] and then looks at the
 stationer. Mr. Snagsby, blankly catching his eye, looks upward for a
 star or so and coughs a cough expressive of not exactly seeing his
 way out of this conversation.
@@ -188,23 +188,23 @@ really very respectable indeed. Eminently respectable, sir,” adds Mr.
 Snagsby with a misgiving that he has not improved the matter.
 
 “It’s a curious coincidence, as you say,” answers Weevle, once more
-glancing up and down the court.
+glancing up and down the [[Court|court]].
 
 “Seems a fate in it, don’t there?” suggests the stationer.
 
 “There does.”
 
 “Just so,” observes the stationer with his confirmatory cough. “Quite
-a fate in it. Quite a fate. Well, Mr. Weevle, I am afraid I must bid
-you good night”—Mr. Snagsby speaks as if it made him desolate to go,
+a fate in it. Quite a fate. [[Well]], Mr. Weevle, I am afraid I must bid
+you good [[Night|night]]”—Mr. Snagsby speaks as if it made him desolate to go,
 though he has been casting about for any means of escape ever since
 he stopped to speak—“my little woman will be looking for me else.
-Good night, sir!”
+Good [[Night|night]], sir!”
 
-If Mr. Snagsby hastens home to save his little woman the trouble of
+If Mr. Snagsby hastens [[Home|home]] to save his little woman the trouble of
 looking for him, he might set his mind at rest on that score. His
 little woman has had her eye upon him round the Sol’s Arms all this
-time and now glides after him with a pocket handkerchief wrapped over
+[[Time|time]] and now glides after him with a pocket handkerchief wrapped over
 her head, honouring Mr. Weevle and his doorway with a searching
 glance as she goes past.
 
@@ -226,7 +226,7 @@ says Tony.
 
 “You said about ten,” Tony repeats. “Yes, so you did say about ten.
 But according to my count, it’s ten times ten—it’s a hundred
-o’clock. I never had such a night in my life!”
+o’[[Clock|clock]]. I never had such a [[Night|night]] in my life!”
 
 “What has been the matter?”
 
@@ -250,7 +250,7 @@ table.
 unbearably dull, suicidal room—and old Boguey downstairs, I
 suppose.” Mr. Weevle moodily pushes the snuffers-tray from him with
 his elbow, leans his head on his hand, puts his feet on the fender,
-and looks at the fire. Mr. Guppy, observing him, slightly tosses his
+and looks at the [[Fire|fire]]. Mr. Guppy, observing him, slightly tosses his
 head and sits down on the other side of the table in an easy
 attitude.
 
@@ -263,7 +263,7 @@ construction of his sentence.
 
 “No. No business. He was only sauntering by and stopped to prose.”
 
-“I thought it was Snagsby,” says Mr. Guppy, “and thought it as well
+“I thought it was Snagsby,” says Mr. Guppy, “and thought it as [[Well|well]]
 that he shouldn’t see me, so I waited till he was gone.”
 
 “There we go again, William G.!” cried Tony, looking up for an
@@ -272,21 +272,21 @@ commit a murder, we couldn’t have more mystery about it!”
 
 Mr. Guppy affects to smile, and with the view of changing the
 conversation, looks with an admiration, real or pretended, round the
-room at the Galaxy Gallery of British Beauty, terminating his survey
-with the portrait of Lady Dedlock over the mantelshelf, in which she
+room at the Galaxy Gallery of British [[Beauty]], terminating his survey
+with the portrait of [[Lady Dedlock]] over the mantelshelf, in which she
 is represented on a terrace, with a pedestal upon the terrace, and a
 vase upon the pedestal, and her shawl upon the vase, and a prodigious
 piece of fur upon the shawl, and her arm on the prodigious piece of
 fur, and a bracelet on her arm.
 
-“That’s very like Lady Dedlock,” says Mr. Guppy. “It’s a speaking
+“That’s very like [[Lady Dedlock]],” says Mr. Guppy. “It’s a speaking
 likeness.”
 
 “I wish it was,” growls Tony, without changing his position. “I
 should have some fashionable conversation, here, then.”
 
-Finding by this time that his friend is not to be wheedled into a
-more sociable humour, Mr. Guppy puts about upon the ill-used tack and
+Finding by this [[Time|time]] that his friend is not to be wheedled into a
+more sociable [[Humour|humour]], Mr. Guppy puts about upon the ill-used tack and
 remonstrates with him.
 
 “Tony,” says he, “I can make allowances for lowness of spirits, for
@@ -314,7 +314,7 @@ chords which vibrate to the tenderest emotions. You, Tony, possess in
 yourself all that is calculated to charm the eye and allure the
 taste. It is not—happily for you, perhaps, and I may wish that I
 could say the same—it is not your character to hover around one
-flower. The ole garden is open to you, and your airy pinions carry
+flower. The ole [[Garden|garden]] is open to you, and your airy pinions carry
 you through it. Still, Tony, far be it from me, I am sure, to wound
 even your feelings without a cause!”
 
@@ -322,25 +322,25 @@ Tony again entreats that the subject may be no longer pursued, saying
 emphatically, “William Guppy, drop it!” Mr. Guppy acquiesces, with
 the reply, “I never should have taken it up, Tony, of my own accord.”
 
-“And now,” says Tony, stirring the fire, “touching this same bundle
+“And now,” says Tony, stirring the [[Fire|fire]], “touching this same bundle
 of letters. Isn’t it an extraordinary thing of Krook to have
-appointed twelve o’clock to-night to hand ’em over to me?”
+appointed twelve o’[[Clock|clock]] to-[[Night|night]] to hand ’em over to me?”
 
 “Very. What did he do it for?”
 
 “What does he do anything for? HE don’t know. Said to-day was his
-birthday and he’d hand ’em over to-night at twelve o’clock. He’ll
-have drunk himself blind by that time. He has been at it all day.”
+birthday and he’d hand ’em over to-[[Night|night]] at twelve o’[[Clock|clock]]. He’ll
+have drunk himself blind by that [[Time|time]]. He has been at it all day.”
 
-“He hasn’t forgotten the appointment, I hope?”
+“He hasn’t forgotten the appointment, I [[Hope|hope]]?”
 
 “Forgotten? Trust him for that. He never forgets anything. I saw him
-to-night, about eight—helped him to shut up his shop—and he had got
+to-[[Night|night]], about eight—helped him to shut up his shop—and he had got
 the letters then in his hairy cap. He pulled it off and showed ’em
 me. When the shop was closed, he took them out of his cap, hung his
-cap on the chair-back, and stood turning them over before the fire. I
+cap on the chair-back, and stood turning them over before the [[Fire|fire]]. I
 heard him a little while afterwards, through the floor here, humming
-like the wind, the only song he knows—about Bibo, and old Charon,
+like the [[Wind|wind]], the only [[Song|song]] he knows—about Bibo, and old Charon,
 and Bibo being drunk when he died, or something or other. He has been
 as quiet since as an old rat asleep in his hole.”
 
@@ -362,7 +362,7 @@ you suppose he spelt out that name of Hawdon?”
 
 “He never spelt it out. You know what a curious power of eye he has
 and how he has been used to employ himself in copying things by eye
-alone. He imitated it, evidently from the direction of a letter, and
+[[Alone|alone]]. He imitated it, evidently from the direction of a letter, and
 asked me what it meant.”
 
 “Tony,” says Mr. Guppy, uncrossing and recrossing his legs again,
@@ -372,14 +372,14 @@ asked me what it meant.”
 the letter ‘n,’ long and hasty.”
 
 Mr. Guppy has been biting his thumb-nail during this dialogue,
-generally changing the thumb when he has changed the cross leg. As he
+generally changing the thumb when he has changed the [[Cross|cross]] leg. As he
 is going to do so again, he happens to look at his coat-sleeve. It
 takes his attention. He stares at it, aghast.
 
-“Why, Tony, what on earth is going on in this house to-night? Is
-there a chimney on fire?”
+“Why, Tony, what on earth is going on in this [[house]] to-[[Night|night]]? Is
+there a chimney on [[Fire|fire]]?”
 
-“Chimney on fire!”
+“Chimney on [[Fire|fire]]!”
 
 “Ah!” returns Mr. Guppy. “See how the soot’s falling. See here, on my
 arm! See again, on the table here! Confound the stuff, it won’t blow
@@ -392,17 +392,17 @@ Mr. Snagsby about their cooking chops at the Sol’s Arms.
 
 “And it was then,” resumes Mr. Guppy, still glancing with remarkable
 aversion at the coat-sleeve, as they pursue their conversation before
-the fire, leaning on opposite sides of the table, with their heads
+the [[Fire|fire]], leaning on opposite sides of the table, with their heads
 very near together, “that he told you of his having taken the bundle
 of letters from his lodger’s portmanteau?”
 
-“That was the time, sir,” answers Tony, faintly adjusting his
+“That was the [[Time|time]], sir,” answers Tony, faintly adjusting his
 whiskers. “Whereupon I wrote a line to my dear boy, the Honourable
-William Guppy, informing him of the appointment for to-night and
+William Guppy, informing him of the appointment for to-[[Night|night]] and
 advising him not to call before, Boguey being a slyboots.”
 
 The light vivacious tone of fashionable life which is usually assumed
-by Mr. Weevle sits so ill upon him to-night that he abandons that and
+by Mr. Weevle sits so ill upon him to-[[Night|night]] that he abandons that and
 his whiskers together, and after looking over his shoulder, appears
 to yield himself up a prey to the horrors again.
 
@@ -433,7 +433,7 @@ won’t they?”
 
 “Ye-es,” is Mr. Weevle’s reluctant admission.
 
-“Why, Tony,” remonstrates his friend, “how you look! You don’t doubt
+“Why, Tony,” remonstrates his friend, “how you look! You don’t [[Doubt|doubt]]
 William Guppy? You don’t suspect any harm?”
 
 “I don’t suspect anything more than I know, William,” returns the
@@ -447,36 +447,36 @@ forming with his lips only the words, “What do you know?”
 “I know three things. First, I know that here we are whispering in
 secrecy, a pair of conspirators.”
 
-“Well!” says Mr. Guppy. “And we had better be that than a pair of
+“[[Well]]!” says Mr. Guppy. “And we had better be that than a pair of
 noodles, which we should be if we were doing anything else, for it’s
 the only way of doing what we want to do. Secondly?”
 
 “Secondly, it’s not made out to me how it’s likely to be profitable,
 after all.”
 
-Mr. Guppy casts up his eyes at the portrait of Lady Dedlock over the
+Mr. Guppy casts up his eyes at the portrait of [[Lady Dedlock]] over the
 mantelshelf and replies, “Tony, you are asked to leave that to the
-honour of your friend. Besides its being calculated to serve that
+[[Honour|honour]] of your friend. Besides its being calculated to serve that
 friend in those chords of the human mind which—which need not be
 called into agonizing vibration on the present occasion—your friend
-is no fool. What’s that?”
+is no [[Fool|fool]]. What’s that?”
 
-“It’s eleven o’clock striking by the bell of Saint Paul’s. Listen and
-you’ll hear all the bells in the city jangling.”
+“It’s eleven o’[[Clock|clock]] striking by the bell of Saint Paul’s. Listen and
+you’ll hear all [[The Bells|the bells]] in the [[City|city]] jangling.”
 
 Both sit silent, listening to the metal voices, near and distant,
 resounding from towers of various heights, in tones more various than
 their situations. When these at length cease, all seems more
 mysterious and quiet than before. One disagreeable result of
-whispering is that it seems to evoke an atmosphere of silence,
-haunted by the ghosts of sound—strange cracks and tickings, the
+whispering is that it seems to evoke an atmosphere of [[Silence|silence]],
+haunted by the [[Ghosts|ghosts]] of sound—strange cracks and tickings, the
 rustling of garments that have no substance in them, and the tread of
-dreadful feet that would leave no mark on the sea-sand or the winter
-snow. So sensitive the two friends happen to be that the air is full
+dreadful feet that would leave no mark on the sea-sand or the [[Winter|winter]]
+[[Snow|snow]]. So sensitive the two friends happen to be that the air is full
 of these phantoms, and the two look over their shoulders by one
 consent to see that the door is shut.
 
-“Yes, Tony?” says Mr. Guppy, drawing nearer to the fire and biting
+“Yes, Tony?” says Mr. Guppy, drawing nearer to the [[Fire|fire]] and biting
 his unsteady thumb-nail. “You were going to say, thirdly?”
 
 “It’s far from a pleasant thing to be plotting about a dead man in
@@ -490,25 +490,25 @@ YOU like it.”
 “As to dead men, Tony,” proceeds Mr. Guppy, evading this proposal,
 “there have been dead men in most rooms.”
 
-“I know there have, but in most rooms you let them alone, and—and
-they let you alone,” Tony answers.
+“I know there have, but in most rooms you let them [[Alone|alone]], and—and
+they let you [[Alone|alone]],” Tony answers.
 
 The two look at each other again. Mr. Guppy makes a hurried remark to
 the effect that they may be doing the deceased a service, that he
 hopes so. There is an oppressive blank until Mr. Weevle, by stirring
-the fire suddenly, makes Mr. Guppy start as if his heart had been
+the [[Fire|fire]] suddenly, makes Mr. Guppy start as if his heart had been
 stirred instead.
 
 “Fah! Here’s more of this hateful soot hanging about,” says he. “Let
-us open the window a bit and get a mouthful of air. It’s too close.”
+us open the [[Window|window]] a bit and get a mouthful of air. It’s too close.”
 
-He raises the sash, and they both rest on the window-sill, half in
+He raises the sash, and they both rest on the [[Window|window]]-sill, half in
 and half out of the room. The neighbouring houses are too near to
 admit of their seeing any sky without craning their necks and looking
-up, but lights in frowsy windows here and there, and the rolling of
+up, but lights in frowsy windows here and there, and the [[rolling]] of
 distant carriages, and the new expression that there is of the stir
 of men, they find to be comfortable. Mr. Guppy, noiselessly tapping
-on the window-sill, resumes his whispering in quite a light-comedy
+on the [[Window|window]]-sill, resumes his whispering in quite a light-[[Comedy|comedy]]
 tone.
 
 “By the by, Tony, don’t forget old Smallweed,” meaning the younger of
@@ -523,7 +523,7 @@ you, since you have been such allies?”
 
 Tony shakes his head. “I don’t know. Can’t imagine. If we get through
 this business without rousing his suspicions, I shall be better
-informed, no doubt. How can I know without seeing them, when he don’t
+informed, no [[Doubt|doubt]]. How can I know without seeing them, when he don’t
 know himself? He is always spelling out words from them, and chalking
 them over the table and the shop-wall, and asking what this is and
 what that is; but his whole stock from beginning to end may easily be
@@ -541,10 +541,10 @@ worth something.”
 
 “Or he may have been taken in, in some pretended bargain. Or he may
 have been muddled altogether by long staring at whatever he HAS got,
-and by drink, and by hanging about the Lord Chancellor’s Court and
+and by drink, and by hanging about the Lord Chancellor’s [[Court]] and
 hearing of documents for ever,” returns Mr. Weevle.
 
-Mr. Guppy sitting on the window-sill, nodding his head and balancing
+Mr. Guppy sitting on the [[Window|window]]-sill, nodding his head and balancing
 all these possibilities in his mind, continues thoughtfully to tap
 it, and clasp it, and measure it with his hand, until he hastily
 draws his hand away.
@@ -556,31 +556,31 @@ and sight and more offensive to the smell. A stagnant, sickening oil
 with some natural repulsion in it that makes them both shudder.
 
 “What have you been doing here? What have you been pouring out of
-window?”
+[[Window|window]]?”
 
-“I pouring out of window! Nothing, I swear! Never, since I have been
+“I pouring out of [[Window|window]]! Nothing, I swear! Never, since I have been
 here!” cries the lodger.
 
 And yet look here—and look here! When he brings the candle here,
-from the corner of the window-sill, it slowly drips and creeps away
+from the corner of the [[Window|window]]-sill, it slowly drips and creeps away
 down the bricks, here lies in a little thick nauseous pool.
 
-“This is a horrible house,” says Mr. Guppy, shutting down the window.
-“Give me some water or I shall cut my hand off.”
+“This is a horrible [[house]],” says Mr. Guppy, shutting down the [[Window|window]].
+“Give me some [[Water|water]] or I shall cut my hand off.”
 
 He so washes, and rubs, and scrubs, and smells, and washes, that he
 has not long restored himself with a glass of brandy and stood
-silently before the fire when Saint Paul’s bell strikes twelve and
-all those other bells strike twelve from their towers of various
+silently before the [[Fire|fire]] when Saint Paul’s bell strikes twelve and
+all those other [[Bells|bells]] strike twelve from their towers of various
 heights in the dark air, and in their many tones. When all is quiet
-again, the lodger says, “It’s the appointed time at last. Shall I
+again, the lodger says, “It’s the appointed [[Time|time]] at last. Shall I
 go?”
 
 Mr. Guppy nods and gives him a “lucky touch” on the back, but not
 with the washed hand, though it is his right hand.
 
 He goes downstairs, and Mr. Guppy tries to compose himself before the
-fire for waiting a long time. But in no more than a minute or two the
+[[Fire|fire]] for waiting a long [[Time|time]]. But in no more than a minute or two the
 stairs creak and Tony comes swiftly back.
 
 “Have you got them?”
@@ -598,7 +598,7 @@ oil is there—and he is not there!” Tony ends this with a groan.
 Mr. Guppy takes the light. They go down, more dead than alive, and
 holding one another, push open the door of the back shop. The cat has
 retreated close to it and stands snarling, not at them, at something
-on the ground before the fire. There is a very little fire left in
+on the ground before the [[Fire|fire]]. There is a very little [[Fire|fire]] left in
 the grate, but there is a smouldering, suffocating vapour in the room
 and a dark, greasy coating on the walls and ceiling. The chairs and
 table, and the bottle so rarely absent from the table, all stand as
@@ -622,11 +622,11 @@ fall.”
 
 “What’s the matter with the cat?” says Mr. Guppy. “Look at her!”
 
-“Mad, I think. And no wonder in this evil place.”
+“Mad, I think. And no [[Wonder|wonder]] in this evil place.”
 
 They advance slowly, looking at all these things. The cat remains
 where they found her, still snarling at the something on the ground
-before the fire and between the two chairs. What is it? Hold up the
+before the [[Fire|fire]] and between the two chairs. What is it? Hold up the
 light.
 
 Here is a small burnt patch of flooring; here is the tinder from a
@@ -637,14 +637,14 @@ coal? Oh, horror, he IS here! And this from which we run away,
 striking out the light and overturning one another into the street,
 is all that represents him.
 
-Help, help, help! Come into this house for heaven’s sake! Plenty will
-come in, but none can help. The Lord Chancellor of that court, true
-to his title in his last act, has died the death of all lord
+Help, help, help! Come into this [[house]] for heaven’s sake! Plenty will
+come in, but none can help. The Lord Chancellor of that [[Court|court]], true
+to his title in his last act, has died the [[Death|death]] of all lord
 chancellors in all courts and of all authorities in all places under
 all names soever, where false pretences are made, and where injustice
-is done. Call the death by any name your Highness will, attribute
+is done. Call the [[Death|death]] by any name your Highness will, attribute
 it to whom you will, or say it might have been prevented how you
-will, it is the same death eternally—inborn, inbred, engendered
-in the corrupted humours of the vicious body itself, and that
+will, it is the same [[Death|death]] eternally—inborn, inbred, engendered
+in the corrupted humours of the vicious [[Body|body]] itself, and that
 only—spontaneous combustion, and none other of all the deaths that
 can be died.

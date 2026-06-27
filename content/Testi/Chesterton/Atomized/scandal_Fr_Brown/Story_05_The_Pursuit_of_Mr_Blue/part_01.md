@@ -20,7 +20,7 @@ Along a seaside parade on a sunny afternoon, a person with the
 depressing name of Muggleton was moving with suitable gloom. There was a
 horseshoe of worry in his forehead, and the numerous groups and strings
 of entertainers stretched along the beach below looked up to him in vain
-for applause. Pierrots turned up their pale moon faces, like the white
+for applause. Pierrots turned up their pale [[Moon|moon]] faces, like the white
 bellies of dead fish, without improving his spirits; niggers with faces
 entirely grey with a sort of grimy soot were equally unsuccessful in
 filling his fancy with brighter things. He was a sad and disappointed
@@ -34,20 +34,20 @@ false it was forced. He might almost have grown it in a hurry, by a mere
 act of will; so much was it a part of his job rather than his
 personality.
 
-For the truth is that Mr Muggleton was a private detective in a small
+For the [[Truth|truth]] is that Mr Muggleton was a private [[Detective|detective]] in a small
 way, and the cloud on his brow was due to a big blunder in his
 professional career; anyhow it was connected with something darker than
 the mere possession of such a surname. He might almost, in an obscure
 sort of way, have been proud of his surname; for he came of poor but
 decent Nonconformist people who claimed some connection with the founder
-of the Muggletonians; the only man who had hitherto had the courage to
-appear with that name in human history.
+of the Muggletonians; the only man who had hitherto had the [[Courage|courage]] to
+appear with that name in human [[history]].
 
 The more legitimate cause of his annoyance (at least as he himself
 explained it) was that he had just been present at the bloody murder of
 a world - famous millionaire, and had failed to prevent it, though he
 had been engaged at a salary of five pounds a week to do so. Thus we may
-explain the fact that even the languorous singing of the song entitled,
+explain the fact that even the languorous singing of the [[Song|song]] entitled,
 'Won't You Be My Loodah Doodah Day?' failed to fill him with the joy of
 life.
 
@@ -70,12 +70,12 @@ occasionally whirled wildly round his head with a gesture almost as
 terrific as that of the Roman Retiarius, ready to impale people on a
 trident. Indeed, he might really have impaled people, if he had had a
 trident. His words were always pointed towards punishment; his hearers
-heard nothing except threats to the body or the soul; he was so far in
+heard nothing except threats to the [[Body|body]] or the [[Soul|soul]]; he was so far in
 the same mood as Mr. Muggleton, that he might almost have been a mad
 hangman addressing a crowd of murderers. The boys called him Old
 Brimstone; but he had other eccentricities besides the purely
 theological. One of his eccentricities was to climb up into the nest of
-iron girders under the pier and trail his net in the water, declaring
+iron girders under the pier and trail his net in the [[Water|water]], declaring
 that he got his living by fishing; though it is doubtful whether anybody
 had ever seen him catching fish. Worldly trippers, however, would
 sometimes start at a voice in their ear, threatening judgement as from a
@@ -83,7 +83,7 @@ thundercloud, but really coming from the perch under the iron roof where
 the old monomaniac sat glaring, his fantastic whiskers hanging like grey
 seaweed.
 
-The detective, however, could have put up with Old Brimstone much better
+The [[Detective|detective]], however, could have put up with Old Brimstone much better
 than with the other parson he was destined to meet. To explain this
 second and more momentous meeting, it must be pointed out that
 Muggleton, after his remarkable experience in the matter of the murder,
@@ -115,8 +115,8 @@ automatic machines which are set up in such places; solemnly spending
 penny after penny in order to play vicarious games of golf, football,
 cricket, conducted by clockwork figures; and finally contenting himself
 with the miniature exhibition of a race, in which one metal doll
-appeared merely to run and jump after the other. And yet all the time he
-was listening very carefully to the story which the defeated detective
+appeared merely to run and jump after the other. And yet all the [[Time|time]] he
+was listening very carefully to the story which the defeated [[Detective|detective]]
 poured out to him. Only his way of not letting his right hand know what
-his left hand was doing, with pennies, got very much on the detective's
+his left hand was doing, with pennies, got very much on the [[Detective|detective]]'s
 nerves.

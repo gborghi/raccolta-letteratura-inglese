@@ -19,17 +19,17 @@ in the street (as distinct from the man in the field) has been separated
 not only from his private but from his more public description.
 He has not only forgotten his name, but forgotten his address.
 In my own view, he is like one of those unfortunate people who wake up
-with their minds a blank, and therefore cannot find their way home.
+with their minds a blank, and therefore cannot find their way [[Home|home]].
 But whether or no we take this view of the state of things
 in an industrial society like the English, we must realise
 firmly that a totally opposite state of things exists in an
 agricultural society like the Irish.  We may put it, if we like,
 in the form of an unfamiliar and even unfriendly fancy.
-We may say that the house is greater than the man; that the house
+We may say that the [[house]] is greater than the man; that the [[house]]
 is an amiable ogre that runs after and recaptures the man.
 But the fact is there, familiar or unfamiliar, friendly or unfriendly;
-and the fact is the family.  The family pride is prodigious; though it
-generally goes along with glowing masses of individual humility.
+and the fact is the family.  The family [[Pride|pride]] is prodigious; though it
+generally goes along with glowing masses of individual [[Humility|humility]].
 And this family sentiment does attach itself to the family name;
 so that the very language in which men think is made up of family names.
 In this the atmosphere is singularly unlike that of England though
@@ -48,12 +48,12 @@ could not with any rational meaning be called Unionist.
 Yet it was part of a passionately sincere, and indeed truly human
 and historic outburst of the politics of the northeast corner,
 against the politics of the rest of Ireland.  Most of us remember
-that Sir Edward Carson put into the Government a legal friend of his
+that Sir Edward Carson put into the [[government|Government]] a legal friend of his
 named Campbell; it was at the beginning of the war, and few of us
 thought anything of the matter except that it was stupid to give posts
 to Carsonites at the most delicate crisis of the cause in Ireland.
 Since then, as we also know, the same Campbell has shown himself
-a sensible man, which I should translate as a practical Home Ruler;
+a sensible man, which I should translate as a practical [[Home]] Ruler;
 but which is anyhow something more than what is generally meant
 by a Carsonite.  I entertain myself, a profound suspicion that Carson
 also would very much like to be something more than a Carsonite.
@@ -67,7 +67,7 @@ or the _Saturday Review;_ one phrase I should never expect to see in any
 English paper, though I might very probably see it in a Scotch paper.
 It was this sentence, that was read to me from the leading article
 of a paper in Belfast:  "There never was treason yet but a Campbell
-was at the bottom of it."
+was at the [[Bottom|bottom]] of it."
 
 Let anybody imagine an Englishman saying, about some
 business quarrel, "How like an Atkins!" or "What could you expect
@@ -75,9 +75,9 @@ of a Wilkinson?"  A moment's reflection will show that it would
 be even more impossible touching public men in public quarrels.
 No English Liberal ever connected the earlier exploits of the
 present Lord Birkenhead with atavistic influences, or the totem
-of the wide and wandering tribe of Smith.  No English patriot
+of the wide and wandering tribe of [[smith|Smith]].  No English patriot
 traced back the family tree of any English pacifist; or said there
-was never treason yet but a Pringle was at the bottom of it.
+was never treason yet but a Pringle was at the [[Bottom|bottom]] of it.
 It is the indefinite article that is here the definite distinction.
 It is the expression "a Campbell" which suddenly transforms
 the scene, and covers the robes of one lawyer with the ten
@@ -97,10 +97,10 @@ unearthly about the very idea of there being other Casements.
 If ever a man seemed solitary, if ever a man seemed unique to the point
 of being unnatural, it was that man on the two or three occasions
 when I have seen his sombre handsome face and his wild eyes; a tall,
-dark figure walking already in the shadow of a dreadful doom.
+dark figure walking already in the [[Shadow|shadow]] of a dreadful doom.
 I do not know if he was a Black Protestant; but he was a
 black something; in the sad if not the bad sense of the symbol.
-I fancy, in truth, he stood rather for the third of Browning's famous
+I fancy, in [[Truth|truth]], he stood rather for the third of Browning's famous
 triad of rhyming monosyllables.  A distinguished Nationalist Member,
 who happened to have had a medical training, said to me, "I was
 quite certain when I first clapped eyes on him; the man was mad."
@@ -112,7 +112,7 @@ really more important than he was.  There is said to be a historical
 mystery about whether Parnell made a pun, when he said that the name
 of Kettle was a household word in Ireland.  Few symbols could now
 be more contrary than the name of Kettle and the name of Casement
-(save for the courage they had in common); for the younger Kettle,
+(save for the [[Courage|courage]] they had in common); for the younger Kettle,
 who died so gloriously in France, was a Nationalist as broad
 as the other was cramped, and as sane as the other was crazy.
 But if the fancy of a punster, following his own delightful vein
@@ -125,5 +125,5 @@ But even if we were not annoyed at the pun, we should be
 surprised at the plural.  And our surprise would be the measure
 of the deepest difference between England and Ireland.
 To express it in the same idle imagery it would be the fact that even
-a casement is a part of a house, as a kettle is a part of a household.
+a casement is a part of a [[house]], as a kettle is a part of a household.
 Every word in Irish is a household word.

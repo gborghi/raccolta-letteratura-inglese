@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 24 (part 2)"
+title: "[[Shirley]] — Chapter 24 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-such was the case. She wasted like any snow-wreath in thaw; she faded
+such was the case. She wasted like any [[Snow|snow]]-wreath in thaw; she faded
 
 like any flower in drought. Miss Keeldar, on whose thoughts danger or
 
-death seldom intruded, had at first entertained no fears at all for her
+[[Death|death]] seldom intruded, had at first entertained no fears at all for her
 
-friend; but seeing her change and sink from time to time when she paid
+friend; but seeing her change and sink from [[Time|time]] to [[Time|time]] when she paid
 
 her visits, alarm clutched her heart. She went to Mr. Helstone and
 
@@ -38,13 +38,13 @@ the future was to solve the mystery, wrote some prescriptions, gave some
 
 directions--the whole with an air of crushing authority--pocketed his
 
-fee, and went. Probably he knew well enough he could do no good, but
+fee, and went. Probably he knew [[Well|well]] enough he could do no good, but
 
 didn't like to say so.
 
 
 
-Still, no rumour of serious illness got wind in the neighbourhood. At
+Still, no rumour of serious illness got [[Wind|wind]] in the neighbourhood. At
 
 Hollow's Cottage it was thought that Caroline had only a severe cold,
 
@@ -72,7 +72,7 @@ meantime falling fast into a condition of prostration, whose quickly
 
 consummated debility puzzled all who witnessed it except one; for that
 
-one alone reflected how liable is the undermined structure to sink in
+one [[Alone|alone]] reflected how liable is the undermined structure to sink in
 
 sudden ruin.
 
@@ -80,19 +80,19 @@ sudden ruin.
 
 Sick people often have fancies inscrutable to ordinary attendants, and
 
-Caroline had one which even her tender nurse could not at first explain.
+Caroline had one which even her tender [[Nurse|nurse]] could not at first explain.
 
 On a certain day in the week, at a certain hour, she would--whether
 
 worse or better--entreat to be taken up and dressed, and suffered to sit
 
-in her chair near the window. This station she would retain till noon
+in her chair near the [[Window|window]]. This station she would retain till [[Noon|noon]]
 
 was past. Whatever degree of exhaustion or debility her wan aspect
 
-betrayed, she still softly put off all persuasion to seek repose until
+betrayed, she still softly put off all [[Persuasion|persuasion]] to seek repose until
 
-the church clock had duly tolled midday. The twelve strokes sounded, she
+the church [[Clock|clock]] had duly tolled midday. The twelve strokes sounded, she
 
 grew docile, and would meekly lie down. Returned to the couch, she
 
@@ -102,7 +102,7 @@ round her, as if to shut out the world and sun, of which she was tired.
 
 More than once, as she thus lay, a slight convulsion shook the sick-bed,
 
-and a faint sob broke the silence round it. These things were not
+and a faint sob broke the [[Silence|silence]] round it. These things were not
 
 unnoted by Mrs. Pryor.
 
@@ -114,23 +114,23 @@ sat wrapped in her white dressing-gown, leaning forward in the
 
 easy-chair, gazing steadily and patiently from the lattice. Mrs. Pryor
 
-was seated a little behind, knitting as it seemed, but, in truth,
+was seated a little behind, knitting as it seemed, but, in [[Truth|truth]],
 
 watching her. A change crossed her pale, mournful brow, animating its
 
 languor; a light shot into her faded eyes, reviving their lustre; she
 
-half rose and looked earnestly out. Mrs. Pryor, drawing softly near,
+half [[Rose|rose]] and looked earnestly out. Mrs. Pryor, drawing softly near,
 
-glanced over her shoulder. From this window was visible the churchyard,
+glanced over her shoulder. From this [[Window|window]] was visible the churchyard,
 
-beyond it the road; and there, riding sharply by, appeared a horseman.
+beyond it the [[Road|road]]; and there, riding sharply by, appeared a horseman.
 
 The figure was not yet too remote for recognition. Mrs. Pryor had long
 
 sight; she knew Mr. Moore. Just as an intercepting rising ground
 
-concealed him from view, the clock struck twelve.
+concealed him from view, the [[Clock|clock]] struck twelve.
 
 
 
@@ -138,7 +138,7 @@ concealed him from view, the clock struck twelve.
 
 
 
-Her nurse assisted her to bed. Having laid her down and drawn the
+Her [[Nurse|nurse]] assisted her to bed. Having laid her down and drawn the
 
 curtain, she stood listening near. The little couch trembled, the
 
@@ -148,7 +148,7 @@ Pryor's features; she wrung her hands; half a groan escaped her lips.
 
 She now remembered that Tuesday was Whinbury market day. Mr. Moore must
 
-always pass the rectory on his way thither, just ere noon of that day.
+always pass the rectory on his way thither, just ere [[Noon|noon]] of that day.
 
 
 
@@ -162,7 +162,7 @@ parted with it. When dressed it was hidden in her bosom; as she lay in
 
 bed she always held it in her hand. That Tuesday afternoon the transient
 
-doze--more like lethargy than sleep--which sometimes abridged the long
+doze--more like lethargy than [[Sleep|sleep]]--which sometimes abridged the long
 
 days, had stolen over her. The weather was hot. While turning in febrile
 
@@ -172,9 +172,9 @@ bent to replace them. The small, wasted hand, lying nerveless on the
 
 sick girl's breast, clasped as usual her jealously-guarded treasure.
 
-Those fingers whose attenuation it gave pain to see were now relaxed in
+Those fingers whose attenuation it gave [[Pain|pain]] to see were now relaxed in
 
-sleep. Mrs. Pryor gently disengaged the braid, drawing out a tiny
+[[Sleep|sleep]]. Mrs. Pryor gently disengaged the braid, drawing out a tiny
 
 locket--a slight thing it was, such as it suited her small purse to
 
@@ -206,10 +206,10 @@ Caroline looked abroad into the chamber; she thought it empty. As her
 
 stray ideas returned slowly, each folding its weak wings on the mind's
 
-sad shore, like birds exhausted, beholding void, and perceiving silence
+sad shore, like [[Birds|birds]] exhausted, beholding void, and perceiving [[Silence|silence]]
 
-round her, she believed herself alone. Collected she was not yet;
+round her, she believed herself [[Alone|alone]]. Collected she was not yet;
 
-perhaps healthy self-possession and self-control were to be hers no
+perhaps healthy [[Self|self]]-possession and [[Self|self]]-control were to be hers no
 
 more; perhaps that world the strong and prosperous live in had already

@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XVIII—A PARLIAMENTARY SKETCH (part 1)"
+title: "Sketches by Boz — HAPTER XVIII—A PARLIAMENTARY [[Sketch|SKETCH]] (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -14,16 +14,16 @@ tags:
 </nav>
 
 
-CHAPTER XVIII—A PARLIAMENTARY SKETCH
+CHAPTER XVIII—A PARLIAMENTARY [[Sketch|SKETCH]]
 
 
-We hope our readers will not be alarmed at this rather ominous title.
+We [[Hope|hope]] our readers will not be alarmed at this rather ominous title.
 We assure them that we are not about to become political, neither have
 we the slightest intention of being more prosy than usual—if we can
-help it. It has occurred to us that a slight sketch of the general
-aspect of ‘the House,’ and the crowds that resort to it on the night of
-an important debate, would be productive of some amusement: and as we
-have made some few calls at the aforesaid house in our time—have
+help it. It has occurred to us that a slight [[Sketch|sketch]] of the general
+aspect of ‘the [[house|House]],’ and the crowds that resort to it on the [[Night|night]] of
+an important [[debate]], would be productive of some amusement: and as we
+have made some few calls at the aforesaid [[house]] in our [[Time|time]]—have
 visited it quite often enough for our purpose, and a great deal too
 often for our personal peace and comfort—we have determined to attempt
 the description. Dismissing from our minds, therefore, all that feeling
@@ -31,7 +31,7 @@ of awe, which vague ideas of breaches of privilege, Serjeant-at-Arms,
 heavy denunciations, and still heavier fees, are calculated to awaken,
 we enter at once into the building, and upon our subject.
 
-Half-past four o’clock—and at five the mover of the Address will be ‘on
+Half-past four o’[[Clock|clock]]—and at five the mover of the Address will be ‘on
 his legs,’ as the newspapers announce sometimes by way of novelty, as
 if speakers were occasionally in the habit of standing on their heads.
 The members are pouring in, one after the other, in shoals. The few
@@ -41,8 +41,8 @@ identify a member occasionally, becomes a person of great importance.
 Every now and then you hear earnest whispers of ‘That’s Sir John
 Thomson.’ ‘Which? him with the gilt order round his neck?’ ‘No, no;
 that’s one of the messengers—that other with the yellow gloves, is Sir
-John Thomson.’ ‘Here’s Mr. Smith.’ ‘Lor!’ ‘Yes, how d’ye do, sir?—(He
-is our new member)—How do you do, sir?’ Mr. Smith stops: turns round
+John Thomson.’ ‘Here’s Mr. [[smith|Smith]].’ ‘Lor!’ ‘Yes, how d’ye do, sir?—(He
+is our new member)—How do you do, sir?’ Mr. [[smith|Smith]] stops: turns round
 with an air of enchanting urbanity (for the rumour of an intended
 dissolution has been very extensively circulated this morning); seizes
 both the hands of his gratified constituent, and, after greeting him
@@ -63,9 +63,9 @@ remarked the grace with which he saluted the noble Lord who passed just
 now, or the excessive dignity of his air, as he expostulates with the
 crowd. He is rather out of temper now, in consequence of the very
 irreverent behaviour of those two young fellows behind him, who have
-done nothing but laugh all the time they have been here.
+done nothing but laugh all the [[Time|time]] they have been here.
 
-‘Will they divide to-night, do you think, Mr. ---’ timidly inquires a
+‘Will they divide to-[[Night|night]], do you think, Mr. ---’ timidly inquires a
 little thin man in the crowd, hoping to conciliate the man of office.
 
 ‘How _can_ you ask such questions, sir?’ replies the functionary, in an
@@ -75,7 +75,7 @@ The little man looks remarkably out of his element, and the uninitiated
 part of the throng are in positive convulsions of laughter.
 
 Just at this moment some unfortunate individual appears, with a very
-smirking air, at the bottom of the long passage. He has managed to
+smirking air, at the [[Bottom|bottom]] of the long passage. He has managed to
 elude the vigilance of the special constable downstairs, and is
 evidently congratulating himself on having made his way so far.
 
@@ -116,7 +116,7 @@ orders, sir.’
 ‘Here, Wilson!—Collins!’ gasps the officer, actually paralysed at this
 insulting expression, which in his mind is all but high treason; ‘take
 this man out—take him out, I say! How dare you, sir?’ and down goes the
-unfortunate man five stairs at a time, turning round at every stoppage,
+unfortunate man five stairs at a [[Time|time]], turning round at every stoppage,
 to come back again, and denouncing bitter vengeance against the
 commander-in-chief, and all his supernumeraries.
 
@@ -126,14 +126,14 @@ of the liberal and independent.
 
 You see this ferocious-looking gentleman, with a complexion almost as
 sallow as his linen, and whose large black moustache would give him the
-appearance of a figure in a hairdresser’s window, if his countenance
+appearance of a figure in a hairdresser’s [[Window|window]], if his countenance
 possessed the thought which is communicated to those waxen caricatures
 of the human face divine. He is a militia-officer, and the most amusing
-person in the House. Can anything be more exquisitely absurd than the
+person in the [[house|House]]. Can anything be more exquisitely absurd than the
 burlesque grandeur of his air, as he strides up to the lobby, his eyes
-rolling like those of a Turk’s head in a cheap Dutch clock? He never
+[[rolling]] like those of a Turk’s head in a cheap Dutch [[Clock|clock]]? He never
 appears without that bundle of dirty papers which he carries under his
 left arm, and which are generally supposed to be the miscellaneous
 estimates for 1804, or some equally important documents. He is very
-punctual in his attendance at the House, and his self-satisfied
+punctual in his attendance at the [[house|House]], and his [[Self|self]]-satisfied
 ‘He-ar-He-ar,’ is not unfrequently the signal for a general titter.

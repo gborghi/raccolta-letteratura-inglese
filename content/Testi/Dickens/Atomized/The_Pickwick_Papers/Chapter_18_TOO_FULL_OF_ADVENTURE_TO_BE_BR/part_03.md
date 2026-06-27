@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 16: TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED (part 3)"
+title: "The [[Pickwick]] Papers — Chapter 16: TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -28,7 +28,7 @@ by mixing together, in a pewter vessel, certain quantities of British
 Hollands and the fragrant essence of the clove.
 
 ‘And what sort of a place have you got?’ inquired Sam, as he filled his
-companion’s glass, for the second time.
+companion’s glass, for the second [[Time|time]].
 
 ‘Bad,’ said Job, smacking his lips, ‘very bad.’
 
@@ -75,7 +75,7 @@ without alarming anybody much by the chinking of coin.
 
 The mulberry man nodded significantly.
 
-‘Well, and don’t you think, old feller,’ remonstrated Mr. Weller, ‘that
+‘[[Well]], and don’t you think, old feller,’ remonstrated Mr. Weller, ‘that
 if you let your master take in this here young lady, you’re a precious
 rascal?’
 
@@ -86,7 +86,7 @@ that’s what it is that preys upon my mind. But what am I to do?’
 ‘Do!’ said Sam; ‘di-wulge to the missis, and give up your master.’
 
 ‘Who’d believe me?’ replied Job Trotter. ‘The young lady’s considered
-the very picture of innocence and discretion. She’d deny it, and so
+the very picture of [[innocence]] and discretion. She’d deny it, and so
 would my master. Who’d believe me? I should lose my place, and get
 indicted for a conspiracy, or some such thing; that’s all I should take
 by my motion.’
@@ -95,7 +95,7 @@ by my motion.’
 that.’
 
 ‘If I knew any respectable gentleman who would take the matter up,’
-continued Mr. Trotter. ‘I might have some hope of preventing the
+continued Mr. Trotter. ‘I might have some [[Hope|hope]] of preventing the
 elopement; but there’s the same difficulty, Mr. Walker, just the same. I
 know no gentleman in this strange place; and ten to one if I did,
 whether he would believe my story.’
@@ -103,13 +103,13 @@ whether he would believe my story.’
 ‘Come this way,’ said Sam, suddenly jumping up, and grasping the
 mulberry man by the arm. ‘My mas’r’s the man you want, I see.’ And after
 a slight resistance on the part of Job Trotter, Sam led his newly-found
-friend to the apartment of Mr. Pickwick, to whom he presented him,
+friend to the apartment of Mr. [[Pickwick]], to whom he presented him,
 together with a brief summary of the dialogue we have just repeated.
 
 ‘I am very sorry to betray my master, sir,’ said Job Trotter, applying
 to his eyes a pink checked pocket-handkerchief about six inches square.
 
-‘The feeling does you a great deal of honour,’ replied Mr. Pickwick;
+‘The feeling does you a great deal of [[Honour|honour]],’ replied Mr. [[Pickwick]];
 ‘but it is your duty, nevertheless.’
 
 ‘I know it is my duty, Sir,’ replied Job, with great emotion. ‘We should
@@ -117,37 +117,37 @@ all try to discharge our duty, Sir, and I humbly endeavour to discharge
 mine, Sir; but it is a hard trial to betray a master, Sir, whose clothes
 you wear, and whose bread you eat, even though he is a scoundrel, Sir.’
 
-‘You are a very good fellow,’ said Mr. Pickwick, much affected; ‘an
+‘You are a very good fellow,’ said Mr. [[Pickwick]], much affected; ‘an
 honest fellow.’
 
-‘Come, come,’ interposed Sam, who had witnessed Mr. Trotter’s tears with
-considerable impatience, ‘blow this ‘ere water-cart bis’ness. It won’t
+‘Come, come,’ interposed Sam, who had witnessed Mr. Trotter’s [[Tears|tears]] with
+considerable impatience, ‘blow this ‘ere [[Water|water]]-cart bis’ness. It won’t
 do no good, this won’t.’
 
-‘Sam,’ said Mr. Pickwick reproachfully. ‘I am sorry to find that you
+‘Sam,’ said Mr. [[Pickwick]] reproachfully. ‘I am sorry to find that you
 have so little respect for this young man’s feelings.’
 
-‘His feelin’s is all wery well, Sir,’ replied Mr. Weller; ‘and as
+‘His feelin’s is all wery [[Well|well]], Sir,’ replied Mr. Weller; ‘and as
 they’re so wery fine, and it’s a pity he should lose ‘em, I think he’d
-better keep ‘em in his own buzzum, than let ‘em ewaporate in hot water,
-‘specially as they do no good. Tears never yet wound up a clock, or
-worked a steam ingin’. The next time you go out to a smoking party,
+better keep ‘em in his own buzzum, than let ‘em ewaporate in hot [[Water|water]],
+‘specially as they do no good. [[Tears]] never yet wound up a [[Clock|clock]], or
+worked a steam ingin’. The next [[Time|time]] you go out to a smoking party,
 young fellow, fill your pipe with that ‘ere reflection; and for the
 present just put that bit of pink gingham into your pocket. ‘Tain’t so
 handsome that you need keep waving it about, as if you was a tight-rope
 dancer.’
 
-‘My man is in the right,’ said Mr. Pickwick, accosting Job, ‘although
+‘My man is in the right,’ said Mr. [[Pickwick]], accosting Job, ‘although
 his mode of expressing his opinion is somewhat homely, and occasionally
 incomprehensible.’
 
 ‘He is, sir, very right,’ said Mr. Trotter, ‘and I will give way no
 longer.’
 
-Very well,’ said Mr. Pickwick. ‘Now, where is this boarding-school?’
+Very [[Well|well]],’ said Mr. [[Pickwick]]. ‘Now, where is this boarding-school?’
 
-‘It is a large, old, red brick house, just outside the town, Sir,’
+‘It is a large, old, red brick [[house]], just outside the town, Sir,’
 replied Job Trotter.
 
-‘And when,’ said Mr. Pickwick--‘when is this villainous design to be
+‘And when,’ said Mr. [[Pickwick]]--‘when is this villainous design to be
 carried into execution--when is this elopement to take place?’

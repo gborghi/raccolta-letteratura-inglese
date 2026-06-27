@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 3 (part 1)"
+title: "[[Shirley]] — Chapter 3 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -44,7 +44,7 @@ his dark physiognomy; and when the rector's visage was illuminated, his
 
 hard features were revealed all agrin and ashine with glee. Yet a
 
-drizzling night, a somewhat perilous expedition, you would think were
+drizzling [[Night|night]], a somewhat perilous expedition, you would think were
 
 not circumstances calculated to enliven those exposed to the wet and
 
@@ -74,7 +74,7 @@ is, whose message he delivers, whose example he should follow; yet, with
 
 all this, if you are a parson-hater, you need not expect me to go along
 
-with you every step of your dismal, downward-tending, unchristian road;
+with you every step of your dismal, downward-tending, unchristian [[Road|road]];
 
 you need not expect me to join in your deep anathemas, at once so narrow
 
@@ -110,7 +110,7 @@ he _was_ cursed, and by many of his own parishioners, as by others he
 
 was adored--which is the frequent fate of men who show partiality in
 
-friendship and bitterness in enmity, who are equally attached to
+[[Friendship|friendship]] and bitterness in enmity, who are equally attached to
 
 principles and adherent to prejudices.
 
@@ -140,7 +140,7 @@ of Bonaparte, by taunting England and Europe with the impotence of their
 
 efforts to withstand him, and by coolly advancing the opinion that it
 
-was as well to yield to him soon as late, since he must in the end crush
+was as [[Well|well]] to yield to him soon as late, since he must in the end crush
 
 every antagonist, and reign supreme.
 
@@ -150,7 +150,7 @@ Helstone could not bear these sentiments. It was only on the
 
 consideration of Moore being a sort of outcast and alien, and having but
 
-half measure of British blood to temper the foreign gall which corroded
+half measure of British [[Blood|blood]] to temper the foreign gall which corroded
 
 his veins, that he brought himself to listen to them without indulging
 
@@ -164,7 +164,7 @@ of Moore's crabbed contumacy.
 
 
 
-As the party turned into the Stilbro' road, they met what little wind
+As the party turned into the Stilbro' [[Road|road]], they met what little [[Wind|wind]]
 
 there was; the rain dashed in their faces. Moore had been fretting his
 
@@ -182,7 +182,7 @@ irritated by the sharp drizzle, he began to goad him.
 
 
 
-"I mean, have you still faith in that Baal of a Lord Wellington?"
+"I mean, have you still [[Faith|faith]] in that Baal of a Lord Wellington?"
 
 
 
@@ -192,7 +192,7 @@ irritated by the sharp drizzle, he began to goad him.
 
 "Do you still believe that this wooden-faced and pebble-hearted idol of
 
-England has power to send fire down from heaven to consume the French
+England has power to send [[Fire|fire]] down from heaven to consume the French
 
 holocaust you want to offer up?"
 
@@ -212,11 +212,11 @@ master-spirit. Your Wellington is the most humdrum of commonplace
 
 martinets, whose slow, mechanical movements are further cramped by an
 
-ignorant home government."
+ignorant [[Home|home]] [[government]]."
 
 
 
-"Wellington is the soul of England. Wellington is the right champion of
+"Wellington is the [[Soul|soul]] of England. Wellington is the right champion of
 
 a good cause, the fit representative of a powerful, a resolute, a
 
@@ -226,7 +226,7 @@ sensible, and an honest nation."
 
 "Your good cause, as far as I understand it, is simply the restoration
 
-of that filthy, feeble Ferdinand to a throne which he disgraced. Your
+of that filthy, feeble [[Ferdinand]] to a throne which he disgraced. Your
 
 fit representative of an honest people is a dull-witted drover, acting
 

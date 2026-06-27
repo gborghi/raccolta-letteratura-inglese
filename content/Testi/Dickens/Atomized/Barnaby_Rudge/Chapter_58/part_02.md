@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 58 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 58 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-‘Ay!’ said the other voice. ‘That’s all very well, but they won’t give
+‘Ay!’ said the other voice. ‘That’s all very [[Well|well]], but they won’t give
 the needful authority. If the magistrate won’t give the word, what’s the
 officer to do?’
 
-Not very well knowing, as it seemed, how to overcome this difficulty,
+Not very [[Well|well]] knowing, as it seemed, how to overcome this difficulty,
 the other man contented himself with damning the magistrates.
 
 ‘With all my heart,’ said his friend.
@@ -33,7 +33,7 @@ magistrate?’
 ‘When does he go before Sir John Fielding?’ asked the man who had spoken
 first.
 
-‘To-night at eight o’clock,’ returned the other. ‘Mark what follows. The
+‘To-[[Night|night]] at eight o’[[Clock|clock]],’ returned the other. ‘Mark what follows. The
 magistrate commits him to Newgate. Our people take him to Newgate. The
 rioters pelt our people. Our people retire before the rioters. Stones
 are thrown, insults are offered, not a shot’s fired. Why? Because of the
@@ -41,8 +41,8 @@ magistrates. Damn the magistrates!’
 
 When he had in some degree relieved his mind by cursing the magistrates
 in various other forms of speech, the man was silent, save for a low
-growling, still having reference to those authorities, which from time
-to time escaped him.
+growling, still having reference to those authorities, which from [[Time|time]]
+to [[Time|time]] escaped him.
 
 Barnaby, who had wit enough to know that this conversation concerned,
 and very nearly concerned, himself, remained perfectly quiet until they
@@ -63,28 +63,28 @@ empty coat-sleeve hung across his breast.
 It was probably this circumstance which gave him an interest beyond any
 that his companion could boast of, and attracted Barnaby’s attention.
 There was something soldierly in his bearing, and he wore a jaunty cap
-and jacket. Perhaps he had been in the service at one time or other.
+and jacket. Perhaps he had been in the service at one [[Time|time]] or other.
 If he had, it could not have been very long ago, for he was but a young
 fellow now.
 
-‘Well, well,’ he said thoughtfully; ‘let the fault be where it may, it
+‘[[Well]], [[Well|well]],’ he said thoughtfully; ‘let the fault be where it may, it
 makes a man sorrowful to come back to old England, and see her in this
 condition.’
 
 ‘I suppose the pigs will join ‘em next,’ said the serjeant, with
-an imprecation on the rioters, ‘now that the birds have set ‘em the
+an imprecation on the rioters, ‘now that the [[Birds|birds]] have set ‘em the
 example.’
 
-‘The birds!’ repeated Tom Green.
+‘The [[Birds|birds]]!’ repeated Tom Green.
 
-‘Ah--birds,’ said the serjeant testily; ‘that’s English, an’t it?’
+‘Ah--[[Birds|birds]],’ said the serjeant testily; ‘that’s English, an’t it?’
 
 ‘I don’t know what you mean.’
 
-‘Go to the guard-house, and see. You’ll find a bird there, that’s got
+‘Go to the guard-[[house]], and see. You’ll find a bird there, that’s got
 their cry as pat as any of ‘em, and bawls “No Popery,” like a man--or
-like a devil, as he says he is. I shouldn’t wonder. The devil’s loose
-in London somewhere. Damme if I wouldn’t twist his neck round, on the
+like a devil, as he says he is. I shouldn’t [[Wonder|wonder]]. The devil’s loose
+in [[London]] somewhere. Damme if I wouldn’t twist his neck round, on the
 chance, if I had MY way.’
 
 The young man had taken two or three steps away, as if to go and see
@@ -93,29 +93,29 @@ this creature, when he was arrested by the voice of Barnaby.
 ‘It’s mine,’ he called out, half laughing and half weeping--‘my pet,
 my friend Grip. Ha ha ha! Don’t hurt him, he has done no harm. I taught
 him; it’s my fault. Let me have him, if you please. He’s the only friend
-I have left now. He’ll not dance, or talk, or whistle for you, I
+I have left now. He’ll not [[Dance|dance]], or talk, or whistle for you, I
 know; but he will for me, because he knows me and loves me--though you
-wouldn’t think it--very well. You wouldn’t hurt a bird, I’m sure. You’re
-a brave soldier, sir, and wouldn’t harm a woman or a child--no, no, nor
+wouldn’t think it--very [[Well|well]]. You wouldn’t hurt a bird, I’m sure. You’re
+a brave soldier, sir, and wouldn’t harm a woman or a [[Child|child]]--no, no, nor
 a poor bird, I’m certain.’
 
 This latter adjuration was addressed to the serjeant, whom Barnaby
 judged from his red coat to be high in office, and able to seal Grip’s
 destiny by a word. But that gentleman, in reply, surlily damned him for
-a thief and rebel as he was, and with many disinterested imprecations on
-his own eyes, liver, blood, and body, assured him that if it rested with
+a thief and [[Rebel|rebel]] as he was, and with many disinterested imprecations on
+his own eyes, liver, [[Blood|blood]], and [[Body|body]], assured him that if it rested with
 him to decide, he would put a final stopper on the bird, and his master
 too.
 
 ‘You talk boldly to a caged man,’ said Barnaby, in anger. ‘If I was on
 the other side of the door and there were none to part us, you’d change
 your note--ay, you may toss your head--you would! Kill the bird--do.
-Kill anything you can, and so revenge yourself on those who with their
+Kill anything you can, and so [[Revenge|revenge]] yourself on those who with their
 bare hands untied could do as much to you!’
 
 Having vented his defiance, he flung himself into the furthest corner
-of his prison, and muttering, ‘Good bye, Grip--good bye, dear old Grip!’
-shed tears for the first time since he had been taken captive; and hid
+of his [[Prison|prison]], and muttering, ‘Good bye, Grip--good bye, dear old Grip!’
+shed [[Tears|tears]] for the first [[Time|time]] since he had been taken captive; and hid
 his face in the straw.
 
 He had had some fancy at first, that the one-armed man would help him,
@@ -129,16 +129,16 @@ he had finished speaking, and neither answered him, nor returned. No
 matter. They were all against him here: he might have known as much.
 Good bye, old Grip, good bye!
 
-After some time, they came and unlocked the door, and called to him to
-come out. He rose directly, and complied, for he would not have THEM
+After some [[Time|time]], they came and unlocked the door, and called to him to
+come out. He [[Rose|rose]] directly, and complied, for he would not have THEM
 think he was subdued or frightened. He walked out like a man, and looked
 from face to face.
 
 None of them returned his gaze or seemed to notice it. They marched
 him back to the parade by the way they had brought him, and there they
-halted, among a body of soldiers, at least twice as numerous as that
+halted, among a [[Body|body]] of soldiers, at least twice as numerous as that
 which had taken him prisoner in the afternoon. The officer he had seen
 before, bade him in a few brief words take notice that if he attempted
 to escape, no matter how favourable a chance he might suppose he had,
-certain of the men had orders to fire upon him, that moment. They then
+certain of the men had orders to [[Fire|fire]] upon him, that moment. They then
 closed round him as before, and marched him off again.

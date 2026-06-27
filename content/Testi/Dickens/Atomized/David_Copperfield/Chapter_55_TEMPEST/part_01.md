@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 55: TEMPEST (part 1)"
+title: "[[David Copperfield]] — Chapter 55: TEMPEST (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -21,23 +21,23 @@ I now approach an event in my life, so indelible, so awful, so bound by
 an infinite variety of ties to all that has preceded it, in these pages,
 that, from the beginning of my narrative, I have seen it growing larger
 and larger as I advanced, like a great tower in a plain, and throwing
-its fore-cast shadow even on the incidents of my childish days.
+its fore-cast [[Shadow|shadow]] even on the incidents of my childish days.
 
 For years after it occurred, I dreamed of it often. I have started up so
 vividly impressed by it, that its fury has yet seemed raging in my quiet
-room, in the still night. I dream of it sometimes, though at lengthened
+room, in the still [[Night|night]]. I dream of it sometimes, though at lengthened
 and uncertain intervals, to this hour. I have an association between it
-and a stormy wind, or the lightest mention of a sea-shore, as strong as
+and a stormy [[Wind|wind]], or the lightest mention of a sea-shore, as strong as
 any of which my mind is conscious. As plainly as I behold what happened,
 I will try to write it down. I do not recall it, but see it done; for it
 happens again before me.
 
-The time drawing on rapidly for the sailing of the emigrant-ship, my
-good old nurse (almost broken-hearted for me, when we first met) came up
-to London. I was constantly with her, and her brother, and the Micawbers
+The [[Time|time]] drawing on rapidly for the sailing of the emigrant-[[Ship|ship]], my
+good old [[Nurse|nurse]] (almost broken-hearted for me, when we first met) came up
+to [[London]]. I was constantly with her, and her brother, and the Micawbers
 (they being very much together); but Emily I never saw.
 
-One evening when the time was close at hand, I was alone with Peggotty
+One evening when the [[Time|time]] was close at hand, I was [[Alone|alone]] with Peggotty
 and her brother. Our conversation turned on Ham. She described to us how
 tenderly he had taken leave of her, and how manfully and quietly he
 had borne himself. Most of all, of late, when she believed he was most
@@ -45,15 +45,15 @@ tried. It was a subject of which the affectionate creature never tired;
 and our interest in hearing the many examples which she, who was so much
 with him, had to relate, was equal to hers in relating them.
 
-My aunt and I were at that time vacating the two cottages at Highgate; I
-intending to go abroad, and she to return to her house at Dover. We had
-a temporary lodging in Covent Garden. As I walked home to it, after this
+My aunt and I were at that [[Time|time]] vacating the two cottages at Highgate; I
+intending to go abroad, and she to return to her [[house]] at Dover. We had
+a temporary lodging in Covent [[Garden]]. As I walked [[Home|home]] to it, after this
 evening’s conversation, reflecting on what had passed between Ham and
 myself when I was last at Yarmouth, I wavered in the original purpose
 I had formed, of leaving a letter for Emily when I should take leave of
-her uncle on board the ship, and thought it would be better to write to
-her now. She might desire, I thought, after receiving my communication,
-to send some parting word by me to her unhappy lover. I ought to give
+her uncle on board the [[Ship|ship]], and thought it would be better to write to
+her now. She might [[Desire|desire]], I thought, after receiving my communication,
+to send some parting word by me to her unhappy [[Lover|lover]]. I ought to give
 her the opportunity.
 
 I therefore sat down in my room, before going to bed, and wrote to her.
@@ -66,7 +66,7 @@ Peggotty, requesting him to give it to her; and went to bed at daybreak.
 
 I was weaker than I knew then; and, not falling asleep until the sun
 was up, lay late, and unrefreshed, next day. I was roused by the silent
-presence of my aunt at my bedside. I felt it in my sleep, as I suppose
+presence of my aunt at my bedside. I felt it in my [[Sleep|sleep]], as I suppose
 we all do feel such things.
 
 ‘Trot, my dear,’ she said, when I opened my eyes, ‘I couldn’t make up my
@@ -93,11 +93,11 @@ them, oh, I have prayed so much. When I find what you are, and what
 uncle is, I think what God must be, and can cry to him.
 
 ‘Good-bye for ever. Now, my dear, my friend, good-bye for ever in this
-world. In another world, if I am forgiven, I may wake a child and come
+world. In another world, if I am forgiven, I may wake a [[Child|child]] and come
 to you. All thanks and blessings. Farewell, evermore.’
 
 
-This, blotted with tears, was the letter.
+This, blotted with [[Tears|tears]], was the letter.
 
 ‘May I tell her as you doen’t see no hurt in’t, and as you’ll be so kind
 as take charge on’t, Mas’r Davy?’ said Mr. Peggotty, when I had read it.
@@ -106,34 +106,34 @@ as take charge on’t, Mas’r Davy?’ said Mr. Peggotty, when I had read it.
 ‘Yes, Mas’r Davy?’
 
 ‘I am thinking,’ said I, ‘that I’ll go down again to Yarmouth. There’s
-time, and to spare, for me to go and come back before the ship sails. My
-mind is constantly running on him, in his solitude; to put this letter
-of her writing in his hand at this time, and to enable you to tell her,
+[[Time|time]], and to spare, for me to go and come back before the [[Ship|ship]] sails. My
+mind is constantly running on him, in his [[Solitude|solitude]]; to put this letter
+of her writing in his hand at this [[Time|time]], and to enable you to tell her,
 in the moment of parting, that he has got it, will be a kindness to
 both of them. I solemnly accepted his commission, dear good fellow, and
-cannot discharge it too completely. The journey is nothing to me. I am
+cannot discharge it too completely. The [[Journey|journey]] is nothing to me. I am
 restless, and shall be better in motion. I’ll go down tonight.’
 
 Though he anxiously endeavoured to dissuade me, I saw that he was of my
 mind; and this, if I had required to be confirmed in my intention, would
 have had the effect. He went round to the coach office, at my request,
 and took the box-seat for me on the mail. In the evening I started,
-by that conveyance, down the road I had traversed under so many
+by that conveyance, down the [[Road|road]] I had traversed under so many
 vicissitudes.
 
 ‘Don’t you think that,’ I asked the coachman, in the first stage out of
-London, ‘a very remarkable sky? I don’t remember to have seen one like
+[[London]], ‘a very remarkable sky? I don’t remember to have seen one like
 it.’
 
-‘Nor I--not equal to it,’ he replied. ‘That’s wind, sir. There’ll be
+‘Nor I--not equal to it,’ he replied. ‘That’s [[Wind|wind]], sir. There’ll be
 mischief done at sea, I expect, before long.’
 
 It was a murky confusion--here and there blotted with a colour like the
 colour of the smoke from damp fuel--of flying clouds, tossed up into
 most remarkable heaps, suggesting greater heights in the clouds than
-there were depths below them to the bottom of the deepest hollows in the
-earth, through which the wild moon seemed to plunge headlong, as if, in
-a dread disturbance of the laws of nature, she had lost her way and were
-frightened. There had been a wind all day; and it was rising then, with
+there were depths below them to the [[Bottom|bottom]] of the deepest hollows in the
+earth, through which the wild [[Moon|moon]] seemed to plunge headlong, as if, in
+a dread disturbance of the laws of [[Nature|nature]], she had lost her way and were
+frightened. There had been a [[Wind|wind]] all day; and it was rising then, with
 an extraordinary great sound. In another hour it had much increased, and
 the sky was more overcast, and blew hard.

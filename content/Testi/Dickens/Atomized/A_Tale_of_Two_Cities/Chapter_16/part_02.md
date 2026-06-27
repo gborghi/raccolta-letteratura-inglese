@@ -29,17 +29,17 @@ His tone lingered in the air, almost like the tone of a musical
 instrument.
 
 “In effect, sir,” pursued the nephew, “I believe it to be at once your
-bad fortune, and my good fortune, that has kept me out of a prison in
+bad fortune, and my good fortune, that has kept me out of a [[Prison|prison]] in
 France here.”
 
 “I do not quite understand,” returned the uncle, sipping his coffee.
 “Dare I ask you to explain?”
 
-“I believe that if you were not in disgrace with the Court, and had not
+“I believe that if you were not in disgrace with the [[Court]], and had not
 been overshadowed by that cloud for years past, a letter de cachet would
 have sent me to some fortress indefinitely.”
 
-“It is possible,” said the uncle, with great calmness. “For the honour
+“It is possible,” said the uncle, with great calmness. “For the [[Honour|honour]]
 of the family, I could even resolve to incommode you to that extent.
 Pray excuse me!”
 
@@ -48,38 +48,38 @@ yesterday was, as usual, a cold one,” observed the nephew.
 
 “I would not say happily, my friend,” returned the uncle, with refined
 politeness; “I would not be sure of that. A good opportunity for
-consideration, surrounded by the advantages of solitude, might influence
+consideration, surrounded by the advantages of [[Solitude|solitude]], might influence
 your destiny to far greater advantage than you influence it for
 yourself. But it is useless to discuss the question. I am, as you say,
 at a disadvantage. These little instruments of correction, these gentle
-aids to the power and honour of families, these slight favours that
+aids to the power and [[Honour|honour]] of families, these slight favours that
 might so incommode you, are only to be obtained now by interest
 and importunity. They are sought by so many, and they are granted
 (comparatively) to so few! It used not to be so, but France in all such
 things is changed for the worse. Our not remote ancestors held the right
-of life and death over the surrounding vulgar. From this room, many such
-dogs have been taken out to be hanged; in the next room (my bedroom),
+of life and [[Death|death]] over the surrounding vulgar. From this room, many such
+[[dogs]] have been taken out to be hanged; in the next room (my bedroom),
 one fellow, to our knowledge, was poniarded on the spot for professing
 some insolent delicacy respecting his daughter--_his_ daughter? We have
-lost many privileges; a new philosophy has become the mode; and the
+lost many privileges; a new [[philosophy]] has become the mode; and the
 assertion of our station, in these days, might (I do not go so far as
 to say would, but might) cause us real inconvenience. All very bad, very
 bad!”
 
 The Marquis took a gentle little pinch of snuff, and shook his head;
 as elegantly despondent as he could becomingly be of a country still
-containing himself, that great means of regeneration.
+containing himself, that great means of [[Regeneration|regeneration]].
 
-“We have so asserted our station, both in the old time and in the modern
-time also,” said the nephew, gloomily, “that I believe our name to be
+“We have so asserted our station, both in the old [[Time|time]] and in the modern
+[[Time|time]] also,” said the nephew, gloomily, “that I believe our name to be
 more detested than any name in France.”
 
-“Let us hope so,” said the uncle. “Detestation of the high is the
+“Let us [[Hope|hope]] so,” said the uncle. “Detestation of the high is the
 involuntary homage of the low.”
 
 “There is not,” pursued the nephew, in his former tone, “a face I can
 look at, in all this country round about us, which looks at me with any
-deference on it but the dark deference of fear and slavery.”
+deference on it but the dark deference of [[Fear|fear]] and [[Slavery|slavery]].”
 
 “A compliment,” said the Marquis, “to the grandeur of the family,
 merited by the manner in which the family has sustained its grandeur.
@@ -92,23 +92,23 @@ him sideways with a stronger concentration of keenness, closeness,
 and dislike, than was comportable with its wearer’s assumption of
 indifference.
 
-“Repression is the only lasting philosophy. The dark deference of fear
-and slavery, my friend,” observed the Marquis, “will keep the dogs
+“Repression is the only lasting [[philosophy]]. The dark deference of [[Fear|fear]]
+and [[Slavery|slavery]], my friend,” observed the Marquis, “will keep the [[dogs]]
 obedient to the whip, as long as this roof,” looking up to it, “shuts
 out the sky.”
 
 That might not be so long as the Marquis supposed. If a picture of the
 chateau as it was to be a very few years hence, and of fifty like it as
 they too were to be a very few years hence, could have been shown to
-him that night, he might have been at a loss to claim his own from
-the ghastly, fire-charred, plunder-wrecked rains. As for the roof
+him that [[Night|night]], he might have been at a loss to claim his own from
+the ghastly, [[Fire|fire]]-charred, plunder-wrecked rains. As for the roof
 he vaunted, he might have found _that_ shutting out the sky in a new
 way--to wit, for ever, from the eyes of the bodies into which its lead
 was fired, out of the barrels of a hundred thousand muskets.
 
-“Meanwhile,” said the Marquis, “I will preserve the honour and repose
+“Meanwhile,” said the Marquis, “I will preserve the [[Honour|honour]] and repose
 of the family, if you will not. But you must be fatigued. Shall we
-terminate our conference for the night?”
+terminate our conference for the [[Night|night]]?”
 
 “A moment more.”
 
@@ -120,19 +120,19 @@ of wrong.”
 “_We_ have done wrong?” repeated the Marquis, with an inquiring smile,
 and delicately pointing, first to his nephew, then to himself.
 
-“Our family; our honourable family, whose honour is of so much account
-to both of us, in such different ways. Even in my father’s time, we did
+“Our family; our honourable family, whose [[Honour|honour]] is of so much account
+to both of us, in such different ways. Even in my father’s [[Time|time]], we did
 a world of wrong, injuring every human creature who came between us and
-our pleasure, whatever it was. Why need I speak of my father’s time,
+our pleasure, whatever it was. Why need I speak of my father’s [[Time|time]],
 when it is equally yours? Can I separate my father’s twin-brother, joint
 inheritor, and next successor, from himself?”
 
-“Death has done that!” said the Marquis.
+“[[Death]] has done that!” said the Marquis.
 
 “And has left me,” answered the nephew, “bound to a system that is
 frightful to me, responsible for it, but powerless in it; seeking to
 execute the last request of my dear mother’s lips, and obey the last
-look of my dear mother’s eyes, which implored me to have mercy and to
+look of my dear mother’s eyes, which implored me to have [[Mercy|mercy]] and to
 redress; and tortured by seeking assistance and power in vain.”
 
 “Seeking them from me, my nephew,” said the Marquis, touching him on the
@@ -143,5 +143,5 @@ Every fine straight line in the clear whiteness of his face, was
 cruelly, craftily, and closely compressed, while he stood looking
 quietly at his nephew, with his snuff-box in his hand. Once again he
 touched him on the breast, as though his finger were the fine point of
-a small sword, with which, in delicate finesse, he ran him through the
-body, and said,
+a small [[Sword|sword]], with which, in delicate finesse, he ran him through the
+[[Body|body]], and said,

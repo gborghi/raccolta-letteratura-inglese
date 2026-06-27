@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 7"
+title: "The Mystery of [[Edwin Drood]] — Chapter 7"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -32,18 +32,18 @@ come (my sister and I) from Ceylon?”
 
 “Indeed, no.”
 
-“I wonder at that. We lived with a stepfather there. Our mother died
+“I [[Wonder|wonder]] at that. We lived with a stepfather there. Our mother died
 there, when we were little children. We have had a wretched existence.
 She made him our guardian, and he was a miserly wretch who grudged us
-food to eat, and clothes to wear. At his death, he passed us over to
+food to eat, and clothes to wear. At his [[Death|death]], he passed us over to
 this man; for no better reason that I know of, than his being a friend
 or connexion of his, whose name was always in print and catching his
 attention.”
 
 “That was lately, I suppose?”
 
-“Quite lately, sir. This stepfather of ours was a cruel brute as well
-as a grinding one. It is well he died when he did, or I might have
+“Quite lately, sir. This stepfather of ours was a cruel brute as [[Well|well]]
+as a grinding one. It is [[Well|well]] he died when he did, or I might have
 killed him.”
 
 Mr. Crisparkle stopped short in the moonlight and looked at his hopeful
@@ -59,13 +59,13 @@ said: “You never saw him beat your sister. I have seen him beat mine,
 more than once or twice, and I never forgot it.”
 
 “Nothing,” said Mr. Crisparkle, “not even a beloved and beautiful
-sister’s tears under dastardly ill-usage;” he became less severe, in
-spite of himself, as his indignation rose; “could justify those
+sister’s [[Tears|tears]] under dastardly ill-usage;” he became less severe, in
+spite of himself, as his indignation [[Rose|rose]]; “could justify those
 horrible expressions that you used.”
 
 “I am sorry I used them, and especially to you, sir. I beg to recall
 them. But permit me to set you right on one point. You spoke of my
-sister’s tears. My sister would have let him tear her to pieces, before
+sister’s [[Tears|tears]]. My sister would have let him tear her to pieces, before
 she would have let him believe that he could make her shed a tear.”
 
 Mr. Crisparkle reviewed those mental notes of his, and was neither at
@@ -81,7 +81,7 @@ Neville.”
 “I think I am, sir. At least I know I should be, if you were better
 acquainted with my character.”
 
-“Well, Mr. Neville,” was the rejoinder. “What if you leave me to find
+“[[Well]], Mr. Neville,” was the rejoinder. “What if you leave me to find
 it out?”
 
 “Since it is your pleasure, sir,” answered the young man, with a quick
@@ -96,12 +96,12 @@ and improving it. They were within sight of the lights in his windows,
 and he stopped.
 
 “Let us turn back and take a turn or two up and down, Mr. Neville, or
-you may not have time to finish what you wish to say to me. You are
+you may not have [[Time|time]] to finish what you wish to say to me. You are
 hasty in thinking that I mean to check you. Quite the contrary. I
 invite your confidence.”
 
 “You have invited it, sir, without knowing it, ever since I came here.
-I say ‘ever since,’ as if I had been here a week. The truth is, we came
+I say ‘ever since,’ as if I had been here a week. The [[Truth|truth]] is, we came
 here (my sister and I) to quarrel with you, and affront you, and break
 away again.”
 
@@ -117,10 +117,10 @@ contact, we had made up our minds not to like you.”
 “Really?” said Mr. Crisparkle again.
 
 “But we do like you, sir, and we see an unmistakable difference between
-your house and your reception of us, and anything else we have ever
-known. This—and my happening to be alone with you—and everything around
+your [[house]] and your reception of us, and anything else we have ever
+known. This—and my happening to be [[Alone|alone]] with you—and everything around
 us seeming so quiet and peaceful after Mr. Honeythunder’s departure—and
-Cloisterham being so old and grave and beautiful, with the moon shining
+Cloisterham being so old and [[Grave|grave]] and beautiful, with the [[Moon|moon]] shining
 on it—these things inclined me to open my heart.”
 
 “I quite understand, Mr. Neville. And it is salutary to listen to such
@@ -128,7 +128,7 @@ influences.”
 
 “In describing my own imperfections, sir, I must ask you not to suppose
 that I am describing my sister’s. She has come out of the disadvantages
-of our miserable life, as much better than I am, as that Cathedral
+of our miserable life, as much better than I am, as that [[Cathedral]]
 tower is higher than those chimneys.”
 
 Mr. Crisparkle in his own breast was not so sure of this.
@@ -137,8 +137,8 @@ Mr. Crisparkle in his own breast was not so sure of this.
 and bitter hatred. This has made me secret and revengeful. I have been
 always tyrannically held down by the strong hand. This has driven me,
 in my weakness, to the resource of being false and mean. I have been
-stinted of education, liberty, money, dress, the very necessaries of
-life, the commonest pleasures of childhood, the commonest possessions
+stinted of [[Education|education]], liberty, money, dress, the very necessaries of
+life, the commonest pleasures of [[Childhood|childhood]], the commonest possessions
 of youth. This has caused me to be utterly wanting in I don’t know what
 emotions, or remembrances, or good instincts—I have not even a name for
 the thing, you see!—that you have had to work upon in other young men
@@ -150,20 +150,20 @@ Crisparkle as they turned again.
 “And to finish with, sir: I have been brought up among abject and
 servile dependents, of an inferior race, and I may easily have
 contracted some affinity with them. Sometimes, I don’t know but that it
-may be a drop of what is tigerish in their blood.”
+may be a drop of what is tigerish in their [[Blood|blood]].”
 
 “As in the case of that remark just now,” thought Mr. Crisparkle.
 
 “In a last word of reference to my sister, sir (we are twin children),
-you ought to know, to her honour, that nothing in our misery ever
+you ought to know, to her [[Honour|honour]], that nothing in our misery ever
 subdued her, though it often cowed me. When we ran away from it (we ran
 away four times in six years, to be soon brought back and cruelly
-punished), the flight was always of her planning and leading. Each time
+punished), the flight was always of her planning and leading. Each [[Time|time]]
 she dressed as a boy, and showed the daring of a man. I take it we were
 seven years old when we first decamped; but I remember, when I lost the
 pocket-knife with which she was to have cut her hair short, how
 desperately she tried to tear it out, or bite it off. I have nothing
-further to say, sir, except that I hope you will bear with me and make
+further to say, sir, except that I [[Hope|hope]] you will bear with me and make
 allowance for me.”
 
 “Of that, Mr. Neville, you may be sure,” returned the Minor Canon. “I
@@ -178,7 +178,7 @@ aid from Heaven.”
 “And, Mr. Neville, I will try to do mine. Here is my hand on it. May
 God bless our endeavours!”
 
-They were now standing at his house-door, and a cheerful sound of
+They were now standing at his [[house]]-door, and a cheerful sound of
 voices and laughter was heard within.
 
 “We will take one more turn before going in,” said Mr. Crisparkle, “for
@@ -190,7 +190,7 @@ too?”
 
 “Excuse me, Mr. Neville, but I think you have had no opportunity of
 communicating with your sister, since I met you. Mr. Honeythunder was
-very eloquent; but perhaps I may venture to say, without ill-nature,
+very eloquent; but perhaps I may venture to say, without ill-[[Nature|nature]],
 that he rather monopolised the occasion. May you not have answered for
 your sister without sufficient warrant?”
 
@@ -199,25 +199,25 @@ Neville shook his head with a proud smile.
 “You don’t know, sir, yet, what a complete understanding can exist
 between my sister and me, though no spoken word—perhaps hardly as much
 as a look—may have passed between us. She not only feels as I have
-described, but she very well knows that I am taking this opportunity of
+described, but she very [[Well|well]] knows that I am taking this opportunity of
 speaking to you, both for her and for myself.”
 
-Mr. Crisparkle looked in his face, with some incredulity; but his face
-expressed such absolute and firm conviction of the truth of what he
+Mr. Crisparkle looked in his face, with some [[Incredulity|incredulity]]; but his face
+expressed such absolute and firm conviction of the [[Truth|truth]] of what he
 said, that Mr. Crisparkle looked at the pavement, and mused, until they
 came to his door again.
 
-“I will ask for one more turn, sir, this time,” said the young man,
+“I will ask for one more turn, sir, this [[Time|time]],” said the young man,
 with a rather heightened colour rising in his face. “But for Mr.
 Honeythunder’s—I think you called it eloquence, sir?” (somewhat slyly.)
 
 “I—yes, I called it eloquence,” said Mr. Crisparkle.
 
 “But for Mr. Honeythunder’s eloquence, I might have had no need to ask
-you what I am going to ask you. This Mr. Edwin Drood, sir: I think
+you what I am going to ask you. This Mr. [[Edwin Drood]], sir: I think
 that’s the name?”
 
-“Quite correct,” said Mr. Crisparkle. “D-r-double o-d.”
+“Quite correct,” said Mr. Crisparkle. “D-r-[[Double|double]] o-d.”
 
 “Does he—or did he—read with you, sir?”
 
@@ -236,95 +236,95 @@ This was said so evidently to himself, or to anybody rather than Mr.
 Crisparkle, that the latter instinctively felt as if to notice it would
 be almost tantamount to noticing a passage in a letter which he had
 read by chance over the writer’s shoulder. A moment afterwards they
-re-entered the house.
+re-entered the [[house]].
 
 Mr. Jasper was seated at the piano as they came into his drawing-room,
 and was accompanying Miss Rosebud while she sang. It was a consequence
 of his playing the accompaniment without notes, and of her being a
 heedless little creature, very apt to go wrong, that he followed her
-lips most attentively, with his eyes as well as hands; carefully and
-softly hinting the key-note from time to time. Standing with an arm
+lips most attentively, with his eyes as [[Well|well]] as hands; carefully and
+softly hinting the key-note from [[Time|time]] to [[Time|time]]. Standing with an arm
 drawn round her, but with a face far more intent on Mr. Jasper than on
-her singing, stood Helena, between whom and her brother an
+her singing, stood [[Helena]], between whom and her brother an
 instantaneous recognition passed, in which Mr. Crisparkle saw, or
 thought he saw, the understanding that had been spoken of, flash out.
 Mr. Neville then took his admiring station, leaning against the piano,
 opposite the singer; Mr. Crisparkle sat down by the china shepherdess;
-Edwin Drood gallantly furled and unfurled Miss Twinkleton’s fan; and
+[[Edwin Drood]] gallantly furled and unfurled Miss Twinkleton’s fan; and
 that lady passively claimed that sort of exhibitor’s proprietorship in
 the accomplishment on view, which Mr. Tope, the Verger, daily claimed
-in the Cathedral service.
+in the [[Cathedral]] service.
 
 [Illustration: At the piano]
 
 
-The song went on. It was a sorrowful strain of parting, and the fresh
+The [[Song|song]] went on. It was a sorrowful strain of parting, and the fresh
 young voice was very plaintive and tender. As Jasper watched the pretty
 lips, and ever and again hinted the one note, as though it were a low
 whisper from himself, the voice became less steady, until all at once
-the singer broke into a burst of tears, and shrieked out, with her
+the singer broke into a burst of [[Tears|tears]], and shrieked out, with her
 hands over her eyes: “I can’t bear this! I am frightened! Take me
 away!”
 
-With one swift turn of her lithe figure, Helena laid the little beauty
+With one swift turn of her lithe figure, [[Helena]] laid the little [[Beauty|beauty]]
 on a sofa, as if she had never caught her up. Then, on one knee beside
 her, and with one hand upon her rosy mouth, while with the other she
-appealed to all the rest, Helena said to them: “It’s nothing; it’s all
-over; don’t speak to her for one minute, and she is well!”
+appealed to all the rest, [[Helena]] said to them: “It’s nothing; it’s all
+over; don’t speak to her for one minute, and she is [[Well|well]]!”
 
 Jasper’s hands had, in the same instant, lifted themselves from the
 keys, and were now poised above them, as though he waited to resume. In
 that attitude he yet sat quiet: not even looking round, when all the
 rest had changed their places and were reassuring one another.
 
-“Pussy’s not used to an audience; that’s the fact,” said Edwin Drood.
+“Pussy’s not used to an audience; that’s the fact,” said [[Edwin Drood]].
 “She got nervous, and couldn’t hold out. Besides, Jack, you are such a
 conscientious master, and require so much, that I believe you make her
-afraid of you. No wonder.”
+afraid of you. No [[Wonder|wonder]].”
 
-“No wonder,” repeated Helena.
+“No [[Wonder|wonder]],” repeated [[Helena]].
 
 “There, Jack, you hear! You would be afraid of him, under similar
 circumstances, wouldn’t you, Miss Landless?”
 
-“Not under any circumstances,” returned Helena.
+“Not under any circumstances,” returned [[Helena]].
 
 Jasper brought down his hands, looked over his shoulder, and begged to
 thank Miss Landless for her vindication of his character. Then he fell
 to dumbly playing, without striking the notes, while his little pupil
-was taken to an open window for air, and was otherwise petted and
+was taken to an open [[Window|window]] for air, and was otherwise petted and
 restored. When she was brought back, his place was empty. “Jack’s gone,
 Pussy,” Edwin told her. “I am more than half afraid he didn’t like to
-be charged with being the Monster who had frightened you.” But she
+be charged with being the [[Monster]] who had frightened you.” But she
 answered never a word, and shivered, as if they had made her a little
 too cold.
 
 Miss Twinkleton now opining that indeed these were late hours, Mrs.
-Crisparkle, for finding ourselves outside the walls of the Nuns’ House,
+Crisparkle, for finding ourselves outside the walls of the Nuns’ [[house|House]],
 and that we who undertook the formation of the future wives and mothers
 of England (the last words in a lower voice, as requiring to be
 communicated in confidence) were really bound (voice coming up again)
 to set a better example than one of rakish habits, wrappers were put in
 requisition, and the two young cavaliers volunteered to see the ladies
-home. It was soon done, and the gate of the Nuns’ House closed upon
+[[Home|home]]. It was soon done, and the gate of the Nuns’ [[house|House]] closed upon
 them.
 
 The boarders had retired, and only Mrs. Tisher in solitary vigil
 awaited the new pupil. Her bedroom being within Rosa’s, very little
 introduction or explanation was necessary, before she was placed in
-charge of her new friend, and left for the night.
+charge of her new friend, and left for the [[Night|night]].
 
-“This is a blessed relief, my dear,” said Helena. “I have been dreading
-all day, that I should be brought to bay at this time.”
+“This is a blessed relief, my dear,” said [[Helena]]. “I have been dreading
+all day, that I should be brought to bay at this [[Time|time]].”
 
 “There are not many of us,” returned Rosa, “and we are good-natured
 girls; at least the others are; I can answer for them.”
 
-“I can answer for you,” laughed Helena, searching the lovely little
+“I can answer for you,” laughed [[Helena]], searching the lovely little
 face with her dark, fiery eyes, and tenderly caressing the small
 figure. “You will be a friend to me, won’t you?”
 
-“I hope so. But the idea of my being a friend to you seems too absurd,
+“I [[Hope|hope]] so. But the idea of my being a friend to you seems too absurd,
 though.”
 
 “Why?”
@@ -347,15 +347,15 @@ and deeply ashamed to own my ignorance.”
 Of course her relations towards that young gentleman had been already
 imparted in Minor Canon Corner.
 
-“Why, surely he must love you with all his heart!” cried Helena, with
+“Why, surely he must [[Love|love]] you with all his heart!” cried [[Helena]], with
 an earnestness that threatened to blaze into ferocity if he didn’t.
 
-“Eh? O, well, I suppose he does,” said Rosa, pouting again; “I am sure
+“Eh? O, [[Well|well]], I suppose he does,” said Rosa, pouting again; “I am sure
 I have no right to say he doesn’t. Perhaps it’s my fault. Perhaps I am
 not as nice to him as I ought to be. I don’t think I am. But it _is_ so
 ridiculous!”
 
-Helena’s eyes demanded what was.
+[[Helena]]’s eyes demanded what was.
 
 “_We_ are,” said Rosa, answering as if she had spoken. “We are such a
 ridiculous couple. And we are always quarrelling.”
@@ -365,7 +365,7 @@ ridiculous couple. And we are always quarrelling.”
 “Because we both know we are ridiculous, my dear!” Rosa gave that
 answer as if it were the most conclusive answer in the world.
 
-Helena’s masterful look was intent upon her face for a few moments, and
+[[Helena]]’s masterful look was intent upon her face for a few moments, and
 then she impulsively put out both her hands and said:
 
 “You will be my friend and help me?”
@@ -376,32 +376,32 @@ good a friend as such a mite of a thing can be to such a noble creature
 as you. And be a friend to me, please; I don’t understand myself: and I
 want a friend who can understand me, very much indeed.”
 
-Helena Landless kissed her, and retaining both her hands said:
+[[Helena Landless]] kissed her, and retaining both her hands said:
 
 “Who is Mr. Jasper?”
 
 Rosa turned aside her head in answering: “Eddy’s uncle, and my
 music-master.”
 
-“You do not love him?”
+“You do not [[Love|love]] him?”
 
-“Ugh!” She put her hands up to her face, and shook with fear or horror.
+“Ugh!” She put her hands up to her face, and shook with [[Fear|fear]] or horror.
 
 “You know that he loves you?”
 
 “O, don’t, don’t, don’t!” cried Rosa, dropping on her knees, and
 clinging to her new resource. “Don’t tell me of it! He terrifies me. He
-haunts my thoughts, like a dreadful ghost. I feel that I am never safe
+haunts my thoughts, like a dreadful [[Ghost|ghost]]. I feel that I am never safe
 from him. I feel as if he could pass in through the wall when he is
 spoken of.” She actually did look round, as if she dreaded to see him
-standing in the shadow behind her.
+standing in the [[Shadow|shadow]] behind her.
 
 “Try to tell me more about it, darling.”
 
 “Yes, I will, I will. Because you are so strong. But hold me the while,
 and stay with me afterwards.”
 
-“My child! You speak as if he had threatened you in some dark way.”
+“My [[Child|child]]! You speak as if he had threatened you in some dark way.”
 
 “He has never spoken to me about—that. Never.”
 
@@ -409,11 +409,11 @@ and stay with me afterwards.”
 
 “He has made a slave of me with his looks. He has forced me to
 understand him, without his saying a word; and he has forced me to keep
-silence, without his uttering a threat. When I play, he never moves his
+[[Silence|silence]], without his uttering a threat. When I play, he never moves his
 eyes from my hands. When I sing, he never moves his eyes from my lips.
 When he corrects me, and strikes a note, or a chord, or plays a
 passage, he himself is in the sounds, whispering that he pursues me as
-a lover, and commanding me to keep his secret. I avoid his eyes, but he
+a [[Lover|lover]], and commanding me to keep his secret. I avoid his eyes, but he
 forces me to see them without looking at them. Even when a glaze comes
 over them (which is sometimes the case), and he seems to wander away
 into a frightful sort of dream in which he threatens most, he obliges
@@ -422,21 +422,21 @@ terrible to me than ever.”
 
 “What is this imagined threatening, pretty one? What is threatened?”
 
-“I don’t know. I have never even dared to think or wonder what it is.”
+“I don’t know. I have never even dared to think or [[Wonder|wonder]] what it is.”
 
-“And was this all, to-night?”
+“And was this all, to-[[Night|night]]?”
 
-“This was all; except that to-night when he watched my lips so closely
+“This was all; except that to-[[Night|night]] when he watched my lips so closely
 as I was singing, besides feeling terrified I felt ashamed and
 passionately hurt. It was as if he kissed me, and I couldn’t bear it,
 but cried out. You must never breathe this to any one. Eddy is devoted
-to him. But you said to-night that you would not be afraid of him,
+to him. But you said to-[[Night|night]] that you would not be afraid of him,
 under any circumstances, and that gives me—who am so much afraid of
-him—courage to tell only you. Hold me! Stay with me! I am too
+him—[[Courage|courage]] to tell only you. Hold me! Stay with me! I am too
 frightened to be left by myself.”
 
 The lustrous gipsy-face drooped over the clinging arms and bosom, and
 the wild black hair fell down protectingly over the childish form.
-There was a slumbering gleam of fire in the intense dark eyes, though
+There was a slumbering gleam of [[Fire|fire]] in the intense dark eyes, though
 they were then softened with compassion and admiration. Let whomsoever
-it most concerned look well to it!
+it most concerned look [[Well|well]] to it!

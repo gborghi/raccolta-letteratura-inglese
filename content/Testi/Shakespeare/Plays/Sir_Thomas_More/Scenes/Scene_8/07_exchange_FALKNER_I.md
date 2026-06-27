@@ -1,5 +1,5 @@
 ---
-title: "Sir Thomas More — Scene 8 — exchange (FALKNER I) [7]"
+title: "[[Sir Thomas More]] — Scene 8 — exchange (FALKNER I) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/SIR-THOMAS-MORE-(Shakespeare)"
@@ -15,6 +15,6 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| FALKNER | I care not to be turned off, an ’twere a ladder, so it be in my humour or the Fates beckon to me. Nay, pray, sir, if the Destinies spin me a fine thread, Falkner flies another pitch. And to avoid the headache, hereafter before I’ll be a hairmonger I’ll be a whoremonger. Exeunt |
+| FALKNER | I care not to be turned off, an ’twere a ladder, so it be in my [[Humour|humour]] or the Fates beckon to me. Nay, pray, sir, if the Destinies spin me a fine thread, Falkner flies another pitch. And to avoid the headache, hereafter before I’ll be a hairmonger I’ll be a whoremonger. Exeunt |
 | *(didascalia)* | [Addition |
 | IV | (Dekker)] [Addition V (playhouse scribe)] |

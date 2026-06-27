@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 46: INTELLIGENCE"
+title: "[[David Copperfield]] — Chapter 46: INTELLIGENCE"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -17,37 +17,37 @@ tags:
 CHAPTER 46. INTELLIGENCE
 
 
-I must have been married, if I may trust to my imperfect memory for
+I must have been married, if I may trust to my imperfect [[Memory|memory]] for
 dates, about a year or so, when one evening, as I was returning from a
-solitary walk, thinking of the book I was then writing--for my success
+solitary walk, thinking of the book I was then writing--for my [[success]]
 had steadily increased with my steady application, and I was engaged at
-that time upon my first work of fiction--I came past Mrs. Steerforth’s
-house. I had often passed it before, during my residence in that
-neighbourhood, though never when I could choose another road. Howbeit,
+that [[Time|time]] upon my first work of fiction--I came past Mrs. Steerforth’s
+[[house]]. I had often passed it before, during my residence in that
+neighbourhood, though never when I could choose another [[Road|road]]. Howbeit,
 it did sometimes happen that it was not easy to find another, without
 making a long circuit; and so I had passed that way, upon the whole,
 pretty often.
 
-I had never done more than glance at the house, as I went by with a
+I had never done more than glance at the [[house]], as I went by with a
 quickened step. It had been uniformly gloomy and dull. None of the best
-rooms abutted on the road; and the narrow, heavily-framed old-fashioned
+rooms abutted on the [[Road|road]]; and the narrow, heavily-framed old-fashioned
 windows, never cheerful under any circumstances, looked very dismal,
 close shut, and with their blinds always drawn down. There was a covered
-way across a little paved court, to an entrance that was never used; and
-there was one round staircase window, at odds with all the rest, and the
+way across a little paved [[Court|court]], to an entrance that was never used; and
+there was one round staircase [[Window|window]], at odds with all the rest, and the
 only one unshaded by a blind, which had the same unoccupied blank look.
-I do not remember that I ever saw a light in all the house. If I had
+I do not remember that I ever saw a light in all the [[house]]. If I had
 been a casual passer-by, I should have probably supposed that some
 childless person lay dead in it. If I had happily possessed no knowledge
 of the place, and had seen it often in that changeless state, I should
 have pleased my fancy with many ingenious speculations, I dare say.
 
 As it was, I thought as little of it as I might. But my mind could not
-go by it and leave it, as my body did; and it usually awakened a long
+go by it and leave it, as my [[Body|body]] did; and it usually awakened a long
 train of meditations. Coming before me, on this particular evening that
 I mention, mingled with the childish recollections and later fancies,
-the ghosts of half-formed hopes, the broken shadows of disappointments
-dimly seen and understood, the blending of experience and imagination,
+the [[Ghosts|ghosts]] of half-formed hopes, the broken shadows of disappointments
+dimly seen and understood, the blending of experience and [[Imagination|imagination]],
 incidental to the occupation with which my thoughts had been busy, it
 was more than commonly suggestive. I fell into a brown study as I walked
 on, and a voice at my side made me start.
@@ -55,7 +55,7 @@ on, and a voice at my side made me start.
 It was a woman’s voice, too. I was not long in recollecting Mrs.
 Steerforth’s little parlour-maid, who had formerly worn blue ribbons in
 her cap. She had taken them out now, to adapt herself, I suppose, to
-the altered character of the house; and wore but one or two disconsolate
+the altered character of the [[house]]; and wore but one or two disconsolate
 bows of sober brown.
 
 ‘If you please, sir, would you have the goodness to walk in, and speak
@@ -64,22 +64,22 @@ to Miss Dartle?’
 ‘Has Miss Dartle sent you for me?’ I inquired.
 
 ‘Not tonight, sir, but it’s just the same. Miss Dartle saw you pass a
-night or two ago; and I was to sit at work on the staircase, and when I
+[[Night|night]] or two ago; and I was to sit at work on the staircase, and when I
 saw you pass again, to ask you to step in and speak to her.’
 
 I turned back, and inquired of my conductor, as we went along, how Mrs.
 Steerforth was. She said her lady was but poorly, and kept her own room
 a good deal.
 
-When we arrived at the house, I was directed to Miss Dartle in the
-garden, and left to make my presence known to her myself. She was
+When we arrived at the [[house]], I was directed to Miss Dartle in the
+[[Garden|garden]], and left to make my presence known to her myself. She was
 sitting on a seat at one end of a kind of terrace, overlooking the great
-city. It was a sombre evening, with a lurid light in the sky; and as
+[[City|city]]. It was a sombre evening, with a lurid light in the sky; and as
 I saw the prospect scowling in the distance, with here and there some
 larger object starting up into the sullen glare, I fancied it was no
-inapt companion to the memory of this fierce woman.
+inapt companion to the [[Memory|memory]] of this fierce woman.
 
-She saw me as I advanced, and rose for a moment to receive me. I thought
+She saw me as I advanced, and [[Rose|rose]] for a moment to receive me. I thought
 her, then, still more colourless and thin than when I had seen her last;
 the flashing eyes still brighter, and the scar still plainer.
 
@@ -109,7 +109,7 @@ The vaunting cruelty with which she met my glance, I never saw expressed
 in any other face that ever I have seen.
 
 ‘To wish her dead,’ said I, ‘may be the kindest wish that one of her own
-sex could bestow upon her. I am glad that time has softened you so much,
+sex could bestow upon her. I am glad that [[Time|time]] has softened you so much,
 Miss Dartle.’
 
 She condescended to make no reply, but, turning on me with another
@@ -121,9 +121,9 @@ to know what is known of her?’
 
 ‘Yes,’ said I.
 
-She rose with an ill-favoured smile, and taking a few steps towards
+She [[Rose|rose]] with an ill-favoured smile, and taking a few steps towards
 a wall of holly that was near at hand, dividing the lawn from a
-kitchen-garden, said, in a louder voice, ‘Come here!’--as if she were
+kitchen-[[Garden|garden]], said, in a louder voice, ‘Come here!’--as if she were
 calling to some unclean beast.
 
 ‘You will restrain any demonstrative championship or vengeance in this
@@ -140,7 +140,7 @@ worthy of a cruel Princess in a Legend.
 
 ‘Now,’ said she, imperiously, without glancing at him, and touching
 the old wound as it throbbed: perhaps, in this instance, with pleasure
-rather than pain. ‘Tell Mr. Copperfield about the flight.’
+rather than [[Pain|pain]]. ‘Tell Mr. Copperfield about the flight.’
 
 ‘Mr. James and myself, ma’am--’
 
@@ -157,14 +157,14 @@ agreeable to him; and began again.
 ‘Mr. James and myself have been abroad with the young woman, ever
 since she left Yarmouth under Mr. James’s protection. We have been in a
 variety of places, and seen a deal of foreign country. We have been in
-France, Switzerland, Italy, in fact, almost all parts.’
+France, Switzerland, [[Italy]], in fact, almost all parts.’
 
 He looked at the back of the seat, as if he were addressing himself to
 that; and softly played upon it with his hands, as if he were striking
 chords upon a dumb piano.
 
 ‘Mr. James took quite uncommonly to the young woman; and was more
-settled, for a length of time, than I have known him to be since I have
+settled, for a length of [[Time|time]], than I have known him to be since I have
 been in his service. The young woman was very improvable, and spoke the
 languages; and wouldn’t have been known for the same country-person. I
 noticed that she was much admired wherever we went.’
@@ -184,14 +184,14 @@ other, as he settled himself on one leg, Mr. Littimer proceeded, with
 his eyes cast down, and his respectable head a little advanced, and a
 little on one side:
 
-‘The young woman went on in this manner for some time, being
+‘The young woman went on in this manner for some [[Time|time]], being
 occasionally low in her spirits, until I think she began to weary Mr.
 James by giving way to her low spirits and tempers of that kind; and
 things were not so comfortable. Mr. James he began to be restless again.
 The more restless he got, the worse she got; and I must say, for myself,
-that I had a very difficult time of it indeed between the two. Still
+that I had a very difficult [[Time|time]] of it indeed between the two. Still
 matters were patched up here, and made good there, over and over again;
-and altogether lasted, I am sure, for a longer time than anybody could
+and altogether lasted, I am sure, for a longer [[Time|time]] than anybody could
 have expected.’
 
 Recalling her eyes from the distance, she looked at me again now, with
@@ -233,22 +233,22 @@ intention, then the young woman came out in her true colours. A more
 outrageous person I never did see. Her conduct was surprisingly bad. She
 had no more gratitude, no more feeling, no more patience, no more reason
 in her, than a stock or a stone. If I hadn’t been upon my guard, I am
-convinced she would have had my blood.’
+convinced she would have had my [[Blood|blood]].’
 
 ‘I think the better of her for it,’ said I, indignantly.
 
 Mr. Littimer bent his head, as much as to say, ‘Indeed, sir? But you’re
 young!’ and resumed his narrative.
 
-‘It was necessary, in short, for a time, to take away everything nigh
+‘It was necessary, in short, for a [[Time|time]], to take away everything nigh
 her, that she could do herself, or anybody else, an injury with, and
-to shut her up close. Notwithstanding which, she got out in the night;
-forced the lattice of a window, that I had nailed up myself; dropped on
+to shut her up close. Notwithstanding which, she got out in the [[Night|night]];
+forced the lattice of a [[Window|window]], that I had nailed up myself; dropped on
 a vine that was trailed below; and never has been seen or heard of, to
 my knowledge, since.’
 
 ‘She is dead, perhaps,’ said Miss Dartle, with a smile, as if she could
-have spurned the body of the ruined girl.
+have spurned the [[Body|body]] of the ruined girl.
 
 ‘She may have drowned herself, miss,’ returned Mr. Littimer, catching at
 an excuse for addressing himself to somebody. ‘It’s very possible. Or,
@@ -260,9 +260,9 @@ Mr. James was far from pleased to find out, once, that she had told the
 children she was a boatman’s daughter, and that in her own country, long
 ago, she had roamed about the beach, like them.’
 
-Oh, Emily! Unhappy beauty! What a picture rose before me of her sitting
+Oh, Emily! Unhappy [[Beauty|beauty]]! What a picture [[Rose|rose]] before me of her sitting
 on the far-off shore, among the children like herself when she was
-innocent, listening to little voices such as might have called her
+[[Innocent|innocent]], listening to little voices such as might have called her
 Mother had she been a poor man’s wife; and to the great voice of the
 sea, with its eternal ‘Never more!’
 
@@ -283,7 +283,7 @@ I felt it due to my character to leave him. I could bear, and I have
 borne, a great deal from Mr. James; but he insulted me too far. He hurt
 me. Knowing the unfortunate difference between himself and his mother,
 and what her anxiety of mind was likely to be, I took the liberty of
-coming home to England, and relating--’
+coming [[Home|home]] to England, and relating--’
 
 ‘For money which I paid him,’ said Miss Dartle to me.
 
@@ -298,7 +298,7 @@ occurred to my mind, I said in reply:
 
 ‘I could wish to know from this--creature,’ I could not bring myself
 to utter any more conciliatory word, ‘whether they intercepted a letter
-that was written to her from home, or whether he supposes that she
+that was written to her from [[Home|home]], or whether he supposes that she
 received it.’
 
 He remained calm and silent, with his eyes fixed on the ground, and the
@@ -331,7 +331,7 @@ going.’
 I indicated that I had nothing more to say. ‘Except,’ I added, as I
 saw him moving off, ‘that I understand this fellow’s part in the wicked
 story, and that, as I shall make it known to the honest man who has been
-her father from her childhood, I would recommend him to avoid going too
+her father from her [[Childhood|childhood]], I would recommend him to avoid going too
 much into public.’
 
 He had stopped the moment I began, and had listened with his usual
@@ -345,21 +345,21 @@ speaking, I am not at all afraid of going wherever I may wish, sir.’
 
 With that, he made a polite bow; and, with another to Miss Dartle, went
 away through the arch in the wall of holly by which he had come. Miss
-Dartle and I regarded each other for a little while in silence; her
+Dartle and I regarded each other for a little while in [[Silence|silence]]; her
 manner being exactly what it was, when she had produced the man.
 
 ‘He says besides,’ she observed, with a slow curling of her lip, ‘that
 his master, as he hears, is coasting Spain; and this done, is away
 to gratify his seafaring tastes till he is weary. But this is of no
 interest to you. Between these two proud persons, mother and son, there
-is a wider breach than before, and little hope of its healing, for they
-are one at heart, and time makes each more obstinate and imperious.
+is a wider breach than before, and little [[Hope|hope]] of its healing, for they
+are one at heart, and [[Time|time]] makes each more obstinate and imperious.
 Neither is this of any interest to you; but it introduces what I wish to
 say. This devil whom you make an angel of. I mean this low girl whom he
 picked out of the tide-mud,’ with her black eyes full upon me, and her
 passionate finger up, ‘may be alive,--for I believe some common things
-are hard to die. If she is, you will desire to have a pearl of such
-price found and taken care of. We desire that, too; that he may not
+are hard to die. If she is, you will [[Desire|desire]] to have a pearl of such
+price found and taken care of. We [[Desire|desire]] that, too; that he may not
 by any chance be made her prey again. So far, we are united in one
 interest; and that is why I, who would do her any mischief that so
 coarse a wretch is capable of feeling, have sent for you to hear what
@@ -369,11 +369,11 @@ I saw, by the change in her face, that someone was advancing behind me.
 It was Mrs. Steerforth, who gave me her hand more coldly than of yore,
 and with an augmentation of her former stateliness of manner, but still,
 I perceived--and I was touched by it--with an ineffaceable remembrance
-of my old love for her son. She was greatly altered. Her fine figure was
+of my old [[Love|love]] for her son. She was greatly altered. Her fine figure was
 far less upright, her handsome face was deeply marked, and her hair was
 almost white. But when she sat down on the seat, she was a handsome lady
-still; and well I knew the bright eye with its lofty look, that had been
-a light in my very dreams at school.
+still; and [[Well|well]] I knew the bright eye with its lofty look, that had been
+a light in my very [[Dreams|dreams]] at school.
 
 ‘Is Mr. Copperfield informed of everything, Rosa?’
 
@@ -387,24 +387,24 @@ me, ‘but it has not restored his sense of duty or natural obligation.
 Therefore I have no other object in this, than what Rosa has mentioned.
 If, by the course which may relieve the mind of the decent man you
 brought here (for whom I am sorry--I can say no more), my son may be
-saved from again falling into the snares of a designing enemy, well!’
+saved from again falling into the snares of a designing enemy, [[Well|well]]!’
 
 She drew herself up, and sat looking straight before her, far away.
 
 ‘Madam,’ I said respectfully, ‘I understand. I assure you I am in no
 danger of putting any strained construction on your motives. But I must
-say, even to you, having known this injured family from childhood,
+say, even to you, having known this injured family from [[Childhood|childhood]],
 that if you suppose the girl, so deeply wronged, has not been cruelly
 deluded, and would not rather die a hundred deaths than take a cup of
-water from your son’s hand now, you cherish a terrible mistake.’
+[[Water|water]] from your son’s hand now, you cherish a terrible mistake.’
 
-‘Well, Rosa, well!’ said Mrs. Steerforth, as the other was about to
+‘[[Well]], Rosa, [[Well|well]]!’ said Mrs. Steerforth, as the other was about to
 interpose, ‘it is no matter. Let it be. You are married, sir, I am
 told?’
 
-I answered that I had been some time married.
+I answered that I had been some [[Time|time]] married.
 
-‘And are doing well? I hear little in the quiet life I lead, but I
+‘And are doing [[Well|well]]? I hear little in the quiet life I lead, but I
 understand you are beginning to be famous.’
 
 ‘I have been very fortunate,’ I said, ‘and find my name connected with
@@ -415,10 +415,10 @@ some praise.’
 ‘No.’
 
 ‘It is a pity,’ she returned. ‘She would have been proud of you. Good
-night!’
+[[Night|night]]!’
 
 I took the hand she held out with a dignified, unbending air, and it
-was as calm in mine as if her breast had been at peace. Her pride could
+was as calm in mine as if her breast had been at peace. Her [[Pride|pride]] could
 still its very pulses, it appeared, and draw the placid veil before
 her face, through which she sat looking straight before her on the far
 distance.
@@ -426,7 +426,7 @@ distance.
 As I moved away from them along the terrace, I could not help observing
 how steadily they both sat gazing on the prospect, and how it thickened
 and closed around them. Here and there, some early lamps were seen to
-twinkle in the distant city; and in the eastern quarter of the sky
+twinkle in the distant [[City|city]]; and in the eastern quarter of the sky
 the lurid light still hovered. But, from the greater part of the broad
 valley interposed, a mist was rising like a sea, which, mingling with
 the darkness, made it seem as if the gathering waters would encompass
@@ -436,23 +436,23 @@ feet.
 
 Reflecting on what had been thus told me, I felt it right that it should
 be communicated to Mr. Peggotty. On the following evening I went into
-London in quest of him. He was always wandering about from place to
+[[London]] in [[Quest|quest]] of him. He was always wandering about from place to
 place, with his one object of recovering his niece before him; but was
-more in London than elsewhere. Often and often, now, had I seen him in
-the dead of night passing along the streets, searching, among the few
+more in [[London]] than elsewhere. Often and often, now, had I seen him in
+the dead of [[Night|night]] passing along the streets, searching, among the few
 who loitered out of doors at those untimely hours, for what he dreaded
 to find.
 
 He kept a lodging over the little chandler’s shop in Hungerford Market,
 which I have had occasion to mention more than once, and from which he
-first went forth upon his errand of mercy. Hither I directed my walk. On
-making inquiry for him, I learned from the people of the house that he
+first went forth upon his errand of [[Mercy|mercy]]. Hither I directed my walk. On
+making inquiry for him, I learned from the people of the [[house]] that he
 had not gone out yet, and I should find him in his room upstairs.
 
-He was sitting reading by a window in which he kept a few plants. The
+He was sitting reading by a [[Window|window]] in which he kept a few plants. The
 room was very neat and orderly. I saw in a moment that it was always
 kept prepared for her reception, and that he never went out but he
-thought it possible he might bring her home. He had not heard my tap
+thought it possible he might bring her [[Home|home]]. He had not heard my tap
 at the door, and only raised his eyes when I laid my hand upon his
 shoulder.
 
@@ -469,8 +469,8 @@ he fixed his eyes on mine.
 
 ‘It gives no clue to where she is; but she is not with him.’
 
-He sat down, looking intently at me, and listened in profound silence
-to all I had to tell. I well remember the sense of dignity, beauty even,
+He sat down, looking intently at me, and listened in profound [[Silence|silence]]
+to all I had to tell. I [[Well|well]] remember the sense of dignity, [[Beauty|beauty]] even,
 with which the patient gravity of his face impressed me, when, having
 gradually removed his eyes from mine, he sat looking downward, leaning
 his forehead on his hand. He offered no interruption, but remained
@@ -479,15 +479,15 @@ the narrative, and to let every other shape go by him, as if it were
 nothing.
 
 When I had done, he shaded his face, and continued silent. I looked out
-of the window for a little while, and occupied myself with the plants.
+of the [[Window|window]] for a little while, and occupied myself with the plants.
 
 ‘How do you fare to feel about it, Mas’r Davy?’ he inquired at length.
 
 ‘I think that she is living,’ I replied.
 
 ‘I doen’t know. Maybe the first shock was too rough, and in the wildness
-of her art--! That there blue water as she used to speak on. Could she
-have thowt o’ that so many year, because it was to be her grave!’
+of her art--! That there blue [[Water|water]] as she used to speak on. Could she
+have thowt o’ that so many year, because it was to be her [[Grave|grave]]!’
 
 He said this, musing, in a low, frightened voice; and walked across the
 little room.
@@ -506,17 +506,17 @@ wheer it comes from, or how ‘tis, but I am told as she’s alive!’
 He looked almost like a man inspired, as he said it. I waited for a
 few moments, until he could give me his undivided attention; and then
 proceeded to explain the precaution, that, it had occurred to me last
-night, it would be wise to take.
+[[Night|night]], it would be wise to take.
 
 ‘Now, my dear friend--‘I began.
 
 ‘Thankee, thankee, kind sir,’ he said, grasping my hand in both of his.
 
-‘If she should make her way to London, which is likely--for where could
-she lose herself so readily as in this vast city; and what would she
-wish to do, but lose and hide herself, if she does not go home?--’
+‘If she should make her way to [[London]], which is likely--for where could
+she lose herself so readily as in this vast [[City|city]]; and what would she
+wish to do, but lose and hide herself, if she does not go [[Home|home]]?--’
 
-‘And she won’t go home,’ he interposed, shaking his head mournfully. ‘If
+‘And she won’t go [[Home|home]],’ he interposed, shaking his head mournfully. ‘If
 she had left of her own accord, she might; not as It was, sir.’
 
 ‘If she should come here,’ said I, ‘I believe there is one person,
@@ -528,28 +528,28 @@ object!--do you remember Martha?’
 
 I needed no other answer than his face.
 
-‘Do you know that she is in London?’
+‘Do you know that she is in [[London]]?’
 
 ‘I have seen her in the streets,’ he answered, with a shiver.
 
 ‘But you don’t know,’ said I, ‘that Emily was charitable to her, with
-Ham’s help, long before she fled from home. Nor, that, when we met one
-night, and spoke together in the room yonder, over the way, she listened
+Ham’s help, long before she fled from [[Home|home]]. Nor, that, when we met one
+[[Night|night]], and spoke together in the room yonder, over the way, she listened
 at the door.’
 
-‘Mas’r Davy!’ he replied in astonishment. ‘That night when it snew so
+‘Mas’r Davy!’ he replied in astonishment. ‘That [[Night|night]] when it snew so
 hard?’
 
-‘That night. I have never seen her since. I went back, after parting
+‘That [[Night|night]]. I have never seen her since. I went back, after parting
 from you, to speak to her, but she was gone. I was unwilling to mention
 her to you then, and I am now; but she is the person of whom I speak,
 and with whom I think we should communicate. Do you understand?’
 
-‘Too well, sir,’ he replied. We had sunk our voices, almost to a
+‘Too [[Well|well]], sir,’ he replied. We had sunk our voices, almost to a
 whisper, and continued to speak in that tone.
 
 ‘You say you have seen her. Do you think that you could find her? I
-could only hope to do so by chance.’
+could only [[Hope|hope]] to do so by chance.’
 
 ‘I think, Mas’r Davy, I know wheer to look.’
 
@@ -563,9 +563,9 @@ finally took out of a drawer one of her dresses (I remember to have
 seen her wear it), neatly folded with some other garments, and a bonnet,
 which he placed upon a chair. He made no allusion to these clothes,
 neither did I. There they had been waiting for her, many and many a
-night, no doubt.
+[[Night|night]], no [[Doubt|doubt]].
 
-‘The time was, Mas’r Davy,’ he said, as we came downstairs, ‘when I
+‘The [[Time|time]] was, Mas’r Davy,’ he said, as we came downstairs, ‘when I
 thowt this girl, Martha, a’most like the dirt underneath my Em’ly’s
 feet. God forgive me, theer’s a difference now!’
 
@@ -595,17 +595,17 @@ times, and never found no answer. And theer’s one curious thing--that,
 though he is so pleasant, I wouldn’t fare to feel comfortable to try and
 get his mind upon ‘t. He never said a wured to me as warn’t as dootiful
 as dootiful could be, and it ain’t likely as he’d begin to speak any
-other ways now; but it’s fur from being fleet water in his mind, where
+other ways now; but it’s fur from being fleet [[Water|water]] in his mind, where
 them thowts lays. It’s deep, sir, and I can’t see down.’
 
 ‘You are right,’ said I, ‘and that has sometimes made me anxious.’
 
 ‘And me too, Mas’r Davy,’ he rejoined. ‘Even more so, I do assure you,
 than his ventersome ways, though both belongs to the alteration in him.
-I doen’t know as he’d do violence under any circumstances, but I hope as
+I doen’t know as he’d do violence under any circumstances, but I [[Hope|hope]] as
 them two may be kep asunders.’
 
-We had come, through Temple Bar, into the city. Conversing no more now,
+We had come, through Temple Bar, into the [[City|city]]. Conversing no more now,
 and walking at my side, he yielded himself up to the one aim of his
 devoted life, and went on, with that hushed concentration of his
 faculties which would have made his figure solitary in a multitude.
@@ -613,12 +613,12 @@ We were not far from Blackfriars Bridge, when he turned his head and
 pointed to a solitary female figure flitting along the opposite side of
 the street. I knew it, readily, to be the figure that we sought.
 
-We crossed the road, and were pressing on towards her, when it occurred
+We crossed the [[Road|road]], and were pressing on towards her, when it occurred
 to me that she might be more disposed to feel a woman’s interest in the
 lost girl, if we spoke to her in a quieter place, aloof from the crowd,
 and where we should be less observed. I advised my companion, therefore,
 that we should not address her yet, but follow her; consulting in this,
-likewise, an indistinct desire I had, to know where she went.
+likewise, an indistinct [[Desire|desire]] I had, to know where she went.
 
 He acquiescing, we followed at a distance: never losing sight of her,
 but never caring to come very near, as she frequently looked about.
@@ -630,5 +630,5 @@ destination; and this, and her keeping in the busy streets, and I
 suppose the strange fascination in the secrecy and mystery of so
 following anyone, made me adhere to my first purpose. At length she
 turned into a dull, dark street, where the noise and crowd were lost;
-and I said, ‘We may speak to her now’; and, mending our pace, we went
+and I said, ‘We may speak to her now’; and, [[mending]] our pace, we went
 after her.

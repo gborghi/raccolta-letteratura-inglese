@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered-8 — CHRISTMAS (part 3)"
+title: "[[AllThingsConsidered-8]] — CHRISTMAS (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
@@ -27,13 +27,13 @@ ordinary vivisectionist argument, "Suppose your wife were dying."
 Vivisection is not done by a man whose wife is dying.
 If it were it might be lifted to the level of the moment,
 as would be lying or stealing bread, or any other ugly action.
-But this ugly action is done in cold blood, at leisure,
+But this ugly action is done in cold [[Blood|blood]], at leisure,
 by men who are not sure that it will be of any use to anybody--
 men of whom the most that can be said is that they may conceivably
 make the beginnings of some discovery which may perhaps save
 the life of some one else's wife in some remote future.
 That is too cold and distant to rob an act of its immediate horror.
-That is like training the child to tell lies for the sake of some great
+That is like training the [[Child|child]] to tell lies for the sake of some great
 dilemma that may never come to him.  You are doing a cruel thing,
 but not with enough passion to make it a kindly one.
 
@@ -56,20 +56,20 @@ and for which man is therefore gravely and terribly responsible.
 Meanwhile, it remains true that I shall eat a great deal of turkey
 this Christmas; and it is not in the least true (as the vegetarians say)
 that I shall do it because I do not realise what I am doing,
-or because I do what I know is wrong, or that I do it with shame or doubt
-or a fundamental unrest of conscience.  In one sense I know quite
-well what I am doing; in another sense I know quite well that I know
+or because I do what I know is wrong, or that I do it with shame or [[Doubt|doubt]]
+or a fundamental unrest of [[Conscience|conscience]].  In one sense I know quite
+[[Well|well]] what I am doing; in another sense I know quite [[Well|well]] that I know
 not what I do.  Scrooge and the Cratchits and I are, as I have said,
 all in one boat; the turkey and I are, to say the most of it,
-ships that pass in the night, and greet each other in passing.
-I wish him well; but it is really practically impossible to discover
-whether I treat him well.  I can avoid, and I do avoid with horror,
+ships that pass in the [[Night|night]], and greet each other in passing.
+I wish him [[Well|well]]; but it is really practically impossible to discover
+whether I treat him [[Well|well]].  I can avoid, and I do avoid with horror,
 all special and artificial tormenting of him, sticking pins in him
 for fun or sticking knives in him for scientific investigation.
 But whether by feeding him slowly and killing him quickly for the needs
 of my brethren, I have improved in his own solemn eyes his own strange
 and separate destiny, whether I have made him in the sight of God
-a slave or a martyr, or one whom the gods love and who die young--
+a slave or a martyr, or one whom the gods [[Love|love]] and who die young--
 that is far more removed from my possibilities of knowledge
 than the most abstruse intricacies of mysticism or theology.
 A turkey is more occult and awful than all the angels and archangels.

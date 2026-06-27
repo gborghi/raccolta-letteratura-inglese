@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 60 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 60 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -19,12 +19,12 @@ CHAPTER 60
 The Dangers thicken, and the Worst is told
 
 
-Instead of going home, Ralph threw himself into the first street
+Instead of going [[Home|home]], Ralph threw himself into the first street
 cabriolet he could find, and, directing the driver towards the
 police-office of the district in which Mr. Squeers’s misfortunes had
 occurred, alighted at a short distance from it, and, discharging the
 man, went the rest of his way thither on foot. Inquiring for the object
-of his solicitude, he learnt that he had timed his visit well; for Mr
+of his solicitude, he learnt that he had timed his visit [[Well|well]]; for Mr
 Squeers was, in fact, at that moment waiting for a hackney coach he had
 ordered, and in which he purposed proceeding to his week’s retirement,
 like a gentleman.
@@ -35,7 +35,7 @@ superior respectability, Mr. Squeers had been permitted to pass the day.
 Here, by the light of a guttering and blackened candle, he could barely
 discern the schoolmaster, fast asleep on a bench in a remote corner.
 An empty glass stood on a table before him, which, with his somnolent
-condition and a very strong smell of brandy and water, forewarned
+condition and a very strong smell of brandy and [[Water|water]], forewarned
 the visitor that Mr. Squeers had been seeking, in creature comforts, a
 temporary forgetfulness of his unpleasant situation.
 
@@ -44,8 +44,8 @@ his slumbers. Regaining his faculties by slow and faint glimmerings, he
 at length sat upright; and, displaying a very yellow face, a very
 red nose, and a very bristly beard: the joint effect of which was
 considerably heightened by a dirty white handkerchief, spotted with
-blood, drawn over the crown of his head and tied under his chin: stared
-ruefully at Ralph in silence, until his feelings found a vent in this
+[[Blood|blood]], drawn over the [[Crown|crown]] of his head and tied under his chin: stared
+ruefully at Ralph in [[Silence|silence]], until his feelings found a vent in this
 pithy sentence:
 
 ‘I say, young fellow, you’ve been and done it now; you have!’
@@ -62,7 +62,7 @@ what had befallen you?’
 ‘My family!’ hiccuped Mr. Squeers, raising his eye to the ceiling: ‘my
 daughter, as is at that age when all the sensibilities is a-coming out
 strong in blow--my son as is the young Norval of private life, and the
-pride and ornament of a doting willage--here’s a shock for my family!
+[[Pride|pride]] and ornament of a doting willage--here’s a shock for my family!
 The coat-of-arms of the Squeerses is tore, and their sun is gone down
 into the ocean wave!’
 
@@ -81,7 +81,7 @@ till they know something more of the case, so here am I hard and fast:
 and there are you, loose and comfortable.’
 
 ‘And so must you be in a few days,’ retorted Ralph, with affected
-good-humour. ‘They can’t hurt you, man.’
+good-[[Humour|humour]]. ‘They can’t hurt you, man.’
 
 ‘Why, I suppose they can’t do much to me, if I explain how it was that I
 got into the good company of that there ca-daverous old Slider,’ replied
@@ -93,7 +93,7 @@ in company with this woman; as you were detected in possession of
 this document; as you were engaged with her in fraudulently destroying
 others, and can give no satisfactory account of yourself; I shall remand
 you for a week, in order that inquiries may be made, and evidence got.
-And meanwhile I can’t take any bail for your appearance.” Well then,
+And meanwhile I can’t take any bail for your appearance.” [[Well]] then,
 what I say now is, that I CAN give a satisfactory account of myself;
 I can hand in the card of my establishment and say, “I am the Wackford
 Squeers as is therein named, sir. I am the man as is guaranteed,
@@ -107,33 +107,33 @@ to say; he’s the man; not me!”’
 ‘What document was it that you had?’ asked Ralph, evading, for the
 moment, the point just raised.
 
-‘What document? Why, THE document,’ replied Squeers. ‘The Madeline
+‘What document? Why, THE document,’ replied Squeers. ‘The [[Madeline]]
 What’s-her-name one. It was a will; that’s what it was.’
 
-‘Of what nature, whose will, when dated, how benefiting her, to what
+‘Of what [[Nature|nature]], whose will, when dated, how benefiting her, to what
 extent?’ asked Ralph hurriedly.
 
 ‘A will in her favour; that’s all I know,’ rejoined Squeers, ‘and that’s
 more than you’d have known, if you’d had them bellows on your head. It’s
 all owing to your precious caution that they got hold of it. If you had
 let me burn it, and taken my word that it was gone, it would have been a
-heap of ashes behind the fire, instead of being whole and sound, inside
+heap of ashes behind the [[Fire|fire]], instead of being whole and sound, inside
 of my great-coat.’
 
 ‘Beaten at every point!’ muttered Ralph.
 
-‘Ah!’ sighed Squeers, who, between the brandy and water and his broken
+‘Ah!’ sighed Squeers, who, between the brandy and [[Water|water]] and his broken
 head, wandered strangely, ‘at the delightful village of Dotheboys near
 Greta Bridge in Yorkshire, youth are boarded, clothed, booked, washed,
 furnished with pocket-money, provided with all necessaries, instructed
 in all languages living and dead, mathematics, orthography, geometry,
 astronomy, trigonometry--this is a altered state of trigonomics, this
-is! A double 1--all, everything--a cobbler’s weapon. U-p-up, adjective,
-not down. S-q-u-double e-r-s-Squeers, noun substantive, a educator of
+is! A [[Double|double]] 1--all, everything--a cobbler’s weapon. U-p-up, adjective,
+not down. S-q-u-[[Double|double]] e-r-s-Squeers, noun substantive, a educator of
 youth. Total, all up with Squeers!’
 
 His running on, in this way, had afforded Ralph an opportunity of
 recovering his presence of mind, which at once suggested to him
 the necessity of removing, as far as possible, the schoolmaster’s
 misgivings, and leading him to believe that his safety and best policy
-lay in the preservation of a rigid silence.
+lay in the preservation of a rigid [[Silence|silence]].

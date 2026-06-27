@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 34: MY AUNT ASTONISHES ME"
+title: "[[David Copperfield]] — Chapter 34: MY AUNT ASTONISHES ME"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -25,32 +25,32 @@ least resemblance to the boyish fancies that we used to joke about. I
 assured her that its profundity was quite unfathomable, and expressed my
 belief that nothing like it had ever been known.
 
-Somehow, as I wrote to Agnes on a fine evening by my open window, and
+Somehow, as I wrote to Agnes on a fine evening by my open [[Window|window]], and
 the remembrance of her clear calm eyes and gentle face came stealing
 over me, it shed such a peaceful influence upon the hurry and agitation
 in which I had been living lately, and of which my very happiness
-partook in some degree, that it soothed me into tears. I remember that
+partook in some degree, that it soothed me into [[Tears|tears]]. I remember that
 I sat resting my head upon my hand, when the letter was half done,
 cherishing a general fancy as if Agnes were one of the elements of my
-natural home. As if, in the retirement of the house made almost sacred
+natural [[Home|home]]. As if, in the retirement of the [[house]] made almost sacred
 to me by her presence, Dora and I must be happier than anywhere. As if,
-in love, joy, sorrow, hope, or disappointment; in all emotions; my heart
+in [[Love|love]], joy, sorrow, [[Hope|hope]], or disappointment; in all emotions; my heart
 turned naturally there, and found its refuge and best friend.
 
 Of Steerforth I said nothing. I only told her there had been sad grief
 at Yarmouth, on account of Emily’s flight; and that on me it made a
-double wound, by reason of the circumstances attending it. I knew how
-quick she always was to divine the truth, and that she would never be
+[[Double|double]] wound, by reason of the circumstances attending it. I knew how
+quick she always was to divine the [[Truth|truth]], and that she would never be
 the first to breathe his name.
 
 To this letter, I received an answer by return of post. As I read it, I
 seemed to hear Agnes speaking to me. It was like her cordial voice in my
 ears. What can I say more!
 
-While I had been away from home lately, Traddles had called twice or
+While I had been away from [[Home|home]] lately, Traddles had called twice or
 thrice. Finding Peggotty within, and being informed by Peggotty (who
 always volunteered that information to whomsoever would receive
-it), that she was my old nurse, he had established a good-humoured
+it), that she was my old [[Nurse|nurse]], he had established a good-humoured
 acquaintance with her, and had stayed to have a little chat with her
 about me. So Peggotty said; but I am afraid the chat was all on her
 own side, and of immoderate length, as she was very difficult indeed to
@@ -62,7 +62,7 @@ had resigned everything appertaining to her office (the salary excepted)
 until Peggotty should cease to present herself. Mrs. Crupp, after
 holding divers conversations respecting Peggotty, in a very high-pitched
 voice, on the staircase--with some invisible Familiar it would appear,
-for corporeally speaking she was quite alone at those times--addressed a
+for corporeally speaking she was quite [[Alone|alone]] at those times--addressed a
 letter to me, developing her views. Beginning it with that statement
 of universal application, which fitted every occurrence of her life,
 namely, that she was a mother herself, she went on to inform me that
@@ -93,25 +93,25 @@ of it.
 in spite of all these obstacles, ‘how do you do?’
 
 ‘My dear Traddles,’ said I, ‘I am delighted to see you at last, and very
-sorry I have not been at home before. But I have been so much engaged--’
+sorry I have not been at [[Home|home]] before. But I have been so much engaged--’
 
-‘Yes, yes, I know,’ said Traddles, ‘of course. Yours lives in London, I
+‘Yes, yes, I know,’ said Traddles, ‘of course. Yours lives in [[London]], I
 think.’
 
 ‘What did you say?’
 
 ‘She--excuse me--Miss D., you know,’ said Traddles, colouring in his
-great delicacy, ‘lives in London, I believe?’
+great delicacy, ‘lives in [[London]], I believe?’
 
-‘Oh yes. Near London.’
+‘Oh yes. Near [[London]].’
 
 ‘Mine, perhaps you recollect,’ said Traddles, with a serious look,
 ‘lives down in Devonshire--one of ten. Consequently, I am not so much
 engaged as you--in that sense.’
 
-‘I wonder you can bear,’ I returned, ‘to see her so seldom.’
+‘I [[Wonder|wonder]] you can bear,’ I returned, ‘to see her so seldom.’
 
-‘Hah!’ said Traddles, thoughtfully. ‘It does seem a wonder. I suppose it
+‘Hah!’ said Traddles, thoughtfully. ‘It does seem a [[Wonder|wonder]]. I suppose it
 is, Copperfield, because there is no help for it?’
 
 ‘I suppose so,’ I replied with a smile, and not without a blush. ‘And
@@ -121,12 +121,12 @@ because you have so much constancy and patience, Traddles.’
 way, Copperfield? Really I didn’t know that I had. But she is such
 an extraordinarily dear girl herself, that it’s possible she may
 have imparted something of those virtues to me. Now you mention it,
-Copperfield, I shouldn’t wonder at all. I assure you she is always
+Copperfield, I shouldn’t [[Wonder|wonder]] at all. I assure you she is always
 forgetting herself, and taking care of the other nine.’
 
 ‘Is she the eldest?’ I inquired.
 
-‘Oh dear, no,’ said Traddles. ‘The eldest is a Beauty.’
+‘Oh dear, no,’ said Traddles. ‘The eldest is a [[Beauty]].’
 
 He saw, I suppose, that I could not help smiling at the simplicity of
 this reply; and added, with a smile upon his own ingenuous face:
@@ -138,7 +138,7 @@ think?’
 
 ‘Not, of course, but that Sophy is beautiful too in my eyes, and would
 be one of the dearest girls that ever was, in anybody’s eyes (I should
-think). But when I say the eldest is a Beauty, I mean she really is
+think). But when I say the eldest is a [[Beauty]], I mean she really is
 a--’ he seemed to be describing clouds about himself, with both hands:
 ‘Splendid, you know,’ said Traddles, energetically. ‘Indeed!’ said I.
 
@@ -146,7 +146,7 @@ a--’ he seemed to be describing clouds about himself, with both hands:
 Then, you know, being formed for society and admiration, and not being
 able to enjoy much of it in consequence of their limited means, she
 naturally gets a little irritable and exacting, sometimes. Sophy puts
-her in good humour!’
+her in good [[Humour|humour]]!’
 
 ‘Is Sophy the youngest?’ I hazarded.
 
@@ -173,19 +173,19 @@ it is not so bad as it might be, because Sophy takes her place. She is
 quite as much a mother to her mother, as she is to the other nine.’
 
 I felt the greatest admiration for the virtues of this young lady; and,
-honestly with the view of doing my best to prevent the good-nature
+honestly with the view of doing my best to prevent the good-[[Nature|nature]]
 of Traddles from being imposed upon, to the detriment of their joint
 prospects in life, inquired how Mr. Micawber was?
 
-‘He is quite well, Copperfield, thank you,’ said Traddles. ‘I am not
+‘He is quite [[Well|well]], Copperfield, thank you,’ said Traddles. ‘I am not
 living with him at present.’
 
 ‘No?’
 
-‘No. You see the truth is,’ said Traddles, in a whisper, ‘he had changed
+‘No. You see the [[Truth|truth]] is,’ said Traddles, in a whisper, ‘he had changed
 his name to Mortimer, in consequence of his temporary embarrassments;
 and he don’t come out till after dark--and then in spectacles. There was
-an execution put into our house, for rent. Mrs. Micawber was in such
+an execution put into our [[house]], for rent. Mrs. Micawber was in such
 a dreadful state that I really couldn’t resist giving my name to that
 second bill we spoke of here. You may imagine how delightful it was to
 my feelings, Copperfield, to see the matter settled with it, and Mrs.
@@ -195,7 +195,7 @@ Micawber recover her spirits.’
 Traddles, ‘for, unfortunately, within a week another execution came
 in. It broke up the establishment. I have been living in a furnished
 apartment since then, and the Mortimers have been very private indeed.
-I hope you won’t think it selfish, Copperfield, if I mention that
+I [[Hope|hope]] you won’t think it selfish, Copperfield, if I mention that
 the broker carried off my little round table with the marble top, and
 Sophy’s flower-pot and stand?’
 
@@ -204,15 +204,15 @@ Sophy’s flower-pot and stand?’
 ‘It was a--it was a pull,’ said Traddles, with his usual wince at that
 expression. ‘I don’t mention it reproachfully, however, but with a
 motive. The fact is, Copperfield, I was unable to repurchase them at the
-time of their seizure; in the first place, because the broker, having an
+[[Time|time]] of their seizure; in the first place, because the broker, having an
 idea that I wanted them, ran the price up to an extravagant extent; and,
 in the second place, because I--hadn’t any money. Now, I have kept
 my eye since, upon the broker’s shop,’ said Traddles, with a great
-enjoyment of his mystery, ‘which is up at the top of Tottenham Court
-Road, and, at last, today I find them put out for sale. I have only
+enjoyment of his mystery, ‘which is up at the top of Tottenham [[Court]]
+[[Road]], and, at last, today I find them put out for sale. I have only
 noticed them from over the way, because if the broker saw me, bless you,
 he’d ask any price for them! What has occurred to me, having now the
-money, is, that perhaps you wouldn’t object to ask that good nurse of
+money, is, that perhaps you wouldn’t object to ask that good [[Nurse|nurse]] of
 yours to come with me to the shop--I can show it her from round the
 corner of the next street--and make the best bargain for them, as if
 they were for herself, that she can!’
@@ -221,7 +221,7 @@ The delight with which Traddles propounded this plan to me, and the
 sense he had of its uncommon artfulness, are among the freshest things
 in my remembrance.
 
-I told him that my old nurse would be delighted to assist him, and that
+I told him that my old [[Nurse|nurse]] would be delighted to assist him, and that
 we would all three take the field together, but on one condition. That
 condition was, that he should make a solemn resolution to grant no more
 loans of his name, or anything else, to Mr. Micawber.
@@ -231,7 +231,7 @@ I begin to feel that I have not only been inconsiderate, but that I have
 been positively unjust to Sophy. My word being passed to myself, there
 is no longer any apprehension; but I pledge it to you, too, with the
 greatest readiness. That first unlucky obligation, I have paid. I have
-no doubt Mr. Micawber would have paid it if he could, but he could not.
+no [[Doubt|doubt]] Mr. Micawber would have paid it if he could, but he could not.
 One thing I ought to mention, which I like very much in Mr. Micawber,
 Copperfield. It refers to the second obligation, which is not yet due.
 He don’t tell me that it is provided for, but he says it WILL BE. Now, I
@@ -246,24 +246,24 @@ re-purchase it, and because it was the evening he always devoted to
 writing to the dearest girl in the world.
 
 I never shall forget him peeping round the corner of the street in
-Tottenham Court Road, while Peggotty was bargaining for the precious
+Tottenham [[Court]] [[Road]], while Peggotty was bargaining for the precious
 articles; or his agitation when she came slowly towards us after vainly
 offering a price, and was hailed by the relenting broker, and went back
 again. The end of the negotiation was, that she bought the property on
 tolerably easy terms, and Traddles was transported with pleasure.
 
 ‘I am very much obliged to you, indeed,’ said Traddles, on hearing it
-was to be sent to where he lived, that night. ‘If I might ask one other
-favour, I hope you would not think it absurd, Copperfield?’
+was to be sent to where he lived, that [[Night|night]]. ‘If I might ask one other
+favour, I [[Hope|hope]] you would not think it absurd, Copperfield?’
 
 I said beforehand, certainly not.
 
 ‘Then if you WOULD be good enough,’ said Traddles to Peggotty, ‘to
 get the flower-pot now, I think I should like (it being Sophy’s,
-Copperfield) to carry it home myself!’
+Copperfield) to carry it [[Home|home]] myself!’
 
 Peggotty was glad to get it for him, and he overwhelmed her with thanks,
-and went his way up Tottenham Court Road, carrying the flower-pot
+and went his way up Tottenham [[Court]] [[Road]], carrying the flower-pot
 affectionately in his arms, with one of the most delighted expressions
 of countenance I ever saw.
 
@@ -281,7 +281,7 @@ standing open (which I had shut) and to hear voices inside.
 We looked at one another, without knowing what to make of this, and went
 into the sitting-room. What was my amazement to find, of all people upon
 earth, my aunt there, and Mr. Dick! My aunt sitting on a quantity of
-luggage, with her two birds before her, and her cat on her knee, like a
+luggage, with her two [[Birds|birds]] before her, and her cat on her knee, like a
 female Robinson Crusoe, drinking tea. Mr. Dick leaning thoughtfully on
 a great kite, such as we had often been out together to fly, with more
 luggage piled about him!
@@ -290,7 +290,7 @@ luggage piled about him!
 
 We cordially embraced; and Mr. Dick and I cordially shook hands; and
 Mrs. Crupp, who was busy making tea, and could not be too attentive,
-cordially said she had knowed well as Mr. Copperfull would have his
+cordially said she had knowed [[Well|well]] as Mr. Copperfull would have his
 heart in his mouth, when he see his dear relations.
 
 ‘Holloa!’ said my aunt to Peggotty, who quailed before her awful
@@ -298,7 +298,7 @@ presence. ‘How are YOU?’
 
 ‘You remember my aunt, Peggotty?’ said I.
 
-‘For the love of goodness, child,’ exclaimed my aunt, ‘don’t call the
+‘For the [[Love|love]] of goodness, [[Child|child]],’ exclaimed my aunt, ‘don’t call the
 woman by that South Sea Island name! If she married and got rid of
 it, which was the best thing she could do, why don’t you give her the
 benefit of the change? What’s your name now,--P?’ said my aunt, as a
@@ -306,8 +306,8 @@ compromise for the obnoxious appellation.
 
 ‘Barkis, ma’am,’ said Peggotty, with a curtsey.
 
-‘Well! That’s human,’ said my aunt. ‘It sounds less as if you wanted a
-missionary. How d’ye do, Barkis? I hope you’re well?’
+‘[[Well]]! That’s human,’ said my aunt. ‘It sounds less as if you wanted a
+missionary. How d’ye do, Barkis? I [[Hope|hope]] you’re [[Well|well]]?’
 
 Encouraged by these gracious words, and by my aunt’s extending her
 hand, Barkis came forward, and took the hand, and curtseyed her
@@ -338,14 +338,14 @@ Crupp.
 a rasher? Ain’t there nothing I could do for your dear aunt, Mr.
 Copperfull?’
 
-‘Nothing, ma’am,’ returned my aunt. ‘I shall do very well, I thank you.’
+‘Nothing, ma’am,’ returned my aunt. ‘I shall do very [[Well|well]], I thank you.’
 
 Mrs. Crupp, who had been incessantly smiling to express sweet temper,
 and incessantly holding her head on one side, to express a general
 feebleness of constitution, and incessantly rubbing her hands, to
-express a desire to be of service to all deserving objects, gradually
+express a [[Desire|desire]] to be of service to all deserving objects, gradually
 smiled herself, one-sided herself, and rubbed herself, out of the room.
-‘Dick!’ said my aunt. ‘You know what I told you about time-servers and
+‘Dick!’ said my aunt. ‘You know what I told you about [[Time|time]]-servers and
 wealth-worshippers?’
 
 Mr. Dick--with rather a scared look, as if he had forgotten it--returned
@@ -355,18 +355,18 @@ a hasty answer in the affirmative.
 look after the tea, and let me have another cup, for I don’t fancy that
 woman’s pouring-out!’
 
-I knew my aunt sufficiently well to know that she had something of
+I knew my aunt sufficiently [[Well|well]] to know that she had something of
 importance on her mind, and that there was far more matter in this
 arrival than a stranger might have supposed. I noticed how her eye
 lighted on me, when she thought my attention otherwise occupied; and
 what a curious process of hesitation appeared to be going on within
 her, while she preserved her outward stiffness and composure. I began
-to reflect whether I had done anything to offend her; and my conscience
+to reflect whether I had done anything to offend her; and my [[Conscience|conscience]]
 whispered me that I had not yet told her about Dora. Could it by any
 means be that, I wondered!
 
-As I knew she would only speak in her own good time, I sat down near
-her, and spoke to the birds, and played with the cat, and was as easy
+As I knew she would only speak in her own good [[Time|time]], I sat down near
+her, and spoke to the [[Birds|birds]], and played with the cat, and was as easy
 as I could be. But I was very far from being really easy; and I should
 still have been so, even if Mr. Dick, leaning over the great kite behind
 my aunt, had not taken every secret opportunity of shaking his head
@@ -374,22 +374,22 @@ darkly at me, and pointing at her.
 
 ‘Trot,’ said my aunt at last, when she had finished her tea, and
 carefully smoothed down her dress, and wiped her lips--‘you needn’t go,
-Barkis!--Trot, have you got to be firm and self-reliant?’
+Barkis!--Trot, have you got to be firm and [[Self|self]]-reliant?’
 
-‘I hope so, aunt.’
+‘I [[Hope|hope]] so, aunt.’
 
 ‘What do you think?’ inquired Miss Betsey.
 
 ‘I think so, aunt.’
 
-‘Then why, my love,’ said my aunt, looking earnestly at me, ‘why do you
+‘Then why, my [[Love|love]],’ said my aunt, looking earnestly at me, ‘why do you
 think I prefer to sit upon this property of mine tonight?’
 
 I shook my head, unable to guess.
 
 ‘Because,’ said my aunt, ‘it’s all I have. Because I’m ruined, my dear!’
 
-If the house, and every one of us, had tumbled out into the river
+If the [[house]], and every one of us, had tumbled out into the [[River|river]]
 together, I could hardly have received a greater shock.
 
 ‘Dick knows it,’ said my aunt, laying her hand calmly on my shoulder. ‘I

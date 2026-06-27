@@ -1,5 +1,5 @@
 ---
-title: "The Fall of the House of Usher (part 4)"
+title: "[[The Fall of the House of Usher]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Fall-of-the-House-of-Usher-(Poe)"
@@ -19,7 +19,7 @@ tags:
       although feebly, in words. A small picture presented the interior
       of an immensely long and rectangular vault or tunnel, with low
       walls, smooth, white, and without interruption or device. Certain
-      accessory points of the design served well to convey the idea
+      accessory points of the design served [[Well|well]] to convey the idea
       that this excavation lay at an exceeding depth below the surface
       of the earth. No outlet was observed in any portion of its vast
       extent, and no torch, or other artificial source of light was
@@ -33,7 +33,7 @@ tags:
       the guitar, which gave birth, in great measure, to the fantastic
       character of his performances. But the fervid _facility_ of his
       _impromptus_ could not be so accounted for. They must have been,
-      and were, in the notes, as well as in the words of his wild
+      and were, in the notes, as [[Well|well]] as in the words of his wild
       fantasias (for he not unfrequently accompanied himself with
       rhymed verbal improvisations), the result of that intense mental
       collectedness and concentration to which I have previously
@@ -42,9 +42,9 @@ tags:
       have easily remembered. I was, perhaps, the more forcibly
       impressed with it, as he gave it, because, in the under or mystic
       current of its meaning, I fancied that I perceived, and for the
-      first time, a full consciousness on the part of Usher of the
+      first [[Time|time]], a full consciousness on the part of Usher of the
       tottering of his lofty reason upon her throne. The verses, which
-      were entitled “The Haunted Palace,” ran very nearly, if not
+      were entitled “[[The Haunted Palace]],” ran very nearly, if not
       accurately, thus:
 
                         I.
@@ -61,7 +61,7 @@ tags:
      Banners yellow, glorious, golden,
     On its roof did float and flow;
      (This—all this—was in the olden
-    Time long ago)
+    [[Time]] long ago)
      And every gentle air that dallied,
     In that sweet day,
      Along the ramparts plumed and pallid,
@@ -71,10 +71,10 @@ tags:
      Wanderers in that happy valley
     Through two luminous windows saw
      Spirits moving musically
-    To a lute’s well-tunéd law,
+    To a lute’s [[Well|well]]-tunéd law,
      Round about a throne, where sitting
     (Porphyrogene!)
-     In state his glory well befitting,
+     In state his glory [[Well|well]] befitting,
     The ruler of the realm was seen.
 
                         IV.
@@ -84,30 +84,30 @@ tags:
     And sparkling evermore,
      A troop of Echoes whose sweet duty
     Was but to sing,
-     In voices of surpassing beauty,
-    The wit and wisdom of their king.
+     In voices of surpassing [[Beauty|beauty]],
+    The wit and wisdom of their [[King|king]].
 
                         V.
      But evil things, in robes of sorrow,
     Assailed the monarch’s high estate;
      (Ah, let us mourn, for never morrow
-    Shall dawn upon him, desolate!)
-     And, round about his home, the glory
+    Shall [[Dawn|dawn]] upon him, desolate!)
+     And, round about his [[Home|home]], the glory
     That blushed and bloomed
      Is but a dim-remembered story
-    Of the old time entombed.
+    Of the old [[Time|time]] entombed.
 
                         VI.
      And travellers now within that valley,
     Through the red-litten windows, see
      Vast forms that move fantastically
     To a discordant melody;
-     While, like a rapid ghastly river,
+     While, like a rapid ghastly [[River|river]],
     Through the pale door,
      A hideous throng rush out forever,
     And laugh—but smile no more.
 
-      I well remember that suggestions arising from this ballad, led us
+      I [[Well|well]] remember that suggestions arising from this ballad, led us
       into a train of thought wherein there became manifest an opinion
       of Usher’s which I mention not so much on account of its novelty,
       (for other men * have thought thus,) as on account of the
@@ -116,14 +116,14 @@ tags:
       But, in his disordered fancy, the idea had assumed a more daring
       character, and trespassed, under certain conditions, upon the
       kingdom of inorganization. I lack words to express the full
-      extent, or the earnest _abandon_ of his persuasion. The belief,
+      extent, or the earnest _abandon_ of his [[Persuasion|persuasion]]. The belief,
       however, was connected (as I have previously hinted) with the
-      gray stones of the home of his forefathers. The conditions of the
+      gray stones of the [[Home|home]] of his forefathers. The conditions of the
       sentience had been here, he imagined, fulfilled in the method of
       collocation of these stones—in the order of their arrangement, as
-      well as in that of the many _fungi_ which overspread them, and of
+      [[Well|well]] as in that of the many _fungi_ which overspread them, and of
       the decayed trees which stood around—above all, in the long
-      undisturbed endurance of this arrangement, and in its
+      undisturbed [[Endurance|endurance]] of this arrangement, and in its
       reduplication in the still waters of the tarn. Its evidence—the
       evidence of the sentience—was to be seen, he said, (and I here
       started as he spoke,) in the gradual yet certain condensation of
@@ -144,8 +144,8 @@ tags:
       Gresset; the Belphegor of Machiavelli; the Heaven and Hell of
       Swedenborg; the Subterranean Voyage of Nicholas Klimm by Holberg;
       the Chiromancy of Robert Flud, of Jean D’Indaginé, and of De la
-      Chambre; the Journey into the Blue Distance of Tieck; and the
-      City of the Sun of Campanella. One favorite volume was a small
+      Chambre; the [[Journey]] into the Blue Distance of Tieck; and the
+      [[City]] of the Sun of Campanella. One favorite volume was a small
       octavo edition of the _Directorium Inquisitorium_, by the
       Dominican Eymeric de Gironne; and there were passages in
       Pomponius Mela, about the old African Satyrs and OEgipans, over

@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 5 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 5 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -30,7 +30,7 @@ had. Ha! ha! ha!’
 If the proprietor of Dotheboys Hall could have known what was passing
 in his assistant’s breast at that moment, he would have discovered, with
 some surprise, that he was as near being soundly pummelled as he had
-ever been in his life. Kate Nickleby, having a quicker perception of her
+ever been in his life. [[Kate Nickleby]], having a quicker perception of her
 brother’s emotions, led him gently aside, and thus prevented Mr. Squeers
 from being impressed with the fact in a peculiarly disagreeable manner.
 
@@ -45,7 +45,7 @@ all.’
 
 ‘Is my employer, or master, or whatever the proper name may be,’ replied
 Nicholas quickly; ‘and I was an ass to take his coarseness ill. They are
-looking this way, and it is time I was in my place. Bless you, love,
+looking this way, and it is [[Time|time]] I was in my place. Bless you, [[Love|love]],
 and goodbye! Mother, look forward to our meeting again someday! Uncle,
 farewell! Thank you heartily for all you have done and all you mean to
 do. Quite ready, sir!’
@@ -54,16 +54,16 @@ With these hasty adieux, Nicholas mounted nimbly to his seat, and waved
 his hand as gallantly as if his heart went with it.
 
 At this moment, when the coachman and guard were comparing notes for the
-last time before starting, on the subject of the way-bill; when porters
+last [[Time|time]] before starting, on the subject of the way-bill; when porters
 were screwing out the last reluctant sixpences, itinerant newsmen
 making the last offer of a morning paper, and the horses giving the last
 impatient rattle to their harness; Nicholas felt somebody pulling softly
-at his leg. He looked down, and there stood Newman Noggs, who pushed up
+at his leg. He looked down, and there stood [[Newman Noggs]], who pushed up
 into his hand a dirty letter.
 
 ‘What’s this?’ inquired Nicholas.
 
-‘Hush!’ rejoined Noggs, pointing to Mr. Ralph Nickleby, who was saying a
+‘Hush!’ rejoined Noggs, pointing to Mr. [[Ralph Nickleby]], who was saying a
 few earnest words to Squeers, a short distance off: ‘Take it. Read it.
 Nobody knows. That’s all.’
 
@@ -71,13 +71,13 @@ Nobody knows. That’s all.’
 
 ‘No,’ replied Noggs.
 
-Nicholas cried stop, again, but Newman Noggs was gone.
+Nicholas cried stop, again, but [[Newman Noggs]] was gone.
 
 A minute’s bustle, a banging of the coach doors, a swaying of the
 vehicle to one side, as the heavy coachman, and still heavier guard,
 climbed into their seats; a cry of all right, a few notes from the horn,
 a hasty glance of two sorrowful faces below, and the hard features of Mr
-Ralph Nickleby--and the coach was gone too, and rattling over the stones
+[[Ralph Nickleby]]--and the coach was gone too, and rattling over the stones
 of Smithfield.
 
 The little boys’ legs being too short to admit of their feet
@@ -91,7 +91,7 @@ good-humoured face, and a very fresh colour, got up behind, and proposed
 to take the other corner of the seat.
 
 ‘If we put some of these youngsters in the middle,’ said the new-comer,
-‘they’ll be safer in case of their going to sleep; eh?’
+‘they’ll be safer in case of their going to [[Sleep|sleep]]; eh?’
 
 ‘If you’ll have the goodness, sir,’ replied Squeers, ‘that’ll be the
 very thing. Mr. Nickleby, take three of them boys between you and the
@@ -118,7 +118,7 @@ say a hundred pound a year for the lot.’
 ‘Oh!’ said the gentleman, glancing at the card, ‘you are the Mr. Squeers
 mentioned here, I presume?’
 
-‘Yes, I am, sir,’ replied the worthy pedagogue; ‘Mr. Wackford Squeers is
+‘Yes, I am, sir,’ replied the worthy pedagogue; ‘Mr. [[Wackford Squeers]] is
 my name, and I’m very far from being ashamed of it. These are some of my
 boys, sir; that’s one of my assistants, sir--Mr. Nickleby, a gentleman’s
 son, and a good scholar, mathematical, classical, and commercial. We
@@ -134,7 +134,7 @@ advantages indeed.’
 great-coat pockets. ‘The most unexceptionable references are given
 and required. I wouldn’t take a reference with any boy, that wasn’t
 responsible for the payment of five pound five a quarter, no, not if you
-went down on your knees, and asked me, with the tears running down your
+went down on your knees, and asked me, with the [[Tears|tears]] running down your
 face, to do it.’
 
 ‘Highly considerate,’ said the passenger.
@@ -142,4 +142,4 @@ face, to do it.’
 ‘It’s my great aim and end to be considerate, sir,’ rejoined Squeers.
 ‘Snawley, junior, if you don’t leave off chattering your teeth, and
 shaking with the cold, I’ll warm you with a severe thrashing in about
-half a minute’s time.’
+half a minute’s [[Time|time]].’

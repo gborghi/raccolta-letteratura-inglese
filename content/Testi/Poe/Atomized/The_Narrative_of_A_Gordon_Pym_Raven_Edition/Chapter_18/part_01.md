@@ -26,13 +26,13 @@ CHAPTER 18
 
       the air tolerably warm and from the northeast, the temperature of
 
-      the water fifty-three. We now again got our sounding-gear in
+      the [[Water|water]] fifty-three. We now again got our sounding-gear in
 
       order, and, with a hundred and fifty fathoms of line, found the
 
       current setting toward the pole at the rate of a mile an hour.
 
-      This constant tendency to the southward, both in the wind and
+      This constant tendency to the southward, both in the [[Wind|wind]] and
 
       current, caused some degree of speculation, and even of alarm, in
 
@@ -58,7 +58,7 @@ CHAPTER 18
 
       armed with long claws of a brilliant scarlet, and resembling
 
-      coral in substance. The body was covered with a straight silky
+      coral in substance. The [[Body|body]] was covered with a straight silky
 
       hair, perfectly white. The tail was peaked like that of a rat,
 
@@ -80,29 +80,29 @@ CHAPTER 18
 
       scrutiny, found it to be one of a group of very large islands.
 
-      The shore was precipitous, and the interior seemed to be well
+      The shore was precipitous, and the interior seemed to be [[Well|well]]
 
       wooded, a circumstance which occasioned us great joy. In about
 
       four hours from our first discovering the land we came to anchor
 
-      in ten fathoms, sandy bottom, a league from the coast, as a high
+      in ten fathoms, sandy [[Bottom|bottom]], a league from the coast, as a high
 
       surf, with strong ripples here and there, rendered a nearer
 
       approach of doubtful expediency. The two largest boats were now
 
-      ordered out, and a party, well armed (among whom were Peters and
+      ordered out, and a party, [[Well|well]] armed (among whom were Peters and
 
       myself), proceeded to look for an opening in the reef which
 
       appeared to encircle the island. After searching about for some
 
-      time, we discovered an inlet, which we were entering, when we saw
+      [[Time|time]], we discovered an inlet, which we were entering, when we saw
 
       four large canoes put off from the shore, filled with men who
 
-      seemed to be well armed. We waited for them to come up, and, as
+      seemed to be [[Well|well]] armed. We waited for them to come up, and, as
 
       they moved with great rapidity, they were soon within hail.
 
@@ -130,7 +130,7 @@ CHAPTER 18
 
       thick and long woolly hair. They were clothed in skins of an
 
-      unknown black animal, shaggy and silky, and made to fit the body
+      unknown black animal, shaggy and silky, and made to fit the [[Body|body]]
 
       with some degree of skill, the hair being inside, except where
 
@@ -166,7 +166,7 @@ CHAPTER 18
 
       on board the largest of our boats, and seated himself by the side
 
-      of Captain Guy, pointing at the same time to the schooner, and
+      of Captain Guy, pointing at the same [[Time|time]] to the schooner, and
 
       repeating the word Anamoo-moo! and Lama-Lama! We now put back to
 
@@ -190,7 +190,7 @@ CHAPTER 18
 
       Too-wit) to understand that we could admit no more than twenty of
 
-      his men on deck at one time. With this arrangement he appeared
+      his men on deck at one [[Time|time]]. With this arrangement he appeared
 
       perfectly satisfied, and gave some directions to the canoes, when
 
@@ -200,4 +200,4 @@ CHAPTER 18
 
       over every part of the deck, and scramble about among the
 
-      rigging, making themselves much at home, and examining every
+      rigging, making themselves much at [[Home|home]], and examining every

@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 31"
+title: "[[Northanger Abbey]] — Chapter 31"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -30,11 +30,11 @@ attachment on either side; but as nothing, after all, could be more
 
 natural than Catherine’s being beloved, they soon learnt to consider it
 
-with only the happy agitation of gratified pride, and, as far as they
+with only the happy agitation of gratified [[Pride|pride]], and, as far as they
 
-alone were concerned, had not a single objection to start. His pleasing
+[[Alone|alone]] were concerned, had not a single objection to start. His pleasing
 
-manners and good sense were self-evident recommendations; and having
+manners and good sense were [[Self|self]]-evident recommendations; and having
 
 never heard evil of him, it was not their way to suppose any evil could
 
@@ -72,7 +72,7 @@ follow. His _consent_ was all that they wished for. They were no more
 
 inclined than entitled to demand his _money_. Of a very considerable
 
-fortune, his son was, by marriage settlements, eventually secure; his
+fortune, his son was, by [[Marriage|marriage]] settlements, eventually secure; his
 
 present income was an income of independence and comfort, and under
 
@@ -86,13 +86,13 @@ The young people could not be surprised at a decision like this. They
 
 felt and they deplored—but they could not resent it; and they parted,
 
-endeavouring to hope that such a change in the General, as each
+endeavouring to [[Hope|hope]] that such a change in the General, as each
 
 believed almost impossible, might speedily take place, to unite them
 
 again in the fulness of privileged affection. Henry returned to what
 
-was now his only home, to watch over his young plantations, and extend
+was now his only [[Home|home]], to watch over his young plantations, and extend
 
 his improvements for her sake, to whose share in them he looked
 
@@ -104,7 +104,7 @@ let us not inquire. Mr. and Mrs. Morland never did—they had been too
 
 kind to exact any promise; and whenever Catherine received a letter,
 
-as, at that time, happened pretty often, they always looked another
+as, at that [[Time|time]], happened pretty often, they always looked another
 
 way.
 
@@ -114,33 +114,33 @@ The anxiety, which in this state of their attachment must be the
 
 portion of Henry and Catherine, and of all who loved either, as to its
 
-final event, can hardly extend, I fear, to the bosom of my readers, who
+final event, can hardly extend, I [[Fear|fear]], to the bosom of my readers, who
 
 will see in the tell-tale compression of the pages before them, that we
 
 are all hastening together to perfect felicity. The means by which
 
-their early marriage was effected can be the only doubt: what probable
+their early [[Marriage|marriage]] was effected can be the only [[Doubt|doubt]]: what probable
 
 circumstance could work upon a temper like the General’s? The
 
-circumstance which chiefly availed was the marriage of his daughter
+circumstance which chiefly availed was the [[Marriage|marriage]] of his daughter
 
 with a man of fortune and consequence, which took place in the course
 
-of the summer—an accession of dignity that threw him into a fit of good
+of the [[Summer|summer]]—an accession of dignity that threw him into a fit of good
 
-humour, from which he did not recover till after Eleanor had obtained
+[[Humour|humour]], from which he did not recover till after [[Eleanor]] had obtained
 
-his forgiveness of Henry, and his permission for him “to be a fool if
+his [[Forgiveness|forgiveness]] of Henry, and his permission for him “to be a [[Fool|fool]] if
 
 he liked it!”
 
 
 
-The marriage of Eleanor Tilney, her removal from all the evils of such
+The [[Marriage|marriage]] of [[Eleanor Tilney]], her removal from all the evils of such
 
-a home as Northanger had been made by Henry’s banishment, to the home
+a [[Home|home]] as Northanger had been made by Henry’s banishment, to the [[Home|home]]
 
 of her choice and the man of her choice, is an event which I expect to
 
@@ -148,7 +148,7 @@ give general satisfaction among all her acquaintance. My own joy on the
 
 occasion is very sincere. I know no one more entitled, by unpretending
 
-merit, or better prepared by habitual suffering, to receive and enjoy
+merit, or better prepared by habitual [[Suffering|suffering]], to receive and enjoy
 
 felicity. Her partiality for this gentleman was not of recent origin;
 
@@ -158,9 +158,9 @@ addressing her. His unexpected accession to title and fortune had
 
 removed all his difficulties; and never had the General loved his
 
-daughter so well in all her hours of companionship, utility, and
+daughter so [[Well|well]] in all her hours of companionship, utility, and
 
-patient endurance as when he first hailed her “Your Ladyship!” Her
+patient [[Endurance|endurance]] as when he first hailed her “Your Ladyship!” Her
 
 husband was really deserving of her; independent of his peerage, his
 
@@ -170,11 +170,11 @@ young man in the world. Any further definition of his merits must be
 
 unnecessary; the most charming young man in the world is instantly
 
-before the imagination of us all. Concerning the one in question,
+before the [[Imagination|imagination]] of us all. Concerning the one in question,
 
 therefore, I have only to add—aware that the rules of composition
 
-forbid the introduction of a character not connected with my fable—that
+forbid the introduction of a character not connected with my [[Fable|fable]]—that
 
 this was the very gentleman whose negligent servant left behind him
 
@@ -202,7 +202,7 @@ they necessitous or poor, and that Catherine would have three thousand
 
 pounds. This was so material an amendment of his late expectations that
 
-it greatly contributed to smooth the descent of his pride; and by no
+it greatly contributed to smooth the descent of his [[Pride|pride]]; and by no
 
 means without its effect was the private intelligence, which he was at
 
@@ -214,7 +214,7 @@ greedy speculation.
 
 
 
-On the strength of this, the General, soon after Eleanor’s marriage,
+On the strength of this, the General, soon after [[Eleanor]]’s [[Marriage|marriage]],
 
 permitted his son to return to Northanger, and thence made him the
 
@@ -222,7 +222,7 @@ bearer of his consent, very courteously worded in a page full of empty
 
 professions to Mr. Morland. The event which it authorized soon
 
-followed: Henry and Catherine were married, the bells rang, and
+followed: Henry and Catherine were married, [[The Bells|the bells]] rang, and
 
 everybody smiled; and, as this took place within a twelvemonth from the
 
@@ -232,7 +232,7 @@ delays occasioned by the General’s cruelty, that they were essentially
 
 hurt by it. To begin perfect happiness at the respective ages of
 
-twenty-six and eighteen is to do pretty well; and professing myself
+twenty-six and eighteen is to do pretty [[Well|well]]; and professing myself
 
 moreover convinced that the General’s unjust interference, so far from
 
@@ -260,14 +260,14 @@ parental tyranny, or reward filial disobedience.
 
 
 
-Northanger Abbey was written in 1797–98 under a different title. The
+[[Northanger Abbey]] was written in 1797–98 under a different title. The
 
-manuscript was revised around 1803 and sold to a London publisher,
+manuscript was revised around 1803 and sold to a [[London]] publisher,
 
 Crosbie & Co., who sold it back in 1816. The Signet Classic text is
 
-based on the first edition, published by John Murray, London, in
+based on the first edition, published by John Murray, [[London]], in
 
-1818—the year following Miss Austen’s death. Spelling and punctuation
+1818—the year following Miss Austen’s [[Death|death]]. Spelling and punctuation
 
 have been largely brought into conformity with modern British usage.

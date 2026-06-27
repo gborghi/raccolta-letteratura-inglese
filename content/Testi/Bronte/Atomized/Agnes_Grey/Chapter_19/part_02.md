@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 18 (part 2)"
+title: "[[Agnes Grey]] — Chapter 18 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -15,15 +15,15 @@ tags:
 
 
 “_Dear_ Miss Grey! it is the _strangest_ thing. I suppose you can’t
-help it, if it’s not in your nature—but I _wonder_ you can’t win the
+help it, if it’s not in your [[Nature|nature]]—but I _wonder_ you can’t win the
 confidence of that girl, and make your society at _least_ as agreeable
 to her as that of Robert or Joseph!”
 
 “They can talk the best about the things in which she is most
 interested,” I replied.
 
-“Well! that is a strange confession, _however_, to come from her
-_governess_! Who is to form a young lady’s tastes, I wonder, if the
+“[[Well]]! that is a strange confession, _however_, to come from her
+_governess_! Who is to form a young lady’s tastes, I [[Wonder|wonder]], if the
 governess doesn’t do it? I have known governesses who have so
 completely identified themselves with the reputation of their young
 ladies for elegance and propriety in mind and manners, that they would
@@ -34,19 +34,19 @@ persons—and I really think it very natural, for my part.”
 “Do you, ma’am?”
 
 “Yes, of course: the young lady’s proficiency and elegance is of more
-consequence to the governess than her own, as well as to the world. If
+consequence to the governess than her own, as [[Well|well]] as to the world. If
 she wishes to prosper in her vocation she must devote all her energies
-to her business: all her ideas and all her ambition will tend to the
+to her business: all her ideas and all her [[Ambition|ambition]] will tend to the
 accomplishment of that one object. When we wish to decide upon the
 merits of a governess, we naturally look at the young ladies she
 professes to have educated, and judge accordingly. The _judicious_
 governess knows this: she knows that, while she lives in obscurity
 herself, her pupils’ virtues and defects will be open to every eye; and
 that, unless she loses sight of herself in their cultivation, she need
-not hope for success. You see, Miss Grey, it is just the same as any
+not [[Hope|hope]] for [[success]]. You see, Miss Grey, it is just the same as any
 other trade or profession: they that wish to prosper must devote
-themselves body and soul to their calling; and if they begin to yield
-to indolence or self-indulgence they are speedily distanced by wiser
+themselves [[Body|body]] and [[Soul|soul]] to their calling; and if they begin to yield
+to [[Indolence|indolence]] or [[Self|self]]-indulgence they are speedily distanced by wiser
 competitors: there is little to choose between a person that ruins her
 pupils by neglect, and one that corrupts them by her example. You will
 excuse my dropping these little hints: you know it is all for your own
@@ -54,10 +54,10 @@ good. Many ladies would speak to you much more strongly; and many would
 not trouble themselves to speak at all, but quietly look out for a
 substitute. That, of course, would be the _easiest_ plan: but I know
 the advantages of a place like this to a person in your situation; and
-I have no desire to part with you, as I am sure you would do very well
+I have no [[Desire|desire]] to part with you, as I am sure you would do very [[Well|well]]
 if you will only think of these things and try to exert yourself a
 _little_ more: then, I am convinced, you would _soon_ acquire that
-delicate tact which alone is wanting to give you a proper influence
+delicate tact which [[Alone|alone]] is wanting to give you a proper influence
 over the mind of your pupil.”
 
 I was about to give the lady some idea of the fallacy of her
@@ -70,7 +70,7 @@ her mother’s authority (pity it had not been exerted before); and being
 thus deprived of almost every source of amusement, there was nothing
 for it but to take long rides with the groom and long walks with the
 governess, and to visit the cottages and farmhouses on her father’s
-estate, to kill time in chatting with the old men and women that
+estate, to kill [[Time|time]] in chatting with the old men and women that
 inhabited them. In one of these walks, it was our chance to meet Mr.
 Weston. This was what I had long desired; but now, for a moment, I
 wished either he or I were away: I felt my heart throb so violently
@@ -79,14 +79,14 @@ think he hardly glanced at me, and I was soon calm enough. After a
 brief salutation to both, he asked Matilda if she had lately heard from
 her sister.
 
-“Yes,” replied she. “She was at Paris when she wrote, and very well,
+“Yes,” replied she. “She was at [[Paris]] when she wrote, and very [[Well|well]],
 and very happy.”
 
 She spoke the last word emphatically, and with a glance impertinently
 sly. He did not seem to notice it, but replied, with equal emphasis,
 and very seriously—
 
-“I hope she will continue to be so.”
+“I [[Hope|hope]] she will continue to be so.”
 
 “Do you think it likely?” I ventured to inquire: for Matilda had
 started off in pursuit of her dog, that was chasing a leveret.
@@ -114,7 +114,7 @@ have done their duty.”
 
 “True: but is it not strange that persons of experience, who have been
 married themselves, should judge so falsely?” Matilda now came panting
-back, with the lacerated body of the young hare in her hand.
+back, with the lacerated [[Body|body]] of the young hare in her hand.
 
 “Was it your intention to kill that hare, or to save it, Miss Murray?”
 asked Mr. Weston, apparently puzzled at her gleeful countenance.

@@ -1,5 +1,5 @@
 ---
-title: "Coriolanus — Act V, Scene 6 — exchange (THE PERSONS OF THE PLAY) [5]"
+title: "[[Coriolanus]] — Act V, Scene 6 — exchange (THE PERSONS OF THE PLAY) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/CORIOLANUS-(Shakespeare)"
@@ -15,10 +15,10 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| THE PERSONS OF THE | PLAY LEONTES, King of Sicily HERMIONE, his wife MAMILLIUS, his son PERDITA, his daughter PAULINA, Antigonus’s wife EMILIA, a lady attending on Hermione |
+| THE PERSONS OF THE | PLAY [[Leontes|LEONTES]], [[King]] of Sicily [[Hermione|HERMIONE]], his wife MAMILLIUS, his son [[Perdita|PERDITA]], his daughter [[Paulina|PAULINA]], Antigonus’s wife [[Emilia|EMILIA]], a lady attending on [[Hermione]] |
 | *(didascalia)* | A |
 | *(didascalia)* | A |
-| MARINER | Other Lords and Gentlemen, Ladies, Officers, and Servants at Leontes’s court POLIXENES, King of Bohemia FLORIZEL, his son, in love with Perdita; known as Doricles ARCHIDAMUS, a Bohemian lord AUTOLYCUS, a rogue, once in the service of Florizel |
+| MARINER | Other Lords and Gentlemen, Ladies, Officers, and Servants at [[Leontes]]’s [[Court|court]] [[Polixenes|POLIXENES]], [[King]] of Bohemia [[Florizel|FLORIZEL]], his son, in [[Love|love]] with [[Perdita]]; known as Doricles ARCHIDAMUS, a Bohemian lord [[Autolycus|AUTOLYCUS]], a rogue, once in the service of [[Florizel]] |
 | OLD SHEPHERD | CLOWN, his son |
 | SERVANT | of the Old Shepherd Other Shepherds and Shepherdesses Twelve countrymen disguised as satyrs |
-| SERVANT | TIME, as chorus |
+| SERVANT | [[Time|TIME]], as [[Chorus|chorus]] |

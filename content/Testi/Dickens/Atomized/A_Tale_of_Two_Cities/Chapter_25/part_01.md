@@ -18,10 +18,10 @@ CHAPTER XVIII.
 Nine Days
 
 
-The marriage-day was shining brightly, and they were ready outside the
+The [[Marriage|marriage]]-day was shining brightly, and they were ready outside the
 closed door of the Doctor’s room, where he was speaking with Charles
 Darnay. They were ready to go to church; the beautiful bride, Mr.
-Lorry, and Miss Pross--to whom the event, through a gradual process of
+Lorry, and [[Miss Pross]]--to whom the event, through a gradual process of
 reconcilement to the inevitable, would have been one of absolute bliss,
 but for the yet lingering consideration that her brother Solomon should
 have been the bridegroom.
@@ -33,45 +33,45 @@ you across the Channel, such a baby! Lord bless me! How little I thought
 what I was doing! How lightly I valued the obligation I was conferring
 on my friend Mr. Charles!”
 
-“You didn’t mean it,” remarked the matter-of-fact Miss Pross, “and
+“You didn’t mean it,” remarked the matter-of-fact [[Miss Pross]], “and
 therefore how could you know it? Nonsense!”
 
-“Really? Well; but don’t cry,” said the gentle Mr. Lorry.
+“Really? [[Well]]; but don’t cry,” said the gentle Mr. Lorry.
 
-“I am not crying,” said Miss Pross; “_you_ are.”
+“I am not crying,” said [[Miss Pross]]; “_you_ are.”
 
-“I, my Pross?” (By this time, Mr. Lorry dared to be pleasant with her,
+“I, my Pross?” (By this [[Time|time]], Mr. Lorry dared to be pleasant with her,
 on occasion.)
 
-“You were, just now; I saw you do it, and I don’t wonder at it. Such
-a present of plate as you have made ’em, is enough to bring tears into
+“You were, just now; I saw you do it, and I don’t [[Wonder|wonder]] at it. Such
+a present of plate as you have made ’em, is enough to bring [[Tears|tears]] into
 anybody’s eyes. There’s not a fork or a spoon in the collection,” said
-Miss Pross, “that I didn’t cry over, last night after the box came, till
+[[Miss Pross]], “that I didn’t cry over, last [[Night|night]] after the box came, till
 I couldn’t see it.”
 
-“I am highly gratified,” said Mr. Lorry, “though, upon my honour, I
+“I am highly gratified,” said Mr. Lorry, “though, upon my [[Honour|honour]], I
 had no intention of rendering those trifling articles of remembrance
 invisible to any one. Dear me! This is an occasion that makes a man
 speculate on all he has lost. Dear, dear, dear! To think that there
-might have been a Mrs. Lorry, any time these fifty years almost!”
+might have been a Mrs. Lorry, any [[Time|time]] these fifty years almost!”
 
-“Not at all!” From Miss Pross.
+“Not at all!” From [[Miss Pross]].
 
 “You think there never might have been a Mrs. Lorry?” asked the
 gentleman of that name.
 
-“Pooh!” rejoined Miss Pross; “you were a bachelor in your cradle.”
+“Pooh!” rejoined [[Miss Pross]]; “you were a bachelor in your cradle.”
 
-“Well!” observed Mr. Lorry, beamingly adjusting his little wig, “that
+“[[Well]]!” observed Mr. Lorry, beamingly adjusting his little wig, “that
 seems probable, too.”
 
-“And you were cut out for a bachelor,” pursued Miss Pross, “before you
+“And you were cut out for a bachelor,” pursued [[Miss Pross]], “before you
 were put in your cradle.”
 
 “Then, I think,” said Mr. Lorry, “that I was very unhandsomely dealt
 with, and that I ought to have had a voice in the selection of my
 pattern. Enough! Now, my dear Lucie,” drawing his arm soothingly round
-her waist, “I hear them moving in the next room, and Miss Pross and
+her waist, “I hear them moving in the next room, and [[Miss Pross]] and
 I, as two formal folks of business, are anxious not to lose the final
 opportunity of saying something to you that you wish to hear. You leave
 your good father, my dear, in hands as earnest and as loving as your
@@ -86,7 +86,7 @@ old-fashioned bachelor blessing, before Somebody comes to claim his
 own.”
 
 For a moment, he held the fair face from him to look at the
-well-remembered expression on the forehead, and then laid the bright
+[[Well|well]]-remembered expression on the forehead, and then laid the bright
 golden hair against his little brown wig, with a genuine tenderness and
 delicacy which, if such things be old-fashioned, were as old as Adam.
 
@@ -96,19 +96,19 @@ went in together--that no vestige of colour was to be seen in his face.
 But, in the composure of his manner he was unaltered, except that to the
 shrewd glance of Mr. Lorry it disclosed some shadowy indication that the
 old air of avoidance and dread had lately passed over him, like a cold
-wind.
+[[Wind|wind]].
 
 He gave his arm to his daughter, and took her down-stairs to the chariot
-which Mr. Lorry had hired in honour of the day. The rest followed in
+which Mr. Lorry had hired in [[Honour|honour]] of the day. The rest followed in
 another carriage, and soon, in a neighbouring church, where no strange
-eyes looked on, Charles Darnay and Lucie Manette were happily married.
+eyes looked on, [[Charles Darnay]] and [[Lucie Manette]] were happily married.
 
-Besides the glancing tears that shone among the smiles of the little
+Besides the glancing [[Tears|tears]] that shone among the smiles of the little
 group when it was done, some diamonds, very bright and sparkling,
 glanced on the bride’s hand, which were newly released from the
-dark obscurity of one of Mr. Lorry’s pockets. They returned home to
-breakfast, and all went well, and in due course the golden hair that had
-mingled with the poor shoemaker’s white locks in the Paris garret, were
+dark obscurity of one of Mr. Lorry’s pockets. They returned [[Home|home]] to
+breakfast, and all went [[Well|well]], and in due course the golden hair that had
+mingled with the poor shoemaker’s white locks in the [[Paris]] garret, were
 mingled with them again in the morning sunlight, on the threshold of the
 door at parting.
 
@@ -116,12 +116,12 @@ It was a hard parting, though it was not for long. But her father
 cheered her, and said at last, gently disengaging himself from her
 enfolding arms, “Take her, Charles! She is yours!”
 
-And her agitated hand waved to them from a chaise window, and she was
+And her agitated hand waved to them from a chaise [[Window|window]], and she was
 gone.
 
 The corner being out of the way of the idle and curious, and the
 preparations having been very simple and few, the Doctor, Mr. Lorry,
-and Miss Pross, were left quite alone. It was when they turned into
+and [[Miss Pross]], were left quite [[Alone|alone]]. It was when they turned into
 the welcome shade of the cool old hall, that Mr. Lorry observed a great
 change to have come over the Doctor; as if the golden arm uplifted
 there, had struck him a poisoned blow.
@@ -133,8 +133,8 @@ manner of clasping his head and drearily wandering away into his own
 room when they got up-stairs, Mr. Lorry was reminded of Defarge the
 wine-shop keeper, and the starlight ride.
 
-“I think,” he whispered to Miss Pross, after anxious consideration, “I
+“I think,” he whispered to [[Miss Pross]], after anxious consideration, “I
 think we had best not speak to him just now, or at all disturb him.
 I must look in at Tellson’s; so I will go there at once and come back
 presently. Then, we will take him a ride into the country, and dine
-there, and all will be well.”
+there, and all will be [[Well|well]].”

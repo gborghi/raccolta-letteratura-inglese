@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 22 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 22 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,7 +24,7 @@ Marianne, who had never much toleration for any thing like
 
 impertinence, vulgarity, inferiority of parts, or even difference of
 
-taste from herself, was at this time particularly ill-disposed, from
+taste from herself, was at this [[Time|time]] particularly ill-disposed, from
 
 the state of her spirits, to be pleased with the Miss Steeles, or to
 
@@ -48,7 +48,7 @@ Lucy was naturally clever; her remarks were often just and amusing; and
 
 as a companion for half an hour Elinor frequently found her agreeable;
 
-but her powers had received no aid from education: she was ignorant and
+but her powers had received no aid from [[Education|education]]: she was ignorant and
 
 illiterate; and her deficiency of all mental improvement, her want of
 
@@ -58,7 +58,7 @@ Miss Dashwood, in spite of her constant endeavour to appear to
 
 advantage. Elinor saw, and pitied her for, the neglect of abilities
 
-which education might have rendered so respectable; but she saw, with
+which [[Education|education]] might have rendered so respectable; but she saw, with
 
 less tenderness of feeling, the thorough want of delicacy, of
 
@@ -94,7 +94,7 @@ expressed it, as she answered that she had never seen Mrs. Ferrars.
 
 
 
-“Indeed!” replied Lucy; “I wonder at that, for I thought you must have
+“Indeed!” replied Lucy; “I [[Wonder|wonder]] at that, for I thought you must have
 
 seen her at Norland sometimes. Then, perhaps, you cannot tell me what
 
@@ -114,7 +114,7 @@ curiosity; “I know nothing of her.”
 
 way,” said Lucy, eyeing Elinor attentively as she spoke; “but perhaps
 
-there may be reasons—I wish I might venture; but however I hope you
+there may be reasons—I wish I might venture; but however I [[Hope|hope]] you
 
 will do me the justice of believing that I do not mean to be
 
@@ -124,7 +124,7 @@ impertinent.”
 
 Elinor made her a civil reply, and they walked on for a few minutes in
 
-silence. It was broken by Lucy, who renewed the subject again by
+[[Silence|silence]]. It was broken by Lucy, who renewed the subject again by
 
 saying, with some hesitation,
 
@@ -134,9 +134,9 @@ saying, with some hesitation,
 
 would rather do any thing in the world than be thought so by a person
 
-whose good opinion is so well worth having as yours. And I am sure I
+whose good opinion is so [[Well|well]] worth having as yours. And I am sure I
 
-should not have the smallest fear of trusting _you;_ indeed, I should
+should not have the smallest [[Fear|fear]] of trusting _you;_ indeed, I should
 
 be very glad of your advice how to manage in such an uncomfortable
 
@@ -158,11 +158,11 @@ into her character.”
 
 
 
-“I dare say you are, and I am sure I do not at all wonder at it. But if
+“I dare say you are, and I am sure I do not at all [[Wonder|wonder]] at it. But if
 
 I dared tell you all, you would not be so much surprised. Mrs. Ferrars
 
-is certainly nothing to me at present—but the time _may_ come—how soon
+is certainly nothing to me at present—but the [[Time|time]] _may_ come—how soon
 
 it will come must depend upon herself—when we may be very intimately
 
@@ -198,13 +198,13 @@ assertion attended it. She turned towards Lucy in silent amazement,
 
 unable to divine the reason or object of such a declaration; and though
 
-her complexion varied, she stood firm in incredulity, and felt in no
+her complexion varied, she stood firm in [[Incredulity|incredulity]], and felt in no
 
 danger of an hysterical fit, or a swoon.
 
 
 
-“You may well be surprised,” continued Lucy; “for to be sure you could
+“You may [[Well|well]] be surprised,” continued Lucy; “for to be sure you could
 
 have had no idea of it before; for I dare say he never dropped the
 
@@ -212,7 +212,7 @@ smallest hint of it to you or any of your family; because it was always
 
 meant to be a great secret, and I am sure has been faithfully kept so
 
-by me to this hour. Not a soul of all my relations know of it but Anne,
+by me to this hour. Not a [[Soul|soul]] of all my relations know of it but Anne,
 
 and I never should have mentioned it to you, if I had not felt the
 
@@ -238,4 +238,4 @@ heard was at first too great for words; but at length forcing herself
 
 to speak, and to speak cautiously, she said, with calmness of manner,
 
-which tolerably well concealed her surprise and solicitude—“May I ask
+which tolerably [[Well|well]] concealed her surprise and solicitude—“May I ask

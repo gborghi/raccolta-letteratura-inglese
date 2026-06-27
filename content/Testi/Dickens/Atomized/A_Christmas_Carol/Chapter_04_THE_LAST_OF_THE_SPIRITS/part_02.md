@@ -1,5 +1,5 @@
 ---
-title: "A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 2)"
+title: "A Christmas [[carol|Carol]] — Stave 4: THE LAST OF THE SPIRITS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Christmas-Carol-(Dickens)"
@@ -16,16 +16,16 @@ tags:
 
 He looked about in that very place for his own image; but
 another man stood in his accustomed corner, and though the
-clock pointed to his usual time of day for being there, he
+[[Clock|clock]] pointed to his usual [[Time|time]] of day for being there, he
 saw no likeness of himself among the multitudes that poured
 in through the Porch. It gave him little surprise, however;
 for he had been revolving in his mind a change of life, and
 thought and hoped he saw his new-born resolutions carried
 out in this.
 
-Quiet and dark, beside him stood the Phantom, with its
+Quiet and dark, beside him stood the [[Phantom]], with its
 outstretched hand. When he roused himself from his
-thoughtful quest, he fancied from the turn of the hand, and
+thoughtful [[Quest|quest]], he fancied from the turn of the hand, and
 its situation in reference to himself, that the Unseen Eyes
 were looking at him keenly. It made him shudder, and feel
 very cold.
@@ -40,12 +40,12 @@ smell, and dirt, and life, upon the straggling streets; and the
 whole quarter reeked with crime, with filth, and misery.
 
 Far in this den of infamous resort, there was a low-browed,
-beetling shop, below a pent-house roof, where iron, old rags,
+beetling shop, below a pent-[[house]] roof, where iron, old rags,
 bottles, bones, and greasy offal, were bought. Upon the floor
-within, were piled up heaps of rusty keys, nails, chains, hinges,
-files, scales, weights, and refuse iron of all kinds. Secrets
+within, were piled up heaps of rusty keys, nails, [[Chains|chains]], hinges,
+files, scales, weights, and refuse iron of all kinds. [[Secrets]]
 that few would like to scrutinise were bred and hidden in
-mountains of unseemly rags, masses of corrupted fat, and
+[[Mountains|mountains]] of unseemly rags, masses of corrupted fat, and
 sepulchres of bones. Sitting in among the wares he dealt in, by a
 charcoal stove, made of old bricks, was a grey-haired rascal,
 nearly seventy years of age; who had screened himself from the
@@ -53,7 +53,7 @@ cold air without, by a frousy curtaining of miscellaneous
 tatters, hung upon a line; and smoked his pipe in all the luxury
 of calm retirement.
 
-Scrooge and the Phantom came into the presence of this
+Scrooge and the [[Phantom]] came into the presence of this
 man, just as a woman with a heavy bundle slunk into the
 shop. But she had scarcely entered, when another woman,
 similarly laden, came in too; and she was closely followed by
@@ -63,9 +63,9 @@ other. After a short period of blank astonishment, in which
 the old man with the pipe had joined them, they all three
 burst into a laugh.
 
-"Let the charwoman alone to be the first!" cried she who
-had entered first. "Let the laundress alone to be the second;
-and let the undertaker's man alone to be the third. Look
+"Let the charwoman [[Alone|alone]] to be the first!" cried she who
+had entered first. "Let the laundress [[Alone|alone]] to be the second;
+and let the undertaker's man [[Alone|alone]] to be the third. Look
 here, old Joe, here's a chance! If we haven't all three met
 here without meaning it!"
 
@@ -76,12 +76,12 @@ two an't strangers. Stop till I shut the door of the shop.
 Ah! How it skreeks! There an't such a rusty bit of metal
 in the place as its own hinges, I believe; and I'm sure there's
 no such old bones here, as mine. Ha, ha! We're all suitable
-to our calling, we're well matched. Come into the
+to our calling, we're [[Well|well]] matched. Come into the
 parlour. Come into the parlour."
 
 The parlour was the space behind the screen of rags. The
-old man raked the fire together with an old stair-rod, and
-having trimmed his smoky lamp (for it was night), with the
+old man raked the [[Fire|fire]] together with an old stair-rod, and
+having trimmed his smoky lamp (for it was [[Night|night]]), with the
 stem of his pipe, put it in his mouth again.
 
 While he did this, the woman who had already spoken
@@ -101,9 +101,9 @@ woman; who's the wiser? We're not going to pick holes in
 each other's coats, I suppose?"
 
 "No, indeed!" said Mrs. Dilber and the man together.
-"We should hope not."
+"We should [[Hope|hope]] not."
 
-"Very well, then!" cried the woman. "That's enough.
+"Very [[Well|well]], then!" cried the woman. "That's enough.
 Who's the worse for the loss of a few things like these?
 Not a dead man, I suppose."
 
@@ -112,8 +112,8 @@ Not a dead man, I suppose."
 "If he wanted to keep 'em after he was dead, a wicked old
 screw," pursued the woman, "why wasn't he natural in his
 lifetime? If he had been, he'd have had somebody to look
-after him when he was struck with Death, instead of lying
-gasping out his last there, alone by himself."
+after him when he was struck with [[Death]], instead of lying
+gasping out his last there, [[Alone|alone]] by himself."
 
 "It's the truest word that ever was spoke," said Mrs.
 Dilber. "It's a judgment on him."
@@ -123,7 +123,7 @@ woman; "and it should have been, you may depend upon it,
 if I could have laid my hands on anything else. Open that
 bundle, old Joe, and let me know the value of it. Speak out
 plain. I'm not afraid to be the first, nor afraid for them to
-see it. We know pretty well that we were helping ourselves,
+see it. We know pretty [[Well|well]] that we were helping ourselves,
 before we met here, I believe. It's no sin. Open the bundle,
 Joe."
 
@@ -149,4 +149,4 @@ in the same manner.
 and that's the way I ruin myself," said old Joe. "That's
 your account. If you asked me for another penny, and made
 it an open question, I'd repent of being so liberal and knock
-off half-a-crown."
+off half-a-[[Crown|crown]]."

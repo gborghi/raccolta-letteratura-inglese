@@ -1,5 +1,5 @@
 ---
-title: "MrPond — A Tall Story (part 4)"
+title: "[[MrPond]] — A Tall Story (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -24,7 +24,7 @@ suggestion of a cluster or network of lines to confuse the prospect
 
 at that very confusing turn of the twilight.  Once he fancied he
 
-saw something flicker behind them, as if a shadow had shifted; and
+saw something flicker behind them, as if a [[Shadow|shadow]] had shifted; and
 
 there arose within him the terror of Mrs. Hartog-Haggard, which is
 
@@ -34,7 +34,7 @@ the worst of the woes of life.
 
 
 
-Then he saw that the shifting shadow must have been produced by the
+Then he saw that the shifting [[Shadow|shadow]] must have been produced by the
 
 fact that the lights had been turned up in the shop opposite; and
 
@@ -80,7 +80,7 @@ sharply around, to find that Butt was not working at all; but, like
 
 himself, was staring, not to say glaring, as in a congested
 
-mystification, into the twilight.  Butt was commonly the most calm
+[[Mystification|mystification]], into the twilight.  Butt was commonly the most calm
 
 and prosaic of subordinates; but the look on his face was quite
 
@@ -100,7 +100,7 @@ to be a beast or not.  It's a beastly caddish thing to say a word,
 
 or hint a word, against your comrades or anybody connected with
 
-them.  But after all--well, sir, there is the country, isn't
+them.  But after all--[[Well|well]], sir, there is the country, isn't
 
 there?"
 
@@ -110,15 +110,15 @@ there?"
 
 
 
-"Well," Butt blurted out at last, "I'm not a bit comfortable about
+"[[Well]]," Butt blurted out at last, "I'm not a bit comfortable about
 
-Arthur."
+[[arthur|Arthur]]."
 
 
 
 Then, after a sort of gasp, he tried again:  "At least, it isn't so
 
-much Arthur as Arthur's . . . what Arthur's doing.  It makes it all
+much [[arthur|Arthur]] as [[arthur|Arthur]]'s . . . what [[arthur|Arthur]]'s doing.  It makes it all
 
 the nastier to have put it like that.  But you know he got engaged
 
@@ -126,19 +126,19 @@ last week.  Have you met his fiancée, sir?"
 
 
 
-"I have not yet had the honour," replied Pond, in his punctilious
+"I have not yet had the [[Honour|honour]]," replied Pond, in his punctilious
 
 way.
 
 
 
-"Well, sir, Arthur brought her in here to-day while you were out;
+"[[Well]], sir, [[arthur|Arthur]] brought her in here to-day while you were out;
 
 he'd just taken her to the pantomime of Puss-in-Boots on the pier,
 
 and they were laughing like anything.  Of course, that's quite all
 
-right; it was his off time; but it seemed to me it wasn't quite all
+right; it was his off [[Time|time]]; but it seemed to me it wasn't quite all
 
 right that she walked straight upstairs without any invitation,
 
@@ -154,15 +154,15 @@ door, and you or I are always sitting bang in front of it; and
 
 there's only one staircase, and nobody uses it but we three.  Of
 
-course, she might have done it in all innocence; that's what made
+course, she might have done it in all [[innocence]]; that's what made
 
-it seem quite too ghastly to snub her.  And yet. . . .  Well, she's
+it seem quite too ghastly to snub her.  And yet. . . .  [[Well]], she's
 
-a very nice-looking girl, and no doubt a very nice girl; but
+a very nice-looking girl, and no [[Doubt|doubt]] a very nice girl; but
 
 somehow that's just the one word that wouldn't jump to my mind
 
-about her--innocence."
+about her--[[innocence]]."
 
 
 
@@ -170,13 +170,13 @@ about her--innocence."
 
 
 
-"Well," said Mr. Butt, gloomily seeking words, "we all know that
+"[[Well]]," said Mr. Butt, gloomily seeking words, "we all know that
 
 making-up and even dyeing your hair doesn't mean what it once did;
 
 lots of women do it who are perfectly decent; but not those who
 
-are--well, utterly inexperienced.  It seemed to me that, while she
+are--[[Well|well]], utterly inexperienced.  It seemed to me that, while she
 
 might be perfectly honest, she WOULD know very decidedly whether a
 
@@ -188,7 +188,7 @@ thing is done or not."
 
 severity, "she must know that he is here on highly confidential
 
-work, and she must be as anxious to protect his honour as we are.
+work, and she must be as anxious to protect his [[Honour|honour]] as we are.
 
 I'm afraid that I shall have to ask you for some sort of
 
@@ -196,7 +196,7 @@ description."
 
 
 
-"Well," said Butt, "she's very tall and elegant, or . . . no,
+"[[Well]]," said Butt, "she's very tall and elegant, or . . . no,
 
 elegant is exactly the word.  She has beautiful golden hair--very
 
@@ -222,11 +222,11 @@ did."
 
 
 
-Mr. Pond received the news in silence.
+Mr. Pond received the news in [[Silence|silence]].
 
 
 
-"I hope, sir, you won't assume anything against Arthur," said Butt,
+"I [[Hope|hope]], sir, you won't assume anything against [[arthur|Arthur]]," said Butt,
 
 huskily.  "I'm sure I'd do anything to clear him of any--"
 
@@ -246,10 +246,10 @@ did just then.
 
 They flung open the door, and they saw all that was to be seen.
 
-All that was to be seen was Arthur Travers stretched out face
+All that was to be seen was [[arthur|Arthur]] Travers stretched out face
 
 downwards on the ground, and between his shoulder-blades stood out
 
-the very long hilt of a very strange-looking sword.  Butt
+the very long hilt of a very strange-looking [[Sword|sword]].  Butt
 
 impetuously laid hold of it, and was startled to find that it was

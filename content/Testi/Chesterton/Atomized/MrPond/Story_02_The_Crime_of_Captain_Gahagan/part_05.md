@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Crime of Captain Gahagan (part 5)"
+title: "[[MrPond]] — The Crime of Captain Gahagan (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -32,7 +32,7 @@ gentleman who was my client and friend!"
 
 "You seem a little annoyed," said Mr. Pond.  "Have you tried
 
-reading Dr. Johnson's Vanity of Human Wishes?  Very soothing.
+reading Dr. Johnson's [[Vanity]] of Human Wishes?  Very soothing.
 
 Believe me, those eighteenth-century writers I wanted to quote are
 
@@ -46,7 +46,7 @@ very soothing.  Have you read Addison's play about Cato?"
 
 "Or again," continued Mr. Pond in a chatty way, "have you read Miss
 
-Asa-Smith's play about the duchess in the bathing-suit?  All the
+Asa-[[smith|Smith]]'s play about the duchess in the bathing-suit?  All the
 
 sentences curiously cut short--like the bathing-suit."
 
@@ -58,7 +58,7 @@ sentences curiously cut short--like the bathing-suit."
 
 "Oh, yes, I mean a great deal," replied Pond.  "But it takes quite
 
-a long time to explain--like the Vanity of Human Wishes.  What I
+a long [[Time|time]] to explain--like the [[Vanity]] of Human Wishes.  What I
 
 mean is this.  My friend Gahagan is very fond of those old wits and
 
@@ -72,9 +72,9 @@ style; balance and antithesis and all that.  Now if you have this
 
 habit and read, say, the hackneyed lines in Cato:  ''Tis not in
 
-mortals to command success; but we'll do more, Sempronius, we'll
+mortals to command [[success]]; but we'll do more, [[Sempronius]], we'll
 
-deserve it'--well, it may be good or bad; but you've got to wait
+deserve it'--[[Well|well]], it may be good or bad; but you've got to wait
 
 for the end of the sentence; because it begins with a platitude and
 
@@ -88,7 +88,7 @@ nobody waits for it to end.
 
 don't think, they think quicker than we do.  They often talk
 
-better.  But they don't LISTEN so well.  They leap so quickly upon
+better.  But they don't LISTEN so [[Well|well]].  They leap so quickly upon
 
 the first point; they see so much more in it; and go off in a
 
@@ -124,7 +124,7 @@ though his next words were that the woman almost certainly wasn't
 
 there.  Stuff about Brighton and the club didn't interest her, and
 
-she didn't even remember it.  Very well, let us go on to the next
+she didn't even remember it.  Very [[Well|well]], let us go on to the next
 
 case.  What Gahagan said to Violet Varney was this:  'It's no good
 
@@ -134,7 +134,7 @@ but perhaps I'll look in and see; if they're not back, I shall go
 
 on to the club.'  Violet is much less truthful and careful than
 
-Joan; and she was jealous of Olivia herself, but in a much
+Joan; and she was jealous of [[Olivia]] herself, but in a much
 
 shallower way, Violet supposing herself to be an actress.  She also
 
@@ -150,7 +150,7 @@ condescend to pay any attention whatever to anything else he said.
 
 "Now for the third case.  What Gahagan said to Miss Artemis Asa-
 
-Smith on the doorstep was this:  'I'm going to the club; I promised
+[[smith|Smith]] on the doorstep was this:  'I'm going to the club; I promised
 
 to look in on some friends of mine on the way, the Fevershams; but
 
@@ -158,7 +158,7 @@ I don't believe they're back from Brighton.'  That's what he said.
 
 What Artemis heard, saw and blasted with her blazing eye, was a
 
-typical insolent, selfish, self-indulgent male brazenly bragging in
+typical insolent, selfish, [[Self|self]]-indulgent male brazenly bragging in
 
 the open street of his intention to go to his infamous club, where
 
@@ -184,13 +184,13 @@ especially to these rather jumpy modern girls, accustomed only to
 
 jump at the sentence that comes first--very often because there
 
-isn't any thing at all to come after it.  The Asa-Smith school of
+isn't any thing at all to come after it.  The Asa-[[smith|Smith]] school of
 
 drama, in which every sentence stops as soon as it starts, if it
 
-doesn't strike you as having much to do with the Tragedy of Cato,
+doesn't strike you as having much to do with the [[Tragedy]] of Cato,
 
-has had a very great deal to do with the Tragedy of Captain
+has had a very great deal to do with the [[Tragedy]] of Captain
 
 Gahagan.  They might have hanged my friend between them, with the
 

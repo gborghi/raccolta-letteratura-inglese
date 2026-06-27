@@ -24,8 +24,8 @@ Much of the political muddle and squabble comes from people
 trying to reach what they call a practical agreement.
 It is a very unpractical thing to trust to practical agreement.
 Two people may agree to keep a cat; but if they only agree
-because one is a lover of animals, and the other has a fiendish
-pleasure in watching cruelty to birds, it is probable
+because one is a [[Lover|lover]] of [[Animals|animals]], and the other has a fiendish
+pleasure in watching cruelty to [[Birds|birds]], it is probable
 that the practical agreement will not last very long.
 Other occasions will arise, in which it will be found
 to suffer from the absence of a theoretical agreement.
@@ -43,13 +43,13 @@ it is the small question that is called the big question.
 And the big question would only be permitted as a small
 parenthesis in the middle of the small question.
 
-I happened lately to have a small debate with a very distinguished
+I happened lately to have a small [[debate]] with a very distinguished
 modern writer, Mr. Middleton Murry, on a book that he has written
 about Communism.  I only mention it here because I soon discovered
 that I was not arguing against Communism but against Fatalism.
-I will not discuss the social and economic thesis, because, in truth,
+I will not discuss the social and economic thesis, because, in [[Truth|truth]],
 Mr. Middleton Murry's sort of Communism is rather a curious
-sort of Communism, which he alone would have the spirit
+sort of Communism, which he [[Alone|alone]] would have the spirit
 and originality to explain.  I do not agree with Communism;
 but I do not disagree with it because it would break up
 the existing system of commercialism.  That, I think, is breaking
@@ -59,7 +59,7 @@ And the curious thing is that Mr. Middleton Murry does distinctly admit,
 in so many words, that it would involve the sacrifice of Liberty.
 So that he and I are so far in a state of blissful agreement;
 not practical agreement, but real or theoretical agreement.
-It is true that he adds to this a mystical paradox about losing freedom
+It is true that he adds to this a mystical [[Paradox|paradox]] about losing [[Freedom|freedom]]
 in order to be free, but he would have to explain that for himself.
 Where I found myself in much more fundamental disagreement
 with him was in this very ancient business about Fate; or, as he
@@ -68,7 +68,7 @@ once more into the trampled labyrinth of Fate and Freewill.
 It is enough for me that the second is at least as fundamental an idea
 as the first; and really a more fundamental idea than the first.
 It is quite certain that I _feel_ as if I could leave off writing
-this essay whenever I like.  Nobody can prove that feeling to be
+this [[Essay|essay]] whenever I like.  Nobody can prove that feeling to be
 an illusion, except by a universal scepticism which might equally
 hold fate to be an illusion, or even law to be an illusion.
 The Determinists of my youth used to boast that Science supported them,
@@ -79,7 +79,7 @@ But, anyhow, the idea of choice is an absolute, and nobody can
 get behind it.
 
 What interests me here especially is this.  It seems that many,
-who do probably feel they have freedom of action in the present
+who do probably feel they have [[Freedom|freedom]] of action in the present
 or in the future, are ready to talk in a fatalistic way
 about the past.  Mr. Middleton Murry, though fatalistic
 in a general way, is especially fatalistic about the past.
@@ -107,7 +107,7 @@ For what I really complain of in this brilliant and
 ingenious writer is that, whenever he does try to give
 ultimate reasons for his fixed fatalism and materialism,
 and consequent denial of miracle, he lets me down.
-I well remember how I came down with a crash, in the middle
+I [[Well|well]] remember how I came down with a crash, in the middle
 of the most exalted speculations, when he actually said he could
 not believe in something as a man "of the twentieth century."
 I know there are people who talk like that, but I had not
@@ -118,21 +118,21 @@ opposite a man who wanted to be known by a number.
 Can anybody imagine Spinoza presenting his cosmos as specially
 fitted to the eighteenth century?  Would Abelard base his argument
 on the twelfth century, as the other on the twentieth century?
-Would even Confucius say that truth and wisdom must be reconciled
+Would even Confucius say that [[Truth|truth]] and wisdom must be reconciled
 with the requirements of his own particular date previous
 to the Han Dynasty?  So far from saying this in disparagement
 of the writer's work as a whole, I remark on it as an incongruous
 interruption in his work as a whole.  It seems to me that a
-number of these twentieth-century writers rebel not too much,
+number of these twentieth-century writers [[Rebel|rebel]] not too much,
 but not half enough, against the nineteenth-century conventions.
 One of the Victorian conventions was that all was for
 the best, or at any rate that all was as it had to be.
 The Victorians were all convinced that William the Conqueror
 was bound to conquer; that Wellington was bound to
 beat Napoleon; that Canada was bound to cleave to England;
-that America was bound to cut herself off from England.
+that [[america|America]] was bound to cut herself off from England.
 And it seems to me that the mechanical optimism of Marx,
-and the necessitarian notion of history in moderns like Mr. Murry,
+and the necessitarian notion of [[history]] in moderns like Mr. Murry,
 is but a continuation in that optimistic groove.  To me all the past
 is alive with alternatives, and nobody can show, nobody has
 really attempted to show, that they were not real alternatives.
@@ -141,14 +141,14 @@ had been a week earlier, William the Norman's southern
 campaign might have been launched too late; that if Napoleon
 had decided, after his hesitation, to throw in the Old Guard
 at Borodino, there would have been no Moscow and no Waterloo;
-that there was a time when a few wise words might have saved
+that there was a [[Time|time]] when a few wise words might have saved
 the American Colonies or a few foolish words lost Canada;
 and so on.  In short, I believe that, again and again,
-man was at the cross-roads and might have taken another road.
+man was at the [[Cross|cross]]-roads and might have taken another [[Road|road]].
 Nobody can prove or disprove it metaphysically; but I am the more
-content with a philosophy which permits of occasional miracles,
-because the alternative philosophy does not even permit
+content with a [[philosophy]] which permits of occasional miracles,
+because the alternative [[philosophy]] does not even permit
 of alternatives.  It forbids a man even to dream of anything
-so natural as the Ifs of History.
+so natural as the Ifs of [[history|History]].
 
 -*-

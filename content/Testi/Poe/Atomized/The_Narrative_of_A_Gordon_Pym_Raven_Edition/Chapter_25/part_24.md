@@ -42,15 +42,15 @@ tags:
 
       even of those physical infirmities, the disclosure of which, in
 
-      demanding so much higher a degree of courage, is so much surer an
+      demanding so much higher a degree of [[Courage|courage]], is so much surer an
 
-      evidence of love. I touched upon my college indiscretions—upon my
+      evidence of [[Love|love]]. I touched upon my college indiscretions—upon my
 
       extravagances—upon my carousals—upon my debts—upon my
 
       flirtations. I even went so far as to speak of a slightly hectic
 
-      cough with which, at one time, I had been troubled—of a chronic
+      cough with which, at one [[Time|time]], I had been troubled—of a chronic
 
       rheumatism—of a twinge of hereditary gout—and, in conclusion, of
 
@@ -78,7 +78,7 @@ tags:
 
 
 
-      As she spoke she twirled in her fingers the identical double
+      As she spoke she twirled in her fingers the identical [[Double|double]]
 
       eye-glass which had so overwhelmed me with confusion at the
 
@@ -86,7 +86,7 @@ tags:
 
 
 
-      “Full well—alas! do I remember it,” I exclaimed, pressing
+      “Full [[Well|well]]—alas! do I remember it,” I exclaimed, pressing
 
       passionately the delicate hand which offered the glasses for my
 
@@ -120,7 +120,7 @@ tags:
 
       us the observation of the company, and restrained by their
 
-      presence alone from throwing myself impetuously at her feet.
+      presence [[Alone|alone]] from throwing myself impetuously at her feet.
 
       “Name it, my beloved, my Eugénie, my own!—name it!—but, alas! it
 
@@ -130,13 +130,13 @@ tags:
 
       “You shall conquer, then, _mon ami_,” said she, “for the sake of
 
-      the Eugénie whom you love, this little weakness which you have at
+      the Eugénie whom you [[Love|love]], this little weakness which you have at
 
       last confessed—this weakness more moral than physical—and which,
 
       let me assure you, is so unbecoming the nobility of your real
 
-      nature—so inconsistent with the candor of your usual
+      [[Nature|nature]]—so inconsistent with the candor of your usual
 
       character—and which, if permitted further control, will assuredly
 
@@ -182,11 +182,11 @@ tags:
 
       muster at the moment. “It is done—it is most cheerfully agreed. I
 
-      sacrifice every feeling for your sake. To-night I wear this dear
+      sacrifice every feeling for your sake. To-[[Night|night]] I wear this dear
 
       eye-glass, as an eye-glass, and upon my heart; but with the
 
-      earliest dawn of that morning which gives me the pleasure of
+      earliest [[Dawn|dawn]] of that morning which gives me the pleasure of
 
       calling you wife, I will place it upon my—upon my nose,—and there
 
@@ -194,7 +194,7 @@ tags:
 
       fashionable, but certainly in the more serviceable, form which
 
-      you desire.”
+      you [[Desire|desire]].”
 
 
 
@@ -212,4 +212,4 @@ tags:
 
       could easily enter it unobserved. We were then to call at the
 
-      house of a clergyman who would be in waiting; there be married,
+      [[house]] of a clergyman who would be in waiting; there be married,

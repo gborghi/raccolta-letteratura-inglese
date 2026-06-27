@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 28 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 28 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -16,11 +16,11 @@ tags:
 
 again overcome by trivial appearances of alarm, or misled by a raised
 
-imagination, she stepped quietly forward, and opened the door. Eleanor,
+[[Imagination|imagination]], she stepped quietly forward, and opened the door. [[Eleanor]],
 
-and only Eleanor, stood there. Catherine’s spirits, however, were
+and only [[Eleanor]], stood there. Catherine’s spirits, however, were
 
-tranquillized but for an instant, for Eleanor’s cheeks were pale, and
+tranquillized but for an instant, for [[Eleanor]]’s cheeks were pale, and
 
 her manner greatly agitated. Though evidently intending to come in, it
 
@@ -30,13 +30,13 @@ there. Catherine, supposing some uneasiness on Captain Tilney’s
 
 account, could only express her concern by silent attention, obliged
 
-her to be seated, rubbed her temples with lavender water, and hung over
+her to be seated, rubbed her temples with lavender [[Water|water]], and hung over
 
 her with affectionate solicitude. “My dear Catherine, you must not—you
 
-must not indeed—” were Eleanor’s first connected words. “I am quite
+must not indeed—” were [[Eleanor]]’s first connected words. “I am quite
 
-well. This kindness distracts me—I cannot bear it—I come to you on such
+[[Well|well]]. This kindness distracts me—I cannot bear it—I come to you on such
 
 an errand!”
 
@@ -56,7 +56,7 @@ friend, she exclaimed, “’Tis a messenger from Woodston!”
 
 
 
-“You are mistaken, indeed,” returned Eleanor, looking at her most
+“You are mistaken, indeed,” returned [[Eleanor]], looking at her most
 
 compassionately; “it is no one from Woodston. It is my father himself.”
 
@@ -66,7 +66,7 @@ mentioned his name. His unlooked-for return was enough in itself to
 
 make Catherine’s heart sink, and for a few moments she hardly supposed
 
-there were anything worse to be told. She said nothing; and Eleanor,
+there were anything worse to be told. She said nothing; and [[Eleanor]],
 
 endeavouring to collect herself and speak with firmness, but with eyes
 
@@ -96,7 +96,7 @@ attempt either.”
 
 
 
-“My dear Eleanor,” cried Catherine, suppressing her feelings as well as
+“My dear [[Eleanor]],” cried Catherine, suppressing her feelings as [[Well|well]] as
 
 she could, “do not be so distressed. A second engagement must give way
 
@@ -104,7 +104,7 @@ to a first. I am very, very sorry we are to part—so soon, and so
 
 suddenly too; but I am not offended, indeed I am not. I can finish my
 
-visit here, you know, at any time; or I hope you will come to me. Can
+visit here, you know, at any [[Time|time]]; or I [[Hope|hope]] you will come to me. Can
 
 you, when you return from this lord’s, come to Fullerton?”
 
@@ -118,21 +118,21 @@ you, when you return from this lord’s, come to Fullerton?”
 
 
 
-Eleanor made no answer; and Catherine’s thoughts recurring to something
+[[Eleanor]] made no answer; and Catherine’s thoughts recurring to something
 
 more directly interesting, she added, thinking aloud, “Monday—so soon
 
-as Monday; and you _all_ go. Well, I am certain of—I shall be able to
+as Monday; and you _all_ go. [[Well]], I am certain of—I shall be able to
 
 take leave, however. I need not go till just before you do, you know.
 
-Do not be distressed, Eleanor, I can go on Monday very well. My father
+Do not be distressed, [[Eleanor]], I can go on Monday very [[Well|well]]. My father
 
 and mother’s having no notice of it is of very little consequence. The
 
 General will send a servant with me, I dare say, half the way—and then
 
-I shall soon be at Salisbury, and then I am only nine miles from home.”
+I shall soon be at Salisbury, and then I am only nine miles from [[Home|home]].”
 
 
 
@@ -146,7 +146,7 @@ fixed for your leaving us, and not even the hour is left to your
 
 choice; the very carriage is ordered, and will be here at seven
 
-o’clock, and no servant will be offered you.”
+o’[[Clock|clock]], and no servant will be offered you.”
 
 
 
@@ -162,15 +162,15 @@ anything in extenuation! good God! what will your father and mother
 
 say! after courting you from the protection of real friends to
 
-this—almost double distance from your home, to have you driven out of
+this—almost [[Double|double]] distance from your [[Home|home]], to have you driven out of
 
-the house, without the considerations even of decent civility! dear,
+the [[house]], without the considerations even of decent civility! dear,
 
 dear Catherine, in being the bearer of such a message, I seem guilty
 
 myself of all its insult; yet, I trust you will acquit me, for you must
 
-have been long enough in this house to see that I am but a nominal
+have been long enough in this [[house]] to see that I am but a nominal
 
 mistress of it, that my real power is nothing.”
 
@@ -196,21 +196,21 @@ suppose you to have any concern in, for how is it possible?”
 
 
 
-It was with pain that Catherine could speak at all; and it was only for
+It was with [[Pain|pain]] that Catherine could speak at all; and it was only for
 
-Eleanor’s sake that she attempted it. “I am sure,” said she, “I am very
+[[Eleanor]]’s sake that she attempted it. “I am sure,” said she, “I am very
 
 sorry if I have offended him. It was the last thing I would willingly
 
-have done. But do not be unhappy, Eleanor. An engagement, you know,
+have done. But do not be unhappy, [[Eleanor]]. An engagement, you know,
 
 must be kept. I am only sorry it was not recollected sooner, that I
 
-might have written home. But it is of very little consequence.”
+might have written [[Home|home]]. But it is of very little consequence.”
 
 
 
-“I hope, I earnestly hope, that to your real safety it will be of none;
+“I [[Hope|hope]], I earnestly [[Hope|hope]], that to your real safety it will be of none;
 
 but to everything else it is of the greatest consequence: to comfort,
 
@@ -218,6 +218,6 @@ appearance, propriety, to your family, to the world. Were your friends,
 
 the Allens, still in Bath, you might go to them with comparative ease;
 
-a few hours would take you there; but a journey of seventy miles, to be
+a few hours would take you there; but a [[Journey|journey]] of seventy miles, to be
 
-taken post by you, at your age, alone, unattended!”
+taken post by you, at your age, [[Alone|alone]], unattended!”

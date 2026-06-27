@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 37 (part 4)"
+title: "[[Sense and Sensibility]] — Chapter 37 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -20,7 +20,7 @@ not to be described. While she with the truest affection had been
 
 planning a most eligible connection for him, was it to be supposed that
 
-he could be all the time secretly engaged to another person!—such a
+he could be all the [[Time|time]] secretly engaged to another person!—such a
 
 suspicion could never have entered her head! If she suspected _any_
 
@@ -34,7 +34,7 @@ done, and at last she determined to send for Edward. He came. But I am
 
 sorry to relate what ensued. All that Mrs. Ferrars could say to make
 
-him put an end to the engagement, assisted too as you may well suppose
+him put an end to the engagement, assisted too as you may [[Well|well]] suppose
 
 by my arguments, and Fanny’s entreaties, was of no avail. Duty,
 
@@ -70,7 +70,7 @@ together, and cried, “Gracious God! can this be possible!”
 
 
 
-“Well may you wonder, Marianne,” replied her brother, “at the obstinacy
+“[[Well]] may you [[Wonder|wonder]], Marianne,” replied her brother, “at the obstinacy
 
 which could resist such arguments as these. Your exclamation is very
 
@@ -100,9 +100,9 @@ silent, “he has acted like an honest man! I beg your pardon, Mr.
 
 Dashwood, but if he had done otherwise, I should have thought him a
 
-rascal. I have some little concern in the business, as well as
+rascal. I have some little concern in the business, as [[Well|well]] as
 
-yourself, for Lucy Steele is my cousin, and I believe there is not a
+yourself, for [[Lucy Steele]] is my cousin, and I believe there is not a
 
 better kind of girl in the world, nor one who more deserves a good
 
@@ -110,7 +110,7 @@ husband.”
 
 
 
-John Dashwood was greatly astonished; but his nature was calm, not open
+John Dashwood was greatly astonished; but his [[Nature|nature]] was calm, not open
 
 to provocation, and he never wished to offend anybody, especially
 
@@ -120,7 +120,7 @@ anybody of good fortune. He therefore replied, without any resentment,
 
 “I would by no means speak disrespectfully of any relation of yours,
 
-madam. Miss Lucy Steele is, I dare say, a very deserving young woman,
+madam. Miss [[Lucy Steele]] is, I dare say, a very deserving young woman,
 
 but in the present case you know, the connection must be impossible.
 
@@ -138,7 +138,7 @@ and Mrs. Ferrars’s conduct throughout the whole, has been such as every
 
 conscientious, good mother, in like circumstances, would adopt. It has
 
-been dignified and liberal. Edward has drawn his own lot, and I fear it
+been dignified and liberal. Edward has drawn his own lot, and I [[Fear|fear]] it
 
 will be a bad one.”
 
@@ -152,13 +152,13 @@ woman who could not reward him.
 
 
 
-“Well, sir,” said Mrs. Jennings, “and how did it end?”
+“[[Well]], sir,” said Mrs. Jennings, “and how did it end?”
 
 
 
 “I am sorry to say, ma’am, in a most unhappy rupture:—Edward is
 
-dismissed for ever from his mother’s notice. He left her house
+dismissed for ever from his mother’s notice. He left her [[house]]
 
 yesterday, but where he is gone, or whether he is still in town, I do
 
@@ -170,7 +170,7 @@ not know; for _we_ of course can make no inquiry.”
 
 
 
-“What, indeed, ma’am! It is a melancholy consideration. Born to the
+“What, indeed, ma’am! It is a [[Melancholy|melancholy]] consideration. Born to the
 
 prospect of such affluence! I cannot conceive a situation more
 
@@ -192,7 +192,7 @@ power to assist him.”
 
 “Poor young man!” cried Mrs. Jennings, “I am sure he should be very
 
-welcome to bed and board at my house; and so I would tell him if I
+welcome to bed and board at my [[house]]; and so I would tell him if I
 
 could see him. It is not fit that he should be living about at his own
 
@@ -206,7 +206,7 @@ could not forbear smiling at the form of it.
 
 
 
-“If he would only have done as well by himself,” said John Dashwood,
+“If he would only have done as [[Well|well]] by himself,” said John Dashwood,
 
 “as all his friends were disposed to do by him, he might now have been
 
@@ -226,7 +226,7 @@ over the business.”
 
 
 
-“Well!” said Mrs. Jennings, “that is _her_ revenge. Everybody has a way
+“[[Well]]!” said Mrs. Jennings, “that is _her_ [[Revenge|revenge]]. Everybody has a way
 
 of their own. But I don’t think mine would be, to make one son
 

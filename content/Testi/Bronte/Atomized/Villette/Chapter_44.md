@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 42"
+title: "[[Villette]] — Chapter 42"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -18,10 +18,10 @@ CHAPTER XLII.
 FINIS.
 
 
-Man cannot prophesy. Love is no oracle. Fear sometimes imagines a vain
+Man cannot prophesy. [[Love]] is no oracle. [[Fear]] sometimes imagines a vain
 thing. Those years of absence! How had I sickened over their
-anticipation! The woe they must bring seemed certain as death. I knew
-the nature of their course: I never had doubt how it would harrow as it
+anticipation! The woe they must bring seemed certain as [[Death|death]]. I knew
+the [[Nature|nature]] of their course: I never had [[Doubt|doubt]] how it would harrow as it
 went. The juggernaut on his car towered there a grim load. Seeing him
 draw nigh, burying his broad wheels in the oppressed soil—I, the
 prostrate votary—felt beforehand the annihilating craunch.
@@ -29,12 +29,12 @@ prostrate votary—felt beforehand the annihilating craunch.
 Strange to say—strange, yet true, and owning many parallels in life’s
 experience—that anticipatory craunch proved all—yes—nearly _all_ the
 torture. The great Juggernaut, in his great chariot, drew on lofty,
-loud, and sullen. He passed quietly, like a shadow sweeping the sky, at
-noon. Nothing but a chilling dimness was seen or felt. I looked up.
+loud, and sullen. He passed quietly, like a [[Shadow|shadow]] sweeping the sky, at
+[[Noon|noon]]. Nothing but a chilling dimness was seen or felt. I looked up.
 Chariot and demon charioteer were gone by; the votary still lived.
 
 M. Emanuel was away three years. Reader, they were the three happiest
-years of my life. Do you scout the paradox? Listen. I commenced my
+years of my life. Do you scout the [[Paradox|paradox]]? Listen. I commenced my
 school; I worked—I worked hard. I deemed myself the steward of his
 property, and determined, God willing, to render a good account. Pupils
 came—burghers at first—a higher class ere long. About the middle of the
@@ -42,32 +42,32 @@ second year an unexpected chance threw into my hands an additional
 hundred pounds: one day I received from England a letter containing
 that sum. It came from Mr. Marchmont, the cousin and heir of my dear
 and dead mistress. He was just recovering from a dangerous illness; the
-money was a peace-offering to his conscience, reproaching him in the
+money was a peace-offering to his [[Conscience|conscience]], reproaching him in the
 matter of, I know not what, papers or memoranda found after his
-kinswoman’s death—naming or recommending Lucy Snowe. Mrs. Barrett had
-given him my address. How far his conscience had been sinned against, I
+kinswoman’s [[Death|death]]—naming or recommending [[Lucy Snowe]]. Mrs. Barrett had
+given him my address. How far his [[Conscience|conscience]] had been sinned against, I
 never inquired. I asked no questions, but took the cash and made it
 useful.
 
-With this hundred pounds I ventured to take the house adjoining mine. I
+With this hundred pounds I ventured to take the [[house]] adjoining mine. I
 would not leave that which M. Paul had chosen, in which he had left,
 and where he expected again to find me. My externat became a
 pensionnat; that also prospered.
 
-The secret of my success did not lie so much in myself, in any
+The secret of my [[success]] did not lie so much in myself, in any
 endowment, any power of mine, as in a new state of circumstances, a
-wonderfully changed life, a relieved heart. The spring which moved my
+wonderfully changed life, a relieved heart. The [[spring]] which moved my
 energies lay far away beyond seas, in an Indian isle. At parting, I had
-been left a legacy; such a thought for the present, such a hope for the
+been left a legacy; such a thought for the present, such a [[Hope|hope]] for the
 future, such a motive for a persevering, a laborious, an enterprising,
-a patient and a brave course—I _could_ not flag. Few things shook me
+a patient and a brave course—I _could_ not [[Flag|flag]]. Few things shook me
 now; few things had importance to vex, intimidate, or depress me: most
 things pleased—mere trifles had a charm.
 
 Do not think that this genial flame sustained itself, or lived wholly
-on a bequeathed hope or a parting promise. A generous provider supplied
+on a bequeathed [[Hope|hope]] or a parting promise. A generous provider supplied
 bounteous fuel. I was spared all chill, all stint; I was not suffered
-to fear penury; I was not tried with suspense. By every vessel he
+to [[Fear|fear]] penury; I was not tried with suspense. By every vessel he
 wrote; he wrote as he gave and as he loved, in full-handed,
 full-hearted plenitude. He wrote because he liked to write; he did not
 abridge, because he cared not to abridge. He sat down, he took pen and
@@ -77,17 +77,17 @@ sham and no cheat, and no hollow unreal in him. Apology never dropped
 her slippery oil on his lips—never proffered, by his pen, her coward
 feints and paltry nullities: he would give neither a stone, nor an
 excuse—neither a scorpion; nor a disappointment; his letters were real
-food that nourished, living water that refreshed.
+food that nourished, living [[Water|water]] that refreshed.
 
 And was I grateful? God knows! I believe that scarce a living being so
 remembered, so sustained, dealt with in kind so constant, honourable
-and noble, could be otherwise than grateful to the death.
+and noble, could be otherwise than grateful to the [[Death|death]].
 
 Adherent to his own religion (in him was not the stuff of which is made
-the facile apostate), he freely left me my pure faith. He did not tease
+the facile apostate), he freely left me my pure [[Faith|faith]]. He did not tease
 nor tempt. He said:—
 
-“Remain a Protestant. My little English Puritan, I love Protestantism
+“Remain a Protestant. My little English Puritan, I [[Love|love]] Protestantism
 in you. I own its severe charm. There is something in its ritual I
 cannot receive myself, but it is the sole creed for ‘Lucy.’”
 
@@ -102,50 +102,50 @@ their owner to indulge, we scarce know whether they will not one day be
 reckoned amongst the jewels.
 
 And now the three years are past: M. Emanuel’s return is fixed. It is
-Autumn; he is to be with me ere the mists of November come. My school
-flourishes, my house is ready: I have made him a little library, filled
+[[Autumn]]; he is to be with me ere the mists of November come. My school
+flourishes, my [[house]] is ready: I have made him a little library, filled
 its shelves with the books he left in my care: I have cultivated out of
-love for him (I was naturally no florist) the plants he preferred, and
+[[Love|love]] for him (I was naturally no florist) the plants he preferred, and
 some of them are yet in bloom. I thought I loved him when he went away;
-I love him now in another degree: he is more my own.
+I [[Love|love]] him now in another degree: he is more my own.
 
-The sun passes the equinox; the days shorten, the leaves grow sere;
+The sun passes the equinox; the days shorten, the [[Leaves|leaves]] grow sere;
 but—he is coming.
 
-Frosts appear at night; November has sent his fogs in advance; the wind
-takes its autumn moan; but—he is coming.
+Frosts appear at [[Night|night]]; November has sent his fogs in advance; the [[Wind|wind]]
+takes its [[Autumn|autumn]] moan; but—he is coming.
 
 The skies hang full and dark—a wrack sails from the west; the clouds
 cast themselves into strange forms—arches and broad radiations; there
 rise resplendent mornings—glorious, royal, purple as monarch in his
 state; the heavens are one flame; so wild are they, they rival battle
-at its thickest—so bloody, they shame Victory in her pride. I know some
-signs of the sky; I have noted them ever since childhood. God watch
+at its thickest—so bloody, they shame Victory in her [[Pride|pride]]. I know some
+signs of the sky; I have noted them ever since [[Childhood|childhood]]. God watch
 that sail! Oh! guard it!
 
-The wind shifts to the west. Peace, peace, Banshee—“keening” at every
-window! It will rise—it will swell—it shrieks out long: wander as I may
-through the house this night, I cannot lull the blast. The advancing
-hours make it strong: by midnight, all sleepless watchers hear and fear
-a wild south-west storm. That storm roared frenzied, for seven days. It
+The [[Wind|wind]] shifts to the west. Peace, peace, Banshee—“keening” at every
+[[Window|window]]! It will rise—it will swell—it shrieks out long: wander as I may
+through the [[house]] this [[Night|night]], I cannot lull the blast. The advancing
+hours make it strong: by midnight, all sleepless watchers hear and [[Fear|fear]]
+a wild south-west [[Storm|storm]]. That [[Storm|storm]] roared frenzied, for seven days. It
 did not cease till the Atlantic was strewn with wrecks: it did not lull
 till the deeps had gorged their full of sustenance. Not till the
 destroying angel of tempest had achieved his perfect work, would he
 fold the wings whose waft was thunder—the tremor of whose plumes was
-storm.
+[[Storm|storm]].
 
 Peace, be still! Oh! a thousand weepers, praying in agony on waiting
 shores, listened for that voice, but it was not uttered—not uttered
 till; when the hush came, some could not feel it: till, when the sun
-returned, his light was night to some!
+returned, his light was [[Night|night]] to some!
 
 Here pause: pause at once. There is enough said. Trouble no quiet, kind
-heart; leave sunny imaginations hope. Let it be theirs to conceive the
+heart; leave sunny imaginations [[Hope|hope]]. Let it be theirs to conceive the
 delight of joy born again fresh out of great terror, the rapture of
 rescue from peril, the wondrous reprieve from dread, the fruition of
-return. Let them picture union and a happy succeeding life.
+return. Let them picture [[Union|union]] and a happy succeeding life.
 
-Madame Beck prospered all the days of her life; so did Père Silas;
+[[Madame Beck]] prospered all the days of her life; so did Père Silas;
 Madame Walravens fulfilled her ninetieth year before she died.
 Farewell.
 

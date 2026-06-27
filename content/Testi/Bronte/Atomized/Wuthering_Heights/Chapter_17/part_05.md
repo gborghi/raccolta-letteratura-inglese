@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 17 (part 5)"
+title: "[[Wuthering Heights]] — Chapter 17 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -14,25 +14,25 @@ tags:
 </nav>
 
 
-Isabella ceased speaking, and took a drink of tea; then she rose, and
+[[Isabella]] ceased speaking, and took a drink of tea; then she [[Rose|rose]], and
 bidding me put on her bonnet, and a great shawl I had brought, and
 turning a deaf ear to my entreaties for her to remain another hour, she
-stepped on to a chair, kissed Edgar’s and Catherine’s portraits,
+stepped on to a chair, kissed [[Edgar]]’s and Catherine’s portraits,
 bestowed a similar salute on me, and descended to the carriage,
 accompanied by Fanny, who yelped wild with joy at recovering her
 mistress. She was driven away, never to revisit this neighbourhood: but
 a regular correspondence was established between her and my master when
 things were more settled. I believe her new abode was in the south,
-near London; there she had a son born a few months subsequent to her
+near [[London]]; there she had a son born a few months subsequent to her
 escape. He was christened Linton, and, from the first, she reported him
 to be an ailing, peevish creature.
 
-Mr. Heathcliff, meeting me one day in the village, inquired where she
+Mr. [[Heathcliff]], meeting me one day in the village, inquired where she
 lived. I refused to tell. He remarked that it was not of any moment,
 only she must beware of coming to her brother: she should not be with
 him, if he had to keep her himself. Though I would give no information,
 he discovered, through some of the other servants, both her place of
-residence and the existence of the child. Still, he didn’t molest her:
+residence and the existence of the [[Child|child]]. Still, he didn’t molest her:
 for which forbearance she might thank his aversion, I suppose. He often
 asked about the infant, when he saw me; and on hearing its name, smiled
 grimly, and observed: “They wish me to hate it too, do they?”
@@ -41,54 +41,54 @@ grimly, and observed: “They wish me to hate it too, do they?”
 
 “But I’ll have it,” he said, “when I want it. They may reckon on that!”
 
-Fortunately its mother died before the time arrived; some thirteen
+Fortunately its mother died before the [[Time|time]] arrived; some thirteen
 years after the decease of Catherine, when Linton was twelve, or a
 little more.
 
-On the day succeeding Isabella’s unexpected visit I had no opportunity
+On the day succeeding [[Isabella]]’s unexpected visit I had no opportunity
 of speaking to my master: he shunned conversation, and was fit for
 discussing nothing. When I could get him to listen, I saw it pleased
 him that his sister had left her husband; whom he abhorred with an
-intensity which the mildness of his nature would scarcely seem to
+intensity which the mildness of his [[Nature|nature]] would scarcely seem to
 allow. So deep and sensitive was his aversion, that he refrained from
-going anywhere where he was likely to see or hear of Heathcliff. Grief,
+going anywhere where he was likely to see or hear of [[Heathcliff]]. Grief,
 and that together, transformed him into a complete hermit: he threw up
 his office of magistrate, ceased even to attend church, avoided the
 village on all occasions, and spent a life of entire seclusion within
 the limits of his park and grounds; only varied by solitary rambles on
-the moors, and visits to the grave of his wife, mostly at evening, or
+the moors, and visits to the [[Grave|grave]] of his wife, mostly at evening, or
 early morning before other wanderers were abroad. But he was too good
-to be thoroughly unhappy long. _He_ didn’t pray for Catherine’s soul to
-haunt him. Time brought resignation, and a melancholy sweeter than
-common joy. He recalled her memory with ardent, tender love, and
+to be thoroughly unhappy long. _He_ didn’t pray for Catherine’s [[Soul|soul]] to
+haunt him. [[Time]] brought [[Resignation|resignation]], and a [[Melancholy|melancholy]] sweeter than
+common joy. He recalled her [[Memory|memory]] with ardent, tender [[Love|love]], and
 hopeful aspiring to the better world; where he doubted not she was
 gone.
 
 And he had earthly consolation and affections also. For a few days, I
 said, he seemed regardless of the puny successor to the departed: that
-coldness melted as fast as snow in April, and ere the tiny thing could
+coldness melted as fast as [[Snow|snow]] in April, and ere the tiny thing could
 stammer a word or totter a step it wielded a despot’s sceptre in his
 heart. It was named Catherine; but he never called it the name in full,
 as he had never called the first Catherine short: probably because
-Heathcliff had a habit of doing so. The little one was always Cathy: it
+[[Heathcliff]] had a habit of doing so. The little one was always Cathy: it
 formed to him a distinction from the mother, and yet a connection with
 her; and his attachment sprang from its relation to her, far more than
 from its being his own.
 
-I used to draw a comparison between him and Hindley Earnshaw, and
+I used to draw a comparison between him and [[Hindley Earnshaw]], and
 perplex myself to explain satisfactorily why their conduct was so
 opposite in similar circumstances. They had both been fond husbands,
 and were both attached to their children; and I could not see how they
-shouldn’t both have taken the same road, for good or evil. But, I
+shouldn’t both have taken the same [[Road|road]], for good or evil. But, I
 thought in my mind, Hindley, with apparently the stronger head, has
-shown himself sadly the worse and the weaker man. When his ship struck,
+shown himself sadly the worse and the weaker man. When his [[Ship|ship]] struck,
 the captain abandoned his post; and the crew, instead of trying to save
-her, rushed into riot and confusion, leaving no hope for their luckless
-vessel. Linton, on the contrary, displayed the true courage of a loyal
-and faithful soul: he trusted God; and God comforted him. One hoped,
+her, rushed into riot and confusion, leaving no [[Hope|hope]] for their luckless
+vessel. Linton, on the contrary, displayed the true [[Courage|courage]] of a loyal
+and faithful [[Soul|soul]]: he trusted God; and God comforted him. One hoped,
 and the other despaired: they chose their own lots, and were
 righteously doomed to endure them. But you’ll not want to hear my
-moralising, Mr. Lockwood; you’ll judge, as well as I can, all these
+moralising, Mr. Lockwood; you’ll judge, as [[Well|well]] as I can, all these
 things: at least, you’ll think you will, and that’s the same. The end
 of Earnshaw was what might have been expected; it followed fast on his
 sister’s: there were scarcely six months between them. We, at the
@@ -97,7 +97,7 @@ all that I did learn was on occasion of going to aid in the
 preparations for the funeral. Mr. Kenneth came to announce the event to
 my master.
 
-“Well, Nelly,” said he, riding into the yard one morning, too early not
+“[[Well]], Nelly,” said he, riding into the yard one morning, too early not
 to alarm me with an instant presentiment of bad news, “it’s yours and
 my turn to go into mourning at present. Who’s given us the slip now, do
 you think?”
@@ -108,17 +108,17 @@ you think?”
 hook by the door. “And nip up the corner of your apron: I’m certain
 you’ll need it.”
 
-“Not Mr. Heathcliff, surely?” I exclaimed.
+“Not Mr. [[Heathcliff]], surely?” I exclaimed.
 
-“What! would you have tears for him?” said the doctor. “No,
-Heathcliff’s a tough young fellow: he looks blooming to-day. I’ve just
+“What! would you have [[Tears|tears]] for him?” said the doctor. “No,
+[[Heathcliff]]’s a tough young fellow: he looks blooming to-day. I’ve just
 seen him. He’s rapidly regaining flesh since he lost his better half.”
 
 “Who is it, then, Mr. Kenneth?” I repeated impatiently.
 
-“Hindley Earnshaw! Your old friend Hindley,” he replied, “and my wicked
+“[[Hindley Earnshaw]]! Your old friend Hindley,” he replied, “and my wicked
 gossip: though he’s been too wild for me this long while. There! I said
-we should draw water. But cheer up! He died true to his character:
+we should draw [[Water|water]]. But cheer up! He died true to his character:
 drunk as a lord. Poor lad! I’m sorry, too. One can’t help missing an
 old companion: though he had the worst tricks with him that ever man
 imagined, and has done me many a rascally turn. He’s barely

@@ -1,5 +1,5 @@
 ---
-title: "William Wilson (part 6)"
+title: "[[William Wilson]] (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/William-Wilson-(Poe)"
@@ -31,10 +31,10 @@ tags:
       introduction of cards should appear accidental, and originate in
       the proposal of my contemplated dupe himself. To be brief upon a
       vile topic, none of the low finesse was omitted, so customary
-      upon similar occasions that it is a just matter for wonder how
+      upon similar occasions that it is a just matter for [[Wonder|wonder]] how
       any are still found so besotted as to fall its victim.
 
-      We had protracted our sitting far into the night, and I had at
+      We had protracted our sitting far into the [[Night|night]], and I had at
       length effected the manoeuvre of getting Glendinning as my sole
       antagonist. The game, too, was my favorite _écarté!_ The rest of
       the company, interested in the extent of our play, had abandoned
@@ -45,13 +45,13 @@ tags:
       thought, might partially, but could not altogether account. In a
       very short period he had become my debtor to a large amount,
       when, having taken a long draught of port, he did precisely what
-      I had been coolly anticipating—he proposed to double our already
-      extravagant stakes. With a well-feigned show of reluctance, and
+      I had been coolly anticipating—he proposed to [[Double|double]] our already
+      extravagant stakes. With a [[Well|well]]-feigned show of reluctance, and
       not until after my repeated refusal had seduced him into some
       angry words which gave a color of pique to my compliance, did I
       finally comply. The result, of course, did but prove how entirely
       the prey was in my toils: in less than an hour he had quadrupled
-      his debt. For some time his countenance had been losing the
+      his debt. For some [[Time|time]] his countenance had been losing the
       florid tinge lent it by the wine; but now, to my astonishment, I
       perceived that it had grown to a pallor truly fearful. I say to
       my astonishment. Glendinning had been represented to my eager
@@ -64,14 +64,14 @@ tags:
       than from any less interested motive, I was about to insist,
       peremptorily, upon a discontinuance of the play, when some
       expressions at my elbow from among the company, and an
-      ejaculation evincing utter despair on the part of Glendinning,
+      ejaculation evincing utter [[Despair|despair]] on the part of Glendinning,
       gave me to understand that I had effected his total ruin under
       circumstances which, rendering him an object for the pity of all,
       should have protected him from the ill offices even of a fiend.
 
       What now might have been my conduct it is difficult to say. The
       pitiable condition of my dupe had thrown an air of embarrassed
-      gloom over all; and, for some moments, a profound silence was
+      gloom over all; and, for some moments, a profound [[Silence|silence]] was
       maintained, during which I could not help feeling my cheeks
       tingle with the many burning glances of scorn or reproach cast
       upon me by the less abandoned of the party. I will even own that
@@ -79,7 +79,7 @@ tags:
       from my bosom by the sudden and extraordinary interruption which
       ensued. The wide, heavy folding doors of the apartment were all
       at once thrown open, to their full extent, with a vigorous and
-      rushing impetuosity that extinguished, as if by magic, every
+      rushing impetuosity that extinguished, as if by [[Magic|magic]], every
       candle in the room. Their light, in dying, enabled us just to
       perceive that a stranger had entered, about my own height, and
       closely muffled in a cloak. The darkness, however, was now total;
@@ -92,8 +92,8 @@ tags:
       never-to-be-forgotten whisper which thrilled to the very marrow
       of my bones, “Gentlemen, I make no apology for this behaviour,
       because in thus behaving, I am but fulfilling a duty. You are,
-      beyond doubt, uninformed of the true character of the person who
-      has to-night won at _écarté_ a large sum of money from Lord
+      beyond [[Doubt|doubt]], uninformed of the true character of the person who
+      has to-[[Night|night]] won at _écarté_ a large sum of money from Lord
       Glendinning. I will therefore put you upon an expeditious and
       decisive plan of obtaining this very necessary information.
       Please to examine, at your leisure, the inner linings of the cuff
@@ -105,10 +105,10 @@ tags:
       heard a pin drop upon the floor. In ceasing, he departed at once,
       and as abruptly as he had entered. Can I—shall I describe my
       sensations? Must I say that I felt all the horrors of the damned?
-      Most assuredly I had little time given for reflection. Many hands
+      Most assuredly I had little [[Time|time]] given for reflection. Many hands
       roughly seized me upon the spot, and lights were immediately
       reprocured. A search ensued. In the lining of my sleeve were
-      found all the court cards essential in _écarté_, and, in the
+      found all the [[Court|court]] cards essential in _écarté_, and, in the
       pockets of my wrapper, a number of packs, facsimiles of those
       used at our sittings, with the single exception that mine were of
       the species called, technically, arrondees; the honours being

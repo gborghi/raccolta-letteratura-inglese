@@ -17,30 +17,30 @@ tags:
 CHAPTER 26. Nobody’s State of Mind
 
 
-If Arthur Clennam had not arrived at that wise decision firmly to
+If [[Arthur Clennam]] had not arrived at that wise decision firmly to
 restrain himself from loving Pet, he would have lived on in a state of
 much perplexity, involving difficult struggles with his own heart. Not
 the least of these would have been a contention, always waging within
 it, between a tendency to dislike Mr Henry Gowan, if not to regard
 him with positive repugnance, and a whisper that the inclination was
-unworthy. A generous nature is not prone to strong aversions, and is
+unworthy. A generous [[Nature|nature]] is not prone to strong aversions, and is
 slow to admit them even dispassionately; but when it finds ill-will
 gaining upon it, and can discern between-whiles that its origin is not
-dispassionate, such a nature becomes distressed.
+dispassionate, such a [[Nature|nature]] becomes distressed.
 
 Therefore Mr Henry Gowan would have clouded Clennam’s mind, and would
 have been far oftener present to it than more agreeable persons and
 subjects but for the great prudence of his decision aforesaid. As it
-was, Mr Gowan seemed transferred to Daniel Doyce’s mind; at all events,
+was, Mr Gowan seemed transferred to [[Daniel Doyce]]’s mind; at all events,
 it so happened that it usually fell to Mr Doyce’s turn, rather than
 to Clennam’s, to speak of him in the friendly conversations they held
 together. These were of frequent occurrence now; as the two partners
-shared a portion of a roomy house in one of the grave old-fashioned City
-streets, lying not far from the Bank of England, by London Wall.
+shared a portion of a roomy [[house]] in one of the [[Grave|grave]] old-fashioned [[City]]
+streets, lying not far from the Bank of England, by [[London]] Wall.
 
 Mr Doyce had been to Twickenham to pass the day. Clennam had excused
-himself. Mr Doyce was just come home. He put in his head at the door of
-Clennam’s sitting-room to say Good night.
+himself. Mr Doyce was just come [[Home|home]]. He put in his head at the door of
+Clennam’s sitting-room to say Good [[Night|night]].
 
 ‘Come in, come in!’ said Clennam.
 
@@ -52,13 +52,13 @@ have known what he had been reading; really might not have had his eyes
 upon the book for an hour past, though it lay open before him. He shut
 it up, rather quickly.
 
-‘Are they well?’ he asked.
+‘Are they [[Well|well]]?’ he asked.
 
-‘Yes,’ said Doyce; ‘they are well. They are all well.’
+‘Yes,’ said Doyce; ‘they are [[Well|well]]. They are all [[Well|well]].’
 
 Daniel had an old workmanlike habit of carrying his pocket-handkerchief
 in his hat. He took it out and wiped his forehead with it, slowly
-repeating, ‘They are all well. Miss Minnie looking particularly well, I
+repeating, ‘They are all [[Well|well]]. Miss Minnie looking particularly [[Well|well]], I
 thought.’
 
 ‘Any company at the cottage?’
@@ -77,12 +77,12 @@ What’s-his-name. He was there.’
 ‘Ah, to be sure!’ cried Clennam with unusual vivacity, ‘Yes!--I forgot
 him.’
 
-‘As I mentioned, you may remember,’ said Daniel Doyce, ‘he is always
-there on Sunday.’
+‘As I mentioned, you may remember,’ said [[Daniel Doyce]], ‘he is always
+there on [[Sunday]].’
 
 ‘Yes, yes,’ returned Clennam; ‘I remember now.’
 
-Daniel Doyce, still wiping his forehead, ploddingly repeated. ‘Yes. He
+[[Daniel Doyce]], still wiping his forehead, ploddingly repeated. ‘Yes. He
 was there, he was there. Oh yes, he was there. And his dog. _He_ was
 there too.’
 
@@ -93,7 +93,7 @@ the man.’
 
 ‘You mean Mr--?’
 
-‘I mean Mr Gowan, most decidedly,’ said Daniel Doyce.
+‘I mean Mr Gowan, most decidedly,’ said [[Daniel Doyce]].
 
 There was a gap in the conversation, which Clennam devoted to winding up
 his watch.
@@ -115,31 +115,31 @@ good deal of various kinds of life. It might be difficult to give an
 unselfish reason for being prepossessed against him.’
 
 ‘Not difficult for me, I think, Clennam,’ returned his partner. ‘I see
-him bringing present anxiety, and, I fear, future sorrow, into my old
-friend’s house. I see him wearing deeper lines into my old friend’s
+him bringing present anxiety, and, I [[Fear|fear]], future sorrow, into my old
+friend’s [[house]]. I see him wearing deeper lines into my old friend’s
 face, the nearer he draws to, and the oftener he looks at, the face
 of his daughter. In short, I see him with a net about the pretty and
 affectionate creature whom he will never make happy.’
 
-‘We don’t know,’ said Clennam, almost in the tone of a man in pain,
+‘We don’t know,’ said Clennam, almost in the tone of a man in [[Pain|pain]],
 ‘that he will not make her happy.’
 
 ‘We don’t know,’ returned his partner, ‘that the earth will last another
 hundred years, but we think it highly probable.’
 
-‘Well, well!’ said Clennam, ‘we must be hopeful, and we must at least
+‘[[Well]], [[Well|well]]!’ said Clennam, ‘we must be hopeful, and we must at least
 try to be, if not generous (which, in this case, we have no opportunity
 of being), just. We will not disparage this gentleman, because he is
-successful in his addresses to the beautiful object of his ambition; and
-we will not question her natural right to bestow her love on one whom
+successful in his addresses to the beautiful object of his [[Ambition|ambition]]; and
+we will not question her natural right to bestow her [[Love|love]] on one whom
 she finds worthy of it.’
 
 ‘Maybe, my friend,’ said Doyce. ‘Maybe also, that she is too young and
-petted, too confiding and inexperienced, to discriminate well.’
+petted, too confiding and inexperienced, to discriminate [[Well|well]].’
 
 ‘That,’ said Clennam, ‘would be far beyond our power of correction.’
 
-Daniel Doyce shook his head gravely, and rejoined, ‘I fear so.’
+[[Daniel Doyce]] shook his head gravely, and rejoined, ‘I [[Fear|fear]] so.’
 
 ‘Therefore, in a word,’ said Clennam, ‘we should make up our minds that
 it is not worthy of us to say any ill of Mr Gowan. It would be a poor
@@ -149,11 +149,11 @@ not to depreciate him.’
 ‘I am not quite so sure of myself, and therefore I reserve my privilege
 of objecting to him,’ returned the other. ‘But, if I am not sure of
 myself, I am sure of you, Clennam, and I know what an upright man you
-are, and how much to be respected. Good night, _my_ friend and partner!’
+are, and how much to be respected. Good [[Night|night]], _my_ friend and partner!’
 He shook his hand in saying this, as if there had been something serious
-at the bottom of their conversation; and they separated.
+at the [[Bottom|bottom]] of their conversation; and they separated.
 
-By this time they had visited the family on several occasions, and had
+By this [[Time|time]] they had visited the family on several occasions, and had
 always observed that even a passing allusion to Mr Henry Gowan when
 he was not among them, brought back the cloud which had obscured Mr
 Meagles’s sunshine on the morning of the chance encounter at the Ferry.
@@ -166,17 +166,17 @@ his silent fighting of his way through the mental condition of this
 period might have been a little meritorious. In the constant effort not
 to be betrayed into a new phase of the besetting sin of his experience,
 the pursuit of selfish objects by low and small means, and to hold
-instead to some high principle of honour and generosity, there might
+instead to some high principle of [[Honour|honour]] and generosity, there might
 have been a little merit. In the resolution not even to avoid Mr
-Meagles’s house, lest, in the selfish sparing of himself, he should
+Meagles’s [[house]], lest, in the selfish sparing of himself, he should
 bring any slight distress upon the daughter through making her the cause
 of an estrangement which he believed the father would regret, there
 might have been a little merit. In the modest truthfulness of always
 keeping in view the greater equality of Mr Gowan’s years and the greater
 attractions of his person and manner, there might have been a little
 merit. In doing all this and much more, in a perfectly unaffected way
-and with a manful and composed constancy, while the pain within him
-(peculiar as his life and history) was very sharp, there might have been
+and with a manful and composed constancy, while the [[Pain|pain]] within him
+(peculiar as his life and [[history]]) was very sharp, there might have been
 some quiet strength of character. But, after the resolution he had made,
 of course he could have no such merits as these; and such a state of
 mind was nobody’s--nobody’s.
@@ -192,9 +192,9 @@ element in his state of mind.
 
 ‘I quite regret you were not with us yesterday,’ said Mr Henry Gowan,
 calling on Clennam the next morning. ‘We had an agreeable day up the
-river there.’
+[[River|river]] there.’
 
-So he had heard, Arthur said.
+So he had heard, [[arthur|Arthur]] said.
 
 ‘From your partner?’ returned Henry Gowan. ‘What a dear old fellow he
 is!’
@@ -208,15 +208,15 @@ Here was one of the many little rough points that had a tendency to
 grate on Clennam’s hearing. He put it aside by merely repeating that he
 had a high regard for Mr Doyce.
 
-‘He is charming! To see him mooning along to that time of life,
+‘He is charming! To see him mooning along to that [[Time|time]] of life,
 laying down nothing by the way and picking up nothing by the way, is
-delightful. It warms a man. So unspoilt, so simple, such a good soul!
+delightful. It warms a man. So unspoilt, so simple, such a good [[Soul|soul]]!
 Upon my life Mr Clennam, one feels desperately worldly and wicked in
-comparison with such an innocent creature. I speak for myself, let me
+comparison with such an [[Innocent|innocent]] creature. I speak for myself, let me
 add, without including you. You are genuine also.’
 
 ‘Thank you for the compliment,’ said Clennam, ill at ease; ‘you are too,
-I hope?’
+I [[Hope|hope]]?’
 
 ‘So so,’ rejoined the other. ‘To be candid with you, tolerably. I am
 not a great impostor. Buy one of my pictures, and I assure you,
@@ -230,7 +230,7 @@ the more you give him, the more he’ll impose upon you. They all do it.’
 market. Give almost any man I know ten pounds, and he will impose upon
 you to a corresponding extent; a thousand pounds--to a corresponding
 extent; ten thousand pounds--to a corresponding extent. So great the
-success, so great the imposition. But what a capital world it is!’ cried
+[[success]], so great the imposition. But what a capital world it is!’ cried
 Gowan with warm enthusiasm. ‘What a jolly, excellent, lovable world it
 is!’
 
@@ -243,7 +243,7 @@ was chiefly acted on by--’
 Office.’
 
 ‘Ah! Don’t be hard upon the Barnacles,’ said Gowan, laughing afresh,
-‘they are darling fellows! Even poor little Clarence, the born idiot of
+‘they are darling fellows! Even poor little [[Clarence]], the born idiot of
 the family, is the most agreeable and most endearing blockhead! And by
 Jupiter, with a kind of cleverness in him too that would astonish you!’
 
@@ -253,15 +253,15 @@ Jupiter, with a kind of cleverness in him too that would astonish you!’
 which reduced everything in the wide world to the same light weight,
 ‘though I can’t deny that the Circumlocution Office may ultimately
 shipwreck everybody and everything, still, that will probably not be in
-our time--and it’s a school for gentlemen.’
+our [[Time|time]]--and it’s a school for gentlemen.’
 
 ‘It’s a very dangerous, unsatisfactory, and expensive school to the
 people who pay to keep the pupils there, I am afraid,’ said Clennam,
 shaking his head.
 
 ‘Ah! You are a terrible fellow,’ returned Gowan, airily. ‘I can
-understand how you have frightened that little donkey, Clarence, the
-most estimable of moon-calves (I really love him) nearly out of his
+understand how you have frightened that little [[donkey]], [[Clarence]], the
+most estimable of [[Moon|moon]]-calves (I really [[Love|love]] him) nearly out of his
 wits. But enough of him, and of all the rest of them. I want to present
 you to my mother, Mr Clennam. Pray do me the favour to give me the
 opportunity.’
@@ -270,7 +270,7 @@ In nobody’s state of mind, there was nothing Clennam would have desired
 less, or would have been more at a loss how to avoid.
 
 ‘My mother lives in a most primitive manner down in that dreary
-red-brick dungeon at Hampton Court,’ said Gowan. ‘If you would make
+red-brick dungeon at Hampton [[Court]],’ said Gowan. ‘If you would make
 your own appointment, suggest your own day for permitting me to take
 you there to dinner, you would be bored and she would be charmed. Really
 that’s the state of the case.’
@@ -280,7 +280,7 @@ great deal that was simple in the best sense, because unpractised and
 unused; and in his simplicity and modesty, he could only say that he was
 happy to place himself at Mr Gowan’s disposal. Accordingly he said it,
 and the day was fixed. And a dreaded day it was on his part, and a very
-unwelcome day when it came and they went down to Hampton Court together.
+unwelcome day when it came and they went down to Hampton [[Court]] together.
 
 The venerable inhabitants of that venerable pile seemed, in those times,
 to be encamped there like a sort of civilised gipsies. There was a
@@ -302,8 +302,8 @@ eyes of their receivers, pretended not to smell cooking three feet off;
 people, confronting closets accidentally left open, pretended not to see
 bottles; visitors with their heads against a partition of thin canvas,
 and a page and a young female at high words on the other side, made
-believe to be sitting in a primeval silence. There was no end to the
-small social accommodation-bills of this nature which the gipsies of
+believe to be sitting in a primeval [[Silence|silence]]. There was no end to the
+small social accommodation-bills of this [[Nature|nature]] which the gipsies of
 gentility were constantly drawing upon, and accepting for, one another.
 
 Some of these Bohemians were of an irritable temperament, as constantly
@@ -311,25 +311,25 @@ soured and vexed by two mental trials: the first, the consciousness
 that they had never got enough out of the public; the second, the
 consciousness that the public were admitted into the building. Under the
 latter great wrong, a few suffered dreadfully--particularly on Sundays,
-when they had for some time expected the earth to open and swallow
+when they had for some [[Time|time]] expected the earth to open and [[Swallow|swallow]]
 the public up; but which desirable event had not yet occurred, in
 consequence of some reprehensible laxity in the arrangements of the
 Universe.
 
 Mrs Gowan’s door was attended by a family servant of several years’
 standing, who had his own crow to pluck with the public concerning a
-situation in the Post-Office which he had been for some time expecting,
+situation in the Post-Office which he had been for some [[Time|time]] expecting,
 and to which he was not yet appointed. He perfectly knew that the public
 could never have got him in, but he grimly gratified himself with the
 idea that the public kept him out. Under the influence of this injury
 (and perhaps of some little straitness and irregularity in the matter
 of wages), he had grown neglectful of his person and morose in mind;
-and now beholding in Clennam one of the degraded body of his oppressors,
+and now beholding in Clennam one of the degraded [[Body|body]] of his oppressors,
 received him with ignominy.
 
 Mrs Gowan, however, received him with condescension. He found her a
-courtly old lady, formerly a Beauty, and still sufficiently
-well-favoured to have dispensed with the powder on her nose and a
+courtly old lady, formerly a [[Beauty]], and still sufficiently
+[[Well|well]]-favoured to have dispensed with the powder on her nose and a
 certain impossible bloom under each eye. She was a little lofty with
 him; so was another old lady, dark-browed and high-nosed, and who must
 have had something real about her or she could not have existed, but it
@@ -345,15 +345,15 @@ whole they let him off lightly.
 The dignified old gentleman turned out to be Lord Lancaster
 Stiltstalking, who had been maintained by the Circumlocution Office for
 many years as a representative of the Britannic Majesty abroad.
-This noble Refrigerator had iced several European courts in his time,
-and had done it with such complete success that the very name of
+This noble Refrigerator had iced several European courts in his [[Time|time]],
+and had done it with such complete [[success]] that the very name of
 Englishman yet struck cold to the stomachs of foreigners who had the
-distinguished honour of remembering him at a distance of a quarter of a
+distinguished [[Honour|honour]] of remembering him at a distance of a quarter of a
 century.
 
 He was now in retirement, and hence (in a ponderous white cravat, like
-a stiff snow-drift) was so obliging as to shade the dinner. There was a
-whisper of the pervading Bohemian character in the nomadic nature of
+a stiff [[Snow|snow]]-drift) was so obliging as to shade the dinner. There was a
+whisper of the pervading Bohemian character in the nomadic [[Nature|nature]] of
 the service and its curious races of plates and dishes; but the noble
 Refrigerator, infinitely better than plate or porcelain, made it superb.
 He shaded the dinner, cooled the wines, chilled the gravy, and blighted
@@ -363,18 +363,18 @@ There was only one other person in the room: a microscopically small
 footboy, who waited on the malevolent man who hadn’t got into the
 Post-Office. Even this youth, if his jacket could have been unbuttoned
 and his heart laid bare, would have been seen, as a distant adherent of
-the Barnacle family, already to aspire to a situation under Government.
+the Barnacle family, already to aspire to a situation under [[government|Government]].
 
-Mrs Gowan with a gentle melancholy upon her, occasioned by her son’s
-being reduced to court the swinish public as a follower of the low Arts,
+Mrs Gowan with a gentle [[Melancholy|melancholy]] upon her, occasioned by her son’s
+being reduced to [[Court|court]] the swinish public as a follower of the low Arts,
 instead of asserting his birthright and putting a ring through its nose
 as an acknowledged Barnacle, headed the conversation at dinner on the
-evil days. It was then that Clennam learned for the first time what
+evil days. It was then that Clennam learned for the first [[Time|time]] what
 little pivots this great world goes round upon.
 
 ‘If John Barnacle,’ said Mrs Gowan, after the degeneracy of the times
 had been fully ascertained, ‘if John Barnacle had but abandoned his most
-unfortunate idea of conciliating the mob, all would have been well, and
+unfortunate idea of conciliating the mob, all would have been [[Well|well]], and
 I think the country would have been preserved.’
 
 The old lady with the high nose assented; but added that if Augustus
@@ -386,7 +386,7 @@ The noble Refrigerator assented; but added that if William Barnacle and
 Tudor Stiltstalking, when they came over to one another and formed
 their ever-memorable coalition, had boldly muzzled the newspapers,
 and rendered it penal for any Editor-person to presume to discuss the
-conduct of any appointed authority abroad or at home, he thought the
+conduct of any appointed authority abroad or at [[Home|home]], he thought the
 country would have been preserved.
 
 It was agreed that the country (another word for the Barnacles and
@@ -396,10 +396,10 @@ John Barnacle, Augustus Stiltstalking, William Barnacle and Tudor
 Stiltstalking, Tom, Dick, or Harry Barnacle or Stiltstalking, because
 there was nobody else but mob. And this was the feature of the
 conversation which impressed Clennam, as a man not used to it, very
-disagreeably: making him doubt if it were quite right to sit there,
+disagreeably: making him [[Doubt|doubt]] if it were quite right to sit there,
 silently hearing a great nation narrowed to such little bounds.
 Remembering, however, that in the Parliamentary debates, whether on the
-life of that nation’s body or the life of its soul, the question was
+life of that nation’s [[Body|body]] or the life of its [[Soul|soul]], the question was
 usually all about and between John Barnacle, Augustus Stiltstalking,
 William Barnacle and Tudor Stiltstalking, Tom, Dick, or Harry Barnacle
 or Stiltstalking, and nobody else; he said nothing on the part of mob,
@@ -416,7 +416,7 @@ condition with which Nobody was incessantly contending, he would have
 suspected it, and would have struggled with the suspicion as a meanness,
 even while he sat at the table.
 
-In the course of a couple of hours the noble Refrigerator, at no time
+In the course of a couple of hours the noble Refrigerator, at no [[Time|time]]
 less than a hundred years behind the period, got about five centuries
 in arrears, and delivered solemn political oracles appropriate to that
 epoch. He finished by freezing a cup of tea for his own drinking,
@@ -444,7 +444,7 @@ In nobody’s difficulties, he would have found it very difficult to
 answer; very difficult indeed to smile, and say ‘Who?’
 
 ‘Oh! You know!’ she returned. ‘This flame of Henry’s. This unfortunate
-fancy. There! If it is a point of honour that I should originate the
+fancy. There! If it is a point of [[Honour|honour]] that I should originate the
 name--Miss Mickles--Miggles.’
 
 ‘Miss Meagles,’ said Clennam, ‘is very beautiful.’
@@ -455,7 +455,7 @@ it, even now; though it is something to have Henry corroborated with so
 much gravity and emphasis. He picked the people up at Rome, I think?’
 
 The phrase would have given nobody mortal offence. Clennam replied,
-‘Excuse me, I doubt if I understand your expression.’
+‘Excuse me, I [[Doubt|doubt]] if I understand your expression.’
 
 ‘Picked the people up,’ said Mrs Gowan, tapping the sticks of her closed
 fan (a large green one, which she used as a hand-screen) on her little
@@ -481,7 +481,7 @@ looks?’
 
 Clennam, after a moment’s stiffness, bowed.
 
-‘That’s comforting, and I hope you may be right. Did Henry tell me you
+‘That’s comforting, and I [[Hope|hope]] you may be right. Did Henry tell me you
 had travelled with them?’
 
 ‘I travelled with my friend Mr Meagles, and his wife and daughter,
@@ -489,13 +489,13 @@ during some months.’ (Nobody’s heart might have been wrung by the
 remembrance.)
 
 ‘Really comforting, because you must have had a large experience of
-them. You see, Mr Clennam, this thing has been going on for a long time,
+them. You see, Mr Clennam, this thing has been going on for a long [[Time|time]],
 and I find no improvement in it. Therefore to have the opportunity of
-speaking to one so well informed about it as yourself, is an immense
+speaking to one so [[Well|well]] informed about it as yourself, is an immense
 relief to me. Quite a boon. Quite a blessing, I am sure.’
 
 ‘Pardon me,’ returned Clennam, ‘but I am not in Mr Henry Gowan’s
-confidence. I am far from being so well informed as you suppose me to
+confidence. I am far from being so [[Well|well]] informed as you suppose me to
 be. Your mistake makes my position a very delicate one. No word on this
 topic has ever passed between Mr Henry Gowan and myself.’
 
@@ -506,9 +506,9 @@ cavalry.
 ‘Not in his confidence? No,’ said Mrs Gowan. ‘No word has passed between
 you? No. That I can imagine. But there are unexpressed confidences, Mr
 Clennam; and as you have been together intimately among these people, I
-cannot doubt that a confidence of that sort exists in the present case.
+cannot [[Doubt|doubt]] that a confidence of that sort exists in the present case.
 Perhaps you have heard that I have suffered the keenest distress of
-mind from Henry’s having taken to a pursuit which--well!’ shrugging her
+mind from Henry’s having taken to a pursuit which--[[Well|well]]!’ shrugging her
 shoulders, ‘a very respectable pursuit, I dare say, and some artists
 are, as artists, quite superior persons; still, we never yet in our
 family have gone beyond an Amateur, and it is a pardonable weakness to
@@ -519,13 +519,13 @@ be magnanimous, could not keep down the thought that there was mighty
 little danger of the family’s ever going beyond an Amateur, even as it
 was.
 
-‘Henry,’ the mother resumed, ‘is self-willed and resolute; and as these
+‘Henry,’ the mother resumed, ‘is [[Self|self]]-willed and resolute; and as these
 people naturally strain every nerve to catch him, I can entertain very
-little hope, Mr Clennam, that the thing will be broken off. I apprehend
+little [[Hope|hope]], Mr Clennam, that the thing will be broken off. I apprehend
 the girl’s fortune will be very small; Henry might have done much
 better; there is scarcely anything to compensate for the connection:
 still, he acts for himself; and if I find no improvement within a short
-time, I see no other course than to resign myself and make the best of
+[[Time|time]], I see no other course than to resign myself and make the best of
 these people. I am infinitely obliged to you for what you have told
 me.’
 
@@ -541,34 +541,34 @@ right. You have supposed Mr Meagles and his family to strain every
 nerve, I think you said--’
 
 ‘Every nerve,’ repeated Mrs Gowan, looking at him in calm obstinacy,
-with her green fan between her face and the fire.
+with her green fan between her face and the [[Fire|fire]].
 
 ‘To secure Mr Henry Gowan?’
 
 The lady placidly assented.
 
-‘Now that is so far,’ said Arthur, ‘from being the case, that I know
+‘Now that is so far,’ said [[arthur|Arthur]], ‘from being the case, that I know
 Mr Meagles to be unhappy in this matter; and to have interposed all
-reasonable obstacles with the hope of putting an end to it.’
+reasonable obstacles with the [[Hope|hope]] of putting an end to it.’
 
 Mrs Gowan shut up her great green fan, tapped him on the arm with it,
 and tapped her smiling lips. ‘Why, of course,’ said she. ‘Just what I
 mean.’
 
-Arthur watched her face for some explanation of what she did mean.
+[[arthur|Arthur]] watched her face for some explanation of what she did mean.
 
 ‘Are you really serious, Mr Clennam? Don’t you see?’
 
-Arthur did not see; and said so.
+[[arthur|Arthur]] did not see; and said so.
 
 ‘Why, don’t I know my son, and don’t I know that this is exactly the way
 to hold him?’ said Mrs Gowan, contemptuously; ‘and do not these Miggles
-people know it, at least as well as I? Oh, shrewd people, Mr Clennam:
+people know it, at least as [[Well|well]] as I? Oh, shrewd people, Mr Clennam:
 evidently people of business! I believe Miggles belonged to a Bank. It
 ought to have been a very profitable Bank, if he had much to do with its
-management. This is very well done, indeed.’
+management. This is very [[Well|well]] done, indeed.’
 
-‘I beg and entreat you, ma’am--’ Arthur interposed.
+‘I beg and entreat you, ma’am--’ [[arthur|Arthur]] interposed.
 
 ‘Oh, Mr Clennam, can you really be so credulous?’
 
@@ -581,21 +581,21 @@ perfectly groundless suspicion.’
 It is very knowingly done indeed, and seems to have taken _you_ in
 completely.’ She laughed; and again sat tapping her lips with her fan,
 and tossing her head, as if she added, ‘Don’t tell me. I know such
-people will do anything for the honour of such an alliance.’
+people will do anything for the [[Honour|honour]] of such an alliance.’
 
 At this opportune moment, the cards were thrown up, and Mr Henry Gowan
 came across the room saying, ‘Mother, if you can spare Mr Clennam for
-this time, we have a long way to go, and it’s getting late.’ Mr Clennam
-thereupon rose, as he had no choice but to do; and Mrs Gowan showed him,
+this [[Time|time]], we have a long way to go, and it’s getting late.’ Mr Clennam
+thereupon [[Rose|rose]], as he had no choice but to do; and Mrs Gowan showed him,
 to the last, the same look and the same tapped contemptuous lips.
 
 ‘You have had a portentously long audience of my mother,’ said Gowan, as
-the door closed upon them. ‘I fervently hope she has not bored you?’
+the door closed upon them. ‘I fervently [[Hope|hope]] she has not bored you?’
 
 ‘Not at all,’ said Clennam.
 
-They had a little open phaeton for the journey, and were soon in it on
-the road home. Gowan, driving, lighted a cigar; Clennam declined one. Do
+They had a little open phaeton for the [[Journey|journey]], and were soon in it on
+the [[Road|road]] [[Home|home]]. Gowan, driving, lighted a cigar; Clennam declined one. Do
 what he would, he fell into such a mood of abstraction that Gowan said
 again, ‘I am very much afraid my mother has bored you?’ To which he
 roused himself to answer, ‘Not at all!’ and soon relapsed again.
@@ -612,15 +612,15 @@ confidence in him? He would have thought, even if there were no such
 design as that, had he brought him there to play with his repressed
 emotions, and torment him? The current of these meditations would have
 been stayed sometimes by a rush of shame, bearing a remonstrance to
-himself from his own open nature, representing that to shelter such
+himself from his own open [[Nature|nature]], representing that to shelter such
 suspicions, even for the passing moment, was not to hold the high,
 unenvious course he had resolved to keep. At those times, the striving
 within him would have been hardest; and looking up and catching Gowan’s
 eyes, he would have started as if he had done him an injury.
 
-Then, looking at the dark road and its uncertain objects, he would have
+Then, looking at the dark [[Road|road]] and its uncertain objects, he would have
 gradually trailed off again into thinking, ‘Where are we driving, he
-and I, I wonder, on the darker road of life? How will it be with us, and
+and I, I [[Wonder|wonder]], on the darker [[Road|road]] of life? How will it be with us, and
 with her, in the obscure distance?’ Thinking of her, he would have been
 troubled anew with a reproachful misgiving that it was not even loyal to
 her to dislike him, and that in being so easily prejudiced against him

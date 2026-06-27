@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 23 (part 4)"
+title: "[[Shirley]] — Chapter 23 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -52,7 +52,7 @@ herself up, puckered her black eyebrows, but still looked puzzled.
 
 
 
-"I have ever been noted for sagacity and discernment from childhood,"
+"I have ever been noted for sagacity and discernment from [[Childhood|childhood]],"
 
 she returned; for, indeed, on the possession of these qualities she
 
@@ -90,9 +90,9 @@ and youthful face a passport to her affections. It was seldom she met
 
 with all these obnoxious qualities combined in one individual; still
 
-more seldom she found that individual at her mercy, under circumstances
+more seldom she found that individual at her [[Mercy|mercy]], under circumstances
 
-in which she could crush her well. She happened this afternoon to be
+in which she could crush her [[Well|well]]. She happened this afternoon to be
 
 specially bilious and morose--as much disposed to gore as any vicious
 
@@ -104,7 +104,7 @@ specially bilious and morose--as much disposed to gore as any vicious
 
 as come to try their life's luck here at Hollow's Cottage may, by a very
 
-little clever female artifice, cajole the mistress of the house, and
+little clever female artifice, cajole the mistress of the [[house]], and
 
 have the game all in their own hands. You are fond of your cousin's
 
@@ -132,7 +132,7 @@ her spinster friends."
 
 "Mrs. Yorke," said Caroline, lifting her eyes slowly, their blue orbs at
 
-the same time clearing from trouble, and shining steady and full, while
+the same [[Time|time]] clearing from trouble, and shining steady and full, while
 
 the glow of shame left her cheek, and its hue turned pale and
 
@@ -162,7 +162,7 @@ better than you think them, much better than any bookish, romancing chit
 
 of a girl can be who hardly ever puts her nose over her uncle the
 
-parson's garden wall."
+parson's [[Garden|garden]] wall."
 
 
 
@@ -172,9 +172,9 @@ matter whether you excuse me or not--you have attacked me without
 
 provocation; I shall defend myself without apology. Of my relations with
 
-my two cousins you are ignorant. In a fit of ill-humour you have
+my two cousins you are ignorant. In a fit of ill-[[Humour|humour]] you have
 
-attempted to poison them by gratuitous insinuations, which are far more
+attempted to [[Poison|poison]] them by gratuitous insinuations, which are far more
 
 crafty and false than anything with which you can justly charge me. That
 
@@ -192,7 +192,7 @@ narrow-minded enough to think it so. You dislike me. You have no just
 
 reason for disliking me; therefore keep the expression of your aversion
 
-to yourself. If at any time in future you evince it annoyingly, I shall
+to yourself. If at any [[Time|time]] in future you evince it annoyingly, I shall
 
 answer even less scrupulously than I have done now."
 
@@ -202,7 +202,7 @@ She ceased, and sat in white and still excitement. She had spoken in the
 
 clearest of tones, neither fast nor loud; but her silver accents
 
-thrilled the ear. The speed of the current in her veins was just then as
+thrilled the ear. The [[Speed|speed]] of the current in her veins was just then as
 
 swift as it was viewless.
 
@@ -210,7 +210,7 @@ swift as it was viewless.
 
 Mrs. Yorke was not irritated at the reproof, worded with a severity so
 
-simple, dictated by a pride so quiet. Turning coolly to Miss Moore, she
+simple, dictated by a [[Pride|pride]] so quiet. Turning coolly to Miss Moore, she
 
 said, nodding her cap approvingly, "She has spirit in her, after
 
@@ -236,7 +236,7 @@ language so harsh, unless in answer to unprovoked insult."
 
 "Mother, you have found your match," pronounced little Jessie, whom the
 
-scene appeared greatly to edify. Rose had heard the whole with an
+scene appeared greatly to edify. [[Rose]] had heard the whole with an
 
 unmoved face. She now said, "No; Miss Helstone is not my mother's match,
 

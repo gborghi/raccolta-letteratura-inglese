@@ -17,48 +17,48 @@ tags:
 A DEFENCE OF PATRIOTISM
 
 
-The decay of patriotism in England during the last year or two is a
-serious and distressing matter. Only in consequence of such a decay
-could the current lust of territory be confounded with the ancient love
+The [[Decay|decay]] of patriotism in England during the last year or two is a
+serious and distressing matter. Only in consequence of such a [[Decay|decay]]
+could the current lust of territory be confounded with the ancient [[Love|love]]
 of country. We may imagine that if there were no such thing as a pair of
-lovers left in the world, all the vocabulary of love might without
-rebuke be transferred to the lowest and most automatic desire. If no
+[[lovers]] left in the world, all the vocabulary of [[Love|love]] might without
+rebuke be transferred to the lowest and most automatic [[Desire|desire]]. If no
 type of chivalrous and purifying passion remained, there would be no one
-left to say that lust bore none of the marks of love, that lust was
-rapacious and love pitiful, that lust was blind and love vigilant, that
-lust sated itself and love was insatiable. So it is with the 'love of
-the city,' that high and ancient intellectual passion which has been
-written in red blood on the same table with the primal passions of our
-being. On all sides we hear to-day of the love of our country, and yet
-anyone who has literally such a love must be bewildered at the talk,
-like a man hearing all men say that the moon shines by day and the sun
-by night. The conviction must come to him at last that these men do not
-realize what the word 'love' means, that they mean by the love of
-country, not what a mystic might mean by the love of God, but something
-of what a child might mean by the love of jam. To one who loves his
+left to say that lust bore none of the marks of [[Love|love]], that lust was
+rapacious and [[Love|love]] pitiful, that lust was blind and [[Love|love]] vigilant, that
+lust sated itself and [[Love|love]] was insatiable. So it is with the '[[Love|love]] of
+the [[City|city]],' that high and ancient intellectual passion which has been
+written in red [[Blood|blood]] on the same table with the primal passions of our
+being. On all sides we hear to-day of the [[Love|love]] of our country, and yet
+anyone who has literally such a [[Love|love]] must be bewildered at the talk,
+like a man hearing all men say that the [[Moon|moon]] shines by day and the sun
+by [[Night|night]]. The conviction must come to him at last that these men do not
+realize what the word '[[Love|love]]' means, that they mean by the [[Love|love]] of
+country, not what a mystic might mean by the [[Love|love]] of God, but something
+of what a [[Child|child]] might mean by the [[Love|love]] of jam. To one who loves his
 fatherland, for instance, our boasted indifference to the ethics of a
 national war is mere mysterious gibberism. It is like telling a man that
 a boy has committed murder, but that he need not mind because it is only
-his son. Here clearly the word 'love' is used unmeaningly. It is the
-essence of love to be sensitive, it is a part of its doom; and anyone
+his son. Here clearly the word '[[Love|love]]' is used unmeaningly. It is the
+essence of [[Love|love]] to be sensitive, it is a part of its doom; and anyone
 who objects to the one must certainly get rid of the other. This
 sensitiveness, rising sometimes to an almost morbid sensitiveness, was
-the mark of all great lovers like Dante and all great patriots like
+the mark of all great [[lovers]] like [[Dante]] and all great patriots like
 Chatham. 'My country, right or wrong,' is a thing that no patriot would
 think of saying except in a desperate case. It is like saying, 'My
-mother, drunk or sober.' No doubt if a decent man's mother took to drink
+mother, drunk or sober.' No [[Doubt|doubt]] if a decent man's mother took to drink
 he would share her troubles to the last; but to talk as if he would be
 in a state of gay indifference as to whether his mother took to drink or
 not is certainly not the language of men who know the great mystery.
 
 What we really need for the frustration and overthrow of a deaf and
-raucous Jingoism is a renascence of the love of the native land. When
+raucous Jingoism is a renascence of the [[Love|love]] of the native land. When
 that comes, all shrill cries will cease suddenly. For the first of all
-the marks of love is seriousness: love will not accept sham bulletins or
+the marks of [[Love|love]] is seriousness: [[Love|love]] will not accept sham bulletins or
 the empty victory of words. It will always esteem the most candid
-counsellor the best. Love is drawn to truth by the unerring magnetism of
-agony; it gives no pleasure to the lover to see ten doctors dancing with
-vociferous optimism round a death-bed.
+counsellor the best. [[Love]] is drawn to [[Truth|truth]] by the unerring magnetism of
+agony; it gives no pleasure to the [[Lover|lover]] to see ten doctors dancing with
+vociferous optimism round a [[Death|death]]-bed.
 
 We have to ask, then, Why is it that this recent movement in England,
 which has honestly appeared to many a renascence of patriotism, seems to
@@ -73,7 +73,7 @@ a high central intellectual patriotism, a patriotism of the head and
 heart of the Empire, and not merely of its fists and its boots? A rude
 Athenian sailor may very likely have thought that the glory of Athens
 lay in rowing with the right kind of oars, or having a good supply of
-garlic; but Pericles did not think that this was the glory of Athens.
+garlic; but [[Pericles]] did not think that this was the glory of Athens.
 With us, on the other hand, there is no difference at all between the
 patriotism preached by Mr. Chamberlain and that preached by Mr. Pat
 Rafferty, who sings 'What do you think of the Irish now?' They are both
@@ -88,33 +88,33 @@ man's enlightenment as to the facts. If the son of Thackeray, let us
 say, were brought up in ignorance of his father's fame and genius, it is
 not improbable that he would be proud of the fact that his father was
 over six feet high. It seems to me that we, as a nation, are precisely
-in the position of this hypothetical child of Thackeray's. We fall back
+in the position of this hypothetical [[Child|child]] of Thackeray's. We fall back
 upon gross and frivolous things for our patriotism, for a simple reason.
-We are the only people in the world who are not taught in childhood our
-own literature and our own history.
+We are the only people in the world who are not taught in [[Childhood|childhood]] our
+own literature and our own [[history]].
 
 We are, as a nation, in the truly extraordinary condition of not knowing
-our own merits. We have played a great and splendid part in the history
+our own merits. We have played a great and splendid part in the [[history]]
 of universal thought and sentiment; we have been among the foremost in
 that eternal and bloodless battle in which the blows do not slay, but
 create. In painting and music we are inferior to many other nations; but
-in literature, science, philosophy, and political eloquence, if history
+in literature, science, [[philosophy]], and political eloquence, if [[history]]
 be taken as a whole, we can hold our own with any. But all this vast
 heritage of intellectual glory is kept from our schoolboys like a
 heresy; and they are left to live and die in the dull and infantile type
 of patriotism which they learnt from a box of tin soldiers. There is no
 harm in the box of tin soldiers; we do not expect children to be equally
 delighted with a beautiful box of tin philanthropists. But there is
-great harm in the fact that the subtler and more civilized honour of
+great harm in the fact that the subtler and more civilized [[Honour|honour]] of
 England is not presented so as to keep pace with the expanding mind. A
-French boy is taught the glory of Molière as well as that of Turenne; a
-German boy is taught his own great national philosophy before he learns
-the philosophy of antiquity. The result is that, though French
+French boy is taught the glory of Molière as [[Well|well]] as that of Turenne; a
+German boy is taught his own great national [[philosophy]] before he learns
+the [[philosophy]] of antiquity. The result is that, though French
 patriotism is often crazy and boastful, though German patriotism is
 often isolated and pedantic, they are neither of them merely dull,
 common, and brutal, as is so often the strange fate of the nation of
 Bacon and Locke. It is natural enough, and even righteous enough, under
-the circumstances. An Englishman must love England for something;
+the circumstances. An Englishman must [[Love|love]] England for something;
 consequently, he tends to exalt commerce or prize-fighting, just as a
 German might tend to exalt music, or a Flamand to exalt painting,
 because he really believes it is the chief merit of his fatherland. It

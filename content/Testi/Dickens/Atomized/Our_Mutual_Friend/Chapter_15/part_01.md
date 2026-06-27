@@ -16,34 +16,34 @@ tags:
 
 Chapter 10
 
-A MARRIAGE CONTRACT
+A [[Marriage|MARRIAGE]] CONTRACT
 
 
 There is excitement in the Veneering mansion. The mature young lady is
 going to be married (powder and all) to the mature young gentleman, and
-she is to be married from the Veneering house, and the Veneerings are to
+she is to be married from the Veneering [[house]], and the Veneerings are to
 give the breakfast. The Analytical, who objects as a matter of principle
 to everything that occurs on the premises, necessarily objects to the
-match; but his consent has been dispensed with, and a spring-van is
+match; but his consent has been dispensed with, and a [[spring]]-van is
 delivering its load of greenhouse plants at the door, in order that
-to-morrow’s feast may be crowned with flowers.
+to-morrow’s feast may be crowned with [[Flowers|flowers]].
 
 The mature young lady is a lady of property. The mature young gentleman
 is a gentleman of property. He invests his property. He goes, in
-a condescending amateurish way, into the City, attends meetings of
-Directors, and has to do with traffic in Shares. As is well known to the
+a condescending amateurish way, into the [[City]], attends meetings of
+Directors, and has to do with traffic in Shares. As is [[Well|well]] known to the
 wise in their generation, traffic in Shares is the one thing to have to
 do with in this world. Have no antecedents, no established character, no
 cultivation, no ideas, no manners; have Shares. Have Shares enough to
 be on Boards of Direction in capital letters, oscillate on mysterious
-business between London and Paris, and be great. Where does he come
+business between [[London]] and [[Paris]], and be great. Where does he come
 from? Shares. Where is he going to? Shares. What are his tastes? Shares.
 Has he any principles? Shares. What squeezes him into Parliament?
-Shares. Perhaps he never of himself achieved success in anything, never
+Shares. Perhaps he never of himself achieved [[success]] in anything, never
 originated anything, never produced anything? Sufficient answer to all;
 Shares. O mighty Shares! To set those blaring images so high, and to
 cause us smaller vermin, as under the influence of henbane or opium, to
-cry out, night and day, ‘Relieve us of our money, scatter it for us, buy
+cry out, [[Night|night]] and day, ‘Relieve us of our money, scatter it for us, buy
 us and sell us, ruin us, only we beseech ye take rank among the powers
 of the earth, and fatten on us’!
 
@@ -66,7 +66,7 @@ But, two or three weeks ago, Twemlow, sitting over his newspaper,
 and over his dry-toast and weak tea, and over the stable-yard in Duke
 Street, St James’s, received a highly-perfumed cocked-hat and monogram
 from Mrs Veneering, entreating her dearest Mr T., if not particularly
-engaged that day, to come like a charming soul and make a fourth at
+engaged that day, to come like a charming [[Soul|soul]] and make a fourth at
 dinner with dear Mr Podsnap, for the discussion of an interesting family
 topic; the last three words doubly underlined and pointed with a note
 of admiration. And Twemlow replying, ‘Not engaged, and more than
@@ -78,16 +78,16 @@ know our dear friend Podsnap?’
 
 Twemlow ought to know the dear friend Podsnap who covered him with so
 much confusion, and he says he does know him, and Podsnap reciprocates.
-Apparently, Podsnap has been so wrought upon in a short time, as to
-believe that he has been intimate in the house many, many, many years.
-In the friendliest manner he is making himself quite at home with his
-back to the fire, executing a statuette of the Colossus at Rhodes.
+Apparently, Podsnap has been so wrought upon in a short [[Time|time]], as to
+believe that he has been intimate in the [[house]] many, many, many years.
+In the friendliest manner he is making himself quite at [[Home|home]] with his
+back to the [[Fire|fire]], executing a statuette of the Colossus at Rhodes.
 Twemlow has before noticed in his feeble way how soon the Veneering
 guests become infected with the Veneering fiction. Not, however, that he
 has the least notion of its being his own case.
 
 ‘Our friends, Alfred and Sophronia,’ pursues Veneering the veiled
-prophet: ‘our friends Alfred and Sophronia, you will be glad to hear, my
+[[Prophet|prophet]]: ‘our friends Alfred and Sophronia, you will be glad to hear, my
 dear fellows, are going to be married. As my wife and I make it a family
 affair the entire direction of which we take upon ourselves, of course
 our first step is to communicate the fact to our family friends.’
@@ -95,7 +95,7 @@ our first step is to communicate the fact to our family friends.’
 (‘Oh!’ thinks Twemlow, with his eyes on Podsnap, ‘then there are only
 two of us, and he’s the other.’)
 
-‘I did hope,’ Veneering goes on, ‘to have had Lady Tippins to meet you;
+‘I did [[Hope|hope]],’ Veneering goes on, ‘to have had Lady Tippins to meet you;
 but she is always in request, and is unfortunately engaged.’
 
 (‘Oh!’ thinks Twemlow, with his eyes wandering, ‘then there are three of
@@ -106,7 +106,7 @@ town; but he writes, in his whimsical manner, that as we ask him to be
 bridegroom’s best man when the ceremony takes place, he will not refuse,
 though he doesn’t see what he has to do with it.’
 
-(‘Oh!’ thinks Twemlow, with his eyes rolling, ‘then there are four of
+(‘Oh!’ thinks Twemlow, with his eyes [[rolling]], ‘then there are four of
 us, and HE’S the other.’)
 
 ‘Boots and Brewer,’ observes Veneering, ‘whom you also know, I have not

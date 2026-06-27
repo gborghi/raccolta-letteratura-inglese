@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 8"
+title: "[[thursday]] — Chapter 8"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/thursday-(Chesterton)"
@@ -16,19 +16,19 @@ tags:
 
                          CHAPTER VIII
 
-                    THE PROFESSOR EXPLAINS
+                    [[The Professor|THE PROFESSOR]] EXPLAINS
 
 
-WHEN Gabriel Syme found himself finally established in a chair,
+WHEN [[Gabriel Syme]] found himself finally established in a chair,
 and opposite to him, fixed and final also, the lifted eyebrows
-and leaden eyelids of the Professor, his fears fully returned.
+and leaden eyelids of [[The Professor|the Professor]], his fears fully returned.
 This incomprehensible man from the fierce council, after all,
 had certainly pursued him.  If the man had one character as a
 paralytic and another character as a pursuer, the antithesis
 might make him more interesting, but scarcely more soothing.
-It would be a very small comfort that he could not find the Professor out,
-if by some serious accident the Professor should find him out.
-He emptied a whole pewter pot of ale before the professor had
+It would be a very small comfort that he could not find [[The Professor|the Professor]] out,
+if by some serious accident [[The Professor|the Professor]] should find him out.
+He emptied a whole pewter pot of ale before [[The Professor|the professor]] had
 touched his milk.
 
 One possibility, however, kept him hopeful and yet helpless.
@@ -36,8 +36,8 @@ It was just possible that this escapade signified something
 other than even a slight suspicion of him.  Perhaps it was some
 regular form or sign.  Perhaps the foolish scamper was some
 sort of friendly signal that he ought to have understood.
-Perhaps it was a ritual.  Perhaps the new Thursday was always
-chased along Cheapside, as the new Lord Mayor is always
+Perhaps it was a ritual.  Perhaps the new [[thursday|Thursday]] was always
+chased along Cheapside, as the new [[Lord Mayor]] is always
 escorted along it.  He was just selecting a tentative inquiry,
 when the old Professor opposite suddenly and simply cut him short.
 Before Syme could ask the first diplomatic question, the old
@@ -52,7 +52,7 @@ a reply with an air of rather blundering jocularity.
 "A policeman?" he said, laughing vaguely.  "Whatever made you
 think of a policeman in connection with me?"
 
-"The process was simple enough," answered the Professor patiently.
+"The process was simple enough," answered [[The Professor|the Professor]] patiently.
 "I thought you looked like a policeman.  I think so now."
 
 "Did I take a policeman's hat by mistake out of the restaurant?"
@@ -60,11 +60,11 @@ asked Syme, smiling wildly.  "Have I by any chance got a number
 stuck on to me somewhere?  Have my boots got that watchful look?
 Why must I be a policeman?  Do, do let me be a postman."
 
-The old Professor shook his head with a gravity that gave no hope,
+The old Professor shook his head with a gravity that gave no [[Hope|hope]],
 but Syme ran on with a feverish irony.
 
 "But perhaps I misunderstood the delicacies of your
-German philosophy.  Perhaps policeman is a relative term.
+German [[philosophy]].  Perhaps policeman is a relative term.
 In an evolutionary sense, sir, the ape fades so gradually
 into the policeman, that I myself can never detect the shade.
 The monkey is only the policeman that may be.  Perhaps a maiden
@@ -74,7 +74,7 @@ I don't mind being anything in German thought."
 
 "Are you in the police service?" said the old man,
 ignoring all Syme's improvised and desperate raillery.
-"Are you a detective?"
+"Are you a [[Detective|detective]]?"
 
 Syme's heart turned to stone, but his face never changed.
 
@@ -85,7 +85,7 @@ nearly breaking it.
 
 "Did you hear me ask a plain question, you pattering spy?"
 he shrieked in a high, crazy voice.  "Are you, or are you not,
-a police detective?"
+a police [[Detective|detective]]?"
 
 "No!" answered Syme, like a man standing on the hangman's drop.
 
@@ -93,9 +93,9 @@ a police detective?"
 face becoming as it were loathsomely alive.  "You swear it!
 You swear it!  If you swear falsely, will you be damned?
 Will you be sure that the devil dances at your funeral?
-Will you see that the nightmare sits on your grave?
+Will you see that the [[nightmare]] sits on your [[Grave|grave]]?
 Will there really be no mistake?  You are an anarchist, you are
-a dynamiter!  Above all, you are not in any sense a detective?
+a dynamiter!  Above all, you are not in any sense a [[Detective|detective]]?
 You are not in the British police?"
 
 He leant his angular elbow far across the table, and put up his large
@@ -112,7 +112,7 @@ Syme sprang up straight, sending back the bench behind him with a crash.
 
 "Because you are what?" he said thickly.  "You are what?"
 
-"I am a policeman," said the Professor with his first broad smile.
+"I am a policeman," said [[The Professor|the Professor]] with his first broad smile.
 and beaming through his spectacles.  "But as you think policeman
 only a relative term, of course I have nothing to do with you.
 I am in the British police force; but as you tell me you are
@@ -124,21 +124,21 @@ the symbol of his power from the police.
 
 Syme had for a flash the sensation that the cosmos had turned
 exactly upside down, that all trees were growing downwards
-and that all stars were under his feet.  Then came slowly
+and that all [[Stars|stars]] were under his feet.  Then came slowly
 the opposite conviction.  For the last twenty-four hours the cosmos
 had really been upside down, but now the capsized universe
 had come right side up again.  This devil from whom he had been
-fleeing all day was only an elder brother of his own house,
+fleeing all day was only an elder brother of his own [[house]],
 who on the other side of the table lay back and laughed at him.
 He did not for the moment ask any questions of detail;
-he only knew the happy and silly fact that this shadow,
+he only knew the happy and silly fact that this [[Shadow|shadow]],
 which had pursued him with an intolerable oppression of peril,
-was only the shadow of a friend trying to catch him up.
-He knew simultaneously that he was a fool and a free man.
+was only the [[Shadow|shadow]] of a friend trying to catch him up.
+He knew simultaneously that he was a [[Fool|fool]] and a free man.
 For with any recovery from morbidity there must go
 a certain healthy humiliation.  There comes a certain point
 in such conditions when only three things are possible:
-first a perpetuation of Satanic pride, secondly tears,
+first a perpetuation of Satanic [[Pride|pride]], secondly [[Tears|tears]],
 and third laughter.  Syme's egotism held hard to the first
 course for a few seconds, and then suddenly adopted the third.
 Taking his own blue police ticket from his own waist coat pocket,
@@ -157,7 +157,7 @@ from the docks.
 "At myself," answered Syme, and went off again into the agony
 of his ecstatic reaction.
 
-"Pull yourself together," said the Professor, "or you'll get hysterical.
+"Pull yourself together," said [[The Professor|the Professor]], "or you'll get hysterical.
 Have some more beer.  I'll join you."
 
 "You haven't drunk your milk," said Syme.
@@ -201,9 +201,9 @@ himself de Worms.  "I thought the President was talking about me,
 and I rattled in my boots."
 
 "And I thought he was talking about me," said Syme, with his rather
-reckless laughter.  "I had my hand on my revolver all the time."
+reckless laughter.  "I had my hand on my revolver all the [[Time|time]]."
 
-"So had I," said the Professor grimly; "so had Gogol evidently."
+"So had I," said [[The Professor|the Professor]] grimly; "so had Gogol evidently."
 
 Syme struck the table with an exclamation.
 
@@ -218,16 +218,16 @@ still have done nothing."
 "Not if we were three hundred against four?" asked Syme,
 jeering rather boisterously.
 
-"No," said the Professor with sobriety, "not if we were three
-hundred against Sunday."
+"No," said [[The Professor|the Professor]] with sobriety, "not if we were three
+hundred against [[Sunday]]."
 
 And the mere name struck Syme cold and serious; his laughter
 had died in his heart before it could die on his lips.
 The face of the unforgettable President sprang into his mind
 as startling as a coloured photograph, and he remarked this
-difference between Sunday and all his satellites, that their faces,
-however fierce or sinister, became gradually blurred by memory
-like other human faces, whereas Sunday's seemed almost to grow
+difference between [[Sunday]] and all his satellites, that their faces,
+however fierce or sinister, became gradually blurred by [[Memory|memory]]
+like other human faces, whereas [[Sunday]]'s seemed almost to grow
 more actual during absence, as if a man's painted portrait
 should slowly come alive.
 
@@ -236,17 +236,17 @@ speech came with a rush, like the sudden foaming of champagne.
 
 "Professor," he cried, "it is intolerable.  Are you afraid of this man?"
 
-The Professor lifted his heavy lids, and gazed at Syme with large,
+[[The Professor]] lifted his heavy lids, and gazed at Syme with large,
 wide-open, blue eyes of an almost ethereal honesty.
 
 "Yes, I am," he said mildly.  "So are you."
 
-Syme was dumb for an instant.  Then he rose to his feet erect,
+Syme was dumb for an instant.  Then he [[Rose|rose]] to his feet erect,
 like an insulted man, and thrust the chair away from him.
 
 "Yes," he said in a voice indescribable, "you are right.
 I am afraid of him.  Therefore I swear by God that I will seek out
-this man whom I fear until I find him, and strike him on the mouth.
+this man whom I [[Fear|fear]] until I find him, and strike him on the mouth.
 If heaven were his throne and the earth his footstool, I swear
 that I would pull him down."
 
@@ -255,41 +255,41 @@ that I would pull him down."
 "Because I am afraid of him," said Syme; "and no man should leave
 in the universe anything of which he is afraid."
 
-De Worms blinked at him with a sort of blind wonder.
+De Worms blinked at him with a sort of blind [[Wonder|wonder]].
 He made an effort to speak, but Syme went on in a low voice,
 but with an undercurrent of inhuman exaltation--
 
-"Who would condescend to strike down the mere things that he does not fear?
+"Who would condescend to strike down the mere things that he does not [[Fear|fear]]?
 Who would debase himself to be merely brave, like any common prizefighter?
-Who would stoop to be fearless--like a tree?  Fight the thing that you fear.
+Who would stoop to be fearless--like a tree?  Fight the thing that you [[Fear|fear]].
 You remember the old tale of the English clergyman who gave the last rites
-to the brigand of Sicily, and how on his death-bed the great robber said,
+to the brigand of Sicily, and how on his [[Death|death]]-bed the great robber said,
 'I can give you no money, but I can give you advice for a lifetime:
 your thumb on the blade, and strike upwards.'  So I say to you,
-strike upwards, if you strike at the stars."
+strike upwards, if you strike at the [[Stars|stars]]."
 
 The other looked at the ceiling, one of the tricks of his pose.
 
-"Sunday is a fixed star," he said.
+"[[Sunday]] is a fixed star," he said.
 
 "You shall see him a falling star," said Syme, and put on his hat.
 
-The decision of his gesture drew the Professor vaguely to his feet.
+The decision of his gesture drew [[The Professor|the Professor]] vaguely to his feet.
 
 "Have you any idea," he asked, with a sort of benevolent bewilderment,
 "exactly where you are going?"
 
 "Yes," replied Syme shortly, "I am going to prevent this bomb
-being thrown in Paris."
+being thrown in [[Paris]]."
 
 "Have you any conception how?" inquired the other.
 
 "No," said Syme with equal decision.
 
 "You remember, of course," resumed the soi-disant de Worms, pulling his
-beard and looking out of the window, "that when we broke up rather
+beard and looking out of the [[Window|window]], "that when we broke up rather
 hurriedly the whole arrangements for the atrocity were left in the private
-hands of the Marquis and Dr. Bull.  The Marquis is by this time probably
+hands of the Marquis and Dr. Bull.  The Marquis is by this [[Time|time]] probably
 crossing the Channel.  But where he will go and what he will do it
 is doubtful whether even the President knows; certainly we don't know.
 The only man who does know is Dr. Bull."
@@ -301,7 +301,7 @@ The only man who does know is Dr. Bull."
 
 "Will you tell me?" asked Syme with eager eyes.
 
-"I will take you there," said the Professor, and took down his own
+"I will take you there," said [[The Professor|the Professor]], and took down his own
 hat from a peg.
 
 Syme stood looking at him with a sort of rigid excitement.
@@ -309,7 +309,7 @@ Syme stood looking at him with a sort of rigid excitement.
 "What do you mean?" he asked sharply.  "Will you join me?
 Will you take the risk?"
 
-"Young man," said the Professor pleasantly, "I am amused to observe
+"Young man," said [[The Professor|the Professor]] pleasantly, "I am amused to observe
 that you think I am a coward.  As to that I will say only one word,
 and that shall be entirely in the manner of your own philosophical rhetoric.
 You think that it is possible to pull down the President.  I know that it
@@ -317,29 +317,29 @@ is impossible, and I am going to try it," and opening the tavern door,
 which let in a blast of bitter air, they went out together into the dark
 streets by the docks.
 
-Most of the snow was melted or trampled to mud, but here and there
+Most of the [[Snow|snow]] was melted or trampled to mud, but here and there
 a clot of it still showed grey rather than white in the gloom.
 The small streets were sloppy and full of pools, which reflected
 the flaming lamps irregularly, and by accident, like fragments
 of some other and fallen world.  Syme felt almost dazed as
 he stepped through this growing confusion of lights and shadows;
 but his companion walked on with a certain briskness, towards where,
-at the end of the street, an inch or two of the lamplit river
+at the end of the street, an inch or two of the lamplit [[River|river]]
 looked like a bar of flame.
 
 "Where are you going?"  Syme inquired.
 
-"Just now," answered the Professor, "I am going just round
+"Just now," answered [[The Professor|the Professor]], "I am going just round
 the corner to see whether Dr. Bull has gone to bed.
 He is hygienic, and retires early."
 
 "Dr. Bull!" exclaimed Syme.  "Does he live round the corner?"
 
 "No," answered his friend.  "As a matter of fact he lives some way off,
-on the other side of the river, but we can tell from here whether he has
+on the other side of the [[River|river]], but we can tell from here whether he has
 gone to bed."
 
-Turning the corner as he spoke, and facing the dim river,
+Turning the corner as he spoke, and facing the dim [[River|river]],
 flecked with flame, he pointed with his stick to the other bank.
 On the Surrey side at this point there ran out into the Thames,
 seeming almost to overhang it, a bulk and cluster
@@ -347,8 +347,8 @@ of those tall tenements, dotted with lighted windows,
 and rising like factory chimneys to an almost insane height.
 Their special poise and position made one block of buildings
 especially look like a Tower of Babel with a hundred eyes.
-Syme had never seen any of the sky-scraping buildings in America,
-so he could only think of the buildings in a dream.
+Syme had never seen any of the sky-scraping buildings in [[america|America]],
+so he could only think of the buildings in [[A Dream|a dream]].
 
 Even as he stared, the highest light in this innumerably lighted
 turret abruptly went out, as if this black Argus had winked at him
@@ -361,28 +361,28 @@ against his boot.
 
 "What do you mean?" asked Syme.  "Does he live over there, then?"
 
-"Yes," said de Worms, "behind that particular window which you can't see.
+"Yes," said de Worms, "behind that particular [[Window|window]] which you can't see.
 Come along and get some dinner.  We must call on him to-morrow morning."
 
 Without further parley, he led the way through several by-ways until they came
-out into the flare and clamour of the East India Dock Road.  The Professor,
+out into the flare and clamour of the East India Dock [[Road]].  [[The Professor]],
 who seemed to know his way about the neighbourhood, proceeded to a place where
 the line of lighted shops fell back into a sort of abrupt twilight and quiet,
 in which an old white inn, all out of repair, stood back some twenty feet
-from the road.
+from the [[Road|road]].
 
 "You can find good English inns left by accident everywhere, like fossils,"
-explained the Professor.  "I once found a decent place in the West End."
+explained [[The Professor|the Professor]].  "I once found a decent place in the West End."
 
 "I suppose," said Syme, smiling, "that this is the corresponding decent
 place in the East End?"
 
-"It is," said the Professor reverently, and went in.
+"It is," said [[The Professor|the Professor]] reverently, and went in.
 
 In that place they dined and slept, both very thoroughly.
-The beans and bacon, which these unaccountable people cooked well,
+The beans and bacon, which these unaccountable people cooked [[Well|well]],
 the astonishing emergence of Burgundy from their cellars,
-crowned Syme's sense of a new comradeship and comfort.
+crowned Syme's sense of a new [[Comradeship|comradeship]] and comfort.
 Through all this ordeal his root horror had been isolation, and there
 are no words to express the abyss between isolation and having one ally.
 It may be conceded to the mathematicians that four is twice two.
@@ -390,9 +390,9 @@ But two is not twice one; two is two thousand times one.
 That is why, in spite of a hundred disadvantages, the world
 will always return to monogamy.
 
-Syme was able to pour out for the first time the whole of his
-outrageous tale, from the time when Gregory had taken him
-to the little tavern by the river.  He did it idly and amply,
+Syme was able to pour out for the first [[Time|time]] the whole of his
+outrageous tale, from the [[Time|time]] when Gregory had taken him
+to the little tavern by the [[River|river]].  He did it idly and amply,
 in a luxuriant monologue, as a man speaks with very old friends.
 On his side, also, the man who had impersonated Professor de
 Worms was not less communicative.  His own story was almost
@@ -402,7 +402,7 @@ as silly as Syme's.
 "a lot better than old Gogol's. Even at the start I thought he was
 a bit too hairy."
 
-"A difference of artistic theory," replied the Professor pensively.
+"A difference of artistic theory," replied [[The Professor|the Professor]] pensively.
 "Gogol was an idealist.  He made up as the abstract or platonic ideal
 of an anarchist.  But I am a realist.  I am a portrait painter.
 But, indeed, to say that I am a portrait painter is an inadequate expression.
@@ -410,7 +410,7 @@ I am a portrait."
 
 "I don't understand you," said Syme.
 
-"I am a portrait," repeated the Professor.  "I am a portrait of the celebrated
+"I am a portrait," repeated [[The Professor|the Professor]].  "I am a portrait of the celebrated
 Professor de Worms, who is, I believe, in Naples."
 
 "You mean you are made up like him," said Syme.  "But doesn't
@@ -420,7 +420,7 @@ he know that you are taking his nose in vain?"
 
 "Then why doesn't he denounce you?"
 
-"I have denounced him," answered the Professor.
+"I have denounced him," answered [[The Professor|the Professor]].
 
 "Do explain yourself," said Syme.
 
@@ -443,21 +443,21 @@ and I disliked him so much that I resolved to imitate him.
 If I had been a draughtsman I would have drawn a caricature.
 I was only an actor, I could only act a caricature.
 I made myself up into what was meant for a wild exaggeration
-of the old Professor's dirty old self.  When I went into the room
+of the old Professor's dirty old [[Self|self]].  When I went into the room
 full of his supporters I expected to be received with a roar
 of laughter, or (if they were too far gone) with a roar of
 indignation at the insult.  I cannot describe the surprise I felt
-when my entrance was received with a respectful silence, followed
+when my entrance was received with a respectful [[Silence|silence]], followed
 (when I had first opened my lips) with a murmur of admiration.
-The curse of the perfect artist had fallen upon me.
+The curse of the perfect [[Artist|artist]] had fallen upon me.
 I had been too subtle, I had been too true.  They thought I
 really was the great Nihilist Professor.  I was a healthy-minded
-young man at the time, and I confess that it was a blow.
+young man at the [[Time|time]], and I confess that it was a blow.
 Before I could fully recover, however, two or three of these
 admirers ran up to me radiating indignation, and told me
 that a public insult had been put upon me in the next room.
-I inquired its nature.  It seemed that an impertinent fellow
-had dressed himself up as a preposterous parody of myself.
+I inquired its [[Nature|nature]].  It seemed that an impertinent fellow
+had dressed himself up as a preposterous [[Parody|parody]] of myself.
 I had drunk more champagne than was good for me, and in a
 flash of folly I decided to see the situation through.
 Consequently it was to meet the glare of the company and my own
@@ -483,9 +483,9 @@ all that up in Pinckwerts; the notion that involution functioned
 eugenically was exposed long ago by Glumpe.'  It is unnecessary
 for me to say that there never were such people as Pinckwerts
 and Glumpe.  But the people all round (rather to my surprise)
-seemed to remember them quite well, and the Professor,
+seemed to remember them quite [[Well|well]], and [[The Professor|the Professor]],
 finding that the learned and mysterious method left him rather
-at the mercy of an enemy slightly deficient in scruples,
+at the [[Mercy|mercy]] of an enemy slightly deficient in scruples,
 fell back upon a more popular form of wit.  'I see,' he sneered,
 'you prevail like the false pig in Aesop.'  'And you fail,'
 I answered, smiling, 'like the hedgehog in Montaigne.'  Need I
@@ -500,8 +500,8 @@ He is now, I believe, received everywhere in Europe as a
 delightful impostor.  His apparent earnestness and anger,
 you see, make him all the more entertaining."
 
-"Well," said Syme, "I can understand your putting on his dirty
-old beard for a night's practical joke, but I don't understand
+"[[Well]]," said Syme, "I can understand your putting on his dirty
+old beard for a [[Night|night]]'s practical joke, but I don't understand
 your never taking it off again."
 
 "That is the rest of the story," said the impersonator.
@@ -510,7 +510,7 @@ I went limping down the dark street, hoping that I should soon
 be far enough away to be able to walk like a human being.
 To my astonishment, as I was turning the corner, I felt
 a touch on the shoulder, and turning, found myself under
-the shadow of an enormous policeman.  He told me I was wanted.
+the [[Shadow|shadow]] of an enormous policeman.  He told me I was wanted.
 I struck a sort of paralytic attitude, and cried in a high
 German accent, 'Yes, I am wanted--by the oppressed of the world.
 You are arresting me on the charge of being the great anarchist,
@@ -526,7 +526,7 @@ campaign had been opened against the centres of anarchy,
 and that this, my successful masquerade, might be of considerable
 value to the public safety.  He offered me a good salary
 and this little blue card.  Though our conversation was short,
-he struck me as a man of very massive common sense and humour;
+he struck me as a man of very massive common sense and [[Humour|humour]];
 but I cannot tell you much about him personally, because--"
 
 Syme laid down his knife and fork.

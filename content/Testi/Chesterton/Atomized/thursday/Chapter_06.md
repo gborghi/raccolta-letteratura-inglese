@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 6"
+title: "[[thursday]] — Chapter 6"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/thursday-(Chesterton)"
@@ -28,8 +28,8 @@ sense of an unnatural symbolism always settled back on him again.
 Each figure seemed to be, somehow, on the borderland of things,
 just as their theory was on the borderland of thought.
 He knew that each one of these men stood at the extreme end,
-so to speak, of some wild road of reasoning.  He could
-only fancy, as in some old-world fable, that if a man went
+so to speak, of some wild [[Road|road]] of reasoning.  He could
+only fancy, as in some old-world [[Fable|fable]], that if a man went
 westward to the end of the world he would find something--
 say a tree--that was more or less than a tree, a tree possessed
 by a spirit; and that if he went east to the end of the world
@@ -45,7 +45,7 @@ between the easy and unobtrusive tone of talk and its terrible purport.
 They were deep in the discussion of an actual and immediate plot.
 The waiter downstairs had spoken quite correctly when he said that they
 were talking about bombs and kings.  Only three days afterwards
-the Czar was to meet the President of the French Republic in Paris,
+the Czar was to meet the President of the French Republic in [[Paris]],
 and over their bacon and eggs upon their sunny balcony these beaming
 gentlemen had decided how both should die.  Even the instrument was chosen;
 the black-bearded Marquis, it appeared, was to carry the bomb.
@@ -54,28 +54,28 @@ Ordinarily speaking, the proximity of this positive and objective crime
 would have sobered Syme, and cured him of all his merely mystical tremors.
 He would have thought of nothing but the need of saving at least two
 human bodies from being ripped in pieces with iron and roaring gas.
-But the truth was that by this time he had begun to feel a third kind
-of fear, more piercing and practical than either his moral revulsion
-or his social responsibility.  Very simply, he had no fear to spare
-for the French President or the Czar; he had begun to fear for himself.
+But the [[Truth|truth]] was that by this [[Time|time]] he had begun to feel a third kind
+of [[Fear|fear]], more piercing and practical than either his moral revulsion
+or his social responsibility.  Very simply, he had no [[Fear|fear]] to spare
+for the French President or the Czar; he had begun to [[Fear|fear]] for himself.
 Most of the talkers took little heed of him, debating now with their faces
-closer together, and almost uniformly grave, save when for an instant
+closer together, and almost uniformly [[Grave|grave]], save when for an instant
 the smile of the Secretary ran aslant across his face as the jagged
-lightning runs aslant across the sky.  But there was one persistent thing
+[[Lightning|lightning]] runs aslant across the sky.  But there was one persistent thing
 which first troubled Syme and at last terrified him.  The President was
 always looking at him, steadily, and with a great and baffling interest.
 The enormous man was quite quiet, but his blue eyes stood out of his head.
 And they were always fixed on Syme.
 
-Syme felt moved to spring up and leap over the balcony.
+Syme felt moved to [[spring]] up and leap over the balcony.
 When the President's eyes were on him he felt as if he were made
-of glass.  He had hardly the shred of a doubt that in some silent
-and extraordinary way Sunday had found out that he was a spy.
+of glass.  He had hardly the shred of a [[Doubt|doubt]] that in some silent
+and extraordinary way [[Sunday]] had found out that he was a spy.
 He looked over the edge of the balcony, and saw a policeman,
 standing abstractedly just beneath, staring at the bright
 railings and the sunlit trees.
 
-Then there fell upon him the great temptation that was to torment him
+Then there fell upon him the great [[Temptation|temptation]] that was to torment him
 for many days.  In the presence of these powerful and repulsive men,
 who were the princes of anarchy, he had almost forgotten the frail
 and fanciful figure of the poet Gregory, the mere aesthete of anarchism.
@@ -84,11 +84,11 @@ played together when children.  But he remembered that he was still
 tied to Gregory by a great promise.  He had promised never to do
 the very thing that he now felt himself almost in the act of doing.
 He had promised not to jump over that balcony and speak to that policeman.
-He took his cold hand off the cold stone balustrade.  His soul swayed
+He took his cold hand off the cold stone balustrade.  His [[Soul|soul]] swayed
 in a vertigo of moral indecision.  He had only to snap the thread
 of a rash vow made to a villainous society, and all his life could be
 as open and sunny as the square beneath him.  He had, on the other hand,
-only to keep his antiquated honour, and be delivered inch by inch
+only to keep his antiquated [[Honour|honour]], and be delivered inch by inch
 into the power of this great enemy of mankind, whose very intellect
 was a torture-chamber. Whenever he looked down into the square he saw
 the comfortable policeman, a pillar of common sense and common order.
@@ -96,15 +96,15 @@ Whenever he looked back at the breakfast-table he saw the President
 still quietly studying him with big, unbearable eyes.
 
 In all the torrent of his thought there were two thoughts that never
-crossed his mind.  First, it never occurred to him to doubt that the
-President and his Council could crush him if he continued to stand alone.
+crossed his mind.  First, it never occurred to him to [[Doubt|doubt]] that the
+President and his Council could crush him if he continued to stand [[Alone|alone]].
 The place might be public, the project might seem impossible.
-But Sunday was not the man who would carry himself thus easily
+But [[Sunday]] was not the man who would carry himself thus easily
 without having, somehow or somewhere, set open his iron trap.
-Either by anonymous poison or sudden street accident, by hypnotism
-or by fire from hell, Sunday could certainly strike him.
+Either by anonymous [[Poison|poison]] or sudden street accident, by hypnotism
+or by [[Fire|fire]] from hell, [[Sunday]] could certainly strike him.
 If he defied the man he was probably dead, either struck stiff
-there in his chair or long afterwards as by an innocent ailment.
+there in his chair or long afterwards as by an [[Innocent|innocent]] ailment.
 If he called in the police promptly, arrested everyone,
 told all, and set against them the whole energy of England,
 he would probably escape; certainly not otherwise.  They were
@@ -116,23 +116,23 @@ There was a second thought that never came to him.
 It never occurred to him to be spiritually won over to the enemy.
 Many moderns, inured to a weak worship of intellect and force,
 might have wavered in their allegiance under this oppression of a
-great personality.  They might have called Sunday the super-man. If
+great personality.  They might have called [[Sunday]] the super-man. If
 any such creature be conceivable, he looked, indeed, somewhat like it,
 with his earth-shaking abstraction, as of a stone statue walking.
 He might have been called something above man, with his large plans,
 which were too obvious to be detected, with his large face,
 which was too frank to be understood.  But this was a kind of modern
 meanness to which Syme could not sink even in his extreme morbidity.
-Like any man, he was coward enough to fear great force; but he was
+Like any man, he was coward enough to [[Fear|fear]] great force; but he was
 not quite coward enough to admire it.
 
 The men were eating as they talked, and even in this they were typical.
 Dr. Bull and the Marquis ate casually and conventionally of the best
 things on the table--cold pheasant or Strasbourg pie.  But the Secretary
-was a vegetarian, and he spoke earnestly of the projected murder
-over half a raw tomato and three quarters of a glass of tepid water.
-The old Professor had such slops as suggested a sickening second childhood.
-And even in this President Sunday preserved his curious predominance of
+was a [[vegetarian]], and he spoke earnestly of the projected murder
+over half a raw tomato and three quarters of a glass of tepid [[Water|water]].
+The old Professor had such slops as suggested a sickening second [[Childhood|childhood]].
+And even in this President [[Sunday]] preserved his curious predominance of
 mere mass.  For he ate like twenty men; he ate incredibly, with a frightful
 freshness of appetite, so that it was like watching a sausage factory.
 Yet continually, when he had swallowed a dozen crumpets or drunk a quart
@@ -146,14 +146,14 @@ and wriggle it round."
 
 "You are wrong," said the Secretary, drawing his black
 brows together.  "The knife was merely the expression
-of the old personal quarrel with a personal tyrant.
+of the old personal quarrel with a personal [[Tyrant|tyrant]].
 Dynamite is not only our best tool, but our best symbol.
 It is as perfect a symbol of us as is incense of the prayers of
 the Christians.  It expands; it only destroys because it broadens;
 even so, thought only destroys because it broadens.
 A man's brain is a bomb," he cried out, loosening suddenly
 his strange passion and striking his own skull with violence.
-"My brain feels like a bomb, night and day.  It must expand!
+"My brain feels like a bomb, [[Night|night]] and day.  It must expand!
 It must expand!  A man's brain must expand, if it breaks
 up the universe."
 
@@ -168,7 +168,7 @@ The old Professor was staring at the ceiling with dull eyes.
 
 "Every man knows in his heart," he said, "that nothing is worth doing."
 
-There was a singular silence, and then the Secretary said--
+There was a singular [[Silence|silence]], and then the Secretary said--
 
 "We are wandering, however, from the point.
 The only question is how Wednesday is to strike the blow.
@@ -176,21 +176,21 @@ I take it we should all agree with the original notion of a bomb.
 As to the actual arrangements, I should suggest that tomorrow
 morning he should go first of all to--"
 
-The speech was broken off short under a vast shadow.
-President Sunday had risen to his feet, seeming to fill
+The speech was broken off short under a vast [[Shadow|shadow]].
+President [[Sunday]] had risen to his feet, seeming to fill
 the sky above them.
 
 "Before we discuss that," he said in a small, quiet voice, "let us go
 into a private room.  I have something very particular to say."
 
 Syme stood up before any of the others.  The instant
-of choice had come at last, the pistol was at his head.
+of choice had come at last, the [[Pistol|pistol]] was at his head.
 On the pavement before he could hear the policeman idly stir
 and stamp, for the morning, though bright, was cold.
 
 A barrel-organ in the street suddenly sprang with a jerk into a jovial tune.
 Syme stood up taut, as if it had been a bugle before the battle.
-He found himself filled with a supernatural courage that came from nowhere.
+He found himself filled with a [[Supernatural|supernatural]] [[Courage|courage]] that came from nowhere.
 That jingling music seemed full of the vivacity, the vulgarity, and the
 irrational valour of the poor, who in all those unclean streets were all
 clinging to the decencies and the charities of Christendom.  His youthful
@@ -199,19 +199,19 @@ of himself as the representative of the corps of gentlemen turned into
 fancy constables, or of the old eccentric who lived in the dark room.
 But he did feel himself as the ambassador of all these common and kindly
 people in the street, who every day marched into battle to the music
-of the barrel-organ. And this high pride in being human had lifted him
+of the barrel-organ. And this high [[Pride|pride]] in being human had lifted him
 unaccountably to an infinite height above the monstrous men around him.
 For an instant, at least, he looked down upon all their sprawling
 eccentricities from the starry pinnacle of the commonplace.
 He felt towards them all that unconscious and elementary superiority that a
 brave man feels over powerful beasts or a wise man over powerful errors.
 He knew that he had neither the intellectual nor the physical strength
-of President Sunday; but in that moment he minded it no more than
+of President [[Sunday]]; but in that moment he minded it no more than
 the fact that he had not the muscles of a tiger or a horn on his nose
 like a rhinoceros.  All was swallowed up in an ultimate certainty
 that the President was wrong and that the barrel-organ was right.
 There clanged in his mind that unanswerable and terrible truism
-in the song of Roland--
+in the [[Song|song]] of Roland--
 
 
 "Pagens ont tort et Chretiens ont droit."
@@ -219,19 +219,19 @@ in the song of Roland--
 
 which in the old nasal French has the clang and groan of great iron.
 This liberation of his spirit from the load of his weakness went
-with a quite clear decision to embrace death.  If the people of
+with a quite clear decision to embrace [[Death|death]].  If the people of
 the barrel-organ could keep their old-world obligations, so could he.
-This very pride in keeping his word was that he was keeping it to miscreants.
+This very [[Pride|pride]] in keeping his word was that he was keeping it to miscreants.
 It was his last triumph over these lunatics to go down into their dark
 room and die for something that they could not even understand.
 The barrel-organ seemed to give the marching tune with the energy
 and the mingled noises of a whole orchestra; and he could hear deep
-and rolling, under all the trumpets of the pride of life, the drums
-of the pride of death.
+and [[rolling]], under all the trumpets of the [[Pride|pride]] of life, the drums
+of the [[Pride|pride]] of [[Death|death]].
 
-The conspirators were already filing through the open window
+The conspirators were already filing through the open [[Window|window]]
 and into the rooms behind.  Syme went last, outwardly calm,
-but with all his brain and body throbbing with romantic rhythm.
+but with all his brain and [[Body|body]] throbbing with romantic rhythm.
 The President led them down an irregular side stair, such as
 might be used by servants, and into a dim, cold, empty room,
 with a table and benches, like an abandoned boardroom.
@@ -245,8 +245,8 @@ accent becoming almost impenetrable.  "You zay you nod 'ide.
 You zay you show himselves.  It is all nuzzinks.  Ven you vant
 talk importance you run yourselves in a dark box!"
 
-The President seemed to take the foreigner's incoherent satire
-with entire good humour.
+The President seemed to take the foreigner's incoherent [[Satire|satire]]
+with entire good [[Humour|humour]].
 
 "You can't get hold of it yet, Gogol," he said in a fatherly way.
 "When once they have heard us talking nonsense on that balcony
@@ -256,14 +256,14 @@ You don't seem to know anything about mankind."
 
 "I die for zem," cried the Pole in thick excitement, "and I slay
 zare oppressors.  I care not for these games of gonzealment.
-I would zmite ze tyrant in ze open square."
+I would zmite ze [[Tyrant|tyrant]] in ze open square."
 
 "I see, I see," said the President, nodding kindly as he seated
 himself at the top of a long table.  "You die for mankind first,
 and then you get up and smite their oppressors.  So that's all right.
 And now may I ask you to control your beautiful sentiments,
 and sit down with the other gentlemen at this table.
-For the first time this morning something intelligent is going
+For the first [[Time|time]] this morning something intelligent is going
 to be said."
 
 Syme, with the perturbed promptitude he had shown since
@@ -285,27 +285,27 @@ I suggest Comrade Saturday, Dr. Bull."
 
 They all stared at him; then they all started in their seats, for the
 next words, though not loud, had a living and sensational emphasis.
-Sunday struck the table.
+[[Sunday]] struck the table.
 
 "Not one word more about the plans and places must be said at this meeting.
 Not one tiny detail more about what we mean to do must be mentioned
 in this company."
 
-Sunday had spent his life in astonishing his followers;
+[[Sunday]] had spent his life in astonishing his followers;
 but it seemed as if he had never really astonished them until now.
 They all moved feverishly in their seats, except Syme.  He sat stiff in his,
 with his hand in his pocket, and on the handle of his loaded revolver.
 When the attack on him came he would sell his life dear.
 He would find out at least if the President was mortal.
 
-Sunday went on smoothly--
+[[Sunday]] went on smoothly--
 
 "You will probably understand that there is only one possible
-motive for forbidding free speech at this festival of freedom.
+motive for forbidding free speech at this festival of [[Freedom|freedom]].
 Strangers overhearing us matters nothing.  They assume that we
-are joking.  But what would matter, even unto death, is this,
+are joking.  But what would matter, even unto [[Death|death]], is this,
 that there should be one actually among us who is not of us,
-who knows our grave purpose, but does not share it, who--"
+who knows our [[Grave|grave]] purpose, but does not share it, who--"
 
 The Secretary screamed out suddenly like a woman.
 
@@ -318,14 +318,14 @@ of some huge fish.
 There is a traitor at this table.  I will waste no more words.
 His name--"
 
-Syme half rose from his seat, his finger firm on the trigger.
+Syme half [[Rose|rose]] from his seat, his finger firm on the trigger.
 
 "His name is Gogol," said the President.  "He is that hairy humbug
 over there who pretends to be a Pole."
 
-Gogol sprang to his feet, a pistol in each hand.
+Gogol sprang to his feet, a [[Pistol|pistol]] in each hand.
 With the same flash three men sprang at his throat.
-Even the Professor made an effort to rise.  But Syme saw little
+Even [[The Professor|the Professor]] made an effort to rise.  But Syme saw little
 of the scene, for he was blinded with a beneficent darkness;
 he had sunk down into his seat shuddering, in a palsy
 of passionate relief.

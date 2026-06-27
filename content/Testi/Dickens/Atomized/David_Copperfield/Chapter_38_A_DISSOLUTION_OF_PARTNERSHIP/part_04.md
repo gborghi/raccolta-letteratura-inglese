@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 4)"
+title: "[[David Copperfield]] — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -18,12 +18,12 @@ There was a serenity, a tranquillity, a calm sunset air about him, which
 quite affected me. He was so peaceful and resigned--clearly had his
 affairs in such perfect train, and so systematically wound up--that he
 was a man to feel touched in the contemplation of. I really think I saw
-tears rise to his eyes, from the depth of his own feeling of all this.
+[[Tears|tears]] rise to his eyes, from the depth of his own feeling of all this.
 
 But what could I do? I could not deny Dora and my own heart. When he
 told me I had better take a week to consider of what he had said, how
 could I say I wouldn’t take a week, yet how could I fail to know that no
-amount of weeks could influence such love as mine?
+amount of weeks could influence such [[Love|love]] as mine?
 
 ‘In the meantime, confer with Miss Trotwood, or with any person with
 any knowledge of life,’ said Mr. Spenlow, adjusting his cravat with both
@@ -44,12 +44,12 @@ When I got to the office, and, shutting out old Tiffey and the rest of
 them with my hands, sat at my desk, in my own particular nook, thinking
 of this earthquake that had taken place so unexpectedly, and in the
 bitterness of my spirit cursing Jip, I fell into such a state of torment
-about Dora, that I wonder I did not take up my hat and rush insanely to
+about Dora, that I [[Wonder|wonder]] I did not take up my hat and rush insanely to
 Norwood. The idea of their frightening her, and making her cry, and of
 my not being there to comfort her, was so excruciating, that it impelled
 me to write a wild letter to Mr. Spenlow, beseeching him not to visit
 upon her the consequences of my awful destiny. I implored him to spare
-her gentle nature--not to crush a fragile flower--and addressed him
+her gentle [[Nature|nature]]--not to crush a fragile flower--and addressed him
 generally, to the best of my remembrance, as if, instead of being her
 father, he had been an Ogre, or the Dragon of Wantley. This letter I
 sealed and laid upon his desk before he returned; and when he came in,
@@ -65,10 +65,10 @@ spare myself any solicitude on her account.
 
 ‘You may make it necessary, if you are foolish or obstinate, Mr.
 Copperfield,’ he observed, ‘for me to send my daughter abroad again,
-for a term; but I have a better opinion of you. I hope you will be wiser
+for a term; but I have a better opinion of you. I [[Hope|hope]] you will be wiser
 than that, in a few days. As to Miss Murdstone,’ for I had alluded to
 her in the letter, ‘I respect that lady’s vigilance, and feel obliged to
-her; but she has strict charge to avoid the subject. All I desire, Mr.
+her; but she has strict charge to avoid the subject. All I [[Desire|desire]], Mr.
 Copperfield, is, that it should be forgotten. All you have got to do,
 Mr. Copperfield, is to forget it.’
 
@@ -83,28 +83,28 @@ I signed myself, hers distractedly; and I couldn’t help feeling, while
 I read this composition over, before sending it by a porter, that it was
 something in the style of Mr. Micawber.
 
-However, I sent it. At night I repaired to Miss Mills’s street, and
+However, I sent it. At [[Night|night]] I repaired to Miss Mills’s street, and
 walked up and down, until I was stealthily fetched in by Miss Mills’s
 maid, and taken the area way to the back kitchen. I have since seen
 reason to believe that there was nothing on earth to prevent my going in
 at the front door, and being shown up into the drawing-room, except Miss
-Mills’s love of the romantic and mysterious.
+Mills’s [[Love|love]] of the romantic and mysterious.
 
 In the back kitchen, I raved as became me. I went there, I suppose,
-to make a fool of myself, and I am quite sure I did it. Miss Mills had
+to make a [[Fool|fool]] of myself, and I am quite sure I did it. Miss Mills had
 received a hasty note from Dora, telling her that all was discovered,
-and saying. ‘Oh pray come to me, Julia, do, do!’ But Miss Mills,
+and saying. ‘Oh pray come to me, [[Julia]], do, do!’ But Miss Mills,
 mistrusting the acceptability of her presence to the higher powers, had
-not yet gone; and we were all benighted in the Desert of Sahara.
+not yet gone; and we were all benighted in the [[Desert]] of Sahara.
 
 Miss Mills had a wonderful flow of words, and liked to pour them out. I
-could not help feeling, though she mingled her tears with mine, that she
+could not help feeling, though she mingled her [[Tears|tears]] with mine, that she
 had a dreadful luxury in our afflictions. She petted them, as I may say,
 and made the most of them. A deep gulf, she observed, had opened between
-Dora and me, and Love could only span it with its rainbow. Love must
+Dora and me, and [[Love]] could only span it with its rainbow. [[Love]] must
 suffer in this stern world; it ever had been so, it ever would be so. No
 matter, Miss Mills remarked. Hearts confined by cobwebs would burst at
-last, and then Love was avenged.
+last, and then [[Love]] was avenged.
 
 This was small consolation, but Miss Mills wouldn’t encourage fallacious
 hopes. She made me much more wretched than I was before, and I felt (and
@@ -114,6 +114,6 @@ and find some means of assuring her, either by looks or words, of my
 devotion and misery. We parted, overwhelmed with grief; and I think Miss
 Mills enjoyed herself completely.
 
-I confided all to my aunt when I got home; and in spite of all she could
+I confided all to my aunt when I got [[Home|home]]; and in spite of all she could
 say to me, went to bed despairing. I got up despairing, and went out
 despairing. It was Saturday morning, and I went straight to the Commons.

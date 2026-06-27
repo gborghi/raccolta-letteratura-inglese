@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 54 (part 6)"
+title: "Bleak [[house|House]] — Chapter 54 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -44,13 +44,13 @@ less you PARLAY, the better, you know.” Mr. Bucket is very complacent
 over this French explanation.
 
 Mademoiselle, with that tigerish expansion of the mouth and her black
-eyes darting fire upon him, sits upright on the sofa in a rigid
+eyes darting [[Fire|fire]] upon him, sits upright on the sofa in a rigid
 state, with her hands clenched—and her feet too, one might
 suppose—muttering, “Oh, you Bucket, you are a devil!”
 
-“Now, Sir Leicester Dedlock, Baronet,” says Mr. Bucket, and from this
-time forth the finger never rests, “this young woman, my lodger, was
-her ladyship’s maid at the time I have mentioned to you; and this
+“Now, [[Sir Leicester Dedlock]], Baronet,” says Mr. Bucket, and from this
+[[Time|time]] forth the finger never rests, “this young woman, my lodger, was
+her ladyship’s maid at the [[Time|time]] I have mentioned to you; and this
 young woman, besides being extraordinary vehement and passionate
 against her ladyship after being discharged—”
 
@@ -63,47 +63,47 @@ against you, you know. You’re sure to come to it. Never you mind what
 I say till it’s given in evidence. It is not addressed to you.”
 
 “Discharge, too,” cries mademoiselle furiously, “by her ladyship! Eh,
-my faith, a pretty ladyship! Why, I r-r-r-ruin my character by
+my [[Faith|faith]], a pretty ladyship! Why, I r-r-r-ruin my character by
 remaining with a ladyship so infame!”
 
-“Upon my soul I wonder at you!” Mr. Bucket remonstrates. “I thought
+“Upon my [[Soul|soul]] I [[Wonder|wonder]] at you!” Mr. Bucket remonstrates. “I thought
 the French were a polite nation, I did, really. Yet to hear a female
-going on like that before Sir Leicester Dedlock, Baronet!”
+going on like that before [[Sir Leicester Dedlock]], Baronet!”
 
-“He is a poor abused!” cries mademoiselle. “I spit upon his house,
+“He is a poor abused!” cries mademoiselle. “I spit upon his [[house]],
 upon his name, upon his imbecility,” all of which she makes the
 carpet represent. “Oh, that he is a great man! Oh, yes, superb! Oh,
 heaven! Bah!”
 
-“Well, Sir Leicester Dedlock,” proceeds Mr. Bucket, “this intemperate
+“[[Well]], [[Sir Leicester Dedlock]],” proceeds Mr. Bucket, “this intemperate
 foreigner also angrily took it into her head that she had established
 a claim upon Mr. Tulkinghorn, deceased, by attending on the occasion
 I told you of at his chambers, though she was liberally paid for her
-time and trouble.”
+[[Time|time]] and trouble.”
 
 “Lie!” cries mademoiselle. “I ref-use his money all togezzer.”
 
 “If you WILL PARLAY, you know,” says Mr. Bucket parenthetically, “you
 must take the consequences. Now, whether she became my lodger, Sir
 Leicester Dedlock, with any deliberate intention then of doing this
-deed and blinding me, I give no opinion on; but she lived in my house
-in that capacity at the time that she was hovering about the chambers
+deed and blinding me, I give no opinion on; but she lived in my [[house]]
+in that capacity at the [[Time|time]] that she was hovering about the chambers
 of the deceased Mr. Tulkinghorn with a view to a wrangle, and
 likewise persecuting and half frightening the life out of an
 unfortunate stationer.”
 
 “Lie!” cries mademoiselle. “All lie!”
 
-“The murder was committed, Sir Leicester Dedlock, Baronet, and you
+“The murder was committed, [[Sir Leicester Dedlock]], Baronet, and you
 know under what circumstances. Now, I beg of you to follow me close
 with your attention for a minute or two. I was sent for, and the case
-was entrusted to me. I examined the place, and the body, and the
+was entrusted to me. I examined the place, and the [[Body|body]], and the
 papers, and everything. From information I received (from a clerk in
-the same house) I took George into custody as having been seen
-hanging about there on the night, and at very nigh the time of the
+the same [[house]]) I took George into custody as having been seen
+hanging about there on the [[Night|night]], and at very nigh the [[Time|time]] of the
 murder, also as having been overheard in high words with the deceased
 on former occasions—even threatening him, as the witness made out.
-If you ask me, Sir Leicester Dedlock, whether from the first I
+If you ask me, [[Sir Leicester Dedlock]], whether from the first I
 believed George to be the murderer, I tell you candidly no, but he
 might be, notwithstanding, and there was enough against him to make
 it my duty to take him and get him kept under remand. Now, observe!”
@@ -114,25 +114,25 @@ forefinger in the air, Mademoiselle Hortense fixes her black eyes
 upon him with a dark frown and sets her dry lips closely and firmly
 together.
 
-“I went home, Sir Leicester Dedlock, Baronet, at night and found this
+“I went [[Home|home]], [[Sir Leicester Dedlock]], Baronet, at [[Night|night]] and found this
 young woman having supper with my wife, Mrs. Bucket. She had made a
 mighty show of being fond of Mrs. Bucket from her first offering
-herself as our lodger, but that night she made more than ever—in
+herself as our lodger, but that [[Night|night]] she made more than ever—in
 fact, overdid it. Likewise she overdid her respect, and all that, for
-the lamented memory of the deceased Mr. Tulkinghorn. By the living
+the lamented [[Memory|memory]] of the deceased Mr. Tulkinghorn. By the living
 Lord it flashed upon me, as I sat opposite to her at the table and
 saw her with a knife in her hand, that she had done it!”
 
 Mademoiselle is hardly audible in straining through her teeth and
 lips the words, “You are a devil.”
 
-“Now where,” pursues Mr. Bucket, “had she been on the night of the
+“Now where,” pursues Mr. Bucket, “had she been on the [[Night|night]] of the
 murder? She had been to the theayter. (She really was there, I have
 since found, both before the deed and after it.) I knew I had an
 artful customer to deal with and that proof would be very difficult;
 and I laid a trap for her—such a trap as I never laid yet, and such
 a venture as I never made yet. I worked it out in my mind while I was
-talking to her at supper. When I went upstairs to bed, our house
+talking to her at supper. When I went upstairs to bed, our [[house]]
 being small and this young woman’s ears sharp, I stuffed the sheet
 into Mrs. Bucket’s mouth that she shouldn’t say a word of surprise
 and told her all about it. My dear, don’t you give your mind to that

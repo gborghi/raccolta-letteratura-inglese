@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 2 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 2 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -46,15 +46,15 @@ comprehensive view of all the company beneath her, and of all the
 
 dangers of her late passage through them. It was a splendid sight, and
 
-she began, for the first time that evening, to feel herself at a ball:
+she began, for the first [[Time|time]] that evening, to feel herself at a ball:
 
-she longed to dance, but she had not an acquaintance in the room. Mrs.
+she longed to [[Dance|dance]], but she had not an acquaintance in the room. Mrs.
 
 Allen did all that she could do in such a case by saying very placidly,
 
-every now and then, “I wish you could dance, my dear—I wish you could
+every now and then, “I wish you could [[Dance|dance]], my dear—I wish you could
 
-get a partner.” For some time her young friend felt obliged to her for
+get a partner.” For some [[Time|time]] her young friend felt obliged to her for
 
 these wishes; but they were repeated so often, and proved so totally
 
@@ -76,7 +76,7 @@ against by people, the generality of whose faces possessed nothing to
 
 interest, and with all of whom she was so wholly unacquainted that she
 
-could not relieve the irksomeness of imprisonment by the exchange of a
+could not relieve the irksomeness of [[Imprisonment|imprisonment]] by the exchange of a
 
 syllable with any of her fellow captives; and when at last arrived in
 
@@ -100,7 +100,7 @@ having preserved her gown from injury. “It would have been very
 
 shocking to have it torn,” said she, “would not it? It is such a
 
-delicate muslin. For my part I have not seen anything I like so well in
+delicate muslin. For my part I have not seen anything I like so [[Well|well]] in
 
 the whole room, I assure you.”
 
@@ -168,25 +168,25 @@ _must_ know somebody.”
 
 here with all my heart, and then I should get you a partner. I should
 
-be so glad to have you dance. There goes a strange-looking woman! what
+be so glad to have you [[Dance|dance]]. There goes a strange-looking woman! what
 
 an odd gown she has got on! how old-fashioned it is! look at the back.”
 
 
 
-After some time they received an offer of tea from one of their
+After some [[Time|time]] they received an offer of tea from one of their
 
 neighbours; it was thankfully accepted, and this introduced a light
 
-conversation with the gentleman who offered it, which was the only time
+conversation with the gentleman who offered it, which was the only [[Time|time]]
 
 that anybody spoke to them during the evening, till they were
 
-discovered and joined by Mr. Allen when the dance was over.
+discovered and joined by Mr. Allen when the [[Dance|dance]] was over.
 
 
 
-“Well, Miss Morland,” said he, directly, “I hope you have had an
+“[[Well]], Miss Morland,” said he, directly, “I [[Hope|hope]] you have had an
 
 agreeable ball.”
 
@@ -198,11 +198,11 @@ great yawn.
 
 
 
-“I wish she had been able to dance,” said his wife; “I wish we could
+“I wish she had been able to [[Dance|dance]],” said his wife; “I wish we could
 
 have got a partner for her. I have been saying how glad I should be if
 
-the Skinners were here this winter instead of last; or if the Parrys
+the Skinners were here this [[Winter|winter]] instead of last; or if the Parrys
 
 had come, as they talked of once, she might have danced with George
 
@@ -210,7 +210,7 @@ Parry. I am so sorry she has not had a partner!”
 
 
 
-“We shall do better another evening I hope,” was Mr. Allen’s
+“We shall do better another evening I [[Hope|hope]],” was Mr. Allen’s
 
 consolation.
 
@@ -220,7 +220,7 @@ The company began to disperse when the dancing was over—enough to leave
 
 space for the remainder to walk about in some comfort; and now was the
 
-time for a heroine, who had not yet played a very distinguished part in
+[[Time|time]] for a heroine, who had not yet played a very distinguished part in
 
 the events of the evening, to be noticed and admired. Every five
 
@@ -228,7 +228,7 @@ minutes, by removing some of the crowd, gave greater openings for her
 
 charms. She was now seen by many young men who had not been near her
 
-before. Not one, however, started with rapturous wonder on beholding
+before. Not one, however, started with rapturous [[Wonder|wonder]] on beholding
 
 her, no whisper of eager inquiry ran round the room, nor was she once
 
@@ -246,12 +246,12 @@ hearing, two gentlemen pronounced her to be a pretty girl. Such words
 
 had their due effect; she immediately thought the evening pleasanter
 
-than she had found it before—her humble vanity was contented—she felt
+than she had found it before—her humble [[Vanity|vanity]] was contented—she felt
 
 more obliged to the two young men for this simple praise than a
 
 true quality heroine would have been for fifteen sonnets in celebration
 
-of her charms, and went to her chair in good humour with everybody, and
+of her charms, and went to her chair in good [[Humour|humour]] with everybody, and
 
 perfectly satisfied with her share of public attention.

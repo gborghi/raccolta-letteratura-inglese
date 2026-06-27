@@ -32,7 +32,7 @@ tags:
 
       the earth, and a warm glow upon the waters, and amid the rich
 
-      October leaves of the forest, a rainbow from the firmament had
+      October [[Leaves|leaves]] of the forest, a rainbow from the firmament had
 
       surely fallen.
 
@@ -44,7 +44,7 @@ tags:
 
       earth and life—ah, more fair for the daughters of heaven and
 
-      death!”
+      [[Death|death]]!”
 
 
 
@@ -60,9 +60,9 @@ tags:
 
 
 
-      “The days have never been when thou couldst love me—but her whom
+      “The days have never been when thou couldst [[Love|love]] me—but her whom
 
-      in life thou didst abhor, in death thou shalt adore.”
+      in life thou didst abhor, in [[Death|death]] thou shalt adore.”
 
 
 
@@ -74,7 +74,7 @@ tags:
 
       affection—ah, how little!—which thou didst feel for me, Morella.
 
-      And when my spirit departs shall the child live—thy child and
+      And when my spirit departs shall the [[Child|child]] live—thy [[Child|child]] and
 
       mine, Morella’s. But thy days shall be days of sorrow—that sorrow
 
@@ -86,7 +86,7 @@ tags:
 
       twice in a year. Thou shalt no longer, then, play the Teian with
 
-      time, but, being ignorant of the myrtle and the vine, thou shalt
+      [[Time|time]], but, being ignorant of the myrtle and the vine, thou shalt
 
       bear about with thee thy shroud on the earth, as do the Moslemin
 
@@ -102,15 +102,15 @@ tags:
 
 
 
-      Yet, as she had foretold, her child, to which in dying she had
+      Yet, as she had foretold, her [[Child|child]], to which in dying she had
 
       given birth, which breathed not until the mother breathed no
 
-      more, her child, a daughter, lived. And she grew strangely in
+      more, her [[Child|child]], a daughter, lived. And she grew strangely in
 
       stature and intellect, and was the perfect resemblance of her who
 
-      had departed, and I loved her with a love more fervent than I had
+      had departed, and I loved her with a [[Love|love]] more fervent than I had
 
       believed it possible to feel for any denizen of earth.
 
@@ -120,7 +120,7 @@ tags:
 
       and gloom, and horror, and grief swept over it in clouds. I said
 
-      the child grew strangely in stature and intelligence. Strange,
+      the [[Child|child]] grew strangely in stature and intelligence. Strange,
 
       indeed, was her rapid increase in bodily size—but terrible, oh!
 
@@ -130,7 +130,7 @@ tags:
 
       otherwise, when I daily discovered in the conceptions of the
 
-      child the adult powers and faculties of the woman?—when the
+      [[Child|child]] the adult powers and faculties of the woman?—when the
 
       lessons of experience fell from the lips of infancy? and when the
 
@@ -140,11 +140,11 @@ tags:
 
       evident to my appalled senses—when I could no longer hide it from
 
-      my soul, nor throw it off from those perceptions which trembled
+      my [[Soul|soul]], nor throw it off from those perceptions which trembled
 
       to receive it—is it to be wondered at that suspicions, of a
 
-      nature fearful and exciting, crept in upon my spirit, or that my
+      [[Nature|nature]] fearful and exciting, crept in upon my spirit, or that my
 
       thoughts fell back aghast upon the wild tales and thrilling
 
@@ -152,7 +152,7 @@ tags:
 
       the world a being whom destiny compelled me to adore, and in the
 
-      rigorous seclusion of my home, watched with an agonizing anxiety
+      rigorous seclusion of my [[Home|home]], watched with an agonizing anxiety
 
       over all which concerned the beloved.
 
@@ -164,7 +164,7 @@ tags:
 
       form, day after day did I discover new points of resemblance in
 
-      the child to her mother, the melancholy and the dead. And hourly
+      the [[Child|child]] to her mother, the [[Melancholy|melancholy]] and the dead. And hourly
 
       grew darker these shadows of similitude, and more full, and more
 
@@ -176,7 +176,7 @@ tags:
 
       eyes were like Morella’s I could endure; but then they, too,
 
-      often looked down into the depths of my soul with Morella’s own
+      often looked down into the depths of my [[Soul|soul]] with Morella’s own
 
       intense and bewildering meaning. And in the contour of the high
 
@@ -196,13 +196,13 @@ tags:
 
       Thus passed away two lustra of her life, and as yet my daughter
 
-      remained nameless upon the earth. “My child,” and “my love,” were
+      remained nameless upon the earth. “My [[Child|child]],” and “my [[Love|love]],” were
 
       the designations usually prompted by a father’s affection, and
 
       the rigid seclusion of her days precluded all other intercourse.
 
-      Morella’s name died with her at her death. Of the mother I had
+      Morella’s name died with her at her [[Death|death]]. Of the mother I had
 
       never spoken to the daughter;—it was impossible to speak. Indeed,
 

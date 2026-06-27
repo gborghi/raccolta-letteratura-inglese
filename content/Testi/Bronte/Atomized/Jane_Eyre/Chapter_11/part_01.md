@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 11 (part 1)"
+title: "[[Jane Eyre]] — Chapter 11 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -17,18 +17,18 @@ tags:
 CHAPTER XI
 
 
-A new chapter in a novel is something like a new scene in a play; and
-when I draw up the curtain this time, reader, you must fancy you see a
+A new chapter in a [[Novel|novel]] is something like a new scene in a play; and
+when I draw up the curtain this [[Time|time]], reader, you must fancy you see a
 room in the George Inn at Millcote, with such large figured papering on
 the walls as inn rooms have; such a carpet, such furniture, such
 ornaments on the mantelpiece, such prints, including a portrait of
 George the Third, and another of the Prince of Wales, and a
-representation of the death of Wolfe. All this is visible to you by the
+representation of the [[Death|death]] of Wolfe. All this is visible to you by the
 light of an oil lamp hanging from the ceiling, and by that of an
-excellent fire, near which I sit in my cloak and bonnet; my muff and
+excellent [[Fire|fire]], near which I sit in my cloak and bonnet; my muff and
 umbrella lie on the table, and I am warming away the numbness and chill
 contracted by sixteen hours’ exposure to the rawness of an October day:
-I left Lowton at four o’clock A.M., and the Millcote town clock is now
+I left Lowton at four o’[[Clock|clock]] A.M., and the Millcote town [[Clock|clock]] is now
 just striking eight.
 
 Reader, though I look comfortably accommodated, I am not very tranquil
@@ -43,12 +43,12 @@ private room: and here I am waiting, while all sorts of doubts and
 fears are troubling my thoughts.
 
 It is a very strange sensation to inexperienced youth to feel itself
-quite alone in the world, cut adrift from every connection, uncertain
+quite [[Alone|alone]] in the world, cut adrift from every connection, uncertain
 whether the port to which it is bound can be reached, and prevented by
 many impediments from returning to that it has quitted. The charm of
-adventure sweetens that sensation, the glow of pride warms it; but then
-the throb of fear disturbs it; and fear with me became predominant when
-half-an-hour elapsed and still I was alone. I bethought myself to ring
+adventure sweetens that sensation, the glow of [[Pride|pride]] warms it; but then
+the throb of [[Fear|fear]] disturbs it; and [[Fear|fear]] with me became predominant when
+half-an-hour elapsed and still I was [[Alone|alone]]. I bethought myself to ring
 the bell.
 
 “Is there a place in this neighbourhood called Thornfield?” I asked of
@@ -65,7 +65,7 @@ vanished, but reappeared instantly—
 
 I jumped up, took my muff and umbrella, and hastened into the
 inn-passage: a man was standing by the open door, and in the lamp-lit
-street I dimly saw a one-horse conveyance.
+street I dimly saw a one-[[Horse|horse]] conveyance.
 
 “This will be your luggage, I suppose?” said the man rather abruptly
 when he saw me, pointing to my trunk in the passage.
@@ -81,15 +81,15 @@ Thornfield.
 “Happen an hour and a half.”
 
 He fastened the car door, climbed to his own seat outside, and we set
-off. Our progress was leisurely, and gave me ample time to reflect; I
-was content to be at length so near the end of my journey; and as I
+off. Our progress was leisurely, and gave me ample [[Time|time]] to reflect; I
+was content to be at length so near the end of my [[Journey|journey]]; and as I
 leaned back in the comfortable though not elegant conveyance, I
 meditated much at my ease.
 
 “I suppose,” thought I, “judging from the plainness of the servant and
 carriage, Mrs. Fairfax is not a very dashing person: so much the
 better; I never lived amongst fine people but once, and I was very
-miserable with them. I wonder if she lives alone except this little
+miserable with them. I [[Wonder|wonder]] if she lives [[Alone|alone]] except this little
 girl; if so, and if she is in any degree amiable, I shall surely be
 able to get on with her; I will do my best; it is a pity that doing
 one’s best does not always answer. At Lowood, indeed, I took that
@@ -97,16 +97,16 @@ resolution, kept it, and succeeded in pleasing; but with Mrs. Reed, I
 remember my best was always spurned with scorn. I pray God Mrs. Fairfax
 may not turn out a second Mrs. Reed; but if she does, I am not bound to
 stay with her! let the worst come to the worst, I can advertise again.
-How far are we on our road now, I wonder?”
+How far are we on our [[Road|road]] now, I [[Wonder|wonder]]?”
 
-I let down the window and looked out; Millcote was behind us; judging
+I let down the [[Window|window]] and looked out; Millcote was behind us; judging
 by the number of its lights, it seemed a place of considerable
 magnitude, much larger than Lowton. We were now, as far as I could see,
 on a sort of common; but there were houses scattered all over the
 district; I felt we were in a different region to Lowood, more
 populous, less picturesque; more stirring, less romantic.
 
-The roads were heavy, the night misty; my conductor let his horse walk
+The roads were heavy, the [[Night|night]] misty; my conductor let his [[Horse|horse]] walk
 all the way, and the hour and a half extended, I verily believe, to two
 hours; at last he turned in his seat and said—
 
@@ -114,22 +114,22 @@ hours; at last he turned in his seat and said—
 
 Again I looked out: we were passing a church; I saw its low broad tower
 against the sky, and its bell was tolling a quarter; I saw a narrow
-galaxy of lights too, on a hillside, marking a village or hamlet. About
+galaxy of lights too, on a hillside, marking a village or [[Hamlet|hamlet]]. About
 ten minutes after, the driver got down and opened a pair of gates: we
 passed through, and they clashed to behind us. We now slowly ascended a
-drive, and came upon the long front of a house: candlelight gleamed
-from one curtained bow-window; all the rest were dark. The car stopped
+drive, and came upon the long front of a [[house]]: candlelight gleamed
+from one curtained bow-[[Window|window]]; all the rest were dark. The car stopped
 at the front door; it was opened by a maid-servant; I alighted and went
 in.
 
 “Will you walk this way, ma’am?” said the girl; and I followed her
 across a square hall with high doors all round: she ushered me into a
-room whose double illumination of fire and candle at first dazzled me,
+room whose [[Double|double]] illumination of [[Fire|fire]] and candle at first dazzled me,
 contrasting as it did with the darkness to which my eyes had been for
 two hours inured; when I could see, however, a cosy and agreeable
 picture presented itself to my view.
 
-A snug small room; a round table by a cheerful fire; an arm-chair
+A snug small room; a round table by a cheerful [[Fire|fire]]; an arm-chair
 high-backed and old-fashioned, wherein sat the neatest imaginable
 little elderly lady, in widow’s cap, black silk gown, and snowy muslin
 apron; exactly like what I had fancied Mrs. Fairfax, only less stately

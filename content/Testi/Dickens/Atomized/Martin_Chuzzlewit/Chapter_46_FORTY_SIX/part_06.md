@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 46: FORTY SIX (part 6)"
+title: "[[Martin Chuzzlewit]] — Chapter 46: FORTY SIX (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 Augustus obeyed, and took Mrs Todgers aside to pour his griefs into her
 friendly bosom.
 
-‘I am sure, Mr Pinch,’ said Charity, looking after her betrothed and
+‘I am sure, Mr Pinch,’ said [[Charity]], looking after her betrothed and
 glancing at her sister, ‘that I ought to be very grateful for the
 blessings I enjoy, and those which are yet in store for me. When I
 contrast Augustus’--here she was modest and embarrased--‘who, I don’t
@@ -28,15 +28,15 @@ reversed; I have much to be thankful for, indeed, and much to make me
 humble and contented.’
 
 Contented she might have been, but humble she assuredly was not. Her
-face and manner experienced something so widely different from humility,
+face and manner experienced something so widely different from [[Humility|humility]],
 that Tom could not help understanding and despising the base motives
 that were working in her breast. He turned away, and said to Ruth, that
-it was time for them to go.
+it was [[Time|time]] for them to go.
 
 ‘I will write to your husband,’ said Tom to Merry, ‘and explain to him,
 as I would have done if I had met him here, that if he has sustained any
 inconvenience through my means, it is not my fault; a postman not being
-more innocent of the news he brings, than I was when I handed him that
+more [[Innocent|innocent]] of the news he brings, than I was when I handed him that
 letter.’
 
 ‘I thank you!’ said Merry. ‘It may do some good.’
@@ -58,20 +58,20 @@ and said in a surly tone:
 
 ‘I didn’t know you’d got a party.’
 
-As he looked, at the same time, either by accident or design, towards
+As he looked, at the same [[Time|time]], either by accident or design, towards
 Miss Pecksniff; and as Miss Pecksniff was only too delighted to quarrel
 with him, she instantly resented it.
 
 ‘Oh dear!’ she said, rising. ‘Pray don’t let us intrude upon your
 domestic happiness! That would be a pity. We have taken tea here, sir,
 in your absence; but if you will have the goodness to send us a note of
-the expense, receipted, we shall be happy to pay it. Augustus, my love,
+the expense, receipted, we shall be happy to pay it. Augustus, my [[Love|love]],
 we will go, if you please. Mrs Todgers, unless you wish to remain here,
 we shall be happy to take you with us. It would be a pity, indeed, to
 spoil the bliss which this gentleman always brings with him, especially
-into his own home.’
+into his own [[Home|home]].’
 
-‘Charity! Charity!’ remonstrated her sister, in such a heartfelt tone
+‘[[Charity]]! [[Charity]]!’ remonstrated her sister, in such a heartfelt tone
 that she might have been imploring her to show the cardinal virtue whose
 name she bore.
 
@@ -90,7 +90,7 @@ to go, you may go. But if you stay, please to be civil.’
 
 ‘Beast!’ cried Miss Pecksniff, sweeping past him. ‘Augustus! He is
 beneath your notice!’ Augustus had been making some faint and sickly
-demonstration of shaking his fist. ‘Come away, child,’ screamed Miss
+demonstration of shaking his fist. ‘Come away, [[Child|child]],’ screamed Miss
 Pecksniff, ‘I command you!’
 
 The scream was elicited from her by Augustus manifesting an intention to
@@ -99,12 +99,12 @@ a pull, and Mrs Todgers giving him a push they all three tumbled out
 of the room together, to the music of Miss Pecksniff’s shrill
 remonstrances.
 
-All this time Jonas had seen nothing of Tom and his sister; for they
+All this [[Time|time]] Jonas had seen nothing of Tom and his sister; for they
 were almost behind the door when he opened it, and he had sat down with
 his back towards them, and had purposely kept his eyes upon the opposite
 side of the street during his altercation with Miss Pecksniff, in order
 that his seeming carelessness might increase the exasperation of that
-wronged young damsel. His wife now faltered out that Tom had been
+wronged young [[Damsel|damsel]]. His wife now faltered out that Tom had been
 waiting to see him; and Tom advanced.
 
 The instant he presented himself, Jonas got up from his chair, and
@@ -114,7 +114,7 @@ done, but that his very passion and surprise made him irresolute, and
 gave Tom, in his calmness, an opportunity of being heard.
 
 ‘You have no cause to be violent, sir,’ said Tom. ‘Though what I wish to
-say relates to your own affairs, I know nothing of them, and desire to
+say relates to your own affairs, I know nothing of them, and [[Desire|desire]] to
 know nothing of them.’
 
 Jonas was too enraged to speak. He held the door open; and stamping his
@@ -145,10 +145,10 @@ speak again, Jonas set upon him like a savage; and in the quickness and
 ferocity of his attack would have surely done him some grievous injury,
 defenceless as he was, and embarrassed by having his frightened sister
 clinging to his arm, if Merry had not run between them, crying to
-Tom for the love of Heaven to leave the house. The agony of this poor
+Tom for the [[Love|love]] of Heaven to leave the [[house]]. The agony of this poor
 creature, the terror of his sister, the impossibility of making himself
 audible, and the equal impossibility of bearing up against Mrs Gamp, who
 threw herself upon him like a feather-bed, and forced him backwards down
 the stairs by the mere oppression of her dead weight, prevailed. Tom
-shook the dust of that house off his feet, without having mentioned
+shook the [[Dust|dust]] of that [[house]] off his feet, without having mentioned
 Nadgett’s name.

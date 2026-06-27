@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE MAN WITH THE BLACK BAG (part 3)"
+title: "[[FourFaultlessFelons]] — THE MAN WITH THE BLACK BAG (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -34,11 +34,11 @@ suppose that's the real difference between the generations."
 
 "All right," said the elder gentleman tartly. "Let us say you have all
 
-the motor-sense, and we have all the horse-sense."
+the motor-sense, and we have all the [[Horse|horse]]-sense."
 
 
 
-"Well," said the other, also with a sharpened accent. "If you'd had a
+"[[Well]]," said the other, also with a sharpened accent. "If you'd had a
 
 little more motor-sense, or any sort of sense, you wouldn't have been so
 
@@ -62,9 +62,9 @@ old-fashioned. But she, he would assert, with more earnest appeal, ought
 
 to have more sympathy with the future and the new hopes of the world.
 
-Then he would leave the house boiling with protests and arguing with
+Then he would leave the [[house]] boiling with protests and arguing with
 
-invisible persons all the way home. For he really was a man profoundly
+invisible persons all the way [[Home|home]]. For he really was a man profoundly
 
 convinced of the prospects and prophesies of science. He had a great many
 
@@ -76,9 +76,9 @@ diseases that nobody had ever experienced, in order to cure them by
 
 discoveries that nobody could ever explain. Superficially, he was indeed
 
-one with all the faults of a man of action, including the temptation of
+one with all the faults of a man of action, including the [[Temptation|temptation]] of
 
-ambition. But for all that, there was a dark but busy cell in his inmost
+[[Ambition|ambition]]. But for all that, there was a dark but busy cell in his inmost
 
 brain, where thought for thought's sake went on in an almost dangerous
 
@@ -86,7 +86,7 @@ degree of turmoil and intensity. Anyone who could have looked into that
 
 dim whirlpool might have guessed that there could arise out of it, in
 
-some strange hour of stress, a thing like a monster.
+some strange hour of stress, a thing like a [[Monster|monster]].
 
 
 
@@ -96,13 +96,13 @@ secrecy, and seemed always walking in the sunlight. She was healthy,
 
 hearty and athletic, and in her tastes she might have been the shining
 
-incarnation of her father's frustrated love of the open country and the
+incarnation of her father's frustrated [[Love|love]] of the open country and the
 
-tall trees. She was more conscious of her body than her soul, and
+tall trees. She was more conscious of her [[Body|body]] than her [[Soul|soul]], and
 
 expressed in the suburban substitutes of tennis and golf and the
 
-swimming-bath, what might have been a native love of country sports. And
+swimming-bath, what might have been a native [[Love|love]] of country sports. And
 
 yet it may be that in her also there was, at odd moments, a touch of her
 
@@ -110,7 +110,7 @@ father's more transcendental fancy. Anyhow, it is true that long
 
 afterwards, when this story was ended, she stood again in the sunlight
 
-and looked back at those earlier days through a storm of black and
+and looked back at those earlier days through a [[Storm|storm]] of black and
 
 brain-racking mysteries, and of horror truly piled upon horror. And
 
@@ -118,10 +118,10 @@ looking back at this beginning of her story, she wondered if there were
 
 something in the old notion of omens and prefiguring signs. She wondered
 
-whether the whole of her riddle would not have been clear to her, from
+whether the whole of her [[Riddle|riddle]] would not have been clear to her, from
 
 first to last, if she could have read it in those two dark figures
 
-dancing and fighting on the sunlit road against the white cloud; like two
+dancing and fighting on the sunlit [[Road|road]] against the white cloud; like two
 
 living letters of an alphabet struggling to spell out a word.

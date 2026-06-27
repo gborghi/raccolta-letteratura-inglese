@@ -1,5 +1,5 @@
 ---
-title: "Henry V — Act V, Scene 2 — exchange (JULIUS CAESAR) [11]"
+title: "[[Henry V]] — Act V, Scene 2 — exchange ([[Julius Caesar|JULIUS CAESAR]]) [11]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/HENRY-V-(Shakespeare)"
@@ -13,4 +13,4 @@ tags:
 </nav>
 
 
-JULIUS CAESAR
+[[Julius Caesar|JULIUS CAESAR]]

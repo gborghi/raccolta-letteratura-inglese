@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 7 (part 2)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 7 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -14,25 +14,25 @@ tags:
 </nav>
 
 
-the wind take them aback, when she becomes stationary. But we are now
+the [[Wind|wind]] take them aback, when she becomes stationary. But we are now
 
-speaking of lying to in a gale of wind. This is done when the wind is
+speaking of lying to in a gale of [[Wind|wind]]. This is done when the [[Wind|wind]] is
 
 ahead, and too violent to admit of carrying sail without danger of
 
-capsizing; and sometimes even when the wind is fair, but the sea too
+capsizing; and sometimes even when the [[Wind|wind]] is fair, but the sea too
 
 heavy for the vessel to be put before it. If a vessel be suffered to
 
-scud before the wind in a very heavy sea, much damage is usually done
+scud before the [[Wind|wind]] in a very heavy sea, much damage is usually done
 
-her by the shipping of water over her stern, and sometimes by the
+her by the shipping of [[Water|water]] over her stern, and sometimes by the
 
 violent plunges she makes forward. This manoeuvre, then, is seldom
 
 resorted to in such case, unless through necessity. When the vessel is
 
-in a leaky condition, she is often put before the wind even in the
+in a leaky condition, she is often put before the [[Wind|wind]] even in the
 
 heaviest seas; for, when lying to, her seams are sure to be greatly
 
@@ -42,7 +42,7 @@ scudding. Often, too, it becomes necessary to scud a vessel, either
 
 when the blast is so exceedingly furious as to tear in pieces the sail
 
-which is employed with a view of bringing her head to the wind, or
+which is employed with a view of bringing her head to the [[Wind|wind]], or
 
 when, through the false modelling of the frame or other causes, this
 
@@ -50,17 +50,17 @@ main object cannot be effected.
 
 
 
-Vessels in a gale of wind are laid to in different manners, according
+Vessels in a gale of [[Wind|wind]] are laid to in different manners, according
 
 to their peculiar construction. Some lie to best under a foresail, and
 
 this, I believe, is the sail most usually employed. Large square-rigged
 
-vessels have sails for the express purpose, called storm-staysails. But
+vessels have sails for the express purpose, called [[Storm|storm]]-staysails. But
 
 the jib is occasionally employed by itself--sometimes the jib and
 
-foresail, or a double-reefed foresail, and not unfrequently the
+foresail, or a [[Double|double]]-reefed foresail, and not unfrequently the
 
 after-sails, are made use of. Foretopsails are very often found to
 
@@ -70,7 +70,7 @@ was generally laid to under a close-reefed foresail.
 
 
 
-When a vessel is to be laid to, her head is brought up to the wind just
+When a vessel is to be laid to, her head is brought up to the [[Wind|wind]] just
 
 so nearly as to fill the sail under which she lies, when hauled flat
 
@@ -78,11 +78,11 @@ aft, that is, when brought diagonally across the vessel. This being
 
 done, the bows point within a few degrees of the direction from which
 
-the wind issues, and the windward bow of course receives the shock of
+the [[Wind|wind]] issues, and the windward bow of course receives the shock of
 
 the waves. In this situation a good vessel will ride out a very heavy
 
-gale of wind without shipping a drop of water, and without any further
+gale of [[Wind|wind]] without shipping a drop of [[Water|water]], and without any further
 
 attention being requisite on the part of the crew. The helm is usually
 
@@ -96,21 +96,21 @@ than lashed very fast, for the rudder is apt to be torn off by heavy
 
 seas if there be no room for the helm to play. As long as the sail
 
-holds, a well-modelled vessel will maintain her situation, and ride
+holds, a [[Well|well]]-modelled vessel will maintain her situation, and ride
 
 every sea, as if instinct with life and reason. If the violence of the
 
-wind, however, should tear the sail into pieces (a feat which it
+[[Wind|wind]], however, should tear the sail into pieces (a feat which it
 
 requires a perfect hurricane to accomplish under ordinary
 
 circumstances), there is then imminent danger. The vessel falls off
 
-from the wind, and, coming broadside to the sea, is completely at its
+from the [[Wind|wind]], and, coming broadside to the sea, is completely at its
 
-mercy: the only resource in this case is to put her quickly before the
+[[Mercy|mercy]]: the only resource in this case is to put her quickly before the
 
-wind, letting her scud until some other sail can be set. Some vessels
+[[Wind|wind]], letting her scud until some other sail can be set. Some vessels
 
 will lie to under no sail whatever, but such are not to be trusted at
 
@@ -120,17 +120,17 @@ sea.
 
 But to return from this digression. It had never been customary with
 
-the mate to have any watch on deck when lying to in a gale of wind, and
+the mate to have any watch on deck when lying to in a gale of [[Wind|wind]], and
 
 the fact that he had now one, coupled with the circumstance of the
 
 missing axes and handspikes, fully convinced us that the crew were too
 
-well on the watch to be taken by surprise in the manner Peters had
+[[Well|well]] on the watch to be taken by surprise in the manner Peters had
 
 suggested. Something, however, was to be done, and that with as little
 
-delay as practicable, for there could be no doubt that a suspicion
+delay as practicable, for there could be no [[Doubt|doubt]] that a suspicion
 
 having been once entertained against Peters, he would be sacrificed
 
@@ -148,19 +148,19 @@ stateroom, we might possibly be able to come upon them unawares by
 
 means of the hold; but a little reflection convinced us that the vessel
 
-rolled and pitched too violently for any attempt of that nature.
+rolled and pitched too violently for any attempt of that [[Nature|nature]].
 
 
 
 By good fortune I at length hit upon the idea of working upon the
 
-superstitious terrors and guilty conscience of the mate. It will be
+superstitious terrors and guilty [[Conscience|conscience]] of the mate. It will be
 
 remembered that one of the crew, Hartman Rogers, had died during the
 
 morning, having been attacked two days before with spasms after
 
-drinking some spirits and water. Peters had expressed to us his opinion
+drinking some spirits and [[Water|water]]. Peters had expressed to us his opinion
 
 that this man had been poisoned by the mate, and for this belief he had
 
@@ -180,13 +180,13 @@ determined to act accordingly.
 
 Rogers had died about eleven in the forenoon, in violent convulsions;
 
-and the corpse presented in a few minutes after death one of the most
+and the corpse presented in a few minutes after [[Death|death]] one of the most
 
 horrid and loathsome spectacles I ever remember to have seen. The
 
 stomach was swollen immensely, like that of a man who has been drowned
 
-and lain under water for many weeks. The hands were in the same
+and lain under [[Water|water]] for many weeks. The hands were in the same
 
 condition, while the face was shrunken, shrivelled, and of a chalky
 
@@ -196,10 +196,10 @@ like those occasioned by the erysipelas: one of these splotches
 
 extended diagonally across the face, completely covering up an eye as
 
-if with a band of red velvet. In this disgusting condition the body had
+if with a band of red velvet. In this disgusting condition the [[Body|body]] had
 
-been brought up from the cabin at noon to be thrown overboard, when the
+been brought up from the cabin at [[Noon|noon]] to be thrown overboard, when the
 
-mate getting a glimpse of it (for he now saw it for the first time),
+mate getting a glimpse of it (for he now saw it for the first [[Time|time]]),
 
 and being either touched with remorse for his crime or struck with

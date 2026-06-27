@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 25 (part 1)"
+title: "[[The Professor]] — Chapter 25 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,13 +18,13 @@ CHAPTER XXV.
 
 
 
-IN two months more Frances had fulfilled the time of mourning for her
+IN two months more Frances had fulfilled the [[Time|time]] of mourning for her
 
 aunt. One January morning--the first of the new year holidays--I went in
 
 a fiacre, accompanied only by M. Vandenhuten, to the Rue Notre Dame aux
 
-Neiges, and having alighted alone and walked upstairs, I found Frances
+Neiges, and having alighted [[Alone|alone]] and walked upstairs, I found Frances
 
 apparently waiting for me, dressed in a style scarcely appropriate to
 
@@ -32,13 +32,13 @@ that cold, bright, frosty day. Never till now had I seen her attired in
 
 any other than black or sad-coloured stuff; and there she stood by the
 
-window, clad all in white, and white of a most diaphanous texture; her
+[[Window|window]], clad all in white, and white of a most diaphanous texture; her
 
 array was very simple, to be sure, but it looked imposing and festal
 
 because it was so clear, full, and floating; a veil shadowed her head,
 
-and hung below her knee; a little wreath of pink flowers fastened it
+and hung below her knee; a little wreath of pink [[Flowers|flowers]] fastened it
 
 to her thickly tressed Grecian plait, and thence it fell softly on each
 
@@ -68,7 +68,7 @@ Vandenhuten received her, and seated her beside himself; we drove all
 
 together to the Protestant chapel, went through a certain service in the
 
-Common Prayer Book, and she and I came out married. M. Vandenhuten had
+Common [[Prayer]] Book, and she and I came out married. M. Vandenhuten had
 
 given the bride away.
 
@@ -78,9 +78,9 @@ We took no bridal trip; our modesty, screened by the peaceful obscurity
 
 of our station, and the pleasant isolation of our circumstances, did not
 
-exact that additional precaution. We repaired at once to a small house
+exact that additional precaution. We repaired at once to a small [[house]]
 
-I had taken in the faubourg nearest to that part of the city where the
+I had taken in the faubourg nearest to that part of the [[City|city]] where the
 
 scene of our avocations lay.
 
@@ -88,7 +88,7 @@ scene of our avocations lay.
 
 Three or four hours after the wedding ceremony, Frances, divested of her
 
-bridal snow, and attired in a pretty lilac gown of warmer materials,
+bridal [[Snow|snow]], and attired in a pretty lilac gown of warmer materials,
 
 a piquant black silk apron, and a lace collar with some finishing
 
@@ -102,7 +102,7 @@ snowing fast out of doors; the afternoon had turned out wild and
 
 cold; the leaden sky seemed full of drifts, and the street was already
 
-ankle-deep in the white downfall. Our fire burned bright, our new
+ankle-deep in the white downfall. Our [[Fire|fire]] burned bright, our new
 
 habitation looked brilliantly clean and fresh, the furniture was all
 
@@ -110,7 +110,7 @@ arranged, and there were but some articles of glass, china, books,
 
 &c., to put in order. Frances found in this business occupation till
 
-tea-time, and then, after I had distinctly instructed her how to make
+tea-[[Time|time]], and then, after I had distinctly instructed her how to make
 
 a cup of tea in rational English style, and after she had got over the
 
@@ -130,11 +130,11 @@ working people, destined to earn our bread by exertion, and that of the
 
 most assiduous kind. Our days were thoroughly occupied; we used to part
 
-every morning at eight o’clock, and not meet again till five P.M.; but
+every morning at eight o’[[Clock|clock]], and not meet again till five P.M.; but
 
 into what sweet rest did the turmoil of each busy day decline! Looking
 
-down the vista of memory, I see the evenings passed in that little
+down the vista of [[Memory|memory]], I see the evenings passed in that little
 
 parlour like a long string of rubies circling the dusky brow of the past.
 
@@ -150,7 +150,7 @@ to ourselves) Frances said to me, with a suddenness peculiar to her when
 
 she had been thinking long on a subject, and at last, having come to
 
-a conclusion, wished to test its soundness by the touchstone of my
+a conclusion, wished to test its soundness by the [[Touchstone|touchstone]] of my
 
 judgment:--
 
@@ -164,7 +164,7 @@ judgment:--
 
 deliberately stirring while enjoying, in anticipation, a walk I proposed
 
-to take with Frances, that fine summer day (it was June), to a certain
+to take with Frances, that fine [[Summer|summer]] day (it was June), to a certain
 
 farmhouse in the country, where we were to dine. “What now?” and I
 
@@ -208,7 +208,7 @@ it.”
 
 
 
-She went--as docile as a well-trained child; she was a curious mixture
+She went--as docile as a [[Well|well]]-trained [[Child|child]]; she was a curious mixture
 
 of tractability and firmness: I sat thinking about her, and wondering
 
@@ -226,7 +226,7 @@ the key with you?”
 
 “Kiss me, Mrs. Crimsworth,” was my not very apposite reply; but she
 
-looked so engaging in her light summer dress and little cottage bonnet,
+looked so engaging in her light [[Summer|summer]] dress and little cottage bonnet,
 
 and her manner in speaking to me was then, as always, so unaffectedly
 

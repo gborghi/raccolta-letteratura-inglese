@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 2 (part 1)"
+title: "[[thursday]] — Chapter 2 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
                           CHAPTER II
 
-                 THE SECRET OF GABRIEL SYME
+                 THE SECRET OF [[Gabriel Syme|GABRIEL SYME]]
 
 
 THE cab pulled up before a particularly dreary and greasy beershop,
@@ -30,7 +30,7 @@ beyond a vague and dark impression of something bulky and bearded.
 "The pate de foie gras is not good here, but I can recommend the game."
 
 Syme received the remark with stolidity, imagining it to be a joke.
-Accepting the vein of humour, he said, with a well-bred indifference--
+Accepting the vein of [[Humour|humour]], he said, with a [[Well|well]]-bred indifference--
 
 "Oh, bring me some lobster mayonnaise."
 
@@ -50,8 +50,8 @@ of the lobster.  Syme tasted it, and found it particularly good.
 Then he suddenly began to eat with great rapidity and appetite.
 
 "Excuse me if I enjoy myself rather obviously!" he said
-to Gregory, smiling.  "I don't often have the luck to have a dream
-like this.  It is new to me for a nightmare to lead to a lobster.
+to Gregory, smiling.  "I don't often have the luck to have [[A Dream|a dream]]
+like this.  It is new to me for a [[nightmare]] to lead to a lobster.
 It is commonly the other way."
 
 "You are not asleep, I assure you," said Gregory.  "You are,
@@ -67,7 +67,7 @@ We are the most modest men that ever lived on earth."
 "It is quite simple," replied Gregory.  "We are the serious anarchists,
 in whom you do not believe."
 
-"Oh!" said Syme shortly.  "You do yourselves well in drinks."
+"Oh!" said Syme shortly.  "You do yourselves [[Well|well]] in drinks."
 
 "Yes, we are serious about everything," answered Gregory.
 
@@ -77,7 +77,7 @@ Then after a pause he added--
 don't put it down to your inroads into the champagne.
 I don't wish you to do yourself an injustice."
 
-"Well, if I am not drunk, I am mad," replied Syme with perfect calm;
+"[[Well]], if I am not drunk, I am mad," replied Syme with perfect calm;
 "but I trust I can behave like a gentleman in either condition.
 May I smoke?"
 
@@ -101,7 +101,7 @@ across the room in snaky twists, went straight up as if from
 a factory chimney, and the two, with their chairs and table,
 shot down through the floor as if the earth had swallowed them.
 They went rattling down a kind of roaring chimney as rapidly as a
-lift cut loose, and they came with an abrupt bump to the bottom.
+lift cut loose, and they came with an abrupt bump to the [[Bottom|bottom]].
 But when Gregory threw open a pair of doors and let in a red
 subterranean light, Syme was still smoking with one leg thrown
 over the other, and had not turned a yellow hair.
@@ -127,14 +127,14 @@ closely packed or interlocked.
 and he stepped into the passage lined with the steel weapons.
 With his long, fair hair and rather foppish frock-coat, he looked
 a singularly frail and fanciful figure as he walked down that shining
-avenue of death.
+avenue of [[Death|death]].
 
 They passed through several such passages, and came out at last into a queer
 steel chamber with curved walls, almost spherical in shape, but presenting,
 with its tiers of benches, something of the appearance of a scientific
 lecture-theatre. There were no rifles or pistols in this apartment,
 but round the walls of it were hung more dubious and dreadful shapes,
-things that looked like the bulbs of iron plants, or the eggs of iron birds.
+things that looked like the bulbs of iron plants, or the eggs of iron [[Birds|birds]].
 They were bombs, and the very room itself seemed like the inside of a bomb.
 Syme knocked his cigar ash off against the wall, and went in.
 
@@ -143,10 +143,10 @@ in an expansive manner on the bench under the largest bomb,
 "now we are quite cosy, so let us talk properly.  Now no human
 words can give you any notion of why I brought you here.
 It was one of those quite arbitrary emotions, like jumping off a cliff
-or falling in love.  Suffice it to say that you were an inexpressibly
+or falling in [[Love|love]].  Suffice it to say that you were an inexpressibly
 irritating fellow, and, to do you justice, you are still.
 I would break twenty oaths of secrecy for the pleasure of taking
 you down a peg.  That way you have of lighting a cigar would
-make a priest break the seal of confession.  Well, you said
+make a priest break the seal of confession.  [[Well]], you said
 that you were quite certain I was not a serious anarchist.
 Does this place strike you as being serious?"

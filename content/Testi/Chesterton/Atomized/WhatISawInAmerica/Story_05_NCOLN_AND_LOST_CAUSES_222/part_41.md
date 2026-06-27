@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 41)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 41)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -30,9 +30,9 @@ myself, take a superior and censorious attitude towards Americans and
 
 especially Californians, I am moved to make a final remark. When a
 
-considerable number of Englishmen talk of the grave contending claims of
+considerable number of Englishmen talk of the [[Grave|grave]] contending claims of
 
-our friendship with Japan and our friendship with America, when they
+our [[Friendship|friendship]] with Japan and our [[Friendship|friendship]] with [[America]], when they
 
 finally tend in a sort of summing up to dwell on the superior virtues of
 
@@ -42,15 +42,15 @@ Japan, I may be permitted to make a single comment.
 
 We are perpetually boring the world and each other with talk about the
 
-bonds that bind us to America. We are perpetually crying aloud that
+bonds that bind us to [[America]]. We are perpetually crying aloud that
 
-England and America are very much alike, especially England. We are
+England and [[America]] are very much alike, especially England. We are
 
 always insisting that the two are identical in all the things in which
 
 they most obviously differ. We are always saying that both stand for
 
-democracy, when we should not consent to stand their democracy for half
+[[democracy]], when we should not consent to stand their [[democracy]] for half
 
 a day. We are always saying that at least we are all Anglo-Saxons, when
 
@@ -58,7 +58,7 @@ we are descended from Romans and Normans and Britons and Danes, and they
 
 are descended from Irishmen and Italians and Slavs and Germans. We tell
 
-a people whose very existence is a revolt against the British Crown that
+a people whose very existence is a revolt against the British [[Crown]] that
 
 they are passionately devoted to the British Constitution. We tell a
 
@@ -82,25 +82,25 @@ existence to insult. And when we have established all these nonsensical
 
 analogies with a nonexistent nation, we wait until there is a crisis in
 
-which we really are at one with America, and then we falter and threaten
+which we really are at one with [[America]], and then we falter and threaten
 
-to fail her. In a battle where we really are of one blood, the blood of
+to fail her. In a battle where we really are of one [[Blood|blood]], the [[Blood|blood]] of
 
 the great white race throughout the world, when we really have one
 
 language, the fundamental alphabet of Cadmus and the script of Rome,
 
-when we really do represent the same reign of law, the common conscience
+when we really do represent the same reign of law, the common [[Conscience|conscience]]
 
 of Christendom and the morals of men baptized, when we really have an
 
-implicit faith and honour and type of freedom to summon up our souls as
+implicit [[Faith|faith]] and [[Honour|honour]] and type of [[Freedom|freedom]] to summon up our souls as
 
-with trumpets--_then_ many of us begin to weaken and waver and wonder
+with trumpets--_then_ many of us begin to weaken and waver and [[Wonder|wonder]]
 
 whether there is not something very nice about little yellow men, whose
 
-heroic stories revolve round polygamy and suicide, and whose heroes wore
+heroic stories revolve round polygamy and [[suicide]], and whose heroes wore
 
 two swords and worshipped the ancestors of the Mikado.
 
@@ -118,19 +118,19 @@ _Prohibition in Fact and Fancy_
 
 
 
-I went to America with some notion of not discussing Prohibition. But I
+I went to [[America]] with some notion of not discussing Prohibition. But I
 
-soon found that well-to-do Americans were only too delighted to discuss
+soon found that [[Well|well]]-to-do Americans were only too delighted to discuss
 
 it over the nuts and wine. They were even willing, if necessary, to
 
 dispense with the nuts. I am far from sneering at this; having a general
 
-philosophy which need not here be expounded, but which may be symbolised
+[[philosophy]] which need not here be expounded, but which may be symbolised
 
 by saying that monkeys can enjoy nuts but only men can enjoy wine. But
 
-if I am to deal with Prohibition, there is no doubt of the first thing
+if I am to deal with Prohibition, there is no [[Doubt|doubt]] of the first thing
 
 to be said about it. The first thing to be said about it is that it does
 
@@ -140,13 +140,13 @@ was intended to be enforced among the poor; though even among them I
 
 fancy it is much evaded. It is certainly not enforced among the rich;
 
-and I doubt whether it was intended to be. I suspect that this has
+and I [[Doubt|doubt]] whether it was intended to be. I suspect that this has
 
 always happened whenever this negative notion has taken hold of some
 
 particular province or tribe. Prohibition never prohibits. It never has
 
-in history; not even in Moslem history; and it never will. Mahomet at
+in [[history]]; not even in Moslem [[history]]; and it never will. Mahomet at
 
 least had the argument of a climate and not the interest of a class. But
 
@@ -156,7 +156,7 @@ permanently into our own modern culture. You will find the one Moslem
 
 poem that has really pierced is a Moslem poem in praise of wine. The
 
-crown of all the victories of the Crescent is that nobody reads the
+[[Crown|crown]] of all the victories of the Crescent is that nobody reads the
 
 Koran and everybody reads the Rubaiyat.
 
@@ -168,15 +168,15 @@ representing a festive old gentleman in a state of collapse on the
 
 pavement, and a philanthropic old lady anxiously calling the attention
 
-of a cabman to the calamity. The old lady says, 'I'm sure this poor
+of a [[cabman]] to the calamity. The old lady says, 'I'm sure this poor
 
-gentleman is ill,' and the cabman replies with fervour, 'Ill! I wish I
+gentleman is ill,' and the [[cabman]] replies with fervour, 'Ill! I wish I
 
 'ad 'alf 'is complaint.'
 
 
 
-We talk about unconscious humour; but there is such a thing as
+We talk about unconscious [[Humour|humour]]; but there is such a thing as
 
 unconscious seriousness. Flippancy is a flower whose roots are often
 
@@ -190,13 +190,13 @@ he means only to make a pun. Some of the _Punch_ jokes of the best
 
 period are examples of this; and that quoted above is a very strong
 
-example of it. The cabman meant what he said; but he said a great deal
+example of it. The [[cabman]] meant what he said; but he said a great deal
 
 more than he meant. His utterance contained fine philosophical doctrines
 
 and distinctions of which he was not perhaps entirely conscious. The
 
-spirit of the English language, the tragedy and comedy of the condition
+spirit of the English language, the [[Tragedy|tragedy]] and [[Comedy|comedy]] of the condition
 
 of the English people, spoke through him as the god spoke through a
 
@@ -206,4 +206,4 @@ some sense an omen of doom.
 
 
 
-Observe, to begin with, the sobriety of the cabman. Note his measure,
+Observe, to begin with, the sobriety of the [[cabman]]. Note his measure,

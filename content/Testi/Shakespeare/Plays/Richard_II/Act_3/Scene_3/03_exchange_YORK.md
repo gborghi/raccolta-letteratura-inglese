@@ -1,5 +1,5 @@
 ---
-title: "Richard II — Act III, Scene 3 — exchange (YORK) [3]"
+title: "[[Richard II]] — Act III, Scene 3 — exchange (YORK) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/RICHARD-II-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| YORK | Yet looks he like a king. Behold, his eye, As bright as is the eagle’s, lightens forth Controlling majesty. Alack, alack for woe That any harm should stain so fair a show! |
+| YORK | Yet looks he like a [[King|king]]. Behold, his eye, As bright as is the eagle’s, lightens forth Controlling majesty. Alack, alack for woe That any harm should stain so fair a show! |

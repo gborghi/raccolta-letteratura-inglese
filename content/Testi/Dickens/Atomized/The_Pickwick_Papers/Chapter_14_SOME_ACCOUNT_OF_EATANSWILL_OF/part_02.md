@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 2)"
+title: "The [[Pickwick]] Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -21,42 +21,42 @@ shouted the mob again, as if lungs were cast-iron, with steel works.
 
 ‘Slumkey for ever!’ roared the honest and independent.
 
-‘Slumkey for ever!’ echoed Mr. Pickwick, taking off his hat.
+‘Slumkey for ever!’ echoed Mr. [[Pickwick]], taking off his hat.
 
 ‘No Fizkin!’ roared the crowd.
 
-‘Certainly not!’ shouted Mr. Pickwick. ‘Hurrah!’ And then there was
+‘Certainly not!’ shouted Mr. [[Pickwick]]. ‘Hurrah!’ And then there was
 another roaring, like that of a whole menagerie when the elephant has
 rung the bell for the cold meat.
 
 ‘Who is Slumkey?’ whispered Mr. Tupman.
 
-‘I don’t know,’ replied Mr. Pickwick, in the same tone. ‘Hush. Don’t ask
+‘I don’t know,’ replied Mr. [[Pickwick]], in the same tone. ‘Hush. Don’t ask
 any questions. It’s always best on these occasions to do what the mob
 do.’
 
 ‘But suppose there are two mobs?’ suggested Mr. Snodgrass.
 
-‘Shout with the largest,’ replied Mr. Pickwick.
+‘Shout with the largest,’ replied Mr. [[Pickwick]].
 
 Volumes could not have said more.
 
-They entered the house, the crowd opening right and left to let them
+They entered the [[house]], the crowd opening right and left to let them
 pass, and cheering vociferously. The first object of consideration was
-to secure quarters for the night.
+to secure quarters for the [[Night|night]].
 
-‘Can we have beds here?’ inquired Mr. Pickwick, summoning the waiter.
+‘Can we have beds here?’ inquired Mr. [[Pickwick]], summoning the waiter.
 
 ‘Don’t know, Sir,’ replied the man; ‘afraid we’re full, sir--I’ll
 inquire, Sir.’ Away he went for that purpose, and presently returned, to
 ask whether the gentleman were ‘Blue.’
 
-As neither Mr. Pickwick nor his companions took any vital interest in
+As neither Mr. [[Pickwick]] nor his companions took any vital interest in
 the cause of either candidate, the question was rather a difficult one
-to answer. In this dilemma Mr. Pickwick bethought himself of his new
+to answer. In this dilemma Mr. [[Pickwick]] bethought himself of his new
 friend, Mr. Perker.
 
-‘Do you know a gentleman of the name of Perker?’ inquired Mr. Pickwick.
+‘Do you know a gentleman of the name of Perker?’ inquired Mr. [[Pickwick]].
 
 ‘Certainly, Sir; Honourable Mr. Samuel Slumkey’s agent.’
 
@@ -64,11 +64,11 @@ friend, Mr. Perker.
 
 ‘Oh, yes, Sir.’
 
-‘Then _we_ are Blue,’ said Mr. Pickwick; but observing that the man
+‘Then _we_ are Blue,’ said Mr. [[Pickwick]]; but observing that the man
 looked rather doubtful at this accommodating announcement, he gave him
 his card, and desired him to present it to Mr. Perker forthwith, if he
-should happen to be in the house. The waiter retired; and reappearing
-almost immediately with a request that Mr. Pickwick would follow him,
+should happen to be in the [[house]]. The waiter retired; and reappearing
+almost immediately with a request that Mr. [[Pickwick]] would follow him,
 led the way to a large room on the first floor, where, seated at a long
 table covered with books and papers, was Mr. Perker.
 
@@ -77,11 +77,11 @@ happy to see you, my dear Sir, very. Pray sit down. So you have carried
 your intention into effect. You have come down here to see an election--
 eh?’
 
-Mr. Pickwick replied in the affirmative.
+Mr. [[Pickwick]] replied in the affirmative.
 
 ‘Spirited contest, my dear sir,’ said the little man.
 
-‘I’m delighted to hear it,’ said Mr. Pickwick, rubbing his hands. ‘I
+‘I’m delighted to hear it,’ said Mr. [[Pickwick]], rubbing his hands. ‘I
 like to see sturdy patriotism, on whatever side it is called forth--and
 so it’s a spirited contest?’
 
@@ -91,13 +91,13 @@ beer-shops--masterly stroke of policy that, my dear Sir, eh?’ The little
 man smiled complacently, and took a large pinch of snuff.
 
 ‘And what are the probabilities as to the result of the contest?’
-inquired Mr. Pickwick.
+inquired Mr. [[Pickwick]].
 
 ‘Why, doubtful, my dear Sir; rather doubtful as yet,’ replied the little
 man. ‘Fizkin’s people have got three-and-thirty voters in the lock-up
-coach-house at the White Hart.’
+coach-[[house]] at the White Hart.’
 
-‘In the coach-house!’ said Mr. Pickwick, considerably astonished by this
+‘In the coach-[[house]]!’ said Mr. [[Pickwick]], considerably astonished by this
 second stroke of policy.
 
 ‘They keep ‘em locked up there till they want ‘em,’ resumed the little
@@ -106,14 +106,14 @@ and even if we could, it would be of no use, for they keep them very
 drunk on purpose. Smart fellow Fizkin’s agent--very smart fellow
 indeed.’
 
-Mr. Pickwick stared, but said nothing.
+Mr. [[Pickwick]] stared, but said nothing.
 
 ‘We are pretty confident, though,’ said Mr. Perker, sinking his voice
-almost to a whisper. ‘We had a little tea-party here, last night--five-
+almost to a whisper. ‘We had a little tea-party here, last [[Night|night]]--five-
 and-forty women, my dear sir--and gave every one of ‘em a green parasol
 when she went away.’
 
-‘A parasol!’ said Mr. Pickwick.
+‘A parasol!’ said Mr. [[Pickwick]].
 
 ‘Fact, my dear Sir, fact. Five-and-forty green parasols, at seven and
 sixpence a-piece. All women like finery--extraordinary the effect of
@@ -129,25 +129,25 @@ checked by the entrance of a third party.
 This was a tall, thin man, with a sandy-coloured head inclined to
 baldness, and a face in which solemn importance was blended with a look
 of unfathomable profundity. He was dressed in a long brown surtout, with
-a black cloth waistcoat, and drab trousers. A double eyeglass dangled at
+a black cloth waistcoat, and drab trousers. A [[Double|double]] eyeglass dangled at
 his waistcoat; and on his head he wore a very low-crowned hat with a
-broad brim. The new-comer was introduced to Mr. Pickwick as Mr. Pott,
+broad brim. The new-comer was introduced to Mr. [[Pickwick]] as Mr. Pott,
 the editor of the Eatanswill _Gazette_. After a few preliminary remarks,
-Mr. Pott turned round to Mr. Pickwick, and said with solemnity--
+Mr. Pott turned round to Mr. [[Pickwick]], and said with solemnity--
 
 ‘This contest excites great interest in the metropolis, sir?’
 
-‘I believe it does,’ said Mr. Pickwick.
+‘I believe it does,’ said Mr. [[Pickwick]].
 
 ‘To which I have reason to know,’ said Pott, looking towards Mr. Perker
 for corroboration--‘to which I have reason to know that my article of
 last Saturday in some degree contributed.’
 
-‘Not the least doubt of it,’ said the little man.
+‘Not the least [[Doubt|doubt]] of it,’ said the little man.
 
 ‘The press is a mighty engine, sir,’ said Pott.
 
-Mr. Pickwick yielded his fullest assent to the proposition.
+Mr. [[Pickwick]] yielded his fullest assent to the proposition.
 
 ‘But I trust, sir,’ said Pott, ‘that I have never abused the enormous
 power I wield. I trust, sir, that I have never pointed the noble
@@ -157,10 +157,10 @@ sir, that I have devoted my energies to--to endeavours--humble they may
 be, humble I know they are--to instil those principles of--which--are--’
 
 Here the editor of the Eatanswill _Gazette_, appearing to ramble, Mr.
-Pickwick came to his relief, and said--
+[[Pickwick]] came to his relief, and said--
 
 ‘Certainly.’
 
 ‘And what, Sir,’ said Pott--‘what, Sir, let me ask you as an impartial
-man, is the state of the public mind in London, with reference to my
+man, is the state of the public mind in [[London]], with reference to my
 contest with the _Independent_?’

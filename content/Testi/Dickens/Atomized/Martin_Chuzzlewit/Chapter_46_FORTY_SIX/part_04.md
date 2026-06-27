@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 46: FORTY SIX (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 46: FORTY SIX (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -44,7 +44,7 @@ him. It’s hard to hear, but never mind him. He’ll die one day. There
 are three hundred and sixty-five days in the year--three hundred and
 sixty-six in leap year--and he may die on any one of ‘em.’
 
-‘You’re a wearing old soul, and that’s the sacred truth,’ said Mrs Gamp,
+‘You’re a wearing old [[Soul|soul]], and that’s the sacred [[Truth|truth]],’ said Mrs Gamp,
 contemplating him from a little distance with anything but favour, as he
 continued to mutter to himself. ‘It’s a pity that you don’t know wot you
 say, for you’d tire your own patience out if you did, and fret yourself
@@ -52,9 +52,9 @@ into a happy releage for all as knows you.’
 
 ‘His son,’ murmured the old man, lifting up his hand. ‘His son!’
 
-‘Well, I’m sure!’ said Mrs Gamp, ‘you’re a-settlin’ of it, Mr Chuffey.
-To your satigefaction, sir, I hope. But I wouldn’t lay a new pincushion
-on it myself, sir, though you ARE so well informed. Drat the old
+‘[[Well]], I’m sure!’ said Mrs Gamp, ‘you’re a-settlin’ of it, Mr Chuffey.
+To your satigefaction, sir, I [[Hope|hope]]. But I wouldn’t lay a new pincushion
+on it myself, sir, though you ARE so [[Well|well]] informed. Drat the old
 creetur, he’s a-layin’ down the law tolerable confident, too! A deal he
 knows of sons! or darters either! Suppose you was to favour us with some
 remarks on twins, sir, WOULD you be so good!’
@@ -82,7 +82,7 @@ somebody would like to try a new-laid egg or two, not biled too hard.
 Likeways, a few rounds o’ buttered toast, first cuttin’ off the crust,
 in consequence of tender teeth, and not too many of ‘em; which Gamp
 himself, Mrs Chuzzlewit, at one blow, being in liquor, struck out four,
-two single, and two double, as was took by Mrs Harris for a keepsake,
+two single, and two [[Double|double]], as was took by Mrs Harris for a keepsake,
 and is carried in her pocket at this present hour, along with two
 cramp-bones, a bit o’ ginger, and a grater like a blessed infant’s shoe,
 in tin, with a little heel to put the nutmeg in; as many times I’ve seen
@@ -91,10 +91,10 @@ and said, and used for candle when required, within the month.’
 As the privileges of the side-table--besides including the small
 prerogatives of sitting next the toast, and taking two cups of tea to
 other people’s one, and always taking them at a crisis, that is to
-say, before putting fresh water into the tea-pot, and after it had been
-standing for some time--also comprehended a full view of the company,
+say, before putting fresh [[Water|water]] into the tea-pot, and after it had been
+standing for some [[Time|time]]--also comprehended a full view of the company,
 and an opportunity of addressing them as from a rostrum, Mrs Gamp
-discharged the functions entrusted to her with extreme good-humour and
+discharged the functions entrusted to her with extreme good-[[Humour|humour]] and
 affability. Sometimes resting her saucer on the palm of her outspread
 hand, and supporting her elbow on the table, she stopped between her
 sips of tea to favour the circle with a smile, a wink, a roll of the
@@ -112,7 +112,7 @@ Mrs Todgers was occupied in knitting, and seldom spoke. Poor Merry held
 the hand of cheerful little Ruth between her own, and listening with
 evident pleasure to all she said, but rarely speaking herself, sometimes
 smiled, and sometimes kissed her on the cheek, and sometimes turned
-aside to hide the tears that trembled in her eyes. Tom felt this change
+aside to hide the [[Tears|tears]] that trembled in her eyes. Tom felt this change
 in her so much, and was so glad to see how tenderly Ruth dealt with her,
 and how she knew and answered to it, that he had not the heart to make
 any movement towards their departure, although he had long since given
@@ -120,7 +120,7 @@ utterance to all he came to say.
 
 The old clerk, subsiding into his usual state, remained profoundly
 silent, while the rest of the little assembly were thus occupied, intent
-upon the dreams, whatever they might be, which hardly seemed to stir
+upon the [[Dreams|dreams]], whatever they might be, which hardly seemed to stir
 the surface of his sluggish thoughts. The bent of these dull fancies
 combining probably with the silent feasting that was going on about him,
 and some struggling recollection of the last approach to revelry he had

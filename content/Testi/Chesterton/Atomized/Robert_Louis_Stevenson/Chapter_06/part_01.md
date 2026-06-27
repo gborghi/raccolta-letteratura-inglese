@@ -46,14 +46,14 @@ science of literature.
 Mr. Max Beerbohm, whose fine and classic criticism is full of those
 shining depths that many mistake for shallowness, has remarked
 truly enough on the rather wearisome repetitions in the newspapers,
-which did great harm to the Stevensonian fame at the time of
+which did great harm to the Stevensonian fame at the [[Time|time]] of
 the Stevensonian fashion.  He noticed especially that a certain
 phrase used by Stevenson about his early experiments in writing,
-that he has "played the sedulous ape" to Hazlitt or to Lamb, must be
+that he has "played the sedulous ape" to Hazlitt or to [[Lamb]], must be
 permanently kept in type in the journalistic offices, so frequently
 do the journalists quote it.  There are about a thousand things in
 Stevenson much more worth quoting, and much more really enlightening
-about his education in letters.  Every young writer, however original,
+about his [[Education|education]] in letters.  Every young writer, however original,
 does begin by imitating other people, consciously or unconsciously,
 and nearly every old writer would be quite as willing to admit it.
 The real irony in the incident seems never to have been noticed.
@@ -74,21 +74,21 @@ such words, is the thing I mean by the style of Stevenson.
 
 In the case of Stevenson, criticism has always tended
 to be hypercriticism.  It is as if the critic were strung up
-to be as strict with the artist as the artist was with himself.
+to be as strict with the [[Artist|artist]] as the [[Artist|artist]] was with himself.
 But they are not very consistent or considerate in the matter.  They blame
 him for being fastidious; and so become more fastidious themselves.
-They condemn him for wasting time in trying to find the right word;
-and then waste more time in not very successful attempts to
+They condemn him for wasting [[Time|time]] in trying to find the right word;
+and then waste more [[Time|time]] in not very successful attempts to
 prove it is the wrong word.  I remember that Mr. George Moore
 (who at least led the attack when Stevenson was alive and at
 the height of his popularity) professed in a somewhat mysterious
 manner to have exposed or exploded the whole trick of Stevenson,
 by dwelling at length on the word "interjected": in the passage
-which describes a man stopping a clock with interjected finger.
+which describes a man stopping a [[Clock|clock]] with interjected finger.
 There seemed to be some notion that because the word is unusual
 in that use, it showed that there was nothing but artificial
-verbalism in the whole tragedy of _Jekyll and Hyde_ or the fun of
-_The Wrong Box._ I think it is time that this sort of fastidiousness
+verbalism in the whole [[Tragedy|tragedy]] of _Jekyll and Hyde_ or the fun of
+_The Wrong Box._ I think it is [[Time|time]] that this sort of fastidiousness
 about fastidiousness should be corrected with a little common sense.
 The obvious question to ask Mr. Moore, if he objects
 to the word "interjected," is, "What word would you use?"
@@ -113,7 +113,7 @@ individually soothed or irritated by a style like that of Stevenson,
 whether we have any personal or impersonal reason for impatience
 with the style or the man, we ought really to have enough critical
 impartiality and justice to see what is the literary test.
-The test is whether the words are well or ill chosen, not for
+The test is whether the words are [[Well|well]] or ill chosen, not for
 the purpose of fitting our own taste in words, but for the purpose
 of satisfying everybody's sense of the realities of things.
 Now it is nonsense for anybody who pretends to like literature
@@ -126,14 +126,14 @@ That is the craft of letters; and the craftsman made a vast
 multitude of such images in all sorts of materials.  In this
 matter we may say of Stevenson very much what he said of Burns.
 He remarked that Burns surprised the polite world, with its
-aesthetes and antiquarians, by never writing poems on waterfalls,
+aesthetes and antiquarians, by never writing [[Poems|poems]] on waterfalls,
 ruined castles or other recognised places of interest; the very fact,
 of course, which showed Burns to be a poet and not a tourist.
 It is always the prosaic person who demands poetic subjects.
 They are the only subjects about which he can possibly be poetic.
 But Burns, as Stevenson said, had a natural gift of lively and flexible
 comment that could play as easily upon one thing as another; a kirk
-or a tavern or a group going to market or a pair of dogs in the street.
+or a tavern or a group going to market or a pair of [[dogs]] in the street.
 This gift must be judged by its aptness, its vividness and its range;
 and anybody who suggests that Stevenson's talent was only one
 piece of thin silver polished perpetually in its napkin does not,
@@ -142,4 +142,4 @@ Stevenson had exactly the talent he attributes to Burns of touching
 nothing that he did not animate.  And so far from hiding one talent
 in one napkin, it would be truer to say that he became ruler over
 ten cities; set in the ends of the earth.  Indeed the last phrase
-alone suggests an example or a text.
+[[Alone|alone]] suggests an example or a text.

@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 41 (part 3)"
+title: "[[Villette]] — Chapter 41 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -21,7 +21,7 @@ This was certain; but I promised to do my best to endure.
 
 “Still,” said he, speaking low, “there is another objection to your
 present residence. I should wish to write to you sometimes: it would
-not be well to have any uncertainty about the safe transmission of
+not be [[Well|well]] to have any uncertainty about the safe transmission of
 letters; and in the Rue Fossette—in short, our Catholic discipline in
 certain matters—though justifiable and expedient—might possibly, under
 peculiar circumstances, become liable to misapplication—perhaps abuse.”
@@ -45,22 +45,22 @@ halted.
 
 He did not knock, but taking from his pocket a key, he opened and
 entered at once. Ushering me in, he shut the door behind us. No servant
-appeared. The vestibule was small, like the house, but freshly and
-tastefully painted; its vista closed in a French window with vines
-trained about the panes, tendrils, and green leaves kissing the glass.
-Silence reigned in this dwelling.
+appeared. The vestibule was small, like the [[house]], but freshly and
+tastefully painted; its vista closed in a French [[Window|window]] with vines
+trained about the panes, tendrils, and green [[Leaves|leaves]] kissing the glass.
+[[Silence]] reigned in this dwelling.
 
 Opening an inner door, M. Paul disclosed a parlour, or salon—very tiny,
 but I thought, very pretty. Its delicate walls were tinged like a
 blush; its floor was waxed; a square of brilliant carpet covered its
-centre; its small round table shone like the mirror over its hearth;
+centre; its small round table shone like the [[Mirror|mirror]] over its hearth;
 there was a little couch, a little chiffonnière, the half-open,
 crimson-silk door of which, showed porcelain on the shelves; there was
-a French clock, a lamp; there were ornaments in biscuit china; the
-recess of the single ample window was filled with a green stand,
+a French [[Clock|clock]], a lamp; there were ornaments in biscuit china; the
+recess of the single ample [[Window|window]] was filled with a green stand,
 bearing three green flower-pots, each filled with a fine plant glowing
 in bloom; in one corner appeared a guéridon with a marble top, and upon
-it a work-box, and a glass filled with violets in water. The lattice of
+it a work-box, and a glass filled with violets in [[Water|water]]. The lattice of
 this room was open; the outer air breathing through, gave freshness,
 the sweet violets lent fragrance.
 
@@ -72,7 +72,7 @@ the deep pervading hush.
 “We will first peep into one or two other nooks of this nutshell,” he
 replied.
 
-“Dare you take the freedom of going all over the house?” I inquired.
+“Dare you take the [[Freedom|freedom]] of going all over the [[house]]?” I inquired.
 
 “Yes, I dare,” said he, quietly.
 
@@ -95,7 +95,7 @@ door. He opened, put me in before him.
 “Voici!” he cried.
 
 I found myself in a good-sized apartment, scrupulously clean, though
-bare, compared with those I had hitherto seen. The well-scoured boards
+bare, compared with those I had hitherto seen. The [[Well|well]]-scoured boards
 were carpetless; it contained two rows of green benches and desks, with
 an alley down the centre, terminating in an estrade, a teacher’s chair
 and table; behind them a tableau. On the walls hung two maps; in the
@@ -111,14 +111,14 @@ surtout-pocket some quires of these documents, and putting them into my
 hand. I looked, I read—printed in fair characters:—
 
 “Externat de demoiselles. Numéro 7, Faubourg Clotilde, Directrice,
-Mademoiselle Lucy Snowe.”
+Mademoiselle [[Lucy Snowe]].”
 
-And what did I say to M. Paul Emanuel?
+And what did I say to M. [[Paul Emanuel]]?
 
 Certain junctures of our lives must always be difficult of recall to
-memory. Certain points, crises, certain feelings, joys, griefs, and
+[[Memory|memory]]. Certain points, crises, certain feelings, joys, griefs, and
 amazements, when reviewed, must strike us as things wildered and
-whirling, dim as a wheel fast spun.
+whirling, dim as a [[Wheel|wheel]] fast spun.
 
 I can no more remember the thoughts or the words of the ten minutes
 succeeding this disclosure, than I can retrace the experience of my
@@ -126,11 +126,11 @@ earliest year of life: and yet the first thing distinct to me is the
 consciousness that I was speaking very fast, repeating over and over
 again:—
 
-“Did you do this, M. Paul? Is this your house? Did you furnish it? Did
+“Did you do this, M. Paul? Is this your [[house]]? Did you furnish it? Did
 you get these papers printed? Do you mean me? Am I the directress? Is
-there another Lucy Snowe? Tell me: say something.”
+there another [[Lucy Snowe]]? Tell me: say something.”
 
-But he would not speak. His pleased silence, his laughing down-look,
+But he would not speak. His pleased [[Silence|silence]], his laughing down-look,
 his attitude, are visible to me now.
 
 “How is it? I must know all—_all_,” I cried.
@@ -140,7 +140,7 @@ had fastened thereon, oblivious of all else.
 
 “Ah! you said I had forgotten you all these weary days,” said he. “Poor
 old Emanuel! These are the thanks he gets for trudging about three
-mortal weeks from house-painter to upholsterer, from cabinet-maker to
+mortal weeks from [[house]]-painter to upholsterer, from cabinet-maker to
 charwoman. Lucy and Lucy’s cot, the sole thoughts in his head!”
 
 I hardly knew what to do. I first caressed the soft velvet on his cuff,

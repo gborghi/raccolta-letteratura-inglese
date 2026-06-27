@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 5 (part 1)"
+title: "[[Great Expectations]] — Chapter 5 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -31,26 +31,26 @@ right hand, and his left on my shoulder.
 
 “Excuse me, ladies and gentleman,” said the sergeant, “but as I have
 mentioned at the door to this smart young shaver,” (which he hadn’t),
-“I am on a chase in the name of the king, and I want the blacksmith.”
+“I am on a chase in the name of the [[King|king]], and I want the blacksmith.”
 
 “And pray what might you want with _him_?” retorted my sister, quick to
 resent his being wanted at all.
 
 “Missis,” returned the gallant sergeant, “speaking for myself, I should
-reply, the honour and pleasure of his fine wife’s acquaintance;
-speaking for the king, I answer, a little job done.”
+reply, the [[Honour|honour]] and pleasure of his fine wife’s acquaintance;
+speaking for the [[King|king]], I answer, a little job done.”
 
 This was received as rather neat in the sergeant; insomuch that Mr.
 Pumblechook cried audibly, “Good again!”
 
-“You see, blacksmith,” said the sergeant, who had by this time picked
+“You see, blacksmith,” said the sergeant, who had by this [[Time|time]] picked
 out Joe with his eye, “we have had an accident with these, and I find
 the lock of one of ’em goes wrong, and the coupling don’t act pretty.
 As they are wanted for immediate service, will you throw your eye over
 them?”
 
 Joe threw his eye over them, and pronounced that the job would
-necessitate the lighting of his forge fire, and would take nearer two
+necessitate the lighting of his forge [[Fire|fire]], and would take nearer two
 hours than one. “Will it? Then will you set about it at once,
 blacksmith?” said the off-hand sergeant, “as it’s on his Majesty’s
 service. And if my men can bear a hand anywhere, they’ll make
@@ -67,9 +67,9 @@ handcuffs were not for me, and that the military had so far got the
 better of the pie as to put it in the background, I collected a little
 more of my scattered wits.
 
-“Would you give me the time?” said the sergeant, addressing himself to
+“Would you give me the [[Time|time]]?” said the sergeant, addressing himself to
 Mr. Pumblechook, as to a man whose appreciative powers justified the
-inference that he was equal to the time.
+inference that he was equal to the [[Time|time]].
 
 “It’s just gone half past two.”
 
@@ -84,20 +84,20 @@ dusk, my orders are. That’ll do.”
 
 “Convicts, sergeant?” asked Mr. Wopsle, in a matter-of-course way.
 
-“Ay!” returned the sergeant, “two. They’re pretty well known to be out
+“Ay!” returned the sergeant, “two. They’re pretty [[Well|well]] known to be out
 on the marshes still, and they won’t try to get clear of ’em before
 dusk. Anybody here seen anything of any such game?”
 
 Everybody, myself excepted, said no, with confidence. Nobody thought of
 me.
 
-“Well!” said the sergeant, “they’ll find themselves trapped in a
+“[[Well]]!” said the sergeant, “they’ll find themselves trapped in a
 circle, I expect, sooner than they count on. Now, blacksmith! If you’re
-ready, his Majesty the King is.”
+ready, his Majesty the [[King]] is.”
 
 Joe had got his coat and waistcoat and cravat off, and his leather
 apron on, and passed into the forge. One of the soldiers opened its
-wooden windows, another lighted the fire, another turned to at the
+wooden windows, another lighted the [[Fire|fire]], another turned to at the
 bellows, the rest stood round the blaze, which was soon roaring. Then
 Joe began to hammer and clink, hammer and clink, and we all looked on.
 
@@ -144,9 +144,9 @@ dinner my fugitive friend on the marshes was. They had not enjoyed
 themselves a quarter so much, before the entertainment was brightened
 with the excitement he furnished. And now, when they were all in lively
 anticipation of “the two villains” being taken, and when the bellows
-seemed to roar for the fugitives, the fire to flare for them, the smoke
+seemed to roar for the fugitives, the [[Fire|fire]] to flare for them, the smoke
 to hurry away in pursuit of them, Joe to hammer and clink for them, and
 all the murky shadows on the wall to shake at them in menace as the
-blaze rose and sank, and the red-hot sparks dropped and died, the pale
+blaze [[Rose|rose]] and sank, and the red-hot sparks dropped and died, the pale
 afternoon outside almost seemed in my pitying young fancy to have
 turned pale on their account, poor wretches.

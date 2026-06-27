@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — The Winter Feast"
+title: "Man Orthodox — The [[Winter]] Feast"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-THE WINTER FEAST
+THE [[Winter|WINTER]] FEAST

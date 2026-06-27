@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 6"
+title: "[[Pride and Prejudice]] — Chapter 6"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -32,7 +32,7 @@ in all probability, from the influence of their brother’s admiration. It
 was generally evident, whenever they met, that he _did_ admire her; and
 to _her_ it was equally evident that Jane was yielding to the preference
 which she had begun to entertain for him from the first, and was in a
-way to be very much in love; but she considered with pleasure that it
+way to be very much in [[Love|love]]; but she considered with pleasure that it
 was not likely to be discovered by the world in general, since Jane
 united with great strength of feeling, a composure of temper and an
 uniform cheerfulness of manner, which would guard her from the
@@ -44,15 +44,15 @@ on the public in such a case; but it is sometimes a disadvantage to be
 so very guarded. If a woman conceals her affection with the same skill
 from the object of it, she may lose the opportunity of fixing him; and
 it will then be but poor consolation to believe the world equally in the
-dark. There is so much of gratitude or vanity in almost every
+dark. There is so much of gratitude or [[Vanity|vanity]] in almost every
 attachment, that it is not safe to leave any to itself. We can all
 _begin_ freely--a slight preference is natural enough; but there are
-very few of us who have heart enough to be really in love without
+very few of us who have heart enough to be really in [[Love|love]] without
 encouragement. In nine cases out of ten, a woman had better show _more_
 affection than she feels. Bingley likes your sister undoubtedly; but he
 may never do more than like her, if she does not help him on.”
 
-“But she does help him on, as much as her nature will allow. If _I_ can
+“But she does help him on, as much as her [[Nature|nature]] will allow. If _I_ can
 perceive her regard for him, he must be a simpleton indeed not to
 discover it too.”
 
@@ -67,15 +67,15 @@ always see each other in large mixed parties, it is impossible that
 every moment should be employed in conversing together. Jane should
 therefore make the most of every half hour in which she can command his
 attention. When she is secure of him, there will be leisure for falling
-in love as much as she chooses.”
+in [[Love|love]] as much as she chooses.”
 
 “Your plan is a good one,” replied Elizabeth, “where nothing is in
-question but the desire of being well married; and if I were determined
+question but the [[Desire|desire]] of being [[Well|well]] married; and if I were determined
 to get a rich husband, or any husband, I dare say I should adopt it. But
 these are not Jane’s feelings; she is not acting by design. As yet she
 cannot even be certain of the degree of her own regard, nor of its
 reasonableness. She has known him only a fortnight. She danced four
-dances with him at Meryton; she saw him one morning at his own house,
+dances with him at Meryton; she saw him one morning at his own [[house]],
 and has since dined in company with him four times. This is not quite
 enough to make her understand his character.”
 
@@ -88,11 +88,11 @@ evenings may do a great deal.”
 like Vingt-un better than Commerce, but with respect to any other
 leading characteristic, I do not imagine that much has been unfolded.”
 
-“Well,” said Charlotte, “I wish Jane success with all my heart; and if
+“[[Well]],” said Charlotte, “I wish Jane [[success]] with all my heart; and if
 she were married to him to-morrow, I should think she had as good a
 chance of happiness as if she were to be studying his character for a
-twelvemonth. Happiness in marriage is entirely a matter of chance. If
-the dispositions of the parties are ever so well known to each other, or
+twelvemonth. Happiness in [[Marriage|marriage]] is entirely a matter of chance. If
+the dispositions of the parties are ever so [[Well|well]] known to each other, or
 ever so similar beforehand, it does not advance their felicity in the
 least. They always continue to grow sufficiently unlike afterwards to
 have their share of vexation; and it is better to know as little as
@@ -117,7 +117,7 @@ pleasing; and in spite of his asserting that her manners were not those
 of the fashionable world, he was caught by their easy playfulness. Of
 this she was perfectly unaware: to her he was only the man who made
 himself agreeable nowhere, and who had not thought her handsome enough
-to dance with.
+to [[Dance|dance]] with.
 
 He began to wish to know more of her; and, as a step towards conversing
 with her himself, attended to her conversation with others. His doing so
@@ -141,7 +141,7 @@ any intention of speaking, Miss Lucas defied her friend to mention such
 a subject to him, which immediately provoking Elizabeth to do it, she
 turned to him and said,--
 
-“Did not you think, Mr. Darcy, that I expressed myself uncommonly well
+“Did not you think, Mr. Darcy, that I expressed myself uncommonly [[Well|well]]
 just now, when I was teasing Colonel Forster to give us a ball at
 Meryton?”
 
@@ -154,27 +154,27 @@ energetic.”
 to open the instrument, Eliza, and you know what follows.”
 
 “You are a very strange creature by way of a friend!--always wanting me
-to play and sing before anybody and everybody! If my vanity had taken a
+to play and sing before anybody and everybody! If my [[Vanity|vanity]] had taken a
 musical turn, you would have been invaluable; but as it is, I would
 really rather not sit down before those who must be in the habit of
 hearing the very best performers.” On Miss Lucas’s persevering, however,
-she added, “Very well; if it must be so, it must.” And gravely glancing
+she added, “Very [[Well|well]]; if it must be so, it must.” And gravely glancing
 at Mr. Darcy, “There is a very fine old saying, which everybody here is
 of course familiar with--‘Keep your breath to cool your porridge,’--and
-I shall keep mine to swell my song.”
+I shall keep mine to swell my [[Song|song]].”
 
-Her performance was pleasing, though by no means capital. After a song
+Her performance was pleasing, though by no means capital. After a [[Song|song]]
 or two, and before she could reply to the entreaties of several that she
 would sing again, she was eagerly succeeded at the instrument by her
 sister Mary, who having, in consequence of being the only plain one in
 the family, worked hard for knowledge and accomplishments, was always
 impatient for display.
 
-Mary had neither genius nor taste; and though vanity had given her
+Mary had neither genius nor taste; and though [[Vanity|vanity]] had given her
 application, it had given her likewise a pedantic air and conceited
 manner, which would have injured a higher degree of excellence than she
 had reached. Elizabeth, easy and unaffected, had been listened to with
-much more pleasure, though not playing half so well; and Mary, at the
+much more pleasure, though not playing half so [[Well|well]]; and Mary, at the
 end of a long concerto, was glad to purchase praise and gratitude by
 Scotch and Irish airs, at the request of her younger sisters, who with
 some of the Lucases, and two or three officers, joined eagerly in
@@ -190,16 +190,16 @@ nothing like dancing, after all. I consider it as one of the first
 refinements of polished societies.”
 
 “Certainly, sir; and it has the advantage also of being in vogue amongst
-the less polished societies of the world: every savage can dance.”
+the less polished societies of the world: every savage can [[Dance|dance]].”
 
 Sir William only smiled. “Your friend performs delightfully,” he
-continued, after a pause, on seeing Bingley join the group; “and I doubt
+continued, after a pause, on seeing Bingley join the group; “and I [[Doubt|doubt]]
 not that you are an adept in the science yourself, Mr. Darcy.”
 
-“You saw me dance at Meryton, I believe, sir.”
+“You saw me [[Dance|dance]] at Meryton, I believe, sir.”
 
 “Yes, indeed, and received no inconsiderable pleasure from the sight. Do
-you often dance at St. James’s?”
+you often [[Dance|dance]] at St. James’s?”
 
 “Never, sir.”
 
@@ -207,13 +207,13 @@ you often dance at St. James’s?”
 
 “It is a compliment which I never pay to any place if I can avoid it.”
 
-“You have a house in town, I conclude?”
+“You have a [[house]] in town, I conclude?”
 
 Mr. Darcy bowed.
 
 “I had once some thoughts of fixing in town myself, for I am fond of
 superior society; but I did not feel quite certain that the air of
-London would agree with Lady Lucas.”
+[[London]] would agree with Lady Lucas.”
 
 He paused in hopes of an answer: but his companion was not disposed to
 make any; and Elizabeth at that instant moving towards them, he was
@@ -222,7 +222,7 @@ her,--
 
 “My dear Miss Eliza, why are not you dancing? Mr. Darcy, you must allow
 me to present this young lady to you as a very desirable partner. You
-cannot refuse to dance, I am sure, when so much beauty is before you.”
+cannot refuse to [[Dance|dance]], I am sure, when so much [[Beauty|beauty]] is before you.”
 And, taking her hand, he would have given it to Mr. Darcy, who, though
 extremely surprised, was not unwilling to receive it, when she instantly
 drew back, and said with some discomposure to Sir William,--
@@ -230,11 +230,11 @@ drew back, and said with some discomposure to Sir William,--
 “Indeed, sir, I have not the least intention of dancing. I entreat you
 not to suppose that I moved this way in order to beg for a partner.”
 
-Mr. Darcy, with grave propriety, requested to be allowed the honour of
+Mr. Darcy, with [[Grave|grave]] propriety, requested to be allowed the [[Honour|honour]] of
 her hand, but in vain. Elizabeth was determined; nor did Sir William at
-all shake her purpose by his attempt at persuasion.
+all shake her purpose by his attempt at [[Persuasion|persuasion]].
 
-“You excel so much in the dance, Miss Eliza, that it is cruel to deny me
+“You excel so much in the [[Dance|dance]], Miss Eliza, that it is cruel to deny me
 the happiness of seeing you; and though this gentleman dislikes the
 amusement in general, he can have no objection, I am sure, to oblige us
 for one half hour.”
@@ -242,7 +242,7 @@ for one half hour.”
 “Mr. Darcy is all politeness,” said Elizabeth, smiling.
 
 “He is, indeed: but considering the inducement, my dear Miss Eliza, we
-cannot wonder at his complaisance; for who would object to such a
+cannot [[Wonder|wonder]] at his complaisance; for who would object to such a
 partner?”
 
 Elizabeth looked archly, and turned away. Her resistance had not injured
@@ -256,7 +256,7 @@ complacency, when thus accosted by Miss Bingley,--
 “You are considering how insupportable it would be to pass many
 evenings in this manner,--in such society; and, indeed, I am quite of
 your opinion. I was never more annoyed! The insipidity, and yet the
-noise--the nothingness, and yet the self-importance, of all these
+noise--the nothingness, and yet the [[Self|self]]-importance, of all these
 people! What would I give to hear your strictures on them!”
 
 “Your conjecture is totally wrong, I assure you. My mind was more
@@ -267,14 +267,14 @@ Miss Bingley immediately fixed her eyes on his face, and desired he
 would tell her what lady had the credit of inspiring such reflections.
 Mr. Darcy replied, with great intrepidity,--
 
-“Miss Elizabeth Bennet.”
+“Miss [[Elizabeth Bennet]].”
 
-“Miss Elizabeth Bennet!” repeated Miss Bingley. “I am all astonishment.
+“Miss [[Elizabeth Bennet]]!” repeated Miss Bingley. “I am all astonishment.
 How long has she been such a favourite? and pray when am I to wish you
 joy?”
 
 “That is exactly the question which I expected you to ask. A lady’s
-imagination is very rapid; it jumps from admiration to love, from love
+[[Imagination|imagination]] is very rapid; it jumps from admiration to [[Love|love]], from [[Love|love]]
 to matrimony, in a moment. I knew you would be wishing me joy.”
 
 “Nay, if you are so serious about it, I shall consider the matter as

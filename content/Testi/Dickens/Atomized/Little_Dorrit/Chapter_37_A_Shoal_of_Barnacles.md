@@ -20,15 +20,15 @@ CHAPTER 34. A Shoal of Barnacles
 Mr Henry Gowan and the dog were established frequenters of the cottage,
 and the day was fixed for the wedding. There was to be a convocation of
 Barnacles on the occasion, in order that that very high and very large
-family might shed as much lustre on the marriage as so dim an event was
+family might shed as much lustre on the [[Marriage|marriage]] as so dim an event was
 capable of receiving.
 
 To have got the whole Barnacle family together would have been
 impossible for two reasons. Firstly, because no building could have held
-all the members and connections of that illustrious house. Secondly,
+all the members and connections of that illustrious [[house]]. Secondly,
 because wherever there was a square yard of ground in British occupation
-under the sun or moon, with a public post upon it, sticking to that post
-was a Barnacle. No intrepid navigator could plant a flag-staff upon any
+under the sun or [[Moon|moon]], with a public post upon it, sticking to that post
+was a Barnacle. No intrepid navigator could plant a [[Flag|flag]]-staff upon any
 spot of earth, and take possession of it in the British name, but
 to that spot of earth, so soon as the discovery was known, the
 Circumlocution Office sent out a Barnacle and a despatch-box. Thus the
@@ -45,40 +45,40 @@ gentleman when he was not engaged (as he generally was at this period)
 in examining and paying the debts of his future son-in-law, in the
 apartment of scales and scoop.
 
-One marriage guest there was, in reference to whose presence Mr Meagles
+One [[Marriage|marriage]] guest there was, in reference to whose presence Mr Meagles
 felt a nearer interest and concern than in the attendance of the most
 elevated Barnacle expected; though he was far from insensible of the
-honour of having such company. This guest was Clennam. But Clennam had
-made a promise he held sacred, among the trees that summer night, and,
+[[Honour|honour]] of having such company. This guest was Clennam. But Clennam had
+made a promise he held sacred, among the trees that [[Summer|summer]] [[Night|night]], and,
 in the chivalry of his heart, regarded it as binding him to many implied
 obligations. In forgetfulness of himself, and delicate service to her on
 all occasions, he was never to fail; to begin it, he answered Mr Meagles
 cheerfully, ‘I shall come, of course.’
 
-His partner, Daniel Doyce, was something of a stumbling-block in Mr
+His partner, [[Daniel Doyce]], was something of a stumbling-block in Mr
 Meagles’s way, the worthy gentleman being not at all clear in his own
 anxious mind but that the mingling of Daniel with official Barnacleism
-might produce some explosive combination, even at a marriage breakfast.
+might produce some explosive combination, even at a [[Marriage|marriage]] breakfast.
 The national offender, however, lightened him of his uneasiness by
-coming down to Twickenham to represent that he begged, with the freedom
+coming down to Twickenham to represent that he begged, with the [[Freedom|freedom]]
 of an old friend, and as a favour to one, that he might not be invited.
 ‘For,’ said he, ‘as my business with this set of gentlemen was to do a
 public duty and a public service, and as their business with me was to
-prevent it by wearing my soul out, I think we had better not eat and
+prevent it by wearing my [[Soul|soul]] out, I think we had better not eat and
 drink together with a show of being of one mind.’ Mr Meagles was much
 amused by his friend’s oddity; and patronised him with a more protecting
-air of allowance than usual, when he rejoined: ‘Well, well, Dan, you
+air of allowance than usual, when he rejoined: ‘[[Well]], [[Well|well]], Dan, you
 shall have your own crotchety way.’
 
-To Mr Henry Gowan, as the time approached, Clennam tried to convey
+To Mr Henry Gowan, as the [[Time|time]] approached, Clennam tried to convey
 by all quiet and unpretending means, that he was frankly and
-disinterestedly desirous of tendering him any friendship he would
+disinterestedly desirous of tendering him any [[Friendship|friendship]] he would
 accept. Mr Gowan treated him in return with his usual ease, and with his
 usual show of confidence, which was no confidence at all.
 
 ‘You see, Clennam,’ he happened to remark in the course of conversation
 one day, when they were walking near the Cottage within a week of the
-marriage, ‘I am a disappointed man. That you know already.’
+[[Marriage|marriage]], ‘I am a disappointed man. That you know already.’
 
 ‘Upon my word,’ said Clennam, a little embarrassed, ‘I scarcely know
 how.’
@@ -86,12 +86,12 @@ how.’
 ‘Why,’ returned Gowan, ‘I belong to a clan, or a clique, or a family, or
 a connection, or whatever you like to call it, that might have provided
 for me in any one of fifty ways, and that took it into its head not to
-do it at all. So here I am, a poor devil of an artist.’
+do it at all. So here I am, a poor devil of an [[artist]].’
 
 Clennam was beginning, ‘But on the other hand--’ when Gowan took him up.
 
 ‘Yes, yes, I know. I have the good fortune of being beloved by a
-beautiful and charming girl whom I love with all my heart.’
+beautiful and charming girl whom I [[Love|love]] with all my heart.’
 
 [‘Is there much of it?’ Clennam thought. And as he thought it, felt
 ashamed of himself.)
@@ -115,19 +115,19 @@ that--though they are charming fellows, and I have the greatest
 affection for them. Besides, it’s pleasant to show them that I can do
 without them, and that they may all go to the Devil. And besides, again,
 most men are disappointed in life, somehow or other, and influenced by
-their disappointment. But it’s a dear good world, and I love it!’
+their disappointment. But it’s a dear good world, and I [[Love|love]] it!’
 
-‘It lies fair before you now,’ said Arthur.
+‘It lies fair before you now,’ said [[arthur|Arthur]].
 
-‘Fair as this summer river,’ cried the other, with enthusiasm, ‘and by
+‘Fair as this [[Summer|summer]] [[River|river]],’ cried the other, with enthusiasm, ‘and by
 Jove I glow with admiration of it, and with ardour to run a race in it.
 It’s the best of old worlds! And my calling! The best of old callings,
 isn’t it?’
 
-‘Full of interest and ambition, I conceive,’ said Clennam.
+‘Full of interest and [[Ambition|ambition]], I conceive,’ said Clennam.
 
 ‘And imposition,’ added Gowan, laughing; ‘we won’t leave out the
-imposition. I hope I may not break down in that; but there, my being
+imposition. I [[Hope|hope]] I may not break down in that; but there, my being
 a disappointed man may show itself. I may not be able to face it out
 gravely enough. Between you and me, I think there is some danger of my
 being just enough soured not to be able to do that.’
@@ -141,9 +141,9 @@ giving up many solitary days to it, and abandoning many pleasures for
 it, and living in it, and all the rest of it--in short, to pass the
 bottle of smoke according to rule.’
 
-‘But it is well for a man to respect his own vocation, whatever it is;
+‘But it is [[Well|well]] for a man to respect his own vocation, whatever it is;
 and to think himself bound to uphold it, and to claim for it the respect
-it deserves; is it not?’ Arthur reasoned. ‘And your vocation, Gowan,
+it deserves; is it not?’ [[arthur|Arthur]] reasoned. ‘And your vocation, Gowan,
 may really demand this suit and service. I confess I should have thought
 that all Art did.’
 
@@ -156,43 +156,43 @@ resolved to believe he did not mean it. Gowan, without pausing, laid his
 hand upon his shoulder, and laughingly and lightly went on:
 
 ‘Clennam, I don’t like to dispel your generous visions, and I would give
-any money (if I had any), to live in such a rose-coloured mist. But what
+any money (if I had any), to live in such a [[Rose|rose]]-coloured mist. But what
 I do in my trade, I do to sell. What all we fellows do, we do to
 sell. If we didn’t want to sell it for the most we can get for it, we
 shouldn’t do it. Being work, it has to be done; but it’s easily enough
 done. All the rest is hocus-pocus. Now here’s one of the advantages, or
-disadvantages, of knowing a disappointed man. You hear the truth.’
+disadvantages, of knowing a disappointed man. You hear the [[Truth|truth]].’
 
 Whatever he had heard, and whether it deserved that name or another, it
-sank into Clennam’s mind. It so took root there, that he began to fear
+sank into Clennam’s mind. It so took root there, that he began to [[Fear|fear]]
 Henry Gowan would always be a trouble to him, and that so far he had
 gained little or nothing from the dismissal of Nobody, with all his
 inconsistencies, anxieties, and contradictions. He found a contest still
 always going on in his breast between his promise to keep Gowan in
 none but good aspects before the mind of Mr Meagles, and his enforced
 observation of Gowan in aspects that had no good in them. Nor could he
-quite support his own conscientious nature against misgivings that he
+quite support his own conscientious [[Nature|nature]] against misgivings that he
 distorted and discoloured himself, by reminding himself that he never
 sought those discoveries, and that he would have avoided them with
 willingness and great relief. For he never could forget what he had
 been; and he knew that he had once disliked Gowan for no better reason
 than that he had come in his way.
 
-Harassed by these thoughts, he now began to wish the marriage over,
+Harassed by these thoughts, he now began to wish the [[Marriage|marriage]] over,
 Gowan and his young wife gone, and himself left to fulfil his promise,
 and discharge the generous function he had accepted. This last week was,
-in truth, an uneasy interval for the whole house. Before Pet, or before
+in [[Truth|truth]], an uneasy interval for the whole [[house]]. Before Pet, or before
 Gowan, Mr Meagles was radiant; but Clennam had more than once found him
-alone, with his view of the scales and scoop much blurred, and had often
-seen him look after the lovers, in the garden or elsewhere when he was
+[[Alone|alone]], with his view of the scales and scoop much blurred, and had often
+seen him look after the [[lovers]], in the [[Garden|garden]] or elsewhere when he was
 not seen by them, with the old clouded face on which Gowan had fallen
-like a shadow. In the arrangement of the house for the great occasion,
+like a [[Shadow|shadow]]. In the arrangement of the [[house]] for the great occasion,
 many little reminders of the old travels of the father and mother
 and daughter had to be disturbed and passed from hand to hand; and
 sometimes, in the midst of these mute witnesses, to the life they had
 had together, even Pet herself would yield to lamenting and weeping.
 Mrs Meagles, the blithest and busiest of mothers, went about singing
-and cheering everybody; but she, honest soul, had her flights into store
+and cheering everybody; but she, honest [[Soul|soul]], had her flights into store
 rooms, where she would cry until her eyes were red, and would then
 come out, attributing that appearance to pickled onions and pepper, and
 singing clearer than ever. Mrs Tickit, finding no balsam for a wounded
@@ -200,31 +200,31 @@ mind in Buchan’s Domestic Medicine, suffered greatly from low spirits,
 and from moving recollections of Minnie’s infancy. When the latter was
 powerful with her, she usually sent up secret messages importing
 that she was not in parlour condition as to her attire, and that she
-solicited a sight of ‘her child’ in the kitchen; there, she would bless
-her child’s face, and bless her child’s heart, and hug her child, in a
-medley of tears and congratulations, chopping-boards, rolling-pins, and
+solicited a sight of ‘her [[Child|child]]’ in the kitchen; there, she would bless
+her [[Child|child]]’s face, and bless her [[Child|child]]’s heart, and hug her [[Child|child]], in a
+medley of [[Tears|tears]] and congratulations, chopping-boards, [[rolling]]-pins, and
 pie-crust, with the tenderness of an old attached servant, which is a
 very pretty tenderness indeed.
 
-But all days come that are to be; and the marriage-day was to be, and it
+But all days come that are to be; and the [[Marriage|marriage]]-day was to be, and it
 came; and with it came all the Barnacles who were bidden to the feast.
 
 There was Mr Tite Barnacle, from the Circumlocution Office, and Mews
 Street, Grosvenor Square, with the expensive Mrs Tite Barnacle _nee_
 Stiltstalking, who made the Quarter Days so long in coming, and the
-three expensive Miss Tite Barnacles, double-loaded with accomplishments
+three expensive Miss Tite Barnacles, [[Double|double]]-loaded with accomplishments
 and ready to go off, and yet not going off with the sharpness of flash
-and bang that might have been expected, but rather hanging fire. There
+and bang that might have been expected, but rather hanging [[Fire|fire]]. There
 was Barnacle junior, also from the Circumlocution Office, leaving the
 Tonnage of the country, which he was somehow supposed to take under
 his protection, to look after itself, and, sooth to say, not at all
-impairing the efficiency of its protection by leaving it alone. There
+impairing the efficiency of its protection by leaving it [[Alone|alone]]. There
 was the engaging Young Barnacle, deriving from the sprightly side of the
 family, also from the Circumlocution Office, gaily and agreeably helping
 the occasion along, and treating it, in his sparkling way, as one of the
 official forms and fees of the Church Department of How not to do it.
 There were three other Young Barnacles from three other offices, insipid
-to all the senses, and terribly in want of seasoning, doing the marriage
+to all the senses, and terribly in want of seasoning, doing the [[Marriage|marriage]]
 as they would have ‘done’ the Nile, Old Rome, the new singer, or
 Jerusalem.
 
@@ -234,23 +234,23 @@ Despatch-Boxes upon him. Yes, there was Lord Decimus Tite Barnacle, who
 had risen to official heights on the wings of one indignant idea, and
 that was, My Lords, that I am yet to be told that it behoves a Minister
 of this free country to set bounds to the philanthropy, to cramp the
-charity, to fetter the public spirit, to contract the enterprise, to
-damp the independent self-reliance, of its people. That was, in other
+[[Charity|charity]], to fetter the public spirit, to contract the enterprise, to
+damp the independent [[Self-Reliance|self-reliance]], of its people. That was, in other
 words, that this great statesman was always yet to be told that it
-behoved the Pilot of the ship to do anything but prosper in the private
+behoved the Pilot of the [[Ship|ship]] to do anything but prosper in the private
 loaf and fish trade ashore, the crew being able, by dint of hard
-pumping, to keep the ship above water without him. On this sublime
+pumping, to keep the [[Ship|ship]] above [[Water|water]] without him. On this [[Sublime|sublime]]
 discovery in the great art How not to do it, Lord Decimus had long
 sustained the highest glory of the Barnacle family; and let any
-ill-advised member of either House but try How to do it by bringing in
+ill-advised member of either [[house|House]] but try How to do it by bringing in
 a Bill to do it, that Bill was as good as dead and buried when Lord
-Decimus Tite Barnacle rose up in his place and solemnly said, soaring
+Decimus Tite Barnacle [[Rose|rose]] up in his place and solemnly said, soaring
 into indignant majesty as the Circumlocution cheering soared around
 him, that he was yet to be told, My Lords, that it behoved him as the
 Minister of this free country, to set bounds to the philanthropy,
-to cramp the charity, to fetter the public spirit, to contract the
-enterprise, to damp the independent self-reliance, of its people. The
-discovery of this Behoving Machine was the discovery of the political
+to cramp the [[Charity|charity]], to fetter the public spirit, to contract the
+enterprise, to damp the independent [[Self-Reliance|self-reliance]], of its people. The
+discovery of this Behoving [[Machine]] was the discovery of the political
 perpetual motion. It never wore out, though it was always going round
 and round in all the State Departments.
 
@@ -258,20 +258,20 @@ And there, with his noble friend and relative Lord Decimus, was
 William Barnacle, who had made the ever-famous coalition with Tudor
 Stiltstalking, and who always kept ready his own particular recipe for
 How not to do it; sometimes tapping the Speaker, and drawing it fresh
-out of him, with a ‘First, I will beg you, sir, to inform the House what
+out of him, with a ‘First, I will beg you, sir, to inform the [[house|House]] what
 Precedent we have for the course into which the honourable gentleman
 would precipitate us;’ sometimes asking the honourable gentleman to
 favour him with his own version of the Precedent; sometimes telling
 the honourable gentleman that he (William Barnacle) would search for a
 Precedent; and oftentimes crushing the honourable gentleman flat on
 the spot by telling him there was no Precedent. But Precedent and
-Precipitate were, under all circumstances, the well-matched pair of
+Precipitate were, under all circumstances, the [[Well|well]]-matched pair of
 battle-horses of this able Circumlocutionist. No matter that the unhappy
 honourable gentleman had been trying in vain, for twenty-five years, to
 precipitate William Barnacle into this--William Barnacle still put it to
-the House, and (at second-hand or so) to the country, whether he was to
+the [[house|House]], and (at second-hand or so) to the country, whether he was to
 be precipitated into this. No matter that it was utterly irreconcilable
-with the nature of things and course of events that the wretched
+with the [[Nature|nature]] of things and course of events that the wretched
 honourable gentleman could possibly produce a Precedent for
 this--William Barnacle would nevertheless thank the honourable gentleman
 for that ironical cheer, and would close with him upon that issue, and
@@ -285,7 +285,7 @@ people.
 And there, too, was another Barnacle, a lively one, who had leaped
 through twenty places in quick succession, and was always in two or
 three at once, and who was the much-respected inventor of an art
-which he practised with great success and admiration in all Barnacle
+which he practised with great [[success]] and admiration in all Barnacle
 Governments. This was, when he was asked a Parliamentary question on
 any one topic, to return an answer on any other. It had done immense
 service, and brought him into high esteem with the Circumlocution
@@ -299,13 +299,13 @@ or not to make houses; and they did all their hearing, and ohing, and
 cheering, and barking, under directions from the heads of the family;
 and they put dummy motions on the paper in the way of other men’s
 motions; and they stalled disagreeable subjects off until late in the
-night and late in the session, and then with virtuous patriotism cried
+[[Night|night]] and late in the session, and then with virtuous patriotism cried
 out that it was too late; and they went down into the country, whenever
 they were sent, and swore that Lord Decimus had revived trade from a
 swoon, and commerce from a fit, and had doubled the harvest of corn,
 quadrupled the harvest of hay, and prevented no end of gold from flying
 out of the Bank. Also these Barnacles were dealt, by the heads of the
-family, like so many cards below the court-cards, to public meetings and
+family, like so many cards below the [[Court|court]]-cards, to public meetings and
 dinners; where they bore testimony to all sorts of services on the part
 of their noble and honourable relatives, and buttered the Barnacles on
 all sorts of toasts. And they stood, under similar orders, at all sorts
@@ -320,7 +320,7 @@ applicants for such places, the names of some or of every one of these
 hungry and adhesive Barnacles were down.
 
 It was necessarily but a sprinkling of any class of Barnacles that
-attended the marriage, for there were not two score in all, and what
+attended the [[Marriage|marriage]], for there were not two score in all, and what
 is that subtracted from Legion! But the sprinkling was a swarm in the
 Twickenham cottage, and filled it. A Barnacle (assisted by a Barnacle)
 married the happy pair, and it behoved Lord Decimus Tite Barnacle
@@ -330,20 +330,20 @@ The entertainment was not as agreeable and natural as it might have
 been. Mr Meagles, hove down by his good company while he highly
 appreciated it, was not himself. Mrs Gowan was herself, and that did not
 improve him. The fiction that it was not Mr Meagles who had stood in the
-way, but that it was the Family greatness, and that the Family greatness
+way, but that it was the Family [[Greatness|greatness]], and that the Family [[Greatness|greatness]]
 had made a concession, and there was now a soothing unanimity, pervaded
 the affair, though it was never openly expressed. Then the Barnacles
 felt that they for their parts would have done with the Meagleses when
 the present patronising occasion was over; and the Meagleses felt the
 same for their parts. Then Gowan asserting his rights as a disappointed
 man who had his grudge against the family, and who, perhaps, had allowed
-his mother to have them there, as much in the hope it might give them
+his mother to have them there, as much in the [[Hope|hope]] it might give them
 some annoyance as with any other benevolent object, aired his pencil and
-his poverty ostentatiously before them, and told them he hoped in time
-to settle a crust of bread and cheese on his wife, and that he begged
+his [[Poverty|poverty]] ostentatiously before them, and told them he hoped in [[Time|time]]
+to settle a crust of bread and [[cheese]] on his wife, and that he begged
 such of them as (more fortunate than himself) came in for any good
 thing, and could buy a picture, to please to remember the poor painter.
-Then Lord Decimus, who was a wonder on his own Parliamentary pedestal,
+Then Lord Decimus, who was a [[Wonder|wonder]] on his own Parliamentary pedestal,
 turned out to be the windiest creature here: proposing happiness to the
 bride and bridegroom in a series of platitudes that would have made the
 hair of any sincere disciple and believer stand on end; and trotting,
@@ -390,16 +390,16 @@ sacrifice for Mr and Mrs Meagles’s good, which they always conveyed to
 Mr John Bull in their official condescension to that most unfortunate
 creature.
 
-A miserable blank remained in the house and in the hearts of the father
+A miserable blank remained in the [[house]] and in the hearts of the father
 and mother and Clennam. Mr Meagles called only one remembrance to his
 aid, that really did him good.
 
-‘It’s very gratifying, Arthur,’ he said, ‘after all, to look back upon.’
+‘It’s very gratifying, [[arthur|Arthur]],’ he said, ‘after all, to look back upon.’
 
 ‘The past?’ said Clennam.
 
 ‘Yes--but I mean the company.’
 
-It had made him much more low and unhappy at the time, but now it really
+It had made him much more low and unhappy at the [[Time|time]], but now it really
 did him good. ‘It’s very gratifying,’ he said, often repeating the
 remark in the course of the evening. ‘Such high company!’

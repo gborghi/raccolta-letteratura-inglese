@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE (part 2)"
+title: "The [[Pickwick]] Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-‘Well, shake hands, won’t you?’ said Sam.
+‘[[Well]], shake hands, won’t you?’ said Sam.
 
 The pretty housemaid put out a hand which, although it was a
-housemaid’s, was a very small one, and rose to go.
+housemaid’s, was a very small one, and [[Rose|rose]] to go.
 
 ‘I shan’t be wery long avay,’ said Sam.
 
 ‘You’re always away,’ said Mary, giving her head the slightest possible
 toss in the air. ‘You no sooner come, Mr. Weller, than you go again.’
 
-Mr. Weller drew the household beauty closer to him, and entered upon a
+Mr. Weller drew the household [[Beauty|beauty]] closer to him, and entered upon a
 whispering conversation, which had not proceeded far, when she turned
 her face round and condescended to look at him again. When they parted,
 it was somehow or other indispensably necessary for her to go to her
@@ -34,30 +34,30 @@ perform, bestowing many nods and smiles on Sam over the banisters as she
 tripped upstairs.
 
 ‘I shan’t be avay more than a day, or two, Sir, at the furthest,’ said
-Sam, when he had communicated to Mr. Pickwick the intelligence of his
+Sam, when he had communicated to Mr. [[Pickwick]] the intelligence of his
 father’s loss.
 
-‘As long as may be necessary, Sam,’ replied Mr. Pickwick, ‘you have my
+‘As long as may be necessary, Sam,’ replied Mr. [[Pickwick]], ‘you have my
 full permission to remain.’
 
 Sam bowed.
 
 ‘You will tell your father, Sam, that if I can be of any assistance to
 him in his present situation, I shall be most willing and ready to lend
-him any aid in my power,’ said Mr. Pickwick.
+him any aid in my power,’ said Mr. [[Pickwick]].
 
 ‘Thank’ee, sir,’ rejoined Sam. ‘I’ll mention it, sir.’
 
 And with some expressions of mutual good-will and interest, master and
 man separated.
 
-It was just seven o’clock when Samuel Weller, alighting from the box of
+It was just seven o’[[Clock|clock]] when Samuel Weller, alighting from the box of
 a stage-coach which passed through Dorking, stood within a few hundred
 yards of the Marquis of Granby. It was a cold, dull evening; the little
 street looked dreary and dismal; and the mahogany countenance of the
-noble and gallant marquis seemed to wear a more sad and melancholy
+noble and gallant marquis seemed to wear a more sad and [[Melancholy|melancholy]]
 expression than it was wont to do, as it swung to and fro, creaking
-mournfully in the wind. The blinds were pulled down, and the shutters
+mournfully in the [[Wind|wind]]. The blinds were pulled down, and the shutters
 partly closed; of the knot of loungers that usually collected about the
 door, not one was to be seen; the place was silent and desolate.
 
@@ -66,7 +66,7 @@ softly in, and glancing round, he quickly recognised his parent in the
 distance.
 
 The widower was seated at a small round table in the little room behind
-the bar, smoking a pipe, with his eyes intently fixed upon the fire. The
+the bar, smoking a pipe, with his eyes intently fixed upon the [[Fire|fire]]. The
 funeral had evidently taken place that day, for attached to his hat,
 which he still retained on his head, was a hatband measuring about a
 yard and a half in length, which hung over the top rail of the chair and
@@ -81,10 +81,10 @@ palm of his hand on his shoulder.
 ‘I’ve been a-callin’ to you half a dozen times,’ said Sam, hanging his
 hat on a peg, ‘but you didn’t hear me.’
 
-‘No, Sammy,’ replied Mr. Weller, again looking thoughtfully at the fire.
+‘No, Sammy,’ replied Mr. Weller, again looking thoughtfully at the [[Fire|fire]].
 ‘I was in a referee, Sammy.’
 
-‘Wot about?’ inquired Sam, drawing his chair up to the fire.
+‘Wot about?’ inquired Sam, drawing his chair up to the [[Fire|fire]].
 
 ‘In a referee, Sammy,’ replied the elder Mr. Weller, ‘regarding _her_,
 Samivel.’ Here Mr. Weller jerked his head in the direction of Dorking
@@ -100,10 +100,10 @@ that upon the whole I wos wery sorry she wos gone.’
 ‘Vell, and so you ought to be,’ replied Sam.
 
 Mr. Weller nodded his acquiescence in the sentiment, and again fastening
-his eyes on the fire, shrouded himself in a cloud, and mused deeply.
+his eyes on the [[Fire|fire]], shrouded himself in a cloud, and mused deeply.
 
 ‘Those wos wery sensible observations as she made, Sammy,’ said Mr.
-Weller, driving the smoke away with his hand, after a long silence.
+Weller, driving the smoke away with his hand, after a long [[Silence|silence]].
 
 ‘Wot observations?’ inquired Sam.
 
@@ -113,15 +113,15 @@ Weller, driving the smoke away with his hand, after a long silence.
 
 ‘Somethin’ to this here effect. “Veller,” she says, “I’m afeered I’ve
 not done by you quite wot I ought to have done; you’re a wery kind-
-hearted man, and I might ha’ made your home more comfortabler. I begin
+hearted man, and I might ha’ made your [[Home|home]] more comfortabler. I begin
 to see now,” she says, “ven it’s too late, that if a married ‘ooman
 vishes to be religious, she should begin vith dischargin’ her dooties at
-home, and makin’ them as is about her cheerful and happy, and that vile
+[[Home|home]], and makin’ them as is about her cheerful and happy, and that vile
 she goes to church, or chapel, or wot not, at all proper times, she
 should be wery careful not to con-wert this sort o’ thing into a excuse
-for idleness or self-indulgence. I have done this,” she says, “and I’ve
-vasted time and substance on them as has done it more than me; but I
-hope ven I’m gone, Veller, that you’ll think on me as I wos afore I
+for idleness or [[Self|self]]-indulgence. I have done this,” she says, “and I’ve
+vasted [[Time|time]] and substance on them as has done it more than me; but I
+[[Hope|hope]] ven I’m gone, Veller, that you’ll think on me as I wos afore I
 know’d them people, and as I raly wos by natur.” ‘“Susan,” says I--I wos
 took up wery short by this, Samivel; I von’t deny it, my boy--“Susan,” I
 says, “you’ve been a wery good vife to me, altogether; don’t say nothin’
@@ -137,11 +137,11 @@ gov’nor, ve must all come to it, one day or another.’
 
 ‘So we must, Sammy,’ said Mr. Weller the elder.
 
-‘There’s a Providence in it all,’ said Sam.
+‘There’s a [[Providence]] in it all,’ said Sam.
 
-‘O’ course there is,’ replied his father, with a nod of grave approval.
+‘O’ course there is,’ replied his father, with a nod of [[Grave|grave]] approval.
 ‘Wot ‘ud become of the undertakers vithout it, Sammy?’
 
 Lost in the immense field of conjecture opened by this reflection, the
-elder Mr. Weller laid his pipe on the table, and stirred the fire with a
+elder Mr. Weller laid his pipe on the table, and stirred the [[Fire|fire]] with a
 meditative visage.

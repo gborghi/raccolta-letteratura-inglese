@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — Reflections On A Rotten Apple (part 3)"
+title: "[[Well]] And Shallows — Reflections On A Rotten Apple (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Well-And-Shallows-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-As I have said, I do not imagine, or desire, that things would ever
+As I have said, I do not imagine, or [[Desire|desire]], that things would ever
 be quite so simple as that.  But we must understand things in their
 simplicity before we can explain or correct their complexity.
 The complexity of commercial society has become intolerable,
@@ -25,7 +25,7 @@ When the simple enthusiasts already mentioned say that Trade
 is Good, they mean that all the people who possess goods are
 perpetually parting with them.  These Optimists presumably invoke
 the poet, with some slight emendation of the poet's meaning,
-when he cries aloud, 'Our souls are love and a perpetual farewell.'
+when he cries aloud, 'Our souls are [[Love|love]] and a perpetual farewell.'
 In that sense, our individualistic and commercial modern society is
 actually the very reverse of a society founded on Private Property.
 I mean that the actual direct and isolated enjoyment of private property,
@@ -40,9 +40,9 @@ to the number of apples which he will produce but cannot eat.
 But there is no limit to the number of apples he may possibly sell;
 and he soon becomes a pushing, dexterous and successful Salesman
 and turns the whole world upside-down. For it is he who produces this
-huge pantomimic paradox with which this rambling reflection began.
+huge pantomimic [[Paradox|paradox]] with which this rambling reflection began.
 It is he who makes a wilder revolution than the apple of Adam which was
-the loosening of death, or the apple of Newton which was the apocalypse
+the loosening of [[Death|death]], or the apple of Newton which was the [[Apocalypse|apocalypse]]
 of gravitation, by proclaiming the supreme blasphemy and heresy,
 that the apple was made for the market and not for the mouth.
 It was he, by starting the wild race of pouring endless apples into
@@ -56,8 +56,8 @@ the statement that the more we produce the less we possess.
 Oscar Wilde would probably have fainted with equal promptitude,
 if told he was being used in an argument about American salesmanship,
 or in defence of a thrifty and respectable family life on the farm.
-But it does so happen that one true epigram, among many of his false
-epigrams, sums up correctly and compactly a certain truth, not (I am happy
+But it does so happen that one true [[Epigram|epigram]], among many of his false
+epigrams, sums up correctly and compactly a certain [[Truth|truth]], not (I am happy
 to say) about Art, but about all that he desired to separate from Art;
 ethics and even economics.  He said in one of his plays:  "A cynic
 is a man who knows the price of everything and the value of nothing."
@@ -75,14 +75,14 @@ And since Price is a crazy and incalculable thing, while Value
 is an intrinsic and indestructible thing, they have swept us into
 a society which is no longer solid but fluid, as unfathomable as a sea
 and as treacherous as a quicksand.  Whether anything more solid can
-be built again upon a social philosophy of values, there is now
+be built again upon a social [[philosophy]] of values, there is now
 no space to discuss at length here; but I am certain that nothing
-solid can be built on any other philosophy; certainly not upon
-the utterly un-philosophical philosophy of blind buying and selling;
+solid can be built on any other [[philosophy]]; certainly not upon
+the utterly un-philosophical [[philosophy]] of blind buying and selling;
 of bullying people into purchasing what they do not want; of making
 it badly so that they may break it and imagine they want it again;
-of keeping rubbish in rapid circulation like a dust-storm in a desert;
-and pretending that you are teaching men to hope, because you do
-not leave them one intelligent instant in which to despair.
+of keeping rubbish in rapid circulation like a [[Dust|dust]]-[[Storm|storm]] in a [[Desert|desert]];
+and pretending that you are teaching men to [[Hope|hope]], because you do
+not leave them one intelligent instant in which to [[Despair|despair]].
 
 -/-

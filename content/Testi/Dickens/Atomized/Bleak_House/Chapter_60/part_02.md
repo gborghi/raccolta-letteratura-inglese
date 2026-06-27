@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 60 (part 2)"
+title: "Bleak [[house|House]] — Chapter 60 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -23,7 +23,7 @@ better.”
 
 “Sure, little woman?”
 
-Quite sure. I had had a moment’s time to think, since I had urged
+Quite sure. I had had a moment’s [[Time|time]] to think, since I had urged
 that duty on myself, and I was quite sure.
 
 “Good,” said my guardian. “It shall be done. Carried unanimously.”
@@ -31,7 +31,7 @@ that duty on myself, and I was quite sure.
 “Carried unanimously,” I repeated, going on with my work.
 
 It was a cover for his book-table that I happened to be ornamenting.
-It had been laid by on the night preceding my sad journey and never
+It had been laid by on the [[Night|night]] preceding my sad [[Journey|journey]] and never
 resumed. I showed it to him now, and he admired it highly. After I
 had explained the pattern to him and all the great effects that were
 to come out by and by, I thought I would go back to our last theme.
@@ -58,7 +58,7 @@ sometimes lie (as most men’s sometimes do, I dare say) above the
 ordinary level, but to whom the ordinary level will be high enough
 after all if it should prove to be a way of usefulness and good
 service leading to no other. All generous spirits are ambitious, I
-suppose, but the ambition that calmly trusts itself to such a road,
+suppose, but the [[Ambition|ambition]] that calmly trusts itself to such a [[Road|road]],
 instead of spasmodically trying to fly over it, is of the kind I care
 for. It is Woodcourt’s kind.”
 
@@ -79,39 +79,39 @@ falls on Mr. Woodcourt, guardian.”
 “You are right, little woman; that I am sure they will.”
 
 We said no more about it, nor did he say a word about the future of
-Bleak House. But it was the first time I had taken my seat at his
+Bleak [[house|House]]. But it was the first [[Time|time]] I had taken my seat at his
 side in my mourning dress, and that accounted for it, I considered.
 
 I now began to visit my dear girl every day in the dull dark corner
-where she lived. The morning was my usual time, but whenever I found
+where she lived. The morning was my usual [[Time|time]], but whenever I found
 I had an hour or so to spare, I put on my bonnet and bustled off to
 Chancery Lane. They were both so glad to see me at all hours, and
 used to brighten up so when they heard me opening the door and coming
-in (being quite at home, I never knocked), that I had no fear of
+in (being quite at [[Home|home]], I never knocked), that I had no [[Fear|fear]] of
 becoming troublesome just yet.
 
-On these occasions I frequently found Richard absent. At other times
+On these occasions I frequently found [[Richard]] absent. At other times
 he would be writing or reading papers in the cause at that table of
 his, so covered with papers, which was never disturbed. Sometimes I
 would come upon him lingering at the door of Mr. Vholes’s office.
 Sometimes I would meet him in the neighbourhood lounging about and
-biting his nails. I often met him wandering in Lincoln’s Inn, near
+biting his nails. I often met him wandering in [[Lincoln]]’s Inn, near
 the place where I had first seen him, oh how different, how
 different!
 
 That the money Ada brought him was melting away with the candles I
 used to see burning after dark in Mr. Vholes’s office I knew very
-well. It was not a large amount in the beginning, he had married in
-debt, and I could not fail to understand, by this time, what was
-meant by Mr. Vholes’s shoulder being at the wheel—as I still heard
+[[Well|well]]. It was not a large amount in the beginning, he had married in
+debt, and I could not fail to understand, by this [[Time|time]], what was
+meant by Mr. Vholes’s shoulder being at the [[Wheel|wheel]]—as I still heard
 it was. My dear made the best of housekeepers and tried hard to save,
 but I knew that they were getting poorer and poorer every day.
 
 She shone in the miserable corner like a beautiful star. She adorned
 and graced it so that it became another place. Paler than she had
-been at home, and a little quieter than I had thought natural when
+been at [[Home|home]], and a little quieter than I had thought natural when
 she was yet so cheerful and hopeful, her face was so unshadowed that
-I half believed she was blinded by her love for Richard to his
+I half believed she was blinded by her [[Love|love]] for [[Richard]] to his
 ruinous career.
 
 I went one day to dine with them while I was under this impression.
@@ -119,25 +119,25 @@ As I turned into Symond’s Inn, I met little Miss Flite coming out.
 She had been to make a stately call upon the wards in Jarndyce, as
 she still called them, and had derived the highest gratification from
 that ceremony. Ada had already told me that she called every Monday
-at five o’clock, with one little extra white bow in her bonnet, which
-never appeared there at any other time, and with her largest reticule
+at five o’[[Clock|clock]], with one little extra white bow in her bonnet, which
+never appeared there at any other [[Time|time]], and with her largest reticule
 of documents on her arm.
 
 “My dear!” she began. “So delighted! How do you do! So glad to see
 you. And you are going to visit our interesting Jarndyce wards? TO be
-sure! Our beauty is at home, my dear, and will be charmed to see
+sure! Our [[Beauty|beauty]] is at [[Home|home]], my dear, and will be charmed to see
 you.”
 
-“Then Richard is not come in yet?” said I. “I am glad of that, for I
+“Then [[Richard]] is not come in yet?” said I. “I am glad of that, for I
 was afraid of being a little late.”
 
 “No, he is not come in,” returned Miss Flite. “He has had a long day
-in court. I left him there with Vholes. You don’t like Vholes, I
-hope? DON’T like Vholes. Dan-gerous man!”
+in [[Court|court]]. I left him there with Vholes. You don’t like Vholes, I
+[[Hope|hope]]? DON’T like Vholes. Dan-gerous man!”
 
-“I am afraid you see Richard oftener than ever now,” said I.
+“I am afraid you see [[Richard]] oftener than ever now,” said I.
 
 “My dearest,” returned Miss Flite, “daily and hourly. You know what I
 told you of the attraction on the Chancellor’s table? My dear, next
-to myself he is the most constant suitor in court. He begins quite to
+to myself he is the most constant suitor in [[Court|court]]. He begins quite to
 amuse our little party. Ve-ry friendly little party, are we not?”

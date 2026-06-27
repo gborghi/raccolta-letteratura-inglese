@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 3 (part 1)"
+title: "[[Persuasion]] — Chapter 3 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -26,9 +26,9 @@ morning at Kellynch Hall, as he laid down the newspaper, “that the
 
 present juncture is much in our favour. This peace will be turning all
 
-our rich naval officers ashore. They will be all wanting a home. Could
+our rich naval officers ashore. They will be all wanting a [[Home|home]]. Could
 
-not be a better time, Sir Walter, for having a choice of tenants, very
+not be a better [[Time|time]], Sir Walter, for having a choice of tenants, very
 
 responsible tenants. Many a noble fortune has been made during the war.
 
@@ -52,7 +52,7 @@ Mr Shepherd laughed, as he knew he must, at this wit, and then added—
 
 “I presume to observe, Sir Walter, that, in the way of business,
 
-gentlemen of the navy are well to deal with. I have had a little
+gentlemen of the navy are [[Well|well]] to deal with. I have had a little
 
 knowledge of their methods of doing business; and I am free to confess
 
@@ -72,13 +72,13 @@ notice and curiosity of the other; consequence has its tax; I, John
 
 Shepherd, might conceal any family-matters that I chose, for nobody
 
-would think it worth their while to observe me; but Sir Walter Elliot
+would think it worth their while to observe me; but [[Sir Walter Elliot]]
 
 has eyes upon him which it may be very difficult to elude; and
 
 therefore, thus much I venture upon, that it will not greatly surprise
 
-me if, with all our caution, some rumour of the truth should get
+me if, with all our caution, some rumour of the [[Truth|truth]] should get
 
 abroad; in the supposition of which, as I was going to observe, since
 
@@ -86,7 +86,7 @@ applications will unquestionably follow, I should think any from our
 
 wealthy naval commanders particularly worth attending to; and beg leave
 
-to add, that two hours will bring me over at any time, to save you the
+to add, that two hours will bring me over at any [[Time|time]], to save you the
 
 trouble of replying.”
 
@@ -100,11 +100,11 @@ room, he observed sarcastically—
 
 “There are few among the gentlemen of the navy, I imagine, who would
 
-not be surprised to find themselves in a house of this description.”
+not be surprised to find themselves in a [[house]] of this description.”
 
 
 
-“They would look around them, no doubt, and bless their good fortune,”
+“They would look around them, no [[Doubt|doubt]], and bless their good fortune,”
 
 said Mrs Clay, for Mrs Clay was present: her father had driven her
 
@@ -118,7 +118,7 @@ and besides their liberality, they are so neat and careful in all their
 
 ways! These valuable pictures of yours, Sir Walter, if you chose to
 
-leave them, would be perfectly safe. Everything in and about the house
+leave them, would be perfectly safe. Everything in and about the [[house]]
 
 would be taken such excellent care of! The gardens and shrubberies
 
@@ -130,7 +130,7 @@ afraid, Miss Elliot, of your own sweet flower gardens being neglected.”
 
 “As to all that,” rejoined Sir Walter coolly, “supposing I were induced
 
-to let my house, I have by no means made up my mind as to the
+to let my [[house]], I have by no means made up my mind as to the
 
 privileges to be annexed to it. I am not particularly disposed to
 
@@ -144,7 +144,7 @@ pleasure-grounds, is another thing. I am not fond of the idea of my
 
 shrubberies being always approachable; and I should recommend Miss
 
-Elliot to be on her guard with respect to her flower garden. I am very
+Elliot to be on her guard with respect to her flower [[Garden|garden]]. I am very
 
 little disposed to grant a tenant of Kellynch Hall any extraordinary
 
@@ -178,7 +178,7 @@ Here Anne spoke—
 
 equal claim with any other set of men, for all the comforts and all the
 
-privileges which any home can give. Sailors work hard enough for their
+privileges which any [[Home|home]] can give. Sailors work hard enough for their
 
 comforts, we must all allow.”
 
@@ -220,7 +220,7 @@ father, his father might have disdained to speak to, and of becoming
 
 prematurely an object of disgust himself, than in any other line. One
 
-day last spring, in town, I was in company with two men, striking
+day last [[spring]], in town, I was in company with two men, striking
 
 instances of what I am talking of; Lord St Ives, whose father we all
 

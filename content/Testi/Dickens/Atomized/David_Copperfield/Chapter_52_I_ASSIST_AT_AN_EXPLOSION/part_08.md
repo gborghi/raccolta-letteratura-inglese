@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 8)"
+title: "[[David Copperfield]] — Chapter 52: I ASSIST AT AN EXPLOSION (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -26,33 +26,33 @@ myself, is now withdrawn,’ said Mr. Micawber; ‘and my children and the
 Author of their Being can once more come in contact on equal terms.’
 
 As we were all very grateful to him, and all desirous to show that we
-were, as well as the hurry and disorder of our spirits would permit, I
+were, as [[Well|well]] as the hurry and disorder of our spirits would permit, I
 dare say we should all have gone, but that it was necessary for Agnes to
-return to her father, as yet unable to bear more than the dawn of
-hope; and for someone else to hold Uriah in safe keeping. So, Traddles
+return to her father, as yet unable to bear more than the [[Dawn|dawn]] of
+[[Hope|hope]]; and for someone else to hold Uriah in safe keeping. So, Traddles
 remained for the latter purpose, to be presently relieved by Mr. Dick;
-and Mr. Dick, my aunt, and I, went home with Mr. Micawber. As I parted
+and Mr. Dick, my aunt, and I, went [[Home|home]] with Mr. Micawber. As I parted
 hurriedly from the dear girl to whom I owed so much, and thought from
 what she had been saved, perhaps, that morning--her better resolution
 notwithstanding--I felt devoutly thankful for the miseries of my younger
 days which had brought me to the knowledge of Mr. Micawber.
 
-His house was not far off; and as the street door opened into the
+His [[house]] was not far off; and as the street door opened into the
 sitting-room, and he bolted in with a precipitation quite his own,
 we found ourselves at once in the bosom of the family. Mr. Micawber
-exclaiming, ‘Emma! my life!’ rushed into Mrs. Micawber’s arms. Mrs.
+exclaiming, ‘[[Emma]]! my life!’ rushed into Mrs. Micawber’s arms. Mrs.
 Micawber shrieked, and folded Mr. Micawber in her embrace. Miss
 Micawber, nursing the unconscious stranger of Mrs. Micawber’s last
 letter to me, was sensibly affected. The stranger leaped. The twins
-testified their joy by several inconvenient but innocent demonstrations.
+testified their joy by several inconvenient but [[Innocent|innocent]] demonstrations.
 Master Micawber, whose disposition appeared to have been soured by
 early disappointment, and whose aspect had become morose, yielded to his
 better feelings, and blubbered.
 
-‘Emma!’ said Mr. Micawber. ‘The cloud is past from my mind. Mutual
+‘[[Emma]]!’ said Mr. Micawber. ‘The cloud is past from my mind. Mutual
 confidence, so long preserved between us once, is restored, to know
-no further interruption. Now, welcome poverty!’ cried Mr. Micawber,
-shedding tears. ‘Welcome misery, welcome houselessness, welcome hunger,
+no further interruption. Now, welcome [[Poverty|poverty]]!’ cried Mr. Micawber,
+shedding [[Tears|tears]]. ‘Welcome misery, welcome houselessness, welcome hunger,
 rags, tempest, and beggary! Mutual confidence will sustain us to the
 end!’
 
@@ -60,10 +60,10 @@ With these expressions, Mr. Micawber placed Mrs. Micawber in a chair,
 and embraced the family all round; welcoming a variety of bleak
 prospects, which appeared, to the best of my judgement, to be anything
 but welcome to them; and calling upon them to come out into Canterbury
-and sing a chorus, as nothing else was left for their support.
+and sing a [[Chorus|chorus]], as nothing else was left for their support.
 
 But Mrs. Micawber having, in the strength of her emotions, fainted away,
-the first thing to be done, even before the chorus could be considered
+the first thing to be done, even before the [[Chorus|chorus]] could be considered
 complete, was to recover her. This my aunt and Mr. Micawber did; and
 then my aunt was introduced, and Mrs. Micawber recognized me.
 
@@ -83,17 +83,17 @@ all these yours?’
 ‘And that eldest young gentleman, now,’ said my aunt, musing, ‘what has
 he been brought up to?’
 
-‘It was my hope when I came here,’ said Mr. Micawber, ‘to have got
+‘It was my [[Hope|hope]] when I came here,’ said Mr. Micawber, ‘to have got
 Wilkins into the Church: or perhaps I shall express my meaning more
 strictly, if I say the Choir. But there was no vacancy for a tenor in
-the venerable Pile for which this city is so justly eminent; and he
+the venerable Pile for which this [[City|city]] is so justly eminent; and he
 has--in short, he has contracted a habit of singing in public-houses,
 rather than in sacred edifices.’
 
-‘But he means well,’ said Mrs. Micawber, tenderly.
+‘But he means [[Well|well]],’ said Mrs. Micawber, tenderly.
 
-‘I dare say, my love,’ rejoined Mr. Micawber, ‘that he means
-particularly well; but I have not yet found that he carries out his
+‘I dare say, my [[Love|love]],’ rejoined Mr. Micawber, ‘that he means
+particularly [[Well|well]]; but I have not yet found that he carries out his
 meaning, in any given direction whatsoever.’
 
 Master Micawber’s moroseness of aspect returned upon him again, and he
@@ -107,11 +107,11 @@ something?
 
 My aunt mused a little while, and then said:
 
-‘Mr. Micawber, I wonder you have never turned your thoughts to
+‘Mr. Micawber, I [[Wonder|wonder]] you have never turned your thoughts to
 emigration.’
 
 ‘Madam,’ returned Mr. Micawber, ‘it was the dream of my youth, and the
-fallacious aspiration of my riper years.’ I am thoroughly persuaded, by
+fallacious [[Aspiration|aspiration]] of my riper years.’ I am thoroughly persuaded, by
 the by, that he had never thought of it in his life.
 
 ‘Aye?’ said my aunt, with a glance at me. ‘Why, what a thing it would
@@ -125,20 +125,20 @@ Copperfield,’ assented his wife.
 
 ‘Capital?’ cried my aunt. ‘But you are doing us a great service--have
 done us a great service, I may say, for surely much will come out of
-the fire--and what could we do for you, that would be half so good as to
+the [[Fire|fire]]--and what could we do for you, that would be half so good as to
 find the capital?’
 
-‘I could not receive it as a gift,’ said Mr. Micawber, full of fire and
+‘I could not receive it as a gift,’ said Mr. Micawber, full of [[Fire|fire]] and
 animation, ‘but if a sufficient sum could be advanced, say at five per
 cent interest, per annum, upon my personal liability--say my notes of
 hand, at twelve, eighteen, and twenty-four months, respectively, to
-allow time for something to turn up--’
+allow [[Time|time]] for something to turn up--’
 
 ‘Could be? Can be and shall be, on your own terms,’ returned my aunt,
 ‘if you say the word. Think of this now, both of you. Here are some
 people David knows, going out to Australia shortly. If you decide to go,
-why shouldn’t you go in the same ship? You may help each other. Think of
-this now, Mr. and Mrs. Micawber. Take your time, and weigh it well.’
+why shouldn’t you go in the same [[Ship|ship]]? You may help each other. Think of
+this now, Mr. and Mrs. Micawber. Take your [[Time|time]], and weigh it [[Well|well]].’
 
 ‘There is but one question, my dear ma’am, I could wish to ask,’ said
 Mrs. Micawber. ‘The climate, I believe, is healthy?’
@@ -154,16 +154,16 @@ develop themselves--that would be amply sufficient--and find their own
 expansion?’
 
 ‘No better opening anywhere,’ said my aunt, ‘for a man who conducts
-himself well, and is industrious.’
+himself [[Well|well]], and is industrious.’
 
-‘For a man who conducts himself well,’ repeated Mrs. Micawber, with her
+‘For a man who conducts himself [[Well|well]],’ repeated Mrs. Micawber, with her
 clearest business manner, ‘and is industrious. Precisely. It is
 evident to me that Australia is the legitimate sphere of action for Mr.
 Micawber!’
 
 ‘I entertain the conviction, my dear madam,’ said Mr. Micawber, ‘that
 it is, under existing circumstances, the land, the only land, for myself
-and family; and that something of an extraordinary nature will turn up
+and family; and that something of an extraordinary [[Nature|nature]] will turn up
 on that shore. It is no distance--comparatively speaking; and though
 consideration is due to the kindness of your proposal, I assure you that
 is a mere matter of form.’

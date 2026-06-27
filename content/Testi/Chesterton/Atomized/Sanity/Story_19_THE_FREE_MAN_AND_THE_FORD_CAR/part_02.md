@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE FREE MAN AND THE FORD CAR (part 2)"
+title: "[[Sanity]] — THE FREE MAN AND THE FORD CAR (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -45,15 +45,15 @@ The real answer to the mechanical problem for the present is of a
 different sort; and I will proceed to suggest it, having once made
 clear the only methods of judgment by which it can be judged.
 And having begun at the right end, which is the ultimate
-spiritual standard by which a man or a machine is to be valued,
+spiritual standard by which a man or a [[Machine|machine]] is to be valued,
 I will now begin at the other end; I might say at the wrong end;
 but it will be more respectful to our practical friends to call it
 the business end.
 
-If I am asked what I should immediately do with a machine,
-I have no doubt about the sort of practical programme that could
+If I am asked what I should immediately do with a [[Machine|machine]],
+I have no [[Doubt|doubt]] about the sort of practical programme that could
 be a preliminary to a possible spiritual revolution of a much
-wider sort.  In so far as the machine cannot be shared, I would
+wider sort.  In so far as the [[Machine|machine]] cannot be shared, I would
 have the ownership of it shared; that is, the direction of it
 shared and the profits of it shared.  But when I say "shared"
 I mean it in the modern mercantile sense of the word "shares."
@@ -61,7 +61,7 @@ That is, I mean something divided and not merely something pooled.
 Our business friends bustle forward to tell us that all this
 is impossible; completely unconscious, apparently, that all this part
 of the business exists already.  You cannot distribute a steam-engine,
-in the sense of giving one wheel to each shareholder to take home
+in the sense of giving one [[Wheel|wheel]] to each shareholder to take [[Home|home]]
 with him, clasped in his arms.  But you not only can, but you
 already do distribute the ownership and profit of the steam-engine;
 and you distribute it in the form of private property.
@@ -70,19 +70,19 @@ or to the people who really require it or could really do work for it.
 Now there are many schemes having this normal and general character;
 almost any one of which I should prefer to the concentration
 presented by capitalism or promised by communism.  My own preference,
-on the whole, would be that any such necessary machine should be owned
+on the whole, would be that any such necessary [[Machine|machine]] should be owned
 by a small local guild, on principles of profit-sharing, or rather
 profit-dividing: but of real profit-sharing and real profit-dividing,
 not to be confounded with capitalist patronage.
 
-Touching the last point, it may be well to say in passing that
+Touching the last point, it may be [[Well|well]] to say in passing that
 what I say about the problem of profit-sharing is in that respect
 parallel to what I say also about the problem of emigration.
 The real difficulty of starting it in the right way is that it has so
 often been started in the wrong way; and especially in the wrong spirit.
 There is a certain amount of prejudice against profit-sharing,
 just as there is a certain amount of prejudice against emigration,
-in the industrial democracy of to-day. It is due in both cases
+in the industrial [[Democracy|democracy]] of to-day. It is due in both cases
 to the type and especially the tone of the proposals.  I entirely
 sympathize with the Trade Unionist who dislikes a certain sort of
 condescending capitalist concession; and the spirit which gives every
@@ -91,7 +91,7 @@ Similarly, I quite sympathize with Mr. Kirkwood when he resented being
 lectured about emigration by Sir Alfred Mond, to the extent of saying,
 "The Scots will leave Scotland when the German Jews leave England."
 But I think it would be possible to have a more genuinely
-egalitarian emigration, with a positive policy of self-government
+egalitarian emigration, with a positive policy of [[Self|self]]-[[government]]
 for the poor, to which Mr. Kirkwood might be kind; and I think
 that profit-sharing that began at the popular end, establishing first
 the property of a guild and not merely the caprice of an employer,
@@ -102,13 +102,13 @@ ideal about the position of machinery in an ideal social state.
 I understand what is meant by saying that the ideal in both
 cases depends upon the wrong ideals.  But I do not understand
 what our critics mean by saying that it is impossible to divide
-the shares and profits in a machine among definite individuals.
+the shares and profits in a [[Machine|machine]] among definite individuals.
 Any healthy man in any historical period would have thought it
 a project far more practicable than a Milk Trust.
 
 = = = = = = = = = = = = = = = =
 
-II THE ROMANCE OF MACHINERY
+II THE [[Romance|ROMANCE]] OF MACHINERY
 
 I have repeatedly asked the reader to remember that my general
 view of our potential future divides itself into two parts.

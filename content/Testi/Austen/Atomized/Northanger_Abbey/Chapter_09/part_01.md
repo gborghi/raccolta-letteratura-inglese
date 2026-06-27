@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 8 (part 1)"
+title: "[[Northanger Abbey]] — Chapter 8 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -22,9 +22,9 @@ CHAPTER 8
 
 In spite of Udolpho and the dressmaker, however, the party from
 
-Pulteney Street reached the Upper Rooms in very good time. The Thorpes
+Pulteney Street reached the Upper Rooms in very good [[Time|time]]. The Thorpes
 
-and James Morland were there only two minutes before them; and Isabella
+and James Morland were there only two minutes before them; and [[Isabella]]
 
 having gone through the usual ceremonial of meeting her friend with the
 
@@ -44,7 +44,7 @@ The dancing began within a few minutes after they were seated; and
 
 James, who had been engaged quite as long as his sister, was very
 
-importunate with Isabella to stand up; but John was gone into the
+importunate with [[Isabella]] to stand up; but John was gone into the
 
 card-room to speak to a friend, and nothing, she declared, should
 
@@ -58,7 +58,7 @@ the whole evening.” Catherine accepted this kindness with gratitude,
 
 and they continued as they were for three minutes longer, when
 
-Isabella, who had been talking to James on the other side of her,
+[[Isabella]], who had been talking to James on the other side of her,
 
 turned again to his sister and whispered, “My dear creature, I am
 
@@ -68,15 +68,15 @@ begin; I know you will not mind my going away, and I dare say John will
 
 be back in a moment, and then you may easily find me out.” Catherine,
 
-though a little disappointed, had too much good nature to make any
+though a little disappointed, had too much good [[Nature|nature]] to make any
 
-opposition, and the others rising up, Isabella had only time to press
+opposition, and the others rising up, [[Isabella]] had only [[Time|time]] to press
 
-her friend’s hand and say, “Good-bye, my dear love,” before they
+her friend’s hand and say, “Good-bye, my dear [[Love|love]],” before they
 
 hurried off. The younger Miss Thorpes being also dancing, Catherine was
 
-left to the mercy of Mrs. Thorpe and Mrs. Allen, between whom she now
+left to the [[Mercy|mercy]] of Mrs. Thorpe and Mrs. Allen, between whom she now
 
 remained. She could not help being vexed at the non-appearance of Mr.
 
@@ -90,7 +90,7 @@ the discredit of wanting a partner. To be disgraced in the eye of the
 
 world, to wear the appearance of infamy while her heart is all purity,
 
-her actions all innocence, and the misconduct of another the true
+her actions all [[innocence]], and the misconduct of another the true
 
 source of her debasement, is one of those circumstances which
 
@@ -166,7 +166,7 @@ seeing her.
 
 
 
-“Well, sir, and I dare say you are not sorry to be back again, for it
+“[[Well]], sir, and I dare say you are not sorry to be back again, for it
 
 is just the place for young people—and indeed for everybody else too. I
 
@@ -174,21 +174,21 @@ tell Mr. Allen, when he talks of being sick of it, that I am sure he
 
 should not complain, for it is so very agreeable a place, that it is
 
-much better to be here than at home at this dull time of year. I tell
+much better to be here than at [[Home|home]] at this dull [[Time|time]] of year. I tell
 
 him he is quite in luck to be sent here for his health.”
 
 
 
-“And I hope, madam, that Mr. Allen will be obliged to like the place,
+“And I [[Hope|hope]], madam, that Mr. Allen will be obliged to like the place,
 
 from finding it of service to him.”
 
 
 
-“Thank you, sir. I have no doubt that he will. A neighbour of ours, Dr.
+“Thank you, sir. I have no [[Doubt|doubt]] that he will. A neighbour of ours, Dr.
 
-Skinner, was here for his health last winter, and came away quite
+Skinner, was here for his health last [[Winter|winter]], and came away quite
 
 stout.”
 
@@ -212,7 +212,7 @@ with seats, as they had agreed to join their party. This was
 
 accordingly done, Mr. Tilney still continuing standing before them; and
 
-after a few minutes’ consideration, he asked Catherine to dance with
+after a few minutes’ consideration, he asked Catherine to [[Dance|dance]] with
 
 him. This compliment, delightful as it was, produced severe
 

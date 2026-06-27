@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE BLUFF OF THE BIG SHOPS"
+title: "[[Sanity]] — THE BLUFF OF THE BIG SHOPS"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Sanity-(Chesterton)"

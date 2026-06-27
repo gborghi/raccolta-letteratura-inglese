@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 1)"
+title: "The [[Pickwick]] Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -23,7 +23,7 @@ funeral, ‘I’ve found it, Sammy. I thought it wos there.’
 ‘Thought wot wos there?’ inquired Sam.
 
 ‘Your mother-in-law’s vill, Sammy,’ replied Mr. Weller. ‘In wirtue o’
-vich, them arrangements is to be made as I told you on, last night,
+vich, them arrangements is to be made as I told you on, last [[Night|night]],
 respectin’ the funs.’
 
 ‘Wot, didn’t she tell you were it wos?’ inquired Sam.
@@ -35,7 +35,7 @@ done it, indeed, if I had remembered it,’ added Mr. Weller, ‘for it’s a
 rum sort o’ thing, Sammy, to go a-hankerin’ arter anybody’s property,
 ven you’re assistin’ ‘em in illness. It’s like helping an outside
 passenger up, ven he’s been pitched off a coach, and puttin’ your hand
-in his pocket, vile you ask him, vith a sigh, how he finds his-self,
+in his pocket, vile you ask him, vith a sigh, how he finds his-[[Self|self]],
 Sammy.’
 
 With this figurative illustration of his meaning, Mr. Weller unclasped
@@ -46,8 +46,8 @@ confusion.
 ‘This here is the dockyment, Sammy,’ said Mr. Weller. ‘I found it in the
 little black tea-pot, on the top shelf o’ the bar closet. She used to
 keep bank-notes there, ‘fore she vos married, Samivel. I’ve seen her
-take the lid off, to pay a bill, many and many a time. Poor creetur, she
-might ha’ filled all the tea-pots in the house vith vills, and not have
+take the lid off, to pay a bill, many and many a [[Time|time]]. Poor creetur, she
+might ha’ filled all the tea-pots in the [[house]] vith vills, and not have
 inconwenienced herself neither, for she took wery little of anythin’ in
 that vay lately, ‘cept on the temperance nights, ven they just laid a
 foundation o’ tea to put the spirits atop on!’
@@ -63,10 +63,10 @@ Tony Veller, who I appint as my sole eggzekiter.’
 
 ‘That’s all,’ replied Mr. Weller. ‘And I s’pose as it’s all right and
 satisfactory to you and me as is the only parties interested, ve may as
-vell put this bit o’ paper into the fire.’
+vell put this bit o’ paper into the [[Fire|fire]].’
 
 ‘Wot are you a-doin’ on, you lunatic?’ said Sam, snatching the paper
-away, as his parent, in all innocence, stirred the fire preparatory to
+away, as his parent, in all [[innocence]], stirred the [[Fire|fire]] preparatory to
 suiting the action to the word. ‘You’re a nice eggzekiter, you are.’
 
 ‘Vy not?’ inquired Mr. Weller, looking sternly round, with the poker in
@@ -84,7 +84,7 @@ meanwhile, that he did mean it, and very seriously too.
 meditation, ‘this is a case for that ‘ere confidential pal o’ the
 Chancellorship’s. Pell must look into this, Sammy. He’s the man for a
 difficult question at law. Ve’ll have this here brought afore the
-Solvent Court, directly, Samivel.’
+Solvent [[Court]], directly, Samivel.’
 
 ‘I never did see such a addle-headed old creetur!’ exclaimed Sam
 irritably; ‘Old Baileys, and Solvent Courts, and alleybis, and ev’ry
@@ -99,7 +99,7 @@ but Pell--nobody but Pell as a legal adwiser.’
 ‘I don’t want anybody else,’ replied Sam. ‘Now, are you a-comin’?’
 
 ‘Vait a minit, Sammy,’ replied Mr. Weller, who, having tied his shawl
-with the aid of a small glass that hung in the window, was now, by dint
+with the aid of a small glass that hung in the [[Window|window]], was now, by dint
 of the most wonderful exertions, struggling into his upper garments.
 ‘Vait a minit’ Sammy; ven you grow as old as your father, you von’t get
 into your veskit quite as easy as you do now, my boy.’
@@ -113,17 +113,17 @@ Sammy, alvays grows together.’
 
 As Mr. Weller delivered this infallible maxim--the result of many years’
 personal experience and observation--he contrived, by a dexterous twist
-of his body, to get the bottom button of his coat to perform its office.
+of his [[Body|body]], to get the [[Bottom|bottom]] button of his coat to perform its office.
 Having paused a few seconds to recover breath, he brushed his hat with
 his elbow, and declared himself ready.
 
 ‘As four heads is better than two, Sammy,’ said Mr. Weller, as they
-drove along the London Road in the chaise-cart, ‘and as all this here
-property is a wery great temptation to a legal gen’l’m’n, ve’ll take a
+drove along the [[London]] [[Road]] in the chaise-cart, ‘and as all this here
+property is a wery great [[Temptation|temptation]] to a legal gen’l’m’n, ve’ll take a
 couple o’ friends o’ mine vith us, as’ll be wery soon down upon him if
 he comes anythin’ irreg’lar; two o’ them as saw you to the Fleet that
 day. They’re the wery best judges,’ added Mr. Weller, in a half-whisper-
--’the wery best judges of a horse, you ever know’d.’
+-’the wery best judges of a [[Horse|horse]], you ever know’d.’
 
 ‘And of a lawyer too?’ inquired Sam.
 
@@ -135,14 +135,14 @@ In pursuance of this notable resolution, the services of the mottled-
 faced gentleman and of two other very fat coachmen--selected by Mr.
 Weller, probably, with a view to their width and consequent wisdom--were
 put into requisition; and this assistance having been secured, the party
-proceeded to the public-house in Portugal Street, whence a messenger was
-despatched to the Insolvent Court over the way, requiring Mr. Solomon
+proceeded to the public-[[house]] in Portugal Street, whence a messenger was
+despatched to the Insolvent [[Court]] over the way, requiring Mr. Solomon
 Pell’s immediate attendance.
 
-The messenger fortunately found Mr. Solomon Pell in court, regaling
+The messenger fortunately found Mr. Solomon Pell in [[Court|court]], regaling
 himself, business being rather slack, with a cold collation of an
 Abernethy biscuit and a saveloy. The message was no sooner whispered in
 his ear than he thrust them in his pocket among various professional
 documents, and hurried over the way with such alacrity that he reached
 the parlour before the messenger had even emancipated himself from the
-court.
+[[Court|court]].

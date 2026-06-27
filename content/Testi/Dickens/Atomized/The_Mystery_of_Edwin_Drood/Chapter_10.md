@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 9"
+title: "The Mystery of [[Edwin Drood]] — Chapter 9"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -15,61 +15,61 @@ tags:
 
 
 CHAPTER IX.
-BIRDS IN THE BUSH
+[[Birds|BIRDS]] IN THE BUSH
 
 
 Rosa, having no relation that she knew of in the world, had, from the
-seventh year of her age, known no home but the Nuns’ House, and no
+seventh year of her age, known no [[Home|home]] but the Nuns’ [[house|House]], and no
 mother but Miss Twinkleton. Her remembrance of her own mother was of a
 pretty little creature like herself (not much older than herself it
-seemed to her), who had been brought home in her father’s arms,
+seemed to her), who had been brought [[Home|home]] in her father’s arms,
 drowned. The fatal accident had happened at a party of pleasure. Every
-fold and colour in the pretty summer dress, and even the long wet hair,
-with scattered petals of ruined flowers still clinging to it, as the
-dead young figure, in its sad, sad beauty lay upon the bed, were fixed
-indelibly in Rosa’s recollection. So were the wild despair and the
+fold and colour in the pretty [[Summer|summer]] dress, and even the long wet hair,
+with scattered petals of ruined [[Flowers|flowers]] still clinging to it, as the
+dead young figure, in its sad, sad [[Beauty|beauty]] lay upon the bed, were fixed
+indelibly in Rosa’s recollection. So were the wild [[Despair|despair]] and the
 subsequent bowed-down grief of her poor young father, who died
 broken-hearted on the first anniversary of that hard day.
 
 The betrothal of Rosa grew out of the soothing of his year of mental
 distress by his fast friend and old college companion, Drood: who
 likewise had been left a widower in his youth. But he, too, went the
-silent road into which all earthly pilgrimages merge, some sooner, and
+silent [[Road|road]] into which all earthly pilgrimages merge, some sooner, and
 some later; and thus the young couple had come to be as they were.
 
-The atmosphere of pity surrounding the little orphan girl when she
+The atmosphere of pity surrounding the little [[Orphan|orphan]] girl when she
 first came to Cloisterham, had never cleared away. It had taken
 brighter hues as she grew older, happier, prettier; now it had been
 golden, now roseate, and now azure; but it had always adorned her with
-some soft light of its own. The general desire to console and caress
-her, had caused her to be treated in the beginning as a child much
-younger than her years; the same desire had caused her to be still
-petted when she was a child no longer. Who should be her favourite, who
+some soft light of its own. The general [[Desire|desire]] to console and caress
+her, had caused her to be treated in the beginning as a [[Child|child]] much
+younger than her years; the same [[Desire|desire]] had caused her to be still
+petted when she was a [[Child|child]] no longer. Who should be her favourite, who
 should anticipate this or that small present, or do her this or that
-small service; who should take her home for the holidays; who should
+small service; who should take her [[Home|home]] for the holidays; who should
 write to her the oftenest when they were separated, and whom she would
 most rejoice to see again when they were reunited; even these gentle
 rivalries were not without their slight dashes of bitterness in the
-Nuns’ House. Well for the poor Nuns in their day, if they hid no harder
+Nuns’ [[house|House]]. [[Well]] for the poor Nuns in their day, if they hid no harder
 strife under their veils and rosaries!
 
 Thus Rosa had grown to be an amiable, giddy, wilful, winning little
 creature; spoilt, in the sense of counting upon kindness from all
 around her; but not in the sense of repaying it with indifference.
-Possessing an exhaustless well of affection in her nature, its
-sparkling waters had freshened and brightened the Nuns’ House for
+Possessing an exhaustless [[Well|well]] of affection in her [[Nature|nature]], its
+sparkling waters had freshened and brightened the Nuns’ [[house|House]] for
 years, and yet its depths had never yet been moved: what might betide
 when that came to pass; what developing changes might fall upon the
 heedless head, and light heart, then; remained to be seen.
 
 By what means the news that there had been a quarrel between the two
 young men overnight, involving even some kind of onslaught by Mr.
-Neville upon Edwin Drood, got into Miss Twinkleton’s establishment
+Neville upon [[Edwin Drood]], got into Miss Twinkleton’s establishment
 before breakfast, it is impossible to say. Whether it was brought in by
-the birds of the air, or came blowing in with the very air itself, when
+the [[Birds|birds]] of the air, or came blowing in with the very air itself, when
 the casement windows were set open; whether the baker brought it
 kneaded into the bread, or the milkman delivered it as part of the
-adulteration of his milk; or the housemaids, beating the dust out of
+adulteration of his milk; or the housemaids, beating the [[Dust|dust]] out of
 their mats against the gateposts, received it in exchange deposited on
 the mats by the town atmosphere; certain it is that the news permeated
 every gable of the old building before Miss Twinkleton was down, and
@@ -78,12 +78,12 @@ in the act of dressing; or (as she might have expressed the phrase to a
 parent or guardian of a mythological turn) of sacrificing to the
 Graces.
 
-Miss Landless’s brother had thrown a bottle at Mr. Edwin Drood.
+Miss Landless’s brother had thrown a bottle at Mr. [[Edwin Drood]].
 
-Miss Landless’s brother had thrown a knife at Mr. Edwin Drood.
+Miss Landless’s brother had thrown a knife at Mr. [[Edwin Drood]].
 
 A knife became suggestive of a fork; and Miss Landless’s brother had
-thrown a fork at Mr. Edwin Drood.
+thrown a fork at Mr. [[Edwin Drood]].
 
 As in the governing precedence of Peter Piper, alleged to have picked
 the peck of pickled pepper, it was held physically desirable to have
@@ -91,14 +91,14 @@ evidence of the existence of the peck of pickled pepper which Peter
 Piper was alleged to have picked; so, in this case, it was held
 psychologically important to know why Miss Landless’s brother threw a
 bottle, knife, or fork—or bottle, knife, _and_ fork—for the cook had
-been given to understand it was all three—at Mr. Edwin Drood?
+been given to understand it was all three—at Mr. [[Edwin Drood]]?
 
-Well, then. Miss Landless’s brother had said he admired Miss Bud. Mr.
-Edwin Drood had said to Miss Landless’s brother that he had no business
+[[Well]], then. Miss Landless’s brother had said he admired Miss Bud. Mr.
+[[Edwin Drood]] had said to Miss Landless’s brother that he had no business
 to admire Miss Bud. Miss Landless’s brother had then “up’d” (this was
 the cook’s exact information) with the bottle, knife, fork, and
 decanter (the decanter now coolly flying at everybody’s head, without
-the least introduction), and thrown them all at Mr. Edwin Drood.
+the least introduction), and thrown them all at Mr. [[Edwin Drood]].
 
 Poor little Rosa put a forefinger into each of her ears when these
 rumours began to circulate, and retired into a corner, beseeching not
@@ -114,36 +114,36 @@ dwelling with a flushed cheek on the provocation her brother had
 received, but almost limiting it to that last gross affront as crowning
 “some other words between them,” and, out of consideration for her new
 friend, passing lightly over the fact that the other words had
-originated in her lover’s taking things in general so very easily. To
+originated in her [[Lover|lover]]’s taking things in general so very easily. To
 Rosa direct, she brought a petition from her brother that she would
 forgive him; and, having delivered it with sisterly earnestness, made
 an end of the subject.
 
 It was reserved for Miss Twinkleton to tone down the public mind of the
-Nuns’ House. That lady, therefore, entering in a stately manner what
+Nuns’ [[house|House]]. That lady, therefore, entering in a stately manner what
 plebeians might have called the school-room, but what, in the patrician
-language of the head of the Nuns’ House, was euphuistically, not to say
+language of the head of the Nuns’ [[house|House]], was euphuistically, not to say
 round-aboutedly, denominated “the apartment allotted to study,” and
-saying with a forensic air, “Ladies!” all rose. Mrs. Tisher at the same
-time grouped herself behind her chief, as representing Queen
+saying with a forensic air, “Ladies!” all [[Rose|rose]]. Mrs. Tisher at the same
+[[Time|time]] grouped herself behind her chief, as representing [[Queen]]
 Elizabeth’s first historical female friend at Tilbury fort. Miss
 Twinkleton then proceeded to remark that Rumour, Ladies, had been
 represented by the bard of Avon—needless were it to mention the
-immortal SHAKESPEARE, also called the Swan of his native river, not
+immortal SHAKESPEARE, also called the Swan of his native [[River|river]], not
 improbably with some reference to the ancient superstition that that
 bird of graceful plumage (Miss Jennings will please stand upright) sang
-sweetly on the approach of death, for which we have no ornithological
+sweetly on the approach of [[Death|death]], for which we have no ornithological
 authority,—Rumour, Ladies, had been represented by that bard—hem!—
 
         “who drew
 The celebrated Jew,”
 
 
-as painted full of tongues. Rumour in Cloisterham (Miss Ferdinand will
-honour me with her attention) was no exception to the great limner’s
+as painted full of tongues. Rumour in Cloisterham (Miss [[Ferdinand]] will
+[[Honour|honour]] me with her attention) was no exception to the great limner’s
 portrait of Rumour elsewhere. A slight _fracas_ between two young
-gentlemen occurring last night within a hundred miles of these peaceful
-walls (Miss Ferdinand, being apparently incorrigible, will have the
+gentlemen occurring last [[Night|night]] within a hundred miles of these peaceful
+walls (Miss [[Ferdinand]], being apparently incorrigible, will have the
 kindness to write out this evening, in the original language, the first
 four fables of our vivacious neighbour, Monsieur La Fontaine) had been
 very grossly exaggerated by Rumour’s voice. In the first alarm and
@@ -158,24 +158,24 @@ at by the Poet (whose name and date of birth Miss Giggles will supply
 within half an hour), we would now discard the subject, and concentrate
 our minds upon the grateful labours of the day.
 
-But the subject so survived all day, nevertheless, that Miss Ferdinand
+But the subject so survived all day, nevertheless, that Miss [[Ferdinand]]
 got into new trouble by surreptitiously clapping on a paper moustache
-at dinner-time, and going through the motions of aiming a water-bottle
+at dinner-[[Time|time]], and going through the motions of aiming a [[Water|water]]-bottle
 at Miss Giggles, who drew a table-spoon in defence.
 
 Now, Rosa thought of this unlucky quarrel a great deal, and thought of
 it with an uncomfortable feeling that she was involved in it, as cause,
 or consequence, or what not, through being in a false position
-altogether as to her marriage engagement. Never free from such
+altogether as to her [[Marriage|marriage]] engagement. Never free from such
 uneasiness when she was with her affianced husband, it was not likely
 that she would be free from it when they were apart. To-day, too, she
 was cast in upon herself, and deprived of the relief of talking freely
-with her new friend, because the quarrel had been with Helena’s
-brother, and Helena undisguisedly avoided the subject as a delicate and
-difficult one to herself. At this critical time, of all times, Rosa’s
+with her new friend, because the quarrel had been with [[Helena]]’s
+brother, and [[Helena]] undisguisedly avoided the subject as a delicate and
+difficult one to herself. At this critical [[Time|time]], of all times, Rosa’s
 guardian was announced as having come to see her.
 
-Mr. Grewgious had been well selected for his trust, as a man of
+Mr. Grewgious had been [[Well|well]] selected for his trust, as a man of
 incorruptible integrity, but certainly for no other appropriate quality
 discernible on the surface. He was an arid, sandy man, who, if he had
 been put into a grinding-mill, looked as if he would have ground
@@ -185,7 +185,7 @@ was so unlike hair, that it must have been a wig, but for the
 stupendous improbability of anybody’s voluntarily sporting such a head.
 The little play of feature that his face presented, was cut deep into
 it, in a few hard curves that made it more like work; and he had
-certain notches in his forehead, which looked as though Nature had been
+certain notches in his forehead, which looked as though [[Nature]] had been
 about to touch them into sensibility or refinement, when she had
 impatiently thrown away the chisel, and said: “I really cannot be
 worried to finish off this man; let him go as he is.”
@@ -200,21 +200,21 @@ the whole an agreeable impression.
 
 Mr. Grewgious was discovered by his ward, much discomfited by being in
 Miss Twinkleton’s company in Miss Twinkleton’s own sacred room. Dim
-forebodings of being examined in something, and not coming well out of
+forebodings of being examined in something, and not coming [[Well|well]] out of
 it, seemed to oppress the poor gentleman when found in these
 circumstances.
 
 “My dear, how do you do? I am glad to see you. My dear, how much
 improved you are. Permit me to hand you a chair, my dear.”
 
-Miss Twinkleton rose at her little writing-table, saying, with general
+Miss Twinkleton [[Rose|rose]] at her little writing-table, saying, with general
 sweetness, as to the polite Universe: “Will you permit me to retire?”
 
 “By no means, madam, on my account. I beg that you will not move.”
 
 “I must entreat permission to _move_,” returned Miss Twinkleton,
 repeating the word with a charming grace; “but I will not withdraw,
-since you are so obliging. If I wheel my desk to this corner window,
+since you are so obliging. If I [[Wheel|wheel]] my desk to this corner [[Window|window]],
 shall I be in the way?”
 
 “Madam! In the way!”
@@ -222,7 +222,7 @@ shall I be in the way?”
 “You are very kind.—Rosa, my dear, you will be under no restraint, I am
 sure.”
 
-Here Mr. Grewgious, left by the fire with Rosa, said again: “My dear,
+Here Mr. Grewgious, left by the [[Fire|fire]] with Rosa, said again: “My dear,
 how do you do? I am glad to see you, my dear.” And having waited for
 her to sit down, sat down himself.
 
@@ -233,7 +233,7 @@ that I compare myself to an angel.”
 
 “Not by any means,” assented Mr. Grewgious. “I merely refer to my
 visits, which are few and far between. The angels are, we know very
-well, up-stairs.”
+[[Well|well]], up-stairs.”
 
 Miss Twinkleton looked round with a kind of stiff stare.
 
@@ -246,45 +246,45 @@ Miss Twinkleton resumed her writing.
 
 Mr. Grewgious, with a sense of not having managed his opening point
 quite as neatly as he might have desired, smoothed his head from back
-to front as if he had just dived, and were pressing the water out—this
+to front as if he had just dived, and were pressing the [[Water|water]] out—this
 smoothing action, however superfluous, was habitual with him—and took a
 pocket-book from his coat-pocket, and a stump of black-lead pencil from
 his waistcoat-pocket.
 
-“I made,” he said, turning the leaves: “I made a guiding memorandum or
+“I made,” he said, turning the [[Leaves|leaves]]: “I made a guiding memorandum or
 so—as I usually do, for I have no conversational powers whatever—to
-which I will, with your permission, my dear, refer. ‘Well and happy.’
-Truly. You are well and happy, my dear? You look so.”
+which I will, with your permission, my dear, refer. ‘[[Well]] and happy.’
+Truly. You are [[Well|well]] and happy, my dear? You look so.”
 
 “Yes, indeed, sir,” answered Rosa.
 
 “For which,” said Mr. Grewgious, with a bend of his head towards the
-corner window, “our warmest acknowledgments are due, and I am sure are
+corner [[Window|window]], “our warmest acknowledgments are due, and I am sure are
 rendered, to the maternal kindness and the constant care and
-consideration of the lady whom I have now the honour to see before me.”
+consideration of the lady whom I have now the [[Honour|honour]] to see before me.”
 
 This point, again, made but a lame departure from Mr. Grewgious, and
 never got to its destination; for, Miss Twinkleton, feeling that the
-courtesies required her to be by this time quite outside the
+courtesies required her to be by this [[Time|time]] quite outside the
 conversation, was biting the end of her pen, and looking upward, as
 waiting for the descent of an idea from any member of the Celestial
 Nine who might have one to spare.
 
 Mr. Grewgious smoothed his smooth head again, and then made another
-reference to his pocket-book; lining out “well and happy,” as disposed
+reference to his pocket-book; lining out “[[Well|well]] and happy,” as disposed
 of.
 
 “‘Pounds, shillings, and pence,’ is my next note. A dry subject for a
 young lady, but an important subject too. Life is pounds, shillings,
-and pence. Death is—” A sudden recollection of the death of her two
+and pence. [[Death]] is—” A sudden recollection of the [[Death|death]] of her two
 parents seemed to stop him, and he said in a softer tone, and evidently
-inserting the negative as an after-thought: “Death is _not_ pounds,
+inserting the negative as an after-thought: “[[Death]] is _not_ pounds,
 shillings, and pence.”
 
 His voice was as hard and dry as himself, and Fancy might have ground
 it straight, like himself, into high-dried snuff. And yet, through the
 very limited means of expression that he possessed, he seemed to
-express kindness. If Nature had but finished him off, kindness might
+express kindness. If [[Nature]] had but finished him off, kindness might
 have been recognisable in his face at this moment. But if the notches
 in his forehead wouldn’t fuse together, and if his face would work and
 couldn’t play, what could he do, poor man!
@@ -297,7 +297,7 @@ Rosa wanted for nothing, and therefore it was ample.
 “And you are not in debt?”
 
 Rosa laughed at the idea of being in debt. It seemed, to her
-inexperience, a comical vagary of the imagination. Mr. Grewgious
+inexperience, a comical vagary of the [[Imagination|imagination]]. Mr. Grewgious
 stretched his near sight to be sure that this was her view of the case.
 “Ah!” he said, as comment, with a furtive glance towards Miss
 Twinkleton, and lining out pounds, shillings, and pence: “I spoke of
@@ -307,7 +307,7 @@ Rosa felt what his next memorandum would prove to be, and was blushing
 and folding a crease in her dress with one embarrassed hand, long
 before he found it.
 
-“‘Marriage.’ Hem!” Mr. Grewgious carried his smoothing hand down over
+“‘[[Marriage]].’ Hem!” Mr. Grewgious carried his smoothing hand down over
 his eyes and nose, and even chin, before drawing his chair a little
 nearer, and speaking a little more confidentially: “I now touch, my
 dear, upon the point that is the direct cause of my troubling you with
@@ -333,12 +333,12 @@ emphasis was much too fine. “Good. And you correspond.”
 epistolary differences.
 
 “Such is the meaning that I attach to the word ‘correspond’ in this
-application, my dear,” said Mr. Grewgious. “Good. All goes well, time
-works on, and at this next Christmas-time it will become necessary, as
-a matter of form, to give the exemplary lady in the corner window, to
+application, my dear,” said Mr. Grewgious. “Good. All goes [[Well|well]], [[Time|time]]
+works on, and at this next Christmas-[[Time|time]] it will become necessary, as
+a matter of form, to give the exemplary lady in the corner [[Window|window]], to
 whom we are so much indebted, business notice of your departure in the
 ensuing half-year. Your relations with her are far more than business
-relations, no doubt; but a residue of business remains in them, and
+relations, no [[Doubt|doubt]]; but a residue of business remains in them, and
 business is business ever. I am a particularly Angular man,” proceeded
 Mr. Grewgious, as if it suddenly occurred to him to mention it, “and I
 am not used to give anything away. If, for these two reasons, some
@@ -359,11 +359,11 @@ Rosa sat still and silent. Perhaps her mind had not got quite so far as
 the ceremony yet, but was lagging on the way there.
 
 “Memorandum, ‘Will.’ Now, my dear,” said Mr. Grewgious, referring to
-his notes, disposing of “Marriage” with his pencil, and taking a paper
+his notes, disposing of “[[Marriage]]” with his pencil, and taking a paper
 from his pocket; “although I have before possessed you with the
-contents of your father’s will, I think it right at this time to leave
+contents of your father’s will, I think it right at this [[Time|time]] to leave
 a certified copy of it in your hands. And although Mr. Edwin is also
-aware of its contents, I think it right at this time likewise to place
+aware of its contents, I think it right at this [[Time|time]] likewise to place
 a certified copy of it in Mr. Jasper’s hand—”
 
 “Not in his own!” asked Rosa, looking up quickly. “Cannot the copy go
@@ -380,7 +380,7 @@ husband should be all in all. Yes. You observe that I say, I suppose.
 The fact is, I am a particularly Unnatural man, and I don’t know from
 my own knowledge.”
 
-Rosa looked at him with some wonder.
+Rosa looked at him with some [[Wonder|wonder]].
 
 “I mean,” he explained, “that young ways were never my ways. I was the
 only offspring of parents far advanced in life, and I half believe I
@@ -394,7 +394,7 @@ know all. It is an annuity of two hundred and fifty pounds. The savings
 upon that annuity, and some other items to your credit, all duly
 carried to account, with vouchers, will place you in possession of a
 lump-sum of money, rather exceeding Seventeen Hundred Pounds. I am
-empowered to advance the cost of your preparations for your marriage
+empowered to advance the cost of your preparations for your [[Marriage|marriage]]
 out of that fund. All is told.”
 
 “Will you please tell me,” said Rosa, taking the paper with a prettily
@@ -420,7 +420,7 @@ one another?”
 “It was not bound upon Eddy, and it was not bound upon me, by any
 forfeit, in case—”
 
-“Don’t be agitated, my dear. In the case that it brings tears into your
+“Don’t be agitated, my dear. In the case that it brings [[Tears|tears]] into your
 affectionate eyes even to picture to yourself—in the case of your not
 marrying one another—no, no forfeiture on either side. You would then
 have been my ward until you were of age. No worse would have befallen
@@ -438,12 +438,12 @@ abstractedly on the floor, and smoothing it with her foot.
 
 “In short,” said Mr. Grewgious, “this betrothal is a wish, a sentiment,
 a friendly project, tenderly expressed on both sides. That it was
-strongly felt, and that there was a lively hope that it would prosper,
-there can be no doubt. When you were both children, you began to be
+strongly felt, and that there was a lively [[Hope|hope]] that it would prosper,
+there can be no [[Doubt|doubt]]. When you were both children, you began to be
 accustomed to it, and it _has_ prospered. But circumstances alter
 cases; and I made this visit to-day, partly, indeed principally, to
 discharge myself of the duty of telling you, my dear, that two young
-people can only be betrothed in marriage (except as a matter of
+people can only be betrothed in [[Marriage|marriage]] (except as a matter of
 convenience, and therefore mockery and misery) of their own free will,
 their own attachment, and their own assurance (it may or it may not
 prove a mistaken one, but we must take our chance of that), that they
@@ -480,7 +480,7 @@ mind in all things. Is the young gentleman expected shortly?”
 arrange all matters of detail with him; you will then communicate with
 me; and I will discharge myself (as a mere business acquaintance) of my
 business responsibilities towards the accomplished lady in the corner
-window. They will accrue at that season.” Blurring pencil once again.
+[[Window|window]]. They will accrue at that season.” Blurring pencil once again.
 “Memorandum, ‘Leave.’ Yes. I will now, my dear, take my leave.”
 
 “Could I,” said Rosa, rising, as he jerked out of his chair in his
@@ -491,7 +491,7 @@ if I had anything particular to say to you?”
 be used of one who had no apparent lights or shadows about
 him—complimented by the question. “As a particularly Angular man, I do
 not fit smoothly into the social circle, and consequently I have no
-other engagement at Christmas-time than to partake, on the
+other engagement at Christmas-[[Time|time]] than to partake, on the
 twenty-fifth, of a boiled turkey and celery sauce with a—with a
 particularly Angular clerk I have the good fortune to possess, whose
 father, being a Norfolk farmer, sends him up (the turkey up), as a
@@ -503,7 +503,7 @@ be bracing.”
 For his ready acquiescence, the grateful Rosa put her hands upon his
 shoulders, stood on tiptoe, and instantly kissed him.
 
-“Lord bless me!” cried Mr. Grewgious. “Thank you, my dear! The honour
+“Lord bless me!” cried Mr. Grewgious. “Thank you, my dear! The [[Honour|honour]]
 is almost equal to the pleasure. Miss Twinkleton, madam, I have had a
 most satisfactory conversation with my ward, and I will now release you
 from the incumbrance of my presence.”
@@ -524,7 +524,7 @@ might I solicit—”
 “Ah, Mr. Grewgious, Mr. Grewgious!” cried Miss Twinkleton, with a
 chastely-rallying forefinger. “O you gentlemen, you gentlemen! Fie for
 shame, that you are so hard upon us poor maligned disciplinarians of
-our sex, for your sakes! But as Miss Ferdinand is at present weighed
+our sex, for your sakes! But as Miss [[Ferdinand]] is at present weighed
 down by an incubus”—Miss Twinkleton might have said a pen-and-ink-ubus
 of writing out Monsieur La Fontaine—“go to her, Rosa my dear, and tell
 her the penalty is remitted, in deference to the intercession of your
@@ -537,35 +537,35 @@ yards behind her starting-point.
 As he held it incumbent upon him to call on Mr. Jasper before leaving
 Cloisterham, Mr. Grewgious went to the gatehouse, and climbed its
 postern stair. But Mr. Jasper’s door being closed, and presenting on a
-slip of paper the word “Cathedral,” the fact of its being service-time
+slip of paper the word “[[Cathedral]],” the fact of its being service-[[Time|time]]
 was borne into the mind of Mr. Grewgious. So he descended the stair
 again, and, crossing the Close, paused at the great western
-folding-door of the Cathedral, which stood open on the fine and bright,
+folding-door of the [[Cathedral]], which stood open on the fine and bright,
 though short-lived, afternoon, for the airing of the place.
 
 “Dear me,” said Mr. Grewgious, peeping in, “it’s like looking down the
-throat of Old Time.”
+throat of Old [[Time]].”
 
-Old Time heaved a mouldy sigh from tomb and arch and vault; and gloomy
+Old [[Time]] heaved a mouldy sigh from tomb and arch and vault; and gloomy
 shadows began to deepen in corners; and damps began to rise from green
 patches of stone; and jewels, cast upon the pavement of the nave from
 stained glass by the declining sun, began to perish. Within the
 grill-gate of the chancel, up the steps surmounted loomingly by the
 fast-darkening organ, white robes could be dimly seen, and one feeble
 voice, rising and falling in a cracked, monotonous mutter, could at
-intervals be faintly heard. In the free outer air, the river, the green
+intervals be faintly heard. In the free outer air, the [[River|river]], the green
 pastures, and the brown arable lands, the teeming hills and dales, were
 reddened by the sunset: while the distant little windows in windmills
 and farm homesteads, shone, patches of bright beaten gold. In the
-Cathedral, all became gray, murky, and sepulchral, and the cracked
+[[Cathedral]], all became gray, murky, and sepulchral, and the cracked
 monotonous mutter went on like a dying voice, until the organ and the
 choir burst forth, and drowned it in a sea of music. Then, the sea
 fell, and the dying voice made another feeble effort, and then the sea
-rose high, and beat its life out, and lashed the roof, and surged among
+[[Rose|rose]] high, and beat its life out, and lashed the roof, and surged among
 the arches, and pierced the heights of the great tower; and then the
 sea was dry, and all was still.
 
-Mr. Grewgious had by that time walked to the chancel-steps, where he
+Mr. Grewgious had by that [[Time|time]] walked to the chancel-steps, where he
 met the living waters coming out.
 
 “Nothing is the matter?” Thus Jasper accosted him, rather quickly. “You
@@ -582,7 +582,7 @@ what a betrothal by deceased parents is.”
 “And what is it—according to your judgment?”
 
 Mr. Grewgious noticed the whiteness of the lips that asked the
-question, and put it down to the chilling account of the Cathedral.
+question, and put it down to the chilling account of the [[Cathedral]].
 
 “I merely came to tell her that it could not be considered binding,
 against any such reason for its dissolution as a want of affection, or
@@ -594,7 +594,7 @@ party.”
 Mr. Grewgious answered somewhat sharply: “The especial reason of doing
 my duty, sir. Simply that.” Then he added: “Come, Mr. Jasper; I know
 your affection for your nephew, and that you are quick to feel on his
-behalf. I assure you that this implies not the least doubt of, or
+behalf. I assure you that this implies not the least [[Doubt|doubt]] of, or
 disrespect to, your nephew.”
 
 “You could not,” returned Jasper, with a friendly pressure of his arm,
@@ -612,13 +612,13 @@ should allow some margin for little maidenly delicacies in a young
 motherless creature, under such circumstances, I suppose; it is not in
 my line; what do you think?”
 
-“There can be no doubt of it.”
+“There can be no [[Doubt|doubt]] of it.”
 
 “I am glad you say so. Because,” proceeded Mr. Grewgious, who had all
-this time very knowingly felt his way round to action on his
+this [[Time|time]] very knowingly felt his way round to action on his
 remembrance of what she had said of Jasper himself: “because she seems
 to have some little delicate instinct that all preliminary arrangements
-had best be made between Mr. Edwin Drood and herself, don’t you see?
+had best be made between Mr. [[Edwin Drood]] and herself, don’t you see?
 She don’t want us, don’t you know?”
 
 Jasper touched himself on the breast, and said, somewhat indistinctly:
@@ -626,7 +626,7 @@ Jasper touched himself on the breast, and said, somewhat indistinctly:
 
 Mr. Grewgious touched himself on the breast, and said: “I mean us.
 Therefore, let them have their little discussions and councils
-together, when Mr. Edwin Drood comes back here at Christmas; and then
+together, when Mr. [[Edwin Drood]] comes back here at Christmas; and then
 you and I will step in, and put the final touches to the business.”
 
 “So, you settled with her that you would come back at Christmas?”
@@ -636,7 +636,7 @@ that I am more sensitive for the dear, fortunate, happy, happy fellow
 than for myself. But it is only right that the young lady should be
 considered, as you have pointed out, and that I should accept my cue
 from you. I accept it. I understand that at Christmas they will
-complete their preparations for May, and that their marriage will be
+complete their preparations for May, and that their [[Marriage|marriage]] will be
 put in final train by themselves, and that nothing will remain for us
 but to put ourselves in train also, and have everything ready for our
 formal release from our trusts, on Edwin’s birthday.”

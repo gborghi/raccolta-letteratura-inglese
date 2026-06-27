@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE TYRANNY OF TRUSTS (part 4)"
+title: "[[Sanity]] — THE TYRANNY OF TRUSTS (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -47,7 +47,7 @@ hardly avoid some curves and loops.  I do not profess to dispose
 of all the obstacles that might arise in this question, because so
 many of them would seem to many to be quite a different question.
 I will give one example of what I mean.  What would the critical reader
-have thought, if at the very beginning of this sketch I had gone off
+have thought, if at the very beginning of this [[Sketch|sketch]] I had gone off
 into a long disputation about the Law of Libel?  Yet, if I were strictly
 practical, I should find that one of the most practical obstacles.
 It is the present ridiculous position that monopoly is not resisted
@@ -64,7 +64,7 @@ If it were constituted on the principles I suggest, those details
 would be dealt with on those principles as they arose.
 For instance, it would put an end to the nonsense whereby men,
 who are more powerful than emperors, pretend to be private tradesmen
-suffering from private malice; it will assert that those who are
+[[Suffering|suffering]] from private malice; it will assert that those who are
 in practice public men must be criticized as potential public evils.
 It would destroy the absurdity by which an "important case"
 is tried by a "special jury"; or, in other words, that any
@@ -82,7 +82,7 @@ in the sense that it is deliberately drawn as a large limitation
 within which there are many varieties.  I have long been acquainted,
 and not a little amused, with the sort of practical man who will
 certainly say that I generalize because there is no practical plan.
-The truth is that I generalize because there are so many practical plans.
+The [[Truth|truth]] is that I generalize because there are so many practical plans.
 I myself know four or five schemes that have been drawn up,
 more or less drastically, for the diffusion of capital.
 The most cautious, from a capitalist standpoint, is the gradual
@@ -108,14 +108,14 @@ mean that I have not my own favourite form; personally I prefer
 the second type of division given in the above list of examples.
 But my main business is to point out that any reversal of the rush
 to concentrate property will be an improvement on the present state
-of things.  If I tell a man his house is burning down in Putney,
+of things.  If I tell a man his [[house]] is burning down in Putney,
 he may thank me even if I do not give him a list of all the vehicles
 which go to Putney, with the numbers of all the taxicabs and
-the time-table of all the trams.  It is enough that I know there
+the [[Time|time]]-table of all the trams.  It is enough that I know there
 are a great many vehicles for him to choose from, before he is
 reduced to the proverbial adventure of going to Putney on a pig.
 It is enough that any one of those vehicles is on the whole less
-uncomfortable than a house on fire or even a heap of ashes.
+uncomfortable than a [[house]] on [[Fire|fire]] or even a heap of ashes.
 I admit I might be called unpractical if impenetrable forests
 and destructive floods lay between here and Putney; it might then
 be as merely idealistic to praise Putney as to praise Paradise.
@@ -123,10 +123,10 @@ But I do not admit that I am unpractical because I know there
 are half a dozen practical ways which are more practical than
 the present state of things.  But it does not follow, in fact,
 that I do not know how to get to Putney.  Here, for instance,
-are half a dozen things which would help the process of Distributism,
+are half a dozen things which would help the process of [[Distributism]],
 apart from those on which I shall have occasion to touch as points
 of principle.  Not all Distributists would agree with all of them;
-but all would agree that they are in the direction of Distributism.
+but all would agree that they are in the direction of [[Distributism]].
 (1) The taxation of contracts so as to discourage the sale of small
 property to big proprietors and encourage the break-up of big property
 among small proprietors.  (2) Something like the Napoleonic testamentary
@@ -137,7 +137,7 @@ in small property, if necessary by tariffs and even local tariffs.
 (5) Subsidies to foster the starting of such experiments.  (6) A league
 of voluntary dedication, and any number of other things of the same kind.
 But I have inserted this chapter here in order to explain that this
-is a sketch of the first principles of Distributism and not of
+is a [[Sketch|sketch]] of the first principles of [[Distributism]] and not of
 the last details, about which even Distributists might dispute.
 In such a statement, examples are given as examples, and not as
 exact and exhaustive lists of all the cases covered by the rule.
@@ -151,8 +151,8 @@ to its present promising and hopeful condition.  Harder heads
 than mine have established the present prosperity of coal.
 Men of action, of a more rugged energy, have brought us
 to the comfortable condition of living on our capital.
-I have had no part in the great industrial revolution which has
-increased the beauties of nature and reconciled the classes of society;
+I have had no part in the great [[Industrial Revolution|industrial revolution]] which has
+increased the beauties of [[Nature|nature]] and reconciled the classes of society;
 nor must the too enthusiastic reader think of thanking me for this
 more enlightened England, in which the employee is living on a dole
 from the State and the employer on an overdraft at the Bank.

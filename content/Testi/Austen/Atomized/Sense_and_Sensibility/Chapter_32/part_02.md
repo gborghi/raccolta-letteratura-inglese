@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 32 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 32 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -32,7 +32,7 @@ everybody she saw, how good-for-nothing he was.”
 
 The rest of Mrs. Palmer’s sympathy was shown in procuring all the
 
-particulars in her power of the approaching marriage, and communicating
+particulars in her power of the approaching [[Marriage|marriage]], and communicating
 
 them to Elinor. She could soon tell at what coachmaker’s the new
 
@@ -64,7 +64,7 @@ moment, to more than its real value; and she was sometimes worried down
 
 by officious condolence to rate good-breeding as more indispensable to
 
-comfort than good-nature.
+comfort than good-[[Nature|nature]].
 
 
 
@@ -94,7 +94,7 @@ as she married.
 
 
 
-Colonel Brandon’s delicate, unobtrusive enquiries were never unwelcome
+[[Colonel Brandon]]’s delicate, unobtrusive enquiries were never unwelcome
 
 to Miss Dashwood. He had abundantly earned the privilege of intimate
 
@@ -118,7 +118,7 @@ _these_ gave Elinor hopes of its being farther augmented hereafter; but
 
 Mrs. Jennings, who knew nothing of all this, who knew only that the
 
-Colonel continued as grave as ever, and that she could neither prevail
+Colonel continued as [[Grave|grave]] as ever, and that she could neither prevail
 
 on him to make the offer himself, nor commission her to make it for
 
@@ -132,7 +132,7 @@ between the Colonel and Miss Dashwood seemed rather to declare that the
 
 honours of the mulberry-tree, the canal, and the yew arbour, would all
 
-be made over to _her;_ and Mrs. Jennings had, for some time ceased to
+be made over to _her;_ and Mrs. Jennings had, for some [[Time|time]] ceased to
 
 think at all of Mrs. Ferrars.
 
@@ -154,7 +154,7 @@ the public papers, which she saw her eagerly examining every morning.
 
 She received the news with resolute composure; made no observation on
 
-it, and at first shed no tears; but after a short time they would burst
+it, and at first shed no [[Tears|tears]]; but after a short [[Time|time]] they would burst
 
 out, and for the rest of the day, she was in a state hardly less
 
@@ -166,15 +166,15 @@ The Willoughbys left town as soon as they were married; and Elinor now
 
 hoped, as there could be no danger of her seeing either of them, to
 
-prevail on her sister, who had never yet left the house since the blow
+prevail on her sister, who had never yet left the [[house]] since the blow
 
 first fell, to go out again by degrees as she had done before.
 
 
 
-About this time the two Miss Steeles, lately arrived at their cousin’s
+About this [[Time|time]] the two Miss Steeles, lately arrived at their cousin’s
 
-house in Bartlett’s Buildings, Holburn, presented themselves again
+[[house]] in Bartlett’s Buildings, Holburn, presented themselves again
 
 before their more grand relations in Conduit and Berkeley Streets; and
 
@@ -182,7 +182,7 @@ were welcomed by them all with great cordiality.
 
 
 
-Elinor only was sorry to see them. Their presence always gave her pain,
+Elinor only was sorry to see them. Their presence always gave her [[Pain|pain]],
 
 and she hardly knew how to make a very gracious return to the
 
@@ -196,9 +196,9 @@ _still_,” said she repeatedly, with a strong emphasis on the word. “But
 
 I always thought I _should_. I was almost sure you would not leave
 
-London yet awhile; though you _told_ me, you know, at Barton, that you
+[[London]] yet awhile; though you _told_ me, you know, at Barton, that you
 
-should not stay above a _month_. But I thought, at the time, that you
+should not stay above a _month_. But I thought, at the [[Time|time]], that you
 
 would most likely change your mind when it came to the point. It would
 
@@ -212,11 +212,11 @@ am amazingly glad you did not keep to _your word_.”
 
 Elinor perfectly understood her, and was forced to use all her
 
-self-command to make it appear that she did _not_.
+[[Self|self]]-command to make it appear that she did _not_.
 
 
 
-“Well, my dear,” said Mrs. Jennings, “and how did you travel?”
+“[[Well]], my dear,” said Mrs. Jennings, “and how did you travel?”
 
 
 

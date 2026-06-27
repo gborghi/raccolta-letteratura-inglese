@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 30: The interval before the Marriage"
+title: "Dombey and Son — Chapter 30: The interval before the [[Marriage]]"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Dombey-and-Son-(Dickens)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
- CHAPTER XXX. The interval before the Marriage
+ CHAPTER XXX. The interval before the [[Marriage]]

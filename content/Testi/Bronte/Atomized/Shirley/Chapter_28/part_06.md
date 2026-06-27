@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 28 (part 6)"
+title: "[[Shirley]] — Chapter 28 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -26,7 +26,7 @@ sweet."
 
 
 
-"How can it be otherwise than sweet with your endowments and nature? Do
+"How can it be otherwise than sweet with your endowments and [[Nature|nature]]? Do
 
 you truly expect that you will be seized with hydrophobia, and die
 
@@ -34,13 +34,13 @@ raving mad?"
 
 
 
-"I _expect_ it, and have _feared_ it. Just now I fear nothing."
+"I _expect_ it, and have _feared_ it. Just now I [[Fear|fear]] nothing."
 
 
 
-"Nor do I, on your account. I doubt whether the smallest particle of
+"Nor do I, on your account. I [[Doubt|doubt]] whether the smallest particle of
 
-virus mingled with your blood; and if it did, let me assure you that,
+virus mingled with your [[Blood|blood]]; and if it did, let me assure you that,
 
 young, healthy, faultlessly sound as you are, no harm will ensue. For
 
@@ -58,7 +58,7 @@ not mad."
 
 penknife? Make yourself easy. _I_ am easy, though I value your life as
 
-much as I do my own chance of happiness in eternity. Look up."
+much as I do my own chance of happiness in [[Eternity|eternity]]. Look up."
 
 
 
@@ -78,7 +78,7 @@ much as I do my own chance of happiness in eternity. Look up."
 
 
 
-"I fear nothing."
+"I [[Fear|fear]] nothing."
 
 
 
@@ -100,9 +100,9 @@ smother me. You need not smile. They will; they always do. My uncle will
 
 be full of horror, weakness, precipitation; and that is the only
 
-expedient which will suggest itself to him. Nobody in the house will be
+expedient which will suggest itself to him. Nobody in the [[house]] will be
 
-self-possessed but you. Now promise to befriend me--to keep Mr. Sympson
+[[Self|self]]-possessed but you. Now promise to befriend me--to keep Mr. Sympson
 
 away from me, not to let Henry come near, lest I should hurt him.
 
@@ -124,7 +124,7 @@ _Promise to do this._"
 
 Moore left his desk, and permitted himself the recreation of one or two
 
-turns through the room. Stopping behind Shirley's chair, he bent over
+turns through the room. Stopping behind [[Shirley]]'s chair, he bent over
 
 her, and said, in a low, emphatic voice, "I promise all you ask--without
 
@@ -142,7 +142,7 @@ not defraud me of a pin. Confidence has made her honest; forbearance has
 
 made her kind-hearted. At this day I can trust both her integrity, her
 
-courage, and her affection. Call her; but keep my good aunt and my timid
+[[Courage|courage]], and her affection. Call her; but keep my good aunt and my timid
 
 cousins away. Once more, promise."
 
@@ -190,13 +190,13 @@ meddle."
 
 
 
-"In fact, I am neither so strong, nor have I such pride in my strength,
+"In fact, I am neither so strong, nor have I such [[Pride|pride]] in my strength,
 
 as people think, Mr. Moore; nor am I so regardless of sympathy. But when
 
-I have any grief, I fear to impart it to those I love, lest it should
+I have any grief, I [[Fear|fear]] to impart it to those I [[Love|love]], lest it should
 
-pain them; and to those whom I view with indifference I cannot
+[[Pain|pain]] them; and to those whom I view with indifference I cannot
 
 condescend to complain. After all, you should not taunt me with being
 
@@ -214,7 +214,7 @@ weeks, you too would want some friend."
 
 
 
-"Well, you have Caroline Helstone."
+"[[Well]], you have [[Caroline Helstone]]."
 
 
 
@@ -248,7 +248,7 @@ than she is to her own sons. You have, besides, your sister Hortense."
 
 
 
-"It appears we are both well provided."
+"It appears we are both [[Well|well]] provided."
 
 
 
@@ -286,7 +286,7 @@ Still leaning on the back of Miss Keeldar's chair, Moore watched the
 
 rapid motion of her fingers, as the green and purple garland grew
 
-beneath them. After a prolonged pause, he again asked, "Is the shadow
+beneath them. After a prolonged pause, he again asked, "Is the [[Shadow|shadow]]
 
 _quite_ gone?"
 
@@ -296,11 +296,11 @@ _quite_ gone?"
 
 different states of existence. I believe, Mr. Moore, griefs and fears
 
-nursed in silence grow like Titan infants."
+nursed in [[Silence|silence]] grow like Titan infants."
 
 
 
-"You will cherish such feelings no more in silence?"
+"You will cherish such feelings no more in [[Silence|silence]]?"
 
 
 
@@ -340,7 +340,7 @@ nursed in silence grow like Titan infants."
 
 
 
-"Perhaps, because I am poor, for one reason. Poverty and pride often go
+"Perhaps, because I am poor, for one reason. [[Poverty]] and [[Pride|pride]] often go
 
 together."
 
@@ -352,7 +352,7 @@ that would pair with it. Mate that turtle, Mr. Moore."
 
 
 
-"Immediately. What do you think of marrying to sober Poverty many-tinted
+"Immediately. What do you think of marrying to sober [[Poverty]] many-tinted
 
 Caprice?"
 

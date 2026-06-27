@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 3 (part 1)"
+title: "[[The Professor]] — Chapter 3 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -22,7 +22,7 @@ I SERVED Edward as his second clerk faithfully, punctually, diligently.
 
 What was given me to do I had the power and the determination to do
 
-well. Mr. Crimsworth watched sharply for defects, but found none; he set
+[[Well|well]]. Mr. Crimsworth watched sharply for defects, but found none; he set
 
 Timothy Steighton, his favourite and head man, to watch also. Tim was
 
@@ -34,15 +34,15 @@ with my landlady were always straight. I had hired small lodgings, which
 
 I contrived to pay for out of a slender fund--the accumulated savings of
 
-my Eton pocket-money; for as it had ever been abhorrent to my nature to
+my Eton pocket-money; for as it had ever been abhorrent to my [[Nature|nature]] to
 
-ask pecuniary assistance, I had early acquired habits of self-denying
+ask pecuniary assistance, I had early acquired habits of [[Self|self]]-denying
 
 economy; husbanding my monthly allowance with anxious care, in order to
 
 obviate the danger of being forced, in some moment of future exigency,
 
-to beg additional aid. I remember many called me miser at the time,
+to beg additional aid. I remember many called me miser at the [[Time|time]],
 
 and I used to couple the reproach with this consolation--better to be
 
@@ -62,13 +62,13 @@ believed I was a very religious man, and asked Tim, in her turn, if he
 
 thought I had any intention of going into the Church some day; for, she
 
-said, she had had young curates to lodge in her house who were nothing
+said, she had had young curates to lodge in her [[house]] who were nothing
 
 equal to me for steadiness and quietness. Tim was “a religious man”
 
  himself; indeed, he was “a joined Methodist,” which did not (be it
 
-understood) prevent him from being at the same time an engrained rascal,
+understood) prevent him from being at the same [[Time|time]] an engrained rascal,
 
 and he came away much posed at hearing this account of my piety. Having
 
@@ -84,7 +84,7 @@ perceive the drift, till my landlady happened to relate the conversation
 
 she had had with Mr. Steighton; this enlightened me; afterwards I came
 
-to the counting-house prepared, and managed to receive the millowner’s
+to the counting-[[house]] prepared, and managed to receive the millowner’s
 
 blasphemous sarcasms, when next levelled at me, on a buckler of
 
@@ -98,11 +98,11 @@ quiet in his quiver.
 
 Once during my clerkship I had an invitation to Crimsworth Hall; it
 
-was on the occasion of a large party given in honour of the master’s
+was on the occasion of a large party given in [[Honour|honour]] of the master’s
 
 birthday; he had always been accustomed to invite his clerks on similar
 
-anniversaries, and could not well pass me over; I was, however, kept
+anniversaries, and could not [[Well|well]] pass me over; I was, however, kept
 
 strictly in the background. Mrs. Crimsworth, elegantly dressed in satin
 
@@ -132,9 +132,9 @@ down like some desolate tutor or governess; he was satisfied.
 
 
 
-Dancing began; I should have liked well enough to be introduced to some
+Dancing began; I should have liked [[Well|well]] enough to be introduced to some
 
-pleasing and intelligent girl, and to have freedom and opportunity
+pleasing and intelligent girl, and to have [[Freedom|freedom]] and opportunity
 
 to show that I could both feel and communicate the pleasure of social
 
@@ -148,7 +148,7 @@ figures sustained by other hands than mine. I turned away tantalized,
 
 left the dancers, and wandered into the oak-panelled dining-room. No
 
-fibre of sympathy united me to any living thing in this house; I looked
+fibre of sympathy united me to any living thing in this [[house]]; I looked
 
 for and found my mother’s picture. I took a wax taper from a stand,
 
@@ -156,7 +156,7 @@ and held it up. I gazed long, earnestly; my heart grew to the image.
 
 My mother, I perceived, had bequeathed to me much of her features and
 
-countenance--her forehead, her eyes, her complexion. No regular beauty
+countenance--her forehead, her eyes, her complexion. No regular [[Beauty|beauty]]
 
 pleases egotistical human beings so much as a softened and refined
 

@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-"Cowards! if I advanced a step you would run away: it is not you I fear.
+"Cowards! if I advanced a step you would run away: it is not you I [[Fear|fear]].
 
 _Di me terrent, et Jupiter hostis._" If Newman seemed suddenly to fly
 
@@ -22,7 +22,7 @@ into a temper, Carlyle seemed never to fly out of one. But Arnold kept a
 
 smile of heart-broken forbearance, as of the teacher in an idiot school,
 
-that was enormously insulting. One trick he often tried with success. If
+that was enormously insulting. One trick he often tried with [[success]]. If
 
 his opponent had said something foolish, like "the destiny of England is
 
@@ -30,11 +30,11 @@ in the great heart of England," Arnold would repeat the phrase again and
 
 again until it looked more foolish than it really was. Thus he recurs
 
-again and again to "the British College of Health in the New Road" till
+again and again to "the British College of Health in the New [[Road]]" till
 
 the reader wants to rush out and burn the place down. Arnold's great
 
-error was that he sometimes thus wearied us of his own phrases, as well
+error was that he sometimes thus wearied us of his own phrases, as [[Well|well]]
 
 as of his enemies'.
 
@@ -44,11 +44,11 @@ These names are roughly representative of the long series of protests
 
 against the cold commercial rationalism which held Parliament and the
 
-schools through the earlier Victorian time, in so far as those protests
+schools through the earlier Victorian [[Time|time]], in so far as those protests
 
 were made in the name of neglected intellect, insulted art, forgotten
 
-heroism and desecrated religion. But already the Utilitarian citadel had
+[[Heroism|heroism]] and desecrated religion. But already the Utilitarian citadel had
 
 been more heavily bombarded on the other side by one lonely and
 
@@ -74,7 +74,7 @@ the mob do not err as to the fact itself; their error is in not seeing
 
 that just as a crowd is comparatively ignorant, so a crowd is
 
-comparatively innocent. It will have the old and human faults; but it is
+comparatively [[Innocent|innocent]]. It will have the old and human faults; but it is
 
 not likely to specialise in the special faults of that particular
 
@@ -82,13 +82,13 @@ society: because the effort of the strong and successful in all ages is
 
 to keep the poor out of society. If the higher castes have developed
 
-some special moral beauty or grace, as they occasionally do (for
+some special moral [[Beauty|beauty]] or grace, as they occasionally do (for
 
 instance, mediæval chivalry), it is likely enough, of course, that the
 
 mass of men will miss it. But if they have developed some perversion or
 
-over-emphasis, as they much more often do (for instance, the Renaissance
+over-emphasis, as they much more often do (for instance, the [[Renaissance]]
 
 poisoning), then it will be the tendency of the mass of men to miss that
 
@@ -106,7 +106,7 @@ poor are always nearest to heaven.
 
 Dickens was a mob--and a mob in revolt; he fought by the light of
 
-nature; he had not a theory, but a thirst. If any one chooses to offer
+[[Nature|nature]]; he had not a theory, but a thirst. If any one chooses to offer
 
 the cheap sarcasm that his thirst was largely a thirst for milk-punch, I
 
@@ -116,9 +116,9 @@ sense this is perfectly true. His thirst was for things as humble, as
 
 human, as laughable as that daily bread for which we cry to God. He had
 
-no particular plan of reform; or, when he had, it was startlingly petty
+no particular plan of [[Reform|reform]]; or, when he had, it was startlingly petty
 
-and parochial compared with the deep, confused clamour of comradeship
+and parochial compared with the deep, confused clamour of [[Comradeship|comradeship]]
 
 and insurrection that fills all his narrative. It would not be gravely
 
@@ -134,7 +134,7 @@ the economic laws that were working so faultlessly in Fever Alley; the
 
 wealth that was accumulating so rapidly in Bleeding Heart Yard. But,
 
-above all, he didn't like the _mean_ side of the Manchester philosophy:
+above all, he didn't like the _mean_ side of the Manchester [[philosophy]]:
 
 the preaching of an impossible thrift and an intolerable temperance. He
 
@@ -172,25 +172,25 @@ Bethel to which Kit's mother went: he hated it simply as Kit hated it.
 
 Newman could have told him it was hateful, because it had no root in
 
-religious history; it was not even a sapling sprung of the seed of some
+religious [[history]]; it was not even a sapling sprung of the seed of some
 
 great human and heathen tree: it was a monstrous mushroom that grows in
 
-the moonshine and dies in the dawn. Dickens knew no more of religious
+the moonshine and dies in the [[Dawn|dawn]]. Dickens knew no more of religious
 
-history than Kit; he simply smelt the fungus, and it stank. Thus, again,
+[[history]] than Kit; he simply smelt the fungus, and it stank. Thus, again,
 
 he hated that insolent luxury of a class counting itself a comfortable
 
-exception to all mankind; he hated it as Kate Nickleby hated Sir
+exception to all mankind; he hated it as [[Kate Nickleby]] hated Sir
 
 Mulberry Hawke--by instinct. Carlyle could have told him that all the
 
 world was full of that anger against the impudent fatness of the few.
 
-But when Dickens wrote about Kate Nickleby, he knew about as much of the
+But when Dickens wrote about [[Kate Nickleby]], he knew about as much of the
 
-world--as Kate Nickleby. He did write _The Tale of Two Cities_ long
+world--as [[Kate Nickleby]]. He did write _The Tale of Two Cities_ long
 
 afterwards; but that was when he _had_ been instructed by Carlyle. His
 

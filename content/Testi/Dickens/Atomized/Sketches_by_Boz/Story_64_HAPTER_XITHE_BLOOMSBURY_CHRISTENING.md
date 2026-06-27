@@ -18,7 +18,7 @@ CHAPTER XI—THE BLOOMSBURY CHRISTENING
 
 
 Mr. Nicodemus Dumps, or, as his acquaintance called him, ‘long Dumps,’
-was a bachelor, six feet high, and fifty years old: cross, cadaverous,
+was a bachelor, six feet high, and fifty years old: [[Cross|cross]], cadaverous,
 odd, and ill-natured. He was never happy but when he was miserable; and
 always miserable when he had the best reason to be happy. The only real
 comfort of his existence was to make everybody about him wretched—then
@@ -31,17 +31,17 @@ excite his strongest sympathy. His friends said he was surly—he
 insisted he was nervous; they thought him a lucky dog, but he protested
 that he was ‘the most unfortunate man in the world.’ Cold as he was,
 and wretched as he declared himself to be, he was not wholly
-unsusceptible of attachments. He revered the memory of Hoyle, as he was
+unsusceptible of attachments. He revered the [[Memory|memory]] of Hoyle, as he was
 himself an admirable and imperturbable whist-player, and he chuckled
-with delight at a fretful and impatient adversary. He adored King Herod
+with delight at a fretful and impatient adversary. He adored [[King]] Herod
 for his massacre of the innocents; and if he hated one thing more than
-another, it was a child. However, he could hardly be said to hate
+another, it was a [[Child|child]]. However, he could hardly be said to hate
 anything in particular, because he disliked everything in general; but
 perhaps his greatest antipathies were cabs, old women, doors that would
 not shut, musical amateurs, and omnibus cads. He subscribed to the
 ‘Society for the Suppression of Vice’ for the pleasure of putting a
 stop to any harmless amusements; and he contributed largely towards the
-support of two itinerant methodist parsons, in the amiable hope that if
+support of two itinerant methodist parsons, in the amiable [[Hope|hope]] that if
 circumstances rendered any people happy in this world, they might
 perchance be rendered miserable by fears for the next.
 
@@ -54,13 +54,13 @@ the head and face partially restored; and he had a cast in his eye
 which rendered it quite impossible for any one with whom he conversed
 to know where he was looking. His eyes appeared fixed on the wall, and
 he was staring you out of countenance; in short, there was no catching
-his eye, and perhaps it is a merciful dispensation of Providence that
+his eye, and perhaps it is a merciful dispensation of [[Providence]] that
 such eyes are not catching. In addition to these characteristics, it
 may be added that Mr. Charles Kitterbell was one of the most credulous
 and matter-of-fact little personages that ever took _to_ himself a
-wife, and _for_ himself a house in Great Russell-street,
+wife, and _for_ himself a [[house]] in Great Russell-street,
 Bedford-square. (Uncle Dumps always dropped the ‘Bedford-square,’ and
-inserted in lieu thereof the dreadful words ‘Tottenham-court-road.’)
+inserted in lieu thereof the dreadful words ‘Tottenham-[[Court|court]]-[[Road|road]].’)
 
 ‘No, but, uncle, ’pon my life you must—you must promise to be
 godfather,’ said Mr. Kitterbell, as he sat in conversation with his
@@ -68,7 +68,7 @@ respected relative one morning.
 
 ‘I cannot, indeed I cannot,’ returned Dumps.
 
-‘Well, but why not? Jemima will think it very unkind. It’s very little
+‘[[Well]], but why not? Jemima will think it very unkind. It’s very little
 trouble.’
 
 ‘As to the trouble,’ rejoined the most unhappy man in existence, ‘I
@@ -91,47 +91,47 @@ godfathers.’
 _is_ a boy or not?’
 
 ‘I should be very happy to tell you, but it’s impossible I can
-undertake to say whether it’s a girl or a boy, if the child isn’t born
+undertake to say whether it’s a girl or a boy, if the [[Child|child]] isn’t born
 yet.’
 
-‘Not born yet!’ echoed Dumps, with a gleam of hope lighting up his
-lugubrious visage. ‘Oh, well, it _may_ be a girl, and then you won’t
+‘Not born yet!’ echoed Dumps, with a gleam of [[Hope|hope]] lighting up his
+lugubrious visage. ‘Oh, [[Well|well]], it _may_ be a girl, and then you won’t
 want me; or if it is a boy, it _may_ die before it is christened.’
 
-‘I hope not,’ said the father that expected to be, looking very grave.
+‘I [[Hope|hope]] not,’ said the father that expected to be, looking very [[Grave|grave]].
 
-‘I hope not,’ acquiesced Dumps, evidently pleased with the subject. He
-was beginning to get happy. ‘I hope not, but distressing cases
-frequently occur during the first two or three days of a child’s life;
+‘I [[Hope|hope]] not,’ acquiesced Dumps, evidently pleased with the subject. He
+was beginning to get happy. ‘I [[Hope|hope]] not, but distressing cases
+frequently occur during the first two or three days of a [[Child|child]]’s life;
 fits, I am told, are exceedingly common, and alarming convulsions are
 almost matters of course.’
 
 ‘Lord, uncle!’ ejaculated little Kitterbell, gasping for breath.
 
 ‘Yes; my landlady was confined—let me see—last Tuesday: an uncommonly
-fine boy. On the Thursday night the nurse was sitting with him upon her
-knee before the fire, and he was as well as possible. Suddenly he
+fine boy. On the [[thursday|Thursday]] [[Night|night]] the [[Nurse|nurse]] was sitting with him upon her
+knee before the [[Fire|fire]], and he was as [[Well|well]] as possible. Suddenly he
 became black in the face, and alarmingly spasmodic. The medical man was
 instantly sent for, and every remedy was tried, but—’
 
 ‘How frightful!’ interrupted the horror-stricken Kitterbell.
 
-‘The child died, of course. However, your child _may_ not die; and if
+‘The [[Child|child]] died, of course. However, your [[Child|child]] _may_ not die; and if
 it should be a boy, and should _live_ to be christened, why I suppose I
 must be one of the sponsors.’ Dumps was evidently good-natured on the
-faith of his anticipations.
+[[Faith|faith]] of his anticipations.
 
 ‘Thank you, uncle,’ said his agitated nephew, grasping his hand as
 warmly as if he had done him some essential service. ‘Perhaps I had
 better not tell Mrs. K. what you have mentioned.’
 
 ‘Why, if she’s low-spirited, perhaps you had better not mention the
-melancholy case to her,’ returned Dumps, who of course had invented the
+[[Melancholy|melancholy]] case to her,’ returned Dumps, who of course had invented the
 whole story; ‘though perhaps it would be but doing your duty as a
 husband to prepare her for the _worst_.’
 
 A day or two afterwards, as Dumps was perusing a morning paper at the
-chop-house which he regularly frequented, the following-paragraph met
+chop-[[house]] which he regularly frequented, the following-paragraph met
 his eyes:—
 
 
@@ -142,10 +142,10 @@ lady of Charles Kitterbell, Esq., of a son.’
 ‘It _is_ a boy!’ he exclaimed, dashing down the paper, to the
 astonishment of the waiters. ‘It _is_ a boy!’ But he speedily regained
 his composure as his eye rested on a paragraph quoting the number of
-infant deaths from the bills of mortality.
+infant deaths from the bills of [[Mortality|mortality]].
 
 Six weeks passed away, and as no communication had been received from
-the Kitterbells, Dumps was beginning to flatter himself that the child
+the Kitterbells, Dumps was beginning to flatter himself that the [[Child|child]]
 was dead, when the following note painfully resolved his doubts:—
 
 
@@ -155,25 +155,25 @@ _Monday morning_.
 
 ‘Dear Uncle,—You will be delighted to hear that my dear Jemima has left
 her room, and that your future godson is getting on capitally. He was
-very thin at first, but he is getting much larger, and nurse says he is
+very thin at first, but he is getting much larger, and [[Nurse|nurse]] says he is
 filling out every day. He cries a good deal, and is a very singular
-colour, which made Jemima and me rather uncomfortable; but as nurse
+colour, which made Jemima and me rather uncomfortable; but as [[Nurse|nurse]]
 says it’s natural, and as of course we know nothing about these things
-yet, we are quite satisfied with what nurse says. We think he will be a
-sharp child; and nurse says she’s sure he will, because he never goes
-to sleep. You will readily believe that we are all very happy, only
+yet, we are quite satisfied with what [[Nurse|nurse]] says. We think he will be a
+sharp [[Child|child]]; and [[Nurse|nurse]] says she’s sure he will, because he never goes
+to [[Sleep|sleep]]. You will readily believe that we are all very happy, only
 we’re a little worn out for want of rest, as he keeps us awake all
-night; but this we must expect, nurse says, for the first six or eight
+[[Night|night]]; but this we must expect, [[Nurse|nurse]] says, for the first six or eight
 months. He has been vaccinated, but in consequence of the operation
 being rather awkwardly performed, some small particles of glass were
 introduced into the arm with the matter. Perhaps this may in some
-degree account for his being rather fractious; at least, so nurse says.
-We propose to have him christened at twelve o’clock on Friday, at Saint
+degree account for his being rather fractious; at least, so [[Nurse|nurse]] says.
+We propose to have him christened at twelve o’[[Clock|clock]] on Friday, at Saint
 George’s church, in Hart-street, by the name of Frederick Charles
 William. Pray don’t be later than a quarter before twelve. We shall
 have a very few friends in the evening, when of course we shall see
 you. I am sorry to say that the dear boy appears rather restless and
-uneasy to-day: the cause, I fear, is fever.
+uneasy to-day: the cause, I [[Fear|fear]], is fever.
 
 ‘Believe me, dear Uncle,
 ‘Yours affectionately,
@@ -182,7 +182,7 @@ uneasy to-day: the cause, I fear, is fever.
 
 ‘P.S.—I open this note to say that we have just discovered the cause of
 little Frederick’s restlessness. It is not fever, as I apprehended, but
-a small pin, which nurse accidentally stuck in his leg yesterday
+a small pin, which [[Nurse|nurse]] accidentally stuck in his leg yesterday
 evening. We have taken it out, and he appears more composed, though he
 still sobs a good deal.’
 
@@ -197,25 +197,25 @@ untrained grape-vine-looking flourishes, and a large full stop, to be
 engraved forthwith.
 
 Monday was a fine day, Tuesday was delightful, Wednesday was equal to
-either, and Thursday was finer than ever; four successive fine days in
-London! Hackney-coachmen became revolutionary, and crossing-sweepers
-began to doubt the existence of a First Cause. The _Morning Herald_
+either, and [[thursday|Thursday]] was finer than ever; four successive fine days in
+[[London]]! Hackney-coachmen became revolutionary, and crossing-sweepers
+began to [[Doubt|doubt]] the existence of a First Cause. The _Morning Herald_
 informed its readers that an old woman in Camden Town had been heard to
-say that the fineness of the season was ‘unprecedented in the memory of
+say that the fineness of the season was ‘unprecedented in the [[Memory|memory]] of
 the oldest inhabitant;’ and Islington clerks, with large families and
 small salaries, left off their black gaiters, disdained to carry their
-once green cotton umbrellas, and walked to town in the conscious pride
+once green cotton umbrellas, and walked to town in the conscious [[Pride|pride]]
 of white stockings and cleanly brushed Bluchers. Dumps beheld all this
 with an eye of supreme contempt—his triumph was at hand. He knew that
 if it had been fine for four weeks instead of four days, it would rain
 when he went out; he was lugubriously happy in the conviction that
 Friday would be a wretched day—and so it was. ‘I knew how it would be,’
-said Dumps, as he turned round opposite the Mansion-house at half-past
-eleven o’clock on the Friday morning. ‘I knew how it would be. _I_ am
+said Dumps, as he turned round opposite the Mansion-[[house]] at half-past
+eleven o’[[Clock|clock]] on the Friday morning. ‘I knew how it would be. _I_ am
 concerned, and that’s enough;’—and certainly the appearance of the day
 was sufficient to depress the spirits of a much more buoyant-hearted
 individual than himself. It had rained, without a moment’s cessation,
-since eight o’clock; everybody that passed up Cheapside, and down
+since eight o’[[Clock|clock]]; everybody that passed up Cheapside, and down
 Cheapside, looked wet, cold, and dirty. All sorts of forgotten and
 long-concealed umbrellas had been put into requisition. Cabs whisked
 about, with the ‘fare’ as carefully boxed up behind two glazed calico
@@ -225,7 +225,7 @@ castles; omnibus horses smoked like steam-engines; nobody thought of
 it was a hopeless case; and so everybody went hastily along, jumbling
 and jostling, and swearing and perspiring, and slipping about, like
 amateur skaters behind wooden chairs on the Serpentine on a frosty
-Sunday.
+[[Sunday]].
 
 Dumps paused; he could not think of walking, being rather smart for the
 christening. If he took a cab he was sure to be spilt, and a
@@ -235,7 +235,7 @@ heard of an omnibus upsetting or running away, and if the cad did knock
 him down, he could ‘pull him up’ in return.
 
 ‘Now, sir!’ cried the young gentleman who officiated as ‘cad’ to the
-‘Lads of the Village,’ which was the name of the machine just noticed.
+‘Lads of the Village,’ which was the name of the [[Machine|machine]] just noticed.
 Dumps crossed.
 
 ‘This vay, sir!’ shouted the driver of the ‘Hark-away,’ pulling up his
@@ -248,15 +248,15 @@ and thrusting him into the middle of his vehicle which had just come up
 and only wanted the sixteenth inside.
 
 ‘All right,’ said the ‘Admiral,’ and off the thing thundered, like a
-fire-engine at full gallop, with the kidnapped customer inside,
+[[Fire|fire]]-engine at full gallop, with the kidnapped customer inside,
 standing in the position of a half doubled-up bootjack, and falling
-about with every jerk of the machine, first on the one side, and then
+about with every jerk of the [[Machine|machine]], first on the one side, and then
 on the other, like a ‘Jack-in-the-green,’ on May-day, setting to the
 lady with a brass ladle.
 
 ‘For Heaven’s sake, where am I to sit?’ inquired the miserable man of
 an old gentleman, into whose stomach he had just fallen for the fourth
-time.
+[[Time|time]].
 
 ‘Anywhere but on my _chest_, sir,’ replied the old gentleman in a surly
 tone.
@@ -266,10 +266,10 @@ damp lawyer’s clerk, in a pink shirt, and a smirking countenance.
 
 After a great deal of struggling and falling about, Dumps at last
 managed to squeeze himself into a seat, which, in addition to the
-slight disadvantage of being between a window that would not shut, and
+slight disadvantage of being between a [[Window|window]] that would not shut, and
 a door that must be open, placed him in close contact with a passenger,
 who had been walking about all the morning without an umbrella, and who
-looked as if he had spent the day in a full water-butt—only wetter.
+looked as if he had spent the day in a full [[Water|water]]-butt—only wetter.
 
 ‘Don’t bang the door so,’ said Dumps to the conductor, as he shut it
 after letting out four of the passengers; I am very nervous—it destroys
@@ -290,9 +290,9 @@ proof of the assertion.
 sitting opposite Dumps, ‘I beg your pardon; but have you ever observed,
 when you have been in an omnibus on a wet day, that four people out of
 five always come in with large cotton umbrellas, without a handle at
-the top, or the brass spike at the bottom?’
+the top, or the brass spike at the [[Bottom|bottom]]?’
 
-‘Why, sir,’ returned Dumps, as he heard the clock strike twelve, ‘it
+‘Why, sir,’ returned Dumps, as he heard the [[Clock|clock]] strike twelve, ‘it
 never struck me before; but now you mention it, I—Hollo! hollo!’
 shouted the persecuted individual, as the omnibus dashed past
 Drury-lane, where he had directed to be set down.—‘Where is the cad?’
@@ -315,7 +315,7 @@ gen’lm’n as vas to be set down at Doory-lane.—Now, sir, make haste, if
 you please,’ he added, opening the door, and assisting Dumps out with
 as much coolness as if it was ‘all right.’ Dumps’s indignation was for
 once getting the better of his cynical equanimity. ‘Drury-lane!’ he
-gasped, with the voice of a boy in a cold bath for the first time.
+gasped, with the voice of a boy in a cold bath for the first [[Time|time]].
 
 ‘Doory-lane, sir?—yes, sir,—third turning on the right-hand side, sir.’
 
@@ -329,7 +329,7 @@ close by the driver.
 ‘Hollo!’ said that respectable person, standing up on the box, and
 leaning with one hand on the roof of the omnibus. ‘Hollo, Tom! tell the
 gentleman if so be as he feels aggrieved, we will take him up to the
-Edge-er (Edgeware) Road for nothing, and set him down at Doory-lane
+Edge-er (Edgeware) [[Road]] for nothing, and set him down at Doory-lane
 when we comes back. He can’t reject that, anyhow.’
 
 The argument was irresistible: Dumps paid the disputed sixpence, and in
@@ -341,10 +341,10 @@ Everything indicated that preparations were making for the reception of
 ditto wine-glasses—looking anything but transparent, with little bits
 of straw in them on the slab in the passage, just arrived. There was a
 great smell of nutmeg, port wine, and almonds, on the staircase; the
-covers were taken off the stair-carpet, and the figure of Venus on the
+covers were taken off the stair-carpet, and the figure of [[Venus]] on the
 first landing looked as if she were ashamed of the composition-candle
 in her right hand, which contrasted beautifully with the lamp-blacked
-drapery of the goddess of love. The female servant (who looked very
+drapery of the goddess of [[Love|love]]. The female servant (who looked very
 warm and bustling) ushered Dumps into a front drawing-room, very
 prettily furnished, with a plentiful sprinkling of little baskets,
 paper table-mats, china watchmen, pink and gold albums, and
@@ -360,18 +360,18 @@ it doubtful whether in his life he had ever experienced the sensation.
 cough. ‘I’m sure—hem—any friend—of Charles’s—hem—much less a relation,
 is—’
 
-‘I knew you’d say so, my love,’ said little Kitterbell, who, while he
+‘I knew you’d say so, my [[Love|love]],’ said little Kitterbell, who, while he
 appeared to be gazing on the opposite houses, was looking at his wife
 with a most affectionate air: ‘Bless you!’ The last two words were
 accompanied with a simper, and a squeeze of the hand, which stirred up
 all Uncle Dumps’s bile.
 
-‘Jane, tell nurse to bring down baby,’ said Mrs. Kitterbell, addressing
+‘Jane, tell [[Nurse|nurse]] to bring down baby,’ said Mrs. Kitterbell, addressing
 the servant. Mrs. Kitterbell was a tall, thin young lady, with very
 light hair, and a particularly white face—one of those young women who
 almost invariably, though one hardly knows why, recall to one’s mind
 the idea of a cold fillet of veal. Out went the servant, and in came
-the nurse, with a remarkably small parcel in her arms, packed up in a
+the [[Nurse|nurse]], with a remarkably small parcel in her arms, packed up in a
 blue mantle trimmed with white fur.—This was the baby.
 
 ‘Now, uncle,’ said Mr. Kitterbell, lifting up that part of the mantle
@@ -383,21 +383,21 @@ husband’s, and looking up into Dumps’s face with an expression of as
 much interest as she was capable of displaying.
 
 ‘Good God, how small he is!’ cried the amiable uncle, starting back
-with well-feigned surprise; ‘_remarkably_ small indeed.’
+with [[Well|well]]-feigned surprise; ‘_remarkably_ small indeed.’
 
 ‘Do you think so?’ inquired poor little Kitterbell, rather alarmed.
-‘He’s a monster to what he was—ain’t he, nurse?’
+‘He’s a [[Monster|monster]] to what he was—ain’t he, [[Nurse|nurse]]?’
 
-‘He’s a dear,’ said the nurse, squeezing the child, and evading the
+‘He’s a dear,’ said the [[Nurse|nurse]], squeezing the [[Child|child]], and evading the
 question—not because she scrupled to disguise the fact, but because she
-couldn’t afford to throw away the chance of Dumps’s half-crown.
+couldn’t afford to throw away the chance of Dumps’s half-[[Crown|crown]].
 
-‘Well, but who is he like?’ inquired little Kitterbell.
+‘[[Well]], but who is he like?’ inquired little Kitterbell.
 
 Dumps looked at the little pink heap before him, and only thought at
 the moment of the best mode of mortifying the youthful parents.
 
-‘I really don’t know _who_ he’s like,’ he answered, very well knowing
+‘I really don’t know _who_ he’s like,’ he answered, very [[Well|well]] knowing
 the reply expected of him.
 
 ‘Don’t you think he’s like _me_?’ inquired his nephew with a knowing
@@ -411,20 +411,20 @@ misunderstood. ‘Decidedly not like you.—Oh, certainly not.’
 ‘Oh, dear no; not in the least. I’m no judge, of course, in such cases;
 but I really think he’s more like one of those little carved
 representations that one sometimes sees blowing a trumpet on a
-tombstone!’ The nurse stooped down over the child, and with great
+tombstone!’ The [[Nurse|nurse]] stooped down over the [[Child|child]], and with great
 difficulty prevented an explosion of mirth. Pa and ma looked almost as
 miserable as their amiable uncle.
 
-‘Well!’ said the disappointed little father, ‘you’ll be better able to
+‘[[Well]]!’ said the disappointed little father, ‘you’ll be better able to
 tell what he’s like by-and-by. You shall see him this evening with his
 mantle off.’
 
 ‘Thank you,’ said Dumps, feeling particularly grateful.
 
-‘Now, my love,’ said Kitterbell to his wife, ‘it’s time we were off.
+‘Now, my [[Love|love]],’ said Kitterbell to his wife, ‘it’s [[Time|time]] we were off.
 We’re to meet the other godfather and the godmother at the church,
 uncle,—Mr. and Mrs. Wilson from over the way—uncommonly nice people. My
-love, are you well wrapped up?’
+[[Love|love]], are you [[Well|well]] wrapped up?’
 
 ‘Yes, dear.’
 
@@ -442,49 +442,49 @@ anything particular occurring. The clergyman had to dine some distance
 from town, and had two churchings, three christenings, and a funeral to
 perform in something less than an hour. The godfathers and godmother,
 therefore, promised to renounce the devil and all his works—‘and all
-that sort of thing’—as little Kitterbell said—‘in less than no time;’
-and with the exception of Dumps nearly letting the child fall into the
+that sort of thing’—as little Kitterbell said—‘in less than no [[Time|time]];’
+and with the exception of Dumps nearly letting the [[Child|child]] fall into the
 font when he handed it to the clergyman, the whole affair went off in
 the usual business-like and matter-of-course manner, and Dumps
-re-entered the Bank-gates at two o’clock with a heavy heart, and the
+re-entered the Bank-gates at two o’[[Clock|clock]] with a heavy heart, and the
 painful conviction that he was regularly booked for an evening party.
 
 Evening came—and so did Dumps’s pumps, black silk stockings, and white
 cravat which he had ordered to be forwarded, per boy, from Pentonville.
-The depressed godfather dressed himself at a friend’s counting-house,
+The depressed godfather dressed himself at a friend’s counting-[[house]],
 from whence, with his spirits fifty degrees below proof, he sallied
 forth—as the weather had cleared up, and the evening was tolerably
 fine—to walk to Great Russell-street. Slowly he paced up Cheapside,
-Newgate-street, down Snow-hill, and up Holborn ditto, looking as grim
+Newgate-street, down [[Snow]]-[[Hill|hill]], and up Holborn ditto, looking as grim
 as the figure-head of a man-of-war, and finding out fresh causes of
-misery at every step. As he was crossing the corner of Hatton-garden, a
+misery at every step. As he was crossing the corner of Hatton-[[Garden|garden]], a
 man apparently intoxicated, rushed against him, and would have knocked
 him down, had he not been providentially caught by a very genteel young
-man, who happened to be close to him at the time. The shock so
-disarranged Dumps’s nerves, as well as his dress, that he could hardly
+man, who happened to be close to him at the [[Time|time]]. The shock so
+disarranged Dumps’s nerves, as [[Well|well]] as his dress, that he could hardly
 stand. The gentleman took his arm, and in the kindest manner walked
-with him as far as Furnival’s Inn. Dumps, for about the first time in
+with him as far as Furnival’s Inn. Dumps, for about the first [[Time|time]] in
 his life, felt grateful and polite; and he and the gentlemanly-looking
 young man parted with mutual expressions of good will.
 
-‘There are at least some well-disposed men in the world,’ ruminated the
+‘There are at least some [[Well|well]]-disposed men in the world,’ ruminated the
 misanthropical Dumps, as he proceeded towards his destination.
 
 Rat—tat—ta-ra-ra-ra-ra-rat—knocked a hackney-coachman at Kitterbell’s
-door, in imitation of a gentleman’s servant, just as Dumps reached it;
+door, in [[Imitation|imitation]] of a gentleman’s servant, just as Dumps reached it;
 and out came an old lady in a large toque, and an old gentleman in a
 blue coat, and three female copies of the old lady in pink dresses, and
 shoes to match.
 
 ‘It’s a large party,’ sighed the unhappy godfather, wiping the
 perspiration from his forehead, and leaning against the area-railings.
-It was some time before the miserable man could muster up courage to
+It was some [[Time|time]] before the miserable man could muster up [[Courage|courage]] to
 knock at the door, and when he did, the smart appearance of a
 neighbouring greengrocer (who had been hired to wait for seven and
-sixpence, and whose calves alone were worth double the money), the lamp
-in the passage, and the Venus on the landing, added to the hum of many
+sixpence, and whose calves [[Alone|alone]] were worth [[Double|double]] the money), the lamp
+in the passage, and the [[Venus]] on the landing, added to the hum of many
 voices, and the sound of a harp and two violins, painfully convinced
-him that his surmises were but too well founded.
+him that his surmises were but too [[Well|well]] founded.
 
 ‘How are you?’ said little Kitterbell, in a greater bustle than ever,
 bolting out of the little back parlour with a cork-screw in his hand,
@@ -505,12 +505,12 @@ with one shoe on, rummaging his pockets with the most frightful
 distortion of visage. ‘What have you lost? Your pocket-book?’
 
 ‘No,’ returned Dumps, diving first into one pocket and then into the
-other, and speaking in a voice like Desdemona with the pillow over her
+other, and speaking in a voice like [[Desdemona]] with the pillow over her
 mouth.
 
 ‘Your card-case? snuff-box? the key of your lodgings?’ continued
 Kitterbell, pouring question on question with the rapidity of
-lightning.
+[[Lightning|lightning]].
 
 ‘No! no!’ ejaculated Dumps, still diving eagerly into his empty
 pockets.
@@ -550,7 +550,7 @@ Mr. Danton was a young man of about five-and-twenty, with a
 considerable stock of impudence, and a very small share of ideas: he
 was a great favourite, especially with young ladies of from sixteen to
 twenty-six years of age, both inclusive. He could imitate the
-French-horn to admiration, sang comic songs most inimitably, and had
+French-horn to admiration, sang comic [[songs]] most inimitably, and had
 the most insinuating way of saying impertinent nothings to his doting
 female admirers. He had acquired, somehow or other, the reputation of
 being a great wit, and, accordingly, whenever he opened his mouth,
@@ -571,7 +571,7 @@ Dumps—‘godfather, I mean.’—The young ladies were convulsed, and the
 gentlemen in ecstasies.
 
 A general hum of admiration interrupted the conversation, and announced
-the entrance of nurse with the baby. An universal rush of the young
+the entrance of [[Nurse|nurse]] with the baby. An universal rush of the young
 ladies immediately took place. (Girls are always _so_ fond of babies in
 company.)
 
@@ -591,10 +591,10 @@ waistcoats—‘Did you ever!’
 
 ‘Never, in my life,’ returned her admirer, pulling up his collar.
 
-‘Oh! _do_ let me take it, nurse,’ cried another young lady. ‘The love!’
+‘Oh! _do_ let me take it, [[Nurse|nurse]],’ cried another young lady. ‘The [[Love|love]]!’
 
-‘Can it open its eyes, nurse?’ inquired another, affecting the utmost
-innocence.—Suffice it to say, that the single ladies unanimously voted
+‘Can it open its eyes, [[Nurse|nurse]]?’ inquired another, affecting the utmost
+[[innocence]].—Suffice it to say, that the single ladies unanimously voted
 him an angel, and that the married ones, _nem. con._, agreed that he
 was decidedly the finest baby they had ever beheld—except their own.
 
@@ -620,7 +620,7 @@ without cessation all the way to Gravesend, and all the way back again.
 
 The ‘sit-down supper’ was excellent; there were four barley-sugar
 temples on the table, which would have looked beautiful if they had not
-melted away when the supper began; and a water-mill, whose only fault
+melted away when the supper began; and a [[Water|water]]-mill, whose only fault
 was that instead of going round, it ran over the table-cloth. Then
 there were fowls, and tongue, and trifle, and sweets, and lobster
 salad, and potted beef—and everything. And little Kitterbell kept
@@ -628,23 +628,23 @@ calling out for clean plates, and the clean plates did not come: and
 then the gentlemen who wanted the plates said they didn’t mind, they’d
 take a lady’s; and then Mrs. Kitterbell applauded their gallantry, and
 the greengrocer ran about till he thought his seven and sixpence was
-very hardly earned; and the young ladies didn’t eat much for fear it
+very hardly earned; and the young ladies didn’t eat much for [[Fear|fear]] it
 shouldn’t look romantic, and the married ladies eat as much as
-possible, for fear they shouldn’t have enough; and a great deal of wine
+possible, for [[Fear|fear]] they shouldn’t have enough; and a great deal of wine
 was drunk, and everybody talked and laughed considerably.
 
 ‘Hush! hush!’ said Mr. Kitterbell, rising and looking very important.
-‘My love (this was addressed to his wife at the other end of the
+‘My [[Love|love]] (this was addressed to his wife at the other end of the
 table), take care of Mrs. Maxwell, and your mamma, and the rest of the
 married ladies; the gentlemen will persuade the young ladies to fill
 their glasses, I am sure.’
 
 ‘Ladies and gentlemen,’ said long Dumps, in a very sepulchral voice and
-rueful accent, rising from his chair like the ghost in Don Juan, ‘will
+rueful accent, rising from his chair like the [[Ghost|ghost]] in Don Juan, ‘will
 you have the kindness to charge your glasses? I am desirous of
 proposing a toast.’
 
-A dead silence ensued, and the glasses were filled—everybody looked
+A dead [[Silence|silence]] ensued, and the glasses were filled—everybody looked
 serious.
 
 ‘Ladies and gentlemen,’ slowly continued the ominous Dumps, ‘I’—(here
@@ -669,15 +669,15 @@ remembered the mug)—venture to rise to propose a toast. I need hardly
 say that it is the health and prosperity of that young gentleman, the
 particular event of whose early life we are here met to
 celebrate—(applause). Ladies and gentlemen, it is impossible to suppose
-that our friends here, whose sincere well-wishers we all are, can pass
-through life without some trials, considerable suffering, severe
+that our friends here, whose sincere [[Well|well]]-wishers we all are, can pass
+through life without some trials, considerable [[Suffering|suffering]], severe
 affliction, and heavy losses!’—Here the arch-traitor paused, and slowly
 drew forth a long, white pocket-handkerchief—his example was followed
 by several ladies. ‘That these trials may be long spared them is my
-most earnest prayer, my most fervent wish (a distinct sob from the
-grandmother). I hope and trust, ladies and gentlemen, that the infant
+most earnest [[Prayer|prayer]], my most fervent wish (a distinct sob from the
+grandmother). I [[Hope|hope]] and trust, ladies and gentlemen, that the infant
 whose christening we have this evening met to celebrate, may not be
-removed from the arms of his parents by premature decay (several
+removed from the arms of his parents by premature [[Decay|decay]] (several
 cambrics were in requisition): that his young and now _apparently_
 healthy form, may not be wasted by lingering disease. (Here Dumps cast
 a sardonic glance around, for a great sensation was manifest among the
@@ -685,8 +685,8 @@ married ladies.) You, I am sure, will concur with me in wishing that he
 may live to be a comfort and a blessing to his parents. (“Hear, hear!”
 and an audible sob from Mr. Kitterbell.) But should he not be what we
 could wish—should he forget in after times the duty which he owes to
-them—should they unhappily experience that distracting truth, “how
-sharper than a serpent’s tooth it is to have a thankless child”’—Here
+them—should they unhappily experience that distracting [[Truth|truth]], “how
+sharper than a serpent’s tooth it is to have a thankless [[Child|child]]”’—Here
 Mrs. Kitterbell, with her handkerchief to her eyes, and accompanied by
 several ladies, rushed from the room, and went into violent hysterics
 in the passage, leaving her better half in almost as bad a condition,
@@ -694,12 +694,12 @@ and a general impression in Dumps’s favour; for people like sentiment,
 after all.
 
 It need hardly be added, that this occurrence quite put a stop to the
-harmony of the evening. Vinegar, hartshorn, and cold water, were now as
+harmony of the evening. Vinegar, hartshorn, and cold [[Water|water]], were now as
 much in request as negus, rout-cakes, and _bon-bons_ had been a short
-time before. Mrs. Kitterbell was immediately conveyed to her apartment,
+[[Time|time]] before. Mrs. Kitterbell was immediately conveyed to her apartment,
 the musicians were silenced, flirting ceased, and the company slowly
-departed. Dumps left the house at the commencement of the bustle, and
-walked home with a light step, and (for him) a cheerful heart. His
+departed. Dumps left the [[house]] at the commencement of the bustle, and
+walked [[Home|home]] with a light step, and (for him) a cheerful heart. His
 landlady, who slept in the next room, has offered to make oath that she
 heard him laugh, in his peculiar manner, after he had locked his door.
 The assertion, however, is so improbable, and bears on the face of it

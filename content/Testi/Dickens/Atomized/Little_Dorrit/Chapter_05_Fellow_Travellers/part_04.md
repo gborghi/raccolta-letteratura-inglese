@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘Well, well! But it’s not natural to bear malice, I hope?’ said Mr
+‘[[Well]], [[Well|well]]! But it’s not natural to bear malice, I [[Hope|hope]]?’ said Mr
 Meagles, cheerily.
 
 ‘If I had been shut up in any place to pine and suffer, I should always
@@ -36,21 +36,21 @@ that as they had all been thrown together by chance, and had all
 preserved a good understanding together, and were now about to disperse,
 and were not likely ever to find themselves all together again, what
 could they do better than bid farewell to one another, and give one
-another good-speed in a simultaneous glass of cool champagne all round
+another good-[[Speed|speed]] in a simultaneous glass of cool champagne all round
 the table? It was done, and with a general shaking of hands the assembly
 broke up for ever.
 
-The solitary young lady all this time had said no more. She rose with
+The solitary young lady all this [[Time|time]] had said no more. She [[Rose|rose]] with
 the rest, and silently withdrew to a remote corner of the great room,
-where she sat herself on a couch in a window, seeming to watch the
-reflection of the water as it made a silver quivering on the bars of the
+where she sat herself on a couch in a [[Window|window]], seeming to watch the
+reflection of the [[Water|water]] as it made a silver quivering on the bars of the
 lattice. She sat, turned away from the whole length of the apartment, as
 if she were lonely of her own haughty choice. And yet it would have been
 as difficult as ever to say, positively, whether she avoided the rest,
 or was avoided.
 
-The shadow in which she sat, falling like a gloomy veil across her
-forehead, accorded very well with the character of her beauty. One could
+The [[Shadow|shadow]] in which she sat, falling like a gloomy veil across her
+forehead, accorded very [[Well|well]] with the character of her [[Beauty|beauty]]. One could
 hardly see the face, so still and scornful, set off by the arched
 dark eyebrows, and the folds of dark hair, without wondering what its
 expression would be if a change came over it. That it could soften or
@@ -59,13 +59,13 @@ any extreme of defiance, and that it must change in that direction when
 it changed at all, would have been its peculiar impression upon most
 observers. It was dressed and trimmed into no ceremony of expression.
 Although not an open face, there was no pretence in it. ‘I am
-self-contained and self-reliant; your opinion is nothing to me; I have
+[[Self|self]]-contained and [[Self|self]]-reliant; your opinion is nothing to me; I have
 no interest in you, care nothing for you, and see and hear you with
 indifference’--this it said plainly. It said so in the proud eyes, in
 the lifted nostril, in the handsome but compressed and even cruel mouth.
 Cover either two of those channels of expression, and the third would
 have said so still. Mask them all, and the mere turn of the head would
-have shown an unsubduable nature.
+have shown an unsubduable [[Nature|nature]].
 
 Pet had moved up to her (she had been the subject of remark among her
 family and Mr Clennam, who were now the only other occupants of the
@@ -104,10 +104,10 @@ undertake, I am sure.’
 I prefer to go my own way in my own manner.’
 
 ‘_Do_ you?’ said Mr Meagles to himself, as he surveyed her with a puzzled
-look. ‘Well! There’s character in that, too.’
+look. ‘[[Well]]! There’s character in that, too.’
 
 ‘I am not much used to the society of young ladies, and I am afraid I
-may not show my appreciation of it as others might. A pleasant journey
+may not show my appreciation of it as others might. A pleasant [[Journey|journey]]
 to you. Good-bye!’
 
 She would not have put out her hand, it seemed, but that Mr Meagles put
@@ -131,7 +131,7 @@ speaker.
 
 ‘Your pretty daughter,’ she said, ‘starts to think of such things. Yet,’
 looking full upon her, ‘you may be sure that there are men and women
-already on their road, who have their business to do with _you_, and who
+already on their [[Road|road]], who have their business to do with _you_, and who
 will do it. Of a certainty they will do it. They may be coming hundreds,
 thousands, of miles over the sea there; they may be close at hand now;
 they may be coming, for anything you know or anything you can do to

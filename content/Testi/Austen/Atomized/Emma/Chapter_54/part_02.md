@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 16 (part 2)"
+title: "[[Emma]] — Chapter 16 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -23,13 +23,13 @@ wise.—I am in a fine flow of spirits, an’t I? But I want to set your
 heart at ease as to Mrs. S.—_My_ representation, you see, has quite
 appeased her.”
 
-And again, on Emma’s merely turning her head to look at Mrs. Bates’s
+And again, on [[Emma]]’s merely turning her head to look at Mrs. Bates’s
 knitting, she added, in a half whisper,
 
 “I mentioned no _names_, you will observe.—Oh! no; cautious as a
-minister of state. I managed it extremely well.”
+minister of state. I managed it extremely [[Well|well]].”
 
-Emma could not doubt. It was a palpable display, repeated on every
+[[Emma]] could not [[Doubt|doubt]]. It was a palpable display, repeated on every
 possible occasion. When they had all talked a little while in harmony
 of the weather and Mrs. Weston, she found herself abruptly addressed
 with,
@@ -37,25 +37,25 @@ with,
 “Do not you think, Miss Woodhouse, our saucy little friend here is
 charmingly recovered?—Do not you think her cure does Perry the highest
 credit?—(here was a side-glance of great meaning at Jane.) Upon my
-word, Perry has restored her in a wonderful short time!—Oh! if you had
+word, Perry has restored her in a wonderful short [[Time|time]]!—Oh! if you had
 seen her, as I did, when she was at the worst!”—And when Mrs. Bates was
-saying something to Emma, whispered farther, “We do not say a word of
+saying something to [[Emma]], whispered farther, “We do not say a word of
 any _assistance_ that Perry might have; not a word of a certain young
 physician from Windsor.—Oh! no; Perry shall have all the credit.”
 
 “I have scarce had the pleasure of seeing you, Miss Woodhouse,” she
-shortly afterwards began, “since the party to Box Hill. Very pleasant
+shortly afterwards began, “since the party to Box [[Hill]]. Very pleasant
 party. But yet I think there was something wanting. Things did not
 seem—that is, there seemed a little cloud upon the spirits of some.—So
 it appeared to me at least, but I might be mistaken. However, I think
 it answered so far as to tempt one to go again. What say you both to
-our collecting the same party, and exploring to Box Hill again, while
+our collecting the same party, and exploring to Box [[Hill]] again, while
 the fine weather lasts?—It must be the same party, you know, quite the
 same party, not _one_ exception.”
 
-Soon after this Miss Bates came in, and Emma could not help being
+Soon after this [[Miss Bates]] came in, and [[Emma]] could not help being
 diverted by the perplexity of her first answer to herself, resulting,
-she supposed, from doubt of what might be said, and impatience to say
+she supposed, from [[Doubt|doubt]] of what might be said, and impatience to say
 every thing.
 
 “Thank you, dear Miss Woodhouse, you are all kindness.—It is impossible
@@ -65,22 +65,22 @@ Woodhouse?—I am so glad.—Quite out of my power.—Such a happy little
 circle as you find us here.—Yes, indeed.—Charming young man!—that is—so
 very friendly; I mean good Mr. Perry!—such attention to Jane!”—And from
 her great, her more than commonly thankful delight towards Mrs. Elton
-for being there, Emma guessed that there had been a little show of
+for being there, [[Emma]] guessed that there had been a little show of
 resentment towards Jane, from the vicarage quarter, which was now
 graciously overcome.—After a few whispers, indeed, which placed it
 beyond a guess, Mrs. Elton, speaking louder, said,
 
 “Yes, here I am, my good friend; and here I have been so long, that
-anywhere else I should think it necessary to apologise; but, the truth
+anywhere else I should think it necessary to apologise; but, the [[Truth|truth]]
 is, that I am waiting for my lord and master. He promised to join me
 here, and pay his respects to you.”
 
 “What! are we to have the pleasure of a call from Mr. Elton?—That will
 be a favour indeed! for I know gentlemen do not like morning visits,
-and Mr. Elton’s time is so engaged.”
+and Mr. Elton’s [[Time|time]] is so engaged.”
 
-“Upon my word it is, Miss Bates.—He really is engaged from morning to
-night.—There is no end of people’s coming to him, on some pretence or
+“Upon my word it is, [[Miss Bates]].—He really is engaged from morning to
+[[Night|night]].—There is no end of people’s coming to him, on some pretence or
 other.—The magistrates, and overseers, and churchwardens, are always
 wanting his opinion. They seem not able to do any thing without
 him.—‘Upon my word, Mr. E.,’ I often say, ‘rather you than I.—I do not
@@ -89,23 +89,23 @@ so many applicants.’—Bad enough as it is, for I absolutely neglect them
 both to an unpardonable degree.—I believe I have not played a bar this
 fortnight.—However, he is coming, I assure you: yes, indeed, on purpose
 to wait on you all.” And putting up her hand to screen her words from
-Emma—“A congratulatory visit, you know.—Oh! yes, quite indispensable.”
+[[Emma]]—“A congratulatory visit, you know.—Oh! yes, quite indispensable.”
 
-Miss Bates looked about her, so happily—!
+[[Miss Bates]] looked about her, so happily—!
 
 “He promised to come to me as soon as he could disengage himself from
 Knightley; but he and Knightley are shut up together in deep
 consultation.—Mr. E. is Knightley’s right hand.”
 
-Emma would not have smiled for the world, and only said, “Is Mr. Elton
+[[Emma]] would not have smiled for the world, and only said, “Is Mr. Elton
 gone on foot to Donwell?—He will have a hot walk.”
 
-“Oh! no, it is a meeting at the Crown, a regular meeting. Weston and
+“Oh! no, it is a meeting at the [[Crown]], a regular meeting. Weston and
 Cole will be there too; but one is apt to speak only of those who
 lead.—I fancy Mr. E. and Knightley have every thing their own way.”
 
-“Have not you mistaken the day?” said Emma. “I am almost certain that
-the meeting at the Crown is not till to-morrow.—Mr. Knightley was at
+“Have not you mistaken the day?” said [[Emma]]. “I am almost certain that
+the meeting at the [[Crown]] is not till to-morrow.—Mr. Knightley was at
 Hartfield yesterday, and spoke of it as for Saturday.”
 
 “Oh! no, the meeting is certainly to-day,” was the abrupt answer, which

@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE SOUL OF THE SCHOOLBOY (part 4)"
+title: "[[manwho]] — THE [[Soul|SOUL]] OF THE SCHOOLBOY (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -96,11 +96,11 @@ Heavy clouds of sunset were closing round the wooden hut, enormous
 
 clouds, of which only the corners could be seen in the little
 
-window, like purple horns and tails, almost as if some huge monsters
+[[Window|window]], like purple horns and tails, almost as if some huge monsters
 
 were prowling round the place. But the purple was already deepening
 
-to dark gray; it would soon be night.
+to dark gray; it would soon be [[Night|night]].
 
 
 
@@ -116,9 +116,9 @@ How such a topsy-turvy scene ever came to be tolerated in the
 
 colonel's office, of all places, was afterward a puzzle in the
 
-memory of many, including the colonel. They recalled it like a sort
+[[Memory|memory]] of many, including the colonel. They recalled it like a sort
 
-of nightmare, like something they could not control. Perhaps there
+of [[nightmare]], like something they could not control. Perhaps there
 
 was really a magnetism about the mesmerist; perhaps there was even
 
@@ -180,7 +180,7 @@ of the relic itself?"
 
 
 
-"I see something shining on the floor, like the shadow or the ghost
+"I see something shining on the floor, like the [[Shadow|shadow]] or the [[Ghost|ghost]]
 
 of it. It is over there in the corner beyond the desk."
 
@@ -200,9 +200,9 @@ light in the room. The cigar had gone out.
 
 pointing the way to penitence, and urging the thief to restitution.
 
-I can see nothing more." His voice trailed off into a silence that
+I can see nothing more." His voice trailed off into a [[Silence|silence]] that
 
-lasted solidly for many minutes, like the long silence below when
+lasted solidly for many minutes, like the long [[Silence|silence]] below when
 
 the theft had been committed. Then it was broken by the ring of
 
@@ -244,9 +244,9 @@ always the suspect. I don't think he was necessarily a thief in the
 
 vulgar sense. The police always seem to think that silver is stolen
 
-for the sake of silver, but a thing like that might well be stolen
+for the sake of silver, but a thing like that might [[Well|well]] be stolen
 
-out of some religious mania. A runaway monk turned mystic might well
+out of some religious mania. A runaway monk turned mystic might [[Well|well]]
 
 want it for some mystical purpose."
 

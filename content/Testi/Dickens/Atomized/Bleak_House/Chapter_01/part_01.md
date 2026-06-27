@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 1 (part 1)"
+title: "Bleak [[house|House]] — Chapter 1 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,15 +19,15 @@ CHAPTER I
 In Chancery
 
 
-London. Michaelmas term lately over, and the Lord Chancellor sitting
-in Lincoln’s Inn Hall. Implacable November weather. As much mud in
+[[London]]. Michaelmas term lately over, and the Lord Chancellor sitting
+in [[Lincoln]]’s Inn Hall. Implacable November weather. As much mud in
 the streets as if the waters had but newly retired from the face of
 the earth, and it would not be wonderful to meet a Megalosaurus,
 forty feet long or so, waddling like an elephantine lizard up Holborn
-Hill. Smoke lowering down from chimney-pots, making a soft black
+[[Hill]]. Smoke lowering down from chimney-pots, making a soft black
 drizzle, with flakes of soot in it as big as full-grown
-snowflakes—gone into mourning, one might imagine, for the death of
-the sun. Dogs, undistinguishable in mire. Horses, scarcely better;
+snowflakes—gone into mourning, one might imagine, for the [[Death|death]] of
+the sun. [[dogs|Dogs]], undistinguishable in mire. Horses, scarcely better;
 splashed to their very blinkers. Foot passengers, jostling one
 another’s umbrellas in a general infection of ill temper, and losing
 their foot-hold at street-corners, where tens of thousands of other
@@ -36,9 +36,9 @@ foot passengers have been slipping and sliding since the day broke
 of mud, sticking at those points tenaciously to the pavement, and
 accumulating at compound interest.
 
-Fog everywhere. Fog up the river, where it flows among green aits and
-meadows; fog down the river, where it rolls defiled among the tiers
-of shipping and the waterside pollutions of a great (and dirty) city.
+Fog everywhere. Fog up the [[River|river]], where it flows among green aits and
+meadows; fog down the [[River|river]], where it rolls defiled among the tiers
+of shipping and the waterside pollutions of a great (and dirty) [[City|city]].
 Fog on the Essex marshes, fog on the Kentish heights. Fog creeping
 into the cabooses of collier-brigs; fog lying out on the yards and
 hovering in the rigging of great ships; fog drooping on the gunwales
@@ -54,19 +54,19 @@ misty clouds.
 Gas looming through the fog in divers places in the streets, much as
 the sun may, from the spongey fields, be seen to loom by husbandman
 and ploughboy. Most of the shops lighted two hours before their
-time—as the gas seems to know, for it has a haggard and unwilling
+[[Time|time]]—as the gas seems to know, for it has a haggard and unwilling
 look.
 
 The raw afternoon is rawest, and the dense fog is densest, and the
 muddy streets are muddiest near that leaden-headed old obstruction,
 appropriate ornament for the threshold of a leaden-headed old
-corporation, Temple Bar. And hard by Temple Bar, in Lincoln’s Inn
+corporation, Temple Bar. And hard by Temple Bar, in [[Lincoln]]’s Inn
 Hall, at the very heart of the fog, sits the Lord High Chancellor in
-his High Court of Chancery.
+his High [[Court]] of Chancery.
 
 Never can there come fog too thick, never can there come mud and mire
 too deep, to assort with the groping and floundering condition which
-this High Court of Chancery, most pestilent of hoary sinners, holds
+this High [[Court]] of Chancery, most pestilent of hoary sinners, holds
 this day in the sight of heaven and earth.
 
 On such an afternoon, if ever, the Lord High Chancellor ought to be
@@ -75,7 +75,7 @@ softly fenced in with crimson cloth and curtains, addressed by a
 large advocate with great whiskers, a little voice, and an
 interminable brief, and outwardly directing his contemplation to the
 lantern in the roof, where he can see nothing but fog. On such an
-afternoon some score of members of the High Court of Chancery bar
+afternoon some score of members of the High [[Court]] of Chancery bar
 ought to be—as here they are—mistily engaged in one of the ten
 thousand stages of an endless cause, tripping one another up on
 slippery precedents, groping knee-deep in technicalities, running
@@ -84,51 +84,51 @@ making a pretence of equity with serious faces, as players might. On
 such an afternoon the various solicitors in the cause, some two or
 three of whom have inherited it from their fathers, who made a
 fortune by it, ought to be—as are they not?—ranged in a line, in a
-long matted well (but you might look in vain for truth at the bottom
+long matted [[Well|well]] (but you might look in vain for [[Truth|truth]] at the [[Bottom|bottom]]
 of it) between the registrar’s red table and the silk gowns, with
-bills, cross-bills, answers, rejoinders, injunctions, affidavits,
-issues, references to masters, masters’ reports, mountains of costly
-nonsense, piled before them. Well may the court be dim, with wasting
-candles here and there; well may the fog hang heavy in it, as if it
-would never get out; well may the stained-glass windows lose their
-colour and admit no light of day into the place; well may the
+bills, [[Cross|cross]]-bills, answers, rejoinders, injunctions, affidavits,
+issues, references to masters, masters’ reports, [[Mountains|mountains]] of costly
+nonsense, piled before them. [[Well]] may the [[Court|court]] be dim, with wasting
+candles here and there; [[Well|well]] may the fog hang heavy in it, as if it
+would never get out; [[Well|well]] may the stained-glass windows lose their
+colour and admit no light of day into the place; [[Well|well]] may the
 uninitiated from the streets, who peep in through the glass panes in
 the door, be deterred from entrance by its owlish aspect and by the
 drawl, languidly echoing to the roof from the padded dais where the
 Lord High Chancellor looks into the lantern that has no light in it
 and where the attendant wigs are all stuck in a fog-bank! This is the
-Court of Chancery, which has its decaying houses and its blighted
+[[Court]] of Chancery, which has its decaying houses and its blighted
 lands in every shire, which has its worn-out lunatic in every
 madhouse and its dead in every churchyard, which has its ruined
 suitor with his slipshod heels and threadbare dress borrowing and
 begging through the round of every man’s acquaintance, which gives to
 monied might the means abundantly of wearying out the right, which so
-exhausts finances, patience, courage, hope, so overthrows the brain
+exhausts finances, patience, [[Courage|courage]], [[Hope|hope]], so overthrows the brain
 and breaks the heart, that there is not an honourable man among its
 practitioners who would not give—who does not often give—the
 warning, “Suffer any wrong that can be done you rather than come
 here!”
 
-Who happen to be in the Lord Chancellor’s court this murky afternoon
+Who happen to be in the Lord Chancellor’s [[Court|court]] this murky afternoon
 besides the Lord Chancellor, the counsel in the cause, two or three
-counsel who are never in any cause, and the well of solicitors before
+counsel who are never in any cause, and the [[Well|well]] of solicitors before
 mentioned? There is the registrar below the judge, in wig and gown;
 and there are two or three maces, or petty-bags, or privy purses, or
-whatever they may be, in legal court suits. These are all yawning,
+whatever they may be, in legal [[Court|court]] suits. These are all yawning,
 for no crumb of amusement ever falls from Jarndyce and Jarndyce (the
 cause in hand), which was squeezed dry years upon years ago. The
-short-hand writers, the reporters of the court, and the reporters of
+short-hand writers, the reporters of the [[Court|court]], and the reporters of
 the newspapers invariably decamp with the rest of the regulars when
 Jarndyce and Jarndyce comes on. Their places are a blank. Standing on
 a seat at the side of the hall, the better to peer into the curtained
 sanctuary, is a little mad old woman in a squeezed bonnet who is
-always in court, from its sitting to its rising, and always expecting
+always in [[Court|court]], from its sitting to its rising, and always expecting
 some incomprehensible judgment to be given in her favour. Some say
 she really is, or was, a party to a suit, but no one knows for
 certain because no one cares. She carries some small litter in a
 reticule which she calls her documents, principally consisting of
 paper matches and dry lavender. A sallow prisoner has come up, in
-custody, for the half-dozenth time to make a personal application “to
+custody, for the half-dozenth [[Time|time]] to make a personal application “to
 purge himself of his contempt,” which, being a solitary surviving
 executor who has fallen into a state of conglomeration about accounts
 of which it is not pretended that he had ever any knowledge, he is

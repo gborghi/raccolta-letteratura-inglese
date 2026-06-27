@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — TED LONDON"
+title: "[[WhatISawInAmerica]] — TED [[London|LONDON]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-LIMITED LONDON
+LIMITED [[London|LONDON]]
 
 
 
@@ -42,11 +42,11 @@ _Contents_
 
 
 
-WHAT IS AMERICA?                       1
+WHAT IS [[America|AMERICA]]?                       1
 
 
 
-A MEDITATION IN A NEW YORK HOTEL      19
+A MEDITATION IN A [[New York|NEW YORK]] HOTEL      19
 
 
 

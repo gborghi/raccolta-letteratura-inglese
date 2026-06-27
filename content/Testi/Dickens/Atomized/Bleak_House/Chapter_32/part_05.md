@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 32 (part 5)"
+title: "Bleak [[house|House]] — Chapter 32 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -21,31 +21,31 @@ and sight and more offensive to the smell. A stagnant, sickening oil
 with some natural repulsion in it that makes them both shudder.
 
 “What have you been doing here? What have you been pouring out of
-window?”
+[[Window|window]]?”
 
-“I pouring out of window! Nothing, I swear! Never, since I have been
+“I pouring out of [[Window|window]]! Nothing, I swear! Never, since I have been
 here!” cries the lodger.
 
 And yet look here—and look here! When he brings the candle here,
-from the corner of the window-sill, it slowly drips and creeps away
+from the corner of the [[Window|window]]-sill, it slowly drips and creeps away
 down the bricks, here lies in a little thick nauseous pool.
 
-“This is a horrible house,” says Mr. Guppy, shutting down the window.
-“Give me some water or I shall cut my hand off.”
+“This is a horrible [[house]],” says Mr. Guppy, shutting down the [[Window|window]].
+“Give me some [[Water|water]] or I shall cut my hand off.”
 
 He so washes, and rubs, and scrubs, and smells, and washes, that he
 has not long restored himself with a glass of brandy and stood
-silently before the fire when Saint Paul’s bell strikes twelve and
-all those other bells strike twelve from their towers of various
+silently before the [[Fire|fire]] when Saint Paul’s bell strikes twelve and
+all those other [[Bells|bells]] strike twelve from their towers of various
 heights in the dark air, and in their many tones. When all is quiet
-again, the lodger says, “It’s the appointed time at last. Shall I
+again, the lodger says, “It’s the appointed [[Time|time]] at last. Shall I
 go?”
 
 Mr. Guppy nods and gives him a “lucky touch” on the back, but not
 with the washed hand, though it is his right hand.
 
 He goes downstairs, and Mr. Guppy tries to compose himself before the
-fire for waiting a long time. But in no more than a minute or two the
+[[Fire|fire]] for waiting a long [[Time|time]]. But in no more than a minute or two the
 stairs creak and Tony comes swiftly back.
 
 “Have you got them?”
@@ -63,7 +63,7 @@ oil is there—and he is not there!” Tony ends this with a groan.
 Mr. Guppy takes the light. They go down, more dead than alive, and
 holding one another, push open the door of the back shop. The cat has
 retreated close to it and stands snarling, not at them, at something
-on the ground before the fire. There is a very little fire left in
+on the ground before the [[Fire|fire]]. There is a very little [[Fire|fire]] left in
 the grate, but there is a smouldering, suffocating vapour in the room
 and a dark, greasy coating on the walls and ceiling. The chairs and
 table, and the bottle so rarely absent from the table, all stand as
@@ -87,11 +87,11 @@ fall.”
 
 “What’s the matter with the cat?” says Mr. Guppy. “Look at her!”
 
-“Mad, I think. And no wonder in this evil place.”
+“Mad, I think. And no [[Wonder|wonder]] in this evil place.”
 
 They advance slowly, looking at all these things. The cat remains
 where they found her, still snarling at the something on the ground
-before the fire and between the two chairs. What is it? Hold up the
+before the [[Fire|fire]] and between the two chairs. What is it? Hold up the
 light.
 
 Here is a small burnt patch of flooring; here is the tinder from a
@@ -102,14 +102,14 @@ coal? Oh, horror, he IS here! And this from which we run away,
 striking out the light and overturning one another into the street,
 is all that represents him.
 
-Help, help, help! Come into this house for heaven’s sake! Plenty will
-come in, but none can help. The Lord Chancellor of that court, true
-to his title in his last act, has died the death of all lord
+Help, help, help! Come into this [[house]] for heaven’s sake! Plenty will
+come in, but none can help. The Lord Chancellor of that [[Court|court]], true
+to his title in his last act, has died the [[Death|death]] of all lord
 chancellors in all courts and of all authorities in all places under
 all names soever, where false pretences are made, and where injustice
-is done. Call the death by any name your Highness will, attribute
+is done. Call the [[Death|death]] by any name your Highness will, attribute
 it to whom you will, or say it might have been prevented how you
-will, it is the same death eternally—inborn, inbred, engendered
-in the corrupted humours of the vicious body itself, and that
+will, it is the same [[Death|death]] eternally—inborn, inbred, engendered
+in the corrupted humours of the vicious [[Body|body]] itself, and that
 only—spontaneous combustion, and none other of all the deaths that
 can be died.

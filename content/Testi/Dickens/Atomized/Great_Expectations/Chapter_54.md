@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 54"
+title: "[[Great Expectations]] — Chapter 54"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,8 +17,8 @@ tags:
 Chapter LIV.
 
 
-It was one of those March days when the sun shines hot and the wind
-blows cold: when it is summer in the light, and winter in the shade. We
+It was one of those March days when the sun shines hot and the [[Wind|wind]]
+blows cold: when it is [[Summer|summer]] in the light, and [[Winter|winter]] in the shade. We
 had our pea-coats with us, and I took a bag. Of all my worldly
 possessions I took no more than the few necessaries that filled the
 bag. Where I might go, what I might do, or when I might return, were
@@ -28,23 +28,23 @@ moment, as I stopped at the door and looked back, under what altered
 circumstances I should next see those rooms, if ever.
 
 We loitered down to the Temple stairs, and stood loitering there, as if
-we were not quite decided to go upon the water at all. Of course, I had
+we were not quite decided to go upon the [[Water|water]] at all. Of course, I had
 taken care that the boat should be ready and everything in order. After
 a little show of indecision, which there were none to see but the two
 or three amphibious creatures belonging to our Temple stairs, we went
 on board and cast off; Herbert in the bow, I steering. It was then
-about high-water,—half-past eight.
+about high-[[Water|water]],—half-past eight.
 
 Our plan was this. The tide, beginning to run down at nine, and being
 with us until three, we intended still to creep on after it had turned,
-and row against it until dark. We should then be well in those long
-reaches below Gravesend, between Kent and Essex, where the river is
-broad and solitary, where the water-side inhabitants are very few, and
+and row against it until dark. We should then be [[Well|well]] in those long
+reaches below Gravesend, between [[Kent]] and Essex, where the [[River|river]] is
+broad and solitary, where the [[Water|water]]-side inhabitants are very few, and
 where lone public-houses are scattered here and there, of which we
 could choose one for a resting-place. There, we meant to lie by all
-night. The steamer for Hamburg and the steamer for Rotterdam would
-start from London at about nine on Thursday morning. We should know at
-what time to expect them, according to where we were, and would hail
+[[Night|night]]. The steamer for Hamburg and the steamer for Rotterdam would
+start from [[London]] at about nine on [[thursday|Thursday]] morning. We should know at
+what [[Time|time]] to expect them, according to where we were, and would hail
 the first; so that, if by any accident we were not taken abroad, we
 should have another chance. We knew the distinguishing marks of each
 vessel.
@@ -52,27 +52,27 @@ vessel.
 The relief of being at last engaged in the execution of the purpose was
 so great to me that I felt it difficult to realise the condition in
 which I had been a few hours before. The crisp air, the sunlight, the
-movement on the river, and the moving river itself,—the road that ran
+movement on the [[River|river]], and the moving [[River|river]] itself,—the [[Road|road]] that ran
 with us, seeming to sympathise with us, animate us, and encourage us
-on,—freshened me with new hope. I felt mortified to be of so little use
+on,—freshened me with new [[Hope|hope]]. I felt mortified to be of so little use
 in the boat; but, there were few better oarsmen than my two friends,
 and they rowed with a steady stroke that was to last all day.
 
-At that time, the steam-traffic on the Thames was far below its present
+At that [[Time|time]], the steam-traffic on the Thames was far below its present
 extent, and watermen’s boats were far more numerous. Of barges, sailing
 colliers, and coasting-traders, there were perhaps, as many as now; but
 of steam-ships, great and small, not a tithe or a twentieth part so
 many. Early as it was, there were plenty of scullers going here and
 there that morning, and plenty of barges dropping down with the tide;
-the navigation of the river between bridges, in an open boat, was a
+the navigation of the [[River|river]] between bridges, in an open boat, was a
 much easier and commoner matter in those days than it is in these; and
 we went ahead among many skiffs and wherries briskly.
 
-Old London Bridge was soon passed, and old Billingsgate Market with its
+Old [[London]] Bridge was soon passed, and old Billingsgate Market with its
 oyster-boats and Dutchmen, and the White Tower and Traitor’s Gate, and
 we were in among the tiers of shipping. Here were the Leith, Aberdeen,
 and Glasgow steamers, loading and unloading goods, and looking
-immensely high out of the water as we passed alongside; here, were
+immensely high out of the [[Water|water]] as we passed alongside; here, were
 colliers by the score and score, with the coal-whippers plunging off
 stages on deck, as counterweights to measures of coal swinging up,
 which were then rattled over the side into barges; here, at her
@@ -88,15 +88,15 @@ beating heart, Mill Pond Bank and Mill Pond stairs.
 “Right! He was not to come down till he saw us. Can you see his
 signal?”
 
-“Not well from here; but I think I see it.—Now I see him! Pull both.
+“Not [[Well|well]] from here; but I think I see it.—Now I see him! Pull both.
 Easy, Herbert. Oars!”
 
 We touched the stairs lightly for a single moment, and he was on board,
 and we were off again. He had a boat-cloak with him, and a black canvas
-bag; and he looked as like a river-pilot as my heart could have wished.
+bag; and he looked as like a [[River|river]]-pilot as my heart could have wished.
 
 “Dear boy!” he said, putting his arm on my shoulder, as he took his
-seat. “Faithful dear boy, well done. Thankye, thankye!”
+seat. “Faithful dear boy, [[Well|well]] done. Thankye, thankye!”
 
 Again among the tiers of shipping, in and out, avoiding rusty
 chain-cables frayed hempen hawsers and bobbing buoys, sinking for the
@@ -105,18 +105,18 @@ shaving, cleaving floating scum of coal, in and out, under the
 figure-head of the _John of Sunderland_ making a speech to the winds
 (as is done by many Johns), and the _Betsy of Yarmouth_ with a firm
 formality of bosom and her knobby eyes starting two inches out of her
-head; in and out, hammers going in ship-builders’ yards, saws going at
+head; in and out, hammers going in [[Ship|ship]]-builders’ yards, saws going at
 timber, clashing engines going at things unknown, pumps going in leaky
 ships, capstans going, ships going out to sea, and unintelligible
 sea-creatures roaring curses over the bulwarks at respondent
-lightermen, in and out,—out at last upon the clearer river, where the
+lightermen, in and out,—out at last upon the clearer [[River|river]], where the
 ships’ boys might take their fenders in, no longer fishing in troubled
 waters with them over the side, and where the festooned sails might fly
-out to the wind.
+out to the [[Wind|wind]].
 
 At the stairs where we had taken him abroad, and ever since, I had
 looked warily for any token of our being suspected. I had seen none. We
-certainly had not been, and at that time as certainly we were not
+certainly had not been, and at that [[Time|time]] as certainly we were not
 either attended or followed by any boat. If we had been waited on by
 any boat, I should have run in to shore, and have obliged her to go on,
 or to make her purpose evident. But we held our own without any
@@ -135,15 +135,15 @@ it, but it must come before he troubled himself.
 alonger my dear boy and have my smoke, arter having been day by day
 betwixt four walls, you’d envy me. But you don’t know what it is.”
 
-“I think I know the delights of freedom,” I answered.
+“I think I know the delights of [[Freedom|freedom]],” I answered.
 
 “Ah,” said he, shaking his head gravely. “But you don’t know it equal
 to me. You must have been under lock and key, dear boy, to know it
 equal to me,—but I ain’t a-going to be low.”
 
 It occurred to me as inconsistent, that, for any mastering idea, he
-should have endangered his freedom, and even his life. But I reflected
-that perhaps freedom without danger was too much apart from all the
+should have endangered his [[Freedom|freedom]], and even his life. But I reflected
+that perhaps [[Freedom|freedom]] without danger was too much apart from all the
 habit of his existence to be to him what it would be to another man. I
 was not far out, since he said, after smoking a little:—
 
@@ -154,22 +154,22 @@ come, and Magwitch could go, and nobody’s head would be troubled about
 him. They ain’t so easy concerning me here, dear boy,—wouldn’t be,
 leastwise, if they knowed where I was.”
 
-“If all goes well,” said I, “you will be perfectly free and safe again
+“If all goes [[Well|well]],” said I, “you will be perfectly free and safe again
 within a few hours.”
 
-“Well,” he returned, drawing a long breath, “I hope so.”
+“[[Well]],” he returned, drawing a long breath, “I [[Hope|hope]] so.”
 
 “And think so?”
 
-He dipped his hand in the water over the boat’s gunwale, and said,
+He dipped his hand in the [[Water|water]] over the boat’s gunwale, and said,
 smiling with that softened air upon him which was not new to me:—
 
 “Ay, I s’pose I think so, dear boy. We’d be puzzled to be more quiet
 and easy-going than we are at present. But—it’s a flowing so soft and
-pleasant through the water, p’raps, as makes me think it—I was a
+pleasant through the [[Water|water]], p’raps, as makes me think it—I was a
 thinking through my smoke just then, that we can no more see to the
-bottom of the next few hours than we can see to the bottom of this
-river what I catches hold of. Nor yet we can’t no more hold their tide
+[[Bottom|bottom]] of the next few hours than we can see to the [[Bottom|bottom]] of this
+[[River|river]] what I catches hold of. Nor yet we can’t no more hold their tide
 than I can hold this. And it’s run through my fingers and gone, you
 see!” holding up his dripping hand.
 
@@ -177,7 +177,7 @@ see!” holding up his dripping hand.
 I.
 
 “Not a bit on it, dear boy! It comes of flowing on so quiet, and of
-that there rippling at the boat’s head making a sort of a Sunday tune.
+that there rippling at the boat’s head making a sort of a [[Sunday]] tune.
 Maybe I’m a growing a trifle old besides.”
 
 He put his pipe back in his mouth with an undisturbed expression of
@@ -188,14 +188,14 @@ into the boat, and he was stepping out, I hinted that I thought he
 would be safest where he was, and he said. “Do you, dear boy?” and
 quietly sat down again.
 
-The air felt cold upon the river, but it was a bright day, and the
+The air felt cold upon the [[River|river]], but it was a bright day, and the
 sunshine was very cheering. The tide ran strong, I took care to lose
-none of it, and our steady stroke carried us on thoroughly well. By
+none of it, and our steady stroke carried us on thoroughly [[Well|well]]. By
 imperceptible degrees, as the tide ran out, we lost more and more of
 the nearer woods and hills, and dropped lower and lower between the
 muddy banks, but the tide was yet with us when we were off Gravesend.
 As our charge was wrapped in his cloak, I purposely passed within a
-boat or two’s length of the floating Custom House, and so out to catch
+boat or two’s length of the floating Custom [[house|House]], and so out to catch
 the stream, alongside of two emigrant ships, and under the bows of a
 large transport with troops on the forecastle looking down at us. And
 soon the tide began to slacken, and the craft lying at anchor to swing,
@@ -210,12 +210,12 @@ with the tide for a minute or two, that a quarter of an hour’s rest
 proved full as much as they wanted. We got ashore among some slippery
 stones while we ate and drank what we had with us, and looked about. It
 was like my own marsh country, flat and monotonous, and with a dim
-horizon; while the winding river turned and turned, and the great
+horizon; while the winding [[River|river]] turned and turned, and the great
 floating buoys upon it turned and turned, and everything else seemed
 stranded and still. For now the last of the fleet of ships was round
 the last low point we had headed; and the last green barge,
 straw-laden, with a brown sail, had followed; and some
-ballast-lighters, shaped like a child’s first rude imitation of a boat,
+ballast-lighters, shaped like a [[Child|child]]’s first rude [[Imitation|imitation]] of a boat,
 lay low in the mud; and a little squat shoal-lighthouse on open piles
 stood crippled in the mud on stilts and crutches; and slimy stakes
 stuck out of the mud, and slimy stones stuck out of the mud, and red
@@ -225,25 +225,25 @@ stagnation and mud.
 
 We pushed off again, and made what way we could. It was much harder
 work now, but Herbert and Startop persevered, and rowed and rowed and
-rowed until the sun went down. By that time the river had lifted us a
+rowed until the sun went down. By that [[Time|time]] the [[River|river]] had lifted us a
 little, so that we could see above the bank. There was the red sun, on
 the low level of the shore, in a purple haze, fast deepening into
 black; and there was the solitary flat marsh; and far away there were
 the rising grounds, between which and us there seemed to be no life,
-save here and there in the foreground a melancholy gull.
+save here and there in the foreground a [[Melancholy|melancholy]] gull.
 
-As the night was fast falling, and as the moon, being past the full,
+As the [[Night|night]] was fast falling, and as the [[Moon|moon]], being past the full,
 would not rise early, we held a little council; a short one, for
 clearly our course was to lie by at the first lonely tavern we could
 find. So, they plied their oars once more, and I looked out for
-anything like a house. Thus we held on, speaking little, for four or
+anything like a [[house]]. Thus we held on, speaking little, for four or
 five dull miles. It was very cold, and, a collier coming by us, with
-her galley-fire smoking and flaring, looked like a comfortable home.
-The night was as dark by this time as it would be until morning; and
-what light we had, seemed to come more from the river than the sky, as
-the oars in their dipping struck at a few reflected stars.
+her galley-[[Fire|fire]] smoking and flaring, looked like a comfortable [[Home|home]].
+The [[Night|night]] was as dark by this [[Time|time]] as it would be until morning; and
+what light we had, seemed to come more from the [[River|river]] than the sky, as
+the oars in their dipping struck at a few reflected [[Stars|stars]].
 
-At this dismal time we were evidently all possessed by the idea that we
+At this dismal [[Time|time]] we were evidently all possessed by the idea that we
 were followed. As the tide made, it flapped heavily at irregular
 intervals against the shore; and whenever such a sound came, one or
 other of us was sure to start, and look in that direction. Here and
@@ -251,32 +251,32 @@ there, the set of the current had worn down the bank into a little
 creek, and we were all suspicious of such places, and eyed them
 nervously. Sometimes, “What was that ripple?” one of us would say in a
 low voice. Or another, “Is that a boat yonder?” And afterwards we would
-fall into a dead silence, and I would sit impatiently thinking with
+fall into a dead [[Silence|silence]], and I would sit impatiently thinking with
 what an unusual amount of noise the oars worked in the thowels.
 
 At length we descried a light and a roof, and presently afterwards ran
 alongside a little causeway made of stones that had been picked up hard
 by. Leaving the rest in the boat, I stepped ashore, and found the light
-to be in a window of a public-house. It was a dirty place enough, and I
+to be in a [[Window|window]] of a public-[[house]]. It was a dirty place enough, and I
 dare say not unknown to smuggling adventurers; but there was a good
-fire in the kitchen, and there were eggs and bacon to eat, and various
-liquors to drink. Also, there were two double-bedded rooms,—“such as
-they were,” the landlord said. No other company was in the house than
+[[Fire|fire]] in the kitchen, and there were eggs and bacon to eat, and various
+liquors to drink. Also, there were two [[Double|double]]-bedded rooms,—“such as
+they were,” the landlord said. No other company was in the [[house]] than
 the landlord, his wife, and a grizzled male creature, the “Jack” of the
 little causeway, who was as slimy and smeary as if he had been
-low-water mark too.
+low-[[Water|water]] mark too.
 
 With this assistant, I went down to the boat again, and we all came
 ashore, and brought out the oars, and rudder and boat-hook, and all
-else, and hauled her up for the night. We made a very good meal by the
-kitchen fire, and then apportioned the bedrooms: Herbert and Startop
+else, and hauled her up for the [[Night|night]]. We made a very good meal by the
+kitchen [[Fire|fire]], and then apportioned the bedrooms: Herbert and Startop
 were to occupy one; I and our charge the other. We found the air as
 carefully excluded from both, as if air were fatal to life; and there
 were more dirty clothes and bandboxes under the beds than I should have
-thought the family possessed. But we considered ourselves well off,
+thought the family possessed. But we considered ourselves [[Well|well]] off,
 notwithstanding, for a more solitary place we could not have found.
 
-While we were comforting ourselves by the fire after our meal, the
+While we were comforting ourselves by the [[Fire|fire]] after our meal, the
 Jack—who was sitting in a corner, and who had a bloated pair of shoes
 on, which he had exhibited while we were eating our eggs and bacon, as
 interesting relics that he had taken a few days ago from the feet of a
@@ -329,7 +329,7 @@ Jack?” asked the landlord, vacillating weakly.
 Swallered ’em. Sowed ’em, to come up small salad. Done with their
 buttons!”
 
-“Don’t be cheeky, Jack,” remonstrated the landlord, in a melancholy and
+“Don’t be cheeky, Jack,” remonstrated the landlord, in a [[Melancholy|melancholy]] and
 pathetic way.
 
 “A Custom ’Us officer knows what to do with his Buttons,” said the
@@ -337,40 +337,40 @@ Jack, repeating the obnoxious word with the greatest contempt, “when
 they comes betwixt him and his own light. A four and two sitters don’t
 go hanging and hovering, up with one tide and down with another, and
 both with and against another, without there being Custom ’Us at the
-bottom of it.” Saying which he went out in disdain; and the landlord,
+[[Bottom|bottom]] of it.” Saying which he went out in disdain; and the landlord,
 having no one to reply upon, found it impracticable to pursue the
 subject.
 
-This dialogue made us all uneasy, and me very uneasy. The dismal wind
-was muttering round the house, the tide was flapping at the shore, and
+This dialogue made us all uneasy, and me very uneasy. The dismal [[Wind|wind]]
+was muttering round the [[house]], the tide was flapping at the shore, and
 I had a feeling that we were caged and threatened. A four-oared galley
 hovering about in so unusual a way as to attract this notice was an
 ugly circumstance that I could not get rid of. When I had induced
 Provis to go up to bed, I went outside with my two companions (Startop
-by this time knew the state of the case), and held another council.
-Whether we should remain at the house until near the steamer’s time,
+by this [[Time|time]] knew the state of the case), and held another council.
+Whether we should remain at the [[house]] until near the steamer’s [[Time|time]],
 which would be about one in the afternoon, or whether we should put off
 early in the morning, was the question we discussed. On the whole we
 deemed it the better course to lie where we were, until within an hour
-or so of the steamer’s time, and then to get out in her track, and
+or so of the steamer’s [[Time|time]], and then to get out in her track, and
 drift easily with the tide. Having settled to do this, we returned into
-the house and went to bed.
+the [[house]] and went to bed.
 
-I lay down with the greater part of my clothes on, and slept well for a
-few hours. When I awoke, the wind had risen, and the sign of the house
-(the Ship) was creaking and banging about, with noises that startled
+I lay down with the greater part of my clothes on, and slept [[Well|well]] for a
+few hours. When I awoke, the [[Wind|wind]] had risen, and the sign of the [[house]]
+(the [[Ship]]) was creaking and banging about, with noises that startled
 me. Rising softly, for my charge lay fast asleep, I looked out of the
-window. It commanded the causeway where we had hauled up our boat, and,
-as my eyes adapted themselves to the light of the clouded moon, I saw
-two men looking into her. They passed by under the window, looking at
+[[Window|window]]. It commanded the causeway where we had hauled up our boat, and,
+as my eyes adapted themselves to the light of the clouded [[Moon|moon]], I saw
+two men looking into her. They passed by under the [[Window|window]], looking at
 nothing else, and they did not go down to the landing-place which I
 could discern to be empty, but struck across the marsh in the direction
 of the Nore.
 
 My first impulse was to call up Herbert, and show him the two men going
 away. But reflecting, before I got into his room, which was at the back
-of the house and adjoined mine, that he and Startop had had a harder
-day than I, and were fatigued, I forbore. Going back to my window, I
+of the [[house]] and adjoined mine, that he and Startop had had a harder
+day than I, and were fatigued, I forbore. Going back to my [[Window|window]], I
 could see the two men moving over the marsh. In that light, however, I
 soon lost them, and, feeling very cold, lay down to think of the
 matter, and fell asleep again.
@@ -378,12 +378,12 @@ matter, and fell asleep again.
 We were up early. As we walked to and fro, all four together, before
 breakfast, I deemed it right to recount what I had seen. Again our
 charge was the least anxious of the party. It was very likely that the
-men belonged to the Custom House, he said quietly, and that they had no
+men belonged to the Custom [[house|House]], he said quietly, and that they had no
 thought of us. I tried to persuade myself that it was so,—as, indeed,
 it might easily be. However, I proposed that he and I should walk away
 together to a distant point we could see, and that the boat should take
 us aboard there, or as near there as might prove feasible, at about
-noon. This being considered a good precaution, soon after breakfast he
+[[Noon|noon]]. This being considered a good precaution, soon after breakfast he
 and I set forth, without saying anything at the tavern.
 
 He smoked his pipe as we went along, and sometimes stopped to clap me
@@ -391,29 +391,29 @@ on the shoulder. One would have supposed that it was I who was in
 danger, not he, and that he was reassuring me. We spoke very little. As
 we approached the point, I begged him to remain in a sheltered place,
 while I went on to reconnoitre; for it was towards it that the men had
-passed in the night. He complied, and I went on alone. There was no
+passed in the [[Night|night]]. He complied, and I went on [[Alone|alone]]. There was no
 boat off the point, nor any boat drawn up anywhere near it, nor were
 there any signs of the men having embarked there. But, to be sure, the
-tide was high, and there might have been some footprints under water.
+tide was high, and there might have been some footprints under [[Water|water]].
 
 When he looked out from his shelter in the distance, and saw that I
 waved my hat to him to come up, he rejoined me, and there we waited;
 sometimes lying on the bank, wrapped in our coats, and sometimes moving
 about to warm ourselves, until we saw our boat coming round. We got
 aboard easily, and rowed out into the track of the steamer. By that
-time it wanted but ten minutes of one o’clock, and we began to look out
+[[Time|time]] it wanted but ten minutes of one o’[[Clock|clock]], and we began to look out
 for her smoke.
 
 But, it was half-past one before we saw her smoke, and soon afterwards
 we saw behind it the smoke of another steamer. As they were coming on
-at full speed, we got the two bags ready, and took that opportunity of
+at full [[Speed|speed]], we got the two bags ready, and took that opportunity of
 saying good-bye to Herbert and Startop. We had all shaken hands
 cordially, and neither Herbert’s eyes nor mine were quite dry, when I
 saw a four-oared galley shoot out from under the bank but a little way
 ahead of us, and row out into the same track.
 
 A stretch of shore had been as yet between us and the steamer’s smoke,
-by reason of the bend and wind of the river; but now she was visible,
+by reason of the bend and [[Wind|wind]] of the [[River|river]]; but now she was visible,
 coming head on. I called to Herbert and Startop to keep before the
 tide, that she might see us lying by for her, and I adjured Provis to
 sit quite still, wrapped in his cloak. He answered cheerily, “Trust to
@@ -430,11 +430,11 @@ either boat.
 Startop could make out, after a few minutes, which steamer was first,
 and gave me the word “Hamburg,” in a low voice, as we sat face to face.
 She was nearing us very fast, and the beating of her peddles grew
-louder and louder. I felt as if her shadow were absolutely upon us,
+louder and louder. I felt as if her [[Shadow|shadow]] were absolutely upon us,
 when the galley hailed us. I answered.
 
 “You have a returned Transport there,” said the man who held the lines.
-“That’s the man, wrapped in the cloak. His name is Abel Magwitch,
+“That’s the man, wrapped in the cloak. His name is [[Abel Magwitch]],
 otherwise Provis. I apprehend that man, and call upon him to surrender,
 and you to assist.”
 
@@ -454,7 +454,7 @@ shrinking sitter in the galley. Still in the same moment, I saw that
 the face disclosed, was the face of the other convict of long ago.
 Still, in the same moment, I saw the face tilt backward with a white
 terror on it that I shall never forget, and heard a great cry on board
-the steamer, and a loud splash in the water, and felt the boat sink
+the steamer, and a loud splash in the [[Water|water]], and felt the boat sink
 from under me.
 
 It was but for an instant that I seemed to struggle with a thousand
@@ -464,21 +464,21 @@ but our boat was gone, and the two convicts were gone.
 
 What with the cries aboard the steamer, and the furious blowing off of
 her steam, and her driving on, and our driving on, I could not at first
-distinguish sky from water or shore from shore; but the crew of the
-galley righted her with great speed, and, pulling certain swift strong
+distinguish sky from [[Water|water]] or shore from shore; but the crew of the
+galley righted her with great [[Speed|speed]], and, pulling certain swift strong
 strokes ahead, lay upon their oars, every man looking silently and
-eagerly at the water astern. Presently a dark object was seen in it,
+eagerly at the [[Water|water]] astern. Presently a dark object was seen in it,
 bearing towards us on the tide. No man spoke, but the steersman held up
-his hand, and all softly backed water, and kept the boat straight and
+his hand, and all softly backed [[Water|water]], and kept the boat straight and
 true before it. As it came nearer, I saw it to be Magwitch, swimming,
 but not swimming freely. He was taken on board, and instantly manacled
 at the wrists and ankles.
 
-The galley was kept steady, and the silent, eager look-out at the water
+The galley was kept steady, and the silent, eager look-out at the [[Water|water]]
 was resumed. But, the Rotterdam steamer now came up, and apparently not
-understanding what had happened, came on at speed. By the time she had
+understanding what had happened, came on at [[Speed|speed]]. By the [[Time|time]] she had
 been hailed and stopped, both steamers were drifting away from us, and
-we were rising and falling in a troubled wake of water. The look-out
+we were rising and falling in a troubled wake of [[Water|water]]. The look-out
 was kept, long after all was still again and the two steamers were
 gone; but everybody knew that it was hopeless now.
 
@@ -494,37 +494,37 @@ his chest (which rendered his breathing extremely painful) he thought
 he had received against the side of the galley. He added that he did
 not pretend to say what he might or might not have done to Compeyson,
 but that, in the moment of his laying his hand on his cloak to identify
-him, that villain had staggered up and staggered back, and they had
+him, that [[Villain|villain]] had staggered up and staggered back, and they had
 both gone overboard together, when the sudden wrenching of him
 (Magwitch) out of our boat, and the endeavour of his captor to keep him
 in it, had capsized us. He told me in a whisper that they had gone down
 fiercely locked in each other’s arms, and that there had been a
-struggle under water, and that he had disengaged himself, struck out,
+struggle under [[Water|water]], and that he had disengaged himself, struck out,
 and swum away.
 
-I never had any reason to doubt the exact truth of what he thus told
+I never had any reason to [[Doubt|doubt]] the exact [[Truth|truth]] of what he thus told
 me. The officer who steered the galley gave the same account of their
 going overboard.
 
 When I asked this officer’s permission to change the prisoner’s wet
 clothes by purchasing any spare garments I could get at the
-public-house, he gave it readily: merely observing that he must take
+public-[[house]], he gave it readily: merely observing that he must take
 charge of everything his prisoner had about him. So the pocket-book
 which had once been in my hands passed into the officer’s. He further
-gave me leave to accompany the prisoner to London; but declined to
+gave me leave to accompany the prisoner to [[London]]; but declined to
 accord that grace to my two friends.
 
-The Jack at the Ship was instructed where the drowned man had gone
-down, and undertook to search for the body in the places where it was
+The Jack at the [[Ship]] was instructed where the drowned man had gone
+down, and undertook to search for the [[Body|body]] in the places where it was
 likeliest to come ashore. His interest in its recovery seemed to me to
 be much heightened when he heard that it had stockings on. Probably, it
 took about a dozen drowned men to fit him out completely; and that may
 have been the reason why the different articles of his dress were in
-various stages of decay.
+various stages of [[Decay|decay]].
 
-We remained at the public-house until the tide turned, and then
+We remained at the public-[[house]] until the tide turned, and then
 Magwitch was carried down to the galley and put on board. Herbert and
-Startop were to get to London by land, as soon as they could. We had a
+Startop were to get to [[London]] by land, as soon as they could. We had a
 doleful parting, and when I took my place by Magwitch’s side, I felt
 that that was my place henceforth while he lived.
 
@@ -535,21 +535,21 @@ gratefully, and generously, towards me with great constancy through a
 series of years. I only saw in him a much better man than I had been to
 Joe.
 
-His breathing became more difficult and painful as the night drew on,
+His breathing became more difficult and painful as the [[Night|night]] drew on,
 and often he could not repress a groan. I tried to rest him on the arm
 I could use, in any easy position; but it was dreadful to think that I
 could not be sorry at heart for his being badly hurt, since it was
 unquestionably best that he should die. That there were, still living,
 people enough who were able and willing to identify him, I could not
-doubt. That he would be leniently treated, I could not hope. He who had
+[[Doubt|doubt]]. That he would be leniently treated, I could not [[Hope|hope]]. He who had
 been presented in the worst light at his trial, who had since broken
-prison and had been tried again, who had returned from transportation
-under a life sentence, and who had occasioned the death of the man who
+[[Prison|prison]] and had been tried again, who had returned from transportation
+under a life sentence, and who had occasioned the [[Death|death]] of the man who
 was the cause of his arrest.
 
 As we returned towards the setting sun we had yesterday left behind us,
 and as the stream of our hopes seemed all running back, I told him how
-grieved I was to think that he had come home for my sake.
+grieved I was to think that he had come [[Home|home]] for my sake.
 
 “Dear boy,” he answered, “I’m quite content to take my chance. I’ve
 seen my boy, and he can be a gentleman without me.”
@@ -557,7 +557,7 @@ seen my boy, and he can be a gentleman without me.”
 No. I had thought about that, while we had been there side by side. No.
 Apart from any inclinations of my own, I understood Wemmick’s hint now.
 I foresaw that, being convicted, his possessions would be forfeited to
-the Crown.
+the [[Crown]].
 
 “Lookee here, dear boy,” said he “It’s best as a gentleman should not
 be knowed to belong to me now. Only come to see me as if you come by
@@ -568,7 +568,7 @@ the last o’ many times, and I don’t ask no more.”
 near you. Please God, I will be as true to you as you have been to me!”
 
 I felt his hand tremble as it held mine, and he turned his face away as
-he lay in the bottom of the boat, and I heard that old sound in his
+he lay in the [[Bottom|bottom]] of the boat, and I heard that old sound in his
 throat,—softened now, like all the rest of him. It was a good thing
 that he had touched this point, for it put into my mind what I might
 not otherwise have thought of until too late,—that he need never know

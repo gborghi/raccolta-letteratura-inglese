@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Unmentionable Man (part 2)"
+title: "[[MrPond]] — The Unmentionable Man (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -24,13 +24,13 @@ conversation, in a café, was much more vigorous and vigilant, and
 
 belonged to a younger world.  But he also was very serious; a dark,
 
-strenuous young man who was a Government official actually
+strenuous young man who was a [[government|Government]] official actually
 
-believing in the Government; or at least in the principles of the
+believing in the [[government|Government]]; or at least in the principles of the
 
-Government; and he was the sort of man who thinks first about
+[[government|Government]]; and he was the sort of man who thinks first about
 
-principles.  He denounced the strike and even the trade union; not
+principles.  He denounced the strike and even the trade [[Union|union]]; not
 
 because he was a snob, for he lived as simply as a workman; but
 
@@ -38,15 +38,15 @@ because he really did believe in the old individualistic theory of
 
 what he called free contract.  The type is almost unknown in
 
-England; the theory is more common in America.  But nobody who
+England; the theory is more common in [[America]].  But nobody who
 
 looked at the baldish, rather corrugated brow that bulged between
 
 the streaks of black hair, and the anxious, though angry, eyes,
 
-could doubt that he was in fanatical good faith.  His name was
+could [[Doubt|doubt]] that he was in fanatical good [[Faith|faith]].  His name was
 
-Marcus, and he held a minor Government office, in which he could
+Marcus, and he held a minor [[government|Government]] office, in which he could
 
 survey with satisfaction the principles of the Republic, without
 
@@ -74,21 +74,21 @@ some tangle of talk and laughter; they seemed to have stopped by
 
 the table merely for the sake of the talk.  The next moment a
 
-string of gutter-children invaded his solitude and received the
+string of gutter-children invaded his [[Solitude|solitude]] and received the
 
 pieces of sugar not used for his coffee; then a hulking and rather
 
 sulky-looking labourer came up and talked to him, for a much longer
 
-time than any of the others.  Strangest of all, a lady, of the
+[[Time|time]] than any of the others.  Strangest of all, a lady, of the
 
-stiff aristocratic sort seldom seen outside the house in such
+stiff aristocratic sort seldom seen outside the [[house]] in such
 
 countries, actually got out of a carriage and stood staring at the
 
 strange gentleman; and then got into the carriage again.  These
 
-things alone might have led Pond to look at the person in question;
+things [[Alone|alone]] might have led Pond to look at the person in question;
 
 but in fact, for some reason or other, he had looked at him with
 
@@ -106,17 +106,17 @@ a ring with a stone coloured like a kingfisher, the only spot of
 
 luxury on what was otherwise a rather threadbare appearance; and in
 
-the grey shadow of the white hat his eyes shone as blue as the
+the grey [[Shadow|shadow]] of the white hat his eyes shone as blue as the
 
 stone.  There was nothing in his position that claimed prominence;
 
 he did not sit in the front but up against the wall of the café,
 
-just under a creeper and a fire-escape.  Despite the little crowds
+just under a creeper and a [[Fire|fire]]-escape.  Despite the little crowds
 
 that clustered round him, he had in the intervals an odd air of
 
-preferring to be alone.  Pond made many inquiries, then and
+preferring to be [[Alone|alone]].  Pond made many inquiries, then and
 
 afterwards, about his name; but learnt nothing except that he was
 
@@ -136,7 +136,7 @@ name, did not very clearly emerge.
 
 "Everybody knows him and nobody knows who he is," replied Marcus in
 
-a rather grating voice.  "But I'm jolly well going to find out."
+a rather grating voice.  "But I'm jolly [[Well|well]] going to find out."
 
 
 
@@ -148,7 +148,7 @@ paper, were distributing it among a considerable number of
 
 purchasers in the crowd outside the café; a black block thus
 
-rapidly diversified with blots of blood-red colour.  Some, indeed,
+rapidly diversified with blots of [[Blood|blood]]-red colour.  Some, indeed,
 
 looked at the paper only to jeer at it; some with a colder
 
@@ -162,7 +162,7 @@ ring: M. Louis.
 
 
 
-"Well," said Marcus, with a darkening brow.  "Let them.  It's their
+"[[Well]]," said Marcus, with a darkening brow.  "Let them.  It's their
 
 last chance, I suppose."
 
@@ -194,7 +194,7 @@ and that's probably the last issue."
 
 
 
-M. Marcus proved himself a true prophet, so far as concerned the
+M. Marcus proved himself a true [[Prophet|prophet]], so far as concerned the
 
 general situation next morning.
 
@@ -208,7 +208,7 @@ seized all copies of it everywhere; and the black-clad bourgeoisie
 
 sitting outside the café were now blameless and unspotted with any
 
-hues of blood; save in one corner under the fire-escape and the
+hues of [[Blood|blood]]; save in one corner under the [[Fire|fire]]-escape and the
 
 creeper, where M. Louis was reading his copy of the sanguinary
 

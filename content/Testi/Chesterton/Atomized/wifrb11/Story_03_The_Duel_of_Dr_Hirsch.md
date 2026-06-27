@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Duel of Dr Hirsch"
+title: "[[wifrb11]] — The Duel of Dr Hirsch"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -32,9 +32,9 @@ the great Dr Hirsch, scientist, publicist and moralist.
      M. Brun had become prominent by his proposal that the common
 expression "Adieu" should be obliterated from all the French classics,
 and a slight fine imposed for its use in private life.  "Then," he said,
-"the very name of your imagined God will have echoed for the last time
+"the very name of your imagined God will have echoed for the last [[Time|time]]
 in the ear of man."  M. Armagnac specialized rather in a resistance
-to militarism, and wished the chorus of the Marseillaise altered from
+to militarism, and wished the [[Chorus|chorus]] of the Marseillaise altered from
 "Aux armes, citoyens" to "Aux greves, citoyens".  But his antimilitarism
 was of a peculiar and Gallic sort.  An eminent and very wealthy
 English Quaker, who had come to see him to arrange for the disarmament
@@ -42,49 +42,49 @@ of the whole planet, was rather distressed by Armagnac's proposal
 that (by way of beginning) the soldiers should shoot their officers.
 
      And indeed it was in this regard that the two men differed most
-from their leader and father in philosophy.  Dr Hirsch,
+from their leader and father in [[philosophy]].  Dr Hirsch,
 though born in France and covered with the most triumphant favours
-of French education, was temperamentally of another type--mild, dreamy,
+of French [[Education|education]], was temperamentally of another type--mild, dreamy,
 humane; and, despite his sceptical system, not devoid of transcendentalism. 
 He was, in short, more like a German than a Frenchman; and much as they
 admired him, something in the subconsciousness of these Gauls was
 irritated at his pleading for peace in so peaceful a manner. 
 To their party throughout Europe, however, Paul Hirsch was
 a saint of science.  His large and daring cosmic theories
-advertised his austere life and innocent, if somewhat frigid, morality;
+advertised his austere life and [[Innocent|innocent]], if somewhat frigid, [[morality]];
 he held something of the position of Darwin doubled with the position
-of Tolstoy.  But he was neither an anarchist nor an antipatriot;
+of [[tolstoy|Tolstoy]].  But he was neither an anarchist nor an antipatriot;
 his views on disarmament were moderate and evolutionary--
-the Republican Government put considerable confidence in him
+the Republican [[government|Government]] put considerable confidence in him
 as to various chemical improvements.  He had lately even discovered
-a noiseless explosive, the secret of which the Government was
+a noiseless explosive, the secret of which the [[government|Government]] was
 carefully guarding.
 
-     His house stood in a handsome street near the Elysee--
-a street which in that strong summer seemed almost as full of foliage
+     His [[house]] stood in a handsome street near the Elysee--
+a street which in that strong [[Summer|summer]] seemed almost as full of foliage
 as the park itself; a row of chestnuts shattered the sunshine,
 interrupted only in one place where a large cafe ran out into the street. 
 Almost opposite to this were the white and green blinds of
-the great scientist's house, an iron balcony, also painted green,
+the great scientist's [[house]], an iron balcony, also painted green,
 running along in front of the first-floor windows.  Beneath this was
-the entrance into a kind of court, gay with shrubs and tiles,
+the entrance into a kind of [[Court|court]], gay with shrubs and tiles,
 into which the two Frenchmen passed in animated talk.
 
      The door was opened to them by the doctor's old servant, Simon,
-who might very well have passed for a doctor himself, having a strict
+who might very [[Well|well]] have passed for a doctor himself, having a strict
 suit of black, spectacles, grey hair, and a confidential manner. 
 In fact, he was a far more presentable man of science than his master,
 Dr Hirsch, who was a forked radish of a fellow, with just enough
-bulb of a head to make his body insignificant.  With all the gravity
+bulb of a head to make his [[Body|body]] insignificant.  With all the gravity
 of a great physician handling a prescription, Simon handed a letter
 to M. Armagnac.  That gentleman ripped it up with a racial impatience,
 and rapidly read the following:
 
-     I cannot come down to speak to you.  There is a man in this house
+     I cannot come down to speak to you.  There is a man in this [[house]]
 whom I refuse to meet.  He is a Chauvinist officer, Dubosc. 
 He is sitting on the stairs.  He has been kicking the furniture about
 in all the other rooms; I have locked myself in my study,
-opposite that cafe.  If you love me, go over to the cafe and wait
+opposite that cafe.  If you [[Love|love]] me, go over to the cafe and wait
 at one of the tables outside.  I will try to send him over to you. 
 I want you to answer him and deal with him.  I cannot meet him myself. 
 I cannot: I will not.
@@ -99,7 +99,7 @@ I cannot: I will not.
 read it, and looked at M. Armagnac.  Then both betook themselves briskly
 to one of the little tables under the chestnuts opposite,
 where they procured two tall glasses of horrible green absinthe,
-which they could drink apparently in any weather and at any time. 
+which they could drink apparently in any weather and at any [[Time|time]]. 
 Otherwise the cafe seemed empty, except for one soldier drinking coffee
 at one table, and at another a large man drinking a small syrup and
 a priest drinking nothing.
@@ -107,11 +107,11 @@ a priest drinking nothing.
      Maurice Brun cleared his throat and said:  "Of course we must help
 the master in every way, but--"
 
-     There was an abrupt silence, and Armagnac said:  "He may have
+     There was an abrupt [[Silence|silence]], and Armagnac said:  "He may have
 excellent reasons for not meeting the man himself, but--"
 
      Before either could complete a sentence, it was evident that
-the invader had been expelled from the house opposite.  The shrubs under
+the invader had been expelled from the [[house]] opposite.  The shrubs under
 the archway swayed and burst apart, as that unwelcome guest was
 shot out of them like a cannon-ball.
 
@@ -140,21 +140,21 @@ but ever-clustering crowd.  With the prompt French instinct for
 the politics of the street, the man with the black moustache had already
 run across to a corner of the cafe, sprung on one of the tables,
 and seizing a branch of chestnut to steady himself, shouted
-as Camille Desmoulins once shouted when he scattered the oak-leaves
+as Camille Desmoulins once shouted when he scattered the oak-[[Leaves|leaves]]
 among the populace.
 
      "Frenchmen!" he volleyed; "I cannot speak!  God help me, that is why
 I am speaking!  The fellows in their filthy parliaments who learn
 to speak also learn to be silent--silent as that spy cowering
-in the house opposite!  Silent as he is when I beat on his bedroom door! 
+in the [[house]] opposite!  Silent as he is when I beat on his bedroom door! 
 Silent as he is now, though he hears my voice across this street
 and shakes where he sits!  Oh, they can be silent eloquently--
-the politicians!  But the time has come when we that cannot speak
+the politicians!  But the [[Time|time]] has come when we that cannot speak
 must speak.  You are betrayed to the Prussians.  Betrayed at this moment. 
 Betrayed by that man.  I am Jules Dubosc, Colonel of Artillery, Belfort. 
 We caught a German spy in the Vosges yesterday, and a paper was found
 on him--a paper I hold in my hand.  Oh, they tried to hush it up;
-but I took it direct to the man who wrote it--the man in that house! 
+but I took it direct to the man who wrote it--the man in that [[house]]! 
 It is in his hand.  It is signed with his initials.  It is a direction
 for finding the secret of this new Noiseless Powder.  Hirsch invented it;
 Hirsch wrote this note about it.  This note is in German, and was found
@@ -432,66 +432,66 @@ But this thing's elaborately simple, like a penny dreadful:
 as if it were meant to be seen through at once."
 
      Almost before they could take it in a short figure in French uniform
-had walked up to their table like the wind, and sat down
+had walked up to their table like the [[Wind|wind]], and sat down
 with a sort of thump.
 
      "I have extraordinary news," said the Duc de Valognes. 
 "I have just come from this Colonel of ours.  He is packing up
 to leave the country, and he asks us to make his excuses sur le terrain."
 
-     "What?" cried Flambeau, with an incredulity quite frightful--
+     "What?" cried [[Flambeau]], with an [[Incredulity|incredulity]] quite frightful--
 "apologize?"
 
      "Yes," said the Duke gruffly; "then and there--before everybody--
 when the swords are drawn.  And you and I have to do it while
 he is leaving the country."
 
-     "But what can this mean?" cried Flambeau.  "He can't be afraid of
+     "But what can this mean?" cried [[Flambeau]].  "He can't be afraid of
 that little Hirsch!  Confound it!" he cried, in a kind of rational rage;
 "nobody could be afraid of Hirsch!"
 
      "I believe it's some plot!" snapped Valognes--"some plot of
 the Jews and Freemasons.  It's meant to work up glory for Hirsch..."
 
-     The face of Father Brown was commonplace, but curiously contented;
-it could shine with ignorance as well as with knowledge. 
+     The face of [[Father Brown]] was commonplace, but curiously contented;
+it could shine with ignorance as [[Well|well]] as with knowledge. 
 But there was always one flash when the foolish mask fell,
-and the wise mask fitted itself in its place; and Flambeau,
+and the wise mask fitted itself in its place; and [[Flambeau]],
 who knew his friend, knew that his friend had suddenly understood. 
 Brown said nothing, but finished his plate of fish.
 
-     "Where did you last see our precious Colonel?" asked Flambeau,
+     "Where did you last see our precious Colonel?" asked [[Flambeau]],
 irritably.
 
      "He's round at the Hotel Saint Louis by the Elysee,
 where we drove with him.  He's packing up, I tell you."
 
-     "Will he be there still, do you think?" asked Flambeau,
+     "Will he be there still, do you think?" asked [[Flambeau]],
 frowning at the table.
 
      "I don't think he can get away yet," replied the Duke;
-"he's packing to go a long journey..."
+"he's packing to go a long [[Journey|journey]]..."
 
-     "No," said Father Brown, quite simply, but suddenly standing up,
-"for a very short journey.  For one of the shortest, in fact. 
-But we may still be in time to catch him if we go there in a motor-cab."
+     "No," said [[Father Brown]], quite simply, but suddenly standing up,
+"for a very short [[Journey|journey]].  For one of the shortest, in fact. 
+But we may still be in [[Time|time]] to catch him if we go there in a motor-cab."
 
      Nothing more could be got out of him until the cab swept
 round the corner by the Hotel Saint Louis, where they got out,
-and he led the party up a side lane already in deep shadow with
+and he led the party up a side lane already in deep [[Shadow|shadow]] with
 the growing dusk.  Once, when the Duke impatiently asked whether
 Hirsch was guilty of treason or not, he answered rather absently: 
-"No; only of ambition--like Caesar." Then he somewhat inconsequently added: 
+"No; only of [[Ambition|ambition]]--like Caesar." Then he somewhat inconsequently added: 
 "He lives a very lonely life; he has had to do everything for himself."
 
-     "Well, if he's ambitious, he ought to be satisfied now,"
-said Flambeau rather bitterly.  "All Paris will cheer him
+     "[[Well]], if he's ambitious, he ought to be satisfied now,"
+said [[Flambeau]] rather bitterly.  "All [[Paris]] will cheer him
 now our cursed Colonel has turned tail."
 
-     "Don't talk so loud," said Father Brown, lowering his voice,
+     "Don't talk so loud," said [[Father Brown]], lowering his voice,
 "your cursed Colonel is just in front."
 
-     The other two started and shrank farther back into the shadow
+     The other two started and shrank farther back into the [[Shadow|shadow]]
 of the wall, for the sturdy figure of their runaway principal
 could indeed be seen shuffling along in the twilight in front,
 a bag in each hand.  He looked much the same as when they first saw him,
@@ -504,25 +504,25 @@ seem to be at the back of things, and look like the wrong side
 of the stage scenery.  A colourless, continuous wall ran down
 one flank of it, interrupted at intervals by dull-hued and
 dirt-stained doors, all shut fast and featureless save for
-the chalk scribbles of some passing gamin.  The tops of trees,
+the [[chalk]] scribbles of some passing gamin.  The tops of trees,
 mostly rather depressing evergreens, showed at intervals over
 the top of the wall, and beyond them in the grey and purple gloaming
 could be seen the back of some long terrace of tall Parisian houses,
 really comparatively close, but somehow looking as inaccessible
-as a range of marble mountains.  On the other side of the lane ran
+as a range of marble [[Mountains|mountains]].  On the other side of the lane ran
 the high gilt railings of a gloomy park.
 
-     Flambeau was looking round him in rather a weird way. 
+     [[Flambeau]] was looking round him in rather a weird way. 
 "Do you know," he said, "there is something about this place that--"
 
      "Hullo!" called out the Duke sharply; "that fellow's disappeared. 
 Vanished, like a blasted fairy!"
 
      "He has a key," explained their clerical friend.  "He's only gone
-into one of these garden doors," and as he spoke they heard one of
+into one of these [[Garden|garden]] doors," and as he spoke they heard one of
 the dull wooden doors close again with a click in front of them.
 
-     Flambeau strode up to the door thus shut almost in his face,
+     [[Flambeau]] strode up to the door thus shut almost in his face,
 and stood in front of it for a moment, biting his black moustache
 in a fury of curiosity.  Then he threw up his long arms and
 swung himself aloft like a monkey and stood on the top of the wall,
@@ -532,69 +532,69 @@ his enormous figure dark against the purple sky, like the dark tree-tops.
 more elaborate than we thought," he said; "but I suppose he is
 escaping from France."
 
-     "He is escaping from everywhere," answered Father Brown.
+     "He is escaping from everywhere," answered [[Father Brown]].
 
      Valognes's eyes brightened, but his voice sank.  "Do you mean
-suicide?" he asked.
+[[suicide]]?" he asked.
 
-     "You will not find his body," replied the other.
+     "You will not find his [[Body|body]]," replied the other.
 
-     A kind of cry came from Flambeau on the wall above. 
+     A kind of cry came from [[Flambeau]] on the wall above. 
 "My God," he exclaimed in French, "I know what this place is now!
 Why, it's the back of the street where old Hirsch lives.  I thought
-I could recognize the back of a house as well as the back of a man."
+I could recognize the back of a [[house]] as [[Well|well]] as the back of a man."
 
      "And Dubosc's gone in there!" cried the Duke, smiting his hip. 
 "Why, they'll meet after all!" And with sudden Gallic vivacity
-he hopped up on the wall beside Flambeau and sat there positively
-kicking his legs with excitement.  The priest alone remained below,
+he hopped up on the wall beside [[Flambeau]] and sat there positively
+kicking his legs with excitement.  The priest [[Alone|alone]] remained below,
 leaning against the wall, with his back to the whole theatre of events,
 and looking wistfully across to the park palings and the twinkling,
 twilit trees.
 
-     The Duke, however stimulated, had the instincts of an aristocrat,
-and desired rather to stare at the house than to spy on it;
-but Flambeau, who had the instincts of a burglar (and a detective),
+     The Duke, however stimulated, had the instincts of an [[aristocrat]],
+and desired rather to stare at the [[house]] than to spy on it;
+but [[Flambeau]], who had the instincts of a burglar (and a [[Detective|detective]]),
 had already swung himself from the wall into the fork of a straggling tree
-from which he could crawl quite close to the only illuminated window
-in the back of the high dark house.  A red blind had been pulled down
+from which he could crawl quite close to the only illuminated [[Window|window]]
+in the back of the high dark [[house]].  A red blind had been pulled down
 over the light, but pulled crookedly, so that it gaped on one side,
 and by risking his neck along a branch that looked as treacherous
-as a twig, Flambeau could just see Colonel Dubosc walking about
-in a brilliantly-lighted and luxurious bedroom.  But close as Flambeau was
-to the house, he heard the words of his colleagues by the wall,
+as a twig, [[Flambeau]] could just see Colonel Dubosc walking about
+in a brilliantly-lighted and luxurious bedroom.  But close as [[Flambeau]] was
+to the [[house]], he heard the words of his colleagues by the wall,
 and repeated them in a low voice.
 
      "Yes, they will meet now after all!"
 
-     "They will never meet," said Father Brown.  "Hirsch was right
+     "They will never meet," said [[Father Brown]].  "Hirsch was right
 when he said that in such an affair the principals must not meet. 
 Have you read a queer psychological story by Henry James,
 of two persons who so perpetually missed meeting each other by accident
 that they began to feel quite frightened of each other, and to think
 it was fate?  This is something of the kind, but more curious."
 
-     "There are people in Paris who will cure them of such morbid fancies,"
-said Valognes vindictively.  "They will jolly well have to meet
+     "There are people in [[Paris]] who will cure them of such morbid fancies,"
+said Valognes vindictively.  "They will jolly [[Well|well]] have to meet
 if we capture them and force them to fight."
 
      "They will not meet on the Day of Judgement," said the priest. 
-"If God Almighty held the truncheon of the lists, if St Michael
-blew the trumpet for the swords to cross--even then, if one of them
+"If God Almighty held the truncheon of the lists, if St [[Michael]]
+blew the trumpet for the swords to [[Cross|cross]]--even then, if one of them
 stood ready, the other would not come."
 
      "Oh, what does all this mysticism mean?" cried the Duc de Valognes,
 impatiently; "why on earth shouldn't they meet like other people?"
 
-     "They are the opposite of each other," said Father Brown,
+     "They are the opposite of each other," said [[Father Brown]],
 with a queer kind of smile.  "They contradict each other. 
 They cancel out, so to speak."
 
      He continued to gaze at the darkening trees opposite, but Valognes
-turned his head sharply at a suppressed exclamation from Flambeau. 
+turned his head sharply at a suppressed exclamation from [[Flambeau]]. 
 That investigator, peering into the lighted room, had just seen
 the Colonel, after a pace or two, proceed to take his coat off. 
-Flambeau's first thought was that this really looked like a fight;
+[[Flambeau]]'s first thought was that this really looked like a fight;
 but he soon dropped the thought for another.  The solidity and
 squareness of Dubosc's chest and shoulders was all a powerful piece
 of padding and came off with his coat.  In his shirt and trousers
@@ -604,10 +604,10 @@ He bent over a basin, dried his dripping hands and face on a towel,
 and turned again so that the strong light fell on his face. 
 His brown complexion had gone, his big black moustache had gone;
 he--was clean-shaven and very pate.  Nothing remained of the Colonel
-but his bright, hawk-like, brown eyes.  Under the wall Father Brown
+but his bright, hawk-like, brown eyes.  Under the wall [[Father Brown]]
 was going on in heavy meditation, as if to himself.
 
-     "It is all just like what I was saying to Flambeau. 
+     "It is all just like what I was saying to [[Flambeau]]. 
 These opposites won't do.  They don't work.  They don't fight. 
 If it's white instead of black, and solid instead of liquid,
 and so on all along the line--then there's something wrong, Monsieur,
@@ -622,16 +622,16 @@ Things made so opposite are things that cannot quarrel.
 Wherever the one sticks out the other sinks in.  Like a face and a mask,
 like a lock and a key..."
 
-     Flambeau was peering into the house with a visage as white as a sheet. 
+     [[Flambeau]] was peering into the [[house]] with a visage as white as a sheet. 
 The occupant of the room was standing with his back to him,
 but in front of a looking-glass, and had already fitted round his face
 a sort of framework of rank red hair, hanging disordered from the head and
 clinging round the jaws and chin while leaving the mocking mouth uncovered. 
 Seen thus in the glass the white face looked like the face of Judas
 laughing horribly and surrounded by capering flames of hell. 
-For a spasm Flambeau saw the fierce, red-brown eyes dancing,
+For a spasm [[Flambeau]] saw the fierce, red-brown eyes dancing,
 then they were covered with a pair of blue spectacles.  Slipping on
-a loose black coat, the figure vanished towards the front of the house. 
+a loose black coat, the figure vanished towards the front of the [[house]]. 
 A few moments later a roar of popular applause from the street beyond
 announced that Dr Hirsch had once more appeared upon the balcony.
 

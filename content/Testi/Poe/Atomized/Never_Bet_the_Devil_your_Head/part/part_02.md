@@ -1,5 +1,5 @@
 ---
-title: "Never Bet the Devil your Head (part 2)"
+title: "[[Never Bet the Devil your Head]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Never-Bet-the-Devil-your-Head-(Poe)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-      Poverty was another vice which the peculiar physical deficiency of
+      [[Poverty]] was another vice which the peculiar physical deficiency of
       Dammit’s mother had entailed upon her son. He was detestably poor, and
-      this was the reason, no doubt, that his expletive expressions about
+      this was the reason, no [[Doubt|doubt]], that his expletive expressions about
       betting, seldom took a pecuniary turn. I will not be bound to say that I
       ever heard him make use of such a figure of speech as “I’ll bet you a
       dollar.” It was usually “I’ll bet you what you please,” or “I’ll bet you
@@ -36,14 +36,14 @@ tags:
       “I’ll bet the Devil my head,” with a pertinacity and exclusiveness of
       devotion that displeased not less than it surprised me. I am always
       displeased by circumstances for which I cannot account. Mysteries force a
-      man to think, and so injure his health. The truth is, there was something
+      man to think, and so injure his health. The [[Truth|truth]] is, there was something
       in the air with which Mr. Dammit was wont to give utterance to his
       offensive expression—something in his manner of enunciation—which
       at first interested, and afterwards made me very uneasy—something
       which, for want of a more definite term at present, I must be permitted to
       call queer; but which Mr. Coleridge would have called mystical, Mr. Kant
       pantheistical, Mr. Carlyle twistical, and Mr. Emerson hyperquizzitistical.
-      I began not to like it at all. Mr. Dammits soul was in a perilous state. I
+      I began not to like it at all. Mr. Dammits [[Soul|soul]] was in a perilous state. I
       resolved to bring all my eloquence into play to save it. I vowed to serve
       him as St. Patrick, in the Irish chronicle, is said to have served the
       toad,—that is to say, “awaken him to a sense of his situation.” I
@@ -66,7 +66,7 @@ tags:
       me if I would hold my tongue. He wished none of my advice. He despised all
       my insinuations. He was old enough to take care of himself. Did I still
       think him baby Dammit? Did I mean to say any thing against his character?
-      Did I intend to insult him? Was I a fool? Was my maternal parent aware, in
+      Did I intend to insult him? Was I a [[Fool|fool]]? Was my maternal parent aware, in
       a word, of my absence from the domiciliary residence? He would put this
       latter question to me as to a man of veracity, and he would bind himself
       to abide by my reply. Once more he would demand explicitly if my mother
@@ -74,26 +74,26 @@ tags:
       willing to bet the Devil his head that she did not.
 
       Mr. Dammit did not pause for my rejoinder. Turning upon his heel, he left
-      my presence with undignified precipitation. It was well for him that he
+      my presence with undignified precipitation. It was [[Well|well]] for him that he
       did so. My feelings had been wounded. Even my anger had been aroused. For
       once I would have taken him up upon his insulting wager. I would have won
       for the Arch-Enemy Mr. Dammit’s little head—for the fact is, my
-      mamma was very well aware of my merely temporary absence from home.
+      mamma was very [[Well|well]] aware of my merely temporary absence from [[Home|home]].
 
       But Khoda shefa midêhed—Heaven gives relief—as the Mussulmans
       say when you tread upon their toes. It was in pursuance of my duty that I
       had been insulted, and I bore the insult like a man. It now seemed to me,
       however, that I had done all that could be required of me, in the case of
       this miserable individual, and I resolved to trouble him no longer with my
-      counsel, but to leave him to his conscience and himself. But although I
+      counsel, but to leave him to his [[Conscience|conscience]] and himself. But although I
       forebore to intrude with my advice, I could not bring myself to give up
       his society altogether. I even went so far as to humor some of his less
       reprehensible propensities; and there were times when I found myself
-      lauding his wicked jokes, as epicures do mustard, with tears in my eyes:—so
+      lauding his wicked jokes, as epicures do mustard, with [[Tears|tears]] in my eyes:—so
       profoundly did it grieve me to hear his evil talk.
 
       One fine day, having strolled out together, arm in arm, our route led us
-      in the direction of a river. There was a bridge, and we resolved to cross
+      in the direction of a [[River|river]]. There was a bridge, and we resolved to [[Cross|cross]]
       it. It was roofed over, by way of protection from the weather, and the
       archway, having but few windows, was thus very uncomfortably dark. As we
       entered the passage, the contrast between the external glare and the
@@ -101,16 +101,16 @@ tags:
       unhappy Dammit, who offered to bet the Devil his head that I was hipped.
       He seemed to be in an unusual good humor. He was excessively lively—so
       much so that I entertained I know not what of uneasy suspicion. It is not
-      impossible that he was affected with the transcendentals. I am not well
+      impossible that he was affected with the transcendentals. I am not [[Well|well]]
       enough versed, however, in the diagnosis of this disease to speak with
       decision upon the point; and unhappily there were none of my friends of
       the “Dial” present. I suggest the idea, nevertheless, because of a certain
       species of austere Merry-Andrewism which seemed to beset my poor friend,
-      and caused him to make quite a Tom-Fool of himself. Nothing would serve
+      and caused him to make quite a Tom-[[Fool]] of himself. Nothing would serve
       him but wriggling and skipping about under and over every thing that came
       in his way; now shouting out, and now lisping out, all manner of odd
       little and big words, yet preserving the gravest face in the world all the
-      time. I really could not make up my mind whether to kick or to pity him.
+      [[Time|time]]. I really could not make up my mind whether to kick or to pity him.
       At length, having passed nearly across the bridge, we approached the
       termination of the footway, when our progress was impeded by a turnstile
       of some height. Through this I made my way quietly, pushing it around as

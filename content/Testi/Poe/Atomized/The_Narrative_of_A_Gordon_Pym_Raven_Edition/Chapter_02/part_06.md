@@ -24,7 +24,7 @@ tags:
 
       upon which no foothold could be obtained. In vain I attempted, by
 
-      every means in my power, to reach the top, with the hope of being
+      every means in my power, to reach the top, with the [[Hope|hope]] of being
 
       thus enabled to draw myself up. Had I succeeded in reaching it,
 
@@ -48,7 +48,7 @@ tags:
 
       opposite side—in other words, that the top was wanting, it being
 
-      the bottom through which I had forced my way. I now met with no
+      the [[Bottom|bottom]] through which I had forced my way. I now met with no
 
       important difficulty in proceeding along the line until I finally
 
@@ -70,9 +70,9 @@ tags:
 
       all my strength—it still did not give way: with rage, with fury,
 
-      with despair—it set at defiance my utmost efforts; and it was
+      with [[Despair|despair]]—it set at defiance my utmost efforts; and it was
 
-      evident, from the unyielding nature of the resistance, that the
+      evident, from the unyielding [[Nature|nature]] of the resistance, that the
 
       hole had either been discovered and effectually nailed up, or
 
@@ -154,7 +154,7 @@ tags:
 
       devoured with avidity—afterward, however, resuming his
 
-      extraordinary manoeuvres. I now imagined that he was suffering,
+      extraordinary manoeuvres. I now imagined that he was [[Suffering|suffering]],
 
       like myself, the torments of thirst, and was about adopting this
 
@@ -162,7 +162,7 @@ tags:
 
       had as yet only examined his paws, and that there might possibly
 
-      be a wound upon some portion of his body or head. The latter I
+      be a wound upon some portion of his [[Body|body]] or head. The latter I
 
       felt carefully over, but found nothing. On passing my hand,
 
@@ -172,7 +172,7 @@ tags:
 
       I discovered a string, and tracing it up, found that it encircled
 
-      the whole body. Upon a closer scrutiny, I came across a small
+      the whole [[Body|body]]. Upon a closer scrutiny, I came across a small
 
       slip of what had the feeling of letter paper, through which the
 

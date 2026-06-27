@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 41"
+title: "[[Sense and Sensibility]] — Chapter 41"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -20,9 +20,9 @@ CHAPTER XLI.
 
 
 
-Edward, having carried his thanks to Colonel Brandon, proceeded with
+Edward, having carried his thanks to [[Colonel Brandon]], proceeded with
 
-his happiness to Lucy; and such was the excess of it by the time he
+his happiness to Lucy; and such was the excess of it by the [[Time|time]] he
 
 reached Bartlett’s Buildings, that she was able to assure Mrs.
 
@@ -40,11 +40,11 @@ she joined Mrs. Jennings most heartily in her expectation of their
 
 being all comfortably together in Delaford Parsonage before Michaelmas.
 
-So far was she, at the same time, from any backwardness to give Elinor
+So far was she, at the same [[Time|time]], from any backwardness to give Elinor
 
 that credit which Edward _would_ give her, that she spoke of her
 
-friendship for them both with the most grateful warmth, was ready to
+[[Friendship|friendship]] for them both with the most grateful warmth, was ready to
 
 own all their obligation to her, and openly declared that no exertion
 
@@ -52,7 +52,7 @@ for their good on Miss Dashwood’s part, either present or future, would
 
 ever surprise her, for she believed her capable of doing any thing in
 
-the world for those she really valued. As for Colonel Brandon, she was
+the world for those she really valued. As for [[Colonel Brandon]], she was
 
 not only ready to worship him as a saint, but was moreover truly
 
@@ -68,7 +68,7 @@ of his servants, his carriage, his cows, and his poultry.
 
 It was now above a week since John Dashwood had called in Berkeley
 
-Street, and as since that time no notice had been taken by them of his
+Street, and as since that [[Time|time]] no notice had been taken by them of his
 
 wife’s indisposition, beyond one verbal enquiry, Elinor began to feel
 
@@ -86,7 +86,7 @@ always at Elinor’s service, so very much disliked Mrs. John Dashwood,
 
 that not even her curiosity to see how she looked after the late
 
-discovery, nor her strong desire to affront her by taking Edward’s
+discovery, nor her strong [[Desire|desire]] to affront her by taking Edward’s
 
 part, could overcome her unwillingness to be in her company again. The
 
@@ -102,7 +102,7 @@ reason to dislike.
 
 Mrs. Dashwood was denied; but before the carriage could turn from the
 
-house, her husband accidentally came out. He expressed great pleasure
+[[house]], her husband accidentally came out. He expressed great pleasure
 
 in meeting Elinor, told her that he had been just going to call in
 
@@ -132,9 +132,9 @@ Elinor made what excuse she could for her.
 
 
 
-“I am not sorry to see you alone,” he replied, “for I have a good deal
+“I am not sorry to see you [[Alone|alone]],” he replied, “for I have a good deal
 
-to say to you. This living of Colonel Brandon’s—can it be true?—has he
+to say to you. This living of [[Colonel Brandon]]’s—can it be true?—has he
 
 really given it to Edward?—I heard it yesterday by chance, and was
 
@@ -142,13 +142,13 @@ coming to you on purpose to enquire farther about it.”
 
 
 
-“It is perfectly true.—Colonel Brandon has given the living of Delaford
+“It is perfectly true.—[[Colonel Brandon]] has given the living of Delaford
 
 to Edward.”
 
 
 
-“Really!—Well, this is very astonishing!—no relationship!—no connection
+“Really!—[[Well]], this is very astonishing!—no relationship!—no connection
 
 between them!—and now that livings fetch such a price!—what was the
 
@@ -160,7 +160,7 @@ value of this?”
 
 
 
-“Very well—and for the next presentation to a living of that
+“Very [[Well|well]]—and for the next presentation to a living of that
 
 value—supposing the late incumbent to have been old and sickly, and
 
@@ -168,11 +168,11 @@ likely to vacate it soon—he might have got I dare say—fourteen hundred
 
 pounds. And how came he not to have settled that matter before this
 
-person’s death? _Now_, indeed it would be too late to sell it, but a
+person’s [[Death|death]]? _Now_, indeed it would be too late to sell it, but a
 
-man of Colonel Brandon’s sense! I wonder he should be so improvident in
+man of [[Colonel Brandon]]’s sense! I [[Wonder|wonder]] he should be so improvident in
 
-a point of such common, such natural, concern! Well, I am convinced
+a point of such common, such natural, concern! [[Well]], I am convinced
 
 that there is a vast deal of inconsistency in almost every human
 
@@ -206,11 +206,11 @@ could be the Colonel’s motive?”
 
 
 
-“Well, well; whatever Colonel Brandon may be, Edward is a very lucky
+“[[Well]], [[Well|well]]; whatever [[Colonel Brandon]] may be, Edward is a very lucky
 
 man.—You will not mention the matter to Fanny, however, for though I
 
-have broke it to her, and she bears it vastly well,—she will not like
+have broke it to her, and she bears it vastly [[Well|well]],—she will not like
 
 to hear it much talked of.”
 
@@ -220,7 +220,7 @@ Elinor had some difficulty here to refrain from observing, that she
 
 thought Fanny might have borne with composure, an acquisition of wealth
 
-to her brother, by which neither she nor her child could be possibly
+to her brother, by which neither she nor her [[Child|child]] could be possibly
 
 impoverished.
 
@@ -232,7 +232,7 @@ important a subject, “knows nothing about it at present, and I believe
 
 it will be best to keep it entirely concealed from her as long as may
 
-be. When the marriage takes place, I fear she must hear of it all.”
+be. When the [[Marriage|marriage]] takes place, I [[Fear|fear]] she must hear of it all.”
 
 
 
@@ -254,7 +254,7 @@ to any impression of sorrow or of joy on his account: she cannot be
 
 interested in any thing that befalls him. She would not be so weak as
 
-to throw away the comfort of a child, and yet retain the anxiety of a
+to throw away the comfort of a [[Child|child]], and yet retain the anxiety of a
 
 parent!”
 
@@ -262,7 +262,7 @@ parent!”
 
 “Ah! Elinor,” said John, “your reasoning is very good, but it is
 
-founded on ignorance of human nature. When Edward’s unhappy match takes
+founded on ignorance of human [[Nature|nature]]. When Edward’s unhappy match takes
 
 place, depend upon it his mother will feel as much as if she had never
 
@@ -274,9 +274,9 @@ Mrs. Ferrars can never forget that Edward is her son.”
 
 
 
-“You surprise me; I should think it must nearly have escaped her memory
+“You surprise me; I should think it must nearly have escaped her [[Memory|memory]]
 
-by _this_ time.”
+by _this_ [[Time|time]].”
 
 
 
@@ -296,7 +296,7 @@ _Robert’s_ marrying Miss Morton.”
 
 
 
-Elinor, smiling at the grave and decisive importance of her brother’s
+Elinor, smiling at the [[Grave|grave]] and decisive importance of her brother’s
 
 tone, calmly replied,—
 
@@ -326,7 +326,7 @@ one is superior to the other.”
 
 
 
-Elinor said no more, and John was also for a short time silent.—His
+Elinor said no more, and John was also for a short [[Time|time]] silent.—His
 
 reflections ended thus.
 
@@ -368,17 +368,17 @@ gone by. But I thought I would just tell you of this, because I knew
 
 how much it must please you. Not that you have any reason to regret, my
 
-dear Elinor. There is no doubt of your doing exceedingly well,—quite as
+dear Elinor. There is no [[Doubt|doubt]] of your doing exceedingly [[Well|well]],—quite as
 
-well, or better, perhaps, all things considered. Has Colonel Brandon
+[[Well|well]], or better, perhaps, all things considered. Has [[Colonel Brandon]]
 
 been with you lately?”
 
 
 
-Elinor had heard enough, if not to gratify her vanity, and raise her
+Elinor had heard enough, if not to gratify her [[Vanity|vanity]], and raise her
 
-self-importance, to agitate her nerves and fill her mind;—and she was
+[[Self|self]]-importance, to agitate her nerves and fill her mind;—and she was
 
 therefore glad to be spared from the necessity of saying much in reply
 
@@ -388,13 +388,13 @@ brother, by the entrance of Mr. Robert Ferrars. After a few moments’
 
 chat, John Dashwood, recollecting that Fanny was yet uninformed of her
 
-sister’s being there, quitted the room in quest of her; and Elinor was
+sister’s being there, quitted the room in [[Quest|quest]] of her; and Elinor was
 
 left to improve her acquaintance with Robert, who, by the gay
 
-unconcern, the happy self-complacency of his manner while enjoying so
+unconcern, the happy [[Self|self]]-complacency of his manner while enjoying so
 
-unfair a division of his mother’s love and liberality, to the prejudice
+unfair a division of his mother’s [[Love|love]] and liberality, to the prejudice
 
 of his banished brother, earned only by his own dissipated course of
 
@@ -416,23 +416,23 @@ different, was not less striking than it had been on _him_. He laughed
 
 most immoderately. The idea of Edward’s being a clergyman, and living
 
-in a small parsonage-house, diverted him beyond measure;—and when to
+in a small parsonage-[[house]], diverted him beyond measure;—and when to
 
 that was added the fanciful imagery of Edward reading prayers in a
 
-white surplice, and publishing the banns of marriage between John Smith
+white surplice, and publishing the banns of [[Marriage|marriage]] between John [[smith|Smith]]
 
 and Mary Brown, he could conceive nothing more ridiculous.
 
 
 
-Elinor, while she waited in silence and immovable gravity, the
+Elinor, while she waited in [[Silence|silence]] and immovable gravity, the
 
 conclusion of such folly, could not restrain her eyes from being fixed
 
 on him with a look that spoke all the contempt it excited. It was a
 
-look, however, very well bestowed, for it relieved her own feelings,
+look, however, very [[Well|well]] bestowed, for it relieved her own feelings,
 
 and gave no intelligence to him. He was recalled from wit to wisdom,
 
@@ -444,21 +444,21 @@ not by any reproof of hers, but by his own sensibility.
 
 affected laugh which had considerably lengthened out the genuine gaiety
 
-of the moment; “but, upon my soul, it is a most serious business. Poor
+of the moment; “but, upon my [[Soul|soul]], it is a most serious business. Poor
 
 Edward! he is ruined for ever. I am extremely sorry for it; for I know
 
-him to be a very good-hearted creature; as well-meaning a fellow
+him to be a very good-hearted creature; as [[Well|well]]-meaning a fellow
 
 perhaps, as any in the world. You must not judge of him, Miss Dashwood,
 
 from _your_ slight acquaintance. Poor Edward! His manners are certainly
 
-not the happiest in nature. But we are not all born, you know, with the
+not the happiest in [[Nature|nature]]. But we are not all born, you know, with the
 
 same powers,—the same address. Poor fellow! to see him in a circle of
 
-strangers! To be sure it was pitiable enough; but upon my soul, I
+strangers! To be sure it was pitiable enough; but upon my [[Soul|soul]], I
 
 believe he has as good a heart as any in the kingdom; and I declare and
 
@@ -480,7 +480,7 @@ Poor Edward! he has done for himself completely,—shut himself out for
 
 ever from all decent society! But, as I directly said to my mother, I
 
-am not in the least surprised at it; from his style of education, it
+am not in the least surprised at it; from his style of [[Education|education]], it
 
 was always to be expected. My poor mother was half frantic.”
 
@@ -490,11 +490,11 @@ was always to be expected. My poor mother was half frantic.”
 
 
 
-“Yes; once, while she was staying in this house, I happened to drop in
+“Yes; once, while she was staying in this [[house]], I happened to drop in
 
 for ten minutes; and I saw quite enough of her. The merest awkward
 
-country girl, without style, or elegance, and almost without beauty. I
+country girl, without style, or elegance, and almost without [[Beauty|beauty]]. I
 
 remember her perfectly. Just the kind of girl I should suppose likely
 

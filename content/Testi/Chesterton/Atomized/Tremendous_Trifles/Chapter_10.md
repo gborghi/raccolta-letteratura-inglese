@@ -19,43 +19,43 @@ IX
 In the Place de La Bastille
 
 On the first of May I was sitting outside a café in the Place de
-la Bastille in Paris staring at the exultant column, crowned with
+la Bastille in [[Paris]] staring at the exultant column, crowned with
 a capering figure, which stands in the place where the people
-destroyed a prison and ended an age.  The thing is a curious
-example of how symbolic is the great part of human history.
+destroyed a [[Prison|prison]] and ended an age.  The thing is a curious
+example of how symbolic is the great part of human [[history]].
 As a matter of mere material fact, the Bastille when it was taken
-was not a horrible prison; it was hardly a prison at all.
+was not a horrible [[Prison|prison]]; it was hardly a [[Prison|prison]] at all.
 But it was a symbol, and the people always go by a sure
 instinct for symbols; for the Chinaman, for instance,
 at the last General Election, or for President Kruger's hat
 in the election before; their poetic sense is perfect.
 The Chinaman with his pigtail is not an idle flippancy.
 He does typify with a compact precision exactly the thing
-the people resent in African policy, the alien and grotesque
-nature of the power of wealth, the fact that money has no roots,
+the people resent in African policy, the alien and [[Grotesque|grotesque]]
+[[Nature|nature]] of the power of wealth, the fact that money has no roots,
 that it is not a natural and familiar power, but a sort of airy
-and evil magic calling monsters from the ends of the earth.
+and evil [[Magic|magic]] calling monsters from the ends of the earth.
 The people hate the mine owner who can bring a Chinaman
 flying across the sea, exactly as the people hated
 the wizard who could fetch a flying dragon through the air.
 It was the same with Mr. Kruger's hat.  His hat (that admirable hat)
 was not merely a joke.  It did symbolise, and symbolise
-extremely well, the exact thing which our people at that moment
+extremely [[Well|well]], the exact thing which our people at that moment
 regarded with impatience and venom; the old-fashioned, dingy,
 Republican simplicity, the unbeautiful dignity of the bourgeois,
-and the heavier truisms of political morality.  No; the people
+and the heavier truisms of political [[morality]].  No; the people
 are sometimes wrong on the practical side of politics;
 they are never wrong on the artistic side.
 
 . . . . .
 
 So it was, certainly, with the Bastille.  The destruction of the Bastille
-was not a reform; it was something more important than a reform.
+was not a [[Reform|reform]]; it was something more important than a [[Reform|reform]].
 It was an iconoclasm; it was the breaking of a stone image.
 The people saw the building like a giant looking at them with
 a score of eyes, and they struck at it as at a carved fact.
 For of all the shapes in which that immense illusion called materialism
-can terrify the soul, perhaps the most oppressive are big buildings.
+can terrify the [[Soul|soul]], perhaps the most oppressive are big buildings.
 Man feels like a fly, an accident, in the thing he has himself made.
 It requires a violent effort of the spirit to remember that
 man made this confounding thing and man could unmake it.
@@ -71,11 +71,11 @@ It would change the world.
 
 Architecture is a very good test of the true strength
 of a society, for the most valuable things in a human
-state are the irrevocable things--marriage, for instance.
+state are the irrevocable things--[[Marriage|marriage]], for instance.
 And architecture approaches nearer than any other art to
 being irrevocable, because it is so difficult to get rid of.
 You can turn a picture with its face to the wall; it would be a
-nuisance to turn that Roman cathedral with its face to the wall.
+nuisance to turn that Roman [[Cathedral|cathedral]] with its face to the wall.
 You can tear a poem to pieces; it is only in moments of
 very sincere emotion that you tear a town-hall to pieces.
 A building is akin to dogma; it is insolent, like a dogma.
@@ -89,10 +89,10 @@ But along with this decision which is involved in creating a building,
 there goes a quite similar decision in the more delightful
 task of smashing one.  The two of necessity go together.
 In few places have so many fine public buildings been set up
-as here in Paris, and in few places have so many been destroyed.
+as here in [[Paris]], and in few places have so many been destroyed.
 When people have finally got into the horrible habit of preserving
 buildings, they have got out of the habit of building them.
-And in London one mingles, as it were, one's tears because so few
+And in [[London]] one mingles, as it were, one's [[Tears|tears]] because so few
 are pulled down.
 
 . . . . .
@@ -102,7 +102,7 @@ inscribed to Liberty and Glory, there came out of one corner
 of the square (which, like so many such squares, was at once
 crowded and quiet) a sudden and silent line of horsemen.
 Their dress was of a dull blue, plain and prosaic enough,
-but the sun set on fire the brass and steel of their helmets;
+but the sun set on [[Fire|fire]] the brass and steel of their helmets;
 and their helmets were carved like the helmets of the Romans.
 I had seen them by twos and threes often enough before.
 I had seen plenty of them in pictures toiling through the snows
@@ -110,13 +110,13 @@ of Friedland or roaring round the squares at Waterloo.
 But now they came file after file, like an invasion,
 and something in their numbers, or in the evening light that lit
 up their faces and their crests, or something in the reverie
-into which they broke, made me inclined to spring to my feet
+into which they broke, made me inclined to [[Spring|spring]] to my feet
 and cry out, "The French soldiers!"  There were the little men
 with the brown faces that had so often ridden through the capitals
 of Europe as coolly as they now rode through their own.
 And when I looked across the square I saw that the two other corners
 were choked with blue and red; held by little groups of infantry.
-The city was garrisoned as against a revolution.
+The [[City|city]] was garrisoned as against a revolution.
 
 Of course, I had heard all about the strike, chiefly from a baker.
 He said he was not going to "Chomer." I said, "Qu'est-ce que
@@ -132,12 +132,12 @@ in Europe against ordinary people walking about the street.
 The cavalry charged us once or twice, more or less harmlessly.
 But, of course, it is hard to say how far in such criticisms
 one is assuming the French populace to be (what it is not)
-as docile as the English.  But the deeper truth of the matter tingled,
-so to speak, through the whole noisy night.  This people has
+as docile as the English.  But the deeper [[Truth|truth]] of the matter tingled,
+so to speak, through the whole noisy [[Night|night]].  This people has
 a natural faculty for feeling itself on the eve of something--of the
 Bartholomew or the Revolution or the Commune or the Day of Judgment.
 It is this sense of crisis that makes France eternally young.
 It is perpetually pulling down and building up, as it pulled down
-the prison and put up the column in the Place de La Bastille.
+the [[Prison|prison]] and put up the column in the Place de La Bastille.
 France has always been at the point of dissolution.
-She has found the only method of immortality.  She dies daily.
+She has found the only method of [[Immortality|immortality]].  She dies daily.

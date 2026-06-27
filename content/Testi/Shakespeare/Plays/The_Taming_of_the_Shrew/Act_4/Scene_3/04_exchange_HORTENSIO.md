@@ -1,5 +1,5 @@
 ---
-title: "The Taming of the Shrew — Act IV, Scene 3 — exchange (HORTENSIO) [4]"
+title: "The Taming of the Shrew — Act IV, Scene 3 — exchange ([[Hortensio|HORTENSIO]]) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/THE-TAMING-OF-THE-SHREW-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| HORTENSIO | (aside) Why, so this gallant will command the sun. Exeunt |
+| [[Hortensio|HORTENSIO]] | (aside) Why, so this gallant will command the sun. Exeunt |

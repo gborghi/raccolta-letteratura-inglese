@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 24"
+title: "[[Barnaby Rudge]] — Chapter 24"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -29,7 +29,7 @@ who by instinct knew him better, bowed down before him nevertheless,
 deferred to his every word, and courted his favourable notice; how
 people, who really had good in them, went with the stream, and fawned
 and flattered, and approved, and despised themselves while they did
-so, and yet had not the courage to resist; how, in short, he was one of
+so, and yet had not the [[Courage|courage]] to resist; how, in short, he was one of
 those who are received and cherished in society (as the phrase is) by
 scores who individually would shrink from and be repelled by the
 object of their lavish regard; are things of course, which will suggest
@@ -44,7 +44,7 @@ that the coldest-hearted misanthropes are ever of this last order.
 
 Mr Chester sat up in bed next morning, sipping his coffee, and
 remembering with a kind of contemptuous satisfaction how he had shone
-last night, and how he had been caressed and courted, when his servant
+last [[Night|night]], and how he had been caressed and courted, when his servant
 brought in a very small scrap of dirty paper, tightly sealed in two
 places, on the inside whereof was inscribed in pretty large text these
 words: ‘A friend. Desiring of a conference. Immediate. Private. Burn it
@@ -75,7 +75,7 @@ Tappertit bowed again, and displayed his legs to the best advantage.
 
 ‘You have heard, sir,’ said Mr Tappertit, laying his hand upon his
 breast, ‘of G. Varden Locksmith and bell-hanger and repairs neatly
-executed in town and country, Clerkenwell, London?’
+executed in town and country, Clerkenwell, [[London]]?’
 
 ‘What then?’ asked Mr Chester.
 
@@ -84,12 +84,12 @@ executed in town and country, Clerkenwell, London?’
 ‘What THEN?’
 
 ‘Ahem!’ said Mr Tappertit. ‘Would you permit me to shut the door, sir,
-and will you further, sir, give me your honour bright, that what passes
+and will you further, sir, give me your [[Honour|honour]] bright, that what passes
 between us is in the strictest confidence?’
 
 Mr Chester laid himself calmly down in bed again, and turning a
 perfectly undisturbed face towards the strange apparition, which had
-by this time closed the door, begged him to speak out, and to be as
+by this [[Time|time]] closed the door, begged him to speak out, and to be as
 rational as he could, without putting himself to any very great personal
 inconvenience.
 
@@ -102,7 +102,7 @@ right-hand corner,’ said Mr Tappertit, offering it with a graceful air,
 ‘you will meet with my credentials.’
 
 ‘Thank you,’ answered Mr Chester, politely accepting it, and turning to
-some blood-red characters at one end. ‘“Four. Simon Tappertit. One.” Is
+some [[Blood|blood]]-red characters at one end. ‘“Four. [[Simon Tappertit]]. One.” Is
 that the--’
 
 ‘Without the numbers, sir, that is my name,’ replied the ‘prentice.
@@ -125,7 +125,7 @@ oblige me so far as to put it outside the door?’
 
 ‘By all means, sir,’ said Mr Tappertit, suiting the action to the word.
 
-‘You’ll excuse my mentioning it, I hope?’
+‘You’ll excuse my mentioning it, I [[Hope|hope]]?’
 
 ‘Don’t apologise, sir, I beg. And now, if you please, to business.’
 
@@ -137,9 +137,9 @@ this was something like the respect to which he was entitled, and drew
 a comparison from this courteous demeanour of a stranger, by no means
 favourable to the worthy locksmith.
 
-‘From what passes in our house,’ said Mr Tappertit, ‘I am aware, sir,
+‘From what passes in our [[house]],’ said Mr Tappertit, ‘I am aware, sir,
 that your son keeps company with a young lady against your inclinations.
-Sir, your son has not used me well.’
+Sir, your son has not used me [[Well|well]].’
 
 ‘Mr Tappertit,’ said the other, ‘you grieve me beyond description.’
 
@@ -152,7 +152,7 @@ afraid of that before; and you confirm me?’
 ‘To recount the menial offices I’ve had to do for your son, sir,’ said
 Mr Tappertit; ‘the chairs I’ve had to hand him, the coaches I’ve had to
 call for him, the numerous degrading duties, wholly unconnected with
-my indenters, that I’ve had to do for him, would fill a family Bible.
+my indenters, that I’ve had to do for him, would fill a family [[Bible]].
 Besides which, sir, he is but a young man himself and I do not consider
 “thank’ee Sim,” a proper form of address on those occasions.’
 
@@ -165,7 +165,7 @@ what I tell you is this--that as long as our people go backwards and
 forwards, to and fro, up and down, to that there jolly old Maypole,
 lettering, and messaging, and fetching and carrying, you couldn’t help
 your son keeping company with that young lady by deputy,--not if he was
-minded night and day by all the Horse Guards, and every man of ‘em in
+minded [[Night|night]] and day by all the [[Horse]] Guards, and every man of ‘em in
 the very fullest uniform.’
 
 Mr Tappertit stopped to take breath after this, and then started fresh
@@ -177,26 +177,26 @@ gentleman like you--’
 
 ‘Mr Tappertit--really--’
 
-‘No, no, I’m serious,’ rejoined the ‘prentice, ‘I am, upon my soul.
+‘No, no, I’m serious,’ rejoined the ‘prentice, ‘I am, upon my [[Soul|soul]].
 If an honest, civil, smiling gentleman like you, was to talk but ten
 minutes to our old woman--that’s Mrs Varden--and flatter her up a bit,
 you’d gain her over for ever. Then there’s this point got--that her
 daughter Dolly,’--here a flush came over Mr Tappertit’s face--‘wouldn’t
-be allowed to be a go-between from that time forward; and till that
+be allowed to be a go-between from that [[Time|time]] forward; and till that
 point’s got, there’s nothing ever will prevent her. Mind that.’
 
-‘Mr Tappertit, your knowledge of human nature--’
+‘Mr Tappertit, your knowledge of human [[Nature|nature]]--’
 
 ‘Wait a minute,’ said Sim, folding his arms with a dreadful calmness.
-‘Now I come to THE point. Sir, there is a villain at that Maypole, a
-monster in human shape, a vagabond of the deepest dye, that unless you
+‘Now I come to THE point. Sir, there is a [[Villain|villain]] at that Maypole, a
+[[Monster|monster]] in human shape, a vagabond of the deepest dye, that unless you
 get rid of and have kidnapped and carried off at the very least--nothing
 less will do--will marry your son to that young woman, as certainly and
 as surely as if he was the Archbishop of Canterbury himself. He will,
-sir, for the hatred and malice that he bears to you; let alone the
+sir, for the hatred and malice that he bears to you; let [[Alone|alone]] the
 pleasure of doing a bad action, which to him is its own reward. If you
 knew how this chap, this Joseph Willet--that’s his name--comes backwards
-and forwards to our house, libelling, and denouncing, and threatening
+and forwards to our [[house]], libelling, and denouncing, and threatening
 you, and how I shudder when I hear him, you’d hate him worse than I
 do,--worse than I do, sir,’ said Mr Tappertit wildly, putting his hair
 up straighter, and making a crunching noise with his teeth; ‘if sich a
@@ -207,8 +207,8 @@ thing is possible.’
 ‘Private vengeance, sir, or public sentiment, or both combined--destroy
 him,’ said Mr Tappertit. ‘Miggs says so too. Miggs and me both say so.
 We can’t bear the plotting and undermining that takes place. Our souls
-recoil from it. Barnaby Rudge and Mrs Rudge are in it likewise; but the
-villain, Joseph Willet, is the ringleader. Their plottings and schemes
+recoil from it. [[Barnaby Rudge]] and Mrs Rudge are in it likewise; but the
+[[Villain|villain]], Joseph Willet, is the ringleader. Their plottings and schemes
 are known to me and Miggs. If you want information of ‘em, apply to us.
 Put Joseph Willet down, sir. Destroy him. Crush him. And be happy.’
 
@@ -221,10 +221,10 @@ read in cheap story-books.
 
 ‘That fellow,’ said Mr Chester, relaxing his face when he was fairly
 gone, ‘is good practice. I HAVE some command of my features, beyond all
-doubt. He fully confirms what I suspected, though; and blunt tools are
-sometimes found of use, where sharper instruments would fail. I fear
+[[Doubt|doubt]]. He fully confirms what I suspected, though; and blunt tools are
+sometimes found of use, where sharper instruments would fail. I [[Fear|fear]]
 I may be obliged to make great havoc among these worthy people. A
 troublesome necessity! I quite feel for them.’
 
 With that he fell into a quiet slumber:--subsided into such a gentle,
-pleasant sleep, that it was quite infantine.
+pleasant [[Sleep|sleep]], that it was quite infantine.

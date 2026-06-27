@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 53 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 53 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -14,14 +14,14 @@ tags:
 </nav>
 
 
-‘Your tears fall faster as you talk of happiness,’ said Nicholas, ‘and
+‘Your [[Tears|tears]] fall faster as you talk of happiness,’ said Nicholas, ‘and
 you shun the contemplation of that dark future which must be laden
-with so much misery to you. Defer this marriage for a week. For but one
+with so much misery to you. Defer this [[Marriage|marriage]] for a week. For but one
 week!’
 
 ‘He was talking, when you came upon us just now, with such smiles as I
 remember to have seen of old, and have not seen for many and many a day,
-of the freedom that was to come tomorrow,’ said Madeline, with momentary
+of the [[Freedom|freedom]] that was to come tomorrow,’ said [[Madeline]], with momentary
 firmness, ‘of the welcome change, the fresh air: all the new scenes and
 objects that would bring fresh life to his exhausted frame. His eye grew
 bright, and his face lightened at the thought. I will not defer it for
@@ -29,10 +29,10 @@ an hour.’
 
 ‘These are but tricks and wiles to urge you on,’ cried Nicholas.
 
-‘I’ll hear no more,’ said Madeline, hurriedly; ‘I have heard too
+‘I’ll hear no more,’ said [[Madeline]], hurriedly; ‘I have heard too
 much--more than I should--already. What I have said to you, sir, I have
 said as to that dear friend to whom I trust in you honourably to repeat
-it. Some time hence, when I am more composed and reconciled to my new
+it. Some [[Time|time]] hence, when I am more composed and reconciled to my new
 mode of life, if I should live so long, I will write to him. Meantime,
 all holy angels shower blessings on his head, and prosper and preserve
 him.’
@@ -47,63 +47,63 @@ be. What can I say, that will induce you to pause at this last moment?
 What can I do to save you?’
 
 ‘Nothing,’ she incoherently replied. ‘This is the hardest trial I have
-had. Have mercy on me, sir, I beseech, and do not pierce my heart with
+had. Have [[Mercy|mercy]] on me, sir, I beseech, and do not pierce my heart with
 such appeals as these. I--I hear him calling. I--I--must not, will not,
 remain here for another instant.’
 
 ‘If this were a plot,’ said Nicholas, with the same violent rapidity
 with which she spoke, ‘a plot, not yet laid bare by me, but which, with
-time, I might unravel; if you were (not knowing it) entitled to fortune
-of your own, which, being recovered, would do all that this marriage can
+[[Time|time]], I might unravel; if you were (not knowing it) entitled to fortune
+of your own, which, being recovered, would do all that this [[Marriage|marriage]] can
 accomplish, would you not retract?’
 
-‘No, no, no! It is impossible; it is a child’s tale. Time would bring
-his death. He is calling again!’
+‘No, no, no! It is impossible; it is a [[Child|child]]’s tale. [[Time]] would bring
+his [[Death|death]]. He is calling again!’
 
-‘It may be the last time we shall ever meet on earth,’ said Nicholas,
+‘It may be the last [[Time|time]] we shall ever meet on earth,’ said Nicholas,
 ‘it may be better for me that we should never meet more.’
 
-‘For both, for both,’ replied Madeline, not heeding what she said. ‘The
-time will come when to recall the memory of this one interview might
+‘For both, for both,’ replied [[Madeline]], not heeding what she said. ‘The
+[[Time|time]] will come when to recall the [[Memory|memory]] of this one interview might
 drive me mad. Be sure to tell them, that you left me calm and happy. And
 God be with you, sir, and my grateful heart and blessing!’
 
-She was gone. Nicholas, staggering from the house, thought of the
-hurried scene which had just closed upon him, as if it were the phantom
-of some wild, unquiet dream. The day wore on; at night, having been
+She was gone. Nicholas, staggering from the [[house]], thought of the
+hurried scene which had just closed upon him, as if it were the [[Phantom|phantom]]
+of some wild, unquiet dream. The day wore on; at [[Night|night]], having been
 enabled in some measure to collect his thoughts, he issued forth again.
 
-That night, being the last of Arthur Gride’s bachelorship, found him in
+That [[Night|night]], being the last of [[arthur|Arthur]] Gride’s bachelorship, found him in
 tiptop spirits and great glee. The bottle-green suit had been brushed,
 ready for the morrow. Peg Sliderskew had rendered the accounts of her
 past housekeeping; the eighteen-pence had been rigidly accounted for
 (she was never trusted with a larger sum at once, and the accounts were
 not usually balanced more than twice a day); every preparation had
-been made for the coming festival; and Arthur might have sat down and
+been made for the coming festival; and [[arthur|Arthur]] might have sat down and
 contemplated his approaching happiness, but that he preferred sitting
 down and contemplating the entries in a dirty old vellum-book with rusty
 clasps.
 
-‘Well-a-day!’ he chuckled, as sinking on his knees before a strong
+‘[[Well]]-a-day!’ he chuckled, as sinking on his knees before a strong
 chest screwed down to the floor, he thrust in his arm nearly up to the
-shoulder, and slowly drew forth this greasy volume. ‘Well-a-day now,
+shoulder, and slowly drew forth this greasy volume. ‘[[Well]]-a-day now,
 this is all my library, but it’s one of the most entertaining books that
 were ever written! It’s a delightful book, and all true and real--that’s
 the best of it--true as the Bank of England, and real as its gold and
-silver. Written by Arthur Gride. He, he, he! None of your storybook
+silver. Written by [[arthur|Arthur]] Gride. He, he, he! None of your storybook
 writers will ever make as good a book as this, I warrant me. It’s
 composed for private circulation, for my own particular reading, and
 nobody else’s. He, he, he!’
 
-Muttering this soliloquy, Arthur carried his precious volume to the
+Muttering this soliloquy, [[arthur|Arthur]] carried his precious volume to the
 table, and, adjusting it upon a dusty desk, put on his spectacles, and
-began to pore among the leaves.
+began to pore among the [[Leaves|leaves]].
 
 ‘It’s a large sum to Mr. Nickleby,’ he said, in a dolorous voice.
 ‘Debt to be paid in full, nine hundred and seventy-five, four, three.
 Additional sum as per bond, five hundred pound. One thousand, four
 hundred and seventy-five pounds, four shillings, and threepence,
-tomorrow at twelve o’clock. On the other side, though, there’s the PER
+tomorrow at twelve o’[[Clock|clock]]. On the other side, though, there’s the PER
 CONTRA, by means of this pretty chick. But, again, there’s the question
 whether I mightn’t have brought all this about, myself. “Faint heart
 never won fair lady.” Why was my heart so faint? Why didn’t I boldly
@@ -115,17 +115,17 @@ groan or two from his breast, and cause him to declare, with uplifted
 hands, that he would die in a workhouse. Remembering on further
 cogitation, however, that under any circumstances he must have paid, or
 handsomely compounded for, Ralph’s debt, and being by no means confident
-that he would have succeeded had he undertaken his enterprise alone, he
+that he would have succeeded had he undertaken his enterprise [[Alone|alone]], he
 regained his equanimity, and chattered and mowed over more satisfactory
 items, until the entrance of Peg Sliderskew interrupted him.
 
-‘Aha, Peg!’ said Arthur, ‘what is it? What is it now, Peg?’
+‘Aha, Peg!’ said [[arthur|Arthur]], ‘what is it? What is it now, Peg?’
 
 ‘It’s the fowl,’ replied Peg, holding up a plate containing a little, a
 very little one. Quite a phenomenon of a fowl. So very small and skinny.
 
-‘A beautiful bird!’ said Arthur, after inquiring the price, and finding
+‘A beautiful bird!’ said [[arthur|Arthur]], after inquiring the price, and finding
 it proportionate to the size. ‘With a rasher of ham, and an egg made
 into sauce, and potatoes, and greens, and an apple pudding, Peg, and a
-little bit of cheese, we shall have a dinner for an emperor. There’ll
+little bit of [[cheese]], we shall have a dinner for an emperor. There’ll
 only be she and me--and you, Peg, when we’ve done.’

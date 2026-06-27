@@ -1,5 +1,5 @@
 ---
-title: "The Fall of Hyperion"
+title: "The Fall of [[Hyperion]]"
 author: "Keats"
 unitType: work
 parentWork: "Works/The-Fall-of-Hyperion-(Keats)"
@@ -13,28 +13,28 @@ tags:
 </nav>
 
 
-A Dream  
+[[A Dream]]  
 
 CANTO I  
 
-Fanatics have their dreams, wherewith they weave  
+Fanatics have their [[Dreams|dreams]], wherewith they weave  
 A paradise for a sect; the savage too  
-From forth the loftiest fashion of his sleep  
+From forth the loftiest fashion of his [[Sleep|sleep]]  
 Guesses at Heaven; pity these have not  
 Trac’d upon vellum or wild Indian leaf  
 The shadows of melodious utterance.  
 But bare of laurel they live, dream, and die;  
-For Poesy alone can tell her dreams,  
-With the fine spell of words alone can save  
-Imagination from the sable charm  
+For Poesy [[Alone|alone]] can tell her [[Dreams|dreams]],  
+With the fine spell of words [[Alone|alone]] can save  
+[[Imagination]] from the sable charm  
 And dumb enchantment. Who alive can say,  
-‘Thou art no Poet may’st not tell thy dreams?’  
-Since every man whose soul is not a clod  
+‘Thou art no Poet may’st not tell thy [[Dreams|dreams]]?’  
+Since every man whose [[Soul|soul]] is not a clod  
 Hath visions, and would speak, if he had loved  
-And been well nurtured in his mother tongue.  
+And been [[Well|well]] nurtured in his mother tongue.  
 Whether the dream now purpos’d to rehearse  
 Be poet’s or fanatic’s will be known  
-When this warm scribe my hand is in the grave.  
+When this warm scribe my hand is in the [[Grave|grave]].  
 
 Methought I stood where trees of every clime,  
 Palm, myrtle, oak, and sycamore, and beech,  
@@ -43,10 +43,10 @@ In neighbourhood of fountains, by the noise
 Soft showering in my ears, and, by the touch  
 Of scent, not far from roses. Turning round  
 I saw an arbour with a drooping roof  
-Of trellis vines, and bells, and larger blooms,  
+Of trellis vines, and [[Bells|bells]], and larger blooms,  
 Like floral censers swinging light in air;  
 Before its wreathed doorway, on a mound  
-Of moss, was spread a feast of summer fruits,  
+Of moss, was spread a feast of [[Summer|summer]] fruits,  
 Which, nearer seen, seem’d refuse of a meal  
 By angel tasted or our Mother Eve;  
 For empty shells were scattered on the grass,  
@@ -66,7 +66,7 @@ And all the dead whose names are in our lips,
 Drank. That full draught is parent of my theme.  
 No Asian poppy nor elixir fine  
 Of the soon fading jealous Caliphat,  
-No poison gender’d in close monkish cell  
+No [[Poison|poison]] gender’d in close monkish cell  
 To thin the scarlet conclave of old men,  
 Could so have rapt unwilling life away.  
 Among the fragrant husks and berries crush’d,  
@@ -81,12 +81,12 @@ The mossy mound and arbour were no more:
 I look’d around upon the carved sides  
 Of an old sanctuary with roof august,  
 Builded so high, it seem’d that filmed clouds  
-Might spread beneath, as o’er the stars of heaven;  
+Might spread beneath, as o’er the [[Stars|stars]] of heaven;  
 So old the place was, I remember’d none  
 The like upon the earth: what I had seen  
 Of grey cathedrals, buttress’d walls, rent towers,  
 The superannuations of sunk realms,  
-Or Nature’s rocks toil’d hard in waves and winds,  
+Or [[Nature]]’s rocks toil’d hard in waves and winds,  
 Seem’d but the faulture of decrepit things  
 To that eternal domed monument.  
 Upon the marble at my feet there lay  
@@ -97,7 +97,7 @@ So white the linen, so, in some, distinct
 Ran imageries from a sombre loom.  
 All in a mingled heap confus’d there lay  
 Robes, golden tongs, censer and chafing dish,  
-Girdles, and chains, and holy jewelries.  
+Girdles, and [[Chains|chains]], and holy jewelries.  
 
 Turning from these with awe, once more I rais’d  
 My eyes to fathom the space every way;  
@@ -115,31 +115,31 @@ Towards the altar sober paced I went,
 Repressing haste, as too unholy there;  
 And, coming nearer, saw beside the shrine  
 One minist’ring; and there arose a flame.  
-When in mid May the sickening East wind  
+When in mid May the sickening East [[Wind|wind]]  
 Shifts sudden to the south, the small warm rain  
-Melts out the frozen incense from all flowers,  
+Melts out the frozen incense from all [[Flowers|flowers]],  
 And fills the air with so much pleasant health  
 That even the dying man forgets his shroud;  
-Even so that lofty sacrificial fire,  
+Even so that lofty sacrificial [[Fire|fire]],  
 Sending forth Maian incense, spread around  
 Forgetfulness of everything but bliss,  
 And clouded all the altar with soft smoke,  
 From whose white fragrant curtains thus I heard  
 Language pronounc’d: ‘If thou canst not ascend  
 ‘These steps, die on that marble where thou art.  
-‘Thy flesh, near cousin to the common dust,  
+‘Thy flesh, near cousin to the common [[Dust|dust]],  
 ‘Will parch for lack of nutriment thy bones  
 ‘Will wither in few years, and vanish so  
 ‘That not the quickest eye could find a grain  
 ‘Of what thou now art on that pavement cold.  
 ‘The sands of thy short life are spent this hour,  
 ‘And no hand in the universe can turn  
-‘Thy hourglass, if these gummed leaves be burnt  
+‘Thy hourglass, if these gummed [[Leaves|leaves]] be burnt  
 ‘Ere thou canst mount up these immortal steps.’  
 I heard, I look’d: two senses both at once,  
 So fine, so subtle, felt the tyranny  
 Of that fierce threat and the hard task proposed.  
-Prodigious seem’d the toil, the leaves were yet  
+Prodigious seem’d the toil, the [[Leaves|leaves]] were yet  
 Burning when suddenly a palsied chill  
 Struck from the paved level up my limbs,  
 And was ascending quick to put cold grasp  
@@ -150,16 +150,16 @@ The numbness; strove to gain the lowest step.
 Slow, heavy, deadly was my pace: the cold  
 Grew stifling, suffocating, at the heart;  
 And when I clasp’d my hands I felt them not.  
-One minute before death, my iced foot touch’d  
+One minute before [[Death|death]], my iced foot touch’d  
 The lowest stair; and as it touch’d, life seem’d  
 To pour in at the toes: I mounted up,  
 As once fair angels on a ladder flew  
 From the green turf to Heaven. ‘Holy Power,’  
 Cried I, approaching near the horned shrine,  
-‘What am I that should so be saved from death?  
-‘What am I that another death come not  
+‘What am I that should so be saved from [[Death|death]]?  
+‘What am I that another [[Death|death]] come not  
 ‘To choke my utterance sacrilegious here?’  
-Then said the veiled shadow ‘Thou hast felt  
+Then said the veiled [[Shadow|shadow]] ‘Thou hast felt  
 ‘What ’tis to die and live again before  
 ‘Thy fated hour. That thou hadst power to do so  
 ‘Is thy own safety; thou hast dated on  
@@ -169,30 +169,30 @@ Then said the veiled shadow ‘Thou hast felt
 ‘But those to whom the miseries of the world  
 ‘Are misery, and will not let them rest.  
 ‘All else who find a haven in the world,  
-‘Where they may thoughtless sleep away their days,  
+‘Where they may thoughtless [[Sleep|sleep]] away their days,  
 ‘If by a chance into this fane they come,  
 ‘Rot on the pavement where thou rottedst half.’  
 ‘Are there not thousands in the world,’ said I,  
 Encourag’d by the sooth voice of the shade,  
-‘Who love their fellows even to the death;  
+‘Who [[Love|love]] their fellows even to the [[Death|death]];  
 ‘Who feel the giant agony of the world;  
 ‘And more, like slaves to poor humanity,  
 ‘Labour for mortal good? I sure should see  
-‘Other men here; but I am here alone.’  
+‘Other men here; but I am here [[Alone|alone]].’  
 ‘Those whom thou spak’st of are no vision’ries,’  
 Rejoin’d that voice; ‘they are no dreamers weak;  
-‘They seek no wonder but the human face,  
+‘They seek no [[Wonder|wonder]] but the human face,  
 ‘No music but a happy noted voice;  
 ‘They come not here, they have no thought to come;  
 ‘And thou art here, for thou art less than they:  
 ‘What benefit canst thou do, or all thy tribe,  
 ‘To the great world? Thou art a dreaming thing,  
 ‘A fever of thyself think of the Earth;  
-‘What bliss even in hope is there for thee?  
-‘What haven? every creature hath its home;  
-‘Every sole man hath days of joy and pain,  
-‘Whether his labours be sublime or low  
-‘The pain alone; the joy alone; distinct:  
+‘What bliss even in [[Hope|hope]] is there for thee?  
+‘What haven? every creature hath its [[Home|home]];  
+‘Every sole man hath days of joy and [[Pain|pain]],  
+‘Whether his labours be [[Sublime|sublime]] or low  
+‘The [[Pain|pain]] [[Alone|alone]]; the joy [[Alone|alone]]; distinct:  
 ‘Only the dreamer venoms all his days,  
 ‘Bearing more woe than all his sins deserve.  
 ‘Therefore, that happiness be somewhat shar’d,  
@@ -203,14 +203,14 @@ Rejoin’d that voice; ‘they are no dreamers weak;
 ‘That I am favour’d for unworthiness,  
 ‘By such propitious parley medicin’d  
 ‘In sickness not ignoble, I rejoice,  
-‘Aye, and could weep for love of such award.’  
+‘Aye, and could weep for [[Love|love]] of such award.’  
 So answer’d I, continuing, ‘If it please,  
-‘Majestic shadow, tell me: sure not all  
+‘Majestic [[Shadow|shadow]], tell me: sure not all  
 ‘Those melodies sung into the world’s ear  
 ‘Are useless: sure a poet is a sage;  
 ‘A humanist, physician to all men.  
 ‘That I am none I feel, as vultures feel  
-‘They are no birds when eagles are abroad.  
+‘They are no [[Birds|birds]] when eagles are abroad.  
 ‘What am I then? Thou spakest of my tribe:  
 ‘What tribe?’ The tall shade veil’d in drooping white  
 Then spake, so much more earnest, that the breath  
@@ -222,14 +222,14 @@ Pendent. ‘Art thou not of the dreamer tribe?
 ‘The one pours out a balm upon the world,  
 ‘The other vexes it.’ Then shouted I  
 Spite of myself, and with a Pythia’s spleen,  
-‘Apollo! faded! O far flown Apollo!  
+‘[[Apollo]]! faded! O far flown [[Apollo]]!  
 ‘Where is thy misty pestilence to creep  
 ‘Into the dwellings, through the door crannies  
-‘Of all mock lyrists, large self worshipers,  
+‘Of all mock lyrists, large [[Self|self]] worshipers,  
 ‘And careless Hectorers in proud bad verse.  
-‘Though I breathe death with them it will be life  
+‘Though I breathe [[Death|death]] with them it will be life  
 ‘To see them sprawl before me into graves.  
-‘Majestic shadow, tell me where I am,  
+‘Majestic [[Shadow|shadow]], tell me where I am,  
 ‘Whose altar this; for whom this incense curls;  
 ‘What image this whose face I cannot see,  
 ‘For the broad marble knees; and who thou art,  
@@ -240,18 +240,18 @@ Spoke out, so much more earnest, that her breath
 Stirr’d the thin folds of gauze that drooping hung  
 About a golden censer from her hand  
 Pendent; and by her voice I knew she shed  
-Long treasured tears. ‘This temple, sad and lone,  
+Long treasured [[Tears|tears]]. ‘This temple, sad and lone,  
 ‘Is all spar’d from the thunder of a war  
 ‘Foughten long since by giant hierarchy  
 ‘Against rebellion: this old image here,  
 ‘Whose carved features wrinkled as he fell,  
-‘Is Saturn’s; I Moneta, left supreme  
+‘Is [[Saturn]]’s; I Moneta, left supreme  
 ‘Sole priestess of this desolation.’  
 I had no words to answer, for my tongue,  
-Useless, could find about its roofed home  
+Useless, could find about its roofed [[Home|home]]  
 No syllable of a fit majesty  
 To make rejoinder to Moneta’s mourn.  
-There was a silence, while the altar’s blaze  
+There was a [[Silence|silence]], while the altar’s blaze  
 Was fainting for sweet food: I look’d thereon,  
 And on the paved floor, where nigh were piled  
 Faggots of cinnamon, and many heaps  
@@ -263,32 +263,32 @@ And so by turns till sad Moneta cried,
 ‘The sacrifice is done, but not the less  
 ‘Will I be kind to thee for thy good will.  
 ‘My power, which to me is still a curse,  
-‘Shall be to thee a wonder; for the scenes  
+‘Shall be to thee a [[Wonder|wonder]]; for the scenes  
 ‘Still swooning vivid through my globed brain  
 ‘With an electral changing misery  
 ‘Thou shalt with those dull mortal eyes behold,  
-‘Free from all pain, if wonder pain thee not.’  
+‘Free from all [[Pain|pain]], if [[Wonder|wonder]] [[Pain|pain]] thee not.’  
 As near as an immortal’s sphered words  
 Could to a mother’s soften, were these last:  
 And yet I had a terror of her robes,  
 And chiefly of the veils, that from her brow  
 Hung pale, and curtain’d her in mysteries  
-That made my heart too small to hold its blood.  
+That made my heart too small to hold its [[Blood|blood]].  
 This saw that Goddess, and with sacred hand  
 Parted the veils. Then saw I a wan face,  
 Not pin’d by human sorrows, but bright blanch’d  
 By an immortal sickness which kills not;  
-It works a constant change, which happy death  
+It works a constant change, which happy [[Death|death]]  
 Can put no end to; deathwards progressing  
-To no death was that visage; it had pass’d  
-The lily and the snow; and beyond these  
+To no [[Death|death]] was that visage; it had pass’d  
+The lily and the [[Snow|snow]]; and beyond these  
 I must not think now, though I saw that face  
 But for her eyes I should have fled away.  
 They held me back, with a benignant light  
 Soft mitigated by divinest lids  
 Half closed, and visionless entire they seem’d  
 Of all external things; they saw me not,  
-But in blank splendour beam’d like the mild moon,  
+But in blank splendour beam’d like the mild [[Moon|moon]],  
 Who comforts those she sees not, who knows not  
 What eyes are upward cast. As I had found  
 A grain of gold upon a mountain side,  
@@ -296,16 +296,16 @@ And twing’d with avarice strain’d out my eyes
 To search its sullen entrails rich with ore,  
 So at the view of sad Moneta’s brow  
 I ach’d to see what things the hollow brain  
-Behind enwombed: what high tragedy  
+Behind enwombed: what high [[Tragedy|tragedy]]  
 In the dark secret chambers of her skull  
 Was acting, that could give so dread a stress  
 To her cold lips, and fill with such a light  
 Her planetary eyes, and touch her voice  
-With such a sorrow ‘Shade of Memory!’  
+With such a sorrow ‘Shade of [[Memory]]!’  
 Cried I, with act adorant at her feet,  
-‘By all the gloom hung round thy fallen house,  
-‘By this last temple, by the golden age,  
-‘By great Apollo, thy dear Foster Child,  
+‘By all the gloom hung round thy fallen [[house]],  
+‘By this last temple, by the [[Golden Age|golden age]],  
+‘By great [[Apollo]], thy dear Foster [[Child]],  
 ‘And by thyself, forlorn divinity,  
 ‘The pale Omega of a withered race,  
 ‘Let me behold, according as thou saidst,  
@@ -315,12 +315,12 @@ My devout lips, than side by side we stood
 (Like a stunt bramble by a solemn pine)  
 Deep in the shady sadness of a vale,  
 Far sunken from the healthy breath of morn,  
-Far from the fiery noon and eve’s one star.  
+Far from the fiery [[Noon|noon]] and eve’s one star.  
 Onward I look’d beneath the gloomy boughs,  
 And saw, what first I thought an image huge,  
 Like to the image pedestal’d so high  
-In Saturn’s temple. Then Moneta’s voice  
-Came brief upon mine ear ‘So Saturn sat  
+In [[Saturn]]’s temple. Then Moneta’s voice  
+Came brief upon mine ear ‘So [[Saturn]] sat  
 When he had lost his realms ‘ whereon there grew  
 A power within me of enormous ken  
 To see as a god sees, and take the depth  
@@ -331,7 +331,7 @@ With half unravel’d web. I set myself
 Upon an eagle’s watch, that I might see,  
 And seeing ne’er forget. No stir of life  
 Was in this shrouded vale, not so much air  
-As in the zoning of a summer’s day  
+As in the zoning of a [[Summer|summer]]’s day  
 Robs not one light seed from the feather’d grass,  
 But where the dead leaf fell there did it rest.  
 A stream went voiceless by, still deaden’d more  
@@ -339,8 +339,8 @@ By reason of the fallen divinity
 Spreading more shade; the Naiad ‘mid her reeds  
 Press’d her cold finger closer to her lips.  
 Along the margin sand large footmarks went  
-No farther than to where old Saturn’s feet  
-Had rested, and there slept, how long a sleep!  
+No farther than to where old [[Saturn]]’s feet  
+Had rested, and there slept, how long a [[Sleep|sleep]]!  
 Degraded, cold, upon the sodden ground  
 His old right hand lay nerveless, listless, dead,  
 Unsceptred; and his realmless eyes were clos’d,  
@@ -354,27 +354,27 @@ With reverence, though to one who knew it not.
 Then came the griev’d voice of Mnemosyne,  
 And griev’d I hearken’d. ‘That divinity  
 ‘Whom thou saw’st step from yon forlornest wood,  
-‘And with slow pace approach our fallen King,  
+‘And with slow pace approach our fallen [[King]],  
 ‘Is Thea, softest natur’d of our brood.’  
 I mark’d the Goddess in fair statuary  
 Surpassing wan Moneta by the head,  
-And in her sorrow nearer woman’s tears.  
-There was a listening fear in her regard,  
+And in her sorrow nearer woman’s [[Tears|tears]].  
+There was a listening [[Fear|fear]] in her regard,  
 As if calamity had but begun;  
 As if the vanward clouds of evil days  
 Had spent their malice, and the sullen rear  
 Was with its stored thunder labouring up.  
 One hand she press’d upon that aching spot  
 Where beats the human heart, as if just there,  
-Though an immortal, she felt cruel pain;  
-The other upon Saturn’s bended neck  
+Though an immortal, she felt cruel [[Pain|pain]];  
+The other upon [[Saturn]]’s bended neck  
 She laid, and to the level of his hollow ear  
 Leaning with parted lips, some words she spake  
 In solemn tenor and deep organ tune;  
 Some mourning words, which in our feeble tongue  
 Would come in this like accenting; how frail  
 To that large utterance of the early Gods!  
-‘Saturn! look up and for what, poor lost King?  
+‘[[Saturn]]! look up and for what, poor lost [[King]]?  
 ‘I have no comfort for thee; no not one;  
 ‘I cannot cry, Wherefore thus sleepest thou?  
 ‘For Heaven is parted from thee, and the Earth  
@@ -383,74 +383,74 @@ To that large utterance of the early Gods!
 ‘Has from thy sceptre pass’d, and all the air  
 ‘Is emptied of thine hoary majesty:  
 ‘Thy thunder, captious at the new command,  
-‘Rumbles reluctant o’er our fallen house;  
-‘And thy sharp lightning, in unpracticed hands,  
+‘Rumbles reluctant o’er our fallen [[house]];  
+‘And thy sharp [[Lightning|lightning]], in unpracticed hands,  
 ‘Scorches and burns our once serene domain.  
-‘With such remorseless speed still come new woes,  
+‘With such remorseless [[Speed|speed]] still come new woes,  
 ‘That unbelief has not a space to breathe.  
-‘Saturn! sleep on: Me thoughtless, why should I  
-‘Thus violate thy slumbrous solitude?  
-‘Why should I ope thy melancholy eyes?  
-‘Saturn, sleep on, while at thy feet I weep.’  
+‘[[Saturn]]! [[Sleep|sleep]] on: Me thoughtless, why should I  
+‘Thus violate thy slumbrous [[Solitude|solitude]]?  
+‘Why should I ope thy [[Melancholy|melancholy]] eyes?  
+‘[[Saturn]], [[Sleep|sleep]] on, while at thy feet I weep.’  
 
-As when upon a tranced summer night  
-Forests, branch charmed by the earnest stars,  
-Dream, and so dream all night without a noise,  
+As when upon a tranced [[Summer|summer]] [[Night|night]]  
+Forests, branch charmed by the earnest [[Stars|stars]],  
+Dream, and so dream all [[Night|night]] without a noise,  
 Save from one gradual solitary gust,  
-Swelling upon the silence; dying off;  
+Swelling upon the [[Silence|silence]]; dying off;  
 As if the ebbing air had but one wave;  
-So came these words, and went; the while in tears  
+So came these words, and went; the while in [[Tears|tears]]  
 She press’d her fair large forehead to the earth,  
 Just where her fallen hair might spread in curls  
-A soft and silken mat for Saturn’s feet.  
+A soft and silken mat for [[Saturn]]’s feet.  
 Long, long those two were postured motionless,  
-Like sculpture builded up upon the grave  
-Of their own power. A long awful time  
+Like sculpture builded up upon the [[Grave|grave]]  
+Of their own power. A long awful [[Time|time]]  
 I look’d upon them: still they were the same;  
 The frozen God still bending to the earth,  
 And the sad Goddess weeping at his feet,  
 Moneta silent. Without stay or prop  
-But my own weak mortality, I bore  
+But my own weak [[Mortality|mortality]], I bore  
 The load of this eternal quietude,  
 The unchanging gloom, and the three fixed shapes  
-Ponderous upon my senses, a whole moon.  
+Ponderous upon my senses, a whole [[Moon|moon]].  
 For by my burning brain I measured sure  
-Her silver seasons shedded on the night,  
+Her silver [[Seasons|seasons]] shedded on the [[Night|night]],  
 And ever day by day methought I grew  
 More gaunt and ghostly. Oftentimes I pray’d  
-Intense, that Death would take me from the vale  
-And all its burthens gasping with despair  
+Intense, that [[Death]] would take me from the vale  
+And all its burthens gasping with [[Despair|despair]]  
 Of change, hour after hour I curs’d myself;  
-Until old Saturn rais’d his faded eyes,  
+Until old [[Saturn]] rais’d his faded eyes,  
 And look’d around and saw his kingdom gone,  
 And all the gloom and sorrow of the place,  
 And that fair kneeling Goddess at his feet.  
-As the moist scent of flowers, and grass, and leaves  
+As the moist scent of [[Flowers|flowers]], and grass, and [[Leaves|leaves]]  
 Fills forest dells with a pervading air,  
 Known to the woodland nostril, so the words  
-Of Saturn fill’d the mossy glooms around,  
-Even to the hollows of time eaten oaks  
+Of [[Saturn]] fill’d the mossy glooms around,  
+Even to the hollows of [[Time|time]] eaten oaks  
 And to the windings of the foxes’ hole,  
 With sad low tones, while thus he spake, and sent  
 Strange musings to the solitary Pan.  
-‘Moan, brethren, moan; for we are swallow’d up  
+‘Moan, brethren, moan; for we are [[Swallow|swallow]]’d up  
 ‘And buried from all Godlike exercise  
 ‘Of influence benign on planets pale,  
 ‘And peaceful sway above man’s harvesting,  
 ‘And all those acts which Deity supreme  
-‘Doth ease its heart of love in. Moan and wail,  
-‘Moan, brethren, moan; for lo, the rebel spheres  
-‘Spin round, the stars their ancient courses keep,  
+‘Doth ease its heart of [[Love|love]] in. Moan and wail,  
+‘Moan, brethren, moan; for lo, the [[Rebel|rebel]] spheres  
+‘Spin round, the [[Stars|stars]] their ancient courses keep,  
 ‘Clouds still with shadowy moisture haunt the earth,  
-‘Still suck their fill of light from sun and moon,  
+‘Still suck their fill of light from sun and [[Moon|moon]],  
 ‘Still buds the tree, and still the sea shores murmur;  
-‘There is no death in all the Universe,  
-‘No smell of death there shall be death Moan, moan,  
+‘There is no [[Death|death]] in all the Universe,  
+‘No smell of [[Death|death]] there shall be [[Death|death]] Moan, moan,  
 ‘Moan, Cybele, moan; for thy pernicious babes  
 ‘Have changed a God into a shaking Palsy.  
 ‘Moan, brethren, moan, for I have no strength left,  
 ‘Weak as the reed weak feeble as my voice  
-‘O, O, the pain, the pain of feebleness.  
+‘O, O, the [[Pain|pain]], the [[Pain|pain]] of feebleness.  
 ‘Moan, moan, for still I thaw or give me help;  
 ‘Throw down those imps, and give me victory.  
 ‘Let me hear other groans, and trumpets blown  
@@ -469,26 +469,26 @@ And dolorous accent from a tragic harp
 With large limb’d visions. More I scrutinized:  
 Still fix’d he sat beneath the sable trees,  
 Whose arms spread straggling in wild serpent forms,  
-With leaves all hush’d; his awful presence there  
+With [[Leaves|leaves]] all hush’d; his awful presence there  
 (Now all was silent) gave a deadly lie  
 To what I erewhile heard only his lips  
 Trembled amid the white curls of his beard.  
-They told the truth, though, round, the snowy locks  
+They told the [[Truth|truth]], though, round, the snowy locks  
 Hung nobly, as upon the face of heaven  
 A mid day fleece of clouds. Thea arose,  
 And stretched her white arm through the hollow dark,  
-Pointing some whither: whereat he too rose  
+Pointing some whither: whereat he too [[Rose|rose]]  
 Like a vast giant, seen by men at sea  
 To grow pale from the waves at dull midnight.  
 They melted from my sight into the woods;  
 Ere I could turn, Moneta cried, ‘These twain  
 ‘Are speeding to the families of grief,  
-‘Where roof’d in by black rocks they waste, in pain  
-‘And darkness, for no hope.’ And she spake on,  
+‘Where roof’d in by black rocks they waste, in [[Pain|pain]]  
+‘And darkness, for no [[Hope|hope]].’ And she spake on,  
 As ye may read who can unwearied pass  
 Onward from the antechamber of this dream,  
 Where even at the open doors awhile  
-I must delay, and glean my memory  
+I must delay, and glean my [[Memory|memory]]  
 Of her high phrase: perhaps no further dare.  
 
 CANTO II  
@@ -496,18 +496,18 @@ CANTO II
 ‘Mortal, that thou may’st understand aright,  
 ‘I humanize my sayings to thine ear,  
 ‘Making comparisons of earthly things;  
-‘Or thou might’st better listen to the wind,  
+‘Or thou might’st better listen to the [[Wind|wind]],  
 ‘Whose language is to thee a barren noise,  
 ‘Though it blows legend laden through the trees.  
-‘In melancholy realms big tears are shed,  
+‘In [[Melancholy|melancholy]] realms big [[Tears|tears]] are shed,  
 ‘More sorrow like to this, and such like woe,  
 ‘Too huge for mortal tongue, or pen of scribe.  
-‘The Titans fierce, self hid or prison bound,  
+‘The Titans fierce, [[Self|self]] hid or [[Prison|prison]] bound,  
 ‘Groan for the old allegiance once more,  
-‘Listening in their doom for Saturn’s voice.  
+‘Listening in their doom for [[Saturn]]’s voice.  
 ‘But one of our whole eagle brood still keeps  
 ‘His sov’reignty, and rule, and majesty;  
-‘Blazing Hyperion on his orbed fire  
+‘Blazing [[Hyperion]] on his orbed [[Fire|fire]]  
 ‘Still sits, still snuffs the incense teeming up  
 ‘From man to the sun’s God: yet unsecure,  
 ‘For as upon the earth dire prodigies  
@@ -516,10 +516,10 @@ CANTO II
 ‘Or the familiar visitings of one  
 ‘Upon the first toll of his passing bell:  
 ‘But horrors, portioned to a giant nerve,  
-‘Make great Hyperion ache. His palace bright,  
+‘Make great [[Hyperion]] ache. His palace bright,  
 ‘Bastion’d with pyramids of glowing gold,  
 ‘And touch’d with shade of bronzed obelisks,  
-‘Glares a blood red through all the thousand courts,  
+‘Glares a [[Blood|blood]] red through all the thousand courts,  
 ‘Arches, and domes, and fiery galleries:  
 ‘And all its curtains of Aurorian clouds  
 ‘Flush angerly; when he would taste the wreaths  
@@ -534,12 +534,12 @@ CANTO II
 ‘With strides colossal, on from hall to hall;  
 ‘While far within each aisle and deep recess  
 ‘His winged minions in close clusters stand  
-‘Amaz’d, and full of fear; like anxious men,  
+‘Amaz’d, and full of [[Fear|fear]]; like anxious men,  
 ‘Who on a wide plain gather in sad troops,  
 ‘When earthquakes jar their battlements and towers.  
-‘Even now, while Saturn, roused from icy trance,  
+‘Even now, while [[Saturn]], roused from icy trance,  
 ‘Goes step for step with Thea from yon woods,  
-‘Hyperion, leaving twilight in the rear,  
+‘[[Hyperion]], leaving twilight in the rear,  
 ‘Is sloping to the threshold of the West.  
 ‘Thither we tend.’ Now in clear light I stood,  
 Reliev’d from the dusk vale. Mnemosyne  
@@ -549,8 +549,8 @@ Her priestess garments. My quick eyes ran on
 From stately nave to nave, from vault to vault,  
 Through bow’rs of fragrant and enwreathed light  
 And diamond paved lustrous long arcades.  
-Anon rush’d by the bright Hyperion;  
+Anon rush’d by the bright [[Hyperion]];  
 His flaming robes stream’d out beyond his heels,  
-And gave a roar, as if of earthly fire,  
+And gave a roar, as if of earthly [[Fire|fire]],  
 That scared away the meek ethereal hours  
 And made their dove wings tremble. On he flared.  

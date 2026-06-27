@@ -52,7 +52,7 @@ happened to-morrow. They named their books by cold titles suggesting
 
 straight corridors of marble--titles like _Looking Backward_. But Morris
 
-was an artist as well as an anarchist. _News from Nowhere_ is an
+was an [[artist]] as [[Well|well]] as an anarchist. _News from Nowhere_ is an
 
 irresponsible title; and it is an irresponsible book. It does not
 
@@ -66,7 +66,7 @@ he could even dream so is his true dignity as a poet. He was the first
 
 of the Æsthetes to smell mediævalism as a smell of the morning; and not
 
-as a mere scent of decay.
+as a mere scent of [[Decay|decay]].
 
 
 
@@ -78,7 +78,7 @@ minor names of major importance; but for one reason or other they do not
 
 derive from the schools that had dominated this epoch as such. Thus
 
-Thompson, the author of _The City of Dreadful Night_, was a fine poet;
+Thompson, the author of _The [[City]] of Dreadful Night_, was a fine poet;
 
 but his pessimism combined with a close pugnacity does not follow any of
 
@@ -94,7 +94,7 @@ Elizabethan as Browning; and often in moods and metres that even
 
 Browning was never wild enough to think of. No one will ever forget the
 
-first time he read Patmore's hint that the cosmos is a thing that God
+first [[Time|time]] he read Patmore's hint that the cosmos is a thing that God
 
 made huge only "to make dirt cheap"; just as nobody will ever forget the
 
@@ -108,7 +108,7 @@ Catholic Browning, keeps him out of the Victorian atmosphere as such.
 
 The Victorian English simply thought him an indecent sentimentalist, as
 
-they did all the hot and humble religious diarists of Italy or Spain.
+they did all the hot and humble religious diarists of [[Italy]] or Spain.
 
 Something of the same fate followed the most powerful of that last
 
@@ -132,7 +132,7 @@ right reason of Wordsworth--
 
 But none of them were able even to understand Francis Thompson; his
 
-sky-scraping humility, his mountains of mystical detail, his occasional
+sky-scraping [[Humility|humility]], his [[Mountains|mountains]] of mystical detail, his occasional
 
 and unashamed weakness, his sudden and sacred blasphemies. Perhaps the
 

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 11 (part 3)"
+title: "[[Shirley]] — Chapter 11 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-never fear. We'll find balm in Gilead."
+never [[Fear|fear]]. We'll find balm in Gilead."
 
 
 
@@ -28,7 +28,7 @@ never fear. We'll find balm in Gilead."
 
 Sympathizing was the word on Caroline's lips, but it was not uttered.
 
-She checked herself in time. Her uncle would indeed have laughed if that
+She checked herself in [[Time|time]]. Her uncle would indeed have laughed if that
 
 namby-pamby word had escaped her. Finding her silent, he said, "The fact
 
@@ -62,15 +62,15 @@ constitution had contained the seeds of consumption, decline, or slow
 
 fever, those diseases would have been rapidly developed, and would soon
 
-have carried her quietly from the world. People never die of love or
+have carried her quietly from the world. People never die of [[Love|love]] or
 
-grief alone, though some die of inherent maladies which the tortures of
+grief [[Alone|alone]], though some die of inherent maladies which the tortures of
 
 those passions prematurely force into destructive action. The sound by
 
-nature undergo these tortures, and are racked, shaken, shattered; their
+[[Nature|nature]] undergo these tortures, and are racked, shaken, shattered; their
 
-beauty and bloom perish, but life remains untouched. They are brought to
+[[Beauty|beauty]] and bloom perish, but life remains untouched. They are brought to
 
 a certain point of dilapidation; they are reduced to pallor, debility,
 
@@ -82,13 +82,13 @@ among the healthy and happy. This does not happen. They live on; and
 
 though they cannot regain youth and gaiety, they may regain strength and
 
-serenity. The blossom which the March wind nips, but fails to sweep
+serenity. The blossom which the March [[Wind|wind]] nips, but fails to sweep
 
-away, may survive to hang a withered apple on the tree late into autumn:
+away, may survive to hang a withered apple on the tree late into [[Autumn|autumn]]:
 
-having braved the last frosts of spring, it may also brave the first of
+having braved the last frosts of [[spring]], it may also brave the first of
 
-winter.
+[[Winter|winter]].
 
 
 
@@ -96,15 +96,15 @@ Every one noticed the change in Miss Helstone's appearance, and most
 
 people said she was going to die. She never thought so herself. She felt
 
-in no dying case; she had neither pain nor sickness. Her appetite was
+in no dying case; she had neither [[Pain|pain]] nor sickness. Her appetite was
 
 diminished; she knew the reason. It was because she wept so much at
 
-night. Her strength was lessened; she could account for it. Sleep was
+[[Night|night]]. Her strength was lessened; she could account for it. [[Sleep]] was
 
-coy and hard to be won; dreams were distressing and baleful. In the far
+coy and hard to be won; [[Dreams|dreams]] were distressing and baleful. In the far
 
-future she still seemed to anticipate a time when this passage of misery
+future she still seemed to anticipate a [[Time|time]] when this passage of misery
 
 should be got over, and when she should once more be calm, though
 
@@ -136,13 +136,13 @@ gentlemen--quite as worldly and selfish. Those who suffer should always
 
 avoid them. Grief and calamity they despise; they seem to regard them as
 
-the judgments of God on the lowly. With them, to "love" is merely to
+the judgments of God on the lowly. With them, to "[[Love|love]]" is merely to
 
 contrive a scheme for achieving a good match; to be "disappointed" is to
 
 have their scheme seen through and frustrated. They think the feelings
 
-and projects of others on the subject of love similar to their own, and
+and projects of others on the subject of [[Love|love]] similar to their own, and
 
 judge them accordingly.
 
@@ -162,11 +162,11 @@ of the neighbourhood.
 
 One morning her uncle came into the parlour, where she sat endeavouring
 
-to find some pleasure in painting a little group of wild flowers,
+to find some pleasure in painting a little group of wild [[Flowers|flowers]],
 
 gathered under a hedge at the top of the Hollow fields, and said to her
 
-in his abrupt manner, "Come, child, you are always stooping over
+in his abrupt manner, "Come, [[Child|child]], you are always stooping over
 
 palette, or book, or sampler; leave that tinting work. By-the-bye, do
 
@@ -180,7 +180,7 @@ you put your pencil to your lips when you paint?"
 
 "Then it is that which is poisoning you. The paints are deleterious,
 
-child. There is white lead and red lead, and verdigris, and gamboge, and
+[[Child|child]]. There is white lead and red lead, and verdigris, and gamboge, and
 
 twenty other poisons in those colour cakes. Lock them up! lock them up!
 
@@ -200,7 +200,7 @@ occasion.
 
 
 
-"Quick! quick! I am always busy, you know. I have no time to lose."
+"Quick! quick! I am always busy, you know. I have no [[Time|time]] to lose."
 
 
 
@@ -218,7 +218,7 @@ were going.
 
 
 
-"We are going to see Miss Shirley Keeldar."
+"We are going to see Miss [[Shirley Keeldar]]."
 
 
 
@@ -228,7 +228,7 @@ were going.
 
 "She is. She has been there a week. I met her at a party last
 
-night--that party to which you would not go. I was pleased with her. I
+[[Night|night]]--that party to which you would not go. I was pleased with her. I
 
 choose that you shall make her acquaintance. It will do you good."
 
@@ -238,7 +238,7 @@ choose that you shall make her acquaintance. It will do you good."
 
 
 
-"She is come of age, and will reside for a time on her property. I
+"She is come of age, and will reside for a [[Time|time]] on her property. I
 
 lectured her on the subject; I showed her her duty. She is not
 
@@ -262,7 +262,7 @@ What good can I do her? How can I amuse her?"
 
 
 
-"Don't know. You hardly imagine she would show her pride to me, I
+"Don't know. You hardly imagine she would show her [[Pride|pride]] to me, I
 
 suppose? A chit like that would scarcely presume to give herself airs
 

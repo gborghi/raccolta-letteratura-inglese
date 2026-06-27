@@ -14,24 +14,24 @@ tags:
 </nav>
 
 
-‘Right you are!’ cried Wegg. ‘Then,’ screwing the weight of his body
+‘Right you are!’ cried Wegg. ‘Then,’ screwing the weight of his [[Body|body]]
 upon his wooden leg, and screwing his wooden head very much on one side,
 and screwing up one eye: ‘then, I put the question to you, what’s this
 paper worth?’
 
-‘Nothing,’ said John Harmon.
+‘Nothing,’ said [[John Harmon]].
 
 Wegg had repeated the word with a sneer, and was entering on some
 sarcastic retort, when, to his boundless amazement, he found himself
 gripped by the cravat; shaken until his teeth chattered; shoved back,
 staggering, into a corner of the room; and pinned there.
 
-‘You scoundrel!’ said John Harmon, whose seafaring hold was like that of
+‘You scoundrel!’ said [[John Harmon]], whose seafaring hold was like that of
 a vice.
 
 ‘You’re knocking my head against the wall,’ urged Silas faintly.
 
-‘I mean to knock your head against the wall,’ returned John Harmon,
+‘I mean to knock your head against the wall,’ returned [[John Harmon]],
 suiting his action to his words, with the heartiest good will; ‘and I’d
 give a thousand pounds for leave to knock your brains out. Listen, you
 scoundrel, and look at that Dutch bottle.’
@@ -39,13 +39,13 @@ scoundrel, and look at that Dutch bottle.’
 Sloppy held it up, for his edification.
 
 ‘That Dutch bottle, scoundrel, contained the latest will of the many
-wills made by my unhappy self-tormenting father. That will gives
+wills made by my unhappy [[Self|self]]-tormenting father. That will gives
 everything absolutely to my noble benefactor and yours, Mr Boffin,
 excluding and reviling me, and my sister (then already dead of a broken
 heart), by name. That Dutch bottle was found by my noble benefactor and
 yours, after he entered on possession of the estate. That Dutch bottle
 distressed him beyond measure, because, though I and my sister were
-both no more, it cast a slur upon our memory which he knew we had
+both no more, it cast a slur upon our [[Memory|memory]] which he knew we had
 done nothing in our miserable youth, to deserve. That Dutch bottle,
 therefore, he buried in the Mound belonging to him, and there it lay
 while you, you thankless wretch, were prodding and poking—often very
@@ -66,20 +66,20 @@ Judging from the fallen countenance of Silas as his head wagged
 backwards and forwards in a most uncomfortable manner, he did
 understand.
 
-‘Now, scoundrel,’ said John Harmon, taking another sailor-like turn on
+‘Now, scoundrel,’ said [[John Harmon]], taking another sailor-like turn on
 his cravat and holding him in his corner at arms’ length, ‘I shall make
-two more short speeches to you, because I hope they will torment you.
+two more short speeches to you, because I [[Hope|hope]] they will torment you.
 Your discovery was a genuine discovery (such as it was), for nobody had
 thought of looking into that place. Neither did we know you had made it,
-until Venus spoke to Mr Boffin, though I kept you under good observation
+until [[Venus]] spoke to Mr Boffin, though I kept you under good observation
 from my first appearance here, and though Sloppy has long made it
 the chief occupation and delight of his life, to attend you like your
-shadow. I tell you this, that you may know we knew enough of you to
+[[Shadow|shadow]]. I tell you this, that you may know we knew enough of you to
 persuade Mr Boffin to let us lead you on, deluded, to the last possible
 moment, in order that your disappointment might be the heaviest possible
 disappointment. That’s the first short speech, do you understand?’
 
-Here, John Harmon assisted his comprehension with another shake.
+Here, [[John Harmon]] assisted his comprehension with another shake.
 
 ‘Now, scoundrel,’ he pursued, ‘I am going to finish. You supposed me
 just now, to be the possessor of my father’s property.—So I am. But
@@ -90,10 +90,10 @@ the fortune, and that he should take his Mound and no more. I owe
 everything I possess, solely to the disinterestedness, uprightness,
 tenderness, goodness (there are no words to satisfy me) of Mr and Mrs
 Boffin. And when, knowing what I knew, I saw such a mud-worm as you
-presume to rise in this house against this noble soul, the wonder is,’
-added John Harmon through his clenched teeth, and with a very ugly turn
+presume to rise in this [[house]] against this noble [[Soul|soul]], the [[Wonder|wonder]] is,’
+added [[John Harmon]] through his clenched teeth, and with a very ugly turn
 indeed on Wegg’s cravat, ‘that I didn’t try to twist your head off,
-and fling THAT out of window! So. That’s the last short speech, do you
+and fling THAT out of [[Window|window]]! So. That’s the last short speech, do you
 understand?’
 
 Silas, released, put his hand to his throat, cleared it, and looked as
@@ -109,14 +109,14 @@ to entertain. But I shouldn’t like to leave you, after all said and
 done, worse off in life than I found you. Therefore say in a word,
 before we part, what it’ll cost to set you up in another stall.’
 
-‘And in another place,’ John Harmon struck in. ‘You don’t come outside
+‘And in another place,’ [[John Harmon]] struck in. ‘You don’t come outside
 these windows.’
 
 ‘Mr Boffin,’ returned Wegg in avaricious humiliation: ‘when I first had
-the honour of making your acquaintance, I had got together a collection
+the [[Honour|honour]] of making your acquaintance, I had got together a collection
 of ballads which was, I may say, above price.’
 
-‘Then they can’t be paid for,’ said John Harmon, ‘and you had better not
+‘Then they can’t be paid for,’ said [[John Harmon]], ‘and you had better not
 try, my dear sir.’
 
 ‘Pardon me, Mr Boffin,’ resumed Wegg, with a malignant glance in the

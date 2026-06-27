@@ -23,9 +23,9 @@ door, “he’s rough, Sir, in appearance.”
 Ask him to wait.”
 
 Mr Perch bowed; and shutting the door, as precisely and carefully as if
-he were not coming back for a week, went on his quest among the
-sparrows in the court. While he was gone, Mr Carker assumed his
-favourite attitude before the fire-place, and stood looking at the
+he were not coming back for a week, went on his [[Quest|quest]] among the
+sparrows in the [[Court|court]]. While he was gone, Mr Carker assumed his
+favourite attitude before the [[Fire|fire]]-place, and stood looking at the
 door; presenting, with his under lip tucked into the smile that showed
 his whole row of upper teeth, a singularly crouching apace.
 
@@ -34,13 +34,13 @@ boots that came bumping along the passage like boxes. With the
 unceremonious words “Come along with you!”—a very unusual form of
 introduction from his lips—Mr Perch then ushered into the presence a
 strong-built lad of fifteen, with a round red face, a round sleek head,
-round black eyes, round limbs, and round body, who, to carry out the
+round black eyes, round limbs, and round [[Body|body]], who, to carry out the
 general rotundity of his appearance, had a round hat in his hand,
 without a particle of brim to it.
 
 Obedient to a nod from Mr Carker, Perch had no sooner confronted the
 visitor with that gentleman than he withdrew. The moment they were face
-to face alone, Mr Carker, without a word of preparation, took him by
+to face [[Alone|alone]], Mr Carker, without a word of preparation, took him by
 the throat, and shook him until his head seemed loose upon his
 shoulders.
 
@@ -50,15 +50,15 @@ and at the office walls, as though determined, if he were choked, that
 his last look should be at the mysteries for his intrusion into which
 he was paying such a severe penalty, at last contrived to utter—
 
-“Come, Sir! You let me alone, will you!”
+“Come, Sir! You let me [[Alone|alone]], will you!”
 
-“Let you alone!” said Mr Carker. “What! I have got you, have I?” There
-was no doubt of that, and tightly too. “You dog,” said Mr Carker,
+“Let you [[Alone|alone]]!” said Mr Carker. “What! I have got you, have I?” There
+was no [[Doubt|doubt]] of that, and tightly too. “You dog,” said Mr Carker,
 through his set jaws, “I’ll strangle you!”
 
 Biler whimpered, would he though? oh no he wouldn’t—and what was he
-doing of—and why didn’t he strangle some—body of his own size and not
-him: but Biler was quelled by the extraordinary nature of his
+doing of—and why didn’t he strangle some—[[Body|body]] of his own size and not
+him: but Biler was quelled by the extraordinary [[Nature|nature]] of his
 reception, and, as his head became stationary, and he looked the
 gentleman in the face, or rather in the teeth, and saw him snarling at
 him, he so far forgot his manhood as to cry.
@@ -74,13 +74,13 @@ daring to come here?”
 throat, and the knuckles of the other to his eyes. “I’ll never come
 again, Sir. I only wanted work.”
 
-“Work, young Cain that you are!” repeated Mr Carker, eyeing him
-narrowly. “Ain’t you the idlest vagabond in London?”
+“Work, young [[Cain]] that you are!” repeated Mr Carker, eyeing him
+narrowly. “Ain’t you the idlest vagabond in [[London]]?”
 
 The impeachment, while it much affected Mr Toodle Junior, attached to
 his character so justly, that he could not say a word in denial. He
 stood looking at the gentleman, therefore, with a frightened,
-self-convicted, and remorseful air. As to his looking at him, it may be
+[[Self|self]]-convicted, and remorseful air. As to his looking at him, it may be
 observed that he was fascinated by Mr Carker, and never took his round
 eyes off him for an instant.
 
@@ -95,16 +95,16 @@ pockets.
 thieve, Sir, if you’ll believe me. I know I’ve been a going wrong, Sir,
 ever since I took to bird-catching and walking-matching. I’m sure a
 cove might think,” said Mr Toodle Junior, with a burst of penitence,
-“that singing birds was innocent company, but nobody knows what harm is
+“that singing [[Birds|birds]] was [[Innocent|innocent]] company, but nobody knows what harm is
 in them little creeturs and what they brings you down to.”
 
 They seemed to have brought him down to a velveteen jacket and trousers
 very much the worse for wear, a particularly small red waistcoat like a
 gorget, an interval of blue check, and the hat before mentioned.
 
-“I ain’t been home twenty times since them birds got their will of me,”
-said Rob, “and that’s ten months. How can I go home when everybody’s
-miserable to see me! I wonder,” said Biler, blubbering outright, and
+“I ain’t been [[Home|home]] twenty times since them [[Birds|birds]] got their will of me,”
+said Rob, “and that’s ten months. How can I go [[Home|home]] when everybody’s
+miserable to see me! I [[Wonder|wonder]],” said Biler, blubbering outright, and
 smearing his eyes with his coat-cuff, “that I haven’t been and drownded
 myself over and over again.”
 
@@ -133,7 +133,7 @@ and pounded when I got there. So I wagged, and hid myself, and that
 began it.”
 
 “And you mean to tell me,” said Mr Carker, taking him by the throat
-again, holding him out at arm’s-length, and surveying him in silence
+again, holding him out at arm’s-length, and surveying him in [[Silence|silence]]
 for some moments, “that you want a place, do you?”
 
 “I should be thankful to be tried, Sir,” returned Toodle Junior,
@@ -149,4 +149,4 @@ Mr Perch was too deferential to express surprise or recognition of the
 figure in the corner: and Uncle Sol appeared immediately.
 
 “Mr Gills!” said Carker, with a smile, “sit down. How do you do? You
-continue to enjoy your health, I hope?”
+continue to enjoy your health, I [[Hope|hope]]?”

@@ -1,5 +1,5 @@
 ---
-title: "Edward III — Scene 2 — monologue (LODOWICK) [6]"
+title: "[[Edward III]] — Scene 2 — monologue (LODOWICK) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/EDWARD-III-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| LODOWICK | I might perceive his eye in her eye lost, His ear to drink her sweet tongue’s utterance, And changing passion, like inconstant clouds That rack upon the carriage of the winds, Increase and die in his disturbed cheeks. Lo, when she blushed, even then did he look pale, As if her cheeks by some enchanted power Attracted had the cherry blood from his. Anon, with reverent fear when she grew pale, His cheeks put on their scarlet ornaments, But no more like her oriental red Than brick to coral or live things to dead. Why did he then thus counterfeit her looks? If she did blush, ‘twas tender modest shame Being in the sacred presence of a king. If he did blush, ’twas rude immodest shame To vail his eyes amiss, being a king. If she looked pale, ‘twas seely woman’s fear To bear herself in presence of a king. If he looked pale, it was with guilty fear To dote amiss, being a mighty king. Then, Scottish wars, farewell. I fear ’twill prove A ling’ring English siege of peevish love. Enter King Edward Here comes his highness, walking all alone. Lodowick withdraws |
+| LODOWICK | I might perceive his eye in her eye lost, His ear to drink her sweet tongue’s utterance, And changing passion, like inconstant clouds That rack upon the carriage of the winds, Increase and die in his disturbed cheeks. Lo, when she blushed, even then did he look pale, As if her cheeks by some enchanted power Attracted had the cherry [[Blood|blood]] from his. Anon, with reverent [[Fear|fear]] when she grew pale, His cheeks put on their scarlet ornaments, But no more like her oriental red Than brick to coral or live things to dead. Why did he then thus counterfeit her looks? If she did blush, ‘twas tender modest shame Being in the sacred presence of a [[King|king]]. If he did blush, ’twas rude immodest shame To vail his eyes amiss, being a [[King|king]]. If she looked pale, ‘twas seely woman’s [[Fear|fear]] To bear herself in presence of a [[King|king]]. If he looked pale, it was with guilty [[Fear|fear]] To dote amiss, being a mighty [[King|king]]. Then, Scottish wars, farewell. I [[Fear|fear]] ’twill prove A ling’ring English siege of peevish [[Love|love]]. Enter [[King]] Edward Here comes his highness, walking all [[Alone|alone]]. Lodowick withdraws |

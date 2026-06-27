@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 28"
+title: "[[Sense and Sensibility]] — Chapter 28"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,7 +24,7 @@ Nothing occurred during the next three or four days, to make Elinor
 
 regret what she had done, in applying to her mother; for Willoughby
 
-neither came nor wrote. They were engaged about the end of that time to
+neither came nor wrote. They were engaged about the end of that [[Time|time]] to
 
 attend Lady Middleton to a party, from which Mrs. Jennings was kept
 
@@ -34,9 +34,9 @@ Marianne, wholly dispirited, careless of her appearance, and seeming
 
 equally indifferent whether she went or staid, prepared, without one
 
-look of hope or one expression of pleasure. She sat by the drawing-room
+look of [[Hope|hope]] or one expression of pleasure. She sat by the drawing-room
 
-fire after tea, till the moment of Lady Middleton’s arrival, without
+[[Fire|fire]] after tea, till the moment of Lady Middleton’s arrival, without
 
 once stirring from her seat, or altering her attitude, lost in her own
 
@@ -48,7 +48,7 @@ started as if she had forgotten that any one was expected.
 
 
 
-They arrived in due time at the place of destination, and as soon as
+They arrived in due [[Time|time]] at the place of destination, and as soon as
 
 the string of carriages before them would allow, alighted, ascended the
 
@@ -58,13 +58,13 @@ in an audible voice, and entered a room splendidly lit up, quite full
 
 of company, and insufferably hot. When they had paid their tribute of
 
-politeness by curtsying to the lady of the house, they were permitted
+politeness by curtsying to the lady of the [[house]], they were permitted
 
 to mingle in the crowd, and take their share of the heat and
 
 inconvenience, to which their arrival must necessarily add. After some
 
-time spent in saying little or doing less, Lady Middleton sat down to
+[[Time|time]] spent in saying little or doing less, Lady Middleton sat down to
 
 Cassino, and as Marianne was not in spirits for moving about, she and
 
@@ -104,7 +104,7 @@ not look at me? why cannot I speak to him?”
 
 “Pray, pray be composed,” cried Elinor, “and do not betray what you
 
-feel to every body present. Perhaps he has not observed you yet.”
+feel to every [[Body|body]] present. Perhaps he has not observed you yet.”
 
 
 
@@ -144,7 +144,7 @@ letters? Will you not shake hands with me?”
 
 He could not then avoid it, but her touch seemed painful to him, and he
 
-held her hand only for a moment. During all this time he was evidently
+held her hand only for a moment. During all this [[Time|time]] he was evidently
 
 struggling for composure. Elinor watched his countenance and saw its
 
@@ -154,11 +154,11 @@ with calmness.
 
 
 
-“I did myself the honour of calling in Berkeley Street last Tuesday,
+“I did myself the [[Honour|honour]] of calling in Berkeley Street last Tuesday,
 
 and very much regretted that I was not fortunate enough to find
 
-yourselves and Mrs. Jennings at home. My card was not lost, I hope.”
+yourselves and Mrs. Jennings at [[Home|home]]. My card was not lost, I [[Hope|hope]].”
 
 
 
@@ -194,7 +194,7 @@ her chair, and Elinor, expecting every moment to see her faint, tried
 
 to screen her from the observation of others, while reviving her with
 
-lavender water.
+lavender [[Water|water]].
 
 
 
@@ -226,7 +226,7 @@ privacy and more effect, was impossible; for Marianne continued
 
 incessantly to give way in a low voice to the misery of her feelings,
 
-by exclamations of wretchedness. In a short time Elinor saw Willoughby
+by exclamations of wretchedness. In a short [[Time|time]] Elinor saw Willoughby
 
 quit the room by the door towards the staircase, and telling Marianne
 
@@ -234,7 +234,7 @@ that he was gone, urged the impossibility of speaking to him again that
 
 evening, as a fresh argument for her to be calm. She instantly begged
 
-her sister would entreat Lady Middleton to take them home, as she was
+her sister would entreat Lady Middleton to take them [[Home|home]], as she was
 
 too miserable to stay a minute longer.
 
@@ -250,13 +250,13 @@ departed as soon as the carriage could be found. Scarcely a word was
 
 spoken during their return to Berkeley Street. Marianne was in a silent
 
-agony, too much oppressed even for tears; but as Mrs. Jennings was
+agony, too much oppressed even for [[Tears|tears]]; but as Mrs. Jennings was
 
-luckily not come home, they could go directly to their own room, where
+luckily not come [[Home|home]], they could go directly to their own room, where
 
 hartshorn restored her a little to herself. She was soon undressed and
 
-in bed, and as she seemed desirous of being alone, her sister then left
+in bed, and as she seemed desirous of being [[Alone|alone]], her sister then left
 
 her, and while she waited the return of Mrs. Jennings, had leisure
 
@@ -266,7 +266,7 @@ enough for thinking over the past.
 
 That some kind of engagement had subsisted between Willoughby and
 
-Marianne she could not doubt, and that Willoughby was weary of it,
+Marianne she could not [[Doubt|doubt]], and that Willoughby was weary of it,
 
 seemed equally clear; for however Marianne might still feed her own
 
@@ -288,7 +288,7 @@ bear investigation. Absence might have weakened his regard, and
 
 convenience might have determined him to overcome it, but that such a
 
-regard had formerly existed she could not bring herself to doubt.
+regard had formerly existed she could not bring herself to [[Doubt|doubt]].
 
 
 

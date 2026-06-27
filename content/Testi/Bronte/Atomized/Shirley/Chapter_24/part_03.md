@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 24 (part 3)"
+title: "[[Shirley]] — Chapter 24 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -36,19 +36,19 @@ they have laid me out, and I am senseless, cold, and stiff.
 
 
 
-"What can my departed soul feel then? Can it see or know what happens to
+"What can my departed [[Soul|soul]] feel then? Can it see or know what happens to
 
 the clay? Can spirits, through any medium, communicate with living
 
 flesh? Can the dead at all revisit those they leave? Can they come in
 
-the elements? Will wind, water, fire, lend me a path to Moore?
+the elements? Will [[Wind|wind]], [[Water|water]], [[Fire|fire]], lend me a path to Moore?
 
 
 
-"Is it for nothing the wind sounds almost articulately sometimes--sings
+"Is it for nothing the [[Wind|wind]] sounds almost articulately sometimes--sings
 
-as I have lately heard it sing at night--or passes the casement sobbing,
+as I have lately heard it sing at [[Night|night]]--or passes the casement sobbing,
 
 as if for sorrow to come? Does nothing, then, haunt it, nothing inspire
 
@@ -56,7 +56,7 @@ it?
 
 
 
-"Why, it suggested to me words one night; it poured a strain which I
+"Why, it suggested to me words one [[Night|night]]; it poured a strain which I
 
 could have written down, only I was appalled, and dared not rise to seek
 
@@ -64,7 +64,7 @@ pencil and paper by the dim watch-light.
 
 
 
-"What is that electricity they speak of, whose changes make us well or
+"What is that electricity they speak of, whose changes make us [[Well|well]] or
 
 ill, whose lack or excess blasts, whose even balance revives? What are
 
@@ -86,13 +86,13 @@ when the veil must be rent for me? Do I not know the Grand Mystery is
 
 likely to burst prematurely on me? Great Spirit, in whose goodness I
 
-confide, whom, as my Father, I have petitioned night and morning from
+confide, whom, as my Father, I have petitioned [[Night|night]] and morning from
 
 early infancy, help the weak creation of Thy hands! Sustain me through
 
 the ordeal I dread and must undergo! Give me strength! Give me patience!
 
-Give me--oh, _give me_ FAITH!"
+Give me--oh, _give me_ [[Faith|FAITH]]!"
 
 
 
@@ -108,7 +108,7 @@ The next day several callers came. It had become known that Miss
 
 Helstone was worse. Mr. Hall and his sister Margaret arrived. Both,
 
-after they had been in the sickroom, quitted it in tears; they had found
+after they had been in the sickroom, quitted it in [[Tears|tears]]; they had found
 
 the patient more altered than they expected. Hortense Moore came.
 
@@ -128,11 +128,11 @@ leave.
 
 
 
-"He was very well when he left."
+"He was very [[Well|well]] when he left."
 
 
 
-"Left! Is he gone from home?"
+"Left! Is he gone from [[Home|home]]?"
 
 
 
@@ -154,21 +154,21 @@ and probably a fortnight might elapse ere he returned.
 
 After this visit, Mrs. Pryor took care not to approach Caroline's couch
 
-for above an hour. She heard her weep, and dared not look on her tears.
+for above an hour. She heard her weep, and dared not look on her [[Tears|tears]].
 
 
 
 As evening closed in, she brought her some tea. Caroline, opening her
 
-eyes from a moment's slumber, viewed her nurse with an unrecognizing
+eyes from a moment's slumber, viewed her [[Nurse|nurse]] with an unrecognizing
 
 glance.
 
 
 
-"I smelt the honeysuckles in the glen this summer morning," she said,
+"I smelt the honeysuckles in the glen this [[Summer|summer]] morning," she said,
 
-"as I stood at the counting-house window."
+"as I stood at the counting-[[house]] [[Window|window]]."
 
 
 
@@ -186,23 +186,23 @@ books; in real life they are harrowing.
 
 "I went in to call Robert to breakfast. I have been with him in the
 
-garden. He asked me to go. A heavy dew has refreshed the flowers. The
+[[Garden|garden]]. He asked me to go. A heavy dew has refreshed the [[Flowers|flowers]]. The
 
 peaches are ripening."
 
 
 
-"My darling! my darling!" again and again repeated the nurse.
+"My darling! my darling!" again and again repeated the [[Nurse|nurse]].
 
 
 
 "I thought it was daylight--long after sunrise. It looks dark. Is the
 
-moon now set?"
+[[Moon|moon]] now set?"
 
 
 
-That moon, lately risen, was gazing full and mild upon her. Floating in
+That [[Moon|moon]], lately risen, was gazing full and mild upon her. Floating in
 
 deep blue space, it watched her unclouded.
 
@@ -214,17 +214,17 @@ shape at my bedside."
 
 
 
-"It is myself--it is your friend--your nurse--your---- Lean your head on
+"It is myself--it is your friend--your [[Nurse|nurse]]--your---- Lean your head on
 
 my shoulder. Collect yourself." In a lower tone--"O God, take pity! Give
 
-_her_ life, and _me_ strength! Send me courage! Teach me words!"
+_her_ life, and _me_ strength! Send me [[Courage|courage]]! Teach me words!"
 
 
 
-Some minutes passed in silence. The patient lay mute and passive in the
+Some minutes passed in [[Silence|silence]]. The patient lay mute and passive in the
 
-trembling arms, on the throbbing bosom of the nurse.
+trembling arms, on the throbbing bosom of the [[Nurse|nurse]].
 
 
 
@@ -232,13 +232,13 @@ trembling arms, on the throbbing bosom of the nurse.
 
 where I am. This is Mrs. Pryor near me. I was dreaming. I talk when I
 
-wake up from dreams; people often do in illness. How fast your heart
+wake up from [[Dreams|dreams]]; people often do in illness. How fast your heart
 
 beats, ma'am! Do not be afraid."
 
 
 
-"It is not fear, child--only a little anxiety, which will pass. I have
+"It is not [[Fear|fear]], [[Child|child]]--only a little anxiety, which will pass. I have
 
 brought you some tea, Cary. Your uncle made it himself. You know he says
 
@@ -258,7 +258,7 @@ She drank eagerly.
 
 
 
-"What o'clock is it, ma'am?" she asked.
+"What o'[[Clock|clock]] is it, ma'am?" she asked.
 
 
 
@@ -266,7 +266,7 @@ She drank eagerly.
 
 
 
-"Not later? Oh! I have yet a long night before me. But the tea has made
+"Not later? Oh! I have yet a long [[Night|night]] before me. But the tea has made
 
 me strong. I will sit up."
 
@@ -280,11 +280,11 @@ Mrs. Pryor raised her, and arranged her pillows.
 
 The afternoon has been bad since Hortense went; perhaps the evening may
 
-be better. It is a fine night, I think? The moon shines clear."
+be better. It is a fine [[Night|night]], I think? The [[Moon|moon]] shines clear."
 
 
 
-"Very fine--a perfect summer night. The old church-tower gleams white
+"Very fine--a perfect [[Summer|summer]] [[Night|night]]. The old church-tower gleams white
 
 almost as silver."
 

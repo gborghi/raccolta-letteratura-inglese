@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 33 (part 5)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 33 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -50,7 +50,7 @@ her words.
 
 “But don’t _you_ trouble yourself about it,” said I, kissing her pale,
 
-time-wasted cheek. “I can bear it better than you imagine.”
+[[Time|time]]-wasted cheek. “I can bear it better than you imagine.”
 
 
 
@@ -74,19 +74,19 @@ and burst my heart with keeping it in.”
 
 “I _have_ cried,” said I, smiling, in spite of my misery; “and I _am_
 
-calm now, really: so don’t discompose me again, nurse: let us say no
+calm now, really: so don’t discompose me again, [[Nurse|nurse]]: let us say no
 
 more about it, and _don’t_ mention it to the servants. There, you may
 
-go now. Good-night; and don’t disturb your rest for me: I shall sleep
+go now. Good-[[Night|night]]; and don’t disturb your rest for me: I shall [[Sleep|sleep]]
 
-well—if I can.”
+[[Well|well]]—if I can.”
 
 
 
 Notwithstanding this resolution, I found my bed so intolerable that,
 
-before two o’clock, I rose, and lighting my candle by the rushlight
+before two o’[[Clock|clock]], I [[Rose|rose]], and lighting my candle by the rushlight
 
 that was still burning, I got my desk and sat down in my dressing-gown
 
@@ -98,9 +98,9 @@ of the far past and anticipations of the dreadful future. I have found
 
 relief in describing the very circumstances that have destroyed my
 
-peace, as well as the little trivial details attendant upon their
+peace, as [[Well|well]] as the little trivial details attendant upon their
 
-discovery. No sleep I could have got this night would have done so much
+discovery. No [[Sleep|sleep]] I could have got this [[Night|night]] would have done so much
 
 towards composing my mind, and preparing me to meet the trials of the
 
@@ -112,18 +112,18 @@ my haggard, worn appearance.
 
 
 
-Rachel has been to dress me, and says I have had a sad night of it, she
+Rachel has been to dress me, and says I have had a sad [[Night|night]] of it, she
 
 can see. Milicent has just looked in to ask me how I was. I told her I
 
 was better, but to excuse my appearance admitted I had had a restless
 
-night. I wish this day were over! I shudder at the thoughts of going
+[[Night|night]]. I wish this day were over! I shudder at the thoughts of going
 
 down to breakfast. How shall I encounter them all? Yet let me remember
 
-it is not _I_ that am guilty: _I_ have no cause to fear; and if _they_
+it is not _I_ that am guilty: _I_ have no cause to [[Fear|fear]]; and if _they_
 
-scorn me as a victim of their guilt, I can pity their folly and despise
+scorn me as a victim of their [[Guilt|guilt]], I can pity their folly and despise
 
 their scorn.

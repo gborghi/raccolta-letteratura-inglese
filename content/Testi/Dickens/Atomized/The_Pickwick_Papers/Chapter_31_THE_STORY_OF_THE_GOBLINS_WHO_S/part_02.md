@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 29: THE STORY OF THE GOBLINS WHO STOLE A SEXTON (part 2)"
+title: "The [[Pickwick]] Papers — Chapter 29: THE STORY OF THE GOBLINS WHO STOLE A SEXTON (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -18,13 +18,13 @@ tags:
 figure, whom Gabriel felt at once, was no being of this world. His long,
 fantastic legs which might have reached the ground, were cocked up, and
 crossed after a quaint, fantastic fashion; his sinewy arms were bare;
-and his hands rested on his knees. On his short, round body, he wore a
+and his hands rested on his knees. On his short, round [[Body|body]], he wore a
 close covering, ornamented with small slashes; a short cloak dangled at
 his back; the collar was cut into curious peaks, which served the goblin
 in lieu of ruff or neckerchief; and his shoes curled up at his toes into
 long points. On his head, he wore a broad-brimmed sugar-loaf hat,
 garnished with a single feather. The hat was covered with the white
-frost; and the goblin looked as if he had sat on the same tombstone very
+[[Frost|frost]]; and the goblin looked as if he had sat on the same tombstone very
 comfortably, for two or three hundred years. He was sitting perfectly
 still; his tongue was put out, as if in derision; and he was grinning at
 Gabriel Grub with such a grin as only a goblin could call up.
@@ -35,12 +35,12 @@ Gabriel Grub with such a grin as only a goblin could call up.
 
 ‘“What do you do here on Christmas Eve?” said the goblin sternly.
 
-‘“I came to dig a grave, Sir,” stammered Gabriel Grub.
+‘“I came to dig a [[Grave|grave]], Sir,” stammered Gabriel Grub.
 
-‘“What man wanders among graves and churchyards on such a night as
+‘“What man wanders among graves and churchyards on such a [[Night|night]] as
 this?” cried the goblin.
 
-‘“Gabriel Grub! Gabriel Grub!” screamed a wild chorus of voices that
+‘“Gabriel Grub! Gabriel Grub!” screamed a wild [[Chorus|chorus]] of voices that
 seemed to fill the churchyard. Gabriel looked fearfully round--nothing
 was to be seen.
 
@@ -50,7 +50,7 @@ was to be seen.
 had bought it of the smugglers, and he thought that perhaps his
 questioner might be in the excise department of the goblins.
 
-‘“Who drinks Hollands alone, and in a churchyard, on such a night as
+‘“Who drinks Hollands [[Alone|alone]], and in a churchyard, on such a [[Night|night]] as
 this?” said the goblin.
 
 ‘“Gabriel Grub! Gabriel Grub!” exclaimed the wild voices again.
@@ -60,13 +60,13 @@ his voice, exclaimed--
 
 ‘“And who, then, is our fair and lawful prize?”
 
-‘To this inquiry the invisible chorus replied, in a strain that sounded
+‘To this inquiry the invisible [[Chorus|chorus]] replied, in a strain that sounded
 like the voices of many choristers singing to the mighty swell of the
 old church organ--a strain that seemed borne to the sexton’s ears upon a
-wild wind, and to die away as it passed onward; but the burden of the
+wild [[Wind|wind]], and to die away as it passed onward; but the burden of the
 reply was still the same, “Gabriel Grub! Gabriel Grub!”
 
-‘The goblin grinned a broader grin than before, as he said, “Well,
+‘The goblin grinned a broader grin than before, as he said, “[[Well]],
 Gabriel, what do you say to this?”
 
 ‘The sexton gasped for breath.
@@ -83,9 +83,9 @@ finish my work, Sir, if you please.”
 
 ‘“Work!” said the goblin, “what work?”
 
-‘“The grave, Sir; making the grave,” stammered the sexton.
+‘“The [[Grave|grave]], Sir; making the [[Grave|grave]],” stammered the sexton.
 
-‘“Oh, the grave, eh?” said the goblin; “who makes graves at a time when
+‘“Oh, the [[Grave|grave]], eh?” said the goblin; “who makes graves at a [[Time|time]] when
 all other men are merry, and takes a pleasure in it?”
 
 ‘Again the mysterious voices replied, “Gabriel Grub! Gabriel Grub!”
@@ -100,7 +100,7 @@ they can, Sir; they don’t know me, Sir; I don’t think the gentlemen have
 ever seen me, Sir.”
 
 ‘“Oh, yes, they have,” replied the goblin; “we know the man with the
-sulky face and grim scowl, that came down the street to-night, throwing
+sulky face and grim scowl, that came down the street to-[[Night|night]], throwing
 his evil looks at the children, and grasping his burying-spade the
 tighter. We know the man who struck the boy in the envious malice of his
 heart, because the boy could be merry, and he could not. We know him, we
@@ -135,14 +135,14 @@ had been so many street-posts.
 
 ‘At last the game reached to a most exciting pitch; the organ played
 quicker and quicker, and the goblins leaped faster and faster, coiling
-themselves up, rolling head over heels upon the ground, and bounding
+themselves up, [[rolling]] head over heels upon the ground, and bounding
 over the tombstones like footballs. The sexton’s brain whirled round
 with the rapidity of the motion he beheld, and his legs reeled beneath
-him, as the spirits flew before his eyes; when the goblin king, suddenly
+him, as the spirits flew before his eyes; when the goblin [[King|king]], suddenly
 darting towards him, laid his hand upon his collar, and sank with him
 through the earth.
 
-‘When Gabriel Grub had had time to fetch his breath, which the rapidity
+‘When Gabriel Grub had had [[Time|time]] to fetch his breath, which the rapidity
 of his descent had for the moment taken away, he found himself in what
 appeared to be a large cavern, surrounded on all sides by crowds of
 goblins, ugly and grim; in the centre of the room, on an elevated seat,

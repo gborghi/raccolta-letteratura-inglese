@@ -1,5 +1,5 @@
 ---
-title: "Metzengerstein (part 3)"
+title: "[[Metzengerstein]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Metzengerstein-(Poe)"
@@ -22,7 +22,7 @@ tags:
 
       down the long avenue which extended from the château to the
 
-      stables of Metzengerstein.
+      stables of [[Metzengerstein]].
 
 
 
@@ -52,7 +52,7 @@ tags:
 
       “I-n-d-e-e-d-!” ejaculated the Baron, as if slowly and
 
-      deliberately impressed with the truth of some exciting idea.
+      deliberately impressed with the [[Truth|truth]] of some exciting idea.
 
 
 
@@ -70,7 +70,7 @@ tags:
 
       demeanor of the dissolute young Baron Frederick Von
 
-      Metzengerstein. Indeed, his behavior disappointed every
+      [[Metzengerstein]]. Indeed, his behavior disappointed every
 
       expectation, and proved little in accordance with the views of
 
@@ -84,7 +84,7 @@ tags:
 
       utterly companionless—unless, indeed, that unnatural, impetuous,
 
-      and fiery-colored horse, which he henceforward continually
+      and fiery-colored [[Horse|horse]], which he henceforward continually
 
       bestrode, had any mysterious right to the title of his friend.
 
@@ -92,13 +92,13 @@ tags:
 
       Numerous invitations on the part of the neighborhood for a long
 
-      time, however, periodically came in. “Will the Baron honor our
+      [[Time|time]], however, periodically came in. “Will the Baron honor our
 
       festivals with his presence?” “Will the Baron join us in a
 
-      hunting of the boar?”—“Metzengerstein does not hunt;”
+      hunting of the boar?”—“[[Metzengerstein]] does not hunt;”
 
-      “Metzengerstein will not attend,” were the haughty and laconic
+      “[[Metzengerstein]] will not attend,” were the haughty and laconic
 
       answers.
 
@@ -108,21 +108,21 @@ tags:
 
       nobility. Such invitations became less cordial—less frequent—in
 
-      time they ceased altogether. The widow of the unfortunate Count
+      [[Time|time]] they ceased altogether. The widow of the unfortunate Count
 
-      Berlifitzing was even heard to express a hope “that the Baron
+      Berlifitzing was even heard to express a [[Hope|hope]] “that the Baron
 
-      might be at home when he did not wish to be at home, since he
+      might be at [[Home|home]] when he did not wish to be at [[Home|home]], since he
 
       disdained the company of his equals; and ride when he did not
 
-      wish to ride, since he preferred the society of a horse.” This to
+      wish to ride, since he preferred the society of a [[Horse|horse]].” This to
 
       be sure was a very silly explosion of hereditary pique; and
 
       merely proved how singularly unmeaning our sayings are apt to
 
-      become, when we desire to be unusually energetic.
+      become, when we [[Desire|desire]] to be unusually energetic.
 
 
 
@@ -136,13 +136,13 @@ tags:
 
       immediately succeeding that bereavement. Some there were, indeed,
 
-      who suggested a too haughty idea of self-consequence and dignity.
+      who suggested a too haughty idea of [[Self|self]]-consequence and dignity.
 
       Others again (among them may be mentioned the family physician)
 
-      did not hesitate in speaking of morbid melancholy, and hereditary
+      did not hesitate in speaking of morbid [[Melancholy|melancholy]], and hereditary
 
-      ill-health; while dark hints, of a more equivocal nature, were
+      ill-health; while dark hints, of a more equivocal [[Nature|nature]], were
 
       current among the multitude.
 
@@ -156,13 +156,13 @@ tags:
 
       propensities—at length became, in the eyes of all reasonable men,
 
-      a hideous and unnatural fervor. In the glare of noon—at the dead
+      a hideous and unnatural fervor. In the glare of [[Noon|noon]]—at the dead
 
-      hour of night—in sickness or in health—in calm or in tempest—the
+      hour of [[Night|night]]—in sickness or in health—in calm or in tempest—the
 
-      young Metzengerstein seemed rivetted to the saddle of that
+      young [[Metzengerstein]] seemed rivetted to the saddle of that
 
-      colossal horse, whose intractable audacities so well accorded
+      colossal [[Horse|horse]], whose intractable audacities so [[Well|well]] accorded
 
       with his own spirit.
 
@@ -202,17 +202,17 @@ tags:
 
       during that dangerous struggle, or at any period thereafter,
 
-      actually placed his hand upon the body of the beast. Instances of
+      actually placed his hand upon the [[Body|body]] of the beast. Instances of
 
       peculiar intelligence in the demeanor of a noble and
 
-      high-spirited horse are not to be supposed capable of exciting
+      high-spirited [[Horse|horse]] are not to be supposed capable of exciting
 
       unreasonable attention—especially among men who, daily trained to
 
-      the labors of the chase, might appear well acquainted with the
+      the labors of the chase, might appear [[Well|well]] acquainted with the
 
-      sagacity of a horse—but there were certain circumstances which
+      sagacity of a [[Horse|horse]]—but there were certain circumstances which
 
       intruded themselves per force upon the most skeptical and
 
@@ -222,4 +222,4 @@ tags:
 
       the deep and impressive meaning of his terrible stamp—times when
 
-      the young Metzengerstein turned pale and shrunk away from the
+      the young [[Metzengerstein]] turned pale and shrunk away from the

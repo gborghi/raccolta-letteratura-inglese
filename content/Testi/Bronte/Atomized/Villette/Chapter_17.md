@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 17"
+title: "[[Villette]] — Chapter 17"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -27,9 +27,9 @@ life, and enable it to be better regulated, more equable, quieter on
 the surface; and it is on the surface only the common gaze will fall.
 As to what lies below, leave that with God. Man, your equal, weak as
 you, and not fit to be your judge, may be shut out thence: take it to
-your Maker—show Him the secrets of the spirit He gave—ask Him how you
+your Maker—show Him the [[Secrets|secrets]] of the spirit He gave—ask Him how you
 are to bear the pains He has appointed—kneel in His presence, and pray
-with faith for light in darkness, for strength in piteous weakness, for
+with [[Faith|faith]] for light in darkness, for strength in piteous weakness, for
 patience in extreme need. Certainly, at some hour, though perhaps not
 _your_ hour, the waiting waters will stir; in _some_ shape, though
 perhaps not the shape you dreamed, which your heart loved, and for
@@ -39,13 +39,13 @@ come quickly! Thousands lie round the pool, weeping and despairing, to
 see it, through slow years, stagnant. Long are the “times” of Heaven:
 the orbits of angel messengers seem wide to mortal vision; they may
 enring ages: the cycle of one departure and return may clasp unnumbered
-generations; and dust, kindling to brief suffering life, and through
-pain, passing back to dust, may meanwhile perish out of memory again,
+generations; and [[Dust|dust]], kindling to brief [[Suffering|suffering]] life, and through
+[[Pain|pain]], passing back to [[Dust|dust]], may meanwhile perish out of [[Memory|memory]] again,
 and yet again. To how many maimed and mourning millions is the first
 and sole angel visitant, him easterns call Azrael!
 
 I tried to get up next morning, but while I was dressing, and at
-intervals drinking cold water from the _carafe_ on my washstand, with
+intervals drinking cold [[Water|water]] from the _carafe_ on my washstand, with
 design to brace up that trembling weakness which made dressing so
 difficult, in came Mrs. Bretton.
 
@@ -63,11 +63,11 @@ Presently she brought that meal—brought it with her own active
 hands—not leaving me to servants. She seated herself on the bed while I
 ate. Now it is not everybody, even amongst our respected friends and
 esteemed acquaintance, whom we like to have near us, whom we like to
-watch us, to wait on us, to approach us with the proximity of a nurse
+watch us, to wait on us, to approach us with the proximity of a [[Nurse|nurse]]
 to a patient. It is not every friend whose eye is a light in a sick
 room, whose presence is there a solace: but all this was Mrs. Bretton
 to me; all this she had ever been. Food or drink never pleased me so
-well as when it came through her hands. I do not remember the occasion
+[[Well|well]] as when it came through her hands. I do not remember the occasion
 when her entrance into a room had not made that room cheerier. Our
 natures own predilections and antipathies alike strange. There are
 people from whom we secretly shrink, whom we would personally avoid,
@@ -75,9 +75,9 @@ though reason confesses that they are good people: there are others
 with faults of temper, &c., evident enough, beside whom we live
 content, as if the air about them did us good. My godmother’s lively
 black eye and clear brunette cheek, her warm, prompt hand, her
-self-reliant mood, her decided bearing, were all beneficial to me as
+[[Self|self]]-reliant mood, her decided bearing, were all beneficial to me as
 the atmosphere of some salubrious climate. Her son used to call her
-“the old lady;” it filled me with pleasant wonder to note how the
+“the old lady;” it filled me with pleasant [[Wonder|wonder]] to note how the
 alacrity and power of five-and-twenty still breathed from her and
 around her.
 
@@ -95,15 +95,15 @@ I had certainly suffered a good deal especially in mind. Further, on
 this subject, I did not consider it advisable to dwell, for the details
 of what I had undergone belonged to a portion of my existence in which
 I never expected my godmother to take a share. Into what a new region
-would such a confidence have led that hale, serene nature! The
+would such a confidence have led that hale, serene [[Nature|nature]]! The
 difference between her and me might be figured by that between the
-stately ship cruising safe on smooth seas, with its full complement of
+stately [[Ship|ship]] cruising safe on smooth seas, with its full complement of
 crew, a captain gay and brave, and venturous and provident; and the
 life-boat, which most days of the year lies dry and solitary in an old,
-dark boat-house, only putting to sea when the billows run high in rough
-weather, when cloud encounters water, when danger and death divide
+dark boat-[[house]], only putting to sea when the billows run high in rough
+weather, when cloud encounters [[Water|water]], when danger and [[Death|death]] divide
 between them the rule of the great deep. No, the “Louisa Bretton” never
-was out of harbour on such a night, and in such a scene: her crew could
+was out of harbour on such a [[Night|night]], and in such a scene: her crew could
 not conceive it; so the half-drowned life-boat man keeps his own
 counsel, and spins no yarns.
 
@@ -115,39 +115,39 @@ cheered it. Then, too, I felt weak, and rest seemed welcome; and after
 the morning hours were gone by,—those hours which always bring, even to
 the necessarily unoccupied, a sense of business to be done, of tasks
 waiting fulfilment, a vague impression of obligation to be
-employed—when this stirring time was past, and the silent descent of
+employed—when this stirring [[Time|time]] was past, and the silent descent of
 afternoon hushed housemaid steps on the stairs and in the chambers, I
 then passed into a dreamy mood, not unpleasant.
 
-My calm little room seemed somehow like a cave in the sea. There was no
+My calm little room seemed somehow like a [[Cave|cave]] in the sea. There was no
 colour about it, except that white and pale green, suggestive of foam
-and deep water; the blanched cornice was adorned with shell-shaped
+and deep [[Water|water]]; the blanched cornice was adorned with shell-shaped
 ornaments, and there were white mouldings like dolphins in the
 ceiling-angles. Even that one touch of colour visible in the red satin
 pincushion bore affinity to coral; even that dark, shining glass might
-have mirrored a mermaid. When I closed my eyes, I heard a gale,
-subsiding at last, bearing upon the house-front like a settling swell
+have mirrored a [[Mermaid|mermaid]]. When I closed my eyes, I heard a gale,
+subsiding at last, bearing upon the [[house]]-front like a settling swell
 upon a rock-base. I heard it drawn and withdrawn far, far off, like a
 tide retiring from a shore of the upper world—a world so high above
 that the rush of its largest waves, the dash of its fiercest breakers,
-could sound down in this submarine home, only like murmurs and a
+could sound down in this submarine [[Home|home]], only like murmurs and a
 lullaby.
 
-Amidst these dreams came evening, and then Martha brought a light; with
+Amidst these [[Dreams|dreams]] came evening, and then Martha brought a light; with
 her aid I was quickly dressed, and stronger now than in the morning, I
 made my way down to the blue saloon unassisted.
 
 Dr. John, it appears, had concluded his round of professional calls
 earlier than usual; his form was the first object that met my eyes as I
-entered the parlour; he stood in that window-recess opposite the door,
+entered the parlour; he stood in that [[Window|window]]-recess opposite the door,
 reading the close type of a newspaper by such dull light as closing day
-yet gave. The fire shone clear, but the lamp stood on the table unlit,
+yet gave. The [[Fire|fire]] shone clear, but the lamp stood on the table unlit,
 and tea was not yet brought up.
 
 As to Mrs. Bretton, my active godmother—who, I afterwards found, had
 been out in the open air all day—lay half-reclined in her
 deep-cushioned chair, actually lost in a nap. Her son seeing me, came
-forward. I noticed that he trod carefully, not to wake the sleeper; he
+forward. I noticed that he trod carefully, not to wake [[The Sleeper|the sleeper]]; he
 also spoke low: his mellow voice never had any sharpness in it;
 modulated as at present, it was calculated rather to soothe than
 startle slumber.
@@ -157,52 +157,52 @@ near the casement. “I don’t know whether you may have noticed it in
 your walks: though, indeed, from the chaussée it is not visible; just a
 mile beyond the Porte de Crécy, you turn down a lane which soon becomes
 an avenue, and that leads you on, through meadow and shade, to the very
-door of this house. It is not a modern place, but built somewhat in the
+door of this [[house]]. It is not a modern place, but built somewhat in the
 old style of the Basse-Ville. It is rather a manoir than a château;
 they call it ‘La Terrasse,’ because its front rises from a broad turfed
 walk, whence steps lead down a grassy slope to the avenue. See yonder!
-The moon rises: she looks well through the tree-boles.”
+The [[Moon|moon]] rises: she looks [[Well|well]] through the tree-boles.”
 
-Where, indeed, does the moon not look well? What is the scene, confined
+Where, indeed, does the [[Moon|moon]] not look [[Well|well]]? What is the scene, confined
 or expansive, which her orb does not hallow? Rosy or fiery, she mounted
 now above a not distant bank; even while we watched her flushed ascent,
 she cleared to gold, and in very brief space, floated up stainless into
 a now calm sky. Did moonlight soften or sadden Dr. Bretton? Did it
-touch him with romance? I think it did. Albeit of no sighing mood, he
+touch him with [[Romance|romance]]? I think it did. Albeit of no sighing mood, he
 sighed in watching it: sighed to himself quietly. No need to ponder the
-cause or the course of that sigh; I knew it was wakened by beauty; I
+cause or the course of that sigh; I knew it was wakened by [[Beauty|beauty]]; I
 knew it pursued Ginevra. Knowing this, the idea pressed upon me that it
 was in some sort my duty to speak the name he meditated. Of course he
 was ready for the subject: I saw in his countenance a teeming plenitude
 of comment, question and interest; a pressure of language and
 sentiment, only checked, I thought, by sense of embarrassment how to
 begin. To spare him this embarrassment was my best, indeed my sole use.
-I had but to utter the idol’s name, and love’s tender litany would flow
+I had but to utter the idol’s name, and [[Love|love]]’s tender [[litany]] would flow
 out. I had just found a fitting phrase, “You know that Miss Fanshawe is
 gone on a tour with the Cholmondeleys,” and was opening my lips to
 speak to it, when he scattered my plans by introducing another theme.
 
 “The first thing this morning,” said he, putting his sentiment in his
-pocket, turning from the moon, and sitting down, “I went to the Rue
+pocket, turning from the [[Moon|moon]], and sitting down, “I went to the Rue
 Fossette, and told the cuisinière that you were safe and in good hands.
 Do you know that I actually found that she had not yet discovered your
-absence from the house: she thought you safe in the great dormitory.
+absence from the [[house]]: she thought you safe in the great dormitory.
 With what care you must have been waited on!”
 
 “Oh! all that is very conceivable,” said I. “Goton could do nothing for
 me but bring me a little tisane and a crust of bread, and I had
 rejected both so often during the past week, that the good woman got
-tired of useless journeys from the dwelling-house kitchen to the
-school-dormitory, and only came once a day at noon to make my bed. I
+tired of useless journeys from the dwelling-[[house]] kitchen to the
+school-dormitory, and only came once a day at [[Noon|noon]] to make my bed. I
 believe, however, that she is a good-natured creature, and would have
 been delighted to cook me côtelettes de mouton, if I could have eaten
 them.”
 
-“What did Madame Beck mean by leaving you alone?”
+“What did [[Madame Beck]] mean by leaving you [[Alone|alone]]?”
 
-“Madame Beck could not foresee that I should fall ill.”
+“[[Madame Beck]] could not foresee that I should fall ill.”
 
-“Your nervous system bore a good share of the suffering?”
+“Your nervous system bore a good share of the [[Suffering|suffering]]?”
 
 “I am not quite sure what my nervous system is, but I was dreadfully
 low-spirited.”
@@ -211,11 +211,11 @@ low-spirited.”
 give nobody good spirits. My art halts at the threshold of
 Hypochondria: she just looks in and sees a chamber of torture, but can
 neither say nor do much. Cheerful society would be of use; you should
-be as little alone as possible; you should take plenty of exercise.”
+be as little [[Alone|alone]] as possible; you should take plenty of exercise.”
 
 Acquiescence and a pause followed these remarks. They sounded all
 right, I thought, and bore the safe sanction of custom, and the
-well-worn stamp of use.
+[[Well|well]]-worn stamp of use.
 
 “Miss Snowe,” recommenced Dr. John—my health, nervous system included,
 being now, somewhat to my relief, discussed and done with—“is it
@@ -224,8 +224,8 @@ permitted me to ask what your religion is? Are you a Catholic?”
 I looked up in some surprise—“A Catholic? No! Why suggest such an
 idea?”
 
-“The manner in which you were consigned to me last night made me
-doubt.”
+“The manner in which you were consigned to me last [[Night|night]] made me
+[[Doubt|doubt]].”
 
 “I consigned to you? But, indeed, I forget. It yet remains for me to
 learn how I fell into your hands.”
@@ -233,11 +233,11 @@ learn how I fell into your hands.”
 “Why, under circumstances that puzzled me. I had been in attendance all
 day yesterday on a case of singularly interesting and critical
 character; the disease being rare, and its treatment doubtful: I saw a
-similar and still finer case in a hospital in Paris; but that will not
+similar and still finer case in a hospital in [[Paris]]; but that will not
 interest you. At last a mitigation of the patient’s most urgent
-symptoms (acute pain is one of its accompaniments) liberated me, and I
+symptoms (acute [[Pain|pain]] is one of its accompaniments) liberated me, and I
 set out homeward. My shortest way lay through the Basse-Ville, and as
-the night was excessively dark, wild, and wet, I took it. In riding
+the [[Night|night]] was excessively dark, wild, and wet, I took it. In riding
 past an old church belonging to a community of Béguines, I saw by a
 lamp burning over the porch or deep arch of the entrance, a priest
 lifting some object in his arms. The lamp was bright enough to reveal
@@ -245,36 +245,36 @@ the priest’s features clearly, and I recognised him; he was a man I
 have often met by the sick beds of both rich and poor: and chiefly the
 latter. He is, I think, a good old man, far better than most of his
 class in this country; superior, indeed, in every way, better informed,
-as well as more devoted to duty. Our eyes met; he called on me to stop:
+as [[Well|well]] as more devoted to duty. Our eyes met; he called on me to stop:
 what he supported was a woman, fainting or dying. I alighted.
 
 “‘This person is one of your countrywomen,’ he said: ‘save her, if she
 is not dead.’
 
 “My countrywoman, on examination, turned out to be the English teacher
-at Madame Beck’s pensionnat. She was perfectly unconscious, perfectly
+at [[Madame Beck]]’s pensionnat. She was perfectly unconscious, perfectly
 bloodless, and nearly cold.
 
 “‘What does it all mean?’ was my inquiry.
 
 “He communicated a curious account; that you had been to him that
-evening at confessional; that your exhausted and suffering appearance,
+evening at confessional; that your exhausted and [[Suffering|suffering]] appearance,
 coupled with some things you had said—”
 
-“Things I had said? I wonder what things!”
+“Things I had said? I [[Wonder|wonder]] what things!”
 
-“Awful crimes, no doubt; but he did not tell me what: there, you know,
+“Awful crimes, no [[Doubt|doubt]]; but he did not tell me what: there, you know,
 the seal of the confessional checked his garrulity, and my curiosity.
 Your confidences, however, had not made an enemy of the good father; it
 seems he was so struck, and felt so sorry that you should be out on
-such a night alone, that he had esteemed it a Christian duty to watch
+such a [[Night|night]] [[Alone|alone]], that he had esteemed it a Christian duty to watch
 you when you quitted the church, and so to manage as not to lose sight
-of you, till you should have reached home. Perhaps the worthy man
+of you, till you should have reached [[Home|home]]. Perhaps the worthy man
 might, half unconsciously, have blent in this proceeding some little of
 the subtlety of his class: it might have been his resolve to learn the
-locality of your home—did you impart that in your confession?”
+locality of your [[Home|home]]—did you impart that in your confession?”
 
-“I did not: on the contrary, I carefully avoided the shadow of any
+“I did not: on the contrary, I carefully avoided the [[Shadow|shadow]] of any
 indication: and as to my confession, Dr. John, I suppose you will think
 me mad for taking such a step, but I could not help it: I suppose it
 was all the fault of what you call my ‘nervous system.’ I cannot put
@@ -283,24 +283,24 @@ cruel sense of desolation pained my mind: a feeling that would make its
 way, rush out, or kill me—like (and this you will understand, Dr. John)
 the current which passes through the heart, and which, if aneurism or
 any other morbid cause obstructs its natural channels, seeks abnormal
-outlet. I wanted companionship, I wanted friendship, I wanted counsel.
+outlet. I wanted companionship, I wanted [[Friendship|friendship]], I wanted counsel.
 I could find none of these in closet or chamber, so I went and sought
 them in church and confessional. As to what I said, it was no
 confidence, no narrative. I have done nothing wrong: my life has not
-been active enough for any dark deed, either of romance or reality: all
+been active enough for any dark deed, either of [[Romance|romance]] or reality: all
 I poured out was a dreary, desperate complaint.”
 
-“Lucy, you ought to travel for about six months: why, your calm nature
-is growing quite excitable! Confound Madame Beck! Has the little buxom
+“Lucy, you ought to travel for about six months: why, your calm [[Nature|nature]]
+is growing quite excitable! Confound [[Madame Beck]]! Has the little buxom
 widow no bowels, to condemn her best teacher to solitary confinement?”
 
-“It was not Madame Beck’s fault,” said I; “it is no living being’s
+“It was not [[Madame Beck]]’s fault,” said I; “it is no living being’s
 fault, and I won’t hear any one blamed.”
 
 “Who is in the wrong, then, Lucy?”
 
 “Me—Dr. John—me; and a great abstraction on whose wide shoulders I like
-to lay the mountains of blame they were sculptured to bear: me and
+to lay the [[Mountains|mountains]] of blame they were sculptured to bear: me and
 Fate.”
 
 “‘Me’ must take better care in future,” said Dr. John—smiling, I
@@ -312,10 +312,10 @@ yet, Père Silas, with all his tact (they say he is a Jesuit), is no
 wiser than you choose him to be; for, instead of returning to the Rue
 Fossette, your fevered wanderings—there must have been high fever—”
 
-“No, Dr. John: the fever took its turn that night—now, don’t make out
+“No, Dr. John: the fever took its turn that [[Night|night]]—now, don’t make out
 that I was delirious, for I know differently.”
 
-“Good! you were as collected as myself at this moment, no doubt. Your
+“Good! you were as collected as myself at this moment, no [[Doubt|doubt]]. Your
 wanderings had taken an opposite direction to the pensionnat. Near the
 Béguinage, amidst the stress of flood and gust, and in the perplexity
 of darkness, you had swooned and fallen. The priest came to your
@@ -332,7 +332,7 @@ charge to Martha, leaving directions, which it seems she followed
 successfully. Now, are you a Catholic?”
 
 “Not yet,” said I, with a smile. “And never let Père Silas know where I
-live, or he will try to convert me; but give him my best and truest
+live, or he will try to [[convert]] me; but give him my best and truest
 thanks when you see him, and if ever I get rich I will send him money
 for his charities. See, Dr. John, your mother wakes; you ought to ring
 for tea.”
@@ -342,16 +342,16 @@ herself for the indulgence to which she had succumbed, and fully
 prepared to deny that she had slept at all—her son came gaily to the
 attack.
 
-“Hushaby, mamma! Sleep again. You look the picture of innocence in your
+“Hushaby, mamma! [[Sleep]] again. You look the picture of [[innocence]] in your
 slumbers.”
 
 “My slumbers, John Graham! What are you talking about? You know I never
-_do_ sleep by day: it was the slightest doze possible.”
+_do_ [[Sleep|sleep]] by day: it was the slightest doze possible.”
 
 “Exactly! a seraph’s gentle lapse—a fairy’s dream. Mamma, under such
-circumstances, you always remind me of Titania.”
+circumstances, you always remind me of [[Titania]].”
 
-“That is because you, yourself, are so like Bottom.”
+“That is because you, yourself, are so like [[Bottom]].”
 
 “Miss Snowe—did you ever hear anything like mamma’s wit? She is a most
 sprightly woman of her size and age.”
@@ -364,30 +364,30 @@ tendency. Graham, take notice! If you grow fat I disown you.”
 
 “As if you could not sooner disown your own personality! I am
 indispensable to the old lady’s happiness, Lucy. She would pine away in
-green and yellow melancholy if she had not my six feet of iniquity to
+green and yellow [[Melancholy|melancholy]] if she had not my six feet of iniquity to
 scold. It keeps her lively—it maintains the wholesome ferment of her
 spirits.”
 
 The two were now standing opposite to each other, one on each side the
-fire-place; their words were not very fond, but their mutual looks
+[[Fire|fire]]-place; their words were not very fond, but their mutual looks
 atoned for verbal deficiencies. At least, the best treasure of Mrs.
 Bretton’s life was certainly casketed in her son’s bosom; her dearest
-pulse throbbed in his heart. As to him, of course another love shared
-his feelings with filial love, and, no doubt, as the new passion was
+pulse throbbed in his heart. As to him, of course another [[Love|love]] shared
+his feelings with filial [[Love|love]], and, no [[Doubt|doubt]], as the new passion was
 the latest born, so he assigned it in his emotions Benjamin’s portion.
 Ginevra! Ginevra! Did Mrs. Bretton yet know at whose feet her own young
 idol had laid his homage? Would she approve that choice? I could not
-tell; but I could well guess that if she knew Miss Fanshawe’s conduct
+tell; but I could [[Well|well]] guess that if she knew Miss Fanshawe’s conduct
 towards Graham: her alternations between coldness and coaxing, and
-repulse and allurement; if she could at all suspect the pain with which
+repulse and allurement; if she could at all suspect the [[Pain|pain]] with which
 she had tried him; if she could have seen, as I had seen, his fine
 spirits subdued and harassed, his inferior preferred before him, his
 subordinate made the instrument of his humiliation—_then_ Mrs. Bretton
-would have pronounced Ginevra imbecile, or perverted, or both. Well—I
+would have pronounced Ginevra imbecile, or perverted, or both. [[Well]]—I
 thought so too.
 
 That second evening passed as sweetly as the first—_more_ sweetly
 indeed: we enjoyed a smoother interchange of thought; old troubles were
 not reverted to, acquaintance was better cemented; I felt happier,
-easier, more at home. That night—instead of crying myself asleep—I went
+easier, more at [[Home|home]]. That [[Night|night]]—instead of crying myself asleep—I went
 down to dreamland by a pathway bordered with pleasant thoughts.

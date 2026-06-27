@@ -20,10 +20,10 @@ him to deprive the second line of a nominative personal pronoun.
 It is, indeed, this astonishing haughtiness of his
 which has led us to consider his claims at such length.
 Posters and sky-signs are, we are told, to be seen all over
-London stating that Ad Astra is the "Book of the Year,"
+[[London]] stating that Ad Astra is the "Book of the Year,"
 and even, as one dark humourist (perhaps Mr. Max Beerbohm)
 is reported to have said "the finest religious poem of the century."
-To permit this gentleman to dance upon the graves of Browning
+To permit this gentleman to [[Dance|dance]] upon the graves of Browning
 and Tennyson was a feat beyond our tolerably tough clemency.
 Nevertheless, we do not wish to take the matter too solemnly,
 and we have endeavoured to prove that we possess a "poetic mind"
@@ -33,7 +33,7 @@ G. K. C.
 
 Mark Rutherford--January 12, 1901, The Speaker
 
-Pages From A Journal.  By Mark Rutherford.  London:  T. Fisher Unwin.
+Pages From A Journal.  By Mark Rutherford.  [[London]]:  T. Fisher Unwin.
 
 If there are faults to be found with Pages from a Journal they are
 all summed up in the title.  Fragmentary, incomplete, and sometimes
@@ -58,22 +58,22 @@ We are reduced, indeed, to the yet gloomier conviction
 that we ourselves can see very clearly the point around which
 Mark Rutherford seems blundering in comparative blindness.
 Let us take an instance.  The author devotes one chapter
-to a very interesting defence of the morality of Byron,
+to a very interesting defence of the [[morality]] of Byron,
 all the more striking and serious because it proceeds from
-a mind of the typically Puritan education and character.
-He maintains, with admirable truth (if we understand him rightly),
+a mind of the typically Puritan [[Education|education]] and character.
+He maintains, with admirable [[Truth|truth]] (if we understand him rightly),
 that all great prophets have been largely concerned with the
 substitution of a "divine scale" of morals, culminating in a
 general magnanimity, for the trivial scale of mere negative ethics.
 But by a confusion natural enough from a superficial point of view,
 he joins on to this a claim that Byron was "sincere"--that
-is to say, that he was not affected or self-deceiving. Now
+is to say, that he was not affected or [[Self|self]]-deceiving. Now
 we are perfectly ready to maintain that if Byron was sincere
 in this sense he was one of the most despicable curs born.
 His heroes certainly boast of being blase and there
 is nothing in the least magnanimous about being blase.
 Men's souls do not expand in the cold any more than
-water-pipes. If we are to take Byron on his own estimate,
+[[Water|water]]-pipes. If we are to take Byron on his own estimate,
 if his heart was really withered and his power of joy gone,
 he cannot possibly be called a teacher of magnanimity.
 We might have infinite pity for his loss of freshness
@@ -84,7 +84,7 @@ would be a little unreasonable.
 We believe, however, that the author's literary and ethical instinct does
 not mislead him in telling him that Byron was a teacher of magnanimity.
 The real explanation, as it appears to us, does not seem to have
-struck him.  Byron was magnanimous because he was self-deceptive.
+struck him.  Byron was magnanimous because he was [[Self|self]]-deceptive.
 While he imagined that he was feeling and preaching a desolate creed
 of premature old age, he was really feeling and preaching the fierce
 joy of youth in dark and lonely and elemental things.  It is the joyful
@@ -97,36 +97,36 @@ which is merely the expression of that primal "delight of the eyes"
 to which the fiercest flames are golden and darkness itself is only
 too dense a purple.
 
-Mark Rutherford leaves his defence of Byron defective and almost immoral
-by this hurried and misleading defence of the "sincerity" of his despair.
-Byron wept his way through romance after romance; but until
+Mark Rutherford [[Leaves|leaves]] his defence of Byron defective and almost immoral
+by this hurried and misleading defence of the "sincerity" of his [[Despair|despair]].
+Byron wept his way through [[Romance|romance]] after [[Romance|romance]]; but until
 he reached Don Juan we do not feel that he was really miserable.
 Then he began to laugh.
 
 We have treated at some length this one instance of the incomplete
-nature of these reflections, for the sake of better explaining
+[[Nature|nature]] of these reflections, for the sake of better explaining
 our meaning, but many other instances might be taken.  There is,
 for example, an able and interesting paper on "Judas Iscariot,"
-but in this again the writer has not time to get to the root
+but in this again the writer has not [[Time|time]] to get to the root
 of the matter, and the problem is rather stated than solved.
 Mark Rutherford points out truly enough the mystery of the presence
-among Christ's chosen of a wretch capable of betraying for a few
+among [[Christ]]'s chosen of a wretch capable of betraying for a few
 pence and the inconsistency between the trivial dirtiness
-of the murder and the almost noble agony of the suicide.
+of the murder and the almost noble agony of the [[suicide]].
 The explanation occurs to us as very simple.  It was necessary
-in the dawn of the Church to put all the lieutenants of Christ
+in the [[Dawn|dawn]] of the Church to put all the lieutenants of [[Christ]]
 into halos and describe them as living in idyllic accord.
 But in the New Testament we read that they contended who should
 be greatest, and the smallest acquaintance with small sects
 inspired with great ideas would tell us that there would
-be disagreements and rivalries bringing the body to the verge
+be disagreements and rivalries bringing the [[Body|body]] to the verge
 of disruption.  There was, doubtless, a conservative section
 and an "anti-clerical" section.  In some dramatic collision Judas
 seceded in a fury and became the deadly enemy of the whole movement.
 The money payment was either a distorted rumour or a mere form,
 a paying of "party expenses."  It is unfortunate that the tendency
 of all the piety of centuries should be to make the work
-of Christ seem to have been easier instead of more difficult.
+of [[Christ]] seem to have been easier instead of more difficult.
 We shall never know with how much He had to strive.
 But we must confess that we should like to know how many times
 St. Peter was persuaded to rejoin the society.

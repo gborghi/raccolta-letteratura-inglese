@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 64 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 64 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -35,43 +35,43 @@ before any of the torrent of her wrath discharged itself upon him,
 Nicholas hurried Kate off, and left the unfortunate subject of this
 unexpected recognition to explain his conduct as he best could.
 
-The next morning he began his journey. It was now cold, winter weather:
+The next morning he began his [[Journey|journey]]. It was now cold, [[Winter|winter]] weather:
 forcibly recalling to his mind under what circumstances he had first
-travelled that road, and how many vicissitudes and changes he had
-since undergone. He was alone inside the greater part of the way, and
+travelled that [[Road|road]], and how many vicissitudes and changes he had
+since undergone. He was [[Alone|alone]] inside the greater part of the way, and
 sometimes, when he had fallen into a doze, and, rousing himself, looked
-out of the window, and recognised some place which he well remembered as
-having passed, either on his journey down, or in the long walk back
-with poor Smike, he could hardly believe but that all which had since
-happened had been a dream, and that they were still plodding wearily on
-towards London, with the world before them.
+out of the [[Window|window]], and recognised some place which he [[Well|well]] remembered as
+having passed, either on his [[Journey|journey]] down, or in the long walk back
+with poor [[Smike]], he could hardly believe but that all which had since
+happened had been [[A Dream|a dream]], and that they were still plodding wearily on
+towards [[London]], with the world before them.
 
-To render these recollections the more vivid, it came on to snow as
-night set in; and, passing through Stamford and Grantham, and by the
+To render these recollections the more vivid, it came on to [[Snow|snow]] as
+[[Night|night]] set in; and, passing through Stamford and Grantham, and by the
 little alehouse where he had heard the story of the bold Baron of
 Grogzwig, everything looked as if he had seen it but yesterday, and
 not even a flake of the white crust on the roofs had melted away.
 Encouraging the train of ideas which flocked upon him, he could almost
 persuade himself that he sat again outside the coach, with Squeers and
 the boys; that he heard their voices in the air; and that he felt again,
-but with a mingled sensation of pain and pleasure now, that old sinking
-of the heart, and longing after home. While he was yet yielding himself
-up to these fancies he fell asleep, and, dreaming of Madeline, forgot
+but with a mingled sensation of [[Pain|pain]] and pleasure now, that old sinking
+of the heart, and [[Longing|longing]] after [[Home|home]]. While he was yet yielding himself
+up to these fancies he fell asleep, and, dreaming of [[Madeline]], forgot
 them.
 
-He slept at the inn at Greta Bridge on the night of his arrival, and,
+He slept at the inn at Greta Bridge on the [[Night|night]] of his arrival, and,
 rising at a very early hour next morning, walked to the market town, and
-inquired for John Browdie’s house. John lived in the outskirts, now he
+inquired for John Browdie’s [[house]]. John lived in the outskirts, now he
 was a family man; and as everbody knew him, Nicholas had no difficulty
 in finding a boy who undertook to guide him to his residence.
 
 Dismissing his guide at the gate, and in his impatience not even
-stopping to admire the thriving look of cottage or garden either,
+stopping to admire the thriving look of cottage or [[Garden|garden]] either,
 Nicholas made his way to the kitchen door, and knocked lustily with his
 stick.
 
 ‘Halloa!’ cried a voice inside. ‘Wa’et be the matther noo? Be the toon
-a-fire? Ding, but thou mak’st noise eneaf!’
+a-[[Fire|fire]]? Ding, but thou mak’st noise eneaf!’
 
 With these words, John Browdie opened the door himself, and opening his
 eyes too to their utmost width, cried, as he clapped his hands together,
@@ -79,12 +79,12 @@ and burst into a hearty roar:
 
 ‘Ecod, it be the godfeyther, it be the godfeyther! Tilly, here be
 Misther Nickleby. Gi’ us thee hond, mun. Coom awa’, coom awa’. In wi
-‘un, doon beside the fire; tak’ a soop o’ thot. Dinnot say a word till
+‘un, doon beside the [[Fire|fire]]; tak’ a soop o’ thot. Dinnot say a word till
 thou’st droonk it a’! Oop wi’ it, mun. Ding! but I’m reeght glod to see
 thee.’
 
 Adapting his action to his text, John dragged Nicholas into the kitchen,
-forced him down upon a huge settle beside a blazing fire, poured out
+forced him down upon a huge settle beside a blazing [[Fire|fire]], poured out
 from an enormous bottle about a quarter of a pint of spirits, thrust it
 into his hand, opened his mouth and threw back his head as a sign to
 him to drink it instantly, and stood with a broad grin of welcome
@@ -112,37 +112,37 @@ Soom’at in the Guy Faux line?’
 presently.’
 
 ‘Thot’s reeght!’ said John, ‘explain it arter breakfast, not noo, for
-thou be’est hoongry, and so am I; and Tilly she mun’ be at the bottom o’
+thou be’est hoongry, and so am I; and Tilly she mun’ be at the [[Bottom|bottom]] o’
 a’ explanations, for she says thot’s the mutual confidence. Ha, ha, ha!
 Ecod, it’s a room start, is the mutual confidence!’
 
 The entrance of Mrs. Browdie, with a smart cap on, and very many
 apologies for their having been detected in the act of breakfasting in
-the kitchen, stopped John in his discussion of this grave subject, and
+the kitchen, stopped John in his discussion of this [[Grave|grave]] subject, and
 hastened the breakfast: which, being composed of vast mounds of toast,
 new-laid eggs, boiled ham, Yorkshire pie, and other cold substantials
 (of which heavy relays were constantly appearing from another kitchen
 under the direction of a very plump servant), was admirably adapted
 to the cold bleak morning, and received the utmost justice from all
-parties. At last, it came to a close; and the fire which had been
-lighted in the best parlour having by this time burnt up, they adjourned
+parties. At last, it came to a close; and the [[Fire|fire]] which had been
+lighted in the best parlour having by this [[Time|time]] burnt up, they adjourned
 thither, to hear what Nicholas had to tell.
 
 Nicholas told them all, and never was there a story which awakened so
-many emotions in the breasts of two eager listeners. At one time, honest
-John groaned in sympathy, and at another roared with joy; at one time
-he vowed to go up to London on purpose to get a sight of the brothers
+many emotions in the breasts of two eager listeners. At one [[Time|time]], honest
+John groaned in sympathy, and at another roared with joy; at one [[Time|time]]
+he vowed to go up to [[London]] on purpose to get a sight of the brothers
 Cheeryble; and, at another, swore that Tim Linkinwater should receive
 such a ham by coach, and carriage free, as mortal knife had never
-carved. When Nicholas began to describe Madeline, he sat with his mouth
-wide open, nudging Mrs. Browdie from time to time, and exclaiming under
+carved. When Nicholas began to describe [[Madeline]], he sat with his mouth
+wide open, nudging Mrs. Browdie from [[Time|time]] to [[Time|time]], and exclaiming under
 his breath that she must be ‘raa’ther a tidy sart,’ and when he heard
 at last that his young friend had come down purposely to communicate his
-good fortune, and to convey to him all those assurances of friendship
+good fortune, and to convey to him all those assurances of [[Friendship|friendship]]
 which he could not state with sufficient warmth in writing--that the
-only object of his journey was to share his happiness with them, and
+only object of his [[Journey|journey]] was to share his happiness with them, and
 to tell them that when he was married they must come up to see him,
-and that Madeline insisted on it as well as he--John could hold out no
+and that [[Madeline]] insisted on it as [[Well|well]] as he--John could hold out no
 longer, but after looking indignantly at his wife, and demanding to
 know what she was whimpering for, drew his coat sleeve over his eyes and
 blubbered outright.

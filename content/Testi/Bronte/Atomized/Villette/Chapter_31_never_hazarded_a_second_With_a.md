@@ -1,5 +1,5 @@
 ---
-title: "Villette — Volume 31: never hazarded a second. With all this, I had never yet been"
+title: "[[Villette]] — Volume 31: never hazarded a second. With all this, I had never yet been"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -16,11 +16,11 @@ tags:
 
 volume—never hazarded a second. With all this, I had never yet been
 able to arrest in his visits the freakish, friendly, cigar-loving
-phantom.
+[[Phantom|phantom]].
 
 But now at last I had him: there he was—the very brownie himself; and
 there, curling from his lips, was the pale blue breath of his Indian
-darling: he was smoking into my desk: it might well betray him.
+darling: he was smoking into my desk: it might [[Well|well]] betray him.
 Provoked at this particular, and yet pleased to surprise him—pleased,
 that is, with the mixed feeling of the housewife who discovers at last
 her strange elfin ally busy in the dairy at the untimely churn—I softly
@@ -43,8 +43,8 @@ nervous, yet he never started, and seldom changed colour: there was
 something hardy about him.
 
 “I thought you were gone into town with the other teachers,” said he,
-taking a grim gripe of his self-possession, which half-escaped him—“It
-is as well you are not. Do you think I care for being caught? Not I. I
+taking a grim gripe of his [[Self|self]]-possession, which half-escaped him—“It
+is as [[Well|well]] you are not. Do you think I care for being caught? Not I. I
 often visit your desk.”
 
 “Monsieur, I know it.”
@@ -62,7 +62,7 @@ because they have passed under this?”—touching his cigar.
 seen me reading them a hundred times, and knows I have not so many
 recreations as to undervalue those he provides.”
 
-“I mean well; and, if you see that I mean well, and derive some little
+“I mean [[Well|well]]; and, if you see that I mean [[Well|well]], and derive some little
 amusement from my efforts, why can we not be friends?”
 
 “A fatalist would say—because we cannot.”
@@ -82,12 +82,12 @@ leaf, whisper—not a glance. Was this unintentional?”
 “Then you really did not know our custom? You were unprepared? You
 would willingly have laid out a few centimes on a flower to give me
 pleasure, had you been aware that it was expected? Say so, and all is
-forgotten, and the pain soothed.”
+forgotten, and the [[Pain|pain]] soothed.”
 
 “I did know that it was expected: I _was_ prepared; yet I laid out no
-centimes on flowers.”
+centimes on [[Flowers|flowers]].”
 
-“It is well—you do right to be honest. I should almost have hated you
+“It is [[Well|well]]—you do right to be honest. I should almost have hated you
 had you flattered and lied. Better declare at once ‘Paul Carl
 Emanuel—je te déteste, mon garçon!’—than smile an interest, look an
 affection, and be false and cold at heart. False and cold I don’t think
@@ -96,16 +96,16 @@ think your judgment is warped—that you are indifferent where you ought
 to be grateful—and perhaps devoted and infatuated, where you ought to
 be cool as your name. Don’t suppose that I wish you to have a passion
 for me, Mademoiselle; Dieu vous en garde! What do you start for?
-Because I said passion? Well, I say it again. There is such a word, and
+Because I said passion? [[Well]], I say it again. There is such a word, and
 there is such a thing—though not within these walls, thank heaven! You
-are no child that one should not speak of what exists; but I only
+are no [[Child|child]] that one should not speak of what exists; but I only
 uttered the word—the thing, I assure you, is alien to my whole life and
-views. It died in the past—in the present it lies buried—its grave is
-deep-dug, well-heaped, and many winters old: in the future there will
-be a resurrection, as I believe to my souls consolation; but all will
+views. It died in the past—in the present it lies buried—its [[Grave|grave]] is
+deep-dug, [[Well|well]]-heaped, and many winters old: in the future there will
+be a [[Resurrection|resurrection]], as I believe to my souls consolation; but all will
 then be changed—form and feeling: the mortal will have put on
-immortality—it will rise, not for earth, but heaven. All I say to
-_you_, Miss Lucy Snowe, is—that you ought to treat Professor Paul
+[[Immortality|immortality]]—it will rise, not for earth, but heaven. All I say to
+_you_, Miss [[Lucy Snowe]], is—that you ought to treat Professor Paul
 Emanuel decently.”
 
 I could not, and did not contradict such a sentiment.
@@ -136,13 +136,13 @@ when needful.”
 
 He took out the chain—a trifle indeed as to value, but glossy with silk
 and sparkling with beads. He liked that too—admired it artlessly, like
-a child.
+a [[Child|child]].
 
 “For me?”
 
 “Yes, for you.”
 
-“This is the thing you were working at last night?”
+“This is the thing you were working at last [[Night|night]]?”
 
 “The same.”
 
@@ -182,24 +182,24 @@ his books. Amongst the kind brownie’s gifts left in my desk, I forgot
 to enumerate many a paper of chocolate comfits. His tastes in these
 matters were southern, and what we think infantine. His simple lunch
 consisted frequently of a “brioche,” which, as often as not, he shared
-with some child of the third division.
+with some [[Child|child]] of the third division.
 
 “A présent c’est un fait accompli,” said he, re-adjusting his paletôt;
 and we had no more words on the subject. After looking over the two
 volumes he had brought, and cutting away some pages with his penknife
 (he generally pruned before lending his books, especially if they were
 novels, and sometimes I was a little provoked at the severity of his
-censorship, the retrenchments interrupting the narrative), he rose,
+censorship, the retrenchments interrupting the narrative), he [[Rose|rose]],
 politely touched his bonnet-grec, and bade me a civil good-day.
 
-“We are friends now,” thought I, “till the next time we quarrel.”
+“We are friends now,” thought I, “till the next [[Time|time]] we quarrel.”
 
 We _might_ have quarrelled again that very same evening, but, wonderful
 to relate, failed, for once, to make the most of our opportunity.
 
 Contrary to all expectation, M. Paul arrived at the study-hour. Having
 seen so much of him in the morning, we did not look for his presence at
-night. No sooner were we seated at lessons, however, than he appeared.
+[[Night|night]]. No sooner were we seated at lessons, however, than he appeared.
 I own I was glad to see him, so glad that I could not help greeting his
 arrival with a smile; and when he made his way to the same seat about
 which so serious a misunderstanding had formerly arisen, I took good
@@ -213,11 +213,11 @@ say) at his side; I stirred when I wished to stir, coughed when it was
 necessary, even yawned when I was tired—did, in short, what I pleased,
 blindly reliant upon his indulgence. Nor did my temerity, this evening
 at least, meet the punishment it perhaps merited; he was both indulgent
-and good-natured; not a cross glance shot from his eyes, not a hasty
+and good-natured; not a [[Cross|cross]] glance shot from his eyes, not a hasty
 word left his lips. Till the very close of the evening, he did not
 indeed address me at all, yet I felt, somehow, that he was full of
-friendliness. Silence is of different kinds, and breathes different
+friendliness. [[Silence]] is of different kinds, and breathes different
 meanings; no words could inspire a pleasanter content than did M.
 Paul’s worldless presence. When the tray came in, and the bustle of
 supper commenced, he just said, as he retired, that he wished me a good
-night and sweet dreams; and a good night and sweet dreams I had.
+[[Night|night]] and sweet [[Dreams|dreams]]; and a good [[Night|night]] and sweet [[Dreams|dreams]] I had.

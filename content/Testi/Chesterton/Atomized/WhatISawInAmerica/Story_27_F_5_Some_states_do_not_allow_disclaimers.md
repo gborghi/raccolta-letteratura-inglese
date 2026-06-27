@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — F.5.  Some states do not allow disclaimers of certain implied"
+title: "[[WhatISawInAmerica]] — F.5.  Some states do not allow disclaimers of certain implied"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"

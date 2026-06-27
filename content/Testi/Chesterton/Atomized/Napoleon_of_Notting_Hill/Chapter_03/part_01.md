@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting Hill — Chapter 3 (part 1)"
+title: "Napoleon of Notting [[Hill]] — Chapter 3 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Napoleon-of-Notting-Hill-(Chesterton)"
@@ -16,13 +16,13 @@ tags:
 
 CHAPTER III
 
-THE HILL OF HUMOUR
+THE [[Hill|HILL]] OF [[Humour|HUMOUR]]
 
-"IN a little square garden of yellow roses, beside the sea,"
-said Auberon Quin, "there was a Nonconformist minister who
+"IN a little square [[Garden|garden]] of yellow roses, beside the sea,"
+said [[Auberon Quin]], "there was a Nonconformist minister who
 had never been to Wimbledon.  His family did not understand
 his sorrow or the strange look in his eyes.  But one day they
-repented their neglect, for they heard that a body had been
+repented their neglect, for they heard that a [[Body|body]] had been
 found on the shore, battered, but wearing patent leather boots.
 As it happened, it turned out not to be the minister at all.
 But in the dead man's pocket there was a return ticket to Maidstone."
@@ -31,15 +31,15 @@ There was a short pause as Quin and his friends Barker and Lambert
 went swinging on through the slushy grass of Kensington Gardens.
 Then Auberon resumed.
 
-"That story," he said reverently, "is the test of humour."
+"That story," he said reverently, "is the test of [[Humour|humour]]."
 
 They walked on further and faster, wading through higher grass
 as they began to climb a slope.
 
 "I perceive," continued Auberon, "that you have passed the test,
 and consider the anecdote excruciatingly funny; since you say nothing.
-Only coarse humour is received with pot-house applause.
-The great anecdote is received in silence, like a benediction.
+Only coarse [[Humour|humour]] is received with pot-[[house]] applause.
+The great anecdote is received in [[Silence|silence]], like a benediction.
 You felt pretty benedicted, didn't you, Barker?"
 
 "I saw the point," said Barker, somewhat loftily.
@@ -66,30 +66,30 @@ But in her grey-green hollows, she knew nothing of this:
 she didn't know that there was a Boat Race.  Also she did not
 know that she had an uncle.  She had heard of nobody at all,
 except of George the First, of whom she had heard (I know not why),
-and in whose historical memory she put her simple trust.
-And by and by, in God's good time, it was discovered that this uncle
+and in whose historical [[Memory|memory]] she put her simple trust.
+And by and by, in God's good [[Time|time]], it was discovered that this uncle
 of hers was not really her uncle, and they came and told her so.
-She smiled through her tears, and said only, 'Virtue is its
+She smiled through her [[Tears|tears]], and said only, 'Virtue is its
 own reward.'  "
 
-Again there was a silence, and then Lambert said:
+Again there was a [[Silence|silence]], and then Lambert said:
 
 "It seems a bit mysterious."
 
-"Mysterious!" cried the other.  "The true humour is mysterious.
+"Mysterious!" cried the other.  "The true [[Humour|humour]] is mysterious.
 Do you not realize the chief incident of the nineteenth
 and twentieth centuries?"
 
 "And what's that?" asked Lambert, shortly.
 
 "It is very simple," replied the other.  "Hitherto it was the ruin
-of a joke that people did not see it.  Now it is the sublime
-victory of a joke that people do not see it.  Humour, my friends,
+of a joke that people did not see it.  Now it is the [[Sublime|sublime]]
+victory of a joke that people do not see it.  [[Humour]], my friends,
 is the one sanctity remaining to mankind.  It is the one thing you
 are thoroughly afraid of.  Look at that tree."
 
 His interlocutors looked vaguely towards a beech that leant out
-towards them from the ridge of the hill.
+towards them from the ridge of the [[Hill|hill]].
 
 "If," said Mr. Quin, "I were to say that you did not see the great
 truths of science exhibited by that tree, though they stared
@@ -102,19 +102,19 @@ If I were to say that you were guilty of the supreme blasphemy
 of looking at that tree and not seeing in it a new religion,
 a special revelation of God, you would simply say I was a mystic,
 and think no more about me.  But if...and he lifted a pontifical
-hand...if I say that you cannot see the humour of that tree,
-and that I see the humour of it...my God! you will roll about
+hand...if I say that you cannot see the [[Humour|humour]] of that tree,
+and that I see the [[Humour|humour]] of it...my God! you will roll about
 at my feet."
 
 He paused a moment, and then resumed.
 
-"Yes; a sense of humour, a weird and delicate sense of humour,
+"Yes; a sense of [[Humour|humour]], a weird and delicate sense of [[Humour|humour]],
 is the new religion of mankind!  It is towards that men will strain
 themselves with the asceticism of saints.  Exercises, spiritual exercises,
-will be set in it.  It will be asked, 'Can you see the humour of this
-iron railing?' or 'Can you see the humour of this field of corn?
-Can you see the humour of the stars?  Can you see the humour
-of the sunsets?'  How often I have laughed myself to sleep over
+will be set in it.  It will be asked, 'Can you see the [[Humour|humour]] of this
+iron railing?' or 'Can you see the [[Humour|humour]] of this field of corn?
+Can you see the [[Humour|humour]] of the [[Stars|stars]]?  Can you see the [[Humour|humour]]
+of the sunsets?'  How often I have laughed myself to [[Sleep|sleep]] over
 a violet sunset."
 
 "Quite so," said Mr. Barker, with an intelligent embarrassment.
@@ -130,16 +130,16 @@ in a defiant attitude.
 "Auberon," he said, "chuck it.  I won't stand it.  It's all bosh."
 
 Both men stared at him, for there was something very explosive about
-the words, as if they had been corked up painfully for a long time.
+the words, as if they had been corked up painfully for a long [[Time|time]].
 
 "You have," began Quin, "no..."
 
 "I don't care a curse," said Lambert, violently, "whether I have 'a
-delicate sense of humour' or not.  I won't stand it.  It's all a
+delicate sense of [[Humour|humour]]' or not.  I won't stand it.  It's all a
 confounded fraud.  There's no joke in those infernal tales at all.
-You know there isn't as well as I do."
+You know there isn't as [[Well|well]] as I do."
 
-"Well," replied Quin, slowly, "it is true that I, with my rather
+"[[Well]]," replied Quin, slowly, "it is true that I, with my rather
 gradual mental processes, did not see any joke in them.
 But the finer sense of Barker perceived it."
 
@@ -151,4 +151,4 @@ The man who sits on his hat in a pantomime is a long sight funnier
 than you are."
 
 Quin regarded him steadily.  They had reached the top of the ridge
-and the wind struck their faces.
+and the [[Wind|wind]] struck their faces.

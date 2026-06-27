@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 32: DESCRIBES, FAR MORE FULLY THAN THE COURT NEWSMAN EVER (part 1)"
+title: "The [[Pickwick]] Papers — Chapter 32: DESCRIBES, FAR MORE FULLY THAN THE [[Court|COURT]] NEWSMAN EVER (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,60 +14,60 @@ tags:
 </nav>
 
 
-CHAPTER XXXII. DESCRIBES, FAR MORE FULLY THAN THE COURT NEWSMAN EVER
+CHAPTER XXXII. DESCRIBES, FAR MORE FULLY THAN THE [[Court|COURT]] NEWSMAN EVER
 DID, A BACHELOR’S PARTY, GIVEN BY MR. BOB SAWYER AT HIS LODGINGS IN THE
 BOROUGH
 
 There is a repose about Lant Street, in the Borough, which sheds a
-gentle melancholy upon the soul. There are always a good many houses to
+gentle [[Melancholy|melancholy]] upon the [[Soul|soul]]. There are always a good many houses to
 let in the street: it is a by-street too, and its dulness is soothing. A
-house in Lant Street would not come within the denomination of a first-
+[[house]] in Lant Street would not come within the denomination of a first-
 rate residence, in the strict acceptation of the term; but it is a most
 desirable spot nevertheless. If a man wished to abstract himself from
-the world--to remove himself from within the reach of temptation--to
+the world--to remove himself from within the reach of [[Temptation|temptation]]--to
 place himself beyond the possibility of any inducement to look out of
-the window--we should recommend him by all means go to Lant Street.
+the [[Window|window]]--we should recommend him by all means go to Lant Street.
 
 In this happy retreat are colonised a few clear-starchers, a sprinkling
-of journeymen bookbinders, one or two prison agents for the Insolvent
-Court, several small housekeepers who are employed in the Docks, a
+of journeymen bookbinders, one or two [[Prison|prison]] agents for the Insolvent
+[[Court]], several small housekeepers who are employed in the Docks, a
 handful of mantua-makers, and a seasoning of jobbing tailors. The
 majority of the inhabitants either direct their energies to the letting
 of furnished apartments, or devote themselves to the healthful and
 invigorating pursuit of mangling. The chief features in the still life
 of the street are green shutters, lodging-bills, brass door-plates, and
-bell-handles; the principal specimens of animated nature, the pot-boy,
+bell-handles; the principal specimens of animated [[Nature|nature]], the pot-boy,
 the muffin youth, and the baked-potato man. The population is migratory,
 usually disappearing on the verge of quarter-day, and generally by
-night. His Majesty’s revenues are seldom collected in this happy valley;
-the rents are dubious; and the water communication is very frequently
+[[Night|night]]. His Majesty’s revenues are seldom collected in this happy valley;
+the rents are dubious; and the [[Water|water]] communication is very frequently
 cut off.
 
-Mr. Bob Sawyer embellished one side of the fire, in his first-floor
-front, early on the evening for which he had invited Mr. Pickwick, and
+Mr. Bob Sawyer embellished one side of the [[Fire|fire]], in his first-floor
+front, early on the evening for which he had invited Mr. [[Pickwick]], and
 Mr. Ben Allen the other. The preparations for the reception of visitors
 appeared to be completed. The umbrellas in the passage had been heaped
 into the little corner outside the back-parlour door; the bonnet and
 shawl of the landlady’s servant had been removed from the bannisters;
 there were not more than two pairs of pattens on the street-door mat;
 and a kitchen candle, with a very long snuff, burned cheerfully on the
-ledge of the staircase window. Mr. Bob Sawyer had himself purchased the
-spirits at a wine vaults in High Street, and had returned home preceding
+ledge of the staircase [[Window|window]]. Mr. Bob Sawyer had himself purchased the
+spirits at a wine vaults in High Street, and had returned [[Home|home]] preceding
 the bearer thereof, to preclude the possibility of their delivery at the
-wrong house. The punch was ready-made in a red pan in the bedroom; a
+wrong [[house]]. The punch was ready-made in a red pan in the bedroom; a
 little table, covered with a green baize cloth, had been borrowed from
 the parlour, to play at cards on; and the glasses of the establishment,
 together with those which had been borrowed for the occasion from the
-public-house, were all drawn up in a tray, which was deposited on the
+public-[[house]], were all drawn up in a tray, which was deposited on the
 landing outside the door.
 
-Notwithstanding the highly satisfactory nature of all these
+Notwithstanding the highly satisfactory [[Nature|nature]] of all these
 arrangements, there was a cloud on the countenance of Mr. Bob Sawyer, as
 he sat by the fireside. There was a sympathising expression, too, in the
 features of Mr. Ben Allen, as he gazed intently on the coals, and a tone
-of melancholy in his voice, as he said, after a long silence--
+of [[Melancholy|melancholy]] in his voice, as he said, after a long [[Silence|silence]]--
 
-‘Well, it is unlucky she should have taken it in her head to turn sour,
+‘[[Well]], it is unlucky she should have taken it in her head to turn sour,
 just on this occasion. She might at least have waited till to-morrow.’
 
 ‘That’s her malevolence--that’s her malevolence,’ returned Mr. Bob
@@ -122,11 +122,11 @@ Sawyer deferentially, ‘but--’
 
 ‘Oh, it isn’t any inconvenience,’ replied the little woman, with a
 shrill titter. ‘I didn’t want it particular before to-day; leastways, as
-it has to go to my landlord directly, it was as well for you to keep it
+it has to go to my landlord directly, it was as [[Well|well]] for you to keep it
 as me. You promised me this afternoon, Mr. Sawyer, and every gentleman
 as has ever lived here, has kept his word, Sir, as of course anybody as
 calls himself a gentleman does.’ Mrs. Raddle tossed her head, bit her
 lips, rubbed her hands harder, and looked at the wall more steadily than
 ever. It was plain to see, as Mr. Bob Sawyer remarked in a style of
-Eastern allegory on a subsequent occasion, that she was ‘getting the
+Eastern [[Allegory|allegory]] on a subsequent occasion, that she was ‘getting the
 steam up.’

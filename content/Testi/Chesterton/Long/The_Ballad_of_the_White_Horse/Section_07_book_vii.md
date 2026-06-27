@@ -1,5 +1,5 @@
 ---
-title: "The Ballad of the White Horse — Book VII"
+title: "The Ballad of the White [[Horse]] — Book VII"
 author: "Chesterton"
 unitType: section
 parentWork: "Works/The-Ballad-of-the-White-Horse-(Chesterton)"
@@ -17,15 +17,15 @@ tags:
 BOOK VII  
 ETHANDUNE: THE LAST CHARGE  
 
-WAY in the waste of White Horse Down  
-       An idle child alone  
+WAY in the waste of White [[Horse]] Down  
+       An idle [[Child|child]] [[Alone|alone]]  
      Played some small game through hours that pass,  
      And patiently would pluck the grass,  
        Patiently push the stone. [5]  
      On the lean, green edge for ever,  
-       Where the blank chalk touched the turf,  
-     The child played on, alone, divine,  
-     As a child plays on the last line  
+       Where the blank [[chalk]] touched the turf,  
+     The [[Child|child]] played on, [[Alone|alone]], divine,  
+     As a [[Child|child]] plays on the last line  
        That sunders sand and surf. [10]  
      For he dwelleth in high divisions  
        Too simple to understand,  
@@ -39,71 +39,71 @@ WAY in the waste of White Horse Down
        And he piled them up again. [20]  
      And crimson kings on battle-towers,  
        And saints on Gothic spires,  
-     And hermits on their peaks of snow,  
+     And hermits on their peaks of [[Snow|snow]],  
        And heroes on their pyres,  
      And patriots riding royally, [25]  
        That rush the rocking town,  
      Stretch hands, and hunger and aspire,  
      Seeking to mount where high and higher,  
-     The child whom Time can never tire,  
-       Sings over White Horse Down. [30]  
+     The [[Child|child]] whom [[Time]] can never tire,  
+       Sings over White [[Horse]] Down. [30]  
      And this was the might of Alfred,  
        At the ending of the way;  
      That of such smiters, wise or wild,  
-     He was least distant from the child,  
+     He was least distant from the [[Child|child]],  
        Piling the stones all day. [35]  
      For Eldred fought like a frank hunter  
-       That killeth and goeth home;  
+       That killeth and goeth [[Home|home]];  
      And Mark had fought because all arms  
        Rang like the name of Rome.  
-     And Colan fought with a double mind, [40]  
+     And Colan fought with a [[Double|double]] mind, [40]  
        Moody and madly gay;  
      But Alfred fought as gravely  
-       As a good child at play.  
+       As a good [[Child|child]] at play.  
      He saw wheels break and work run back  
        And all things as they were; [45]  
      And his heart was orbed like victory  
-       And simple like despair.  
+       And simple like [[Despair|despair]].  
      Therefore is Mark forgotten,  
        That was wise with his tongue and brave;  
      And the cairn over Colan crumbled, [50]  
-       And the cross on Eldred’s grave.  
-     Their great souls went on a wind away,  
+       And the [[Cross|cross]] on Eldred’s [[Grave|grave]].  
+     Their great souls went on a [[Wind|wind]] away,  
        And they have not tale or tomb;  
      And Alfred born in Wantage  
        Rules England till the doom. [55]  
      Because in the forest of all fears  
        Like a strange fresh gust from sea,  
-     Struck him that ancient innocence  
+     Struck him that ancient [[innocence]]  
        That is more than mastery.  
-     And as a child whose bricks fall down [60]  
+     And as a [[Child|child]] whose bricks fall down [60]  
        Re-piles them o’er and o’er,  
      Came ruin and the rain that burns,  
-     Returning as a wheel returns,  
+     Returning as a [[Wheel|wheel]] returns,  
      And crouching in the furze and ferns  
        He began his life once more. [65]  
      He took his ivory horn unslung  
        And smiled, but not in scorn:  
      “Endeth the Battle of Ethandune  
        With the blowing of a horn.”  
-     On a dark horse at the double way [70]  
+     On a dark [[Horse|horse]] at the [[Double|double]] way [70]  
        He saw great Guthrum ride,  
      Heard roar of brass and ring of steel,  
      The laughter and the trumpet peal,  
-       The pagan in his pride.  
+       The pagan in his [[Pride|pride]].  
      And Ogier’s red and hated head [75]  
        Moved in some talk or task;  
      But the men seemed scattered in the brier,  
-     And some of them had lit a fire,  
+     And some of them had lit a [[Fire|fire]],  
        And one had broached a cask.  
      And waggons one or two stood up, [80]  
        Like tall ships in sight,  
      As if an outpost were encamped  
-       At the cloven ways for night.  
+       At the cloven ways for [[Night|night]].  
      And joyous of the sudden stay  
        Of Alfred’s routed few, [85]  
      Sat one upon a stone to sigh,  
-     And some slipped up the road to fly,  
+     And some slipped up the [[Road|road]] to fly,  
      Till Alfred in the fern hard by  
        Set horn to mouth and blew.  
      And they all abode like statues— [90]  
@@ -111,37 +111,37 @@ WAY in the waste of White Horse Down
      One half-way through the thorn hedge tall,  
      One with a leg across a wall,  
      And one looked backwards, very small,  
-       Far up the road, alone. [95]  
+       Far up the [[Road|road]], [[Alone|alone]]. [95]  
      Grey twilight and a yellow star  
-       Hung over thorn and hill;  
+       Hung over thorn and [[Hill|hill]];  
      Two spears and a cloven war-shield lay  
-     Loose on the road as cast away,  
+     Loose on the [[Road|road]] as cast away,  
      The horn died faint in the forests grey, [100]  
        And the fleeing men stood still.  
      “Brothers at arms,” said Alfred,  
        “On this side lies the foe;  
-     Are slavery and starvation flowers,  
+     Are [[Slavery|slavery]] and starvation [[Flowers|flowers]],  
        That you should pluck them so? [105]  
      “For whether is it better  
        To be prodded with Danish poles,  
      Having hewn a chamber in a ditch,  
-     And hounded like a howling witch,  
-       Or smoked to death in holes? [110]  
+     And hounded like a howling [[Witch|witch]],  
+       Or smoked to [[Death|death]] in holes? [110]  
      “Or that before the red cock crow  
        All we, a thousand strong,  
-     Go down the dark road to God’s house,  
-       Singing a Wessex song?  
+     Go down the dark [[Road|road]] to God’s [[house]],  
+       Singing a Wessex [[Song|song]]?  
      “To sweat a slave to a race of slaves, [115]  
        To drink up infamy?  
      No, brothers, by your leave, I think  
-     Death is a better ale to drink,  
-     And by all the stars of Christ that sink,  
+     [[Death]] is a better ale to drink,  
+     And by all the [[Stars|stars]] of [[Christ]] that sink,  
        The Danes shall drink with me. [120]  
      “To grow old cowed in a conquered land,  
        With the sun itself discrowned,  
      To see trees crouch and cattle slink—  
-     Death is a better ale to drink,  
-     And by high Death on the fell brink, [125]  
+     [[Death]] is a better ale to drink,  
+     And by high [[Death]] on the fell brink, [125]  
        That flagon shall go round.  
      “Though dead are all the paladins  
        Whom glory had in ken,  
@@ -154,9 +154,9 @@ WAY in the waste of White Horse Down
      When all their lords be lost and dead [135]  
      The bondsmen of the earth shall tread  
        The tyrants of the seas.  
-     “The wheel of the roaring stillness  
+     “The [[Wheel|wheel]] of the roaring stillness  
        Of all labours under the sun,  
-     Speed the wild work as well at least [140]  
+     [[Speed]] the wild work as [[Well|well]] at least [140]  
        As the whole world’s work is done.  
      “Let Hildred hack the shield-wall  
        Clean as he hacks the hedge;  
@@ -164,15 +164,15 @@ WAY in the waste of White Horse Down
        As he stands on the chasm’s edge; [145]  
      “Let Gorlias ride the sea-kings  
        As Gorlias rides the sea,  
-     Then let all hell and Denmark drive,  
+     Then let all hell and [[Denmark]] drive,  
      Yelling to all its fiends alive,  
        And not a rag care we.” [150]  
      When Alfred’s word was ended  
        Stood firm that feeble line,  
      Each in his place with club or spear,  
-     And fury deeper than deep fear,  
+     And fury deeper than deep [[Fear|fear]],  
        And smiles as sour as brine. [155]  
-     And the King held up the horn and said,  
+     And the [[King]] held up the horn and said,  
        “See ye my father’s horn,  
      That Egbert blew in his empery,  
      Once, when he rode out commonly,  
@@ -191,9 +191,9 @@ WAY in the waste of White Horse Down
        Charge some, by rule and rod;  
      But when I blow the battle sign,  
        Charge all, and go to God.”  
-     Wild stared the Danes at the double ways [175]  
+     Wild stared the Danes at the [[Double|double]] ways [175]  
        Where they loitered, all at large,  
-     As that dark line for the last time  
+     As that dark line for the last [[Time|time]]  
        Doubled the knee to charge—  
      And caught their weapons clumsily,  
        And marvelled how and why— [180]  
@@ -205,25 +205,25 @@ WAY in the waste of White Horse Down
      When the broken shield hung on the breast,  
      And the hopeless lance was laid in rest,  
        And the hopeless horn blown,  
-     The King looked up, and what he saw  
-       Was a great light like death, [190]  
+     The [[King]] looked up, and what he saw  
+       Was a great light like [[Death|death]], [190]  
      For Our Lady stood on the standards rent,  
-     As lonely and as innocent As when between white walls she went  
+     As lonely and as [[Innocent|innocent]] As when between white walls she went  
        And the lilies of Nazareth.  
      One instant in a still light [195]  
        He saw Our Lady then,  
      Her dress was soft as western sky,  
-     And she was a queen most womanly—  
-       But she was a queen of men.  
+     And she was a [[Queen|queen]] most womanly—  
+       But she was a [[Queen|queen]] of men.  
      Over the iron forest [200]  
        He saw Our Lady stand,  
      Her eyes were sad withouten art,  
      And seven swords were in her heart—  
        But one was in her hand.  
      Then the last charge went blindly, [205]  
-       And all too lost for fear:  
+       And all too lost for [[Fear|fear]]:  
      The Danes closed round, a roaring ring,  
-     And twenty clubs rose o’er the King,  
+     And twenty clubs [[Rose|rose]] o’er the [[King]],  
      Four Danes hewed at him, halloing,  
      And Ogier of the Stone and Sling [210]  
        Drove at him with a spear.  
@@ -232,46 +232,46 @@ WAY in the waste of White Horse Down
      The point stuck to a straggling tree,  
      And either host cried suddenly, [215]  
        As Alfred leapt aside.  
-     Short time had shaggy Ogier  
+     Short [[Time|time]] had shaggy Ogier  
        To pull his lance in line—  
-     He knew King Alfred’s axe on high,  
+     He knew [[King Alfred]]’s axe on high,  
        He heard it rushing through the sky, [220]  
      He cowered beneath it with a cry—  
        It split him to the spine:  
      And Alfred sprang over him dead,  
        And blew the battle sign.  
      Then bursting all and blasting [225]  
-       Came Christendom like death,  
+       Came Christendom like [[Death|death]],  
      Kicked of such catapults of will,  
      The staves shiver, the barrels spill,  
      The waggons waver and crash and kill  
        The waggoners beneath. [230]  
      Barriers go backwards, banners rend,  
        Great shields groan like a gong  
-     Horses like horns of nightmare  
+     Horses like horns of [[nightmare]]  
        Neigh horribly and long.  
      Horses ramp high and rock and boil [235]  
        And break their golden reins,  
      And slide on carnage clamorously,  
-     Down where the bitter blood doth lie,  
+     Down where the bitter [[Blood|blood]] doth lie,  
      Where Ogier went on foot to die,  
        In the old way of the Danes. [240]  
-     “The high tide!” King Alfred cried.  
+     “The high tide!” [[King Alfred]] cried.  
        “The high tide and the turn!  
      As a tide turns on the tall grey seas,  
      See how they waver in the trees,  
      How stray their spears, how knock their knees, [245]  
        How wild their watchfires burn!  
      “The Mother of God goes over them,  
-       Walking on wind and flame,  
-     And the storm-cloud drifts from city and dale,  
-     And the White Horse stamps in the White Horse Vale, [250]  
+       Walking on [[Wind|wind]] and flame,  
+     And the [[Storm|storm]]-cloud drifts from [[City|city]] and dale,  
+     And the White [[Horse]] stamps in the White [[Horse]] Vale, [250]  
      And we all shall yet drink Christian ale  
        In the village of our name.  
      “The Mother of God goes over them,  
        On dreadful cherubs borne;  
      And the psalm is roaring above the rune, [255]  
-     And the Cross goes over the sun and moon,  
+     And the [[Cross]] goes over the sun and [[Moon|moon]],  
      Endeth the Battle of Ethandune  
        With the blowing of a horn.”  
      For back indeed disorderly  
@@ -279,14 +279,14 @@ WAY in the waste of White Horse Down
      Too worn to take anew the tale,  
      Or dazed with insolence and ale,  
      Or stunned of heaven, or stricken pale  
-       Before the face of the King.  
+       Before the face of the [[King]].  
      For dire was Alfred in his hour [265]  
        The pale scribe witnesseth,  
      More mighty in defeat was he  
      Than all men else in victory,  
      And behind, his men came murderously,  
-       Dry-throated, drinking death. [270]  
-     And Edgar of the Golden Ship  
+       Dry-throated, drinking [[Death|death]]. [270]  
+     And [[Edgar]] of the Golden [[Ship]]  
        He slew with his own hand,  
      Took Ludwig from his lady’s bower,  
      And smote down Harmar in his hour,  
@@ -297,7 +297,7 @@ WAY in the waste of White Horse Down
      Wulf with his war-cry on his lips,  
      And Hacro born in the eclipse, [280]  
      Who blocked the Seine with battleships  
-       Round Paris on the Isle.  
+       Round [[Paris]] on the Isle.  
      And Hacon of the Harvesting,  
      And Dirck from the Elbe he slew,  
      And Cnut that melted Durham bell, [285]  
@@ -306,20 +306,20 @@ WAY in the waste of White Horse Down
        And Uriel of the Yew.  
      And highest sang the slaughter,  
        And fastest fell the slain, [290]  
-     When from the wood-road’s blackening throat  
-     A crowning and crashing wonder smote  
+     When from the wood-[[Road|road]]’s blackening throat  
+     A crowning and crashing [[Wonder|wonder]] smote  
        The rearguard of the Dane.  
      For the dregs of Colan’s company—  
-       Lost down the other road— [295]  
+       Lost down the other [[Road|road]]— [295]  
      Had gathered and grown and heard the din,  
      And with wild yells came pouring in,  
      Naked as their old British kin,  
-       And bright with blood for woad.  
+       And bright with [[Blood|blood]] for woad.  
      And bare and bloody and aloft [300]  
        They bore before their band  
-     The body of their mighty lord,  
+     The [[Body|body]] of their mighty lord,  
      Colan of Caerleon and its horde,  
-     That bore King Alfred’s battle-sword  
+     That bore [[King Alfred]]’s battle-[[Sword|sword]]  
        Broken in his left hand. [305]  
      And a strange music went with him,  
        Loud and yet strangely far;  
@@ -327,44 +327,44 @@ WAY in the waste of White Horse Down
      Too keen for the ear to understand,  
      Sang high and deathly on each hand [310]  
        When the dead man went to war.  
-     Blocked between ghost and buccaneer,  
+     Blocked between [[Ghost|ghost]] and buccaneer,  
        Brave men have dropped and died;  
-     And the wild sea-lords well might quail  
+     And the wild sea-lords [[Well|well]] might quail  
      As the ghastly war-pipes of the Gael [315]  
-     Called to the horns of White Horse Vale,  
+     Called to the horns of White [[Horse]] Vale,  
        And all the horns replied.  
      And Hildred the poor hedger  
        Cut down four captains dead,  
      And Halmer laid three others low, [320]  
      And the great earls wavered to and fro  
        For the living and the dead.  
-     And Gorlias grasped the great flag,  
-       The Raven of Odin, torn;  
+     And Gorlias grasped the great [[Flag|flag]],  
+       [[The Raven]] of Odin, torn;  
      And the eyes of Guthrum altered, [325]  
-       For the first time since morn.  
-     As a turn of the wheel of tempest  
+       For the first [[Time|time]] since morn.  
+     As a turn of the [[Wheel|wheel]] of tempest  
        Tilts up the whole sky tall,  
      And cliffs of wan cloud luminous  
      Lean out like great walls over us, [330]  
        As if the heavens might fall.  
      As such a tall and tilted sky  
-       Sends certain snow or light,  
+       Sends certain [[Snow|snow]] or light,  
      So did the eyes of Guthrum change,  
      And the turn was more certain and more strange [335]  
        Than a thousand men in flight.  
      For not till the floor of the skies is split,  
-       And hell-fire shines through the sea,  
-     Or the stars look up through the rent earth’s knees,  
+       And hell-[[Fire|fire]] shines through the sea,  
+     Or the [[Stars|stars]] look up through the rent earth’s knees,  
      Cometh such rending of certainties, [340]  
      As when one wise man truly sees  
        What is more wise than he.  
-     He set his horse in the battle-breach  
+     He set his [[Horse|horse]] in the battle-breach  
        Even Guthrum of the Dane,  
      And as ever had fallen fell his brand, [345]  
      A falling tower o’er many a land,  
      But Gurth the fowler laid one hand  
        Upon this bridle rein.  
-     King Guthrum was a great lord,  
+     [[King]] Guthrum was a great lord,  
        And higher than his gods— [350]  
      He put the popes to laughter,  
        He chid the saints with rods,  
@@ -377,12 +377,12 @@ WAY in the waste of White Horse Down
      We set a sign on Guthrum  
        To blaze a thousand years. [360]  
      Where the high saddles jostle  
-       And the horse-tails toss,  
-     There rose to the birds flying  
+       And the [[Horse|horse]]-tails toss,  
+     There [[Rose|rose]] to the [[Birds|birds]] flying  
      A roar of dead and dying;  
      In deafness and strong crying [365]  
-       We signed him with the cross.  
-     Far out to the winding river  
-       The blood ran down for days,  
-     When we put the cross on Guthrum  
+       We signed him with the [[Cross|cross]].  
+     Far out to the winding [[River|river]]  
+       The [[Blood|blood]] ran down for days,  
+     When we put the [[Cross|cross]] on Guthrum  
        In the parting of the ways. [370]  

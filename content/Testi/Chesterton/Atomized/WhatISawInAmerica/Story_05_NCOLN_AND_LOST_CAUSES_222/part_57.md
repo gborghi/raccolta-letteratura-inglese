@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 57)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 57)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -26,33 +26,33 @@ to do so.
 
 
 
-In one respect, however, America is very old indeed. In one respect
+In one respect, however, [[America]] is very old indeed. In one respect
 
-America is more historic than England; I might almost say more
+[[America]] is more historic than England; I might almost say more
 
 archaeological than England. The record of one period of the past,
 
 morally remote and probably irrevocable, is there preserved in a more
 
-perfect form as a pagan city is preserved at Pompeii. In a more general
+perfect form as a pagan [[City|city]] is preserved at Pompeii. In a more general
 
 sense, of course, it is easy to exaggerate the contrast as a mere
 
 contrast between the old world and the new. There is a superficial
 
-satire about the millionaire's daughter who has recently become the wife
+[[Satire|satire]] about the millionaire's daughter who has recently become the wife
 
-of an aristocrat; but there is a rather more subtle satire in the
+of an [[aristocrat]]; but there is a rather more subtle [[Satire|satire]] in the
 
-question of how long the aristocrat has been aristocratic. There is
+question of how long the [[aristocrat]] has been aristocratic. There is
 
-often much misplaced mockery of a marriage between an upstart's daughter
+often much misplaced mockery of a [[Marriage|marriage]] between an upstart's daughter
 
-and a decayed relic of feudalism; when it is really a marriage between
+and a decayed relic of feudalism; when it is really a [[Marriage|marriage]] between
 
 an upstart's daughter and an upstart's grandson. The sentimental
 
-socialist often seems to admit the blue blood of the nobleman, even when
+socialist often seems to admit the blue [[Blood|blood]] of the nobleman, even when
 
 he wants to shed it; just as he seems to admit the marvellous brains of
 
@@ -62,7 +62,7 @@ the interests of social science, of course) the sentimental socialist
 
 never does go so far as bloodshed or blowing out brains; otherwise the
 
-colour and quality of both blood and brains would probably be a
+colour and quality of both [[Blood|blood]] and brains would probably be a
 
 disappointment to him. There are certainly more American families that
 
@@ -70,9 +70,9 @@ really came over in the _Mayflower_ than English families that really
 
 came over with the Conqueror; and an English county family clearly
 
-dating from the time of the _Mayflower_ would be considered a very
+dating from the [[Time|time]] of the _Mayflower_ would be considered a very
 
-traditional and historic house. Nevertheless, there are ancient things
+traditional and historic [[house]]. Nevertheless, there are ancient things
 
 in England, though the aristocracy is hardly one of them. There are
 
@@ -82,15 +82,15 @@ do preserve, as in a perfect pattern, some particular epoch of the past,
 
 and even of the remote past. A man could study the Middle Ages in
 
-Lincoln as well as in Rouen; in Canterbury as well as in Cologne. Even
+[[Lincoln]] as [[Well|well]] as in Rouen; in Canterbury as [[Well|well]] as in Cologne. Even
 
-of the Renaissance the same is true, at least on the literary side; if
+of the [[Renaissance]] the same is true, at least on the literary side; if
 
 Shakespeare was later he was also greater than Ronsard. But the point is
 
-that the spirit and philosophy of the periods were present in fullness
+that the spirit and [[philosophy]] of the periods were present in fullness
 
-and in freedom. The guildsmen were as Christian in England as they were
+and in [[Freedom|freedom]]. The guildsmen were as Christian in England as they were
 
 anywhere; the poets were as pagan in England as they were anywhere.
 
@@ -98,17 +98,17 @@ Personally I do not admit that the men who served patrons were freer
 
 than those who served patron saints. But each fashion had its own kind
 
-of freedom; and the point is that the English, in each case, had the
+of [[Freedom|freedom]]; and the point is that the English, in each case, had the
 
-fullness of that kind of freedom. But there was another ideal of freedom
+fullness of that kind of [[Freedom|freedom]]. But there was another ideal of [[Freedom|freedom]]
 
 which the English never had at all; or, anyhow, never expressed at all.
 
-There was another ideal, the soul of another epoch, round which we built
+There was another ideal, the [[Soul|soul]] of another epoch, round which we built
 
 no monuments and wrote no masterpieces. You will find no traces of it in
 
-England; but you will find them in America.
+England; but you will find them in [[America]].
 
 
 
@@ -118,7 +118,7 @@ religion, in the more defined sense, was generally Deism, as in
 
 Robespierre or Jefferson. In the more general way of morals and
 
-atmosphere it was rather Stoicism, as in the suicide of Wolfe Tone. It
+atmosphere it was rather Stoicism, as in the [[suicide]] of Wolfe Tone. It
 
 had certain very noble and, as some would say, impossible ideals; as
 
@@ -128,29 +128,29 @@ knew Latin; and therefore insisted on the strange fancy that the
 
 Republic should be a public thing. Its Republican simplicity was
 
-anything but a silly pose; unless all martyrdom is a silly pose. Even of
+anything but a silly pose; unless all [[Martyrdom|martyrdom]] is a silly pose. Even of
 
 the prigs and fanatics of the American and French Revolutions we can
 
-often say, as Stevenson said of an American, that 'thrift and courage
+often say, as Stevenson said of an American, that 'thrift and [[Courage|courage]]
 
 glowed in him.' And its virtue and value for us is that it did remember
 
 the things we now most tend to forget; from the dignity of liberty to
 
-the danger of luxury. It did really believe in self-determination, in
+the danger of luxury. It did really believe in [[Self|self]]-determination, in
 
-the self-determination of the self, as well as of the state. And its
+the [[Self|self]]-determination of the [[Self|self]], as [[Well|well]] as of the state. And its
 
 determination was really determined. In short, it believed in
 
-self-respect; and it is strictly true even of its rebels and regicides
+[[Self|self]]-respect; and it is strictly true even of its rebels and regicides
 
 that they desired chiefly to be respectable. But there were in it the
 
-marks of religion as well as respectability; it had a creed; it had a
+marks of religion as [[Well|well]] as respectability; it had a creed; it had a
 
-crusade. Men died singing its songs; men starved rather than write
+crusade. Men died singing its [[songs]]; men starved rather than write
 
 against its principles. And its principles were liberty, equality, and
 
@@ -160,15 +160,15 @@ the idea that redeemed the dreary negations of the eighteenth century;
 
 and there are still corners of Philadelphia or Boston or Baltimore where
 
-we can feel so suddenly in the silence its plain garb and formal
+we can feel so suddenly in the [[Silence|silence]] its plain garb and formal
 
-manners, that the walking ghost of Jefferson would hardly surprise us.
+manners, that the walking [[Ghost|ghost]] of Jefferson would hardly surprise us.
 
 
 
-There is not the ghost of such a thing in England. In England the real
+There is not the [[Ghost|ghost]] of such a thing in England. In England the real
 
-religion of the eighteenth century never found freedom or scope. It
+religion of the eighteenth century never found [[Freedom|freedom]] or scope. It
 
 never cleared a space in which to build that cold and classic building
 
@@ -188,10 +188,10 @@ the best things of the eighteenth century. The ground was occupied by
 
 legal fictions; by a godless Erastian church and a powerless Hanoverian
 
-king. Its realities were an aristocracy of Regency dandies, in costumes
+[[King|king]]. Its realities were an aristocracy of Regency dandies, in costumes
 
 made to match Brighton Pavilion; a paganism not frigid but florid. It
 
 was a touch of this aristocratic waste in Fox that prevented that great
 
-man from being a glorious exception. It is therefore well for us to
+man from being a glorious exception. It is therefore [[Well|well]] for us to

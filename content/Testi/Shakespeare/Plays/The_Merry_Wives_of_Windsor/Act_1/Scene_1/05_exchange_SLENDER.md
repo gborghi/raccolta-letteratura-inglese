@@ -15,11 +15,11 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| SLENDER | I’faith, I’ll eat nothing. I thank you as much as though I did. |
-| ANNE | I pray you, sir, walk in. Dogs bark within |
-| SLENDER | I had rather walk here, I thank you. I bruised my shin th‘other day, with playing at sword and dagger with a master of fence—three veneys for a dish of stewed prunes—and, by my troth, I cannot abide the smell of hot meat since. Why do your dogs bark so? Be there bears i’th’ town? |
+| SLENDER | I’[[Faith|faith]], I’ll eat nothing. I thank you as much as though I did. |
+| ANNE | I pray you, sir, walk in. [[dogs|Dogs]] bark within |
+| SLENDER | I had rather walk here, I thank you. I bruised my shin th‘other day, with playing at [[Sword|sword]] and dagger with a master of fence—three veneys for a dish of stewed prunes—and, by my troth, I cannot abide the smell of hot meat since. Why do your [[dogs]] bark so? Be there bears i’th’ town? |
 | ANNE | I think there are, sir. I heard them talked of. |
-| SLENDER | I love the sport well—but I shall as soon quarrel at it as any man in England. You are afraid if you see the bear loose, are you not? |
+| SLENDER | I [[Love|love]] the sport [[Well|well]]—but I shall as soon quarrel at it as any man in England. You are afraid if you see the bear loose, are you not? |
 | ANNE | Ay, indeed, sir. |
 | SLENDER | That’s meat and drink to me, now. I have seen Sackerson loose twenty times, and have taken him by the chain. But I warrant you, the women have so cried and shrieked at it that it passed. But women, indeed, cannot abide ’em. They are very ill-favoured, rough things. Enter Page |
 | PAGE | Come, gentle Master Slender, come. We stay for you. |

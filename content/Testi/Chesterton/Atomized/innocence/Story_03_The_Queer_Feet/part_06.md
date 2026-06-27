@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Queer Feet (part 6)"
+title: "[[innocence]] — The Queer Feet (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/innocence-(Chesterton)"
@@ -14,32 +14,32 @@ tags:
 </nav>
 
 
-Father Brown seemed rather to like the saturnine candour of the soldier.
-"Well," he said, smiling, "I mustn't tell you anything of the man's identity,
+[[Father Brown]] seemed rather to like the saturnine candour of the soldier.
+"[[Well]]," he said, smiling, "I mustn't tell you anything of the man's [[Identity|identity]],
 or his own story, of course; but there's no particular reason why I shouldn't
 tell you of the mere outside facts which I found out for myself."
 
 He hopped over the barrier with unexpected activity, and sat beside
 Colonel Pound, kicking his short legs like a little boy on a gate.
 He began to tell the story as easily as if he were telling it to an old
-friend by a Christmas fire.
+friend by a Christmas [[Fire|fire]].
 
 "You see, colonel," he said, "I was shut up in that small room there
 doing some writing, when I heard a pair of feet in this passage doing
-a dance that was as queer as the dance of death.  First came quick,
+a [[Dance|dance]] that was as queer as the [[Dance of Death|dance of death]].  First came quick,
 funny little steps, like a man walking on tiptoe for a wager; then came slow,
 careless, creaking steps, as of a big man walking about with a cigar.
 But they were both made by the same feet, I swear, and they came in rotation;
 first the run and then the walk, and then the run again.  I wondered at
 first idly and then wildly why a man should act these two parts at once.
 One walk I knew; it was just like yours, colonel.  It was the walk
-of a well-fed gentleman waiting for something, who strolls about rather
+of a [[Well|well]]-fed gentleman waiting for something, who strolls about rather
 because he is physically alert than because he is mentally impatient.
 I knew that I knew the other walk, too, but I could not remember what it was.
 What wild creature had I met on my travels that tore along on tiptoe
 in that extraordinary style?  Then I heard a clink of plates somewhere;
 and the answer stood up as plain as St. Peter's. It was the walk of a waiter--
-that walk with the body slanted forward, the eyes looking down, the ball
+that walk with the [[Body|body]] slanted forward, the eyes looking down, the ball
 of the toe spurning away the ground, the coat tails and napkin flying.
 Then I thought for a minute and a half more.  And I believe I saw the manner
 of the crime, as clearly as if I were going to commit it."
@@ -52,20 +52,20 @@ Don't look surprised; crimes are by no means the only works of art
 that come from an infernal workshop.  But every work of art,
 divine or diabolic, has one indispensable mark--I mean, that the centre
 of it is simple, however much the fulfilment may be complicated.
-Thus, in Hamlet, let us say, the grotesqueness of the grave-digger,
-the flowers of the mad girl, the fantastic finery of Osric, the pallor
-of the ghost and the grin of the skull are all oddities in a sort
+Thus, in [[Hamlet]], let us say, the grotesqueness of the [[Grave|grave]]-digger,
+the [[Flowers|flowers]] of the mad girl, the fantastic finery of Osric, the pallor
+of the [[Ghost|ghost]] and the grin of the skull are all oddities in a sort
 of tangled wreath round one plain tragic figure of a man in black.
-Well, this also," he said, getting slowly down from his seat
-with a smile, "this also is the plain tragedy of a man in black.
-Yes," he went on, seeing the colonel look up in some wonder,
-"the whole of this tale turns on a black coat.  In this, as in Hamlet,
+[[Well]], this also," he said, getting slowly down from his seat
+with a smile, "this also is the plain [[Tragedy|tragedy]] of a man in black.
+Yes," he went on, seeing the colonel look up in some [[Wonder|wonder]],
+"the whole of this tale turns on a black coat.  In this, as in [[Hamlet]],
 there are the rococo excrescences--yourselves, let us say.
 There is the dead waiter, who was there when he could not be there.
 There is the invisible hand that swept your table clear of silver
 and melted into air.  But every clever crime is founded ultimately on
 some one quite simple fact--some fact that is not itself mysterious.
-The mystification comes in covering it up, in leading men's thoughts
+The [[Mystification|mystification]] comes in covering it up, in leading men's thoughts
 away from it.  This large and subtle and (in the ordinary course)
 most profitable crime, was built on the plain fact that a gentleman's
 evening dress is the same as a waiter's. All the rest was acting,
@@ -74,7 +74,7 @@ and thundering good acting, too."
 "Still," said the colonel, getting up and frowning at his boots,
 "I am not sure that I understand."
 
-"Colonel," said Father Brown, "I tell you that this archangel of
+"Colonel," said [[Father Brown]], "I tell you that this archangel of
 impudence who stole your forks walked up and down this passage twenty
 times in the blaze of all the lamps, in the glare of all the eyes.
 He did not go and hide in dim corners where suspicion might have searched
@@ -83,25 +83,25 @@ and everywhere that he went he seemed to be there by right.  Don't ask me
 what he was like; you have seen him yourself six or seven times tonight.
 You were waiting with all the other grand people in the reception
 room at the end of the passage there, with the terrace just beyond.
-Whenever he came among you gentlemen, he came in the lightning style
+Whenever he came among you gentlemen, he came in the [[Lightning|lightning]] style
 of a waiter, with bent head, flapping napkin and flying feet.
 He shot out on to the terrace, did something to the table cloth,
 and shot back again towards the office and the waiters' quarters.
-By the time he had come under the eye of the office clerk and
-the waiters he had become another man in every inch of his body,
+By the [[Time|time]] he had come under the eye of the office clerk and
+the waiters he had become another man in every inch of his [[Body|body]],
 in every instinctive gesture.  He strolled among the servants with
 the absent-minded insolence which they have all seen in their patrons.
 It was no new thing to them that a swell from the dinner party should pace
-all parts of the house like an animal at the Zoo; they know that nothing
+all parts of the [[house]] like an animal at the Zoo; they know that nothing
 marks the Smart Set more than a habit of walking where one chooses.
 When he was magnificently weary of walking down that particular
-passage he would wheel round and pace back past the office;
-in the shadow of the arch just beyond he was altered as by a blast
-of magic, and went hurrying forward again among the Twelve Fishermen,
+passage he would [[Wheel|wheel]] round and pace back past the office;
+in the [[Shadow|shadow]] of the arch just beyond he was altered as by a blast
+of [[Magic|magic]], and went hurrying forward again among the Twelve Fishermen,
 an obsequious attendant.  Why should the gentlemen look at a chance waiter?
 Why should the waiters suspect a first-rate walking gentleman?
 Once or twice he played the coolest tricks.  In the proprietor's
-private quarters he called out breezily for a syphon of soda water,
+private quarters he called out breezily for a syphon of soda [[Water|water]],
 saying he was thirsty.  He said genially that he would carry it himself,
 and he did; he carried it quickly and correctly through the thick
 of you, a waiter with an obvious errand.  Of course, it could not
@@ -113,8 +113,8 @@ then he contrived to lean against the wall just round the corner
 in such a way that for that important instant the waiters thought
 him a gentleman, while the gentlemen thought him a waiter.
 The rest went like winking.  If any waiter caught him away
-from the table, that waiter caught a languid aristocrat.
-He had only to time himself two minutes before the fish was cleared,
+from the table, that waiter caught a languid [[aristocrat]].
+He had only to [[Time|time]] himself two minutes before the fish was cleared,
 become a swift servant, and clear it himself.  He put the plates
 down on a sideboard, stuffed the silver in his breast pocket,
 giving it a bulgy look, and ran like a hare (I heard him coming)
@@ -134,7 +134,7 @@ the story ends."
 understand his professional trick.  But I don't seem to have got
 hold of yours."
 
-"I must be going," said Father Brown.
+"I must be going," said [[Father Brown]].
 
 They walked together along the passage to the entrance hall,
 where they saw the fresh, freckled face of the Duke of Chester,
@@ -142,7 +142,7 @@ who was bounding buoyantly along towards them.
 
 "Come along, Pound," he cried breathlessly.  "I've been looking
 for you everywhere.  The dinner's going again in spanking style,
-and old Audley has got to make a speech in honour of the forks
+and old Audley has got to make a speech in [[Honour|honour]] of the forks
 being saved.  We want to start some new ceremony, don't you know,
 to commemorate the occasion.  I say, you really got the goods back,
 what do you suggest?"
@@ -158,8 +158,8 @@ like a waiter."
 with the same lowering laughter on his face.  "Reverend sir,
 your friend must have been very smart to act the gentleman."
 
-Father Brown buttoned up his commonplace overcoat to the neck,
-for the night was stormy, and took his commonplace umbrella
+[[Father Brown]] buttoned up his commonplace overcoat to the neck,
+for the [[Night|night]] was stormy, and took his commonplace umbrella
 from the stand.
 
 "Yes," he said; "it must be very hard work to be a gentleman;

@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 40 (part 2)"
+title: "[[Great Expectations]] — Chapter 40 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -20,7 +20,7 @@ uncle.”
 
 “That’s it, dear boy! Call me uncle.”
 
-“You assumed some name, I suppose, on board ship?”
+“You assumed some name, I suppose, on board [[Ship|ship]]?”
 
 “Yes, dear boy. I took the name of Provis.”
 
@@ -40,8 +40,8 @@ another.”
 He answered quite seriously, and used the word as if it denoted some
 profession.
 
-“When you came into the Temple last night—” said I, pausing to wonder
-whether that could really have been last night, which seemed so long
+“When you came into the Temple last [[Night|night]]—” said I, pausing to [[Wonder|wonder]]
+whether that could really have been last [[Night|night]], which seemed so long
 ago.
 
 “Yes, dear boy?”
@@ -57,20 +57,20 @@ you any one with you?”
 ways of the place. But I think there _was_ a person, too, come in
 alonger me.”
 
-“Are you known in London?”
+“Are you known in [[London]]?”
 
-“I hope not!” said he, giving his neck a jerk with his forefinger that
+“I [[Hope|hope]] not!” said he, giving his neck a jerk with his forefinger that
 made me turn hot and sick.
 
-“Were you known in London, once?”
+“Were you known in [[London]], once?”
 
 “Not over and above, dear boy. I was in the provinces mostly.”
 
-“Were you—tried—in London?”
+“Were you—tried—in [[London]]?”
 
-“Which time?” said he, with a sharp look.
+“Which [[Time|time]]?” said he, with a sharp look.
 
-“The last time.”
+“The last [[Time|time]].”
 
 He nodded. “First knowed Mr. Jaggers that way. Jaggers was for me.”
 
@@ -98,9 +98,9 @@ As he said so, he got up from table, and putting his hand into the
 breast of the pea-coat he wore, brought out a short black pipe, and a
 handful of loose tobacco of the kind that is called Negro-head. Having
 filled his pipe, he put the surplus tobacco back again, as if his
-pocket were a drawer. Then, he took a live coal from the fire with the
+pocket were a drawer. Then, he took a live coal from the [[Fire|fire]] with the
 tongs, and lighted his pipe at it, and then turned round on the
-hearth-rug with his back to the fire, and went through his favourite
+hearth-rug with his back to the [[Fire|fire]], and went through his favourite
 action of holding out both his hands for mine.
 
 “And this,” said he, dandling my hands up and down in his, as he puffed
@@ -117,8 +117,8 @@ iron grey hair at the sides.
 “I mustn’t see my gentleman a footing it in the mire of the streets;
 there mustn’t be no mud on _his_ boots. My gentleman must have horses,
 Pip! Horses to ride, and horses to drive, and horses for his servant to
-ride and drive as well. Shall colonists have their horses (and blood
-’uns, if you please, good Lord!) and not my London gentleman? No, no.
+ride and drive as [[Well|well]]. Shall colonists have their horses (and [[Blood|blood]]
+’uns, if you please, good Lord!) and not my [[London]] gentleman? No, no.
 We’ll show ’em another pair of shoes than that, Pip; won’t us?”
 
 He took out of his pocket a great thick pocket-book, bursting with
@@ -131,10 +131,10 @@ see my gentleman spend his money _like_ a gentleman. That’ll be _my_
 pleasure. _My_ pleasure ’ull be fur to see him do it. And blast you
 all!” he wound up, looking round the room and snapping his fingers once
 with a loud snap, “blast you every one, from the judge in his wig, to
-the colonist a stirring up the dust, I’ll show a better gentleman than
+the colonist a stirring up the [[Dust|dust]], I’ll show a better gentleman than
 the whole kit on you put together!”
 
-“Stop!” said I, almost in a frenzy of fear and dislike, “I want to
+“Stop!” said I, almost in a frenzy of [[Fear|fear]] and dislike, “I want to
 speak to you. I want to know what is to be done. I want to know how you
 are to be kept out of danger, how long you are going to stay, what
 projects you have.”

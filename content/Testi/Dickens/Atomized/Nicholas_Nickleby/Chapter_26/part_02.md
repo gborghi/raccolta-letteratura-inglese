@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 26 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 26 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -15,11 +15,11 @@ tags:
 
 
 Thus reasoned Sir Mulberry, and in pursuance of this reasoning he
-and his friend soon afterwards repaired to Ralph Nickleby’s, there to
+and his friend soon afterwards repaired to [[Ralph Nickleby]]’s, there to
 execute a plan of operations concerted by Sir Mulberry himself, avowedly
 to promote his friend’s object, and really to attain his own.
 
-They found Ralph at home, and alone. As he led them into the
+They found Ralph at [[Home|home]], and [[Alone|alone]]. As he led them into the
 drawing-room, the recollection of the scene which had taken place there
 seemed to occur to him, for he cast a curious look at Sir Mulberry, who
 bestowed upon it no other acknowledgment than a careless smile.
@@ -27,13 +27,13 @@ bestowed upon it no other acknowledgment than a careless smile.
 They had a short conference upon some money matters then in progress,
 which were scarcely disposed of when the lordly dupe (in pursuance of
 his friend’s instructions) requested with some embarrassment to speak to
-Ralph alone.
+Ralph [[Alone|alone]].
 
-‘Alone, eh?’ cried Sir Mulberry, affecting surprise. ‘Oh, very good.
+‘[[Alone]], eh?’ cried Sir Mulberry, affecting surprise. ‘Oh, very good.
 I’ll walk into the next room here. Don’t keep me long, that’s all.’
 
-So saying, Sir Mulberry took up his hat, and humming a fragment of
-a song disappeared through the door of communication between the two
+So saying, Sir Mulberry took up his hat, and humming a [[Fragment|fragment]] of
+a [[Song|song]] disappeared through the door of communication between the two
 drawing-rooms, and closed it after him.
 
 ‘Now, my lord,’ said Ralph, ‘what is it?’
@@ -57,9 +57,9 @@ been deaf to the sneering tone in which they were spoken, or blind to
 the look of contempt by which they were accompanied. But Lord Frederick
 Verisopht was both, and took them to be complimentary.
 
-‘Well,’ he said, ‘p’raps you’re a little right, and p’raps you’re a
+‘[[Well]],’ he said, ‘p’raps you’re a little right, and p’raps you’re a
 little wrong--a little of both, Nickleby. I want to know where this
-beauty lives, that I may have another peep at her, Nickleby.’
+[[Beauty|beauty]] lives, that I may have another peep at her, Nickleby.’
 
 ‘Really--’ Ralph began in his usual tones.
 
@@ -84,7 +84,7 @@ Only tell me where she lives, Nickleby.’
 Verisopht. ‘Where is it?’
 
 ‘No good can come of your knowing,’ replied Ralph. ‘She has been
-virtuously and well brought up; to be sure she is handsome, poor,
+virtuously and [[Well|well]] brought up; to be sure she is handsome, poor,
 unprotected! Poor girl, poor girl.’
 
 Ralph ran over this brief summary of Kate’s condition as if it were
@@ -94,7 +94,7 @@ delivered it, gave this poor assumption the lie.
 
 ‘I tell you I only want to see her,’ cried his client. ‘A ma-an may look
 at a pretty woman without harm, mayn’t he? Now, where DOES she live?
-You know you’re making a fortune out of me, Nickleby, and upon my soul
+You know you’re making a fortune out of me, Nickleby, and upon my [[Soul|soul]]
 nobody shall ever take me to anybody else, if you only tell me this.’
 
 ‘As you promise that, my lord,’ said Ralph, with feigned reluctance,
@@ -111,14 +111,14 @@ could, doubtless, introduce himself with great ease, if he felt
 disposed.
 
 ‘Your object being only to see her again,’ said Ralph, ‘you could effect
-it at any time you chose by that means.’
+it at any [[Time|time]] you chose by that means.’
 
 Lord Verisopht acknowledged the hint with a great many squeezes of
-Ralph’s hard, horny hand, and whispering that they would now do well to
+Ralph’s hard, horny hand, and whispering that they would now do [[Well|well]] to
 close the conversation, called to Sir Mulberry Hawk that he might come
 back.
 
-‘I thought you had gone to sleep,’ said Sir Mulberry, reappearing with
+‘I thought you had gone to [[Sleep|sleep]],’ said Sir Mulberry, reappearing with
 an ill-tempered air.
 
 ‘Sorry to detain you,’ replied the gull; ‘but Nickleby has been so
@@ -136,9 +136,9 @@ of admiration with which Sir Mulberry Hawk seemed to compliment him on
 being such an accomplished and most consummate scoundrel.
 
 There had been a ring at the bell a few minutes before, which was
-answered by Newman Noggs just as they reached the hall. In the ordinary
+answered by [[Newman Noggs]] just as they reached the hall. In the ordinary
 course of business Newman would have either admitted the new-comer in
-silence, or have requested him or her to stand aside while the gentlemen
+[[Silence|silence]], or have requested him or her to stand aside while the gentlemen
 passed out. But he no sooner saw who it was, than as if for some private
 reason of his own, he boldly departed from the established custom of
 Ralph’s mansion in business hours, and looking towards the respectable

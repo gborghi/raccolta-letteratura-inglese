@@ -1,5 +1,5 @@
 ---
-title: "misc — THE CONSCRIPT AND THE CRISIS"
+title: "[[misc]] — THE CONSCRIPT AND THE CRISIS"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/misc-(Chesterton)"
@@ -17,7 +17,7 @@ tags:
 THE CONSCRIPT AND THE CRISIS
 
 
-Very few of us ever see the history of our own time happening.
+Very few of us ever see the [[history]] of our own [[Time|time]] happening.
 And I think the best service a modern journalist can do to society
 is to record as plainly as ever he can exactly what impression
 was produced on his mind by anything he has actually seen
@@ -36,17 +36,17 @@ was being murdered, we should still like to have the wrong
 side described in the right way.  Upon this principle I,
 who know nothing of diplomacy or military arrangements,
 and have only held my breath like the rest of the world while
-France and Germany were bargaining, will tell quite truthfully
+France and [[Germany]] were bargaining, will tell quite truthfully
 of a small scene I saw, one of the thousand scenes that were,
-so to speak, the anterooms of that inmost chamber of debate.
+so to speak, the anterooms of that inmost chamber of [[debate]].
 
 In the course of a certain morning I came into one of the quiet
-squares of a small French town and found its cathedral.
+squares of a small French town and found its [[Cathedral|cathedral]].
 It was one of those gray and rainy days which rather suit
 the Gothic.  The clouds were leaden, like the solid blue-gray
 lead of the spires and the jewelled windows; the sloping roofs
 and high-shouldered arches looked like cloaks drooping with damp;
-and the stiff gargoyles that stood out round the walls
+and the stiff [[gargoyles]] that stood out round the walls
 were scoured with old rains and new.  I went into the round,
 deep porch with many doors and found two grubby children playing
 there out of the rain.  I also found a notice of services,
@@ -61,7 +61,7 @@ when I entered, not only of all kinds, but in all attitudes,
 kneeling, sitting, or standing about.  And there was that
 general sense that strikes every man from a Protestant country,
 whether he dislikes the Catholic atmosphere or likes it; I mean,
-the general sense that the thing was "going on all the time";
+the general sense that the thing was "going on all the [[Time|time]]";
 that it was not an occasion, but a perpetual process, as if it
 were a sort of mystical inn.
 
@@ -87,7 +87,7 @@ A lad with red hair, large ears, and very careful clothing,
 somehow conveyed across the church that he had always taken
 care of his health, not even from thinking about it, but simply
 because he was told, and that he was one of those who pass
-from childhood to manhood without any shock of being a man.
+from [[Childhood|childhood]] to manhood without any shock of being a man.
 In the row in front of him there was a very slight and vivid
 little Jew, of the sort that is a tailor and a Socialist.  By one
 of those accidents that make real life so unlike anything else,
@@ -101,18 +101,18 @@ and gaped at the arched roof while their mothers were on their
 knees praying their own prayers, and here and there crying.
 The gray clouds of rain outside gathered, I suppose, more and more;
 for the deep church continuously darkened.  The lads in front
-began to sing a military hymn in odd, rather strained voices;
+began to sing a military [[Hymn|hymn]] in odd, rather strained voices;
 I could not disentangle the words, but only one perpetual refrain;
 so that it sounded like
 
   Sacrarterumbrrar pour la patrie,
   Valdarkararump pour la patrie.
 
-Then this ceased; and silence continued, the coloured windows
+Then this ceased; and [[Silence|silence]] continued, the coloured windows
 growing gloomier and gloomier with the clouds.  In the dead
-stillness a child started crying suddenly and incoherently.
-In a city far to the north a French diplomatist and a German
-aristocrat were talking.
+stillness a [[Child|child]] started crying suddenly and incoherently.
+In a [[City|city]] far to the north a French diplomatist and a German
+[[aristocrat]] were talking.
 
 I will not make any commentary on the thing that could blur
 the outline of its almost cruel actuality.  I will not talk nor
@@ -150,26 +150,26 @@ passions that I cannot utter them in an idea, but only in an image.
 It seemed to me that we were barricaded in this church,
 but we could not tell what was happening outside the church.
 The monstrous and terrible jewels of the windows darkened
-or glistened under moving shadow or light, but the nature
+or glistened under moving [[Shadow|shadow]] or light, but the [[Nature|nature]]
 of that light and the shapes of those shadows we did not
 know and hardly dared to guess.  The dream began, I think,
 with a dim fancy that enemies were already in the town, and that
 the enormous oaken doors were groaning under their hammers.
 Then I seemed to suppose that the town itself had been destroyed
-by fire, and effaced, as it may be thousands of years hence,
+by [[Fire|fire]], and effaced, as it may be thousands of years hence,
 and that if I opened the door I should come out on a wilderness
 as flat and sterile as the sea.  Then the vision behind
 the veil of stone and slate grew wilder with earthquakes.
 I seemed to see chasms cloven to the foundations of all things,
-and letting up an infernal dawn.  Huge things happily hidden
+and letting up an infernal [[Dawn|dawn]].  Huge things happily hidden
 from us had climbed out of the abyss, and were striding about
 taller than the clouds.  And when the darkness crept from
 the sapphires of Mary to the sanguine garments of St. John I
 fancied that some hideous giant was walking round the church
-and looking in at each window in turn.
+and looking in at each [[Window|window]] in turn.
 
 Sometimes, again, I thought of that church with coloured windows
-as a ship carrying many lanterns struggling in a high sea at night.
+as a [[Ship|ship]] carrying many lanterns struggling in a high sea at [[Night|night]].
 Sometimes I thought of it as a great coloured lantern itself,
 hung on an iron chain out of heaven and tossed and swung to
 and fro by strong wings, the wings of the princes of the air.

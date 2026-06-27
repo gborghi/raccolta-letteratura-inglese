@@ -29,8 +29,8 @@ is that after one has met a man a million times in the newspapers it
 is always a complete shock and reversal to meet him in real life.
 The Yellow Pressman seems to have no power of catching the first
 fresh fact about a man that dominates all after impressions.
-For instance, before I met Bernard Shaw I heard that he spoke with
-a reckless desire for paradox or a sneering hatred of sentiment;
+For instance, before I met Bernard [[Shaw]] I heard that he spoke with
+a reckless [[Desire|desire]] for [[Paradox|paradox]] or a sneering hatred of sentiment;
 but I never knew till he opened his mouth that he spoke with
 an Irish accent, which is more important than all the other
 criticisms put together.
@@ -47,10 +47,10 @@ Napoleon of Marengo must have found themselves in the presence
 of the fat Napoleon of Leipzic.
 
 I remember reading a newspaper account of how a certain rising politician
-confronted the House of Lords with the enthusiasm almost of boyhood.
+confronted the [[house|House]] of Lords with the enthusiasm almost of boyhood.
 It described how his "brave young voice" rang in the rafters.
 I also remember that I met him some days after, and he was considerably
-older than my own father.  I mention this truth for only one purpose:
+older than my own father.  I mention this [[Truth|truth]] for only one purpose:
 all this generalisation leads up to only one fact--the fact that I once
 met a great man who was younger than I expected.
 
@@ -61,24 +61,24 @@ a stumbling path between trees towards the valley in which Dorking lies.
 A warm sunlight was working its way through the leafage; a sunlight
 which though of saintless gold had taken on the quality of evening.
 It was such sunlight as reminds a man that the sun begins to set
-an instant after noon.  It seemed to lessen as the wood strengthened
-and the road sank.
+an instant after [[Noon|noon]].  It seemed to lessen as the wood strengthened
+and the [[Road|road]] sank.
 
 I had a sensation peculiar to such entangled descents;
 I felt that the treetops that closed above me were the fixed
 and real things, certain as the level of the sea; but that
 the solid earth was every instant failing under my feet.
 In a little while that splendid sunlight showed only in splashes,
-like flaming stars and suns in the dome of green sky.
+like flaming [[Stars|stars]] and suns in the dome of green sky.
 Around me in that emerald twilight were trunks of trees of every
 plain or twisted type; it was like a chapel supported on columns
 of every earthly and unearthly style of architecture.
 
-Without intention my mind grew full of fancies on the nature
-of the forest; on the whole philosophy of mystery and force.
+Without intention my mind grew full of fancies on the [[Nature|nature]]
+of the forest; on the whole [[philosophy]] of mystery and force.
 For the meaning of woods is the combination of energy with complexity.
 A forest is not in the least rude or barbarous; it is only dense
-with delicacy.  Unique shapes that an artist would copy or a
+with delicacy.  Unique shapes that an [[artist]] would copy or a
 philosopher watch for years if he found them in an open plain are
 here mingled and confounded; but it is not a darkness of deformity.
 It is a darkness of life; a darkness of perfection.  And I began
@@ -91,32 +91,32 @@ it is only the live tree that grows too many branches.
 . . . . .
 
 These trees thinned and fell away from each other,
-and I came out into deep grass and a road.  I remember
+and I came out into deep grass and a [[Road|road]].  I remember
 being surprised that the evening was so far advanced;
 I had a fancy that this valley had a sunset all to itself.
-I went along that road according to directions that had
+I went along that [[Road|road]] according to directions that had
 been given me, and passed the gateway in a slight paling
-beyond which the wood changed only faintly to a garden.
+beyond which the wood changed only faintly to a [[Garden|garden]].
 It was as if the curious courtesy and fineness of that character
 I was to meet went out from him upon the valley; for I felt
 on all these things the finger of that quality which the old
 English called "faërie"; it is the quality which those can
 never understand who think of the past as merely brutal;
 it is an ancient elegance such as there is in trees.
-I went through the garden and saw an old man sitting by a table,
+I went through the [[Garden|garden]] and saw an old man sitting by a table,
 looking smallish in his big chair.  He was already an invalid,
-and his hair and beard were both white; not like snow, for snow
+and his hair and beard were both white; not like [[Snow|snow]], for [[Snow|snow]]
 is cold and heavy, but like something feathery, or even fierce;
 rather they were white like the white thistledown.  I came up
 quite close to him; he looked at me as he put out his frail hand,
 and I saw of a sudden that his eyes were startlingly young.
 He was the one great man of the old world whom I have met
-who was not a mere statue over his own grave.
+who was not a mere statue over his own [[Grave|grave]].
 
 He was deaf and he talked like a torrent.  He did not talk about
 the books he had written; he was far too much alive for that.
 He talked about the books he had not written.  He unrolled
-a purple bundle of romances which he had never had time to sell.
+a purple bundle of romances which he had never had [[Time|time]] to sell.
 He asked me to write one of the stories for him, as he would
 have asked the milkman, if he had been talking to the milkman.
 It was a splendid and frantic story, a sort of astronomical farce.
@@ -127,13 +127,13 @@ up at every other minute by his own weakness and vanities;
 how he lost a train by trifling or was put in gaol for brawling.
 That is only one of them; there were ten or twenty more.
 Another, I dimly remember, was a version of the fall of Parnell;
-the idea that a quite honest man might be secret from a pure love
-of secrecy, of solitary self-control. I went out of that garden with a
+the idea that a quite honest man might be secret from a pure [[Love|love]]
+of secrecy, of solitary [[Self|self]]-control. I went out of that [[Garden|garden]] with a
 blurred sensation of the million possibilities of creative literature.
 The feeling increased as my way fell back into the wood; for a wood
-is a palace with a million corridors that cross each other everywhere.
+is a palace with a million corridors that [[Cross|cross]] each other everywhere.
 I really had the feeling that I had seen the creative quality;
-which is supernatural.  I had seen what Virgil calls the Old Man
+which is [[Supernatural|supernatural]].  I had seen what Virgil calls the Old Man
 of the Forest:  I had seen an elf.  The trees thronged behind my path;
 I have never seen him again; and now I shall not see him,
 because he died last Tuesday.

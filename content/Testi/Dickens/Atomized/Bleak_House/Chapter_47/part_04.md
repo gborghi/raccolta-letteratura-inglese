@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 47 (part 4)"
+title: "Bleak [[house|House]] — Chapter 47 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -17,11 +17,11 @@ tags:
 Jo and his conductor presently return, and Jo is assisted to his
 mattress by the careful Phil, to whom, after due administration of
 medicine by his own hands, Allan confides all needful means and
-instructions. The morning is by this time getting on apace. He
+instructions. The morning is by this [[Time|time]] getting on apace. He
 repairs to his lodgings to dress and breakfast, and then, without
 seeking rest, goes away to Mr. Jarndyce to communicate his discovery.
 
-With him Mr. Jarndyce returns alone, confidentially telling him that
+With him Mr. Jarndyce returns [[Alone|alone]], confidentially telling him that
 there are reasons for keeping this matter very quiet indeed and
 showing a serious interest in it. To Mr. Jarndyce, Jo repeats in
 substance what he said in the morning, without any material
@@ -29,7 +29,7 @@ variation. Only that cart of his is heavier to draw, and draws with a
 hollower sound.
 
 “Let me lay here quiet and not be chivied no more,” falters Jo, “and
-be so kind any person as is a-passin nigh where I used fur to sleep,
+be so kind any person as is a-passin nigh where I used fur to [[Sleep|sleep]],
 as jist to say to Mr. Sangsby that Jo, wot he known once, is a-moving
 on right forards with his duty, and I’ll be wery thankful. I’d be
 more thankful than I am aready if it wos any ways possible for an
@@ -37,15 +37,15 @@ unfortnet to be it.”
 
 He makes so many of these references to the law-stationer in the
 course of a day or two that Allan, after conferring with Mr.
-Jarndyce, good-naturedly resolves to call in Cook’s Court, the
+Jarndyce, good-naturedly resolves to call in Cook’s [[Court]], the
 rather, as the cart seems to be breaking down.
 
-To Cook’s Court, therefore, he repairs. Mr. Snagsby is behind his
+To Cook’s [[Court]], therefore, he repairs. Mr. Snagsby is behind his
 counter in his grey coat and sleeves, inspecting an indenture of
 several skins which has just come in from the engrosser’s, an immense
-desert of law-hand and parchment, with here and there a resting-place
+[[Desert|desert]] of law-hand and parchment, with here and there a resting-place
 of a few large letters to break the awful monotony and save the
-traveller from despair. Mr Snagsby puts up at one of these inky wells
+traveller from [[Despair|despair]]. Mr Snagsby puts up at one of these inky wells
 and greets the stranger with his cough of general preparation for
 business.
 
@@ -62,20 +62,20 @@ once—”
 “It’s come at last!” thinks the afflicted stationer, as recollection
 breaks upon him. “It’s got to a head now and is going to burst!” But
 he has sufficient presence of mind to conduct his visitor into the
-little counting-house and to shut the door.
+little counting-[[house]] and to shut the door.
 
 “Are you a married man, sir?”
 
 “No, I am not.”
 
 “Would you make the attempt, though single,” says Mr. Snagsby in a
-melancholy whisper, “to speak as low as you can? For my little woman
+[[Melancholy|melancholy]] whisper, “to speak as low as you can? For my little woman
 is a-listening somewheres, or I’ll forfeit the business and five
 hundred pound!”
 
 In deep dejection Mr. Snagsby sits down on his stool, with his back
 against his desk, protesting, “I never had a secret of my own, sir. I
-can’t charge my memory with ever having once attempted to deceive my
+can’t charge my [[Memory|memory]] with ever having once attempted to deceive my
 little woman on my own account since she named the day. I wouldn’t
 have done it, sir. Not to put too fine a point upon it, I couldn’t
 have done it, I dursn’t have done it. Whereas, and nevertheless, I
@@ -98,7 +98,7 @@ are a single person, sir, and may you long be spared to ask a married
 person such a question!”
 
 With this beneficent wish, Mr. Snagsby coughs a cough of dismal
-resignation and submits himself to hear what the visitor has to
+[[Resignation|resignation]] and submits himself to hear what the visitor has to
 communicate.
 
 “There again!” says Mr. Snagsby, who, between the earnestness of his
@@ -120,10 +120,10 @@ evening comes, but it may turn out that Mrs. Snagsby is as quiet a
 manager as he.
 
 Jo is very glad to see his old friend and says, when they are left
-alone, that he takes it uncommon kind as Mr. Sangsby should come so
+[[Alone|alone]], that he takes it uncommon kind as Mr. Sangsby should come so
 far out of his way on accounts of sich as him. Mr. Snagsby, touched
 by the spectacle before him, immediately lays upon the table half a
-crown, that magic balsam of his for all kinds of wounds.
+[[Crown|crown]], that [[Magic|magic]] balsam of his for all kinds of wounds.
 
 “And how do you find yourself, my poor lad?” inquires the stationer
 with his cough of sympathy.
@@ -132,7 +132,7 @@ with his cough of sympathy.
 nothink. I’m more cumfbler nor you can’t think. Mr. Sangsby! I’m wery
 sorry that I done it, but I didn’t go fur to do it, sir.”
 
-The stationer softly lays down another half-crown and asks him what
+The stationer softly lays down another half-[[Crown|crown]] and asks him what
 it is that he is sorry for having done.
 
 “Mr. Sangsby,” says Jo, “I went and giv a illness to the lady as wos
@@ -143,7 +143,7 @@ yesday, and she ses, ‘Ah, Jo!’ she ses. ‘We thought we’d lost you,
 Jo!’ she ses. And she sits down a-smilin so quiet, and don’t pass a
 word nor yit a look upon me for having done it, she don’t, and I
 turns agin the wall, I doos, Mr. Sangsby. And Mr. Jarnders, I see him
-a-forced to turn away his own self. And Mr. Woodcot, he come fur to
+a-forced to turn away his own [[Self|self]]. And Mr. Woodcot, he come fur to
 giv me somethink fur to ease me, wot he’s allus a-doin’ on day and
-night, and wen he come a-bending over me and a-speakin up so bold, I
-see his tears a-fallin, Mr. Sangsby.”
+[[Night|night]], and wen he come a-bending over me and a-speakin up so bold, I
+see his [[Tears|tears]] a-fallin, Mr. Sangsby.”

@@ -32,9 +32,9 @@ the ridge triumphantly and Browning often does not--
 
     Whence a look shot out sharp after thieves
 
-    From the eyes of the garden-god at you
+    From the eyes of the [[Garden|garden]]-god at you
 
-    Across the fig-leaves."
+    Across the fig-[[Leaves|leaves]]."
 
 
 
@@ -66,7 +66,7 @@ on the intellectual. In the section of the painters, it was the allies
 
 or pupils of Ruskin, pious, almost painfully exact, and copying mediæval
 
-details rather for their truth than their beauty. In the section of the
+details rather for their [[Truth|truth]] than their [[Beauty|beauty]]. In the section of the
 
 poets it was pretty loose, Swinburne being the leader of the revels. But
 
@@ -78,17 +78,17 @@ literal sense true that the name of Rossetti is important here, for the
 
 name implies the nationality. I have loosely called Carlyle and the
 
-Brontës the romance from the North; the nearest to a general definition
+Brontës the [[Romance|romance]] from the North; the nearest to a general definition
 
-of the Æsthetic movement is to call it the romance from the South. It is
+of the Æsthetic movement is to call it the [[Romance|romance]] from the South. It is
 
-that warm wind that had never blown so strong since Chaucer, standing in
+that warm [[Wind|wind]] that had never blown so strong since Chaucer, standing in
 
-his cold English April, had smelt the spring in Provence. The Englishman
+his cold English April, had smelt the [[spring]] in Provence. The Englishman
 
 has always found it easier to get inspiration from the Italians than
 
-from the French; they call to each other across that unconquered castle
+from the French; they call to each other across that unconquered [[Castle|castle]]
 
 of reason. Browning's _Englishman in Italy_, Browning's _Italian in
 
@@ -96,7 +96,7 @@ England_, were both happier than either would have been in France.
 
 Rossetti was the Italian in England, as Browning was the Englishman in
 
-Italy; and the first broad fact about the artistic revolution Rossetti
+[[Italy]]; and the first broad fact about the artistic revolution Rossetti
 
 wrought is written when we have written his name. But if the South lets
 
@@ -120,15 +120,15 @@ in any art; if he had he would probably never have been heard of. It was
 
 his happy knack of half failing in both the arts that has made him a
 
-success. If he had been as good a poet as Tennyson, he would have been a
+[[success]]. If he had been as good a poet as Tennyson, he would have been a
 
 poet who painted pictures. If he had been as good a painter as
 
-Burne-Jones, he would have been a painter who wrote poems. It is odd to
+Burne-[[Jones]], he would have been a painter who wrote [[Poems|poems]]. It is odd to
 
 note on the very threshold of the extreme art movement that this great
 
-artist largely succeeded by not defining his art. His poems were too
+[[artist]] largely succeeded by not defining his art. His [[Poems|poems]] were too
 
 pictorial. His pictures were too poetical. That is why they really
 
@@ -144,7 +144,7 @@ other, in reviving the decorative instinct of the Middle Ages. While
 
 Ruskin, in letters only, praised that decoration Rossetti and his
 
-friends repeated it. They almost made patterns of their poems. That
+friends repeated it. They almost made patterns of their [[Poems|poems]]. That
 
 frequent return of the refrain which was foolishly discussed by
 
@@ -152,15 +152,15 @@ Professor Nordau was, in Rossetti's case, of such sadness as sometimes
 
 to amount to sameness. The criticism on him, from a mediæval point of
 
-view, is not that he insisted on a chorus, but that he could not insist
+view, is not that he insisted on a [[Chorus|chorus]], but that he could not insist
 
-on a jolly chorus. Many of his poems were truly mediæval, but they would
+on a jolly [[Chorus|chorus]]. Many of his [[Poems|poems]] were truly mediæval, but they would
 
 have been even more mediæval if he could ever have written such a
 
 refrain as "Tally Ho!" or even "Tooral-ooral" instead of "Tall Troy's on
 
-fire." With Rossetti goes, of course, his sister, a real poet, though
+[[Fire|fire]]." With Rossetti goes, of course, his sister, a real poet, though
 
 she also illustrated that Pre-Raphaelite's conflict of views that
 
@@ -180,13 +180,13 @@ One poet, or, to speak more strictly, one poem, belongs to the same
 
 general atmosphere and impulse as Swinburne; the free but languid
 
-atmosphere of later Victorian art. But this time the wind blew from
+atmosphere of later Victorian art. But this [[Time|time]] the [[Wind|wind]] blew from
 
-hotter and heavier gardens than the gardens of Italy. Edward
+hotter and heavier gardens than the gardens of [[Italy]]. Edward
 
 Fitzgerald, a cultured eccentric, a friend of Tennyson, produced what
 
-professed to be a translation of the Persian poet Omar, who wrote
+professed to be a [[Translation|translation]] of the Persian poet Omar, who wrote
 
 quatrains about wine and roses and things in general. Whether the
 
@@ -196,10 +196,10 @@ version I must not discuss here, and could not discuss anywhere. But it
 
 is quite clear that Fitzgerald's work is much too good to be a good
 
-translation. It is as personal and creative a thing as ever was written;
+[[Translation|translation]]. It is as personal and creative a thing as ever was written;
 
 and the best expression of a bad mood, a mood that may, for all I know,
 
-be permanent in Persia, but was certainly at this time particularly
+be permanent in Persia, but was certainly at this [[Time|time]] particularly
 
 fashionable in England. In the technical sense of literature it is one

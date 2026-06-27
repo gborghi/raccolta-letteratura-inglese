@@ -18,9 +18,9 @@ CHAPTER 23. Machinery in Motion
 
 
 Mr Meagles bestirred himself with such prompt activity in the matter of
-the negotiation with Daniel Doyce which Clennam had entrusted to him,
+the negotiation with [[Daniel Doyce]] which Clennam had entrusted to him,
 that he soon brought it into business train, and called on Clennam at
-nine o’clock one morning to make his report.
+nine o’[[Clock|clock]] one morning to make his report.
 
 ‘Doyce is highly gratified by your good opinion,’ he opened the business
 by saying, ‘and desires nothing so much as that you should examine the
@@ -31,11 +31,11 @@ have the means of putting himself on a perfect equality with me as to
 knowing whatever I know. If it should come to nothing after all, he
 will respect my confidence. Unless I was sure of that to begin with, I
 should have nothing to do with him.” And there, you see,’ said Mr
-Meagles, ‘you have Daniel Doyce all over.’
+Meagles, ‘you have [[Daniel Doyce]] all over.’
 
 ‘A very honourable character.’
 
-‘Oh, yes, to be sure. Not a doubt of it. Odd, but very honourable. Very
+‘Oh, yes, to be sure. Not a [[Doubt|doubt]] of it. Odd, but very honourable. Very
 odd though. Now, would you believe, Clennam,’ said Mr Meagles, with
 a hearty enjoyment of his friend’s eccentricity, ‘that I had a whole
 morning in What’s-his-name Yard--’
@@ -59,7 +59,7 @@ Clennam,’ said Mr Meagles, laughing within himself, ‘but it came out
 that it would never do, because you and he, walking down to Twickenham
 together, had glided into a friendly conversation in the course of which
 he had referred to his intention of taking a partner, supposing at the
-time that you were as firmly and finally settled as St Paul’s Cathedral.
+[[Time|time]] that you were as firmly and finally settled as St Paul’s [[Cathedral]].
 “Whereas,” says he, “Mr Clennam might now believe, if I entertained his
 proposition, that I had a sinister and designing motive in what was open
 free speech. Which I can’t bear,” says he, “which I really am too proud
@@ -68,15 +68,15 @@ to bear.”’
 ‘I should as soon suspect--’
 
 ‘Of course you would,’ interrupted Mr Meagles, ‘and so I told him. But
-it took a morning to scale that wall; and I doubt if any other man
-than myself (he likes me of old) could have got his leg over it. Well,
+it took a morning to scale that wall; and I [[Doubt|doubt]] if any other man
+than myself (he likes me of old) could have got his leg over it. [[Well]],
 Clennam. This business-like obstacle surmounted, he then stipulated that
 before resuming with you I should look over the books and form my own
 opinion. I looked over the books, and formed my own opinion. “Is it, on
 the whole, for, or against?” says he. “For,” says I. “Then,” says he,
 “you may now, my good friend, give Mr Clennam the means of forming
 his opinion. To enable him to do which, without bias and with perfect
-freedom, I shall go out of town for a week.” And he’s gone,’ said Mr
+[[Freedom|freedom]], I shall go out of town for a week.” And he’s gone,’ said Mr
 Meagles; ‘that’s the rich conclusion of the thing.’
 
 ‘Leaving me,’ said Clennam, ‘with a high sense, I must say, of his
@@ -95,7 +95,7 @@ They began their perquisitions in Bleeding Heart Yard that same
 forenoon. Little peculiarities were easily to be detected by experienced
 eyes in Mr Doyce’s way of managing his affairs, but they almost always
 involved some ingenious simplification of a difficulty, and some plain
-road to the desired end. That his papers were in arrear, and that he
+[[Road|road]] to the desired end. That his papers were in arrear, and that he
 stood in need of assistance to develop the capacity of his business, was
 clear enough; but all the results of his undertakings during many years
 were distinctly set forth, and were ascertainable with ease. Nothing had
@@ -103,18 +103,18 @@ been done for the purposes of the pending investigation; everything was
 in its genuine working dress, and in a certain honest rugged order. The
 calculations and entries, in his own hand, of which there were many,
 were bluntly written, and with no very neat precision; but were always
-plain and directed straight to the purpose. It occurred to Arthur that
+plain and directed straight to the purpose. It occurred to [[arthur|Arthur]] that
 a far more elaborate and taking show of business--such as the records of
 the Circumlocution Office made perhaps--might be far less serviceable,
 as being meant to be far less intelligible.
 
 Three or four days of steady application tendered him master of all the
 facts it was essential to become acquainted with. Mr Meagles was at hand
-the whole time, always ready to illuminate any dim place with the bright
+the whole [[Time|time]], always ready to illuminate any dim place with the bright
 little safety-lamp belonging to the scales and scoop. Between them they
 agreed upon the sum it would be fair to offer for the purchase of a
 half-share in the business, and then Mr Meagles unsealed a paper in
-which Daniel Doyce had noted the amount at which he valued it; which was
+which [[Daniel Doyce]] had noted the amount at which he valued it; which was
 even something less. Thus, when Daniel came back, he found the affair as
 good as concluded.
 
@@ -124,7 +124,7 @@ could not have found one more to my mind.’
 
 ‘I say the same,’ said Clennam.
 
-‘And I say of both of you,’ added Mr Meagles, ‘that you are well
+‘And I say of both of you,’ added Mr Meagles, ‘that you are [[Well|well]]
 matched. You keep him in check, Clennam, with your common sense, and you
 stick to the Works, Dan, with your--’
 
@@ -134,7 +134,7 @@ stick to the Works, Dan, with your--’
 to the other. Here’s my own right hand upon it, as a practical man, to
 both of you.’
 
-The purchase was completed within a month. It left Arthur in possession
+The purchase was completed within a month. It left [[arthur|Arthur]] in possession
 of private personal means not exceeding a few hundred pounds; but it
 opened to him an active and promising career. The three friends dined
 together on the auspicious occasion; the factory and the factory wives
@@ -142,21 +142,21 @@ and children made holiday and dined too; even Bleeding Heart Yard
 dined and was full of meat. Two months had barely gone by in all, when
 Bleeding Heart Yard had become so familiar with short-commons again,
 that the treat was forgotten there; when nothing seemed new in the
-partnership but the paint of the inscription on the door-posts, DOYCE
+partnership but the paint of the [[Inscription|inscription]] on the door-posts, DOYCE
 AND CLENNAM; when it appeared even to Clennam himself, that he had had
 the affairs of the firm in his mind for years.
 
-The little counting-house reserved for his own occupation, was a room of
+The little counting-[[house]] reserved for his own occupation, was a room of
 wood and glass at the end of a long low workshop, filled with benches,
 and vices, and tools, and straps, and wheels; which, when they were
 in gear with the steam-engine, went tearing round as though they had a
-suicidal mission to grind the business to dust and tear the factory to
+suicidal mission to grind the business to [[Dust|dust]] and tear the factory to
 pieces. A communication of great trap-doors in the floor and roof with
 the workshop above and the workshop below, made a shaft of light in
-this perspective, which brought to Clennam’s mind the child’s old
+this perspective, which brought to Clennam’s mind the [[Child|child]]’s old
 picture-book, where similar rays were the witnesses of Abel’s
 murder. The noises were sufficiently removed and shut out from the
-counting-house to blend into a busy hum, interspersed with periodical
+counting-[[house]] to blend into a busy hum, interspersed with periodical
 clinks and thumps. The patient figures at work were swarthy with the
 filings of iron and steel that danced on every bench and bubbled up
 through every chink in the planking. The workshop was arrived at by a
@@ -175,14 +175,14 @@ who seemed to have propelled her legacy up the steep ascent with
 considerable difficulty.
 
 Though not altogether enraptured at the sight of these visitors, Clennam
-lost no time in opening the counting-house door, and extricating them
+lost no [[Time|time]] in opening the counting-[[house]] door, and extricating them
 from the workshop; a rescue which was rendered the more necessary by Mr
 F.’s Aunt already stumbling over some impediment, and menacing steam
 power as an Institution with a stony reticule she carried.
 
-‘Good gracious, Arthur,--I should say Mr Clennam, far more proper--the
+‘Good gracious, [[arthur|Arthur]],--I should say Mr Clennam, far more proper--the
 climb we have had to get up here and how ever to get down again without
-a fire-escape and Mr F.’s Aunt slipping through the steps and bruised
+a [[Fire|fire]]-escape and Mr F.’s Aunt slipping through the steps and bruised
 all over and you in the machinery and foundry way too only think, and
 never told us!’
 
@@ -191,18 +191,18 @@ insteps with her umbrella, and vindictively glared.
 
 ‘Most unkind never to have come back to see us since that day, though
 naturally it was not to be expected that there should be any attraction
-at _our_ house and you were much more pleasantly engaged, that’s pretty
-certain, and is she fair or dark blue eyes or black I wonder, not that
+at _our_ [[house]] and you were much more pleasantly engaged, that’s pretty
+certain, and is she fair or dark blue eyes or black I [[Wonder|wonder]], not that
 I expect that she should be anything but a perfect contrast to me in all
-particulars for I am a disappointment as I very well know and you are
-quite right to be devoted no doubt though what I am saying Arthur never
+particulars for I am a disappointment as I very [[Well|well]] know and you are
+quite right to be devoted no [[Doubt|doubt]] though what I am saying [[arthur|Arthur]] never
 mind I hardly know myself Good gracious!’
 
-By this time he had placed chairs for them in the counting-house. As
+By this [[Time|time]] he had placed chairs for them in the counting-[[house]]. As
 Flora dropped into hers, she bestowed the old look upon him.
 
 ‘And to think of Doyce and Clennam, and who Doyce can be,’ said Flora;
-‘delightful man no doubt and married perhaps or perhaps a daughter, now
+‘delightful man no [[Doubt|doubt]] and married perhaps or perhaps a daughter, now
 has he really? then one understands the partnership and sees it all,
 don’t tell me anything about it for I know I have no claim to ask the
 question the golden chain that once was forged being snapped and very
@@ -211,7 +211,7 @@ proper.’
 Flora put her hand tenderly on his, and gave him another of the youthful
 glances.
 
-‘Dear Arthur--force of habit, Mr Clennam every way more delicate and
+‘Dear [[arthur|Arthur]]--force of habit, Mr Clennam every way more delicate and
 adapted to existing circumstances--I must beg to be excused for taking
 the liberty of this intrusion but I thought I might so far presume upon
 old times for ever faded never more to bloom as to call with Mr F.’s
@@ -222,12 +222,12 @@ China not to be denied and much nearer though higher up!’
 very much for your kind remembrance.’
 
 ‘More than I can say myself at any rate,’ returned Flora, ‘for I might
-have been dead and buried twenty distinct times over and no doubt
+have been dead and buried twenty distinct times over and no [[Doubt|doubt]]
 whatever should have been before you had genuinely remembered Me or
 anything like it in spite of which one last remark I wish to make, one
 last explanation I wish to offer--’
 
-‘My dear Mrs Finching,’ Arthur remonstrated in alarm.
+‘My dear Mrs Finching,’ [[arthur|Arthur]] remonstrated in alarm.
 
 ‘Oh not that disagreeable name, say Flora!’
 
@@ -238,16 +238,16 @@ perfectly satisfied.’
 A diversion was occasioned here, by Mr F.’s Aunt making the following
 inexorable and awful statement:
 
-‘There’s mile-stones on the Dover road!’
+‘There’s mile-stones on the Dover [[Road|road]]!’
 
 With such mortal hostility towards the human race did she discharge this
 missile, that Clennam was quite at a loss how to defend himself; the
-rather as he had been already perplexed in his mind by the honour of a
+rather as he had been already perplexed in his mind by the [[Honour|honour]] of a
 visit from this venerable lady, when it was plain she held him in the
 utmost abhorrence. He could not but look at her with disconcertment, as
 she sat breathing bitterness and scorn, and staring leagues away. Flora,
 however, received the remark as if it had been of a most apposite and
-agreeable nature; approvingly observing aloud that Mr F.’s Aunt had a
+agreeable [[Nature|nature]]; approvingly observing aloud that Mr F.’s Aunt had a
 great deal of spirit. Stimulated either by this compliment, or by her
 burning indignation, that illustrious woman then added, ‘Let him meet
 it if he can!’ And, with a rigid movement of her stony reticule (an
@@ -263,19 +263,19 @@ slippers always on the mat at ten minutes before six in the afternoon
 and his boots inside the fender at ten minutes before eight in the
 morning to the moment in all weathers light or dark--would not therefore
 have intruded without a motive which being kindly meant it may be hoped
-will be kindly taken Arthur, Mr Clennam far more proper, even Doyce and
+will be kindly taken [[arthur|Arthur]], Mr Clennam far more proper, even Doyce and
 Clennam probably more business-like.’
 
-‘Pray say nothing in the way of apology,’ Arthur entreated. ‘You are
+‘Pray say nothing in the way of apology,’ [[arthur|Arthur]] entreated. ‘You are
 always welcome.’
 
-‘Very polite of you to say so Arthur--cannot remember Mr Clennam until
+‘Very polite of you to say so [[arthur|Arthur]]--cannot remember Mr Clennam until
 the word is out, such is the habit of times for ever fled, and so true
-it is that oft in the stilly night ere slumber’s chain has bound people,
-fond memory brings the light of other days around people--very polite
+it is that oft in the stilly [[Night|night]] ere slumber’s chain has bound people,
+fond [[Memory|memory]] brings the light of other days around people--very polite
 but more polite than true I am afraid, for to go into the machinery
 business without so much as sending a line or a card to papa--I don’t
-say me though there was a time but that is past and stern reality has
+say me though there was a [[Time|time]] but that is past and stern reality has
 now my gracious never mind--does not look like it you must confess.’
 
 Even Flora’s commas seemed to have fled on this occasion; she was so
@@ -284,13 +284,13 @@ much more disjointed and voluble than in the preceding interview.
 ‘Though indeed,’ she hurried on, ‘nothing else is to be expected and why
 should it be expected and if it’s not to be expected why should it be,
 and I am far from blaming you or any one, When your mama and my papa
-worried us to death and severed the golden bowl--I mean bond but I dare
+worried us to [[Death|death]] and severed the golden bowl--I mean bond but I dare
 say you know what I mean and if you don’t you don’t lose much and care
 just as little I will venture to add--when they severed the golden bond
 that bound us and threw us into fits of crying on the sofa nearly choked
 at least myself everything was changed and in giving my hand to Mr F. I
 know I did so with my eyes open but he was so very unsettled and in such
-low spirits that he had distractedly alluded to the river if not oil of
+low spirits that he had distractedly alluded to the [[River|river]] if not oil of
 something from the chemist’s and I did it for the best.’
 
 ‘My good Flora, we settled that before. It was all quite right.’
@@ -304,7 +304,7 @@ one word about it I am satisfied.’
 
 ‘No, no, don’t say that.’
 
-‘What nonsense not to say it Arthur--Doyce and Clennam--easier and less
+‘What nonsense not to say it [[arthur|Arthur]]--Doyce and Clennam--easier and less
 trying to me than Mr Clennam--when I know it and you know it too and
 can’t deny it.’
 
@@ -317,10 +317,10 @@ before that--happened to mention her name to me and to say that you were
 interested in her I said at the moment Good gracious why not have her
 here then when there’s anything to do instead of putting it out.’
 
-‘When you say Her,’ observed Clennam, by this time pretty well
+‘When you say Her,’ observed Clennam, by this [[Time|time]] pretty [[Well|well]]
 bewildered, ‘do you mean Mr F.’s--’
 
-‘My goodness, Arthur--Doyce and Clennam really easier to me with old
+‘My goodness, [[arthur|Arthur]]--Doyce and Clennam really easier to me with old
 remembrances--who ever heard of Mr F.’s Aunt doing needlework and going
 out by the day?’
 
@@ -329,33 +329,33 @@ out by the day?’
 ‘Why yes of course,’ returned Flora; ‘and of all the strangest names I
 ever heard the strangest, like a place down in the country with a
 turnpike, or a favourite pony or a puppy or a bird or something from a
-seed-shop to be put in a garden or a flower-pot and come up speckled.’
+seed-shop to be put in a [[Garden|garden]] or a flower-pot and come up speckled.’
 
-‘Then, Flora,’ said Arthur, with a sudden interest in the conversation,
+‘Then, Flora,’ said [[arthur|Arthur]], with a sudden interest in the conversation,
 ‘Mr Casby was so kind as to mention Little Dorrit to you, was he? What
 did he say?’
 
 ‘Oh you know what papa is,’ rejoined Flora, ‘and how aggravatingly he
 sits looking beautiful and turning his thumbs over and over one another
 till he makes one giddy if one keeps one’s eyes upon him, he said when
-we were talking of you--I don’t know who began the subject Arthur (Doyce
-and Clennam) but I am sure it wasn’t me, at least I hope not but you
+we were talking of you--I don’t know who began the subject [[arthur|Arthur]] (Doyce
+and Clennam) but I am sure it wasn’t me, at least I [[Hope|hope]] not but you
 really must excuse my confessing more on that point.’
 
-‘Certainly,’ said Arthur. ‘By all means.’
+‘Certainly,’ said [[arthur|Arthur]]. ‘By all means.’
 
 ‘You are very ready,’ pouted Flora, coming to a sudden stop in a
 captivating bashfulness, ‘that I must admit, Papa said you had spoken of
 her in an earnest way and I said what I have told you and that’s all.’
 
-‘That’s all?’ said Arthur, a little disappointed.
+‘That’s all?’ said [[arthur|Arthur]], a little disappointed.
 
 ‘Except that when Pancks told us of your having embarked in this
 business and with difficulty persuaded us that it was really you I said
 to Mr F.’s Aunt then we would come and ask you if it would be agreeable
-to all parties that she should be engaged at our house when required
+to all parties that she should be engaged at our [[house]] when required
 for I know she often goes to your mama’s and I know that your mama has
-a very touchy temper Arthur--Doyce and Clennam--or I never might have
+a very touchy temper [[arthur|Arthur]]--Doyce and Clennam--or I never might have
 married Mr F. and might have been at this hour but I am running into
 nonsense.’
 
@@ -364,7 +364,7 @@ nonsense.’
 Poor Flora rejoined with a plain sincerity which became her better than
 her youngest glances, that she was glad he thought so. She said it with
 so much heart that Clennam would have given a great deal to buy his
-old character of her on the spot, and throw it and the mermaid away for
+old character of her on the spot, and throw it and the [[Mermaid|mermaid]] away for
 ever.
 
 ‘I think, Flora,’ he said, ‘that the employment you can give Little
@@ -375,7 +375,7 @@ Dorrit, and the kindness you can show her--’
 ‘I am sure of it--will be a great assistance and support to her. I do
 not feel that I have the right to tell you what I know of her, for I
 acquired the knowledge confidentially, and under circumstances that
-bind me to silence. But I have an interest in the little creature, and
+bind me to [[Silence|silence]]. But I have an interest in the little creature, and
 a respect for her that I cannot express to you. Her life has been one
 of such trial and devotion, and such quiet goodness, as you can scarcely
 imagine. I can hardly think of her, far less speak of her, without
@@ -386,14 +386,14 @@ Once more he put out his hand frankly to poor Flora; once more poor
 Flora couldn’t accept it frankly, found it worth nothing openly, must
 make the old intrigue and mystery of it. As much to her own enjoyment as
 to his dismay, she covered it with a corner of her shawl as she took it.
-Then, looking towards the glass front of the counting-house, and seeing
+Then, looking towards the glass front of the counting-[[house]], and seeing
 two figures approaching, she cried with infinite relish, ‘Papa! Hush,
-Arthur, for Mercy’s sake!’ and tottered back to her chair with an
-amazing imitation of being in danger of swooning, in the dread surprise
+[[arthur|Arthur]], for [[Mercy]]’s sake!’ and tottered back to her chair with an
+amazing [[Imitation|imitation]] of being in danger of swooning, in the dread surprise
 and maidenly flutter of her spirits.
 
 The Patriarch, meanwhile, came inanely beaming towards the
-counting-house in the wake of Pancks. Pancks opened the door for him,
+counting-[[house]] in the wake of Pancks. Pancks opened the door for him,
 towed him in, and retired to his own moorings in a corner.
 
 ‘I heard from Flora,’ said the Patriarch with his benevolent smile,
@@ -405,10 +405,10 @@ profound), by means of his blue eyes, his shining head, and his long
 white hair, was most impressive. It seemed worth putting down among the
 noblest sentiments enunciated by the best of men. Also, when he said to
 Clennam, seating himself in the proffered chair, ‘And you are in a new
-business, Mr Clennam? I wish you well, sir, I wish you well!’ he seemed
+business, Mr Clennam? I wish you [[Well|well]], sir, I wish you [[Well|well]]!’ he seemed
 to have done benevolent wonders.
 
-‘Mrs Finching has been telling me, sir,’ said Arthur, after making his
+‘Mrs Finching has been telling me, sir,’ said [[arthur|Arthur]], after making his
 acknowledgments; the relict of the late Mr F. meanwhile protesting, with
 a gesture, against his use of that respectable name; ‘that she hopes
 occasionally to employ the young needlewoman you recommended to my
@@ -422,15 +422,15 @@ him in tow.
 knew nothing about her, you didn’t. The name was mentioned to you, and
 you passed it on. That’s what _you_ did.’
 
-‘Well!’ said Clennam. ‘As she justifies any recommendation, it is much
+‘[[Well]]!’ said Clennam. ‘As she justifies any recommendation, it is much
 the same thing.’
 
-‘You are glad she turns out well,’ said Pancks, ‘but it wouldn’t have
+‘You are glad she turns out [[Well|well]],’ said Pancks, ‘but it wouldn’t have
 been your fault if she had turned out ill. The credit’s not yours as it
 is, and the blame wouldn’t have been yours as it might have been. You
 gave no guarantee. You knew nothing about her.’
 
-‘You are not acquainted, then,’ said Arthur, hazarding a random question,
+‘You are not acquainted, then,’ said [[arthur|Arthur]], hazarding a random question,
 ‘with any of her family?’
 
 ‘Acquainted with any of her family?’ returned Pancks. ‘How should you be
@@ -438,7 +438,7 @@ acquainted with any of her family? You never heard of ‘em. You can’t
 be acquainted with people you never heard of, can you? You should think
 not!’
 
-All this time the Patriarch sat serenely smiling; nodding or shaking his
+All this [[Time|time]] the Patriarch sat serenely smiling; nodding or shaking his
 head benevolently, as the case required.
 
 ‘As to being a reference,’ said Pancks, ‘you know, in a general way,
@@ -451,9 +451,9 @@ that he can pay. Like a person with two wooden legs getting another
 person with two wooden legs, to guarantee that he has got two natural
 legs. It don’t make either of them able to do a walking match. And four
 wooden legs are more troublesome to you than two, when you don’t want
-any.’ Mr Pancks concluded by blowing off that steam of his.
+any.’ [[Mr Pancks]] concluded by blowing off that steam of his.
 
-A momentary silence that ensued was broken by Mr F.’s Aunt, who had been
+A momentary [[Silence|silence]] that ensued was broken by Mr F.’s Aunt, who had been
 sitting upright in a cataleptic state since her last public remark. She
 now underwent a violent twitch, calculated to produce a startling effect
 on the nerves of the uninitiated, and with the deadliest animosity
@@ -463,8 +463,8 @@ observed:
 it. You couldn’t do it when your Uncle George was living; much less when
 he’s dead.’
 
-Mr Pancks was not slow to reply, with his usual calmness, ‘Indeed,
-ma’am! Bless my soul! I’m surprised to hear it.’ Despite his presence of
+[[Mr Pancks]] was not slow to reply, with his usual calmness, ‘Indeed,
+ma’am! Bless my [[Soul|soul]]! I’m surprised to hear it.’ Despite his presence of
 mind, however, the speech of Mr F.’s Aunt produced a depressing effect
 on the little assembly; firstly, because it was impossible to disguise
 that Clennam’s unoffending head was the particular temple of reason
@@ -478,45 +478,45 @@ and she thought they had better go.’ But Mr F.’s Aunt proved so lively
 as to take the suggestion in unexpected dudgeon and declare that she
 would not go; adding, with several injurious expressions, that if
 ‘He’--too evidently meaning Clennam--wanted to get rid of her, ‘let
-him chuck her out of winder;’ and urgently expressing her desire to see
+him chuck her out of winder;’ and urgently expressing her [[Desire|desire]] to see
 ‘Him’ perform that ceremony.
 
-In this dilemma, Mr Pancks, whose resources appeared equal to any
+In this dilemma, [[Mr Pancks]], whose resources appeared equal to any
 emergency in the Patriarchal waters, slipped on his hat, slipped out at
-the counting-house door, and slipped in again a moment afterwards with
+the counting-[[house]] door, and slipped in again a moment afterwards with
 an artificial freshness upon him, as if he had been in the country for
-some weeks. ‘Why, bless my heart, ma’am!’ said Mr Pancks, rubbing up his
+some weeks. ‘Why, bless my heart, ma’am!’ said [[Mr Pancks]], rubbing up his
 hair in great astonishment, ‘is that you? How do you _do_, ma’am? You
 are looking charming to-day! I am delighted to see you. Favour me with
 your arm, ma’am; we’ll have a little walk together, you and me, if
-you’ll honour me with your company.’ And so escorted Mr F.’s Aunt down
-the private staircase of the counting-house with great gallantry and
-success. The patriarchal Mr Casby then rose with the air of having done
+you’ll [[Honour|honour]] me with your company.’ And so escorted Mr F.’s Aunt down
+the private staircase of the counting-[[house]] with great gallantry and
+[[success]]. The patriarchal Mr Casby then [[Rose|rose]] with the air of having done
 it himself, and blandly followed: leaving his daughter, as she followed
-in her turn, to remark to her former lover in a distracted whisper
+in her turn, to remark to her former [[Lover|lover]] in a distracted whisper
 (which she very much enjoyed), that they had drained the cup of life to
 the dregs; and further to hint mysteriously that the late Mr F. was at
-the bottom of it.
+the [[Bottom|bottom]] of it.
 
-Alone again, Clennam became a prey to his old doubts in reference to his
+[[Alone]] again, Clennam became a prey to his old doubts in reference to his
 mother and Little Dorrit, and revolved the old thoughts and suspicions.
 They were all in his mind, blending themselves with the duties he was
-mechanically discharging, when a shadow on his papers caused him to look
-up for the cause. The cause was Mr Pancks. With his hat thrown back upon
+mechanically discharging, when a [[Shadow|shadow]] on his papers caused him to look
+up for the cause. The cause was [[Mr Pancks]]. With his hat thrown back upon
 his ears as if his wiry prongs of hair had darted up like springs and
 cast it off, with his jet-black beads of eyes inquisitively sharp, with
 the fingers of his right hand in his mouth that he might bite the nails,
 and with the fingers of his left hand in reserve in his pocket for
-another course, Mr Pancks cast his shadow through the glass upon the
+another course, [[Mr Pancks]] cast his [[Shadow|shadow]] through the glass upon the
 books and papers.
 
-Mr Pancks asked, with a little inquiring twist of his head, if he
+[[Mr Pancks]] asked, with a little inquiring twist of his head, if he
 might come in again? Clennam replied with a nod of his head in the
-affirmative. Mr Pancks worked his way in, came alongside the desk, made
+affirmative. [[Mr Pancks]] worked his way in, came alongside the desk, made
 himself fast by leaning his arms upon it, and started conversation with
 a puff and a snort.
 
-‘Mr F.’s Aunt is appeased, I hope?’ said Clennam.
+‘Mr F.’s Aunt is appeased, I [[Hope|hope]]?’ said Clennam.
 
 ‘All right, sir,’ said Pancks.
 
@@ -531,7 +531,7 @@ breast of that lady,’ said Clennam. ‘Do you know why?’
 
 He took out his note-book, opened it, shut it, dropped it into his hat,
 which was beside him on the desk, and looked in at it as it lay at the
-bottom of the hat: all with a great appearance of consideration.
+[[Bottom|bottom]] of the hat: all with a great appearance of consideration.
 
 ‘Mr Clennam,’ he then began, ‘I am in want of information, sir.’
 
@@ -539,18 +539,18 @@ bottom of the hat: all with a great appearance of consideration.
 
 ‘No,’ said Pancks.
 
-‘With what then, Mr Pancks? That is to say, assuming that you want it of
+‘With what then, [[Mr Pancks]]? That is to say, assuming that you want it of
 me.’
 
 ‘Yes, sir; yes, I want it of you,’ said Pancks, ‘if I can persuade you
 to furnish it. A, B, C, D. DA, DE, DI, DO. Dictionary order. Dorrit.
 That’s the name, sir?’
 
-Mr Pancks blew off his peculiar noise again, and fell to at his
-right-hand nails. Arthur looked searchingly at him; he returned the
+[[Mr Pancks]] blew off his peculiar noise again, and fell to at his
+right-hand nails. [[arthur|Arthur]] looked searchingly at him; he returned the
 look.
 
-‘I don’t understand you, Mr Pancks.’
+‘I don’t understand you, [[Mr Pancks]].’
 
 ‘That’s the name that I want to know about.’
 
@@ -558,9 +558,9 @@ look.
 
 ‘Whatever you can and will tell me.’ This comprehensive summary of his
 desires was not discharged without some heavy labouring on the part of
-Mr Pancks’s machinery.
+[[Mr Pancks]]’s machinery.
 
-‘This is a singular visit, Mr Pancks. It strikes me as rather
+‘This is a singular visit, [[Mr Pancks]]. It strikes me as rather
 extraordinary that you should come, with such an object, to me.’
 
 ‘It may be all extraordinary together,’ returned Pancks. ‘It may be out
@@ -568,7 +568,7 @@ of the ordinary course, and yet be business. In short, it is business. I
 am a man of business. What business have I in this present world, except
 to stick to business? No business.’
 
-With his former doubt whether this dry hard personage were quite in
+With his former [[Doubt|doubt]] whether this dry hard personage were quite in
 earnest, Clennam again turned his eyes attentively upon his face. It
 was as scrubby and dingy as ever, and as eager and quick as ever, and he
 could see nothing lurking in it that was at all expressive of a latent
@@ -587,9 +587,9 @@ Say, Plornish, though six weeks in arrear to my proprietor, declines.
 Say, Mrs Plornish declines. Say, both refer to Mr Clennam. Put the
 case.’
 
-‘Well?’
+‘[[Well]]?’
 
-‘Well, sir,’ returned Pancks, ‘say, I come to him. Say, here I am.’
+‘[[Well]], sir,’ returned Pancks, ‘say, I come to him. Say, here I am.’
 
 With those prongs of hair sticking up all over his head, and his breath
 coming and going very hard and short, the busy Pancks fell back a step
@@ -597,7 +597,7 @@ coming and going very hard and short, the busy Pancks fell back a step
 complete, then forged a-head again, and directed his quick glance by
 turns into his hat where his note-book was, and into Clennam’s face.
 
-‘Mr Pancks, not to trespass on your grounds of mystery, I will be as
+‘[[Mr Pancks]], not to trespass on your grounds of mystery, I will be as
 plain with you as I can. Let me ask two questions. First--’
 
 ‘All right!’ said Pancks, holding up his dirty forefinger with his
@@ -612,22 +612,22 @@ forefinger still up as a caution. ‘Better admit motive to be good.’
 
 ‘Secondly, and lastly, what do you want to know?’
 
-Mr Pancks fished up his note-book before the question was put, and
+[[Mr Pancks]] fished up his note-book before the question was put, and
 buttoning it with care in an inner breast-pocket, and looking straight
-at Clennam all the time, replied with a pause and a puff, ‘I want
+at Clennam all the [[Time|time]], replied with a pause and a puff, ‘I want
 supplementary information of any sort.’
 
 Clennam could not withhold a smile, as the panting little steam-tug, so
-useful to that unwieldy ship, the Casby, waited on and watched him as if
+useful to that unwieldy [[Ship|ship]], the Casby, waited on and watched him as if
 it were seeking an opportunity of running in and rifling him of all he
 wanted before he could resist its manoeuvres; though there was that in
-Mr Pancks’s eagerness, too, which awakened many wondering speculations
+[[Mr Pancks]]’s eagerness, too, which awakened many wondering speculations
 in his mind. After a little consideration, he resolved to supply Mr
 Pancks with such leading information as it was in his power to impart
-him; well knowing that Mr Pancks, if he failed in his present research,
+him; [[Well|well]] knowing that [[Mr Pancks]], if he failed in his present research,
 was pretty sure to find other means of getting it.
 
-He, therefore, first requesting Mr Pancks to remember his voluntary
+He, therefore, first requesting [[Mr Pancks]] to remember his voluntary
 declaration that his proprietor had no part in the disclosure, and that
 his own intentions were good (two declarations which that coaly little
 gentleman with the greatest ardour repeated), openly told him that as to
@@ -635,23 +635,23 @@ the Dorrit lineage or former place of habitation, he had no information
 to communicate, and that his knowledge of the family did not extend
 beyond the fact that it appeared to be now reduced to five members;
 namely, to two brothers, of whom one was single, and one a widower with
-three children. The ages of the whole family he made known to Mr Pancks,
+three children. The ages of the whole family he made known to [[Mr Pancks]],
 as nearly as he could guess at them; and finally he described to him
-the position of the Father of the Marshalsea, and the course of time and
+the position of the Father of the Marshalsea, and the course of [[Time|time]] and
 events through which he had become invested with that character. To
-all this, Mr Pancks, snorting and blowing in a more and more portentous
+all this, [[Mr Pancks]], snorting and blowing in a more and more portentous
 manner as he became more interested, listened with great attention;
 appearing to derive the most agreeable sensations from the painfullest
 parts of the narrative, and particularly to be quite charmed by the
-account of William Dorrit’s long imprisonment.
+account of [[William Dorrit]]’s long [[Imprisonment|imprisonment]].
 
-‘In conclusion, Mr Pancks,’ said Arthur, ‘I have but to say this. I have
+‘In conclusion, [[Mr Pancks]],’ said [[arthur|Arthur]], ‘I have but to say this. I have
 reasons beyond a personal regard for speaking as little as I can of the
-Dorrit family, particularly at my mother’s house’ (Mr Pancks nodded),
+Dorrit family, particularly at my mother’s [[house]]’ ([[Mr Pancks]] nodded),
 ‘and for knowing as much as I can. So devoted a man of business as you
 are--eh?’
 
-For Mr Pancks had suddenly made that blowing effort with unusual force.
+For [[Mr Pancks]] had suddenly made that blowing effort with unusual force.
 
 ‘It’s nothing,’ said Pancks.
 
@@ -660,17 +660,17 @@ a fair bargain. I wish to make a fair bargain with you, that you shall
 enlighten me concerning the Dorrit family when you have it in your
 power, as I have enlightened you. It may not give you a very flattering
 idea of my business habits, that I failed to make my terms beforehand,’
-continued Clennam; ‘but I prefer to make them a point of honour. I have
+continued Clennam; ‘but I prefer to make them a point of [[Honour|honour]]. I have
 seen so much business done on sharp principles that, to tell you the
-truth, Mr Pancks, I am tired of them.’
+[[Truth|truth]], [[Mr Pancks]], I am tired of them.’
 
-Mr Pancks laughed. ‘It’s a bargain, sir,’ said he. ‘You shall find me
+[[Mr Pancks]] laughed. ‘It’s a bargain, sir,’ said he. ‘You shall find me
 stick to it.’
 
 After that, he stood a little while looking at Clennam, and biting his
 ten nails all round; evidently while he fixed in his mind what he had
 been told, and went over it carefully, before the means of supplying a
-gap in his memory should be no longer at hand. ‘It’s all right,’ he said
+gap in his [[Memory|memory]] should be no longer at hand. ‘It’s all right,’ he said
 at last, ‘and now I’ll wish you good day, as it’s collecting day in the
 Yard. By-the-bye, though. A lame foreigner with a stick.’
 
@@ -698,10 +698,10 @@ hospital?’ said Pancks. And again blew off that remarkable sound.
 
 ‘I have been shown so too,’ said Clennam, coldly.
 
-Mr Pancks, being by that time quite ready for a start, got under steam
+[[Mr Pancks]], being by that [[Time|time]] quite ready for a start, got under steam
 in a moment, and, without any other signal or ceremony, was snorting
 down the step-ladder and working into Bleeding Heart Yard, before he
-seemed to be well out of the counting-house.
+seemed to be [[Well|well]] out of the counting-[[house]].
 
 Throughout the remainder of the day, Bleeding Heart Yard was in
 consternation, as the grim Pancks cruised in it; haranguing the
@@ -709,23 +709,23 @@ inhabitants on their backslidings in respect of payment, demanding his
 bond, breathing notices to quit and executions, running down defaulters,
 sending a swell of terror on before him, and leaving it in his wake.
 Knots of people, impelled by a fatal attraction, lurked outside any
-house in which he was known to be, listening for fragments of his
+[[house]] in which he was known to be, listening for fragments of his
 discourses to the inmates; and, when he was rumoured to be coming down
 the stairs, often could not disperse so quickly but that he would be
 prematurely in among them, demanding their own arrears, and rooting them
-to the spot. Throughout the remainder of the day, Mr Pancks’s What were
+to the spot. Throughout the remainder of the day, [[Mr Pancks]]’s What were
 they up to? and What did they mean by it? sounded all over the Yard. Mr
 Pancks wouldn’t hear of excuses, wouldn’t hear of complaints, wouldn’t
 hear of repairs, wouldn’t hear of anything but unconditional money down.
 Perspiring and puffing and darting about in eccentric directions, and
 becoming hotter and dingier every moment, he lashed the tide of the yard
 into a most agitated and turbid state. It had not settled down into calm
-water again full two hours after he had been seen fuming away on the
+[[Water|water]] again full two hours after he had been seen fuming away on the
 horizon at the top of the steps.
 
 There were several small assemblages of the Bleeding Hearts at the
-popular points of meeting in the Yard that night, among whom it was
-universally agreed that Mr Pancks was a hard man to have to do with; and
+popular points of meeting in the Yard that [[Night|night]], among whom it was
+universally agreed that [[Mr Pancks]] was a hard man to have to do with; and
 that it was much to be regretted, so it was, that a gentleman like Mr
 Casby should put his rents in his hands, and never know him in his true
 light. For (said the Bleeding Hearts), if a gentleman with that head of
@@ -738,7 +738,7 @@ floated serenely through the Yard in the forenoon before the harrying
 began, with the express design of getting up this trustfulness in his
 shining bumps and silken locks--at which identical hour and minute,
 that first-rate humbug of a thousand guns was heavily floundering in the
-little Dock of his exhausted Tug at home, and was saying, as he turned
+little Dock of his exhausted Tug at [[Home|home]], and was saying, as he turned
 his thumbs:
 
 ‘A very bad day’s work, Pancks, very bad day’s work. It seems to me,

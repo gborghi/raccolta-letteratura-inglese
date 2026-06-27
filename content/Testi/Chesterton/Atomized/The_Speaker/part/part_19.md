@@ -32,22 +32,22 @@ in which the moral refuse of humanity would stand the best chance.
 Mr. Bartram's verse may be too crude and bellicose, but we
 thank him for suggesting, consciously or unconsciously,
 that it is at least tenable that the entrance to the world of
-wonder is not a keyhole that only the thinnest can get through,
-but a wall that only the strongest can vault.  At any rate, we hope
-that Mr. Bartram's enthusiasm for English ghosts may be infectious.
-It is not that we care one rap for the supernatural element:
-but we know that in history, and especially in literature,
-it is only the supernatural life which will induce men to study
-and value the natural.  We do not desire to create a general
-awe and reverence for turnip-ghosts, but we do desire to create
+[[Wonder|wonder]] is not a keyhole that only the thinnest can get through,
+but a wall that only the strongest can vault.  At any rate, we [[Hope|hope]]
+that Mr. Bartram's enthusiasm for English [[Ghosts|ghosts]] may be infectious.
+It is not that we care one rap for the [[Supernatural|supernatural]] element:
+but we know that in [[history]], and especially in literature,
+it is only the [[Supernatural|supernatural]] life which will induce men to study
+and value the natural.  We do not [[Desire|desire]] to create a general
+awe and reverence for turnip-[[Ghosts|ghosts]], but we do [[Desire|desire]] to create
 a general awe and reverence for turnips.
 
 --G.K.C.
 
 
-"The Morality of the Hat" March 2, 1901, The Speaker
+"The [[morality|Morality]] of the Hat" March 2, 1901, The Speaker
 
-There was a time when we (like most ill-dressed people)
+There was a [[Time|time]] when we (like most ill-dressed people)
 were reformers of dress:  we had indeed several proposals
 for which little can be urged but their originality.
 We thought that the waistcoat in morning dress might be
@@ -74,7 +74,7 @@ in Western countries is somewhat peculiar.
 
 Of course this use of the hat as a salute has, in modern life,
 an obvious practical convenience.  There is no other part of dress
-that could be used as a sword or bayonet is used in military saluting.
+that could be used as a [[Sword|sword]] or bayonet is used in military saluting.
 The French, with their genius for a natural ritual, have precisely
 expressed the matter in speaking of a coup de chapeau.
 The human mind cannot seriously contemplate a gentleman taking
@@ -88,7 +88,7 @@ of other appendages.  In the East, for example, the shoes
 are removed as an expression of reverence:  and this is really
 quite as strange to our conceptions as those we have mentioned.
 We have only to imagine the condition of Bond Street if every
-time a gentleman met a lady he sat down on the pavement and began
+[[Time|time]] a gentleman met a lady he sat down on the pavement and began
 to unlace his boots.
 
 The East and West seem condemned to be topsyturveydoms to each other,
@@ -96,15 +96,15 @@ and it is but one of the thousand symbols of the fact that in one case
 the headgear is immovable and the foot-gear constantly shifted, and in
 the other the head-gear is constantly shifted and the footgear immovable.
 But the whole matter goes much deeper than this.  The Eastern custom
-of removing the shoes on entering a house or temple has an obvious
+of removing the shoes on entering a [[house]] or temple has an obvious
 practical meaning.  The Western custom of removing the hat can only,
 to our mind, have a meaning entirely philosophic, abstract and religious.
 
 The meaning of the removal of shoes is clear:  it is to preserve
-the house from the defilements of the street.  But no one can
+the [[house]] from the defilements of the street.  But no one can
 suppose that a visitor can defile anything with his hat.
-It is unusual to see a gentleman rubbing his head on the road
-before entering a house or rubbing his hat on the carpet after
+It is unusual to see a gentleman rubbing his head on the [[Road|road]]
+before entering a [[house]] or rubbing his hat on the carpet after
 entering it.  If these customs are known, they are at least
 very recent developments of the fashion of "familiarity."
 It seems to us that the whole question of the hat belongs
@@ -115,7 +115,7 @@ the hat as a sign of respect.  One of the greatest, for example,
 the Jewish civilisation, assumes the hat as a sign of respect.  And this,
 when we come to think of it, is a very natural and a very fine idea.
 To hide the face, to cover oneself from the terror of perfection,
-seems the natural movement of self-subordination. And if the actual
+seems the natural movement of [[Self|self]]-subordination. And if the actual
 appearance presented by a synagogue, where all the worshippers wear
 the black silk "stovepipe" is not poetic, this is certainly not
 the fault of the Semitic idea, but of the Aryan hat.  At any rate,

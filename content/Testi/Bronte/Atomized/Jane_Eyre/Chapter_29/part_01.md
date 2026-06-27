@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 29 (part 1)"
+title: "[[Jane Eyre]] — Chapter 29 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -22,21 +22,21 @@ dim in my mind. I can recall some sensations felt in that interval; but
 few thoughts framed, and no actions performed. I knew I was in a small
 room and in a narrow bed. To that bed I seemed to have grown; I lay on
 it motionless as a stone; and to have torn me from it would have been
-almost to kill me. I took no note of the lapse of time—of the change
-from morning to noon, from noon to evening. I observed when any one
+almost to kill me. I took no note of the lapse of [[Time|time]]—of the change
+from morning to [[Noon|noon]], from [[Noon|noon]] to evening. I observed when any one
 entered or left the apartment: I could even tell who they were; I could
 understand what was said when the speaker stood near to me; but I could
 not answer; to open my lips or move my limbs was equally impossible.
 Hannah, the servant, was my most frequent visitor. Her coming disturbed
 me. I had a feeling that she wished me away: that she did not
 understand me or my circumstances; that she was prejudiced against me.
-Diana and Mary appeared in the chamber once or twice a day. They would
+[[Diana]] and Mary appeared in the chamber once or twice a day. They would
 whisper sentences of this sort at my bedside—
 
-“It is very well we took her in.”
+“It is very [[Well|well]] we took her in.”
 
 “Yes; she would certainly have been found dead at the door in the
-morning had she been left out all night. I wonder what she has gone
+morning had she been left out all [[Night|night]]. I [[Wonder|wonder]] what she has gone
 through?”
 
 “Strange hardships, I imagine—poor, emaciated, pallid wanderer!”
@@ -55,17 +55,17 @@ to, myself. I was comforted.
 
 Mr. St. John came but once: he looked at me, and said my state of
 lethargy was the result of reaction from excessive and protracted
-fatigue. He pronounced it needless to send for a doctor: nature, he was
+fatigue. He pronounced it needless to send for a doctor: [[Nature|nature]], he was
 sure, would manage best, left to herself. He said every nerve had been
-overstrained in some way, and the whole system must sleep torpid a
+overstrained in some way, and the whole system must [[Sleep|sleep]] torpid a
 while. There was no disease. He imagined my recovery would be rapid
 enough when once commenced. These opinions he delivered in a few words,
 in a quiet, low voice; and added, after a pause, in the tone of a man
 little accustomed to expansive comment, “Rather an unusual physiognomy;
 certainly, not indicative of vulgarity or degradation.”
 
-“Far otherwise,” responded Diana. “To speak truth, St. John, my heart
-rather warms to the poor little soul. I wish we may be able to benefit
+“Far otherwise,” responded [[Diana]]. “To speak [[Truth|truth]], St. John, my heart
+rather warms to the poor little [[Soul|soul]]. I wish we may be able to benefit
 her permanently.”
 
 “That is hardly likely,” was the reply. “You will find she is some
@@ -78,15 +78,15 @@ handsome.”
 
 “She is so ill, St. John.”
 
-“Ill or well, she would always be plain. The grace and harmony of
-beauty are quite wanting in those features.”
+“Ill or [[Well|well]], she would always be plain. The grace and harmony of
+[[Beauty|beauty]] are quite wanting in those features.”
 
 On the third day I was better; on the fourth, I could speak, move, rise
 in bed, and turn. Hannah had brought me some gruel and dry toast,
 about, as I supposed, the dinner-hour. I had eaten with relish: the
 food was good—void of the feverish flavour which had hitherto poisoned
 what I had swallowed. When she left me, I felt comparatively strong and
-revived: ere long satiety of repose and desire for action stirred me. I
+revived: ere long satiety of repose and [[Desire|desire]] for action stirred me. I
 wished to rise; but what could I put on? Only my damp and bemired
 apparel; in which I had slept on the ground and fallen in the marsh. I
 felt ashamed to appear before my benefactors so clad. I was spared the
@@ -106,12 +106,12 @@ crept down a stone staircase with the aid of the banisters, to a narrow
 low passage, and found my way presently to the kitchen.
 
 It was full of the fragrance of new bread and the warmth of a generous
-fire. Hannah was baking. Prejudices, it is well known, are most
+[[Fire|fire]]. Hannah was baking. Prejudices, it is [[Well|well]] known, are most
 difficult to eradicate from the heart whose soil has never been
-loosened or fertilised by education: they grow there, firm as weeds
+loosened or fertilised by [[Education|education]]: they grow there, firm as weeds
 among stones. Hannah had been cold and stiff, indeed, at the first:
 latterly she had begun to relent a little; and when she saw me come in
-tidy and well-dressed, she even smiled.
+tidy and [[Well|well]]-dressed, she even smiled.
 
 “What, you have got up!” she said. “You are better, then. You may sit
 you down in my chair on the hearthstone, if you will.”
@@ -130,7 +130,7 @@ quietly, but still not without a certain marked firmness—
 than yourself or your young ladies.”
 
 After a pause she said, “I dunnut understand that: you’ve like no
-house, nor no brass, I guess?”
+[[house]], nor no brass, I guess?”
 
-“The want of house or brass (by which I suppose you mean money) does
+“The want of [[house]] or brass (by which I suppose you mean money) does
 not make a beggar in your sense of the word.”

@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered-8 — DEMAGOGUES AND MYSTAGOGUES"
+title: "[[AllThingsConsidered-8]] — DEMAGOGUES AND MYSTAGOGUES"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
@@ -19,18 +19,18 @@ DEMAGOGUES AND MYSTAGOGUES
 
 I once heard a man call this age the age of demagogues.
 Of this I can only say, in the admirably sensible words of
-the angry coachman in "Pickwick," that "that remark's political,
+the angry coachman in "[[Pickwick]]," that "that remark's political,
 or what is much the same, it ain't true."  So far from being the age
 of demagogues, this is really and specially the age of mystagogues.
-So far from this being a time in which things are praised because they
-are popular, the truth is that this is the first time, perhaps,
-in the whole history of the world in which things can be praised
+So far from this being a [[Time|time]] in which things are praised because they
+are popular, the [[Truth|truth]] is that this is the first [[Time|time]], perhaps,
+in the whole [[history]] of the world in which things can be praised
 because they are unpopular.  The demagogue succeeds because he makes
 himself understood, even if he is not worth understanding.
 But the mystagogue succeeds because he gets himself misunderstood;
 although, as a rule, he is not even worth misunderstanding.
 Gladstone was a demagogue:  Disraeli a mystagogue.  But ours
-is specially the time when a man can advertise his wares not as
+is specially the [[Time|time]] when a man can advertise his wares not as
 a universality, but as what the tradesmen call "a speciality."
 We all know this, for instance, about modern art.  Michelangelo and
 Whistler were both fine artists; but one is obviously public,
@@ -43,23 +43,23 @@ They are elusive, fugitive; they fly even from praise.
 Doubtless many artists in Michelangelo's day declared themselves
 to be great artists, although they were unsuccessful.  But they did
 not declare themselves great artists because they were unsuccessful:
-that is the peculiarity of our own time, which has a positive bias
+that is the peculiarity of our own [[Time|time]], which has a positive bias
 against the populace.
 
 Another case of the same kind of thing can be found in the latest
-conceptions of humour.  By the wholesome tradition of mankind,
+conceptions of [[Humour|humour]].  By the wholesome tradition of mankind,
 a joke was a thing meant to amuse men; a joke which did not amuse them
-was a failure, just as a fire which did not warm them was a failure.
+was a failure, just as a [[Fire|fire]] which did not warm them was a failure.
 But we have seen the process of secrecy and aristocracy introduced
 even into jokes.  If a joke falls flat, a small school of æsthetes
 only ask us to notice the wild grace of its falling and its
 perfect flatness after its fall.  The old idea that the joke was
 not good enough for the company has been superseded by the new
 aristocratic idea that the company was not worthy of the joke.
-They have introduced an almost insane individualism into that one
+They have introduced an almost insane [[Individualism|individualism]] into that one
 form of intercourse which is specially and uproariously communal.
-They have made even levities into secrets.  They have made laughter
-lonelier than tears.
+They have made even levities into [[Secrets|secrets]].  They have made laughter
+lonelier than [[Tears|tears]].
 
 There is a third thing to which the mystagogues have recently
 been applying the methods of a secret society:  I mean manners.
@@ -71,13 +71,13 @@ don't know better than that."
 
 I have just been reading an amusing book by Lady Grove called
 "The Social Fetich," which is a positive riot of this new specialism
-and mystification.  It is due to Lady Grove to say that she
+and [[Mystification|mystification]].  It is due to Lady Grove to say that she
 has some of the freer and more honourable qualities of the old
-Whig aristocracy, as well as their wonderful worldliness and their
-strange faith in the passing fashion of our politics.  For instance,
+Whig aristocracy, as [[Well|well]] as their wonderful worldliness and their
+strange [[Faith|faith]] in the passing fashion of our politics.  For instance,
 she speaks of Jingo Imperialism with a healthy English contempt;
 and she perceives stray and striking truths, and records them justly--
-as, for instance, the greater democracy of the Southern and Catholic
+as, for instance, the greater [[democracy]] of the Southern and Catholic
 countries of Europe.  But in her dealings with social formulæ here
 in England she is, it must frankly be said, a common mystagogue.
 She does not, like a decent demagogue, wish to make people understand;
@@ -114,9 +114,9 @@ which they ought to regard as pleasure.
 
 It was the same with the popular presentment of aristocracy.
 Aristocrats tried to impress humanity by the exhibition of qualities
-which humanity admires, such as courage, gaiety, or even mere splendour.
+which humanity admires, such as [[Courage|courage]], gaiety, or even mere splendour.
 The aristocracy might have more possession in these things,
-but the democracy had quite equal delight in them.  It was much more
+but the [[democracy]] had quite equal delight in them.  It was much more
 sensible to offer yourself for admiration because you had drunk three
 bottles of port at a sitting, than to offer yourself for admiration
 (as Lady Grove does) because you think it right to say "port wine"
@@ -128,12 +128,12 @@ of the futility of such tests in the matter even of mere breeding.
 but numberless aristocrats say "port," and all barmaids say "port wine."
 The whole thing is rather more trivial than collecting tram-tickets;
 and I will not pursue Lady Grove's further distinctions.
-I pass over the interesting theory that I ought to say to Jones
-(even apparently if he is my dearest friend), "How is Mrs. Jones?"
+I pass over the interesting theory that I ought to say to [[Jones]]
+(even apparently if he is my dearest friend), "How is Mrs. [[Jones]]?"
 instead of "How is your wife?" and I pass over an impassioned declamation
-about bedspreads (I think) which has failed to fire my blood.
+about bedspreads (I think) which has failed to [[Fire|fire]] my [[Blood|blood]].
 
-The truth of the matter is really quite simple.  An aristocracy is a
+The [[Truth|truth]] of the matter is really quite simple.  An aristocracy is a
 secret society; and this is especially so when, as in the modern world,
 it is practically a plutocracy.  The one idea of a secret society
 is to change the password.  Lady Grove falls naturally into a pure
@@ -147,15 +147,15 @@ she says that the man who would say "port" is a man who would say,
 to be quite obvious and reasonable.
 
 The only thing to be done or said in reply, I suppose, would be
-to apply the same principle of bold mystification on our own part.
+to apply the same principle of bold [[Mystification|mystification]] on our own part.
 I do not see why I should not write a book called "Etiquette in
 Fleet Street," and terrify every one else out of that thoroughfare
 by mysterious allusions to the mistakes that they generally make.
 I might say:  "This is the kind of man who would wear a green tie
 when he went into a tobacconist's," or "You don't see anything wrong
-in drinking a Benedictine on Thursday? ... No, of course _you_ wouldn't."
+in drinking a Benedictine on [[thursday|Thursday]]? ... No, of course _you_ wouldn't."
 I might asseverate with passionate disgust and disdain:
-"The man who is capable of writing sonnets as well as triolets
+"The man who is capable of writing sonnets as [[Well|well]] as triolets
 is capable of climbing an omnibus while holding an umbrella."
 It seems a simple method; if ever I should master it perhaps I
 may govern England.

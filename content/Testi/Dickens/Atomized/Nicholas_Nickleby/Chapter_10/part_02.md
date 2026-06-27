@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 10 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 10 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -22,7 +22,7 @@ would be that to me I would rather die than take.’
 ‘A dependence upon him,’ said Kate, ‘would embitter my whole life. I
 should feel begging a far less degradation.’
 
-‘Well!’ exclaimed Miss La Creevy. ‘This of a relation whom you will not
+‘[[Well]]!’ exclaimed Miss La Creevy. ‘This of a relation whom you will not
 hear an indifferent person speak ill of, my dear, sounds oddly enough, I
 confess.’
 
@@ -35,12 +35,12 @@ Miss La Creevy looked slyly at her companion, as if she doubted whether
 Ralph himself were not the subject of dislike, but seeing that her young
 friend was distressed, made no remark.
 
-‘I only ask of him,’ continued Kate, whose tears fell while she spoke,
+‘I only ask of him,’ continued Kate, whose [[Tears|tears]] fell while she spoke,
 ‘that he will move so little out of his way, in my behalf, as to
 enable me by his recommendation--only by his recommendation--to earn,
 literally, my bread and remain with my mother. Whether we shall ever
 taste happiness again, depends upon the fortunes of my dear brother;
-but if he will do this, and Nicholas only tells us that he is well and
+but if he will do this, and Nicholas only tells us that he is [[Well|well]] and
 cheerful, I shall be contented.’
 
 As she ceased to speak, there was a rustling behind the screen
@@ -50,7 +50,7 @@ wainscot.’
 ‘Come in, whoever it is!’ cried Miss La Creevy.
 
 The person complied, and, coming forward at once, gave to view the form
-and features of no less an individual than Mr. Ralph Nickleby himself.
+and features of no less an individual than Mr. [[Ralph Nickleby]] himself.
 
 ‘Your servant, ladies,’ said Ralph, looking sharply at them by turns.
 ‘You were talking so loud, that I was unable to make you hear.’
@@ -77,7 +77,7 @@ away, ‘I have no eye for likenesses. Is it nearly finished?’
 ‘Why, yes,’ replied Miss La Creevy, considering with the pencil end of
 her brush in her mouth. ‘Two sittings more will--’
 
-‘Have them at once, ma’am,’ said Ralph. ‘She’ll have no time to idle
+‘Have them at once, ma’am,’ said Ralph. ‘She’ll have no [[Time|time]] to idle
 over fooleries after tomorrow. Work, ma’am, work; we must all work. Have
 you let your lodgings, ma’am?’
 
@@ -85,10 +85,10 @@ you let your lodgings, ma’am?’
 
 ‘Put it up at once, ma’am; they won’t want the rooms after this week,
 or if they do, can’t pay for them. Now, my dear, if you’re ready, we’ll
-lose no more time.’
+lose no more [[Time|time]].’
 
 With an assumption of kindness which sat worse upon him even than his
-usual manner, Mr. Ralph Nickleby motioned to the young lady to precede
+usual manner, Mr. [[Ralph Nickleby]] motioned to the young lady to precede
 him, and bowing gravely to Miss La Creevy, closed the door and followed
 upstairs, where Mrs. Nickleby received him with many expressions of
 regard. Stopping them somewhat abruptly, Ralph waved his hand with an
@@ -96,7 +96,7 @@ impatient gesture, and proceeded to the object of his visit.
 
 ‘I have found a situation for your daughter, ma’am,’ said Ralph.
 
-‘Well,’ replied Mrs. Nickleby. ‘Now, I will say that that is only just
+‘[[Well]],’ replied Mrs. Nickleby. ‘Now, I will say that that is only just
 what I have expected of you. “Depend upon it,” I said to Kate, only
 yesterday morning at breakfast, “that after your uncle has provided, in
 that most ready manner, for Nicholas, he will not leave us until he has
@@ -106,33 +106,33 @@ remember. Kate, my dear, why don’t you thank your--’
 ‘Let me proceed, ma’am, pray,’ said Ralph, interrupting his
 sister-in-law in the full torrent of her discourse.
 
-‘Kate, my love, let your uncle proceed,’ said Mrs. Nickleby.
+‘Kate, my [[Love|love]], let your uncle proceed,’ said Mrs. Nickleby.
 
 ‘I am most anxious that he should, mama,’ rejoined Kate.
 
-‘Well, my dear, if you are anxious that he should, you had better allow
+‘[[Well]], my dear, if you are anxious that he should, you had better allow
 your uncle to say what he has to say, without interruption,’ observed
-Mrs. Nickleby, with many small nods and frowns. ‘Your uncle’s time is
+Mrs. Nickleby, with many small nods and frowns. ‘Your uncle’s [[Time|time]] is
 very valuable, my dear; and however desirous you may be--and naturally
 desirous, as I am sure any affectionate relations who have seen so
 little of your uncle as we have, must naturally be to protract the
 pleasure of having him among us, still, we are bound not to be selfish,
-but to take into consideration the important nature of his occupations
-in the city.’
+but to take into consideration the important [[Nature|nature]] of his occupations
+in the [[City|city]].’
 
 ‘I am very much obliged to you, ma’am,’ said Ralph with a scarcely
 perceptible sneer. ‘An absence of business habits in this family leads,
 apparently, to a great waste of words before business--when it does come
 under consideration--is arrived at, at all.’
 
-‘I fear it is so indeed,’ replied Mrs. Nickleby with a sigh. ‘Your poor
+‘I [[Fear|fear]] it is so indeed,’ replied Mrs. Nickleby with a sigh. ‘Your poor
 brother--’
 
 ‘My poor brother, ma’am,’ interposed Ralph tartly, ‘had no idea what
 business was--was unacquainted, I verily believe, with the very meaning
 of the word.’
 
-‘I fear he was,’ said Mrs. Nickleby, with her handkerchief to her eyes.
+‘I [[Fear|fear]] he was,’ said Mrs. Nickleby, with her handkerchief to her eyes.
 ‘If it hadn’t been for me, I don’t know what would have become of him.’
 
 What strange creatures we are! The slight bait so skilfully thrown out
@@ -144,6 +144,6 @@ pounds had arisen before Mrs. Nickleby’s mind, until, at last, she had
 come to persuade herself that of all her late husband’s creditors she
 was the worst used and the most to be pitied. And yet, she had loved him
 dearly for many years, and had no greater share of selfishness than is
-the usual lot of mortals. Such is the irritability of sudden poverty. A
+the usual lot of mortals. Such is the irritability of sudden [[Poverty|poverty]]. A
 decent annuity would have restored her thoughts to their old train, at
 once.

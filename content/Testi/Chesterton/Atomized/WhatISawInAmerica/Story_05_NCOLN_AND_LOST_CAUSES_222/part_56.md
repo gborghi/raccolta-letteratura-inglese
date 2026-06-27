@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 56)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 56)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-still vaguely supposed to be, that America must have a long life before
+still vaguely supposed to be, that [[America]] must have a long life before
 
 it, because it only started in the eighteenth century, we should find a
 
@@ -34,7 +34,7 @@ the most recent and the most rationalistic creations that have been
 
 ruined. The two great States which did most definitely and emphatically
 
-deserve to be called modern states were Prussia and Russia. There was no
+deserve to be called modern states were Prussia and [[Russia]]. There was no
 
 real Prussia before Frederick the Great; no real Russian Empire before
 
@@ -48,9 +48,9 @@ for themselves. They did not, like the kings of England or France or
 
 Spain or Scotland, inherit a sceptre that was the symbol of a historic
 
-and patriotic people. In this sense there was no Russia but only an
+and patriotic people. In this sense there was no [[Russia]] but only an
 
-Emperor of Russia. In this sense Prussia was a kingdom before it was a
+Emperor of [[Russia]]. In this sense Prussia was a kingdom before it was a
 
 nation; if it ever was a nation. But anyhow both men were particularly
 
@@ -58,7 +58,7 @@ modern in their whole mood and mind. They were modern to the extent of
 
 being not only anti-traditional, but almost anti-patriotic. Peter forced
 
-the science of the West on Russia to the regret of many Russians.
+the science of the West on [[Russia]] to the regret of many Russians.
 
 Frederick talked the French of Voltaire and not the German of Luther.
 
@@ -70,7 +70,7 @@ nothing but the light of common day; and already their day is done.
 
 
 
-If then the promise of America were in the fact that she is one of the
+If then the promise of [[America]] were in the fact that she is one of the
 
 latest births of progress, we should point out that it is exactly the
 
@@ -84,9 +84,9 @@ came in an age of clarity and scepticism, uncontaminated by old
 
 superstitions, it could still be retorted that the works of superstition
 
-have survived the works of scepticism. But the truth is, of course, that
+have survived the works of scepticism. But the [[Truth|truth]] is, of course, that
 
-the real quality of America is much more subtle and complex than this;
+the real quality of [[America]] is much more subtle and complex than this;
 
 and is mixed not only of good and bad, and rational and mystical, but
 
@@ -98,7 +98,7 @@ proportions of American life so interesting and so impossible.
 
 To begin with, such a metaphor is always as distracting as a mixed
 
-metaphor. It is a double-edged tool that cuts both ways; and
+metaphor. It is a [[Double|double]]-edged tool that cuts both ways; and
 
 consequently opposite ways. We use the same word 'young' to mean two
 
@@ -114,11 +114,11 @@ call it young if it conducted all its industry with chipped flints;
 
 meaning that it was primitive. These two meanings of youth are
 
-hopelessly mixed up when the word is applied to America. But what is
+hopelessly mixed up when the word is applied to [[America]]. But what is
 
-more curious, the two elements really are wildly entangled in America.
+more curious, the two elements really are wildly entangled in [[America]].
 
-America is in some ways what is called in advance of the times, and in
+[[America]] is in some ways what is called in advance of the times, and in
 
 some ways what is called behind the times; but it seems a little
 
@@ -138,17 +138,17 @@ in another thing, such as art. What is less fully realised is that this
 
 is true even as between different methods of science. The perfection of
 
-wireless telegraphy might well be followed by the gross imperfection of
+wireless telegraphy might [[Well|well]] be followed by the gross imperfection of
 
 wires. The very enthusiasm of American science brings this out very
 
-vividly. The telephone in New York works miracles all day long. Replies
+vividly. The telephone in [[New York]] works miracles all day long. Replies
 
 from remote places come as promptly as in a private talk; nobody cuts
 
 anybody off; nobody says, 'Sorry you've been troubled.' But then the
 
-postal service of New York does not work at all. At least I could never
+postal service of [[New York]] does not work at all. At least I could never
 
 discover it working. Letters lingered in it for days and days, as in
 
@@ -174,7 +174,7 @@ But on the other hand, American manners contain much that is called
 
 young in the contrary sense; in the sense of an earlier stage of
 
-history. There are whole patches and particular aspects that seem to me
+[[history]]. There are whole patches and particular aspects that seem to me
 
 quite Early Victorian. I cannot help having this sensation, for
 

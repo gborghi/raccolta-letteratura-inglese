@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 23: TWENTY THREE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -17,12 +17,12 @@ tags:
 ‘These here tools,’ said Mark, bringing forward Martin’s case of
 instruments and sticking the compasses upright in a stump before the
 door, ‘shall be set out in the open air to show that we come provided.
-And now, if any gentleman wants a house built, he’d better give his
+And now, if any gentleman wants a [[house]] built, he’d better give his
 orders, afore we’re other ways bespoke.’
 
 Considering the intense heat of the weather, this was not a bad
 morning’s work; but without pausing for a moment, though he was
-streaming at every pore, Mark vanished into the house again, and
+streaming at every pore, Mark vanished into the [[house]] again, and
 presently reappeared with a hatchet; intent on performing some
 impossibilities with that implement.
 
@@ -30,10 +30,10 @@ impossibilities with that implement.
 the better down. We can build the oven in the afternoon. There never was
 such a handy spot for clay as Eden is. That’s convenient, anyhow.’
 
-But Martin gave him no answer. He had sat the whole time with his head
+But Martin gave him no answer. He had sat the whole [[Time|time]] with his head
 upon his hands, gazing at the current as it rolled swiftly by; thinking,
-perhaps, how fast it moved towards the open sea, the high road to the
-home he never would behold again.
+perhaps, how fast it moved towards the open sea, the high [[Road|road]] to the
+[[Home|home]] he never would behold again.
 
 Not even the vigorous strokes which Mark dealt at the tree awoke him
 from his mournful meditation. Finding all his endeavours to rouse him of
@@ -56,10 +56,10 @@ Scadder?’
 ought to be attended to.’
 
 ‘Don’t mind me,’ said Martin. ‘Do the best you can for yourself. You’ll
-soon have only yourself to consider. And then God speed you home, and
+soon have only yourself to consider. And then God [[Speed|speed]] you [[Home|home]], and
 forgive me for bringing you here! I am destined to die in this place. I
 felt it the instant I set foot upon the shore. Sleeping or waking, Mark,
-I dreamed it all last night.’
+I dreamed it all last [[Night|night]].’
 
 ‘I said you must be ill,’ returned Mark, tenderly, ‘and now I’m sure of
 it. A touch of fever and ague caught on these rivers, I dare say; but
@@ -81,5 +81,5 @@ had got a little distance, and looked back; then hurried on again.
 chest by way of reviver, ‘just you attend to what I’ve got to say.
 Things is looking about as bad as they CAN look, young man. You’ll not
 have such another opportunity for showing your jolly disposition, my
-fine fellow, as long as you live. And therefore, Tapley, Now’s your time
+fine fellow, as long as you live. And therefore, Tapley, Now’s your [[Time|time]]
 to come out strong; or Never!’

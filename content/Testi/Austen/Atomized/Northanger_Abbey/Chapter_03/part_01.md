@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 2 (part 1)"
+title: "[[Northanger Abbey]] — Chapter 2 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER 2
 
 
 
-In addition to what has been already said of Catherine Morland’s
+In addition to what has been already said of [[Catherine Morland]]’s
 
 personal and mental endowments, when about to be launched into all the
 
@@ -50,15 +50,15 @@ alarming presentiments of evil to her beloved Catherine from this
 
 terrific separation must oppress her heart with sadness, and drown her
 
-in tears for the last day or two of their being together; and advice of
+in [[Tears|tears]] for the last day or two of their being together; and advice of
 
-the most important and applicable nature must of course flow from her
+the most important and applicable [[Nature|nature]] must of course flow from her
 
 wise lips in their parting conference in her closet. Cautions against
 
 the violence of such noblemen and baronets as delight in forcing young
 
-ladies away to some remote farm-house, must, at such a moment, relieve
+ladies away to some remote farm-[[house]], must, at such a moment, relieve
 
 the fulness of her heart. Who would not think so? But Mrs. Morland knew
 
@@ -70,7 +70,7 @@ her daughter from their machinations. Her cautions were confined to the
 
 following points. “I beg, Catherine, you will always wrap yourself up
 
-very warm about the throat, when you come from the Rooms at night; and
+very warm about the throat, when you come from the Rooms at [[Night|night]]; and
 
 I wish you would try to keep some account of the money you spend; I
 
@@ -82,7 +82,7 @@ Sally, or rather Sarah (for what young lady of common gentility will
 
 reach the age of sixteen without altering her name as far as she can?),
 
-must from situation be at this time the intimate friend and confidante
+must from situation be at this [[Time|time]] the intimate friend and confidante
 
 of her sister. It is remarkable, however, that she neither insisted on
 
@@ -92,7 +92,7 @@ transmitting the character of every new acquaintance, nor a detail of
 
 every interesting conversation that Bath might produce. Everything
 
-indeed relative to this important journey was done, on the part of the
+indeed relative to this important [[Journey|journey]] was done, on the part of the
 
 Morlands, with a degree of moderation and composure, which seemed
 
@@ -112,13 +112,13 @@ guineas, and promised her more when she wanted it.
 
 Under these unpromising auspices, the parting took place, and the
 
-journey began. It was performed with suitable quietness and uneventful
+[[Journey|journey]] began. It was performed with suitable quietness and uneventful
 
 safety. Neither robbers nor tempests befriended them, nor one lucky
 
-overturn to introduce them to the hero. Nothing more alarming occurred
+overturn to introduce them to the [[Hero|hero]]. Nothing more alarming occurred
 
-than a fear, on Mrs. Allen’s side, of having once left her clogs behind
+than a [[Fear|fear]], on Mrs. Allen’s side, of having once left her clogs behind
 
 her at an inn, and that fortunately proved to be groundless.
 
@@ -150,7 +150,7 @@ probably, contribute to reduce poor Catherine to all the desperate
 
 wretchedness of which a last volume is capable—whether by her
 
-imprudence, vulgarity, or jealousy—whether by intercepting her letters,
+imprudence, vulgarity, or [[Jealousy|jealousy]]—whether by intercepting her letters,
 
 ruining her character, or turning her out of doors.
 
@@ -160,9 +160,9 @@ Mrs. Allen was one of that numerous class of females, whose society can
 
 raise no other emotion than surprise at there being any men in the
 
-world who could like them well enough to marry them. She had neither
+world who could like them [[Well|well]] enough to marry them. She had neither
 
-beauty, genius, accomplishment, nor manner. The air of a gentlewoman, a
+[[Beauty|beauty]], genius, accomplishment, nor manner. The air of a gentlewoman, a
 
 great deal of quiet, inactive good temper, and a trifling turn of mind
 
@@ -202,7 +202,7 @@ Mrs. Allen was so long in dressing that they did not enter the ballroom
 
 till late. The season was full, the room crowded, and the two ladies
 
-squeezed in as well as they could. As for Mr. Allen, he repaired
+squeezed in as [[Well|well]] as they could. As for Mr. Allen, he repaired
 
 directly to the card-room, and left them to enjoy a mob by themselves.
 

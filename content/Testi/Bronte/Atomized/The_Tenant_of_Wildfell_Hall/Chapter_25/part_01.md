@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 25 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 25 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,15 +20,15 @@ tags:
 
 
 
-On the eighth of April we went to London, on the eighth of May I
+On the eighth of April we went to [[London]], on the eighth of May I
 
-returned, in obedience to Arthur’s wish; very much against my own,
+returned, in obedience to [[arthur|Arthur]]’s wish; very much against my own,
 
 because I left him behind. If he had come with me, I should have been
 
-very glad to get home again, for he led me such a round of restless
+very glad to get [[Home|home]] again, for he led me such a round of restless
 
-dissipation while there, that, in that short space of time, I was quite
+dissipation while there, that, in that short space of [[Time|time]], I was quite
 
 tired out. He seemed bent upon displaying me to his friends and
 
@@ -36,7 +36,7 @@ acquaintances in particular, and the public in general, on every
 
 possible occasion, and to the greatest possible advantage. It was
 
-something to feel that he considered me a worthy object of pride; but I
+something to feel that he considered me a worthy object of [[Pride|pride]]; but I
 
 paid dear for the gratification: for, in the first place, to please him
 
@@ -50,7 +50,7 @@ just as I had, long since, determined I would never do—and this was no
 
 trifling sacrifice; in the second place, I was continually straining to
 
-satisfy his sanguine expectations and do honour to his choice by my
+satisfy his sanguine expectations and do [[Honour|honour]] to his choice by my
 
 general conduct and deportment, and fearing to disappoint him by some
 
@@ -64,9 +64,9 @@ place, as I intimated before, I was wearied of the throng and bustle,
 
 the restless hurry and ceaseless change of a life so alien to all my
 
-previous habits. At last, he suddenly discovered that the London air
+previous habits. At last, he suddenly discovered that the [[London]] air
 
-did not agree with me, and I was languishing for my country home, and
+did not agree with me, and I was languishing for my country [[Home|home]], and
 
 must immediately return to Grassdale.
 
@@ -74,7 +74,7 @@ must immediately return to Grassdale.
 
 I laughingly assured him that the case was not so urgent as he appeared
 
-to think it, but I was quite willing to go home if he was. He replied
+to think it, but I was quite willing to go [[Home|home]] if he was. He replied
 
 that he should be obliged to remain a week or two longer, as he had
 
@@ -90,7 +90,7 @@ business that required his presence.
 
 
 
-“But I can’t do with you, Helen,” was his answer: “as long as you stay
+“But I can’t do with you, [[Helen]],” was his answer: “as long as you stay
 
 I shall attend to you and neglect my business.”
 
@@ -100,11 +100,11 @@ I shall attend to you and neglect my business.”
 
 to attend to, I shall insist upon your attending to it, and letting me
 
-alone; and, to tell the truth, I shall be glad of a little rest. I can
+[[Alone|alone]]; and, to tell the [[Truth|truth]], I shall be glad of a little rest. I can
 
 take my rides and walks in the Park as usual; and your business cannot
 
-occupy all your time: I shall see you at meal-times, and in the
+occupy all your [[Time|time]]: I shall see you at meal-times, and in the
 
 evenings at least, and that will be better than being leagues away and
 
@@ -112,7 +112,7 @@ never seeing you at all.”
 
 
 
-“But, my love, I cannot let you stay. How can I settle my affairs when
+“But, my [[Love|love]], I cannot let you stay. How can I settle my affairs when
 
 I know that you are here, neglected—?”
 
@@ -120,11 +120,11 @@ I know that you are here, neglected—?”
 
 “I shall not feel myself neglected: while you are doing your duty,
 
-Arthur, I shall never complain of neglect. If you had told me before,
+[[arthur|Arthur]], I shall never complain of neglect. If you had told me before,
 
 that you had anything to do, it would have been half done before this;
 
-and now you must make up for lost time by redoubled exertions. Tell me
+and now you must make up for lost [[Time|time]] by redoubled exertions. Tell me
 
 what it is; and I will be your taskmaster, instead of being a
 
@@ -132,11 +132,11 @@ hindrance.”
 
 
 
-“No, no,” persisted the impracticable creature; “you _must_ go home,
+“No, no,” persisted the impracticable creature; “you _must_ go [[Home|home]],
 
-Helen; I must have the satisfaction of knowing that you are safe and
+[[Helen]]; I must have the satisfaction of knowing that you are safe and
 
-well, though far away. Your bright eyes are faded, and that tender,
+[[Well|well]], though far away. Your bright eyes are faded, and that tender,
 
 delicate bloom has quite deserted your cheek.”
 
@@ -146,15 +146,15 @@ delicate bloom has quite deserted your cheek.”
 
 
 
-“It is not, I tell you; it is the London air: you are pining for the
+“It is not, I tell you; it is the [[London]] air: you are pining for the
 
-fresh breezes of your country home, and you shall feel them before you
+fresh breezes of your country [[Home|home]], and you shall feel them before you
 
-are two days older. And remember your situation, dearest Helen; on your
+are two days older. And remember your situation, dearest [[Helen]]; on your
 
 health, you know, depends the health, if not the life, of our future
 
-hope.”
+[[Hope|hope]].”
 
 
 
@@ -168,13 +168,13 @@ then return. I shall not be absent above a week or fortnight at most.”
 
 
 
-“But if I must go, I will go alone: if you must stay, it is needless to
+“But if I must go, I will go [[Alone|alone]]: if you must stay, it is needless to
 
-waste your time in the journey there and back.”
+waste your [[Time|time]] in the [[Journey|journey]] there and back.”
 
 
 
-But he did not like the idea of sending me alone.
+But he did not like the idea of sending me [[Alone|alone]].
 
 
 
@@ -184,7 +184,7 @@ cannot trust me to go a hundred miles in our own carriage, with our own
 
 footman and a maid to attend me? If you come with me I shall assuredly
 
-keep you. But tell me, Arthur, what _is_ this tiresome business; and
+keep you. But tell me, [[arthur|Arthur]], what _is_ this tiresome business; and
 
 why did you never mention it before?”
 
@@ -202,13 +202,13 @@ could not clearly understand how that should keep him in town a
 
 fortnight after me. Still less can I now comprehend how it should keep
 
-him a month, for it is nearly that time since I left him, and no signs
+him a month, for it is nearly that [[Time|time]] since I left him, and no signs
 
 of his return as yet. In every letter he promises to be with me in a
 
-few days, and every time deceives me, or deceives himself. His excuses
+few days, and every [[Time|time]] deceives me, or deceives himself. His excuses
 
-are vague and insufficient. I cannot doubt that he has got among his
+are vague and insufficient. I cannot [[Doubt|doubt]] that he has got among his
 
 former companions again. Oh, why did I leave him! I wish—I do intensely
 
@@ -216,9 +216,9 @@ wish he would return!
 
 
 
-June 29th.—No Arthur yet; and for many days I have been looking and
+June 29th.—No [[arthur|Arthur]] yet; and for many days I have been looking and
 
-longing in vain for a letter. His letters, when they come, are kind, if
+[[Longing|longing]] in vain for a letter. His letters, when they come, are kind, if
 
 fair words and endearing epithets can give them a claim to the
 
@@ -234,7 +234,7 @@ me!
 
 
 
-Oh, it is cruel to leave me so long alone! He knows I have no one but
+Oh, it is cruel to leave me so long [[Alone|alone]]! He knows I have no one but
 
 Rachel to speak to, for we have no neighbours here, except the
 

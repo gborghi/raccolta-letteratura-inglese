@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 1)"
+title: "[[Martin Chuzzlewit]] — Chapter 23: TWENTY THREE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -21,11 +21,11 @@ OCCASION INVOLVES SOME FURTHER ACCOUNT OF EDEN
 
 
 There happened to be on board the steamboat several gentlemen
-passengers, of the same stamp as Martin’s New York friend Mr Bevan; and
-in their society he was cheerful and happy. They released him as well
+passengers, of the same stamp as Martin’s [[New York]] friend Mr Bevan; and
+in their society he was cheerful and happy. They released him as [[Well|well]]
 as they could from the intellectual entanglements of Mrs Hominy;
 and exhibited, in all they said and did, so much good sense and high
-feeling, that he could not like them too well. ‘If this were a republic
+feeling, that he could not like them too [[Well|well]]. ‘If this were a republic
 of Intellect and Worth,’ he said, ‘instead of vapouring and jobbing,
 they would not want the levers to keep it in motion.’
 
@@ -49,9 +49,9 @@ of my words, now!’
 
 ‘You seem to be growing profoundly sagacious!’ cried Martin, laughing.
 
-‘Whether that is,’ thought Mark, ‘because I’m a day’s journey nearer
+‘Whether that is,’ thought Mark, ‘because I’m a day’s [[Journey|journey]] nearer
 Eden, and am brightening up afore I die, I can’t say. P’rhaps by the
-time I get there I shall have growed into a prophet.’
+[[Time|time]] I get there I shall have growed into a [[Prophet|prophet]].’
 
 He gave no utterance to these sentiments; but the excessive joviality
 they inspired within him, and the merriment they brought upon his
@@ -59,42 +59,42 @@ shining face, were quite enough for Martin. Although he might sometimes
 profess to make light of his partner’s inexhaustible cheerfulness,
 and might sometimes, as in the case of Zephaniah Scadder, find him
 too jocose a commentator, he was always sensible of the effect of his
-example in rousing him to hopefulness and courage. Whether he were in
-the humour to profit by it, mattered not a jot. It was contagious, and
+example in rousing him to hopefulness and [[Courage|courage]]. Whether he were in
+the [[Humour|humour]] to profit by it, mattered not a jot. It was contagious, and
 he could not choose but be affected.
 
 At first they parted with some of their passengers once or twice a day,
 and took in others to replace them. But by degrees, the towns upon their
 route became more thinly scattered; and for many hours together they
 would see no other habitations than the huts of the wood-cutters, where
-the vessel stopped for fuel. Sky, wood, and water all the livelong day;
+the vessel stopped for fuel. Sky, wood, and [[Water|water]] all the livelong day;
 and heat that blistered everything it touched.
 
 On they toiled through great solitudes, where the trees upon the banks
 grew thick and close; and floated in the stream; and held up shrivelled
-arms from out the river’s depths; and slid down from the margin of the
-land, half growing, half decaying, in the miry water. On through the
-weary day and melancholy night; beneath the burning sun, and in the mist
+arms from out the [[River|river]]’s depths; and slid down from the margin of the
+land, half growing, half decaying, in the miry [[Water|water]]. On through the
+weary day and [[Melancholy|melancholy]] [[Night|night]]; beneath the burning sun, and in the mist
 and vapour of the evening; on, until return appeared impossible, and
-restoration to their home a miserable dream.
+restoration to their [[Home|home]] a miserable dream.
 
 They had now but few people on board, and these few were as flat, as
 dull, and stagnant, as the vegetation that oppressed their eyes. No
-sound of cheerfulness or hope was heard; no pleasant talk beguiled
-the tardy time; no little group made common cause against the full
+sound of cheerfulness or [[Hope|hope]] was heard; no pleasant talk beguiled
+the tardy [[Time|time]]; no little group made common cause against the full
 depression of the scene. But that, at certain periods, they swallowed
 food together from a common trough, it might have been old Charon’s
-boat, conveying melancholy shades to judgment.
+boat, conveying [[Melancholy|melancholy]] shades to judgment.
 
 At length they drew near New Thermopylae; where, that same evening, Mrs
 Hominy would disembark. A gleam of comfort sunk into Martin’s bosom when
 she told him this. Mark needed none; but he was not displeased.
 
-It was almost night when they came alongside the landing-place. A steep
+It was almost [[Night|night]] when they came alongside the landing-place. A steep
 bank with an hotel like a barn on the top of it; a wooden store or two;
 and a few scattered sheds.
 
-‘You sleep here to-night, and go on in the morning, I suppose, ma’am?’
+‘You [[Sleep|sleep]] here to-[[Night|night]], and go on in the morning, I suppose, ma’am?’
 said Martin.
 
 ‘Where should I go on to?’ cried the mother of the modern Gracchi.
@@ -116,17 +116,17 @@ Hominy, nodding her head with great expression.
 The married Miss Hominy, who had come on board with her husband, gave to
 this statement her most unqualified support, as did that gentleman also.
 Martin gratefully declined their invitation to regale himself at their
-house during the half hour of the vessel’s stay; and having escorted
+[[house]] during the half hour of the vessel’s stay; and having escorted
 Mrs Hominy and the red pocket-handkerchief (which was still on active
 service) safely across the gangway, returned in a thoughtful mood to
 watch the emigrants as they removed their goods ashore.
 
-Mark, as he stood beside him, glanced in his face from time to time;
+Mark, as he stood beside him, glanced in his face from [[Time|time]] to [[Time|time]];
 anxious to discover what effect this dialogue had had upon him, and
 not unwilling that his hopes should be dashed before they reached their
 destination, so that the blow he feared might be broken in its fall. But
 saving that he sometimes looked up quickly at the poor erections on the
-hill, he gave him no clue to what was passing in his mind, until they
+[[Hill|hill]], he gave him no clue to what was passing in his mind, until they
 were again upon their way.
 
 ‘Mark,’ he said then, ‘are there really none but ourselves on board this

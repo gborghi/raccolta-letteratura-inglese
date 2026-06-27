@@ -32,19 +32,19 @@ tags:
 
       existence may be held. But now that the silent, definite, and
 
-      stern nature of the business in which I was engaged (so different
+      stern [[Nature|nature]] of the business in which I was engaged (so different
 
-      from the tumultuous dangers of the storm or the gradually
+      from the tumultuous dangers of the [[Storm|storm]] or the gradually
 
       approaching horrors of famine) allowed me to reflect on the few
 
-      chances I had of escaping the most appalling of deaths—a death
+      chances I had of escaping the most appalling of deaths—a [[Death|death]]
 
       for the most appalling of purposes—every particle of that energy
 
       which had so long buoyed me up departed like feathers before the
 
-      wind, leaving me a helpless prey to the most abject and pitiable
+      [[Wind|wind]], leaving me a helpless prey to the most abject and pitiable
 
       terror. I could not, at first, even summon up sufficient strength
 
@@ -60,13 +60,13 @@ tags:
 
       and entreating them to let me escape this necessity; of suddenly
 
-      rushing upon them, and, by putting one of them to death, of
+      rushing upon them, and, by putting one of them to [[Death|death]], of
 
       rendering the decision by lot useless—in short, of every thing
 
       but of going through with the matter I had in hand. At last,
 
-      after wasting a long time in this imbecile conduct, I was
+      after wasting a long [[Time|time]] in this imbecile conduct, I was
 
       recalled to my senses by the voice of Parker, who urged me to
 
@@ -140,9 +140,9 @@ tags:
 
 
 
-      I recovered from my swoon in time to behold the consummation of
+      I recovered from my swoon in [[Time|time]] to behold the consummation of
 
-      the tragedy in the death of him who had been chiefly instrumental
+      the [[Tragedy|tragedy]] in the [[Death|death]] of him who had been chiefly instrumental
 
       in bringing it about. He made no resistance whatever, and was
 
@@ -156,13 +156,13 @@ tags:
 
       suffice to say that, having in some measure appeased the raging
 
-      thirst which consumed us by the blood of the victim, and having
+      thirst which consumed us by the [[Blood|blood]] of the victim, and having
 
       by common consent taken off the hands, feet, and head, throwing
 
       them together with the entrails, into the sea, we devoured the
 
-      rest of the body, piecemeal, during the four ever memorable days
+      rest of the [[Body|body]], piecemeal, during the four ever memorable days
 
       of the seventeenth, eighteenth, nineteenth, and twentieth of the
 
@@ -172,7 +172,7 @@ tags:
 
       On the nineteenth, there coming on a smart shower which lasted
 
-      fifteen or twenty minutes, we contrived to catch some water by
+      fifteen or twenty minutes, we contrived to catch some [[Water|water]] by
 
       means of a sheet which had been fished up from the cabin by our
 
@@ -180,7 +180,7 @@ tags:
 
       amount to more than half a gallon; but even this scanty allowance
 
-      supplied us with comparative strength and hope.
+      supplied us with comparative strength and [[Hope|hope]].
 
 
 
@@ -198,6 +198,6 @@ tags:
 
       through my mind all at once an idea which inspired me with a
 
-      bright gleam of hope. I remembered that, when the foremast had
+      bright gleam of [[Hope|hope]]. I remembered that, when the foremast had
 
-      been cut away, Peters, being in the windward chains, passed one
+      been cut away, Peters, being in the windward [[Chains|chains]], passed one

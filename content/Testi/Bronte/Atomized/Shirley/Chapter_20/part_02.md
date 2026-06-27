@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 20 (part 2)"
+title: "[[Shirley]] — Chapter 20 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -20,7 +20,7 @@ publisher's."
 
 "To be sure. You could not write cleverly enough. You don't know enough.
 
-You are not learned, Shirley."
+You are not learned, [[Shirley]]."
 
 
 
@@ -34,7 +34,7 @@ They descended to breakfast.
 
 
 
-"I wonder how Mrs. Pryor and Hortense Moore have passed the night," said
+"I [[Wonder|wonder]] how Mrs. Pryor and Hortense Moore have passed the [[Night|night]]," said
 
 Caroline, as she made the coffee. "Selfish being that I am, I never
 
@@ -42,27 +42,27 @@ thought of either of them till just now. They will have heard all the
 
 tumult, Fieldhead and the cottage are so near; and Hortense is timid in
 
-such matters--so, no doubt, is Mrs. Pryor."
+such matters--so, no [[Doubt|doubt]], is Mrs. Pryor."
 
 
 
 "Take my word for it, Lina, Moore will have contrived to get his sister
 
-out of the way. She went home with Miss Mann. He will have quartered
+out of the way. She went [[Home|home]] with Miss Mann. He will have quartered
 
-her there for the night. As to Mrs. Pryor, I own I am uneasy about her;
+her there for the [[Night|night]]. As to Mrs. Pryor, I own I am uneasy about her;
 
 but in another half-hour we will be with her."
 
 
 
-By this time the news of what had happened at the Hollow was spread all
+By this [[Time|time]] the news of what had happened at the Hollow was spread all
 
 over the neighbourhood. Fanny, who had been to Fieldhead to fetch the
 
 milk, returned in panting haste with tidings that there had been a
 
-battle in the night at Mr. Moore's mill, and that some said twenty men
+battle in the [[Night|night]] at Mr. Moore's mill, and that some said twenty men
 
 were killed. Eliza, during Fanny's absence, had been apprised by the
 
@@ -74,7 +74,7 @@ terminating their clear and accurate narrative by the assertion that
 
 they were sure master must have been in it all. He and Thomas, the
 
-clerk, they were confident, must have gone last night to join Mr. Moore
+clerk, they were confident, must have gone last [[Night|night]] to join Mr. Moore
 
 and the soldiers. Mr. Malone, too, had not been heard of at his lodgings
 
@@ -90,19 +90,19 @@ announced the Fieldhead errand-boy, arrived in hot haste, bearing a
 
 billet from Mrs. Pryor. It was hurriedly written, and urged Miss Keeldar
 
-to return directly, as the neighbourhood and the house seemed likely to
+to return directly, as the neighbourhood and the [[house]] seemed likely to
 
 be all in confusion, and orders would have to be given which the
 
-mistress of the hall alone could regulate. In a postscript it was
+mistress of the hall [[Alone|alone]] could regulate. In a postscript it was
 
-entreated that Miss Helstone might not be left alone at the rectory. She
+entreated that Miss Helstone might not be left [[Alone|alone]] at the rectory. She
 
 had better, it was suggested, accompany Miss Keeldar.
 
 
 
-"There are not two opinions on that head," said Shirley, as she tied on
+"There are not two opinions on that head," said [[Shirley]], as she tied on
 
 her own bonnet, and then ran to fetch Caroline's.
 
@@ -116,7 +116,7 @@ her own bonnet, and then ran to fetch Caroline's.
 
 galloping backwards and forwards from Briarfield to Stilbro' all day,
 
-rousing the magistrates in the court-house and the officers at the
+rousing the magistrates in the [[Court|court]]-[[house]] and the officers at the
 
 barracks; and Fanny and Eliza can have in Joe Scott's and the clerk's
 
@@ -126,21 +126,21 @@ to be apprehended now. Weeks will elapse before the rioters can again
 
 rally, or plan any other attempt; and I am much mistaken if Moore and
 
-Mr. Helstone will not take advantage of last night's outbreak to quell
+Mr. Helstone will not take advantage of last [[Night|night]]'s outbreak to quell
 
 them altogether. They will frighten the authorities of Stilbro' into
 
-energetic measures. I only hope they will not be too severe--not pursue
+energetic measures. I only [[Hope|hope]] they will not be too severe--not pursue
 
 the discomfited too relentlessly."
 
 
 
-"Robert will not be cruel. We saw that last night," said Caroline.
+"Robert will not be cruel. We saw that last [[Night|night]]," said Caroline.
 
 
 
-"But he will be hard," retorted Shirley; "and so will your uncle."
+"But he will be hard," retorted [[Shirley]]; "and so will your uncle."
 
 
 
@@ -152,7 +152,7 @@ equestrians and pedestrians, tending in the direction of the usually
 
 solitary Hollow. On reaching the hall, they found the backyard gates
 
-open, and the court and kitchen seemed crowded with excited
+open, and the [[Court|court]] and kitchen seemed crowded with excited
 
 milk-fetchers--men, women, and children--whom Mrs. Gill, the
 
@@ -162,7 +162,7 @@ depart. (It _is_, or _was_, by-the-bye, the custom in the north of
 
 England for the cottagers on a country squire's estate to receive their
 
-supplies of milk and butter from the dairy of the manor house, on whose
+supplies of milk and butter from the dairy of the manor [[house]], on whose
 
 pastures a herd of milch kine was usually fed for the convenience of the
 
@@ -174,7 +174,7 @@ Airedale; and very proud she was of their sleek aspect and high
 
 condition.) Seeing now the state of matters, and that it was desirable
 
-to effect a clearance of the premises, Shirley stepped in amongst the
+to effect a clearance of the premises, [[Shirley]] stepped in amongst the
 
 gossiping groups. She bade them good-morning with a certain frank,
 
@@ -198,11 +198,11 @@ mistress," replied a man.
 
 
 
-"Talking a bit! Just like you!" said Shirley. "It is a queer thing all
+"Talking a bit! Just like you!" said [[Shirley]]. "It is a queer thing all
 
 the world is so fond of _talking_ over events. You _talk_ if anybody
 
-dies suddenly; you _talk_ if a fire breaks out; you _talk_ if a
+dies suddenly; you _talk_ if a [[Fire|fire]] breaks out; you _talk_ if a
 
 mill-owner fails; you _talk_ if he's murdered. What good does your
 
@@ -230,4 +230,4 @@ salutation won her the ear of the whole throng in a second.
 
 gossip-loving as the idle. Fine, rich people that have nothing to do may
 
-be partly excused for trifling their time away; you who have to earn
+be partly excused for trifling their [[Time|time]] away; you who have to earn

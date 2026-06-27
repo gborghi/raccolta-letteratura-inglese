@@ -19,19 +19,19 @@ Chapter 5
 THE GOLDEN DUSTMAN FALLS INTO BAD COMPANY
 
 
-Were Bella Wilfer’s bright and ready little wits at fault, or was the
+Were [[Bella Wilfer]]’s bright and ready little wits at fault, or was the
 Golden Dustman passing through the furnace of proof and coming out
 dross? Ill news travels fast. We shall know full soon.
 
-On that very night of her return from the Happy Return, something
+On that very [[Night|night]] of her return from the Happy Return, something
 chanced which Bella closely followed with her eyes and ears. There was
 an apartment at the side of the Boffin mansion, known as Mr Boffin’s
-room. Far less grand than the rest of the house, it was far more
+room. Far less grand than the rest of the [[house]], it was far more
 comfortable, being pervaded by a certain air of homely snugness, which
 upholstering despotism had banished to that spot when it inexorably set
-its face against Mr Boffin’s appeals for mercy in behalf of any other
+its face against Mr Boffin’s appeals for [[Mercy|mercy]] in behalf of any other
 chamber. Thus, although a room of modest situation—for its windows gave
-on Silas Wegg’s old corner—and of no pretensions to velvet, satin, or
+on [[Silas Wegg]]’s old corner—and of no pretensions to velvet, satin, or
 gilding, it had got itself established in a domestic position analogous
 to that of an easy dressing-gown or pair of slippers; and whenever the
 family wanted to enjoy a particularly pleasant fireside evening, they
@@ -54,25 +54,25 @@ Bella took her book to a chair in the fireside corner, by Mrs Boffin’s
 work-table. Mr Boffin’s station was on the opposite side.
 
 ‘Now, Rokesmith,’ said the Golden Dustman, so sharply rapping the table
-to bespeak his attention as Bella turned the leaves of her book, that
+to bespeak his attention as Bella turned the [[Leaves|leaves]] of her book, that
 she started; ‘where were we?’
 
 ‘You were saying, sir,’ returned the Secretary, with an air of some
 reluctance and a glance towards those others who were present, ‘that you
-considered the time had come for fixing my salary.’
+considered the [[Time|time]] had come for fixing my salary.’
 
 ‘Don’t be above calling it wages, man,’ said Mr Boffin, testily. ‘What
 the deuce! I never talked of any salary when I was in service.’
 
 ‘My wages,’ said the Secretary, correcting himself.
 
-‘Rokesmith, you are not proud, I hope?’ observed Mr Boffin, eyeing him
+‘Rokesmith, you are not proud, I [[Hope|hope]]?’ observed Mr Boffin, eyeing him
 askance.
 
-‘I hope not, sir.’
+‘I [[Hope|hope]] not, sir.’
 
-‘Because I never was, when I was poor,’ said Mr Boffin. ‘Poverty and
-pride don’t go at all well together. Mind that. How can they go well
+‘Because I never was, when I was poor,’ said Mr Boffin. ‘[[Poverty]] and
+[[Pride|pride]] don’t go at all [[Well|well]] together. Mind that. How can they go [[Well|well]]
 together? Why it stands to reason. A man, being poor, has nothing to be
 proud of. It’s nonsense.’
 
@@ -85,7 +85,7 @@ the Secretary seemed to assent by forming the syllables of the word
 The Secretary sat down.
 
 ‘Why didn’t you sit down before?’ asked Mr Boffin, distrustfully. ‘I
-hope that wasn’t pride? But about these wages. Now, I’ve gone into the
+[[Hope|hope]] that wasn’t [[Pride|pride]]? But about these wages. Now, I’ve gone into the
 matter, and I say two hundred a year. What do you think of it? Do you
 think it’s enough?’
 
@@ -110,10 +110,10 @@ regarding what I buy for two hundred a year. If I pay for a sheep, I buy
 it out and out. Similarly, if I pay for a secretary, I buy HIM out and
 out.’
 
-‘In other words, you purchase my whole time?’
+‘In other words, you purchase my whole [[Time|time]]?’
 
 ‘Certainly I do. Look here,’ said Mr Boffin, ‘it ain’t that I want to
-occupy your whole time; you can take up a book for a minute or two when
+occupy your whole [[Time|time]]; you can take up a book for a minute or two when
 you’ve nothing better to do, though I think you’ll a’most always find
 something useful to do. But I want to keep you in attendance. It’s
 convenient to have you at all times ready on the premises. Therefore,
@@ -136,7 +136,7 @@ showed a sense of humiliation.
 and when I want you, I’ll touch it. I don’t call to mind that I have
 anything more to say at the present moment.’
 
-The Secretary rose, gathered up his papers, and withdrew. Bella’s eyes
+The Secretary [[Rose|rose]], gathered up his papers, and withdrew. Bella’s eyes
 followed him to the door, lighted on Mr Boffin complacently thrown back
 in his easy chair, and drooped over her book.
 
@@ -156,13 +156,13 @@ and she turned the page with an air of profound absorption in it.
 ‘My dear,’ returned the Golden Dustman, stopping short in his trot.
 
 ‘Excuse my putting it to you, Noddy, but now really! Haven’t you been
-a little strict with Mr Rokesmith to-night? Haven’t you been a
-little—just a little little—not quite like your old self?’
+a little strict with Mr Rokesmith to-[[Night|night]]? Haven’t you been a
+little—just a little little—not quite like your old [[Self|self]]?’
 
-‘Why, old woman, I hope so,’ returned Mr Boffin, cheerfully, if not
+‘Why, old woman, I [[Hope|hope]] so,’ returned Mr Boffin, cheerfully, if not
 boastfully.
 
-‘Hope so, deary?’
+‘[[Hope]] so, deary?’
 
 ‘Our old selves wouldn’t do here, old lady. Haven’t you found that out
 yet? Our old selves would be fit for nothing here but to be robbed and
@@ -170,27 +170,27 @@ imposed upon. Our old selves weren’t people of fortune; our new selves
 are; it’s a great difference.’
 
 ‘Ah!’ said Mrs Boffin, pausing in her work again, softly to draw a long
-breath and to look at the fire. ‘A great difference.’
+breath and to look at the [[Fire|fire]]. ‘A great difference.’
 
 ‘And we must be up to the difference,’ pursued her husband; ‘we must be
 equal to the change; that’s what we must be. We’ve got to hold our own
 now, against everybody (for everybody’s hand is stretched out to be
 dipped into our pockets), and we have got to recollect that money makes
-money, as well as makes everything else.’
+money, as [[Well|well]] as makes everything else.’
 
 ‘Mentioning recollecting,’ said Mrs Boffin, with her work abandoned,
-her eyes upon the fire, and her chin upon her hand, ‘do you recollect,
+her eyes upon the [[Fire|fire]], and her chin upon her hand, ‘do you recollect,
 Noddy, how you said to Mr Rokesmith when he first came to see us at the
 Bower, and you engaged him—how you said to him that if it had pleased
-Heaven to send John Harmon to his fortune safe, we could have been
+Heaven to send [[John Harmon]] to his fortune safe, we could have been
 content with the one Mound which was our legacy, and should never have
 wanted the rest?’
 
 ‘Ay, I remember, old lady. But we hadn’t tried what it was to have the
-rest then. Our new shoes had come home, but we hadn’t put ’em on. We’re
+rest then. Our new shoes had come [[Home|home]], but we hadn’t put ’em on. We’re
 wearing ’em now, we’re wearing ’em, and must step out accordingly.’
 
-Mrs Boffin took up her work again, and plied her needle in silence.
+Mrs Boffin took up her work again, and plied her needle in [[Silence|silence]].
 
 ‘As to Rokesmith, that young man of mine,’ said Mr Boffin, dropping
 his voice and glancing towards the door with an apprehension of being
@@ -217,12 +217,12 @@ single word!
 right, that’s right. Especially as you have no call to be told how to
 value yourself, my dear.’
 
-Colouring a little under this compliment, Bella returned, ‘I hope sir,
+Colouring a little under this compliment, Bella returned, ‘I [[Hope|hope]] sir,
 you don’t think me vain?’
 
 ‘Not a bit, my dear,’ said Mr Boffin. ‘But I think it’s very creditable
-in you, at your age, to be so well up with the pace of the world, and to
-know what to go in for. You are right. Go in for money, my love. Money’s
+in you, at your age, to be so [[Well|well]] up with the pace of the world, and to
+know what to go in for. You are right. Go in for money, my [[Love|love]]. Money’s
 the article. You’ll make money of your good looks, and of the money Mrs
 Boffin and me will have the pleasure of settling upon you, and you’ll
 live and die rich. That’s the state to live and die in!’ said Mr Boffin,
@@ -249,18 +249,18 @@ that your own father has not a truer interest in you and can hardly like
 you better than he does.’
 
 ‘Says too!’ cried Mr Boffin. ‘Whatever he says! Why, I say so, openly.
-Give me a kiss, my dear child, in saying Good Night, and let me confirm
+Give me a kiss, my dear [[Child|child]], in saying Good [[Night]], and let me confirm
 what my old lady tells you. I am very fond of you, my dear, and I am
 entirely of your mind, and you and I will take care that you shall be
 rich. These good looks of yours (which you have some right to be vain
 of; my dear, though you are not, you know) are worth money, and you
 shall make money of ’em. The money you will have, will be worth money,
 and you shall make money of that too. There’s a golden ball at your
-feet. Good night, my dear.’
+feet. Good [[Night|night]], my dear.’
 
-Somehow, Bella was not so well pleased with this assurance and this
+Somehow, Bella was not so [[Well|well]] pleased with this assurance and this
 prospect as she might have been. Somehow, when she put her arms
-round Mrs Boffin’s neck and said Good Night, she derived a sense of
+round Mrs Boffin’s neck and said Good [[Night]], she derived a sense of
 unworthiness from the still anxious face of that good woman and her
 obvious wish to excuse her husband. ‘Why, what need to excuse him?’
 thought Bella, sitting down in her own room. ‘What he said was very
@@ -270,51 +270,51 @@ he is my liberal benefactor, I disparage him for it. Then pray,’ said
 Bella, sternly putting the question to herself in the looking-glass as
 usual, ‘what do you mean by this, you inconsistent little Beast?’
 
-The looking-glass preserving a discreet ministerial silence when thus
+The looking-glass preserving a discreet ministerial [[Silence|silence]] when thus
 called upon for explanation, Bella went to bed with a weariness upon her
-spirit which was more than the weariness of want of sleep. And again
+spirit which was more than the weariness of want of [[Sleep|sleep]]. And again
 in the morning, she looked for the cloud, and for the deepening of the
 cloud, upon the Golden Dustman’s face.
 
-She had begun by this time to be his frequent companion in his morning
-strolls about the streets, and it was at this time that he made her a
+She had begun by this [[Time|time]] to be his frequent companion in his morning
+strolls about the streets, and it was at this [[Time|time]] that he made her a
 party to his engaging in a curious pursuit. Having been hard at work in
-one dull enclosure all his life, he had a child’s delight in looking
+one dull enclosure all his life, he had a [[Child|child]]’s delight in looking
 at shops. It had been one of the first novelties and pleasures of his
-freedom, and was equally the delight of his wife. For many years their
-only walks in London had been taken on Sundays when the shops were shut;
+[[Freedom|freedom]], and was equally the delight of his wife. For many years their
+only walks in [[London]] had been taken on Sundays when the shops were shut;
 and when every day in the week became their holiday, they derived an
-enjoyment from the variety and fancy and beauty of the display in the
+enjoyment from the variety and fancy and [[Beauty|beauty]] of the display in the
 windows, which seemed incapable of exhaustion. As if the principal
 streets were a great Theatre and the play were childishly new to them,
 Mr and Mrs Boffin, from the beginning of Bella’s intimacy in their
-house, had been constantly in the front row, charmed with all they saw
+[[house]], had been constantly in the front row, charmed with all they saw
 and applauding vigorously. But now, Mr Boffin’s interest began to centre
 in book-shops; and more than that—for that of itself would not have
 been much—in one exceptional kind of book.
 
 ‘Look in here, my dear,’ Mr Boffin would say, checking Bella’s arm at a
-bookseller’s window; ‘you can read at sight, and your eyes are as sharp
-as they’re bright. Now, look well about you, my dear, and tell me if you
+bookseller’s [[Window|window]]; ‘you can read at sight, and your eyes are as sharp
+as they’re bright. Now, look [[Well|well]] about you, my dear, and tell me if you
 see any book about a Miser.’
 
 If Bella saw such a book, Mr Boffin would instantly dart in and buy
 it. And still, as if they had not found it, they would seek out another
-book-shop, and Mr Boffin would say, ‘Now, look well all round, my
+book-shop, and Mr Boffin would say, ‘Now, look [[Well|well]] all round, my
 dear, for a Life of a Miser, or any book of that sort; any Lives of odd
 characters who may have been Misers.’
 
-Bella, thus directed, would examine the window with the greatest
+Bella, thus directed, would examine the [[Window|window]] with the greatest
 attention, while Mr Boffin would examine her face. The moment she
 pointed out any book as being entitled Lives of eccentric personages,
 Anecdotes of strange characters, Records of remarkable individuals, or
 anything to that purpose, Mr Boffin’s countenance would light up, and
 he would instantly dart in and buy it. Size, price, quality, were of no
-account. Any book that seemed to promise a chance of miserly biography,
-Mr Boffin purchased without a moment’s delay and carried home. Happening
+account. Any book that seemed to promise a chance of miserly [[Biography|biography]],
+Mr Boffin purchased without a moment’s delay and carried [[Home|home]]. Happening
 to be informed by a bookseller that a portion of the Annual Register was
 devoted to ‘Characters’, Mr Boffin at once bought a whole set of that
-ingenious compilation, and began to carry it home piecemeal, confiding
+ingenious compilation, and began to carry it [[Home|home]] piecemeal, confiding
 a volume to Bella, and bearing three himself. The completion of this
 labour occupied them about a fortnight. When the task was done, Mr
 Boffin, with his appetite for Misers whetted instead of satiated, began
@@ -327,22 +327,22 @@ about the town together, pursuing this singular research. Miserly
 literature not being abundant, the proportion of failures to successes
 may have been as a hundred to one; still Mr Boffin, never wearied,
 remained as avaricious for misers as he had been at the first onset. It
-was curious that Bella never saw the books about the house, nor did she
+was curious that Bella never saw the books about the [[house]], nor did she
 ever hear from Mr Boffin one word of reference to their contents. He
 seemed to save up his Misers as they had saved up their money. As they
 had been greedy for it, and secret about it, and had hidden it, so he
 was greedy for them, and secret about them, and hid them. But beyond all
-doubt it was to be noticed, and was by Bella very clearly noticed, that,
+[[Doubt|doubt]] it was to be noticed, and was by Bella very clearly noticed, that,
 as he pursued the acquisition of those dismal records with the ardour of
-Don Quixote for his books of chivalry, he began to spend his money with
+[[Don Quixote]] for his books of chivalry, he began to spend his money with
 a more sparing hand. And often when he came out of a shop with some new
 account of one of those wretched lunatics, she would almost shrink from
 the sly dry chuckle with which he would take her arm again and trot
 away. It did not appear that Mrs Boffin knew of this taste. He made
 no allusion to it, except in the morning walks when he and Bella were
-always alone; and Bella, partly under the impression that he took her
+always [[Alone|alone]]; and Bella, partly under the impression that he took her
 into his confidence by implication, and partly in remembrance of Mrs
-Boffin’s anxious face that night, held the same reserve.
+Boffin’s anxious face that [[Night|night]], held the same reserve.
 
 While these occurrences were in progress, Mrs Lammle made the discovery
 that Bella had a fascinating influence over her. The Lammles, originally
@@ -350,7 +350,7 @@ presented by the dear Veneerings, visited the Boffins on all grand
 occasions, and Mrs Lammle had not previously found this out; but now the
 knowledge came upon her all at once. It was a most extraordinary thing
 (she said to Mrs Boffin); she was foolishly susceptible of the power of
-beauty, but it wasn’t altogether that; she never had been able to resist
+[[Beauty|beauty]], but it wasn’t altogether that; she never had been able to resist
 a natural grace of manner, but it wasn’t altogether that; it was more
 than that, and there was no name for the indescribable extent and degree
 to which she was captivated by this charming girl.
@@ -362,17 +362,17 @@ and taste. Responding to the sentiments, by being very gracious to Mrs
 Lammle, she gave that lady the means of so improving her opportunity,
 as that the captivation became reciprocal, though always wearing an
 appearance of greater sobriety on Bella’s part than on the enthusiastic
-Sophronia’s. Howbeit, they were so much together that, for a time, the
+Sophronia’s. Howbeit, they were so much together that, for a [[Time|time]], the
 Boffin chariot held Mrs Lammle oftener than Mrs Boffin: a preference
-of which the latter worthy soul was not in the least jealous, placidly
+of which the latter worthy [[Soul|soul]] was not in the least jealous, placidly
 remarking, ‘Mrs Lammle is a younger companion for her than I am, and
 Lor! she’s more fashionable.’
 
-But between Bella Wilfer and Georgiana Podsnap there was this one
+But between [[Bella Wilfer]] and Georgiana Podsnap there was this one
 difference, among many others, that Bella was in no danger of being
 captivated by Alfred. She distrusted and disliked him. Indeed, her
 perception was so quick, and her observation so sharp, that after all
-she mistrusted his wife too, though with her giddy vanity and wilfulness
+she mistrusted his wife too, though with her giddy [[Vanity|vanity]] and wilfulness
 she squeezed the mistrust away into a corner of her mind, and blocked it
 up there.
 
@@ -382,30 +382,30 @@ Bella what kind of wealthy creatures she and Alfred had on hand, who
 would as one man fall at her feet enslaved. Fitting occasion made,
 Mrs Lammle accordingly produced the most passable of those feverish,
 boastful, and indefinably loose gentlemen who were always lounging in
-and out of the City on questions of the Bourse and Greek and Spanish and
+and out of the [[City]] on questions of the Bourse and Greek and Spanish and
 India and Mexican and par and premium and discount and three-quarters
 and seven-eighths. Who in their agreeable manner did homage to Bella
-as if she were a compound of fine girl, thorough-bred horse, well-built
+as if she were a compound of fine girl, thorough-bred [[Horse|horse]], [[Well|well]]-built
 drag, and remarkable pipe. But without the least effect, though even Mr
 Fledgeby’s attractions were cast into the scale.
 
-‘I fear, Bella dear,’ said Mrs Lammle one day in the chariot, ‘that you
+‘I [[Fear|fear]], Bella dear,’ said Mrs Lammle one day in the chariot, ‘that you
 will be very hard to please.’
 
 ‘I don’t expect to be pleased, dear,’ said Bella, with a languid turn of
 her eyes.
 
-‘Truly, my love,’ returned Sophronia, shaking her head, and smiling
+‘Truly, my [[Love|love]],’ returned Sophronia, shaking her head, and smiling
 her best smile, ‘it would not be very easy to find a man worthy of your
 attractions.’
 
 ‘The question is not a man, my dear,’ said Bella, coolly, ‘but an
 establishment.’
 
-‘My love,’ returned Mrs Lammle, ‘your prudence amazes me—where DID you
-study life so well!—you are right. In such a case as yours, the object
+‘My [[Love|love]],’ returned Mrs Lammle, ‘your prudence amazes me—where DID you
+study life so [[Well|well]]!—you are right. In such a case as yours, the object
 is a fitting establishment. You could not descend to an inadequate one
-from Mr Boffin’s house, and even if your beauty alone could not command
+from Mr Boffin’s [[house]], and even if your [[Beauty|beauty]] [[Alone|alone]] could not command
 it, it is to be assumed that Mr and Mrs Boffin will—’
 
 ‘Oh! they have already,’ Bella interposed.
@@ -417,14 +417,14 @@ withal a little defiant of her own vexation, Bella determined not to
 retreat.
 
 ‘That is to say,’ she explained, ‘they have told me they mean to portion
-me as their adopted child, if you mean that. But don’t mention it.’
+me as their adopted [[Child|child]], if you mean that. But don’t mention it.’
 
 ‘Mention it!’ replied Mrs Lammle, as if she were full of awakened
 feeling at the suggestion of such an impossibility. ‘Men-tion it!’
 
 ‘I don’t mind telling you, Mrs Lammle—’ Bella began again.
 
-‘My love, say Sophronia, or I must not say Bella.’
+‘My [[Love|love]], say Sophronia, or I must not say Bella.’
 
 With a little short, petulant ‘Oh!’ Bella complied. ‘Oh!—Sophronia
 then—I don’t mind telling you, Sophronia, that I am convinced I have
@@ -441,7 +441,7 @@ an arch look and her best smile, ‘you can’t help making a proud and an
 admiring husband. You may not care to please yourself, and you may not
 care to please him, but you are not a free agent as to pleasing: you
 are forced to do that, in spite of yourself, my dear; so it may be a
-question whether you may not as well please yourself too, if you can.’
+question whether you may not as [[Well|well]] please yourself too, if you can.’
 
 Now, the very grossness of this flattery put Bella upon proving that she
 actually did please in spite of herself. She had a misgiving that she
@@ -449,7 +449,7 @@ was doing wrong—though she had an indistinct foreshadowing that some
 harm might come of it thereafter, she little thought what consequences
 it would really bring about—but she went on with her confidence.
 
-‘Don’t talk of pleasing in spite of one’s self, dear,’ said Bella. ‘I
+‘Don’t talk of pleasing in spite of one’s [[Self|self]], dear,’ said Bella. ‘I
 have had enough of that.’
 
 ‘Ay?’ cried Mrs Lammle. ‘Am I already corroborated, Bella?’
@@ -485,7 +485,7 @@ seen him, though he is quite as visible as you are. But I pleased HIM
 ‘Are you sure of that, Sophronia?’ said Bella. ‘I am not. In fact, I am
 sure of the contrary.’
 
-‘The man must be mad,’ said Mrs Lammle, with a kind of resignation.
+‘The man must be mad,’ said Mrs Lammle, with a kind of [[Resignation|resignation]].
 
 ‘He appeared to be in his senses,’ returned Bella, tossing her head,
 ‘and he had plenty to say for himself. I told him my opinion of his
@@ -498,19 +498,19 @@ mention it.’
 ‘Mention it!’ repeated Mrs Lammle with her former feeling. ‘Men-tion
 it!’
 
-This time Sophronia was so much in earnest that she found it necessary
+This [[Time|time]] Sophronia was so much in earnest that she found it necessary
 to bend forward in the carriage and give Bella a kiss. A Judas order of
 kiss; for she thought, while she yet pressed Bella’s hand after giving
 it, ‘Upon your own showing, you vain heartless girl, puffed up by the
 doting folly of a dustman, I need have no relenting towards YOU. If my
 husband, who sends me here, should form any schemes for making YOU a
-victim, I should certainly not cross him again.’ In those very same
+victim, I should certainly not [[Cross|cross]] him again.’ In those very same
 moments, Bella was thinking, ‘Why am I always at war with myself? Why
 have I told, as if upon compulsion, what I knew all along I ought to
 have withheld? Why am I making a friend of this woman beside me, in
 spite of the whispers against her that I hear in my heart?’
 
-As usual, there was no answer in the looking-glass when she got home and
+As usual, there was no answer in the looking-glass when she got [[Home|home]] and
 referred these questions to it. Perhaps if she had consulted some better
 oracle, the result might have been more satisfactory; but she did not,
 and all things consequent marched the march before them.
@@ -519,9 +519,9 @@ On one point connected with the watch she kept on Mr Boffin, she felt
 very inquisitive, and that was the question whether the Secretary
 watched him too, and followed the sure and steady change in him, as she
 did? Her very limited intercourse with Mr Rokesmith rendered this hard
-to find out. Their communication now, at no time extended beyond the
+to find out. Their communication now, at no [[Time|time]] extended beyond the
 preservation of commonplace appearances before Mr and Mrs Boffin; and if
-Bella and the Secretary were ever left alone together by any chance,
+Bella and the Secretary were ever left [[Alone|alone]] together by any chance,
 he immediately withdrew. She consulted his face when she could do so
 covertly, as she worked or read, and could make nothing of it. He looked
 subdued; but he had acquired a strong command of feature, and, whenever
@@ -530,7 +530,7 @@ himself Mr Boffin made, the Secretary’s face changed no more than a
 wall. A slightly knitted brow, that expressed nothing but an almost
 mechanical attention, and a compression of the mouth, that might have
 been a guard against a scornful smile—these she saw from morning to
-night, from day to day, from week to week, monotonous, unvarying, set,
+[[Night|night]], from day to day, from week to week, monotonous, unvarying, set,
 as in a piece of sculpture.
 
 The worst of the matter was, that it thus fell out insensibly—and most
@@ -541,7 +541,7 @@ it be possible THAT makes no impression on him?’ Such questions Bella
 would propose to herself, often as many times in a day as there were
 hours in it. Impossible to know. Always the same fixed face.
 
-‘Can he be so base as to sell his very nature for two hundred a year?’
+‘Can he be so base as to sell his very [[Nature|nature]] for two hundred a year?’
 Bella would think. And then, ‘But why not? It’s a mere question of price
 with others besides him. I suppose I would sell mine, if I could get
 enough for it.’ And so she would come round again to the war with
@@ -549,10 +549,10 @@ herself.
 
 A kind of illegibility, though a different kind, stole over Mr
 Boffin’s face. Its old simplicity of expression got masked by a certain
-craftiness that assimilated even his good-humour to itself. His very
+craftiness that assimilated even his good-[[Humour|humour]] to itself. His very
 smile was cunning, as if he had been studying smiles among the portraits
 of his misers. Saving an occasional burst of impatience, or coarse
-assertion of his mastery, his good-humour remained to him, but it had
+assertion of his mastery, his good-[[Humour|humour]] remained to him, but it had
 now a sordid alloy of distrust; and though his eyes should twinkle and
 all his face should laugh, he would sit holding himself in his own
 arms, as if he had an inclination to hoard himself up, and must always
@@ -581,7 +581,7 @@ lied. But it brought no change of expression into the set face.
 
 ‘You are not rich, sir?’ repeated the Secretary, in measured words.
 
-‘Well,’ returned Mr Boffin, ‘if I am, that’s my business. I am not going
+‘[[Well]],’ returned Mr Boffin, ‘if I am, that’s my business. I am not going
 to spend at this rate, to please you, or anybody. You wouldn’t like it,
 if it was your money.’
 
@@ -638,7 +638,7 @@ lodgings?’
 
 ‘Then I tell you what,’ said Mr Boffin; ‘pay the quarter’s rent—pay the
 quarter’s rent, it’ll be the cheapest thing in the end—and come here at
-once, so that you may be always on the spot, day and night, and keep the
+once, so that you may be always on the spot, day and [[Night|night]], and keep the
 expenses down. You’ll charge the quarter’s rent to me, and we must try
 and save it somewhere. You’ve got some lovely furniture; haven’t you?’
 
@@ -650,7 +650,7 @@ independent in you as to make it a relief to your mind, to make that
 furniture over to me in the light of a set-off against the quarter’s
 rent, why ease your mind, ease your mind. I don’t ask it, but I won’t
 stand in your way if you should consider it due to yourself. As to your
-room, choose any empty room at the top of the house.’
+room, choose any empty room at the top of the [[house]].’
 
 ‘Any empty room will do for me,’ said the Secretary.
 
@@ -662,10 +662,10 @@ letter or two.’
 
 On that clear, generous face of Mrs Boffin’s, Bella had seen such traces
 of a pang at the heart while this dialogue was being held, that she
-had not the courage to turn her eyes to it when they were left alone.
+had not the [[Courage|courage]] to turn her eyes to it when they were left [[Alone|alone]].
 Feigning to be intent on her embroidery, she sat plying her needle until
 her busy hand was stopped by Mrs Boffin’s hand being lightly laid upon
-it. Yielding to the touch, she felt her hand carried to the good soul’s
+it. Yielding to the touch, she felt her hand carried to the good [[Soul|soul]]’s
 lips, and felt a tear fall on it.
 
 ‘Oh, my loved husband!’ said Mrs Boffin. ‘This is hard to see and hear.
@@ -694,10 +694,10 @@ old lady.’
 
 ‘Nonsense! Recollect we are not our old selves. Recollect, we must
 scrunch or be scrunched. Recollect, we must hold our own. Recollect,
-money makes money. Don’t you be uneasy, Bella, my child; don’t you be
+money makes money. Don’t you be uneasy, Bella, my [[Child|child]]; don’t you be
 doubtful. The more I save, the more you shall have.’
 
-Bella thought it was well for his wife that she was musing with her
+Bella thought it was [[Well|well]] for his wife that she was musing with her
 affectionate face on his shoulder; for there was a cunning light in
 his eyes as he said all this, which seemed to cast a disagreeable
 illumination on the change in him, and make it morally uglier.

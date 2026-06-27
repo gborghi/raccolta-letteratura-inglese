@@ -16,14 +16,14 @@ tags:
 
 THE MASK OF THE AGNOSTIC
 
-SIR ARTHUR KEITH, in his recent remarks on the soul, let the cat out
+SIR [[arthur|ARTHUR]] KEITH, in his recent remarks on the [[Soul|soul]], let the cat out
 of the bag.  He let it out of that very prim and proper professional
 bag which is carried by the "medical man" whom he described
-as conscientiously compelled to assert that the life of the soul
-ceases with the breath of the body.  Perhaps the figure which fits
-in so well with the bag is less fortunate in the case of the cat;
+as conscientiously compelled to assert that the life of the [[Soul|soul]]
+ceases with the breath of the [[Body|body]].  Perhaps the figure which fits
+in so [[Well|well]] with the bag is less fortunate in the case of the cat;
 a mystic animal, whose nine lives might rather be supposed
-to represent immortality, at least in the form of reincarnation.
+to represent [[Immortality|immortality]], at least in the form of reincarnation.
 But anyhow, he let the cat out of the bag; in the sense of
 revealing a secret which such wise men would be wiser to keep.
 It is the secret that such scientists do not speak as scientists,
@@ -32,35 +32,35 @@ but simply their opinions; and a very shaky sort of opinions some
 of them are.
 
 Not long ago, in his famous address on Anthropoids to the Congress
-at Leeds, Sir Arthur Keith said that he spoke simply as the foreman
+at Leeds, Sir [[arthur|Arthur]] Keith said that he spoke simply as the foreman
 of a jury.  It is true that he had not apparently consulted the jury;
 and it was rapidly made clear that the jury violently disagreed;
 which is unusual in a jury after the foreman has delivered
 the verdict.  Still, in using this image he meant to claim
 complete impartiality of a judicial sort.  He meant that a juryman
 is bound by oath to go entirely by the facts and the evidence,
-without fear or favour.  And this effect would be a hundred times
+without [[Fear|fear]] or favour.  And this effect would be a hundred times
 more effective if we were left free to imagine that the juryman's
 personal sympathies might be on the other side; or at least,
 if we did not know that they were very keenly on the one side.
-Sir Arthur should have been careful to preserve the impression that,
+Sir [[arthur|Arthur]] should have been careful to preserve the impression that,
 speaking strictly and solely as an anthropologist, he was forced
 to accept the natural selection of anthropoids.  He should then
 have left it to be inferred that, merely as a private person,
 he might be yearning for seraphic visions and celestial hopes;
-he might be searching the Scriptures or awaiting the Apocalypse.
+he might be searching the Scriptures or awaiting the [[Apocalypse]].
 For all it was any business of ours, or any business of anybody's,
-he might be in private life a Mormon multiplying the stars in his
-heavenly crown or a Holy Roller continually convulsed by the Holy Ghost.
+he might be in private life a Mormon multiplying the [[Stars|stars]] in his
+heavenly [[Crown|crown]] or a Holy Roller continually convulsed by the Holy [[Ghost]].
 The point was that the facts forced the Darwinian conclusion upon him.
 And a man of that sort, being forced to accept them, would be a real
 witness because a reluctant witness.  In the trial of Darwin the man
 might feel for the plaintiff, but the juryman would be forced
 to find for the defendant.
 
-And now Sir Arthur Keith has thrown the whole of that imperial
+And now Sir [[arthur|Arthur]] Keith has thrown the whole of that imperial
 impartiality away.  He has gone out of his way to dogmatise and lay
-down the law about the soul; which has nothing to do with his subject,
+down the law about the [[Soul|soul]]; which has nothing to do with his subject,
 except in so far as it is everybody's subject.  But while it does not
 relate to what is his subject, it has told everybody which is his side.
 It has turned the foreman of the jury into a very unmistakable
@@ -74,32 +74,32 @@ When THEY choose the side of natural selection, we can all agree
 that it is a very natural selection.
 
 As to the conclusion itself, it seems almost incredibly inconclusive.
-Unless Sir Arthur Keith is very badly misreported, he specially
+Unless Sir [[arthur|Arthur]] Keith is very badly misreported, he specially
 stated that spiritual existence ceases with the physical functions;
 and that no medical man could conscientiously say anything else.
-However grave be the injury called death (which indeed is often fatal),
+However [[Grave|grave]] be the injury called [[Death|death]] (which indeed is often fatal),
 this strikes me as a case in which it is quite unnecessary to call
 in a medical man at all.  There is always a certain irony,
-even in the simple pages of my favourite detective stories,
+even in the simple pages of my favourite [[Detective|detective]] stories,
 in the fact that everybody rushes for a doctor as soon as they are quite
-certain that a man is dead.  But in the detective story there may at
-least be something to be learnt by the doctor from the dead body.
+certain that a man is dead.  But in the [[Detective|detective]] story there may at
+least be something to be learnt by the doctor from the dead [[Body|body]].
 In the doctrinal speculation there is nothing whatever; and it does
-but confuse the eternal detective story for the doctor of medicine
-to pretend to be a doctor of divinity.  The truth is that all this
+but confuse the eternal [[Detective|detective]] story for the doctor of medicine
+to pretend to be a doctor of divinity.  The [[Truth|truth]] is that all this
 business about "a medical man" is mere bluff and mystagogy.
-The medical man "sees" that the mind has ceased with the body.
-What the medical man sees is that the body can no longer kick,
-talk, sneeze, whistle or dance a jig.  And a man does not need
+The medical man "sees" that the mind has ceased with the [[Body|body]].
+What the medical man sees is that the [[Body|body]] can no longer kick,
+talk, sneeze, whistle or [[Dance|dance]] a jig.  And a man does not need
 to be very medical in order to see that.  But whether the principle
-of energy, that once made it kick, talk, sneeze, whistle and dance,
+of energy, that once made it kick, talk, sneeze, whistle and [[Dance|dance]],
 does or does not still exist on some other plane of existence--
 a medical man knows no more about that than any other man.
 And when medical men were clear-headed, some of them (like an ex-surgeon
 named Thomas Henry Huxley) said they did not believe that medical men or
 any men could know anything about it.  That is an intelligible position;
-but it does not seem to be Sir Arthur Keith's position.  He has been
-put up publicly to DENY that the soul survives the body; and to make
+but it does not seem to be Sir [[arthur|Arthur]] Keith's position.  He has been
+put up publicly to DENY that the [[Soul|soul]] survives the [[Body|body]]; and to make
 the extraordinary remark that any medical man must say the same.
 It is as if we were to say that any competent builder or surveyor
 must deny the possibility of the Fourth Dimension; because he has
@@ -107,7 +107,7 @@ learnt the technical secret that a building is measured by length,
 breadth and height.  The obvious query is--Why bring in a surveyor?
 Everybody knows that everything is in fact measured by three dimensions.
 Anybody who thinks there is a fourth dimension thinks so in spite
-of being well aware that things are generally measured by three.
+of being [[Well|well]] aware that things are generally measured by three.
 Or it is as if a man were to answer a Berkeleian metaphysician,
 who holds all matter to be an illusion of mind, by saying,
 "I can call the evidence of an intelligent navvy who actually
@@ -120,15 +120,15 @@ a materialist, except what might make any man a materialist.
 And it is when a man has absorbed all that obvious materialism
 that he begins to use his mind.  And, as some hold, does not stop.
 
-This very unphilosophical irruption into philosophy was, however,
+This very unphilosophical irruption into [[philosophy]] was, however,
 in one way enlightening.  It threw a light backwards on the speaker's
 previous proclamation on things on which he has more right to speak.
 Even in those things he betrayed a curious simplicity common among
-such official scientists.  The truth is that they become steadily
+such official scientists.  The [[Truth|truth]] is that they become steadily
 less scientific and more official.  They develop that thin disguise
 that is the daily wear of politicians.  They perform before us
 the most artful tricks with the most artless transparency.
-It is like watching a child trying to hide something.  They are
+It is like watching a [[Child|child]] trying to hide something.  They are
 perpetually trying to bluff us with big words and learned allusions;
 on the assumption that we have never learnt anything--even of their
 own funny little ways.  Every leader-writer who thunders "Galileo"
@@ -148,7 +148,7 @@ us an electric shock, when we are seriously expected to be shocked
 by the shock.  It is rather a joke when we, the benighted savages,
 are ourselves not only quite capable of predicting the eclipse,
 but capable of predicting the prediction.  Now, among these facts
-that have been familiar to us for a long time is the fact that men
+that have been familiar to us for a long [[Time|time]] is the fact that men
 of science stage and prepare their effects exactly as politicians do.
 They also do it rather badly--exactly as politicians do.
 Neither of these two modern mystagogues has yet realised how transparent
@@ -160,8 +160,8 @@ are published after political scandals as regularly as bluebooks.
 So the Right Honourable Gentleman hopes it is not necessary for him
 to contradict what he feels sure the Honourable Member could
 not have intended to insinuate.  So a Cabinet Minister is put up
-to deny from a platform that there is any change in the Government's
-policy about Damascus.  And so Sir Arthur Keith is put up to deny
+to deny from a platform that there is any change in the [[government|Government]]'s
+policy about Damascus.  And so Sir [[arthur|Arthur]] Keith is put up to deny
 that there is any change in the scientific attitude about Darwin.
 
 And when we hear that, we all give a sort of sigh of satisfaction;
@@ -174,13 +174,13 @@ is that in the latter case the officials are not only solemn
 in uttering the official contradiction, but much more simple
 in supposing that nobody will realize that it is official.
 In the case of the similar legal fiction in politics, the politicians
-by this time not only know the truth, but often know that we know
-the truth.  Everybody knows by this time, by the gossip that is
+by this [[Time|time]] not only know the [[Truth|truth]], but often know that we know
+the [[Truth|truth]].  Everybody knows by this [[Time|time]], by the gossip that is
 repeated everywhere, exactly what is meant by the absolute agreement
 on everything which binds the Prime Minister and all his colleagues.
 The Prime Minister does not really expect us to believe that he is
-the holy and beloved king of a brotherhood of knights sworn to a
-faith and giving their hearts to him alone.  But Sir Arthur Keith
+the holy and beloved [[King|king]] of a brotherhood of knights sworn to a
+[[Faith|faith]] and giving their hearts to him [[Alone|alone]].  But Sir [[arthur|Arthur]] Keith
 does really expect us to believe that he is the foreman of a jury
 containing all the different men of science, all absolutely agreed
 that Darwin's particular opinion was "eternal." That is what I mean
@@ -189,8 +189,8 @@ That is why I say that they do not even know how much we know.
 
 For the politician is less pompously absurd than the anthropologist,
 even if we test it by what they both call Progress; which is
-mostly only another word for Time.  We all know the official
-optimism which always defends the present government.
+mostly only another word for [[Time]].  We all know the official
+optimism which always defends the present [[government]].
 But this is like an official defence of all the past governments.
 If a man were to say that the politics of Palmerston were eternal,
 we should think him a little out of date.  Yet Darwin was prominent
@@ -199,8 +199,8 @@ If Mr. Lloyd George were to get up and say that the great Liberal Party
 had not receded from one single position taken up by Gobden and Bright,
 the only true Tribunes of the People, we should reluctantly conclude
 (if such a thing be conceivable) that he was talking party
-claptrap to people ignorant of the history of the party.
-If a social reformer were to affirm solemnly that all social philosophy
+claptrap to people ignorant of the [[history]] of the party.
+If a social reformer were to affirm solemnly that all social [[philosophy]]
 was still proceeding strictly on the principles of Herbert Spencer,
 we should know it was doing nothing of the sort, and that only
 an absolutely fossilized official could pretend that it was.
@@ -211,16 +211,16 @@ which our grandfathers regarded as a very modern movement.
 Even considered a priori as a matter of probability it therefore
 seems rather unlikely that the science of that generation was any
 more infallible than its ethics and politics.  Even on the principles
-Sir Arthur professes, it seems very queer that there should now
+Sir [[arthur|Arthur]] professes, it seems very queer that there should now
 be no more to be said about Darwinism than he said about it.
 But we do not need to appeal to those principles or those probabilities.
 We can appeal to the facts.  As it happens, we do know something
-about the facts; and Sir Arthur Keith does not seem to know
+about the facts; and Sir [[arthur|Arthur]] Keith does not seem to know
 that we know.
 
 It was in a Catholic paper that certain statements were made about
-Darwinism to-day; statements which Sir Arthur Keith himself went
-out of his way to contradict; and about which Sir Arthur Keith
+Darwinism to-day; statements which Sir [[arthur|Arthur]] Keith himself went
+out of his way to contradict; and about which Sir [[arthur|Arthur]] Keith
 himself was proved sensationally and disastrously wrong.
 Probably the story is now known to all readers of that paper; but it
 will possibly never come to the knowledge of most other journalists,
@@ -233,14 +233,14 @@ know how triumphantly his other contradiction was contradicted.
 When Mr. Belloc stated that these Darwinians were out of date and ignorant
 of recent biology, he quoted among a great many other recent authorities
 the French biologist Vialleton as denying the possibility of natural
-selection in a particular case connected with reptiles and birds.
-Sir Arthur Keith, coming to the rescue of Mr. H. G. Wells, and eager
+selection in a particular case connected with reptiles and [[Birds|birds]].
+Sir [[arthur|Arthur]] Keith, coming to the rescue of Mr. H. G. Wells, and eager
 to prove that he and Mr. Wells were not out of date or ignorant
 of recent biology, proceeded to contradict Mr. Belloc flatly.
 He said that there was no such statement in Vialleton's book;
 in other words, he accused Mr. Belloc of having misquoted or
 misrepresented Vialleton's book.  It then appeared, to the amazement
-of everybody, and especially of Mr. Belloc, that Sir Arthur Keith did
+of everybody, and especially of Mr. Belloc, that Sir [[arthur|Arthur]] Keith did
 not even know of the existence of the book.  He was referring only
 to an early and elementary work by the same author published long ago.
 That was the last he had ever read of Vialleton.  The important book,
@@ -256,7 +256,7 @@ in the experience of one of my own friends, how can it be expected
 that people in our position should take seriously the speech
 at the opening of the British Association at Leeds?  How can we
 keep a straight face when the President strikes an attitude as if
-pointing to the stars and declaring Darwinism equally eternal?
+pointing to the [[Stars|stars]] and declaring Darwinism equally eternal?
 That sort of thing is not meant for us; but for the reporters;
 just as the true story of Wells and Belloc is generally kept out
 of the reports.

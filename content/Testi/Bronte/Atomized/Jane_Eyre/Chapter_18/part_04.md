@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 18 (part 4)"
+title: "[[Jane Eyre]] — Chapter 18 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -14,23 +14,23 @@ tags:
 </nav>
 
 
-It was verging on dusk, and the clock had already given warning of the
+It was verging on dusk, and the [[Clock|clock]] had already given warning of the
 hour to dress for dinner, when little Adèle, who knelt by me in the
-drawing-room window-seat, suddenly exclaimed—
+drawing-room [[Window|window]]-seat, suddenly exclaimed—
 
 “Voilà Monsieur Rochester, qui revient!”
 
 I turned, and Miss Ingram darted forwards from her sofa: the others,
-too, looked up from their several occupations; for at the same time a
-crunching of wheels and a splashing tramp of horse-hoofs became audible
+too, looked up from their several occupations; for at the same [[Time|time]] a
+crunching of wheels and a splashing tramp of [[Horse|horse]]-hoofs became audible
 on the wet gravel. A post-chaise was approaching.
 
-“What can possess him to come home in that style?” said Miss Ingram.
-“He rode Mesrour (the black horse), did he not, when he went out? and
-Pilot was with him:—what has he done with the animals?”
+“What can possess him to come [[Home|home]] in that style?” said Miss Ingram.
+“He rode Mesrour (the black [[Horse|horse]]), did he not, when he went out? and
+Pilot was with him:—what has he done with the [[Animals|animals]]?”
 
 As she said this, she approached her tall person and ample garments so
-near the window, that I was obliged to bend back almost to the breaking
+near the [[Window|window]], that I was obliged to bend back almost to the breaking
 of my spine: in her eagerness she did not observe me at first, but when
 she did, she curled her lip and moved to another casement. The
 post-chaise stopped; the driver rang the door-bell, and a gentleman
@@ -38,16 +38,16 @@ alighted attired in travelling garb; but it was not Mr. Rochester; it
 was a tall, fashionable-looking man, a stranger.
 
 “How provoking!” exclaimed Miss Ingram: “you tiresome monkey!”
-(apostrophising Adèle), “who perched you up in the window to give false
+(apostrophising Adèle), “who perched you up in the [[Window|window]] to give false
 intelligence?” and she cast on me an angry glance, as if I were in
 fault.
 
 Some parleying was audible in the hall, and soon the new-comer entered.
 He bowed to Lady Ingram, as deeming her the eldest lady present.
 
-“It appears I come at an inopportune time, madam,” said he, “when my
-friend, Mr. Rochester, is from home; but I arrive from a very long
-journey, and I think I may presume so far on old and intimate
+“It appears I come at an inopportune [[Time|time]], madam,” said he, “when my
+friend, Mr. Rochester, is from [[Home|home]]; but I arrive from a very long
+[[Journey|journey]], and I think I may presume so far on old and intimate
 acquaintance as to instal myself here till he returns.”
 
 His manner was polite; his accent, in speaking, struck me as being
@@ -57,13 +57,13 @@ forty; his complexion was singularly sallow: otherwise he was a
 fine-looking man, at first sight especially. On closer examination, you
 detected something in his face that displeased, or rather that failed
 to please. His features were regular, but too relaxed: his eye was
-large and well cut, but the life looking out of it was a tame, vacant
+large and [[Well|well]] cut, but the life looking out of it was a tame, vacant
 life—at least so I thought.
 
 The sound of the dressing-bell dispersed the party. It was not till
 after dinner that I saw him again: he then seemed quite at his ease.
 But I liked his physiognomy even less than before: it struck me as
-being at the same time unsettled and inanimate. His eye wandered, and
+being at the same [[Time|time]] unsettled and inanimate. His eye wandered, and
 had no meaning in its wandering: this gave him an odd look, such as I
 never remembered to have seen. For a handsome and not an
 unamiable-looking man, he repelled me exceedingly: there was no power
@@ -73,13 +73,13 @@ even forehead; no command in that blank, brown eye.
 
 As I sat in my usual nook, and looked at him with the light of the
 girandoles on the mantelpiece beaming full over him—for he occupied an
-arm-chair drawn close to the fire, and kept shrinking still nearer, as
+arm-chair drawn close to the [[Fire|fire]], and kept shrinking still nearer, as
 if he were cold, I compared him with Mr. Rochester. I think (with
 deference be it spoken) the contrast could not be much greater between
 a sleek gander and a fierce falcon: between a meek sheep and the
 rough-coated keen-eyed dog, its guardian.
 
-He had spoken of Mr. Rochester as an old friend. A curious friendship
+He had spoken of Mr. Rochester as an old friend. A curious [[Friendship|friendship]]
 theirs must have been: a pointed illustration, indeed, of the old adage
 that “extremes meet.”
 
@@ -88,7 +88,7 @@ scraps of their conversation across the room. At first I could not make
 much sense of what I heard; for the discourse of Louisa Eshton and Mary
 Ingram, who sat nearer to me, confused the fragmentary sentences that
 reached me at intervals. These last were discussing the stranger; they
-both called him “a beautiful man.” Louisa said he was “a love of a
+both called him “a beautiful man.” Louisa said he was “a [[Love|love]] of a
 creature,” and she “adored him;” and Mary instanced his “pretty little
 mouth, and nice nose,” as her ideal of the charming.
 
@@ -100,16 +100,16 @@ And then, to my great relief, Mr. Henry Lynn summoned them to the other
 side of the room, to settle some point about the deferred excursion to
 Hay Common.
 
-I was now able to concentrate my attention on the group by the fire,
+I was now able to concentrate my attention on the group by the [[Fire|fire]],
 and I presently gathered that the new-comer was called Mr. Mason; then
 I learned that he was but just arrived in England, and that he came
 from some hot country: which was the reason, doubtless, his face was so
 sallow, and that he sat so near the hearth, and wore a surtout in the
-house. Presently the words Jamaica, Kingston, Spanish Town, indicated
+[[house]]. Presently the words Jamaica, Kingston, Spanish Town, indicated
 the West Indies as his residence; and it was with no little surprise I
 gathered, ere long, that he had there first seen and become acquainted
 with Mr. Rochester. He spoke of his friend’s dislike of the burning
-heats, the hurricanes, and rainy seasons of that region. I knew Mr.
+heats, the hurricanes, and rainy [[Seasons|seasons]] of that region. I knew Mr.
 Rochester had been a traveller: Mrs. Fairfax had said so; but I thought
 the continent of Europe had bounded his wanderings; till now I had
 never heard a hint given of visits to more distant shores.
@@ -117,7 +117,7 @@ never heard a hint given of visits to more distant shores.
 I was pondering these things, when an incident, and a somewhat
 unexpected one, broke the thread of my musings. Mr. Mason, shivering as
 some one chanced to open the door, asked for more coal to be put on the
-fire, which had burnt out its flame, though its mass of cinder still
+[[Fire|fire]], which had burnt out its flame, though its mass of cinder still
 shone hot and red. The footman who brought the coal, in going out,
 stopped near Mr. Eshton’s chair, and said something to him in a low
 voice, of which I heard only the words, “old woman,”—“quite

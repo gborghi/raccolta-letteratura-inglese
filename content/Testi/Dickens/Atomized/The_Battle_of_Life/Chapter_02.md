@@ -21,11 +21,11 @@ SNITCHEY AND CRAGGS had a snug little office on the old Battle Ground,
 where they drove a snug little business, and fought a great many small
 pitched battles for a great many contending parties.  Though it could
 hardly be said of these conflicts that they were running fights—for in
-truth they generally proceeded at a snail’s pace—the part the Firm had in
+[[Truth|truth]] they generally proceeded at a snail’s pace—the part the Firm had in
 them came so far within the general denomination, that now they took a
 shot at this Plaintiff, and now aimed a chop at that Defendant, now made
 a heavy charge at an estate in Chancery, and now had some light
-skirmishing among an irregular body of small debtors, just as the
+skirmishing among an irregular [[Body|body]] of small debtors, just as the
 occasion served, and the enemy happened to present himself.  The Gazette
 was an important and profitable feature in some of their fields, as in
 fields of greater renown; and in most of the Actions wherein they showed
@@ -36,7 +36,7 @@ amount of smoke by which they were surrounded.
 
 The offices of Messrs. Snitchey and Craggs stood convenient, with an open
 door down two smooth steps, in the market-place; so that any angry farmer
-inclining towards hot water, might tumble into it at once.  Their special
+inclining towards hot [[Water|water]], might tumble into it at once.  Their special
 council-chamber and hall of conference was an old back-room up-stairs,
 with a low dark ceiling, which seemed to be knitting its brows gloomily
 in the consideration of tangled points of law.  It was furnished with
@@ -62,10 +62,10 @@ would observe, sometimes, to Mr. Craggs; using that imaginative plural as
 if in disparagement of an objectionable pair of pantaloons, or other
 articles not possessed of a singular number; ‘I don’t see what you want
 with your Snitcheys, for my part.  You trust a great deal too much to
-your Snitcheys, _I_ think, and I hope you may never find my words come
+your Snitcheys, _I_ think, and I [[Hope|hope]] you may never find my words come
 true.’  While Mrs. Snitchey would observe to Mr. Snitchey, of Craggs,
 ‘that if ever he was led away by man he was led away by that man, and
-that if ever she read a double purpose in a mortal eye, she read that
+that if ever she read a [[Double|double]] purpose in a mortal eye, she read that
 purpose in Craggs’s eye.’  Notwithstanding this, however, they were all
 very good friends in general: and Mrs. Snitchey and Mrs. Craggs
 maintained a close bond of alliance against ‘the office,’ which they both
@@ -74,19 +74,19 @@ unknown) machinations.
 
 In this office, nevertheless, Snitchey and Craggs made honey for their
 several hives.  Here, sometimes, they would linger, of a fine evening, at
-the window of their council-chamber overlooking the old battle-ground,
-and wonder (but that was generally at assize time, when much business had
+the [[Window|window]] of their council-chamber overlooking the old battle-ground,
+and [[Wonder|wonder]] (but that was generally at assize [[Time|time]], when much business had
 made them sentimental) at the folly of mankind, who couldn’t always be at
 peace with one another and go to law comfortably.  Here, days, and weeks,
 and months, and years, passed over them: their calendar, the gradually
 diminishing number of brass nails in the leathern chairs, and the
 increasing bulk of papers on the tables.  Here, nearly three years’
 flight had thinned the one and swelled the other, since the breakfast in
-the orchard; when they sat together in consultation at night.
+the orchard; when they sat together in consultation at [[Night|night]].
 
-Not alone; but, with a man of thirty, or about that time of life,
-negligently dressed, and somewhat haggard in the face, but well-made,
-well-attired, and well-looking, who sat in the armchair of state, with
+Not [[Alone|alone]]; but, with a man of thirty, or about that [[Time|time]] of life,
+negligently dressed, and somewhat haggard in the face, but [[Well|well]]-made,
+[[Well|well]]-attired, and [[Well|well]]-looking, who sat in the armchair of state, with
 one hand in his breast, and the other in his dishevelled hair, pondering
 moodily.  Messrs. Snitchey and Craggs sat opposite each other at a
 neighbouring desk.  One of the fireproof boxes, unpadlocked and opened,
@@ -96,9 +96,9 @@ brought it to the candle, document by document; looked at every paper
 singly, as he produced it; shook his head, and handed it to Mr. Craggs;
 who looked it over also, shook his head, and laid it down.  Sometimes,
 they would stop, and shaking their heads in concert, look towards the
-abstracted client.  And the name on the box being Michael Warden,
+abstracted client.  And the name on the box being [[Michael Warden]],
 Esquire, we may conclude from these premises that the name and the box
-were both his, and that the affairs of Michael Warden, Esquire, were in a
+were both his, and that the affairs of [[Michael Warden]], Esquire, were in a
 bad way.
 
 ‘That’s all,’ said Mr. Snitchey, turning up the last paper.  ‘Really
@@ -156,12 +156,12 @@ and an impatient change of his position.
 
 ‘To starve for six or seven years, Mr. Warden,’ said Snitchey, ‘would be
 very uncommon indeed.  You might get another estate by showing yourself,
-the while.  But, we don’t think you could do it—speaking for Self and
+the while.  But, we don’t think you could do it—speaking for [[Self]] and
 Craggs—and consequently don’t advise it.’
 
 ‘What _do_ you advise?’
 
-‘Nursing, I say,’ repeated Snitchey.  ‘Some few years of nursing by Self
+‘Nursing, I say,’ repeated Snitchey.  ‘Some few years of nursing by [[Self]]
 and Craggs would bring it round.  But to enable us to make terms, and
 hold terms, and you to keep terms, you must go away; you must live
 abroad.  As to starvation, we could ensure you some hundreds a-year to
@@ -170,7 +170,7 @@ starve upon, even in the beginning—I dare say, Mr. Warden.’
 ‘Hundreds,’ said the client.  ‘And I have spent thousands!’
 
 ‘That,’ retorted Mr. Snitchey, putting the papers slowly back into the
-cast-iron box, ‘there is no doubt about.  No doubt a—bout,’ he repeated
+cast-iron box, ‘there is no [[Doubt|doubt]] about.  No [[Doubt|doubt]] a—bout,’ he repeated
 to himself, as he thoughtfully pursued his occupation.
 
 The lawyer very likely knew _his_ man; at any rate his dry, shrewd,
@@ -183,7 +183,7 @@ adviser with a smile, which presently broke into a laugh.
 
 ‘After all,’ he said, ‘my iron-headed friend—’
 
-Mr. Snitchey pointed out his partner.  ‘Self and—excuse me—Craggs.’
+Mr. Snitchey pointed out his partner.  ‘[[Self]] and—excuse me—Craggs.’
 
 ‘I beg Mr. Craggs’s pardon,’ said the client.  ‘After all, my iron-headed
 friends,’ he leaned forward in his chair, and dropped his voice a little,
@@ -193,10 +193,10 @@ Mr. Snitchey stopped and stared at him.  Mr. Craggs also stared.
 
 ‘I am not only deep in debt,’ said the client, ‘but I am deep in—’
 
-‘Not in love!’ cried Snitchey.
+‘Not in [[Love|love]]!’ cried Snitchey.
 
 ‘Yes!’ said the client, falling back in his chair, and surveying the Firm
-with his hands in his pockets.  ‘Deep in love.’
+with his hands in his pockets.  ‘Deep in [[Love|love]].’
 
 ‘And not with an heiress, sir?’ said Snitchey.
 
@@ -204,7 +204,7 @@ with his hands in his pockets.  ‘Deep in love.’
 
 ‘Nor a rich lady?’
 
-‘Nor a rich lady that I know of—except in beauty and merit.’
+‘Nor a rich lady that I know of—except in [[Beauty|beauty]] and merit.’
 
 ‘A single lady, I trust?’ said Mr. Snitchey, with great expression.
 
@@ -237,37 +237,37 @@ cases—’
 ‘Cases!’ interposed the client, impatiently.  ‘Don’t talk to me of cases.
 The general precedent is in a much larger volume than any of your law
 books.  Besides, do you think I have lived six weeks in the Doctor’s
-house for nothing?’
+[[house]] for nothing?’
 
 ‘I think, sir,’ observed Mr. Snitchey, gravely addressing himself to his
 partner, ‘that of all the scrapes Mr. Warden’s horses have brought him
-into at one time and another—and they have been pretty numerous, and
+into at one [[Time|time]] and another—and they have been pretty numerous, and
 pretty expensive, as none know better than himself, and you, and I—the
 worst scrape may turn out to be, if he talks in this way, this having
-ever been left by one of them at the Doctor’s garden wall, with three
+ever been left by one of them at the Doctor’s [[Garden|garden]] wall, with three
 broken ribs, a snapped collar-bone, and the Lord knows how many bruises.
-We didn’t think so much of it, at the time when we knew he was going on
-well under the Doctor’s hands and roof; but it looks bad now, sir.  Bad?
-It looks very bad.  Doctor Jeddler too—our client, Mr. Craggs.’
+We didn’t think so much of it, at the [[Time|time]] when we knew he was going on
+[[Well|well]] under the Doctor’s hands and roof; but it looks bad now, sir.  Bad?
+It looks very bad.  [[Doctor Jeddler]] too—our client, Mr. Craggs.’
 
-‘Mr. Alfred Heathfield too—a sort of client, Mr. Snitchey,’ said Craggs.
+‘Mr. [[Alfred Heathfield]] too—a sort of client, Mr. Snitchey,’ said Craggs.
 
-‘Mr. Michael Warden too, a kind of client,’ said the careless visitor,
-‘and no bad one either: having played the fool for ten or twelve years.
-However, Mr. Michael Warden has sown his wild oats now—there’s their
+‘Mr. [[Michael Warden]] too, a kind of client,’ said the careless visitor,
+‘and no bad one either: having played the [[Fool|fool]] for ten or twelve years.
+However, Mr. [[Michael Warden]] has sown his wild oats now—there’s their
 crop, in that box; and he means to repent and be wise.  And in proof of
-it, Mr. Michael Warden means, if he can, to marry Marion, the Doctor’s
+it, Mr. [[Michael Warden]] means, if he can, to marry Marion, the Doctor’s
 lovely daughter, and to carry her away with him.’
 
 ‘Really, Mr. Craggs,’ Snitchey began.
 
 ‘Really, Mr. Snitchey, and Mr. Craggs, partners both,’ said the client,
-interrupting him; ‘you know your duty to your clients, and you know well
-enough, I am sure, that it is no part of it to interfere in a mere love
+interrupting him; ‘you know your duty to your clients, and you know [[Well|well]]
+enough, I am sure, that it is no part of it to interfere in a mere [[Love|love]]
 affair, which I am obliged to confide to you.  I am not going to carry
 the young lady off, without her own consent.  There’s nothing illegal in
 it.  I never was Mr. Heathfield’s bosom friend.  I violate no confidence
-of his.  I love where he loves, and I mean to win where he would win, if
+of his.  I [[Love|love]] where he loves, and I mean to win where he would win, if
 I can.’
 
 ‘He can’t, Mr. Craggs,’ said Snitchey, evidently anxious and discomfited.
@@ -277,7 +277,7 @@ I can.’
 
 ‘Mr. Craggs, she dotes on him, sir,’ persisted Snitchey.
 
-‘I didn’t live six weeks, some few months ago, in the Doctor’s house for
+‘I didn’t live six weeks, some few months ago, in the Doctor’s [[house]] for
 nothing; and I doubted that soon,’ observed the client.  ‘She would have
 doted on him, if her sister could have brought it about; but I watched
 them.  Marion avoided his name, avoided the subject: shrunk from the
@@ -292,29 +292,29 @@ Snitchey’s shining eye, and at his cautious way of carrying on the
 conversation, and making himself informed upon the subject; ‘but I know
 she does.  She was very young when she made the engagement—if it may be
 called one, I am not even sure of that—and has repented of it, perhaps.
-Perhaps—it seems a foppish thing to say, but upon my soul I don’t mean it
-in that light—she may have fallen in love with me, as I have fallen in
-love with her.’
+Perhaps—it seems a foppish thing to say, but upon my [[Soul|soul]] I don’t mean it
+in that light—she may have fallen in [[Love|love]] with me, as I have fallen in
+[[Love|love]] with her.’
 
 ‘He, he!  Mr. Alfred, her old playfellow too, you remember, Mr. Craggs,’
 said Snitchey, with a disconcerted laugh; ‘knew her almost from a baby!’
 
 ‘Which makes it the more probable that she may be tired of his idea,’
 calmly pursued the client, ‘and not indisposed to exchange it for the
-newer one of another lover, who presents himself (or is presented by his
-horse) under romantic circumstances; has the not unfavourable
+newer one of another [[Lover|lover]], who presents himself (or is presented by his
+[[Horse|horse]]) under romantic circumstances; has the not unfavourable
 reputation—with a country girl—of having lived thoughtlessly and gaily,
 without doing much harm to anybody; and who, for his youth and figure,
-and so forth—this may seem foppish again, but upon my soul I don’t mean
+and so forth—this may seem foppish again, but upon my [[Soul|soul]] I don’t mean
 it in that light—might perhaps pass muster in a crowd with Mr. Alfred
 himself.’
 
 There was no gainsaying the last clause, certainly; and Mr. Snitchey,
 glancing at him, thought so.  There was something naturally graceful and
 pleasant in the very carelessness of his air.  It seemed to suggest, of
-his comely face and well-knit figure, that they might be greatly better
+his comely face and [[Well|well]]-knit figure, that they might be greatly better
 if he chose: and that, once roused and made earnest (but he never had
-been earnest yet), he could be full of fire and purpose.  ‘A dangerous
+been earnest yet), he could be full of [[Fire|fire]] and purpose.  ‘A dangerous
 sort of libertine,’ thought the shrewd lawyer, ‘to seem to catch the
 spark he wants, from a young lady’s eyes.’
 
@@ -322,13 +322,13 @@ spark he wants, from a young lady’s eyes.’
 button, ‘and Craggs,’ taking him by the button also, and placing one
 partner on either side of him, so that neither might evade him.  ‘I don’t
 ask you for any advice.  You are right to keep quite aloof from all
-parties in such a matter, which is not one in which grave men like you
+parties in such a matter, which is not one in which [[Grave|grave]] men like you
 could interfere, on any side.  I am briefly going to review in
 half-a-dozen words, my position and intention, and then I shall leave it
 to you to do the best for me, in money matters, that you can: seeing,
-that, if I run away with the Doctor’s beautiful daughter (as I hope to
+that, if I run away with the Doctor’s beautiful daughter (as I [[Hope|hope]] to
 do, and to become another man under her bright influence), it will be,
-for the moment, more chargeable than running away alone.  But I shall
+for the moment, more chargeable than running away [[Alone|alone]].  But I shall
 soon make all that up in an altered life.’
 
 ‘I think it will be better not to hear this, Mr. Craggs?’ said Snitchey,
@@ -336,23 +336,23 @@ looking at him across the client.
 
 ‘_I_ think not,’ said Craggs.—Both listened attentively.
 
-‘Well!  You needn’t hear it,’ replied their client.  ‘I’ll mention it,
+‘[[Well]]!  You needn’t hear it,’ replied their client.  ‘I’ll mention it,
 however.  I don’t mean to ask the Doctor’s consent, because he wouldn’t
 give it me.  But I mean to do the Doctor no wrong or harm, because
-(besides there being nothing serious in such trifles, as he says) I hope
-to rescue his child, my Marion, from what I see—I _know_—she dreads, and
-contemplates with misery: that is, the return of this old lover.  If
+(besides there being nothing serious in such trifles, as he says) I [[Hope|hope]]
+to rescue his [[Child|child]], my Marion, from what I see—I _know_—she dreads, and
+contemplates with misery: that is, the return of this old [[Lover|lover]].  If
 anything in the world is true, it is true that she dreads his return.
 Nobody is injured so far.  I am so harried and worried here just now,
 that I lead the life of a flying-fish.  I skulk about in the dark, I am
-shut out of my own house, and warned off my own grounds; but, that house,
+shut out of my own [[house]], and warned off my own grounds; but, that [[house]],
 and those grounds, and many an acre besides, will come back to me one
 day, as you know and say; and Marion will probably be richer—on your
 showing, who are never sanguine—ten years hence as my wife, than as the
-wife of Alfred Heathfield, whose return she dreads (remember that), and
+wife of [[Alfred Heathfield]], whose return she dreads (remember that), and
 in whom or in any man, my passion is not surpassed.  Who is injured yet?
 It is a fair case throughout.  My right is as good as his, if she decide
-in my favour; and I will try my right by her alone.  You will like to
+in my favour; and I will try my right by her [[Alone|alone]].  You will like to
 know no more after this, and I will tell you no more.  Now you know my
 purpose, and wants.  When must I leave here?’
 
@@ -361,22 +361,22 @@ purpose, and wants.  When must I leave here?’
 ‘In something less, I should say,’ responded Craggs.
 
 ‘In a month,’ said the client, after attentively watching the two faces.
-‘This day month.  To-day is Thursday.  Succeed or fail, on this day month
+‘This day month.  To-day is [[thursday|Thursday]].  Succeed or fail, on this day month
 I go.’
 
 ‘It’s too long a delay,’ said Snitchey; ‘much too long.  But let it be
 so.  I thought he’d have stipulated for three,’ he murmured to himself.
-‘Are you going?  Good night, sir!’
+‘Are you going?  Good [[Night|night]], sir!’
 
-‘Good night!’ returned the client, shaking hands with the Firm.
+‘Good [[Night|night]]!’ returned the client, shaking hands with the Firm.
 
 ‘You’ll live to see me making a good use of riches yet.  Henceforth the
 star of my destiny is, Marion!’
 
 ‘Take care of the stairs, sir,’ replied Snitchey; ‘for she don’t shine
-there.  Good night!’
+there.  Good [[Night|night]]!’
 
-‘Good night!’
+‘Good [[Night|night]]!’
 
 So they both stood at the stair-head with a pair of office-candles,
 watching him down.  When he had gone away, they stood looking at each
@@ -402,7 +402,7 @@ becoming stronger and more resolved of late.  More like her sister’s.’
 
 ‘Mrs. Craggs was of the same opinion,’ returned Craggs.
 
-‘I’d really give a trifle to-night,’ observed Mr. Snitchey, who was a
+‘I’d really give a trifle to-[[Night|night]],’ observed Mr. Snitchey, who was a
 good-natured man, ‘if I could believe that Mr. Warden was reckoning
 without his host; but, light-headed, capricious, and unballasted as he
 is, he knows something of the world and its people (he ought to, for he
@@ -413,9 +413,9 @@ quiet.’
 ‘Nothing,’ returned Craggs.
 
 ‘Our friend the Doctor makes light of such things,’ said Mr. Snitchey,
-shaking his head.  ‘I hope he mayn’t stand in need of his philosophy.
+shaking his head.  ‘I [[Hope|hope]] he mayn’t stand in need of his [[philosophy]].
 Our friend Alfred talks of the battle of life,’ he shook his head again,
-‘I hope he mayn’t be cut down early in the day.  Have you got your hat,
+‘I [[Hope|hope]] he mayn’t be cut down early in the day.  Have you got your hat,
 Mr. Craggs?  I am going to put the other candle out.’  Mr. Craggs
 replying in the affirmative, Mr. Snitchey suited the action to the word,
 and they groped their way out of the council-chamber, now dark as the
@@ -423,7 +423,7 @@ subject, or the law in general.
 
                                 * * * * *
 
-My story passes to a quiet little study, where, on that same night, the
+My story passes to a quiet little study, where, on that same [[Night|night]], the
 sisters and the hale old Doctor sat by a cheerful fireside.  Grace was
 working at her needle.  Marion read aloud from a book before her.  The
 Doctor, in his dressing-gown and slippers, with his feet spread out upon
@@ -432,22 +432,22 @@ and looked upon his daughters.
 
 They were very beautiful to look upon.  Two better faces for a fireside,
 never made a fireside bright and sacred.  Something of the difference
-between them had been softened down in three years’ time; and enthroned
+between them had been softened down in three years’ [[Time|time]]; and enthroned
 upon the clear brow of the younger sister, looking through her eyes, and
-thrilling in her voice, was the same earnest nature that her own
+thrilling in her voice, was the same earnest [[Nature|nature]] that her own
 motherless youth had ripened in the elder sister long ago.  But she still
 appeared at once the lovelier and weaker of the two; still seemed to rest
 her head upon her sister’s breast, and put her trust in her, and look
 into her eyes for counsel and reliance.  Those loving eyes, so calm,
 serene, and cheerful, as of old.
 
-‘“And being in her own home,”’ read Marion, from the book; ‘“her home
+‘“And being in her own [[Home|home]],”’ read Marion, from the book; ‘“her [[Home|home]]
 made exquisitely dear by these remembrances, she now began to know that
 the great trial of her heart must soon come on, and could not be delayed.
-O Home, our comforter and friend when others fall away, to part with
-whom, at any step between the cradle and the grave”’—
+O [[Home]], our comforter and friend when others fall away, to part with
+whom, at any step between the cradle and the [[Grave|grave]]”’—
 
-‘Marion, my love!’ said Grace.
+‘Marion, my [[Love|love]]!’ said Grace.
 
 ‘Why, Puss!’ exclaimed her father, ‘what’s the matter?’
 
@@ -455,27 +455,27 @@ She put her hand upon the hand her sister stretched towards her, and read
 on; her voice still faltering and trembling, though she made an effort to
 command it when thus interrupted.
 
-‘“To part with whom, at any step between the cradle and the grave, is
-always sorrowful.  O Home, so true to us, so often slighted in return, be
+‘“To part with whom, at any step between the cradle and the [[Grave|grave]], is
+always sorrowful.  O [[Home]], so true to us, so often slighted in return, be
 lenient to them that turn away from thee, and do not haunt their erring
-footsteps too reproachfully!  Let no kind looks, no well-remembered
-smiles, be seen upon thy phantom face.  Let no ray of affection, welcome,
+footsteps too reproachfully!  Let no kind looks, no [[Well|well]]-remembered
+smiles, be seen upon thy [[Phantom|phantom]] face.  Let no ray of affection, welcome,
 gentleness, forbearance, cordiality, shine from thy white head.  Let no
 old loving word, or tone, rise up in judgment against thy deserter; but
-if thou canst look harshly and severely, do, in mercy to the Penitent!”’
+if thou canst look harshly and severely, do, in [[Mercy|mercy]] to the Penitent!”’
 
-‘Dear Marion, read no more to-night,’ said Grace for she was weeping.
+‘Dear Marion, read no more to-[[Night|night]],’ said Grace for she was weeping.
 
 ‘I cannot,’ she replied, and closed the book.  ‘The words seem all on
-fire!’
+[[Fire|fire]]!’
 
 The Doctor was amused at this; and laughed as he patted her on the head.
 
-‘What! overcome by a story-book!’ said Doctor Jeddler.  ‘Print and paper!
-Well, well, it’s all one.  It’s as rational to make a serious matter of
-print and paper as of anything else.  But, dry your eyes, love, dry your
-eyes.  I dare say the heroine has got home again long ago, and made it up
-all round—and if she hasn’t, a real home is only four walls; and a
+‘What! overcome by a story-book!’ said [[Doctor Jeddler]].  ‘Print and paper!
+[[Well]], [[Well|well]], it’s all one.  It’s as rational to make a serious matter of
+print and paper as of anything else.  But, dry your eyes, [[Love|love]], dry your
+eyes.  I dare say the heroine has got [[Home|home]] again long ago, and made it up
+all round—and if she hasn’t, a real [[Home|home]] is only four walls; and a
 fictitious one, mere rags and ink.  What’s the matter now?’
 
 ‘It’s only me, Mister,’ said Clemency, putting in her head at the door.
@@ -483,13 +483,13 @@ fictitious one, mere rags and ink.  What’s the matter now?’
 ‘And what’s the matter with _you_?’ said the Doctor.
 
 ‘Oh, bless you, nothing an’t the matter with me,’ returned Clemency—and
-truly too, to judge from her well-soaped face, in which there gleamed as
-usual the very soul of good-humour, which, ungainly as she was, made her
+truly too, to judge from her [[Well|well]]-soaped face, in which there gleamed as
+usual the very [[Soul|soul]] of good-[[Humour|humour]], which, ungainly as she was, made her
 quite engaging.  Abrasions on the elbows are not generally understood, it
 is true, to range within that class of personal charms called
-beauty-spots.  But, it is better, going through the world, to have the
+[[Beauty|beauty]]-spots.  But, it is better, going through the world, to have the
 arms chafed in that narrow passage, than the temper: and Clemency’s was
-sound and whole as any beauty’s in the land.
+sound and whole as any [[Beauty|beauty]]’s in the land.
 
 ‘Nothing an’t the matter with me,’ said Clemency, entering, ‘but—come a
 little closer, Mister.’
@@ -499,7 +499,7 @@ The Doctor, in some astonishment, complied with this invitation.
 ‘You said I wasn’t to give you one before them, you know,’ said Clemency.
 
 A novice in the family might have supposed, from her extraordinary ogling
-as she said it, as well as from a singular rapture or ecstasy which
+as she said it, as [[Well|well]] as from a singular rapture or ecstasy which
 pervaded her elbows, as if she were embracing herself, that ‘one,’ in its
 most favourable interpretation, meant a chaste salute.  Indeed the Doctor
 himself seemed alarmed, for the moment; but quickly regained his
@@ -509,8 +509,8 @@ back to the right one again—produced a letter from the Post-office.
 
 ‘Britain was riding by on a errand,’ she chuckled, handing it to the
 Doctor, ‘and see the mail come in, and waited for it.  There’s A. H. in
-the corner.  Mr. Alfred’s on his journey home, I bet.  We shall have a
-wedding in the house—there was two spoons in my saucer this morning.  Oh
+the corner.  Mr. Alfred’s on his [[Journey|journey]] [[Home|home]], I bet.  We shall have a
+wedding in the [[house]]—there was two spoons in my saucer this morning.  Oh
 Luck, how slow he opens it!’
 
 All this she delivered, by way of soliloquy, gradually rising higher and
@@ -518,18 +518,18 @@ higher on tiptoe, in her impatience to hear the news, and making a
 corkscrew of her apron, and a bottle of her mouth.  At last, arriving at
 a climax of suspense, and seeing the Doctor still engaged in the perusal
 of the letter, she came down flat upon the soles of her feet again, and
-cast her apron, as a veil, over her head, in a mute despair, and
+cast her apron, as a veil, over her head, in a mute [[Despair|despair]], and
 inability to bear it any longer.
 
 ‘Here!  Girls!’ cried the Doctor.  ‘I can’t help it: I never could keep a
-secret in my life.  There are not many secrets, indeed, worth being kept
-in such a—well! never mind that.  Alfred’s coming home, my dears,
+secret in my life.  There are not many [[Secrets|secrets]], indeed, worth being kept
+in such a—[[Well|well]]! never mind that.  Alfred’s coming [[Home|home]], my dears,
 directly.’
 
 ‘Directly!’ exclaimed Marion.
 
 ‘What!  The story-book is soon forgotten!’ said the Doctor, pinching her
-cheek.  ‘I thought the news would dry those tears.  Yes.  “Let it be a
+cheek.  ‘I thought the news would dry those [[Tears|tears]].  Yes.  “Let it be a
 surprise,” he says, here.  But I can’t let it be a surprise.  He must
 have a welcome.’
 
@@ -537,7 +537,7 @@ have a welcome.’
 
 ‘Why, perhaps not what your impatience calls “directly,”’ returned the
 doctor; ‘but pretty soon too.  Let us see.  Let us see.  To-day is
-Thursday, is it not?  Then he promises to be here, this day month.’
+[[thursday|Thursday]], is it not?  Then he promises to be here, this day month.’
 
 ‘This day month!’ repeated Marion, softly.
 
@@ -548,17 +548,17 @@ and come at last.’
 She answered with a smile; a mournful smile, but full of sisterly
 affection.  As she looked in her sister’s face, and listened to the quiet
 music of her voice, picturing the happiness of this return, her own face
-glowed with hope and joy.
+glowed with [[Hope|hope]] and joy.
 
 And with a something else; a something shining more and more through all
 the rest of its expression; for which I have no name.  It was not
 exultation, triumph, proud enthusiasm.  They are not so calmly shown.  It
-was not love and gratitude alone, though love and gratitude were part of
+was not [[Love|love]] and gratitude [[Alone|alone]], though [[Love|love]] and gratitude were part of
 it.  It emanated from no sordid thought, for sordid thoughts do not light
 up the brow, and hover on the lips, and move the spirit like a fluttered
 light, until the sympathetic figure trembles.
 
-Dr. Jeddler, in spite of his system of philosophy—which he was
+Dr. Jeddler, in spite of his system of [[philosophy]]—which he was
 continually contradicting and denying in practice, but more famous
 philosophers have done that—could not help having as much interest in the
 return of his old ward and pupil as if it had been a serious event.  So
@@ -566,8 +566,8 @@ he sat himself down in his easy-chair again, stretched out his slippered
 feet once more upon the rug, read the letter over and over a great many
 times, and talked it over more times still.
 
-‘Ah!  The day was,’ said the Doctor, looking at the fire, ‘when you and
-he, Grace, used to trot about arm-in-arm, in his holiday time, like a
+‘Ah!  The day was,’ said the Doctor, looking at the [[Fire|fire]], ‘when you and
+he, Grace, used to trot about arm-in-arm, in his holiday [[Time|time]], like a
 couple of walking dolls.  You remember?’
 
 ‘I remember,’ she answered, with her pleasant laugh, and plying her
@@ -577,10 +577,10 @@ needle busily.
 month ago.  And where was my little Marion then!’
 
 ‘Never far from her sister,’ said Marion, cheerily, ‘however little.
-Grace was everything to me, even when she was a young child herself.’
+Grace was everything to me, even when she was a young [[Child|child]] herself.’
 
 ‘True, Puss, true,’ returned the Doctor.  ‘She was a staid little woman,
-was Grace, and a wise housekeeper, and a busy, quiet, pleasant body;
+was Grace, and a wise housekeeper, and a busy, quiet, pleasant [[Body|body]];
 bearing with our humours and anticipating our wishes, and always ready to
 forget her own, even in those times.  I never knew you positive or
 obstinate, Grace, my darling, even then, on any subject but one.’
@@ -599,49 +599,49 @@ Duchess, if we could have made you one.’
 
 ‘I think I remember something of it,’ she returned, ‘but not much.  It’s
 so long ago.’  And as she sat at work, she hummed the burden of an old
-song, which the Doctor liked.
+[[Song|song]], which the Doctor liked.
 
 ‘Alfred will find a real wife soon,’ she said, breaking off; ‘and that
-will be a happy time indeed for all of us.  My three years’ trust is
+will be a happy [[Time|time]] indeed for all of us.  My three years’ trust is
 nearly at an end, Marion.  It has been a very easy one.  I shall tell
 Alfred, when I give you back to him, that you have loved him dearly all
-the time, and that he has never once needed my good services.  May I tell
-him so, love?’
+the [[Time|time]], and that he has never once needed my good services.  May I tell
+him so, [[Love|love]]?’
 
 ‘Tell him, dear Grace,’ replied Marion, ‘that there never was a trust so
 generously, nobly, steadfastly discharged; and that I have loved _you_,
-all the time, dearer and dearer every day; and O! how dearly now!’
+all the [[Time|time]], dearer and dearer every day; and O! how dearly now!’
 
 ‘Nay,’ said her cheerful sister, returning her embrace, ‘I can scarcely
-tell him that; we will leave my deserts to Alfred’s imagination.  It will
+tell him that; we will leave my deserts to Alfred’s [[Imagination|imagination]].  It will
 be liberal enough, dear Marion; like your own.’
 
 With that, she resumed the work she had for a moment laid down, when her
-sister spoke so fervently: and with it the old song the Doctor liked to
+sister spoke so fervently: and with it the old [[Song|song]] the Doctor liked to
 hear.  And the Doctor, still reposing in his easy-chair, with his
 slippered feet stretched out before him on the rug, listened to the tune,
-and beat time on his knee with Alfred’s letter, and looked at his two
+and beat [[Time|time]] on his knee with Alfred’s letter, and looked at his two
 daughters, and thought that among the many trifles of the trifling world,
 these trifles were agreeable enough.
 
-Clemency Newcome, in the meantime, having accomplished her mission and
+[[Clemency Newcome]], in the meantime, having accomplished her mission and
 lingered in the room until she had made herself a party to the news,
 descended to the kitchen, where her coadjutor, Mr. Britain, was regaling
 after supper, surrounded by such a plentiful collection of bright
-pot-lids, well-scoured saucepans, burnished dinner-covers, gleaming
+pot-lids, [[Well|well]]-scoured saucepans, burnished dinner-covers, gleaming
 kettles, and other tokens of her industrious habits, arranged upon the
 walls and shelves, that he sat as in the centre of a hall of mirrors.
 The majority did not give forth very flattering portraits of him,
 certainly; nor were they by any means unanimous in their reflections; as
 some made him very long-faced, others very broad-faced, some tolerably
-well-looking, others vastly ill-looking, according to their several
+[[Well|well]]-looking, others vastly ill-looking, according to their several
 manners of reflecting: which were as various, in respect of one fact, as
 those of so many kinds of men.  But they all agreed that in the midst of
 them sat, quite at his ease, an individual with a pipe in his mouth, and
 a jug of beer at his elbow, who nodded condescendingly to Clemency, when
 she stationed herself at the same table.
 
-‘Well, Clemmy,’ said Britain, ‘how are you by this time, and what’s the
+‘[[Well]], Clemmy,’ said Britain, ‘how are you by this [[Time|time]], and what’s the
 news?’
 
 Clemency told him the news, which he received very graciously.  A
@@ -670,11 +670,11 @@ idea.  ‘Yes,’ she assented, ‘I’m a likely subject for that; an’t I?’
 pipe.
 
 ‘Don’t you think I ever shall though?’ said Clemency, in perfect good
-faith.
+[[Faith|faith]].
 
 Mr. Britain shook his head.  ‘Not a chance of it!’
 
-‘Only think!’ said Clemency.  ‘Well!—I suppose you mean to, Britain, one
+‘Only think!’ said Clemency.  ‘[[Well]]!—I suppose you mean to, Britain, one
 of these days; don’t you?’
 
 A question so abrupt, upon a subject so momentous, required
@@ -695,7 +695,7 @@ retrospectively at the candle, ‘if it hadn’t been for—not that I went to
 do it, for it was accidental, I am sure—if it hadn’t been for me; now
 would she, Britain?’
 
-‘Certainly not,’ returned Mr. Britain, by this time in that high state of
+‘Certainly not,’ returned Mr. Britain, by this [[Time|time]] in that high state of
 appreciation of his pipe, when a man can open his mouth but a very little
 way for speaking purposes; and sitting luxuriously immovable in his
 chair, can afford to turn only his eyes towards a companion, and that
@@ -704,13 +704,13 @@ Clem.’
 
 ‘Lor, how nice that is to think of!’ said Clemency.
 
-At the same time, bringing her thoughts as well as her sight to bear upon
+At the same [[Time|time]], bringing her thoughts as [[Well|well]] as her sight to bear upon
 the candle-grease, and becoming abruptly reminiscent of its healing
 qualities as a balsam, she anointed her left elbow with a plentiful
 application of that remedy.
 
 ‘You see I’ve made a good many investigations of one sort and another in
-my time,’ pursued Mr. Britain, with the profundity of a sage, ‘having
+my [[Time|time]],’ pursued Mr. Britain, with the profundity of a sage, ‘having
 been always of an inquiring turn of mind; and I’ve read a good many books
 about the general Rights of things and Wrongs of things, for I went into
 the literary line myself, when I began life.’
@@ -722,7 +722,7 @@ a bookstall, ready to fly out if anybody pocketed a volume; and after
 that, I was light porter to a stay and mantua maker, in which capacity I
 was employed to carry about, in oilskin baskets, nothing but
 deceptions—which soured my spirits and disturbed my confidence in human
-nature; and after that, I heard a world of discussions in this house,
+[[Nature|nature]]; and after that, I heard a world of discussions in this [[house]],
 which soured my spirits fresh; and my opinion after all is, that, as a
 safe and comfortable sweetener of the same, and as a pleasant guide
 through life, there’s nothing like a nutmeg-grater.’
@@ -737,7 +737,7 @@ her arms comfortably in her delight at this avowal, and patting her
 elbows.  ‘Such a short cut, an’t it?’
 
 ‘I’m not sure,’ said Mr. Britain, ‘that it’s what would be considered
-good philosophy.  I’ve my doubts about that; but it wears well, and saves
+good [[philosophy]].  I’ve my doubts about that; but it wears [[Well|well]], and saves
 a quantity of snarling, which the genuine article don’t always.’
 
 ‘See how you used to go on once, yourself, you know!’ said Clemency.
@@ -755,7 +755,7 @@ hugged herself, and said, ‘No, she didn’t suppose she had.’
 ‘Oh!  I dare say you’re right,’ said Clemency.  ‘I don’t pretend to none.
 I don’t want any.’
 
-Benjamin took his pipe from his lips, and laughed till the tears ran down
+Benjamin took his pipe from his lips, and laughed till the [[Tears|tears]] ran down
 his face.  ‘What a natural you are, Clemmy!’ he said, shaking his head,
 with an infinite relish of the joke, and wiping his eyes.  Clemency,
 without the smallest inclination to dispute it, did the like, and laughed
@@ -765,7 +765,7 @@ as heartily as he.
 creature in your way, so shake hands, Clem.  Whatever happens, I’ll
 always take notice of you, and be a friend to you.’
 
-‘Will you?’ returned Clemency.  ‘Well! that’s very good of you.’
+‘Will you?’ returned Clemency.  ‘[[Well]]! that’s very good of you.’
 
 ‘Yes, yes,’ said Mr. Britain, giving her his pipe to knock the ashes out
 of it; ‘I’ll stand by you.  Hark!  That’s a curious noise!’
@@ -775,7 +775,7 @@ of it; ‘I’ll stand by you.  Hark!  That’s a curious noise!’
 ‘A footstep outside.  Somebody dropping from the wall, it sounded like,’
 said Britain.  ‘Are they all abed up-stairs?’
 
-‘Yes, all abed by this time,’ she replied.
+‘Yes, all abed by this [[Time|time]],’ she replied.
 
 ‘Didn’t you hear anything?’
 
@@ -802,7 +802,7 @@ stole into her view, ‘What’s that!’
 ‘Hush!’ said Marion in an agitated whisper.  ‘You have always loved me,
 have you not!’
 
-‘Loved you, child!  You may be sure I have.’
+‘Loved you, [[Child|child]]!  You may be sure I have.’
 
 ‘I am sure.  And I may trust you, may I not?  There is no one else just
 now, in whom I _can_ trust.’
@@ -810,7 +810,7 @@ now, in whom I _can_ trust.’
 ‘Yes,’ said Clemency, with all her heart.
 
 ‘There is some one out there,’ pointing to the door, ‘whom I must see,
-and speak with, to-night.  Michael Warden, for God’s sake retire!  Not
+and speak with, to-[[Night|night]].  [[Michael Warden]], for God’s sake retire!  Not
 now!’
 
 Clemency started with surprise and trouble as, following the direction of
@@ -830,7 +830,7 @@ returning lantern flashed into the room.
 
 ‘All still and peaceable.  Nobody there.  Fancy, I suppose,’ said Mr.
 Britain, as he locked and barred the door.  ‘One of the effects of having
-a lively imagination.  Halloa!  Why, what’s the matter?’
+a lively [[Imagination|imagination]].  Halloa!  Why, what’s the matter?’
 
 Clemency, who could not conceal the effects of her surprise and concern,
 was sitting in a chair: pale, and trembling from head to foot.
@@ -847,11 +847,11 @@ general,’ he said, stopping to observe her; ‘and were, after the noise
 and the lantern too.  What have you taken into your head?  Not an idea,
 eh?’
 
-But, as Clemency bade him good night very much after her usual fashion,
+But, as Clemency bade him good [[Night|night]] very much after her usual fashion,
 and began to bustle about with a show of going to bed herself
 immediately, Little Britain, after giving utterance to the original
 remark that it was impossible to account for a woman’s whims, bade her
-good night in return, and taking up his candle strolled drowsily away to
+good [[Night|night]] in return, and taking up his candle strolled drowsily away to
 bed.
 
 When all was quiet, Marion returned.
@@ -865,12 +865,12 @@ before turning the key, looked round on the young creature waiting to
 issue forth when she should open it.
 
 The face was not averted or cast down, but looking full upon her, in its
-pride of youth and beauty.  Some simple sense of the slightness of the
-barrier that interposed itself between the happy home and honoured love
-of the fair girl, and what might be the desolation of that home, and
+[[Pride|pride]] of youth and [[Beauty|beauty]].  Some simple sense of the slightness of the
+barrier that interposed itself between the happy [[Home|home]] and honoured [[Love|love]]
+of the fair girl, and what might be the desolation of that [[Home|home]], and
 shipwreck of its dearest treasure, smote so keenly on the tender heart of
 Clemency, and so filled it to overflowing with sorrow and compassion,
-that, bursting into tears, she threw her arms round Marion’s neck.
+that, bursting into [[Tears|tears]], she threw her arms round Marion’s neck.
 
 ‘It’s little that I know, my dear,’ cried Clemency, ‘very little; but I
 know that this should not be.  Think of what you do!’
@@ -880,13 +880,13 @@ know that this should not be.  Think of what you do!’
 ‘Once more,’ urged Clemency.  ‘Till to-morrow.’  Marion shook her head.
 
 ‘For Mr. Alfred’s sake,’ said Clemency, with homely earnestness.  ‘Him
-that you used to love so dearly, once!’
+that you used to [[Love|love]] so dearly, once!’
 
 She hid her face, upon the instant, in her hands, repeating ‘Once!’ as if
 it rent her heart.
 
 ‘Let me go out,’ said Clemency, soothing her.  ‘I’ll tell him what you
-like.  Don’t cross the door-step to-night.  I’m sure no good will come of
+like.  Don’t [[Cross|cross]] the door-step to-[[Night|night]].  I’m sure no good will come of
 it.  Oh, it was an unhappy day when Mr. Warden was ever brought here!
 Think of your good father, darling—of your sister.’
 
@@ -894,13 +894,13 @@ Think of your good father, darling—of your sister.’
 do.  I _must_ speak to him.  You are the best and truest friend in all
 the world for what you have said to me, but I must take this step.  Will
 you go with me, Clemency,’ she kissed her on her friendly face, ‘or shall
-I go alone?’
+I go [[Alone|alone]]?’
 
 Sorrowing and wondering, Clemency turned the key, and opened the door.
-Into the dark and doubtful night that lay beyond the threshold, Marion
+Into the dark and doubtful [[Night|night]] that lay beyond the threshold, Marion
 passed quickly, holding by her hand.
 
-In the dark night he joined her, and they spoke together earnestly and
+In the dark [[Night|night]] he joined her, and they spoke together earnestly and
 long; and the hand that held so fast by Clemency’s, now trembled, now
 turned deadly cold, now clasped and closed on hers, in the strong feeling
 of the speech it emphasised unconsciously.  When they returned, he
@@ -910,7 +910,7 @@ and pressed it to his lips.  Then, stealthily withdrew.
 The door was barred and locked again, and once again she stood beneath
 her father’s roof.  Not bowed down by the secret that she brought there,
 though so young; but, with that same expression on her face for which I
-had no name before, and shining through her tears.
+had no name before, and shining through her [[Tears|tears]].
 
 Again she thanked and thanked her humble friend, and trusted to her, as
 she said, with confidence, implicitly.  Her chamber safely reached, she
@@ -920,31 +920,31 @@ pray!
 Could rise up from her prayers, so tranquil and serene, and bending over
 her fond sister in her slumber, look upon her face and smile—though
 sadly: murmuring as she kissed her forehead, how that Grace had been a
-mother to her, ever, and she loved her as a child!
+mother to her, ever, and she loved her as a [[Child|child]]!
 
 Could draw the passive arm about her neck when lying down to rest—it
 seemed to cling there, of its own will, protectingly and tenderly even in
-sleep—and breathe upon the parted lips, God bless her!
+[[Sleep|sleep]]—and breathe upon the parted lips, God bless her!
 
-Could sink into a peaceful sleep, herself; but for one dream, in which
-she cried out, in her innocent and touching voice, that she was quite
-alone, and they had all forgotten her.
+Could sink into a peaceful [[Sleep|sleep]], herself; but for one dream, in which
+she cried out, in her [[Innocent|innocent]] and touching voice, that she was quite
+[[Alone|alone]], and they had all forgotten her.
 
 A month soon passes, even at its tardiest pace.  The month appointed to
-elapse between that night and the return, was quick of foot, and went by,
+elapse between that [[Night|night]] and the return, was quick of foot, and went by,
 like a vapour.
 
-The day arrived.  A raging winter day, that shook the old house,
-sometimes, as if it shivered in the blast.  A day to make home doubly
-home.  To give the chimney-corner new delights.  To shed a ruddier glow
+The day arrived.  A raging [[Winter|winter]] day, that shook the old [[house]],
+sometimes, as if it shivered in the blast.  A day to make [[Home|home]] doubly
+[[Home|home]].  To give the chimney-corner new delights.  To shed a ruddier glow
 upon the faces gathered round the hearth, and draw each fireside group
 into a closer and more social league, against the roaring elements
-without.  Such a wild winter day as best prepares the way for shut-out
-night; for curtained rooms, and cheerful looks; for music, laughter,
+without.  Such a wild [[Winter|winter]] day as best prepares the way for shut-out
+[[Night|night]]; for curtained rooms, and cheerful looks; for music, laughter,
 dancing, light, and jovial entertainment!
 
 All these the Doctor had in store to welcome Alfred back.  They knew that
-he could not arrive till night; and they would make the night air ring,
+he could not arrive till [[Night|night]]; and they would make the [[Night|night]] air ring,
 he said, as he approached.  All his old friends should congregate about
 him.  He should not miss a face that he had known and liked.  No!  They
 should every one be there!
@@ -954,24 +954,24 @@ and floors prepared for active feet, and bountiful provision made, of
 every hospitable kind.  Because it was the Christmas season, and his eyes
 were all unused to English holly and its sturdy green, the dancing-room
 was garlanded and hung with it; and the red berries gleamed an English
-welcome to him, peeping from among the leaves.
+welcome to him, peeping from among the [[Leaves|leaves]].
 
 It was a busy day for all of them: a busier day for none of them than
 Grace, who noiselessly presided everywhere, and was the cheerful mind of
-all the preparations.  Many a time that day (as well as many a time
+all the preparations.  Many a [[Time|time]] that day (as [[Well|well]] as many a [[Time|time]]
 within the fleeting month preceding it), did Clemency glance anxiously,
 and almost fearfully, at Marion.  She saw her paler, perhaps, than usual;
 but there was a sweet composure on her face that made it lovelier than
 ever.
 
-At night when she was dressed, and wore upon her head a wreath that Grace
-had proudly twined about it—its mimic flowers were Alfred’s favourites,
+At [[Night|night]] when she was dressed, and wore upon her head a wreath that Grace
+had proudly twined about it—its mimic [[Flowers|flowers]] were Alfred’s favourites,
 as Grace remembered when she chose them—that old expression, pensive,
 almost sorrowful, and yet so spiritual, high, and stirring, sat again
 upon her brow, enhanced a hundred-fold.
 
-‘The next wreath I adjust on this fair head, will be a marriage wreath,’
-said Grace; ‘or I am no true prophet, dear.’
+‘The next wreath I adjust on this fair head, will be a [[Marriage|marriage]] wreath,’
+said Grace; ‘or I am no true [[Prophet|prophet]], dear.’
 
 Her sister smiled, and held her in her arms.
 
@@ -981,62 +981,62 @@ more?’
 Her care was not for that.  It was her sister’s face she thought of, and
 her eyes were fixed upon it, tenderly.
 
-‘My art,’ said Grace, ‘can go no farther, dear girl; nor your beauty.  I
+‘My art,’ said Grace, ‘can go no farther, dear girl; nor your [[Beauty|beauty]].  I
 never saw you look so beautiful as now.’
 
 ‘I never was so happy,’ she returned.
 
-‘Ay, but there is a greater happiness in store.  In such another home, as
+‘Ay, but there is a greater happiness in store.  In such another [[Home|home]], as
 cheerful and as bright as this looks now,’ said Grace, ‘Alfred and his
 young wife will soon be living.’
 
-She smiled again.  ‘It is a happy home, Grace, in your fancy.  I can see
+She smiled again.  ‘It is a happy [[Home|home]], Grace, in your fancy.  I can see
 it in your eyes.  I know it _will_ be happy, dear.  How glad I am to know
 it.’
 
-‘Well,’ cried the Doctor, bustling in.  ‘Here we are, all ready for
+‘[[Well]],’ cried the Doctor, bustling in.  ‘Here we are, all ready for
 Alfred, eh?  He can’t be here until pretty late—an hour or so before
-midnight—so there’ll be plenty of time for making merry before he comes.
-He’ll not find us with the ice unbroken.  Pile up the fire here, Britain!
+midnight—so there’ll be plenty of [[Time|time]] for making merry before he comes.
+He’ll not find us with the ice unbroken.  Pile up the [[Fire|fire]] here, Britain!
 Let it shine upon the holly till it winks again.  It’s a world of
-nonsense, Puss; true lovers and all the rest of it—all nonsense; but
-we’ll be nonsensical with the rest of ’em, and give our true lover a mad
+nonsense, Puss; true [[lovers]] and all the rest of it—all nonsense; but
+we’ll be nonsensical with the rest of ’em, and give our true [[Lover|lover]] a mad
 welcome.  Upon my word!’ said the old Doctor, looking at his daughters
-proudly, ‘I’m not clear to-night, among other absurdities, but that I’m
+proudly, ‘I’m not clear to-[[Night|night]], among other absurdities, but that I’m
 the father of two handsome girls.’
 
 ‘All that one of them has ever done, or may do—may do, dearest father—to
-cause you pain or grief, forgive her,’ said Marion, ‘forgive her now,
+cause you [[Pain|pain]] or grief, forgive her,’ said Marion, ‘forgive her now,
 when her heart is full.  Say that you forgive her.  That you will forgive
-her.  That she shall always share your love, and—,’ and the rest was not
+her.  That she shall always share your [[Love|love]], and—,’ and the rest was not
 said, for her face was hidden on the old man’s shoulder.
 
 ‘Tut, tut, tut,’ said the Doctor gently.  ‘Forgive!  What have I to
-forgive?  Heyday, if our true lovers come back to flurry us like this, we
+forgive?  Heyday, if our true [[lovers]] come back to flurry us like this, we
 must hold ’em at a distance; we must send expresses out to stop ’em short
-upon the road, and bring ’em on a mile or two a day, until we’re properly
-prepared to meet ’em.  Kiss me, Puss.  Forgive!  Why, what a silly child
+upon the [[Road|road]], and bring ’em on a mile or two a day, until we’re properly
+prepared to meet ’em.  Kiss me, Puss.  Forgive!  Why, what a silly [[Child|child]]
 you are!  If you had vexed and crossed me fifty times a day, instead of
 not at all, I’d forgive you everything, but such a supplication.  Kiss me
 again, Puss.  There!  Prospective and retrospective—a clear score between
-us.  Pile up the fire here!  Would you freeze the people on this bleak
-December night!  Let us be light, and warm, and merry, or I’ll not
+us.  Pile up the [[Fire|fire]] here!  Would you freeze the people on this bleak
+December [[Night|night]]!  Let us be light, and warm, and merry, or I’ll not
 forgive some of you!’
 
-So gaily the old Doctor carried it!  And the fire was piled up, and the
+So gaily the old Doctor carried it!  And the [[Fire|fire]] was piled up, and the
 lights were bright, and company arrived, and a murmuring of lively
 tongues began, and already there was a pleasant air of cheerful
-excitement stirring through all the house.
+excitement stirring through all the [[house]].
 
 More and more company came flocking in.  Bright eyes sparkled upon
 Marion; smiling lips gave her joy of his return; sage mothers fanned
 themselves, and hoped she mightn’t be too youthful and inconstant for the
-quiet round of home; impetuous fathers fell into disgrace for too much
-exaltation of her beauty; daughters envied her; sons envied him;
-innumerable pairs of lovers profited by the occasion; all were
+quiet round of [[Home|home]]; impetuous fathers fell into disgrace for too much
+exaltation of her [[Beauty|beauty]]; daughters envied her; sons envied him;
+innumerable pairs of [[lovers]] profited by the occasion; all were
 interested, animated, and expectant.
 
-Mr. and Mrs. Craggs came arm in arm, but Mrs. Snitchey came alone.  ‘Why,
+Mr. and Mrs. Craggs came arm in arm, but Mrs. Snitchey came [[Alone|alone]].  ‘Why,
 what’s become of _him_?’ inquired the Doctor.
 
 The feather of a Bird of Paradise in Mrs. Snitchey’s turban, trembled as
@@ -1056,9 +1056,9 @@ rather late,’ said Mr. Craggs, looking uneasily about him.
 
 But their not knowing what it meant, was perhaps the reason why Mrs.
 Snitchey’s Bird of Paradise feather quivered so portentously, and why all
-the pendant bits on Mrs. Craggs’s ear-rings shook like little bells.
+the pendant bits on Mrs. Craggs’s ear-rings shook like little [[Bells|bells]].
 
-‘I wonder _you_ could come away, Mr. Craggs,’ said his wife.
+‘I [[Wonder|wonder]] _you_ could come away, Mr. Craggs,’ said his wife.
 
 ‘Mr. Craggs is fortunate, I’m sure!’ said Mrs. Snitchey.
 
@@ -1068,7 +1068,7 @@ the pendant bits on Mrs. Craggs’s ear-rings shook like little bells.
 Snitchey.
 
 Then, Mrs. Snitchey said, within herself, that that look of hers had
-pierced to Craggs’s soul, and he knew it; and Mrs. Craggs observed to
+pierced to Craggs’s [[Soul|soul]], and he knew it; and Mrs. Craggs observed to
 Craggs, that ‘his Snitcheys’ were deceiving him behind his back, and he
 would find it out when it was too late.
 
@@ -1079,30 +1079,30 @@ himself.
 ‘Good evening, ma’am,’ said Craggs.  ‘You look charmingly.
 Your—Miss—your sister, Miss Marion, is she—’
 
-‘Oh, she’s quite well, Mr. Craggs.’
+‘Oh, she’s quite [[Well|well]], Mr. Craggs.’
 
 ‘Yes—I—is she here?’ asked Craggs.
 
-‘Here!  Don’t you see her yonder?  Going to dance?’ said Grace.
+‘Here!  Don’t you see her yonder?  Going to [[Dance|dance]]?’ said Grace.
 
 Mr. Craggs put on his spectacles to see the better; looked at her through
-them, for some time; coughed; and put them, with an air of satisfaction,
+them, for some [[Time|time]]; coughed; and put them, with an air of satisfaction,
 in their sheath again, and in his pocket.
 
-Now the music struck up, and the dance commenced.  The bright fire
-crackled and sparkled, rose and fell, as though it joined the dance
+Now the music struck up, and the [[Dance|dance]] commenced.  The bright [[Fire|fire]]
+crackled and sparkled, [[Rose|rose]] and fell, as though it joined the [[Dance|dance]]
 itself, in right good fellowship.  Sometimes, it roared as if it would
 make music too.  Sometimes, it flashed and beamed as if it were the eye
 of the old room: it winked too, sometimes, like a knowing patriarch, upon
 the youthful whisperers in corners.  Sometimes, it sported with the
-holly-boughs; and, shining on the leaves by fits and starts, made them
-look as if they were in the cold winter night again, and fluttering in
-the wind.  Sometimes its genial humour grew obstreperous, and passed all
+holly-boughs; and, shining on the [[Leaves|leaves]] by fits and starts, made them
+look as if they were in the cold [[Winter|winter]] [[Night|night]] again, and fluttering in
+the [[Wind|wind]].  Sometimes its genial [[Humour|humour]] grew obstreperous, and passed all
 bounds; and then it cast into the room, among the twinkling feet, with a
 loud burst, a shower of harmless little sparks, and in its exultation
 leaped and bounded, like a mad thing, up the broad old chimney.
 
-Another dance was near its close, when Mr. Snitchey touched his partner,
+Another [[Dance|dance]] was near its close, when Mr. Snitchey touched his partner,
 who was looking on, upon the arm.
 
 Mr. Craggs started, as if his familiar had been a spectre.
@@ -1113,31 +1113,31 @@ Mr. Craggs started, as if his familiar had been a spectre.
 He went over everything.  He looked into all our arrangements for him,
 and was very particular indeed.  He—Humph!’
 
-The dance was finished.  Marion passed close before him, as he spoke.
+The [[Dance|dance]] was finished.  Marion passed close before him, as he spoke.
 She did not observe him, or his partner; but, looked over her shoulder
 towards her sister in the distance, as she slowly made her way into the
 crowd, and passed out of their view.
 
-‘You see!  All safe and well,’ said Mr. Craggs.  ‘He didn’t recur to that
+‘You see!  All safe and [[Well|well]],’ said Mr. Craggs.  ‘He didn’t recur to that
 subject, I suppose?’
 
 ‘Not a word.’
 
 ‘And is he really gone?  Is he safe away?’
 
-‘He keeps to his word.  He drops down the river with the tide in that
-shell of a boat of his, and so goes out to sea on this dark night!—a
-dare-devil he is—before the wind.  There’s no such lonely road anywhere
+‘He keeps to his word.  He drops down the [[River|river]] with the tide in that
+shell of a boat of his, and so goes out to sea on this dark [[Night|night]]!—a
+dare-devil he is—before the [[Wind|wind]].  There’s no such lonely [[Road|road]] anywhere
 else.  That’s one thing.  The tide flows, he says, an hour before
-midnight—about this time.  I’m glad it’s over.’  Mr. Snitchey wiped his
+midnight—about this [[Time|time]].  I’m glad it’s over.’  Mr. Snitchey wiped his
 forehead, which looked hot and anxious.
 
 ‘What do you think,’ said Mr. Craggs, ‘about—’
 
 ‘Hush!’ replied his cautious partner, looking straight before him.  ‘I
 understand you.  Don’t mention names, and don’t let us, seem to be
-talking secrets.  I don’t know what to think; and to tell you the truth,
-I don’t care now.  It’s a great relief.  His self-love deceived him, I
+talking [[Secrets|secrets]].  I don’t know what to think; and to tell you the [[Truth|truth]],
+I don’t care now.  It’s a great relief.  His [[Self|self]]-[[Love|love]] deceived him, I
 suppose.  Perhaps the young lady coquetted a little.  The evidence would
 seem to point that way.  Alfred not arrived?’
 
@@ -1149,10 +1149,10 @@ spend the evening now, Mr. Craggs.’
 
 Mrs. Craggs and Mrs. Snitchey joined them as he announced this intention.
 The Bird of Paradise was in a state of extreme vibration, and the little
-bells were ringing quite audibly.
+[[Bells|bells]] were ringing quite audibly.
 
 ‘It has been the theme of general comment, Mr. Snitchey,’ said Mrs.
-Snitchey.  ‘I hope the office is satisfied.’
+Snitchey.  ‘I [[Hope|hope]] the office is satisfied.’
 
 ‘Satisfied with what, my dear?’ asked Mr. Snitchey.
 
@@ -1167,11 +1167,11 @@ that, at all events.’
 ‘My dear,’ urged Mr. Craggs, ‘your good opinion is invaluable, but _I_
 never avowed that the office was the enemy of your peace.’
 
-‘No,’ said Mrs. Craggs, ringing a perfect peal upon the little bells.
+‘No,’ said Mrs. Craggs, ringing a perfect peal upon the little [[Bells|bells]].
 ‘Not you, indeed.  You wouldn’t be worthy of the office, if you had the
 candour to.’
 
-‘As to my having been away to-night, my dear,’ said Mr. Snitchey, giving
+‘As to my having been away to-[[Night|night]], my dear,’ said Mr. Snitchey, giving
 her his arm, ‘the deprivation has been mine, I’m sure; but, as Mr. Craggs
 knows—’
 
@@ -1187,41 +1187,41 @@ look at him!
 
 ‘No, no, I’m not,’ said Mrs. Snitchey with a majestic smile.  ‘I know my
 station.  Will you look at your chosen companion, Mr. Snitchey; at your
-referee, at the keeper of your secrets, at the man you trust; at your
-other self, in short?’
+referee, at the keeper of your [[Secrets|secrets]], at the man you trust; at your
+other [[Self|self]], in short?’
 
-The habitual association of Self with Craggs, occasioned Mr. Snitchey to
+The habitual association of [[Self]] with Craggs, occasioned Mr. Snitchey to
 look in that direction.
 
-‘If you can look that man in the eye this night,’ said Mrs. Snitchey,
+‘If you can look that man in the eye this [[Night|night]],’ said Mrs. Snitchey,
 ‘and not know that you are deluded, practised upon, made the victim of
 his arts, and bent down prostrate to his will by some unaccountable
 fascination which it is impossible to explain and against which no
 warning of mine is of the least avail, all I can say is—I pity you!’
 
-At the very same moment Mrs. Craggs was oracular on the cross subject.
+At the very same moment Mrs. Craggs was oracular on the [[Cross|cross]] subject.
 Was it possible, she said, that Craggs could so blind himself to his
 Snitcheys, as not to feel his true position?  Did he mean to say that he
 had seen his Snitcheys come into that room, and didn’t plainly see that
 there was reservation, cunning, treachery, in the man? Would he tell her
 that his very action, when he wiped his forehead and looked so stealthily
 about him, didn’t show that there was something weighing on the
-conscience of his precious Snitcheys (if he had a conscience), that
+[[Conscience|conscience]] of his precious Snitcheys (if he had a [[Conscience|conscience]]), that
 wouldn’t bear the light?  Did anybody but his Snitcheys come to festive
 entertainments like a burglar?—which, by the way, was hardly a clear
 illustration of the case, as he had walked in very mildly at the door.
-And would he still assert to her at noon-day (it being nearly midnight),
+And would he still assert to her at [[Noon|noon]]-day (it being nearly midnight),
 that his Snitcheys were to be justified through thick and thin, against
 all facts, and reason, and experience?
 
 Neither Snitchey nor Craggs openly attempted to stem the current which
 had thus set in, but, both were content to be carried gently along it,
-until its force abated.  This happened at about the same time as a
-general movement for a country dance; when Mr. Snitchey proposed himself
+until its force abated.  This happened at about the same [[Time|time]] as a
+general movement for a country [[Dance|dance]]; when Mr. Snitchey proposed himself
 as a partner to Mrs. Craggs, and Mr. Craggs gallantly offered himself to
 Mrs. Snitchey; and after some such slight evasions as ‘why don’t you ask
-somebody else?’ and ‘you’ll be glad, I know, if I decline,’ and ‘I wonder
-you can dance out of the office’ (but this jocosely now), each lady
+somebody else?’ and ‘you’ll be glad, I know, if I decline,’ and ‘I [[Wonder|wonder]]
+you can [[Dance|dance]] out of the office’ (but this jocosely now), each lady
 graciously accepted, and took her place.
 
 It was an old custom among them, indeed, to do so, and to pair off, in
@@ -1237,15 +1237,15 @@ have considered it almost impossible for the Firm to maintain a
 successful and respectable existence, without her laudable exertions.
 
 But, now, the Bird of Paradise was seen to flutter down the middle; and
-the little bells began to bounce and jingle in poussette; and the
+the little [[Bells|bells]] began to bounce and jingle in poussette; and the
 Doctor’s rosy face spun round and round, like an expressive pegtop highly
-varnished; and breathless Mr. Craggs began to doubt already, whether
+varnished; and breathless Mr. Craggs began to [[Doubt|doubt]] already, whether
 country dancing had been made ‘too easy,’ like the rest of life; and Mr.
-Snitchey, with his nimble cuts and capers, footed it for Self and Craggs,
+Snitchey, with his nimble cuts and capers, footed it for [[Self]] and Craggs,
 and half-a-dozen more.
 
-Now, too, the fire took fresh courage, favoured by the lively wind the
-dance awakened, and burnt clear and high.  It was the Genius of the room,
+Now, too, the [[Fire|fire]] took fresh [[Courage|courage]], favoured by the lively [[Wind|wind]] the
+[[Dance|dance]] awakened, and burnt clear and high.  It was the Genius of the room,
 and present everywhere.  It shone in people’s eyes, it sparkled in the
 jewels on the snowy necks of girls, it twinkled at their ears as if it
 whispered to them slyly, it flashed about their waists, it flickered on
@@ -1254,15 +1254,15 @@ that its glow might set off their bright faces, and it kindled up a
 general illumination in Mrs. Craggs’s little belfry.
 
 Now, too, the lively air that fanned it, grew less gentle as the music
-quickened and the dance proceeded with new spirit; and a breeze arose
-that made the leaves and berries dance upon the wall, as they had often
+quickened and the [[Dance|dance]] proceeded with new spirit; and a breeze arose
+that made the [[Leaves|leaves]] and berries [[Dance|dance]] upon the wall, as they had often
 done upon the trees; and the breeze rustled in the room as if an
 invisible company of fairies, treading in the foot-steps of the good
 substantial revellers, were whirling after them.  Now, too, no feature of
 the Doctor’s face could be distinguished as he spun and spun; and now
-there seemed a dozen Birds of Paradise in fitful flight; and now there
-were a thousand little bells at work; and now a fleet of flying skirts
-was ruffled by a little tempest, when the music gave in, and the dance
+there seemed a dozen [[Birds]] of Paradise in fitful flight; and now there
+were a thousand little [[Bells|bells]] at work; and now a fleet of flying skirts
+was ruffled by a little tempest, when the music gave in, and the [[Dance|dance]]
 was over.
 
 Hot and breathless as the Doctor was, it only made him the more impatient
@@ -1270,29 +1270,29 @@ for Alfred’s coming.
 
 ‘Anything been seen, Britain?  Anything been heard?’
 
-‘Too dark to see far, sir.  Too much noise inside the house to hear.’
+‘Too dark to see far, sir.  Too much noise inside the [[house]] to hear.’
 
-‘That’s right!  The gayer welcome for him.  How goes the time?’
+‘That’s right!  The gayer welcome for him.  How goes the [[Time|time]]?’
 
 ‘Just twelve, sir.  He can’t be long, sir.’
 
-‘Stir up the fire, and throw another log upon it,’ said the Doctor.  ‘Let
-him see his welcome blazing out upon the night—good boy!—as he comes
+‘Stir up the [[Fire|fire]], and throw another log upon it,’ said the Doctor.  ‘Let
+him see his welcome blazing out upon the [[Night|night]]—good boy!—as he comes
 along!’
 
 He saw it—Yes!  From the chaise he caught the light, as he turned the
 corner by the old church.  He knew the room from which it shone.  He saw
 the wintry branches of the old trees between the light and him.  He knew
-that one of those trees rustled musically in the summer time at the
-window of Marion’s chamber.
+that one of those trees rustled musically in the [[Summer|summer]] [[Time|time]] at the
+[[Window|window]] of Marion’s chamber.
 
-The tears were in his eyes.  His heart throbbed so violently that he
+The [[Tears|tears]] were in his eyes.  His heart throbbed so violently that he
 could hardly bear his happiness.  How often he had thought of this
-time—pictured it under all circumstances—feared that it might never
+[[Time|time]]—pictured it under all circumstances—feared that it might never
 come—yearned, and wearied for it—far away!
 
 Again the light!  Distinct and ruddy; kindled, he knew, to give him
-welcome, and to speed him home.  He beckoned with his hand, and waved his
+welcome, and to [[Speed|speed]] him [[Home|home]].  He beckoned with his hand, and waved his
 hat, and cheered out, loud, as if the light were they, and they could see
 and hear him, as he dashed towards them through the mud and mire,
 triumphantly.
@@ -1310,9 +1310,9 @@ the wall, jumped down on the other side, and stood panting in the old
 orchard.
 
 There was a frosty rime upon the trees, which, in the faint light of the
-clouded moon, hung upon the smaller branches like dead garlands.
-Withered leaves crackled and snapped beneath his feet, as he crept softly
-on towards the house.  The desolation of a winter night sat brooding on
+clouded [[Moon|moon]], hung upon the smaller branches like dead garlands.
+Withered [[Leaves|leaves]] crackled and snapped beneath his feet, as he crept softly
+on towards the [[house]].  The desolation of a [[Winter|winter]] [[Night|night]] sat brooding on
 the earth, and in the sky.  But, the red light came cheerily towards him
 from the windows; figures passed and repassed there; and the hum and
 murmur of voices greeted his ear sweetly.
@@ -1331,7 +1331,7 @@ why.  Don’t come in.’
 
 ‘I don’t know.  I—I am afraid to think.  Go back.  Hark!’
 
-There was a sudden tumult in the house.  She put her hands upon her ears.
+There was a sudden tumult in the [[house]].  She put her hands upon her ears.
 A wild scream, such as no hands could shut out, was heard; and
 Grace—distraction in her looks and manner—rushed out at the door.
 
@@ -1340,7 +1340,7 @@ Grace—distraction in her looks and manner—rushed out at the door.
 She disengaged herself, as if to recognise his face, and fell down at his
 feet.
 
-A crowd of figures came about them from the house.  Among them was her
+A crowd of figures came about them from the [[house]].  Among them was her
 father, with a paper in his hand.
 
 ‘What is it!’ cried Alfred, grasping his hair with his hands, and looking
@@ -1354,8 +1354,8 @@ There was a murmur among them.  ‘She is gone.’
 ‘Gone!’ he echoed.
 
 ‘Fled, my dear Alfred!’ said the Doctor, in a broken voice, and with his
-hands before his face.  ‘Gone from her home and us.  To-night!  She
-writes that she has made her innocent and blameless choice—entreats that
+hands before his face.  ‘Gone from her [[Home|home]] and us.  To-[[Night|night]]!  She
+writes that she has made her [[Innocent|innocent]] and blameless choice—entreats that
 we will forgive her—prays that we will not forget her—and is gone.’
 
 ‘With whom?  Where?’
@@ -1366,15 +1366,15 @@ his former attitude, clasping one of Grace’s cold hands in his own.
 
 There was a hurried running to and fro, confusion, noise, disorder, and
 no purpose.  Some proceeded to disperse themselves about the roads, and
-some took horse, and some got lights, and some conversed together, urging
+some took [[Horse|horse]], and some got lights, and some conversed together, urging
 that there was no trace or track to follow.  Some approached him kindly,
 with the view of offering consolation; some admonished him that Grace
-must be removed into the house, and that he prevented it.  He never heard
+must be removed into the [[house]], and that he prevented it.  He never heard
 them, and he never moved.
 
-The snow fell fast and thick.  He looked up for a moment in the air, and
+The [[Snow|snow]] fell fast and thick.  He looked up for a moment in the air, and
 thought that those white ashes strewn upon his hopes and misery, were
-suited to them well.  He looked round on the whitening ground, and
+suited to them [[Well|well]].  He looked round on the whitening ground, and
 thought how Marion’s foot-prints would be hushed and covered up, as soon
 as made, and even that remembrance of her blotted out.  But he never felt
 the weather and he never stirred.

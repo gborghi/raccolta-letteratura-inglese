@@ -1,5 +1,5 @@
 ---
-title: "The Murders in the Rue Morgue (part 7)"
+title: "[[The Murders in the Rue Morgue]] (part 7)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Murders-in-the-Rue-Morgue-(Poe)"
@@ -24,11 +24,11 @@ tags:
 
       perplexing in all its particulars, was never before committed in
 
-      Paris—if indeed a murder has been committed at all. The police
+      [[Paris]]—if indeed a murder has been committed at all. The police
 
       are entirely at fault—an unusual occurrence in affairs of this
 
-      nature. There is not, however, the shadow of a clew apparent.”
+      [[Nature|nature]]. There is not, however, the [[Shadow|shadow]] of a clew apparent.”
 
 
 
@@ -58,7 +58,7 @@ tags:
 
 
 
-      I could merely agree with all Paris in considering them an
+      I could merely agree with all [[Paris]] in considering them an
 
       insoluble mystery. I saw no means by which it would be possible
 
@@ -98,9 +98,9 @@ tags:
 
       doing he, necessarily, lost sight of the matter as a whole. Thus
 
-      there is such a thing as being too profound. Truth is not always
+      there is such a thing as being too profound. [[Truth]] is not always
 
-      in a well. In fact, as regards the more important knowledge, I do
+      in a [[Well|well]]. In fact, as regards the more important knowledge, I do
 
       believe that she is invariably superficial. The depth lies in the
 
@@ -108,7 +108,7 @@ tags:
 
       she is found. The modes and sources of this kind of error are
 
-      well typified in the contemplation of the heavenly bodies. To
+      [[Well|well]] typified in the contemplation of the heavenly bodies. To
 
       look at a star by glances—to view it in a side-long way, by
 
@@ -128,7 +128,7 @@ tags:
 
       profundity we perplex and enfeeble thought; and it is possible to
 
-      make even Venus herself vanish from the firmament by a scrutiny
+      make even [[Venus]] herself vanish from the firmament by a scrutiny
 
       too sustained, too concentrated, or too direct.
 
@@ -160,17 +160,17 @@ tags:
 
       late in the afternoon when we reached it, as this quarter is at a
 
-      great distance from that in which we resided. The house was
+      great distance from that in which we resided. The [[house]] was
 
       readily found; for there were still many persons gazing up at the
 
       closed shutters, with an objectless curiosity, from the opposite
 
-      side of the way. It was an ordinary Parisian house, with a
+      side of the way. It was an ordinary Parisian [[house]], with a
 
       gateway, on one side of which was a glazed watch-box, with a
 
-      sliding panel in the window, indicating a _loge de concierge._
+      sliding panel in the [[Window|window]], indicating a _loge de concierge._
 
       Before going in we walked up the street, turned down an alley,
 
@@ -178,7 +178,7 @@ tags:
 
       building—Dupin, meanwhile examining the whole neighborhood, as
 
-      well as the house, with a minuteness of attention for which I
+      [[Well|well]] as the [[house]], with a minuteness of attention for which I
 
       could see no possible object.
 
@@ -190,7 +190,7 @@ tags:
 
       agents in charge. We went up stairs—into the chamber where the
 
-      body of Mademoiselle L’Espanaye had been found, and where both
+      [[Body|body]] of Mademoiselle L’Espanaye had been found, and where both
 
       the deceased still lay. The disorders of the room had, as usual,
 
@@ -204,7 +204,7 @@ tags:
 
       throughout. The examination occupied us until dark, when we took
 
-      our departure. On our way home my companion stepped in for a
+      our departure. On our way [[Home|home]] my companion stepped in for a
 
       moment at the office of one of the daily papers.
 

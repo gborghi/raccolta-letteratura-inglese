@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 25: GOOD AND BAD ANGELS"
+title: "[[David Copperfield]] — Chapter 25: GOOD AND BAD ANGELS"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -19,10 +19,10 @@ CHAPTER 25. GOOD AND BAD ANGELS
 
 I was going out at my door on the morning after that deplorable day of
 headache, sickness, and repentance, with an odd confusion in my mind
-relative to the date of my dinner-party, as if a body of Titans had
+relative to the date of my dinner-party, as if a [[Body|body]] of Titans had
 taken an enormous lever and pushed the day before yesterday some months
 back, when I saw a ticket-porter coming upstairs, with a letter in his
-hand. He was taking his time about his errand, then; but when he saw me
+hand. He was taking his [[Time|time]] about his errand, then; but when he saw me
 on the top of the staircase, looking at him over the banisters, he swung
 into a trot, and came up panting as if he had run himself into a state
 of exhaustion.
@@ -41,14 +41,14 @@ resolve to break the seal.
 
 I found, when I did open it, that it was a very kind note, containing
 no reference to my condition at the theatre. All it said was, ‘My dear
-Trotwood. I am staying at the house of papa’s agent, Mr. Waterbrook, in
-Ely Place, Holborn. Will you come and see me today, at any time you like
+Trotwood. I am staying at the [[house]] of papa’s agent, Mr. Waterbrook, in
+Ely Place, Holborn. Will you come and see me today, at any [[Time|time]] you like
 to appoint? Ever yours affectionately, AGNES.’
 
-It took me such a long time to write an answer at all to my
+It took me such a long [[Time|time]] to write an answer at all to my
 satisfaction, that I don’t know what the ticket-porter can have
 thought, unless he thought I was learning to write. I must have written
-half-a-dozen answers at least. I began one, ‘How can I ever hope,
+half-a-dozen answers at least. I began one, ‘How can I ever [[Hope|hope]],
 my dear Agnes, to efface from your remembrance the disgusting
 impression’--there I didn’t like it, and then I tore it up. I began
 another, ‘Shakespeare has observed, my dear Agnes, how strange it is
@@ -58,19 +58,19 @@ in a six-syllable line, ‘Oh, do not remember’--but that associated
 itself with the fifth of November, and became an absurdity. After many
 attempts, I wrote, ‘My dear Agnes. Your letter is like you, and what
 could I say of it that would be higher praise than that? I will come at
-four o’clock. Affectionately and sorrowfully, T.C.’ With this missive
+four o’[[Clock|clock]]. Affectionately and sorrowfully, T.C.’ With this missive
 (which I was in twenty minds at once about recalling, as soon as it was
 out of my hands), the ticket-porter at last departed.
 
 If the day were half as tremendous to any other professional gentleman
 in Doctors’ Commons as it was to me, I sincerely believe he made some
-expiation for his share in that rotten old ecclesiastical cheese.
+expiation for his share in that rotten old ecclesiastical [[cheese]].
 Although I left the office at half past three, and was prowling about
 the place of appointment within a few minutes afterwards, the appointed
-time was exceeded by a full quarter of an hour, according to the
-clock of St. Andrew’s, Holborn, before I could muster up sufficient
+[[Time|time]] was exceeded by a full quarter of an hour, according to the
+[[Clock|clock]] of St. Andrew’s, Holborn, before I could muster up sufficient
 desperation to pull the private bell-handle let into the left-hand
-door-post of Mr. Waterbrook’s house.
+door-post of Mr. Waterbrook’s [[house]].
 
 The professional business of Mr. Waterbrook’s establishment was done on
 the ground-floor, and the genteel business (of which there was a good
@@ -79,9 +79,9 @@ rather close drawing-room, and there sat Agnes, netting a purse.
 
 She looked so quiet and good, and reminded me so strongly of my airy
 fresh school days at Canterbury, and the sodden, smoky, stupid wretch
-I had been the other night, that, nobody being by, I yielded to my
-self-reproach and shame, and--in short, made a fool of myself. I cannot
-deny that I shed tears. To this hour I am undecided whether it was upon
+I had been the other [[Night|night]], that, nobody being by, I yielded to my
+[[Self|self]]-reproach and shame, and--in short, made a [[Fool|fool]] of myself. I cannot
+deny that I shed [[Tears|tears]]. To this hour I am undecided whether it was upon
 the whole the wisest thing I could have done, or the most ridiculous.
 
 ‘If it had been anyone but you, Agnes,’ said I, turning away my head, ‘I
@@ -115,9 +115,9 @@ Angel.’
 ‘I do, Trotwood,’ she returned. ‘Then, Agnes, you wrong him very much.
 He my bad Angel, or anyone’s! He, anything but a guide, a support, and
 a friend to me! My dear Agnes! Now, is it not unjust, and unlike you, to
-judge him from what you saw of me the other night?’
+judge him from what you saw of me the other [[Night|night]]?’
 
-‘I do not judge him from what I saw of you the other night,’ she quietly
+‘I do not judge him from what I saw of you the other [[Night|night]],’ she quietly
 replied.
 
 ‘From what, then?’
@@ -128,7 +128,7 @@ of him, Trotwood, and your character, and the influence he has over
 you.’
 
 There was always something in her modest voice that seemed to touch a
-chord within me, answering to that sound alone. It was always earnest;
+chord within me, answering to that sound [[Alone|alone]]. It was always earnest;
 but when it was very earnest, as it was now, there was a thrill in it
 that quite subdued me. I sat looking at her as she cast her eyes down on
 her work; I sat seeming still to listen to her; and Steerforth, in spite
@@ -157,15 +157,15 @@ knew why, ‘as often as you think of me--to think of what I have said. Do
 you forgive me for all this?’
 
 ‘I will forgive you, Agnes,’ I replied, ‘when you come to do Steerforth
-justice, and to like him as well as I do.’
+justice, and to like him as [[Well|well]] as I do.’
 
 ‘Not until then?’ said Agnes.
 
-I saw a passing shadow on her face when I made this mention of him, but
+I saw a passing [[Shadow|shadow]] on her face when I made this mention of him, but
 she returned my smile, and we were again as unreserved in our mutual
 confidence as of old.
 
-‘And when, Agnes,’ said I, ‘will you forgive me the other night?’
+‘And when, Agnes,’ said I, ‘will you forgive me the other [[Night|night]]?’
 
 ‘When I recall it,’ said Agnes.
 
@@ -178,7 +178,7 @@ me when I was unable to take care of myself.
 
 ‘You must not forget,’ said Agnes, calmly changing the conversation as
 soon as I had concluded, ‘that you are always to tell me, not only when
-you fall into trouble, but when you fall in love. Who has succeeded to
+you fall into trouble, but when you fall in [[Love|love]]. Who has succeeded to
 Miss Larkins, Trotwood?’
 
 ‘No one, Agnes.’
@@ -186,20 +186,20 @@ Miss Larkins, Trotwood?’
 ‘Someone, Trotwood,’ said Agnes, laughing, and holding up her finger.
 
 ‘No, Agnes, upon my word! There is a lady, certainly, at Mrs.
-Steerforth’s house, who is very clever, and whom I like to talk to--Miss
+Steerforth’s [[house]], who is very clever, and whom I like to talk to--Miss
 Dartle--but I don’t adore her.’
 
 Agnes laughed again at her own penetration, and told me that if I were
 faithful to her in my confidence she thought she should keep a little
 register of my violent attachments, with the date, duration, and
 termination of each, like the table of the reigns of the kings and
-queens, in the History of England. Then she asked me if I had seen
+queens, in the [[history|History]] of England. Then she asked me if I had seen
 Uriah.
 
-‘Uriah Heep?’ said I. ‘No. Is he in London?’
+‘[[Uriah Heep]]?’ said I. ‘No. Is he in [[London]]?’
 
 ‘He comes to the office downstairs, every day,’ returned Agnes. ‘He
-was in London a week before me. I am afraid on disagreeable business,
+was in [[London]] a week before me. I am afraid on disagreeable business,
 Trotwood.’
 
 ‘On some business that makes you uneasy, Agnes, I see,’ said I. ‘What
@@ -215,7 +215,7 @@ hers:
 promotion!’ I cried, indignantly. ‘Have you made no remonstrance about
 it, Agnes? Consider what a connexion it is likely to be. You must speak
 out. You must not allow your father to take such a mad step. You must
-prevent it, Agnes, while there’s time.’
+prevent it, Agnes, while there’s [[Time|time]].’
 
 Still looking at me, Agnes shook her head while I was speaking, with a
 faint smile at my warmth: and then replied:
@@ -223,7 +223,7 @@ faint smile at my warmth: and then replied:
 ‘You remember our last conversation about papa? It was not long after
 that--not more than two or three days--when he gave me the first
 intimation of what I tell you. It was sad to see him struggling between
-his desire to represent it to me as a matter of choice on his part,
+his [[Desire|desire]] to represent it to me as a matter of choice on his part,
 and his inability to conceal that it was forced upon him. I felt very
 sorry.’
 
@@ -235,35 +235,35 @@ weaknesses, fostered them, and taken advantage of them, until--to say
 all that I mean in a word, Trotwood,--until papa is afraid of him.’
 
 There was more that she might have said; more that she knew, or that she
-suspected; I clearly saw. I could not give her pain by asking what it
+suspected; I clearly saw. I could not give her [[Pain|pain]] by asking what it
 was, for I knew that she withheld it from me, to spare her father. It
 had long been going on to this, I was sensible: yes, I could not but
 feel, on the least reflection, that it had been going on to this for a
-long time. I remained silent.
+long [[Time|time]]. I remained silent.
 
 ‘His ascendancy over papa,’ said Agnes, ‘is very great. He professes
-humility and gratitude--with truth, perhaps: I hope so--but his position
-is really one of power, and I fear he makes a hard use of his power.’
+[[Humility|humility]] and gratitude--with [[Truth|truth]], perhaps: I [[Hope|hope]] so--but his position
+is really one of power, and I [[Fear|fear]] he makes a hard use of his power.’
 
 I said he was a hound, which, at the moment, was a great satisfaction to
 me.
 
-‘At the time I speak of, as the time when papa spoke to me,’ pursued
+‘At the [[Time|time]] I speak of, as the [[Time|time]] when papa spoke to me,’ pursued
 Agnes, ‘he had told papa that he was going away; that he was very sorry,
 and unwilling to leave, but that he had better prospects. Papa was very
 much depressed then, and more bowed down by care than ever you or I have
 seen him; but he seemed relieved by this expedient of the partnership,
-though at the same time he seemed hurt by it and ashamed of it.’
+though at the same [[Time|time]] he seemed hurt by it and ashamed of it.’
 
 ‘And how did you receive it, Agnes?’
 
-‘I did, Trotwood,’ she replied, ‘what I hope was right. Feeling sure
+‘I did, Trotwood,’ she replied, ‘what I [[Hope|hope]] was right. Feeling sure
 that it was necessary for papa’s peace that the sacrifice should be
 made, I entreated him to make it. I said it would lighten the load
-of his life--I hope it will!--and that it would give me increased
+of his life--I [[Hope|hope]] it will!--and that it would give me increased
 opportunities of being his companion. Oh, Trotwood!’ cried Agnes,
-putting her hands before her face, as her tears started on it, ‘I almost
-feel as if I had been papa’s enemy, instead of his loving child. For
+putting her hands before her face, as her [[Tears|tears]] started on it, ‘I almost
+feel as if I had been papa’s enemy, instead of his loving [[Child|child]]. For
 I know how he has altered, in his devotion to me. I know how he has
 narrowed the circle of his sympathies and duties, in the concentration
 of his whole mind upon me. I know what a multitude of things he has shut
@@ -272,35 +272,35 @@ life, and weakened his strength and energy, by turning them always upon
 one idea. If I could ever set this right! If I could ever work out his
 restoration, as I have so innocently been the cause of his decline!’
 
-I had never before seen Agnes cry. I had seen tears in her eyes when I
-had brought new honours home from school, and I had seen them there when
+I had never before seen Agnes cry. I had seen [[Tears|tears]] in her eyes when I
+had brought new honours [[Home|home]] from school, and I had seen them there when
 we last spoke about her father, and I had seen her turn her gentle head
 aside when we took leave of one another; but I had never seen her grieve
 like this. It made me so sorry that I could only say, in a foolish,
 helpless manner, ‘Pray, Agnes, don’t! Don’t, my dear sister!’
 
 But Agnes was too superior to me in character and purpose, as I know
-well now, whatever I might know or not know then, to be long in need of
+[[Well|well]] now, whatever I might know or not know then, to be long in need of
 my entreaties. The beautiful, calm manner, which makes her so different
 in my remembrance from everybody else, came back again, as if a cloud
 had passed from a serene sky.
 
-‘We are not likely to remain alone much longer,’ said Agnes, ‘and while
+‘We are not likely to remain [[Alone|alone]] much longer,’ said Agnes, ‘and while
 I have an opportunity, let me earnestly entreat you, Trotwood, to be
 friendly to Uriah. Don’t repel him. Don’t resent (as I think you have a
 general disposition to do) what may be uncongenial to you in him. He may
 not deserve it, for we know no certain ill of him. In any case, think
 first of papa and me!’
 
-Agnes had no time to say more, for the room door opened, and Mrs.
+Agnes had no [[Time|time]] to say more, for the room door opened, and Mrs.
 Waterbrook, who was a large lady--or who wore a large dress: I don’t
 exactly know which, for I don’t know which was dress and which was
 lady--came sailing in. I had a dim recollection of having seen her
-at the theatre, as if I had seen her in a pale magic lantern; but she
+at the theatre, as if I had seen her in a pale [[Magic|magic]] lantern; but she
 appeared to remember me perfectly, and still to suspect me of being in a
 state of intoxication.
 
-Finding by degrees, however, that I was sober, and (I hope) that I was
+Finding by degrees, however, that I was sober, and (I [[Hope|hope]]) that I was
 a modest young gentleman, Mrs. Waterbrook softened towards me
 considerably, and inquired, firstly, if I went much into the parks,
 and secondly, if I went much into society. On my replying to both these
@@ -316,26 +316,26 @@ not the only guest, for I immediately identified the ticket-porter in
 disguise, assisting the family servant, and waiting at the foot of the
 stairs to carry up my name. He looked, to the best of his ability, when
 he asked me for it confidentially, as if he had never seen me before;
-but well did I know him, and well did he know me. Conscience made
+but [[Well|well]] did I know him, and [[Well|well]] did he know me. [[Conscience]] made
 cowards of us both.
 
 I found Mr. Waterbrook to be a middle-aged gentleman, with a short
 throat, and a good deal of shirt-collar, who only wanted a black nose to
 be the portrait of a pug-dog. He told me he was happy to have the
-honour of making my acquaintance; and when I had paid my homage to Mrs.
+[[Honour|honour]] of making my acquaintance; and when I had paid my homage to Mrs.
 Waterbrook, presented me, with much ceremony, to a very awful lady in
 a black velvet dress, and a great black velvet hat, whom I remember as
-looking like a near relation of Hamlet’s--say his aunt.
+looking like a near relation of [[Hamlet]]’s--say his aunt.
 
 Mrs. Henry Spiker was this lady’s name; and her husband was there
 too: so cold a man, that his head, instead of being grey, seemed to
-be sprinkled with hoar-frost. Immense deference was shown to the Henry
+be sprinkled with hoar-[[Frost|frost]]. Immense deference was shown to the Henry
 Spikers, male and female; which Agnes told me was on account of Mr.
 Henry Spiker being solicitor to something or to somebody, I forget what
 or which, remotely connected with the Treasury.
 
-I found Uriah Heep among the company, in a suit of black, and in deep
-humility. He told me, when I shook hands with him, that he was proud
+I found [[Uriah Heep]] among the company, in a suit of black, and in deep
+[[Humility|humility]]. He told me, when I shook hands with him, that he was proud
 to be noticed by me, and that he really felt obliged to me for my
 condescension. I could have wished he had been less obliged to me, for
 he hovered about me in his gratitude all the rest of the evening; and
@@ -345,7 +345,7 @@ cadaverous face, to be looking gauntly down upon us from behind.
 There were other guests--all iced for the occasion, as it struck me,
 like the wine. But there was one who attracted my attention before he
 came in, on account of my hearing him announced as Mr. Traddles! My mind
-flew back to Salem House; and could it be Tommy, I thought, who used to
+flew back to Salem [[house|House]]; and could it be Tommy, I thought, who used to
 draw the skeletons!
 
 I looked for Mr. Traddles with unusual interest. He was a sober,
@@ -368,7 +368,7 @@ Traddles.’
 ‘Possibly.’
 
 ‘If it’s really the same person,’ said I, glancing towards him, ‘it
-was at a place called Salem House where we were together, and he was an
+was at a place called Salem [[house|House]] where we were together, and he was an
 excellent fellow.’
 
 ‘Oh yes. Traddles is a good fellow,’ returned my host nodding his head
@@ -391,7 +391,7 @@ bar. Yes. He is quite a good fellow--nobody’s enemy but his own.’
 
 ‘Is he his own enemy?’ said I, sorry to hear this.
 
-‘Well,’ returned Mr. Waterbrook, pursing up his mouth, and playing with
+‘[[Well]],’ returned Mr. Waterbrook, pursing up his mouth, and playing with
 his watch-chain, in a comfortable, prosperous sort of way. ‘I should say
 he was one of those men who stand in their own light. Yes, I should say
 he would never, for example, be worth five hundred pound. Traddles was
@@ -410,60 +410,60 @@ the fortifications, with the eye of a philosopher and a patron, on the
 people down in the trenches.
 
 My reflections on this theme were still in progress when dinner was
-announced. Mr. Waterbrook went down with Hamlet’s aunt. Mr. Henry Spiker
+announced. Mr. Waterbrook went down with [[Hamlet]]’s aunt. Mr. Henry Spiker
 took Mrs. Waterbrook. Agnes, whom I should have liked to take myself,
 was given to a simpering fellow with weak legs. Uriah, Traddles, and I,
 as the junior part of the company, went down last, how we could. I was
 not so vexed at losing Agnes as I might have been, since it gave me
 an opportunity of making myself known to Traddles on the stairs, who
 greeted me with great fervour; while Uriah writhed with such obtrusive
-satisfaction and self-abasement, that I could gladly have pitched
+satisfaction and [[Self|self]]-abasement, that I could gladly have pitched
 him over the banisters. Traddles and I were separated at table, being
 billeted in two remote corners: he in the glare of a red velvet lady;
-I, in the gloom of Hamlet’s aunt. The dinner was very long, and the
-conversation was about the Aristocracy--and Blood. Mrs. Waterbrook
-repeatedly told us, that if she had a weakness, it was Blood.
+I, in the gloom of [[Hamlet]]’s aunt. The dinner was very long, and the
+conversation was about the Aristocracy--and [[Blood]]. Mrs. Waterbrook
+repeatedly told us, that if she had a weakness, it was [[Blood]].
 
 It occurred to me several times that we should have got on better, if we
 had not been quite so genteel. We were so exceedingly genteel, that our
 scope was very limited. A Mr. and Mrs. Gulpidge were of the party, who
 had something to do at second-hand (at least, Mr. Gulpidge had) with
 the law business of the Bank; and what with the Bank, and what with
-the Treasury, we were as exclusive as the Court Circular. To mend the
-matter, Hamlet’s aunt had the family failing of indulging in soliloquy,
+the Treasury, we were as exclusive as the [[Court]] Circular. To mend the
+matter, [[Hamlet]]’s aunt had the family failing of indulging in soliloquy,
 and held forth in a desultory manner, by herself, on every topic that
 was introduced. These were few enough, to be sure; but as we always fell
-back upon Blood, she had as wide a field for abstract speculation as her
+back upon [[Blood]], she had as wide a field for abstract speculation as her
 nephew himself.
 
 We might have been a party of Ogres, the conversation assumed such a
 sanguine complexion.
 
 ‘I confess I am of Mrs. Waterbrook’s opinion,’ said Mr. Waterbrook, with
-his wine-glass at his eye. ‘Other things are all very well in their way,
-but give me Blood!’
+his wine-glass at his eye. ‘Other things are all very [[Well|well]] in their way,
+but give me [[Blood]]!’
 
-‘Oh! There is nothing,’ observed Hamlet’s aunt, ‘so satisfactory to one!
+‘Oh! There is nothing,’ observed [[Hamlet]]’s aunt, ‘so satisfactory to one!
 There is nothing that is so much one’s beau-ideal of--of all that sort
 of thing, speaking generally. There are some low minds (not many, I am
 happy to believe, but there are some) that would prefer to do what I
 should call bow down before idols. Positively Idols! Before service,
-intellect, and so on. But these are intangible points. Blood is not so.
-We see Blood in a nose, and we know it. We meet with it in a chin, and
-we say, “There it is! That’s Blood!” It is an actual matter of fact. We
-point it out. It admits of no doubt.’
+intellect, and so on. But these are intangible points. [[Blood]] is not so.
+We see [[Blood]] in a nose, and we know it. We meet with it in a chin, and
+we say, “There it is! That’s [[Blood]]!” It is an actual matter of fact. We
+point it out. It admits of no [[Doubt|doubt]].’
 
 The simpering fellow with the weak legs, who had taken Agnes down,
 stated the question more decisively yet, I thought.
 
 ‘Oh, you know, deuce take it,’ said this gentleman, looking round the
-board with an imbecile smile, ‘we can’t forego Blood, you know. We must
-have Blood, you know. Some young fellows, you know, may be a little
-behind their station, perhaps, in point of education and behaviour, and
+board with an imbecile smile, ‘we can’t forego [[Blood]], you know. We must
+have [[Blood]], you know. Some young fellows, you know, may be a little
+behind their station, perhaps, in point of [[Education|education]] and behaviour, and
 may go a little wrong, you know, and get themselves and other people
 into a variety of fixes--and all that--but deuce take it, it’s
-delightful to reflect that they’ve got Blood in ‘em! Myself, I’d rather
-at any time be knocked down by a man who had got Blood in him, than I’d
+delightful to reflect that they’ve got [[Blood]] in ‘em! Myself, I’d rather
+at any [[Time|time]] be knocked down by a man who had got [[Blood]] in him, than I’d
 be picked up by a man who hadn’t!’
 
 This sentiment, as compressing the general question into a nutshell,
@@ -491,7 +491,7 @@ Gulpidge, checking himself--
 Mr. Gulpidge darkly nodded--‘was referred to him, his answer was,
 “Money, or no release.”’
 
-‘Lord bless my soul!’ cried Mr. Spiker.
+‘Lord bless my [[Soul|soul]]!’ cried Mr. Spiker.
 
 “‘Money, or no release,”’ repeated Mr. Gulpidge, firmly. ‘The next in
 reversion--you understand me?’
@@ -517,9 +517,9 @@ a confidence, naturally desired to favour his friend with a confidence
 of his own; therefore the foregoing dialogue was succeeded by another,
 in which it was Mr. Gulpidge’s turn to be surprised, and that by another
 in which the surprise came round to Mr. Spiker’s turn again, and so on,
-turn and turn about. All this time we, the outsiders, remained oppressed
+turn and turn about. All this [[Time|time]] we, the outsiders, remained oppressed
 by the tremendous interests involved in the conversation; and our
-host regarded us with pride, as the victims of a salutary awe and
+host regarded us with [[Pride|pride]], as the victims of a salutary awe and
 astonishment. I was very glad indeed to get upstairs to Agnes, and to
 talk with her in a corner, and to introduce Traddles to her, who was
 shy, but agreeable, and the same good-natured creature still. As he
@@ -533,28 +533,28 @@ looked at me the while, and very slightly shook her head when only I
 observed her.
 
 As she was not among people with whom I believed she could be very much
-at home, I was almost glad to hear that she was going away within a few
+at [[Home|home]], I was almost glad to hear that she was going away within a few
 days, though I was sorry at the prospect of parting from her again
 so soon. This caused me to remain until all the company were gone.
 Conversing with her, and hearing her sing, was such a delightful
-reminder to me of my happy life in the grave old house she had made so
-beautiful, that I could have remained there half the night; but, having
+reminder to me of my happy life in the [[Grave|grave]] old [[house]] she had made so
+beautiful, that I could have remained there half the [[Night|night]]; but, having
 no excuse for staying any longer, when the lights of Mr. Waterbrook’s
 society were all snuffed out, I took my leave very much against my
 inclination. I felt then, more than ever, that she was my better Angel;
 and if I thought of her sweet face and placid smile, as though they had
-shone on me from some removed being, like an Angel, I hope I thought no
+shone on me from some removed being, like an Angel, I [[Hope|hope]] I thought no
 harm.
 
 I have said that the company were all gone; but I ought to have excepted
 Uriah, whom I don’t include in that denomination, and who had never
 ceased to hover near us. He was close behind me when I went downstairs.
-He was close beside me, when I walked away from the house, slowly
-fitting his long skeleton fingers into the still longer fingers of a
+He was close beside me, when I walked away from the [[house]], slowly
+fitting his long [[skeleton]] fingers into the still longer fingers of a
 great Guy Fawkes pair of gloves.
 
 It was in no disposition for Uriah’s company, but in remembrance of the
-entreaty Agnes had made to me, that I asked him if he would come home to
+entreaty Agnes had made to me, that I asked him if he would come [[Home|home]] to
 my rooms, and have some coffee.
 
 ‘Oh, really, Master Copperfield,’ he rejoined--‘I beg your pardon,
@@ -566,10 +566,10 @@ to your ouse.’
 
 ‘I should like to, very much,’ replied Uriah, with a writhe.
 
-‘Well, then, come along!’ said I.
+‘[[Well]], then, come along!’ said I.
 
 I could not help being rather short with him, but he appeared not to
-mind it. We went the nearest way, without conversing much upon the road;
+mind it. We went the nearest way, without conversing much upon the [[Road|road]];
 and he was so humble in respect of those scarecrow gloves, that he
 was still putting them on, and seemed to have made no advance in that
 labour, when we got to my place.
@@ -617,8 +617,8 @@ I could have thrown my bootjack at him (it lay ready on the rug), for
 having entrapped me into the disclosure of anything concerning Agnes,
 however immaterial. But I only drank my coffee.
 
-‘What a prophet you have shown yourself, Mister Copperfield!’ pursued
-Uriah. ‘Dear me, what a prophet you have proved yourself to be! Don’t
+‘What a [[Prophet|prophet]] you have shown yourself, Mister Copperfield!’ pursued
+Uriah. ‘Dear me, what a [[Prophet|prophet]] you have proved yourself to be! Don’t
 you remember saying to me once, that perhaps I should be a partner in
 Mr. Wickfield’s business, and perhaps it might be Wickfield and
 Heep? You may not recollect it; but when a person is umble, Master
@@ -630,7 +630,7 @@ Mister Copperfield!’ returned Uriah, enthusiastically. ‘I am sure I
 didn’t myself. I recollect saying with my own lips that I was much too
 umble. So I considered myself really and truly.’
 
-He sat, with that carved grin on his face, looking at the fire, as I
+He sat, with that carved grin on his face, looking at the [[Fire|fire]], as I
 looked at him.
 
 ‘But the umblest persons, Master Copperfield,’ he presently resumed,
@@ -645,12 +645,12 @@ pointedly, ‘on all accounts.’
 Miss Agnes’s above all! You don’t remember your own eloquent
 expressions, Master Copperfield; but I remember how you said one day
 that everybody must admire her, and how I thanked you for it! You have
-forgot that, I have no doubt, Master Copperfield?’
+forgot that, I have no [[Doubt|doubt]], Master Copperfield?’
 
 ‘No,’ said I, drily.
 
 ‘Oh how glad I am you have not!’ exclaimed Uriah. ‘To think that you
-should be the first to kindle the sparks of ambition in my umble breast,
+should be the first to kindle the sparks of [[Ambition|ambition]] in my umble breast,
 and that you’ve not forgot it! Oh!--Would you excuse me asking for a cup
 more coffee?’
 
@@ -664,7 +664,7 @@ anxiety as to what he might be going to say next, which I felt could not
 escape his observation.
 
 He said nothing at all. He stirred his coffee round and round, he sipped
-it, he felt his chin softly with his grisly hand, he looked at the fire,
+it, he felt his chin softly with his grisly hand, he looked at the [[Fire|fire]],
 he looked about the room, he gasped rather than smiled at me, he writhed
 and undulated about, in his deferential servility, he stirred and sipped
 again, but he left the renewal of the conversation to me.
@@ -678,7 +678,7 @@ Mr. Heep?’
 modestly. ‘Oh, very much so! But I wish you’d call me Uriah, if you
 please. It’s like old times.’
 
-‘Well! Uriah,’ said I, bolting it out with some difficulty.
+‘[[Well]]! Uriah,’ said I, bolting it out with some difficulty.
 
 ‘Thank you,’ he returned, with fervour. ‘Thank you, Master Copperfield!
 It’s like the blowing of old breezes or the ringing of old bellses to
@@ -687,9 +687,9 @@ hear YOU say Uriah. I beg your pardon. Was I making any observation?’
 ‘About Mr. Wickfield,’ I suggested.
 
 ‘Oh! Yes, truly,’ said Uriah. ‘Ah! Great imprudence, Master Copperfield.
-It’s a topic that I wouldn’t touch upon, to any soul but you. Even to
+It’s a topic that I wouldn’t touch upon, to any [[Soul|soul]] but you. Even to
 you I can only touch upon it, and no more. If anyone else had been in
-my place during the last few years, by this time he would have had Mr.
+my place during the last few years, by this [[Time|time]] he would have had Mr.
 Wickfield (oh, what a worthy man he is, Master Copperfield, too!) under
 his thumb. Un--der--his thumb,’ said Uriah, very slowly, as he stretched
 out his cruel-looking hand above my table, and pressed his own thumb
@@ -700,7 +700,7 @@ Wickfield’s head, I think I could scarcely have hated him more.
 
 ‘Oh, dear, yes, Master Copperfield,’ he proceeded, in a soft voice,
 most remarkably contrasting with the action of his thumb, which did not
-diminish its hard pressure in the least degree, ‘there’s no doubt of
+diminish its hard pressure in the least degree, ‘there’s no [[Doubt|doubt]] of
 it. There would have been loss, disgrace, I don’t know what at all. Mr.
 Wickfield knows it. I am the umble instrument of umbly serving him,
 and he puts me on an eminence I hardly could have hoped to reach. How
@@ -709,8 +709,8 @@ but without looking at me, he took his crooked thumb off the spot where
 he had planted it, and slowly and thoughtfully scraped his lank jaw with
 it, as if he were shaving himself.
 
-I recollect well how indignantly my heart beat, as I saw his crafty
-face, with the appropriately red light of the fire upon it, preparing
+I recollect [[Well|well]] how indignantly my heart beat, as I saw his crafty
+face, with the appropriately red light of the [[Fire|fire]] upon it, preparing
 for something else.
 
 ‘Master Copperfield,’ he began--‘but am I keeping you up?’
@@ -718,7 +718,7 @@ for something else.
 ‘You are not keeping me up. I generally go to bed late.’
 
 ‘Thank you, Master Copperfield! I have risen from my umble station since
-first you used to address me, it is true; but I am umble still. I hope I
+first you used to address me, it is true; but I am umble still. I [[Hope|hope]] I
 never shall be otherwise than umble. You will not think the worse of
 my umbleness, if I make a little confidence to you, Master Copperfield?
 Will you?’
@@ -726,7 +726,7 @@ Will you?’
 ‘Oh no,’ said I, with an effort.
 
 ‘Thank you!’ He took out his pocket-handkerchief, and began wiping the
-palms of his hands. ‘Miss Agnes, Master Copperfield--’ ‘Well, Uriah?’
+palms of his hands. ‘Miss Agnes, Master Copperfield--’ ‘[[Well]], Uriah?’
 
 ‘Oh, how pleasant to be called Uriah, spontaneously!’ he cried; and gave
 himself a jerk, like a convulsive fish. ‘You thought her looking very
@@ -743,23 +743,23 @@ me.’
 
 ‘Why that, Master Copperfield,’ said Uriah, ‘is, in fact, the confidence
 that I am going to take the liberty of reposing. Umble as I am,’ he
-wiped his hands harder, and looked at them and at the fire by turns,
+wiped his hands harder, and looked at them and at the [[Fire|fire]] by turns,
 ‘umble as my mother is, and lowly as our poor but honest roof has ever
 been, the image of Miss Agnes (I don’t mind trusting you with my secret,
 Master Copperfield, for I have always overflowed towards you since the
 first moment I had the pleasure of beholding you in a pony-shay) has
 been in my breast for years. Oh, Master Copperfield, with what a pure
-affection do I love the ground my Agnes walks on!’
+affection do I [[Love|love]] the ground my Agnes walks on!’
 
 I believe I had a delirious idea of seizing the red-hot poker out of
-the fire, and running him through with it. It went from me with a shock,
+the [[Fire|fire]], and running him through with it. It went from me with a shock,
 like a ball fired from a rifle: but the image of Agnes, outraged by so
 much as a thought of this red-headed animal’s, remained in my mind when
-I looked at him, sitting all awry as if his mean soul griped his body,
+I looked at him, sitting all awry as if his mean [[Soul|soul]] griped his [[Body|body]],
 and made me giddy. He seemed to swell and grow before my eyes; the room
 seemed full of the echoes of his voice; and the strange feeling (to
 which, perhaps, no one is quite a stranger) that all this had occurred
-before, at some indefinite time, and that I knew what he was going to
+before, at some indefinite [[Time|time]], and that I knew what he was going to
 say next, took possession of me.
 
 A timely observation of the sense of power that there was in his face,
@@ -770,7 +770,7 @@ minute before, whether he had made his feelings known to Agnes.
 
 ‘Oh no, Master Copperfield!’ he returned; ‘oh dear, no! Not to anyone
 but you. You see I am only just emerging from my lowly station. I rest a
-good deal of hope on her observing how useful I am to her father (for
+good deal of [[Hope|hope]] on her observing how useful I am to her father (for
 I trust to be very useful to him indeed, Master Copperfield), and how I
 smooth the way for him, and keep him straight. She’s so much attached
 to her father, Master Copperfield (oh, what a lovely thing it is in a
@@ -786,8 +786,8 @@ particular favour. You wouldn’t wish to make unpleasantness. I know
 what a friendly heart you’ve got; but having only known me on my umble
 footing (on my umblest I should say, for I am very umble still), you
 might, unbeknown, go against me rather, with my Agnes. I call her mine,
-you see, Master Copperfield. There’s a song that says, “I’d crowns
-resign, to call her mine!” I hope to do it, one of these days.’
+you see, Master Copperfield. There’s a [[Song|song]] that says, “I’d crowns
+resign, to call her mine!” I [[Hope|hope]] to do it, one of these days.’
 
 Dear Agnes! So much too loving and too good for anyone that I could
 think of, was it possible that she was reserved to be the wife of such a
@@ -797,7 +797,7 @@ wretch as this!
 proceeded, in his slimy way, as I sat gazing at him, with this thought
 in my mind. ‘My Agnes is very young still; and mother and me will have
 to work our way upwards, and make a good many new arrangements, before
-it would be quite convenient. So I shall have time gradually to make her
+it would be quite convenient. So I shall have [[Time|time]] gradually to make her
 familiar with my hopes, as opportunities offer. Oh, I’m so much obliged
 to you for this confidence! Oh, it’s such a relief, you can’t think, to
 know that you understand our situation, and are certain (as you wouldn’t
@@ -816,51 +816,51 @@ scattered.
 
 ‘Dear me!’ he said, considering. ‘The ouse that I am stopping at--a sort
 of a private hotel and boarding ouse, Master Copperfield, near the New
-River ed--will have gone to bed these two hours.’
+[[River]] ed--will have gone to bed these two hours.’
 
 ‘I am sorry,’ I returned, ‘that there is only one bed here, and that
 I--’
 
 ‘Oh, don’t think of mentioning beds, Master Copperfield!’ he rejoined
 ecstatically, drawing up one leg. ‘But would you have any objections to
-my laying down before the fire?’
+my laying down before the [[Fire|fire]]?’
 
 ‘If it comes to that,’ I said, ‘pray take my bed, and I’ll lie down
-before the fire.’
+before the [[Fire|fire]].’
 
 His repudiation of this offer was almost shrill enough, in the excess of
-its surprise and humility, to have penetrated to the ears of Mrs. Crupp,
+its surprise and [[Humility|humility]], to have penetrated to the ears of Mrs. Crupp,
 then sleeping, I suppose, in a distant chamber, situated at about the
-level of low-water mark, soothed in her slumbers by the ticking of an
-incorrigible clock, to which she always referred me when we had any
+level of low-[[Water|water]] mark, soothed in her slumbers by the ticking of an
+incorrigible [[Clock|clock]], to which she always referred me when we had any
 little difference on the score of punctuality, and which was never less
 than three-quarters of an hour too slow, and had always been put right
 in the morning by the best authorities. As no arguments I could urge,
 in my bewildered condition, had the least effect upon his modesty
 in inducing him to accept my bedroom, I was obliged to make the best
-arrangements I could, for his repose before the fire. The mattress of
+arrangements I could, for his repose before the [[Fire|fire]]. The mattress of
 the sofa (which was a great deal too short for his lank figure), the
 sofa pillows, a blanket, the table-cover, a clean breakfast-cloth, and
 a great-coat, made him a bed and covering, for which he was more than
-thankful. Having lent him a night-cap, which he put on at once, and in
+thankful. Having lent him a [[Night|night]]-cap, which he put on at once, and in
 which he made such an awful figure, that I have never worn one since, I
 left him to his rest.
 
-I never shall forget that night. I never shall forget how I turned
+I never shall forget that [[Night|night]]. I never shall forget how I turned
 and tumbled; how I wearied myself with thinking about Agnes and this
 creature; how I considered what could I do, and what ought I to do; how
 I could come to no other conclusion than that the best course for her
 peace was to do nothing, and to keep to myself what I had heard. If
-I went to sleep for a few moments, the image of Agnes with her tender
+I went to [[Sleep|sleep]] for a few moments, the image of Agnes with her tender
 eyes, and of her father looking fondly on her, as I had so often seen
 him look, arose before me with appealing faces, and filled me with vague
 terrors. When I awoke, the recollection that Uriah was lying in the next
-room, sat heavy on me like a waking nightmare; and oppressed me with a
+room, sat heavy on me like a waking [[nightmare]]; and oppressed me with a
 leaden dread, as if I had had some meaner quality of devil for a lodger.
 
 The poker got into my dozing thoughts besides, and wouldn’t come out. I
 thought, between sleeping and waking, that it was still red hot, and I
-had snatched it out of the fire, and run him through the body. I was so
+had snatched it out of the [[Fire|fire]], and run him through the [[Body|body]]. I was so
 haunted at last by the idea, though I knew there was nothing in it, that
 I stole into the next room to look at him. There I saw him, lying on his
 back, with his legs extending to I don’t know where, gurglings taking
@@ -868,11 +868,11 @@ place in his throat, stoppages in his nose, and his mouth open like
 a post-office. He was so much worse in reality than in my distempered
 fancy, that afterwards I was attracted to him in very repulsion, and
 could not help wandering in and out every half-hour or so, and taking
-another look at him. Still, the long, long night seemed heavy and
+another look at him. Still, the long, long [[Night|night]] seemed heavy and
 hopeless as ever, and no promise of day was in the murky sky.
 
 When I saw him going downstairs early in the morning (for, thank Heaven!
-he would not stay to breakfast), it appeared to me as if the night was
+he would not stay to breakfast), it appeared to me as if the [[Night|night]] was
 going away in his person. When I went out to the Commons, I charged
 Mrs. Crupp with particular directions to leave the windows open, that my
 sitting-room might be aired, and purged of his presence.

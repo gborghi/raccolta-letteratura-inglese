@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 28"
+title: "Bleak [[house|House]] — Chapter 28"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,26 +19,26 @@ CHAPTER XXVIII
 The Ironmaster
 
 
-Sir Leicester Dedlock has got the better, for the time being, of the
+[[Sir Leicester Dedlock]] has got the better, for the [[Time|time]] being, of the
 family gout and is once more, in a literal no less than in a
 figurative point of view, upon his legs. He is at his place in
 Lincolnshire; but the waters are out again on the low-lying grounds,
-and the cold and damp steal into Chesney Wold, though well defended,
+and the cold and damp steal into Chesney Wold, though [[Well|well]] defended,
 and eke into Sir Leicester’s bones. The blazing fires of faggot and
 coal—Dedlock timber and antediluvian forest—that blaze upon the
 broad wide hearths and wink in the twilight on the frowning woods,
 sullen to see how trees are sacrificed, do not exclude the enemy. The
-hot-water pipes that trail themselves all over the house, the
+hot-[[Water|water]] pipes that trail themselves all over the [[house]], the
 cushioned doors and windows, and the screens and curtains fail to
 supply the fires’ deficiencies and to satisfy Sir Leicester’s need.
 Hence the fashionable intelligence proclaims one morning to the
-listening earth that Lady Dedlock is expected shortly to return to
+listening earth that [[Lady Dedlock]] is expected shortly to return to
 town for a few weeks.
 
-It is a melancholy truth that even great men have their poor
+It is a [[Melancholy|melancholy]] [[Truth|truth]] that even great men have their poor
 relations. Indeed great men have often more than their fair share of
-poor relations, inasmuch as very red blood of the superior quality,
-like inferior blood unlawfully shed, WILL cry aloud and WILL be
+poor relations, inasmuch as very red [[Blood|blood]] of the superior quality,
+like inferior [[Blood|blood]] unlawfully shed, WILL cry aloud and WILL be
 heard. Sir Leicester’s cousins, in the remotest degree, are so many
 Murders in the respect that they “will out.” Among whom there are
 cousins who are so poor that one might almost dare to think it would
@@ -55,20 +55,20 @@ that are never of their own making, and so go through high life. The
 rich family sum has been divided by so many figures, and they are the
 something over that nobody knows what to do with.
 
-Everybody on Sir Leicester Dedlock’s side of the question and of his
+Everybody on [[Sir Leicester Dedlock]]’s side of the question and of his
 way of thinking would appear to be his cousin more or less. From my
 Lord Boodle, through the Duke of Foodle, down to Noodle, Sir
 Leicester, like a glorious spider, stretches his threads of
 relationship. But while he is stately in the cousinship of the
 Everybodys, he is a kind and generous man, according to his dignified
-way, in the cousinship of the Nobodys; and at the present time, in
+way, in the cousinship of the Nobodys; and at the present [[Time|time]], in
 despite of the damp, he stays out the visit of several such cousins
 at Chesney Wold with the constancy of a martyr.
 
-Of these, foremost in the front rank stands Volumnia Dedlock, a young
-lady (of sixty) who is doubly highly related, having the honour to be
+Of these, foremost in the front rank stands [[Volumnia]] Dedlock, a young
+lady (of sixty) who is doubly highly related, having the [[Honour|honour]] to be
 a poor relation, by the mother’s side, to another great family. Miss
-Volumnia, displaying in early life a pretty talent for cutting
+[[Volumnia]], displaying in early life a pretty talent for cutting
 ornaments out of coloured paper, and also for singing to the guitar
 in the Spanish tongue, and propounding French conundrums in country
 houses, passed the twenty years of her existence between twenty and
@@ -79,43 +79,43 @@ an annual present from Sir Leicester and whence she makes occasional
 resurrections in the country houses of her cousins. She has an
 extensive acquaintance at Bath among appalling old gentlemen with
 thin legs and nankeen trousers, and is of high standing in that
-dreary city. But she is a little dreaded elsewhere in consequence of
+dreary [[City|city]]. But she is a little dreaded elsewhere in consequence of
 an indiscreet profusion in the article of rouge and persistency in an
 obsolete pearl necklace like a rosary of little bird’s-eggs.
 
-In any country in a wholesome state, Volumnia would be a clear case
+In any country in a wholesome state, [[Volumnia]] would be a clear case
 for the pension list. Efforts have been made to get her on it, and
 when William Buffy came in, it was fully expected that her name would
 be put down for a couple of hundred a year. But William Buffy somehow
 discovered, contrary to all expectation, that these were not the
 times when it could be done, and this was the first clear indication
-Sir Leicester Dedlock had conveyed to him that the country was going
+[[Sir Leicester Dedlock]] had conveyed to him that the country was going
 to pieces.
 
 There is likewise the Honourable Bob Stables, who can make warm
 mashes with the skill of a veterinary surgeon and is a better shot
-than most gamekeepers. He has been for some time particularly
+than most gamekeepers. He has been for some [[Time|time]] particularly
 desirous to serve his country in a post of good emoluments,
-unaccompanied by any trouble or responsibility. In a well-regulated
-body politic this natural desire on the part of a spirited young
+unaccompanied by any trouble or responsibility. In a [[Well|well]]-regulated
+[[Body|body]] politic this natural [[Desire|desire]] on the part of a spirited young
 gentleman so highly connected would be speedily recognized, but
 somehow William Buffy found when he came in that these were not times
 in which he could manage that little matter either, and this was the
-second indication Sir Leicester Dedlock had conveyed to him that the
+second indication [[Sir Leicester Dedlock]] had conveyed to him that the
 country was going to pieces.
 
 The rest of the cousins are ladies and gentlemen of various ages and
 capacities, the major part amiable and sensible and likely to have
-done well enough in life if they could have overcome their
+done [[Well|well]] enough in life if they could have overcome their
 cousinship; as it is, they are almost all a little worsted by it, and
 lounge in purposeless and listless paths, and seem to be quite as
 much at a loss how to dispose of themselves as anybody else can be
 how to dispose of them.
 
-In this society, and where not, my Lady Dedlock reigns supreme.
+In this society, and where not, my [[Lady Dedlock]] reigns supreme.
 Beautiful, elegant, accomplished, and powerful in her little world
 (for the world of fashion does not stretch ALL the way from pole to
-pole), her influence in Sir Leicester’s house, however haughty and
+pole), her influence in Sir Leicester’s [[house]], however haughty and
 indifferent her manner, is greatly to improve it and refine it. The
 cousins, even those older cousins who were paralysed when Sir
 Leicester married her, do her feudal homage; and the Honourable Bob
@@ -124,20 +124,20 @@ lunch his favourite original remark, that she is the best-groomed
 woman in the whole stud.
 
 Such the guests in the long drawing-room at Chesney Wold this dismal
-night when the step on the Ghost’s Walk (inaudible here, however)
+[[Night|night]] when the step on the [[Ghost]]’s Walk (inaudible here, however)
 might be the step of a deceased cousin shut out in the cold. It is
-near bed-time. Bedroom fires blaze brightly all over the house,
-raising ghosts of grim furniture on wall and ceiling. Bedroom
+near bed-[[Time|time]]. Bedroom fires blaze brightly all over the [[house]],
+raising [[Ghosts|ghosts]] of grim furniture on wall and ceiling. Bedroom
 candlesticks bristle on the distant table by the door, and cousins
-yawn on ottomans. Cousins at the piano, cousins at the soda-water
+yawn on ottomans. Cousins at the piano, cousins at the soda-[[Water|water]]
 tray, cousins rising from the card-table, cousins gathered round the
-fire. Standing on one side of his own peculiar fire (for there are
+[[Fire|fire]]. Standing on one side of his own peculiar [[Fire|fire]] (for there are
 two), Sir Leicester. On the opposite side of the broad hearth, my
-Lady at her table. Volumnia, as one of the more privileged cousins,
+Lady at her table. [[Volumnia]], as one of the more privileged cousins,
 in a luxurious chair between them. Sir Leicester glancing, with
 magnificent displeasure, at the rouge and the pearl necklace.
 
-“I occasionally meet on my staircase here,” drawls Volumnia, whose
+“I occasionally meet on my staircase here,” drawls [[Volumnia]], whose
 thoughts perhaps are already hopping up it to bed, after a long
 evening of very desultory talk, “one of the prettiest girls, I think,
 that I ever saw in my life.”
@@ -145,8 +145,8 @@ that I ever saw in my life.”
 “A _protégée_ of my Lady’s,” observes Sir Leicester.
 
 “I thought so. I felt sure that some uncommon eye must have picked
-that girl out. She really is a marvel. A dolly sort of beauty
-perhaps,” says Miss Volumnia, reserving her own sort, “but in its
+that girl out. She really is a marvel. A dolly sort of [[Beauty|beauty]]
+perhaps,” says Miss [[Volumnia]], reserving her own sort, “but in its
 way, perfect; such bloom I never saw!”
 
 Sir Leicester, with his magnificent glance of displeasure at the
@@ -162,23 +162,23 @@ discovery.”
 
 “You like to have her about you, as you would like to have a flower,
 or a bird, or a picture, or a poodle—no, not a poodle, though—or
-anything else that was equally pretty?” says Volumnia, sympathizing.
-“Yes, how charming now! And how well that delightful old soul Mrs.
+anything else that was equally pretty?” says [[Volumnia]], sympathizing.
+“Yes, how charming now! And how [[Well|well]] that delightful old [[Soul|soul]] Mrs.
 Rouncewell is looking. She must be an immense age, and yet she is as
 active and handsome! She is the dearest friend I have, positively!”
 
 Sir Leicester feels it to be right and fitting that the housekeeper
 of Chesney Wold should be a remarkable person. Apart from that, he
 has a real regard for Mrs. Rouncewell and likes to hear her praised.
-So he says, “You are right, Volumnia,” which Volumnia is extremely
+So he says, “You are right, [[Volumnia]],” which [[Volumnia]] is extremely
 glad to hear.
 
 “She has no daughter of her own, has she?”
 
-“Mrs. Rouncewell? No, Volumnia. She has a son. Indeed, she had two.”
+“Mrs. Rouncewell? No, [[Volumnia]]. She has a son. Indeed, she had two.”
 
 My Lady, whose chronic malady of boredom has been sadly aggravated by
-Volumnia this evening, glances wearily towards the candlesticks and
+[[Volumnia]] this evening, glances wearily towards the candlesticks and
 heaves a noiseless sigh.
 
 “And it is a remarkable example of the confusion into which the
@@ -187,41 +187,41 @@ of floodgates, and the uprooting of distinctions,” says Sir Leicester
 with stately gloom, “that I have been informed by Mr. Tulkinghorn
 that Mrs. Rouncewell’s son has been invited to go into Parliament.”
 
-Miss Volumnia utters a little sharp scream.
+Miss [[Volumnia]] utters a little sharp scream.
 
 “Yes, indeed,” repeats Sir Leicester. “Into Parliament.”
 
 “I never heard of such a thing! Good gracious, what is the man?”
-exclaims Volumnia.
+exclaims [[Volumnia]].
 
 “He is called, I believe—an—ironmaster.” Sir Leicester says it
-slowly and with gravity and doubt, as not being sure but that he is
+slowly and with gravity and [[Doubt|doubt]], as not being sure but that he is
 called a lead-mistress or that the right word may be some other word
 expressive of some other relationship to some other metal.
 
-Volumnia utters another little scream.
+[[Volumnia]] utters another little scream.
 
 “He has declined the proposal, if my information from Mr. Tulkinghorn
-be correct, as I have no doubt it is. Mr. Tulkinghorn being always
+be correct, as I have no [[Doubt|doubt]] it is. Mr. Tulkinghorn being always
 correct and exact; still that does not,” says Sir Leicester, “that
 does not lessen the anomaly, which is fraught with strange
 considerations—startling considerations, as it appears to me.”
 
-Miss Volumnia rising with a look candlestick-wards, Sir Leicester
+Miss [[Volumnia]] rising with a look candlestick-wards, Sir Leicester
 politely performs the grand tour of the drawing-room, brings one, and
 lights it at my Lady’s shaded lamp.
 
 “I must beg you, my Lady,” he says while doing so, “to remain a few
 moments, for this individual of whom I speak arrived this evening
 shortly before dinner and requested in a very becoming note”—Sir
-Leicester, with his habitual regard to truth, dwells upon it—“I am
-bound to say, in a very becoming and well-expressed note, the favour
+Leicester, with his habitual regard to [[Truth|truth]], dwells upon it—“I am
+bound to say, in a very becoming and [[Well|well]]-expressed note, the favour
 of a short interview with yourself and MYself on the subject of this
-young girl. As it appeared that he wished to depart to-night, I
+young girl. As it appeared that he wished to depart to-[[Night|night]], I
 replied that we would see him before retiring.”
 
-Miss Volumnia with a third little scream takes flight, wishing her
-hosts—O Lud!—well rid of the—what is it?—ironmaster!
+Miss [[Volumnia]] with a third little scream takes flight, wishing her
+hosts—O Lud!—[[Well|well]] rid of the—what is it?—ironmaster!
 
 The other cousins soon disperse, to the last cousin there. Sir
 Leicester rings the bell, “Make my compliments to Mr. Rouncewell, in
@@ -236,7 +236,7 @@ dressed in black, portly enough, but strong and active. Has a
 perfectly natural and easy air and is not in the least embarrassed by
 the great presence into which he comes.
 
-“Sir Leicester and Lady Dedlock, as I have already apologized for
+“Sir Leicester and [[Lady Dedlock]], as I have already apologized for
 intruding on you, I cannot do better than be very brief. I thank you,
 Sir Leicester.”
 
@@ -248,28 +248,28 @@ progress, people like myself have so many workmen in so many places
 that we are always on the flight.”
 
 Sir Leicester is content enough that the ironmaster should feel that
-there is no hurry there; there, in that ancient house, rooted in that
-quiet park, where the ivy and the moss have had time to mature, and
+there is no hurry there; there, in that ancient [[house]], rooted in that
+quiet park, where the ivy and the moss have had [[Time|time]] to mature, and
 the gnarled and warted elms and the umbrageous oaks stand deep in the
-fern and leaves of a hundred years; and where the sun-dial on the
-terrace has dumbly recorded for centuries that time which was as much
-the property of every Dedlock—while he lasted—as the house and
+fern and [[Leaves|leaves]] of a hundred years; and where the sun-dial on the
+terrace has dumbly recorded for centuries that [[Time|time]] which was as much
+the property of every Dedlock—while he lasted—as the [[house]] and
 lands. Sir Leicester sits down in an easy-chair, opposing his repose
 and that of Chesney Wold to the restless flights of ironmasters.
 
-“Lady Dedlock has been so kind,” proceeds Mr. Rouncewell with a
+“[[Lady Dedlock]] has been so kind,” proceeds Mr. Rouncewell with a
 respectful glance and a bow that way, “as to place near her a young
-beauty of the name of Rosa. Now, my son has fallen in love with Rosa
-and has asked my consent to his proposing marriage to her and to
+[[Beauty|beauty]] of the name of Rosa. Now, my son has fallen in [[Love|love]] with Rosa
+and has asked my consent to his proposing [[Marriage|marriage]] to her and to
 their becoming engaged if she will take him—which I suppose she
 will. I have never seen Rosa until to-day, but I have some confidence
-in my son’s good sense—even in love. I find her what he represents
+in my son’s good sense—even in [[Love|love]]. I find her what he represents
 her, to the best of my judgment; and my mother speaks of her with
 great commendation.”
 
 “She in all respects deserves it,” says my Lady.
 
-“I am happy, Lady Dedlock, that you say so, and I need not comment on
+“I am happy, [[Lady Dedlock]], that you say so, and I need not comment on
 the value to me of your kind opinion of her.”
 
 “That,” observes Sir Leicester with unspeakable grandeur, for he
@@ -285,13 +285,13 @@ Dedlock, you will understand and excuse me—I should make it a
 condition that she did not remain at Chesney Wold. Therefore, before
 communicating further with my son, I take the liberty of saying that
 if her removal would be in any way inconvenient or objectionable, I
-will hold the matter over with him for any reasonable time and leave
+will hold the matter over with him for any reasonable [[Time|time]] and leave
 it precisely where it is.”
 
 Not remain at Chesney Wold! Make it a condition! All Sir Leicester’s
 old misgivings relative to Wat Tyler and the people in the iron
 districts who do nothing but turn out by torchlight come in a shower
-upon his head, the fine grey hair of which, as well as of his
+upon his head, the fine grey hair of which, as [[Well|well]] as of his
 whiskers, actually stirs with indignation.
 
 “Am I to understand, sir,” says Sir Leicester, “and is my Lady to
@@ -309,7 +309,7 @@ Chesney Wold or likely to be injured by remaining here?”
 the slightest gesture of her pretty hand, as if he were a fly,
 “explain to me what you mean.”
 
-“Willingly, Lady Dedlock. There is nothing I could desire more.”
+“Willingly, [[Lady Dedlock]]. There is nothing I could [[Desire|desire]] more.”
 
 Addressing her composed face, whose intelligence, however, is too
 quick and active to be concealed by any studied impassiveness,
@@ -317,17 +317,17 @@ however habitual, to the strong Saxon face of the visitor, a picture
 of resolution and perseverance, my Lady listens with attention,
 occasionally slightly bending her head.
 
-“I am the son of your housekeeper, Lady Dedlock, and passed my
-childhood about this house. My mother has lived here half a
-century and will die here I have no doubt. She is one of those
-examples—perhaps as good a one as there is—of love, and attachment,
-and fidelity in such a nation, which England may well be proud of,
-but of which no order can appropriate the whole pride or the whole
+“I am the son of your housekeeper, [[Lady Dedlock]], and passed my
+[[Childhood|childhood]] about this [[house]]. My mother has lived here half a
+century and will die here I have no [[Doubt|doubt]]. She is one of those
+examples—perhaps as good a one as there is—of [[Love|love]], and attachment,
+and fidelity in such a nation, which England may [[Well|well]] be proud of,
+but of which no order can appropriate the whole [[Pride|pride]] or the whole
 merit, because such an instance bespeaks high worth on two sides—on
 the great side assuredly, on the small one no less assuredly.”
 
 Sir Leicester snorts a little to hear the law laid down in this way,
-but in his honour and his love of truth, he freely, though silently,
+but in his [[Honour|honour]] and his [[Love|love]] of [[Truth|truth]], he freely, though silently,
 admits the justice of the ironmaster’s proposition.
 
 “Pardon me for saying what is so obvious, but I wouldn’t have it
@@ -340,7 +340,7 @@ her days with me. But as I have found that to sever this strong bond
 would be to break her heart, I have long abandoned that idea.”
 
 Sir Leicester very magnificent again at the notion of Mrs. Rouncewell
-being spirited off from her natural home to end her days with an
+being spirited off from her natural [[Home|home]] to end her days with an
 ironmaster.
 
 “I have been,” proceeds the visitor in a modest, clear way, “an
@@ -349,18 +349,18 @@ years, and beyond a certain point have had to educate myself. My wife
 was a foreman’s daughter, and plainly brought up. We have three
 daughters besides this son of whom I have spoken, and being
 fortunately able to give them greater advantages than we have had
-ourselves, we have educated them well, very well. It has been one of
+ourselves, we have educated them [[Well|well]], very [[Well|well]]. It has been one of
 our great cares and pleasures to make them worthy of any station.”
 
 A little boastfulness in his fatherly tone here, as if he added in
 his heart, “even of the Chesney Wold station.” Not a little more
 magnificence, therefore, on the part of Sir Leicester.
 
-“All this is so frequent, Lady Dedlock, where I live, and among the
+“All this is so frequent, [[Lady Dedlock]], where I live, and among the
 class to which I belong, that what would be generally called unequal
 marriages are not of such rare occurrence with us as elsewhere. A son
 will sometimes make it known to his father that he has fallen in
-love, say, with a young woman in the factory. The father, who once
+[[Love|love]], say, with a young woman in the factory. The father, who once
 worked in a factory himself, will be a little disappointed at first
 very possibly. It may be that he had other views for his son.
 However, the chances are that having ascertained the young woman to
@@ -368,8 +368,8 @@ be of unblemished character, he will say to his son, ‘I must be quite
 sure you are in earnest here. This is a serious matter for both of
 you. Therefore I shall have this girl educated for two years,’ or it
 may be, ‘I shall place this girl at the same school with your sisters
-for such a time, during which you will give me your word and honour
-to see her only so often. If at the expiration of that time, when she
+for such a [[Time|time]], during which you will give me your word and [[Honour|honour]]
+to see her only so often. If at the expiration of that [[Time|time]], when she
 has so far profited by her advantages as that you may be upon a fair
 equality, you are both in the same mind, I will do my part to make
 you happy.’ I know of several cases such as I describe, my Lady, and
@@ -410,7 +410,7 @@ society, to the aforesaid framework receiving tremendous cracks in
 consequence of people (iron-masters, lead-mistresses, and what not)
 not minding their catechism, and getting out of the station unto
 which they are called—necessarily and for ever, according to Sir
-Leicester’s rapid logic, the first station in which they happen to
+Leicester’s rapid [[logic]], the first station in which they happen to
 find themselves; and from that, to their educating other people out
 of THEIR stations, and so obliterating the landmarks, and opening the
 floodgates, and all the rest of it; this is the swift progress of the
@@ -418,7 +418,7 @@ Dedlock mind.
 
 “My Lady, I beg your pardon. Permit me, for one moment!” She has
 given a faint indication of intending to speak. “Mr. Rouncewell, our
-views of duty, and our views of station, and our views of education,
+views of duty, and our views of station, and our views of [[Education|education]],
 and our views of—in short, ALL our views—are so diametrically
 opposed, that to prolong this discussion must be repellent to your
 feelings and repellent to my own. This young woman is honoured with
@@ -427,7 +427,7 @@ that notice and favour or if she chooses to place herself under the
 influence of any one who may in his peculiar opinions—you will allow
 me to say, in his peculiar opinions, though I readily admit that he
 is not accountable for them to me—who may, in his peculiar opinions,
-withdraw her from that notice and favour, she is at any time at
+withdraw her from that notice and favour, she is at any [[Time|time]] at
 liberty to do so. We are obliged to you for the plainness with which
 you have spoken. It will have no effect of itself, one way or other,
 on the young woman’s position here. Beyond this, we can make no
@@ -438,88 +438,88 @@ The visitor pauses a moment to give my Lady an opportunity, but she
 says nothing. He then rises and replies, “Sir Leicester and Lady
 Dedlock, allow me to thank you for your attention and only to observe
 that I shall very seriously recommend my son to conquer his present
-inclinations. Good night!”
+inclinations. Good [[Night|night]]!”
 
-“Mr. Rouncewell,” says Sir Leicester with all the nature of a
-gentleman shining in him, “it is late, and the roads are dark. I hope
-your time is not so precious but that you will allow my Lady and
-myself to offer you the hospitality of Chesney Wold, for to-night at
+“Mr. Rouncewell,” says Sir Leicester with all the [[Nature|nature]] of a
+gentleman shining in him, “it is late, and the roads are dark. I [[Hope|hope]]
+your [[Time|time]] is not so precious but that you will allow my Lady and
+myself to offer you the hospitality of Chesney Wold, for to-[[Night|night]] at
 least.”
 
-“I hope so,” adds my Lady.
+“I [[Hope|hope]] so,” adds my Lady.
 
-“I am much obliged to you, but I have to travel all night in order to
-reach a distant part of the country punctually at an appointed time
+“I am much obliged to you, but I have to travel all [[Night|night]] in order to
+reach a distant part of the country punctually at an appointed [[Time|time]]
 in the morning.”
 
 Therewith the ironmaster takes his departure, Sir Leicester ringing
-the bell and my Lady rising as he leaves the room.
+the bell and my Lady rising as he [[Leaves|leaves]] the room.
 
 When my Lady goes to her boudoir, she sits down thoughtfully by the
-fire, and inattentive to the Ghost’s Walk, looks at Rosa, writing in
+[[Fire|fire]], and inattentive to the [[Ghost]]’s Walk, looks at Rosa, writing in
 an inner room. Presently my Lady calls her.
 
-“Come to me, child. Tell me the truth. Are you in love?”
+“Come to me, [[Child|child]]. Tell me the [[Truth|truth]]. Are you in [[Love|love]]?”
 
 “Oh! My Lady!”
 
 My Lady, looking at the downcast and blushing face, says smiling,
 “Who is it? Is it Mrs. Rouncewell’s grandson?”
 
-“Yes, if you please, my Lady. But I don’t know that I am in love with
+“Yes, if you please, my Lady. But I don’t know that I am in [[Love|love]] with
 him—yet.”
 
 “Yet, you silly little thing! Do you know that he loves YOU, yet?”
 
-“I think he likes me a little, my Lady.” And Rosa bursts into tears.
+“I think he likes me a little, my Lady.” And Rosa bursts into [[Tears|tears]].
 
-Is this Lady Dedlock standing beside the village beauty, smoothing
+Is this [[Lady Dedlock]] standing beside the village [[Beauty|beauty]], smoothing
 her dark hair with that motherly touch, and watching her with eyes so
 full of musing interest? Aye, indeed it is!
 
-“Listen to me, child. You are young and true, and I believe you are
+“Listen to me, [[Child|child]]. You are young and true, and I believe you are
 attached to me.”
 
 “Indeed I am, my Lady. Indeed there is nothing in the world I
 wouldn’t do to show how much.”
 
 “And I don’t think you would wish to leave me just yet, Rosa, even
-for a lover?”
+for a [[Lover|lover]]?”
 
-“No, my Lady! Oh, no!” Rosa looks up for the first time, quite
+“No, my Lady! Oh, no!” Rosa looks up for the first [[Time|time]], quite
 frightened at the thought.
 
-“Confide in me, my child. Don’t fear me. I wish you to be happy, and
+“Confide in me, my [[Child|child]]. Don’t [[Fear|fear]] me. I wish you to be happy, and
 will make you so—if I can make anybody happy on this earth.”
 
-Rosa, with fresh tears, kneels at her feet and kisses her hand. My
+Rosa, with fresh [[Tears|tears]], kneels at her feet and kisses her hand. My
 Lady takes the hand with which she has caught it, and standing with
-her eyes fixed on the fire, puts it about and about between her own
+her eyes fixed on the [[Fire|fire]], puts it about and about between her own
 two hands, and gradually lets it fall. Seeing her so absorbed, Rosa
-softly withdraws; but still my Lady’s eyes are on the fire.
+softly withdraws; but still my Lady’s eyes are on the [[Fire|fire]].
 
 In search of what? Of any hand that is no more, of any hand that
 never was, of any touch that might have magically changed her life?
-Or does she listen to the Ghost’s Walk and think what step does it
-most resemble? A man’s? A woman’s? The pattering of a little child’s
-feet, ever coming on—on—on? Some melancholy influence is upon her,
-or why should so proud a lady close the doors and sit alone upon the
+Or does she listen to the [[Ghost]]’s Walk and think what step does it
+most resemble? A man’s? A woman’s? The pattering of a little [[Child|child]]’s
+feet, ever coming on—on—on? Some [[Melancholy|melancholy]] influence is upon her,
+or why should so proud a lady close the doors and sit [[Alone|alone]] upon the
 hearth so desolate?
 
-Volumnia is away next day, and all the cousins are scattered before
+[[Volumnia]] is away next day, and all the cousins are scattered before
 dinner. Not a cousin of the batch but is amazed to hear from Sir
-Leicester at breakfast-time of the obliteration of landmarks, and
+Leicester at breakfast-[[Time|time]] of the obliteration of landmarks, and
 opening of floodgates, and cracking of the framework of society,
 manifested through Mrs. Rouncewell’s son. Not a cousin of the batch
 but is really indignant, and connects it with the feebleness of
 William Buffy when in office, and really does feel deprived of a
 stake in the country—or the pension list—or something—by fraud and
-wrong. As to Volumnia, she is handed down the great staircase by Sir
+wrong. As to [[Volumnia]], she is handed down the great staircase by Sir
 Leicester, as eloquent upon the theme as if there were a general
 rising in the north of England to obtain her rouge-pot and pearl
 necklace. And thus, with a clatter of maids and valets—for it is one
 appurtenance of their cousinship that however difficult they may find
 it to keep themselves, they MUST keep maids and valets—the cousins
-disperse to the four winds of heaven; and the one wintry wind that
-blows to-day shakes a shower from the trees near the deserted house,
-as if all the cousins had been changed into leaves.
+disperse to the four winds of heaven; and the one wintry [[Wind|wind]] that
+blows to-day shakes a shower from the trees near the deserted [[house]],
+as if all the cousins had been changed into [[Leaves|leaves]].

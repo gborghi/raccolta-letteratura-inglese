@@ -1,5 +1,5 @@
 ---
-title: "Troilus and Cressida — Act I, Scene 3 — exchange (NESTOR) [6]"
+title: "[[Troilus]] and [[Cressida]] — Act I, Scene 3 — exchange (NESTOR) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/TROILUS-AND-CRESSIDA-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| NESTOR | Most wisely hath Ulysses here discovered The fever whereof all our power is sick. |
-| AGAMEMNON | The nature of the sickness found, Ulysses, What is the remedy? |
+| NESTOR | Most wisely hath [[Ulysses]] here discovered The fever whereof all our power is sick. |
+| [[Agamemnon|AGAMEMNON]] | The [[Nature|nature]] of the sickness found, [[Ulysses]], What is the remedy? |

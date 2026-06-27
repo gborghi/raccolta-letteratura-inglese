@@ -14,25 +14,25 @@ tags:
 </nav>
 
 
-After more kind words, they withdrew, and repaired to the child’s
-house; where they were yet in conversation on their happy fortune, when
+After more kind words, they withdrew, and repaired to the [[Child|child]]’s
+[[house]]; where they were yet in conversation on their happy fortune, when
 another friend appeared.
 
-This was a little old gentleman, who lived in the parsonage-house, and
-had resided there (so they learnt soon afterwards) ever since the death
+This was a little old gentleman, who lived in the parsonage-[[house]], and
+had resided there (so they learnt soon afterwards) ever since the [[Death|death]]
 of the clergyman’s wife, which had happened fifteen years before.  He
 had been his college friend and always his close companion; in the
 first shock of his grief he had come to console and comfort him; and
-from that time they had never parted company.  The little old gentleman
+from that [[Time|time]] they had never parted company.  The little old gentleman
 was the active spirit of the place, the adjuster of all differences,
 the promoter of all merry-makings, the dispenser of his friend’s
-bounty, and of no small charity of his own besides; the universal
+bounty, and of no small [[Charity|charity]] of his own besides; the universal
 mediator, comforter, and friend.  None of the simple villagers had
 cared to ask his name, or, when they knew it, to store it in their
-memory.  Perhaps from some vague rumour of his college honours which
+[[Memory|memory]].  Perhaps from some vague rumour of his college honours which
 had been whispered abroad on his first arrival, perhaps because he was
 an unmarried, unencumbered gentleman, he had been called the bachelor.
-The name pleased him, or suited him as well as any other, and the
+The name pleased him, or suited him as [[Well|well]] as any other, and the
 Bachelor he had ever since remained.  And the bachelor it was, it may
 be added, who with his own hands had laid in the stock of fuel which
 the wanderers had found in their new habitation.
@@ -46,7 +46,7 @@ kind friend.
 
 ‘I am, sir.’
 
-‘You come well recommended, and I am glad to see you.  I should have
+‘You come [[Well|well]] recommended, and I am glad to see you.  I should have
 been in the way yesterday, expecting you, but I rode across the country
 to carry a message from a sick mother to her daughter in service some
 miles off, and have but just now returned.  This is our young
@@ -56,13 +56,13 @@ for this old man’s; nor the worse teacher for having learnt humanity.’
 to the look with which their visitor regarded Nell when he had kissed
 her cheek.
 
-‘Yes, yes.  I know she has,’ he rejoined.  ‘There have been suffering
+‘Yes, yes.  I know she has,’ he rejoined.  ‘There have been [[Suffering|suffering]]
 and heartache here.’
 
 ‘Indeed there have, sir.’
 
 The little old gentleman glanced at the grandfather, and back again at
-the child, whose hand he took tenderly in his, and held.
+the [[Child|child]], whose hand he took tenderly in his, and held.
 
 ‘You will be happier here,’ he said; ‘we will try, at least, to make
 you so.  You have made great improvements here already.  Are they the
@@ -76,16 +76,16 @@ means perhaps,’ said the bachelor.  ‘Let us see now, let us see.’
 Nell accompanied him into the other little rooms, and over both the
 houses, in which he found various small comforts wanting, which he
 engaged to supply from a certain collection of odds and ends he had at
-home, and which must have been a very miscellaneous and extensive one,
+[[Home|home]], and which must have been a very miscellaneous and extensive one,
 as it comprehended the most opposite articles imaginable.  They all
-came, however, and came without loss of time; for the little old
+came, however, and came without loss of [[Time|time]]; for the little old
 gentleman, disappearing for some five or ten minutes, presently
 returned, laden with old shelves, rugs, blankets, and other household
 gear, and followed by a boy bearing a similar load.  These being cast
 on the floor in a promiscuous heap, yielded a quantity of occupation in
 arranging, erecting, and putting away; the superintendence of which
 task evidently afforded the old gentleman extreme delight, and engaged
-him for some time with great briskness and activity.  When nothing more
+him for some [[Time|time]] with great briskness and activity.  When nothing more
 was left to be done, he charged the boy to run off and bring his
 schoolmates to be marshalled before their new master, and solemnly
 reviewed.
@@ -95,7 +95,7 @@ turning to the schoolmaster when the boy was gone; ‘but I don’t let ‘em
 know I think so.  That wouldn’t do, at all.’
 
 The messenger soon returned at the head of a long row of urchins, great
-and small, who, being confronted by the bachelor at the house door,
+and small, who, being confronted by the bachelor at the [[house]] door,
 fell into various convulsions of politeness; clutching their hats and
 caps, squeezing them into the smallest possible dimensions, and making
 all manner of bows and scrapes, which the little old gentleman
@@ -119,11 +119,11 @@ John Owen having been thus rebuked, and being in perfect possession of
 the speech aside, the bachelor singled out another boy.
 
 ‘Now, look at that lad, sir,’ said the bachelor.  ‘You see that fellow?
-Richard Evans his name is, sir.  An amazing boy to learn, blessed with
-a good memory, and a ready understanding, and moreover with a good
+[[Richard]] Evans his name is, sir.  An amazing boy to learn, blessed with
+a good [[Memory|memory]], and a ready understanding, and moreover with a good
 voice and ear for psalm-singing, in which he is the best among us.
 Yet, sir, that boy will come to a bad end; he’ll never die in his bed;
-he’s always falling asleep in sermon-time--and to tell you the truth,
+he’s always falling asleep in sermon-[[Time|time]]--and to tell you the [[Truth|truth]],
 Mr Marton, I always did the same at his age, and feel quite certain
 that it was natural to my constitution and I couldn’t help it.’
 
@@ -132,10 +132,10 @@ turned to another.
 
 ‘But if we talk of examples to be shunned,’ said he, ‘if we come to
 boys that should be a warning and a beacon to all their fellows, here’s
-the one, and I hope you won’t spare him.  This is the lad, sir; this
+the one, and I [[Hope|hope]] you won’t spare him.  This is the lad, sir; this
 one with the blue eyes and light hair.  This is a swimmer, sir, this
 fellow--a diver, Lord save us!  This is a boy, sir, who had a fancy for
-plunging into eighteen feet of water, with his clothes on, and bringing
+plunging into eighteen feet of [[Water|water]], with his clothes on, and bringing
 up a blind man’s dog, who was being drowned by the weight of his chain
 and collar, while his master stood wringing his hands upon the bank,
 bewailing the loss of his guide and friend.  I sent the boy two guineas
@@ -150,17 +150,17 @@ emphasis on such of their propensities as were dearest to his heart and
 were unquestionably referrable to his own precept and example.
 Thoroughly persuaded, in the end, that he had made them miserable by
 his severity, he dismissed them with a small present, and an admonition
-to walk quietly home, without any leapings, scufflings, or turnings out
+to walk quietly [[Home|home]], without any leapings, scufflings, or turnings out
 of the way; which injunction, he informed the schoolmaster in the same
 audible confidence, he did not think he could have obeyed when he was a
 boy, had his life depended on it.
 
 Hailing these little tokens of the bachelor’s disposition as so many
-assurances of his own welcome course from that time, the schoolmaster
+assurances of his own welcome course from that [[Time|time]], the schoolmaster
 parted from him with a light heart and joyous spirits, and deemed
 himself one of the happiest men on earth.  The windows of the two old
-houses were ruddy again, that night, with the reflection of the
+houses were ruddy again, that [[Night|night]], with the reflection of the
 cheerful fires that burnt within; and the bachelor and his friend,
 pausing to look upon them as they returned from their evening walk,
-spoke softly together of the beautiful child, and looked round upon the
+spoke softly together of the beautiful [[Child|child]], and looked round upon the
 churchyard with a sigh.

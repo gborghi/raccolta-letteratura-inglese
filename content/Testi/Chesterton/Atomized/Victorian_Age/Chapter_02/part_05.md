@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-set out with Amadis of Gaul in a forest or with Mr. Pickwick in a comic
+set out with Amadis of Gaul in a forest or with Mr. [[Pickwick]] in a comic
 
 club. She set out with herself, with her own dingy clothes, and
 
@@ -22,7 +22,7 @@ accidental ugliness, and flat, coarse, provincial household; and
 
 forcibly fused all such muddy materials into a spirited fairy-tale. If
 
-the first chapters on the home and school had not proved how heavy and
+the first chapters on the [[Home|home]] and school had not proved how heavy and
 
 hateful _sanity_ can be, there would really be less point in the
 
@@ -34,17 +34,17 @@ sensational in the commonplace: and _Jane Eyre_ remains the best of her
 
 books (better even than _Villette_) because while it is a human document
 
-written in blood, it is also one of the best blood-and-thunder detective
+written in [[Blood|blood]], it is also one of the best [[Blood|blood]]-and-thunder [[Detective|detective]]
 
 stories in the world.
 
 
 
-But while Emily Brontë was as unsociable as a storm at midnight, and
+But while Emily Brontë was as unsociable as a [[Storm|storm]] at midnight, and
 
 while Charlotte Brontë was at best like that warmer and more domestic
 
-thing, a house on fire--they do connect themselves with the calm of
+thing, a [[house]] on [[Fire|fire]]--they do connect themselves with the calm of
 
 George Eliot, as the forerunners of many later developments of the
 
@@ -52,15 +52,15 @@ feminine advance. Many forerunners (if it comes to that) would have felt
 
 rather ill if they had seen the things they foreran. This notion of a
 
-hazy anticipation of after history has been absurdly overdone: as when
+hazy anticipation of after [[history]] has been absurdly overdone: as when
 
-men connect Chaucer with the Reformation; which is like connecting Homer
+men connect Chaucer with the [[Reformation]]; which is like connecting Homer
 
 with the Syracusan Expedition. But it is to some extent true that all
 
 these great Victorian women had a sort of unrest in their souls. And the
 
-proof of it is that (after what I will claim to call the healthier time
+proof of it is that (after what I will claim to call the healthier [[Time|time]]
 
 of Dickens and Thackeray) it began to be admitted by the great Victorian
 
@@ -72,7 +72,7 @@ of _Tess of the D'Urbervilles_. To what this strange and very local sex
 
 war has been due I shall not ask, because I have no answer. That it was
 
-due to votes or even little legal inequalities about marriage, I feel
+due to votes or even little legal inequalities about [[Marriage|marriage]], I feel
 
 myself here too close to realities even to discuss. My own guess is that
 
@@ -92,9 +92,9 @@ impossible to drop even into the second rank of good authors, whose name
 
 is legion; but it is impossible to leave that considerable female force
 
-in fiction which has so largely made the very nature of the modern
+in fiction which has so largely made the very [[Nature|nature]] of the modern
 
-novel, without mentioning two names which almost brought that second
+[[Novel|novel]], without mentioning two names which almost brought that second
 
 rank up to the first rank. They were at utterly opposite poles. The one
 
@@ -104,13 +104,13 @@ other succeeded by being a much more mad and unchristian Emily Brontë.
 
 But Mrs. Oliphant and the author calling herself "Ouida" both forced
 
-themselves well within the frontier of fine literature. _The Beleaguered
+themselves [[Well|well]] within the frontier of fine literature. _The Beleaguered
 
 City_ is literature in its highest sense; the other works of its author
 
 tend to fall into fiction in its best working sense. Mrs. Oliphant was
 
-infinitely saner in that city of ghosts than the cosmopolitan Ouida ever
+infinitely saner in that [[City|city]] of [[Ghosts|ghosts]] than the cosmopolitan Ouida ever
 
 was in any of the cities of men. Mrs. Oliphant would never have dared to
 
@@ -126,7 +126,7 @@ style; of conveying the very heat of blue skies or the bursting of
 
 palpable pomegranates. And just as Mrs. Oliphant transfused her more
 
-timid Victorian tales with a true and intense faith in the Christian
+timid Victorian tales with a true and intense [[Faith|faith]] in the Christian
 
 mystery--so Ouida, with infinite fury and infinite confusion of
 
@@ -142,7 +142,7 @@ on. On a general review I do not think I have been wrong in taking the
 
 female novelists first. I think they gave its special shape, its
 
-temporary twist, to the Victorian novel.
+temporary twist, to the Victorian [[Novel|novel]].
 
 
 
@@ -152,7 +152,7 @@ back to the males. It is the more abrupt because the first name that
 
 must be mentioned derives directly from the mere maleness of the Sterne
 
-and Smollett novel. I have already spoken of Dickens as the most homely
+and Smollett [[Novel|novel]]. I have already spoken of Dickens as the most homely
 
 and instinctive, and therefore probably the heaviest, of all the
 
@@ -164,9 +164,9 @@ novelist; but there is still much more to say than can even conceivably
 
 be said. Dickens, as we have stated, inherited the old comic, rambling
 
-novel from Smollett and the rest. Dickens, as we have also stated,
+[[Novel|novel]] from Smollett and the rest. Dickens, as we have also stated,
 
-consented to expurgate that novel. But when all origins and all
+consented to expurgate that [[Novel|novel]]. But when all origins and all
 
 restraints have been defined and allowed for, the creature that came out
 
@@ -190,6 +190,6 @@ villains stalking out or cowardly bullies kicked downstairs. But the
 
 villains and the cowards are such delightful people that the reader
 
-always hopes the villain will put his head through a side window and
+always hopes the [[Villain|villain]] will put his head through a side [[Window|window]] and
 
 make a last remark; or that the bully will say one thing more, even from

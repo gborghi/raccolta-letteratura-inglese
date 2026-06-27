@@ -23,14 +23,14 @@ discord, as some have done, so as to turn it into a mere defeat of
 all his ideals. There are some who represent his work as having
 been merely ruined by the wickedness of the world, or what they
 always assume to be the even greater wickedness of the Church.
-This little book is an essay on St. Francis and not on the
-Franciscan Order, still less on the Catholic Church or the Papacy
+This little book is an [[Essay|essay]] on St. Francis and not on the
+Franciscan Order, still less on the [[Catholic Church]] or the Papacy
 or the policy pursued towards the extreme Franciscans or the
 Fraticelli. It is therefore only necessary to note in a very few
-words what was the general nature of the controversy that raged
-after the great saint's death, and to some extent troubled the last
+words what was the general [[Nature|nature]] of the controversy that raged
+after the great saint's [[Death|death]], and to some extent troubled the last
 days of his life. The dominant detail was the interpretation of the
-vow of poverty, or the refusal of all possessions. Nobody so far as
+vow of [[Poverty|poverty]], or the refusal of all possessions. Nobody so far as
 I know ever proposed to interfere with the vow of the individual
 friar that he would have no individual possessions. Nobody, that
 is, proposed to interfere with his negation of private property.
@@ -54,32 +54,32 @@ communist as being an anarchist. Surely upon any argument somebody
 or something must be answerable for what happened to or in or
 concerning a number of historic edifices and ordinary goods and
 chattels. Many idealists of a socialistic sort, notably of the
-school of Mr. Shaw or Mr. Wells, have treated this dispute as if it
+school of Mr. [[Shaw]] or Mr. Wells, have treated this dispute as if it
 were merely a case of the tyranny of wealthy and wicked pontiffs
-crushing the true Christianity of Christian Socialists. But in
-truth this extreme ideal was in a sense the very reverse of
+crushing the true [[Christianity]] of Christian Socialists. But in
+[[Truth|truth]] this extreme ideal was in a sense the very reverse of
 Socialist, or even social. Precisely the thing which these
 enthusiasts refused was that social ownership on which Socialism is
 built; what they primarily refused to do was what Socialists
 primarily exist to do; to own legally in their corporate capacity.
 Nor is it true that the tone of the Popes towards the enthusiasts
-was merely harsh and hostile. The Pope maintained for a long time a
+was merely harsh and hostile. The Pope maintained for a long [[Time|time]] a
 compromise which he had specially designed to meet their own
 conscientious objections, a compromise by which the Papacy itself
 held the property in a kind of trust for the owners who refused to
-touch it. The truth is that this incident shows two things which
-are common enough in Catholic history, but very little understood
-by the journalistic history of industrial civilisation. It shows
+touch it. The [[Truth|truth]] is that this incident shows two things which
+are common enough in Catholic [[history]], but very little understood
+by the journalistic [[history]] of industrial civilisation. It shows
 that the Saints were sometimes great men when the Popes were small
 men. But it also shows that great men are sometimes wrong when
 small men are right. And it will be found, after all, very
-difficult for any candid and clear-headed outsider to deny that the
+difficult for any candid and clear-headed [[Outsider|outsider]] to deny that the
 Pope was right, when he insisted that the world was not made only
 for Franciscans.
 For that was what was behind the quarrel. At the back of this
 particular practical question there was something much larger and
-more momentous, the stir and wind of which we can feel as we read
-the controversy. We might go so far as to put the ultimate truth
+more momentous, the stir and [[Wind|wind]] of which we can feel as we read
+the controversy. We might go so far as to put the ultimate [[Truth|truth]]
 thus. St. Francis was so great and original a man that he had
 something in him of what makes the founder of a religion. Many of
 his followers were more or less ready, in their hearts, to treat
@@ -87,7 +87,7 @@ him as the founder of a religion. They were willing to let the
 Franciscan spirit escape from Christendom as the Christian spirit
 had escaped from Israel. They were willing to let it eclipse
 Christendom as the Christian spirit had eclipsed Israel. Francis,
-the fire that ran through the roads of Italy, was to be the
+the [[Fire|fire]] that ran through the roads of [[Italy]], was to be the
 beginning of a conflagration in which the old Christian
 civilisation was to be consumed. That was the point the Pope had to
 settle; whether Christendom should absorb Francis or Francis
@@ -117,16 +117,16 @@ idiot could understand it. The whole point of his point of view was
 that it looked out freshly upon a fresh world, that might have been
 made that morning. Save for the great primal things, the Creation
 and the Story of Eden, the first Christmas and the first Easter,
-the world had no history. But is it desired or desirable that the
-whole Catholic Church should have no history?
+the world had no [[history]]. But is it desired or desirable that the
+whole [[Catholic Church]] should have no [[history]]?
 It is perhaps the chief suggestion of this book that St. Francis
 walked the world like the Pardon of God. I mean that his appearance
 marked the moment when men could be reconciled not only to God but
-to nature and, most difficult of all, to themselves. For it marked
+to [[Nature|nature]] and, most difficult of all, to themselves. For it marked
 the moment when all the stale paganism that had poisoned the
 ancient world was at last worked out of the social system. He
-opened the gates of the Dark Ages as of a prison of purgatory,
-where men had cleansed themselves as hermits in the desert or
+opened the gates of the Dark Ages as of a [[Prison|prison]] of purgatory,
+where men had cleansed themselves as hermits in the [[Desert|desert]] or
 heroes in the barbarian wars. It was in fact his whole function to
 tell men to start afresh and, in that sense, to tell them to
 forget. If they were to turn over a new leaf and begin a fresh page
@@ -140,42 +140,42 @@ mythology which lingered long after paganism. The first Italian
 poet seems the only man in the world who has never even heard of
 Virgil. This was exactly right for the special sense in which he is
 the first Italian poet. It is quite right that he should call a
-nightingale a nightingale, and not have its song spoilt or saddened
+[[Nightingale|nightingale]] a [[Nightingale|nightingale]], and not have its [[Song|song]] spoilt or saddened
 by the terrible tales of Itylus or Procne. In short, it is really
 quite right and quite desirable that St. Francis should never have
-heard of Virgil. But do we really desire that Dante should never
-have heard of Virgil? Do we really desire that Dante should never
+heard of Virgil. But do we really [[Desire|desire]] that [[Dante]] should never
+have heard of Virgil? Do we really [[Desire|desire]] that [[Dante]] should never
 have read any pagan mythology? It has been truly said that the use
-that Dante makes of such fables is altogether part of a deeper
+that [[Dante]] makes of such fables is altogether part of a deeper
 orthodoxy; that his huge heathen fragments, his gigantic figures of
 Minos or of Charon, only give a hint of some enormous natural
-religion behind all history and from the first foreshadowing the
-Faith. It is well to have the Sybil as well as David in the Dies
-Irae. That St. Francis would have burned all the leaves of all the
+religion behind all [[history]] and from the first foreshadowing the
+[[Faith]]. It is [[Well|well]] to have the Sybil as [[Well|well]] as David in the Dies
+Irae. That St. Francis would have burned all the [[Leaves|leaves]] of all the
 books of the Sybil, in exchange for one fresh leaf from the nearest
 tree, is perfectly true; and perfectly proper to St. Francis. But
-it is good to have the Dies Irae as well as the Canticle of the
+it is good to have the Dies Irae as [[Well|well]] as the Canticle of the
 Sun.
 By this thesis, in short, the coming of St. Francis was like the
-birth of a child in a dark house, lifting its doom; a child that
-grows up unconscious of the tragedy and triumphs over it by his
-innocence. In him it is necessarily not only innocence but
+birth of a [[Child|child]] in a dark [[house]], lifting its doom; a [[Child|child]] that
+grows up unconscious of the [[Tragedy|tragedy]] and triumphs over it by his
+[[innocence]]. In him it is necessarily not only [[innocence]] but
 ignorance. It is the essence of the story that he should pluck at
 the green grass without knowing it grows over a murdered man or
 climb the apple-tree without knowing it was the gibbet of a
-suicide. It was such an amnesty and reconciliation that the
+[[suicide]]. It was such an amnesty and [[Reconciliation|reconciliation]] that the
 freshness of the Franciscan spirit brought to all the world. But it
 does not follow that it ought to impose its ignorance on all the
 world. And I think it would have tried to impose it on all the
 world. For some Franciscans it would have seemed right that
 Franciscan poetry should expel Benedictine prose. For the symbolic
-child it was quite rational. It was right enough that for such a
-child the world should be a large new nursery with blank
+[[Child|child]] it was quite rational. It was right enough that for such a
+[[Child|child]] the world should be a large new nursery with blank
 white-washed walls, on which he could draw his own pictures in
-chalk in the childish fashion, crude in outline and gay in colour;
+[[chalk]] in the childish fashion, crude in outline and gay in colour;
 the beginnings of all our art. It was right enough that to him such
 a nursery should seem the most magnificent mansion of the
-imagination of man. But in the Church of God are many mansions.
+[[Imagination|imagination]] of man. But in the Church of God are many mansions.
 Every heresy has been an effort to narrow the Church. If the
 Franciscan movement had turned into a new religion, it would after
 all have been a narrow religion. In so far as it did turn here and
@@ -189,7 +189,7 @@ themselves the true sons of St. Francis and broke away from the
 compromises of Rome in favour of what they would have called the
 complete programme of Assisi. In a very little while these loose
 Franciscans began to look as ferocious as Flagellants. They
-launched new and violent vetoes; they denounced marriage; that is,
+launched new and violent vetoes; they denounced [[Marriage|marriage]]; that is,
 they denounced mankind. In the name of the most human of saints
 they declared war upon humanity. They did not perish particularly
 through being persecuted; many of them were eventually persuaded;
@@ -203,35 +203,35 @@ listen to reason. And St. Francis, however wild and romantic his
 gyrations might appear to many, always hung on to reason by one
 invisible and indestructible hair.
 The great saint was sane; and with the very sound of the word
-sanity, as at a deeper chord struck upon a harp, we come back to
+[[Sanity|sanity]], as at a deeper chord struck upon a harp, we come back to
 something that was indeed deeper than everything about him that
 seemed an almost elvish eccentricity. He was not a mere eccentric
 because he was always turning towards the centre and heart of the
 maze; he took the queerest and most zigzag short cuts through the
-wood, but he was always going home. He was not only far too humble
-to be an heresiarch, but he was far too human to desire to be an
-extremist, in the sense of an exile at the ends of the earth. The
-sense of humour which salts all the stories of his escapades alone
+wood, but he was always going [[Home|home]]. He was not only far too humble
+to be an heresiarch, but he was far too human to [[Desire|desire]] to be an
+extremist, in the sense of an [[Exile|exile]] at the ends of the earth. The
+sense of [[Humour|humour]] which salts all the stories of his escapades [[Alone|alone]]
 prevented him from ever hardening into the solemnity of sectarian
-self-righteousness. He was by nature ready to admit that he was
+[[Self|self]]-righteousness. He was by [[Nature|nature]] ready to admit that he was
 wrong; and if his followers had on some practical points to admit
 that he was wrong, they only admitted that he was wrong in order to
 prove that he was right. For it is they, his real followers, who
 have really proved that he was right and even in transcending some
 of his negations have triumphantly extended and interpreted his
-truth. The Franciscan order did not fossilise or break off short
+[[Truth|truth]]. The Franciscan order did not fossilise or break off short
 like something of which the true purpose has been frustrated by
 official tyranny or internal treason. It was this, the central and
 orthodox trunk of it, that afterwards bore fruit for the world. It
 counted among its sons Bonaventura, the great mystic, and
-Bernardino, the popular preacher, who filled Italy with the very
+Bernardino, the popular preacher, who filled [[Italy]] with the very
 beatific buffooneries of a Jongleur de Dieu. It counted Raymond
 Lully with his strange learning and his large and daring plans for
-the conversion of the world; a man intensely individual exactly as
+the [[conversion]] of the world; a man intensely individual exactly as
 St. Francis was intensely individual. It counted Roger Bacon, the
-first naturalist whose experiments with light and water had all the
+first naturalist whose experiments with light and [[Water|water]] had all the
 luminous quaintness that belongs to the beginnings of natural
-history; and whom even the most material scientists have hailed as
+[[history]]; and whom even the most material scientists have hailed as
 a father of science. It is not merely true that these were great
 men who did great work for the world; it is also true that they
 were a certain kind of men keeping the spirit and savour of a
@@ -242,22 +242,22 @@ For that is the full and final spirit in which we should turn to
 St. Francis; in the spirit of thanks for what he has done. He was
 above all things a great giver; and he cared chiefly for the best
 kind of giving which is called thanksgiving. If another great man
-wrote a grammar of assent, he may well be said to have written a
+wrote a grammar of assent, he may [[Well|well]] be said to have written a
 grammar of acceptance; a grammar of gratitude. He understood down
 to its very depths the theory of thanks; and its depths are a
 bottomless abyss. He knew that the praise of God stands on its
 strongest ground when it stands on nothing. He knew that we can
 best measure the towering miracle of the mere fact of existence if
-we realise that but for some strange mercy we should not even
-exist. And something of that larger truth is repeated in a lesser
-form in our own relations with so mighty a maker of history. He
+we realise that but for some strange [[Mercy|mercy]] we should not even
+exist. And something of that larger [[Truth|truth]] is repeated in a lesser
+form in our own relations with so mighty a maker of [[history]]. He
 also is a giver of things we could not have even thought of for
 ourselves; he also is too great for anything but gratitude. From
-him came a whole awakening of the world and a dawn in which all
+him came a whole awakening of the world and a [[Dawn|dawn]] in which all
 shapes and colours could be seen anew. The mighty men of genius who
-made the Christian civilisation that we know appear in history
-almost as his servants and imitators. Before Dante was, he had
-given poetry to Italy; before St. Louis ruled, he had risen as the
+made the Christian civilisation that we know appear in [[history]]
+almost as his servants and imitators. Before [[Dante]] was, he had
+given poetry to [[Italy]]; before St. Louis ruled, he had risen as the
 tribune of the poor; and before Giotto had painted the pictures, he
 had enacted the scenes. That great painter who began the whole
 human inspiration of European painting had himself gone to St.
@@ -265,22 +265,22 @@ Francis to be inspired. It is said that when St. Francis staged in
 his own simple fashion a Nativity Play of Bethlehem, with kings and
 angels in the stiff and gay mediaeval garments and the golden wigs
 that stood for haloes, a miracle was wrought full of the Franciscan
-glory. The Holy Child was a wooden doll or bambino, and it was said
+glory. The Holy [[Child]] was a wooden doll or bambino, and it was said
 that he embraced it and that the image came to life in his arms. He
 assuredly was not thinking of lesser things; but we may at least
 say that one thing came to life in his arms; and that was the thing
-that we call the drama. Save for his intense individual love of
-song, he did not perhaps himself embody this spirit in any of these
+that we call the drama. Save for his intense individual [[Love|love]] of
+[[Song|song]], he did not perhaps himself embody this spirit in any of these
 arts. He was the spirit that was embodied. He was the spiritual
 essence and substance that walked the world, before any one had
 seen these things in visible forms derived from it: a wandering
-fire as if from nowhere, at which men more material could light
-both torches and tapers. He was the soul of mediaeval civilisation
-before it even found a body. Another and quite different stream of
+[[Fire|fire]] as if from nowhere, at which men more material could light
+both torches and tapers. He was the [[Soul|soul]] of mediaeval civilisation
+before it even found a [[Body|body]]. Another and quite different stream of
 spiritual inspiration derives largely from him; all that reforming
 energy of mediaeval and modern times that goes to the burden of
 Deus est Deus Pauperum. His abstract ardour for human beings was in
-a multitude of just mediaeval laws against the pride and cruelty of
+a multitude of just mediaeval laws against the [[Pride|pride]] and cruelty of
 riches; it is to-day behind much that is loosely called Christian
 Socialist and can more correctly be called Catholic Democrat.
 Neither on the artistic nor the social side would anybody pretend
@@ -289,14 +289,14 @@ strictly true to say that we cannot now imagine them without him;
 since he has lived and changed the world.
 And something of that sense of impotence which was more than
 half his power will descend on any one who knows what that
-inspiration has been in history, and can only record it in a series
+inspiration has been in [[history]], and can only record it in a series
 of straggling and meagre sentences. He will know something of what
 St. Francis meant by the great and good debt that cannot be paid.
-He will feel at once the desire to have done infinitely more and
+He will feel at once the [[Desire|desire]] to have done infinitely more and
 the futility of having done anything. He will know what it is to
-stand under such a deluge of a dead man's marvels, and have nothing
+stand under such a [[deluge]] of a dead man's marvels, and have nothing
 in return to establish against it; to have nothing to set up under
-the overhanging, overwhelming arches of such a temple of time and
-eternity, but this brief candle burnt out so quickly before his
+the overhanging, overwhelming arches of such a temple of [[Time|time]] and
+[[Eternity|eternity]], but this brief candle burnt out so quickly before his
 shrine.
 THE END

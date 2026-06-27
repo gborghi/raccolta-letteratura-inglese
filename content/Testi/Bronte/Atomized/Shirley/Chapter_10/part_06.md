@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 10 (part 6)"
+title: "[[Shirley]] — Chapter 10 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -20,11 +20,11 @@ candidly. Communicative on her own affairs she usually was not, because
 
 no one cared to listen to her; but to-day she became so, and her
 
-confidante shed tears as she heard her speak, for she told of cruel,
+confidante shed [[Tears|tears]] as she heard her speak, for she told of cruel,
 
-slow-wasting, obstinate sufferings. Well might she be corpse-like; well
+slow-wasting, obstinate sufferings. [[Well]] might she be corpse-like; [[Well|well]]
 
-might she look grim, and never smile; well might she wish to avoid
+might she look grim, and never smile; [[Well|well]] might she wish to avoid
 
 excitement, to gain and retain composure! Caroline, when she knew all,
 
@@ -50,13 +50,13 @@ we may be, so long as our hearts preserve the feeblest spark of life,
 
 they preserve also, shivering near that pale ember, a starved, ghostly
 
-longing for appreciation and affection. To this extenuated spectre,
+[[Longing|longing]] for appreciation and affection. To this extenuated spectre,
 
 perhaps, a crumb is not thrown once a year, but when ahungered and
 
 athirst to famine--when all humanity has forgotten the dying tenant of a
 
-decaying house--Divine mercy remembers the mourner, and a shower of
+decaying [[house]]--Divine [[Mercy|mercy]] remembers the mourner, and a shower of
 
 manna falls for lips that earthly nutriment is to pass no more. Biblical
 
@@ -66,9 +66,9 @@ the couch of sickness; it is felt that a pitying God watches what all
 
 mankind have forsaken. The tender compassion of Jesus is recalled and
 
-relied on; the faded eye, gazing beyond time, sees a home, a friend, a
+relied on; the faded eye, gazing beyond [[Time|time]], sees a [[Home|home]], a friend, a
 
-refuge in eternity.
+refuge in [[Eternity|eternity]].
 
 
 
@@ -76,7 +76,7 @@ Miss Mann, drawn on by the still attention of her listener, proceeded to
 
 allude to circumstances in her past life. She spoke like one who tells
 
-the truth--simply, and with a certain reserve; she did not boast, nor
+the [[Truth|truth]]--simply, and with a certain reserve; she did not boast, nor
 
 did she exaggerate. Caroline found that the old maid had been a most
 
@@ -88,7 +88,7 @@ malady that now poisoned her own life owed its origin; that to one
 
 wretched relative she had been a support and succour in the depths of
 
-self-earned degradation, and that it was still her hand which kept him
+[[Self|self]]-earned degradation, and that it was still her hand which kept him
 
 from utter destitution. Miss Helstone stayed the whole evening, omitting
 
@@ -130,7 +130,7 @@ old maid. In her first youth she must have been ugly; now, at the age of
 
 fifty, she was _very_ ugly. At first sight, all but peculiarly
 
-well-disciplined minds were apt to turn from her with annoyance, to
+[[Well|well]]-disciplined minds were apt to turn from her with annoyance, to
 
 conceive against her a prejudice, simply on the ground of her
 
@@ -154,11 +154,11 @@ and inconsiderate old ones, who declared her hideous.
 
 
 
-Caroline was soon at home in that tiny parlour. A kind hand took from
+Caroline was soon at [[Home|home]] in that tiny parlour. A kind hand took from
 
 her her shawl and bonnet, and installed her in the most comfortable seat
 
-near the fire. The young and the antiquated woman were presently deep in
+near the [[Fire|fire]]. The young and the antiquated woman were presently deep in
 
 kindly conversation, and soon Caroline became aware of the power a most
 
@@ -178,15 +178,15 @@ those who possess a perception of the ridiculous, without owning the
 
 power of exactly testing and truly judging character, would certainly
 
-have esteemed a proper subject for satire, a matter for mimicry and
+have esteemed a proper subject for [[Satire|satire]], a matter for mimicry and
 
 laughter. They would have been hugely mistaken for their pains.
 
 Sincerity is never ludicrous; it is always respectable. Whether
 
-truth--be it religious or moral truth--speak eloquently and in
+[[Truth|truth]]--be it religious or moral [[Truth|truth]]--speak eloquently and in
 
-well-chosen language or not, its voice should be heard with reverence.
+[[Well|well]]-chosen language or not, its voice should be heard with reverence.
 
 Let those who cannot nicely, and with certainty, discern the difference
 

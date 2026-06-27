@@ -21,22 +21,22 @@ miracles and all, as the original historians told it.
 And to this sane and simple course the new historians will probably
 have to return.  But it must be remembered that this book is avowedly
 only an introduction to St. Francis or the study of St. Francis.
-Those who need an introduction are in their nature strangers.
+Those who need an introduction are in their [[Nature|nature]] strangers.
 With them the object is to get them to listen to St. Francis at all;
 and in doing so it is perfectly legitimate so to arrange the order of
 the facts that the familiar come before the unfamiliar and those they can
 at once understand before those they have a difficulty in understanding.
-I should only be too thankful if this thin and scratchy sketch contains
+I should only be too thankful if this thin and scratchy [[Sketch|sketch]] contains
 a line or two that attracts men to study St. Francis for themselves;
 and if they do study him for themselves, they will soon find that
-the supernatural part of the story seems quite as natural as the rest.
+the [[Supernatural|supernatural]] part of the story seems quite as natural as the rest.
 But it was necessary that my outline should be a merely human one,
 since I was only presenting his claim on all humanity, including
 sceptical humanity.  I therefore adopted the alternative course,
-of showing first that nobody but a born fool could fail to realise
+of showing first that nobody but a born [[Fool|fool]] could fail to realise
 that Francis of Assisi was a very real historical human being;
 and then summarising briefly in this chapter the superhuman
-powers that were certainly a part of that history and humanity.
+powers that were certainly a part of that [[history]] and humanity.
 It only remains to say a few words about some distinctions that
 may reasonably be observed in the matter by any man of any views;
 that he may not confuse the point and climax of the saint's life
@@ -50,25 +50,25 @@ within these narrow limits to pursue a somewhat narrow policy;
 that of following one line of explanation and only mentioning one
 anecdote here or there because it illustrates that explanation.
 If this is true about all the legends and stories, it is especially
-true about the miraculous legends and the supernatural stories.
+true about the miraculous legends and the [[Supernatural|supernatural]] stories.
 If we were to take some stories as they stand, we should receive a rather
-bewildered impression that the biography contains more supernatural
+bewildered impression that the [[Biography|biography]] contains more [[Supernatural|supernatural]]
 events than natural ones.  Now it is clean against Catholic tradition,
 co-incident in so many points with common sense, to suppose that this
 is really the proportion of these things in practical human life.
-Moreover, even considered as supernatural or preternatural stories,
+Moreover, even considered as [[Supernatural|supernatural]] or preternatural stories,
 they obviously fall into certain different classes, not so much
 by our experience of miracles as by our experience of stories.
 Some of them have the character of fairy stories in their form
 even more than their incident.  They are obviously tales
-told by the fire to peasants or the children of peasants,
+told by the [[Fire|fire]] to peasants or the children of peasants,
 under conditions in which nobody thinks he is propounding
 a religious doctrine to be received or rejected, but only rounding
 off a story in the most symmetrical way, according to that sort
 of decorative scheme or pattern that runs through all fairy stories.
 Others are obviously in their form most emphatically evidence;
-that is they are testimony that is truth or lies; and it will be
-very hard for any judge of human nature to think they are lies.
+that is they are testimony that is [[Truth|truth]] or lies; and it will be
+very hard for any judge of human [[Nature|nature]] to think they are lies.
 
 It is admitted that the story of the Stigmata is not a legend but can
 only be a lie.  I mean that it is certainly not a late legendary
@@ -77,12 +77,12 @@ that started almost immediately with his earliest biographers.
 It is practically necessary to suggest that it was a conspiracy;
 indeed there has been some disposition to put the fraud upon
 the unfortunate Elias, whom so many parties have been disposed
-to treat as a useful universal villain.  It has been said,
+to treat as a useful universal [[Villain|villain]].  It has been said,
 indeed, that these early biographers, St. Bonaventura and Celano
 and the Three Companions, though they declare that St. Francis
 received the mystical wounds, do not say that they themselves
 saw those wounds.  I do not think this argument conclusive;
-because it only arises out of the very nature of the narrative.
+because it only arises out of the very [[Nature|nature]] of the narrative.
 The Three Companions are not in any case making an affidavit;
 and therefore none of the admitted parts of their story are in the form
 of an affidavit.  They are writing a chronicle of a comparatively
@@ -105,20 +105,20 @@ to the mere fact that some men cannot believe in miracles because
 they are materialists.  That is logical enough; but they are bound
 to deny the preternatural as much in the testimony of a modern
 scientific professor as in that of a medieval monkish chronicler.
-And there are plenty of professors for them to contradict by this time.
+And there are plenty of professors for them to contradict by this [[Time|time]].
 
 But whatever may be thought of such supernaturalism in the comparatively
-material and popular sense of supernatural acts, we shall miss the whole
+material and popular sense of [[Supernatural|supernatural]] acts, we shall miss the whole
 point of St. Francis, especially of St. Francis after Alverno,
-if we do not realise that he was living a supernatural life.
+if we do not realise that he was living a [[Supernatural|supernatural]] life.
 And there is more and more of such supernaturalism in his life
-as he approaches towards his death.  This element of the supernatural
+as he approaches towards his [[Death|death]].  This element of the [[Supernatural|supernatural]]
 did not separate him from the natural; for it was the whole point
 of his position that it united him more perfectly to the natural.
 It did not make him dismal or dehumanised; for it was the whole meaning
 of his message that such mysticism makes a man cheerful and humane.
 But it was the whole point of his position, and it was the whole meaning
-of his message, that the power that did it was a supernatural power.
+of his message, that the power that did it was a [[Supernatural|supernatural]] power.
 If this simple distinction were not apparent from the whole of his life,
 it would be difficult for any one to miss it in reading the account
-of his death.
+of his [[Death|death]].

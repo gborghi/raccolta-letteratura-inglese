@@ -29,76 +29,76 @@ But straws the wheat and saves the chaff
 With a most evil fan.  
 This too I know - and wise it were  
 If each could know the same -  
-That every prison that men build  
+That every [[Prison|prison]] that men build  
 Is built with bricks of shame,  
-And bound with bars lest Christ should see  
+And bound with bars lest [[Christ]] should see  
 How men their brothers maim.  
-With bars they blur the gracious moon,  
+With bars they blur the gracious [[Moon|moon]],  
 And blind the goodly sun:  
-And they do well to hide their Hell,  
+And they do [[Well|well]] to hide their Hell,  
 For in it things are done  
 That Son of God nor son of Man  
 Ever should look upon!  
-The vilest deeds like poison weeds,  
-Bloom well in prison-air;  
+The vilest deeds like [[Poison|poison]] weeds,  
+Bloom [[Well|well]] in [[Prison|prison]]-air;  
 It is only what is good in Man  
 That wastes and withers there:  
 Pale Anguish keeps the heavy gate,  
-And the Warder is Despair.  
-For they starve the little frightened child  
-Till it weeps both night and day:  
-And they scourge the weak, and flog the fool,  
+And the Warder is [[Despair]].  
+For they starve the little frightened [[Child|child]]  
+Till it weeps both [[Night|night]] and day:  
+And they scourge the weak, and flog the [[Fool|fool]],  
 And gibe the old and grey,  
 And some grow mad, and all grow bad,  
 And none a word may say.  
 Each narrow cell in which we dwell  
 Is a foul and dark latrine,  
-And the fetid breath of living Death  
+And the fetid breath of living [[Death]]  
 Chokes up each grated screen,  
-And all, but Lust, is turned to dust  
-In Humanity’s machine.  
-The brackish water that we drink  
+And all, but Lust, is turned to [[Dust|dust]]  
+In Humanity’s [[Machine|machine]].  
+The brackish [[Water|water]] that we drink  
 Creeps with a loathsome slime,  
 And the bitter bread they weigh in scales  
-Is full of chalk and lime,  
-And Sleep will not lie down, but walks  
-Wild-eyed, and cries to Time.  
+Is full of [[chalk]] and lime,  
+And [[Sleep]] will not lie down, but walks  
+Wild-eyed, and cries to [[Time]].  
 But though lean Hunger and green Thirst  
 Like asp with adder fight,  
-We have little care of prison fare,  
+We have little care of [[Prison|prison]] fare,  
 For what chills and kills outright  
 Is that every stone one lifts by day  
-Becomes one’s heart by night.  
+Becomes one’s heart by [[Night|night]].  
 With midnight always in one’s heart,  
 And twilight in one’s cell,  
 We turn the crank, or tear the rope,  
 Each in his separate Hell,  
-And the silence is more awful far  
+And the [[Silence|silence]] is more awful far  
 Than the sound of a brazen bell.  
 And never a human voice comes near  
 To speak a gentle word:  
 And the eye that watches through the door  
 Is pitiless and hard:  
 And by all forgot, we rot and rot,  
-With soul and body marred.  
+With [[Soul|soul]] and [[Body|body]] marred.  
 And thus we rust Life’s iron chain  
-Degraded and alone:  
+Degraded and [[Alone|alone]]:  
 And some men curse, and some men weep,  
 And some men make no moan:  
 But God’s eternal Laws are kind  
 And break the heart of stone.  
 And every human heart that breaks,  
-In prison-cell or yard,  
+In [[Prison|prison]]-cell or yard,  
 Is as that broken box that gave  
 Its treasure to the Lord,  
-And filled the unclean leper’s house  
+And filled the unclean leper’s [[house]]  
 With the scent of costliest nard.  
 Ah! happy they whose hearts can break  
 And peace of pardon win!  
 How else may man make straight his plan  
-And cleanse his soul from Sin?  
+And cleanse his [[Soul|soul]] from Sin?  
 How else but through a broken heart  
-May Lord Christ enter in?  
+May Lord [[Christ]] enter in?  
 And he of the swollen purple throat,  
 And the stark and staring eyes,  
 Waits for the holy hands that took  
@@ -108,12 +108,12 @@ The Lord will not despise.
 The man in red who reads the Law  
 Gave him three weeks of life,  
 Three little weeks in which to heal  
-His soul of his soul’s strife,  
-And cleanse from every blot of blood  
+His [[Soul|soul]] of his [[Soul|soul]]’s strife,  
+And cleanse from every blot of [[Blood|blood]]  
 The hand that held the knife.  
-And with tears of blood he cleansed the hand,  
+And with [[Tears|tears]] of [[Blood|blood]] he cleansed the hand,  
 The hand that held the steel:  
-For only blood can wipe out blood,  
-And only tears can heal:  
-And the crimson stain that was of Cain  
-Became Christ’s snow-white seal.  
+For only [[Blood|blood]] can wipe out [[Blood|blood]],  
+And only [[Tears|tears]] can heal:  
+And the crimson stain that was of [[Cain]]  
+Became [[Christ]]’s [[Snow|snow]]-white seal.  

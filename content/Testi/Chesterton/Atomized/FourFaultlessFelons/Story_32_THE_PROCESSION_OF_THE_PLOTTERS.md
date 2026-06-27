@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE PROCESSION OF THE PLOTTERS"
+title: "[[FourFaultlessFelons]] — THE PROCESSION OF THE PLOTTERS"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"

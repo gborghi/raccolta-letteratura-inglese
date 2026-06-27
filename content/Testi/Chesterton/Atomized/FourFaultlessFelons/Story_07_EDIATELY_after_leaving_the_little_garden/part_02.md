@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — EDIATELY after leaving the little garden-party, Tom and his tutor (part 2)"
+title: "[[FourFaultlessFelons]] — EDIATELY after leaving the little [[Garden|garden]]-party, Tom and his tutor (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -20,7 +20,7 @@ look after my charge. And I know that is the right way with him. Don't
 
 you be worried about him. He's perfectly all right if you understand him,
 
-and it's only a matter of making up for lost time."
+and it's only a matter of making up for lost [[Time|time]]."
 
 
 
@@ -30,7 +30,7 @@ abstraction; she had taken the chair he offered her apparently without
 
 noticing it and was staring at the comical diagrams, apparently without
 
-seeing them. Indeed, it might well have been supposed that she was not
+seeing them. Indeed, it might [[Well|well]] have been supposed that she was not
 
 listening at all, for the next remark she made appeared to be about a
 
@@ -56,13 +56,13 @@ one about to whistle. He stared at the girl and said softly: "Hullo! Has
 
 he turned up again? I thought there was some trouble coming. Yes, I know
 
-him-they call him Dr. Gregory, but I believe he comes from Germany,
+him-they call him Dr. Gregory, but I believe he comes from [[Germany]],
 
 though he often passes for English. He is a stormy petrel, anyhow; and
 
 wherever he goes there's a row. Some say we ought to have used him
 
-ourselves; I believe he once offered his talents to our Government. He's
+ourselves; I believe he once offered his talents to our [[government|Government]]. He's
 
 a very clever fellow and knows a frightful lot of the facts about these
 
@@ -90,25 +90,25 @@ all the things he said."
 
 a pretty rotten reputation about women; I won't go into details, but he'd
 
-have gone to prison twice but for suborning perjury. I only say, whatever
+have gone to [[Prison|prison]] twice but for suborning perjury. I only say, whatever
 
 you may come to believe, don't believe in him."
 
 
 
-"He dared to say that our Government broke its word," said Barbara
+"He dared to say that our [[government|Government]] broke its word," said Barbara
 
 indignantly.
 
 
 
-John Hume was silent. Something in his silence affected her like a
+John Hume was silent. Something in his [[Silence|silence]] affected her like a
 
 strain, and she said quite irrationally: "Oh, for the Lord's sake say
 
 something! Do you know he dared to say that somebody on Lord Jaffray's
 
-expedition shot a child? I don't mind their saying England's cold and
+expedition shot a [[Child|child]]? I don't mind their saying England's cold and
 
 hard and all that; I suppose that's natural prejudice. But can't we stop
 
@@ -116,7 +116,7 @@ these wild, wicked lies?"
 
 
 
-"Well," replied Hume rather wearily, "nobody can say that Jaffray is cold
+"[[Well]]," replied Hume rather wearily, "nobody can say that Jaffray is cold
 
 and hard. The excuse for the whole thing was that he was blind drunk."
 
@@ -130,15 +130,15 @@ and hard. The excuse for the whole thing was that he was blind drunk."
 
 dangerous condition of the Press and the public, when only the liars tell
 
-the truth."
+the [[Truth|truth]]."
 
 
 
-Something of a massive gravity in his grim humour for the moment
+Something of a massive gravity in his grim [[Humour|humour]] for the moment
 
 overpowered her breathless resentment, and she said in a quieter tone:
 
-"Do you believe in this demand for self-government?"
+"Do you believe in this demand for [[Self|self]]-[[government]]?"
 
 
 
@@ -164,7 +164,7 @@ didn't you make one for yourself?'"
 
 
 
-"Their politicians are often frauds, but they're not alone in that.
+"Their politicians are often frauds, but they're not [[Alone|alone]] in that.
 
 That's why I find myself forced into an intermediate position, a sort of
 
@@ -176,11 +176,11 @@ see I'm a Moderate."
 
 
 
-He laughed a little for the first time, and his plain face was suddenly
+He laughed a little for the first [[Time|time]], and his plain face was suddenly
 
 altered for the better. She was moved to say in a more friendly tone:
 
-"Well, we must prevent a real outbreak. You don't want all our people
+"[[Well]], we must prevent a real outbreak. You don't want all our people
 
 murdered."
 
@@ -216,11 +216,11 @@ I know what would be better than making an example."
 
 
 
-She said suddenly: "Well, why don't you do something yourself?"
+She said suddenly: "[[Well]], why don't you do something yourself?"
 
 
 
-There was a silence. Then he drew a deep breath. "Ah, there you have me.
+There was a [[Silence|silence]]. Then he drew a deep breath. "Ah, there you have me.
 
 I can't do anything myself. I am futile; naturally and inevitably futile.
 
@@ -244,18 +244,18 @@ slab of stone on a sarcophagus; she did not protest, and in her
 
 subconsciousness yawned a disappointment. She half realized the depth of
 
-her strange reliance and felt like one who had dug in the desert and
+her strange reliance and felt like one who had dug in the [[Desert|desert]] and
 
-found a very deep well, and found it dry.
+found a very deep [[Well|well]], and found it dry.
 
 
 
-When she went out on to the veranda the steep garden and plantation were
+When she went out on to the veranda the steep [[Garden|garden]] and plantation were
 
-grey in the moon, and a certain greyness spread over her own spirit, a
+grey in the [[Moon|moon]], and a certain greyness spread over her own spirit, a
 
-mood of fatalism and of dull fear. For the first time she realized
+mood of fatalism and of dull [[Fear|fear]]. For the first [[Time|time]] she realized
 
 something of what strikes a Western eye in Eastern places as the
 
-unnaturalness of nature. The squat, limbless growth of the prickly pear
+unnaturalness of [[Nature|nature]]. The squat, limbless growth of the prickly pear

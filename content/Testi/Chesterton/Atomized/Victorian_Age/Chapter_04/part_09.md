@@ -26,11 +26,11 @@ Browning_, and A. C. Benson's _Fitzgerald_. At least two autobiographies
 
 must be named, those of Herbert Spencer and John Stuart Mill, and, as
 
-antidote to Newman's _Apologia_, the gay self-revelations of Borrow, and
+antidote to Newman's _Apologia_, the gay [[Self|self]]-revelations of Borrow, and
 
 Jefferies' _Story of My Heart_. Other considerable volumes are W. J.
 
-Cross's _George Eliot_, Lionel Johnson's _Art of Thomas Hardy_, Mr. W. M.
+[[Cross]]'s _George Eliot_, Lionel Johnson's _Art of Thomas Hardy_, Mr. W. M.
 
 Rossetti's _Dante G. Rossetti_, Colvin's _R. L. Stevenson_, J. W.
 
@@ -70,7 +70,7 @@ Literature_, etc.), Augustine Birrell (_Obiter Dicta_, _Essays_), W. E.
 
 Henley (_Views and Reviews_), J. Addington Symonds (_Essays_), J.
 
-Churton Collins, Richard Garnett, Stopford A. Brooke, George E. B.
+Churton Collins, [[Richard]] Garnett, Stopford A. Brooke, George E. B.
 
 Saintsbury (_History of Criticism_), R. H. Hutton (_Contemporary
 
@@ -78,7 +78,7 @@ Thought_), J. M. Robertson (_Modern Humanists_, _Buckle_, etc.), Frederic
 
 Harrison (_The Choice of Books_, etc.), Andrew Lang, Walter Bagehot,
 
-Edmund Gosse, Prof. Dowden, Sir Walter Raleigh, and Sir A. T. Quiller
+[[Edmund]] Gosse, Prof. Dowden, Sir Walter Raleigh, and Sir A. T. Quiller
 
 Couch.
 
@@ -152,7 +152,7 @@ Faber, 46
 
 Fitzgerald, 192-95
 
-French Revolution, Influence of, 18-21
+[[French Revolution]], Influence of, 18-21
 
 Froude, 60, 62
 
@@ -174,7 +174,7 @@ Hood, Thomas, 25-27
 
 Hughes, Tom, 73
 
-Humour, Victorian, 152-55
+[[Humour]], Victorian, 152-55
 
 Hunt, Leigh, 23
 
@@ -200,7 +200,7 @@ Kipling, R., 60, 249-50
 
 
 
-Lamb, 23
+[[Lamb]], 23
 
 Landor, 23
 
@@ -230,7 +230,7 @@ Morris, Wm., 196-200, 232
 
 Newman, 38, 40, 45-48, 78, 159
 
-Novel, The Modern, 90-99
+[[Novel]], The Modern, 90-99
 
 
 
@@ -238,7 +238,7 @@ Oliphant, Mrs., 116-17
 
 "Ouida," 117
 
-Oxford Movement, 42-45
+[[Oxford]] Movement, 42-45
 
 
 
@@ -260,7 +260,7 @@ Ruskin, 40, 62-8, 70, 158
 
 Science, Victorian, 208-12
 
-Shaw, G. B., 60, 235-38
+[[Shaw]], G. B., 60, 235-38
 
 Shelley, 22-23
 
@@ -322,7 +322,7 @@ This and all associated files of various formats will be found in:
 
 
 
-Produced by Karina Aleksandrova, Juliet Sutherland and the
+Produced by Karina Aleksandrova, [[Juliet]] Sutherland and the
 
 Online Distributed Proofreading Team at http://www.pgdp.net
 

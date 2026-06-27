@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 3)"
+title: "[[David Copperfield]] — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -66,17 +66,17 @@ showing in my face how much it pleased me, but I said little, and he
 resumed his usual smile, and seemed relieved.
 
 ‘But see here,’ he said, looking before us, ‘where the original little
-Em’ly comes! And that fellow with her, eh? Upon my soul, he’s a true
-knight. He never leaves her!’
+Em’ly comes! And that fellow with her, eh? Upon my [[Soul|soul]], he’s a true
+knight. He never [[Leaves|leaves]] her!’
 
 Ham was a boat-builder in these days, having improved a natural
 ingenuity in that handicraft, until he had become a skilled workman. He
 was in his working-dress, and looked rugged enough, but manly withal,
 and a very fit protector for the blooming little creature at his
 side. Indeed, there was a frankness in his face, an honesty, and an
-undisguised show of his pride in her, and his love for her, which were,
+undisguised show of his [[Pride|pride]] in her, and his [[Love|love]] for her, which were,
 to me, the best of good looks. I thought, as they came towards us, that
-they were well matched even in that particular.
+they were [[Well|well]] matched even in that particular.
 
 She withdrew her hand timidly from his arm as we stopped to speak to
 them, and blushed as she gave it to Steerforth and to me. When they
@@ -84,19 +84,19 @@ passed on, after we had exchanged a few words, she did not like to
 replace that hand, but, still appearing timid and constrained, walked
 by herself. I thought all this very pretty and engaging, and Steerforth
 seemed to think so too, as we looked after them fading away in the light
-of a young moon.
+of a young [[Moon|moon]].
 
 Suddenly there passed us--evidently following them--a young woman whose
 approach we had not observed, but whose face I saw as she went by, and
 thought I had a faint remembrance of. She was lightly dressed; looked
-bold, and haggard, and flaunting, and poor; but seemed, for the time, to
-have given all that to the wind which was blowing, and to have nothing
+bold, and haggard, and flaunting, and poor; but seemed, for the [[Time|time]], to
+have given all that to the [[Wind|wind]] which was blowing, and to have nothing
 in her mind but going after them. As the dark distant level, absorbing
 their figures into itself, left but itself visible between us and the
 sea and clouds, her figure disappeared in like manner, still no nearer
 to them than before.
 
-‘That is a black shadow to be following the girl,’ said Steerforth,
+‘That is a black [[Shadow|shadow]] to be following the girl,’ said Steerforth,
 standing still; ‘what does it mean?’
 
 He spoke in a low voice that sounded almost strange to Me.
@@ -110,10 +110,10 @@ thing that the beggar should take that shape tonight.’
 
 ‘For no better reason, truly, than because I was thinking,’ he said,
 after a pause, ‘of something like it, when it came by. Where the Devil
-did it come from, I wonder!’
+did it come from, I [[Wonder|wonder]]!’
 
-‘From the shadow of this wall, I think,’ said I, as we emerged upon a
-road on which a wall abutted.
+‘From the [[Shadow|shadow]] of this wall, I think,’ said I, as we emerged upon a
+[[Road|road]] on which a wall abutted.
 
 ‘It’s gone!’ he returned, looking over his shoulder. ‘And all ill go
 with it. Now for our dinner!’
@@ -121,12 +121,12 @@ with it. Now for our dinner!’
 But he looked again over his shoulder towards the sea-line glimmering
 afar off, and yet again. And he wondered about it, in some broken
 expressions, several times, in the short remainder of our walk; and only
-seemed to forget it when the light of fire and candle shone upon us,
+seemed to forget it when the light of [[Fire|fire]] and candle shone upon us,
 seated warm and merry, at table.
 
 Littimer was there, and had his usual effect upon me. When I said to
-him that I hoped Mrs. Steerforth and Miss Dartle were well, he answered
-respectfully (and of course respectably), that they were tolerably well,
+him that I hoped Mrs. Steerforth and Miss Dartle were [[Well|well]], he answered
+respectfully (and of course respectably), that they were tolerably [[Well|well]],
 he thanked me, and had sent their compliments. This was all, and yet he
 seemed to me to say as plainly as a man could say: ‘You are very young,
 sir; you are exceedingly young.’
@@ -146,7 +146,7 @@ as I felt, he said to his master:
 ‘It appears to be her native part of the country, sir. She informs me
 that she makes one of her professional visits here, every year, sir.
 I met her in the street this afternoon, and she wished to know if she
-might have the honour of waiting on you after dinner, sir.’
+might have the [[Honour|honour]] of waiting on you after dinner, sir.’
 
 ‘Do you know the Giantess in question, Daisy?’ inquired Steerforth.
 

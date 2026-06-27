@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 18 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 18 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,8 +16,8 @@ tags:
 
 Having quoted this extraordinary and most disinterested testimony to her
 daughter’s excellence, Mrs. Nickleby stopped to breathe; and Miss Knag,
-finding that the discourse was turning upon family greatness, lost no
-time in striking in, with a small reminiscence on her own account.
+finding that the discourse was turning upon family [[Greatness|greatness]], lost no
+[[Time|time]] in striking in, with a small reminiscence on her own account.
 
 ‘Don’t talk of lending money, Mrs. Nickleby,’ said Miss Knag, ‘or you’ll
 drive me crazy, perfectly crazy. My mama--hem--was the most lovely and
@@ -28,7 +28,7 @@ delightful and accomplished woman, perhaps, that ever was seen; but she
 had that one failing of lending money, and carried it to such an extent
 that she lent--hem--oh! thousands of pounds, all our little fortunes,
 and what’s more, Mrs. Nickleby, I don’t think, if we were to live
-till--till--hem--till the very end of time, that we should ever get them
+till--till--hem--till the very end of [[Time|time]], that we should ever get them
 back again. I don’t indeed.’
 
 After concluding this effort of invention without being interrupted,
@@ -43,7 +43,7 @@ and caring very little whether anybody listened or not.
 
 In this manner they walked on, very amicably, until they arrived at Miss
 Knag’s brother’s, who was an ornamental stationer and small circulating
-library keeper, in a by-street off Tottenham Court Road; and who let
+library keeper, in a by-street off Tottenham [[Court]] [[Road]]; and who let
 out by the day, week, month, or year, the newest old novels, whereof
 the titles were displayed in pen-and-ink characters on a sheet of
 pasteboard, swinging at his door-post. As Miss Knag happened, at the
@@ -59,7 +59,7 @@ Nickleby.’
 
 Having given utterance to these ejaculations with a very profound
 and thoughtful air, Mr. Knag slowly snuffed two kitchen candles on the
-counter, and two more in the window, and then snuffed himself from a box
+counter, and two more in the [[Window|window]], and then snuffed himself from a box
 in his waistcoat pocket.
 
 There was something very impressive in the ghostly air with which
@@ -75,7 +75,7 @@ Thomas was a boy nearly half as tall as a shutter, and the warehouse was
 a shop about the size of three hackney coaches.
 
 ‘Ah!’ said Mr. Knag once more, heaving a deep sigh as he restored to its
-parent shelf the book he had been reading. ‘Well--yes--I believe supper
+parent shelf the book he had been reading. ‘[[Well]]--yes--I believe supper
 is ready, sister.’
 
 With another sigh Mr. Knag took up the kitchen candles from the counter,
@@ -88,14 +88,14 @@ putting the supper out.
 begged you not to come into the room with your bonnet on!’
 
 ‘I can’t help it, Miss Knag,’ said the charwoman, bridling up on the
-shortest notice. ‘There’s been a deal o’cleaning to do in this house,
+shortest notice. ‘There’s been a deal o’cleaning to do in this [[house]],
 and if you don’t like it, I must trouble you to look out for somebody
-else, for it don’t hardly pay me, and that’s the truth, if I was to be
+else, for it don’t hardly pay me, and that’s the [[Truth|truth]], if I was to be
 hung this minute.’
 
 ‘I don’t want any remarks if YOU please,’ said Miss Knag, with a strong
-emphasis on the personal pronoun. ‘Is there any fire downstairs for some
-hot water presently?’
+emphasis on the personal pronoun. ‘Is there any [[Fire|fire]] downstairs for some
+hot [[Water|water]] presently?’
 
 ‘No there is not, indeed, Miss Knag,’ replied the substitute; ‘and so I
 won’t tell you no stories about it.’
@@ -110,7 +110,7 @@ replied Mrs. Blockson.
 violently into this dialogue.
 
 ‘By your leave, Mr. Knag,’ retorted the charwoman, turning sharp round.
-‘I’m only too glad not to speak in this house, excepting when and where
+‘I’m only too glad not to speak in this [[house]], excepting when and where
 I’m spoke to, sir; and with regard to being a female, sir, I should wish
 to know what you considered yourself?’
 
@@ -121,8 +121,8 @@ miserable wretch.’
 sir,’ said Mrs. Blockson; ‘and as I had two twin children the day before
 yesterday was only seven weeks, and my little Charley fell down a airy
 and put his elber out, last Monday, I shall take it as a favour if
-you’ll send nine shillings, for one week’s work, to my house, afore the
-clock strikes ten tomorrow.’
+you’ll send nine shillings, for one week’s work, to my [[house]], afore the
+[[Clock|clock]] strikes ten tomorrow.’
 
 With these parting words, the good woman quitted the room with great
 ease of manner, leaving the door wide open; Mr. Knag, at the same moment,
@@ -133,7 +133,7 @@ greatly disturbed by the sound.
 
 ‘Is he ill?’ inquired Kate, really alarmed.
 
-‘Hush!’ replied Miss Knag; ‘a most melancholy history. He was once most
+‘Hush!’ replied Miss Knag; ‘a most [[Melancholy|melancholy]] [[history]]. He was once most
 devotedly attached to--hem--to Madame Mantalini.’
 
 ‘Bless me!’ exclaimed Mrs. Nickleby.
@@ -142,8 +142,8 @@ devotedly attached to--hem--to Madame Mantalini.’
 and confidently hoped to marry her. He has a most romantic heart,
 Mrs. Nickleby, as indeed--hem--as indeed all our family have, and the
 disappointment was a dreadful blow. He is a wonderfully accomplished
-man--most extraordinarily accomplished--reads--hem--reads every novel
-that comes out; I mean every novel that--hem--that has any fashion in
+man--most extraordinarily accomplished--reads--hem--reads every [[Novel|novel]]
+that comes out; I mean every [[Novel|novel]] that--hem--that has any fashion in
 it, of course. The fact is, that he did find so much in the books he
 read, applicable to his own misfortunes, and did find himself in every
 respect so much like the heroes--because of course he is conscious of

@@ -18,11 +18,11 @@ tags:
 remarkable watch!’
 
 The tea-table was drawn up near the sofa, with a small interval between
-it and Mrs Clennam’s own particular table. Mr Blandois in his gallantry
+it and [[Mrs Clennam]]’s own particular table. Mr Blandois in his gallantry
 had risen to hand that lady her tea (her dish of toast was already
 there), and it was in placing the cup conveniently within her reach that
 the watch, lying before her as it always did, attracted his attention.
-Mrs Clennam looked suddenly up at him.
+[[Mrs Clennam]] looked suddenly up at him.
 
 ‘May I be permitted? Thank you. A fine old-fashioned watch,’ he said,
 taking it in his hand. ‘Heavy for use, but massive and genuine. I have
@@ -32,7 +32,7 @@ it from the outer case? Thank you. Aye? An old silk watch-lining, worked
 with beads! I have often seen these among old Dutch people and Belgians.
 Quaint things!’
 
-‘They are old-fashioned, too,’ said Mrs Clennam.
+‘They are old-fashioned, too,’ said [[Mrs Clennam]].
 
 ‘Very. But this is not so old as the watch, I think?’
 
@@ -44,19 +44,19 @@ It might be almost anything.’
 
 ‘Those are the letters.’
 
-Mr Flintwinch, who had been observantly pausing all this time with a cup
-of tea in his hand, and his mouth open ready to swallow the contents,
+Mr Flintwinch, who had been observantly pausing all this [[Time|time]] with a cup
+of tea in his hand, and his mouth open ready to [[Swallow|swallow]] the contents,
 began to do so: always entirely filling his mouth before he emptied it
 at a gulp; and always deliberating again before he refilled it.
 
 ‘D. N. F. was some tender, lovely, fascinating fair-creature, I make no
-doubt,’ observed Mr Blandois, as he snapped on the case again. ‘I adore
-her memory on the assumption. Unfortunately for my peace of mind,
+[[Doubt|doubt]],’ observed Mr Blandois, as he snapped on the case again. ‘I adore
+her [[Memory|memory]] on the assumption. Unfortunately for my peace of mind,
 I adore but too readily. It may be a vice, it may be a virtue, but
-adoration of female beauty and merit constitutes three parts of my
+adoration of female [[Beauty|beauty]] and merit constitutes three parts of my
 character, madam.’
 
-Mr Flintwinch had by this time poured himself out another cup of tea,
+Mr Flintwinch had by this [[Time|time]] poured himself out another cup of tea,
 which he was swallowing in gulps as before, with his eyes directed to
 the invalid.
 
@@ -81,13 +81,13 @@ speech:
 
 ‘No, sir, I do not forget. To lead a life as monotonous as mine has been
 during many years, is not the way to forget. To lead a life of
-self-correction is not the way to forget. To be sensible of having (as
+[[Self|self]]-correction is not the way to forget. To be sensible of having (as
 we all have, every one of us, all the children of Adam!) offences
-to expiate and peace to make, does not justify the desire to forget.
+to expiate and peace to make, does not justify the [[Desire|desire]] to forget.
 Therefore I have long dismissed it, and I neither forget nor wish to
 forget.’
 
-Mr Flintwinch, who had latterly been shaking the sediment at the bottom
+Mr Flintwinch, who had latterly been shaking the sediment at the [[Bottom|bottom]]
 of his tea-cup, round and round, here gulped it down, and putting the
 cup in the tea-tray, as done with, turned his eyes upon Mr Blandois as
 if to ask him what he thought of that?
@@ -97,13 +97,13 @@ white hand on his breast, ‘by the word “naturally,” which I am proud
 to have had sufficient apprehension and appreciation (but without
 appreciation I could not be Blandois) to employ.’
 
-‘Pardon me, sir,’ she returned, ‘if I doubt the likelihood of a
-gentleman of pleasure, and change, and politeness, accustomed to court
+‘Pardon me, sir,’ she returned, ‘if I [[Doubt|doubt]] the likelihood of a
+gentleman of pleasure, and change, and politeness, accustomed to [[Court|court]]
 and to be courted--’
 
 ‘Oh madam! By Heaven!’
 
-‘--If I doubt the likelihood of such a character quite comprehending
+‘--If I [[Doubt|doubt]] the likelihood of such a character quite comprehending
 what belongs to mine in my circumstances. Not to obtrude doctrine upon
 you,’ she looked at the rigid pile of hard pale books before her, ‘(for
 you go your own way, and the consequences are on your own head), I will
@@ -114,13 +114,13 @@ should not be half as chastened as I am.’
 
 It was curious how she seized the occasion to argue with some invisible
 opponent. Perhaps with her own better sense, always turning upon herself
-and her own deception.
+and her own [[Deception|deception]].
 
-‘If I forgot my ignorances in my life of health and freedom, I might
+‘If I forgot my ignorances in my life of health and [[Freedom|freedom]], I might
 complain of the life to which I am now condemned. I never do; I never
 have done. If I forgot that this scene, the Earth, is expressly meant to
 be a scene of gloom, and hardship, and dark trial, for the creatures who
-are made out of its dust, I might have some tenderness for its vanities.
+are made out of its [[Dust|dust]], I might have some tenderness for its vanities.
 But I have no such tenderness. If I did not know that we are, every one,
 the subject (most justly the subject) of a wrath that must be satisfied,
 and against which mere actions are nothing, I might repine at the

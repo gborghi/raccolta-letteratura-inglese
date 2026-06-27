@@ -1,5 +1,5 @@
 ---
-title: "The Comedy of Errors — Act V, Scene 1 — monologue (ADRIANA) [4]"
+title: "The [[Comedy]] of Errors — Act V, Scene 1 — monologue ([[Adriana|ADRIANA]]) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/THE-COMEDY-OF-ERRORS-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| ADRIANA | May it please your grace, Antipholus my husband, Who I made lord of me and all I had At your important letters—this ill day A most outrageous fit of madness took him, That desp’rately he hurried through the street, With him his bondman, all as mad as he, Doing displeasure to the citizens By rushing in their houses, bearing thence Rings, jewels, anything his rage did like. Once did I get him bound, and sent him home, Whilst to take order for the wrongs I went That here and there his fury had committed. Anon, I wot not by what strong escape, He broke from those that had the guard of him, And with his mad attendant and himself, Each one with ireful passion, with drawn swords, Met us again, and, madly bent on us, Chased us away; till, raising of more aid, We came again to bind them. Then they fled Into this abbey, whither we pursued them, And here the Abbess shuts the gates on us, And will not suffer us to fetch him out, Nor send him forth that we may bear him hence. Therefore, most gracious Duke, with thy command Let him be brought forth, and borne hence for help. |
+| [[Adriana|ADRIANA]] | May it please your grace, Antipholus my husband, Who I made lord of me and all I had At your important letters—this ill day A most outrageous fit of [[Madness|madness]] took him, That desp’rately he hurried through the street, With him his bondman, all as mad as he, Doing displeasure to the citizens By rushing in their houses, bearing thence Rings, jewels, anything his rage did like. Once did I get him bound, and sent him [[Home|home]], Whilst to take order for the wrongs I went That here and there his fury had committed. Anon, I wot not by what strong escape, He broke from those that had the guard of him, And with his mad attendant and himself, Each one with ireful passion, with drawn swords, Met us again, and, madly bent on us, Chased us away; till, raising of more aid, We came again to bind them. Then they fled Into this abbey, whither we pursued them, And here the Abbess shuts the gates on us, And will not suffer us to fetch him out, Nor send him forth that we may bear him hence. Therefore, most gracious Duke, with thy command Let him be brought forth, and borne hence for help. |

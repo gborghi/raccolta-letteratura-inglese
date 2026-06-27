@@ -18,17 +18,17 @@ CHAPTER XXIV.
 Drawn to the Loadstone Rock
 
 
-In such risings of fire and risings of sea--the firm earth shaken by
+In such risings of [[Fire|fire]] and risings of sea--the firm earth shaken by
 the rushes of an angry ocean which had now no ebb, but was always on the
-flow, higher and higher, to the terror and wonder of the beholders on
+flow, higher and higher, to the terror and [[Wonder|wonder]] of the beholders on
 the shore--three years of tempest were consumed. Three more birthdays
 of little Lucie had been woven by the golden thread into the peaceful
-tissue of the life of her home.
+tissue of the life of her [[Home|home]].
 
-Many a night and many a day had its inmates listened to the echoes in
+Many a [[Night|night]] and many a day had its inmates listened to the echoes in
 the corner, with hearts that failed them when they heard the thronging
 feet. For, the footsteps had become to their minds as the footsteps of
-a people, tumultuous under a red flag and with their country declared in
+a people, tumultuous under a red [[Flag|flag]] and with their country declared in
 danger, changed into wild beasts, by terrible enchantment long persisted
 in.
 
@@ -38,68 +38,68 @@ to incur considerable danger of receiving his dismissal from it, and
 this life together. Like the fabled rustic who raised the Devil with
 infinite pains, and was so terrified at the sight of him that he could
 ask the Enemy no question, but immediately fled; so, Monseigneur, after
-boldly reading the Lord’s Prayer backwards for a great number of years,
+boldly reading the Lord’s [[prayer|Prayer]] backwards for a great number of years,
 and performing many other potent spells for compelling the Evil One, no
 sooner beheld him in his terrors than he took to his noble heels.
 
-The shining Bull’s Eye of the Court was gone, or it would have been the
+The shining Bull’s Eye of the [[Court]] was gone, or it would have been the
 mark for a hurricane of national bullets. It had never been a good
-eye to see with--had long had the mote in it of Lucifer’s pride,
+eye to see with--had long had the mote in it of [[Lucifer]]’s [[Pride|pride]],
 Sardanapalus’s luxury, and a mole’s blindness--but it had dropped
-out and was gone. The Court, from that exclusive inner circle to its
+out and was gone. The [[Court]], from that exclusive inner circle to its
 outermost rotten ring of intrigue, corruption, and dissimulation, was
 all gone together. Royalty was gone; had been besieged in its Palace and
 “suspended,” when the last tidings came over.
 
 The August of the year one thousand seven hundred and ninety-two was
-come, and Monseigneur was by this time scattered far and wide.
+come, and Monseigneur was by this [[Time|time]] scattered far and wide.
 
 As was natural, the head-quarters and great gathering-place of
-Monseigneur, in London, was Tellson’s Bank. Spirits are supposed to
+Monseigneur, in [[London]], was Tellson’s Bank. Spirits are supposed to
 haunt the places where their bodies most resorted, and Monseigneur
 without a guinea haunted the spot where his guineas used to be.
 Moreover, it was the spot to which such French intelligence as was most
 to be relied upon, came quickest. Again: Tellson’s was a munificent
-house, and extended great liberality to old customers who had fallen
+[[house]], and extended great liberality to old customers who had fallen
 from their high estate. Again: those nobles who had seen the coming
-storm in time, and anticipating plunder or confiscation, had made
+[[Storm|storm]] in [[Time|time]], and anticipating plunder or confiscation, had made
 provident remittances to Tellson’s, were always to be heard of there
 by their needy brethren. To which it must be added that every new-comer
 from France reported himself and his tidings at Tellson’s, almost as
 a matter of course. For such variety of reasons, Tellson’s was at that
-time, as to French intelligence, a kind of High Exchange; and this
-was so well known to the public, and the inquiries made there were in
+[[Time|time]], as to French intelligence, a kind of High Exchange; and this
+was so [[Well|well]] known to the public, and the inquiries made there were in
 consequence so numerous, that Tellson’s sometimes wrote the latest news
 out in a line or so and posted it in the Bank windows, for all who ran
 through Temple Bar to read.
 
 On a steaming, misty afternoon, Mr. Lorry sat at his desk, and Charles
 Darnay stood leaning on it, talking with him in a low voice. The
-penitential den once set apart for interviews with the House, was now
+penitential den once set apart for interviews with the [[house|House]], was now
 the news-Exchange, and was filled to overflowing. It was within half an
-hour or so of the time of closing.
+hour or so of the [[Time|time]] of closing.
 
 “But, although you are the youngest man that ever lived,” said Charles
 Darnay, rather hesitating, “I must still suggest to you--”
 
 “I understand. That I am too old?” said Mr. Lorry.
 
-“Unsettled weather, a long journey, uncertain means of travelling, a
-disorganised country, a city that may not be even safe for you.”
+“Unsettled weather, a long [[Journey|journey]], uncertain means of travelling, a
+disorganised country, a [[City|city]] that may not be even safe for you.”
 
 “My dear Charles,” said Mr. Lorry, with cheerful confidence, “you touch
 some of the reasons for my going: not for my staying away. It is safe
 enough for me; nobody will care to interfere with an old fellow of hard
 upon fourscore when there are so many people there much better worth
-interfering with. As to its being a disorganised city, if it were not a
-disorganised city there would be no occasion to send somebody from our
-House here to our House there, who knows the city and the business, of
+interfering with. As to its being a disorganised [[City|city]], if it were not a
+disorganised [[City|city]] there would be no occasion to send somebody from our
+[[house|House]] here to our [[house|House]] there, who knows the [[City|city]] and the business, of
 old, and is in Tellson’s confidence. As to the uncertain travelling, the
-long journey, and the winter weather, if I were not prepared to submit
+long [[Journey|journey]], and the [[Winter|winter]] weather, if I were not prepared to submit
 myself to a few inconveniences for the sake of Tellson’s, after all
 these years, who ought to be?”
 
-“I wish I were going myself,” said Charles Darnay, somewhat restlessly,
+“I wish I were going myself,” said [[Charles Darnay]], somewhat restlessly,
 and like one thinking aloud.
 
 “Indeed! You are a pretty fellow to object and advise!” exclaimed Mr.
@@ -111,27 +111,27 @@ thought (which I did not mean to utter here, however) has passed through
 my mind often. One cannot help thinking, having had some sympathy for
 the miserable people, and having abandoned something to them,” he spoke
 here in his former thoughtful manner, “that one might be listened to,
-and might have the power to persuade to some restraint. Only last night,
+and might have the power to persuade to some restraint. Only last [[Night|night]],
 after you had left us, when I was talking to Lucie--”
 
-“When you were talking to Lucie,” Mr. Lorry repeated. “Yes. I wonder you
+“When you were talking to Lucie,” Mr. Lorry repeated. “Yes. I [[Wonder|wonder]] you
 are not ashamed to mention the name of Lucie! Wishing you were going to
-France at this time of day!”
+France at this [[Time|time]] of day!”
 
-“However, I am not going,” said Charles Darnay, with a smile. “It is
+“However, I am not going,” said [[Charles Darnay]], with a smile. “It is
 more to the purpose that you say you are.”
 
-“And I am, in plain reality. The truth is, my dear Charles,” Mr. Lorry
-glanced at the distant House, and lowered his voice, “you can have no
+“And I am, in plain reality. The [[Truth|truth]] is, my dear Charles,” Mr. Lorry
+glanced at the distant [[house|House]], and lowered his voice, “you can have no
 conception of the difficulty with which our business is transacted, and
 of the peril in which our books and papers over yonder are involved. The
 Lord above knows what the compromising consequences would be to numbers
 of people, if some of our documents were seized or destroyed; and they
-might be, at any time, you know, for who can say that Paris is not set
+might be, at any [[Time|time]], you know, for who can say that [[Paris]] is not set
 afire to-day, or sacked to-morrow! Now, a judicious selection from these
 with the least possible delay, and the burying of them, or otherwise
 getting of them out of harm’s way, is within the power (without loss of
-precious time) of scarcely any one but myself, if any one. And shall
+precious [[Time|time]]) of scarcely any one but myself, if any one. And shall
 I hang back, when Tellson’s knows this and says this--Tellson’s, whose
 bread I have eaten these sixty years--because I am a little stiff about
 the joints? Why, I am a boy, sir, to half a dozen old codgers here!”
@@ -139,25 +139,25 @@ the joints? Why, I am a boy, sir, to half a dozen old codgers here!”
 “How I admire the gallantry of your youthful spirit, Mr. Lorry.”
 
 “Tut! Nonsense, sir!--And, my dear Charles,” said Mr. Lorry, glancing at
-the House again, “you are to remember, that getting things out of
-Paris at this present time, no matter what things, is next to an
+the [[house|House]] again, “you are to remember, that getting things out of
+[[Paris]] at this present [[Time|time]], no matter what things, is next to an
 impossibility. Papers and precious matters were this very day brought
 to us here (I speak in strict confidence; it is not business-like to
 whisper it, even to you), by the strangest bearers you can imagine,
 every one of whom had his head hanging on by a single hair as he passed
-the Barriers. At another time, our parcels would come and go, as easily
+the Barriers. At another [[Time|time]], our parcels would come and go, as easily
 as in business-like Old England; but now, everything is stopped.”
 
-“And do you really go to-night?”
+“And do you really go to-[[Night|night]]?”
 
-“I really go to-night, for the case has become too pressing to admit of
+“I really go to-[[Night|night]], for the case has become too pressing to admit of
 delay.”
 
 “And do you take no one with you?”
 
 “All sorts of people have been proposed to me, but I will have nothing
 to say to any of them. I intend to take Jerry. Jerry has been my
-bodyguard on Sunday nights for a long time past and I am used to him.
+bodyguard on [[Sunday]] nights for a long [[Time|time]] past and I am used to him.
 Nobody will suspect Jerry of being anything but an English bull-dog, or
 of having any design in his head but to fly at anybody who touches his
 master.”
@@ -167,7 +167,7 @@ youthfulness.”
 
 “I must say again, nonsense, nonsense! When I have executed this little
 commission, I shall, perhaps, accept Tellson’s proposal to retire and
-live at my ease. Time enough, then, to think about growing old.”
+live at my ease. [[Time]] enough, then, to think about growing old.”
 
 This dialogue had taken place at Mr. Lorry’s usual desk, with
 Monseigneur swarming within a yard or two of it, boastful of what he
@@ -182,43 +182,43 @@ should have made them prosperous, had not seen it inevitably coming,
 years before, and had not in plain words recorded what they saw. Such
 vapouring, combined with the extravagant plots of Monseigneur for the
 restoration of a state of things that had utterly exhausted itself,
-and worn out Heaven and earth as well as itself, was hard to be endured
-without some remonstrance by any sane man who knew the truth. And it was
-such vapouring all about his ears, like a troublesome confusion of blood
+and worn out Heaven and earth as [[Well|well]] as itself, was hard to be endured
+without some remonstrance by any sane man who knew the [[Truth|truth]]. And it was
+such vapouring all about his ears, like a troublesome confusion of [[Blood|blood]]
 in his own head, added to a latent uneasiness in his mind, which had
-already made Charles Darnay restless, and which still kept him so.
+already made [[Charles Darnay]] restless, and which still kept him so.
 
-Among the talkers, was Stryver, of the King’s Bench Bar, far on his
+Among the talkers, was Stryver, of the [[King]]’s Bench Bar, far on his
 way to state promotion, and, therefore, loud on the theme: broaching
 to Monseigneur, his devices for blowing the people up and exterminating
 them from the face of the earth, and doing without them: and for
-accomplishing many similar objects akin in their nature to the abolition
+accomplishing many similar objects akin in their [[Nature|nature]] to the abolition
 of eagles by sprinkling salt on the tails of the race. Him, Darnay heard
 with a particular feeling of objection; and Darnay stood divided between
 going away that he might hear no more, and remaining to interpose his
 word, when the thing that was to be, went on to shape itself out.
 
-The House approached Mr. Lorry, and laying a soiled and unopened letter
+The [[house|House]] approached Mr. Lorry, and laying a soiled and unopened letter
 before him, asked if he had yet discovered any traces of the person to
-whom it was addressed? The House laid the letter down so close to Darnay
+whom it was addressed? The [[house|House]] laid the letter down so close to Darnay
 that he saw the direction--the more quickly because it was his own right
 name. The address, turned into English, ran:
 
 “Very pressing. To Monsieur heretofore the Marquis St. Evrémonde, of
 France. Confided to the cares of Messrs. Tellson and Co., Bankers,
-London, England.”
+[[London]], England.”
 
-On the marriage morning, Doctor Manette had made it his one urgent and
-express request to Charles Darnay, that the secret of this name should
+On the [[Marriage|marriage]] morning, [[Doctor Manette]] had made it his one urgent and
+express request to [[Charles Darnay]], that the secret of this name should
 be--unless he, the Doctor, dissolved the obligation--kept inviolate
 between them. Nobody else knew it to be his name; his own wife had no
 suspicion of the fact; Mr. Lorry could have none.
 
-“No,” said Mr. Lorry, in reply to the House; “I have referred it,
+“No,” said Mr. Lorry, in reply to the [[house|House]]; “I have referred it,
 I think, to everybody now here, and no one can tell me where this
 gentleman is to be found.”
 
-The hands of the clock verging upon the hour of closing the Bank, there
+The hands of the [[Clock|clock]] verging upon the hour of closing the Bank, there
 was a general set of the current of talkers past Mr. Lorry’s desk. He
 held the letter out inquiringly; and Monseigneur looked at it, in the
 person of this plotting and indignant refugee; and Monseigneur looked at
@@ -231,13 +231,13 @@ polished Marquis who was murdered,” said one. “Happy to say, I never
 knew him.”
 
 “A craven who abandoned his post,” said another--this Monseigneur had
-been got out of Paris, legs uppermost and half suffocated, in a load of
+been got out of [[Paris]], legs uppermost and half suffocated, in a load of
 hay--“some years ago.”
 
 “Infected with the new doctrines,” said a third, eyeing the direction
 through his glass in passing; “set himself in opposition to the last
 Marquis, abandoned the estates when he inherited them, and left them to
-the ruffian herd. They will recompense him now, I hope, as he deserves.”
+the ruffian herd. They will recompense him now, I [[Hope|hope]], as he deserves.”
 
 “Hey?” cried the blatant Stryver. “Did he though? Is that the sort of
 fellow? Let us look at his infamous name. D--n the fellow!”
@@ -261,7 +261,7 @@ hear you putting any such extraordinary questions. Here is a fellow,
 who, infected by the most pestilent and blasphemous code of devilry that
 ever was known, abandoned his property to the vilest scum of the earth
 that ever did murder by wholesale, and you ask me why I am sorry that a
-man who instructs youth knows him? Well, but I’ll answer you. I am sorry
+man who instructs youth knows him? [[Well]], but I’ll answer you. I am sorry
 because I believe there is contamination in such a scoundrel. That’s
 why.”
 
@@ -272,16 +272,16 @@ said: “You may not understand the gentleman.”
 Stryver, “and I’ll do it. If this fellow is a gentleman, I _don’t_
 understand him. You may tell him so, with my compliments. You may also
 tell him, from me, that after abandoning his worldly goods and position
-to this butcherly mob, I wonder he is not at the head of them. But, no,
+to this butcherly mob, I [[Wonder|wonder]] he is not at the head of them. But, no,
 gentlemen,” said Stryver, looking all round, and snapping his fingers,
-“I know something of human nature, and I tell you that you’ll never
+“I know something of human [[Nature|nature]], and I tell you that you’ll never
 find a fellow like this fellow, trusting himself to the mercies of such
 precious _protégés_. No, gentlemen; he’ll always show ’em a clean pair
 of heels very early in the scuffle, and sneak away.”
 
 With those words, and a final snap of his fingers, Mr. Stryver
 shouldered himself into Fleet-street, amidst the general approbation of
-his hearers. Mr. Lorry and Charles Darnay were left alone at the desk,
+his hearers. Mr. Lorry and [[Charles Darnay]] were left [[Alone|alone]] at the desk,
 in the general departure from the Bank.
 
 “Will you take charge of the letter?” said Mr. Lorry. “You know where to
@@ -291,9 +291,9 @@ deliver it?”
 
 “Will you undertake to explain, that we suppose it to have been
 addressed here, on the chance of our knowing where to forward it, and
-that it has been here some time?”
+that it has been here some [[Time|time]]?”
 
-“I will do so. Do you start for Paris from here?”
+“I will do so. Do you start for [[Paris]] from here?”
 
 “From here, at eight.”
 
@@ -304,14 +304,14 @@ Darnay made the best of his way into the quiet of the Temple, opened the
 letter, and read it. These were its contents:
 
 
-“Prison of the Abbaye, Paris.
+“[[Prison]] of the Abbaye, [[Paris]].
 
 “June 21, 1792. “MONSIEUR HERETOFORE THE MARQUIS.
 
 “After having long been in danger of my life at the hands of the
 village, I have been seized, with great violence and indignity, and
-brought a long journey on foot to Paris. On the road I have suffered a
-great deal. Nor is that all; my house has been destroyed--razed to the
+brought a long [[Journey|journey]] on foot to [[Paris]]. On the [[Road|road]] I have suffered a
+great deal. Nor is that all; my [[house]] has been destroyed--razed to the
 ground.
 
 “The crime for which I am imprisoned, Monsieur heretofore the Marquis,
@@ -326,17 +326,17 @@ had recourse to no process. The only response is, that I have acted for
 an emigrant, and where is that emigrant?
 
 “Ah! most gracious Monsieur heretofore the Marquis, where is that
-emigrant? I cry in my sleep where is he? I demand of Heaven, will he
+emigrant? I cry in my [[Sleep|sleep]] where is he? I demand of Heaven, will he
 not come to deliver me? No answer. Ah Monsieur heretofore the Marquis,
 I send my desolate cry across the sea, hoping it may perhaps reach your
-ears through the great bank of Tilson known at Paris!
+ears through the great bank of Tilson known at [[Paris]]!
 
-“For the love of Heaven, of justice, of generosity, of the honour of
+“For the [[Love|love]] of Heaven, of justice, of generosity, of the [[Honour|honour]] of
 your noble name, I supplicate you, Monsieur heretofore the Marquis, to
 succour and release me. My fault is, that I have been true to you. Oh
 Monsieur heretofore the Marquis, I pray you be you true to me!
 
-“From this prison here of horror, whence I every hour tend nearer and
+“From this [[Prison|prison]] here of horror, whence I every hour tend nearer and
 nearer to destruction, I send you, Monsieur heretofore the Marquis, the
 assurance of my dolorous and unhappy service.
 
@@ -351,28 +351,28 @@ only crime was fidelity to himself and his family, stared him so
 reproachfully in the face, that, as he walked to and fro in the Temple
 considering what to do, he almost hid his face from the passersby.
 
-He knew very well, that in his horror of the deed which had culminated
-the bad deeds and bad reputation of the old family house, in his
+He knew very [[Well|well]], that in his horror of the deed which had culminated
+the bad deeds and bad reputation of the old family [[house]], in his
 resentful suspicions of his uncle, and in the aversion with which his
-conscience regarded the crumbling fabric that he was supposed to uphold,
-he had acted imperfectly. He knew very well, that in his love for Lucie,
-his renunciation of his social place, though by no means new to his own
+[[Conscience|conscience]] regarded the crumbling fabric that he was supposed to uphold,
+he had acted imperfectly. He knew very [[Well|well]], that in his [[Love|love]] for Lucie,
+his [[Renunciation|renunciation]] of his social place, though by no means new to his own
 mind, had been hurried and incomplete. He knew that he ought to have
 systematically worked it out and supervised it, and that he had meant to
 do it, and that it had never been done.
 
-The happiness of his own chosen English home, the necessity of being
-always actively employed, the swift changes and troubles of the time
+The happiness of his own chosen English [[Home|home]], the necessity of being
+always actively employed, the swift changes and troubles of the [[Time|time]]
 which had followed on one another so fast, that the events of this week
 annihilated the immature plans of last week, and the events of the week
-following made all new again; he knew very well, that to the force of
+following made all new again; he knew very [[Well|well]], that to the force of
 these circumstances he had yielded:--not without disquiet, but still
 without continuous and accumulating resistance. That he had watched
-the times for a time of action, and that they had shifted and struggled
-until the time had gone by, and the nobility were trooping from
+the times for a [[Time|time]] of action, and that they had shifted and struggled
+until the [[Time|time]] had gone by, and the nobility were trooping from
 France by every highway and byway, and their property was in course of
 confiscation and destruction, and their very names were blotting out,
-was as well known to himself as it could be to any new authority in
+was as [[Well|well]] known to himself as it could be to any new authority in
 France that might impeach him for it.
 
 But, he had oppressed no man, he had imprisoned no man; he was so
@@ -382,12 +382,12 @@ favour in it, won his own private place there, and earned his own
 bread. Monsieur Gabelle had held the impoverished and involved estate
 on written instructions, to spare the people, to give them what little
 there was to give--such fuel as the heavy creditors would let them have
-in the winter, and such produce as could be saved from the same grip in
-the summer--and no doubt he had put the fact in plea and proof, for his
+in the [[Winter|winter]], and such produce as could be saved from the same grip in
+the [[Summer|summer]]--and no [[Doubt|doubt]] he had put the fact in plea and proof, for his
 own safety, so that it could not but appear now.
 
-This favoured the desperate resolution Charles Darnay had begun to make,
-that he would go to Paris.
+This favoured the desperate resolution [[Charles Darnay]] had begun to make,
+that he would go to [[Paris]].
 
 Yes. Like the mariner in the old story, the winds and streams had driven
 him within the influence of the Loadstone Rock, and it was drawing him
@@ -396,17 +396,17 @@ him on, faster and faster, more and more steadily, to the terrible
 attraction. His latent uneasiness had been, that bad aims were being
 worked out in his own unhappy land by bad instruments, and that he who
 could not fail to know that he was better than they, was not there,
-trying to do something to stay bloodshed, and assert the claims of mercy
+trying to do something to stay bloodshed, and assert the claims of [[Mercy|mercy]]
 and humanity. With this uneasiness half stifled, and half reproaching
 him, he had been brought to the pointed comparison of himself with the
 brave old gentleman in whom duty was so strong; upon that comparison
 (injurious to himself) had instantly followed the sneers of Monseigneur,
 which had stung him bitterly, and those of Stryver, which above all were
 coarse and galling, for old reasons. Upon those, had followed Gabelle’s
-letter: the appeal of an innocent prisoner, in danger of death, to his
-justice, honour, and good name.
+letter: the appeal of an [[Innocent|innocent]] prisoner, in danger of [[Death|death]], to his
+justice, [[Honour|honour]], and good name.
 
-His resolution was made. He must go to Paris.
+His resolution was made. He must go to [[Paris]].
 
 Yes. The Loadstone Rock was drawing him, and he must sail on, until he
 struck. He knew of no rock; he saw hardly any danger. The intention
@@ -420,24 +420,24 @@ Revolution that was running so fearfully wild.
 
 As he walked to and fro with his resolution made, he considered that
 neither Lucie nor her father must know of it until he was gone.
-Lucie should be spared the pain of separation; and her father, always
+Lucie should be spared the [[Pain|pain]] of separation; and her father, always
 reluctant to turn his thoughts towards the dangerous ground of old,
 should come to the knowledge of the step, as a step taken, and not in
-the balance of suspense and doubt. How much of the incompleteness of his
+the balance of suspense and [[Doubt|doubt]]. How much of the incompleteness of his
 situation was referable to her father, through the painful anxiety
 to avoid reviving old associations of France in his mind, he did not
 discuss with himself. But, that circumstance too, had had its influence
 in his course.
 
-He walked to and fro, with thoughts very busy, until it was time to
+He walked to and fro, with thoughts very busy, until it was [[Time|time]] to
 return to Tellson’s and take leave of Mr. Lorry. As soon as he arrived
-in Paris he would present himself to this old friend, but he must say
+in [[Paris]] he would present himself to this old friend, but he must say
 nothing of his intention now.
 
 A carriage with post-horses was ready at the Bank door, and Jerry was
 booted and equipped.
 
-“I have delivered that letter,” said Charles Darnay to Mr. Lorry. “I
+“I have delivered that letter,” said [[Charles Darnay]] to Mr. Lorry. “I
 would not consent to your being charged with any written answer, but
 perhaps you will take a verbal one?”
 
@@ -450,13 +450,13 @@ hand.
 
 “Gabelle.”
 
-“Gabelle. And what is the message to the unfortunate Gabelle in prison?”
+“Gabelle. And what is the message to the unfortunate Gabelle in [[Prison|prison]]?”
 
 “Simply, ‘that he has received the letter, and will come.’”
 
-“Any time mentioned?”
+“Any [[Time|time]] mentioned?”
 
-“He will start upon his journey to-morrow night.”
+“He will start upon his [[Journey|journey]] to-morrow [[Night|night]].”
 
 “Any person mentioned?”
 
@@ -464,23 +464,23 @@ hand.
 
 He helped Mr. Lorry to wrap himself in a number of coats and cloaks,
 and went out with him from the warm atmosphere of the old Bank, into the
-misty air of Fleet-street. “My love to Lucie, and to little Lucie,” said
+misty air of Fleet-street. “My [[Love|love]] to Lucie, and to little Lucie,” said
 Mr. Lorry at parting, “and take precious care of them till I come back.”
- Charles Darnay shook his head and doubtfully smiled, as the carriage
+ [[Charles Darnay]] shook his head and doubtfully smiled, as the carriage
 rolled away.
 
-That night--it was the fourteenth of August--he sat up late, and wrote
+That [[Night|night]]--it was the fourteenth of August--he sat up late, and wrote
 two fervent letters; one was to Lucie, explaining the strong obligation
-he was under to go to Paris, and showing her, at length, the reasons
+he was under to go to [[Paris]], and showing her, at length, the reasons
 that he had, for feeling confident that he could become involved in no
 personal danger there; the other was to the Doctor, confiding Lucie and
-their dear child to his care, and dwelling on the same topics with the
+their dear [[Child|child]] to his care, and dwelling on the same topics with the
 strongest assurances. To both, he wrote that he would despatch letters
 in proof of his safety, immediately after his arrival.
 
 It was a hard day, that day of being among them, with the first
 reservation of their joint lives on his mind. It was a hard matter to
-preserve the innocent deceit of which they were profoundly unsuspicious.
+preserve the [[Innocent|innocent]] deceit of which they were profoundly unsuspicious.
 But, an affectionate glance at his wife, so happy and busy, made him
 resolute not to tell her what impended (he had been half moved to do it,
 so strange it was to him to act in anything without her quiet aid), and
@@ -493,8 +493,8 @@ streets, with a heavier heart.
 The unseen force was drawing him fast to itself, now, and all the tides
 and winds were setting straight and strong towards it. He left his
 two letters with a trusty porter, to be delivered half an hour before
-midnight, and no sooner; took horse for Dover; and began his journey.
-“For the love of Heaven, of justice, of generosity, of the honour of
+midnight, and no sooner; took [[Horse|horse]] for Dover; and began his [[Journey|journey]].
+“For the [[Love|love]] of Heaven, of justice, of generosity, of the [[Honour|honour]] of
 your noble name!” was the poor prisoner’s cry with which he strengthened
 his sinking heart, as he left all that was dear on earth behind him, and
 floated away for the Loadstone Rock.

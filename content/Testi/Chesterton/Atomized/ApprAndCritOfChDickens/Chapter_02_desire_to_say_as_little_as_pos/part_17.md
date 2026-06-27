@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 1: desire to say as little as possible; I will discuss any other (part 17)"
+title: "[[ApprAndCritOfChDickens]] — Book 1: [[Desire|desire]] to say as little as possible; I will discuss any other (part 17)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -20,7 +20,7 @@ other things the old-world belief in beggars. They sought among other
 
 things to clear away the old visionary kindliness on the subject of
 
-vagrants. Hence those reformers enacted not only a new reform bill but
+vagrants. Hence those reformers enacted not only a new [[Reform|reform]] bill but
 
 also a new poor law. In creating many other modern things they created
 
@@ -32,7 +32,7 @@ first thing that he broke with his battle-axe.
 
 This is where Dickens's social revolt is of more value than mere
 
-politics and avoids the vulgarity of the novel with a purpose. His
+politics and avoids the vulgarity of the [[Novel|novel]] with a purpose. His
 
 revolt is not a revolt of the commercialist against the feudalist, of
 
@@ -56,9 +56,9 @@ face is, indeed, the only thing in the world that we have really to
 
 fight between here and the fires of Hell. That which pedants of that
 
-time and this time would have called the sentimentalism of Dickens was
+[[Time|time]] and this [[Time|time]] would have called the sentimentalism of Dickens was
 
-really simply the detached sanity of Dickens. He cared nothing for the
+really simply the detached [[Sanity|sanity]] of Dickens. He cared nothing for the
 
 fugitive explanations of the Constitutional Conservatives; he cared
 
@@ -72,9 +72,9 @@ forms there was one fact, the tyranny of man over man; and he struck at
 
 it when he saw it, whether it was old or new. When he found that footmen
 
-and rustics were too much afraid of Sir Leicester Dedlock, he attacked
+and rustics were too much afraid of [[Sir Leicester Dedlock]], he attacked
 
-Sir Leicester Dedlock; he did not care whether Sir Leicester Dedlock
+[[Sir Leicester Dedlock]]; he did not care whether [[Sir Leicester Dedlock]]
 
 said he was attacking England or whether Mr. Rouncewell, the
 
@@ -82,7 +82,7 @@ Ironmaster, said he was attacking an effete oligarchy. In that case he
 
 pleased Mr. Rouncewell, the Iron-master, and displeased Sir Leicester
 
-Dedlock, the Aristocrat. But when he found that Mr. Rouncewell's workmen
+Dedlock, the [[aristocrat|Aristocrat]]. But when he found that Mr. Rouncewell's workmen
 
 were much too frightened of Mr. Rouncewell, then he displeased Mr.
 
@@ -92,7 +92,7 @@ him Mr. Bounderby. When he imagined himself to be fighting old laws he
 
 gave a sort of vague and general approval to new laws. But when he came
 
-to the new laws they had a bad time. When Dickens found that after a
+to the new laws they had a bad [[Time|time]]. When Dickens found that after a
 
 hundred economic arguments and granting a hundred economic
 
@@ -106,31 +106,31 @@ This is what makes the opening chapters of _Oliver Twist_ so curious and
 
 important. The very fact of Dickens's distance from, and independence
 
-of, the elaborate financial arguments of his time, makes more definite
+of, the elaborate financial arguments of his [[Time|time]], makes more definite
 
 and dazzling his sudden assertion that he sees the old human tyranny in
 
-front of him as plain as the sun at noon-day. Dickens attacks the modern
+front of him as plain as the sun at [[Noon|noon]]-day. Dickens attacks the modern
 
 workhouse with a sort of inspired simplicity as of a boy in a fairy tale
 
-who had wandered about, sword in hand, looking for ogres and who had
+who had wandered about, [[Sword|sword]] in hand, looking for ogres and who had
 
-found an indisputable ogre. All the other people of his time are
+found an indisputable ogre. All the other people of his [[Time|time]] are
 
 attacking things because they are bad economics or because they are bad
 
-politics, or because they are bad science; he alone is attacking things
+politics, or because they are bad science; he [[Alone|alone]] is attacking things
 
 because they are bad. All the others are Radicals with a large R; he
 
-alone is radical with a small one. He encounters evil with that
+[[Alone|alone]] is radical with a small one. He encounters evil with that
 
 beautiful surprise which, as it is the beginning of all real pleasure,
 
 is also the beginning of all righteous indignation. He enters the
 
-workhouse just as Oliver Twist enters it, as a little child.
+workhouse just as [[Oliver Twist]] enters it, as a little [[Child|child]].
 
 
 
@@ -138,9 +138,9 @@ This is the real power and pathos of that celebrated passage in the book
 
 which has passed into a proverb; but which has not lost its terrible
 
-humour even in being hackneyed. I mean, of course, the everlasting
+[[Humour|humour]] even in being hackneyed. I mean, of course, the everlasting
 
-quotation about Oliver Twist asking for more. The real poignancy that
+quotation about [[Oliver Twist]] asking for more. The real poignancy that
 
 there is in this idea is a very good study in that strong school of
 
@@ -152,23 +152,23 @@ not daring to speak at all, not expecting anything, not hoping anything,
 
 past all possibility of affording even an ironical contrast or a protest
 
-of despair. A modern, in short, would have made all the boys in the
+of [[Despair|despair]]. A modern, in short, would have made all the boys in the
 
-workhouse pathetic by making them all pessimists. But Oliver Twist is
+workhouse pathetic by making them all pessimists. But [[Oliver Twist]] is
 
-not pathetic because he is a pessimist. Oliver Twist is pathetic because
+not pathetic because he is a pessimist. [[Oliver Twist]] is pathetic because
 
-he is an optimist. The whole tragedy of that incident is in the fact
+he is an optimist. The whole [[Tragedy|tragedy]] of that incident is in the fact
 
 that he does expect the universe to be kind to him, that he does believe
 
 that he is living in a just world. He comes before the Guardians as the
 
-ragged peasants of the French Revolution came before the Kings and
+ragged peasants of the [[French Revolution]] came before the Kings and
 
 Parliaments of Europe. That is to say, he comes, indeed, with gloomy
 
-experiences, but he comes with a happy philosophy. He knows that there
+experiences, but he comes with a happy [[philosophy]]. He knows that there
 
 are wrongs of man to be reviled; but he believes also that there are
 
@@ -180,12 +180,12 @@ of all the desperate men who have dragged down tyranny, were, as a
 
 matter of fact, by no means worse off than the poor of many other
 
-European countries before the Revolution. The truth is that the French
+European countries before the Revolution. The [[Truth|truth]] is that the French
 
 were tragic because they were better off. The others had known the
 
-sorrowful experiences; but they alone had known the splendid expectation
+sorrowful experiences; but they [[Alone|alone]] had known the splendid expectation
 
 and the original claims. It was just here that Dickens was so true a
 
-child of them and of that happy theory so bitterly applied. They were
+[[Child|child]] of them and of that happy theory so bitterly applied. They were

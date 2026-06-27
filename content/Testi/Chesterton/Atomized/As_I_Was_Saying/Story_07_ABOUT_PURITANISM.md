@@ -1,5 +1,5 @@
 ---
-title: "As I Was Saying — ABOUT PURITANISM"
+title: "As I Was Saying — ABOUT [[Puritanism|PURITANISM]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/As-I-Was-Saying-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-    VII  ABOUT PURITANISM
+    VII  ABOUT [[Puritanism|PURITANISM]]

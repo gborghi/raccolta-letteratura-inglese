@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 34"
+title: "[[Pride and Prejudice]] — Chapter 34"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -22,8 +22,8 @@ CHAPTER XXXIV.
 When they were gone, Elizabeth, as if intending to exasperate herself as
 much as possible against Mr. Darcy, chose for her employment the
 examination of all the letters which Jane had written to her since her
-being in Kent. They contained no actual complaint, nor was there any
-revival of past occurrences, or any communication of present suffering.
+being in [[Kent]]. They contained no actual complaint, nor was there any
+revival of past occurrences, or any communication of present [[Suffering|suffering]].
 But in all, and in almost every line of each, there was a want of that
 cheerfulness which had been used to characterize her style, and which,
 proceeding from the serenity of a mind at ease with itself, and kindly
@@ -37,7 +37,7 @@ and a still greater that in less than a fortnight she should herself be
 with Jane again, and enabled to contribute to the recovery of her
 spirits, by all that affection could do.
 
-She could not think of Darcy’s leaving Kent without remembering that his
+She could not think of Darcy’s leaving [[Kent]] without remembering that his
 cousin was to go with him; but Colonel Fitzwilliam had made it clear
 that he had no intentions at all, and, agreeable as he was, she did not
 mean to be unhappy about him.
@@ -52,19 +52,19 @@ room. In a hurried manner he immediately began an inquiry after her
 health, imputing his visit to a wish of hearing that she were better.
 She answered him with cold civility. He sat down for a few moments, and
 then getting up walked about the room. Elizabeth was surprised, but
-said not a word. After a silence of several minutes, he came towards her
+said not a word. After a [[Silence|silence]] of several minutes, he came towards her
 in an agitated manner, and thus began:--
 
 “In vain have I struggled. It will not do. My feelings will not be
-repressed. You must allow me to tell you how ardently I admire and love
+repressed. You must allow me to tell you how ardently I admire and [[Love|love]]
 you.”
 
 Elizabeth’s astonishment was beyond expression. She stared, coloured,
 doubted, and was silent. This he considered sufficient encouragement,
 and the avowal of all that he felt and had long felt for her immediately
-followed. He spoke well; but there were feelings besides those of the
+followed. He spoke [[Well|well]]; but there were feelings besides those of the
 heart to be detailed, and he was not more eloquent on the subject of
-tenderness than of pride. His sense of her inferiority, of its being a
+tenderness than of [[Pride|pride]]. His sense of her inferiority, of its being a
 degradation, of the family obstacles which judgment had always opposed
 to inclination, were dwelt on with a warmth which seemed due to the
 consequence he was wounding, but was very unlikely to recommend his
@@ -72,17 +72,17 @@ suit.
 
 In spite of her deeply-rooted dislike, she could not be insensible to
 the compliment of such a man’s affection, and though her intentions did
-not vary for an instant, she was at first sorry for the pain he was to
+not vary for an instant, she was at first sorry for the [[Pain|pain]] he was to
 receive; till roused to resentment by his subsequent language, she lost
 all compassion in anger. She tried, however, to compose herself to
 answer him with patience, when he should have done. He concluded with
 representing to her the strength of that attachment which in spite of
 all his endeavours he had found impossible to conquer; and with
-expressing his hope that it would now be rewarded by her acceptance of
-his hand. As he said this she could easily see that he had no doubt of a
+expressing his [[Hope|hope]] that it would now be rewarded by her acceptance of
+his hand. As he said this she could easily see that he had no [[Doubt|doubt]] of a
 favourable answer. He _spoke_ of apprehension and anxiety, but his
 countenance expressed real security. Such a circumstance could only
-exasperate farther; and when he ceased the colour rose into her cheeks
+exasperate farther; and when he ceased the colour [[Rose|rose]] into her cheeks
 and she said,--
 
 “In such cases as this, it is, I believe, the established mode to
@@ -90,8 +90,8 @@ express a sense of obligation for the sentiments avowed, however
 unequally they may be returned. It is natural that obligation should be
 felt, and if I could _feel_ gratitude, I would now thank you. But I
 cannot--I have never desired your good opinion, and you have certainly
-bestowed it most unwillingly. I am sorry to have occasioned pain to
-anyone. It has been most unconsciously done, however, and I hope will be
+bestowed it most unwillingly. I am sorry to have occasioned [[Pain|pain]] to
+anyone. It has been most unconsciously done, however, and I [[Hope|hope]] will be
 of short duration. The feelings which you tell me have long prevented
 the acknowledgment of your regard can have little difficulty in
 overcoming it after this explanation.”
@@ -104,11 +104,11 @@ appearance of composure, and would not open his lips till he believed
 himself to have attained it. The pause was to Elizabeth’s feelings
 dreadful. At length, in a voice of forced calmness, he said,--
 
-“And this is all the reply which I am to have the honour of expecting! I
+“And this is all the reply which I am to have the [[Honour|honour]] of expecting! I
 might, perhaps, wish to be informed why, with so little _endeavour_ at
 civility, I am thus rejected. But it is of small importance.”
 
-“I might as well inquire,” replied she, “why, with so evident a design
+“I might as [[Well|well]] inquire,” replied she, “why, with so evident a design
 of offending and insulting me, you chose to tell me that you liked me
 against your will, against your reason, and even against your character?
 Was not this some excuse for incivility, if I _was_ uncivil? But I have
@@ -132,13 +132,13 @@ kind.”
 
 She paused, and saw with no slight indignation that he was listening
 with an air which proved him wholly unmoved by any feeling of remorse.
-He even looked at her with a smile of affected incredulity.
+He even looked at her with a smile of affected [[Incredulity|incredulity]].
 
 “Can you deny that you have done it?” she repeated.
 
 With assumed tranquillity he then replied, “I have no wish of denying
 that I did everything in my power to separate my friend from your
-sister, or that I rejoice in my success. Towards _him_ I have been
+sister, or that I rejoice in my [[success]]. Towards _him_ I have been
 kinder than towards myself.”
 
 Elizabeth disdained the appearance of noticing this civil reflection,
@@ -148,7 +148,7 @@ but its meaning did not escape, nor was it likely to conciliate her.
 is founded. Long before it had taken place, my opinion of you was
 decided. Your character was unfolded in the recital which I received
 many months ago from Mr. Wickham. On this subject, what can you have to
-say? In what imaginary act of friendship can you here defend yourself?
+say? In what imaginary act of [[Friendship|friendship]] can you here defend yourself?
 or under what misrepresentation can you here impose upon others?”
 
 “You take an eager interest in that gentleman’s concerns,” said Darcy,
@@ -161,10 +161,10 @@ interest in him?”
 misfortunes have been great indeed.”
 
 “And of your infliction,” cried Elizabeth, with energy; “You have
-reduced him to his present state of poverty--comparative poverty. You
+reduced him to his present state of [[Poverty|poverty]]--comparative [[Poverty|poverty]]. You
 have withheld the advantages which you must know to have been designed
 for him. You have deprived the best years of his life of that
-independence which was no less his due than his desert. You have done
+independence which was no less his due than his [[Desert|desert]]. You have done
 all this! and yet you can treat the mention of his misfortunes with
 contempt and ridicule.”
 
@@ -173,7 +173,7 @@ contempt and ridicule.”
 thank you for explaining it so fully. My faults, according to this
 calculation, are heavy indeed! But, perhaps,” added he, stopping in his
 walk, and turning towards her, “these offences might have been
-overlooked, had not your pride been hurt by my honest confession of the
+overlooked, had not your [[Pride|pride]] been hurt by my honest confession of the
 scruples that had long prevented my forming any serious design. These
 bitter accusations might have been suppressed, had I, with greater
 policy, concealed my struggles, and flattered you into the belief of my
@@ -181,7 +181,7 @@ being impelled by unqualified, unalloyed inclination; by reason, by
 reflection, by everything. But disguise of every sort is my abhorrence.
 Nor am I ashamed of the feelings I related. They were natural and just.
 Could you expect me to rejoice in the inferiority of your
-connections?--to congratulate myself on the hope of relations whose
+connections?--to congratulate myself on the [[Hope|hope]] of relations whose
 condition in life is so decidedly beneath my own?”
 
 Elizabeth felt herself growing more angry every moment; yet she tried to
@@ -198,7 +198,7 @@ She saw him start at this; but he said nothing, and she continued,--
 that would have tempted me to accept it.”
 
 Again his astonishment was obvious; and he looked at her with an
-expression of mingled incredulity and mortification. She went on,--
+expression of mingled [[Incredulity|incredulity]] and mortification. She went on,--
 
 “From the very beginning, from the first moment, I may almost say, of my
 acquaintance with you, your manners impressing me with the fullest
@@ -210,21 +210,21 @@ last man in the world whom I could ever be prevailed on to marry.”
 
 “You have said quite enough, madam. I perfectly comprehend your
 feelings, and have now only to be ashamed of what my own have been.
-Forgive me for having taken up so much of your time, and accept my best
+Forgive me for having taken up so much of your [[Time|time]], and accept my best
 wishes for your health and happiness.”
 
 And with these words he hastily left the room, and Elizabeth heard him
-the next moment open the front door and quit the house. The tumult of
+the next moment open the front door and quit the [[house]]. The tumult of
 her mind was now painfully great. She knew not how to support herself,
 and, from actual weakness, sat down and cried for half an hour. Her
 astonishment, as she reflected on what had passed, was increased by
-every review of it. That she should receive an offer of marriage from
-Mr. Darcy! that he should have been in love with her for so many months!
-so much in love as to wish to marry her in spite of all the objections
+every review of it. That she should receive an offer of [[Marriage|marriage]] from
+Mr. Darcy! that he should have been in [[Love|love]] with her for so many months!
+so much in [[Love|love]] as to wish to marry her in spite of all the objections
 which had made him prevent his friend’s marrying her sister, and which
 must appear at least with equal force in his own case, was almost
 incredible! it was gratifying to have inspired unconsciously so strong
-an affection. But his pride, his abominable pride, his shameless avowal
+an affection. But his [[Pride|pride]], his abominable [[Pride|pride]], his shameless avowal
 of what he had done with respect to Jane, his unpardonable assurance in
 acknowledging, though he could not justify it, and the unfeeling manner
 which he had mentioned Mr. Wickham, his cruelty towards whom he had not

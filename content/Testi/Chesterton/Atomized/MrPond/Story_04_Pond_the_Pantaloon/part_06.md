@@ -1,5 +1,5 @@
 ---
-title: "MrPond — Pond the Pantaloon (part 6)"
+title: "[[MrPond]] — Pond the Pantaloon (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -38,13 +38,13 @@ to do with the story."
 
 
 
-But Sir Hubert Wotton was having no more for the moment of Mr.
+But Sir [[Hubert]] Wotton was having no more for the moment of Mr.
 
 Pond's fanciful mysteries; least of all, of the last and most
 
 mysterious, the mystery of his mirth.  He had already begun to
 
-cross-examine the stranger in the style of the police; and the
+[[Cross|cross]]-examine the stranger in the style of the police; and the
 
 stranger stood up to him with gloomy but unshaken lucidity.  His
 
@@ -64,7 +64,7 @@ he been cheered by the assurance of the police at the entrance that
 
 regular trains for passengers would be running again in an hour, at
 
-a time that would make him too late for his appointment; and lose
+a [[Time|time]] that would make him too late for his appointment; and lose
 
 him the first few shillings he had earned in many months.  He had
 
@@ -88,7 +88,7 @@ was still smouldering with some suspicions.
 
 "I haven't got my visiting-card," said the sombre Mr. Hankin.  "I
 
-lost it along with my Rolls-Royce and my little castle in Scotland.
+lost it along with my Rolls-Royce and my little [[Castle|castle]] in Scotland.
 
 But you can see me in my resplendent and fashionable evening-dress,
 
@@ -120,11 +120,11 @@ pantomime, such as they had been discussing.
 
 the awestruck Mr. Pond.  "But I feel as if he had fallen out of the
 
-sky like the snow.  Fate or the fairies have added this final
+sky like the [[Snow|snow]].  Fate or the fairies have added this final
 
 touch; see how they built up gradually round us the whole palace of
 
-pantomime in this wilderness; first the firelight and then the snow
+pantomime in this wilderness; first the firelight and then the [[Snow|snow]]
 
 and now the only original 'Here We Are Again!'  Such a cosy happy
 
@@ -150,7 +150,7 @@ to complete your costume, Sir."
 
 He suddenly plucked out the poker, from where it was standing in
 
-the fire, and it emerged already red-hot.  He handed it politely to
+the [[Fire|fire]], and it emerged already red-hot.  He handed it politely to
 
 the Clown.
 
@@ -166,11 +166,11 @@ you make the Policeman jump."
 
 Wotton stared at a scene to which he had now entirely lost the
 
-clue; and in the silence that followed, the long platform outside
+clue; and in the [[Silence|silence]] that followed, the long platform outside
 
 resounded with a firm and heavy stride coming nearer and nearer.
 
-The large figure of Dyer the detective appeared framed in the
+The large figure of Dyer the [[Detective|detective]] appeared framed in the
 
 doorway; and he stood as if turned to stone by what he saw.
 
@@ -196,9 +196,9 @@ astonished.  He was staring only at the poker; and he obviously saw
 
 nothing funny about it.  His face was distorted by almost demoniac
 
-fear and fury; and he looked at the red pantomime poker rather as
+[[Fear|fear]] and fury; and he looked at the red pantomime poker rather as
 
-if it had been the flaming sword of an accusing angel.
+if it had been the flaming [[Sword|sword]] of an accusing angel.
 
 
 
@@ -224,18 +224,18 @@ were struggling with the would-be assassin, and forcing his hand
 
 away.  Finally, he managed to wrench his hand loose again and twist
 
-the pistol inwards upon himself; the body of the big man stiffened
+the [[Pistol|pistol]] inwards upon himself; the [[Body|body]] of the big man stiffened
 
-in their arms; and Dyer of the detective service lay dead on the
+in their arms; and Dyer of the [[Detective|detective]] service lay dead on the
 
-floor before the dancing fire.
-
-
+floor before the dancing [[Fire|fire]].
 
 
 
 
 
-The explanation of events was given by Mr. Pond some time later;
 
-for his first action after the catastrophe left no time for
+
+The explanation of events was given by Mr. Pond some [[Time|time]] later;
+
+for his first action after the catastrophe left no [[Time|time]] for

@@ -21,28 +21,28 @@ with her pocket handkerchief, lest, by its very low temperature, it
 should disagreeably astonish the baby when she came to kiss it.
 
 The baby soon appeared, carried in great glory by Richards; while
-Florence, in custody of that active young constable, Susan Nipper,
+Florence, in custody of that active young constable, [[Susan Nipper]],
 brought up the rear. Though the whole nursery party were dressed by
-this time in lighter mourning than at first, there was enough in the
+this [[Time|time]] in lighter mourning than at first, there was enough in the
 appearance of the bereaved children to make the day no brighter. The
 baby too—it might have been Miss Tox’s nose—began to cry. Thereby, as
 it happened, preventing Mr Chick from the awkward fulfilment of a very
 honest purpose he had; which was, to make much of Florence. For this
 gentleman, insensible to the superior claims of a perfect Dombey
-(perhaps on account of having the honour to be united to a Dombey
+(perhaps on account of having the [[Honour|honour]] to be united to a Dombey
 himself, and being familiar with excellence), really liked her, and
 showed that he liked her, and was about to show it in his own way now,
 when Paul cried, and his helpmate stopped him short—
 
-“Now Florence, child!” said her aunt, briskly, “what are you doing,
-love? Show yourself to him. Engage his attention, my dear!”
+“Now Florence, [[Child|child]]!” said her aunt, briskly, “what are you doing,
+[[Love|love]]? Show yourself to him. Engage his attention, my dear!”
 
 The atmosphere became or might have become colder and colder, when Mr
 Dombey stood frigidly watching his little daughter, who, clapping her
 hands, and standing on tip-toe before the throne of his son and heir,
 lured him to bend down from his high estate, and look at her. Some
 honest act of Richards’s may have aided the effect, but he did look
-down, and held his peace. As his sister hid behind her nurse, he
+down, and held his peace. As his sister hid behind her [[Nurse|nurse]], he
 followed her with his eyes; and when she peeped out with a merry cry to
 him, he sprang up and crowed lustily—laughing outright when she ran in
 upon him; and seeming to fondle her curls with his tiny hands, while
@@ -55,21 +55,21 @@ children at their play, it never reached his face. He looked on so
 fixedly and coldly, that the warm light vanished even from the laughing
 eyes of little Florence, when, at last, they happened to meet his.
 
-It was a dull, grey, autumn day indeed, and in a minute’s pause and
-silence that took place, the leaves fell sorrowfully.
+It was a dull, grey, [[Autumn|autumn]] day indeed, and in a minute’s pause and
+[[Silence|silence]] that took place, the [[Leaves|leaves]] fell sorrowfully.
 
 “Mr John,” said Mr Dombey, referring to his watch, and assuming his hat
 and gloves. “Take my sister, if you please: my arm today is Miss Tox’s.
 You had better go first with Master Paul, Richards. Be very careful.”
 
 In Mr Dombey’s carriage, Dombey and Son, Miss Tox, Mrs Chick, Richards,
-and Florence. In a little carriage following it, Susan Nipper and the
-owner Mr Chick. Susan looking out of window, without intermission, as a
+and Florence. In a little carriage following it, [[Susan Nipper]] and the
+owner Mr Chick. Susan looking out of [[Window|window]], without intermission, as a
 relief from the embarrassment of confronting the large face of that
 gentleman, and thinking whenever anything rattled that he was putting
 up in paper an appropriate pecuniary compliment for herself.
 
-Once upon the road to church, Mr Dombey clapped his hands for the
+Once upon the [[Road|road]] to church, Mr Dombey clapped his hands for the
 amusement of his son. At which instance of parental enthusiasm Miss Tox
 was enchanted. But exclusive of this incident, the chief difference
 between the christening party and a party in a mourning coach consisted
@@ -86,13 +86,13 @@ felt herself escorted up the steps, preceded by a cocked hat and a
 Babylonian collar. It seemed for a moment like that other solemn
 institution, “Wilt thou have this man, Lucretia?” “Yes, I will.”
 
-“Please to bring the child in quick out of the air there,” whispered
+“Please to bring the [[Child|child]] in quick out of the air there,” whispered
 the beadle, holding open the inner door of the church.
 
-Little Paul might have asked with Hamlet “into my grave?” so chill and
+Little Paul might have asked with [[Hamlet]] “into my [[Grave|grave]]?” so chill and
 earthy was the place. The tall, shrouded pulpit and reading desk; the
 dreary perspective of empty pews stretching away under the galleries,
-and empty benches mounting to the roof and lost in the shadow of the
+and empty benches mounting to the roof and lost in the [[Shadow|shadow]] of the
 great grim organ; the dusty matting and cold stone slabs; the grisly
 free seats in the aisles; and the damp corner by the bell-rope, where
 the black trestles used for funerals were stowed away, along with some
@@ -114,7 +114,7 @@ The very wedding looked dismal as they passed in front of the altar.
 The bride was too old and the bridegroom too young, and a superannuated
 beau with one eye and an eyeglass stuck in its blank companion, was
 giving away the lady, while the friends were shivering. In the vestry
-the fire was smoking; and an over-aged and over-worked and under-paid
+the [[Fire|fire]] was smoking; and an over-aged and over-worked and under-paid
 attorney’s clerk, “making a search,” was running his forefinger down
 the parchment pages of an immense register (one of a long series of
 similar volumes) gorged with burials. Over the fireplace was a

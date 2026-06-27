@@ -24,16 +24,16 @@ in exactly the same method and degree.  I could point out that
 Browning said, in his gay and careless fashion:  `Which is the poison
 to poison her, prithee?' doubtless referring to Mrs. Browning.
 I could note that Browning observed, when brooding on his own
-immediate course of action:  `Or there's Satan . . . one might
-venture pledge one's soul to him.'  It will occur to every
+immediate course of action:  `Or there's [[Satan]] . . . one might
+venture pledge one's [[Soul|soul]] to him.'  It will occur to every
 reader of the poet that he observed on a celebrated occasion:
 `Lo! lieth flat and loveth Setebos', presumably prostrating himself
 upon the carpet in Wimpole Street.  It will also be recalled
 that Browning, after confessing to various frauds and lies,
 virulently cursed the patron to whom he had confessed them, saying:
-`I only wish I dared burn down the house and spoil your sniggering.'
+`I only wish I dared burn down the [[house]] and spoil your sniggering.'
 If these incidents in the life of the poet cause any surprise,
-it may be well to explain that they are, in fact, incidents in
+it may be [[Well|well]] to explain that they are, in fact, incidents in
 the lives of his characters; and so is the much-quoted phrase
 about all being `right with the world'.  It is not a remark
 made by Browning, but a remark made by Pippa in the dramatic
@@ -49,14 +49,14 @@ deal very wrong with it.
 So far as that is concerned, the facts (as everybody knows, or ought
 to know) are these.  The idea of the play called `Pippa Passes'
 is that a very poor girl, on her one solitary holiday, goes singing
-through the world in a state of perfect innocence and therefore
+through the world in a state of perfect [[innocence]] and therefore
 of perfect gaiety.  In doing so she crosses various human groups
-who are the very reverse of innocent or gay, each of whom is at some
+who are the very reverse of [[Innocent|innocent]] or gay, each of whom is at some
 crisis of crime or sin or sorrow.  In each case, as she passes,
-she sings a song, of which the innocence tingles through them
-in the form of irony.  She passes by a house where a wife has
-just seduced her lover into murdering her husband, and, by way of
-the last violence of contrast, sings a little song about the morning
+she sings a [[Song|song]], of which the [[innocence]] tingles through them
+in the form of irony.  She passes by a [[house]] where a wife has
+just seduced her [[Lover|lover]] into murdering her husband, and, by way of
+the last violence of contrast, sings a little [[Song|song]] about the morning
 being so beautiful that all seems to be right with the world.
 One would have thought it would have occurred to most readers
 that Browning was not very likely to think that assassination
@@ -69,14 +69,14 @@ It is perhaps worth while to mention this queer old blunder about
 Browning, and what is called his optimism, because we have since seen
 a great deal of optimism that is very much less reasonable than his.
 Browning did, indeed, believe that God is in His heaven, though the mere
-fact of the song of Pippa would not prove that he did.  He did believe
-in God; and, curiously enough, he is not entirely alone in that,
+fact of the [[Song|song]] of Pippa would not prove that he did.  He did believe
+in God; and, curiously enough, he is not entirely [[Alone|alone]] in that,
 and in some quarters the curious superstition is even spreading anew.
 But he did not believe that all was right with the world,
-in the sense that there is no wickedness, madness, or misery in it;
+in the sense that there is no wickedness, [[Madness|madness]], or misery in it;
 his works possibly contain a larger and more varied assortment
 of blackguards, miscreants, maniacs, and miserably deluded people than
-those of any writer of his time.  If you had gone to Robert Browning
+those of any writer of his [[Time|time]].  If you had gone to Robert Browning
 with the definite and deliberate doctrine, `There is no pain
 or evil', he would certainly have classed you among the maniacs.
 He would very probably have written a long, ingenious, and partly
@@ -117,12 +117,12 @@ That is the original germ of Christian Science, but also the original
 germ of Business Optimism.  I believe that those mystics,
 the members of the American business clubs, go about with large labels
 or buttons on their coats inscribed with the words `Trade is Good'.
-The savage who thinks he can hurt a man by writing his name in the dust
+The savage who thinks he can hurt a man by writing his name in the [[Dust|dust]]
 could hardly be more superstitious.  But, anyhow, for good or evil,
 whether it be superstition or science, it marks a belief in the power
 of words over things, or, if you will, of ideas over realities,
-which goes far beyond the dreams of the older optimists.
+which goes far beyond the [[Dreams|dreams]] of the older optimists.
 Some of this sect of optimists, I believe, recently held a sort
 of religious ceremony in which they cursed an old woman dressed up
-as Mrs. Pessimism, and bowed down before a queen called Mrs. Optimism.
+as Mrs. Pessimism, and bowed down before a [[Queen|queen]] called Mrs. Optimism.
 That does not seem very far from lying flat and loving Setebos.

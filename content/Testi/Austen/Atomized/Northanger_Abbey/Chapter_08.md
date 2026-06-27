@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 7"
+title: "[[Northanger Abbey]] — Chapter 7"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -22,17 +22,17 @@ CHAPTER 7
 
 Half a minute conducted them through the pump-yard to the archway,
 
-opposite Union Passage; but here they were stopped. Everybody
+opposite [[Union]] Passage; but here they were stopped. Everybody
 
 acquainted with Bath may remember the difficulties of crossing Cheap
 
-Street at this point; it is indeed a street of so impertinent a nature,
+Street at this point; it is indeed a street of so impertinent a [[Nature|nature]],
 
-so unfortunately connected with the great London and Oxford roads, and
+so unfortunately connected with the great [[London]] and [[Oxford]] roads, and
 
-the principal inn of the city, that a day never passes in which parties
+the principal inn of the [[City|city]], that a day never passes in which parties
 
-of ladies, however important their business, whether in quest of
+of ladies, however important their business, whether in [[Quest|quest]] of
 
 pastry, millinery, or even (as in the present case) of young men, are
 
@@ -40,9 +40,9 @@ not detained on one side or other by carriages, horsemen, or carts.
 
 This evil had been felt and lamented, at least three times a day, by
 
-Isabella since her residence in Bath; and she was now fated to feel and
+[[Isabella]] since her residence in Bath; and she was now fated to feel and
 
-lament it once more, for at the very moment of coming opposite to Union
+lament it once more, for at the very moment of coming opposite to [[Union]]
 
 Passage, and within view of the two gentlemen who were proceeding
 
@@ -54,11 +54,11 @@ along on bad pavement by a most knowing-looking coachman with all the
 
 vehemence that could most fitly endanger the lives of himself, his
 
-companion, and his horse.
+companion, and his [[Horse|horse]].
 
 
 
-“Oh, these odious gigs!” said Isabella, looking up. “How I detest
+“Oh, these odious gigs!” said [[Isabella]], looking up. “How I detest
 
 them.” But this detestation, though so just, was of short duration, for
 
@@ -70,7 +70,7 @@ brother!”
 
 “Good heaven! ’Tis James!” was uttered at the same moment by Catherine;
 
-and, on catching the young men’s eyes, the horse was immediately
+and, on catching the young men’s eyes, the [[Horse|horse]] was immediately
 
 checked with a violence which almost threw him on his haunches, and the
 
@@ -102,13 +102,13 @@ pretty as she could do herself.
 
 
 
-John Thorpe, who in the meantime had been giving orders about the
+[[John Thorpe]], who in the meantime had been giving orders about the
 
 horses, soon joined them, and from him she directly received the amends
 
 which were her due; for while he slightly and carelessly touched the
 
-hand of Isabella, on her he bestowed a whole scrape and half a short
+hand of [[Isabella]], on her he bestowed a whole scrape and half a short
 
 bow. He was a stout young man of middling height, who, with a plain
 
@@ -132,37 +132,37 @@ twenty-three miles.
 
 “_Three_-and-twenty!” cried Thorpe, “five-and-twenty if it is an inch.”
 
-Morland remonstrated, pleaded the authority of road-books, innkeepers,
+Morland remonstrated, pleaded the authority of [[Road|road]]-books, innkeepers,
 
 and milestones; but his friend disregarded them all; he had a surer
 
 test of distance. “I know it must be five-and-twenty,” said he, “by the
 
-time we have been doing it. It is now half after one; we drove out of
+[[Time|time]] we have been doing it. It is now half after one; we drove out of
 
-the inn-yard at Tetbury as the town clock struck eleven; and I defy any
+the inn-yard at Tetbury as the town [[Clock|clock]] struck eleven; and I defy any
 
-man in England to make my horse go less than ten miles an hour in
+man in England to make my [[Horse|horse]] go less than ten miles an hour in
 
 harness; that makes it exactly twenty-five.”
 
 
 
-“You have lost an hour,” said Morland; “it was only ten o’clock when we
+“You have lost an hour,” said Morland; “it was only ten o’[[Clock|clock]] when we
 
 came from Tetbury.”
 
 
 
-“Ten o’clock! it was eleven, upon my soul! i counted every stroke. This
+“Ten o’[[Clock|clock]]! it was eleven, upon my [[Soul|soul]]! i counted every stroke. This
 
 brother of yours would persuade me out of my senses, Miss Morland; do
 
-but look at my horse; did you ever see an animal so made for speed in
+but look at my [[Horse|horse]]; did you ever see an animal so made for [[Speed|speed]] in
 
 your life?” (The servant had just mounted the carriage and was driving
 
-off.) “Such true blood! three hours and and a half indeed coming only
+off.) “Such true [[Blood|blood]]! three hours and and a half indeed coming only
 
 three and twenty miles! look at that creature, and suppose it possible
 
@@ -176,13 +176,13 @@ if you can.”
 
 “Hot! he had not turned a hair till we came to Walcot Church; but look
 
-at his forehand; look at his loins; only see how he moves; that horse
+at his forehand; look at his loins; only see how he moves; that [[Horse|horse]]
 
 _cannot_ go less than ten miles an hour: tie his legs and he will get
 
 on. What do you think of my gig, Miss Morland? A neat one, is not it?
 
-Well hung; town-built; I have not had it a month. It was built for a
+[[Well]] hung; town-built; I have not had it a month. It was built for a
 
 Christchurch man, a friend of mine, a very good sort of fellow; he ran
 
@@ -190,9 +190,9 @@ it a few weeks, till, I believe, it was convenient to have done with
 
 it. I happened just then to be looking out for some light thing of the
 
-kind, though I had pretty well determined on a curricle too; but I
+kind, though I had pretty [[Well|well]] determined on a curricle too; but I
 
-chanced to meet him on Magdalen Bridge, as he was driving into Oxford,
+chanced to meet him on Magdalen Bridge, as he was driving into [[Oxford]],
 
 last term: ‘Ah! thorpe,’ said he, ‘do you happen to want such a little
 
@@ -208,7 +208,7 @@ much do you think he did, Miss Morland?”
 
 
 
-“Curricle-hung, you see; seat, trunk, sword-case, splashing-board,
+“Curricle-hung, you see; seat, trunk, [[Sword|sword]]-case, splashing-board,
 
 lamps, silver moulding, all you see complete; the iron-work as good as
 
@@ -244,13 +244,13 @@ An inquiry now took place into the intended movements of the young
 
 ladies; and, on finding whither they were going, it was decided that
 
-the gentlemen should accompany them to Edgar’s Buildings, and pay their
+the gentlemen should accompany them to [[Edgar]]’s Buildings, and pay their
 
-respects to Mrs. Thorpe. James and Isabella led the way; and so well
+respects to Mrs. Thorpe. James and [[Isabella]] led the way; and so [[Well|well]]
 
 satisfied was the latter with her lot, so contentedly was she
 
-endeavouring to ensure a pleasant walk to him who brought the double
+endeavouring to ensure a pleasant walk to him who brought the [[Double|double]]
 
 recommendation of being her brother’s friend, and her friend’s brother,
 
@@ -264,9 +264,9 @@ three times.
 
 
 
-John Thorpe kept of course with Catherine, and, after a few minutes’
+[[John Thorpe]] kept of course with Catherine, and, after a few minutes’
 
-silence, renewed the conversation about his gig. “You will find,
+[[Silence|silence]], renewed the conversation about his gig. “You will find,
 
 however, Miss Morland, it would be reckoned a cheap thing by some
 
@@ -274,17 +274,17 @@ people, for I might have sold it for ten guineas more the next day;
 
 Jackson, of Oriel, bid me sixty at once; Morland was with me at the
 
-time.”
+[[Time|time]].”
 
 
 
 “Yes,” said Morland, who overheard this; “but you forget that your
 
-horse was included.”
+[[Horse|horse]] was included.”
 
 
 
-“My horse! oh, d—— it! i would not sell my horse for a hundred. Are you
+“My [[Horse|horse]]! oh, d—— it! i would not sell my [[Horse|horse]] for a hundred. Are you
 
 fond of an open carriage, Miss Morland?”
 
@@ -300,17 +300,17 @@ particularly fond of it.”
 
 
 
-“Thank you,” said Catherine, in some distress, from a doubt of the
+“Thank you,” said Catherine, in some distress, from a [[Doubt|doubt]] of the
 
 propriety of accepting such an offer.
 
 
 
-“I will drive you up Lansdown Hill to-morrow.”
+“I will drive you up Lansdown [[Hill]] to-morrow.”
 
 
 
-“Thank you; but will not your horse want rest?”
+“Thank you; but will not your [[Horse|horse]] want rest?”
 
 
 
@@ -330,13 +330,13 @@ miles a day.”
 
 
 
-“Forty! aye, fifty, for what I care. Well, I will drive you up Lansdown
+“Forty! aye, fifty, for what I care. [[Well]], I will drive you up Lansdown
 
 to-morrow; mind, I am engaged.”
 
 
 
-“How delightful that will be!” cried Isabella, turning round. “My
+“How delightful that will be!” cried [[Isabella]], turning round. “My
 
 dearest Catherine, I quite envy you; but I am afraid, brother, you will
 
@@ -346,7 +346,7 @@ not have room for a third.”
 
 “A third indeed! no, no; I did not come to Bath to drive my sisters
 
-about; that would be a good joke, faith! morland must take care of
+about; that would be a good joke, [[Faith|faith]]! morland must take care of
 
 you.”
 
@@ -366,7 +366,7 @@ long as she could, with all the civility and deference of the youthful
 
 female mind, fearful of hazarding an opinion of its own in opposition
 
-to that of a self-assured man, especially where the beauty of her own
+to that of a [[Self|self]]-assured man, especially where the [[Beauty|beauty]] of her own
 
 sex is concerned, ventured at length to vary the subject by a question
 
@@ -388,7 +388,7 @@ question, but he prevented her by saying, “Novels are all so full of
 
 nonsense and stuff; there has not been a tolerably decent one come out
 
-since Tom Jones, except The Monk; I read that t’other day; but as for
+since Tom [[Jones]], except The Monk; I read that t’other day; but as for
 
 all the others, they are the stupidest things in creation.”
 
@@ -400,9 +400,9 @@ interesting.”
 
 
 
-“Not I, faith! no, if I read any, it shall be Mrs. Radcliffe’s; her
+“Not I, [[Faith|faith]]! no, if I read any, it shall be Mrs. Radcliffe’s; her
 
-novels are amusing enough; they are worth reading; some fun and nature
+novels are amusing enough; they are worth reading; some fun and [[Nature|nature]]
 
 in _them_.”
 
@@ -410,7 +410,7 @@ in _them_.”
 
 “Udolpho was written by Mrs. Radcliffe,” said Catherine, with some
 
-hesitation, from the fear of mortifying him.
+hesitation, from the [[Fear|fear]] of mortifying him.
 
 
 
@@ -446,7 +446,7 @@ sure I should never be able to get through it.”
 
 imagine; there is nothing in the world in it but an old man’s playing
 
-at see-saw and learning Latin; upon my soul there is not.”
+at see-saw and learning Latin; upon my [[Soul|soul]] there is not.”
 
 
 
@@ -462,7 +462,7 @@ Thorpe, who had descried them from above, in the passage. “Ah, Mother!
 
 How do you do?” said he, giving her a hearty shake of the hand. “Where
 
-did you get that quiz of a hat? It makes you look like an old witch.
+did you get that quiz of a hat? It makes you look like an old [[Witch|witch]].
 
 Here is Morland and I come to stay a few days with you, so you must
 
@@ -482,13 +482,13 @@ they both looked very ugly.
 
 These manners did not please Catherine; but he was James’s friend and
 
-Isabella’s brother; and her judgment was further bought off by
+[[Isabella]]’s brother; and her judgment was further bought off by
 
-Isabella’s assuring her, when they withdrew to see the new hat, that
+[[Isabella]]’s assuring her, when they withdrew to see the new hat, that
 
 John thought her the most charming girl in the world, and by John’s
 
-engaging her before they parted to dance with him that evening. Had she
+engaging her before they parted to [[Dance|dance]] with him that evening. Had she
 
 been older or vainer, such attacks might have done little; but, where
 
@@ -502,11 +502,11 @@ consequence was that, when the two Morlands, after sitting an hour with
 
 the Thorpes, set off to walk together to Mr. Allen’s, and James, as the
 
-door was closed on them, said, “Well, Catherine, how do you like my
+door was closed on them, said, “[[Well]], Catherine, how do you like my
 
 friend Thorpe?” instead of answering, as she probably would have done,
 
-had there been no friendship and no flattery in the case, “I do not
+had there been no [[Friendship|friendship]] and no flattery in the case, “I do not
 
 like him at all,” she directly replied, “I like him very much; he seems
 
@@ -522,7 +522,7 @@ the rest of the family?”
 
 
 
-“Very, very much indeed: Isabella particularly.”
+“Very, very much indeed: [[Isabella]] particularly.”
 
 
 
@@ -542,7 +542,7 @@ proud of.”
 
 
 
-“Indeed I am,” she replied; “I love her exceedingly, and am delighted
+“Indeed I am,” she replied; “I [[Love|love]] her exceedingly, and am delighted
 
 to find that you like her too. You hardly mentioned anything of her
 
@@ -550,7 +550,7 @@ when you wrote to me after your visit there.”
 
 
 
-“Because I thought I should soon see you myself. I hope you will be a
+“Because I thought I should soon see you myself. I [[Hope|hope]] you will be a
 
 great deal together while you are in Bath. She is a most amiable girl;
 
@@ -570,9 +570,9 @@ girl in Bath.”
 
 “I dare say he does; and I do not know any man who is a better judge of
 
-beauty than Mr. Allen. I need not ask you whether you are happy here,
+[[Beauty|beauty]] than Mr. Allen. I need not ask you whether you are happy here,
 
-my dear Catherine; with such a companion and friend as Isabella Thorpe,
+my dear Catherine; with such a companion and friend as [[Isabella Thorpe]],
 
 it would be impossible for you to be otherwise; and the Allens, I am
 
@@ -588,11 +588,11 @@ on purpose to see _me_.”
 
 
 
-James accepted this tribute of gratitude, and qualified his conscience
+James accepted this tribute of gratitude, and qualified his [[Conscience|conscience]]
 
 for accepting it too, by saying with perfect sincerity, “Indeed,
 
-Catherine, I love you dearly.”
+Catherine, I [[Love|love]] you dearly.”
 
 
 
@@ -610,17 +610,17 @@ Allen, invited by the former to dine with them, and summoned by the
 
 latter to guess the price and weigh the merits of a new muff and
 
-tippet. A pre-engagement in Edgar’s Buildings prevented his accepting
+tippet. A pre-engagement in [[Edgar]]’s Buildings prevented his accepting
 
 the invitation of one friend, and obliged him to hurry away as soon as
 
-he had satisfied the demands of the other. The time of the two parties
+he had satisfied the demands of the other. The [[Time|time]] of the two parties
 
 uniting in the Octagon Room being correctly adjusted, Catherine was
 
 then left to the luxury of a raised, restless, and frightened
 
-imagination over the pages of Udolpho, lost from all worldly concerns
+[[Imagination|imagination]] over the pages of Udolpho, lost from all worldly concerns
 
 of dressing and dinner, incapable of soothing Mrs. Allen’s fears on the
 

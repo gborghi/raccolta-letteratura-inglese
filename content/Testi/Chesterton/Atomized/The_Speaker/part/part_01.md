@@ -19,55 +19,55 @@ A Manx Minstrel
 --October 20, 1900, The Speaker
 
 Letters Of T. E. Brown*. Westminster:  A. Constable and Co.
-Poems Of T. E. Brown.  London:  Macmillan.
+[[Poems]] Of T. E. Brown.  [[London]]:  Macmillan.
 
 The letters of T. E. Brown, author of Fo'c's'le Yarns,
 letters that are in many ways singularly exuberant and entertaining,
 are further interesting because they raise in a new way
 the whole problem of the publication of private letters.
 Let no reader imagine, however, that there is anything lurid about them.
-Nothing worse is discovered against the morality of Mr. Brown
-than an admiration of Mr. Hall Caine.  No skeleton in the family
+Nothing worse is discovered against the [[morality]] of Mr. Brown
+than an admiration of Mr. Hall Caine.  No [[skeleton]] in the family
 cupboard is revealed, except the one appalling figure of a father
-who was such a lover of style that he had a page of some
+who was such a [[Lover|lover]] of style that he had a page of some
 English classic read to him before he answered an invitation.
 This latter anecdote we have a sort of terror in repeating,
 because it is so obviously the kind of story that may go
-the round of the newspapers and the French translation books,
+the round of the newspapers and the French [[Translation|translation]] books,
 and Lord Roberts, Mr. Vanderbilt, Talleyrand and Henri Quatre be
 successively credited with the habit of giving to the phrase "has
 much pleasure in accepting" some concentrated flavour of Burke.
 
 There is, we say, nothing moral or immoral about the correspondence:
 it is mostly full of uproarious levity, and yet, we will venture to say,
-not altogether in paradox, that it is somewhat too sacred for the light
+not altogether in [[Paradox|paradox]], that it is somewhat too sacred for the light
 of day.  It seems to us that frivolity is, in the secretive sense,
 far more sacred than seriousness; it is more fragile, more personal,
-more occult.  Any one can see St. Paul's Cathedral, but there may
+more occult.  Any one can see St. Paul's [[Cathedral]], but there may
 be only two people in the world who can see a particular joke.
 Biographers are sometimes accused of obtruding themselves:
 Mr. Irvine's nobler error is rather that he forgets that he, who received
 most of these letters, was spiritually a collaborator in them.
 His friend, T. E. Brown, was playing upon his memories and purposes
 as on a piano:  to us he is too often fingering on a dumb keyboard.
-We fear, as we say, that the rampant camaraderie of these communications
+We [[Fear|fear]], as we say, that the rampant camaraderie of these communications
 will be misunderstood and undervalued:  it is not possible,
-properly speaking, to laugh irreverently at time, death and judgment--
+properly speaking, to laugh irreverently at [[Time|time]], [[Death|death]] and judgment--
 for they laugh best who laugh last; but it is possible to laugh
 very irreverently at a joke.
 
 T. E. Brown, a perfect Celt, has no restraint; his letters
 are full of "Ho!  Ho's!" and "Ha!  Ha's!" like the refrain
-of an Elizabethan lyric.  With schoolboy abruptness
+of an Elizabethan [[Lyric|lyric]].  With schoolboy abruptness
 he makes remarks like "Isn't Browning a ripper?"
 Throughout the work one feels that Kingsley is a ripper,
 that Newman is a ripper, that Dr. George Macdonald is a ripper.
 Now a letter like this is a bond between two men, and when
-one of them is cut off it, it flaps dismally in the wind.
+one of them is cut off it, it flaps dismally in the [[Wind|wind]].
 We are quite sure the letter was splendid when Mr. Irvine
 received it; we wish we had been Mr. Irvine; but we were not,
 and therefore do not read what he read.  The very essence
-of friendship is in this intermixture, in those great midnight
+of [[Friendship|friendship]] is in this intermixture, in those great midnight
 conversations in which the primary colours of separate
 personalities are mingled into incredible greens and purples,
 as rich and unrecoverable as a sunset.
@@ -90,7 +90,7 @@ of having a head full of religions and no leg to stand on.
 Brown had plenty of legs to stand on, like the escutcheon
 of his own Isle of Man.  In fact, the only imaginary portrait we
 have formed of Mr. Brown is founded on that famous hieroglyph;
-we are sure that he would stand on one leg and dance with
+we are sure that he would stand on one leg and [[Dance|dance]] with
 the other two.
 
 Even in the letters, frantic and random as they are, T. E. Brown
@@ -101,9 +101,9 @@ The remark about his father's literary taste, "to him style was an
 instinct of personal cleanliness," hits the right nail on the head
 and is an excellent instance of the thing it describes.
 
-In an appropriate manner we are in a position at the same time to
-consider the full and handsome edition of Brown's poems which Messrs.
-Macmillan have published.  Those poems are far too voluminous to be
+In an appropriate manner we are in a position at the same [[Time|time]] to
+consider the full and handsome edition of Brown's [[Poems|poems]] which Messrs.
+Macmillan have published.  Those [[Poems|poems]] are far too voluminous to be
 accorded a detailed criticism here, but they are also far too remarkable
 to be passed over without some attempt at a general estimate.
 They exhibit in a singular manner most of the same merits and defects

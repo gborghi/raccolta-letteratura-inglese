@@ -22,7 +22,7 @@ experiment of reading solidly through a vast number of their records and
 
 reviews and discussions; and still I do not know. The only third thing I
 
-can think of to balance religion and politics is art; and no one well
+can think of to balance religion and politics is art; and no one [[Well|well]]
 
 acquainted with the debates at St. Stephen's will imagine that the art
 
@@ -40,11 +40,11 @@ they have to do with nothing; they have reached that low and last level
 
 where a man knows as little about his own claim, as he does about his
 
-enemies'. In any case there can be no doubt about the effect of this
+enemies'. In any case there can be no [[Doubt|doubt]] about the effect of this
 
 particular situation on the problem of ethics and science. The duty of
 
-dragging truth out by the tail or the hind leg or any other corner one
+dragging [[Truth|truth]] out by the tail or the hind leg or any other corner one
 
 can possibly get hold of, a perfectly sound duty in itself, had somehow
 
@@ -52,7 +52,7 @@ come into collision with the older and larger duty of knowing something
 
 about the organism and ends of a creature; or, in the everyday phrase,
 
-being able to make head or tail of it. This paradox pursued and
+being able to make head or tail of it. This [[Paradox|paradox]] pursued and
 
 tormented the Victorians. They could not or would not see that humanity
 
@@ -74,7 +74,7 @@ inquiry, of which we have seen the culmination in our own day. There had
 
 begun that easy automatic habit, of science as an oiled and
 
-smooth-running machine, that habit of treating things as obviously
+smooth-running [[Machine|machine]], that habit of treating things as obviously
 
 unquestionable, when, indeed, they are obviously questionable. This
 
@@ -82,9 +82,9 @@ began with vaccination in the Early Victorian Age; it extended to the
 
 early licence of vivisection in its later age; it has found a sort of
 
-fitting foolscap, or crown of crime and folly, in the thing called
+fitting foolscap, or [[Crown|crown]] of crime and folly, in the thing called
 
-Eugenics. In all three cases the point was not so much that the pioneers
+[[Eugenics]]. In all three cases the point was not so much that the pioneers
 
 had not proved their case; it was rather that, by an unexpressed rule of
 
@@ -100,15 +100,15 @@ was being weakened by heavy blows from without.
 
 There is a week that is the turn of the year; there was a year that was
 
-the turn of the century. About 1870 the force of the French Revolution
+the turn of the century. About 1870 the force of the [[French Revolution]]
 
-faltered and fell: the year that was everywhere the death of Liberal
+faltered and fell: the year that was everywhere the [[Death|death]] of Liberal
 
-ideas: the year when Paris fell: the year when Dickens died. While the
+ideas: the year when [[Paris]] fell: the year when Dickens died. While the
 
-new foes of freedom, the sceptics and scientists, were damaging
+new foes of [[Freedom|freedom]], the sceptics and scientists, were damaging
 
-democracy in ideas, the old foes of freedom, the emperors and the kings,
+[[Democracy|democracy]] in ideas, the old foes of [[Freedom|freedom]], the emperors and the kings,
 
 were damaging her more heavily in arms. For a moment it almost seemed
 
@@ -120,7 +120,7 @@ Alliance was now not arguably, but almost avowedly, an Unholy Alliance.
 
 It was an alliance between those who still thought they could deny the
 
-dignity of man and those who had recently begun to have a bright hope of
+dignity of man and those who had recently begun to have a bright [[Hope|hope]] of
 
 denying even the dignity of God. Eighteenth-century Prussia was
 
@@ -130,15 +130,15 @@ utterly atheist. Thus the old spirit of liberty felt itself shut up at
 
 both ends, that which was called progressive and that which was called
 
-reactionary: barricaded by Bismarck with blood and iron and by Darwin by
+reactionary: barricaded by Bismarck with [[Blood|blood]] and iron and by Darwin by
 
-blood and bones. The enormous depression which infects many excellent
+[[Blood|blood]] and bones. The enormous depression which infects many excellent
 
-people born about this time, probably has this cause.
+people born about this [[Time|time]], probably has this cause.
 
 
 
-It was a great calamity that the freedom of Wilkes and the faith of Dr.
+It was a great calamity that the [[Freedom|freedom]] of Wilkes and the [[Faith|faith]] of Dr.
 
 Johnson fought each other. But it was an even worse calamity that they
 
@@ -146,11 +146,11 @@ practically killed each other. They killed each other almost
 
 simultaneously, like Herminius and Mamilius. Liberalism (in Newman's
 
-sense) really did strike Christianity through headpiece and through
+sense) really did strike [[Christianity]] through headpiece and through
 
 head; that is, it did daze and stun the ignorant and ill-prepared
 
-intellect of the English Christian. And Christianity did smite
+intellect of the English Christian. And [[Christianity]] did smite
 
 Liberalism through breastplate and through breast; that is, it did
 
@@ -172,11 +172,11 @@ This coincident collapse of both religious and political idealism
 
 produced a curious cold air of emptiness and real subconscious
 
-agnosticism such as is extremely unusual in the history of mankind. It
+agnosticism such as is extremely unusual in the [[history]] of mankind. It
 
 is what Mr. Wells, with his usual verbal delicacy and accuracy, spoke of
 
-as that ironical silence that follows a great controversy. It is what
+as that ironical [[Silence|silence]] that follows a great controversy. It is what
 
 people less intelligent than Mr. Wells meant by calling themselves _fin
 
@@ -184,7 +184,7 @@ de siècle_; though, of course, rationally speaking, there is no more
 
 reason for being sad towards the end of a hundred years than towards the
 
-end of five hundred fortnights. There was no arithmetical autumn, but
+end of five hundred fortnights. There was no arithmetical [[Autumn|autumn]], but
 
 there was a spiritual one. And it came from the fact suggested in the
 

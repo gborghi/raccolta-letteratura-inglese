@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 19 (part 2)"
+title: "Bleak [[house|House]] — Chapter 19 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 “My little woman,” says Mr. Snagsby to the sparrows in Staple Inn,
 “likes to have her religion rather sharp, you see!”
 
-So Guster, much impressed by regarding herself for the time as the
+So Guster, much impressed by regarding herself for the [[Time|time]] as the
 handmaid of Chadband, whom she knows to be endowed with the gift of
 holding forth for four hours at a stretch, prepares the little
 drawing-room for tea. All the furniture is shaken and dusted, the
@@ -29,12 +29,12 @@ of anchovies nestling in parsley, not to mention new-laid eggs, to be
 brought up warm in a napkin, and hot buttered toast. For Chadband is
 rather a consuming vessel—the persecutors say a gorging vessel—and
 can wield such weapons of the flesh as a knife and fork remarkably
-well.
+[[Well|well]].
 
 Mr. Snagsby in his best coat, looking at all the preparations when
 they are completed and coughing his cough of deference behind his
-hand, says to Mrs. Snagsby, “At what time did you expect Mr. and Mrs.
-Chadband, my love?”
+hand, says to Mrs. Snagsby, “At what [[Time|time]] did you expect Mr. and Mrs.
+Chadband, my [[Love|love]]?”
 
 “At six,” says Mrs. Snagsby.
 
@@ -45,13 +45,13 @@ reproachful remark.
 
 Mr. Snagsby does look as if he would like it very much, but he says,
 with his cough of mildness, “No, my dear, no. I merely named the
-time.”
+[[Time|time]].”
 
-“What’s time,” says Mrs. Snagsby, “to eternity?”
+“What’s [[Time|time]],” says Mrs. Snagsby, “to [[Eternity|eternity]]?”
 
 “Very true, my dear,” says Mr. Snagsby. “Only when a person lays in
 victuals for tea, a person does it with a view—perhaps—more to
-time. And when a time is named for having tea, it’s better to come up
+[[Time|time]]. And when a [[Time|time]] is named for having tea, it’s better to come up
 to it.”
 
 “To come up to it!” Mrs. Snagsby repeats with severity. “Up to it! As
@@ -59,17 +59,17 @@ if Mr. Chadband was a fighter!”
 
 “Not at all, my dear,” says Mr. Snagsby.
 
-Here, Guster, who had been looking out of the bedroom window, comes
+Here, Guster, who had been looking out of the bedroom [[Window|window]], comes
 rustling and scratching down the little staircase like a popular
-ghost, and falling flushed into the drawing-room, announces that Mr.
-and Mrs. Chadband have appeared in the court. The bell at the inner
+[[Ghost|ghost]], and falling flushed into the drawing-room, announces that Mr.
+and Mrs. Chadband have appeared in the [[Court|court]]. The bell at the inner
 door in the passage immediately thereafter tinkling, she is
-admonished by Mrs. Snagsby, on pain of instant reconsignment to her
+admonished by Mrs. Snagsby, on [[Pain|pain]] of instant reconsignment to her
 patron saint, not to omit the ceremony of announcement. Much
 discomposed in her nerves (which were previously in the best order)
 by this threat, she so fearfully mutilates that point of state as to
 announce “Mr. and Mrs. Cheeseming, least which, Imeantersay,
-whatsername!” and retires conscience-stricken from the presence.
+whatsername!” and retires [[Conscience|conscience]]-stricken from the presence.
 
 Mr. Chadband is a large yellow man with a fat smile and a general
 appearance of having a good deal of train oil in his system. Mrs.
@@ -81,7 +81,7 @@ perspiration about the head, and never speaks without first putting
 up his great hand, as delivering a token to his hearers that he is
 going to edify them.
 
-“My friends,” says Mr. Chadband, “peace be on this house! On the
+“My friends,” says Mr. Chadband, “peace be on this [[house]]! On the
 master thereof, on the mistress thereof, on the young maidens, and on
 the young men! My friends, why do I wish for peace? What is peace? Is
 it war? No. Is it strife? No. Is it lovely, and gentle, and
@@ -89,7 +89,7 @@ beautiful, and pleasant, and serene, and joyful? Oh, yes! Therefore,
 my friends, I wish for peace, upon you and upon yours.”
 
 In consequence of Mrs. Snagsby looking deeply edified, Mr. Snagsby
-thinks it expedient on the whole to say amen, which is well received.
+thinks it expedient on the whole to say amen, which is [[Well|well]] received.
 
 “Now, my friends,” proceeds Mr. Chadband, “since I am upon this
 theme—”
@@ -105,11 +105,11 @@ Guster is heard unaccountably to murmur “one thousing seven hundred
 and eighty-two.” The spectral voice repeats more solemnly, “Go away!”
 
 “Now, my friends,” says Mr. Chadband, “we will inquire in a spirit of
-love—”
+[[Love|love]]—”
 
 Still Guster reiterates “one thousing seven hundred and eighty-two.”
 
-Mr. Chadband, pausing with the resignation of a man accustomed to be
+Mr. Chadband, pausing with the [[Resignation|resignation]] of a man accustomed to be
 persecuted and languidly folding up his chin into his fat smile,
 says, “Let us hear the maiden! Speak, maiden!”
 
@@ -129,13 +129,13 @@ murmur. Rachael, pay the eightpence!”
 
 While Mrs. Snagsby, drawing her breath, looks hard at Mr. Snagsby, as
 who should say, “You hear this apostle!” and while Mr. Chadband glows
-with humility and train oil, Mrs. Chadband pays the money. It is Mr.
+with [[Humility|humility]] and train oil, Mrs. Chadband pays the money. It is Mr.
 Chadband’s habit—it is the head and front of his pretensions
 indeed—to keep this sort of debtor and creditor account in the
 smallest items and to post it publicly on the most trivial occasions.
 
 “My friends,” says Chadband, “eightpence is not much; it might justly
-have been one and fourpence; it might justly have been half a crown.
+have been one and fourpence; it might justly have been half a [[Crown|crown]].
 O let us be joyful, joyful! O let us be joyful!”
 
 With which remark, which appears from its sound to be an extract in

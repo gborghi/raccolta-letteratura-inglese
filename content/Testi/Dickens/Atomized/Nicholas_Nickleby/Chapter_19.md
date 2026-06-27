@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 19"
+title: "[[Nicholas Nickleby]] — Chapter 19"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 CHAPTER 19
 
-Descriptive of a Dinner at Mr. Ralph Nickleby’s, and of the Manner in
+Descriptive of a Dinner at Mr. [[Ralph Nickleby]]’s, and of the Manner in
 which the Company entertained themselves, before Dinner, at Dinner, and
 after Dinner.
 
@@ -25,16 +25,16 @@ The bile and rancour of the worthy Miss Knag undergoing no diminution
 during the remainder of the week, but rather augmenting with every
 successive hour; and the honest ire of all the young ladies rising, or
 seeming to rise, in exact proportion to the good spinster’s indignation,
-and both waxing very hot every time Miss Nickleby was called upstairs;
+and both waxing very hot every [[Time|time]] Miss Nickleby was called upstairs;
 it will be readily imagined that that young lady’s daily life was
 none of the most cheerful or enviable kind. She hailed the arrival of
-Saturday night, as a prisoner would a few delicious hours’ respite from
+Saturday [[Night|night]], as a prisoner would a few delicious hours’ respite from
 slow and wearing torture, and felt that the poor pittance for her first
 week’s labour would have been dearly and hardly earned, had its amount
 been trebled.
 
 When she joined her mother, as usual, at the street corner, she was not
-a little surprised to find her in conversation with Mr. Ralph Nickleby;
+a little surprised to find her in conversation with Mr. [[Ralph Nickleby]];
 but her surprise was soon redoubled, no less by the matter of their
 conversation, than by the smoothed and altered manner of Mr. Nickleby
 himself.
@@ -46,12 +46,12 @@ uncle’s cold glistening eye.
 
 ‘That instant,’ said Ralph. ‘I was coming to call for you, making sure
 to catch you before you left; but your mother and I have been talking
-over family affairs, and the time has slipped away so rapidly--’
+over family affairs, and the [[Time|time]] has slipped away so rapidly--’
 
-‘Well, now, hasn’t it?’ interposed Mrs. Nickleby, quite insensible to the
+‘[[Well]], now, hasn’t it?’ interposed Mrs. Nickleby, quite insensible to the
 sarcastic tone of Ralph’s last remark. ‘Upon my word, I couldn’t have
 believed it possible, that such a--Kate, my dear, you’re to dine with
-your uncle at half-past six o’clock tomorrow.’
+your uncle at half-past six o’[[Clock|clock]] tomorrow.’
 
 Triumphing in having been the first to communicate this extraordinary
 intelligence, Mrs. Nickleby nodded and smiled a great many times, to
@@ -62,33 +62,33 @@ off, at an acute angle, to a committee of ways and means.
 dress enough, my dear, with that pretty little scarf, and a plain band
 in your hair, and a pair of black silk stock--Dear, dear,’ cried Mrs
 Nickleby, flying off at another angle, ‘if I had but those unfortunate
-amethysts of mine--you recollect them, Kate, my love--how they used to
+amethysts of mine--you recollect them, Kate, my [[Love|love]]--how they used to
 sparkle, you know--but your papa, your poor dear papa--ah! there
 never was anything so cruelly sacrificed as those jewels were, never!’
 Overpowered by this agonising thought, Mrs. Nickleby shook her head, in a
-melancholy manner, and applied her handkerchief to her eyes.
+[[Melancholy|melancholy]] manner, and applied her handkerchief to her eyes.
 
 I don’t want them, mama, indeed,’ said Kate. ‘Forget that you ever had
 them.’
 
 ‘Lord, Kate, my dear,’ rejoined Mrs. Nickleby, pettishly, ‘how like a
-child you talk! Four-and-twenty silver tea-spoons, brother-in-law,
+[[Child|child]] you talk! Four-and-twenty silver tea-spoons, brother-in-law,
 two gravies, four salts, all the amethysts--necklace, brooch, and
-ear-rings--all made away with, at the same time, and I saying, almost
-on my bended knees, to that poor good soul, “Why don’t you do something,
+ear-rings--all made away with, at the same [[Time|time]], and I saying, almost
+on my bended knees, to that poor good [[Soul|soul]], “Why don’t you do something,
 Nicholas? Why don’t you make some arrangement?” I am sure that anybody
-who was about us at that time, will do me the justice to own, that if
+who was about us at that [[Time|time]], will do me the justice to own, that if
 I said that once, I said it fifty times a day. Didn’t I, Kate, my dear?
 Did I ever lose an opportunity of impressing it on your poor papa?’
 
 ‘No, no, mama, never,’ replied Kate. And to do Mrs. Nickleby justice, she
-never had lost--and to do married ladies as a body justice, they seldom
+never had lost--and to do married ladies as a [[Body|body]] justice, they seldom
 do lose--any occasion of inculcating similar golden percepts, whose only
 blemish is, the slight degree of vagueness and uncertainty in which they
 are usually enveloped.
 
 ‘Ah!’ said Mrs. Nickleby, with great fervour, ‘if my advice had been
-taken at the beginning--Well, I have always done MY duty, and that’s
+taken at the beginning--[[Well]], I have always done MY duty, and that’s
 some comfort.’
 
 When she had arrived at this reflection, Mrs. Nickleby sighed, rubbed her
@@ -101,8 +101,8 @@ obvious to everybody.
 of emotion, seemed to skulk under his face, rather than play boldly over
 it--‘to return to the point from which we have strayed. I have a little
 party of--of--gentlemen with whom I am connected in business just now,
-at my house tomorrow; and your mother has promised that you shall
-keep house for me. I am not much used to parties; but this is one of
+at my [[house]] tomorrow; and your mother has promised that you shall
+keep [[house]] for me. I am not much used to parties; but this is one of
 business, and such fooleries are an important part of it sometimes. You
 don’t mind obliging me?’
 
@@ -115,9 +115,9 @@ niece.’
 you will find me awkward and embarrassed.’
 
 ‘Oh no,’ said Ralph; ‘come when you like, in a hackney coach--I’ll pay
-for it. Good-night--a--a--God bless you.’
+for it. Good-[[Night|night]]--a--a--God bless you.’
 
-The blessing seemed to stick in Mr. Ralph Nickleby’s throat, as if it
+The blessing seemed to stick in Mr. [[Ralph Nickleby]]’s throat, as if it
 were not used to the thoroughfare, and didn’t know the way out. But it
 got out somehow, though awkwardly enough; and having disposed of it, he
 shook hands with his two relatives, and abruptly left them.
@@ -133,12 +133,12 @@ very honest face.’
 
 The worthy matron made this remark with great emphasis and elocution,
 as if it comprised no small quantity of ingenuity and research; and,
-in truth, it was not unworthy of being classed among the extraordinary
+in [[Truth|truth]], it was not unworthy of being classed among the extraordinary
 discoveries of the age. Kate looked up hastily, and as hastily looked
 down again.
 
 ‘What has come over you, my dear, in the name of goodness?’ asked Mrs
-Nickleby, when they had walked on, for some time, in silence.
+Nickleby, when they had walked on, for some [[Time|time]], in [[Silence|silence]].
 
 ‘I was only thinking, mama,’ answered Kate.
 
@@ -152,23 +152,23 @@ had had thousand-pound notes given them in reticules, by eccentric
 uncles; and of young ladies who had accidentally met amiable gentlemen
 of enormous wealth at their uncles’ houses, and married them, after
 short but ardent courtships; and Kate, listening first in apathy, and
-afterwards in amusement, felt, as they walked home, something of her
+afterwards in amusement, felt, as they walked [[Home|home]], something of her
 mother’s sanguine complexion gradually awakening in her own bosom, and
 began to think that her prospects might be brightening, and that better
-days might be dawning upon them. Such is hope, Heaven’s own gift to
+days might be dawning upon them. Such is [[Hope|hope]], Heaven’s own gift to
 struggling mortals; pervading, like some subtle essence from the
-skies, all things, both good and bad; as universal as death, and more
+skies, all things, both good and bad; as universal as [[Death|death]], and more
 infectious than disease!
 
-The feeble winter’s sun--and winter’s suns in the city are very feeble
+The feeble [[Winter|winter]]’s sun--and [[Winter|winter]]’s suns in the [[City|city]] are very feeble
 indeed--might have brightened up, as he shone through the dim windows
-of the large old house, on witnessing the unusual sight which one
+of the large old [[house]], on witnessing the unusual sight which one
 half-furnished room displayed. In a gloomy corner, where, for years, had
 stood a silent dusty pile of merchandise, sheltering its colony of mice,
 and frowning, a dull and lifeless mass, upon the panelled room, save
 when, responding to the roll of heavy waggons in the street without,
 it quaked with sturdy tremblings and caused the bright eyes of its tiny
-citizens to grow brighter still with fear, and struck them motionless,
+citizens to grow brighter still with [[Fear|fear]], and struck them motionless,
 with attentive ear and palpitating heart, until the alarm had passed
 away--in this dark corner, was arranged, with scrupulous care, all
 Kate’s little finery for the day; each article of dress partaking of
@@ -189,11 +189,11 @@ for the tantalisation of mankind. About and among them all, moved Kate
 herself, not the least beautiful or unwonted relief to the stern, old,
 gloomy building.
 
-In good time, or in bad time, as the reader likes to take it--for Mrs
+In good [[Time|time]], or in bad [[Time|time]], as the reader likes to take it--for Mrs
 Nickleby’s impatience went a great deal faster than the clocks at that
 end of the town, and Kate was dressed to the very last hair-pin a full
 hour and a half before it was at all necessary to begin to think about
-it--in good time, or in bad time, the toilet was completed; and it being
+it--in good [[Time|time]], or in bad [[Time|time]], the toilet was completed; and it being
 at length the hour agreed upon for starting, the milkman fetched a coach
 from the nearest stand, and Kate, with many adieux to her mother, and
 many kind messages to Miss La Creevy, who was to come to tea, seated
@@ -202,30 +202,30 @@ state in a hackney coach yet. And the coach, and the coachman, and the
 horses, rattled, and jangled, and whipped, and cursed, and swore, and
 tumbled on together, until they came to Golden Square.
 
-The coachman gave a tremendous double knock at the door, which was
+The coachman gave a tremendous [[Double|double]] knock at the door, which was
 opened long before he had done, as quickly as if there had been a man
 behind it, with his hand tied to the latch. Kate, who had expected no
-more uncommon appearance than Newman Noggs in a clean shirt, was not a
+more uncommon appearance than [[Newman Noggs]] in a clean shirt, was not a
 little astonished to see that the opener was a man in handsome livery,
-and that there were two or three others in the hall. There was no doubt
-about its being the right house, however, for there was the name upon
+and that there were two or three others in the hall. There was no [[Doubt|doubt]]
+about its being the right [[house]], however, for there was the name upon
 the door; so she accepted the laced coat-sleeve which was tendered her,
-and entering the house, was ushered upstairs, into a back drawing-room,
-where she was left alone.
+and entering the [[house]], was ushered upstairs, into a back drawing-room,
+where she was left [[Alone|alone]].
 
 If she had been surprised at the apparition of the footman, she was
 perfectly absorbed in amazement at the richness and splendour of the
 furniture. The softest and most elegant carpets, the most exquisite
 pictures, the costliest mirrors; articles of richest ornament, quite
-dazzling from their beauty and perplexing from the prodigality with
+dazzling from their [[Beauty|beauty]] and perplexing from the prodigality with
 which they were scattered around; encountered her on every side. The
 very staircase nearly down to the hall-door, was crammed with beautiful
-and luxurious things, as though the house were brimful of riches, which,
+and luxurious things, as though the [[house]] were brimful of riches, which,
 with a very trifling addition, would fairly run over into the street.
 
-Presently, she heard a series of loud double knocks at the street-door,
+Presently, she heard a series of loud [[Double|double]] knocks at the street-door,
 and after every knock some new voice in the next room; the tones of Mr
-Ralph Nickleby were easily distinguishable at first, but by degrees
+[[Ralph Nickleby]] were easily distinguishable at first, but by degrees
 they merged into the general buzz of conversation, and all she could
 ascertain was, that there were several gentlemen with no very musical
 voices, who talked very loud, laughed very heartily, and swore more
@@ -242,7 +242,7 @@ them. Now--shall I take you in?’
 
 ‘Pray, uncle,’ said Kate, a little flurried, as people much more
 conversant with society often are, when they are about to enter a room
-full of strangers, and have had time to think of it previously, ‘are
+full of strangers, and have had [[Time|time]] to think of it previously, ‘are
 there any ladies here?’
 
 ‘No,’ said Ralph, shortly, ‘I don’t know any.’
@@ -257,9 +257,9 @@ her uncle might consider the payment of the hackney-coach fare a sort
 of bargain for her punctuality, she suffered him to draw her arm through
 his, and to lead her away.
 
-Seven or eight gentlemen were standing round the fire when they went in,
+Seven or eight gentlemen were standing round the [[Fire|fire]] when they went in,
 and, as they were talking very loud, were not aware of their entrance
-until Mr. Ralph Nickleby, touching one on the coat-sleeve, said in a
+until Mr. [[Ralph Nickleby]], touching one on the coat-sleeve, said in a
 harsh emphatic voice, as if to attract general attention--
 
 ‘Lord Frederick Verisopht, my niece, Miss Nickleby.’
@@ -283,7 +283,7 @@ something redder in the face, and something longer upon town, and said
 in a loud whisper that the girl was ‘deyvlish pitty.’
 
 ‘Introduce me, Nickleby,’ said this second gentleman, who was lounging
-with his back to the fire, and both elbows on the chimneypiece.
+with his back to the [[Fire|fire]], and both elbows on the chimneypiece.
 
 ‘Sir Mulberry Hawk,’ said Ralph.
 
@@ -306,16 +306,16 @@ somebody, who appeared to be a make-weight, and was not introduced at
 all.
 
 There were two circumstances which, in this early stage of the party,
-struck home to Kate’s bosom, and brought the blood tingling to her face.
+struck [[Home|home]] to Kate’s bosom, and brought the [[Blood|blood]] tingling to her face.
 One was the flippant contempt with which the guests evidently regarded
 her uncle, and the other, the easy insolence of their manner towards
 herself. That the first symptom was very likely to lead to the
 aggravation of the second, it needed no great penetration to foresee.
-And here Mr. Ralph Nickleby had reckoned without his host; for however
-fresh from the country a young lady (by nature) may be, and however
+And here Mr. [[Ralph Nickleby]] had reckoned without his host; for however
+fresh from the country a young lady (by [[Nature|nature]]) may be, and however
 unacquainted with conventional behaviour, the chances are, that she will
 have quite as strong an innate sense of the decencies and proprieties of
-life as if she had run the gauntlet of a dozen London seasons--possibly
+life as if she had run the gauntlet of a dozen [[London]] [[Seasons|seasons]]--possibly
 a stronger one, for such senses have been known to blunt in this
 improving process.
 
@@ -343,11 +343,11 @@ Pyke and Pluck laughed consumedly.
 
 These gentlemen had not yet quite recovered the jest, when dinner was
 announced, and then they were thrown into fresh ecstasies by a similar
-cause; for Sir Mulberry Hawk, in an excess of humour, shot dexterously
+cause; for Sir Mulberry Hawk, in an excess of [[Humour|humour]], shot dexterously
 past Lord Frederick Verisopht who was about to lead Kate downstairs, and
 drew her arm through his up to the elbow.
 
-‘No, damn it, Verisopht,’ said Sir Mulberry, ‘fair play’s a jewel, and
+‘No, damn it, Verisopht,’ said Sir Mulberry, ‘fair play’s a [[Jewel|jewel]], and
 Miss Nickleby and I settled the matter with our eyes ten minutes ago.’
 
 ‘Ha, ha, ha!’ laughed the honourable Mr. Snobb, ‘very good, very good.’
@@ -366,13 +366,13 @@ Mulberry as his lordship sat down.
 ‘Of course,’ replied Lord Frederick, fixing his eyes on Miss Nickleby,
 ‘how can you a-ask me?’
 
-‘Well, you attend to your dinner,’ said Sir Mulberry, ‘and don’t mind
+‘[[Well]], you attend to your dinner,’ said Sir Mulberry, ‘and don’t mind
 Miss Nickleby and me, for we shall prove very indifferent company, I
 dare say.’
 
 ‘I wish you’d interfere here, Nickleby,’ said Lord Frederick.
 
-‘What is the matter, my lord?’ demanded Ralph from the bottom of the
+‘What is the matter, my lord?’ demanded Ralph from the [[Bottom|bottom]] of the
 table, where he was supported by Messrs Pyke and Pluck.
 
 ‘This fellow, Hawk, is monopolising your niece,’ said Lord Frederick.
@@ -381,7 +381,7 @@ table, where he was supported by Messrs Pyke and Pluck.
 said Ralph with a sneer.
 
 ‘’Gad, so he has,’ replied the young man; ‘deyvle take me if I know
-which is master in my house, he or I.’
+which is master in my [[house]], he or I.’
 
 ‘I know,’ muttered Ralph.
 
@@ -405,9 +405,9 @@ original genius, he had struck out an entirely new course of treatment
 quite opposed to the usual method; his custom being, when he had gained
 the ascendancy over those he took in hand, rather to keep them down
 than to give them their own way; and to exercise his vivacity upon
-them openly, and without reserve. Thus, he made them butts, in a double
+them openly, and without reserve. Thus, he made them butts, in a [[Double|double]]
 sense, and while he emptied them with great address, caused them to ring
-with sundry well-administered taps, for the diversion of society.
+with sundry [[Well|well]]-administered taps, for the diversion of society.
 
 The dinner was as remarkable for the splendour and completeness of its
 appointments as the mansion itself, and the company were remarkable
@@ -418,11 +418,11 @@ truly astonishing. They were remarkably fresh, too, notwithstanding
 their great exertions: for, on the appearance of the dessert, they broke
 out again, as if nothing serious had taken place since breakfast.
 
-‘Well,’ said Lord Frederick, sipping his first glass of port, ‘if this
+‘[[Well]],’ said Lord Frederick, sipping his first glass of port, ‘if this
 is a discounting dinner, all I have to say is, deyvle take me, if it
 wouldn’t be a good pla-an to get discount every day.’
 
-‘You’ll have plenty of it, in your time,’ returned Sir Mulberry Hawk;
+‘You’ll have plenty of it, in your [[Time|time]],’ returned Sir Mulberry Hawk;
 ‘Nickleby will tell you that.’
 
 ‘What do you say, Nickleby?’ inquired the young man; ‘am I to be a good
@@ -436,13 +436,13 @@ Militia--and the race-courses.
 The gallant colonel glanced at Messrs Pyke and Pluck as if he thought
 they ought to laugh at his joke; but those gentlemen, being only engaged
 to laugh for Sir Mulberry Hawk, were, to his signal discomfiture, as
-grave as a pair of undertakers. To add to his defeat, Sir Mulberry,
+[[Grave|grave]] as a pair of undertakers. To add to his defeat, Sir Mulberry,
 considering any such efforts an invasion of his peculiar privilege,
 eyed the offender steadily, through his glass, as if astonished at his
 presumption, and audibly stated his impression that it was an ‘infernal
 liberty,’ which being a hint to Lord Frederick, he put up HIS glass,
 and surveyed the object of censure as if he were some extraordinary wild
-animal then exhibiting for the first time. As a matter of course, Messrs
+animal then exhibiting for the first [[Time|time]]. As a matter of course, Messrs
 Pyke and Pluck stared at the individual whom Sir Mulberry Hawk stared
 at; so, the poor colonel, to hide his confusion, was reduced to the
 necessity of holding his port before his right eye and affecting to
@@ -455,7 +455,7 @@ looks of his friend Sir Mulberry. The latter gentleman was obliging
 enough to direct general attention towards her.
 
 ‘Here is Miss Nickleby,’ observed Sir Mulberry, ‘wondering why the deuce
-somebody doesn’t make love to her.’
+somebody doesn’t make [[Love|love]] to her.’
 
 ‘No, indeed,’ said Kate, looking hastily up, ‘I--’ and then she stopped,
 feeling it would have been better to have said nothing at all.
@@ -466,8 +466,8 @@ can’t look in my face, and tell me she wasn’t thinking so.’
 ‘Done!’ cried the noble gull. ‘Within ten minutes.’
 
 ‘Done!’ responded Sir Mulberry. The money was produced on both sides,
-and the Honourable Mr. Snobb was elected to the double office of
-stake-holder and time-keeper.
+and the Honourable Mr. Snobb was elected to the [[Double|double]] office of
+stake-holder and [[Time|time]]-keeper.
 
 ‘Pray,’ said Kate, in great confusion, while these preliminaries were
 in course of completion. ‘Pray do not make me the subject of any bets.
@@ -491,7 +491,7 @@ youth.
 ‘Horrid cruel,’ said Mr. Pluck.
 
 ‘I don’t care if I do lose,’ said Sir Mulberry; ‘for one tolerable look
-at Miss Nickleby’s eyes is worth double the money.’
+at Miss Nickleby’s eyes is worth [[Double|double]] the money.’
 
 ‘More,’ said Mr. Pyke.
 
@@ -508,7 +508,7 @@ Frederick, after a short interval.
 
 ‘You needn’t trouble yourself to inquire, my buck,’ said Sir Mulberry;
 ‘Miss Nickleby and I understand each other; she declares on my side, and
-shows her taste. You haven’t a chance, old fellow. Time, Snobb?’
+shows her taste. You haven’t a chance, old fellow. [[Time]], Snobb?’
 
 ‘Eight minutes gone.’
 
@@ -525,8 +525,8 @@ that by so doing she might seem to countenance Sir Mulberry’s boast,
 which had been uttered with great coarseness and vulgarity of manner,
 raised her eyes, and looked him in the face. There was something so
 odious, so insolent, so repulsive in the look which met her, that,
-without the power to stammer forth a syllable, she rose and hurried from
-the room. She restrained her tears by a great effort until she was alone
+without the power to stammer forth a syllable, she [[Rose|rose]] and hurried from
+the room. She restrained her [[Tears|tears]] by a great effort until she was [[Alone|alone]]
 upstairs, and then gave them vent.
 
 ‘Capital!’ said Sir Mulberry Hawk, putting the stakes in his pocket.
@@ -552,13 +552,13 @@ prospect of seeing them no more, contributed greatly to calm her
 agitation, and, taking up a book, she composed herself to read.
 
 She started sometimes, when the sudden opening of the dining-room door
-let loose a wild shout of noisy revelry, and more than once rose in
+let loose a wild shout of noisy revelry, and more than once [[Rose|rose]] in
 great alarm, as a fancied footstep on the staircase impressed her
-with the fear that some stray member of the party was returning
-alone. Nothing occurring, however, to realise her apprehensions, she
+with the [[Fear|fear]] that some stray member of the party was returning
+[[Alone|alone]]. Nothing occurring, however, to realise her apprehensions, she
 endeavoured to fix her attention more closely on her book, in which
 by degrees she became so much interested, that she had read on through
-several chapters without heed of time or place, when she was terrified
+several chapters without heed of [[Time|time]] or place, when she was terrified
 by suddenly hearing her name pronounced by a man’s voice close at her
 ear.
 
@@ -572,7 +572,7 @@ it real, now, or only to display the eyelashes?’
 Kate, looking anxiously towards the door, made no reply.
 
 ‘I have looked at ‘em for five minutes,’ said Sir Mulberry. ‘Upon my
-soul, they’re perfect. Why did I speak, and destroy such a pretty little
+[[Soul|soul]], they’re perfect. Why did I speak, and destroy such a pretty little
 picture?’
 
 ‘Do me the favour to be silent now, sir,’ replied Kate.
@@ -580,7 +580,7 @@ picture?’
 ‘No, don’t,’ said Sir Mulberry, folding his crushed hat to lay his elbow
 on, and bringing himself still closer to the young lady; ‘upon my life,
 you oughtn’t to. Such a devoted slave of yours, Miss Nickleby--it’s an
-infernal thing to treat him so harshly, upon my soul it is.’
+infernal thing to treat him so harshly, upon my [[Soul|soul]] it is.’
 
 ‘I wish you to understand, sir,’ said Kate, trembling in spite of
 herself, but speaking with great indignation, ‘that your behaviour
@@ -591,7 +591,7 @@ remaining, you will leave me.’
 excessive rigour, my sweet creature? Now, be more natural--my dear Miss
 Nickleby, be more natural--do.’
 
-Kate hastily rose; but as she rose, Sir Mulberry caught her dress, and
+Kate hastily [[Rose|rose]]; but as she [[Rose|rose]], Sir Mulberry caught her dress, and
 forcibly detained her.
 
 ‘Let me go, sir,’ she cried, her heart swelling with anger. ‘Do you
@@ -605,22 +605,22 @@ hear? Instantly--this moment.’
 over, as if to replace her in her chair; but the young lady, making a
 violent effort to disengage herself, he lost his balance, and measured
 his length upon the ground. As Kate sprung forward to leave the room, Mr
-Ralph Nickleby appeared in the doorway, and confronted her.
+[[Ralph Nickleby]] appeared in the doorway, and confronted her.
 
 ‘What is this?’ said Ralph.
 
 ‘It is this, sir,’ replied Kate, violently agitated: ‘that beneath the
-roof where I, a helpless girl, your dead brother’s child, should most
+roof where I, a helpless girl, your dead brother’s [[Child|child]], should most
 have found protection, I have been exposed to insult which should make
 you shrink to look upon me. Let me pass you.’
 
 Ralph DID shrink, as the indignant girl fixed her kindling eye upon him;
 but he did not comply with her injunction, nevertheless: for he led her
 to a distant seat, and returning, and approaching Sir Mulberry Hawk, who
-had by this time risen, motioned towards the door.
+had by this [[Time|time]] risen, motioned towards the door.
 
 ‘Your way lies there, sir,’ said Ralph, in a suppressed voice, that some
-devil might have owned with pride.
+devil might have owned with [[Pride|pride]].
 
 ‘What do you mean by that?’ demanded his friend, fiercely.
 
@@ -630,7 +630,7 @@ wrung them; but he smiled disdainfully, and again pointed to the door.
 
 ‘Do you know me, you old madman?’ asked Sir Mulberry.
 
-‘Well,’ said Ralph. The fashionable vagabond for the moment quite
+‘[[Well]],’ said Ralph. The fashionable vagabond for the moment quite
 quailed under the steady look of the older sinner, and walked towards
 the door, muttering as he went.
 
@@ -646,7 +646,7 @@ me, could you ever have wound him in your net as you have?’
 ‘The net is a large one, and rather full,’ said Ralph. ‘Take care that
 it chokes nobody in the meshes.’
 
-‘You would sell your flesh and blood for money; yourself, if you have
+‘You would sell your flesh and [[Blood|blood]] for money; yourself, if you have
 not already made a bargain with the devil,’ retorted the other. ‘Do you
 mean to tell me that your pretty niece was not brought here as a decoy
 for the drunken boy downstairs?’
@@ -694,11 +694,11 @@ had flung herself heavily upon the couch, and with her head drooping
 over the cushion, and her face hidden in her hands, seemed to be still
 weeping in an agony of shame and grief.
 
-Ralph would have walked into any poverty-stricken debtor’s house, and
-pointed him out to a bailiff, though in attendance upon a young child’s
-death-bed, without the smallest concern, because it would have been a
+Ralph would have walked into any [[Poverty|poverty]]-stricken debtor’s [[house]], and
+pointed him out to a bailiff, though in attendance upon a young [[Child|child]]’s
+[[Death|death]]-bed, without the smallest concern, because it would have been a
 matter quite in the ordinary course of business, and the man would have
-been an offender against his only code of morality. But, here was a
+been an offender against his only code of [[morality]]. But, here was a
 young girl, who had done no wrong save that of coming into the world
 alive; who had patiently yielded to all his wishes; who had tried hard
 to please him--above all, who didn’t owe him money--and he felt awkward
@@ -711,8 +711,8 @@ finally sat himself on the same sofa, and laid his hand on Kate’s arm.
 ‘Hush, my dear!’ he said, as she drew it back, and her sobs burst out
 afresh. ‘Hush, hush! Don’t mind it, now; don’t think of it.’
 
-‘Oh, for pity’s sake, let me go home,’ cried Kate. ‘Let me leave this
-house, and go home.’
+‘Oh, for pity’s sake, let me go [[Home|home]],’ cried Kate. ‘Let me leave this
+[[house]], and go [[Home|home]].’
 
 ‘Yes, yes,’ said Ralph. ‘You shall. But you must dry your eyes first,
 and compose yourself. Let me raise your head. There--there.’
@@ -720,7 +720,7 @@ and compose yourself. Let me raise your head. There--there.’
 ‘Oh, uncle!’ exclaimed Kate, clasping her hands. ‘What have I done--what
 have I done--that you should subject me to this? If I had wronged you in
 thought, or word, or deed, it would have been most cruel to me, and the
-memory of one you must have loved in some old time; but--’
+[[Memory|memory]] of one you must have loved in some old [[Time|time]]; but--’
 
 ‘Only listen to me for a moment,’ interrupted Ralph, seriously alarmed
 by the violence of her emotions. ‘I didn’t know it would be so; it was
@@ -728,19 +728,19 @@ impossible for me to foresee it. I did all I could.--Come, let us walk
 about. You are faint with the closeness of the room, and the heat of
 these lamps. You will be better now, if you make the slightest effort.’
 
-‘I will do anything,’ replied Kate, ‘if you will only send me home.’
+‘I will do anything,’ replied Kate, ‘if you will only send me [[Home|home]].’
 
-‘Well, well, I will,’ said Ralph; ‘but you must get back your own looks;
+‘[[Well]], [[Well|well]], I will,’ said Ralph; ‘but you must get back your own looks;
 for those you have, will frighten them, and nobody must know of this but
 you and I. Now let us walk the other way. There. You look better even
 now.’
 
-With such encouragements as these, Ralph Nickleby walked to and fro,
+With such encouragements as these, [[Ralph Nickleby]] walked to and fro,
 with his niece leaning on his arm; actually trembling beneath her touch.
 
 In the same manner, when he judged it prudent to allow her to depart, he
 supported her downstairs, after adjusting her shawl and performing such
-little offices, most probably for the first time in his life. Across
+little offices, most probably for the first [[Time|time]] in his life. Across
 the hall, and down the steps, Ralph led her too; nor did he withdraw his
 hand until she was seated in the coach.
 
@@ -748,14 +748,14 @@ As the door of the vehicle was roughly closed, a comb fell from Kate’s
 hair, close at her uncle’s feet; and as he picked it up, and returned it
 into her hand, the light from a neighbouring lamp shone upon her face.
 The lock of hair that had escaped and curled loosely over her brow, the
-traces of tears yet scarcely dry, the flushed cheek, the look of sorrow,
+traces of [[Tears|tears]] yet scarcely dry, the flushed cheek, the look of sorrow,
 all fired some dormant train of recollection in the old man’s breast;
 and the face of his dead brother seemed present before him, with the
 very look it bore on some occasion of boyish grief, of which every
 minutest circumstance flashed upon his mind, with the distinctness of a
 scene of yesterday.
 
-Ralph Nickleby, who was proof against all appeals of blood
+[[Ralph Nickleby]], who was proof against all appeals of [[Blood|blood]]
 and kindred--who was steeled against every tale of sorrow and
-distress--staggered while he looked, and went back into his house, as a
-man who had seen a spirit from some world beyond the grave.
+distress--staggered while he looked, and went back into his [[house]], as a
+man who had seen a spirit from some world beyond the [[Grave|grave]].

@@ -22,7 +22,7 @@ direction touching the supper: as, ‘Very brown, ma;’ or, to her sister,
 
 Meantime her father, chinking Mr Rokesmith’s gold as he sat expectant
 between his knife and fork, remarked that six of those sovereigns came
-just in time for their landlord, and stood them in a little pile on the
+just in [[Time|time]] for their landlord, and stood them in a little pile on the
 white tablecloth to look at.
 
 ‘I hate our landlord!’ said Bella.
@@ -33,13 +33,13 @@ It was one of the girl’s spoilt ways to be always arranging the family’s
 hair—perhaps because her own was so pretty, and occupied so much of her
 attention.
 
-‘You deserve to have a house of your own; don’t you, poor pa?’
+‘You deserve to have a [[house]] of your own; don’t you, poor pa?’
 
 ‘I don’t deserve it better than another, my dear.’
 
 ‘At any rate I, for one, want it more than another,’ said Bella, holding
 him by the chin, as she stuck his flaxen hair on end, ‘and I grudge
-this money going to the Monster that swallows up so much, when we all
+this money going to the [[Monster]] that swallows up so much, when we all
 want—Everything. And if you say (as you want to say; I know you want
 to say so, pa) “that’s neither reasonable nor honest, Bella,” then I
 answer, “Maybe not, pa—very likely—but it’s one of the consequences
@@ -52,18 +52,18 @@ However, as it was brown, even to Bella’s taste, the young lady
 graciously partook of it without reconsignment to the frying-pan, and
 also, in due course, of the contents of the two bottles: whereof
 one held Scotch ale and the other rum. The latter perfume, with
-the fostering aid of boiling water and lemon-peel, diffused itself
+the fostering aid of boiling [[Water|water]] and lemon-peel, diffused itself
 throughout the room, and became so highly concentrated around the warm
-fireside, that the wind passing over the house roof must have rushed off
+fireside, that the [[Wind|wind]] passing over the [[house]] roof must have rushed off
 charged with a delicious whiff of it, after buzzing like a great bee at
 that particular chimneypot.
 
 ‘Pa,’ said Bella, sipping the fragrant mixture and warming her favourite
-ankle; ‘when old Mr Harmon made such a fool of me (not to mention
+ankle; ‘when old Mr Harmon made such a [[Fool|fool]] of me (not to mention
 himself, as he is dead), what do you suppose he did it for?’
 
-‘Impossible to say, my dear. As I have told you time out of number since
-his will was brought to light, I doubt if I ever exchanged a hundred
+‘Impossible to say, my dear. As I have told you [[Time|time]] out of number since
+his will was brought to light, I [[Doubt|doubt]] if I ever exchanged a hundred
 words with the old gentleman. If it was his whim to surprise us, his
 whim succeeded. For he certainly did it.’
 
@@ -73,7 +73,7 @@ me; was I?’ said Bella, contemplating the ankle before mentioned.
 ‘You were stamping your little foot, my dear, and screaming with your
 little voice, and laying into me with your little bonnet, which you
 had snatched off for the purpose,’ returned her father, as if the
-remembrance gave a relish to the rum; ‘you were doing this one Sunday
+remembrance gave a relish to the rum; ‘you were doing this one [[Sunday]]
 morning when I took you out, because I didn’t go the exact way you
 wanted, when the old gentleman, sitting on a seat near, said, “That’s a
 nice girl; that’s a VERY nice girl; a promising girl!” And so you were,
@@ -81,11 +81,11 @@ my dear.’
 
 ‘And then he asked my name, did he, pa?’
 
-‘Then he asked your name, my dear, and mine; and on other Sunday
+‘Then he asked your name, my dear, and mine; and on other [[Sunday]]
 mornings, when we walked his way, we saw him again, and—and really
 that’s all.’
 
-As that was all the rum and water too, or, in other words, as R. W.
+As that was all the rum and [[Water|water]] too, or, in other words, as R. W.
 delicately signified that his glass was empty, by throwing back his head
 and standing the glass upside down on his nose and upper lip, it might
 have been charitable in Mrs Wilfer to suggest replenishment. But that
@@ -93,7 +93,7 @@ heroine briefly suggesting ‘Bedtime’ instead, the bottles were put away,
 and the family retired; she cherubically escorted, like some severe
 saint in a painting, or merely human matron allegorically treated.
 
-‘And by this time to-morrow,’ said Lavinia when the two girls were alone
+‘And by this [[Time|time]] to-morrow,’ said [[Lavinia]] when the two girls were [[Alone|alone]]
 in their room, ‘we shall have Mr Rokesmith here, and shall be expecting
 to have our throats cut.’
 
@@ -106,7 +106,7 @@ and a few inches of looking-glass!’
 it are.’
 
 ‘You low little thing. Caught George Sampson with it! Don’t talk about
-catching people, miss, till your own time for catching—as you call
+catching people, miss, till your own [[Time|time]] for catching—as you call
 it—comes.’
 
 ‘Perhaps it has come,’ muttered Lavvy, with a toss of her head.

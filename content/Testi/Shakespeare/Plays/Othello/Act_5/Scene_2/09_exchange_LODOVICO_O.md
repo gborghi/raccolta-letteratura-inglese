@@ -1,5 +1,5 @@
 ---
-title: "Othello — Act V, Scene 2 — exchange (LODOVICO O) [9]"
+title: "[[Othello]] — Act V, Scene 2 — exchange (LODOVICO O) [9]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/OTHELLO-(Shakespeare)"
@@ -17,7 +17,7 @@ tags:
 |---|---|
 | LODOVICO | O bloody period! |
 | GRAZIANO | All that is spoke is marred. |
-| OTHELLO | (to Desdemona) I kissed thee ere I killed thee. No way but this: Killing myself, to die upon a kiss. He kisses Desdemona and dies |
-| CASSIO | This did I fear, but thought he had no weapon, For he was great of heart. |
-| LODOVICO | (to Iago) O Spartan dog, More fell than anguish, hunger, or the sea, Look on the tragic loading of this bed. This is thy work. The object poisons sight. Let it be hid. They close the bed-curtains  Graziano, keep the house, And seize upon the fortunes of the Moor, For they succeed on you. (To Cassio) To you, Lord Governor, Remains the censure of this hellish villain. The time, the place, the torture, O, enforce it! Myself will straight aboard, and to the state This heavy act with heavy heart relate. Exeunt with Emilia’s bodyl |
-| THE HISTORY OF KING | LEAR |
+| [[Othello|OTHELLO]] | (to [[Desdemona]]) I kissed thee ere I killed thee. No way but this: Killing myself, to die upon a kiss. He kisses [[Desdemona]] and dies |
+| [[Cassio|CASSIO]] | This did I [[Fear|fear]], but thought he had no weapon, For he was great of heart. |
+| LODOVICO | (to [[Iago]]) O Spartan dog, More fell than anguish, hunger, or the sea, Look on the tragic loading of this bed. This is thy work. The object poisons sight. Let it be hid. They close the bed-curtains  Graziano, keep the [[house]], And seize upon the fortunes of the Moor, For they succeed on you. (To [[Cassio]]) To you, Lord Governor, Remains the censure of this hellish [[Villain|villain]]. The [[Time|time]], the place, the torture, O, enforce it! Myself will straight aboard, and to the state This heavy act with heavy heart relate. Exeunt with [[Emilia]]’s bodyl |
+| THE [[history|HISTORY]] OF [[King|KING]] | LEAR |

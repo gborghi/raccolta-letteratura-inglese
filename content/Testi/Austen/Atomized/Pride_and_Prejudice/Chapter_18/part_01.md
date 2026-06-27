@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 18 (part 1)"
+title: "[[Pride and Prejudice]] — Chapter 18 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -21,7 +21,7 @@ CHAPTER XVIII.
 
 Till Elizabeth entered the drawing-room at Netherfield, and looked in
 vain for Mr. Wickham among the cluster of red coats there assembled, a
-doubt of his being present had never occurred to her. The certainty of
+[[Doubt|doubt]] of his being present had never occurred to her. The certainty of
 meeting him had not been checked by any of those recollections that
 might not unreasonably have alarmed her. She had dressed with more than
 usual care, and prepared in the highest spirits for the conquest of all
@@ -46,12 +46,12 @@ disappointment, that she could hardly reply with tolerable civility to
 the polite inquiries which he directly afterwards approached to make.
 Attention, forbearance, patience with Darcy, was injury to Wickham. She
 was resolved against any sort of conversation with him, and turned away
-with a degree of ill-humour which she could not wholly surmount even in
+with a degree of ill-[[Humour|humour]] which she could not wholly surmount even in
 speaking to Mr. Bingley, whose blind partiality provoked her.
 
-But Elizabeth was not formed for ill-humour; and though every prospect
+But Elizabeth was not formed for ill-[[Humour|humour]]; and though every prospect
 of her own was destroyed for the evening, it could not dwell long on her
-spirits; and, having told all her griefs to Charlotte Lucas, whom she
+spirits; and, having told all her griefs to [[Charlotte Lucas]], whom she
 had not seen for a week, she was soon able to make a voluntary
 transition to the oddities of her cousin, and to point him out to her
 particular notice. The two first dances, however, brought a return of
@@ -63,7 +63,7 @@ release from him was ecstasy.
 
 She danced next with an officer, and had the refreshment of talking of
 Wickham, and of hearing that he was universally liked. When those dances
-were over, she returned to Charlotte Lucas, and was in conversation with
+were over, she returned to [[Charlotte Lucas]], and was in conversation with
 her, when she found herself suddenly addressed by Mr. Darcy, who took
 her so much by surprise in his application for her hand, that, without
 knowing what she did, she accepted him. He walked away again
@@ -83,22 +83,22 @@ in the eyes of a man often times his consequence. Elizabeth made no
 answer, and took her place in the set, amazed at the dignity to which
 she was arrived in being allowed to stand opposite to Mr. Darcy, and
 reading in her neighbours’ looks their equal amazement in beholding it.
-They stood for some time without speaking a word; and she began to
-imagine that their silence was to last through the two dances, and, at
+They stood for some [[Time|time]] without speaking a word; and she began to
+imagine that their [[Silence|silence]] was to last through the two dances, and, at
 first, was resolved not to break it; till suddenly fancying that it
 would be the greater punishment to her partner to oblige him to talk,
-she made some slight observation on the dance. He replied, and was again
-silent. After a pause of some minutes, she addressed him a second time,
+she made some slight observation on the [[Dance|dance]]. He replied, and was again
+silent. After a pause of some minutes, she addressed him a second [[Time|time]],
 with--
 
 “It is _your_ turn to say something now, Mr. Darcy. _I_ talked about the
-dance, and _you_ ought to make some kind of remark on the size of the
+[[Dance|dance]], and _you_ ought to make some kind of remark on the size of the
 room, or the number of couples.”
 
 He smiled, and assured her that whatever she wished him to say should be
 said.
 
-“Very well; that reply will do for the present. Perhaps, by-and-by, I
+“Very [[Well|well]]; that reply will do for the present. Perhaps, by-and-by, I
 may observe that private balls are much pleasanter than public ones; but
 _now_ we may be silent.”
 
@@ -125,9 +125,9 @@ think it a faithful portrait, undoubtedly.”
 “I must not decide on my own performance.”
 
 He made no answer; and they were again silent till they had gone down
-the dance, when he asked her if she and her sisters did not very often
+the [[Dance|dance]], when he asked her if she and her sisters did not very often
 walk to Meryton. She answered in the affirmative; and, unable to resist
-the temptation, added, “When you met us there the other day, we had just
+the [[Temptation|temptation]], added, “When you met us there the other day, we had just
 been forming a new acquaintance.”
 
 The effect was immediate. A deeper shade of _hauteur_ overspread his

@@ -21,22 +21,22 @@ occasional incoherence and distraction which she was not at all
 unwilling to display. The Major gave her abundant opportunities of
 exhibiting this emotion: being profuse in his complaints, at dinner, of
 her desertion of him and Princess’s Place: and as he appeared to derive
-great enjoyment from making them, they all got on very well.
+great enjoyment from making them, they all got on very [[Well|well]].
 
 None the worse on account of the Major taking charge of the whole
 conversation, and showing as great an appetite in that respect as in
 regard of the various dainties on the table, among which he may be
 almost said to have wallowed: greatly to the aggravation of his
-inflammatory tendencies. Mr Dombey’s habitual silence and reserve
+inflammatory tendencies. Mr Dombey’s habitual [[Silence|silence]] and reserve
 yielding readily to this usurpation, the Major felt that he was coming
 out and shining: and in the flow of spirits thus engendered, rang such
 an infinite number of new changes on his own name that he quite
-astonished himself. In a word, they were all very well pleased. The
+astonished himself. In a word, they were all very [[Well|well]] pleased. The
 Major was considered to possess an inexhaustible fund of conversation;
 and when he took a late farewell, after a long rubber, Mr Dombey again
 complimented the blushing Miss Tox on her neighbour and acquaintance.
 
-But all the way home to his own hotel, the Major incessantly said to
+But all the way [[Home|home]] to his own hotel, the Major incessantly said to
 himself, and of himself, “Sly, Sir—sly, Sir—de-vil-ish sly!” And when
 he got there, sat down in a chair, and fell into a silent fit of
 laughter, with which he was sometimes seized, and which was always
@@ -50,16 +50,16 @@ when that was a little better burst into such ejaculations as the
 following:
 
 “Would you, Ma’am, would you? Mrs Dombey, eh, Ma’am? I think not,
-Ma’am. Not while Joe B. can put a spoke in your wheel, Ma’am. J. B.“s
+Ma’am. Not while Joe B. can put a spoke in your [[Wheel|wheel]], Ma’am. J. B.“s
 even with you now, Ma’am. He isn’t altogether bowled out, yet, Sir,
 isn’t Bagstock. She’s deep, Sir, deep, but Josh is deeper. Wide awake
-is old Joe—broad awake, and staring, Sir!” There was no doubt of this
+is old Joe—broad awake, and staring, Sir!” There was no [[Doubt|doubt]] of this
 last assertion being true, and to a very fearful extent; as it
-continued to be during the greater part of that night, which the Major
+continued to be during the greater part of that [[Night|night]], which the Major
 chiefly passed in similar exclamations, diversified with fits of
-coughing and choking that startled the whole house.
+coughing and choking that startled the whole [[house]].
 
-It was on the day after this occasion (being Sunday) when, as Mr
+It was on the day after this occasion (being [[Sunday]]) when, as Mr
 Dombey, Mrs Chick, and Miss Tox were sitting at breakfast, still
 eulogising the Major, Florence came running in: her face suffused with
 a bright colour, and her eyes sparkling joyfully: and cried,
@@ -72,7 +72,7 @@ a bright colour, and her eyes sparkling joyfully: and cried,
 the presence with too much familiarity. “Who found me when I was lost.”
 
 “Does she mean young Gay, Louisa?” inquired Mr Dombey, knitting his
-brows. “Really, this child’s manners have become very boisterous. She
+brows. “Really, this [[Child|child]]’s manners have become very boisterous. She
 cannot mean young Gay, I think. See what it is, will you?”
 
 Mrs Chick hurried into the passage, and returned with the information
@@ -85,7 +85,7 @@ should signify that he might approach.
 matter? Who sent you down here? Was there nobody else to come?”
 
 “I beg your pardon, Sir,” returned Walter. “I have not been sent. I
-have been so bold as to come on my own account, which I hope you’ll
+have been so bold as to come on my own account, which I [[Hope|hope]] you’ll
 pardon when I mention the cause.
 
 But Mr Dombey, without attending to what he said, was looking
@@ -96,11 +96,11 @@ at some object behind.
 mistake in the door, Sir.”
 
 “Oh, I’m very sorry to intrude with anyone, Sir,” cried Walter,
-hastily: “but this is—this is Captain Cuttle, Sir.”
+hastily: “but this is—this is [[Captain Cuttle]], Sir.”
 
 “Wal”r, my lad,” observed the Captain in a deep voice: “stand by!”
 
-At the same time the Captain, coming a little further in, brought out
+At the same [[Time|time]] the Captain, coming a little further in, brought out
 his wide suit of blue, his conspicuous shirt-collar, and his knobby
 nose in full relief, and stood bowing to Mr Dombey, and waving his hook
 politely to the ladies, with the hard glazed hat in his one hand, and a
@@ -118,20 +118,20 @@ that could not fail to propitiate all parties, “Wal”r, standby!”
 
 “I am afraid, Sir,” began Walter, trembling, and looking down at the
 ground, “that I take a very great liberty in coming—indeed, I am sure I
-do. I should hardly have had the courage to ask to see you, Sir, even
+do. I should hardly have had the [[Courage|courage]] to ask to see you, Sir, even
 after coming down, I am afraid, if I had not overtaken Miss Dombey,
 and—”
 
-“Well!” said Mr Dombey, following his eyes as he glanced at the
+“[[Well]]!” said Mr Dombey, following his eyes as he glanced at the
 attentive Florence, and frowning unconsciously as she encouraged him
 with a smile. “Go on, if you please.”
 
 “Ay, ay,” observed the Captain, considering it incumbent on him, as a
-point of good breeding, to support Mr Dombey. “Well said! Go on,
+point of good breeding, to support Mr Dombey. “[[Well]] said! Go on,
 Wal”r.”
 
-Captain Cuttle ought to have been withered by the look which Mr Dombey
+[[Captain Cuttle]] ought to have been withered by the look which Mr Dombey
 bestowed upon him in acknowledgment of his patronage. But quite
-innocent of this, he closed one eye in reply, and gave Mr Dombey to
+[[Innocent|innocent]] of this, he closed one eye in reply, and gave Mr Dombey to
 understand, by certain significant motions of his hook, that Walter was
 a little bashful at first, and might be expected to come out shortly.

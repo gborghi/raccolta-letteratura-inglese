@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 37 (part 7)"
+title: "[[Shirley]] — Chapter 37 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -20,7 +20,7 @@ insight the author portrays the souls of men and women, and her study of
 
 a weak man and a strong woman has rarely been surpassed in English
 
-literature for dramatic power and moral truth.
+literature for dramatic power and moral [[Truth|truth]].
 
 
 
@@ -32,9 +32,9 @@ literature for dramatic power and moral truth.
 
 This, the shortest and the most exquisite of George Eliot's tales,
 
-represents her great powers at their best. In the picture of the hero
+represents her great powers at their best. In the picture of the [[Hero|hero]]
 
-she shows a profound understanding of human nature, and the feelings
+she shows a profound understanding of human [[Nature|nature]], and the feelings
 
 which were then moving rural and industrial England.
 
@@ -56,7 +56,7 @@ One of the Waverley novels which has always been deservedly popular.
 
 
 
-The story is a tragedy on the lines of Greek drama, and the ending has
+The story is a [[Tragedy|tragedy]] on the lines of Greek drama, and the ending has
 
 been pronounced by great critics to be the most moving in prose
 
@@ -90,7 +90,7 @@ daughter.
 
 
 
-=Tom Cringle's Log.= MICHAEL SCOTT.
+=Tom Cringle's Log.= [[Michael|MICHAEL]] SCOTT.
 
 
 
@@ -98,7 +98,7 @@ A brilliant story of West Indian life by an author who combined abundant
 
 personal experience with keen observation, sprightly temper, and
 
-delightful humour. "Tom Cringle's Log" has been many times reprinted,
+delightful [[Humour|humour]]. "Tom Cringle's Log" has been many times reprinted,
 
 and has lost nothing of its popularity and power to please.
 
@@ -106,17 +106,17 @@ and has lost nothing of its popularity and power to please.
 
 
 
-=Lamb's Tales from Shakespeare.=
+=[[Lamb]]'s Tales from Shakespeare.=
 
 
 
 Tens of thousands of readers have been led to Shakespeare by the
 
-charmingly told stories which Charles and Mary Lamb, about a hundred
+charmingly told stories which Charles and Mary [[Lamb]], about a hundred
 
 years ago, extracted from the plays of the greatest dramatist of all
 
-time. Though produced by Lamb at the very outset of his literary career,
+[[Time|time]]. Though produced by [[Lamb]] at the very outset of his literary career,
 
 these stories betray that unique and finished art, that delightful
 
@@ -138,7 +138,7 @@ On its first appearance, in 1850, it immediately leaped high into public
 
 favour, and attained the distinction of an unmistakable classic. The
 
-tragedy of Hester Prynne and Arthur Dimmesdale is wrought out in the
+[[Tragedy|tragedy]] of Hester Prynne and [[Arthur]] Dimmesdale is wrought out in the
 
 midst of an austere Puritan community, which exacts the bitterest
 
@@ -186,7 +186,7 @@ CONDENSED LIST.
 
     10. The Old Curiosity Shop.
 
-    11. Oliver Twist.
+    11. [[Oliver Twist]].
 
     12. Kenilworth.
 
@@ -212,23 +212,23 @@ CONDENSED LIST.
 
     23. The Channings.
 
-    24. The Pilgrim's Progress.
+    24. The [[Pilgrim]]'s Progress.
 
-    25. Pride and Prejudice.
+    25. [[Pride and Prejudice]].
 
     26. Quentin Durward.
 
-    27. Villette.
+    27. [[Villette]].
 
     28. Hard Times.
 
-    29. Child's History of England.
+    29. [[Child]]'s [[history|History]] of England.
 
-    30. The Bible in Spain.
+    30. The [[Bible]] in Spain.
 
     31. Gulliver's Travels.
 
-    32. Sense and Sensibility.
+    32. [[Sense and Sensibility]].
 
     33. Kate Coventry.
 
@@ -252,7 +252,7 @@ CONDENSED LIST.
 
     43. A Book of Golden Deeds.
 
-    44. Great Expectations.
+    44. [[Great Expectations]].
 
     45. Guy Mannering.
 
@@ -268,7 +268,7 @@ CONDENSED LIST.
 
     51. The Vicar of Wakefield.
 
-    52. Emma.
+    52. [[Emma]].
 
     53. Lavengro.
 
@@ -280,11 +280,11 @@ CONDENSED LIST.
 
     57. Tom Cringle's Log.
 
-    58. Lamb's Tales from Shakespeare.
+    58. [[Lamb]]'s Tales from Shakespeare.
 
     59. The Scarlet Letter.
 
-    60. Old Mortality.
+    60. Old [[Mortality]].
 
     61. The Romany Rye.
 
@@ -304,19 +304,19 @@ CONDENSED LIST.
 
     69. Fair Maid of Perth.
 
-    70. Parables from Nature.
+    70. Parables from [[Nature]].
 
     71. Peg Woffington.
 
-    72. Windsor Castle.
+    72. Windsor [[Castle]].
 
-    73. Edmund Burke.
+    73. [[Edmund]] Burke.
 
     74. Ingoldsby Legends.
 
-    75. Pickwick Papers.--I.
+    75. [[Pickwick]] Papers.--I.
 
-    76. Pickwick Papers.--II.
+    76. [[Pickwick]] Papers.--II.
 
     77. Verdant Green.
 
@@ -326,17 +326,17 @@ CONDENSED LIST.
 
     80. Two Years Before the Mast.
 
-    81. Jane Eyre.
+    81. [[Jane Eyre]].
 
-    82. David Copperfield.--I.
+    82. [[David Copperfield]].--I.
 
-    83. David Copperfield.--II.
+    83. [[David Copperfield]].--II.
 
     84. Hereward the Wake.
 
     85. Wide Wide World.
 
-    86. Michael Strogoff.
+    86. [[Michael]] Strogoff.
 
 
 
@@ -498,17 +498,17 @@ THOMAS NELSON AND SONS.
 
     Page 145
 
-    stones on the road? _changed to_
+    stones on the [[Road|road]]? _changed to_
 
-    stones on the road.
+    stones on the [[Road|road]].
 
 
 
     Page 393
 
-    "Shirley, my woman _changed to_
+    "[[Shirley]], my woman _changed to_
 
-    'Shirley, my woman
+    '[[Shirley]], my woman
 
 
 

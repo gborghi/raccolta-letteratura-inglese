@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 10 (part 1)"
+title: "[[Emma]] — Chapter 10 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -17,13 +17,13 @@ tags:
 CHAPTER X
 
 
-One morning, about ten days after Mrs. Churchill’s decease, Emma was
+One morning, about ten days after Mrs. Churchill’s decease, [[Emma]] was
 called downstairs to Mr. Weston, who “could not stay five minutes, and
 wanted particularly to speak with her.”—He met her at the parlour-door,
 and hardly asking her how she did, in the natural key of his voice,
 sunk it immediately, to say, unheard by her father,
 
-“Can you come to Randalls at any time this morning?—Do, if it be
+“Can you come to Randalls at any [[Time|time]] this morning?—Do, if it be
 possible. Mrs. Weston wants to see you. She must see you.”
 
 “Is she unwell?”
@@ -37,23 +37,23 @@ you ask in such a way. But what can be the matter?—Is she really not
 ill?”
 
 “Depend upon me—but ask no more questions. You will know it all in
-time. The most unaccountable business! But hush, hush!”
+[[Time|time]]. The most unaccountable business! But hush, hush!”
 
-To guess what all this meant, was impossible even for Emma. Something
+To guess what all this meant, was impossible even for [[Emma]]. Something
 really important seemed announced by his looks; but, as her friend was
-well, she endeavoured not to be uneasy, and settling it with her
+[[Well|well]], she endeavoured not to be uneasy, and settling it with her
 father, that she would take her walk now, she and Mr. Weston were soon
-out of the house together and on their way at a quick pace for
+out of the [[house]] together and on their way at a quick pace for
 Randalls.
 
-“Now,”—said Emma, when they were fairly beyond the sweep gates,—“now
+“Now,”—said [[Emma]], when they were fairly beyond the sweep gates,—“now
 Mr. Weston, do let me know what has happened.”
 
 “No, no,”—he gravely replied.—“Don’t ask me. I promised my wife to
 leave it all to her. She will break it to you better than I can. Do not
-be impatient, Emma; it will all come out too soon.”
+be impatient, [[Emma]]; it will all come out too soon.”
 
-“Break it to me,” cried Emma, standing still with terror.—“Good
+“Break it to me,” cried [[Emma]], standing still with terror.—“Good
 God!—Mr. Weston, tell me at once.—Something has happened in Brunswick
 Square. I know it has. Tell me, I charge you tell me this moment what
 it is.”
@@ -64,29 +64,29 @@ it is.”
 friends are now in Brunswick Square. Which of them is it?—I charge you
 by all that is sacred, not to attempt concealment.”
 
-“Upon my word, Emma.”—
+“Upon my word, [[Emma]].”—
 
-“Your word!—why not your honour!—why not say upon your honour, that it
+“Your word!—why not your [[Honour|honour]]!—why not say upon your [[Honour|honour]], that it
 has nothing to do with any of them? Good Heavens!—What can be to be
 _broke_ to me, that does not relate to one of that family?”
 
-“Upon my honour,” said he very seriously, “it does not. It is not in
+“Upon my [[Honour|honour]],” said he very seriously, “it does not. It is not in
 the smallest degree connected with any human being of the name of
 Knightley.”
 
-Emma’s courage returned, and she walked on.
+[[Emma]]’s [[Courage|courage]] returned, and she walked on.
 
 “I was wrong,” he continued, “in talking of its being _broke_ to you. I
 should not have used the expression. In fact, it does not concern
-you—it concerns only myself,—that is, we hope.—Humph!—In short, my dear
-Emma, there is no occasion to be so uneasy about it. I don’t say that
+you—it concerns only myself,—that is, we [[Hope|hope]].—Humph!—In short, my dear
+[[Emma]], there is no occasion to be so uneasy about it. I don’t say that
 it is not a disagreeable business—but things might be much worse.—If we
 walk fast, we shall soon be at Randalls.”
 
-Emma found that she must wait; and now it required little effort. She
+[[Emma]] found that she must wait; and now it required little effort. She
 asked no more questions therefore, merely employed her own fancy, and
 that soon pointed out to her the probability of its being some money
-concern—something just come to light, of a disagreeable nature in the
+concern—something just come to light, of a disagreeable [[Nature|nature]] in the
 circumstances of the family,—something which the late event at Richmond
 had brought forward. Her fancy was very active. Half a dozen natural
 children, perhaps—and poor Frank cut off!—This, though very
@@ -98,39 +98,39 @@ proceeded—speaking more to assist Mr. Weston in keeping his secret,
 than with any other view.
 
 “I do not know.—One of the Otways.—Not Frank;—it is not Frank, I assure
-you. You will not see him. He is half way to Windsor by this time.”
+you. You will not see him. He is half way to Windsor by this [[Time|time]].”
 
 “Has your son been with you, then?”
 
-“Oh! yes—did not you know?—Well, well, never mind.”
+“Oh! yes—did not you know?—[[Well]], [[Well|well]], never mind.”
 
 For a moment he was silent; and then added, in a tone much more guarded
 and demure,
 
 “Yes, Frank came over this morning, just to ask us how we did.”
 
-They hurried on, and were speedily at Randalls.—“Well, my dear,” said
-he, as they entered the room—“I have brought her, and now I hope you
+They hurried on, and were speedily at Randalls.—“[[Well]], my dear,” said
+he, as they entered the room—“I have brought her, and now I [[Hope|hope]] you
 will soon be better. I shall leave you together. There is no use in
-delay. I shall not be far off, if you want me.”—And Emma distinctly
+delay. I shall not be far off, if you want me.”—And [[Emma]] distinctly
 heard him add, in a lower tone, before he quitted the room,—“I have
 been as good as my word. She has not the least idea.”
 
 Mrs. Weston was looking so ill, and had an air of so much perturbation,
-that Emma’s uneasiness increased; and the moment they were alone, she
+that [[Emma]]’s uneasiness increased; and the moment they were [[Alone|alone]], she
 eagerly said,
 
-“What is it my dear friend? Something of a very unpleasant nature, I
+“What is it my dear friend? Something of a very unpleasant [[Nature|nature]], I
 find, has occurred;—do let me know directly what it is. I have been
 walking all this way in complete suspense. We both abhor suspense. Do
 not let mine continue longer. It will do you good to speak of your
 distress, whatever it may be.”
 
 “Have you indeed no idea?” said Mrs. Weston in a trembling voice.
-“Cannot you, my dear Emma—cannot you form a guess as to what you are to
+“Cannot you, my dear [[Emma]]—cannot you form a guess as to what you are to
 hear?”
 
-“So far as that it relates to Mr. Frank Churchill, I do guess.”
+“So far as that it relates to Mr. [[Frank Churchill]], I do guess.”
 
 “You are right. It does relate to him, and I will tell you directly;”
 (resuming her work, and seeming resolved against looking up.) “He has
@@ -138,23 +138,23 @@ been here this very morning, on a most extraordinary errand. It is
 impossible to express our surprize. He came to speak to his father on a
 subject,—to announce an attachment—”
 
-She stopped to breathe. Emma thought first of herself, and then of
+She stopped to breathe. [[Emma]] thought first of herself, and then of
 Harriet.
 
 “More than an attachment, indeed,” resumed Mrs. Weston; “an
-engagement—a positive engagement.—What will you say, Emma—what will any
-body say, when it is known that Frank Churchill and Miss Fairfax are
+engagement—a positive engagement.—What will you say, [[Emma]]—what will any
+[[Body|body]] say, when it is known that [[Frank Churchill]] and Miss Fairfax are
 engaged;—nay, that they have been long engaged!”
 
-Emma even jumped with surprize;—and, horror-struck, exclaimed,
+[[Emma]] even jumped with surprize;—and, horror-struck, exclaimed,
 
-“Jane Fairfax!—Good God! You are not serious? You do not mean it?”
+“[[Jane Fairfax]]!—Good God! You are not serious? You do not mean it?”
 
-“You may well be amazed,” returned Mrs. Weston, still averting her
-eyes, and talking on with eagerness, that Emma might have time to
-recover— “You may well be amazed. But it is even so. There has been a
+“You may [[Well|well]] be amazed,” returned Mrs. Weston, still averting her
+eyes, and talking on with eagerness, that [[Emma]] might have [[Time|time]] to
+recover— “You may [[Well|well]] be amazed. But it is even so. There has been a
 solemn engagement between them ever since October—formed at Weymouth,
-and kept a secret from every body. Not a creature knowing it but
+and kept a secret from every [[Body|body]]. Not a creature knowing it but
 themselves—neither the Campbells, nor her family, nor his.—It is so
 wonderful, that though perfectly convinced of the fact, it is yet
 almost incredible to myself. I can hardly believe it.—I thought I knew

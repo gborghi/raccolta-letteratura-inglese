@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Doom of the Darnaways (part 8)"
+title: "[[Incredulity]] — The Doom of the Darnaways (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -22,7 +22,7 @@ But who murdered him?'
 And as Father Brown says, murder is at least done by the will,
 free as that wind from the sea.'
 
-`Father Brown is a wonderful person,' she said after a pause;
+`[[Father Brown]] is a wonderful person,' she said after a pause;
 `he was the only person who ever brightened my existence
 in any way at all until--`
 
@@ -30,7 +30,7 @@ in any way at all until--`
 leaning towards her and thrusting away the bronze monster so that it
 seemed to rock on its pedestal.
 
-`Well, until you did,' she said and smiled again.
+`[[Well]], until you did,' she said and smiled again.
 
 So was the sleeping palace awakened, and it is no part of this story
 to describe the stages of its awakening, though much of it had come
@@ -41,7 +41,7 @@ highest turn of happiness that is given in this mortal life,--
 and the whole red sea within him was at the top of its tide.
 He would have had no difficulty in picturing all that place
 again in flower, and the bronze triton bright as a golden
-god and the fountain flowing with water or with wine.
+god and the fountain flowing with [[Water|water]] or with wine.
 But all this brightness and blossoming had been unfolded for him
 by the one word `murder', and it was still a word that he did
 not understand.  He had taken it on trust, and he was not unwise;
@@ -60,7 +60,7 @@ that he had managed to photograph it with a magnesium flare.
 Before sending it to the antiquary, as originally arranged,
 he brought it to the priest who had so pressingly demanded it.
 
-`I can't understand your attitude about all this.  Father Brown,'
+`I can't understand your attitude about all this.  [[Father Brown]],'
 he said.'  You act as if you had already solved the problem in some
 way of your own.'
 
@@ -76,14 +76,14 @@ and then said:  `Have you got a magnifying glass?'
 Payne produced one, and the priest looked through it
 intently for some time and then said:'  Look at the title
 of that book at the edge of the bookshelf beside the frame;
-it's `The History of Pope Joan'.  Now, I wonder ... yes,
+it's `The [[history|History]] of Pope Joan'.  Now, I [[Wonder|wonder]] ... yes,
 by George; and the one above is something or other of Iceland.
-Lord! what a queer way to find it out!  What a dolt and donkey
+Lord! what a queer way to find it out!  What a dolt and [[donkey]]
 I was not to notice it when I was there!'
 
 `But what have you found out?' asked Payne impatiently.
 
-`The last link,' said Father Brown, `and I'm not stuck any longer.
+`The last link,' said [[Father Brown]], `and I'm not stuck any longer.
 Yes; I think I know how that unhappy story went from first to last now.'
 
 `But why?' insisted the other.
@@ -98,7 +98,7 @@ though it is the last link, is not the main business.
 There were much more curious things in the case than that.
 One of them is rather a curiosity of evidence.
 Let me begin by saying something that may surprise you.
-Darnaway did not die at seven o'clock that evening.
+Darnaway did not die at seven o'[[Clock|clock]] that evening.
 He had been already dead for a whole day.'
 
 `Surprise is rather a mild word,' said Payne grimly, `since you
@@ -121,11 +121,11 @@ and strained attitude.'
 killed Darnaway at daybreak and hid the corpse and himself
 in the dark room--an excellent hiding--place, because nobody
 normally goes into it or can see much if he does.
-But he let it fall out on the floor at seven o'clock, of course,
+But he let it fall out on the floor at seven o'[[Clock|clock]], of course,
 that the whole thing might be explained by the curse.'
 
 `But I don't understand' observed Payne.  `Why didn't he kill him
-at seven o'clock then, instead of loading himself with a corpse
+at seven o'[[Clock|clock]] then, instead of loading himself with a corpse
 for fourteen hours?'
 
 `Let me ask you another question,' said the priest.
@@ -134,13 +134,13 @@ of killing him when he first got up, and before he could take it.
 It was essential to the murderer to prevent that photograph
 reaching the expert on the Darnaway antiquities.'
 
-There was a sudden silence for a moment, and then the priest went on
+There was a sudden [[Silence|silence]] for a moment, and then the priest went on
 in a lower tone:  `Don't you see how simple it is?  Why, you yourself saw
 one side of the possibility; but it's simpler even than you thought.
 You said a man might be faked to resemble an old picture.
 Surely it's simpler that a picture should be faked to resemble a man.
 In plain words, it's true in a rather special way that there was no Doom
 of the Darnaways.  There was no old picture; there was no old rhyme;
-there was no legend of a man who caused his wife's death.
+there was no legend of a man who caused his wife's [[Death|death]].
 But there was a very wicked and a very clever man who was willing
-to cause another man's death in order to rob him of his promised wife.'
+to cause another man's [[Death|death]] in order to rob him of his promised wife.'

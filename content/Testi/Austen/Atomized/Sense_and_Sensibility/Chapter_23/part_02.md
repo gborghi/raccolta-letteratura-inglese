@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 23 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 23 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -34,7 +34,7 @@ confessedly and evidently important. And even Sir John’s joking
 
 intelligence must have had some weight. But indeed, while Elinor
 
-remained so well assured within herself of being really beloved by
+remained so [[Well|well]] assured within herself of being really beloved by
 
 Edward, it required no other consideration of probabilities to make it
 
@@ -50,7 +50,7 @@ She had little difficulty in understanding thus much of her rival’s
 
 intentions, and while she was firmly resolved to act by her as every
 
-principle of honour and honesty directed, to combat her own affection
+principle of [[Honour|honour]] and honesty directed, to combat her own affection
 
 for Edward and to see him as little as possible; she could not deny
 
@@ -66,7 +66,7 @@ ability of going through a repetition of particulars with composure.
 
 But it was not immediately that an opportunity of doing so could be
 
-commanded, though Lucy was as well disposed as herself to take
+commanded, though Lucy was as [[Well|well]] disposed as herself to take
 
 advantage of any that occurred; for the weather was not often fine
 
@@ -94,11 +94,11 @@ One or two meetings of this kind had taken place, without affording
 
 Elinor any chance of engaging Lucy in private, when Sir John called at
 
-the cottage one morning, to beg, in the name of charity, that they
+the cottage one morning, to beg, in the name of [[Charity|charity]], that they
 
 would all dine with Lady Middleton that day, as he was obliged to
 
-attend the club at Exeter, and she would otherwise be quite alone,
+attend the club at Exeter, and she would otherwise be quite [[Alone|alone]],
 
 except her mother and the two Miss Steeles. Elinor, who foresaw a
 
@@ -106,7 +106,7 @@ fairer opening for the point she had in view, in such a party as this
 
 was likely to be, more at liberty among themselves under the tranquil
 
-and well-bred direction of Lady Middleton than when her husband united
+and [[Well|well]]-bred direction of Lady Middleton than when her husband united
 
 them together in one noisy purpose, immediately accepted the
 
@@ -122,7 +122,7 @@ seclude herself from any chance of amusement, to go likewise.
 
 The young ladies went, and Lady Middleton was happily preserved from
 
-the frightful solitude which had threatened her. The insipidity of the
+the frightful [[Solitude|solitude]] which had threatened her. The insipidity of the
 
 meeting was exactly such as Elinor had expected; it produced not one
 
@@ -132,15 +132,15 @@ than the whole of their discourse both in the dining parlour and
 
 drawing room: to the latter, the children accompanied them, and while
 
-they remained there, she was too well convinced of the impossibility of
+they remained there, she was too [[Well|well]] convinced of the impossibility of
 
 engaging Lucy’s attention to attempt it. They quitted it only with the
 
 removal of the tea-things. The card-table was then placed, and Elinor
 
-began to wonder at herself for having ever entertained a hope of
+began to [[Wonder|wonder]] at herself for having ever entertained a [[Hope|hope]] of
 
-finding time for conversation at the park. They all rose up in
+finding [[Time|time]] for conversation at the park. They all [[Rose|rose]] up in
 
 preparation for a round game.
 
@@ -152,9 +152,9 @@ poor little Annamaria’s basket this evening; for I am sure it must hurt
 
 your eyes to work filigree by candlelight. And we will make the dear
 
-little love some amends for her disappointment to-morrow, and then I
+little [[Love|love]] some amends for her disappointment to-morrow, and then I
 
-hope she will not much mind it.”
+[[Hope|hope]] she will not much mind it.”
 
 
 
@@ -172,7 +172,7 @@ resolved to finish the basket after supper.”
 
 
 
-“You are very good, I hope it won’t hurt your eyes—will you ring the
+“You are very good, I [[Hope|hope]] it won’t hurt your eyes—will you ring the
 
 bell for some working candles? My poor little girl would be sadly
 
@@ -188,7 +188,7 @@ Lucy directly drew her work table near her and reseated herself with an
 
 alacrity and cheerfulness which seemed to infer that she could taste no
 
-greater delight than in making a filigree basket for a spoilt child.
+greater delight than in making a filigree basket for a spoilt [[Child|child]].
 
 
 
@@ -216,7 +216,7 @@ made so rude a speech.
 
 said Elinor, endeavouring to smooth away the offence; “and I do not
 
-much wonder at it; for it is the very best toned piano-forte I ever
+much [[Wonder|wonder]] at it; for it is the very best toned piano-forte I ever
 
 heard.”
 
@@ -228,7 +228,7 @@ The remaining five were now to draw their cards.
 
 “Perhaps,” continued Elinor, “if I should happen to cut out, I may be
 
-of some use to Miss Lucy Steele, in rolling her papers for her; and
+of some use to Miss [[Lucy Steele]], in [[rolling]] her papers for her; and
 
 there is so much still to be done to the basket, that it must be
 
@@ -250,13 +250,13 @@ all.”
 
 “Oh! that would be terrible, indeed,” said Miss Steele. “Dear little
 
-soul, how I do love her!”
+[[Soul|soul]], how I do [[Love|love]] her!”
 
 
 
 “You are very kind,” said Lady Middleton to Elinor; “and as you really
 
-like the work, perhaps you will be as well pleased not to cut in till
+like the work, perhaps you will be as [[Well|well]] pleased not to cut in till
 
 another rubber, or will you take your chance now?”
 
@@ -268,7 +268,7 @@ little of that address which Marianne could never condescend to
 
 practise, gained her own end, and pleased Lady Middleton at the same
 
-time. Lucy made room for her with ready attention, and the two fair
+[[Time|time]]. Lucy made room for her with ready attention, and the two fair
 
 rivals were thus seated side by side at the same table, and, with the
 
@@ -276,7 +276,7 @@ utmost harmony, engaged in forwarding the same work. The pianoforte at
 
 which Marianne, wrapped up in her own music and her own thoughts, had
 
-by this time forgotten that any body was in the room besides herself,
+by this [[Time|time]] forgotten that any [[Body|body]] was in the room besides herself,
 
 was luckily so near them that Miss Dashwood now judged she might
 

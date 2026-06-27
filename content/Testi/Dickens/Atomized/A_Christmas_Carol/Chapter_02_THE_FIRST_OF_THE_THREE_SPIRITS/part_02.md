@@ -1,5 +1,5 @@
 ---
-title: "A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 2)"
+title: "A Christmas [[carol|Carol]] — Stave 2: THE FIRST OF THE THREE SPIRITS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Christmas-Carol-(Dickens)"
@@ -19,10 +19,10 @@ or any knowledge of having wilfully "bonneted" the Spirit at
 any period of his life. He then made bold to inquire what
 business brought him there.
 
-"Your welfare!" said the Ghost.
+"Your welfare!" said the [[Ghost]].
 
 Scrooge expressed himself much obliged, but could not
-help thinking that a night of unbroken rest would have been
+help thinking that a [[Night|night]] of unbroken rest would have been
 more conducive to that end. The Spirit must have heard
 him thinking, for it said immediately:
 
@@ -38,9 +38,9 @@ weather and the hour were not adapted to pedestrian purposes;
 that bed was warm, and the thermometer a long way below
 freezing; that he was clad but lightly in his slippers,
 dressing-gown, and nightcap; and that he had a cold upon him at
-that time. The grasp, though gentle as a woman's hand,
-was not to be resisted. He rose: but finding that the Spirit
-made towards the window, clasped his robe in supplication.
+that [[Time|time]]. The grasp, though gentle as a woman's hand,
+was not to be resisted. He [[Rose|rose]]: but finding that the Spirit
+made towards the [[Window|window]], clasped his robe in supplication.
 
 "I am a mortal," Scrooge remonstrated, "and liable to fall."
 
@@ -49,10 +49,10 @@ laying it upon his heart, "and you shall be upheld in more
 than this!"
 
 As the words were spoken, they passed through the wall,
-and stood upon an open country road, with fields on either
-hand. The city had entirely vanished. Not a vestige of it
+and stood upon an open country [[Road|road]], with fields on either
+hand. The [[City|city]] had entirely vanished. Not a vestige of it
 was to be seen. The darkness and the mist had vanished
-with it, for it was a clear, cold, winter day, with snow upon
+with it, for it was a clear, cold, [[Winter|winter]] day, with [[Snow|snow]] upon
 the ground.
 
 "Good Heaven!" said Scrooge, clasping his hands together,
@@ -66,11 +66,11 @@ of a thousand odours floating in the air, each one connected
 with a thousand thoughts, and hopes, and joys, and cares
 long, long, forgotten!
 
-"Your lip is trembling," said the Ghost. "And what is
+"Your lip is trembling," said the [[Ghost]]. "And what is
 that upon your cheek?"
 
 Scrooge muttered, with an unusual catching in his voice,
-that it was a pimple; and begged the Ghost to lead him
+that it was a pimple; and begged the [[Ghost]] to lead him
 where he would.
 
 "You recollect the way?" inquired the Spirit.
@@ -79,11 +79,11 @@ where he would.
 walk it blindfold."
 
 "Strange to have forgotten it for so many years!" observed
-the Ghost. "Let us go on."
+the [[Ghost]]. "Let us go on."
 
-They walked along the road, Scrooge recognising every
+They walked along the [[Road|road]], Scrooge recognising every
 gate, and post, and tree; until a little market-town appeared
-in the distance, with its bridge, its church, and winding river.
+in the distance, with its bridge, its church, and winding [[River|river]].
 Some shaggy ponies now were seen trotting towards them
 with boys upon their backs, who called to other boys in
 country gigs and carts, driven by farmers. All these boys
@@ -92,27 +92,27 @@ broad fields were so full of merry music, that the crisp air
 laughed to hear it!
 
 "These are but shadows of the things that have been," said
-the Ghost. "They have no consciousness of us."
+the [[Ghost]]. "They have no consciousness of us."
 
 The jocund travellers came on; and as they came, Scrooge
 knew and named them every one. Why was he rejoiced beyond
 all bounds to see them! Why did his cold eye glisten, and
 his heart leap up as they went past! Why was he filled
 with gladness when he heard them give each other Merry
-Christmas, as they parted at cross-roads and bye-ways, for
+Christmas, as they parted at [[Cross|cross]]-roads and bye-ways, for
 their several homes! What was merry Christmas to Scrooge?
 Out upon merry Christmas! What good had it ever done
 to him?
 
-"The school is not quite deserted," said the Ghost. "A
-solitary child, neglected by his friends, is left there still."
+"The school is not quite deserted," said the [[Ghost]]. "A
+solitary [[Child|child]], neglected by his friends, is left there still."
 
 Scrooge said he knew it. And he sobbed.
 
-They left the high-road, by a well-remembered lane, and
+They left the high-[[Road|road]], by a [[Well|well]]-remembered lane, and
 soon approached a mansion of dull red brick, with a little
 weathercock-surmounted cupola, on the roof, and a bell
-hanging in it. It was a large house, but one of broken
+hanging in it. It was a large [[house]], but one of broken
 fortunes; for the spacious offices were little used, their walls
 were damp and mossy, their windows broken, and their
 gates decayed. Fowls clucked and strutted in the stables;
@@ -125,33 +125,33 @@ chilly bareness in the place, which associated itself somehow
 with too much getting up by candle-light, and not too
 much to eat.
 
-They went, the Ghost and Scrooge, across the hall, to a
-door at the back of the house. It opened before them, and
-disclosed a long, bare, melancholy room, made barer still by
+They went, the [[Ghost]] and Scrooge, across the hall, to a
+door at the back of the [[house]]. It opened before them, and
+disclosed a long, bare, [[Melancholy|melancholy]] room, made barer still by
 lines of plain deal forms and desks. At one of these a lonely
-boy was reading near a feeble fire; and Scrooge sat down
-upon a form, and wept to see his poor forgotten self as he
+boy was reading near a feeble [[Fire|fire]]; and Scrooge sat down
+upon a form, and wept to see his poor forgotten [[Self|self]] as he
 used to be.
 
-Not a latent echo in the house, not a squeak and scuffle
+Not a latent echo in the [[house]], not a squeak and scuffle
 from the mice behind the panelling, not a drip from the
-half-thawed water-spout in the dull yard behind, not a sigh among
+half-thawed [[Water|water]]-spout in the dull yard behind, not a sigh among
 the leafless boughs of one despondent poplar, not the idle
-swinging of an empty store-house door, no, not a clicking in
-the fire, but fell upon the heart of Scrooge with a softening
-influence, and gave a freer passage to his tears.
+swinging of an empty store-[[house]] door, no, not a clicking in
+the [[Fire|fire]], but fell upon the heart of Scrooge with a softening
+influence, and gave a freer passage to his [[Tears|tears]].
 
 The Spirit touched him on the arm, and pointed to his
-younger self, intent upon his reading. Suddenly a man, in
+younger [[Self|self]], intent upon his reading. Suddenly a man, in
 foreign garments: wonderfully real and distinct to look at:
-stood outside the window, with an axe stuck in his belt, and
+stood outside the [[Window|window]], with an axe stuck in his belt, and
 leading by the bridle an ass laden with wood.
 
 "Why, it's Ali Baba!" Scrooge exclaimed in ecstasy. "It's
 dear old honest Ali Baba! Yes, yes, I know! One Christmas
-time, when yonder solitary child was left here all alone,
-he did come, for the first time, just like that. Poor boy! And
-Valentine," said Scrooge, "and his wild brother, Orson; there
+[[Time|time]], when yonder solitary [[Child|child]] was left here all [[Alone|alone]],
+he did come, for the first [[Time|time]], just like that. Poor boy! And
+[[Valentine]]," said Scrooge, "and his wild brother, Orson; there
 they go! And what's his name, who was put down in his
 drawers, asleep, at the Gate of Damascus; don't you see him!
 And the Sultan's Groom turned upside down by the Genii;

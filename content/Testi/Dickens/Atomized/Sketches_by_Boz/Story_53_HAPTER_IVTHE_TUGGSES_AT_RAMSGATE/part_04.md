@@ -18,7 +18,7 @@ tags:
 Miss Charlotta.
 
 A glow of nervous excitement passed over the countenance of Mr. Cymon
-Tuggs, as he replied, ‘An angel of beauty!’
+Tuggs, as he replied, ‘An angel of [[Beauty|beauty]]!’
 
 ‘Hallo!’ said Mr. Joseph Tuggs. ‘Hallo, Cymon, my boy, take care.
 Married lady, you know;’ and he winked one of his twinkling eyes
@@ -35,7 +35,7 @@ There was an impressive solemnity in the tone of this address, and in
 the air with which the romantic Cymon, at its conclusion, rang the
 bell, and demanded a flat candlestick, which effectually forbade a
 reply. He stalked dramatically to bed, and the Tuggses went to bed too,
-half an hour afterwards, in a state of considerable mystification and
+half an hour afterwards, in a state of considerable [[Mystification|mystification]] and
 perplexity.
 
 If the pier had presented a scene of life and bustle to the Tuggses on
@@ -46,18 +46,18 @@ and gentlemen, the same children, the same nursemaids, the same
 telescopes, the same portable chairs. The ladies were employed in
 needlework, or watch-guard making, or knitting, or reading novels; the
 gentlemen were reading newspapers and magazines; the children were
-digging holes in the sand with wooden spades, and collecting water
+digging holes in the sand with wooden spades, and collecting [[Water|water]]
 therein; the nursemaids, with their youngest charges in their arms,
 were running in after the waves, and then running back with the waves
 after them; and, now and then, a little sailing-boat either departed
 with a gay and talkative cargo of passengers, or returned with a very
 silent and particularly uncomfortable-looking one.
 
-‘Well, I never!’ exclaimed Mrs. Tuggs, as she and Mr. Joseph Tuggs, and
+‘[[Well]], I never!’ exclaimed Mrs. Tuggs, as she and Mr. Joseph Tuggs, and
 Miss Charlotta Tuggs, and Mr. Cymon Tuggs, with their eight feet in a
 corresponding number of yellow shoes, seated themselves on four
 rush-bottomed chairs, which, being placed in a soft part of the sand,
-forthwith sunk down some two feet and a half—‘Well, I never!’
+forthwith sunk down some two feet and a half—‘[[Well]], I never!’
 
 Mr. Cymon, by an exertion of great personal strength, uprooted the
 chairs, and removed them further back.
@@ -69,11 +69,11 @@ Joseph Tuggs, with intense astonishment.
 
 ‘There _is_, my dear,’ said Mr. Joseph Tuggs. And, sure enough, four
 young ladies, each furnished with a towel, tripped up the steps of a
-bathing-machine. In went the horse, floundering about in the water;
-round turned the machine; down sat the driver; and presently out burst
+bathing-[[Machine|machine]]. In went the [[Horse|horse]], floundering about in the [[Water|water]];
+round turned the [[Machine|machine]]; down sat the driver; and presently out burst
 the young ladies aforesaid, with four distinct splashes.
 
-‘Well, that’s sing’ler, too!’ ejaculated Mr. Joseph Tuggs, after an
+‘[[Well]], that’s sing’ler, too!’ ejaculated Mr. Joseph Tuggs, after an
 awkward pause. Mr. Cymon coughed slightly.
 
 ‘Why, here’s some gentlemen a-going in on this side!’ exclaimed Mrs.
@@ -81,10 +81,10 @@ Tuggs, in a tone of horror.
 
 Three machines—three horses—three flounderings—three turnings
 round—three splashes—three gentlemen, disporting themselves in the
-water like so many dolphins.
+[[Water|water]] like so many dolphins.
 
-‘Well, _that’s_ sing’ler!’ said Mr. Joseph Tuggs again. Miss Charlotta
-coughed this time, and another pause ensued. It was agreeably broken.
+‘[[Well]], _that’s_ sing’ler!’ said Mr. Joseph Tuggs again. Miss Charlotta
+coughed this [[Time|time]], and another pause ensued. It was agreeably broken.
 
 ‘How d’ye do, dear? We have been looking for you, all the morning,’
 said a voice to Miss Charlotta Tuggs. Mrs. Captain Waters was the owner
@@ -93,7 +93,7 @@ of it.
 ‘How d’ye do?’ said Captain Walter Waters, all suavity; and a most
 cordial interchange of greetings ensued.
 
-‘Belinda, my love,’ said Captain Walter Waters, applying his glass to
+‘Belinda, my [[Love|love]],’ said Captain Walter Waters, applying his glass to
 his eye, and looking in the direction of the sea.
 
 ‘Yes, my dear,’ replied Mrs. Captain Waters.
@@ -106,7 +106,7 @@ his eye, and looking in the direction of the sea.
 
 ‘Lor, so it is! He don’t see us, does he?’
 
-‘No, I don’t think he does’ replied the captain. ‘Bless my soul, how
+‘No, I don’t think he does’ replied the captain. ‘Bless my [[Soul|soul]], how
 very singular!’
 
 ‘What?’ inquired Belinda.
@@ -147,20 +147,20 @@ it sounded very agreeably.
 quite unconscious of the meaning of the correction. ‘However, two shays
 if you like.’
 
-‘I should like a donkey _so_ much,’ said Belinda.
+‘I should like a [[donkey]] _so_ much,’ said Belinda.
 
 ‘Oh, so should I!’ echoed Charlotta Tuggs.
 
-‘Well, we can have a fly,’ suggested the captain, ‘and you can have a
+‘[[Well]], we can have a fly,’ suggested the captain, ‘and you can have a
 couple of donkeys.’
 
 A fresh difficulty arose. Mrs. Captain Waters declared it would be
-decidedly improper for two ladies to ride alone. The remedy was
+decidedly improper for two ladies to ride [[Alone|alone]]. The remedy was
 obvious. Perhaps young Mr. Tuggs would be gallant enough to accompany
 them.
 
 Mr. Cymon Tuggs blushed, smiled, looked vacant, and faintly protested
 that he was no horseman. The objection was at once overruled. A fly was
 speedily found; and three donkeys—which the proprietor declared on his
-solemn asseveration to be ‘three parts blood, and the other corn’—were
+solemn asseveration to be ‘three parts [[Blood|blood]], and the other corn’—were
 engaged in the service.

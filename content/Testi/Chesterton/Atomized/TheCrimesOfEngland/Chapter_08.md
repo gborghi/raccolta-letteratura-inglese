@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 8"
+title: "[[TheCrimesOfEngland]] — Chapter 8"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -18,7 +18,7 @@ CHAPTER VIII
 
 
 
-THE WRONG HORSE
+THE WRONG [[Horse|HORSE]]
 
 
 

@@ -16,23 +16,23 @@ tags:
 
 III
 
-_On Turnpikes and Mediævalism_
+_On [[turnpikes|Turnpikes]] and Mediævalism_
 
 OPENING my newspaper the other day, I saw a short but emphatic
 leaderette entitled "A Relic of Mediævalism." It expressed a profound
 indignation upon the fact that somewhere or other, in some fairly
 remote corner of this country, there is a turnpike-gate, with a toll.
 It insisted that this antiquated tyranny is insupportable,
-because it is supremely important that our road traffic
+because it is supremely important that our [[Road|road]] traffic
 should go very fast; presumably a little faster than it does.
 So it described the momentary delay in this place as a relic
-of mediævalism. I fear the future will look at that sentence,
+of mediævalism. I [[Fear|fear]] the future will look at that sentence,
 somewhat sadly and a little contemptuously, as a very typical relic
-of modernism.  I mean it will be a melancholy relic of the only
-period in all human history when people were proud of being modern.
+of modernism.  I mean it will be a [[Melancholy|melancholy]] relic of the only
+period in all human [[history]] when people were proud of being modern.
 For though today is always today and the moment is always modern,
-we are the only men in all history who fell back upon bragging
-about the mere fact that today is not yesterday.  I fear that some
+we are the only men in all [[history]] who fell back upon bragging
+about the mere fact that today is not yesterday.  I [[Fear|fear]] that some
 in the future will explain it by saying that we had precious little
 else to brag about.  For, whatever the mediæval faults, they went
 with one merit.  Mediæval people never worried about being mediæval;
@@ -45,13 +45,13 @@ and most of us would be surprised if the argument were logically
 enforced even against the things that are commonly called mediæval.
 We should express some regret if somebody blew up Westminster Abbey,
 because it is a relic of mediævalism. Doubts would trouble us if
-the Government burned all existing copies of Dante's _Divine Comedy_
+the [[government|Government]] burned all existing copies of [[Dante]]'s _Divine Comedy_
 and Chaucer's _Canterbury Tales,_ because they are quite certainly
 relics of mediævalism. We could not throw ourselves into unreserved
 and enthusiastic rejoicing even if the Tower of Giotto were destroyed
-as a relic of mediævalism. And only just lately, in Oxford and Paris
+as a relic of mediævalism. And only just lately, in [[Oxford]] and [[Paris]]
 (themselves, alas! relics of mediævalism), there has been a perverse
-and pedantic revival of the Thomist Philosophy and the logical method
+and pedantic revival of the Thomist [[philosophy|Philosophy]] and the logical method
 of the mediæval Schoolmen.  Similarly, curious and restless minds,
 among the very youngest artists and art critics, have unaccountably
 gone back even further into the barbaric period than the limit
@@ -64,8 +64,8 @@ called mediævalism. If a relic of mediævalism only means something
 that has come down to us from mediæval times, such writers would
 probably be surprised at the size and solidity of the relics.
 If I told these honest pressmen that the Press is a relic
-of mediævalism, they would probably prove their love of a cliché
-by accusing me of a paradox.  But it is at least certain that
+of mediævalism, they would probably prove their [[Love|love]] of a cliché
+by accusing me of a [[Paradox|paradox]].  But it is at least certain that
 the Printing Press is a relic of mediævalism. It was discovered
 and established by entirely mediæval men, steeped in mediæval ideas,
 stuffed with the religion and social spirit of the Middle Ages.
@@ -78,29 +78,29 @@ at least come at the end of the Middle Ages, the Parliaments
 came much more nearly at the beginning of the Middle Ages.
 They began, I think, in Spain and the provinces of the Pyrenees;
 but our own traditional date, connecting them with the revolt of Simon
-de Montfort, if not strictly accurate, does roughly represent the time.
+de Montfort, if not strictly accurate, does roughly represent the [[Time|time]].
 I need not say that half the great educational foundations,
-not only Oxford and Cambridge, but Glasgow and Paris, are relics
+not only [[Oxford]] and Cambridge, but Glasgow and [[Paris]], are relics
 of mediævalism. It would seem rather hard on the poor journalistic
 reformer if he is not allowed to pull down a little turnpike-gate till
 he has proved his right to pull down all these relics of mediævalism.
 
-Next we have, of course, the very considerable historic doubt
+Next we have, of course, the very considerable historic [[Doubt|doubt]]
 about whether the turnpike-gate is a relic of mediævalism. I
 do not know what was the date of this particular turnpike;
-but turnpikes and tolls of that description were perhaps
+but [[turnpikes]] and tolls of that description were perhaps
 most widely present, most practically enforced, or, at least,
 most generally noted, in the eighteenth century.
 When Pitt and Dundas, both of them roaring drunk, jumped over
-a turnpike-gate and were fired at with a blunderbuss, I hope
+a turnpike-gate and were fired at with a blunderbuss, I [[Hope|hope]]
 nobody will suggest that those two great politicians were relics
 of mediævalism. Nobody surely could be more modern than Pitt
 and Dundas, for one of them was a great financial statesman,
 depending entirely on the bankers, and the other was a swindler.
 It is possible, of course, that some such local toll was
-really mediæval, but I rather doubt whether the journalist
+really mediæval, but I rather [[Doubt|doubt]] whether the journalist
 even inquired whether it was mediæval. He probably regards
-everything that happened before the time of Jazz and the
+everything that happened before the [[Time|time]] of Jazz and the
 Yellow Press as mediæval. For him mediæval only means old,
 and old only means bad; so that we come to the last question,
 which ought to have been the first question, of whether
@@ -116,19 +116,19 @@ the roads shall pay for the roads.  As it is, the poor people
 of a district, including those who never stir from their villages,
 and hardly from their firesides, pay to maintain roads which are
 ploughed up and torn to pieces by the cars and lorries of rich men
-and big businesses, coming from London and the distant cities.
-It is not self-evident that this is a more just arrangement
+and big businesses, coming from [[London]] and the distant cities.
+It is not [[Self|self]]-evident that this is a more just arrangement
 than that by which wayfarers pay to keep up the way, even if that
 arrangement were a relic of mediævalism.
 
-Lastly, we might well ask, is it indeed so certain that our roads suffer
+Lastly, we might [[Well|well]] ask, is it indeed so certain that our roads suffer
 from the slowness of petrol traffic; and that, if we can only make every
 sort of motor go faster and faster, we shall all be saved at last?
 That motors are more important than men is doubtless an admitted principle
-of a truly modern philosophy; nevertheless, it might be well to keep
+of a truly modern [[philosophy]]; nevertheless, it might be [[Well|well]] to keep
 some sort of reasonable ratio between them, and decide exactly how many
 human beings should be killed by each car in the course of each year.
-And I fear that a mere policy of the acceleration of traffic may take us
+And I [[Fear|fear]] that a mere policy of the acceleration of traffic may take us
 beyond the normal modern recognition of murder into something resembling a
 recognition of massacre.  And about this, I for one still have a scruple;
 which is probably a relic of mediævalism.

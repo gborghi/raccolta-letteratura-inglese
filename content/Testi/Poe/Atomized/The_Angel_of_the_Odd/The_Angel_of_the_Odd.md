@@ -1,5 +1,5 @@
 ---
-title: "The Angel of the Odd"
+title: "[[The Angel of the Odd]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/The-Angel-of-the-Odd-(Poe)"
@@ -23,11 +23,11 @@ AN EXTRAVAGANZA.
 
       unusually hearty dinner, of which the dyspeptic _truffe_ formed
 
-      not the least important item, and was sitting alone in the
+      not the least important item, and was sitting [[Alone|alone]] in the
 
       dining-room, with my feet upon the fender, and at my elbow a
 
-      small table which I had rolled up to the fire, and upon which
+      small table which I had rolled up to the [[Fire|fire]], and upon which
 
       were some apologies for dessert, with some miscellaneous bottles
 
@@ -43,9 +43,9 @@ AN EXTRAVAGANZA.
 
       by aid of frequent Lafitte, and, all failing, I betook myself to
 
-      a stray newspaper in despair. Having carefully perused the column
+      a stray newspaper in [[Despair|despair]]. Having carefully perused the column
 
-      of “houses to let,” and the column of “dogs lost,” and then the
+      of “houses to let,” and the column of “[[dogs]] lost,” and then the
 
       two columns of “wives and apprentices runaway,” I attacked with
 
@@ -73,7 +73,7 @@ AN EXTRAVAGANZA.
 
 
 
-      “The avenues to death are numerous and strange. A London paper
+      “The avenues to [[Death|death]] are numerous and strange. A [[London]] paper
 
       mentions the decease of a person from a singular cause. He was
 
@@ -101,7 +101,7 @@ AN EXTRAVAGANZA.
 
       Cocaigne. These fellows, knowing the extravagant gullibility of
 
-      the age, set their wits to work in the imagination of improbable
+      the age, set their wits to work in the [[Imagination|imagination]] of improbable
 
       possibilities—-of odd accidents, as they term them; but to a
 
@@ -121,7 +121,7 @@ AN EXTRAVAGANZA.
 
 
 
-      “Mein Gott, den, vat a vool you bees for dat!” replied one of the
+      “Mein Gott, den, vat a vool you [[Bees|bees]] for dat!” replied one of the
 
       most remarkable voices I ever heard. At first I took it for a
 
@@ -163,7 +163,7 @@ AN EXTRAVAGANZA.
 
       personage nondescript, although not altogether indescribable. His
 
-      body was a wine-pipe, or a rum-puncheon, or something of that
+      [[Body|body]] was a wine-pipe, or a rum-puncheon, or something of that
 
       character, and had a truly Falstaffian air. In its nether
 
@@ -173,7 +173,7 @@ AN EXTRAVAGANZA.
 
       of the carcass two tolerably long bottles, with the necks outward
 
-      for hands. All the head that I saw the monster possessed of was
+      for hands. All the head that I saw the [[Monster|monster]] possessed of was
 
       one of those Hessian canteens which resemble a large snuff-box
 
@@ -281,7 +281,7 @@ AN EXTRAVAGANZA.
 
 
 
-      “Well, den, zit still and pehabe yourself, or I’ll rap you again
+      “[[Well]], den, zit still and pehabe yourself, or I’ll rap you again
 
       mid me vist. It iz te shicken ab te wing, und te owl ab te wing,
 
@@ -303,7 +303,7 @@ AN EXTRAVAGANZA.
 
       This language was rather more than I could bear, even from an
 
-      angel; so, plucking up courage, I seized a salt-cellar which lay
+      angel; so, plucking up [[Courage|courage]], I seized a salt-cellar which lay
 
       within reach, and hurled it at the head of the intruder. Either
 
@@ -311,7 +311,7 @@ AN EXTRAVAGANZA.
 
       accomplished was the demolition of the crystal which protected
 
-      the dial of the clock upon the mantel-piece. As for the Angel, he
+      the dial of the [[Clock|clock]] upon the mantel-piece. As for the Angel, he
 
       evinced his sense of my assault by giving me two or three hard
 
@@ -319,17 +319,17 @@ AN EXTRAVAGANZA.
 
       once to submission, and I am almost ashamed to confess that
 
-      either through pain or vexation, there came a few tears into my
+      either through [[Pain|pain]] or vexation, there came a few [[Tears|tears]] into my
 
       eyes.
 
 
 
-      “Mein Gott!” said the Angel of the Odd, apparently much softened
+      “Mein Gott!” said [[The Angel of the Odd|the Angel of the Odd]], apparently much softened
 
       at my distress; “mein Gott, te man is eder ferry dronk or ferry
 
-      zorry. You mos not trink it so strong—you mos put te water in te
+      zorry. You mos not trink it so strong—you mos put te [[Water|water]] in te
 
       wine. Here, trink dis, like a goot veller, und don’t gry
 
@@ -337,7 +337,7 @@ AN EXTRAVAGANZA.
 
 
 
-      Hereupon the Angel of the Odd replenished my goblet (which was
+      Hereupon [[The Angel of the Odd|the Angel of the Odd]] replenished my goblet (which was
 
       about a third full of Port) with a colorless fluid that he poured
 
@@ -351,7 +351,7 @@ AN EXTRAVAGANZA.
 
       The considerate kindness of the Angel mollified me in no little
 
-      measure; and, aided by the water with which he diluted my Port
+      measure; and, aided by the [[Water|water]] with which he diluted my Port
 
       more than once, I at length regained sufficient temper to listen
 
@@ -363,9 +363,9 @@ AN EXTRAVAGANZA.
 
       whose business it was to bring about the _odd accidents_ which
 
-      are continually astonishing the skeptic. Once or twice, upon my
+      are continually astonishing the [[skeptic]]. Once or twice, upon my
 
-      venturing to express my total incredulity in respect to his
+      venturing to express my total [[Incredulity|incredulity]] in respect to his
 
       pretensions, he grew very angry indeed, so that at length I
 
@@ -403,7 +403,7 @@ AN EXTRAVAGANZA.
 
       appointment of consequence, which it was quite indispensable that
 
-      I should keep. The policy of insurance for my dwelling house had
+      I should keep. The policy of insurance for my dwelling [[house]] had
 
       expired the day before; and, some dispute having arisen, it was
 
@@ -411,7 +411,7 @@ AN EXTRAVAGANZA.
 
       company and settle the terms of a renewal. Glancing upward at the
 
-      clock on the mantel-piece, (for I felt too drowsy to take out my
+      [[Clock|clock]] on the mantel-piece, (for I felt too drowsy to take out my
 
       watch), I had the pleasure to find that I had still twenty-five
 
@@ -427,7 +427,7 @@ AN EXTRAVAGANZA.
 
       Having completed them to my satisfaction, I again looked toward
 
-      the time-piece and was half inclined to believe in the
+      the [[Time|time]]-piece and was half inclined to believe in the
 
       possibility of odd accidents when I found that, instead of my
 
@@ -435,11 +435,11 @@ AN EXTRAVAGANZA.
 
       for it still wanted seven and twenty of the appointed hour. I
 
-      betook myself again to my nap, and at length a second time awoke,
+      betook myself again to my nap, and at length a second [[Time|time]] awoke,
 
       when, to my utter amazement, it _still_ wanted twenty-seven
 
-      minutes of six. I jumped up to examine the clock, and found that
+      minutes of six. I jumped up to examine the [[Clock|clock]], and found that
 
       it had ceased running. My watch informed me that it was half past
 
@@ -449,11 +449,11 @@ AN EXTRAVAGANZA.
 
       at the office in the morning and apologize; in the meantime what
 
-      can be the matter with the clock?” Upon examining it I discovered
+      can be the matter with the [[Clock|clock]]?” Upon examining it I discovered
 
       that one of the raisin stems which I had been filliping about the
 
-      room during the discourse of the Angel of the Odd, had flown
+      room during the discourse of [[The Angel of the Odd|the Angel of the Odd]], had flown
 
       through the fractured crystal, and lodging, singularly enough, in
 
@@ -481,7 +481,7 @@ AN EXTRAVAGANZA.
 
 
 
-      My dreams were terrifically disturbed by visions of the Angel of
+      My [[Dreams|dreams]] were terrifically disturbed by visions of the Angel of
 
       the Odd. Methought he stood at the foot of the couch, drew aside
 
@@ -499,7 +499,7 @@ AN EXTRAVAGANZA.
 
       necked bottles that stood him instead of an arm. My agony was at
 
-      length insufferable, and I awoke just in time to perceive that a
+      length insufferable, and I awoke just in [[Time|time]] to perceive that a
 
       rat had ran off with the lighted candle from the stand, but _not_
 
@@ -507,13 +507,13 @@ AN EXTRAVAGANZA.
 
       hole. Very soon, a strong suffocating odor assailed my nostrils;
 
-      the house, I clearly perceived, was on fire. In a few minutes the
+      the [[house]], I clearly perceived, was on [[Fire|fire]]. In a few minutes the
 
       blaze broke forth with violence, and in an incredibly brief
 
       period the entire building was wrapped in flames. All egress from
 
-      my chamber, except through a window, was cut off. The crowd,
+      my chamber, except through a [[Window|window]], was cut off. The crowd,
 
       however, quickly procured and raised a long ladder. By means of
 
@@ -523,7 +523,7 @@ AN EXTRAVAGANZA.
 
       whole air and physiognomy, there was something which reminded me
 
-      of the Angel of the Odd,—when this hog, I say, which hitherto had
+      of [[The Angel of the Odd|the Angel of the Odd]],—when this hog, I say, which hitherto had
 
       been quietly slumbering in the mud, took it suddenly into his
 
@@ -541,7 +541,7 @@ AN EXTRAVAGANZA.
 
       serious loss of my hair, the whole of which had been singed off
 
-      by the fire, predisposed me to serious impressions, so that,
+      by the [[Fire|fire]], predisposed me to serious impressions, so that,
 
       finally, I made up my mind to take a wife. There was a rich widow
 
@@ -573,7 +573,7 @@ AN EXTRAVAGANZA.
 
       period; but again a trivial incident interfered. Meeting my
 
-      betrothed in an avenue thronged with the _élite_ of the city, I
+      betrothed in an avenue thronged with the _élite_ of the [[City|city]], I
 
       was hastening to greet her with one of my best considered bows,
 
@@ -581,7 +581,7 @@ AN EXTRAVAGANZA.
 
       corner of my eye, rendered me, for the moment, completely blind.
 
-      Before I could recover my sight, the lady of my love had
+      Before I could recover my sight, the lady of my [[Love|love]] had
 
       disappeared—irreparably affronted at what she chose to consider
 
@@ -603,11 +603,11 @@ AN EXTRAVAGANZA.
 
 
 
-      I now considered it high time to die, (since fortune had so
+      I now considered it high [[Time|time]] to die, (since fortune had so
 
       determined to persecute me,) and accordingly made my way to the
 
-      nearest river. Here, divesting myself of my clothes, (for there
+      nearest [[River|river]]. Here, divesting myself of my clothes, (for there
 
       is no reason why we cannot die as we were born), I threw myself
 
@@ -617,7 +617,7 @@ AN EXTRAVAGANZA.
 
       brandy-saturated corn, and so had staggered away from his
 
-      fellows. No sooner had I entered the water than this bird took it
+      fellows. No sooner had I entered the [[Water|water]] than this bird took it
 
       into its head to fly away with the most indispensable portion of
 
@@ -631,7 +631,7 @@ AN EXTRAVAGANZA.
 
       admit. But my evil destiny attended me still. As I ran at full
 
-      speed, with my nose up in the atmosphere, and intent only upon
+      [[Speed|speed]], with my nose up in the atmosphere, and intent only upon
 
       the purloiner of my property, I suddenly perceived that my feet
 
@@ -651,11 +651,11 @@ AN EXTRAVAGANZA.
 
       all the power of my lungs to make that predicament known to the
 
-      æronaut overhead. But for a long time I exerted myself in vain.
+      æronaut overhead. But for a long [[Time|time]] I exerted myself in vain.
 
-      Either the fool could not, or the villain would not perceive me.
+      Either the [[Fool|fool]] could not, or the [[Villain|villain]] would not perceive me.
 
-      Meantime the machine rapidly soared, while my strength even more
+      Meantime the [[Machine|machine]] rapidly soared, while my strength even more
 
       rapidly failed. I was soon upon the point of resigning myself to
 
@@ -665,7 +665,7 @@ AN EXTRAVAGANZA.
 
       seemed to be lazily humming an opera air. Looking up, I perceived
 
-      the Angel of the Odd. He was leaning with his arms folded, over
+      [[The Angel of the Odd|the Angel of the Odd]]. He was leaning with his arms folded, over
 
       the rim of the car; and with a pipe in his mouth, at which he
 
@@ -705,13 +705,13 @@ AN EXTRAVAGANZA.
 
       With these words he let fall a heavy bottle of Kirschenwasser
 
-      which, dropping precisely upon the crown of my head, caused me to
+      which, dropping precisely upon the [[Crown|crown]] of my head, caused me to
 
       imagine that my brains were entirely knocked out. Impressed with
 
       this idea, I was about to relinquish my hold and give up the
 
-      ghost with a good grace, when I was arrested by the cry of the
+      [[Ghost|ghost]] with a good grace, when I was arrested by the cry of the
 
       Angel, who bade me hold on.
 
@@ -791,7 +791,7 @@ AN EXTRAVAGANZA.
 
 
 
-      “Go to der teuffel, ten!” roared the Angel of the Odd.
+      “Go to der teuffel, ten!” roared [[The Angel of the Odd|the Angel of the Odd]].
 
 
 
@@ -799,7 +799,7 @@ AN EXTRAVAGANZA.
 
       guide-rope by which I was suspended, and as we then happened to
 
-      be precisely over my own house, (which, during my peregrinations,
+      be precisely over my own [[house]], (which, during my peregrinations,
 
       had been handsomely rebuilt,) it so occurred that I tumbled
 
@@ -811,11 +811,11 @@ AN EXTRAVAGANZA.
 
       Upon coming to my senses, (for the fall had very thoroughly
 
-      stunned me,) I found it about four o’clock in the morning. I lay
+      stunned me,) I found it about four o’[[Clock|clock]] in the morning. I lay
 
       outstretched where I had fallen from the balloon. My head
 
-      grovelled in the ashes of an extinguished fire, while my feet
+      grovelled in the ashes of an extinguished [[Fire|fire]], while my feet
 
       reposed upon the wreck of a small table, overthrown, and amid the
 

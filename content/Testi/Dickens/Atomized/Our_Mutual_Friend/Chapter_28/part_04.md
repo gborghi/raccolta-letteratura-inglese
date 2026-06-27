@@ -45,7 +45,7 @@ in a personal discussion.’
 Fledgeby must have conducted it on his side with immense art, for no
 appearance of uttering one syllable had escaped him.
 
-‘A personal discussion, Sophronia, my love? What discussion? Fledgeby, I
+‘A personal discussion, Sophronia, my [[Love|love]]? What discussion? Fledgeby, I
 am jealous. What discussion, Fledgeby?’
 
 ‘Shall I tell him, Mr Fledgeby?’ asked Mrs Lammle.
@@ -84,22 +84,22 @@ dress.’
 
 ‘And I,’ said Mr Lammle, ‘to Georgiana.’
 
-‘Georgy, my love,’ remarked Mrs Lammle aside to her dear girl, ‘I rely
+‘Georgy, my [[Love|love]],’ remarked Mrs Lammle aside to her dear girl, ‘I rely
 upon you not to go over to the opposition. Now, Mr Fledgeby.’
 
-Fascination wished to know if the colour were not called rose-colour?
+Fascination wished to know if the colour were not called [[Rose|rose]]-colour?
 Yes, said Mr Lammle; actually he knew everything; it was really
-rose-colour. Fascination took rose-colour to mean the colour of roses.
+[[Rose|rose]]-colour. Fascination took [[Rose|rose]]-colour to mean the colour of roses.
 (In this he was very warmly supported by Mr and Mrs Lammle.) Fascination
-had heard the term Queen of Flowers applied to the Rose. Similarly, it
-might be said that the dress was the Queen of Dresses. (‘Very happy,
+had heard the term [[Queen]] of [[Flowers]] applied to the [[Rose]]. Similarly, it
+might be said that the dress was the [[Queen]] of Dresses. (‘Very happy,
 Fledgeby!’ from Mr Lammle.) Notwithstanding, Fascination’s opinion
 was that we all had our eyes—or at least a large majority of us—and
 that—and—and his farther opinion was several ands, with nothing beyond
 them.
 
-‘Oh, Mr Fledgeby,’ said Mrs Lammle, ‘to desert me in that way! Oh, Mr
-Fledgeby, to abandon my poor dear injured rose and declare for blue!’
+‘Oh, Mr Fledgeby,’ said Mrs Lammle, ‘to [[Desert|desert]] me in that way! Oh, Mr
+Fledgeby, to abandon my poor dear injured [[Rose|rose]] and declare for blue!’
 
 ‘Victory, victory!’ cried Mr Lammle; ‘your dress is condemned, my dear.’
 
@@ -107,7 +107,7 @@ Fledgeby, to abandon my poor dear injured rose and declare for blue!’
 dear girl’s, ‘what does Georgy say?’
 
 ‘She says,’ replied Mr Lammle, interpreting for her, ‘that in her eyes
-you look well in any colour, Sophronia, and that if she had expected to
+you look [[Well|well]] in any colour, Sophronia, and that if she had expected to
 be embarrassed by so pretty a compliment as she has received, she would
 have worn another colour herself. Though I tell her, in reply, that it
 would not have saved her, for whatever colour she had worn would have
@@ -121,10 +121,10 @@ feeling on the part of Fledgeby, ‘he is right, he is right!’
 
 Still, no not even now, would they look at one another. Seeming to gnash
 his sparkling teeth, studs, eyes, and buttons, all at once, Mr Lammle
-secretly bent a dark frown on the two, expressive of an intense desire
+secretly bent a dark frown on the two, expressive of an intense [[Desire|desire]]
 to bring them together by knocking their heads together.
 
-‘Have you heard this opera of to-night, Fledgeby?’ he asked, stopping
+‘Have you heard this opera of to-[[Night|night]], Fledgeby?’ he asked, stopping
 very short, to prevent himself from running on into ‘confound you.’
 
 ‘Why no, not exactly,’ said Fledgeby. ‘In fact I don’t know a note of
@@ -136,7 +136,7 @@ Georgiana, faintly, under the sympathetic coincidence.
 ‘Why, then,’ said Mrs Lammle, charmed by the discovery which flowed from
 the premises, ‘you neither of you know it! How charming!’
 
-Even the craven Fledgeby felt that the time was now come when he must
+Even the craven Fledgeby felt that the [[Time|time]] was now come when he must
 strike a blow. He struck it by saying, partly to Mrs Lammle and partly
 to the circumambient air, ‘I consider myself very fortunate in being
 reserved by—’
@@ -147,7 +147,7 @@ whiskers to look out of, offered him the word ‘Destiny.’
 ‘No, I wasn’t going to say that,’ said Fledgeby. ‘I was going to say
 Fate. I consider it very fortunate that Fate has written in the book
 of—in the book which is its own property—that I should go to that
-opera for the first time under the memorable circumstances of going with
+opera for the first [[Time|time]] under the memorable circumstances of going with
 Miss Podsnap.’
 
 To which Georgiana replied, hooking her two little fingers in one

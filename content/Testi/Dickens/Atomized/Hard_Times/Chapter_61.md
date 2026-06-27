@@ -18,18 +18,18 @@ CHAPTER VI
 FADING AWAY
 
 
-IT was falling dark when Stephen came out of Mr. Bounderby’s house.  The
-shadows of night had gathered so fast, that he did not look about him
+IT was falling dark when Stephen came out of Mr. Bounderby’s [[house]].  The
+shadows of [[Night|night]] had gathered so fast, that he did not look about him
 when he closed the door, but plodded straight along the street.  Nothing
 was further from his thoughts than the curious old woman he had
-encountered on his previous visit to the same house, when he heard a step
+encountered on his previous visit to the same [[house]], when he heard a step
 behind him that he knew, and turning, saw her in Rachael’s company.
 
 He saw Rachael first, as he had heard her only.
 
 ‘Ah, Rachael, my dear!  Missus, thou wi’ her!’
 
-‘Well, and now you are surprised to be sure, and with reason I must say,’
+‘[[Well]], and now you are surprised to be sure, and with reason I must say,’
 the old woman returned.  ‘Here I am again, you see.’
 
 ‘But how wi’ Rachael?’ said Stephen, falling into their step, walking
@@ -37,17 +37,17 @@ between them, and looking from the one to the other.
 
 ‘Why, I come to be with this good lass pretty much as I came to be with
 you,’ said the old woman, cheerfully, taking the reply upon herself.  ‘My
-visiting time is later this year than usual, for I have been rather
+visiting [[Time|time]] is later this year than usual, for I have been rather
 troubled with shortness of breath, and so put it off till the weather was
-fine and warm.  For the same reason I don’t make all my journey in one
-day, but divide it into two days, and get a bed to-night at the
-Travellers’ Coffee House down by the railroad (a nice clean house), and
-go back Parliamentary, at six in the morning.  Well, but what has this to
+fine and warm.  For the same reason I don’t make all my [[Journey|journey]] in one
+day, but divide it into two days, and get a bed to-[[Night|night]] at the
+Travellers’ Coffee [[house|House]] down by the railroad (a nice clean [[house]]), and
+go back Parliamentary, at six in the morning.  [[Well]], but what has this to
 do with this good lass, says you?  I’m going to tell you.  I have heard
 of Mr. Bounderby being married.  I read it in the paper, where it looked
 grand—oh, it looked fine!’ the old woman dwelt on it with strange
 enthusiasm: ‘and I want to see his wife.  I have never seen her yet.
-Now, if you’ll believe me, she hasn’t come out of that house since noon
+Now, if you’ll believe me, she hasn’t come out of that [[house]] since [[Noon|noon]]
 to-day.  So not to give her up too easily, I was waiting about, a little
 last bit more, when I passed close to this good lass two or three times;
 and her face being so friendly I spoke to her, and she spoke to me.
@@ -60,12 +60,12 @@ possibly could be.  With a gentleness that was as natural to him as he
 knew it to be to Rachael, he pursued the subject that interested her in
 her old age.
 
-‘Well, missus,’ said he, ‘I ha seen the lady, and she were young and
+‘[[Well]], missus,’ said he, ‘I ha seen the lady, and she were young and
 hansom.  Wi’ fine dark thinkin eyes, and a still way, Rachael, as I ha
 never seen the like on.’
 
 ‘Young and handsome.  Yes!’ cried the old woman, quite delighted.  ‘As
-bonny as a rose!  And what a happy wife!’
+bonny as a [[Rose|rose]]!  And what a happy wife!’
 
 ‘Aye, missus, I suppose she be,’ said Stephen.  But with a doubtful
 glance at Rachael.
@@ -83,13 +83,13 @@ work ha lef’n me, cooms t’ th’ same.  His work and me are parted.  ’Tis
 as weel so—better, I were thinkin when yo coom up wi’ me.  It would ha
 brought’n trouble upon trouble if I had stayed theer.  Haply ’tis a
 kindness to monny that I go; haply ’tis a kindness to myseln; anyways it
-mun be done.  I mun turn my face fro Coketown fur th’ time, and seek a
+mun be done.  I mun turn my face fro Coketown fur th’ [[Time|time]], and seek a
 fort’n, dear, by beginnin fresh.’
 
 ‘Where will you go, Stephen?’
 
-‘I donno t’night,’ said he, lifting off his hat, and smoothing his thin
-hair with the flat of his hand.  ‘But I’m not goin t’night, Rachael, nor
+‘I donno t’[[Night|night]],’ said he, lifting off his hat, and smoothing his thin
+hair with the flat of his hand.  ‘But I’m not goin t’[[Night|night]], Rachael, nor
 yet t’morrow.  ’Tan’t easy overmuch t’ know wheer t’ turn, but a good
 heart will coom to me.’
 
@@ -100,14 +100,14 @@ from the chance of being brought into question for not withdrawing from
 him.  Though it would cost him a hard pang to leave her, and though he
 could think of no similar place in which his condemnation would not
 pursue him, perhaps it was almost a relief to be forced away from the
-endurance of the last four days, even to unknown difficulties and
+[[Endurance|endurance]] of the last four days, even to unknown difficulties and
 distresses.
 
-So he said, with truth, ‘I’m more leetsome, Rachael, under ’t, than I
+So he said, with [[Truth|truth]], ‘I’m more leetsome, Rachael, under ’t, than I
 could’n ha believed.’  It was not her part to make his burden heavier.
 She answered with her comforting smile, and the three walked on together.
 
-Age, especially when it strives to be self-reliant and cheerful, finds
+Age, especially when it strives to be [[Self|self]]-reliant and cheerful, finds
 much consideration among the poor.  The old woman was so decent and
 contented, and made so light of her infirmities, though they had
 increased upon her since her former interview with Stephen, that they
@@ -121,15 +121,15 @@ Rachael will coom then; and arterwards I’ll see thee safe t’ thy
 Travellers’ lodgin.  ’T may be long, Rachael, ere ever I ha th’ chance o’
 thy coompany agen.’
 
-They complied, and the three went on to the house where he lodged.  When
-they turned into a narrow street, Stephen glanced at his window with a
-dread that always haunted his desolate home; but it was open, as he had
+They complied, and the three went on to the [[house]] where he lodged.  When
+they turned into a narrow street, Stephen glanced at his [[Window|window]] with a
+dread that always haunted his desolate [[Home|home]]; but it was open, as he had
 left it, and no one was there.  The evil spirit of his life had flitted
 away again, months ago, and he had heard no more of her since.  The only
 evidence of her last return now, were the scantier moveables in his room,
 and the grayer hair upon his head.
 
-He lighted a candle, set out his little tea-board, got hot water from
+He lighted a candle, set out his little tea-board, got hot [[Water|water]] from
 below, and brought in small portions of tea and sugar, a loaf, and some
 butter from the nearest shop.  The bread was new and crusty, the butter
 fresh, and the sugar lump, of course—in fulfilment of the standard
@@ -163,12 +163,12 @@ as I might touch a sore place.  I—I blame myseln.’
 
 While he excused himself, the old lady’s cup rattled more and more.  ‘I
 had a son,’ she said, curiously distressed, and not by any of the usual
-appearances of sorrow; ‘and he did well, wonderfully well.  But he is not
+appearances of sorrow; ‘and he did [[Well|well]], wonderfully [[Well|well]].  But he is not
 to be spoken of if you please.  He is—’  Putting down her cup, she moved
 her hands as if she would have added, by her action, ‘dead!’  Then she
 said aloud, ‘I have lost him.’
 
-Stephen had not yet got the better of his having given the old lady pain,
+Stephen had not yet got the better of his having given the old lady [[Pain|pain]],
 when his landlady came stumbling up the narrow stairs, and calling him to
 the door, whispered in his ear.  Mrs. Pegler was by no means deaf, for
 she caught a word as it was uttered.
@@ -188,7 +188,7 @@ trembling.
 
 ‘Certain sure!’
 
-‘Well then, pray don’t speak to me, nor yet take any notice of me,’ said
+‘[[Well]] then, pray don’t speak to me, nor yet take any notice of me,’ said
 the old woman.  ‘Let me be quite to myself in this corner.’
 
 Stephen nodded; looking to Rachael for an explanation, which she was
@@ -201,14 +201,14 @@ when Stephen, himself profoundly astonished by this visit, put the candle
 on the table.  Then he too stood, with his doubled hand upon the table
 near it, waiting to be addressed.
 
-For the first time in her life Louisa had come into one of the dwellings
-of the Coketown Hands; for the first time in her life she was face to
+For the first [[Time|time]] in her life Louisa had come into one of the dwellings
+of the Coketown Hands; for the first [[Time|time]] in her life she was face to
 face with anything like individuality in connection with them.  She knew
 of their existence by hundreds and by thousands.  She knew what results
-in work a given number of them would produce in a given space of time.
+in work a given number of them would produce in a given space of [[Time|time]].
 She knew them in crowds passing to and from their nests, like ants or
 beetles.  But she knew from her reading infinitely more of the ways of
-toiling insects than of these toiling men and women.
+toiling [[Insects|insects]] than of these toiling men and women.
 
 Something to be worked so much and paid so much, and there ended;
 something to be infallibly settled by laws of supply and demand;
@@ -217,7 +217,7 @@ difficulty; something that was a little pinched when wheat was dear, and
 over-ate itself when wheat was cheap; something that increased at such a
 rate of percentage, and yielded such another percentage of crime, and
 such another percentage of pauperism; something wholesale, of which vast
-fortunes were made; something that occasionally rose like a sea, and did
+fortunes were made; something that occasionally [[Rose|rose]] like a sea, and did
 some harm and waste (chiefly to itself), and fell again; this she knew
 the Coketown Hands to be.  But, she had scarcely thought more of
 separating them into units, than of separating the sea itself into its
@@ -236,8 +236,8 @@ again.
 
 ‘I remember,’ said Louisa, reddening at her mistake; ‘I recollect, now,
 to have heard your domestic misfortunes spoken of, though I was not
-attending to the particulars at the time.  It was not my meaning to ask a
-question that would give pain to any one here.  If I should ask any other
+attending to the particulars at the [[Time|time]].  It was not my meaning to ask a
+question that would give [[Pain|pain]] to any one here.  If I should ask any other
 question that may happen to have that result, give me credit, if you
 please, for being in ignorance how to speak to you as I ought.’
 
@@ -265,23 +265,23 @@ other, he is sacrificed alike?  Are the two so deeply separated in this
 town, that there is no place whatever for an honest workman between
 them?’
 
-Rachael shook her head in silence.
+Rachael shook her head in [[Silence|silence]].
 
 ‘He fell into suspicion,’ said Louisa, ‘with his fellow-weavers,
 because—he had made a promise not to be one of them.  I think it must
 have been to you that he made that promise.  Might I ask you why he made
 it?’
 
-Rachael burst into tears.  ‘I didn’t seek it of him, poor lad.  I prayed
+Rachael burst into [[Tears|tears]].  ‘I didn’t seek it of him, poor lad.  I prayed
 him to avoid trouble for his own good, little thinking he’d come to it
 through me.  But I know he’d die a hundred deaths, ere ever he’d break
-his word.  I know that of him well.’
+his word.  I know that of him [[Well|well]].’
 
 Stephen had remained quietly attentive, in his usual thoughtful attitude,
 with his hand at his chin.  He now spoke in a voice rather less steady
 than usual.
 
-‘No one, excepting myseln, can ever know what honour, an’ what love, an’
+‘No one, excepting myseln, can ever know what [[Honour|honour]], an’ what [[Love|love]], an’
 respect, I bear to Rachael, or wi’ what cause.  When I passed that
 promess, I towd her true, she were th’ Angel o’ my life.  ’Twere a solemn
 promess.  ’Tis gone fro’ me, for ever.’
@@ -310,7 +310,7 @@ is freely his, to help him on his way?  Will you entreat him to take it?’
 for him to know his heart, and what is right according to it.’
 
 Louisa looked, in part incredulous, in part frightened, in part overcome
-with quick sympathy, when this man of so much self-command, who had been
+with quick sympathy, when this man of so much [[Self|self]]-command, who had been
 so plain and steady through the late interview, lost his composure in a
 moment, and now stood with his hand before his face.  She stretched out
 hers, as if she would have touched him; then checked herself, and
@@ -347,15 +347,15 @@ in his hand.
 what it is, because it may not come to anything.  But there’s no harm in
 my trying.’
 
-His breath fell like a flame of fire on Stephen’s ear, it was so hot.
+His breath fell like a flame of [[Fire|fire]] on Stephen’s ear, it was so hot.
 
 ‘That was our light porter at the Bank,’ said Tom, ‘who brought you the
-message to-night.  I call him our light porter, because I belong to the
+message to-[[Night|night]].  I call him our light porter, because I belong to the
 Bank too.’
 
 Stephen thought, ‘What a hurry he is in!’  He spoke so confusedly.
 
-‘Well!’ said Tom.  ‘Now look here!  When are you off?’
+‘[[Well]]!’ said Tom.  ‘Now look here!  When are you off?’
 
 ‘T’ day’s Monday,’ replied Stephen, considering.  ‘Why, sir, Friday or
 Saturday, nigh ’bout.’
@@ -367,7 +367,7 @@ no harm done.  So I tell you what.  You’ll know our light porter again?’
 
 ‘Yes, sure,’ said Stephen.
 
-‘Very well,’ returned Tom.  ‘When you leave work of a night, between this
+‘Very [[Well|well]],’ returned Tom.  ‘When you leave work of a [[Night|night]], between this
 and your going away, just hang about the Bank an hour or so, will you?
 Don’t take on, as if you meant anything, if he should see you hanging
 about there; because I shan’t put him up to speak to you, unless I find I
@@ -382,12 +382,12 @@ round and round, in an extraordinary manner.
 ‘I understand, sir,’ said Stephen.
 
 ‘Now look here!’ repeated Tom.  ‘Be sure you don’t make any mistake then,
-and don’t forget.  I shall tell my sister as we go home, what I have in
+and don’t forget.  I shall tell my sister as we go [[Home|home]], what I have in
 view, and she’ll approve, I know.  Now look here!  You’re all right, are
-you?  You understand all about it?  Very well then.  Come along, Loo!’
+you?  You understand all about it?  Very [[Well|well]] then.  Come along, Loo!’
 
 He pushed the door open as he called to her, but did not return into the
-room, or wait to be lighted down the narrow stairs.  He was at the bottom
+room, or wait to be lighted down the narrow stairs.  He was at the [[Bottom|bottom]]
 when she began to descend, and was in the street before she could take
 his arm.
 
@@ -397,13 +397,13 @@ in a state of inexpressible admiration of Mrs. Bounderby, and, like an
 unaccountable old woman, wept, ‘because she was such a pretty dear.’  Yet
 Mrs. Pegler was so flurried lest the object of her admiration should
 return by chance, or anybody else should come, that her cheerfulness was
-ended for that night.  It was late too, to people who rose early and
+ended for that [[Night|night]].  It was late too, to people who [[Rose|rose]] early and
 worked hard; therefore the party broke up; and Stephen and Rachael
 escorted their mysterious acquaintance to the door of the Travellers’
-Coffee House, where they parted from her.
+Coffee [[house|House]], where they parted from her.
 
 They walked back together to the corner of the street where Rachael
-lived, and as they drew nearer and nearer to it, silence crept upon them.
+lived, and as they drew nearer and nearer to it, [[Silence|silence]] crept upon them.
 When they came to the dark corner where their unfrequent meetings always
 ended, they stopped, still silent, as if both were afraid to speak.
 
@@ -420,7 +420,7 @@ fur no good.’
 ‘’Tis not for that, Stephen, that I mind.  But thou know’st our old
 agreement.  ’Tis for that.’
 
-‘Well, well,’ said he.  ‘’Tis better, onnyways.’
+‘[[Well]], [[Well|well]],’ said he.  ‘’Tis better, onnyways.’
 
 ‘Thou’lt write to me, and tell me all that happens, Stephen?’
 
@@ -430,18 +430,18 @@ Heaven thank thee and reward thee!’
 ‘May it bless thee, Stephen, too, in all thy wanderings, and send thee
 peace and rest at last!’
 
-‘I towd thee, my dear,’ said Stephen Blackpool—‘that night—that I would
+‘I towd thee, my dear,’ said [[Stephen Blackpool]]—‘that [[Night|night]]—that I would
 never see or think o’ onnything that angered me, but thou, so much better
 than me, should’st be beside it.  Thou’rt beside it now.  Thou mak’st me
-see it wi’ a better eye.  Bless thee.  Good night.  Good-bye!’
+see it wi’ a better eye.  Bless thee.  Good [[Night|night]].  Good-bye!’
 
 It was but a hurried parting in a common street, yet it was a sacred
 remembrance to these two common people.  Utilitarian economists,
 skeletons of schoolmasters, Commissioners of Fact, genteel and used-up
 infidels, gabblers of many little dog’s-eared creeds, the poor you will
-have always with you.  Cultivate in them, while there is yet time, the
+have always with you.  Cultivate in them, while there is yet [[Time|time]], the
 utmost graces of the fancies and affections, to adorn their lives so much
-in need of ornament; or, in the day of your triumph, when romance is
+in need of ornament; or, in the day of your triumph, when [[Romance|romance]] is
 utterly driven out of their souls, and they and a bare existence stand
 face to face, Reality will take a wolfish turn, and make an end of you.
 
@@ -453,10 +453,10 @@ empty.
 He had overstayed his hour in the street outside the Bank, on each of the
 two first evenings; and nothing had happened there, good or bad.  That he
 might not be remiss in his part of the engagement, he resolved to wait
-full two hours, on this third and last night.
+full two hours, on this third and last [[Night|night]].
 
-There was the lady who had once kept Mr. Bounderby’s house, sitting at
-the first-floor window as he had seen her before; and there was the light
+There was the lady who had once kept Mr. Bounderby’s [[house]], sitting at
+the first-floor [[Window|window]] as he had seen her before; and there was the light
 porter, sometimes talking with her there, and sometimes looking over the
 blind below which had BANK upon it, and sometimes coming to the door and
 standing on the steps for a breath of air.  When he first came out,
@@ -466,16 +466,16 @@ nothing.
 
 Two hours were a long stretch of lounging about, after a long day’s
 labour.  Stephen sat upon the step of a door, leaned against a wall under
-an archway, strolled up and down, listened for the church clock, stopped
+an archway, strolled up and down, listened for the church [[Clock|clock]], stopped
 and watched children playing in the street.  Some purpose or other is so
 natural to every one, that a mere loiterer always looks and feels
 remarkable.  When the first hour was out, Stephen even began to have an
-uncomfortable sensation upon him of being for the time a disreputable
+uncomfortable sensation upon him of being for the [[Time|time]] a disreputable
 character.
 
 Then came the lamplighter, and two lengthening lines of light all down
 the long perspective of the street, until they were blended and lost in
-the distance.  Mrs. Sparsit closed the first-floor window, drew down the
+the distance.  Mrs. Sparsit closed the first-floor [[Window|window]], drew down the
 blind, and went up-stairs.  Presently, a light went up-stairs after her,
 passing first the fanlight of the door, and afterwards the two staircase
 windows, on its way up.  By and by, one corner of the second-floor blind
@@ -503,19 +503,19 @@ the railway, where the danger-lights were waning in the strengthening
 day; by the railway’s crazy neighbourhood, half pulled down and half
 built up; by scattered red brick villas, where the besmoked evergreens
 were sprinkled with a dirty powder, like untidy snuff-takers; by
-coal-dust paths and many varieties of ugliness; Stephen got to the top of
-the hill, and looked back.
+coal-[[Dust|dust]] paths and many varieties of ugliness; Stephen got to the top of
+the [[Hill|hill]], and looked back.
 
-Day was shining radiantly upon the town then, and the bells were going
+Day was shining radiantly upon the town then, and [[The Bells|the bells]] were going
 for the morning work.  Domestic fires were not yet lighted, and the high
 chimneys had the sky to themselves.  Puffing out their poisonous volumes,
 they would not be long in hiding it; but, for half an hour, some of the
 many windows were golden, which showed the Coketown people a sun
 eternally in eclipse, through a medium of smoked glass.
 
-So strange to turn from the chimneys to the birds.  So strange, to have
-the road-dust on his feet instead of the coal-grit.  So strange to have
-lived to his time of life, and yet to be beginning like a boy this summer
+So strange to turn from the chimneys to the [[Birds|birds]].  So strange, to have
+the [[Road|road]]-[[Dust|dust]] on his feet instead of the coal-grit.  So strange to have
+lived to his [[Time|time]] of life, and yet to be beginning like a boy this [[Summer|summer]]
 morning!  With these musings in his mind, and his bundle under his arm,
-Stephen took his attentive face along the high road.  And the trees
+Stephen took his attentive face along the high [[Road|road]].  And the trees
 arched over him, whispering that he left a true and loving heart behind.

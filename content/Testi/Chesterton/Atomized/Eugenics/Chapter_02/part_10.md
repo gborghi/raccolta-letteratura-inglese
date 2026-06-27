@@ -1,5 +1,5 @@
 ---
-title: "Eugenics — Part 1 (part 10)"
+title: "[[Eugenics]] — Part 1 (part 10)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Eugenics-(Chesterton)"
@@ -20,14 +20,14 @@ represented by the passive mood in grammar, and the Eugenists
 and their like deal especially in it; they are as passive
 in their statements as they are active in their experiments.
 Their sentences always enter tail first, and have no subject,
-like animals without heads.  It is never "the doctor should
+like [[Animals|animals]] without heads.  It is never "the doctor should
 cut off this leg" or "the policeman should collar that man."
 It is always "Such limbs should be amputated," or "Such men
-should be under restraint."  Hamlet said, "I should have fatted
+should be under restraint."  [[Hamlet]] said, "I should have fatted
 all the region kites with this slave's offal."  The Eugenist
 would say, "The region kites should, if possible, be fattened;
 and the offal of this slave is available for the dietetic experiment."
-Lady Macbeth said, "Give me the daggers; I'll let his bowels out."
+[[Lady Macbeth]] said, "Give me the daggers; I'll let his bowels out."
 The Eugenist would say, "In such cases the bowels should, etc."
 Do not blame me for the repulsiveness of the comparisons.
 I have searched English literature for the most decent parallels
@@ -36,24 +36,24 @@ to Eugenist language.
 The formless god that broods over the East is called "Om."
 The formless god who has begun to brood over the West is called "On."
 But here we must make a distinction.  The impersonal word on is French,
-and the French have a right to use it, because they are a democracy.
+and the French have a right to use it, because they are a [[democracy]].
 And when a Frenchman says "one" he does not mean himself, but the
 normal citizen.  He does not mean merely "one," but one and all.
 "On n'a que sa parole" does not mean "Noblesse oblige,"
 or "I am the Duke of Billingsgate and must keep my word."
-It means:  "One has a sense of honour as one has a backbone:
+It means:  "One has a sense of [[Honour|honour]] as one has a backbone:
 every man, rich or poor, should feel honourable"; and this,
-whether possible or no, is the purest ambition of the republic.
+whether possible or no, is the purest [[Ambition|ambition]] of the republic.
 But when the Eugenists say, "Conditions must be altered" or "Ancestry
 should be investigated," or what not, it seems clear that they do not
-mean that the democracy must do it, whatever else they may mean.
+mean that the [[democracy]] must do it, whatever else they may mean.
 They do not mean that any man not evidently mad may be trusted
 with these tests and rearrangements as the French democratic system
 trusts such a man with a vote or a farm or the control of a family.
-That would mean that Jones and Brown, being both ordinary men,
+That would mean that [[Jones]] and Brown, being both ordinary men,
 would set about arranging each other's marriages.  And this state
 of affairs would seem a little elaborate, and it might occur
-even to the Eugenic mind that if Jones and Brown are quite capable
+even to the Eugenic mind that if [[Jones]] and Brown are quite capable
 of arranging each other's marriages, it is just possible that they
 might be capable of arranging their own.
 
@@ -63,11 +63,11 @@ it is true that the community can judge more dispassionately
 than a man can judge in his own case, this particular question
 of the choice of a wife is so full of disputable shades in every
 conceivable case, that it is surely obvious that almost any
-democracy would simply vote the thing out of the sphere of voting,
+[[democracy]] would simply vote the thing out of the sphere of voting,
 as they would any proposal of police interference in the choice
 of walking weather or of children's names.  I should not like to be
-the politician who should propose a particular instance of Eugenics
-to be voted on by the French people.  Democracy dismissed,
+the politician who should propose a particular instance of [[Eugenics]]
+to be voted on by the French people.  [[democracy|Democracy]] dismissed,
 it is here hardly needful to consider the other old models.
 Modern scientists will not say that George III, in his lucid intervals,
 should settle who is mad; or that the aristocracy that introduced
@@ -82,11 +82,11 @@ and evanescent authority that vanishes wherever we seek to fix it?
 Who is the man who is the lost subject that governs the Eugenist's verb?
 In a large number of cases I think we can simply say that
 the individual Eugenist means himself and nobody else.
-Indeed one Eugenist, Mr. A. H. Huth, actually had a sense of humour,
+Indeed one Eugenist, Mr. A. H. Huth, actually had a sense of [[Humour|humour]],
 and admitted this.  He thinks a great deal of good could be done
 with a surgical knife, if we would only turn him loose with one.
 And this may be true.  A great deal of good could be done with a
-loaded revolver, in the hands of a judicious student of human nature.
+loaded revolver, in the hands of a judicious student of human [[Nature|nature]].
 But it is imperative that the Eugenist should perceive that on that
 principle we can never get beyond a perfect balance of different
 sympathies and antipathies.  I mean that I should differ from Dr. Saleeby
@@ -103,15 +103,15 @@ Now, even if I could share the Eugenic contempt for human rights,
 even if I could start gaily on the Eugenic campaign,
 I should not begin by removing feeble-minded persons.
 I have known as many families in as many classes as most men;
-and I cannot remember meeting any very monstrous human suffering
+and I cannot remember meeting any very monstrous human [[Suffering|suffering]]
 arising out of the presence of such insufficient and negative types.
 There seems to be comparatively few of them; and those few by no
 means the worst burdens upon domestic happiness.  I do not hear
 of them often; I do not hear of them doing much more harm than good;
-and in the few cases I know well they are not only regarded with
+and in the few cases I know [[Well|well]] they are not only regarded with
 human affection, but can be put to certain limited forms of human use.
 Even if I were a Eugenist, then I should not personally elect to waste
-my time locking up the feeble-minded. The people I should lock up would
+my [[Time|time]] locking up the feeble-minded. The people I should lock up would
 be the strong-minded. I have known hardly any cases of mere mental
 weakness making a family a failure; I have known eight or nine cases
 of violent and exaggerated force of character making a family a hell.
@@ -128,9 +128,9 @@ turning the state into a madhouse.  I would not segregate them,
 because I respect a man's free-will and his front door and his
 right to be tried by his peers.  But since free-will is believed
 by Eugenists no more than by Calvinists, since front-doors
-are respected by Eugenists no more than by house-breakers,
+are respected by Eugenists no more than by [[house]]-breakers,
 and since the Habeas Corpus is about as sacred to Eugenists as it
-would be to King John, why do not they bring light and peace into
+would be to [[King John]], why do not they bring light and peace into
 so many human homes by removing a demoniac from each of them?
 Why do not the promoters of the Feeble-Minded Bill call at the many
 grand houses in town or county where such nightmares notoriously are?

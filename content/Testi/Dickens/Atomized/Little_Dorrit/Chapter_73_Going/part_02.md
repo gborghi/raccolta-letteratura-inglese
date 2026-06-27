@@ -15,10 +15,10 @@ tags:
 
 
 Mr Meagles, at such a period, naturally seized an occupation with great
-ardour. He knew from his daughter the various towns which Rigaud had
+ardour. He knew from his daughter the various towns which [[Rigaud]] had
 been haunting, and the various hotels at which he had been living for
-some time back. The occupation he set himself was to visit these with
-all discretion and speed, and, in the event of finding anywhere that he
+some [[Time|time]] back. The occupation he set himself was to visit these with
+all discretion and [[Speed|speed]], and, in the event of finding anywhere that he
 had left a bill unpaid, and a box or parcel behind, to pay such bill,
 and bring away such box or parcel.
 
@@ -48,7 +48,7 @@ cheerful and fluent Briton as he was, with Mother under his arm.
 
 But, in his own tongue, and in his own head, Mr Meagles was a clear,
 shrewd, persevering man. When he had ‘worked round,’ as he called it, to
-Paris in his pilgrimage, and had wholly failed in it so far, he was not
+[[Paris]] in his pilgrimage, and had wholly failed in it so far, he was not
 disheartened. ‘The nearer to England I follow him, you see, Mother,’
 argued Mr Meagles, ‘the nearer I am likely to come to the papers,
 whether they turn up or no. Because it is only reasonable to conclude
@@ -56,7 +56,7 @@ that he would deposit them somewhere where they would be safe from
 people over in England, and where they would yet be accessible to
 himself, don’t you see?’
 
-At Paris Mr Meagles found a letter from Little Dorrit, lying waiting for
+At [[Paris]] Mr Meagles found a letter from Little Dorrit, lying waiting for
 him; in which she mentioned that she had been able to talk for a minute
 or two with Mr Clennam about this man who was no more; and that when she
 told Mr Clennam that his friend Mr Meagles, who was on his way to see
@@ -73,30 +73,30 @@ there was some sense about these Calais people, who really did know
 something of what you and themselves were up to; and returned, ‘Miss
 Wade, my dear.’ He was then shown into the presence of Miss Wade.
 
-‘It’s some time since we met,’ said Mr Meagles, clearing his throat; ‘I
-hope you have been pretty well, Miss Wade?’
+‘It’s some [[Time|time]] since we met,’ said Mr Meagles, clearing his throat; ‘I
+[[Hope|hope]] you have been pretty [[Well|well]], Miss Wade?’
 
-Without hoping that he or anybody else had been pretty well, Miss Wade
-asked him to what she was indebted for the honour of seeing him again?
+Without hoping that he or anybody else had been pretty [[Well|well]], Miss Wade
+asked him to what she was indebted for the [[Honour|honour]] of seeing him again?
 Mr Meagles, in the meanwhile, glanced all round the room without
 observing anything in the shape of a box.
 
-‘Why, the truth is, Miss Wade,’ said Mr Meagles, in a comfortable,
+‘Why, the [[Truth|truth]] is, Miss Wade,’ said Mr Meagles, in a comfortable,
 managing, not to say coaxing voice, ‘it is possible that you may be able
 to throw a light upon a little something that is at present dark. Any
-unpleasant bygones between us are bygones, I hope. Can’t be helped now.
-You recollect my daughter? Time changes so! A mother!’
+unpleasant bygones between us are bygones, I [[Hope|hope]]. Can’t be helped now.
+You recollect my daughter? [[Time]] changes so! A mother!’
 
-In his innocence, Mr Meagles could not have struck a worse key-note. He
+In his [[innocence]], Mr Meagles could not have struck a worse key-note. He
 paused for any expression of interest, but paused in vain.
 
 ‘That is not the subject you wished to enter on?’ she said, after a cold
-silence.
+[[Silence|silence]].
 
-‘No, no,’ returned Mr Meagles. ‘No. I thought your good nature might--’
+‘No, no,’ returned Mr Meagles. ‘No. I thought your good [[Nature|nature]] might--’
 
 ‘I thought you knew,’ she interrupted, with a smile, ‘that my good
-nature is not to be calculated upon?’
+[[Nature|nature]] is not to be calculated upon?’
 
 ‘Don’t say so,’ said Mr Meagles; ‘you do yourself an injustice. However,
 to come to the point.’ For he was sensible of having gained nothing
@@ -106,22 +106,22 @@ ill--’
 
 He paused again, and again she was silent.
 
-‘--that you had some knowledge of one Blandois, lately killed in London
+‘--that you had some knowledge of one Blandois, lately killed in [[London]]
 by a violent accident. Now, don’t mistake me! I know it was a slight
 knowledge,’ said Mr Meagles, dexterously forestalling an angry
 interruption which he saw about to break. ‘I am fully aware of that. It
 was a slight knowledge, I know. But the question is,’ Mr Meagles’s voice
-here became comfortable again, ‘did he, on his way to England last time,
+here became comfortable again, ‘did he, on his way to England last [[Time|time]],
 leave a box of papers, or a bundle of papers, or some papers or other in
 some receptacle or other--any papers--with you: begging you to allow him
-to leave them here for a short time, until he wanted them?’
+to leave them here for a short [[Time|time]], until he wanted them?’
 
 ‘The question is?’ she repeated. ‘Whose question is?’
 
 ‘Mine,’ said Mr Meagles. ‘And not only mine but Clennam’s question, and
 other people’s question. Now, I am sure,’ continued Mr Meagles, whose
 heart was overflowing with Pet, ‘that you can’t have any unkind feeling
-towards my daughter; it’s impossible. Well! It’s her question, too;
+towards my daughter; it’s impossible. [[Well]]! It’s her question, too;
 being one in which a particular friend of hers is nearly interested.
 So here I am, frankly to say that is the question, and to ask, Now, did
 he?’

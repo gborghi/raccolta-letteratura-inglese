@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-said it more simply: "leave now to dogs and apes; Man has for ever." The
+said it more simply: "leave now to [[dogs]] and apes; Man has for ever." The
 
 obscurities were not merely superficial, but often covered quite
 
@@ -34,7 +34,7 @@ disparaged the picture, "while John scorns ale." I could not think what
 
 this sudden teetotalism on the part of John had to do with the affair,
 
-but I forgot to ask at the time and it was only years afterwards that,
+but I forgot to ask at the [[Time|time]] and it was only years afterwards that,
 
 looking at the book, I found it was "John's corns ail," a very
 
@@ -62,17 +62,17 @@ to have serenaded heaven with a guitar, and even, so to speak, tried to
 
 climb there with a rope ladder. Thus his most vivid things are the
 
-red-hot little love lyrics, or rather, little love dramas. He did one
+red-hot little [[Love|love]] lyrics, or rather, little [[Love|love]] dramas. He did one
 
 really original and admirable thing: he managed the real details of
 
-modern love affairs in verse, and love is the most realistic thing in
+modern [[Love|love]] affairs in verse, and [[Love|love]] is the most realistic thing in
 
 the world. He substituted the street with the green blind for the faded
 
-garden of Watteau, and the "blue spirt of a lighted match" for the
+[[Garden|garden]] of Watteau, and the "blue spirt of a lighted match" for the
 
-monotony of the evening star.
+monotony of the [[Evening Star|evening star]].
 
 
 
@@ -92,29 +92,29 @@ European politics. She defended Louis Napoleon and Victor Emmanuel; and
 
 intelligently, as one conscious of the case against them both. As to
 
-why it now seems simple to defend the first Italian King, but absurd to
+why it now seems simple to defend the first Italian [[King]], but absurd to
 
-defend the last French Emperor--well, the reason is sad and simple. It
+defend the last French Emperor--[[Well|well]], the reason is sad and simple. It
 
-is concerned with certain curious things called success and failure, and
+is concerned with certain curious things called [[success]] and failure, and
 
 I ought to have considered it under the heading of _The Book of Snobs_.
 
-But Elizabeth Barrett, at least, was no snob: her political poems have
+But Elizabeth Barrett, at least, was no snob: her political [[Poems|poems]] have
 
 rather an impatient air, as if they were written, and even published,
 
 rather prematurely--just before the fall of her idol. These old
 
-political poems of hers are too little read to-day; they are amongst the
+political [[Poems|poems]] of hers are too little read to-day; they are amongst the
 
-most sincere documents on the history of the times, and many modern
+most sincere documents on the [[history]] of the times, and many modern
 
 blunders could be corrected by the reading of them. And Elizabeth
 
 Barrett had a strength really rare among women poets; the strength of
 
-the phrase. She excelled in her sex, in epigram, almost as much as
+the phrase. She excelled in her sex, in [[Epigram|epigram]], almost as much as
 
 Voltaire in his. Pointed phrases like: "Martyrs by the pang without the
 
@@ -148,9 +148,9 @@ Tennyson wrote these profoundly foolish lines--
 
 as if the defeat of an English regiment were a violation of the laws of
 
-Nature. Mrs. Browning knew no more facts about Napoleon, perhaps, than
+[[Nature]]. Mrs. Browning knew no more facts about Napoleon, perhaps, than
 
-Tennyson did; but she knew the truth. Her epigram on Napoleon's fall is
+Tennyson did; but she knew the [[Truth|truth]]. Her [[Epigram|epigram]] on Napoleon's fall is
 
 in one line
 
@@ -178,7 +178,7 @@ as I have roughly called it, having one leg shorter than the other. But
 
 her case was, in one sense, extreme. She exaggerated both ways. She was
 
-too strong and too weak, or (as a false sex philosophy would express it)
+too strong and too weak, or (as a false sex [[philosophy]] would express it)
 
 too masculine and too feminine. I mean that she hit the centre of
 
@@ -190,12 +190,12 @@ centre of strength. She could write finally of the factory wheels
 
 observation. Unfortunately she could also write of Euripides "with his
 
-droppings of warm tears." She could write in _A Drama of Exile_, a
+droppings of warm [[Tears|tears]]." She could write in _A Drama of Exile_, a
 
 really fine exposition, touching the later relation of Adam and the
 
-animals: unfortunately the tears were again turned on at the wrong
+[[Animals|animals]]: unfortunately the [[Tears|tears]] were again turned on at the wrong
 
-moment at the main; and the stage direction commands a silence, only
+moment at the main; and the stage direction commands a [[Silence|silence]], only
 
-broken by the dropping of angel's tears. How much noise is made by
+broken by the dropping of angel's [[Tears|tears]]. How much noise is made by

@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 1"
+title: "[[Great Expectations]] — Chapter 1"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -22,27 +22,27 @@ infant tongue could make of both names nothing longer or more explicit
 than Pip. So, I called myself Pip, and came to be called Pip.
 
 I give Pirrip as my father’s family name, on the authority of his
-tombstone and my sister,—Mrs. Joe Gargery, who married the blacksmith.
+tombstone and my sister,—Mrs. [[Joe Gargery]], who married the blacksmith.
 As I never saw my father or my mother, and never saw any likeness of
 either of them (for their days were long before the days of
 photographs), my first fancies regarding what they were like were
 unreasonably derived from their tombstones. The shape of the letters on
 my father’s, gave me an odd idea that he was a square, stout, dark man,
-with curly black hair. From the character and turn of the inscription,
+with curly black hair. From the character and turn of the [[Inscription|inscription]],
 “_Also Georgiana Wife of the Above_,” I drew a childish conclusion that
 my mother was freckled and sickly. To five little stone lozenges, each
 about a foot and a half long, which were arranged in a neat row beside
-their grave, and were sacred to the memory of five little brothers of
+their [[Grave|grave]], and were sacred to the [[Memory|memory]] of five little brothers of
 mine,—who gave up trying to get a living, exceedingly early in that
 universal struggle,—I am indebted for a belief I religiously
 entertained that they had all been born on their backs with their hands
 in their trousers-pockets, and had never taken them out in this state
 of existence.
 
-Ours was the marsh country, down by the river, within, as the river
+Ours was the marsh country, down by the [[River|river]], within, as the [[River|river]]
 wound, twenty miles of the sea. My first most vivid and broad
-impression of the identity of things seems to me to have been gained on
-a memorable raw afternoon towards evening. At such a time I found out
+impression of the [[Identity|identity]] of things seems to me to have been gained on
+a memorable raw afternoon towards evening. At such a [[Time|time]] I found out
 for certain that this bleak place overgrown with nettles was the
 churchyard; and that Philip Pirrip, late of this parish, and also
 Georgiana wife of the above, were dead and buried; and that Alexander,
@@ -50,8 +50,8 @@ Bartholomew, Abraham, Tobias, and Roger, infant children of the
 aforesaid, were also dead and buried; and that the dark flat wilderness
 beyond the churchyard, intersected with dikes and mounds and gates,
 with scattered cattle feeding on it, was the marshes; and that the low
-leaden line beyond was the river; and that the distant savage lair from
-which the wind was rushing was the sea; and that the small bundle of
+leaden line beyond was the [[River|river]]; and that the distant savage lair from
+which the [[Wind|wind]] was rushing was the sea; and that the small bundle of
 shivers growing afraid of it all and beginning to cry, was Pip.
 
 “Hold your noise!” cried a terrible voice, as a man started up from
@@ -60,7 +60,7 @@ little devil, or I’ll cut your throat!”
 
 A fearful man, all in coarse grey, with a great iron on his leg. A man
 with no hat, and with broken shoes, and with an old rag tied round his
-head. A man who had been soaked in water, and smothered in mud, and
+head. A man who had been soaked in [[Water|water]], and smothered in mud, and
 lamed by stones, and cut by flints, and stung by nettles, and torn by
 briars; who limped, and shivered, and glared, and growled; and whose
 teeth chattered in his head as he seized me by the chin.
@@ -93,13 +93,13 @@ tombstone, trembling while he ate the bread ravenously.
 “You young dog,” said the man, licking his lips, “what fat cheeks you
 ha’ got.”
 
-I believe they were fat, though I was at that time undersized for my
+I believe they were fat, though I was at that [[Time|time]] undersized for my
 years, and not strong.
 
 “Darn me if I couldn’t eat ’em,” said the man, with a threatening shake
 of his head, “and if I han’t half a mind to’t!”
 
-I earnestly expressed my hope that he wouldn’t, and held tighter to the
+I earnestly expressed my [[Hope|hope]] that he wouldn’t, and held tighter to the
 tombstone on which he had put me; partly, to keep myself upon it;
 partly, to keep myself from crying.
 
@@ -119,7 +119,7 @@ mother?”
 “Ha!” he muttered then, considering. “Who d’ye live with,—supposin’
 you’re kindly let to live, which I han’t made up my mind about?”
 
-“My sister, sir,—Mrs. Joe Gargery,—wife of Joe Gargery, the blacksmith,
+“My sister, sir,—Mrs. [[Joe Gargery]],—wife of [[Joe Gargery]], the blacksmith,
 sir.”
 
 “Blacksmith, eh?” said he. And looked down at his leg.
@@ -159,7 +159,7 @@ you never dare to say a word or dare to make a sign concerning your
 having seen such a person as me, or any person sumever, and you shall
 be let to live. You fail, or you go from my words in any partickler, no
 matter how small it is, and your heart and your liver shall be tore
-out, roasted, and ate. Now, I ain’t alone, as you may think I am.
+out, roasted, and ate. Now, I ain’t [[Alone|alone]], as you may think I am.
 There’s a young man hid with me, in comparison with which young man I
 am a Angel. That young man hears the words I speak. That young man has
 a secret way pecooliar to himself, of getting at a boy, and at his
@@ -181,14 +181,14 @@ the morning.
 I said so, and he took me down.
 
 “Now,” he pursued, “you remember what you’ve undertook, and you
-remember that young man, and you get home!”
+remember that young man, and you get [[Home|home]]!”
 
-“Goo-good night, sir,” I faltered.
+“Goo-good [[Night|night]], sir,” I faltered.
 
 “Much of that!” said he, glancing about him over the cold wet flat. “I
 wish I was a frog. Or a eel!”
 
-At the same time, he hugged his shuddering body in both his
+At the same [[Time|time]], he hugged his shuddering [[Body|body]] in both his
 arms,—clasping himself, as if to hold himself together,—and limped
 towards the low church wall. As I saw him go, picking his way among the
 nettles, and among the brambles that bound the green mounds, he looked
@@ -198,25 +198,25 @@ ankle and pull him in.
 
 When he came to the low church wall, he got over it, like a man whose
 legs were numbed and stiff, and then turned round to look for me. When
-I saw him turning, I set my face towards home, and made the best use of
+I saw him turning, I set my face towards [[Home|home]], and made the best use of
 my legs. But presently I looked over my shoulder, and saw him going on
-again towards the river, still hugging himself in both arms, and
+again towards the [[River|river]], still hugging himself in both arms, and
 picking his way with his sore feet among the great stones dropped into
 the marshes here and there, for stepping-places when the rains were
 heavy or the tide was in.
 
 The marshes were just a long black horizontal line then, as I stopped
-to look after him; and the river was just another horizontal line, not
+to look after him; and the [[River|river]] was just another horizontal line, not
 nearly so broad nor yet so black; and the sky was just a row of long
 angry red lines and dense black lines intermixed. On the edge of the
-river I could faintly make out the only two black things in all the
+[[River|river]] I could faintly make out the only two black things in all the
 prospect that seemed to be standing upright; one of these was the
 beacon by which the sailors steered,—like an unhooped cask upon a
 pole,—an ugly thing when you were near it; the other, a gibbet, with
-some chains hanging to it which had once held a pirate. The man was
+some [[Chains|chains]] hanging to it which had once held a pirate. The man was
 limping on towards this latter, as if he were the pirate come to life,
 and come down, and going back to hook himself up again. It gave me a
 terrible turn when I thought so; and as I saw the cattle lifting their
 heads to gaze after him, I wondered whether they thought so too. I
 looked all round for the horrible young man, and could see no signs of
-him. But now I was frightened again, and ran home without stopping.
+him. But now I was frightened again, and ran [[Home|home]] without stopping.

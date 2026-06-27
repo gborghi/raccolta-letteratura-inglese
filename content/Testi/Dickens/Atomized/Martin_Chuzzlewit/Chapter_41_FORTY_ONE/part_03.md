@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 41: FORTY ONE (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 41: FORTY ONE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -37,7 +37,7 @@ arrived, it was necessary to do something. It fortunately occurred to
 me, that if I gave it him myself I could be of no further use. I should
 have been blown upon immediately.’
 
-‘Mr Nadgett, you are a jewel,’ said Montague, patting him on the back.
+‘Mr Nadgett, you are a [[Jewel|jewel]],’ said Montague, patting him on the back.
 ‘What’s your lodger’s name?’
 
 ‘Pinch, sir. Thomas Pinch.’
@@ -56,7 +56,7 @@ confidentially in all their lives.
 In the meanwhile, Mr Jonas and the doctor made themselves very
 comfortable upstairs, over a bottle of the old Madeira and some
 sandwiches; for the doctor having been already invited to dine below at
-six o’clock, preferred a light repast for lunch. It was advisable, he
+six o’[[Clock|clock]], preferred a light repast for lunch. It was advisable, he
 said, in two points of view: First, as being healthy in itself. Secondly
 as being the better preparation for dinner.
 
@@ -68,11 +68,11 @@ Otherwise your spirits could not be so remarkable. Your bosom’s lord
 sits lightly on its throne, Mr Chuzzlewit, as what’s-his-name says in
 the play. I wish he said it in a play which did anything like common
 justice to our profession, by the bye. There is an apothecary in
-that drama, sir, which is a low thing; vulgar, sir; out of nature
+that drama, sir, which is a low thing; vulgar, sir; out of [[Nature|nature]]
 altogether.’
 
 Mr Jobling pulled out his shirt-frill of fine linen, as though he would
-have said, ‘This is what I call nature in a medical man, sir;’ and
+have said, ‘This is what I call [[Nature|nature]] in a medical man, sir;’ and
 looked at Jonas for an observation.
 
 Jonas not being in a condition to pursue the subject, took up a case of
@@ -89,7 +89,7 @@ scrutinizing it with a look as sharp and eager as its own bright edge.
 ‘Ye-es,’ replied the doctor, with the faltering modesty of ownership.
 ‘One might open a vein pretty dexterously with that, Mr Chuzzlewit.’
 
-‘It has opened a good many in its time, I suppose?’ said Jonas looking
+‘It has opened a good many in its [[Time|time]], I suppose?’ said Jonas looking
 at it with a growing interest.
 
 ‘Not a few, my dear sir, not a few. It has been engaged in a--in a
@@ -125,10 +125,10 @@ our profession; it was so artistically done.’
 gentleman was found, one morning, in an obscure street, lying in
 an angle of a doorway--I should rather say, leaning, in an upright
 position, in the angle of a doorway, and supported consequently by the
-doorway. Upon his waistcoat there was one solitary drop of blood. He was
+doorway. Upon his waistcoat there was one solitary drop of [[Blood|blood]]. He was
 dead and cold; and had been murdered, sir.’
 
-‘Only one drop of blood!’ said Jonas.
+‘Only one drop of [[Blood|blood]]!’ said Jonas.
 
 ‘Sir, that man,’ replied the doctor, ‘had been stabbed to the heart.
 Had been stabbed to the heart with such dexterity, sir, that he had
@@ -144,7 +144,7 @@ whatever it was, when he was quite prepared; and--’
 ‘Exactly so,’ replied the doctor. ‘It was quite an operation in its way,
 and very neat. The medical friend never turned up; and, as I tell you,
 he had the credit of it. Whether he did it or not I can’t say.
-But, having had the honour to be called in with two or three of my
+But, having had the [[Honour|honour]] to be called in with two or three of my
 professional brethren on the occasion, and having assisted to make a
 careful examination of the wound, I have no hesitation in saying that
 it would have reflected credit on any medical man; and that in an
@@ -162,7 +162,7 @@ and unusual state as when they had sat down. If, as Jobling theorized,
 his good digestion were the cause, he must have been a very ostrich.
 
 At dinner it was just the same; and after dinner too; though wine was
-drunk in abundance, and various rich meats eaten. At nine o’clock it was
+drunk in abundance, and various rich meats eaten. At nine o’[[Clock|clock]] it was
 still the same. There being a lamp in the carriage, he swore they would
 take a pack of cards, and a bottle of wine; and with these things under
 his cloak, went down to the door.
@@ -182,9 +182,9 @@ lighting a cigar; conducting Mr Bailey with him, by the collar.
 ‘Yes,’ said Montague.
 
 He gave the boy a shake, and threw him roughly aside. There was more of
-his familiar self in the action, than in anything he had done that day;
+his familiar [[Self|self]] in the action, than in anything he had done that day;
 but he broke out laughing immediately afterwards, and making a thrust
-at the doctor with his hand, in imitation of his representation of the
+at the doctor with his hand, in [[Imitation|imitation]] of his representation of the
 medical friend, went out to the carriage again, and took his seat. His
 companion followed immediately. Mr Bailey climbed into the rumble. ‘It
-will be a stormy night!’ exclaimed the doctor, as they started.
+will be a stormy [[Night|night]]!’ exclaimed the doctor, as they started.

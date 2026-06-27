@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 4)"
+title: "[[David Copperfield]] — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -17,18 +17,18 @@ tags:
 ‘Mama!’ returned Annie. ‘Waste no words on me, for my appeal is to my
 husband, and even you are nothing here.’
 
-‘Nothing!’ exclaimed Mrs. Markleham. ‘Me, nothing! The child has taken
-leave of her senses. Please to get me a glass of water!’
+‘Nothing!’ exclaimed Mrs. Markleham. ‘Me, nothing! The [[Child|child]] has taken
+leave of her senses. Please to get me a glass of [[Water|water]]!’
 
 I was too attentive to the Doctor and his wife, to give any heed to this
 request; and it made no impression on anybody else; so Mrs. Markleham
 panted, stared, and fanned herself.
 
 ‘Annie!’ said the Doctor, tenderly taking her in his hands. ‘My dear!
-If any unavoidable change has come, in the sequence of time, upon our
+If any unavoidable change has come, in the sequence of [[Time|time]], upon our
 married life, you are not to blame. The fault is mine, and only mine.
 There is no change in my affection, admiration, and respect. I wish to
-make you happy. I truly love and honour you. Rise, Annie, pray!’
+make you happy. I truly [[Love|love]] and [[Honour|honour]] you. Rise, Annie, pray!’
 
 But she did not rise. After looking at him for a little while, she sank
 down closer to him, laid her arm across his knee, and dropping her head
@@ -41,13 +41,13 @@ any friend here, who honours my husband, or has ever cared for me, and
 has anything within his knowledge, no matter what it is, that may help
 to mediate between us, I implore that friend to speak!’
 
-There was a profound silence. After a few moments of painful hesitation,
-I broke the silence.
+There was a profound [[Silence|silence]]. After a few moments of painful hesitation,
+I broke the [[Silence|silence]].
 
 ‘Mrs. Strong,’ I said, ‘there is something within my knowledge, which
 I have been earnestly entreated by Doctor Strong to conceal, and have
-concealed until tonight. But, I believe the time has come when it would
-be mistaken faith and delicacy to conceal it any longer, and when your
+concealed until tonight. But, I believe the [[Time|time]] has come when it would
+be mistaken [[Faith|faith]] and delicacy to conceal it any longer, and when your
 appeal absolves me from his injunction.’
 
 She turned her face towards me for a moment, and I knew that I was
@@ -62,9 +62,9 @@ disregard that. I will speak for myself, before him, and before God
 afterwards.’
 
 Thus earnestly besought, I made no reference to the Doctor for his
-permission, but, without any other compromise of the truth than a little
-softening of the coarseness of Uriah Heep, related plainly what had
-passed in that same room that night. The staring of Mrs. Markleham
+permission, but, without any other compromise of the [[Truth|truth]] than a little
+softening of the coarseness of [[Uriah Heep]], related plainly what had
+passed in that same room that [[Night|night]]. The staring of Mrs. Markleham
 during the whole narration, and the shrill, sharp interjections with
 which she occasionally interrupted it, defy description.
 
@@ -80,10 +80,10 @@ low, submissive, tender voice, ‘I will lay bare before you. I could not
 live and have one reservation, knowing what I know now.’
 
 ‘Nay, Annie,’ said the Doctor, mildly, ‘I have never doubted you, my
-child. There is no need; indeed there is no need, my dear.’
+[[Child|child]]. There is no need; indeed there is no need, my dear.’
 
 ‘There is great need,’ she answered, in the same way, ‘that I should
-open my whole heart before the soul of generosity and truth, whom, year
+open my whole heart before the [[Soul|soul]] of generosity and [[Truth|truth]], whom, year
 by year, and day by day, I have loved and venerated more and more, as
 Heaven knows!’
 
@@ -96,12 +96,12 @@ to enter into these details.’
 
 ‘No one but my husband can judge of that, mama,’ said Annie without
 removing her eyes from his face, ‘and he will hear me. If I say anything
-to give you pain, mama, forgive me. I have borne pain first, often and
+to give you [[Pain|pain]], mama, forgive me. I have borne [[Pain|pain]] first, often and
 long, myself.’
 
 ‘Upon my word!’ gasped Mrs. Markleham.
 
-‘When I was very young,’ said Annie, ‘quite a little child, my first
+‘When I was very young,’ said Annie, ‘quite a little [[Child|child]], my first
 associations with knowledge of any kind were inseparable from a patient
 friend and teacher--the friend of my dead father--who was always dear
 to me. I can remember nothing that I know, without remembering him. He
@@ -118,7 +118,7 @@ him, I can hardly describe how--as a father, as a guide, as one whose
 praise was different from all other praise, as one in whom I could have
 trusted and confided, if I had doubted all the world. You know, mama,
 how young and inexperienced I was, when you presented him before me, of
-a sudden, as a lover.’
+a sudden, as a [[Lover|lover]].’
 
 ‘I have mentioned the fact, fifty times at least, to everybody here!’
 said Mrs. Markleham.

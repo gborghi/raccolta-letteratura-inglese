@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 29"
+title: "[[Shirley]] — Chapter 29"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -18,13 +18,13 @@ CHAPTER XXIX.
 
 
 
-LOUIS MOORE.
+[[Louis Moore|LOUIS MOORE]].
 
 
 
 
 
-Louis Moore was used to a quiet life. Being a quiet man, he endured it
+[[Louis Moore]] was used to a quiet life. Being a quiet man, he endured it
 
 better than most men would. Having a large world of his own in his own
 
@@ -44,25 +44,25 @@ mother and sisters, who are now at the priory. Kind gentleman as the
 
 baronet is, he asked the tutor too; but the tutor would much sooner have
 
-made an appointment with the ghost of the Earl of Huntingdon to meet
+made an appointment with the [[Ghost|ghost]] of the Earl of Huntingdon to meet
 
 him, and a shadowy ring of his merry men, under the canopy of the
 
 thickest, blackest, oldest oak in Nunnely Forest. Yes, he would rather
 
-have appointed tryst with a phantom abbess, or mist-pale nun, among the
+have appointed tryst with a [[Phantom|phantom]] abbess, or mist-pale nun, among the
 
 wet and weedy relics of that ruined sanctuary of theirs, mouldering in
 
-the core of the wood. Louis Moore longs to have something near him
+the core of the wood. [[Louis Moore]] longs to have something near him
 
-to-night; but not the boy-baronet, nor his benevolent but stern mother,
+to-[[Night|night]]; but not the boy-baronet, nor his benevolent but stern mother,
 
-nor his patrician sisters, nor one soul of the Sympsons.
+nor his patrician sisters, nor one [[Soul|soul]] of the Sympsons.
 
 
 
-This night is not calm; the equinox still struggles in its storms. The
+This [[Night|night]] is not calm; the equinox still struggles in its storms. The
 
 wild rains of the day are abated; the great single cloud disparts and
 
@@ -70,17 +70,17 @@ rolls away from heaven, not passing and leaving a sea all sapphire, but
 
 tossed buoyant before a continued, long-sounding, high-rushing moonlight
 
-tempest. The moon reigns glorious, glad of the gale, as glad as if she
+tempest. The [[Moon|moon]] reigns glorious, glad of the gale, as glad as if she
 
-gave herself to his fierce caress with love. No Endymion will watch for
+gave herself to his fierce caress with [[Love|love]]. No [[Endymion]] will watch for
 
-his goddess to-night. There are no flocks out on the mountains; and it
+his goddess to-[[Night|night]]. There are no flocks out on the [[Mountains|mountains]]; and it
 
-is well, for to-night she welcomes Æolus.
+is [[Well|well]], for to-[[Night|night]] she welcomes Æolus.
 
 
 
-Moore, sitting in the schoolroom, heard the storm roar round the other
+Moore, sitting in the schoolroom, heard the [[Storm|storm]] roar round the other
 
 gable and along the hall-front. This end was sheltered. He wanted no
 
@@ -100,15 +100,15 @@ branch-screened lattice of his own apartment, admitted unimpeded the
 
 dark-blue, the silver-fleeced, the stirring and sweeping vision of the
 
-autumn night-sky. He carried no candle; unneeded was lamp or fire. The
+[[Autumn|autumn]] [[Night|night]]-sky. He carried no candle; unneeded was lamp or [[Fire|fire]]. The
 
-broad and clear though cloud-crossed and fluctuating beam of the moon
+broad and clear though cloud-crossed and fluctuating beam of the [[Moon|moon]]
 
 shone on every floor and wall.
 
 
 
-Moore wanders through all the rooms. He seems following a phantom from
+Moore wanders through all the rooms. He seems following a [[Phantom|phantom]] from
 
 parlour to parlour. In the oak room he stops. This is not chill, and
 
@@ -126,7 +126,7 @@ could you see him standing before it. There is as much interest now in
 
 his eye, and as much significance in his face, as if in this household
 
-solitude he had found a living companion, and was going to speak to it.
+[[Solitude|solitude]] he had found a living companion, and was going to speak to it.
 
 
 
@@ -158,7 +158,7 @@ Whence did she acquire the gift to be heedless and never offend? There
 
 is always something to chide in her, and the reprimand never settles in
 
-displeasure on the heart, but, for her lover or her husband, when it had
+displeasure on the heart, but, for her [[Lover|lover]] or her husband, when it had
 
 trickled a while in words, would naturally melt from his lips in a kiss.
 
@@ -176,11 +176,11 @@ his evening's comfort.
 
 
 
-He dropped the curtains over the broad window and regal moon. He shut
+He dropped the curtains over the broad [[Window|window]] and regal [[Moon|moon]]. He shut
 
-out sovereign and court and starry armies; he added fuel to the hot but
+out sovereign and [[Court|court]] and starry armies; he added fuel to the hot but
 
-fast-wasting fire; he lit a candle, of which there were a pair on the
+fast-wasting [[Fire|fire]]; he lit a candle, of which there were a pair on the
 
 table; he placed another chair opposite that near the workstand; and
 
@@ -194,9 +194,9 @@ Stoop over his shoulder fearlessly, and read as he scribbles.
 
 
 
-"It is nine o'clock; the carriage will not return before eleven, I am
+"It is nine o'[[Clock|clock]]; the carriage will not return before eleven, I am
 
-certain. Freedom is mine till then; till then I may occupy her room, sit
+certain. [[Freedom]] is mine till then; till then I may occupy her room, sit
 
 opposite her chair, rest my elbow on her table, have her little
 
@@ -204,15 +204,15 @@ mementoes about me.
 
 
 
-"I used rather to like Solitude--to fancy her a somewhat quiet and
+"I used rather to like [[Solitude]]--to fancy her a somewhat quiet and
 
 serious, yet fair nymph; an Oread, descending to me from lone
 
 mountain-passes, something of the blue mist of hills in her array and of
 
-their chill breeze in her breath, but much also of their solemn beauty
+their chill breeze in her breath, but much also of their solemn [[Beauty|beauty]]
 
-in her mien. I once could court her serenely, and imagine my heart
+in her mien. I once could [[Court|court]] her serenely, and imagine my heart
 
 easier when I held her to it--all mute, but majestic.
 
@@ -224,9 +224,9 @@ sat so near my side; since she opened the trouble of her mind to me,
 
 asked my protection, appealed to my strength--since that hour I abhor
 
-Solitude. Cold abstraction, fleshless skeleton, daughter, mother, and
+[[Solitude]]. Cold abstraction, fleshless [[skeleton]], daughter, mother, and
 
-mate of Death!
+mate of [[Death]]!
 
 
 
@@ -242,7 +242,7 @@ living--say what I dare not _think_ aloud.
 
 "We have scarcely encountered each other since that evening. Once, when
 
-I was alone in the drawing-room, seeking a book of Henry's, she entered,
+I was [[Alone|alone]] in the drawing-room, seeking a book of Henry's, she entered,
 
 dressed for a concert at Stilbro'. Shyness--_her_ shyness, not
 
@@ -250,7 +250,7 @@ mine--drew a silver veil between us. Much cant have I heard and read
 
 about 'maiden modesty,' but, properly used, and not hackneyed, the words
 
-are good and appropriate words. As she passed to the window, after
+are good and appropriate words. As she passed to the [[Window|window]], after
 
 tacitly but gracefully recognizing me, I could call her nothing in my
 
@@ -258,7 +258,7 @@ own mind save 'stainless virgin.' To my perception, a delicate
 
 splendour robed her, and the modesty of girlhood was her halo. I may be
 
-the most fatuous, as I am one of the plainest, of men, but in truth that
+the most fatuous, as I am one of the plainest, of men, but in [[Truth|truth]] that
 
 shyness of hers touched me exquisitely; it flattered my finest
 
@@ -272,19 +272,19 @@ averted her head to hide the suffusion of her cheek.
 
 "I know this is the talk of a dreamer--of a rapt, romantic lunatic. I
 
-_do_ dream. I _will_ dream now and then; and if she has inspired romance
+_do_ dream. I _will_ dream now and then; and if she has inspired [[Romance|romance]]
 
 into my prosaic composition, how can I help it?
 
 
 
-"What a child she is sometimes! What an unsophisticated, untaught thing!
+"What a [[Child|child]] she is sometimes! What an unsophisticated, untaught thing!
 
 I see her now looking up into my face, and entreating me to prevent them
 
 from smothering her, and to be sure and give her a strong narcotic. I
 
-see her confessing that she was not so self-sufficing, so independent of
+see her confessing that she was not so [[Self|self]]-sufficing, so independent of
 
 sympathy, as people thought. I see the secret tear drop quietly from her
 
@@ -302,15 +302,15 @@ power to sustain her, as a husband should sustain his wife.
 
 foibles, that bring her near to me, that nestle her to my heart, that
 
-fold her about with my love, and that for a most selfish but
+fold her about with my [[Love|love]], and that for a most selfish but
 
 deeply-natural reason. These faults are the steps by which I mount to
 
-ascendency over her. If she rose a trimmed, artificial mound, without
+ascendency over her. If she [[Rose|rose]] a trimmed, artificial mound, without
 
 inequality, what vantage would she offer the foot? It is the natural
 
-hill, with its mossy breaks and hollows, whose slope invites ascent,
+[[Hill|hill]], with its mossy breaks and hollows, whose slope invites ascent,
 
 whose summit it is pleasure to gain.
 
@@ -318,7 +318,7 @@ whose summit it is pleasure to gain.
 
 "To leave metaphor. It delights my eye to look on her. She suits me. If
 
-I were a king and she the housemaid that swept my palace-stairs, across
+I were a [[King|king]] and she the housemaid that swept my palace-stairs, across
 
 all that space between us my eye would recognize her qualities; a true
 
@@ -326,15 +326,15 @@ pulse would beat for her in my heart, though an unspanned gulf made
 
 acquaintance impossible. If I were a gentleman, and she waited on me as
 
-a servant, I could not help liking that Shirley. Take from her her
+a servant, I could not help liking that [[Shirley]]. Take from her her
 
-education; take her ornaments, her sumptuous dress, all extrinsic
+[[Education|education]]; take her ornaments, her sumptuous dress, all extrinsic
 
 advantages; take all grace, but such as the symmetry of her form renders
 
 inevitable; present her to me at a cottage door, in a stuff gown; let
 
-her offer me there a draught of water, with that smile, with that warm
+her offer me there a draught of [[Water|water]], with that smile, with that warm
 
 good-will with which she now dispenses manorial hospitality--I should
 
@@ -352,7 +352,7 @@ pleasure; whenever I left her, it would be with regret.
 
 has money! In the lock hang the keys of all her repositories, of her
 
-very jewel-casket. There is a purse in that little satin bag; I see the
+very [[Jewel|jewel]]-casket. There is a purse in that little satin bag; I see the
 
 tassel of silver beads hanging out. That spectacle would provoke my
 
@@ -386,9 +386,9 @@ better I like her. She is never wilder than when equipped in her habit
 
 and hat, never less manageable than when she and Zoë come in fiery from
 
-a race with the wind on the hills; and I confess it--to this mute page I
+a race with the [[Wind|wind]] on the hills; and I confess it--to this mute page I
 
-may confess it--I have waited an hour in the court for the chance of
+may confess it--I have waited an hour in the [[Court|court]] for the chance of
 
 witnessing her return, and for the dearer chance of receiving her in my
 
@@ -410,7 +410,7 @@ me unreluctantly. Is she conscious how my strength rejoices to serve
 
 her? I myself am not her slave--I declare it--but my faculties gather
 
-to her beauty, like the genii to the glisten of the lamp. All my
+to her [[Beauty|beauty]], like the genii to the glisten of the lamp. All my
 
 knowledge, all my prudence, all my calm, and all my power stand in her
 
@@ -446,7 +446,7 @@ fresh, unsullied satin of the bag.
 
 "What a difference there is between S. and that pearl C. H.! Caroline, I
 
-fancy, is the soul of conscientious punctuality and nice exactitude. She
+fancy, is the [[Soul|soul]] of conscientious punctuality and nice exactitude. She
 
 would precisely suit the domestic habits of a certain fastidious kinsman
 
@@ -468,29 +468,29 @@ of the valley, untinted, needing no tint. What change could improve her?
 
 What pencil dare to paint? _My_ sweetheart, if I ever have one, must
 
-bear nearer affinity to the rose--a sweet, lively delight guarded with
+bear nearer affinity to the [[Rose|rose]]--a sweet, lively delight guarded with
 
 prickly peril. _My_ wife, if I ever marry, must stir my great frame with
 
 a sting now and then; she must furnish use to her husband's vast mass of
 
-patience. I was not made so enduring to be mated with a lamb; I should
+patience. I was not made so enduring to be mated with a [[Lamb|lamb]]; I should
 
 find more congenial responsibility in the charge of a young lioness or
 
 leopardess. I like few things sweet but what are likewise pungent--few
 
-things bright but what are likewise hot. I like the summer day, whose
+things bright but what are likewise hot. I like the [[Summer|summer]] day, whose
 
-sun makes fruit blush and corn blanch. Beauty is never so beautiful as
+sun makes fruit blush and corn blanch. [[Beauty]] is never so beautiful as
 
 when, if I tease it, it wreathes back on me with spirit. Fascination is
 
 never so imperial as when, roused and half ireful, she threatens
 
-transformation to fierceness. I fear I should tire of the mute,
+transformation to fierceness. I [[Fear|fear]] I should tire of the mute,
 
-monotonous innocence of the lamb; I should ere long feel as burdensome
+monotonous [[innocence]] of the [[Lamb|lamb]]; I should ere long feel as burdensome
 
 the nestling dove which never stirred in my bosom; but my patience would
 
@@ -502,7 +502,7 @@ _bête fauve_ my powers would revel.
 
 
 
-"O my pupil! O Peri! too mutinous for heaven, too innocent for hell,
+"O my pupil! O Peri! too mutinous for heaven, too [[Innocent|innocent]] for hell,
 
 never shall I do more than see, and worship, and wish for thee. Alas!
 
@@ -512,7 +512,7 @@ possessed by those who have not that power?
 
 
 
-"However kindly the hand, if it is feeble, it cannot bend Shirley; and
+"However kindly the hand, if it is feeble, it cannot bend [[Shirley]]; and
 
 she must be bent. It cannot curb her; and she must be curbed.
 
@@ -522,33 +522,33 @@ she must be bent. It cannot curb her; and she must be curbed.
 
 side, and observe her lips compressed, or her brow knit, in resolute
 
-endurance of some trait of your character which she neither admires nor
+[[Endurance|endurance]] of some trait of your character which she neither admires nor
 
 likes, in determined toleration of some weakness she believes atoned for
 
 by a virtue, but which annoys her despite that belief; I never mark the
 
-grave glow of her face, the unsmiling sparkle of her eye, the slight
+[[Grave|grave]] glow of her face, the unsmiling sparkle of her eye, the slight
 
 recoil of her whole frame when you draw a little too near, and gaze a
 
 little too expressively, and whisper a little too warmly--I never
 
-witness these things but I think of the fable of Semele reversed.
+witness these things but I think of the [[Fable|fable]] of Semele reversed.
 
 
 
 "It is not the daughter of Cadmus I see, nor do I realize her fatal
 
-longing to look on Jove in the majesty of his god-head. It is a priest
+[[Longing|longing]] to look on Jove in the majesty of his god-head. It is a priest
 
 of Juno that stands before me, watching late and lone at a shrine in an
 
-Argive temple. For years of solitary ministry he has lived on dreams.
+Argive temple. For years of solitary ministry he has lived on [[Dreams|dreams]].
 
-There is divine madness upon him. He loves the idol he serves, and prays
+There is divine [[Madness|madness]] upon him. He loves the idol he serves, and prays
 
-day and night that his frenzy may be fed, and that the Ox-eyed may smile
+day and [[Night|night]] that his frenzy may be fed, and that the Ox-eyed may smile
 
 on her votary. She has heard; she will be propitious. All Argos
 
@@ -558,17 +558,17 @@ altar.
 
 
 
-"A shock of heaven and earth is felt--not by the slumbering city, only
+"A shock of heaven and earth is felt--not by the slumbering [[City|city]], only
 
-by that lonely watcher, brave and unshaken in his fanaticism. In the
+by that lonely watcher, brave and unshaken in his [[Fanaticism|fanaticism]]. In the
 
-midst of silence, with no preluding sound, he is wrapped in sudden
+midst of [[Silence|silence]], with no preluding sound, he is wrapped in sudden
 
 light. Through the roof, through the rent, wide-yawning, vast,
 
 white-blazing blue of heaven above, pours a wondrous descent, dread as
 
-the downrushing of stars. He has what he asked. Withdraw--forbear to
+the downrushing of [[Stars|stars]]. He has what he asked. Withdraw--forbear to
 
 look--I am blinded. I hear in that fane an unspeakable sound. Would that
 
@@ -578,9 +578,9 @@ between the pillars. Gods be merciful and quench it!
 
 
 
-"A pious Argive enters to make an early offering in the cool dawn of
+"A pious Argive enters to make an early offering in the cool [[Dawn|dawn]] of
 
-morning. There was thunder in the night; the bolt fell here. The shrine
+morning. There was thunder in the [[Night|night]]; the bolt fell here. The shrine
 
 is shivered, the marble pavement round split and blackened. Saturnia's
 
@@ -604,7 +604,7 @@ will be seeking them to-morrow; she will have to come to me. I hear her:
 
 "So she will say, in her clear voice, speaking with reluctance, looking
 
-ashamed, conscious that this is the twentieth time of asking. I will
+ashamed, conscious that this is the twentieth [[Time|time]] of asking. I will
 
 tantalize her, keep her with me, expecting, doubting; and when I _do_
 
@@ -624,7 +624,7 @@ pleasure--display each exquisite variety of glance and curve, to
 
 delight, thrill, perhaps more hopelessly to enchain me. If I must be her
 
-slave, I will not lose my freedom for nothing."
+slave, I will not lose my [[Freedom|freedom]] for nothing."
 
 
 

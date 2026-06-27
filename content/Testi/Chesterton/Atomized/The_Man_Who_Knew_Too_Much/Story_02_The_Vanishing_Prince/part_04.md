@@ -29,37 +29,37 @@ of triangle. But the fourth is just above the third, and I suppose
 it looks on an upper floor."
 "It's only a sort of loft, reached by a ladder, said Nolan. "I've
 
-played in the place when I was a child. It's no more than an empty
+played in the place when I was a [[Child|child]]. It's no more than an empty
 
 shell." And his sad face grew sadder, thinking perhaps of the
 
-tragedy of his country and the part that he played in it.
+[[Tragedy|tragedy]] of his country and the part that he played in it.
 "The man must have got a table and chair, at any rate," said Wilson,
 
-"but no doubt he could have got those from some cottage. If I might
+"but no [[Doubt|doubt]] he could have got those from some cottage. If I might
 
 make a suggestion, sir, I think we ought to approach all the five
 
 entrances at once, so to speak. One of us should go to the door and
 
-one to each window; Macbride here has a ladder for the upper
+one to each [[Window|window]]; Macbride here has a ladder for the upper
 
-window."
+[[Window|window]]."
 Mr. Horne Fisher languidly turned to his distinguished relative and
 
-spoke for the first time.
-"I am rather a convert to the cockney school of psychology," he said
+spoke for the first [[Time|time]].
+"I am rather a [[convert]] to the cockney school of psychology," he said
 
 in an almost inaudible voice.
 The others seemed to feel the same influence in different ways, for
 
 the group began to break up in the manner indicated. Morton moved
 
-toward the window immediately in front of them, where the hidden
+toward the [[Window|window]] immediately in front of them, where the hidden
 
 outlaw had just snuffed the candle; Nolan, a little farther westward
 
-to the next window; while Wilson, followed by Macbride with the
+to the next [[Window|window]]; while Wilson, followed by Macbride with the
 
 ladder, went round to the two windows at the back. Sir Walter Carey
 
@@ -69,22 +69,22 @@ only door, to demand admittance in a more regular fashion.
 "He will be armed, of course," remarked Sir Walter, casually.
 "By all accounts," replied Horne Fisher, "he can do more with a
 
-candlestick than most men with a pistol. But he is pretty sure to
+candlestick than most men with a [[Pistol|pistol]]. But he is pretty sure to
 
-have the pistol, too."
+have the [[Pistol|pistol]], too."
 Even as he spoke the question was answered with a tongue of thunder.
 
-Morton had just placed himself in front of the nearest window, his
+Morton had just placed himself in front of the nearest [[Window|window]], his
 
 broad shoulders blocking the aperture. For an instant it was lit
 
-from within as with red fire, followed by a thundering throng of
+from within as with red [[Fire|fire]], followed by a thundering throng of
 
 echoes. The square shoulders seemed to alter in shape, and the
 
 sturdy figure collapsed among the tall, rank grasses at the foot of
 
-the tower. A puff of smoke floated from the window like a little
+the tower. A puff of smoke floated from the [[Window|window]] like a little
 
 cloud. The two men behind rushed to the spot and raised him, but he
 
@@ -95,15 +95,15 @@ lost in another noise of firing; it was possible that the police
 
 were already avenging their comrade from the other side. Fisher had
 
-already raced round to the next window, and a new cry of
+already raced round to the next [[Window|window]], and a new cry of
 
 astonishment from him brought his patron to the same spot. Nolan,
 
 the Irish policeman, had also fallen, sprawling all his great length
 
-in the grass, and it was red with his blood. He was still alive when
+in the grass, and it was red with his [[Blood|blood]]. He was still alive when
 
-they reached him, but there was death on his face, and he was only
+they reached him, but there was [[Death|death]] on his face, and he was only
 
 able to make a final gesture telling them that all was over; and,
 
@@ -121,7 +121,7 @@ tragic. The other two officers were not dead or mortally wounded,
 
 but Macbride lay with a broken leg and his ladder on top of him,
 
-evidently thrown down from the top window of the tower; while Wilson
+evidently thrown down from the top [[Window|window]] of the tower; while Wilson
 
 lay on his face, quite still as if stunned, with his red head among
 
@@ -134,12 +134,12 @@ round the tower.
 
 was the only word for this unearthly energy, by which one man had
 
-been able to deal death or destruction on three sides of the same
+been able to deal [[Death|death]] or destruction on three sides of the same
 
 small triangle at the same instant.
 Wilson had already scrambled to his feet and with splendid energy
 
-flew again at the window, revolver in hand. He fired twice into the
+flew again at the [[Window|window]], revolver in hand. He fired twice into the
 
 opening and then disappeared in his own smoke; but the thud of his
 
@@ -147,7 +147,7 @@ feet and the shock of a falling chair told them that the intrepid
 
 Londoner had managed at last to leap into the room. Then followed a
 
-curious silence; and Sir Walter, walking to the window through the
+curious [[Silence|silence]]; and Sir Walter, walking to the [[Window|window]] through the
 
 thinning smoke, looked into the hollow shell of the ancient tower.
 
@@ -158,7 +158,7 @@ plain wooden chair and a table on which were pens, ink and paper,
 
 and the candlestick. Halfway up the high wall there was a rude
 
-timber platform under the upper window, a small loft which was more
+timber platform under the upper [[Window|window]], a small loft which was more
 
 like a large shelf. It was reached only by a ladder, and it seemed
 
@@ -181,9 +181,9 @@ more like a bubble than a bomb."
 "He has touched more valuable things than the tower," said Wilson,
 
 gloomily.
-There was a long silence, and then Sir Walter said, seriously:
+There was a long [[Silence|silence]], and then Sir Walter said, seriously:
 
-"Well, Mr. Wilson, I am not a detective, and these unhappy
+"[[Well]], Mr. Wilson, I am not a [[Detective|detective]], and these unhappy
 
 happenings have left you in charge of that branch of the business.
 

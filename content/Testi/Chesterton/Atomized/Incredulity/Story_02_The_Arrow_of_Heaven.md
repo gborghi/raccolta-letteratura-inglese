@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Arrow of Heaven"
+title: "[[Incredulity]] — The Arrow of Heaven"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 TWO:  The Arrow of Heaven
 
-IT is to be feared that about a hundred detective stories have begun
+IT is to be feared that about a hundred [[Detective|detective]] stories have begun
 with the discovery that an American millionaire has been murdered;
 an event which is, for some reason, treated as a sort of calamity.
 This story, I am happy to say, has to begin with a murdered millionaire;
@@ -32,28 +32,28 @@ value both intrinsically and historically:  a sort of chalice
 inlaid with precious stones and commonly called the Coptic Cup.
 Its origin was obscure, but its use was conjectured to be religious;
 and some attributed the fate that followed its possessors to
-the fanaticism of some Oriental Christian horrified at its passing
+the [[Fanaticism|fanaticism]] of some Oriental Christian horrified at its passing
 through such materialistic hands.  But the mysterious slayer,
 whether or no he was such a fanatic, was already a figure of lurid
 and sensational interest in the world of journalism and gossip.
 The nameless being was provided with a name, or a nickname.
 But it is only with the story of the third victim that we are
-now concerned; for it was only in this case that a certain Father Brown,
+now concerned; for it was only in this case that a certain [[Father Brown]],
 who is the subject of these sketches, had an opportunity of making
 his presence felt.
 
-When Father Brown first stepped off an Atlantic liner on to
+When [[Father Brown]] first stepped off an Atlantic liner on to
 American soil, he discovered as many other Englishman has done,
 that he was a much more important person than he had ever supposed.
 His short figure, his short--sighted and undistinguished countenance,
 his rather rusty--black clerical clothes, could pass
 through any crowd in his own country without being noticed
 as anything unusual, except perhaps unusually insignificant.
-But America has a genius for the encouragement of fame;
+But [[america|America]] has a genius for the encouragement of fame;
 and his appearance in one or two curious criminal problems,
-together with his long association with Flambeau, the ex--
-criminal and detective, had consolidated a reputation in
-America out of what was little more than a rumour in England.
+together with his long association with [[Flambeau]], the ex--
+criminal and [[Detective|detective]], had consolidated a reputation in
+[[america|America]] out of what was little more than a rumour in England.
 His round face was blank with surprise when he found himself
 held up on the quay by a group of journalists, as by a gang
 of brigands, who asked him questions about all the subjects
@@ -87,7 +87,7 @@ but he had never expected to hear of him so soon.
 `I beg your pardon,' he said doubtfully, `are you Captain Wain?  Do you--
 do you know him?'
 
-`Well, I'm pretty confident I'm not Captain Wain,' said the man
+`[[Well]], I'm pretty confident I'm not Captain Wain,' said the man
 in goggles, with a face of wood.  `I was pretty clear about
 that when I saw him waiting for you over there in the car.
 But the other question's a bit more problematical.
@@ -153,7 +153,7 @@ But you can guess for yourself that it's not a very comfortable
 thing to have.'
 
 `Has Mr Merton ever had any of the threatening letters?'
-asked Father Brown, after a pause.
+asked [[Father Brown]], after a pause.
 
 `I imagine he has,' said Mr Drage; and something in his voice made
 the priest look at him curiously, until he realized that the man
@@ -172,8 +172,8 @@ Everybody knows your great reputation.  Father Brown, and the secretary
 asked me to see if you'd mind coming straight out to the Merton
 house at once.'
 
-`Oh, I see,' said Father Brown, on whom the meaning
-of this apparent kidnapping began to dawn at last.
+`Oh, I see,' said [[Father Brown]], on whom the meaning
+of this apparent kidnapping began to [[Dawn|dawn]] at last.
 `But, really, I don't see that I can do any more than you can.
 You're on the spot, and must have a hundred times more data
 for a scientific conclusion than a chance visitor.'
@@ -208,11 +208,11 @@ but took leave of them with sinister gaiety.
 excitement for old man Merton, I reckon.  He loves the sight
 of me so much that he'd die of joy.'
 
-And he strode away, while Father Brown, with increasing wonder,
+And he strode away, while [[Father Brown]], with increasing [[Wonder|wonder]],
 was admitted through the steel door which instantly clicked behind him.
-Inside was a large and elaborate garden of gay and varied colours,
-but entirely without any trees or tall shrubs or flowers.
-In the centre of it rose a house of handsome and even striking
+Inside was a large and elaborate [[Garden|garden]] of gay and varied colours,
+but entirely without any trees or tall shrubs or [[Flowers|flowers]].
+In the centre of it [[Rose|rose]] a [[house]] of handsome and even striking
 architecture, but so high and narrow as rather to resemble a tower.
 The burning sunlight gleamed on glass roofing here and there at the top,
 but there seemed to be no windows at all in the lower part of it.
@@ -225,9 +225,9 @@ the solid walls, and the approach to it was guarded by heavy,
 powerful men like plain--clothes policemen.
 
 `Pretty elaborate protection, I know,' said Wain.
-`Maybe it makes you smile a little, Father Brown, to find
+`Maybe it makes you smile a little, [[Father Brown]], to find
 Merton has to live in a fortress like this without even a tree
-in the garden for anyone to hide behind.  But you don't know
+in the [[Garden|garden]] for anyone to hide behind.  But you don't know
 what sort of proposition we're up against in this country.
 And perhaps you don't know just what the name of Brander Merton means.
 He's a quiet--looking man enough, and anybody might pass
@@ -235,18 +235,18 @@ him in the street; not that they get much chance nowadays,
 for he can only go out now and then in a closed car.
 But if anything happened to Brander Merton there'd be earthquakes
 from Alaska to the Cannibal Islands.  I fancy there was never
-a king or emperor who had such power over the nations as he has.
+a [[King|king]] or emperor who had such power over the nations as he has.
 After all, I suppose if you'd been asked to visit the tsar,
-or the king of England, you'd have had the curiosity to go.
+or the [[King|king]] of England, you'd have had the curiosity to go.
 You mayn't care much for tsars or millionaires; but it
 just means that power like that is always interesting.
-And I hope it's not against your principles to visit a modern
+And I [[Hope|hope]] it's not against your principles to visit a modern
 sort of emperor like Merton.'
 
 `Not at all,' said Father Brown, quietly.  `It is my duty to visit
 prisoners and all miserable men in captivity.'
 
-There was a silence, and the young man frowned with a strange and almost
+There was a [[Silence|silence]], and the young man frowned with a strange and almost
 shifty look on his lean face.  Then he said, abruptly:
 
 `Well, you've got to remember it isn't only common crooks or
@@ -284,7 +284,7 @@ in the outer room seemed to move Peter Wain to his first nervous query.
 `Is anybody with the chief?' he asked.
 
 `Don't get rattled, Peter,' chuckled his uncle.  `Wilton the
-secretary is with him, and I hope that's enough for anybody.
+secretary is with him, and I [[Hope|hope]] that's enough for anybody.
 I don't believe Wilton ever sleeps for watching Merton.
 He is better than twenty bodyguards.  And he's quick and quiet
 as an Indian.'
@@ -309,7 +309,7 @@ on the top of a fort,' said Crake.
 `Threw it,' replied Crake, `threw it in a flash before a shot
 could be fired.  I don't know where he learnt the trick.'
 
-`Well, I hope you didn't learn it,' said his nephew, laughing.
+`[[Well]], I [[Hope|hope]] you didn't learn it,' said his nephew, laughing.
 
 `It seems to me,' said Father Brown, thoughtfully, `that the story
 might have a moral.'
@@ -333,11 +333,11 @@ the inner room.
 `You've probably heard all about this Daniel Doom, and why it isn't safe
 to leave the boss very much alone.'
 
-`But he is alone just now, isn't he?' said Father Brown.
+`But he is [[Alone|alone]] just now, isn't he?' said [[Father Brown]].
 
-The secretary looked at him with grave, grey eyes.  `For fifteen minutes,'
+The secretary looked at him with [[Grave|grave]], grey eyes.  `For fifteen minutes,'
 he said.  `For fifteen minutes out of the twenty--four hours.
-That is all the real solitude he has; and that he insists on,
+That is all the real [[Solitude|solitude]] he has; and that he insists on,
 for a pretty remarkable reason.'
 
 `And what is the reason?' inquired the visitor.
@@ -358,21 +358,21 @@ pays us a visit, he'll stay to dinner and a good bit later,
 by God!  I sit here on hot bricks for the fifteen minutes,
 and the instant I heard a shot or a sound of struggle I'd press
 this button and an electrocuting current would run in a ring round
-that garden wall, so that it `ud be death to cross or climb it.
+that garden wall, so that it `ud be [[Death|death]] to [[Cross|cross]] or climb it.
 Of course, there couldn't be a shot, for this is the only way in;
-and the only window he sits at is away up on the top of a tower
+and the only [[Window|window]] he sits at is away up on the top of a tower
 as smooth as a greasy pole.  But, anyhow, we're all armed here,
 of course; and if Doom did get into that room he'd be dead
 before he got out.'
 
-Father Brown was blinking at the carpet in a brown study.
+[[Father Brown]] was blinking at the carpet in a brown study.
 Then he said suddenly, with something like a jerk:
 `I hope you won't mind my mentioning it, but a kind of a notion
 came into my head just this minute.  It's about you.'
 
 `Indeed,' remarked Wilton, `and what about me?'
 
-`I think you are a man of one idea,' said Father Brown, `and you
+`I think you are a man of one idea,' said [[Father Brown]], `and you
 will forgive me for saying that it seems to be even more the idea
 of catching Daniel Doom than of defending Brander Merton.'
 
@@ -392,12 +392,12 @@ to catch a murderer than to save a man.'
 
 `Father Brown,' said the secretary, who had recovered his quiet tone,
 `you're very smart, but there's something more to you than smartness.
-Somehow you're the sort of man to whom one wants to tell the truth;
+Somehow you're the sort of man to whom one wants to tell the [[Truth|truth]];
 and besides, you'll probably hear it, anyhow, for in one way it's
 a joke against me already.  They all say I'm a monomaniac about running
 down this big crook, and perhaps I am.  But I'll tell you one thing
 that none of them know.  My full name is John Wilton Border.'
-Father Brown nodded as if he were completely enlightened,
+[[Father Brown]] nodded as if he were completely enlightened,
 but the other went on.
 
 `This fellow who calls himself Doom killed my father and uncle and ruined
@@ -406,7 +406,7 @@ thought that where the cup was the criminal might sooner or later be.
 But I didn't know who the criminal was and could only wait for him;
 and I meant to serve Merton faithfully.'
 
-`I understand,' said Father Brown gently; `and, by the way,
+`I understand,' said [[Father Brown]] gently; `and, by the way,
 isn't it time that we attended on him?'
 
 `Why, yes,' answered Wilton, again starting a little
@@ -414,15 +414,15 @@ out of his brooding so that the priest concluded that his
 vindictive mania had again absorbed him for a moment.'
 Go in now by all means.'
 
-Father Brown walked straight into the inner room.
-No sound of greetings followed, but only a dead silence;
+[[Father Brown]] walked straight into the inner room.
+No sound of greetings followed, but only a dead [[Silence|silence]];
 and a moment after the priest reappeared in the doorway.
 
 At the same moment the silent bodyguard sitting near the door moved
 suddenly; and it was as if a huge piece of furniture had come to life.
 It seemed as though something in the very attitude of the priest
 had been a signal; for his head was against the light from the inner
-window and his face was in shadow.
+[[Window|window]] and his face was in [[Shadow|shadow]].
 
 `I suppose you will press that button,' he said with a sort of sigh.
 
@@ -435,17 +435,17 @@ and leapt up with a catch in his voice.
 
 Wilton rushed forward, and they plunged into the inner room together.
 It was a comparatively small room and simply though elegantly furnished.
-Opposite to them one wide window stood open, over--looking the garden
-and the wooded plain.  Close up against the window stood a chair
+Opposite to them one wide [[Window|window]] stood open, over--looking the [[Garden|garden]]
+and the wooded plain.  Close up against the [[Window|window]] stood a chair
 and a small table, as if the captive desired as much air and light
-as was allowed him during his brief luxury of loneliness.
+as was allowed him during his brief luxury of [[Loneliness|loneliness]].
 
-On the little table under the window stood the Coptic Cup;
+On the little table under the [[Window|window]] stood the Coptic Cup;
 its owner had evidently been looking at it in the best light.
-It was well worth looking at, for that white and brilliant
+It was [[Well|well]] worth looking at, for that white and brilliant
 daylight turned its precious stones to many--coloured flames
 so that it might have been a model of the Holy Grail.
-It was well worth looking at; but Brander Merton was not
+It was [[Well|well]] worth looking at; but Brander Merton was not
 looking at it.  For his head had fallen back over his chair,
 his mane of white hair hanging towards the floor, and his
 spike of grizzled beard thrust up towards the ceiling,
@@ -464,7 +464,7 @@ The pale secretary roused himself with abrupt resolution.
 `and if that doesn't do for Daniel Doom, I'm going to hunt
 him through the world till I find him.'
 
-`Take care it doesn't do for any of our friends,' observed Father Brown;
+`Take care it doesn't do for any of our friends,' observed [[Father Brown]];
 `they can hardly be far off; we'd better call them.'
 
 `That lot know all about the wall,' answered Wilton.
@@ -489,7 +489,7 @@ We must ask young Wain ... about aviation.'
 
 `There's a lot of it round here,' said the secretary.
 
-`Case of very old or very new weapons,' observed Father Brown.
+`Case of very old or very new weapons,' observed [[Father Brown]].
 `Some would be quite familiar to his old uncle, I suppose; we must
 ask him about arrows.  This looks rather like a Red Indian arrow.
 I don't know where the Red Indian shot it from; but you remember
@@ -516,7 +516,7 @@ with his bony hands and hatchet face resting on the oddly--
 shaped head of a walking--stick of dark red wood, possibly modelled
 on a tomahawk.
 
-`Well, it may be a long shot,' he said, wagging his head,
+`[[Well]], it may be a long shot,' he said, wagging his head,
 `but I wouldn't advise you to be too positive about how far
 an Indian arrow could go.  I've known some bow--shots that
 seemed to go straighter than any bullets, and hit the mark
@@ -531,22 +531,22 @@ over the wall and into the top window of Merton's house;
 no, nor into Merton, either.  I've seen things quite as wonderful
 as that done in the old days.'
 
-`No doubt,' said the priest, `you have done things quite as wonderful,
+`No [[Doubt|doubt]],' said the priest, `you have done things quite as wonderful,
 as well as seen them.'
 
 Old Crake chuckled, and then said gruffly:  `Oh, that's
-all ancient history.'
+all ancient [[history]].'
 
 `Some people have a way of studying ancient history,' the priest said.
 'I suppose we may take it there is nothing in your old record In make
 people talk unpleasantly about this affair.'
 
 `What do you mean?' demanded Crake, his eyes shifting sharply
-for the first time, in his red, wooden face, that was rather
+for the first [[Time|time]], in his red, wooden face, that was rather
 like I he head of a tomahawk.
 
 `Well, since you were so well acquainted with all the arts and crafts
-of the Redskin--` began Father Brown slowly.
+of the Redskin--` began [[Father Brown]] slowly.
 
 Crake had had a hunched and almost shrunken appearance
 as he sat with his chin propped on its queer--shaped crutch.
@@ -588,7 +588,7 @@ For Father Brown had asked, in an idle and conversational fashion,
 whether much flying was done in that district, and had told how he had
 at first mistaken Mr Merton's circular wall for an aerodrome.
 
-`It's a wonder you didn't see any while we were there,'
+`It's a [[Wonder|wonder]] you didn't see any while we were there,'
 answered Captain Wain.  `Sometimes they're as thick as flies;
 that open plain is a great place for them, and I shouldn't
 wonder if it were the chief breeding--ground, so to speak,
@@ -599,19 +599,19 @@ taking to it out there now whom I never heard of in my life.
 I suppose it will be like motoring soon, and every man
 in the States will have one.'
 
-`Being endowed by his Creator,' said Father Brown with a smile,
+`Being endowed by his Creator,' said [[Father Brown]] with a smile,
 'with the right to life, liberty, and the pursuit of motoring--
 not to mention aviation.  So I suppose we may take it that one
-strange aeroplane passing over that house, at certain times,
+strange aeroplane passing over that [[house]], at certain times,
 wouldn't be noticed much.'
 
 `No,' replied the young man; `I don't suppose it would.'
 
 `Or even if the man were known,' went on the other, `I suppose
-he might get hold of a machine that wouldn't be recognized as his.
+he might get hold of a [[Machine|machine]] that wouldn't be recognized as his.
 If you, for instance, flew in the ordinary way, Mr Merton and his friends
 might recognize the rig--out, perhaps; but you might pass pretty near
-that window on a different pattern of plane, or whatever you call it;
+that [[Window|window]] on a different pattern of plane, or whatever you call it;
 near enough for practical purposes.'
 
 `Well, yes,' began the young man, almost automatically, and then ceased,
@@ -620,7 +620,7 @@ out of his head.
 
 `My God!' he said, in a low voice;' my God!'
 
-Then he rose from the lounge seat, pale and shaking from head
+Then he [[Rose|rose]] from the lounge seat, pale and shaking from head
 to foot and still staring at the priest.
 
 `Are you mad?' he said;' are you raving mad?'
@@ -628,7 +628,7 @@ to foot and still staring at the priest.
 There was a silence and then he spoke again in a swift hissing fashion.
 `You positively come here to suggest--`
 
-`No; only to collect suggestions,' said Father Brown, rising.
+`No; only to collect suggestions,' said [[Father Brown]], rising.
 `I may have formed some conclusions provisionally, but I had better
 reserve them for the present.'
 
@@ -659,7 +659,7 @@ had met yesterday, and made no demur to silting down with him
 on a bench in the cheap eating--house whither he was bound.
 It was not he, however, who began the conversation.
 
-`Well?' growled Drage, `and have you succeeded in avenging your holy
+`[[Well]]?' growled Drage, `and have you succeeded in avenging your holy
 and sainted millionaire?  We know all millionaires are holy and sainted;
 you can find it all in the papers next day, about how they lived
 by the light of the Family Bible they read at their mother's knee.
@@ -688,28 +688,28 @@ that look as if they could really bend bows of stone.
 Material, perhaps--but what materials!  Don't you sometimes
 stand staring at those old Eastern patterns and things,
 till you have a hunch that old Lord God is still driving
-like a dark Apollo, and shooting black rays of death?'
+like a dark [[Apollo]], and shooting black rays of [[Death|death]]?'
 
 `If he is,' replied Father Brown, `I might call him by another name.
-But I doubt whether Merton died by a dark ray or even a stone arrow.'
+But I [[Doubt|doubt]] whether Merton died by a dark ray or even a stone arrow.'
 
 `I guess you think he's St Sebastian,' sneered Drage,
 `killed with an arrow.  A millionaire must be a martyr.
 How do you know he didn't deserve it?  You don't know much
-about your millionaire, I fancy.  Well, let me tell you
+about your millionaire, I fancy.  [[Well]], let me tell you
 he deserved it a hundred times over.'
 
 `Well,' asked Father Brown gently, `why didn't you murder him?'
 
 `You want to know why I didn't?' said the other, staring.
-`Well, you're a nice sort of clergyman.'
+`[[Well]], you're a nice sort of clergyman.'
 
 `Not at all,' said the other, as if waving away a compliment.
 
 `I suppose it's your way of saying I did,' snarled Drage.
 `Well, prove it, that's all.  As for him, I reckon he was no loss.'
 
-`Yes, he was,' said Father Brown, sharply.  `He was a loss to you.
+`Yes, he was,' said [[Father Brown]], sharply.  `He was a loss to you.
 That's why you didn't kill him.'
 
 And he walked out of the room, leaving the man in goggles
@@ -758,7 +758,7 @@ but I never trusted him much.'
 
 `He's a mystagogue,' said Father Brown, with innocent promptitude.
 `There are quite a lot of them about; the sort of men about
-town who hint to you in Paris cafes and cabarets that they've
+town who hint to you in [[Paris]] cafes and cabarets that they've
 lifted the veil of Isis or know the secret of Stonehenge.
 In a case like this they're sure to have some sort
 of mystical explanations.'
@@ -787,18 +787,18 @@ notion in talking about fire from heaven or bolts from the blue.'
 `And what was his notion?' asked Wain.  `I think it wants watching
 whatever it is.'
 
-`Well,' replied the priest, slowly, `he wanted us to think the murders
+`[[Well]],' replied the priest, slowly, `he wanted us to think the murders
 were miracles because . . . well, because he knew they weren't.'
 
 `Ah,' said Wain, with a sort of hiss, `I was waiting for that.
 In plain words, he is the criminal.'
 
 `In plain words, he is the criminal who didn't commit the crime,'
-answered Father Brown calmly.
+answered [[Father Brown]] calmly.
 
 `Is that your conception of plain words?' inquired Blake politely.
 
-`You'll be saying I'm the mystagogue now,' said Father Brown
+`You'll be saying I'm the mystagogue now,' said [[Father Brown]]
 somewhat abashed, but with a broad smile, `but it was really
 quite accidental.  Drage didn't commit the crime--I mean this crime.
 His only crime was blackmailing somebody, and he hung about here
@@ -814,14 +814,14 @@ him tranquilly, with level eyelids.
 
 `Do you mean,' faltered the other, `that you know the truth?'
 
-`I rather think so,' said Father Brown modestly.
+`I rather think so,' said [[Father Brown]] modestly.
 
-There was an abrupt silence, after which Crake cried out suddenly
+There was an abrupt [[Silence|silence]], after which Crake cried out suddenly
 and irrelevantly in a rasping voice:
 
 `Why, where is that secretary fellow?  Wilton!  He ought to be here.'
 
-`I am in communication with Mr Wilton,' said Father Brown gravely;
+`I am in communication with Mr Wilton,' said [[Father Brown]] gravely;
 `in fact, I asked him to ring me up here in a few minutes from now.
 I may say that we've worked the thing out together, in a
 manner of speaking.'
@@ -839,7 +839,7 @@ a knife and hit a man on the top of a fortress.'
 
 `You've said that several times,' said Wain, with a puzzled air;
 `but I can't see any inference, except that this murderer threw
-an arrow and hit a man on the top of a house very like a fortress.
+an arrow and hit a man on the top of a [[house]] very like a fortress.
 But of course the arrow wasn't thrown but shot, and would go
 much further.  Certainly it went uncommonly far; but I don't see
 how it brings us any farther.'
@@ -870,7 +870,7 @@ in his hand as he stood with Merton in Merton's own room.
 Somebody thrust it into Merton's throat like a poignard,
 and then had the highly intelligent idea of placing the whole
 thing at such a place and angle that we all assumed in a flash
-that it had flown in at the window like a bird.'
+that it had flown in at the [[Window|window]] like a bird.'
 
 `Somebody,' said old Crake, in a voice as heavy as stone.
 
@@ -885,8 +885,8 @@ all shaken and distracted.
 replied his uncle in the same dead voice.
 
 `I suppose it is Wilton?' observed the lawyer, like one speaking
-to fill up a silence.  But nobody answered the question until
-Father Brown reappeared suddenly and silently in the room,
+to fill up a [[Silence|silence]].  But nobody answered the question until
+[[Father Brown]] reappeared suddenly and silently in the room,
 bringing the answer.
 
 `Gentlemen,' he said, when he had resumed his seat,' it was you who asked
@@ -895,10 +895,10 @@ I must tell it, without any pretence of softening the shock.
 I'm afraid anybody who pokes his nose into things like this can't afford
 to be a respecter of persons.'
 
-`I suppose,' said Crake, breaking the silence that followed,
+`I suppose,' said Crake, breaking the [[Silence|silence]] that followed,
 `that means that some of us are accused, or suspected.'
 
-`All of us are suspected,' answered Father Brown.
+`All of us are suspected,' answered [[Father Brown]].
 `I may be suspected myself, for I found the body.'
 
 `Of course we're suspected,' snapped Wain.  `Father Brown
@@ -911,17 +911,17 @@ could have done it.  That was just the interesting part of it.'
 `He seemed to think it likely,' growled Crake, `that I killed
 him myself with a Red Indian arrow.'
 
-`I thought it most unlikely,' said Father Brown, making rather
+`I thought it most unlikely,' said [[Father Brown]], making rather
 a wry face.  I'm sorry if I did wrong, but I couldn't think
 of any other way of testing the matter.  I can hardly think
 of anything more improbable than the notion that Captain Wain went
-careering in a huge machine past the window, at the very moment
+careering in a huge [[Machine|machine]] past the [[Window|window]], at the very moment
 of the murder, and nobody noticed it; unless, perhaps, it were
 the notion that a respectable old gentleman should play at
 Red Indians with a bow and arrow behind the bushes, to kill
 somebody he could have killed in twenty much simpler ways.
 But I had to find out if they had had anything to do with it;
-and so I had to accuse them in order to prove their innocence.'
+and so I had to accuse them in order to prove their [[innocence]].'
 
 `And how have you proved their innocence?' asked Blake the lawyer,
 leaning forward eagerly.
@@ -931,7 +931,7 @@ answered the other.
 
 `What do you mean, exactly?'
 
-`If you will permit me to say so,' remarked Father Brown,
+`If you will permit me to say so,' remarked [[Father Brown]],
 composedly enough, `I did undoubtedly think it my duty to suspect
 them and everybody else.  I did suspect Mr Crake and I did suspect
 Captain Wain, in the sense that I considered the possibility or
@@ -961,12 +961,12 @@ For instance, there was the secretary--
 `But I'm not talking about that just now.  Look here,
 I've just heard from Wilton on the phone, and he's given
 me permission to tell you some rather serious news.
-Now I suppose you all know by this time who Wilton was,
+Now I suppose you all know by this [[Time|time]] who Wilton was,
 and what he was after.'
 
 `I know he was after Daniel Doom and wouldn't be happy till he got him,'
 answered Peter Wain; `and I've heard the story that he's the son
-of old Horder, and that's why he's the avenger of blood.
+of old Horder, and that's why he's the [[Avenger|avenger]] of [[Blood|blood]].
 Anyhow, he's certainly looking for the man called Doom.'
 
 `Well,' said Father Brown, `he has found him.'
@@ -980,7 +980,7 @@ was serious, and it's more serious than that.
 I'm afraid poor Wilton has taken a terrible responsibility.
 I'm afraid he's going to put a terrible responsibility on us.
 He hunted the criminal down, and just when he had him cornered
-at last--well, he has taken the law into his own hands.'
+at last--[[Well|well]], he has taken the law into his own hands.'
 
 `You mean that Daniel Doom--` began the lawyer.
 
@@ -992,7 +992,7 @@ at last--well, he has taken the law into his own hands.'
 `Can't blame Wilton for downing a crook like that, especially considering
 the feud,' assented Wain; `it was like stepping on a viper.'
 
-`I don't agree with you,' said Father Brown.
+`I don't agree with you,' said [[Father Brown]].
 `I suppose we all talk romantic stuff at random in defence
 of lynching and lawlessness; but I have a suspicion that
 if we lose our laws and liberties we shall regret it.
@@ -1013,7 +1013,7 @@ and there's an end of it.'
 
 `Quite so, quite so,' said his uncle, nodding vigorously.
 
-Father Brown's face had a yet heavier gravity as he looked slowly round
+[[Father Brown]]'s face had a yet heavier gravity as he looked slowly round
 the semicircle effaces.  `Is that really what you all think?' he asked.
 Even as he did so he realized that he was an Englishman and an exile.
 He realized that he was among foreigners, even if he was among friends.
@@ -1022,7 +1022,7 @@ native to his own breed; the fiercer spirit of the western nation
 that can rebel and lynch, and above all, combine.  He knew that they
 had already combined.
 
-`Well,' said Father Brown, with a sigh, `I am to understand, then,
+`[[Well]],' said [[Father Brown]], with a sigh, `I am to understand, then,
 that you do definitely condone this unfortunate man's crime,
 or act of private justice, or whatever you call it.
 In that case it will not hurt him if I tell you a little
@@ -1036,10 +1036,10 @@ the very air in the room.
 
 `How did Wilton kill him?' asked Crake, abruptly.
 
-`With an arrow,' said Father Brown.
+`With an arrow,' said [[Father Brown]].
 
 Twilight was gathering in the long room, and daylight dwindling
-to a gleam from the great window in the inner room, where the great
+to a gleam from the great [[Window|window]] in the inner room, where the great
 millionaire had died.  Almost automatically the eyes of the group
 turned slowly towards it, but as yet there was no sound.
 Then the voice of Crake came cracked and high and senile in a sort
@@ -1050,7 +1050,7 @@ This crook killed by an arrow--`
 
 `By the same arrow,' said the priest, `and at the same moment.'
 
-Again there was a sort of strangled and yet swollen and bursting silence,
+Again there was a sort of strangled and yet swollen and bursting [[Silence|silence]],
 and young Wain began:  `You mean--`
 
 `I mean that your friend Merton was Daniel Doom,'
@@ -1079,7 +1079,7 @@ Brander Merton is a thing like the President or the Pope of Rome.'
 `I certainly think it is rather different,' began Barnard Blake,
 the lawyer, in a low voice.  `The difference involves a whole--`
 
-Father Brown struck the table so that the glasses on it rang;
+[[Father Brown]] struck the table so that the glasses on it rang;
 and they could almost fancy a ghostly echo from the mysterious
 chalice that still stood in the room beyond.
 
@@ -1089,7 +1089,7 @@ the poor devil when you thought he was a common criminal.
 You wouldn't listen then; you were all for private vengeance then.
 You were all for letting him be butchered like a wild beast
 without a hearing or a public trial, and said he had only got
-his deserts.  Very well then, if Daniel Doom has got his deserts,
+his deserts.  Very [[Well|well]] then, if Daniel Doom has got his deserts,
 Brander Merton has got his deserts.  If that was good enough
 for Doom, by all that is holy it is good enough for Merton.
 Take your wild justice or our dull legality; but in the name of
@@ -1100,11 +1100,11 @@ like a snarl:  `What will the police say if we tell them we mean
 to condone a crime?'
 
 `What will they say if I tell them you did condone it?'
-replied Father Brown.  `Your respect for the law comes rather late,
+replied [[Father Brown]].  `Your respect for the law comes rather late,
 Mr Barnard Blake.'
 
 After a pause he resumed in a milder tone:  'I, for one,
-am ready to tell the truth if the proper authorities ask me;
+am ready to tell the [[Truth|truth]] if the proper authorities ask me;
 and the rest of you can do as you like.  But as a fact,
 it will make very little difference.  Wilton only rang me up
 to tell me that I was now free to lay his confession before you;

@@ -24,18 +24,18 @@ why it cannot support the idea of a real Poet Laureate.
 It is enough merely to look at the words which make up the title.
 Whenever it is suggested that some little modern man of letters,
 in a tail-coat and trousers, should be solemnly presented
-with a Crown of Laurel, everybody laughs, as if it were a joke.
+with a [[Crown]] of Laurel, everybody laughs, as if it were a joke.
 But it is not the laurel, but the little man, that is a joke.
-It is not the wreath of leaves, the lines of which are still as free
+It is not the wreath of [[Leaves|leaves]], the lines of which are still as free
 and rhythmic and adapted to decoration as when they decorated a hundred
 marble monuments or golden frescoes; it is not the wreath that
 is ridiculous.  It is the tail-coat and trousers it is the Modern Man;
-it is the Spirit of Our Time, to which the Laureateship is,
+it is the Spirit of Our [[Time]], to which the Laureateship is,
 we have agreed, so unsuited.  As is the Laurel to modern dress,
 so is the Laureateship to modern manners.  Nobody sees anything silly
-in those leaves when they cluster round the hood of some bust of Dante.
+in those [[Leaves|leaves]] when they cluster round the hood of some bust of [[Dante]].
 Nobody saw anything silly in them when, at the high moment of the
-medieval renaissance, they were bound about the brows of Petrarch.
+medieval [[Renaissance|renaissance]], they were bound about the brows of Petrarch.
 It was partly that the same scheme of decoration, more or less
 unconsciously, ran through the whole world of costume and ornament.
 It was much more because, in those dim and barbarous ages,
@@ -44,14 +44,14 @@ They were so strangely constituted that they laughed at ugly things,
 and not only at beautiful things.  A gentleman who wished to be stared
 at or admired dressed in purple and cloth of gold, trailing trappings
 that went in great curves like those of a comet or a cataract.
-With such fashions a crown was actually a crown; it crowned the edifice;
+With such fashions a [[Crown|crown]] was actually a [[Crown|crown]]; it crowned the edifice;
 it was a crest or culmination of lines rising to and demanding such
 a diadem.  Nowadays, by the tradition of the nineteenth century,
 a gentle man dresses like a comic waiter in a third-rate farce,
-and is surprised that the bay-wreath looks grotesque on his head.
-But it is not the bay-wreath that looks grotesque.
+and is surprised that the bay-wreath looks [[Grotesque|grotesque]] on his head.
+But it is not the bay-wreath that looks [[Grotesque|grotesque]].
 
-That is a parable of the whole practical problem.
+That is a [[Parable|parable]] of the whole practical problem.
 And it always is a problem, whether it is worth while to keep
 the habit when it no longer makes the monk, or one small rag torn
 from the habit when the monk no longer knows how to make himself.
@@ -68,7 +68,7 @@ Charlie Chaplin as any medieval Italians by meeting Petrarch.
 But though they might be cheering without jeering, they would
 be cheering somebody who jeers:  who jeers admirably at himself
 and this wicked world.  Nobody can expect that sort of popular
-artist to wear a laurel round his remarkable bowler hat.
+[[Artist|artist]] to wear a laurel round his remarkable bowler hat.
 But it has been possible, and it will be possible again,
 for the public to rejoice seriously, and even solemnly.
 In those older days the very word `solemn' went with the word `joyous';

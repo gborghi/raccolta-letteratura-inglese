@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 17"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 17"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -24,7 +24,7 @@ We kept our course southwardly for four days after giving up the search
 
 for Glass's Islands, without meeting with any ice at all. On the
 
-twenty-sixth, at noon, we were in latitude 63° 23' S., longitude 41°
+twenty-sixth, at [[Noon|noon]], we were in latitude 63° 23' S., longitude 41°
 
 25' W. We now saw several large ice islands, and a floe of field ice,
 
@@ -32,9 +32,9 @@ not, however, of any great extent. The winds generally blew from the
 
 southeast, or the northeast, but were very light. Whenever we had a
 
-westerly wind, which was seldom, it was invariably attended with a rain
+westerly [[Wind|wind]], which was seldom, it was invariably attended with a rain
 
-squall. Every day we had more or less snow. The thermometer, on the
+squall. Every day we had more or less [[Snow|snow]]. The thermometer, on the
 
 twenty-seventh, stood at thirty-five.
 
@@ -54,7 +54,7 @@ with fury, a large field in front separated, and we were enabled, by
 
 carrying a press of sail, to force a passage through the smaller flakes
 
-into some open water beyond. As we approached this space we took in
+into some open [[Water|water]] beyond. As we approached this space we took in
 
 sail by degrees, and having at length got clear, lay to under a single
 
@@ -62,7 +62,7 @@ reefed foresail.
 
 
 
-_January 2._ We had now tolerably pleasant weather. At noon we found
+_January 2._ We had now tolerably pleasant weather. At [[Noon|noon]] we found
 
 ourselves in latitude 69° 10' S., longitude 42° 20' W., having crossed
 
@@ -88,9 +88,9 @@ great impediments. On this morning, however, being in latitude 73° 15'
 
 E., longitude 42° 10' W., we were again brought to a stand by an
 
-immense expanse of firm ice. We saw, nevertheless, much open water to
+immense expanse of firm ice. We saw, nevertheless, much open [[Water|water]] to
 
-the southward, and felt no doubt of being able to reach it eventually.
+the southward, and felt no [[Doubt|doubt]] of being able to reach it eventually.
 
 Standing to the eastward along the edge of the floe, we at length came
 
@@ -100,7 +100,7 @@ by sundown. The sea in which we now were was thickly covered with ice
 
 islands, but had no field ice, and we pushed on boldly as before. The
 
-cold did not seem to increase, although we had snow very frequently,
+cold did not seem to increase, although we had [[Snow|snow]] very frequently,
 
 and now and then hail squalls of great violence. Immense flocks of the
 
@@ -110,7 +110,7 @@ northwest.
 
 
 
-_January 7._ The sea still remained pretty well open, so that we had no
+_January 7._ The sea still remained pretty [[Well|well]] open, so that we had no
 
 difficulty in holding on our course. To the westward we saw some
 
@@ -120,7 +120,7 @@ whose summit could not have been less than four hundred fathoms from
 
 the surface of the ocean. Its girth was probably, at the base, three
 
-quarters of a league, and several streams of water were running from
+quarters of a league, and several streams of [[Water|water]] were running from
 
 crevices in its sides. We remained in sight of this island two days,
 
@@ -136,7 +136,7 @@ New-York, and was one of the most valuable hands on board the schooner.
 
 In going over the bows his foot slipped, and he fell between two cakes
 
-of ice, never rising again. At noon of this day we were in latitude 78°
+of ice, never rising again. At [[Noon|noon]] of this day we were in latitude 78°
 
 30', longitude 40° 15' W. The cold was now excessive, and we had hail
 
@@ -148,7 +148,7 @@ eastward appeared to be blocked up with field ice, rising in tiers, one
 
 mass above the other. Some driftwood floated by during the evening, and
 
-a great quantity of birds flew over, among which were Nellies,
+a great quantity of [[Birds|birds]] flew over, among which were Nellies,
 
 peterels, albatrosses, and a large bird of a brilliant blue plumage.
 
@@ -162,11 +162,11 @@ _January 12._ Our passage to the south again looked doubtful, as
 
 nothing was to be seen in the direction of the pole but one apparently
 
-limitless floe, backed by absolute mountains of ragged ice, one
+limitless floe, backed by absolute [[Mountains|mountains]] of ragged ice, one
 
 precipice of which arose frowningly above the other. We stood to the
 
-westward until the fourteenth, in the hope of finding an entrance.
+westward until the fourteenth, in the [[Hope|hope]] of finding an entrance.
 
 
 
@@ -178,11 +178,11 @@ without a particle of ice. Upon sounding with two hundred fathoms, we
 
 here found a current setting southwardly at the rate of half a mile per
 
-hour. The temperature of the air was forty-seven, that of the water
+hour. The temperature of the air was forty-seven, that of the [[Water|water]]
 
 thirty-four. We now sailed to the southward, without meeting any
 
-interruption of moment until the sixteenth, when, at noon, we were in
+interruption of moment until the sixteenth, when, at [[Noon|noon]], we were in
 
 latitude 81° 21', longitude 42° W. We here again sounded, and found a
 
@@ -200,7 +200,7 @@ discovered. All hands on board now felt certain of attaining the pole.
 
 _January 17._ This day was full of incident. Innumerable flights of
 
-birds flew over us from the southward, and several were shot from the
+[[Birds|birds]] flew over us from the southward, and several were shot from the
 
 deck; one of them, a species of pelican, proved to be excellent eating.
 
@@ -216,15 +216,15 @@ mate in the larger boat. Upon coming up with the floe, we perceived
 
 that it was in the possession of a gigantic creature of the race of the
 
-Arctic bear, but far exceeding in size the largest of these animals.
+Arctic bear, but far exceeding in size the largest of these [[Animals|animals]].
 
-Being well armed, we made no scruple of attacking it at once. Several
+Being [[Well|well]] armed, we made no scruple of attacking it at once. Several
 
 shots were fired in quick succession, the most of which took effect,
 
-apparently, in the head and body. Nothing discouraged, however, the
+apparently, in the head and [[Body|body]]. Nothing discouraged, however, the
 
-monster threw himself from the ice, and swam, with open jaws, to the
+[[Monster|monster]] threw himself from the ice, and swam, with open jaws, to the
 
 boat in which were Peters and myself. Owing to the confusion which
 
@@ -244,7 +244,7 @@ of the huge beast, he plunged the blade of a knife behind the neck,
 
 reaching the spinal marrow at a blow. The brute tumbled into the sea
 
-lifeless, and without a struggle, rolling over Peters as he fell. The
+lifeless, and without a struggle, [[rolling]] over Peters as he fell. The
 
 latter soon recovered himself, and a rope being thrown him, he secured
 
@@ -256,7 +256,7 @@ admeasurement, proved to be full fifteen feet in his greatest length.
 
 His wool was perfectly white, and very coarse, curling tightly. The
 
-eyes were of a blood red, and larger than those of the Arctic bear--the
+eyes were of a [[Blood|blood]] red, and larger than those of the Arctic bear--the
 
 snout also more rounded, rather resembling the snout of the bulldog.
 
@@ -284,7 +284,7 @@ seen projecting into the sea, and bearing a strong resemblance to
 
 corded bales of cotton. Around this ledge to the westward is a small
 
-bay, at the bottom of which our boats effected a convenient landing.
+bay, at the [[Bottom|bottom]] of which our boats effected a convenient landing.
 
 
 
@@ -308,7 +308,7 @@ been here before. Around the coast we discovered occasional small floes
 
 of ice--but these were very few. The exact situation of this islet (to
 
-which Captain Guy gave the name of Bennet's Islet, in honour of his
+which Captain Guy gave the name of Bennet's Islet, in [[Honour|honour]] of his
 
 partner in the ownership of the schooner) is 82° 50' S. latitude, 42°
 
@@ -324,7 +324,7 @@ before us. We found, too, that the variation uniformly decreased as we
 
 proceeded, and, what was still more surprising, that the temperature of
 
-the air, and latterly of the water, became milder. The weather might
+the air, and latterly of the [[Water|water]], became milder. The weather might
 
 even be called pleasant, and we had a steady but very gentle breeze
 
@@ -334,7 +334,7 @@ clear, with now and then a slight appearance of thin vapour in the
 
 southern horizon--this, however, was invariably of brief duration. Two
 
-difficulties alone presented themselves to our view; we were getting
+difficulties [[Alone|alone]] presented themselves to our view; we were getting
 
 short of fuel, and symptoms of scurvy had occurred among several of the
 
@@ -372,4 +372,4 @@ degree of gratification at having been instrumental, however remotely,
 
 in opening to the eye of science one of the most intensely exciting
 
-secrets which has ever engrossed its attention.
+[[Secrets|secrets]] which has ever engrossed its attention.

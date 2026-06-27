@@ -1,5 +1,5 @@
 ---
-title: "The Fall of the House of Usher (part 5)"
+title: "[[The Fall of the House of Usher]] (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Fall-of-the-House-of-Usher-(Poe)"
@@ -16,7 +16,7 @@ tags:
 
       I could not help thinking of the wild ritual of this work, and of
       its probable influence upon the hypochondriac, when, one evening,
-      having informed me abruptly that the lady Madeline was no more,
+      having informed me abruptly that the lady [[Madeline]] was no more,
       he stated his intention of preserving her corpse for a fortnight,
       (previously to its final interment,) in one of the numerous
       vaults within the main walls of the building. The worldly reason,
@@ -28,13 +28,13 @@ tags:
       and exposed situation of the burial-ground of the family. I will
       not deny that when I called to mind the sinister countenance of
       the person whom I met upon the staircase, on the day of my
-      arrival at the house, I had no desire to oppose what I regarded
+      arrival at the [[house]], I had no [[Desire|desire]] to oppose what I regarded
       as at best but a harmless, and by no means an unnatural,
       precaution.
 
       At the request of Usher, I personally aided him in the
-      arrangements for the temporary entombment. The body having been
-      encoffined, we two alone bore it to its rest. The vault in which
+      arrangements for the temporary entombment. The [[Body|body]] having been
+      encoffined, we two [[Alone|alone]] bore it to its rest. The vault in which
       we placed it (and which had been so long unopened that our
       torches, half smothered in its oppressive atmosphere, gave us
       little opportunity for investigation) was small, damp, and
@@ -57,16 +57,16 @@ tags:
       attention; and Usher, divining, perhaps, my thoughts, murmured
       out some few words from which I learned that the deceased and
       himself had been twins, and that sympathies of a scarcely
-      intelligible nature had always existed between them. Our glances,
+      intelligible [[Nature|nature]] had always existed between them. Our glances,
       however, rested not long upon the dead—for we could not regard
       her unawed. The disease which had thus entombed the lady in the
       maturity of youth, had left, as usual in all maladies of a
       strictly cataleptical character, the mockery of a faint blush
       upon the bosom and the face, and that suspiciously lingering
-      smile upon the lip which is so terrible in death. We replaced and
+      smile upon the lip which is so terrible in [[Death|death]]. We replaced and
       screwed down the lid, and, having secured the door of iron, made
       our way, with toil, into the scarcely less gloomy apartments of
-      the upper portion of the house.
+      the upper portion of the [[house]].
 
       And now, some days of bitter grief having elapsed, an observable
       change came over the features of the mental disorder of my
@@ -80,19 +80,19 @@ tags:
       characterized his utterance. There were times, indeed, when I
       thought his unceasingly agitated mind was laboring with some
       oppressive secret, to divulge which he struggled for the
-      necessary courage. At times, again, I was obliged to resolve all
-      into the mere inexplicable vagaries of madness, for I beheld him
+      necessary [[Courage|courage]]. At times, again, I was obliged to resolve all
+      into the mere inexplicable vagaries of [[Madness|madness]], for I beheld him
       gazing upon vacancy for long hours, in an attitude of the
       profoundest attention, as if listening to some imaginary sound.
-      It was no wonder that his condition terrified—that it infected
+      It was no [[Wonder|wonder]] that his condition terrified—that it infected
       me. I felt creeping upon me, by slow yet certain degrees, the
       wild influences of his own fantastic yet impressive
       superstitions.
 
-      It was, especially, upon retiring to bed late in the night of the
-      seventh or eighth day after the placing of the lady Madeline
+      It was, especially, upon retiring to bed late in the [[Night|night]] of the
+      seventh or eighth day after the placing of the lady [[Madeline]]
       within the donjon, that I experienced the full power of such
-      feelings. Sleep came not near my couch—while the hours waned and
+      feelings. [[Sleep]] came not near my couch—while the hours waned and
       waned away. I struggled to reason off the nervousness which had
       dominion over me. I endeavored to believe that much, if not all
       of what I felt, was due to the bewildering influence of the
@@ -106,10 +106,10 @@ tags:
       uplifted myself upon the pillows, and, peering earnestly within
       the intense darkness of the chamber, harkened—I know not why,
       except that an instinctive spirit prompted me—to certain low and
-      indefinite sounds which came, through the pauses of the storm, at
+      indefinite sounds which came, through the pauses of the [[Storm|storm]], at
       long intervals, I knew not whence. Overpowered by an intense
       sentiment of horror, unaccountable yet unendurable, I threw on my
-      clothes with haste (for I felt that I should sleep no more during
-      the night), and endeavored to arouse myself from the pitiable
+      clothes with haste (for I felt that I should [[Sleep|sleep]] no more during
+      the [[Night|night]]), and endeavored to arouse myself from the pitiable
       condition into which I had fallen, by pacing rapidly to and fro
       through the apartment.

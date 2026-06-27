@@ -16,7 +16,7 @@ tags:
 
       that Kate and myself wish at present, is that you would oblige us
 
-      with your advice as—as regards the time—you know, uncle—in short,
+      with your advice as—as regards the [[Time|time]]—you know, uncle—in short,
 
       when will it be most convenient for yourself, that the wedding
 
@@ -34,7 +34,7 @@ tags:
 
       that’s good!—oh, that’s capital—_such_ a wit! But all we want
 
-      just _now_, you know, uncle, is that you would indicate the time
+      just _now_, you know, uncle, is that you would indicate the [[Time|time]]
 
       precisely.”
 
@@ -50,7 +50,7 @@ tags:
 
       “Wouldn’t it answer, Bobby, if I were to leave it at random—some
 
-      time within a year or so, for example?—_must_ I say precisely?”
+      [[Time|time]] within a year or so, for example?—_must_ I say precisely?”
 
 
 
@@ -58,9 +58,9 @@ tags:
 
 
 
-      “Well, then, Bobby, my boy—you’re a fine fellow, aren’t
+      “[[Well]], then, Bobby, my boy—you’re a fine fellow, aren’t
 
-      you?—since you _will_ have the exact time I’ll—why I’ll oblige
+      you?—since you _will_ have the exact [[Time|time]] I’ll—why I’ll oblige
 
       you for once.”
 
@@ -74,9 +74,9 @@ tags:
 
       shall have my consent—and the _plum_, we mus’n’t forget the
 
-      plum—let me see! when shall it be? To-day’s Sunday—isn’t it?
+      plum—let me see! when shall it be? To-day’s [[Sunday]]—isn’t it?
 
-      Well, then, you shall be married precisely—_precisely_, now
+      [[Well]], then, you shall be married precisely—_precisely_, now
 
       mind!—_when three Sundays come together in a week!_ Do you hear
 
@@ -90,13 +90,13 @@ tags:
 
       swallowed his bumper of port, while I rushed from the room in
 
-      despair.
+      [[Despair|despair]].
 
 
 
       A very “fine old English gentleman,” was my grand-uncle
 
-      Rumgudgeon, but unlike him of the song, he had his weak points.
+      Rumgudgeon, but unlike him of the [[Song|song]], he had his weak points.
 
       He was a little, pursy, pompous, passionate semicircular
 
@@ -124,7 +124,7 @@ tags:
 
       at last, was generally in direct ratio with the length of the
 
-      siege and the stubbornness of the resistance. In charity no one
+      siege and the stubbornness of the resistance. In [[Charity|charity]] no one
 
       gave more liberally or with a worse grace.
 
@@ -144,7 +144,7 @@ tags:
 
       assured me one day, when I asked him for a new copy of Horace,
 
-      that the translation of “Poeta nascitur non fit” was “a nasty
+      that the [[Translation|translation]] of “Poeta nascitur non fit” was “a nasty
 
       poet for nothing fit”—a remark which I took in high dudgeon. His
 
@@ -178,7 +178,7 @@ tags:
 
       dying, had bequeathed me to him as a rich legacy. I believe the
 
-      old villain loved me as his own child—nearly if not quite as well
+      old [[Villain|villain]] loved me as his own [[Child|child]]—nearly if not quite as [[Well|well]]
 
       as he loved Kate—but it was a dog’s existence that he led me,
 
@@ -186,13 +186,13 @@ tags:
 
       very regular floggings. From five to fifteen, he threatened me,
 
-      hourly, with the House of Correction. From fifteen to twenty, not
+      hourly, with the [[house|House]] of Correction. From fifteen to twenty, not
 
       a day passed in which he did not promise to cut me off with a
 
       shilling. I was a sad dog, it is true—but then it was a part of
 
-      my nature—a point of my faith. In Kate, however, I had a firm
+      my [[Nature|nature]]—a point of my [[Faith|faith]]. In Kate, however, I had a firm
 
       friend, and I knew it. She was a good girl, and told me very
 

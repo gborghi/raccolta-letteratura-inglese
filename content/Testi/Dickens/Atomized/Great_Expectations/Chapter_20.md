@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 20"
+title: "[[Great Expectations]] — Chapter 20"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,14 +17,14 @@ tags:
 Chapter XX.
 
 
-The journey from our town to the metropolis was a journey of about five
-hours. It was a little past midday when the four-horse stage-coach by
+The [[Journey|journey]] from our town to the metropolis was a [[Journey|journey]] of about five
+hours. It was a little past midday when the four-[[Horse|horse]] stage-coach by
 which I was a passenger, got into the ravel of traffic frayed out about
-the Cross Keys, Wood Street, Cheapside, London.
+the [[Cross]] Keys, Wood Street, Cheapside, [[London]].
 
-We Britons had at that time particularly settled that it was
-treasonable to doubt our having and our being the best of everything:
-otherwise, while I was scared by the immensity of London, I think I
+We Britons had at that [[Time|time]] particularly settled that it was
+treasonable to [[Doubt|doubt]] our having and our being the best of everything:
+otherwise, while I was scared by the immensity of [[London]], I think I
 might have had some faint doubts whether it was not rather ugly,
 crooked, narrow, and dirty.
 
@@ -36,13 +36,13 @@ me up in his coach and hemmed me in with a folding and jingling barrier
 of steps, as if he were going to take me fifty miles. His getting on
 his box, which I remember to have been decorated with an old
 weather-stained pea-green hammercloth moth-eaten into rags, was quite a
-work of time. It was a wonderful equipage, with six great coronets
+work of [[Time|time]]. It was a wonderful equipage, with six great coronets
 outside, and ragged things behind for I don’t know how many footmen to
 hold on by, and a harrow below them, to prevent amateur footmen from
-yielding to the temptation.
+yielding to the [[Temptation|temptation]].
 
-I had scarcely had time to enjoy the coach and to think how like a
-straw-yard it was, and yet how like a rag-shop, and to wonder why the
+I had scarcely had [[Time|time]] to enjoy the coach and to think how like a
+straw-yard it was, and yet how like a rag-shop, and to [[Wonder|wonder]] why the
 horses’ nose-bags were kept inside, when I observed the coachman
 beginning to get down, as if we were going to stop presently. And stop
 we presently did, in a gloomy street, at certain offices with an open
@@ -58,18 +58,18 @@ I naturally said I had no wish to make it more.
 get into trouble. _I_ know _him_!” He darkly closed an eye at Mr.
 Jaggers’s name, and shook his head.
 
-When he had got his shilling, and had in course of time completed the
+When he had got his shilling, and had in course of [[Time|time]] completed the
 ascent to his box, and had got away (which appeared to relieve his
 mind), I went into the front office with my little portmanteau in my
-hand and asked, Was Mr. Jaggers at home?
+hand and asked, Was Mr. Jaggers at [[Home|home]]?
 
-“He is not,” returned the clerk. “He is in Court at present. Am I
+“He is not,” returned the clerk. “He is in [[Court]] at present. Am I
 addressing Mr. Pip?”
 
 I signified that he was addressing Mr. Pip.
 
 “Mr. Jaggers left word, would you wait in his room. He couldn’t say how
-long he might be, having a case on. But it stands to reason, his time
+long he might be, having a case on. But it stands to reason, his [[Time|time]]
 being valuable, that he won’t be longer than he can help.”
 
 With those words, the clerk opened a door, and ushered me into an inner
@@ -81,7 +81,7 @@ being interrupted in the perusal of the newspaper.
 
 I began to say that I hoped I was not interrupting, when the clerk
 shoved this gentleman out with as little ceremony as I ever saw used,
-and tossing his fur cap out after him, left me alone.
+and tossing his fur cap out after him, left me [[Alone|alone]].
 
 Mr. Jaggers’s room was lighted by a skylight only, and was a most
 dismal place; the skylight, eccentrically pitched like a broken head,
@@ -89,7 +89,7 @@ and the distorted adjoining houses looking as if they had twisted
 themselves to peep down at me through it. There were not so many papers
 about, as I should have expected to see; and there were some odd
 objects about, that I should not have expected to see,—such as an old
-rusty pistol, a sword in a scabbard, several strange-looking boxes and
+rusty [[Pistol|pistol]], a [[Sword|sword]] in a scabbard, several strange-looking boxes and
 packages, and two dreadful casts on a shelf, of faces peculiarly
 swollen, and twitchy about the nose. Mr. Jaggers’s own high-backed
 chair was of deadly black horsehair, with rows of brass nails round it,
@@ -98,7 +98,7 @@ bit his forefinger at the clients. The room was but small, and the
 clients seemed to have had a habit of backing up against the wall; the
 wall, especially opposite to Mr. Jaggers’s chair, being greasy with
 shoulders. I recalled, too, that the one-eyed gentleman had shuffled
-forth against the wall when I was the innocent cause of his being
+forth against the wall when I was the [[Innocent|innocent]] cause of his being
 turned out.
 
 I sat down in the cliental chair placed over against Mr. Jaggers’s
@@ -107,13 +107,13 @@ called to mind that the clerk had the same air of knowing something to
 everybody else’s disadvantage, as his master had. I wondered how many
 other clerks there were upstairs, and whether they all claimed to have
 the same detrimental mastery of their fellow-creatures. I wondered what
-was the history of all the odd litter about the room, and how it came
+was the [[history]] of all the odd litter about the room, and how it came
 there. I wondered whether the two swollen faces were of Mr. Jaggers’s
 family, and, if he were so unfortunate as to have had a pair of such
 ill-looking relations, why he stuck them on that dusty perch for the
-blacks and flies to settle on, instead of giving them a place at home.
-Of course I had no experience of a London summer day, and my spirits
-may have been oppressed by the hot exhausted air, and by the dust and
+blacks and flies to settle on, instead of giving them a place at [[Home|home]].
+Of course I had no experience of a [[London]] [[Summer|summer]] day, and my spirits
+may have been oppressed by the hot exhausted air, and by the [[Dust|dust]] and
 grit that lay thick on everything. But I sat wondering and waiting in
 Mr. Jaggers’s close room, until I really could not bear the two casts
 on the shelf above Mr. Jaggers’s chair, and got up and went out.
@@ -121,11 +121,11 @@ on the shelf above Mr. Jaggers’s chair, and got up and went out.
 When I told the clerk that I would take a turn in the air while I
 waited, he advised me to go round the corner and I should come into
 Smithfield. So I came into Smithfield; and the shameful place, being
-all asmear with filth and fat and blood and foam, seemed to stick to
-me. So, I rubbed it off with all possible speed by turning into a
+all asmear with filth and fat and [[Blood|blood]] and foam, seemed to stick to
+me. So, I rubbed it off with all possible [[Speed|speed]] by turning into a
 street where I saw the great black dome of Saint Paul’s bulging at me
 from behind a grim stone building which a bystander said was Newgate
-Prison. Following the wall of the jail, I found the roadway covered
+[[Prison]]. Following the wall of the jail, I found the roadway covered
 with straw to deaden the noise of passing vehicles; and from this, and
 from the quantity of people standing about smelling strongly of spirits
 and beer, I inferred that the trials were on.
@@ -133,7 +133,7 @@ and beer, I inferred that the trials were on.
 While I looked about me here, an exceedingly dirty and partially drunk
 minister of justice asked me if I would like to step in and hear a
 trial or so: informing me that he could give me a front place for half
-a crown, whence I should command a full view of the Lord Chief Justice
+a [[Crown|crown]], whence I should command a full view of the [[Lord Chief Justice]]
 in his wig and robes,—mentioning that awful personage like waxwork, and
 presently offering him at the reduced price of eighteen-pence. As I
 declined the proposal on the plea of an appointment, he was so good as
@@ -143,17 +143,17 @@ Door, out of which culprits came to be hanged; heightening the interest
 of that dreadful portal by giving me to understand that “four on ’em”
 would come out at that door the day after to-morrow at eight in the
 morning, to be killed in a row. This was horrible, and gave me a
-sickening idea of London; the more so as the Lord Chief Justice’s
+sickening idea of [[London]]; the more so as the [[Lord Chief Justice]]’s
 proprietor wore (from his hat down to his boots and up again to his
 pocket-handkerchief inclusive) mildewed clothes which had evidently not
 belonged to him originally, and which I took it into my head he had
 bought cheap of the executioner. Under these circumstances I thought
-myself well rid of him for a shilling.
+myself [[Well|well]] rid of him for a shilling.
 
 I dropped into the office to ask if Mr. Jaggers had come in yet, and I
-found he had not, and I strolled out again. This time, I made the tour
+found he had not, and I strolled out again. This [[Time|time]], I made the tour
 of Little Britain, and turned into Bartholomew Close; and now I became
-aware that other people were waiting about for Mr. Jaggers, as well as
+aware that other people were waiting about for Mr. Jaggers, as [[Well|well]] as
 I. There were two men of secret appearance lounging in Bartholomew
 Close, and thoughtfully fitting their feet into the cracks of the
 pavement as they talked together, one of whom said to the other when
@@ -173,8 +173,8 @@ made a deep impression on me, and I admired and wondered more than
 ever.
 
 At length, as I was looking out at the iron gate of Bartholomew Close
-into Little Britain, I saw Mr. Jaggers coming across the road towards
-me. All the others who were waiting saw him at the same time, and there
+into Little Britain, I saw Mr. Jaggers coming across the [[Road|road]] towards
+me. All the others who were waiting saw him at the same [[Time|time]], and there
 was quite a rush at him. Mr. Jaggers, putting a hand on my shoulder and
 walking me on at his side without saying anything to me, addressed
 himself to his followers.
@@ -194,7 +194,7 @@ up at all. Has Wemmick got it?”
 
 “Yes, sir,” said both the men together.
 
-“Very well; then you may go. Now, I won’t have it!” said Mr Jaggers,
+“Very [[Well|well]]; then you may go. Now, I won’t have it!” said [[Mr Jaggers]],
 waving his hand at them to put them behind him. “If you say a word to
 me, I’ll throw up the case.”
 
@@ -217,7 +217,7 @@ separated,—“Oh! Amelia, is it?”
 “And do you remember,” retorted Mr. Jaggers, “that but for me you
 wouldn’t be here and couldn’t be here?”
 
-“O yes, sir!” exclaimed both women together. “Lord bless you, sir, well
+“O yes, sir!” exclaimed both women together. “Lord bless you, sir, [[Well|well]]
 we knows that!”
 
 “Then why,” said Mr. Jaggers, “do you come here?”
@@ -231,7 +231,7 @@ you, and let him slip through my fingers. Have you paid Wemmick?”
 
 “O yes, sir! Every farden.”
 
-“Very well. Then you have done all you have got to do. Say another
+“Very [[Well|well]]. Then you have done all you have got to do. Say another
 word—one single word—and Wemmick shall give you your money back.”
 
 This terrible threat caused the two women to fall off immediately. No
@@ -272,16 +272,16 @@ approaching Mr. Jaggers confidentially.
 
 “Oh!” said Mr. Jaggers, turning to the man, who was pulling a lock of
 hair in the middle of his forehead, like the Bull in Cock Robin pulling
-at the bell-rope; “your man comes on this afternoon. Well?”
+at the bell-rope; “your man comes on this afternoon. [[Well]]?”
 
-“Well, Mas’r Jaggers,” returned Mike, in the voice of a sufferer from a
+“[[Well]], Mas’r Jaggers,” returned Mike, in the voice of a sufferer from a
 constitutional cold; “arter a deal o’ trouble, I’ve found one, sir, as
 might do.”
 
 “What is he prepared to swear?”
 
-“Well, Mas’r Jaggers,” said Mike, wiping his nose on his fur cap this
-time; “in a general way, anythink.”
+“[[Well]], Mas’r Jaggers,” said Mike, wiping his nose on his fur cap this
+[[Time|time]]; “in a general way, anythink.”
 
 Mr. Jaggers suddenly became most irate. “Now, I warned you before,”
 said he, throwing his forefinger at the terrified client, “that if you
@@ -295,12 +295,12 @@ what he had done.
 elbow. “Soft Head! Need you say it face to face?”
 
 “Now, I ask you, you blundering booby,” said my guardian, very sternly,
-“once more and for the last time, what the man you have brought here is
+“once more and for the last [[Time|time]], what the man you have brought here is
 prepared to swear?”
 
 Mike looked hard at my guardian, as if he were trying to learn a lesson
 from his face, and slowly replied, “Ayther to character, or to having
-been in his company and never left him all the night in question.”
+been in his company and never left him all the [[Night|night]] in question.”
 
 “Now, be careful. In what station of life is this man?”
 
@@ -322,9 +322,9 @@ After some helpless casting about, Mike brightened and began again:—
 “I left him,” said Mike, “a setting on some doorsteps round the
 corner.”
 
-“Take him past that window, and let me see him.”
+“Take him past that [[Window|window]], and let me see him.”
 
-The window indicated was the office window. We all three went to it,
+The [[Window|window]] indicated was the office [[Window|window]]. We all three went to it,
 behind the wire blind, and presently saw the client go by in an
 accidental manner, with a murderous-looking tall individual, in a short
 suit of white linen and a paper cap. This guileless confectioner was
@@ -341,7 +341,7 @@ to bully his very sandwich as he ate it), informed me what arrangements
 he had made for me. I was to go to “Barnard’s Inn,” to young Mr.
 Pocket’s rooms, where a bed had been sent in for my accommodation; I
 was to remain with young Mr. Pocket until Monday; on Monday I was to go
-with him to his father’s house on a visit, that I might try how I liked
+with him to his father’s [[house]] on a visit, that I might try how I liked
 it. Also, I was told what my allowance was to be,—it was a very liberal
 one,—and had handed to me from one of my guardian’s drawers, the cards
 of certain tradesmen with whom I was to deal for all kinds of clothes,

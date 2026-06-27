@@ -17,16 +17,16 @@ tags:
 CATTLE DROVES ABOUT WASHINGTON
 
 Among other sights are immense droves of cattle with their drivers,
-passing through the streets of the city. Some of the men have a way
+passing through the streets of the [[City|city]]. Some of the men have a way
 of leading the cattle by a peculiar call, a wild, pensive hoot, quite
 musical, prolong'd, indescribable, sounding something between the cooing
 of a pigeon and the hoot of an owl. I like to stand and look at the
-sight of one of these immense droves--a little way off--(as the dust
+sight of one of these immense droves--a little way off--(as the [[Dust|dust]]
 is great.) There are always men on horseback, cracking their whips
 and shouting--the cattle low--some obstinate ox or steer attempts to
 escape--then a lively scene--the mounted men, always excellent riders
-and on good horses, dash after the recusant, and wheel and turn--a
+and on good horses, dash after the recusant, and [[Wheel|wheel]] and turn--a
 dozen mounted drovers, their great slouch'd, broad-brim'd hats, very
-picturesque--another dozen on foot--everybody cover'd with dust--long
+picturesque--another dozen on foot--everybody cover'd with [[Dust|dust]]--long
 goads in their hands--an immense drove of perhaps 1000 cattle--the
 shouting, hooting, movement, &c.

@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 6 (part 5)"
+title: "[[Martin Chuzzlewit]] — Chapter 6 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Mr Pinch opened his eyes wider, and looked at the fire harder than he
+Mr Pinch opened his eyes wider, and looked at the [[Fire|fire]] harder than he
 had done yet.
 
 ‘You may be sure,’ said Martin, ‘that this nettled him, and that he
@@ -22,13 +22,13 @@ began to be the very reverse of complimentary to myself. Interview
 succeeded interview; words engendered words, as they always do; and the
 upshot of it was, that I was to renounce her, or be renounced by him.
 Now you must bear in mind, Pinch, that I am not only desperately fond
-of her (for though she is poor, her beauty and intellect would reflect
+of her (for though she is poor, her [[Beauty|beauty]] and intellect would reflect
 great credit on anybody, I don’t care of what pretensions who might
 become her husband), but that a chief ingredient in my composition is a
 most determined--’
 
-‘Obstinacy,’ suggested Tom in perfect good faith. But the suggestion was
-not so well received as he had expected; for the young man immediately
+‘Obstinacy,’ suggested Tom in perfect good [[Faith|faith]]. But the suggestion was
+not so [[Well|well]] received as he had expected; for the young man immediately
 rejoined, with some irritation,
 
 ‘What a fellow you are, Pinch!’
@@ -52,12 +52,12 @@ him.’
 
 ‘To be sure!’ said Tom.
 
-‘Very well,’ rejoined Martin, throwing himself back in his chair, with
+‘Very [[Well|well]],’ rejoined Martin, throwing himself back in his chair, with
 a careless wave of both hands, as if the subject were quite settled, and
 nothing more could be said about it--‘There is an end of the matter, and
 here am I!’
 
-Mr Pinch sat staring at the fire for some minutes with a puzzled look,
+Mr Pinch sat staring at the [[Fire|fire]] for some minutes with a puzzled look,
 such as he might have assumed if some uncommonly difficult conundrum had
 been proposed, which he found it impossible to guess. At length he said:
 
@@ -75,32 +75,32 @@ being--’
 ‘Such an excellent man,’ interposed Tom, rubbing his hands: ‘so he is.
 You were quite right.’
 
-‘Why, not so much on that account, if the truth must be spoken,’
+‘Why, not so much on that account, if the [[Truth|truth]] must be spoken,’
 returned Martin, ‘as because my grandfather has an inveterate dislike to
 him, and after the old man’s arbitrary treatment of me, I had a natural
-desire to run as directly counter to all his opinions as I could. Well!
+[[Desire|desire]] to run as directly counter to all his opinions as I could. [[Well]]!
 As I said before, here I am. My engagement with the young lady I have
 been telling you about is likely to be a tolerably long one; for neither
 her prospects nor mine are very bright; and of course I shall not think
-of marrying until I am well able to do so. It would never do, you know,
-for me to be plunging myself into poverty and shabbiness and love in one
+of marrying until I am [[Well|well]] able to do so. It would never do, you know,
+for me to be plunging myself into [[Poverty|poverty]] and shabbiness and [[Love|love]] in one
 room up three pair of stairs, and all that sort of thing.’
 
-‘To say nothing of her,’ remarked Tom Pinch, in a low voice.
+‘To say nothing of her,’ remarked [[Tom Pinch]], in a low voice.
 
 ‘Exactly so,’ rejoined Martin, rising to warm his back, and leaning
-against the chimney-piece. ‘To say nothing of her. At the same time,
+against the chimney-piece. ‘To say nothing of her. At the same [[Time|time]],
 of course it’s not very hard upon her to be obliged to yield to the
 necessity of the case; first, because she loves me very much; and
 secondly, because I have sacrificed a great deal on her account, and
 might have done much better, you know.’
 
-It was a very long time before Tom said ‘Certainly;’ so long, that he
+It was a very long [[Time|time]] before Tom said ‘Certainly;’ so long, that he
 might have taken a nap in the interval, but he did say it at last.
 
-‘Now, there is one odd coincidence connected with this love-story,’ said
+‘Now, there is one odd coincidence connected with this [[Love|love]]-story,’ said
 Martin, ‘which brings it to an end. You remember what you told me last
-night as we were coming here, about your pretty visitor in the church?’
+[[Night|night]] as we were coming here, about your pretty visitor in the church?’
 
 ‘Surely I do,’ said Tom, rising from his stool, and seating himself in
 the chair from which the other had lately risen, that he might see his
@@ -112,20 +112,20 @@ face. ‘Undoubtedly.’
 and speaking very softly. ‘You don’t tell me so?’
 
 ‘That was she,’ repeated the young man. ‘After what I have heard
-from Pecksniff, I have no doubt that she came and went with my
+from Pecksniff, I have no [[Doubt|doubt]] that she came and went with my
 grandfather.--Don’t you drink too much of that sour wine, or you’ll have
 a fit of some sort, Pinch, I see.’
 
 ‘It is not very wholesome, I am afraid,’ said Tom, setting down the
-empty glass he had for some time held. ‘So that was she, was it?’
+empty glass he had for some [[Time|time]] held. ‘So that was she, was it?’
 
 Martin nodded assent; and adding, with a restless impatience, that if
 he had been a few days earlier he would have seen her; and that now she
 might be, for anything he knew, hundreds of miles away; threw himself,
 after a few turns across the room, into a chair, and chafed like a
-spoilt child.
+spoilt [[Child|child]].
 
-Tom Pinch’s heart was very tender, and he could not bear to see the
+[[Tom Pinch]]’s heart was very tender, and he could not bear to see the
 most indifferent person in distress; still less one who had awakened
 an interest in him, and who regarded him (either in fact, or as he
 supposed) with kindness, and in a spirit of lenient construction.
@@ -134,15 +134,15 @@ from his face they must have been pretty serious--he dismissed them
 instantly, and gave his young friend the best counsel and comfort that
 occurred to him.
 
-‘All will be well in time,’ said Tom, ‘I have no doubt; and some trial
+‘All will be [[Well|well]] in [[Time|time]],’ said Tom, ‘I have no [[Doubt|doubt]]; and some trial
 and adversity just now will only serve to make you more attached to each
-other in better days. I have always read that the truth is so, and I
+other in better days. I have always read that the [[Truth|truth]] is so, and I
 have a feeling within me, which tells me how natural and right it is
 that it should be. That never ran smooth yet,’ said Tom, with a smile
 which, despite the homeliness of his face, was pleasanter to see than
-many a proud beauty’s brightest glance; ‘what never ran smooth yet, can
+many a proud [[Beauty|beauty]]’s brightest glance; ‘what never ran smooth yet, can
 hardly be expected to change its character for us; so we must take it as
 we find it, and fashion it into the very best shape we can, by patience
-and good-humour. I have no power at all; I needn’t tell you that; but I
+and good-[[Humour|humour]]. I have no power at all; I needn’t tell you that; but I
 have an excellent will; and if I could ever be of use to you, in any way
 whatever, how very glad I should be!’

@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 17 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 17 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -23,7 +23,7 @@ and meaning of which, was variously interpreted by her acquaintance;
 some holding that Miss Knag dealt in exaggeration, and introduced the
 monosyllable when any fresh invention was in course of coinage in her
 brain; others, that when she wanted a word, she threw it in to gain
-time, and prevent anybody else from striking into the conversation. It
+[[Time|time]], and prevent anybody else from striking into the conversation. It
 may be further remarked, that Miss Knag still aimed at youth, although
 she had shot beyond it, years ago; and that she was weak and vain, and
 one of those people who are best described by the axiom, that you may
@@ -51,8 +51,8 @@ her hands together.
 ‘Indeed he does not strike me as being so, by any means,’ replied Kate.
 
 ‘No, my dear!’ cried Miss Knag, elevating her hands. ‘Why, goodness
-gracious mercy, where’s your taste? Such a fine tall, full-whiskered
-dashing gentlemanly man, with such teeth and hair, and--hem--well now,
+gracious [[Mercy|mercy]], where’s your taste? Such a fine tall, full-whiskered
+dashing gentlemanly man, with such teeth and hair, and--hem--[[Well|well]] now,
 you DO astonish me.’
 
 ‘I dare say I am very foolish,’ replied Kate, laying aside her bonnet;
@@ -70,7 +70,7 @@ Kate.
 
 ‘I dare say he may, but I never saw them,’ answered Kate.
 
-‘Never saw them!’ interposed Miss Knag. ‘Oh, well! There it is at
+‘Never saw them!’ interposed Miss Knag. ‘Oh, [[Well|well]]! There it is at
 once you know; how can you possibly pronounce an opinion about a
 gentleman--hem--if you don’t see him as he turns out altogether?’
 
@@ -79,7 +79,7 @@ girl--in this idea of the old milliner, that Kate, who was anxious, for
 every reason, to change the subject, made no further remark, and left
 Miss Knag in possession of the field.
 
-After a short silence, during which most of the young people made a
+After a short [[Silence|silence]], during which most of the young people made a
 closer inspection of Kate’s appearance, and compared notes respecting
 it, one of them offered to help her off with her shawl, and the
 offer being accepted, inquired whether she did not find black very
@@ -92,13 +92,13 @@ her.
 
 Kate might have said, that mourning is sometimes the coldest wear which
 mortals can assume; that it not only chills the breasts of those it
-clothes, but extending its influence to summer friends, freezes up their
+clothes, but extending its influence to [[Summer|summer]] friends, freezes up their
 sources of good-will and kindness, and withering all the buds of promise
-they once so liberally put forth, leaves nothing but bared and rotten
+they once so liberally put forth, [[Leaves|leaves]] nothing but bared and rotten
 hearts exposed. There are few who have lost a friend or relative
 constituting in life their sole dependence, who have not keenly felt
 this chilling influence of their sable garb. She had felt it acutely,
-and feeling it at the moment, could not quite restrain her tears.
+and feeling it at the moment, could not quite restrain her [[Tears|tears]].
 
 ‘I am very sorry to have wounded you by my thoughtless speech,’ said
 her companion. ‘I did not think of it. You are in mourning for some near
@@ -117,78 +117,78 @@ her voice. ‘Ah! A long illness, Miss Simmonds?’
 ‘Hush,’ replied the girl; ‘I don’t know.’
 
 ‘Our misfortune was very sudden,’ said Kate, turning away, ‘or I might
-perhaps, at a time like this, be enabled to support it better.’
+perhaps, at a [[Time|time]] like this, be enabled to support it better.’
 
-There had existed not a little desire in the room, according to
+There had existed not a little [[Desire|desire]] in the room, according to
 invariable custom, when any new ‘young person’ came, to know who Kate
 was, and what she was, and all about her; but, although it might
 have been very naturally increased by her appearance and emotion, the
 knowledge that it pained her to be questioned, was sufficient to repress
 even this curiosity; and Miss Knag, finding it hopeless to attempt
 extracting any further particulars just then, reluctantly commanded
-silence, and bade the work proceed.
+[[Silence|silence]], and bade the work proceed.
 
-In silence, then, the tasks were plied until half-past one, when a baked
+In [[Silence|silence]], then, the tasks were plied until half-past one, when a baked
 leg of mutton, with potatoes to correspond, were served in the kitchen.
 The meal over, and the young ladies having enjoyed the additional
 relaxation of washing their hands, the work began again, and was again
-performed in silence, until the noise of carriages rattling through the
-streets, and of loud double knocks at doors, gave token that the day’s
+performed in [[Silence|silence]], until the noise of carriages rattling through the
+streets, and of loud [[Double|double]] knocks at doors, gave token that the day’s
 work of the more fortunate members of society was proceeding in its
 turn.
 
-One of these double knocks at Madame Mantalini’s door, announced
+One of these [[Double|double]] knocks at Madame Mantalini’s door, announced
 the equipage of some great lady--or rather rich one, for there is
-occasionally a distinction between riches and greatness--who had come
-with her daughter to approve of some court-dresses which had been a long
-time preparing, and upon whom Kate was deputed to wait, accompanied by
+occasionally a distinction between riches and [[Greatness|greatness]]--who had come
+with her daughter to approve of some [[Court|court]]-dresses which had been a long
+[[Time|time]] preparing, and upon whom Kate was deputed to wait, accompanied by
 Miss Knag, and officered of course by Madame Mantalini.
 
 Kate’s part in the pageant was humble enough, her duties being limited
 to holding articles of costume until Miss Knag was ready to try them on,
 and now and then tying a string, or fastening a hook-and-eye. She
 might, not unreasonably, have supposed herself beneath the reach of any
-arrogance, or bad humour; but it happened that the lady and daughter
+arrogance, or bad [[Humour|humour]]; but it happened that the lady and daughter
 were both out of temper that day, and the poor girl came in for
 her share of their revilings. She was awkward--her hands were
 cold--dirty--coarse--she could do nothing right; they wondered how
 Madame Mantalini could have such people about her; requested they might
-see some other young woman the next time they came; and so forth.
+see some other young woman the next [[Time|time]] they came; and so forth.
 
 So common an occurrence would be hardly deserving of mention, but for
-its effect. Kate shed many bitter tears when these people were gone,
-and felt, for the first time, humbled by her occupation. She had, it is
+its effect. Kate shed many bitter [[Tears|tears]] when these people were gone,
+and felt, for the first [[Time|time]], humbled by her occupation. She had, it is
 true, quailed at the prospect of drudgery and hard service; but she had
 felt no degradation in working for her bread, until she found herself
-exposed to insolence and pride. Philosophy would have taught her that
+exposed to insolence and [[Pride|pride]]. [[philosophy|Philosophy]] would have taught her that
 the degradation was on the side of those who had sunk so low as to
 display such passions habitually, and without cause: but she was too
 young for such consolation, and her honest feeling was hurt. May not the
 complaint, that common people are above their station, often take its
 rise in the fact of UNcommon people being below theirs?
 
-In such scenes and occupations the time wore on until nine o’clock, when
+In such scenes and occupations the [[Time|time]] wore on until nine o’[[Clock|clock]], when
 Kate, jaded and dispirited with the occurrences of the day, hastened
 from the confinement of the workroom, to join her mother at the street
-corner, and walk home:--the more sadly, from having to disguise her real
+corner, and walk [[Home|home]]:--the more sadly, from having to disguise her real
 feelings, and feign to participate in all the sanguine visions of her
 companion.
 
-‘Bless my soul, Kate,’ said Mrs. Nickleby; ‘I’ve been thinking all day
+‘Bless my [[Soul|soul]], Kate,’ said Mrs. Nickleby; ‘I’ve been thinking all day
 what a delightful thing it would be for Madame Mantalini to take you
 into partnership--such a likely thing too, you know! Why, your poor
 dear papa’s cousin’s sister-in-law--a Miss Browndock--was taken into
 partnership by a lady that kept a school at Hammersmith, and made her
-fortune in no time at all. I forget, by-the-bye, whether that Miss
+fortune in no [[Time|time]] at all. I forget, by-the-bye, whether that Miss
 Browndock was the same lady that got the ten thousand pounds prize in
 the lottery, but I think she was; indeed, now I come to think of it, I
-am sure she was. “Mantalini and Nickleby”, how well it would sound!--and
+am sure she was. “Mantalini and Nickleby”, how [[Well|well]] it would sound!--and
 if Nicholas has any good fortune, you might have Doctor Nickleby, the
 head-master of Westminster School, living in the same street.’
 
 ‘Dear Nicholas!’ cried Kate, taking from her reticule her brother’s
 letter from Dotheboys Hall. ‘In all our misfortunes, how happy it makes
-me, mama, to hear he is doing well, and to find him writing in such
+me, mama, to hear he is doing [[Well|well]], and to find him writing in such
 good spirits! It consoles me for all we may undergo, to think that he is
 comfortable and happy.’
 

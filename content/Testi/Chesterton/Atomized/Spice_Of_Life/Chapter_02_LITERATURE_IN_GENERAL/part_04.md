@@ -14,35 +14,35 @@ tags:
 </nav>
 
 
-Lastly the principle that the detective story like every literary
+Lastly the principle that the [[Detective|detective]] story like every literary
 form starts with an idea, and does not merely start out to find one,
 applies also to its more material mechanical detail.  Where the story
 turns upon detection, it is still necessary that the writer should begin
-from the inside, though the detective approaches from the outside.
+from the inside, though the [[Detective|detective]] approaches from the outside.
 Every good problem of this type originates in a positive notion,
 which is in itself a simple notion; some fact of daily life
 that the writer can remember and the reader can forget.
-But anyhow, a tale has to be founded on a truth; and though opium
+But anyhow, a tale has to be founded on a [[Truth|truth]]; and though opium
 may be added to it, it must not merely be an opium dream.
 
 
-HUMOUR
+[[Humour|HUMOUR]]
 
-HUMOUR, in the modern use of the term, signifies a perception of the comic
+[[Humour|HUMOUR]], in the modern use of the term, signifies a perception of the comic
 or incongruous of a special sort; generally distinguished from Wit,
 as being on the one side more subtle, or on the other side more vague.
 It is thus a term which not only refuses to be defined, but in a sense
 boasts of being indefinable; and it would commonly be regarded as a
-deficiency in humour to search for a definition of humour.  The modern
+deficiency in [[Humour|humour]] to search for a definition of [[Humour|humour]].  The modern
 use of the term, however, is by no means the primary or necessary use
 of it; and it is one of the cases, rarer than is commonly supposed,
 in which derivation offers at least an approach to definition.
 Everybody knows that `Humor', in the Latin sense of `moisture'
 was applied here as part of the old physiological theory,
 by which the characters of men varied according to the proportions
-of certain different secretions in the human body; as, for instance,
-that the predominance of phlegm produced the phlegmatic humour.
-By the time of the full consolidation of the English language,
+of certain different secretions in the human [[Body|body]]; as, for instance,
+that the predominance of phlegm produced the phlegmatic [[Humour|humour]].
+By the [[Time|time]] of the full consolidation of the English language,
 it had thus become possible for Ben Jonson and others to use
 the word `humour' rather in the sense of `the ruling passion'.
 With this there necessarily went an idea of exaggeration;
@@ -55,7 +55,7 @@ in these eccentrics; and in England, where everything was less logical
 and more casual than in other countries, the eccentric long remained,
 as we should say, half unconsciously and half consciously humorous.
 The blend, and the beginnings of the modern meaning, may perhaps be dated
-at about the time of Walter Scott's Waverley Novels; when Guy Mannering
+at about the [[Time|time]] of Walter Scott's Waverley Novels; when Guy Mannering
 complains of Councillor Pleydell as `a crack-brained humorist'.
 For Pleydell is indeed laughed at for his little vanities or whims;
 but he himself joins in the laugh and sees the humour of his humour.
@@ -91,56 +91,56 @@ an inconsistency.  We shall be very wrong if we despise him as a wit,
 for that French clearness has depths of irony; there is, for instance,
 more than is seen at a glance in the very word `encourage'. But it
 is true that the wit is here a judge independent of the judges,
-unaffected by the King or the Admiral or the English Courtmartial
+unaffected by the [[King]] or the Admiral or the English Courtmartial
 or the mob.  He is abstract justice recording a contradiction.
-But when Falstaff (a model of the humorist become or becoming conscious)
+But when [[Falstaff]] (a model of the humorist become or becoming conscious)
 cries out in desperate bravado, "They hate us youth,"
 the incongruity between the speech and the corpulent old humbug
-of a speaker is present to his own mind, as well as to ours.
-He also discovers a contradiction, but it is in himself; for Falstaff
+of a speaker is present to his own mind, as [[Well|well]] as to ours.
+He also discovers a contradiction, but it is in himself; for [[Falstaff]]
 really did bemuse himself with youthful companionship which he knew
-to be like a drug or a dream; and indeed Shakespeare himself, in one at
+to be like a drug or [[A Dream|a dream]]; and indeed Shakespeare himself, in one at
 least of the Sonnets, becomes bitterly conscious of the same illusion.
-There is therefore in humour, or at least in the origins of humour,
+There is therefore in [[Humour|humour]], or at least in the origins of [[Humour|humour]],
 something of this idea of the eccentric caught in the act of eccentricity
 and brazening it out; something of one surprised in disarray and become
 conscious of the chaos within.  Wit corresponds to the divine virtue
 of justice, in so far as so dangerous a virtue can belong to man.
-Humour corresponds to the human virtue of humility and is only more
+[[Humour]] corresponds to the human virtue of [[Humility|humility]] and is only more
 divine because it has, for the moment, more sense of the mysteries.
 
-If there be so much of enlightenment to be gathered from the history
+If there be so much of enlightenment to be gathered from the [[history]]
 of the word, there is very little to be gathered from any of the
-attempts at a scientific history of the thing.  The speculations
-on the nature of any reaction to the risible belong to the larger
+attempts at a scientific [[history]] of the thing.  The speculations
+on the [[Nature|nature]] of any reaction to the risible belong to the larger
 and more elementary subject of Laughter and are for the department
 of psychology; according to some, almost for that of physiology.
 Whatever be their value touching the primitive function of laughter,
-they throw very little light on the highly civilized product of humour.
-It may well be questioned whether some of the explanations are not
+they throw very little light on the highly civilized product of [[Humour|humour]].
+It may [[Well|well]] be questioned whether some of the explanations are not
 too crude even for the crudest origins; that they hardly apply
-even to the savage and certainly do not apply to the child.
+even to the savage and certainly do not apply to the [[Child|child]].
 It has been suggested, for example, that all laughter had its origin in a
-sort of cruelty, in an exultation over the pain or ignominy of an enemy;
+sort of cruelty, in an exultation over the [[Pain|pain]] or ignominy of an enemy;
 but it is very hard even for the most imaginative psychologist
 to believe that, when a baby bursts out laughing at the image
-of the cow jumping over the moon, he is really finding pleasure in
+of the cow jumping over the [[Moon|moon]], he is really finding pleasure in
 the probability of the cow breaking her leg when she comes down again.
-The truth is that all these primitive and prehistoric origins are
+The [[Truth|truth]] is that all these primitive and prehistoric origins are
 largely unknown and possibly unknowable; and like all the unknown
 and unknowable are a field for furious wars of religion.
 Such primary human causes will always be interpreted differently
-according to different philosophies of human life.  Another philosophy
+according to different philosophies of human life.  Another [[philosophy]]
 would say, for instance, that laughter is due not to an animal cruelty
 but to a purely human realization of the contrast between man's
 spiritual immensity within and his littleness and restriction without,
-for it is itself a joke that a house should be larger inside than out.
+for it is itself a joke that a [[house]] should be larger inside than out.
 According to such a view, the very incompatability between
 the sense of human dignity and the perpetual possibility
 of incidental indignities, produces the primary or archetypal
 joke of the old gentleman sitting down suddenly on the ice.
 We do not laugh thus when a tree or a rock tumbles down; because we
-do not know the sense of self-esteem or serious importance within.
+do not know the sense of [[Self|self]]-esteem or serious importance within.
 But such speculations in psychology, especially in primitive psychology,
-have very little to do with the actual history of comedy as
+have very little to do with the actual [[history]] of [[Comedy|comedy]] as
 an artistic creation.

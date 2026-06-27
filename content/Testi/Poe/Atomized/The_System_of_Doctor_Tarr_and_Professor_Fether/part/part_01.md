@@ -1,5 +1,5 @@
 ---
-title: "The System of Doctor Tarr and Professor Fether (part 1)"
+title: "[[The System of Doctor Tarr and Professor Fether]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-System-of-Doctor-Tarr-and-Professor-Fether-(Poe)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-During the autumn of 18—, while on a tour through the extreme
+During the [[Autumn|autumn]] of 18—, while on a tour through the extreme
 
       southern provinces of France, my route led me within a few miles
 
-      of a certain _Maison de Santé_ or private mad-house, about which
+      of a certain _Maison de Santé_ or private mad-[[house]], about which
 
-      I had heard much, in Paris, from my medical friends. As I had
+      I had heard much, in [[Paris]], from my medical friends. As I had
 
       never visited a place of the kind, I thought the opportunity too
 
@@ -62,11 +62,11 @@ During the autumn of 18—, while on a tour through the extreme
 
       up to the door and introduce me; although his feelings on the
 
-      subject of lunacy would not permit of his entering the house.
+      subject of lunacy would not permit of his entering the [[house]].
 
 
 
-      I thanked him, and, turning from the main road, we entered a
+      I thanked him, and, turning from the main [[Road|road]], we entered a
 
       grass-grown by-path, which, in half an hour, nearly lost itself
 
@@ -80,7 +80,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       neglect. Its aspect inspired me with absolute dread, and,
 
-      checking my horse, I half resolved to turn back. I soon, however,
+      checking my [[Horse|horse]], I half resolved to turn back. I soon, however,
 
       grew ashamed of my weakness, and proceeded.
 
@@ -102,7 +102,7 @@ During the autumn of 18—, while on a tour through the extreme
 
 
 
-      My friend, having presented me, mentioned my desire to inspect
+      My friend, having presented me, mentioned my [[Desire|desire]] to inspect
 
       the establishment, and received Monsieur Maillard’s assurance
 
@@ -116,13 +116,13 @@ During the autumn of 18—, while on a tour through the extreme
 
       exceedingly neat parlor, containing, among other indications of
 
-      refined taste, many books, drawings, pots of flowers, and musical
+      refined taste, many books, drawings, pots of [[Flowers|flowers]], and musical
 
-      instruments. A cheerful fire blazed upon the hearth. At a piano,
+      instruments. A cheerful [[Fire|fire]] blazed upon the hearth. At a piano,
 
       singing an aria from Bellini, sat a young and very beautiful
 
-      woman, who, at my entrance, paused in her song, and received me
+      woman, who, at my entrance, paused in her [[Song|song]], and received me
 
       with graceful courtesy. Her voice was low, and her whole manner
 
@@ -138,7 +138,7 @@ During the autumn of 18—, while on a tour through the extreme
 
 
 
-      I had heard, at Paris, that the institution of Monsieur Maillard
+      I had heard, at [[Paris]], that the institution of Monsieur Maillard
 
       was managed upon what is vulgarly termed the “system of
 
@@ -148,7 +148,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       were left much apparent liberty, and that most of them were
 
-      permitted to roam about the house and grounds in the ordinary
+      permitted to roam about the [[house]] and grounds in the ordinary
 
       apparel of persons in right mind.
 
@@ -172,7 +172,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       sense, but a long acquaintance with the metaphysics of mania, had
 
-      taught me to put no faith in such evidence of sanity, and I
+      taught me to put no [[Faith|faith]] in such evidence of [[Sanity|sanity]], and I
 
       continued to practise, throughout the interview, the caution with
 
@@ -200,7 +200,7 @@ During the autumn of 18—, while on a tour through the extreme
 
       course you will know how to excuse me. The excellent
 
-      administration of your affairs here is well understood in Paris,
+      administration of your affairs here is [[Well|well]] understood in [[Paris]],
 
       and I thought it just possible, you know—”
 

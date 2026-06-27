@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 86)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 86)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-than about the beauty of a fading cloud. And the modern world of moods
+than about the [[Beauty|beauty]] of a fading cloud. And the modern world of moods
 
 is a world of clouds, even if some of them are thunderclouds.
 
@@ -22,7 +22,7 @@ is a world of clouds, even if some of them are thunderclouds.
 
 For I have only taken here, as a convenient working model, the case of
 
-negro slavery; because it was long peculiar to America and is popularly
+negro [[Slavery|slavery]]; because it was long peculiar to [[america|America]] and is popularly
 
 associated with it. It is more and more obvious that the line is no
 
@@ -30,11 +30,11 @@ longer running between black and white but between rich and poor. As I
 
 have already noted in the case of Prohibition, the very same arguments
 
-of the inevitable suicide of the ignorant, of the impossibility of
+of the inevitable [[suicide]] of the ignorant, of the impossibility of
 
-freedom for the unfit, which were once applied to barbarians brought
+[[Freedom|freedom]] for the unfit, which were once applied to barbarians brought
 
-from Africa are now applied to citizens born in America. It is argued
+from Africa are now applied to citizens born in [[america|America]]. It is argued
 
 even by industrialists that industrialism has produced a class submerged
 
@@ -48,9 +48,9 @@ hypotheses about the feeble-minded and the criminal type will supply the
 
 masters of the modern world with more and more excuses for denying the
 
-dogma of equality in the case of white labour as well as black. And any
+dogma of equality in the case of white labour as [[Well|well]] as black. And any
 
-man who knows the world knows perfectly well that to tell the
+man who knows the world knows perfectly [[Well|well]] that to tell the
 
 millionaires, or their servants, that they are disappointing the
 
@@ -68,7 +68,7 @@ The world cannot keep its own ideals. The secular order cannot make
 
 secure any one of its own noble and natural conceptions of secular
 
-perfection. That will be found, as time goes on, the ultimate argument
+perfection. That will be found, as [[Time|time]] goes on, the ultimate argument
 
 for a Church independent of the world and the secular order. What has
 
@@ -78,7 +78,7 @@ democratic Deist of the eighteenth century? What has become of all that
 
 purely human hierarchy of chivalry, with its punctilious pattern of the
 
-good knight, its ardent ambition in the young squire? The very name of
+good knight, its ardent [[Ambition|ambition]] in the young squire? The very name of
 
 knight has come to represent the petty triumph of a profiteer, and the
 
@@ -86,7 +86,7 @@ very word squire the petty tyranny of a landlord. What has become of all
 
 that golden liberality of the Humanists, who found on the high
 
-tablelands of the culture of Hellas the very balance of repose in beauty
+tablelands of the culture of Hellas the very balance of repose in [[Beauty|beauty]]
 
 that is most lacking in the modern world? The very Greek language that
 
@@ -94,7 +94,7 @@ they loved has become a mere label for snuffy and snobbish dons, and a
 
 mere cock-shy for cheap and half-educated utilitarians, who make it a
 
-symbol of superstition and reaction. We have lived to see a time when
+symbol of superstition and reaction. We have lived to see a [[Time|time]] when
 
 the heroic legend of the Republic and the Citizen, which seemed to
 
@@ -104,11 +104,11 @@ turn. We cannot recover the earthly estate of knighthood, to which all
 
 the colours and complications of heraldry seemed as fresh and natural as
 
-flowers. We cannot re-enact the intellectual experiences of the
+[[Flowers|flowers]]. We cannot re-enact the intellectual experiences of the
 
-Humanists, for whom the Greek grammar was like the song of a bird in
+Humanists, for whom the Greek grammar was like the [[Song|song]] of a bird in
 
-spring. The more the matter is considered the clearer it will seem that
+[[spring]]. The more the matter is considered the clearer it will seem that
 
 these old experiences are now only alive, where they have found a
 
@@ -128,19 +128,19 @@ so hazy an outline of so great and majestic a matter as the American
 
 democratic experiment, without testifying my belief that to this also
 
-the same ultimate test will come. So far as that democracy becomes or
+the same ultimate test will come. So far as that [[democracy]] becomes or
 
-remains Catholic and Christian, that democracy will remain democratic.
+remains Catholic and Christian, that [[democracy]] will remain democratic.
 
 In so far as it does not, it will become wildly and wickedly
 
 undemocratic. Its rich will riot with a brutal indifference far beyond
 
-the feeble feudalism which retains some shadow of responsibility or at
+the feeble feudalism which retains some [[Shadow|shadow]] of responsibility or at
 
 least of patronage. Its wage-slaves will either sink into heathen
 
-slavery, or seek relief in theories that are destructive not merely in
+[[Slavery|slavery]], or seek relief in theories that are destructive not merely in
 
 method but in aim; since they are but the negations of the human
 
@@ -154,15 +154,15 @@ depended upon Deism; their real strength will survive in men who are
 
 still Deists; and the men who are still Deists are more than Deists. Men
 
-will more and more realise that there is no meaning in democracy if
+will more and more realise that there is no meaning in [[democracy]] if
 
 there is no meaning in anything; and that there is no meaning in
 
 anything if the universe has not a centre of significance and an
 
-authority that is the author of our rights. There is truth in every
+authority that is the author of our rights. There is [[Truth|truth]] in every
 
-ancient fable, and there is here even something of it in the fancy that
+ancient [[Fable|fable]], and there is here even something of it in the fancy that
 
 finds the symbol of the Republic in the bird that bore the bolts of
 
@@ -176,7 +176,7 @@ existence may have no origin and no end; but it was far back in the land
 
 of legends, where instincts find their true images, that the cry went
 
-forth that freedom is an eagle, whose glory is gazing at the sun.
+forth that [[Freedom|freedom]] is an eagle, whose glory is gazing at the sun.
 
 
 
@@ -188,11 +188,11 @@ forth that freedom is an eagle, whose glory is gazing at the sun.
 
 
 
-End of Project Gutenberg's What I Saw in America, by G. K. Chesterton
+End of Project Gutenberg's What I Saw in [[america|America]], by G. K. Chesterton
 
 
 
-*** END OF THIS PROJECT GUTENBERG EBOOK WHAT I SAW IN AMERICA ***
+*** END OF THIS PROJECT GUTENBERG EBOOK WHAT I SAW IN [[america|AMERICA]] ***
 
 
 

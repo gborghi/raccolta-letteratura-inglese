@@ -21,9 +21,9 @@ Might I ask Miss Wilfer what she thinks?’
 
 ‘It has not been a fortunate name for me,’ said Bella, colouring—‘or
 at least it was not, until it led to my being here—but that is not the
-point in my thoughts. As we had given the name to the poor child, and as
-the poor child took so lovingly to me, I think I should feel jealous of
-calling another child by it. I think I should feel as if the name had
+point in my thoughts. As we had given the name to the poor [[Child|child]], and as
+the poor [[Child|child]] took so lovingly to me, I think I should feel jealous of
+calling another [[Child|child]] by it. I think I should feel as if the name had
 become endeared to me, and I had no right to use it so.’
 
 ‘And that’s your opinion?’ remarked Mr Boffin, observant of the
@@ -36,12 +36,12 @@ think Miss Wilfer’s feeling very womanly and pretty.’
 
 ‘My opinion, old lady,’ returned the Golden Dustman, ‘is your opinion.’
 
-‘Then,’ said Mrs Boffin, ‘we agree not to revive John Harmon’s name, but
-to let it rest in the grave. It is, as Mr Rokesmith says, a matter of
-feeling, but Lor how many matters ARE matters of feeling! Well; and so
+‘Then,’ said Mrs Boffin, ‘we agree not to revive [[John Harmon]]’s name, but
+to let it rest in the [[Grave|grave]]. It is, as Mr Rokesmith says, a matter of
+feeling, but Lor how many matters ARE matters of feeling! [[Well]]; and so
 I come to the second thing I have thought of. You must know, Bella,
 my dear, and Mr Rokesmith, that when I first named to my husband my
-thoughts of adopting a little orphan boy in remembrance of John Harmon,
+thoughts of adopting a little [[Orphan|orphan]] boy in remembrance of [[John Harmon]],
 I further named to my husband that it was comforting to think that how
 the poor boy would be benefited by John’s own money, and protected from
 John’s own forlornness.’
@@ -50,28 +50,28 @@ John’s own forlornness.’
 
 ‘No, not Ancoar, Noddy, my dear,’ returned Mrs Boffin, ‘because I am
 going to say something else. I meant that, I am sure, as much as
-I still mean it. But this little death has made me ask myself the
+I still mean it. But this little [[Death|death]] has made me ask myself the
 question, seriously, whether I wasn’t too bent upon pleasing myself.
-Else why did I seek out so much for a pretty child, and a child quite to
+Else why did I seek out so much for a pretty [[Child|child]], and a [[Child|child]] quite to
 my liking? Wanting to do good, why not do it for its own sake, and put
 my tastes and likings by?’
 
 ‘Perhaps,’ said Bella; and perhaps she said it with some little
 sensitiveness arising out of those old curious relations of hers towards
 the murdered man; ‘perhaps, in reviving the name, you would not have
-liked to give it to a less interesting child than the original. He
+liked to give it to a less interesting [[Child|child]] than the original. He
 interested you very much.’
 
-‘Well, my dear,’ returned Mrs Boffin, giving her a squeeze, ‘it’s kind
-of you to find that reason out, and I hope it may have been so, and
+‘[[Well]], my dear,’ returned Mrs Boffin, giving her a squeeze, ‘it’s kind
+of you to find that reason out, and I [[Hope|hope]] it may have been so, and
 indeed to a certain extent I believe it was so, but I am afraid not to
 the whole extent. However, that don’t come in question now, because we
 have done with the name.’
 
 ‘Laid it up as a remembrance,’ suggested Bella, musingly.
 
-‘Much better said, my dear; laid it up as a remembrance. Well then; I
-have been thinking if I take any orphan to provide for, let it not be
+‘Much better said, my dear; laid it up as a remembrance. [[Well]] then; I
+have been thinking if I take any [[Orphan|orphan]] to provide for, let it not be
 a pet and a plaything for me, but a creature to be helped for its own
 sake.’
 
@@ -82,7 +82,7 @@ sake.’
 ‘Nor prepossessing then?’ said Bella.
 
 ‘No,’ returned Mrs Boffin. ‘Not necessarily so. That’s as it may happen.
-A well-disposed boy comes in my way who may be even a little wanting in
+A [[Well|well]]-disposed boy comes in my way who may be even a little wanting in
 such advantages for getting on in life, but is honest and industrious
 and requires a helping hand and deserves it. If I am very much in
 earnest and quite determined to be unselfish, let me take care of HIM.’
@@ -107,8 +107,8 @@ a perfect Argus in the way of buttons: shining and winking and gleaming
 and twinkling out of a hundred of those eyes of bright metal, at the
 dazzled spectators. The artistic taste of some unknown hatter had
 furnished him with a hatband of wholesale capacity which was fluted
-behind, from the crown of his hat to the brim, and terminated in a black
-bunch, from which the imagination shrunk discomfited and the reason
+behind, from the [[Crown|crown]] of his hat to the brim, and terminated in a black
+bunch, from which the [[Imagination|imagination]] shrunk discomfited and the reason
 revolted. Some special powers with which his legs were endowed, had
 already hitched up his glossy trousers at the ankles, and bagged them at
 the knees; while similar gifts in his arms had raised his coat-sleeves
@@ -168,11 +168,11 @@ can be turned for all the same, you shall come here and be taken care of
 for life, and be made able to keep her in other ways than the turning.’
 
 ‘Even as to that, mum,’ answered the ecstatic Sloppy, ‘the turning might
-be done in the night, don’t you see? I could be here in the day, and
-turn in the night. I don’t want no sleep, I don’t. Or even if I any ways
+be done in the [[Night|night]], don’t you see? I could be here in the day, and
+turn in the [[Night|night]]. I don’t want no [[Sleep|sleep]], I don’t. Or even if I any ways
 should want a wink or two,’ added Sloppy, after a moment’s apologetic
 reflection, ‘I could take ’em turning. I’ve took ’em turning many a
-time, and enjoyed ’em wonderful!’
+[[Time|time]], and enjoyed ’em wonderful!’
 
 On the grateful impulse of the moment, Mr Sloppy kissed Mrs Boffin’s
 hand, and then detaching himself from that good creature that he might

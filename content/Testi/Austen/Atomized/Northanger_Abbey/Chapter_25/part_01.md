@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 24 (part 1)"
+title: "[[Northanger Abbey]] — Chapter 24 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -22,23 +22,23 @@ CHAPTER 24
 
 The next day afforded no opportunity for the proposed examination of
 
-the mysterious apartments. It was Sunday, and the whole time between
+the mysterious apartments. It was [[Sunday]], and the whole [[Time|time]] between
 
 morning and afternoon service was required by the General in exercise
 
-abroad or eating cold meat at home; and great as was Catherine’s
+abroad or eating cold meat at [[Home|home]]; and great as was Catherine’s
 
-curiosity, her courage was not equal to a wish of exploring them after
+curiosity, her [[Courage|courage]] was not equal to a wish of exploring them after
 
 dinner, either by the fading light of the sky between six and seven
 
-o’clock, or by the yet more partial though stronger illumination of a
+o’[[Clock|clock]], or by the yet more partial though stronger illumination of a
 
 treacherous lamp. The day was unmarked therefore by anything to
 
-interest her imagination beyond the sight of a very elegant monument to
+interest her [[Imagination|imagination]] beyond the sight of a very elegant monument to
 
-the memory of Mrs. Tilney, which immediately fronted the family pew. By
+the [[Memory|memory]] of Mrs. Tilney, which immediately fronted the family pew. By
 
 that her eye was instantly caught and long retained; and the perusal of
 
@@ -46,7 +46,7 @@ the highly strained epitaph, in which every virtue was ascribed to her
 
 by the inconsolable husband, who must have been in some way or other
 
-her destroyer, affected her even to tears.
+her destroyer, affected her even to [[Tears|tears]].
 
 
 
@@ -60,13 +60,13 @@ fearlessly around, nay, that he should even enter the church, seemed
 
 wonderful to Catherine. Not, however, that many instances of beings
 
-equally hardened in guilt might not be produced. She could remember
+equally hardened in [[Guilt|guilt]] might not be produced. She could remember
 
 dozens who had persevered in every possible vice, going on from crime
 
 to crime, murdering whomsoever they chose, without any feeling of
 
-humanity or remorse; till a violent death or a religious retirement
+humanity or remorse; till a violent [[Death|death]] or a religious retirement
 
 closed their black career. The erection of the monument itself could
 
@@ -90,9 +90,9 @@ The succeeding morning promised something better. The General’s early
 
 walk, ill-timed as it was in every other view, was favourable here; and
 
-when she knew him to be out of the house, she directly proposed to Miss
+when she knew him to be out of the [[house]], she directly proposed to Miss
 
-Tilney the accomplishment of her promise. Eleanor was ready to oblige
+Tilney the accomplishment of her promise. [[Eleanor]] was ready to oblige
 
 her; and Catherine reminding her as they went of another promise, their
 
@@ -106,11 +106,11 @@ not in every respect answered, for Catherine had depended upon meeting
 
 with features, hair, complexion, that should be the very counterpart,
 
-the very image, if not of Henry’s, of Eleanor’s—the only portraits of
+the very image, if not of Henry’s, of [[Eleanor]]’s—the only portraits of
 
 which she had been in the habit of thinking, bearing always an equal
 
-resemblance of mother and child. A face once taken was taken for
+resemblance of mother and [[Child|child]]. A face once taken was taken for
 
 generations. But here she was obliged to look and consider and study
 
@@ -124,7 +124,7 @@ would have left it unwillingly.
 
 Her agitation as they entered the great gallery was too much for any
 
-endeavour at discourse; she could only look at her companion. Eleanor’s
+endeavour at discourse; she could only look at her companion. [[Eleanor]]’s
 
 countenance was dejected, yet sedate; and its composure spoke her
 
@@ -138,7 +138,7 @@ close the former with fearful caution, when the figure, the dreaded
 
 figure of the General himself at the further end of the gallery, stood
 
-before her! the name of “Eleanor” at the same moment, in his loudest
+before her! the name of “[[Eleanor]]” at the same moment, in his loudest
 
 tone, resounded through the building, giving to his daughter the first
 
@@ -146,7 +146,7 @@ intimation of his presence, and to Catherine terror upon terror. An
 
 attempt at concealment had been her first instinctive movement on
 
-perceiving him, yet she could scarcely hope to have escaped his eye;
+perceiving him, yet she could scarcely [[Hope|hope]] to have escaped his eye;
 
 and when her friend, who with an apologizing look darted hastily by
 
@@ -154,7 +154,7 @@ her, had joined and disappeared with him, she ran for safety to her own
 
 room, and, locking herself in, believed that she should never have
 
-courage to go down again. She remained there at least an hour, in the
+[[Courage|courage]] to go down again. She remained there at least an hour, in the
 
 greatest agitation, deeply commiserating the state of her poor friend,
 
@@ -168,15 +168,15 @@ meet him under the protection of visitors. The breakfast-room was gay
 
 with company; and she was named to them by the General as the friend of
 
-his daughter, in a complimentary style, which so well concealed his
+his daughter, in a complimentary style, which so [[Well|well]] concealed his
 
 resentful ire, as to make her feel secure at least of life for the
 
-present. And Eleanor, with a command of countenance which did honour to
+present. And [[Eleanor]], with a command of countenance which did [[Honour|honour]] to
 
 her concern for his character, taking an early occasion of saying to
 
-her, “My father only wanted me to answer a note,” she began to hope
+her, “My father only wanted me to answer a note,” she began to [[Hope|hope]]
 
 that she had either been unseen by the General, or that from some
 
@@ -190,11 +190,11 @@ company left them, and nothing occurred to disturb it.
 
 In the course of this morning’s reflections, she came to a resolution
 
-of making her next attempt on the forbidden door alone. It would be
+of making her next attempt on the forbidden door [[Alone|alone]]. It would be
 
-much better in every respect that Eleanor should know nothing of the
+much better in every respect that [[Eleanor]] should know nothing of the
 
-matter. To involve her in the danger of a second detection, to court
+matter. To involve her in the danger of a second detection, to [[Court|court]]
 
 her into an apartment which must wring her heart, could not be the
 

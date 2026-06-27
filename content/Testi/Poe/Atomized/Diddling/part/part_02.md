@@ -1,5 +1,5 @@
 ---
-title: "Diddling (part 2)"
+title: "[[Diddling]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Diddling-(Poe)"
@@ -22,7 +22,7 @@ tags:
 
       is accosted, and invited to enter, by a polite and voluble
 
-      individual at the door. She finds a sofa well adapted to her
+      individual at the door. She finds a sofa [[Well|well]] adapted to her
 
       views, and upon inquiring the price, is surprised and delighted
 
@@ -30,11 +30,11 @@ tags:
 
       expectations. She hastens to make the purchase, gets a bill and
 
-      receipt, leaves her address, with a request that the article be
+      receipt, [[Leaves|leaves]] her address, with a request that the article be
 
-      sent home as speedily as possible, and retires amid a profusion
+      sent [[Home|home]] as speedily as possible, and retires amid a profusion
 
-      of bows from the shopkeeper. The night arrives and no sofa. A
+      of bows from the shopkeeper. The [[Night|night]] arrives and no sofa. A
 
       servant is sent to make inquiry about the delay. The whole
 
@@ -58,7 +58,7 @@ tags:
 
 
 
-      Again, quite a respectable diddle is this. A well-dressed
+      Again, quite a respectable diddle is this. A [[Well|well]]-dressed
 
       individual enters a shop, makes a purchase to the value of a
 
@@ -72,7 +72,7 @@ tags:
 
       “My dear sir, never mind; just oblige me, will you, by sending
 
-      the bundle home? But stay! I really believe that I have nothing
+      the bundle [[Home|home]]? But stay! I really believe that I have nothing
 
       less than a five dollar bill, even there. However, you can send
 
@@ -98,13 +98,13 @@ tags:
 
 
 
-      “Ah! This is my bundle, I see—I thought you had been home with
+      “Ah! This is my bundle, I see—I thought you had been [[Home|home]] with
 
-      it, long ago. Well, go on! My wife, Mrs. Trotter, will give you
+      it, long ago. [[Well]], go on! My wife, Mrs. Trotter, will give you
 
       the five dollars—I left instructions with her to that effect. The
 
-      change you might as well give to me—I shall want some silver for
+      change you might as [[Well|well]] give to me—I shall want some silver for
 
       the Post Office. Very good! One, two, is this a good
 
@@ -114,15 +114,15 @@ tags:
 
 
 
-      The boy doesn’t loiter at all—but he is a very long time in
+      The boy doesn’t loiter at all—but he is a very long [[Time|time]] in
 
       getting back from his errand—for no lady of the precise name of
 
       Mrs. Trotter is to be discovered. He consoles himself, however,
 
-      that he has not been such a fool as to leave the goods without
+      that he has not been such a [[Fool|fool]] as to leave the goods without
 
-      the money, and re-entering his shop with a self-satisfied air,
+      the money, and re-entering his shop with a [[Self|self]]-satisfied air,
 
       feels sensibly hurt and indignant when his master asks him what
 
@@ -130,11 +130,11 @@ tags:
 
 
 
-      A very simple diddle, indeed, is this. The captain of a ship,
+      A very simple diddle, indeed, is this. The captain of a [[Ship|ship]],
 
       which is about to sail, is presented by an official looking
 
-      person with an unusually moderate bill of city charges. Glad to
+      person with an unusually moderate bill of [[City|city]] charges. Glad to
 
       get off so easily, and confused by a hundred duties pressing upon
 
@@ -152,7 +152,7 @@ tags:
 
       casting loose from the wharf. A traveller, portmanteau in hand,
 
-      is discovered running toward the wharf, at full speed. Suddenly,
+      is discovered running toward the wharf, at full [[Speed|speed]]. Suddenly,
 
       he makes a dead halt, stoops, and picks up something from the
 
@@ -168,7 +168,7 @@ tags:
 
 
 
-      “Time and tide wait for no man,” says the captain.
+      “[[Time]] and tide wait for no man,” says the captain.
 
 
 
@@ -198,7 +198,7 @@ tags:
 
       you—and of advertising it? The notes, you see, amount to a very
 
-      considerable sum. The owner will, no doubt, insist upon rewarding
+      considerable sum. The owner will, no [[Doubt|doubt]], insist upon rewarding
 
       you for your trouble—”
 
@@ -208,11 +208,11 @@ tags:
 
 
 
-      “Well, if you _must_ have it so—_I_ will take a small reward—just
+      “[[Well]], if you _must_ have it so—_I_ will take a small reward—just
 
       to satisfy your scruples. Let me see—why these notes are all
 
-      hundreds—bless my soul! a hundred is too much to take—fifty would
+      hundreds—bless my [[Soul|soul]]! a hundred is too much to take—fifty would
 
       be quite enough, I am sure—”
 

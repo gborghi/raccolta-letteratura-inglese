@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS"
+title: "[[David Copperfield]] — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -17,8 +17,8 @@ tags:
 CHAPTER 45. MR. DICK FULFILS MY AUNT’S PREDICTIONS
 
 
-It was some time now, since I had left the Doctor. Living in his
-neighbourhood, I saw him frequently; and we all went to his house on two
+It was some [[Time|time]] now, since I had left the Doctor. Living in his
+neighbourhood, I saw him frequently; and we all went to his [[house]] on two
 or three occasions to dinner or tea. The Old Soldier was in permanent
 quarters under the Doctor’s roof. She was exactly the same as ever, and
 the same immortal butterflies hovered over her cap.
@@ -27,19 +27,19 @@ Like some other mothers, whom I have known in the course of my life,
 Mrs. Markleham was far more fond of pleasure than her daughter was.
 She required a great deal of amusement, and, like a deep old soldier,
 pretended, in consulting her own inclinations, to be devoting herself
-to her child. The Doctor’s desire that Annie should be entertained,
+to her [[Child|child]]. The Doctor’s [[Desire|desire]] that Annie should be entertained,
 was therefore particularly acceptable to this excellent parent; who
 expressed unqualified approval of his discretion.
 
-I have no doubt, indeed, that she probed the Doctor’s wound without
+I have no [[Doubt|doubt]], indeed, that she probed the Doctor’s wound without
 knowing it. Meaning nothing but a certain matured frivolity and
 selfishness, not always inseparable from full-blown years, I think she
-confirmed him in his fear that he was a constraint upon his young
+confirmed him in his [[Fear|fear]] that he was a constraint upon his young
 wife, and that there was no congeniality of feeling between them, by so
 strongly commending his design of lightening the load of her life.
 
-‘My dear soul,’ she said to him one day when I was present, ‘you know
-there is no doubt it would be a little pokey for Annie to be always shut
+‘My dear [[Soul|soul]],’ she said to him one day when I was present, ‘you know
+there is no [[Doubt|doubt]] it would be a little pokey [[For Annie|for Annie]] to be always shut
 up here.’
 
 The Doctor nodded his benevolent head. ‘When she comes to her mother’s
@@ -73,10 +73,10 @@ young shoulders. You have studied Annie’s character, and you understand
 it. That’s what I find so charming!’
 
 Even the calm and patient face of Doctor Strong expressed some little
-sense of pain, I thought, under the infliction of these compliments.
+sense of [[Pain|pain]], I thought, under the infliction of these compliments.
 
 ‘Therefore, my dear Doctor,’ said the Old Soldier, giving him several
-affectionate taps, ‘you may command me, at all times and seasons. Now,
+affectionate taps, ‘you may command me, at all times and [[Seasons|seasons]]. Now,
 do understand that I am entirely at your service. I am ready to go with
 Annie to operas, concerts, exhibitions, all kinds of places; and you
 shall never find that I am tired. Duty, my dear Doctor, before every
@@ -85,12 +85,12 @@ consideration in the universe!’
 She was as good as her word. She was one of those people who can bear
 a great deal of pleasure, and she never flinched in her perseverance
 in the cause. She seldom got hold of the newspaper (which she settled
-herself down in the softest chair in the house to read through an
+herself down in the softest chair in the [[house]] to read through an
 eye-glass, every day, for two hours), but she found out something that
-she was certain Annie would like to see. It was in vain for Annie to
+she was certain Annie would like to see. It was in vain [[For Annie|for Annie]] to
 protest that she was weary of such things. Her mother’s remonstrance
 always was, ‘Now, my dear Annie, I am sure you know better; and I must
-tell you, my love, that you are not making a proper return for the
+tell you, my [[Love|love]], that you are not making a proper return for the
 kindness of Doctor Strong.’
 
 This was usually said in the Doctor’s presence, and appeared to me to
@@ -100,12 +100,12 @@ and went where the Old Soldier would.
 
 It rarely happened now that Mr. Maldon accompanied them. Sometimes
 my aunt and Dora were invited to do so, and accepted the invitation.
-Sometimes Dora only was asked. The time had been, when I should have
+Sometimes Dora only was asked. The [[Time|time]] had been, when I should have
 been uneasy in her going; but reflection on what had passed that
-former night in the Doctor’s study, had made a change in my mistrust. I
+former [[Night|night]] in the Doctor’s study, had made a change in my mistrust. I
 believed that the Doctor was right, and I had no worse suspicions.
 
-My aunt rubbed her nose sometimes when she happened to be alone with
+My aunt rubbed her nose sometimes when she happened to be [[Alone|alone]] with
 me, and said she couldn’t make it out; she wished they were happier; she
 didn’t think our military friend (so she always called the Old Soldier)
 mended the matter at all. My aunt further expressed her opinion, ‘that
@@ -121,12 +121,12 @@ some extraordinary manner.
 Unconscious of this prediction, Mr. Dick continued to occupy precisely
 the same ground in reference to the Doctor and to Mrs. Strong. He seemed
 neither to advance nor to recede. He appeared to have settled into his
-original foundation, like a building; and I must confess that my faith
+original foundation, like a building; and I must confess that my [[Faith|faith]]
 in his ever Moving, was not much greater than if he had been a building.
 
-But one night, when I had been married some months, Mr. Dick put his
-head into the parlour, where I was writing alone (Dora having gone out
-with my aunt to take tea with the two little birds), and said, with a
+But one [[Night|night]], when I had been married some months, Mr. Dick put his
+head into the parlour, where I was writing [[Alone|alone]] (Dora having gone out
+with my aunt to take tea with the two little [[Birds|birds]]), and said, with a
 significant cough:
 
 ‘You couldn’t speak to me without inconveniencing yourself, Trotwood, I
@@ -161,7 +161,7 @@ I was puzzled how to answer, but he helped me with a word.
 
 ‘Weak?’ said Mr. Dick.
 
-‘Well,’ I replied, dubiously. ‘Rather so.’
+‘[[Well]],’ I replied, dubiously. ‘Rather so.’
 
 ‘Exactly!’ cried Mr. Dick, who seemed quite enchanted by my reply. ‘That
 is, Trotwood, when they took some of the trouble out of you-know-who’s
@@ -190,7 +190,7 @@ put it in his pocket, and seemed to put my aunt away with it.
 
 ‘Now you are a scholar, Trotwood,’ said Mr. Dick. ‘You are a fine
 scholar. You know what a learned man, what a great man, the Doctor is.
-You know what honour he has always done me. Not proud in his wisdom.
+You know what [[Honour|honour]] he has always done me. Not proud in his wisdom.
 Humble, humble--condescending even to poor Dick, who is simple and knows
 nothing. I have sent his name up, on a scrap of paper, to the kite,
 along the string, when it has been in the sky, among the larks. The kite
@@ -211,7 +211,7 @@ same expression into my own, and shaking my head.
 
 He looked so wistfully into my face, and was so anxious to understand,
 that I took great pains to answer him slowly and distinctly, as I might
-have entered on an explanation to a child.
+have entered on an explanation to a [[Child|child]].
 
 ‘There is some unfortunate division between them,’ I replied. ‘Some
 unhappy cause of separation. A secret. It may be inseparable from the
@@ -221,7 +221,7 @@ Mr. Dick, who had told off every sentence with a thoughtful nod, paused
 when I had done, and sat considering, with his eyes upon my face, and
 his hand upon my knee.
 
-‘Doctor not angry with her, Trotwood?’ he said, after some time.
+‘Doctor not angry with her, Trotwood?’ he said, after some [[Time|time]].
 
 ‘No. Devoted to her.’
 
@@ -230,7 +230,7 @@ his hand upon my knee.
 The sudden exultation with which he slapped me on the knee, and leaned
 back in his chair, with his eyebrows lifted up as high as he could
 possibly lift them, made me think him farther out of his wits than
-ever. He became as suddenly grave again, and leaning forward as before,
+ever. He became as suddenly [[Grave|grave]] again, and leaning forward as before,
 said--first respectfully taking out his pocket-handkerchief, as if it
 really did represent my aunt:
 
@@ -247,7 +247,7 @@ done nothing?’
 ‘Then, I have got it, boy!’ said Mr. Dick. And he stood up before me,
 more exultingly than before, nodding his head, and striking himself
 repeatedly upon the breast, until one might have supposed that he had
-nearly nodded and struck all the breath out of his body.
+nearly nodded and struck all the breath out of his [[Body|body]].
 
 ‘A poor fellow with a craze, sir,’ said Mr. Dick, ‘a simpleton, a
 weak-minded person--present company, you know!’ striking himself again,
@@ -258,11 +258,11 @@ Dick’s nobody! Whoo!’ He blew a slight, contemptuous breath, as if he
 blew himself away.
 
 It was fortunate he had proceeded so far with his mystery, for we heard
-the coach stop at the little garden gate, which brought my aunt and Dora
-home.
+the coach stop at the little [[Garden|garden]] gate, which brought my aunt and Dora
+[[Home|home]].
 
 ‘Not a word, boy!’ he pursued in a whisper; ‘leave all the blame with
-Dick--simple Dick--mad Dick. I have been thinking, sir, for some time,
+Dick--simple Dick--mad Dick. I have been thinking, sir, for some [[Time|time]],
 that I was getting it, and now I have got it. After what you have said
 to me, I am sure I have got it. All right!’ Not another word did Mr.
 Dick utter on the subject; but he made a very telegraph of himself for
@@ -277,17 +277,17 @@ last I began to believe, that, in the flighty and unsettled state of his
 mind, he had either forgotten his intention or abandoned it.
 
 One fair evening, when Dora was not inclined to go out, my aunt and I
-strolled up to the Doctor’s cottage. It was autumn, when there were no
-debates to vex the evening air; and I remember how the leaves smelt like
-our garden at Blunderstone as we trod them under foot, and how the old,
-unhappy feeling, seemed to go by, on the sighing wind.
+strolled up to the Doctor’s cottage. It was [[Autumn|autumn]], when there were no
+debates to vex the evening air; and I remember how the [[Leaves|leaves]] smelt like
+our [[Garden|garden]] at Blunderstone as we trod them under foot, and how the old,
+unhappy feeling, seemed to go by, on the sighing [[Wind|wind]].
 
 It was twilight when we reached the cottage. Mrs. Strong was just coming
-out of the garden, where Mr. Dick yet lingered, busy with his knife,
+out of the [[Garden|garden]], where Mr. Dick yet lingered, busy with his knife,
 helping the gardener to point some stakes. The Doctor was engaged with
 someone in his study; but the visitor would be gone directly, Mrs.
 Strong said, and begged us to remain and see him. We went into the
-drawing-room with her, and sat down by the darkening window. There was
+drawing-room with her, and sat down by the darkening [[Window|window]]. There was
 never any ceremony about the visits of such old friends and neighbours
 as we were.
 
@@ -308,50 +308,50 @@ never had such a turn in all my life!’
 I came upon the amiable creature--if you’ll imagine my feelings, Miss
 Trotwood and David--in the act of making his will.’
 
-Her daughter looked round from the window quickly.
+Her daughter looked round from the [[Window|window]] quickly.
 
 ‘In the act, my dear Annie,’ repeated Mrs. Markleham, spreading the
 newspaper on her lap like a table-cloth, and patting her hands upon it,
 ‘of making his last Will and Testament. The foresight and affection of
 the dear! I must tell you how it was. I really must, in justice to the
 darling--for he is nothing less!--tell you how it was. Perhaps you know,
-Miss Trotwood, that there is never a candle lighted in this house, until
+Miss Trotwood, that there is never a candle lighted in this [[house]], until
 one’s eyes are literally falling out of one’s head with being stretched
-to read the paper. And that there is not a chair in this house, in which
+to read the paper. And that there is not a chair in this [[house]], in which
 a paper can be what I call, read, except one in the Study. This took me
 to the Study, where I saw a light. I opened the door. In company with
 the dear Doctor were two professional people, evidently connected with
 the law, and they were all three standing at the table: the
 darling Doctor pen in hand. “This simply expresses then,” said the
-Doctor--Annie, my love, attend to the very words--“this simply expresses
+Doctor--Annie, my [[Love|love]], attend to the very words--“this simply expresses
 then, gentlemen, the confidence I have in Mrs. Strong, and gives her all
 unconditionally?” One of the professional people replied, “And gives her
 all unconditionally.” Upon that, with the natural feelings of a mother,
 I said, “Good God, I beg your pardon!” fell over the door-step, and came
 away through the little back passage where the pantry is.’
 
-Mrs. Strong opened the window, and went out into the verandah, where she
+Mrs. Strong opened the [[Window|window]], and went out into the verandah, where she
 stood leaning against a pillar.
 
 ‘But now isn’t it, Miss Trotwood, isn’t it, David, invigorating,’ said
 Mrs. Markleham, mechanically following her with her eyes, ‘to find a man
-at Doctor Strong’s time of life, with the strength of mind to do this
+at Doctor Strong’s [[Time|time]] of life, with the strength of mind to do this
 kind of thing? It only shows how right I was. I said to Annie, when
 Doctor Strong paid a very flattering visit to myself, and made her the
 subject of a declaration and an offer, I said, “My dear, there is no
-doubt whatever, in my opinion, with reference to a suitable provision
+[[Doubt|doubt]] whatever, in my opinion, with reference to a suitable provision
 for you, that Doctor Strong will do more than he binds himself to do.”’
 
 Here the bell rang, and we heard the sound of the visitors’ feet as they
 went out.
 
-‘It’s all over, no doubt,’ said the Old Soldier, after listening; ‘the
+‘It’s all over, no [[Doubt|doubt]],’ said the Old Soldier, after listening; ‘the
 dear creature has signed, sealed, and delivered, and his mind’s at rest.
-Well it may be! What a mind! Annie, my love, I am going to the Study
+[[Well]] it may be! What a mind! Annie, my [[Love|love]], I am going to the Study
 with my paper, for I am a poor creature without news. Miss Trotwood,
 David, pray come and see the Doctor.’
 
-I was conscious of Mr. Dick’s standing in the shadow of the room,
+I was conscious of Mr. Dick’s standing in the [[Shadow|shadow]] of the room,
 shutting up his knife, when we accompanied her to the Study; and of my
 aunt’s rubbing her nose violently, by the way, as a mild vent for her
 intolerance of our military friend; but who got first into the Study, or
@@ -367,7 +367,7 @@ to look up with an abstracted air. That, as the Doctor moved his head,
 his wife dropped down on one knee at his feet, and, with her hands
 imploringly lifted, fixed upon his face the memorable look I had never
 forgotten. That at this sight Mrs. Markleham dropped the newspaper,
-and stared more like a figure-head intended for a ship to be called The
+and stared more like a figure-head intended for a [[Ship|ship]] to be called The
 Astonishment, than anything else I can think of.
 
 The gentleness of the Doctor’s manner and surprise, the dignity that
@@ -382,11 +382,11 @@ it.
 ‘Annie!’ cried the Doctor. ‘Not at my feet, my dear!’
 
 ‘Yes!’ she said. ‘I beg and pray that no one will leave the room! Oh, my
-husband and father, break this long silence. Let us both know what it is
+husband and father, break this long [[Silence|silence]]. Let us both know what it is
 that has come between us!’
 
-Mrs. Markleham, by this time recovering the power of speech, and seeming
-to swell with family pride and motherly indignation, here exclaimed,
+Mrs. Markleham, by this [[Time|time]] recovering the power of speech, and seeming
+to swell with family [[Pride|pride]] and motherly indignation, here exclaimed,
 ‘Annie, get up immediately, and don’t disgrace everybody belonging to
 you by humbling yourself like that, unless you wish to see me go out of
 my mind on the spot!’
@@ -394,18 +394,18 @@ my mind on the spot!’
 ‘Mama!’ returned Annie. ‘Waste no words on me, for my appeal is to my
 husband, and even you are nothing here.’
 
-‘Nothing!’ exclaimed Mrs. Markleham. ‘Me, nothing! The child has taken
-leave of her senses. Please to get me a glass of water!’
+‘Nothing!’ exclaimed Mrs. Markleham. ‘Me, nothing! The [[Child|child]] has taken
+leave of her senses. Please to get me a glass of [[Water|water]]!’
 
 I was too attentive to the Doctor and his wife, to give any heed to this
 request; and it made no impression on anybody else; so Mrs. Markleham
 panted, stared, and fanned herself.
 
 ‘Annie!’ said the Doctor, tenderly taking her in his hands. ‘My dear!
-If any unavoidable change has come, in the sequence of time, upon our
+If any unavoidable change has come, in the sequence of [[Time|time]], upon our
 married life, you are not to blame. The fault is mine, and only mine.
 There is no change in my affection, admiration, and respect. I wish to
-make you happy. I truly love and honour you. Rise, Annie, pray!’
+make you happy. I truly [[Love|love]] and [[Honour|honour]] you. Rise, Annie, pray!’
 
 But she did not rise. After looking at him for a little while, she sank
 down closer to him, laid her arm across his knee, and dropping her head
@@ -418,13 +418,13 @@ any friend here, who honours my husband, or has ever cared for me, and
 has anything within his knowledge, no matter what it is, that may help
 to mediate between us, I implore that friend to speak!’
 
-There was a profound silence. After a few moments of painful hesitation,
-I broke the silence.
+There was a profound [[Silence|silence]]. After a few moments of painful hesitation,
+I broke the [[Silence|silence]].
 
 ‘Mrs. Strong,’ I said, ‘there is something within my knowledge, which
 I have been earnestly entreated by Doctor Strong to conceal, and have
-concealed until tonight. But, I believe the time has come when it would
-be mistaken faith and delicacy to conceal it any longer, and when your
+concealed until tonight. But, I believe the [[Time|time]] has come when it would
+be mistaken [[Faith|faith]] and delicacy to conceal it any longer, and when your
 appeal absolves me from his injunction.’
 
 She turned her face towards me for a moment, and I knew that I was
@@ -439,9 +439,9 @@ disregard that. I will speak for myself, before him, and before God
 afterwards.’
 
 Thus earnestly besought, I made no reference to the Doctor for his
-permission, but, without any other compromise of the truth than a little
-softening of the coarseness of Uriah Heep, related plainly what had
-passed in that same room that night. The staring of Mrs. Markleham
+permission, but, without any other compromise of the [[Truth|truth]] than a little
+softening of the coarseness of [[Uriah Heep]], related plainly what had
+passed in that same room that [[Night|night]]. The staring of Mrs. Markleham
 during the whole narration, and the shrill, sharp interjections with
 which she occasionally interrupted it, defy description.
 
@@ -457,10 +457,10 @@ low, submissive, tender voice, ‘I will lay bare before you. I could not
 live and have one reservation, knowing what I know now.’
 
 ‘Nay, Annie,’ said the Doctor, mildly, ‘I have never doubted you, my
-child. There is no need; indeed there is no need, my dear.’
+[[Child|child]]. There is no need; indeed there is no need, my dear.’
 
 ‘There is great need,’ she answered, in the same way, ‘that I should
-open my whole heart before the soul of generosity and truth, whom, year
+open my whole heart before the [[Soul|soul]] of generosity and [[Truth|truth]], whom, year
 by year, and day by day, I have loved and venerated more and more, as
 Heaven knows!’
 
@@ -473,12 +473,12 @@ to enter into these details.’
 
 ‘No one but my husband can judge of that, mama,’ said Annie without
 removing her eyes from his face, ‘and he will hear me. If I say anything
-to give you pain, mama, forgive me. I have borne pain first, often and
+to give you [[Pain|pain]], mama, forgive me. I have borne [[Pain|pain]] first, often and
 long, myself.’
 
 ‘Upon my word!’ gasped Mrs. Markleham.
 
-‘When I was very young,’ said Annie, ‘quite a little child, my first
+‘When I was very young,’ said Annie, ‘quite a little [[Child|child]], my first
 associations with knowledge of any kind were inseparable from a patient
 friend and teacher--the friend of my dead father--who was always dear
 to me. I can remember nothing that I know, without remembering him. He
@@ -495,7 +495,7 @@ him, I can hardly describe how--as a father, as a guide, as one whose
 praise was different from all other praise, as one in whom I could have
 trusted and confided, if I had doubted all the world. You know, mama,
 how young and inexperienced I was, when you presented him before me, of
-a sudden, as a lover.’
+a sudden, as a [[Lover|lover]].’
 
 ‘I have mentioned the fact, fifty times at least, to everybody here!’
 said Mrs. Markleham.
@@ -528,7 +528,7 @@ military friend!’)
 first occasion of every unhappy moment I have known. These moments have
 been more, of late, than I can count; but not--my generous husband!--not
 for the reason you suppose; for in my heart there is not a thought, a
-recollection, or a hope, that any power could separate from you!’
+recollection, or a [[Hope|hope]], that any power could separate from you!’
 
 She raised her eyes, and clasped her hands, and looked as beautiful and
 true, I thought, as any Spirit. The Doctor looked on her, henceforth, as
@@ -543,27 +543,27 @@ of my exposure to the mean suspicion that my tenderness was bought--and
 sold to you, of all men on earth--fell upon me like unmerited disgrace,
 in which I forced you to participate. I cannot tell you what it
 was--mama cannot imagine what it was--to have this dread and trouble
-always on my mind, yet know in my own soul that on my marriage-day I
-crowned the love and honour of my life!’
+always on my mind, yet know in my own [[Soul|soul]] that on my [[Marriage|marriage]]-day I
+crowned the [[Love|love]] and [[Honour|honour]] of my life!’
 
-‘A specimen of the thanks one gets,’ cried Mrs. Markleham, in tears,
+‘A specimen of the thanks one gets,’ cried Mrs. Markleham, in [[Tears|tears]],
 ‘for taking care of one’s family! I wish I was a Turk!’
 
 (‘I wish you were, with all my heart--and in your native country!’ said
 my aunt.)
 
-‘It was at that time that mama was most solicitous about my Cousin
+‘It was at that [[Time|time]] that mama was most solicitous about my Cousin
 Maldon. I had liked him’: she spoke softly, but without any hesitation:
-‘very much. We had been little lovers once. If circumstances had not
+‘very much. We had been little [[lovers]] once. If circumstances had not
 happened otherwise, I might have come to persuade myself that I really
 loved him, and might have married him, and been most wretched. There can
-be no disparity in marriage like unsuitability of mind and purpose.’
+be no disparity in [[Marriage|marriage]] like unsuitability of mind and purpose.’
 
 I pondered on those words, even while I was studiously attending to
 what followed, as if they had some particular interest, or some strange
 application that I could not divine. ‘There can be no disparity in
-marriage like unsuitability of mind and purpose’--‘no disparity in
-marriage like unsuitability of mind and purpose.’
+[[Marriage|marriage]] like unsuitability of mind and purpose’--‘no disparity in
+[[Marriage|marriage]] like unsuitability of mind and purpose.’
 
 ‘There is nothing,’ said Annie, ‘that we have in common. I have long
 found that there is nothing. If I were thankful to my husband for no
@@ -578,17 +578,17 @@ bestowed for my sake, and when I was unhappy in the mercenary shape
 I was made to wear, I thought it would have become him better to have
 worked his own way on. I thought that if I had been he, I would have
 tried to do it, at the cost of almost any hardship. But I thought no
-worse of him, until the night of his departure for India. That night I
-knew he had a false and thankless heart. I saw a double meaning, then,
-in Mr. Wickfield’s scrutiny of me. I perceived, for the first time, the
+worse of him, until the [[Night|night]] of his departure for India. That [[Night|night]] I
+knew he had a false and thankless heart. I saw a [[Double|double]] meaning, then,
+in Mr. Wickfield’s scrutiny of me. I perceived, for the first [[Time|time]], the
 dark suspicion that shadowed my life.’
 
 ‘Suspicion, Annie!’ said the Doctor. ‘No, no, no!’
 
 ‘In your mind there was none, I know, my husband!’ she returned. ‘And
-when I came to you, that night, to lay down all my load of shame and
+when I came to you, that [[Night|night]], to lay down all my load of shame and
 grief, and knew that I had to tell that, underneath your roof, one of my
-own kindred, to whom you had been a benefactor, for the love of me, had
+own kindred, to whom you had been a benefactor, for the [[Love|love]] of me, had
 spoken to me words that should have found no utterance, even if I had
 been the weak and mercenary wretch he thought me--my mind revolted from
 the taint the very tale conveyed. It died upon my lips, and from that
@@ -598,7 +598,7 @@ Mrs. Markleham, with a short groan, leaned back in her easy-chair; and
 retired behind her fan, as if she were never coming out any more.
 
 ‘I have never, but in your presence, interchanged a word with him from
-that time; then, only when it has been necessary for the avoidance of
+that [[Time|time]]; then, only when it has been necessary for the avoidance of
 this explanation. Years have passed since he knew, from me, what his
 situation here was. The kindnesses you have secretly done for his
 advancement, and then disclosed to me, for my surprise and pleasure,
@@ -611,41 +611,41 @@ prevent her; and said, looking up, tearfully, into his face:
 ‘Do not speak to me yet! Let me say a little more! Right or wrong, if
 this were to be done again, I think I should do just the same. You never
 can know what it was to be devoted to you, with those old associations;
-to find that anyone could be so hard as to suppose that the truth of my
+to find that anyone could be so hard as to suppose that the [[Truth|truth]] of my
 heart was bartered away, and to be surrounded by appearances confirming
 that belief. I was very young, and had no adviser. Between mama and
 me, in all relating to you, there was a wide division. If I shrunk into
 myself, hiding the disrespect I had undergone, it was because I honoured
-you so much, and so much wished that you should honour me!’
+you so much, and so much wished that you should [[Honour|honour]] me!’
 
 ‘Annie, my pure heart!’ said the Doctor, ‘my dear girl!’
 
 ‘A little more! a very few words more! I used to think there were so
 many whom you might have married, who would not have brought such charge
-and trouble on you, and who would have made your home a worthier home. I
+and trouble on you, and who would have made your [[Home|home]] a worthier [[Home|home]]. I
 used to be afraid that I had better have remained your pupil, and almost
-your child. I used to fear that I was so unsuited to your learning and
+your [[Child|child]]. I used to [[Fear|fear]] that I was so unsuited to your learning and
 wisdom. If all this made me shrink within myself (as indeed it did),
 when I had that to tell, it was still because I honoured you so much,
-and hoped that you might one day honour me.’
+and hoped that you might one day [[Honour|honour]] me.’
 
-‘That day has shone this long time, Annie,’ said the Doctor, ‘and can
-have but one long night, my dear.’
+‘That day has shone this long [[Time|time]], Annie,’ said the Doctor, ‘and can
+have but one long [[Night|night]], my dear.’
 
 ‘Another word! I afterwards meant--steadfastly meant, and purposed to
 myself--to bear the whole weight of knowing the unworthiness of one
 to whom you had been so good. And now a last word, dearest and best of
 friends! The cause of the late change in you, which I have seen with
-so much pain and sorrow, and have sometimes referred to my old
+so much [[Pain|pain]] and sorrow, and have sometimes referred to my old
 apprehension--at other times to lingering suppositions nearer to the
-truth--has been made clear tonight; and by an accident I have also come
+[[Truth|truth]]--has been made clear tonight; and by an accident I have also come
 to know, tonight, the full measure of your noble trust in me, even
-under that mistake. I do not hope that any love and duty I may render in
+under that mistake. I do not [[Hope|hope]] that any [[Love|love]] and duty I may render in
 return, will ever make me worthy of your priceless confidence; but with
 all this knowledge fresh upon me, I can lift my eyes to this dear
 face, revered as a father’s, loved as a husband’s, sacred to me in
-my childhood as a friend’s, and solemnly declare that in my lightest
-thought I have never wronged you; never wavered in the love and the
+my [[Childhood|childhood]] as a friend’s, and solemnly declare that in my lightest
+thought I have never wronged you; never wavered in the [[Love|love]] and the
 fidelity I owe you!’
 
 She had her arms around the Doctor’s neck, and he leant his head down
@@ -655,9 +655,9 @@ over her, mingling his grey hair with her dark brown tresses.
 or speak of disparity between us, for there is none, except in all my
 many imperfections. Every succeeding year I have known this better, as I
 have esteemed you more and more. Oh, take me to your heart, my husband,
-for my love was founded on a rock, and it endures!’
+for my [[Love|love]] was founded on a rock, and it endures!’
 
-In the silence that ensued, my aunt walked gravely up to Mr. Dick,
+In the [[Silence|silence]] that ensued, my aunt walked gravely up to Mr. Dick,
 without at all hurrying herself, and gave him a hug and a sounding kiss.
 And it was very fortunate, with a view to his credit, that she did so;
 for I am confident that I detected him at that moment in the act of
@@ -672,7 +672,7 @@ With that, my aunt pulled him by the sleeve, and nodded to me; and we
 three stole quietly out of the room, and came away.
 
 ‘That’s a settler for our military friend, at any rate,’ said my aunt,
-on the way home. ‘I should sleep the better for that, if there was
+on the way [[Home|home]]. ‘I should [[Sleep|sleep]] the better for that, if there was
 nothing else to be glad of!’
 
 ‘She was quite overcome, I am afraid,’ said Mr. Dick, with great
@@ -684,16 +684,16 @@ commiseration.
 
 ‘There never would have been anything the matter, if it hadn’t been for
 that old Animal,’ said my aunt, with strong emphasis. ‘It’s very much
-to be wished that some mothers would leave their daughters alone after
-marriage, and not be so violently affectionate. They seem to think the
+to be wished that some mothers would leave their daughters [[Alone|alone]] after
+[[Marriage|marriage]], and not be so violently affectionate. They seem to think the
 only return that can be made them for bringing an unfortunate young
-woman into the world--God bless my soul, as if she asked to be brought,
+woman into the world--God bless my [[Soul|soul]], as if she asked to be brought,
 or wanted to come!--is full liberty to worry her out of it again. What
 are you thinking of, Trot?’
 
 I was thinking of all that had been said. My mind was still running on
-some of the expressions used. ‘There can be no disparity in marriage
+some of the expressions used. ‘There can be no disparity in [[Marriage|marriage]]
 like unsuitability of mind and purpose.’ ‘The first mistaken impulse of
-an undisciplined heart.’ ‘My love was founded on a rock.’ But we were at
-home; and the trodden leaves were lying under-foot, and the autumn wind
+an undisciplined heart.’ ‘My [[Love|love]] was founded on a rock.’ But we were at
+[[Home|home]]; and the trodden [[Leaves|leaves]] were lying under-foot, and the [[Autumn|autumn]] [[Wind|wind]]
 was blowing.

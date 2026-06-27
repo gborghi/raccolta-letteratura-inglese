@@ -22,15 +22,15 @@ And the conception may be broadly stated thus--that this sort
 of sight was meant for two different kinds of sightseers.
 First, the monument was meant to be seen accidentally;
 it was actually set up purposely in order to be seen accidentally.
-In other words, a striking tower on a hill, an arresting
+In other words, a striking tower on a [[Hill|hill]], an arresting
 statue on a pedestal, a remarkable relief over an archway,
 or any other piece of public art, was intended for the traveller,
 and even especially for the chance traveller.  It was meant for
-the passer-by, perhaps in the hope that he would not merely pass by;
-perhaps in the hope that he would pause, and possibly even meditate.
+the passer-by, perhaps in the [[Hope|hope]] that he would not merely pass by;
+perhaps in the [[Hope|hope]] that he would pause, and possibly even meditate.
 But he would be meditating not only on something that he had never
 seen before, but on something that he had never expected to see.
-The statue would almost spring out upon him like a stage brigand.
+The statue would almost [[spring]] out upon him like a stage brigand.
 The archway would arrest him and almost bar his path like a barricade.
 He would suddenly see the high tower like a sort of signal; like a
 rocket suddenly sent up to convey a message, and almost a warning.
@@ -42,19 +42,19 @@ the thing that struck him like the thunderbolt of an instant,
 though it had stood there waiting for him as the memorial of an aeon.
 But, whether or no this be the best way of treating popular memorials,
 it is not the only way, and certainly has not been the only popular way.
-Historic relics, as a whole, have been treated differently in history
-as a whole.  But, in history as a whole, the other way of seeing
+Historic relics, as a whole, have been treated differently in [[history]]
+as a whole.  But, in [[history]] as a whole, the other way of seeing
 such sights was not what we commonly call sightseeing.
 
 We might put the point this way:  that the two ways of visiting
 the statue or the shrine were the way of the Traveller and the way
-of the Pilgrim.  But the way of the Pilgrim almost always involved
+of the [[Pilgrim]].  But the way of the [[Pilgrim]] almost always involved
 the way of the Pilgrimage.  It was a ritual or ceremonial way:
 the way of a procession which had indeed come to see that shrine,
-but had not come to see anything else.  The pilgrim does not feel,
+but had not come to see anything else.  The [[Pilgrim|pilgrim]] does not feel,
 as the tourist does often quite naturally feel, that he has had his
 tour interrupted by something that does not happen to interest him.
-The pilgrimage must interest him, or he would never have been a pilgrim.
+The pilgrimage must interest him, or he would never have been a [[Pilgrim|pilgrim]].
 He knows exactly what he wants to do; and, what is perhaps
 even more valuable, he knows for certain when he has done it.
 He cannot be dragged on from one thing to another; from one thing
@@ -63,7 +63,7 @@ He has undertaken a certain expedition with a certain logical end:
 an end both in the sense of a purpose and in the sense of a termination.
 For a certain mystical reason of his own he wanted to visit a certain
 monument or shrine; and, now lie has visited it, he is free to visit
-the nearest public-house or any other place he pleases.
+the nearest public-[[house]] or any other place he pleases.
 
 But all this is altered, because we have passed from the age
 of monuments to the age of museums.  We have been afflicted with
@@ -71,8 +71,8 @@ the modern idea of collecting all sorts of totally different things,
 with totally different types of interest, including a good many of no
 apparent interest at all, and stuffing them all into one building,
 that the stranger may stray among a hundred distracting monuments
-or the pilgrim be lost among a hundred hostile shrines.
-When the traveller saw the statue of the hero, he did not see
+or the [[Pilgrim|pilgrim]] be lost among a hundred hostile shrines.
+When the traveller saw the statue of the [[Hero|hero]], he did not see
 written on the pedestal:  `This way to the Collection of
 Tropical Fungi', in which he possibly felt no interest at all.
 When the pilgrim found his way to the shrine, he did not find

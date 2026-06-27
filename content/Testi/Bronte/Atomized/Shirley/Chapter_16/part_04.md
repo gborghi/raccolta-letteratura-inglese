@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 16 (part 4)"
+title: "[[Shirley]] — Chapter 16 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 good-humouredly. The disposition of the man was then seen. He knew
 
-neither how to decline the advance with dignity, as one whose just pride
+neither how to decline the advance with dignity, as one whose just [[Pride|pride]]
 
 has been wounded, nor how to meet it with frankness, as one who is glad
 
@@ -32,13 +32,13 @@ Nothing could ever again reconcile him to his enemy; while no passion of
 
 resentment, for even sharper and more ignominious inflictions, could his
 
-lymphatic nature know.
+lymphatic [[Nature|nature]] know.
 
 
 
-"He was not worth a scene!" said Shirley to Caroline. "What a fool I
+"He was not worth a scene!" said [[Shirley]] to Caroline. "What a [[Fool|fool]] I
 
-was! To revenge on poor Donne his silly spite at Yorkshire is something
+was! To [[Revenge|revenge]] on poor Donne his silly spite at Yorkshire is something
 
 like crushing a gnat for attacking the hide of a rhinoceros. Had I been
 
@@ -66,9 +66,9 @@ heiress with a grace to which the most cunning pencil could do but
 
 defective justice. And who, after this, could dare to say that Peter was
 
-not a lady's man? He had gathered and he had given flowers; he had
+not a lady's man? He had gathered and he had given [[Flowers|flowers]]; he had
 
-offered a sentimental, a poetic tribute at the shrine of Love or Mammon.
+offered a sentimental, a poetic tribute at the shrine of [[Love]] or Mammon.
 
 Hercules holding the distaff was but a faint type of Peter bearing the
 
@@ -76,7 +76,7 @@ roses. He must have thought this himself, for he seemed amazed at what
 
 he had done. He backed without a word; he was going away with a husky
 
-chuckle of self-satisfaction; then he bethought himself to stop and
+chuckle of [[Self|self]]-satisfaction; then he bethought himself to stop and
 
 turn, to ascertain by ocular testimony that he really had presented a
 
@@ -94,7 +94,7 @@ the subject of a jest for a petticoat--for two petticoats: Miss Helstone
 
 too was smiling. Moreover, he felt he was seen through, and Peter grew
 
-black as a thunder-cloud. When Shirley looked up, a fell eye was
+black as a thunder-cloud. When [[Shirley]] looked up, a fell eye was
 
 fastened on her. Malone, at least, had energy enough in hate. She saw it
 
@@ -114,19 +114,19 @@ their faces--appeared at the dining-room door the three rectors. They
 
 had hitherto been busy in the church, and were now coming to take some
 
-little refreshment for the body, ere the march commenced. The large
+little refreshment for the [[Body|body]], ere the march commenced. The large
 
 morocco-covered easy-chair had been left vacant for Dr. Boultby. He was
 
-put into it, and Caroline, obeying the instigations of Shirley, who told
+put into it, and Caroline, obeying the instigations of [[Shirley]], who told
 
-her now was the time to play the hostess, hastened to hand to her
+her now was the [[Time|time]] to play the hostess, hastened to hand to her
 
 uncle's vast, revered, and, on the whole, worthy friend, a glass of
 
 wine and a plate of macaroons. Boultby's churchwardens, patrons of the
 
-Sunday school both, as he insisted on their being, were already beside
+[[Sunday]] school both, as he insisted on their being, were already beside
 
 him; Mrs. Sykes and the other ladies of his congregation were on his
 
@@ -154,13 +154,13 @@ macaroons, however, and being fond of sweets, possessed himself of a
 
 small handful thereof. The wine Mrs. Boultby insisted on mingling with
 
-hot water, and qualifying with sugar and nutmeg.
+hot [[Water|water]], and qualifying with sugar and nutmeg.
 
 
 
-Mr. Hall stood near an open window, breathing the fresh air and scent of
+Mr. Hall stood near an open [[Window|window]], breathing the fresh air and scent of
 
-flowers, and talking like a brother to Miss Ainley. To him Caroline
+[[Flowers|flowers]], and talking like a brother to Miss Ainley. To him Caroline
 
 turned her attention with pleasure. "What should she bring him? He must
 
@@ -188,9 +188,9 @@ young ladies watched them afar off, but ventured not nigh.
 
 Mr. Helstone produced his watch. "Ten minutes to two," he announced
 
-aloud. "Time for all to fall into line. Come." He seized his shovel-hat
+aloud. "[[Time]] for all to fall into line. Come." He seized his shovel-hat
 
-and marched away. All rose and followed _en masse_.
+and marched away. All [[Rose|rose]] and followed _en masse_.
 
 
 
@@ -212,7 +212,7 @@ teachers in pairs. To the van of the armies he summoned,--
 
 
 
-"Caroline Helstone and Shirley Keeldar head Briarfield."
+"[[Caroline Helstone]] and [[Shirley Keeldar]] head Briarfield."
 
 
 
@@ -234,7 +234,7 @@ The rectors passed to the full front; the parish clerks fell to the
 
 extreme rear. Helstone lifted his shovel-hat. In an instant out clashed
 
-the eight bells in the tower, loud swelled the sounding bands, flute
+the eight [[Bells|bells]] in the tower, loud swelled the sounding bands, flute
 
 spoke and clarion answered, deep rolled the drums, and away they
 
@@ -242,13 +242,13 @@ marched.
 
 
 
-The broad white road unrolled before the long procession, the sun and
+The broad white [[Road|road]] unrolled before the long procession, the sun and
 
-sky surveyed it cloudless, the wind tossed the tree boughs above it, and
+sky surveyed it cloudless, the [[Wind|wind]] tossed the tree boughs above it, and
 
 the twelve hundred children and one hundred and forty adults of which it
 
-was composed trod on in time and tune, with gay faces and glad hearts.
+was composed trod on in [[Time|time]] and tune, with gay faces and glad hearts.
 
 It was a joyous scene, and a scene to do good. It was a day of happiness
 
@@ -256,8 +256,8 @@ for rich and poor--the work, first of God, and then of the clergy. Let
 
 England's priests have their due. They are a faulty set in some
 
-respects, being only of common flesh and blood like us all; but the land
+respects, being only of common flesh and [[Blood|blood]] like us all; but the land
 
 would be badly off without them. Britain would miss her church, if that
 
-church fell. God save it! God also reform it!
+church fell. God save it! God also [[Reform|reform]] it!

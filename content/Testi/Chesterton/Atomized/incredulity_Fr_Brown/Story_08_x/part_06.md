@@ -1,5 +1,5 @@
 ---
-title: "incredulity Fr Brown — ' (part 6)"
+title: "[[Incredulity|incredulity]] Fr Brown — ' (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/incredulity-Fr-Brown-(Chesterton)"
@@ -14,19 +14,19 @@ tags:
 </nav>
 
 
-It was more than a month later that Payne returned to his London house
-to keep an appointment with Father Brown, taking the required photograph
-with him. His personal romance had prospered as well as was fitting
-under the shadow of such a tragedy, and the shadow itself therefore lay
+It was more than a month later that Payne returned to his [[London]] [[house]]
+to keep an appointment with [[Father Brown]], taking the required photograph
+with him. His personal [[Romance|romance]] had prospered as [[Well|well]] as was fitting
+under the [[Shadow|shadow]] of such a [[Tragedy|tragedy]], and the [[Shadow|shadow]] itself therefore lay
 rather more lightly on him; but it was hard to view it as anything but
-the shadow of a family fatality. In many ways he had been much occupied;
+the [[Shadow|shadow]] of a family fatality. In many ways he had been much occupied;
 and it was not until the Darnaway household had resumed its somewhat
 stern routine, and the portrait had long been restored to its place in
 the library, that he had managed to photograph it with a magnesium
 flare. Before sending it to the antiquary, as originally arranged, he
 brought it to the priest who had so pressingly demanded it.
 
-'I can't understand your attitude about all this. Father Brown,' he
+'I can't understand your attitude about all this. [[Father Brown]],' he
 said.' You act as if you had already solved the problem in some way of
 your own.'
 
@@ -39,15 +39,15 @@ He held it close to his screwed, short - sighted eyes for a moment, and
 then said: 'Have you got a magnifying glass?'
 
 Payne produced one, and the priest looked through it intently for some
-time and then said:' Look at the title of that book at the edge of the
-bookshelf beside the frame; it's 'The History of Pope Joan'. Now, I
-wonder ... yes, by George; and the one above is something or other of
-Iceland. Lord! what a queer way to find it out! What a dolt and donkey I
+[[Time|time]] and then said:' Look at the title of that book at the edge of the
+bookshelf beside the frame; it's 'The [[history|History]] of Pope Joan'. Now, I
+[[Wonder|wonder]] ... yes, by George; and the one above is something or other of
+Iceland. Lord! what a queer way to find it out! What a dolt and [[donkey]] I
 was not to notice it when I was there!'
 
 'But what have you found out?' asked Payne impatiently.
 
-'The last link,' said Father Brown, 'and I'm not stuck any longer. Yes;
+'The last link,' said [[Father Brown]], 'and I'm not stuck any longer. Yes;
 I think I know how that unhappy story went from first to last now.'
 
 'But why?' insisted the other.
@@ -60,13 +60,13 @@ faded and he said more earnestly: 'As a matter of fact, this last point,
 though it is the last link, is not the main business. There were much
 more curious things in the case than that. One of them is rather a
 curiosity of evidence. Let me begin by saying something that may
-surprise you. Darnaway did not die at seven o'clock that evening. He had
+surprise you. Darnaway did not die at seven o'[[Clock|clock]] that evening. He had
 been already dead for a whole day.'
 
 'Surprise is rather a mild word,' said Payne grimly, 'since you and I
 both saw him walking about afterwards.'
 
-'No, we did not,' replied Father Brown quietly. 'I think we both saw
+'No, we did not,' replied [[Father Brown]] quietly. 'I think we both saw
 him, or thought we saw him, fussing about with the focusing of his
 camera. Wasn't his head under that black cloak when you passed through
 the room? It was when I did. And that's why I felt there was something
@@ -79,15 +79,15 @@ strained attitude.'
 'Do you really mean,' cried Payne with something like a shudder, 'that
 it was some unknown man?'
 
-'It was the murderer,' said Father Brown. 'He had already killed
+'It was the murderer,' said [[Father Brown]]. 'He had already killed
 Darnaway at daybreak and hid the corpse and himself in the dark room -
 an excellent hiding - place, because nobody normally goes into it or can
 see much if he does. But he let it fall out on the floor at seven
-o'clock, of course, that the whole thing might be explained by the
+o'[[Clock|clock]], of course, that the whole thing might be explained by the
 curse.'
 
 'But I don't understand' observed Payne. 'Why didn't he kill him at
-seven o'clock then, instead of loading himself with a corpse for
+seven o'[[Clock|clock]] then, instead of loading himself with a corpse for
 fourteen hours?'
 
 'Let me ask you another question,' said the priest. 'Why was there no
@@ -96,27 +96,27 @@ first got up, and before he could take it. It was essential to the
 murderer to prevent that photograph reaching the expert on the Darnaway
 antiquities.'
 
-There was a sudden silence for a moment, and then the priest went on in
+There was a sudden [[Silence|silence]] for a moment, and then the priest went on in
 a lower tone: 'Don't you see how simple it is? Why, you yourself saw one
 side of the possibility; but it's simpler even than you thought. You
 said a man might be faked to resemble an old picture. Surely it's
 simpler that a picture should be faked to resemble a man. In plain
 words, it's true in a rather special way that there was no Doom of the
 Darnaways. There was no old picture; there was no old rhyme; there was
-no legend of a man who caused his wife's death. But there was a very
+no legend of a man who caused his wife's [[Death|death]]. But there was a very
 wicked and a very clever man who was willing to cause another man's
-death in order to rob him of his promised wife.'
+[[Death|death]] in order to rob him of his promised wife.'
 
 The priest suddenly gave Payne a sad smile, as if in reassurance. 'For
 the moment I believe you thought I meant you,' he said,' but you were
-not the only person who haunted that house for sentimental reasons. You
+not the only person who haunted that [[house]] for sentimental reasons. You
 know the man, or rather you think you do. But there were depths in the
-man called Martin Wood, artist and antiquary, which none of his mere
+man called Martin Wood, [[Artist|artist]] and antiquary, which none of his mere
 artistic acquaintances were likely to guess. Remember that he was called
 in to criticize and catalogue the pictures; in an aristocratic dustbin
 of that sort that practically means simply to tell the Darnaways what
 art treasures they had got. They would not be surprised at things
-turning up they had never noticed before. It had to be done well, and it
+turning up they had never noticed before. It had to be done [[Well|well]], and it
 was; perhaps he was right when he said that if it wasn't Holbein it was
 somebody of the same genius.'
 
@@ -129,16 +129,16 @@ him,' said the priest, 'and there are several ways in which he could
 have learned things when the new heir was once recognized. We may not
 know these details; but they are not difficulties. You remember he used
 to help in the dark room; it seems to me an ideal place, say, to prick a
-man with a poisoned pin, with the poison's all handy. No; I say these
+man with a poisoned pin, with the [[Poison|poison]]'s all handy. No; I say these
 were not difficulties. The difficulty that stumped me was how Wood could
 be in two places at once. How could he take the corpse from the dark -
 room and prop it against the camera so that it would fall in a few
 seconds, without coming downstairs, when he was in the library looking
-out a book? And I was such a fool that I never looked at the books in
+out a book? And I was such a [[Fool|fool]] that I never looked at the books in
 the library; and it was only in this photograph, by very undeserved good
 luck, that I saw the simple fact of a book about Pope Joan.'
 
-'You've kept your best riddle for the end,' said Payne grimly. 'What on
+'You've kept your best [[Riddle|riddle]] for the end,' said Payne grimly. 'What on
 earth can Pope Joan have to do with it?'
 
 'Don't forget the book about the Something of Iceland,' advised the
@@ -148,7 +148,7 @@ to ask what sort of man was the late Lord Darnaway.'
 'Oh, does it?' observed Payne heavily.
 
 'He was a cultivated, humorous sort of eccentric, I believe,' went on
-Father Brown. 'Being cultivated, he knew there was no such person as
+[[Father Brown]]. 'Being cultivated, he knew there was no such person as
 Pope Joan. Being humorous, he was very likely to have thought of the
 title of 'The Snakes of Iceland' or something else that didn't exist. I
 venture to reconstruct the third title as 'The Religion of Frederick the
@@ -162,7 +162,7 @@ staircase - '
 'Up to the room Wood himself selected as a dark room,' said the priest
 nodding. 'I'm sorry. It couldn't be helped. It's dreadfully banal and
 stupid, as stupid as I have been on this pretty banal case. But we were
-mixed up in a real musty old romance of decayed gentility and a fallen
-family mansion; and it was too much to hope that we could escape having
+mixed up in a real musty old [[Romance|romance]] of decayed gentility and a fallen
+family mansion; and it was too much to [[Hope|hope]] that we could escape having
 a secret passage. It was a priest's hole; and I deserve to be put in
 it.'

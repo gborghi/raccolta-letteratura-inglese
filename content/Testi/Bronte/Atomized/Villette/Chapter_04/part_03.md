@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 4 (part 3)"
+title: "[[Villette]] — Chapter 4 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -17,59 +17,59 @@ tags:
 “He is dead, then?” I inquired in a low voice.
 
 “My dear girl,” she said, “one happy Christmas Eve I dressed and
-decorated myself, expecting my lover, very soon to be my husband, would
-come that night to visit me. I sat down to wait. Once more I see that
-moment—I see the snow twilight stealing through the window over which
+decorated myself, expecting my [[Lover|lover]], very soon to be my husband, would
+come that [[Night|night]] to visit me. I sat down to wait. Once more I see that
+moment—I see the [[Snow|snow]] twilight stealing through the [[Window|window]] over which
 the curtain was not dropped, for I designed to watch him ride up the
 white walk; I see and feel the soft firelight warming me, playing on my
 silk dress, and fitfully showing me my own young figure in a glass. I
-see the moon of a calm winter night, float full, clear, and cold, over
+see the [[Moon|moon]] of a calm [[Winter|winter]] [[Night|night]], float full, clear, and cold, over
 the inky mass of shrubbery, and the silvered turf of my grounds. I
-wait, with some impatience in my pulse, but no doubt in my breast. The
-flames had died in the fire, but it was a bright mass yet; the moon was
-mounting high, but she was still visible from the lattice; the clock
+wait, with some impatience in my pulse, but no [[Doubt|doubt]] in my breast. The
+flames had died in the [[Fire|fire]], but it was a bright mass yet; the [[Moon|moon]] was
+mounting high, but she was still visible from the lattice; the [[Clock|clock]]
 neared ten; he rarely tarried later than this, but once or twice he had
 been delayed so long.
 
 “Would he for once fail me? No—not even for once; and now he was
-coming—and coming fast—to atone for lost time. ‘Frank! you furious
+coming—and coming fast—to atone for lost [[Time|time]]. ‘Frank! you furious
 rider,’ I said inwardly, listening gladly, yet anxiously, to his
 approaching gallop, ‘you shall be rebuked for this: I will tell you it
 is _my_ neck you are putting in peril; for whatever is yours is, in a
 dearer and tenderer sense, mine.’ There he was: I saw him; but I think
-tears were in my eyes, my sight was so confused. I saw the horse; I
+[[Tears|tears]] were in my eyes, my sight was so confused. I saw the [[Horse|horse]]; I
 heard it stamp—I saw at least a mass; I heard a clamour. _Was_ it a
-horse? or what heavy, dragging thing was it, crossing, strangely dark,
+[[Horse|horse]]? or what heavy, dragging thing was it, crossing, strangely dark,
 the lawn. How could I name that thing in the moonlight before me? or
-how could I utter the feeling which rose in my soul?
+how could I utter the feeling which [[Rose|rose]] in my [[Soul|soul]]?
 
-“I could only run out. A great animal—truly, Frank’s black horse—stood
+“I could only run out. A great animal—truly, Frank’s black [[Horse|horse]]—stood
 trembling, panting, snorting before the door; a man held it, Frank, as
 I thought.
 
 “‘What is the matter?’ I demanded. Thomas, my own servant, answered by
-saying sharply, ‘Go into the house, madam.’ And then calling to another
+saying sharply, ‘Go into the [[house]], madam.’ And then calling to another
 servant, who came hurrying from the kitchen as if summoned by some
-instinct, ‘Ruth, take missis into the house directly.’ But I was
-kneeling down in the snow, beside something that lay there—something
+instinct, ‘Ruth, take missis into the [[house]] directly.’ But I was
+kneeling down in the [[Snow|snow]], beside something that lay there—something
 that I had seen dragged along the ground—something that sighed, that
 groaned on my breast, as I lifted and drew it to me. He was not dead;
 he was not quite unconscious. I had him carried in; I refused to be
 ordered about and thrust from him. I was quite collected enough, not
 only to be my own mistress but the mistress of others. They had begun
-by trying to treat me like a child, as they always do with people
+by trying to treat me like a [[Child|child]], as they always do with people
 struck by God’s hand; but I gave place to none except the surgeon; and
 when he had done what he could, I took my dying Frank to myself. He had
 strength to fold me in his arms; he had power to speak my name; he
 heard me as I prayed over him very softly; he felt me as I tenderly and
 fondly comforted him.
 
-“‘Maria,’ he said, ‘I am dying in Paradise.’ He spent his last breath
-in faithful words for me. When the dawn of Christmas morning broke, my
+“‘[[Maria]],’ he said, ‘I am dying in Paradise.’ He spent his last breath
+in faithful words for me. When the [[Dawn|dawn]] of Christmas morning broke, my
 Frank was with God.
 
 “And that,” she went on, “happened thirty years ago. I have suffered
-since. I doubt if I have made the best use of all my calamities. Soft,
+since. I [[Doubt|doubt]] if I have made the best use of all my calamities. Soft,
 amiable natures they would have refined to saintliness; of strong, evil
 spirits they would have made demons; as for me, I have only been a
 woe-struck and selfish woman.”
@@ -89,18 +89,18 @@ think, Lucy, of these things? Be my chaplain, and tell me.”
 This question I could not answer: I had no words. It seemed as if she
 thought I _had_ answered it.
 
-“Very right, my child. We should acknowledge God merciful, but not
+“Very right, my [[Child|child]]. We should acknowledge God merciful, but not
 always for us comprehensible. We should accept our own lot, whatever it
-be, and try to render happy that of others. Should we not? Well,
+be, and try to render happy that of others. Should we not? [[Well]],
 to-morrow I will begin by trying to make you happy. I will endeavour to
 do something for you, Lucy: something that will benefit you when I am
 dead. My head aches now with talking too much; still I am happy. Go to
-bed. The clock strikes two. How late you sit up; or rather how late I,
+bed. The [[Clock|clock]] strikes two. How late you sit up; or rather how late I,
 in my selfishness, keep you up. But go now; have no more anxiety for
-me; I feel I shall rest well.”
+me; I feel I shall rest [[Well|well]].”
 
 She composed herself as if to slumber. I, too, retired to my crib in a
-closet within her room. The night passed in quietness; quietly her doom
+closet within her room. The [[Night|night]] passed in quietness; quietly her doom
 must at last have come: peacefully and painlessly: in the morning she
 was found without life, nearly cold, but all calm and undisturbed. Her
 previous excitement of spirits and change of mood had been the prelude

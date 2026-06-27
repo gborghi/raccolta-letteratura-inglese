@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 34: THIRTY FOUR"
+title: "[[Martin Chuzzlewit]] — Chapter 34: THIRTY FOUR"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -30,7 +30,7 @@ down upon his coat; a little fringe of hair upon his chin; wore no
 neckcloth; a white hat; a suit of black, long in the sleeves and short
 in the legs; soiled brown stockings and laced shoes. His complexion,
 naturally muddy, was rendered muddier by too strict an economy of soap
-and water; and the same observation will apply to the washable part
+and [[Water|water]]; and the same observation will apply to the washable part
 of his attire, which he might have changed with comfort to himself and
 gratification to his friends. He was about five and thirty; was crushed
 and jammed up in a heap, under the shade of a large green cotton
@@ -95,13 +95,13 @@ our country, sir. There is a brow, sir, there!’
 ‘Quite remarkable,’ said Martin.
 
 ‘Yes, sir. Our own immortal Chiggle, sir, is said to have observed,
-when he made the celebrated Pogram statter in marble, which rose so much
+when he made the celebrated Pogram statter in marble, which [[Rose|rose]] so much
 con-test and preju-dice in Europe, that the brow was more than mortal.
 This was before the Pogram Defiance, and was, therefore, a pre-diction,
 cruel smart.’
 
 ‘What is the Pogram Defiance?’ asked Martin, thinking, perhaps, it was
-the sign of a public-house.
+the sign of a public-[[house]].
 
 ‘An o-ration, sir,’ returned his friend.
 
@@ -119,7 +119,7 @@ the dialogue--‘this is a gentleman from Europe, sir; from England, sir.
 But gen’rous ene-mies may meet upon the neutral sile of private life, I
 think.’
 
-The languid Mr Pogram shook hands with Martin, like a clock-work figure
+The languid Mr Pogram shook hands with Martin, like a [[Clock|clock]]-work figure
 that was just running down. But he made amends by chewing like one that
 was just wound up.
 
@@ -128,14 +128,14 @@ Congress is recessed, he makes himself acquainted with those free United
 States, of which he is the gifted son.’
 
 It occurred to Martin that if the Honourable Elijah Pogram had stayed at
-home, and sent his shoes upon a tour, they would have answered the
+[[Home|home]], and sent his shoes upon a tour, they would have answered the
 same purpose; for they were the only part of him in a situation to see
 anything.
 
-In course of time, however, Mr Pogram rose; and having ejected certain
+In course of [[Time|time]], however, Mr Pogram [[Rose|rose]]; and having ejected certain
 plugging consequences which would have impeded his articulation, took up
 a position where there was something to lean against, and began to talk
-to Martin; shading himself with the green umbrella all the time.
+to Martin; shading himself with the green umbrella all the [[Time|time]].
 
 As he began with the words, ‘How do you like--?’ Martin took him up and
 said:
@@ -175,18 +175,18 @@ rooted in the British mind!’
 
 ‘Good Heaven, sir,’ cried Martin. ‘Is the Eden Land Corporation, with Mr
 Scadder at its head, and all the misery it has worked, at its door, an
-Institution of America? A part of any form of government that ever was
+Institution of [[America]]? A part of any form of [[government]] that ever was
 known or heard of?’
 
 ‘I con-sider the cause of this to be,’ said Pogram, looking round again
-and taking himself up where Martin had interrupted him, ‘partly jealousy
+and taking himself up where Martin had interrupted him, ‘partly [[Jealousy|jealousy]]
 and pre-judice, and partly the nat’ral unfitness of the British people
 to appreciate the ex-alted Institutions of our native land. I expect,
 sir,’ turning to Martin again, ‘that a gentleman named Chollop happened
 in upon you during your lo-cation in the town of Eden?’
 
 ‘Yes,’ answered Martin; ‘but my friend can answer this better than I
-can, for I was very ill at the time. Mark! The gentleman is speaking of
+can, for I was very ill at the [[Time|time]]. Mark! The gentleman is speaking of
 Mr Chollop.’
 
 ‘Oh. Yes, sir. Yes. I see him,’ observed Mark.
@@ -201,17 +201,17 @@ have said, ‘Observe this! See what follows!’ and they rendered tribute
 to the Pogram genius by a gentle murmur.
 
 ‘Our fellow-countryman is a model of a man, quite fresh from Natur’s
-mould!’ said Pogram, with enthusiasm. ‘He is a true-born child of this
-free hemisphere! Verdant as the mountains of our country; bright and
+mould!’ said Pogram, with enthusiasm. ‘He is a true-born [[Child|child]] of this
+free hemisphere! Verdant as the [[Mountains|mountains]] of our country; bright and
 flowing as our mineral Licks; unspiled by withering conventionalities
 as air our broad and boundless Perearers! Rough he may be. So air
-our Barrs. Wild he may be. So air our Buffalers. But he is a child of
-Natur’, and a child of Freedom; and his boastful answer to the Despot
-and the Tyrant is, that his bright home is in the Settin Sun.’
+our Barrs. Wild he may be. So air our Buffalers. But he is a [[Child|child]] of
+Natur’, and a [[Child|child]] of [[Freedom]]; and his boastful answer to the Despot
+and the [[Tyrant]] is, that his bright [[Home|home]] is in the Settin Sun.’
 
 Part of this referred to Chollop, and part to a Western postmaster, who,
 being a public defaulter not very long before (a character not at all
-uncommon in America), had been removed from office; and on whose behalf
+uncommon in [[America]]), had been removed from office; and on whose behalf
 Mr Pogram (he voted for Pogram) had thundered the last sentence from
 his seat in Congress, at the head of an unpopular President. It told
 brilliantly; for the bystanders were delighted, and one of them said to
@@ -223,7 +223,7 @@ Mark:
 
 ‘You do not seem to coincide, sir?’
 
-‘Why,’ said Mark, ‘I didn’t like him much; and that’s the truth, sir. I
+‘Why,’ said Mark, ‘I didn’t like him much; and that’s the [[Truth|truth]], sir. I
 thought he was a bully; and I didn’t admire his carryin’ them murderous
 little persuaders, and being so ready to use ‘em.’
 
@@ -233,8 +233,8 @@ opposition to our Institutions which pervades the British mind!’
 
 ‘What an extraordinary people you are!’ cried Martin. ‘Are Mr Chollop
 and the class he represents, an Institution here? Are pistols with
-revolving barrels, sword-sticks, bowie-knives, and such things,
-Institutions on which you pride yourselves? Are bloody duels, brutal
+revolving barrels, [[Sword|sword]]-sticks, bowie-knives, and such things,
+Institutions on which you [[Pride|pride]] yourselves? Are bloody duels, brutal
 combats, savage assaults, shooting down and stabbing in the streets,
 your Institutions! Why, I shall hear next that Dishonour and Fraud are
 among the Institutions of the great republic!’
@@ -256,23 +256,23 @@ precipitation that he forgot his umbrella was up, and fixed it so
 tightly in the cabin door that it could neither be let down nor got out.
 For a minute or so this accident created a perfect rebellion among the
 hungry passengers behind, who, seeing the dishes, and hearing the knives
-and forks at work, well knew what would happen unless they got there
+and forks at work, [[Well|well]] knew what would happen unless they got there
 instantly, and were nearly mad; while several virtuous citizens at the
 table were in deadly peril of choking themselves in their unnatural
 efforts to get rid of all the meat before these others came.
 
-They carried the umbrella by storm, however, and rushed in at the
+They carried the umbrella by [[Storm|storm]], however, and rushed in at the
 breach. The Honourable Elijah Pogram and Martin found themselves, after
 a severe struggle, side by side, as they might have come together in the
-pit of a London theatre; and for four whole minutes afterwards, Pogram
+pit of a [[London]] theatre; and for four whole minutes afterwards, Pogram
 was snapping up great blocks of everything he could get hold of, like a
 raven. When he had taken this unusually protracted dinner, he began
 to talk to Martin; and begged him not to have the least delicacy in
-speaking with perfect freedom to him, for he was a calm philosopher.
+speaking with perfect [[Freedom|freedom]] to him, for he was a calm philosopher.
 Which Martin was extremely glad to hear; for he had begun to speculate
 on Elijah being a disciple of that other school of republican
-philosophy, whose noble sentiments are carved with knives upon a pupil’s
-body, and written, not with pen and ink, but tar and feathers.
+[[philosophy]], whose noble sentiments are carved with knives upon a pupil’s
+[[Body|body]], and written, not with pen and ink, but tar and feathers.
 
 ‘What do you think of my countrymen who are present, sir?’ inquired
 Elijah Pogram.
@@ -299,14 +299,14 @@ When Elijah Pogram (to whom this was an every-day incident) saw that
 Martin put the plate away, and took no butter, he was quite delighted,
 and said,
 
-‘Well! The morbid hatred of you British to the Institutions of our
+‘[[Well]]! The morbid hatred of you British to the Institutions of our
 country is as-TONishing!’
 
 ‘Upon my life!’ cried Martin, in his turn. ‘This is the most wonderful
 community that ever existed. A man deliberately makes a hog of himself,
 and THAT’S an Institution!’
 
-‘We have no time to ac-quire forms, sir,’ said Elijah Pogram.
+‘We have no [[Time|time]] to ac-quire forms, sir,’ said Elijah Pogram.
 
 ‘Acquire!’ cried Martin. ‘But it’s not a question of acquiring anything.
 It’s a question of losing the natural politeness of a savage, and that
@@ -321,7 +321,7 @@ course,’ said Mr Pogram.
 ‘Now, observe what this comes to, Mr Pogram,’ pursued Martin. ‘The
 mass of your countrymen begin by stubbornly neglecting little social
 observances, which have nothing to do with gentility, custom, usage,
-government, or country, but are acts of common, decent, natural, human
+[[government]], or country, but are acts of common, decent, natural, human
 politeness. You abet them in this, by resenting all attacks upon their
 social offences as if they were a beautiful national feature. From
 disregarding small obligations they come in regular course to disregard
@@ -335,14 +335,14 @@ deck again, where, resuming his former post, he chewed until he was in a
 lethargic state, amounting to insensibility.
 
 After a weary voyage of several days, they came again to that same wharf
-where Mark had been so nearly left behind, on the night of starting for
+where Mark had been so nearly left behind, on the [[Night|night]] of starting for
 Eden. Captain Kedgick, the landlord, was standing there, and was greatly
 surprised to see them coming from the boat.
 
-‘Why, what the ‘tarnal!’ cried the Captain. ‘Well! I do admire at this,
+‘Why, what the ‘tarnal!’ cried the Captain. ‘[[Well]]! I do admire at this,
 I do!’
 
-‘We can stay at your house until to-morrow, Captain, I suppose?’ said
+‘We can stay at your [[house]] until to-morrow, Captain, I suppose?’ said
 Martin.
 
 ‘I reckon you can stay there for a twelvemonth if you like,’ retorted
@@ -379,14 +379,14 @@ it.’
 Nothing mollified the Captain, who persisted in taking it very ill
 that they had not both died in Eden. The boarders at the National felt
 strongly on the subject too; but it happened by good fortune that they
-had not much time to think about this grievance, for it was suddenly
+had not much [[Time|time]] to think about this grievance, for it was suddenly
 determined to pounce upon the Honourable Elijah Pogram, and give HIM a
 le-vee forthwith.
 
-As the general evening meal of the house was over before the arrival of
+As the general evening meal of the [[house]] was over before the arrival of
 the boat, Martin, Mark, and Pogram were taking tea and fixings at the
 public table by themselves, when the deputation entered to announce this
-honour; consisting of six gentlemen boarders and a very shrill boy.
+[[Honour|honour]]; consisting of six gentlemen boarders and a very shrill boy.
 
 ‘Sir!’ said the spokesman.
 
@@ -434,8 +434,8 @@ moments which--’
 ‘Hear!’ cried Colonel Grouper, in a loud voice. ‘Good! Hear him! Good!’
 
 ‘And therefore, sir,’ pursued the Doctor, ‘they request; as A mark Of
-their respect; the honour of your company at a little le-Vee, sir, in
-the ladies’ ordinary, at eight o’clock.’
+their respect; the [[Honour|honour]] of your company at a little le-Vee, sir, in
+the ladies’ ordinary, at eight o’[[Clock|clock]].’
 
 Mr Pogram bowed, and said:
 
@@ -460,26 +460,26 @@ minutes afore eight. I take My leave, sir!’
 
 Mr Pogram shook hands with him, and everybody else, once more; and when
 they came back again at five minutes before eight, they said, one by
-one, in a melancholy voice, ‘How do you do, sir?’ and shook hands with
+one, in a [[Melancholy|melancholy]] voice, ‘How do you do, sir?’ and shook hands with
 Mr Pogram all over again, as if he had been abroad for a twelvemonth in
 the meantime, and they met, now, at a funeral.
 
-But by this time Mr Pogram had freshened himself up, and had composed
+But by this [[Time|time]] Mr Pogram had freshened himself up, and had composed
 his hair and features after the Pogram statue, so that any one with half
 an eye might cry out, ‘There he is! as he delivered the Defiance!’
 The Committee were embellished also; and when they entered the ladies’
-ordinary in a body, there was much clapping of hands from ladies and
+ordinary in a [[Body|body]], there was much clapping of hands from ladies and
 gentlemen, accompanied by cries of ‘Pogram! Pogram!’ and some standing
 up on chairs to see him.
 
 The object of the popular caress looked round the room as he walked up
-it, and smiled; at the same time observing to the shrill boy, that he
-knew something of the beauty of the daughters of their common country,
+it, and smiled; at the same [[Time|time]] observing to the shrill boy, that he
+knew something of the [[Beauty|beauty]] of the daughters of their common country,
 but had never seen it in such lustre and perfection as at that moment.
 Which the shrill boy put in the paper next day; to Elijah Pogram’s great
 surprise.
 
-‘We will re-quest you, sir, if you please,’ said Buffum, laying hands on
+‘We will re-[[Quest|quest]] you, sir, if you please,’ said Buffum, laying hands on
 Mr Pogram as if he were taking his measure for a coat, ‘to stand up with
 your back agin the wall right in the furthest corner, that there may
 be more room for our fellow citizens. If you could set your back right
@@ -508,7 +508,7 @@ and battle his way towards the Honourable Elijah Pogram. Martin, who had
 found a snug place of observation in a distant corner, where he
 stood with Mark beside him (for he did not so often forget him now
 as formerly, though he still did sometimes), thought he knew this
-gentleman, but had no doubt of it, when he cried as loud as he could,
+gentleman, but had no [[Doubt|doubt]] of it, when he cried as loud as he could,
 with his eyes starting out of his head:
 
 ‘Sir, Mrs Hominy!’
@@ -534,16 +534,16 @@ Mrs H. was hard upon him at first; and put him through a rigid catechism
 in reference to a certain vote he had given, which she had found it
 necessary, as the mother of the modern Gracchi, to deprecate in a line
 by itself, set up expressly for the purpose in German text. But Mr
-Pogram evading it by a well-timed allusion to the star-spangled banner,
+Pogram evading it by a [[Well|well]]-timed allusion to the star-spangled banner,
 which, it appeared, had the remarkable peculiarity of flouting the
-breeze whenever it was hoisted where the wind blew, she forgave him.
+breeze whenever it was hoisted where the [[Wind|wind]] blew, she forgave him.
 They now enlarged on certain questions of tariff, commercial treaty,
 boundary, importation and exportation with great effect. And Mrs Hominy
 not only talked, as the saying is, like a book, but actually did talk
 her own books, word for word.
 
 ‘My! what is this!’ cried Mrs Hominy, opening a little note which was
-handed her by her excited gentleman-usher. ‘Do tell! oh, well, now! on’y
+handed her by her excited gentleman-usher. ‘Do tell! oh, [[Well|well]], now! on’y
 think!’
 
 And then she read aloud, as follows:
@@ -552,19 +552,19 @@ And then she read aloud, as follows:
 modern Gracchi, and claim her kind introduction, as their talented
 countrywoman, to the honourable (and distinguished) Elijah Pogram, whom
 the two L. L.’s have often contemplated in the speaking marble of the
-soul-subduing Chiggle. On a verbal intimation from the mother of the M.
+[[Soul|soul]]-subduing Chiggle. On a verbal intimation from the mother of the M.
 G., that she will comply with the request of the two L. L.’s, they will
-have the immediate pleasure of joining the galaxy assembled to do honour
-to the patriotic conduct of a Pogram. It may be another bond of union
+have the immediate pleasure of joining the galaxy assembled to do [[Honour|honour]]
+to the patriotic conduct of a Pogram. It may be another bond of [[Union|union]]
 between the two L. L.’s and the mother of the M. G. to observe, that the
 two L. L.’s are Transcendental.’
 
-Mrs Hominy promptly rose, and proceeded to the door, whence she
+Mrs Hominy promptly [[Rose|rose]], and proceeded to the door, whence she
 returned, after a minute’s interval, with the two L. L.’s, whom she led,
 through the lane in the crowd, with all that stateliness of deportment
 which was so remarkably her own, up to the great Elijah Pogram. It was
 (as the shrill boy cried out in an ecstasy) quite the Last Scene from
-Coriolanus. One of the L. L.’s wore a brown wig of uncommon size.
+[[Coriolanus]]. One of the L. L.’s wore a brown wig of uncommon size.
 Sticking on the forehead of the other, by invisible means, was a massive
 cameo, in size and shape like the raspberry tart which is ordinarily
 sold for a penny, representing on its front the Capitol at Washington.
@@ -584,10 +584,10 @@ we give those titles, is a topic, Spirit searching, light abandoned,
 much too vast to enter on, at this unlooked-for crisis.’
 
 ‘Mind and matter,’ said the lady in the wig, ‘glide swift into the
-vortex of immensity. Howls the sublime, and softly sleeps the calm
-Ideal, in the whispering chambers of Imagination. To hear it, sweet
+vortex of immensity. Howls the [[Sublime|sublime]], and softly sleeps the calm
+Ideal, in the whispering chambers of [[Imagination]]. To hear it, sweet
 it is. But then, outlaughs the stern philosopher, and saith to the
-Grotesque, “What ho! arrest for me that Agency. Go, bring it here!” And
+[[Grotesque]], “What ho! arrest for me that Agency. Go, bring it here!” And
 so the vision fadeth.’
 
 After this, they both took Mr Pogram by the hand, and pressed it to
@@ -597,13 +597,13 @@ work in earnest, to bring poor Pogram out, and make him show himself in
 all his brilliant colours.
 
 How Pogram got out of his depth instantly, and how the three L. L.’s
-were never in theirs, is a piece of history not worth recording. Suffice
+were never in theirs, is a piece of [[history]] not worth recording. Suffice
 it, that being all four out of their depths, and all unable to swim,
 they splashed up words in all directions, and floundered about famously.
 On the whole, it was considered to have been the severest mental
-exercise ever heard in the National Hotel. Tears stood in the shrill
+exercise ever heard in the National Hotel. [[Tears]] stood in the shrill
 boy’s eyes several times; and the whole company observed that their
-heads ached with the effort--as well they might.
+heads ached with the effort--as [[Well|well]] they might.
 
 When it at last became necessary to release Elijah Pogram from the
 corner, and the Committee saw him safely back again to the next room,
@@ -618,23 +618,23 @@ ene-mies as you.”’
 
 There is some reason to suppose that it was rather terrible to its
 friends; being a statue of the Elevated or Goblin School, in which the
-Honourable Elijah Pogram was represented as in a very high wind, with
+Honourable Elijah Pogram was represented as in a very high [[Wind|wind]], with
 his hair all standing on end, and his nostrils blown wide open. But Mr
-Pogram thanked his friend and countryman for the aspiration to which he
+Pogram thanked his friend and countryman for the [[Aspiration|aspiration]] to which he
 had given utterance, and the Committee, after another solemn shaking of
 hands, retired to bed, except the Doctor; who immediately repaired to
 the newspaper-office, and there wrote a short poem suggested by the
-events of the evening, beginning with fourteen stars, and headed, ‘A
-Fragment. Suggested by witnessing the Honourable Elijah Pogram engaged
+events of the evening, beginning with fourteen [[Stars|stars]], and headed, ‘A
+[[Fragment]]. Suggested by witnessing the Honourable Elijah Pogram engaged
 in a philosophical disputation with three of Columbia’s fairest
 daughters. By Doctor Ginery Dunkle. Of Troy.’
 
 If Pogram was as glad to get to bed as Martin was, he must have been
-well rewarded for his labours. They started off again next day (Martin
+[[Well|well]] rewarded for his labours. They started off again next day (Martin
 and Mark previously disposing of their goods to the storekeepers of whom
 they had purchased them, for anything they would bring), and were fellow
-travellers to within a short distance of New York. When Pogram was about
-to leave them he grew thoughtful, and after pondering for some time,
+travellers to within a short distance of [[New York]]. When Pogram was about
+to leave them he grew thoughtful, and after pondering for some [[Time|time]],
 took Martin aside.
 
 ‘We air going to part, sir,’ said Pogram.
@@ -660,14 +660,14 @@ like.’
 If you are content to run the hazard, sir, here is one for your Lord
 Chancellor,’ producing it, ‘and one for Your principal Secretary of
 State. I should wish them to see it, sir, as expressing what my opinions
-air. That they may not plead ignorance at a future time. But don’t get
+air. That they may not plead ignorance at a future [[Time|time]]. But don’t get
 into danger, sir, on my account!’
 
 ‘There is not the least danger, I assure you,’ said Martin. So he put
 the pamphlets in his pocket, and they parted.
 
-Mr Bevan had written in his letter that, at a certain time, which fell
-out happily just then, he would be at a certain hotel in the city,
+Mr Bevan had written in his letter that, at a certain [[Time|time]], which fell
+out happily just then, he would be at a certain hotel in the [[City|city]],
 anxiously expecting to see them. To this place they repaired without a
 moment’s delay. They had the satisfaction of finding him within; and of
 being received by their good friend, with his own warmth and heartiness.
@@ -686,22 +686,22 @@ were so easily made here; than I thought of going to Eden myself.’
 said Martin, ‘and the less said about it the better for me. Mark, here,
 hadn’t a voice in the matter.’
 
-‘Well! but he hadn’t a voice in any other matter, had he?’ returned Mr
+‘[[Well]]! but he hadn’t a voice in any other matter, had he?’ returned Mr
 Bevan; laughing with an air that showed his understanding of Mark and
 Martin too.
 
 ‘Not a very powerful one, I am afraid,’ said Martin with a blush. ‘But
 live and learn, Mr Bevan! Nearly die and learn; we learn the quicker.’
 
-‘Now,’ said their friend, ‘about your plans. You mean to return home at
+‘Now,’ said their friend, ‘about your plans. You mean to return [[Home|home]] at
 once?’
 
 ‘Oh, I think so,’ returned Martin hastily, for he turned pale at the
-thought of any other suggestion. ‘That is your opinion too, I hope?’
+thought of any other suggestion. ‘That is your opinion too, I [[Hope|hope]]?’
 
 ‘Unquestionably. For I don’t know why you ever came here; though it’s
 not such an unusual case, I am sorry to say, that we need go any farther
-into that. You don’t know that the ship in which you came over with our
+into that. You don’t know that the [[Ship|ship]] in which you came over with our
 friend General Fladdock, is in port, of course?’
 
 ‘Indeed!’ said Martin.
@@ -709,7 +709,7 @@ friend General Fladdock, is in port, of course?’
 ‘Yes. And is advertised to sail to-morrow.’
 
 This was tempting news, but tantalising too; for Martin knew that his
-getting any employment on board a ship of that class was hopeless. The
+getting any employment on board a [[Ship|ship]] of that class was hopeless. The
 money in his pocket would not pay one-fourth of the sum he had already
 borrowed, and if it had been enough for their passage-money, he could
 hardly have resolved to spend it. He explained this to Mr Bevan, and
@@ -718,7 +718,7 @@ stated what their project was.
 ‘Why, that’s as wild as Eden every bit,’ returned his friend. ‘You must
 take your passage like a Christian; at least, as like a Christian as a
 fore-cabin passenger can; and owe me a few more dollars than you intend.
-If Mark will go down to the ship and see what passengers there are,
+If Mark will go down to the [[Ship|ship]] and see what passengers there are,
 and finds that you can go in her without being actually suffocated, my
 advice is, go! You and I will look about us in the meantime (we won’t
 call at the Norris’s unless you like), and we will all three dine
@@ -729,7 +729,7 @@ But he went out of the room after Mark, and advised him to take their
 passage in the Screw, though they lay upon the bare deck; which Mr
 Tapley, who needed no entreaty on the subject readily promised to do.
 
-When he and Martin met again, and were alone, he was in high spirits,
+When he and Martin met again, and were [[Alone|alone]], he was in high spirits,
 and evidently had something to communicate, in which he gloried very
 much.
 
@@ -744,7 +744,7 @@ Martin looked at him for farther explanation.
 
 ‘And when I got on board, and the word was passed that it was me,’ said
 Mark, ‘the mate he comes and asks me whether I’d engage to take this
-said cook’s place upon the passage home. “For you’re used to it,” he
+said cook’s place upon the passage [[Home|home]]. “For you’re used to it,” he
 says; “you were always a-cooking for everybody on your passage out.”
  And so I was,’ said Mark, ‘although I never cooked before, I’ll take my
 oath.’
@@ -754,9 +754,9 @@ oath.’
 ‘Say!’ cried Mark. ‘That I’d take anything I could get. “If that’s
 so,” says the mate, “why, bring a glass of rum;” which they brought
 according. And my wages, sir,’ said Mark in high glee, ‘pays your
-passage; and I’ve put the rolling-pin in your berth to take it (it’s
+passage; and I’ve put the [[rolling]]-pin in your berth to take it (it’s
 the easy one up in the corner); and there we are, Rule Britannia, and
-Britons strike home!’
+Britons strike [[Home|home]]!’
 
 ‘There never was such a good fellow as you are!’ cried Martin seizing
 him by the hand. ‘But what do you mean by “doing” Mr Bevan, Mark?’
@@ -769,7 +769,7 @@ see?’
 
 Martin’s delight in this idea was not inferior to Mark’s. It was all
 done as he proposed. They passed a cheerful evening; slept at the hotel;
-left the letter as arranged; and went off to the ship betimes next
+left the letter as arranged; and went off to the [[Ship|ship]] betimes next
 morning, with such light hearts as the weight of their past miseries
 engendered.
 
@@ -778,13 +778,13 @@ friend. ‘How shall I remember all your kindness! How shall I ever thank
 you!’
 
 ‘If you ever become a rich man, or a powerful one,’ returned his friend,
-‘you shall try to make your Government more careful of its subjects when
+‘you shall try to make your [[government|Government]] more careful of its subjects when
 they roam abroad to live. Tell it what you know of emigration in your
-own case, and impress upon it how much suffering may be prevented with a
+own case, and impress upon it how much [[Suffering|suffering]] may be prevented with a
 little pains!’
 
-Cheerily, lads, cheerily! Anchor weighed. Ship in full sail. Her sturdy
-bowsprit pointing true to England. America a cloud upon the sea behind
+Cheerily, lads, cheerily! Anchor weighed. [[Ship]] in full sail. Her sturdy
+bowsprit pointing true to England. [[America]] a cloud upon the sea behind
 them!
 
 ‘Why, Cook! what are you thinking of so steadily?’ said Martin.
@@ -796,10 +796,10 @@ and was called upon to paint the American Eagle, how should I do it?’
 
 ‘No,’ said Mark. ‘That wouldn’t do for me, sir. I should want to draw it
 like a Bat, for its short-sightedness; like a Bantam, for its bragging;
-like a Magpie, for its honesty; like a Peacock, for its vanity; like a
+like a Magpie, for its honesty; like a Peacock, for its [[Vanity|vanity]]; like a
 ostrich, for its putting its head in the mud, and thinking nobody sees
 it--’
 
 ‘And like a Phoenix, for its power of springing from the ashes of its
-faults and vices, and soaring up anew into the sky!’ said Martin. ‘Well,
-Mark. Let us hope so.’
+faults and vices, and soaring up anew into the sky!’ said Martin. ‘[[Well]],
+Mark. Let us [[Hope|hope]] so.’

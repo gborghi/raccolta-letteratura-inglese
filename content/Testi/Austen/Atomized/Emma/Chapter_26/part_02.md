@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 7 (part 2)"
+title: "[[Emma]] — Chapter 7 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -23,35 +23,35 @@ that their advice for her going was most prompt and successful.
 She owned that, considering every thing, she was not absolutely without
 inclination for the party. The Coles expressed themselves so
 properly—there was so much real attention in the manner of it—so much
-consideration for her father. “They would have solicited the honour
+consideration for her father. “They would have solicited the [[Honour|honour]]
 earlier, but had been waiting the arrival of a folding-screen from
-London, which they hoped might keep Mr. Woodhouse from any draught of
-air, and therefore induce him the more readily to give them the honour
+[[London]], which they hoped might keep Mr. Woodhouse from any draught of
+air, and therefore induce him the more readily to give them the [[Honour|honour]]
 of his company.” Upon the whole, she was very persuadable; and it being
 briefly settled among themselves how it might be done without
 neglecting his comfort—how certainly Mrs. Goddard, if not Mrs. Bates,
 might be depended on for bearing him company—Mr. Woodhouse was to be
 talked into an acquiescence of his daughter’s going out to dinner on a
 day now near at hand, and spending the whole evening away from him. As
-for _his_ going, Emma did not wish him to think it possible, the hours
-would be too late, and the party too numerous. He was soon pretty well
+for _his_ going, [[Emma]] did not wish him to think it possible, the hours
+would be too late, and the party too numerous. He was soon pretty [[Well|well]]
 resigned.
 
 “I am not fond of dinner-visiting,” said he—“I never was. No more is
-Emma. Late hours do not agree with us. I am sorry Mr. and Mrs. Cole
+[[Emma]]. Late hours do not agree with us. I am sorry Mr. and Mrs. Cole
 should have done it. I think it would be much better if they would come
-in one afternoon next summer, and take their tea with us—take us in
+in one afternoon next [[Summer|summer]], and take their tea with us—take us in
 their afternoon walk; which they might do, as our hours are so
-reasonable, and yet get home without being out in the damp of the
-evening. The dews of a summer evening are what I would not expose any
-body to. However, as they are so very desirous to have dear Emma dine
+reasonable, and yet get [[Home|home]] without being out in the damp of the
+evening. The dews of a [[Summer|summer]] evening are what I would not expose any
+[[Body|body]] to. However, as they are so very desirous to have dear [[Emma]] dine
 with them, and as you will both be there, and Mr. Knightley too, to
 take care of her, I cannot wish to prevent it, provided the weather be
 what it ought, neither damp, nor cold, nor windy.” Then turning to Mrs.
 Weston, with a look of gentle reproach—“Ah! Miss Taylor, if you had not
-married, you would have staid at home with me.”
+married, you would have staid at [[Home|home]] with me.”
 
-“Well, sir,” cried Mr. Weston, “as I took Miss Taylor away, it is
+“[[Well]], sir,” cried Mr. Weston, “as I took Miss Taylor away, it is
 incumbent on me to supply her place, if I can; and I will step to Mrs.
 Goddard in a moment, if you wish it.”
 
@@ -62,7 +62,7 @@ arranged.
 
 With this treatment, Mr. Woodhouse was soon composed enough for talking
 as usual. “He should be happy to see Mrs. Goddard. He had a great
-regard for Mrs. Goddard; and Emma should write a line, and invite her.
+regard for Mrs. Goddard; and [[Emma]] should write a line, and invite her.
 James could take the note. But first of all, there must be an answer
 written to Mrs. Cole.”
 
@@ -73,26 +73,26 @@ course. But you will do every thing right. I need not tell you what is
 to be done. We must remember to let James know that the carriage will
 be wanted on Tuesday. I shall have no fears for you with him. We have
 never been there above once since the new approach was made; but still
-I have no doubt that James will take you very safely. And when you get
-there, you must tell him at what time you would have him come for you
+I have no [[Doubt|doubt]] that James will take you very safely. And when you get
+there, you must tell him at what [[Time|time]] you would have him come for you
 again; and you had better name an early hour. You will not like staying
 late. You will get very tired when tea is over.”
 
 “But you would not wish me to come away before I am tired, papa?”
 
-“Oh! no, my love; but you will soon be tired. There will be a great
+“Oh! no, my [[Love|love]]; but you will soon be tired. There will be a great
 many people talking at once. You will not like the noise.”
 
-“But, my dear sir,” cried Mr. Weston, “if Emma comes away early, it
+“But, my dear sir,” cried Mr. Weston, “if [[Emma]] comes away early, it
 will be breaking up the party.”
 
 “And no great harm if it does,” said Mr. Woodhouse. “The sooner every
 party breaks up, the better.”
 
-“But you do not consider how it may appear to the Coles. Emma’s going
+“But you do not consider how it may appear to the Coles. [[Emma]]’s going
 away directly after tea might be giving offence. They are good-natured
 people, and think little of their own claims; but still they must feel
-that any body’s hurrying away is no great compliment; and Miss
+that any [[Body|body]]’s hurrying away is no great compliment; and Miss
 Woodhouse’s doing it would be more thought of than any other person’s
 in the room. You would not wish to disappoint and mortify the Coles, I
 am sure, sir; friendly, good sort of people as ever lived, and who have
@@ -100,10 +100,10 @@ been your neighbours these _ten_ years.”
 
 “No, upon no account in the world, Mr. Weston; I am much obliged to you
 for reminding me. I should be extremely sorry to be giving them any
-pain. I know what worthy people they are. Perry tells me that Mr. Cole
+[[Pain|pain]]. I know what worthy people they are. Perry tells me that Mr. Cole
 never touches malt liquor. You would not think it to look at him, but
 he is bilious—Mr. Cole is very bilious. No, I would not be the means of
-giving them any pain. My dear Emma, we must consider this. I am sure,
+giving them any [[Pain|pain]]. My dear [[Emma]], we must consider this. I am sure,
 rather than run the risk of hurting Mr. and Mrs. Cole, you would stay a
 little longer than you might wish. You will not regard being tired. You
 will be perfectly safe, you know, among your friends.”
@@ -112,13 +112,13 @@ will be perfectly safe, you know, among your friends.”
 scruples of staying as late as Mrs. Weston, but on your account. I am
 only afraid of your sitting up for me. I am not afraid of your not
 being exceedingly comfortable with Mrs. Goddard. She loves piquet, you
-know; but when she is gone home, I am afraid you will be sitting up by
-yourself, instead of going to bed at your usual time—and the idea of
+know; but when she is gone [[Home|home]], I am afraid you will be sitting up by
+yourself, instead of going to bed at your usual [[Time|time]]—and the idea of
 that would entirely destroy my comfort. You must promise me not to sit
 up.”
 
 He did, on the condition of some promises on her side: such as that, if
-she came home cold, she would be sure to warm herself thoroughly; if
+she came [[Home|home]] cold, she would be sure to warm herself thoroughly; if
 hungry, that she would take something to eat; that her own maid should
 sit up for her; and that Serle and the butler should see that every
-thing were safe in the house, as usual.
+thing were safe in the [[house]], as usual.

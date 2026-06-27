@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Dream of Turnbull (part 4)"
+title: "ball and [[Cross|cross]] — The Dream of Turnbull (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 "Life, yes, Life is indeed sacred!" he cried; "but new lives for old!
 Good lives for bad!  On that very place where now there sprawls one
-drunken wastrel of a pavement artist more or less wishing he were dead--
+drunken wastrel of a pavement [[artist]] more or less wishing he were dead--
 on that very spot there shall in the future be living pictures;
 there shall be golden girls and boys leaping in the sun."
 
@@ -42,31 +42,31 @@ to exactly the same lunatic asylum from which I came."
 
 "Because I want a little sane and wholesome society," answered Turnbull.
 
-There was a long and peculiar silence, and then the man driving
-the flying machine said quite coolly:  "I won't take you back."
+There was a long and peculiar [[Silence|silence]], and then the man driving
+the flying [[Machine|machine]] said quite coolly:  "I won't take you back."
 
 And then Turnbull said equally coolly:  "Then I'll jump out
 of the car."
 
-The unknown rose to his full height, and the expression in his
+The unknown [[Rose|rose]] to his full height, and the expression in his
 eyes seemed to be made of ironies behind ironies, as two mirrors
 infinitely reflect each other.  At last he said, very gravely:
 "Do you think I am the devil?"
 
-"Yes," said Turnbull, violently.  "For I think the devil is a dream,
-and so are you.  I don't believe in you or your flying ship
-or your last fight of the world.  It is all a nightmare.
-I say as a fact of dogma and faith that it is all a nightmare.
-And I will be a martyr for my faith as much as St. Catherine,
-for I will jump out of this ship and risk waking up safe in bed."
+"Yes," said Turnbull, violently.  "For I think the devil is [[A Dream|a dream]],
+and so are you.  I don't believe in you or your flying [[Ship|ship]]
+or your last fight of the world.  It is all a [[nightmare]].
+I say as a fact of dogma and [[Faith|faith]] that it is all a [[nightmare]].
+And I will be a martyr for my [[Faith|faith]] as much as St. Catherine,
+for I will jump out of this [[Ship|ship]] and risk waking up safe in bed."
 
 After swaying twice with the swaying vessel he dived over the side
-as one dives into the sea.  For some incredible moments stars and space
+as one dives into the sea.  For some incredible moments [[Stars|stars]] and space
 and planets seemed to shoot up past him as the sparks fly upward; and yet
 in that sickening descent he was full of some unnatural happiness.
 He could connect it with no idea except one that half escaped him--
-what Evan had said of the difference between Christ and Satan;
-that it was by Christ's own choice that He descended into hell.
+what Evan had said of the difference between [[Christ]] and [[Satan]];
+that it was by [[Christ]]'s own choice that He descended into hell.
 
 When he again realized anything, he was lying on his elbow on
 the lawn of the lunatic asylum, and the last red of the sunset

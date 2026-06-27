@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 19"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 19"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,17 +20,17 @@ tags:
 
 
 
-Twenty-Second: Night.—What have I done? and what will be the end of it?
+Twenty-Second: [[Night]].—What have I done? and what will be the end of it?
 
-I cannot calmly reflect upon it; I cannot sleep. I must have recourse
+I cannot calmly reflect upon it; I cannot [[Sleep|sleep]]. I must have recourse
 
-to my diary again; I will commit it to paper to-night, and see what I
+to my diary again; I will commit it to paper to-[[Night|night]], and see what I
 
 shall think of it to-morrow.
 
 
 
-I went down to dinner resolving to be cheerful and well-conducted, and
+I went down to dinner resolving to be cheerful and [[Well|well]]-conducted, and
 
 kept my resolution very creditably, considering how my head ached and
 
@@ -40,19 +40,19 @@ late; my very energies, both mental and physical, must be strangely
 
 impaired, or I should not have acted so weakly in many respects as I
 
-have done; but I have not been well this last day or two. I suppose it
+have done; but I have not been [[Well|well]] this last day or two. I suppose it
 
 is with sleeping and eating so little, and thinking so much, and being
 
-so continually out of humour. But to return. I was exerting myself to
+so continually out of [[Humour|humour]]. But to return. I was exerting myself to
 
 sing and play for the amusement, and at the request, of my aunt and
 
 Milicent, before the gentlemen came into the drawing-room (Miss Wilmot
 
-never likes to waste her musical efforts on ladies’ ears alone).
+never likes to waste her musical efforts on ladies’ ears [[Alone|alone]]).
 
-Milicent had asked for a little Scotch song, and I was just in the
+Milicent had asked for a little Scotch [[Song|song]], and I was just in the
 
 middle of it when they entered. The first thing Mr. Huntingdon did was
 
@@ -60,7 +60,7 @@ to walk up to Annabella.
 
 
 
-“Now, Miss Wilmot, won’t _you_ give us some music to-night?” said he.
+“Now, Miss Wilmot, won’t _you_ give us some music to-[[Night|night]]?” said he.
 
 “Do now! I know you will, when I tell you that I have been hungering
 
@@ -72,7 +72,7 @@ vacant.”
 
 It was, for I had quitted it immediately upon hearing his petition. Had
 
-I been endowed with a proper degree of self-possession, I should have
+I been endowed with a proper degree of [[Self|self]]-possession, I should have
 
 turned to the lady myself, and cheerfully joined my entreaties to his,
 
@@ -90,7 +90,7 @@ felt within. I knew Annabella’s musical talents were superior to mine,
 
 but that was no reason why I should be treated as a perfect nonentity.
 
-The time and the manner of his asking her appeared like a gratuitous
+The [[Time|time]] and the manner of his asking her appeared like a gratuitous
 
 insult to me; and I could have wept with pure vexation.
 
@@ -98,7 +98,7 @@ insult to me; and I could have wept with pure vexation.
 
 Meantime, she exultingly seated herself at the piano, and favoured him
 
-with two of his favourite songs, in such superior style that even I
+with two of his favourite [[songs]], in such superior style that even I
 
 soon lost my anger in admiration, and listened with a sort of gloomy
 
@@ -116,7 +116,7 @@ eye and brow lighted up with keen enthusiasm, and that sweet smile
 
 passing and appearing like gleams of sunshine on an April day. No
 
-wonder he should hunger and thirst to hear her sing. I now forgave him
+[[Wonder|wonder]] he should hunger and thirst to hear her sing. I now forgave him
 
 from my heart his reckless slight of me, and I felt ashamed at my
 
@@ -130,11 +130,11 @@ delight.
 
 “There now,” said she, playfully running her fingers over the keys when
 
-she had concluded the second song. “What shall I give you next?”
+she had concluded the second [[Song|song]]. “What shall I give you next?”
 
 
 
-But in saying this she looked back at Lord Lowborough, who was standing
+But in saying this she looked back at [[Lord Lowborough]], who was standing
 
 a little behind, leaning against the back of a chair, an attentive
 
@@ -148,17 +148,17 @@ for him, and will gladly exert myself to gratify you;” and thus
 
 encouraged, his lordship came forward, and turning over the music,
 
-presently set before her a little song that I had noticed before, and
+presently set before her a little [[Song|song]] that I had noticed before, and
 
 read more than once, with an interest arising from the circumstance of
 
-my connecting it in my mind with the reigning tyrant of my thoughts.
+my connecting it in my mind with the reigning [[Tyrant|tyrant]] of my thoughts.
 
 And now, with my nerves already excited and half unstrung, I could not
 
 hear those words so sweetly warbled forth without some symptoms of
 
-emotion I was not able to suppress. Tears rose unbidden to my eyes, and
+emotion I was not able to suppress. [[Tears]] [[Rose|rose]] unbidden to my eyes, and
 
 I buried my face in the sofa-pillow that they might flow unseen while I
 
@@ -194,15 +194,15 @@ If I may ne’er behold again
 
 Nor hear thy voice, still would I fain
 
-    Preserve, for aye, their memory.
+    Preserve, for aye, their [[Memory|memory]].
 
 
 
-That voice, the magic of whose tone
+That voice, the [[Magic|magic]] of whose tone
 
     Can wake an echo in my breast,
 
-Creating feelings that, alone,
+Creating feelings that, [[Alone|alone]],
 
     Can make my tranced spirit blest.
 
@@ -210,7 +210,7 @@ Creating feelings that, alone,
 
 That laughing eye, whose sunny beam
 
-    My memory would not cherish less;—
+    My [[Memory|memory]] would not cherish less;—
 
 And oh, that smile! I whose joyous gleam
 
@@ -220,7 +220,7 @@ And oh, that smile! I whose joyous gleam
 
 Adieu! but let me cherish, still,
 
-    The hope with which I cannot part.
+    The [[Hope|hope]] with which I cannot part.
 
 Contempt may wound, and coldness chill,
 
@@ -234,7 +234,7 @@ And who can tell but Heaven, at last,
 
 And bid the future pay the past
 
-    With joy for anguish, smiles for tears.
+    With joy for anguish, smiles for [[Tears|tears]].
 
 
 
@@ -254,9 +254,9 @@ half-suppressed sob had caught his ear, and caused him to look
 
 round—heaven forbid! But with a violent effort, I checked all further
 
-signs of weakness, dried my tears, and, when I thought he had turned
+signs of weakness, dried my [[Tears|tears]], and, when I thought he had turned
 
-away again, rose, and instantly left the apartment, taking refuge in my
+away again, [[Rose|rose]], and instantly left the apartment, taking refuge in my
 
 favourite resort, the library.
 
@@ -264,21 +264,21 @@ favourite resort, the library.
 
 There was no light there but the faint red glow of the neglected
 
-fire;—but I did not want a light; I only wanted to indulge my thoughts,
+[[Fire|fire]];—but I did not want a light; I only wanted to indulge my thoughts,
 
 unnoticed and undisturbed; and sitting down on a low stool before the
 
 easy-chair, I sunk my head upon its cushioned seat, and thought, and
 
-thought, until the tears gushed out again, and I wept like any child.
+thought, until the [[Tears|tears]] gushed out again, and I wept like any [[Child|child]].
 
 Presently, however, the door was gently opened and someone entered the
 
 room. I trusted it was only a servant, and did not stir. The door was
 
-closed again—but I was not alone; a hand gently touched my shoulder,
+closed again—but I was not [[Alone|alone]]; a hand gently touched my shoulder,
 
-and a voice said, softly,—“Helen, what is the matter?”
+and a voice said, softly,—“[[Helen]], what is the matter?”
 
 
 
@@ -310,7 +310,7 @@ something to say to you,—and if not, I’ll go.”
 
 
 
-“Go then!” I cried; but, fearing he would obey too well, and never come
+“Go then!” I cried; but, fearing he would obey too [[Well|well]], and never come
 
 again, I hastily added—“Or say what you have to say, and have done with
 
@@ -320,7 +320,7 @@ it!”
 
 “But which?” said he—“for I shall only say it if you really were
 
-thinking of me. So tell me, Helen.”
+thinking of me. So tell me, [[Helen]].”
 
 
 
@@ -328,9 +328,9 @@ thinking of me. So tell me, Helen.”
 
 
 
-“Not at all—too pertinent, you mean. So you won’t tell me?—Well, I’ll
+“Not at all—too pertinent, you mean. So you won’t tell me?—[[Well]], I’ll
 
-spare your woman’s pride, and, construing your silence into ‘Yes,’ I’ll
+spare your woman’s [[Pride|pride]], and, construing your [[Silence|silence]] into ‘Yes,’ I’ll
 
 take it for granted that I was the subject of your thoughts, and the
 
@@ -348,7 +348,7 @@ not interrupt him again, or even attempt to repulse him: though he had
 
 taken my hand once more, and half embraced me with his other arm, I was
 
-scarcely conscious of it at the time.
+scarcely conscious of it at the [[Time|time]].
 
 
 
@@ -356,15 +356,15 @@ scarcely conscious of it at the time.
 
 you, is like a flaunting peony compared with a sweet, wild rosebud
 
-gemmed with dew—and I love you to distraction!—Now, tell me if that
+gemmed with dew—and I [[Love|love]] you to distraction!—Now, tell me if that
 
-intelligence gives you any pleasure. Silence again? That means yes.
+intelligence gives you any pleasure. [[Silence]] again? That means yes.
 
 Then let me add, that I cannot live without you, and if you answer No
 
 to this last question, you will drive me mad.—Will you bestow yourself
 
-upon me?—you will!” he cried, nearly squeezing me to death in his arms.
+upon me?—you will!” he cried, nearly squeezing me to [[Death|death]] in his arms.
 
 
 
@@ -382,7 +382,7 @@ my uncle and aunt.”
 
 
 
-“But _you_ don’t, Helen—say you love me, and I’ll go.”
+“But _you_ don’t, [[Helen]]—say you [[Love|love]] me, and I’ll go.”
 
 
 
@@ -390,7 +390,7 @@ my uncle and aunt.”
 
 
 
-“I will, this instant,—if you’ll only say you love me.”
+“I will, this instant,—if you’ll only say you [[Love|love]] me.”
 
 
 
@@ -450,15 +450,15 @@ of possessing such a treasure; but, nevertheless, I would sooner die
 
 than relinquish her in favour of the best man that ever went to
 
-heaven—and as for her happiness, I would sacrifice my body and soul—”
+heaven—and as for her happiness, I would sacrifice my [[Body|body]] and [[Soul|soul]]—”
 
 
 
-“Body and _soul_, Mr. Huntingdon—sacrifice your _soul?_”
+“[[Body]] and _soul_, Mr. Huntingdon—sacrifice your _soul?_”
 
 
 
-“Well, I would lay down life—”
+“[[Well]], I would lay down life—”
 
 
 
@@ -472,11 +472,11 @@ promotion and preservation—”
 
 
 
-“Another time, sir, we will talk of this—and I should have felt
+“Another [[Time|time]], sir, we will talk of this—and I should have felt
 
 disposed to judge more favourably of your pretensions, if you too had
 
-chosen another time and place, and let me add—another _manner_ for your
+chosen another [[Time|time]] and place, and let me add—another _manner_ for your
 
 declaration.”
 
@@ -492,11 +492,11 @@ you in the other room.” And she turned to me.
 
 
 
-“Then _you_ must plead for me, Helen,” said he, and at length withdrew.
+“Then _you_ must plead for me, [[Helen]],” said he, and at length withdrew.
 
 
 
-“You had better retire to your room, Helen,” said my aunt, gravely. “I
+“You had better retire to your room, [[Helen]],” said my aunt, gravely. “I
 
 will discuss this matter with you, too, to-morrow.”
 
@@ -522,9 +522,9 @@ consent—”
 
 
 
-“I couldn’t help it, aunt,” I cried, bursting into tears. They were not
+“I couldn’t help it, aunt,” I cried, bursting into [[Tears|tears]]. They were not
 
-altogether the tears of sorrow, or of fear for her displeasure, but
+altogether the [[Tears|tears]] of sorrow, or of [[Fear|fear]] for her displeasure, but
 
 rather the outbreak of the general tumultuous excitement of my
 
@@ -532,10 +532,10 @@ feelings. But my good aunt was touched at my agitation. In a softer
 
 tone, she repeated her recommendation to retire, and, gently kissing my
 
-forehead, bade me good-night, and put her candle in my hand; and I
+forehead, bade me good-[[Night|night]], and put her candle in my hand; and I
 
 went; but my brain worked so, I could not think of sleeping. I feel
 
 calmer now that I have written all this; and I will go to bed, and try
 
-to win tired nature’s sweet restorer.
+to win tired [[Nature|nature]]’s sweet restorer.

@@ -1,5 +1,5 @@
 ---
-title: "As You Like It — Act V, Scene 4 — exchange (HAMLET) [6]"
+title: "As You Like It — Act V, Scene 4 — exchange ([[Hamlet|HAMLET]]) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/AS-YOU-LIKE-IT-(Shakespeare)"
@@ -13,4 +13,4 @@ tags:
 </nav>
 
 
-HAMLET
+[[Hamlet|HAMLET]]

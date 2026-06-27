@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 59: RETURN (part 5)"
+title: "[[David Copperfield]] — Chapter 59: RETURN (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -25,11 +25,11 @@ Chillip?’
 
 He was greatly fluttered by this unexpected address from a stranger, and
 replied, in his slow way, ‘I thank you, sir, you are very good. Thank
-you, sir. I hope YOU are well.’
+you, sir. I [[Hope|hope]] YOU are [[Well|well]].’
 
 ‘You don’t remember me?’ said I.
 
-‘Well, sir,’ returned Mr. Chillip, smiling very meekly, and shaking his
+‘[[Well]], sir,’ returned Mr. Chillip, smiling very meekly, and shaking his
 head as he surveyed me, ‘I have a kind of an impression that something
 in your countenance is familiar to me, sir; but I couldn’t lay my hand
 upon your name, really.’
@@ -37,16 +37,16 @@ upon your name, really.’
 ‘And yet you knew it, long before I knew it myself,’ I returned.
 
 ‘Did I indeed, sir?’ said Mr. Chillip. ‘Is it possible that I had the
-honour, sir, of officiating when--?’
+[[Honour|honour]], sir, of officiating when--?’
 
 ‘Yes,’ said I.
 
-‘Dear me!’ cried Mr. Chillip. ‘But no doubt you are a good deal changed
+‘Dear me!’ cried Mr. Chillip. ‘But no [[Doubt|doubt]] you are a good deal changed
 since then, sir?’
 
 ‘Probably,’ said I.
 
-‘Well, sir,’ observed Mr. Chillip, ‘I hope you’ll excuse me, if I am
+‘[[Well]], sir,’ observed Mr. Chillip, ‘I [[Hope|hope]] you’ll excuse me, if I am
 compelled to ask the favour of your name?’
 
 On my telling him my name, he was really moved. He quite shook hands
@@ -57,7 +57,7 @@ it. Even now, he put his hand in his coat-pocket as soon as he could
 disengage it, and seemed relieved when he had got it safe back.
 
 ‘Dear me, sir!’ said Mr. Chillip, surveying me with his head on one
-side. ‘And it’s Mr. Copperfield, is it? Well, sir, I think I should have
+side. ‘And it’s Mr. Copperfield, is it? [[Well]], sir, I think I should have
 known you, if I had taken the liberty of looking more closely at you.
 There’s a strong resemblance between you and your poor father, sir.’
 
@@ -73,19 +73,19 @@ said Mr. Chillip, tapping himself on the forehead with his forefinger.
 ‘What is your part of the country now?’ I asked, seating myself near
 him.
 
-‘I am established within a few miles of Bury St. Edmund’s, sir,’ said
+‘I am established within a few miles of Bury St. [[Edmund]]’s, sir,’ said
 Mr. Chillip. ‘Mrs. Chillip, coming into a little property in that
 neighbourhood, under her father’s will, I bought a practice down there,
-in which you will be glad to hear I am doing well. My daughter is
+in which you will be glad to hear I am doing [[Well|well]]. My daughter is
 growing quite a tall lass now, sir,’ said Mr. Chillip, giving his little
 head another little shake. ‘Her mother let down two tucks in her frocks
-only last week. Such is time, you see, sir!’
+only last week. Such is [[Time|time]], you see, sir!’
 
 As the little man put his now empty glass to his lips, when he made this
 reflection, I proposed to him to have it refilled, and I would keep him
-company with another. ‘Well, sir,’ he returned, in his slow way, ‘it’s
+company with another. ‘[[Well]], sir,’ he returned, in his slow way, ‘it’s
 more than I am accustomed to; but I can’t deny myself the pleasure
-of your conversation. It seems but yesterday that I had the honour of
+of your conversation. It seems but yesterday that I had the [[Honour|honour]] of
 attending you in the measles. You came through them charmingly, sir!’
 
 I acknowledged this compliment, and ordered the negus, which was soon
@@ -95,7 +95,7 @@ family, sir?’
 
 I shook my head.
 
-‘I was aware that you sustained a bereavement, sir, some time ago,’ said
+‘I was aware that you sustained a bereavement, sir, some [[Time|time]] ago,’ said
 Mr. Chillip. ‘I heard it from your father-in-law’s sister. Very decided
 character there, sir?’
 
@@ -127,7 +127,7 @@ Copperfield!’
 ‘And the brother and sister are pursuing their old course, are they?’
 said I.
 
-‘Well, sir,’ replied Mr. Chillip, ‘a medical man, being so much in
+‘[[Well]], sir,’ replied Mr. Chillip, ‘a medical man, being so much in
 families, ought to have neither eyes nor ears for anything but his
 profession. Still, I must say, they are very severe, sir: both as to
 this life and the next.’
@@ -143,15 +143,15 @@ Mr. Chillip shook his head, stirred his negus, and sipped it.
 
 ‘A charming woman indeed, sir,’ said Mr. Chillip; ‘as amiable, I am sure,
 as it was possible to be! Mrs. Chillip’s opinion is, that her spirit
-has been entirely broken since her marriage, and that she is all but
-melancholy mad. And the ladies,’ observed Mr. Chillip, timorously, ‘are
+has been entirely broken since her [[Marriage|marriage]], and that she is all but
+[[Melancholy|melancholy]] mad. And the ladies,’ observed Mr. Chillip, timorously, ‘are
 great observers, sir.’
 
 ‘I suppose she was to be subdued and broken to their detestable mould,
 Heaven help her!’ said I. ‘And she has been.’
 
-‘Well, sir, there were violent quarrels at first, I assure you,’ said
-Mr. Chillip; ‘but she is quite a shadow now. Would it be considered
+‘[[Well]], sir, there were violent quarrels at first, I assure you,’ said
+Mr. Chillip; ‘but she is quite a [[Shadow|shadow]] now. Would it be considered
 forward if I was to say to you, sir, in confidence, that since the
 sister came to help, the brother and sister between them have nearly
 reduced her to a state of imbecility?’

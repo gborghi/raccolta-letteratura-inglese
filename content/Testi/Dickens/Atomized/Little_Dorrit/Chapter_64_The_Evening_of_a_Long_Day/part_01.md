@@ -17,12 +17,12 @@ tags:
 CHAPTER 24. The Evening of a Long Day
 
 
-That illustrious man and great national ornament, Mr Merdle, continued
+That illustrious man and great national ornament, [[Mr Merdle]], continued
 his shining course. It began to be widely understood that one who had
 done society the admirable service of making so much money out of it,
 could not be suffered to remain a commoner. A baronetcy was spoken of
 with confidence; a peerage was frequently mentioned. Rumour had it
-that Mr Merdle had set his golden face against a baronetcy; that he had
+that [[Mr Merdle]] had set his golden face against a baronetcy; that he had
 plainly intimated to Lord Decimus that a baronetcy was not enough
 for him; that he had said, ‘No--a Peerage, or plain Merdle.’ This was
 reported to have plunged Lord Decimus as nigh to his noble chin in a
@@ -37,21 +37,21 @@ into collision with that of the master spirit. Right or wrong, Rumour
 was very busy; and Lord Decimus, while he was, or was supposed to be, in
 stately excogitation of the difficulty, lent her some countenance by
 taking, on several public occasions, one of those elephantine trots of
-his through a jungle of overgrown sentences, waving Mr Merdle about on
+his through a jungle of overgrown sentences, waving [[Mr Merdle]] about on
 his trunk as Gigantic Enterprise, The Wealth of England, Elasticity,
 Credit, Capital, Prosperity, and all manner of blessings.
 
 So quietly did the mowing of the old scythe go on, that fully three
 months had passed unnoticed since the two English brothers had been laid
 in one tomb in the strangers’ cemetery at Rome. Mr and Mrs Sparkler were
-established in their own house: a little mansion, rather of the Tite
+established in their own [[house]]: a little mansion, rather of the Tite
 Barnacle class, quite a triumph of inconvenience, with a perpetual smell
 in it of the day before yesterday’s soup and coach-horses, but extremely
 dear, as being exactly in the centre of the habitable globe. In this
 enviable abode (and envied it really was by many people), Mrs Sparkler
 had intended to proceed at once to the demolition of the Bosom, when
 active hostilities had been suspended by the arrival of the Courier with
-his tidings of death. Mrs Sparkler, who was not unfeeling, had received
+his tidings of [[Death|death]]. Mrs Sparkler, who was not unfeeling, had received
 them with a violent burst of grief, which had lasted twelve hours;
 after which, she had arisen to see about her mourning, and to take every
 precaution that could ensure its being as becoming as Mrs Merdle’s. A
@@ -59,23 +59,23 @@ gloom was then cast over more than one distinguished family (according
 to the politest sources of intelligence), and the Courier went back
 again.
 
-Mr and Mrs Sparkler had been dining alone, with their gloom cast over
+Mr and Mrs Sparkler had been dining [[Alone|alone]], with their gloom cast over
 them, and Mrs Sparkler reclined on a drawing-room sofa. It was a hot
-summer Sunday evening. The residence in the centre of the habitable
+[[Summer|summer]] [[Sunday]] evening. The residence in the centre of the habitable
 globe, at all times stuffed and close as if it had an incurable cold in
-its head, was that evening particularly stifling. The bells of the
+its head, was that evening particularly stifling. [[The Bells|The bells]] of the
 churches had done their worst in the way of clanging among the
 unmelodious echoes of the streets, and the lighted windows of the
 churches had ceased to be yellow in the grey dusk, and had died out
 opaque black. Mrs Sparkler, lying on her sofa, looking through an open
-window at the opposite side of a narrow street over boxes of mignonette
-and flowers, was tired of the view. Mrs Sparkler, looking at another
-window where her husband stood in the balcony, was tired of that view.
+[[Window|window]] at the opposite side of a narrow street over boxes of mignonette
+and [[Flowers|flowers]], was tired of the view. Mrs Sparkler, looking at another
+[[Window|window]] where her husband stood in the balcony, was tired of that view.
 Mrs Sparkler, looking at herself in her mourning, was even tired of that
 view: though, naturally, not so tired of that as of the other two.
 
-‘It’s like lying in a well,’ said Mrs Sparkler, changing her position
-fretfully. ‘Dear me, Edmund, if you have anything to say, why don’t you
+‘It’s like lying in a [[Well|well]],’ said Mrs Sparkler, changing her position
+fretfully. ‘Dear me, [[Edmund]], if you have anything to say, why don’t you
 say it?’
 
 Mr Sparkler might have replied with ingenuousness, ‘My life, I have
@@ -83,15 +83,15 @@ nothing to say.’ But, as the repartee did not occur to him, he contented
 himself with coming in from the balcony and standing at the side of his
 wife’s couch.
 
-‘Good gracious, Edmund!’ said Mrs Sparkler more fretfully still, ‘you are
+‘Good gracious, [[Edmund]]!’ said Mrs Sparkler more fretfully still, ‘you are
 absolutely putting mignonette up your nose! Pray don’t!’
 
 Mr Sparkler, in absence of mind--perhaps in a more literal absence of
 mind than is usually understood by the phrase--had smelt so hard at a
 sprig in his hand as to be on the verge of the offence in question. He
-smiled, said, ‘I ask your pardon, my dear,’ and threw it out of window.
+smiled, said, ‘I ask your pardon, my dear,’ and threw it out of [[Window|window]].
 
-‘You make my head ache by remaining in that position, Edmund,’ said Mrs
+‘You make my head ache by remaining in that position, [[Edmund]],’ said Mrs
 Sparkler, raising her eyes to him after another minute; ‘you look so
 aggravatingly large by this light. Do sit down.’
 
@@ -102,10 +102,10 @@ spot.
 a dreary manner, ‘I should have felt certain this was the longest day. I
 never did experience such a day.’
 
-‘Is that your fan, my love?’ asked Mr Sparkler, picking up one and
+‘Is that your fan, my [[Love|love]]?’ asked Mr Sparkler, picking up one and
 presenting it.
 
-‘Edmund,’ returned his wife, more wearily yet, ‘don’t ask weak
+‘[[Edmund]],’ returned his wife, more wearily yet, ‘don’t ask weak
 questions, I entreat you not. Whose can it be but mine?’
 
 ‘Yes, I thought it was yours,’ said Mr Sparkler.
@@ -127,5 +127,5 @@ And she is, as I believe you are aware, a remarkably fine woman, with no
 non--’
 
 ‘Good Gracious!’ exclaimed Fanny, starting up again. ‘It’s beyond all
-patience! This is the most wearisome day that ever did dawn upon the
+patience! This is the most wearisome day that ever did [[Dawn|dawn]] upon the
 world, I am certain.’

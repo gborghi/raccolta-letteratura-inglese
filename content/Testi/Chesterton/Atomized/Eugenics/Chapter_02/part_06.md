@@ -1,5 +1,5 @@
 ---
-title: "Eugenics — Part 1 (part 6)"
+title: "[[Eugenics]] — Part 1 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Eugenics-(Chesterton)"
@@ -28,11 +28,11 @@ was segregated because he was curable or because he was incurable.
 The meanest Thomist of the mediaeval monasteries would have the sense
 to see that you cannot discuss a madman when you have not discussed
 a man.  The most owlish Calvinist commentator in the seventeenth
-century would ask the Eugenist to reconcile such Bible texts
-as derided fools with the other Bible texts that praised them.
-The dullest shopkeeper in Paris in l790 would have asked what were
-the Rights of Man, if they did not include the rights of the lover,
-the husband, and the father.  It is only in our own London Particular
+century would ask the Eugenist to reconcile such [[Bible]] texts
+as derided fools with the other [[Bible]] texts that praised them.
+The dullest shopkeeper in [[Paris]] in l790 would have asked what were
+the Rights of Man, if they did not include the rights of the [[Lover|lover]],
+the husband, and the father.  It is only in our own [[London]] Particular
 (as Mr. Guppy said of the fog) that small figures can loom so large
 in the vapour, and even mingle with quite different figures,
 and have the appearance of a mob.  But, above all, I have dwelt
@@ -42,21 +42,21 @@ will not believe in the abominations we have to combat.
 
 One of those wise old fairy tales, that come from nowhere
 and flourish everywhere, tells how a man came to own a small
-magic machine like a coffee-mill, which would grind anything
+[[Magic|magic]] [[Machine|machine]] like a coffee-mill, which would grind anything
 he wanted when he said one word and stop when he said another.
-After performing marvels (which I wish my conscience would let
+After performing marvels (which I wish my [[Conscience|conscience]] would let
 me put into this book for padding) the mill was merely asked
-to grind a few grains of salt at an officers' mess on board ship;
+to grind a few grains of salt at an officers' mess on board [[Ship|ship]];
 for salt is the type everywhere of small luxury and exaggeration,
 and sailors' tales should be taken with a grain of it.
 The man remembered the word that started the salt mill, and then,
 touching the word that stopped it, suddenly remembered that he forgot.
-The tall ship sank, laden and sparkling to the topmasts with salt like
-Arctic snows; but the mad mill was still grinding at the ocean bottom,
+The tall [[Ship|ship]] sank, laden and sparkling to the topmasts with salt like
+Arctic snows; but the mad mill was still grinding at the ocean [[Bottom|bottom]],
 where all the men lay drowned.  And that (so says this fairy tale)
 is why the great waters about our world have a bitter taste.
 For the fairy tales knew what the modern mystics don't ---
-that one should not let loose either the supernatural or the natural.
+that one should not let loose either the [[Supernatural|supernatural]] or the natural.
 
 ---/---
 
@@ -74,7 +74,7 @@ unhang the first man, though the first man might not think so.
 Or thus again, if you say an insane man is irresponsible, you imply
 that a sane man is responsible.  He is responsible for the insane man.
 And the attempt of the Eugenists and other fatalists to treat all men
-as irresponsible is the largest and flattest folly in philosophy.
+as irresponsible is the largest and flattest folly in [[philosophy]].
 The Eugenist has to treat everybody, including himself, as an exception
 to a rule that isn't there.
 
@@ -85,8 +85,8 @@ relation to human society.  Now that raw juvenile scepticism
 that clogs all thought with catchwords may often be heard to remark
 that the mad are only the minority, the sane only the majority.
 There is a neat exactitude about such people's nonsense; they seem
-to miss the point by magic.  The mad are not a minority because they
-are not a corporate body; and that is what their madness means.
+to miss the point by [[Magic|magic]].  The mad are not a minority because they
+are not a corporate [[Body|body]]; and that is what their [[Madness|madness]] means.
 The sane are not a majority; they are mankind.  And mankind
 (as its name would seem to imply) is a kind, not a degree.
 In so far as the lunatic differs, he differs from all minorities
@@ -108,7 +108,7 @@ Suppose, if you will, that we are all poets? which seems improbable;
 so that each of us could turn his aspect into a vivid image
 distinct from a tree.  Suppose one says it looks like a green
 cloud and another like a green fountain, and a third like a green
-dragon and the fourth like a green cheese.  The fact remains:
+dragon and the fourth like a green [[cheese]].  The fact remains:
 that they all say it looks like these things.  It is a tree.
 Nor are any of the poets in the least mad because of any opinions
 they may form, however frenzied, about the functions or future
@@ -122,5 +122,5 @@ There is a monstrous exception to mankind.  Why he is so we know not;
 a new theory says it is heredity; an older theory says it is devils.
 But in any case, the spirit of it is the spirit that denies,
 the spirit that really denies realities.  This is the man who looks
-at the tree and does not say it looks like a lion, but says that it
+at the tree and does not say it looks like a [[Lion|lion]], but says that it
 is a lamp-post.

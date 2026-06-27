@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered-8 — ANONYMITY AND FURTHER COUNSELS"
+title: "[[AllThingsConsidered-8]] — ANONYMITY AND FURTHER COUNSELS"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
@@ -17,9 +17,9 @@ tags:
 ANONYMITY AND FURTHER COUNSELS
 
 The end of the article which I write is always cut off,
-and, unfortunately, I belong to that lower class of animals in whom
+and, unfortunately, I belong to that lower class of [[Animals|animals]] in whom
 the tail is important.  It is not anybody's fault but my own;
-it arises from the fact that I take such a long time to get
+it arises from the fact that I take such a long [[Time|time]] to get
 to the point.  Somebody, the other day, very reasonably complained
 of my being employed to write prefaces.  He was perfectly right,
 for I always write a preface to the preface, and then I am stopped;
@@ -35,9 +35,9 @@ It was at this point that I was cut short, I will not say by the law
 of space, but rather by my own lawlessness in the matter of space.
 In any case, there is something more that ought to be said.
 
-It would be an exaggeration to say that I hope some day to see an
+It would be an exaggeration to say that I [[Hope|hope]] some day to see an
 anonymous article counted as dishonourable as an anonymous letter.
-For some time to come, the idea of the leading article, expressing
+For some [[Time|time]] to come, the idea of the leading article, expressing
 the policy of the whole paper, must necessarily remain legitimate;
 at any rate, we have all written such leading articles,
 and should never think the worse of any one for writing one.
@@ -52,7 +52,7 @@ secret the origin of an article is simply part of the conspiracy
 which seeks to put us who are journalists in the position of a much
 worse sort of Jesuits or Freemasons.
 
-As has often been said, anonymity would be all very well if one could
+As has often been said, anonymity would be all very [[Well|well]] if one could
 for a moment imagine that it was established from good motives.
 Suppose, for instance, that we were all quite certain that the men
 on the _Thunderer_ newspaper were a band of brave young idealists
@@ -67,14 +67,14 @@ and becomes the _Thunderer_.  A Socialist who has quarrelled with the
 other Socialists writes anonymously, and he becomes the _Thunderer_.
 A monopolist who has lost his monopoly, and a demagogue who has lost
 his mob, can both write anonymously and become the same newspaper.
-It is quite true that there is a young and beautiful fanaticism
+It is quite true that there is a young and beautiful [[Fanaticism|fanaticism]]
 in which men do not care to reveal their names.  But there is a more
 elderly and a much more common excitement in which men do not dare
 to reveal them.
 
 Then there is another rule for making journalism honest on which I
 should like to insist absolutely.  I should like it to be a fixed
-thing that the name of the proprietor as well as the editor should
+thing that the name of the proprietor as [[Well|well]] as the editor should
 be printed upon every paper.  If the paper is owned by shareholders,
 let there be a list of shareholders.  If (as is far more common
 in this singularly undemocratic age) it is owned by one man,
@@ -113,7 +113,7 @@ servant for the transmitting of public news.  If he suppressed anything,
 he was supposed to have some special reason for doing so;
 as that the material was actually libellous or literally indecent.
 But the modern editor regards himself far too much as a kind
-of original artist, who can select and suppress facts with
+of original [[artist]], who can select and suppress facts with
 the arbitrary ease of a poet or a caricaturist.  He "makes up"
 the paper as man "makes up" a fairy tale, he considers his newspaper
 solely as a work of art, meant to give pleasure, not to give news.
@@ -124,15 +124,15 @@ this other and more dangerous article because he thinks it right.
 The old idea that he is simply a mode of the expression of the public,
 an "organ" of opinion, seems to have entirely vanished from his mind.
 To-day the editor is not only the organ, but the man who plays on
-the organ.  For in all our modern movements we move away from Democracy.
+the organ.  For in all our modern movements we move away from [[democracy|Democracy]].
 
-This is the whole danger of our time.  There is a difference
+This is the whole danger of our [[Time|time]].  There is a difference
 between the oppression which has been too common in the past
 and the oppression which seems only too probable in the future.
 Oppression in the past, has commonly been an individual matter.
 The oppressors were as simple as the oppressed, and as lonely.
-The aristocrat sometimes hated his inferiors; he always
+The [[aristocrat]] sometimes hated his inferiors; he always
 hated his equals.  The plutocrat was an individualist.
-But in our time even the plutocrat has become a Socialist.
+But in our [[Time|time]] even the plutocrat has become a Socialist.
 They have science and combination, and may easily inaugurate a much
 greater tyranny than the world has ever seen.

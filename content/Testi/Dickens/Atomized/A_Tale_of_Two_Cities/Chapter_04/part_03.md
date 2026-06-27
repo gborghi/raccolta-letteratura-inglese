@@ -21,7 +21,7 @@ as a young English lady, Miss Manette?”
 
 “Miss Manette, I am a man of business. I have a business charge to
 acquit myself of. In your reception of it, don’t heed me any more than
-if I was a speaking machine--truly, I am not much else. I will, with
+if I was a speaking [[Machine|machine]]--truly, I am not much else. I will, with
 your leave, relate to you, miss, the story of one of our customers.”
 
 “Story!”
@@ -35,26 +35,26 @@ gentleman; a man of great acquirements--a Doctor.”
 
 “Why, yes, of Beauvais. Like Monsieur Manette, your father, the
 gentleman was of Beauvais. Like Monsieur Manette, your father, the
-gentleman was of repute in Paris. I had the honour of knowing him there.
+gentleman was of repute in [[Paris]]. I had the [[Honour|honour]] of knowing him there.
 Our relations were business relations, but confidential. I was at that
-time in our French House, and had been--oh! twenty years.”
+[[Time|time]] in our French [[house|House]], and had been--oh! twenty years.”
 
-“At that time--I may ask, at what time, sir?”
+“At that [[Time|time]]--I may ask, at what [[Time|time]], sir?”
 
 “I speak, miss, of twenty years ago. He married--an English lady--and
 I was one of the trustees. His affairs, like the affairs of many other
 French gentlemen and French families, were entirely in Tellson’s hands.
 In a similar way I am, or I have been, trustee of one kind or other for
 scores of our customers. These are mere business relations, miss;
-there is no friendship in them, no particular interest, nothing like
+there is no [[Friendship|friendship]] in them, no particular interest, nothing like
 sentiment. I have passed from one to another, in the course of my
 business life, just as I pass from one of our customers to another in
 the course of my business day; in short, I have no feelings; I am a mere
-machine. To go on--”
+[[Machine|machine]]. To go on--”
 
 “But this is my father’s story, sir; and I begin to think”--the
 curiously roughened forehead was very intent upon him--“that when I was
-left an orphan through my mother’s surviving my father only two years,
+left an [[Orphan|orphan]] through my mother’s surviving my father only two years,
 it was you who brought me to England. I am almost sure it was you.”
 
 Mr. Lorry took the hesitating little hand that confidingly advanced
@@ -68,8 +68,8 @@ down into her face while she sat looking up into his.
 just now, in saying I had no feelings, and that all the relations I hold
 with my fellow-creatures are mere business relations, when you reflect
 that I have never seen you since. No; you have been the ward of
-Tellson’s House since, and I have been busy with the other business of
-Tellson’s House since. Feelings! I have no time for them, no chance
+Tellson’s [[house|House]] since, and I have been busy with the other business of
+Tellson’s [[house|House]] since. Feelings! I have no [[Time|time]] for them, no chance
 of them. I pass my whole life, miss, in turning an immense pecuniary
 Mangle.”
 
@@ -95,13 +95,13 @@ Her look so discomposed him that he stopped, wandered, and began anew:
 and silently disappeared; if he had been spirited away; if it had not
 been difficult to guess to what dreadful place, though no art could
 trace him; if he had an enemy in some compatriot who could exercise a
-privilege that I in my own time have known the boldest people afraid
-to speak of in a whisper, across the water there; for instance, the
+privilege that I in my own [[Time|time]] have known the boldest people afraid
+to speak of in a whisper, across the [[Water|water]] there; for instance, the
 privilege of filling up blank forms for the consignment of any one
-to the oblivion of a prison for any length of time; if his wife had
-implored the king, the queen, the court, the clergy, for any tidings of
-him, and all quite in vain;--then the history of your father would have
-been the history of this unfortunate gentleman, the Doctor of Beauvais.”
+to the oblivion of a [[Prison|prison]] for any length of [[Time|time]]; if his wife had
+implored the [[King|king]], the [[Queen|queen]], the [[Court|court]], the clergy, for any tidings of
+him, and all quite in vain;--then the [[history]] of your father would have
+been the [[history]] of this unfortunate gentleman, the Doctor of Beauvais.”
 
 “I entreat you to tell me more, sir.”
 
@@ -113,20 +113,20 @@ moment.”
 “You speak collectedly, and you--_are_ collected. That’s good!” (Though
 his manner was less satisfied than his words.) “A matter of business.
 Regard it as a matter of business--business that must be done. Now
-if this doctor’s wife, though a lady of great courage and spirit,
-had suffered so intensely from this cause before her little child was
+if this doctor’s wife, though a lady of great [[Courage|courage]] and spirit,
+had suffered so intensely from this cause before her little [[Child|child]] was
 born--”
 
-“The little child was a daughter, sir.”
+“The little [[Child|child]] was a daughter, sir.”
 
 “A daughter. A-a-matter of business--don’t be distressed. Miss, if the
-poor lady had suffered so intensely before her little child was born,
-that she came to the determination of sparing the poor child the
+poor lady had suffered so intensely before her little [[Child|child]] was born,
+that she came to the determination of sparing the poor [[Child|child]] the
 inheritance of any part of the agony she had known the pains of, by
 rearing her in the belief that her father was dead--No, don’t kneel! In
 Heaven’s name why should you kneel to me!”
 
-“For the truth. O dear, good, compassionate sir, for the truth!”
+“For the [[Truth|truth]]. O dear, good, compassionate sir, for the [[Truth|truth]]!”
 
 “A--a matter of business. You confuse me, and how can I transact
 business if I am confused? Let us be clear-headed. If you could kindly
@@ -137,4 +137,4 @@ much more at my ease about your state of mind.”
 Without directly answering to this appeal, she sat so still when he had
 very gently raised her, and the hands that had not ceased to clasp
 his wrists were so much more steady than they had been, that she
-communicated some reassurance to Mr. Jarvis Lorry.
+communicated some reassurance to Mr. [[Jarvis Lorry]].

@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 16 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 16 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘Here’s another,’ remarked Tom, turning over the leaves. ‘“Family of Mr
+‘Here’s another,’ remarked Tom, turning over the [[Leaves|leaves]]. ‘“Family of Mr
 Gallanbile, MP. Fifteen guineas, tea and sugar, and servants allowed
 to see male cousins, if godly. Note. Cold dinner in the kitchen on the
 Sabbath, Mr. Gallanbile being devoted to the Observance question. No
@@ -23,7 +23,7 @@ for Mr. and Mrs. Gallanbile, which, being a work of piety and necessity,
 is exempted. Mr. Gallanbile dines late on the day of rest, in order to
 prevent the sinfulness of the cook’s dressing herself.”’
 
-‘I don’t think that’ll answer as well as the other,’ said the client,
+‘I don’t think that’ll answer as [[Well|well]] as the other,’ said the client,
 after a little whispering with her friend. ‘I’ll take the other
 direction, if you please, young man. I can but come back again, if it
 don’t do.’
@@ -42,7 +42,7 @@ delicate figure, but exquisitely shaped, who, walking timidly up to the
 desk, made an inquiry, in a very low tone of voice, relative to some
 situation as governess, or companion to a lady. She raised her veil, for
 an instant, while she preferred the inquiry, and disclosed a countenance
-of most uncommon beauty, though shaded by a cloud of sadness, which, in
+of most uncommon [[Beauty|beauty]], though shaded by a cloud of sadness, which, in
 one so young, was doubly remarkable. Having received a card of reference
 to some person on the books, she made the usual acknowledgment, and
 glided away.
@@ -67,7 +67,7 @@ book-keeper.
 
 ‘When is she coming again, Tom?’ asked the fat lady.
 
-‘Tomorrow morning,’ replied Tom, mending his pen.
+‘Tomorrow morning,’ replied Tom, [[mending]] his pen.
 
 ‘Where have you sent her to?’ asked the fat lady.
 
@@ -88,7 +88,7 @@ such post to be had, as secretary or amanuensis to a gentleman.
 
 ‘I should think so,’ answered that young gentleman; and as he said it,
 he winked towards Nicholas, with a degree of familiarity which he,
-no doubt, intended for a rather flattering compliment, but with which
+no [[Doubt|doubt]], intended for a rather flattering compliment, but with which
 Nicholas was most ungratefully disgusted.
 
 Upon reference to the book, it appeared that the dozen secretaryships
@@ -133,11 +133,11 @@ be those of the beautiful girl he had seen, Nicholas, with many wrong
 turns, and many inquiries, and almost as many misdirections, bent his
 steps towards the place whither he had been directed.
 
-Within the precincts of the ancient city of Westminster, and within
+Within the precincts of the ancient [[City|city]] of Westminster, and within
 half a quarter of a mile of its ancient sanctuary, is a narrow and dirty
 region, the sanctuary of the smaller members of Parliament in modern
 days. It is all comprised in one street of gloomy lodging-houses, from
-whose windows, in vacation-time, there frown long melancholy rows of
+whose windows, in vacation-[[Time|time]], there frown long [[Melancholy|melancholy]] rows of
 bills, which say, as plainly as did the countenances of their occupiers,
 ranged on ministerial and opposition benches in the session which
 slumbers with its fathers, ‘To Let’, ‘To Let’. In busier periods of the
@@ -147,11 +147,11 @@ the third, in the garrets; the small apartments reek with the breath of
 deputations and delegates. In damp weather, the place is rendered close,
 by the steams of moist acts of parliament and frouzy petitions; general
 postmen grow faint as they enter its infected limits, and shabby figures
-in quest of franks, flit restlessly to and fro like the troubled ghosts
+in [[Quest|quest]] of franks, flit restlessly to and fro like the troubled [[Ghosts|ghosts]]
 of Complete Letter-writers departed. This is Manchester Buildings; and
-here, at all hours of the night, may be heard the rattling of latch-keys
-in their respective keyholes: with now and then--when a gust of wind
-sweeping across the water which washes the Buildings’ feet, impels the
+here, at all hours of the [[Night|night]], may be heard the rattling of latch-keys
+in their respective keyholes: with now and then--when a gust of [[Wind|wind]]
+sweeping across the [[Water|water]] which washes the Buildings’ feet, impels the
 sound towards its entrance--the weak, shrill voice of some young member
 practising tomorrow’s speech. All the livelong day, there is a grinding
 of organs and clashing and clanging of little boxes of music; for

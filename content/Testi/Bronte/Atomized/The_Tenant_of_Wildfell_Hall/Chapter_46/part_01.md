@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 46 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 46 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -34,13 +34,13 @@ Millwards and Wilsons, and such was my present appreciation of Eliza
 
 Millward’s disposition, that, if once she got a clue to the story, I
 
-should fear she would soon find means to enlighten Mr. Huntingdon upon
+should [[Fear|fear]] she would soon find means to enlighten Mr. Huntingdon upon
 
 the place of his wife’s retreat. I would therefore wait patiently till
 
 these weary six months were over, and then, when the fugitive had found
 
-another home, and I was permitted to write to her, I would beg to be
+another [[Home|home]], and I was permitted to write to her, I would beg to be
 
 allowed to clear her name from these vile calumnies: at present I must
 
@@ -68,11 +68,11 @@ thought I could not, though sometimes I felt a pang of remorse for my
 
 undutiful conduct to her, and made an effort to amend, attended with
 
-some partial success; and indeed I was generally more humanised in my
+some partial [[success]]; and indeed I was generally more humanised in my
 
-demeanour to her than to any one else, Mr. Lawrence excepted. Rose and
+demeanour to her than to any one else, Mr. Lawrence excepted. [[Rose]] and
 
-Fergus usually shunned my presence; and it was well they did, for I was
+Fergus usually shunned my presence; and it was [[Well|well]] they did, for I was
 
 not fit company for them, nor they for me, under the present
 
@@ -82,9 +82,9 @@ circumstances.
 
 Mrs. Huntingdon did not leave Wildfell Hall till above two months after
 
-our farewell interview. During that time she never appeared at church,
+our farewell interview. During that [[Time|time]] she never appeared at church,
 
-and I never went near the house: I only knew she was still there by her
+and I never went near the [[house]]: I only knew she was still there by her
 
 brother’s brief answers to my many and varied inquiries respecting her.
 
@@ -92,7 +92,7 @@ I was a very constant and attentive visitor to him throughout the whole
 
 period of his illness and convalescence; not only from the interest I
 
-took in his recovery, and my desire to cheer him up and make the utmost
+took in his recovery, and my [[Desire|desire]] to cheer him up and make the utmost
 
 possible amends for my former “brutality,” but from my growing
 
@@ -100,9 +100,9 @@ attachment to himself, and the increasing pleasure I found in his
 
 society—partly from his increased cordiality to me, but chiefly on
 
-account of his close connection, both in blood and in affection, with
+account of his close connection, both in [[Blood|blood]] and in affection, with
 
-my adored Helen. I loved him for it better than I liked to express: and
+my adored [[Helen]]. I loved him for it better than I liked to express: and
 
 I took a secret delight in pressing those slender white fingers, so
 
@@ -126,9 +126,9 @@ His recovery was not quite so rapid as he had expected it to be; he was
 
 not able to mount his pony till a fortnight after the date of our
 
-reconciliation; and the first use he made of his returning strength was
+[[Reconciliation|reconciliation]]; and the first use he made of his returning strength was
 
-to ride over by night to Wildfell Hall, to see his sister. It was a
+to ride over by [[Night|night]] to Wildfell Hall, to see his sister. It was a
 
 hazardous enterprise both for him and for her, but he thought it
 
@@ -142,7 +142,7 @@ of the visit but the inmates of the old Hall, except myself; and I
 
 believe it had not been his intention to mention it to me, for when I
 
-came to see him the next day, and observed he was not so well as he
+came to see him the next day, and observed he was not so [[Well|well]] as he
 
 ought to have been, he merely said he had caught cold by being out too
 
@@ -186,13 +186,13 @@ the venture, and with what precautions he had made it.
 
 “She is not positively ill,” returned he; “and she will recover her
 
-spirits in a while, I have no doubt—but so many trials have been almost
+spirits in a while, I have no [[Doubt|doubt]]—but so many trials have been almost
 
 too much for her. How threatening those clouds look,” continued he,
 
-turning towards the window. “We shall have thunder-showers before
+turning towards the [[Window|window]]. “We shall have thunder-showers before
 
-night, I imagine, and they are just in the midst of stacking my corn.
+[[Night|night]], I imagine, and they are just in the midst of stacking my corn.
 
 Have you got yours all in yet?”
 
@@ -218,7 +218,7 @@ conversation was chiefly on the subject of her intended departure,
 
 which I begged her to delay till I was better able to assist her in her
 
-search after another home.”
+search after another [[Home|home]].”
 
 
 

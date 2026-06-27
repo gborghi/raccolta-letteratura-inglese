@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 16"
+title: "[[Wuthering Heights]] — Chapter 16"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -17,13 +17,13 @@ tags:
 CHAPTER XVI
 
 
-About twelve o’clock that night was born the Catherine you saw at
-Wuthering Heights: a puny, seven-months’ child; and two hours after the
+About twelve o’[[Clock|clock]] that [[Night|night]] was born the Catherine you saw at
+[[Wuthering Heights]]: a puny, seven-months’ [[Child|child]]; and two hours after the
 mother died, having never recovered sufficient consciousness to miss
-Heathcliff, or know Edgar. The latter’s distraction at his bereavement
+[[Heathcliff]], or know [[Edgar]]. The latter’s distraction at his bereavement
 is a subject too painful to be dwelt on; its after-effects showed how
 deep the sorrow sunk. A great addition, in my eyes, was his being left
-without an heir. I bemoaned that, as I gazed on the feeble orphan; and
+without an heir. I bemoaned that, as I gazed on the feeble [[Orphan|orphan]]; and
 I mentally abused old Linton for (what was only natural partiality) the
 securing his estate to his own daughter, instead of his son’s. An
 unwelcomed infant it was, poor thing! It might have wailed out of life,
@@ -33,7 +33,7 @@ its end is likely to be.
 
 Next morning—bright and cheerful out of doors—stole softened in through
 the blinds of the silent room, and suffused the couch and its occupant
-with a mellow, tender glow. Edgar Linton had his head laid on the
+with a mellow, tender glow. [[Edgar Linton]] had his head laid on the
 pillow, and his eyes shut. His young and fair features were almost as
 deathlike as those of the form beside him, and almost as fixed: but
 _his_ was the hush of exhausted anguish, and _hers_ of perfect peace.
@@ -43,19 +43,19 @@ And I partook of the infinite calm in which she lay: my mind was never
 in a holier frame than while I gazed on that untroubled image of Divine
 rest. I instinctively echoed the words she had uttered a few hours
 before: “Incomparably beyond and above us all! Whether still on earth
-or now in heaven, her spirit is at home with God!”
+or now in heaven, her spirit is at [[Home|home]] with God!”
 
 I don’t know if it be a peculiarity in me, but I am seldom otherwise
-than happy while watching in the chamber of death, should no frenzied
+than happy while watching in the chamber of [[Death|death]], should no frenzied
 or despairing mourner share the duty with me. I see a repose that
 neither earth nor hell can break, and I feel an assurance of the
-endless and shadowless hereafter—the Eternity they have entered—where
-life is boundless in its duration, and love in its sympathy, and joy in
+endless and shadowless hereafter—the [[Eternity]] they have entered—where
+life is boundless in its duration, and [[Love|love]] in its sympathy, and joy in
 its fulness. I noticed on that occasion how much selfishness there is
-even in a love like Mr. Linton’s, when he so regretted Catherine’s
+even in a [[Love|love]] like Mr. Linton’s, when he so regretted Catherine’s
 blessed release! To be sure, one might have doubted, after the wayward
 and impatient existence she had led, whether she merited a haven of
-peace at last. One might doubt in seasons of cold reflection; but not
+peace at last. One might [[Doubt|doubt]] in [[Seasons|seasons]] of cold reflection; but not
 then, in the presence of her corpse. It asserted its own tranquillity,
 which seemed a pledge of equal quiet to its former inhabitant.
 
@@ -65,14 +65,14 @@ give a great deal to know.
 I declined answering Mrs. Dean’s question, which struck me as something
 heterodox. She proceeded:
 
-Retracing the course of Catherine Linton, I fear we have no right to
+Retracing the course of Catherine Linton, I [[Fear|fear]] we have no right to
 think she is; but we’ll leave her with her Maker.
 
 The master looked asleep, and I ventured soon after sunrise to quit the
 room and steal out to the pure refreshing air. The servants thought me
 gone to shake off the drowsiness of my protracted watch; in reality, my
-chief motive was seeing Mr. Heathcliff. If he had remained among the
-larches all night, he would have heard nothing of the stir at the
+chief motive was seeing Mr. [[Heathcliff]]. If he had remained among the
+larches all [[Night|night]], he would have heard nothing of the stir at the
 Grange; unless, perhaps, he might catch the gallop of the messenger
 going to Gimmerton. If he had come nearer, he would probably be aware,
 from the lights flitting to and fro, and the opening and shutting of
@@ -82,13 +82,13 @@ it over; but _how_ to do it I did not know. He was there—at least, a
 few yards further in the park; leant against an old ash-tree, his hat
 off, and his hair soaked with the dew that had gathered on the budded
 branches, and fell pattering round him. He had been standing a long
-time in that position, for I saw a pair of ousels passing and repassing
+[[Time|time]] in that position, for I saw a pair of ousels passing and repassing
 scarcely three feet from him, busy in building their nest, and
 regarding his proximity no more than that of a piece of timber. They
 flew off at my approach, and he raised his eyes and spoke:—“She’s
 dead!” he said; “I’ve not waited for you to learn that. Put your
 handkerchief away—don’t snivel before me. Damn you all! she wants none
-of _your_ tears!”
+of _your_ [[Tears|tears]]!”
 
 I was weeping as much for him as her: we do sometimes pity creatures
 that have none of the feeling either for themselves or others. When I
@@ -98,11 +98,11 @@ quelled and he prayed, because his lips moved and his gaze was bent on
 the ground.
 
 “Yes, she’s dead!” I answered, checking my sobs and drying my cheeks.
-“Gone to heaven, I hope; where we may, every one, join her, if we take
+“Gone to heaven, I [[Hope|hope]]; where we may, every one, join her, if we take
 due warning and leave our evil ways to follow good!”
 
-“Did _she_ take due warning, then?” asked Heathcliff, attempting a
-sneer. “Did she die like a saint? Come, give me a true history of the
+“Did _she_ take due warning, then?” asked [[Heathcliff]], attempting a
+sneer. “Did she die like a saint? Come, give me a true [[history]] of the
 event. How did—?”
 
 He endeavoured to pronounce the name, but could not manage it; and
@@ -113,19 +113,19 @@ hardihood, to have a support behind him; for, after the struggle, he
 trembled, in spite of himself, to his very finger-ends.
 
 “Poor wretch!” I thought; “you have a heart and nerves the same as your
-brother men! Why should you be anxious to conceal them? Your pride
+brother men! Why should you be anxious to conceal them? Your [[Pride|pride]]
 cannot blind God! You tempt him to wring them, till he forces a cry of
 humiliation.”
 
-“Quietly as a lamb!” I answered, aloud. “She drew a sigh, and stretched
-herself, like a child reviving, and sinking again to sleep; and five
+“Quietly as a [[Lamb|lamb]]!” I answered, aloud. “She drew a sigh, and stretched
+herself, like a [[Child|child]] reviving, and sinking again to [[Sleep|sleep]]; and five
 minutes after I felt one little pulse at her heart, and nothing more!”
 
 “And—did she ever mention me?” he asked, hesitating, as if he dreaded
 the answer to his question would introduce details that he could not
 bear to hear.
 
-“Her senses never returned: she recognised nobody from the time you
+“Her senses never returned: she recognised nobody from the [[Time|time]] you
 left her,” I said. “She lies with a sweet smile on her face; and her
 latest ideas wandered back to pleasant early days. Her life closed in a
 gentle dream—may she wake as kindly in the other world!”
@@ -134,29 +134,29 @@ gentle dream—may she wake as kindly in the other world!”
 his foot, and groaning in a sudden paroxysm of ungovernable passion.
 “Why, she’s a liar to the end! Where is she? Not _there_—not in
 heaven—not perished—where? Oh! you said you cared nothing for my
-sufferings! And I pray one prayer—I repeat it till my tongue
-stiffens—Catherine Earnshaw, may you not rest as long as I am living;
+sufferings! And I pray one [[Prayer|prayer]]—I repeat it till my tongue
+stiffens—[[Catherine Earnshaw]], may you not rest as long as I am living;
 you said I killed you—haunt me, then! The murdered _do_ haunt their
-murderers, I believe. I know that ghosts _have_ wandered on earth. Be
+murderers, I believe. I know that [[Ghosts|ghosts]] _have_ wandered on earth. Be
 with me always—take any form—drive me mad! only _do_ not leave me in
 this abyss, where I cannot find you! Oh, God! it is unutterable! I
-_cannot_ live without my life! I _cannot_ live without my soul!”
+_cannot_ live without my life! I _cannot_ live without my [[Soul|soul]]!”
 
 He dashed his head against the knotted trunk; and, lifting up his eyes,
-howled, not like a man, but like a savage beast being goaded to death
-with knives and spears. I observed several splashes of blood about the
+howled, not like a man, but like a savage beast being goaded to [[Death|death]]
+with knives and spears. I observed several splashes of [[Blood|blood]] about the
 bark of the tree, and his hand and forehead were both stained; probably
 the scene I witnessed was a repetition of others acted during the
-night. It hardly moved my compassion—it appalled me: still, I felt
+[[Night|night]]. It hardly moved my compassion—it appalled me: still, I felt
 reluctant to quit him so. But the moment he recollected himself enough
 to notice me watching, he thundered a command for me to go, and I
 obeyed. He was beyond my skill to quiet or console!
 
 Mrs. Linton’s funeral was appointed to take place on the Friday
 following her decease; and till then her coffin remained uncovered, and
-strewn with flowers and scented leaves, in the great drawing-room.
+strewn with [[Flowers|flowers]] and scented [[Leaves|leaves]], in the great drawing-room.
 Linton spent his days and nights there, a sleepless guardian; and—a
-circumstance concealed from all but me—Heathcliff spent his nights, at
+circumstance concealed from all but me—[[Heathcliff]] spent his nights, at
 least, outside, equally a stranger to repose. I held no communication
 with him; still, I was conscious of his design to enter, if he could;
 and on the Tuesday, a little after dark, when my master, from sheer
@@ -169,14 +169,14 @@ Indeed, I shouldn’t have discovered that he had been there, except for
 the disarrangement of the drapery about the corpse’s face, and for
 observing on the floor a curl of light hair, fastened with a silver
 thread; which, on examination, I ascertained to have been taken from a
-locket hung round Catherine’s neck. Heathcliff had opened the trinket
+locket hung round Catherine’s neck. [[Heathcliff]] had opened the trinket
 and cast out its contents, replacing them by a black lock of his own. I
 twisted the two, and enclosed them together.
 
 Mr. Earnshaw was, of course, invited to attend the remains of his
-sister to the grave; he sent no excuse, but he never came; so that,
+sister to the [[Grave|grave]]; he sent no excuse, but he never came; so that,
 besides her husband, the mourners were wholly composed of tenants and
-servants. Isabella was not asked.
+servants. [[Isabella]] was not asked.
 
 The place of Catherine’s interment, to the surprise of the villagers,
 was neither in the chapel under the carved monument of the Lintons, nor

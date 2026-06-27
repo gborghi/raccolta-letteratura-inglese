@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 1 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 1 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-After that Rose favoured me with further particulars respecting Mrs.
+After that [[Rose]] favoured me with further particulars respecting Mrs.
 
 Graham. Her appearance, manners, and dress, and the very furniture of
 
@@ -26,7 +26,7 @@ very attentive listener, I could not repeat the description if I would.
 
 
 
-The next day was Saturday; and, on Sunday, everybody wondered whether
+The next day was Saturday; and, on [[Sunday]], everybody wondered whether
 
 or not the fair unknown would profit by the vicar’s remonstrance, and
 
@@ -52,11 +52,11 @@ ringlets, a style of coiffure rather unusual in those days, but always
 
 graceful and becoming; her complexion was clear and pale; her eyes I
 
-could not see, for, being bent upon her prayer-book, they were
+could not see, for, being bent upon her [[Prayer|prayer]]-book, they were
 
 concealed by their drooping lids and long black lashes, but the brows
 
-above were expressive and well defined; the forehead was lofty and
+above were expressive and [[Well|well]] defined; the forehead was lofty and
 
 intellectual, the nose, a perfect aquiline and the features, in
 
@@ -70,7 +70,7 @@ betokened, I thought, no very soft or amiable temper; and I said in my
 
 heart—“I would rather admire you from this distance, fair lady, than be
 
-the partner of your home.”
+the partner of your [[Home|home]].”
 
 
 
@@ -100,7 +100,7 @@ mind to the service, I glanced round the church to see if any one had
 
 been observing me;—but no,—all, who were not attending to their
 
-prayer-books, were attending to the strange lady,—my good mother and
+[[Prayer|prayer]]-books, were attending to the strange lady,—my good mother and
 
 sister among the rest, and Mrs. Wilson and her daughter; and even Eliza
 
@@ -108,13 +108,13 @@ Millward was slily glancing from the corners of her eyes towards the
 
 object of general attraction. Then she glanced at me, simpered a
 
-little, and blushed, modestly looked at her prayer-book, and
+little, and blushed, modestly looked at her [[Prayer|prayer]]-book, and
 
 endeavoured to compose her features.
 
 
 
-Here I was transgressing again; and this time I was made sensible of it
+Here I was transgressing again; and this [[Time|time]] I was made sensible of it
 
 by a sudden dig in the ribs, from the elbow of my pert brother. For the
 
@@ -178,15 +178,15 @@ patiently nursed their mother, through her last long, tedious illness,
 
 and been the housekeeper, and family drudge, from thence to the present
 
-time. She was trusted and valued by her father, loved and courted by
+[[Time|time]]. She was trusted and valued by her father, loved and courted by
 
-all dogs, cats, children, and poor people, and slighted and neglected
+all [[dogs]], cats, children, and poor people, and slighted and neglected
 
 by everybody else.
 
 
 
-The Reverend Michael Millward himself was a tall, ponderous elderly
+The Reverend [[Michael]] Millward himself was a tall, ponderous elderly
 
 gentleman, who placed a shovel hat above his large, square,
 
@@ -206,10 +206,10 @@ ignorant, or wilfully blind.
 
 
 
-In childhood, I had always been accustomed to regard him with a feeling
+In [[Childhood|childhood]], I had always been accustomed to regard him with a feeling
 
 of reverential awe—but lately, even now, surmounted, for, though he had
 
-a fatherly kindness for the well-behaved, he was a strict
+a fatherly kindness for the [[Well|well]]-behaved, he was a strict
 
 disciplinarian, and had often sternly reproved our juvenile failings

@@ -1,5 +1,5 @@
 ---
-title: "Richard II — Act I, Scene 3 — exchange (LORD MARSHAL) [3]"
+title: "[[Richard II]] — Act I, Scene 3 — exchange (LORD MARSHAL) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/RICHARD-II-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| LORD MARSHAL | Sound trumpets, and set forward combatants! A charge is sounded. King Richard throws down his warder Stay, the King hath thrown his warder down. |
+| LORD MARSHAL | Sound trumpets, and set forward combatants! A charge is sounded. [[King]] [[Richard]] throws down his warder Stay, the [[King]] hath thrown his warder down. |

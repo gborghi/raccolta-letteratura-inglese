@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 19"
+title: "[[Northanger Abbey]] — Chapter 19"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -24,11 +24,11 @@ A few days passed away, and Catherine, though not allowing herself to
 
 suspect her friend, could not help watching her closely. The result of
 
-her observations was not agreeable. Isabella seemed an altered
+her observations was not agreeable. [[Isabella]] seemed an altered
 
 creature. When she saw her, indeed, surrounded only by their immediate
 
-friends in Edgar’s Buildings or Pulteney Street, her change of manners
+friends in [[Edgar]]’s Buildings or Pulteney Street, her change of manners
 
 was so trifling that, had it gone no farther, it might have passed
 
@@ -48,13 +48,13 @@ with James in her notice and smiles, the alteration became too positive
 
 to be passed over. What could be meant by such unsteady conduct, what
 
-her friend could be at, was beyond her comprehension. Isabella could
+her friend could be at, was beyond her comprehension. [[Isabella]] could
 
-not be aware of the pain she was inflicting; but it was a degree of
+not be aware of the [[Pain|pain]] she was inflicting; but it was a degree of
 
 wilful thoughtlessness which Catherine could not but resent. James was
 
-the sufferer. She saw him grave and uneasy; and however careless of his
+the sufferer. She saw him [[Grave|grave]] and uneasy; and however careless of his
 
 present comfort the woman might be who had given him her heart, to
 
@@ -68,7 +68,7 @@ his approaching disappointment; for, in spite of what she had believed
 
 herself to overhear in the pump-room, his behaviour was so incompatible
 
-with a knowledge of Isabella’s engagement that she could not, upon
+with a knowledge of [[Isabella]]’s engagement that she could not, upon
 
 reflection, imagine him aware of it. He might be jealous of her brother
 
@@ -76,15 +76,15 @@ as a rival, but if more had seemed implied, the fault must have been in
 
 her misapprehension. She wished, by a gentle remonstrance, to remind
 
-Isabella of her situation, and make her aware of this double
+[[Isabella]] of her situation, and make her aware of this [[Double|double]]
 
 unkindness; but for remonstrance, either opportunity or comprehension
 
-was always against her. If able to suggest a hint, Isabella could never
+was always against her. If able to suggest a hint, [[Isabella]] could never
 
 understand it. In this distress, the intended departure of the Tilney
 
-family became her chief consolation; their journey into Gloucestershire
+family became her chief consolation; their [[Journey|journey]] into Gloucestershire
 
 was to take place within a few days, and Captain Tilney’s removal would
 
@@ -94,7 +94,7 @@ had at present no intention of removing; he was not to be of the party
 
 to Northanger; he was to continue at Bath. When Catherine knew this,
 
-her resolution was directly made. She spoke to Henry Tilney on the
+her resolution was directly made. She spoke to [[Henry Tilney]] on the
 
 subject, regretting his brother’s evident partiality for Miss Thorpe,
 
@@ -118,7 +118,7 @@ he stays, the worse it will be for him at last. Pray advise him for his
 
 own sake, and for everybody’s sake, to leave Bath directly. Absence
 
-will in time make him comfortable again; but he can have no hope here,
+will in [[Time|time]] make him comfortable again; but he can have no [[Hope|hope]] here,
 
 and it is only staying to be miserable.”
 
@@ -134,7 +134,7 @@ that.”
 
 
 
-“Persuasion is not at command; but pardon me, if I cannot even
+“[[Persuasion]] is not at command; but pardon me, if I cannot even
 
 endeavour to persuade him. I have myself told him that Miss Thorpe is
 
@@ -144,7 +144,7 @@ engaged. He knows what he is about, and must be his own master.”
 
 “No, he does not know what he is about,” cried Catherine; “he does not
 
-know the pain he is giving my brother. Not that James has ever told me
+know the [[Pain|pain]] he is giving my brother. Not that James has ever told me
 
 so, but I am sure he is very uncomfortable.”
 
@@ -160,7 +160,7 @@ so, but I am sure he is very uncomfortable.”
 
 “Is it my brother’s attentions to Miss Thorpe, or Miss Thorpe’s
 
-admission of them, that gives the pain?”
+admission of them, that gives the [[Pain|pain]]?”
 
 
 
@@ -176,11 +176,11 @@ who can make it a torment.”
 
 
 
-Catherine blushed for her friend, and said, “Isabella is wrong. But I
+Catherine blushed for her friend, and said, “[[Isabella]] is wrong. But I
 
 am sure she cannot mean to torment, for she is very much attached to my
 
-brother. She has been in love with him ever since they first met, and
+brother. She has been in [[Love|love]] with him ever since they first met, and
 
 while my father’s consent was uncertain, she fretted herself almost
 
@@ -188,17 +188,17 @@ into a fever. You know she must be attached to him.”
 
 
 
-“I understand: she is in love with James, and flirts with Frederick.”
+“I understand: she is in [[Love|love]] with James, and flirts with Frederick.”
 
 
 
-“Oh no, not flirts. A woman in love with one man cannot flirt with
+“Oh no, not flirts. A woman in [[Love|love]] with one man cannot flirt with
 
 another.”
 
 
 
-“It is probable that she will neither love so well, nor flirt so well,
+“It is probable that she will neither [[Love|love]] so [[Well|well]], nor flirt so [[Well|well]],
 
 as she might do either singly. The gentlemen must each give up a
 
@@ -208,7 +208,7 @@ little.”
 
 After a short pause, Catherine resumed with, “Then you do not believe
 
-Isabella so very much attached to my brother?”
+[[Isabella]] so very much attached to my brother?”
 
 
 
@@ -244,11 +244,11 @@ you I can only guess at.”
 
 
 
-“Well?”
+“[[Well]]?”
 
 
 
-“Well! nay, if it is to be guesswork, let us all guess for ourselves.
+“[[Well]]! nay, if it is to be guesswork, let us all guess for ourselves.
 
 To be guided by second-hand conjecture is pitiful. The premises are
 
@@ -260,7 +260,7 @@ he has known her engagement almost as long as he has known her.”
 
 
 
-“Well,” said Catherine, after some moments’ consideration, “_you_ may
+“[[Well]],” said Catherine, after some moments’ consideration, “_you_ may
 
 be able to guess at your brother’s intentions from all this; but I am
 
@@ -282,7 +282,7 @@ or Miss Thorpe’s, for supposing that her affection, or at least her
 
 good behaviour, is only to be secured by her seeing nothing of Captain
 
-Tilney? Is he safe only in solitude? Or is her heart constant to him
+Tilney? Is he safe only in [[Solitude|solitude]]? Or is her heart constant to him
 
 only when unsolicited by anyone else? He cannot think this—and you may
 
@@ -290,11 +290,11 @@ be sure that he would not have you think it. I will not say, ‘Do not be
 
 uneasy,’ because I know that you are so, at this moment; but be as
 
-little uneasy as you can. You have no doubt of the mutual attachment of
+little uneasy as you can. You have no [[Doubt|doubt]] of the mutual attachment of
 
 your brother and your friend; depend upon it, therefore, that real
 
-jealousy never can exist between them; depend upon it that no
+[[Jealousy|jealousy]] never can exist between them; depend upon it that no
 
 disagreement between them can be of any duration. Their hearts are open
 
@@ -306,15 +306,15 @@ never tease the other beyond what is known to be pleasant.”
 
 
 
-Perceiving her still to look doubtful and grave, he added, “Though
+Perceiving her still to look doubtful and [[Grave|grave]], he added, “Though
 
 Frederick does not leave Bath with us, he will probably remain but a
 
-very short time, perhaps only a few days behind us. His leave of
+very short [[Time|time]], perhaps only a few days behind us. His leave of
 
 absence will soon expire, and he must return to his regiment. And what
 
-will then be their acquaintance? The mess-room will drink Isabella
+will then be their acquaintance? The mess-room will drink [[Isabella]]
 
 Thorpe for a fortnight, and she will laugh with your brother over poor
 
@@ -326,7 +326,7 @@ Catherine would contend no longer against comfort. She had resisted its
 
 approaches during the whole length of a speech, but it now carried her
 
-captive. Henry Tilney must know best. She blamed herself for the extent
+captive. [[Henry Tilney]] must know best. She blamed herself for the extent
 
 of her fears, and resolved never to think so seriously on the subject
 
@@ -334,24 +334,24 @@ again.
 
 
 
-Her resolution was supported by Isabella’s behaviour in their parting
+Her resolution was supported by [[Isabella]]’s behaviour in their parting
 
 interview. The Thorpes spent the last evening of Catherine’s stay in
 
-Pulteney Street, and nothing passed between the lovers to excite her
+Pulteney Street, and nothing passed between the [[lovers]] to excite her
 
 uneasiness, or make her quit them in apprehension. James was in
 
-excellent spirits, and Isabella most engagingly placid. Her tenderness
+excellent spirits, and [[Isabella]] most engagingly placid. Her tenderness
 
 for her friend seemed rather the first feeling of her heart; but that
 
-at such a moment was allowable; and once she gave her lover a flat
+at such a moment was allowable; and once she gave her [[Lover|lover]] a flat
 
 contradiction, and once she drew back her hand; but Catherine
 
 remembered Henry’s instructions, and placed it all to judicious
 
-affection. The embraces, tears, and promises of the parting fair ones
+affection. The embraces, [[Tears|tears]], and promises of the parting fair ones
 
 may be fancied.

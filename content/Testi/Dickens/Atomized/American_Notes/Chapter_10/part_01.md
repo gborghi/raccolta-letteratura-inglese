@@ -15,26 +15,26 @@ tags:
 
 
 CHAPTER IX
-A NIGHT STEAMER ON THE POTOMAC RIVER.  VIRGINIA ROAD, AND A BLACK DRIVER.
-RICHMOND.  BALTIMORE.  THE HARRISBURG MAIL, AND A GLIMPSE OF THE CITY.  A
+A [[Night|NIGHT]] STEAMER ON THE POTOMAC [[River|RIVER]].  VIRGINIA [[Road|ROAD]], AND A BLACK DRIVER.
+RICHMOND.  BALTIMORE.  THE HARRISBURG MAIL, AND A GLIMPSE OF THE [[City|CITY]].  A
 CANAL BOAT
 
 
 WE were to proceed in the first instance by steamboat; and as it is usual
-to sleep on board, in consequence of the starting-hour being four o’clock
+to [[Sleep|sleep]] on board, in consequence of the starting-hour being four o’[[Clock|clock]]
 in the morning, we went down to where she lay, at that very uncomfortable
-time for such expeditions when slippers are most valuable, and a familiar
+[[Time|time]] for such expeditions when slippers are most valuable, and a familiar
 bed, in the perspective of an hour or two, looks uncommonly pleasant.
 
-It is ten o’clock at night: say half-past ten: moonlight, warm, and dull
-enough.  The steamer (not unlike a child’s Noah’s ark in form, with the
+It is ten o’[[Clock|clock]] at [[Night|night]]: say half-past ten: moonlight, warm, and dull
+enough.  The steamer (not unlike a [[Child|child]]’s Noah’s ark in form, with the
 machinery on the top of the roof) is riding lazily up and down, and
-bumping clumsily against the wooden pier, as the ripple of the river
+bumping clumsily against the wooden pier, as the ripple of the [[River|river]]
 trifles with its unwieldy carcase.  The wharf is some distance from the
-city.  There is nobody down here; and one or two dull lamps upon the
+[[City|city]].  There is nobody down here; and one or two dull lamps upon the
 steamer’s decks are the only signs of life remaining, when our coach has
 driven away.  As soon as our footsteps are heard upon the planks, a fat
-negress, particularly favoured by nature in respect of bustle, emerges
+negress, particularly favoured by [[Nature|nature]] in respect of bustle, emerges
 from some dark stairs, and marshals my wife towards the ladies’ cabin, to
 which retreat she goes, followed by a mighty bale of cloaks and
 great-coats.  I valiantly resolve not to go to bed at all, but to walk up
@@ -43,15 +43,15 @@ and down the pier till morning.
 I begin my promenade—thinking of all kinds of distant things and persons,
 and of nothing near—and pace up and down for half-an-hour.  Then I go on
 board again; and getting into the light of one of the lamps, look at my
-watch and think it must have stopped; and wonder what has become of the
+watch and think it must have stopped; and [[Wonder|wonder]] what has become of the
 faithful secretary whom I brought along with me from Boston.  He is
-supping with our late landlord (a Field Marshal, at least, no doubt) in
-honour of our departure, and may be two hours longer.  I walk again, but
-it gets duller and duller: the moon goes down: next June seems farther
+supping with our late landlord (a Field Marshal, at least, no [[Doubt|doubt]]) in
+[[Honour|honour]] of our departure, and may be two hours longer.  I walk again, but
+it gets duller and duller: the [[Moon|moon]] goes down: next June seems farther
 off in the dark, and the echoes of my footsteps make me nervous.  It has
 turned cold too; and walking up and down without my companion in such
 lonely circumstances, is but poor amusement.  So I break my staunch
-resolution, and think it may be, perhaps, as well to go to bed.
+resolution, and think it may be, perhaps, as [[Well|well]] to go to bed.
 
 I go on board again; open the door of the gentlemen’s cabin and walk in.
 Somehow or other—from its being so quiet, I suppose—I have taken it into
@@ -60,7 +60,7 @@ full of sleepers in every stage, shape, attitude, and variety of slumber:
 in the berths, on the chairs, on the floors, on the tables, and
 particularly round the stove, my detested enemy.  I take another step
 forward, and slip on the shining face of a black steward, who lies rolled
-in a blanket on the floor.  He jumps up, grins, half in pain and half in
+in a blanket on the floor.  He jumps up, grins, half in [[Pain|pain]] and half in
 hospitality; whispers my own name in my ear; and groping among the
 sleepers, leads me to my berth.  Standing beside it, I count these
 slumbering passengers, and get past forty.  There is no use in going
@@ -71,11 +71,11 @@ the carpets in the Capitol, and from the same cause.  Having but
 partially undressed, I clamber on my shelf, and hold the curtain open for
 a few minutes while I look round on all my fellow-travellers again.  That
 done, I let it fall on them, and on the world: turn round: and go to
-sleep.
+[[Sleep|sleep]].
 
 I wake, of course, when we get under weigh, for there is a good deal of
-noise.  The day is then just breaking.  Everybody wakes at the same time.
-Some are self-possessed directly, and some are much perplexed to make out
+noise.  The day is then just breaking.  Everybody wakes at the same [[Time|time]].
+Some are [[Self|self]]-possessed directly, and some are much perplexed to make out
 where they are until they have rubbed their eyes, and leaning on one
 elbow, looked about them.  Some yawn, some groan, nearly all spit, and a
 few get up.  I am among the risers: for it is easy to feel, without going
@@ -83,7 +83,7 @@ into the fresh air, that the atmosphere of the cabin is vile in the last
 degree.  I huddle on my clothes, go down into the fore-cabin, get shaved
 by the barber, and wash myself.  The washing and dressing apparatus for
 the passengers generally, consists of two jack-towels, three small wooden
-basins, a keg of water and a ladle to serve it out with, six square
+basins, a keg of [[Water|water]] and a ladle to serve it out with, six square
 inches of looking-glass, two ditto ditto of yellow soap, a comb and brush
 for the head, and nothing for the teeth.  Everybody uses the comb and
 brush, except myself.  Everybody stares to see me using my own; and two
@@ -91,18 +91,18 @@ or three gentlemen are strongly disposed to banter me on my prejudices,
 but don’t.  When I have made my toilet, I go upon the hurricane-deck, and
 set in for two hours of hard walking up and down.  The sun is rising
 brilliantly; we are passing Mount Vernon, where Washington lies buried;
-the river is wide and rapid; and its banks are beautiful.  All the glory
+the [[River|river]] is wide and rapid; and its banks are beautiful.  All the glory
 and splendour of the day are coming on, and growing brighter every
 minute.
 
-At eight o’clock, we breakfast in the cabin where I passed the night, but
+At eight o’[[Clock|clock]], we breakfast in the cabin where I passed the [[Night|night]], but
 the windows and doors are all thrown open, and now it is fresh enough.
 There is no hurry or greediness apparent in the despatch of the meal.  It
 is longer than a travelling breakfast with us; more orderly, and more
 polite.
 
-Soon after nine o’clock we come to Potomac Creek, where we are to land;
-and then comes the oddest part of the journey.  Seven stage-coaches are
+Soon after nine o’[[Clock|clock]] we come to Potomac Creek, where we are to land;
+and then comes the oddest part of the [[Journey|journey]].  Seven stage-coaches are
 preparing to carry us on.  Some of them are ready, some of them are not
 ready.  Some of the drivers are blacks, some whites.  There are four
 horses to each coach, and all the horses, harnessed or unharnessed, are
@@ -117,5 +117,5 @@ they are hung on bands of the strongest leather.  There is very little
 choice or difference between them; and they may be likened to the car
 portion of the swings at an English fair, roofed, put upon axle-trees and
 wheels, and curtained with painted canvas.  They are covered with mud
-from the roof to the wheel-tire, and have never been cleaned since they
+from the roof to the [[Wheel|wheel]]-tire, and have never been cleaned since they
 were first built.

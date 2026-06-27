@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 5)"
+title: "[[David Copperfield]] — Chapter 25: GOOD AND BAD ANGELS (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -15,28 +15,28 @@ tags:
 
 
 As she was not among people with whom I believed she could be very much
-at home, I was almost glad to hear that she was going away within a few
+at [[Home|home]], I was almost glad to hear that she was going away within a few
 days, though I was sorry at the prospect of parting from her again
 so soon. This caused me to remain until all the company were gone.
 Conversing with her, and hearing her sing, was such a delightful
-reminder to me of my happy life in the grave old house she had made so
-beautiful, that I could have remained there half the night; but, having
+reminder to me of my happy life in the [[Grave|grave]] old [[house]] she had made so
+beautiful, that I could have remained there half the [[Night|night]]; but, having
 no excuse for staying any longer, when the lights of Mr. Waterbrook’s
 society were all snuffed out, I took my leave very much against my
 inclination. I felt then, more than ever, that she was my better Angel;
 and if I thought of her sweet face and placid smile, as though they had
-shone on me from some removed being, like an Angel, I hope I thought no
+shone on me from some removed being, like an Angel, I [[Hope|hope]] I thought no
 harm.
 
 I have said that the company were all gone; but I ought to have excepted
 Uriah, whom I don’t include in that denomination, and who had never
 ceased to hover near us. He was close behind me when I went downstairs.
-He was close beside me, when I walked away from the house, slowly
-fitting his long skeleton fingers into the still longer fingers of a
+He was close beside me, when I walked away from the [[house]], slowly
+fitting his long [[skeleton]] fingers into the still longer fingers of a
 great Guy Fawkes pair of gloves.
 
 It was in no disposition for Uriah’s company, but in remembrance of the
-entreaty Agnes had made to me, that I asked him if he would come home to
+entreaty Agnes had made to me, that I asked him if he would come [[Home|home]] to
 my rooms, and have some coffee.
 
 ‘Oh, really, Master Copperfield,’ he rejoined--‘I beg your pardon,
@@ -48,10 +48,10 @@ to your ouse.’
 
 ‘I should like to, very much,’ replied Uriah, with a writhe.
 
-‘Well, then, come along!’ said I.
+‘[[Well]], then, come along!’ said I.
 
 I could not help being rather short with him, but he appeared not to
-mind it. We went the nearest way, without conversing much upon the road;
+mind it. We went the nearest way, without conversing much upon the [[Road|road]];
 and he was so humble in respect of those scarecrow gloves, that he
 was still putting them on, and seemed to have made no advance in that
 labour, when we got to my place.
@@ -99,8 +99,8 @@ I could have thrown my bootjack at him (it lay ready on the rug), for
 having entrapped me into the disclosure of anything concerning Agnes,
 however immaterial. But I only drank my coffee.
 
-‘What a prophet you have shown yourself, Mister Copperfield!’ pursued
-Uriah. ‘Dear me, what a prophet you have proved yourself to be! Don’t
+‘What a [[Prophet|prophet]] you have shown yourself, Mister Copperfield!’ pursued
+Uriah. ‘Dear me, what a [[Prophet|prophet]] you have proved yourself to be! Don’t
 you remember saying to me once, that perhaps I should be a partner in
 Mr. Wickfield’s business, and perhaps it might be Wickfield and
 Heep? You may not recollect it; but when a person is umble, Master
@@ -112,7 +112,7 @@ Mister Copperfield!’ returned Uriah, enthusiastically. ‘I am sure I
 didn’t myself. I recollect saying with my own lips that I was much too
 umble. So I considered myself really and truly.’
 
-He sat, with that carved grin on his face, looking at the fire, as I
+He sat, with that carved grin on his face, looking at the [[Fire|fire]], as I
 looked at him.
 
 ‘But the umblest persons, Master Copperfield,’ he presently resumed,
@@ -127,11 +127,11 @@ pointedly, ‘on all accounts.’
 Miss Agnes’s above all! You don’t remember your own eloquent
 expressions, Master Copperfield; but I remember how you said one day
 that everybody must admire her, and how I thanked you for it! You have
-forgot that, I have no doubt, Master Copperfield?’
+forgot that, I have no [[Doubt|doubt]], Master Copperfield?’
 
 ‘No,’ said I, drily.
 
 ‘Oh how glad I am you have not!’ exclaimed Uriah. ‘To think that you
-should be the first to kindle the sparks of ambition in my umble breast,
+should be the first to kindle the sparks of [[Ambition|ambition]] in my umble breast,
 and that you’ve not forgot it! Oh!--Would you excuse me asking for a cup
 more coffee?’

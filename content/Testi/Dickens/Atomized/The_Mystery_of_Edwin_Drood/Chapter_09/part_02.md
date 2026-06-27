@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 8 (part 2)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 8 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -18,13 +18,13 @@ tags:
 
 “And with all mine, Mr. Jasper.” Neville feels it impossible to say
 less, but would rather not go. He has an impression upon him that he
-has lost hold of his temper; feels that Edwin Drood’s coolness, so far
+has lost hold of his temper; feels that [[Edwin Drood]]’s coolness, so far
 from being infectious, makes him red-hot.
 
 Mr. Jasper, still walking in the centre, hand to shoulder on either
-side, beautifully turns the Refrain of a drinking song, and they all go
+side, beautifully turns the Refrain of a drinking [[Song|song]], and they all go
 up to his rooms. There, the first object visible, when he adds the
-light of a lamp to that of the fire, is the portrait over the
+light of a lamp to that of the [[Fire|fire]], is the portrait over the
 chimneypiece. It is not an object calculated to improve the
 understanding between the two young men, as rather awkwardly reviving
 the subject of their difference. Accordingly, they both glance at it
@@ -41,7 +41,7 @@ the light upon it.
 it.”
 
 “I am sorry for that, Mr. Drood.” Neville apologises, with a real
-intention to apologise; “if I had known I was in the artist’s
+intention to apologise; “if I had known I was in the [[artist]]’s
 presence—”
 
 “O, a joke, sir, a mere joke,” Edwin cuts in, with a provoking yawn. “A
@@ -53,21 +53,21 @@ said, as the speaker throws himself back in a chair and clasps his
 hands at the back of his head, as a rest for it, is very exasperating
 to the excitable and excited Neville. Jasper looks observantly from the
 one to the other, slightly smiles, and turns his back to mix a jug of
-mulled wine at the fire. It seems to require much mixing and
+mulled wine at the [[Fire|fire]]. It seems to require much mixing and
 compounding.
 
 “I suppose, Mr. Neville,” says Edwin, quick to resent the indignant
 protest against himself in the face of young Landless, which is fully
-as visible as the portrait, or the fire, or the lamp: “I suppose that
-if you painted the picture of your lady love—”
+as visible as the portrait, or the [[Fire|fire]], or the lamp: “I suppose that
+if you painted the picture of your lady [[Love|love]]—”
 
 “I can’t paint,” is the hasty interruption.
 
 “That’s your misfortune, and not your fault. You would if you could.
 But if you could, I suppose you would make her (no matter what she was
-in reality), Juno, Minerva, Diana, and Venus, all in one. Eh?”
+in reality), Juno, Minerva, [[Diana]], and [[Venus]], all in one. Eh?”
 
-“I have no lady love, and I can’t say.”
+“I have no lady [[Love|love]], and I can’t say.”
 
 “If I were to try my hand,” says Edwin, with a boyish boastfulness
 getting up in him, “on a portrait of Miss Landless—in earnest, mind
@@ -77,37 +77,37 @@ you; in earnest—you should see what I could do!”
 never will be got, I am afraid I shall never see what you can do. I
 must bear the loss.”
 
-Jasper turns round from the fire, fills a large goblet glass for
+Jasper turns round from the [[Fire|fire]], fills a large goblet glass for
 Neville, fills a large goblet glass for Edwin, and hands each his own;
 then fills for himself, saying:
 
 “Come, Mr. Neville, we are to drink to my nephew, Ned. As it is his
 foot that is in the stirrup—metaphorically—our stirrup-cup is to be
-devoted to him. Ned, my dearest fellow, my love!”
+devoted to him. Ned, my dearest fellow, my [[Love|love]]!”
 
 Jasper sets the example of nearly emptying his glass, and Neville
-follows it. Edwin Drood says, “Thank you both very much,” and follows
-the double example.
+follows it. [[Edwin Drood]] says, “Thank you both very much,” and follows
+the [[Double|double]] example.
 
 “Look at him,” cries Jasper, stretching out his hand admiringly and
 tenderly, though rallyingly too. “See where he lounges so easily, Mr.
 Neville! The world is all before him where to choose. A life of
 stirring work and interest, a life of change and excitement, a life of
-domestic ease and love! Look at him!”
+domestic ease and [[Love|love]]! Look at him!”
 
-Edwin Drood’s face has become quickly and remarkably flushed with the
-wine; so has the face of Neville Landless. Edwin still sits thrown back
+[[Edwin Drood]]’s face has become quickly and remarkably flushed with the
+wine; so has the face of [[Neville Landless]]. Edwin still sits thrown back
 in his chair, making that rest of clasped hands for his head.
 
 “See how little he heeds it all!” Jasper proceeds in a bantering vein.
 “It is hardly worth his while to pluck the golden fruit that hangs ripe
 on the tree for him. And yet consider the contrast, Mr. Neville. You
 and I have no prospect of stirring work and interest, or of change and
-excitement, or of domestic ease and love. You and I have no prospect
+excitement, or of domestic ease and [[Love|love]]. You and I have no prospect
 (unless you are more fortunate than I am, which may easily be), but the
 tedious unchanging round of this dull place.”
 
-“Upon my soul, Jack,” says Edwin, complacently, “I feel quite
+“Upon my [[Soul|soul]], Jack,” says Edwin, complacently, “I feel quite
 apologetic for having my way smoothed as you describe. But you know
 what I know, Jack, and it may not be so very easy as it seems, after
 all. May it, Pussy?” To the portrait, with a snap of his thumb and
@@ -118,7 +118,7 @@ what I mean, Jack.”
 
 
 His speech has become thick and indistinct. Jasper, quiet and
-self-possessed, looks to Neville, as expecting his answer or comment.
+[[Self|self]]-possessed, looks to Neville, as expecting his answer or comment.
 When Neville speaks, _his_ speech is also thick and indistinct.
 
 “It might have been better for Mr. Drood to have known some hardships,”
@@ -136,7 +136,7 @@ merits.”
 
 Mr. Jasper quickly looks to his nephew for his rejoinder.
 
-“Have _you_ known hardships, may I ask?” says Edwin Drood, sitting
+“Have _you_ known hardships, may I ask?” says [[Edwin Drood]], sitting
 upright.
 
 Mr. Jasper quickly looks to the other for his retort.
@@ -148,7 +148,7 @@ Mr. Jasper quickly looks to the other for his retort.
 Mr. Jasper’s play of eyes between the two holds good throughout the
 dialogue, to the end.
 
-“I have told you once before to-night.”
+“I have told you once before to-[[Night|night]].”
 
 “You have done nothing of the sort.”
 

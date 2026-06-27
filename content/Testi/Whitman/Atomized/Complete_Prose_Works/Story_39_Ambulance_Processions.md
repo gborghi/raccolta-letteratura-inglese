@@ -17,11 +17,11 @@ tags:
 AMBULANCE PROCESSIONS
 
 _June 23, Sundown._--As I sit writing this paragraph I see a train of
-about thirty huge four-horse wagons, used as ambulances, fill'd with
+about thirty huge four-[[Horse|horse]] wagons, used as ambulances, fill'd with
 wounded, passing up Fourteenth street, on their way, probably, to
 Columbian, Carver, and Mount Pleasant hospitals. This is the way the men
 come in now, seldom in small numbers, but almost always in these long,
-sad processions. Through the past winter, while our army lay opposite
+sad processions. Through the past [[Winter|winter]], while our army lay opposite
 Fredericksburg, the like strings of ambulances were of frequent
 occurrence along Seventh street, passing slowly up from the steamboat
 wharf, with loads from Aquia creek.

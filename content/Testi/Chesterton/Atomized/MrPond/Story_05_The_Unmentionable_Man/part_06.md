@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Unmentionable Man (part 6)"
+title: "[[MrPond]] — The Unmentionable Man (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 Men may argue FOR principles not entirely their own, for various
 
-reasons; as a joke in a rag debate, or covered by professional
+reasons; as a joke in a rag [[debate]], or covered by professional
 
 etiquette, like a barrister, or merely exaggerating something
 
@@ -52,7 +52,7 @@ Leo XIII.  Therefore, he represents something even older than your
 
 Rousseau and your Revolution.  I knew after five words that he was
 
-not the blackmailing blackguard of romance; and yet he is romantic.
+not the blackmailing blackguard of [[Romance|romance]]; and yet he is romantic.
 
 And he could be legally arrested; but only for a rather curious
 
@@ -68,7 +68,7 @@ him in the street.  You argued truly that ladies in your country
 
 think so much of formality and propriety, that they could never do
 
-this except in some extreme of agony and despair.  It did not occur
+this except in some extreme of agony and [[Despair|despair]].  It did not occur
 
 to you that, perhaps, it might be only an extreme of formality and
 
@@ -78,19 +78,19 @@ propriety."
 
 Marcus began slowly:  "What the devil--"  And then Mr. Pond rapped
 
-out quite smartly:  "And then the sword.  What is a sword FOR?
+out quite smartly:  "And then the [[Sword|sword]].  What is a [[Sword|sword]] FOR?
 
-It's absurd to say for fighting; he wouldn't wave a mediæval sword
+It's absurd to say for fighting; he wouldn't wave a mediæval [[Sword|sword]]
 
 against people shooting him with guns.  If it were for duels he
 
-would have a duelling-sword; and probably two in a case.  What else
+would have a duelling-[[Sword|sword]]; and probably two in a case.  What else
 
-can you do with a sword?  Well, you can swallow it; and at one time
+can you do with a [[Sword|sword]]?  [[Well]], you can [[Swallow|swallow]] it; and at one [[Time|time]]
 
 I really had a fancy he might be a conjurer.  But it's too big a
 
-swallow; so is the notion.  What CAN be done with a sword, but not
+[[Swallow|swallow]]; so is the notion.  What CAN be done with a [[Sword|sword]], but not
 
 with a spear or gun or battle-axe?  Have you heard of the Accolade?
 
@@ -104,13 +104,13 @@ custom it can only be done--"
 
 
 
-"Only by a King," said Pond.  And the young Republican sprang up
+"Only by a [[King]]," said Pond.  And the young Republican sprang up
 
 rigid at the challenge.
 
 
 
-"Yes," continued Pond, "the King has crept back among you.  It is
+"Yes," continued Pond, "the [[King]] has crept back among you.  It is
 
 not your fault.  Republics might be all right if Republicans were
 
@@ -120,7 +120,7 @@ not . . . and that's what he meant about going to bed in public.
 
 You know the old kings really did.  But he had another reason.  He
 
-had one real fear; that they might deport him secretly.  They could
+had one real [[Fear|fear]]; that they might deport him secretly.  They could
 
 deport him technically, of course; all these Republics have laws
 
@@ -148,9 +148,9 @@ could they say:  'Yes, he is popular, he is on the side of the
 
 people and the poor; the young men accept his leadership; but he is
 
-the King and therefore he must go'?  They know how horribly near
+the [[King]] and therefore he must go'?  They know how horribly near
 
-the world is to answering:  'Yes; he is the King and, by God, he
+the world is to answering:  'Yes; he is the [[King]] and, by God, he
 
 shall stay.'"
 
@@ -162,7 +162,7 @@ shall stay.'"
 
 Mr. Pond had told this story, at somewhat greater length but in far
 
-more classic diction; and by that time had actually finished the
+more classic diction; and by that [[Time|time]] had actually finished the
 
 oysters.  He gazed pensively at the shells and added:  "You will of
 

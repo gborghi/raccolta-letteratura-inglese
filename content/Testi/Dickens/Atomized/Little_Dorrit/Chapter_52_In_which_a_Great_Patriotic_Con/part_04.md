@@ -14,24 +14,24 @@ tags:
 </nav>
 
 
-Bar was sorry to miss our good friend Mr Sparkler to-day, Mr Merdle.
+Bar was sorry to miss our good friend Mr Sparkler to-day, [[Mr Merdle]].
 
 ‘He is away with Mrs Merdle,’ returned that gentleman, slowly coming
 out of a long abstraction, in the course of which he had been fitting a
 tablespoon up his sleeve. ‘It is not indispensable for him to be on the
 spot.’
 
-‘The magic name of Merdle,’ said Bar, with the jury droop, ‘no doubt
+‘The [[Magic|magic]] name of Merdle,’ said Bar, with the jury droop, ‘no [[Doubt|doubt]]
 will suffice for all.’
 
-‘Why--yes--I believe so,’ assented Mr Merdle, putting the spoon aside,
+‘Why--yes--I believe so,’ assented [[Mr Merdle]], putting the spoon aside,
 and clumsily hiding each of his hands in the coat-cuff of the other
 hand. ‘I believe the people in my interest down there will not make any
 difficulty.’
 
 ‘Model people!’ said Bar.
 
-‘I am glad you approve of them,’ said Mr Merdle.
+‘I am glad you approve of them,’ said [[Mr Merdle]].
 
 ‘And the people of those other two places, now,’ pursued Bar, with a
 bright twinkle in his keen eye, as it slightly turned in the direction
@@ -46,7 +46,7 @@ beautifully, in the swoop of the majestic stream as it flows upon its
 wondrous way enriching the surrounding lands; that their course is
 perfectly to be calculated, and distinctly to be predicated?’
 
-Mr Merdle, a little troubled by Bar’s eloquence, looked fitfully about
+[[Mr Merdle]], a little troubled by Bar’s eloquence, looked fitfully about
 the nearest salt-cellar for some moments, and then said hesitating:
 
 ‘They are perfectly aware, sir, of their duty to Society. They will
@@ -56,19 +56,19 @@ return anybody I send to them for that purpose.’
 
 The three places in question were three little rotten holes in this
 Island, containing three little ignorant, drunken, guzzling, dirty,
-out-of-the-way constituencies, that had reeled into Mr Merdle’s pocket.
-Ferdinand Barnacle laughed in his easy way, and airily said they were
+out-of-the-way constituencies, that had reeled into [[Mr Merdle]]’s pocket.
+[[Ferdinand]] Barnacle laughed in his easy way, and airily said they were
 a nice set of fellows. Bishop, mentally perambulating among paths of
 peace, was altogether swallowed up in absence of mind.
 
 ‘Pray,’ asked Lord Decimus, casting his eyes around the table, ‘what
 is this story I have heard of a gentleman long confined in a debtors’
-prison proving to be of a wealthy family, and having come into the
+[[Prison|prison]] proving to be of a wealthy family, and having come into the
 inheritance of a large sum of money? I have met with a variety of
-allusions to it. Do you know anything of it, Ferdinand?’
+allusions to it. Do you know anything of it, [[Ferdinand]]?’
 
-‘I only know this much,’ said Ferdinand, ‘that he has given the
-Department with which I have the honour to be associated;’ this
+‘I only know this much,’ said [[Ferdinand]], ‘that he has given the
+Department with which I have the [[Honour|honour]] to be associated;’ this
 sparkling young Barnacle threw off the phrase sportively, as who should
 say, We know all about these forms of speech, but we must keep it up,
 we must keep the game alive; ‘no end of trouble, and has put us into
@@ -79,21 +79,21 @@ on the word that made the bashful Member shut his eyes quite tight.
 ‘Fixes?’
 
 ‘A very perplexing business indeed,’ observed Mr Tite Barnacle, with an
-air of grave resentment.
+air of [[Grave|grave]] resentment.
 
 ‘What,’ said Lord Decimus, ‘was the character of his business; what was
-the nature of these--a--Fixes, Ferdinand?’
+the [[Nature|nature]] of these--a--Fixes, [[Ferdinand]]?’
 
 ‘Oh, it’s a good story, as a story,’ returned that gentleman; ‘as good
 a thing of its kind as need be. This Mr Dorrit (his name is Dorrit) had
 incurred a responsibility to us, ages before the fairy came out of
 the Bank and gave him his fortune, under a bond he had signed for the
 performance of a contract which was not at all performed. He was a
-partner in a house in some large way--spirits, or buttons, or wine, or
+partner in a [[house]] in some large way--spirits, or buttons, or wine, or
 blacking, or oatmeal, or woollen, or pork, or hooks and eyes, or iron,
 or treacle, or shoes, or something or other that was wanted for troops,
-or seamen, or somebody--and the house burst, and we being among
-the creditors, detainees were lodged on the part of the Crown in a
+or seamen, or somebody--and the [[house]] burst, and we being among
+the creditors, detainees were lodged on the part of the [[Crown]] in a
 scientific manner, and all the rest of it. When the fairy had appeared
 and he wanted to pay us off, Egad we had got into such an exemplary
 state of checking and counter-checking, signing and counter-signing,
@@ -128,8 +128,8 @@ Nobody else replying, the host said, ‘He has two daughters, my lord.’
 
 ‘Oh! you are acquainted with him?’ asked Lord Decimus.
 
-‘Mrs Merdle is. Mr Sparkler is, too. In fact,’ said Mr Merdle, ‘I rather
-believe that one of the young ladies has made an impression on Edmund
+‘Mrs Merdle is. Mr Sparkler is, too. In fact,’ said [[Mr Merdle]], ‘I rather
+believe that one of the young ladies has made an impression on [[Edmund]]
 Sparkler. He is susceptible, and--I--think--the conquest--’ Here Mr
 Merdle stopped, and looked at the table-cloth, as he usually did when he
 found himself observed or listened to.

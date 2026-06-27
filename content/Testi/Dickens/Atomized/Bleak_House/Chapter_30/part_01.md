@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 30 (part 1)"
+title: "Bleak [[house|House]] — Chapter 30 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,16 +19,16 @@ CHAPTER XXX
 Esther’s Narrative
 
 
-Richard had been gone away some time when a visitor came to pass a
+[[Richard]] had been gone away some [[Time|time]] when a visitor came to pass a
 few days with us. It was an elderly lady. It was Mrs. Woodcourt, who,
 having come from Wales to stay with Mrs. Bayham Badger and having
-written to my guardian, “by her son Allan’s desire,” to report that
-she had heard from him and that he was well “and sent his kind
+written to my guardian, “by her son Allan’s [[Desire|desire]],” to report that
+she had heard from him and that he was [[Well|well]] “and sent his kind
 remembrances to all of us,” had been invited by my guardian to make a
-visit to Bleak House. She stayed with us nearly three weeks. She took
+visit to Bleak [[house|House]]. She stayed with us nearly three weeks. She took
 very kindly to me and was extremely confidential, so much so that
 sometimes she almost made me uncomfortable. I had no right, I knew
-very well, to be uncomfortable because she confided in me, and I felt
+very [[Well|well]], to be uncomfortable because she confided in me, and I felt
 it was unreasonable; still, with all I could do, I could not quite
 help it.
 
@@ -41,8 +41,8 @@ expression of her face, which was very sparkling and pretty for an
 old lady. I don’t know what it was. Or at least if I do now, I
 thought I did not then. Or at least—but it don’t matter.
 
-Of a night when I was going upstairs to bed, she would invite me
-into her room, where she sat before the fire in a great chair;
+Of a [[Night|night]] when I was going upstairs to bed, she would invite me
+into her room, where she sat before the [[Fire|fire]] in a great chair;
 and, dear me, she would tell me about Morgan ap-Kerrig until I
 was quite low-spirited! Sometimes she recited a few verses from
 Crumlinwallinwer and the Mewlinnwillinwodd (if those are the right
@@ -72,7 +72,7 @@ notwithstanding.
 “Poor Mr. Woodcourt, my dear,” she would say, and always with some
 emotion, for with her lofty pedigree she had a very affectionate
 heart, “was descended from a great Highland family, the MacCoorts of
-MacCoort. He served his king and country as an officer in the Royal
+MacCoort. He served his [[King|king]] and country as an officer in the Royal
 Highlanders, and he died on the field. My son is one of the last
 representatives of two old families. With the blessing of heaven he
 will set them up again and unite them with another old family.”
@@ -81,8 +81,8 @@ It was in vain for me to try to change the subject, as I used to try,
 only for the sake of novelty or perhaps because—but I need not be so
 particular. Mrs. Woodcourt never would let me change it.
 
-“My dear,” she said one night, “you have so much sense and you look
-at the world in a quiet manner so superior to your time of life that
+“My dear,” she said one [[Night|night]], “you have so much sense and you look
+at the world in a quiet manner so superior to your [[Time|time]] of life that
 it is a comfort to me to talk to you about these family matters of
 mine. You don’t know much of my son, my dear; but you know enough of
 him, I dare say, to recollect him?”
@@ -101,7 +101,7 @@ myself.”
 
 “On so slight an acquaintance, my dear. THAT’S true.”
 
-I didn’t mean that, because Mr. Woodcourt had been at our house a
+I didn’t mean that, because Mr. Woodcourt had been at our [[house]] a
 good deal altogether and had become quite intimate with my guardian.
 I said so, and added that he seemed to be very clever in his
 profession—we thought—and that his kindness and gentleness to Miss
@@ -110,7 +110,7 @@ Flite were above all praise.
 “You do him justice!” said Mrs. Woodcourt, pressing my hand. “You
 define him exactly. Allan is a dear fellow, and in his profession
 faultless. I say it, though I am his mother. Still, I must confess he
-is not without faults, love.”
+is not without faults, [[Love|love]].”
 
 “None of us are,” said I.
 
@@ -132,7 +132,7 @@ refer to his profession, look you.”
 always paying trivial attentions to young ladies, and always has
 been, ever since he was eighteen. Now, my dear, he has never really
 cared for any one of them and has never meant in doing this to do any
-harm or to express anything but politeness and good nature. Still,
+harm or to express anything but politeness and good [[Nature|nature]]. Still,
 it’s not right, you know; is it?”
 
 “No,” said I, as she seemed to wait for me.
@@ -147,7 +147,7 @@ has always said, ‘Mother, I will be; but you know me better than
 anybody else does, and you know I mean no harm—in short, mean
 nothing.’ All of which is very true, my dear, but is no
 justification. However, as he is now gone so far away and for an
-indefinite time, and as he will have good opportunities and
+indefinite [[Time|time]], and as he will have good opportunities and
 introductions, we may consider this past and gone. And you, my dear,”
 said the old lady, who was now all nods and smiles, “regarding your
-dear self, my love?”
+dear [[Self|self]], my [[Love|love]]?”

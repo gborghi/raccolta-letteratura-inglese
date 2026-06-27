@@ -1,5 +1,5 @@
 ---
-title: "Julius Caesar — Act II, Scene 3"
+title: "[[Julius Caesar]] — Act II, Scene 3"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/JULIUS-CAESAR-(Shakespeare)"
@@ -17,4 +17,4 @@ tags:
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Enter Artemidorus, reading a letter |
-| ARTEMIDORUS | ’Caesar, beware of Brutus. Take heed of Cassius. Come not near Casca. Have an eye to Cinna. Trust not Trebonius. Mark well Metellus Cimber. Decius Brutus loves thee not. Thou hast wronged Caius Ligarius. There is but one mind in all these men, and it is bent against Caesar. If thou beest not immortal, look about you. Security gives way to conspiracy. The mighty gods defend thee!<br>Thy lover,<br>Artemidorus.’<br>Here will I stand till Caesar pass along,<br>And as a suitor will I give him this.<br>My heart laments that virtue cannot live<br>Out of the teeth of emulation.<br>If thou read this, O Caesar, thou mayst live.<br>If not, the fates with traitors do contrive. Exit |
+| ARTEMIDORUS | ’Caesar, beware of [[Brutus]]. Take heed of [[Cassius]]. Come not near [[Casca]]. Have an eye to Cinna. Trust not Trebonius. Mark [[Well|well]] Metellus Cimber. Decius [[Brutus]] loves thee not. Thou hast wronged Caius Ligarius. There is but one mind in all these men, and it is bent against Caesar. If thou beest not immortal, look about you. Security gives way to conspiracy. The mighty gods defend thee!<br>Thy [[Lover|lover]],<br>Artemidorus.’<br>Here will I stand till Caesar pass along,<br>And as a suitor will I give him this.<br>My heart laments that virtue cannot live<br>Out of the teeth of emulation.<br>If thou read this, O Caesar, thou mayst live.<br>If not, the fates with traitors do contrive. Exit |

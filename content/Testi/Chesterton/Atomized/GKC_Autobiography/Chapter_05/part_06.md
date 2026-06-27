@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 5 (part 6)"
+title: "[[GKC-Autobiography]] — Chapter 5 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -17,7 +17,7 @@ tags:
 Charles Masterman, of whom I have just spoken, was a very remarkable man.
 He was also a very subtle and curious character; and many of my
 own best friends entirely misunderstood and underrated him.
-It is true that as he rose higher in politics, the veil of the
+It is true that as he [[Rose|rose]] higher in politics, the veil of the
 politician began to descend a little on him also; but he became
 a politician from the noblest bitterness on behalf of the poor;
 and what was blamed in him was the fault of much more ignoble men.
@@ -26,21 +26,21 @@ to two things; he was a pessimistic official.  He had had a dark Puritan
 upbringing and retained a sort of feeling of the perversity of the gods;
 he said to me, "I am the sort of man who goes under a hedge to eat
 an apple."  But he was also an organiser and liked governing;
-only his pessimism made him think that government had always been bad,
-and was now no worse than usual.  Therefore, to men on fire
-for reform, he came to seem an obstacle and an official apologist;
+only his pessimism made him think that [[government]] had always been bad,
+and was now no worse than usual.  Therefore, to men on [[Fire|fire]]
+for [[Reform|reform]], he came to seem an obstacle and an official apologist;
 but the last thing he really wanted was to apologise for anything.
 He had a startling insight into character, and a way of
 suddenly expressing it, so that it braced rather than hurt.
 As Oldershaw once said to me, "His candour is beautiful."
-But his melancholy made him contented, where happier men
+But his [[Melancholy|melancholy]] made him contented, where happier men
 were discontented.  His pessimism did the worst work of optimism.
 In person he was long, loose and lounging; and nearly as untidy
 as I was.
 
 Apart from these various glimpses of various parties, my main work
 was on the Daily News, then practically controlled by Mr. Cadbury
-with Mr. A. G. Gardiner as its well-read and sympathetic editor:
+with Mr. A. G. Gardiner as its [[Well|well]]-read and sympathetic editor:
 and I only dimly appreciated what I now see to have been
 the process by which the press came to be run like a big business.
 I remember gazing blankly at the poky little entrance being
@@ -64,7 +64,7 @@ the more certain was his successful contributor to turn up smiling
 and be swept back to his office and his desk.  Thus, I would say,
 having even then a tendency to moralise along such lines,
 every mechanical improvement brings a new problem with it.
-I do not demand faith in the fable, but I have not been discouraged
+I do not demand [[Faith|faith]] in the [[Fable|fable]], but I have not been discouraged
 in the moral, by seeing motoring lead to massacre, aviation destroy
 cities and machines increase unemployment.
 
@@ -74,7 +74,7 @@ notably in the enjoyment of the hospitality which the late Mr. Cadbury
 used to extend to large gatherings of his contributors and friends.
 It was an entertaining experience, especially when it illustrated,
 as it generally did, the very varied elements of which our party
-was made up.  It was at one of these house-parties of the Cadburys
+was made up.  It was at one of these [[house]]-parties of the Cadburys
 that I first met a man for whom I had a very great regard, apart from
 the fact that his company was always amusing; I mean Will Crooks,
 for it always jarred against his whole solid personality to refer
@@ -83,26 +83,26 @@ and liked most of them; quite as much at any rate as Liberal members.
 The Labour members I knew covered every type from frigid
 Cambridge dons to eccentric English and Scottish aristocrats.
 Will Crooks was the only Labour leader I ever knew who reminded me
-for a single moment of the English labouring classes.  His humour
-really was the humour of an omnibus conductor or a railway porter;
-and that sort of humour is a much more powerful and real thing
-than most modern forms of education or eloquence.  His criticism on
+for a single moment of the English labouring classes.  His [[Humour|humour]]
+really was the [[Humour|humour]] of an omnibus conductor or a railway porter;
+and that sort of [[Humour|humour]] is a much more powerful and real thing
+than most modern forms of [[Education|education]] or eloquence.  His criticism on
 beholding a company of advanced Socialist intellectuals was not that
 they gave too concentrated a power to the abstraction of the State,
-or that they followed an impossible ideal unsupported by self-interest,
+or that they followed an impossible ideal unsupported by [[Self|self]]-interest,
 but that, as he put it, "They got no backs to their 'eads."
 His wife also was as representative as a Roman matron; and it is in
 connection with her that I specially recall the curious clash of types
 and cultures that went on even inside our own political party.
 I remember an ethereal little lady with pale blue eyes and pale
-green garments, who was the wife of a well-known Anti-War journalist.
+green garments, who was the wife of a [[Well|well]]-known Anti-War journalist.
 She had a touching timidity in advancing her ideas; but, when they
 were advanced, they were a very serious business indeed.
 I remember that Mr. Noel Buxton, whose acquaintance I made about
-this time, was describing in an animated and amusing fashion the scurry
+this [[Time|time]], was describing in an animated and amusing fashion the scurry
 and scamper of his life while contesting a seat at the election.
 In a dreadful hour, he happened to use the expression;
-"I just had time to snatch a cutlet--"; and the prophetess in
+"I just had [[Time|time]] to snatch a cutlet--"; and the prophetess in
 the green garments was goaded, by the god within her, to speak.
 When Buxton had left the room she did so.
 

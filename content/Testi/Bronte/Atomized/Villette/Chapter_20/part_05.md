@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 20 (part 5)"
+title: "[[Villette]] — Chapter 20 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -15,9 +15,9 @@ tags:
 
 
 “Think nothing of it, Dr. John: it is not worth while. If Ginevra were
-in a giddy mood, as she is eminently to-night, she would make no
-scruple of laughing at that mild, pensive Queen, or that melancholy
-King. She is not actuated by malevolence, but sheer, heedless folly. To
+in a giddy mood, as she is eminently to-[[Night|night]], she would make no
+scruple of laughing at that mild, pensive [[Queen]], or that [[Melancholy|melancholy]]
+[[King]]. She is not actuated by malevolence, but sheer, heedless folly. To
 a feather-brained school-girl nothing is sacred.”
 
 “But you forget: I have not been accustomed to look on Miss Fanshawe in
@@ -26,28 +26,28 @@ angel of my career?”
 
 “Hem! There was your mistake.”
 
-“To speak the honest truth, without any false rant or assumed romance,
+“To speak the honest [[Truth|truth]], without any false rant or assumed [[Romance|romance]],
 there actually was a moment, six months ago, when I thought her divine.
 Do you remember our conversation about the presents? I was not quite
 open with you in discussing that subject: the warmth with which you
 took it up amused me. By way of having the full benefit of your lights,
 I allowed you to think me more in the dark than I really was. It was
 that test of the presents which first proved Ginevra mortal. Still her
-beauty retained its fascination: three days—three hours ago, I was very
-much her slave. As she passed me to-night, triumphant in beauty, my
+[[Beauty|beauty]] retained its fascination: three days—three hours ago, I was very
+much her slave. As she passed me to-[[Night|night]], triumphant in [[Beauty|beauty]], my
 emotions did her homage; but for one luckless sneer, I should yet be
 the humblest of her servants. She might have scoffed at _me_, and,
 while wounding, she would not soon have alienated me: through myself,
 she could not in ten years have done what, in a moment, she has done
 through my mother.”
 
-He held his peace awhile. Never before had I seen so much fire, and so
+He held his peace awhile. Never before had I seen so much [[Fire|fire]], and so
 little sunshine in Dr. John’s blue eye as just now.
 
-“Lucy,” he recommenced, “look well at my mother, and say, without fear
+“Lucy,” he recommenced, “look [[Well|well]] at my mother, and say, without [[Fear|fear]]
 or favour, in what light she now appears to you.”
 
-“As she always does—an English, middle-class gentlewoman; well, though
+“As she always does—an English, middle-class gentlewoman; [[Well|well]], though
 gravely dressed, habitually independent of pretence, constitutionally
 composed and cheerful.”
 
@@ -55,11 +55,11 @@ composed and cheerful.”
 the weak only will laugh _at_ her. She shall not be ridiculed, with my
 consent, at least; nor without my—my scorn—my antipathy—my—”
 
-He stopped: and it was time—for he was getting excited—more it seemed
+He stopped: and it was [[Time|time]]—for he was getting excited—more it seemed
 than the occasion warranted. I did not then know that he had witnessed
-double cause for dissatisfaction with Miss Fanshawe. The glow of his
+[[Double|double]] cause for dissatisfaction with Miss Fanshawe. The glow of his
 complexion, the expansion of his nostril, the bold curve which disdain
-gave his well-cut under lip, showed him in a new and striking phase.
+gave his [[Well|well]]-cut under lip, showed him in a new and striking phase.
 Yet the rare passion of the constitutionally suave and serene, is not a
 pleasant spectacle; nor did I like the sort of vindictive thrill which
 passed through his strong young frame.
@@ -80,7 +80,7 @@ is flagging. Mamma, pray rouse yourself.”
 “John, I will certainly rouse you if you are not better conducted. Will
 you and Lucy be silent, that I may hear the singing?”
 
-They were then thundering in a chorus, under cover of which all the
+They were then thundering in a [[Chorus|chorus]], under cover of which all the
 previous dialogue had taken place.
 
 “_You_ hear the singing, mamma! Now, I will wager my studs, which are
@@ -93,7 +93,7 @@ value.”
 business.”
 
 “I am cheated in fewer things than you imagine. How do you happen to be
-acquainted with young ladies of the court, John? I have observed two of
+acquainted with young ladies of the [[Court|court]], John? I have observed two of
 them pay you no small attention during the last half-hour.”
 
 “I wish you would not observe them.”
@@ -115,10 +115,10 @@ interval between was one of general relaxation, and the pleasantest
 imaginable stir and commotion. The white flock was cleared from the
 platform; a busy throng of gentlemen crowded it instead, making
 arrangements for the drawing; and amongst these—the busiest of
-all—re-appeared that certain well-known form, not tall but active,
+all—re-appeared that certain [[Well|well]]-known form, not tall but active,
 alive with the energy and movement of three tall men. How M. Paul did
-work! How he issued directions, and, at the same time, set his own
-shoulder to the wheel! Half-a-dozen assistants were at his beck to
+work! How he issued directions, and, at the same [[Time|time]], set his own
+shoulder to the [[Wheel|wheel]]! Half-a-dozen assistants were at his beck to
 remove the pianos, &c.; no matter, he must add to their strength his
 own. The redundancy of his alertness was half-vexing, half-ludicrous:
 in my mind I both disapproved and derided most of this fuss. Yet, in
@@ -128,18 +128,18 @@ said; nor could I be blind to certain vigorous characteristics of his
 physiognomy, rendered conspicuous now by the contrast with a throng of
 tamer faces: the deep, intent keenness of his eye, the power of his
 forehead, pale, broad, and full—the mobility of his most flexible
-mouth. He lacked the calm of force, but its movement and its fire he
+mouth. He lacked the calm of force, but its movement and its [[Fire|fire]] he
 signally possessed.
 
-Meantime the whole hall was in a stir; most people rose and remained
+Meantime the whole hall was in a stir; most people [[Rose|rose]] and remained
 standing, for a change; some walked about, all talked and laughed. The
 crimson compartment presented a peculiarly animated scene. The long
 cloud of gentlemen, breaking into fragments, mixed with the rainbow
-line of ladies; two or three officer-like men approached the King and
-conversed with him. The Queen, leaving her chair, glided along the rank
+line of ladies; two or three officer-like men approached the [[King]] and
+conversed with him. The [[Queen]], leaving her chair, glided along the rank
 of young ladies, who all stood up as she passed; and to each in turn I
 saw her vouchsafe some token of kindness—a gracious word, look or
-smile. To the two pretty English girls, Lady Sara and Ginevra Fanshawe,
+smile. To the two pretty English girls, Lady Sara and [[Ginevra Fanshawe]],
 she addressed several sentences; as she left them, both, and especially
 the latter, seemed to glow all over with gratification. They were
 afterwards accosted by several ladies, and a little circle of gentlemen

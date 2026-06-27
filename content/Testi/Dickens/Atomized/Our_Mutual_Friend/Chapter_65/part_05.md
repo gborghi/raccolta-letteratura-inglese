@@ -14,16 +14,16 @@ tags:
 </nav>
 
 
-Intently over her shoulder, without slackening speed, she looked ahead
+Intently over her shoulder, without slackening [[Speed|speed]], she looked ahead
 for the driving face. She passed the scene of the struggle—yonder it
-was, on her left, well over the boat’s stern—she passed on her right,
-the end of the village street, a hilly street that almost dipped into
-the river; its sounds were growing faint again, and she slackened;
+was, on her left, [[Well|well]] over the boat’s stern—she passed on her right,
+the end of [[The Village Street|the village street]], a hilly street that almost dipped into
+the [[River|river]]; its sounds were growing faint again, and she slackened;
 looking as the boat drove, everywhere, everywhere, for the floating
 face.
 
 She merely kept the boat before the stream now, and rested on her oars,
-knowing well that if the face were not soon visible, it had gone down,
+knowing [[Well|well]] that if the face were not soon visible, it had gone down,
 and she would overshoot it. An untrained sight would never have seen by
 the moonlight what she saw at the length of a few strokes astern. She
 saw the drowning figure rise to the surface, slightly struggle, and as
@@ -33,50 +33,50 @@ dimly seen the face which she now dimly saw again.
 Firm of look and firm of purpose, she intently watched its coming on,
 until it was very near; then, with a touch unshipped her sculls, and
 crept aft in the boat, between kneeling and crouching. Once, she let the
-body evade her, not being sure of her grasp. Twice, and she had seized
+[[Body|body]] evade her, not being sure of her grasp. Twice, and she had seized
 it by its bloody hair.
 
 It was insensible, if not virtually dead; it was mutilated, and streaked
-the water all about it with dark red streaks. As it could not help
+the [[Water|water]] all about it with dark red streaks. As it could not help
 itself, it was impossible for her to get it on board. She bent over the
-stern to secure it with the line, and then the river and its shores rang
+stern to secure it with the line, and then the [[River|river]] and its shores rang
 to the terrible cry she uttered.
 
-But, as if possessed by supernatural spirit and strength, she lashed
+But, as if possessed by [[Supernatural|supernatural]] spirit and strength, she lashed
 it safe, resumed her seat, and rowed in, desperately, for the nearest
-shallow water where she might run the boat aground. Desperately, but not
+shallow [[Water|water]] where she might run the boat aground. Desperately, but not
 wildly, for she knew that if she lost distinctness of intention, all was
 lost and gone.
 
-She ran the boat ashore, went into the water, released him from the
+She ran the boat ashore, went into the [[Water|water]], released him from the
 line, and by main strength lifted him in her arms and laid him in the
-bottom of the boat. He had fearful wounds upon him, and she bound them
+[[Bottom|bottom]] of the boat. He had fearful wounds upon him, and she bound them
 up with her dress torn into strips. Else, supposing him to be still
-alive, she foresaw that he must bleed to death before he could be landed
+alive, she foresaw that he must bleed to [[Death|death]] before he could be landed
 at his inn, which was the nearest place for succour.
 
 This done very rapidly, she kissed his disfigured forehead, looked up
-in anguish to the stars, and blessed him and forgave him, ‘if she had
+in anguish to the [[Stars|stars]], and blessed him and forgave him, ‘if she had
 anything to forgive.’ It was only in that instant that she thought of
 herself, and then she thought of herself only for him.
 
-Now, merciful Heaven be thanked for that old time, enabling me, without
+Now, merciful Heaven be thanked for that old [[Time|time]], enabling me, without
 a wasted moment, to have got the boat afloat again, and to row back
 against the stream! And grant, O Blessed Lord God, that through poor me
-he may be raised from death, and preserved to some one else to whom he
+he may be raised from [[Death|death]], and preserved to some one else to whom he
 may be dear one day, though never dearer than to me!
 
 She rowed hard—rowed desperately, but never wildly—and seldom removed
-her eyes from him in the bottom of the boat. She had so laid him there,
+her eyes from him in the [[Bottom|bottom]] of the boat. She had so laid him there,
 as that she might see his disfigured face; it was so much disfigured
 that his mother might have covered it, but it was above and beyond
 disfigurement in her eyes.
 
 The boat touched the edge of the patch of inn lawn, sloping gently to
-the water. There were lights in the windows, but there chanced to be
+the [[Water|water]]. There were lights in the windows, but there chanced to be
 no one out of doors. She made the boat fast, and again by main strength
 took him up, and never laid him down until she laid him down in the
-house.
+[[house]].
 
 Surgeons were sent for, and she sat supporting his head. She had
 oftentimes heard in days that were gone, how doctors would lift the hand
@@ -91,10 +91,10 @@ examination, ‘Who brought him in?’
 
 ‘You, my dear? You could not lift, far less carry, this weight.’
 
-‘I think I could not, at another time, sir; but I am sure I did.’
+‘I think I could not, at another [[Time|time]], sir; but I am sure I did.’
 
 The surgeon looked at her with great attention, and with some
-compassion. Having with a grave face touched the wounds upon the head,
+compassion. Having with a [[Grave|grave]] face touched the wounds upon the head,
 and the broken arms, he took the hand.
 
 O! would he let it drop?

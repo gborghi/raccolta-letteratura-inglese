@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 33"
+title: "Bleak [[house|House]] — Chapter 33"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -23,26 +23,26 @@ Now do those two gentlemen not very neat about the cuffs and buttons
 who attended the last coroner’s inquest at the Sol’s Arms reappear in
 the precincts with surprising swiftness (being, in fact, breathlessly
 fetched by the active and intelligent beadle), and institute
-perquisitions through the court, and dive into the Sol’s parlour, and
+perquisitions through the [[Court|court]], and dive into the Sol’s parlour, and
 write with ravenous little pens on tissue-paper. Now do they note
-down, in the watches of the night, how the neighbourhood of Chancery
+down, in the watches of the [[Night|night]], how the neighbourhood of Chancery
 Lane was yesterday, at about midnight, thrown into a state of the
 most intense agitation and excitement by the following alarming and
 horrible discovery. Now do they set forth how it will doubtless be
-remembered that some time back a painful sensation was created in the
-public mind by a case of mysterious death from opium occurring in the
-first floor of the house occupied as a rag, bottle, and general
+remembered that some [[Time|time]] back a painful sensation was created in the
+public mind by a case of mysterious [[Death|death]] from opium occurring in the
+first floor of the [[house]] occupied as a rag, bottle, and general
 marine store shop, by an eccentric individual of intemperate habits,
 far advanced in life, named Krook; and how, by a remarkable
 coincidence, Krook was examined at the inquest, which it may be
 recollected was held on that occasion at the Sol’s Arms, a
-well-conducted tavern immediately adjoining the premises in question
+[[Well|well]]-conducted tavern immediately adjoining the premises in question
 on the west side and licensed to a highly respectable landlord, Mr.
 James George Bogsby. Now do they show (in as many words as possible)
 how during some hours of yesterday evening a very peculiar smell was
-observed by the inhabitants of the court, in which the tragical
+observed by the inhabitants of the [[Court|court]], in which the tragical
 occurrence which forms the subject of that present account
-transpired; and which odour was at one time so powerful that Mr.
+transpired; and which odour was at one [[Time|time]] so powerful that Mr.
 Swills, a comic vocalist professionally engaged by Mr. J. G. Bogsby,
 has himself stated to our reporter that he mentioned to Miss M.
 Melvilleson, a lady of some pretensions to musical ability, likewise
@@ -51,74 +51,74 @@ Harmonic Assemblies, or Meetings, which it would appear are held at
 the Sol’s Arms under Mr. Bogsby’s direction pursuant to the Act of
 George the Second, that he (Mr. Swills) found his voice seriously
 affected by the impure state of the atmosphere, his jocose expression
-at the time being that he was like an empty post-office, for he
+at the [[Time|time]] being that he was like an empty post-office, for he
 hadn’t a single note in him. How this account of Mr. Swills is
 entirely corroborated by two intelligent married females residing in
-the same court and known respectively by the names of Mrs. Piper and
+the same [[Court|court]] and known respectively by the names of Mrs. Piper and
 Mrs. Perkins, both of whom observed the foetid effluvia and regarded
 them as being emitted from the premises in the occupation of Krook,
 the unfortunate deceased. All this and a great deal more the two
-gentlemen who have formed an amicable partnership in the melancholy
+gentlemen who have formed an amicable partnership in the [[Melancholy|melancholy]]
 catastrophe write down on the spot; and the boy population of the
-court (out of bed in a moment) swarm up the shutters of the Sol’s
+[[Court|court]] (out of bed in a moment) swarm up the shutters of the Sol’s
 Arms parlour, to behold the tops of their heads while they are about
 it.
 
-The whole court, adult as well as boy, is sleepless for that night,
+The whole [[Court|court]], adult as [[Well|well]] as boy, is sleepless for that [[Night|night]],
 and can do nothing but wrap up its many heads, and talk of the
-ill-fated house, and look at it. Miss Flite has been bravely rescued
+ill-fated [[house]], and look at it. Miss Flite has been bravely rescued
 from her chamber, as if it were in flames, and accommodated with a
 bed at the Sol’s Arms. The Sol neither turns off its gas nor shuts
-its door all night, for any kind of public excitement makes good for
-the Sol and causes the court to stand in need of comfort. The house
+its door all [[Night|night]], for any kind of public excitement makes good for
+the Sol and causes the [[Court|court]] to stand in need of comfort. The [[house]]
 has not done so much in the stomachic article of cloves or in
-brandy-and-water warm since the inquest. The moment the pot-boy heard
+brandy-and-[[Water|water]] warm since the inquest. The moment the pot-boy heard
 what had happened, he rolled up his shirt-sleeves tight to his
 shoulders and said, “There’ll be a run upon us!” In the first outcry,
-young Piper dashed off for the fire-engines and returned in triumph
+young Piper dashed off for the [[Fire|fire]]-engines and returned in triumph
 at a jolting gallop perched up aloft on the Phoenix and holding on to
 that fabulous creature with all his might in the midst of helmets and
 torches. One helmet remains behind after careful investigation of all
-chinks and crannies and slowly paces up and down before the house in
+chinks and crannies and slowly paces up and down before the [[house]] in
 company with one of the two policemen who have likewise been left in
-charge thereof. To this trio everybody in the court possessed of
-sixpence has an insatiate desire to exhibit hospitality in a liquid
+charge thereof. To this trio everybody in the [[Court|court]] possessed of
+sixpence has an insatiate [[Desire|desire]] to exhibit hospitality in a liquid
 form.
 
 Mr. Weevle and his friend Mr. Guppy are within the bar at the Sol and
 are worth anything to the Sol that the bar contains if they will only
-stay there. “This is not a time,” says Mr. Bogsby, “to haggle about
+stay there. “This is not a [[Time|time]],” says Mr. Bogsby, “to haggle about
 money,” though he looks something sharply after it, over the counter;
 “give your orders, you two gentlemen, and you’re welcome to whatever
 you put a name to.”
 
 Thus entreated, the two gentlemen (Mr. Weevle especially) put names
-to so many things that in course of time they find it difficult to
+to so many things that in course of [[Time|time]] they find it difficult to
 put a name to anything quite distinctly, though they still relate to
-all new-comers some version of the night they have had of it, and of
+all new-comers some version of the [[Night|night]] they have had of it, and of
 what they said, and what they thought, and what they saw. Meanwhile,
 one or other of the policemen often flits about the door, and pushing
 it open a little way at the full length of his arm, looks in from
-outer gloom. Not that he has any suspicions, but that he may as well
+outer gloom. Not that he has any suspicions, but that he may as [[Well|well]]
 know what they are up to in there.
 
-Thus night pursues its leaden course, finding the court still out of
+Thus [[Night|night]] pursues its leaden course, finding the [[Court|court]] still out of
 bed through the unwonted hours, still treating and being treated,
-still conducting itself similarly to a court that has had a little
-money left it unexpectedly. Thus night at length with slow-retreating
+still conducting itself similarly to a [[Court|court]] that has had a little
+money left it unexpectedly. Thus [[Night|night]] at length with slow-retreating
 steps departs, and the lamp-lighter going his rounds, like an
-executioner to a despotic king, strikes off the little heads of fire
+executioner to a despotic [[King|king]], strikes off the little heads of [[Fire|fire]]
 that have aspired to lessen the darkness. Thus the day cometh,
 whether or no.
 
-And the day may discern, even with its dim London eye, that the court
-has been up all night. Over and above the faces that have fallen
+And the day may discern, even with its dim [[London]] eye, that the [[Court|court]]
+has been up all [[Night|night]]. Over and above the faces that have fallen
 drowsily on tables and the heels that lie prone on hard floors
-instead of beds, the brick and mortar physiognomy of the very court
+instead of beds, the brick and mortar physiognomy of the very [[Court|court]]
 itself looks worn and jaded. And now the neighbourhood, waking up and
 beginning to hear of what has happened, comes streaming in, half
 dressed, to ask questions; and the two policemen and the helmet (who
-are far less impressible externally than the court) have enough to do
+are far less impressible externally than the [[Court|court]]) have enough to do
 to keep the door.
 
 “Good gracious, gentlemen!” says Mr. Snagsby, coming up. “What’s this
@@ -128,13 +128,13 @@ I hear!”
 Now move on here, come!”
 
 “Why, good gracious, gentlemen,” says Mr. Snagsby, somewhat promptly
-backed away, “I was at this door last night betwixt ten and eleven
-o’clock in conversation with the young man who lodges here.”
+backed away, “I was at this door last [[Night|night]] betwixt ten and eleven
+o’[[Clock|clock]] in conversation with the young man who lodges here.”
 
 “Indeed?” returns the policeman. “You will find the young man next
 door then. Now move on here, some of you.”
 
-“Not hurt, I hope?” says Mr. Snagsby.
+“Not hurt, I [[Hope|hope]]?” says Mr. Snagsby.
 
 “Hurt? No. What’s to hurt him!”
 
@@ -158,7 +158,7 @@ shrub?”
 
 “No,” says Mrs. Snagsby.
 
-“My love, you know these two gentlemen?”
+“My [[Love|love]], you know these two gentlemen?”
 
 “Yes!” says Mrs. Snagsby, and in a rigid manner acknowledges their
 presence, still fixing Mr. Snagsby with her eye.
@@ -174,7 +174,7 @@ wouldn’t.”
 
 Mr. Snagsby, with his cough of meekness, rejoins, “Wouldn’t you
 really, my dear?” and meditates. Then coughs his cough of trouble and
-says, “This is a dreadful mystery, my love!” still fearfully
+says, “This is a dreadful mystery, my [[Love|love]]!” still fearfully
 disconcerted by Mrs. Snagsby’s eye.
 
 “It IS,” returns Mrs. Snagsby, shaking her head, “a dreadful
@@ -205,7 +205,7 @@ conduct, you come into a wine-vaults before breakfast?”
 “My dear, merely to know the rights of the fatal accident which has
 happened to the venerable party who has been—combusted.” Mr. Snagsby
 has made a pause to suppress a groan. “I should then have related
-them to you, my love, over your French roll.”
+them to you, my [[Love|love]], over your French roll.”
 
 “I dare say you would! You relate everything to me, Mr. Snagsby.”
 
@@ -213,28 +213,28 @@ them to you, my love, over your French roll.”
 
 “I should be glad,” says Mrs. Snagsby after contemplating his
 increased confusion with a severe and sinister smile, “if you would
-come home with me; I think you may be safer there, Mr. Snagsby, than
+come [[Home|home]] with me; I think you may be safer there, Mr. Snagsby, than
 anywhere else.”
 
-“My love, I don’t know but what I may be, I am sure. I am ready to
+“My [[Love|love]], I don’t know but what I may be, I am sure. I am ready to
 go.”
 
 Mr. Snagsby casts his eye forlornly round the bar, gives Messrs.
 Weevle and Guppy good morning, assures them of the satisfaction with
 which he sees them uninjured, and accompanies Mrs. Snagsby from the
-Sol’s Arms. Before night his doubt whether he may not be responsible
+Sol’s Arms. Before [[Night|night]] his [[Doubt|doubt]] whether he may not be responsible
 for some inconceivable part in the catastrophe which is the talk of
 the whole neighbourhood is almost resolved into certainty by Mrs.
 Snagsby’s pertinacity in that fixed gaze. His mental sufferings are
 so great that he entertains wandering ideas of delivering himself up
-to justice and requiring to be cleared if innocent and punished with
+to justice and requiring to be cleared if [[Innocent|innocent]] and punished with
 the utmost rigour of the law if guilty.
 
 Mr. Weevle and Mr. Guppy, having taken their breakfast, step into
-Lincoln’s Inn to take a little walk about the square and clear as
+[[Lincoln]]’s Inn to take a little walk about the square and clear as
 many of the dark cobwebs out of their brains as a little walk may.
 
-“There can be no more favourable time than the present, Tony,” says
+“There can be no more favourable [[Time|time]] than the present, Tony,” says
 Mr. Guppy after they have broodingly made out the four sides of the
 square, “for a word or two between us upon a point on which we must,
 with very little delay, come to an understanding.”
@@ -242,12 +242,12 @@ with very little delay, come to an understanding.”
 “Now, I tell you what, William G.!” returns the other, eyeing his
 companion with a bloodshot eye. “If it’s a point of conspiracy, you
 needn’t take the trouble to mention it. I have had enough of that,
-and I ain’t going to have any more. We shall have YOU taking fire
+and I ain’t going to have any more. We shall have YOU taking [[Fire|fire]]
 next or blowing up with a bang.”
 
 This supposititious phenomenon is so very disagreeable to Mr. Guppy
 that his voice quakes as he says in a moral way, “Tony, I should have
-thought that what we went through last night would have been a lesson
+thought that what we went through last [[Night|night]] would have been a lesson
 to you never to be personal any more as long as you lived.” To which
 Mr. Weevle returns, “William, I should have thought it would have
 been a lesson to YOU never to conspire any more as long as you
@@ -268,14 +268,14 @@ that is calculated to charm the eye—”
 you have got to say!”
 
 Finding his friend in this morose and material condition, Mr. Guppy
-only expresses the finer feelings of his soul through the tone of
+only expresses the finer feelings of his [[Soul|soul]] through the tone of
 injury in which he recommences, “Tony, when I say there is a point on
 which we must come to an understanding pretty soon, I say so quite
-apart from any kind of conspiring, however innocent. You know it is
+apart from any kind of conspiring, however [[Innocent|innocent]]. You know it is
 professionally arranged beforehand in all cases that are tried what
 facts the witnesses are to prove. Is it or is it not desirable that
 we should know what facts we are to prove on the inquiry into the
-death of this unfortunate old mo—gentleman?” (Mr. Guppy was going to
+[[Death|death]] of this unfortunate old mo—gentleman?” (Mr. Guppy was going to
 say “mogul,” but thinks “gentleman” better suited to the
 circumstances.)
 
@@ -289,11 +289,11 @@ how we made it.”
 “Yes,” says Mr. Weevle. “Those are about the facts.”
 
 “We made the discovery in consequence of his having, in his eccentric
-way, an appointment with you at twelve o’clock at night, when you
+way, an appointment with you at twelve o’[[Clock|clock]] at [[Night|night]], when you
 were to explain some writing to him as you had often done before on
 account of his not being able to read. I, spending the evening with
 you, was called down—and so forth. The inquiry being only into the
-circumstances touching the death of the deceased, it’s not necessary
+circumstances touching the [[Death|death]] of the deceased, it’s not necessary
 to go beyond these facts, I suppose you’ll agree?”
 
 “No!” returns Mr. Weevle. “I suppose not.”
@@ -319,7 +319,7 @@ bottle shop.
 
 Mr. Guppy nods.
 
-“Why, I wouldn’t pass another night there for any consideration that
+“Why, I wouldn’t pass another [[Night|night]] there for any consideration that
 you could offer me,” says Mr. Weevle, haggardly staring.
 
 “Do you mean it though, Tony?”
@@ -332,7 +332,7 @@ considered—of your never being disturbed in possession of those
 effects lately belonging to a lone old man who seemed to have no
 relation in the world, and the certainty of your being able to find
 out what he really had got stored up there, don’t weigh with you at
-all against last night, Tony, if I understand you?” says Mr. Guppy,
+all against last [[Night|night]], Tony, if I understand you?” says Mr. Guppy,
 biting his thumb with the appetite of vexation.
 
 “Certainly not. Talk in that cool way of a fellow’s living there?”
@@ -343,7 +343,7 @@ there and couldn’t get a lodging there now, whereas you have got
 one.”
 
 “You are welcome to it,” rejoins his friend, “and—ugh!—you may make
-yourself at home in it.”
+yourself at [[Home|home]] in it.”
 
 “Then you really and truly at this point,” says Mr. Guppy, “give up
 the whole thing, if I understand you, Tony?”
@@ -360,35 +360,35 @@ Smallweed, accompanied by their granddaughter Judy.
 
 An air of haste and excitement pervades the party, and as the tall
 hat (surmounting Mr. Smallweed the younger) alights, Mr. Smallweed
-the elder pokes his head out of window and bawls to Mr. Guppy, “How
+the elder pokes his head out of [[Window|window]] and bawls to Mr. Guppy, “How
 de do, sir! How de do!”
 
-“What do Chick and his family want here at this time of the morning,
-I wonder!” says Mr. Guppy, nodding to his familiar.
+“What do Chick and his family want here at this [[Time|time]] of the morning,
+I [[Wonder|wonder]]!” says Mr. Guppy, nodding to his familiar.
 
 “My dear sir,” cries Grandfather Smallweed, “would you do me a
 favour? Would you and your friend be so very obleeging as to carry me
-into the public-house in the court, while Bart and his sister bring
+into the public-[[house]] in the [[Court|court]], while Bart and his sister bring
 their grandmother along? Would you do an old man that good turn,
 sir?”
 
 Mr. Guppy looks at his friend, repeating inquiringly, “The
-public-house in the court?” And they prepare to bear the venerable
+public-[[house]] in the [[Court|court]]?” And they prepare to bear the venerable
 burden to the Sol’s Arms.
 
 “There’s your fare!” says the patriarch to the coachman with a fierce
 grin and shaking his incapable fist at him. “Ask me for a penny more,
-and I’ll have my lawful revenge upon you. My dear young men, be easy
+and I’ll have my lawful [[Revenge|revenge]] upon you. My dear young men, be easy
 with me, if you please. Allow me to catch you round the neck. I won’t
 squeeze you tighter than I can help. Oh, Lord! Oh, dear me! Oh, my
 bones!”
 
-It is well that the Sol is not far off, for Mr. Weevle presents an
+It is [[Well|well]] that the Sol is not far off, for Mr. Weevle presents an
 apoplectic appearance before half the distance is accomplished. With
 no worse aggravation of his symptoms, however, than the utterance of
 divers croaking sounds expressive of obstructed respiration, he
 fulfils his share of the porterage and the benevolent old gentleman
-is deposited by his own desire in the parlour of the Sol’s Arms.
+is deposited by his own [[Desire|desire]] in the parlour of the Sol’s Arms.
 
 “Oh, Lord!” gasps Mr. Smallweed, looking about him, breathless, from
 an arm-chair. “Oh, dear me! Oh, my bones and back! Oh, my aches and
@@ -398,7 +398,7 @@ poll-parrot! Sit down!”
 This little apostrophe to Mrs. Smallweed is occasioned by a
 propensity on the part of that unlucky old lady whenever she finds
 herself on her feet to amble about and “set” to inanimate objects,
-accompanying herself with a chattering noise, as in a witch dance. A
+accompanying herself with a chattering noise, as in a [[Witch|witch]] [[Dance|dance]]. A
 nervous affection has probably as much to do with these
 demonstrations as any imbecile intention in the poor old woman, but
 on the present occasion they are so particularly lively in connexion
@@ -420,7 +420,7 @@ The two discoverers stare at the Smallweeds, who return the
 compliment.
 
 “My dear friends,” whines Grandfather Smallweed, putting out both his
-hands, “I owe you a thousand thanks for discharging the melancholy
+hands, “I owe you a thousand thanks for discharging the [[Melancholy|melancholy]]
 office of discovering the ashes of Mrs. Smallweed’s brother.”
 
 “Eh?” says Mr. Guppy.
@@ -452,7 +452,7 @@ know why I should introduce HIM, I am sure!”
 gentleman strikes in, “but I have come to look after the property—to
 look over the papers, and to look after the property. We shall make
 good our title. It is in the hands of my solicitor. Mr. Tulkinghorn,
-of Lincoln’s Inn Fields, over the way there, is so good as to act as
+of [[Lincoln]]’s Inn Fields, over the way there, is so good as to act as
 my solicitor; and grass don’t grow under HIS feet, I can tell ye.
 Krook was Mrs. Smallweed’s only brother; she had no relation but
 Krook, and Krook had no relation but Mrs. Smallweed. I am speaking of
@@ -477,7 +477,7 @@ into his chair in a heap.
 “Shake me up, somebody, if you’ll be so good,” says the voice from
 within the faintly struggling bundle into which he has collapsed. “I
 have come to look after the property. Shake me up, and call in the
-police on duty at the next house to be explained to about the
+police on duty at the next [[house]] to be explained to about the
 property. My solicitor will be here presently to protect the
 property. Transportation or the gallows for anybody who shall touch
 the property!” As his dutiful grandchildren set him up, panting, and
@@ -493,13 +493,13 @@ interest. Mr. Tulkinghorn’s clerk comes down from his official pew in
 the chambers to mention to the police that Mr. Tulkinghorn is
 answerable for its being all correct about the next of kin and that
 the papers and effects will be formally taken possession of in due
-time and course. Mr. Smallweed is at once permitted so far to assert
+[[Time|time]] and course. Mr. Smallweed is at once permitted so far to assert
 his supremacy as to be carried on a visit of sentiment into the next
-house and upstairs into Miss Flite’s deserted room, where he looks
+[[house]] and upstairs into Miss Flite’s deserted room, where he looks
 like a hideous bird of prey newly added to her aviary.
 
-The arrival of this unexpected heir soon taking wind in the court
-still makes good for the Sol and keeps the court upon its mettle.
+The arrival of this unexpected heir soon taking [[Wind|wind]] in the [[Court|court]]
+still makes good for the Sol and keeps the [[Court|court]] upon its mettle.
 Mrs. Piper and Mrs. Perkins think it hard upon the young man if there
 really is no will, and consider that a handsome present ought to be
 made him out of the estate. Young Piper and young Perkins, as members
@@ -509,26 +509,26 @@ and under the archway all day long, where wild yells and hootings
 take place over their remains. Little Swills and Miss M. Melvilleson
 enter into affable conversation with their patrons, feeling that
 these unusual occurrences level the barriers between professionals
-and non-professionals. Mr. Bogsby puts up “The popular song of King
-Death, with chorus by the whole strength of the company,” as the
+and non-professionals. Mr. Bogsby puts up “The popular [[Song|song]] of [[King]]
+[[Death]], with [[Chorus|chorus]] by the whole strength of the company,” as the
 great Harmonic feature of the week and announces in the bill that “J.
 G. B. is induced to do so at a considerable extra expense in
 consequence of a wish which has been very generally expressed at the
-bar by a large body of respectable individuals and in homage to a
-late melancholy event which has aroused so much sensation.” There is
-one point connected with the deceased upon which the court is
+bar by a large [[Body|body]] of respectable individuals and in homage to a
+late [[Melancholy|melancholy]] event which has aroused so much sensation.” There is
+one point connected with the deceased upon which the [[Court|court]] is
 particularly anxious, namely, that the fiction of a full-sized coffin
 should be preserved, though there is so little to put in it. Upon the
 undertaker’s stating in the Sol’s bar in the course of the day that
 he has received orders to construct “a six-footer,” the general
 solicitude is much relieved, and it is considered that Mr.
-Smallweed’s conduct does him great honour.
+Smallweed’s conduct does him great [[Honour|honour]].
 
-Out of the court, and a long way out of it, there is considerable
-excitement too, for men of science and philosophy come to look, and
+Out of the [[Court|court]], and a long way out of it, there is considerable
+excitement too, for men of science and [[philosophy]] come to look, and
 carriages set down doctors at the corner who arrive with the same
 intent, and there is more learned talk about inflammable gases and
-phosphuretted hydrogen than the court has ever imagined. Some of
+phosphuretted hydrogen than the [[Court|court]] has ever imagined. Some of
 these authorities (of course the wisest) hold with indignation that
 the deceased had no business to die in the alleged manner; and being
 reminded by other authorities of a certain inquiry into the evidence
@@ -536,27 +536,27 @@ for such deaths reprinted in the sixth volume of the Philosophical
 Transactions; and also of a book not quite unknown on English medical
 jurisprudence; and likewise of the Italian case of the Countess
 Cornelia Baudi as set forth in detail by one Bianchini, prebendary of
-Verona, who wrote a scholarly work or so and was occasionally heard
-of in his time as having gleams of reason in him; and also of the
+[[Verona]], who wrote a scholarly work or so and was occasionally heard
+of in his [[Time|time]] as having gleams of reason in him; and also of the
 testimony of Messrs. Fodere and Mere, two pestilent Frenchmen who
 WOULD investigate the subject; and further, of the corroborative
 testimony of Monsieur Le Cat, a rather celebrated French surgeon once
-upon a time, who had the unpoliteness to live in a house where such a
+upon a [[Time|time]], who had the unpoliteness to live in a [[house]] where such a
 case occurred and even to write an account of it—still they regard
 the late Mr. Krook’s obstinacy in going out of the world by any such
 by-way as wholly unjustifiable and personally offensive. The less the
-court understands of all this, the more the court likes it, and the
+[[Court|court]] understands of all this, the more the [[Court|court]] likes it, and the
 greater enjoyment it has in the stock in trade of the Sol’s Arms.
-Then there comes the artist of a picture newspaper, with a foreground
+Then there comes the [[artist]] of a picture newspaper, with a foreground
 and figures ready drawn for anything from a wreck on the Cornish
 coast to a review in Hyde Park or a meeting in Manchester, and in
 Mrs. Perkins’ own room, memorable evermore, he then and there throws
-in upon the block Mr. Krook’s house, as large as life; in fact,
+in upon the block Mr. Krook’s [[house]], as large as life; in fact,
 considerably larger, making a very temple of it. Similarly, being
 permitted to look in at the door of the fatal chamber, he depicts
 that apartment as three-quarters of a mile long by fifty yards high,
-at which the court is particularly charmed. All this time the two
-gentlemen before mentioned pop in and out of every house and assist
+at which the [[Court|court]] is particularly charmed. All this [[Time|time]] the two
+gentlemen before mentioned pop in and out of every [[house]] and assist
 at the philosophical disputations—go everywhere and listen to
 everybody—and yet are always diving into the Sol’s parlour and
 writing with the ravenous little pens on the tissue-paper.
@@ -564,24 +564,24 @@ writing with the ravenous little pens on the tissue-paper.
 At last come the coroner and his inquiry, like as before, except that
 the coroner cherishes this case as being out of the common way and
 tells the gentlemen of the jury, in his private capacity, that “that
-would seem to be an unlucky house next door, gentlemen, a destined
-house; but so we sometimes find it, and these are mysteries we can’t
+would seem to be an unlucky [[house]] next door, gentlemen, a destined
+[[house]]; but so we sometimes find it, and these are mysteries we can’t
 account for!” After which the six-footer comes into action and is
 much admired.
 
 In all these proceedings Mr. Guppy has so slight a part, except when
 he gives his evidence, that he is moved on like a private individual
-and can only haunt the secret house on the outside, where he has the
+and can only haunt the secret [[house]] on the outside, where he has the
 mortification of seeing Mr. Smallweed padlocking the door, and of
 bitterly knowing himself to be shut out. But before these proceedings
-draw to a close, that is to say, on the night next after the
+draw to a close, that is to say, on the [[Night|night]] next after the
 catastrophe, Mr. Guppy has a thing to say that must be said to Lady
 Dedlock.
 
 For which reason, with a sinking heart and with that hang-dog sense
-of guilt upon him which dread and watching enfolded in the Sol’s Arms
+of [[Guilt|guilt]] upon him which dread and watching enfolded in the Sol’s Arms
 have produced, the young man of the name of Guppy presents himself at
-the town mansion at about seven o’clock in the evening and requests
+the town mansion at about seven o’[[Clock|clock]] in the evening and requests
 to see her ladyship. Mercury replies that she is going out to dinner;
 don’t he see the carriage at the door? Yes, he does see the carriage
 at the door; but he wants to see my Lady too.
@@ -589,18 +589,18 @@ at the door; but he wants to see my Lady too.
 Mercury is disposed, as he will presently declare to a
 fellow-gentleman in waiting, “to pitch into the young man”; but his
 instructions are positive. Therefore he sulkily supposes that the
-young man must come up into the library. There he leaves the young
+young man must come up into the library. There he [[Leaves|leaves]] the young
 man in a large room, not over-light, while he makes report of him.
 
 Mr. Guppy looks into the shade in all directions, discovering
 everywhere a certain charred and whitened little heap of coal or
-wood. Presently he hears a rustling. Is it—? No, it’s no ghost, but
-fair flesh and blood, most brilliantly dressed.
+wood. Presently he hears a rustling. Is it—? No, it’s no [[Ghost|ghost]], but
+fair flesh and [[Blood|blood]], most brilliantly dressed.
 
 “I have to beg your ladyship’s pardon,” Mr. Guppy stammers, very
-downcast. “This is an inconvenient time—”
+downcast. “This is an inconvenient [[Time|time]]—”
 
-“I told you, you could come at any time.” She takes a chair, looking
+“I told you, you could come at any [[Time|time]].” She takes a chair, looking
 straight at him as on the last occasion.
 
 “Thank your ladyship. Your ladyship is very affable.”
@@ -609,15 +609,15 @@ straight at him as on the last occasion.
 
 “I don’t know, your ladyship, that it’s worth while my sitting down
 and detaining you, for I—I have not got the letters that I mentioned
-when I had the honour of waiting on your ladyship.”
+when I had the [[Honour|honour]] of waiting on your ladyship.”
 
 “Have you come merely to say so?”
 
 “Merely to say so, your ladyship.” Mr. Guppy besides being depressed,
 disappointed, and uneasy, is put at a further disadvantage by the
-splendour and beauty of her appearance.
+splendour and [[Beauty|beauty]] of her appearance.
 
-She knows its influence perfectly, has studied it too well to miss a
+She knows its influence perfectly, has studied it too [[Well|well]] to miss a
 grain of its effect on any one. As she looks at him so steadily and
 coldly, he not only feels conscious that he has no guide in the least
 perception of what is really the complexion of her thoughts, but also
@@ -628,7 +628,7 @@ She will not speak, it is plain. So he must.
 
 “In short, your ladyship,” says Mr. Guppy like a meanly penitent
 thief, “the person I was to have had the letters of, has come to a
-sudden end, and—” He stops. Lady Dedlock calmly finishes the
+sudden end, and—” He stops. [[Lady Dedlock]] calmly finishes the
 sentence.
 
 “And the letters are destroyed with the person?”
@@ -643,13 +643,13 @@ put him away, and he were not looking beyond it and about it.
 
 He falters an awkward excuse or two for his failure.
 
-“Is this all you have to say?” inquires Lady Dedlock, having heard
+“Is this all you have to say?” inquires [[Lady Dedlock]], having heard
 him out—or as nearly out as he can stumble.
 
 Mr. Guppy thinks that’s all.
 
 “You had better be sure that you wish to say nothing more to me, this
-being the last time you will have the opportunity.”
+being the last [[Time|time]] you will have the opportunity.”
 
 Mr. Guppy is quite sure. And indeed he has no such wish at present,
 by any means.
@@ -658,7 +658,7 @@ by any means.
 And she rings for Mercury to show the young man of the name of Guppy
 out.
 
-But in that house, in that same moment, there happens to be an old
+But in that [[house]], in that same moment, there happens to be an old
 man of the name of Tulkinghorn. And that old man, coming with his
 quiet footstep to the library, has his hand at that moment on the
 handle of the door—comes in—and comes face to face with the young
@@ -668,7 +668,7 @@ One glance between the old man and the lady, and for an instant the
 blind that is always down flies up. Suspicion, eager and sharp, looks
 out. Another instant, close again.
 
-“I beg your pardon, Lady Dedlock. I beg your pardon a thousand times.
+“I beg your pardon, [[Lady Dedlock]]. I beg your pardon a thousand times.
 It is so very unusual to find you here at this hour. I supposed the
 room was empty. I beg your pardon!”
 
@@ -676,7 +676,7 @@ room was empty. I beg your pardon!”
 going out to dinner. I have nothing more to say to this young man!”
 
 The disconcerted young man bows, as he goes out, and cringingly hopes
-that Mr. Tulkinghorn of the Fields is well.
+that Mr. Tulkinghorn of the Fields is [[Well|well]].
 
 “Aye, aye?” says the lawyer, looking at him from under his bent
 brows, though he has no need to look again—not he. “From Kenge and
@@ -684,14 +684,14 @@ Carboy’s, surely?”
 
 “Kenge and Carboy’s, Mr. Tulkinghorn. Name of Guppy, sir.”
 
-“To be sure. Why, thank you, Mr. Guppy, I am very well!”
+“To be sure. Why, thank you, Mr. Guppy, I am very [[Well|well]]!”
 
-“Happy to hear it, sir. You can’t be too well, sir, for the credit of
+“Happy to hear it, sir. You can’t be too [[Well|well]], sir, for the credit of
 the profession.”
 
 “Thank you, Mr. Guppy!”
 
 Mr. Guppy sneaks away. Mr. Tulkinghorn, such a foil in his
-old-fashioned rusty black to Lady Dedlock’s brightness, hands her
+old-fashioned rusty black to [[Lady Dedlock]]’s brightness, hands her
 down the staircase to her carriage. He returns rubbing his chin, and
 rubs it a good deal in the course of the evening.

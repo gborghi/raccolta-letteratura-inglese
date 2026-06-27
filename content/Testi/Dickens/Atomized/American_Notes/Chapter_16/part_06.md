@@ -16,8 +16,8 @@ tags:
 
 Pending the conveyance of this request to some person in authority, we
 walked into a grim room, where several grim hats were hanging on grim
-pegs, and the time was grimly told by a grim clock which uttered every
-tick with a kind of struggle, as if it broke the grim silence
+pegs, and the [[Time|time]] was grimly told by a grim [[Clock|clock]] which uttered every
+tick with a kind of struggle, as if it broke the grim [[Silence|silence]]
 reluctantly, and under protest.  Ranged against the wall were six or
 eight stiff, high-backed chairs, and they partook so strongly of the
 general grimness that one would much rather have sat on the floor than
@@ -25,8 +25,8 @@ incurred the smallest obligation to any of them.
 
 Presently, there stalked into this apartment, a grim old Shaker, with
 eyes as hard, and dull, and cold, as the great round metal buttons on his
-coat and waistcoat; a sort of calm goblin.  Being informed of our desire,
-he produced a newspaper wherein the body of elders, whereof he was a
+coat and waistcoat; a sort of calm goblin.  Being informed of our [[Desire|desire]],
+he produced a newspaper wherein the [[Body|body]] of elders, whereof he was a
 member, had advertised but a few days before, that in consequence of
 certain unseemly interruptions which their worship had received from
 strangers, their chapel was closed to the public for the space of one
@@ -35,14 +35,14 @@ year.
 As nothing was to be urged in opposition to this reasonable arrangement,
 we requested leave to make some trifling purchases of Shaker goods; which
 was grimly conceded.  We accordingly repaired to a store in the same
-house and on the opposite side of the passage, where the stock was
+[[house]] and on the opposite side of the passage, where the stock was
 presided over by something alive in a russet case, which the elder said
 was a woman; and which I suppose _was_ a woman, though I should not have
 suspected it.
 
-On the opposite side of the road was their place of worship: a cool,
+On the opposite side of the [[Road|road]] was their place of worship: a cool,
 clean edifice of wood, with large windows and green blinds: like a
-spacious summer-house.  As there was no getting into this place, and
+spacious [[Summer|summer]]-[[house]].  As there was no getting into this place, and
 nothing was to be done but walk up and down, and look at it and the other
 buildings in the village (which were chiefly of wood, painted a dark red
 like English barns, and composed of many stories like English factories),
@@ -50,29 +50,29 @@ I have nothing to communicate to the reader, beyond the scanty results I
 gleaned the while our purchases were making.
 
 These people are called Shakers from their peculiar form of adoration,
-which consists of a dance, performed by the men and women of all ages,
+which consists of a [[Dance|dance]], performed by the men and women of all ages,
 who arrange themselves for that purpose in opposite parties: the men
 first divesting themselves of their hats and coats, which they gravely
 hang against the wall before they begin; and tying a ribbon round their
 shirt-sleeves, as though they were going to be bled.  They accompany
-themselves with a droning, humming noise, and dance until they are quite
+themselves with a droning, humming noise, and [[Dance|dance]] until they are quite
 exhausted, alternately advancing and retiring in a preposterous sort of
 trot.  The effect is said to be unspeakably absurd: and if I may judge
 from a print of this ceremony which I have in my possession; and which I
 am informed by those who have visited the chapel, is perfectly accurate;
-it must be infinitely grotesque.
+it must be infinitely [[Grotesque|grotesque]].
 
 They are governed by a woman, and her rule is understood to be absolute,
 though she has the assistance of a council of elders.  She lives, it is
 said, in strict seclusion, in certain rooms above the chapel, and is
 never shown to profane eyes.  If she at all resemble the lady who
-presided over the store, it is a great charity to keep her as close as
+presided over the store, it is a great [[Charity|charity]] to keep her as close as
 possible, and I cannot too strongly express my perfect concurrence in
 this benevolent proceeding.
 
 All the possessions and revenues of the settlement are thrown into a
 common stock, which is managed by the elders.  As they have made converts
-among people who were well to do in the world, and are frugal and
+among people who were [[Well|well]] to do in the world, and are frugal and
 thrifty, it is understood that this fund prospers: the more especially as
 they have made large purchases of land.  Nor is this at Lebanon the only
 Shaker settlement: there are, I think, at least, three others.
@@ -85,7 +85,7 @@ the brute creation.  Consequently, Shaker beasts seldom fail to find a
 ready market.
 
 They eat and drink together, after the Spartan model, at a great public
-table.  There is no union of the sexes, and every Shaker, male and
+table.  There is no [[Union|union]] of the sexes, and every Shaker, male and
 female, is devoted to a life of celibacy.  Rumour has been busy upon this
 theme, but here again I must refer to the lady of the store, and say,
 that if many of the sister Shakers resemble her, I treat all such slander
@@ -94,34 +94,34 @@ that they take as proselytes, persons so young that they cannot know
 their own minds, and cannot possess much strength of resolution in this
 or any other respect, I can assert from my own observation of the extreme
 juvenility of certain youthful Shakers whom I saw at work among the party
-on the road.
+on the [[Road|road]].
 
 They are said to be good drivers of bargains, but to be honest and just
-in their transactions, and even in horse-dealing to resist those thievish
+in their transactions, and even in [[Horse|horse]]-dealing to resist those thievish
 tendencies which would seem, for some undiscovered reason, to be almost
 inseparable from that branch of traffic.  In all matters they hold their
 own course quietly, live in their gloomy, silent commonwealth, and show
-little desire to interfere with other people.
+little [[Desire|desire]] to interfere with other people.
 
-This is well enough, but nevertheless I cannot, I confess, incline
+This is [[Well|well]] enough, but nevertheless I cannot, I confess, incline
 towards the Shakers; view them with much favour, or extend towards them
-any very lenient construction.  I so abhor, and from my soul detest that
+any very lenient construction.  I so abhor, and from my [[Soul|soul]] detest that
 bad spirit, no matter by what class or sect it may be entertained, which
-would strip life of its healthful graces, rob youth of its innocent
+would strip life of its healthful graces, rob youth of its [[Innocent|innocent]]
 pleasures, pluck from maturity and age their pleasant ornaments, and make
-existence but a narrow path towards the grave: that odious spirit which,
+existence but a narrow path towards the [[Grave|grave]]: that odious spirit which,
 if it could have had full scope and sway upon the earth, must have
 blasted and made barren the imaginations of the greatest men, and left
 them, in their power of raising up enduring images before their
-fellow-creatures yet unborn, no better than the beasts: that, in these
+fellow-creatures yet [[unborn]], no better than the beasts: that, in these
 very broad-brimmed hats and very sombre coats—in stiff-necked,
 solemn-visaged piety, in short, no matter what its garb, whether it have
 cropped hair as in a Shaker village, or long nails as in a Hindoo
 temple—I recognise the worst among the enemies of Heaven and Earth, who
-turn the water at the marriage feasts of this poor world, not into wine,
+turn the [[Water|water]] at the [[Marriage|marriage]] feasts of this poor world, not into wine,
 but gall.  And if there must be people vowed to crush the harmless
-fancies and the love of innocent delights and gaieties, which are a part
-of human nature: as much a part of it as any other love or hope that is
+fancies and the [[Love|love]] of [[Innocent|innocent]] delights and gaieties, which are a part
+of human [[Nature|nature]]: as much a part of it as any other [[Love|love]] or [[Hope|hope]] that is
 our common portion: let them, for me, stand openly revealed among the
 ribald and licentious; the very idiots know that _they_ are not on the
-Immortal road, and will despise them, and avoid them readily.
+Immortal [[Road|road]], and will despise them, and avoid them readily.

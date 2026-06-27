@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 27 (part 1)"
+title: "[[Wuthering Heights]] — Chapter 27 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -18,20 +18,20 @@ CHAPTER XXVII
 
 
 Seven days glided away, every one marking its course by the henceforth
-rapid alteration of Edgar Linton’s state. The havoc that months had
+rapid alteration of [[Edgar Linton]]’s state. The havoc that months had
 previously wrought was now emulated by the inroads of hours. Catherine
 we would fain have deluded yet; but her own quick spirit refused to
 delude her: it divined in secret, and brooded on the dreadful
 probability, gradually ripening into certainty. She had not the heart
-to mention her ride, when Thursday came round; I mentioned it for her,
+to mention her ride, when [[thursday|Thursday]] came round; I mentioned it for her,
 and obtained permission to order her out of doors: for the library,
-where her father stopped a short time daily—the brief period he could
+where her father stopped a short [[Time|time]] daily—the brief period he could
 bear to sit up—and his chamber, had become her whole world. She grudged
 each moment that did not find her bending over his pillow, or seated by
 his side. Her countenance grew wan with watching and sorrow, and my
 master gladly dismissed her to what he flattered himself would be a
-happy change of scene and society; drawing comfort from the hope that
-she would not now be left entirely alone after his death.
+happy change of scene and society; drawing comfort from the [[Hope|hope]] that
+she would not now be left entirely [[Alone|alone]] after his [[Death|death]].
 
 He had a fixed idea, I guessed by several observations he let fall,
 that, as his nephew resembled him in person, he would resemble him in
@@ -54,16 +54,16 @@ My young mistress alighted, and told me that, as she was resolved to
 stay a very little while, I had better hold the pony and remain on
 horseback; but I dissented: I wouldn’t risk losing sight of the charge
 committed to me a minute; so we climbed the slope of heath together.
-Master Heathcliff received us with greater animation on this occasion:
+Master [[Heathcliff]] received us with greater animation on this occasion:
 not the animation of high spirits though, nor yet of joy; it looked
-more like fear.
+more like [[Fear|fear]].
 
 “It is late!” he said, speaking short and with difficulty. “Is not your
 father very ill? I thought you wouldn’t come.”
 
 “_Why_ won’t you be candid?” cried Catherine, swallowing her greeting.
 “Why cannot you say at once you don’t want me? It is strange, Linton,
-that for the second time you have brought me here on purpose,
+that for the second [[Time|time]] you have brought me here on purpose,
 apparently to distress us both, and for no reason besides!”
 
 Linton shivered, and glanced at her, half supplicating, half ashamed;
@@ -72,8 +72,8 @@ behaviour.
 
 “My father _is_ very ill,” she said; “and why am I called from his
 bedside? Why didn’t you send to absolve me from my promise, when you
-wished I wouldn’t keep it? Come! I desire an explanation: playing and
-trifling are completely banished out of my mind; and I can’t dance
+wished I wouldn’t keep it? Come! I [[Desire|desire]] an explanation: playing and
+trifling are completely banished out of my mind; and I can’t [[Dance|dance]]
 attendance on your affectations now!”
 
 “My affectations!” he murmured; “what are they? For heaven’s sake,
@@ -84,7 +84,7 @@ mean for your anger. Hate my father, and spare me for contempt.”
 “Nonsense!” cried Catherine in a passion. “Foolish, silly boy! And
 there! he trembles, as if I were really going to touch him! You needn’t
 bespeak contempt, Linton: anybody will have it spontaneously at your
-service. Get off! I shall return home: it is folly dragging you from
+service. Get off! I shall return [[Home|home]]: it is folly dragging you from
 the hearth-stone, and pretending—what do we pretend? Let go my frock!
 If I pitied you for crying and looking so very frightened, you should
 spurn such pity. Ellen, tell him how disgraceful this conduct is. Rise,
@@ -115,14 +115,14 @@ for yourself, but not a cowardly betrayer of your best friend.”
 “But my father threatened me,” gasped the boy, clasping his attenuated
 fingers, “and I dread him—I dread him! I _dare_ not tell!”
 
-“Oh, well!” said Catherine, with scornful compassion, “keep your
+“Oh, [[Well|well]]!” said Catherine, with scornful compassion, “keep your
 secret: _I’m_ no coward. Save yourself: I’m not afraid!”
 
-Her magnanimity provoked his tears: he wept wildly, kissing her
-supporting hands, and yet could not summon courage to speak out. I was
+Her magnanimity provoked his [[Tears|tears]]: he wept wildly, kissing her
+supporting hands, and yet could not summon [[Courage|courage]] to speak out. I was
 cogitating what the mystery might be, and determined Catherine should
 never suffer to benefit him or any one else, by my good will; when,
-hearing a rustle among the ling, I looked up and saw Mr. Heathcliff
+hearing a rustle among the ling, I looked up and saw Mr. [[Heathcliff]]
 almost close upon us, descending the Heights. He didn’t cast a glance
 towards my companions, though they were sufficiently near for Linton’s
 sobs to be audible; but hailing me in the almost hearty tone he assumed

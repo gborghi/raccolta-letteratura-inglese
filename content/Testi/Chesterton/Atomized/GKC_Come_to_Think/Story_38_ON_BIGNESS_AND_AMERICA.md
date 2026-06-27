@@ -1,5 +1,5 @@
 ---
-title: "GKC Come to Think — ON BIGNESS AND AMERICA"
+title: "GKC Come to Think — ON BIGNESS AND [[America|AMERICA]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/GKC-Come-to-Think-(Chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-XXXVII.  On Bigness and America
+XXXVII.  On Bigness and [[America]]
 
-IT is well known that I am an unreasonable reactionary, who refuses
+IT is [[Well|well]] known that I am an unreasonable reactionary, who refuses
 to face the great facts of the modern world.  I have never been
 convinced that a giraffe is a better fireside playmate than a kitten.
 I cannot be got to see that a hippopotamus is certain to win a race
@@ -27,19 +27,19 @@ as drawing-room ornaments, necessarily improvements upon gold-fish.
 I cannot think that the gesture of pulling up a palm-tree is
 always easier or more graceful than that of picking a flower;
 or that it is always more enjoyable to die of thirst in the Sahara
-than to drink wine from a small vineyard or water from a village well.
+than to drink wine from a small vineyard or [[Water|water]] from a village [[Well|well]].
 In short, I am lamentably lacking in that reverence for largeness,
 or for things on a Big Scale, which is apparently the religion of the age
 of Big Business.  And, among other instances, I may venture to point
 out that this difference of opinion applies particularly to what was
-in the first instance, I suppose, the home and source of Big Business.
-There are a great many things which I really do admire about America;
+in the first instance, I suppose, the [[Home|home]] and source of Big Business.
+There are a great many things which I really do admire about [[America]];
 which I admire with much more sincerity than is common in those
-who merely flatter America.  I admire America for being simple,
+who merely flatter [[America]].  I admire [[America]] for being simple,
 for not being snobbish, for being still democratic in instincts,
 for having a respect for work and for treating the mere luxurious
-cynic as a lounge-lizard. But I do not admire America for being big.
-I do not envy America for being big.  I do not even feel
+cynic as a lounge-lizard. But I do not admire [[America]] for being big.
+I do not envy [[America]] for being big.  I do not even feel
 that it has practical and material advantages in being big.
 But it has a great many very big disadvantages from being big;
 and one of them emerged in the in tensely interesting issue
@@ -55,10 +55,10 @@ enlightened Americans as to anybody else, that there are great masses
 of unenlightened Americans, whom none of the enlightened Americans
 can approach near enough to enlighten.  There are superstitions
 that might have stagnated for centuries in impenetrable swamps;
-there are wild religions that might have sprung up and died in a desert;
+there are wild religions that might have sprung up and died in a [[Desert|desert]];
 there are solid blocks of barbarous ignorance which were due not
 to stupidity but simply to segregation.  There is no particular
-occasion for superiority or self-righteousness about this.
+occasion for superiority or [[Self|self]]-righteousness about this.
 If all Europe were one nation we should doubtless be saying
 the same about certain black belts among the Tartars or the Slavs.
 But though England has not yet the luck to be a small nationality,
@@ -70,26 +70,26 @@ and there never was an empire upon this earth that did not go
 further and fare worse.
 
 Anyhow, this queer fact of psychology and sociology has been
-illustrated amazingly in the outcry against Governor Smith.
+illustrated amazingly in the outcry against Governor [[smith|Smith]].
 Such cries seem sometimes to be hardly human; and nothing like
 them has been heard in Europe since the rabble roared behind
 Titus Oates or the native Irish were driven to Hell or Connaught.
 But there is one peculiarity of the ignorance to which I would draw
 special attention, though it is probably not the one to which I
 am supposed chiefly to attend.  I am a Catholic; but I know
-quite well that there are Anti-Catholics and Anti-Catholics. The
+quite [[Well|well]] that there are Anti-Catholics and Anti-Catholics. The
 extraordinary thing about these people is not that they know nothing
 about the Church, but that they know nothing about the world.
 It is not that they are ignorant of the old religion, but that they
 are ignorant of the modern situation, and of the things that
 are not only specially modern, but rather specially American.
-America is too large to understand its own largeness.  It is not
+[[America]] is too large to understand its own largeness.  It is not
 that thousands of them do not know what is meant by a Papal Bull.
 It is rather as if thousands of them did not know what is meant
 by a Ford Car.
 
 For instance, one thing that seems to have been said over
-and over again is that Mr. Smith would `bring the Pope over',
+and over again is that Mr. [[smith|Smith]] would `bring the Pope over',
 and apparently keep him permanently in the White House at Washington;
 whether as a paying guest or a sort of private chaplain I
 cannot quite make out.  Now, what interests me is this:

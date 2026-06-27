@@ -16,7 +16,7 @@ tags:
 
 THE CLUB
 
-Mankind is not a tribe of animals to which we owe compassion.
+Mankind is not a tribe of [[Animals|animals]] to which we owe compassion.
 Mankind is a club to which we owe our subscription.
 
                                               Daily News, April 10th, 1906

@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 8"
+title: "[[The Professor]] — Chapter 8"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,7 +18,7 @@ CHAPTER VIII.
 
 
 
-AND Pelet himself? How did I continue to like him? Oh, extremely well!
+AND Pelet himself? How did I continue to like him? Oh, extremely [[Well|well]]!
 
 Nothing could be more smooth, gentlemanlike, and even friendly, than
 
@@ -26,7 +26,7 @@ his demeanour to me. I had to endure from him neither cold neglect,
 
 irritating interference, nor pretentious assumption of superiority. I
 
-fear, however, two poor, hard-worked Belgian ushers in the establishment
+[[Fear|fear]], however, two poor, hard-worked Belgian ushers in the establishment
 
 could not have said as much; to them the director’s manner was
 
@@ -98,7 +98,7 @@ intelligent and really fond of intellectual subjects of discourse, he
 
 and I always found enough to talk about, without seeking themes in the
 
-mire. I hated his fashion of mentioning love; I abhorred, from my soul,
+mire. I hated his fashion of mentioning [[Love|love]]; I abhorred, from my [[Soul|soul]],
 
 mere licentiousness. He felt the difference of our notions, and, by
 
@@ -106,7 +106,7 @@ mutual consent, we kept off ground debateable.
 
 
 
-Pelet’s house was kept and his kitchen managed by his mother, a real
+Pelet’s [[house]] was kept and his kitchen managed by his mother, a real
 
 old Frenchwoman; she had been handsome--at least she told me so, and I
 
@@ -116,7 +116,7 @@ can be; perhaps, though, her style of dress made her look uglier than
 
 she really was. Indoors she would go about without cap, her grey hair
 
-strangely dishevelled; then, when at home, she seldom wore a gown--only
+strangely dishevelled; then, when at [[Home|home]], she seldom wore a gown--only
 
 a shabby cotton camisole; shoes, too, were strangers to her feet, and in
 
@@ -126,7 +126,7 @@ the other hand, whenever it was her pleasure to appear abroad, as on
 
 Sundays and fete-days, she would put on some very brilliant-coloured
 
-dress, usually of thin texture, a silk bonnet with a wreath of flowers,
+dress, usually of thin texture, a silk bonnet with a wreath of [[Flowers|flowers]],
 
 and a very fine shawl. She was not, in the main, an ill-natured old
 
@@ -168,9 +168,9 @@ ears, but Belgium is not England, and its ways are not our ways.
 
 Madame Pelet’s habits of life, then, being taken into consideration,
 
-I was a good deal surprised when, one Thursday evening (Thursday was
+I was a good deal surprised when, one [[thursday|Thursday]] evening ([[thursday|Thursday]] was
 
-always a half-holiday), as I was sitting all alone in my apartment,
+always a half-holiday), as I was sitting all [[Alone|alone]] in my apartment,
 
 correcting a huge pile of English and Latin exercises, a servant
 
@@ -198,7 +198,7 @@ door, a queer idea glanced across my mind.
 
 
 
-“Surely she’s not going to make love to me,” said I. “I’ve heard of
+“Surely she’s not going to make [[Love|love]] to me,” said I. “I’ve heard of
 
 old Frenchwomen doing odd things in that line; and the gouter? They
 
@@ -206,15 +206,15 @@ generally begin such affairs with eating and drinking, I believe.”
 
 
 
-There was a fearful dismay in this suggestion of my excited imagination,
+There was a fearful dismay in this suggestion of my excited [[Imagination|imagination]],
 
-and if I had allowed myself time to dwell upon it, I should no doubt
+and if I had allowed myself [[Time|time]] to dwell upon it, I should no [[Doubt|doubt]]
 
 have cut there and then, rushed back to my chamber, and bolted myself
 
 in; but whenever a danger or a horror is veiled with uncertainty,
 
-the primary wish of the mind is to ascertain first the naked truth,
+the primary wish of the mind is to ascertain first the naked [[Truth|truth]],
 
 reserving the expedient of flight for the moment when its dread
 
@@ -246,15 +246,15 @@ fauteuil beside it. This was a woman, too, and, moreover, an old woman,
 
 and as fat and as rubicund as Madame Pelet was meagre and yellow; her
 
-attire was likewise very fine, and spring flowers of different hues
+attire was likewise very fine, and [[spring]] [[Flowers|flowers]] of different hues
 
-circled in a bright wreath the crown of her violet-coloured velvet
+circled in a bright wreath the [[Crown|crown]] of her violet-coloured velvet
 
 bonnet.
 
 
 
-I had only time to make these general observations when Madame Pelet,
+I had only [[Time|time]] to make these general observations when Madame Pelet,
 
 coming forward with what she intended should be a graceful and elastic
 
@@ -268,7 +268,7 @@ request of an insignificant person like me--will Monsieur complete his
 
 kindness by allowing me to present him to my dear friend Madame Reuter,
 
-who resides in the neighbouring house--the young ladies’ school.”
+who resides in the neighbouring [[house]]--the young ladies’ school.”
 
 
 
@@ -280,7 +280,7 @@ Madame Reuter placed herself at the table opposite to me.
 
 “How do you like Belgium, Monsieur?” asked she, in an accent of the
 
-broadest Bruxellois. I could now well distinguish the difference between
+broadest Bruxellois. I could now [[Well|well]] distinguish the difference between
 
 the fine and pure Parisian utterance of M. Pelet, for instance, and
 
@@ -290,11 +290,11 @@ wondered how so coarse and clumsy an old woman as the one before me
 
 should be at the head of a ladies’ seminary, which I had always heard
 
-spoken of in terms of high commendation. In truth there was something
+spoken of in terms of high commendation. In [[Truth|truth]] there was something
 
-to wonder at. Madame Reuter looked more like a joyous, free-living old
+to [[Wonder|wonder]] at. Madame Reuter looked more like a joyous, free-living old
 
-Flemish fermiere, or even a maitresse d’auberge, than a staid, grave,
+Flemish fermiere, or even a maitresse d’auberge, than a staid, [[Grave|grave]],
 
 rigid directrice de pensionnat. In general the continental, or at least
 
@@ -314,7 +314,7 @@ comprehend the motives of these two droll old creatures for inviting me
 
 to join them at their gouter, I at last fairly gave it up, and resigning
 
-myself to inevitable mystification, I sat and looked first at one, then
+myself to inevitable [[Mystification|mystification]], I sat and looked first at one, then
 
 at the other, taking care meantime to do justice to the confitures,
 
@@ -368,7 +368,7 @@ importance of the commission with which my dear daughter has entrusted
 
 me, for you are aware, Monsieur, that it is my daughter who directs the
 
-establishment in the next house?”
+establishment in the next [[house]]?”
 
 
 
@@ -380,7 +380,7 @@ pensionnat.
 
 
 
-“I! Oh, no! I manage the house and look after the servants, as my friend
+“I! Oh, no! I manage the [[house]] and look after the servants, as my friend
 
 Madame Pelet does for Monsieur her son--nothing more. Ah! you thought I
 
@@ -400,7 +400,7 @@ lessons, I am sure it is not because she cannot;” and I whipped out a
 
 white pocket-handkerchief and wafted it, with a French grace, past my
 
-nose, bowing at the same time.
+nose, bowing at the same [[Time|time]].
 
 
 
@@ -412,11 +412,11 @@ French, only laughed again.
 
 
 
-“You are a dangerous person, I fear,” said she; “if you can forge
+“You are a dangerous person, I [[Fear|fear]],” said she; “if you can forge
 
 compliments at that rate, Zoraide will positively be afraid of you; but
 
-if you are good, I will keep your secret, and not tell her how well you
+if you are good, I will keep your secret, and not tell her how [[Well|well]] you
 
 can flatter. Now, listen what sort of a proposal she makes to you. She
 
@@ -430,7 +430,7 @@ step over this afternoon, and sound Madame Pelet as to the possibility
 
 of engaging you. Zoraide is a wary general; she never advances without
 
-first examining well her ground. I don’t think she would be pleased
+first examining [[Well|well]] her ground. I don’t think she would be pleased
 
 if she knew I had already disclosed her intentions to you; she did not
 
@@ -458,7 +458,7 @@ Pelet will mention the subject of your giving lessons in my daughter’s
 
 establishment to her son, and he will speak to you; and then to-morrow,
 
-you will step over to our house, and ask to see my daughter, and you
+you will step over to our [[house]], and ask to see my daughter, and you
 
 will introduce the subject as if the first intimation of it had reached
 
@@ -472,7 +472,7 @@ would not displease Zoraide on any account.”
 
 began to bore me very much; “I will consult M. Pelet, and the thing
 
-shall be settled as you desire. Good evening, mesdames--I am infinitely
+shall be settled as you [[Desire|desire]]. Good evening, mesdames--I am infinitely
 
 obliged to you.”
 
@@ -510,6 +510,6 @@ would be an occupation so interesting--to be admitted at all into a
 
 ladies’ boarding-school would be an incident so new in my life. Besides,
 
-thought I, as I glanced at the boarded window, “I shall now at last see
+thought I, as I glanced at the boarded [[Window|window]], “I shall now at last see
 
-the mysterious garden: I shall gaze both on the angels and their Eden.”
+the mysterious [[Garden|garden]]: I shall gaze both on the angels and their Eden.”

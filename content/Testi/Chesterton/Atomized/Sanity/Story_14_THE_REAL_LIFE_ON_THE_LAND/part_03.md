@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE REAL LIFE ON THE LAND (part 3)"
+title: "[[Sanity]] — THE REAL LIFE ON THE LAND (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -18,15 +18,15 @@ The sort of call that must be made on the modern English is the sort
 of call that is made before a great war or a great revolution.
 If the trumpet give an uncertain sound--but it must be unmistakably
 the sound of a trumpet.  The megaphone of mere mercantile
-self-satisfaction is merely loud and not in the least clear.
-In its nature it is saying smooth things, even if it is roaring them;
+[[Self|self]]-satisfaction is merely loud and not in the least clear.
+In its [[Nature|nature]] it is saying smooth things, even if it is roaring them;
 it is like one whispering soft nothings, even if its whisper
 is a horrible yell.  How can advertisement bid men prepare
 themselves for a battle?  How can publicity talk in the language
 of public spirit?  It cannot say, "Buy land at Blinkington-on-Sea
 and prepare yourself for the battle with stones and thistles."
 It cannot give a certain sound, like the old tocsin that rang
-for fire and flood, and tell the people of Puddleton that they
+for [[Fire|fire]] and flood, and tell the people of Puddleton that they
 are in danger of famine.  To do men justice, no man did announce
 the needs of Kitchener's Army like the comforts of the kitchen-range.
 We did not say to the recruits, "Spend your holiday at Mons."
@@ -36,12 +36,12 @@ We have to make that appeal again; and in the face of worse things.
 It is this that is made so difficult by the whole tone of advertisement.
 For the next thing we have to consider is the need of independent
 individual action on a large scale.  We want to make the need known,
-as the need for recruits was made known.  Education was too
+as the need for recruits was made known.  [[Education]] was too
 commercial in origin, and has allowed itself to be largely swamped
 by commercial advertisement.  It came too much from the town; and now it
-is nearly driven from the town.  Education really meant the teaching
+is nearly driven from the town.  [[Education]] really meant the teaching
 of town things to country people who did not want to learn them.
-I suggest that education should now mean the teaching of country
+I suggest that [[Education|education]] should now mean the teaching of country
 things to town people who do want to learn them.  I quite admit it
 would be much better to begin at least with those who really want it.
 But I also maintain that there are really a great many people
@@ -56,7 +56,7 @@ the steed has got to explain that he is really a graminivorous quadruped.
 The fulfilment of parliamentary promises grows rather slower
 than grass; and if nothing is done before the completion
 of what is called a constitutional process, we shall be about
-as near to Distributism as a Labour politician is to Socialism.
+as near to [[Distributism]] as a Labour politician is to Socialism.
 It seems to me first necessary to revive the medieval or moral method,
 and call for volunteers.
 
@@ -65,7 +65,7 @@ obeying them.  If we are, like the original Sinn Feiners, to anticipate
 legal change by social agreement, we want two sorts of volunteers,
 in order to make the experiment on the spot.  We want to find out
 how many peasants there are, actual or potential, who would take over
-the responsibility of small farms, for the sake of self-sufficiency,
+the responsibility of small farms, for the sake of [[Self-Sufficiency|self-sufficiency]],
 of real property, and of saving England in a desperate hour.
 We want to know how many landlords there are who would now give
 or sell cheaply their land to be cut up into a number of such farms.
@@ -77,7 +77,7 @@ since he is paying out to something that does not pay him back.
 But in any case, everybody has got to realize that the situation is,
 in no cant phrases, one for heroic remedies.  It is impossible
 to disguise that the man who gets the land, even more than the man
-who gives up the land, will have to be something of a hero.
+who gives up the land, will have to be something of a [[Hero|hero]].
 We shall be told that heroes do not grow on every hedgerow,
 that we cannot find enough to defend all our hedges.  We raised
 three million heroes with the blast of a bugle but a few years ago;
@@ -90,16 +90,16 @@ But we do not want the appeal weakened by that weak-minded,
 that wearisome, that dismal and deplorable thing that the newspapers
 call Optimism.  We are not asking babies to look pleasant while their
 photographs are taken; we are asking grown men to meet a crisis
-as grave as a great war.  We are not asking people to cut a coupon
+as [[Grave|grave]] as a great war.  We are not asking people to cut a coupon
 out of a newspaper, but to carve a farm out of a trackless waste;
 and if it is to be successful, it must be faced in something
 of the stubborn spirit of the old fulfilment of a vow.
 St. Francis showed his followers the way to a greater happiness;
 but he did not tell them that a wandering and homeless life would
 mean Everything as Nice as Mother Makes It; nor did he advertise it
-on hoardings as a Home From Home.  But we live in a time when it
-is harder for a free man to make a home than it was for a medieval
-ascetic to do without one.
+on hoardings as a [[Home]] From [[Home]].  But we live in a [[Time|time]] when it
+is harder for a free man to make a [[Home|home]] than it was for a medieval
+[[ascetic]] to do without one.
 
 The quarrel about the Limehouse slums was a working model of the problem--
 if we can talk of a working model of something that does not work,
@@ -120,7 +120,7 @@ top of each other for ever, in the form of a tower of flats.
 And so it might be necessary for men to climb on other men's shoulders
 in a flood or to get out of a chasm cloven by an earthquake.
 And it is logically conceivable, and even mathematically correct,
-that we might thin the crowds in the London streets, if we
+that we might thin the crowds in the [[London]] streets, if we
 could thus arrange men vertically instead of horizontally.
 If there were only some expedient by which a man might walk
 about with another man standing above him, and another
@@ -130,12 +130,12 @@ of such acrobatics might be made compulsory in all the schools.
 It is a picture that pleases me very much, as a picture.
 I look forward (in spirit of art for art's sake) to seeing such
 a living tower moving majestically down the Strand.  I like to think
-of the time of true social organization, when all the clerks of Messrs.
+of the [[Time|time]] of true social organization, when all the clerks of Messrs.
 Boodle & Bunkham shall no longer come up in their present random
 and straggling fashion, each from his little suburban villa.
 They shall not even, as in the immediate and intermediary stage of
-the Servile State, march in a well-drilled column from the dormitory
-in one part of London, to the emporium in the other.  No, a nobler
+the Servile State, march in a [[Well|well]]-drilled column from the dormitory
+in one part of [[London]], to the emporium in the other.  No, a nobler
 vision has arisen before me into the very heights of heaven.
 A toppling pagoda of clerks, one balanced on the top of another,
 moves down the street, perhaps making acrobatic patterns in the air as
@@ -143,14 +143,14 @@ it moves, to illustrate the perfect discipline of its social machinery.
 All that would be very impressive; and it really would,
 among other things, economize space.  But if one of the men near the top
 of that swaying tower were to say that he hoped some day to be able
-to revisit the earth, I should sympathize with his sense of exile.
+to revisit the earth, I should sympathize with his sense of [[Exile|exile]].
 If he were to say that it is natural to man to walk on the earth,
-I should find myself in agreement with his school of philosophy.
+I should find myself in agreement with his school of [[philosophy]].
 If he were to say that it was very difficult to look after chickens
 in that acrobatic attitude and altitude, I should think his difficulty
 a real one.  At first it might be retorted that bird-fancying would
 be even more appropriate to such an airy perch, but in practice
-those birds would be very fancy birds.  Finally, if he said
+those [[Birds|birds]] would be very fancy [[Birds|birds]].  Finally, if he said
 that keeping chickens that laid eggs was a worthy and valuable
 social work, much more worthy and valuable than serving Messrs.
 Boodle & Bunkham with the most perfect discipline and organization,

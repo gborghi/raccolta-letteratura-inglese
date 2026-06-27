@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 55 (part 5)"
+title: "Bleak [[house|House]] — Chapter 55 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 “Your ladyship may not be at first disposed to excuse this visit from
 one who has never been welcome to your ladyship”—which he don’t
 complain of, for he is bound to confess that there never has been any
-particular reason on the face of things why he should be—“but I hope
+particular reason on the face of things why he should be—“but I [[Hope|hope]]
 when I mention my motives to your ladyship you will not find fault
 with me,” says Mr. Guppy.
 
@@ -33,9 +33,9 @@ ladyship last, that she particularly wished me to take no steps
 whatever in any manner at all relating to her. And Miss Summerson’s
 wishes being to me a law (except as connected with circumstances over
 which I have no control), I consequently never expected to have the
-distinguished honour of waiting on your ladyship again.”
+distinguished [[Honour|honour]] of waiting on your ladyship again.”
 
-And yet he is here now, Lady Dedlock moodily reminds him.
+And yet he is here now, [[Lady Dedlock]] moodily reminds him.
 
 “And yet I am here now,” Mr. Guppy admits. “My object being to
 communicate to your ladyship, under the seal of confidence, why I am
@@ -53,17 +53,17 @@ seen ’em further first.”
 Mr. Guppy considers this a favourable moment for sticking up his hair
 with both hands.
 
-“Your ladyship will remember when I mention it that the last time I
+“Your ladyship will remember when I mention it that the last [[Time|time]] I
 was here I run against a party very eminent in our profession and
-whose loss we all deplore. That party certainly did from that time
+whose loss we all deplore. That party certainly did from that [[Time|time]]
 apply himself to cutting in against me in a way that I will call
 sharp practice, and did make it, at every turn and point, extremely
 difficult for me to be sure that I hadn’t inadvertently led up to
-something contrary to Miss Summerson’s wishes. Self-praise is no
+something contrary to Miss Summerson’s wishes. [[Self]]-praise is no
 recommendation, but I may say for myself that I am not so bad a man
 of business neither.”
 
-Lady Dedlock looks at him in stern inquiry. Mr. Guppy immediately
+[[Lady Dedlock]] looks at him in stern inquiry. Mr. Guppy immediately
 withdraws his eyes from her face and looks anywhere else.
 
 “Indeed, it has been made so hard,” he goes on, “to have any idea
@@ -72,7 +72,7 @@ loss which we all deplore I was gravelled—an expression which your
 ladyship, moving in the higher circles, will be so good as to
 consider tantamount to knocked over. Small likewise—a name by which
 I refer to another party, a friend of mine that your ladyship is not
-acquainted with—got to be so close and double-faced that at times it
+acquainted with—got to be so close and [[Double|double]]-faced that at times it
 wasn’t easy to keep one’s hands off his ’ead. However, what with the
 exertion of my humble abilities, and what with the help of a mutual
 friend by the name of Mr. Tony Weevle (who is of a high aristocratic
@@ -95,7 +95,7 @@ hour’s turn afterwards to avoid them.”
 you. What do you mean?”
 
 “Your ladyship, I come to put you on your guard. There may be no
-occasion for it. Very well. Then I have only done my best to keep my
+occasion for it. Very [[Well|well]]. Then I have only done my best to keep my
 promise to Miss Summerson. I strongly suspect (from what Small has
 dropped, and from what we have corkscrewed out of him) that those
 letters I was to have brought to your ladyship were not destroyed
@@ -108,11 +108,11 @@ Mr. Guppy picks up his hat and rises.
 
 “Your ladyship, you know best whether there’s anything in what I say
 or whether there’s nothing. Something or nothing, I have acted up to
-Miss Summerson’s wishes in letting things alone and in undoing what I
+Miss Summerson’s wishes in letting things [[Alone|alone]] and in undoing what I
 had begun to do, as far as possible; that’s sufficient for me. In
 case I should be taking a liberty in putting your ladyship on your
 guard when there’s no necessity for it, you will endeavour, I should
-hope, to outlive my presumption, and I shall endeavour to outlive
+[[Hope|hope]], to outlive my presumption, and I shall endeavour to outlive
 your disapprobation. I now take my farewell of your ladyship, and
 assure you that there’s no danger of your ever being waited on by me
 again.”
@@ -122,7 +122,7 @@ he has been gone a little while, she rings her bell.
 
 “Where is Sir Leicester?”
 
-Mercury reports that he is at present shut up in the library alone.
+Mercury reports that he is at present shut up in the library [[Alone|alone]].
 
 “Has Sir Leicester had any visitors this morning?”
 
@@ -136,9 +136,9 @@ foreseen by her, so unforeseen by him, she is denounced by an
 invisible accuser as the murderess of her enemy.
 
 Her enemy he was, and she has often, often, often wished him dead.
-Her enemy he is, even in his grave. This dreadful accusation comes
+Her enemy he is, even in his [[Grave|grave]]. This dreadful accusation comes
 upon her like a new torment at his lifeless hand. And when she
-recalls how she was secretly at his door that night, and how she may
+recalls how she was secretly at his door that [[Night|night]], and how she may
 be represented to have sent her favourite girl away so soon before
 merely to release herself from observation, she shudders as if the
 hangman’s hands were at her neck.

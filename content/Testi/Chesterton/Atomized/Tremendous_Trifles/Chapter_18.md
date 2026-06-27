@@ -24,39 +24,39 @@ in the green tie, for him I can never count truly human.
 But a lady has written me an earnest letter saying that fairy
 tales ought not to be taught to children even if they are true.
 She says that it is cruel to tell children fairy tales, because it
-frightens them.  You might just as well say that it is cruel
+frightens them.  You might just as [[Well|well]] say that it is cruel
 to give girls sentimental novels because it makes them cry.
 All this kind of talk is based on that complete forgetting
-of what a child is like which has been the firm foundation
+of what a [[Child|child]] is like which has been the firm foundation
 of so many educational schemes.  If you keep bogies and goblins
 away from children they would make them up for themselves.
-One small child in the dark can invent more hells than Swedenborg.
-One small child can imagine monsters too big and black
+One small [[Child|child]] in the dark can invent more hells than Swedenborg.
+One small [[Child|child]] can imagine monsters too big and black
 to get into any picture, and give them names too unearthly
 and cacophonous to have occurred in the cries of any lunatic.
-The child, to begin with, commonly likes horrors, and he
+The [[Child|child]], to begin with, commonly likes horrors, and he
 continues to indulge in them even when he does not like them.
 There is just as much difficulty in saying exactly where pure
-pain begins in his case, as there is in ours when we walk of our
-own free will into the torture-chamber of a great tragedy.
-The fear does not come from fairy tales; the fear comes from
-the universe of the soul.
+[[Pain|pain]] begins in his case, as there is in ours when we walk of our
+own free will into the torture-chamber of a great [[Tragedy|tragedy]].
+The [[Fear|fear]] does not come from fairy tales; the [[Fear|fear]] comes from
+the universe of the [[Soul|soul]].
 
 . . . . .
 
-The timidity of the child or the savage is entirely reasonable;
+The timidity of the [[Child|child]] or the savage is entirely reasonable;
 they are alarmed at this world, because this world is a very
-alarming place.  They dislike being alone because it is verily
-and indeed an awful idea to be alone.  Barbarians fear
+alarming place.  They dislike being [[Alone|alone]] because it is verily
+and indeed an awful idea to be [[Alone|alone]].  Barbarians [[Fear|fear]]
 the unknown for the same reason that Agnostics worship it--
 because it is a fact.  Fairy tales, then, are not responsible
-for producing in children fear, or any of the shapes of fear;
-fairy tales do not give the child the idea of the evil or the ugly;
-that is in the child already, because it is in the world already.
-Fairy tales do not give the child his first idea of bogey.
-What fairy tales give the child is his first clear idea
+for producing in children [[Fear|fear]], or any of the shapes of [[Fear|fear]];
+fairy tales do not give the [[Child|child]] the idea of the evil or the ugly;
+that is in the [[Child|child]] already, because it is in the world already.
+Fairy tales do not give the [[Child|child]] his first idea of bogey.
+What fairy tales give the [[Child|child]] is his first clear idea
 of the possible defeat of bogey.  The baby has known
-the dragon intimately ever since he had an imagination.
+the dragon intimately ever since he had an [[Imagination|imagination]].
 What the fairy tale provides for him is a St. George to
 kill the dragon.
 
@@ -64,16 +64,16 @@ Exactly what the fairy tale does is this:  it accustoms him
 for a series of clear pictures to the idea that these limitless
 terrors had a limit, that these shapeless enemies have enemies
 in the knights of God, that there is something in the universe
-more mystical than darkness, and stronger than strong fear.
-When I was a child I have stared at the darkness until the whole
+more mystical than darkness, and stronger than strong [[Fear|fear]].
+When I was a [[Child|child]] I have stared at the darkness until the whole
 black bulk of it turned into one negro giant taller than heaven.
 If there was one star in the sky it only made him a Cyclops.
 But fairy tales restored my mental health, for next day I read
 an authentic account of how a negro giant with one eye, of quite
 equal dimensions, had been baffled by a little boy like myself
 (of similar inexperience and even lower social status)
-by means of a sword, some bad riddles, and a brave heart.
-Sometimes the sea at night seemed as dreadful as any dragon.
+by means of a [[Sword|sword]], some bad riddles, and a brave heart.
+Sometimes the sea at [[Night|night]] seemed as dreadful as any dragon.
 But then I was acquainted with many youngest sons and little
 sailors to whom a dragon or two was as simple as the sea.
 
@@ -82,25 +82,25 @@ the excellent tale of the "Boy who Could not Shudder," and you
 will see what I mean.  There are some living shocks in that tale.
 I remember specially a man's legs which fell down the chimney
 by themselves and walked about the room, until they were rejoined
-by the severed head and body which fell down the chimney after them.
+by the severed head and [[Body|body]] which fell down the chimney after them.
 That is very good.  But the point of the story and the point
 of the reader's feelings is not that these things are frightening,
-but the far more striking fact that the hero was not frightened at them.
+but the far more striking fact that the [[Hero|hero]] was not frightened at them.
 The most fearful of all these fearful wonders was his own absence
-of fear.  He slapped the bogies on the back and asked the devils
-to drink wine with him; many a time in my youth, when stifled with some
-modern morbidity, I have prayed for a double portion of his spirit.
+of [[Fear|fear]].  He slapped the bogies on the back and asked the devils
+to drink wine with him; many a [[Time|time]] in my youth, when stifled with some
+modern morbidity, I have prayed for a [[Double|double]] portion of his spirit.
 If you have not read the end of his story, go and read it;
-it is the wisest thing in the world.  The hero was at last taught
-to shudder by taking a wife, who threw a pail of cold water over him.
-In that one sentence there is more of the real meaning of marriage
-than in all the books about sex that cover Europe and America.
+it is the wisest thing in the world.  The [[Hero|hero]] was at last taught
+to shudder by taking a wife, who threw a pail of cold [[Water|water]] over him.
+In that one sentence there is more of the real meaning of [[Marriage|marriage]]
+than in all the books about sex that cover Europe and [[America]].
 
 . . . . .
 
-At the four corners of a child's bed stand Perseus and Roland, Sigurd and
+At the four corners of a [[Child|child]]'s bed stand Perseus and Roland, Sigurd and
 St. George.  If you withdraw the guard of heroes you are not making
-him rational; you are only leaving him to fight the devils alone.
+him rational; you are only leaving him to fight the devils [[Alone|alone]].
 For the devils, alas, we have always believed in.  The hopeful element in
 the universe has in modern times continually been denied and reasserted;
 but the hopeless element has never for a moment been denied.
@@ -119,11 +119,11 @@ Now they are beginning rather slowly to believe in rather slow spirits.
 . . . . .
 
 Some people objected to spiritualism, table rappings, and such things,
-because they were undignified, because the ghosts cracked jokes or
+because they were undignified, because the [[Ghosts|ghosts]] cracked jokes or
 waltzed with dinner-tables. I do not share this objection in the least.
 I wish the spirits were more farcical than they are.  That they
 should make more jokes and better ones, would be my suggestion.
-For almost all the spiritualism of our time, in so far as it is new,
+For almost all the spiritualism of our [[Time|time]], in so far as it is new,
 is solemn and sad.  Some Pagan gods were lawless, and some Christian
 saints were a little too serious; but the spirits of modern spiritualism
 are both lawless and serious--a disgusting combination.  The specially
@@ -131,19 +131,19 @@ contemporary spirits are not only devils, they are blue devils.
 This is, first and last, the real value of Christmas; in so far
 as the mythology remains at all it is a kind of happy mythology.
 Personally, of course, I believe in Santa Claus; but it is the season
-of forgiveness, and I will forgive others for not doing so.
+of [[Forgiveness|forgiveness]], and I will forgive others for not doing so.
 But if there is anyone who does not comprehend the defect in our
 world which I am civilising, I should recommend him, for instance,
 to read a story by Mr. Henry James, called "The Turn of the Screw."
 It is one of the most powerful things ever written, and it is one
-of the things about which I doubt most whether it ought ever to have
-been written at all.  It describes two innocent children gradually
+of the things about which I [[Doubt|doubt]] most whether it ought ever to have
+been written at all.  It describes two [[Innocent|innocent]] children gradually
 growing at once omniscient and half-witted under the influence of
-the foul ghosts of a groom and a governess.  As I say, I doubt whether
+the foul [[Ghosts|ghosts]] of a groom and a governess.  As I say, I [[Doubt|doubt]] whether
 Mr. Henry James ought to have published it (no, it is not indecent,
 do not buy it; it is a spiritual matter), but I think the question
 so doubtful that I will give that truly great man a chance.
-I will approve the thing as well as admire it if he will write
+I will approve the thing as [[Well|well]] as admire it if he will write
 another tale just as powerful about two children and Santa Claus.
 If he will not, or cannot, then the conclusion is clear; we can
 deal strongly with gloomy mystery, but not with happy mystery;
@@ -151,7 +151,7 @@ we are not rationalists, but diabolists.
 
 . . . . .
 
-I have thought vaguely of all this staring at a great red fire that
+I have thought vaguely of all this staring at a great red [[Fire|fire]] that
 stands up in the room like a great red angel.  But, perhaps, you have
 never heard of a red angel.  But you have heard of a blue devil.
 That is exactly what I mean.

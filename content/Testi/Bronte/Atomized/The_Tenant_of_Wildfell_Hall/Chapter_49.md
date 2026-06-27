@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 49"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 49"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -28,7 +28,7 @@ before. We seldom _talked_ about Mrs. Huntingdon; but yet we never met
 
 without mentioning her, for I never sought his company but with the
 
-hope of hearing something about her, and he never sought mine at all,
+[[Hope|hope]] of hearing something about her, and he never sought mine at all,
 
 because he saw me often enough without. But I always began to talk of
 
@@ -44,15 +44,15 @@ husband?” though I might be burning to know; because I had not the
 
 hypocrisy to profess any anxiety for his recovery, and I had not the
 
-face to express any desire for a contrary result. Had I any such
+face to express any [[Desire|desire]] for a contrary result. Had I any such
 
-desire?—I fear I must plead guilty; but since you have heard my
+[[Desire|desire]]?—I [[Fear|fear]] I must plead guilty; but since you have heard my
 
-confession, you must hear my justification as well—a few of the
+confession, you must hear my justification as [[Well|well]]—a few of the
 
 excuses, at least, wherewith I sought to pacify my own accusing
 
-conscience.
+[[Conscience|conscience]].
 
 
 
@@ -66,9 +66,9 @@ done so, or if a spirit had whispered in my ear that a single effort of
 
 the will would be enough,—unless, indeed, I had the power to exchange
 
-him for some other victim of the grave, whose life might be of service
+him for some other victim of the [[Grave|grave]], whose life might be of service
 
-to his race, and whose death would be lamented by his friends. But was
+to his race, and whose [[Death|death]] would be lamented by his friends. But was
 
 there any harm in wishing that, among the many thousands whose souls
 
@@ -96,7 +96,7 @@ arguments—but God knew best. Meantime, however, I could not but be
 
 anxious for the result of His decrees; knowing, as I did, that (leaving
 
-myself entirely out of the question), however Helen might feel
+myself entirely out of the question), however [[Helen]] might feel
 
 interested in her husband’s welfare, however she might deplore his
 
@@ -122,7 +122,7 @@ merciful; and in a little while he put his sister’s letter into my
 
 hand. I silently read it, and restored it to him without comment or
 
-remark. This mode of procedure suited him so well, that thereafter he
+remark. This mode of procedure suited him so [[Well|well]], that thereafter he
 
 always pursued the plan of showing me her letters at once, when
 
@@ -138,7 +138,7 @@ them.
 
 But I devoured those precious letters with my eyes, and never let them
 
-go till their contents were stamped upon my mind; and when I got home,
+go till their contents were stamped upon my mind; and when I got [[Home|home]],
 
 the most important passages were entered in my diary among the
 
@@ -154,19 +154,19 @@ infatuation in persisting in the indulgence of his appetite for
 
 stimulating drink. In vain had she remonstrated, in vain she had
 
-mingled his wine with water: her arguments and entreaties were a
+mingled his wine with [[Water|water]]: her arguments and entreaties were a
 
 nuisance, her interference was an insult so intolerable that, at
 
 length, on finding she had covertly diluted the pale port that was
 
-brought him, he threw the bottle out of the window, swearing he would
+brought him, he threw the bottle out of the [[Window|window]], swearing he would
 
-not be cheated like a baby, ordered the butler, on pain of instant
+not be cheated like a baby, ordered the butler, on [[Pain|pain]] of instant
 
 dismissal, to bring a bottle of the strongest wine in the cellar, and
 
-affirming that he should have been well long ago if he had been let to
+affirming that he should have been [[Well|well]] long ago if he had been let to
 
 have his own way, but she wanted to keep him weak in order that she
 
@@ -190,27 +190,27 @@ taken place, which might terminate fatally if not soon removed. Of
 
 course, the wretched sufferer’s temper was not improved by this
 
-calamity—in fact, I suspect it was well nigh insupportable, though his
+calamity—in fact, I suspect it was [[Well|well]] nigh insupportable, though his
 
-kind nurse did not complain; but she said she had been obliged at last
+kind [[Nurse|nurse]] did not complain; but she said she had been obliged at last
 
 to give her son in charge to Esther Hargrave, as her presence was so
 
 constantly required in the sick-room that she could not possibly attend
 
-to him herself; and though the child had begged to be allowed to
+to him herself; and though the [[Child|child]] had begged to be allowed to
 
-continue with her there, and to help her to nurse his papa, and though
+continue with her there, and to help her to [[Nurse|nurse]] his papa, and though
 
-she had no doubt he would have been very good and quiet, she could not
+she had no [[Doubt|doubt]] he would have been very good and quiet, she could not
 
 think of subjecting his young and tender feelings to the sight of so
 
-much suffering, or of allowing him to witness his father’s impatience,
+much [[Suffering|suffering]], or of allowing him to witness his father’s impatience,
 
 or hear the dreadful language he was wont to use in his paroxysms of
 
-pain or irritation.
+[[Pain|pain]] or irritation.
 
 
 
@@ -220,7 +220,7 @@ occasioned his relapse; but, as usual, he throws the blame upon me. If
 
 I had reasoned with him like a rational creature, he says, it never
 
-would have happened; but to be treated like a baby or a fool was enough
+would have happened; but to be treated like a baby or a [[Fool|fool]] was enough
 
 to put any man past his patience, and drive him to assert his
 
@@ -230,7 +230,7 @@ often I had _reasoned_ him “past his patience” before. He appears to be
 
 sensible of his danger; but nothing can induce him to behold it in the
 
-proper light. The other night, while I was waiting on him, and just as
+proper light. The other [[Night|night]], while I was waiting on him, and just as
 
 I had brought him a draught to assuage his burning thirst, he observed,
 
@@ -250,11 +250,11 @@ willing to do anything I can to relieve you.”
 
 “Yes, _now_, my immaculate angel; but when once you have secured your
 
-reward, and find yourself safe in heaven, and me howling in hell-fire,
+reward, and find yourself safe in heaven, and me howling in hell-[[Fire|fire]],
 
 catch you lifting a finger to serve me _then!_ No, you’ll look
 
-complacently on, and not so much as dip the tip of your finger in water
+complacently on, and not so much as dip the tip of your finger in [[Water|water]]
 
 to cool my tongue!”
 
@@ -266,7 +266,7 @@ and if I _could_ look complacently on in such a case, it would be only
 
 from the assurance that you were being purified from your sins, and
 
-fitted to enjoy the happiness I felt.—But are you _determined_, Arthur,
+fitted to enjoy the happiness I felt.—But are you _determined_, [[arthur|Arthur]],
 
 that I shall not meet you in heaven?”
 
@@ -276,7 +276,7 @@ that I shall not meet you in heaven?”
 
 
 
-“Indeed, I cannot tell; and I fear it is too certain that your tastes
+“Indeed, I cannot tell; and I [[Fear|fear]] it is too certain that your tastes
 
 and feelings must be widely altered before you can have any enjoyment
 
@@ -286,13 +286,13 @@ torment you picture to yourself?”
 
 
 
-“Oh, it’s all a fable,” said he, contemptuously.
+“Oh, it’s all a [[Fable|fable]],” said he, contemptuously.
 
 
 
-“Are you sure, Arthur? are you _quite_ sure? Because, if there is any
+“Are you sure, [[arthur|Arthur]]? are you _quite_ sure? Because, if there is any
 
-doubt, and if you _should_ find yourself mistaken after all, when it is
+[[Doubt|doubt]], and if you _should_ find yourself mistaken after all, when it is
 
 too late to turn—”
 
@@ -304,11 +304,11 @@ now—I’m not going to die yet. I can’t and won’t,” he added vehemently,
 
 as if suddenly struck with the appalling aspect of that terrible event.
 
-“Helen, you _must_ save me!” And he earnestly seized my hand, and
+“[[Helen]], you _must_ save me!” And he earnestly seized my hand, and
 
 looked into my face with such imploring eagerness that my heart bled
 
-for him, and I could not speak for tears.
+for him, and I could not speak for [[Tears|tears]].
 
 
 
@@ -320,13 +320,13 @@ for him, and I could not speak for tears.
 
 The next letter brought intelligence that the malady was fast
 
-increasing; and the poor sufferer’s horror of death was still more
+increasing; and the poor sufferer’s horror of [[Death|death]] was still more
 
-distressing than his impatience of bodily pain. _All_ his friends had
+distressing than his impatience of bodily [[Pain|pain]]. _All_ his friends had
 
 not forsaken him; for Mr. Hattersley, hearing of his danger, had come
 
-to see him from his distant home in the north. His wife had accompanied
+to see him from his distant [[Home|home]] in the north. His wife had accompanied
 
 him, as much for the pleasure of seeing her dear friend, from whom she
 
@@ -336,11 +336,11 @@ had been parted so long, as to visit her mother and sister.
 
 Mrs. Huntingdon expressed herself glad to see Milicent once more, and
 
-pleased to behold her so happy and well. She is now at the Grove,
+pleased to behold her so happy and [[Well|well]]. She is now at the Grove,
 
 continued the letter, but she often calls to see me. Mr. Hattersley
 
-spends much of his time at Arthur’s bed-side. With more good feeling
+spends much of his [[Time|time]] at [[arthur|Arthur]]’s bed-side. With more good feeling
 
 than I gave him credit for, he evinces considerable sympathy for his
 
@@ -350,17 +350,17 @@ Sometimes he tries to joke and laugh with him, but that will not do;
 
 sometimes he endeavours to cheer him with talk about old times, and
 
-this at one time may serve to divert the sufferer from his own sad
+this at one [[Time|time]] may serve to divert the sufferer from his own sad
 
-thoughts; at another, it will only plunge him into deeper melancholy
+thoughts; at another, it will only plunge him into deeper [[Melancholy|melancholy]]
 
 than before; and then Hattersley is confounded, and knows not what to
 
 say, unless it be a timid suggestion that the clergyman might be sent
 
-for. But Arthur will never consent to that: he knows he has rejected
+for. But [[arthur|Arthur]] will never consent to that: he knows he has rejected
 
-the clergyman’s well-meant admonitions with scoffing levity at other
+the clergyman’s [[Well|well]]-meant admonitions with scoffing levity at other
 
 times, and cannot dream of turning to him for consolation now.
 
@@ -368,17 +368,17 @@ times, and cannot dream of turning to him for consolation now.
 
 Mr. Hattersley sometimes offers his services instead of mine, but
 
-Arthur will not let me go: that strange whim still increases, as his
+[[arthur|Arthur]] will not let me go: that strange whim still increases, as his
 
 strength declines—the fancy to have me always by his side. I hardly
 
 ever leave him, except to go into the next room, where I sometimes
 
-snatch an hour or so of sleep when he is quiet; but even then the door
+snatch an hour or so of [[Sleep|sleep]] when he is quiet; but even then the door
 
 is left ajar, that he may know me to be within call. I am with him now,
 
-while I write, and I fear my occupation annoys him; though I frequently
+while I write, and I [[Fear|fear]] my occupation annoys him; though I frequently
 
 break off to attend to him, and though Mr. Hattersley is also by his
 
@@ -386,7 +386,7 @@ side. That gentleman came, as he said, to beg a holiday for me, that I
 
 might have a run in the park, this fine frosty morning, with Milicent
 
-and Esther and little Arthur, whom he had driven over to see me. Our
+and Esther and little [[arthur|Arthur]], whom he had driven over to see me. Our
 
 poor invalid evidently felt it a heartless proposition, and would have
 
@@ -400,7 +400,7 @@ fresh, bracing air as I stood, and then, resisting the earnest and
 
 eloquent entreaties of all three to stay a little longer, and join them
 
-in a walk round the garden, I tore myself away and returned to my
+in a walk round the [[Garden|garden]], I tore myself away and returned to my
 
 patient. I had not been absent five minutes, but he reproached me
 
@@ -410,9 +410,9 @@ bitterly for my levity and neglect. His friend espoused my cause.
 
 “Nay, nay, Huntingdon,” said he, “you’re too hard upon her; she must
 
-have food and sleep, and a mouthful of fresh air now and then, or she
+have food and [[Sleep|sleep]], and a mouthful of fresh air now and then, or she
 
-can’t stand it, I tell you. Look at her, man! she’s worn to a shadow
+can’t stand it, I tell you. Look at her, man! she’s worn to a [[Shadow|shadow]]
 
 already.”
 
@@ -420,11 +420,11 @@ already.”
 
 “What are her sufferings to mine?” said the poor invalid. “You don’t
 
-grudge me these attentions, do you, Helen?”
+grudge me these attentions, do you, [[Helen]]?”
 
 
 
-“No, Arthur, if I could really serve you by them. I would give my life
+“No, [[arthur|Arthur]], if I could really serve you by them. I would give my life
 
 to save you, if I might.”
 
@@ -448,7 +448,7 @@ reflections; but while I pondered for something to say that might
 
 benefit without alarming him, Hattersley, whose mind had been pursuing
 
-almost the same course, broke silence with, “I say, Huntingdon, I
+almost the same course, broke [[Silence|silence]] with, “I say, Huntingdon, I
 
 _would_ send for a parson of some sort: if you didn’t like the vicar,
 
@@ -458,7 +458,7 @@ you know, you could have his curate, or somebody else.”
 
 “No; none of them can benefit me if _she_ can’t,” was the answer. And
 
-the tears gushed from his eyes as he earnestly exclaimed, “Oh, Helen,
+the [[Tears|tears]] gushed from his eyes as he earnestly exclaimed, “Oh, [[Helen]],
 
 if I had listened to you, it never would have come to this! and if I
 
@@ -466,21 +466,21 @@ had heard you long ago—oh, God! how different it would have been!”
 
 
 
-“Hear me now, then, Arthur,” said I, gently pressing his hand.
+“Hear me now, then, [[arthur|Arthur]],” said I, gently pressing his hand.
 
 
 
 “It’s too late now,” said he despondingly. And after that another
 
-paroxysm of pain came on; and then his mind began to wander, and we
+paroxysm of [[Pain|pain]] came on; and then his mind began to wander, and we
 
-feared his death was approaching: but an opiate was administered: his
+feared his [[Death|death]] was approaching: but an opiate was administered: his
 
 sufferings began to abate, he gradually became more composed, and at
 
 length sank into a kind of slumber. He has been quieter since; and now
 
-Hattersley has left him, expressing a hope that he shall find him
+Hattersley has left him, expressing a [[Hope|hope]] that he shall find him
 
 better when he calls to-morrow.
 
@@ -488,7 +488,7 @@ better when he calls to-morrow.
 
 “Perhaps I _may_ recover,” he replied; “who knows? This may have been
 
-the crisis. What do _you_ think, Helen?”
+the crisis. What do _you_ think, [[Helen]]?”
 
 
 
@@ -496,7 +496,7 @@ Unwilling to depress him, I gave the most cheering answer I could, but
 
 still recommended him to prepare for the possibility of what I inly
 
-feared was but too certain. But he was determined to hope. Shortly
+feared was but too certain. But he was determined to [[Hope|hope]]. Shortly
 
 after he relapsed into a kind of doze, but now he groans again.
 
@@ -506,9 +506,9 @@ There is a change. Suddenly he called me to his side, with such a
 
 strange, excited manner, that I feared he was delirious, but he was
 
-not. “That _was_ the crisis, Helen!” said he, delightedly. “I had an
+not. “That _was_ the crisis, [[Helen]]!” said he, delightedly. “I had an
 
-infernal pain here—it is quite gone now. I never was so easy since the
+infernal [[Pain|pain]] here—it is quite gone now. I never was so easy since the
 
 fall—quite gone, by heaven!” and he clasped and kissed my hand in the
 
@@ -518,25 +518,25 @@ joy, he quickly flung it from him, and bitterly cursed my coldness and
 
 insensibility. How could I reply? Kneeling beside him, I took his hand
 
-and fondly pressed it to my lips—for the first time since our
+and fondly pressed it to my lips—for the first [[Time|time]] since our
 
-separation—and told him, as well as tears would let me speak, that it
+separation—and told him, as [[Well|well]] as [[Tears|tears]] would let me speak, that it
 
-was not _that_ that kept me silent: it was the fear that this sudden
+was not _that_ that kept me silent: it was the [[Fear|fear]] that this sudden
 
-cessation of pain was not so favourable a symptom as he supposed. I
+cessation of [[Pain|pain]] was not so favourable a symptom as he supposed. I
 
 immediately sent for the doctor: we are now anxiously awaiting him. I
 
-will tell you what he says. There is still the same freedom from pain,
+will tell you what he says. There is still the same [[Freedom|freedom]] from [[Pain|pain]],
 
-the same deadness to all sensation where the suffering was most acute.
+the same deadness to all sensation where the [[Suffering|suffering]] was most acute.
 
 
 
 My worst fears are realised: mortification has commenced. The doctor
 
-has told him there is no hope. No words can describe his anguish. I can
+has told him there is no [[Hope|hope]]. No words can describe his anguish. I can
 
 write no more.
 
@@ -554,7 +554,7 @@ sufferer was fast approaching dissolution—dragged almost to the verge
 
 of that awful chasm he trembled to contemplate, from which no agony of
 
-prayers or tears could save him. Nothing could comfort him now;
+prayers or [[Tears|tears]] could save him. Nothing could comfort him now;
 
 Hattersley’s rough attempts at consolation were utterly in vain. The
 
@@ -572,7 +572,7 @@ minuteness on the fate of his perishing clay—the slow, piecemeal
 
 dissolution already invading his frame: the shroud, the coffin, the
 
-dark, lonely grave, and all the horrors of corruption.
+dark, lonely [[Grave|grave]], and all the horrors of corruption.
 
 
 
@@ -582,7 +582,7 @@ things—to raise his thoughts to higher themes, it is no better:—‘Worse
 
 and worse!’ he groans. ‘If there be really life beyond the tomb, and
 
-judgment after death, how _can_ I face it?’—I cannot do him any good;
+judgment after [[Death|death]], how _can_ I face it?’—I cannot do him any good;
 
 he will neither be enlightened, nor roused, nor comforted by anything I
 
@@ -590,7 +590,7 @@ say; and yet he clings to me with unrelenting pertinacity—with a kind
 
 of childish desperation, as if _I_ could save him from the fate he
 
-dreads. He keeps me night and day beside him. He is holding my left
+dreads. He keeps me [[Night|night]] and day beside him. He is holding my left
 
 hand now, while I write; he has held it thus for hours: sometimes
 
@@ -604,9 +604,9 @@ my hand for a moment it distresses him.
 
 
 
-“‘Stay with me, Helen,’ he says; ‘let me hold you so: it seems as if
+“‘Stay with me, [[Helen]],’ he says; ‘let me hold you so: it seems as if
 
-harm could not reach me while you are here. But death _will_ come—it is
+harm could not reach me while you are here. But [[Death|death]] _will_ come—it is
 
 coming now—fast, fast!—and—oh, if I _could_ believe there was nothing
 
@@ -614,7 +614,7 @@ after!’
 
 
 
-“‘Don’t try to believe it, Arthur; there is joy and glory after, if you
+“‘Don’t try to believe it, [[arthur|Arthur]]; there is joy and glory after, if you
 
 will but try to reach it!’
 
@@ -622,7 +622,7 @@ will but try to reach it!’
 
 “‘What, for _me?_’ he said, with something like a laugh. ‘Are we not to
 
-be judged according to the deeds done in the body? Where’s the use of a
+be judged according to the deeds done in the [[Body|body]]? Where’s the use of a
 
 probationary existence, if a man may spend it as he pleases, just
 
@@ -638,7 +638,7 @@ saying, ‘I repent!’”
 
 
 
-“‘I _can’t_ repent; I only fear.’
+“‘I _can’t_ repent; I only [[Fear|fear]].’
 
 
 
@@ -662,15 +662,15 @@ offended Him.’
 
 
 
-“‘God is Infinite Wisdom, and Power, and Goodness—and LOVE; but if this
+“‘God is Infinite Wisdom, and Power, and Goodness—and [[Love|LOVE]]; but if this
 
 idea is too vast for your human faculties—if your mind loses itself in
 
 its overwhelming infinitude, fix it on Him who condescended to take our
 
-nature upon Him, who was raised to heaven even in His glorified human
+[[Nature|nature]] upon Him, who was raised to heaven even in His glorified human
 
-body, in whom the fulness of the Godhead shines.’
+[[Body|body]], in whom the fulness of the Godhead shines.’
 
 
 
@@ -680,21 +680,21 @@ shuddering horror, he tightened his grasp on my hand and arm, and,
 
 groaning and lamenting, still clung to me with that wild, desperate
 
-earnestness so harrowing to my soul, because I know I cannot help him.
+earnestness so harrowing to my [[Soul|soul]], because I know I cannot help him.
 
 I did my best to soothe and comfort him.
 
 
 
-“‘Death is so terrible,’ he cried, ‘I cannot bear it! _You_ don’t know,
+“‘[[Death]] is so terrible,’ he cried, ‘I cannot bear it! _You_ don’t know,
 
-Helen—you can’t imagine what it is, because you haven’t it before you!
+[[Helen]]—you can’t imagine what it is, because you haven’t it before you!
 
 and when I’m buried, you’ll return to your old ways and be as happy as
 
 ever, and all the world will go on just as busy and merry as if I had
 
-never been; while I—’ He burst into tears.
+never been; while I—’ He burst into [[Tears|tears]].
 
 
 
@@ -712,7 +712,7 @@ should plead for me.’
 
 “‘No man can deliver his brother, nor make agreement unto God for him,’
 
-I replied: ‘it cost more to redeem their souls—it cost the blood of an
+I replied: ‘it cost more to redeem their souls—it cost the [[Blood|blood]] of an
 
 incarnate God, perfect and sinless in Himself, to redeem us from the
 
@@ -728,7 +728,7 @@ comprehend them. He cannot linger long. He suffers dreadfully, and so
 
 do those that wait upon him. But I will not harass you with further
 
-details: I have said enough, I think, to convince you that I did well
+details: I have said enough, I think, to convince you that I did [[Well|well]]
 
 to go to him.”
 
@@ -740,7 +740,7 @@ to go to him.”
 
 
 
-Poor, poor Helen! dreadful indeed her trials must have been! And I
+Poor, poor [[Helen]]! dreadful indeed her trials must have been! And I
 
 could do nothing to lessen them—nay, it almost seemed as if I had
 
@@ -764,19 +764,19 @@ Dec. 5th.
 
 
 
-He is gone at last. I sat beside him all night, with my hand fast
+He is gone at last. I sat beside him all [[Night|night]], with my hand fast
 
 locked in his, watching the changes of his features and listening to
 
-his failing breath. He had been silent a long time, and I thought he
+his failing breath. He had been silent a long [[Time|time]], and I thought he
 
 would never speak again, when he murmured, faintly but
 
-distinctly,—“Pray for me, Helen!”
+distinctly,—“Pray for me, [[Helen]]!”
 
 
 
-“I do pray for you, every hour and every minute, Arthur; but you must
+“I do pray for you, every hour and every minute, [[arthur|Arthur]]; but you must
 
 pray for yourself.”
 
@@ -784,9 +784,9 @@ pray for yourself.”
 
 His lips moved, but emitted no sound;—then his looks became unsettled;
 
-and, from the incoherent, half-uttered words that escaped him from time
+and, from the incoherent, half-uttered words that escaped him from [[Time|time]]
 
-to time, supposing him to be now unconscious, I gently disengaged my
+to [[Time|time]], supposing him to be now unconscious, I gently disengaged my
 
 hand from his, intending to steal away for a breath of air, for I was
 
@@ -800,11 +800,11 @@ not grief; it was exhaustion, that, till then, I had been enabled
 
 successfully to combat. Oh, Frederick! none can imagine the miseries,
 
-bodily and mental, of that death-bed! How could I endure to think that
+bodily and mental, of that [[Death|death]]-bed! How could I endure to think that
 
-that poor trembling soul was hurried away to everlasting torment? it
+that poor trembling [[Soul|soul]] was hurried away to everlasting torment? it
 
-would drive me mad. But, thank God, I have hope—not only from a vague
+would drive me mad. But, thank God, I have [[Hope|hope]]—not only from a vague
 
 dependence on the possibility that penitence and pardon might have
 
@@ -818,7 +818,7 @@ He hath made, _will_ bless it in the end!
 
 
 
-His body will be consigned on Thursday to that dark grave he so much
+His [[Body|body]] will be consigned on [[thursday|Thursday]] to that dark [[Grave|grave]] he so much
 
 dreaded; but the coffin must be closed as soon as possible. If you will
 
@@ -826,4 +826,4 @@ attend the funeral, come quickly, for I need help.
 
 
 
-HELEN HUNTINGDON.
+[[Helen Huntingdon|HELEN HUNTINGDON]].

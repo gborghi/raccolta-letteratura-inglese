@@ -15,19 +15,19 @@ tags:
 
 
 ‘Why no,’ said Sir Joseph’, referring to the letter.  ‘Not quite.  Very
-near.  Not quite.  He came up to London, it seems, to look for employment
-(trying to better himself—that’s his story), and being found at night
+near.  Not quite.  He came up to [[London]], it seems, to look for employment
+(trying to better himself—that’s his story), and being found at [[Night|night]]
 asleep in a shed, was taken into custody, and carried next morning before
 the Alderman.  The Alderman observes (very properly) that he is
 determined to put this sort of thing down; and that if it will be
-agreeable to me to have Will Fern put down, he will be happy to begin
+agreeable to me to have [[Will Fern]] put down, he will be happy to begin
 with him.’
 
 ‘Let him be made an example of, by all means,’ returned the lady.  ‘Last
-winter, when I introduced pinking and eyelet-holing among the men and
+[[Winter|winter]], when I introduced pinking and eyelet-holing among the men and
 boys in the village, as a nice evening employment, and had the lines,
 
-    O let us love our occupations,
+    O let us [[Love|love]] our occupations,
     Bless the squire and his relations,
     Live upon our daily rations,
     And always know our proper stations,
@@ -58,12 +58,12 @@ your inquiries, and I think he may be so far relied upon), his committal
 for some short term as a Vagabond, would be a service to society, and
 would be a salutary example in a country where—for the sake of those who
 are, through good and evil report, the Friends and Fathers of the Poor,
-as well as with a view to that, generally speaking, misguided class
+as [[Well|well]] as with a view to that, generally speaking, misguided class
 themselves—examples are greatly needed.  And I am,’ and so forth.
 
 ‘It appears,’ remarked Sir Joseph when he had signed this letter, and Mr.
 Fish was sealing it, ‘as if this were Ordained: really.  At the close of
-the year, I wind up my account and strike my balance, even with William
+the year, I [[Wind|wind]] up my account and strike my balance, even with William
 Fern!’
 
 Trotty, who had long ago relapsed, and was very low-spirited, stepped
@@ -74,7 +74,7 @@ forward with a rueful face to take the letter.
 ‘Stop!’ echoed Mr. Fish.
 
 ‘You have heard, perhaps,’ said Sir Joseph, oracularly, ‘certain remarks
-into which I have been led respecting the solemn period of time at which
+into which I have been led respecting the solemn period of [[Time|time]] at which
 we have arrived, and the duty imposed upon us of settling our affairs,
 and being prepared.  You have observed that I don’t shelter myself behind
 my superior standing in society, but that Mr. Fish—that gentleman—has a
@@ -105,7 +105,7 @@ hands at once, as if he gave the thing up altogether.
 
 ‘How a man, even among this improvident and impracticable race; an old
 man; a man grown grey; can look a New Year in the face, with his affairs
-in this condition; how he can lie down on his bed at night, and get up
+in this condition; how he can lie down on his bed at [[Night|night]], and get up
 again in the morning, and—There!’ he said, turning his back on Trotty.
 ‘Take the letter.  Take the letter!’
 
@@ -115,22 +115,22 @@ himself.  ‘We have been tried very hard.’
 Sir Joseph still repeating ‘Take the letter, take the letter!’ and Mr.
 Fish not only saying the same thing, but giving additional force to the
 request by motioning the bearer to the door, he had nothing for it but to
-make his bow and leave the house.  And in the street, poor Trotty pulled
+make his bow and leave the [[house]].  And in the street, poor Trotty pulled
 his worn old hat down on his head, to hide the grief he felt at getting
 no hold on the New Year, anywhere.
 
 He didn’t even lift his hat to look up at the Bell tower when he came to
 the old church on his return.  He halted there a moment, from habit: and
-knew that it was growing dark, and that the steeple rose above him,
+knew that it was growing dark, and that the steeple [[Rose|rose]] above him,
 indistinct and faint, in the murky air.  He knew, too, that the Chimes
 would ring immediately; and that they sounded to his fancy, at such a
-time, like voices in the clouds.  But he only made the more haste to
+[[Time|time]], like voices in the clouds.  But he only made the more haste to
 deliver the Alderman’s letter, and get out of the way before they began;
 for he dreaded to hear them tagging ‘Friends and Fathers, Friends and
 Fathers,’ to the burden they had rung out last.
 
 Toby discharged himself of his commission, therefore, with all possible
-speed, and set off trotting homeward.  But what with his pace, which was
+[[Speed|speed]], and set off trotting homeward.  But what with his pace, which was
 at best an awkward one in the street; and what with his hat, which didn’t
-improve it; he trotted against somebody in less than no time, and was
-sent staggering out into the road.
+improve it; he trotted against somebody in less than no [[Time|time]], and was
+sent staggering out into the [[Road|road]].

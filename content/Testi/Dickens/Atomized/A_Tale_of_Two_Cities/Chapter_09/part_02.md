@@ -23,15 +23,15 @@ tags:
 “Blest if I know that either,” said Jerry.
 
 The entrance of the Judge, and a consequent great stir and settling
-down in the court, stopped the dialogue. Presently, the dock became the
+down in the [[Court|court]], stopped the dialogue. Presently, the dock became the
 central point of interest. Two gaolers, who had been standing there,
 went out, and the prisoner was brought in, and put to the bar.
 
 Everybody present, except the one wigged gentleman who looked at the
 ceiling, stared at him. All the human breath in the place, rolled
-at him, like a sea, or a wind, or a fire. Eager faces strained round
+at him, like a sea, or a [[Wind|wind]], or a [[Fire|fire]]. Eager faces strained round
 pillars and corners, to get a sight of him; spectators in back rows
-stood up, not to miss a hair of him; people on the floor of the court,
+stood up, not to miss a hair of him; people on the floor of the [[Court|court]],
 laid their hands on the shoulders of the people before them, to help
 themselves, at anybody’s cost, to a view of him--stood a-tiptoe, got
 upon ledges, stood upon next to nothing, to see every inch of him.
@@ -43,14 +43,14 @@ that flowed at him, and already broke upon the great windows behind him
 in an impure mist and rain.
 
 The object of all this staring and blaring, was a young man of about
-five-and-twenty, well-grown and well-looking, with a sunburnt cheek and
+five-and-twenty, [[Well|well]]-grown and [[Well|well]]-looking, with a sunburnt cheek and
 a dark eye. His condition was that of a young gentleman. He was plainly
 dressed in black, or very dark grey, and his hair, which was long and
 dark, was gathered in a ribbon at the back of his neck; more to be out
 of his way than for ornament. As an emotion of the mind will express
-itself through any covering of the body, so the paleness which his
+itself through any covering of the [[Body|body]], so the paleness which his
 situation engendered came through the brown upon his cheek, showing the
-soul to be stronger than the sun. He was otherwise quite self-possessed,
+[[Soul|soul]] to be stronger than the sun. He was otherwise quite [[Self|self]]-possessed,
 bowed to the Judge, and stood quiet.
 
 The sort of interest with which this man was stared and breathed at,
@@ -61,36 +61,36 @@ fascination. The form that was to be doomed to be so shamefully mangled,
 was the sight; the immortal creature that was to be so butchered
 and torn asunder, yielded the sensation. Whatever gloss the various
 spectators put upon the interest, according to their several arts and
-powers of self-deceit, the interest was, at the root of it, Ogreish.
+powers of [[Self|self]]-deceit, the interest was, at the root of it, Ogreish.
 
-Silence in the court! Charles Darnay had yesterday pleaded Not Guilty to
+[[Silence]] in the [[Court|court]]! [[Charles Darnay]] had yesterday pleaded Not Guilty to
 an indictment denouncing him (with infinite jingle and jangle) for that
 he was a false traitor to our serene, illustrious, excellent, and so
-forth, prince, our Lord the King, by reason of his having, on divers
+forth, prince, our Lord the [[King]], by reason of his having, on divers
 occasions, and by divers means and ways, assisted Lewis, the French
-King, in his wars against our said serene, illustrious, excellent, and
+[[King]], in his wars against our said serene, illustrious, excellent, and
 so forth; that was to say, by coming and going, between the dominions of
 our said serene, illustrious, excellent, and so forth, and those of the
 said French Lewis, and wickedly, falsely, traitorously, and otherwise
 evil-adverbiously, revealing to the said French Lewis what forces our
 said serene, illustrious, excellent, and so forth, had in preparation
-to send to Canada and North America. This much, Jerry, with his head
+to send to Canada and North [[America]]. This much, Jerry, with his head
 becoming more and more spiky as the law terms bristled it, made out with
 huge satisfaction, and so arrived circuitously at the understanding that
-the aforesaid, and over and over again aforesaid, Charles Darnay, stood
+the aforesaid, and over and over again aforesaid, [[Charles Darnay]], stood
 there before him upon his trial; that the jury were swearing in; and
 that Mr. Attorney-General was making ready to speak.
 
 The accused, who was (and who knew he was) being mentally hanged,
 beheaded, and quartered, by everybody there, neither flinched from
 the situation, nor assumed any theatrical air in it. He was quiet and
-attentive; watched the opening proceedings with a grave interest;
+attentive; watched the opening proceedings with a [[Grave|grave]] interest;
 and stood with his hands resting on the slab of wood before him, so
 composedly, that they had not displaced a leaf of the herbs with which
-it was strewn. The court was all bestrewn with herbs and sprinkled with
+it was strewn. The [[Court|court]] was all bestrewn with herbs and sprinkled with
 vinegar, as a precaution against gaol air and gaol fever.
 
-Over the prisoner’s head there was a mirror, to throw the light down
+Over the prisoner’s head there was a [[Mirror|mirror]], to throw the light down
 upon him. Crowds of the wicked and the wretched had been reflected in
 it, and had passed from its surface and this earth’s together. Haunted
 in a most ghastly manner that abominable place would have been, if the
@@ -101,7 +101,7 @@ that as it may, a change in his position making him conscious of a bar
 of light across his face, he looked up; and when he saw the glass his
 face flushed, and his right hand pushed the herbs away.
 
-It happened, that the action turned his face to that side of the court
+It happened, that the action turned his face to that side of the [[Court|court]]
 which was on his left. About on a level with his eyes, there sat,
 in that corner of the Judge’s bench, two persons upon whom his look
 immediately rested; so immediately, and so much to the changing of his
@@ -111,7 +111,7 @@ The spectators saw in the two figures, a young lady of little more than
 twenty, and a gentleman who was evidently her father; a man of a very
 remarkable appearance in respect of the absolute whiteness of his hair,
 and a certain indescribable intensity of face: not of an active kind,
-but pondering and self-communing. When this expression was upon him, he
+but pondering and [[Self|self]]-communing. When this expression was upon him, he
 looked as if he were old; but when it was stirred and broken up--as
 it was now, in a moment, on his speaking to his daughter--he became a
 handsome man, not past the prime of life.
@@ -144,5 +144,5 @@ to Jerry:
 
 The Judge, whose eyes had gone in the general direction, recalled them,
 leaned back in his seat, and looked steadily at the man whose life was
-in his hand, as Mr. Attorney-General rose to spin the rope, grind the
+in his hand, as Mr. Attorney-General [[Rose|rose]] to spin the rope, grind the
 axe, and hammer the nails into the scaffold.

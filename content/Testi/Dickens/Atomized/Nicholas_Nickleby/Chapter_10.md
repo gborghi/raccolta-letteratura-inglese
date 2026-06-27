@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 10"
+title: "[[Nicholas Nickleby]] — Chapter 10"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,11 +16,11 @@ tags:
 
 CHAPTER 10
 
-How Mr. Ralph Nickleby provided for his Niece and Sister-in-Law
+How Mr. [[Ralph Nickleby]] provided for his Niece and Sister-in-Law
 
 
 On the second morning after the departure of Nicholas for Yorkshire,
-Kate Nickleby sat in a very faded chair raised upon a very dusty throne
+[[Kate Nickleby]] sat in a very faded chair raised upon a very dusty throne
 in Miss La Creevy’s room, giving that lady a sitting for the portrait
 upon which she was engaged; and towards the full perfection of which,
 Miss La Creevy had had the street-door case brought upstairs, in
@@ -48,7 +48,7 @@ you are right there; though I don’t allow that it is of such very great
 importance in the present case. Ah! The difficulties of Art, my dear,
 are great.’
 
-‘They must be, I have no doubt,’ said Kate, humouring her good-natured
+‘They must be, I have no [[Doubt|doubt]],’ said Kate, humouring her good-natured
 little friend.
 
 ‘They are beyond anything you can form the faintest conception of,’
@@ -59,7 +59,7 @@ little miniature is.’
 
 ‘The remuneration can scarcely repay you,’ said Kate.
 
-‘Why, it does not, and that’s the truth,’ answered Miss La Creevy; ‘and
+‘Why, it does not, and that’s the [[Truth|truth]],’ answered Miss La Creevy; ‘and
 then people are so dissatisfied and unreasonable, that, nine times out
 of ten, there’s no pleasure in painting them. Sometimes they say, “Oh,
 how very serious you have made me look, Miss La Creevy!” and at others,
@@ -74,7 +74,7 @@ the other,’ replied Miss La Creevy. ‘Look at the Royal Academy! All
 those beautiful shiny portraits of gentlemen in black velvet waistcoats,
 with their fists doubled up on round tables, or marble slabs, are
 serious, you know; and all the ladies who are playing with little
-parasols, or little dogs, or little children--it’s the same rule in art,
+parasols, or little [[dogs]], or little children--it’s the same rule in art,
 only varying the objects--are smirking. In fact,’ said Miss La Creevy,
 sinking her voice to a confidential whisper, ‘there are only two styles
 of portrait painting; the serious and the smirk; and we always use the
@@ -88,7 +88,7 @@ on painting and talking, with immovable complacency.
 ‘What a number of officers you seem to paint!’ said Kate, availing
 herself of a pause in the discourse, and glancing round the room.
 
-‘Number of what, child?’ inquired Miss La Creevy, looking up from her
+‘Number of what, [[Child|child]]?’ inquired Miss La Creevy, looking up from her
 work. ‘Character portraits, oh yes--they’re not real military men, you
 know.’
 
@@ -109,14 +109,14 @@ feature she was at work upon, at the moment; ‘not,’ she expressly
 observed, ‘that you should make it up for painting, my dear, but because
 it’s our custom sometimes to tell sitters what part we are upon, in
 order that if there’s any particular expression they want introduced,
-they may throw it in, at the time, you know.’
+they may throw it in, at the [[Time|time]], you know.’
 
-‘And when,’ said Miss La Creevy, after a long silence, to wit, an
+‘And when,’ said Miss La Creevy, after a long [[Silence|silence]], to wit, an
 interval of full a minute and a half, ‘when do you expect to see your
 uncle again?’
 
 ‘I scarcely know; I had expected to have seen him before now,’ replied
-Kate. ‘Soon I hope, for this state of uncertainty is worse than
+Kate. ‘Soon I [[Hope|hope]], for this state of uncertainty is worse than
 anything.’
 
 ‘I suppose he has money, hasn’t he?’ inquired Miss La Creevy.
@@ -131,18 +131,18 @@ simplicity. ‘When a man’s a bear, he is generally pretty independent.’
 ‘His manner is rough,’ said Kate.
 
 ‘Rough!’ cried Miss La Creevy, ‘a porcupine’s a featherbed to him! I
-never met with such a cross-grained old savage.’
+never met with such a [[Cross|cross]]-grained old savage.’
 
 ‘It is only his manner, I believe,’ observed Kate, timidly; ‘he was
 disappointed in early life, I think I have heard, or has had his temper
 soured by some calamity. I should be sorry to think ill of him until I
 knew he deserved it.’
 
-‘Well; that’s very right and proper,’ observed the miniature painter,
+‘[[Well]]; that’s very right and proper,’ observed the miniature painter,
 ‘and Heaven forbid that I should be the cause of your doing so! But,
 now, mightn’t he, without feeling it himself, make you and your mama
 some nice little allowance that would keep you both comfortable until
-you were well married, and be a little fortune to her afterwards? What
+you were [[Well|well]] married, and be a little fortune to her afterwards? What
 would a hundred a year for instance, be to him?’
 
 ‘I don’t know what it would be to him,’ said Kate, with energy, ‘but it
@@ -153,7 +153,7 @@ would be that to me I would rather die than take.’
 ‘A dependence upon him,’ said Kate, ‘would embitter my whole life. I
 should feel begging a far less degradation.’
 
-‘Well!’ exclaimed Miss La Creevy. ‘This of a relation whom you will not
+‘[[Well]]!’ exclaimed Miss La Creevy. ‘This of a relation whom you will not
 hear an indifferent person speak ill of, my dear, sounds oddly enough, I
 confess.’
 
@@ -166,12 +166,12 @@ Miss La Creevy looked slyly at her companion, as if she doubted whether
 Ralph himself were not the subject of dislike, but seeing that her young
 friend was distressed, made no remark.
 
-‘I only ask of him,’ continued Kate, whose tears fell while she spoke,
+‘I only ask of him,’ continued Kate, whose [[Tears|tears]] fell while she spoke,
 ‘that he will move so little out of his way, in my behalf, as to
 enable me by his recommendation--only by his recommendation--to earn,
 literally, my bread and remain with my mother. Whether we shall ever
 taste happiness again, depends upon the fortunes of my dear brother;
-but if he will do this, and Nicholas only tells us that he is well and
+but if he will do this, and Nicholas only tells us that he is [[Well|well]] and
 cheerful, I shall be contented.’
 
 As she ceased to speak, there was a rustling behind the screen
@@ -181,7 +181,7 @@ wainscot.’
 ‘Come in, whoever it is!’ cried Miss La Creevy.
 
 The person complied, and, coming forward at once, gave to view the form
-and features of no less an individual than Mr. Ralph Nickleby himself.
+and features of no less an individual than Mr. [[Ralph Nickleby]] himself.
 
 ‘Your servant, ladies,’ said Ralph, looking sharply at them by turns.
 ‘You were talking so loud, that I was unable to make you hear.’
@@ -208,7 +208,7 @@ away, ‘I have no eye for likenesses. Is it nearly finished?’
 ‘Why, yes,’ replied Miss La Creevy, considering with the pencil end of
 her brush in her mouth. ‘Two sittings more will--’
 
-‘Have them at once, ma’am,’ said Ralph. ‘She’ll have no time to idle
+‘Have them at once, ma’am,’ said Ralph. ‘She’ll have no [[Time|time]] to idle
 over fooleries after tomorrow. Work, ma’am, work; we must all work. Have
 you let your lodgings, ma’am?’
 
@@ -216,10 +216,10 @@ you let your lodgings, ma’am?’
 
 ‘Put it up at once, ma’am; they won’t want the rooms after this week,
 or if they do, can’t pay for them. Now, my dear, if you’re ready, we’ll
-lose no more time.’
+lose no more [[Time|time]].’
 
 With an assumption of kindness which sat worse upon him even than his
-usual manner, Mr. Ralph Nickleby motioned to the young lady to precede
+usual manner, Mr. [[Ralph Nickleby]] motioned to the young lady to precede
 him, and bowing gravely to Miss La Creevy, closed the door and followed
 upstairs, where Mrs. Nickleby received him with many expressions of
 regard. Stopping them somewhat abruptly, Ralph waved his hand with an
@@ -227,7 +227,7 @@ impatient gesture, and proceeded to the object of his visit.
 
 ‘I have found a situation for your daughter, ma’am,’ said Ralph.
 
-‘Well,’ replied Mrs. Nickleby. ‘Now, I will say that that is only just
+‘[[Well]],’ replied Mrs. Nickleby. ‘Now, I will say that that is only just
 what I have expected of you. “Depend upon it,” I said to Kate, only
 yesterday morning at breakfast, “that after your uncle has provided, in
 that most ready manner, for Nicholas, he will not leave us until he has
@@ -237,33 +237,33 @@ remember. Kate, my dear, why don’t you thank your--’
 ‘Let me proceed, ma’am, pray,’ said Ralph, interrupting his
 sister-in-law in the full torrent of her discourse.
 
-‘Kate, my love, let your uncle proceed,’ said Mrs. Nickleby.
+‘Kate, my [[Love|love]], let your uncle proceed,’ said Mrs. Nickleby.
 
 ‘I am most anxious that he should, mama,’ rejoined Kate.
 
-‘Well, my dear, if you are anxious that he should, you had better allow
+‘[[Well]], my dear, if you are anxious that he should, you had better allow
 your uncle to say what he has to say, without interruption,’ observed
-Mrs. Nickleby, with many small nods and frowns. ‘Your uncle’s time is
+Mrs. Nickleby, with many small nods and frowns. ‘Your uncle’s [[Time|time]] is
 very valuable, my dear; and however desirous you may be--and naturally
 desirous, as I am sure any affectionate relations who have seen so
 little of your uncle as we have, must naturally be to protract the
 pleasure of having him among us, still, we are bound not to be selfish,
-but to take into consideration the important nature of his occupations
-in the city.’
+but to take into consideration the important [[Nature|nature]] of his occupations
+in the [[City|city]].’
 
 ‘I am very much obliged to you, ma’am,’ said Ralph with a scarcely
 perceptible sneer. ‘An absence of business habits in this family leads,
 apparently, to a great waste of words before business--when it does come
 under consideration--is arrived at, at all.’
 
-‘I fear it is so indeed,’ replied Mrs. Nickleby with a sigh. ‘Your poor
+‘I [[Fear|fear]] it is so indeed,’ replied Mrs. Nickleby with a sigh. ‘Your poor
 brother--’
 
 ‘My poor brother, ma’am,’ interposed Ralph tartly, ‘had no idea what
 business was--was unacquainted, I verily believe, with the very meaning
 of the word.’
 
-‘I fear he was,’ said Mrs. Nickleby, with her handkerchief to her eyes.
+‘I [[Fear|fear]] he was,’ said Mrs. Nickleby, with her handkerchief to her eyes.
 ‘If it hadn’t been for me, I don’t know what would have become of him.’
 
 What strange creatures we are! The slight bait so skilfully thrown out
@@ -275,7 +275,7 @@ pounds had arisen before Mrs. Nickleby’s mind, until, at last, she had
 come to persuade herself that of all her late husband’s creditors she
 was the worst used and the most to be pitied. And yet, she had loved him
 dearly for many years, and had no greater share of selfishness than is
-the usual lot of mortals. Such is the irritability of sudden poverty. A
+the usual lot of mortals. Such is the irritability of sudden [[Poverty|poverty]]. A
 decent annuity would have restored her thoughts to their old train, at
 once.
 
@@ -303,7 +303,7 @@ with--with a milliner and dressmaker, in short.’
 ‘A milliner!’ cried Mrs. Nickleby.
 
 ‘A milliner and dressmaker, ma’am,’ replied Ralph. ‘Dressmakers in
-London, as I need not remind you, ma’am, who are so well acquainted with
+[[London]], as I need not remind you, ma’am, who are so [[Well|well]] acquainted with
 all matters in the ordinary routine of life, make large fortunes, keep
 equipages, and become persons of great wealth and fortune.’
 
@@ -319,11 +319,11 @@ satisfaction.
 
 ‘What your uncle says is very true, Kate, my dear,’ said Mrs. Nickleby.
 ‘I recollect when your poor papa and I came to town after we were
-married, that a young lady brought me home a chip cottage-bonnet, with
+married, that a young lady brought me [[Home|home]] a chip cottage-bonnet, with
 white and green trimming, and green persian lining, in her own carriage,
 which drove up to the door full gallop;--at least, I am not quite
 certain whether it was her own carriage or a hackney chariot, but I
-remember very well that the horse dropped down dead as he was turning
+remember very [[Well|well]] that the [[Horse|horse]] dropped down dead as he was turning
 round, and that your poor papa said he hadn’t had any corn for a
 fortnight.’
 
@@ -337,15 +337,15 @@ Mantalini--Madame Mantalini. I know her. She lives near Cavendish
 Square. If your daughter is disposed to try after the situation, I’ll
 take her there directly.’
 
-‘Have you nothing to say to your uncle, my love?’ inquired Mrs. Nickleby.
+‘Have you nothing to say to your uncle, my [[Love|love]]?’ inquired Mrs. Nickleby.
 
 ‘A great deal,’ replied Kate; ‘but not now. I would rather speak to him
-when we are alone;--it will save his time if I thank him and say what I
+when we are [[Alone|alone]];--it will save his [[Time|time]] if I thank him and say what I
 wish to say to him, as we walk along.’
 
 With these words, Kate hurried away, to hide the traces of emotion that
 were stealing down her face, and to prepare herself for the walk, while
-Mrs. Nickleby amused her brother-in-law by giving him, with many tears, a
+Mrs. Nickleby amused her brother-in-law by giving him, with many [[Tears|tears]], a
 detailed account of the dimensions of a rosewood cabinet piano they had
 possessed in their days of affluence, together with a minute description
 of eight drawing-room chairs, with turned legs and green chintz squabs
@@ -354,7 +354,7 @@ apiece, and had gone at the sale for a mere nothing.
 
 These reminiscences were at length cut short by Kate’s return in her
 walking dress, when Ralph, who had been fretting and fuming during the
-whole time of her absence, lost no time, and used very little ceremony,
+whole [[Time|time]] of her absence, lost no [[Time|time]], and used very little ceremony,
 in descending into the street.
 
 ‘Now,’ he said, taking her arm, ‘walk as fast as you can, and you’ll get
@@ -363,9 +363,9 @@ So saying, he led Kate off, at a good round pace, towards Cavendish
 Square.
 
 ‘I am very much obliged to you, uncle,’ said the young lady, after they
-had hurried on in silence for some time; ‘very.’
+had hurried on in [[Silence|silence]] for some [[Time|time]]; ‘very.’
 
-‘I’m glad to hear it,’ said Ralph. ‘I hope you’ll do your duty.’
+‘I’m glad to hear it,’ said Ralph. ‘I [[Hope|hope]] you’ll do your duty.’
 
 ‘I will try to please, uncle,’ replied Kate: ‘indeed I--’
 
@@ -376,7 +376,7 @@ had hurried on in silence for some time; ‘very.’
 ‘It is,’ replied Ralph, stopping her short, ‘and very affected besides.
 Let me see no more of it.’
 
-Perhaps this was not the best way to dry the tears of a young and
+Perhaps this was not the best way to dry the [[Tears|tears]] of a young and
 sensitive female, about to make her first entry on an entirely new scene
 of life, among cold and uninterested strangers; but it had its effect
 notwithstanding. Kate coloured deeply, breathed quickly for a few
@@ -389,32 +389,32 @@ to lose him in the throng; and how the stern and hard-featured man of
 business went doggedly on, elbowing the passengers aside, and now and
 then exchanging a gruff salutation with some passing acquaintance, who
 turned to look back upon his pretty charge, with looks expressive of
-surprise, and seemed to wonder at the ill-assorted companionship. But,
+surprise, and seemed to [[Wonder|wonder]] at the ill-assorted companionship. But,
 it would have been a stranger contrast still, to have read the hearts
-that were beating side by side; to have laid bare the gentle innocence
+that were beating side by side; to have laid bare the gentle [[innocence]]
 of the one, and the rugged villainy of the other; to have hung upon the
 guileless thoughts of the affectionate girl, and been amazed that, among
 all the wily plots and calculations of the old man, there should not be
-one word or figure denoting thought of death or of the grave. But so it
+one word or figure denoting thought of [[Death|death]] or of the [[Grave|grave]]. But so it
 was; and stranger still--though this is a thing of every day--the warm
 young heart palpitated with a thousand anxieties and apprehensions,
 while that of the old worldly man lay rusting in its cell, beating only
-as a piece of cunning mechanism, and yielding no one throb of hope, or
-fear, or love, or care, for any living thing.
+as a piece of cunning mechanism, and yielding no one throb of [[Hope|hope]], or
+[[Fear|fear]], or [[Love|love]], or care, for any living thing.
 
 ‘Uncle,’ said Kate, when she judged they must be near their destination,
-‘I must ask one question of you. I am to live at home?’
+‘I must ask one question of you. I am to live at [[Home|home]]?’
 
-‘At home!’ replied Ralph; ‘where’s that?’
+‘At [[Home|home]]!’ replied Ralph; ‘where’s that?’
 
 ‘I mean with my mother--THE WIDOW,’ said Kate emphatically.
 
 ‘You will live, to all intents and purposes, here,’ rejoined Ralph; ‘for
 here you will take your meals, and here you will be from morning till
-night--occasionally perhaps till morning again.’
+[[Night|night]]--occasionally perhaps till morning again.’
 
-‘But at night, I mean,’ said Kate; ‘I cannot leave her, uncle. I must
-have some place that I can call a home; it will be wherever she is, you
+‘But at [[Night|night]], I mean,’ said Kate; ‘I cannot leave her, uncle. I must
+have some place that I can call a [[Home|home]]; it will be wherever she is, you
 know, and may be a very humble one.’
 
 ‘May be!’ said Ralph, walking faster, in the impatience provoked by the
@@ -422,28 +422,28 @@ remark; ‘must be, you mean. May be a humble one! Is the girl mad?’
 
 ‘The word slipped from my lips, I did not mean it indeed,’ urged Kate.
 
-‘I hope not,’ said Ralph.
+‘I [[Hope|hope]] not,’ said Ralph.
 
 ‘But my question, uncle; you have not answered it.’
 
 ‘Why, I anticipated something of the kind,’ said Ralph; ‘and--though I
 object very strongly, mind--have provided against it. I spoke of you as
-an out-of-door worker; so you will go to this home that may be humble,
-every night.’
+an out-of-door worker; so you will go to this [[Home|home]] that may be humble,
+every [[Night|night]].’
 
 There was comfort in this. Kate poured forth many thanks for her uncle’s
 consideration, which Ralph received as if he had deserved them all, and
 they arrived without any further conversation at the dressmaker’s door,
 which displayed a very large plate, with Madame Mantalini’s name and
 occupation, and was approached by a handsome flight of steps. There was
-a shop to the house, but it was let off to an importer of otto of roses.
+a shop to the [[house]], but it was let off to an importer of otto of roses.
 Madame Mantalini’s shows-rooms were on the first-floor: a fact which was
 notified to the nobility and gentry by the casual exhibition, near the
 handsomely curtained windows, of two or three elegant bonnets of the
 newest fashion, and some costly garments in the most approved taste.
 
 A liveried footman opened the door, and in reply to Ralph’s inquiry
-whether Madame Mantalini was at home, ushered them, through a handsome
+whether Madame Mantalini was at [[Home|home]], ushered them, through a handsome
 hall and up a spacious staircase, into the show saloon, which comprised
 two spacious drawing-rooms, and exhibited an immense variety of superb
 dresses and materials for dresses: some arranged on stands, others
@@ -451,7 +451,7 @@ laid carelessly on sofas, and others again, scattered over the carpet,
 hanging on the cheval-glasses, or mingling, in some other way, with the
 rich furniture of various descriptions, which was profusely displayed.
 
-They waited here a much longer time than was agreeable to Mr. Ralph
+They waited here a much longer [[Time|time]] than was agreeable to Mr. Ralph
 Nickleby, who eyed the gaudy frippery about him with very little
 concern, and was at length about to pull the bell, when a gentleman
 suddenly popped his head into the room, and, seeing somebody there, as
@@ -466,7 +466,7 @@ which ejaculations, the gentleman advanced, and shook hands with Ralph,
 with great warmth. He was dressed in a gorgeous morning gown, with
 a waistcoat and Turkish trousers of the same pattern, a pink silk
 neckerchief, and bright green slippers, and had a very copious
-watch-chain wound round his body. Moreover, he had whiskers and a
+watch-chain wound round his [[Body|body]]. Moreover, he had whiskers and a
 moustache, both dyed black and gracefully curled.
 
 ‘Demmit, you don’t mean to say you want me, do you, demmit?’ said this
@@ -475,7 +475,7 @@ gentleman, smiting Ralph on the shoulder.
 ‘Not yet,’ said Ralph, sarcastically.
 
 ‘Ha! ha! demmit,’ cried the gentleman; when, wheeling round to laugh
-with greater elegance, he encountered Kate Nickleby, who was standing
+with greater elegance, he encountered [[Kate Nickleby]], who was standing
 near.
 
 ‘My niece,’ said Ralph.
@@ -486,7 +486,7 @@ remember what you come for. Step this way, Nickleby; my dear, will you
 follow me? Ha! ha! They all follow me, Nickleby; always did, demmit,
 always.’
 
-Giving loose to the playfulness of his imagination, after this fashion,
+Giving loose to the playfulness of his [[Imagination|imagination]], after this fashion,
 the gentleman led the way to a private sitting-room on the second floor,
 scarcely less elegantly furnished than the apartment below, where the
 presence of a silver coffee-pot, an egg-shell, and sloppy china for one,
@@ -505,7 +505,7 @@ ever was--demmit.’
 
 Having complimented Ralph to this effect, the gentleman rang the bell,
 and stared at Miss Nickleby until it was answered, when he left off to
-bid the man desire his mistress to come directly; after which, he began
+bid the man [[Desire|desire]] his mistress to come directly; after which, he began
 again, and left off no more until Madame Mantalini appeared.
 
 The dressmaker was a buxom person, handsomely dressed and rather
@@ -519,16 +519,16 @@ manner, for some years; and which he had recently improved, after
 patient cultivation by the addition of a moustache, which promised
 to secure him an easy independence: his share in the labours of
 the business being at present confined to spending the money, and
-occasionally, when that ran short, driving to Mr. Ralph Nickleby to
+occasionally, when that ran short, driving to Mr. [[Ralph Nickleby]] to
 procure discount--at a percentage--for the customers’ bills.
 
-‘My life,’ said Mr. Mantalini, ‘what a demd devil of a time you have
+‘My life,’ said Mr. Mantalini, ‘what a demd devil of a [[Time|time]] you have
 been!’
 
-‘I didn’t even know Mr. Nickleby was here, my love,’ said Madame
+‘I didn’t even know Mr. Nickleby was here, my [[Love|love]],’ said Madame
 Mantalini.
 
-‘Then what a doubly demd infernal rascal that footman must be, my soul,’
+‘Then what a doubly demd infernal rascal that footman must be, my [[Soul|soul]],’
 remonstrated Mr. Mantalini.
 
 ‘My dear,’ said Madame, ‘that is entirely your fault.’
@@ -538,12 +538,12 @@ remonstrated Mr. Mantalini.
 ‘Certainly,’ returned the lady; ‘what can you expect, dearest, if you
 will not correct the man?’
 
-‘Correct the man, my soul’s delight!’
+‘Correct the man, my [[Soul|soul]]’s delight!’
 
 ‘Yes; I am sure he wants speaking to, badly enough,’ said Madame,
 pouting.
 
-‘Then do not vex itself,’ said Mr. Mantalini; ‘he shall be horse-whipped
+‘Then do not vex itself,’ said Mr. Mantalini; ‘he shall be [[Horse|horse]]-whipped
 till he cries out demnebly.’ With this promise Mr. Mantalini kissed
 Madame Mantalini, and, after that performance, Madame Mantalini pulled
 Mr. Mantalini playfully by the ear: which done, they descended to
@@ -553,7 +553,7 @@ business.
 scorn as few men can express in looks, ‘this is my niece.’
 
 ‘Just so, Mr. Nickleby,’ replied Madame Mantalini, surveying Kate from
-head to foot, and back again. ‘Can you speak French, child?’
+head to foot, and back again. ‘Can you speak French, [[Child|child]]?’
 
 ‘Yes, ma’am,’ replied Kate, not daring to look up; for she felt that the
 eyes of the odious man in the dressing-gown were directed towards her.
@@ -584,8 +584,8 @@ ballet-dancers,’ replied Mantalini in a poetical strain.
 wife. ‘What can Mr. Nickleby think when he hears you?’
 
 ‘Oh! Nothing, ma’am, nothing,’ replied Ralph. ‘I know his amiable
-nature, and yours,--mere little remarks that give a zest to your daily
-intercourse--lovers’ quarrels that add sweetness to those domestic joys
+[[Nature|nature]], and yours,--mere little remarks that give a zest to your daily
+intercourse--[[lovers]]’ quarrels that add sweetness to those domestic joys
 which promise to last so long--that’s all; that’s all.’
 
 If an iron door could be supposed to quarrel with its hinges, and to
@@ -612,7 +612,7 @@ in a low voice.
 ‘For which reason she’ll work all the better now,’ said Ralph, putting
 in a word, lest this confession should injure the negotiation.
 
-‘I hope so,’ returned Madame Mantalini; ‘our hours are from nine to
+‘I [[Hope|hope]] so,’ returned Madame Mantalini; ‘our hours are from nine to
 nine, with extra work when we’re very full of business, for which I
 allow payment as overtime.’
 
@@ -635,11 +635,11 @@ anything more, Mr. Nickleby?’
 ‘Then I believe that’s all,’ said the lady. Having arrived at this
 natural conclusion, she looked at the door, as if she wished to be
 gone, but hesitated notwithstanding, as though unwilling to leave to Mr
-Mantalini the sole honour of showing them downstairs. Ralph relieved
+Mantalini the sole [[Honour|honour]] of showing them downstairs. Ralph relieved
 her from her perplexity by taking his departure without delay: Madame
 Mantalini making many gracious inquiries why he never came to see them;
 and Mr. Mantalini anathematising the stairs with great volubility as he
-followed them down, in the hope of inducing Kate to look round,--a hope,
+followed them down, in the [[Hope|hope]] of inducing Kate to look round,--a [[Hope|hope]],
 however, which was destined to remain ungratified.
 
 ‘There!’ said Ralph when they got into the street; ‘now you’re provided
@@ -661,14 +661,14 @@ lodgings on Saturday?’
 
 ‘You told us to do so, uncle.’
 
-‘Yes; there is a house empty that belongs to me, which I can put you
+‘Yes; there is a [[house]] empty that belongs to me, which I can put you
 into till it is let, and then, if nothing else turns up, perhaps I shall
 have another. You must live there.’
 
 ‘Is it far from here, sir?’ inquired Kate.
 
-‘Pretty well,’ said Ralph; ‘in another quarter of the town--at the East
-end; but I’ll send my clerk down to you, at five o’clock on Saturday, to
+‘Pretty [[Well|well]],’ said Ralph; ‘in another quarter of the town--at the East
+end; but I’ll send my clerk down to you, at five o’[[Clock|clock]] on Saturday, to
 take you there. Goodbye. You know your way? Straight on.’
 
 Coldly shaking his niece’s hand, Ralph left her at the top of Regent

@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 15: I MAKE ANOTHER BEGINNING (part 2)"
+title: "[[David Copperfield]] — Chapter 15: I MAKE ANOTHER BEGINNING (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -15,30 +15,30 @@ tags:
 
 
 When the pony-chaise stopped at the door, and my eyes were intent upon
-the house, I saw a cadaverous face appear at a small window on the
+the [[house]], I saw a cadaverous face appear at a small [[Window|window]] on the
 ground floor (in a little round tower that formed one side of the
-house), and quickly disappear. The low arched door then opened, and
+[[house]]), and quickly disappear. The low arched door then opened, and
 the face came out. It was quite as cadaverous as it had looked in the
-window, though in the grain of it there was that tinge of red which is
+[[Window|window]], though in the grain of it there was that tinge of red which is
 sometimes to be observed in the skins of red-haired people. It belonged
 to a red-haired person--a youth of fifteen, as I take it now, but
 looking much older--whose hair was cropped as close as the closest
 stubble; who had hardly any eyebrows, and no eyelashes, and eyes of a
 red-brown, so unsheltered and unshaded, that I remember wondering how he
-went to sleep. He was high-shouldered and bony; dressed in decent black,
+went to [[Sleep|sleep]]. He was high-shouldered and bony; dressed in decent black,
 with a white wisp of a neckcloth; buttoned up to the throat; and had a
-long, lank, skeleton hand, which particularly attracted my attention, as
+long, lank, [[skeleton]] hand, which particularly attracted my attention, as
 he stood at the pony’s head, rubbing his chin with it, and looking up at
 us in the chaise.
 
-‘Is Mr. Wickfield at home, Uriah Heep?’ said my aunt.
+‘Is Mr. Wickfield at [[Home|home]], [[Uriah Heep]]?’ said my aunt.
 
-‘Mr. Wickfield’s at home, ma’am,’ said Uriah Heep, ‘if you’ll please to
+‘Mr. Wickfield’s at [[Home|home]], ma’am,’ said [[Uriah Heep]], ‘if you’ll please to
 walk in there’--pointing with his long hand to the room he meant.
 
 We got out; and leaving him to hold the pony, went into a long low
-parlour looking towards the street, from the window of which I caught a
-glimpse, as I went in, of Uriah Heep breathing into the pony’s nostrils,
+parlour looking towards the street, from the [[Window|window]] of which I caught a
+glimpse, as I went in, of [[Uriah Heep]] breathing into the pony’s nostrils,
 and immediately covering them with his hand, as if he were putting
 some spell upon him. Opposite to the tall old chimney-piece were two
 portraits: one of a gentleman with grey hair (though not by any means
@@ -53,20 +53,20 @@ that it had not come out of its frame. But it was stationary; and as the
 gentleman advanced into the light, I saw that he was some years older
 than when he had had his picture painted.
 
-‘Miss Betsey Trotwood,’ said the gentleman, ‘pray walk in. I was engaged
+‘Miss [[Betsey Trotwood]],’ said the gentleman, ‘pray walk in. I was engaged
 for a moment, but you’ll excuse my being busy. You know my motive. I
 have but one in life.’
 
 Miss Betsey thanked him, and we went into his room, which was furnished
 as an office, with books, papers, tin boxes, and so forth. It looked
-into a garden, and had an iron safe let into the wall; so immediately
+into a [[Garden|garden]], and had an iron safe let into the wall; so immediately
 over the mantelshelf, that I wondered, as I sat down, how the sweeps got
 round it when they swept the chimney.
 
-‘Well, Miss Trotwood,’ said Mr. Wickfield; for I soon found that it
+‘[[Well]], Miss Trotwood,’ said Mr. Wickfield; for I soon found that it
 was he, and that he was a lawyer, and steward of the estates of a rich
-gentleman of the county; ‘what wind blows you here? Not an ill wind, I
-hope?’
+gentleman of the county; ‘what [[Wind|wind]] blows you here? Not an ill [[Wind|wind]], I
+[[Hope|hope]]?’
 
 ‘No,’ replied my aunt. ‘I have not come for any law.’
 
@@ -92,21 +92,21 @@ Wickfield.
 
 ‘I have adopted him,’ said my aunt, with a wave of her hand, importing
 that his knowledge and his ignorance were all one to her, ‘and I have
-brought him here, to put to a school where he may be thoroughly well
-taught, and well treated. Now tell me where that school is, and what it
+brought him here, to put to a school where he may be thoroughly [[Well|well]]
+taught, and [[Well|well]] treated. Now tell me where that school is, and what it
 is, and all about it.’
 
 ‘Before I can advise you properly,’ said Mr. Wickfield--‘the old
 question, you know. What’s your motive in this?’
 
 ‘Deuce take the man!’ exclaimed my aunt. ‘Always fishing for motives,
-when they’re on the surface! Why, to make the child happy and useful.’
+when they’re on the surface! Why, to make the [[Child|child]] happy and useful.’
 
 ‘It must be a mixed motive, I think,’ said Mr. Wickfield, shaking his
 head and smiling incredulously.
 
 ‘A mixed fiddlestick,’ returned my aunt. ‘You claim to have one plain
-motive in all you do yourself. You don’t suppose, I hope, that you are
+motive in all you do yourself. You don’t suppose, I [[Hope|hope]], that you are
 the only plain dealer in the world?’
 
 ‘Ay, but I have only one motive in life, Miss Trotwood,’ he rejoined,
@@ -136,16 +136,16 @@ Mr. Wickfield’s office, where I sat down again, in the chair I had first
 occupied, to await their return.
 
 It so happened that this chair was opposite a narrow passage, which
-ended in the little circular room where I had seen Uriah Heep’s pale
-face looking out of the window. Uriah, having taken the pony to a
+ended in the little circular room where I had seen [[Uriah Heep]]’s pale
+face looking out of the [[Window|window]]. Uriah, having taken the pony to a
 neighbouring stable, was at work at a desk in this room, which had a
 brass frame on the top to hang paper upon, and on which the writing he
 was making a copy of was then hanging. Though his face was towards me, I
-thought, for some time, the writing being between us, that he could not
+thought, for some [[Time|time]], the writing being between us, that he could not
 see me; but looking that way more attentively, it made me uncomfortable
 to observe that, every now and then, his sleepless eyes would come below
 the writing, like two red suns, and stealthily stare at me for I dare
-say a whole minute at a time, during which his pen went, or pretended
+say a whole minute at a [[Time|time]], during which his pen went, or pretended
 to go, as cleverly as ever. I made several attempts to get out of their
 way--such as standing on a chair to look at a map on the other side of
 the room, and poring over the columns of a Kentish newspaper--but they

@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 22 (part 3)"
+title: "[[Great Expectations]] — Chapter 22 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -19,19 +19,19 @@ when I am laid dead upon that table;” and I asked Herbert whether his
 father was so inveterate against her?
 
 “It’s not that,” said he, “but she charged him, in the presence of her
-intended husband, with being disappointed in the hope of fawning upon
+intended husband, with being disappointed in the [[Hope|hope]] of fawning upon
 her for his own advancement, and, if he were to go to her now, it would
 look true—even to him—and even to her. To return to the man and make an
-end of him. The marriage day was fixed, the wedding dresses were
+end of him. The [[Marriage|marriage]] day was fixed, the wedding dresses were
 bought, the wedding tour was planned out, the wedding guests were
 invited. The day came, but not the bridegroom. He wrote her a letter—”
 
 “Which she received,” I struck in, “when she was dressing for her
-marriage? At twenty minutes to nine?”
+[[Marriage|marriage]]? At twenty minutes to nine?”
 
 “At the hour and minute,” said Herbert, nodding, “at which she
 afterwards stopped all the clocks. What was in it, further than that it
-most heartlessly broke the marriage off, I can’t tell you, because I
+most heartlessly broke the [[Marriage|marriage]] off, I can’t tell you, because I
 don’t know. When she recovered from a bad illness that she had, she
 laid the whole place waste, as you have seen it, and she has never
 since looked upon the light of day.”
@@ -46,7 +46,7 @@ thing. It has been supposed that the man to whom she gave her misplaced
 confidence acted throughout in concert with her half-brother; that it
 was a conspiracy between them; and that they shared the profits.”
 
-“I wonder he didn’t marry her and get all the property,” said I.
+“I [[Wonder|wonder]] he didn’t marry her and get all the property,” said I.
 
 “He may have been married already, and her cruel mortification may have
 been a part of her half-brother’s scheme,” said Herbert. “Mind! I don’t
@@ -62,11 +62,11 @@ ruin.”
 
 “I don’t know.”
 
-“You said just now that Estella was not related to Miss Havisham, but
+“You said just now that [[Estella]] was not related to [[Miss Havisham]], but
 adopted. When adopted?”
 
-Herbert shrugged his shoulders. “There has always been an Estella,
-since I have heard of a Miss Havisham. I know no more. And now,
+Herbert shrugged his shoulders. “There has always been an [[Estella]],
+since I have heard of a [[Miss Havisham]]. I know no more. And now,
 Handel,” said he, finally throwing off the story as it were, “there is
 a perfectly open understanding between us. All that I know about Miss
 Havisham, you know.”
@@ -79,10 +79,10 @@ advancement in life,—namely, that you are not to inquire or discuss to
 whom you owe it,—you may be very sure that it will never be encroached
 upon, or even approached, by me, or by any one belonging to me.”
 
-In truth, he said this with so much delicacy, that I felt the subject
+In [[Truth|truth]], he said this with so much delicacy, that I felt the subject
 done with, even though I should be under his father’s roof for years
 and years to come. Yet he said it with so much meaning, too, that I
-felt he as perfectly understood Miss Havisham to be my benefactress, as
+felt he as perfectly understood [[Miss Havisham]] to be my benefactress, as
 I understood the fact myself.
 
 It had not occurred to me before, that he had led up to the theme for
@@ -92,13 +92,13 @@ be the case. We were very gay and sociable, and I asked him, in the
 course of conversation, what he was? He replied, “A capitalist,—an
 Insurer of Ships.” I suppose he saw me glancing about the room in
 search of some tokens of Shipping, or capital, for he added, “In the
-City.”
+[[City]].”
 
 I had grand ideas of the wealth and importance of Insurers of Ships in
-the City, and I began to think with awe of having laid a young Insurer
+the [[City]], and I began to think with awe of having laid a young Insurer
 on his back, blackened his enterprising eye, and cut his responsible
 head open. But again there came upon me, for my relief, that odd
-impression that Herbert Pocket would never be very successful or rich.
+impression that [[Herbert Pocket]] would never be very successful or rich.
 
 “I shall not rest satisfied with merely employing my capital in
 insuring ships. I shall buy up some good Life Assurance shares, and cut
@@ -133,9 +133,9 @@ him where the ships he insured mostly traded to at present?
 Somehow, that pursuit seemed more in keeping with Barnard’s Inn. I said
 (in a tone of conviction), “Ah-h!”
 
-“Yes. I am in a counting-house, and looking about me.”
+“Yes. I am in a counting-[[house]], and looking about me.”
 
-“Is a counting-house profitable?” I asked.
+“Is a counting-[[house]] profitable?” I asked.
 
 “To—do you mean to the young fellow who’s in it?” he asked, in reply.
 
@@ -149,10 +149,10 @@ This certainly had not a profitable appearance, and I shook my head as
 if I would imply that it would be difficult to lay by much accumulative
 capital from such a source of income.
 
-“But the thing is,” said Herbert Pocket, “that you look about you.
-_That’s_ the grand thing. You are in a counting-house, you know, and
+“But the thing is,” said [[Herbert Pocket]], “that you look about you.
+_That’s_ the grand thing. You are in a counting-[[house]], you know, and
 you look about you.”
 
 It struck me as a singular implication that you couldn’t be out of a
-counting-house, you know, and look about you; but I silently deferred
+counting-[[house]], you know, and look about you; but I silently deferred
 to his experience.

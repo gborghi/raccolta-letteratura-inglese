@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 7 (part 1)"
+title: "[[Mansfield Park]] — Chapter 7 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -17,11 +17,11 @@ tags:
 CHAPTER VII
 
 
-“Well, Fanny, and how do you like Miss Crawford _now_?” said Edmund the
-next day, after thinking some time on the subject himself. “How did you
+“[[Well]], Fanny, and how do you like Miss Crawford _now_?” said [[Edmund]] the
+next day, after thinking some [[Time|time]] on the subject himself. “How did you
 like her yesterday?”
 
-“Very well—very much. I like to hear her talk. She entertains me; and
+“Very [[Well|well]]—very much. I like to hear her talk. She entertains me; and
 she is so extremely pretty, that I have great pleasure in looking at
 her.”
 
@@ -41,7 +41,7 @@ it!”
 
 “Ungrateful is a strong word. I do not know that her uncle has any
 claim to her _gratitude_; his wife certainly had; and it is the warmth
-of her respect for her aunt’s memory which misleads her here. She is
+of her respect for her aunt’s [[Memory|memory]] which misleads her here. She is
 awkwardly circumstanced. With such warm feelings and lively spirits it
 must be difficult to do justice to her affection for Mrs. Crawford,
 without throwing a shade on the Admiral. I do not pretend to know which
@@ -58,12 +58,12 @@ right notions of what was due to the Admiral.”
 
 “That is a fair remark. Yes, we must suppose the faults of the niece to
 have been those of the aunt; and it makes one more sensible of the
-disadvantages she has been under. But I think her present home must do
+disadvantages she has been under. But I think her present [[Home|home]] must do
 her good. Mrs. Grant’s manners are just what they ought to be. She
 speaks of her brother with a very pleasing affection.”
 
 “Yes, except as to his writing her such short letters. She made me
-almost laugh; but I cannot rate so very highly the love or good-nature
+almost laugh; but I cannot rate so very highly the [[Love|love]] or good-[[Nature|nature]]
 of a brother who will not give himself the trouble of writing anything
 worth reading to his sisters, when they are separated. I am sure
 William would never have used _me_ so, under any circumstances. And
@@ -72,7 +72,7 @@ when you were absent?”
 
 “The right of a lively mind, Fanny, seizing whatever may contribute to
 its own amusement or that of others; perfectly allowable, when
-untinctured by ill-humour or roughness; and there is not a shadow of
+untinctured by ill-[[Humour|humour]] or roughness; and there is not a [[Shadow|shadow]] of
 either in the countenance or manner of Miss Crawford: nothing sharp, or
 loud, or coarse. She is perfectly feminine, except in the instances we
 have been speaking of. There she cannot be justified. I am glad you saw
@@ -83,25 +83,25 @@ of her thinking like him; though at this period, and on this subject,
 there began now to be some danger of dissimilarity, for he was in a
 line of admiration of Miss Crawford, which might lead him where Fanny
 could not follow. Miss Crawford’s attractions did not lessen. The harp
-arrived, and rather added to her beauty, wit, and good-humour; for she
+arrived, and rather added to her [[Beauty|beauty]], wit, and good-[[Humour|humour]]; for she
 played with the greatest obligingness, with an expression and taste
 which were peculiarly becoming, and there was something clever to be
-said at the close of every air. Edmund was at the Parsonage every day,
+said at the close of every air. [[Edmund]] was at the Parsonage every day,
 to be indulged with his favourite instrument: one morning secured an
 invitation for the next; for the lady could not be unwilling to have a
 listener, and every thing was soon in a fair train.
 
 A young woman, pretty, lively, with a harp as elegant as herself, and
-both placed near a window, cut down to the ground, and opening on a
-little lawn, surrounded by shrubs in the rich foliage of summer, was
+both placed near a [[Window|window]], cut down to the ground, and opening on a
+little lawn, surrounded by shrubs in the rich foliage of [[Summer|summer]], was
 enough to catch any man’s heart. The season, the scene, the air, were
 all favourable to tenderness and sentiment. Mrs. Grant and her tambour
 frame were not without their use: it was all in harmony; and as
-everything will turn to account when love is once set going, even the
+everything will turn to account when [[Love|love]] is once set going, even the
 sandwich tray, and Dr. Grant doing the honours of it, were worth
 looking at. Without studying the business, however, or knowing what he
-was about, Edmund was beginning, at the end of a week of such
-intercourse, to be a good deal in love; and to the credit of the lady
+was about, [[Edmund]] was beginning, at the end of a week of such
+intercourse, to be a good deal in [[Love|love]]; and to the credit of the lady
 it may be added that, without his being a man of the world or an elder
 brother, without any of the arts of flattery or the gaieties of small
 talk, he began to be agreeable to her. She felt it to be so, though she
@@ -114,29 +114,29 @@ equal to discuss with herself. She did not think very much about it,
 however: he pleased her for the present; she liked to have him near
 her; it was enough.
 
-Fanny could not wonder that Edmund was at the Parsonage every morning;
+Fanny could not [[Wonder|wonder]] that [[Edmund]] was at the Parsonage every morning;
 she would gladly have been there too, might she have gone in uninvited
-and unnoticed, to hear the harp; neither could she wonder that, when
+and unnoticed, to hear the harp; neither could she [[Wonder|wonder]] that, when
 the evening stroll was over, and the two families parted again, he
 should think it right to attend Mrs. Grant and her sister to their
-home, while Mr. Crawford was devoted to the ladies of the Park; but she
-thought it a very bad exchange; and if Edmund were not there to mix the
-wine and water for her, would rather go without it than not. She was a
+[[Home|home]], while Mr. Crawford was devoted to the ladies of the Park; but she
+thought it a very bad exchange; and if [[Edmund]] were not there to mix the
+wine and [[Water|water]] for her, would rather go without it than not. She was a
 little surprised that he could spend so many hours with Miss Crawford,
 and not see more of the sort of fault which he had already observed,
 and of which _she_ was almost always reminded by a something of the
-same nature whenever she was in her company; but so it was. Edmund was
+same [[Nature|nature]] whenever she was in her company; but so it was. [[Edmund]] was
 fond of speaking to her of Miss Crawford, but he seemed to think it
 enough that the Admiral had since been spared; and she scrupled to
 point out her own remarks to him, lest it should appear like
-ill-nature. The first actual pain which Miss Crawford occasioned her
+ill-[[Nature|nature]]. The first actual [[Pain|pain]] which Miss Crawford occasioned her
 was the consequence of an inclination to learn to ride, which the
 former caught, soon after her being settled at Mansfield, from the
-example of the young ladies at the Park, and which, when Edmund’s
+example of the young ladies at the Park, and which, when [[Edmund]]’s
 acquaintance with her increased, led to his encouraging the wish, and
 the offer of his own quiet mare for the purpose of her first attempts,
 as the best fitted for a beginner that either stable could furnish. No
-pain, no injury, however, was designed by him to his cousin in this
+[[Pain|pain]], no injury, however, was designed by him to his cousin in this
 offer: _she_ was not to lose a day’s exercise by it. The mare was only
 to be taken down to the Parsonage half an hour before her ride were to
 begin; and Fanny, on its being first proposed, so far from feeling

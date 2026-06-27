@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 15"
+title: "[[thursday]] — Chapter 15"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/thursday-(Chesterton)"
@@ -23,11 +23,11 @@ the top of a great flight of stairs.  The man had never looked so noble.
 He was draped in a long robe of starless black, down the centre of which
 fell a band or broad stripe of pure white, like a single shaft of light.
 The whole looked like some very severe ecclesiastical vestment.
-There was no need for Syme to search his memory or the Bible in order
+There was no need for Syme to search his [[Memory|memory]] or the [[Bible]] in order
 to remember that the first day of creation marked the mere creation
-of light out of darkness.  The vestment itself would alone have suggested
+of light out of darkness.  The vestment itself would [[Alone|alone]] have suggested
 the symbol; and Syme felt also how perfectly this pattern of pure
-white and black expressed the soul of the pale and austere Secretary,
+white and black expressed the [[Soul|soul]] of the pale and austere Secretary,
 with his inhuman veracity and his cold frenzy, which made him so easily
 make war on the anarchists, and yet so easily pass for one of them.
 Syme was scarcely surprised to notice that, amid all the ease and
@@ -36,33 +36,33 @@ No smell of ale or orchards could make the Secretary cease to ask
 a reasonable question.
 
 If Syme had been able to see himself, he would have realised
-that he, too, seemed to be for the first time himself and no one else.
+that he, too, seemed to be for the first [[Time|time]] himself and no one else.
 For if the Secretary stood for that philosopher who loves the original
 and formless light, Syme was a type of the poet who seeks always
 to make the light in special shapes, to split it up into sun and star.
-The philosopher may sometimes love the infinite; the poet always loves
+The philosopher may sometimes [[Love|love]] the infinite; the poet always loves
 the finite.  For him the great moment is not the creation of light,
-but the creation of the sun and moon.
+but the creation of the sun and [[Moon|moon]].
 
 As they descended the broad stairs together they overtook Ratcliffe,
-who was clad in spring green like a huntsman, and the pattern
+who was clad in [[spring]] green like a huntsman, and the pattern
 upon whose garment was a green tangle of trees.  For he stood
 for that third day on which the earth and green things were made,
 and his square, sensible face, with its not unfriendly cynicism,
 seemed appropriate enough to it.
 
 They were led out of another broad and low gateway into a very large
-old English garden, full of torches and bonfires, by the broken light
+old English [[Garden|garden]], full of torches and bonfires, by the broken light
 of which a vast carnival of people were dancing in motley dress.
-Syme seemed to see every shape in Nature imitated in some crazy costume.
+Syme seemed to see every shape in [[Nature]] imitated in some crazy costume.
 There was a man dressed as a windmill with enormous sails, a man dressed
 as an elephant, a man dressed as a balloon; the two last, together,
 seemed to keep the thread of their farcical adventures.  Syme even saw,
 with a queer thrill, one dancer dressed like an enormous hornbill,
 with a beak twice as big as himself--the queer bird which had fixed itself
-on his fancy like a living question while he was rushing down the long road at
+on his fancy like a living question while he was rushing down the long [[Road|road]] at
 the Zoological Gardens.  There were a thousand other such objects, however.
-There was a dancing lamp-post, a dancing apple tree, a dancing ship.
+There was a dancing lamp-post, a dancing apple tree, a dancing [[Ship|ship]].
 One would have thought that the untamable tune of some mad musician had
 set all the common objects of field and street dancing an eternal jig.
 And long afterwards, when Syme was middle-aged and at rest, he could
@@ -75,21 +75,21 @@ like the terrace in such old-fashioned gardens.
 
 Along this, in a kind of crescent, stood seven great chairs, the thrones
 of the seven days.  Gogol and Dr. Bull were already in their seats;
-the Professor was just mounting to his.  Gogol, or Tuesday,
-had his simplicity well symbolised by a dress designed upon
+[[The Professor|the Professor]] was just mounting to his.  Gogol, or Tuesday,
+had his simplicity [[Well|well]] symbolised by a dress designed upon
 the division of the waters, a dress that separated upon his forehead
 and fell to his feet, grey and silver, like a sheet of rain.
-The Professor, whose day was that on which the birds and fishes--
+[[The Professor]], whose day was that on which the [[Birds|birds]] and fishes--
 the ruder forms of life--were created, had a dress of dim purple,
-over which sprawled goggle-eyed fishes and outrageous tropical birds,
-the union in him of unfathomable fancy and of doubt.
+over which sprawled goggle-eyed fishes and outrageous tropical [[Birds|birds]],
+the [[Union|union]] in him of unfathomable fancy and of [[Doubt|doubt]].
 Dr. Bull, the last day of Creation, wore a coat covered with
-heraldic animals in red and gold, and on his crest a man rampant.
+heraldic [[Animals|animals]] in red and gold, and on his crest a man rampant.
 He lay back in his chair with a broad smile, the picture of an
 optimist in his element.
 
 One by one the wanderers ascended the bank and sat in their strange seats.
-As each of them sat down a roar of enthusiasm rose from the carnival,
+As each of them sat down a roar of enthusiasm [[Rose|rose]] from the carnival,
 such as that with which crowds receive kings.  Cups were clashed and
 torches shaken, and feathered hats flung in the air.  The men for whom
 these thrones were reserved were men crowned with some extraordinary laurels.
@@ -103,45 +103,45 @@ compressing his lips--
 
 Almost as Syme heard the words, he saw on the sea of human faces
 in front of him a frightful and beautiful alteration, as if heaven
-had opened behind his head.  But Sunday had only passed silently
-along the front like a shadow, and had sat in the central seat.
+had opened behind his head.  But [[Sunday]] had only passed silently
+along the front like a [[Shadow|shadow]], and had sat in the central seat.
 He was draped plainly, in a pure and terrible white, and his hair
 was like a silver flame on his forehead.
 
-For a long time--it seemed for hours--that huge masquerade of mankind
+For a long [[Time|time]]--it seemed for hours--that huge masquerade of mankind
 swayed and stamped in front of them to marching and exultant music.
-Every couple dancing seemed a separate romance; it might be
+Every couple dancing seemed a separate [[Romance|romance]]; it might be
 a fairy dancing with a pillar-box, or a peasant girl dancing
-with the moon; but in each case it was, somehow, as absurd
-as Alice in Wonderland, yet as grave and kind as a love story.
+with the [[Moon|moon]]; but in each case it was, somehow, as absurd
+as Alice in Wonderland, yet as [[Grave|grave]] and kind as a [[Love|love]] story.
 At last, however, the thick crowd began to thin itself.
-Couples strolled away into the garden-walks, or began to drift
+Couples strolled away into the [[Garden|garden]]-walks, or began to drift
 towards that end of the building where stood smoking, in huge pots
 like fish-kettles, some hot and scented mixtures of old ale or wine.
 Above all these, upon a sort of black framework on the roof
-of the house, roared in its iron basket a gigantic bonfire,
+of the [[house]], roared in its iron basket a gigantic bonfire,
 which lit up the land for miles.  It flung the homely effect
 of firelight over the face of vast forests of grey or brown,
-and it seemed to fill with warmth even the emptiness of upper night.
-Yet this also, after a time, was allowed to grow fainter; the dim
+and it seemed to fill with warmth even the emptiness of upper [[Night|night]].
+Yet this also, after a [[Time|time]], was allowed to grow fainter; the dim
 groups gathered more and more round the great cauldrons, or passed,
-laughing and clattering, into the inner passages of that ancient house.
-Soon there were only some ten loiterers in the garden; soon only four.
-Finally the last stray merry-maker ran into the house whooping to
-his companions.  The fire faded, and the slow, strong stars came out.
-And the seven strange men were left alone, like seven stone statues
+laughing and clattering, into the inner passages of that ancient [[house]].
+Soon there were only some ten loiterers in the [[Garden|garden]]; soon only four.
+Finally the last stray merry-maker ran into the [[house]] whooping to
+his companions.  The [[Fire|fire]] faded, and the slow, strong [[Stars|stars]] came out.
+And the seven strange men were left [[Alone|alone]], like seven stone statues
 on their chairs of stone.  Not one of them had spoken a word.
 
-They seemed in no haste to do so, but heard in silence the hum
-of insects and the distant song of one bird.  Then Sunday spoke,
+They seemed in no haste to do so, but heard in [[Silence|silence]] the hum
+of [[Insects|insects]] and the distant [[Song|song]] of one bird.  Then [[Sunday]] spoke,
 but so dreamily that he might have been continuing a conversation
 rather than beginning one.
 
 "We will eat and drink later," he said.  "Let us remain together a little,
 we who have loved each other so sadly, and have fought so long.
 I seem to remember only centuries of heroic war, in which you
-were always heroes--epic on epic, iliad on iliad, and you always
-brothers in arms.  Whether it was but recently (for time is
+were always heroes--[[Epic|epic]] on [[Epic|epic]], iliad on iliad, and you always
+brothers in arms.  Whether it was but recently (for [[Time|time]] is
 nothing), or at the beginning of the world, I sent you out to war.
 I sat in the darkness, where there is not any created thing, and to
 you I was only a voice commanding valour and an unnatural virtue.
@@ -150,18 +150,18 @@ The sun in heaven denied it, the earth and sky denied it,
 all human wisdom denied it.  And when I met you in the daylight I
 denied it myself."
 
-Syme stirred sharply in his seat, but otherwise there was silence,
+Syme stirred sharply in his seat, but otherwise there was [[Silence|silence]],
 and the incomprehensible went on.
 
-"But you were men.  You did not forget your secret honour,
+"But you were men.  You did not forget your secret [[Honour|honour]],
 though the whole cosmos turned an engine of torture
 to tear it out of you.  I knew how near you were to hell.
-I know how you, Thursday, crossed swords with King Satan,
-and how you, Wednesday, named me in the hour without hope."
+I know how you, [[thursday|Thursday]], crossed swords with [[King]] [[Satan]],
+and how you, Wednesday, named me in the hour without [[Hope|hope]]."
 
-There was complete silence in the starlit garden, and then
+There was complete [[Silence|silence]] in the starlit [[Garden|garden]], and then
 the black-browed Secretary, implacable, turned in his chair
-towards Sunday, and said in a harsh voice--
+towards [[Sunday]], and said in a harsh voice--
 
 "Who and what are you?"
 
@@ -172,53 +172,53 @@ The Secretary started up, and stood crushing his costly robe in his hand.
 
 "I know what you mean," he cried, "and it is exactly that that I cannot
 forgive you.  I know you are contentment, optimism, what do they call
-the thing, an ultimate reconciliation.  Well, I am not reconciled.
-If you were the man in the dark room, why were you also Sunday,
+the thing, an ultimate [[Reconciliation|reconciliation]].  [[Well]], I am not reconciled.
+If you were the man in the dark room, why were you also [[Sunday]],
 an offense to the sunlight?  If you were from the first our
 father and our friend, why were you also our greatest enemy?
 We wept, we fled in terror; the iron entered into our souls--
 and you are the peace of God!  Oh, I can forgive God His anger,
 though it destroyed nations; but I cannot forgive Him His peace."
 
-Sunday answered not a word, but very slowly he turned his face of stone
+[[Sunday]] answered not a word, but very slowly he turned his face of stone
 upon Syme as if asking a question.
 
 "No," said Syme, "I do not feel fierce like that.  I am grateful to you,
 not only for wine and hospitality here, but for many a fine scamper and
-free fight.  But I should like to know.  My soul and heart are as happy
-and quiet here as this old garden, but my reason is still crying out.
+free fight.  But I should like to know.  My [[Soul|soul]] and heart are as happy
+and quiet here as this old [[Garden|garden]], but my reason is still crying out.
 I should like to know."
 
-Sunday looked at Ratcliffe, whose clear voice said--
+[[Sunday]] looked at Ratcliffe, whose clear voice said--
 
 "It seems so silly that you should have been on both sides
 and fought yourself."
 
 Bull said--
 
-"I understand nothing, but I am happy.  In fact, I am going to sleep."
+"I understand nothing, but I am happy.  In fact, I am going to [[Sleep|sleep]]."
 
-"I am not happy," said the Professor with his head in his hands,
+"I am not happy," said [[The Professor|the Professor]] with his head in his hands,
 "because I do not understand.  You let me stray a little too
 near to hell."
 
-And then Gogol said, with the absolute simplicity of a child--
+And then Gogol said, with the absolute simplicity of a [[Child|child]]--
 
 "I wish I knew why I was hurt so much."
 
-Still Sunday said nothing, but only sat with his mighty chin upon his hand,
+Still [[Sunday]] said nothing, but only sat with his mighty chin upon his hand,
 and gazed at the distance.  Then at last he said--
 
 "I have heard your complaints in order.  And here, I think,
 comes another to complain, and we will hear him also."
 
-The falling fire in the great cresset threw a last long gleam,
+The falling [[Fire|fire]] in the great cresset threw a last long gleam,
 like a bar of burning gold, across the dim grass.
 Against this fiery band was outlined in utter black the advancing
 legs of a black-clad figure.  He seemed to have a fine close suit
 with knee-breeches such as that which was worn by the servants
-of the house, only that it was not blue, but of this absolute sable.
-He had, like the servants, a kind of sword by his side.
+of the [[house]], only that it was not blue, but of this absolute sable.
+He had, like the servants, a kind of [[Sword|sword]] by his side.
 It was only when he had come quite close to the crescent of
 the seven and flung up his face to look at them, that Syme saw,
 with thunder-struck clearness, that the face was the broad,
@@ -233,7 +233,7 @@ red hair and its insulting smile.
 
 "'Now there was a day,'" murmured Bull, who seemed really
 to have fallen asleep, "'when the sons of God came to present
-themselves before the Lord, and Satan came also among them.'"
+themselves before the Lord, and [[Satan]] came also among them.'"
 
 "You are right," said Gregory, and gazed all round.  "I am a destroyer.
 I would destroy the world if I could."
@@ -257,11 +257,11 @@ Then out of this unintelligible creature the last thunders broke.
 I know what you are all of you, from first to last--
 you are the people in power!  You are the police--the great fat,
 smiling men in blue and buttons!  You are the Law, and you have
-never been broken.  But is there a free soul alive that does
+never been broken.  But is there a free [[Soul|soul]] alive that does
 not long to break you, only because you have never been broken?
 We in revolt talk all kind of nonsense doubtless about this
-crime or that crime of the Government.  It is all folly!
-The only crime of the Government is that it governs.
+crime or that crime of the [[government|Government]].  It is all folly!
+The only crime of the [[government|Government]] is that it governs.
 The unpardonable sin of the supreme power is that it is supreme.
 I do not curse you for being cruel.  I do not curse you
 (though I might) for being kind.  I curse you for being safe!
@@ -278,18 +278,18 @@ Why does each thing on the earth war against each other thing?
 Why does each small thing in the world have to fight against
 the world itself?  Why does a fly have to fight the whole universe?
 Why does a dandelion have to fight the whole universe?
-For the same reason that I had to be alone in the dreadful
+For the same reason that I had to be [[Alone|alone]] in the dreadful
 Council of the Days.  So that each thing that obeys law
 may have the glory and isolation of the anarchist.
 So that each man fighting for order may be as brave and good
-a man as the dynamiter.  So that the real lie of Satan may be
-flung back in the face of this blasphemer, so that by tears
+a man as the dynamiter.  So that the real lie of [[Satan]] may be
+flung back in the face of this blasphemer, so that by [[Tears|tears]]
 and torture we may earn the right to say to this man, 'You lie!'
 No agonies can be too great to buy the right to say to this accuser,
 'We also have suffered.'
 
 "It is not true that we have never been broken.  We have been
-broken upon the wheel.  It is not true that we have never
+broken upon the [[Wheel|wheel]].  It is not true that we have never
 descended from these thrones.  We have descended into hell.
 We were complaining of unforgettable miseries even at the very moment
 when this man entered insolently to accuse us of happiness.
@@ -297,13 +297,13 @@ I repel the slander; we have not been happy.  I can answer
 for every one of the great guards of Law whom he has accused.
 At least--"
 
-He had turned his eyes so as to see suddenly the great face of Sunday,
+He had turned his eyes so as to see suddenly the great face of [[Sunday]],
 which wore a strange smile.
 
 "Have you," he cried in a dreadful voice, "have you ever suffered?"
 
 As he gazed, the great face grew to an awful size, grew larger than
-the colossal mask of Memnon, which had made him scream as a child.
+the colossal mask of Memnon, which had made him scream as a [[Child|child]].
 It grew larger and larger, filling the whole sky; then everything went black.
 Only in the blackness before it entirely destroyed his brain he seemed to hear
 a distant voice saying a commonplace text that he had heard somewhere,
@@ -318,28 +318,28 @@ from a field.  Syme's experience was something much more
 psychologically strange if there was indeed anything unreal,
 in the earthly sense, about the things he had gone through.
 For while he could always remember afterwards that he had
-swooned before the face of Sunday, he could not remember having
+swooned before the face of [[Sunday]], he could not remember having
 ever come to at all.  He could only remember that gradually
 and naturally he knew that he was and had been walking along
 a country lane with an easy and conversational companion.
 That companion had been a part of his recent drama; it was
 the red-haired poet Gregory.  They were walking like old friends,
 and were in the middle of a conversation about some triviality.
-But Syme could only feel an unnatural buoyancy in his body
+But Syme could only feel an unnatural buoyancy in his [[Body|body]]
 and a crystal simplicity in his mind that seemed to be superior
 to everything that he said or did.  He felt he was in possession
 of some impossible good news, which made every other thing
 a triviality, but an adorable triviality.
 
-Dawn was breaking over everything in colours at once clear and timid;
-as if Nature made a first attempt at yellow and a first attempt at rose.
+[[Dawn]] was breaking over everything in colours at once clear and timid;
+as if [[Nature]] made a first attempt at yellow and a first attempt at [[Rose|rose]].
 A breeze blew so clean and sweet, that one could not think that it
 blew from the sky; it blew rather through some hole in the sky.
 Syme felt a simple surprise when he saw rising all round him on both
-sides of the road the red, irregular buildings of Saffron Park.  He had
-no idea that he had walked so near London.  He walked by instinct
-along one white road, on which early birds hopped and sang, and found
-himself outside a fenced garden.  There he saw the sister of Gregory,
+sides of the [[Road|road]] the red, irregular buildings of Saffron Park.  He had
+no idea that he had walked so near [[London]].  He walked by instinct
+along one white [[Road|road]], on which early [[Birds|birds]] hopped and sang, and found
+himself outside a fenced [[Garden|garden]].  There he saw the sister of Gregory,
 the girl with the gold-red hair, cutting lilac before breakfast,
 with the great unconscious gravity of a girl.
 
@@ -347,17 +347,17 @@ with the great unconscious gravity of a girl.
 
       A WILD, MAD, HILARIOUS AND PROFOUNDLY MOVING TALE
 
-                   THE MAN WHO WAS THURSDAY
+                   THE MAN WHO WAS [[thursday|THURSDAY]]
 
                       by G. K. Chesterton
 
-              author of the Father Brown stories
+              author of the [[Father Brown]] stories
 
-It is very difficult to classify THE MAN WHO WAS THURSDAY.  It is possible
+It is very difficult to classify THE MAN WHO WAS [[thursday|THURSDAY]].  It is possible
 to say that it is a gripping adventure story of murderous criminals
 and brilliant policemen; but it was to be expected that the author of
-the Father Brown stories should tell a detective story like no-one else.
-On this level, therefore, THE MAN WHO WAS THURSDAY succeeds superbly;
+the [[Father Brown]] stories should tell a [[Detective|detective]] story like no-one else.
+On this level, therefore, THE MAN WHO WAS [[thursday|THURSDAY]] succeeds superbly;
 if nothing else, it is a magnificent tour-de-force of suspense-writing.
 
 However, the reader will soon discover that it is much more than that.
@@ -367,4 +367,4 @@ carried into much deeper waters than he had planned on; and the totally
 unforeseeable denouement will prove for the modern reader, as it has
 for thousands of others since 1908 when the book was first published,
 an inevitable and moving experience, as the investigators finally
-discover who Sunday is.
+discover who [[Sunday]] is.

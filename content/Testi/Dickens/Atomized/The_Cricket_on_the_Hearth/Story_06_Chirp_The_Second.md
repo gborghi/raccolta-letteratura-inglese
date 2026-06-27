@@ -17,33 +17,33 @@ tags:
 CHIRP THE SECOND
 
 
-Caleb Plummer and his Blind Daughter lived all alone by themselves, as
-the Story Books say--and my blessing, with yours, to back it I hope, on
+[[Caleb Plummer]] and his Blind Daughter lived all [[Alone|alone]] by themselves, as
+the Story Books say--and my blessing, with yours, to back it I [[Hope|hope]], on
 the Story Books, for saying anything in this work-a-day world!--Caleb
-Plummer and his Blind Daughter lived all alone by themselves, in a
-little cracked nutshell of a wooden house, which was, in truth, no
+Plummer and his Blind Daughter lived all [[Alone|alone]] by themselves, in a
+little cracked nutshell of a wooden [[house]], which was, in [[Truth|truth]], no
 better than a pimple on the prominent red-brick nose of Gruff and
-Tackleton. The premises of Gruff and Tackleton were the great feature of
-the street; but you might have knocked down Caleb Plummer's dwelling
+[[Tackleton]]. The premises of Gruff and [[Tackleton]] were the great feature of
+the street; but you might have knocked down [[Caleb Plummer]]'s dwelling
 with a hammer or two, and carried off the pieces in a cart.
 
-If any one had done the dwelling-house of Caleb Plummer the honour to
-miss it after such an inroad, it would have been, no doubt, to commend
+If any one had done the dwelling-[[house]] of [[Caleb Plummer]] the [[Honour|honour]] to
+miss it after such an inroad, it would have been, no [[Doubt|doubt]], to commend
 its demolition as a vast improvement. It stuck to the premises of Gruff
-and Tackleton like a barnacle to a ship's keel, or a snail to a door, or
+and [[Tackleton]] like a barnacle to a [[Ship|ship]]'s keel, or a snail to a door, or
 a little bunch of toadstools to the stem of a tree. But it was the germ
-from which the full-grown trunk of Gruff and Tackleton had sprung; and,
+from which the full-grown trunk of Gruff and [[Tackleton]] had sprung; and,
 under its crazy roof, the Gruff before last had, in a small way, made
 toys for a generation of old boys and girls, who had played with them,
-and found them out, and broken them, and gone to sleep.
+and found them out, and broken them, and gone to [[Sleep|sleep]].
 
 I have said that Caleb and his poor Blind Daughter lived here. I should
 have said that Caleb lived here, and his poor Blind Daughter somewhere
-else--in an enchanted home of Caleb's furnishing, where scarcity and
+else--in an enchanted [[Home|home]] of Caleb's furnishing, where scarcity and
 shabbiness were not, and trouble never entered. Caleb was no sorcerer;
-but in the only magic art that still remains to us, the magic of
-devoted, deathless love, Nature had been the mistress of his study;
-and, from her teaching, all the wonder came.
+but in the only [[Magic|magic]] art that still remains to us, the [[Magic|magic]] of
+devoted, deathless [[Love|love]], [[Nature]] had been the mistress of his study;
+and, from her teaching, all the [[Wonder|wonder]] came.
 
 The Blind Girl never knew that ceilings were discoloured, walls blotched
 and bare of plaster here and there, high crevices unstopped and widening
@@ -51,17 +51,17 @@ every day, beams mouldering and tending downward. The Blind Girl never
 knew that iron was rusting, wood rotting, paper peeling off; the size,
 and shape, and true proportion of the dwelling, withering away. The
 Blind Girl never knew that ugly shapes of delf and earthenware were on
-the board; that sorrow and faint-heartedness were in the house; that
+the board; that sorrow and faint-heartedness were in the [[house]]; that
 Caleb's scanty hairs were turning greyer and more grey before her
 sightless face. The Blind Girl never knew they had a master, cold,
-exacting, and uninterested--never knew that Tackleton was Tackleton, in
+exacting, and uninterested--never knew that [[Tackleton]] was [[Tackleton]], in
 short; but lived in the belief of an eccentric humorist, who loved to
 have his jest with them, and who, while he was the Guardian Angel of
 their lives, disdained to hear one word of thankfulness.
 
 And all was Caleb's doing; all the doing of her simple father! But he,
 too, had a Cricket on his Hearth; and listening sadly to its music when
-the motherless Blind Child was very young that Spirit had inspired him
+the motherless Blind [[Child]] was very young that Spirit had inspired him
 with the thought that even her great deprivation might be almost changed
 into a blessing, and the girl made happy by these little means. For all
 the Cricket tribe are potent Spirits, even though the people who hold
@@ -72,7 +72,7 @@ tenderest counsel, as the Voices in which the Spirits of the Fireside
 and the Hearth address themselves to humankind.
 
 Caleb and his daughter were at work together in their usual
-working-room, which served them for their ordinary living-room as well;
+working-room, which served them for their ordinary living-room as [[Well|well]];
 and a strange place it was. There were houses in it, finished and
 unfinished, for Dolls of all stations in life. Suburban tenements for
 Dolls of moderate means; kitchens and single apartments for Dolls of the
@@ -86,7 +86,7 @@ tenements were designed, lay here and there, in baskets, staring
 straight up at the ceiling; but in denoting their degrees in society,
 and confining them to their respective stations (which experience shows
 to be lamentably difficult in real life), the makers of these Dolls had
-far improved on Nature, who is often froward and perverse; for they, not
+far improved on [[Nature]], who is often froward and perverse; for they, not
 resting on such arbitrary marks as satin, cotton print, and bits of rag,
 had superadded striking personal differences which allowed of no
 mistake. Thus, the Doll-lady of distinction had wax limbs of perfect
@@ -97,13 +97,13 @@ their arms and legs, and there they were--established in their sphere at
 once, beyond the possibility of getting out of it.
 
 There were various other samples of his handicraft besides Dolls in
-Caleb Plummer's room. There were Noah's arks, in which the Birds and
+[[Caleb Plummer]]'s room. There were Noah's arks, in which the [[Birds]] and
 Beasts were an uncommonly tight fit, I assure you; though they could be
 crammed in, anyhow, at the roof, and rattled and shaken into the
 smallest compass. By a bold poetical licence, most of these Noah's arks
 had knockers on the doors; inconsistent appendages, perhaps, as
 suggestive of morning callers and a Postman, yet a pleasant finish to
-the outside of the building. There were scores of melancholy little
+the outside of the building. There were scores of [[Melancholy|melancholy]] little
 carts, which, when the wheels went round, performed most doleful music.
 Many small fiddles, drums, and other instruments of torture; no end of
 cannon, shields, swords, spears, and guns. There were little tumblers in
@@ -114,11 +114,11 @@ flying over horizontal pegs, inserted, for the purpose, in their own
 street-doors. There were beasts of all sorts; horses, in particular, of
 every breed, from the spotted barrel on four pegs with a small tippet
 for a mane, to the thorough-bred rocker on his highest mettle. As it
-would have been hard to count the dozens upon dozens of grotesque
+would have been hard to count the dozens upon dozens of [[Grotesque|grotesque]]
 figures that were ever ready to commit all sorts of absurdities on the
 turning of a handle, so it would have been no easy task to mention any
 human folly, vice, or weakness that had not its type, immediate or
-remote, in Caleb Plummer's room. And not in an exaggerated form, for
+remote, in [[Caleb Plummer]]'s room. And not in an exaggerated form, for
 very little handles will move men and women to as strange performances
 as any Toy was ever made to undertake.
 
@@ -127,17 +127,17 @@ The Blind Girl busy as a Doll's dressmaker; Caleb painting and glazing
 the four-pair front of a desirable family mansion.
 
 The care imprinted in the lines of Caleb's face, and his absorbed and
-dreamy manner, which would have sat well on some alchemist or abstruse
+dreamy manner, which would have sat [[Well|well]] on some alchemist or abstruse
 student, were at first sight an odd contrast to his occupation and the
 trivialities about him. But trivial things, invented and pursued for
 bread, become very serious matters of fact: and, apart from this
 consideration, I am not at all prepared to say, myself, that if Caleb
 had been a Lord Chamberlain, or a Member of Parliament, or a lawyer, or
 even a great speculator, he would have dealt in toys one whit less
-whimsical, while I have a very great doubt whether they would have been
+whimsical, while I have a very great [[Doubt|doubt]] whether they would have been
 as harmless.
 
-"So you were out in the rain last night, father, in your beautiful new
+"So you were out in the rain last [[Night|night]], father, in your beautiful new
 great-coat," said Caleb's daughter.
 
 "In my beautiful new great-coat," answered Caleb, glancing towards a
@@ -155,9 +155,9 @@ good, father! What can be too good for you?"
 "I'm half ashamed to wear it, though," said Caleb, watching the effect
 of what he said upon her brightening face, "upon my word! When I hear
 the boys and people say behind me, 'Halloa! Here's a swell!' I don't
-know which way to look. And when the beggar wouldn't go away last night;
-and, when I said I was a very common man, said, 'No, your Honour! Bless
-your Honour, don't say that!' I was quite ashamed. I really felt as if I
+know which way to look. And when the beggar wouldn't go away last [[Night|night]];
+and, when I said I was a very [[Common Man|common man]], said, 'No, your [[Honour]]! Bless
+your [[Honour]], don't say that!' I was quite ashamed. I really felt as if I
 hadn't a right to wear it."
 
 Happy Blind Girl! How merry she was in her exultation!
@@ -191,14 +191,14 @@ hers so cheerful and courageous!
 
 Heaven knows! But I think Caleb's vague bewilderment of manner may have
 half originated in his having confused himself about himself and
-everything around him, for the love of his Blind Daughter. How could the
+everything around him, for the [[Love|love]] of his Blind Daughter. How could the
 little man be otherwise than bewildered, after labouring for so many
-years to destroy his own identity, and that of all the objects that had
+years to destroy his own [[Identity|identity]], and that of all the objects that had
 any bearing on it?
 
 "There we are," said Caleb, falling back a pace or two to form the
 better judgment of his work; "as near the real thing as sixpenn'orth of
-halfpence is to sixpence. What a pity that the whole front of the house
+halfpence is to sixpence. What a pity that the whole front of the [[house]]
 opens at once! If there was only a staircase in it now, and regular
 doors to the rooms to go in at! But that's the worst of my calling, I'm
 always deluding myself, and swindling myself."
@@ -209,21 +209,21 @@ always deluding myself, and swindling myself."
 me, Bertha? _I_ was never tired. What does it mean?"
 
 To give the greater force to his words, he checked himself in an
-involuntary imitation of two half-length stretching and yawning figures
+involuntary [[Imitation|imitation]] of two half-length stretching and yawning figures
 on the mantel-shelf, who were represented as in one eternal state of
-weariness from the waist upwards; and hummed a fragment of a song. It
-was a Bacchanalian song, something about a Sparkling Bowl. He sang it
+weariness from the waist upwards; and hummed a [[Fragment|fragment]] of a [[Song|song]]. It
+was a Bacchanalian [[Song|song]], something about a Sparkling Bowl. He sang it
 with an assumption of a Devil-may-care voice, that made his face a
 thousand times more meagre and more thoughtful than ever.
 
-"What! You're singing, are you?" said Tackleton, putting his head in at
+"What! You're singing, are you?" said [[Tackleton]], putting his head in at
 the door. "Go it! _I_ can't sing."
 
 Nobody would have suspected him of it. He hadn't what is generally
 termed a singing face, by any means.
 
-"I can't afford to sing," said Tackleton. "I'm glad _you_ can. I hope
-you can afford to work too. Hardly time for both, I should think?"
+"I can't afford to sing," said [[Tackleton]]. "I'm glad _you_ can. I [[Hope|hope]]
+you can afford to work too. Hardly [[Time|time]] for both, I should think?"
 
 "If you could only see him, Bertha, how he's winking at me!" whispered
 Caleb. "Such a man to joke! You'd think, if you didn't know him, he was
@@ -232,7 +232,7 @@ in earnest--wouldn't you now?"
 The Blind Girl smiled and nodded.
 
 "The bird that can sing and won't sing must be made to sing, they say,"
-grumbled Tackleton. "What about the owl that can't sing, and oughtn't to
+grumbled [[Tackleton]]. "What about the owl that can't sing, and oughtn't to
 sing, and will sing; is there anything that _he_ should be made to do?"
 
 "The extent to which he's winking at this moment!" whispered Caleb to
@@ -240,55 +240,55 @@ his daughter. "Oh, my gracious!"
 
 "Always merry and light-hearted with us!" cried the smiling Bertha.
 
-"Oh! you're there, are you?" answered Tackleton. "Poor Idiot!"
+"Oh! you're there, are you?" answered [[Tackleton]]. "Poor Idiot!"
 
 He really did believe she was an Idiot; and he founded the belief, I
 can't say whether consciously or not, upon her being fond of him.
 
-"Well! and being there,--how are you?" said Tackleton in his grudging
+"[[Well]]! and being there,--how are you?" said [[Tackleton]] in his grudging
 way.
 
-"Oh! well; quite well! And as happy as even you can wish me to be. As
+"Oh! [[Well|well]]; quite [[Well|well]]! And as happy as even you can wish me to be. As
 happy as you would make the whole world, if you could!"
 
-"Poor Idiot!" muttered Tackleton. "No gleam of reason. Not a gleam!"
+"Poor Idiot!" muttered [[Tackleton]]. "No gleam of reason. Not a gleam!"
 
 The Blind Girl took his hand and kissed it; held it for a moment in her
 own two hands; and laid her cheek against it tenderly before releasing
 it. There was such unspeakable affection and such fervent gratitude in
-the act, that Tackleton himself was moved to say, in a milder growl than
+the act, that [[Tackleton]] himself was moved to say, in a milder growl than
 usual:
 
 "What's the matter now?"
 
-"I stood it close beside my pillow when I went to sleep last night, and
-remembered it in my dreams. And when the day broke, and the glorious red
+"I stood it close beside my pillow when I went to [[Sleep|sleep]] last [[Night|night]], and
+remembered it in my [[Dreams|dreams]]. And when the day broke, and the glorious red
 sun--the _red_ sun, father?"
 
 "Red in the mornings and the evenings, Bertha," said poor Caleb with a
 woeful glance at his employer.
 
-"When it rose, and the bright light I almost fear to strike myself
+"When it [[Rose|rose]], and the bright light I almost [[Fear|fear]] to strike myself
 against in walking, came into the room, I turned the little tree towards
 it, and blessed Heaven for making things so precious, and blessed you
 for sending them to cheer me!"
 
-"Bedlam broke loose!" said Tackleton under his breath. "We shall arrive
+"Bedlam broke loose!" said [[Tackleton]] under his breath. "We shall arrive
 at the strait-waistcoat and mufflers soon. We're getting on!"
 
 Caleb, with his hands hooked loosely in each other, stared vacantly
 before him while his daughter spoke, as if he really were uncertain (I
-believe he was) whether Tackleton had done anything to deserve her
+believe he was) whether [[Tackleton]] had done anything to deserve her
 thanks or not. If he could have been a perfectly free agent at that
-moment, required, on pain of death, to kick the toy merchant, or fall at
+moment, required, on [[Pain|pain]] of [[Death|death]], to kick the toy merchant, or fall at
 his feet, according to his merits, I believe it would have been an even
 chance which course he would have taken. Yet Caleb knew that with his
-own hands he had brought the little rose-tree home for her so carefully,
-and that with his own lips he had forged the innocent deception which
+own hands he had brought the little [[Rose|rose]]-tree [[Home|home]] for her so carefully,
+and that with his own lips he had forged the [[Innocent|innocent]] [[Deception|deception]] which
 should help to keep her from suspecting how much, how very much, he
 every day denied himself, that she might be happier.
 
-"Bertha!" said Tackleton, assuming, for the nonce, a little cordiality.
+"Bertha!" said [[Tackleton]], assuming, for the nonce, a little cordiality.
 "Come here."
 
 "Oh, I can come straight to you! You needn't guide me!" she rejoined.
@@ -300,35 +300,35 @@ every day denied himself, that she might be happier.
 How bright the darkened face! How adorned with light the listening
 head!
 
-"This is the day on which little what's-her-name, the spoilt child,
+"This is the day on which little what's-her-name, the spoilt [[Child|child]],
 Peerybingle's wife, pays her regular visit to you--makes her fantastic
-Picnic here, an't it?" said Tackleton with a strong expression of
+Picnic here, an't it?" said [[Tackleton]] with a strong expression of
 distaste for the whole concern.
 
 "Yes," replied Bertha. "This is the day."
 
-"I thought so," said Tackleton. "I should like to join the party."
+"I thought so," said [[Tackleton]]. "I should like to join the party."
 
 "Do you hear that, father?" cried the Blind Girl in an ecstasy.
 
 "Yes, yes, I hear it," murmured Caleb with the fixed look of a
-sleep-walker; "but I don't believe it. It's one of my lies, I've no
-doubt."
+[[Sleep|sleep]]-walker; "but I don't believe it. It's one of my lies, I've no
+[[Doubt|doubt]]."
 
 "You see I--I want to bring the Peerybingles a little more into company
-with May Fielding," said Tackleton. "I'm going to be married to May."
+with [[May Fielding]]," said [[Tackleton]]. "I'm going to be married to May."
 
 "Married!" cried the Blind Girl, starting from him.
 
-"She's such a con-founded idiot," muttered Tackleton, "that I was afraid
+"She's such a con-founded idiot," muttered [[Tackleton]], "that I was afraid
 she'd never comprehend me. Ah, Bertha! Married! Church, parson, clerk,
-beadle, glass coach, bells, breakfast, bridecake, favours, marrow-bones,
+beadle, glass coach, [[Bells|bells]], breakfast, bridecake, favours, marrow-bones,
 cleavers, and all the rest of the tomfoolery. A wedding, you know; a
 wedding. Don't you know what a wedding is?"
 
 "I know," replied the Blind Girl in a gentle tone. "I understand!"
 
-"Do you?" muttered Tackleton. "It's more than I expected. Well! On that
+"Do you?" muttered [[Tackleton]]. "It's more than I expected. [[Well]]! On that
 account I want to join the party, and to bring May and her mother. I'll
 send in a little something or other, before the afternoon. A cold leg of
 mutton, or some comfortable trifle of that sort. You'll expect me?"
@@ -338,7 +338,7 @@ mutton, or some comfortable trifle of that sort. You'll expect me?"
 She had drooped her head, and turned away; and so stood, with her hands
 crossed, musing.
 
-"I don't think you will," muttered Tackleton, looking at her; "for you
+"I don't think you will," muttered [[Tackleton]], looking at her; "for you
 seem to have forgotten all about it already. Caleb!"
 
 "I may venture to say I'm here, I suppose," thought Caleb. "Sir!"
@@ -352,14 +352,14 @@ an't clever in."
 shrug. "Poor devil!"
 
 Having delivered himself of which remark with infinite contempt, old
-Gruff and Tackleton withdrew.
+Gruff and [[Tackleton]] withdrew.
 
 Bertha remained where he had left her, lost in meditation. The gaiety
 had vanished from her downcast face, and it was very sad. Three or four
 times she shook her head, as if bewailing some remembrance or some loss;
 but her sorrowful reflections found no vent in words.
 
-It was not until Caleb had been occupied some time in yoking a team of
+It was not until Caleb had been occupied some [[Time|time]] in yoking a team of
 horses to a waggon by the summary process of nailing the harness to the
 vital parts of their bodies, that she drew near to his working-stool,
 and, sitting down beside him, said:
@@ -378,7 +378,7 @@ for you, dear?"
 "Tell me about it."
 
 "It's much the same as usual," said Caleb. "Homely, but very snug. The
-gay colours on the walls; the bright flowers on the plates and dishes;
+gay colours on the walls; the bright [[Flowers|flowers]] on the plates and dishes;
 the shining wood, where there are beams or panels; the general
 cheerfulness and neatness of the building,--make it very pretty."
 
@@ -406,10 +406,10 @@ eyes!----"
 
 He stopped; for Bertha had drawn closer round his neck, and, from the
 arm that clung about him, came a warning pressure which he understood
-too well.
+too [[Well|well]].
 
 He coughed a moment, hammered for a moment, and then fell back upon the
-song about the sparkling bowl, his infallible resource in all such
+[[Song|song]] about the sparkling bowl, his infallible resource in all such
 difficulties.
 
 "Our friend, father, our benefactor. I am never tired, you know, of
@@ -420,7 +420,7 @@ hearing about him.--Now, was I ever?" she said hastily.
 "Ah! With how much reason!" cried the Blind Girl. With such fervency,
 that Caleb, though his motives were so pure, could not endure to meet
 her face; but dropped his eyes, as if she could have read in them his
-innocent deceit.
+[[Innocent|innocent]] deceit.
 
 "Then tell me again about him, dear father," said Bertha. "Many times
 again! His face is benevolent, kind, and tender. Honest and true, I am
@@ -436,16 +436,16 @@ father."
 don't signify."
 
 "Oh, father, yes! To be his patient companion in infirmity and age; to
-be his gentle nurse in sickness, and his constant friend in suffering
+be his gentle [[Nurse|nurse]] in sickness, and his constant friend in [[Suffering|suffering]]
 and sorrow; to know no weariness in working for his sake; to watch him,
 tend him, sit beside his bed and talk to him awake, and pray for him
 asleep; what privileges these would be! What opportunities for proving
-all her truth and her devotion to him! Would she do all this, dear
+all her [[Truth|truth]] and her devotion to him! Would she do all this, dear
 father?"
 
-"No doubt of it," said Caleb.
+"No [[Doubt|doubt]] of it," said Caleb.
 
-"I love her, father; I can love her from my soul!" exclaimed the Blind
+"I [[Love|love]] her, father; I can [[Love|love]] her from my [[Soul|soul]]!" exclaimed the Blind
 Girl. And, saying so, she laid her poor blind face on Caleb's shoulder,
 and so wept and wept, that he was almost sorry to have brought that
 tearful happiness upon her.
@@ -453,7 +453,7 @@ tearful happiness upon her.
 In the meantime there had been a pretty sharp commotion at John
 Peerybingle's, for little Mrs. Peerybingle naturally couldn't think of
 going anywhere without the Baby; and to get the Baby under way took
-time. Not that there was much of the Baby, speaking of it as a thing of
+[[Time|time]]. Not that there was much of the Baby, speaking of it as a thing of
 weight and measure, but there was a vast deal to do about and about it,
 and it all had to be done by easy stages. For instance, when the Baby
 was got, by hook and by crook, to a certain point of dressing, and you
@@ -462,21 +462,21 @@ him off, and turn him out a tiptop Baby challenging the world, he was
 unexpectedly extinguished in a flannel cap, and hustled off to bed;
 where he simmered (so to speak) between two blankets for the best part
 of an hour. From this state of inaction he was then recalled, shining
-very much and roaring violently, to partake of--well? I would rather
+very much and roaring violently, to partake of--[[Well|well]]? I would rather
 say, if you'll permit me to speak generally--of a slight repast. After
-which he went to sleep again. Mrs. Peerybingle took advantage of this
+which he went to [[Sleep|sleep]] again. Mrs. Peerybingle took advantage of this
 interval, to make herself as smart in a small way as ever you saw
 anybody in all your life; and, during the same short truce, Miss Slowboy
 insinuated herself into a spencer of a fashion so surprising and
 ingenious, that it had no connection with herself, or anything else in
 the universe, but was a shrunken, dog's-eared, independent fact,
 pursuing its lonely course without the least regard to anybody. By this
-time, the Baby, being all alive again, was invested, by the united
+[[Time|time]], the Baby, being all alive again, was invested, by the united
 efforts of Mrs. Peerybingle and Miss Slowboy, with a cream-coloured
-mantle for its body, and a sort of nankeen raised pie for its head; and
-so, in course of time, they all three got down to the door, where the
-old horse had already taken more than the full value of his day's toll
-out of the Turnpike Trust, by tearing up the road with his impatient
+mantle for its [[Body|body]], and a sort of nankeen raised pie for its head; and
+so, in course of [[Time|time]], they all three got down to the door, where the
+old [[Horse|horse]] had already taken more than the full value of his day's toll
+out of the Turnpike Trust, by tearing up the [[Road|road]] with his impatient
 autographs; and whence Boxer might be dimly seen in the remote
 perspective, standing looking back, and tempting him to come on without
 orders.
@@ -501,21 +501,21 @@ again this very minute."
 
 "You're a nice little article," returned the Carrier, "to be talking
 about turning round, after keeping me a full quarter of an hour behind
-my time."
+my [[Time|time]]."
 
 "I am sorry for it, John," said Dot in a great bustle, "but I really
 could not think of going to Bertha's--I would not do it, John, on any
 account--without the Veal and Ham Pie and things, and the bottles of
 Beer. Way!"
 
-This monosyllable was addressed to the horse, who didn't mind it at all.
+This monosyllable was addressed to the [[Horse|horse]], who didn't mind it at all.
 
 "Oh, _do_ way, John!" said Mrs. Peerybingle. "Please!"
 
-"It'll be time enough to do that," returned John, "when I begin to leave
+"It'll be [[Time|time]] enough to do that," returned John, "when I begin to leave
 things behind me. The basket's safe enough."
 
-"What a hard-hearted monster you must be, John, not to have said so at
+"What a hard-hearted [[Monster|monster]] you must be, John, not to have said so at
 once, and save me such a turn! I declare I wouldn't go to Bertha's
 without the Veal and Ham Pie and things, and the bottles of Beer, for
 any money. Regularly once a fortnight ever since we have been married,
@@ -523,7 +523,7 @@ John, have we made our little Picnic there. If anything was to go wrong
 with it, I should almost think we were never to be lucky again."
 
 "It was a kind thought in the first instance," said the Carrier; "and I
-honour you for it, little woman."
+[[Honour|honour]] you for it, little woman."
 
 "My dear John!" replied Dot, turning very red. "Don't talk about
 honouring _me_. Good gracious!"
@@ -532,7 +532,7 @@ honouring _me_. Good gracious!"
 
 Again so visibly and instantly embarrassed!
 
-"He's an odd fish," said the Carrier, looking straight along the road
+"He's an odd fish," said the Carrier, looking straight along the [[Road|road]]
 before them. "I can't make him out. I don't believe there's any harm in
 him."
 
@@ -553,10 +553,10 @@ me better already, he says, as he gets more used to my voice. He told me
 a great deal about himself, and I told him a good deal about myself, and
 a rare lot of questions he asked me. I gave him information about my
 having two beats, you know, in my business; one day to the right from
-our house and back again; another day to the left from our house and
+our [[house]] and back again; another day to the left from our [[house]] and
 back again (for he's a stranger, and don't know the names of places
 about here); and he seemed quite pleased. 'Why, then I shall be
-returning home to-night your way,' he says, 'when I thought you'd be
+returning [[Home|home]] to-[[Night|night]] your way,' he says, 'when I thought you'd be
 coming in an exactly opposite direction. That's capital! I may trouble
 you for another lift, perhaps, but I'll engage not to fall so sound
 asleep again.' He _was_ sound asleep, sure-ly!--Dot! what are you
@@ -568,9 +568,9 @@ thinking of?"
 look of your face, that I had gone rambling on so long as to set you
 thinking about something else. I was very near it, I'll be bound."
 
-Dot making no reply, they jogged on, for some little time, in silence.
-But, it was not easy to remain silent very long in John Peerybingle's
-cart, for everybody on the road had something to say. Though it might
+Dot making no reply, they jogged on, for some little [[Time|time]], in [[Silence|silence]].
+But, it was not easy to remain silent very long in [[John Peerybingle]]'s
+cart, for everybody on the [[Road|road]] had something to say. Though it might
 only be "How are you?" and, indeed, it was very often nothing else,
 still, to give that back again in the right spirit of cordiality,
 required, not merely a nod and a smile, but as wholesome an action of
@@ -581,11 +581,11 @@ great deal to be said on both sides.
 
 Then, Boxer gave occasion to more good-natured recognitions of, and by,
 the Carrier, than half-a-dozen Christians could have done! Everybody
-knew him all along the road--especially the fowls and pigs, who, when
-they saw him approaching, with his body all on one side, and his ears
+knew him all along the [[Road|road]]--especially the fowls and pigs, who, when
+they saw him approaching, with his [[Body|body]] all on one side, and his ears
 pricked up inquisitively, and that knob of a tail making the most of
 itself in the air, immediately withdrew into remote back-settlements,
-without waiting for the honour of a nearer acquaintance. He had business
+without waiting for the [[Honour|honour]] of a nearer acquaintance. He had business
 elsewhere; going down all the turnings, looking into all the wells,
 bolting in and out of all the cottages, dashing into the midst of all
 the Dame Schools, fluttering all the pigeons, magnifying the tails of
@@ -597,8 +597,8 @@ Peerybingle and his pretty wife Good day.
 
 The packages and parcels for the errand cart were numerous; and there
 were many stoppages to take them in and give them out, which were not by
-any means the worst parts of the journey. Some people were so full of
-expectation about their parcels, and other people were so full of wonder
+any means the worst parts of the [[Journey|journey]]. Some people were so full of
+expectation about their parcels, and other people were so full of [[Wonder|wonder]]
 about their parcels, and other people were so full of inexhaustible
 directions about their parcels, and John had such a lively interest in
 all the parcels, that it was as good as a play. Likewise, there were
@@ -617,9 +617,9 @@ anything, she rather liked it perhaps.
 
 The trip was a little foggy, to be sure, in the January weather; and was
 raw and cold. But who cared for such trifles? Not Dot, decidedly. Not
-Tilly Slowboy, for she deemed sitting in a cart, on any terms, to be the
-highest point of human joys; the crowning circumstance of earthly hope.
-Not the Baby, I'll be sworn; for it's not in Baby nature to be warmer or
+[[Tilly Slowboy]], for she deemed sitting in a cart, on any terms, to be the
+highest point of human joys; the crowning circumstance of earthly [[Hope|hope]].
+Not the Baby, I'll be sworn; for it's not in Baby [[Nature|nature]] to be warmer or
 more sound asleep, though its capacity is great in both respects, than
 that blessed young Peerybingle was, all the way.
 
@@ -627,26 +627,26 @@ You couldn't see very far in the fog, of course; but you could see a
 great deal! It's astonishing how much you may see in a thicker fog than
 that, if you will only take the trouble to look for it. Why, even to sit
 watching for the Fairyrings in the fields, and for the patches of hoar
-frost still lingering in the shade, near hedges and by trees, was a
+[[Frost|frost]] still lingering in the shade, near hedges and by trees, was a
 pleasant occupation, to make no mention of the unexpected shapes in
 which the trees themselves came starting out of the mist, and glided
 into it again. The hedges were tangled and bare, and waved a multitude
-of blighted garlands in the wind; but there was no discouragement in
+of blighted garlands in the [[Wind|wind]]; but there was no discouragement in
 this. It was agreeable to contemplate; for it made the fireside warmer
-in possession, and the summer greener in expectancy. The river looked
+in possession, and the [[Summer|summer]] greener in expectancy. The [[River|river]] looked
 chilly; but it was in motion, and moving at a good pace--which was a
 great point. The canal was rather slow and torpid; that must be
-admitted. Never mind. It would freeze the sooner when the frost set
+admitted. Never mind. It would freeze the sooner when the [[Frost|frost]] set
 fairly in, and then there would be skating and sliding; and the heavy
 old barges, frozen up somewhere near a wharf, would smoke their rusty
-iron chimney-pipes all day, and have a lazy time of it.
+iron chimney-pipes all day, and have a lazy [[Time|time]] of it.
 
 In one place there was a great mound of weeds or stubble burning; and
-they watched the fire, so white in the daytime, flaring through the fog,
+they watched the [[Fire|fire]], so white in the daytime, flaring through the fog,
 with only here and there a dash of red in it, until, in consequence, as
 she observed, of the smoke "getting up her nose," Miss Slowboy
 choked--she could do anything of that sort, on the smallest
-provocation--and woke the Baby, who wouldn't go to sleep again. But
+provocation--and woke the Baby, who wouldn't go to [[Sleep|sleep]] again. But
 Boxer, who was in advance some quarter of a mile or so, had already
 passed the outposts of the town, and gained the corner of the street
 where Caleb and his daughter lived; and, long before they had reached
@@ -657,7 +657,7 @@ Boxer, by the way, made certain delicate distinctions of his own, in his
 communication with Bertha, which persuade me fully that he knew her to
 be blind. He never sought to attract her attention by looking at her, as
 he often did with other people, but touched her invariably. What
-experience he could ever have had of blind people or blind dogs I don't
+experience he could ever have had of blind people or blind [[dogs]] I don't
 know. He had never lived with a blind master; nor had Mr. Boxer the
 elder, nor Mrs. Boxer, nor any of his respectable family on either side,
 ever been visited with blindness, that I am aware of. He may have found
@@ -666,16 +666,16 @@ therefore he had hold of Bertha too, by the skirt, and kept hold, until
 Mrs. Peerybingle and the Baby, and Miss Slowboy and the basket, were all
 got safely within doors.
 
-May Fielding was already come; and so was her mother--a little querulous
+[[May Fielding]] was already come; and so was her mother--a little querulous
 chip of an old lady with a peevish face, who, in right of having
 preserved a waist like a bedpost, was supposed to be a most transcendent
 figure; and who, in consequence of having once been better off, or of
 labouring under an impression that she might have been, if something had
 happened which never did happen, and seemed to have never been
 particularly likely to come to pass--but it's all the same--was very
-genteel and patronising indeed. Gruff and Tackleton was also there,
+genteel and patronising indeed. Gruff and [[Tackleton]] was also there,
 doing the agreeable, with the evident sensation of being as perfectly at
-home, and as unquestionably in his own element, as a fresh young salmon
+[[Home|home]], and as unquestionably in his own element, as a fresh young salmon
 on the top of the Great Pyramid.
 
 "May! My dear old friend!" cried Dot, running up to meet her. "What a
@@ -683,7 +683,7 @@ happiness to see you!"
 
 Her old friend was, to the full, as hearty and as glad as she; and it
 really was, if you'll believe me, quite a pleasant sight to see them
-embrace. Tackleton was a man of taste, beyond all question. May was very
+embrace. [[Tackleton]] was a man of taste, beyond all question. May was very
 pretty.
 
 You know sometimes, when you are used to a pretty face, how, when it
@@ -691,11 +691,11 @@ comes into contact and comparison with another pretty face, it seems for
 the moment to be homely and faded, and hardly to deserve the high
 opinion you have had of it. Now, this was not at all the case, either
 with Dot or May; for May's face set off Dot's, and Dot's face set off
-May's, so naturally and agreeably, that, as John Peerybingle was very
+May's, so naturally and agreeably, that, as [[John Peerybingle]] was very
 near saying when he came into the room, they ought to have been born
 sisters--which was the only improvement you could have suggested.
 
-Tackleton had brought his leg of mutton, and, wonderful to relate, a
+[[Tackleton]] had brought his leg of mutton, and, wonderful to relate, a
 tart besides--but we don't mind a little dissipation when our brides are
 in the case; we don't get married every day--and, in addition to these
 dainties, there were the Veal and Ham Pie, and "things," as Mrs.
@@ -703,15 +703,15 @@ Peerybingle called them; which were chiefly nuts and oranges, and cakes,
 and such small deer. When the repast was set forth on the board, flanked
 by Caleb's contribution, which was a great wooden bowl of smoking
 potatoes (he was prohibited, by solemn compact, from producing any other
-viands), Tackleton led his intended mother-in-law to the post of honour.
+viands), [[Tackleton]] led his intended mother-in-law to the post of [[Honour|honour]].
 For the better gracing of this place at the high festival, the majestic
-old soul had adorned herself with a cap, calculated to inspire the
+old [[Soul|soul]] had adorned herself with a cap, calculated to inspire the
 thoughtless with sentiments of awe. She also wore her gloves. But let us
 be genteel, or die!
 
 Caleb sat next his daughter; Dot and her old schoolfellow were side by
-side; the good Carrier took care of the bottom of the table. Miss
-Slowboy was isolated, for the time being, from every article of
+side; the good Carrier took care of the [[Bottom|bottom]] of the table. Miss
+Slowboy was isolated, for the [[Time|time]] being, from every article of
 furniture but the chair she sat on, that she might have nothing else to
 knock the Baby's head against.
 
@@ -724,17 +724,17 @@ times, without halting for breath--as in a frantic state of delight with
 the whole proceedings.
 
 Certainly, if these old gentlemen were inclined to have a fiendish joy
-in the contemplation of Tackleton's discomfiture, they had good reason
-to be satisfied. Tackleton couldn't get on at all; and the more cheerful
+in the contemplation of [[Tackleton]]'s discomfiture, they had good reason
+to be satisfied. [[Tackleton]] couldn't get on at all; and the more cheerful
 his intended bride became in Dot's society, the less he liked it, though
 he had brought them together for that purpose. For he was a regular dog
-in the manger, was Tackleton; and, when they laughed and he couldn't, he
+in the manger, was [[Tackleton]]; and, when they laughed and he couldn't, he
 took it into his head, immediately, that they must be laughing at him.
 
 "Ah, May!" said Dot. "Dear, dear, what changes! To talk of those merry
 school days makes one young again."
 
-"Why, you an't particularly old at any time, are you?" said Tackleton.
+"Why, you an't particularly old at any [[Time|time]], are you?" said [[Tackleton]].
 
 "Look at my sober, plodding husband there," returned Dot. "He adds
 twenty years to my age at least. Don't you, John?"
@@ -745,7 +745,7 @@ twenty years to my age at least. Don't you, John?"
 laughing. "But she can't be much less than a hundred years of age on her
 next birthday."
 
-"Ha, ha!" laughed Tackleton. Hollow as a drum that laugh, though. And he
+"Ha, ha!" laughed [[Tackleton]]. Hollow as a drum that laugh, though. And he
 looked as if he could have twisted Dot's neck comfortably.
 
 "Dear, dear!" said Dot. "Only to remember how we used to talk, at
@@ -755,23 +755,23 @@ May's!--Ah dear! I don't know whether to laugh or cry, when I think what
 silly girls we were."
 
 May seemed to know which to do; for the colour flashed into her face,
-and tears stood in her eyes.
+and [[Tears|tears]] stood in her eyes.
 
 "Even the very persons themselves--real live young men--we fixed on
 sometimes," said Dot. "We little thought how things would come about. I
 never fixed on John, I'm sure; I never so much as thought of him. And,
-if I had told you you were ever to be married to Mr. Tackleton, why,
+if I had told you you were ever to be married to Mr. [[Tackleton]], why,
 you'd have slapped me. Wouldn't you, May?"
 
 Though May didn't say yes, she certainly didn't say no, or express no,
 by any means.
 
-Tackleton laughed--quite shouted, he laughed so loud. John Peerybingle
+[[Tackleton]] laughed--quite shouted, he laughed so loud. [[John Peerybingle]]
 laughed too, in his ordinary good-natured and contented manner; but his
-was a mere whisper of a laugh to Tackleton's.
+was a mere whisper of a laugh to [[Tackleton]]'s.
 
 "You couldn't help yourselves, for all that. You couldn't resist us, you
-see," said Tackleton. "Here we are! Here we are! Where are your gay
+see," said [[Tackleton]]. "Here we are! Here we are! Where are your gay
 young bridegrooms now?"
 
 "Some of them are dead," said Dot; "and some of them forgotten. Some of
@@ -782,12 +782,12 @@ word of it!"
 
 "Why, Dot!" exclaimed the Carrier. "Little woman!"
 
-She had spoken with such earnestness and fire, that she stood in need of
-some recalling to herself, without doubt. Her husband's check was very
+She had spoken with such earnestness and [[Fire|fire]], that she stood in need of
+some recalling to herself, without [[Doubt|doubt]]. Her husband's check was very
 gentle, for he merely interfered, as he supposed, to shield old
-Tackleton; but it proved effectual, for she stopped, and said no more.
-There was an uncommon agitation, even in her silence, which the wary
-Tackleton, who had brought his half-shut eye to bear upon her, noted
+[[Tackleton]]; but it proved effectual, for she stopped, and said no more.
+There was an uncommon agitation, even in her [[Silence|silence]], which the wary
+[[Tackleton]], who had brought his half-shut eye to bear upon her, noted
 closely, and remembered to some purpose too.
 
 May uttered no word, good or bad, but sat quite still, with her eyes
@@ -798,53 +798,53 @@ were young and thoughtless, they would probably conduct themselves like
 young and thoughtless persons: with two or three other positions of a no
 less sound and incontrovertible character. She then remarked, in a
 devout spirit, that she thanked Heaven she had always found in her
-daughter May a dutiful and obedient child: for which she took no credit
+daughter May a dutiful and obedient [[Child|child]]: for which she took no credit
 to herself, though she had every reason to believe it was entirely owing
-to herself. With regard to Mr. Tackleton, she said, That he was in a
+to herself. With regard to Mr. [[Tackleton]], she said, That he was in a
 moral point of view an undeniable individual, and That he was in an
 eligible point of view a son-in-law to be desired, no one in their
-senses could doubt. (She was very emphatic here.) With regard to the
+senses could [[Doubt|doubt]]. (She was very emphatic here.) With regard to the
 family into which he was so soon about, after some solicitation, to be
-admitted, she believed Mr. Tackleton knew that, although reduced in
+admitted, she believed Mr. [[Tackleton]] knew that, although reduced in
 purse, it had some pretensions to gentility; and that if certain
 circumstances, not wholly unconnected, she would go so far as to say,
 with the Indigo Trade, but to which she would not more particularly
 refer, had happened differently, it might perhaps have been in
 possession of wealth. She then remarked that she would not allude to the
-past, and would not mention that her daughter had for some time rejected
-the suit of Mr. Tackleton; and that she would not say a great many other
+past, and would not mention that her daughter had for some [[Time|time]] rejected
+the suit of Mr. [[Tackleton]]; and that she would not say a great many other
 things which she did say at great length. Finally, she delivered it as
 the general result of her observation and experience, that those
 marriages in which there was least of what was romantically and sillily
-called love, were always the happiest; and that she anticipated the
+called [[Love|love]], were always the happiest; and that she anticipated the
 greatest possible amount of bliss--not rapturous bliss; but the solid,
 steady-going article--from the approaching nuptials. She concluded by
 informing the company that to-morrow was the day she had lived for
-expressly; and that, when it was over, she would desire nothing better
+expressly; and that, when it was over, she would [[Desire|desire]] nothing better
 than to be packed up and disposed of in any genteel place of burial.
 
 As these remarks were quite unanswerable--which is the happy property of
 all remarks that are sufficiently wide of the purpose--they changed the
 current of the conversation, and diverted the general attention to the
 Veal and Ham Pie, the cold mutton, the potatoes, and the tart. In order
-that the bottled beer might not be slighted, John Peerybingle proposed
+that the bottled beer might not be slighted, [[John Peerybingle]] proposed
 To-morrow: the Wedding-day; and called upon them to drink a bumper to
-it, before he proceeded on his journey.
+it, before he proceeded on his [[Journey|journey]].
 
-For you ought to know that he only rested there, and gave the old horse
+For you ought to know that he only rested there, and gave the old [[Horse|horse]]
 a bait. He had to go some four or five miles farther on; and, when he
 returned in the evening, he called for Dot, and took another rest on his
-way home. This was the order of the day on all the Picnic occasions, and
+way [[Home|home]]. This was the order of the day on all the Picnic occasions, and
 had been ever since their institution.
 
 There were two persons present, besides the bride and bridegroom elect,
-who did but indifferent honour to the toast. One of these was Dot, too
+who did but indifferent [[Honour|honour]] to the toast. One of these was Dot, too
 flushed and discomposed to adapt herself to any small occurrence of the
-moment; the other, Bertha, who rose up hurriedly before the rest, and
+moment; the other, Bertha, who [[Rose|rose]] up hurriedly before the rest, and
 left the table.
 
-"Good-bye!" said stout John Peerybingle, pulling on his dreadnought
-coat. "I shall be back at the old time. Good-bye all!"
+"Good-bye!" said stout [[John Peerybingle]], pulling on his dreadnought
+coat. "I shall be back at the old [[Time|time]]. Good-bye all!"
 
 "Good-bye, John," returned Caleb.
 
@@ -853,9 +853,9 @@ unconscious manner; for he stood observing Bertha with an anxious
 wondering face, that never altered its expression.
 
 "Good-bye, young shaver!" said the jolly Carrier, bending down to kiss
-the child; which Tilly Slowboy, now intent upon her knife and fork, had
+the [[Child|child]]; which [[Tilly Slowboy]], now intent upon her knife and fork, had
 deposited asleep (and, strange to say, without damage) in a little cot
-of Bertha's furnishing; "good-bye! Time will come, I suppose, when
+of Bertha's furnishing; "good-bye! [[Time]] will come, I suppose, when
 _you_'ll turn out into the cold, my little friend, and leave your old
 father to enjoy his pipe and his rheumatics in the chimney-corner; eh?
 Where's Dot?"
@@ -867,7 +867,7 @@ Where's Dot?"
 
 "I quite forgot the pipe, John."
 
-Forgot the pipe! Was such a wonder ever heard of? She! Forgot the pipe!
+Forgot the pipe! Was such a [[Wonder|wonder]] ever heard of? She! Forgot the pipe!
 
 "I'll--I'll fill it directly. It's soon done."
 
@@ -877,7 +877,7 @@ which she was used to fill it; but her hand shook so, that she entangled
 it (and yet her hand was small enough to have come out easily, I am
 sure), and bungled terribly. The filling of the pipe and lighting it,
 those little offices in which I have commended her discretion, were
-vilely done from first to last. During the whole process, Tackleton
+vilely done from first to last. During the whole process, [[Tackleton]]
 stood looking on maliciously with the half-closed eye; which, whenever
 it met hers--or caught it, for it can hardly be said to have ever met
 another eye: rather being a kind of trap to snatch it up--augmented her
@@ -887,15 +887,15 @@ confusion in a most remarkable degree.
 have done it better myself, I verily believe!"
 
 With these good-natured words, he strode away, and presently was heard,
-in company with Boxer, and the old horse, and the cart, making lively
-music down the road. What time the dreamy Caleb still stood, watching
+in company with Boxer, and the old [[Horse|horse]], and the cart, making lively
+music down the [[Road|road]]. What [[Time|time]] the dreamy Caleb still stood, watching
 his blind daughter, with the same expression on his face.
 
 "Bertha!" said Caleb, softly. "What has happened? How changed you are,
 my darling, in a few hours--since this morning! _You_ silent and dull
 all day! What is it? Tell me!"
 
-"Oh, father, father!" cried the Blind Girl, bursting into tears. "Oh, my
+"Oh, father, father!" cried the Blind Girl, bursting into [[Tears|tears]]. "Oh, my
 hard, hard fate!"
 
 Caleb drew his hand across his eyes before he answered her.
@@ -916,7 +916,7 @@ its fulness. Never! I have sometimes wished that I could see you, or
 could see him--only once, dear father, only for one little minute--that
 I might know what it is I treasure up," she laid her hands upon her
 breast, "and hold here! That I might be sure I have it right! And
-sometimes (but then I was a child) I have wept in my prayers at night,
+sometimes (but then I was a [[Child|child]]) I have wept in my prayers at [[Night|night]],
 to think that, when your images ascended from my heart to Heaven, they
 might not be the true resemblance of yourselves. But I have never had
 these feelings long. They have passed away, and left me tranquil and
@@ -940,19 +940,19 @@ touched her on the arm. The Blind Girl turned immediately, and held her
 by both hands.
 
 "Look into my face, Dear heart, Sweet heart!" said Bertha. "Read it
-with your beautiful eyes, and tell me if the truth is written on it."
+with your beautiful eyes, and tell me if the [[Truth|truth]] is written on it."
 
 "Dear Bertha, yes!"
 
 The Blind Girl, still upturning the blank sightless face, down which the
-tears were coursing fast, addressed her in these words:
+[[Tears|tears]] were coursing fast, addressed her in these words:
 
-"There is not, in my soul, a wish or thought that is not for your good,
-bright May! There is not, in my soul, a grateful recollection stronger
+"There is not, in my [[Soul|soul]], a wish or thought that is not for your good,
+bright May! There is not, in my [[Soul|soul]], a grateful recollection stronger
 than the deep remembrance which is stored there of the many many times
-when, in the full pride of sight and beauty, you have had consideration
+when, in the full [[Pride|pride]] of sight and [[Beauty|beauty]], you have had consideration
 for Blind Bertha, even when we two were children, or when Bertha was as
-much a child as ever blindness can be! Every blessing on your head!
+much a [[Child|child]] as ever blindness can be! Every blessing on your head!
 Light upon your happy course! Not the less, my dear May,"--and she drew
 towards her in a closer grasp,--"not the less, my bird, because, to-day,
 the knowledge that you are to be His wife has wrung my heart almost to
@@ -961,20 +961,20 @@ of all he has done to relieve the weariness of my dark life: and for the
 sake of the belief you have in me, when I call Heaven to witness that I
 could not wish him married to a wife more worthy of his goodness!"
 
-While speaking, she had released May Fielding's hands, and clasped her
-garments in an attitude of mingled supplication and love. Sinking lower
+While speaking, she had released [[May Fielding]]'s hands, and clasped her
+garments in an attitude of mingled supplication and [[Love|love]]. Sinking lower
 and lower down, as she proceeded in her strange confession, she dropped
 at last at the feet of her friend, and hid her blind face in the folds
 of her dress.
 
-"Great Power!" exclaimed her father, smitten at one blow with the truth,
+"Great Power!" exclaimed her father, smitten at one blow with the [[Truth|truth]],
 "have I deceived her from her cradle, but to break her heart at last?"
 
-It was well for all of them that Dot, that beaming, useful, busy little
+It was [[Well|well]] for all of them that Dot, that beaming, useful, busy little
 Dot--for such she was, whatever faults she had, and however you may
-learn to hate her, in good time--it was well for all of them, I say,
+learn to hate her, in good [[Time|time]]--it was [[Well|well]] for all of them, I say,
 that she was there, or where this would have ended, it were hard to
-tell. But Dot, recovering her self-possession, interposed, before May
+tell. But Dot, recovering her [[Self|self]]-possession, interposed, before May
 could reply, or Caleb say another word.
 
 "Come, come, dear Bertha! come away with me! Give her your arm, May! So.
@@ -983,8 +983,8 @@ us," said the cheery little woman, kissing her upon the forehead. "Come
 away, dear Bertha! Come! and here's her good father will come with her,
 won't you, Caleb? To--be--sure!"
 
-Well, well! she was a noble little Dot in such things, and it must have
-been an obdurate nature that could have withstood her influence. When
+[[Well]], [[Well|well]]! she was a noble little Dot in such things, and it must have
+been an obdurate [[Nature|nature]] that could have withstood her influence. When
 she had got poor Caleb and his Bertha away, that they might comfort and
 console each other, as she knew they only could, she presently came
 bouncing back,--the saying is, as fresh as any daisy; _I_ say
@@ -993,22 +993,22 @@ in the cap and gloves, and prevent the dear old creature from making
 discoveries.
 
 "So bring me the precious Baby, Tilly," said she, drawing a chair to the
-fire; "and while I have it in my lap, here's Mrs. Fielding, Tilly, will
+[[Fire|fire]]; "and while I have it in my lap, here's Mrs. Fielding, Tilly, will
 tell me all about the management of Babies, and put me right in twenty
 points where I'm as wrong as can be. Won't you, Mrs. Fielding?"
 
 Not even the Welsh Giant, who, according to the popular expression, was
 so "slow" as to perform a fatal surgical operation upon himself, in
 emulation of a juggling trick achieved by his arch enemy at
-breakfast-time; not even he fell half so readily into the snare prepared
-for him as the old lady into this artful pitfall. The fact of Tackleton
+breakfast-[[Time|time]]; not even he fell half so readily into the snare prepared
+for him as the old lady into this artful pitfall. The fact of [[Tackleton]]
 having walked out; and furthermore, of two or three people having been
 talking together at a distance, for two minutes, leaving her to her own
 resources; was quite enough to have put her on her dignity, and the
 bewailment of that mysterious convulsion in the Indigo Trade, for
 four-and-twenty hours. But this becoming deference to her experience, on
 the part of the young mother, was so irresistible, that after a short
-affectation of humility, she began to enlighten her with the best grace
+affectation of [[Humility|humility]], she began to enlighten her with the best grace
 in the world; and, sitting bolt upright before the wicked Dot, she did,
 in half an hour, deliver more infallible domestic recipes and precepts
 than would (if acted on) have utterly destroyed and done up that Young
@@ -1021,52 +1021,52 @@ then had a little whispering chat with May, while the old lady dozed;
 and so in little bits of bustle, which was quite her manner always,
 found it a very short afternoon. Then, as it grew dark, and as it was a
 solemn part of this Institution of the Picnic that she should perform
-all Bertha's household tasks, she trimmed the fire, and swept the
+all Bertha's household tasks, she trimmed the [[Fire|fire]], and swept the
 hearth, and set the tea-board out, and drew the curtain, and lighted a
 candle. Then she played an air or two on a rude kind of harp, which
-Caleb had contrived for Bertha, and played them very well; for Nature
+Caleb had contrived for Bertha, and played them very [[Well|well]]; for [[Nature]]
 had made her delicate little ear as choice a one for music as it would
-have been for jewels, if she had had any to wear. By this time it was
-the established hour for having tea; and Tackleton came back again to
+have been for jewels, if she had had any to wear. By this [[Time|time]] it was
+the established hour for having tea; and [[Tackleton]] came back again to
 share the meal, and spend the evening.
 
-Caleb and Bertha had returned some time before, and Caleb had sat down
+Caleb and Bertha had returned some [[Time|time]] before, and Caleb had sat down
 to his afternoon's work. But he couldn't settle to it, poor fellow,
 being anxious and remorseful for his daughter. It was touching to see
 him sitting idle on his working stool, regarding her so wistfully, and
 always saying in his face, "Have I deceived her from her cradle, but to
 break her heart?"
 
-When it was night, and tea was done, and Dot had nothing more to do in
+When it was [[Night|night]], and tea was done, and Dot had nothing more to do in
 washing up the cups and saucers; in a word--for I must come to it, and
-there is no use in putting it off--when the time drew nigh for expecting
+there is no use in putting it off--when the [[Time|time]] drew nigh for expecting
 the Carrier's return in every sound of distant wheels, her manner
 changed again, her colour came and went, and she was very restless. Not
 as good wives are when listening for their husbands. No, no, no. It was
 another sort of restlessness from that.
 
-Wheels heard. A horse's feet. The barking of a dog. The gradual approach
+Wheels heard. A [[Horse|horse]]'s feet. The barking of a dog. The gradual approach
 of all the sounds. The scratching paw of Boxer at the door!
 
 "Whose step is that?" cried Bertha, starting up.
 
 "Whose step?" returned the Carrier, standing in the portal, with his
-brown face ruddy as a winter berry from the keen night air. "Why, mine."
+brown face ruddy as a [[Winter|winter]] berry from the keen [[Night|night]] air. "Why, mine."
 
 "The other step," said Bertha. "The man's tread behind you!"
 
 "She is not to be deceived," observed the Carrier, laughing. "Come
-along, sir. You'll be welcome, never fear!"
+along, sir. You'll be welcome, never [[Fear|fear]]!"
 
 He spoke in a loud tone; and, as he spoke, the deaf old gentleman
 entered.
 
 "He's not so much a stranger that you haven't seen him once, Caleb,"
-said the Carrier. "You'll give him house room till we go?"
+said the Carrier. "You'll give him [[house]] room till we go?"
 
-"Oh, surely, John, and take it as an honour!"
+"Oh, surely, John, and take it as an [[Honour|honour]]!"
 
-"He's the best company on earth to talk secrets in," said John. "I have
+"He's the best company on earth to talk [[Secrets|secrets]] in," said John. "I have
 reasonable good lungs, but he tries 'em I can tell you. Sit down, sir.
 All friends here, and glad to see you!"
 
@@ -1078,7 +1078,7 @@ about him, is all he cares for. He's easily pleased."
 Bertha had been listening intently. She called Caleb to her side, when
 he had set the chair, and asked him, in a low voice, to describe their
 visitor. When he had done so (truly now, with scrupulous fidelity), she
-moved, for the first time since he had come in, and sighed, and seemed
+moved, for the first [[Time|time]] since he had come in, and sighed, and seemed
 to have no further interest concerning him.
 
 The Carrier was in high spirits, good fellow that he was, and fonder of
@@ -1095,11 +1095,11 @@ He pointed to the old man. She looked down. I think she trembled.
 like him for it!"
 
 "I wish he had a better subject, John," she said with an uneasy glance
-about the room. At Tackleton especially.
+about the room. At [[Tackleton]] especially.
 
 "A better subject!" cried the jovial John. "There's no such thing. Come!
 off with the great-coat, off with the thick shawl, off with the heavy
-wrappers! and a cosy half-hour by the fire. My humble service, mistress.
+wrappers! and a cosy half-hour by the [[Fire|fire]]. My humble service, mistress.
 A game at cribbage, you and I? That's hearty. The cards and board, Dot.
 And a glass of beer here, if there's any left, small wife!"
 
@@ -1112,18 +1112,18 @@ occasional weakness in respect of pegging more than she was entitled to,
 required such vigilance on his part, as left him neither eyes nor ears
 to spare. Thus, his whole attention gradually became absorbed upon the
 cards; and he thought of nothing else, until a hand upon his shoulder
-restored him to a consciousness of Tackleton.
+restored him to a consciousness of [[Tackleton]].
 
 "I am sorry to disturb you--but a word directly."
 
 "I'm going to deal," returned the Carrier. "It's a crisis."
 
-"It is," said Tackleton. "Come here, man!"
+"It is," said [[Tackleton]]. "Come here, man!"
 
 There was that in his pale face which made the other rise immediately,
 and ask him, in a hurry, what the matter was.
 
-"Hush! John Peerybingle," said Tackleton, "I am sorry for this. I am
+"Hush! [[John Peerybingle]]," said [[Tackleton]], "I am sorry for this. I am
 indeed. I have been afraid of it. I have suspected it from the first."
 
 "What is it?" asked the Carrier with a frightened aspect.
@@ -1131,83 +1131,83 @@ indeed. I have been afraid of it. I have suspected it from the first."
 "Hush! I'll show you, if you'll come with me."
 
 The Carrier accompanied him without another word. They went across a
-yard, where the stars were shining, and by a little side-door, into
-Tackleton's own counting-house, where there was a glass window,
-commanding the ware-room, which was closed for the night. There was no
-light in the counting-house itself, but there were lamps in the long
-narrow ware-room; and consequently the window was bright.
+yard, where the [[Stars|stars]] were shining, and by a little side-door, into
+[[Tackleton]]'s own counting-[[house]], where there was a glass [[Window|window]],
+commanding the ware-room, which was closed for the [[Night|night]]. There was no
+light in the counting-[[house]] itself, but there were lamps in the long
+narrow ware-room; and consequently the [[Window|window]] was bright.
 
-"A moment!" said Tackleton. "Can you bear to look through that window,
+"A moment!" said [[Tackleton]]. "Can you bear to look through that [[Window|window]],
 do you think?"
 
 "Why not?" returned the Carrier.
 
-"A moment more," said Tackleton. "Don't commit any violence. It's of no
+"A moment more," said [[Tackleton]]. "Don't commit any violence. It's of no
 use. It's dangerous too. You're a strong-made man; and you might do
 murder before you know it."
 
 The Carrier looked him in the face, and recoiled a step as if he had
-been struck. In one stride he was at the window, and he saw----
+been struck. In one stride he was at the [[Window|window]], and he saw----
 
-Oh, Shadow on the Hearth! Oh, truthful Cricket! Oh, perfidious wife!
+Oh, [[Shadow]] on the Hearth! Oh, truthful Cricket! Oh, perfidious wife!
 
 He saw her with the old man--old no longer, but erect and
 gallant--bearing in his hand the false white hair that had won his way
-into their desolate and miserable home. He saw her listening to him, as
-he bent his head to whisper in her ear; and suffering him to clasp her
+into their desolate and miserable [[Home|home]]. He saw her listening to him, as
+he bent his head to whisper in her ear; and [[Suffering|suffering]] him to clasp her
 round the waist, as they moved slowly down the dim wooden gallery
 towards the door by which they had entered it. He saw them stop, and saw
 her turn--to have the face, the face he loved so, so presented to his
 view!--and saw her, with her own hands, adjust the lie upon his head,
-laughing, as she did it, at his unsuspicious nature!
+laughing, as she did it, at his unsuspicious [[Nature|nature]]!
 
 He clenched his strong right hand at first, as if it would have beaten
-down a lion. But, opening it immediately again, he spread it out before
-the eyes of Tackleton (for he was tender of her even then), and so, as
+down a [[Lion|lion]]. But, opening it immediately again, he spread it out before
+the eyes of [[Tackleton]] (for he was tender of her even then), and so, as
 they passed out, fell down upon a desk, and was as weak as any infant.
 
-He was wrapped up to the chin, and busy with his horse and parcels, when
-she came into the room, prepared for going home.
+He was wrapped up to the chin, and busy with his [[Horse|horse]] and parcels, when
+she came into the room, prepared for going [[Home|home]].
 
-"Now, John dear! Good night, May! Good night, Bertha!"
+"Now, John dear! Good [[Night|night]], May! Good [[Night|night]], Bertha!"
 
 Could she kiss them? Could she be blithe and cheerful in her parting?
 Could she venture to reveal her face to them without a blush? Yes.
-Tackleton observed her closely, and she did all this.
+[[Tackleton]] observed her closely, and she did all this.
 
-Tilly was hushing the baby, and she crossed and recrossed Tackleton a
+Tilly was hushing the baby, and she crossed and recrossed [[Tackleton]] a
 dozen times, repeating drowsily:
 
 "Did the knowledge that it was to be its wives, then, wring its hearts
 almost to breaking; and did its fathers deceive it from its cradles but
 to break its hearts at last!"
 
-"Now, Tilly, give me the Baby! Good night, Mr. Tackleton. Where's John,
+"Now, Tilly, give me the Baby! Good [[Night|night]], Mr. [[Tackleton]]. Where's John,
 for goodness' sake?"
 
-"He's going to walk beside the horse's head," said Tackleton; who helped
+"He's going to walk beside the [[Horse|horse]]'s head," said [[Tackleton]]; who helped
 her to her seat.
 
-"My dear John! Walk? To-night?"
+"My dear John! Walk? To-[[Night|night]]?"
 
 The muffled figure of her husband made a hasty sign in the affirmative;
-and, the false stranger and the little nurse being in their places, the
-old horse moved off. Boxer, the unconscious Boxer, running on before,
+and, the false stranger and the little [[Nurse|nurse]] being in their places, the
+old [[Horse|horse]] moved off. Boxer, the unconscious Boxer, running on before,
 running back, running round and round the cart, and barking as
 triumphantly and merrily as ever.
 
-When Tackleton had gone off likewise, escorting May and her mother home,
-poor Caleb sat down by the fire beside his daughter; anxious and
+When [[Tackleton]] had gone off likewise, escorting May and her mother [[Home|home]],
+poor Caleb sat down by the [[Fire|fire]] beside his daughter; anxious and
 remorseful at the core; and still saying, in his wistful contemplation
 of her, "Have I deceived her from her cradle, but to break her heart at
 last?"
 
 The toys that had been set in motion for the Baby had all stopped and
-run down long ago. In the faint light and silence, the imperturbably
+run down long ago. In the faint light and [[Silence|silence]], the imperturbably
 calm dolls, the agitated rocking-horses with distended eyes and
 nostrils, the old gentlemen at the street-doors, standing half doubled
 up upon their failing knees and ankles, the wry-faced nut-crackers, the
 very Beasts upon their way into the Ark, in twos, like a Boarding-School
 out walking, might have been imagined to be stricken motionless with
-fantastic wonder at Dot being false, or Tackleton beloved, under any
+fantastic [[Wonder|wonder]] at Dot being false, or [[Tackleton]] beloved, under any
 combination of circumstances.

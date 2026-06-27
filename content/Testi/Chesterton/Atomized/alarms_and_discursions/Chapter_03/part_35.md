@@ -22,7 +22,7 @@ sentimentalism than the theory of the British Empire advanced
 by Mr. Roosevelt himself in his attack on Sentimentalists.
 For the Imperial theory, the Roosevelt and Kipling theory, of our
 relation to Eastern races is simply one of eating the Oriental cake
-(I suppose a Sultana Cake) and at the same time leaving it alone.
+(I suppose a Sultana Cake) and at the same [[Time|time]] leaving it [[Alone|alone]].
 
 Now there are two sane attitudes of a European statesman towards
 Eastern peoples, and there are only two.
@@ -35,13 +35,13 @@ I will confess to some tenderness for this view.  There is much
 to be said for letting that calm immemorial life of slave
 and sultan, temple and palm tree flow on as it has always flowed.
 The best reason of all, the reason that affects me most finally,
-is that if we left the rest of the world alone we might have
-some time for attending to our own affairs, which are urgent
-to the point of excruciation.  All history points to this;
+is that if we left the rest of the world [[Alone|alone]] we might have
+some [[Time|time]] for attending to our own affairs, which are urgent
+to the point of excruciation.  All [[history]] points to this;
 that intensive cultivation in the long run triumphs over the widest
 extensive cultivation; or, in other words, that making one's own
 field superior is far more effective than reducing other people's
-fields to inferiority.  If you cultivate your own garden and grow
+fields to inferiority.  If you cultivate your own [[Garden|garden]] and grow
 a specially large cabbage, people will probably come to see it.
 Whereas the life of one selling small cabbages round the whole
 district is often forlorn.
@@ -51,7 +51,7 @@ and a commercial traveller is essentially a person who goes to see people
 because they don't want to see him.  As long as empires go about urging
 their ideas on others, I always have a notion that the ideas are no good.
 If they were really so splendid, they would make the country
-preaching them a wonder of the world.  That is the true ideal;
+preaching them a [[Wonder|wonder]] of the world.  That is the true ideal;
 a great nation ought not to be a hammer, but a magnet.
 Men went to the mediaeval Sorbonne because it was worth going to.
 Men went to old Japan because only there could they find the unique
@@ -67,43 +67,43 @@ That is my political theory:  that we should make England worth
 copying instead of telling everybody to copy her.
 
 But it is not the only possible theory.  There is another view of our
-relations to such places as Egypt and India which is entirely tenable.
+relations to such places as [[Egypt]] and India which is entirely tenable.
 It may be said, "We Europeans are the heirs of the Roman Empire;
-when all is said we have the largest freedom, the most exact science,
-the most solid romance.  We have a deep though undefined obligation
+when all is said we have the largest [[Freedom|freedom]], the most exact science,
+the most solid [[Romance|romance]].  We have a deep though undefined obligation
 to give as we have received from God; because the tribes of men are
-truly thirsting for these things as for water.  All men really want
+truly thirsting for these things as for [[Water|water]].  All men really want
 clear laws:  we can give clear laws.  All men really want hygiene:
 we can give hygiene.  We are not merely imposing Western ideas.
-We are simply fulfilling human ideas--for the first time."
+We are simply fulfilling human ideas--for the first [[Time|time]]."
 
 On this line, I think, it is possible to justify the forts of Africa
 and the railroads of Asia; but on this line we must go much further.
-If it is our duty to give our best, there can be no doubt about what is
+If it is our duty to give our best, there can be no [[Doubt|doubt]] about what is
 our best.  The greatest thing our Europe has made is the Citizen:
-the idea of the average man, free and full of honour,
-voluntarily invoking on his own sin the just vengeance of his city.
+the idea of the average man, free and full of [[Honour|honour]],
+voluntarily invoking on his own sin the just vengeance of his [[City|city]].
 All else we have done is mere machinery for that:
 railways exist only to carry the Citizen; forts only to defend him;
 electricity only to light him, medicine only to heal him.
-Popularism, the idea of the people alive and patiently feeding history,
+Popularism, the idea of the people alive and patiently feeding [[history]],
 that we cannot give; for it exists everywhere, East and West.
-But democracy, the idea of the people fighting and governing--
+But [[democracy]], the idea of the people fighting and governing--
 that is the only thing we have to give.
 
 Those are the two roads.  But between them weakly wavers
 the Sentimentalist--that is, the Imperialist of the Roosevelt school.
-He wants to have it both ways, to have the splendours of success without
+He wants to have it both ways, to have the splendours of [[success]] without
 the perils.  Europe may enslave Asia, because it is flattering:
 but Europe must not free Asia, because that is responsible.
 It tickles his Imperial taste that Hindoos should have European hats:
 it is too dangerous if they have European heads.  He cannot leave
 Asia Asiatic:  yet he dare not contemplate Asia as European.
-Therefore he proposes to have in Egypt railway signals, but not flags;
+Therefore he proposes to have in [[Egypt]] railway signals, but not flags;
 despatch boxes, but not ballot boxes.
 
-In short, the Sentimentalist decides to spread the body of Europe
-without the soul.
+In short, the Sentimentalist decides to spread the [[Body|body]] of Europe
+without the [[Soul|soul]].
 
 -/-
 
@@ -117,12 +117,12 @@ it prevents me from talking.  The difficulty is not wholly due to
 the physical conditions, though these are distinctly unconversational.
 FitzGerald's Omar, being a pessimist, was probably rich,
 and being a lazy fellow, was almost certainly a motorist.
-If any doubt could exist on the point, it is enough to say that,
+If any [[Doubt|doubt]] could exist on the point, it is enough to say that,
 in speaking of the foolish profits, Omar has defined the difficulties
 of colloquial motoring with a precision which cannot be accidental.
-"Their words to wind are scattered; and their mouths are stopped
-with dust."  From this follows not (as many of the cut-and-dried
-philosophers would say) a savage silence and mutual hostility,
+"Their words to [[Wind|wind]] are scattered; and their mouths are stopped
+with [[Dust|dust]]."  From this follows not (as many of the cut-and-dried
+philosophers would say) a savage [[Silence|silence]] and mutual hostility,
 but rather one of those rich silences that make the mass and bulk
-of all friendship; the silence of men rowing the same boat or fighting
+of all [[Friendship|friendship]]; the [[Silence|silence]] of men rowing the same boat or fighting
 in the same battle-line.

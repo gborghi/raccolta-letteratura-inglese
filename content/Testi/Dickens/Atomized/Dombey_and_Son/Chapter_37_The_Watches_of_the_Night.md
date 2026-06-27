@@ -1,5 +1,5 @@
 ---
-title: "Dombey and Son — Chapter 43: The Watches of the Night"
+title: "Dombey and Son — Chapter 43: The Watches of the [[Night]]"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Dombey-and-Son-(Dickens)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
- CHAPTER XLIII. The Watches of the Night
+ CHAPTER XLIII. The Watches of the [[Night]]

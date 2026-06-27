@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 31 (part 3)"
+title: "[[Mansfield Park]] — Chapter 31 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-“I am glad you gave him something considerable,” said Lady Bertram,
+“I am glad you gave him something considerable,” said Lady [[Bertram]],
 with most unsuspicious calmness, “for _I_ gave him only £10.”
 
 “Indeed!” cried Mrs. Norris, reddening. “Upon my word, he must have
-gone off with his pockets well lined, and at no expense for his journey
-to London either!”
+gone off with his pockets [[Well|well]] lined, and at no expense for his [[Journey|journey]]
+to [[London]] either!”
 
 “Sir Thomas told me £10 would be enough.”
 
@@ -54,7 +54,7 @@ so slightly, so carelessly, so unfeelingly on all such points; who was
 everything to everybody, and seemed to find no one essential to him?
 And farther, how could it be supposed that his sister, with all her
 high and worldly notions of matrimony, would be forwarding anything of
-a serious nature in such a quarter? Nothing could be more unnatural in
+a serious [[Nature|nature]] in such a quarter? Nothing could be more unnatural in
 either. Fanny was ashamed of her own doubts. Everything might be
 possible rather than serious attachment, or serious approbation of it
 toward her. She had quite convinced herself of this before Sir Thomas
@@ -86,7 +86,7 @@ writing for her aunt, and prepared her materials without knowing what
 in the world to say. She had read Miss Crawford’s note only once, and
 how to reply to anything so imperfectly understood was most
 distressing. Quite unpractised in such sort of note-writing, had there
-been time for scruples and fears as to style she would have felt them
+been [[Time|time]] for scruples and fears as to style she would have felt them
 in abundance: but something must be instantly written; and with only
 one decided feeling, that of wishing not to appear to think anything
 really intended, she wrote thus, in great trembling both of spirits and
@@ -95,11 +95,11 @@ hand—
 “I am very much obliged to you, my dear Miss Crawford, for your kind
 congratulations, as far as they relate to my dearest William. The rest
 of your note I know means nothing; but I am so unequal to anything of
-the sort, that I hope you will excuse my begging you to take no farther
+the sort, that I [[Hope|hope]] you will excuse my begging you to take no farther
 notice. I have seen too much of Mr. Crawford not to understand his
-manners; if he understood me as well, he would, I dare say, behave
+manners; if he understood me as [[Well|well]], he would, I dare say, behave
 differently. I do not know what I write, but it would be a great favour
-of you never to mention the subject again. With thanks for the honour
+of you never to mention the subject again. With thanks for the [[Honour|honour]]
 of your note,
 
 
@@ -125,10 +125,10 @@ averted eyes walked towards the fireplace, where sat the others, he had
 nothing to do but to go in good earnest.
 
 Fanny thought she had never known a day of greater agitation, both of
-pain and pleasure; but happily the pleasure was not of a sort to die
+[[Pain|pain]] and pleasure; but happily the pleasure was not of a sort to die
 with the day; for every day would restore the knowledge of William’s
-advancement, whereas the pain, she hoped, would return no more. She had
-no doubt that her note must appear excessively ill-written, that the
-language would disgrace a child, for her distress had allowed no
+advancement, whereas the [[Pain|pain]], she hoped, would return no more. She had
+no [[Doubt|doubt]] that her note must appear excessively ill-written, that the
+language would disgrace a [[Child|child]], for her distress had allowed no
 arrangement; but at least it would assure them both of her being
 neither imposed on nor gratified by Mr. Crawford’s attentions.

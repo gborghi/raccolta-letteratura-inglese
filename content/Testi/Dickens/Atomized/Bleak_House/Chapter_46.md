@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 46"
+title: "Bleak [[house|House]] — Chapter 46"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,37 +19,37 @@ CHAPTER XLVI
 Stop Him!
 
 
-Darkness rests upon Tom-All-Alone’s. Dilating and dilating since the
-sun went down last night, it has gradually swelled until it fills
-every void in the place. For a time there were some dungeon lights
-burning, as the lamp of life hums in Tom-all-Alone’s, heavily,
+Darkness rests upon Tom-All-[[Alone]]’s. Dilating and dilating since the
+sun went down last [[Night|night]], it has gradually swelled until it fills
+every void in the place. For a [[Time|time]] there were some dungeon lights
+burning, as the lamp of life hums in Tom-all-[[Alone]]’s, heavily,
 heavily, in the nauseous air, and winking—as that lamp, too, winks
-in Tom-all-Alone’s—at many horrible things. But they are blotted
-out. The moon has eyed Tom with a dull cold stare, as admitting some
-puny emulation of herself in his desert region unfit for life and
+in Tom-all-[[Alone]]’s—at many horrible things. But they are blotted
+out. The [[Moon|moon]] has eyed Tom with a dull cold stare, as admitting some
+puny emulation of herself in his [[Desert|desert]] region unfit for life and
 blasted by volcanic fires; but she has passed on and is gone. The
-blackest nightmare in the infernal stables grazes on Tom-all-Alone’s,
+blackest [[nightmare]] in the infernal stables grazes on Tom-all-[[Alone]]’s,
 and Tom is fast asleep.
 
 Much mighty speech-making there has been, both in and out of
 Parliament, concerning Tom, and much wrathful disputation how Tom
-shall be got right. Whether he shall be put into the main road by
+shall be got right. Whether he shall be put into the main [[Road|road]] by
 constables, or by beadles, or by bell-ringing, or by force of
 figures, or by correct principles of taste, or by high church, or by
 low church, or by no church; whether he shall be set to splitting
 trusses of polemical straws with the crooked knife of his mind or
 whether he shall be put to stone-breaking instead. In the midst of
-which dust and noise there is but one thing perfectly clear, to wit,
+which [[Dust|dust]] and noise there is but one thing perfectly clear, to wit,
 that Tom only may and can, or shall and will, be reclaimed according
 to somebody’s theory but nobody’s practice. And in the hopeful
 meantime, Tom goes to perdition head foremost in his old determined
 spirit.
 
-But he has his revenge. Even the winds are his messengers, and they
+But he has his [[Revenge|revenge]]. Even the winds are his messengers, and they
 serve him in these hours of darkness. There is not a drop of Tom’s
-corrupted blood but propagates infection and contagion somewhere. It
-shall pollute, this very night, the choice stream (in which chemists
-on analysis would find the genuine nobility) of a Norman house, and
+corrupted [[Blood|blood]] but propagates infection and contagion somewhere. It
+shall pollute, this very [[Night|night]], the choice stream (in which chemists
+on analysis would find the genuine nobility) of a Norman [[house]], and
 his Grace shall not be able to say nay to the infamous alliance.
 There is not an atom of Tom’s slime, not a cubic inch of any
 pestilential gas in which he lives, not one obscenity or degradation
@@ -57,20 +57,20 @@ about him, not an ignorance, not a wickedness, not a brutality of his
 committing, but shall work its retribution through every order of
 society up to the proudest of the proud and to the highest of the
 high. Verily, what with tainting, plundering, and spoiling, Tom has
-his revenge.
+his [[Revenge|revenge]].
 
-It is a moot point whether Tom-all-Alone’s be uglier by day or by
-night, but on the argument that the more that is seen of it the more
-shocking it must be, and that no part of it left to the imagination
+It is a moot point whether Tom-all-[[Alone]]’s be uglier by day or by
+[[Night|night]], but on the argument that the more that is seen of it the more
+shocking it must be, and that no part of it left to the [[Imagination|imagination]]
 is at all likely to be made so bad as the reality, day carries it.
-The day begins to break now; and in truth it might be better for the
+The day begins to break now; and in [[Truth|truth]] it might be better for the
 national glory even that the sun should sometimes set upon the
-British dominions than that it should ever rise upon so vile a wonder
+British dominions than that it should ever rise upon so vile a [[Wonder|wonder]]
 as Tom.
 
-A brown sunburnt gentleman, who appears in some inaptitude for sleep
+A brown sunburnt gentleman, who appears in some inaptitude for [[Sleep|sleep]]
 to be wandering abroad rather than counting the hours on a restless
-pillow, strolls hitherward at this quiet time. Attracted by
+pillow, strolls hitherward at this quiet [[Time|time]]. Attracted by
 curiosity, he often pauses and looks about him, up and down the
 miserable by-ways. Nor is he merely curious, for in his bright dark
 eye there is compassionate interest; and as he looks here and there,
@@ -78,7 +78,7 @@ he seems to understand such wretchedness and to have studied it
 before.
 
 On the banks of the stagnant channel of mud which is the main street
-of Tom-all-Alone’s, nothing is to be seen but the crazy houses, shut
+of Tom-all-[[Alone]]’s, nothing is to be seen but the crazy houses, shut
 up and silent. No waking creature save himself appears except in one
 direction, where he sees the solitary figure of a woman sitting on a
 door-step. He walks that way. Approaching, he observes that she has
@@ -89,7 +89,7 @@ bag, or bundle, she has carried. She is dozing probably, for she
 gives no heed to his steps as he comes toward her.
 
 The broken footway is so narrow that when Allan Woodcourt comes to
-where the woman sits, he has to turn into the road to pass her.
+where the woman sits, he has to turn into the [[Road|road]] to pass her.
 Looking down at her face, his eye meets hers, and he stops.
 
 “What is the matter?”
@@ -98,7 +98,7 @@ Looking down at her face, his eye meets hers, and he stops.
 
 “Can’t you make them hear? Do you want to be let in?”
 
-“I’m waiting till they get up at another house—a lodging-house—not
+“I’m waiting till they get up at another [[house]]—a lodging-[[house]]—not
 here,” the woman patiently returns. “I’m waiting here because there
 will be sun here presently to warm me.”
 
@@ -151,21 +151,21 @@ them again.
 
 “Where is he now?” asks the surgeon.
 
-“He got into trouble last night, sir; but he’ll look for me at the
-lodging-house.”
+“He got into trouble last [[Night|night]], sir; but he’ll look for me at the
+lodging-[[house]].”
 
 “He will get into worse trouble if he often misuses his large and
 heavy hand as he has misused it here. But you forgive him, brutal as
 he is, and I say no more of him, except that I wish he deserved it.
-You have no young child?”
+You have no young [[Child|child]]?”
 
 The woman shakes her head. “One as I calls mine, sir, but it’s
 Liz’s.”
 
 “Your own is dead. I see! Poor little thing!”
 
-By this time he has finished and is putting up his case. “I suppose
-you have some settled home. Is it far from here?” he asks,
+By this [[Time|time]] he has finished and is putting up his case. “I suppose
+you have some settled [[Home|home]]. Is it far from here?” he asks,
 good-humouredly making light of what he has done as she gets up and
 curtsys.
 
@@ -178,13 +178,13 @@ return. Have you money for your lodging?”
 
 “Yes, sir,” she says, “really and truly.” And she shows it. He tells
 her, in acknowledgment of her many subdued thanks, that she is very
-welcome, gives her good day, and walks away. Tom-all-Alone’s is still
+welcome, gives her good day, and walks away. Tom-all-[[Alone]]’s is still
 asleep, and nothing is astir.
 
 Yes, something is! As he retraces his way to the point from which he
 descried the woman at a distance sitting on the step, he sees a
 ragged figure coming very cautiously along, crouching close to the
-soiled walls—which the wretchedest figure might as well avoid—and
+soiled walls—which the wretchedest figure might as [[Well|well]] avoid—and
 furtively thrusting a hand before it. It is the figure of a youth
 whose face is hollow and whose eyes have an emaciated glare. He is so
 intent on getting along unseen that even the apparition of a stranger
@@ -193,7 +193,7 @@ with his ragged elbow as he passes on the other side of the way, and
 goes shrinking and creeping on with his anxious hand before him and
 his shapeless clothes hanging in shreds. Clothes made for what
 purpose, or of what material, it would be impossible to say. They
-look, in colour and in substance, like a bundle of rank leaves of
+look, in colour and in substance, like a bundle of rank [[Leaves|leaves]] of
 swampy growth that rotted long ago.
 
 Allan Woodcourt pauses to look after him and note all this, with a
@@ -203,25 +203,25 @@ He imagines that he must have seen it in some hospital or refuge,
 still, cannot make out why it comes with any special force on his
 remembrance.
 
-He is gradually emerging from Tom-all-Alone’s in the morning light,
+He is gradually emerging from Tom-all-[[Alone]]’s in the morning light,
 thinking about it, when he hears running feet behind him, and looking
-round, sees the boy scouring towards him at great speed, followed by
+round, sees the boy scouring towards him at great [[Speed|speed]], followed by
 the woman.
 
 “Stop him, stop him!” cries the woman, almost breathless. “Stop him,
 sir!”
 
-He darts across the road into the boy’s path, but the boy is quicker
+He darts across the [[Road|road]] into the boy’s path, but the boy is quicker
 than he, makes a curve, ducks, dives under his hands, comes up
 half-a-dozen yards beyond him, and scours away again. Still the woman
 follows, crying, “Stop him, sir, pray stop him!” Allan, not knowing
 but that he has just robbed her of her money, follows in chase and
-runs so hard that he runs the boy down a dozen times, but each time
+runs so hard that he runs the boy down a dozen times, but each [[Time|time]]
 he repeats the curve, the duck, the dive, and scours away again. To
 strike at him on any of these occasions would be to fell and disable
 him, but the pursuer cannot resolve to do that, and so the grimly
 ridiculous pursuit continues. At last the fugitive, hard-pressed,
-takes to a narrow passage and a court which has no thoroughfare.
+takes to a narrow passage and a [[Court|court]] which has no thoroughfare.
 Here, against a hoarding of decaying timber, he is brought to bay and
 tumbles down, lying gasping at his pursuer, who stands and gasps at
 him until the woman comes up.
@@ -229,11 +229,11 @@ him until the woman comes up.
 “Oh, you, Jo!” cries the woman. “What? I have found you at last!”
 
 “Jo,” repeats Allan, looking at him with attention, “Jo! Stay. To be
-sure! I recollect this lad some time ago being brought before the
+sure! I recollect this lad some [[Time|time]] ago being brought before the
 coroner.”
 
 “Yes, I see you once afore at the inkwhich,” whimpers Jo. “What of
-that? Can’t you never let such an unfortnet as me alone? An’t I
+that? Can’t you never let such an unfortnet as me [[Alone|alone]]? An’t I
 unfortnet enough for you yet? How unfortnet do you want me fur to be?
 I’ve been a-chivied and a-chivied, fust by one on you and nixt by
 another on you, till I’m worritted to skins and bones. The inkwhich
@@ -241,9 +241,9 @@ warn’t MY fault. I done nothink. He wos wery good to me, he wos; he
 wos the only one I knowed to speak to, as ever come across my
 crossing. It ain’t wery likely I should want him to be inkwhiched. I
 only wish I wos, myself. I don’t know why I don’t go and make a hole
-in the water, I’m sure I don’t.”
+in the [[Water|water]], I’m sure I don’t.”
 
-He says it with such a pitiable air, and his grimy tears appear so
+He says it with such a pitiable air, and his grimy [[Tears|tears]] appear so
 real, and he lies in the corner up against the hoarding so like a
 growth of fungus or any unwholesome excrescence produced there in
 neglect and impurity, that Allan Woodcourt is softened towards him.
@@ -256,20 +256,20 @@ last!”
 “What has he done?” says Allan. “Has he robbed you?”
 
 “No, sir, no. Robbed me? He did nothing but what was kind-hearted by
-me, and that’s the wonder of it.”
+me, and that’s the [[Wonder|wonder]] of it.”
 
 Allan looks from Jo to the woman, and from the woman to Jo, waiting
-for one of them to unravel the riddle.
+for one of them to unravel the [[Riddle|riddle]].
 
 “But he was along with me, sir,” says the woman. “Oh, you Jo! He was
 along with me, sir, down at Saint Albans, ill, and a young lady, Lord
 bless her for a good friend to me, took pity on him when I durstn’t,
-and took him home—”
+and took him [[Home|home]]—”
 
 Allan shrinks back from him with a sudden horror.
 
-“Yes, sir, yes. Took him home, and made him comfortable, and like a
-thankless monster he ran away in the night and never has been seen or
+“Yes, sir, yes. Took him [[Home|home]], and made him comfortable, and like a
+thankless [[Monster|monster]] he ran away in the [[Night|night]] and never has been seen or
 heard of since till I set eyes on him just now. And that young lady
 that was such a pretty dear caught his illness, lost her beautiful
 looks, and wouldn’t hardly be known for the same young lady now if it
@@ -277,7 +277,7 @@ wasn’t for her angel temper, and her pretty shape, and her sweet
 voice. Do you know it? You ungrateful wretch, do you know that this
 is all along of you and of her goodness to you?” demands the woman,
 beginning to rage at him as she recalls it and breaking into
-passionate tears.
+passionate [[Tears|tears]].
 
 The boy, in rough sort stunned by what he hears, falls to smearing
 his dirty forehead with his dirty palm, and to staring at the ground,
@@ -287,7 +287,7 @@ which he leans rattles.
 Allan restrains the woman, merely by a quiet gesture, but
 effectually.
 
-“Richard told me—” He falters. “I mean, I have heard of this—don’t
+“[[Richard]] told me—” He falters. “I mean, I have heard of this—don’t
 mind me for a moment, I will speak presently.”
 
 He turns away and stands for a while looking out at the covered
@@ -305,12 +305,12 @@ hand over his left and his left foot over his right.
 “You hear what she says, and I know it’s true. Have you been here
 ever since?”
 
-“Wishermaydie if I seen Tom-all-Alone’s till this blessed morning,”
+“Wishermaydie if I seen Tom-all-[[Alone]]’s till this blessed morning,”
 replies Jo hoarsely.
 
 “Why have you come here now?”
 
-Jo looks all round the confined court, looks at his questioner no
+Jo looks all round the confined [[Court|court]], looks at his questioner no
 higher than the knees, and finally answers, “I don’t know how to do
 nothink, and I can’t get nothink to do. I’m wery poor and ill, and I
 thought I’d come back here when there warn’t nobody about, and lay
@@ -321,9 +321,9 @@ me—like everybody everywheres.”
 
 “Where have you come from?”
 
-Jo looks all round the court again, looks at his questioner’s knees
+Jo looks all round the [[Court|court]] again, looks at his questioner’s knees
 again, and concludes by laying his profile against the hoarding in a
-sort of resignation.
+sort of [[Resignation|resignation]].
 
 “Did you hear me ask you where you have come from?”
 
@@ -332,13 +332,13 @@ sort of resignation.
 “Now tell me,” proceeds Allan, making a strong effort to overcome his
 repugnance, going very near to him, and leaning over him with an
 expression of confidence, “tell me how it came about that you left
-that house when the good young lady had been so unfortunate as to
-pity you and take you home.”
+that [[house]] when the good young lady had been so unfortunate as to
+pity you and take you [[Home|home]].”
 
-Jo suddenly comes out of his resignation and excitedly declares,
+Jo suddenly comes out of his [[Resignation|resignation]] and excitedly declares,
 addressing the woman, that he never known about the young lady, that
 he never heern about it, that he never went fur to hurt her, that he
-would sooner have hurt his own self, that he’d sooner have had his
+would sooner have hurt his own [[Self|self]], that he’d sooner have had his
 unfortnet ed chopped off than ever gone a-nigh her, and that she wos
 wery good to him, she wos. Conducting himself throughout as if in his
 poor fashion he really meant it, and winding up with some very
@@ -353,10 +353,10 @@ dustn’t, or I would.”
 “But I must know,” returns the other, “all the same. Come, Jo.”
 
 After two or three such adjurations, Jo lifts up his head again,
-looks round the court again, and says in a low voice, “Well, I’ll
+looks round the [[Court|court]] again, and says in a low voice, “[[Well]], I’ll
 tell you something. I was took away. There!”
 
-“Took away? In the night?”
+“Took away? In the [[Night|night]]?”
 
 “Ah!” Very apprehensive of being overheard, Jo looks about him and
 even glances up some ten feet at the top of the hoarding and through
@@ -379,7 +379,7 @@ he DON’T hear.”
 wanst.”
 
 Allan looks at him in perplexity, but discovers some real meaning and
-good faith at the bottom of this bewildering reply. He patiently
+good [[Faith|faith]] at the [[Bottom|bottom]] of this bewildering reply. He patiently
 awaits an explicit answer; and Jo, more baffled by his patience than
 by anything else, at last desperately whispers a name in his ear.
 
@@ -395,7 +395,7 @@ a-moving on to the berryin ground—that’s the move as I’m up to.”
 discharged, then giv me a little money—four half-bulls, wot you may
 call half-crowns—and ses ‘Hook it! Nobody wants you here,’ he ses.
 ‘You hook it. You go and tramp,’ he ses. ‘You move on,’ he ses.
-‘Don’t let me ever see you nowheres within forty mile of London, or
+‘Don’t let me ever see you nowheres within forty mile of [[London]], or
 you’ll repent it.’ So I shall, if ever he doos see me, and he’ll see
 me if I’m above ground,” concludes Jo, nervously repeating all his
 former precautions and investigations.
@@ -412,12 +412,12 @@ it’s all right. For YOU wos wery good to me too, and I knows it.”
 “Now, Jo,” says Allan, keeping his eye upon him, “come with me and I
 will find you a better place than this to lie down and hide in. If I
 take one side of the way and you the other to avoid observation, you
-will not run away, I know very well, if you make me a promise.”
+will not run away, I know very [[Well|well]], if you make me a promise.”
 
 “I won’t, not unless I wos to see HIM a-coming, sir.”
 
-“Very well. I take your word. Half the town is getting up by this
-time, and the whole town will be broad awake in another hour. Come
+“Very [[Well|well]]. I take your word. Half the town is getting up by this
+[[Time|time]], and the whole town will be broad awake in another hour. Come
 along. Good day again, my good woman.”
 
 “Good day again, sir, and I thank you kindly many times again.”
@@ -428,5 +428,5 @@ went fur to hurt her and wot the genlmn ses!” nods and shambles and
 shivers, and smears and blinks, and half laughs and half cries, a
 farewell to her, and takes his creeping way along after Allan
 Woodcourt, close to the houses on the opposite side of the street. In
-this order, the two come up out of Tom-all-Alone’s into the broad
+this order, the two come up out of Tom-all-[[Alone]]’s into the broad
 rays of the sunlight and the purer air.

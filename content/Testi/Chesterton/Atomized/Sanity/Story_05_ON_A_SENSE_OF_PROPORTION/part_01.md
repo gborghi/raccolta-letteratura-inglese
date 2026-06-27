@@ -1,5 +1,5 @@
 ---
-title: "Sanity — ON A SENSE OF PROPORTION (part 1)"
+title: "[[Sanity]] — ON A SENSE OF PROPORTION (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -21,7 +21,7 @@ tags:
 I THE BEGINNING OF THE QUARREL
 
 I have been asked to republish these notes--which appeared
-in a weekly paper--as a rough sketch of certain aspects of
+in a weekly paper--as a rough [[Sketch|sketch]] of certain aspects of
 the institution of Private Property, now so completely forgotten
 amid the journalistic jubilations over Private Enterprise.
 The very fact that the publicists say so much of the latter and so
@@ -37,36 +37,36 @@ is that it only reforms the pickpocket by forbidding pockets.
 
 Pockets and possessions generally seem to me to have not only
 a more normal but a more dignified defence than the rather
-dirty individualism that talks about private enterprise.
-In the hope that it may possibly help others to understand it,
+dirty [[Individualism|individualism]] that talks about private enterprise.
+In the [[Hope|hope]] that it may possibly help others to understand it,
 I have decided to reproduce these studies as they stand, hasty and
 sometimes merely topical as they were.  It is indeed very hard
 to reproduce them in this form, because they were editorial notes
 to a controversy largely conducted by others; but the general idea
 is at least present.  In any case, "private enterprise" is no very
-noble way of stating the truth of one of the Ten Commandments.
-But there was at least a time when it was more or less true.
+noble way of stating the [[Truth|truth]] of one of the Ten Commandments.
+But there was at least a [[Time|time]] when it was more or less true.
 The Manchester Radicals preached a rather crude and cruel sort
 of competition; but at least they practised what they preached.
 The newspapers now praising private enterprise are preaching
-the very opposite of anything that anybody dreams of practising.
+the very opposite of anything that anybody [[Dreams|dreams]] of practising.
 The practical tendency of all trade and business to-day is towards
 big commercial combinations, often more imperial, more impersonal,
 more international than many a communist commonwealth--
 things that are at least collective if not collectivist.
-It is all very well to repeat distractedly, "What are we coming to,
+It is all very [[Well|well]] to repeat distractedly, "What are we coming to,
 with all this Bolshevism?"  It is equally relevant to add,
 "What are we coming to, even without Bolshevism?"  The obvious
 answer is--Monopoly.  It is certainly not private enterprise.
 The American Trust is not private enterprise.  It would be truer
-to call the Spanish Inquisition private judgment.  Monopoly is neither
+to call the [[Spanish Inquisition]] private judgment.  Monopoly is neither
 private nor enterprising.  It exists to prevent private enterprise.
 And that system of trust or monopoly, that complete destruction
 of property, would still be the present goal of all our progress,
 if there were not a Bolshevist in the world.
 
 Now I am one of those who believe that the cure for centralization
-is decentralization.  It has been described as a paradox.
+is decentralization.  It has been described as a [[Paradox|paradox]].
 There is apparently something elvish and fantastic about saying
 that when capital has come to be too much in the hand of the few,
 the right thing is to restore it into the hands of the many.
@@ -114,14 +114,14 @@ But if capitalism means this particular condition of capital, only paid
 out to the mass in the form of wages, then it does mean something,
 even if it ought to mean something else.
 
-The truth is that what we call Capitalism ought to be
+The [[Truth|truth]] is that what we call Capitalism ought to be
 called Proletarianism.  The point of it is not that some people
 have capital, but that most people only have wages because they do
-not have capital.  I have made an heroic effort in my time to walk
+not have capital.  I have made an heroic effort in my [[Time|time]] to walk
 about the world always saying Proletarianism instead of Capitalism.
 But my path has been a thorny one of troubles and misunderstandings.
 I find that when I criticize the Duke of Northumberland
-for his Proletarianism, my meaning does not get home.
+for his Proletarianism, my meaning does not get [[Home|home]].
 When I say I should often agree with the Morning Post if it were
 not so deplorably Proletarian, there seems to be some strange
 momentary impediment to the complete communion of mind with mind.
@@ -137,7 +137,7 @@ thing and not the other.  I do not mind using a term as arbitrary
 as a mathematical sign, if it is accepted like a mathematical sign.
 I do not mind calling Property x and Capitalism y, so long as nobody
 thinks it necessary to say that x=y. I do not mind saying "cat"
-for capitalism and "dog" for distributism, so long as people understand
+for capitalism and "dog" for [[Distributism|distributism]], so long as people understand
 that the things are different enough to fight like cat and dog.
 The proposal of the wider distribution of capital remains the same,
 whatever we call it, or whatever we call the present glaring

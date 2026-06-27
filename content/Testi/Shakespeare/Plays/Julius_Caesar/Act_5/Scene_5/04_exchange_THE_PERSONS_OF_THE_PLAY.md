@@ -1,5 +1,5 @@
 ---
-title: "Julius Caesar — Act V, Scene 5 — exchange (THE PERSONS OF THE PLAY) [4]"
+title: "[[Julius Caesar]] — Act V, Scene 5 — exchange (THE PERSONS OF THE PLAY) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/JULIUS-CAESAR-(Shakespeare)"
@@ -16,11 +16,11 @@ tags:
 | Chi parla | Battuta |
 |---|---|
 | THE PERSONS OF THE | PLAY |
-| DUKE | SENIOR, living in banishment ROSALIND, his daughter, later disguised as Ganymede |
-| DUKE FREDERICK | CELIA, his daughter, later disguised as Aliena |
-| LE | BEAU, a courtier attending on him CHARLES, Duke Frederick’s wrestler TOUCHSTONE, a jester |
-| LE | OLIVER, eldest son of Sir Rowland de Bois ADAM, a former servant of Sir Rowland |
-| LE | DENIS, Oliver’s servant |
-| SIR OLIVER | MARTEXT, a country clergyman CORIN, an old shepherd SILVIUS, a young shepherd, in love with Phoebe PHOEBE, a shepherdess WILLIAM, a countryman, in love with Audrey AUDREY, a goatherd, betrothed to Touchstone |
-| SIR OLIVER | HYMEN, god of marriage |
-| SIR OLIVER | Lords, pages, and other attendants |
+| DUKE | SENIOR, living in banishment [[Rosalind|ROSALIND]], his daughter, later disguised as Ganymede |
+| [[Duke Frederick|DUKE FREDERICK]] | [[Celia|CELIA]], his daughter, later disguised as Aliena |
+| LE | BEAU, a courtier attending on him CHARLES, [[Duke Frederick]]’s wrestler [[Touchstone|TOUCHSTONE]], a jester |
+| LE | [[Oliver|OLIVER]], eldest son of Sir Rowland de Bois ADAM, a former servant of Sir Rowland |
+| LE | DENIS, [[Oliver]]’s servant |
+| SIR [[Oliver|OLIVER]] | MARTEXT, a country clergyman CORIN, an old shepherd [[Silvius|SILVIUS]], a young shepherd, in [[Love|love]] with [[Phoebe]] [[Phoebe|PHOEBE]], a shepherdess WILLIAM, a countryman, in [[Love|love]] with Audrey AUDREY, a goatherd, betrothed to [[Touchstone]] |
+| SIR [[Oliver|OLIVER]] | HYMEN, god of [[Marriage|marriage]] |
+| SIR [[Oliver|OLIVER]] | Lords, pages, and other attendants |

@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 8 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 8 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -26,21 +26,21 @@ Obedient to this summons there ranged themselves in front of the
 schoolmaster’s desk, half-a-dozen scarecrows, out at knees and elbows,
 one of whom placed a torn and filthy book beneath his learned eye.
 
-‘This is the first class in English spelling and philosophy, Nickleby,’
+‘This is the first class in English spelling and [[philosophy]], Nickleby,’
 said Squeers, beckoning Nicholas to stand beside him. ‘We’ll get up a
 Latin one, and hand that over to you. Now, then, where’s the first boy?’
 
-‘Please, sir, he’s cleaning the back-parlour window,’ said the temporary
+‘Please, sir, he’s cleaning the back-parlour [[Window|window]],’ said the temporary
 head of the philosophical class.
 
 ‘So he is, to be sure,’ rejoined Squeers. ‘We go upon the practical mode
-of teaching, Nickleby; the regular education system. C-l-e-a-n, clean,
+of teaching, Nickleby; the regular [[Education|education]] system. C-l-e-a-n, clean,
 verb active, to make bright, to scour. W-i-n, win, d-e-r, der, winder, a
 casement. When the boy knows this out of book, he goes and does it. It’s
 just the same principle as the use of the globes. Where’s the second
 boy?’
 
-‘Please, sir, he’s weeding the garden,’ replied a small voice.
+‘Please, sir, he’s weeding the [[Garden|garden]],’ replied a small voice.
 
 ‘To be sure,’ said Squeers, by no means disconcerted. ‘So he is. B-o-t,
 bot, t-i-n, tin, bottin, n-e-y, ney, bottinney, noun substantive,
@@ -51,30 +51,30 @@ what do you think of it?’
 ‘It’s very useful one, at any rate,’ answered Nicholas.
 
 ‘I believe you,’ rejoined Squeers, not remarking the emphasis of his
-usher. ‘Third boy, what’s horse?’
+usher. ‘Third boy, what’s [[Horse|horse]]?’
 
 ‘A beast, sir,’ replied the boy.
 
 ‘So it is,’ said Squeers. ‘Ain’t it, Nickleby?’
 
-‘I believe there is no doubt of that, sir,’ answered Nicholas.
+‘I believe there is no [[Doubt|doubt]] of that, sir,’ answered Nicholas.
 
-‘Of course there isn’t,’ said Squeers. ‘A horse is a quadruped, and
+‘Of course there isn’t,’ said Squeers. ‘A [[Horse|horse]] is a quadruped, and
 quadruped’s Latin for beast, as everybody that’s gone through the
 grammar knows, or else where’s the use of having grammars at all?’
 
 ‘Where, indeed!’ said Nicholas abstractedly.
 
 ‘As you’re perfect in that,’ resumed Squeers, turning to the boy, ‘go
-and look after MY horse, and rub him down well, or I’ll rub you down.
-The rest of the class go and draw water up, till somebody tells you
+and look after MY [[Horse|horse]], and rub him down [[Well|well]], or I’ll rub you down.
+The rest of the class go and draw [[Water|water]] up, till somebody tells you
 to leave off, for it’s washing-day tomorrow, and they want the coppers
 filled.’
 
 So saying, he dismissed the first class to their experiments in
-practical philosophy, and eyed Nicholas with a look, half cunning and
+practical [[philosophy]], and eyed Nicholas with a look, half cunning and
 half doubtful, as if he were not altogether certain what he might think
-of him by this time.
+of him by this [[Time|time]].
 
 ‘That’s the way we do it, Nickleby,’ he said, after a pause.
 
@@ -94,7 +94,7 @@ engrossing interest which are to be found in the more antiquated
 spelling-books.
 
 In this exciting occupation, the morning lagged heavily on. At one
-o’clock, the boys, having previously had their appetites thoroughly
+o’[[Clock|clock]], the boys, having previously had their appetites thoroughly
 taken away by stir-about and potatoes, sat down in the kitchen to some
 hard salt beef, of which Nicholas was graciously permitted to take his
 portion to his own solitary desk, to eat it there in peace. After this,
@@ -111,20 +111,20 @@ boys acquired strength of mind from the suspense of the morning, or,
 possibly, because Mr. Squeers himself acquired greater sternness and
 inflexibility from certain warm potations in which he was wont to
 indulge after his early dinner. Be this as it may, the boys were
-recalled from house-window, garden, stable, and cow-yard, and the school
+recalled from [[house]]-[[Window|window]], [[Garden|garden]], stable, and cow-yard, and the school
 were assembled in full conclave, when Mr. Squeers, with a small bundle of
 papers in his hand, and Mrs. S. following with a pair of canes, entered
-the room and proclaimed silence.
+the room and proclaimed [[Silence|silence]].
 
 ‘Let any boy speak a word without leave,’ said Mr. Squeers mildly, ‘and
 I’ll take the skin off his back.’
 
 This special proclamation had the desired effect, and a deathlike
-silence immediately prevailed, in the midst of which Mr. Squeers went on
+[[Silence|silence]] immediately prevailed, in the midst of which Mr. Squeers went on
 to say:
 
-‘Boys, I’ve been to London, and have returned to my family and you, as
-strong and well as ever.’
+‘Boys, I’ve been to [[London]], and have returned to my family and you, as
+strong and [[Well|well]] as ever.’
 
 According to half-yearly custom, the boys gave three feeble cheers at
 this refreshing intelligence. Such cheers! Sights of extra strength with

@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 14 (part 2)"
+title: "[[Villette]] — Chapter 14 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 “What will you have this year?” was asked by her Parisian lieutenant.
 
-“Oh, no matter! Let it alone. Let the poor children keep their francs,”
+“Oh, no matter! Let it [[Alone|alone]]. Let the poor children keep their francs,”
 And Madame looked benign and modest.
 
 The St. Pierre would here protrude her chin; she knew Madame by heart;
@@ -32,21 +32,21 @@ And the result was a handsome case, containing 300 francs worth of
 plate.
 
 The programme of the fête-day’s proceedings comprised: Presentation of
-plate, collation in the garden, dramatic performance (with pupils and
-teachers for actors), a dance and supper. Very gorgeous seemed the
-effect of the whole to me, as I well remember. Zélie St. Pierre
+plate, collation in the [[Garden|garden]], dramatic performance (with pupils and
+teachers for actors), a [[Dance|dance]] and supper. Very gorgeous seemed the
+effect of the whole to me, as I [[Well|well]] remember. Zélie St. Pierre
 understood these things and managed them ably.
 
 The play was the main point; a month’s previous drilling being there
 required. The choice, too, of the actors required knowledge and care;
 then came lessons in elocution, in attitude, and then the fatigue of
-countless rehearsals. For all this, as may well be supposed, St. Pierre
+countless rehearsals. For all this, as may [[Well|well]] be supposed, St. Pierre
 did not suffice: other management, other accomplishments than hers were
 requisite here. They were supplied in the person of a master—M. Paul
 Emanuel, professor of literature. It was never my lot to be present at
 the histrionic lessons of M. Paul, but I often saw him as he crossed
-the _carré_ (a square hall between the dwelling-house and
-school-house). I heard him, too, in the warm evenings, lecturing with
+the _carré_ (a square hall between the dwelling-[[house]] and
+school-[[house]]). I heard him, too, in the warm evenings, lecturing with
 open doors, and his name, with anecdotes of him, resounded in ones ears
 from all sides. Especially our former acquaintance, Miss Ginevra
 Fanshawe,—who had been selected to take a prominent part in the
@@ -74,14 +74,14 @@ qu’il ait une vie, une âme!”
 
 Vain resolve! And when he at last found it _was_ vain, he suddenly
 broke the whole business down. Hitherto he had been teaching them a
-grand tragedy; he tore the tragedy in morsels, and came next day with a
+grand [[Tragedy|tragedy]]; he tore the [[Tragedy|tragedy]] in morsels, and came next day with a
 compact little comic trifle. To this they took more kindly; he
 presently knocked it all into their smooth round pates.
 
 Mademoiselle St. Pierre always presided at M. Emanuel’s lessons, and I
 was told that the polish of her manner, her seeming attention, her tact
 and grace, impressed that gentleman very favourably. She had, indeed,
-the art of pleasing, for a given time, whom she would; but the feeling
+the art of pleasing, for a given [[Time|time]], whom she would; but the feeling
 would not last: in an hour it was dried like dew, vanished like
 gossamer.
 
@@ -90,25 +90,25 @@ itself. It was devoted to clearing out, cleaning, arranging and
 decorating the three schoolrooms. All within-doors was the gayest
 bustle; neither up-stairs nor down could a quiet, isolated person find
 rest for the sole of her foot; accordingly, for my part, I took refuge
-in the garden. The whole day did I wander or sit there alone, finding
+in the [[Garden|garden]]. The whole day did I wander or sit there [[Alone|alone]], finding
 warmth in the sun, shelter among the trees, and a sort of companionship
-in my own thoughts. I well remember that I exchanged but two sentences
+in my own thoughts. I [[Well|well]] remember that I exchanged but two sentences
 that day with any living being: not that I felt solitary; I was glad to
 be quiet. For a looker-on, it sufficed to pass through the rooms once
 or twice, observe what changes were being wrought, how a green-room and
 a dressing-room were being contrived, a little stage with scenery
-erected, how M. Paul Emanuel, in conjunction with Mademoiselle St.
+erected, how M. [[Paul Emanuel]], in conjunction with Mademoiselle St.
 Pierre, was directing all, and how an eager band of pupils, amongst
-them Ginevra Fanshawe, were working gaily under his control.
+them [[Ginevra Fanshawe]], were working gaily under his control.
 
-The great day arrived. The sun rose hot and unclouded, and hot and
+The great day arrived. The sun [[Rose|rose]] hot and unclouded, and hot and
 unclouded it burned on till evening. All the doors and all the windows
-were set open, which gave a pleasant sense of summer freedom—and
-freedom the most complete seemed indeed the order of the day. Teachers
+were set open, which gave a pleasant sense of [[Summer|summer]] [[Freedom|freedom]]—and
+[[Freedom|freedom]] the most complete seemed indeed the order of the day. Teachers
 and pupils descended to breakfast in dressing-gowns and curl-papers:
 anticipating “avec délices” the toilette of the evening, they seemed to
 take a pleasure in indulging that forenoon in a luxury of slovenliness;
-like aldermen fasting in preparation for a feast. About nine o’clock
+like aldermen fasting in preparation for a feast. About nine o’[[Clock|clock]]
 A.M., an important functionary, the “coiffeur,” arrived. Sacrilegious
 to state, he fixed his head-quarters in the oratory, and there, in
 presence of _bénitier_, candle, and crucifix, solemnised the mysteries
@@ -120,5 +120,5 @@ believe what the glass said when I applied to it for information
 afterwards; the lavished garlandry of woven brown hair amazed me—I
 feared it was not all my own, and it required several convincing pulls
 to give assurance to the contrary. I then acknowledged in the coiffeur
-a first-rate artist—one who certainly made the most of indifferent
+a first-rate [[Artist|artist]]—one who certainly made the most of indifferent
 materials.

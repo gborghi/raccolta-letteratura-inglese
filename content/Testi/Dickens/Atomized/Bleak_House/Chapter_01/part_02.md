@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 1 (part 2)"
+title: "Bleak [[house|House]] — Chapter 1 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 Jarndyce and Jarndyce drones on. This scarecrow of a suit has, in
-course of time, become so complicated that no man alive knows what it
+course of [[Time|time]], become so complicated that no man alive knows what it
 means. The parties to it understand it least, but it has been
 observed that no two Chancery lawyers can talk about it for five
 minutes without coming to a total disagreement as to all the
@@ -25,18 +25,18 @@ have died out of it. Scores of persons have deliriously found
 themselves made parties in Jarndyce and Jarndyce without knowing how
 or why; whole families have inherited legendary hatreds with the
 suit. The little plaintiff or defendant who was promised a new
-rocking-horse when Jarndyce and Jarndyce should be settled has grown
-up, possessed himself of a real horse, and trotted away into the
-other world. Fair wards of court have faded into mothers and
+rocking-[[Horse|horse]] when Jarndyce and Jarndyce should be settled has grown
+up, possessed himself of a real [[Horse|horse]], and trotted away into the
+other world. Fair wards of [[Court|court]] have faded into mothers and
 grandmothers; a long procession of Chancellors has come in and gone
 out; the legion of bills in the suit have been transformed into mere
-bills of mortality; there are not three Jarndyces left upon the earth
-perhaps since old Tom Jarndyce in despair blew his brains out at a
-coffee-house in Chancery Lane; but Jarndyce and Jarndyce still drags
-its dreary length before the court, perennially hopeless.
+bills of [[Mortality|mortality]]; there are not three Jarndyces left upon the earth
+perhaps since old Tom Jarndyce in [[Despair|despair]] blew his brains out at a
+coffee-[[house]] in Chancery Lane; but Jarndyce and Jarndyce still drags
+its dreary length before the [[Court|court]], perennially hopeless.
 
 Jarndyce and Jarndyce has passed into a joke. That is the only good
-that has ever come of it. It has been death to many, but it is a joke
+that has ever come of it. It has been [[Death|death]] to many, but it is a joke
 in the profession. Every master in Chancery has had a reference out
 of it. Every Chancellor was “in it,” for somebody or other, when he
 was counsel at the bar. Good things have been said about it by
@@ -55,11 +55,11 @@ question. From the master upon whose impaling files reams of dusty
 warrants in Jarndyce and Jarndyce have grimly writhed into many
 shapes, down to the copying-clerk in the Six Clerks’ Office who has
 copied his tens of thousands of Chancery folio-pages under that
-eternal heading, no man’s nature has been made better by it. In
+eternal heading, no man’s [[Nature|nature]] has been made better by it. In
 trickery, evasion, procrastination, spoliation, botheration, under
 false pretences of all sorts, there are influences that can never
 come to good. The very solicitors’ boys who have kept the wretched
-suitors at bay, by protesting time out of mind that Mr. Chizzle,
+suitors at bay, by protesting [[Time|time]] out of mind that Mr. Chizzle,
 Mizzle, or otherwise was particularly engaged and had appointments
 until dinner, may have got an extra moral twist and shuffle into
 themselves out of Jarndyce and Jarndyce. The receiver in the cause
@@ -67,17 +67,17 @@ has acquired a goodly sum of money by it but has acquired too a
 distrust of his own mother and a contempt for his own kind. Chizzle,
 Mizzle, and otherwise have lapsed into a habit of vaguely promising
 themselves that they will look into that outstanding little matter
-and see what can be done for Drizzle—who was not well used—when
+and see what can be done for Drizzle—who was not [[Well|well]] used—when
 Jarndyce and Jarndyce shall be got out of the office. Shirking and
 sharking in all their many varieties have been sown broadcast by the
-ill-fated cause; and even those who have contemplated its history
+ill-fated cause; and even those who have contemplated its [[history]]
 from the outermost circle of such evil have been insensibly tempted
-into a loose way of letting bad things alone to take their own bad
+into a loose way of letting bad things [[Alone|alone]] to take their own bad
 course, and a loose belief that if the world go wrong it was in some
 off-hand manner never meant to go right.
 
 Thus, in the midst of the mud and at the heart of the fog, sits the
-Lord High Chancellor in his High Court of Chancery.
+Lord High Chancellor in his High [[Court]] of Chancery.
 
 “Mr. Tangle,” says the Lord High Chancellor, latterly something
 restless under the eloquence of that learned gentleman.
@@ -106,7 +106,7 @@ to a settlement one of these days.
 
 The Chancellor rises; the bar rises; the prisoner is brought forward
 in a hurry; the man from Shropshire cries, “My lord!” Maces, bags,
-and purses indignantly proclaim silence and frown at the man from
+and purses indignantly proclaim [[Silence|silence]] and frown at the man from
 Shropshire.
 
 “In reference,” proceeds the Chancellor, still on Jarndyce and
@@ -121,7 +121,7 @@ making the order for their residing with their uncle.”
 
 Mr. Tangle on his legs again. “Begludship’s pardon—dead.”
 
-“With their”—Chancellor looking through his double eye-glass at the
+“With their”—Chancellor looking through his [[Double|double]] eye-glass at the
 papers on his desk—“grandfather.”
 
 “Begludship’s pardon—victim of rash action—brains.”
@@ -129,7 +129,7 @@ papers on his desk—“grandfather.”
 Suddenly a very little counsel with a terrific bass voice arises,
 fully inflated, in the back settlements of the fog, and says, “Will
 your lordship allow me? I appear for him. He is a cousin, several
-times removed. I am not at the moment prepared to inform the court in
+times removed. I am not at the moment prepared to inform the [[Court|court]] in
 what exact remove he is a cousin, but he IS a cousin.”
 
 Leaving this address (delivered like a sepulchral message) ringing in
@@ -143,12 +143,12 @@ seat.”
 
 The Chancellor is about to bow to the bar when the prisoner is
 presented. Nothing can possibly come of the prisoner’s conglomeration
-but his being sent back to prison, which is soon done. The man from
+but his being sent back to [[Prison|prison]], which is soon done. The man from
 Shropshire ventures another remonstrative “My lord!” but the
 Chancellor, being aware of him, has dexterously vanished. Everybody
 else quickly vanishes too. A battery of blue bags is loaded with
 heavy charges of papers and carried off by clerks; the little mad old
-woman marches off with her documents; the empty court is locked up.
+woman marches off with her documents; the empty [[Court|court]] is locked up.
 If all the injustice it has committed and all the misery it has
 caused could only be locked up with it, and the whole burnt away in a
 great funeral pyre—why so much the better for other parties than the

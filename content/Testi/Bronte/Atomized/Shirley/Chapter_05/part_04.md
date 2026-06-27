@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 5 (part 4)"
+title: "[[Shirley]] — Chapter 5 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-else for walking in winter. Let any one try to wade the mud of the
+else for walking in [[Winter|winter]]. Let any one try to wade the mud of the
 
-Flemish chaussées in a pair of Paris brodequins, on m'en dirait des
+Flemish chaussées in a pair of [[Paris]] brodequins, on m'en dirait des
 
 nouvelles!"
 
@@ -28,13 +28,13 @@ Romans do. And as to the camisole and jupon, I am not quite sure about
 
 them either. I never see an English lady dressed in such garments. Ask
 
-Caroline Helstone."
+[[Caroline Helstone]]."
 
 
 
 "Caroline! _I_ ask Caroline? _I_ consult her about my dress? It is _she_
 
-who on all points should consult _me_. She is a child."
+who on all points should consult _me_. She is a [[Child|child]]."
 
 
 
@@ -68,9 +68,9 @@ unassuming: let us keep her so."
 
 then she has more intimate opportunities of knowing me. She sees that I
 
-have education, intelligence, manner, principles--all, in short, which
+have [[Education|education]], intelligence, manner, principles--all, in short, which
 
-belongs to a person well born and well bred."
+belongs to a person [[Well|well]] born and [[Well|well]] bred."
 
 
 
@@ -80,7 +80,7 @@ belongs to a person well born and well bred."
 
 "For _fond_ I cannot say. I am not one who is prone to take violent
 
-fancies, and, consequently, my friendship is the more to be depended on.
+fancies, and, consequently, my [[Friendship|friendship]] is the more to be depended on.
 
 I have a regard for her as my relative; her position also inspires
 
@@ -90,11 +90,11 @@ to enhance than diminish the attachment that springs from other causes."
 
 
 
-"She behaves pretty well at lessons?"
+"She behaves pretty [[Well|well]] at lessons?"
 
 
 
-"To _me_ she behaves very well; but you are conscious, brother, that I
+"To _me_ she behaves very [[Well|well]]; but you are conscious, brother, that I
 
 have a manner calculated to repel over-familiarity, to win esteem, and
 
@@ -112,7 +112,7 @@ an account of her faults."
 
 "Dear brother, I am happy to see you eat your breakfast with relish,
 
-after the fatiguing night you have passed. Caroline, then, is defective;
+after the fatiguing [[Night|night]] you have passed. Caroline, then, is defective;
 
 but with my forming hand and almost motherly care she may improve. There
 
@@ -120,11 +120,11 @@ is about her an occasional something--a reserve, I think--which I do not
 
 quite like, because it is not sufficiently girlish and submissive; and
 
-there are glimpses of an unsettled hurry in her nature, which put me
+there are glimpses of an unsettled hurry in her [[Nature|nature]], which put me
 
 out. Yet she is usually most tranquil, too dejected and thoughtful
 
-indeed sometimes. In time, I doubt not, I shall make her uniformly
+indeed sometimes. In [[Time|time]], I [[Doubt|doubt]] not, I shall make her uniformly
 
 sedate and decorous, without being unaccountably pensive. I ever
 
@@ -156,11 +156,11 @@ the benefit of my instructions--besides, one should not be apathetic in
 
 studying standard works. The other day I put into her hands a volume of
 
-short fugitive pieces. I sent her to the window to learn one by heart,
+short fugitive pieces. I sent her to the [[Window|window]] to learn one by heart,
 
-and when I looked up I saw her turning the leaves over impatiently, and
+and when I looked up I saw her turning the [[Leaves|leaves]] over impatiently, and
 
-curling her lip, absolutely with scorn, as she surveyed the little poems
+curling her lip, absolutely with scorn, as she surveyed the little [[Poems|poems]]
 
 cursorily. I chid her. 'Ma cousine,' said she, 'tout cela m'ennuie à la
 
@@ -198,13 +198,13 @@ the perfect control and guidance of her feelings."
 
 
 
-"Be sure you do, Hortense. Here she comes. That was her shadow passed
+"Be sure you do, Hortense. Here she comes. That was her [[Shadow|shadow]] passed
 
-the window, I believe."
+the [[Window|window]], I believe."
 
 
 
-"Ah! truly. She is too early--half an hour before her time.--My child,
+"Ah! truly. She is too early--half an hour before her [[Time|time]].--My [[Child|child]],
 
 what brings you here before I have breakfasted?"
 
@@ -212,7 +212,7 @@ what brings you here before I have breakfasted?"
 
 This question was addressed to an individual who now entered the room, a
 
-young girl, wrapped in a winter mantle, the folds of which were gathered
+young girl, wrapped in a [[Winter|winter]] mantle, the folds of which were gathered
 
 with some grace round an apparently slender figure.
 
@@ -220,7 +220,7 @@ with some grace round an apparently slender figure.
 
 "I came in haste to see how you were, Hortense, and how Robert was too.
 
-I was sure you would be both grieved by what happened last night. I did
+I was sure you would be both grieved by what happened last [[Night|night]]. I did
 
 not hear till this morning. My uncle told me at breakfast."
 

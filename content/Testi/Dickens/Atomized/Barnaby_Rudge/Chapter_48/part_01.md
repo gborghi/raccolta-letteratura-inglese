@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 48 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 48 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -20,7 +20,7 @@ Chapter 48
 Uncertain where to go next, and bewildered by the crowd of people who
 were already astir, they sat down in one of the recesses on the bridge,
 to rest. They soon became aware that the stream of life was all pouring
-one way, and that a vast throng of persons were crossing the river
+one way, and that a vast throng of persons were crossing the [[River|river]]
 from the Middlesex to the Surrey shore, in unusual haste and evident
 excitement. They were, for the most part, in knots of two or three, or
 sometimes half-a-dozen; they spoke little together--many of them were
@@ -37,12 +37,12 @@ inferiority in point of numbers; for the proportion of those who wore
 blue cockades, to those who were dressed as usual, was at least forty or
 fifty to one. There was no quarrelling, however: the blue cockades went
 swarming on, passing each other when they could, and making all the
-speed that was possible in such a multitude; and exchanged nothing more
+[[Speed|speed]] that was possible in such a multitude; and exchanged nothing more
 than looks, and very often not even those, with such of the passers-by
 as were not of their number.
 
 At first, the current of people had been confined to the two pathways,
-and but a few more eager stragglers kept the road. But after half an
+and but a few more eager stragglers kept the [[Road|road]]. But after half an
 hour or so, the passage was completely blocked up by the great press,
 which, being now closely wedged together, and impeded by the carts and
 coaches it encountered, moved but slowly, and was sometimes at a stand
@@ -54,32 +54,32 @@ bridge quite clear, save that, now and then, some hot and dusty man,
 with the cockade in his hat, and his coat thrown over his shoulder, went
 panting by, fearful of being too late, or stopped to ask which way
 his friends had taken, and being directed, hastened on again like one
-refreshed. In this comparative solitude, which seemed quite strange
-and novel after the late crowd, the widow had for the first time an
+refreshed. In this comparative [[Solitude|solitude]], which seemed quite strange
+and [[Novel|novel]] after the late crowd, the widow had for the first [[Time|time]] an
 opportunity of inquiring of an old man who came and sat beside them,
 what was the meaning of that great assemblage.
 
 ‘Why, where have you come from,’ he returned, ‘that you haven’t heard of
-Lord George Gordon’s great association? This is the day that he presents
+[[Lord George Gordon]]’s great association? This is the day that he presents
 the petition against the Catholics, God bless him!’
 
 ‘What have all these men to do with that?’ she said.
 
 ‘What have they to do with it!’ the old man replied. ‘Why, how you talk!
 Don’t you know his lordship has declared he won’t present it to the
-house at all, unless it is attended to the door by forty thousand good
+[[house]] at all, unless it is attended to the door by forty thousand good
 and true men at least? There’s a crowd for you!’
 
 ‘A crowd indeed!’ said Barnaby. ‘Do you hear that, mother!’
 
 ‘And they’re mustering yonder, as I am told,’ resumed the old man, ‘nigh
-upon a hundred thousand strong. Ah! Let Lord George alone. He knows
+upon a hundred thousand strong. Ah! Let Lord George [[Alone|alone]]. He knows
 his power. There’ll be a good many faces inside them three windows over
-there,’ and he pointed to where the House of Commons overlooked the
-river, ‘that’ll turn pale when good Lord George gets up this afternoon,
-and with reason too! Ay, ay. Let his lordship alone. Let him alone.
+there,’ and he pointed to where the [[house|House]] of Commons overlooked the
+[[River|river]], ‘that’ll turn pale when good Lord George gets up this afternoon,
+and with reason too! Ay, ay. Let his lordship [[Alone|alone]]. Let him [[Alone|alone]].
 HE knows!’ And so, with much mumbling and chuckling and shaking of his
-forefinger, he rose, with the assistance of his stick, and tottered off.
+forefinger, he [[Rose|rose]], with the assistance of his stick, and tottered off.
 
 ‘Mother!’ said Barnaby, ‘that’s a brave crowd he talks of. Come!’
 
@@ -90,7 +90,7 @@ forefinger, he rose, with the assistance of his stick, and tottered off.
 ‘You don’t know,’ she urged, ‘what mischief they may do, where they may
 lead you, what their meaning is. Dear Barnaby, for my sake--’
 
-‘For your sake!’ he cried, patting her hand. ‘Well! It IS for your sake,
+‘For your sake!’ he cried, patting her hand. ‘[[Well]]! It IS for your sake,
 mother. You remember what the blind man said, about the gold. Here’s a
 brave crowd! Come! Or wait till I come back--yes, yes, wait here.’
 
@@ -120,7 +120,7 @@ drive on fast; and left them.
 
 With hands that trembled with his eagerness to fix the bauble in his
 hat, Barnaby was adjusting it as he best could, and hurriedly replying
-to the tears and entreaties of his mother, when two gentlemen passed on
+to the [[Tears|tears]] and entreaties of his mother, when two gentlemen passed on
 the opposite side of the way. Observing them, and seeing how Barnaby was
 occupied, they stopped, whispered together for an instant, turned back,
 and came over to them.
@@ -130,8 +130,8 @@ suit of black, wore long lank hair, and carried a great cane. ‘Why have
 you not gone with the rest?’
 
 ‘I am going, sir,’ replied Barnaby, finishing his task, and putting his
-hat on with an air of pride. ‘I shall be there directly.’
+hat on with an air of [[Pride|pride]]. ‘I shall be there directly.’
 
-‘Say “my lord,” young man, when his lordship does you the honour of
+‘Say “my lord,” young man, when his lordship does you the [[Honour|honour]] of
 speaking to you,’ said the second gentleman mildly. ‘If you don’t know
-Lord George Gordon when you see him, it’s high time you should.’
+[[Lord George Gordon]] when you see him, it’s high [[Time|time]] you should.’

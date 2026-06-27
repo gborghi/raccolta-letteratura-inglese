@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 17 (part 1)"
+title: "[[Don Quixote]] — Chapter 17 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -16,12 +16,12 @@ tags:
 
 CHAPTER XVII
 
-THE DEPARTURE OF DON QUIXOTE
+THE DEPARTURE OF [[Don Quixote|DON QUIXOTE]]
 
 And all this first hubbub, the two noblemen who had been named sat
 as still and stiff as mummies; though the reason of the rigidity
 might differ.  Lord Seawood was simply gaping; he wore such an
-expression as the human head might wear if the body were suddenly
+expression as the human head might wear if the [[Body|body]] were suddenly
 blown away from under it and it were left hanging in midair.
 The judge might be joking; but it was not so that a judge should joke.
 And if he was not joking . . . where was earth and air and sky?
@@ -35,9 +35,9 @@ of it goes.  Here again it is essential to understand such
 statements with a certain logical precision.  If we are defining
 or describing a Craft or Trade, as it originally was and as it
 reasonably should be, that is the statement and we ask no other.
-The government of such a craft or trade rests of right with the master
+The [[government]] of such a craft or trade rests of right with the master
 craftsmen and master traders.  But the old order recognised other
-rights as well; and among them the right of private property.
+rights as [[Well|well]]; and among them the right of private property.
 The craftsman worked and the trader traded with his own private property.
 In a case like the present, we must admit that even if the abstract
 right of management ought to belong to the workers, the materials
@@ -61,7 +61,7 @@ for securing the whole of any particular material in the market.
 Outside such crimes, however, which were often severely
 punished by the pillory and even by the gallows, the personal
 possession of wealth was accepted as normal; and I cannot see
-any reasonable doubt that the personal wealth of these three
+any reasonable [[Doubt|doubt]] that the personal wealth of these three
 persons is what is actually being employed in this industry.
 It is, I may remark, the greater part of their personal wealth.
 Two of them are the titular owners of large landed estates;
@@ -76,21 +76,21 @@ from the chemical works where these by-products are used.
 It only remains to ask by what form of commercial enterprise
 such a superiority has been achieved."
 
-A curious change had come over the audience by this time.
+A curious change had come over the audience by this [[Time|time]].
 Most of them, lulled by the familiar phrases of the magnificent
 prospectus or commercial report, had nodded themselves
 almost into a slumber of agreement.  But, what was much
-more remarkable, for the first time Lord Seawood was smiling;
+more remarkable, for the first [[Time|time]] Lord Seawood was smiling;
 and Lord Eden was not.
 
 "It so happens that an accident, or rather an adventure
 (one of the most honourable adventures of the new Comrades
 of this Realm) has revealed the facts about a typical test case.
-We actually have before us the history of a master Craftsman
+We actually have before us the [[history]] of a master Craftsman
 of the older sort; one who undoubtedly compounded his own
 pigments with his own hands and in accordance with his own
 taste and judgment; and who produced thereby a particular
-article which the best artists of his time regarded as unique
+article which the best artists of his [[Time|time]] regarded as unique
 and which later artists have tried in vain to replace.
 The article is not sold by the Coal-Tar Colour and Dye Company.
 The man is not in any way profited, or even employed,
@@ -100,7 +100,7 @@ to that Masterpiece?  What has happened to that Master?
 "From information laid before me by the gallant gentlemen I
 have mentioned, I am in a position to say what happened to them.
 The man was beaten down to a condition of beggary,
-was so much broken by despair as to be accused of insanity;
+was so much broken by [[Despair|despair]] as to be accused of insanity;
 and it is perfectly clear that the methods employed to drive him
 from his shop and his livelihood were the methods of which I
 have spoken; the buying up of materials before they could
@@ -116,7 +116,7 @@ Then he named the three again formally and at length in a hard voice;
 but upon the name of Lord Seawood his voice seemed for an instant
 to break.  He did not look at any face in the crowd.
 
-"On this second point, therefore, the Court of Arbitrament decides that
+"On this second point, therefore, the [[Court]] of Arbitrament decides that
 the private property employed in this business is not lawfully acquired;
 and cannot plead, as it normally would, the privilege of just possession.
 To sum up, it is decreed, first that the craft should be ruled by its
@@ -126,4 +126,4 @@ We shall adjudge to the Guild--."
 
 Old Seawood sprang up as if galvanised; and a simple sort of vainglory
 deeper than all Victorian vanities came gasping to the surface like a
-drowning thing.  He forgot even the snobbish fear of snobbishness.
+drowning thing.  He forgot even the snobbish [[Fear|fear]] of snobbishness.

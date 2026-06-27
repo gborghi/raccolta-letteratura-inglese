@@ -24,8 +24,8 @@ grows all the grapes and peaches, and designs all the patterns on
 the carpets? I've always heard he was a busy man."
 "I don't think he mentioned it," answered the lawyer. "What is the
 
-meaning of this social satire?"
-"Well, I am a trifle tired," said Fisher, "of the Simple Life and
+meaning of this social [[Satire|satire]]?"
+"[[Well]], I am a trifle tired," said Fisher, "of the Simple Life and
 
 the Strenuous Life as lived by our little set. We're all really
 
@@ -47,7 +47,7 @@ extraordinary old clothes as he wears. He must have them looked up
 
 in the British Museum or excavated out of the tombs. That white hat
 
-alone must require a sort of expedition fitted out to find it, like
+[[Alone|alone]] must require a sort of expedition fitted out to find it, like
 
 the North Pole. And here we have old Hook pretending to produce his
 
@@ -65,7 +65,7 @@ at work."
 of being useful sometimes. Haven't you come down here to see Number
 
 One before he goes on to Birmingham?"
-Horne Fisher answered, in a lower voice: "Yes; and I hope to be
+Horne Fisher answered, in a lower voice: "Yes; and I [[Hope|hope]] to be
 
 lucky enough to catch him before dinner. He's got to see Sir Isaac
 
@@ -92,7 +92,7 @@ civilly saluting them. There were several fish in his basket and he
 was in a good temper.
 "Yes," he said, acknowledging Fisher's polite expression of
 
-surprise, "I get up before anybody else in the house, I think. The
+surprise, "I get up before anybody else in the [[house]], I think. The
 
 early bird catches the worm."
 "Unfortunately," said Harker, "it is the early fish that catches the
@@ -101,10 +101,10 @@ worm."
 "But the early man catches the fish," replied the old man, gruffly.
 "But from what I hear, Sir Isaac, you are the late man, too,"
 
-interposed Fisher. "You must do with very little sleep."
-"I never had much time for sleeping," answered Hook, "and I shall
+interposed Fisher. "You must do with very little [[Sleep|sleep]]."
+"I never had much [[Time|time]] for sleeping," answered Hook, "and I shall
 
-have to be the late man to-night, anyhow. The Prime Minister wants
+have to be the late man to-[[Night|night]], anyhow. The Prime Minister wants
 
 to have a talk, he tells me, and, all things considered, I think
 
@@ -115,12 +115,12 @@ enough but ceremonial trifles. The Prime Minister, Lord Merivale,
 
 who was a long, slim man with curly gray hair, was gravely
 
-complimentary to his host about his success as a fisherman and the
+complimentary to his host about his [[success]] as a fisherman and the
 
 skill and patience he displayed; the conversation flowed like the
 
 shallow stream through the stepping-stones.
-"It wants patience to wait for them, no doubt," said Sir Isaac, "and
+"It wants patience to wait for them, no [[Doubt|doubt]]," said Sir Isaac, "and
 
 skill to play them, but I'm generally pretty lucky at it."
 "Does a big fish ever break the line and get away?" inquired the
@@ -130,11 +130,11 @@ politician, with respectful interest.
 
 rather specialize in tackle, as a matter of fact. If he were strong
 
-enough to do that, he'd be strong enough to pull me into the river."
+enough to do that, he'd be strong enough to pull me into the [[River|river]]."
 "A great loss to the community," said the Prime Minister, bowing.
 Fisher had listened to all these futilities with inward impatience,
 
-waiting for his own opportunity, and when the host rose he sprang to
+waiting for his own opportunity, and when the host [[Rose|rose]] he sprang to
 
 his feet with an alertness he rarely showed. He managed to catch
 
@@ -145,13 +145,13 @@ He said, in a low voice as he opened the door for the Premier, "I
 
 have seen Montmirail; he says that unless we protest immediately on
 
-behalf of Denmark, Sweden will certainly seize the ports."
+behalf of [[Denmark]], Sweden will certainly seize the ports."
 Lord Merivale nodded. "I'm just going to hear what Hook has to say
 
 about it," he said.
 "I imagine," said Fisher, with a faint smile, "that there is very
 
-little doubt what he will say about it."
+little [[Doubt|doubt]] what he will say about it."
 Merivale did not answer, but lounged gracefully toward the library,
 
 whither his host had already preceded him. The rest drifted toward
@@ -177,10 +177,10 @@ it was not many hours later when the first sensation of that strange
 
 day came upon them. It came in the form of a young man with light
 
-hair and a candid expression, who came sculling down the river and
+hair and a candid expression, who came sculling down the [[River|river]] and
 
 disembarked at the landing stage. It was, in fact, no other than Mr.
 
-Harold March, whose journey had begun far away up the river in the
+Harold March, whose [[Journey|journey]] had begun far away up the [[River|river]] in the
 
 earliest hours of that day. He arrived late in the afternoon, having

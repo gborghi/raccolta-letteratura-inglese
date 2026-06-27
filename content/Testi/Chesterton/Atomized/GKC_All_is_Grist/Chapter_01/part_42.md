@@ -36,7 +36,7 @@ though those old republicans were a hundred times more intelligent
 than most of our twentieth century sceptics.  Still, some of
 those charming philosophical gentlemen, of the age of Rousseau
 and Voltaire, did tend to talk as if the Natural Man would find
-it easy to break the sword when once he had broken the sceptre.
+it easy to break the [[Sword|sword]] when once he had broken the sceptre.
 They did talk as if nobody but kings would ever want cannons, and battles
 could only arise out of the dynastic ambitions of despotic states.
 We all know the ironic but very inspiring sequel.  The sequel
@@ -53,7 +53,7 @@ also began by being pacifists.  They also set all their hopes
 on merely dissolving the discipline of the despotic armies.
 They also seem never to have reflected that they would want to
 have revolutionist armies, if only to fight the despotic armies.
-And of course, in an incredibly short period of time, they found
+And of course, in an incredibly short period of [[Time|time]], they found
 out the very simple fact that revolutionists cannot be pacifists.
 They may set up what they call a peaceful republic, but they have
 to make up their minds what to do, if other people will not leave
@@ -82,7 +82,7 @@ T HE newspapers very frequently, perhaps too frequently, describe to us
 the Victorian Girl, who was always covered with blushes and confusion.
 On the other hand, the Modern Girl has more and more of the confusion,
 as she has less and less of the blushes.  Confusion of thought,
-confusion of phraseology, confusion of philosophy, deepen and darken
+confusion of phraseology, confusion of [[philosophy]], deepen and darken
 upon her as she advances into what she regards as the daylight,
 or the sunlight of the Sun Cure.  She and all her world seem to
 have got into a hopeless chaos about deciding the real principles
@@ -95,7 +95,7 @@ It may be worth while that some of them should be sorted out,
 before there are too many of them to be counted.
 
 To begin with, there is the great contradiction that the modern
-person pretends to be at once too innocent and too sophisticated.
+person pretends to be at once too [[Innocent|innocent]] and too sophisticated.
 First he says that certain sins are so remote and repulsive
 that only a low-minded spy would suspect their existence.
 Then he goes on to say that these sins are not so very bad,
@@ -104,28 +104,28 @@ in heart all things are pure'; and then goes on to explain that there
 is really no such thing as purity.  He calls the moralist a Puritan,
 as the most withering of all terms of abuse; which is very amusing
 to some of us, who remember how recently we were called upon
-to admire the Puritanism of the Mayflower and the execution
+to admire the [[Puritanism]] of the Mayflower and the execution
 of Charles the First, and to pardon the massacre of Wexford
-and the witch-smelling of Salem merely because they were Puritan.
+and the [[Witch|witch]]-smelling of Salem merely because they were Puritan.
 He describes any decent citizen as Nosey Parker or (with a touch
 of fierce anti-feminism) as Mrs. Grundy; all with the object of
-suggesting that nobody but a person with an impure imagination could
-see anything but spotless purity in the pagan habits of our time.
+suggesting that nobody but a person with an impure [[Imagination|imagination]] could
+see anything but spotless purity in the pagan habits of our [[Time|time]].
 
-Well, all that is applicable enough, when there is really anybody to
-apply it to.  I have myself protested against Puritanism and Parkerism
+[[Well]], all that is applicable enough, when there is really anybody to
+apply it to.  I have myself protested against [[Puritanism]] and Parkerism
 and the sour vigilance that would arrest the amusements of the populace.
 I entirely agree that it is disgusting to be nosey about anything
 that is normal; such as dancing or swimming, considered in themselves.
 My position on that point is what it has always been, and my
 position is perfectly clear.  But the position of the New Pagan
 is not in the least clear.  For the New Pagan attempts to maintain,
-at the same time, that the real violation of Christian morals is
+at the same [[Time|time]], that the real violation of Christian morals is
 unimportant to the Pagan moralist.  But in that case, how can it
 be wrong for the Christian moralist to accuse the Pagan moralist?
 The Christian cannot be merely morbid in saying that sin is involved,
 if the Pagan says that sin is irrelevant even if it is involved.
-I may be mad if I accuse my friend Smith of stealing the spoons,
+I may be mad if I accuse my friend [[smith|Smith]] of stealing the spoons,
 when he is a respectable person with the ordinary respect
 for private property.  But I cannot be morbidly and insanely
 malicious when I say he might steal the spoons, if he says himself

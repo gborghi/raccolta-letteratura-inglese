@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 7: The Child of the Marshalsea"
+title: "Little Dorrit — Chapter 7: The [[Child]] of the Marshalsea"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-CHAPTER 7. The Child of the Marshalsea
+CHAPTER 7. The [[Child]] of the Marshalsea
 
 
 The baby whose first draught of air had been tinctured with Doctor
 Haggage’s brandy, was handed down among the generations of collegians,
 like the tradition of their common parent. In the earlier stages of her
 existence, she was handed down in a literal and prosaic sense; it being
-almost a part of the entrance footing of every new collegian to nurse
-the child who had been born in the college.
+almost a part of the entrance footing of every new collegian to [[Nurse|nurse]]
+the [[Child|child]] who had been born in the college.
 
 ‘By rights,’ remarked the turnkey when she was first shown to him, ‘I
 ought to be her godfather.’
@@ -32,18 +32,18 @@ you wouldn’t object to really being her godfather?’
 
 ‘Oh! _I_ don’t object,’ replied the turnkey, ‘if you don’t.’
 
-Thus it came to pass that she was christened one Sunday afternoon, when
+Thus it came to pass that she was christened one [[Sunday]] afternoon, when
 the turnkey, being relieved, was off the lock; and that the turnkey
 went up to the font of Saint George’s Church, and promised and vowed and
 renounced on her behalf, as he himself related when he came back, ‘like
 a good ‘un.’
 
-This invested the turnkey with a new proprietary share in the child,
+This invested the turnkey with a new proprietary share in the [[Child|child]],
 over and above his former official one. When she began to walk and talk,
 he became fond of her; bought a little arm-chair and stood it by the
-high fender of the lodge fire-place; liked to have her company when he
+high fender of the lodge [[Fire|fire]]-place; liked to have her company when he
 was on the lock; and used to bribe her with cheap toys to come and talk
-to him. The child, for her part, soon grew so fond of the turnkey that
+to him. The [[Child|child]], for her part, soon grew so fond of the turnkey that
 she would come climbing up the lodge-steps of her own accord at all
 hours of the day. When she fell asleep in the little armchair by the
 high fender, the turnkey would cover her with his pocket-handkerchief;
@@ -52,7 +52,7 @@ to be unlike dolls on the other side of the lock, and to bear a horrible
 family resemblance to Mrs Bangham--he would contemplate her from the
 top of his stool with exceeding gentleness. Witnessing these things,
 the collegians would express an opinion that the turnkey, who was a
-bachelor, had been cut out by nature for a family man. But the turnkey
+bachelor, had been cut out by [[Nature|nature]] for a family man. But the turnkey
 thanked them, and said, ‘No, on the whole it was enough to see other
 people’s children there.’
 
@@ -63,22 +63,22 @@ difficult question to settle. But she was a very, very little creature
 indeed, when she had somehow gained the knowledge that her clasp of her
 father’s hand was to be always loosened at the door which the great key
 opened; and that while her own light steps were free to pass beyond it,
-his feet must never cross that line. A pitiful and plaintive look, with
+his feet must never [[Cross|cross]] that line. A pitiful and plaintive look, with
 which she had begun to regard him when she was still extremely young,
 was perhaps a part of this discovery.
 
 With a pitiful and plaintive look for everything, indeed, but with
-something in it for only him that was like protection, this Child of
-the Marshalsea and the child of the Father of the Marshalsea, sat by her
+something in it for only him that was like protection, this [[Child]] of
+the Marshalsea and the [[Child|child]] of the Father of the Marshalsea, sat by her
 friend the turnkey in the lodge, kept the family room, or wandered about
-the prison-yard, for the first eight years of her life. With a pitiful
+the [[Prison|prison]]-yard, for the first eight years of her life. With a pitiful
 and plaintive look for her wayward sister; for her idle brother; for the
 high blank walls; for the faded crowd they shut in; for the games of the
-prison children as they whooped and ran, and played at hide-and-seek,
-and made the iron bars of the inner gateway ‘Home.’
+[[Prison|prison]] children as they whooped and ran, and played at hide-and-seek,
+and made the iron bars of the inner gateway ‘[[Home]].’
 
-Wistful and wondering, she would sit in summer weather by the high
-fender in the lodge, looking up at the sky through the barred window,
+Wistful and wondering, she would sit in [[Summer|summer]] weather by the high
+fender in the lodge, looking up at the sky through the barred [[Window|window]],
 until, when she turned her eyes away, bars of light would arise between
 her and her friend, and she would see him through a grating, too.
 
@@ -92,12 +92,12 @@ flourish of his key. ‘Just about there.’
 
 ‘Does anybody open them, and shut them? Are they locked?’
 
-The turnkey was discomfited. ‘Well,’ he said. ‘Not in general.’
+The turnkey was discomfited. ‘[[Well]],’ he said. ‘Not in general.’
 
 ‘Are they very pretty, Bob?’ She called him Bob, by his own particular
 request and instruction.
 
-‘Lovely. Full of flowers. There’s buttercups, and there’s daisies,
+‘Lovely. Full of [[Flowers|flowers]]. There’s buttercups, and there’s daisies,
 and there’s’--the turnkey hesitated, being short of floral
 nomenclature--‘there’s dandelions, and all manner of games.’
 
@@ -119,19 +119,19 @@ within. ‘O are you quite sure and certain, Bob?’
 At this difficult point of the conversation Bob gave in, and changed the
 subject to hard-bake: always his last resource when he found his little
 friend getting him into a political, social, or theological corner.
-But this was the origin of a series of Sunday excursions that these two
+But this was the origin of a series of [[Sunday]] excursions that these two
 curious companions made together. They used to issue from the lodge on
-alternate Sunday afternoons with great gravity, bound for some meadows
+alternate [[Sunday]] afternoons with great gravity, bound for some meadows
 or green lanes that had been elaborately appointed by the turnkey in
-the course of the week; and there she picked grass and flowers to bring
-home, while he smoked his pipe. Afterwards, there were tea-gardens,
+the course of the week; and there she picked grass and [[Flowers|flowers]] to bring
+[[Home|home]], while he smoked his pipe. Afterwards, there were tea-gardens,
 shrimps, ale, and other delicacies; and then they would come back hand
 in hand, unless she was more than usually tired, and had fallen asleep
 on his shoulder.
 
 In those early days, the turnkey first began profoundly to consider
 a question which cost him so much mental labour, that it remained
-undetermined on the day of his death. He decided to will and bequeath
+undetermined on the day of his [[Death|death]]. He decided to will and bequeath
 his little property of savings to his godchild, and the point arose how
 could it be so ‘tied up’ as that only she should have the benefit of
 it? His experience on the lock gave him such an acute perception of the
@@ -167,40 +167,40 @@ all his life, and died intestate after all.
 But that was long afterwards, when his god-daughter was past sixteen.
 The first half of that space of her life was only just accomplished,
 when her pitiful and plaintive look saw her father a widower. From that
-time the protection that her wondering eyes had expressed towards him,
-became embodied in action, and the Child of the Marshalsea took upon
+[[Time|time]] the protection that her wondering eyes had expressed towards him,
+became embodied in action, and the [[Child]] of the Marshalsea took upon
 herself a new relation towards the Father.
 
 At first, such a baby could do little more than sit with him, deserting
 her livelier place by the high fender, and quietly watching him. But
 this made her so far necessary to him that he became accustomed to her,
 and began to be sensible of missing her when she was not there. Through
-this little gate, she passed out of childhood into the care-laden world.
+this little gate, she passed out of [[Childhood|childhood]] into the care-laden world.
 
-What her pitiful look saw, at that early time, in her father, in her
+What her pitiful look saw, at that early [[Time|time]], in her father, in her
 sister, in her brother, in the jail; how much, or how little of the
-wretched truth it pleased God to make visible to her; lies hidden with
+wretched [[Truth|truth]] it pleased God to make visible to her; lies hidden with
 many mysteries. It is enough that she was inspired to be something which
 was not what the rest were, and to be that something, different and
 laborious, for the sake of the rest. Inspired? Yes. Shall we speak of
 the inspiration of a poet or a priest, and not of the heart impelled by
-love and self-devotion to the lowliest work in the lowliest way of life!
+[[Love|love]] and [[Self|self]]-devotion to the lowliest work in the lowliest way of life!
 
 With no earthly friend to help her, or so much as to see her, but the
 one so strangely assorted; with no knowledge even of the common daily
 tone and habits of the common members of the free community who are not
 shut up in prisons; born and bred in a social condition, false even with
 a reference to the falsest condition outside the walls; drinking from
-infancy of a well whose waters had their own peculiar stain, their own
-unwholesome and unnatural taste; the Child of the Marshalsea began her
+infancy of a [[Well|well]] whose waters had their own peculiar stain, their own
+unwholesome and unnatural taste; the [[Child]] of the Marshalsea began her
 womanly life.
 
 No matter through what mistakes and discouragements, what ridicule (not
 unkindly meant, but deeply felt) of her youth and little figure, what
 humble consciousness of her own babyhood and want of strength, even
 in the matter of lifting and carrying; through how much weariness
-and hopelessness, and how many secret tears; she drudged on, until
-recognised as useful, even indispensable. That time came. She took the
+and hopelessness, and how many secret [[Tears|tears]]; she drudged on, until
+recognised as useful, even indispensable. That [[Time|time]] came. She took the
 place of eldest of the three, in all things but precedence; was the
 head of the fallen family; and bore, in her own heart, its anxieties and
 shames.
@@ -208,17 +208,17 @@ shames.
 At thirteen, she could read and keep accounts, that is, could put down
 in words and figures how much the bare necessaries that they wanted
 would cost, and how much less they had to buy them with. She had been,
-by snatches of a few weeks at a time, to an evening school outside,
+by snatches of a few weeks at a [[Time|time]], to an evening school outside,
 and got her sister and brother sent to day-schools by desultory starts,
 during three or four years. There was no instruction for any of them at
-home; but she knew well--no one better--that a man so broken as to be
+[[Home|home]]; but she knew [[Well|well]]--no one better--that a man so broken as to be
 the Father of the Marshalsea, could be no father to his own children.
 
 To these scanty means of improvement, she added another of her own
 contriving. Once, among the heterogeneous crowd of inmates there
-appeared a dancing-master. Her sister had a great desire to learn the
+appeared a dancing-master. Her sister had a great [[Desire|desire]] to learn the
 dancing-master’s art, and seemed to have a taste that way. At thirteen
-years old, the Child of the Marshalsea presented herself to the
+years old, the [[Child]] of the Marshalsea presented herself to the
 dancing-master, with a little bag in her hand, and preferred her humble
 petition.
 
@@ -235,35 +235,35 @@ surveying the small figure and uplifted face.
 the little bag; ‘but if, while you stay here, you could be so kind as to
 teach my sister cheap--’
 
-‘My child, I’ll teach her for nothing,’ said the dancing-master,
+‘My [[Child|child]], I’ll teach her for nothing,’ said the dancing-master,
 shutting up the bag. He was as good-natured a dancing-master as ever
-danced to the Insolvent Court, and he kept his word. The sister was so
+danced to the Insolvent [[Court]], and he kept his word. The sister was so
 apt a pupil, and the dancing-master had such abundant leisure to bestow
 upon her (for it took him a matter of ten weeks to set to his creditors,
 lead off, turn the Commissioners, and right and left back to his
 professional pursuits), that wonderful progress was made. Indeed the
 dancing-master was so proud of it, and so wishful to display it before
 he left to a few select friends among the collegians, that at six
-o’clock on a certain fine morning, a minuet de la cour came off in
+o’[[Clock|clock]] on a certain fine morning, a minuet de la cour came off in
 the yard--the college-rooms being of too confined proportions for the
 purpose--in which so much ground was covered, and the steps were so
 conscientiously executed, that the dancing-master, having to play the
 kit besides, was thoroughly blown.
 
-The success of this beginning, which led to the dancing-master’s
-continuing his instruction after his release, emboldened the poor child
+The [[success]] of this beginning, which led to the dancing-master’s
+continuing his instruction after his release, emboldened the poor [[Child|child]]
 to try again. She watched and waited months for a seamstress. In the
-fulness of time a milliner came in, and to her she repaired on her own
+fulness of [[Time|time]] a milliner came in, and to her she repaired on her own
 behalf.
 
 ‘I beg your pardon, ma’am,’ she said, looking timidly round the door of
-the milliner, whom she found in tears and in bed: ‘but I was born here.’
+the milliner, whom she found in [[Tears|tears]] and in bed: ‘but I was born here.’
 
 Everybody seemed to hear of her as soon as they arrived; for the
 milliner sat up in bed, drying her eyes, and said, just as the
 dancing-master had said:
 
-‘Oh! _You_ are the child, are you?’
+‘Oh! _You_ are the [[Child|child]], are you?’
 
 ‘Yes, ma’am.’
 
@@ -285,41 +285,41 @@ same.’
 
 ‘And you are so very, very little, you see,’ the milliner objected.
 
-‘Yes, I am afraid I am very little indeed,’ returned the Child of the
+‘Yes, I am afraid I am very little indeed,’ returned the [[Child]] of the
 Marshalsea; and so began to sob over that unfortunate defect of hers,
 which came so often in her way. The milliner--who was not morose or
 hard-hearted, only newly insolvent--was touched, took her in hand with
 goodwill, found her the most patient and earnest of pupils, and made her
-a cunning work-woman in course of time.
+a cunning work-woman in course of [[Time|time]].
 
-In course of time, and in the very self-same course of time, the Father
+In course of [[Time|time]], and in the very [[Self|self]]-same course of [[Time|time]], the Father
 of the Marshalsea gradually developed a new flower of character. The
 more Fatherly he grew as to the Marshalsea, and the more dependent he
 became on the contributions of his changing family, the greater stand
 he made by his forlorn gentility. With the same hand that he pocketed
-a collegian’s half-crown half an hour ago, he would wipe away the
-tears that streamed over his cheeks if any reference were made to his
+a collegian’s half-[[Crown|crown]] half an hour ago, he would wipe away the
+[[Tears|tears]] that streamed over his cheeks if any reference were made to his
 daughters’ earning their bread. So, over and above other daily cares,
-the Child of the Marshalsea had always upon her the care of preserving
+the [[Child]] of the Marshalsea had always upon her the care of preserving
 the genteel fiction that they were all idle beggars together.
 
 The sister became a dancer. There was a ruined uncle in the family
 group--ruined by his brother, the Father of the Marshalsea, and knowing
 no more how than his ruiner did, but accepting the fact as an inevitable
 certainty--on whom her protection devolved. Naturally a retired and
-simple man, he had shown no particular sense of being ruined at the time
+simple man, he had shown no particular sense of being ruined at the [[Time|time]]
 when that calamity fell upon him, further than that he left off washing
 himself when the shock was announced, and never took to that luxury any
 more. He had been a very indifferent musical amateur in his better days;
 and when he fell with his brother, resorted for support to playing a
 clarionet as dirty as himself in a small Theatre Orchestra. It was the
 theatre in which his niece became a dancer; he had been a fixture there
-a long time when she took her poor station in it; and he accepted
+a long [[Time|time]] when she took her poor station in it; and he accepted
 the task of serving as her escort and guardian, just as he would have
 accepted an illness, a legacy, a feast, starvation--anything but soap.
 
 To enable this girl to earn her few weekly shillings, it was necessary
-for the Child of the Marshalsea to go through an elaborate form with the
+for the [[Child]] of the Marshalsea to go through an elaborate form with the
 Father.
 
 ‘Fanny is not going to live with us just now, father. She will be here a
@@ -330,28 +330,28 @@ good deal in the day, but she is going to live outside with uncle.’
 ‘I think uncle wants a companion, father. He should be attended to, and
 looked after.’
 
-‘A companion? He passes much of his time here. And you attend to him and
+‘A companion? He passes much of his [[Time|time]] here. And you attend to him and
 look after him, Amy, a great deal more than ever your sister will. You
 all go out so much; you all go out so much.’
 
 This was to keep up the ceremony and pretence of his having no idea that
 Amy herself went out by the day to work.
 
-‘But we are always glad to come home, father; now, are we not? And as to
+‘But we are always glad to come [[Home|home]], father; now, are we not? And as to
 Fanny, perhaps besides keeping uncle company and taking care of him, it
-may be as well for her not quite to live here, always. She was not born
+may be as [[Well|well]] for her not quite to live here, always. She was not born
 here as I was, you know, father.’
 
-‘Well, Amy, well. I don’t quite follow you, but it’s natural I suppose
+‘[[Well]], Amy, [[Well|well]]. I don’t quite follow you, but it’s natural I suppose
 that Fanny should prefer to be outside, and even that you often should,
 too. So, you and Fanny and your uncle, my dear, shall have your own way.
 Good, good. I’ll not meddle; don’t mind me.’
 
-To get her brother out of the prison; out of the succession to Mrs
+To get her brother out of the [[Prison|prison]]; out of the succession to Mrs
 Bangham in executing commissions, and out of the slang interchange with
 very doubtful companions consequent upon both; was her hardest task. At
 eighteen he would have dragged on from hand to mouth, from hour to hour,
-from penny to penny, until eighty. Nobody got into the prison from whom
+from penny to penny, until eighty. Nobody got into the [[Prison|prison]] from whom
 he derived anything useful or good, and she could find no patron for him
 but her old friend and godfather.
 
@@ -364,7 +364,7 @@ fulfilment, as to sound Tip in reference to the expediency of running
 away and going to serve his country. But Tip had thanked him, and said
 he didn’t seem to care for his country.
 
-‘Well, my dear,’ said the turnkey, ‘something ought to be done with him.
+‘[[Well]], my dear,’ said the turnkey, ‘something ought to be done with him.
 Suppose I try and get him into the law?’
 
 ‘That would be so good of you, Bob!’
@@ -373,15 +373,15 @@ The turnkey had now two points to put to the professional gentlemen as
 they passed in and out. He put this second one so perseveringly that
 a stool and twelve shillings a week were at last found for Tip in the
 office of an attorney in a great National Palladium called the Palace
-Court; at that time one of a considerable list of everlasting bulwarks
+[[Court]]; at that [[Time|time]] one of a considerable list of everlasting bulwarks
 to the dignity and safety of Albion, whose places know them no more.
 
-Tip languished in Clifford’s Inns for six months, and at the expiration
+Tip languished in [[Clifford]]’s Inns for six months, and at the expiration
 of that term sauntered back one evening with his hands in his pockets,
 and incidentally observed to his sister that he was not going back
 again.
 
-‘Not going back again?’ said the poor little anxious Child of the
+‘Not going back again?’ said the poor little anxious [[Child]] of the
 Marshalsea, always calculating and planning for Tip, in the front rank
 of her charges.
 
@@ -389,25 +389,25 @@ of her charges.
 
 Tip tired of everything. With intervals of Marshalsea lounging, and Mrs
 Bangham succession, his small second mother, aided by her trusty friend,
-got him into a warehouse, into a market garden, into the hop trade,
+got him into a warehouse, into a market [[Garden|garden]], into the hop trade,
 into the law again, into an auctioneers, into a brewery, into a
 stockbroker’s, into the law again, into a coach office, into a waggon
 office, into the law again, into a general dealer’s, into a distillery,
-into the law again, into a wool house, into a dry goods house, into the
+into the law again, into a wool [[house]], into a dry goods [[house]], into the
 Billingsgate trade, into the foreign fruit trade, and into the docks.
 But whatever Tip went into, he came out of tired, announcing that he
 had cut it. Wherever he went, this foredoomed Tip appeared to take the
-prison walls with him, and to set them up in such trade or calling;
+[[Prison|prison]] walls with him, and to set them up in such trade or calling;
 and to prowl about within their narrow limits in the old slip-shod,
 purposeless, down-at-heel way; until the real immovable Marshalsea walls
 asserted their fascination over him, and brought him back.
 
 Nevertheless, the brave little creature did so fix her heart on her
 brother’s rescue, that while he was ringing out these doleful changes,
-she pinched and scraped enough together to ship him for Canada. When he
+she pinched and scraped enough together to [[Ship|ship]] him for Canada. When he
 was tired of nothing to do, and disposed in its turn to cut even that,
 he graciously consented to go to Canada. And there was grief in her
-bosom over parting with him, and joy in the hope of his being put in a
+bosom over parting with him, and joy in the [[Hope|hope]] of his being put in a
 straight course at last.
 
 ‘God bless you, dear Tip. Don’t be too proud to come and see us, when
@@ -416,7 +416,7 @@ you have made your fortune.’
 ‘All right!’ said Tip, and went.
 
 But not all the way to Canada; in fact, not further than Liverpool.
-After making the voyage to that port from London, he found himself
+After making the voyage to that port from [[London]], he found himself
 so strongly impelled to cut the vessel, that he resolved to walk back
 again. Carrying out which intention, he presented himself before her at
 the expiration of a month, in rags, without shoes, and much more tired
@@ -449,20 +449,20 @@ She lost sight of him for months afterwards, and only heard from him
 once. A whisper passed among the elder collegians that he had been seen
 at a mock auction in Moorfields, pretending to buy plated articles for
 massive silver, and paying for them with the greatest liberality in
-bank notes; but it never reached her ears. One evening she was alone at
-work--standing up at the window, to save the twilight lingering above
+bank notes; but it never reached her ears. One evening she was [[Alone|alone]] at
+work--standing up at the [[Window|window]], to save the twilight lingering above
 the wall--when he opened the door and walked in.
 
 She kissed and welcomed him; but was afraid to ask him any questions. He
 saw how anxious and timid she was, and appeared sorry.
 
-‘I am afraid, Amy, you’ll be vexed this time. Upon my life I am!’
+‘I am afraid, Amy, you’ll be vexed this [[Time|time]]. Upon my life I am!’
 
 ‘I am very sorry to hear you say so, Tip. Have you come back?’
 
 ‘Why--yes.’
 
-‘Not expecting this time that what you had found would answer very well,
+‘Not expecting this [[Time|time]] that what you had found would answer very [[Well|well]],
 I am less surprised and sorry than I might have been, Tip.’
 
 ‘Ah! But that’s not the worst of it.’
@@ -476,43 +476,43 @@ one of the regulars.’
 
 ‘Oh! Don’t say you are a prisoner, Tip! Don’t, don’t!’
 
-‘Well, I don’t want to say it,’ he returned in a reluctant tone; ‘but if
+‘[[Well]], I don’t want to say it,’ he returned in a reluctant tone; ‘but if
 you can’t understand me without my saying it, what am I to do? I am in
 for forty pound odd.’
 
-For the first time in all those years, she sunk under her cares. She
+For the first [[Time|time]] in all those years, she sunk under her cares. She
 cried, with her clasped hands lifted above her head, that it would kill
 their father if he ever knew it; and fell down at Tip’s graceless feet.
 
 It was easier for Tip to bring her to her senses than for her to bring
 _him_ to understand that the Father of the Marshalsea would be beside
-himself if he knew the truth. The thing was incomprehensible to Tip, and
+himself if he knew the [[Truth|truth]]. The thing was incomprehensible to Tip, and
 altogether a fanciful notion. He yielded to it in that light only, when
 he submitted to her entreaties, backed by those of his uncle and sister.
 There was no want of precedent for his return; it was accounted for
 to the father in the usual way; and the collegians, with a better
 comprehension of the pious fraud than Tip, supported it loyally.
 
-This was the life, and this the history, of the child of the Marshalsea
+This was the life, and this the [[history]], of the [[Child|child]] of the Marshalsea
 at twenty-two. With a still surviving attachment to the one miserable
-yard and block of houses as her birthplace and home, she passed to and
+yard and block of houses as her birthplace and [[Home|home]], she passed to and
 fro in it shrinkingly now, with a womanly consciousness that she was
 pointed out to every one. Since she had begun to work beyond the walls,
 she had found it necessary to conceal where she lived, and to come and
-go as secretly as she could, between the free city and the iron gates,
+go as secretly as she could, between the free [[City|city]] and the iron gates,
 outside of which she had never slept in her life. Her original timidity
 had grown with this concealment, and her light step and her little
 figure shunned the thronged streets while they passed along them.
 
-Worldly wise in hard and poor necessities, she was innocent in all
-things else. Innocent, in the mist through which she saw her father,
-and the prison, and the turbid living river that flowed through it and
+Worldly wise in hard and poor necessities, she was [[Innocent|innocent]] in all
+things else. [[Innocent]], in the mist through which she saw her father,
+and the [[Prison|prison]], and the turbid living [[River|river]] that flowed through it and
 flowed on.
 
-This was the life, and this the history, of Little Dorrit; now going
-home upon a dull September evening, observed at a distance by Arthur
-Clennam. This was the life, and this the history, of Little Dorrit;
-turning at the end of London Bridge, recrossing it, going back again,
+This was the life, and this the [[history]], of Little Dorrit; now going
+[[Home|home]] upon a dull September evening, observed at a distance by [[arthur|Arthur]]
+Clennam. This was the life, and this the [[history]], of Little Dorrit;
+turning at the end of [[London]] Bridge, recrossing it, going back again,
 passing on to Saint George’s Church, turning back suddenly once more,
-and flitting in at the open outer gate and little court-yard of the
+and flitting in at the open outer gate and little [[Court|court]]-yard of the
 Marshalsea.

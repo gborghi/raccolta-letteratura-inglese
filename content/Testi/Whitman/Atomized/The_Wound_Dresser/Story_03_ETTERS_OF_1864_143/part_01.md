@@ -28,9 +28,9 @@ Every form of wound (the mere sight of some of them having been known to
 make a tolerably hardy visitor faint away), every kind of malady, like a
 long procession, with typhoid fever and diarrhoea at the head as
 leaders, are here in steady motion. The soldier's hospital! how many
-sleepless nights, how many women's tears, how many long and waking hours
+sleepless nights, how many women's [[Tears|tears]], how many long and waking hours
 and days of suspense, from every one of the Middle, Eastern, and Western
-States, have concentrated here! Our own New York, in the form of hundreds
+States, have concentrated here! Our own [[New York]], in the form of hundreds
 and thousands of her young men, may consider herself here--Pennsylvania,
 Ohio, Indiana, and all the West and Northwest the same--and all the New
 England States the same.
@@ -52,14 +52,14 @@ make in and around Washington. There are not merely two or three or a
 dozen, but some fifty of them, of different degrees of capacity. Some have
 a thousand and more patients. The newspapers here find it necessary to
 print every day a directory of the hospitals--a long list, something like
-what a directory of the churches would be in New York, Philadelphia, or
+what a directory of the churches would be in [[New York]], Philadelphia, or
 Boston.
 
-The Government (which really tries, I think, to do the best and quickest
+The [[government|Government]] (which really tries, I think, to do the best and quickest
 it can for these sad necessities) is gradually settling down to adopt the
 plan of placing the hospitals in clusters of one-story wooden barracks,
 with their accompanying tents and sheds for cooking and all needed
-purposes. Taking all things into consideration, no doubt these are best
+purposes. Taking all things into consideration, no [[Doubt|doubt]] these are best
 adapted to the purpose; better than using churches and large public
 buildings like the Patent office. These sheds now adopted are long,
 one-story edifices, sometimes ranged along in a row, with their heads to
@@ -72,33 +72,33 @@ the barracks are larger, with, of course, more inmates. Frequently there
 are tents, more comfortable here than one might think, whatever they may
 be down in the army.
 
-Each ward has a ward-master, and generally a nurse for every ten or twelve
+Each ward has a ward-master, and generally a [[Nurse|nurse]] for every ten or twelve
 men. A ward surgeon has, generally, two wards--although this varies. Some
-of the wards have a woman nurse; the Armory-square wards have some very
+of the wards have a woman [[Nurse|nurse]]; the Armory-square wards have some very
 good ones. The one in Ward E is one of the best.
 
 A few weeks ago the vast area of the second story of that noblest of
 Washington buildings, the Patent office, was crowded close with rows of
 sick, badly wounded, and dying soldiers. They were placed in three very
 large apartments. I went there several times. It was a strange, solemn,
-and, with all its features of suffering and death, a sort of fascinating
-sight. I went sometimes at night to soothe and relieve particular cases;
+and, with all its features of [[Suffering|suffering]] and [[Death|death]], a sort of fascinating
+sight. I went sometimes at [[Night|night]] to soothe and relieve particular cases;
 some, I found, needed a little cheering up and friendly consolation at
-that time, for they went to sleep better afterwards. Two of the immense
+that [[Time|time]], for they went to [[Sleep|sleep]] better afterwards. Two of the immense
 apartments are filled with high and ponderous glass cases crowded with
-models in miniature of every kind of utensil, machine, or invention it
+models in miniature of every kind of utensil, [[Machine|machine]], or invention it
 ever entered into the mind of man to conceive, and with curiosities and
 foreign presents. Between these cases were lateral openings, perhaps
 eight feet wide, and quite deep, and in these were placed many of the
-sick; besides a great long double row of them up and down through the
+sick; besides a great long [[Double|double]] row of them up and down through the
 middle of the hall. Many of them were very bad cases, wounds and
 amputations. Then there was a gallery running above the hall, in which
-there were beds also. It was, indeed, a curious scene at night when lit
+there were beds also. It was, indeed, a curious scene at [[Night|night]] when lit
 up. The glass cases, the beds, the sick, the gallery above and the marble
-pavement under foot; the suffering, and the fortitude to bear it in the
+pavement under foot; the [[Suffering|suffering]], and the fortitude to bear it in the
 various degrees; occasionally, from some, the groan that could not be
 repressed; sometimes a poor fellow dying, with emaciated face and glassy
-eyes, the nurse by his side, the doctor also there, but no friend, no
+eyes, the [[Nurse|nurse]] by his side, the doctor also there, but no friend, no
 relative--such were the sights but lately in the Patent office. The
 wounded have since been removed from there, and it is now vacant again.
 
@@ -115,5 +115,5 @@ soldierly, American young fellow, but with sensitive and tender feelings.
 Most of December and January last he lay very low, and for quite a while
 I never expected he would recover. He had become prostrated with an
 obstinate diarrhoea: his stomach would hardly keep the least thing down;
-he was vomiting half the time. But that was hardly the worst of it. Let me
+he was vomiting half the [[Time|time]]. But that was hardly the worst of it. Let me
 tell his story--it is but one of thousands.

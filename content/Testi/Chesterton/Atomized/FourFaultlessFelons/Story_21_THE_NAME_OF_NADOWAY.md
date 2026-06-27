@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE NAME OF NADOWAY"
+title: "[[FourFaultlessFelons]] — THE NAME OF NADOWAY"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -20,7 +20,7 @@ I THE NAME OF NADOWAY
 
 THE name of Nadoway was in one sense famous, and even after a fashion,
 
-inspiring and sublime. Alfred the Great had borne it before him like a
+inspiring and [[Sublime|sublime]]. Alfred the Great had borne it before him like a
 
 boon or gift, as he wandered in the woods and awaited the deliverance of
 
@@ -48,7 +48,7 @@ noble lines of Campbell: "Of Nelson and the Nubs, Sing the glorious day's
 
 renown." Equally familiar is the more modern patriotic poster
 
-representing a British Sailor working a machine-gun, from which a shower
+representing a British Sailor working a [[Machine|machine]]-gun, from which a shower
 
 of Nubs is perpetually pouring upon the public. This somewhat unjustly
 
@@ -58,7 +58,7 @@ to put a Nub to his lips has certainly been somewhat at a loss to
 
 distinguish it from other and lesser biscuits. But to have a Nub embedded
 
-in the body, by the ordinary process of digestion, has never been known
+in the [[Body|body]], by the ordinary process of digestion, has never been known
 
 to be actually fatal like a bullet. And, on the whole, many have tended
 
@@ -86,9 +86,9 @@ founder of the firm and fountain of all the Nubs. He still lived very
 
 simply himself, but he could afford every luxury. He could afford the
 
-luxury of having the Honourable Millicent Milton as private secretary.
+luxury of having the Honourable Millicent [[Milton]] as private secretary.
 
-She was the daughter of a decayed aristocratic house, with which he had
+She was the daughter of a decayed aristocratic [[house]], with which he had
 
 been on superficially friendly terms, as they lived in the same
 
@@ -102,13 +102,13 @@ not afford the luxury of not being Mr. Nadoway's secretary.
 
 
 
-It was, however, a luxury of which she sometimes had golden dreams. Not
+It was, however, a luxury of which she sometimes had golden [[Dreams|dreams]]. Not
 
 that old Nadoway treated her badly, or even paid her badly, or would have
 
 ventured to be rude to her in any respect. The old chapel-going Radical
 
-was much too shrewd for that. He understood well that there was still
+was much too shrewd for that. He understood [[Well|well]] that there was still
 
 something like a bargain and a balance between the New Rich and the New
 
@@ -122,7 +122,7 @@ sort of family she would have sought in which to find her friends. And
 
 yet she had found friends there, and had once been even in danger of
 
-finding not only friends but a friend. Perhaps, at one time, not only a
+finding not only friends but a friend. Perhaps, at one [[Time|time]], not only a
 
 friend.
 
@@ -144,15 +144,15 @@ names. The younger was Norman Nadoway, and the name marked a certain
 
 softening towards notions of elegance, foreshadowing the awful
 
-possibility of Normandale. There had been a happy time, when John could
+possibility of Normandale. There had been a happy [[Time|time]], when John could
 
 really be described as Jack. He was a very boyish sort of boy and played
 
 cricket and climbed trees with a certain natural grace, like that of a
 
-young animal alive and innocent in the sunshine. He was not unattractive
+young animal alive and [[Innocent|innocent]] in the sunshine. He was not unattractive
 
-and she was not unattracted by him. And yet every time he reappeared, at
+and she was not unattracted by him. And yet every [[Time|time]] he reappeared, at
 
 different stages of his college and early commercial career, she was
 
@@ -162,7 +162,7 @@ was passing through that mysterious process, by which so many radiant and
 
 godlike boys eventually turn into businessmen. She could not help feeling
 
-that there must be something wrong with education-or possibly something
+that there must be something wrong with [[Education|education]]-or possibly something
 
 wrong with life. It seemed somehow as if he was always growing bigger and
 
@@ -180,15 +180,15 @@ flowered late; if the figure of a flower can be used of one who
 
 large head and large ears and a colourless face and expression, and for a
 
-time passed for something of a mooncalf. But when he was at school, he
+[[Time|time]] passed for something of a mooncalf. But when he was at school, he
 
 worked hard at mathematics, and when he was at Cambridge at economics.
 
 From this it was but one wild leap to the study of politics and social
 
-reform; and from this came the grand bust-up in the House of Nubs and
+[[Reform|reform]]; and from this came the grand bust-up in the [[house|House]] of Nubs and
 
-Jacob's wrath, to Nadoway's the direful spring. Norman had begun by
+Jacob's wrath, to Nadoway's the direful [[spring]]. Norman had begun by
 
 shaking the brown brick chapel to its foundations by announcing his
 
@@ -234,11 +234,11 @@ had intended. Indeed, it was a rather puzzling interview.
 
 It took place in old Jacob's study, which looked out through round
 
-bow-windows at 'The Lawns', after which the house was still named. It was
+bow-windows at 'The Lawns', after which the [[house]] was still named. It was
 
-a very Victorian house, of the sort that would have been described at the
+a very Victorian [[house]], of the sort that would have been described at the
 
-time as built by Philistines for Philistines. There was a great deal of
+[[Time|time]] as built by Philistines for Philistines. There was a great deal of
 
 curved glass about it, in its conservatories and its semi-circular
 
@@ -250,21 +250,21 @@ was a good deal of rather ugly coloured glass and a good deal of not
 
 altogether ugly, but very artificial, clipped hedges and Dutch gardening.
 
-In short, it was the sort of comfortable Victorian home that was regarded
+In short, it was the sort of comfortable Victorian [[Home|home]] that was regarded
 
 as very vulgar by the aesthetes of that period. Mr. Matthew Arnold would
 
-have passed the house with a gentle sigh. Mr. John Ruskin would have
+have passed the [[house]] with a gentle sigh. Mr. John Ruskin would have
 
 recoiled in horror and called down curses from heaven on it, from a
 
-neighbouring hill. Even Mr. William Morris would have grumbled as he
+neighbouring [[Hill|hill]]. Even Mr. William Morris would have grumbled as he
 
 passed, about the sort of architecture that was only upholstery. But I am
 
-not so sure about Mr. Sacheverall Sitwell. We have reached a time when
+not so sure about Mr. Sacheverall Sitwell. We have reached a [[Time|time]] when
 
-the curved windows and canopied porticoes of that house have begun to
+the curved windows and canopied porticoes of that [[house]] have begun to
 
 take on something of a dreamy glamour of distance. And I am not sure that
 
@@ -280,7 +280,7 @@ not undertake to decide.
 
 
 
-Millicent Milton had come through the garden to the study, at about the
+Millicent [[Milton]] had come through the [[Garden|garden]] to the study, at about the
 
 same moment as the junior partner arrived there. She was tall and fair
 
@@ -292,7 +292,7 @@ and at the second a little haughty, but she was not really either one or
 
 the other, but only reasonably resigned. She sat down at her ordinary
 
-desk to do her ordinary work, but she very soon rose from it again, as if
+desk to do her ordinary work, but she very soon [[Rose|rose]] from it again, as if
 
 with a silent offer to withdraw, since the domestic discussion was
 
@@ -304,7 +304,7 @@ reassurance and she remained the spectator of the whole scene.
 
 Old Nadoway had barked out rather abruptly, like one bothered for the
 
-first time: "But I thought you two had had a talk."
+first [[Time|time]]: "But I thought you two had had a talk."
 
 
 
@@ -314,9 +314,9 @@ talk."
 
 
 
-"I hope you got Norman to see," went on the old man in a milder tone,
+"I [[Hope|hope]] you got Norman to see," went on the old man in a milder tone,
 
-"that he simply mustn't chalk out all these wild projects so long as
+"that he simply mustn't [[chalk]] out all these wild projects so long as
 
 we're all really in the business. My business would be ruined in a month
 
@@ -348,7 +348,7 @@ instance, that I have a business, too."
 
 
 
-There was a glaring silence, broken rather nervously.
+There was a glaring [[Silence|silence]], broken rather nervously.
 
 
 
@@ -370,7 +370,7 @@ and the whole concern?"
 
 "I'm in favour of the whole concern, and that's the whole point," said
 
-John. "I suppose I shall be responsible for it-well, some time. But I'm
+John. "I suppose I shall be responsible for it-[[Well|well]], some [[Time|time]]. But I'm
 
 damned if I'll be responsible for all the old ways of doing things."
 
@@ -414,7 +414,7 @@ any clearing?"
 
 
 
-"By the new standards, yes," said John after a silence.
+"By the new standards, yes," said John after a [[Silence|silence]].
 
 
 
@@ -426,25 +426,25 @@ to his secretary, as if the interview were ended.
 
 "I find I shall not want you this evening," he said. "You had better take
 
-a little time off."
+a little [[Time|time]] off."
 
 
 
-She rose rather waveringly and went towards the french windows that gave
+She [[Rose|rose]] rather waveringly and went towards the french windows that gave
 
-upon the garden. The pale evening sky had been suddenly turned to night
+upon the [[Garden|garden]]. The pale evening sky had been suddenly turned to [[Night|night]]
 
-by the contrast of a large luminous moon coming up behind dark trees and
+by the contrast of a large luminous [[Moon|moon]] coming up behind dark trees and
 
 striping the grey-green lawns with dark shadows. She had always been
 
 puzzled by the fact that there seemed to be something romantic about the
 
-garden and even the grotesque house, which was inhabited by such highly
+[[Garden|garden]] and even the [[Grotesque|grotesque]] [[house]], which was inhabited by such highly
 
 prosaic people. She was already outside the glass doors and in the
 
-garden, when she heard old Nadoway speak again.
+[[Garden|garden]], when she heard old Nadoway speak again.
 
 
 
@@ -470,15 +470,15 @@ would be every bit as wicked as going on in the old way."
 
 
 
-"Well," said his father rather wearily, "we will leave it at that just
+"[[Well]]," said his father rather wearily, "we will leave it at that just
 
 now. I shall not go on much longer."
 
 
 
-But Millicent Milton was staring at the dark house in a new fit of
+But Millicent [[Milton]] was staring at the dark [[house]] in a new fit of
 
-mystification. The two brothers had ignored and slurred over, with
+[[Mystification|mystification]]. The two brothers had ignored and slurred over, with
 
 something resembling skill, a certain phrase used by their father. But
 
@@ -490,12 +490,12 @@ She had never heard of any other son. She remained staring at the rococo
 
 outline of that rather ridiculous and yet romantic villa, with its domes
 
-and ornamental verandas dark against the moon; with its bulbous windows
+and ornamental verandas dark against the [[Moon|moon]]; with its bulbous windows
 
-and plants in bloated pots; its clumsy statues and congested garden-beds
+and plants in bloated pots; its clumsy statues and congested [[Garden|garden]]-beds
 
 and all the swollen outline of the thing made almost monstrous by
 
-moonshine and darkness, and she wondered for the first time if it held a
+moonshine and darkness, and she wondered for the first [[Time|time]] if it held a
 
 secret.

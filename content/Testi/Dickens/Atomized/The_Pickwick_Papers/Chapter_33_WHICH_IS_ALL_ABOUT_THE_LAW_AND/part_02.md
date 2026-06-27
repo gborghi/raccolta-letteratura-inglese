@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 2)"
+title: "The [[Pickwick]] Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -19,7 +19,7 @@ Jackson, turning sharply upon him, said--
 
 ‘I think I ain’t mistaken when I say your name’s Tupman, am I?’
 
-Mr. Tupman looked at Mr. Pickwick; but, perceiving no encouragement in
+Mr. Tupman looked at Mr. [[Pickwick]]; but, perceiving no encouragement in
 that gentleman’s widely-opened eyes to deny his name, said--
 
 ‘Yes, my name is Tupman, Sir.’
@@ -31,28 +31,28 @@ dexterous Mr. Jackson.
 
 ‘Now,’ said Jackson, ‘I’m afraid you’ll think me rather troublesome, but
 I want somebody else, if it ain’t inconvenient. I have Samuel Weller’s
-name here, Mr. Pickwick.’
+name here, Mr. [[Pickwick]].’
 
-‘Send my servant here, waiter,’ said Mr. Pickwick. The waiter retired,
-considerably astonished, and Mr. Pickwick motioned Jackson to a seat.
+‘Send my servant here, waiter,’ said Mr. [[Pickwick]]. The waiter retired,
+considerably astonished, and Mr. [[Pickwick]] motioned Jackson to a seat.
 
-There was a painful pause, which was at length broken by the innocent
+There was a painful pause, which was at length broken by the [[Innocent|innocent]]
 defendant.
 
-‘I suppose, Sir,’ said Mr. Pickwick, his indignation rising while he
+‘I suppose, Sir,’ said Mr. [[Pickwick]], his indignation rising while he
 spoke--‘I suppose, Sir, that it is the intention of your employers to
 seek to criminate me upon the testimony of my own friends?’
 
 Mr. Jackson struck his forefinger several times against the left side of
-his nose, to intimate that he was not there to disclose the secrets of
-the prison house, and playfully rejoined--
+his nose, to intimate that he was not there to disclose the [[Secrets|secrets]] of
+the [[Prison|prison]] [[house]], and playfully rejoined--
 
 ‘Not knowin’, can’t say.’
 
-‘For what other reason, Sir,’ pursued Mr. Pickwick, ‘are these subpoenas
+‘For what other reason, Sir,’ pursued Mr. [[Pickwick]], ‘are these subpoenas
 served upon them, if not for this?’
 
-‘Very good plant, Mr. Pickwick,’ replied Jackson, slowly shaking his
+‘Very good plant, Mr. [[Pickwick]],’ replied Jackson, slowly shaking his
 head. ‘But it won’t do. No harm in trying, but there’s little to be got
 out of me.’
 
@@ -62,11 +62,11 @@ his right hand, thereby performing a very graceful piece of pantomime
 (then much in vogue, but now, unhappily, almost obsolete) which was
 familiarly denominated ‘taking a grinder.’
 
-‘No, no, Mr. Pickwick,’ said Jackson, in conclusion; ‘Perker’s people
+‘No, no, Mr. [[Pickwick]],’ said Jackson, in conclusion; ‘Perker’s people
 must guess what we’ve served these subpoenas for. If they can’t, they
 must wait till the action comes on, and then they’ll find out.’
 
-Mr. Pickwick bestowed a look of excessive disgust on his unwelcome
+Mr. [[Pickwick]] bestowed a look of excessive disgust on his unwelcome
 visitor, and would probably have hurled some tremendous anathema at the
 heads of Messrs. Dodson & Fogg, had not Sam’s entrance at the instant
 interrupted him.
@@ -86,7 +86,7 @@ Sam, in a most composed manner.
 
 ‘This,’ replied Jackson, shaking the parchment.
 
-‘Oh, that’s the ‘rig’nal, is it?’ said Sam. ‘Well, I’m wery glad I’ve
+‘Oh, that’s the ‘rig’nal, is it?’ said Sam. ‘[[Well]], I’m wery glad I’ve
 seen the ‘rig’nal, ‘cos it’s a gratifyin’ sort o’ thing, and eases vun’s
 mind so much.’
 
@@ -107,12 +107,12 @@ served the subpoenas, and had nothing more to say, he made a feint of
 putting on the one glove which he usually carried in his hand, for the
 sake of appearances; and returned to the office to report progress.
 
-Mr. Pickwick slept little that night; his memory had received a very
+Mr. [[Pickwick]] slept little that [[Night|night]]; his [[Memory|memory]] had received a very
 disagreeable refresher on the subject of Mrs. Bardell’s action. He
 breakfasted betimes next morning, and, desiring Sam to accompany him,
 set forth towards Gray’s Inn Square.
 
-‘Sam!’ said Mr. Pickwick, looking round, when they got to the end of
+‘Sam!’ said Mr. [[Pickwick]], looking round, when they got to the end of
 Cheapside.
 
 ‘Sir?’ said Sam, stepping up to his master.
@@ -121,56 +121,56 @@ Cheapside.
 
 Up Newgate Street.’
 
-Mr. Pickwick did not turn round immediately, but looked vacantly in
+Mr. [[Pickwick]] did not turn round immediately, but looked vacantly in
 Sam’s face for a few seconds, and heaved a deep sigh.
 
 ‘What’s the matter, sir?’ inquired Sam.
 
-‘This action, Sam,’ said Mr. Pickwick, ‘is expected to come on, on the
+‘This action, Sam,’ said Mr. [[Pickwick]], ‘is expected to come on, on the
 fourteenth of next month.’
 
 Remarkable coincidence that ‘ere, sir,’ replied Sam.
 
-‘Why remarkable, Sam?’ inquired Mr. Pickwick.
+‘Why remarkable, Sam?’ inquired Mr. [[Pickwick]].
 
 ‘Walentine’s day, sir,’ responded Sam; ‘reg’lar good day for a breach o’
 promise trial.’
 
 Mr. Weller’s smile awakened no gleam of mirth in his master’s
-countenance. Mr. Pickwick turned abruptly round, and led the way in
-silence.
+countenance. Mr. [[Pickwick]] turned abruptly round, and led the way in
+[[Silence|silence]].
 
-They had walked some distance, Mr. Pickwick trotting on before, plunged
+They had walked some distance, Mr. [[Pickwick]] trotting on before, plunged
 in profound meditation, and Sam following behind, with a countenance
 expressive of the most enviable and easy defiance of everything and
 everybody, when the latter, who was always especially anxious to impart
 to his master any exclusive information he possessed, quickened his pace
-until he was close at Mr. Pickwick’s heels; and, pointing up at a house
+until he was close at Mr. [[Pickwick]]’s heels; and, pointing up at a [[house]]
 they were passing, said--
 
 ‘Wery nice pork-shop that ‘ere, sir.’
 
-‘Yes, it seems so,’ said Mr. Pickwick.
+‘Yes, it seems so,’ said Mr. [[Pickwick]].
 
 ‘Celebrated sassage factory,’ said Sam.
 
-‘Is it?’ said Mr. Pickwick.
+‘Is it?’ said Mr. [[Pickwick]].
 
 ‘Is it!’ reiterated Sam, with some indignation; ‘I should rayther think
-it was. Why, sir, bless your innocent eyebrows, that’s where the
+it was. Why, sir, bless your [[Innocent|innocent]] eyebrows, that’s where the
 mysterious disappearance of a ‘spectable tradesman took place four years
 ago.’
 
-‘You don’t mean to say he was burked, Sam?’ said Mr. Pickwick, looking
+‘You don’t mean to say he was burked, Sam?’ said Mr. [[Pickwick]], looking
 hastily round.
 
 ‘No, I don’t indeed, sir,’ replied Mr. Weller, ‘I wish I did; far worse
 than that. He was the master o’ that ‘ere shop, sir, and the inwentor o’
 the patent-never-leavin’-off sassage steam-ingin, as ‘ud swaller up a
 pavin’ stone if you put it too near, and grind it into sassages as easy
-as if it was a tender young babby. Wery proud o’ that machine he was, as
+as if it was a tender young babby. Wery proud o’ that [[Machine|machine]] he was, as
 it was nat’ral he should be, and he’d stand down in the celler a-lookin’
-at it wen it was in full play, till he got quite melancholy with joy. A
+at it wen it was in full play, till he got quite [[Melancholy|melancholy]] with joy. A
 wery happy man he’d ha’ been, Sir, in the procession o’ that ‘ere ingin
 and two more lovely hinfants besides, if it hadn’t been for his wife,
 who was a most owdacious wixin. She was always a-follerin’ him about,
@@ -181,20 +181,20 @@ away to ‘Merriker; and that’s all about it.” “You’re a idle willin,”
  says she, “and I wish the ‘Merrikins joy of their bargain.” Arter which
 she keeps on abusin’ of him for half an hour, and then runs into the
 little parlour behind the shop, sets to a-screamin’, says he’ll be the
-death on her, and falls in a fit, which lasts for three good hours--one
-o’ them fits wich is all screamin’ and kickin’. Well, next mornin’, the
+[[Death|death]] on her, and falls in a fit, which lasts for three good hours--one
+o’ them fits wich is all screamin’ and kickin’. [[Well]], next mornin’, the
 husband was missin’. He hadn’t taken nothin’ from the till--hadn’t even
 put on his greatcoat--so it was quite clear he warn’t gone to ‘Merriker.
 Didn’t come back next day; didn’t come back next week; missis had bills
 printed, sayin’ that, if he’d come back, he should be forgiven
 everythin’ (which was very liberal, seein’ that he hadn’t done nothin’
 at all); the canals was dragged, and for two months arterwards, wenever
-a body turned up, it was carried, as a reg’lar thing, straight off to
+a [[Body|body]] turned up, it was carried, as a reg’lar thing, straight off to
 the sassage shop. Hows’ever, none on ‘em answered; so they gave out that
-he’d run away, and she kep’ on the bis’ness. One Saturday night, a
+he’d run away, and she kep’ on the bis’ness. One Saturday [[Night|night]], a
 little, thin, old gen’l’m’n comes into the shop in a great passion and
 says, “Are you the missis o’ this here shop?” “Yes, I am,” says she.
-“Well, ma’am,” says he, “then I’ve just looked in to say that me and my
+“[[Well]], ma’am,” says he, “then I’ve just looked in to say that me and my
 family ain’t a-goin’ to be choked for nothin’; and more than that,
 ma’am,” he says, “you’ll allow me to observe that as you don’t use the
 primest parts of the meat in the manafacter o’ sassages, I’d think you’d
@@ -206,7 +206,7 @@ buttons!” says the widder beginnin’ to faint, “What!” screams the little
 old gen’l’m’n, turnin’ wery pale. “I see it all,” says the widder; “in a
 fit of temporary insanity he rashly converted hisself into sassages!”
  And so he had, Sir,’ said Mr. Weller, looking steadily into Mr.
-Pickwick’s horror-stricken countenance, ‘or else he’d been draw’d into
+[[Pickwick]]’s horror-stricken countenance, ‘or else he’d been draw’d into
 the ingin; but however that might ha’ been, the little, old gen’l’m’n,
 who had been remarkably partial to sassages all his life, rushed out o’
 the shop in a wild state, and was never heerd on arterwards!’

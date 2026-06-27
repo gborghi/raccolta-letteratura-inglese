@@ -24,17 +24,17 @@ THE GREAT VICTORIAN NOVELISTS
 
 
 
-The Victorian novel was a thing entirely Victorian; quite unique and
+The Victorian [[Novel|novel]] was a thing entirely Victorian; quite unique and
 
-suited to a sort of cosiness in that country and that age. But the novel
+suited to a sort of cosiness in that country and that age. But the [[Novel|novel]]
 
 itself, though not merely Victorian, is mainly modern. No clear-headed
 
-person wastes his time over definitions, except where he thinks his own
+person wastes his [[Time|time]] over definitions, except where he thinks his own
 
 definition would probably be in dispute. I merely say, therefore, that
 
-when I say "novel," I mean a fictitious narrative (almost invariably,
+when I say "[[Novel|novel]]," I mean a fictitious narrative (almost invariably,
 
 but not necessarily, in prose) of which the essential is that the story
 
@@ -50,11 +50,11 @@ of the most conspicuous is that it is the art in which the conquests of
 
 woman are quite beyond controversy. The proposition that Victorian women
 
-have done well in politics and philosophy is not necessarily an untrue
+have done [[Well|well]] in politics and [[philosophy]] is not necessarily an untrue
 
 proposition; but it is a partisan proposition. I never heard that many
 
-women, let alone men, shared the views of Mary Wollstonecraft; I never
+women, let [[Alone|alone]] men, shared the views of Mary Wollstonecraft; I never
 
 heard that millions of believers flocked to the religion tentatively
 
@@ -90,11 +90,11 @@ dedicated _Jane Eyre_ to the author of _Vanity Fair_. I should hesitate
 
 to say that Charlotte Brontë's is a better book than Thackeray's, but I
 
-think it might well be maintained that it is a better story. All sorts
+think it might [[Well|well]] be maintained that it is a better story. All sorts
 
-of inquiring asses (equally ignorant of the old nature of woman and the
+of inquiring asses (equally ignorant of the old [[Nature|nature]] of woman and the
 
-new nature of the novel) whispered wisely that George Eliot's novels
+new [[Nature|nature]] of the [[Novel|novel]]) whispered wisely that George Eliot's novels
 
 were really written by George Lewes. I will cheerfully answer for the
 
@@ -102,23 +102,23 @@ fact that, if they had been written by George Lewes, no one would ever
 
 have read them. Those who have read his book on Robespierre will have
 
-no doubt about my meaning. I am no idolater of George Eliot; but a man
+no [[Doubt|doubt]] about my meaning. I am no idolater of George Eliot; but a man
 
 who could concoct such a crushing opiate about the most exciting
 
-occasion in history certainly did not write _The Mill on the Floss_.
+occasion in [[history]] certainly did not write _The Mill on the Floss_.
 
-This is the first fact about the novel, that it is the introduction of a
+This is the first fact about the [[Novel|novel]], that it is the introduction of a
 
 new and rather curious kind of art; and it has been found to be
 
-peculiarly feminine, from the first good novel by Fanny Burney to the
+peculiarly feminine, from the first good [[Novel|novel]] by Fanny Burney to the
 
-last good novel by Miss May Sinclair. The truth is, I think, that the
+last good [[Novel|novel]] by Miss May Sinclair. The [[Truth|truth]] is, I think, that the
 
-modern novel is a new thing; not new in its essence (for that is a
+modern [[Novel|novel]] is a new thing; not new in its essence (for that is a
 
-philosophy for fools), but new in the sense that it lets loose many of
+[[philosophy]] for fools), but new in the sense that it lets loose many of
 
 the things that are old. It is a hearty and exhaustive overhauling of
 
@@ -132,23 +132,23 @@ specialise in individuals, and be praised for doing so; just as in the
 
 Middle Ages she specialised in dignity and was praised for doing so.
 
-People put the matter wrong when they say that the novel is a study of
+People put the matter wrong when they say that the [[Novel|novel]] is a study of
 
-human nature. Human nature is a thing that even men can understand.
+human [[Nature|nature]]. Human [[Nature|nature]] is a thing that even men can understand.
 
-Human nature is born of the pain of a woman; human nature plays at
+Human [[Nature|nature]] is born of the [[Pain|pain]] of a woman; human [[Nature|nature]] plays at
 
-peep-bo when it is two and at cricket when it is twelve; human nature
+peep-bo when it is two and at cricket when it is twelve; human [[Nature|nature]]
 
-earns its living and desires the other sex and dies. What the novel
+earns its living and desires the other sex and dies. What the [[Novel|novel]]
 
 deals with is what women have to deal with; the differentiations, the
 
-twists and turns of this eternal river. The key of this new form of art,
+twists and turns of this eternal [[River|river]]. The key of this new form of art,
 
 which we call fiction, is sympathy. And sympathy does not mean so much
 
-feeling with all who feel, but rather suffering with all who suffer. And
+feeling with all who feel, but rather [[Suffering|suffering]] with all who suffer. And
 
 it was inevitable, under such an inspiration, that more attention should
 
@@ -158,7 +158,7 @@ promising domestic channel dug by the Victorian women, in books like
 
 _Cranford_, by Mrs. Gaskell, would have got to the sea, if they had been
 
-left alone to dig it. They might have made domesticity a fairyland.
+left [[Alone|alone]] to dig it. They might have made domesticity a fairyland.
 
 Unfortunately another idea, the idea of imitating men's cuffs and
 
@@ -168,7 +168,7 @@ destroyed it.
 
 
 
-It may seem mere praise of the novel to say it is the art of sympathy
+It may seem mere praise of the [[Novel|novel]] to say it is the art of sympathy
 
 and the study of human variations. But indeed, though this is a good
 
@@ -180,7 +180,7 @@ exonerations. Two peasants in the Middle Ages quarrelled about their two
 
 fields. But they went to the same church, served in the same semi-feudal
 
-militia, and had the same morality, which ever might happen to be
+militia, and had the same [[morality]], which ever might happen to be
 
 breaking it at the moment. The very cause of their quarrel was the cause
 
@@ -188,7 +188,7 @@ of their fraternity; they both liked land. But suppose one of them a
 
 teetotaler who desired the abolition of hops on both farms; suppose the
 
-other a vegetarian who desired the abolition of chickens on both farms:
+other a [[vegetarian]] who desired the abolition of chickens on both farms:
 
 and it is at once apparent that a quarrel of quite a different kind
 
@@ -202,15 +202,15 @@ positive religion. Man is merely man only when he is seen against the
 
 sky. If he is seen against any landscape, he is only a man of that land.
 
-If he is seen against any house, he is only a householder. Only where
+If he is seen against any [[house]], he is only a householder. Only where
 
-death and eternity are intensely present can human beings fully feel
+[[Death|death]] and [[Eternity|eternity]] are intensely present can human beings fully feel
 
 their fellowship. Once the divine darkness against which we stand is
 
 really dismissed from the mind (as it was very nearly dismissed in the
 
-Victorian time) the differences between human beings become
+Victorian [[Time|time]]) the differences between human beings become
 
 overpoweringly plain; whether they are expressed in the high caricatures
 
@@ -220,7 +220,7 @@ of Dickens or the low lunacies of Zola.
 
 This can be seen in a sort of picture in the Prologue of the _Canterbury
 
-Tales_; which is already pregnant with the promise of the English novel.
+Tales_; which is already pregnant with the promise of the English [[Novel|novel]].
 
 The characters there are at once graphically and delicately
 
@@ -228,7 +228,7 @@ differentiated; the Doctor with his rich cloak, his careful meals, his
 
 coldness to religion; the Franklin, whose white beard was so fresh that
 
-it recalled the daisies, and in whose house it snowed meat and drink;
+it recalled the daisies, and in whose [[house]] it snowed meat and drink;
 
 the Summoner, from whose fearful face, like a red cherub's, the children
 
@@ -236,9 +236,9 @@ fled, and who wore a garland like a hoop; the Miller with his short red
 
 hair and bagpipes and brutal head, with which he could break down a
 
-door; the Lover who was as sleepless as a nightingale; the Knight, the
+door; the [[Lover]] who was as sleepless as a [[Nightingale|nightingale]]; the Knight, the
 
-Cook, the Clerk of Oxford. Pendennis or the Cook, M. Mirabolant, is
+Cook, the Clerk of [[Oxford]]. Pendennis or the Cook, M. Mirabolant, is
 
 nowhere so vividly varied by a few merely verbal strokes. But the great
 
@@ -264,7 +264,7 @@ laughing and telling tales together?
 
 
 
-The growth of the novel, therefore, must not be too easily called an
+The growth of the [[Novel|novel]], therefore, must not be too easily called an
 
 increase in the interest in humanity. It is an increase in the interest
 
@@ -272,15 +272,15 @@ in the things in which men differ; much fuller and finer work had been
 
 done before about the things in which they agree. And this intense
 
-interest in variety had its bad side as well as its good; it has rather
+interest in variety had its bad side as [[Well|well]] as its good; it has rather
 
 increased social distinctions in a serious and spiritual sense. Most of
 
-the oblivion of democracy is due to the oblivion of death. But in its
+the oblivion of [[Democracy|democracy]] is due to the oblivion of [[Death|death]]. But in its
 
 own manner and measure, it was a real advance and experiment of the
 
-European mind, like the public art of the Renaissance or the fairyland
+European mind, like the public art of the [[Renaissance]] or the fairyland
 
 of physical science explored in the nineteenth century. It was a more
 
@@ -298,11 +298,11 @@ the great women writers that explains another very arresting and
 
 important fact about the emergence of genuinely Victorian fiction. It
 
-had been by this time decided, by the powers that had influence (and by
+had been by this [[Time|time]] decided, by the powers that had influence (and by
 
 public opinion also, at least in the middle-class sense), that certain
 
-verbal limits must be set to such literature. The novel must be what
+verbal limits must be set to such literature. The [[Novel|novel]] must be what
 
 some would call pure and others would call prudish; but what is not,
 
@@ -320,7 +320,7 @@ very properly the right to deal with shameful passions and suggest their
 
 shameful culminations; Scott sometimes dealt with ideas positively
 
-horrible--as in that grand Glenallan tragedy which is as appalling as
+horrible--as in that grand Glenallan [[Tragedy|tragedy]] which is as appalling as
 
 the _OEdipus_ or _The Cenci_. None of these great men would have
 
@@ -340,7 +340,7 @@ claimed in repeating the senile ecstasies of Gride (let us say) over his
 
 purchased bride: but Dickens does not leave the reader in the faintest
 
-doubt about what sort of feelings they were; nor is there any reason why
+[[Doubt|doubt]] about what sort of feelings they were; nor is there any reason why
 
 he should. Thackeray would not have described the toilet details of the
 
@@ -352,7 +352,7 @@ But though the great Victorian novelists would not have permitted the
 
 impudence of the suggestion that every part of their problem must be
 
-wholesome and innocent in itself, it is still tenable (I do not say it
+wholesome and [[Innocent|innocent]] in itself, it is still tenable (I do not say it
 
 is certain) that by yielding to the Philistines on this verbal
 
@@ -366,7 +366,7 @@ coarse word is the word that condemns an evil and the refined word the
 
 word that excuses it. A common evasion, for instance, substitutes for
 
-the word that brands self-sale as the essential sin, a word which weakly
+the word that brands [[Self|self]]-sale as the essential sin, a word which weakly
 
 suggests that it is no more wicked than walking down the street. The
 
@@ -384,9 +384,9 @@ purity of the Victorian Age, that the age ended (save for the bursting
 
 of a single scandal) in a thing being everywhere called "Art," "The
 
-Greek Spirit," "The Platonic Ideal" and so on--which any navvy mending
+Greek Spirit," "The Platonic Ideal" and so on--which any navvy [[mending]]
 
-the road outside would have stamped with a word as vile and as vulgar as
+the [[Road|road]] outside would have stamped with a word as vile and as vulgar as
 
 it deserved.
 
@@ -414,7 +414,7 @@ limited. It could be content with nothing less than the whole cosmos:
 
 yet the cosmos with which it was content was small. It is false to say
 
-it was without humour: yet there was something by instinct unsmiling in
+it was without [[Humour|humour]]: yet there was something by instinct unsmiling in
 
 it. It was always saying solidly that things were "enough"; and proving
 
@@ -434,13 +434,13 @@ I begin with this great woman of letters for both the two reasons
 
 already mentioned. She represents the rationalism of the old Victorian
 
-Age at its highest. She and Mill are like two great mountains at the end
+Age at its highest. She and Mill are like two great [[Mountains|mountains]] at the end
 
 of that long, hard chain which is the watershed of the Early Victorian
 
-time. They alone rise high enough to be confused among the clouds--or
+[[Time|time]]. They [[Alone|alone]] rise high enough to be confused among the clouds--or
 
-perhaps confused among the stars. They certainly were seeking truth, as
+perhaps confused among the [[Stars|stars]]. They certainly were seeking [[Truth|truth]], as
 
 Newman and Carlyle were; the slow slope of the later Victorian vulgarity
 
@@ -448,9 +448,9 @@ does not lower their precipice and pinnacle. But I begin with this name
 
 also because it emphasises the idea of modern fiction as a fresh and
 
-largely a female thing. The novel of the nineteenth century was female;
+largely a female thing. The [[Novel|novel]] of the nineteenth century was female;
 
-as fully as the novel of the eighteenth century was male. It is quite
+as fully as the [[Novel|novel]] of the eighteenth century was male. It is quite
 
 certain that no woman could have written _Roderick Random_. It is not
 
@@ -464,7 +464,7 @@ George Eliot began to write.
 
 Her originals and even her contemporaries had shown the feminine power
 
-in fiction as well or better than she. Charlotte Brontë, understood
+in fiction as [[Well|well]] or better than she. Charlotte Brontë, understood
 
 along her own instincts, was as great; Jane Austen was greater. The
 
@@ -492,7 +492,7 @@ One of the characteristics of the central Victorian spirit was a
 
 tendency to substitute a certain more or less satisfied seriousness for
 
-the extremes of tragedy and comedy. This is marked by a certain change
+the extremes of [[Tragedy|tragedy]] and [[Comedy|comedy]]. This is marked by a certain change
 
 in George Eliot; as it is marked by a certain limitation or moderation
 
@@ -500,7 +500,7 @@ in Dickens. Dickens was the People, as it was in the eighteenth century
 
 and still largely is, in spite of all the talk for and against Board
 
-School Education: comic, tragic, realistic, free-spoken, far looser in
+School [[Education]]: comic, tragic, realistic, free-spoken, far looser in
 
 words than in deeds. It marks the silent strength and pressure of the
 
@@ -518,7 +518,7 @@ the same popular realities: and her first books (at least as compared
 
 with her latest) were full of sound fun and bitter pathos. Mr. Max
 
-Beerbohm has remarked (in his glorious essay called _Ichabod_, I think),
+Beerbohm has remarked (in his glorious [[Essay|essay]] called _Ichabod_, I think),
 
 that Silas Marner would not have forgotten his miserliness if George
 
@@ -530,7 +530,7 @@ means anything more than a cold calculation of the chances, if there is
 
 in it, as I believe, any deeper idea of detaching the spirit of life
 
-from the dull obstacles of life, of permitting human nature really to
+from the dull obstacles of life, of permitting human [[Nature|nature]] really to
 
 reveal itself as human, if (to put it shortly) literature has anything
 
@@ -538,11 +538,11 @@ on earth to do with being _interesting_--then I think we would rather
 
 have a few more Marners than that rich maturity that gave us the
 
-analysed dust-heaps of _Daniel Deronda_.
+analysed [[Dust|dust]]-heaps of _Daniel Deronda_.
 
 
 
-In her best novels there is real humour, of a cool sparkling sort; there
+In her best novels there is real [[Humour|humour]], of a cool sparkling sort; there
 
 is a strong sense of substantial character that has not yet degenerated
 
@@ -554,9 +554,9 @@ indescribable thing called _glamour_; which was the whole stock-in-trade
 
 of the Brontës, which we feel in Dickens when Quilp clambers amid rotten
 
-wood by the desolate river; and even in Thackeray when Esmond with his
+wood by the desolate [[River|river]]; and even in Thackeray when Esmond with his
 
-melancholy eyes wanders like some swarthy crow about the dismal avenues
+[[Melancholy|melancholy]] eyes wanders like some swarthy crow about the dismal avenues
 
 of Castlewood. Of this quality (which some have called, but hastily, the
 
@@ -596,13 +596,13 @@ can easily be seen by comparing her with a greater woman who died before
 
 the beginning of our present problem. Jane Austen was born before those
 
-bonds which (we are told) protected woman from truth, were burst by the
+bonds which (we are told) protected woman from [[Truth|truth]], were burst by the
 
 Brontës or elaborately untied by George Eliot. Yet the fact remains that
 
 Jane Austen knew much more about men than either of them. Jane Austen
 
-may have been protected from truth: but it was precious little of truth
+may have been protected from [[Truth|truth]]: but it was precious little of [[Truth|truth]]
 
 that was protected from her. When Darcy, in finally confessing his
 
@@ -624,11 +624,11 @@ nationalities.
 
 The Brontës suggest themselves here; because their superficial
 
-qualities, the qualities that can be seized upon in satire, were in this
+qualities, the qualities that can be seized upon in [[Satire|satire]], were in this
 
 an exaggeration of what was, in George Eliot, hardly more than an
 
-omission. There was perhaps a time when Mr. Rawjester was more widely
+omission. There was perhaps a [[Time|time]] when Mr. Rawjester was more widely
 
 known than Mr. Rochester. And certainly Mr. Rochester (to adopt the
 
@@ -650,9 +650,9 @@ novelists make the men bully the women?" It is, I think, unquestionably
 
 true that the Brontës treated the male as an almost anarchic thing
 
-coming in from outside nature; much as people on this planet regard a
+coming in from outside [[Nature|nature]]; much as people on this planet regard a
 
-comet. Even the really delicate and sustained comedy of Paul Emanuel is
+comet. Even the really delicate and sustained [[Comedy|comedy]] of [[Paul Emanuel]] is
 
 not quite free from this air of studying something alien. The reply may
 
@@ -664,9 +664,9 @@ is probably just.
 
 What the Brontës really brought into fiction was exactly what Carlyle
 
-brought into history; the blast of the mysticism of the North. They were
+brought into [[history]]; the blast of the mysticism of the North. They were
 
-of Irish blood settled on the windy heights of Yorkshire; in that
+of Irish [[Blood|blood]] settled on the windy heights of Yorkshire; in that
 
 country where Catholicism lingered latest, but in a superstitious form;
 
@@ -692,11 +692,11 @@ rather as the Late Victorian Imperialism would have been to Mrs. Humphry
 
 Ward in the centre of the empire and to Miss Olive Schreiner at the edge
 
-of it. The real strength there is in characters like Robert Moore, when
+of it. The real strength there is in characters like [[Robert Moore]], when
 
-he is dealing with anything except women, is the romance of industry in
+he is dealing with anything except women, is the [[Romance|romance]] of industry in
 
-its first advance: a romance that has not remained. On such fighting
+its first advance: a [[Romance|romance]] that has not remained. On such fighting
 
 frontiers people always exaggerate the strong qualities the masculine
 
@@ -720,13 +720,13 @@ than an original person; perhaps an origin. But so far as her written
 
 works go she enters English letters only as an original person--and
 
-rather a narrow one. Her imagination was sometimes superhuman--always
+rather a narrow one. Her [[Imagination|imagination]] was sometimes superhuman--always
 
 inhuman. _Wuthering Heights_ might have been written by an eagle. She is
 
 the strongest instance of these strong imaginations that made the other
 
-sex a monster: for Heathcliffe fails as a man as catastrophically as he
+sex a [[Monster|monster]]: for Heathcliffe fails as a man as catastrophically as he
 
 succeeds as a demon. I think Emily Brontë was further narrowed by the
 
@@ -740,9 +740,9 @@ In any case, it is Charlotte Brontë who enters Victorian literature. The
 
 shortest way of stating her strong contribution is, I think, this: that
 
-she reached the highest romance through the lowest realism. She did not
+she reached the highest [[Romance|romance]] through the lowest realism. She did not
 
-set out with Amadis of Gaul in a forest or with Mr. Pickwick in a comic
+set out with Amadis of Gaul in a forest or with Mr. [[Pickwick]] in a comic
 
 club. She set out with herself, with her own dingy clothes, and
 
@@ -750,7 +750,7 @@ accidental ugliness, and flat, coarse, provincial household; and
 
 forcibly fused all such muddy materials into a spirited fairy-tale. If
 
-the first chapters on the home and school had not proved how heavy and
+the first chapters on the [[Home|home]] and school had not proved how heavy and
 
 hateful _sanity_ can be, there would really be less point in the
 
@@ -762,17 +762,17 @@ sensational in the commonplace: and _Jane Eyre_ remains the best of her
 
 books (better even than _Villette_) because while it is a human document
 
-written in blood, it is also one of the best blood-and-thunder detective
+written in [[Blood|blood]], it is also one of the best [[Blood|blood]]-and-thunder [[Detective|detective]]
 
 stories in the world.
 
 
 
-But while Emily Brontë was as unsociable as a storm at midnight, and
+But while Emily Brontë was as unsociable as a [[Storm|storm]] at midnight, and
 
 while Charlotte Brontë was at best like that warmer and more domestic
 
-thing, a house on fire--they do connect themselves with the calm of
+thing, a [[house]] on [[Fire|fire]]--they do connect themselves with the calm of
 
 George Eliot, as the forerunners of many later developments of the
 
@@ -780,15 +780,15 @@ feminine advance. Many forerunners (if it comes to that) would have felt
 
 rather ill if they had seen the things they foreran. This notion of a
 
-hazy anticipation of after history has been absurdly overdone: as when
+hazy anticipation of after [[history]] has been absurdly overdone: as when
 
-men connect Chaucer with the Reformation; which is like connecting Homer
+men connect Chaucer with the [[Reformation]]; which is like connecting Homer
 
 with the Syracusan Expedition. But it is to some extent true that all
 
 these great Victorian women had a sort of unrest in their souls. And the
 
-proof of it is that (after what I will claim to call the healthier time
+proof of it is that (after what I will claim to call the healthier [[Time|time]]
 
 of Dickens and Thackeray) it began to be admitted by the great Victorian
 
@@ -800,7 +800,7 @@ of _Tess of the D'Urbervilles_. To what this strange and very local sex
 
 war has been due I shall not ask, because I have no answer. That it was
 
-due to votes or even little legal inequalities about marriage, I feel
+due to votes or even little legal inequalities about [[Marriage|marriage]], I feel
 
 myself here too close to realities even to discuss. My own guess is that
 
@@ -820,9 +820,9 @@ impossible to drop even into the second rank of good authors, whose name
 
 is legion; but it is impossible to leave that considerable female force
 
-in fiction which has so largely made the very nature of the modern
+in fiction which has so largely made the very [[Nature|nature]] of the modern
 
-novel, without mentioning two names which almost brought that second
+[[Novel|novel]], without mentioning two names which almost brought that second
 
 rank up to the first rank. They were at utterly opposite poles. The one
 
@@ -832,13 +832,13 @@ other succeeded by being a much more mad and unchristian Emily Brontë.
 
 But Mrs. Oliphant and the author calling herself "Ouida" both forced
 
-themselves well within the frontier of fine literature. _The Beleaguered
+themselves [[Well|well]] within the frontier of fine literature. _The Beleaguered
 
 City_ is literature in its highest sense; the other works of its author
 
 tend to fall into fiction in its best working sense. Mrs. Oliphant was
 
-infinitely saner in that city of ghosts than the cosmopolitan Ouida ever
+infinitely saner in that [[City|city]] of [[Ghosts|ghosts]] than the cosmopolitan Ouida ever
 
 was in any of the cities of men. Mrs. Oliphant would never have dared to
 
@@ -854,7 +854,7 @@ style; of conveying the very heat of blue skies or the bursting of
 
 palpable pomegranates. And just as Mrs. Oliphant transfused her more
 
-timid Victorian tales with a true and intense faith in the Christian
+timid Victorian tales with a true and intense [[Faith|faith]] in the Christian
 
 mystery--so Ouida, with infinite fury and infinite confusion of
 
@@ -870,7 +870,7 @@ on. On a general review I do not think I have been wrong in taking the
 
 female novelists first. I think they gave its special shape, its
 
-temporary twist, to the Victorian novel.
+temporary twist, to the Victorian [[Novel|novel]].
 
 
 
@@ -880,7 +880,7 @@ back to the males. It is the more abrupt because the first name that
 
 must be mentioned derives directly from the mere maleness of the Sterne
 
-and Smollett novel. I have already spoken of Dickens as the most homely
+and Smollett [[Novel|novel]]. I have already spoken of Dickens as the most homely
 
 and instinctive, and therefore probably the heaviest, of all the
 
@@ -892,9 +892,9 @@ novelist; but there is still much more to say than can even conceivably
 
 be said. Dickens, as we have stated, inherited the old comic, rambling
 
-novel from Smollett and the rest. Dickens, as we have also stated,
+[[Novel|novel]] from Smollett and the rest. Dickens, as we have also stated,
 
-consented to expurgate that novel. But when all origins and all
+consented to expurgate that [[Novel|novel]]. But when all origins and all
 
 restraints have been defined and allowed for, the creature that came out
 
@@ -918,15 +918,15 @@ villains stalking out or cowardly bullies kicked downstairs. But the
 
 villains and the cowards are such delightful people that the reader
 
-always hopes the villain will put his head through a side window and
+always hopes the [[Villain|villain]] will put his head through a side [[Window|window]] and
 
 make a last remark; or that the bully will say one thing more, even from
 
-the bottom of the stairs. The reader really hopes this; and he cannot
+the [[Bottom|bottom]] of the stairs. The reader really hopes this; and he cannot
 
 get rid of the fancy that the author hopes so too. I cannot at the
 
-moment recall that Dickens ever killed a comic villain, except Quilp,
+moment recall that Dickens ever killed a comic [[Villain|villain]], except Quilp,
 
 who was deliberately made even more villainous than comic. There can be
 
@@ -942,23 +942,23 @@ Pecksniff, or even of catching Mr. Mantalini collecting the washing, if
 
 one always lurked about on Monday mornings. This sentiment (the true
 
-artist will be relieved to hear) is entirely unmoral. Mrs. Wilfer
+[[Artist|artist]] will be relieved to hear) is entirely unmoral. Mrs. Wilfer
 
-deserved death much more than Mr. Quilp, for she had succeeded in
+deserved [[Death|death]] much more than Mr. Quilp, for she had succeeded in
 
 poisoning family life persistently, while he was (to say the least of
 
 it) intermittent in his domesticity. But who can honestly say he does
 
-not hope Mrs. Wilfer is still talking like Mrs. Wilfer--especially if it
+not [[Hope|hope]] Mrs. Wilfer is still talking like Mrs. Wilfer--especially if it
 
-is only in a book? This is the artistic greatness of Dickens, before and
+is only in a book? This is the artistic [[Greatness|greatness]] of Dickens, before and
 
 after which there is really nothing to be said. He had the power of
 
 creating people, both possible and impossible, who were simply precious
 
-and priceless people; and anything subtler added to that truth really
+and priceless people; and anything subtler added to that [[Truth|truth]] really
 
 only weakens it.
 
@@ -966,7 +966,7 @@ only weakens it.
 
 The mention of Mrs. Wilfer (whom the heart is loth to leave) reminds one
 
-of the only elementary ethical truth that is essential in the study of
+of the only elementary ethical [[Truth|truth]] that is essential in the study of
 
 Dickens. That is that he had broad or universal sympathies in a sense
 
@@ -974,11 +974,11 @@ totally unknown to the social reformers who wallow in such phrases.
 
 Dickens (unlike the social reformers) really did sympathise with every
 
-sort of victim of every sort of tyrant. He did truly pray for _all_ who
+sort of victim of every sort of [[Tyrant|tyrant]]. He did truly pray for _all_ who
 
 are desolate and oppressed. If you try to tie him to any cause narrower
 
-than that Prayer Book definition, you will find you have shut out half
+than that [[Prayer]] Book definition, you will find you have shut out half
 
 his best work. If, in your sympathy for Mrs. Quilp, you call Dickens the
 
@@ -990,15 +990,15 @@ your sympathy for Mr. Rouncewell you call Dickens the champion of a
 
 manly middle-class Liberalism against Chesney Wold, you will suddenly
 
-remember Stephen Blackpool--and find yourself unable to deny that Mr.
+remember [[Stephen Blackpool]]--and find yourself unable to deny that Mr.
 
-Rouncewell might be a pretty insupportable cock on his own dung-hill. If
+Rouncewell might be a pretty insupportable cock on his own dung-[[Hill|hill]]. If
 
-in your sympathy for Stephen Blackpool you call Dickens a Socialist (as
+in your sympathy for [[Stephen Blackpool]] you call Dickens a Socialist (as
 
 does Mr. Pugh), and think of him as merely heralding the great
 
-Collectivist revolt against Victorian Individualism and Capitalism,
+Collectivist revolt against Victorian [[Individualism]] and Capitalism,
 
 which seemed so clearly to be the crisis at the end of this epoch--you
 
@@ -1012,7 +1012,7 @@ Dickens did not merely believe in the brotherhood of men in the weak
 
 modern way; he was the brotherhood of men, and knew it was a brotherhood
 
-in sin as well as in aspiration. And he was not only larger than the old
+in sin as [[Well|well]] as in [[Aspiration|aspiration]]. And he was not only larger than the old
 
 factions he satirised; he was larger than any of our great social
 
@@ -1022,7 +1022,7 @@ schools that have gone forward since he died.
 
 The seemingly quaint custom of comparing Dickens and Thackeray existed
 
-in their own time, and no one will dismiss it with entire disdain who
+in their own [[Time|time]], and no one will dismiss it with entire disdain who
 
 remembers that the Victorian tradition was domestic and genuine, even
 
@@ -1032,9 +1032,9 @@ for making this imaginary duel between two quite separate and quite
 
 amiable acquaintances. And there is, after all, some reason for it. It
 
-is not, as was once cheaply said, that Thackeray went in for truth, and
+is not, as was once cheaply said, that Thackeray went in for [[Truth|truth]], and
 
-Dickens for mere caricature. There is a huge accumulation of truth,
+Dickens for mere caricature. There is a huge accumulation of [[Truth|truth]],
 
 down to the smallest detail, in Dickens: he seems sometimes a mere
 
@@ -1042,19 +1042,19 @@ mountain of facts. Thackeray, in comparison, often seems quite careless
 
 and elusive; almost as if he did not quite know where all his characters
 
-were. There is a truth behind the popular distinction; but it lies much
+were. There is a [[Truth|truth]] behind the popular distinction; but it lies much
 
 deeper. Perhaps the best way of stating it is this: that Dickens used
 
-reality, while aiming at an effect of romance; while Thackeray used the
+reality, while aiming at an effect of [[Romance|romance]]; while Thackeray used the
 
-loose language and ordinary approaches of romance, while aiming at an
+loose language and ordinary approaches of [[Romance|romance]], while aiming at an
 
 effect of reality. It was the special and splendid business of Dickens
 
 to introduce us to people who would have been quite incredible if he had
 
-not told us so much truth about them. It was the special and not less
+not told us so much [[Truth|truth]] about them. It was the special and not less
 
 splendid task of Thackeray to introduce us to people whom we knew
 
@@ -1066,11 +1066,11 @@ Trotwood, we vividly envisage everything about her, from her gardening
 
 gloves to her seaside residence, from her hard, handsome face to her
 
-tame lunatic laughing at the bedroom window. It is all so minutely true
+tame lunatic laughing at the bedroom [[Window|window]]. It is all so minutely true
 
 that she must be true also. We only feel inclined to walk round the
 
-English coast until we find that particular garden and that particular
+English coast until we find that particular [[Garden|garden]] and that particular
 
 aunt. But when we turn from the aunt of Copperfield to the uncle of
 
@@ -1094,13 +1094,13 @@ make us recognise an old friend. Whether we shall be pleased to meet the
 
 old friend is quite another matter: I think we should be better pleased
 
-to meet Miss Trotwood, and find, as David Copperfield did, a new friend,
+to meet Miss Trotwood, and find, as [[David Copperfield]] did, a new friend,
 
 a new world. But we recognise Major Pendennis even when we avoid him.
 
 Henceforth Thackeray can count on our seeing him from his wig to his
 
-well-blacked boots whenever he chooses to say "Major Pendennis paid a
+[[Well|well]]-blacked boots whenever he chooses to say "Major Pendennis paid a
 
 call." Dickens, on the other hand, had to keep up an incessant
 
@@ -1112,7 +1112,7 @@ kept it up.
 
 It may be said, in approximate summary, that Thackeray is the novelist
 
-of memory--of our memories as well as his own. Dickens seems to expect
+of [[Memory|memory]]--of our memories as [[Well|well]] as his own. Dickens seems to expect
 
 all his characters, like amusing strangers arriving at lunch: as if they
 
@@ -1128,7 +1128,7 @@ in some trivial grimace: we smell the strong smell of social cliques
 
 now quite incongruous to us; and there stir in all the little rooms at
 
-once the hundred ghosts of oneself.
+once the hundred [[Ghosts|ghosts]] of oneself.
 
 
 
@@ -1156,7 +1156,7 @@ such men is all the more effective; and there are passages in _Vanity
 
 Fair_ and still more in _The Book of Snobs_, where he does make the
 
-dance of wealth and fashion look stiff and monstrous, like a Babylonian
+[[Dance|dance]] of wealth and fashion look stiff and monstrous, like a Babylonian
 
 masquerade. But he never quite did it in such a way as to turn the
 
@@ -1166,9 +1166,9 @@ course of the Victorian Age.
 
 It may seem strange to say that Thackeray did not know enough of the
 
-world; yet this was the truth about him in large matters of the
+world; yet this was the [[Truth|truth]] about him in large matters of the
 
-philosophy of life, and especially of his own time. He did not know the
+[[philosophy]] of life, and especially of his own [[Time|time]]. He did not know the
 
 way things were going: he was too Victorian to understand the Victorian
 
@@ -1178,17 +1178,17 @@ one of his delightful asides he imagines two little clerks commenting
 
 erroneously on the appearance of Lady Kew or Sir Brian Newcome in the
 
-Park, and says: "How should Jones and Brown, who are not, _vous
+Park, and says: "How should [[Jones]] and Brown, who are not, _vous
 
 comprenez, du monde_, understand these mysteries?" But I think Thackeray
 
-knew quite as little about Jones and Brown as they knew about Newcome
+knew quite as little about [[Jones]] and Brown as they knew about Newcome
 
 and Kew; his world was _le monde_. Hence he seemed to take it for
 
 granted that the Victorian compromise would last; while Dickens (who
 
-knew his Jones and Brown) had already guessed that it would not.
+knew his [[Jones]] and Brown) had already guessed that it would not.
 
 Thackeray did not realise that the Victorian platform was a moving
 
@@ -1196,19 +1196,19 @@ platform. To take but one instance, he was a Radical like Dickens; all
 
 really representative Victorians, except perhaps Tennyson, were
 
-Radicals. But he seems to have thought of all reform as simple and
+Radicals. But he seems to have thought of all [[Reform|reform]] as simple and
 
 straightforward and all of a piece; as if Catholic Emancipation, the New
 
-Poor Law, Free Trade and the Factory Acts and Popular Education were all
+Poor Law, Free Trade and the Factory Acts and Popular [[Education]] were all
 
-parts of one almost self-evident evolution of enlightenment. Dickens,
+parts of one almost [[Self|self]]-evident evolution of enlightenment. Dickens,
 
-being in touch with the democracy, had already discovered that the
+being in touch with the [[Democracy|democracy]], had already discovered that the
 
 country had come to a dark place of divided ways and divided counsels.
 
-In _Hard Times_ he realised Democracy at war with Radicalism; and
+In _Hard Times_ he realised [[Democracy]] at war with Radicalism; and
 
 became, with so incompatible an ally as Ruskin, not indeed a Socialist,
 
@@ -1222,7 +1222,7 @@ Veneering had carried off Twemlow in triumph. He very nearly knew what
 
 we all know to-day: that, so far from it being possible to plod along
 
-the progressive road with more votes and more Free Trade, England must
+the progressive [[Road|road]] with more votes and more Free Trade, England must
 
 either sharply become very much more democratic or as rapidly become
 
@@ -1232,23 +1232,23 @@ very much less so.
 
 There gathers round these two great novelists a considerable group of
 
-good novelists, who more or less mirror their mid-Victorian mood. Wilkie
+good novelists, who more or less [[Mirror|mirror]] their mid-Victorian mood. Wilkie
 
 Collins may be said to be in this way a lesser Dickens and Anthony
 
 Trollope a lesser Thackeray. Wilkie Collins is chiefly typical of his
 
-time in this respect: that while his moral and religious conceptions
+[[Time|time]] in this respect: that while his moral and religious conceptions
 
 were as mechanical as his carefully constructed fictitious conspiracies,
 
 he nevertheless informed the latter with a sort of involuntary mysticism
 
-which dealt wholly with the darker side of the soul. For this was one
+which dealt wholly with the darker side of the [[Soul|soul]]. For this was one
 
 of the most peculiar of the problems of the Victorian mind. The idea of
 
-the supernatural was perhaps at as low an ebb as it had ever
+the [[Supernatural|supernatural]] was perhaps at as low an ebb as it had ever
 
 been--certainly much lower than it is now. But in spite of this, and in
 
@@ -1258,13 +1258,13 @@ strange fact remains that the only sort of supernaturalism the
 
 Victorians allowed to their imaginations was a sad supernaturalism. They
 
-might have ghost stories, but not saints' stories. They could trifle
+might have [[Ghost|ghost]] stories, but not saints' stories. They could trifle
 
-with the curse or unpardoning prophecy of a witch, but not with the
+with the curse or unpardoning prophecy of a [[Witch|witch]], but not with the
 
 pardon of a priest. They seem to have held (I believe erroneously) that
 
-the supernatural was safest when it came from below. When we think (for
+the [[Supernatural|supernatural]] was safest when it came from below. When we think (for
 
 example) of the uncountable riches of religious art, imagery, ritual and
 
@@ -1288,15 +1288,15 @@ is proper and literal to speak of his "plots." He was a plotter; he went
 
 about to slay Godfrey Ablewhite as coldly and craftily as the Indians
 
-did. But he also had a sound though sinister note of true magic; as in
+did. But he also had a sound though sinister note of true [[Magic|magic]]; as in
 
 the repetition of the two white dresses in _The Woman in White_; or of
 
-the dreams with their double explanations in _Armadale_. His ghosts do
+the [[Dreams|dreams]] with their [[Double|double]] explanations in _Armadale_. His [[Ghosts|ghosts]] do
 
 walk. They are alive; and walk as softly as Count Fosco, but as solidly.
 
-Finally, _The Moonstone_ is probably the best detective tale in the
+Finally, _The Moonstone_ is probably the best [[Detective|detective]] tale in the
 
 world.
 
@@ -1306,7 +1306,7 @@ Anthony Trollope, a clear and very capable realist, represents rather
 
 another side of the Victorian spirit of comfort; its leisureliness, its
 
-love of detail, especially of domestic detail; its love of following
+[[Love|love]] of detail, especially of domestic detail; its [[Love|love]] of following
 
 characters and kindred from book to book and from generation to
 
@@ -1332,7 +1332,7 @@ was a bustling but a quiet world that he described: politics before the
 
 coming of the Irish and the Socialists; the Church in the lull between
 
-the Oxford Movement and the modern High Anglican energy. And it is
+the [[Oxford]] Movement and the modern High Anglican energy. And it is
 
 notable in the Victorian spirit once more that though his clergymen are
 
@@ -1370,9 +1370,9 @@ _Hypatia_, and a certain electric atmosphere of sectarian excitement
 
 that Kingsley kept himself in, and did know how to convey. He said he
 
-wrote the book in his heart's blood. This is an exaggeration, but there
+wrote the book in his heart's [[Blood|blood]]. This is an exaggeration, but there
 
-is a truth in it; and one does feel that he may have relieved his
+is a [[Truth|truth]] in it; and one does feel that he may have relieved his
 
 feelings by writing it in red ink. As for Disraeli, his novels are able
 
@@ -1408,13 +1408,13 @@ without him. And this was not due to wholly superficial things like his
 
 dandyism, his dark, sinister good looks and a great deal of the mere
 
-polished melodrama that he wrote. There was something in his all-round
+polished [[Melodrama|melodrama]] that he wrote. There was something in his all-round
 
 interests; in the variety of things he tried; in his half-aristocratic
 
 swagger as poet and politician, that made him in some ways a real
 
-touchstone of the time. It is noticeable about him that he is always
+[[Touchstone|touchstone]] of the [[Time|time]]. It is noticeable about him that he is always
 
 turning up everywhere and that he brings other people out, generally in
 
@@ -1426,7 +1426,7 @@ Victorian common sense. His pose as a dilettante satirist inflamed the
 
 execrable temper of Tennyson, and led to those lively comparisons to a
 
-bandbox and a lion in curlpapers. He interposed the glove of warning and
+bandbox and a [[Lion|lion]] in curlpapers. He interposed the glove of warning and
 
 the tear of sensibility between us and the proper ending of _Great
 
@@ -1446,7 +1446,7 @@ Lytton, which often is in adventurers; which amounts to a suspicion that
 
 there was something in him after all. It rang out of him when he said to
 
-the hesitating Crimean Parliament: "Destroy your Government and save
+the hesitating Crimean Parliament: "Destroy your [[government|Government]] and save
 
 your army."
 
@@ -1458,9 +1458,9 @@ later, more revolutionary, more continental, freer but in some ways
 
 weaker world in which we live to-day. The subtle and sad change that
 
-was passing like twilight across the English brain at this time is very
+was passing like twilight across the English brain at this [[Time|time]] is very
 
-well expressed in the fact that men have come to mention the great name
+[[Well|well]] expressed in the fact that men have come to mention the great name
 
 of Meredith in the same breath as Mr. Thomas Hardy. Both writers,
 
@@ -1478,7 +1478,7 @@ mortal enemies. They were much more opposed to each other than Newman
 
 was to Kingsley; or than Abelard was to St. Bernard. But then they
 
-collided in a sceptical age, which is like colliding in a London fog.
+collided in a sceptical age, which is like colliding in a [[London]] fog.
 
 There can never be any clear controversy in a sceptical age.
 
@@ -1488,19 +1488,19 @@ Nevertheless both Hardy and Meredith did mean something; and they did
 
 mean diametrically opposite things. Meredith was perhaps the only man
 
-in the modern world who has almost had the high honour of rising out of
+in the modern world who has almost had the high [[Honour|honour]] of rising out of
 
 the low estate of a Pantheist into the high estate of a Pagan. A Pagan
 
 is a person who can do what hardly any person for the last two thousand
 
-years could do: a person who can take Nature naturally. It is due to
+years could do: a person who can take [[Nature]] naturally. It is due to
 
 Meredith to say that no one outside a few of the great Greeks has ever
 
-taken Nature so naturally as he did. And it is also due to him to say
+taken [[Nature]] so naturally as he did. And it is also due to him to say
 
-that no one outside Colney Hatch ever took Nature so unnaturally as it
+that no one outside Colney Hatch ever took [[Nature]] so unnaturally as it
 
 was taken in what Mr. Hardy has had the blasphemy to call Wessex Tales.
 
@@ -1520,7 +1520,7 @@ Pan is the great god. But there is some sense in it, and the sense is
 
 this: that some people believe that this world is sufficiently good at
 
-bottom for us to trust ourselves to it without very much knowing why. It
+[[Bottom|bottom]] for us to trust ourselves to it without very much knowing why. It
 
 is the whole point in most of Meredith's tales that there is something
 
@@ -1536,7 +1536,7 @@ interesting epigrams: like that about passing Seraglio Point, but not
 
 doubling Cape Turk. Those who can see Meredith's mind in that are with
 
-those who can see Dickens' mind in Little Nell. Both were chivalrous
+those who can see Dickens' mind in [[Little Nell]]. Both were chivalrous
 
 pronouncements on behalf of oppressed females: neither has any earthly
 
@@ -1558,7 +1558,7 @@ is the opposite of what he was always attempting to say. So far from
 
 admitting any equality in the sexes, it logically admits that a man may
 
-use against a woman any chains or whips he has been in the habit of
+use against a woman any [[Chains|chains]] or whips he has been in the habit of
 
 using against a tiger or a bear. He stood as the special champion of
 
@@ -1582,7 +1582,7 @@ mastery: he, at any rate, has not doubled Cape Turk, nor even passed
 
 Seraglio Point. Now why is it that we all really feel that this
 
-Meredithian passage is not so insolently masculine as in mere logic it
+Meredithian passage is not so insolently masculine as in mere [[logic]] it
 
 would seem? I think it is for this simple reason: that there is
 
@@ -1608,13 +1608,13 @@ Dickens and Carlyle, as we have said, rebelled against the orthodox
 
 compromise: but Meredith has escaped from it. Cosmopolitanism,
 
-Socialism, Feminism are already in the air; and Queen Victoria has
+Socialism, Feminism are already in the air; and [[Queen]] Victoria has
 
-begun to look like Mrs. Grundy. But to escape from a city is one thing:
+begun to look like Mrs. Grundy. But to escape from a [[City|city]] is one thing:
 
-to choose a road is another. The free-thinker who found himself outside
+to choose a [[Road|road]] is another. The free-thinker who found himself outside
 
-the Victorian city, found himself also in the fork of two very different
+the Victorian [[City|city]], found himself also in the fork of two very different
 
 naturalistic paths. One of them went upwards through a tangled but
 
@@ -1630,7 +1630,7 @@ and blaspheming over the village idiot. It is largely because the
 
 free-thinkers, as a school, have hardly made up their minds whether they
 
-want to be more optimist or more pessimist than Christianity that their
+want to be more optimist or more pessimist than [[Christianity]] that their
 
 small but sincere movement has failed.
 
@@ -1638,15 +1638,15 @@ small but sincere movement has failed.
 
 For the duel is deadly; and any agnostic who wishes to be anything more
 
-than a Nihilist must sympathise with one version of nature or the
+than a Nihilist must sympathise with one version of [[Nature|nature]] or the
 
 other. The God of Meredith is impersonal; but he is often more healthy
 
 and kindly than any of the persons. That of Thomas Hardy is almost made
 
-personal by the intense feeling that he is poisonous. Nature is always
+personal by the intense feeling that he is poisonous. [[Nature]] is always
 
-coming in to save Meredith's women; Nature is always coming in to betray
+coming in to save Meredith's women; [[Nature]] is always coming in to betray
 
 and ruin Hardy's. It has been said that if God had not existed it would
 
@@ -1668,17 +1668,17 @@ types of sceptic is this: that when these two brilliant novelists break
 
 down or blow up or otherwise lose for a moment their artistic
 
-self-command, they are both equally wild, but wild in opposite
+[[Self|self]]-command, they are both equally wild, but wild in opposite
 
-directions. Meredith shows an extravagance in comedy which, if it were
+directions. Meredith shows an extravagance in [[Comedy|comedy]] which, if it were
 
 not so complicated, every one would call broad farce. But Mr. Hardy has
 
-the honour of inventing a new sort of game, which may be called the
+the [[Honour|honour]] of inventing a new sort of game, which may be called the
 
-extravagance of depression. The placing of the weak lover and his new
+extravagance of depression. The placing of the weak [[Lover|lover]] and his new
 
-love in such a place that they actually see the black flag announcing
+[[Love|love]] in such a place that they actually see the black [[Flag|flag]] announcing
 
 that Tess has been hanged is utterly inexcusable in art and probability;
 
@@ -1700,37 +1700,37 @@ outlook who had the crabbed and perverse style; it was the man who had
 
 the crabbed and perverse outlook who had the healthy and manly style.
 
-The reader may well have complained of paradox when I observed above
+The reader may [[Well|well]] have complained of [[Paradox|paradox]] when I observed above
 
-that Meredith, unlike most neo-Pagans, did in his way take Nature
+that Meredith, unlike most neo-Pagans, did in his way take [[Nature]]
 
 naturally. It may be suggested, in tones of some remonstrance, that
 
 things like "though pierced by the cruel acerb," or "thy fleetingness is
 
-bigger in the ghost," or "her gabbling grey she eyes askant," or "sheer
+bigger in the [[Ghost|ghost]]," or "her gabbling grey she eyes askant," or "sheer
 
-film of the surface awag" are not taking Nature naturally. And this is
+film of the surface awag" are not taking [[Nature]] naturally. And this is
 
 true of Meredith's style, but it is not true of his spirit; nor even,
 
-apparently, of his serious opinions. In one of the poems I have quoted
+apparently, of his serious opinions. In one of the [[Poems|poems]] I have quoted
 
-he actually says of those who live nearest to that Nature he was always
+he actually says of those who live nearest to that [[Nature]] he was always
 
 praising--
 
 
 
-    "Have they but held her laws and nature dear,
+    "Have they but held her laws and [[Nature|nature]] dear,
 
     They mouth no sentence of inverted wit";
 
 
 
-which certainly was what Meredith himself was doing most of the time.
+which certainly was what Meredith himself was doing most of the [[Time|time]].
 
-But a similar paradox of the combination of plain tastes with twisted
+But a similar [[Paradox|paradox]] of the combination of plain tastes with twisted
 
 phrases can also be seen in Browning. Something of the same can be seen
 
@@ -1750,9 +1750,9 @@ Certainly Meredith suffers from applying a complex method to men and
 
 things he does not mean to be complex; nay, honestly admires for being
 
-simple. The conversations between Diana and Redworth fail of their full
+simple. The conversations between [[Diana]] and Redworth fail of their full
 
-contrast because Meredith can afford the twopence for Diana coloured,
+contrast because Meredith can afford the twopence for [[Diana]] coloured,
 
 but cannot afford the penny for Redworth plain. Meredith's ideals were
 
@@ -1762,17 +1762,17 @@ had, perhaps, over and above his honest Pantheism two convictions
 
 profound enough to be called prejudices. He was probably of Welsh
 
-blood, certainly of Celtic sympathies, and he set himself more swiftly
+[[Blood|blood]], certainly of Celtic sympathies, and he set himself more swiftly
 
 though more subtly than Ruskin or Swinburne to undermining the enormous
 
-complacency of John Bull. He also had a sincere hope in the strength of
+complacency of John Bull. He also had a sincere [[Hope|hope]] in the strength of
 
 womanhood, and may be said, almost without hyperbole, to have begotten
 
 gigantic daughters. He may yet suffer for his chivalric interference as
 
-many champions do. I have little doubt that when St. George had killed
+many champions do. I have little [[Doubt|doubt]] that when St. George had killed
 
 the dragon he was heartily afraid of the princess. But certainly neither
 
@@ -1780,7 +1780,7 @@ of these two vital enthusiasms touched the Victorian trouble. The
 
 disaster of the modern English is not that they are not Celtic, but that
 
-they are not English. The tragedy of the modern woman is not that she is
+they are not English. The [[Tragedy|tragedy]] of the modern woman is not that she is
 
 not allowed to follow man, but that she follows him far too slavishly.
 
@@ -1802,7 +1802,7 @@ he gets the impression of a real richness of thought; and that is what
 
 one really gets from such riots of felicity as _Evan Harrington_ or
 
-_Harry Richmond_. His philosophy may be barren, but he was not. And the
+_Harry Richmond_. His [[philosophy]] may be barren, but he was not. And the
 
 chief feeling among those that enjoy him is a mere wish that more people
 
@@ -1826,7 +1826,7 @@ best novels about cavaliers have been (written by men like Scott or
 
 Stevenson) it is a wonderful thing that the author of _John Inglesant_
 
-could write a cavalier romance in which he forgot Cromwell but
+could write a cavalier [[Romance|romance]] in which he forgot Cromwell but
 
 remembered Hobbes. But Shorthouse is outside the period in fiction in
 
@@ -1848,9 +1848,9 @@ great Victorians who will not fit into any of the obvious categories I
 
 employ; because they will not fit into anything, hardly into the world
 
-itself. Where Germany or Italy would relieve the monotony of mankind by
+itself. Where [[Germany]] or [[Italy]] would relieve the monotony of mankind by
 
-paying serious respect to an artist, or a scholar, or a patriotic
+paying serious respect to an [[Artist|artist]], or a scholar, or a patriotic
 
 warrior, or a priest--it was always the instinct of the English to do it
 
@@ -1862,7 +1862,7 @@ critic, but he survives as a Character. Cobbett is neglected
 
 a Character. Now these people continued to crop up through the Victorian
 
-time; and each stands so much by himself that I shall end these pages
+[[Time|time]]; and each stands so much by himself that I shall end these pages
 
 with a profound suspicion that I have forgotten to mention a Character
 
@@ -1872,7 +1872,7 @@ George Borrow; who sympathised with unsuccessful nomads like the gipsies
 
 while every one else sympathised with successful nomads like the Jews;
 
-who had a genius like the west wind for the awakening of wild and casual
+who had a genius like the west [[Wind|wind]] for the awakening of wild and casual
 
 friendships and the drag and attraction of the roads. But whether George
 
@@ -1912,13 +1912,13 @@ thing; a thing called Nonsense. It may be doubted whether this thing was
 
 really invented to please children. Rather it was invented by old
 
-people trying to prove their first childhood, and sometimes succeeding
+people trying to prove their first [[Childhood|childhood]], and sometimes succeeding
 
 only in proving their second. But whatever else the thing was, it was
 
 English and it was individual. Lewis Carroll gave mathematics a holiday:
 
-he carried logic into the wild lands of illogicality. Edward Lear, a
+he carried [[logic]] into the wild lands of illogicality. Edward Lear, a
 
 richer, more romantic and therefore more truly Victorian buffoon,
 
@@ -1928,11 +1928,11 @@ think, conclude that it reposed on something more real and profound in
 
 the Victorians than even their just and exquisite appreciation of
 
-children. It came from the deep Victorian sense of humour.
+children. It came from the deep Victorian sense of [[Humour|humour]].
 
 
 
-It may appear, because I have used from time to time the only possible
+It may appear, because I have used from [[Time|time]] to [[Time|time]] the only possible
 
 phrases for the case, that I mean the Victorian Englishman to appear as
 
@@ -1946,7 +1946,7 @@ which Goethe had never taught the Germans, Byron did manage to teach the
 
 English--the duty of not taking him seriously. The strong and shrewd
 
-Victorian humour appears in every slash of the pencil of Charles Keene;
+Victorian [[Humour|humour]] appears in every slash of the pencil of Charles Keene;
 
 in every undergraduate inspiration of Calverley or "Q." or J. K. S. They
 

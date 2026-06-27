@@ -1,5 +1,5 @@
 ---
-title: "Coriolanus — Act III, Scene 1 — exchange (COMINIUS) [4]"
+title: "[[Coriolanus]] — Act III, Scene 1 — exchange ([[Cominius|COMINIUS]]) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/CORIOLANUS-(Shakespeare)"
@@ -15,8 +15,8 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| COMINIUS | Well, on to th’ market-place. |
-| CORIOLANUS | Whoever gave that counsel to give forth The corn o‘th’ storehouse gratis, as ’twas used Sometime in Greece— |
-| MENENIUS | Well, well, no more of that. |
-| CORIOLANUS | Though there the people had more absolute power— I say they nourished disobedience, fed The ruin of the state. |
-| BRUTUS | Why shall the people give One that speaks thus their voice? |
+| [[Cominius|COMINIUS]] | [[Well]], on to th’ market-place. |
+| [[Coriolanus|CORIOLANUS]] | Whoever gave that counsel to give forth The corn o‘th’ storehouse gratis, as ’twas used Sometime in Greece— |
+| [[Menenius|MENENIUS]] | [[Well]], [[Well|well]], no more of that. |
+| [[Coriolanus|CORIOLANUS]] | Though there the people had more absolute power— I say they nourished disobedience, fed The ruin of the state. |
+| [[Brutus|BRUTUS]] | Why shall the people give One that speaks thus their voice? |

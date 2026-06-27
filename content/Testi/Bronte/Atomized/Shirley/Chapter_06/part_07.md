@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 6 (part 7)"
+title: "[[Shirley]] — Chapter 6 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 you must not neglect chances of soothing them; and you must not be of an
 
-inflexible nature, uttering a request as austerely as if it were a
+inflexible [[Nature|nature]], uttering a request as austerely as if it were a
 
 command."
 
@@ -28,7 +28,7 @@ your head?"
 
 
 
-"A wish for your good, a care for your safety, dear Robert, and a fear,
+"A wish for your good, a care for your safety, dear Robert, and a [[Fear|fear]],
 
 caused by many things which I have heard lately, that you will come to
 
@@ -86,7 +86,7 @@ better for you to be loved by your workpeople than to be hated by them,
 
 and I am sure that kindness is more likely to win their regard than
 
-pride. If you were proud and cold to me and Hortense, should we love
+[[Pride|pride]]. If you were proud and cold to me and Hortense, should we [[Love|love]]
 
 you? When you are cold to me, as you _are_ sometimes, can I venture to
 
@@ -108,7 +108,7 @@ poor André Chénier--'La Jeune Captive.' Do you remember it still?"
 
 
 
-"Repeat it, then. Take your time and mind your accent; especially let us
+"Repeat it, then. Take your [[Time|time]] and mind your accent; especially let us
 
 have no English _u_'s."
 
@@ -116,9 +116,9 @@ have no English _u_'s."
 
 Caroline, beginning in a low, rather tremulous voice, but gaining
 
-courage as she proceeded, repeated the sweet verses of Chénier. The last
+[[Courage|courage]] as she proceeded, repeated the sweet verses of Chénier. The last
 
-three stanzas she rehearsed well.
+three stanzas she rehearsed [[Well|well]].
 
 
 
@@ -172,15 +172,15 @@ calculated to awaken not only the calm sentiment of esteem, the distant
 
 one of admiration, but some feeling more tender, genial,
 
-intimate--friendship, perhaps, affection, interest. When she had
+intimate--[[Friendship|friendship]], perhaps, affection, interest. When she had
 
 finished, she turned to Moore, and met his eye.
 
 
 
-"Is that pretty well repeated?" she inquired, smiling like any happy,
+"Is that pretty [[Well|well]] repeated?" she inquired, smiling like any happy,
 
-docile child.
+docile [[Child|child]].
 
 
 
@@ -202,7 +202,7 @@ heart, and so made it partly mine."
 
 
 
-Mr. Moore now sat silent for several minutes. It struck nine o'clock.
+Mr. Moore now sat silent for several minutes. It struck nine o'[[Clock|clock]].
 
 Sarah entered, and said that Mr. Helstone's servant was come for Miss
 
@@ -216,7 +216,7 @@ I suppose, before I pass another here."
 
 
 
-Hortense had been for some time nodding over her knitting; fallen into a
+Hortense had been for some [[Time|time]] nodding over her knitting; fallen into a
 
 doze now, she made no response to the remark.
 
@@ -230,13 +230,13 @@ it still lay, and carefully wrapped it round her.
 
 
 
-"I like to come here; but I have no desire to be intrusive. I am not
+"I like to come here; but I have no [[Desire|desire]] to be intrusive. I am not
 
 hinting to be asked; you must understand that."
 
 
 
-"Oh! I understand thee, child. You sometimes lecture me for wishing to
+"Oh! I understand thee, [[Child|child]]. You sometimes lecture me for wishing to
 
 be rich, Lina; but if I _were_ rich, you should live here always--at any
 
@@ -246,7 +246,7 @@ rate, you should live with me wherever my habitation might be."
 
 "That would be pleasant; and if you were poor--ever so poor--it would
 
-still be pleasant. Good-night, Robert."
+still be pleasant. Good-[[Night|night]], Robert."
 
 
 
@@ -258,7 +258,7 @@ still be pleasant. Good-night, Robert."
 
 to remind you, though I wished to do it. But would you like to go? It is
 
-a cold night, and as Fanny is come, there is no necessity----"
+a cold [[Night|night]], and as Fanny is come, there is no necessity----"
 
 
 
@@ -268,7 +268,7 @@ a cold night, and as Fanny is come, there is no necessity----"
 
 The half mile to the rectory was soon traversed. They parted in the
 
-garden without kiss, scarcely with a pressure of hands; yet Robert sent
+[[Garden|garden]] without kiss, scarcely with a pressure of hands; yet Robert sent
 
 his cousin in excited and joyously troubled. He had been singularly kind
 
@@ -278,11 +278,11 @@ in look, and in soft and friendly tones.
 
 
 
-For himself, he came home grave, almost morose. As he stood leaning on
+For himself, he came [[Home|home]] [[Grave|grave]], almost morose. As he stood leaning on
 
-his own yard-gate, musing in the watery moonlight all alone, the hushed,
+his own yard-gate, musing in the watery moonlight all [[Alone|alone]], the hushed,
 
-dark mill before him, the hill-environed hollow round, he exclaimed,
+dark mill before him, the [[Hill|hill]]-environed hollow round, he exclaimed,
 
 abruptly,--
 
@@ -292,4 +292,4 @@ abruptly,--
 
 However," he added, dropping his voice, "the frenzy is quite temporary.
 
-I know it very well; I have had it before. It will be gone to-morrow."
+I know it very [[Well|well]]; I have had it before. It will be gone to-morrow."

@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 53 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 53 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 ‘I’m a Turk if he don’t give me a warmer welcome always than any man
 of sense,’ said Hugh, shaking hands with him with a kind of ferocious
-friendship, strange enough to see. ‘How are you, boy?’
+[[Friendship|friendship]], strange enough to see. ‘How are you, boy?’
 
 ‘Hearty!’ cried Barnaby, waving his hat. ‘Ha ha ha! And merry too,
 Hugh! And ready to do anything for the good cause, and the right, and
@@ -29,7 +29,7 @@ day, master!’
 
 ‘And good day to you,’ replied the secretary, nursing his leg.
 
-‘And many good days--whole years of them, I hope. You are heated.’
+‘And many good days--whole years of them, I [[Hope|hope]]. You are heated.’
 
 ‘So would you have been, master,’ said Hugh, wiping his face, ‘if you’d
 been running here as fast as I have.’
@@ -40,22 +40,22 @@ been running here as fast as I have.’
 
 ‘You don’t?’ cried Gashford, raising his eyebrows with an exclamation
 of surprise. ‘Dear me! Come; then I AM the first to make you acquainted
-with your distinguished position, after all. Do you see the King’s Arms
+with your distinguished position, after all. Do you see the [[King]]’s Arms
 a-top?’ he smilingly asked, as he took a large paper from his pocket,
 unfolded it, and held it out for Hugh’s inspection.
 
-‘Well!’ said Hugh. ‘What’s that to me?’
+‘[[Well]]!’ said Hugh. ‘What’s that to me?’
 
 ‘Much. A great deal,’ replied the secretary. ‘Read it.’
 
-‘I told you, the first time I saw you, that I couldn’t read,’ said Hugh,
+‘I told you, the first [[Time|time]] I saw you, that I couldn’t read,’ said Hugh,
 impatiently. ‘What in the Devil’s name’s inside of it?’
 
-‘It is a proclamation from the King in Council,’ said Gashford, ‘dated
+‘It is a proclamation from the [[King]] in Council,’ said Gashford, ‘dated
 to-day, and offering a reward of five hundred pounds--five hundred
-pounds is a great deal of money, and a large temptation to some
+pounds is a great deal of money, and a large [[Temptation|temptation]] to some
 people--to any one who will discover the person or persons most active
-in demolishing those chapels on Saturday night.’
+in demolishing those chapels on Saturday [[Night|night]].’
 
 ‘Is that all?’ cried Hugh, with an indifferent air. ‘I knew of that.’
 
@@ -73,11 +73,11 @@ me! Shall I say his name?’
 
 ‘No,’ said Hugh, with a hasty glance towards Dennis.
 
-‘You have also heard from him, no doubt,’ resumed the secretary, after a
+‘You have also heard from him, no [[Doubt|doubt]],’ resumed the secretary, after a
 moment’s pause, ‘that the rioters who have been taken (poor fellows) are
 committed for trial, and that some very active witnesses have had the
 temerity to appear against them. Among others--’ and here he clenched
-his teeth, as if he would suppress by force some violent words that rose
+his teeth, as if he would suppress by force some violent words that [[Rose|rose]]
 upon his tongue; and spoke very slowly. ‘Among others, a gentleman
 who saw the work going on in Warwick Street; a Catholic gentleman; one
 Haredale.’
@@ -86,8 +86,8 @@ Hugh would have prevented his uttering the word, but it was out already.
 Hearing the name, Barnaby turned swiftly round.
 
 ‘Duty, duty, bold Barnaby!’ cried Hugh, assuming his wildest and most
-rapid manner, and thrusting into his hand his staff and flag which leant
-against the wall. ‘Mount guard without loss of time, for we are off upon
+rapid manner, and thrusting into his hand his staff and [[Flag|flag]] which leant
+against the wall. ‘Mount guard without loss of [[Time|time]], for we are off upon
 our expedition. Up, Dennis, and get ready! Take care that no one turns
 the straw upon my bed, brave Barnaby; we know what’s underneath it--eh?
 Now, master, quick! What you have to say, say speedily, for the little
@@ -96,8 +96,8 @@ Sharp’s the word, and strike’s the action. Quick!’
 
 Barnaby was not proof against this bustle and despatch. The look of
 mingled astonishment and anger which had appeared in his face when he
-turned towards them, faded from it as the words passed from his memory,
-like breath from a polished mirror; and grasping the weapon which Hugh
+turned towards them, faded from it as the words passed from his [[Memory|memory]],
+like breath from a polished [[Mirror|mirror]]; and grasping the weapon which Hugh
 forced upon him, he proudly took his station at the door, beyond their
 hearing.
 
@@ -108,7 +108,7 @@ men!’
 
 ‘He’s as quick sometimes--I don’t mean with his hands, for that you
 know, but with his head--as you or any man,’ said Hugh. ‘Dennis, it’s
-time we were going; they’re waiting for us; I came to tell you. Reach
+[[Time|time]] we were going; they’re waiting for us; I came to tell you. Reach
 me my stick and belt. Here! Lend a hand, master. Fling this over my
 shoulder, and buckle it behind, will you?’
 
@@ -122,11 +122,11 @@ angrily down upon him, replied:
 
 ‘Is there! You know there is! Who knows better than you, master, that
 the first great step to be taken is to make examples of these witnesses,
-and frighten all men from appearing against us or any of our body, any
+and frighten all men from appearing against us or any of our [[Body|body]], any
 more?’
 
 ‘There’s one we know of,’ returned Gashford, with an expressive smile,
-‘who is at least as well informed upon that subject as you or I.’
+‘who is at least as [[Well|well]] informed upon that subject as you or I.’
 
 ‘If we mean the same gentleman, as I suppose we do,’ Hugh rejoined
 softly, ‘I tell you this--he’s as good and quick information about
@@ -136,7 +136,7 @@ himself. Have you done that, master? How slow you are!’
 
 ‘It’s quite fast now,’ said Gashford, rising. ‘I say--you didn’t find
 that your friend disapproved of to-day’s little expedition? Ha ha ha!
-It is fortunate it jumps so well with the witness policy; for, once
+It is fortunate it jumps so [[Well|well]] with the witness policy; for, once
 planned, it must have been carried out. And now you are going, eh?’
 
 ‘Now we are going, master!’ Hugh replied. ‘Any parting words?’

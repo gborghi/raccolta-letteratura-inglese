@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 9 (part 9)"
+title: "[[Martin Chuzzlewit]] — Chapter 9 (part 9)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -19,26 +19,26 @@ saving the youngest gentleman’s in company. He sits apart, with his
 elbow on the back of a vacant chair, and glares disdainfully at Jinkins.
 Gander, in a convulsing speech, gives them the health of Bailey junior;
 hiccups are heard; and a glass is broken. Mr Jinkins feels that it is
-time to join the ladies. He proposes, as a final sentiment, Mrs Todgers.
+[[Time|time]] to join the ladies. He proposes, as a final sentiment, Mrs Todgers.
 She is worthy to be remembered separately. Hear, hear. So she is; no
-doubt of it. They all find fault with her at other times; but every man
+[[Doubt|doubt]] of it. They all find fault with her at other times; but every man
 feels now, that he could die in her defence.
 
 They go upstairs, where they are not expected so soon; for Mrs Todgers
-is asleep, Miss Charity is adjusting her hair, and Mercy, who has made
-a sofa of one of the window-seats is in a gracefully recumbent attitude.
+is asleep, Miss [[Charity]] is adjusting her hair, and [[Mercy]], who has made
+a sofa of one of the [[Window|window]]-seats is in a gracefully recumbent attitude.
 She is rising hastily, when Mr Jinkins implores her, for all their
 sakes, not to stir; she looks too graceful and too lovely, he remarks,
 to be disturbed. She laughs, and yields, and fans herself, and drops
 her fan, and there is a rush to pick it up. Being now installed, by one
-consent, as the beauty of the party, she is cruel and capricious, and
+consent, as the [[Beauty|beauty]] of the party, she is cruel and capricious, and
 sends gentlemen on messages to other gentlemen, and forgets all about
 them before they can return with the answer, and invents a thousand
 tortures, rending their hearts to pieces. Bailey brings up the tea and
-coffee. There is a small cluster of admirers round Charity; but they
+coffee. There is a small cluster of admirers round [[Charity]]; but they
 are only those who cannot get near her sister. The youngest gentleman
 in company is pale, but collected, and still sits apart; for his spirit
-loves to hold communion with itself, and his soul recoils from noisy
+loves to hold communion with itself, and his [[Soul|soul]] recoils from noisy
 revellers. She has a consciousness of his presence and adoration.
 He sees it flashing sometimes in the corner of her eye. Have a care,
 Jinkins, ere you provoke a desperate man to frenzy!
@@ -57,7 +57,7 @@ Todgers!’
 ‘My goodness!’ exclaimed that lady. ‘How low you are in your spirits,
 sir!’
 
-‘I am a man, my dear madam,’ said Mr Pecksniff, shedding tears and
+‘I am a man, my dear madam,’ said Mr Pecksniff, shedding [[Tears|tears]] and
 speaking with an imperfect articulation, ‘but I am also a father. I
 am also a widower. My feelings, Mrs Todgers, will not consent to be
 entirely smothered, like the young children in the Tower. They are grown
@@ -77,10 +77,10 @@ property.’
 ‘Those are her daughters,’ said Mr Pecksniff, pointing out the young
 ladies, with increased emotion.
 
-Mrs Todgers had no doubt about it.
+Mrs Todgers had no [[Doubt|doubt]] about it.
 
-‘Mercy and Charity,’ said Mr Pecksniff, ‘Charity and Mercy. Not unholy
-names, I hope?’
+‘[[Mercy]] and [[Charity]],’ said Mr Pecksniff, ‘[[Charity]] and [[Mercy]]. Not unholy
+names, I [[Hope|hope]]?’
 
 ‘Mr Pecksniff!’ cried Mrs Todgers. ‘What a ghastly smile! Are you ill,
 sir?’
@@ -91,18 +91,18 @@ faint voice, ‘Chronic.’
 ‘Cholic?’ cried the frightened Mrs Todgers.
 
 ‘Chron-ic,’ he repeated with some difficulty. ‘Chron-ic. A chronic
-disorder. I have been its victim from childhood. It is carrying me to my
-grave.’
+disorder. I have been its victim from [[Childhood|childhood]]. It is carrying me to my
+[[Grave|grave]].’
 
 ‘Heaven forbid!’ cried Mrs Todgers.
 
-‘Yes, it is,’ said Mr Pecksniff, reckless with despair. ‘I am rather
+‘Yes, it is,’ said Mr Pecksniff, reckless with [[Despair|despair]]. ‘I am rather
 glad of it, upon the whole. You are like her, Mrs Todgers.’
 
 ‘Don’t squeeze me so tight, pray, Mr Pecksniff. If any of the gentlemen
 should notice us.’
 
-‘For her sake,’ said Mr Pecksniff. ‘Permit me--in honour of her memory.
+‘For her sake,’ said Mr Pecksniff. ‘Permit me--in [[Honour|honour]] of her [[Memory|memory]].
 For the sake of a voice from the tomb. You are VERY like her Mrs
 Todgers! What a world this is!’
 
@@ -115,7 +115,7 @@ hand, Mrs Todgers.’
 
 The lady hesitated, and said ‘she didn’t like.’
 
-‘Has a voice from the grave no influence?’ said Mr Pecksniff, with,
+‘Has a voice from the [[Grave|grave]] no influence?’ said Mr Pecksniff, with,
 dismal tenderness. ‘This is irreligious! My dear creature.’
 
 ‘Hush!’ urged Mrs Todgers. ‘Really you mustn’t.’
@@ -124,13 +124,13 @@ dismal tenderness. ‘This is irreligious! My dear creature.’
 voice; it’s her voice.’
 
 Mrs Pecksniff deceased, must have had an unusually thick and husky voice
-for a lady, and rather a stuttering voice, and to say the truth somewhat
+for a lady, and rather a stuttering voice, and to say the [[Truth|truth]] somewhat
 of a drunken voice, if it had ever borne much resemblance to that in
 which Mr Pecksniff spoke just then. But perhaps this was delusion on his
 part.
 
 ‘It has been a day of enjoyment, Mrs Todgers, but still it has been a
-day of torture. It has reminded me of my loneliness. What am I in the
+day of torture. It has reminded me of my [[Loneliness|loneliness]]. What am I in the
 world?’
 
 ‘An excellent gentleman, Mr Pecksniff,’ said Mrs Todgers.
@@ -139,7 +139,7 @@ world?’
 
 ‘There is no better man living,’ said Mrs Todgers, ‘I am sure.’
 
-Mr Pecksniff smiled through his tears, and slightly shook his head. ‘You
+Mr Pecksniff smiled through his [[Tears|tears]], and slightly shook his head. ‘You
 are very good,’ he said, ‘thank you. It is a great happiness to me, Mrs
 Todgers, to make young people happy. The happiness of my pupils is my
 chief object. I dote upon ‘em. They dote upon me too--sometimes.’

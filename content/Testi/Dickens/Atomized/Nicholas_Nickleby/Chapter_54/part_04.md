@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 54 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 54 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -23,7 +23,7 @@ lashed her, but she gave him no reply.
 brother’s son: a reprobate and profligate, stained with every mean
 and selfish crime--this fellow, coming here today to disturb a solemn
 ceremony, and knowing that the consequence of his presenting himself in
-another man’s house at such a time, and persisting in remaining there,
+another man’s [[house]] at such a [[Time|time]], and persisting in remaining there,
 must be his being kicked into the streets and dragged through them like
 the vagabond he is--this fellow, mark you, brings with him his sister
 as a protection, thinking we would not expose a silly girl to the
@@ -33,12 +33,12 @@ you see, and clings to her apron-strings like a cowardly boy to his
 mother’s. Is not this a pretty fellow to talk as big as you have heard
 him now?’
 
-‘And as I heard him last night,’ said Arthur Gride; ‘as I heard him last
-night when he sneaked into my house, and--he! he! he!--very soon sneaked
-out again, when I nearly frightened him to death. And HE wanting to
-marry Miss Madeline too! Oh dear! Is there anything else he’d like?
+‘And as I heard him last [[Night|night]],’ said [[arthur|Arthur]] Gride; ‘as I heard him last
+[[Night|night]] when he sneaked into my [[house]], and--he! he! he!--very soon sneaked
+out again, when I nearly frightened him to [[Death|death]]. And HE wanting to
+marry Miss [[Madeline]] too! Oh dear! Is there anything else he’d like?
 Anything else we can do for him, besides giving her up? Would he like
-his debts paid and his house furnished, and a few bank notes for shaving
+his debts paid and his [[house]] furnished, and a few bank notes for shaving
 paper if he shaves at all? He! he! he!’
 
 ‘You will remain, girl, will you?’ said Ralph, turning upon Kate again,
@@ -60,10 +60,10 @@ Nicholas.
 
 ‘Remember that you come near me at your peril,’ said Nicholas.
 
-Gride hesitated. Ralph being, by this time, as furious as a baffled
+Gride hesitated. Ralph being, by this [[Time|time]], as furious as a baffled
 tiger, made for the door, and, attempting to pass Kate, clasped her arm
-roughly with his hand. Nicholas, with his eyes darting fire, seized him
-by the collar. At that moment, a heavy body fell with great violence
+roughly with his hand. Nicholas, with his eyes darting [[Fire|fire]], seized him
+by the collar. At that moment, a heavy [[Body|body]] fell with great violence
 on the floor above, and, in an instant afterwards, was heard a most
 appalling and terrific scream.
 
@@ -72,13 +72,13 @@ scream; a heavy pattering of feet succeeded; and many shrill voices
 clamouring together were heard to cry, ‘He is dead!’
 
 ‘Stand off!’ cried Nicholas, letting loose all the passion he had
-restrained till now; ‘if this is what I scarcely dare to hope it is, you
+restrained till now; ‘if this is what I scarcely dare to [[Hope|hope]] it is, you
 are caught, villains, in your own toils.’
 
 He burst from the room, and, darting upstairs to the quarter from whence
 the noise proceeded, forced his way through a crowd of persons who quite
 filled a small bed-chamber, and found Bray lying on the floor quite
-dead; his daughter clinging to the body.
+dead; his daughter clinging to the [[Body|body]].
 
 ‘How did this happen?’ he cried, looking wildly about him.
 
@@ -88,10 +88,10 @@ chair; that he had been spoken to several times, and not answering, was
 supposed to be asleep, until some person going in and shaking him by the
 arm, he fell heavily to the ground and was discovered to be dead.
 
-‘Who is the owner of this house?’ said Nicholas, hastily.
+‘Who is the owner of this [[house]]?’ said Nicholas, hastily.
 
 An elderly woman was pointed out to him; and to her he said, as he knelt
-down and gently unwound Madeline’s arms from the lifeless mass round
+down and gently unwound [[Madeline]]’s arms from the lifeless mass round
 which they were entwined: ‘I represent this lady’s nearest friends, as
 her servant here knows, and must remove her from this dreadful scene.
 This is my sister to whose charge you confide her. My name and address
@@ -108,17 +108,17 @@ he and Kate bent over their beautiful charge and endeavoured, but in
 vain, to restore her to animation. The girl performed her office with
 such expedition, that in a very few minutes the coach was ready.
 
-Ralph Nickleby and Gride, stunned and paralysed by the awful event
+[[Ralph Nickleby]] and Gride, stunned and paralysed by the awful event
 which had so suddenly overthrown their schemes (it would not otherwise,
 perhaps, have made much impression on them), and carried away by the
 extraordinary energy and precipitation of Nicholas, which bore down
-all before him, looked on at these proceedings like men in a dream
-or trance. It was not until every preparation was made for Madeline’s
-immediate removal that Ralph broke silence by declaring she should not
+all before him, looked on at these proceedings like men in [[A Dream|a dream]]
+or trance. It was not until every preparation was made for [[Madeline]]’s
+immediate removal that Ralph broke [[Silence|silence]] by declaring she should not
 be taken away.
 
 ‘Who says so?’ cried Nicholas, rising from his knee and confronting
-them, but still retaining Madeline’s lifeless hand in his.
+them, but still retaining [[Madeline]]’s lifeless hand in his.
 
 ‘I!’ answered Ralph, hoarsely.
 
@@ -127,7 +127,7 @@ them, but still retaining Madeline’s lifeless hand in his.
 
 ‘Ay!’ said Nicholas, extending his disengaged hand in the air, ‘hear
 what he says. That both your debts are paid in the one great debt of
-nature. That the bond, due today at twelve, is now waste paper. That
+[[Nature|nature]]. That the bond, due today at twelve, is now waste paper. That
 your contemplated fraud shall be discovered yet. That your schemes are
 known to man, and overthrown by Heaven. Wretches, that he defies you
 both to do your worst.’
@@ -154,14 +154,14 @@ her dearest friends. In their name I bear her hence. Give way!’
 
 ‘Not one,’ replied Nicholas, ‘I will not hear of one--save this. Look to
 yourself, and heed this warning that I give you! Your day is past, and
-night is comin’ on.’
+[[Night|night]] is comin’ on.’
 
 ‘My curse, my bitter, deadly curse, upon you, boy!’
 
 ‘Whence will curses come at your command? Or what avails a curse or
 blessing from a man like you? I tell you, that misfortune and discovery
 are thickening about your head; that the structures you have raised,
-through all your ill-spent life, are crumbling into dust; that your path
+through all your ill-spent life, are crumbling into [[Dust|dust]]; that your path
 is beset with spies; that this very day, ten thousand pounds of your
 hoarded wealth have gone in one great crash!’
 
@@ -172,14 +172,14 @@ Stand from the door. Kate, do you go first. Lay not a hand on her, or on
 that woman, or on me, or so much a brush their garments as they pass you
 by!--You let them pass, and he blocks the door again!’
 
-Arthur Gride happened to be in the doorway, but whether intentionally
+[[arthur|Arthur]] Gride happened to be in the doorway, but whether intentionally
 or from confusion was not quite apparent. Nicholas swung him away, with
 such violence as to cause him to spin round the room until he was caught
 by a sharp angle of the wall, and there knocked down; and then taking
 his beautiful burden in his arms rushed out. No one cared to stop him,
 if any were so disposed. Making his way through a mob of people, whom a
-report of the circumstances had attracted round the house, and carrying
-Madeline, in his excitement, as easily as if she were an infant, he
+report of the circumstances had attracted round the [[house]], and carrying
+[[Madeline]], in his excitement, as easily as if she were an infant, he
 reached the coach in which Kate and the girl were already waiting, and,
 confiding his charge to them, jumped up beside the coachman and bade him
 drive away.

@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 4"
+title: "[[Emma]] — Chapter 4"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Emma-(Austen)"
@@ -17,7 +17,7 @@ tags:
 CHAPTER IV
 
 
-Human nature is so well disposed towards those who are in interesting
+Human [[Nature|nature]] is so [[Well|well]] disposed towards those who are in interesting
 situations, that a young person, who either marries or dies, is sure of
 being kindly spoken of.
 
@@ -30,32 +30,32 @@ her merits, there was very little more for him to do, than to tell her
 Christian name, and say whose music she principally played.
 
 Mr. Elton returned, a very happy man. He had gone away rejected and
-mortified—disappointed in a very sanguine hope, after a series of what
+mortified—disappointed in a very sanguine [[Hope|hope]], after a series of what
 appeared to him strong encouragement; and not only losing the right
 lady, but finding himself debased to the level of a very wrong one. He
 had gone away deeply offended—he came back engaged to another—and to
 another as superior, of course, to the first, as under such
 circumstances what is gained always is to what is lost. He came back
-gay and self-satisfied, eager and busy, caring nothing for Miss
-Woodhouse, and defying Miss Smith.
+gay and [[Self|self]]-satisfied, eager and busy, caring nothing for Miss
+Woodhouse, and defying Miss [[smith|Smith]].
 
 The charming Augusta Hawkins, in addition to all the usual advantages
-of perfect beauty and merit, was in possession of an independent
+of perfect [[Beauty|beauty]] and merit, was in possession of an independent
 fortune, of so many thousands as would always be called ten; a point of
-some dignity, as well as some convenience: the story told well; he had
+some dignity, as [[Well|well]] as some convenience: the story told [[Well|well]]; he had
 not thrown himself away—he had gained a woman of 10,000 _l_. or
 thereabouts; and he had gained her with such delightful rapidity—the
 first hour of introduction had been so very soon followed by
-distinguishing notice; the history which he had to give Mrs. Cole of
+distinguishing notice; the [[history]] which he had to give Mrs. Cole of
 the rise and progress of the affair was so glorious—the steps so quick,
 from the accidental rencontre, to the dinner at Mr. Green’s, and the
 party at Mrs. Brown’s—smiles and blushes rising in importance—with
 consciousness and agitation richly scattered—the lady had been so
 easily impressed—so sweetly disposed—had in short, to use a most
-intelligible phrase, been so very ready to have him, that vanity and
+intelligible phrase, been so very ready to have him, that [[Vanity|vanity]] and
 prudence were equally contented.
 
-He had caught both substance and shadow—both fortune and affection, and
+He had caught both substance and [[Shadow|shadow]]—both fortune and affection, and
 was just the happy man he ought to be; talking only of himself and his
 own concerns—expecting to be congratulated—ready to be laughed at—and,
 with cordial, fearless smiles, now addressing all the young ladies of
@@ -68,59 +68,59 @@ when he set out for Bath again, there was a general expectation, which
 a certain glance of Mrs. Cole’s did not seem to contradict, that when
 he next entered Highbury he would bring his bride.
 
-During his present short stay, Emma had barely seen him; but just
+During his present short stay, [[Emma]] had barely seen him; but just
 enough to feel that the first meeting was over, and to give her the
 impression of his not being improved by the mixture of pique and
 pretension, now spread over his air. She was, in fact, beginning very
-much to wonder that she had ever thought him pleasing at all; and his
+much to [[Wonder|wonder]] that she had ever thought him pleasing at all; and his
 sight was so inseparably connected with some very disagreeable
 feelings, that, except in a moral light, as a penance, a lesson, a
 source of profitable humiliation to her own mind, she would have been
 thankful to be assured of never seeing him again. She wished him very
-well; but he gave her pain, and his welfare twenty miles off would
+[[Well|well]]; but he gave her [[Pain|pain]], and his welfare twenty miles off would
 administer most satisfaction.
 
-The pain of his continued residence in Highbury, however, must
-certainly be lessened by his marriage. Many vain solicitudes would be
+The [[Pain|pain]] of his continued residence in Highbury, however, must
+certainly be lessened by his [[Marriage|marriage]]. Many vain solicitudes would be
 prevented—many awkwardnesses smoothed by it. A _Mrs._ _Elton_ would be
 an excuse for any change of intercourse; former intimacy might sink
 without remark. It would be almost beginning their life of civility
 again.
 
-Of the lady, individually, Emma thought very little. She was good
-enough for Mr. Elton, no doubt; accomplished enough for
+Of the lady, individually, [[Emma]] thought very little. She was good
+enough for Mr. Elton, no [[Doubt|doubt]]; accomplished enough for
 Highbury—handsome enough—to look plain, probably, by Harriet’s side. As
-to connexion, there Emma was perfectly easy; persuaded, that after all
+to connexion, there [[Emma]] was perfectly easy; persuaded, that after all
 his own vaunted claims and disdain of Harriet, he had done nothing. On
-that article, truth seemed attainable. _What_ she was, must be
+that article, [[Truth|truth]] seemed attainable. _What_ she was, must be
 uncertain; but _who_ she was, might be found out; and setting aside the
 10,000 l., it did not appear that she was at all Harriet’s superior.
-She brought no name, no blood, no alliance. Miss Hawkins was the
+She brought no name, no [[Blood|blood]], no alliance. Miss Hawkins was the
 youngest of the two daughters of a Bristol—merchant, of course, he must
 be called; but, as the whole of the profits of his mercantile life
 appeared so very moderate, it was not unfair to guess the dignity of
-his line of trade had been very moderate also. Part of every winter she
-had been used to spend in Bath; but Bristol was her home, the very
+his line of trade had been very moderate also. Part of every [[Winter|winter]] she
+had been used to spend in Bath; but Bristol was her [[Home|home]], the very
 heart of Bristol; for though the father and mother had died some years
 ago, an uncle remained—in the law line—nothing more distinctly
 honourable was hazarded of him, than that he was in the law line; and
-with him the daughter had lived. Emma guessed him to be the drudge of
+with him the daughter had lived. [[Emma]] guessed him to be the drudge of
 some attorney, and too stupid to rise. And all the grandeur of the
 connexion seemed dependent on the elder sister, who was _very_ _well_
 _married_, to a gentleman in a _great_ _way_, near Bristol, who kept
-two carriages! That was the wind-up of the history; that was the glory
+two carriages! That was the [[Wind|wind]]-up of the [[history]]; that was the glory
 of Miss Hawkins.
 
 Could she but have given Harriet her feelings about it all! She had
-talked her into love; but, alas! she was not so easily to be talked out
+talked her into [[Love|love]]; but, alas! she was not so easily to be talked out
 of it. The charm of an object to occupy the many vacancies of Harriet’s
 mind was not to be talked away. He might be superseded by another; he
-certainly would indeed; nothing could be clearer; even a Robert Martin
+certainly would indeed; nothing could be clearer; even a [[Robert Martin]]
 would have been sufficient; but nothing else, she feared, would cure
 her. Harriet was one of those, who, having once begun, would be always
-in love. And now, poor girl! she was considerably worse from this
+in [[Love|love]]. And now, poor girl! she was considerably worse from this
 reappearance of Mr. Elton. She was always having a glimpse of him
-somewhere or other. Emma saw him only once; but two or three times
+somewhere or other. [[Emma]] saw him only once; but two or three times
 every day Harriet was sure _just_ to meet with him, or _just_ to miss
 him, _just_ to hear his voice, or see his shoulder, _just_ to have
 something occur to preserve him in her fancy, in all the favouring
@@ -134,25 +134,25 @@ servants, and furniture, was continually in agitation around her. Her
 regard was receiving strength by invariable praise of him, and her
 regrets kept alive, and feelings irritated by ceaseless repetitions of
 Miss Hawkins’s happiness, and continual observation of, how much he
-seemed attached!—his air as he walked by the house—the very sitting of
-his hat, being all in proof of how much he was in love!
+seemed attached!—his air as he walked by the [[house]]—the very sitting of
+his hat, being all in proof of how much he was in [[Love|love]]!
 
-Had it been allowable entertainment, had there been no pain to her
+Had it been allowable entertainment, had there been no [[Pain|pain]] to her
 friend, or reproach to herself, in the waverings of Harriet’s mind,
-Emma would have been amused by its variations. Sometimes Mr. Elton
+[[Emma]] would have been amused by its variations. Sometimes Mr. Elton
 predominated, sometimes the Martins; and each was occasionally useful
 as a check to the other. Mr. Elton’s engagement had been the cure of
 the agitation of meeting Mr. Martin. The unhappiness produced by the
 knowledge of that engagement had been a little put aside by Elizabeth
 Martin’s calling at Mrs. Goddard’s a few days afterwards. Harriet had
-not been at home; but a note had been prepared and left for her,
+not been at [[Home|home]]; but a note had been prepared and left for her,
 written in the very style to touch; a small mixture of reproach, with a
 great deal of kindness; and till Mr. Elton himself appeared, she had
 been much occupied by it, continually pondering over what could be done
 in return, and wishing to do more than she dared to confess. But Mr.
 Elton, in person, had driven away all such cares. While he staid, the
 Martins were forgotten; and on the very morning of his setting off for
-Bath again, Emma, to dissipate some of the distress it occasioned,
+Bath again, [[Emma]], to dissipate some of the distress it occasioned,
 judged it best for her to return Elizabeth Martin’s visit.
 
 How that visit was to be acknowledged—what would be necessary—and what
@@ -166,7 +166,7 @@ Harriet’s returning the visit; but in a way that, if they had
 understanding, should convince them that it was to be only a formal
 acquaintance. She meant to take her in the carriage, leave her at the
 Abbey Mill, while she drove a little farther, and call for her again so
-soon, as to allow no time for insidious applications or dangerous
+soon, as to allow no [[Time|time]] for insidious applications or dangerous
 recurrences to the past, and give the most decided proof of what degree
 of intimacy was chosen for the future.
 

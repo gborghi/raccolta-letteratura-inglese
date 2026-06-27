@@ -1,5 +1,5 @@
 ---
-title: "Common Man — The Erastian On The Establishment (part 4)"
+title: "[[Common Man]] — The Erastian On The Establishment (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Common-Man-(Chesterton)"
@@ -15,21 +15,21 @@ tags:
 
 
 Mr. Aldous Huxley, whom I have taken as the other outstanding
-talent of that time, sees this impossibility and avoids it.
+talent of that [[Time|time]], sees this impossibility and avoids it.
 But he can only avoid it by cutting down his own standard to
 something so thin that it can hardly stand.  In one of his novels
 a character sums up much of the general teaching of the author,
-by saying that Man must not hope to be either an animal or an angel.
+by saying that Man must not [[Hope|hope]] to be either an animal or an angel.
 He adds, significantly, that it is a tight-rope sort of business.
 Now walking on a tight-rope is both difficult and dangerous;
 and the author makes the good life really more difficult than it is
-for an ascetic.  He has not only to avoid being an animal, but he must
+for an [[ascetic]].  He has not only to avoid being an animal, but he must
 guard against any unlucky accident that might turn him into an angel.
 That is, he is forbidden to have the enthusiasms and spiritual
 ambitions that have sustained the saints, and yet he has got to
-become in cold blood something much more exceptional than a saint.
+become in cold [[Blood|blood]] something much more exceptional than a saint.
 Nobody asks such a realist as Mr. Huxley to idealise the real.
-But such a realist must surely know that human nature cannot show,
+But such a realist must surely know that human [[Nature|nature]] cannot show,
 at every instant, the valour and vigilance of a spiritual
 tight-rope walker, cannot suffer more for this ideal than all
 the heroes, and yet be forbidden even to idealise its own ideal.
@@ -40,7 +40,7 @@ I say that I do not abhor these men as the first figures
 of an advancing anarchist army.  On the contrary, I admire
 these men as the last figures of a defeated anarchist army.
 I take these two original and forcible writers as types of many others;
-but the point is that they are not, like the anarchists of history,
+but the point is that they are not, like the anarchists of [[history]],
 at the head of an army marching in a determined direction.
 That is exactly what they are not.  Lawrence rushed out against
 almost everything; Huxley, being more sensitive, recoils from
@@ -62,8 +62,8 @@ it means people getting "together", and nothing else.
 But that very fact illustrates what I say, when I say
 that the army is short of ammunition and the end is near.
 When the great democratic movement began, it was supported by real
-democratic emotions.  Only Comradeship can be the soul of Communism;
-for otherwise it has no soul.  But the more we note the actual temper
+democratic emotions.  Only [[Comradeship]] can be the [[Soul|soul]] of Communism;
+for otherwise it has no [[Soul|soul]].  But the more we note the actual temper
 of the new rebels, the more we shall note that all that is gone.
 The men who call themselves Communists are not Comrades.
 Their tone is bitterly individualistic, and bitterly critical.
@@ -80,18 +80,18 @@ more than a hundred years ago; and they are fighting the rearguard
 action of a retreat.  Liberty, Equality and Fraternity really meant
 something to the emotions of those who first used the phrase.
 But Fraternity is the last emotion anyone is likely to find in an acrid
-article or poem by a modern rebel; Liberty is lost in both systems,
+article or poem by a modern [[Rebel|rebel]]; Liberty is lost in both systems,
 old and new; and Equality only remains in the form of a dull
 attempt at uniformity, copied from that very mechanical capitalism
 which the rebels would reject.
 
-Along with those who accept the thing as a label, or hope
+Along with those who accept the thing as a label, or [[Hope|hope]]
 fallaciously that they may accept it as a fashion, there are some
 who accept it in a more noble but very negative way; for the very
 reasons I have urged in this article.  I mean that they accept
 it desperately, as the only way out of an intellectual impasse.
 It is not too much to say that Mr. Middleton Murry accepts
-Soviets with the gestures of a great heathen accepting suicide.
+Soviets with the gestures of a great heathen accepting [[suicide]].
 He seems to exult in the thought of it being the end of everything,
 or at least the end of nearly everything he likes.  That is yet
 another example of the psychology I have attempted to describe;
@@ -111,10 +111,10 @@ It can be seen, for instance, in the thousands of thoughtless "sexual"
 novels, the writers of which are evidently unconscious that they have
 got into a logical contradiction about the whole position of sex.
 They inherit the notion that sex is a serious crux and crisis;
-for indeed this is necessary to the very nature of a novel.
+for indeed this is necessary to the very [[Nature|nature]] of a [[Novel|novel]].
 In this they are living on the last legacy of Romanticism;
 which, in its turn, was living on the last legacy of religion.
-But their new and simple philosophy teaches them that sex is
+But their new and simple [[philosophy]] teaches them that sex is
 only the sort of necessity that is also a triviality; that sex
 is no more crucial than smoking.  So that the modern novelist,
 torn between two ideas, has to attempt to write a story about a man
@@ -123,5 +123,5 @@ is a crisis.  In all these things there is an intellectual tangle;
 the sort of thing that eventually tightens and throttles.
 Of this sort of philosopher it is exactly and literally true
 to say that, if you give him rope enough, he will hang himself.
-It is consoling to reflect that suicide holds a sublime place
-in his philosophy.
+It is consoling to reflect that [[suicide]] holds a [[Sublime|sublime]] place
+in his [[philosophy]].

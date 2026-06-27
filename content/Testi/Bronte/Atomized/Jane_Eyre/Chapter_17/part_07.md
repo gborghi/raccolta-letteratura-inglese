@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 17 (part 7)"
+title: "[[Jane Eyre]] — Chapter 17 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -26,9 +26,9 @@ new topic. Mr. Rochester, do you second my motion?”
 “Madam, I support you on this point, as on every other.”
 
 “Then on me be the onus of bringing it forward. Signior Eduardo, are
-you in voice to-night?”
+you in voice to-[[Night|night]]?”
 
-“Donna Bianca, if you command it, I will be.”
+“Donna [[Bianca]], if you command it, I will be.”
 
 “Then, signior, I lay on you my sovereign behest to furbish up your
 lungs and other vocal organs, as they will be wanted on my royal
@@ -39,9 +39,9 @@ service.”
 “A fig for Rizzio!” cried she, tossing her head with all its curls, as
 she moved to the piano. “It is my opinion the fiddler David must have
 been an insipid sort of fellow; I like black Bothwell better: to my
-mind a man is nothing without a spice of the devil in him; and history
+mind a man is nothing without a spice of the devil in him; and [[history]]
 may say what it will of James Hepburn, but I have a notion, he was just
-the sort of wild, fierce, bandit hero whom I could have consented to
+the sort of wild, fierce, bandit [[Hero|hero]] whom I could have consented to
 gift with my hand.”
 
 “Gentlemen, you hear! Now which of you most resembles Bothwell?” cried
@@ -49,12 +49,12 @@ Mr. Rochester.
 
 “I should say the preference lies with you,” responded Colonel Dent.
 
-“On my honour, I am much obliged to you,” was the reply.
+“On my [[Honour|honour]], I am much obliged to you,” was the reply.
 
 Miss Ingram, who had now seated herself with proud grace at the piano,
 spreading out her snowy robes in queenly amplitude, commenced a
 brilliant prelude; talking meantime. She appeared to be on her high
-horse to-night; both her words and her air seemed intended to excite
+[[Horse|horse]] to-[[Night|night]]; both her words and her air seemed intended to excite
 not only the admiration, but the amazement of her auditors: she was
 evidently bent on striking them as something very dashing and daring
 indeed.
@@ -64,7 +64,7 @@ rattling away at the instrument. “Poor, puny things, not fit to stir a
 step beyond papa’s park gates: nor to go even so far without mama’s
 permission and guardianship! Creatures so absorbed in care about their
 pretty faces, and their white hands, and their small feet; as if a man
-had anything to do with beauty! As if loveliness were not the special
+had anything to do with [[Beauty|beauty]]! As if loveliness were not the special
 prerogative of woman—her legitimate appanage and heritage! I grant an
 ugly _woman_ is a blot on the fair face of creation; but as to the
 _gentlemen_, let them be solicitous to possess only strength and
@@ -75,15 +75,15 @@ worth a fillip. Such should be my device, were I a man.”
 “I am resolved my husband shall not be a rival, but a foil to me. I
 will suffer no competitor near the throne; I shall exact an undivided
 homage: his devotions shall not be shared between me and the shape he
-sees in his mirror. Mr. Rochester, now sing, and I will play for you.”
+sees in his [[Mirror|mirror]]. Mr. Rochester, now sing, and I will play for you.”
 
 “I am all obedience,” was the response.
 
-“Here then is a Corsair-song. Know that I doat on Corsairs; and for
+“Here then is a Corsair-[[Song|song]]. Know that I doat on Corsairs; and for
 that reason, sing it _con spirito_.”
 
 “Commands from Miss Ingram’s lips would put spirit into a mug of milk
-and water.”
+and [[Water|water]].”
 
 “Take care, then: if you don’t please me, I will shame you by showing
 how such things _should_ be done.”
@@ -95,7 +95,7 @@ fail.”
 proportionate punishment.”
 
 “Miss Ingram ought to be clement, for she has it in her power to
-inflict a chastisement beyond mortal endurance.”
+inflict a chastisement beyond mortal [[Endurance|endurance]].”
 
 “Ha! explain!” commanded the lady.
 
@@ -106,7 +106,7 @@ capital punishment.”
 “Sing!” said she, and again touching the piano, she commenced an
 accompaniment in spirited style.
 
-“Now is my time to slip away,” thought I: but the tones that then
+“Now is my [[Time|time]] to slip away,” thought I: but the tones that then
 severed the air arrested me. Mrs. Fairfax had said Mr. Rochester
 possessed a fine voice: he did—a mellow, powerful bass, into which he
 threw his own feeling, his own force; finding a way through the ear to
@@ -122,12 +122,12 @@ was Mr. Rochester.
 
 “How do you do?” he asked.
 
-“I am very well, sir.”
+“I am very [[Well|well]], sir.”
 
 “Why did you not come and speak to me in the room?”
 
 I thought I might have retorted the question on him who put it: but I
-would not take that freedom. I answered—
+would not take that [[Freedom|freedom]]. I answered—
 
 “I did not wish to disturb you, as you seemed engaged, sir.”
 
@@ -140,7 +140,7 @@ What is the matter?”
 
 “Nothing at all, sir.”
 
-“Did you take any cold that night you half drowned me?”
+“Did you take any cold that [[Night|night]] you half drowned me?”
 
 “Not the least.”
 
@@ -155,11 +155,11 @@ He looked at me for a minute.
 “Nothing—nothing, sir. I am not depressed.”
 
 “But I affirm that you are: so much depressed that a few more words
-would bring tears to your eyes—indeed, they are there now, shining and
+would bring [[Tears|tears]] to your eyes—indeed, they are there now, shining and
 swimming; and a bead has slipped from the lash and fallen on to the
-flag. If I had time, and was not in mortal dread of some prating prig
-of a servant passing, I would know what all this means. Well, to-night
+[[Flag|flag]]. If I had [[Time|time]], and was not in mortal dread of some prating prig
+of a servant passing, I would know what all this means. [[Well]], to-[[Night|night]]
 I excuse you; but understand that so long as my visitors stay, I expect
 you to appear in the drawing-room every evening; it is my wish; don’t
-neglect it. Now go, and send Sophie for Adèle. Good-night, my—” He
+neglect it. Now go, and send Sophie for Adèle. Good-[[Night|night]], my—” He
 stopped, bit his lip, and abruptly left me.

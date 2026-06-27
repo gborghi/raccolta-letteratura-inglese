@@ -24,11 +24,11 @@ And while I was running along the train (amid general admiration)
 I noticed that there were a quite peculiar and unusual number of
 carriages marked "Engaged." On five, six, seven, eight, nine carriages
 was pasted the little notice:  at five, six, seven, eight, nine windows
-were big bland men staring out in the conscious pride of possession.
+were big bland men staring out in the conscious [[Pride|pride]] of possession.
 Their bodies seemed more than usually impenetrable, their faces more
 than usual placid.  It could not be the Derby, if only for the minor
 reasons that it was the opposite direction and the wrong day.
-It could hardly be the King.  It could hardly be the French President.
+It could hardly be the [[King]].  It could hardly be the French President.
 For, though these distinguished persons naturally like to be private
 for three hours, they are at least public for three minutes.
 A crowd can gather to see them step into the train; and there was no
@@ -36,10 +36,10 @@ crowd here, or any police ceremonial.
 
 Who were those awful persons, who occupied more of the train
 than a bricklayer's beanfeast, and yet were more fastidious
-and delicate than the King's own suite?  Who were these that
+and delicate than the [[King]]'s own suite?  Who were these that
 were larger than a mob, yet more mysterious than a monarch?
-Was it possible that instead of our Royal House visiting the Tsar,
-he was really visiting us?  Or does the House of Lords
+Was it possible that instead of our Royal [[house|House]] visiting the Tsar,
+he was really visiting us?  Or does the [[house|House]] of Lords
 have a breakfast?  I waited and wondered until the train
 slowed down at some station in the direction of Cambridge.
 Then the large, impenetrable men got out, and after them
@@ -50,7 +50,7 @@ cropped hair; and they were chained together.
 I looked across the carriage at its only other occupant, and our
 eyes met.  He was a small, tired-looking man, and, as I afterwards learnt,
 a native of Cambridge; by the look of him, some working tradesman there,
-such as a journeyman tailor or a small clock-mender. In order to make
+such as a journeyman tailor or a small [[Clock|clock]]-mender. In order to make
 conversation I said I wondered where the convicts were going.
 His mouth twitched with the instinctive irony of our poor, and he said:
 "I don't s'pose they're goin' on an 'oliday at the seaside with little
@@ -63,42 +63,42 @@ grey eyes of the little man grew sadder and emptier than an open sea.
 I knew what he was thinking, because I was thinking the same, because all
 modern sophists are only sophists, and there is such a thing as mankind.
 Then at last (and it fell in as exactly as the right last note of a tune
-one is trying to remember) he said:  "Well, I s'pose we 'ave to do it."
-And in those three things, his first speech and his silence and his
+one is trying to remember) he said:  "[[Well]], I s'pose we 'ave to do it."
+And in those three things, his first speech and his [[Silence|silence]] and his
 second speech, there were all the three great fundamental facts of
-the English democracy, its profound sense of humour, its profound sense
+the English [[democracy]], its profound sense of [[Humour|humour]], its profound sense
 of pathos, and its profound sense of helplessness.
 
 . . . . .
 
-It cannot be too often repeated that all real democracy is an attempt
+It cannot be too often repeated that all real [[democracy]] is an attempt
 (like that of a jolly hostess) to bring the shy people out.
 For every practical purpose of a political state, for every practical
 purpose of a tea-party, he that abaseth himself must be exalted.
 At a tea-party it is equally obvious that he that exalteth
 himself must be abased, if possible without bodily violence.
-Now people talk of democracy as being coarse and turbulent:
-it is a self-evident error in mere history.
+Now people talk of [[democracy]] as being coarse and turbulent:
+it is a [[Self|self]]-evident error in mere [[history]].
 Aristocracy is the thing that is always coarse and turbulent:
-for it means appealing to the self-confident people.
-Democracy means appealing to the different people.  Democracy means
+for it means appealing to the [[Self|self]]-confident people.
+[[democracy|Democracy]] means appealing to the different people.  [[democracy|Democracy]] means
 getting those people to vote who would never have the cheek
 to govern:  and (according to Christian ethics) the precise people
 who ought to govern are the people who have not the cheek to do it.
-There is a strong example of this truth in my friend in the train.
+There is a strong example of this [[Truth|truth]] in my friend in the train.
 The only two types we hear of in this argument about crime
 and punishment are two very rare and abnormal types.
 
 We hear of the stark sentimentalist, who talks as if there were no
 problem at all:  as if physical kindness would cure everything:
 as if one need only pat Nero and stroke Ivan the Terrible.
-This mere belief in bodily humanitarianism is not sentimental;
+This mere belief in bodily [[Humanitarianism|humanitarianism]] is not sentimental;
 it is simply snobbish.  For if comfort gives men virtue,
 the comfortable classes ought to be virtuous--which is absurd.
 Then, again, we do hear of the yet weaker and more watery
 type of sentimentalists:  I mean the sentimentalist who says,
 with a sort of splutter, "Flog the brutes!" or who tells you
-with innocent obscenity "what he would do" with a certain man--
+with [[Innocent|innocent]] obscenity "what he would do" with a certain man--
 always supposing the man's hands were tied.
 
 This is the more effeminate type of the two; but both are weak
@@ -113,7 +113,7 @@ be "done" to criminals, he feels bitterly how much better it
 would be if nothing need be done.  But something must be done.
 "I s'pose we 'ave to do it."  In short, he is simply a sane man,
 and of a sane man there is only one safe definition.
-He is a man who can have tragedy in his heart and comedy
+He is a man who can have [[Tragedy|tragedy]] in his heart and [[Comedy|comedy]]
 in his head.
 
 . . . . .
@@ -122,7 +122,7 @@ Now the real difficulty of discussing decently this problem
 of the proper treatment of criminals is that both parties
 discuss the matter without any direct human feeling.
 The denouncers of wrong are as cold as the organisers of wrong.
-Humanitarianism is as hard as inhumanity.
+[[Humanitarianism]] is as hard as inhumanity.
 
 Let me take one practical instance.  I think the flogging
 arranged in our modern prisons is a filthy torture; all its
@@ -132,7 +132,7 @@ The cat is simply the rack without any of its intellectual reasons.
 Holding this view strongly, I open the ordinary humanitarian books or
 papers and I find a phrase like this, "The lash is a relic of barbarism."
 So is the plough.  So is the fishing net.  So is the horn or
-the staff or the fire lit in winter.  What an inexpressibly feeble
+the staff or the [[Fire|fire]] lit in [[Winter|winter]].  What an inexpressibly feeble
 phrase for anything one wants to attack--a relic of barbarism!
 It is as if a man walked naked down the street to-morrow,
 and we said that his clothes were not quite in the latest fashion.
@@ -141,7 +141,7 @@ Man is a relic of barbarism.  Civilisation is a relic of barbarism.
 
 But torture is not a relic of barbarism at all.
 In actuality it is simply a relic of sin; but in comparative
-history it may well be called a relic of civilisation.
+[[history]] it may [[Well|well]] be called a relic of civilisation.
 It has always been most artistic and elaborate when
 everything else was most artistic and elaborate.
 Thus it was detailed exquisite in the late Roman Empire,

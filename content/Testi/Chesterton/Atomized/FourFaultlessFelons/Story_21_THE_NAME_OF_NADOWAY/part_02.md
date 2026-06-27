@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE NAME OF NADOWAY (part 2)"
+title: "[[FourFaultlessFelons]] — THE NAME OF NADOWAY (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -50,11 +50,11 @@ had intended. Indeed, it was a rather puzzling interview.
 
 It took place in old Jacob's study, which looked out through round
 
-bow-windows at 'The Lawns', after which the house was still named. It was
+bow-windows at 'The Lawns', after which the [[house]] was still named. It was
 
-a very Victorian house, of the sort that would have been described at the
+a very Victorian [[house]], of the sort that would have been described at the
 
-time as built by Philistines for Philistines. There was a great deal of
+[[Time|time]] as built by Philistines for Philistines. There was a great deal of
 
 curved glass about it, in its conservatories and its semi-circular
 
@@ -66,21 +66,21 @@ was a good deal of rather ugly coloured glass and a good deal of not
 
 altogether ugly, but very artificial, clipped hedges and Dutch gardening.
 
-In short, it was the sort of comfortable Victorian home that was regarded
+In short, it was the sort of comfortable Victorian [[Home|home]] that was regarded
 
 as very vulgar by the aesthetes of that period. Mr. Matthew Arnold would
 
-have passed the house with a gentle sigh. Mr. John Ruskin would have
+have passed the [[house]] with a gentle sigh. Mr. John Ruskin would have
 
 recoiled in horror and called down curses from heaven on it, from a
 
-neighbouring hill. Even Mr. William Morris would have grumbled as he
+neighbouring [[Hill|hill]]. Even Mr. William Morris would have grumbled as he
 
 passed, about the sort of architecture that was only upholstery. But I am
 
-not so sure about Mr. Sacheverall Sitwell. We have reached a time when
+not so sure about Mr. Sacheverall Sitwell. We have reached a [[Time|time]] when
 
-the curved windows and canopied porticoes of that house have begun to
+the curved windows and canopied porticoes of that [[house]] have begun to
 
 take on something of a dreamy glamour of distance. And I am not sure that
 
@@ -96,7 +96,7 @@ not undertake to decide.
 
 
 
-Millicent Milton had come through the garden to the study, at about the
+Millicent [[Milton]] had come through the [[Garden|garden]] to the study, at about the
 
 same moment as the junior partner arrived there. She was tall and fair
 
@@ -108,7 +108,7 @@ and at the second a little haughty, but she was not really either one or
 
 the other, but only reasonably resigned. She sat down at her ordinary
 
-desk to do her ordinary work, but she very soon rose from it again, as if
+desk to do her ordinary work, but she very soon [[Rose|rose]] from it again, as if
 
 with a silent offer to withdraw, since the domestic discussion was
 
@@ -120,7 +120,7 @@ reassurance and she remained the spectator of the whole scene.
 
 Old Nadoway had barked out rather abruptly, like one bothered for the
 
-first time: "But I thought you two had had a talk."
+first [[Time|time]]: "But I thought you two had had a talk."
 
 
 
@@ -130,9 +130,9 @@ talk."
 
 
 
-"I hope you got Norman to see," went on the old man in a milder tone,
+"I [[Hope|hope]] you got Norman to see," went on the old man in a milder tone,
 
-"that he simply mustn't chalk out all these wild projects so long as
+"that he simply mustn't [[chalk]] out all these wild projects so long as
 
 we're all really in the business. My business would be ruined in a month
 
@@ -164,7 +164,7 @@ instance, that I have a business, too."
 
 
 
-There was a glaring silence, broken rather nervously.
+There was a glaring [[Silence|silence]], broken rather nervously.
 
 
 
@@ -186,7 +186,7 @@ and the whole concern?"
 
 "I'm in favour of the whole concern, and that's the whole point," said
 
-John. "I suppose I shall be responsible for it-well, some time. But I'm
+John. "I suppose I shall be responsible for it-[[Well|well]], some [[Time|time]]. But I'm
 
 damned if I'll be responsible for all the old ways of doing things."
 
@@ -230,7 +230,7 @@ any clearing?"
 
 
 
-"By the new standards, yes," said John after a silence.
+"By the new standards, yes," said John after a [[Silence|silence]].
 
 
 
@@ -242,25 +242,25 @@ to his secretary, as if the interview were ended.
 
 "I find I shall not want you this evening," he said. "You had better take
 
-a little time off."
+a little [[Time|time]] off."
 
 
 
-She rose rather waveringly and went towards the french windows that gave
+She [[Rose|rose]] rather waveringly and went towards the french windows that gave
 
-upon the garden. The pale evening sky had been suddenly turned to night
+upon the [[Garden|garden]]. The pale evening sky had been suddenly turned to [[Night|night]]
 
-by the contrast of a large luminous moon coming up behind dark trees and
+by the contrast of a large luminous [[Moon|moon]] coming up behind dark trees and
 
 striping the grey-green lawns with dark shadows. She had always been
 
 puzzled by the fact that there seemed to be something romantic about the
 
-garden and even the grotesque house, which was inhabited by such highly
+[[Garden|garden]] and even the [[Grotesque|grotesque]] [[house]], which was inhabited by such highly
 
 prosaic people. She was already outside the glass doors and in the
 
-garden, when she heard old Nadoway speak again.
+[[Garden|garden]], when she heard old Nadoway speak again.
 
 
 
@@ -286,15 +286,15 @@ would be every bit as wicked as going on in the old way."
 
 
 
-"Well," said his father rather wearily, "we will leave it at that just
+"[[Well]]," said his father rather wearily, "we will leave it at that just
 
 now. I shall not go on much longer."
 
 
 
-But Millicent Milton was staring at the dark house in a new fit of
+But Millicent [[Milton]] was staring at the dark [[house]] in a new fit of
 
-mystification. The two brothers had ignored and slurred over, with
+[[Mystification|mystification]]. The two brothers had ignored and slurred over, with
 
 something resembling skill, a certain phrase used by their father. But
 
@@ -306,12 +306,12 @@ She had never heard of any other son. She remained staring at the rococo
 
 outline of that rather ridiculous and yet romantic villa, with its domes
 
-and ornamental verandas dark against the moon; with its bulbous windows
+and ornamental verandas dark against the [[Moon|moon]]; with its bulbous windows
 
-and plants in bloated pots; its clumsy statues and congested garden-beds
+and plants in bloated pots; its clumsy statues and congested [[Garden|garden]]-beds
 
 and all the swollen outline of the thing made almost monstrous by
 
-moonshine and darkness, and she wondered for the first time if it held a
+moonshine and darkness, and she wondered for the first [[Time|time]] if it held a
 
 secret.

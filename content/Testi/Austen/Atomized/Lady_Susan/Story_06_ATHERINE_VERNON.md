@@ -1,5 +1,5 @@
 ---
-title: "Lady Susan — ATHERINE VERNON."
+title: "[[Lady Susan]] — ATHERINE VERNON."
 author: "Austen"
 unitType: story
 parentWork: "Works/Lady-Susan-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-CATHERINE VERNON.
+[[Catherine Vernon|CATHERINE VERNON]].
 
 
 
@@ -30,7 +30,7 @@ XII
 
 
 
-_Sir Reginald De Courcy to his Son._
+_Sir [[Reginald De Courcy]] to his Son._
 
 
 
@@ -44,7 +44,7 @@ Parklands.
 
 I know that young men in general do not admit of any enquiry even from
 
-their nearest relations into affairs of the heart, but I hope, my dear
+their nearest relations into affairs of the heart, but I [[Hope|hope]], my dear
 
 Reginald, that you will be superior to such as allow nothing for a
 
@@ -56,21 +56,21 @@ son, and the representative of an ancient family, your conduct in life
 
 is most interesting to your connections; and in the very important
 
-concern of marriage especially, there is everything at stake—your own
+concern of [[Marriage|marriage]] especially, there is everything at stake—your own
 
 happiness, that of your parents, and the credit of your name. I do not
 
 suppose that you would deliberately form an absolute engagement of that
 
-nature without acquainting your mother and myself, or at least, without
+[[Nature|nature]] without acquainting your mother and myself, or at least, without
 
 being convinced that we should approve of your choice; but I cannot
 
 help fearing that you may be drawn in, by the lady who has lately
 
-attached you, to a marriage which the whole of your family, far and
+attached you, to a [[Marriage|marriage]] which the whole of your family, far and
 
-near, must highly reprobate. Lady Susan’s age is itself a material
+near, must highly reprobate. [[Lady Susan]]’s age is itself a material
 
 objection, but her want of character is one so much more serious, that
 
@@ -88,7 +88,7 @@ Her neglect of her husband, her encouragement of other men, her
 
 extravagance and dissipation, were so gross and notorious that no one
 
-could be ignorant of them at the time, nor can now have forgotten them.
+could be ignorant of them at the [[Time|time]], nor can now have forgotten them.
 
 To our family she has always been represented in softened colours by
 
@@ -96,7 +96,7 @@ the benevolence of Mr. Charles Vernon, and yet, in spite of his
 
 generous endeavours to excuse her, we know that she did, from the most
 
-selfish motives, take all possible pains to prevent his marriage with
+selfish motives, take all possible pains to prevent his [[Marriage|marriage]] with
 
 Catherine.
 
@@ -116,7 +116,7 @@ is my duty to oppose a match which deep art only could render possible,
 
 and must in the end make wretched. It is possible her behaviour may
 
-arise only from vanity, or the wish of gaining the admiration of a man
+arise only from [[Vanity|vanity]], or the wish of gaining the admiration of a man
 
 whom she must imagine to be particularly prejudiced against her; but it
 
@@ -128,7 +128,7 @@ herself; you know your own rights, and that it is out of my power to
 
 prevent your inheriting the family estate. My ability of distressing
 
-you during my life would be a species of revenge to which I could
+you during my life would be a species of [[Revenge|revenge]] to which I could
 
 hardly stoop under any circumstances.
 
@@ -138,9 +138,9 @@ I honestly tell you my sentiments and intentions: I do not wish to work
 
 on your fears, but on your sense and affection. It would destroy every
 
-comfort of my life to know that you were married to Lady Susan Vernon;
+comfort of my life to know that you were married to [[Lady Susan Vernon]];
 
-it would be the death of that honest pride with which I have hitherto
+it would be the [[Death|death]] of that honest [[Pride|pride]] with which I have hitherto
 
 considered my son; I should blush to see him, to hear of him, to think
 
@@ -148,17 +148,17 @@ of him. I may perhaps do no good but that of relieving my own mind by
 
 this letter, but I felt it my duty to tell you that your partiality for
 
-Lady Susan is no secret to your friends, and to warn you against her. I
+[[Lady Susan]] is no secret to your friends, and to warn you against her. I
 
-should be glad to hear your reasons for disbelieving Mr. Smith’s
+should be glad to hear your reasons for disbelieving Mr. [[smith|Smith]]’s
 
-intelligence; you had no doubt of its authenticity a month ago. If you
+intelligence; you had no [[Doubt|doubt]] of its authenticity a month ago. If you
 
 can give me your assurance of having no design beyond enjoying the
 
 conversation of a clever woman for a short period, and of yielding
 
-admiration only to her beauty and abilities, without being blinded by
+admiration only to her [[Beauty|beauty]] and abilities, without being blinded by
 
 them to her faults, you will restore me to happiness; but, if you
 
@@ -170,7 +170,7 @@ an alteration in your opinion of her.
 
 I am, &c., &c,
 
-REGINALD DE COURCY
+[[Reginald De Courcy|REGINALD DE COURCY]]
 
 
 
@@ -210,15 +210,15 @@ vexation, with all your fears about your brother. I had intended to
 
 write to Reginald myself as soon as my eyes would let me, to point out,
 
-as well as I could, the danger of an intimate acquaintance, with so
+as [[Well|well]] as I could, the danger of an intimate acquaintance, with so
 
-artful a woman as Lady Susan, to a young man of his age, and high
+artful a woman as [[Lady Susan]], to a young man of his age, and high
 
 expectations. I meant, moreover, to have reminded him of our being
 
-quite alone now, and very much in need of him to keep up our spirits
+quite [[Alone|alone]] now, and very much in need of him to keep up our spirits
 
-these long winter evenings. Whether it would have done any good can
+these long [[Winter|winter]] evenings. Whether it would have done any good can
 
 never be settled now, but I am excessively vexed that Sir Reginald
 
@@ -238,9 +238,9 @@ morning, which I shall enclose to you, as I think you will like to see
 
 it. I wish it was more satisfactory; but it seems written with such a
 
-determination to think well of Lady Susan, that his assurances as to
+determination to think [[Well|well]] of [[Lady Susan]], that his assurances as to
 
-marriage, &c., do not set my heart at ease. I say all I can, however,
+[[Marriage|marriage]], &c., do not set my heart at ease. I say all I can, however,
 
 to satisfy your father, and he is certainly less uneasy since
 

@@ -18,14 +18,14 @@ CHAPTER II
 MURDERING THE INNOCENTS
 
 
-THOMAS GRADGRIND, sir.  A man of realities.  A man of facts and
+[[Thomas Gradgrind|THOMAS GRADGRIND]], sir.  A man of realities.  A man of facts and
 calculations.  A man who proceeds upon the principle that two and two are
 four, and nothing over, and who is not to be talked into allowing for
-anything over.  Thomas Gradgrind, sir—peremptorily Thomas—Thomas
+anything over.  [[Thomas Gradgrind]], sir—peremptorily Thomas—Thomas
 Gradgrind.  With a rule and a pair of scales, and the multiplication
 table always in his pocket, sir, ready to weigh and measure any parcel of
-human nature, and tell you exactly what it comes to.  It is a mere
-question of figures, a case of simple arithmetic.  You might hope to get
+human [[Nature|nature]], and tell you exactly what it comes to.  It is a mere
+question of figures, a case of simple arithmetic.  You might [[Hope|hope]] to get
 some other nonsensical belief into the head of George Gradgrind, or
 Augustus Gradgrind, or John Gradgrind, or Joseph Gradgrind (all
 supposititious, non-existent persons), but into the head of Thomas
@@ -33,13 +33,13 @@ Gradgrind—no, sir!
 
 In such terms Mr. Gradgrind always mentally introduced himself, whether
 to his private circle of acquaintance, or to the public in general.  In
-such terms, no doubt, substituting the words ‘boys and girls,’ for ‘sir,’
-Thomas Gradgrind now presented Thomas Gradgrind to the little pitchers
+such terms, no [[Doubt|doubt]], substituting the words ‘boys and girls,’ for ‘sir,’
+[[Thomas Gradgrind]] now presented [[Thomas Gradgrind]] to the little pitchers
 before him, who were to be filled so full of facts.
 
 Indeed, as he eagerly sparkled at them from the cellarage before
 mentioned, he seemed a kind of cannon loaded to the muzzle with facts,
-and prepared to blow them clean out of the regions of childhood at one
+and prepared to blow them clean out of the regions of [[Childhood|childhood]] at one
 discharge.  He seemed a galvanizing apparatus, too, charged with a grim
 mechanical substitute for the tender young imaginations that were to be
 stormed away.
@@ -47,7 +47,7 @@ stormed away.
 ‘Girl number twenty,’ said Mr. Gradgrind, squarely pointing with his
 square forefinger, ‘I don’t know that girl.  Who is that girl?’
 
-‘Sissy Jupe, sir,’ explained number twenty, blushing, standing up, and
+‘[[Sissy Jupe]], sir,’ explained number twenty, blushing, standing up, and
 curtseying.
 
 ‘Sissy is not a name,’ said Mr. Gradgrind.  ‘Don’t call yourself Sissy.
@@ -59,7 +59,7 @@ trembling voice, and with another curtsey.
 ‘Then he has no business to do it,’ said Mr. Gradgrind.  ‘Tell him he
 mustn’t.  Cecilia Jupe.  Let me see.  What is your father?’
 
-‘He belongs to the horse-riding, if you please, sir.’
+‘He belongs to the [[Horse|horse]]-riding, if you please, sir.’
 
 Mr. Gradgrind frowned, and waved off the objectionable calling with his
 hand.
@@ -70,20 +70,20 @@ about that, here.  Your father breaks horses, don’t he?’
 ‘If you please, sir, when they can get any to break, they do break horses
 in the ring, sir.’
 
-‘You mustn’t tell us about the ring, here.  Very well, then.  Describe
+‘You mustn’t tell us about the ring, here.  Very [[Well|well]], then.  Describe
 your father as a horsebreaker.  He doctors sick horses, I dare say?’
 
 ‘Oh yes, sir.’
 
-‘Very well, then.  He is a veterinary surgeon, a farrier, and
-horsebreaker.  Give me your definition of a horse.’
+‘Very [[Well|well]], then.  He is a veterinary surgeon, a farrier, and
+horsebreaker.  Give me your definition of a [[Horse|horse]].’
 
-(Sissy Jupe thrown into the greatest alarm by this demand.)
+([[Sissy Jupe]] thrown into the greatest alarm by this demand.)
 
-‘Girl number twenty unable to define a horse!’ said Mr. Gradgrind, for
+‘Girl number twenty unable to define a [[Horse|horse]]!’ said Mr. Gradgrind, for
 the general behoof of all the little pitchers.  ‘Girl number twenty
-possessed of no facts, in reference to one of the commonest of animals!
-Some boy’s definition of a horse.  Bitzer, yours.’
+possessed of no facts, in reference to one of the commonest of [[Animals|animals]]!
+Some boy’s definition of a [[Horse|horse]].  Bitzer, yours.’
 
 The square finger, moving here and there, lighted suddenly on Bitzer,
 perhaps because he chanced to sit in the same ray of sunlight which,
@@ -95,7 +95,7 @@ in for the beginning of a sunbeam, of which Bitzer, being at the corner
 of a row on the other side, a few rows in advance, caught the end.  But,
 whereas the girl was so dark-eyed and dark-haired, that she seemed to
 receive a deeper and more lustrous colour from the sun, when it shone
-upon her, the boy was so light-eyed and light-haired that the self-same
+upon her, the boy was so light-eyed and light-haired that the [[Self|self]]-same
 rays appeared to draw out of him what little colour he ever possessed.
 His cold eyes would hardly have been eyes, but for the short ends of
 lashes which, by bringing them into immediate contrast with something
@@ -104,25 +104,25 @@ might have been a mere continuation of the sandy freckles on his forehead
 and face.  His skin was so unwholesomely deficient in the natural tinge,
 that he looked as though, if he were cut, he would bleed white.
 
-‘Bitzer,’ said Thomas Gradgrind.  ‘Your definition of a horse.’
+‘Bitzer,’ said [[Thomas Gradgrind]].  ‘Your definition of a [[Horse|horse]].’
 
 ‘Quadruped.  Graminivorous.  Forty teeth, namely twenty-four grinders,
-four eye-teeth, and twelve incisive.  Sheds coat in the spring; in marshy
+four eye-teeth, and twelve incisive.  Sheds coat in the [[spring]]; in marshy
 countries, sheds hoofs, too.  Hoofs hard, but requiring to be shod with
 iron.  Age known by marks in mouth.’  Thus (and much more) Bitzer.
 
-‘Now girl number twenty,’ said Mr. Gradgrind.  ‘You know what a horse
+‘Now girl number twenty,’ said Mr. Gradgrind.  ‘You know what a [[Horse|horse]]
 is.’
 
 She curtseyed again, and would have blushed deeper, if she could have
-blushed deeper than she had blushed all this time.  Bitzer, after rapidly
-blinking at Thomas Gradgrind with both eyes at once, and so catching the
+blushed deeper than she had blushed all this [[Time|time]].  Bitzer, after rapidly
+blinking at [[Thomas Gradgrind]] with both eyes at once, and so catching the
 light upon his quivering ends of lashes that they looked like the antennæ
-of busy insects, put his knuckles to his freckled forehead, and sat down
+of busy [[Insects|insects]], put his knuckles to his freckled forehead, and sat down
 again.
 
 The third gentleman now stepped forth.  A mighty man at cutting and
-drying, he was; a government officer; in his way (and in most other
+drying, he was; a [[government]] officer; in his way (and in most other
 people’s too), a professed pugilist; always in training, always with a
 system to force down the general throat like a bolus, always to be heard
 of at the bar of his little Public-office, ready to fight all England.
@@ -131,18 +131,18 @@ scratch, wherever and whatever it was, and proving himself an ugly
 customer.  He would go in and damage any subject whatever with his right,
 follow up with his left, stop, exchange, counter, bore his opponent (he
 always fought All England) to the ropes, and fall upon him neatly.  He
-was certain to knock the wind out of common sense, and render that
-unlucky adversary deaf to the call of time.  And he had it in charge from
+was certain to knock the [[Wind|wind]] out of common sense, and render that
+unlucky adversary deaf to the call of [[Time|time]].  And he had it in charge from
 high authority to bring about the great public-office Millennium, when
 Commissioners should reign upon earth.
 
-‘Very well,’ said this gentleman, briskly smiling, and folding his arms.
-‘That’s a horse.  Now, let me ask you girls and boys, Would you paper a
+‘Very [[Well|well]],’ said this gentleman, briskly smiling, and folding his arms.
+‘That’s a [[Horse|horse]].  Now, let me ask you girls and boys, Would you paper a
 room with representations of horses?’
 
-After a pause, one half of the children cried in chorus, ‘Yes, sir!’
+After a pause, one half of the children cried in [[Chorus|chorus]], ‘Yes, sir!’
 Upon which the other half, seeing in the gentleman’s face that Yes was
-wrong, cried out in chorus, ‘No, sir!’—as the custom is, in these
+wrong, cried out in [[Chorus|chorus]], ‘No, sir!’—as the custom is, in these
 examinations.
 
 ‘Of course, No.  Why wouldn’t you?’
@@ -153,7 +153,7 @@ paint it.
 
 ‘You _must_ paper it,’ said the gentleman, rather warmly.
 
-‘You must paper it,’ said Thomas Gradgrind, ‘whether you like it or not.
+‘You must paper it,’ said [[Thomas Gradgrind]], ‘whether you like it or not.
 Don’t tell _us_ you wouldn’t paper it.  What do you mean, boy?’
 
 ‘I’ll explain to you, then,’ said the gentleman, after another and a
@@ -166,17 +166,17 @@ reality—in fact?  Do you?’
 ‘Of course no,’ said the gentleman, with an indignant look at the wrong
 half.  ‘Why, then, you are not to see anywhere, what you don’t see in
 fact; you are not to have anywhere, what you don’t have in fact.  What is
-called Taste, is only another name for Fact.’  Thomas Gradgrind nodded
+called Taste, is only another name for Fact.’  [[Thomas Gradgrind]] nodded
 his approbation.
 
 ‘This is a new principle, a discovery, a great discovery,’ said the
 gentleman.  ‘Now, I’ll try you again.  Suppose you were going to carpet a
-room.  Would you use a carpet having a representation of flowers upon
+room.  Would you use a carpet having a representation of [[Flowers|flowers]] upon
 it?’
 
-There being a general conviction by this time that ‘No, sir!’ was always
-the right answer to this gentleman, the chorus of NO was very strong.
-Only a few feeble stragglers said Yes: among them Sissy Jupe.
+There being a general conviction by this [[Time|time]] that ‘No, sir!’ was always
+the right answer to this gentleman, the [[Chorus|chorus]] of NO was very strong.
+Only a few feeble stragglers said Yes: among them [[Sissy Jupe]].
 
 ‘Girl number twenty,’ said the gentleman, smiling in the calm strength of
 knowledge.
@@ -184,10 +184,10 @@ knowledge.
 Sissy blushed, and stood up.
 
 ‘So you would carpet your room—or your husband’s room, if you were a
-grown woman, and had a husband—with representations of flowers, would
+grown woman, and had a husband—with representations of [[Flowers|flowers]], would
 you?’ said the gentleman.  ‘Why would you?’
 
-‘If you please, sir, I am very fond of flowers,’ returned the girl.
+‘If you please, sir, I am very fond of [[Flowers|flowers]],’ returned the girl.
 
 ‘And is that why you would put tables and chairs upon them, and have
 people walking over them with heavy boots?’
@@ -199,21 +199,21 @@ pleasant, and I would fancy—’
 ‘Ay, ay, ay!  But you mustn’t fancy,’ cried the gentleman, quite elated
 by coming so happily to his point.  ‘That’s it!  You are never to fancy.’
 
-‘You are not, Cecilia Jupe,’ Thomas Gradgrind solemnly repeated, ‘to do
+‘You are not, Cecilia Jupe,’ [[Thomas Gradgrind]] solemnly repeated, ‘to do
 anything of that kind.’
 
 ‘Fact, fact, fact!’ said the gentleman.  And ‘Fact, fact, fact!’ repeated
-Thomas Gradgrind.
+[[Thomas Gradgrind]].
 
 ‘You are to be in all things regulated and governed,’ said the gentleman,
-‘by fact.  We hope to have, before long, a board of fact, composed of
+‘by fact.  We [[Hope|hope]] to have, before long, a board of fact, composed of
 commissioners of fact, who will force the people to be a people of fact,
 and of nothing but fact.  You must discard the word Fancy altogether.
 You have nothing to do with it.  You are not to have, in any object of
 use or ornament, what would be a contradiction in fact.  You don’t walk
-upon flowers in fact; you cannot be allowed to walk upon flowers in
-carpets.  You don’t find that foreign birds and butterflies come and
-perch upon your crockery; you cannot be permitted to paint foreign birds
+upon [[Flowers|flowers]] in fact; you cannot be allowed to walk upon [[Flowers|flowers]] in
+carpets.  You don’t find that foreign [[Birds|birds]] and butterflies come and
+perch upon your crockery; you cannot be permitted to paint foreign [[Birds|birds]]
 and butterflies upon your crockery.  You never meet with quadrupeds going
 up and down walls; you must not have quadrupeds represented upon walls.
 You must use,’ said the gentleman, ‘for all these purposes, combinations
@@ -232,19 +232,19 @@ Mr. Gradgrind was much obliged.  ‘Mr. M’Choakumchild, we only wait for
 you.’
 
 So, Mr. M’Choakumchild began in his best manner.  He and some one hundred
-and forty other schoolmasters, had been lately turned at the same time,
+and forty other schoolmasters, had been lately turned at the same [[Time|time]],
 in the same factory, on the same principles, like so many pianoforte
 legs.  He had been put through an immense variety of paces, and had
 answered volumes of head-breaking questions.  Orthography, etymology,
-syntax, and prosody, biography, astronomy, geography, and general
+syntax, and prosody, [[Biography|biography]], astronomy, geography, and general
 cosmography, the sciences of compound proportion, algebra, land-surveying
 and levelling, vocal music, and drawing from models, were all at the ends
 of his ten chilled fingers.  He had worked his stony way into Her
 Majesty’s most Honourable Privy Council’s Schedule B, and had taken the
 bloom off the higher branches of mathematics and physical science,
-French, German, Latin, and Greek.  He knew all about all the Water Sheds
+French, German, Latin, and Greek.  He knew all about all the [[Water]] Sheds
 of all the world (whatever they are), and all the histories of all the
-peoples, and all the names of all the rivers and mountains, and all the
+peoples, and all the names of all the rivers and [[Mountains|mountains]], and all the
 productions, manners, and customs of all the countries, and all their
 boundaries and bearings on the two and thirty points of the compass.  Ah,
 rather overdone, M’Choakumchild.  If he had only learnt a little less,

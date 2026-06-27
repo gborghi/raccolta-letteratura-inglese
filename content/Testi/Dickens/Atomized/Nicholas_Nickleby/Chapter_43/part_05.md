@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 43 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 43 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -19,36 +19,36 @@ tags:
 be angry with me for being happy and content? You and Nicholas are left
 to me, we are together once again, and what regard can I have for a few
 trifling things of which we never feel the want? When I have seen all
-the misery and desolation that death can bring, and known the lonesome
-feeling of being solitary and alone in crowds, and all the agony of
-separation in grief and poverty when we most needed comfort and support
-from each other, can you wonder that I look upon this as a place of such
+the misery and desolation that [[Death|death]] can bring, and known the lonesome
+feeling of being solitary and [[Alone|alone]] in crowds, and all the agony of
+separation in grief and [[Poverty|poverty]] when we most needed comfort and support
+from each other, can you [[Wonder|wonder]] that I look upon this as a place of such
 delicious quiet and rest, that with you beside me I have nothing to
-wish for or regret? There was a time, and not long since, when all
-the comforts of our old home did come back upon me, I own, very
+wish for or regret? There was a [[Time|time]], and not long since, when all
+the comforts of our old [[Home|home]] did come back upon me, I own, very
 often--oftener than you would think perhaps--but I affected to care
-nothing for them, in the hope that you would so be brought to regret
+nothing for them, in the [[Hope|hope]] that you would so be brought to regret
 them the less. I was not insensible, indeed. I might have felt happier
 if I had been. Dear mama,’ said Kate, in great agitation, ‘I know no
-difference between this home and that in which we were all so happy
+difference between this [[Home|home]] and that in which we were all so happy
 for so many years, except that the kindest and gentlest heart that ever
 ached on earth has passed in peace to heaven.’
 
 ‘Kate my dear, Kate,’ cried Mrs. Nickleby, folding her in her arms.
 
 ‘I have so often thought,’ sobbed Kate, ‘of all his kind words--of the
-last time he looked into my little room, as he passed upstairs to bed,
+last [[Time|time]] he looked into my little room, as he passed upstairs to bed,
 and said “God bless you, darling.” There was a paleness in his face,
 mama--the broken heart--I know it was--I little thought so--then--’
 
-A gush of tears came to her relief, and Kate laid her head upon her
-mother’s breast, and wept like a little child.
+A gush of [[Tears|tears]] came to her relief, and Kate laid her head upon her
+mother’s breast, and wept like a little [[Child|child]].
 
-It is an exquisite and beautiful thing in our nature, that when the
+It is an exquisite and beautiful thing in our [[Nature|nature]], that when the
 heart is touched and softened by some tranquil happiness or affectionate
-feeling, the memory of the dead comes over it most powerfully and
+feeling, the [[Memory|memory]] of the dead comes over it most powerfully and
 irresistibly. It would almost seem as though our better thoughts and
-sympathies were charms, in virtue of which the soul is enabled to hold
+sympathies were charms, in virtue of which the [[Soul|soul]] is enabled to hold
 some vague and mysterious intercourse with the spirits of those whom
 we dearly loved in life. Alas! how often and how long may those patient
 angels hover above us, watching for the spell which is so seldom
@@ -62,11 +62,11 @@ now, when the happiness of all that Nicholas had just told them, and
 of their new and peaceful life, brought these recollections so strongly
 upon Kate that she could not suppress them, Mrs. Nickleby began to have
 a glimmering that she had been rather thoughtless now and then, and was
-conscious of something like self-reproach as she embraced her daughter,
+conscious of something like [[Self|self]]-reproach as she embraced her daughter,
 and yielded to the emotions which such a conversation naturally
 awakened.
 
-There was a mighty bustle that night, and a vast quantity of preparation
+There was a mighty bustle that [[Night|night]], and a vast quantity of preparation
 for the expected visitor, and a very large nosegay was brought from a
 gardener’s hard by, and cut up into a number of very small ones, with
 which Mrs. Nickleby would have garnished the little sitting-room, in
@@ -74,14 +74,14 @@ a style that certainly could not have failed to attract anybody’s
 attention, if Kate had not offered to spare her the trouble, and
 arranged them in the prettiest and neatest manner possible. If the
 cottage ever looked pretty, it must have been on such a bright and
-sunshiny day as the next day was. But Smike’s pride in the garden,
+sunshiny day as the next day was. But [[Smike]]’s [[Pride|pride]] in the [[Garden|garden]],
 or Mrs. Nickleby’s in the condition of the furniture, or Kate’s in
-everything, was nothing to the pride with which Nicholas looked at Kate
+everything, was nothing to the [[Pride|pride]] with which Nicholas looked at Kate
 herself; and surely the costliest mansion in all England might have
 found in her beautiful face and graceful form its most exquisite and
 peerless ornament.
 
-About six o’clock in the afternoon Mrs. Nickleby was thrown into a great
+About six o’[[Clock|clock]] in the afternoon Mrs. Nickleby was thrown into a great
 flutter of spirits by the long-expected knock at the door, nor was this
 flutter at all composed by the audible tread of two pair of boots in the
 passage, which Mrs. Nickleby augured, in a breathless state, must be ‘the
@@ -92,16 +92,16 @@ who made a thousand apologies for his intrusion, which Mrs. Nickleby
 received. Nor did the appearance of this unexpected visitor occasion
 the least embarrassment, (save in Kate, and that only to the extent of
 a blush or two at first,) for the old gentleman was so kind and cordial,
-and the young gentleman imitated him in this respect so well, that the
+and the young gentleman imitated him in this respect so [[Well|well]], that the
 usual stiffness and formality of a first meeting showed no signs of
 appearing, and Kate really more than once detected herself in the very
 act of wondering when it was going to begin.
 
 At the tea-table there was plenty of conversation on a great variety of
 subjects, nor were there wanting jocose matters of discussion, such as
-they were; for young Mr. Cheeryble’s recent stay in Germany happening to
+they were; for young Mr. Cheeryble’s recent stay in [[Germany]] happening to
 be alluded to, old Mr. Cheeryble informed the company that the aforesaid
-young Mr. Cheeryble was suspected to have fallen deeply in love with
+young Mr. Cheeryble was suspected to have fallen deeply in [[Love|love]] with
 the daughter of a certain German burgomaster. This accusation young
 Mr. Cheeryble most indignantly repelled, upon which Mrs. Nickleby slyly
 remarked, that she suspected, from the very warmth of the denial, there
@@ -111,6 +111,6 @@ at last did, young Mr. Cheeryble being so much in earnest about it,
 that--as Mrs. Nickleby said many thousand times afterwards in recalling
 the scene--he ‘quite coloured,’ which she rightly considered a memorable
 circumstance, and one worthy of remark, young men not being as a class
-remarkable for modesty or self-denial, especially when there is a lady
+remarkable for modesty or [[Self|self]]-denial, especially when there is a lady
 in the case, when, if they colour at all, it is rather their practice to
 colour the story, and not themselves.

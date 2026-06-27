@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 1"
+title: "[[Martin Chuzzlewit]] — Chapter 1"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -26,9 +26,9 @@ to know that it undoubtedly descended in a direct line from Adam and
 Eve; and was, in the very earliest times, closely connected with the
 agricultural interest. If it should ever be urged by grudging and
 malicious persons, that a Chuzzlewit, in any period of the family
-history, displayed an overweening amount of family pride, surely the
+[[history]], displayed an overweening amount of family [[Pride|pride]], surely the
 weakness will be considered not only pardonable but laudable, when the
-immense superiority of the house to the rest of mankind, in respect of
+immense superiority of the [[house]] to the rest of mankind, in respect of
 this its ancient origin, is taken into account.
 
 It is remarkable that as there was, in the oldest family of which we
@@ -42,24 +42,24 @@ shattered fortunes, were at once the ennobling pursuit and the healthful
 recreation of the Quality of this land.
 
 Consequently, it is a source of inexpressible comfort and happiness
-to find, that in various periods of our history, the Chuzzlewits were
+to find, that in various periods of our [[history]], the Chuzzlewits were
 actively connected with divers slaughterous conspiracies and bloody
 frays. It is further recorded of them, that being clad from head to
 heel in steel of proof, they did on many occasions lead their
-leather-jerkined soldiers to the death with invincible courage, and
-afterwards return home gracefully to their relations and friends.
+leather-jerkined soldiers to the [[Death|death]] with invincible [[Courage|courage]], and
+afterwards return [[Home|home]] gracefully to their relations and friends.
 
-There can be no doubt that at least one Chuzzlewit came over with
+There can be no [[Doubt|doubt]] that at least one Chuzzlewit came over with
 William the Conqueror. It does not appear that this illustrious ancestor
 ‘came over’ that monarch, to employ the vulgar phrase, at any subsequent
 period; inasmuch as the Family do not seem to have been ever greatly
-distinguished by the possession of landed estate. And it is well known
+distinguished by the possession of landed estate. And it is [[Well|well]] known
 that for the bestowal of that kind of property upon his favourites,
 the liberality and gratitude of the Norman were as remarkable as those
 virtues are usually found to be in great men when they give away what
 belongs to other people.
 
-Perhaps in this place the history may pause to congratulate itself upon
+Perhaps in this place the [[history]] may pause to congratulate itself upon
 the enormous amount of bravery, wisdom, eloquence, virtue, gentle birth,
 and true nobility, that appears to have come into England with the
 Norman Invasion: an amount which the genealogy of every ancient family
@@ -81,25 +81,25 @@ to those who are curious in tracing the progress of hereditary tastes
 through the lives of their unconscious inheritors. It is a notable
 circumstance that in these later times, many Chuzzlewits, being
 unsuccessful in other pursuits, have, without the smallest rational
-hope of enriching themselves, or any conceivable reason, set up as
+[[Hope|hope]] of enriching themselves, or any conceivable reason, set up as
 coal-merchants; and have, month after month, continued gloomily to watch
 a small stock of coals, without in any one instance negotiating with a
 purchaser. The remarkable similarity between this course of proceeding
 and that adopted by their Great Ancestor beneath the vaults of the
-Parliament House at Westminster, is too obvious and too full of
+Parliament [[house|House]] at Westminster, is too obvious and too full of
 interest, to stand in need of comment.
 
 It is also clearly proved by the oral traditions of the Family, that
-there existed, at some one period of its history which is not distinctly
+there existed, at some one period of its [[history]] which is not distinctly
 stated, a matron of such destructive principles, and so familiarized to
 the use and composition of inflammatory and combustible engines, that
 she was called ‘The Match Maker;’ by which nickname and byword she is
 recognized in the Family legends to this day. Surely there can be
-no reasonable doubt that this was the Spanish lady, the mother of
+no reasonable [[Doubt|doubt]] that this was the Spanish lady, the mother of
 Chuzzlewit Fawkes.
 
 But there is one other piece of evidence, bearing immediate reference
-to their close connection with this memorable event in English History,
+to their close connection with this memorable event in English [[history|History]],
 which must carry conviction, even to a mind (if such a mind there be)
 remaining unconvinced by these presumptive proofs.
 
@@ -114,7 +114,7 @@ did again and again set forth upon his solemn asseveration, that he had
 frequently heard his grandmother say, when contemplating this venerable
 relic, ‘Aye, aye! This was carried by my fourth son on the fifth of
 November, when he was a Guy Fawkes.’ These remarkable words wrought
-(as well they might) a strong impression on his mind, and he was in the
+(as [[Well|well]] they might) a strong impression on his mind, and he was in the
 habit of repeating them very often. The just interpretation which
 they bear, and the conclusion to which they lead, are triumphant and
 irresistible. The old lady, naturally strong-minded, was nevertheless
@@ -158,12 +158,12 @@ by his father in his lifetime, lay upon his deathbed, this question was
 put to him in a distinct, solemn, and formal way: ‘Toby Chuzzlewit,
 who was your grandfather?’ To which he, with his last breath, no less
 distinctly, solemnly, and formally replied: and his words were taken
-down at the time, and signed by six witnesses, each with his name and
+down at the [[Time|time]], and signed by six witnesses, each with his name and
 address in full: ‘The Lord No Zoo.’ It may be said--it HAS been said,
 for human wickedness has no limits--that there is no Lord of that
 name, and that among the titles which have become extinct, none at all
 resembling this, in sound even, is to be discovered. But what is the
-irresistible inference? Rejecting a theory broached by some well-meaning
+irresistible inference? Rejecting a theory broached by some [[Well|well]]-meaning
 but mistaken persons, that this Mr Toby Chuzzlewit’s grandfather, to
 judge from his name, must surely have been a Mandarin (which is wholly
 insupportable, for there is no pretence of his grandmother ever having
@@ -175,7 +175,7 @@ Mr Toby Chuzzlewit had either received the name imperfectly from his
 father, or that he had forgotten it, or that he had mispronounced it?
 and that even at the recent period in question, the Chuzzlewits were
 connected by a bend sinister, or kind of heraldic over-the-left, with
-some unknown noble and illustrious House?
+some unknown noble and illustrious [[house|House]]?
 
 From documentary evidence, yet preserved in the family, the fact is
 clearly established that in the comparatively modern days of the Diggory
@@ -185,14 +185,14 @@ correspondence as have escaped the ravages of the moths (who, in right
 of their extensive absorption of the contents of deeds and papers, may
 be called the general registers of the Insect World), we find him making
 constant reference to an uncle, in respect of whom he would seem to have
-entertained great expectations, as he was in the habit of seeking to
+entertained [[Great Expectations|great expectations]], as he was in the habit of seeking to
 propitiate his favour by presents of plate, jewels, books, watches, and
 other valuable articles. Thus, he writes on one occasion to his
 brother in reference to a gravy-spoon, the brother’s property, which he
 (Diggory) would appear to have borrowed or otherwise possessed himself
 of: ‘Do not be angry, I have parted with it--to my uncle.’ On another
 occasion he expresses himself in a similar manner with regard to a
-child’s mug which had been entrusted to him to get repaired. On another
+[[Child|child]]’s mug which had been entrusted to him to get repaired. On another
 occasion he says, ‘I have bestowed upon that irresistible uncle of mine
 everything I ever possessed.’ And that he was in the habit of paying
 long and constant visits to this gentleman at his mansion, if, indeed,
@@ -202,11 +202,11 @@ the whole of my wearing apparel is at present at my uncle’s.’ This
 gentleman’s patronage and influence must have been very extensive, for
 his nephew writes, ‘His interest is too high’--‘It is too much’--‘It is
 tremendous’--and the like. Still it does not appear (which is strange)
-to have procured for him any lucrative post at court or elsewhere, or
+to have procured for him any lucrative post at [[Court|court]] or elsewhere, or
 to have conferred upon him any other distinction than that which was
 necessarily included in the countenance of so great a man, and the being
 invited by him to certain entertainment’s, so splendid and costly in
-their nature, that he calls them ‘Golden Balls.’
+their [[Nature|nature]], that he calls them ‘Golden Balls.’
 
 It is needless to multiply instances of the high and lofty station, and
 the vast importance of the Chuzzlewits, at different periods. If it
@@ -214,24 +214,24 @@ came within the scope of reasonable probability that further proofs were
 required, they might be heaped upon each other until they formed an Alps
 of testimony, beneath which the boldest scepticism should be crushed
 and beaten flat. As a goodly tumulus is already collected, and decently
-battened up above the Family grave, the present chapter is content to
+battened up above the Family [[Grave|grave]], the present chapter is content to
 leave it as it is: merely adding, by way of a final spadeful, that many
 Chuzzlewits, both male and female, are proved to demonstration, on the
-faith of letters written by their own mothers, to have had chiselled
+[[Faith|faith]] of letters written by their own mothers, to have had chiselled
 noses, undeniable chins, forms that might have served the sculptor for a
 model, exquisitely-turned limbs and polished foreheads of so transparent
 a texture that the blue veins might be seen branching off in various
 directions, like so many roads on an ethereal map. This fact in itself,
 though it had been a solitary one, would have utterly settled and
-clenched the business in hand; for it is well known, on the authority
+clenched the business in hand; for it is [[Well|well]] known, on the authority
 of all the books which treat of such matters, that every one of these
 phenomena, but especially that of the chiselling, are invariably
 peculiar to, and only make themselves apparent in, persons of the very
 best condition.
 
-This history having, to its own perfect satisfaction, (and,
+This [[history]] having, to its own perfect satisfaction, (and,
 consequently, to the full contentment of all its readers,) proved the
-Chuzzlewits to have had an origin, and to have been at one time or other
+Chuzzlewits to have had an origin, and to have been at one [[Time|time]] or other
 of an importance which cannot fail to render them highly improving and
 acceptable acquaintance to all right-minded individuals, may now proceed
 in earnest with its task. And having shown that they must have had, by
@@ -246,5 +246,5 @@ probability of the human race having once been monkeys, that men do
 play very strange and extraordinary tricks. Secondly, and yet without
 trenching on the Blumenbach theory as to the descendants of Adam having
 a vast number of qualities which belong more particularly to swine than
-to any other class of animals in the creation, that some men certainly
+to any other class of [[Animals|animals]] in the creation, that some men certainly
 are remarkable for taking uncommon good care of themselves.

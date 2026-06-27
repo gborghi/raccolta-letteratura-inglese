@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 22)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 22)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -26,11 +26,11 @@ anybody who had read Dickens with simple and superficial enjoyment, as
 
 all good literature ought to be read. It will seem to them just as
 
-silly as saying that the Fat Boy and Mr. Alfred Jingle were both copied
+silly as saying that the Fat Boy and Mr. [[Alfred Jingle]] were both copied
 
 from the same character. It will seem as insane as saying that the
 
-character of Smike and the character of Major Bagstock were both copied
+character of [[Smike]] and the character of [[Major Bagstock]] were both copied
 
 from Dickens's father. Yet it is an unquestionable historical fact that
 
@@ -56,63 +56,63 @@ moral in 1849, and the sad moral in 1857.
 
 
 
-There must have been some real sadness at this time creeping like a
+There must have been some real sadness at this [[Time|time]] creeping like a
 
 cloud over Dickens himself. It is nothing that a man dwells on the
 
 darkness of dark things; all healthy men do that. It is when he dwells
 
-on the darkness of bright things that we have reason to fear some
+on the darkness of bright things that we have reason to [[Fear|fear]] some
 
 disease of the emotions. There must really have been some depression
 
-when a man can only see the sad side of flowers or the sad side of
+when a man can only see the sad side of [[Flowers|flowers]] or the sad side of
 
 holidays or the sad side of wine. And there must be some depression of
 
 an uncommonly dark and genuine character when a man has reached such a
 
-point that he can see only the sad side of Mr. Wilkins Micawber.
+point that he can see only the sad side of Mr. [[Wilkins Micawber]].
 
 
 
-Yet this is in reality what had happened to Dickens about this time.
+Yet this is in reality what had happened to Dickens about this [[Time|time]].
 
-Staring at Wilkins Micawber he could see only the weakness and the
+Staring at [[Wilkins Micawber]] he could see only the weakness and the
 
-tragedy that was made possible by his indifference, his indulgence, and
+[[Tragedy|tragedy]] that was made possible by his indifference, his indulgence, and
 
 his bravado. He had already indeed been slightly moved towards this
 
 study of the feebleness and ruin of the old epicurean type with which he
 
-had once sympathised, the type of Bob Sawyer or Dick Swiveller. He had
+had once sympathised, the type of Bob Sawyer or [[Dick Swiveller]]. He had
 
 already attacked the evil of it in _Bleak House_ in the character of
 
-Harold Skimpole, with its essentially cowardly carelessness and its
+[[Harold Skimpole]], with its essentially cowardly carelessness and its
 
 highly selfish communism. Nevertheless, as I have said before, it must
 
 have been no small degree of actual melancholia which led Dickens to
 
-look for a lesson of disaster and slavery in the very same career from
+look for a lesson of disaster and [[Slavery|slavery]] in the very same career from
 
 which he had once taught lessons of continual recuperation and a kind of
 
-fantastic freedom. There must have been at this time some melancholy
+fantastic [[Freedom|freedom]]. There must have been at this [[Time|time]] some [[Melancholy|melancholy]]
 
-behind the writings. There must have existed on this earth at the time
+behind the writings. There must have existed on this earth at the [[Time|time]]
 
-that portent and paradox--a somewhat depressed Dickens.
+that portent and [[Paradox|paradox]]--a somewhat depressed Dickens.
 
 
 
 Perhaps it was a reminiscence of that metaphorical proverb which tells
 
-us that "truth lies at the bottom of a well." Perhaps these people
+us that "[[Truth|truth]] lies at the [[Bottom|bottom]] of a [[Well|well]]." Perhaps these people
 
-thought that the only way to find truth in the well was to drown
+thought that the only way to find [[Truth|truth]] in the [[Well|well]] was to drown
 
 oneself. But on whatever thin theoretic basis, the type and period of
 
@@ -134,9 +134,9 @@ pre-eminent and unmistakable. This is the fact that when all is said and
 
 done the main business of the story of _Little Dorrit_ is to describe
 
-the victory of circumstances over a soul. The circumstances are the
+the victory of circumstances over a [[Soul|soul]]. The circumstances are the
 
-financial ruin and long imprisonment of Edward Dorrit; the soul is
+financial ruin and long [[Imprisonment|imprisonment]] of Edward Dorrit; the [[Soul|soul]] is
 
 Edward Dorrit himself. Let it be granted that the circumstances are
 
@@ -144,19 +144,19 @@ exceptional and oppressive, are denounced as exceptional and oppressive,
 
 are finally exploded and overthrown; still, they are circumstances. Let
 
-it be granted that the soul is that of a man perhaps weak in any case
+it be granted that the [[Soul|soul]] is that of a man perhaps weak in any case
 
-and retaining many merits to the last, still it is a soul. Let it be
+and retaining many merits to the last, still it is a [[Soul|soul]]. Let it be
 
 granted, above all, that the admission that such spiritual tragedies do
 
-occur does not decrease by so much as an iota our faith in the validity
+occur does not decrease by so much as an iota our [[Faith|faith]] in the validity
 
 of any spiritual struggle. For example, Stevenson has made a study of
 
 the breakdown of a good man's character under a burden for which he is
 
-not to blame, in the tragedy of Henry Durie in _The Master of
+not to blame, in the [[Tragedy|tragedy]] of Henry Durie in _The Master of
 
 Ballantrae_. Yet he has added, in the mouth of Mackellar, the exact
 

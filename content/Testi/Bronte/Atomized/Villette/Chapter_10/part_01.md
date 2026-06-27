@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 10 (part 1)"
+title: "[[Villette]] — Chapter 10 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -18,30 +18,30 @@ CHAPTER X.
 DR JOHN.
 
 
-Madame Beck was a most consistent character; forbearing with all the
+[[Madame Beck]] was a most consistent character; forbearing with all the
 world, and tender to no part of it. Her own children drew her into no
 deviation from the even tenor of her stoic calm. She was solicitous
-about her family, vigilant for their interests and physical well-being;
+about her family, vigilant for their interests and physical [[Well|well]]-being;
 but she never seemed to know the wish to take her little children upon
 her lap, to press their rosy lips with her own, to gather them in a
 genial embrace, to shower on them softly the benignant caress, the
 loving word.
 
-I have watched her sometimes sitting in the garden, viewing the little
-bees afar off, as they walked in a distant alley with Trinette, their
+I have watched her sometimes sitting in the [[Garden|garden]], viewing the little
+[[Bees|bees]] afar off, as they walked in a distant alley with Trinette, their
 _bonne_; in her mien spoke care and prudence. I know she often pondered
 anxiously what she called “leur avenir;” but if the youngest, a puny
-and delicate but engaging child, chancing to spy her, broke from its
-nurse, and toddling down the walk, came all eager and laughing and
+and delicate but engaging [[Child|child]], chancing to spy her, broke from its
+[[Nurse|nurse]], and toddling down the walk, came all eager and laughing and
 panting to clasp her knee, Madame would just calmly put out one hand,
-so as to prevent inconvenient concussion from the child’s sudden onset:
+so as to prevent inconvenient concussion from the [[Child|child]]’s sudden onset:
 “Prends garde, mon enfant!” she would say unmoved, patiently permit it
 to stand near her a few moments, and then, without smile or kiss, or
 endearing syllable, rise and lead it back to Trinette.
 
 Her demeanour to the eldest girl was equally characteristic in another
-way. This was a vicious child. “Quelle peste que cette Désirée! Quel
-poison que cet enfant là!” were the expressions dedicated to her, alike
+way. This was a vicious [[Child|child]]. “Quelle peste que cette Désirée! Quel
+[[Poison|poison]] que cet enfant là!” were the expressions dedicated to her, alike
 in kitchen and in schoolroom. Amongst her other endowments she boasted
 an exquisite skill in the art, of provocation, sometimes driving her
 _bonne_ and the servants almost wild. She would steal to their attics,
@@ -62,28 +62,28 @@ Surveillance must work the whole cure. It failed of course. Désirée was
 kept in some measure from the servants, but she teased and pillaged her
 mamma instead. Whatever belonging to Madame’s work-table or toilet she
 could lay her hands on, she stole and hid. Madame saw all this, but she
-still pretended not to see: she had not rectitude of soul to confront
-the child with her vices. When an article disappeared whose value
+still pretended not to see: she had not rectitude of [[Soul|soul]] to confront
+the [[Child|child]] with her vices. When an article disappeared whose value
 rendered restitution necessary, she would profess to think that Désirée
 had taken it away in play, and beg her to restore it. Désirée was not
 to be so cheated: she had learned to bring falsehood to the aid of
 theft, and would deny having touched the brooch, ring, or scissors.
 Carrying on the hollow system, the mother would calmly assume an air of
-belief, and afterwards ceaselessly watch and dog the child till she
-tracked her: to her hiding-places—some hole in the garden-wall—some
-chink or cranny in garret or out-house. This done, Madame would send
+belief, and afterwards ceaselessly watch and dog the [[Child|child]] till she
+tracked her: to her hiding-places—some hole in the [[Garden|garden]]-wall—some
+chink or cranny in garret or out-[[house]]. This done, Madame would send
 Désirée out for a walk with her _bonne_, and profit by her absence to
 rob the robber. Désirée proved herself the true daughter of her astute
-parent, by never suffering either her countenance or manner to betray
+parent, by never [[Suffering|suffering]] either her countenance or manner to betray
 the least sign of mortification on discovering the loss.
 
-The second child, Fifine, was said to be like its dead father.
+The second [[Child|child]], Fifine, was said to be like its dead father.
 Certainly, though the mother had given it her healthy frame, her blue
 eye and ruddy cheek, not from her was derived its moral being. It was
-an honest, gleeful little soul: a passionate, warm-tempered, bustling
+an honest, gleeful little [[Soul|soul]]: a passionate, warm-tempered, bustling
 creature it was too, and of the sort likely to blunder often into
 perils and difficulties. One day it bethought itself to fall from top
-to bottom of a steep flight of stone steps; and when Madame, hearing
+to [[Bottom|bottom]] of a steep flight of stone steps; and when Madame, hearing
 the noise (she always heard every noise), issued from the
 salle-à-manger and picked it up, she said quietly,—“Cet enfant a un os
 de cassé.”
@@ -95,11 +95,11 @@ one little plump arm hung powerless.
 de suite chercher un fiacre.”
 
 In a _fiacre_ she promptly, but with admirable coolness and
-self-possession, departed to fetch a surgeon.
+[[Self|self]]-possession, departed to fetch a surgeon.
 
-It appeared she did not find the family-surgeon at home; but that
+It appeared she did not find the family-surgeon at [[Home|home]]; but that
 mattered not: she sought until she laid her hand on a substitute to her
-mind, and brought him back with her. Meantime I had cut the child’s
+mind, and brought him back with her. Meantime I had cut the [[Child|child]]’s
 sleeve from its arm, undressed and put it to bed.
 
 We none of us, I suppose (by _we_ I mean the bonne, the cook, the
@@ -108,7 +108,7 @@ small and heated chamber), looked very scrutinizingly at the new doctor
 when he came into the room. I, at least, was taken up with endeavouring
 to soothe Fifine; whose cries (for she had good lungs) were appalling
 to hear. These cries redoubled in intensity as the stranger approached
-her bed; when he took her up, “Let alone!” she cried passionately, in
+her bed; when he took her up, “Let [[Alone|alone]]!” she cried passionately, in
 her broken English (for she spoke English as did the other children).
 “I will not you: I will Dr. Pillule!”
 
@@ -123,8 +123,8 @@ teaspoonfuls of the sweet liquid (Fifine was a frank gourmande; anybody
 could win her heart through her palate), promised her more when the
 operation should be over, and promptly went to work. Some assistance
 being needed, he demanded it of the cook, a robust, strong-armed woman;
-but she, the portress, and the nurse instantly fled. I did not like to
+but she, the portress, and the [[Nurse|nurse]] instantly fled. I did not like to
 touch that small, tortured limb, but thinking there was no alternative,
 my hand was already extended to do what was requisite. I was
-anticipated; Madame Beck had put out her own hand: hers was steady
+anticipated; [[Madame Beck]] had put out her own hand: hers was steady
 while mine trembled.

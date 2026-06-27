@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 6 (part 1)"
+title: "[[The Professor]] — Chapter 6 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -24,13 +24,13 @@ seductively to my recollection; and it was with a quick step and sharp
 
 appetite I ascended the narrow street leading to my lodgings. It was
 
-dark when I opened the front door and walked into the house. I wondered
+dark when I opened the front door and walked into the [[house]]. I wondered
 
-how my fire would be; the night was cold, and I shuddered at the
+how my [[Fire|fire]] would be; the [[Night|night]] was cold, and I shuddered at the
 
 prospect of a grate full of sparkless cinders. To my joyful surprise,
 
-I found, on entering my sitting-room, a good fire and a clean hearth.
+I found, on entering my sitting-room, a good [[Fire|fire]] and a clean hearth.
 
 I had hardly noticed this phenomenon, when I became aware of another
 
@@ -46,9 +46,9 @@ recognize in this person my acquaintance, Mr. Hunsden. I could not of
 
 course be much pleased to see him, considering the manner in which I had
 
-parted from him the night before, and as I walked to the hearth, stirred
+parted from him the [[Night|night]] before, and as I walked to the hearth, stirred
 
-the fire, and said coolly, “Good evening,” my demeanour evinced as
+the [[Fire|fire]], and said coolly, “Good evening,” my demeanour evinced as
 
 little cordiality as I felt; yet I wondered in my own mind what had
 
@@ -70,7 +70,7 @@ one on his part; I thought he was entering upon it.
 
 
 
-“Do I?” said I; “I hope it is not a large one, for I am much too poor to
+“Do I?” said I; “I [[Hope|hope]] it is not a large one, for I am much too poor to
 
 charge myself with heavy liabilities of any kind.”
 
@@ -78,7 +78,7 @@ charge myself with heavy liabilities of any kind.”
 
 “Then declare yourself bankrupt at once, for this liability is a ton
 
-weight at least. When I came in I found your fire out, and I had it lit
+weight at least. When I came in I found your [[Fire|fire]] out, and I had it lit
 
 again, and made that sulky drab of a servant stay and blow at it with
 
@@ -130,7 +130,7 @@ by looking in my face and laughing.
 
 “Poor thing!” he whined, after a pause. “It has had no dinner, has it?
 
-What! I suppose its master would not let it come home. Did Crimsworth
+What! I suppose its master would not let it come [[Home|home]]. Did Crimsworth
 
 order you to fast by way of punishment, William!”
 
@@ -150,11 +150,11 @@ table and do as I did, if he liked.
 
 “But I don’t like in the least,” said he, and therewith he summoned the
 
-servant by a fresh pull of the bell-rope, and intimated a desire to
+servant by a fresh pull of the bell-rope, and intimated a [[Desire|desire]] to
 
-have a glass of toast-and-water. “And some more coal,” he added; “Mr.
+have a glass of toast-and-[[Water|water]]. “And some more coal,” he added; “Mr.
 
-Crimsworth shall keep a good fire while I stay.”
+Crimsworth shall keep a good [[Fire|fire]] while I stay.”
 
 
 
@@ -164,7 +164,7 @@ as to be opposite me.
 
 
 
-“Well,” he proceeded. “You are out of work, I suppose.”
+“[[Well]],” he proceeded. “You are out of work, I suppose.”
 
 
 
@@ -188,7 +188,7 @@ he? What had he to say about his friend Hunsden--anything sweet?”
 
 
 
-“He called you a treacherous villain.”
+“He called you a treacherous [[Villain|villain]].”
 
 
 
@@ -200,7 +200,7 @@ but he’ll find I’ve some good qualities--excellent ones! The Hunsdens
 
 were always unrivalled at tracking a rascal; a downright, dishonourable
 
-villain is their natural prey--they could not keep off him wherever
+[[Villain|villain]] is their natural prey--they could not keep off him wherever
 
 they met him; you used the word pragmatical just now--that word is the
 
@@ -220,7 +220,7 @@ violated your natural claim to equality)--I say it was impossible for
 
 me to be thus situated and not feel the angel or the demon of my race
 
-at work within me. I followed my instinct, opposed a tyrant, and broke a
+at work within me. I followed my instinct, opposed a [[Tyrant|tyrant]], and broke a
 
 chain.”
 
@@ -244,4 +244,4 @@ In fact I was grateful, or almost so, and I believe I half liked him at
 
 the moment, notwithstanding his proviso that what he had done was not
 
-out of regard for me. But human nature is perverse. Impossible to answer
+out of regard for me. But human [[Nature|nature]] is perverse. Impossible to answer

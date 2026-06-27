@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 63"
+title: "Bleak [[house|House]] — Chapter 63"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -22,7 +22,7 @@ Steel and Iron
 George’s Shooting Gallery is to let, and the stock is sold off, and
 George himself is at Chesney Wold attending on Sir Leicester in his
 rides and riding very near his bridle-rein because of the uncertain
-hand with which he guides his horse. But not to-day is George so
+hand with which he guides his [[Horse|horse]]. But not to-day is George so
 occupied. He is journeying to-day into the iron country farther north
 to look about him.
 
@@ -36,40 +36,40 @@ find.
 
 At last, on the black canal bridge of a busy town, with a clang of
 iron in it, and more fires and more smoke than he has seen yet, the
-trooper, swart with the dust of the coal roads, checks his horse and
+trooper, swart with the [[Dust|dust]] of the coal roads, checks his [[Horse|horse]] and
 asks a workman does he know the name of Rouncewell thereabouts.
 
 “Why, master,” quoth the workman, “do I know my own name?”
 
-“’Tis so well known here, is it, comrade?” asks the trooper.
+“’Tis so [[Well|well]] known here, is it, comrade?” asks the trooper.
 
 “Rouncewell’s? Ah! You’re right.”
 
 “And where might it be now?” asks the trooper with a glance before
 him.
 
-“The bank, the factory, or the house?” the workman wants to know.
+“The bank, the factory, or the [[house]]?” the workman wants to know.
 
 “Hum! Rouncewell’s is so great apparently,” mutters the trooper,
 stroking his chin, “that I have as good as half a mind to go back
 again. Why, I don’t know which I want. Should I find Mr. Rouncewell
 at the factory, do you think?”
 
-“Tain’t easy to say where you’d find him—at this time of the day you
+“Tain’t easy to say where you’d find him—at this [[Time|time]] of the day you
 might find either him or his son there, if he’s in town; but his
 contracts take him away.”
 
 And which is the factory? Why, he sees those chimneys—the tallest
-ones! Yes, he sees THEM. Well! Let him keep his eye on those
+ones! Yes, he sees THEM. [[Well]]! Let him keep his eye on those
 chimneys, going on as straight as ever he can, and presently he’ll
 see ’em down a turning on the left, shut in by a great brick wall
 which forms one side of the street. That’s Rouncewell’s.
 
 The trooper thanks his informant and rides slowly on, looking about
-him. He does not turn back, but puts up his horse (and is much
-disposed to groom him too) at a public-house where some of
+him. He does not turn back, but puts up his [[Horse|horse]] (and is much
+disposed to groom him too) at a public-[[house]] where some of
 Rouncewell’s hands are dining, as the ostler tells him. Some of
-Rouncewell’s hands have just knocked off for dinner-time and seem to
+Rouncewell’s hands have just knocked off for dinner-[[Time|time]] and seem to
 be invading the whole town. They are very sinewy and strong, are
 Rouncewell’s hands—a little sooty too.
 
@@ -78,14 +78,14 @@ perplexity of iron lying about in every stage and in a vast variety
 of shapes—in bars, in wedges, in sheets; in tanks, in boilers, in
 axles, in wheels, in cogs, in cranks, in rails; twisted and wrenched
 into eccentric and perverse forms as separate parts of machinery;
-mountains of it broken up, and rusty in its age; distant furnaces of
+[[Mountains|mountains]] of it broken up, and rusty in its age; distant furnaces of
 it glowing and bubbling in its youth; bright fireworks of it
 showering about under the blows of the steam-hammer; red-hot iron,
 white-hot iron, cold-black iron; an iron taste, an iron smell, and a
 Babel of iron sounds.
 
 “This is a place to make a man’s head ache too!” says the trooper,
-looking about him for a counting-house. “Who comes here? This is very
+looking about him for a counting-[[house]]. “Who comes here? This is very
 like me before I was set up. This ought to be my nephew, if
 likenesses run in families. Your servant, sir.”
 
@@ -97,7 +97,7 @@ likenesses run in families. Your servant, sir.”
 
 “I was looking for your father, sir. I wish to have a word with him.”
 
-The young man, telling him he is fortunate in his choice of a time,
+The young man, telling him he is fortunate in his choice of a [[Time|time]],
 for his father is there, leads the way to the office where he is to
 be found. “Very like me before I was set up—devilish like me!”
 thinks the trooper as he follows. They come to a building in the yard
@@ -107,20 +107,20 @@ office, Mr. George turns very red.
 “What name shall I say to my father?” asks the young man.
 
 George, full of the idea of iron, in desperation answers “Steel,” and
-is so presented. He is left alone with the gentleman in the office,
+is so presented. He is left [[Alone|alone]] with the gentleman in the office,
 who sits at a table with account-books before him and some sheets of
 paper blotted with hosts of figures and drawings of cunning shapes.
 It is a bare office, with bare windows, looking on the iron view
 below. Tumbled together on the table are some pieces of iron,
 purposely broken to be tested at various periods of their service, in
-various capacities. There is iron-dust on everything; and the smoke
-is seen through the windows rolling heavily out of the tall chimneys
+various capacities. There is iron-[[Dust|dust]] on everything; and the smoke
+is seen through the windows [[rolling]] heavily out of the tall chimneys
 to mingle with the smoke from a vaporous Babylon of other chimneys.
 
 “I am at your service, Mr. Steel,” says the gentleman when his
 visitor has taken a rusty chair.
 
-“Well, Mr. Rouncewell,” George replies, leaning forward with his left
+“[[Well]], Mr. Rouncewell,” George replies, leaning forward with his left
 arm on his knee and his hat in his hand, and very chary of meeting
 his brother’s eye, “I am not without my expectations that in the
 present visit I may prove to be more free than welcome. I have served
@@ -135,7 +135,7 @@ away, and never did any good but in keeping away?”
 The trooper falters and looks at him. His brother starts up, calls
 him by his name, and grasps him by both hands.
 
-“You are too quick for me!” cries the trooper with the tears
+“You are too quick for me!” cries the trooper with the [[Tears|tears]]
 springing out of his eyes. “How do you do, my dear old fellow? I
 never could have thought you would have been half so glad to see me
 as all this. How do you do, my dear old fellow, how do you do!”
@@ -152,34 +152,34 @@ name I might gradually get myself up to the point of writing a
 letter. But I should not have been surprised, brother, if you had
 considered it anything but welcome news to hear of me.”
 
-“We will show you at home what kind of news we think it, George,”
-returns his brother. “This is a great day at home, and you could not
+“We will show you at [[Home|home]] what kind of news we think it, George,”
+returns his brother. “This is a great day at [[Home|home]], and you could not
 have arrived, you bronzed old soldier, on a better. I make an
 agreement with my son Watt to-day that on this day twelvemonth he
 shall marry as pretty and as good a girl as you have seen in all your
-travels. She goes to Germany to-morrow with one of your nieces for a
-little polishing up in her education. We make a feast of the event,
-and you will be made the hero of it.”
+travels. She goes to [[Germany]] to-morrow with one of your nieces for a
+little polishing up in her [[Education|education]]. We make a feast of the event,
+and you will be made the [[Hero|hero]] of it.”
 
 Mr. George is so entirely overcome at first by this prospect that he
-resists the proposed honour with great earnestness. Being overborne,
+resists the proposed [[Honour|honour]] with great earnestness. Being overborne,
 however, by his brother and his nephew—concerning whom he renews his
 protestations that he never could have thought they would have been
-half so glad to see him—he is taken home to an elegant house in all
+half so glad to see him—he is taken [[Home|home]] to an elegant [[house]] in all
 the arrangements of which there is to be observed a pleasant mixture
 of the originally simple habits of the father and mother with such as
 are suited to their altered station and the higher fortunes of their
 children. Here Mr. George is much dismayed by the graces and
-accomplishments of his nieces that are and by the beauty of Rosa, his
+accomplishments of his nieces that are and by the [[Beauty|beauty]] of Rosa, his
 niece that is to be, and by the affectionate salutations of these
 young ladies, which he receives in a sort of dream. He is sorely
 taken aback, too, by the dutiful behaviour of his nephew and has a
 woeful consciousness upon him of being a scapegrace. However, there
 is great rejoicing and a very hearty company and infinite enjoyment,
 and Mr. George comes bluff and martial through it all, and his pledge
-to be present at the marriage and give away the bride is received
-with universal favour. A whirling head has Mr. George that night when
-he lies down in the state-bed of his brother’s house to think of all
+to be present at the [[Marriage|marriage]] and give away the bride is received
+with universal favour. A whirling head has Mr. George that [[Night|night]] when
+he lies down in the state-bed of his brother’s [[house]] to think of all
 these things and to see the images of his nieces (awful all the
 evening in their floating muslins) waltzing, after the German manner,
 over his counterpane.
@@ -212,15 +212,15 @@ you should undergo that process?”
 
 “Quite! Absolutely! I couldn’t be guilty of the meanness of coming
 back without it. I should never be safe not to be off again. I have
-not sneaked home to rob your children, if not yourself, brother, of
+not sneaked [[Home|home]] to rob your children, if not yourself, brother, of
 your rights. I, who forfeited mine long ago! If I am to remain and
 hold up my head, I must be scratched. Come. You are a man of
 celebrated penetration and intelligence, and you can tell me how it’s
 to be brought about.”
 
 “I can tell you, George,” replies the ironmaster deliberately, “how
-it is not to be brought about, which I hope may answer the purpose as
-well. Look at our mother, think of her, recall her emotion when she
+it is not to be brought about, which I [[Hope|hope]] may answer the purpose as
+[[Well|well]]. Look at our mother, think of her, recall her emotion when she
 recovered you. Do you believe there is a consideration in the world
 that would induce her to take such a step against her favourite son?
 Do you believe there is any chance of her consent, to balance against
@@ -228,7 +228,7 @@ the outrage it would be to her (loving dear old lady!) to propose it?
 If you do, you are wrong. No, George! You must make up your mind to
 remain UNscratched, I think.” There is an amused smile on the
 ironmaster’s face as he watches his brother, who is pondering, deeply
-disappointed. “I think you may manage almost as well as if the thing
+disappointed. “I think you may manage almost as [[Well|well]] as if the thing
 were done, though.”
 
 “How, brother?”
@@ -256,27 +256,27 @@ The brothers are very like each other, sitting face to face; but a
 certain massive simplicity and absence of usage in the ways of the
 world is all on the trooper’s side.
 
-“Well,” he proceeds, throwing off his disappointment, “next and last,
+“[[Well]],” he proceeds, throwing off his disappointment, “next and last,
 those plans of mine. You have been so brotherly as to propose to me
 to fall in here and take my place among the products of your
 perseverance and sense. I thank you heartily. It’s more than
 brotherly, as I said before, and I thank you heartily for it,”
-shaking him a long time by the hand. “But the truth is, brother, I am
+shaking him a long [[Time|time]] by the hand. “But the [[Truth|truth]] is, brother, I am
 a—I am a kind of a weed, and it’s too late to plant me in a regular
-garden.”
+[[Garden|garden]].”
 
 “My dear George,” returns the elder, concentrating his strong steady
 brow upon him and smiling confidently, “leave that to me, and let me
 try.”
 
-George shakes his head. “You could do it, I have not a doubt, if
+George shakes his head. “You could do it, I have not a [[Doubt|doubt]], if
 anybody could; but it’s not to be done. Not to be done, sir! Whereas
 it so falls out, on the other hand, that I am able to be of some
-trifle of use to Sir Leicester Dedlock since his illness—brought on
+trifle of use to [[Sir Leicester Dedlock]] since his illness—brought on
 by family sorrows—and that he would rather have that help from our
 mother’s son than from anybody else.”
 
-“Well, my dear George,” returns the other with a very slight shade
+“[[Well]], my dear George,” returns the other with a very slight shade
 upon his open face, “if you prefer to serve in Sir Leicester
 Dedlock’s household brigade—”
 
@@ -287,7 +287,7 @@ Everything about you is in perfect order and discipline; everything
 about me requires to be kept so. We are not accustomed to carry
 things with the same hand or to look at ’em from the same point. I
 don’t say much about my garrison manners because I found myself
-pretty well at my ease last night, and they wouldn’t be noticed here,
+pretty [[Well|well]] at my ease last [[Night|night]], and they wouldn’t be noticed here,
 I dare say, once and away. But I shall get on best at Chesney Wold,
 where there’s more room for a weed than there is here; and the dear
 old lady will be made happy besides. Therefore I accept of Sir
@@ -302,8 +302,8 @@ grip of his hand, “and perhaps you know me better than I know myself.
 Take your way. So that we don’t quite lose one another again, take
 your way.”
 
-“No fear of that!” returns the trooper. “Now, before I turn my
-horse’s head homewards, brother, I will ask you—if you’ll be so
+“No [[Fear|fear]] of that!” returns the trooper. “Now, before I turn my
+[[Horse|horse]]’s head homewards, brother, I will ask you—if you’ll be so
 good—to look over a letter for me. I brought it with me to send from
 these parts, as Chesney Wold might be a painful name just now to the
 person it’s written to. I am not much accustomed to correspondence
@@ -314,9 +314,9 @@ Herewith he hands a letter, closely written in somewhat pale ink but
 in a neat round hand, to the ironmaster, who reads as follows:
 
 
-   Miss Esther Summerson,
+   Miss [[Esther Summerson]],
 
-   A communication having been made to me by Inspector Bucket
+   A communication having been made to me by [[Inspector Bucket]]
    of a letter to myself being found among the papers of a
    certain person, I take the liberty to make known to you
    that it was but a few lines of instruction from abroad,
@@ -336,7 +336,7 @@ in a neat round hand, to the ironmaster, who reads as follows:
    I had discovered his retreat and shared my last farthing
    with him, as my duty and my inclination would have equally
    been. But he was (officially) reported drowned, and
-   assuredly went over the side of a transport-ship at night
+   assuredly went over the side of a transport-[[Ship|ship]] at [[Night|night]]
    in an Irish harbour within a few hours of her arrival from
    the West Indies, as I have myself heard both from officers
    and men on board, and know to have been (officially)
@@ -348,7 +348,7 @@ in a neat round hand, to the ironmaster, who reads as follows:
    servant and that I esteem the qualities you possess above
    all others far beyond the limits of the present dispatch.
 
-   I have the honour to be,
+   I have the [[Honour|honour]] to be,
 
    GEORGE
 
@@ -366,8 +366,8 @@ correspondence of the day. This done, Mr. George takes a hearty
 farewell of the family party and prepares to saddle and mount. His
 brother, however, unwilling to part with him so soon, proposes to
 ride with him in a light open carriage to the place where he will
-bait for the night, and there remain with him until morning, a
-servant riding for so much of the journey on the thoroughbred old
+bait for the [[Night|night]], and there remain with him until morning, a
+servant riding for so much of the [[Journey|journey]] on the thoroughbred old
 grey from Chesney Wold. The offer, being gladly accepted, is followed
 by a pleasant ride, a pleasant dinner, and a pleasant breakfast, all
 in brotherly communion. Then they once more shake hands long and

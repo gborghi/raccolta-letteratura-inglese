@@ -18,7 +18,7 @@ CHAPTER V.
 Paul’s Progress and Christening
 
 
-Little Paul, suffering no contamination from the blood of the Toodles,
+Little Paul, [[Suffering|suffering]] no contamination from the [[Blood|blood]] of the Toodles,
 grew stouter and stronger every day. Every day, too, he was more and
 more ardently cherished by Miss Tox, whose devotion was so far
 appreciated by Mr Dombey that he began to regard her as a woman of
@@ -37,17 +37,17 @@ greet him with all other forms of welcome in all other early stages of
 his existence—or whether her overflowing goodness induced her to
 volunteer into the domestic militia as a substitute in some sort for
 his deceased Mama—or whether she was conscious of any other motives—are
-questions which in this stage of the Firm’s history herself only could
+questions which in this stage of the Firm’s [[history]] herself only could
 have solved. Nor have they much bearing on the fact (of which there is
-no doubt), that Miss Tox’s constancy and zeal were a heavy
+no [[Doubt|doubt]]), that Miss Tox’s constancy and zeal were a heavy
 discouragement to Richards, who lost flesh hourly under her patronage,
-and was in some danger of being superintended to death.
+and was in some danger of being superintended to [[Death|death]].
 
 Miss Tox was often in the habit of assuring Mrs Chick, that nothing
 could exceed her interest in all connected with the development of that
-sweet child; and an observer of Miss Tox’s proceedings might have
+sweet [[Child|child]]; and an observer of Miss Tox’s proceedings might have
 inferred so much without declaratory confirmation. She would preside
-over the innocent repasts of the young heir, with ineffable
+over the [[Innocent|innocent]] repasts of the young heir, with ineffable
 satisfaction, almost with an air of joint proprietorship with Richards
 in the entertainment. At the little ceremonies of the bath and
 toilette, she assisted with enthusiasm. The administration of infantine
@@ -63,7 +63,7 @@ confusion and blushes.
 
 “Louisa,” said Mr Dombey, one day, to his sister, “I really think I
 must present your friend with some little token, on the occasion of
-Paul’s christening. She has exerted herself so warmly in the child’s
+Paul’s christening. She has exerted herself so warmly in the [[Child|child]]’s
 behalf from the first, and seems to understand her position so
 thoroughly (a very rare merit in this world, I am sorry to say), that
 it would really be agreeable to me to notice her.”
@@ -80,7 +80,7 @@ man of your penetration was sure, I knew, to do. I believe if there are
 three words in the English language for which she has a respect
 amounting almost to veneration, those words are, Dombey and Son.”
 
-“Well,” said Mr Dombey, “I believe it. It does Miss Tox credit.”
+“[[Well]],” said Mr Dombey, “I believe it. It does Miss Tox credit.”
 
 “And as to anything in the shape of a token, my dear Paul,” pursued his
 sister, “all I can say is that anything you give Miss Tox will be
@@ -96,14 +96,14 @@ of connexion and influence.”
 “I don’t know why they should be, to my son,” said Mr Dombey, coldly.
 
 “Very true, my dear Paul,” retorted Mrs Chick, with an extraordinary
-show of animation, to cover the suddenness of her conversion; “and
+show of animation, to cover the suddenness of her [[conversion]]; “and
 spoken like yourself. I might have expected nothing else from you. I
 might have known that such would have been your opinion. Perhaps;” here
 Mrs Chick faltered again, as not quite comfortably feeling her way;
 “perhaps that is a reason why you might have the less objection to
 allowing Miss Tox to be godmother to the dear thing, if it were only as
 deputy and proxy for someone else. That it would be received as a great
-honour and distinction, Paul, I need not say.”
+[[Honour|honour]] and distinction, Paul, I need not say.”
 
 “Louisa,” said Mr Dombey, after a short pause, “it is not to be
 supposed—”
@@ -128,7 +128,7 @@ to her eyes, and resumed:
 
 “No, my dear Paul,” she remonstrated with tearful dignity, “I must
 really be allowed to speak. I am not so clever, or so reasoning, or so
-eloquent, or so anything, as you are. I know that very well. So much
+eloquent, or so anything, as you are. I know that very [[Well|well]]. So much
 the worse for me. But if they were the last words I had to utter—and
 last words should be very solemn to you and me, Paul, after poor dear
 Fanny—I would still say I never thought it was. And what is more,”

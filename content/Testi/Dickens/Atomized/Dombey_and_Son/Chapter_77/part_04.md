@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-The Major replied that it was hard in Cleopatra to require the world to
+The Major replied that it was hard in [[Cleopatra]] to require the world to
 be all heart, and yet to appropriate to herself the hearts of all the
-world; which obliged Cleopatra to remind him that flattery was
+world; which obliged [[Cleopatra]] to remind him that flattery was
 insupportable to her, and that if he had the boldness to address her in
-that strain any more, she would positively send him home.
+that strain any more, she would positively send him [[Home|home]].
 
 Withers the Wan, at this period, handing round the tea, Mr Dombey again
 addressed himself to Edith.
@@ -55,7 +55,7 @@ eyebrows by a hair’s-breadth, as if her cousin Feenix were of all the
 mortal world the least to be regarded, turned her eyes again towards Mr
 Dombey.
 
-“I hope, for the credit of my good taste, that I am tired of the
+“I [[Hope|hope]], for the credit of my good taste, that I am tired of the
 neighbourhood,” she said.
 
 “You have almost reason to be, Madam,” he replied, glancing at a
@@ -64,7 +64,7 @@ several as representing neighbouring points of view, and which were
 strewn abundantly about the room, “if these beautiful productions are
 from your hand.”
 
-She gave him no reply, but sat in a disdainful beauty, quite amazing.
+She gave him no reply, but sat in a disdainful [[Beauty|beauty]], quite amazing.
 
 “Have they that interest?” said Mr Dombey. “Are they yours?”
 
@@ -80,8 +80,8 @@ She gave him no reply, but sat in a disdainful beauty, quite amazing.
 
 She answered all these questions with a strange reluctance; and with
 that remarkable air of opposition to herself, already noticed as
-belonging to her beauty. Yet she was not embarrassed, but wholly
-self-possessed. Neither did she seem to wish to avoid the conversation,
+belonging to her [[Beauty|beauty]]. Yet she was not embarrassed, but wholly
+[[Self|self]]-possessed. Neither did she seem to wish to avoid the conversation,
 for she addressed her face, and—so far as she could—her manner also, to
 him; and continued to do so, when he was silent.
 
@@ -90,23 +90,23 @@ him; and continued to do so, when he was silent.
 “Whatever their efficiency may be,” she returned, “you know them all
 now. I have no more.”
 
-“May I hope to prove them all?” said Mr Dombey, with solemn gallantry,
+“May I [[Hope|hope]] to prove them all?” said Mr Dombey, with solemn gallantry,
 laying down a drawing he had held, and motioning towards the harp.
 
-“Oh certainly! If you desire it!”
+“Oh certainly! If you [[Desire|desire]] it!”
 
-She rose as she spoke, and crossing by her mother’s couch, and
+She [[Rose|rose]] as she spoke, and crossing by her mother’s couch, and
 directing a stately look towards her, which was instantaneous in its
 duration, but inclusive (if anyone had seen it) of a multitude of
 expressions, among which that of the twilight smile, without the smile
 itself, overshadowed all the rest, went out of the room.
 
-The Major, who was quite forgiven by this time, had wheeled a little
-table up to Cleopatra, and was sitting down to play picquet with her.
+The Major, who was quite forgiven by this [[Time|time]], had wheeled a little
+table up to [[Cleopatra]], and was sitting down to play picquet with her.
 Mr Dombey, not knowing the game, sat down to watch them for his
 edification until Edith should return.
 
-“We are going to have some music, Mr Dombey, I hope?” said Cleopatra.
+“We are going to have some music, Mr Dombey, I [[Hope|hope]]?” said [[Cleopatra]].
 
 “Mrs Granger has been kind enough to promise so,” said Mr Dombey.
 
@@ -119,10 +119,10 @@ You are fond of music, Mr Dombey?”
 
 “Eminently so,” was Mr Dombey’s answer.
 
-“Yes. It’s very nice,” said Cleopatra, looking at her cards. “So much
+“Yes. It’s very nice,” said [[Cleopatra]], looking at her cards. “So much
 heart in it—undeveloped recollections of a previous state of
 existence—and all that—which is so truly charming. Do you know,”
-simpered Cleopatra, reversing the knave of clubs, who had come into her
+simpered [[Cleopatra]], reversing the knave of clubs, who had come into her
 game with his heels uppermost, “that if anything could tempt me to put
 a period to my life, it would be curiosity to find out what it’s all
 about, and what it means; there are so many provoking mysteries,
@@ -133,26 +133,26 @@ soon have been in a state of dire confusion, but that he gave no
 attention to the game whatever, and sat wondering instead when Edith
 would come back.
 
-She came at last, and sat down to her harp, and Mr Dombey rose and
+She came at last, and sat down to her harp, and Mr Dombey [[Rose|rose]] and
 stood beside her, listening. He had little taste for music, and no
 knowledge of the strain she played, but he saw her bending over it, and
 perhaps he heard among the sounding strings some distant music of his
-own, that tamed the monster of the iron road, and made it less
+own, that tamed the [[Monster|monster]] of the iron [[Road|road]], and made it less
 inexorable.
 
-Cleopatra had a sharp eye, verily, at picquet. It glistened like a
+[[Cleopatra]] had a sharp eye, verily, at picquet. It glistened like a
 bird’s, and did not fix itself upon the game, but pierced the room from
 end to end, and gleamed on harp, performer, listener, everything.
 
-When the haughty beauty had concluded, she arose, and receiving Mr
+When the haughty [[Beauty|beauty]] had concluded, she arose, and receiving Mr
 Dombey’s thanks and compliments in exactly the same manner as before,
 went with scarcely any pause to the piano, and began there.
 
-Edith Granger, any song but that! Edith Granger, you are very handsome,
+[[Edith Granger]], any [[Song|song]] but that! [[Edith Granger]], you are very handsome,
 and your touch upon the keys is brilliant, and your voice is deep and
 rich; but not the air that his neglected daughter sang to his dead son!
 
 Alas, he knows it not; and if he did, what air of hers would stir him,
-rigid man! Sleep, lonely Florence, sleep! Peace in thy dreams, although
-the night has turned dark, and the clouds are gathering, and threaten
+rigid man! [[Sleep]], lonely Florence, [[Sleep|sleep]]! Peace in thy [[Dreams|dreams]], although
+the [[Night|night]] has turned dark, and the clouds are gathering, and threaten
 to discharge themselves in hail!

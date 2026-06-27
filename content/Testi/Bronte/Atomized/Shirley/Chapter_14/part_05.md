@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 14 (part 5)"
+title: "[[Shirley]] — Chapter 14 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -28,9 +28,9 @@ like himself, made him happy in his single state; he considered it too
 
 late to change. Besides, he had known Caroline as a pretty little girl.
 
-She had sat on his knee many a time; he had bought her toys and given
+She had sat on his knee many a [[Time|time]]; he had bought her toys and given
 
-her books; he felt that her friendship for him was mixed with a sort of
+her books; he felt that her [[Friendship|friendship]] for him was mixed with a sort of
 
 filial respect; he could not have brought himself to attempt to give
 
@@ -50,13 +50,13 @@ thoughtless would have scorned, indeed, as quite worthless and
 
 unattractive--a middle-aged widow and two plain, spectacled old
 
-maids--yet which had its own quiet value, as many a suffering and
+maids--yet which had its own quiet value, as many a [[Suffering|suffering]] and
 
 friendless human being knew.
 
 
 
-Shirley opened the business and showed the plan.
+[[Shirley]] opened the business and showed the plan.
 
 
 
@@ -74,7 +74,7 @@ apprehended that female craft was at work, and that something in
 
 petticoats was somehow trying underhand to acquire too much influence,
 
-and make itself of too much importance. Shirley caught and comprehended
+and make itself of too much importance. [[Shirley]] caught and comprehended
 
 the expression. "This scheme is nothing," said she carelessly. "It is
 
@@ -94,7 +94,7 @@ Helstone, begged permission to install him in it. For a minute he was a
 
 little stiff, and stood wrinkling his copper-coloured forehead
 
-strangely. At last he muttered, "Well, you are neither my wife nor my
+strangely. At last he muttered, "[[Well]], you are neither my wife nor my
 
 daughter, so I'll be led for once; but mind--I know I _am_ led. Your
 
@@ -102,7 +102,7 @@ little female manœuvres don't blind me."
 
 
 
-"Oh!" said Shirley, dipping the pen in the ink, and putting it into his
+"Oh!" said [[Shirley]], dipping the pen in the ink, and putting it into his
 
 hand, "you must regard me as Captain Keeldar to-day. This is quite a
 
@@ -144,7 +144,7 @@ them--with which boon they were content.
 
 
 
-Shirley stood behind the rectors, leaning over their shoulders now and
+[[Shirley]] stood behind the rectors, leaning over their shoulders now and
 
 then to glance at the rules drawn up and the list of cases making out,
 
@@ -154,7 +154,7 @@ smile--a smile not ill-natured, but significant--too significant to be
 
 generally thought amiable. Men rarely like such of their fellows as read
 
-their inward nature too clearly and truly. It is good for women,
+their inward [[Nature|nature]] too clearly and truly. It is good for women,
 
 especially, to be endowed with a soft blindness; to have mild, dim eyes,
 
@@ -170,13 +170,13 @@ pair of blue eyes, that were usually thought sleepy, secretly on the
 
 alert, and I knew by their expression--an expression which chilled my
 
-blood, it was in that quarter so wondrously unexpected--that for years
+[[Blood|blood]], it was in that quarter so wondrously unexpected--that for years
 
-they had been accustomed to silent soul-reading. The world called the
+they had been accustomed to silent [[Soul|soul]]-reading. The world called the
 
 owner of these blue eyes _bonne petite femme_ (she was not an
 
-Englishwoman). I learned her nature afterwards--got it off by
+Englishwoman). I learned her [[Nature|nature]] afterwards--got it off by
 
 heart--studied it in its farthest, most hidden recesses. She was the
 
@@ -198,7 +198,7 @@ vivant_--he was naturally an abstemious man, indifferent to luxury; but
 
 Boultby and Helstone both liked good cookery. The _recherché_ supper
 
-consequently put them into excellent humour. They did justice to it,
+consequently put them into excellent [[Humour|humour]]. They did justice to it,
 
 though in a gentlemanly way--not in the mode Mr. Donne would have done
 

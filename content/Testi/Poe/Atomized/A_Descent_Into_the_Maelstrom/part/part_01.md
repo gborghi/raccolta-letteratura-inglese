@@ -1,5 +1,5 @@
 ---
-title: "A Descent Into the Maelstrom (part 1)"
+title: "[[A Descent Into the Maelstrom]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/A-Descent-Into-the-Maelstrom-(Poe)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-The ways of God in Nature, as in Providence, are not as our ways; 
+The ways of God in [[Nature]], as in [[Providence]], are not as our ways; 
   nor are the models that we frame any way commensurate to the
   vastness, profundity, and unsearchableness of His works, _which have
-  a depth in them greater than the well of Democritus_.
+  a depth in them greater than the [[Well|well]] of Democritus_.
 
 —_Joseph Glanville_.
 
@@ -25,31 +25,31 @@ The ways of God in Nature, as in Providence, are not as our ways;
       minutes the old man seemed too much exhausted to speak.
 
       “Not long ago,” said he at length, “and I could have guided you
-      on this route as well as the youngest of my sons; but, about
+      on this route as [[Well|well]] as the youngest of my sons; but, about
       three years past, there happened to me an event such as never
       happened to mortal man—or at least such as no man ever survived
       to tell of—and the six hours of deadly terror which I then
-      endured have broken me up body and soul. You suppose me a _very_
+      endured have broken me up [[Body|body]] and [[Soul|soul]]. You suppose me a _very_
       old man—but I am not. It took less than a single day to change
       these hairs from a jetty black to white, to weaken my limbs, and
       to unstring my nerves, so that I tremble at the least exertion,
-      and am frightened at a shadow. Do you know I can scarcely look
+      and am frightened at a [[Shadow|shadow]]. Do you know I can scarcely look
       over this little cliff without getting giddy?”
 
       The “little cliff,” upon whose edge he had so carelessly thrown
-      himself down to rest that the weightier portion of his body hung
+      himself down to rest that the weightier portion of his [[Body|body]] hung
       over it, while he was only kept from falling by the tenure of his
       elbow on its extreme and slippery edge—this “little cliff” arose,
       a sheer unobstructed precipice of black shining rock, some
       fifteen or sixteen hundred feet from the world of crags beneath
       us. Nothing would have tempted me to within half a dozen yards of
-      its brink. In truth so deeply was I excited by the perilous
+      its brink. In [[Truth|truth]] so deeply was I excited by the perilous
       position of my companion, that I fell at full length upon the
       ground, clung to the shrubs around me, and dared not even glance
       upward at the sky—while I struggled in vain to divest myself of
       the idea that the very foundations of the mountain were in danger
       from the fury of the winds. It was long before I could reason
-      myself into sufficient courage to sit up and look out into the
+      myself into sufficient [[Courage|courage]] to sit up and look out into the
       distance.
 
       “You must get over these fancies,” said the guide, “for I have
@@ -68,7 +68,7 @@ The ways of God in Nature, as in Providence, are not as our ways;
       I looked dizzily, and beheld a wide expanse of ocean, whose
       waters wore so inky a hue as to bring at once to my mind the
       Nubian geographer’s account of the _Mare Tenebrarum_. A panorama
-      more deplorably desolate no human imagination can conceive. To
+      more deplorably desolate no human [[Imagination|imagination]] can conceive. To
       the right and left, as far as the eye could reach, there lay
       outstretched, like ramparts of the world, lines of horridly black
       and beetling cliff, whose character of gloom was but the more
@@ -84,12 +84,12 @@ The ways of God in Nature, as in Providence, are not as our ways;
 
       The appearance of the ocean, in the space between the more
       distant island and the shore, had something very unusual about
-      it. Although, at the time, so strong a gale was blowing landward
-      that a brig in the remote offing lay to under a double-reefed
+      it. Although, at the [[Time|time]], so strong a gale was blowing landward
+      that a brig in the remote offing lay to under a [[Double|double]]-reefed
       trysail, and constantly plunged her whole hull out of sight,
       still there was here nothing like a regular swell, but only a
-      short, quick, angry cross dashing of water in every direction—as
-      well in the teeth of the wind as otherwise. Of foam there was
+      short, quick, angry [[Cross|cross]] dashing of [[Water|water]] in every direction—as
+      [[Well|well]] in the teeth of the [[Wind|wind]] as otherwise. Of foam there was
       little except in the immediate vicinity of the rocks.
 
       “The island in the distance,” resumed the old man, “is called by
@@ -100,7 +100,7 @@ The ways of God in Nature, as in Providence, are not as our ways;
       are the true names of the places—but why it has been thought
       necessary to name them at all, is more than either you or I can
       understand. Do you hear anything? Do you see any change in the
-      water?”
+      [[Water|water]]?”
 
       We had now been about ten minutes upon the top of Helseggen, to
       which we had ascended from the interior of Lofoden, so that we
@@ -111,7 +111,7 @@ The ways of God in Nature, as in Providence, are not as our ways;
       perceived that what seamen term the _chopping_ character of the
       ocean beneath us, was rapidly changing into a current which set
       to the eastward. Even while I gazed, this current acquired a
-      monstrous velocity. Each moment added to its speed—to its
+      monstrous velocity. Each moment added to its [[Speed|speed]]—to its
       headlong impetuosity. In five minutes the whole sea, as far as
       Vurrgh, was lashed into ungovernable fury; but it was between
       Moskoe and the coast that the main uproar held its sway. Here the
@@ -119,5 +119,5 @@ The ways of God in Nature, as in Providence, are not as our ways;
       conflicting channels, burst suddenly into phrensied
       convulsion—heaving, boiling, hissing—gyrating in gigantic and
       innumerable vortices, and all whirling and plunging on to the
-      eastward with a rapidity which water never elsewhere assumes
+      eastward with a rapidity which [[Water|water]] never elsewhere assumes
       except in precipitous descents.

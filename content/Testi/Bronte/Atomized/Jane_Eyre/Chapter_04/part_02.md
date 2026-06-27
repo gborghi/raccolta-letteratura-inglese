@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 4 (part 2)"
+title: "[[Jane Eyre]] — Chapter 4 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-It was the fifteenth of January, about nine o’clock in the morning:
+It was the fifteenth of January, about nine o’[[Clock|clock]] in the morning:
 Bessie was gone down to breakfast; my cousins had not yet been summoned
-to their mama; Eliza was putting on her bonnet and warm garden-coat to
+to their mama; Eliza was putting on her bonnet and warm [[Garden|garden]]-coat to
 go and feed her poultry, an occupation of which she was fond: and not
 less so of selling the eggs to the housekeeper and hoarding up the
 money she thus obtained. She had a turn for traffic, and a marked
@@ -34,52 +34,52 @@ interest—fifty or sixty per cent.; which interest she exacted every
 quarter, keeping her accounts in a little book with anxious accuracy.
 
 Georgiana sat on a high stool, dressing her hair at the glass, and
-interweaving her curls with artificial flowers and faded feathers, of
+interweaving her curls with artificial [[Flowers|flowers]] and faded feathers, of
 which she had found a store in a drawer in the attic. I was making my
 bed, having received strict orders from Bessie to get it arranged
 before she returned (for Bessie now frequently employed me as a sort of
-under-nurserymaid, to tidy the room, dust the chairs, &c.). Having
-spread the quilt and folded my night-dress, I went to the window-seat
-to put in order some picture-books and doll’s house furniture scattered
-there; an abrupt command from Georgiana to let her playthings alone
+under-nurserymaid, to tidy the room, [[Dust|dust]] the chairs, &c.). Having
+spread the quilt and folded my [[Night|night]]-dress, I went to the [[Window|window]]-seat
+to put in order some picture-books and doll’s [[house]] furniture scattered
+there; an abrupt command from Georgiana to let her playthings [[Alone|alone]]
 (for the tiny chairs and mirrors, the fairy plates and cups, were her
 property) stopped my proceedings; and then, for lack of other
-occupation, I fell to breathing on the frost-flowers with which the
-window was fretted, and thus clearing a space in the glass through
+occupation, I fell to breathing on the [[Frost|frost]]-[[Flowers|flowers]] with which the
+[[Window|window]] was fretted, and thus clearing a space in the glass through
 which I might look out on the grounds, where all was still and
-petrified under the influence of a hard frost.
+petrified under the influence of a hard [[Frost|frost]].
 
-From this window were visible the porter’s lodge and the carriage-road,
+From this [[Window|window]] were visible the porter’s lodge and the carriage-[[Road|road]],
 and just as I had dissolved so much of the silver-white foliage veiling
 the panes as left room to look out, I saw the gates thrown open and a
 carriage roll through. I watched it ascending the drive with
 indifference; carriages often came to Gateshead, but none ever brought
-visitors in whom I was interested; it stopped in front of the house,
+visitors in whom I was interested; it stopped in front of the [[house]],
 the door-bell rang loudly, the new-comer was admitted. All this being
 nothing to me, my vacant attention soon found livelier attraction in
 the spectacle of a little hungry robin, which came and chirruped on the
 twigs of the leafless cherry-tree nailed against the wall near the
 casement. The remains of my breakfast of bread and milk stood on the
 table, and having crumbled a morsel of roll, I was tugging at the sash
-to put out the crumbs on the window-sill, when Bessie came running
+to put out the crumbs on the [[Window|window]]-sill, when Bessie came running
 upstairs into the nursery.
 
 “Miss Jane, take off your pinafore; what are you doing there? Have you
 washed your hands and face this morning?” I gave another tug before I
 answered, for I wanted the bird to be secure of its bread: the sash
 yielded; I scattered the crumbs, some on the stone sill, some on the
-cherry-tree bough, then, closing the window, I replied—
+cherry-tree bough, then, closing the [[Window|window]], I replied—
 
 “No, Bessie; I have only just finished dusting.”
 
-“Troublesome, careless child! and what are you doing now? You look
+“Troublesome, careless [[Child|child]]! and what are you doing now? You look
 quite red, as if you had been about some mischief: what were you
-opening the window for?”
+opening the [[Window|window]] for?”
 
 I was spared the trouble of answering, for Bessie seemed in too great a
 hurry to listen to explanations; she hauled me to the washstand,
 inflicted a merciless, but happily brief scrub on my face and hands
-with soap, water, and a coarse towel; disciplined my head with a
+with soap, [[Water|water]], and a coarse towel; disciplined my head with a
 bristly brush, denuded me of my pinafore, and then hurrying me to the
 top of the stairs, bid me go down directly, as I was wanted in the
 breakfast-room.
@@ -93,7 +93,7 @@ on which it dismayed me to intrude.
 
 I now stood in the empty hall; before me was the breakfast-room door,
 and I stopped, intimidated and trembling. What a miserable little
-poltroon had fear, engendered of unjust punishment, made of me in those
+poltroon had [[Fear|fear]], engendered of unjust punishment, made of me in those
 days! I feared to return to the nursery, and feared to go forward to
 the parlour; ten minutes I stood in agitated hesitation; the vehement
 ringing of the breakfast-room bell decided me; I _must_ enter.

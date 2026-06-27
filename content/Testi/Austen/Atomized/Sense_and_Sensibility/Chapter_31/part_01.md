@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 31 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 31 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER XXXI.
 
 
 
-From a night of more sleep than she had expected, Marianne awoke the
+From a [[Night|night]] of more [[Sleep|sleep]] than she had expected, Marianne awoke the
 
 next morning to the same consciousness of misery in which she had
 
@@ -38,7 +38,7 @@ Elinor’s side, the same impetuous feelings and varying opinions on
 
 Marianne’s, as before. Sometimes she could believe Willoughby to be as
 
-unfortunate and as innocent as herself, and at others, lost every
+unfortunate and as [[Innocent|innocent]] as herself, and at others, lost every
 
 consolation in the impossibility of acquitting him. At one moment she
 
@@ -50,7 +50,7 @@ could resist it with energy. In one thing, however, she was uniform,
 
 when it came to the point, in avoiding, where it was possible, the
 
-presence of Mrs. Jennings, and in a determined silence when obliged to
+presence of Mrs. Jennings, and in a determined [[Silence|silence]] when obliged to
 
 endure it. Her heart was hardened against the belief of Mrs. Jennings’s
 
@@ -60,7 +60,7 @@ entering into her sorrows with any compassion.
 
 “No, no, no, it cannot be,” she cried; “she cannot feel. Her kindness
 
-is not sympathy; her good-nature is not tenderness. All that she wants
+is not sympathy; her good-[[Nature|nature]] is not tenderness. All that she wants
 
 is gossip, and she only likes me now because I supply it.”
 
@@ -90,7 +90,7 @@ in their own room after breakfast, which sunk the heart of Mrs.
 
 Jennings still lower in her estimation; because, through her own
 
-weakness, it chanced to prove a source of fresh pain to herself, though
+weakness, it chanced to prove a source of fresh [[Pain|pain]] to herself, though
 
 Mrs. Jennings was governed in it by an impulse of the utmost goodwill.
 
@@ -98,7 +98,7 @@ Mrs. Jennings was governed in it by an impulse of the utmost goodwill.
 
 With a letter in her outstretched hand, and countenance gaily smiling,
 
-from the persuasion of bringing comfort, she entered their room,
+from the [[Persuasion|persuasion]] of bringing comfort, she entered their room,
 
 saying,
 
@@ -108,7 +108,7 @@ saying,
 
 
 
-Marianne heard enough. In one moment her imagination placed before her
+Marianne heard enough. In one moment her [[Imagination|imagination]] placed before her
 
 a letter from Willoughby, full of tenderness and contrition,
 
@@ -124,7 +124,7 @@ hand writing of her mother, never till then unwelcome, was before her;
 
 and, in the acuteness of the disappointment which followed such an
 
-ecstasy of more than hope, she felt as if, till that instant, she had
+ecstasy of more than [[Hope|hope]], she felt as if, till that instant, she had
 
 never suffered.
 
@@ -134,7 +134,7 @@ The cruelty of Mrs. Jennings no language, within her reach in her
 
 moments of happiest eloquence, could have expressed; and now she could
 
-reproach her only by the tears which streamed from her eyes with
+reproach her only by the [[Tears|tears]] which streamed from her eyes with
 
 passionate violence—a reproach, however, so entirely lost on its
 
@@ -158,7 +158,7 @@ other, that she wept with agony through the whole of it.
 
 
 
-All her impatience to be at home again now returned; her mother was
+All her impatience to be at [[Home|home]] again now returned; her mother was
 
 dearer to her than ever; dearer through the very excess of her mistaken
 
@@ -166,7 +166,7 @@ confidence in Willoughby, and she was wildly urgent to be gone. Elinor,
 
 unable herself to determine whether it were better for Marianne to be
 
-in London or at Barton, offered no counsel of her own except of
+in [[London]] or at Barton, offered no counsel of her own except of
 
 patience till their mother’s wishes could be known; and at length she
 
@@ -178,11 +178,11 @@ Mrs. Jennings left them earlier than usual; for she could not be easy
 
 till the Middletons and Palmers were able to grieve as much as herself;
 
-and positively refusing Elinor’s offered attendance, went out alone for
+and positively refusing Elinor’s offered attendance, went out [[Alone|alone]] for
 
 the rest of the morning. Elinor, with a very heavy heart, aware of the
 
-pain she was going to communicate, and perceiving, by Marianne’s
+[[Pain|pain]] she was going to communicate, and perceiving, by Marianne’s
 
 letter, how ill she had succeeded in laying any foundation for it, then
 
@@ -214,23 +214,23 @@ safe.”
 
 
 
-Marianne moved to the window.
+Marianne moved to the [[Window|window]].
 
 
 
-“It is Colonel Brandon!” said she, with vexation. “We are never safe
+“It is [[Colonel Brandon]]!” said she, with vexation. “We are never safe
 
 from _him_.”
 
 
 
-“He will not come in, as Mrs. Jennings is from home.”
+“He will not come in, as Mrs. Jennings is from [[Home|home]].”
 
 
 
 “I will not trust to _that_,” retreating to her own room. “A man who
 
-has nothing to do with his own time has no conscience in his intrusion
+has nothing to do with his own [[Time|time]] has no [[Conscience|conscience]] in his intrusion
 
 on that of others.”
 

@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 51)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 51)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 War, or the suggestion of racial admixture in the South at all times,
 
-then the fad meets far less mercy than anywhere else in the world; it is
+then the fad meets far less [[Mercy|mercy]] than anywhere else in the world; it is
 
 snowed under and swept away. But when it does not thus directly
 
@@ -48,7 +48,7 @@ disregard, the formal and legal rights of the citizen. In so far as this
 
 is a bias, it is a bias in the directly opposite direction from that now
 
-lightly alleged. There is a sort of underbred history going about,
+lightly alleged. There is a sort of underbred [[history]] going about,
 
 according to which women in the past have always been in the position of
 
@@ -72,7 +72,7 @@ feminism means that there shall be no more laws or liberties in a state
 
 than there are in a nursery. The woman does not really regard men as
 
-citizens but as children. She may, if she is a humanitarian, love all
+citizens but as children. She may, if she is a humanitarian, [[Love|love]] all
 
 mankind; but she does not respect it. Still less does she respect its
 
@@ -94,11 +94,11 @@ protests are already being made, and will increasingly be made, if men
 
 retain any instinct of independence or dignity at all. But to complain
 
-of the woman interfering in the home will always sound like complaining
+of the woman interfering in the [[Home|home]] will always sound like complaining
 
 of the oyster intruding into the oyster-shell. To object that she has
 
-too much power over education will seem like objecting to a hen having
+too much power over [[Education|education]] will seem like objecting to a hen having
 
 too much to do with eggs. She has already been given an almost
 
@@ -110,15 +110,15 @@ to her own power in the family all these alien fads external to the
 
 family, her power will not only be irresponsible but insane. She will be
 
-something which may well be called a nightmare of the nursery; a mad
+something which may [[Well|well]] be called a [[nightmare]] of the nursery; a mad
 
 mother. But the point is that she will be mad about other nurseries as
 
-well as her own, or possibly instead of her own. The results will be
+[[Well|well]] as her own, or possibly instead of her own. The results will be
 
 interesting; but at least it is certain that under this softening
 
-influence government of the people, by the people, for the people, will
+influence [[government]] of the people, by the people, for the people, will
 
 most assuredly perish from the earth.
 
@@ -130,7 +130,7 @@ and there like muffled gongs of doom. The other day some people
 
 preaching some low trick or other, for running away from the glory of
 
-motherhood, were suddenly silenced in New York; by a voice of deep and
+motherhood, were suddenly silenced in [[New York]]; by a voice of deep and
 
 democratic volume. The prigs who potter about the great plains are
 
@@ -138,7 +138,7 @@ pygmies dancing round a sleeping giant. That which sleeps, so far as
 
 they are concerned, is the huge power of human unanimity and intolerance
 
-in the soul of America. At present the masses in the Middle West are
+in the [[Soul|soul]] of [[America]]. At present the masses in the Middle West are
 
 indifferent to such fancies or faintly attracted by them, as fashions of
 
@@ -150,9 +150,9 @@ religion; and then he will see something. He will find himself running
 
 like a nigger who has wronged a white woman or a man who has set the
 
-prairie on fire. He will see something which the politicians fan in its
+prairie on [[Fire|fire]]. He will see something which the politicians fan in its
 
-sleep and flatter with the name of the people, which many reactionaries
+[[Sleep|sleep]] and flatter with the name of the people, which many reactionaries
 
 have cursed with the name of the mob, but which in any case has had
 
@@ -168,7 +168,7 @@ last words that Job heard out of the whirlwind; and a voice they never
 
 knew shall tell them that his name is Leviathan, and he is lord over all
 
-the children of pride.
+the children of [[Pride|pride]].
 
 
 
@@ -184,7 +184,7 @@ _The Extraordinary American_
 
 
 
-When I was in America I had the feeling that it was far more foreign
+When I was in [[America]] I had the feeling that it was far more foreign
 
 than France or even than Ireland. And by foreign I mean fascinating
 
@@ -194,7 +194,7 @@ the frontier of any fairyland, or gives to the traveller himself the
 
 almost eerie title of the stranger. And I saw there more clearly than in
 
-countries counted as more remote from us, in race or religion, a paradox
+countries counted as more remote from us, in race or religion, a [[Paradox|paradox]]
 
 that is one of the great truths of travel.
 

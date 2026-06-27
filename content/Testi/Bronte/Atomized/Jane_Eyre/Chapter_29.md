@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 29"
+title: "[[Jane Eyre]] — Chapter 29"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -22,21 +22,21 @@ dim in my mind. I can recall some sensations felt in that interval; but
 few thoughts framed, and no actions performed. I knew I was in a small
 room and in a narrow bed. To that bed I seemed to have grown; I lay on
 it motionless as a stone; and to have torn me from it would have been
-almost to kill me. I took no note of the lapse of time—of the change
-from morning to noon, from noon to evening. I observed when any one
+almost to kill me. I took no note of the lapse of [[Time|time]]—of the change
+from morning to [[Noon|noon]], from [[Noon|noon]] to evening. I observed when any one
 entered or left the apartment: I could even tell who they were; I could
 understand what was said when the speaker stood near to me; but I could
 not answer; to open my lips or move my limbs was equally impossible.
 Hannah, the servant, was my most frequent visitor. Her coming disturbed
 me. I had a feeling that she wished me away: that she did not
 understand me or my circumstances; that she was prejudiced against me.
-Diana and Mary appeared in the chamber once or twice a day. They would
+[[Diana]] and Mary appeared in the chamber once or twice a day. They would
 whisper sentences of this sort at my bedside—
 
-“It is very well we took her in.”
+“It is very [[Well|well]] we took her in.”
 
 “Yes; she would certainly have been found dead at the door in the
-morning had she been left out all night. I wonder what she has gone
+morning had she been left out all [[Night|night]]. I [[Wonder|wonder]] what she has gone
 through?”
 
 “Strange hardships, I imagine—poor, emaciated, pallid wanderer!”
@@ -55,17 +55,17 @@ to, myself. I was comforted.
 
 Mr. St. John came but once: he looked at me, and said my state of
 lethargy was the result of reaction from excessive and protracted
-fatigue. He pronounced it needless to send for a doctor: nature, he was
+fatigue. He pronounced it needless to send for a doctor: [[Nature|nature]], he was
 sure, would manage best, left to herself. He said every nerve had been
-overstrained in some way, and the whole system must sleep torpid a
+overstrained in some way, and the whole system must [[Sleep|sleep]] torpid a
 while. There was no disease. He imagined my recovery would be rapid
 enough when once commenced. These opinions he delivered in a few words,
 in a quiet, low voice; and added, after a pause, in the tone of a man
 little accustomed to expansive comment, “Rather an unusual physiognomy;
 certainly, not indicative of vulgarity or degradation.”
 
-“Far otherwise,” responded Diana. “To speak truth, St. John, my heart
-rather warms to the poor little soul. I wish we may be able to benefit
+“Far otherwise,” responded [[Diana]]. “To speak [[Truth|truth]], St. John, my heart
+rather warms to the poor little [[Soul|soul]]. I wish we may be able to benefit
 her permanently.”
 
 “That is hardly likely,” was the reply. “You will find she is some
@@ -78,15 +78,15 @@ handsome.”
 
 “She is so ill, St. John.”
 
-“Ill or well, she would always be plain. The grace and harmony of
-beauty are quite wanting in those features.”
+“Ill or [[Well|well]], she would always be plain. The grace and harmony of
+[[Beauty|beauty]] are quite wanting in those features.”
 
 On the third day I was better; on the fourth, I could speak, move, rise
 in bed, and turn. Hannah had brought me some gruel and dry toast,
 about, as I supposed, the dinner-hour. I had eaten with relish: the
 food was good—void of the feverish flavour which had hitherto poisoned
 what I had swallowed. When she left me, I felt comparatively strong and
-revived: ere long satiety of repose and desire for action stirred me. I
+revived: ere long satiety of repose and [[Desire|desire]] for action stirred me. I
 wished to rise; but what could I put on? Only my damp and bemired
 apparel; in which I had slept on the ground and fallen in the marsh. I
 felt ashamed to appear before my benefactors so clad. I was spared the
@@ -106,12 +106,12 @@ crept down a stone staircase with the aid of the banisters, to a narrow
 low passage, and found my way presently to the kitchen.
 
 It was full of the fragrance of new bread and the warmth of a generous
-fire. Hannah was baking. Prejudices, it is well known, are most
+[[Fire|fire]]. Hannah was baking. Prejudices, it is [[Well|well]] known, are most
 difficult to eradicate from the heart whose soil has never been
-loosened or fertilised by education: they grow there, firm as weeds
+loosened or fertilised by [[Education|education]]: they grow there, firm as weeds
 among stones. Hannah had been cold and stiff, indeed, at the first:
 latterly she had begun to relent a little; and when she saw me come in
-tidy and well-dressed, she even smiled.
+tidy and [[Well|well]]-dressed, she even smiled.
 
 “What, you have got up!” she said. “You are better, then. You may sit
 you down in my chair on the hearthstone, if you will.”
@@ -130,9 +130,9 @@ quietly, but still not without a certain marked firmness—
 than yourself or your young ladies.”
 
 After a pause she said, “I dunnut understand that: you’ve like no
-house, nor no brass, I guess?”
+[[house]], nor no brass, I guess?”
 
-“The want of house or brass (by which I suppose you mean money) does
+“The want of [[house]] or brass (by which I suppose you mean money) does
 not make a beggar in your sense of the word.”
 
 “Are you book-learned?” she inquired presently.
@@ -164,15 +164,15 @@ dress, “lest,” as she said, “I should mucky it.”
 remarked. “Happen ye’ve been a dressmaker?”
 
 “No, you are wrong. And now, never mind what I have been: don’t trouble
-your head further about me; but tell me the name of the house where we
+your head further about me; but tell me the name of the [[house]] where we
 are.”
 
-“Some calls it Marsh End, and some calls it Moor House.”
+“Some calls it Marsh End, and some calls it Moor [[house|House]].”
 
 “And the gentleman who lives here is called Mr. St. John?”
 
 “Nay; he doesn’t live here: he is only staying a while. When he is at
-home, he is in his own parish at Morton.”
+[[Home|home]], he is in his own parish at Morton.”
 
 “That village a few miles off?
 
@@ -193,7 +193,7 @@ gurt (great) grandfather afore him.”
 
 “Aye; St. John is like his kirstened name.”
 
-“And his sisters are called Diana and Mary Rivers?”
+“And his sisters are called [[Diana]] and Mary Rivers?”
 
 “Yes.”
 
@@ -218,22 +218,22 @@ was quite mista’en in my thoughts of you: but there is so mony cheats
 goes about, you mun forgie me.”
 
 “And though,” I continued, rather severely, “you wished to turn me from
-the door, on a night when you should not have shut out a dog.”
+the door, on a [[Night|night]] when you should not have shut out a dog.”
 
-“Well, it was hard: but what can a body do? I thought more o’ th’
+“[[Well]], it was hard: but what can a [[Body|body]] do? I thought more o’ th’
 childer nor of mysel: poor things! They’ve like nobody to tak’ care on
 ’em but me. I’m like to look sharpish.”
 
-I maintained a grave silence for some minutes.
+I maintained a [[Grave|grave]] [[Silence|silence]] for some minutes.
 
 “You munnut think too hardly of me,” she again remarked.
 
 “But I do think hardly of you,” I said; “and I’ll tell you why—not so
 much because you refused to give me shelter, or regarded me as an
 impostor, as because you just now made it a species of reproach that I
-had no ‘brass’ and no house. Some of the best people that ever lived
+had no ‘brass’ and no [[house]]. Some of the best people that ever lived
 have been as destitute as I am; and if you are a Christian, you ought
-not to consider poverty a crime.”
+not to consider [[Poverty|poverty]] a crime.”
 
 “No more I ought,” said she: “Mr. St. John tells me so too; and I see I
 wor wrang—but I’ve clear a different notion on you now to what I had.
@@ -251,10 +251,10 @@ called the young people.
 
 Old Mr. Rivers, she said, was a plain man enough, but a gentleman, and
 of as ancient a family as could be found. Marsh End had belonged to the
-Rivers ever since it was a house: and it was, she affirmed, “aboon two
+Rivers ever since it was a [[house]]: and it was, she affirmed, “aboon two
 hundred year old—for all it looked but a small, humble place, naught to
-compare wi’ Mr. Oliver’s grand hall down i’ Morton Vale. But she could
-remember Bill Oliver’s father a journeyman needlemaker; and th’ Rivers
+compare wi’ Mr. [[Oliver]]’s grand hall down i’ Morton Vale. But she could
+remember Bill [[Oliver]]’s father a journeyman needlemaker; and th’ Rivers
 wor gentry i’ th’ owd days o’ th’ Henrys, as onybody might see by
 looking into th’ registers i’ Morton Church vestry.” Still, she
 allowed, “the owd maister was like other folk—naught mich out o’ t’
@@ -262,17 +262,17 @@ common way: stark mad o’ shooting, and farming, and sich like.” The
 mistress was different. She was a great reader, and studied a deal; and
 the “bairns” had taken after her. There was nothing like them in these
 parts, nor ever had been; they had liked learning, all three, almost
-from the time they could speak; and they had always been “of a mak’ of
+from the [[Time|time]] they could speak; and they had always been “of a mak’ of
 their own.” Mr. St. John, when he grew up, would go to college and be a
 parson; and the girls, as soon as they left school, would seek places
 as governesses: for they had told her their father had some years ago
 lost a great deal of money by a man he had trusted turning bankrupt;
 and as he was now not rich enough to give them fortunes, they must
-provide for themselves. They had lived very little at home for a long
+provide for themselves. They had lived very little at [[Home|home]] for a long
 while, and were only come now to stay a few weeks on account of their
-father’s death; but they did so like Marsh End and Morton, and all
-these moors and hills about. They had been in London, and many other
-grand towns; but they always said there was no place like home; and
+father’s [[Death|death]]; but they did so like Marsh End and Morton, and all
+these moors and hills about. They had been in [[London]], and many other
+grand towns; but they always said there was no place like [[Home|home]]; and
 then they were so agreeable with each other—never fell out nor
 “threaped.” She did not know where there was such a family for being
 united.
@@ -283,42 +283,42 @@ ladies and their brother were now.
 “Gone over to Morton for a walk; but they would be back in half-an-hour
 to tea.”
 
-They returned within the time Hannah had allotted them: they entered by
+They returned within the [[Time|time]] Hannah had allotted them: they entered by
 the kitchen door. Mr. St. John, when he saw me, merely bowed and passed
 through; the two ladies stopped: Mary, in a few words, kindly and
-calmly expressed the pleasure she felt in seeing me well enough to be
-able to come down; Diana took my hand: she shook her head at me.
+calmly expressed the pleasure she felt in seeing me [[Well|well]] enough to be
+able to come down; [[Diana]] took my hand: she shook her head at me.
 
 “You should have waited for my leave to descend,” she said. “You still
-look very pale—and so thin! Poor child!—poor girl!”
+look very pale—and so thin! Poor [[Child|child]]!—poor girl!”
 
-Diana had a voice toned, to my ear, like the cooing of a dove. She
+[[Diana]] had a voice toned, to my ear, like the cooing of a dove. She
 possessed eyes whose gaze I delighted to encounter. Her whole face
 seemed to me full of charm. Mary’s countenance was equally
 intelligent—her features equally pretty; but her expression was more
-reserved, and her manners, though gentle, more distant. Diana looked
+reserved, and her manners, though gentle, more distant. [[Diana]] looked
 and spoke with a certain authority: she had a will, evidently. It was
-my nature to feel pleasure in yielding to an authority supported like
-hers, and to bend, where my conscience and self-respect permitted, to
+my [[Nature|nature]] to feel pleasure in yielding to an authority supported like
+hers, and to bend, where my [[Conscience|conscience]] and [[Self|self]]-respect permitted, to
 an active will.
 
 “And what business have you here?” she continued. “It is not your
-place. Mary and I sit in the kitchen sometimes, because at home we like
+place. Mary and I sit in the kitchen sometimes, because at [[Home|home]] we like
 to be free, even to license—but you are a visitor, and must go into the
 parlour.”
 
-“I am very well here.”
+“I am very [[Well|well]] here.”
 
 “Not at all, with Hannah bustling about and covering you with flour.”
 
-“Besides, the fire is too hot for you,” interposed Mary.
+“Besides, the [[Fire|fire]] is too hot for you,” interposed Mary.
 
 “To be sure,” added her sister. “Come, you must be obedient.” And still
 holding my hand she made me rise, and led me into the inner room.
 
 “Sit there,” she said, placing me on the sofa, “while we take our
 things off and get the tea ready; it is another privilege we exercise
-in our little moorland home—to prepare our own meals when we are so
+in our little moorland [[Home|home]]—to prepare our own meals when we are so
 inclined, or when Hannah is baking, brewing, washing, or ironing.”
 
 She closed the door, leaving me solus with Mr. St. John, who sat
@@ -333,8 +333,8 @@ the stained walls; a cupboard with glass doors contained some books and
 an ancient set of china. There was no superfluous ornament in the
 room—not one modern piece of furniture, save a brace of workboxes and a
 lady’s desk in rosewood, which stood on a side-table:
-everything—including the carpet and curtains—looked at once well worn
-and well saved.
+everything—including the carpet and curtains—looked at once [[Well|well]] worn
+and [[Well|well]] saved.
 
 Mr. St. John—sitting as still as one of the dusty pictures on the
 walls, keeping his eyes fixed on the page he perused, and his lips
@@ -343,7 +343,7 @@ of a man, he could not have been easier. He was young—perhaps from
 twenty-eight to thirty—tall, slender; his face riveted the eye; it was
 like a Greek face, very pure in outline: quite a straight, classic
 nose; quite an Athenian mouth and chin. It is seldom, indeed, an
-English face comes so near the antique models as did his. He might well
+English face comes so near the antique models as did his. He might [[Well|well]]
 be a little shocked at the irregularity of my lineaments, his own being
 so harmonious. His eyes were large and blue, with brown lashes; his
 high forehead, colourless as ivory, was partially streaked over by
@@ -351,11 +351,11 @@ careless locks of fair hair.
 
 This is a gentle delineation, is it not, reader? Yet he whom it
 describes scarcely impressed one with the idea of a gentle, a yielding,
-an impressible, or even of a placid nature. Quiescent as he now sat,
+an impressible, or even of a placid [[Nature|nature]]. Quiescent as he now sat,
 there was something about his nostril, his mouth, his brow, which, to
 my perceptions, indicated elements within either restless, or hard, or
 eager. He did not speak to me one word, nor even direct to me one
-glance, till his sisters returned. Diana, as she passed in and out, in
+glance, till his sisters returned. [[Diana]], as she passed in and out, in
 the course of preparing tea, brought me a little cake, baked on the top
 of the oven.
 
@@ -374,7 +374,7 @@ kept it averted from the stranger.
 “I am, sir.” It is my way—it always was my way, by instinct—ever to
 meet the brief with brevity, the direct with plainness.
 
-“It is well for you that a low fever has forced you to abstain for the
+“It is [[Well|well]] for you that a low fever has forced you to abstain for the
 last three days: there would have been danger in yielding to the
 cravings of your appetite at first. Now you may eat, though still not
 immoderately.”
@@ -383,10 +383,10 @@ immoderately.”
 clumsily-contrived, unpolished answer.
 
 “No,” he said coolly: “when you have indicated to us the residence of
-your friends, we can write to them, and you may be restored to home.”
+your friends, we can write to them, and you may be restored to [[Home|home]].”
 
 “That, I must plainly tell you, is out of my power to do; being
-absolutely without home and friends.”
+absolutely without [[Home|home]] and friends.”
 
 The three looked at me, but not distrustfully; I felt there was no
 suspicion in their glances: there was more of curiosity. I speak
@@ -407,21 +407,21 @@ to admittance under any roof in England.”
 
 Here I saw his glance directed to my hands, which were folded on the
 table before me. I wondered what he sought there: his words soon
-explained the quest.
+explained the [[Quest|quest]].
 
 “You have never been married? You are a spinster?”
 
-Diana laughed. “Why, she can’t be above seventeen or eighteen years
+[[Diana]] laughed. “Why, she can’t be above seventeen or eighteen years
 old, St. John,” said she.
 
 “I am near nineteen: but I am not married. No.”
 
 I felt a burning glow mount to my face; for bitter and agitating
-recollections were awakened by the allusion to marriage. They all saw
-the embarrassment and the emotion. Diana and Mary relieved me by
+recollections were awakened by the allusion to [[Marriage|marriage]]. They all saw
+the embarrassment and the emotion. [[Diana]] and Mary relieved me by
 turning their eyes elsewhere than to my crimsoned visage; but the
 colder and sterner brother continued to gaze, till the trouble he had
-excited forced out tears as well as colour.
+excited forced out [[Tears|tears]] as [[Well|well]] as colour.
 
 “Where did you last reside?” he now asked.
 
@@ -433,9 +433,9 @@ piercing look.
 my secret,” I replied concisely.
 
 “Which, if you like, you have, in my opinion, a right to keep, both
-from St. John and every other questioner,” remarked Diana.
+from St. John and every other questioner,” remarked [[Diana]].
 
-“Yet if I know nothing about you or your history, I cannot help you,”
+“Yet if I know nothing about you or your [[history]], I cannot help you,”
 he said. “And you need help, do you not?”
 
 “I need it, and I seek it so far, sir, that some true philanthropist
@@ -455,17 +455,17 @@ steadily.
 “Mr. Rivers,” I said, turning to him, and looking at him, as he looked
 at me, openly and without diffidence, “you and your sisters have done
 me a great service—the greatest man can do his fellow-being; you have
-rescued me, by your noble hospitality, from death. This benefit
+rescued me, by your noble hospitality, from [[Death|death]]. This benefit
 conferred gives you an unlimited claim on my gratitude, and a claim, to
 a certain extent, on my confidence. I will tell you as much of the
-history of the wanderer you have harboured, as I can tell without
+[[history]] of the wanderer you have harboured, as I can tell without
 compromising my own peace of mind—my own security, moral and physical,
 and that of others.
 
-“I am an orphan, the daughter of a clergyman. My parents died before I
+“I am an [[Orphan|orphan]], the daughter of a clergyman. My parents died before I
 could know them. I was brought up a dependent; educated in a charitable
 institution. I will even tell you the name of the establishment, where
-I passed six years as a pupil, and two as a teacher—Lowood Orphan
+I passed six years as a pupil, and two as a teacher—Lowood [[Orphan]]
 Asylum, ——shire: you will have heard of it, Mr. Rivers?—the Rev. Robert
 Brocklehurst is the treasurer.”
 
@@ -477,23 +477,23 @@ leave four days before I came here. The reason of my departure I cannot
 and ought not to explain: it would be useless, dangerous, and would
 sound incredible. No blame attached to me: I am as free from
 culpability as any one of you three. Miserable I am, and must be for a
-time; for the catastrophe which drove me from a house I had found a
-paradise was of a strange and direful nature. I observed but two points
-in planning my departure—speed, secrecy: to secure these, I had to
+[[Time|time]]; for the catastrophe which drove me from a [[house]] I had found a
+paradise was of a strange and direful [[Nature|nature]]. I observed but two points
+in planning my departure—[[Speed|speed]], secrecy: to secure these, I had to
 leave behind me everything I possessed except a small parcel; which, in
 my hurry and trouble of mind, I forgot to take out of the coach that
 brought me to Whitcross. To this neighbourhood, then, I came, quite
 destitute. I slept two nights in the open air, and wandered about two
-days without crossing a threshold: but twice in that space of time did
+days without crossing a threshold: but twice in that space of [[Time|time]] did
 I taste food; and it was when brought by hunger, exhaustion, and
-despair almost to the last gasp, that you, Mr. Rivers, forbade me to
+[[Despair|despair]] almost to the last gasp, that you, Mr. Rivers, forbade me to
 perish of want at your door, and took me under the shelter of your
 roof. I know all your sisters have done for me since—for I have not
 been insensible during my seeming torpor—and I owe to their
 spontaneous, genuine, genial compassion as large a debt as to your
-evangelical charity.”
+evangelical [[Charity|charity]].”
 
-“Don’t make her talk any more now, St. John,” said Diana, as I paused;
+“Don’t make her talk any more now, St. John,” said [[Diana]], as I paused;
 “she is evidently not yet fit for excitement. Come to the sofa and sit
 down now, Miss Elliott.”
 
@@ -509,10 +509,10 @@ sounds strange to me.”
 
 “Your real name you will not give?”
 
-“No: I fear discovery above all things; and whatever disclosure would
+“No: I [[Fear|fear]] discovery above all things; and whatever disclosure would
 lead to it, I avoid.”
 
-“You are quite right, I am sure,” said Diana. “Now do, brother, let her
+“You are quite right, I am sure,” said [[Diana]]. “Now do, brother, let her
 be at peace a while.”
 
 But when St. John had mused a few moments he recommenced as
@@ -521,21 +521,21 @@ imperturbably and with as much acumen as ever.
 “You would not like to be long dependent on our hospitality—you would
 wish, I see, to dispense as soon as may be with my sisters’ compassion,
 and, above all, with my _charity_ (I am quite sensible of the
-distinction drawn, nor do I resent it—it is just): you desire to be
+distinction drawn, nor do I resent it—it is just): you [[Desire|desire]] to be
 independent of us?”
 
 “I do: I have already said so. Show me how to work, or how to seek
 work: that is all I now ask; then let me go, if it be but to the
 meanest cottage; but till then, allow me to stay here: I dread another
-essay of the horrors of homeless destitution.”
+[[Essay|essay]] of the horrors of homeless destitution.”
 
-“Indeed you _shall_ stay here,” said Diana, putting her white hand on
+“Indeed you _shall_ stay here,” said [[Diana]], putting her white hand on
 my head. “You _shall_,” repeated Mary, in the tone of undemonstrative
 sincerity which seemed natural to her.
 
 “My sisters, you see, have a pleasure in keeping you,” said Mr. St.
 John, “as they would have a pleasure in keeping and cherishing a
-half-frozen bird some wintry wind might have driven through their
+half-frozen bird some wintry [[Wind|wind]] might have driven through their
 casement. _I_ feel more inclination to put you in the way of keeping
 yourself, and shall endeavour to do so; but observe, my sphere is
 narrow. I am but the incumbent of a poor country parish: my aid must be
@@ -544,15 +544,15 @@ small things, seek some more efficient succour than such as I can
 offer.”
 
 “She has already said that she is willing to do anything honest she
-_can_ do,” answered Diana for me; “and you know, St. John, she has no
+_can_ do,” answered [[Diana]] for me; “and you know, St. John, she has no
 choice of helpers: she is forced to put up with such crusty people as
 you.”
 
 “I will be a dressmaker; I will be a plain-workwoman; I will be a
-servant, a nurse-girl, if I can be no better,” I answered.
+servant, a [[Nurse|nurse]]-girl, if I can be no better,” I answered.
 
 “Right,” said Mr. St. John, quite coolly. “If such is your spirit, I
-promise to aid you, in my own time and way.”
+promise to aid you, in my own [[Time|time]] and way.”
 
 He now resumed the book with which he had been occupied before tea. I
 soon withdrew, for I had talked as much, and sat up as long, as my

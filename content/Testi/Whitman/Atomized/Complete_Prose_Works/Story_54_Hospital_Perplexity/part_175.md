@@ -37,12 +37,12 @@ only by powerful human magnetism:
     Which sculptor never chisel'd yet, nor painter painted;
     Which vocalist never sung, nor orator nor actor ever utter' d.
 
-That remorse, too, for a mere worldly life--that aspiration towards the
+That remorse, too, for a mere worldly life--that [[Aspiration|aspiration]] towards the
 ideal, which, however overlaid, lies folded latent, hidden, in perhaps
 every character. More definitely, as near as I remember (aided by
 my dear mother long afterward,) Elias Hicks's discourse there in the
 Brooklyn ball-room, was one of his old never-remitted appeals to that
-moral mystical portion of human nature, the inner light. But it is
+moral mystical portion of human [[Nature|nature]], the inner light. But it is
 mainly for the scene itself, and Elias's personnel, that I recall the
 incident.
 
@@ -50,58 +50,58 @@ Soon afterward the old man died:
 
   On first day morning, the 14th of 2d month (February, 1830,) he was
   engaged in his room, writing to a friend, until a little after ten
-  o'clock, when he return'd to that occupied by the family, apparently
+  o'[[Clock|clock]], when he return'd to that occupied by the family, apparently
   just attack'd by a paralytic affection, which nearly deprived h
   of the use of his right side, and of the power of speech. Being
-  assisted to a chair near the fire, he manifested by signs, that the
+  assisted to a chair near the [[Fire|fire]], he manifested by signs, that the
   letter which he had just finish'd, and which had been dropp'd
   the way, should be taken care of; and on its being brought to him,
-  appear'd satisfied, and manifested a desire that all should sit down
+  appear'd satisfied, and manifested a [[Desire|desire]] that all should sit down
   and be still, seemingly sensible that his labours were brought to a
   close, and only desirous of quietly waiting the final change. The
-  solemn composure at this time manifest in his countenance, w
-  very impressive, indicating that he was sensible the time of his
-  departure was at hand, and that the prospect of death brought no
+  solemn composure at this [[Time|time]] manifest in his countenance, w
+  very impressive, indicating that he was sensible the [[Time|time]] of his
+  departure was at hand, and that the prospect of [[Death|death]] brought no
   terrors with it. During his last illness, his mental faculti
   were occasionally obscured, yet he was at times enabled to give
-  satisfactory evidence to those around him, that all was well, and
+  satisfactory evidence to those around him, that all was [[Well|well]], and
   that he felt nothing in his way.
 
   His funeral took place on fourth day, the 3rd of 3rd month. It was
   attended by a large concourse of Friends and others, and a solid
   meeting was held on the occasion; after which, his remains were
   interr'd in Friends' burial-ground at this place (Jericho, Queens
-  county, New York.)
+  county, [[New York]].)
 
 I have thought (even presented so incompletely, with such fearful
-hiatuses, and in my own feebleness and waning life) one might well
+hiatuses, and in my own feebleness and waning life) one might [[Well|well]]
 memorize this life of Elias Hicks. Though not eminent in literature or
 politics or inventions or business, it is a token of not a few, and is
 significant. Such men do not cope with statesmen or soldiers--but I have
 thought they deserve to be recorded and kept up as a sample--that this
 one specially does. I have already compared it to a little flowing
-liquid rill of Nature's life, maintaining freshness. As if, indeed,
-under the smoke of battles, the blare of trumpets, and the madness of
-contending hosts--the screams of passion, the groans of the suffering,
+liquid rill of [[Nature]]'s life, maintaining freshness. As if, indeed,
+under the smoke of battles, the blare of trumpets, and the [[Madness|madness]] of
+contending hosts--the screams of passion, the groans of the [[Suffering|suffering]],
 the parching of struggles of money and politics, and all hell's heat and
 noise and competition above and around--should come melting down from
-the mountains from sources of unpolluted snows, far up there in God's
+the [[Mountains|mountains]] from sources of unpolluted snows, far up there in God's
 hidden, untrodden recesses, and so rippling along among us low in the
 ground, at men's very feet, a curious little brook of clear and cool,
-and ever-healthy, ever-living water.
+and ever-healthy, ever-living [[Water|water]].
 
 _Note.--The Separation_.--The division vulgarly call'd between Orthodox
 and Hicksites in the Society of Friends took place in 1827, '8 and '9.
-Probably it had been preparing some time. One who was present has since
+Probably it had been preparing some [[Time|time]]. One who was present has since
 described to me the climax, at a meeting of Friends in Philadelphia
 crowded by a great attendance of both sexes, with Elias as principal
 speaker. In the course of his utterance or argument he made use of these
-words: "The blood of Christ--the blood of Christ--why, my friends, the
-actual blood of Christ in itself was no more effectual than the blood
+words: "The [[Blood|blood]] of [[Christ]]--the [[Blood|blood]] of [[Christ]]--why, my friends, the
+actual [[Blood|blood]] of [[Christ]] in itself was no more effectual than the [[Blood|blood]]
 of bulls and goats--not a bit more--not a bit." At these words, after
-a momentary hush, commenced a great tumult. Hundreds rose to their
+a momentary hush, commenced a great tumult. Hundreds [[Rose|rose]] to their
 feet.... Canes were thump'd upon the floor. From all parts of the
-house angry mutterings. Some left the place, but more remain'd, with
+[[house]] angry mutterings. Some left the place, but more remain'd, with
 exclamations, flush'd faces and eyes. This was the definite utterance,
 the overt act, which led to the separation. Families diverg'd--even
 husbands and wives, parents and children, were separated.
@@ -110,25 +110,25 @@ Of course what Elias promulg'd spread a great commotion among the
 Friends. Sometimes when he presented himself to speak in the meeting,
 there would be opposition--this led to angry words, gestures, unseemly
 noises, recriminations. Elias, at such times, was deeply affected--the
-tears roll'd in streams down his cheeks--he silently waited the close of
+[[Tears|tears]] roll'd in streams down his cheeks--he silently waited the close of
 the dispute. "Let the Friend speak; let the Friend speak!" he would
 say when his supporters in the meeting tried to bluff off some violent
 orthodox person objecting to the new doctrinaire. But he never recanted.
 
 A reviewer of the old dispute and separation made the following comments
-on them in a paper ten years ago: "It was in America, where there had
+on them in a paper ten years ago: "It was in [[America]], where there had
 been no persecution worth mentioning since Mary Dyer was hang'd on
 Boston Common, that about fifty years ago differences arose, singularly
-enough upon doctrinal points of the divinity of Christ and the nature
+enough upon doctrinal points of the divinity of [[Christ]] and the [[Nature|nature]]
 of the atonement. Whoever would know how bitter was the controversy,
 and how much of human infirmity was found to be still lurking under
 broad-brim hats and drab coats, must seek for the information in the
 Lives of Elias Hicks and of Thomas Shillitoe, the latter an English
-Friend, who visited us at this unfortunate time, and who exercised his
-gifts as a peace-maker with but little success. The meetings, according
+Friend, who visited us at this unfortunate [[Time|time]], and who exercised his
+gifts as a peace-maker with but little [[success]]. The meetings, according
 to his testimony, were sometimes turn'd into mobs. The disruption was
 wide, and seems to have been final. Six of the ten yearly meetings were
-divided; and since that time various sub-divisions have come, four
+divided; and since that [[Time|time]] various sub-divisions have come, four
 or five in number. There has never, however, been anything like a
 repetition of the excitement of the Hicksite controversy; and Friends of
 all kinds at present appear to have settled down into a solid, steady,

@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 22"
+title: "[[Agnes Grey]] — Chapter 22"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -21,19 +21,19 @@ THE VISIT
 Ashby Park was certainly a very delightful residence. The mansion was
 stately without, commodious and elegant within; the park was spacious
 and beautiful, chiefly on account of its magnificent old trees, its
-stately herds of deer, its broad sheet of water, and the ancient woods
+stately herds of deer, its broad sheet of [[Water|water]], and the ancient woods
 that stretched beyond it: for there was no broken ground to give
 variety to the landscape, and but very little of that undulating swell
 which adds so greatly to the charm of park scenery. And so, this was
-the place Rosalie Murray had so longed to call her own, that she must
+the place [[Rosalie Murray]] had so longed to call her own, that she must
 have a share of it, on whatever terms it might be offered—whatever
 price was to be paid for the title of mistress, and whoever was to be
-her partner in the honour and bliss of such a possession! Well I am not
+her partner in the [[Honour|honour]] and bliss of such a possession! [[Well]] I am not
 disposed to censure her now.
 
 She received me very kindly; and, though I was a poor clergyman’s
 daughter, a governess, and a schoolmistress, she welcomed me with
-unaffected pleasure to her home; and—what surprised me rather—took some
+unaffected pleasure to her [[Home|home]]; and—what surprised me rather—took some
 pains to make my visit agreeable. I could see, it is true, that she
 expected me to be greatly struck with the magnificence that surrounded
 her; and, I confess, I was rather annoyed at her evident efforts to
@@ -56,7 +56,7 @@ to inquire: I might endeavour to win her confidence; but, if she chose
 to conceal her matrimonial cares from me, I would trouble her with no
 obtrusive questions. I, therefore, at first, confined myself to a few
 general inquiries about her health and welfare, and a few commendations
-on the beauty of the park, and of the little girl that should have been
+on the [[Beauty|beauty]] of the park, and of the little girl that should have been
 a boy: a small delicate infant of seven or eight weeks old, whom its
 mother seemed to regard with no remarkable degree of interest or
 affection, though full as much as I expected her to show.
@@ -67,22 +67,22 @@ unpretending, but sufficiently comfortable apartment. When I descended
 thence—having divested myself of all travelling encumbrances, and
 arranged my toilet with due consideration for the feelings of my lady
 hostess, she conducted me herself to the room I was to occupy when I
-chose to be alone, or when she was engaged with visitors, or obliged to
+chose to be [[Alone|alone]], or when she was engaged with visitors, or obliged to
 be with her mother-in-law, or otherwise prevented, as she said, from
 enjoying the pleasure of my society. It was a quiet, tidy little
 sitting-room; and I was not sorry to be provided with such a harbour of
 refuge.
 
-“And some time,” said she, “I will show you the library: I never
+“And some [[Time|time]],” said she, “I will show you the library: I never
 examined its shelves, but, I daresay, it is full of wise books; and you
 may go and burrow among them whenever you please. And now you shall
-have some tea—it will soon be dinner-time, but I thought, as you were
+have some tea—it will soon be dinner-[[Time|time]], but I thought, as you were
 accustomed to dine at one, you would perhaps like better to have a cup
-of tea about this time, and to dine when we lunch: and then, you know,
+of tea about this [[Time|time]], and to dine when we lunch: and then, you know,
 you can have your tea in this room, and that will save you from having
 to dine with Lady Ashby and Sir Thomas: which would be rather
 awkward—at least, not awkward, but rather—a—you know what I mean. I
-thought you mightn’t like it so well—especially as we may have other
+thought you mightn’t like it so [[Well|well]]—especially as we may have other
 ladies and gentlemen to dine with us occasionally.”
 
 “Certainly,” said I, “I would much rather have it as you say, and, if
@@ -110,30 +110,30 @@ elegantly furnished; but I saw its young mistress glance towards me as
 we entered, as if to notice how I was impressed by the spectacle, and
 accordingly I determined to preserve an aspect of stony indifference,
 as if I saw nothing at all remarkable. But this was only for a moment:
-immediately conscience whispered, “Why should I disappoint her to save
-my pride? No—rather let me sacrifice my pride to give her a little
-innocent gratification.” And I honestly looked round, and told her it
+immediately [[Conscience|conscience]] whispered, “Why should I disappoint her to save
+my [[Pride|pride]]? No—rather let me sacrifice my [[Pride|pride]] to give her a little
+[[Innocent|innocent]] gratification.” And I honestly looked round, and told her it
 was a noble room, and very tastefully furnished. She said little, but I
 saw she was pleased.
 
 She showed me her fat French poodle, that lay curled up on a silk
 cushion, and the two fine Italian paintings: which, however, she would
-not give me time to examine, but, saying I must look at them some other
+not give me [[Time|time]] to examine, but, saying I must look at them some other
 day, insisted upon my admiring the little jewelled watch she had
 purchased in Geneva; and then she took me round the room to point out
-sundry articles of _vertu_ she had brought from Italy: an elegant
+sundry articles of _vertu_ she had brought from [[Italy]]: an elegant
 little timepiece, and several busts, small graceful figures, and vases,
 all beautifully carved in white marble. She spoke of these with
 animation, and heard my admiring comments with a smile of pleasure:
-that soon, however, vanished, and was followed by a melancholy sigh; as
+that soon, however, vanished, and was followed by a [[Melancholy|melancholy]] sigh; as
 if in consideration of the insufficiency of all such baubles to the
 happiness of the human heart, and their woeful inability to supply its
 insatiate demands.
 
 Then, stretching herself upon a couch, she motioned me to a capacious
-easy-chair that stood opposite—not before the fire, but before a wide
-open window; for it was summer, be it remembered; a sweet, warm evening
-in the latter half of June. I sat for a moment in silence, enjoying the
+easy-chair that stood opposite—not before the [[Fire|fire]], but before a wide
+open [[Window|window]]; for it was [[Summer|summer]], be it remembered; a sweet, warm evening
+in the latter half of June. I sat for a moment in [[Silence|silence]], enjoying the
 still, pure air, and the delightful prospect of the park that lay
 before me, rich in verdure and foliage, and basking in yellow sunshine,
 relieved by the long shadows of declining day. But I must take
@@ -146,10 +146,10 @@ I was told that papa had the gout, which made him very ferocious; and
 that he would not give up his choice wines, and his substantial dinners
 and suppers, and had quarrelled with his physician, because the latter
 had dared to say that no medicine could cure him while he lived so
-freely; that mamma and the rest were well. Matilda was still wild and
+freely; that mamma and the rest were [[Well|well]]. Matilda was still wild and
 reckless, but she had got a fashionable governess, and was considerably
 improved in her manners, and soon to be introduced to the world; and
-John and Charles (now at home for the holidays) were, by all accounts,
+John and Charles (now at [[Home|home]] for the holidays) were, by all accounts,
 “fine, bold, unruly, mischievous boys.”
 
 “And how are the other people getting on?” said I—“the Greens, for
@@ -164,9 +164,9 @@ their best to get married.”
 
 “Oh, they’re jogging on as usual, I suppose: but I know very little
 about any of them—except Harry,” said she, blushing slightly, and
-smiling again. “I saw a great deal of him while we were in London; for,
+smiling again. “I saw a great deal of him while we were in [[London]]; for,
 as soon as he heard we were there, he came up under pretence of
-visiting his brother, and either followed me, like a shadow, wherever I
+visiting his brother, and either followed me, like a [[Shadow|shadow]], wherever I
 went, or met me, like a reflection, at every turn. You needn’t look so
 shocked, Miss Grey; I was very discreet, I assure you, but, you know,
 one can’t help being admired. Poor fellow! He was not my only
@@ -185,9 +185,9 @@ had once so coveted to call her own.
 Again she brightened up, and answered gaily—“Oh! he made up to an
 elderly spinster, and married her, not long since; weighing her heavy
 purse against her faded charms, and expecting to find that solace in
-gold which was denied him in love—ha, ha!”
+gold which was denied him in [[Love|love]]—ha, ha!”
 
-“Well, and I think that’s all—except Mr. Weston: what is he doing?”
+“[[Well]], and I think that’s all—except Mr. Weston: what is he doing?”
 
 “I don’t know, I’m sure. He’s gone from Horton.”
 
@@ -203,22 +203,22 @@ he was not sufficiently tractable and submissive to him—and for some
 other unpardonable sins, I don’t know what. But now I positively must
 go and dress: the second bell will ring directly, and if I come to
 dinner in this guise, I shall never hear the end of it from Lady Ashby.
-It’s a strange thing one can’t be mistress in one’s own house! Just
+It’s a strange thing one can’t be mistress in one’s own [[house]]! Just
 ring the bell, and I’ll send for my maid, and tell them to get you some
 tea. Only think of that intolerable woman—”
 
 “Who—your maid?”
 
 “No;—my mother-in-law—and my unfortunate mistake! Instead of letting
-her take herself off to some other house, as she offered to do when I
-married, I was fool enough to ask her to live here still, and direct
-the affairs of the house for me; because, in the first place, I hoped
+her take herself off to some other [[house]], as she offered to do when I
+married, I was [[Fool|fool]] enough to ask her to live here still, and direct
+the affairs of the [[house]] for me; because, in the first place, I hoped
 we should spend the greater part of the year, in town, and in the
 second place, being so young and inexperienced, I was frightened at the
 idea of having a houseful of servants to manage, and dinners to order,
 and parties to entertain, and all the rest of it, and I thought she
 might assist me with her experience; never dreaming she would prove a
-usurper, a tyrant, an incubus, a spy, and everything else that’s
+[[Usurper|usurper]], a [[Tyrant|tyrant]], an incubus, a spy, and everything else that’s
 detestable. I wish she was dead!”
 
 She then turned to give her orders to the footman, who had been
@@ -234,7 +234,7 @@ course, nobody cares for that. It would be a pretty thing indeed, it we
 were to be tongue-tied by our servants!”
 
 So saying, she ran off to make her hasty toilet, leaving me to pilot my
-way back to my sitting-room, where, in due time, I was served with a
+way back to my sitting-room, where, in due [[Time|time]], I was served with a
 cup of tea. After that, I sat musing on Lady Ashby’s past and present
 condition; and on what little information I had obtained respecting Mr.
 Weston, and the small chance there was of ever seeing or hearing
@@ -242,28 +242,28 @@ anything more of him throughout my quiet, drab-colour life: which,
 henceforth, seemed to offer no alternative between positive rainy days,
 and days of dull grey clouds without downfall. At length, however, I
 began to weary of my thoughts, and to wish I knew where to find the
-library my hostess had spoken of; and to wonder whether I was to remain
-there doing nothing till bed-time.
+library my hostess had spoken of; and to [[Wonder|wonder]] whether I was to remain
+there doing nothing till bed-[[Time|time]].
 
-As I was not rich enough to possess a watch, I could not tell how time
+As I was not rich enough to possess a watch, I could not tell how [[Time|time]]
 was passing, except by observing the slowly lengthening shadows from
-the window; which presented a side view, including a corner of the
+the [[Window|window]]; which presented a side view, including a corner of the
 park, a clump of trees whose topmost branches had been colonized by an
 innumerable company of noisy rooks, and a high wall with a massive
-wooden gate: no doubt communicating with the stable-yard, as a broad
-carriage-road swept up to it from the park. The shadow of this wall
+wooden gate: no [[Doubt|doubt]] communicating with the stable-yard, as a broad
+carriage-[[Road|road]] swept up to it from the park. The [[Shadow|shadow]] of this wall
 soon took possession of the whole of the ground as far as I could see,
 forcing the golden sunlight to retreat inch by inch, and at last take
 refuge in the very tops of the trees. Ere long, even they were left in
-shadow—the shadow of the distant hills, or of the earth itself; and, in
+[[Shadow|shadow]]—the [[Shadow|shadow]] of the distant hills, or of the earth itself; and, in
 sympathy for the busy citizens of the rookery, I regretted to see their
 habitation, so lately bathed in glorious light, reduced to the sombre,
 work-a-day hue of the lower world, or of my own world within. For a
-moment, such birds as soared above the rest might still receive the
+moment, such [[Birds|birds]] as soared above the rest might still receive the
 lustre on their wings, which imparted to their sable plumage the hue
 and brilliance of deep red gold; at last, that too departed. Twilight
 came stealing on; the rooks became more quiet; I became more weary, and
-wished I were going home to-morrow. At length it grew dark; and I was
+wished I were going [[Home|home]] to-morrow. At length it grew dark; and I was
 thinking of ringing for a candle, and betaking myself to bed, when my
 hostess appeared, with many apologies for having neglected me so long,
 and laying all the blame upon that “nasty old woman,” as she called her
@@ -275,33 +275,33 @@ leave the room the instant he comes—as I have done once or twice—it is
 an unpardonable offence against her dear Thomas. _She_ never showed
 such disrespect to _her_ husband: and as for affection, wives never
 think of that now-a-days, she supposes: but things were different in
-_her_ time—as if there was any good to be done by staying in the room,
-when he does nothing but grumble and scold when he’s in a bad humour,
-talk disgusting nonsense when he’s in a good one, and go to sleep on
+_her_ [[Time|time]]—as if there was any good to be done by staying in the room,
+when he does nothing but grumble and scold when he’s in a bad [[Humour|humour]],
+talk disgusting nonsense when he’s in a good one, and go to [[Sleep|sleep]] on
 the sofa when he’s too stupid for either; which is most frequently the
 case now, when he has nothing to do but to sot over his wine.”
 
 “But could you not try to occupy his mind with something better; and
 engage him to give up such habits? I’m sure you have powers of
-persuasion, and qualifications for amusing a gentleman, which many
+[[Persuasion|persuasion]], and qualifications for amusing a gentleman, which many
 ladies would be glad to possess.”
 
 “And so you think I would lay myself out for his amusement! No: that’s
 not _my_ idea of a wife. It’s the husband’s part to please the wife,
 not hers to please him; and if he isn’t satisfied with her as she
 is—and thankful to possess her too—he isn’t worthy of her, that’s all.
-And as for persuasion, I assure you I shan’t trouble myself with that:
+And as for [[Persuasion|persuasion]], I assure you I shan’t trouble myself with that:
 I’ve enough to do to bear with him as he is, without attempting to work
-a reform. But I’m sorry I left you so long alone, Miss Grey. How have
-you passed the time?”
+a [[Reform|reform]]. But I’m sorry I left you so long [[Alone|alone]], Miss Grey. How have
+you passed the [[Time|time]]?”
 
 “Chiefly in watching the rooks.”
 
-“Mercy, how dull you must have been! I really must show you the
+“[[Mercy]], how dull you must have been! I really must show you the
 library; and you must ring for everything you want, just as you would
 in an inn, and make yourself comfortable. I have selfish reasons for
 wishing to make you happy, because I want you to stay with me, and not
 fulfil your horrid threat of running away in a day or two.”
 
-“Well, don’t let me keep you out of the drawing-room any longer
-to-night, for at present I am tired and wish to go to bed.”
+“[[Well]], don’t let me keep you out of the drawing-room any longer
+to-[[Night|night]], for at present I am tired and wish to go to bed.”

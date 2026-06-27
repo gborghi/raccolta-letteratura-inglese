@@ -23,12 +23,12 @@ literary and other outgrowth--the maternal nativity-stock brought
 hither from far-away Netherlands, for one, (doubtless the best)--the
 subterranean tenacity and central bony structure (obstinacy, wilfulness)
 which I get from my paternal English elements, for another--and the
-combination of my Long Island birth-spot, sea-shores, childhood's
-scenes, absorptions, with teeming Brooklyn and New York--with, I
+combination of my Long Island birth-spot, sea-shores, [[Childhood|childhood]]'s
+scenes, absorptions, with teeming Brooklyn and [[New York]]--with, I
 suppose, my experiences afterward in the secession outbreak, for the
 third.
 
 For, in 1862, startled by news that my brother George, an officer in
-the 51st New York volunteers, had been seriously wounded (first
+the 51st [[New York]] volunteers, had been seriously wounded (first
 Fredericksburg battle, December 13th,) I hurriedly went down to the
 field of war in Virginia. But I must go back a little.

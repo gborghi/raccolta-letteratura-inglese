@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 19 (part 3)"
+title: "[[Barnaby Rudge]] — Chapter 19 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -20,7 +20,7 @@ and go along with you, sir--Oh, if it was to the world’s end, she’d go
 along with you.’
 
 Mrs Varden with a faint smile gently reproved her attendant for this
-enthusiasm, and reminded her at the same time that she was far too
+enthusiasm, and reminded her at the same [[Time|time]] that she was far too
 unwell to venture out that day.
 
 ‘Oh no, you’re not, mim, indeed you’re not,’ said Miggs; ‘I repeal to
@@ -30,19 +30,19 @@ must keep up, mustn’t she, sir, for all our sakes? I was a telling
 her that, just now. She must remember us, even if she forgets herself.
 Master will persuade you, mim, I’m sure. There’s Miss Dolly’s a-going
 you know, and master, and you, and all so happy and so comfortable. Oh!’
-cried Miggs, turning on the tears again, previous to quitting the room
+cried Miggs, turning on the [[Tears|tears]] again, previous to quitting the room
 in great emotion, ‘I never see such a blessed one as she is for the
-forgiveness of her spirit, I never, never, never did. Not more did
+[[Forgiveness|forgiveness]] of her spirit, I never, never, never did. Not more did
 master neither; no, nor no one--never!’
 
 For five minutes or thereabouts, Mrs Varden remained mildly opposed to
 all her husband’s prayers that she would oblige him by taking a day’s
 pleasure, but relenting at length, she suffered herself to be persuaded,
-and granting him her free forgiveness (the merit whereof, she meekly
+and granting him her free [[Forgiveness|forgiveness]] (the merit whereof, she meekly
 said, rested with the Manual and not with her), desired that Miggs might
 come and help her dress. The handmaid attended promptly, and it is but
 justice to their joint exertions to record that, when the good lady came
-downstairs in course of time, completely decked out for the journey, she
+downstairs in course of [[Time|time]], completely decked out for the [[Journey|journey]], she
 really looked as if nothing had happened, and appeared in the very best
 health imaginable.
 
@@ -56,15 +56,15 @@ manner in which these cherry-coloured decorations brightened her eyes,
 or vied with her lips, or shed a new bloom on her face, she wore such
 a cruel little muff, and such a heart-rending pair of shoes, and was so
 surrounded and hemmed in, as it were, by aggravations of all kinds, that
-when Mr Tappettit, holding the horse’s head, saw her come out of the
-house alone, such impulses came over him to decoy her into the chaise
+when Mr Tappettit, holding the [[Horse|horse]]’s head, saw her come out of the
+[[house]] [[Alone|alone]], such impulses came over him to decoy her into the chaise
 and drive off like mad, that he would unquestionably have done it, but
 for certain uneasy doubts besetting him as to the shortest way to
 Gretna Green; whether it was up the street or down, or up the right-hand
-turning or the left; and whether, supposing all the turnpikes to be
-carried by storm, the blacksmith in the end would marry them on credit;
+turning or the left; and whether, supposing all the [[turnpikes]] to be
+carried by [[Storm|storm]], the blacksmith in the end would marry them on credit;
 which by reason of his clerical office appeared, even to his excited
-imagination, so unlikely, that he hesitated. And while he stood
+[[Imagination|imagination]], so unlikely, that he hesitated. And while he stood
 hesitating, and looking post-chaises-and-six at Dolly, out came his
 master and his mistress, and the constant Miggs, and the opportunity
 was gone for ever. For now the chaise creaked upon its springs, and Mrs
@@ -74,7 +74,7 @@ lightly, and Dolly was inside; and now it was gone and its place
 was empty, and he and that dreary Miggs were standing in the street
 together.
 
-The hearty locksmith was in as good a humour as if nothing had occurred
+The hearty locksmith was in as good a [[Humour|humour]] as if nothing had occurred
 for the last twelve months to put him out of his way, Dolly was all
 smiles and graces, and Mrs Varden was agreeable beyond all precedent. As
 they jogged through the streets talking of this thing and of that, who
@@ -93,8 +93,8 @@ Dolly blushed again till her very hood was pale.
 But on they went, not the less merrily for this, and there was the
 locksmith in the incautious fulness of his heart ‘pulling-up’ at all
 manner of places, and evincing a most intimate acquaintance with all the
-taverns on the road, and all the landlords and all the landladies, with
-whom, indeed, the little horse was on equally friendly terms, for he
+taverns on the [[Road|road]], and all the landlords and all the landladies, with
+whom, indeed, the little [[Horse|horse]] was on equally friendly terms, for he
 kept on stopping of his own accord. Never were people so glad to see
 other people as these landlords and landladies were to behold Mr Varden
 and Mrs Varden and Miss Varden; and wouldn’t they get out, said one; and
@@ -103,13 +103,13 @@ ill and be quite certain they were proud if they wouldn’t have a little
 taste of something, said a third; and so on, that it was really quite a
 Progress rather than a ride, and one continued scene of hospitality from
 beginning to end. It was pleasant enough to be held in such esteem, not
-to mention the refreshments; so Mrs Varden said nothing at the time,
-and was all affability and delight--but such a body of evidence as
+to mention the refreshments; so Mrs Varden said nothing at the [[Time|time]],
+and was all affability and delight--but such a [[Body|body]] of evidence as
 she collected against the unfortunate locksmith that day, to be used
 thereafter as occasion might require, never was got together for
 matrimonial purposes.
 
-In course of time--and in course of a pretty long time too, for these
+In course of [[Time|time]]--and in course of a pretty long [[Time|time]] too, for these
 agreeable interruptions delayed them not a little,--they arrived upon
 the skirts of the Forest, and riding pleasantly on among the trees, came
 at last to the Maypole, where the locksmith’s cheerful ‘Yoho!’ speedily

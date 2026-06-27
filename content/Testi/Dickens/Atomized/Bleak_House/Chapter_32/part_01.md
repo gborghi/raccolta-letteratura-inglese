@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 32 (part 1)"
+title: "Bleak [[house|House]] — Chapter 32 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -16,19 +16,19 @@ tags:
 
 CHAPTER XXXII
 
-The Appointed Time
+The Appointed [[Time]]
 
 
-It is night in Lincoln’s Inn—perplexed and troublous valley of the
-shadow of the law, where suitors generally find but little day—and
+It is [[Night|night]] in [[Lincoln]]’s Inn—perplexed and troublous valley of the
+[[Shadow|shadow]] of the law, where suitors generally find but little day—and
 fat candles are snuffed out in offices, and clerks have rattled down
 the crazy wooden stairs and dispersed. The bell that rings at nine
-o’clock has ceased its doleful clangour about nothing; the gates are
-shut; and the night-porter, a solemn warder with a mighty power of
-sleep, keeps guard in his lodge. From tiers of staircase windows
+o’[[Clock|clock]] has ceased its doleful clangour about nothing; the gates are
+shut; and the [[Night|night]]-porter, a solemn warder with a mighty power of
+[[Sleep|sleep]], keeps guard in his lodge. From tiers of staircase windows
 clogged lamps like the eyes of Equity, bleared Argus with a
 fathomless pocket for every eye and an eye upon it, dimly blink at
-the stars. In dirty upper casements, here and there, hazy little
+the [[Stars|stars]]. In dirty upper casements, here and there, hazy little
 patches of candlelight reveal where some wise draughtsman and
 conveyancer yet toils for the entanglement of real estate in meshes
 of sheep-skin, in the average ratio of about a dozen of sheep to an
@@ -36,7 +36,7 @@ acre of land. Over which bee-like industry these benefactors of their
 species linger yet, though office-hours be past, that they may give,
 for every day, some good account at last.
 
-In the neighbouring court, where the Lord Chancellor of the rag and
+In the neighbouring [[Court|court]], where the Lord Chancellor of the rag and
 bottle shop dwells, there is a general tendency towards beer and
 supper. Mrs. Piper and Mrs. Perkins, whose respective sons, engaged
 with a circle of acquaintance in the game of hide and seek, have been
@@ -49,44 +49,44 @@ the fact of Mr. Krook’s being “continually in liquor,” and the
 testamentary prospects of the young man are, as usual, the staple of
 their conversation. But they have something to say, likewise, of the
 Harmonic Meeting at the Sol’s Arms, where the sound of the piano
-through the partly opened windows jingles out into the court, and
-where Little Swills, after keeping the lovers of harmony in a roar
+through the partly opened windows jingles out into the [[Court|court]], and
+where Little Swills, after keeping the [[lovers]] of harmony in a roar
 like a very Yorick, may now be heard taking the gruff line in a
 concerted piece and sentimentally adjuring his friends and patrons to
 “Listen, listen, listen, tew the wa-ter fall!” Mrs. Perkins and Mrs.
 Piper compare opinions on the subject of the young lady of
 professional celebrity who assists at the Harmonic Meetings and who
-has a space to herself in the manuscript announcement in the window,
+has a space to herself in the manuscript announcement in the [[Window|window]],
 Mrs. Perkins possessing information that she has been married a year
 and a half, though announced as Miss M. Melvilleson, the noted siren,
 and that her baby is clandestinely conveyed to the Sol’s Arms every
-night to receive its natural nourishment during the entertainments.
+[[Night|night]] to receive its natural nourishment during the entertainments.
 “Sooner than which, myself,” says Mrs. Perkins, “I would get my
 living by selling lucifers.” Mrs. Piper, as in duty bound, is of the
 same opinion, holding that a private station is better than public
 applause, and thanking heaven for her own (and, by implication, Mrs.
-Perkins’) respectability. By this time the pot-boy of the Sol’s Arms
-appearing with her supper-pint well frothed, Mrs. Piper accepts that
-tankard and retires indoors, first giving a fair good night to Mrs.
+Perkins’) respectability. By this [[Time|time]] the pot-boy of the Sol’s Arms
+appearing with her supper-pint [[Well|well]] frothed, Mrs. Piper accepts that
+tankard and retires indoors, first giving a fair good [[Night|night]] to Mrs.
 Perkins, who has had her own pint in her hand ever since it was
 fetched from the same hostelry by young Perkins before he was sent to
-bed. Now there is a sound of putting up shop-shutters in the court
-and a smell as of the smoking of pipes; and shooting stars are seen
+bed. Now there is a sound of putting up shop-shutters in the [[Court|court]]
+and a smell as of the smoking of pipes; and shooting [[Stars|stars]] are seen
 in upper windows, further indicating retirement to rest. Now, too,
 the policeman begins to push at doors; to try fastenings; to be
 suspicious of bundles; and to administer his beat, on the hypothesis
 that every one is either robbing or being robbed.
 
-It is a close night, though the damp cold is searching too, and there
+It is a close [[Night|night]], though the damp cold is searching too, and there
 is a laggard mist a little way up in the air. It is a fine steaming
-night to turn the slaughter-houses, the unwholesome trades, the
-sewerage, bad water, and burial-grounds to account, and give the
+[[Night|night]] to turn the slaughter-houses, the unwholesome trades, the
+sewerage, bad [[Water|water]], and burial-grounds to account, and give the
 registrar of deaths some extra business. It may be something in the
 air—there is plenty in it—or it may be something in himself that is
 in fault; but Mr. Weevle, otherwise Jobling, is very ill at ease. He
 comes and goes between his own room and the open street door twenty
 times an hour. He has been doing so ever since it fell dark. Since
-the Chancellor shut up his shop, which he did very early to-night,
+the Chancellor shut up his shop, which he did very early to-[[Night|night]],
 Mr. Weevle has been down and up, and down and up (with a cheap tight
 velvet skull-cap on his head, making his whiskers look out of all
 proportion), oftener than before.
@@ -95,9 +95,9 @@ It is no phenomenon that Mr. Snagsby should be ill at ease too, for
 he always is so, more or less, under the oppressive influence of the
 secret that is upon him. Impelled by the mystery of which he is a
 partaker and yet in which he is not a sharer, Mr. Snagsby haunts what
-seems to be its fountain-head—the rag and bottle shop in the court.
+seems to be its fountain-head—the rag and bottle shop in the [[Court|court]].
 It has an irresistible attraction for him. Even now, coming round by
-the Sol’s Arms with the intention of passing down the court, and out
+the Sol’s Arms with the intention of passing down the [[Court|court]], and out
 at the Chancery Lane end, and so terminating his unpremeditated
 after-supper stroll of ten minutes’ long from his own door and back
 again, Mr. Snagsby approaches.
@@ -111,7 +111,7 @@ there?”
 inquires.
 
 “Why, there’s not much air to be got here; and what there is, is not
-very freshening,” Weevle answers, glancing up and down the court.
+very freshening,” Weevle answers, glancing up and down the [[Court|court]].
 
 “Very true, sir. Don’t you observe,” says Mr. Snagsby, pausing to
 sniff and taste the air a little, “don’t you observe, Mr. Weevle,
@@ -119,11 +119,11 @@ that you’re—not to put too fine a point upon it—that you’re rather
 greasy here, sir?”
 
 “Why, I have noticed myself that there is a queer kind of flavour in
-the place to-night,” Mr. Weevle rejoins. “I suppose it’s chops at the
+the place to-[[Night|night]],” Mr. Weevle rejoins. “I suppose it’s chops at the
 Sol’s Arms.”
 
 “Chops, do you think? Oh! Chops, eh?” Mr. Snagsby sniffs and tastes
-again. “Well, sir, I suppose it is. But I should say their cook at
+again. “[[Well]], sir, I suppose it is. But I should say their cook at
 the Sol wanted a little looking after. She has been burning ’em, sir!
 And I don’t think”—Mr. Snagsby sniffs and tastes again and then
 spits and wipes his mouth—“I don’t think—not to put too fine a

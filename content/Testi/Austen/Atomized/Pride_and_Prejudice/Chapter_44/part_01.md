@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 44 (part 1)"
+title: "[[Pride and Prejudice]] — Chapter 44 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -26,10 +26,10 @@ But her conclusion was false; for on the very morning after their own
 arrival at Lambton these visitors came. They had been walking about the
 place with some of their new friends, and were just returned to the inn
 to dress themselves for dining with the same family, when the sound of a
-carriage drew them to a window, and they saw a gentleman and lady in a
+carriage drew them to a [[Window|window]], and they saw a gentleman and lady in a
 curricle driving up the street. Elizabeth, immediately recognizing the
 livery, guessed what it meant, and imparted no small degree of surprise
-to her relations, by acquainting them with the honour which she
+to her relations, by acquainting them with the [[Honour|honour]] which she
 expected. Her uncle and aunt were all amazement; and the embarrassment
 of her manner as she spoke, joined to the circumstance itself, and many
 of the circumstances of the preceding day, opened to them a new idea on
@@ -43,7 +43,7 @@ dreaded lest the partiality of the brother should have said too much in
 her favour; and, more than commonly anxious to please, she naturally
 suspected that every power of pleasing would fail her.
 
-She retreated from the window, fearful of being seen; and as she walked
+She retreated from the [[Window|window]], fearful of being seen; and as she walked
 up and down the room, endeavouring to compose herself, saw such looks of
 inquiring surprise in her uncle and aunt as made everything worse.
 
@@ -58,13 +58,13 @@ her beyond a monosyllable.
 Miss Darcy was tall, and on a larger scale than Elizabeth; and, though
 little more than sixteen, her figure was formed, and her appearance
 womanly and graceful. She was less handsome than her brother, but there
-was sense and good-humour in her face, and her manners were perfectly
+was sense and good-[[Humour|humour]] in her face, and her manners were perfectly
 unassuming and gentle. Elizabeth, who had expected to find in her as
 acute and unembarrassed an observer as ever Mr. Darcy had been, was much
 relieved by discerning such different feelings.
 
 They had not been long together before Darcy told her that Bingley was
-also coming to wait on her; and she had barely time to express her
+also coming to wait on her; and she had barely [[Time|time]] to express her
 satisfaction, and prepare for such a visitor, when Bingley’s quick step
 was heard on the stairs, and in a moment he entered the room. All
 Elizabeth’s anger against him had been long done away; but had she still
@@ -79,14 +79,14 @@ them, indeed, excited a lively attention. The suspicions which had just
 arisen of Mr. Darcy and their niece, directed their observation towards
 each with an earnest, though guarded, inquiry; and they soon drew from
 those inquiries the full conviction that one of them at least knew what
-it was to love. Of the lady’s sensations they remained a little in
-doubt; but that the gentleman was overflowing with admiration was
+it was to [[Love|love]]. Of the lady’s sensations they remained a little in
+[[Doubt|doubt]]; but that the gentleman was overflowing with admiration was
 evident enough.
 
 Elizabeth, on her side, had much to do. She wanted to ascertain the
 feelings of each of her visitors, she wanted to compose her own, and to
 make herself agreeable to all; and in the latter object, where she
-feared most to fail, she was most sure of success, for those to whom
+feared most to fail, she was most sure of [[success]], for those to whom
 she endeavoured to give pleasure were pre-possessed in her favour.
 Bingley was ready, Georgiana was eager, and Darcy determined, to be
 pleased.
@@ -112,11 +112,11 @@ a recollection of Jane, not untinctured by tenderness, and a wish of
 saying more that might lead to the mention of her, had he dared. He
 observed to her, at a moment when the others were talking together, and
 in a tone which had something of real regret, that it “was a very long
-time since he had had the pleasure of seeing her;” and, before she could
+[[Time|time]] since he had had the pleasure of seeing her;” and, before she could
 reply, he added, “It is above eight months. We have not met since the
 26th of November, when we were all dancing together at Netherfield.”
 
-Elizabeth was pleased to find his memory so exact; and he afterwards
+Elizabeth was pleased to find his [[Memory|memory]] so exact; and he afterwards
 took occasion to ask her, when unattended to by any of the rest, whether
 _all_ her sisters were at Longbourn. There was not much in the question,
 nor in the preceding remark; but there was a look and a manner which

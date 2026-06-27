@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE REAL LIFE ON THE LAND (part 4)"
+title: "[[Sanity]] — THE REAL LIFE ON THE LAND (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -68,8 +68,8 @@ It is no good asking how many complete and compact yeomen or yokels are
 waiting all ready in smock-frocks or blouses, their spades and hay-forks
 clutched in their hand, in the neighbourhood of Brompton or Brixton;
 waiting for us to give the signal to rush back to the land.
-If anybody is such a fool as to expect that sort of thing,
-the fool is not to be found in our small political party.
+If anybody is such a [[Fool|fool]] as to expect that sort of thing,
+the [[Fool|fool]] is not to be found in our small political party.
 When we are dealing with a matter of this kind, we are dealing
 with different elements in the same class, or even in the same man.
 We are dealing with elements which should be encouraged or educated or
@@ -89,7 +89,7 @@ but a hobby; some have never heard of it and feel it only as a want.
 But the number of people who would like to get out of the tangle
 of mere ramifications and communications in the town, and get back
 nearer to the roots of things, where things are made directly out
-of nature, I believe to be very large.  It is probably not a majority,
+of [[Nature|nature]], I believe to be very large.  It is probably not a majority,
 but I suspect that even now it is a very large minority.  A man does
 not necessarily want this more than everything else at every moment
 of his life.  No sane person expects any movement to consist entirely
@@ -118,12 +118,12 @@ principle of a real spontaneous revival of the countryside.
 I repeat that it would be a matter of proportion and therefore of tact.
 But we should be on their side, being confident that they
 are on our side and on the side of the countryside.  We should
-reconstruct our popular education so as to help these hobbies.
+reconstruct our popular [[Education|education]] so as to help these hobbies.
 We should think it worth while to teach people the things they are
 so eager to teach themselves.  We should teach them; we might even,
-in a burst of Christian humility, occasionally allow them to teach us.
+in a burst of Christian [[Humility|humility]], occasionally allow them to teach us.
 What we do is to bundle them out of their houses, where they
 do these things with difficulty, and drag them shrieking
 to new and unfamiliar places where they cannot do them at all.
-This example alone would show how much we are really doing for
+This example [[Alone|alone]] would show how much we are really doing for
 the rural reconstruction of England.

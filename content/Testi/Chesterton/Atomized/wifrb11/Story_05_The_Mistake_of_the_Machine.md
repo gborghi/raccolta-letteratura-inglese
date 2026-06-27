@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Mistake of the Machine"
+title: "[[wifrb11]] — The Mistake of the [[Machine]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -14,46 +14,46 @@ tags:
 </nav>
 
 
-                      The Mistake of the Machine
+                      The Mistake of the [[Machine]]
 
 
-FLAMBEAU and his friend the priest were sitting in the Temple Gardens
+[[Flambeau|FLAMBEAU]] and his friend the priest were sitting in the Temple Gardens
 about sunset; and their neighbourhood or some such accidental influence
 had turned their talk to matters of legal process.  From the problem
-of the licence in cross-examination, their talk strayed to Roman and
+of the licence in [[Cross|cross]]-examination, their talk strayed to Roman and
 mediaeval torture, to the examining magistrate in France and
-the Third Degree in America.
+the Third Degree in [[america|America]].
 
-     "I've been reading," said Flambeau, "of this new psychometric method
-they talk about so much, especially in America.  You know what I mean;
+     "I've been reading," said [[Flambeau]], "of this new psychometric method
+they talk about so much, especially in [[america|America]].  You know what I mean;
 they put a pulsometer on a man's wrist and judge by how his heart goes
 at the pronunciation of certain words.  What do you think of it?"
 
-     "I think it very interesting," replied Father Brown;
-"it reminds me of that interesting idea in the Dark Ages that blood
+     "I think it very interesting," replied [[Father Brown]];
+"it reminds me of that interesting idea in the Dark Ages that [[Blood|blood]]
 would flow from a corpse if the murderer touched it."
 
      "Do you really mean," demanded his friend, "that you think
 the two methods equally valuable?"
 
-     "I think them equally valueless," replied Brown.  "Blood flows,
+     "I think them equally valueless," replied Brown.  "[[Blood]] flows,
 fast or slow, in dead folk or living, for so many more million reasons
-than we can ever know.  Blood will have to flow very funnily;
-blood will have to flow up the Matterhorn, before I will take it
+than we can ever know.  [[Blood]] will have to flow very funnily;
+[[Blood|blood]] will have to flow up the Matterhorn, before I will take it
 as a sign that I am to shed it."
 
      "The method," remarked the other, "has been guaranteed
 by some of the greatest American men of science."
 
-     "What sentimentalists men of science are!" exclaimed Father Brown,
+     "What sentimentalists men of science are!" exclaimed [[Father Brown]],
 "and how much more sentimental must American men of science be! 
 Who but a Yankee would think of proving anything from heart-throbs? 
 Why, they must be as sentimental as a man who thinks a woman
-is in love with him if she blushes.  That's a test from
-the circulation of the blood, discovered by the immortal Harvey;
+is in [[Love|love]] with him if she blushes.  That's a test from
+the circulation of the [[Blood|blood]], discovered by the immortal Harvey;
 and a jolly rotten test, too."
 
-     "But surely," insisted Flambeau, "it might point pretty straight
+     "But surely," insisted [[Flambeau]], "it might point pretty straight
 at something or other."
 
      "There's a disadvantage in a stick pointing straight,"
@@ -61,21 +61,21 @@ answered the other.  "What is it?  Why, the other end of the stick
 always points the opposite way.  It depends whether you
 get hold of the stick by the right end.  I saw the thing done once
 and I've never believed in it since." And he proceeded to tell
-the story of his disillusionment.
+the story of his [[Disillusionment|disillusionment]].
 
      It happened nearly twenty years before, when he was chaplain
-to his co-religionists in a prison in Chicago--where the Irish population
+to his co-religionists in a [[Prison|prison]] in Chicago--where the Irish population
 displayed a capacity both for crime and penitence which kept him
 tolerably busy.  The official second-in-command under the Governor
-was an ex-detective named Greywood Usher, a cadaverous, careful-spoken
+was an ex-[[Detective|detective]] named Greywood Usher, a cadaverous, careful-spoken
 Yankee philosopher, occasionally varying a very rigid visage
-with an odd apologetic grimace.  He liked Father Brown in
-a slightly patronizing way; and Father Brown liked him,
+with an odd apologetic grimace.  He liked [[Father Brown]] in
+a slightly patronizing way; and [[Father Brown]] liked him,
 though he heartily disliked his theories.  His theories were
 extremely complicated and were held with extreme simplicity.
 
      One evening he had sent for the priest, who, according to his custom,
-took a seat in silence at a table piled and littered with papers,
+took a seat in [[Silence|silence]] at a table piled and littered with papers,
 and waited.  The official selected from the papers a scrap of
 newspaper cutting, which he handed across to the cleric,
 who read it gravely.  It appeared to be an extract from one of
@@ -83,7 +83,7 @@ the pinkest of American Society papers, and ran as follows:
 
      "Society's brightest widower is once more on the Freak Dinner stunt. 
 All our exclusive citizens will recall the Perambulator Parade Dinner,
-in which Last-Trick Todd, at his palatial home at Pilgrim's Pond,
+in which Last-Trick Todd, at his palatial [[Home|home]] at [[Pilgrim]]'s Pond,
 caused so many of our prominent debutantes to look even younger
 than their years.  Equally elegant and more miscellaneous and
 large-hearted in social outlook was Last-Trick's show the year previous,
@@ -92,34 +92,34 @@ were sarcastically moulded in the forms of human arms and legs,
 and during which more than one of our gayest mental gymnasts was heard
 offering to eat his partner.  The witticism which will inspire
 this evening is as yet in Mr Todd's pretty reticent intellect,
-or locked in the jewelled bosoms of our city's gayest leaders;
-but there is talk of a pretty parody of the simple manners and customs
+or locked in the jewelled bosoms of our [[City|city]]'s gayest leaders;
+but there is talk of a pretty [[Parody|parody]] of the simple manners and customs
 at the other end of Society's scale.  This would be all the more telling,
 as hospitable Todd is entertaining in Lord Falconroy, the famous traveller,
-a true-blooded aristocrat fresh from England's oak-groves. 
+a true-blooded [[aristocrat]] fresh from England's oak-groves. 
 Lord Falconroy's travels began before his ancient feudal title
 was resurrected, he was in the Republic in his youth, and fashion murmurs
 a sly reason for his return.  Miss Etta Todd is one of our
 deep-souled New Yorkers, and comes into an income of nearly
 twelve hundred million dollars."
 
-     "Well," asked Usher, "does that interest you?"
+     "[[Well]]," asked Usher, "does that interest you?"
 
-     "Why, words rather fail me," answered Father Brown. 
+     "Why, words rather fail me," answered [[Father Brown]]. 
 "I cannot think at this moment of anything in this world that would
 interest me less.  And, unless the just anger of the Republic is
 at last going to electrocute journalists for writing like that,
 I don't quite see why it should interest you either."
 
      "Ah!" said Mr Usher dryly, and handing across another
-scrap of newspaper.  "Well, does that interest you?"
+scrap of newspaper.  "[[Well]], does that interest you?"
 
      The paragraph was headed "Savage Murder of a Warder. 
-Convict Escapes," and ran:  "Just before dawn this morning
+Convict Escapes," and ran:  "Just before [[Dawn|dawn]] this morning
 a shout for help was heard in the Convict Settlement at Sequah
 in this State.  The authorities, hurrying in the direction of the cry,
 found the corpse of the warder who patrols the top of the north wall
-of the prison, the steepest and most difficult exit, for which one man
+of the [[Prison|prison]], the steepest and most difficult exit, for which one man
 has always been found sufficient.  The unfortunate officer had,
 however, been hurled from the high wall, his brains beaten out
 as with a club, and his gun was missing.  Further inquiries showed that
@@ -128,8 +128,8 @@ giving his name as Oscar Rian.  He was only temporarily detained
 for some comparatively trivial assault; but he gave everyone the impression
 of a man with a black past and a dangerous future.  Finally,
 when daylight had fully revealed the scene of murder, it was found
-that he had written on the wall above the body a fragmentary sentence,
-apparently with a finger dipped in blood:  `This was self-defence and
+that he had written on the wall above the [[Body|body]] a fragmentary sentence,
+apparently with a finger dipped in [[Blood|blood]]:  `This was self-defence and
 he had the gun.  I meant no harm to him or any man but one. 
 I am keeping the bullet for Pilgrim's Pond--O.R.'  A man must have used
 most fiendish treachery or most savage and amazing bodily daring
@@ -306,10 +306,10 @@ it was Ireton Todd himself.  Some of the others seemed to have gone
 to the lower windows or on to the steps, and were calling up to him
 that Falconroy had gone for a stroll down to the Pilgrim's Pond
 an hour before, and could not be traced since.  Then Todd cried
-`Mighty Murder!' and shut down the window violently; and I could hear him
+`Mighty Murder!' and shut down the [[Window|window]] violently; and I could hear him
 plunging down the stairs inside.  Repossessing myself of my former
 and wiser purpose, I whipped out of the way of the general search
-that must follow; and returned here not later than eight o'clock.
+that must follow; and returned here not later than eight o'[[Clock|clock]].
 
      "I now ask you to recall that little Society paragraph
 which seemed to you so painfully lacking in interest.  If the convict
@@ -317,15 +317,15 @@ was not keeping the shot for Todd, as he evidently wasn't,
 it is most likely that he was keeping it for Lord Falconroy;
 and it looks as if he had delivered the goods.  No more handy place
 to shoot a man than in the curious geological surroundings of that pool,
-where a body thrown down would sink through thick slime to a depth
+where a [[Body|body]] thrown down would sink through thick slime to a depth
 practically unknown.  Let us suppose, then, that our friend
 with the cropped hair came to kill Falconroy and not Todd. 
-But, as I have pointed out, there are many reasons why people in America
-might want to kill Todd.  There is no reason why anybody in America
+But, as I have pointed out, there are many reasons why people in [[america|America]]
+might want to kill Todd.  There is no reason why anybody in [[america|America]]
 should want to kill an English lord newly landed, except for the one reason
 mentioned in the pink paper--that the lord is paying his attentions
 to the millionaire's daughter.  Our crop-haired friend,
-despite his ill-fitting clothes, must be an aspiring lover.
+despite his ill-fitting clothes, must be an aspiring [[Lover|lover]].
 
      "I know the notion will seem to you jarring and even comic;
 but that's because you are English.  It sounds to you like saying
@@ -346,20 +346,20 @@ she must be doing, to judge by the lantern business.  If so,
 the hand that held the lantern may not be unconnected with the hand
 that held the gun.  This case, sir, will make a noise."
 
-     "Well," said the priest patiently, "and what did you do next?"
+     "[[Well]]," said the priest patiently, "and what did you do next?"
 
      "I reckon you'll be shocked," replied Greywood Usher,
 "as I know you don't cotton to the march of science in these matters. 
 I am given a good deal of discretion here, and perhaps take a little more
 than I'm given; and I thought it was an excellent opportunity to test
-that Psychometric Machine I told you about.  Now, in my opinion,
-that machine can't lie."
+that Psychometric [[Machine]] I told you about.  Now, in my opinion,
+that [[Machine|machine]] can't lie."
 
-     "No machine can lie," said Father Brown; "nor can it tell the truth."
+     "No [[Machine|machine]] can lie," said [[Father Brown]]; "nor can it tell the [[Truth|truth]]."
 
      "It did in this case, as I'll show you," went on Usher positively. 
 "I sat the man in the ill-fitting clothes in a comfortable chair,
-and simply wrote words on a blackboard; and the machine simply
+and simply wrote words on a blackboard; and the [[Machine|machine]] simply
 recorded the variations of his pulse; and I simply observed his manner. 
 The trick is to introduce some word connected with the supposed crime
 in a list of words connected with something quite different,
@@ -441,7 +441,7 @@ stood up, screaming aloud and pointing at him with her finger.
 I have never in my life heard anything more demoniacally distinct. 
 Her lean finger seemed to pick him out as if it were a pea-shooter. 
 Though the word was a mere howl, every syllable was as clear
-as a separate stroke on the clock.
+as a separate stroke on the [[Clock|clock]].
 
      "`Drugger Davis!' she shouted.  `They've got Drugger Davis!'
 
@@ -455,7 +455,7 @@ baffled our police.  It is certain he had done murder more than once
 long before his last exploit with the warder.  But he was never entirely
 fixed for it, curiously enough because he did it in the same manner
 as those milder--or meaner--crimes for which he was fixed pretty often. 
-He was a handsome, well-bred-looking brute, as he still is, to some extent;
+He was a handsome, [[Well|well]]-bred-looking brute, as he still is, to some extent;
 and he used mostly to go about with barmaids or shop-girls and do them
 out of their money.  Very often, though, he went a good deal farther;
 and they were found drugged with cigarettes or chocolates and
@@ -463,24 +463,24 @@ their whole property missing.  Then came one case where the girl
 was found dead; but deliberation could not quite be proved, and,
 what was more practical still, the criminal could not be found. 
 I heard a rumour of his having reappeared somewhere in the opposite
-character this time, lending money instead of borrowing it;
+character this [[Time|time]], lending money instead of borrowing it;
 but still to such poor widows as he might personally fascinate,
-but still with the same bad result for them.  Well, there is
-your innocent man, and there is his innocent record.  Even, since then,
+but still with the same bad result for them.  [[Well]], there is
+your [[Innocent|innocent]] man, and there is his [[Innocent|innocent]] record.  Even, since then,
 four criminals and three warders have identified him and confirmed the story. 
-Now what have you got to say to my poor little machine after that? 
-Hasn't the machine done for him?  Or do you prefer to say that the woman
+Now what have you got to say to my poor little [[Machine|machine]] after that? 
+Hasn't the [[Machine|machine]] done for him?  Or do you prefer to say that the woman
 and I have done for him?"
 
-     "As to what you've done for him," replied Father Brown,
+     "As to what you've done for him," replied [[Father Brown]],
 rising and shaking himself in a floppy way, "you've saved him from
 the electrical chair.  I don't think they can kill Drugger Davis
-on that old vague story of the poison; and as for the convict
+on that old vague story of the [[Poison|poison]]; and as for the convict
 who killed the warder, I suppose it's obvious that you haven't got him. 
-Mr Davis is innocent of that crime, at any rate."
+Mr Davis is [[Innocent|innocent]] of that crime, at any rate."
 
      "What do you mean?" demanded the other.  "Why should he be
-innocent of that crime?"
+[[Innocent|innocent]] of that crime?"
 
      "Why, bless us all!" cried the small man in one of his rare
 moments of animation, "why, because he's guilty of the other crimes! 
@@ -488,17 +488,17 @@ I don't know what you people are made of.  You seem to think that
 all sins are kept together in a bag.  You talk as if a miser on Monday
 were always a spendthrift on Tuesday.  You tell me this man you have here
 spent weeks and months wheedling needy women out of small sums of money;
-that he used a drug at the best, and a poison at the worst;
+that he used a drug at the best, and a [[Poison|poison]] at the worst;
 that he turned up afterwards as the lowest kind of moneylender,
 and cheated most poor people in the same patient and pacific style. 
 Let it be granted--let us admit, for the sake of argument,
 that he did all this.  If that is so, I will tell you what he didn't do. 
-He didn't storm a spiked wall against a man with a loaded gun. 
+He didn't [[Storm|storm]] a spiked wall against a man with a loaded gun. 
 He didn't write on the wall with his own hand, to say he had done it. 
-He didn't stop to state that his justification was self-defence. 
+He didn't stop to state that his justification was [[Self|self]]-defence. 
 He didn't explain that he had no quarrel with the poor warder. 
-He didn't name the house of the rich man to which he was going with the gun. 
-He didn't write his own, initials in a man's blood.  Saints alive! 
+He didn't name the [[house]] of the rich man to which he was going with the gun. 
+He didn't write his own, initials in a man's [[Blood|blood]].  Saints alive! 
 Can't you see the whole character is different, in good and evil?  
 Why, you don't seem to be like I am a bit.  One would think
 you'd never had any vices of your own."
@@ -508,7 +508,7 @@ when the door of his private and official room was hammered
 and rattled in an unceremonious way to which he was totally unaccustomed.
 
      The door flew open.  The moment before Greywood Usher had been
-coming to the conclusion that Father Brown might possibly be mad. 
+coming to the conclusion that [[Father Brown]] might possibly be mad. 
 The moment after he began to think he was mad himself. 
 There burst and fell into his private room a man in the filthiest rags,
 with a greasy squash hat still askew on his head, and a shabby green shade
@@ -527,15 +527,15 @@ I don't get fooled any.  Leave go of my guests, and I'll let up
 on the fancy clockwork.  Keep him here for a split instant and you'll
 feel pretty mean.  I reckon I'm not a man with no pull."
 
-     The eminent Usher was regarding the bellowing monster
+     The eminent Usher was regarding the bellowing [[Monster|monster]]
 with an amazement which had dried up all other sentiments. 
 The mere shock to his eyes had rendered his ears, almost useless. 
 At last he rang a bell with a hand of violence.  While the bell was
-still strong and pealing, the voice of Father Brown fell soft but distinct.
+still strong and pealing, the voice of [[Father Brown]] fell soft but distinct.
 
      "I have a suggestion to make," he said, "but it seems
 a little confusing.  I don't know this gentleman--but--
-but I think I know him.  Now, you know him--you know him quite well--
+but I think I know him.  Now, you know him--you know him quite [[Well|well]]--
 but you don't know him--naturally.  Sounds paradoxical, I know."
 
      "I reckon the Cosmos is cracked," said Usher, and fell asprawl
@@ -552,12 +552,12 @@ because it was comparatively mild and rational though still resounding.
 
      Then he picked up the pink slip of newspaper.
 
-     "I fear you don't read the Society papers properly," he said,
+     "I [[Fear|fear]] you don't read the Society papers properly," he said,
 and began to read out in a monotonous voice, "`Or locked in
-the jewelled bosoms of our city's gayest leaders; but there is talk
-of a pretty parody of the manners and customs of the other end
+the jewelled bosoms of our [[City|city]]'s gayest leaders; but there is talk
+of a pretty [[Parody|parody]] of the manners and customs of the other end
 of Society's scale.' There's been a big Slum Dinner up at
-Pilgrim's Pond tonight; and a man, one of the guests, disappeared. 
+[[Pilgrim]]'s Pond tonight; and a man, one of the guests, disappeared. 
 Mr Ireton Todd is a good host, and has tracked him here,
 without even waiting to take off his fancy-dress."
 
@@ -571,9 +571,9 @@ hove in sight."
 
      "Do you seriously mean--" began the official.
 
-     "Why, look here, Mr Usher," said Father Brown quietly,
-"you said the machine couldn't make a mistake; and in one sense it didn't. 
-But the other machine did; the machine that worked it. 
+     "Why, look here, Mr Usher," said [[Father Brown]] quietly,
+"you said the [[Machine|machine]] couldn't make a mistake; and in one sense it didn't. 
+But the other [[Machine|machine]] did; the [[Machine|machine]] that worked it. 
 You assumed that the man in rags jumped at the name of Lord Falconroy,
 because he was Lord Falconroy's murderer.  He jumped at the name
 of Lord Falconroy because he is Lord Falconroy."
@@ -582,7 +582,7 @@ of Lord Falconroy because he is Lord Falconroy."
 
      "He felt his plight and recent panic were hardly patrician,"
 replied the priest, "so he tried to keep the name back at first. 
-But he was just going to tell it you, when"--and Father Brown looked
+But he was just going to tell it you, when"--and [[Father Brown]] looked
 down at his boots--"when a woman found another name for him."
 
      "But you can't be so mad as to say," said Greywood Usher,
@@ -601,7 +601,7 @@ about this.  But I think," he went on softly and reflectively,
 "I think you Americans are too modest.  I think you idealize
 the English aristocracy--even in assuming it to be so aristocratic. 
 You see a good-looking Englishman in evening-dress; you know
-he's in the House of Lords; and you fancy he has a father. 
+he's in the [[house|House]] of Lords; and you fancy he has a father. 
 You don't allow for our national buoyancy and uplift.  Many of our
 most influential noblemen have not only risen recently, but--"
 
@@ -611,30 +611,30 @@ in impatience against a shade of irony in the other's face.
      "Don't stay talking to this lunatic!" cried Todd brutally.
 "Take me to my friend."
 
-     Next morning Father Brown appeared with the same demure expression,
+     Next morning [[Father Brown]] appeared with the same demure expression,
 carrying yet another piece of pink newspaper.
 
      "I'm afraid you neglect the fashionable press rather," he said,
 "but this cutting may interest you."
 
      Usher read the headlines, "Last-Trick's Strayed Revellers:
-Mirthful Incident near Pilgrim's Pond." The paragraph went on: 
+Mirthful Incident near [[Pilgrim]]'s Pond." The paragraph went on: 
 "A laughable occurrence took place outside Wilkinson's Motor Garage
-last night.  A policeman on duty had his attention drawn by larrikins
-to a man in prison dress who was stepping with considerable coolness
+last [[Night|night]].  A policeman on duty had his attention drawn by larrikins
+to a man in [[Prison|prison]] dress who was stepping with considerable coolness
 into the steering-seat of a pretty high-toned Panhard; he was accompanied
 by a girl wrapped in a ragged shawl.  On the police interfering,
 the young woman threw back the shawl, and all recognized
 Millionaire Todd's daughter, who had just come from the Slum Freak Dinner
 at the Pond, where all the choicest guests were in a similar deshabille. 
-She and the gentleman who had donned prison uniform were going for
+She and the gentleman who had donned [[Prison|prison]] uniform were going for
 the customary joy-ride."
 
      Under the pink slip Mr Usher found a strip of a later paper,
 headed, "Astounding Escape of Millionaire's Daughter with Convict. 
 She had Arranged Freak Dinner.  Now Safe in--"
 
-     Mr Greenwood Usher lifted his eyes, but Father Brown was gone.
+     Mr Greenwood Usher lifted his eyes, but [[Father Brown]] was gone.
 
 
 

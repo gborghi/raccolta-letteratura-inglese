@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 69)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 69)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 believe it can be done by painting it blue with white spots, even if
 
-they are called stars. The insufficiency of British Imperialism does not
+they are called [[Stars|stars]]. The insufficiency of British Imperialism does not
 
 lie in the fact that it has always been applied by force of arms. As a
 
@@ -26,15 +26,15 @@ colonisation of comparatively empty places, by geographical discovery
 
 and diplomatic bargain. Whether it be regarded as praise or blame, it is
 
-certainly the truth that among all the things that have called
+certainly the [[Truth|truth]] that among all the things that have called
 
 themselves empires, the British has been perhaps the least purely
 
-military, and has least both of the special guilt and the special glory
+military, and has least both of the special [[Guilt|guilt]] and the special glory
 
 that goes with militarism. The insufficiency of British Imperialism is
 
-not that it is imperial, let alone military. The insufficiency of
+not that it is imperial, let [[Alone|alone]] military. The insufficiency of
 
 British Imperialism is that it is British; when it is not merely Jewish.
 
@@ -54,11 +54,11 @@ among other things, you have to spread it very thin.
 
 
 
-But America, which Mr. Wells takes as a model, is in another sense
+But [[america|America]], which Mr. Wells takes as a model, is in another sense
 
 rather a warning. Mr. Wells says very truly that there was a moment in
 
-history when America might well have broken up into independent states
+[[history]] when [[america|America]] might [[Well|well]] have broken up into independent states
 
 like those of Europe. He seems to take it for granted that it was in all
 
@@ -68,7 +68,7 @@ however mildly we put it, for a certain importance in the world still
 
 attaching to Europe. There are some who find France as interesting as
 
-Florida; and who think they can learn as much about history and humanity
+Florida; and who think they can learn as much about [[history]] and humanity
 
 in the marble cities of the Mediterranean as in the wooden towns of the
 
@@ -78,7 +78,7 @@ destroyed; nor has its peculiar position in the culture of the world
 
 been destroyed. Nothing has yet appeared capable of completely eclipsing
 
-it, either in its extension in America or its imitation in Japan. But
+it, either in its extension in [[america|America]] or its [[Imitation|imitation]] in Japan. But
 
 the immediate point here is perhaps a more important one. There is now
 
@@ -92,7 +92,7 @@ was superior to that of the barbarians in Roman times. If Europe were
 
 united in modern times, it would probably be by the victory of one of
 
-its types over others, possibly over all the others. And when America
+its types over others, possibly over all the others. And when [[america|America]]
 
 was united finally in the nineteenth century, it _was_ by the victory of
 
@@ -100,21 +100,21 @@ one of its types over others. It is not yet certain that this victory
 
 was a good thing. It is not yet certain that the world will be better
 
-for the triumph of the North over the Southern traditions of America.
+for the triumph of the North over the Southern traditions of [[america|America]].
 
 It may yet turn out to be as unfortunate as a triumph of the North
 
-Germans over the Southern traditions of Germany and of Europe.
+Germans over the Southern traditions of [[Germany]] and of Europe.
 
 
 
 The men who will not face this fact are men whose minds are not free.
 
-They are more crushed by Progress than any pietists by Providence. They
+They are more crushed by Progress than any pietists by [[Providence]]. They
 
 are not allowed to question that whatever has recently happened was all
 
-for the best. Now Progress is Providence without God. That is, it is a
+for the best. Now Progress is [[Providence]] without God. That is, it is a
 
 theory that everything has always perpetually gone right by accident. It
 
@@ -124,7 +124,7 @@ more miraculous than a miracle. If there be no purpose, or if the
 
 purpose permits of human free will, then in either case it is almost
 
-insanely unlikely that there should be in history a period of steady and
+insanely unlikely that there should be in [[history]] a period of steady and
 
 uninterrupted progress; or in other words a period in which poor
 
@@ -146,11 +146,11 @@ tribes were mistakes. In the French the persecution of Catholicism by
 
 the politicians was a mistake, as they found out in the Great War; when
 
-the memory gave Irish or Italian Catholics an excuse for hanging back.
+the [[Memory|memory]] gave Irish or Italian Catholics an excuse for hanging back.
 
 In England the loss of agriculture and therefore of food-supply in war,
 
-and the power to stand a siege, was a mistake. And in America the
+and the power to stand a siege, was a mistake. And in [[america|America]] the
 
 introduction of the negroes was a mistake; but it may yet be found that
 
@@ -160,7 +160,7 @@ mistake.
 
 
 
-The reason of this doubt is in one word. We have not yet seen the end of
+The reason of this [[Doubt|doubt]] is in one word. We have not yet seen the end of
 
 the whole industrial experiment; and there are already signs of it
 
@@ -174,7 +174,7 @@ have already called in Capitalists to help them to crush the free
 
 peasants. The Capitalists are quite likely to call in Labour Leaders to
 
-whitewash their compromise as social reform or even Socialism. The
+whitewash their compromise as social [[Reform|reform]] or even Socialism. The
 
 cosmopolitan Jews who are the Communists in the East will not find it so
 
@@ -186,7 +186,7 @@ nominal Socialism. The Eastern Jews have already admitted that their
 
 Socialism is nominal. It was the Bolshevist leader himself who said,
 
-'Russia is again a Capitalist country.' But whoever makes the bargain,
+'[[Russia]] is again a Capitalist country.' But whoever makes the bargain,
 
 and whatever is its precise character, the substance of it will be
 

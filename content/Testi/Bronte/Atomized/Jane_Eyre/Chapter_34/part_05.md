@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 34 (part 5)"
+title: "[[Jane Eyre]] — Chapter 34 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-A fine spring shone round me, which I could not enjoy. Summer
-approached; Diana tried to cheer me: she said I looked ill, and wished
+A fine [[spring]] shone round me, which I could not enjoy. [[Summer]]
+approached; [[Diana]] tried to cheer me: she said I looked ill, and wished
 to accompany me to the sea-side. This St. John opposed; he said I did
 not want dissipation, I wanted employment; my present life was too
 purposeless, I required an aim; and, I suppose, by way of supplying
 deficiencies, he prolonged still further my lessons in Hindostanee, and
-grew more urgent in requiring their accomplishment: and I, like a fool,
+grew more urgent in requiring their accomplishment: and I, like a [[Fool|fool]],
 never thought of resisting him—I could not resist him.
 
 One day I had come to my studies in lower spirits than usual; the ebb
@@ -28,13 +28,13 @@ was occasioned by a poignantly felt disappointment. Hannah had told me
 in the morning there was a letter for me, and when I went down to take
 it, almost certain that the long-looked for tidings were vouchsafed me
 at last, I found only an unimportant note from Mr. Briggs on business.
-The bitter check had wrung from me some tears; and now, as I sat poring
+The bitter check had wrung from me some [[Tears|tears]]; and now, as I sat poring
 over the crabbed characters and flourishing tropes of an Indian scribe,
 my eyes filled again.
 
 St. John called me to his side to read; in attempting to do this my
 voice failed me: words were lost in sobs. He and I were the only
-occupants of the parlour: Diana was practising her music in the
+occupants of the parlour: [[Diana]] was practising her music in the
 drawing-room, Mary was gardening—it was a very fine May day, clear,
 sunny, and breezy. My companion expressed no surprise at this emotion,
 nor did he question me as to its cause; he only said—
@@ -44,16 +44,16 @@ while I smothered the paroxysm with all haste, he sat calm and patient,
 leaning on his desk, and looking like a physician watching with the eye
 of science an expected and fully understood crisis in a patient’s
 malady. Having stifled my sobs, wiped my eyes, and muttered something
-about not being very well that morning, I resumed my task, and
+about not being very [[Well|well]] that morning, I resumed my task, and
 succeeded in completing it. St. John put away my books and his, locked
 his desk, and said—
 
 “Now, Jane, you shall take a walk; and with me.”
 
-“I will call Diana and Mary.”
+“I will call [[Diana]] and Mary.”
 
 “No; I want only one companion this morning, and that must be you. Put
-on your things; go out by the kitchen-door: take the road towards the
+on your things; go out by the kitchen-door: take the [[Road|road]] towards the
 head of Marsh Glen: I will join you in a moment.”
 
 I know no medium: I never in my life have known any medium in my
@@ -68,7 +68,7 @@ with him.
 
 The breeze was from the west: it came over the hills, sweet with scents
 of heath and rush; the sky was of stainless blue; the stream descending
-the ravine, swelled with past spring rains, poured along plentiful and
+the ravine, swelled with past [[spring]] rains, poured along plentiful and
 clear, catching golden gleams from the sun, and sapphire tints from the
 firmament. As we advanced and left the track, we trod a soft turf,
 mossy fine and emerald green, minutely enamelled with a tiny white
@@ -81,8 +81,8 @@ of a battalion of rocks, guarding a sort of pass, beyond which the beck
 rushed down a waterfall; and where, still a little farther, the
 mountain shook off turf and flower, had only heath for raiment and crag
 for gem—where it exaggerated the wild to the savage, and exchanged the
-fresh for the frowning—where it guarded the forlorn hope of solitude,
-and a last refuge for silence.
+fresh for the frowning—where it guarded the forlorn [[Hope|hope]] of [[Solitude|solitude]],
+and a last refuge for [[Silence|silence]].
 
 I took a seat: St. John stood near me. He looked up the pass and down
 the hollow; his glance wandered away with the stream, and returned to
@@ -91,11 +91,11 @@ let the breeze stir his hair and kiss his brow. He seemed in communion
 with the genius of the haunt: with his eye he bade farewell to
 something.
 
-“And I shall see it again,” he said aloud, “in dreams when I sleep by
+“And I shall see it again,” he said aloud, “in [[Dreams|dreams]] when I [[Sleep|sleep]] by
 the Ganges: and again in a more remote hour—when another slumber
 overcomes me—on the shore of a darker stream!”
 
-Strange words of a strange love! An austere patriot’s passion for his
+Strange words of a strange [[Love|love]]! An austere patriot’s passion for his
 fatherland! He sat down; for half-an-hour we never spoke; neither he to
 me nor I to him: that interval past, he recommenced—
 
@@ -107,7 +107,7 @@ which sails on the 20th of June.”
 “Yes,” said he, “there is my glory and joy. I am the servant of an
 infallible Master. I am not going out under human guidance, subject to
 the defective laws and erring control of my feeble fellow-worms: my
-king, my lawgiver, my captain, is the All-perfect. It seems strange to
+[[King|king]], my lawgiver, my captain, is the All-perfect. It seems strange to
 me that all round me do not burn to enlist under the same banner,—to
 join in the same enterprise.”
 

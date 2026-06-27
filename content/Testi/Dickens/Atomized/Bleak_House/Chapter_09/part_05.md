@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 9 (part 5)"
+title: "Bleak [[house|House]] — Chapter 9 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -56,13 +56,13 @@ communicate in total confidence to me, whom you have never seen but
 once; but I should be very sorry to do you any injury.”
 
 “Thank you, miss. I’m sure of it—that’s quite sufficient.” All this
-time Mr. Guppy was either planing his forehead with his handkerchief
+[[Time|time]] Mr. Guppy was either planing his forehead with his handkerchief
 or tightly rubbing the palm of his left hand with the palm of his
 right. “If you would excuse my taking another glass of wine, miss, I
 think it might assist me in getting on without a continual choke that
 cannot fail to be mutually unpleasant.”
 
-He did so, and came back again. I took the opportunity of moving well
+He did so, and came back again. I took the opportunity of moving [[Well|well]]
 behind my table.
 
 “You wouldn’t allow me to offer you one, would you miss?” said Mr.
@@ -78,18 +78,18 @@ period. A rise of five has since taken place, and a further rise of
 five is guaranteed at the expiration of a term not exceeding twelve
 months from the present date. My mother has a little property, which
 takes the form of a small life annuity, upon which she lives in an
-independent though unassuming manner in the Old Street Road. She is
+independent though unassuming manner in the Old Street [[Road]]. She is
 eminently calculated for a mother-in-law. She never interferes, is
 all for peace, and her disposition easy. She has her failings—as who
 has not?—but I never knew her do it when company was present, at
-which time you may freely trust her with wines, spirits, or malt
+which [[Time|time]] you may freely trust her with wines, spirits, or malt
 liquors. My own abode is lodgings at Penton Place, Pentonville. It is
 lowly, but airy, open at the back, and considered one of the
 ’ealthiest outlets. Miss Summerson! In the mildest language, I adore
 you. Would you be so kind as to allow me (as I may say) to file a
 declaration—to make an offer!”
 
-Mr. Guppy went down on his knees. I was well behind my table and not
+Mr. Guppy went down on his knees. I was [[Well|well]] behind my table and not
 much frightened. I said, “Get up from that ridiculous position
 immediately, sir, or you will oblige me to break my implied promise
 and ring the bell!”
@@ -100,17 +100,17 @@ and ring the bell!”
 get up from the carpet directly and go and sit down at the table as
 you ought to do if you have any sense at all.”
 
-He looked piteously, but slowly rose and did so.
+He looked piteously, but slowly [[Rose|rose]] and did so.
 
 “Yet what a mockery it is, miss,” he said with his hand upon his
-heart and shaking his head at me in a melancholy manner over the
-tray, “to be stationed behind food at such a moment. The soul recoils
+heart and shaking his head at me in a [[Melancholy|melancholy]] manner over the
+tray, “to be stationed behind food at such a moment. The [[Soul|soul]] recoils
 from food at such a moment, miss.”
 
 “I beg you to conclude,” said I; “you have asked me to hear you out,
 and I beg you to conclude.”
 
-“I will, miss,” said Mr. Guppy. “As I love and honour, so likewise I
+“I will, miss,” said Mr. Guppy. “As I [[Love|love]] and [[Honour|honour]], so likewise I
 obey. Would that I could make thee the subject of that vow before the
 shrine!”
 
@@ -140,13 +140,13 @@ must have seen that I was struck with those charms on the day when I
 waited at the Whytorseller. I think you must have remarked that I
 could not forbear a tribute to those charms when I put up the steps
 of the ’ackney-coach. It was a feeble tribute to thee, but it was
-well meant. Thy image has ever since been fixed in my breast. I have
-walked up and down of an evening opposite Jellyby’s house only to
+[[Well|well]] meant. Thy image has ever since been fixed in my breast. I have
+walked up and down of an evening opposite Jellyby’s [[house]] only to
 look upon the bricks that once contained thee. This out of to-day,
 quite an unnecessary out so far as the attendance, which was its
-pretended object, went, was planned by me alone for thee alone. If I
+pretended object, went, was planned by me [[Alone|alone]] for thee [[Alone|alone]]. If I
 speak of interest, it is only to recommend myself and my respectful
-wretchedness. Love was before it, and is before it.”
+wretchedness. [[Love]] was before it, and is before it.”
 
 “I should be pained, Mr. Guppy,” said I, rising and putting my hand
 upon the bell-rope, “to do you or any one who was sincere the
@@ -154,7 +154,7 @@ injustice of slighting any honest feeling, however disagreeably
 expressed. If you have really meant to give me a proof of your good
 opinion, though ill-timed and misplaced, I feel that I ought to thank
 you. I have very little reason to be proud, and I am not proud. I
-hope,” I think I added, without very well knowing what I said, “that
+[[Hope|hope]],” I think I added, without very [[Well|well]] knowing what I said, “that
 you will now go away as if you had never been so exceedingly foolish
 and attend to Messrs. Kenge and Carboy’s business.”
 
@@ -165,11 +165,11 @@ ring. “This has been without prejudice?”
 occasion to do so.”
 
 “A quarter of a minute, miss! In case you should think better at any
-time, however distant—THAT’S no consequence, for my feelings can
+[[Time|time]], however distant—THAT’S no consequence, for my feelings can
 never alter—of anything I have said, particularly what might I not
 do, Mr. William Guppy, eighty-seven, Penton Place, or if removed, or
 dead (of blighted hopes or anything of that sort), care of Mrs.
-Guppy, three hundred and two, Old Street Road, will be sufficient.”
+Guppy, three hundred and two, Old Street [[Road]], will be sufficient.”
 
 I rang the bell, the servant came, and Mr. Guppy, laying his written
 card upon the table and making a dejected bow, departed. Raising my
@@ -184,4 +184,4 @@ upstairs to my own room, I surprised myself by beginning to laugh
 about it and then surprised myself still more by beginning to cry
 about it. In short, I was in a flutter for a little while and felt as
 if an old chord had been more coarsely touched than it ever had been
-since the days of the dear old doll, long buried in the garden.
+since the days of the dear old doll, long buried in the [[Garden|garden]].

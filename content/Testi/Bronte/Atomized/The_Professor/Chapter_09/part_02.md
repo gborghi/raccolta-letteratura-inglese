@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 8 (part 2)"
+title: "[[The Professor]] — Chapter 8 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-and if I had allowed myself time to dwell upon it, I should no doubt
+and if I had allowed myself [[Time|time]] to dwell upon it, I should no [[Doubt|doubt]]
 
 have cut there and then, rushed back to my chamber, and bolted myself
 
 in; but whenever a danger or a horror is veiled with uncertainty,
 
-the primary wish of the mind is to ascertain first the naked truth,
+the primary wish of the mind is to ascertain first the naked [[Truth|truth]],
 
 reserving the expedient of flight for the moment when its dread
 
@@ -52,15 +52,15 @@ fauteuil beside it. This was a woman, too, and, moreover, an old woman,
 
 and as fat and as rubicund as Madame Pelet was meagre and yellow; her
 
-attire was likewise very fine, and spring flowers of different hues
+attire was likewise very fine, and [[spring]] [[Flowers|flowers]] of different hues
 
-circled in a bright wreath the crown of her violet-coloured velvet
+circled in a bright wreath the [[Crown|crown]] of her violet-coloured velvet
 
 bonnet.
 
 
 
-I had only time to make these general observations when Madame Pelet,
+I had only [[Time|time]] to make these general observations when Madame Pelet,
 
 coming forward with what she intended should be a graceful and elastic
 
@@ -74,7 +74,7 @@ request of an insignificant person like me--will Monsieur complete his
 
 kindness by allowing me to present him to my dear friend Madame Reuter,
 
-who resides in the neighbouring house--the young ladies’ school.”
+who resides in the neighbouring [[house]]--the young ladies’ school.”
 
 
 
@@ -86,7 +86,7 @@ Madame Reuter placed herself at the table opposite to me.
 
 “How do you like Belgium, Monsieur?” asked she, in an accent of the
 
-broadest Bruxellois. I could now well distinguish the difference between
+broadest Bruxellois. I could now [[Well|well]] distinguish the difference between
 
 the fine and pure Parisian utterance of M. Pelet, for instance, and
 
@@ -96,11 +96,11 @@ wondered how so coarse and clumsy an old woman as the one before me
 
 should be at the head of a ladies’ seminary, which I had always heard
 
-spoken of in terms of high commendation. In truth there was something
+spoken of in terms of high commendation. In [[Truth|truth]] there was something
 
-to wonder at. Madame Reuter looked more like a joyous, free-living old
+to [[Wonder|wonder]] at. Madame Reuter looked more like a joyous, free-living old
 
-Flemish fermiere, or even a maitresse d’auberge, than a staid, grave,
+Flemish fermiere, or even a maitresse d’auberge, than a staid, [[Grave|grave]],
 
 rigid directrice de pensionnat. In general the continental, or at least
 
@@ -120,7 +120,7 @@ comprehend the motives of these two droll old creatures for inviting me
 
 to join them at their gouter, I at last fairly gave it up, and resigning
 
-myself to inevitable mystification, I sat and looked first at one, then
+myself to inevitable [[Mystification|mystification]], I sat and looked first at one, then
 
 at the other, taking care meantime to do justice to the confitures,
 
@@ -174,7 +174,7 @@ importance of the commission with which my dear daughter has entrusted
 
 me, for you are aware, Monsieur, that it is my daughter who directs the
 
-establishment in the next house?”
+establishment in the next [[house]]?”
 
 
 
@@ -186,7 +186,7 @@ pensionnat.
 
 
 
-“I! Oh, no! I manage the house and look after the servants, as my friend
+“I! Oh, no! I manage the [[house]] and look after the servants, as my friend
 
 Madame Pelet does for Monsieur her son--nothing more. Ah! you thought I
 
@@ -206,7 +206,7 @@ lessons, I am sure it is not because she cannot;” and I whipped out a
 
 white pocket-handkerchief and wafted it, with a French grace, past my
 
-nose, bowing at the same time.
+nose, bowing at the same [[Time|time]].
 
 
 
@@ -218,11 +218,11 @@ French, only laughed again.
 
 
 
-“You are a dangerous person, I fear,” said she; “if you can forge
+“You are a dangerous person, I [[Fear|fear]],” said she; “if you can forge
 
 compliments at that rate, Zoraide will positively be afraid of you; but
 
-if you are good, I will keep your secret, and not tell her how well you
+if you are good, I will keep your secret, and not tell her how [[Well|well]] you
 
 can flatter. Now, listen what sort of a proposal she makes to you. She
 

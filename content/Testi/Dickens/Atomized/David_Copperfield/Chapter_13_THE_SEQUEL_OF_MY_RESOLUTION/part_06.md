@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 6)"
+title: "[[David Copperfield]] — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -53,38 +53,38 @@ the baker.
 
 The room was as neat as Janet or my aunt. As I laid down my pen, a
 moment since, to think of it, the air from the sea came blowing
-in again, mixed with the perfume of the flowers; and I saw the
+in again, mixed with the perfume of the [[Flowers|flowers]]; and I saw the
 old-fashioned furniture brightly rubbed and polished, my aunt’s
-inviolable chair and table by the round green fan in the bow-window, the
+inviolable chair and table by the round green fan in the bow-[[Window|window]], the
 drugget-covered carpet, the cat, the kettle-holder, the two canaries,
-the old china, the punchbowl full of dried rose-leaves, the tall press
+the old china, the punchbowl full of dried [[Rose|rose]]-[[Leaves|leaves]], the tall press
 guarding all sorts of bottles and pots, and, wonderfully out of keeping
-with the rest, my dusty self upon the sofa, taking note of everything.
+with the rest, my dusty [[Self|self]] upon the sofa, taking note of everything.
 
 Janet had gone away to get the bath ready, when my aunt, to my great
 alarm, became in one moment rigid with indignation, and had hardly voice
 to cry out, ‘Janet! Donkeys!’
 
-Upon which, Janet came running up the stairs as if the house were in
+Upon which, Janet came running up the stairs as if the [[house]] were in
 flames, darted out on a little piece of green in front, and warned off
 two saddle-donkeys, lady-ridden, that had presumed to set hoof upon it;
-while my aunt, rushing out of the house, seized the bridle of a third
-animal laden with a bestriding child, turned him, led him forth from
+while my aunt, rushing out of the [[house]], seized the bridle of a third
+animal laden with a bestriding [[Child|child]], turned him, led him forth from
 those sacred precincts, and boxed the ears of the unlucky urchin in
 attendance who had dared to profane that hallowed ground.
 
 To this hour I don’t know whether my aunt had any lawful right of way
 over that patch of green; but she had settled it in her own mind that
 she had, and it was all the same to her. The one great outrage of her
-life, demanding to be constantly avenged, was the passage of a donkey
+life, demanding to be constantly avenged, was the passage of a [[donkey]]
 over that immaculate spot. In whatever occupation she was engaged,
 however interesting to her the conversation in which she was taking
-part, a donkey turned the current of her ideas in a moment, and she was
-upon him straight. Jugs of water, and watering-pots, were kept in secret
+part, a [[donkey]] turned the current of her ideas in a moment, and she was
+upon him straight. Jugs of [[Water|water]], and watering-pots, were kept in secret
 places ready to be discharged on the offending boys; sticks were laid
 in ambush behind the door; sallies were made at all hours; and
 incessant war prevailed. Perhaps this was an agreeable excitement to the
-donkey-boys; or perhaps the more sagacious of the donkeys, understanding
+[[donkey]]-boys; or perhaps the more sagacious of the donkeys, understanding
 how the case stood, delighted with constitutional obstinacy in coming
 that way. I only know that there were three alarms before the bath was
 ready; and that on the occasion of the last and most desperate of all,
@@ -92,7 +92,7 @@ I saw my aunt engage, single-handed, with a sandy-headed lad of fifteen,
 and bump his sandy head against her own gate, before he seemed to
 comprehend what was the matter. These interruptions were of the more
 ridiculous to me, because she was giving me broth out of a table-spoon
-at the time (having firmly persuaded herself that I was actually
+at the [[Time|time]] (having firmly persuaded herself that I was actually
 starving, and must receive nourishment at first in very small
 quantities), and, while my mouth was yet open to receive the spoon, she
 would put it back into the basin, cry ‘Janet! Donkeys!’ and go out to
@@ -107,12 +107,12 @@ great shawls. What sort of bundle I looked like, I don’t know, but I
 felt a very hot one. Feeling also very faint and drowsy, I soon lay down
 on the sofa again and fell asleep.
 
-It might have been a dream, originating in the fancy which had occupied
+It might have been [[A Dream|a dream]], originating in the fancy which had occupied
 my mind so long, but I awoke with the impression that my aunt had come
 and bent over me, and had put my hair away from my face, and laid my
 head more comfortably, and had then stood looking at me. The words,
 ‘Pretty fellow,’ or ‘Poor fellow,’ seemed to be in my ears, too; but
 certainly there was nothing else, when I awoke, to lead me to believe
-that they had been uttered by my aunt, who sat in the bow-window gazing
+that they had been uttered by my aunt, who sat in the bow-[[Window|window]] gazing
 at the sea from behind the green fan, which was mounted on a kind of
 swivel, and turned any way.

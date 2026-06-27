@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Ancient Mariner. Out of all this rather mysterious conversation
+[[Ancient Mariner]]. Out of all this rather mysterious conversation
 
 there did emerge at last a sort of admission that one particular
 
@@ -40,12 +40,12 @@ a gun hung on hooks above it, which seemed to be its only ornament.
 
 grim style. But it seems rather too grim a joke for a man to buy a
 
-packet of sandwiches when he is just going to commit suicide."
+packet of sandwiches when he is just going to commit [[suicide]]."
 "If you come to that," answered March, "it isn't very usual for a
 
 man to buy a packet of sandwiches when he's just outside the door of
 
-a grand house he's going to stop at."
+a grand [[house]] he's going to stop at."
 "No . . . no," repeated Fisher, almost mechanically; and then
 
 suddenly cocked his eye at his interlocutor with a much livelier
@@ -54,7 +54,7 @@ expression.
 "By Jove! that's an idea. You're perfectly right. And that suggests
 
 a very queer idea, doesn't it?"
-There was a silence, and then March started with irrational
+There was a [[Silence|silence]], and then March started with irrational
 
 nervousness as the door of the inn was flung open and another man
 
@@ -62,7 +62,7 @@ walked rapidly to the counter. He had struck it with a coin and
 
 called out for brandy before he saw the other two guests, who were
 
-sitting at a bare wooden table under the window. When he turned
+sitting at a bare wooden table under the [[Window|window]]. When he turned
 
 about with a rather wild stare, March had yet another unexpected
 
@@ -85,7 +85,7 @@ things about his meeting with the great political reformer, but he
 
 had never pictured him with a gun under his arm, drinking brandy in
 
-a public house.
+a public [[house]].
 "So you're stopping at Jink's, too," said Fisher. "Everybody seems
 
 to be at Jink's."
@@ -120,7 +120,7 @@ satisfactory state, if the talk had not been quite what his literary
 
 visitor had expected. Fisher, a few minutes afterward, slowly led
 
-the way out of the tavern and stood in the middle of the road,
+the way out of the tavern and stood in the middle of the [[Road|road]],
 
 looking down in the direction from which they had traveled. Then he
 
@@ -142,11 +142,11 @@ Then after a pause he added:
 
 rocks. So he was shot as he drove his car down this strip of
 
-straight road, and I should think somewhere about here. After that,
+straight [[Road|road]], and I should think somewhere about here. After that,
 
 of course, the car went straight on with nobody to stop or turn it.
 
-It's really a very cunning dodge in its way; for the body would be
+It's really a very cunning dodge in its way; for the [[Body|body]] would be
 
 found far away, and most people would say, as you do, that it was an
 
@@ -162,7 +162,7 @@ on all over the place all day; very likely he timed his shot so as
 
 to drown it in a number of others. Certainly he was a first-class
 
-criminal. And he was something else as well."
+criminal. And he was something else as [[Well|well]]."
 "What do you mean?" asked his companion, with a creepy premonition
 
 of something coming, he knew not why.
@@ -178,15 +178,15 @@ after him with the same idle perseverance, and found him staring
 
 through a gap in giant weeds and thorns at the flat face of a
 
-painted paling. From behind the paling rose the great gray columns
+painted paling. From behind the paling [[Rose|rose]] the great gray columns
 
 of a row of poplars, which filled the heavens above them with
 
-dark-green shadow and shook faintly in a wind which had sunk slowly
+dark-green [[Shadow|shadow]] and shook faintly in a [[Wind|wind]] which had sunk slowly
 
 into a breeze. The afternoon was already deepening into evening, and
 
-the titanic shadows of the poplars lengthened over a third of the
+the [[titanic]] shadows of the poplars lengthened over a third of the
 
 landscape.
 "Are you a first-class criminal?" asked Fisher, in a friendly tone.

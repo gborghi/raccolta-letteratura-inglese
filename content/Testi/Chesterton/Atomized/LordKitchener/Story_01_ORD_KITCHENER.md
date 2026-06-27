@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — ORD KITCHENER"
+title: "[[LordKitchener]] — ORD KITCHENER"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/LordKitchener-(Chesterton)"
@@ -26,7 +26,7 @@ tags:
 
 
 
-                                LONDON
+                                [[London|LONDON]]
 
 
 
@@ -48,4 +48,4 @@ By G. K. Chesterton
 
 
 
-_Photo by Elliott & Fry, Ltd., London._]
+_Photo by Elliott & Fry, Ltd., [[London]]._]

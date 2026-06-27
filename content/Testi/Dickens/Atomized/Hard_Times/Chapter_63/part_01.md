@@ -18,13 +18,13 @@ CHAPTER VIII
 EXPLOSION
 
 
-THE next morning was too bright a morning for sleep, and James Harthouse
-rose early, and sat in the pleasant bay window of his dressing-room,
+THE next morning was too bright a morning for [[Sleep|sleep]], and [[James Harthouse]]
+[[Rose|rose]] early, and sat in the pleasant bay [[Window|window]] of his dressing-room,
 smoking the rare tobacco that had had so wholesome an influence on his
 young friend.  Reposing in the sunlight, with the fragrance of his
 eastern pipe about him, and the dreamy smoke vanishing into the air, so
-rich and soft with summer odours, he reckoned up his advantages as an
-idle winner might count his gains.  He was not at all bored for the time,
+rich and soft with [[Summer|summer]] odours, he reckoned up his advantages as an
+idle winner might count his gains.  He was not at all bored for the [[Time|time]],
 and could give his mind to it.
 
 He had established a confidence with her, from which her husband was
@@ -42,15 +42,15 @@ lived, that he and the legion of whom he was one were designedly bad,
 than indifferent and purposeless.  It is the drifting icebergs setting
 with any current anywhere, that wreck the ships.
 
-When the Devil goeth about like a roaring lion, he goeth about in a shape
+When the Devil goeth about like a roaring [[Lion|lion]], he goeth about in a shape
 by which few but savages and hunters are attracted.  But, when he is
 trimmed, smoothed, and varnished, according to the mode; when he is
 aweary of vice, and aweary of virtue, used up as to brimstone, and used
 up as to bliss; then, whether he take to the serving out of red tape, or
-to the kindling of red fire, he is the very Devil.
+to the kindling of red [[Fire|fire]], he is the very Devil.
 
-So James Harthouse reclined in the window, indolently smoking, and
-reckoning up the steps he had taken on the road by which he happened to
+So [[James Harthouse]] reclined in the [[Window|window]], indolently smoking, and
+reckoning up the steps he had taken on the [[Road|road]] by which he happened to
 be travelling.  The end to which it led was before him, pretty plainly;
 but he troubled himself with no calculations about it.  What will be,
 will be.
@@ -64,14 +64,14 @@ interest for him again.
 
 He got through the day as much (or as little) to his own satisfaction, as
 was to be expected under the fatiguing circumstances; and came riding
-back at six o’clock.  There was a sweep of some half-mile between the
-lodge and the house, and he was riding along at a foot pace over the
+back at six o’[[Clock|clock]].  There was a sweep of some half-mile between the
+lodge and the [[house]], and he was riding along at a foot pace over the
 smooth gravel, once Nickits’s, when Mr. Bounderby burst out of the
-shrubbery, with such violence as to make his horse shy across the road.
+shrubbery, with such violence as to make his [[Horse|horse]] shy across the [[Road|road]].
 
 ‘Harthouse!’ cried Mr. Bounderby.  ‘Have you heard?’
 
-‘Heard what?’ said Harthouse, soothing his horse, and inwardly favouring
+‘Heard what?’ said Harthouse, soothing his [[Horse|horse]], and inwardly favouring
 Mr. Bounderby with no good wishes.
 
 ‘Then you _haven’t_ heard!’
@@ -79,18 +79,18 @@ Mr. Bounderby with no good wishes.
 ‘I have heard you, and so has this brute.  I have heard nothing else.’
 
 Mr. Bounderby, red and hot, planted himself in the centre of the path
-before the horse’s head, to explode his bombshell with more effect.
+before the [[Horse|horse]]’s head, to explode his bombshell with more effect.
 
 ‘The Bank’s robbed!’
 
 ‘You don’t mean it!’
 
-‘Robbed last night, sir.  Robbed in an extraordinary manner.  Robbed with
+‘Robbed last [[Night|night]], sir.  Robbed in an extraordinary manner.  Robbed with
 a false key.’
 
 ‘Of much?’
 
-Mr. Bounderby, in his desire to make the most of it, really seemed
+Mr. Bounderby, in his [[Desire|desire]] to make the most of it, really seemed
 mortified by being obliged to reply, ‘Why, no; not of very much.  But it
 might have been.’
 
@@ -103,9 +103,9 @@ circumstance.  I am surprised you don’t see it.’
 
 ‘My dear Bounderby,’ said James, dismounting, and giving his bridle to
 his servant, ‘I _do_ see it; and am as overcome as you can possibly
-desire me to be, by the spectacle afforded to my mental view.
-Nevertheless, I may be allowed, I hope, to congratulate you—which I do
-with all my soul, I assure you—on your not having sustained a greater
+[[Desire|desire]] me to be, by the spectacle afforded to my mental view.
+Nevertheless, I may be allowed, I [[Hope|hope]], to congratulate you—which I do
+with all my [[Soul|soul]], I assure you—on your not having sustained a greater
 loss.’
 
 ‘Thank’ee,’ replied Bounderby, in a short, ungracious manner.  ‘But I
@@ -121,12 +121,12 @@ disturbed.’
 
 Louisa had come up now, and Mrs. Sparsit, and Bitzer.
 
-‘Here’s Tom Gradgrind’s daughter knows pretty well what it might have
+‘Here’s [[Tom Gradgrind]]’s daughter knows pretty [[Well|well]] what it might have
 been, if you don’t,’ blustered Bounderby.  ‘Dropped, sir, as if she was
 shot when I told her!  Never knew her do such a thing before.  Does her
 credit, under the circumstances, in my opinion!’
 
-She still looked faint and pale.  James Harthouse begged her to take his
+She still looked faint and pale.  [[James Harthouse]] begged her to take his
 arm; and as they moved on very slowly, asked her how the robbery had been
 committed.
 
@@ -135,14 +135,14 @@ to Mrs. Sparsit.  ‘If you hadn’t been so mighty particular about the sum,
 I should have begun to tell you before.  You know this lady (for she _is_
 a lady), Mrs. Sparsit?’
 
-‘I have already had the honour—’
+‘I have already had the [[Honour|honour]]—’
 
-‘Very well.  And this young man, Bitzer, you saw him too on the same
+‘Very [[Well|well]].  And this young man, Bitzer, you saw him too on the same
 occasion?’  Mr. Harthouse inclined his head in assent, and Bitzer
 knuckled his forehead.
 
-‘Very well.  They live at the Bank.  You know they live at the Bank,
-perhaps?  Very well.  Yesterday afternoon, at the close of business
+‘Very [[Well|well]].  They live at the Bank.  You know they live at the Bank,
+perhaps?  Very [[Well|well]].  Yesterday afternoon, at the close of business
 hours, everything was put away as usual.  In the iron room that this
 young fellow sleeps outside of, there was never mind how much.  In the
 little safe in young Tom’s closet, the safe used for petty purposes,

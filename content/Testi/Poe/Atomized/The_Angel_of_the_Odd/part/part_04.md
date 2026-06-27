@@ -1,5 +1,5 @@
 ---
-title: "The Angel of the Odd (part 4)"
+title: "[[The Angel of the Odd]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Angel-of-the-Odd-(Poe)"
@@ -18,7 +18,7 @@ tags:
 
       admit. But my evil destiny attended me still. As I ran at full
 
-      speed, with my nose up in the atmosphere, and intent only upon
+      [[Speed|speed]], with my nose up in the atmosphere, and intent only upon
 
       the purloiner of my property, I suddenly perceived that my feet
 
@@ -38,11 +38,11 @@ tags:
 
       all the power of my lungs to make that predicament known to the
 
-      æronaut overhead. But for a long time I exerted myself in vain.
+      æronaut overhead. But for a long [[Time|time]] I exerted myself in vain.
 
-      Either the fool could not, or the villain would not perceive me.
+      Either the [[Fool|fool]] could not, or the [[Villain|villain]] would not perceive me.
 
-      Meantime the machine rapidly soared, while my strength even more
+      Meantime the [[Machine|machine]] rapidly soared, while my strength even more
 
       rapidly failed. I was soon upon the point of resigning myself to
 
@@ -52,7 +52,7 @@ tags:
 
       seemed to be lazily humming an opera air. Looking up, I perceived
 
-      the Angel of the Odd. He was leaning with his arms folded, over
+      [[The Angel of the Odd|the Angel of the Odd]]. He was leaning with his arms folded, over
 
       the rim of the car; and with a pipe in his mouth, at which he
 
@@ -92,13 +92,13 @@ tags:
 
       With these words he let fall a heavy bottle of Kirschenwasser
 
-      which, dropping precisely upon the crown of my head, caused me to
+      which, dropping precisely upon the [[Crown|crown]] of my head, caused me to
 
       imagine that my brains were entirely knocked out. Impressed with
 
       this idea, I was about to relinquish my hold and give up the
 
-      ghost with a good grace, when I was arrested by the cry of the
+      [[Ghost|ghost]] with a good grace, when I was arrested by the cry of the
 
       Angel, who bade me hold on.
 
@@ -178,7 +178,7 @@ tags:
 
 
 
-      “Go to der teuffel, ten!” roared the Angel of the Odd.
+      “Go to der teuffel, ten!” roared [[The Angel of the Odd|the Angel of the Odd]].
 
 
 
@@ -186,7 +186,7 @@ tags:
 
       guide-rope by which I was suspended, and as we then happened to
 
-      be precisely over my own house, (which, during my peregrinations,
+      be precisely over my own [[house]], (which, during my peregrinations,
 
       had been handsomely rebuilt,) it so occurred that I tumbled
 
@@ -198,11 +198,11 @@ tags:
 
       Upon coming to my senses, (for the fall had very thoroughly
 
-      stunned me,) I found it about four o’clock in the morning. I lay
+      stunned me,) I found it about four o’[[Clock|clock]] in the morning. I lay
 
       outstretched where I had fallen from the balloon. My head
 
-      grovelled in the ashes of an extinguished fire, while my feet
+      grovelled in the ashes of an extinguished [[Fire|fire]], while my feet
 
       reposed upon the wreck of a small table, overthrown, and amid the
 

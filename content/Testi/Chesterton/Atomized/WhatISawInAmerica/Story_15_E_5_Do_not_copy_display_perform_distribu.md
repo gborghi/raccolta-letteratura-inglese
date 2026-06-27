@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — E.5.  Do not copy, display, perform, distribute or redistribute this"
+title: "[[WhatISawInAmerica]] — E.5.  Do not copy, display, perform, distribute or redistribute this"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"

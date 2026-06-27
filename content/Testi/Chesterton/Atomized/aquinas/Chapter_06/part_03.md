@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 7 (part 3)"
+title: "[[aquinas]] — Chapter 7 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/aquinas-(Chesterton)"
@@ -14,22 +14,22 @@ tags:
 </nav>
 
 
-Thus, Aquinas insists very profoundly but very practically,
+Thus, [[aquinas|Aquinas]] insists very profoundly but very practically,
 that there instantly enters, with this idea of affirmation the idea
-of contradiction.  It is instantly apparent, even to the child,
+of contradiction.  It is instantly apparent, even to the [[Child|child]],
 that there cannot be both affirmation and contradiction.
-Whatever you call the thing he sees, a moon or a mirage or a sensation
+Whatever you call the thing he sees, a [[Moon|moon]] or a mirage or a sensation
 or a state of consciousness, when he sees it, he knows it is not true
 that he does not see it.  Or whatever you call what he is supposed
 to be doing, seeing or dreaming or being conscious of an impression,
 he knows that if he is doing it, it is a lie to say he is not doing it.
 Therefore there has already entered something beyond even the first
-fact of being; there follows it like its shadow the first fundamental
+fact of being; there follows it like its [[Shadow|shadow]] the first fundamental
 creed or commandment, that a thing cannot be and not be.
 Henceforth, in common or popular language, there is a false and true.
-I say in popular language, because Aquinas is nowhere more subtle
-than in pointing out that being is not strictly the same as truth;
-seeing truth must mean the appreciation of being by some mind capable
+I say in popular language, because [[aquinas|Aquinas]] is nowhere more subtle
+than in pointing out that being is not strictly the same as [[Truth|truth]];
+seeing [[Truth|truth]] must mean the appreciation of being by some mind capable
 of appreciating it.  But in a general sense there has entered that
 primeval world of pure actuality, the division and dilemma that brings
 the ultimate sort of war into the world; the everlasting duel between
@@ -42,7 +42,7 @@ The next step following on this acceptance of actuality or certainty,
 or whatever we call it in popular language, is much more difficult
 to explain in that language.  But it represents exactly the point
 at which nearly all other systems go wrong, and in taking the third
-step abandon the first.  Aquinas has affirmed that our first sense
+step abandon the first.  [[aquinas|Aquinas]] has affirmed that our first sense
 of fact is a fact; and he cannot go back on it without falsehood.
 But when we come to look at the fact or facts, as we know them,
 we observe that they have a rather queer character; which has made
@@ -54,15 +54,15 @@ At this point, as I say, many sages lose hold of the first principle
 of reality, which they would concede at first; and fall back on saying
 that there is nothing except change; or nothing except comparison;
 or nothing except flux; or in effect that there is nothing at all.
-Aquinas turns the whole argument the other way, keeping in line
-with his first realisation of reality.  There is no doubt about
+[[aquinas|Aquinas]] turns the whole argument the other way, keeping in line
+with his first realisation of reality.  There is no [[Doubt|doubt]] about
 the being of being, even if it does sometimes look like becoming;
 that is because what we see is not the fullness of being;
 or (to continue a sort of colloquial slang) we never see being
-being as much as it can.  Ice is melted into cold water and cold
-water is heated into hot water; it cannot be all three at once.
-But this does not make water unreal or even relative; it only
-means that its being is limited to being one thing at a time.
+being as much as it can.  Ice is melted into cold [[Water|water]] and cold
+[[Water|water]] is heated into hot [[Water|water]]; it cannot be all three at once.
+But this does not make [[Water|water]] unreal or even relative; it only
+means that its being is limited to being one thing at a [[Time|time]].
 But the fullness of being is everything that it can be; and without
 it the lesser or approximate forms of being cannot be explained
 as anything; unless they are explained away as nothing.
@@ -70,10 +70,10 @@ as anything; unless they are explained away as nothing.
 This crude outline can only at the best be historical rather
 than philosophical.  It is impossible to compress into it
 the metaphysical proofs of such an idea; especially in the medieval
-metaphysical language.  But this distinction in philosophy is
-tremendous as a turning point in history.  Most thinkers, on realising
-the apparent mutability of being, have really forgotten their own
-realisation of the being, and believed only in the mutability.
+metaphysical language.  But this distinction in [[philosophy]] is
+tremendous as a turning point in [[history]].  Most thinkers, on realising
+the apparent [[Mutability|mutability]] of being, have really forgotten their own
+realisation of the being, and believed only in the [[Mutability|mutability]].
 They cannot even say that a thing changes into another thing; for them
 there is no instant in the process at which it is a thing at all.
 It is only a change.  It would be more logical to call it
@@ -92,7 +92,7 @@ It is God.
 
 Historically, at least, it was round this sharp and crooked corner
 that all the sophists have followed each other while the great
-Schoolman went up the high road of experience and expansion;
+Schoolman went up the high [[Road|road]] of experience and expansion;
 to the beholding of cities, to the building of cities.  They all
 failed at this early stage because, in the words of the old game,
 they took away the number they first thought of.  The recognition

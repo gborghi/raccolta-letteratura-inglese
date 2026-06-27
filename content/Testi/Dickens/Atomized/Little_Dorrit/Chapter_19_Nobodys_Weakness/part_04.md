@@ -18,11 +18,11 @@ tags:
 less. But never mind, never mind! Whatever pleases you, pleases me.’
 
 Clennam could not help speculating, as he seated himself in his room
-by the fire, whether there might be in the breast of this honest,
+by the [[Fire|fire]], whether there might be in the breast of this honest,
 affectionate, and cordial Mr Meagles, any microscopic portion of
 the mustard-seed that had sprung up into the great tree of the
 Circumlocution Office. His curious sense of a general superiority to
-Daniel Doyce, which seemed to be founded, not so much on anything
+[[Daniel Doyce]], which seemed to be founded, not so much on anything
 in Doyce’s personal character as on the mere fact of his being an
 originator and a man out of the beaten track of other men, suggested the
 idea. It might have occupied him until he went down to dinner an hour
@@ -30,39 +30,39 @@ afterwards, if he had not had another question to consider, which
 had been in his mind so long ago as before he was in quarantine at
 Marseilles, and which had now returned to it, and was very urgent with
 it. No less a question than this: Whether he should allow himself to
-fall in love with Pet?
+fall in [[Love|love]] with Pet?
 
 He was twice her age. (He changed the leg he had crossed over the other,
 and tried the calculation again, but could not bring out the total at
-less.) He was twice her age. Well! He was young in appearance, young
+less.) He was twice her age. [[Well]]! He was young in appearance, young
 in health and strength, young in heart. A man was certainly not old
 at forty; and many men were not in circumstances to marry, or did not
-marry, until they had attained that time of life. On the other hand, the
+marry, until they had attained that [[Time|time]] of life. On the other hand, the
 question was, not what he thought of the point, but what she thought of
 it.
 
 He believed that Mr Meagles was disposed to entertain a ripe regard for
 him, and he knew that he had a sincere regard for Mr Meagles and his
 good wife. He could foresee that to relinquish this beautiful only
-child, of whom they were so fond, to any husband, would be a trial
-of their love which perhaps they never yet had had the fortitude to
+[[Child|child]], of whom they were so fond, to any husband, would be a trial
+of their [[Love|love]] which perhaps they never yet had had the fortitude to
 contemplate. But the more beautiful and winning and charming she, the
 nearer they must always be to the necessity of approaching it. And why
-not in his favour, as well as in another’s?
+not in his favour, as [[Well|well]] as in another’s?
 
 When he had got so far, it came again into his head that the question
 was, not what they thought of it, but what she thought of it.
 
-Arthur Clennam was a retiring man, with a sense of many deficiencies;
+[[Arthur Clennam]] was a retiring man, with a sense of many deficiencies;
 and he so exalted the merits of the beautiful Minnie in his mind, and
 depressed his own, that when he pinned himself to this point, his hopes
 began to fail him. He came to the final resolution, as he made himself
-ready for dinner, that he would not allow himself to fall in love with
+ready for dinner, that he would not allow himself to fall in [[Love|love]] with
 Pet.
 
 There were only five, at a round table, and it was very pleasant indeed.
 They had so many places and people to recall, and they were all so easy
-and cheerful together (Daniel Doyce either sitting out like an amused
+and cheerful together ([[Daniel Doyce]] either sitting out like an amused
 spectator at cards, or coming in with some shrewd little experiences of
 his own, when it happened to be to the purpose), that they might have
 been together twenty times, and not have known so much of one another.
@@ -86,7 +86,7 @@ An impatient glance from Tattycoram seemed, as Clennam saw it, to answer
 ‘With my eyes!’ But her only answer in words was: ‘I met her near the
 church.’
 
-‘What was she doing there I wonder!’ said Mr Meagles. ‘Not going to it,
+‘What was she doing there I [[Wonder|wonder]]!’ said Mr Meagles. ‘Not going to it,
 I should think.’
 
 ‘She had written to me first,’ said Tattycoram.
@@ -95,15 +95,15 @@ I should think.’
 some one else was touching me!’
 
 She said it in a quick involuntary way, but half playfully, and not more
-petulantly or disagreeably than a favourite child might have done, who
+petulantly or disagreeably than a favourite [[Child|child]] might have done, who
 laughed next moment. Tattycoram set her full red lips together, and
 crossed her arms upon her bosom.
 
 ‘Did you wish to know, sir,’ she said, looking at Mr Meagles, ‘what Miss
 Wade wrote to me about?’
 
-‘Well, Tattycoram,’ returned Mr Meagles, ‘since you ask the question,
-and we are all friends here, perhaps you may as well mention it, if you
+‘[[Well]], Tattycoram,’ returned Mr Meagles, ‘since you ask the question,
+and we are all friends here, perhaps you may as [[Well|well]] mention it, if you
 are so inclined.’
 
 ‘She knew, when we were travelling, where you lived,’ said Tattycoram,
@@ -111,7 +111,7 @@ are so inclined.’
 
 ‘Not quite in a good temper, Tattycoram?’ suggested Mr Meagles,
 shaking his head at the dark eyes with a quiet caution. ‘Take a little
-time--count five-and-twenty, Tattycoram.’
+[[Time|time]]--count five-and-twenty, Tattycoram.’
 
 She pressed her lips together again, and took a long deep breath.
 
@@ -138,9 +138,9 @@ curls, and Tattycoram went away.
 dumb-waiter on his right hand to twirl the sugar towards himself.
 ‘There’s a girl who might be lost and ruined, if she wasn’t among
 practical people. Mother and I know, solely from being practical, that
-there are times when that girl’s whole nature seems to roughen itself
+there are times when that girl’s whole [[Nature|nature]] seems to roughen itself
 against seeing us so bound up in Pet. No father and mother were bound
-up in her, poor soul. I don’t like to think of the way in which that
-unfortunate child, with all that passion and protest in her, feels when
-she hears the Fifth Commandment on a Sunday. I am always inclined to
+up in her, poor [[Soul|soul]]. I don’t like to think of the way in which that
+unfortunate [[Child|child]], with all that passion and protest in her, feels when
+she hears the Fifth Commandment on a [[Sunday]]. I am always inclined to
 call out, Church, Count five-and-twenty, Tattycoram.’

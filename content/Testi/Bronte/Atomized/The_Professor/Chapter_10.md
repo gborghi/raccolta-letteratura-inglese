@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 9"
+title: "[[The Professor]] — Chapter 9"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -34,11 +34,11 @@ afternoons in every week.
 
 When evening came I prepared to step over in order to seek a conference
 
-with Mademoiselle herself on the subject; I had not had time to pay the
+with Mademoiselle herself on the subject; I had not had [[Time|time]] to pay the
 
 visit before, having been all day closely occupied in class. I remember
 
-very well that before quitting my chamber, I held a brief debate with
+very [[Well|well]] that before quitting my chamber, I held a brief [[debate]] with
 
 myself as to whether I should change my ordinary attire for something
 
@@ -46,7 +46,7 @@ smarter. At last I concluded it would be a waste of labour. “Doubtless,”
 
  thought I, “she is some stiff old maid; for though the daughter of
 
-Madame Reuter, she may well number upwards of forty winters; besides, if
+Madame Reuter, she may [[Well|well]] number upwards of forty winters; besides, if
 
 it were otherwise, if she be both young and pretty, I am not handsome,
 
@@ -60,7 +60,7 @@ dark eyes under a large, square forehead, complexion destitute of bloom
 
 or attraction; something young, but not youthful, no object to win a
 
-lady’s love, no butt for the shafts of Cupid.
+lady’s [[Love|love]], no butt for the shafts of Cupid.
 
 
 
@@ -70,25 +70,25 @@ the bell; in another moment the door was opened, and within appeared a
 
 passage paved alternately with black and white marble; the walls were
 
-painted in imitation of marble also; and at the far end opened a glass
+painted in [[Imitation|imitation]] of marble also; and at the far end opened a glass
 
 door, through which I saw shrubs and a grass-plat, looking pleasant in
 
-the sunshine of the mild spring evening--for it was now the middle of
+the sunshine of the mild [[spring]] evening--for it was now the middle of
 
 April.
 
 
 
-This, then, was my first glimpse of the garden; but I had not time to
+This, then, was my first glimpse of the [[Garden|garden]]; but I had not [[Time|time]] to
 
 look long, the portress, after having answered in the affirmative
 
-my question as to whether her mistress was at home, opened the
+my question as to whether her mistress was at [[Home|home]], opened the
 
 folding-doors of a room to the left, and having ushered me in, closed
 
-them behind me. I found myself in a salon with a very well-painted,
+them behind me. I found myself in a salon with a very [[Well|well]]-painted,
 
 highly varnished floor; chairs and sofas covered with white draperies,
 
@@ -110,11 +110,11 @@ furnished, offered some relief to the eye. This room was carpeted, and
 
 therein was a piano, a couch, a chiffonniere--above all, it contained
 
-a lofty window with a crimson curtain, which, being undrawn, afforded
+a lofty [[Window|window]] with a crimson curtain, which, being undrawn, afforded
 
-another glimpse of the garden, through the large, clear panes, round
+another glimpse of the [[Garden|garden]], through the large, clear panes, round
 
-which some leaves of ivy, some tendrils of vine were trained.
+which some [[Leaves|leaves]] of ivy, some tendrils of vine were trained.
 
 
 
@@ -134,17 +134,17 @@ embarrassed--I commenced the conversation by remarking on the pleasant
 
 aspect of her little cabinet, and the advantage she had over M. Pelet in
 
-possessing a garden.
+possessing a [[Garden|garden]].
 
 
 
-“Yes,” she said, “she often thought so;” and added, “it is my garden,
+“Yes,” she said, “she often thought so;” and added, “it is my [[Garden|garden]],
 
-monsieur, which makes me retain this house, otherwise I should probably
+monsieur, which makes me retain this [[house]], otherwise I should probably
 
 have removed to larger and more commodious premises long since; but you
 
-see I could not take my garden with me, and I should scarcely find one
+see I could not take my [[Garden|garden]] with me, and I should scarcely find one
 
 so large and pleasant anywhere else in town.”
 
@@ -154,7 +154,7 @@ I approved her judgment.
 
 
 
-“But you have not seen it yet,” said she, rising; “come to the window
+“But you have not seen it yet,” said she, rising; “come to the [[Window|window]]
 
 and take a better view.” I followed her; she opened the sash, and
 
@@ -164,17 +164,17 @@ to me an unknown region. It was a long, not very broad strip of cultured
 
 ground, with an alley bordered by enormous old fruit trees down the
 
-middle; there was a sort of lawn, a parterre of rose-trees, some
+middle; there was a sort of lawn, a parterre of [[Rose|rose]]-trees, some
 
 flower-borders, and, on the far side, a thickly planted copse of lilacs,
 
 laburnums, and acacias. It looked pleasant, to me--very pleasant, so
 
-long a time had elapsed since I had seen a garden of any sort. But it
+long a [[Time|time]] had elapsed since I had seen a [[Garden|garden]] of any sort. But it
 
-was not only on Mdlle. Reuter’s garden that my eyes dwelt; when I had
+was not only on Mdlle. Reuter’s [[Garden|garden]] that my eyes dwelt; when I had
 
-taken a view of her well-trimmed beds and budding shrubberies, I allowed
+taken a view of her [[Well|well]]-trimmed beds and budding shrubberies, I allowed
 
 my glance to come back to herself, nor did I hastily withdraw it.
 
@@ -216,7 +216,7 @@ absolutely certain of the wisdom of the step she was about to take,
 
 because I was so young, and parents might possibly object to a professor
 
-like me for their daughters: “But it is often well to act on one’s own
+like me for their daughters: “But it is often [[Well|well]] to act on one’s own
 
 judgment,” said she, “and to lead parents, rather than be led by them.
 
@@ -248,7 +248,7 @@ nailed me down to five hundred francs per annum--not too much, but I
 
 agreed. Before the negotiation was completed, it began to grow a little
 
-dusk. I did not hasten it, for I liked well enough to sit and hear
+dusk. I did not hasten it, for I liked [[Well|well]] enough to sit and hear
 
 her talk; I was amused with the sort of business talent she displayed.
 
@@ -274,7 +274,7 @@ little, and, in the doubtful dusk, I could fancy her forehead as open
 
 as it was really elevated, her mouth touched with turns of sweetness
 
-as well as defined in lines of sense. When I rose to go, I held out
+as [[Well|well]] as defined in lines of sense. When I [[Rose|rose]] to go, I held out
 
 my hand, on purpose, though I knew it was contrary to the etiquette of
 
@@ -302,7 +302,7 @@ seemed a very pleasant place to me when I got out again into the street,
 
 and it appeared as if some cheerful, eventful, upward-tending career
 
-were even then opening to me, on that selfsame mild, still April night.
+were even then opening to me, on that selfsame mild, still April [[Night|night]].
 
 So impressionable a being is man, or at least such a man as I was in
 

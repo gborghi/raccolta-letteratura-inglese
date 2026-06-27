@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 15 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 15 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -24,9 +24,9 @@ That day was rainy like its predecessor; but towards evening it began
 
 to clear up a little, and the next morning was fair and promising. I
 
-was out on the hill with the reapers. A light wind swept over the corn,
+was out on the [[Hill|hill]] with the reapers. A light [[Wind|wind]] swept over the corn,
 
-and all nature laughed in the sunshine. The lark was rejoicing among
+and all [[Nature|nature]] laughed in the sunshine. The lark was rejoicing among
 
 the silvery floating clouds. The late rain had so sweetly freshened and
 
@@ -36,11 +36,11 @@ branch and blade, that not even the farmers could have the heart to
 
 blame it. But no ray of sunshine could reach my heart, no breeze could
 
-freshen it; nothing could fill the void my faith, and hope, and joy in
+freshen it; nothing could fill the void my [[Faith|faith]], and [[Hope|hope]], and joy in
 
-Helen Graham had left, or drive away the keen regrets and bitter dregs
+[[Helen]] Graham had left, or drive away the keen regrets and bitter dregs
 
-of lingering love that still oppressed it.
+of lingering [[Love|love]] that still oppressed it.
 
 
 
@@ -54,7 +54,7 @@ aroused me with the startling words,—“Mr. Markham, mamma wants you.”
 
 
 
-“Wants _me_, Arthur?”
+“Wants _me_, [[arthur|Arthur]]?”
 
 
 
@@ -100,19 +100,19 @@ I accompanied her through the gap.
 
 
 
-“Arthur, darling, run and gather those bluebells,” said she, pointing
+“[[arthur|Arthur]], darling, run and gather those bluebells,” said she, pointing
 
 to some that were gleaming at some distance under the hedge along which
 
-we walked. The child hesitated, as if unwilling to quit my side. “Go,
+we walked. The [[Child|child]] hesitated, as if unwilling to quit my side. “Go,
 
-love!” repeated she more urgently, and in a tone which, though not
+[[Love|love]]!” repeated she more urgently, and in a tone which, though not
 
 unkind, demanded prompt obedience, and obtained it.
 
 
 
-“Well, Mrs. Graham?” said I, calmly and coldly; for, though I saw she
+“[[Well]], Mrs. Graham?” said I, calmly and coldly; for, though I saw she
 
 was miserable, and pitied her, I felt glad to have it in my power to
 
@@ -128,7 +128,7 @@ and yet it made me smile.
 
 “I don’t ask the reason of this change, Gilbert,” said she, with bitter
 
-calmness: “I know it too well; but though I could see myself suspected
+calmness: “I know it too [[Well|well]]; but though I could see myself suspected
 
 and condemned by every one else, and bear it with calmness, I cannot
 
@@ -180,7 +180,7 @@ still beside her; and then she stood still, and cast one look behind.
 
 It was a look less expressive of anger than of bitter anguish and
 
-despair; but I immediately assumed an aspect of indifference, and
+[[Despair|despair]]; but I immediately assumed an aspect of indifference, and
 
 affected to be gazing carelessly around me, and I suppose she went on;
 
@@ -188,7 +188,7 @@ for after lingering awhile to see if she would come back or call, I
 
 ventured one more glance, and saw her a good way off, moving rapidly up
 
-the field, with little Arthur running by her side and apparently
+the field, with little [[arthur|Arthur]] running by her side and apparently
 
 talking as he went; but she kept her face averted from him, as if to
 
@@ -228,17 +228,17 @@ her once more, and fairly satisfy myself in what light to regard her,
 
 before we parted. Lost to me she was, for ever, of course; but still I
 
-could not bear to think that we had parted, for the last time, with so
+could not bear to think that we had parted, for the last [[Time|time]], with so
 
 much unkindness and misery on both sides. That last look of hers had
 
-sunk into my heart; I could not forget it. But what a fool I was! Had
+sunk into my heart; I could not forget it. But what a [[Fool|fool]] I was! Had
 
-she not deceived me, injured me—blighted my happiness for life? “Well,
+she not deceived me, injured me—blighted my happiness for life? “[[Well]],
 
 I’ll see her, however,” was my concluding resolve, “but not to-day:
 
-to-day and to-night she may think upon her sins, and be as miserable as
+to-day and to-[[Night|night]] she may think upon her sins, and be as miserable as
 
 she will: to-morrow I will see her once again, and know something more
 

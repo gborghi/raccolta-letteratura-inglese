@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-like a holiday at the seaside--a holiday where one talks natural history
+like a holiday at the seaside--a holiday where one talks natural [[history]]
 
-without taking it seriously. Some of the songs in this and other of his
+without taking it seriously. Some of the [[songs]] in this and other of his
 
-works are very real songs: notably, "When all the World is Young, Lad,"
+works are very real [[songs]]: notably, "When all the World is Young, Lad,"
 
-which comes very near to being the only true defence of marriage in the
+which comes very near to being the only true defence of [[Marriage|marriage]] in the
 
 controversies of the nineteenth century. But when all this is allowed,
 
@@ -58,7 +58,7 @@ liberal _bourgeois_ England of priggishness and provinciality. I mean,
 
 of course, Matthew Arnold. Against Mill's "liberty" and Carlyle's
 
-"strength" and Ruskin's "nature," he set up a new presence and entity
+"strength" and Ruskin's "[[Nature|nature]]," he set up a new presence and entity
 
 which he called "culture," the disinterested play of the mind through
 
@@ -76,7 +76,7 @@ only right but highly valuable. If we have said that Carlyle was a man
 
 that saw things, we may add that Arnold was chiefly valuable as a man
 
-who knew things. Well as he was endowed intellectually, his power came
+who knew things. [[Well]] as he was endowed intellectually, his power came
 
 more from information than intellect. He simply happened to know certain
 
@@ -90,7 +90,7 @@ the morning after Waterloo. He knew that England was then (as it is now)
 
 an oligarchical State, and that many great nations are not. He knew
 
-that a real democracy need not live and does not live in that perpetual
+that a real [[Democracy|democracy]] need not live and does not live in that perpetual
 
 panic about using the powers of the State, which possessed men like
 
@@ -98,7 +98,7 @@ Spencer and Cobden. He knew a rational minimum of culture and common
 
 courtesy could exist and did exist throughout large democracies. He knew
 
-the Catholic Church had been in history "the Church of the multitude":
+the [[Catholic Church]] had been in [[history]] "the Church of the multitude":
 
 he knew it was not a sect. He knew that great landlords are no more a
 
@@ -142,13 +142,13 @@ and even of the meaning of the words: but he thought a certain need in
 
 man would always be best satisfied by public worship and especially by
 
-the great religious literatures of the past. He would embalm the body
+the great religious literatures of the past. He would embalm the [[Body|body]]
 
-that it might often be revisited by the soul--or souls. Something of the
+that it might often be revisited by the [[Soul|soul]]--or souls. Something of the
 
 sort has been suggested by Dr. Coit and others of the ethical societies
 
-in our own time. But while Arnold would loosen the theological bonds of
+in our own [[Time|time]]. But while Arnold would loosen the theological bonds of
 
 the Church, he would not loosen the official bonds of the State. You
 
@@ -190,6 +190,6 @@ sentence, rather than risk ambiguity by abbreviation. His genius showed
 
 itself in turning this method of a laborious lucidity into a peculiarly
 
-exasperating form of satire and controversy. Newman's strength was in a
+exasperating form of [[Satire|satire]] and controversy. Newman's strength was in a
 
-sort of stifled passion, a dangerous patience of polite logic and then:
+sort of stifled passion, a dangerous patience of polite [[logic]] and then:

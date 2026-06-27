@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 1: desire to say as little as possible; I will discuss any other (part 21)"
+title: "[[ApprAndCritOfChDickens]] — Book 1: [[Desire|desire]] to say as little as possible; I will discuss any other (part 21)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -20,7 +20,7 @@ unconscious truths. The careless reader may miss them. The careless
 
 author almost certainly did miss them. But from them can be gathered an
 
-impression of real truth to life which is for the grave critics of
+impression of real [[Truth|truth]] to life which is for the [[Grave|grave]] critics of
 
 Dickens an almost unknown benefit, buried treasure. Here for instance is
 
@@ -34,7 +34,7 @@ to entertain a hatred bordering upon frenzy for the stolid, patient,
 
 respectful, and laborious Kit. Now in the formal plan of the story Mr.
 
-Chuckster is a fool, and Kit is almost a hero; at least he is a noble
+Chuckster is a [[Fool|fool]], and Kit is almost a [[Hero|hero]]; at least he is a noble
 
 boy. Yet unconsciously Dickens made the idiot Chuckster say something
 
@@ -62,7 +62,7 @@ snob. His natural dignity does include and is partly marred by that
 
 instinctive subservience to the employing class which has been the
 
-comfortable weakness of the whole English democracy, which has prevented
+comfortable weakness of the whole English [[democracy]], which has prevented
 
 their making any revolution for the last two hundred years. Kit would
 
@@ -74,7 +74,7 @@ the goodness. All this is the English popular evil which goes along with
 
 the English popular virtues of geniality, of homeliness, tolerance and
 
-strong humour, hope and an enormous appetite for a hand-to-mouth
+strong [[Humour|humour]], [[Hope|hope]] and an enormous appetite for a hand-to-mouth
 
 happiness. The scene in which Kit takes his family to the theatre is a
 
@@ -92,13 +92,13 @@ Kit is a splendid and final symbol. But amid all his masculine and
 
 English virtue, he has this weak touch of meekness, or acceptance of the
 
-powers that be. It is a sound touch; it is a real truth about Kit. But
+powers that be. It is a sound touch; it is a real [[Truth|truth]] about Kit. But
 
 Dickens did not know it. Mr. Chuckster did.
 
 
 
-Dickens's stories taken as a whole have more artistic unity than appears
+Dickens's stories taken as a whole have more artistic [[unity]] than appears
 
 at the first glance. It is the immediate impulse of a modern critic to
 
@@ -106,9 +106,9 @@ dismiss them as mere disorderly scrap-books with very brilliant scraps.
 
 But this is not quite so true as it looks. In one of Dickens's novels
 
-there is generally no particular unity of construction; but there is
+there is generally no particular [[unity]] of construction; but there is
 
-often a considerable unity of sentiment and atmosphere. Things are
+often a considerable [[unity]] of sentiment and atmosphere. Things are
 
 irrelevant, but not somehow inappropriate. The whole book is written
 
@@ -116,7 +116,7 @@ carelessly; but the whole book is generally written in one mood. To take
 
 a rude parallel from the other arts, we may say that there is not much
 
-unity of form, but there is much unity of colour. In most of the novels
+[[unity]] of form, but there is much [[unity]] of colour. In most of the novels
 
 this can be seen. _Nicholas Nickleby_, as I have remarked, is full of a
 
@@ -134,9 +134,9 @@ way, the central story of _Oliver Twist_ is sombre; and hence even its
 
 comic character is almost sombre; at least he is too ugly to be merely
 
-amusing. Mr. Bumble is in some ways a terrible grotesque; his apoplectic
+amusing. Mr. Bumble is in some ways a terrible [[Grotesque|grotesque]]; his apoplectic
 
-visage recalls the "fire-red Cherubimme's face," which added such horror
+visage recalls the "[[Fire|fire]]-red Cherubimme's face," which added such horror
 
 to the height and stature of Chaucer's Sompnour. In both these cases
 
@@ -148,7 +148,7 @@ certainly be seen best in _The Old Curiosity Shop_.
 
 
 
-The curiosity shop itself was a lumber of grotesque and sinister things,
+The curiosity shop itself was a lumber of [[Grotesque|grotesque]] and sinister things,
 
 outlandish weapons, twisted and diabolic decorations. The comic
 
@@ -158,11 +158,11 @@ shop. Quilp might be a gargoyle. He might be some sort of devilish
 
 door-knocker, dropped down and crawling about the pavement. The same
 
-applies to the sinister and really terrifying stiffness of Sally Brass.
+applies to the sinister and really terrifying stiffness of [[Sally Brass]].
 
-She is like some old staring figure cut out of wood. Sampson Brass, her
+She is like some old staring figure cut out of wood. [[Sampson Brass]], her
 
-brother, again is a grotesque in the same rather inhuman manner; he is
+brother, again is a [[Grotesque|grotesque]] in the same rather inhuman manner; he is
 
 especially himself when he comes in with the green shade over his eye.
 

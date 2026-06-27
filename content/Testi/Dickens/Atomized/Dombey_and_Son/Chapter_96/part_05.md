@@ -20,18 +20,18 @@ who should J. B. mean by Joe, but old Joe Bagstock—Joseph—your
 slave—Joe, Ma’am? Here! Here’s the man! Here are the Bagstock bellows,
 Ma’am!” cried the Major, striking himself a sounding blow on the chest.
 
-“My dearest Edith—Grangeby—it’s most trordinry thing,” said Cleopatra,
+“My dearest Edith—Grangeby—it’s most trordinry thing,” said [[Cleopatra]],
 pettishly, “that Major—”
 
 “Bagstock! J. B.!” cried the Major, seeing that she faltered for his
 name.
 
-“Well, it don’t matter,” said Cleopatra. “Edith, my love, you know I
+“[[Well]], it don’t matter,” said [[Cleopatra]]. “Edith, my [[Love|love]], you know I
 never could remember names—what was it? oh!—most trordinry thing that
 so many people want to come down to see me. I’m not going for long. I’m
 coming back. Surely they can wait, till I come back!”
 
-Cleopatra looked all round the table as she said it, and appeared very
+[[Cleopatra]] looked all round the table as she said it, and appeared very
 uneasy.
 
 “I won’t have visitors—really don’t want visitors,” she said; “little
@@ -50,11 +50,11 @@ received these directions with becoming deference, and gave his
 guarantee for their execution; but when he withdrew a pace or two
 behind her, it appeared as if he couldn’t help looking strangely at the
 Major, who couldn’t help looking strangely at Mr Dombey, who couldn’t
-help looking strangely at Cleopatra, who couldn’t help nodding her
+help looking strangely at [[Cleopatra]], who couldn’t help nodding her
 bonnet over one eye, and rattling her knife and fork upon her plate in
 using them, as if she were playing castanets.
 
-Edith alone never lifted her eyes to any face at the table, and never
+Edith [[Alone|alone]] never lifted her eyes to any face at the table, and never
 seemed dismayed by anything her mother said or did. She listened to her
 disjointed talk, or at least, turned her head towards her when
 addressed; replied in a few low words when necessary; and sometimes
@@ -64,7 +64,7 @@ however unsteady in other things, was constant in this—that she was
 always observant of her. She would look at the beautiful face, in its
 marble stillness and severity, now with a kind of fearful admiration;
 now in a giggling foolish effort to move it to a smile; now with
-capricious tears and jealous shakings of her head, as imagining herself
+capricious [[Tears|tears]] and jealous shakings of her head, as imagining herself
 neglected by it; always with an attraction towards it, that never
 fluctuated like her other ideas, but had constant possession of her.
 From Edith she would sometimes look at Florence, and back again at
@@ -74,26 +74,26 @@ it she seemed forced to come, although it never sought hers unless
 sought, or troubled her with one single glance.
 
 The breakfast concluded, Mrs Skewton, affecting to lean girlishly upon
-the Major’s arm, but heavily supported on the other side by Flowers the
+the Major’s arm, but heavily supported on the other side by [[Flowers]] the
 maid, and propped up behind by Withers the page, was conducted to the
 carriage, which was to take her, Florence, and Edith to Brighton.
 
 “And is Joseph absolutely banished?” said the Major, thrusting in his
-purple face over the steps. “Damme, Ma’am, is Cleopatra so hard-hearted
+purple face over the steps. “Damme, Ma’am, is [[Cleopatra]] so hard-hearted
 as to forbid her faithful Antony Bagstock to approach the presence?”
 
-“Go along!” said Cleopatra, “I can’t bear you. You shall see me when I
+“Go along!” said [[Cleopatra]], “I can’t bear you. You shall see me when I
 come back, if you are very good.”
 
-“Tell Joseph, he may live in hope, Ma’am,” said the Major; “or he’ll
-die in despair.”
+“Tell Joseph, he may live in [[Hope|hope]], Ma’am,” said the Major; “or he’ll
+die in [[Despair|despair]].”
 
-Cleopatra shuddered, and leaned back. “Edith, my dear,” she said. “Tell
+[[Cleopatra]] shuddered, and leaned back. “Edith, my dear,” she said. “Tell
 him—”
 
 “What?”
 
-“Such dreadful words,” said Cleopatra. “He uses such dreadful words!”
+“Such dreadful words,” said [[Cleopatra]]. “He uses such dreadful words!”
 
 Edith signed to him to retire, gave the word to go on, and left the
 objectionable Major to Mr Dombey. To whom he returned, whistling.
@@ -105,19 +105,19 @@ Queer Street.”
 “What do you mean, Major?” inquired Mr Dombey.
 
 “I mean to say, Dombey,” returned the Major, “that you’ll soon be an
-orphan-in-law.”
+[[Orphan|orphan]]-in-law.”
 
 Mr Dombey appeared to relish this waggish description of himself so
-very little, that the Major wound up with the horse’s cough, as an
+very little, that the Major wound up with the [[Horse|horse]]’s cough, as an
 expression of gravity.
 
 “Damme, Sir,” said the Major, “there is no use in disguising a fact.
-Joe is blunt, Sir. That’s his nature. If you take old Josh at all, you
+Joe is blunt, Sir. That’s his [[Nature|nature]]. If you take old Josh at all, you
 take him as you find him; and a devilish rusty, old rasper, of a
 close-toothed, J. B. file, you do find him. Dombey,” said the Major,
 “your wife’s mother is on the move, Sir.”
 
-“I fear,” returned Mr Dombey, with much philosophy, “that Mrs Skewton
+“I [[Fear|fear]],” returned Mr Dombey, with much [[philosophy]], “that Mrs Skewton
 is shaken.”
 
 “Shaken, Dombey!” said the Major. “Smashed!”

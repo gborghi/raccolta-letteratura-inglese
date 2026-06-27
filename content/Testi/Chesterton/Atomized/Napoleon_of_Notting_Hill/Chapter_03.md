@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting Hill — Chapter 3"
+title: "Napoleon of Notting [[Hill]] — Chapter 3"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/Napoleon-of-Notting-Hill-(Chesterton)"
@@ -16,13 +16,13 @@ tags:
 
 CHAPTER III
 
-THE HILL OF HUMOUR
+THE [[Hill|HILL]] OF [[Humour|HUMOUR]]
 
-"IN a little square garden of yellow roses, beside the sea,"
-said Auberon Quin, "there was a Nonconformist minister who
+"IN a little square [[Garden|garden]] of yellow roses, beside the sea,"
+said [[Auberon Quin]], "there was a Nonconformist minister who
 had never been to Wimbledon.  His family did not understand
 his sorrow or the strange look in his eyes.  But one day they
-repented their neglect, for they heard that a body had been
+repented their neglect, for they heard that a [[Body|body]] had been
 found on the shore, battered, but wearing patent leather boots.
 As it happened, it turned out not to be the minister at all.
 But in the dead man's pocket there was a return ticket to Maidstone."
@@ -31,15 +31,15 @@ There was a short pause as Quin and his friends Barker and Lambert
 went swinging on through the slushy grass of Kensington Gardens.
 Then Auberon resumed.
 
-"That story," he said reverently, "is the test of humour."
+"That story," he said reverently, "is the test of [[Humour|humour]]."
 
 They walked on further and faster, wading through higher grass
 as they began to climb a slope.
 
 "I perceive," continued Auberon, "that you have passed the test,
 and consider the anecdote excruciatingly funny; since you say nothing.
-Only coarse humour is received with pot-house applause.
-The great anecdote is received in silence, like a benediction.
+Only coarse [[Humour|humour]] is received with pot-[[house]] applause.
+The great anecdote is received in [[Silence|silence]], like a benediction.
 You felt pretty benedicted, didn't you, Barker?"
 
 "I saw the point," said Barker, somewhat loftily.
@@ -66,30 +66,30 @@ But in her grey-green hollows, she knew nothing of this:
 she didn't know that there was a Boat Race.  Also she did not
 know that she had an uncle.  She had heard of nobody at all,
 except of George the First, of whom she had heard (I know not why),
-and in whose historical memory she put her simple trust.
-And by and by, in God's good time, it was discovered that this uncle
+and in whose historical [[Memory|memory]] she put her simple trust.
+And by and by, in God's good [[Time|time]], it was discovered that this uncle
 of hers was not really her uncle, and they came and told her so.
-She smiled through her tears, and said only, 'Virtue is its
+She smiled through her [[Tears|tears]], and said only, 'Virtue is its
 own reward.'  "
 
-Again there was a silence, and then Lambert said:
+Again there was a [[Silence|silence]], and then Lambert said:
 
 "It seems a bit mysterious."
 
-"Mysterious!" cried the other.  "The true humour is mysterious.
+"Mysterious!" cried the other.  "The true [[Humour|humour]] is mysterious.
 Do you not realize the chief incident of the nineteenth
 and twentieth centuries?"
 
 "And what's that?" asked Lambert, shortly.
 
 "It is very simple," replied the other.  "Hitherto it was the ruin
-of a joke that people did not see it.  Now it is the sublime
-victory of a joke that people do not see it.  Humour, my friends,
+of a joke that people did not see it.  Now it is the [[Sublime|sublime]]
+victory of a joke that people do not see it.  [[Humour]], my friends,
 is the one sanctity remaining to mankind.  It is the one thing you
 are thoroughly afraid of.  Look at that tree."
 
 His interlocutors looked vaguely towards a beech that leant out
-towards them from the ridge of the hill.
+towards them from the ridge of the [[Hill|hill]].
 
 "If," said Mr. Quin, "I were to say that you did not see the great
 truths of science exhibited by that tree, though they stared
@@ -102,19 +102,19 @@ If I were to say that you were guilty of the supreme blasphemy
 of looking at that tree and not seeing in it a new religion,
 a special revelation of God, you would simply say I was a mystic,
 and think no more about me.  But if...and he lifted a pontifical
-hand...if I say that you cannot see the humour of that tree,
-and that I see the humour of it...my God! you will roll about
+hand...if I say that you cannot see the [[Humour|humour]] of that tree,
+and that I see the [[Humour|humour]] of it...my God! you will roll about
 at my feet."
 
 He paused a moment, and then resumed.
 
-"Yes; a sense of humour, a weird and delicate sense of humour,
+"Yes; a sense of [[Humour|humour]], a weird and delicate sense of [[Humour|humour]],
 is the new religion of mankind!  It is towards that men will strain
 themselves with the asceticism of saints.  Exercises, spiritual exercises,
-will be set in it.  It will be asked, 'Can you see the humour of this
-iron railing?' or 'Can you see the humour of this field of corn?
-Can you see the humour of the stars?  Can you see the humour
-of the sunsets?'  How often I have laughed myself to sleep over
+will be set in it.  It will be asked, 'Can you see the [[Humour|humour]] of this
+iron railing?' or 'Can you see the [[Humour|humour]] of this field of corn?
+Can you see the [[Humour|humour]] of the [[Stars|stars]]?  Can you see the [[Humour|humour]]
+of the sunsets?'  How often I have laughed myself to [[Sleep|sleep]] over
 a violet sunset."
 
 "Quite so," said Mr. Barker, with an intelligent embarrassment.
@@ -130,16 +130,16 @@ in a defiant attitude.
 "Auberon," he said, "chuck it.  I won't stand it.  It's all bosh."
 
 Both men stared at him, for there was something very explosive about
-the words, as if they had been corked up painfully for a long time.
+the words, as if they had been corked up painfully for a long [[Time|time]].
 
 "You have," began Quin, "no..."
 
 "I don't care a curse," said Lambert, violently, "whether I have 'a
-delicate sense of humour' or not.  I won't stand it.  It's all a
+delicate sense of [[Humour|humour]]' or not.  I won't stand it.  It's all a
 confounded fraud.  There's no joke in those infernal tales at all.
-You know there isn't as well as I do."
+You know there isn't as [[Well|well]] as I do."
 
-"Well," replied Quin, slowly, "it is true that I, with my rather
+"[[Well]]," replied Quin, slowly, "it is true that I, with my rather
 gradual mental processes, did not see any joke in them.
 But the finer sense of Barker perceived it."
 
@@ -151,33 +151,33 @@ The man who sits on his hat in a pantomime is a long sight funnier
 than you are."
 
 Quin regarded him steadily.  They had reached the top of the ridge
-and the wind struck their faces.
+and the [[Wind|wind]] struck their faces.
 
 "Lambert," said Auberon, "you are a great and good man, though I'm
 hanged if you look it.  You are more.  You are a great revolutionist
 or deliverer of the world, and I look forward to seeing you
 carved in marble between Luther and Danton, if possible in your
 present attitude, the hat slightly on one side.  I said as I came
-up the hill that the new humour was the last of the religions.
+up the [[Hill|hill]] that the new [[Humour|humour]] was the last of the religions.
 You have made it the last of the superstitions.  But let me give you
 a very serious warning.  Be careful how you ask me to do anything outre,
 to imitate the man in the pantomime, and to sit on my hat.  Because I
-am a man whose soul has been emptied of all pleasures but folly.
+am a man whose [[Soul|soul]] has been emptied of all pleasures but folly.
 And for twopence I'd do it."
 
 "Do it then," said Lambert, swinging his stick impatiently.
 "It would be funnier than the bosh you and Barker talk."
 
-Quin, standing on the top of the hill, stretched his hand out towards
+Quin, standing on the top of the [[Hill|hill]], stretched his hand out towards
 the main avenue of Kensington Gardens.
 
 "Two hundred yards away," he said, "are all your fashionable acquaintances
 with nothing on earth to do but to stare at each other and at us.
 We are standing upon an elevation under the open sky, a peak as it
-were of fantasy, a Sinai of humour.  We are in a great pulpit
-or platform, lit up with sunlight, and half London can see us.
-Be careful how you suggest things to me.  For there is in me a madness
-which goes beyond martyrdom, the madness of an utterly idle man."
+were of fantasy, a Sinai of [[Humour|humour]].  We are in a great pulpit
+or platform, lit up with sunlight, and half [[London]] can see us.
+Be careful how you suggest things to me.  For there is in me a [[Madness|madness]]
+which goes beyond [[Martyrdom|martyrdom]], the [[Madness|madness]] of an utterly idle man."
 
 "I don't know what you are talking about," said Lambert, contemptuously.
 "I only know I'd rather you stood on your silly head,
@@ -187,8 +187,8 @@ than talked so much."
 but he was too late.  Faces from, all the benches and avenues were
 turned in their direction.  Groups stopped and small crowds collected;
 and the sharp sunlight picked out the whole scene in blue,
-green and black, like a picture in a child's toy-book. And on
-the top of the small hill Mr. Auberon Quin stood with considerable
+green and black, like a picture in a [[Child|child]]'s toy-book. And on
+the top of the small [[Hill|hill]] Mr. [[Auberon Quin]] stood with considerable
 athletic neatness upon his head, and waved his patent-leather boots
 in the air.
 
@@ -202,11 +202,11 @@ Auberon did so with a bound, and flinging his hat higher than the trees,
 proceeded to hop about on one leg with a serious expression.
 Barker stamped wildly.
 
-"Oh, let's get home, Barker, and leave him," said Lambert;
+"Oh, let's get [[Home|home]], Barker, and leave him," said Lambert;
 "some of your proper and correct police will look after him.
 Here they come!"
 
-Two grave-looking men in quiet uniforms came up the hill towards them.
+Two [[Grave|grave]]-looking men in quiet uniforms came up the [[Hill|hill]] towards them.
 One held a paper in his hand.
 
 "There he is, officer," said Lambert, cheerfully; "we ain't
@@ -216,12 +216,12 @@ The officer looked at the capering Mr. Quin with a quiet eye.
 
 "We have not come, gentlemen," he said, "about what I think you are
 alluding to.  We have come from head-quarters to announce the selection
-of His Majesty the King.  It is the rule, inherited from the old regime,
+of His Majesty the [[King]].  It is the rule, inherited from the old regime,
 that the news should be brought to the new Sovereign immediately,
 wherever he is; so we have followed you across Kensington Gardens."
 
 Barker's eyes were blazing in his pale face.  He was consumed
-with ambition throughout his life.  With a certain dull magnanimity
+with [[Ambition|ambition]] throughout his life.  With a certain dull magnanimity
 of the intellect he had really believed in the chance method of
 selecting despots.  But this sudden suggestion, that the selection
 might have fallen upon him, unnerved him with pleasure.
@@ -229,10 +229,10 @@ might have fallen upon him, unnerved him with pleasure.
 "Which of us," he began, and the respectful official interrupted him.
 
 "Not you, sir, I am sorry to say.  If I may be permitted to say so,
-we know your services to the Government, and should be very thankful
+we know your services to the [[government|Government]], and should be very thankful
 if it were.  The choice has fallen..."
 
-"God bless my soul!" said Lambert, jumping back two paces.  "Not me.
+"God bless my [[Soul|soul]]!" said Lambert, jumping back two paces.  "Not me.
 Don't say I'm autocrat of all the Russias."
 
 "No, sir," said the officer, with a slight cough and a glance
@@ -241,7 +241,7 @@ his legs and making a noise like a cow; "the gentleman whom we
 have to congratulate seems at the moment...er...er...occupied."
 
 "Not Quin!" shrieked Barker, rushing up to him; "it can't be.
-Auberon, for God's sake pull yourself together.  You've been made King!"
+Auberon, for God's sake pull yourself together.  You've been made [[King]]!"
 
 With his head still upside down between his legs, Mr. Quin
 answered modestly:
@@ -249,8 +249,8 @@ answered modestly:
 "I am not worthy.  I cannot reasonably claim to equal the great
 men who have previously swayed the sceptre of Britain.
 Perhaps the only peculiarity that I can claim is that I am
-probably the first monarch that ever spoke out his soul to
-the people of England with his head and body in this position.
+probably the first monarch that ever spoke out his [[Soul|soul]] to
+the people of England with his head and [[Body|body]] in this position.
 This may in some sense give me, to quote a poem that I wrote
 in my youth:
 
@@ -262,31 +262,31 @@ in my youth:
 Lambert and Barker made a kind of rush at him.
 
 "Don't you understand?" cried Lambert.  "It's not a joke.
-They've really made you King.  By gosh! they must have rum taste."
+They've really made you [[King]].  By gosh! they must have rum taste."
 
 "The great Bishops of the Middle Ages," said Quin, kicking his
 legs in the air, as he was dragged, up more or less upside down,
-"were in the habit of refusing the honour of election three times
+"were in the habit of refusing the [[Honour|honour]] of election three times
 and then accepting it.  A mere matter of detail separates me from
 those great men.  I will accept the post three times and refuse
 it afterwards.  Oh!  I will toil for you, my faithful people!
-You shall have a banquet of humour."
+You shall have a banquet of [[Humour|humour]]."
 
-By this time he had been landed the right way up, and the two
+By this [[Time|time]] he had been landed the right way up, and the two
 men were still trying in vain to impress him with the gravity
 of the situation.
 
 "Did you not tell me, Wilfrid Lambert," he said, "that I should be
-of more public value if I adopted a more popular form of humour?
-And when should a popular form of humour be more firmly riveted upon
+of more public value if I adopted a more popular form of [[Humour|humour]]?
+And when should a popular form of [[Humour|humour]] be more firmly riveted upon
 me than now, when I have become the darling of a whole people?
 Officer," he continued, addressing the startled messenger,
-"are there no ceremonies to celebrate my entry into the city?"
+"are there no ceremonies to celebrate my entry into the [[City|city]]?"
 
 "Ceremonies," began the official, with embarrassment, "have been
-more or less neglected for some little time, and..."
+more or less neglected for some little [[Time|time]], and..."
 
-Auberon Quin began gradually to take off his coat.
+[[Auberon Quin]] began gradually to take off his coat.
 
 "All ceremony," he said, "consists in the reversal of the obvious.
 Thus men, when they wish to be priests or judges, dress up like women.
@@ -295,12 +295,12 @@ Kindly help me on with this coat."  And he held it out.
 "But, your Majesty," said the officer, after a moment's bewilderment
 and manipulation, "you're putting it on with the tails in front."
 
-"The reversal of the obvious," said the King, calmly, "is as near
+"The reversal of the obvious," said the [[King]], calmly, "is as near
 as we can come to ritual with our imperfect apparatus.  Lead on."
 
 The rest of that afternoon and evening was to Barker and Lambert
-a nightmare, which they could not properly realize or recall.
-The King, with his coat on the wrong way, went towards the streets
+a [[nightmare]], which they could not properly realize or recall.
+The [[King]], with his coat on the wrong way, went towards the streets
 that were awaiting him, and the old Kensington Palace which was the
 Royal residence.  As he passed small groups of men, the groups turned
 into crowds, and gave forth sounds which seemed strange in welcoming

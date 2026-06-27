@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 27 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 27 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -34,7 +34,7 @@ take it so much to heart.”
 
 “That is true,” cried Marianne, in a cheerful voice, and walking to the
 
-window as she spoke, to examine the day. “I had not thought of _that_.
+[[Window|window]] as she spoke, to examine the day. “I had not thought of _that_.
 
 This weather will keep many sportsmen in the country.”
 
@@ -48,7 +48,7 @@ down to the breakfast table with a happy countenance. “How much they
 
 must enjoy it! But” (with a little return of anxiety) “it cannot be
 
-expected to last long. At this time of the year, and after such a
+expected to last long. At this [[Time|time]] of the year, and after such a
 
 series of rain, we shall certainly have very little more of it. Frosts
 
@@ -84,7 +84,7 @@ But if she _did_, the letter was written and sent away with a privacy
 
 which eluded all her watchfulness to ascertain the fact. Whatever the
 
-truth of it might be, and far as Elinor was from feeling thorough
+[[Truth|truth]] of it might be, and far as Elinor was from feeling thorough
 
 contentment about it, yet while she saw Marianne in spirits, she could
 
@@ -92,7 +92,7 @@ not be very uncomfortable herself. And Marianne was in spirits; happy
 
 in the mildness of the weather, and still happier in her expectation of
 
-a frost.
+a [[Frost|frost]].
 
 
 
@@ -100,7 +100,7 @@ The morning was chiefly spent in leaving cards at the houses of Mrs.
 
 Jennings’s acquaintance to inform them of her being in town; and
 
-Marianne was all the time busy in observing the direction of the wind,
+Marianne was all the [[Time|time]] busy in observing the direction of the [[Wind|wind]],
 
 watching the variations of the sky and imagining an alteration in the
 
@@ -122,11 +122,11 @@ afternoon.”
 
 Elinor was alternately diverted and pained; but Marianne persevered,
 
-and saw every night in the brightness of the fire, and every morning in
+and saw every [[Night|night]] in the brightness of the [[Fire|fire]], and every morning in
 
 the appearance of the atmosphere, the certain symptoms of approaching
 
-frost.
+[[Frost|frost]].
 
 
 
@@ -138,7 +138,7 @@ behaviour to themselves, which was invariably kind. Every thing in her
 
 household arrangements was conducted on the most liberal plan, and
 
-excepting a few old city friends, whom, to Lady Middleton’s regret, she
+excepting a few old [[City|city]] friends, whom, to Lady Middleton’s regret, she
 
 had never dropped, she visited no one to whom an introduction could at
 
@@ -148,19 +148,19 @@ herself more comfortably situated in that particular than she had
 
 expected, Elinor was very willing to compound for the want of much real
 
-enjoyment from any of their evening parties, which, whether at home or
+enjoyment from any of their evening parties, which, whether at [[Home|home]] or
 
 abroad, formed only for cards, could have little to amuse her.
 
 
 
-Colonel Brandon, who had a general invitation to the house, was with
+[[Colonel Brandon]], who had a general invitation to the [[house]], was with
 
 them almost every day; he came to look at Marianne and talk to Elinor,
 
 who often derived more satisfaction from conversing with him than from
 
-any other daily occurrence, but who saw at the same time with much
+any other daily occurrence, but who saw at the same [[Time|time]] with much
 
 concern his continued regard for her sister. She feared it was a
 
@@ -182,7 +182,7 @@ morning’s drive.
 
 “Good God!” cried Marianne, “he has been here while we were out.”
 
-Elinor, rejoiced to be assured of his being in London, now ventured to
+Elinor, rejoiced to be assured of his being in [[London]], now ventured to
 
 say, “Depend upon it, he will call again tomorrow.” But Marianne seemed
 

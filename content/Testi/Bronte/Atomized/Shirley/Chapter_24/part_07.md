@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 24 (part 7)"
+title: "[[Shirley]] — Chapter 24 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -88,7 +88,7 @@ eagerness." To Caroline--"She had the trouble of bringing you into the
 
 world at any rate. Mind you show your duty to her by quickly getting
 
-well, and repairing the waste of these cheeks.--Heigh-ho! she used to be
+[[Well|well]], and repairing the waste of these cheeks.--Heigh-ho! she used to be
 
 plump. What she has done with it all I can't, for the life of me,
 
@@ -96,7 +96,7 @@ divine."
 
 
 
-"If _wishing_ to get well will help me, I shall not be long sick. This
+"If _wishing_ to get [[Well|well]] will help me, I shall not be long sick. This
 
 morning I had no reason and no strength to wish it."
 
@@ -124,7 +124,7 @@ extremely wire-drawn notions, that put me about. Let a woman ask me to
 
 give her an edible or a wearable--be the same a roc's egg or the
 
-breastplate of Aaron, a share of St. John's locusts and honey or the
+breastplate of [[Aaron]], a share of St. John's locusts and honey or the
 
 leathern girdle about his loins--I can, at least, understand the demand;
 
@@ -166,11 +166,11 @@ praised the morsel he had brought, and smiled gratefully in his face, he
 
 stooped over her pillow, kissed her, and said, with a broken, rugged
 
-accent, "Good-night, bairnie! God bless thee!"
+accent, "Good-[[Night|night]], bairnie! God bless thee!"
 
 
 
-Caroline enjoyed such peaceful rest that night, circled by her mother's
+Caroline enjoyed such peaceful rest that [[Night|night]], circled by her mother's
 
 arms, and pillowed on her breast, that she forgot to wish for any other
 
@@ -184,6 +184,6 @@ soon as felt.
 
 
 
-As to the mother, she spent the night like Jacob at Peniel. Till break
+As to the mother, she spent the [[Night|night]] like Jacob at Peniel. Till break
 
-of day she wrestled with God in earnest prayer.
+of day she wrestled with God in earnest [[prayer]].

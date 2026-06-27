@@ -36,22 +36,22 @@ It is typical that some types of thinkers are called suggestive thinkers.
 But it is easy enough to suggest something, and leave it to be
 found unworkable by other people; as it is easy for a little
 boy to ring a bell and run away.  The little boy ringing
-the bell is doubtless in one sense a rebel defying authority.
+the bell is doubtless in one sense a [[Rebel|rebel]] defying authority.
 But he is not quite on a level with the paladins or heroes who blew
-the horn hung outside the giant's castle; because they remained
+the horn hung outside the giant's [[Castle|castle]]; because they remained
 to thrash things out in a thoughtful manner with the giant.
 
 Now there are a number of nihilistic phrases wandering about
 in the air to-day, but those phrases are never really developed
 into philosophies.  If they were, those particular phrases would
 probably be found to develop into patently absurd philosophies.
-A man in the time of the Schopenhauer fashion would say,
+A man in the [[Time|time]] of the Schopenhauer fashion would say,
 over the tea-cups, that life is not worth living, and he would go
 on to say something equally significant; as that Pingle's rondeau in
 the Yellow Book was an immortal thing of jade and emerald; or that Jubb
 of the New English Art Club had erased the mistake called Michelangelo.
 But he would not go on to say, as a serious thesis, that prussic acid
-should be served out at tea-time instead of tea; or that hospitals
+should be served out at tea-[[Time|time]] instead of tea; or that hospitals
 should be blown up on the charge that they sometimes save people's lives.
 In short, he would talk like a pessimist, but he would not think like
 a pessimist; above all, he would not complete his pessimistic thinking.
@@ -63,9 +63,9 @@ that he is a Boishevist and believes with Marx that men must be
 what their economic and material origins make them.  He goes on
 to remark casually something suitable to the same social atmosphere;
 as that the music of the future must consist entirely of factory-hooters
-and gas-explosions, or that Mossky's bust of Lady Smith is supreme
+and gas-explosions, or that Mossky's bust of Lady [[smith|Smith]] is supreme
 in its lack of likeness and its collision of five geometric planes.
-But he will not go on to apply seriously his own line of logic;
+But he will not go on to apply seriously his own line of [[logic]];
 as that Lenin is no more to be admired than Stolypin, since both only did
 what they were materially fated to do.  Men throw out these thoughts--
 if at that stage they can be called thoughts--but they do not think
@@ -74,7 +74,7 @@ them out; and they soon grow tired of any thinking.
 A great thinker spends half his life in explaining his theory
 and the other half in explaining it away.  As a matter of fact,
 most of the advanced have thus retired; or those who strode
-forward stopped or stepped back.  Even Mr. Bernard Shaw,
+forward stopped or stepped back.  Even Mr. Bernard [[Shaw]],
 who seems to grow more right every day, began so very wrong
 that he could not himself avoid putting himself right.  He once
 denounced all general ideals for the testing of particular actions,
@@ -83,13 +83,13 @@ In theory he was purely opportunist; that is, in theory he was
 against all theories.  But even in some of his earliest quarrels,
 such as that on Vivisection, he was not really opportunist at all.
 He was obviously acting on the general principle that the ideal
-of Mercy must overrule all opportunism.  The good old golden rule
+of [[Mercy]] must overrule all opportunism.  The good old golden rule
 was back in all its glory; and even frogs and guinea-pigs must
 profit by the universal commandment to do as we would be done by.
-Shaw has never carried through any Shavian philosophy;
+[[Shaw]] has never carried through any Shavian [[philosophy]];
 he has expanded, but at the expense of his theory not being extended.
 As for Wells, he has had so many theories that he would need to borrow
-the three hundred years of Methuselah from Shaw, in order to fulfil
+the three hundred years of Methuselah from [[Shaw]], in order to fulfil
 any of them.  But, any how, he has not fulfilled any of them.
 Mr. Britling did not see it through:  that is exactly what the Wellsian
 heroes do not do.
@@ -103,10 +103,10 @@ I should be very much surprised to learn that Hardy, especially in
 later life, was really a pessimist at all.  His theory, as a theory,
 is not very clear or complete; but I am sure he did not become more
 clear or more complete, in the sense of more convinced of a dogma
-of despair.  Consciously or unconsciously, the tendency is almost
-always the other way.  Hardy recoiled from the Hardy philosophy,
-just as Shaw recoiled from the Shaw philosophy, and most of the anarchs
-and atheists recoil from the anarchist and atheist philosophy.
+of [[Despair|despair]].  Consciously or unconsciously, the tendency is almost
+always the other way.  Hardy recoiled from the Hardy [[philosophy]],
+just as [[Shaw]] recoiled from the [[Shaw]] [[philosophy]], and most of the anarchs
+and atheists recoil from the anarchist and atheist [[philosophy]].
 Much of their later ingenuity is employed in trying to mend with
 their wisdom what they have broken with their wit.  It is so easy
 to say something to start with that sounds splendidly sensible,
@@ -131,15 +131,15 @@ The negative writers of the nineteenth-century tradition were always
 creating a sensation by offering to abolish something, or (like Bakunin)
 to abolish everything.  But that sort of generalization is only
 a sensation; it is not really a system.  It is a facile triumph
-to reveal the great truth that all men are really quadrupeds.
-The difficulty is, as life goes on and love and friendship become
+to reveal the great [[Truth|truth]] that all men are really quadrupeds.
+The difficulty is, as life goes on and [[Love|love]] and [[Friendship|friendship]] become
 more subtle or many-sided, to live a complete human existence
 while still going about on all fours.  It is great fun to thrill
 the mob by saying it consists entirely of suicidal maniacs;
-the difficulty is what to do next, except commit suicide.
+the difficulty is what to do next, except commit [[suicide]].
 What generally happens is that great men gradually grow sane;
 and, having begun with the enjoyment of being extraordinary,
 end with the more mystical beatitude of becoming ordinary.
-They begin each with his own wild and generally inhuman philosophy;
+They begin each with his own wild and generally inhuman [[philosophy]];
 but by the end they have, in a sense somewhat different from that
 of the old phrase, joined the religion of all sensible men.

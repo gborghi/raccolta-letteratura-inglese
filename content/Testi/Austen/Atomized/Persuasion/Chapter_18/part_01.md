@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 18 (part 1)"
+title: "[[Persuasion]] — Chapter 18 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -26,7 +26,7 @@ Bath, was growing very eager for news from Uppercross and Lyme. She
 
 wanted to hear much more than Mary had communicated. It was three weeks
 
-since she had heard at all. She only knew that Henrietta was at home
+since she had heard at all. She only knew that Henrietta was at [[Home|home]]
 
 again; and that Louisa, though considered to be recovering fast, was
 
@@ -58,7 +58,7 @@ Crofts who rent Kellynch? What have they brought you?”
 
 “Oh! those letters are convenient passports. They secure an
 
-introduction. I should have visited Admiral Croft, however, at any
+introduction. I should have visited [[Admiral Croft]], however, at any
 
 rate. I know what is due to my tenant.”
 
@@ -82,11 +82,11 @@ begun several days back.
 
 
 
-I make no apology for my silence, because I know how little people
+I make no apology for my [[Silence|silence]], because I know how little people
 
 think of letters in such a place as Bath. You must be a great deal too
 
-happy to care for Uppercross, which, as you well know, affords little
+happy to care for Uppercross, which, as you [[Well|well]] know, affords little
 
 to write about. We have had a very dull Christmas; Mr and Mrs Musgrove
 
@@ -94,17 +94,17 @@ have not had one dinner party all the holidays. I do not reckon the
 
 Hayters as anybody. The holidays, however, are over at last: I believe
 
-no children ever had such long ones. I am sure I had not. The house was
+no children ever had such long ones. I am sure I had not. The [[house]] was
 
 cleared yesterday, except of the little Harvilles; but you will be
 
-surprised to hear they have never gone home. Mrs Harville must be an
+surprised to hear they have never gone [[Home|home]]. Mrs Harville must be an
 
 odd mother to part with them so long. I do not understand it. They are
 
 not at all nice children, in my opinion; but Mrs Musgrove seems to like
 
-them quite as well, if not better, than her grandchildren. What
+them quite as [[Well|well]], if not better, than her grandchildren. What
 
 dreadful weather we have had! It may not be felt in Bath, with your
 
@@ -122,7 +122,7 @@ The carriage is gone to-day, to bring Louisa and the Harvilles
 
 to-morrow. We are not asked to dine with them, however, till the day
 
-after, Mrs Musgrove is so afraid of her being fatigued by the journey,
+after, Mrs Musgrove is so afraid of her being fatigued by the [[Journey|journey]],
 
 which is not very likely, considering the care that will be taken of
 
@@ -134,7 +134,7 @@ be acquainted with him too; but I have my usual luck: I am always out
 
 of the way when any thing desirable is going on; always the last of my
 
-family to be noticed. What an immense time Mrs Clay has been staying
+family to be noticed. What an immense [[Time|time]] Mrs Clay has been staying
 
 with Elizabeth! Does she never mean to go away? But perhaps if she were
 
@@ -142,7 +142,7 @@ to leave the room vacant, we might not be invited. Let me know what you
 
 think of this. I do not expect my children to be asked, you know. I can
 
-leave them at the Great House very well, for a month or six weeks. I
+leave them at the [[Great House]] very [[Well|well]], for a month or six weeks. I
 
 have this moment heard that the Crofts are going to Bath almost
 
@@ -154,7 +154,7 @@ offering to take anything. I do not think they improve at all as
 
 neighbours. We see nothing of them, and this is really an instance of
 
-gross inattention. Charles joins me in love, and everything proper.
+gross inattention. Charles joins me in [[Love|love]], and everything proper.
 
 Yours affectionately,
 
@@ -164,7 +164,7 @@ Yours affectionately,
 
 
 
-“I am sorry to say that I am very far from well; and Jemima has just
+“I am sorry to say that I am very far from [[Well|well]]; and Jemima has just
 
 told me that the butcher says there is a bad sore-throat very much
 
@@ -184,7 +184,7 @@ envelope, containing nearly as much more.
 
 “I kept my letter open, that I might send you word how Louisa bore her
 
-journey, and now I am extremely glad I did, having a great deal to add.
+[[Journey|journey]], and now I am extremely glad I did, having a great deal to add.
 
 In the first place, I had a note from Mrs Croft yesterday, offering to
 
@@ -194,7 +194,7 @@ me, just as it ought; I shall therefore be able to make my letter as
 
 long as I like. The Admiral does not seem very ill, and I sincerely
 
-hope Bath will do him all the good he wants. I shall be truly glad to
+[[Hope|hope]] Bath will do him all the good he wants. I shall be truly glad to
 
 have them back again. Our neighbourhood cannot spare such a pleasant
 
@@ -204,11 +204,11 @@ astonish you not a little. She and the Harvilles came on Tuesday very
 
 safely, and in the evening we went to ask her how she did, when we were
 
-rather surprised not to find Captain Benwick of the party, for he had
+rather surprised not to find [[Captain Benwick]] of the party, for he had
 
-been invited as well as the Harvilles; and what do you think was the
+been invited as [[Well|well]] as the Harvilles; and what do you think was the
 
-reason? Neither more nor less than his being in love with Louisa, and
+reason? Neither more nor less than his being in [[Love|love]] with Louisa, and
 
 not choosing to venture to Uppercross till he had had an answer from Mr
 
@@ -216,17 +216,17 @@ Musgrove; for it was all settled between him and her before she came
 
 away, and he had written to her father by Captain Harville. True, upon
 
-my honour! Are not you astonished? I shall be surprised at least if you
+my [[Honour|honour]]! Are not you astonished? I shall be surprised at least if you
 
 ever received a hint of it, for I never did. Mrs Musgrove protests
 
-solemnly that she knew nothing of the matter. We are all very well
+solemnly that she knew nothing of the matter. We are all very [[Well|well]]
 
 pleased, however, for though it is not equal to her marrying Captain
 
 Wentworth, it is infinitely better than Charles Hayter; and Mr Musgrove
 
-has written his consent, and Captain Benwick is expected to-day. Mrs
+has written his consent, and [[Captain Benwick]] is expected to-day. Mrs
 
 Harville says her husband feels a good deal on his poor sister’s
 

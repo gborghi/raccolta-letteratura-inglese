@@ -1,5 +1,5 @@
 ---
-title: "Thou Art the Man (part 6)"
+title: "[[Thou Art the Man]] (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Thou-Art-the-Man-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-      Toward the end of the blood-chilling recital the words of the guilty
+      Toward the end of the [[Blood|blood]]-chilling recital the words of the guilty
       wretch faltered and grew hollow. When the record was finally exhausted, he
       arose, staggered backward from the table, and fell—_dead_.
 
@@ -30,12 +30,12 @@ tags:
       at once that all the criminating discoveries arose, either directly or
       indirectly, from himself. But the fact which clearly opened my eyes to the
       true state of the case, was the affair of the bullet, found by Mr. G. in
-      the carcass of the horse. I had not forgotten, although the Rattleburghers
-      had, that there was a hole where the ball had entered the horse, and
+      the carcass of the [[Horse|horse]]. I had not forgotten, although the Rattleburghers
+      had, that there was a hole where the ball had entered the [[Horse|horse]], and
       another where it went out. If it were found in the animal then, after
       having made its exit, I saw clearly that it must have been deposited by
       the person who found it. The bloody shirt and handkerchief confirmed the
-      idea suggested by the bullet; for the blood on examination proved to be
+      idea suggested by the bullet; for the [[Blood|blood]] on examination proved to be
       capital claret, and no more. When I came to think of these things, and
       also of the late increase of liberality and expenditure on the part of Mr.
       Goodfellow, I entertained a suspicion which was none the less strong
@@ -45,26 +45,26 @@ tags:
       Mr. Shuttleworthy, and, for good reasons, searched in quarters as
       divergent as possible from those to which Mr. Goodfellow conducted his
       party. The result was that, after some days, I came across an old dry
-      well, the mouth of which was nearly hidden by brambles; and here, at the
-      bottom, I discovered what I sought.
+      [[Well|well]], the mouth of which was nearly hidden by brambles; and here, at the
+      [[Bottom|bottom]], I discovered what I sought.
 
       Now it so happened that I had overheard the colloquy between the two
       cronies, when Mr. Goodfellow had contrived to cajole his host into the
       promise of a box of Chateaux-Margaux. Upon this hint I acted. I procured a
       stiff piece of whalebone, thrust it down the throat of the corpse, and
-      deposited the latter in an old wine box—taking care so to double the body
-      up as to double the whalebone with it. In this manner I had to press
+      deposited the latter in an old wine box—taking care so to [[Double|double]] the [[Body|body]]
+      up as to [[Double|double]] the whalebone with it. In this manner I had to press
       forcibly upon the lid to keep it down while I secured it with nails; and I
       anticipated, of course, that as soon as these latter were removed, the top
-      would fly off and the body up.
+      would fly off and the [[Body|body]] up.
 
       Having thus arranged the box, I marked, numbered, and addressed it as
       already told; and then writing a letter in the name of the wine merchants
       with whom Mr. Shuttleworthy dealt, I gave instructions to my servant to
-      wheel the box to Mr. Goodfellow’s door, in a barrow, at a given signal
+      [[Wheel|wheel]] the box to Mr. Goodfellow’s door, in a barrow, at a given signal
       from myself. For the words which I intended the corpse to speak, I
       confidently depended upon my ventriloquial abilities; for their effect, I
-      counted upon the conscience of the murderous wretch.
+      counted upon the [[Conscience|conscience]] of the murderous wretch.
 
       I believe there is nothing more to be explained. Mr. Pennifeather was
       released upon the spot, inherited the fortune of his uncle, profited by

@@ -1,5 +1,5 @@
 ---
-title: "The Colloquy of Monos and Una (part 2)"
+title: "[[The Colloquy of Monos and Una]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Colloquy-of-Monos-and-Una-(Poe)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-      huge smoking cities arose, innumerable. Green leaves shrank
+      huge smoking cities arose, innumerable. Green [[Leaves|leaves]] shrank
 
-      before the hot breath of furnaces. The fair face of Nature was
+      before the hot breath of furnaces. The fair face of [[Nature]] was
 
       deformed as with the ravages of some loathsome disease. And
 
@@ -28,21 +28,21 @@ tags:
 
       perversion of our taste, or rather in the blind neglect of its
 
-      culture in the schools. For, in truth, it was at this crisis that
+      culture in the schools. For, in [[Truth|truth]], it was at this crisis that
 
-      taste alone—that faculty which, holding a middle position between
+      taste [[Alone|alone]]—that faculty which, holding a middle position between
 
       the pure intellect and the moral sense, could never safely have
 
-      been disregarded—it was now that taste alone could have led us
+      been disregarded—it was now that taste [[Alone|alone]] could have led us
 
-      gently back to Beauty, to Nature, and to Life. But alas for the
+      gently back to [[Beauty]], to [[Nature]], and to Life. But alas for the
 
       pure contemplative spirit and majestic intuition of Plato! Alas
 
       for the μουσικη which he justly regarded as an all-sufficient
 
-      education for the soul! Alas for him and for it!—since both were
+      [[Education|education]] for the [[Soul|soul]]! Alas for him and for it!—since both were
 
       most desperately needed when both were most entirely forgotten or
 
@@ -50,13 +50,13 @@ tags:
 
 
 
-      Pascal, a philosopher whom we both love, has said, how
+      Pascal, a philosopher whom we both [[Love|love]], has said, how
 
       truly!—“que tout notre raisonnement se rèduit à céder au
 
       sentiment;” and it is not impossible that the sentiment of the
 
-      natural, had time permitted it, would have regained its old
+      natural, had [[Time|time]] permitted it, would have regained its old
 
       ascendancy over the harsh mathematical reason of the schools. But
 
@@ -72,11 +72,11 @@ tags:
 
       imbibed a prescience of our Fate from comparison of China the
 
-      simple and enduring, with Assyria the architect, with Egypt the
+      simple and enduring, with Assyria the architect, with [[Egypt]] the
 
       astrologer, with Nubia, more crafty than either, the turbulent
 
-      mother of all Arts. In history {*2} of these regions I met with a
+      mother of all Arts. In [[history]] {*2} of these regions I met with a
 
       ray from the Future. The individual artificialities of the three
 
@@ -84,9 +84,9 @@ tags:
 
       overthrows we had seen local remedies applied; but for the
 
-      infected world at large I could anticipate no regeneration save
+      infected world at large I could anticipate no [[Regeneration|regeneration]] save
 
-      in death. That man, as a race, should not become extinct, I saw
+      in [[Death|death]]. That man, as a race, should not become extinct, I saw
 
       that he must be “born again.”
 
@@ -94,11 +94,11 @@ tags:
 
       And now it was, fairest and dearest, that we wrapped our spirits,
 
-      daily, in dreams. Now it was that, in twilight, we discoursed of
+      daily, in [[Dreams|dreams]]. Now it was that, in twilight, we discoursed of
 
       the days to come, when the Art-scarred surface of the Earth,
 
-      having undergone that purification {*3} which alone could efface
+      having undergone that [[Purification|purification]] {*3} which [[Alone|alone]] could efface
 
       its rectangular obscenities, should clothe itself anew in the
 
@@ -106,9 +106,9 @@ tags:
 
       Paradise, and be rendered at length a fit dwelling-place for
 
-      man:—for man the Death purged—for man to whose now exalted
+      man:—for man the [[Death]] purged—for man to whose now exalted
 
-      intellect there should be poison in knowledge no more—for the
+      intellect there should be [[Poison|poison]] in knowledge no more—for the
 
       redeemed, regenerated, blissful, and now immortal, but still for
 
@@ -116,7 +116,7 @@ tags:
 
 
 
-      _Una._ Well do I remember these conversations, dear Monos; but
+      _Una._ [[Well]] do I remember these conversations, dear Monos; but
 
       the epoch of the fiery overthrow was not so near at hand as we
 
@@ -124,7 +124,7 @@ tags:
 
       us in believing. Men lived; and died individually. You yourself
 
-      sickened, and passed into the grave; and thither your constant
+      sickened, and passed into the [[Grave|grave]]; and thither your constant
 
       Una speedily followed you. And though the century which has since
 
@@ -142,17 +142,17 @@ tags:
 
       at heart with anxieties which had their origin in the general
 
-      turmoil and decay, I succumbed to the fierce fever. After some
+      turmoil and [[Decay|decay]], I succumbed to the fierce fever. After some
 
-      few days of pain, and many of dreamy delirium replete with
+      few days of [[Pain|pain]], and many of dreamy delirium replete with
 
-      ecstasy, the manifestations of which you mistook for pain, while
+      ecstasy, the manifestations of which you mistook for [[Pain|pain]], while
 
       I longed but was impotent to undeceive you—after some days there
 
       came upon me, as you have said, a breathless and motionless
 
-      torpor; and this was termed Death by those who stood around me.
+      torpor; and this was termed [[Death]] by those who stood around me.
 
 
 
@@ -164,9 +164,9 @@ tags:
 
       profoundly, lying motionless and fully prostrate in a midsummer
 
-      noon, begins to steal slowly back into consciousness, through the
+      [[Noon|noon]], begins to steal slowly back into consciousness, through the
 
-      mere sufficiency of his sleep, and without being awakened by
+      mere sufficiency of his [[Sleep|sleep]], and without being awakened by
 
       external disturbances.
 
@@ -182,11 +182,11 @@ tags:
 
       inextricably confounded, and became one sentiment, abnormal and
 
-      intense. The rose-water with which your tenderness had moistened
+      intense. The [[Rose|rose]]-[[Water|water]] with which your tenderness had moistened
 
       my lips to the last, affected me with sweet fancies of
 
-      flowers—fantastic flowers, far more lovely than any of the old
+      [[Flowers|flowers]]—fantastic [[Flowers|flowers]], far more lovely than any of the old
 
       Earth, but whose prototypes we have here blooming around us. The
 

@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 4)"
+title: "The [[Pickwick]] Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-‘Very well, my dear Sir, very well,’ said Perker. ‘You know best, of
+‘Very [[Well|well]], my dear Sir, very [[Well|well]],’ said Perker. ‘You know best, of
 course.’
 
-‘Of course,’ replied Mr. Pickwick hastily. ‘Where does Serjeant Snubbin
+‘Of course,’ replied Mr. [[Pickwick]] hastily. ‘Where does Serjeant Snubbin
 live?’
 
-In Lincoln’s Inn Old Square,’ replied Perker.
+In [[Lincoln]]’s Inn Old Square,’ replied Perker.
 
-‘I should like to see him,’ said Mr. Pickwick.
+‘I should like to see him,’ said Mr. [[Pickwick]].
 
 ‘See Serjeant Snubbin, my dear Sir!’ rejoined Perker, in utter
 amazement. ‘Pooh, pooh, my dear Sir, impossible. See Serjeant Snubbin!
@@ -30,16 +30,16 @@ Bless you, my dear Sir, such a thing was never heard of, without a
 consultation fee being previously paid, and a consultation fixed. It
 couldn’t be done, my dear Sir; it couldn’t be done.’
 
-Mr. Pickwick, however, had made up his mind not only that it could be
+Mr. [[Pickwick]], however, had made up his mind not only that it could be
 done, but that it should be done; and the consequence was, that within
 ten minutes after he had received the assurance that the thing was
 impossible, he was conducted by his solicitor into the outer office of
 the great Serjeant Snubbin himself.
 
 It was an uncarpeted room of tolerable dimensions, with a large writing-
-table drawn up near the fire, the baize top of which had long since lost
+table drawn up near the [[Fire|fire]], the baize top of which had long since lost
 all claim to its original hue of green, and had gradually grown gray
-with dust and age, except where all traces of its natural colour were
+with [[Dust|dust]] and age, except where all traces of its natural colour were
 obliterated by ink-stains. Upon the table were numerous little bundles
 of papers tied with red tape; and behind it, sat an elderly clerk, whose
 sleek appearance and heavy gold watch-chain presented imposing
@@ -66,7 +66,7 @@ ha-ha-ha!’
 ‘Which makes good for we know who, besides the serjeant, and draws a
 little more out of the clients, eh?’ said Perker; ‘Ha, ha, ha!’ At this
 the serjeant’s clerk laughed again--not a noisy boisterous laugh, but a
-silent, internal chuckle, which Mr. Pickwick disliked to hear. When a
+silent, internal chuckle, which Mr. [[Pickwick]] disliked to hear. When a
 man bleeds inwardly, it is a dangerous thing for himself; but when he
 laughs inwardly, it bodes no good to other people.
 
@@ -89,10 +89,10 @@ client here.’
 ‘Come, come,’ said the clerk, ‘that’s not bad either. See the Serjeant!
 come, that’s too absurd.’ Notwithstanding the absurdity of the proposal,
 however, the clerk allowed himself to be gently drawn beyond the hearing
-of Mr. Pickwick; and after a short conversation conducted in whispers,
+of Mr. [[Pickwick]]; and after a short conversation conducted in whispers,
 walked softly down a little dark passage, and disappeared into the legal
 luminary’s sanctum, whence he shortly returned on tiptoe, and informed
-Mr. Perker and Mr. Pickwick that the Serjeant had been prevailed upon,
+Mr. Perker and Mr. [[Pickwick]] that the Serjeant had been prevailed upon,
 in violation of all established rules and customs, to admit them at
 once.
 
@@ -105,17 +105,17 @@ laborious course of study; and which would have been sufficient, without
 the additional eyeglass which dangled from a broad black riband round
 his neck, to warn a stranger that he was very near-sighted. His hair was
 thin and weak, which was partly attributable to his having never devoted
-much time to its arrangement, and partly to his having worn for five-
+much [[Time|time]] to its arrangement, and partly to his having worn for five-
 and-twenty years the forensic wig which hung on a block beside him. The
 marks of hairpowder on his coat-collar, and the ill-washed and worse
 tied white neckerchief round his throat, showed that he had not found
-leisure since he left the court to make any alteration in his dress;
+leisure since he left the [[Court|court]] to make any alteration in his dress;
 while the slovenly style of the remainder of his costume warranted the
 inference that his personal appearance would not have been very much
 improved if he had. Books of practice, heaps of papers, and opened
 letters, were scattered over the table, without any attempt at order or
 arrangement; the furniture of the room was old and rickety; the doors of
-the book-case were rotting in their hinges; the dust flew out from the
+the book-case were rotting in their hinges; the [[Dust|dust]] flew out from the
 carpet in little clouds at every step; the blinds were yellow with age
 and dirt; the state of everything in the room showed, with a clearness
 not to be mistaken, that Mr. Serjeant Snubbin was far too much occupied
@@ -123,11 +123,11 @@ with his professional pursuits to take any great heed or regard of his
 personal comforts.
 
 The Serjeant was writing when his clients entered; he bowed abstractedly
-when Mr. Pickwick was introduced by his solicitor; and then, motioning
+when Mr. [[Pickwick]] was introduced by his solicitor; and then, motioning
 them to a seat, put his pen carefully in the inkstand, nursed his left
 leg, and waited to be spoken to.
 
-‘Mr. Pickwick is the defendant in Bardell and Pickwick, Serjeant
+‘Mr. [[Pickwick]] is the defendant in Bardell and [[Pickwick]], Serjeant
 Snubbin,’ said Perker.
 
 ‘I am retained in that, am I?’ said the Serjeant.

@@ -1,5 +1,5 @@
 ---
-title: "Diddling"
+title: "[[Diddling]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/Diddling-(Poe)"
@@ -39,15 +39,15 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
 
 
-      Diddling—or the abstract idea conveyed by the verb to diddle—is
+      [[Diddling]]—or the abstract idea conveyed by the verb to diddle—is
 
-      sufficiently well understood. Yet the fact, the deed, the thing
+      sufficiently [[Well|well]] understood. Yet the fact, the deed, the thing
 
       _diddling_, is somewhat difficult to define. We may get, however,
 
       at a tolerably distinct conception of the matter in hand, by
 
-      defining—not the thing, diddling, in itself—but man, as an animal
+      defining—not the thing, [[Diddling|diddling]], in itself—but man, as an animal
 
       that diddles. Had Plato but hit upon this, he would have been
 
@@ -69,7 +69,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
 
 
-      What constitutes the essence, the nare, the principle of diddling
+      What constitutes the essence, the nare, the principle of [[Diddling|diddling]]
 
       is, in fact, peculiar to the class of creatures that wear coats
 
@@ -85,7 +85,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
 
 
-      Diddling, rightly considered, is a compound, of which the
+      [[Diddling]], rightly considered, is a compound, of which the
 
       ingredients are minuteness, interest, perseverance, ingenuity,
 
@@ -101,7 +101,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       he then, at once, loses his distinctive features, and becomes
 
-      what we term “financier.” This latter word conveys the diddling
+      what we term “financier.” This latter word conveys the [[Diddling|diddling]]
 
       idea in every respect except that of magnitude. A diddler may
 
@@ -115,7 +115,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
 
 
-      _Interest:_—Your diddler is guided by self-interest. He scorns to
+      _Interest:_—Your diddler is guided by [[Self|self]]-interest. He scorns to
 
       diddle for the mere _sake_ of the diddle. He has an object in
 
@@ -157,7 +157,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       carries the war into Africa. He conquers all by assault. He would
 
-      not fear the daggers of Frey Herren. With a little more prudence
+      not [[Fear|fear]] the daggers of Frey Herren. With a little more prudence
 
       Dick Turpin would have made a good diddler; with a trifle less
 
@@ -209,11 +209,11 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       nobody sees but himself. He grins when his daily work is
 
-      done—when his allotted labors are accomplished—at night in his
+      done—when his allotted labors are accomplished—at [[Night|night]] in his
 
       own closet, and altogether for his own private entertainment. He
 
-      goes home. He locks his door. He divests himself of his clothes.
+      goes [[Home|home]]. He locks his door. He divests himself of his clothes.
 
       He puts out his candle. He gets into bed. He places his head upon
 
@@ -249,7 +249,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       is accosted, and invited to enter, by a polite and voluble
 
-      individual at the door. She finds a sofa well adapted to her
+      individual at the door. She finds a sofa [[Well|well]] adapted to her
 
       views, and upon inquiring the price, is surprised and delighted
 
@@ -257,11 +257,11 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       expectations. She hastens to make the purchase, gets a bill and
 
-      receipt, leaves her address, with a request that the article be
+      receipt, [[Leaves|leaves]] her address, with a request that the article be
 
-      sent home as speedily as possible, and retires amid a profusion
+      sent [[Home|home]] as speedily as possible, and retires amid a profusion
 
-      of bows from the shopkeeper. The night arrives and no sofa. A
+      of bows from the shopkeeper. The [[Night|night]] arrives and no sofa. A
 
       servant is sent to make inquiry about the delay. The whole
 
@@ -285,7 +285,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
 
 
-      Again, quite a respectable diddle is this. A well-dressed
+      Again, quite a respectable diddle is this. A [[Well|well]]-dressed
 
       individual enters a shop, makes a purchase to the value of a
 
@@ -299,7 +299,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       “My dear sir, never mind; just oblige me, will you, by sending
 
-      the bundle home? But stay! I really believe that I have nothing
+      the bundle [[Home|home]]? But stay! I really believe that I have nothing
 
       less than a five dollar bill, even there. However, you can send
 
@@ -325,13 +325,13 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
 
 
-      “Ah! This is my bundle, I see—I thought you had been home with
+      “Ah! This is my bundle, I see—I thought you had been [[Home|home]] with
 
-      it, long ago. Well, go on! My wife, Mrs. Trotter, will give you
+      it, long ago. [[Well]], go on! My wife, Mrs. Trotter, will give you
 
       the five dollars—I left instructions with her to that effect. The
 
-      change you might as well give to me—I shall want some silver for
+      change you might as [[Well|well]] give to me—I shall want some silver for
 
       the Post Office. Very good! One, two, is this a good
 
@@ -341,15 +341,15 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
 
 
-      The boy doesn’t loiter at all—but he is a very long time in
+      The boy doesn’t loiter at all—but he is a very long [[Time|time]] in
 
       getting back from his errand—for no lady of the precise name of
 
       Mrs. Trotter is to be discovered. He consoles himself, however,
 
-      that he has not been such a fool as to leave the goods without
+      that he has not been such a [[Fool|fool]] as to leave the goods without
 
-      the money, and re-entering his shop with a self-satisfied air,
+      the money, and re-entering his shop with a [[Self|self]]-satisfied air,
 
       feels sensibly hurt and indignant when his master asks him what
 
@@ -357,11 +357,11 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
 
 
-      A very simple diddle, indeed, is this. The captain of a ship,
+      A very simple diddle, indeed, is this. The captain of a [[Ship|ship]],
 
       which is about to sail, is presented by an official looking
 
-      person with an unusually moderate bill of city charges. Glad to
+      person with an unusually moderate bill of [[City|city]] charges. Glad to
 
       get off so easily, and confused by a hundred duties pressing upon
 
@@ -379,7 +379,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       casting loose from the wharf. A traveller, portmanteau in hand,
 
-      is discovered running toward the wharf, at full speed. Suddenly,
+      is discovered running toward the wharf, at full [[Speed|speed]]. Suddenly,
 
       he makes a dead halt, stoops, and picks up something from the
 
@@ -395,7 +395,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
 
 
-      “Time and tide wait for no man,” says the captain.
+      “[[Time]] and tide wait for no man,” says the captain.
 
 
 
@@ -425,7 +425,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       you—and of advertising it? The notes, you see, amount to a very
 
-      considerable sum. The owner will, no doubt, insist upon rewarding
+      considerable sum. The owner will, no [[Doubt|doubt]], insist upon rewarding
 
       you for your trouble—”
 
@@ -435,11 +435,11 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
 
 
-      “Well, if you _must_ have it so—_I_ will take a small reward—just
+      “[[Well]], if you _must_ have it so—_I_ will take a small reward—just
 
       to satisfy your scruples. Let me see—why these notes are all
 
-      hundreds—bless my soul! a hundred is too much to take—fifty would
+      hundreds—bless my [[Soul|soul]]! a hundred is too much to take—fifty would
 
       be quite enough, I am sure—”
 
@@ -465,7 +465,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       mind! _I_ can fix it—here is a fifty on the Bank of North
 
-      America—throw the book.”
+      [[America]]—throw the book.”
 
 
 
@@ -493,9 +493,9 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       horses and donkeys, and so forth, and so forth. Some grumble but
 
-      all submit, and the diddler goes home a wealthier man by some
+      all submit, and the diddler goes [[Home|home]] a wealthier man by some
 
-      fifty or sixty dollars well earned. This taking a toll from a
+      fifty or sixty dollars [[Well|well]] earned. This taking a toll from a
 
       great crowd of people is an excessively troublesome thing.
 
@@ -585,7 +585,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       “I don’t much like this tobacco. Here, take it back, and give me
 
-      a glass of brandy and water in its place.” The brandy and water
+      a glass of brandy and [[Water|water]] in its place.” The brandy and [[Water|water]]
 
       is furnished and imbibed, and the diddler makes his way to the
 
@@ -595,13 +595,13 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       “I believe, sir, you have forgotten to pay for your brandy and
 
-      water.”
+      [[Water|water]].”
 
 
 
-      “Pay for my brandy and water!—didn’t I give you the tobacco for
+      “Pay for my brandy and [[Water|water]]!—didn’t I give you the tobacco for
 
-      the brandy and water? What more would you have?”
+      the brandy and [[Water|water]]? What more would you have?”
 
 
 
@@ -641,7 +641,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       really lost, the loser inserts in one of the daily papers of a
 
-      large city a fully descriptive advertisement.
+      large [[City|city]] a fully descriptive advertisement.
 
 
 
@@ -661,7 +661,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       inserted in at least five or six of the daily papers of the day,
 
-      while in point of time, it makes its appearance only a few hours
+      while in point of [[Time|time]], it makes its appearance only a few hours
 
       after the original. Should it be read by the loser of the purse,
 
@@ -691,11 +691,11 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       would be paid instanter, without a single question being asked.
 
-      During the lady’s absence from home, a day or two afterwards, a
+      During the lady’s absence from [[Home|home]], a day or two afterwards, a
 
       ring is heard at the door of No. so and so, in such and such
 
-      Avenue; a servant appears; the lady of the house is asked for and
+      Avenue; a servant appears; the lady of the [[house]] is asked for and
 
       is declared to be out, at which astounding information, the
 
@@ -705,7 +705,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       good fortune to find her diamond ring. But perhaps it would be as
 
-      well that he should call again. “By no means!” says the servant;
+      [[Well|well]] that he should call again. “By no means!” says the servant;
 
       and “By no means!” says the lady’s sister and the lady’s
 
@@ -725,9 +725,9 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
 
 
-      But as there is really no end to diddling, so there would be none
+      But as there is really no end to [[Diddling|diddling]], so there would be none
 
-      to this essay, were I even to hint at half the variations, or
+      to this [[Essay|essay]], were I even to hint at half the variations, or
 
       inflections, of which this science is susceptible. I must bring
 
@@ -735,11 +735,11 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       better than by a summary notice of a very decent, but rather
 
-      elaborate diddle, of which our own city was made the theatre, not
+      elaborate diddle, of which our own [[City|city]] was made the theatre, not
 
-      very long ago, and which was subsequently repeated with success,
+      very long ago, and which was subsequently repeated with [[success]],
 
-      in other still more verdant localities of the Union. A
+      in other still more verdant localities of the [[Union]]. A
 
       middle-aged gentleman arrives in town from parts unknown. He is
 
@@ -749,11 +749,11 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       unostentatious. He wears a white cravat, an ample waistcoat, made
 
-      with an eye to comfort alone; thick-soled cosy-looking shoes, and
+      with an eye to comfort [[Alone|alone]]; thick-soled cosy-looking shoes, and
 
       pantaloons without straps. He has the whole air, in fact, of your
 
-      well-to-do, sober-sided, exact, and respectable “man of
+      [[Well|well]]-to-do, sober-sided, exact, and respectable “man of
 
       business,” _par excellence_—one of the stern and outwardly hard,
 
@@ -761,7 +761,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       comedies—fellows whose words are so many bonds, and who are noted
 
-      for giving away guineas, in charity, with the one hand, while, in
+      for giving away guineas, in [[Charity|charity]], with the one hand, while, in
 
       the way of mere bargain, they exact the uttermost fraction of a
 
@@ -769,7 +769,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
 
 
-      He makes much ado before he can get suited with a boarding house.
+      He makes much ado before he can get suited with a boarding [[house]].
 
       He dislikes children. He has been accustomed to quiet. His habits
 
@@ -785,7 +785,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       account to forget his instructions upon this point—but to send in
 
-      a bill, and receipt, precisely at ten o’clock, on the first day
+      a bill, and receipt, precisely at ten o’[[Clock|clock]], on the first day
 
       of every month, and under no circumstances to put it off to the
 
@@ -805,25 +805,25 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       that she makes a pencil memorandum of it forthwith, in her great
 
-      family Bible, on the broad margin of the Proverbs of Solomon.
+      family [[Bible]], on the broad margin of the Proverbs of Solomon.
 
 
 
       The next step is to advertise, after some such fashion as this,
 
-      in the principal business six-pennies of the city—the pennies are
+      in the principal business six-pennies of the [[City|city]]—the pennies are
 
       eschewed as not “respectable”—and as demanding payment for all
 
       advertisements in advance. Our man of business holds it as a
 
-      point of his faith that work should never be paid for until done.
+      point of his [[Faith|faith]] that work should never be paid for until done.
 
 
 
       “WANTED.—The advertisers, being about to commence extensive
 
-      business operations in this city, will require the services of
+      business operations in this [[City|city]], will require the services of
 
       three or four intelligent and competent clerks, to whom a liberal
 
@@ -843,7 +843,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       possession of the advertisers, and who cannot furnish the most
 
-      satisfactory testimonials of morality. Young gentlemen piously
+      satisfactory testimonials of [[morality]]. Young gentlemen piously
 
       inclined will be preferred. Application should be made between
 
@@ -883,7 +883,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       promise—a piece of neglect for which the comfortable head of the
 
-      house ending in ogs would no doubt have chided her severely,
+      [[house]] ending in ogs would no [[Doubt|doubt]] have chided her severely,
 
       could he have been prevailed upon to remain in town a day or two
 
@@ -891,7 +891,7 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
 
 
-      As it is, the constables have had a sad time of it, running
+      As it is, the constables have had a sad [[Time|time]] of it, running
 
       hither and thither, and all they can do is to declare the man of
 
@@ -909,6 +909,6 @@ CONSIDERED AS ONE OF THE EXACT SCIENCES.
 
       rubber, and very carefully obliterates the pencil memorandum that
 
-      some fool has made in her great family Bible, on the broad margin
+      some [[Fool|fool]] has made in her great family [[Bible]], on the broad margin
 
       of the Proverbs of Solomon.

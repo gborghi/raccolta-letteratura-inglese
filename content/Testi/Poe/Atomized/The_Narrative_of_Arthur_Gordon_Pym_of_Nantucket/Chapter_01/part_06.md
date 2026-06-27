@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 6)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 2 (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -62,7 +62,7 @@ any hurt. I then supposed him hungry, and gave him a large piece of
 
 ham, which he devoured with avidity--afterward, however, resuming his
 
-extraordinary manoeuvres. I now imagined that he was suffering, like
+extraordinary manoeuvres. I now imagined that he was [[Suffering|suffering]], like
 
 myself, the torments of thirst, and was about adopting this conclusion
 
@@ -70,7 +70,7 @@ as the true one, when the idea occurred to me that I had as yet only
 
 examined his paws, and that there might possibly be a wound upon some
 
-portion of his body or head. The latter I felt carefully over, but
+portion of his [[Body|body]] or head. The latter I felt carefully over, but
 
 found nothing. On passing my hand, however, along his back, I perceived
 
@@ -78,7 +78,7 @@ a slight erection of the hair extending completely across it. Probing
 
 this with my finger, I discovered a string, and, tracing it up, found
 
-that it encircled the whole body. Upon a closer scrutiny, I came across
+that it encircled the whole [[Body|body]]. Upon a closer scrutiny, I came across
 
 a small slip of what had the feeling of letter paper, through which the
 

@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 19 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 19 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -26,23 +26,23 @@ had had thousand-pound notes given them in reticules, by eccentric
 uncles; and of young ladies who had accidentally met amiable gentlemen
 of enormous wealth at their uncles’ houses, and married them, after
 short but ardent courtships; and Kate, listening first in apathy, and
-afterwards in amusement, felt, as they walked home, something of her
+afterwards in amusement, felt, as they walked [[Home|home]], something of her
 mother’s sanguine complexion gradually awakening in her own bosom, and
 began to think that her prospects might be brightening, and that better
-days might be dawning upon them. Such is hope, Heaven’s own gift to
+days might be dawning upon them. Such is [[Hope|hope]], Heaven’s own gift to
 struggling mortals; pervading, like some subtle essence from the
-skies, all things, both good and bad; as universal as death, and more
+skies, all things, both good and bad; as universal as [[Death|death]], and more
 infectious than disease!
 
-The feeble winter’s sun--and winter’s suns in the city are very feeble
+The feeble [[Winter|winter]]’s sun--and [[Winter|winter]]’s suns in the [[City|city]] are very feeble
 indeed--might have brightened up, as he shone through the dim windows
-of the large old house, on witnessing the unusual sight which one
+of the large old [[house]], on witnessing the unusual sight which one
 half-furnished room displayed. In a gloomy corner, where, for years, had
 stood a silent dusty pile of merchandise, sheltering its colony of mice,
 and frowning, a dull and lifeless mass, upon the panelled room, save
 when, responding to the roll of heavy waggons in the street without,
 it quaked with sturdy tremblings and caused the bright eyes of its tiny
-citizens to grow brighter still with fear, and struck them motionless,
+citizens to grow brighter still with [[Fear|fear]], and struck them motionless,
 with attentive ear and palpitating heart, until the alarm had passed
 away--in this dark corner, was arranged, with scrupulous care, all
 Kate’s little finery for the day; each article of dress partaking of
@@ -63,11 +63,11 @@ for the tantalisation of mankind. About and among them all, moved Kate
 herself, not the least beautiful or unwonted relief to the stern, old,
 gloomy building.
 
-In good time, or in bad time, as the reader likes to take it--for Mrs
+In good [[Time|time]], or in bad [[Time|time]], as the reader likes to take it--for Mrs
 Nickleby’s impatience went a great deal faster than the clocks at that
 end of the town, and Kate was dressed to the very last hair-pin a full
 hour and a half before it was at all necessary to begin to think about
-it--in good time, or in bad time, the toilet was completed; and it being
+it--in good [[Time|time]], or in bad [[Time|time]], the toilet was completed; and it being
 at length the hour agreed upon for starting, the milkman fetched a coach
 from the nearest stand, and Kate, with many adieux to her mother, and
 many kind messages to Miss La Creevy, who was to come to tea, seated
@@ -76,30 +76,30 @@ state in a hackney coach yet. And the coach, and the coachman, and the
 horses, rattled, and jangled, and whipped, and cursed, and swore, and
 tumbled on together, until they came to Golden Square.
 
-The coachman gave a tremendous double knock at the door, which was
+The coachman gave a tremendous [[Double|double]] knock at the door, which was
 opened long before he had done, as quickly as if there had been a man
 behind it, with his hand tied to the latch. Kate, who had expected no
-more uncommon appearance than Newman Noggs in a clean shirt, was not a
+more uncommon appearance than [[Newman Noggs]] in a clean shirt, was not a
 little astonished to see that the opener was a man in handsome livery,
-and that there were two or three others in the hall. There was no doubt
-about its being the right house, however, for there was the name upon
+and that there were two or three others in the hall. There was no [[Doubt|doubt]]
+about its being the right [[house]], however, for there was the name upon
 the door; so she accepted the laced coat-sleeve which was tendered her,
-and entering the house, was ushered upstairs, into a back drawing-room,
-where she was left alone.
+and entering the [[house]], was ushered upstairs, into a back drawing-room,
+where she was left [[Alone|alone]].
 
 If she had been surprised at the apparition of the footman, she was
 perfectly absorbed in amazement at the richness and splendour of the
 furniture. The softest and most elegant carpets, the most exquisite
 pictures, the costliest mirrors; articles of richest ornament, quite
-dazzling from their beauty and perplexing from the prodigality with
+dazzling from their [[Beauty|beauty]] and perplexing from the prodigality with
 which they were scattered around; encountered her on every side. The
 very staircase nearly down to the hall-door, was crammed with beautiful
-and luxurious things, as though the house were brimful of riches, which,
+and luxurious things, as though the [[house]] were brimful of riches, which,
 with a very trifling addition, would fairly run over into the street.
 
-Presently, she heard a series of loud double knocks at the street-door,
+Presently, she heard a series of loud [[Double|double]] knocks at the street-door,
 and after every knock some new voice in the next room; the tones of Mr
-Ralph Nickleby were easily distinguishable at first, but by degrees
+[[Ralph Nickleby]] were easily distinguishable at first, but by degrees
 they merged into the general buzz of conversation, and all she could
 ascertain was, that there were several gentlemen with no very musical
 voices, who talked very loud, laughed very heartily, and swore more
@@ -116,5 +116,5 @@ them. Now--shall I take you in?’
 
 ‘Pray, uncle,’ said Kate, a little flurried, as people much more
 conversant with society often are, when they are about to enter a room
-full of strangers, and have had time to think of it previously, ‘are
+full of strangers, and have had [[Time|time]] to think of it previously, ‘are
 there any ladies here?’

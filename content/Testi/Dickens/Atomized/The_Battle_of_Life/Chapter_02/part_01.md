@@ -21,11 +21,11 @@ SNITCHEY AND CRAGGS had a snug little office on the old Battle Ground,
 where they drove a snug little business, and fought a great many small
 pitched battles for a great many contending parties.  Though it could
 hardly be said of these conflicts that they were running fights—for in
-truth they generally proceeded at a snail’s pace—the part the Firm had in
+[[Truth|truth]] they generally proceeded at a snail’s pace—the part the Firm had in
 them came so far within the general denomination, that now they took a
 shot at this Plaintiff, and now aimed a chop at that Defendant, now made
 a heavy charge at an estate in Chancery, and now had some light
-skirmishing among an irregular body of small debtors, just as the
+skirmishing among an irregular [[Body|body]] of small debtors, just as the
 occasion served, and the enemy happened to present himself.  The Gazette
 was an important and profitable feature in some of their fields, as in
 fields of greater renown; and in most of the Actions wherein they showed
@@ -36,7 +36,7 @@ amount of smoke by which they were surrounded.
 
 The offices of Messrs. Snitchey and Craggs stood convenient, with an open
 door down two smooth steps, in the market-place; so that any angry farmer
-inclining towards hot water, might tumble into it at once.  Their special
+inclining towards hot [[Water|water]], might tumble into it at once.  Their special
 council-chamber and hall of conference was an old back-room up-stairs,
 with a low dark ceiling, which seemed to be knitting its brows gloomily
 in the consideration of tangled points of law.  It was furnished with
@@ -62,10 +62,10 @@ would observe, sometimes, to Mr. Craggs; using that imaginative plural as
 if in disparagement of an objectionable pair of pantaloons, or other
 articles not possessed of a singular number; ‘I don’t see what you want
 with your Snitcheys, for my part.  You trust a great deal too much to
-your Snitcheys, _I_ think, and I hope you may never find my words come
+your Snitcheys, _I_ think, and I [[Hope|hope]] you may never find my words come
 true.’  While Mrs. Snitchey would observe to Mr. Snitchey, of Craggs,
 ‘that if ever he was led away by man he was led away by that man, and
-that if ever she read a double purpose in a mortal eye, she read that
+that if ever she read a [[Double|double]] purpose in a mortal eye, she read that
 purpose in Craggs’s eye.’  Notwithstanding this, however, they were all
 very good friends in general: and Mrs. Snitchey and Mrs. Craggs
 maintained a close bond of alliance against ‘the office,’ which they both
@@ -74,19 +74,19 @@ unknown) machinations.
 
 In this office, nevertheless, Snitchey and Craggs made honey for their
 several hives.  Here, sometimes, they would linger, of a fine evening, at
-the window of their council-chamber overlooking the old battle-ground,
-and wonder (but that was generally at assize time, when much business had
+the [[Window|window]] of their council-chamber overlooking the old battle-ground,
+and [[Wonder|wonder]] (but that was generally at assize [[Time|time]], when much business had
 made them sentimental) at the folly of mankind, who couldn’t always be at
 peace with one another and go to law comfortably.  Here, days, and weeks,
 and months, and years, passed over them: their calendar, the gradually
 diminishing number of brass nails in the leathern chairs, and the
 increasing bulk of papers on the tables.  Here, nearly three years’
 flight had thinned the one and swelled the other, since the breakfast in
-the orchard; when they sat together in consultation at night.
+the orchard; when they sat together in consultation at [[Night|night]].
 
-Not alone; but, with a man of thirty, or about that time of life,
-negligently dressed, and somewhat haggard in the face, but well-made,
-well-attired, and well-looking, who sat in the armchair of state, with
+Not [[Alone|alone]]; but, with a man of thirty, or about that [[Time|time]] of life,
+negligently dressed, and somewhat haggard in the face, but [[Well|well]]-made,
+[[Well|well]]-attired, and [[Well|well]]-looking, who sat in the armchair of state, with
 one hand in his breast, and the other in his dishevelled hair, pondering
 moodily.  Messrs. Snitchey and Craggs sat opposite each other at a
 neighbouring desk.  One of the fireproof boxes, unpadlocked and opened,
@@ -96,9 +96,9 @@ brought it to the candle, document by document; looked at every paper
 singly, as he produced it; shook his head, and handed it to Mr. Craggs;
 who looked it over also, shook his head, and laid it down.  Sometimes,
 they would stop, and shaking their heads in concert, look towards the
-abstracted client.  And the name on the box being Michael Warden,
+abstracted client.  And the name on the box being [[Michael Warden]],
 Esquire, we may conclude from these premises that the name and the box
-were both his, and that the affairs of Michael Warden, Esquire, were in a
+were both his, and that the affairs of [[Michael Warden]], Esquire, were in a
 bad way.
 
 ‘That’s all,’ said Mr. Snitchey, turning up the last paper.  ‘Really

@@ -20,18 +20,18 @@ THE PERFECT GAME
 
 We have all met the man who says that some odd things have
 happened to him, but that he does not really believe that they
-were supernatural.  My own position is the opposite of this.
-I believe in the supernatural as a matter of intellect and reason,
-not as a matter of personal experience.  I do not see ghosts;
+were [[Supernatural|supernatural]].  My own position is the opposite of this.
+I believe in the [[Supernatural|supernatural]] as a matter of intellect and reason,
+not as a matter of personal experience.  I do not see [[Ghosts|ghosts]];
 I only see their inherent probability.  But it is entirely
 a matter of the mere intelligence, not even of the motions;
-my nerves and body are altogether of this earth, very earthy.
+my nerves and [[Body|body]] are altogether of this earth, very earthy.
 But upon people of this temperament one weird incident will often
 leave a peculiar impression.  And the weirdest circumstance
 that ever occurred to me occurred a little while ago.
 It consisted in nothing less than my playing a game, and playing
-it quite well for some seventeen consecutive minutes.
-The ghost of my grandfather would have astonished me less.
+it quite [[Well|well]] for some seventeen consecutive minutes.
+The [[Ghost|ghost]] of my grandfather would have astonished me less.
 
 On one of these blue and burning afternoons I found myself, to my
 inexpressible astonishment, playing a game called croquet.  I had
@@ -45,33 +45,33 @@ but it is certain and beyond dispute that I had the worst of the game.
 
 "Oh, Parkinson, Parkinson!"  I cried, patting him affectionately
 on the head with a mallet, "how far you really are from the pure
-love of the sport--you who can play.  It is only we who play badly
-who love the Game itself.  You love glory; you love applause;
-you love the earthquake voice of victory; you do not love croquet.
-You do not love croquet until you love being beaten at croquet.
+[[Love|love]] of the sport--you who can play.  It is only we who play badly
+who [[Love|love]] the Game itself.  You [[Love|love]] glory; you [[Love|love]] applause;
+you [[Love|love]] the earthquake voice of victory; you do not [[Love|love]] croquet.
+You do not [[Love|love]] croquet until you [[Love|love]] being beaten at croquet.
 It is we the bunglers who adore the occupation in the abstract.
 It is we to whom it is art for art's sake.  If we may see
 the face of Croquet herself (if I may so express myself)
 we are content to see her face turned upon us in anger.
 Our play is called amateurish; and we wear proudly the name
-of amateur, for amateurs is but the French for Lovers.
+of amateur, for amateurs is but the French for [[lovers|Lovers]].
 We accept all adventures from our Lady, the most disastrous
 or the most dreary.  We wait outside her iron gates (I allude
 to the hoops), vainly essaying to enter.  Our devoted balls,
 impetuous and full of chivalry, will not be confined within
 the pedantic boundaries of the mere croquet ground.  Our balls seek
-honour in the ends of the earth; they turn up in the flower-beds
-and the conservatory; they are to be found in the front garden
+[[Honour|honour]] in the ends of the earth; they turn up in the flower-beds
+and the conservatory; they are to be found in the front [[Garden|garden]]
 and the next street.  No, Parkinson!  The good painter has skill.
 It is the bad painter who loves his art.  The good musician
 loves being a musician, the bad musician loves music.
 With such a pure and hopeless passion do I worship croquet.
-I love the game itself.  I love the parallelogram of grass
-marked out with chalk or tape, as if its limits were the
+I [[Love|love]] the game itself.  I [[Love|love]] the parallelogram of grass
+marked out with [[chalk]] or tape, as if its limits were the
 frontiers of my sacred Fatherland, the four seas of Britain.
-I love the mere swing of the mallets, and the click of the balls
+I [[Love|love]] the mere swing of the mallets, and the click of the balls
 is music.  The four colours are to me sacramental and symbolic,
-like the red of martyrdom, or the white of Easter Day.
+like the red of [[Martyrdom|martyrdom]], or the white of Easter Day.
 You lose all this, my poor Parkinson.  You have to solace
 yourself for the absence of this vision by the paltry consolation
 of being able to go through hoops and to hit the stick."
@@ -79,25 +79,25 @@ of being able to go through hoops and to hit the stick."
 And I waved my mallet in the air with a graceful gaiety.
 
 "Don't be too sorry for me," said Parkinson, with his simple sarcasm.
-"I shall get over it in time.  But it seems to me that the more
+"I shall get over it in [[Time|time]].  But it seems to me that the more
 a man likes a game the better he would want to play it.
 Granted that the pleasure in the thing itself comes first, does not
-the pleasure of success come naturally and inevitably afterwards?
-Or, take your own simile of the Knight and his Lady-love. I admit
+the pleasure of [[success]] come naturally and inevitably afterwards?
+Or, take your own simile of the Knight and his Lady-[[Love|love]]. I admit
 the gentleman does first and foremost want to be in the lady's presence.
 But I never yet heard of a gentleman who wanted to look an utter
 ass when he was there."
 
 "Perhaps not; though he generally looks it," I replied.
-"But the truth is that there is a fallacy in the simile,
-although it was my own.  The happiness at which the lover is aiming
+"But the [[Truth|truth]] is that there is a fallacy in the simile,
+although it was my own.  The happiness at which the [[Lover|lover]] is aiming
 is an infinite happiness, which can be extended without limit.
 The more he is loved, normally speaking, the jollier he will be.
-It is definitely true that the stronger the love of both lovers,
+It is definitely true that the stronger the [[Love|love]] of both [[lovers]],
 the stronger will be the happiness.  But it is not true that the stronger
 the play of both croquet players the stronger will be the game.
 It is logically possible--(follow me closely here, Parkinson!)--
-it is logically possible, to play croquet too well to enjoy it
+it is logically possible, to play croquet too [[Well|well]] to enjoy it
 at all.  If you could put this blue ball through that distant
 hoop as easily as you could pick it up with your hand,
 then you would not put it through that hoop any more than you
@@ -114,12 +114,12 @@ I again caressed him with the mallet, knocked a ball about,
 wired myself, and resumed the thread of my discourse.
 
 The long, warm evening had been gradually closing in, and by this
-time it was almost twilight.  By the time I had delivered four
+[[Time|time]] it was almost twilight.  By the [[Time|time]] I had delivered four
 more fundamental principles, and my companion had gone through five
 more hoops, the dusk was verging upon dark.
 
 "We shall have to give this up," said Parkinson, as he missed
-a ball almost for the first time, "I can't see a thing."
+a ball almost for the first [[Time|time]], "I can't see a thing."
 
 "Nor can I," I answered, "and it is a comfort to reflect that I
 could not hit anything if I saw it."
@@ -135,9 +135,9 @@ I could not see the hoop; but it was the right hoop.
 I shuddered from head to foot.
 
 Words were wholly inadequate, so I slouched heavily after that
-impossible ball.  Again I hit it away into the night, in what I
+impossible ball.  Again I hit it away into the [[Night|night]], in what I
 supposed was the vague direction of the quite invisible stick.
-And in the dead silence I heard the stick rattle as the ball
+And in the dead [[Silence|silence]] I heard the stick rattle as the ball
 struck it heavily.
 
 I threw down my mallet.  "I can't stand this," I said.
@@ -153,9 +153,9 @@ all the devils dancing there on the blessed grass."
 making fun of you.  They are sending you the 'Perfect Game,'
 which is no game."
 
-I looked about me.  The garden was full of a burning darkness,
-in which the faint glimmers had the look of fire.
+I looked about me.  The [[Garden|garden]] was full of a burning darkness,
+in which the faint glimmers had the look of [[Fire|fire]].
 I stepped across the grass as if it burnt me, picked up the mallet,
 and hit the ball somewhere--somewhere where another ball might be.
 I heard the dull click of the balls touching, and ran into
-the house like one pursued.
+the [[house]] like one pursued.

@@ -19,28 +19,28 @@ CHAPTER 32. More Fortune-Telling
 
 Maggy sat at her work in her great white cap with its quantity of opaque
 frilling hiding what profile she had (she had none to spare), and her
-serviceable eye brought to bear upon her occupation, on the window side
+serviceable eye brought to bear upon her occupation, on the [[Window|window]] side
 of the room. What with her flapping cap, and what with her unserviceable
 eye, she was quite partitioned off from her Little Mother, whose seat
-was opposite the window. The tread and shuffle of feet on the pavement
+was opposite the [[Window|window]]. The tread and shuffle of feet on the pavement
 of the yard had much diminished since the taking of the Chair, the tide
 of Collegians having set strongly in the direction of Harmony. Some few
 who had no music in their souls, or no money in their pockets, dawdled
 about; and the old spectacle of the visitor-wife and the depressed
 unseasoned prisoner still lingered in corners, as broken cobwebs and
 such unsightly discomforts draggle in corners of other places. It was
-the quietest time the College knew, saving the night hours when the
-Collegians took the benefit of the act of sleep. The occasional rattle
+the quietest [[Time|time]] the College knew, saving the [[Night|night]] hours when the
+Collegians took the benefit of the act of [[Sleep|sleep]]. The occasional rattle
 of applause upon the tables of the Snuggery, denoted the successful
 termination of a morsel of Harmony; or the responsive acceptance, by
 the united children, of some toast or sentiment offered to them by their
 Father. Occasionally, a vocal strain more sonorous than the generality
-informed the listener that some boastful bass was in blue water, or in
+informed the listener that some boastful bass was in blue [[Water|water]], or in
 the hunting field, or with the reindeer, or on the mountain, or among
 the heather; but the Marshal of the Marshalsea knew better, and had got
 him hard and fast.
 
-As Arthur Clennam moved to sit down by the side of Little Dorrit, she
+As [[Arthur Clennam]] moved to sit down by the side of Little Dorrit, she
 trembled so that she had much ado to hold her needle. Clennam gently
 put his hand upon her work, and said, ‘Dear Little Dorrit, let me lay it
 down.’
@@ -63,7 +63,7 @@ He saw her trembling little form and her downcast face, and the eyes
 that drooped the moment they were raised to his--he saw them almost with
 as much concern as tenderness.
 
-‘My child, your manner is so changed!’
+‘My [[Child|child]], your manner is so changed!’
 
 The trembling was now quite beyond her control. Softly withdrawing her
 hand, and laying it in her other hand, she sat before him with her head
@@ -71,23 +71,23 @@ bent and her whole form trembling.
 
 ‘My own Little Dorrit,’ said Clennam, compassionately.
 
-She burst into tears. Maggy looked round of a sudden, and stared for at
+She burst into [[Tears|tears]]. Maggy looked round of a sudden, and stared for at
 least a minute; but did not interpose. Clennam waited some little while
 before he spoke again.
 
-‘I cannot bear,’ he said then, ‘to see you weep; but I hope this is a
+‘I cannot bear,’ he said then, ‘to see you weep; but I [[Hope|hope]] this is a
 relief to an overcharged heart.’
 
 ‘Yes it is, sir. Nothing but that.’
 
-‘Well, well! I feared you would think too much of what passed here just
+‘[[Well]], [[Well|well]]! I feared you would think too much of what passed here just
 now. It is of no moment; not the least. I am only unfortunate to have
-come in the way. Let it go by with these tears. It is not worth one of
+come in the way. Let it go by with these [[Tears|tears]]. It is not worth one of
 them. One of them? Such an idle thing should be repeated, with my glad
 consent, fifty times a day, to save you a moment’s heart-ache, Little
 Dorrit.’
 
-She had taken courage now, and answered, far more in her usual manner,
+She had taken [[Courage|courage]] now, and answered, far more in her usual manner,
 ‘You are so good! But even if there was nothing else in it to be sorry
 for and ashamed of, it is such a bad return to you--’
 
@@ -111,8 +111,8 @@ ill, Mr Clennam?’
 It fell to Clennam now, to be not quite certain how to answer. He said
 in reply:
 
-‘To speak the truth, I have been a little troubled, but it is over.
-Do I show it so plainly? I ought to have more fortitude and self-command
+‘To speak the [[Truth|truth]], I have been a little troubled, but it is over.
+Do I show it so plainly? I ought to have more fortitude and [[Self|self]]-command
 than that. I thought I had. I must learn them of you. Who could teach me
 better!’
 
@@ -124,27 +124,27 @@ looked upon him with the same light and strength as hers.
 therefore I will not quarrel even with my own face for telling tales
 and being unfaithful to me. Besides, it is a privilege and pleasure to
 confide in my Little Dorrit. Let me confess then, that, forgetting how
-grave I was, and how old I was, and how the time for such things had
+[[Grave|grave]] I was, and how old I was, and how the [[Time|time]] for such things had
 gone by me with the many years of sameness and little happiness that
 made up my long life far away, without marking it--that, forgetting all
 this, I fancied I loved some one.’
 
 ‘Do I know her, sir?’ asked Little Dorrit.
 
-‘No, my child.’
+‘No, my [[Child|child]].’
 
 ‘Not the lady who has been kind to me for your sake?’
 
 ‘Flora. No, no. Do you think--’
 
 ‘I never quite thought so,’ said Little Dorrit, more to herself than
-him. ‘I did wonder at it a little.’
+him. ‘I did [[Wonder|wonder]] at it a little.’
 
-‘Well!’ said Clennam, abiding by the feeling that had fallen on him in
-the avenue on the night of the roses, the feeling that he was an
+‘[[Well]]!’ said Clennam, abiding by the feeling that had fallen on him in
+the avenue on the [[Night|night]] of the roses, the feeling that he was an
 older man, who had done with that tender part of life, ‘I found out my
 mistake, and I thought about it a little--in short, a good deal--and got
 wiser. Being wiser, I counted up my years and considered what I am, and
 looked back, and looked forward, and found that I should soon be grey. I
-found that I had climbed the hill, and passed the level ground upon the
+found that I had climbed the [[Hill|hill]], and passed the level ground upon the
 top, and was descending quickly.’

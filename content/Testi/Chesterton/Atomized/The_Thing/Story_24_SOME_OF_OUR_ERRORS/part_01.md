@@ -20,7 +20,7 @@ THE thoughtful reader, studying the literature of the enlightened
 and scientific when they advise us about ethics and religion,
 will be arrested by one phrase which really has a meaning.
 Nay, he will observe, with increasing interest and excitement,
-that it really contains a truth.  Most of the phrases that are
+that it really contains a [[Truth|truth]].  Most of the phrases that are
 supposed to go along with it, and to be of the same sort,
 will be found to be not only untrue but almost unmeaning.
 When the Modernist says that we must free the human intellect
@@ -44,7 +44,7 @@ It is also true that those who say it often mean the very
 opposite of what they say.  As I have remarked elsewhere,
 they very often intend not to restate anything, but to state
 something else, introducing as many of the old words as possible.
-By this time not only the word religion, but also the word restatement,
+By this [[Time|time]] not only the word religion, but also the word restatement,
 is becoming rather an old word.  But anyhow the point is that they
 do not really mean that we should give freshness and a new aspect
 to religion by calling it roly-poly or rumpti-foo. On the contrary,
@@ -53,7 +53,7 @@ and agree to call it religion.  I mention, with some sadness,
 that I have said this before; because I have found it quite difficult
 to get them to see a fact of almost heart-breaking simplicity.
 It seems to strike them as being merely a fine shade of distinction;
-but it strikes me as a rather grotesque and staggering reversal.
+but it strikes me as a rather [[Grotesque|grotesque]] and staggering reversal.
 There would be the same fine shade of difference, if somebody of a
 sartorial sort came to me protesting that my aged father was waiting
 in rags on my door-step, and urgently needing a new hat and coat,
@@ -63,14 +63,14 @@ ended by his introducing me to a total stranger begging for my
 father's old hat.
 
 Now I do really believe that there is a need for the restatement
-of religious truth; but not the statement of something
+of religious [[Truth|truth]]; but not the statement of something
 quite different, which I do not believe to be true.
 I believe there is a very urgent need for a verbal paraphrase
 of many of the fundamental doctrines; simply because people
 have ceased to understand them as they are traditionally stated.
 It does not follow from this that the traditional statement is not
 the true statement.  It only means that the traditional statement
-now needs to be translated; although translation is seldom true.
+now needs to be translated; although [[Translation|translation]] is seldom true.
 This is especially the case in connection with Catholic ideas;
 because they were originally stated in what some call a dead
 language and some an everlasting language.  But anyhow, they were
@@ -87,7 +87,7 @@ fault is with a dead language, as against a language that has developed.
 If they were really liberal, they could enlarge their minds to see
 that there is a case for the language having degenerated.  But in
 either case, it is practically true that there are misunderstandings,
-and that we ought chiefly to desire to make people understand.
+and that we ought chiefly to [[Desire|desire]] to make people understand.
 And I think we have faults and follies of our own in this matter; and that
 it is not always the fault of our enemies that they misunderstand.
 There are cases in which we, more or less unconsciously,
@@ -101,7 +101,7 @@ For instance, there is a sort of misunderstanding that is
 simply mistranslation.  Probably we have never properly explained
 to them the real case for using Latin for something that must
 be immutable and universal.  But as half of them are howling day
-and night for an international language, and accepting a journalese
+and [[Night|night]] for an international language, and accepting a journalese
 jibberish with plurals in "oj" because they can get no better,
 some glimmering of the old use of Latin by Erasmus or Bacon might
 reasonably be expected of them.  Of the full defence of such a

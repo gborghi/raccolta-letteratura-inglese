@@ -1,5 +1,5 @@
 ---
-title: "The First Part of the Contention (2 Henry VI) — Act IV, Scene 5"
+title: "The First Part of the Contention (2 [[Henry VI]]) — Act IV, Scene 5"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/THE-FIRST-PART-OF-THE-CONTENTION---(2-HENRY-VI)-(Shakespeare)"
@@ -17,7 +17,7 @@ tags:
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Enter the Lord Scales upon the Tower, walking. Enter three or four Citizens below |
-| SCALES | How now? Is Jack Cade slain? |
-| FIRST CITIZEN | No, my lord Scales, nor likely to be slain, for he and his men have won the bridge, killing all those that did withstand them. The Lord Mayor craveth aid of your honour from the Tower to defend the city from the rebels. |
-| SCALES | Such aid as I can spare you shall command,<br>But I am troubled here with them myself.<br>The rebels have essayed to win the Tower.<br>Get you to Smithfield, there to gather head,<br>And thither will I send you Matthew Gough.<br>Fight for your king, your country, and your lives!<br>And so, farewell, for I must hence again. |
+| SCALES | How now? Is [[Jack Cade]] slain? |
+| FIRST CITIZEN | No, my lord Scales, nor likely to be slain, for he and his men have won the bridge, killing all those that did withstand them. The [[Lord Mayor]] craveth aid of your [[Honour|honour]] from the Tower to defend the [[City|city]] from the rebels. |
+| SCALES | Such aid as I can spare you shall command,<br>But I am troubled here with them myself.<br>The rebels have essayed to win the Tower.<br>Get you to Smithfield, there to gather head,<br>And thither will I send you Matthew Gough.<br>Fight for your [[King|king]], your country, and your lives!<br>And so, farewell, for I must hence again. |
 | *(didascalia)* | Exeunt, Scales above, the Citizens below |

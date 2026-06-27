@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 17"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 17"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -44,7 +44,7 @@ have mentioned the party: it was for the sake of another of Mr.
 
 Wilmot’s guests, to wit Mr. Huntingdon. I have good reason to remember
 
-his presence there, for this was the last time I saw him.
+his presence there, for this was the last [[Time|time]] I saw him.
 
 
 
@@ -98,11 +98,11 @@ sat with Milicent Hargrave at the opposite end of the room, looking
 
 over the latter’s drawings, and aiding her with my critical
 
-observations and advice, at her particular desire. But in spite of my
+observations and advice, at her particular [[Desire|desire]]. But in spite of my
 
 efforts to remain composed, my attention wandered from the drawings to
 
-the merry group, and against my better judgment my wrath rose, and
+the merry group, and against my better judgment my wrath [[Rose|rose]], and
 
 doubtless my countenance lowered; for Milicent, observing that I must
 
@@ -126,7 +126,7 @@ which we sat.
 
 
 
-“Oh! well, let’s have a look at them.”
+“Oh! [[Well|well]], let’s have a look at them.”
 
 
 
@@ -138,7 +138,7 @@ drawings, one by one from my hand, successively scanned them over, and
 
 threw them on the table, but said not a word about them, though he was
 
-talking all the time. I don’t know what Milicent Hargrave thought of
+talking all the [[Time|time]]. I don’t know what Milicent Hargrave thought of
 
 such conduct, but _I_ found his conversation extremely interesting;
 
@@ -186,7 +186,7 @@ private thoughts.
 
 
 
-But I was not left long alone, for Mr. Wilmot, of all men the least
+But I was not left long [[Alone|alone]], for Mr. Wilmot, of all men the least
 
 welcome, took advantage of my isolated position to come and plant
 
@@ -236,15 +236,15 @@ season of torment was past.
 
 
 
-“Helen,” said he (he frequently called me Helen, and I never resented
+“[[Helen]],” said he (he frequently called me [[Helen]], and I never resented
 
-the freedom), “I want you to look at this picture. Mr. Wilmot will
+the [[Freedom|freedom]]), “I want you to look at this picture. Mr. Wilmot will
 
 excuse you a moment, I’m sure.”
 
 
 
-I rose with alacrity. He drew my arm within his, and led me across the
+I [[Rose|rose]] with alacrity. He drew my arm within his, and led me across the
 
 room to a splendid painting of Vandyke’s that I had noticed before, but
 
@@ -276,7 +276,7 @@ it is partly from a feeling of spite to your tormentors that makes me
 
 delighted to do the old fellows a bad turn, though I don’t think I have
 
-any great reason to dread them as rivals. Have I, Helen?”
+any great reason to dread them as rivals. Have I, [[Helen]]?”
 
 
 
@@ -292,7 +292,7 @@ any great reason to dread them as rivals. Have I, Helen?”
 
 
 
-“But what are your sentiments towards me? Helen—Speak! How do you
+“But what are your sentiments towards me? [[Helen]]—Speak! How do you
 
 regard me?”
 
@@ -318,7 +318,7 @@ said,—
 
 
 
-“Helen, I want you a moment,” said the distinct, low voice of my aunt,
+“[[Helen]], I want you a moment,” said the distinct, low voice of my aunt,
 
 close beside us. And I left him, muttering maledictions against his
 
@@ -326,9 +326,9 @@ evil angel.
 
 
 
-“Well, aunt, what is it? What do you want?” said I, following her to
+“[[Well]], aunt, what is it? What do you want?” said I, following her to
 
-the embrasure of the window.
+the embrasure of the [[Window|window]].
 
 
 
@@ -352,11 +352,11 @@ kindled by a complication of emotions, of which indignant, swelling
 
 anger was the chief. I offered no reply, however, but pushed aside the
 
-curtain and looked into the night—or rather into the lamp-lit square.
+curtain and looked into the [[Night|night]]—or rather into the lamp-lit square.
 
 
 
-“Was Mr. Huntingdon proposing to you, Helen?” inquired my too watchful
+“Was Mr. Huntingdon proposing to you, [[Helen]]?” inquired my too watchful
 
 relative.
 
@@ -374,7 +374,7 @@ relative.
 
 
 
-“And would you have accepted him, Helen, if he had proposed?”
+“And would you have accepted him, [[Helen]], if he had proposed?”
 
 
 
@@ -382,7 +382,7 @@ relative.
 
 
 
-“Oh! I’m glad, my dear, you have so much prudence left. Well, now,” she
+“Oh! I’m glad, my dear, you have so much prudence left. [[Well]], now,” she
 
 added, after a moment’s pause, “you have made yourself conspicuous
 
@@ -400,13 +400,13 @@ when you are sufficiently composed to appear as usual.”
 
 “Speak gently then, and don’t look so malicious,” said my calm, but
 
-provoking aunt. “We shall return home shortly, and then,” she added
+provoking aunt. “We shall return [[Home|home]] shortly, and then,” she added
 
 with solemn significance, “I have much to say to you.”
 
 
 
-So I went home prepared for a formidable lecture. Little was said by
+So I went [[Home|home]] prepared for a formidable lecture. Little was said by
 
 either party in the carriage during our short transit homewards; but
 
@@ -422,7 +422,7 @@ angles with mine, sat down. With due deference I offered her my more
 
 commodious seat. She declined it, and thus opened the conference: “Do
 
-you remember, Helen, our conversation the night but one before we left
+you remember, [[Helen]], our conversation the [[Night|night]] but one before we left
 
 Staningley?”
 
@@ -452,9 +452,9 @@ for uneasiness on your account; for you should never be _tempted_ to
 
 marry a man who was deficient in sense or principle, however handsome
 
-or charming in other respects he might be, for you could not love him;
+or charming in other respects he might be, for you could not [[Love|love]] him;
 
-you should hate—despise—pity—anything but love him—were not those your
+you should hate—despise—pity—anything but [[Love|love]] him—were not those your
 
 words?”
 
@@ -466,13 +466,13 @@ words?”
 
 “And did you not say that your affection _must_ be founded on
 
-approbation; and that, unless you could approve and honour and respect,
+approbation; and that, unless you could approve and [[Honour|honour]] and respect,
 
-you could not love?”
+you could not [[Love|love]]?”
 
 
 
-“Yes; but I do approve, and honour, and respect—”
+“Yes; but I do approve, and [[Honour|honour]], and respect—”
 
 
 
@@ -512,7 +512,7 @@ acquirements?”
 
 
 
-“Thanks to you, aunt, I have been well brought up, and had good
+“Thanks to you, aunt, I have been [[Well|well]] brought up, and had good
 
 examples always before me, which he, most likely, has not; and,
 
@@ -522,7 +522,7 @@ temper, and I am naturally inclined to reflection.”
 
 
 
-“Well, now you have made him out to be deficient in both sense and
+“[[Well]], now you have made him out to be deficient in both sense and
 
 principle, by your own confession—”
 
@@ -532,7 +532,7 @@ principle, by your own confession—”
 
 
 
-“That sounds presumptuous, Helen. Do you think you have enough for
+“That sounds presumptuous, [[Helen]]. Do you think you have enough for
 
 both; and do you imagine your merry, thoughtless profligate would allow
 
@@ -544,7 +544,7 @@ himself to be guided by a young girl like you?”
 
 sufficient to save him from some errors, and I should think my life
 
-well spent in the effort to preserve so noble a nature from
+[[Well|well]] spent in the effort to preserve so noble a [[Nature|nature]] from
 
 destruction. He always listens attentively now when I speak seriously
 
@@ -560,11 +560,11 @@ still—”
 
 
 
-“But still you think it may be truth?”
+“But still you think it may be [[Truth|truth]]?”
 
 
 
-“If I do think there is any mixture of truth in it, it is not from
+“If I do think there is any mixture of [[Truth|truth]] in it, it is not from
 
 confidence in my own powers, but in _his_ natural goodness. And you
 
@@ -586,7 +586,7 @@ other day?”
 
 
 
-“You think, then, that he is a virtuous, well-conducted young man?”
+“You think, then, that he is a virtuous, [[Well|well]]-conducted young man?”
 
 
 
@@ -608,7 +608,7 @@ too glad to attract his attention.”
 
 
 
-“Helen, the world _may_ look upon such offences as venial; a few
+“[[Helen]], the world _may_ look upon such offences as venial; a few
 
 unprincipled mothers may be anxious to catch a young man of fortune
 
@@ -624,7 +624,7 @@ judgment. I did not think _you_ would call these venial errors!”
 
 
 
-“Nor do I, aunt; but if I hate the sins, I love the sinner, and would
+“Nor do I, aunt; but if I hate the sins, I [[Love|love]] the sinner, and would
 
 do much for his salvation, even supposing your suspicions to be mainly
 
@@ -632,7 +632,7 @@ true, which I do not and will not believe.”
 
 
 
-“Well, my dear, ask your uncle what sort of company he keeps, and if he
+“[[Well]], my dear, ask your uncle what sort of company he keeps, and if he
 
 is not banded with a set of loose, profligate young men, whom he calls
 
@@ -640,7 +640,7 @@ his friends, his jolly companions, and whose chief delight is to wallow
 
 in vice, and vie with each other who can run fastest and furthest down
 
-the headlong road to the place prepared for the devil and his angels.”
+the headlong [[Road|road]] to the place prepared for the devil and his angels.”
 
 
 
@@ -648,7 +648,7 @@ the headlong road to the place prepared for the devil and his angels.”
 
 
 
-“Oh, Helen, Helen! you little know the misery of uniting your fortunes
+“Oh, [[Helen]], [[Helen]]! you little know the misery of uniting your fortunes
 
 to such a man!”
 
@@ -660,11 +660,11 @@ I would willingly risk my happiness for the chance of securing his. I
 
 will leave better men to those who only consider their own advantage.
 
-If he has done amiss, I shall consider my life well spent in saving him
+If he has done amiss, I shall consider my life [[Well|well]] spent in saving him
 
 from the consequences of his early errors, and striving to recall him
 
-to the path of virtue. God grant me success!”
+to the path of virtue. God grant me [[success]]!”
 
 
 
@@ -672,7 +672,7 @@ Here the conversation ended, for at this juncture my uncle’s voice was
 
 heard from his chamber, loudly calling upon my aunt to come to bed. He
 
-was in a bad humour that night; for his gout was worse. It had been
+was in a bad [[Humour|humour]] that [[Night|night]]; for his gout was worse. It had been
 
 gradually increasing upon him ever since we came to town; and my aunt
 
@@ -694,4 +694,4 @@ forgotten him already, for I never mention his name; and she may
 
 continue to think so, till we meet again—if ever that should be. I
 
-wonder if it will?
+[[Wonder|wonder]] if it will?

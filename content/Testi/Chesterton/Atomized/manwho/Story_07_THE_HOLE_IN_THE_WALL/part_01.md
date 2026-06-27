@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE HOLE IN THE WALL (part 1)"
+title: "[[manwho]] — THE HOLE IN THE WALL (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -20,17 +20,17 @@ VI. THE HOLE IN THE WALL
 
 Two men, the one an architect and the other an archaeologist, met on
 
-the steps of the great house at Prior's Park; and their host, Lord
+the steps of the [[Great House|great house]] at Prior's Park; and their host, Lord
 
 Bulmer, in his breezy way, thought it natural to introduce them. It
 
-must be confessed that he was hazy as well as breezy, and had no
+must be confessed that he was hazy as [[Well|well]] as breezy, and had no
 
 very clear connection in his mind, beyond the sense that an
 
 architect and an archaeologist begin with the same series of
 
-letters. The world must remain in a reverent doubt as to whether he
+letters. The world must remain in a reverent [[Doubt|doubt]] as to whether he
 
 would, on the same principles, have presented a diplomatist to a
 
@@ -50,9 +50,9 @@ rather an old building, by the way, though I say it who shouldn't. I
 
 must ask you to excuse me a moment; I've got to go and see about the
 
-cards for this Christmas romp my sister's arranging. We hope to see
+cards for this Christmas romp my sister's arranging. We [[Hope|hope]] to see
 
-you all there, of course. Juliet wants it to be a fancy-dress
+you all there, of course. [[Juliet]] wants it to be a fancy-dress
 
 affair--abbots and crusaders and all that. My ancestors, I suppose,
 
@@ -70,19 +70,19 @@ gentleman, with a smile.
 
 laughing; then his rather rambling eye rolled round the ordered
 
-landscape in front of the house; an artificial sheet of water
+landscape in front of the [[house]]; an artificial sheet of [[Water|water]]
 
 ornamented with an antiquated nymph in the center and surrounded by
 
 a park of tall trees now gray and black and frosty, for it was in
 
-the depth of a severe winter.
+the depth of a severe [[Winter|winter]].
 
 
 
 "It's getting jolly cold," his lordship continued. "My sister hopes
 
-we shall have some skating as well as dancing."
+we shall have some skating as [[Well|well]] as dancing."
 
 
 
@@ -92,15 +92,15 @@ careful not to drown your ancestors."
 
 
 
-"Oh, there's no fear of that," answered Bulmer; "this precious lake
+"Oh, there's no [[Fear|fear]] of that," answered Bulmer; "this precious lake
 
 of ours is not two feet deep anywhere." And with one of his
 
-flourishing gestures he stuck his stick into the water to
+flourishing gestures he stuck his stick into the [[Water|water]] to
 
 demonstrate its shallowness. They could see the short end bent in
 
-the water, so that he seemed for a moment to lean his large weight
+the [[Water|water]], so that he seemed for a moment to lean his large weight
 
 on a breaking staff.
 
@@ -108,7 +108,7 @@ on a breaking staff.
 
 "The worst you can expect is to see an abbot sit down rather
 
-suddenly," he added, turning away. "Well, au revoir; I'll let you
+suddenly," he added, turning away. "[[Well]], au revoir; I'll let you
 
 know about it later."
 
@@ -124,9 +124,9 @@ might even have found some contradiction in each considered
 
 individually. The former, a Mr. James Haddow, came from a drowsy den
 
-in the Inns of Court, full of leather and parchment, for the law was
+in the Inns of [[Court]], full of leather and parchment, for the law was
 
-his profession and history only his hobby; he was indeed, among
+his profession and [[history]] only his hobby; he was indeed, among
 
 other things, the solicitor and agent of the Prior's Park estate.
 
@@ -138,19 +138,19 @@ as his very neat costume. The latter, whose name was Leonard Crane,
 
 came straight from a crude and almost cockney office of builders and
 
-house agents in the neighboring suburb, sunning itself at the end of
+[[house]] agents in the neighboring suburb, sunning itself at the end of
 
 a new row of jerry-built houses with plans in very bright colors and
 
 notices in very large letters. But a serious observer, at a second
 
-glance, might have seen in his eyes something of that shining sleep
+glance, might have seen in his eyes something of that shining [[Sleep|sleep]]
 
 that is called vision; and his yellow hair, while not affectedly
 
-long, was unaffectedly untidy. It was a manifest if melancholy truth
+long, was unaffectedly untidy. It was a manifest if [[Melancholy|melancholy]] [[Truth|truth]]
 
-that the architect was an artist. But the artistic temperament was
+that the architect was an [[artist]]. But the artistic temperament was
 
 far from explaining him; there was something else about him that was
 
@@ -202,7 +202,7 @@ rugged face was fainter as he replied, quietly:
 
 Gothic, and I cannot find any trace of destruction or restoration.
 
-But the house and the estate generally--well the romantic ideas read
+But the [[house]] and the estate generally--[[Well|well]] the romantic ideas read
 
 into these things are often rather recent romances, things almost
 
@@ -210,15 +210,15 @@ like fashionable novels. For instance, the very name of this place,
 
 Prior's Park, makes everybody think of it as a moonlit mediaeval
 
-abbey; I dare say the spiritualists by this time have discovered the
+abbey; I dare say the spiritualists by this [[Time|time]] have discovered the
 
-ghost of a monk there. But, according to the only authoritative
+[[Ghost|ghost]] of a monk there. But, according to the only authoritative
 
 study of the matter I can find, the place was simply called Prior's
 
-as any rural place is called Podger's. It was the house of a Mr.
+as any rural place is called Podger's. It was the [[house]] of a Mr.
 
-Prior, a farmhouse, probably, that stood here at some time or other
+Prior, a farmhouse, probably, that stood here at some [[Time|time]] or other
 
 and was a local landmark. Oh, there are a great many examples of the
 
@@ -228,7 +228,7 @@ a village, and because some of the people slurred the name and
 
 pronounced it Holliwell, many a minor poet indulged in fancies about
 
-a Holy Well, with spells and fairies and all the rest of it, filling
+a Holy [[Well]], with spells and fairies and all the rest of it, filling
 
 the suburban drawing-rooms with the Celtic twilight. Whereas anyone
 

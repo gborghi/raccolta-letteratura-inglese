@@ -1,5 +1,5 @@
 ---
-title: "Troilus and Cressida — Act III, Scene 3 — exchange (ACHILLES I) [4]"
+title: "[[Troilus]] and [[Cressida]] — Act III, Scene 3 — exchange ([[Achilles|ACHILLES]] I) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/TROILUS-AND-CRESSIDA-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| ACHILLES | I do believe it, For they passed by me as misers do by beggars, Neither gave to me good word nor look. What, are my deeds forgot? |
+| [[Achilles|ACHILLES]] | I do believe it, For they passed by me as misers do by beggars, Neither gave to me good word nor look. What, are my deeds forgot? |

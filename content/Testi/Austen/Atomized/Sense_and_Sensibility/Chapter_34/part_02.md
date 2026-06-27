@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 34 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 34 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -30,13 +30,13 @@ Mrs. Ferrars was a little, thin woman, upright, even to formality, in
 
 her figure, and serious, even to sourness, in her aspect. Her
 
-complexion was sallow; and her features small, without beauty, and
+complexion was sallow; and her features small, without [[Beauty|beauty]], and
 
 naturally without expression; but a lucky contraction of the brow had
 
 rescued her countenance from the disgrace of insipidity, by giving it
 
-the strong characters of pride and ill nature. She was not a woman of
+the strong characters of [[Pride|pride]] and ill [[Nature|nature]]. She was not a woman of
 
 many words; for, unlike people in general, she proportioned them to the
 
@@ -96,7 +96,7 @@ been within some thousand pounds of being obliged to sell out at a
 
 loss, nothing gave any symptom of that indigence which he had tried to
 
-infer from it;—no poverty of any kind, except of conversation,
+infer from it;—no [[Poverty|poverty]] of any kind, except of conversation,
 
 appeared—but there, the deficiency was considerable. John Dashwood had
 
@@ -114,7 +114,7 @@ spirits—or want of temper.
 
 
 
-When the ladies withdrew to the drawing-room after dinner, this poverty
+When the ladies withdrew to the drawing-room after dinner, this [[Poverty|poverty]]
 
 was particularly evident, for the gentlemen _had_ supplied the
 
@@ -134,7 +134,7 @@ Had both the children been there, the affair might have been determined
 
 too easily by measuring them at once; but as Harry only was present, it
 
-was all conjectural assertion on both sides; and every body had a right
+was all conjectural assertion on both sides; and every [[Body|body]] had a right
 
 to be equally positive in their opinion, and to repeat it over and over
 
@@ -186,11 +186,11 @@ Before her removing from Norland, Elinor had painted a very pretty pair
 
 of screens for her sister-in-law, which being now just mounted and
 
-brought home, ornamented her present drawing room; and these screens,
+brought [[Home|home]], ornamented her present drawing room; and these screens,
 
 catching the eye of John Dashwood on his following the other gentlemen
 
-into the room, were officiously handed by him to Colonel Brandon for
+into the room, were officiously handed by him to [[Colonel Brandon]] for
 
 his admiration.
 
@@ -202,7 +202,7 @@ taste, will, I dare say, be pleased with them. I do not know whether
 
 you have ever happened to see any of her performances before, but she
 
-is in general reckoned to draw extremely well.”
+is in general reckoned to draw extremely [[Well|well]].”
 
 
 
@@ -220,7 +220,7 @@ at them; and after they had received gratifying testimony of Lady
 
 Middletons’s approbation, Fanny presented them to her mother,
 
-considerately informing her, at the same time, that they were done by
+considerately informing her, at the same [[Time|time]], that they were done by
 
 Miss Dashwood.
 

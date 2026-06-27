@@ -16,7 +16,7 @@ tags:
 
 ‘Yes,’ returned Dick, ‘certainly.  That is if somebody must--but upon
 my word, I’m unwilling that anybody should.  Since laws were made for
-every degree, to curb vice in others as well as in me--and so forth
+every degree, to curb vice in others as [[Well|well]] as in me--and so forth
 you know--doesn’t it strike you in that light?’
 
 The single gentleman smiled as if the light in which Mr Swiveller had
@@ -45,25 +45,25 @@ one of them by chance held his peace for a moment, he stood gasping and
 panting for an opportunity to strike in again: in a word, that they had
 reached that pitch of impatience and anxiety where men can neither be
 persuaded nor reasoned with; and that it would have been as easy to
-turn the most impetuous wind that ever blew, as to prevail on them to
+turn the most impetuous [[Wind|wind]] that ever blew, as to prevail on them to
 reconsider their determination.  So, after telling Mr Swiveller how
 they had not lost sight of Kit’s mother and the children; how they had
 never once even lost sight of Kit himself, but had been unremitting in
 their endeavours to procure a mitigation of his sentence; how they had
-been perfectly distracted between the strong proofs of his guilt, and
-their own fading hopes of his innocence; and how he, Richard Swiveller,
+been perfectly distracted between the strong proofs of his [[Guilt|guilt]], and
+their own fading hopes of his [[innocence]]; and how he, [[Richard]] Swiveller,
 might keep his mind at rest, for everything should be happily adjusted
-between that time and night;--after telling him all this, and adding a
+between that [[Time|time]] and [[Night|night]];--after telling him all this, and adding a
 great many kind and cordial expressions, personal to himself, which it
 is unnecessary to recite, Mr Garland, the notary, and the single
-gentleman, took their leaves at a very critical time, or Richard
+gentleman, took their [[Leaves|leaves]] at a very critical [[Time|time]], or [[Richard]]
 Swiveller must assuredly have been driven into another fever, whereof
 the results might have been fatal.
 
 Mr Abel remained behind, very often looking at his watch and at the
 room door, until Mr Swiveller was roused from a short nap, by the
 setting-down on the landing-place outside, as from the shoulders of a
-porter, of some giant load, which seemed to shake the house, and made
+porter, of some giant load, which seemed to shake the [[house]], and made
 the little physic bottles on the mantel-shelf ring again.  Directly
 this sound reached his ears, Mr Abel started up, and hobbled to the
 door, and opened it; and behold! there stood a strong man, with a
@@ -91,14 +91,14 @@ benefit, was fain to lie down and fall asleep again, from sheer
 inability to entertain such wonders in his mind.
 
 Meanwhile, the single gentleman, the Notary, and Mr Garland, repaired
-to a certain coffee-house, and from that place indited and sent a
-letter to Miss Sally Brass, requesting her, in terms mysterious and
+to a certain coffee-[[house]], and from that place indited and sent a
+letter to Miss [[Sally Brass]], requesting her, in terms mysterious and
 brief, to favour an unknown friend who wished to consult her, with her
 company there, as speedily as possible.  The communication performed
-its errand so well, that within ten minutes of the messenger’s return
+its errand so [[Well|well]], that within ten minutes of the messenger’s return
 and report of its delivery, Miss Brass herself was announced.
 
-‘Pray ma’am,’ said the single gentleman, whom she found alone in the
+‘Pray ma’am,’ said the single gentleman, whom she found [[Alone|alone]] in the
 room, ‘take a chair.’
 
 Miss Brass sat herself down, in a very stiff and frigid state, and
@@ -107,7 +107,7 @@ lodger and her mysterious correspondent were one and the same person.
 
 ‘You did not expect to see me?’ said the single gentleman.
 
-‘I didn’t think much about it,’ returned the beauty.  ‘I supposed it
+‘I didn’t think much about it,’ returned the [[Beauty|beauty]].  ‘I supposed it
 was business of some kind or other.  If it’s about the apartments, of
 course you’ll give my brother regular notice, you know--or money.
 That’s very easily settled.  You’re a responsible party, and in such a

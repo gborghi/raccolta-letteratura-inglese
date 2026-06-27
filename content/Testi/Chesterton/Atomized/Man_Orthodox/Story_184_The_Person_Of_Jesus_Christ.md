@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — The Person Of Jesus Christ"
+title: "Man Orthodox — The Person Of Jesus [[Christ]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-THE PERSON OF JESUS CHRIST
+THE PERSON OF JESUS [[Christ|CHRIST]]
 
 Chesterton had been invited to reply to an article in
 The Hibbert Journal, which had challenged our Lord's divinity
@@ -47,8 +47,8 @@ as wrong to anybody else, who where he seems right to us is often
 in tune with matters not ancient but modern, such, for instance,
 as the adoration of children.  For some of his utterances men
 might fairly call him a maniac; for others, men long centuries
-afterwards might justly call him a prophet.  But what nobody
-can possibly call him is a Galilean of the time of Tiberius.
+afterwards might justly call him a [[Prophet|prophet]].  But what nobody
+can possibly call him is a Galilean of the [[Time|time]] of Tiberius.
 That was not how he appeared to his own family who tried to lock him
 up as a lunatic.  That is not how he appeared to his own nation,
 who lynched him, still shuddering at his earth-shaking blasphemies.
@@ -81,20 +81,20 @@ a connection between things which to us are disconnected.
 I think, how ever, that he would always ring true to our own
 sense of right, but ring (so to speak) too loud and too clear.
 He would be too good but never too bad for us:  `Be ye perfect.'
-I think would be, in the nature of things, some tragic collision
+I think would be, in the [[Nature|nature]] of things, some tragic collision
 between him and the humanity he had created, culminating in
 something that would be at once a crime and an expiation.
-I think he would be blamed as a hard prophet for dragging
+I think he would be blamed as a hard [[Prophet|prophet]] for dragging
 down the haughty, and blamed also as a weak sentimentalist for
 loving the things that cling in corners, children or beggars.
 I think, in short, that he would give us a sensation that he was
 turning all our standards upside down, and yet also a sensation
 that he had undeniably put them the right way up.  So, if I
-had been a Greek sage or an Arab poet before Christ, I should
-have figured to myself, in a dream, what would actually happen
+had been a Greek sage or an Arab poet before [[Christ]], I should
+have figured to myself, in [[A Dream|a dream]], what would actually happen
 if this earth bore secretly the father of gods and men.
-In the abstract, it may be that it is still only a dream.
-Between those who think it is a dream and those who do not,
+In the abstract, it may be that it is still only [[A Dream|a dream]].
+Between those who think it is [[A Dream|a dream]] and those who do not,
 is to be waged the great war of our future in which all these
 frivolities will be forgotten.
 

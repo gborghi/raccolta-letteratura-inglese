@@ -17,42 +17,42 @@ tags:
 CHAPTER 45
 
 In all their journeying, they had never longed so ardently, they had
-never so pined and wearied, for the freedom of pure air and open
+never so pined and wearied, for the [[Freedom|freedom]] of pure air and open
 country, as now.  No, not even on that memorable morning, when,
-deserting their old home, they abandoned themselves to the mercies of a
+deserting their old [[Home|home]], they abandoned themselves to the mercies of a
 strange world, and left all the dumb and senseless things they had
 known and loved, behind--not even then, had they so yearned for the
 fresh solitudes of wood, hillside, and field, as now, when the noise
 and dirt and vapour, of the great manufacturing town reeking with lean
 misery and hungry wretchedness, hemmed them in on every side, and
-seemed to shut out hope, and render escape impossible.
+seemed to shut out [[Hope|hope]], and render escape impossible.
 
-‘Two days and nights!’ thought the child.  ‘He said two days and nights
+‘Two days and nights!’ thought the [[Child|child]].  ‘He said two days and nights
 we should have to spend among such scenes as these.  Oh! if we live to
 reach the country once again, if we get clear of these dreadful places,
 though it is only to lie down and die, with what a grateful heart I
-shall thank God for so much mercy!’
+shall thank God for so much [[Mercy|mercy]]!’
 
 With thoughts like this, and with some vague design of travelling to a
-great distance among streams and mountains, where only very poor and
+great distance among streams and [[Mountains|mountains]], where only very poor and
 simple people lived, and where they might maintain themselves by very
 humble helping work in farms, free from such terrors as that from which
-they fled--the child, with no resource but the poor man’s gift, and no
+they fled--the [[Child|child]], with no resource but the poor man’s gift, and no
 encouragement but that which flowed from her own heart, and its sense
-of the truth and right of what she did, nerved herself to this last
-journey and boldly pursued her task.
+of the [[Truth|truth]] and right of what she did, nerved herself to this last
+[[Journey|journey]] and boldly pursued her task.
 
 ‘We shall be very slow to-day, dear,’ she said, as they toiled
 painfully through the streets; ‘my feet are sore, and I have pains in
 all my limbs from the wet of yesterday.  I saw that he looked at us and
-thought of that, when he said how long we should be upon the road.’
+thought of that, when he said how long we should be upon the [[Road|road]].’
 
 ‘It was a dreary way he told us of,’ returned her grandfather,
-piteously.  ‘Is there no other road?  Will you not let me go some other
+piteously.  ‘Is there no other [[Road|road]]?  Will you not let me go some other
 way than this?’
 
-‘Places lie beyond these,’ said the child, firmly, ‘where we may live
-in peace, and be tempted to do no harm.  We will take the road that
+‘Places lie beyond these,’ said the [[Child|child]], firmly, ‘where we may live
+in peace, and be tempted to do no harm.  We will take the [[Road|road]] that
 promises to have that end, and we would not turn out of it, if it were
 a hundred times worse than our fears lead us to expect.  We would not,
 dear, would we?’
@@ -60,41 +60,41 @@ dear, would we?’
 ‘No,’ replied the old man, wavering in his voice, no less than in his
 manner.  ‘No.  Let us go on.  I am ready.  I am quite ready, Nell.’
 
-The child walked with more difficulty than she had led her companion to
+The [[Child|child]] walked with more difficulty than she had led her companion to
 expect, for the pains that racked her joints were of no common
 severity, and every exertion increased them.  But they wrung from her
-no complaint, or look of suffering; and, though the two travellers
+no complaint, or look of [[Suffering|suffering]]; and, though the two travellers
 proceeded very slowly, they did proceed.  Clearing the town in course
-of time, they began to feel that they were fairly on their way.
+of [[Time|time]], they began to feel that they were fairly on their way.
 
-A long suburb of red brick houses--some with patches of garden-ground,
-where coal-dust and factory smoke darkened the shrinking leaves, and
-coarse rank flowers, and where the struggling vegetation sickened and
+A long suburb of red brick houses--some with patches of [[Garden|garden]]-ground,
+where coal-[[Dust|dust]] and factory smoke darkened the shrinking [[Leaves|leaves]], and
+coarse rank [[Flowers|flowers]], and where the struggling vegetation sickened and
 sank under the hot breath of kiln and furnace, making them by its
 presence seem yet more blighting and unwholesome than in the town
 itself--a long, flat, straggling suburb passed, they came, by slow
 degrees, upon a cheerless region, where not a blade of grass was seen
-to grow, where not a bud put forth its promise in the spring, where
+to grow, where not a bud put forth its promise in the [[spring]], where
 nothing green could live but on the surface of the stagnant pools,
-which here and there lay idly sweltering by the black road-side.
+which here and there lay idly sweltering by the black [[Road|road]]-side.
 
-Advancing more and more into the shadow of this mournful place, its
+Advancing more and more into the [[Shadow|shadow]] of this mournful place, its
 dark depressing influence stole upon their spirits, and filled them
 with a dismal gloom.  On every side, and far as the eye could see into
 the heavy distance, tall chimneys, crowding on each other, and
 presenting that endless repetition of the same dull, ugly form, which
-is the horror of oppressive dreams, poured out their plague of smoke,
-obscured the light, and made foul the melancholy air.  On mounds of
+is the horror of oppressive [[Dreams|dreams]], poured out their plague of smoke,
+obscured the light, and made foul the [[Melancholy|melancholy]] air.  On mounds of
 ashes by the wayside, sheltered only by a few rough boards, or rotten
-pent-house roofs, strange engines spun and writhed like tortured
-creatures; clanking their iron chains, shrieking in their rapid whirl
-from time to time as though in torment unendurable, and making the
+pent-[[house]] roofs, strange engines spun and writhed like tortured
+creatures; clanking their iron [[Chains|chains]], shrieking in their rapid whirl
+from [[Time|time]] to [[Time|time]] as though in torment unendurable, and making the
 ground tremble with their agonies.  Dismantled houses here and there
 appeared, tottering to the earth, propped up by fragments of others
 that had fallen down, unroofed, windowless, blackened, desolate, but
 yet inhabited.  Men, women, children, wan in their looks and ragged in
-attire, tended the engines, fed their tributary fire, begged upon the
-road, or scowled half-naked from the doorless houses.  Then came more
+attire, tended the engines, fed their tributary [[Fire|fire]], begged upon the
+[[Road|road]], or scowled half-naked from the doorless houses.  Then came more
 of the wrathful monsters, whose like they almost seemed to be in their
 wildness and their untamed air, screeching and turning round and round
 again; and still, before, behind, and to the right and left, was the
@@ -103,24 +103,24 @@ black vomit, blasting all things living or inanimate, shutting out the
 face of day, and closing in on all these horrors with a dense dark
 cloud.
 
-But night-time in this dreadful spot!--night, when the smoke was
-changed to fire; when every chimney spirited up its flame; and places,
+But [[Night|night]]-[[Time|time]] in this dreadful spot!--[[Night|night]], when the smoke was
+changed to [[Fire|fire]]; when every chimney spirited up its flame; and places,
 that had been dark vaults all day, now shone red-hot, with figures
 moving to and fro within their blazing jaws, and calling to one another
-with hoarse cries--night, when the noise of every strange machine was
+with hoarse cries--[[Night|night]], when the noise of every strange [[Machine|machine]] was
 aggravated by the darkness; when the people near them looked wilder and
 more savage; when bands of unemployed labourers paraded the roads, or
 clustered by torch-light round their leaders, who told them, in stern
 language, of their wrongs, and urged them on to frightful cries and
-threats; when maddened men, armed with sword and firebrand, spurning
-the tears and prayers of women who would restrain them, rushed forth on
+threats; when maddened men, armed with [[Sword|sword]] and firebrand, spurning
+the [[Tears|tears]] and prayers of women who would restrain them, rushed forth on
 errands of terror and destruction, to work no ruin half so surely as
-their own--night, when carts came rumbling by, filled with rude
-coffins (for contagious disease and death had been busy with the living
+their own--[[Night|night]], when carts came rumbling by, filled with rude
+coffins (for contagious disease and [[Death|death]] had been busy with the living
 crops); when orphans cried, and distracted women shrieked and followed
-in their wake--night, when some called for bread, and some for drink to
-drown their cares, and some with tears, and some with staggering feet,
-and some with bloodshot eyes, went brooding home--night, which, unlike
-the night that Heaven sends on earth, brought with it no peace, nor
-quiet, nor signs of blessed sleep--who shall tell the terrors of the
-night to the young wandering child!
+in their wake--[[Night|night]], when some called for bread, and some for drink to
+drown their cares, and some with [[Tears|tears]], and some with staggering feet,
+and some with bloodshot eyes, went brooding [[Home|home]]--[[Night|night]], which, unlike
+the [[Night|night]] that Heaven sends on earth, brought with it no peace, nor
+quiet, nor signs of blessed [[Sleep|sleep]]--who shall tell the terrors of the
+[[Night|night]] to the young wandering [[Child|child]]!

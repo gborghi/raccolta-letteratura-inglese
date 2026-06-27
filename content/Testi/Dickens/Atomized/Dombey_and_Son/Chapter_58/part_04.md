@@ -15,42 +15,42 @@ tags:
 
 
 “Do you mean to say, Man,” inquired Mr Dombey; looking at him with
-marked displeasure, “that you have called a child after a boiler?”
+marked displeasure, “that you have called a [[Child|child]] after a boiler?”
 
 “No, no, Sir,” returned Toodle, with a tender consideration for his
-mistake. “I should hope not! No, Sir. Arter a BILER Sir. The
+mistake. “I should [[Hope|hope]] not! No, Sir. Arter a BILER Sir. The
 Steamingine was a’most as good as a godfather to him, and so we called
 him Biler, don’t you see!”
 
 As the last straw breaks the laden camel’s back, this piece of
 information crushed the sinking spirits of Mr Dombey. He motioned his
-child’s foster-father to the door, who departed by no means
+[[Child|child]]’s foster-father to the door, who departed by no means
 unwillingly: and then turning the key, paced up and down the room in
 solitary wretchedness.
 
 It would be harsh, and perhaps not altogether true, to say of him that
-he felt these rubs and gratings against his pride more keenly than he
-had felt his wife’s death: but certainly they impressed that event upon
+he felt these rubs and gratings against his [[Pride|pride]] more keenly than he
+had felt his wife’s [[Death|death]]: but certainly they impressed that event upon
 him with new force, and communicated to it added weight and bitterness.
-It was a rude shock to his sense of property in his child, that these
-people—the mere dust of the earth, as he thought them—should be
+It was a rude shock to his sense of property in his [[Child|child]], that these
+people—the mere [[Dust|dust]] of the earth, as he thought them—should be
 necessary to him; and it was natural that in proportion as he felt
 disturbed by it, he should deplore the occurrence which had made them
 so. For all his starched, impenetrable dignity and composure, he wiped
-blinding tears from his eyes as he paced up and down his room; and
+blinding [[Tears|tears]] from his eyes as he paced up and down his room; and
 often said, with an emotion of which he would not, for the world, have
 had a witness, “Poor little fellow!”
 
-It may have been characteristic of Mr Dombey’s pride, that he pitied
-himself through the child. Not poor me. Not poor widower, confiding by
+It may have been characteristic of Mr Dombey’s [[Pride|pride]], that he pitied
+himself through the [[Child|child]]. Not poor me. Not poor widower, confiding by
 constraint in the wife of an ignorant Hind who has been working “mostly
-underground” all his life, and yet at whose door Death had never
+underground” all his life, and yet at whose door [[Death]] had never
 knocked, and at whose poor table four sons daily sit—but poor little
 fellow!
 
 Those words being on his lips, it occurred to him—and it is an instance
 of the strong attraction with which his hopes and fears and all his
-thoughts were tending to one centre—that a great temptation was being
+thoughts were tending to one centre—that a great [[Temptation|temptation]] was being
 placed in this woman’s way. Her infant was a boy too. Now, would it be
 possible for her to change them?
 
@@ -71,20 +71,20 @@ seemed to have ever happened. In another moment he was wondering
 whether they ever happened and were not found out.
 
 As his unusual emotion subsided, these misgivings gradually melted
-away, though so much of their shadow remained behind, that he was
+away, though so much of their [[Shadow|shadow]] remained behind, that he was
 constant in his resolution to look closely after Richards himself,
 without appearing to do so. Being now in an easier frame of mind, he
 regarded the woman’s station as rather an advantageous circumstance
 than otherwise, by placing, in itself, a broad distance between her and
-the child, and rendering their separation easy and natural. Thence he
+the [[Child|child]], and rendering their separation easy and natural. Thence he
 passed to the contemplation of the future glories of Dombey and Son,
-and dismissed the memory of his wife, for the time being, with a
+and dismissed the [[Memory|memory]] of his wife, for the [[Time|time]] being, with a
 tributary sigh or two.
 
 Meanwhile terms were ratified and agreed upon between Mrs Chick and
 Richards, with the assistance of Miss Tox; and Richards being with much
 ceremony invested with the Dombey baby, as if it were an Order,
-resigned her own, with many tears and kisses, to Jemima. Glasses of
+resigned her own, with many [[Tears|tears]] and kisses, to Jemima. Glasses of
 wine were then produced, to sustain the drooping spirits of the family;
 and Miss Tox, busying herself in dispensing “tastes” to the younger
 branches, bred them up to their father’s business with such surprising
@@ -97,7 +97,7 @@ Toodle appeared.
 “Thankee, Mum,” said Toodle, “since you are suppressing.”
 
 “And you’re very glad to leave your dear good wife in such a
-comfortable home, ain’t you, Sir?” said Miss Tox, nodding and winking
+comfortable [[Home|home]], ain’t you, Sir?” said Miss Tox, nodding and winking
 at him stealthily.
 
 “No, Mum,” said Toodle. “Here’s wishing of her back agin.”
@@ -107,7 +107,7 @@ apprehensions that this indulgence in grief might be prejudicial to the
 little Dombey (“acid, indeed,” she whispered Miss Tox), hastened to the
 rescue.
 
-“Your little child will thrive charmingly with your sister Jemima,
+“Your little [[Child|child]] will thrive charmingly with your sister Jemima,
 Richards,” said Mrs Chick; “and you have only to make an effort—this is
 a world of effort, you know, Richards—to be very happy indeed. You have
 been already measured for your mourning, haven’t you, Richards?”

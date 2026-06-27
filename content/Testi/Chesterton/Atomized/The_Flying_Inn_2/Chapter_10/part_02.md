@@ -17,7 +17,7 @@ tags:
 It began, indeed, with the comparatively familiar
 formula, "Whether we take the more lax or the more
 advanced view of the old disputed problem of the
-morality or immorality of the wooden sign-board as
+[[morality]] or immorality of the wooden sign-board as
 such, we shall all agree that the scenes enacted at
 Pebblewick were very discreditable, to most, though
 not all, concerned."  After that, tact degenerated into
@@ -32,28 +32,28 @@ September.  But the second half of the sentence
 suggested with equal clearness that, since these two acts
 were no longer, as it were, in contemplation, and all
 attempts to prevent them would probably arrive a
-little late, he felt the warmest friendship for the French
-nation.  He merely insisted that his friendship should
+little late, he felt the warmest [[Friendship|friendship]] for the French
+nation.  He merely insisted that his [[Friendship|friendship]] should
 never be mentioned except in the French language.
 It must be called an "entente" in the language taught
 to tourists by waiters.  It must on no account be called
 an "understanding," in a language understanded of
 the people.  From the first half of the sentence
 following it might safely be inferred that Mr. Hibbs had
-read Milton, or at least the passage about sons of
+read [[Milton]], or at least the passage about sons of
 Belial; from the second half that he knew nothing
-about bad wine, let alone good.  The next sentence
+about bad wine, let [[Alone|alone]] good.  The next sentence
 began with the corruption of the Roman Empire and
-contrived to end with Dr. Clifford.  Then there was a
-weak plea for Eugenics; and a warm plea against
-Conscription, which was not True Eugenics.  That
+contrived to end with Dr. [[Clifford]].  Then there was a
+weak plea for [[Eugenics]]; and a warm plea against
+Conscription, which was not True [[Eugenics]].  That
 was all; and it was headed "The Riot at Pebblewick."
 
 Yet some injustice would be done to Hibbs However
 if we concealed the fact that this chaotic leader
 was followed by quite a considerable mass of public
 correspondence.  The people who write to newspapers
-are, it may be supposed, a small, eccentric body, like
+are, it may be supposed, a small, eccentric [[Body|body]], like
 most of those that sway a modern state.  But at least,
 unlike the lawyers, or the financiers, or the members
 of Parliament, or the men of science, they are people
@@ -64,15 +64,15 @@ looking up in the dusty old files of his paper.
 
 A dear old lady in the densest part of the Midlands
 wrote to suggest that there might really have been
-an old ship wrecked on the shore, during the
+an old [[Ship|ship]] wrecked on the shore, during the
 proceedings.  "Mr. Leveson may have omitted to notice it,
 or, at that late hour of the evening, it may have been
 mistaken for a sign-board, especially by a person of
 defective sight.  My own sight has been failing for
-some time; but I am still a diligent reader of your
+some [[Time|time]]; but I am still a diligent reader of your
 paper."  If Mr. Hibbs's diplomacy had left one nerve
-in his soul undrugged, he would have laughed, or burst
-into tears, or got drunk, or gone into a monastery over
+in his [[Soul|soul]] undrugged, he would have laughed, or burst
+into [[Tears|tears]], or got drunk, or gone into a monastery over
 a letter like that.  As it was, he measured it with a
 pencil, and decided that it was just too long to get into
 the column.
@@ -89,7 +89,7 @@ which I have proved the point quite plainly, and which
 none of the Bishops or the so-called Free Church
 Ministers have attempted to answer.  The connection
 between the rod or pole and the snake so clearly indicated
-in Scripture is no less clear in this case.  It is well
+in Scripture is no less clear in this case.  It is [[Well|well]]
 known that those who follow after strong drink often
 announce themselves as having seen a snake.  Is it not
 clear that those unhappy revellers beheld it in its
@@ -119,7 +119,7 @@ by all scientific analogy we may infer that the unusual
 phrase "inn-sign" is an acoustic error for "inside."
 The word "inside" would so naturally occur in any
 discussion either about the building or the individual,
-when the debate was of a hygienic character.  This
+when the [[debate]] was of a hygienic character.  This
 letter was signed "Medical Student," and the less
 intelligent parts of it were selected for publication in the
 paper.

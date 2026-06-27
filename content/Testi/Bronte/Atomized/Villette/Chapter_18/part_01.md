@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 18 (part 1)"
+title: "[[Villette]] — Chapter 18 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -20,7 +20,7 @@ WE QUARREL.
 
 During the first days of my stay at the Terrace, Graham never took a
 seat near me, or in his frequent pacing of the room approached the
-quarter where I sat, or looked pre-occupied, or more grave than usual,
+quarter where I sat, or looked pre-occupied, or more [[Grave|grave]] than usual,
 but I thought of Miss Fanshawe and expected her name to leap from his
 lips. I kept my ear and mind in perpetual readiness for the tender
 theme; my patience was ordered to be permanently under arms, and my
@@ -54,7 +54,7 @@ application for that privilege.”
 “Yes; several to her uncle.”
 
 “They will not be deficient in wit and _naïveté_; there is so much
-sparkle, and so little art in her soul?”
+sparkle, and so little art in her [[Soul|soul]]?”
 
 “She writes comprehensively enough when she writes to M. de
 Bassompierre: he who runs may read.” (In fact, Ginevra’s epistles to
@@ -66,22 +66,22 @@ think?”
 
 It was, and I said so.
 
-“I verily believe that all she does is well done,” said Dr. John; and
+“I verily believe that all she does is [[Well|well]] done,” said Dr. John; and
 as I seemed in no hurry to chime in with this remark, he added “You,
 who know her, could you name a point in which she is deficient?”
 
-“She does several things very well.” (“Flirtation amongst the rest,”
+“She does several things very [[Well|well]].” (“Flirtation amongst the rest,”
 subjoined I, in thought.)
 
 “When do you suppose she will return to town?” he soon inquired.
 
-“Pardon me, Dr. John, I must explain. You honour me too much in
+“Pardon me, Dr. John, I must explain. You [[Honour|honour]] me too much in
 ascribing to me a degree of intimacy with Miss Fanshawe I have not the
 felicity to enjoy. I have never been the depositary of her plans and
-secrets. You will find her particular friends in another sphere than
+[[Secrets|secrets]]. You will find her particular friends in another sphere than
 mine: amongst the Cholmondeleys, for instance.”
 
-He actually thought I was stung with a kind of jealous pain similar to
+He actually thought I was stung with a kind of jealous [[Pain|pain]] similar to
 his own!
 
 “Excuse her,” he said; “judge her indulgently; the glitter of fashion
@@ -99,8 +99,8 @@ humiliated, cast-off, and now pining confidante of the distinguished
 Miss Fanshawe: but, reader, it was a hard submission.
 
 “Yet, you see,” continued Graham, “while I comfort _you_, I cannot take
-the same consolation to myself; I cannot hope she will do me justice.
-De Hamal is most worthless, yet I fear he pleases her: wretched
+the same consolation to myself; I cannot [[Hope|hope]] she will do me justice.
+De Hamal is most worthless, yet I [[Fear|fear]] he pleases her: wretched
 delusion!”
 
 My patience really gave way, and without notice: all at once. I suppose
@@ -117,7 +117,7 @@ I got up, and left the room very much excited.
 This little scene took place in the morning; I had to meet him again in
 the evening, and then I saw I had done mischief. He was not made of
 common clay, not put together out of vulgar materials; while the
-outlines of his nature had been shaped with breadth and vigour, the
+outlines of his [[Nature|nature]] had been shaped with breadth and vigour, the
 details embraced workmanship of almost feminine delicacy: finer, much
 finer, than you could be prepared to meet with; than you could believe
 inherent in him, even after years of acquaintance. Indeed, till some
@@ -132,20 +132,20 @@ considerately refrain from passing to an extreme, and pronouncing him
 _un_sympathizing, unfeeling: on the contrary, he was a kind, generous
 man. Make your need known, his hand was open. Put your grief into
 words, he turned no deaf ear. Expect refinements of perception,
-miracles of intuition, and realize disappointment. This night, when Dr.
-John entered the room, and met the evening lamp, I saw well and at one
+miracles of intuition, and realize disappointment. This [[Night|night]], when Dr.
+John entered the room, and met the evening lamp, I saw [[Well|well]] and at one
 glance his whole mechanism.
 
 To one who had named him “slave,” and, on any point, banned him from
-respect, he must now have peculiar feelings. That the epithet was well
+respect, he must now have peculiar feelings. That the epithet was [[Well|well]]
 applied, and the ban just, might be; he put forth no denial that it was
 so: his mind even candidly revolved that unmanning possibility. He
-sought in this accusation the cause of that ill-success which had got
+sought in this accusation the cause of that ill-[[success]] which had got
 so galling a hold on his mental peace: Amid the worry of a
-self-condemnatory soliloquy, his demeanour seemed grave, perhaps cold,
+[[Self|self]]-condemnatory soliloquy, his demeanour seemed [[Grave|grave]], perhaps cold,
 both to me and his mother. And yet there was no bad feeling, no malice,
 no rancour, no littleness in his countenance, beautiful with a man’s
-best beauty, even in its depression. When I placed his chair at the
+best [[Beauty|beauty]], even in its depression. When I placed his chair at the
 table, which I hastened to do, anticipating the servant, and when I
 handed him his tea, which I did with trembling care, he said: “Thank
 you, Lucy,” in as kindly a tone of his full pleasant voice as ever my

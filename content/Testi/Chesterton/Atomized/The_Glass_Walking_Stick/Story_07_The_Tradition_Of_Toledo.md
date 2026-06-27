@@ -17,7 +17,7 @@ tags:
 THE TRADITION OF TOLEDO
 
 ONE of the first impressions created by a visit to Spain, in,
-any person with any historical imagination, is the sense of a world
+any person with any historical [[Imagination|imagination]], is the sense of a world
 that runs round the Mediterranean rather than of three separate
 worlds which the sea divides.  It is, I suppose, what the old
 world meant by talking of the round or circle of the lands.
@@ -37,7 +37,7 @@ do not understand they do not even believe what they see.
 
 Thus Toledo looked to me much more like Jerusalem than Jerusalem
 ever looked like most of the pictures of it.  It has a wall
-crowning a hill whose steep sides have an indefinable look
+crowning a [[Hill|hill]] whose steep sides have an indefinable look
 of a ruin and even a rubbish-heap. It is in the sort of country
 that is spotted with hardy olives or striped with hardy vines.
 It has that look that we never know in the rich rain and deep grasses
@@ -61,7 +61,7 @@ quarters in the old style does not look for such a similarity.
 It does not expect it; it cannot be expected to expect it.  It expects
 Jerusalem to be only an Asiatic bazaar like Baghdad or even Bombay.
 It expects Toledo to be concentrated on Toledo swords like Sheffield
-on Sheffield cutlery.  In many ways Toledo is very like a sword,
+on Sheffield cutlery.  In many ways Toledo is very like a [[Sword|sword]],
 steely and of a stern sort of chivalry; but it is warmed from the south;
 it is in the circle of the sun.
 
@@ -73,25 +73,25 @@ long before Mahomet was born.  It remained essentially a Christian
 connexion long after Mahomet's religion had first swept over
 these places and at last retreated from them.  We may call it,
 if we like, the Roman influence, though even that is insufficient.
-We may connect it with our own view of the Christian unity, though that
+We may connect it with our own view of the Christian [[unity]], though that
 will naturally be a matter of dispute.  But whatever it is, it did
-not come out of the desert with the dry negations of a desert creed.
-It did not plant all those vineyards with the veto of Islam upon wine.
-It did not carve all those images with the veto of Islam upon statues.
+not come out of the [[Desert|desert]] with the dry negations of a [[Desert|desert]] creed.
+It did not plant all those vineyards with the veto of [[Islam]] upon wine.
+It did not carve all those images with the veto of [[Islam]] upon statues.
 It did not find the chivalric devotion to the lady by looking for it
-in the harem, or all the legends of the Mother and the Holy Child
+in the harem, or all the legends of the Mother and the Holy [[Child]]
 from the arid Arabian dogma of the isolation of God.
 
-The tradition for which Toledo still lifts its riven crown of roofs
+The tradition for which Toledo still lifts its riven [[Crown|crown]] of roofs
 and battlements may have been stirred to life by movements out in
 the East, or mingled to advantage with strange and remote things;
-it may have gained as well as given something in its contact with the Arab
+it may have gained as [[Well|well]] as given something in its contact with the Arab
 conquerors of Africa; but it is certain, if anything is certain,
-that when that spirit of Spain and of Western Christianity was touched
+that when that spirit of Spain and of Western [[Christianity]] was touched
 to new life, it was in the form of its own life that it unfolded and to
-the height of its own destiny that it rose again; and Islam did not make
+the height of its own destiny that it [[Rose|rose]] again; and [[Islam]] did not make
 a new world in such places, but only awakened a world that was asleep.
-That world is now very wide awake; and if the cathedral of Toledo was not
+That world is now very wide awake; and if the [[Cathedral|cathedral]] of Toledo was not
 merely modelled on a mosque even when the world was swept by the Moslem,
 it is now even less likely that featureless mosques will be the only
 churches of the future.

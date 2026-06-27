@@ -24,7 +24,7 @@ like him.
 
 It is questionable whether any man quite relishes being mistaken for
 any other man; but, Mr Veneering having this very evening set up the
-shirt-front of the young Antinous in new worked cambric just come home,
+shirt-front of the young Antinous in new worked cambric just come [[Home|home]],
 is not at all complimented by being supposed to be Twemlow, who is dry
 and weazen and some thirty years older. Mrs Veneering equally resents
 the imputation of being the wife of Twemlow. As to Twemlow, he is
@@ -61,7 +61,7 @@ that the same large man is to be baby’s godfather.
 
 ‘Dinner is on the table!’
 
-Thus the melancholy retainer, as who should say, ‘Come down and be
+Thus the [[Melancholy|melancholy]] retainer, as who should say, ‘Come down and be
 poisoned, ye unhappy children of men!’
 
 Twemlow, having no lady assigned him, goes down in the rear, with
@@ -69,7 +69,7 @@ his hand to his forehead. Boots and Brewer, thinking him indisposed,
 whisper, ‘Man faint. Had no lunch.’ But he is only stunned by the
 unvanquishable difficulty of his existence.
 
-Revived by soup, Twemlow discourses mildly of the Court Circular with
+Revived by soup, Twemlow discourses mildly of the [[Court]] Circular with
 Boots and Brewer. Is appealed to, at the fish stage of the banquet, by
 Veneering, on the disputed question whether his cousin Lord Snigsworth
 is in or out of town? Gives it that his cousin is out of town. ‘At
@@ -85,10 +85,10 @@ company. Reflects the new Veneering crest, in gold and eke in silver,
 frosted and also thawed, a camel of all work. The Heralds’ College found
 out a Crusading ancestor for Veneering who bore a camel on his shield
 (or might have done it if he had thought of it), and a caravan of camels
-take charge of the fruits and flowers and candles, and kneel down to be
+take charge of the fruits and [[Flowers|flowers]] and candles, and kneel down to be
 loaded with the salt. Reflects Veneering; forty, wavy-haired, dark,
 tending to corpulence, sly, mysterious, filmy—a kind of sufficiently
-well-looking veiled-prophet, not prophesying. Reflects Mrs Veneering;
+[[Well|well]]-looking veiled-[[Prophet|prophet]], not prophesying. Reflects Mrs Veneering;
 fair, aquiline-nosed and fingered, not so much light hair as she might
 have, gorgeous in raiment and jewels, enthusiastic, propitiatory,
 conscious that a corner of her husband’s veil is over herself. Reflects
@@ -97,12 +97,12 @@ on either side of his else bald head, looking as like his hairbrushes as
 his hair, dissolving view of red beads on his forehead, large allowance
 of crumpled shirt-collar up behind. Reflects Mrs Podsnap; fine woman
 for Professor Owen, quantity of bone, neck and nostrils like a
-rocking-horse, hard features, majestic head-dress in which Podsnap has
+rocking-[[Horse|horse]], hard features, majestic head-dress in which Podsnap has
 hung golden offerings. Reflects Twemlow; grey, dry, polite, susceptible
-to east wind, First-Gentleman-in-Europe collar and cravat, cheeks drawn
+to east [[Wind|wind]], First-Gentleman-in-Europe collar and cravat, cheeks drawn
 in as if he had made a great effort to retire into himself some years
 ago, and had got so far and had never got any farther. Reflects mature
-young lady; raven locks, and complexion that lights up well when well
+young lady; raven locks, and complexion that lights up [[Well|well]] when [[Well|well]]
 powdered—as it is—carrying on considerably in the captivation of
 mature young gentleman; with too much nose in his face, too much ginger
 in his whiskers, too much torso in his waistcoat, too much sparkle in
@@ -112,7 +112,7 @@ drab oblong face, like a face in a tablespoon, and a dyed Long Walk up
 the top of her head, as a convenient public approach to the bunch of
 false hair behind, pleased to patronize Mrs Veneering opposite, who
 is pleased to be patronized. Reflects a certain ‘Mortimer’, another
-of Veneering’s oldest friends; who never was in the house before,
+of Veneering’s oldest friends; who never was in the [[house]] before,
 and appears not to want to come again, who sits disconsolate on Mrs
 Veneering’s left, and who was inveigled by Lady Tippins (a friend of
 his boyhood) to come to these people’s and talk, and who won’t talk.

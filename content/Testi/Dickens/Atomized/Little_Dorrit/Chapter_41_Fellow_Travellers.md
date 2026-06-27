@@ -17,20 +17,20 @@ tags:
 CHAPTER 1. Fellow Travellers
 
 
-In the autumn of the year, Darkness and Night were creeping up to the
+In the [[Autumn|autumn]] of the year, Darkness and [[Night]] were creeping up to the
 highest ridges of the Alps.
 
-It was vintage time in the valleys on the Swiss side of the Pass of the
+It was vintage [[Time|time]] in the valleys on the Swiss side of the Pass of the
 Great Saint Bernard, and along the banks of the Lake of Geneva.
 The air there was charged with the scent of gathered grapes. Baskets,
 troughs, and tubs of grapes stood in the dim village doorways, stopped
 the steep and narrow village streets, and had been carrying all day
 along the roads and lanes. Grapes, split and crushed under foot, lay
-about everywhere. The child carried in a sling by the laden peasant
-woman toiling home, was quieted with picked-up grapes; the idiot sunning
-his big goitre under the leaves of the wooden chalet by the way to the
+about everywhere. The [[Child|child]] carried in a sling by the laden peasant
+woman toiling [[Home|home]], was quieted with picked-up grapes; the idiot sunning
+his big goitre under the [[Leaves|leaves]] of the wooden chalet by the way to the
 Waterfall, sat munching grapes; the breath of the cows and goats was
-redolent of leaves and stalks of grapes; the company in every little
+redolent of [[Leaves|leaves]] and stalks of grapes; the company in every little
 cabaret were eating, drinking, talking grapes. A pity that no ripe touch
 of this generous abundance could be given to the thin, hard, stony wine,
 which after all was made from the grapes!
@@ -46,30 +46,30 @@ months together, had been since morning plain and near in the blue sky.
 And now, when it was dark below, though they seemed solemnly to recede,
 like spectres who were going to vanish, as the red dye of the sunset
 faded out of them and left them coldly white, they were yet distinctly
-defined in their loneliness above the mists and shadows.
+defined in their [[Loneliness|loneliness]] above the mists and shadows.
 
 Seen from these solitudes, and from the Pass of the Great Saint Bernard,
-which was one of them, the ascending Night came up the mountain like a
-rising water. When it at last rose to the walls of the convent of the
+which was one of them, the ascending [[Night]] came up the mountain like a
+rising [[Water|water]]. When it at last [[Rose|rose]] to the walls of the convent of the
 Great Saint Bernard, it was as if that weather-beaten structure were
 another Ark, and floated on the shadowy waves.
 
 Darkness, outstripping some visitors on mules, had risen thus to
 the rough convent walls, when those travellers were yet climbing the
 mountain. As the heat of the glowing day when they had stopped to drink
-at the streams of melted ice and snow, was changed to the searching cold
-of the frosty rarefied night air at a great height, so the fresh beauty
-of the lower journey had yielded to barrenness and desolation. A craggy
+at the streams of melted ice and [[Snow|snow]], was changed to the searching cold
+of the frosty rarefied [[Night|night]] air at a great height, so the fresh [[Beauty|beauty]]
+of the lower [[Journey|journey]] had yielded to barrenness and desolation. A craggy
 track, up which the mules in single file scrambled and turned from
 block to block, as though they were ascending the broken staircase of
 a gigantic ruin, was their way now. No trees were to be seen, nor any
 vegetable growth save a poor brown scrubby moss, freezing in the chinks
-of rock. Blackened skeleton arms of wood by the wayside pointed upward
-to the convent as if the ghosts of former travellers overwhelmed by the
-snow haunted the scene of their distress. Icicle-hung caves and cellars
+of rock. Blackened [[skeleton]] arms of wood by the wayside pointed upward
+to the convent as if the [[Ghosts|ghosts]] of former travellers overwhelmed by the
+[[Snow|snow]] haunted the scene of their distress. Icicle-hung caves and cellars
 built for refuges from sudden storms, were like so many whispers of the
 perils of the place; never-resting wreaths and mazes of mist wandered
-about, hunted by a moaning wind; and snow, the besetting danger of the
+about, hunted by a moaning [[Wind|wind]]; and [[Snow|snow]], the besetting danger of the
 mountain, against which all its defences were taken, drifted sharply
 down.
 
@@ -78,19 +78,19 @@ up the deep ascent; the foremost led by a guide on foot, in his
 broad-brimmed hat and round jacket, carrying a mountain staff or two
 upon his shoulder, with whom another guide conversed. There was no
 speaking among the string of riders. The sharp cold, the fatigue of the
-journey, and a new sensation of a catching in the breath, partly as if
-they had just emerged from very clear crisp water, and partly as if they
+[[Journey|journey]], and a new sensation of a catching in the breath, partly as if
+they had just emerged from very clear crisp [[Water|water]], and partly as if they
 had been sobbing, kept them silent.
 
 At length, a light on the summit of the rocky staircase gleamed through
-the snow and mist. The guides called to the mules, the mules pricked up
+the [[Snow|snow]] and mist. The guides called to the mules, the mules pricked up
 their drooping heads, the travellers’ tongues were loosened, and in a
 sudden burst of slipping, climbing, jingling, clinking, and talking,
 they arrived at the convent door.
 
 Other mules had arrived not long before, some with peasant riders and
-some with goods, and had trodden the snow about the door into a pool
-of mud. Riding-saddles and bridles, pack-saddles and strings of bells,
+some with goods, and had trodden the [[Snow|snow]] about the door into a pool
+of mud. Riding-saddles and bridles, pack-saddles and strings of [[Bells|bells]],
 mules and men, lanterns, torches, sacks, provender, barrels, cheeses,
 kegs of honey and butter, straw bundles and packages of many shapes,
 were crowded confusedly together in this thawed quagmire and about the
@@ -106,46 +106,46 @@ discerning what was wrong. In the midst of this, the great stable of the
 convent, occupying the basement story and entered by the basement door,
 outside which all the disorder was, poured forth its contribution of
 cloud, as if the whole rugged edifice were filled with nothing else,
-and would collapse as soon as it had emptied itself, leaving the snow to
+and would collapse as soon as it had emptied itself, leaving the [[Snow|snow]] to
 fall upon the bare mountain summit.
 
 While all this noise and hurry were rife among the living travellers,
-there, too, silently assembled in a grated house half-a-dozen paces
-removed, with the same cloud enfolding them and the same snow flakes
+there, too, silently assembled in a grated [[house]] half-a-dozen paces
+removed, with the same cloud enfolding them and the same [[Snow|snow]] flakes
 drifting in upon them, were the dead travellers found upon the mountain.
-The mother, storm-belated many winters ago, still standing in the corner
+The mother, [[Storm|storm]]-belated many winters ago, still standing in the corner
 with her baby at her breast; the man who had frozen with his arm raised
-to his mouth in fear or hunger, still pressing it with his dry lips
+to his mouth in [[Fear|fear]] or hunger, still pressing it with his dry lips
 after years and years. An awful company, mysteriously come together! A
 wild destiny for that mother to have foreseen! ‘Surrounded by so many
 and such companions upon whom I never looked, and never shall look,
-I and my child will dwell together inseparable, on the Great Saint
+I and my [[Child|child]] will dwell together inseparable, on the Great Saint
 Bernard, outlasting generations who will come to see us, and will never
 know our name, or one word of our story but the end.’
 
 The living travellers thought little or nothing of the dead just then.
 They thought much more of alighting at the convent door, and warming
-themselves at the convent fire. Disengaged from the turmoil, which was
+themselves at the convent [[Fire|fire]]. Disengaged from the turmoil, which was
 already calming down as the crowd of mules began to be bestowed in the
 stable, they hurried shivering up the steps and into the building. There
 was a smell within, coming up from the floor, of tethered beasts, like
-the smell of a menagerie of wild animals. There were strong arched
+the smell of a menagerie of wild [[Animals|animals]]. There were strong arched
 galleries within, huge stone piers, great staircases, and thick walls
 pierced with small sunken windows--fortifications against the mountain
 storms, as if they had been human enemies. There were gloomy vaulted
 sleeping-rooms within, intensely cold, but clean and hospitably prepared
 for guests. Finally, there was a parlour for guests to sit in and sup
-in, where a table was already laid, and where a blazing fire shone red
+in, where a table was already laid, and where a blazing [[Fire|fire]] shone red
 and high.
 
-In this room, after having had their quarters for the night allotted
+In this room, after having had their quarters for the [[Night|night]] allotted
 to them by two young Fathers, the travellers presently drew round the
 hearth. They were in three parties; of whom the first, as the most
 numerous and important, was the slowest, and had been overtaken by
 one of the others on the way up. It consisted of an elderly lady, two
 grey-haired gentlemen, two young ladies, and their brother. These were
 attended (not to mention four guides), by a courier, two footmen, and
-two waiting-maids: which strong body of inconvenience was accommodated
+two waiting-maids: which strong [[Body|body]] of inconvenience was accommodated
 elsewhere under the same roof. The party that had overtaken them, and
 followed in their train, consisted of only three members: one lady and
 two gentlemen. The third party, which had ascended from the valley
@@ -154,7 +154,7 @@ number: a plethoric, hungry, and silent German tutor in spectacles, on
 a tour with three young men, his pupils, all plethoric, hungry, and
 silent, and all in spectacles.
 
-These three groups sat round the fire eyeing each other drily, and
+These three groups sat round the [[Fire|fire]] eyeing each other drily, and
 waiting for supper. Only one among them, one of the gentlemen belonging
 to the party of three, made advances towards conversation. Throwing out
 his lines for the Chief of the important tribe, while addressing himself
@@ -164,20 +164,20 @@ day, and that he felt for the ladies. That he feared one of the
 young ladies was not a strong or accustomed traveller, and had been
 over-fatigued two or three hours ago. That he had observed, from his
 station in the rear, that she sat her mule as if she were exhausted.
-That he had, twice or thrice afterwards, done himself the honour of
+That he had, twice or thrice afterwards, done himself the [[Honour|honour]] of
 inquiring of one of the guides, when he fell behind, how the lady did.
 That he had been enchanted to learn that she had recovered her spirits,
 and that it had been but a passing discomfort. That he trusted (by this
-time he had secured the eyes of the Chief, and addressed him) he might
-be permitted to express his hope that she was now none the worse, and
-that she would not regret having made the journey.
+[[Time|time]] he had secured the eyes of the Chief, and addressed him) he might
+be permitted to express his [[Hope|hope]] that she was now none the worse, and
+that she would not regret having made the [[Journey|journey]].
 
 ‘My daughter, I am obliged to you, sir,’ returned the Chief, ‘is quite
 restored, and has been greatly interested.’
 
-‘New to mountains, perhaps?’ said the insinuating traveller.
+‘New to [[Mountains|mountains]], perhaps?’ said the insinuating traveller.
 
-‘New to--ha--to mountains,’ said the Chief.
+‘New to--ha--to [[Mountains|mountains]],’ said the Chief.
 
 ‘But you are familiar with them, sir?’ the insinuating traveller
 assumed.
@@ -222,19 +222,19 @@ before?’
 
 ‘Yes,’ returned Mrs General. ‘I have been here before. Let me
 commend you, my dear,’ to the former young lady, ‘to shade your face
-from the hot wood, after exposure to the mountain air and snow. You,
+from the hot wood, after exposure to the mountain air and [[Snow|snow]]. You,
 too, my dear,’ to the other and younger lady, who immediately did so;
 while the former merely said, ‘Thank you, Mrs General, I am Perfectly
 comfortable, and prefer remaining as I am.’
 
 The brother, who had left his chair to open a piano that stood in
 the room, and who had whistled into it and shut it up again, now came
-strolling back to the fire with his glass in his eye. He was dressed in
+strolling back to the [[Fire|fire]] with his glass in his eye. He was dressed in
 the very fullest and completest travelling trim. The world seemed hardly
 large enough to yield him an amount of travel proportionate to his
 equipment.
 
-‘These fellows are an immense time with supper,’ he drawled. ‘I wonder
+‘These fellows are an immense [[Time|time]] with supper,’ he drawled. ‘I [[Wonder|wonder]]
 what they’ll give us! Has anybody any idea?’
 
 ‘Not roast man, I believe,’ replied the voice of the second gentleman of
@@ -243,7 +243,7 @@ the party of three.
 ‘I suppose not. What d’ye mean?’ he inquired.
 
 ‘That, as you are not to be served for the general supper, perhaps you
-will do us the favour of not cooking yourself at the general fire,’
+will do us the favour of not cooking yourself at the general [[Fire|fire]],’
 returned the other.
 
 The young gentleman who was standing in an easy attitude on the hearth,
@@ -262,19 +262,19 @@ place I don’t know that I could find it.’
 
 ‘Pray, let me call my maid,’ cried the taller of the young ladies.
 
-‘Pray, let me put this water to her lips,’ said the shorter, who had not
+‘Pray, let me put this [[Water|water]] to her lips,’ said the shorter, who had not
 spoken yet.
 
 Each doing what she suggested, there was no want of assistance. Indeed,
 when the two maids came in (escorted by the courier, lest any one should
-strike them dumb by addressing a foreign language to them on the road),
+strike them dumb by addressing a foreign language to them on the [[Road|road]]),
 there was a prospect of too much assistance. Seeing this, and saying as
 much in a few words to the slighter and younger of the two ladies,
 the gentleman put his wife’s arm over his shoulder, lifted her up, and
 carried her away.
 
-His friend, being left alone with the other visitors, walked slowly up
-and down the room without coming to the fire again, pulling his black
+His friend, being left [[Alone|alone]] with the other visitors, walked slowly up
+and down the room without coming to the [[Fire|fire]] again, pulling his black
 moustache in a contemplative manner, as if he felt himself committed
 to the late retort. While the subject of it was breathing injury in a
 corner, the Chief loftily addressed this gentleman.
@@ -284,9 +284,9 @@ his impatience, is not perhaps fully sensible of what he owes
 to--hum--to--but we will waive that, we will waive that. Your friend is
 a little impatient, sir.’
 
-‘It may be so, sir,’ returned the other. ‘But having had the honour of
+‘It may be so, sir,’ returned the other. ‘But having had the [[Honour|honour]] of
 making that gentleman’s acquaintance at the hotel at Geneva, where we
-and much good company met some time ago, and having had the honour
+and much good company met some [[Time|time]] ago, and having had the [[Honour|honour]]
 of exchanging company and conversation with that gentleman on several
 subsequent excursions, I can hear nothing--no, not even from one of your
 appearance and station, sir--detrimental to that gentleman.’
@@ -294,9 +294,9 @@ appearance and station, sir--detrimental to that gentleman.’
 ‘You are in no danger, sir, of hearing any such thing from me. In
 remarking that your friend has shown impatience, I say no such thing. I
 make that remark, because it is not to be doubted that my son, being by
-birth and by--ha--by education a--hum--a gentleman, would have readily
+birth and by--ha--by [[Education|education]] a--hum--a gentleman, would have readily
 adapted himself to any obligingly expressed wish on the subject of the
-fire being equally accessible to the whole of the present circle. Which,
+[[Fire|fire]] being equally accessible to the whole of the present circle. Which,
 in principle, I--ha--for all are--hum--equal on these occasions--I
 consider right.’
 
@@ -312,26 +312,26 @@ is sometimes of a sarcastic temper.’
 ‘She is very handsome.’
 
 ‘Sir, she is peerless. They are still in the first year of their
-marriage. They are still partly on a marriage, and partly on an
+[[Marriage|marriage]]. They are still partly on a [[Marriage|marriage]], and partly on an
 artistic, tour.’
 
-‘Your friend is an artist, sir?’
+‘Your friend is an [[artist]], sir?’
 
 The gentleman replied by kissing the fingers of his right hand, and
 wafting the kiss the length of his arm towards Heaven. As who should
-say, I devote him to the celestial Powers as an immortal artist!
+say, I devote him to the celestial Powers as an immortal [[artist]]!
 
 ‘But he is a man of family,’ he added. ‘His connections are of the best.
-He is more than an artist: he is highly connected. He may, in effect,
+He is more than an [[artist]]: he is highly connected. He may, in effect,
 have repudiated his connections, proudly, impatiently, sarcastically (I
 make the concession of both words); but he has them. Sparks that have
 been struck out during our intercourse have shown me this.’
 
-‘Well! I hope,’ said the lofty gentleman, with the air of finally
+‘[[Well]]! I [[Hope|hope]],’ said the lofty gentleman, with the air of finally
 disposing of the subject, ‘that the lady’s indisposition may be only
 temporary.’
 
-‘Sir, I hope so.’
+‘Sir, I [[Hope|hope]] so.’
 
 ‘Mere fatigue, I dare say.’
 
@@ -342,19 +342,19 @@ evening of a slight bruise in the side. She spoke of it more than once,
 as we followed your party up the mountain.’
 
 The head of the large retinue, who was gracious but not familiar,
-appeared by this time to think that he had condescended more than
-enough. He said no more, and there was silence for some quarter of an
+appeared by this [[Time|time]] to think that he had condescended more than
+enough. He said no more, and there was [[Silence|silence]] for some quarter of an
 hour until supper appeared.
 
 With the supper came one of the young Fathers (there seemed to be no
 old Fathers) to take the head of the table. It was like the supper of
 an ordinary Swiss hotel, and good red wine grown by the convent in more
-genial air was not wanting. The artist traveller calmly came and took
+genial air was not wanting. The [[artist]] traveller calmly came and took
 his place at table when the rest sat down, with no apparent sense upon
 him of his late skirmish with the completely dressed traveller.
 
 ‘Pray,’ he inquired of the host, over his soup, ‘has your convent many
-of its famous dogs now?’
+of its famous [[dogs]] now?’
 
 ‘Monsieur, it has three.’
 
@@ -363,13 +363,13 @@ of its famous dogs now?’
 The host, a slender, bright-eyed, dark young man of polite manners,
 whose garment was a black gown with strips of white crossed over it like
 braces, and who no more resembled the conventional breed of Saint
-Bernard monks than he resembled the conventional breed of Saint Bernard
-dogs, replied, doubtless those were the three in question.
+Bernard [[Monks|monks]] than he resembled the conventional breed of Saint Bernard
+[[dogs]], replied, doubtless those were the three in question.
 
-‘And I think,’ said the artist traveller, ‘I have seen one of them
+‘And I think,’ said the [[artist]] traveller, ‘I have seen one of them
 before.’
 
-It was possible. He was a dog sufficiently well known. Monsieur might
+It was possible. He was a dog sufficiently [[Well|well]] known. Monsieur might
 have easily seen him in the valley or somewhere on the lake, when he
 (the dog) had gone down with one of the order to solicit aid for the
 convent.
@@ -381,29 +381,29 @@ Monsieur was right.
 ‘And never without a dog. The dog is very important.’
 
 Again Monsieur was right. The dog was very important. People were justly
-interested in the dog. As one of the dogs celebrated everywhere,
+interested in the dog. As one of the [[dogs]] celebrated everywhere,
 Ma’amselle would observe.
 
 Ma’amselle was a little slow to observe it, as though she were not yet
-well accustomed to the French tongue. Mrs General, however, observed it
+[[Well|well]] accustomed to the French tongue. Mrs General, however, observed it
 for her.
 
 ‘Ask him if he has saved many lives?’ said, in his native English, the
 young man who had been put out of countenance.
 
-The host needed no translation of the question. He promptly replied in
+The host needed no [[Translation|translation]] of the question. He promptly replied in
 French, ‘No. Not this one.’
 
 ‘Why not?’ the same gentleman asked.
 
 ‘Pardon,’ returned the host composedly, ‘give him the opportunity and
-he will do it without doubt. For example, I am well convinced,’ smiling
+he will do it without [[Doubt|doubt]]. For example, I am [[Well|well]] convinced,’ smiling
 sedately, as he cut up the dish of veal to be handed round, on the young
 man who had been put out of countenance, ‘that if you, Monsieur, would
 give him the opportunity, he would hasten with great ardour to fulfil
 his duty.’
 
-The artist traveller laughed. The insinuating traveller (who evinced
+The [[artist]] traveller laughed. The insinuating traveller (who evinced
 a provident anxiety to get his full share of the supper), wiping some
 drops of wine from his moustache with a piece of bread, joined the
 conversation.
@@ -412,70 +412,70 @@ conversation.
 tourist-travellers, is it not?’
 
 ‘Yes, it is late. Yet two or three weeks, at most, and we shall be left
-to the winter snows.’
+to the [[Winter|winter]] snows.’
 
-‘And then,’ said the insinuating traveller, ‘for the scratching dogs and
+‘And then,’ said the insinuating traveller, ‘for the scratching [[dogs]] and
 the buried children, according to the pictures!’
 
 ‘Pardon,’ said the host, not quite understanding the allusion. ‘How,
-then the scratching dogs and the buried children according to the
+then the scratching [[dogs]] and the buried children according to the
 pictures?’
 
-The artist traveller struck in again before an answer could be given.
+The [[artist]] traveller struck in again before an answer could be given.
 
 ‘Don’t you know,’ he coldly inquired across the table of his companion,
-‘that none but smugglers come this way in the winter or can have any
+‘that none but smugglers come this way in the [[Winter|winter]] or can have any
 possible business this way?’
 
 ‘Holy blue! No; never heard of it.’
 
 ‘So it is, I believe. And as they know the signs of the weather
-tolerably well, they don’t give much employment to the dogs--who have
-consequently died out rather--though this house of entertainment is
+tolerably [[Well|well]], they don’t give much employment to the [[dogs]]--who have
+consequently died out rather--though this [[house]] of entertainment is
 conveniently situated for themselves. Their young families, I am told,
-they usually leave at home. But it’s a grand idea!’ cried the artist
+they usually leave at [[Home|home]]. But it’s a grand idea!’ cried the [[artist]]
 traveller, unexpectedly rising into a tone of enthusiasm. ‘It’s a
-sublime idea. It’s the finest idea in the world, and brings tears into
+[[Sublime|sublime]] idea. It’s the finest idea in the world, and brings [[Tears|tears]] into
 a man’s eyes, by Jupiter!’ He then went on eating his veal with great
 composure.
 
-There was enough of mocking inconsistency at the bottom of this speech
+There was enough of mocking inconsistency at the [[Bottom|bottom]] of this speech
 to make it rather discordant, though the manner was refined and the
-person well-favoured, and though the depreciatory part of it was so
+person [[Well|well]]-favoured, and though the depreciatory part of it was so
 skilfully thrown off as to be very difficult for one not perfectly
 acquainted with the English language to understand, or, even
 understanding, to take offence at: so simple and dispassionate was its
-tone. After finishing his veal in the midst of silence, the speaker
+tone. After finishing his veal in the midst of [[Silence|silence]], the speaker
 again addressed his friend.
 
 ‘Look,’ said he, in his former tone, ‘at this gentleman our host, not
 yet in the prime of life, who in so graceful a way and with such courtly
-urbanity and modesty presides over us! Manners fit for a crown! Dine
-with the Lord Mayor of London (if you can get an invitation) and observe
+urbanity and modesty presides over us! Manners fit for a [[Crown|crown]]! Dine
+with the [[Lord Mayor]] of [[London]] (if you can get an invitation) and observe
 the contrast. This dear fellow, with the finest cut face I ever saw, a
-face in perfect drawing, leaves some laborious life and comes up here
+face in perfect drawing, [[Leaves|leaves]] some laborious life and comes up here
 I don’t know how many feet above the level of the sea, for no other
-purpose on earth (except enjoying himself, I hope, in a capital
+purpose on earth (except enjoying himself, I [[Hope|hope]], in a capital
 refectory) than to keep an hotel for idle poor devils like you and
 me, and leave the bill to our consciences! Why, isn’t it a beautiful
 sacrifice? What do we want more to touch us? Because rescued people of
 interesting appearance are not, for eight or nine months out of every
-twelve, holding on here round the necks of the most sagacious of dogs
+twelve, holding on here round the necks of the most sagacious of [[dogs]]
 carrying wooden bottles, shall we disparage the place? No! Bless the
 place. It’s a great place, a glorious place!’
 
 The chest of the grey-haired gentleman who was the Chief of the
 important party, had swelled as if with a protest against his being
-numbered among poor devils. No sooner had the artist traveller ceased
+numbered among poor devils. No sooner had the [[artist]] traveller ceased
 speaking than he himself spoke with great dignity, as having it
 incumbent on him to take the lead in most places, and having deserted
 that duty for a little while.
 
 He weightily communicated his opinion to their host, that his life must
-be a very dreary life here in the winter.
+be a very dreary life here in the [[Winter|winter]].
 
 The host allowed to Monsieur that it was a little monotonous. The air
-was difficult to breathe for a length of time consecutively. The cold
+was difficult to breathe for a length of [[Time|time]] consecutively. The cold
 was very severe. One needed youth and strength to bear it. However,
 having them and the blessing of Heaven--
 
@@ -508,7 +508,7 @@ receive quite a shock from the force of the argument.
 Monsieur, as an English traveller, surrounded by all means of travelling
 pleasantly; doubtless possessing fortune, carriages, and servants--
 
-‘Perfectly, perfectly. Without doubt,’ said the gentleman.
+‘Perfectly, perfectly. Without [[Doubt|doubt]],’ said the gentleman.
 
 Monsieur could not easily place himself in the position of a person who
 had not the power to choose, I will go here to-morrow, or there next
@@ -517,21 +517,21 @@ could not realise, perhaps, how the mind accommodated itself in such
 things to the force of necessity.
 
 ‘It is true,’ said Monsieur. ‘We will--ha--not pursue the subject.
-You are--hum--quite accurate, I have no doubt. We will say no more.’
+You are--hum--quite accurate, I have no [[Doubt|doubt]]. We will say no more.’
 
 The supper having come to a close, he drew his chair away as he spoke,
-and moved back to his former place by the fire. As it was very cold
+and moved back to his former place by the [[Fire|fire]]. As it was very cold
 at the greater part of the table, the other guests also resumed their
-former seats by the fire, designing to toast themselves well before
-going to bed. The host, when they rose from the table, bowed to all
-present, wished them good night, and withdrew. But first the insinuating
+former seats by the [[Fire|fire]], designing to toast themselves [[Well|well]] before
+going to bed. The host, when they [[Rose|rose]] from the table, bowed to all
+present, wished them good [[Night|night]], and withdrew. But first the insinuating
 traveller had asked him if they could have some wine made hot; and as
 he had answered Yes, and had presently afterwards sent it in, that
 traveller, seated in the centre of the group, and in the full heat of
-the fire, was soon engaged in serving it out to the rest.
+the [[Fire|fire]], was soon engaged in serving it out to the rest.
 
-At this time, the younger of the two young ladies, who had been silently
-attentive in her dark corner (the fire-light was the chief light in the
+At this [[Time|time]], the younger of the two young ladies, who had been silently
+attentive in her dark corner (the [[Fire|fire]]-light was the chief light in the
 sombre room, the lamp being smoky and dull) to what had been said of the
 absent lady, glided out. She was at a loss which way to turn when she
 had softly closed the door; but, after a little hesitation among the
@@ -541,7 +541,7 @@ obtained a lamp, and a direction to the lady’s room.
 
 It was up the great staircase on the story above. Here and there, the
 bare white walls were broken by an iron grate, and she thought as she
-went along that the place was something like a prison. The arched door
+went along that the place was something like a [[Prison|prison]]. The arched door
 of the lady’s room, or cell, was not quite shut. After knocking at it
 two or three times without receiving an answer, she pushed it gently
 open, and looked in.
@@ -549,7 +549,7 @@ open, and looked in.
 The lady lay with closed eyes on the outside of the bed, protected from
 the cold by the blankets and wrappers with which she had been covered
 when she revived from her fainting fit. A dull light placed in the deep
-recess of the window, made little impression on the arched room. The
+recess of the [[Window|window]], made little impression on the arched room. The
 visitor timidly stepped to the bed, and said, in a soft whisper, ‘Are
 you better?’
 
@@ -560,7 +560,7 @@ her. Her visitor, standing quite still, looked at her attentively.
 face. O how unlike me!’
 
 It was a curious thing to say, but it had some hidden meaning, for it
-filled her eyes with tears.
+filled her eyes with [[Tears|tears]].
 
 ‘I know I must be right. I know he spoke of her that evening. I could
 very easily be wrong on any other subject, but not on this, not on
@@ -572,7 +572,7 @@ sleeper’s hair, and then touched the hand that lay outside the covering.
 ‘I like to look at her,’ she breathed to herself. ‘I like to see what
 has affected him so much.’
 
-She had not withdrawn her hand, when the sleeper opened her eyes and
+She had not withdrawn her hand, when [[The Sleeper|the sleeper]] opened her eyes and
 started.
 
 ‘Pray don’t be alarmed. I am only one of the travellers from
@@ -584,7 +584,7 @@ assistance?’
 
 ‘No, not I; that was my sister. Are you better?’
 
-‘Much better. It is only a slight bruise, and has been well looked to,
+‘Much better. It is only a slight bruise, and has been [[Well|well]] looked to,
 and is almost easy now. It made me giddy and faint in a moment. It had
 hurt me before; but at last it overpowered me all at once.’
 
@@ -599,12 +599,12 @@ quickly moved a part of some travelling wrapper from herself, and drew
 it over her, so that her arm, in keeping it about her, rested on her
 shoulder.
 
-‘You have so much the air of a kind nurse,’ said the lady, smiling on
-her, ‘that you seem as if you had come to me from home.’
+‘You have so much the air of a kind [[Nurse|nurse]],’ said the lady, smiling on
+her, ‘that you seem as if you had come to me from [[Home|home]].’
 
 ‘I am very glad of it.’
 
-‘I was dreaming of home when I woke just now. Of my old home, I mean,
+‘I was dreaming of [[Home|home]] when I woke just now. Of my old [[Home|home]], I mean,
 before I was married.’
 
 ‘And before you were so far away from it.’
@@ -618,7 +618,7 @@ which made her visitor refrain from looking at her for the moment.
 
 ‘It is a curious chance which at last brings us together, under this
 covering in which you have wrapped me,’ said the visitor after a
-pause; ‘for do you know, I think I have been looking for you some time.’
+pause; ‘for do you know, I think I have been looking for you some [[Time|time]].’
 
 ‘Looking for me?’
 
@@ -631,7 +631,7 @@ she did so. It was very short. She flushed a little as she put her lips
 to her visitor’s cheek, and pressed her hand.
 
 ‘The dear young friend to whom he presents me, may be a comfort to me
-at some time, he says. She is truly a comfort to me the first time I see
+at some [[Time|time]], he says. She is truly a comfort to me the first [[Time|time]] I see
 her.’
 
 ‘Perhaps you don’t,’ said the visitor, hesitating--‘perhaps you don’t
@@ -654,16 +654,16 @@ letter, when they heard some one in the gallery outside.
 
 ‘I promised,’ said the visitor, rising, ‘that I would write to him after
 seeing you (I could hardly fail to see you sooner or later), and tell
-him if you were well and happy. I had better say you were well and
+him if you were [[Well|well]] and happy. I had better say you were [[Well|well]] and
 happy.’
 
-‘Yes, yes, yes! Say I was very well and very happy. And that I thanked
+‘Yes, yes, yes! Say I was very [[Well|well]] and very happy. And that I thanked
 him affectionately, and would never forget him.’
 
 ‘I shall see you in the morning. After that we are sure to meet again
-before very long. Good night!’
+before very long. Good [[Night|night]]!’
 
-‘Good night. Thank you, thank you. Good night, my dear!’
+‘Good [[Night|night]]. Thank you, thank you. Good [[Night|night]], my dear!’
 
 Both of them were hurried and fluttered as they exchanged this parting,
 and as the visitor came out of the door. She had expected to meet the
@@ -673,7 +673,7 @@ with the piece of bread. When he heard the step behind him, he turned
 round--for he was walking away in the dark.
 
 His politeness, which was extreme, would not allow of the young lady’s
-lighting herself down-stairs, or going down alone. He took her lamp,
+lighting herself down-stairs, or going down [[Alone|alone]]. He took her lamp,
 held it so as to throw the best light on the stone steps, and followed
 her all the way to the supper-room. She went down, not easily hiding how
 much she was inclined to shrink and tremble; for the appearance of this
@@ -684,24 +684,24 @@ that made him little less than terrific.
 
 He followed her down with his smiling politeness, followed her in,
 and resumed his seat in the best place in the hearth. There with the
-wood-fire, which was beginning to burn low, rising and falling upon him
+wood-[[Fire|fire]], which was beginning to burn low, rising and falling upon him
 in the dark room, he sat with his legs thrust out to warm, drinking the
-hot wine down to the lees, with a monstrous shadow imitating him on the
+hot wine down to the lees, with a monstrous [[Shadow|shadow]] imitating him on the
 wall and ceiling.
 
 The tired company had broken up, and all the rest were gone to bed
-except the young lady’s father, who dozed in his chair by the fire.
+except the young lady’s father, who dozed in his chair by the [[Fire|fire]].
 The traveller had been at the pains of going a long way up-stairs to his
 sleeping-room to fetch his pocket-flask of brandy. He told them so, as
 he poured its contents into what was left of the wine, and drank with a
 new relish.
 
-‘May I ask, sir, if you are on your way to Italy?’
+‘May I ask, sir, if you are on your way to [[Italy]]?’
 
 The grey-haired gentleman had roused himself, and was preparing to
 withdraw. He answered in the affirmative.
 
-‘I also!’ said the traveller. ‘I shall hope to have the honour
+‘I also!’ said the traveller. ‘I shall [[Hope|hope]] to have the [[Honour|honour]]
 of offering my compliments in fairer scenes, and under softer
 circumstances, than on this dismal mountain.’
 
@@ -717,7 +717,7 @@ life are precious to us. To your health, sir!’
 ‘To the health of your distinguished family--of the fair ladies, your
 daughters!’
 
-‘Sir, I thank you again, I wish you good night. My dear, are
+‘Sir, I thank you again, I wish you good [[Night|night]]. My dear, are
 our--ha--our people in attendance?’
 
 ‘They are close by, father.’
@@ -732,36 +732,36 @@ the young lady drew a little nearer to her father, and passed him with a
 dread of touching him.
 
 ‘Humph!’ said the insinuating traveller, whose manner shrunk, and whose
-voice dropped when he was left alone. ‘If they all go to bed, why I must
-go. They are in a devil of a hurry. One would think the night would be
-long enough, in this freezing silence and solitude, if one went to bed
+voice dropped when he was left [[Alone|alone]]. ‘If they all go to bed, why I must
+go. They are in a devil of a hurry. One would think the [[Night|night]] would be
+long enough, in this freezing [[Silence|silence]] and [[Solitude|solitude]], if one went to bed
 two hours hence.’
 
 Throwing back his head in emptying his glass, he cast his eyes upon the
 travellers’ book, which lay on the piano, open, with pens and ink beside
-it, as if the night’s names had been registered when he was absent.
+it, as if the [[Night|night]]’s names had been registered when he was absent.
 Taking it in his hand, he read these entries.
 
 
-     William Dorrit, Esquire
+     [[William Dorrit]], Esquire
      Frederick Dorrit, Esquire
      Edward Dorrit, Esquire
      Miss Dorrit
-     Miss Amy Dorrit
+     Miss [[Amy Dorrit]]
      Mrs General
      and Suite.
-     From France to Italy.
+     From France to [[Italy]].
 
      Mr and Mrs Henry Gowan.
-     From France to Italy.
+     From France to [[Italy]].
 
 
 To which he added, in a small complicated hand, ending with a long lean
 flourish, not unlike a lasso thrown at all the rest of the names:
 
 
-     Blandois.  Paris.
-     From France to Italy.
+     Blandois.  [[Paris]].
+     From France to [[Italy]].
 
 
 And then, with his nose coming down over his moustache and his moustache

@@ -18,7 +18,7 @@ tags:
 
 ‘Further, I am a gentleman of the softest and sweetest disposition,
 but who, if trifled with, becomes enraged. Noble natures under such
-circumstances become enraged. I possess a noble nature. When the lion
+circumstances become enraged. I possess a noble [[Nature|nature]]. When the [[Lion|lion]]
 is awakened--that is to say, when I enrage--the satisfaction of my
 animosity is as acceptable to me as money. You always do me the favour
 to follow, and to comprehend?’
@@ -31,18 +31,18 @@ held.’
 
 ‘It is not necessary.’
 
-‘Death, madame,’ he burst out, ‘it’s my fancy! Besides, it clears the
-way. The first sitting was limited. I had the honour of making your
+‘[[Death]], madame,’ he burst out, ‘it’s my fancy! Besides, it clears the
+way. The first sitting was limited. I had the [[Honour|honour]] of making your
 acquaintance--of presenting my letter; I am a Knight of Industry, at
 your service, madame, but my polished manners had won me so much of
-success, as a master of languages, among your compatriots who are as
+[[success]], as a master of languages, among your compatriots who are as
 stiff as their own starch is to one another, but are ready to relax to
 a foreign gentleman of polished manners--and of observing one or two
 little things,’ he glanced around the room and smiled, ‘about this
-honourable house, to know which was necessary to assure me, and
+honourable [[house]], to know which was necessary to assure me, and
 to convince me that I had the distinguished pleasure of making the
 acquaintance of the lady I sought. I achieved this. I gave my word
-of honour to our dear Flintwinch that I would return. I gracefully
+of [[Honour|honour]] to our dear Flintwinch that I would return. I gracefully
 departed.’
 
 Her face neither acquiesced nor demurred. The same when he paused, and
@@ -52,11 +52,11 @@ occasion.
 
 ‘I say, gracefully departed, because it was graceful to retire without
 alarming a lady. To be morally graceful, not less than physically, is
-a part of the character of Rigaud Blandois. It was also politic, as
+a part of the character of [[Rigaud]] Blandois. It was also politic, as
 leaving you with something overhanging you, to expect me again with a
 little anxiety on a day not named. But your slave is politic. By Heaven,
 madame, politic! Let us return. On the day not named, I have again the
-honour to render myself at your house. I intimate that I have something
+[[Honour|honour]] to render myself at your [[house]]. I intimate that I have something
 to sell, which, if not bought, will compromise madame whom I highly
 esteem. I explain myself generally. I demand--I think it was a thousand
 pounds. Will you correct me?’
@@ -67,11 +67,11 @@ as a thousand pounds.’
 ‘I demand at present, Two. Such are the evils of delay. But to return
 once more. We are not accordant; we differ on that occasion. I am
 playful; playfulness is a part of my amiable character. Playfully, I
-become as one slain and hidden. For, it may alone be worth half the sum
+become as one slain and hidden. For, it may [[Alone|alone]] be worth half the sum
 to madame, to be freed from the suspicions that my droll idea awakens.
 Accident and spies intermix themselves against my playfulness, and spoil
 the fruit, perhaps--who knows? only you and Flintwinch--when it is just
-ripe. Thus, madame, I am here for the last time. Listen! Definitely the
+ripe. Thus, madame, I am here for the last [[Time|time]]. Listen! Definitely the
 last.’
 
 As he struck his straggling boot-heels against the flap of the table,
@@ -83,7 +83,7 @@ be paid, according to contract. Five minutes hence we may be at daggers’
 points. I’ll not leave it till then, or you’ll cheat me. Pay it! Count
 me the money!’
 
-‘Take it from his hand and pay it, Flintwinch,’ said Mrs Clennam.
+‘Take it from his hand and pay it, Flintwinch,’ said [[Mrs Clennam]].
 
 He spirted it into Mr Flintwinch’s face when the old man advanced to
 take it, and held forth his hand, repeating noisily, ‘Pay it! Count it
@@ -91,10 +91,10 @@ out! Good money!’ Jeremiah picked the bill up, looked at the total with
 a bloodshot eye, took a small canvas bag from his pocket, and told the
 amount into his hand.
 
-Rigaud chinked the money, weighed it in his hand, threw it up a little
+[[Rigaud]] chinked the money, weighed it in his hand, threw it up a little
 way and caught it, chinked it again.
 
-‘The sound of it, to the bold Rigaud Blandois, is like the taste of
+‘The sound of it, to the bold [[Rigaud]] Blandois, is like the taste of
 fresh meat to the tiger. Say, then, madame. How much?’
 
 He turned upon her suddenly with a menacing gesture of the weighted hand
@@ -105,7 +105,7 @@ you suppose us to be, and that your demand is excessive. I have not the
 present means of complying with such a demand, if I had ever so great an
 inclination.’
 
-‘If!’ cried Rigaud. ‘Hear this lady with her If! Will you say that you
+‘If!’ cried [[Rigaud]]. ‘Hear this lady with her If! Will you say that you
 have not the inclination?’
 
 ‘I will say what presents itself to me, and not what presents itself to
@@ -118,7 +118,7 @@ She was no quicker, and no slower, in her reply. ‘It would seem that
 you have obtained possession of a paper--or of papers--which I assuredly
 have the inclination to recover.’
 
-Rigaud, with a loud laugh, drummed his heels against the table, and
+[[Rigaud]], with a loud laugh, drummed his heels against the table, and
 chinked his money. ‘I think so! I believe you there!’
 
 ‘The paper might be worth, to me, a sum of money. I cannot say how much,
@@ -129,10 +129,10 @@ consider?’
 
 ‘No! I will not out of my scanty means--for I tell you again, we are
 poor here, and not rich--I will not offer any price for a power that I
-do not know the worst and the fullest extent of. This is the third time
+do not know the worst and the fullest extent of. This is the third [[Time|time]]
 of your hinting and threatening. You must speak explicitly, or you may
 go where you will, and do what you will. It is better to be torn to
-pieces at a spring, than to be a mouse at the caprice of such a cat.’
+pieces at a [[Spring|spring]], than to be a mouse at the caprice of such a cat.’
 
 He looked at her so hard with those eyes too near together that the
 sinister sight of each, crossing that of the other, seemed to make the

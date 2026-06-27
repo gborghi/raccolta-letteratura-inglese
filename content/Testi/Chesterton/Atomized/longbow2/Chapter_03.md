@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 3"
+title: "[[longbow2]] — Chapter 3"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/longbow2-(Chesterton)"
@@ -22,7 +22,7 @@ The Unobtrusive Traffic of Captain Pierce
 Those acquainted with Colonel Crane and Mr. Owen Hood, the lawyer,
 may or may not be concerned to know that they partook of an early lunch
 of eggs and bacon and beer at the inn called the Blue Boar, which stands
-at the turn of a steep road scaling a wooded ridge in the West Country. 
+at the turn of a steep [[Road|road]] scaling a wooded ridge in the West Country. 
 Those unacquainted with them may be content to know that the Colonel
 was a sunburnt, neatly-dressed gentleman, who looked taciturn and was;
 while the lawyer was a more rusty red-haired gentleman with a long
@@ -32,8 +32,8 @@ inn was better than that of a Soho restaurant and immeasurably
 better than that of a fashionable restaurant.  Hood was fond
 of the legends and less-known aspects of the English country-side;
 and that valley had a quality of repose with a stir of refreshment,
-as if the west wind had been snared in it and tamed into a summer air. 
-Both had a healthy admiration for beauty, in ladies as well
+as if the west [[Wind|wind]] had been snared in it and tamed into a [[Summer|summer]] air. 
+Both had a healthy admiration for [[Beauty|beauty]], in ladies as [[Well|well]]
 as landscapes; although (or more probably because) both were quite
 romantically attached to the wives they had married under rather
 romantic circumstances, which are related elsewhere for such as can
@@ -43,14 +43,14 @@ to look at; she was of a slim and quiet sort with a head that moved
 like a brown bird, brightly and as it were unexpectedly.  Her manners
 were full of unconscious dignity, for her father, old John Hardy,
 was the type of old innkeeper who had the status, if not of a gentleman,
-at least of a yeoman.  He was not without education and ability;
+at least of a yeoman.  He was not without [[Education|education]] and ability;
 a grizzled man with a keen, stubborn face that might have belonged
-to Cobbett, whose _Register_ he still read on winter's nights. 
-Hardy was well known to Hood, who had the same sort of antiquarian
+to Cobbett, whose _Register_ he still read on [[Winter|winter]]'s nights. 
+Hardy was [[Well|well]] known to Hood, who had the same sort of antiquarian
 taste in revolutions.
 
 There was little sound in the valley or the brilliant void of sky;
-the notes of birds fell only intermittently; a faint sound of tapping
+the notes of [[Birds|birds]] fell only intermittently; a faint sound of tapping
 came from the hills opposite where the wooded slope was broken here
 and there by the bare face of a quarry, and a distant aeroplane
 passed and re-passed, leaving a trail of faint thunder.  The two men
@@ -654,14 +654,14 @@ We have seen pigs fly."
 so extraordinary as their not being allowed to walk."
 
 And they gathered their travelling tackle together and began
-to descend the steep hill.
+to descend the steep [[Hill|hill]].
 
 In doing so, they descended into a deeper twilight between the stems
 of the darkling trees; the walls of the valley began to close over them,
 as it were, and they lost that sense of being in the upper air
 in a radiant topsy-turvydom of clouds.  It was almost as if they
 had really had a vision; and the voice of Crane came abruptly out
-of the dusk, almost like that of a doubter when he speaks of a dream.
+of the dusk, almost like that of a doubter when he speaks of [[A Dream|a dream]].
 
 "The thing I can't understand," he said abruptly, "is how Hilary
 managed to DO all that by himself."
@@ -670,25 +670,25 @@ managed to DO all that by himself."
 yourself he did wonders in the War.  And though he turns it to these
 fanatical ends now, it takes as much trouble to do one as the other."
 
-"Takes a devilish lot more trouble to do it alone," said Crane. 
+"Takes a devilish lot more trouble to do it [[Alone|alone]]," said Crane. 
 "In the War there was a whole organization."
 
 "You mean he must be more than a remarkable person," suggested Hood,
 "a sort of giant with a hundred hands or god with a hundred eyes. 
-Well, a man will work frightfully hard when he wants something
+[[Well]], a man will work frightfully hard when he wants something
 very much; even a man who generally looks like a lounging minor poet. 
 And I think I know what it was he wanted.  He deserves to get it. 
 It's certainly his hour of triumph."
 
 "Mystery to me all the same," said the Colonel frowning. 
-"Wonder whether he'll ever clear it up."  But that part of the mystery
+"[[Wonder]] whether he'll ever clear it up."  But that part of the mystery
 was not to be cleared up until many other curious things had come to pass.
 
 Away on another part of the slope Hilary Pierce, new lighted upon
 the earth like the herald Mercury, leapt down into a red hollow
 of the quarry and came towards Joan Hardy with uplifted arms.
 
-"This is no time for false modesty," he said.  "It is the hour,
+"This is no [[Time|time]] for false modesty," he said.  "It is the hour,
 and I come to you covered with glory--"
 
 "You come covered with mud," she said smiling, "and it's that
@@ -696,15 +696,15 @@ horrible red mud that takes so long to dry.  It's no use trying
 to brush it till--"
 
 "I bring you the Golden Fleece, or at any rate the Golden Pig-Skin,"
-he cried in lyric ecstasy.  "I have endured the labours; I have
-achieved the quest.  I have made the Hampshire Hog as legendary
+he cried in [[Lyric|lyric]] ecstasy.  "I have endured the labours; I have
+achieved the [[Quest|quest]].  I have made the Hampshire Hog as legendary
 as the Calydonian Boar.  They forbade me to drive it on foot,
 and I drove it in a car, disguised as a pug.  They forbade me to
 bring it in a car, and I brought it in a railway-train, disguised
 as an invalid.  They forbade me to use a railway-train, and I took
-to the wings of the morning and rose to the uttermost parts of the air;
-by a way secret and pathless and lonely as the wilful way of love. 
-I have made my romance immortal.  I have made my romance immortal. 
+to the wings of the morning and [[Rose|rose]] to the uttermost parts of the air;
+by a way secret and pathless and lonely as the wilful way of [[Love|love]]. 
+I have made my [[Romance|romance]] immortal.  I have made my [[Romance|romance]] immortal. 
 I have written your name upon the sky.  What do you say to me now? 
 I have turned a Pig into a Pegasus.  I have done impossible things."
 
@@ -724,13 +724,13 @@ can't help liking you either.  He says he doesn't believe in people
 marrying out of their class; but that if I must marry a gentleman
 he'd rather it was somebody like you, and not one of the new gentlemen."
 
-"Well, I'm glad I'm an old gentleman, any how," he answered
+"[[Well]], I'm glad I'm an old gentleman, any how," he answered
 somewhat mollified.  "But really this prevalence of common
 sense is getting quite dangerous.  Will nothing rouse you all
 to a little unreality; to saying, so to speak, `O, for the wings
 of a pig that I might flee away and be at rest.'  What would you
-say if I turned the world upside down and set my foot upon
-the sun and moon?"
+say if I turned the [[World Upside Down|world upside down]] and set my foot upon
+the sun and [[Moon|moon]]?"
 
 "I should say," replied Joan Hardy, still smiling, "that you wanted
 somebody to look after you."
@@ -738,18 +738,18 @@ somebody to look after you."
 He stared at her for a moment in an almost abstracted fashion
 as if he had not fully understood; then he laughed uncontrollably,
 like a man who has seen something very close to him that he knows he
-is a fool not to have seen before.  So a man will fall over something
+is a [[Fool|fool]] not to have seen before.  So a man will fall over something
 in a game of hiding-and-seeking, and get shaken up with laughter.
 
 "What a bump your mother earth gives you when you fall out of an aeroplane,"
-he said, "especially when your flying ship is only a flying pig. 
+he said, "especially when your flying [[Ship|ship]] is only a flying pig. 
 The earth of the real peasants and the real pigs--don't be offended;
 I assure you the confusion is a compliment.  What a thing is
-horse-sense, and how much finer really than the poetry of Pegasus! 
-And when there is everything else as well that makes the sky clean
-and the earth kind, beauty and bravery and the lifting of the head--
-well, you are right enough, Joan.  Will you take care of me? 
-Will you stop at home and clip my pig's wings?"
+[[Horse|horse]]-sense, and how much finer really than the poetry of Pegasus! 
+And when there is everything else as [[Well|well]] that makes the sky clean
+and the earth kind, [[Beauty|beauty]] and bravery and the lifting of the head--
+[[Well|well]], you are right enough, Joan.  Will you take care of me? 
+Will you stop at [[Home|home]] and clip my pig's wings?"
 
 He had caught hold of her by the hands; but she still laughed
 as she answered.
@@ -765,14 +765,14 @@ towards them.
 congratulate me.  Joan thinks I'm an awful humbug, and right she is;
 I am what has been called a happy hypocrite.  At least you fellows
 may think I've been guilty of a bit of fake in this last affair,
-when I tell you the news.  Well, I will confess."
+when I tell you the news.  [[Well]], I will confess."
 
 "What news do you mean?" inquired the Colonel with curiosity.
 
 Hilary Pierce grinned and made a gesture over his shoulder to the
 litter of porcine parachutes, to indicate his last and crowning folly.
 
-"The truth is," he said laughing, "that was only a final firework display
+"The [[Truth|truth]] is," he said laughing, "that was only a final firework display
 to celebrate victory or failure, whichever you choose to call it. 
 There isn't any need to do so any more, because the veto is removed.
 
@@ -793,7 +793,7 @@ Businesses are settled by the big people."
 
 "Oh, I know," said Pierce wearily, "I thought he had nothing to do
 with it; I thought it was the Jews and vegetarians, and the rest;
-but they're very innocent instruments.  The truth is that Enoch
+but they're very [[Innocent|innocent]] instruments.  The [[Truth|truth]] is that Enoch
 Oates is the biggest pork-packer and importer in the world,
 and HE didn't want any competition from our cottagers.  And what he
 says goes, as he would express it.  Now, thank God, he's taken up

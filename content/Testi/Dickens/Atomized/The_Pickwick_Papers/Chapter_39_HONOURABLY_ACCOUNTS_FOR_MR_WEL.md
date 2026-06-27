@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 37: HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY"
+title: "The [[Pickwick]] Papers — Chapter 37: HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 CHAPTER XXXVII. HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY
 DESCRIBING A SOIREE TO WHICH HE WAS INVITED AND WENT; ALSO RELATES HOW
-HE WAS ENTRUSTED BY MR. PICKWICK WITH A PRIVATE MISSION OF DELICACY AND
+HE WAS ENTRUSTED BY MR. [[Pickwick|PICKWICK]] WITH A PRIVATE MISSION OF DELICACY AND
 IMPORTANCE
 
 Mr. Weller,’ said Mrs. Craddock, upon the morning of this very eventful
@@ -40,42 +40,42 @@ As Sam said this, he did what a great many people do when they are
 uncertain about the writer of a note--looked at the seal, and then at
 the front, and then at the back, and then at the sides, and then at the
 superscription; and, as a last resource, thought perhaps he might as
-well look at the inside, and try to find out from that.
+[[Well|well]] look at the inside, and try to find out from that.
 
 ‘It’s wrote on gilt-edged paper,’ said Sam, as he unfolded it, ‘and
 sealed in bronze vax vith the top of a door key. Now for it.’ And, with
-a very grave face, Mr. Weller slowly read as follows--
+a very [[Grave|grave]] face, Mr. Weller slowly read as follows--
 
 ‘A select company of the Bath footmen presents their compliments to Mr.
 Weller, and requests the pleasure of his company this evening, to a
 friendly swarry, consisting of a boiled leg of mutton with the usual
-trimmings. The swarry to be on table at half-past nine o’clock
+trimmings. The swarry to be on table at half-past nine o’[[Clock|clock]]
 punctually.’
 
 This was inclosed in another note, which ran thus--
 
 ‘Mr. John Smauker, the gentleman who had the pleasure of meeting Mr.
-Weller at the house of their mutual acquaintance, Mr. Bantam, a few days
+Weller at the [[house]] of their mutual acquaintance, Mr. Bantam, a few days
 since, begs to inclose Mr. Weller the herewith invitation. If Mr. Weller
-will call on Mr. John Smauker at nine o’clock, Mr. John Smauker will
+will call on Mr. John Smauker at nine o’[[Clock|clock]], Mr. John Smauker will
 have the pleasure of introducing Mr. Weller.
 
 
 (Signed)           ‘_John Smauker_.’
 
-The envelope was directed to blank Weller, Esq., at Mr. Pickwick’s; and
+The envelope was directed to blank Weller, Esq., at Mr. [[Pickwick]]’s; and
 in a parenthesis, in the left hand corner, were the words ‘airy bell,’
 as an instruction to the bearer.
 
 ‘Vell,’ said Sam, ‘this is comin’ it rayther powerful, this is. I never
-heerd a biled leg o’ mutton called a swarry afore. I wonder wot they’d
+heerd a biled leg o’ mutton called a swarry afore. I [[Wonder|wonder]] wot they’d
 call a roast one.’
 
-However, without waiting to debate the point, Sam at once betook himself
-into the presence of Mr. Pickwick, and requested leave of absence for
+However, without waiting to [[debate]] the point, Sam at once betook himself
+into the presence of Mr. [[Pickwick]], and requested leave of absence for
 that evening, which was readily granted. With this permission and the
-street-door key, Sam Weller issued forth a little before the appointed
-time, and strolled leisurely towards Queen Square, which he no sooner
+street-door key, [[Sam Weller]] issued forth a little before the appointed
+[[Time|time]], and strolled leisurely towards [[Queen]] Square, which he no sooner
 gained than he had the satisfaction of beholding Mr. John Smauker
 leaning his powdered head against a lamp-post at a short distance off,
 smoking a cigar through an amber tube.
@@ -98,7 +98,7 @@ wine; I’m afraid I’ve been dissipating.’
 
 ‘Oh! that’s it, is it?’ said Sam; ‘that’s a wery bad complaint, that.’
 
-‘And yet the temptation, you see, Mr. Weller,’ observed Mr. John
+‘And yet the [[Temptation|temptation]], you see, Mr. Weller,’ observed Mr. John
 Smauker.
 
 ‘Ah, to be sure,’ said Sam.
@@ -114,7 +114,7 @@ subjected to temptations which other people is free from, Mr. Weller.’
 
 ‘Precisely what my uncle said, ven he vent into the public line,’
 remarked Sam, ‘and wery right the old gen’l’m’n wos, for he drank
-hisself to death in somethin’ less than a quarter.’
+hisself to [[Death|death]] in somethin’ less than a quarter.’
 
 Mr. John Smauker looked deeply indignant at any parallel being drawn
 between himself and the deceased gentleman in question; but, as Sam’s
@@ -122,7 +122,7 @@ face was in the most immovable state of calmness, he thought better of
 it, and looked affable again.
 
 ‘Perhaps we had better be walking,’ said Mr. Smauker, consulting a
-copper timepiece which dwelt at the bottom of a deep watch-pocket, and
+copper timepiece which dwelt at the [[Bottom|bottom]] of a deep watch-pocket, and
 was raised to the surface by means of a black string, with a copper key
 at the other end.
 
@@ -147,9 +147,9 @@ strong flavour o’ warm flat irons.’
 ‘That _is_ the killibeate, Mr. Weller,’ observed Mr. John Smauker
 contemptuously.
 
-‘Well, if it is, it’s a wery inexpressive word, that’s all,’ said Sam.
+‘[[Well]], if it is, it’s a wery inexpressive word, that’s all,’ said Sam.
 ‘It may be, but I ain’t much in the chimical line myself, so I can’t
-say.’ And here, to the great horror of Mr. John Smauker, Sam Weller
+say.’ And here, to the great horror of Mr. John Smauker, [[Sam Weller]]
 began to whistle.
 
 ‘I beg your pardon, Mr. Weller,’ said Mr. John Smauker, agonised at the
@@ -176,14 +176,14 @@ first, you know, but they’ll soon come round.’
 
 ‘That’s wery kind on ‘em,’ replied Sam.
 
-‘And you know,’ resumed Mr. John Smauker, with an air of sublime
+‘And you know,’ resumed Mr. John Smauker, with an air of [[Sublime|sublime]]
 protection--‘you know, as you’re a stranger, perhaps, they’ll be rather
 hard upon you at first.’
 
 ‘They won’t be wery cruel, though, will they?’ inquired Sam.
 
 ‘No, no,’ replied Mr. John Smauker, pulling forth the fox’s head, and
-taking a gentlemanly pinch. ‘There are some funny dogs among us, and
+taking a gentlemanly pinch. ‘There are some funny [[dogs]] among us, and
 they will have their joke, you know; but you mustn’t mind ‘em, you
 mustn’t mind ‘em.’
 
@@ -193,7 +193,7 @@ Sam.
 ‘That’s right,’ said Mr. John Smauker, putting forth his fox’s head, and
 elevating his own; ‘I’ll stand by you.’
 
-By this time they had reached a small greengrocer’s shop, which Mr. John
+By this [[Time|time]] they had reached a small greengrocer’s shop, which Mr. John
 Smauker entered, followed by Sam, who, the moment he got behind him,
 relapsed into a series of the very broadest and most unmitigated grins,
 and manifested other demonstrations of being in a highly enviable state
@@ -213,7 +213,7 @@ exceedingly striking. Plates for a corresponding number of guests were
 warming behind the fender; and the guests themselves were warming before
 it: the chief and most important of whom appeared to be a stoutish
 gentleman in a bright crimson coat with long tails, vividly red
-breeches, and a cocked hat, who was standing with his back to the fire,
+breeches, and a cocked hat, who was standing with his back to the [[Fire|fire]],
 and had apparently just entered, for besides retaining his cocked hat on
 his head, he carried in his hand a high stick, such as gentlemen of his
 profession usually elevate in a sloping position over the roofs of
@@ -223,10 +223,10 @@ carriages.
 
 Mr. Smauker dovetailed the top joint of his right-hand little finger
 into that of the gentleman with the cocked hat, and said he was charmed
-to see him looking so well.
+to see him looking so [[Well|well]].
 
-‘Well, they tell me I am looking pretty blooming,’ said the man with the
-cocked hat, ‘and it’s a wonder, too. I’ve been following our old woman
+‘[[Well]], they tell me I am looking pretty blooming,’ said the man with the
+cocked hat, ‘and it’s a [[Wonder|wonder]], too. I’ve been following our old woman
 about, two hours a day, for the last fortnight; and if a constant
 contemplation of the manner in which she hooks-and-eyes that infernal
 lavender-coloured old gown of hers behind, isn’t enough to throw anybody
@@ -234,7 +234,7 @@ into a low state of despondency for life, stop my quarter’s salary.’
 
 At this, the assembled selections laughed very heartily; and one
 gentleman in a yellow waistcoat, with a coach-trimming border, whispered
-a neighbour in green-foil smalls, that Tuckle was in spirits to-night.
+a neighbour in green-foil smalls, that Tuckle was in spirits to-[[Night|night]].
 
 ‘By the bye,’ said Mr. Tuckle, ‘Smauker, my boy, you--’ The remainder of
 the sentence was forwarded into Mr. John Smauker’s ear, by whisper.
@@ -242,8 +242,8 @@ the sentence was forwarded into Mr. John Smauker’s ear, by whisper.
 ‘Oh, dear me, I quite forgot,’ said Mr. John Smauker. ‘Gentlemen, my
 friend Mr. Weller.’
 
-‘Sorry to keep the fire off you, Weller,’ said Mr. Tuckle, with a
-familiar nod. ‘Hope you’re not cold, Weller.’
+‘Sorry to keep the [[Fire|fire]] off you, Weller,’ said Mr. Tuckle, with a
+familiar nod. ‘[[Hope]] you’re not cold, Weller.’
 
 ‘Not by no means, Blazes,’ replied Sam. ‘It ‘ud be a wery chilly subject
 as felt cold wen you stood opposite. You’d save coals if they put you
@@ -251,7 +251,7 @@ behind the fender in the waitin’-room at a public office, you would.’
 
 As this retort appeared to convey rather a personal allusion to Mr.
 Tuckle’s crimson livery, that gentleman looked majestic for a few
-seconds, but gradually edging away from the fire, broke into a forced
+seconds, but gradually edging away from the [[Fire|fire]], broke into a forced
 smile, and said it wasn’t bad.
 
 ‘Wery much obliged for your good opinion, sir,’ replied Sam. ‘We shall
@@ -282,22 +282,22 @@ Yes, Sir.’
 
 ‘Yes, Sir.’
 
-The greengrocer did as he was told, with a show of great humility, and
+The greengrocer did as he was told, with a show of great [[Humility|humility]], and
 obsequiously handed Mr. Tuckle the carving-knife; in doing which, he
 accidentally gaped.
 
 ‘What do you mean by that, Sir?’ said Mr. Tuckle, with great asperity.
 
 ‘I beg your pardon, Sir,’ replied the crestfallen greengrocer, ‘I didn’t
-mean to do it, Sir; I was up very late last night, Sir.’
+mean to do it, Sir; I was up very late last [[Night|night]], Sir.’
 
 ‘I tell you what my opinion of you is, Harris,’ said Mr. Tuckle, with a
 most impressive air, ‘you’re a wulgar beast.’
 
-‘I hope, gentlemen,’ said Harris, ‘that you won’t be severe with me,
+‘I [[Hope|hope]], gentlemen,’ said Harris, ‘that you won’t be severe with me,
 gentlemen. I am very much obliged to you indeed, gentlemen, for your
 patronage, and also for your recommendations, gentlemen, whenever
-additional assistance in waiting is required. I hope, gentlemen, I give
+additional assistance in waiting is required. I [[Hope|hope]], gentlemen, I give
 satisfaction.’
 
 ‘No, you don’t, Sir,’ said Mr. Tuckle. ‘Very far from it, Sir.’
@@ -326,7 +326,7 @@ theayter.’
 
 ‘Oh, that indeed,’ said the gentleman in the orange plush.
 
-‘Yes; raly now, honour bright,’ said the man in blue. ‘I made a promese
+‘Yes; raly now, [[Honour|honour]] bright,’ said the man in blue. ‘I made a promese
 to fetch our youngest daughter at half-past ten, and she is such an
 uncauminly fine gal, that I raly hadn’t the ‘art to disappint her. No
 offence to the present company, Sir, but a petticut, sir--a petticut,
@@ -344,7 +344,7 @@ but--no, no, no, indeed, Tuckle--before strangers, too--it’s not right--
 you shouldn’t. Delicacy, my dear friend, delicacy!’ And the man in blue,
 pulling up his neckerchief, and adjusting his coat cuffs, nodded and
 frowned as if there were more behind, which he could say if he liked,
-but was bound in honour to suppress.
+but was bound in [[Honour|honour]] to suppress.
 
 The man in blue being a light-haired, stiff-necked, free and easy sort
 of footman, with a swaggering air and pert face, had attracted Mr.
@@ -356,8 +356,8 @@ characteristic independence.
 ‘Your health, Sir,’ said Sam. ‘I like your conversation much. I think
 it’s wery pretty.’
 
-At this the man in blue smiled, as if it were a compliment he was well
-used to; but looked approvingly on Sam at the same time, and said he
+At this the man in blue smiled, as if it were a compliment he was [[Well|well]]
+used to; but looked approvingly on Sam at the same [[Time|time]], and said he
 hoped he should be better acquainted with him, for without any flattery
 at all he seemed to have the makings of a very nice fellow about him,
 and to be just the man after his own heart.
@@ -368,20 +368,20 @@ and to be just the man after his own heart.
 
 ‘That ‘ere young lady,’ replied Sam. ‘She knows wot’s wot, she does. Ah!
 I see.’ Mr. Weller closed one eye, and shook his head from side to side,
-in a manner which was highly gratifying to the personal vanity of the
+in a manner which was highly gratifying to the personal [[Vanity|vanity]] of the
 gentleman in blue.
 
 ‘I’m afraid you’re a cunning fellow, Mr. Weller,’ said that individual.
 
 ‘No, no,’ said Sam. ‘I leave all that ‘ere to you. It’s a great deal
 more in your way than mine, as the gen’l’m’n on the right side o’ the
-garden vall said to the man on the wrong un, ven the mad bull vos a-
+[[Garden|garden]] vall said to the man on the wrong un, ven the mad bull vos a-
 comin’ up the lane.’
 
-‘Well, well, Mr. Weller,’ said the gentleman in blue, ‘I think she has
+‘[[Well]], [[Well|well]], Mr. Weller,’ said the gentleman in blue, ‘I think she has
 remarked my air and manner, Mr. Weller.’
 
-‘I should think she couldn’t wery well be off o’ that,’ said Sam.
+‘I should think she couldn’t wery [[Well|well]] be off o’ that,’ said Sam.
 
 ‘Have you any little thing of that kind in hand, sir?’ inquired the
 favoured gentleman in blue, drawing a toothpick from his waistcoat
@@ -390,7 +390,7 @@ pocket.
 ‘Not exactly,’ said Sam. ‘There’s no daughters at my place, else o’
 course I should ha’ made up to vun on ‘em. As it is, I don’t think I can
 do with anythin’ under a female markis. I might keep up with a young
-‘ooman o’ large property as hadn’t a title, if she made wery fierce love
+‘ooman o’ large property as hadn’t a title, if she made wery fierce [[Love|love]]
 to me. Not else.’
 
 ‘Of course not, Mr. Weller,’ said the gentleman in blue, ‘one can’t be
@@ -403,9 +403,9 @@ the service worth entering into.’
 
 When this confidential dialogue had gone thus far, glasses were placed
 round, and every gentleman ordered what he liked best, before the
-public-house shut up. The gentleman in blue, and the man in orange, who
-were the chief exquisites of the party, ordered ‘cold shrub and water,’
-but with the others, gin-and-water, sweet, appeared to be the favourite
+public-[[house]] shut up. The gentleman in blue, and the man in orange, who
+were the chief exquisites of the party, ordered ‘cold shrub and [[Water|water]],’
+but with the others, gin-and-[[Water|water]], sweet, appeared to be the favourite
 beverage. Sam called the greengrocer a ‘desp’rate willin,’ and ordered a
 large bowl of punch--two circumstances which seemed to raise him very
 much in the opinion of the selections.
@@ -427,18 +427,18 @@ don’t recognise such distinctions here.’
 ‘Oh, wery good,’ said Sam; ‘then I’ll amend the obserwation and call ‘em
 the dear creeturs, if Blazes vill allow me.’
 
-Some doubt appeared to exist in the mind of the gentleman in the green-
+Some [[Doubt|doubt]] appeared to exist in the mind of the gentleman in the green-
 foil smalls, whether the chairman could be legally appealed to, as
 ‘Blazes,’ but as the company seemed more disposed to stand upon their
 own rights than his, the question was not raised. The man with the
 cocked hat breathed short, and looked long at Sam, but apparently
-thought it as well to say nothing, in case he should get the worst of
-it. After a short silence, a gentleman in an embroidered coat reaching
+thought it as [[Well|well]] to say nothing, in case he should get the worst of
+it. After a short [[Silence|silence]], a gentleman in an embroidered coat reaching
 down to his heels, and a waistcoat of the same which kept one half of
-his legs warm, stirred his gin-and-water with great energy, and putting
+his legs warm, stirred his gin-and-[[Water|water]] with great energy, and putting
 himself upon his feet, all at once by a violent effort, said he was
 desirous of offering a few remarks to the company, whereupon the person
-in the cocked hat had no doubt that the company would be very happy to
+in the cocked hat had no [[Doubt|doubt]] that the company would be very happy to
 hear any remarks that the man in the long coat might wish to offer.
 
 ‘I feel a great delicacy, gentlemen, in coming for’ard,’ said the man in
@@ -455,10 +455,10 @@ Universal astonishment fell upon the hearers. Each gentleman looked in
 his neighbour’s face, and then transferred his glance to the upstanding
 coachman.
 
-‘You may well be sapparised, gentlemen,’ said the coachman. ‘I will not
+‘You may [[Well|well]] be sapparised, gentlemen,’ said the coachman. ‘I will not
 wenchure to state the reasons of this irrepairabel loss to the service,
 but I will beg Mr. Whiffers to state them himself, for the improvement
-and imitation of his admiring friends.’
+and [[Imitation|imitation]] of his admiring friends.’
 
 The suggestion being loudly approved of, Mr. Whiffers explained. He said
 he certainly could have wished to have continued to hold the appointment
@@ -466,7 +466,7 @@ he had just resigned. The uniform was extremely rich and expensive, the
 females of the family was most agreeable, and the duties of the
 situation was not, he was bound to say, too heavy; the principal service
 that was required of him, being, that he should look out of the hall
-window as much as possible, in company with another gentleman, who had
+[[Window|window]] as much as possible, in company with another gentleman, who had
 also resigned. He could have wished to have spared that company the
 painful and disgusting detail on which he was about to enter, but as the
 explanation had been demanded of him, he had no alternative but to
@@ -480,7 +480,7 @@ and hisses, prevailed for a quarter of an hour.
 Mr. Whiffers then added that he feared a portion of this outrage might
 be traced to his own forbearing and accommodating disposition. He had a
 distinct recollection of having once consented to eat salt butter, and
-he had, moreover, on an occasion of sudden sickness in the house, so far
+he had, moreover, on an occasion of sudden sickness in the [[house]], so far
 forgotten himself as to carry a coal-scuttle up to the second floor. He
 trusted he had not lowered himself in the good opinion of his friends by
 this frank confession of his faults; and he hoped the promptness with
@@ -499,33 +499,33 @@ friends had been drinking wine; but as they were taking spirits by way
 of a change, and as it might be inconvenient to empty a tumbler at every
 toast, he should propose that the honours be understood.
 
-At the conclusion of this speech, everybody took a sip in honour of Sam;
+At the conclusion of this speech, everybody took a sip in [[Honour|honour]] of Sam;
 and Sam having ladled out, and drunk, two full glasses of punch in
-honour of himself, returned thanks in a neat speech.
+[[Honour|honour]] of himself, returned thanks in a neat speech.
 
 ‘Wery much obliged to you, old fellers,’ said Sam, ladling away at the
 punch in the most unembarrassed manner possible, ‘for this here
 compliment; which, comin’ from sich a quarter, is wery overvelmin’. I’ve
-heered a good deal on you as a body, but I will say, that I never
-thought you was sich uncommon nice men as I find you air. I only hope
+heered a good deal on you as a [[Body|body]], but I will say, that I never
+thought you was sich uncommon nice men as I find you air. I only [[Hope|hope]]
 you’ll take care o’ yourselves, and not compromise nothin’ o’ your
 dignity, which is a wery charmin’ thing to see, when one’s out a-
 walkin’, and has always made me wery happy to look at, ever since I was
 a boy about half as high as the brass-headed stick o’ my wery
 respectable friend, Blazes, there. As to the wictim of oppression in the
-suit o’ brimstone, all I can say of him, is, that I hope he’ll get jist
+suit o’ brimstone, all I can say of him, is, that I [[Hope|hope]] he’ll get jist
 as good a berth as he deserves; in vitch case it’s wery little cold
 swarry as ever he’ll be troubled with agin.’
 
 Here Sam sat down with a pleasant smile, and his speech having been
 vociferously applauded, the company broke up.
 
-‘Wy, you don’t mean to say you’re a-goin’ old feller?’ said Sam Weller
+‘Wy, you don’t mean to say you’re a-goin’ old feller?’ said [[Sam Weller]]
 to his friend, Mr. John Smauker.
 
 ‘I must, indeed,’ said Mr. Smauker; ‘I promised Bantam.’
 
-‘Oh, wery well,’ said Sam; ‘that’s another thing. P’raps he’d resign if
+‘Oh, wery [[Well|well]],’ said Sam; ‘that’s another thing. P’raps he’d resign if
 you disappinted him. You ain’t a-goin’, Blazes?’
 
 ‘Yes, I am,’ said the man with the cocked hat.
@@ -537,102 +537,102 @@ Mr. Tuckle was not proof against this invitation. He laid aside the
 cocked hat and stick which he had just taken up, and said he would have
 one glass, for good fellowship’s sake.
 
-As the gentleman in blue went home the same way as Mr. Tuckle, he was
+As the gentleman in blue went [[Home|home]] the same way as Mr. Tuckle, he was
 prevailed upon to stop too. When the punch was about half gone, Sam
-ordered in some oysters from the green-grocer’s shop; and the effect of
+ordered in some oysters from the green-[[grocer]]’s shop; and the effect of
 both was so extremely exhilarating, that Mr. Tuckle, dressed out with
 the cocked hat and stick, danced the frog hornpipe among the shells on
 the table, while the gentleman in blue played an accompaniment upon an
 ingenious musical instrument formed of a hair-comb upon a curl-paper. At
-last, when the punch was all gone, and the night nearly so, they sallied
-forth to see each other home. Mr. Tuckle no sooner got into the open
-air, than he was seized with a sudden desire to lie on the curbstone;
+last, when the punch was all gone, and the [[Night|night]] nearly so, they sallied
+forth to see each other [[Home|home]]. Mr. Tuckle no sooner got into the open
+air, than he was seized with a sudden [[Desire|desire]] to lie on the curbstone;
 Sam thought it would be a pity to contradict him, and so let him have
 his own way. As the cocked hat would have been spoiled if left there,
 Sam very considerately flattened it down on the head of the gentleman in
 blue, and putting the big stick in his hand, propped him up against his
-own street-door, rang the bell, and walked quietly home.
+own street-door, rang the bell, and walked quietly [[Home|home]].
 
-At a much earlier hour next morning than his usual time of rising, Mr.
-Pickwick walked downstairs completely dressed, and rang the bell.
+At a much earlier hour next morning than his usual [[Time|time]] of rising, Mr.
+[[Pickwick]] walked downstairs completely dressed, and rang the bell.
 
-‘Sam,’ said Mr. Pickwick, when Mr. Weller appeared in reply to the
+‘Sam,’ said Mr. [[Pickwick]], when Mr. Weller appeared in reply to the
 summons, ‘shut the door.’
 
 Mr. Weller did so.
 
-‘There was an unfortunate occurrence here, last night, Sam,’ said Mr.
-Pickwick, ‘which gave Mr. Winkle some cause to apprehend violence from
+‘There was an unfortunate occurrence here, last [[Night|night]], Sam,’ said Mr.
+[[Pickwick]], ‘which gave Mr. Winkle some cause to apprehend violence from
 Mr. Dowler.’
 
 ‘So I’ve heerd from the old lady downstairs, Sir,’ replied Sam.
 
-‘And I’m sorry to say, Sam,’ continued Mr. Pickwick, with a most
+‘And I’m sorry to say, Sam,’ continued Mr. [[Pickwick]], with a most
 perplexed countenance, ‘that in dread of this violence, Mr. Winkle has
 gone away.’
 
 ‘Gone avay!’ said Sam.
 
-‘Left the house early this morning, without the slightest previous
-communication with me,’ replied Mr. Pickwick. ‘And is gone, I know not
+‘Left the [[house]] early this morning, without the slightest previous
+communication with me,’ replied Mr. [[Pickwick]]. ‘And is gone, I know not
 where.’
 
 ‘He should ha’ stopped and fought it out, Sir,’ replied Sam
 contemptuously. ‘It wouldn’t take much to settle that ‘ere Dowler, Sir.’
 
-‘Well, Sam,’ said Mr. Pickwick, ‘I may have my doubts of his great
+‘[[Well]], Sam,’ said Mr. [[Pickwick]], ‘I may have my doubts of his great
 bravery and determination also. But however that may be, Mr. Winkle is
 gone. He must be found, Sam. Found and brought back to me.’
 
 And s’pose he won’t come back, Sir?’ said Sam.
 
-‘He must be made, Sam,’ said Mr. Pickwick.
+‘He must be made, Sam,’ said Mr. [[Pickwick]].
 
 ‘Who’s to do it, Sir?’ inquired Sam, with a smile.
 
-‘You,’ replied Mr. Pickwick.
+‘You,’ replied Mr. [[Pickwick]].
 
 ‘Wery good, Sir.’
 
 With these words Mr. Weller left the room, and immediately afterwards
-was heard to shut the street door. In two hours’ time he returned with
+was heard to shut the street door. In two hours’ [[Time|time]] he returned with
 so much coolness as if he had been despatched on the most ordinary
 message possible, and brought the information that an individual, in
 every respect answering Mr. Winkle’s description, had gone over to
 Bristol that morning, by the branch coach from the Royal Hotel.
 
-‘Sam,’ said Mr. Pickwick, grasping his hand, ‘you’re a capital fellow;
+‘Sam,’ said Mr. [[Pickwick]], grasping his hand, ‘you’re a capital fellow;
 an invaluable fellow. You must follow him, Sam.’
 
 ‘Cert’nly, Sir,’ replied Mr. Weller.
 
 ‘The instant you discover him, write to me immediately, Sam,’ said Mr.
-Pickwick. ‘If he attempts to run away from you, knock him down, or lock
+[[Pickwick]]. ‘If he attempts to run away from you, knock him down, or lock
 him up. You have my full authority, Sam.’
 
 ‘I’ll be wery careful, sir,’ rejoined Sam.
 
-‘You’ll tell him,’ said Mr. Pickwick, ‘that I am highly excited, highly
+‘You’ll tell him,’ said Mr. [[Pickwick]], ‘that I am highly excited, highly
 displeased, and naturally indignant, at the very extraordinary course he
 has thought proper to pursue.’
 
 ‘I will, Sir,’ replied Sam.
 
-‘You’ll tell him,’ said Mr. Pickwick, ‘that if he does not come back to
-this very house, with you, he will come back with me, for I will come
+‘You’ll tell him,’ said Mr. [[Pickwick]], ‘that if he does not come back to
+this very [[house]], with you, he will come back with me, for I will come
 and fetch him.’
 
 ‘I’ll mention that ‘ere, Sir,’ rejoined Sam.
 
-‘You think you can find him, Sam?’ said Mr. Pickwick, looking earnestly
+‘You think you can find him, Sam?’ said Mr. [[Pickwick]], looking earnestly
 in his face.
 
 ‘Oh, I’ll find him if he’s anyvere,’ rejoined Sam, with great
 confidence.
 
-‘Very well,’ said Mr. Pickwick. ‘Then the sooner you go the better.’
+‘Very [[Well|well]],’ said Mr. [[Pickwick]]. ‘Then the sooner you go the better.’
 
-With these instructions, Mr. Pickwick placed a sum of money in the hands
+With these instructions, Mr. [[Pickwick]] placed a sum of money in the hands
 of his faithful servitor, and ordered him to start for Bristol
 immediately, in pursuit of the fugitive.
 
@@ -642,16 +642,16 @@ quietly back, thrust his head in at the parlour door.
 
 ‘Sir,’ whispered Sam.
 
-‘Well, Sam,’ said Mr. Pickwick.
+‘[[Well]], Sam,’ said Mr. [[Pickwick]].
 
 ‘I fully understands my instructions, do I, Sir?’ inquired Sam.
 
-‘I hope so,’ said Mr. Pickwick.
+‘I [[Hope|hope]] so,’ said Mr. [[Pickwick]].
 
 ‘It’s reg’larly understood about the knockin’ down, is it, Sir?’
 inquired Sam.
 
-‘Perfectly,’ replied Pickwick. ‘Thoroughly. Do what you think necessary.
+‘Perfectly,’ replied [[Pickwick]]. ‘Thoroughly. Do what you think necessary.
 You have my orders.’
 
 Sam gave a nod of intelligence, and withdrawing his head from the door,

@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 10: Containing the whole Science of Government (part 2)"
+title: "Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government]] (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 Such a nursery of statesmen had the Department become in virtue of a
-long career of this nature, that several solemn lords had attained the
+long career of this [[Nature|nature]], that several solemn lords had attained the
 reputation of being quite unearthly prodigies of business, solely from
 having practised, How not to do it, as the head of the Circumlocution
 Office. As to the minor priests and acolytes of that temple, the result
@@ -25,7 +25,7 @@ a heaven-born institution that had an absolute right to do whatever it
 liked; or took refuge in total infidelity, and considered it a flagrant
 nuisance.
 
-The Barnacle family had for some time helped to administer the
+The Barnacle family had for some [[Time|time]] helped to administer the
 Circumlocution Office. The Tite Barnacle Branch, indeed, considered
 themselves in a general way as having vested rights in that direction,
 and took it ill if any other family had much to say to it. The Barnacles
@@ -40,29 +40,29 @@ The Mr Tite Barnacle who at the period now in question usually coached
 or crammed the statesman at the head of the Circumlocution Office, when
 that noble or right honourable individual sat a little uneasily in his
 saddle by reason of some vagabond making a tilt at him in a newspaper,
-was more flush of blood than money. As a Barnacle he had his place,
+was more flush of [[Blood|blood]] than money. As a Barnacle he had his place,
 which was a snug thing enough; and as a Barnacle he had of course put
 in his son Barnacle Junior in the office. But he had intermarried with
 a branch of the Stiltstalkings, who were also better endowed in a
 sanguineous point of view than with real or personal property, and of
-this marriage there had been issue, Barnacle junior and three young
+this [[Marriage|marriage]] there had been issue, Barnacle junior and three young
 ladies. What with the patrician requirements of Barnacle junior, the
 three young ladies, Mrs Tite Barnacle nee Stiltstalking, and himself,
 Mr Tite Barnacle found the intervals between quarter day and quarter day
 rather longer than he could have desired; a circumstance which he always
 attributed to the country’s parsimony.
 
-For Mr Tite Barnacle, Mr Arthur Clennam made his fifth inquiry one day
+For Mr Tite Barnacle, Mr [[Arthur Clennam]] made his fifth inquiry one day
 at the Circumlocution Office; having on previous occasions awaited that
 gentleman successively in a hall, a glass case, a waiting room, and a
-fire-proof passage where the Department seemed to keep its wind. On this
+[[Fire|fire]]-proof passage where the Department seemed to keep its [[Wind|wind]]. On this
 occasion Mr Barnacle was not engaged, as he had been before, with the
 noble prodigy at the head of the Department; but was absent. Barnacle
 Junior, however, was announced as a lesser star, yet visible above the
 office horizon.
 
-With Barnacle junior, he signified his desire to confer; and found that
-young gentleman singeing the calves of his legs at the parental fire,
+With Barnacle junior, he signified his [[Desire|desire]] to confer; and found that
+young gentleman singeing the calves of his legs at the parental [[Fire|fire]],
 and supporting his spine against the mantel-shelf. It was a comfortable
 room, handsomely furnished in the higher official manner; and presenting
 stately suggestions of the absent Barnacle, in the thick carpet, the
@@ -89,15 +89,15 @@ way to-day,’ said Barnacle Junior. ‘Is this anything that I can do?’
 (Click! Eye-glass down. Barnacle Junior quite frightened and feeling all
 round himself, but not able to find it.)
 
-‘You are very good,’ said Arthur Clennam. ‘I wish however to see Mr
+‘You are very good,’ said [[Arthur Clennam]]. ‘I wish however to see Mr
 Barnacle.’
 
 ‘But I say. Look here! You haven’t got any appointment, you know,’ said
 Barnacle Junior.
 
-(By this time he had found the eye-glass, and put it up again.)
+(By this [[Time|time]] he had found the eye-glass, and put it up again.)
 
-‘No,’ said Arthur Clennam. ‘That is what I wish to have.’
+‘No,’ said [[Arthur Clennam]]. ‘That is what I wish to have.’
 
 ‘But I say. Look here! Is this public business?’ asked Barnacle junior.
 
@@ -111,15 +111,15 @@ after it that Mr Clennam felt it useless to reply at present.)
 his glass in it, in that inflammatory manner that his eye began watering
 dreadfully.)
 
-‘No,’ said Arthur, ‘it is nothing about tonnage.’
+‘No,’ said [[Arthur]], ‘it is nothing about tonnage.’
 
 ‘Then look here. Is it private business?’
 
 ‘I really am not sure. It relates to a Mr Dorrit.’
 
-‘Look here, I tell you what! You had better call at our house, if you
+‘Look here, I tell you what! You had better call at our [[house]], if you
 are going that way. Twenty-four, Mews Street, Grosvenor Square. My
-father’s got a slight touch of the gout, and is kept at home by it.’
+father’s got a slight touch of the gout, and is kept at [[Home|home]] by it.’
 
 (The misguided young Barnacle evidently going blind on his eye-glass
 side, but ashamed to make any further alteration in his painful

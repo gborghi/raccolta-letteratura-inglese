@@ -1,5 +1,5 @@
 ---
-title: "Richard III — Act I, Scene 2 — exchange (dialogue) [1]"
+title: "[[Richard III]] — Act I, Scene 2 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/RICHARD-III-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter gentlemen, bearing the corpse of King Henry the Sixth in an open coffin, with halberdiers to guard it, Lady Anne being the mourner |
+| *(didascalia)* | Enter gentlemen, bearing the corpse of [[King]] Henry the Sixth in an open coffin, with halberdiers to guard it, [[Lady Anne]] being the mourner |

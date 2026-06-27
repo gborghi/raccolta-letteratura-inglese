@@ -30,7 +30,7 @@ CHAPTER 13
 
       for a fortnight even with great care, almost entirely without
 
-      water, and floating about at the mercy of every wind and wave on
+      [[Water|water]], and floating about at the [[Mercy|mercy]] of every [[Wind|wind]] and wave on
 
       the merest wreck in the world, still the infinitely more terrible
 
@@ -48,15 +48,15 @@ CHAPTER 13
 
       something from the storeroom, when, a smart shower coming on,
 
-      with some lightning, we turn our attention to the catching of
+      with some [[Lightning|lightning]], we turn our attention to the catching of
 
-      water by means of the sheet we had used before for this purpose.
+      [[Water|water]] by means of the sheet we had used before for this purpose.
 
       We had no other means of collecting the rain than by holding the
 
       sheet spread out with one of the forechain-plates in the middle
 
-      of it. The water, thus conducted to the centre, was drained
+      of it. The [[Water|water]], thus conducted to the centre, was drained
 
       through into our jug. We had nearly filled it in this manner,
 
@@ -72,21 +72,21 @@ CHAPTER 13
 
       anticipated or would have been imagined possible under the
 
-      circumstances. At noon the wind had freshened into a two-reef
+      circumstances. At [[Noon|noon]] the [[Wind|wind]] had freshened into a two-reef
 
-      breeze, and by night into a stiff gale, accompanied with a
+      breeze, and by [[Night|night]] into a stiff gale, accompanied with a
 
       tremendously heavy swell. Experience having taught us, however,
 
       the best method of arranging our lashings, we weathered this
 
-      dreary night in tolerable security, although thoroughly drenched
+      dreary [[Night|night]] in tolerable security, although thoroughly drenched
 
       at almost every instant by the sea, and in momentary dread of
 
       being washed off. Fortunately, the weather was so warm as to
 
-      render the water rather grateful than otherwise.
+      render the [[Water|water]] rather grateful than otherwise.
 
 
 
@@ -96,7 +96,7 @@ CHAPTER 13
 
       were able to keep ourselves dry upon the deck. To our great
 
-      grief, however, we found that two jars of our olives, as well as
+      grief, however, we found that two jars of our olives, as [[Well|well]] as
 
       the whole of our ham, had been washed overboard, in spite of the
 
@@ -106,7 +106,7 @@ CHAPTER 13
 
       present with a breakfast on a few of the olives, and a measure of
 
-      water each, which latter we mixed half and half, with wine,
+      [[Water|water]] each, which latter we mixed half and half, with wine,
 
       finding great relief and strength from the mixture, without the
 
@@ -124,9 +124,9 @@ CHAPTER 13
 
       we could not stand an instant without lashing ourselves. On this
 
-      account we passed a gloomy and uncomfortable day. At noon the sun
+      account we passed a gloomy and uncomfortable day. At [[Noon|noon]] the sun
 
-      appeared to be nearly vertical, and we had no doubt that we had
+      appeared to be nearly vertical, and we had no [[Doubt|doubt]] that we had
 
       been driven down by the long succession of northward and
 
@@ -136,9 +136,9 @@ CHAPTER 13
 
       audacious manner in which an enormously large one approached us.
 
-      At one time, a lurch throwing the deck very far beneath the
+      At one [[Time|time]], a lurch throwing the deck very far beneath the
 
-      water, the monster actually swam in upon us, floundering for some
+      [[Water|water]], the [[Monster|monster]] actually swam in upon us, floundering for some
 
       moments just over the companion-hatch, and striking Peters
 
@@ -150,7 +150,7 @@ CHAPTER 13
 
 
 
-      July 26. This morning, the wind having greatly abated, and the
+      July 26. This morning, the [[Wind|wind]] having greatly abated, and the
 
       sea not being very rough, we determined to renew our exertions in
 
@@ -160,13 +160,13 @@ CHAPTER 13
 
       quarter, the partitions of the room having been stove during the
 
-      night, and its contents swept into the hold. This discovery, as
+      [[Night|night]], and its contents swept into the hold. This discovery, as
 
-      may be supposed, filled us with despair.
+      may be supposed, filled us with [[Despair|despair]].
 
 
 
-      July 27. The sea nearly smooth, with a light wind, and still from
+      July 27. The sea nearly smooth, with a light [[Wind|wind]], and still from
 
       the northward and westward. The sun coming out hotly in the
 
@@ -184,17 +184,17 @@ CHAPTER 13
 
       July 28. Good weather still. The brig now began to lie along so
 
-      alarmingly that we feared she would eventually roll bottom up.
+      alarmingly that we feared she would eventually roll [[Bottom|bottom]] up.
 
-      Prepared ourselves as well as we could for this emergency,
+      Prepared ourselves as [[Well|well]] as we could for this emergency,
 
       lashing our tortoise, waterjug, and two remaining jars of olives
 
       as far as possible over to the windward, placing them outside the
 
-      hull below the main-chains. The sea very smooth all day, with
+      hull below the main-[[Chains|chains]]. The sea very smooth all day, with
 
-      little or no wind.
+      little or no [[Wind|wind]].
 
 
 
@@ -202,7 +202,7 @@ CHAPTER 13
 
       arm began to evince symptoms of mortification. He complained of
 
-      drowsiness and excessive thirst, but no acute pain. Nothing could
+      drowsiness and excessive thirst, but no acute [[Pain|pain]]. Nothing could
 
       be done for his relief beyond rubbing his wounds with a little of
 
@@ -210,11 +210,11 @@ CHAPTER 13
 
       be experienced. We did every thing in our power for his comfort,
 
-      and trebled his allowance of water.
+      and trebled his allowance of [[Water|water]].
 
 
 
-      July 30. An excessively hot day, with no wind. An enormous shark
+      July 30. An excessively hot day, with no [[Wind|wind]]. An enormous shark
 
       kept close by the hulk during the whole of the forenoon. We made
 
@@ -226,17 +226,17 @@ CHAPTER 13
 
       constantly prayed to be relieved from his sufferings, wishing for
 
-      nothing but death. This evening we ate the last of our olives,
+      nothing but [[Death|death]]. This evening we ate the last of our olives,
 
-      and found the water in our jug so putrid that we could not
+      and found the [[Water|water]] in our jug so putrid that we could not
 
-      swallow it at all without the addition of wine. Determined to
+      [[Swallow|swallow]] it at all without the addition of wine. Determined to
 
       kill our tortoise in the morning.
 
 
 
-      July 31. After a night of excessive anxiety and fatigue, owing to
+      July 31. After a [[Night|night]] of excessive anxiety and fatigue, owing to
 
       the position of the hulk, we set about killing and cutting up our
 
@@ -262,21 +262,21 @@ CHAPTER 13
 
       us thirteen days. A brisk shower, with severe thunder and
 
-      lightning, came on about dusk, but lasted so short a time that we
+      [[Lightning|lightning]], came on about dusk, but lasted so short a [[Time|time]] that we
 
-      only succeeded in catching about half a pint of water. The whole
+      only succeeded in catching about half a pint of [[Water|water]]. The whole
 
       of this, by common consent, was given to Augustus, who now
 
-      appeared to be in the last extremity. He drank the water from the
+      appeared to be in the last extremity. He drank the [[Water|water]] from the
 
       sheet as we caught it (we holding it above him as he lay so as to
 
       let it run into his mouth), for we had now nothing left capable
 
-      of holding water, unless we had chosen to empty out our wine from
+      of holding [[Water|water]], unless we had chosen to empty out our wine from
 
-      the carboy, or the stale water from the jug. Either of these
+      the carboy, or the stale [[Water|water]] from the jug. Either of these
 
       expedients would have been resorted to had the shower lasted.
 
@@ -306,11 +306,11 @@ CHAPTER 13
 
       August 1. A continuance of the same calm weather, with an
 
-      oppressively hot sun. Suffered exceedingly from thirst, the water
+      oppressively hot sun. Suffered exceedingly from thirst, the [[Water|water]]
 
       in the jug being absolutely putrid and swarming with vermin. We
 
-      contrived, nevertheless, to swallow a portion of it by mixing it
+      contrived, nevertheless, to [[Swallow|swallow]] a portion of it by mixing it
 
       with wine; our thirst, however, was but little abated. We found
 
@@ -324,9 +324,9 @@ CHAPTER 13
 
       nothing to relieve his sufferings, which appeared to be great.
 
-      About twelve o’clock he expired in strong convulsions, and
+      About twelve o’[[Clock|clock]] he expired in strong convulsions, and
 
-      without having spoken for several hours. His death filled us with
+      without having spoken for several hours. His [[Death|death]] filled us with
 
       the most gloomy forebodings, and had so great an effect upon our
 
@@ -334,15 +334,15 @@ CHAPTER 13
 
       day, and never addressed each other except in a whisper. It was
 
-      not until some time after dark that we took courage to get up and
+      not until some [[Time|time]] after dark that we took [[Courage|courage]] to get up and
 
-      throw the body overboard. It was then loathsome beyond
+      throw the [[Body|body]] overboard. It was then loathsome beyond
 
       expression, and so far decayed that, as Peters attempted to lift
 
       it, an entire leg came off in his grasp. As the mass of
 
-      putrefaction slipped over the vessel’s side into the water, the
+      putrefaction slipped over the vessel’s side into the [[Water|water]], the
 
       glare of phosphoric light with which it was surrounded plainly
 
@@ -356,15 +356,15 @@ CHAPTER 13
 
 
 
-      August 2. The same fearfully calm and hot weather. The dawn found
+      August 2. The same fearfully calm and hot weather. The [[Dawn|dawn]] found
 
-      us in a state of pitiable dejection as well as bodily exhaustion.
+      us in a state of pitiable dejection as [[Well|well]] as bodily exhaustion.
 
-      The water in the jug was now absolutely useless, being a thick
+      The [[Water|water]] in the jug was now absolutely useless, being a thick
 
       gelatinous mass; nothing but frightful-looking worms mingled with
 
-      slime. We threw it out, and washed the jug well in the sea,
+      slime. We threw it out, and washed the jug [[Well|well]] in the sea,
 
       afterward pouring a little vinegar in it from our bottles of
 
@@ -384,7 +384,7 @@ CHAPTER 13
 
       opportunity of bathing, but to no purpose; for the hulk was now
 
-      entirely besieged on all sides with sharks—no doubt the identical
+      entirely besieged on all sides with sharks—no [[Doubt|doubt]] the identical
 
       monsters who had devoured our poor companion on the evening
 
@@ -392,7 +392,7 @@ CHAPTER 13
 
       feast. This circumstance occasioned us the most bitter regret and
 
-      filled us with the most depressing and melancholy forebodings. We
+      filled us with the most depressing and [[Melancholy|melancholy]] forebodings. We
 
       had experienced indescribable relief in bathing, and to have this
 
@@ -418,7 +418,7 @@ CHAPTER 13
 
       conceive our sufferings from thirst at this period. We passed a
 
-      sleepless night, both on this account and through dread of the
+      sleepless [[Night|night]], both on this account and through dread of the
 
       sharks.
 
@@ -432,23 +432,23 @@ CHAPTER 13
 
       tortoise-meat, so that we might not lose them in the event of our
 
-      rolling over. Got out two stout spikes from the forechains, and,
+      [[rolling]] over. Got out two stout spikes from the forechains, and,
 
       by means of the axe, drove them into the hull to windward within
 
-      a couple of feet of the water, this not being very far from the
+      a couple of feet of the [[Water|water]], this not being very far from the
 
       keel, as we were nearly upon our beam-ends. To these spikes we
 
       now lashed our provisions, as being more secure than their former
 
-      position beneath the chains. Suffered great agony from thirst
+      position beneath the [[Chains|chains]]. Suffered great agony from thirst
 
       during the whole day—no chance of bathing on account of the
 
       sharks, which never left us for a moment. Found it impossible to
 
-      sleep.
+      [[Sleep|sleep]].
 
 
 
@@ -458,7 +458,7 @@ CHAPTER 13
 
       by the movement. At first the roll was slow and gradual, and we
 
-      contrived to clamber over to windward very well, having taken the
+      contrived to clamber over to windward very [[Well|well]], having taken the
 
       precaution to leave ropes hanging from the spikes we had driven
 
@@ -476,7 +476,7 @@ CHAPTER 13
 
 
 
-      In going under the water I had been obliged to let go my hold
+      In going under the [[Water|water]] I had been obliged to let go my hold
 
       upon the rope; and finding that I was completely beneath the
 
@@ -488,7 +488,7 @@ CHAPTER 13
 
       consideration the natural rebound of the hull to windward. The
 
-      whirl of the water upward, which the vessel occasioned in rolling
+      whirl of the [[Water|water]] upward, which the vessel occasioned in [[rolling]]
 
       partially back, brought me to the surface still more violently
 
@@ -512,15 +512,15 @@ CHAPTER 13
 
       knew to be in my vicinity. In order to deter these, if possible,
 
-      from approaching me, I splashed the water vigorously with both
+      from approaching me, I splashed the [[Water|water]] vigorously with both
 
-      hands and feet as I swam towards the hulk, creating a body of
+      hands and feet as I swam towards the hulk, creating a [[Body|body]] of
 
-      foam. I have no doubt that to this expedient, simple as it was, I
+      foam. I have no [[Doubt|doubt]] that to this expedient, simple as it was, I
 
       was indebted for my preservation; for the sea all round the brig,
 
-      just before her rolling over, was so crowded with these monsters,
+      just before her [[rolling]] over, was so crowded with these monsters,
 
       that I must have been, and really was, in actual contact with
 
@@ -550,7 +550,7 @@ CHAPTER 13
 
       all our care in securing it; and seeing no longer the remotest
 
-      possibility of obtaining more, we gave way both of us to despair,
+      possibility of obtaining more, we gave way both of us to [[Despair|despair]],
 
       weeping aloud like children, and neither of us attempting to
 
@@ -558,7 +558,7 @@ CHAPTER 13
 
       conceived, and to those who have never been similarly situated
 
-      will, no doubt, appear unnatural; but it must be remembered that
+      will, no [[Doubt|doubt]], appear unnatural; but it must be remembered that
 
       our intellects were so entirely disordered by the long course of
 
@@ -572,7 +572,7 @@ CHAPTER 13
 
       situation, and Peters, it will be seen, evinced a stoical
 
-      philosophy nearly as incredible as his present childlike
+      [[philosophy]] nearly as incredible as his present childlike
 
       supineness and imbecility—the mental condition made the
 
@@ -590,7 +590,7 @@ CHAPTER 13
 
       rainwater, and of the jug in which we had kept it when caught;
 
-      for we found the whole bottom, from within two or three feet of
+      for we found the whole [[Bottom|bottom]], from within two or three feet of
 
       the bends as far as the keel, together with the keel itself,
 
@@ -612,7 +612,7 @@ CHAPTER 13
 
 
 
-      The difficulty, however, of now obtaining water blinded us to all
+      The difficulty, however, of now obtaining [[Water|water]] blinded us to all
 
       the benefits of the change in our condition. That we might be
 
@@ -624,11 +624,11 @@ CHAPTER 13
 
       even under the most favorable circumstances, than half a gill at
 
-      a time. No signs of a cloud appeared during the day, and the
+      a [[Time|time]]. No signs of a cloud appeared during the day, and the
 
-      agonies of our thirst were nearly intolerable. At night, Peters
+      agonies of our thirst were nearly intolerable. At [[Night|night]], Peters
 
-      obtained about an hour’s disturbed sleep, but my intense
+      obtained about an hour’s disturbed [[Sleep|sleep]], but my intense
 
       sufferings would not permit me to close my eyes for a single
 
@@ -648,27 +648,27 @@ CHAPTER 13
 
       Seeing no trace of sharks among the seaweed, we also ventured to
 
-      bathe, and remained in the water for four or five hours, during
+      bathe, and remained in the [[Water|water]] for four or five hours, during
 
       which we experienced a very sensible diminution of our thirst.
 
-      Were greatly refreshed, and spent the night somewhat more
+      Were greatly refreshed, and spent the [[Night|night]] somewhat more
 
-      comfortably than before, both of us snatching a little sleep.
+      comfortably than before, both of us snatching a little [[Sleep|sleep]].
 
 
 
       August 6. This day we were blessed by a brisk and continual rain,
 
-      lasting from about noon until after dark. Bitterly did we now
+      lasting from about [[Noon|noon]] until after dark. Bitterly did we now
 
       regret the loss of our jug and carboy; for, in spite of the
 
-      little means we had of catching the water, we might have filled
+      little means we had of catching the [[Water|water]], we might have filled
 
       one, if not both of them. As it was, we contrived to satisfy the
 
-      cravings of thirst by suffering the shirts to become saturated,
+      cravings of thirst by [[Suffering|suffering]] the shirts to become saturated,
 
       and then wringing them so as to let the grateful fluid trickle
 
@@ -716,13 +716,13 @@ CHAPTER 13
 
       regarded as belonging to the human species. {*2} In this
 
-      instance, however, by the mercy of God, we were destined to be
+      instance, however, by the [[Mercy|mercy]] of God, we were destined to be
 
       most happily deceived; for, presently we were aware of a sudden
 
       commotion on the deck of the stranger, who immediately afterward
 
-      ran up a British flag, and, hauling her wind, bore up directly
+      ran up a British [[Flag|flag]], and, hauling her [[Wind|wind]], bore up directly
 
       upon us. In half an hour more we found ourselves in her cabin.
 

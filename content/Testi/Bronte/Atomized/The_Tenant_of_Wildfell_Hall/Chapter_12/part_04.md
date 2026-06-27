@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 12 (part 4)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 12 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-satisfaction to hear her close her own door. There was no sleep for me,
+satisfaction to hear her close her own door. There was no [[Sleep|sleep]] for me,
 
-however, that night as I thought; and instead of attempting to solicit
+however, that [[Night|night]] as I thought; and instead of attempting to solicit
 
 it, I employed myself in rapidly pacing the chamber, having first
 
@@ -42,7 +42,7 @@ mind—”
 
 
 
-“For heaven’s sake, let me alone, and get to bed yourself.”
+“For heaven’s sake, let me [[Alone|alone]], and get to bed yourself.”
 
 
 
@@ -60,21 +60,21 @@ returned to her own apartment, while I threw myself on the bed, feeling
 
 most undutifully disaffected towards her for having deprived me of what
 
-seemed the only shadow of a consolation that remained, and chained me
+seemed the only [[Shadow|shadow]] of a consolation that remained, and chained me
 
 to that wretched couch of thorns.
 
 
 
-Never did I endure so long, so miserable a night as that. And yet it
+Never did I endure so long, so miserable a [[Night|night]] as that. And yet it
 
 was not wholly sleepless. Towards morning my distracting thoughts began
 
 to lose all pretensions to coherency, and shape themselves into
 
-confused and feverish dreams, and, at length, there followed an
+confused and feverish [[Dreams|dreams]], and, at length, there followed an
 
-interval of unconscious slumber. But then the dawn of bitter
+interval of unconscious slumber. But then the [[Dawn|dawn]] of bitter
 
 recollection that succeeded—the waking to find life a blank, and worse
 
@@ -92,7 +92,7 @@ all.
 
 It was a dull, gloomy morning; the weather had changed like my
 
-prospects, and the rain was pattering against the window. I rose,
+prospects, and the rain was pattering against the [[Window|window]]. I [[Rose|rose]],
 
 nevertheless, and went out; not to look after the farm, though that
 
@@ -108,4 +108,4 @@ might excuse my sudden loss of appetite; and if a cold ensued, the
 
 severer the better—it would help to account for the sullen moods and
 
-moping melancholy likely to cloud my brow for long enough.
+moping [[Melancholy|melancholy]] likely to cloud my brow for long enough.

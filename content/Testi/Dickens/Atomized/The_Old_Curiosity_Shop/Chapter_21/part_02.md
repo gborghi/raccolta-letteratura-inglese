@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘Well, mother,’ said Kit, hurrying back into the house, ‘I think my
+‘[[Well]], mother,’ said Kit, hurrying back into the [[house]], ‘I think my
 fortune’s about made now.’
 
 ‘I should think it was indeed, Kit,’ rejoined his mother.  ‘Six pound a
@@ -30,35 +30,35 @@ each, looked at his mother, as though he saw through her, and down an
 immense perspective of sovereigns beyond.
 
 ‘Please God we’ll make such a lady of you for Sundays, mother! such a
-scholar of Jacob, such a child of the baby, such a room of the one up
+scholar of Jacob, such a [[Child|child]] of the baby, such a room of the one up
 stairs!  Six pound a year!’
 
 ‘Hem!’ croaked a strange voice.  ‘What’s that about six pound a year?
 What about six pound a year?’  And as the voice made this inquiry,
-Daniel Quilp walked in with Richard Swiveller at his heels.
+[[Daniel Quilp]] walked in with [[Richard]] Swiveller at his heels.
 
 ‘Who said he was to have six pound a year?’ said Quilp, looking sharply
-round.  ‘Did the old man say it, or did little Nell say it?  And what’s
+round.  ‘Did the old man say it, or did [[Little Nell|little Nell]] say it?  And what’s
 he to have it for, and where are they, eh!’
 
 The good woman was so much alarmed by the sudden apparition of this
 unknown piece of ugliness, that she hastily caught the baby from its
 cradle and retreated into the furthest corner of the room; while little
 Jacob, sitting upon his stool with his hands on his knees, looked full
-at him in a species of fascination, roaring lustily all the time.
-Richard Swiveller took an easy observation of the family over Mr Quilp’s
+at him in a species of fascination, roaring lustily all the [[Time|time]].
+[[Richard]] Swiveller took an easy observation of the family over Mr Quilp’s
 head, and Quilp himself, with his hands in his pockets, smiled in an
 exquisite enjoyment of the commotion he occasioned.
 
 ‘Don’t be frightened, mistress,’ said Quilp, after a pause.  ‘Your son
-knows me; I don’t eat babies; I don’t like ‘em.  It will be as well to
+knows me; I don’t eat babies; I don’t like ‘em.  It will be as [[Well|well]] to
 stop that young screamer though, in case I should be tempted to do him
 a mischief.  Holloa, sir!  Will you be quiet?’
 
-Little Jacob stemmed the course of two tears which he was squeezing out
+Little Jacob stemmed the course of two [[Tears|tears]] which he was squeezing out
 of his eyes, and instantly subsided into a silent horror.
 
-‘Mind you don’t break out again, you villain,’ said Quilp, looking
+‘Mind you don’t break out again, you [[Villain|villain]],’ said Quilp, looking
 sternly at him, ‘or I’ll make faces at you and throw you into fits, I
 will.  Now you sir, why haven’t you been to me as you promised?’
 
@@ -81,7 +81,7 @@ was true.  ‘That’s what you tell this gentleman too, is it?’
 anything else, sir; and I only wish I could, for our own sakes,’ was
 the reply.
 
-Quilp glanced at Richard Swiveller, and observed that having met him on
+Quilp glanced at [[Richard]] Swiveller, and observed that having met him on
 the threshold, he assumed that he had come in search of some
 intelligence of the fugitives.  He supposed he was right?
 
@@ -92,21 +92,21 @@ fancied it possible--but let us go ring fancy’s knell.  I’ll begin it.’
 
 ‘A baffler, Sir, a baffler, that’s all,’ returned Dick.  ‘I have
 entered upon a speculation which has proved a baffler; and a Being of
-brightness and beauty will be offered up a sacrifice at Cheggs’s altar.
+brightness and [[Beauty|beauty]] will be offered up a sacrifice at Cheggs’s altar.
 That’s all, sir.’
 
-The dwarf eyed Richard with a sarcastic smile, but Richard, who had
+The [[Dwarf|dwarf]] eyed [[Richard]] with a sarcastic smile, but [[Richard]], who had
 been taking a rather strong lunch with a friend, observed him not, and
 continued to deplore his fate with mournful and despondent looks.
 Quilp plainly discerned that there was some secret reason for this
-visit and his uncommon disappointment, and, in the hope that there
+visit and his uncommon disappointment, and, in the [[Hope|hope]] that there
 might be means of mischief lurking beneath it, resolved to worm it out.
 He had no sooner adopted this resolution, than he conveyed as much
 honesty into his face as it was capable of expressing, and sympathised
 with Mr Swiveller exceedingly.
 
 ‘I am disappointed myself,’ said Quilp, ‘out of mere friendly feeling
-for them; but you have real reasons, private reasons I have no doubt,
+for them; but you have real reasons, private reasons I have no [[Doubt|doubt]],
 for your disappointment, and therefore it comes heavier than mine.’
 
 ‘Why, of course it does,’ Dick observed, testily.
@@ -116,35 +116,35 @@ myself.  As we are companions in adversity, shall we be companions in
 the surest way of forgetting it?  If you had no particular business,
 now, to lead you in another direction,’ urged Quilp, plucking him by
 the sleeve and looking slyly up into his face out of the corners of his
-eyes, ‘there is a house by the water-side where they have some of the
+eyes, ‘there is a [[house]] by the [[Water|water]]-side where they have some of the
 noblest Schiedam--reputed to be smuggled, but that’s between
 ourselves--that can be got in all the world.  The landlord knows me.
-There’s a little summer-house overlooking the river, where we might
+There’s a little [[Summer|summer]]-[[house]] overlooking the [[River|river]], where we might
 take a glass of this delicious liquor with a whiff of the best
 tobacco--it’s in this case, and of the rarest quality, to my certain
 knowledge--and be perfectly snug and happy, could we possibly contrive
 it; or is there any very particular engagement that peremptorily takes
 you another way, Mr Swiveller, eh?’
 
-As the dwarf spoke, Dick’s face relaxed into a compliant smile, and his
-brows slowly unbent.  By the time he had finished, Dick was looking
+As the [[Dwarf|dwarf]] spoke, Dick’s face relaxed into a compliant smile, and his
+brows slowly unbent.  By the [[Time|time]] he had finished, Dick was looking
 down at Quilp in the same sly manner as Quilp was looking up at him,
-and there remained nothing more to be done but to set out for the house
+and there remained nothing more to be done but to set out for the [[house]]
 in question.  This they did, straightway.  The moment their backs were
 turned, little Jacob thawed, and resumed his crying from the point
 where Quilp had frozen him.
 
-The summer-house of which Mr Quilp had spoken was a rugged wooden box,
-rotten and bare to see, which overhung the river’s mud, and threatened
+The [[Summer|summer]]-[[house]] of which Mr Quilp had spoken was a rugged wooden box,
+rotten and bare to see, which overhung the [[River|river]]’s mud, and threatened
 to slide down into it.  The tavern to which it belonged was a crazy
 building, sapped and undermined by the rats, and only upheld by great
 bars of wood which were reared against its walls, and had propped it up
 so long that even they were decaying and yielding with their load, and
-of a windy night might be heard to creak and crack as if the whole
-fabric were about to come toppling down.  The house stood--if anything
+of a windy [[Night|night]] might be heard to creak and crack as if the whole
+fabric were about to come toppling down.  The [[house]] stood--if anything
 so old and feeble could be said to stand--on a piece of waste ground,
 blighted with the unwholesome smoke of factory chimneys, and echoing
-the clank of iron wheels and rush of troubled water.  Its internal
+the clank of iron wheels and rush of troubled [[Water|water]].  Its internal
 accommodations amply fulfilled the promise of the outside.  The rooms
 were low and damp, the clammy walls were pierced with chinks and holes,
 the rotten floors had sunk from their level, the very beams started

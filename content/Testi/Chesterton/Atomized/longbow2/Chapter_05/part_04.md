@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 5 (part 4)"
+title: "[[longbow2]] — Chapter 5 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -25,10 +25,10 @@ the other guys out; but just now I wasn't putting anything on pork,
 but only on just that part of a pig I wanted and they didn't want. 
 By notifying all your pig farmers I was able to import nine hundred
 and twenty-five thousand pigs' ears this fall, and I guess I can get
-consignments all winter."
+consignments all [[Winter|winter]]."
 
 Hood had some little legal experience with long-winded commercial
-witnesses, and he was listening by this time with a cocked eyebrow
+witnesses, and he was listening by this [[Time|time]] with a cocked eyebrow
 and an attention much sharper than the dreamy ecstasy with which
 the poetic Pierce was listening to the millionaire's monologue,
 as if to the wordless music of some ever-murmuring brook.
@@ -40,7 +40,7 @@ to say pigs' ears?"
 and politeness.  "I don't know whether I gave you a sufficiently
 detailed description for you to catch on to the proposition, but--"
 
-"Well," murmured Pierce wistfully, "it sounded to me like
+"[[Well]]," murmured Pierce wistfully, "it sounded to me like
 a detailed description."
 
 "Pardon me," said Hood, checking him with a frown.  "I really want
@@ -52,8 +52,8 @@ and that you thought you could use them for some purpose of your own?"
 about the biggest thing in fancy goods ever done in the States. 
 In the publicity line there's nothing like saying you can do what
 folks say can't be done.  Flying in the face of proverbs instead
-of providence, I reckon.  It catches on at once.  We got to work,
-and got out the first advertisement in no time; just a blank space
+of [[Providence|providence]], I reckon.  It catches on at once.  We got to work,
+and got out the first advertisement in no [[Time|time]]; just a blank space
 with `We Can Do It' in the middle.  Got folks wondering for a week
 what it was."
 
@@ -95,23 +95,23 @@ Oates in the direction of the large padded arm-chair, that had always
 stood empty at the top of the club table, uttering cries which,
 though incoherent, appeared to be partly apologetic.
 
-"No offence," he gasped.  "Hope no misunderstanding... ~Honoris
-causa~... you, you alone are worthy of that seat... the club has
-found its king and justified its title at last."
+"No offence," he gasped.  "[[Hope]] no misunderstanding... ~Honoris
+causa~... you, you [[Alone|alone]] are worthy of that seat... the club has
+found its [[King|king]] and justified its title at last."
 
 Here the Colonel intervened and restored order.  Mr. Oates departed
 in peace; but Mr. Hilary Pierce was still simmering.
 
 "And that is the end of our quiet, ordinary business man," he cried. 
 "Such is the behaviour of our monochrome and unobtrusive background." 
-His voice rose to a sort of wail.  "And we thought we were dotty! 
-We deluded ourselves with the hope that we were pretty well off our chump! 
-Lord have mercy on us!  American big business rises to a raving idiocy
+His voice [[Rose|rose]] to a sort of wail.  "And we thought we were dotty! 
+We deluded ourselves with the [[Hope|hope]] that we were pretty [[Well|well]] off our chump! 
+Lord have [[Mercy|mercy]] on us!  American big business rises to a raving idiocy
 compared with which we are as sane as the beasts of the field. 
 The modern commercial world is far madder than anything we can do to
 satirize it."
 
-"Well," said the Colonel good-humouredly, "we've done some rather
+"[[Well]]," said the Colonel good-humouredly, "we've done some rather
 ridiculous things ourselves."
 
 "Yes, yes," cried Pierce excitedly, "but we did them to make
@@ -122,16 +122,16 @@ could think of, meaning them to look mad.  But they were nothing
 like so mad as what a modern business man does in the way of business."
 
 "Perhaps it's the American business man," said White, "who's too
-keen to see the humour of it."
+keen to see the [[Humour|humour]] of it."
 
 "Nonsense," said Crane.  "Millions of Americans have a splendid
-sense of humour."
+sense of [[Humour|humour]]."
 
 "Then how fortunate are we," said Pierce reverently, "through whose
 lives this rare, this ineffable, this divine being has passed."
 
 "Passed away for ever, I suppose," said Hood with a sigh. 
-"I fear the Colonel must be our only background once more."
+"I [[Fear|fear]] the Colonel must be our only background once more."
 
 Colonel Crane was frowning thoughtfully, and at the last words
 his frown deepened to disapproval.  He puffed at his smouldering
@@ -140,5 +140,5 @@ cigar and then, removing it, said abruptly:
 "I suppose you fellows have forgotten how I came to be a background? 
 I mean, why I rather approve of people being backgrounds."
 
-"I remember something you said a long time ago," replied Hood. 
-"Hilary must have been in long-clothes at that time."
+"I remember something you said a long [[Time|time]] ago," replied Hood. 
+"Hilary must have been in long-clothes at that [[Time|time]]."

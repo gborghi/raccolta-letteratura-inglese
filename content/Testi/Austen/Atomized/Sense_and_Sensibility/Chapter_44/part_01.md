@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 44 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 44 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -42,7 +42,7 @@ stay.”
 
 business cannot be with _me_. The servants, I suppose, forgot to tell
 
-you that Mr. Palmer was not in the house.”
+you that Mr. Palmer was not in the [[house]].”
 
 
 
@@ -54,7 +54,7 @@ door. My business is with you, and only you.”
 
 
 
-“With me!”—in the utmost amazement—“well, sir,—be quick—and if you
+“With me!”—in the utmost amazement—“[[Well|well]], sir,—be quick—and if you
 
 can—less violent.”
 
@@ -82,7 +82,7 @@ either.
 
 
 
-“Pray be quick, sir,”—said Elinor, impatiently;—“I have no time to
+“Pray be quick, sir,”—said Elinor, impatiently;—“I have no [[Time|time]] to
 
 spare.”
 
@@ -112,11 +112,11 @@ eagerness.
 
 
 
-“We hope she is.”
+“We [[Hope|hope]] she is.”
 
 
 
-He rose up, and walked across the room.
+He [[Rose|rose]] up, and walked across the room.
 
 
 
@@ -124,13 +124,13 @@ He rose up, and walked across the room.
 
 with a forced vivacity as he returned to his seat,—“what does it
 
-signify? For once, Miss Dashwood—it will be the last time, perhaps—let
+signify? For once, Miss Dashwood—it will be the last [[Time|time]], perhaps—let
 
 us be cheerful together. I am in a fine mood for gaiety. Tell me
 
 honestly” a deeper glow overspreading his cheeks, “do you think me most
 
-a knave or a fool?”
+a knave or a [[Fool|fool]]?”
 
 
 
@@ -140,7 +140,7 @@ think that he must be in liquor;—the strangeness of such a visit, and
 
 of such manners, seemed no otherwise intelligible; and with this
 
-impression she immediately rose, saying,
+impression she immediately [[Rose|rose]], saying,
 
 
 
@@ -166,9 +166,9 @@ what he would be at.
 
 
 
-“Yes,—I left London this morning at eight o’clock, and the only ten
+“Yes,—I left [[London]] this morning at eight o’[[Clock|clock]], and the only ten
 
-minutes I have spent out of my chaise since that time procured me a
+minutes I have spent out of my chaise since that [[Time|time]] procured me a
 
 nuncheon at Marlborough.”
 
@@ -204,7 +204,7 @@ to you, and by convincing you, that though I have been always a
 
 blockhead, I have not been always a rascal, to obtain something like
 
-forgiveness from Ma— from your sister.”
+[[Forgiveness|forgiveness]] from Ma— from your sister.”
 
 
 
@@ -212,7 +212,7 @@ forgiveness from Ma— from your sister.”
 
 
 
-“Upon my soul it is,”—was his answer, with a warmth which brought all
+“Upon my [[Soul|soul]] it is,”—was his answer, with a warmth which brought all
 
 the former Willoughby to her remembrance, and in spite of herself made
 
@@ -250,7 +250,7 @@ worth the trial however, and you shall hear every thing. When I first
 
 became intimate in your family, I had no other intention, no other view
 
-in the acquaintance than to pass my time pleasantly while I was obliged
+in the acquaintance than to pass my [[Time|time]] pleasantly while I was obliged
 
 to remain in Devonshire, more pleasantly than I had ever done before.
 
@@ -262,7 +262,7 @@ kind—it is astonishing, when I reflect on what it was, and what _she_
 
 was, that my heart should have been so insensible! But at first I must
 
-confess, my vanity only was elevated by it. Careless of her happiness,
+confess, my [[Vanity|vanity]] only was elevated by it. Careless of her happiness,
 
 thinking only of my own amusement, giving way to feelings which I had
 

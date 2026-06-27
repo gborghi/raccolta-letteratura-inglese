@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 2 (part 3)"
+title: "[[Mansfield Park]] — Chapter 2 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -19,12 +19,12 @@ must not expect everybody to be as forward and quick at learning as
 yourself.”
 
 “But, aunt, she is really so very ignorant!—Do you know, we asked her
-last night which way she would go to get to Ireland; and she said, she
-should cross to the Isle of Wight. She thinks of nothing but the Isle
+last [[Night|night]] which way she would go to get to Ireland; and she said, she
+should [[Cross|cross]] to the Isle of Wight. She thinks of nothing but the Isle
 of Wight, and she calls it _the_ _Island_, as if there were no other
 island in the world. I am sure I should have been ashamed of myself, if
 I had not known better long before I was so old as she is. I cannot
-remember the time when I did not know a great deal that she has not the
+remember the [[Time|time]] when I did not know a great deal that she has not the
 least notion of yet. How long ago it is, aunt, since we used to repeat
 the chronological order of the kings of England, with the dates of
 their accession, and most of the principal events of their reigns!”
@@ -35,7 +35,7 @@ semi-metals, planets, and distinguished philosophers.”
 
 “Very true indeed, my dears, but you are blessed with wonderful
 memories, and your poor cousin has probably none at all. There is a
-vast deal of difference in memories, as well as in everything else, and
+vast deal of difference in memories, as [[Well|well]] as in everything else, and
 therefore you must make allowance for your cousin, and pity her
 deficiency. And remember that, if you are ever so forward and clever
 yourselves, you should always be modest; for, much as you know already,
@@ -47,7 +47,7 @@ not want to learn either music or drawing.”
 
 “To be sure, my dear, that is very stupid indeed, and shows a great
 want of genius and emulation. But, all things considered, I do not know
-whether it is not as well that it should be so, for, though you know
+whether it is not as [[Well|well]] that it should be so, for, though you know
 (owing to me) your papa and mama are so good as to bring her up with
 you, it is not at all necessary that she should be as accomplished as
 you are;—on the contrary, it is much more desirable that there should
@@ -56,16 +56,16 @@ be a difference.”
 Such were the counsels by which Mrs. Norris assisted to form her
 nieces’ minds; and it is not very wonderful that, with all their
 promising talents and early information, they should be entirely
-deficient in the less common acquirements of self-knowledge, generosity
-and humility. In everything but disposition they were admirably taught.
+deficient in the less common acquirements of [[Self-Knowledge|self-knowledge]], generosity
+and [[Humility|humility]]. In everything but disposition they were admirably taught.
 Sir Thomas did not know what was wanting, because, though a truly
 anxious father, he was not outwardly affectionate, and the reserve of
 his manner repressed all the flow of their spirits before him.
 
-To the education of her daughters Lady Bertram paid not the smallest
-attention. She had not time for such cares. She was a woman who spent
+To the [[Education|education]] of her daughters Lady [[Bertram]] paid not the smallest
+attention. She had not [[Time|time]] for such cares. She was a woman who spent
 her days in sitting, nicely dressed, on a sofa, doing some long piece
-of needlework, of little use and no beauty, thinking more of her pug
+of needlework, of little use and no [[Beauty|beauty]], thinking more of her pug
 than her children, but very indulgent to the latter when it did not put
 herself to inconvenience, guided in everything important by Sir Thomas,
 and in smaller concerns by her sister. Had she possessed greater
@@ -79,15 +79,15 @@ she saw no harm in the poor little thing, and always found her very
 handy and quick in carrying messages, and fetching what she wanted.”
 
 Fanny, with all her faults of ignorance and timidity, was fixed at
-Mansfield Park, and learning to transfer in its favour much of her
-attachment to her former home, grew up there not unhappily among her
-cousins. There was no positive ill-nature in Maria or Julia; and though
+[[Mansfield Park]], and learning to transfer in its favour much of her
+attachment to her former [[Home|home]], grew up there not unhappily among her
+cousins. There was no positive ill-[[Nature|nature]] in [[Maria]] or [[Julia]]; and though
 Fanny was often mortified by their treatment of her, she thought too
 lowly of her own claims to feel injured by it.
 
-From about the time of her entering the family, Lady Bertram, in
-consequence of a little ill-health, and a great deal of indolence, gave
-up the house in town, which she had been used to occupy every spring,
+From about the [[Time|time]] of her entering the family, Lady [[Bertram]], in
+consequence of a little ill-health, and a great deal of [[Indolence|indolence]], gave
+up the [[house]] in town, which she had been used to occupy every [[spring]],
 and remained wholly in the country, leaving Sir Thomas to attend his
 duty in Parliament, with whatever increase or diminution of comfort
 might arise from her absence. In the country, therefore, the Miss
@@ -97,37 +97,37 @@ person, manner, and accomplishments, everything that could satisfy his
 anxiety. His eldest son was careless and extravagant, and had already
 given him much uneasiness; but his other children promised him nothing
 but good. His daughters, he felt, while they retained the name of
-Bertram, must be giving it new grace, and in quitting it, he trusted,
-would extend its respectable alliances; and the character of Edmund,
+[[Bertram]], must be giving it new grace, and in quitting it, he trusted,
+would extend its respectable alliances; and the character of [[Edmund]],
 his strong good sense and uprightness of mind, bid most fairly for
-utility, honour, and happiness to himself and all his connexions. He
+utility, [[Honour|honour]], and happiness to himself and all his connexions. He
 was to be a clergyman.
 
 Amid the cares and the complacency which his own children suggested,
 Sir Thomas did not forget to do what he could for the children of Mrs.
-Price: he assisted her liberally in the education and disposal of her
+Price: he assisted her liberally in the [[Education|education]] and disposal of her
 sons as they became old enough for a determinate pursuit; and Fanny,
 though almost totally separated from her family, was sensible of the
 truest satisfaction in hearing of any kindness towards them, or of
 anything at all promising in their situation or conduct. Once, and once
 only, in the course of many years, had she the happiness of being with
 William. Of the rest she saw nothing: nobody seemed to think of her
-ever going amongst them again, even for a visit, nobody at home seemed
+ever going amongst them again, even for a visit, nobody at [[Home|home]] seemed
 to want her; but William determining, soon after her removal, to be a
 sailor, was invited to spend a week with his sister in Northamptonshire
 before he went to sea. Their eager affection in meeting, their
 exquisite delight in being together, their hours of happy mirth, and
-moments of serious conference, may be imagined; as well as the sanguine
+moments of serious conference, may be imagined; as [[Well|well]] as the sanguine
 views and spirits of the boy even to the last, and the misery of the
 girl when he left her. Luckily the visit happened in the Christmas
 holidays, when she could directly look for comfort to her cousin
-Edmund; and he told her such charming things of what William was to do,
+[[Edmund]]; and he told her such charming things of what William was to do,
 and be hereafter, in consequence of his profession, as made her
-gradually admit that the separation might have some use. Edmund’s
-friendship never failed her: his leaving Eton for Oxford made no change
+gradually admit that the separation might have some use. [[Edmund]]’s
+[[Friendship|friendship]] never failed her: his leaving Eton for [[Oxford]] made no change
 in his kind dispositions, and only afforded more frequent opportunities
 of proving them. Without any display of doing more than the rest, or
-any fear of doing too much, he was always true to her interests, and
+any [[Fear|fear]] of doing too much, he was always true to her interests, and
 considerate of her feelings, trying to make her good qualities
 understood, and to conquer the diffidence which prevented their being
 more apparent; giving her advice, consolation, and encouragement.
@@ -136,9 +136,9 @@ Kept back as she was by everybody else, his single support could not
 bring her forward; but his attentions were otherwise of the highest
 importance in assisting the improvement of her mind, and extending its
 pleasures. He knew her to be clever, to have a quick apprehension as
-well as good sense, and a fondness for reading, which, properly
-directed, must be an education in itself. Miss Lee taught her French,
-and heard her read the daily portion of history; but he recommended the
+[[Well|well]] as good sense, and a fondness for reading, which, properly
+directed, must be an [[Education|education]] in itself. Miss Lee taught her French,
+and heard her read the daily portion of [[history]]; but he recommended the
 books which charmed her leisure hours, he encouraged her taste, and
 corrected her judgment: he made reading useful by talking to her of
 what she read, and heightened its attraction by judicious praise. In

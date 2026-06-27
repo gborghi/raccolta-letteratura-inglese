@@ -1,5 +1,5 @@
 ---
-title: "The Murders in the Rue Morgue (part 1)"
+title: "[[The Murders in the Rue Morgue]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Murders-in-the-Rue-Morgue-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-What song the Syrens sang, or what name Achilles assumed when he hid
+What [[Song|song]] the Syrens sang, or what name [[Achilles]] assumed when he hid
 
   himself among women, although puzzling questions, are not beyond
 
@@ -50,9 +50,9 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       appears to the ordinary apprehension præternatural. His results,
 
-      brought about by the very soul and essence of method, have, in
+      brought about by the very [[Soul|soul]] and essence of method, have, in
 
-      truth, the whole air of intuition.
+      [[Truth|truth]], the whole air of intuition.
 
 
 
@@ -88,7 +88,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       mistaken (a not unusual error) for what is profound. The
 
-      _attention_ is here called powerfully into play. If it flag for
+      _attention_ is here called powerfully into play. If it [[Flag|flag]] for
 
       an instant, an oversight is committed resulting in injury or
 
@@ -136,15 +136,15 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       have been known to take an apparently unaccountable delight in
 
-      it, while eschewing chess as frivolous. Beyond doubt there is
+      it, while eschewing chess as frivolous. Beyond [[Doubt|doubt]] there is
 
-      nothing of a similar nature so greatly tasking the faculty of
+      nothing of a similar [[Nature|nature]] so greatly tasking the faculty of
 
       analysis. The best chess-player in Christendom _may_ be little
 
       more than the best player of chess; but proficiency in whist
 
-      implies capacity for success in all those more important
+      implies capacity for [[success]] in all those more important
 
       undertakings where mind struggles with mind. When I say
 
@@ -160,11 +160,11 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       remember distinctly; and, so far, the concentrative chess-player
 
-      will do very well at whist; while the rules of Hoyle (themselves
+      will do very [[Well|well]] at whist; while the rules of Hoyle (themselves
 
       based upon the mere mechanism of the game) are sufficiently and
 
-      generally comprehensible. Thus to have a retentive memory, and to
+      generally comprehensible. Thus to have a retentive [[Memory|memory]], and to
 
       proceed by “the book,” are points commonly regarded as the sum
 
@@ -172,7 +172,7 @@ What song the Syrens sang, or what name Achilles assumed when he hid
 
       mere rule that the skill of the analyst is evinced. He makes, in
 
-      silence, a host of observations and inferences. So, perhaps, do
+      [[Silence|silence]], a host of observations and inferences. So, perhaps, do
 
       his companions; and the difference in the extent of the
 

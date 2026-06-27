@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Orlando and Adam |
+| *(didascalia)* | Enter [[Orlando]] and Adam |

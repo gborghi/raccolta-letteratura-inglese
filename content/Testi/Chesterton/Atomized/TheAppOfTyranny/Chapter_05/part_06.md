@@ -1,5 +1,5 @@
 ---
-title: "TheAppOfTyranny — Chapter 4 (part 6)"
+title: "[[TheAppOfTyranny]] — Chapter 4 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheAppOfTyranny-(Chesterton)"
@@ -30,9 +30,9 @@ undiplomatic thing that can be done; they concealed a breach of partnership
 
 without even concealing the concealment. They instigated the intrigue in
 
-Austria in such a way that Italy could honestly claim all the freedom of
+Austria in such a way that [[Italy]] could honestly claim all the [[Freedom|freedom]] of
 
-past ignorance, combined with all the disillusionment of present knowledge.
+past ignorance, combined with all the [[Disillusionment|disillusionment]] of present knowledge.
 
 They so ran the Triple Alliance that they had to admit your grievance, at
 
@@ -44,11 +44,11 @@ Chancellor's diplomacy not insinuating but simply insulting; I swear I
 
 would be a better diplomatist myself. In the same way, there is no danger
 
-of people like you being corrupted in controversy. There is no fear that
+of people like you being corrupted in controversy. There is no [[Fear|fear]] that
 
 the professors who pullulate all over the Baltic Plain will overcome the
 
-Latins in logic. Some of them even claim to be super-logical; and say they
+Latins in [[logic]]. Some of them even claim to be super-logical; and say they
 
 are too big for syllogisms; generally having found even one syllogism too
 
@@ -72,17 +72,17 @@ amount of nonsense about you; but they understand a little better. They do
 
 not write exactly like this, which is from the most public and accepted
 
-Prussian political philosopher (Chamberlain). "Who can live in Italy
+Prussian political philosopher (Chamberlain). "Who can live in [[Italy]]
 
 to-day and mix with its amiable and highly gifted inhabitants without
 
-feeling with pain that here a great nation is lost, irredeemably lost,
+feeling with [[Pain|pain]] that here a great nation is lost, irredeemably lost,
 
 because it lacks the inner driving power," etc., which has brought Von
 
-Kluck so triumphantly through Paris. Even a half-educated Englishman, who
+Kluck so triumphantly through [[Paris]]. Even a half-educated Englishman, who
 
-has heard of no Italian poet except Dante, knows that he was something more
+has heard of no Italian poet except [[Dante]], knows that he was something more
 
 than amiable. Even a positively illiterate Frenchman, who has heard of no
 
@@ -90,21 +90,21 @@ Italian warrior except Napoleon, knows that it was not in "inner driving
 
 force" that the artilleryman in question was deficient. "Who can live in
 
-Italy to-day?" Evidently the Prussian philosopher can't. His impressions
+[[Italy]] to-day?" Evidently the Prussian philosopher can't. His impressions
 
 are taken from Italian operas; not from Italian streets; certainly not from
 
-Italian fields. As a matter of fact such images of Italy as burn in the
+Italian fields. As a matter of fact such images of [[Italy]] as burn in the
 
 memories of most open-minded Northerners who have been there, are of
 
 exactly the other kind. I for one should be inclined to say, "Who can live
 
-in Italy to-day without feeling that a woman feeding children, or a man
+in [[Italy]] to-day without feeling that a woman feeding children, or a man
 
-chopping wood, may almost touch him with fear with the fulness of their
+chopping wood, may almost touch him with [[Fear|fear]] with the fulness of their
 
-humanity: so that he can almost smell blood, as one smells burning?"
+humanity: so that he can almost smell [[Blood|blood]], as one smells burning?"
 
 Italians often look lazy; that is, they look as if they would not move; but
 
@@ -114,7 +114,7 @@ formula fitted the Italians, it seems scarcely calculated to please them.
 
 For the Prussians, then, with the failure of their diplomacy, the failure
 
-of their philosophy, we may also place the failure of their appeals to a
+of their [[philosophy]], we may also place the failure of their appeals to a
 
 foreign people. The Prussian writer may continue his attempts to soothe
 
@@ -124,13 +124,13 @@ great Italians must have been something else. But the method seems to me
 
 ill adapted to popular propaganda; and I cannot but say that on this third
 
-point of persuasion, the German attempt is not striking.
+point of [[Persuasion|persuasion]], the German attempt is not striking.
 
 
 
 Now all this is important for this reason. If you consider it carefully
 
-you will see why Europe must, at whatever cost, break Germany in battle:
+you will see why Europe must, at whatever cost, break [[Germany]] in battle:
 
 and put an end to her military and material power to _do_ things. If we all
 

@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 5"
+title: "[[Sense and Sensibility]] — Chapter 5"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,7 +24,7 @@ No sooner was her answer dispatched, than Mrs. Dashwood indulged
 
 herself in the pleasure of announcing to her son-in-law and his wife
 
-that she was provided with a house, and should incommode them no longer
+that she was provided with a [[house]], and should incommode them no longer
 
 than till every thing were ready for her inhabiting it. They heard her
 
@@ -46,7 +46,7 @@ northward of Exeter.
 
 
 
-“It is but a cottage,” she continued, “but I hope to see many of my
+“It is but a cottage,” she continued, “but I [[Hope|hope]] to see many of my
 
 friends in it. A room or two can easily be added; and if my friends
 
@@ -78,7 +78,7 @@ disregarded her disapprobation of the match.
 
 Mr. John Dashwood told his mother again and again how exceedingly sorry
 
-he was that she had taken a house at such a distance from Norland as to
+he was that she had taken a [[house]] at such a distance from Norland as to
 
 prevent his being of any service to her in removing her furniture. He
 
@@ -88,7 +88,7 @@ exertion to which he had limited the performance of his promise to his
 
 father was by this arrangement rendered impracticable.—The furniture
 
-was all sent around by water. It chiefly consisted of household linen,
+was all sent around by [[Water|water]]. It chiefly consisted of household linen,
 
 plate, china, and books, with a handsome pianoforte of Marianne’s. Mrs.
 
@@ -102,7 +102,7 @@ furniture.
 
 
 
-Mrs. Dashwood took the house for a twelvemonth; it was ready furnished,
+Mrs. Dashwood took the [[house]] for a twelvemonth; it was ready furnished,
 
 and she might have immediate possession. No difficulty arose on either
 
@@ -116,7 +116,7 @@ performance of everything that interested her, was soon done.—The
 
 horses which were left her by her husband had been sold soon after his
 
-death, and an opportunity now offering of disposing of her carriage,
+[[Death|death]], and an opportunity now offering of disposing of her carriage,
 
 she agreed to sell that likewise at the earnest advice of her eldest
 
@@ -134,13 +134,13 @@ amongst those who had formed their establishment at Norland.
 
 The man and one of the maids were sent off immediately into Devonshire,
 
-to prepare the house for their mistress’s arrival; for as Lady
+to prepare the [[house]] for their mistress’s arrival; for as Lady
 
 Middleton was entirely unknown to Mrs. Dashwood, she preferred going
 
 directly to the cottage to being a visitor at Barton Park; and she
 
-relied so undoubtingly on Sir John’s description of the house, as to
+relied so undoubtingly on Sir John’s description of the [[house]], as to
 
 feel no curiosity to examine it herself till she entered it as her own.
 
@@ -150,17 +150,17 @@ the evident satisfaction of her daughter-in-law in the prospect of her
 
 removal; a satisfaction which was but feebly attempted to be concealed
 
-under a cold invitation to her to defer her departure. Now was the time
+under a cold invitation to her to defer her departure. Now was the [[Time|time]]
 
 when her son-in-law’s promise to his father might with particular
 
 propriety be fulfilled. Since he had neglected to do it on first coming
 
-to the estate, their quitting his house might be looked on as the most
+to the estate, their quitting his [[house]] might be looked on as the most
 
 suitable period for its accomplishment. But Mrs. Dashwood began shortly
 
-to give over every hope of the kind, and to be convinced, from the
+to give over every [[Hope|hope]] of the kind, and to be convinced, from the
 
 general drift of his discourse, that his assistance extended no farther
 
@@ -182,23 +182,23 @@ first letter to Norland, every thing was so far settled in their future
 
 abode as to enable Mrs. Dashwood and her daughters to begin their
 
-journey.
+[[Journey|journey]].
 
 
 
-Many were the tears shed by them in their last adieus to a place so
+Many were the [[Tears|tears]] shed by them in their last adieus to a place so
 
 much beloved. “Dear, dear Norland!” said Marianne, as she wandered
 
-alone before the house, on the last evening of their being there; “when
+[[Alone|alone]] before the [[house]], on the last evening of their being there; “when
 
-shall I cease to regret you!—when learn to feel a home elsewhere!—Oh!
+shall I cease to regret you!—when learn to feel a [[Home|home]] elsewhere!—Oh!
 
-happy house, could you know what I suffer in now viewing you from this
+happy [[house]], could you know what I suffer in now viewing you from this
 
 spot, from whence perhaps I may view you no more!—And you, ye
 
-well-known trees!—but you will continue the same.—No leaf will decay
+[[Well|well]]-known trees!—but you will continue the same.—No leaf will [[Decay|decay]]
 
 because we are removed, nor any branch become motionless although we
 

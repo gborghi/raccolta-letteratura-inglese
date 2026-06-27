@@ -16,17 +16,17 @@ tags:
 
 CHAPTER X
 SOME FURTHER ACCOUNT OF THE CANAL BOAT, ITS DOMESTIC ECONOMY, AND ITS
-PASSENGERS.  JOURNEY TO PITTSBURG ACROSS THE ALLEGHANY MOUNTAINS.
+PASSENGERS.  [[Journey|JOURNEY]] TO PITTSBURG ACROSS THE ALLEGHANY [[Mountains|MOUNTAINS]].
 PITTSBURG
 
 
 AS it continued to rain most perseveringly, we all remained below: the
 damp gentlemen round the stove, gradually becoming mildewed by the action
-of the fire; and the dry gentlemen lying at full length upon the seats,
+of the [[Fire|fire]]; and the dry gentlemen lying at full length upon the seats,
 or slumbering uneasily with their faces on the tables, or walking up and
 down the cabin, which it was barely possible for a man of the middle
 height to do, without making bald places on his head by scraping it
-against the roof.  At about six o’clock, all the small tables were put
+against the roof.  At about six o’[[Clock|clock]], all the small tables were put
 together to form one long table, and everybody sat down to tea, coffee,
 bread, butter, salmon, shad, liver, steaks, potatoes, pickles, ham,
 chops, black-puddings, and sausages.
@@ -45,28 +45,28 @@ he should think so, for when he was last below, they were ‘fixing the
 tables:’ in other words, laying the cloth.  You beg a porter to collect
 your luggage, and he entreats you not to be uneasy, for he’ll ‘fix it
 presently:’ and if you complain of indisposition, you are advised to have
-recourse to Doctor So-and-so, who will ‘fix you’ in no time.
+recourse to Doctor So-and-so, who will ‘fix you’ in no [[Time|time]].
 
-One night, I ordered a bottle of mulled wine at an hotel where I was
-staying, and waited a long time for it; at length it was put upon the
+One [[Night|night]], I ordered a bottle of mulled wine at an hotel where I was
+staying, and waited a long [[Time|time]] for it; at length it was put upon the
 table with an apology from the landlord that he feared it wasn’t ‘fixed
 properly.’  And I recollect once, at a stage-coach dinner, overhearing a
 very stern gentleman demand of a waiter who presented him with a plate of
 underdone roast-beef, ‘whether he called _that_, fixing God A’mighty’s
 vittles?’
 
-There is no doubt that the meal, at which the invitation was tendered to
+There is no [[Doubt|doubt]] that the meal, at which the invitation was tendered to
 me which has occasioned this digression, was disposed of somewhat
 ravenously; and that the gentlemen thrust the broad-bladed knives and the
 two-pronged forks further down their throats than I ever saw the same
 weapons go before, except in the hands of a skilful juggler: but no man
 sat down until the ladies were seated; or omitted any little act of
 politeness which could contribute to their comfort.  Nor did I ever once,
-on any occasion, anywhere, during my rambles in America, see a woman
+on any occasion, anywhere, during my rambles in [[america|America]], see a woman
 exposed to the slightest act of rudeness, incivility, or even
 inattention.
 
-By the time the meal was over, the rain, which seemed to have worn itself
+By the [[Time|time]] the meal was over, the rain, which seemed to have worn itself
 out by coming down so fast, was nearly over too; and it became feasible
 to go on deck: which was a great relief, notwithstanding its being a very
 small deck, and being rendered still smaller by the luggage, which was
@@ -77,23 +77,23 @@ embarrassing at first, too, to have to duck nimbly every five minutes
 whenever the man at the helm cried ‘Bridge!’ and sometimes, when the cry
 was ‘Low Bridge,’ to lie down nearly flat.  But custom familiarises one
 to anything, and there were so many bridges that it took a very short
-time to get used to this.
+[[Time|time]] to get used to this.
 
-As night came on, and we drew in sight of the first range of hills, which
-are the outposts of the Alleghany Mountains, the scenery, which had been
+As [[Night|night]] came on, and we drew in sight of the first range of hills, which
+are the outposts of the Alleghany [[Mountains]], the scenery, which had been
 uninteresting hitherto, became more bold and striking.  The wet ground
 reeked and smoked, after the heavy fall of rain, and the croaking of the
 frogs (whose noise in these parts is almost incredible) sounded as though
-a million of fairy teams with bells were travelling through the air, and
-keeping pace with us.  The night was cloudy yet, but moonlight too: and
-when we crossed the Susquehanna river—over which there is an
+a million of fairy teams with [[Bells|bells]] were travelling through the air, and
+keeping pace with us.  The [[Night|night]] was cloudy yet, but moonlight too: and
+when we crossed the Susquehanna [[River|river]]—over which there is an
 extraordinary wooden bridge with two galleries, one above the other, so
 that even there, two boat teams meeting, may pass without confusion—it
 was wild and grand.
 
-I have mentioned my having been in some uncertainty and doubt, at first,
+I have mentioned my having been in some uncertainty and [[Doubt|doubt]], at first,
 relative to the sleeping arrangements on board this boat.  I remained in
-the same vague state of mind until ten o’clock or thereabouts, when going
+the same vague state of mind until ten o’[[Clock|clock]] or thereabouts, when going
 below, I found suspended on either side of the cabin, three long tiers of
 hanging bookshelves, designed apparently for volumes of the small octavo
 size.  Looking with greater attention at these contrivances (wondering to
@@ -117,56 +117,56 @@ behind this curtain, was perfectly audible before it, we had still a
 lively consciousness of their society.
 
 The politeness of the person in authority had secured to me a shelf in a
-nook near this red curtain, in some degree removed from the great body of
+nook near this red curtain, in some degree removed from the great [[Body|body]] of
 sleepers: to which place I retired, with many acknowledgments to him for
 his attention.  I found it, on after-measurement, just the width of an
 ordinary sheet of Bath post letter-paper; and I was at first in some
 uncertainty as to the best means of getting into it.  But the shelf being
-a bottom one, I finally determined on lying upon the floor, rolling
+a [[Bottom|bottom]] one, I finally determined on lying upon the floor, [[rolling]]
 gently in, stopping immediately I touched the mattress, and remaining for
-the night with that side uppermost, whatever it might be.  Luckily, I
+the [[Night|night]] with that side uppermost, whatever it might be.  Luckily, I
 came upon my back at exactly the right moment.  I was much alarmed on
 looking upward, to see, by the shape of his half-yard of sacking (which
 his weight had bent into an exceedingly tight bag), that there was a very
 heavy gentleman above me, whom the slender cords seemed quite incapable
 of holding; and I could not help reflecting upon the grief of my wife and
-family in the event of his coming down in the night.  But as I could not
+family in the event of his coming down in the [[Night|night]].  But as I could not
 have got up again without a severe bodily struggle, which might have
 alarmed the ladies; and as I had nowhere to go to, even if I had; I shut
 my eyes upon the danger, and remained there.
 
 One of two remarkable circumstances is indisputably a fact, with
 reference to that class of society who travel in these boats.  Either
-they carry their restlessness to such a pitch that they never sleep at
-all; or they expectorate in dreams, which would be a remarkable mingling
-of the real and ideal.  All night long, and every night, on this canal,
-there was a perfect storm and tempest of spitting; and once my coat,
+they carry their restlessness to such a pitch that they never [[Sleep|sleep]] at
+all; or they expectorate in [[Dreams|dreams]], which would be a remarkable mingling
+of the real and ideal.  All [[Night|night]] long, and every [[Night|night]], on this canal,
+there was a perfect [[Storm|storm]] and tempest of spitting; and once my coat,
 being in the very centre of the hurricane sustained by five gentlemen
 (which moved vertically, strictly carrying out Reid’s Theory of the Law
 of Storms), I was fain the next morning to lay it on the deck, and rub it
-down with fair water before it was in a condition to be worn again.
+down with fair [[Water|water]] before it was in a condition to be worn again.
 
-Between five and six o’clock in the morning we got up, and some of us
+Between five and six o’[[Clock|clock]] in the morning we got up, and some of us
 went on deck, to give them an opportunity of taking the shelves down;
 while others, the morning being very cold, crowded round the rusty stove,
-cherishing the newly kindled fire, and filling the grate with those
-voluntary contributions of which they had been so liberal all night.  The
+cherishing the newly kindled [[Fire|fire]], and filling the grate with those
+voluntary contributions of which they had been so liberal all [[Night|night]].  The
 washing accommodations were primitive.  There was a tin ladle chained to
 the deck, with which every gentleman who thought it necessary to cleanse
-himself (many were superior to this weakness), fished the dirty water out
+himself (many were superior to this weakness), fished the dirty [[Water|water]] out
 of the canal, and poured it into a tin basin, secured in like manner.
 There was also a jack-towel.  And, hanging up before a little
 looking-glass in the bar, in the immediate vicinity of the bread and
-cheese and biscuits, were a public comb and hair-brush.
+[[cheese]] and biscuits, were a public comb and hair-brush.
 
-At eight o’clock, the shelves being taken down and put away and the
+At eight o’[[Clock|clock]], the shelves being taken down and put away and the
 tables joined together, everybody sat down to the tea, coffee, bread,
 butter, salmon, shad, liver, steak, potatoes, pickles, ham, chops,
 black-puddings, and sausages, all over again.  Some were fond of
 compounding this variety, and having it all on their plates at once.  As
 each gentleman got through his own personal amount of tea, coffee, bread,
 butter, salmon, shad, liver, steak, potatoes, pickles, ham, chops,
-black-puddings, and sausages, he rose up and walked off.  When everybody
+black-puddings, and sausages, he [[Rose|rose]] up and walked off.  When everybody
 had done with everything, the fragments were cleared away: and one of the
 waiters appearing anew in the character of a barber, shaved such of the
 company as desired to be shaved; while the remainder looked on, or yawned
@@ -188,14 +188,14 @@ her husband frantic; always restless; always thirsting for answers;
 perpetually seeking and never finding.  There never was such a curious
 man.
 
-I wore a fur great-coat at that time, and before we were well clear of
+I wore a fur great-coat at that [[Time|time]], and before we were [[Well|well]] clear of
 the wharf, he questioned me concerning it, and its price, and where I
 bought it, and when, and what fur it was, and what it weighed, and what
 it cost.  Then he took notice of my watch, and asked me what _that_ cost,
 and whether it was a French watch, and where I got it, and how I got it,
 and whether I bought it or had it given me, and how it went, and where
-the key-hole was, and when I wound it, every night or every morning, and
-whether I ever forgot to wind it at all, and if I did, what then?  Where
+the key-hole was, and when I wound it, every [[Night|night]] or every morning, and
+whether I ever forgot to [[Wind|wind]] it at all, and if I did, what then?  Where
 had I been to last, and where was I going next, and where was I going
 after that, and had I seen the President, and what did he say, and what
 did I say, and what did he say when I had said that?  Eh?  Lor now! do
@@ -213,7 +213,7 @@ passing his hand up the back, and rubbing it the wrong way.
 We had another odd specimen on board, of a different kind.  This was a
 thin-faced, spare-figured man of middle age and stature, dressed in a
 dusty drabbish-coloured suit, such as I never saw before.  He was
-perfectly quiet during the first part of the journey: indeed I don’t
+perfectly quiet during the first part of the [[Journey|journey]]: indeed I don’t
 remember having so much as seen him until he was brought out by
 circumstances, as great men often are.  The conjunction of events which
 made him famous, happened, briefly, thus.
@@ -225,20 +225,20 @@ which awaits them on the other side.  There are two canal lines of
 passage-boats; one is called The Express, and one (a cheaper one) The
 Pioneer.  The Pioneer gets first to the mountain, and waits for the
 Express people to come up; both sets of passengers being conveyed across
-it at the same time.  We were the Express company; but when we had
+it at the same [[Time|time]].  We were the Express company; but when we had
 crossed the mountain, and had come to the second boat, the proprietors
 took it into their beads to draft all the Pioneers into it likewise, so
 that we were five-and-forty at least, and the accession of passengers was
-not at all of that kind which improved the prospect of sleeping at night.
+not at all of that kind which improved the prospect of sleeping at [[Night|night]].
 Our people grumbled at this, as people do in such cases; but suffered the
 boat to be towed off with the whole freight aboard nevertheless; and away
-we went down the canal.  At home, I should have protested lustily, but
+we went down the canal.  At [[Home|home]], I should have protested lustily, but
 being a foreigner here, I held my peace.  Not so this passenger.  He
 cleft a path among the people on deck (we were nearly all on deck), and
 without addressing anybody whomsoever, soliloquised as follows:
 
 ‘This may suit _you_, this may, but it don’t suit _me_.  This may be all
-very well with Down Easters, and men of Boston raising, but it won’t suit
+very [[Well|well]] with Down Easters, and men of Boston raising, but it won’t suit
 my figure nohow; and no two ways about _that_; and so I tell you.  Now!
 I’m from the brown forests of Mississippi, _I_ am, and when the sun
 shines on me, it does shine—a little.  It don’t glimmer where _I_ live,
@@ -267,9 +267,9 @@ o’ my raising.  You may act for yourselves, _you_ may.  I have pinted out
 the way.  Down Easters and Johnny Cakes can follow if they please.  I
 an’t a Johnny Cake, I an’t.  I am from the brown forests of the
 Mississippi, I am’—and so on, as before.  He was unanimously voted one of
-the tables for his bed at night—there is a great contest for the
+the tables for his bed at [[Night|night]]—there is a great contest for the
 tables—in consideration for his public services: and he had the warmest
-corner by the stove throughout the rest of the journey.  But I never
+corner by the stove throughout the rest of the [[Journey|journey]].  But I never
 could find out that he did anything except sit there; nor did I hear him
 speak again until, in the midst of the bustle and turmoil of getting the
 luggage ashore in the dark at Pittsburg, I stumbled over him as he sat
@@ -278,7 +278,7 @@ with a short laugh of defiance, ‘I an’t a Johnny Cake,—I an’t.  I’m fr
 the brown forests of the Mississippi, I am, damme!’  I am inclined to
 argue from this, that he had never left off saying so; but I could not
 make an affidavit of that part of the story, if required to do so by my
-Queen and Country.
+[[Queen]] and Country.
 
 As we have not reached Pittsburg yet, however, in the order of our
 narrative, I may go on to remark that breakfast was perhaps the least
@@ -295,63 +295,63 @@ occasional appearance on the table-cloth of a kind of Game, not mentioned
 in the Bill of Fare.
 
 And yet despite these oddities—and even they had, for me at least, a
-humour of their own—there was much in this mode of travelling which I
-heartily enjoyed at the time, and look back upon with great pleasure.
-Even the running up, bare-necked, at five o’clock in the morning, from
-the tainted cabin to the dirty deck; scooping up the icy water, plunging
+[[Humour|humour]] of their own—there was much in this mode of travelling which I
+heartily enjoyed at the [[Time|time]], and look back upon with great pleasure.
+Even the running up, bare-necked, at five o’[[Clock|clock]] in the morning, from
+the tainted cabin to the dirty deck; scooping up the icy [[Water|water]], plunging
 one’s head into it, and drawing it out, all fresh and glowing with the
 cold; was a good thing.  The fast, brisk walk upon the towing-path,
-between that time and breakfast, when every vein and artery seemed to
-tingle with health; the exquisite beauty of the opening day, when light
+between that [[Time|time]] and breakfast, when every vein and artery seemed to
+tingle with health; the exquisite [[Beauty|beauty]] of the opening day, when light
 came gleaming off from everything; the lazy motion of the boat, when one
 lay idly on the deck, looking through, rather than at, the deep blue sky;
-the gliding on at night, so noiselessly, past frowning hills, sullen with
+the gliding on at [[Night|night]], so noiselessly, past frowning hills, sullen with
 dark trees, and sometimes angry in one red, burning spot high up, where
-unseen men lay crouching round a fire; the shining out of the bright
-stars undisturbed by noise of wheels or steam, or any other sound than
-the limpid rippling of the water as the boat went on: all these were pure
+unseen men lay crouching round a [[Fire|fire]]; the shining out of the bright
+[[Stars|stars]] undisturbed by noise of wheels or steam, or any other sound than
+the limpid rippling of the [[Water|water]] as the boat went on: all these were pure
 delights.
 
 Then there were new settlements and detached log-cabins and frame-houses,
 full of interest for strangers from an old country: cabins with simple
 ovens, outside, made of clay; and lodgings for the pigs nearly as good as
 many of the human quarters; broken windows, patched with worn-out hats,
-old clothes, old boards, fragments of blankets and paper; and home-made
+old clothes, old boards, fragments of blankets and paper; and [[Home|home]]-made
 dressers standing in the open air without the door, whereon was ranged
 the household store, not hard to count, of earthen jars and pots.  The
 eye was pained to see the stumps of great trees thickly strewn in every
 field of wheat, and seldom to lose the eternal swamp and dull morass,
 with hundreds of rotten trunks and twisted branches steeped in its
-unwholesome water.  It was quite sad and oppressive, to come upon great
+unwholesome [[Water|water]].  It was quite sad and oppressive, to come upon great
 tracts where settlers had been burning down the trees, and where their
 wounded bodies lay about, like those of murdered creatures, while here
 and there some charred and blackened giant reared aloft two withered
-arms, and seemed to call down curses on his foes.  Sometimes, at night,
+arms, and seemed to call down curses on his foes.  Sometimes, at [[Night|night]],
 the way wound through some lonely gorge, like a mountain pass in
-Scotland, shining and coldly glittering in the light of the moon, and so
+Scotland, shining and coldly glittering in the light of the [[Moon|moon]], and so
 closed in by high steep hills all round, that there seemed to be no
 egress save through the narrower path by which we had come, until one
-rugged hill-side seemed to open, and shutting out the moonlight as we
+rugged [[Hill|hill]]-side seemed to open, and shutting out the moonlight as we
 passed into its gloomy throat, wrapped our new course in shade and
 darkness.
 
-We had left Harrisburg on Friday.  On Sunday morning we arrived at the
+We had left Harrisburg on Friday.  On [[Sunday]] morning we arrived at the
 foot of the mountain, which is crossed by railroad.  There are ten
 inclined planes; five ascending, and five descending; the carriages are
 dragged up the former, and let slowly down the latter, by means of
 stationary engines; the comparatively level spaces between, being
-traversed, sometimes by horse, and sometimes by engine power, as the case
+traversed, sometimes by [[Horse|horse]], and sometimes by engine power, as the case
 demands.  Occasionally the rails are laid upon the extreme verge of a
-giddy precipice; and looking from the carriage window, the traveller
+giddy precipice; and looking from the carriage [[Window|window]], the traveller
 gazes sheer down, without a stone or scrap of fence between, into the
-mountain depths below.  The journey is very carefully made, however; only
+mountain depths below.  The [[Journey|journey]] is very carefully made, however; only
 two carriages travelling together; and while proper precautions are
 taken, is not to be dreaded for its dangers.
 
 It was very pretty travelling thus, at a rapid pace along the heights of
-the mountain in a keen wind, to look down into a valley full of light and
+the mountain in a keen [[Wind|wind]], to look down into a valley full of light and
 softness; catching glimpses, through the tree-tops, of scattered cabins;
-children running to the doors; dogs bursting out to bark, whom we could
+children running to the doors; [[dogs]] bursting out to bark, whom we could
 see without hearing: terrified pigs scampering homewards; families
 sitting out in their rude gardens; cows gazing upward with a stupid
 indifference; men in their shirt-sleeves looking on at their unfinished
@@ -359,41 +359,41 @@ houses, planning out to-morrow’s work; and we riding onward, high above
 them, like a whirlwind.  It was amusing, too, when we had dined, and
 rattled down a steep pass, having no other moving power than the weight
 of the carriages themselves, to see the engine released, long after us,
-come buzzing down alone, like a great insect, its back of green and gold
+come buzzing down [[Alone|alone]], like a great insect, its back of green and gold
 so shining in the sun, that if it had spread a pair of wings and soared
 away, no one would have had occasion, as I fancied, for the least
 surprise.  But it stopped short of us in a very business-like manner when
 we reached the canal: and, before we left the wharf, went panting up this
-hill again, with the passengers who had waited our arrival for the means
-of traversing the road by which we had come.
+[[Hill|hill]] again, with the passengers who had waited our arrival for the means
+of traversing the [[Road|road]] by which we had come.
 
 On the Monday evening, furnace fires and clanking hammers on the banks of
 the canal, warned us that we approached the termination of this part of
-our journey.  After going through another dreamy place—a long aqueduct
-across the Alleghany River, which was stranger than the bridge at
-Harrisburg, being a vast, low, wooden chamber full of water—we emerged
+our [[Journey|journey]].  After going through another dreamy place—a long aqueduct
+across the Alleghany [[River]], which was stranger than the bridge at
+Harrisburg, being a vast, low, wooden chamber full of [[Water|water]]—we emerged
 upon that ugly confusion of backs of buildings and crazy galleries and
-stairs, which always abuts on water, whether it be river, sea, canal, or
+stairs, which always abuts on [[Water|water]], whether it be [[River|river]], sea, canal, or
 ditch: and were at Pittsburg.
 
 Pittsburg is like Birmingham in England; at least its townspeople say so.
 Setting aside the streets, the shops, the houses, waggons, factories,
 public buildings, and population, perhaps it may be.  It certainly has a
 great quantity of smoke hanging about it, and is famous for its
-iron-works.  Besides the prison to which I have already referred, this
+iron-works.  Besides the [[Prison|prison]] to which I have already referred, this
 town contains a pretty arsenal and other institutions.  It is very
-beautifully situated on the Alleghany River, over which there are two
+beautifully situated on the Alleghany [[River]], over which there are two
 bridges; and the villas of the wealthier citizens sprinkled about the
 high grounds in the neighbourhood, are pretty enough.  We lodged at a
 most excellent hotel, and were admirably served.  As usual it was full of
 boarders, was very large, and had a broad colonnade to every story of the
-house.
+[[house]].
 
 We tarried here three days.  Our next point was Cincinnati: and as this
-was a steamboat journey, and western steamboats usually blow up one or
+was a steamboat [[Journey|journey]], and western steamboats usually blow up one or
 two a week in the season, it was advisable to collect opinions in
 reference to the comparative safety of the vessels bound that way, then
-lying in the river.  One called the Messenger was the best recommended.
+lying in the [[River|river]].  One called the Messenger was the best recommended.
 She had been advertised to start positively, every day for a fortnight or
 so, and had not gone yet, nor did her captain seem to have any very fixed
 intention on the subject.  But this is the custom: for if the law were to
@@ -408,4 +408,4 @@ ignorant of these usages) was for hurrying on board in a breathless
 state, immediately; but receiving private and confidential information
 that the boat would certainly not start until Friday, April the First, we
 made ourselves very comfortable in the mean while, and went on board at
-noon that day.
+[[Noon|noon]] that day.

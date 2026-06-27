@@ -1,5 +1,5 @@
 ---
-title: "The Assignation (part 2)"
+title: "[[The Assignation]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Assignation-(Poe)"
@@ -16,31 +16,31 @@ tags:
 
       All efforts proved in vain. Many of the most energetic in the
       search were relaxing their exertions, and yielding to a gloomy
-      sorrow. There seemed but little hope for the child; (how much
+      sorrow. There seemed but little [[Hope|hope]] for the [[Child|child]]; (how much
       less than for the mother!) but now, from the interior of that
       dark niche which has been already mentioned as forming a part of
-      the Old Republican prison, and as fronting the lattice of the
+      the Old Republican [[Prison|prison]], and as fronting the lattice of the
       Marchesa, a figure muffled in a cloak, stepped out within reach
       of the light, and, pausing a moment upon the verge of the giddy
       descent, plunged headlong into the canal. As, in an instant
-      afterwards, he stood with the still living and breathing child
+      afterwards, he stood with the still living and breathing [[Child|child]]
       within his grasp, upon the marble flagstones by the side of the
-      Marchesa, his cloak, heavy with the drenching water, became
+      Marchesa, his cloak, heavy with the drenching [[Water|water]], became
       unfastened, and, falling in folds about his feet, discovered to
-      the wonder-stricken spectators the graceful person of a very
+      the [[Wonder|wonder]]-stricken spectators the graceful person of a very
       young man, with the sound of whose name the greater part of
       Europe was then ringing.
 
       No word spoke the deliverer. But the Marchesa! She will now
-      receive her child—she will press it to her heart—she will cling
+      receive her [[Child|child]]—she will press it to her heart—she will cling
       to its little form, and smother it with her caresses. Alas!
       _another’s_ arms have taken it from the stranger—_another’s_ arms
       have taken it away, and borne it afar off, unnoticed, into the
       palace! And the Marchesa! Her lip—her beautiful lip trembles;
-      tears are gathering in her eyes—those eyes which, like Pliny’s
-      acanthus, are “soft and almost liquid.” Yes! tears are gathering
+      [[Tears|tears]] are gathering in her eyes—those eyes which, like Pliny’s
+      acanthus, are “soft and almost liquid.” Yes! [[Tears|tears]] are gathering
       in those eyes—and see! the entire woman thrills throughout the
-      soul, and the statue has started into life! The pallor of the
+      [[Soul|soul]], and the statue has started into life! The pallor of the
       marble countenance, the swelling of the marble bosom, the very
       purity of the marble feet, we behold suddenly flushed over with a
       tide of ungovernable crimson; and a slight shudder quivers about
@@ -60,16 +60,16 @@ tags:
       the stranger. What reason could there have been for the low—the
       singularly low tone of those unmeaning words which the lady
       uttered hurriedly in bidding him adieu? “Thou hast conquered,”
-      she said, or the murmurs of the water deceived me; “thou hast
+      she said, or the murmurs of the [[Water|water]] deceived me; “thou hast
       conquered—one hour after sunrise—we shall meet—so let it be!”
 
       The tumult had subsided, the lights had died away within the
-      palace, and the stranger, whom I now recognized, stood alone upon
+      palace, and the stranger, whom I now recognized, stood [[Alone|alone]] upon
       the flags. He shook with inconceivable agitation, and his eye
       glanced around in search of a gondola. I could not do less than
       offer him the service of my own; and he accepted the civility.
-      Having obtained an oar at the water-gate, we proceeded together
-      to his residence, while he rapidly recovered his self-possession,
+      Having obtained an oar at the [[Water|water]]-gate, we proceeded together
+      to his residence, while he rapidly recovered his [[Self|self]]-possession,
       and spoke of our former slight acquaintance in terms of great
       apparent cordiality.
 
@@ -93,14 +93,14 @@ tags:
       nevertheless, one of those which all men have seen at some period
       of their lives, and have never afterwards seen again. It had no
       peculiar, it had no settled predominant expression to be fastened
-      upon the memory; a countenance seen and instantly forgotten, but
-      forgotten with a vague and never-ceasing desire of recalling it
+      upon the [[Memory|memory]]; a countenance seen and instantly forgotten, but
+      forgotten with a vague and never-ceasing [[Desire|desire]] of recalling it
       to mind. Not that the spirit of each rapid passion failed, at any
-      time, to throw its own distinct image upon the mirror of that
-      face—but that the mirror, mirror-like, retained no vestige of the
+      [[Time|time]], to throw its own distinct image upon the [[Mirror|mirror]] of that
+      face—but that the [[Mirror|mirror]], [[Mirror|mirror]]-like, retained no vestige of the
       passion, when the passion had departed.
 
-      Upon leaving him on the night of our adventure, he solicited me,
+      Upon leaving him on the [[Night|night]] of our adventure, he solicited me,
       in what I thought an urgent manner, to call upon him _very_ early
       the next morning. Shortly after sunrise, I found myself
       accordingly at his Palazzo, one of those huge structures of

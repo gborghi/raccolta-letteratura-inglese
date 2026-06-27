@@ -1,5 +1,5 @@
 ---
-title: "Metzengerstein"
+title: "[[Metzengerstein]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/Metzengerstein-(Poe)"
@@ -31,7 +31,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       is, of their falsity, or of their probability—I say nothing. I
 
-      assert, however, that much of our incredulity—as La Bruyère says
+      assert, however, that much of our [[Incredulity|incredulity]]—as La Bruyère says
 
       of all our unhappiness—“_vient de ne pouvoir être seuls_.” {*1}
 
@@ -53,7 +53,7 @@ Pestis eram vivus—moriens tua mors ero.
 
 
 
-      The families of Berlifitzing and Metzengerstein had been at
+      The families of Berlifitzing and [[Metzengerstein]] had been at
 
       variance for centuries. Never before were two houses so
 
@@ -63,9 +63,9 @@ Pestis eram vivus—moriens tua mors ero.
 
       ancient prophecy—“A lofty name shall have a fearful fall when, as
 
-      the rider over his horse, the mortality of Metzengerstein shall
+      the rider over his [[Horse|horse]], the [[Mortality|mortality]] of [[Metzengerstein]] shall
 
-      triumph over the immortality of Berlifitzing.”
+      triumph over the [[Immortality|immortality]] of Berlifitzing.”
 
 
 
@@ -77,29 +77,29 @@ Pestis eram vivus—moriens tua mors ero.
 
       contiguous, had long exercised a rival influence in the affairs
 
-      of a busy government. Moreover, near neighbors are seldom
+      of a busy [[government]]. Moreover, near neighbors are seldom
 
-      friends; and the inhabitants of the Castle Berlifitzing might
+      friends; and the inhabitants of the [[Castle]] Berlifitzing might
 
       look, from their lofty buttresses, into the very windows of the
 
-      palace Metzengerstein. Least of all had the more than feudal
+      palace [[Metzengerstein]]. Least of all had the more than feudal
 
       magnificence, thus discovered, a tendency to allay the irritable
 
       feelings of the less ancient and less wealthy Berlifitzings. What
 
-      wonder then, that the words, however silly, of that prediction,
+      [[Wonder|wonder]] then, that the words, however silly, of that prediction,
 
       should have succeeded in setting and keeping at variance two
 
       families already predisposed to quarrel by every instigation of
 
-      hereditary jealousy? The prophecy seemed to imply—if it implied
+      hereditary [[Jealousy|jealousy]]? The prophecy seemed to imply—if it implied
 
       anything—a final triumph on the part of the already more powerful
 
-      house; and was of course remembered with the more bitter
+      [[house]]; and was of course remembered with the more bitter
 
       animosity by the weaker and less influential.
 
@@ -111,7 +111,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       remarkable for nothing but an inordinate and inveterate personal
 
-      antipathy to the family of his rival, and so passionate a love of
+      antipathy to the family of his rival, and so passionate a [[Love|love]] of
 
       horses, and of hunting, that neither bodily infirmity, great age,
 
@@ -121,15 +121,15 @@ Pestis eram vivus—moriens tua mors ero.
 
 
 
-      Frederick, Baron Metzengerstein, was, on the other hand, not yet
+      Frederick, Baron [[Metzengerstein]], was, on the other hand, not yet
 
       of age. His father, the Minister G—, died young. His mother, the
 
       Lady Mary, followed him quickly after. Frederick was, at that
 
-      time, in his fifteenth year. In a city, fifteen years are no long
+      [[Time|time]], in his fifteenth year. In a [[City|city]], fifteen years are no long
 
-      period—a child may be still a child in his third lustrum: but in
+      period—a [[Child|child]] may be still a [[Child|child]] in his third lustrum: but in
 
       a wilderness—in so magnificent a wilderness as that old
 
@@ -147,7 +147,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       without number. The chief in point of splendor and extent was the
 
-      “Château Metzengerstein.” The boundary line of his dominions was
+      “Château [[Metzengerstein]].” The boundary line of his dominions was
 
       never clearly defined; but his principal park embraced a circuit
 
@@ -157,7 +157,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       Upon the succession of a proprietor so young, with a character so
 
-      well known, to a fortune so unparalleled, little speculation was
+      [[Well|well]] known, to a fortune so unparalleled, little speculation was
 
       afloat in regard to his probable course of conduct. And, indeed,
 
@@ -171,13 +171,13 @@ Pestis eram vivus—moriens tua mors ero.
 
       quickly to understand that no servile submission on their part—no
 
-      punctilios of conscience on his own—were thenceforward to prove
+      punctilios of [[Conscience|conscience]] on his own—were thenceforward to prove
 
       any security against the remorseless fangs of a petty Caligula.
 
-      On the night of the fourth day, the stables of the castle
+      On the [[Night|night]] of the fourth day, the stables of the [[Castle|castle]]
 
-      Berlifitzing were discovered to be on fire; and the unanimous
+      Berlifitzing were discovered to be on [[Fire|fire]]; and the unanimous
 
       opinion of the neighborhood added the crime of the incendiary to
 
@@ -193,7 +193,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       and desolate upper apartment of the family palace of
 
-      Metzengerstein. The rich although faded tapestry hangings which
+      [[Metzengerstein]]. The rich although faded tapestry hangings which
 
       swung gloomily upon the walls, represented the shadowy and
 
@@ -203,11 +203,11 @@ Pestis eram vivus—moriens tua mors ero.
 
       seated with the autocrat and the sovereign, put a veto on the
 
-      wishes of a temporal king, or restrained with the fiat of papal
+      wishes of a temporal [[King|king]], or restrained with the fiat of papal
 
       supremacy the rebellious sceptre of the Arch-enemy. _There_, the
 
-      dark, tall statures of the Princes Metzengerstein—their muscular
+      dark, tall statures of the Princes [[Metzengerstein]]—their muscular
 
       war-coursers plunging over the carcasses of fallen foes—startled
 
@@ -215,7 +215,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       again, the voluptuous and swan-like figures of the dames of days
 
-      gone by, floated away in the mazes of an unreal dance to the
+      gone by, floated away in the mazes of an unreal [[Dance|dance]] to the
 
       strains of imaginary melody.
 
@@ -225,19 +225,19 @@ Pestis eram vivus—moriens tua mors ero.
 
       gradually increasing uproar in the stables of Berlifitzing—or
 
-      perhaps pondered upon some more novel, some more decided act of
+      perhaps pondered upon some more [[Novel|novel]], some more decided act of
 
       audacity—his eyes became unwittingly rivetted to the figure of an
 
-      enormous, and unnaturally colored horse, represented in the
+      enormous, and unnaturally colored [[Horse|horse]], represented in the
 
       tapestry as belonging to a Saracen ancestor of the family of his
 
-      rival. The horse itself, in the foreground of the design, stood
+      rival. The [[Horse|horse]] itself, in the foreground of the design, stood
 
       motionless and statue-like—while farther back, its discomfited
 
-      rider perished by the dagger of a Metzengerstein.
+      rider perished by the dagger of a [[Metzengerstein]].
 
 
 
@@ -277,7 +277,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       position. The neck of the animal, before arched, as if in
 
-      compassion, over the prostrate body of its lord, was now
+      compassion, over the prostrate [[Body|body]] of its lord, was now
 
       extended, at full length, in the direction of the Baron. The
 
@@ -285,7 +285,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       expression, while they gleamed with a fiery and unusual red; and
 
-      the distended lips of the apparently enraged horse left in full
+      the distended lips of the apparently enraged [[Horse|horse]] left in full
 
       view his gigantic and disgusting teeth.
 
@@ -295,9 +295,9 @@ Pestis eram vivus—moriens tua mors ero.
 
       As he threw it open, a flash of red light, streaming far into the
 
-      chamber, flung his shadow with a clear outline against the
+      chamber, flung his [[Shadow|shadow]] with a clear outline against the
 
-      quivering tapestry, and he shuddered to perceive that shadow—as
+      quivering tapestry, and he shuddered to perceive that [[Shadow|shadow]]—as
 
       he staggered awhile upon the threshold—assuming the exact
 
@@ -315,11 +315,11 @@ Pestis eram vivus—moriens tua mors ero.
 
       of their lives, they were restraining the convulsive plunges of a
 
-      gigantic and fiery-colored horse.
+      gigantic and fiery-colored [[Horse|horse]].
 
 
 
-      “Whose horse? Where did you get him?” demanded the youth, in a
+      “Whose [[Horse|horse]]? Where did you get him?” demanded the youth, in a
 
       querulous and husky tone of voice, as he became instantly aware
 
@@ -335,7 +335,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       all smoking and foaming with rage, from the burning stables of
 
-      the Castle Berlifitzing. Supposing him to have belonged to the
+      the [[Castle]] Berlifitzing. Supposing him to have belonged to the
 
       old Count’s stud of foreign horses, we led him back as an estray.
 
@@ -353,7 +353,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       course, to be the initials of Wilhelm Von Berlifitzing—but all at
 
-      the castle are positive in denying any knowledge of the horse.”
+      the [[Castle|castle]] are positive in denying any knowledge of the [[Horse|horse]].”
 
 
 
@@ -361,19 +361,19 @@ Pestis eram vivus—moriens tua mors ero.
 
       and apparently unconscious of the meaning of his words. “He is,
 
-      as you say, a remarkable horse—a prodigious horse! although, as
+      as you say, a remarkable [[Horse|horse]]—a prodigious [[Horse|horse]]! although, as
 
       you very justly observe, of a suspicious and untractable
 
       character; let him be mine, however,” he added, after a pause,
 
-      “perhaps a rider like Frederick of Metzengerstein, may tame even
+      “perhaps a rider like Frederick of [[Metzengerstein]], may tame even
 
       the devil from the stables of Berlifitzing.”
 
 
 
-      “You are mistaken, my lord; the horse, as I think we mentioned,
+      “You are mistaken, my lord; the [[Horse|horse]], as I think we mentioned,
 
       is _not_ from the stables of the Count. If such had been the
 
@@ -391,7 +391,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       of the sudden disappearance of a small portion of the tapestry,
 
-      in an apartment which he designated; entering, at the same time,
+      in an apartment which he designated; entering, at the same [[Time|time]],
 
       into particulars of a minute and circumstantial character; but
 
@@ -417,7 +417,7 @@ Pestis eram vivus—moriens tua mors ero.
 
 
 
-      “Have you heard of the unhappy death of the old hunter
+      “Have you heard of the unhappy [[Death|death]] of the old hunter
 
       Berlifitzing?” said one of his vassals to the Baron, as, after
 
@@ -427,7 +427,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       down the long avenue which extended from the château to the
 
-      stables of Metzengerstein.
+      stables of [[Metzengerstein]].
 
 
 
@@ -457,7 +457,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       “I-n-d-e-e-d-!” ejaculated the Baron, as if slowly and
 
-      deliberately impressed with the truth of some exciting idea.
+      deliberately impressed with the [[Truth|truth]] of some exciting idea.
 
 
 
@@ -475,7 +475,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       demeanor of the dissolute young Baron Frederick Von
 
-      Metzengerstein. Indeed, his behavior disappointed every
+      [[Metzengerstein]]. Indeed, his behavior disappointed every
 
       expectation, and proved little in accordance with the views of
 
@@ -489,7 +489,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       utterly companionless—unless, indeed, that unnatural, impetuous,
 
-      and fiery-colored horse, which he henceforward continually
+      and fiery-colored [[Horse|horse]], which he henceforward continually
 
       bestrode, had any mysterious right to the title of his friend.
 
@@ -497,13 +497,13 @@ Pestis eram vivus—moriens tua mors ero.
 
       Numerous invitations on the part of the neighborhood for a long
 
-      time, however, periodically came in. “Will the Baron honor our
+      [[Time|time]], however, periodically came in. “Will the Baron honor our
 
       festivals with his presence?” “Will the Baron join us in a
 
-      hunting of the boar?”—“Metzengerstein does not hunt;”
+      hunting of the boar?”—“[[Metzengerstein]] does not hunt;”
 
-      “Metzengerstein will not attend,” were the haughty and laconic
+      “[[Metzengerstein]] will not attend,” were the haughty and laconic
 
       answers.
 
@@ -513,21 +513,21 @@ Pestis eram vivus—moriens tua mors ero.
 
       nobility. Such invitations became less cordial—less frequent—in
 
-      time they ceased altogether. The widow of the unfortunate Count
+      [[Time|time]] they ceased altogether. The widow of the unfortunate Count
 
-      Berlifitzing was even heard to express a hope “that the Baron
+      Berlifitzing was even heard to express a [[Hope|hope]] “that the Baron
 
-      might be at home when he did not wish to be at home, since he
+      might be at [[Home|home]] when he did not wish to be at [[Home|home]], since he
 
       disdained the company of his equals; and ride when he did not
 
-      wish to ride, since he preferred the society of a horse.” This to
+      wish to ride, since he preferred the society of a [[Horse|horse]].” This to
 
       be sure was a very silly explosion of hereditary pique; and
 
       merely proved how singularly unmeaning our sayings are apt to
 
-      become, when we desire to be unusually energetic.
+      become, when we [[Desire|desire]] to be unusually energetic.
 
 
 
@@ -541,13 +541,13 @@ Pestis eram vivus—moriens tua mors ero.
 
       immediately succeeding that bereavement. Some there were, indeed,
 
-      who suggested a too haughty idea of self-consequence and dignity.
+      who suggested a too haughty idea of [[Self|self]]-consequence and dignity.
 
       Others again (among them may be mentioned the family physician)
 
-      did not hesitate in speaking of morbid melancholy, and hereditary
+      did not hesitate in speaking of morbid [[Melancholy|melancholy]], and hereditary
 
-      ill-health; while dark hints, of a more equivocal nature, were
+      ill-health; while dark hints, of a more equivocal [[Nature|nature]], were
 
       current among the multitude.
 
@@ -561,13 +561,13 @@ Pestis eram vivus—moriens tua mors ero.
 
       propensities—at length became, in the eyes of all reasonable men,
 
-      a hideous and unnatural fervor. In the glare of noon—at the dead
+      a hideous and unnatural fervor. In the glare of [[Noon|noon]]—at the dead
 
-      hour of night—in sickness or in health—in calm or in tempest—the
+      hour of [[Night|night]]—in sickness or in health—in calm or in tempest—the
 
-      young Metzengerstein seemed rivetted to the saddle of that
+      young [[Metzengerstein]] seemed rivetted to the saddle of that
 
-      colossal horse, whose intractable audacities so well accorded
+      colossal [[Horse|horse]], whose intractable audacities so [[Well|well]] accorded
 
       with his own spirit.
 
@@ -607,17 +607,17 @@ Pestis eram vivus—moriens tua mors ero.
 
       during that dangerous struggle, or at any period thereafter,
 
-      actually placed his hand upon the body of the beast. Instances of
+      actually placed his hand upon the [[Body|body]] of the beast. Instances of
 
       peculiar intelligence in the demeanor of a noble and
 
-      high-spirited horse are not to be supposed capable of exciting
+      high-spirited [[Horse|horse]] are not to be supposed capable of exciting
 
       unreasonable attention—especially among men who, daily trained to
 
-      the labors of the chase, might appear well acquainted with the
+      the labors of the chase, might appear [[Well|well]] acquainted with the
 
-      sagacity of a horse—but there were certain circumstances which
+      sagacity of a [[Horse|horse]]—but there were certain circumstances which
 
       intruded themselves per force upon the most skeptical and
 
@@ -627,7 +627,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       the deep and impressive meaning of his terrible stamp—times when
 
-      the young Metzengerstein turned pale and shrunk away from the
+      the young [[Metzengerstein]] turned pale and shrunk away from the
 
       rapid and searching expression of his earnest and human-looking
 
@@ -637,11 +637,11 @@ Pestis eram vivus—moriens tua mors ero.
 
       Among all the retinue of the Baron, however, none were found to
 
-      doubt the ardor of that extraordinary affection which existed on
+      [[Doubt|doubt]] the ardor of that extraordinary affection which existed on
 
       the part of the young nobleman for the fiery qualities of his
 
-      horse; at least, none but an insignificant and misshapen little
+      [[Horse|horse]]; at least, none but an insignificant and misshapen little
 
       page, whose deformities were in everybody’s way, and whose
 
@@ -659,7 +659,7 @@ Pestis eram vivus—moriens tua mors ero.
 
 
 
-      One tempestuous night, Metzengerstein, awaking from a heavy
+      One tempestuous [[Night|night]], [[Metzengerstein]], awaking from a heavy
 
       slumber, descended like a maniac from his chamber, and, mounting
 
@@ -671,11 +671,11 @@ Pestis eram vivus—moriens tua mors ero.
 
       domestics, when, after some hours’ absence, the stupendous and
 
-      magnificent battlements of the Chateau Metzengerstein, were
+      magnificent battlements of the Chateau [[Metzengerstein]], were
 
       discovered crackling and rocking to their very foundation, under
 
-      the influence of a dense and livid mass of ungovernable fire.
+      the influence of a dense and livid mass of ungovernable [[Fire|fire]].
 
 
 
@@ -685,7 +685,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       were evidently futile, the astonished neighborhood stood idly
 
-      around in silent and pathetic wonder. But a new and fearful
+      around in silent and pathetic [[Wonder|wonder]]. But a new and fearful
 
       object soon rivetted the attention of the multitude, and proved
 
@@ -699,7 +699,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       Up the long avenue of aged oaks which led from the forest to the
 
-      main entrance of the Château Metzengerstein, a steed, bearing an
+      main entrance of the Château [[Metzengerstein]], a steed, bearing an
 
       unbonneted and disordered rider, was seen leaping with an
 
@@ -727,7 +727,7 @@ Pestis eram vivus—moriens tua mors ero.
 
       staircases of the palace, and, with its rider, disappeared amid
 
-      the whirlwind of chaotic fire.
+      the whirlwind of chaotic [[Fire|fire]].
 
 
 

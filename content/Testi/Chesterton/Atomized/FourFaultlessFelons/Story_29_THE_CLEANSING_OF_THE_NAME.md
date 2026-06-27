@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE CLEANSING OF THE NAME"
+title: "[[FourFaultlessFelons]] — THE CLEANSING OF THE NAME"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -18,7 +18,7 @@ VI THE CLEANSING OF THE NAME
 
 
 
-THE trial and acquittal of Alan Nadoway in a court of law was only an
+THE trial and acquittal of Alan Nadoway in a [[Court|court]] of law was only an
 
 epilogue to the real drama. He would perhaps have said that it was only a
 
@@ -32,7 +32,7 @@ scenery, stiff and yet extravagant, with the jagged outlines of the
 
 foreign plants like the jaws of sharks and the low line of bow windows
 
-like the motor-goggles of a monster. With all its grotesqueness there had
+like the motor-goggles of a [[Monster|monster]]. With all its grotesqueness there had
 
 always mingled in her mind something almost operatic and yet genuine;
 
@@ -40,7 +40,7 @@ something of real sentiment or passion that there was in the Victorian
 
 nineteenth century, despite all that is said of Victorian primness and
 
-restraint. It was that essentially innocent, that faulty but not cynical
+restraint. It was that essentially [[Innocent|innocent]], that faulty but not cynical
 
 thing, the Romantic Movement. The man standing before her, with his
 
@@ -54,7 +54,7 @@ music was like an old tune.
 
 
 
-She had just said the words: "I cannot bear the silence, because it is
+She had just said the words: "I cannot bear the [[Silence|silence]], because it is
 
 unjust. It is unjust to you."
 
@@ -68,7 +68,7 @@ story."
 
 
 
-"I do not mind your talking in riddles," answered Millicent Milton
+"I do not mind your talking in riddles," answered Millicent [[Milton]]
 
 steadily, "but I want you to understand something more. It is unjust to
 
@@ -76,11 +76,11 @@ me."
 
 
 
-After a silence he said in a low voice: "Yes; that is what has got me.
+After a [[Silence|silence]] he said in a low voice: "Yes; that is what has got me.
 
 That is what has broken me across. I've come up against something bigger
 
-than the whole plan I made for my life. Well, I suppose I shall have to
+than the whole plan I made for my life. [[Well]], I suppose I shall have to
 
 tell you my story."
 
@@ -98,7 +98,7 @@ nothing but the important things left out."
 
 
 
-"Well," said Millicent, "I should certainly like to hear it with the
+"[[Well]]," said Millicent, "I should certainly like to hear it with the
 
 important things put in."
 
@@ -108,21 +108,21 @@ important things put in."
 
 described. The words all go wrong when you describe such things. They
 
-were bigger than shipwrecks or desert islands, but they all happened
+were bigger than shipwrecks or [[Desert|desert]] islands, but they all happened
 
 inside my head."
 
 
 
-After a silence he resumed, more slowly, like a man trying to find new
+After a [[Silence|silence]] he resumed, more slowly, like a man trying to find new
 
 words.
 
 
 
-"When I was drowning in the Pacific, I think I had a Vision. I rose for
+"When I was drowning in the Pacific, I think I had a Vision. I [[Rose|rose]] for
 
-the third time to the top of a great wave and I saw a Vision. I think
+the third [[Time|time]] to the top of a great wave and I saw a Vision. I think
 
 that what I saw was Religion."
 
@@ -148,9 +148,9 @@ hers. It was not in the least like Alfred de Musset.
 
 
 
-With the uncanny clairvoyance of the mystic he seemed to seize on her
+With the [[Uncanny|uncanny]] clairvoyance of the mystic he seemed to seize on her
 
-passing doubt and said cheerfully: "Oh, I don't mean that I met a Baptist
+passing [[Doubt|doubt]] and said cheerfully: "Oh, I don't mean that I met a Baptist
 
 missionary. There are two kinds of missionaries: the right kind and the
 
@@ -178,7 +178,7 @@ as a glimpse of Religion. It's an awful thing.
 
 "I learnt something about it from the lunatic with whom I lived on the
 
-desert island. I told you he had practically gone mad, as well as gone
+[[Desert|desert]] island. I told you he had practically gone mad, as [[Well|well]] as gone
 
 native. But there was something to learn from him, that can't be learnt
 
@@ -186,7 +186,7 @@ from ethical societies and popular preachers. The poor fellow had floated
 
 to shore by hanging on to a queer, old-fashioned umbrella, that happened
 
-to have the head carved in a grotesque face, and when he came raving out
+to have the head carved in a [[Grotesque|grotesque]] face, and when he came raving out
 
 of his delirium, so far as he ever came out of it, he regarded the
 
@@ -226,7 +226,7 @@ the top of the wave the vision of the divine umbrella."
 
 "And do you think," he asked, "that what I saw was a picture of angels
 
-playing harps out of the Family Bible? What I saw, so far as I can be
+playing harps out of the Family [[Bible]]? What I saw, so far as I can be
 
 said to have merely seen anything, was my father sitting at the head of
 
@@ -234,13 +234,13 @@ the table, in some great dinner or directors' meeting, and perhaps
 
 everybody drinking his health in champagne, while he sat gravely smiling,
 
-with his glass of water beside him, because he is a strict temperance
+with his glass of [[Water|water]] beside him, because he is a strict temperance
 
 man. Oh, my God!"
 
 
 
-"Well," said Millicent, the smile rising slowly to the surface again; "it
+"[[Well]]," said Millicent, the smile rising slowly to the surface again; "it
 
 certainly seems rather different from heaven and the harps."
 
@@ -264,7 +264,7 @@ religion. It was all the other way. From the top of the wave I looked
 
 down and saw him with a clear horror of pity. From the top of the wave I
 
-prayed, for one passionate instant, that my miserable death might avail
+prayed, for one passionate instant, that my miserable [[Death|death]] might avail
 
 to deliver him from that hell.
 
@@ -274,13 +274,13 @@ to deliver him from that hell.
 
 congratulations, praise and publicity and popularity of the old firm, the
 
-old sound business traditions, and the sun of success high in heaven and
+old sound business traditions, and the sun of [[success]] high in heaven and
 
 glittering everywhere on one great ghastly whited sepulchre of human
 
 hypocrisy. And I knew that within, it was full of dead men's bones, of
 
-men who had died of drink or starvation or despair, in prisons and
+men who had died of drink or starvation or [[Despair|despair]], in prisons and
 
 workhouses and asylums, because this hateful thing had ruined a hundred
 
@@ -294,7 +294,7 @@ loved my father.
 
 "He had been good to me when I was little, and when he was poorer and
 
-simpler, and as a boy I began by making hero-worship of his success. The
+simpler, and as a boy I began by making [[Hero|hero]]-worship of his [[success]]. The
 
 first great coloured advertisements were to me what coloured toy-books
 
@@ -302,7 +302,7 @@ are to other children. They were a fairy tale, but, alas, the one fairy
 
 tale one could not continue to believe. So there I was, feeling what I
 
-felt and yet knowing what I knew. You have to love as I loved and hate as
+felt and yet knowing what I knew. You have to [[Love|love]] as I loved and hate as
 
 I hated, before you see afar off the thing called Religion, and the other
 
@@ -354,7 +354,7 @@ universe was wrong, while the lie of my father flourished like the green
 
 bay-tree. It was not respectability that could redeem it. It was
 
-religion, expiation, sacrifice, suffering. Somebody must be terribly
+religion, expiation, sacrifice, [[Suffering|suffering]]. Somebody must be terribly
 
 good, to balance what was so bad. Somebody must be needlessly good, to
 
@@ -414,7 +414,7 @@ He nodded gravely, continuing to gaze into her eyes, which no one now
 
 would have thought languid and proud. "You know the story from the inside
 
-by this time. I began as a burglar of the Santa Claus sort, breaking into
+by this [[Time|time]]. I began as a burglar of the Santa Claus sort, breaking into
 
 houses and leaving presents in safes and cupboards. I was sorry for old
 
@@ -442,7 +442,7 @@ clasp and chain to cheer me up."
 
 complications, didn't it? And all that business of the poor people's
 
-pockets-well, somehow I couldn't help feeling it might get them as well
+pockets-[[Well|well]], somehow I couldn't help feeling it might get them as [[Well|well]]
 
 as you into trouble."
 
@@ -458,9 +458,9 @@ I started giving them alms before they started begging. But it's quite
 
 true that it couldn't have been kept up for long. And that has taught me
 
-another lesson as well, and I understand something in human life and
+another lesson as [[Well|well]], and I understand something in human life and
 
-history I never understood before. Why the people who do have those wild
+[[history]] I never understood before. Why the people who do have those wild
 
 visions and vows, who want to expiate and to pray for this wicked world,
 
@@ -470,11 +470,11 @@ rule. They have to go into monasteries and places; it's only fair on the
 
 rest of the world. But henceforward, when I see these great prisons of
 
-prayer and solitude, or have a glimpse of their cold corridors and bare
+[[prayer]] and [[Solitude|solitude]], or have a glimpse of their cold corridors and bare
 
 cells, I shall understand. I shall know that in the heart of that rule
 
-and routine there is the wildest freedom of the will of man; a whirlwind
+and routine there is the wildest [[Freedom|freedom]] of the will of man; a whirlwind
 
 of liberty."
 
@@ -488,7 +488,7 @@ something strange and solitary, as if you also. ..."
 
 He shook his head, with a complete understanding. "No," he said; "I've
 
-found out all about myself as well. A good many people make that mistake
+found out all about myself as [[Well|well]]. A good many people make that mistake
 
 about themselves when they're young. But a man is either of that sort or
 
@@ -500,21 +500,21 @@ and talked about Chaucer and the chain with Amor Vincit Omnia..?"
 
 And without moving his eyes or hands from where they rested, he repeated
 
-the opening words of Theseus in the Knight's Tale about the sacrament of
+the opening words of [[Theseus]] in the Knight's Tale about the sacrament of
 
-marriage, and as he spoke those noble words as if they were a living
+[[Marriage|marriage]], and as he spoke those noble words as if they were a living
 
 language, I will so write them here, to the distress of literary
 
 commentators: "... The first Mover of the Cause above When he first made
 
-the fair chain of love Great was the effect and high was his intent: Well
+the fair chain of [[Love|love]] Great was the effect and high was his intent: [[Well]]
 
 wist he why, and what thereof he meant."
 
 
 
-And then he bent swiftly towards her; and she understood why that garden
+And then he bent swiftly towards her; and she understood why that [[Garden|garden]]
 
 had always seemed to hold a secret and to be waiting for a surprise.
 

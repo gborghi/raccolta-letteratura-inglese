@@ -28,15 +28,15 @@ that he has never put himself into his work, a thing which no poet,
 good or bad, who ever lived could possibly avoid doing.
 
 The enormous scope and seriousness of _The Ring and the Book_ occupied
-Browning for some five or six years, and the great epic appeared in
-the winter of 1868. Just before it was published Smith and Elder
-brought out a uniform edition of all Browning's works up to that time,
+Browning for some five or six years, and the great [[Epic|epic]] appeared in
+the [[Winter|winter]] of 1868. Just before it was published [[smith|Smith]] and Elder
+brought out a uniform edition of all Browning's works up to that [[Time|time]],
 and the two incidents taken together may be considered to mark the
 final and somewhat belated culmination of Browning's literary fame.
-The years since his wife's death, that had been covered by the writing
+The years since his wife's [[Death|death]], that had been covered by the writing
 of _The Ring and the Book_, had been years of an almost feverish
 activity in that and many other ways. His travels had been restless
-and continued, his industry immense, and for the first time he began
+and continued, his industry immense, and for the first [[Time|time]] he began
 that mode of life which afterwards became so characteristic of
 him--the life of what is called society. A man of a shallower and more
 sentimental type would have professed to find the life of
@@ -57,22 +57,22 @@ A great many literary persons have expressed astonishment at, or even
 disapproval of, this social frivolity of Browning's. Not one of these
 literary people would have been shocked if Browning's interest in
 humanity had led him into a gambling hell in the Wild West or a low
-tavern in Paris; but it seems to be tacitly assumed that fashionable
+tavern in [[Paris]]; but it seems to be tacitly assumed that fashionable
 people are not human at all. Humanitarians of a material and dogmatic
 type, the philanthropists and the professional reformers go to look
 for humanity in remote places and in huge statistics. Humanitarians of
 a more vivid type, the Bohemian artists, go to look for humanity in
 thieves' kitchens and the studios of the Quartier Latin. But
 humanitarians of the highest type, the great poets and philosophers,
-do not go to look for humanity at all. For them alone among all men
+do not go to look for humanity at all. For them [[Alone|alone]] among all men
 the nearest drawing-room is full of humanity, and even their own
-families are human. Shakespeare ended his life by buying a house in
+families are human. Shakespeare ended his life by buying a [[house]] in
 his own native town and talking to the townsmen. Browning was invited
 to a great many conversaziones and private views, and did not pretend
 that they bored him. In a letter belonging to this period of his life
-he describes his first dinner at one of the Oxford colleges with an
-unaffected delight and vanity, which reminds the reader of nothing so
-much as the pride of the boy-captain of a public school if he were
+he describes his first dinner at one of the [[Oxford]] colleges with an
+unaffected delight and [[Vanity|vanity]], which reminds the reader of nothing so
+much as the [[Pride|pride]] of the boy-captain of a public school if he were
 invited to a similar function and received a few compliments. It may
 be indeed that Browning had a kind of second youth in this
 long-delayed social recognition, but at least he enjoyed his second
@@ -81,13 +81,13 @@ that.
 
 Of Browning's actual personality and presence in this later middle age
 of his, memories are still sufficiently clear. He was a middle-sized,
-well set up, erect man, with somewhat emphatic gestures, and, as
+[[Well|well]] set up, erect man, with somewhat emphatic gestures, and, as
 almost all testimonies mention, a curiously strident voice. The beard,
 the removal of which his wife had resented with so quaint an
 indignation, had grown again, but grown quite white, which, as she
 said when it occurred, was a signal mark of the justice of the gods.
-His hair was still fairly dark, and his whole appearance at this time
-must have been very well represented by Mr. G.F. Watts's fine portrait
+His hair was still fairly dark, and his whole appearance at this [[Time|time]]
+must have been very [[Well|well]] represented by Mr. G.F. Watts's fine portrait
 in the National Portrait Gallery. The portrait bears one of the many
 testimonies which exist to Mr. Watts's grasp of the essential of
 character, for it is the only one of the portraits of Browning in
@@ -106,9 +106,9 @@ of their own voice; the second are those who do not know what the
 sound of their own voice is like. Browning was one of the latter
 class. His volubility in speech had the same origin as his
 voluminousness and obscurity in literature--a kind of headlong
-humility. He cannot assuredly have been aware that he talked people
+[[Humility|humility]]. He cannot assuredly have been aware that he talked people
 down or have wished to do so. For this would have been precisely a
-violation of the ideal of the man of the world, the one ambition and
+violation of the ideal of the man of the world, the one [[Ambition|ambition]] and
 even weakness that he had. He wished to be a man of the world, and he
 never in the full sense was one. He remained a little too much of a
 boy, a little too much even of a Puritan, and a little too much of

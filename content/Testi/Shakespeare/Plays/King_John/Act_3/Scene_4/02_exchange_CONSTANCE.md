@@ -1,5 +1,5 @@
 ---
-title: "King John — Act III, Scene 4 — exchange (CONSTANCE) [2]"
+title: "[[King John]] — Act III, Scene 4 — exchange ([[Constance|CONSTANCE]]) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/KING-JOHN-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| CONSTANCE | To England, if you will. |
-| KING PHILIP | Bind up your hairs. |
+| [[Constance|CONSTANCE]] | To England, if you will. |
+| [[King|KING]] PHILIP | Bind up your hairs. |

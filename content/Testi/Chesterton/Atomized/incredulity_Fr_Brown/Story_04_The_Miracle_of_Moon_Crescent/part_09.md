@@ -1,5 +1,5 @@
 ---
-title: "incredulity Fr Brown — The Miracle of Moon Crescent (part 9)"
+title: "[[Incredulity|incredulity]] Fr Brown — The Miracle of [[Moon]] Crescent (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/incredulity-Fr-Brown-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-'By the way,' went on Father Brown, 'don't think I blame you for jumping
+'By the way,' went on [[Father Brown]], 'don't think I blame you for jumping
 to preternatural conclusions. The reason's very simple, really. You all
 swore you were hard - shelled materialists; and as a matter of fact you
 were all balanced on the very edge of belief - of belief in almost
@@ -23,7 +23,7 @@ uncomfortable edge to sit on. You won't rest till you believe something;
 that's why Mr Vandam went through new religions with a tooth - comb, and
 Mr Alboin quotes Scripture for his religion of breathing exercises, and
 Mr Fenner grumbles at the very God he denies. That's where you all
-split; it's natural to believe in the supernatural. It never feels
+split; it's natural to believe in the [[Supernatural|supernatural]]. It never feels
 natural to accept only natural things. But though it wanted only a touch
 to tip you into preternaturalism about these things, these things really
 were only natural things. They were not only natural, they were almost
@@ -35,7 +35,7 @@ he said. 'If it was Wilson, how did Wynd come to have a man like that on
 such intimate terms? How did he come to be killed by a man he'd seen
 every day for years? He was famous as being a judge of men.'
 
-Father Brown thumped his umbrella on the ground with an emphasis he
+[[Father Brown]] thumped his umbrella on the ground with an emphasis he
 rarely showed.
 
 'Yes,' he said, almost fiercely; 'that was how he came to be killed. He
@@ -48,22 +48,22 @@ there.
 three were the tramps that once stood before him and were dismissed
 rapidly right and left to one place or another; as if for them there
 were no cloak of courtesy, no stages of intimacy, no free - will in
-friendship. And twenty years has not exhausted the indignation born of
+[[Friendship|friendship]]. And twenty years has not exhausted the indignation born of
 that unfathomable insult in that moment when he dared to know them at a
 glance.'
 
 'Yes,' said the secretary; 'I understand ... and I understand how it is
 that you understand - all sorts of things.'
 
-'Well, I'm blamed if I understand,' cried the breezy Western gentleman
+'[[Well]], I'm blamed if I understand,' cried the breezy Western gentleman
 boisterously. 'Your Wilson and your Irishman seem to be just a couple of
 cut - throat murderers who killed their benefactor. I've no use for a
-black and bloody assassin of that sort, in my morality, whether it's
+black and bloody assassin of that sort, in my [[morality]], whether it's
 religion or not.'
 
-'He was a black and bloody assassin, no doubt,' said Fenner quietly.
-'I'm not defending him; but I suppose it's Father Brown's business to
+'He was a black and bloody assassin, no [[Doubt|doubt]],' said Fenner quietly.
+'I'm not defending him; but I suppose it's [[Father Brown]]'s business to
 pray for all men, even for a man like - '
 
-'Yes,' assented Father Brown, 'it's my business to pray for all men,
+'Yes,' assented [[Father Brown]], 'it's my business to pray for all men,
 even for a man like Warren Wynd.'

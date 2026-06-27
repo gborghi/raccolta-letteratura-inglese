@@ -15,11 +15,11 @@ tags:
 
 
 CHAPTER XII.
-Paul’s Education
+Paul’s [[Education]]
 
 
-After the lapse of some minutes, which appeared an immense time to
-little Paul Dombey on the table, Doctor Blimber came back. The Doctor’s
+After the lapse of some minutes, which appeared an immense [[Time|time]] to
+little [[Paul Dombey]] on the table, Doctor Blimber came back. The Doctor’s
 walk was stately, and calculated to impress the juvenile mind with
 solemn feelings. It was a sort of march; but when the Doctor put out
 his right foot, he gravely turned upon his axis, with a semi-circular
@@ -52,18 +52,18 @@ Blimber.
 Miss Blimber’s sensibility, he looked up at the three faces that were
 looking down at him, and said:
 
-“I haven’t been well. I have been a weak child. I couldn’t learn a
+“I haven’t been [[Well|well]]. I have been a weak [[Child|child]]. I couldn’t learn a
 Latin Grammar when I was out, every day, with old Glubb. I wish you’d
 tell old Glubb to come and see me, if you please.”
 
 “What a dreadfully low name” said Mrs Blimber. “Unclassical to a
-degree! Who is the monster, child?”
+degree! Who is the [[Monster|monster]], [[Child|child]]?”
 
-“What monster?” inquired Paul.
+“What [[Monster|monster]]?” inquired Paul.
 
 “Glubb,” said Mrs Blimber, with a great disrelish.
 
-“He’s no more a monster than you are,” returned Paul.
+“He’s no more a [[Monster|monster]] than you are,” returned Paul.
 
 “What!” cried the Doctor, in a terrible voice. “Ay, ay, ay? Aha! What’s
 that?”
@@ -74,7 +74,7 @@ absent Glubb, though he did it trembling.
 “He’s a very nice old man, Ma’am,” he said. “He used to draw my couch.
 He knows all about the deep sea, and the fish that are in it, and the
 great monsters that come and lie on rocks in the sun, and dive into the
-water again when they’re startled, blowing and splashing so, that they
+[[Water|water]] again when they’re startled, blowing and splashing so, that they
 can be heard for miles. There are some creatures, said Paul, warming
 with his subject, “I don’t know how many yards long, and I forget their
 names, but Florence knows, that pretend to be in distress; and when a
@@ -85,19 +85,19 @@ runs away, and then, as they turn slowly, because they are so long, and
 can’t bend, he’s sure to beat them. And though old Glubb don’t know why
 the sea should make me think of my Mama that’s dead, or what it is that
 it is always saying—always saying! he knows a great deal about it. And
-I wish,” the child concluded, with a sudden falling of his countenance,
+I wish,” the [[Child|child]] concluded, with a sudden falling of his countenance,
 and failing in his animation, as he looked like one forlorn, upon the
 three strange faces, “that you’d let old Glubb come here to see me, for
-I know him very well, and he knows me.”
+I know him very [[Well|well]], and he knows me.”
 
 “Ha!” said the Doctor, shaking his head; “this is bad, but study will
 do much.”
 
 Mrs Blimber opined, with something like a shiver, that he was an
-unaccountable child; and, allowing for the difference of visage, looked
+unaccountable [[Child|child]]; and, allowing for the difference of visage, looked
 at him pretty much as Mrs Pipchin had been used to do.
 
-“Take him round the house, Cornelia,” said the Doctor, “and familiarise
+“Take him round the [[house]], Cornelia,” said the Doctor, “and familiarise
 him with his new sphere. Go with that young lady, Dombey.”
 
 Dombey obeyed; giving his hand to the abstruse Cornelia, and looking at
@@ -110,7 +110,7 @@ Cornelia took him first to the schoolroom, which was situated at the
 back of the hall, and was approached through two baize doors, which
 deadened and muffled the young gentlemen’s voices. Here, there were
 eight young gentlemen in various stages of mental prostration, all very
-hard at work, and very grave indeed. Toots, as an old hand, had a desk
+hard at work, and very [[Grave|grave]] indeed. Toots, as an old hand, had a desk
 to himself in one corner: and a magnificent man, of immense age, he
 looked, in Paul’s young eyes, behind it.
 
@@ -118,10 +118,10 @@ Mr Feeder, B.A., who sat at another little desk, had his Virgil stop
 on, and was slowly grinding that tune to four young gentlemen. Of the
 remaining four, two, who grasped their foreheads convulsively, were
 engaged in solving mathematical problems; one with his face like a
-dirty window, from much crying, was endeavouring to flounder through a
+dirty [[Window|window]], from much crying, was endeavouring to flounder through a
 hopeless number of lines before dinner; and one sat looking at his task
-in stony stupefaction and despair—which it seemed had been his
-condition ever since breakfast time.
+in stony stupefaction and [[Despair|despair]]—which it seemed had been his
+condition ever since breakfast [[Time|time]].
 
 The appearance of a new boy did not create the sensation that might
 have been expected. Mr Feeder, B.A. (who was in the habit of shaving
@@ -131,7 +131,7 @@ have been very glad to have told him, if he could have done so with the
 least sincerity. Then Paul, instructed by Cornelia, shook hands with
 the four young gentlemen at Mr Feeder’s desk; then with the two young
 gentlemen at work on the problems, who were very feverish; then with
-the young gentleman at work against time, who was very inky; and lastly
+the young gentleman at work against [[Time|time]], who was very inky; and lastly
 with the young gentleman in a state of stupefaction, who was flabby and
 quite cold.
 
@@ -146,11 +146,11 @@ distinction, adds “P. Toots, Esquire, Brighton, Sussex,” and to
 preserve them in his desk with great care.
 
 These ceremonies passed, Cornelia led Paul upstairs to the top of the
-house; which was rather a slow journey, on account of Paul being
+[[house]]; which was rather a slow [[Journey|journey]], on account of Paul being
 obliged to land both feet on every stair, before he mounted another.
-But they reached their journey’s end at last; and there, in a front
+But they reached their [[Journey|journey]]’s end at last; and there, in a front
 room, looking over the wild sea, Cornelia showed him a nice little bed
-with white hangings, close to the window, on which there was already
+with white hangings, close to the [[Window|window]], on which there was already
 beautifully written on a card in round text—down strokes very thick,
 and up strokes very fine—DOMBEY; while two other little bedsteads in
 the same room were announced, through like means, as respectively
@@ -165,7 +165,7 @@ unchecked, after having made a dreadful noise. Then Cornelia Blimber
 said to Dombey that dinner would be ready in a quarter of an hour, and
 perhaps he had better go into the schoolroom among his “friends.”
 
-So Dombey, deferentially passing the great clock which was still as
+So Dombey, deferentially passing the great [[Clock|clock]] which was still as
 anxious as ever to know how he found himself, opened the schoolroom
 door a very little way, and strayed in like a lost boy: shutting it
 after him with some difficulty. His friends were all dispersed about
@@ -173,7 +173,7 @@ the room except the stony friend, who remained immoveable. Mr Feeder
 was stretching himself in his grey gown, as if, regardless of expense,
 he were resolved to pull the sleeves off.
 
-“Heigh ho hum!” cried Mr Feeder, shaking himself like a cart-horse. “Oh
+“Heigh ho hum!” cried Mr Feeder, shaking himself like a cart-[[Horse|horse]]. “Oh
 dear me, dear me! Ya-a-a-ah!”
 
 Paul was quite alarmed by Mr Feeder’s yawning; it was done on such a
@@ -184,13 +184,13 @@ washing their hands or brushing their hair, in an adjoining
 ante-chamber—as if they didn’t think they should enjoy it at all.
 
 Young Toots who was ready beforehand, and had therefore nothing to do,
-and had leisure to bestow upon Paul, said, with heavy good nature:
+and had leisure to bestow upon Paul, said, with heavy good [[Nature|nature]]:
 
 “Sit down, Dombey.”
 
 “Thank you, Sir,” said Paul.
 
-His endeavouring to hoist himself on to a very high window-seat, and
+His endeavouring to hoist himself on to a very high [[Window|window]]-seat, and
 his slipping down again, appeared to prepare Toots’s mind for the
 reception of a discovery.
 
@@ -225,13 +225,13 @@ the name again to-morrow morning, as it was rather important. And
 indeed he purposed nothing less than writing himself a private and
 confidential letter from Dombey and Son immediately.
 
-By this time the other pupils (always excepting the stony boy) gathered
+By this [[Time|time]] the other pupils (always excepting the stony boy) gathered
 round. They were polite, but pale; and spoke low; and they were so
 depressed in their spirits, that in comparison with the general tone of
 that company, Master Bitherstone was a perfect Miller, or complete Jest
 Book.” And yet he had a sense of injury upon him, too, had Bitherstone.
 
-“You sleep in my room, don’t you?” asked a solemn young gentleman,
+“You [[Sleep|sleep]] in my room, don’t you?” asked a solemn young gentleman,
 whose shirt-collar curled up the lobes of his ears.
 
 “Master Briggs?” inquired Paul.
@@ -258,15 +258,15 @@ encountered a round of bread, genteelly served on a plate and napkin,
 and with a silver fork lying crosswise on the top of it. Doctor Blimber
 was already in his place in the dining-room, at the top of the table,
 with Miss Blimber and Mrs Blimber on either side of him. Mr Feeder in a
-black coat was at the bottom. Paul’s chair was next to Miss Blimber;
+black coat was at the [[Bottom|bottom]]. Paul’s chair was next to Miss Blimber;
 but it being found, when he sat in it, that his eyebrows were not much
 above the level of the table-cloth, some books were brought in from the
 Doctor’s study, on which he was elevated, and on which he always sat
-from that time— carrying them in and out himself on after occasions,
-like a little elephant and castle.
+from that [[Time|time]]— carrying them in and out himself on after occasions,
+like a little elephant and [[Castle|castle]].
 
 Grace having been said by the Doctor, dinner began. There was some nice
-soup; also roast meat, boiled meat, vegetables, pie, and cheese. Every
+soup; also roast meat, boiled meat, vegetables, pie, and [[cheese]]. Every
 young gentleman had a massive silver fork, and a napkin; and all the
 arrangements were stately and handsome. In particular, there was a
 butler in a blue coat and bright buttons, who gave quite a winey
@@ -282,7 +282,7 @@ side of the table, and frequently looked behind and before the
 intervening boys to catch a glimpse of Paul.
 
 Only once during dinner was there any conversation that included the
-young gentlemen. It happened at the epoch of the cheese, when the
+young gentlemen. It happened at the epoch of the [[cheese]], when the
 Doctor, having taken a glass of port wine, and hemmed twice or thrice,
 said:
 
@@ -305,9 +305,9 @@ Here the offender, who had been swelling and straining, and waiting in
 vain for a full stop, broke out violently.
 
 “Johnson,” said Mr Feeder, in a low reproachful voice, “take some
-water.”
+[[Water|water]].”
 
-The Doctor, looking very stern, made a pause until the water was
+The Doctor, looking very stern, made a pause until the [[Water|water]] was
 brought, and then resumed:
 
 “And when, Mr Feeder—”
@@ -322,11 +322,11 @@ who consequently stopped.
 pardon, Doctor Blimber.”
 
 “And when,” said the Doctor, raising his voice, “when, Sir, as we read,
-and have no reason to doubt—incredible as it may appear to the
-vulgar—of our time—the brother of Vitellius prepared for him a feast,
+and have no reason to [[Doubt|doubt]]—incredible as it may appear to the
+vulgar—of our [[Time|time]]—the brother of Vitellius prepared for him a feast,
 in which were served, of fish, two thousand dishes—”
 
-“Take some water, Johnson—dishes, Sir,” said Mr Feeder.
+“Take some [[Water|water]], Johnson—dishes, Sir,” said Mr Feeder.
 
 “Of various sorts of fowl, five thousand dishes.”
 
@@ -361,16 +361,16 @@ Feeder.
 “And you’re blue, you know,” said Mr Feeder.
 
 “A Nero, a Tiberius, a Caligula, a Heliogabalus, and many more, pursued
-the Doctor; “it is, Mr Feeder—if you are doing me the honour to
+the Doctor; “it is, Mr Feeder—if you are doing me the [[Honour|honour]] to
 attend—remarkable; VERY remarkable, Sir—”
 
 But Johnson, unable to suppress it any longer, burst at that moment
 into such an overwhelming fit of coughing, that although both his
 immediate neighbours thumped him on the back, and Mr Feeder himself
-held a glass of water to his lips, and the butler walked him up and
+held a glass of [[Water|water]] to his lips, and the butler walked him up and
 down several times between his own chair and the sideboard, like a
 sentry, it was a full five minutes before he was moderately composed.
-Then there was a profound silence.
+Then there was a profound [[Silence|silence]].
 
 “Gentlemen,” said Doctor Blimber, “rise for Grace! Cornelia, lift
 Dombey down”—nothing of whom but his scalp was accordingly seen above
@@ -383,9 +383,9 @@ our studies, Mr Feeder, in half-an-hour.”
 
 The young gentlemen bowed and withdrew. Mr Feeder did likewise. During
 the half-hour, the young gentlemen, broken into pairs, loitered
-arm-in-arm up and down a small piece of ground behind the house, or
+arm-in-arm up and down a small piece of ground behind the [[house]], or
 endeavoured to kindle a spark of animation in the breast of Briggs. But
-nothing happened so vulgar as play. Punctually at the appointed time,
+nothing happened so vulgar as play. Punctually at the appointed [[Time|time]],
 the gong was sounded, and the studies, under the joint auspices of
 Doctor Blimber and Mr Feeder, were resumed.
 
@@ -394,7 +394,7 @@ usual that day, on Johnson’s account, they all went out for a walk
 before tea. Even Briggs (though he hadn’t begun yet) partook of this
 dissipation; in the enjoyment of which he looked over the cliff two or
 three times darkly. Doctor Blimber accompanied them; and Paul had the
-honour of being taken in tow by the Doctor himself: a distinguished
+[[Honour|honour]] of being taken in tow by the Doctor himself: a distinguished
 state of things, in which he looked very little and feeble.
 
 Tea was served in a style no less polite than the dinner; and after
@@ -405,44 +405,44 @@ and Paul sat in a corner wondering whether Florence was thinking of
 him, and what they were all about at Mrs Pipchin’s.
 
 Mr Toots, who had been detained by an important letter from the Duke of
-Wellington, found Paul out after a time; and having looked at him for a
+Wellington, found Paul out after a [[Time|time]]; and having looked at him for a
 long while, as before, inquired if he was fond of waistcoats.
 
 Paul said “Yes, Sir.”
 
 “So am I,” said Toots.
 
-No word more spoke Toots that night; but he stood looking at Paul as if
+No word more spoke Toots that [[Night|night]]; but he stood looking at Paul as if
 he liked him; and as there was company in that, and Paul was not
 inclined to talk, it answered his purpose better than conversation.
 
-At eight o’clock or so, the gong sounded again for prayers in the
+At eight o’[[Clock|clock]] or so, the gong sounded again for prayers in the
 dining-room, where the butler afterwards presided over a side-table, on
-which bread and cheese and beer were spread for such young gentlemen as
+which bread and [[cheese]] and beer were spread for such young gentlemen as
 desired to partake of those refreshments. The ceremonies concluded by
 the Doctor’s saying, “Gentlemen, we will resume our studies at seven
-to-morrow;” and then, for the first time, Paul saw Cornelia Blimber’s
+to-morrow;” and then, for the first [[Time|time]], Paul saw Cornelia Blimber’s
 eye, and saw that it was upon him. When the Doctor had said these
 words, “Gentlemen, we will resume our studies at seven tomorrow,” the
 pupils bowed again, and went to bed.
 
 In the confidence of their own room upstairs, Briggs said his head
 ached ready to split, and that he should wish himself dead if it wasn’t
-for his mother, and a blackbird he had at home. Tozer didn’t say much,
+for his mother, and a blackbird he had at [[Home|home]]. Tozer didn’t say much,
 but he sighed a good deal, and told Paul to look out, for his turn
 would come to-morrow. After uttering those prophetic words, he
 undressed himself moodily, and got into bed. Briggs was in his bed too,
 and Paul in his bed too, before the weak-eyed young man appeared to
-take away the candle, when he wished them good-night and pleasant
-dreams. But his benevolent wishes were in vain, as far as Briggs and
+take away the candle, when he wished them good-[[Night|night]] and pleasant
+[[Dreams|dreams]]. But his benevolent wishes were in vain, as far as Briggs and
 Tozer were concerned; for Paul, who lay awake for a long while, and
 often woke afterwards, found that Briggs was ridden by his lesson as a
-nightmare: and that Tozer, whose mind was affected in his sleep by
+[[nightmare]]: and that Tozer, whose mind was affected in his [[Sleep|sleep]] by
 similar causes, in a minor degree talked unknown tongues, or scraps of
-Greek and Latin—it was all one to Paul—which, in the silence of night,
+Greek and Latin—it was all one to Paul—which, in the [[Silence|silence]] of [[Night|night]],
 had an inexpressibly wicked and guilty effect.
 
-Paul had sunk into a sweet sleep, and dreamed that he was walking hand
+Paul had sunk into a sweet [[Sleep|sleep]], and dreamed that he was walking hand
 in hand with Florence through beautiful gardens, when they came to a
 large sunflower which suddenly expanded itself into a gong, and began
 to sound. Opening his eyes, he found that it was a dark, windy morning,
@@ -450,9 +450,9 @@ with a drizzling rain: and that the real gong was giving dreadful note
 of preparation, down in the hall.
 
 So he got up directly, and found Briggs with hardly any eyes, for
-nightmare and grief had made his face puffy, putting his boots on:
+[[nightmare]] and grief had made his face puffy, putting his boots on:
 while Tozer stood shivering and rubbing his shoulders in a very bad
-humour. Poor Paul couldn’t dress himself easily, not being used to it,
+[[Humour|humour]]. Poor Paul couldn’t dress himself easily, not being used to it,
 and asked them if they would have the goodness to tie some strings for
 him; but as Briggs merely said “Bother!” and Tozer, “Oh yes!” he went
 down when he was otherwise ready, to the next storey, where he saw a
@@ -462,7 +462,7 @@ When Paul told her she was dead, she took her gloves off, and did what
 he wanted; and furthermore rubbed his hands to warm them; and gave him
 a kiss; and told him whenever he wanted anything of that sort—meaning
 in the dressing way—to ask for “Melia; which Paul, thanking her very
-much, said he certainly would. He then proceeded softly on his journey
+much, said he certainly would. He then proceeded softly on his [[Journey|journey]]
 downstairs, towards the room in which the young gentlemen resumed their
 studies, when, passing by a door that stood ajar, a voice from within
 cried, “Is that Dombey?” On Paul replying, “Yes, Ma’am:” for he knew
@@ -472,8 +472,8 @@ And in he went.
 Miss Blimber presented exactly the appearance she had presented
 yesterday, except that she wore a shawl. Her little light curls were as
 crisp as ever, and she had already her spectacles on, which made Paul
-wonder whether she went to bed in them. She had a cool little
-sitting-room of her own up there, with some books in it, and no fire
+[[Wonder|wonder]] whether she went to bed in them. She had a cool little
+sitting-room of her own up there, with some books in it, and no [[Fire|fire]]
 But Miss Blimber was never cold, and never sleepy.
 
 Now, Dombey,” said Miss Blimber, “I am going out for a constitutional.”
@@ -497,25 +497,25 @@ Dombey.”
 I am gone, that is to say in the interval between this and breakfast,
 Dombey, I wish you to read over what I have marked in these books, and
 to tell me if you quite understand what you have got to learn. Don’t
-lose time, Dombey, for you have none to spare, but take them
+lose [[Time|time]], Dombey, for you have none to spare, but take them
 downstairs, and begin directly.”
 
 “Yes, Ma’am,” answered Paul.
 
 There were so many of them, that although Paul put one hand under the
-bottom book and his other hand and his chin on the top book, and hugged
+[[Bottom|bottom]] book and his other hand and his chin on the top book, and hugged
 them all closely, the middle book slipped out before he reached the
 door, and then they all tumbled down on the floor. Miss Blimber said,
 “Oh, Dombey, Dombey, this is really very careless!” and piled them up
-afresh for him; and this time, by dint of balancing them with great
+afresh for him; and this [[Time|time]], by dint of balancing them with great
 nicety, Paul got out of the room, and down a few stairs before two of
 them escaped again. But he held the rest so tight, that he only left
 one more on the first floor, and one in the passage; and when he had
-got the main body down into the schoolroom, he set off upstairs again
+got the main [[Body|body]] down into the schoolroom, he set off upstairs again
 to collect the stragglers. Having at last amassed the whole library,
 and climbed into his place, he fell to work, encouraged by a remark
 from Tozer to the effect that he “was in for it now;” which was the
-only interruption he received till breakfast time. At that meal, for
+only interruption he received till breakfast [[Time|time]]. At that meal, for
 which he had no appetite, everything was quite as solemn and genteel as
 at the others; and when it was finished, he followed Miss Blimber
 upstairs.
@@ -525,7 +525,7 @@ books?”
 
 They comprised a little English, and a deal of Latin—names of things,
 declensions of articles and substantives, exercises thereon, and
-preliminary rules—a trifle of orthography, a glance at ancient history,
+preliminary rules—a trifle of orthography, a glance at ancient [[history]],
 a wink or two at modern ditto, a few tables, two or three weights and
 measures, and a little general information. When poor Paul had spelt
 out number two, he found he had no idea of number one; fragments
@@ -544,22 +544,22 @@ to old Glubb, I should be able to do better.”
 not the place for Glubbs of any kind. You must take the books down, I
 suppose, Dombey, one by one, and perfect yourself in the day’s
 instalment of subject A, before you turn at all to subject B. I am
-sorry to say, Dombey, that your education appears to have been very
+sorry to say, Dombey, that your [[Education|education]] appears to have been very
 much neglected.”
 
 “So Papa says,” returned Paul; “but I told you—I have been a weak
-child. Florence knows I have. So does Wickam.”
+[[Child|child]]. Florence knows I have. So does Wickam.”
 
 “Who is Wickam?” asked Miss Blimber.
 
-“She has been my nurse,” Paul answered.
+“She has been my [[Nurse|nurse]],” Paul answered.
 
 “I must beg you not to mention Wickam to me, then,” said Miss Blimber.
 “I couldn’t allow it”.
 
 “You asked me who she was,” said Paul.
 
-“Very well,” returned Miss Blimber; “but this is all very different
+“Very [[Well|well]],” returned Miss Blimber; “but this is all very different
 indeed from anything of that sort, Dombey, and I couldn’t think of
 permitting it. As to having been weak, you must begin to be strong. And
 now take away the top book, if you please, Dombey, and return when you
@@ -578,59 +578,59 @@ suggestive of the knowledge inside of her, that Paul looked upon the
 young lady with consternation, as a kind of learned Guy Fawkes, or
 artificial Bogle, stuffed full of scholastic straw.
 
-He acquitted himself very well, nevertheless; and Miss Blimber,
+He acquitted himself very [[Well|well]], nevertheless; and Miss Blimber,
 commending him as giving promise of getting on fast, immediately
 provided him with subject B; from which he passed to C, and even D
 before dinner. It was hard work, resuming his studies, soon after
 dinner; and he felt giddy and confused and drowsy and dull. But all the
 other young gentlemen had similar sensations, and were obliged to
 resume their studies too, if there were any comfort in that. It was a
-wonder that the great clock in the hall, instead of being constant to
+[[Wonder|wonder]] that the great [[Clock|clock]] in the hall, instead of being constant to
 its first inquiry, never said, “Gentlemen, we will now resume our
 studies,” for that phrase was often enough repeated in its
-neighbourhood. The studies went round like a mighty wheel, and the
+neighbourhood. The studies went round like a mighty [[Wheel|wheel]], and the
 young gentlemen were always stretched upon it.
 
 After tea there were exercises again, and preparations for next day by
 candlelight. And in due course there was bed; where, but for that
-resumption of the studies which took place in dreams, were rest and
+resumption of the studies which took place in [[Dreams|dreams]], were rest and
 sweet forgetfulness.
 
-Oh Saturdays! Oh happy Saturdays, when Florence always came at noon,
+Oh Saturdays! Oh happy Saturdays, when Florence always came at [[Noon|noon]],
 and never would, in any weather, stay away, though Mrs Pipchin snarled
 and growled, and worried her bitterly. Those Saturdays were Sabbaths
 for at least two little Christians among all the Jews, and did the holy
 Sabbath work of strengthening and knitting up a brother’s and a
-sister’s love.
+sister’s [[Love|love]].
 
-Not even Sunday nights—the heavy Sunday nights, whose shadow darkened
-the first waking burst of light on Sunday mornings—could mar those
+Not even [[Sunday]] nights—the heavy [[Sunday]] nights, whose [[Shadow|shadow]] darkened
+the first waking burst of light on [[Sunday]] mornings—could mar those
 precious Saturdays. Whether it was the great sea-shore, where they sat,
 and strolled together; or whether it was only Mrs Pipchin’s dull back
 room, in which she sang to him so softly, with his drowsy head upon her
 arm; Paul never cared. It was Florence. That was all he thought of. So,
-on Sunday nights, when the Doctor’s dark door stood agape to swallow
-him up for another week, the time was come for taking leave of
+on [[Sunday]] nights, when the Doctor’s dark door stood agape to [[Swallow|swallow]]
+him up for another week, the [[Time|time]] was come for taking leave of
 Florence; no one else.
 
-Mrs Wickam had been drafted home to the house in town, and Miss Nipper,
+Mrs Wickam had been drafted [[Home|home]] to the [[house]] in town, and Miss Nipper,
 now a smart young woman, had come down. To many a single combat with
 Mrs Pipchin, did Miss Nipper gallantly devote herself, and if ever Mrs
 Pipchin in all her life had found her match, she had found it now. Miss
 Nipper threw away the scabbard the first morning she arose in Mrs
-Pipchin’s house. She asked and gave no quarter. She said it must be
-war, and war it was; and Mrs Pipchin lived from that time in the midst
+Pipchin’s [[house]]. She asked and gave no quarter. She said it must be
+war, and war it was; and Mrs Pipchin lived from that [[Time|time]] in the midst
 of surprises, harassings, and defiances, and skirmishing attacks that
 came bouncing in upon her from the passage, even in unguarded moments
 of chops, and carried desolation to her very toast.
 
-Miss Nipper had returned one Sunday night with Florence, from walking
+Miss Nipper had returned one [[Sunday]] [[Night|night]] with Florence, from walking
 back with Paul to the Doctor’s, when Florence took from her bosom a
 little piece of paper, on which she had pencilled down some words.
 
 “See here, Susan,” she said. “These are the names of the little books
-that Paul brings home to do those long exercises with, when he is so
-tired. I copied them last night while he was writing.”
+that Paul brings [[Home|home]] to do those long exercises with, when he is so
+tired. I copied them last [[Night|night]] while he was writing.”
 
 “Don’t show ’em to me, Miss Floy, if you please,” returned Nipper, “I’d
 as soon see Mrs Pipchin.”
@@ -643,7 +643,7 @@ you talk like that, when you have books upon books already, and
 masterses and mississes a teaching of you everything continual, though
 my belief is that your Pa, Miss Dombey, never would have learnt you
 nothing, never would have thought of it, unless you’d asked him—when he
-couldn’t well refuse; but giving consent when asked, and offering when
+couldn’t [[Well|well]] refuse; but giving consent when asked, and offering when
 unasked, Miss, is quite two things; I may not have my objections to a
 young man’s keeping company with me, and when he puts the question, may
 say ‘yes,’ but that’s not saying ‘would you be so kind as like me.’”
@@ -651,14 +651,14 @@ say ‘yes,’ but that’s not saying ‘would you be so kind as like me.’”
 “But you can buy me the books, Susan; and you will, when you know why I
 want them.”
 
-“Well, Miss, and why do you want ’em?” replied Nipper; adding, in a
+“[[Well]], Miss, and why do you want ’em?” replied Nipper; adding, in a
 lower voice, “If it was to fling at Mrs Pipchin’s head, I’d buy a
 cart-load.”
 
 “Paul has a great deal too much to do, Susan,” said Florence, “I am
 sure of it.”
 
-“And well you may be, Miss,” returned her maid, “and make your mind
+“And [[Well|well]] you may be, Miss,” returned her maid, “and make your mind
 quite easy that the willing dear is worked and worked away. If those is
 Latin legs,” exclaimed Miss Nipper, with strong feeling—in allusion to
 Paul’s; “give me English ones.”
@@ -685,7 +685,7 @@ books,” said Florence, “and make the coming week a little easier to
 him. At least I want to try. So buy them for me, dear, and I will never
 forget how kind it was of you to do it!”
 
-It must have been a harder heart than Susan Nipper’s that could have
+It must have been a harder heart than [[Susan Nipper]]’s that could have
 rejected the little purse Florence held out with these words, or the
 gentle look of entreaty with which she seconded her petition. Susan put
 the purse in her pocket without reply, and trotted out at once upon her
@@ -697,18 +697,18 @@ them, or that they had had a great many last month, or that they
 expected a great many next week But Susan was not easily baffled in
 such an enterprise; and having entrapped a white-haired youth, in a
 black calico apron, from a library where she was known, to accompany
-her in her quest, she led him such a life in going up and down, that he
+her in her [[Quest|quest]], she led him such a life in going up and down, that he
 exerted himself to the utmost, if it were only to get rid of her; and
-finally enabled her to return home in triumph.
+finally enabled her to return [[Home|home]] in triumph.
 
 With these treasures then, after her own daily lessons were over,
-Florence sat down at night to track Paul’s footsteps through the thorny
+Florence sat down at [[Night|night]] to track Paul’s footsteps through the thorny
 ways of learning; and being possessed of a naturally quick and sound
-capacity, and taught by that most wonderful of masters, love, it was
+capacity, and taught by that most wonderful of masters, [[Love|love]], it was
 not long before she gained upon Paul’s heels, and caught and passed
 him.
 
-Not a word of this was breathed to Mrs Pipchin: but many a night when
+Not a word of this was breathed to Mrs Pipchin: but many a [[Night|night]] when
 they were all in bed, and when Miss Nipper, with her hair in papers and
 herself asleep in some uncomfortable attitude, reposed unconscious by
 her side; and when the chinking ashes in the grate were cold and grey;
@@ -725,18 +725,18 @@ startled look in Paul’s wan face—a flush—a smile—and then a close
 embrace—but God knows how her heart leapt up at this rich payment for
 her trouble.
 
-“Oh, Floy!” cried her brother, “how I love you! How I love you, Floy!”
+“Oh, Floy!” cried her brother, “how I [[Love|love]] you! How I [[Love|love]] you, Floy!”
 
 “And I you, dear!”
 
 “Oh! I am sure of that, Floy.”
 
 He said no more about it, but all that evening sat close by her, very
-quiet; and in the night he called out from his little room within hers,
+quiet; and in the [[Night|night]] he called out from his little room within hers,
 three or four times, that he loved her.
 
 Regularly, after that, Florence was prepared to sit down with Paul on
-Saturday night, and patiently assist him through so much as they could
+Saturday [[Night|night]], and patiently assist him through so much as they could
 anticipate together of his next week’s work. The cheering thought that
 he was labouring on where Florence had just toiled before him, would,
 of itself, have been a stimulant to Paul in the perpetual resumption of
@@ -747,11 +747,11 @@ back.
 
 It was not that Miss Blimber meant to be too hard upon him, or that
 Doctor Blimber meant to bear too heavily on the young gentlemen in
-general. Cornelia merely held the faith in which she had been bred; and
+general. Cornelia merely held the [[Faith|faith]] in which she had been bred; and
 the Doctor, in some partial confusion of his ideas, regarded the young
 gentlemen as if they were all Doctors, and were born grown up.
 Comforted by the applause of the young gentlemen’s nearest relations,
-and urged on by their blind vanity and ill-considered haste, it would
+and urged on by their blind [[Vanity|vanity]] and ill-considered haste, it would
 have been strange if Doctor Blimber had discovered his mistake, or
 trimmed his swelling sails to any other tack.
 
@@ -762,7 +762,7 @@ Blimber reported that he did not make great progress yet, and was not
 naturally clever, Briggs senior was inexorable in the same purpose. In
 short, however high and false the temperature at which the Doctor kept
 his hothouse, the owners of the plants were always ready to lend a
-helping hand at the bellows, and to stir the fire.
+helping hand at the bellows, and to stir the [[Fire|fire]].
 
 Such spirits as he had in the outset, Paul soon lost of course. But he
 retained all that was strange, and old, and thoughtful in his
@@ -773,22 +773,22 @@ than before.
 The only difference was, that he kept his character to himself. He grew
 more thoughtful and reserved, every day; and had no such curiosity in
 any living member of the Doctor’s household, as he had had in Mrs
-Pipchin. He loved to be alone; and in those short intervals when he was
-not occupied with his books, liked nothing so well as wandering about
-the house by himself, or sitting on the stairs, listening to the great
-clock in the hall. He was intimate with all the paperhanging in the
-house; saw things that no one else saw in the patterns; found out
+Pipchin. He loved to be [[Alone|alone]]; and in those short intervals when he was
+not occupied with his books, liked nothing so [[Well|well]] as wandering about
+the [[house]] by himself, or sitting on the stairs, listening to the great
+[[Clock|clock]] in the hall. He was intimate with all the paperhanging in the
+[[house]]; saw things that no one else saw in the patterns; found out
 miniature tigers and lions running up the bedroom walls, and squinting
 faces leering in the squares and diamonds of the floor-cloth.
 
-The solitary child lived on, surrounded by this arabesque work of his
+The solitary [[Child|child]] lived on, surrounded by this arabesque work of his
 musing fancy, and no one understood him. Mrs Blimber thought him “odd,”
 and sometimes the servants said among themselves that little Dombey
 “moped;” but that was all.
 
 Unless young Toots had some idea on the subject, to the expression of
-which he was wholly unequal. Ideas, like ghosts (according to the
-common notion of ghosts), must be spoken to a little before they will
+which he was wholly unequal. Ideas, like [[Ghosts|ghosts]] (according to the
+common notion of [[Ghosts|ghosts]]), must be spoken to a little before they will
 explain themselves; and Toots had long left off asking any questions of
 his own mind. Some mist there may have been, issuing from that leaden
 casket, his cranium, which, if it could have taken shape and form,
@@ -797,18 +797,18 @@ followed the example of the smoke in the Arabian story, as to roll out
 in a thick cloud, and there hang and hover. But it left a little figure
 visible upon a lonely shore, and Toots was always staring at it.
 
-“How are you?” he would say to Paul, fifty times a day. “Quite well,
+“How are you?” he would say to Paul, fifty times a day. “Quite [[Well|well]],
 Sir, thank you,” Paul would answer. “Shake hands,” would be Toots’s
 next advance.
 
 Which Paul, of course, would immediately do. Mr Toots generally said
 again, after a long interval of staring and hard breathing, “How are
-you?” To which Paul again replied, “Quite well, Sir, thank you.”
+you?” To which Paul again replied, “Quite [[Well|well]], Sir, thank you.”
 
 One evening Mr Toots was sitting at his desk, oppressed by
 correspondence, when a great purpose seemed to flash upon him. He laid
 down his pen, and went off to seek Paul, whom he found at last, after a
-long search, looking through the window of his little bedroom.
+long search, looking through the [[Window|window]] of his little bedroom.
 
 “I say!” cried Toots, speaking the moment he entered the room, lest he
 should forget it; “what do you think about?”
@@ -819,42 +819,42 @@ should forget it; “what do you think about?”
 surprising. “If you had to die,” said Paul, looking up into his face—Mr
 Toots started, and seemed much disturbed.
 
-“Don’t you think you would rather die on a moonlight night, when the
-sky was quite clear, and the wind blowing, as it did last night?”
+“Don’t you think you would rather die on a moonlight [[Night|night]], when the
+sky was quite clear, and the [[Wind|wind]] blowing, as it did last [[Night|night]]?”
 
 Mr Toots said, looking doubtfully at Paul, and shaking his head, that
 he didn’t know about that.
 
 “Not blowing, at least,” said Paul, “but sounding in the air like the
-sea sounds in the shells. It was a beautiful night. When I had listened
-to the water for a long time, I got up and looked out. There was a boat
-over there, in the full light of the moon; a boat with a sail.”
+sea sounds in the shells. It was a beautiful [[Night|night]]. When I had listened
+to the [[Water|water]] for a long [[Time|time]], I got up and looked out. There was a boat
+over there, in the full light of the [[Moon|moon]]; a boat with a sail.”
 
-The child looked at him so steadfastly, and spoke so earnestly, that Mr
+The [[Child|child]] looked at him so steadfastly, and spoke so earnestly, that Mr
 Toots, feeling himself called upon to say something about this boat,
 said, “Smugglers.” But with an impartial remembrance of there being two
 sides to every question, he added, “or Preventive.”
 
-“A boat with a sail,” repeated Paul, “in the full light of the moon.
+“A boat with a sail,” repeated Paul, “in the full light of the [[Moon|moon]].
 The sail like an arm, all silver. It went away into the distance, and
 what do you think it seemed to do as it moved with the waves?”
 
 “Pitch,” said Mr Toots.
 
-“It seemed to beckon,” said the child, “to beckon me to come!—There she
+“It seemed to beckon,” said the [[Child|child]], “to beckon me to come!—There she
 is! There she is!”
 
 Toots was almost beside himself with dismay at this sudden exclamation,
 after what had gone before, and cried “Who?”
 
 “My sister Florence!” cried Paul, “looking up here, and waving her
-hand. She sees me—she sees me! Good-night, dear, good-night,
-good-night.”
+hand. She sees me—she sees me! Good-[[Night|night]], dear, good-[[Night|night]],
+good-[[Night|night]].”
 
 His quick transition to a state of unbounded pleasure, as he stood at
-his window, kissing and clapping his hands: and the way in which the
+his [[Window|window]], kissing and clapping his hands: and the way in which the
 light retreated from his features as she passed out of his view, and
-left a patient melancholy on the little face: were too remarkable
+left a patient [[Melancholy|melancholy]] on the little face: were too remarkable
 wholly to escape even Toots’s notice. Their interview being interrupted
 at this moment by a visit from Mrs Pipchin, who usually brought her
 black skirts to bear upon Paul just before dusk, once or twice a week,
@@ -864,20 +864,20 @@ exchanged the usual salutations, to ask Mrs Pipchin how she did. This
 the irascible old lady conceived to be a deeply devised and
 long-meditated insult, originating in the diabolical invention of the
 weak-eyed young man downstairs, against whom she accordingly lodged a
-formal complaint with Doctor Blimber that very night; who mentioned to
+formal complaint with Doctor Blimber that very [[Night|night]]; who mentioned to
 the young man that if he ever did it again, he should be obliged to
 part with him.
 
-The evenings being longer now, Paul stole up to his window every
+The evenings being longer now, Paul stole up to his [[Window|window]] every
 evening to look out for Florence. She always passed and repassed at a
-certain time, until she saw him; and their mutual recognition was a
+certain [[Time|time]], until she saw him; and their mutual recognition was a
 gleam of sunshine in Paul’s daily life. Often after dark, one other
-figure walked alone before the Doctor’s house. He rarely joined them on
+figure walked [[Alone|alone]] before the Doctor’s [[house]]. He rarely joined them on
 the Saturdays now. He could not bear it. He would rather come
 unrecognised, and look up at the windows where his son was qualifying
-for a man; and wait, and watch, and plan, and hope.
+for a man; and wait, and watch, and plan, and [[Hope|hope]].
 
 Oh! could he but have seen, or seen as others did, the slight spare boy
 above, watching the waves and clouds at twilight, with his earnest
-eyes, and breasting the window of his solitary cage when birds flew by,
+eyes, and breasting the [[Window|window]] of his solitary cage when [[Birds|birds]] flew by,
 as if he would have emulated them, and soared away!

@@ -17,13 +17,13 @@ tags:
 ‘Now, Missis,’ said he; ‘where did you come from and where are you going
 to?’
 
-The poor soul confusedly asked the counter-question where she was?
+The poor [[Soul|soul]] confusedly asked the counter-question where she was?
 
 ‘I am the Lock,’ said the man.
 
 ‘The Lock?’
 
-‘I am the Deputy Lock, on job, and this is the Lock-house. (Lock or
+‘I am the Deputy Lock, on job, and this is the Lock-[[house]]. (Lock or
 Deputy Lock, it’s all one, while the t’other man’s in the hospital.)
 What’s your Parish?’
 
@@ -32,13 +32,13 @@ her for her basket, and gazing at him in affright.
 
 ‘You’ll be asked the question down town,’ said the man. ‘They won’t let
 you be more than a Casual there. They’ll pass you on to your settlement,
-Missis, with all speed. You’re not in a state to be let come upon
+Missis, with all [[Speed|speed]]. You’re not in a state to be let come upon
 strange parishes ’ceptin as a Casual.’
 
 ‘’Twas the deadness again!’ murmured Betty Higden, with her hand to her
 head.
 
-‘It was the deadness, there’s not a doubt about it,’ returned the man.
+‘It was the deadness, there’s not a [[Doubt|doubt]] about it,’ returned the man.
 ‘I should have thought the deadness was a mild word for it, if it had
 been named to me when we brought you in. Have you got any friends,
 Missis?’
@@ -54,7 +54,7 @@ anything for you,’ said the Deputy Lock. ‘Have you got any money?’
 
 ‘Sure I do!’
 
-‘Well, you know,’ said the Deputy Lock, shrugging his shoulders with his
+‘[[Well]], you know,’ said the Deputy Lock, shrugging his shoulders with his
 hands in his pockets, and shaking his head in a sulkily ominous manner,
 ‘the parish authorities down town will have it out of you, if you go on,
 you may take your Alfred David.’
@@ -66,7 +66,7 @@ Deputy, ‘for your relief as a Casual and for your being passed to your
 Parish.’
 
 ‘Thank ye kindly, Master, for your warning, thank ye for your shelter,
-and good night.’
+and good [[Night|night]].’
 
 ‘Stop a bit,’ said the Deputy, striking in between her and the door.
 ‘Why are you all of a shake, and what’s your hurry, Missis?’
@@ -87,13 +87,13 @@ strong string of her terror; ‘he ought to have handed her over safe to
 the Parish. That was to be expected of a man of his merits.’
 
 As he stood in the doorway, the poor old careworn wayworn woman burst
-into tears, and clasped her hands, as if in a very agony she prayed to
+into [[Tears|tears]], and clasped her hands, as if in a very agony she prayed to
 him.
 
 ‘As I’ve told you, Master, I’ve the best of friends. This letter will
 show how true I spoke, and they will be thankful for me.’
 
-The Deputy Lock opened the letter with a grave face, which underwent no
+The Deputy Lock opened the letter with a [[Grave|grave]] face, which underwent no
 change as he eyed its contents. But it might have done, if he could have
 read them.
 
@@ -115,16 +115,16 @@ here he drew his sleeve across his forehead, as if this particular
 portion of his humble gains were the result of sheer hard labour and
 virtuous industry; ‘and I won’t stand in your way. Go where you like.’
 
-She was gone out of the Lock-house as soon as he gave her this
-permission, and her tottering steps were on the road again. But, afraid
+She was gone out of the Lock-[[house]] as soon as he gave her this
+permission, and her tottering steps were on the [[Road|road]] again. But, afraid
 to go back and afraid to go forward; seeing what she fled from, in the
 sky-glare of the lights of the little town before her, and leaving a
 confused horror of it everywhere behind her, as if she had escaped it
 in every stone of every market-place; she struck off by side ways, among
-which she got bewildered and lost. That night she took refuge from the
+which she got bewildered and lost. That [[Night|night]] she took refuge from the
 Samaritan in his latest accredited form, under a farmer’s rick; and
 if—worth thinking of, perhaps, my fellow-Christians—the Samaritan had
-in the lonely night, ‘passed by on the other side’, she would have most
+in the lonely [[Night|night]], ‘passed by on the other side’, she would have most
 devoutly thanked High Heaven for her escape from him.
 
 The morning found her afoot again, but fast declining as to the
@@ -137,13 +137,13 @@ in her to die undegraded, were the two distinct impressions left in her
 failing mind. Supported only by a sense that she was bent on conquering
 in her life-long fight, she went on.
 
-The time was come, now, when the wants of this little life were passing
+The [[Time|time]] was come, now, when the wants of this little life were passing
 away from her. She could not have swallowed food, though a table had
 been spread for her in the next field. The day was cold and wet, but
-she scarcely knew it. She crept on, poor soul, like a criminal afraid of
+she scarcely knew it. She crept on, poor [[Soul|soul]], like a criminal afraid of
 being taken, and felt little beyond the terror of falling down while it
-was yet daylight, and being found alive. She had no fear that she would
-live through another night.
+was yet daylight, and being found alive. She had no [[Fear|fear]] that she would
+live through another [[Night|night]].
 
 Sewn in the breast of her gown, the money to pay for her burial was
 still intact. If she could wear through the day, and then lie down to
@@ -155,7 +155,7 @@ the money, and the gentlefolks would say when it was given back to them,
 ‘She prized it, did old Betty Higden; she was true to it; and while she
 lived, she would never let it be disgraced by falling into the hands
 of those that she held in horror.’ Most illogical, inconsequential, and
-light-headed, this; but travellers in the valley of the shadow of death
+light-headed, this; but travellers in the valley of the [[Shadow|shadow]] of [[Death|death]]
 are apt to be light-headed; and worn-out old people of low estate have
 a trick of reasoning as indifferently as they live, and doubtless
 would appreciate our Poor Law more philosophically on an income of ten

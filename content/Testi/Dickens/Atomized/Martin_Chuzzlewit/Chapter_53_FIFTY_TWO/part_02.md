@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 53: FIFTY TWO (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 53: FIFTY TWO (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -20,7 +20,7 @@ quite prepared to go.
 ‘So you think,’ said Martin, ‘that his old faults are, in some degree,
 of my creation, do you?’
 
-‘Well, sir,’ retorted Mr Tapley, ‘I’m werry sorry, but I can’t unsay it.
+‘[[Well]], sir,’ retorted Mr Tapley, ‘I’m werry sorry, but I can’t unsay it.
 It’s hardly fair of you, sir, to make a ignorant man conwict himself in
 this way, but I DO think so. I am as respectful disposed to you, sir, as
 a man can be; but I DO think so.’
@@ -32,7 +32,7 @@ of Martin’s face, as he looked attentively at him, without replying.
 
 ‘Werry much so,’ Mr Tapley replied.
 
-‘And I a learned, well-instructed man, you think?’
+‘And I a learned, [[Well|well]]-instructed man, you think?’
 
 ‘Likewise wery much so,’ Mr Tapley answered.
 
@@ -53,11 +53,11 @@ both. That’s all, sir.’
 
 His frankness was so genuine that it plainly WAS all.
 
-‘Perhaps,’ said Martin, ‘he may think you are going to desert him, and
+‘Perhaps,’ said Martin, ‘he may think you are going to [[Desert|desert]] him, and
 to serve me?’
 
 ‘I have served him in that sort of way, sir,’ replied Mark, without the
-loss of any atom of his self-possession; ‘and we have been that sort of
+loss of any atom of his [[Self|self]]-possession; ‘and we have been that sort of
 companions in misfortune, that my opinion is, he don’t believe a word on
 it. No more than you do, sir.’
 
@@ -89,11 +89,11 @@ busy.
 
 But when he had put Mr Chuzzlewit’s clothes in good order for dressing,
 and when that gentleman was dressed and sitting at his breakfast,
-Mr Tapley’s feelings of wonder began to return upon him with great
+Mr Tapley’s feelings of [[Wonder|wonder]] began to return upon him with great
 violence; and, standing beside the old man with a napkin under his
 arm (it was as natural and easy to joke to Mark to be a butler in the
 Temple, as it had been to volunteer as cook on board the Screw), he
-found it difficult to resist the temptation of casting sidelong glances
+found it difficult to resist the [[Temptation|temptation]] of casting sidelong glances
 at him very often. Nay, he found it impossible; and accordingly yielded
 to this impulse so often, that Martin caught him in the fact some fifty
 times. The extraordinary things Mr Tapley did with his own face when
@@ -104,7 +104,7 @@ interested in the habits and customs of the flies upon the ceiling, or
 the sparrows out of doors; or the overwhelming politeness with which
 he endeavoured to hide his confusion by handing the muffin; may not
 unreasonably be assumed to have exercised the utmost power of feature
-that even Martin Chuzzlewit the elder possessed.
+that even [[Martin Chuzzlewit]] the elder possessed.
 
 But he sat perfectly quiet and took his breakfast at his leisure, or
 made a show of doing so, for he scarcely ate or drank, and frequently
@@ -113,7 +113,7 @@ down to his breakfast at the same table; and Mr Chuzzlewit, quite silent
 still, walked up and down the room.
 
 Mark cleared away in due course, and set a chair out for him, in which,
-as the time drew on towards ten o’clock, he took his seat, leaning his
+as the [[Time|time]] drew on towards ten o’[[Clock|clock]], he took his seat, leaning his
 hands upon his stick, and clenching them upon the handle, and resting
 his chin on them again. All his impatience and abstraction of manner had
 vanished now; and as he sat there, looking, with his keen eyes, steadily
@@ -135,7 +135,7 @@ his eyebrows to the highest possible pitch, implying thereby that he
 considered himself in an unsatisfactory position. Mr Chuzzlewit received
 him very courteously.
 
-Mark waited at the door for Tom Pinch and his sister, who were coming up
+Mark waited at the door for [[Tom Pinch]] and his sister, who were coming up
 the stairs. The old man went to meet them; took their hands in his;
 and kissed her on the cheek. As this looked promising, Mr Tapley smiled
 benignantly.

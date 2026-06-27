@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-The lady who alighted from the London coach had no sooner been
+The lady who alighted from the [[London]] coach had no sooner been
 installed in number twenty-five, and made some alteration in her
 travelling-dress, than she indited a note to Joseph Overton, esquire,
 solicitor, and mayor of Great Winglebury, requesting his immediate
 attendance on private business of paramount importance—a summons which
-that worthy functionary lost no time in obeying; for after sundry
+that worthy functionary lost no [[Time|time]] in obeying; for after sundry
 openings of his eyes, divers ejaculations of ‘Bless me!’ and other
 manifestations of surprise, he took his broad-brimmed hat from its
 accustomed peg in his little front office, and walked briskly down the
@@ -30,16 +30,16 @@ crowd of officious waiters, to the door of number twenty-five.
 ‘Show the gentleman in,’ said the stranger lady, in reply to the
 foremost waiter’s announcement. The gentleman was shown in accordingly.
 
-The lady rose from the sofa; the mayor advanced a step from the door;
+The lady [[Rose|rose]] from the sofa; the mayor advanced a step from the door;
 and there they both paused, for a minute or two, looking at one another
 as if by mutual consent. The mayor saw before him a buxom,
 richly-dressed female of about forty; the lady looked upon a sleek man,
 about ten years older, in drab shorts and continuations, black coat,
 neckcloth, and gloves.
 
-‘Miss Julia Manners!’ exclaimed the mayor at length, ‘you astonish me.’
+‘Miss [[Julia]] Manners!’ exclaimed the mayor at length, ‘you astonish me.’
 
-‘That’s very unfair of you, Overton,’ replied Miss Julia, ‘for I have
+‘That’s very unfair of you, Overton,’ replied Miss [[Julia]], ‘for I have
 known you, long enough, not to be surprised at anything you do, and you
 might extend equal courtesy to me.’
 
@@ -52,7 +52,7 @@ was the cool rejoinder.
 ‘And then to ask me—me—of all people in the world—a man of my age and
 appearance—mayor of the town—to promote such a scheme!’ pettishly
 ejaculated Joseph Overton; throwing himself into an arm-chair, and
-producing Miss Julia’s letter from his pocket, as if to corroborate the
+producing Miss [[Julia]]’s letter from his pocket, as if to corroborate the
 assertion that he _had_ been asked.
 
 ‘Now, Overton,’ replied the lady, ‘I want your assistance in this
@@ -63,9 +63,9 @@ Cornberry, who—who—’
 who left you his property unencumbered with the addition of himself,’
 suggested the mayor.
 
-‘Well,’ replied Miss Julia, reddening slightly, ‘in the lifetime of the
+‘[[Well]],’ replied Miss [[Julia]], reddening slightly, ‘in the lifetime of the
 poor old dear, the property had the incumbrance of your management; and
-all I will say of that, is, that I only wonder it didn’t die of
+all I will say of that, is, that I only [[Wonder|wonder]] it didn’t die of
 consumption instead of its master. You helped yourself then:—help me
 now.’
 
@@ -75,7 +75,7 @@ appropriated by mistake, passed across his mind he hemmed
 deprecatingly, smiled blandly, remained silent for a few seconds; and
 finally inquired, ‘What do you wish me to do?’
 
-‘I’ll tell you,’ replied Miss Julia—‘I’ll tell you in three words. Dear
+‘I’ll tell you,’ replied Miss [[Julia]]—‘I’ll tell you in three words. Dear
 Lord Peter—’
 
 ‘That’s the young man, I suppose—’ interrupted the mayor.
@@ -86,37 +86,37 @@ resentment of his family; and we have therefore thought it better to
 make the match a stolen one. He left town, to avoid suspicion, on a
 visit to his friend, the Honourable Augustus Flair, whose seat, as you
 know, is about thirty miles from this, accompanied only by his
-favourite tiger. We arranged that I should come here alone in the
-London coach; and that he, leaving his tiger and cab behind him, should
+favourite tiger. We arranged that I should come here [[Alone|alone]] in the
+[[London]] coach; and that he, leaving his tiger and cab behind him, should
 come on, and arrive here as soon as possible this afternoon.’
 
-‘Very well,’ observed Joseph Overton, ‘and then he can order the
+‘Very [[Well|well]],’ observed Joseph Overton, ‘and then he can order the
 chaise, and you can go on to Gretna Green together, without requiring
 the presence or interference of a third party, can’t you?’
 
-‘No,’ replied Miss Julia. ‘We have every reason to believe—dear Lord
+‘No,’ replied Miss [[Julia]]. ‘We have every reason to believe—dear Lord
 Peter not being considered very prudent or sagacious by his friends,
 and they having discovered his attachment to me—that, immediately on
 his absence being observed, pursuit will be made in this direction:—to
 elude which, and to prevent our being traced, I wish it to be
-understood in this house, that dear Lord Peter is slightly deranged,
+understood in this [[house]], that dear Lord Peter is slightly deranged,
 though perfectly harmless; and that I am, unknown to him, awaiting his
 arrival to convey him in a post-chaise to a private asylum—at Berwick,
 say. If I don’t show myself much, I dare say I can manage to pass for
 his mother.’
 
 The thought occurred to the mayor’s mind that the lady might show
-herself a good deal without fear of detection; seeing that she was
-about double the age of her intended husband. He said nothing, however,
+herself a good deal without [[Fear|fear]] of detection; seeing that she was
+about [[Double|double]] the age of her intended husband. He said nothing, however,
 and the lady proceeded.
 
 ‘With the whole of this arrangement dear Lord Peter is acquainted; and
 all I want you to do, is, to make the delusion more complete by giving
 it the sanction of your influence in this place, and assigning this as
-a reason to the people of the house for my taking the young gentleman
+a reason to the people of the [[house]] for my taking the young gentleman
 away. As it would not be consistent with the story that I should see
 him until after he has entered the chaise, I also wish you to
-communicate with him, and inform him that it is all going on well.’
+communicate with him, and inform him that it is all going on [[Well|well]].’
 
 ‘Has he arrived?’ inquired Overton.
 
@@ -132,7 +132,7 @@ and in mysterious terms, to acquaint you with the number of his room.’
 
 ‘Bless me!’ exclaimed the mayor, rising from his seat, and searching
 his pockets—‘most extraordinary circumstance—he has arrived—mysterious
-note left at my house in a most mysterious manner, just before
+note left at my [[house]] in a most mysterious manner, just before
 yours—didn’t know what to make of it before, and certainly shouldn’t
 have attended to it.—Oh! here it is.’ And Joseph Overton pulled out of
 an inner coat-pocket the identical letter penned by Alexander Trott.

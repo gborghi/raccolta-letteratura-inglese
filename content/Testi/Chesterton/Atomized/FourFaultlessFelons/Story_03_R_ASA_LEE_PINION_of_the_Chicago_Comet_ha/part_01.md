@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — R. ASA LEE PINION, of the Chicago Comet, had crossed half of America, (part 1)"
+title: "[[FourFaultlessFelons]] — R. ASA LEE PINION, of the Chicago Comet, had crossed half of [[America]], (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-MR. ASA LEE PINION, of the Chicago Comet, had crossed half of America,
+MR. ASA LEE PINION, of the Chicago Comet, had crossed half of [[America]],
 
 the whole of the Atlantic, and eventually even Piccadilly Circus, in
 
@@ -26,15 +26,15 @@ put in his paper. He did get a story, but he did not put it in his paper.
 
 It was too tall a story, even for the Comet. Perhaps the metaphor is true
 
-in more ways than one, and the fable was tall like a church-spire or a
+in more ways than one, and the [[Fable|fable]] was tall like a church-spire or a
 
-tower among the stars: beyond comprehension as well as belief. Anyhow,
+tower among the [[Stars|stars]]: beyond comprehension as [[Well|well]] as belief. Anyhow,
 
 Mr. Pinion decided not to risk his readers' comments. But that is no
 
 reason why the present writer, writing for more exalted, spiritual and
 
-divinely credulous readers, should imitate his silence.
+divinely credulous readers, should imitate his [[Silence|silence]].
 
 
 
@@ -50,7 +50,7 @@ ostentatious, did no particular harm to anybody but himself; and if he
 
 associated with the dissipated and degraded, he had never been known to
 
-interfere with the innocent or the reputable. But while it was credible
+interfere with the [[Innocent|innocent]] or the reputable. But while it was credible
 
 enough that the nobleman was not so black as he was painted, he certainly
 
@@ -74,15 +74,15 @@ parallels to his own.
 
 But there was one fact which struck the journalist as odd even at the
 
-beginning. He understood well enough that it would be difficult to catch
+beginning. He understood [[Well|well]] enough that it would be difficult to catch
 
 the Count anywhere, as he whirled from one social engagement to another,
 
 in the manner appropriately called "fast". And he was not offended when
 
-Marillac said he could only spare ten minutes at his London club before
+Marillac said he could only spare ten minutes at his [[London]] club before
 
-going on to a theatrical first--night and other ensuing festivities.
+going on to a theatrical first--[[Night|night]] and other ensuing festivities.
 
 During that ten minutes, however, Marillac was quite polite, answered the
 
@@ -104,7 +104,7 @@ the naughty new play with all the naughty new people."
 
 
 
-"Yes," grunted a big man standing in front of the fire. "He's gone with
+"Yes," grunted a big man standing in front of the [[Fire|fire]]. "He's gone with
 
 the naughtiest person of all, the author, Mrs. Prague. Authoress, I
 
@@ -112,9 +112,9 @@ suppose she'd call herself--being only cultured and not educated."
 
 
 
-"He always goes to the first night of those plays," assented the other.
+"He always goes to the first [[Night|night]] of those plays," assented the other.
 
-"P'raps he thinks there won't be a second night, if the police raid the
+"P'raps he thinks there won't be a second [[Night|night]], if the police raid the
 
 place."
 
@@ -130,13 +130,13 @@ much less loud and casual than the Englishmen.
 
 "Naked Souls," said the first man with a faint groan. "Dramatized version
 
-of the world-shaking novel Pan's Pipes. Grapples grimly with the facts of
+of the world-shaking [[Novel|novel]] Pan's Pipes. Grapples grimly with the facts of
 
 life."
 
 
 
-"Also bold, breezy and back to Nature," said the man by the fire. "We
+"Also bold, breezy and back to [[Nature]]," said the man by the [[Fire|fire]]. "We
 
 hear a lot just now about Pan's Pipes. They seem to me a little too like
 
@@ -176,7 +176,7 @@ at a distance, from his buoyant gestures and rapid walk. All that was
 
 quite in character, but the tone of the group was different. One figure
 
-alone out of the four seemed in some sense of Marillac's world, having
+[[Alone|alone]] out of the four seemed in some sense of Marillac's world, having
 
 something of the carriage of a military officer, with that fine shade
 
@@ -194,7 +194,7 @@ powerful and a big head not yet bald but striped with rather thin brown
 
 hair. But the arresting thing about him was that indescribable suggestion
 
-of dust or cobwebs that belongs to a strong man leading a sedentary life,
+of [[Dust|dust]] or cobwebs that belongs to a strong man leading a sedentary life,
 
 possibly scientific or scholarly, but certainly obscure, in its method if
 

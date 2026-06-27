@@ -1,5 +1,5 @@
 ---
-title: "Henry V — Act III, Scene 7 — exchange (CONSTABLE) [4]"
+title: "[[Henry V]] — Act III, Scene 7 — exchange (CONSTABLE) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/HENRY-V-(Shakespeare)"
@@ -17,15 +17,15 @@ tags:
 |---|---|
 | CONSTABLE | Nay, for methought yesterday your mistress shrewdly shook your back. BOURBON So perhaps did yours. |
 | CONSTABLE | Mine was not bridled. BOURBON O then belike she was old and gentle, and you rode like a kern of Ireland, your French hose off, and in your strait strossers. |
-| CONSTABLE | You have good judgement in horsemanship. BOURBON Be warned by me then: they that ride so, and ride not warily, fall into foul bogs. I had rather have my horse to my mistress. |
+| CONSTABLE | You have good judgement in horsemanship. BOURBON Be warned by me then: they that ride so, and ride not warily, fall into foul bogs. I had rather have my [[Horse|horse]] to my mistress. |
 | CONSTABLE | I had as lief have my mistress a jade. BOURBON I tell thee, Constable, my mistress wears his own hair. |
 | CONSTABLE | I could make as true a boast as that, if I had a sow to my mistress. BOURBON ‛Le chien est retourné à son propre vomissement, et la truie lavée au bourbier.’ Thou makest use of anything. |
-| CONSTABLE | Yet do I not use my horse for my mistress, or any such proverb so little kin to the purpose. |
-| RAMBURES | My Lord Constable, the armour that I saw in your tent tonight, are those stars or suns upon it? |
-| CONSTABLE | Stars, my lord. BOURBON Some of them will fall tomorrow, I hope. |
-| CONSTABLE | And yet my sky shall not want. BOURBON That may be, for you bear a many superfluously, and ’twere more honour some were away. |
-| CONSTABLE | Even as your horse bears your praises, who would trot as well were some of your brags dismounted. BOURBON Would I were able to load him with his desert! Will it never be day? I will trot tomorrow a mile, and my way shall be paved with English faces. |
-| CONSTABLE | I will not say so, for fear I should be faced out of my way. But I would it were morning, for I would fain be about the ears of the English. |
+| CONSTABLE | Yet do I not use my [[Horse|horse]] for my mistress, or any such proverb so little kin to the purpose. |
+| RAMBURES | My Lord Constable, the armour that I saw in your tent tonight, are those [[Stars|stars]] or suns upon it? |
+| CONSTABLE | [[Stars]], my lord. BOURBON Some of them will fall tomorrow, I [[Hope|hope]]. |
+| CONSTABLE | And yet my sky shall not want. BOURBON That may be, for you bear a many superfluously, and ’twere more [[Honour|honour]] some were away. |
+| CONSTABLE | Even as your [[Horse|horse]] bears your praises, who would trot as [[Well|well]] were some of your brags dismounted. BOURBON Would I were able to load him with his [[Desert|desert]]! Will it never be day? I will trot tomorrow a mile, and my way shall be paved with English faces. |
+| CONSTABLE | I will not say so, for [[Fear|fear]] I should be faced out of my way. But I would it were morning, for I would fain be about the ears of the English. |
 | RAMBURES | Who will go to hazard with me for twenty prisoners? |
 | CONSTABLE | You must first go yourself to hazard, ere you have them. BOURBON ’Tis midnight. I’ll go arm myself. Exit ORLÉANS The Duke of Bourbon longs for morning. |
 | RAMBURES | He longs to eat the English. |
@@ -35,5 +35,5 @@ tags:
 | CONSTABLE | Nor will do none tomorrow. He will keep that good name still. ORLÉANS I know him to be valiant. |
 | CONSTABLE | I was told that by one that knows him better than you. ORLÉANS What’s he? |
 | CONSTABLE | Marry, he told me so himself, and he said he cared not who knew it. ORLÉANS He needs not; it is no hidden virtue in him. |
-| CONSTABLE | By my faith, sir, but it is. Never anybody saw it but his lackey. ’Tis a hooded valour, and when it appears it will bate. ORLÉANS ‘Ill will never said well.’ no |
-| CONSTABLE | I will cap that proverb with ‘There is flattery in friendship.’ ORLÉANS And I will take up that with ‘Give the devil his due.’ |
+| CONSTABLE | By my [[Faith|faith]], sir, but it is. Never anybody saw it but his lackey. ’Tis a hooded valour, and when it appears it will bate. ORLÉANS ‘Ill will never said [[Well|well]].’ no |
+| CONSTABLE | I will cap that proverb with ‘There is flattery in [[Friendship|friendship]].’ ORLÉANS And I will take up that with ‘Give the devil his due.’ |

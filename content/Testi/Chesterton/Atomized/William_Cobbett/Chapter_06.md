@@ -19,7 +19,7 @@ CHAPTER VI
 THE RURAL RIDER
 
 Even the most elementary sketches of Cobbett have tended
-to give too much of his biography and too little of his life.
+to give too much of his [[Biography|biography]] and too little of his life.
 He had a picturesque career, if the pictures sometimes seemed
 to his critics to be comic pictures; he was always fighting,
 he was flung into gaol, he went wandering in foreign lands.
@@ -28,23 +28,23 @@ directed towards peace; a peace that he never fully gained.
 I have said that he swept across the country like a whirlwind;
 but in the heart of the whirlwind there is a calm.
 The picture in his own mind was a quiet picture; only, he was
-never left alone to enjoy it quietly.  Perhaps it would be truer
-to say that he never left himself alone to enjoy it quietly.
+never left [[Alone|alone]] to enjoy it quietly.  Perhaps it would be truer
+to say that he never left himself [[Alone|alone]] to enjoy it quietly.
 Anyhow, it was only occasionally in his wanderings through the world
-that he encountered the romantic adventure of staying at home.
+that he encountered the romantic adventure of staying at [[Home|home]].
 In the midst of his mind there was a secret landscape of field
 and farm under the evening light, which was continually being jerked
 out of the field of vision like a picture in a jolting camera.
 It is very difficult in practice to present the whole of his mind
 except as a fragmentary, mind; but perhaps the most continuous
 scroll of all that he liked and thought about can be found
-in the long, rolling panorama of the Rural Rides.
+in the long, [[rolling]] panorama of the Rural Rides.
 
-A little while before the affair of his imprisonment he had taken a farm
-at Botley in Hampshire; where he lived for a time the sort of life
+A little while before the affair of his [[Imprisonment|imprisonment]] he had taken a farm
+at Botley in Hampshire; where he lived for a [[Time|time]] the sort of life
 he liked, spoiling his children and sparring with his neighbours;
 especially with the Botley parson.  This reverend gentleman figured
-so prominently in Cobbett's satire as to become a sort of proverb;
+so prominently in Cobbett's [[Satire|satire]] as to become a sort of proverb;
 and yet the origin of a proverb is often difficult to trace.
 And it is by no means clear in what respect the infamy of the incumbent
 of Botley differed from that of other country clergymen.  But he stands
@@ -58,7 +58,7 @@ And second, that his first serious reason for dislike concerned
 the corruption of pluralism, and especially family favouritism.
 He execrated for economic reasons the large clerical families
 that kept their hold on a vast variety of livings and tithes.
-He was as yet unconscious that this road was leading him,
+He was as yet unconscious that this [[Road|road]] was leading him,
 past the comfortable vicarage which he cursed as he passed it,
 towards the gateway of a grey ruin that was still called an abbey.
 
@@ -68,32 +68,32 @@ had radiated from there, and it makes a sort of starting-point
 for considering him in his capacity of a Rural Rider.
 
 The Rural Rides are a landscape; but they are also a portrait.
-Sometimes we seem to be watching under rolling clouds
-the rolling country of the shires, valleys coloured like maps,
+Sometimes we seem to be watching under [[rolling]] clouds
+the [[rolling]] country of the shires, valleys coloured like maps,
 or downs that seem to shoulder away the sky; and then again
 we are only looking at the changes on one stubborn face
-as it relapses into good humour or hardens into hate.
+as it relapses into good [[Humour|humour]] or hardens into hate.
 That combination of the object and the subject is what makes
 writing into literature; and the Rural Rides are pure literature.
 Perhaps they are all the more literature because they
 might be counted loose and colloquial even for language.
 It would be a breathless experience even to hear a man talk
 in as slap-dash a style as Cobbett wrote; but the thing
-would be brilliant as well as breathless.  Everything comes
+would be brilliant as [[Well|well]] as breathless.  Everything comes
 into this great soliloquy:  details, dogmas, personalities,
 political debates, private memories, mere exclamations such
-as a man utters in really riding along a road.  But through
+as a man utters in really riding along a [[Road|road]].  But through
 all there is the assumption that heaven has appointed him,
 or he has appointed himself (and perhaps he was too prone
 to confuse the conditions), to be a sort of national surveyor
 of the whole land of England and publish his report to the world.
 His notes simply as notes never fail to be amusing.
-Anybody with his wits about him may well read Cobbett for amusement,
+Anybody with his wits about him may [[Well|well]] read Cobbett for amusement,
 even when there is no question of agreement.  He could make great
 buildings and even landscapes look ludicrous, like landscapes
 of topsy-turvydom, when he turned on them that Gargantuan grin.
-We shall note later how for him great London was simply;
-'the Wen,' a big boil and repulsive eruption on the body politic.
+We shall note later how for him great [[London]] was simply;
+'the Wen,' a big boil and repulsive eruption on the [[Body|body]] politic.
 We shall see how Old Sarum was `the Accursed Hill.'
 He made the Martello towers look even sillier than they look now.
 Nothing was ever better in its way than the dramatic
@@ -224,7 +224,7 @@ twice two venal Ministers is four venal Ministers;
 twice three pluralistic parsonages is six pluralistic parsonages
 like those possessed by the Reverend Mr. Hugg of Netherwallop,'
 and so on.  If he had set out a system of astronomy,
-and had merely to give the names of the stars, he would have
+and had merely to give the names of the [[Stars|stars]], he would have
 been unable to mention Mars without saying something caustic
 about Lord Wellington or Mercury, without a few contemporary
 illustrations of the connection between commerce and theft.
@@ -235,16 +235,16 @@ fill Cobbett with sentiments sufficient to keep him warm.
 On that side the grammatical experiment illustrates only his
 obvious pugnacity; his tendency to personify everything in order
 to pelt it with personalities.  But it illustrates something
-else as well.  And it is exactly that something else that seems
+else as [[Well|well]].  And it is exactly that something else that seems
 in a sense contrary, and yet is the completion of the character,
 without which it cannot be understood.
 
-There was something cool about Cobbett, for all his fire;
-and that was his educational instinct, his love of alphabetical
+There was something cool about Cobbett, for all his [[Fire|fire]];
+and that was his educational instinct, his [[Love|love]] of alphabetical
 and objective teaching.  He was a furious debater; but he was
 a mild and patient schoolmaster.  His dogmatism left off
 where most dogmatism begins.  He would always bully an equal;
-but he would never have bullied a pupil.  Put a child before him
+but he would never have bullied a pupil.  Put a [[Child|child]] before him
 to be taught arithmetic or the use of the globes, and he became
 in the most profound and even touching sense a different man.
 There came about him like a cold air out of the clean heavens,
@@ -254,7 +254,7 @@ perhaps too much now as too little then; something that
 only too easily provides perorations for politicians
 or themes for ethical societies; but something which does
 exist in some men and did emphatically exist in this one.
-The pure passion of education went through him like a purging wind;
+The pure passion of [[Education|education]] went through him like a purging [[Wind|wind]];
 he thirsted to tell young people about things-not about theories
 or parties or political allegations, but about things.
 Whether they were grammatical roots or vegetable roots or cube roots,
@@ -270,7 +270,7 @@ of his genius was poured into simplifying his lesson to suit
 it to the village idiot.
 
 For this reason also, and not only for the other,
-he had decorated his Grammar with grotesque caricatures.
+he had decorated his Grammar with [[Grotesque|grotesque]] caricatures.
 He was resolved to make English grammar amusing; and he did.
 It is not true that his only pleasure was in execrating
 somebody or even exposing something.  Stronger even than
@@ -317,12 +317,12 @@ in attitudes so active as to amount to the animation of a cinema.
 We can picture him swaggering about on his own farm at Botley,
 in the red waistcoat that he wore so appropriately, like a
 defiance to a whole herd of bulls.  We can watch him peering
-over fences and hedges in his eager and shameless vanity,
+over fences and hedges in his eager and shameless [[Vanity|vanity]],
 enquiring everywhere about Cobbett's Corn (the name he modestly
-gave to the maize he brought from America), and sternly admonishing
+gave to the maize he brought from [[america|America]]), and sternly admonishing
 those who were unconscious of their good luck in possessing it.
-We can behold him as he curses London from the hills;
-he always called it the Wen.  But here again his humour is
+We can behold him as he curses [[London]] from the hills;
+he always called it the Wen.  But here again his [[Humour|humour]] is
 more subtle than it seems.  We have noticed the same offhand
 offensiveness in his quotations in the English Grammar.
 With his artless artistry, he gives more weight to this
@@ -477,15 +477,15 @@ servile may possibly have a fortune by favouritism.
 But by no possibility could he save enough out of common wages to buy
 a farm, still less a shop in the town where land is priceless;
 and those are the sort of things for which men save.
-But it is the paradox of the whole position that the Utilitarians
+But it is the [[Paradox|paradox]] of the whole position that the Utilitarians
 who were always preaching prudence committed this country
-to one of the most really reckless revolutions in history--
-the industrial revolution.  They destroyed agriculture and turned
+to one of the most really reckless revolutions in [[history]]--
+the [[Industrial Revolution|industrial revolution]].  They destroyed agriculture and turned
 England into a workshop; a workshop in which the workers were liable
 at any moment to be locked up and left to eat hammers and saws.
 The Radicals who did that were as picturesque as pirates, so far
 as pirates become specially picturesque when they burn their boats.
-In truth they were not so much metaphorically burning their boats:
+In [[Truth|truth]] they were not so much metaphorically burning their boats:
 they were almost literally burning their barns.  But there is
 something fitting in the accident by which the term Free Trader
 used to mean a smuggler.  If romantic recklessness be the test,
@@ -508,15 +508,15 @@ of the economist were balanced.  He saw that even when
 the economists were right in recommending economy, they were
 recommending it to people who could not possibly be economical.
 He saw that the economists were not even creating their own
-monster of an Economic Man; they were creating nothing
+[[Monster|monster]] of an Economic Man; they were creating nothing
 but the thriftless thousands of a wandering proletariat.
-As for the ordinary Whigs and champions of Reform, he did
+As for the ordinary Whigs and champions of [[Reform]], he did
 not believe they were even trying to create anything except
 salaries and sinecures for themselves.
 
 Then again, his coarseness is not only touched by shrewdness
 but by tenderness; of a sort much too shrewd to be sentimental.
-His charity was not cheap.  To say that he had a sense of human equality
+His [[Charity|charity]] was not cheap.  To say that he had a sense of human equality
 will convey little to those who can make no sense of that sense.
 Perhaps it would be more intelligible to say that there are some
 who sympathise with the poor from the outside and some who can
@@ -614,7 +614,7 @@ still food enough for the citizens and even the slaves.'
 A Victorian gentleman in the Hungry Forties simply sat down
 at his groaning mahogany and said, `There is enough food.'
 A planter in South Carolina might well have been heard saying,
-`The Blockade is starving the blacks as well as ourselves,'
+`The Blockade is starving the blacks as [[Well|well]] as ourselves,'
 The merchant in Manchester was only heard saying, `There may be a slump;
 but with the next boom we shall completely recover ourselves.'
 That is the mental blank peculiar to this mentality.  They did
@@ -668,17 +668,17 @@ fashion how he had lashed the world like Isaiah or Juvenal,
 and refused to descend to the bathos of slapping a child.
 Cobbett had lashed the world like nobody in the world but Cobbett.
 And he had a better right than Hugo to say truly of himself
-that `thunder should be mild at home.'
+that `thunder should be mild at [[Home|home]].'
 
 But when all this element in the great Englishman has been
 allowed for, it is still true that there was one quality
 in him that was not English.  He was extremely provocative.
 He was as provocative as an.  Irishman.  He refused to leave
-people alone.  He refused emphatically to let sleeping dogs lie.
+people [[Alone|alone]].  He refused emphatically to let sleeping [[dogs]] lie.
 It is not surprising that at the end he had the whole pack
 in full cry after him; and that it only gave him a further
 opportunity for turning on them and telling them they were all curs
-and mongrels, not to mention mad dogs.  He always trailed his coat,
+and mongrels, not to mention mad [[dogs]].  He always trailed his coat,
 especially so as to make men say that he had turned his coat.
 He rejoiced and exulted in a scene.  There is nothing more vivid than
 that scene on which Mr. Edward Thomas touched with great felicity,
@@ -817,14 +817,14 @@ version of their history and character, when he saw a strange object
 or ornament or accident standing up in those smooth and well-ordered
 grounds neatly fenced from the road.  It was actually in the shape
 of a cross; `big enough and broad enough to crucify a man on.'
-With something that makes his staccato style sound for the first time
+With something that makes his staccato style sound for the first [[Time|time]]
 like broken speech, he repeats more than once, `Aye, big enough and
 broad enough to crucify a man on.'  And then he says that his horse,
 who was accustomed to the ambling trot with which he rambled
 about for his adventures, was startled by the spur or the gesture
 which urged him to sudden activity.  He must have gone, he says,
 at a great and very uncommon pace as he got away from that place.
-`I think he [meaning the horse] must often have wondered what gave
+`I think he [meaning the [[Horse|horse]]] must often have wondered what gave
 me wings that once and that once only.'
 
 That curious incident is all the more impressive because
@@ -834,9 +834,9 @@ about like a fury slinging flame, always had a rather
 fine instinct of sobriety and simplicity when it came
 to the few things, rather in the background of his mind,
 which he did really though vaguely reverence.  But in this ease
-something rather more unusual and even uncanny was involved.
+something rather more unusual and even [[Uncanny|uncanny]] was involved.
 A man has been pottering about from farm to farm and town to town
-on a trotting horse, inspecting crops, making notes about wages,
+on a trotting [[Horse|horse]], inspecting crops, making notes about wages,
 cocking an eye at the weather and calling for a glass of ale
 at the inn; but all with the sense that this older England is
 passing away, and feeling it more and more as he comes nearer
@@ -844,7 +844,7 @@ to Surrey and the suburbs, or to the great new estates run
 by the new gentry.  Their names are strange names; and he has
 suspicions that even those names are not always their own.
 Their faces are strange faces; associated in his mind with
-sketches of eastern travel or with pictures in the family Bible.
+sketches of eastern travel or with pictures in the family [[Bible]].
 They are very busy; very orderly; in their own way
 very philanthropic.  But what are they doing, what are they
 driving at, what is the ultimate design by which they build?
@@ -858,12 +858,12 @@ in the sunlight, something that seems crude and freshly
 carpentered and yet frightfully familiar; not a.
 symbol but rather a substantial purpose; not an emblem but an end.
 And we know not what shock of revelation or revulsion all
-but unhorsed that strong rider as on the road to Damascus;
+but unhorsed that strong rider as on the [[Road|road]] to Damascus;
 something indescribable, overwhelming a plain man in a passion
 of subtleties, that had no outlet but a rush of flight;
 and far away down the darkling English lanes the throb
-and thunder of the flying hooves.  For that unholy cross
+and thunder of the flying hooves.  For that unholy [[Cross|cross]]
 the heathen saw stood up still ugly and unsanctified;
 black against the daybreak of the world, the shape of shame;
-and saving such a strange flash of reversion, the cross no
+and saving such a strange flash of reversion, the [[Cross|cross]] no
 Christian will ever see.

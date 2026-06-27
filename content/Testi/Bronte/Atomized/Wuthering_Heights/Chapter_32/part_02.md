@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 32 (part 2)"
+title: "[[Wuthering Heights]] — Chapter 32 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -25,9 +25,9 @@ sartin on’t. Oh, Lord, judge ’em, for there’s norther law nor justice
 among wer rullers!”
 
 “No! or we should be sitting in flaming fagots, I suppose,” retorted
-the singer. “But wisht, old man, and read your Bible like a Christian,
+the singer. “But wisht, old man, and read your [[Bible]] like a Christian,
 and never mind me. This is ‘Fairy Annie’s Wedding’—a bonny tune—it goes
-to a dance.”
+to a [[Dance|dance]].”
 
 Mrs. Dean was about to recommence, when I advanced; and recognising me
 directly, she jumped to her feet, crying—“Why, bless you, Mr. Lockwood!
@@ -38,35 +38,35 @@ Thrushcross Grange. You should have given us notice!”
 I answered. “I depart again to-morrow. And how are you transplanted
 here, Mrs. Dean? tell me that.”
 
-“Zillah left, and Mr. Heathcliff wished me to come, soon after you went
-to London, and stay till you returned. But, step in, pray! Have you
+“Zillah left, and Mr. [[Heathcliff]] wished me to come, soon after you went
+to [[London]], and stay till you returned. But, step in, pray! Have you
 walked from Gimmerton this evening?”
 
 “From the Grange,” I replied; “and while they make me lodging room
 there, I want to finish my business with your master; because I don’t
 think of having another opportunity in a hurry.”
 
-“What business, sir?” said Nelly, conducting me into the house. “He’s
+“What business, sir?” said Nelly, conducting me into the [[house]]. “He’s
 gone out at present, and won’t return soon.”
 
 “About the rent,” I answered.
 
-“Oh! then it is with Mrs. Heathcliff you must settle,” she observed;
+“Oh! then it is with Mrs. [[Heathcliff]] you must settle,” she observed;
 “or rather with me. She has not learnt to manage her affairs yet, and I
 act for her: there’s nobody else.”
 
 I looked surprised.
 
-“Ah! you have not heard of Heathcliff’s death, I see,” she continued.
+“Ah! you have not heard of [[Heathcliff]]’s [[Death|death]], I see,” she continued.
 
-“Heathcliff dead!” I exclaimed, astonished. “How long ago?”
+“[[Heathcliff]] dead!” I exclaimed, astonished. “How long ago?”
 
 “Three months since: but sit down, and let me take your hat, and I’ll
 tell you all about it. Stop, you have had nothing to eat, have you?”
 
-“I want nothing: I have ordered supper at home. You sit down too. I
+“I want nothing: I have ordered supper at [[Home|home]]. You sit down too. I
 never dreamt of his dying! Let me hear how it came to pass. You say you
-don’t expect them back for some time—the young people?”
+don’t expect them back for some [[Time|time]]—the young people?”
 
 “No—I have to scold them every evening for their late rambles: but they
 don’t care for me. At least, have a drink of our old ale; it will do
@@ -74,21 +74,21 @@ you good: you seem weary.”
 
 She hastened to fetch it before I could refuse, and I heard Joseph
 asking whether “it warn’t a crying scandal that she should have
-followers at her time of life? And then, to get them jocks out o’ t’
+followers at her [[Time|time]] of life? And then, to get them jocks out o’ t’
 maister’s cellar! He fair shaamed to ’bide still and see it.”
 
 She did not stay to retaliate, but re-entered in a minute, bearing a
 reaming silver pint, whose contents I lauded with becoming earnestness.
-And afterwards she furnished me with the sequel of Heathcliff’s
-history. He had a “queer” end, as she expressed it.
+And afterwards she furnished me with the sequel of [[Heathcliff]]’s
+[[history]]. He had a “queer” end, as she expressed it.
 
 * * * * *
 
 
-I was summoned to Wuthering Heights, within a fortnight of your leaving
+I was summoned to [[Wuthering Heights]], within a fortnight of your leaving
 us, she said; and I obeyed joyfully, for Catherine’s sake. My first
 interview with her grieved and shocked me: she had altered so much
-since our separation. Mr. Heathcliff did not explain his reasons for
+since our separation. Mr. [[Heathcliff]] did not explain his reasons for
 taking a new mind about my coming here; he only told me he wanted me,
 and he was tired of seeing Catherine: I must make the little parlour my
 sitting-room, and keep her with me. It was enough if he were obliged to
@@ -98,23 +98,23 @@ articles, that had formed her amusement at the Grange; and flattered
 myself we should get on in tolerable comfort. The delusion did not last
 long. Catherine, contented at first, in a brief space grew irritable
 and restless. For one thing, she was forbidden to move out of the
-garden, and it fretted her sadly to be confined to its narrow bounds as
-spring drew on; for another, in following the house, I was forced to
-quit her frequently, and she complained of loneliness: she preferred
+[[Garden|garden]], and it fretted her sadly to be confined to its narrow bounds as
+[[Spring|spring]] drew on; for another, in following the [[house]], I was forced to
+quit her frequently, and she complained of [[Loneliness|loneliness]]: she preferred
 quarrelling with Joseph in the kitchen to sitting at peace in her
-solitude. I did not mind their skirmishes: but Hareton was often
+[[Solitude|solitude]]. I did not mind their skirmishes: but Hareton was often
 obliged to seek the kitchen also, when the master wanted to have the
-house to himself; and though in the beginning she either left it at his
+[[house]] to himself; and though in the beginning she either left it at his
 approach, or quietly joined in my occupations, and shunned remarking or
 addressing him—and though he was always as sullen and silent as
 possible—after a while, she changed her behaviour, and became incapable
-of letting him alone: talking at him; commenting on his stupidity and
-idleness; expressing her wonder how he could endure the life he
-lived—how he could sit a whole evening staring into the fire, and
+of letting him [[Alone|alone]]: talking at him; commenting on his stupidity and
+idleness; expressing her [[Wonder|wonder]] how he could endure the life he
+lived—how he could sit a whole evening staring into the [[Fire|fire]], and
 dozing.
 
 “He’s just like a dog, is he not, Ellen?” she once observed, “or a
-cart-horse? He does his work, eats his food, and sleeps eternally! What
+cart-[[Horse|horse]]? He does his work, eats his food, and sleeps eternally! What
 a blank, dreary mind he must have! Do you ever dream, Hareton? And, if
 you do, what is it about? But you can’t speak to me!”
 
@@ -132,7 +132,7 @@ fist, as if tempted to use it.
 exclaimed, on another occasion. “He is afraid I shall laugh at him.
 Ellen, what do you think? He began to teach himself to read once; and,
 because I laughed, he burned his books, and dropped it: was he not a
-fool?”
+[[Fool|fool]]?”
 
 “Were not you naughty?” I said; “answer me that.”
 

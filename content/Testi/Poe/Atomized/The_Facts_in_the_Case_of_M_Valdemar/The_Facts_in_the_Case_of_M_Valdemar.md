@@ -1,5 +1,5 @@
 ---
-title: "The Facts in the Case of M. Valdemar"
+title: "[[The Facts in the Case of M. Valdemar]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/The-Facts-in-the-Case-of-M.-Valdemar-(Poe)"
@@ -14,9 +14,9 @@ tags:
 
 
 Of course I shall not pretend to consider it any matter for
-      wonder, that the extraordinary case of M. Valdemar has excited
+      [[Wonder|wonder]], that the extraordinary case of M. Valdemar has excited
       discussion. It would have been a miracle had it not—especially
-      under the circumstances. Through the desire of all parties
+      under the circumstances. Through the [[Desire|desire]] of all parties
       concerned, to keep the affair from the public, at least for the
       present, or until we had farther opportunities for
       investigation—through our endeavors to effect this—a garbled or
@@ -28,7 +28,7 @@ Of course I shall not pretend to consider it any matter for
       comprehend them myself. They are, succinctly, these:
 
       My attention, for the last three years, had been repeatedly drawn
-      to the subject of Mesmerism; and, about nine months ago it
+      to the subject of [[Mesmerism]]; and, about nine months ago it
       occurred to me, quite suddenly, that in the series of experiments
       made hitherto, there had been a very remarkable and most
       unaccountable omission:—no person had as yet been mesmerized in
@@ -36,7 +36,7 @@ Of course I shall not pretend to consider it any matter for
       condition, there existed in the patient any susceptibility to the
       magnetic influence; secondly, whether, if any existed, it was
       impaired or increased by the condition; thirdly, to what extent,
-      or for how long a period, the encroachments of Death might be
+      or for how long a period, the encroachments of [[Death]] might be
       arrested by the process. There were other points to be
       ascertained, but these most excited my curiosity—the last in
       especial, from the immensely important character of its
@@ -44,7 +44,7 @@ Of course I shall not pretend to consider it any matter for
 
       In looking around me for some subject by whose means I might test
       these particulars, I was brought to think of my friend, M. Ernest
-      Valdemar, the well-known compiler of the “Bibliotheca Forensica,”
+      Valdemar, the [[Well|well]]-known compiler of the “Bibliotheca Forensica,”
       and author (under the nom de plume of Issachar Marx) of the
       Polish versions of “Wallenstein” and “Gargantua.” M. Valdemar,
       who has resided principally at Harlem, N.Y., since the year 1839,
@@ -55,7 +55,7 @@ Of course I shall not pretend to consider it any matter for
       consequence, being very generally mistaken for a wig. His
       temperament was markedly nervous, and rendered him a good subject
       for mesmeric experiment. On two or three occasions I had put him
-      to sleep with little difficulty, but was disappointed in other
+      to [[Sleep|sleep]] with little difficulty, but was disappointed in other
       results which his peculiar constitution had naturally led me to
       anticipate. His will was at no period positively, or thoroughly,
       under my control, and in regard to clairvoyance, I could
@@ -69,15 +69,15 @@ Of course I shall not pretend to consider it any matter for
 
       When the ideas to which I have alluded first occurred to me, it
       was of course very natural that I should think of M. Valdemar. I
-      knew the steady philosophy of the man too well to apprehend any
-      scruples from him; and he had no relatives in America who would
+      knew the steady [[philosophy]] of the man too [[Well|well]] to apprehend any
+      scruples from him; and he had no relatives in [[America]] who would
       be likely to interfere. I spoke to him frankly upon the subject;
       and, to my surprise, his interest seemed vividly excited. I say
       to my surprise, for, although he had always yielded his person
       freely to my experiments, he had never before given me any tokens
       of sympathy with what I did. His disease was of that character
       which would admit of exact calculation in respect to the epoch of
-      its termination in death; and it was finally arranged between us
+      its termination in [[Death|death]]; and it was finally arranged between us
       that he would send for me about twenty-four hours before the
       period announced by his physicians as that of his decease.
 
@@ -86,9 +86,9 @@ Of course I shall not pretend to consider it any matter for
 
       MY DEAR P——,
 
-      You may as well come now. D—— and F—— are agreed that I cannot
+      You may as [[Well|well]] come now. D—— and F—— are agreed that I cannot
       hold out beyond to-morrow midnight; and I think they have hit the
-      time very nearly.
+      [[Time|time]] very nearly.
 
       VALDEMAR
 
@@ -124,30 +124,30 @@ Of course I shall not pretend to consider it any matter for
       aneurism of the aorta; but on this point the osseous symptoms
       rendered an exact diagnosis impossible. It was the opinion of
       both physicians that M. Valdemar would die about midnight on the
-      morrow (Sunday). It was then seven o’clock on Saturday evening.
+      morrow ([[Sunday]]). It was then seven o’[[Clock|clock]] on Saturday evening.
 
       On quitting the invalid’s bed-side to hold conversation with
       myself, Doctors D—— and F—— had bidden him a final farewell. It
       had not been their intention to return; but, at my request, they
-      agreed to look in upon the patient about ten the next night.
+      agreed to look in upon the patient about ten the next [[Night|night]].
 
       When they had gone, I spoke freely with M. Valdemar on the
-      subject of his approaching dissolution, as well as, more
+      subject of his approaching dissolution, as [[Well|well]] as, more
       particularly, of the experiment proposed. He still professed
       himself quite willing and even anxious to have it made, and urged
-      me to commence it at once. A male and a female nurse were in
+      me to commence it at once. A male and a female [[Nurse|nurse]] were in
       attendance; but I did not feel myself altogether at liberty to
       engage in a task of this character with no more reliable
       witnesses than these people, in case of sudden accident, might
       prove. I therefore postponed operations until about eight the
-      next night, when the arrival of a medical student with whom I had
+      next [[Night|night]], when the arrival of a medical student with whom I had
       some acquaintance, (Mr. Theodore L—l,) relieved me from farther
       embarrassment. It had been my design, originally, to wait for the
       physicians; but I was induced to proceed, first, by the urgent
       entreaties of M. Valdemar, and secondly, by my conviction that I
       had not a moment to lose, as he was evidently sinking fast.
 
-      Mr. L—l was so kind as to accede to my desire that he would take
+      Mr. L—l was so kind as to accede to my [[Desire|desire]] that he would take
       notes of all that occurred, and it is from his memoranda that
       what I now have to relate is, for the most part, either condensed
       or copied verbatim.
@@ -157,23 +157,23 @@ Of course I shall not pretend to consider it any matter for
       L—l, whether he (M. Valdemar) was entirely willing that I should
       make the experiment of mesmerizing him in his then condition.
 
-      He replied feebly, yet quite audibly, “Yes, I wish to be. I fear
-      you have mesmerized”—adding immediately afterwards: “I fear you
+      He replied feebly, yet quite audibly, “Yes, I wish to be. I [[Fear|fear]]
+      you have mesmerized”—adding immediately afterwards: “I [[Fear|fear]] you
       have deferred it too long.”
 
       While he spoke thus, I commenced the passes which I had already
       found most effectual in subduing him. He was evidently influenced
       with the first lateral stroke of my hand across his forehead; but
       although I exerted all my powers, no further perceptible effect
-      was induced until some minutes after ten o’clock, when Doctors
+      was induced until some minutes after ten o’[[Clock|clock]], when Doctors
       D—— and F—— called, according to appointment. I explained to
       them, in a few words, what I designed, and as they opposed no
-      objection, saying that the patient was already in the death
+      objection, saying that the patient was already in the [[Death|death]]
       agony, I proceeded without hesitation—exchanging, however, the
       lateral passes for downward ones, and directing my gaze entirely
       into the right eye of the sufferer.
 
-      By this time his pulse was imperceptible and his breathing was
+      By this [[Time|time]] his pulse was imperceptible and his breathing was
       stertorous, and at intervals of half a minute.
 
       This condition was nearly unaltered for a quarter of an hour. At
@@ -186,9 +186,9 @@ Of course I shall not pretend to consider it any matter for
       At five minutes before eleven I perceived unequivocal signs of
       the mesmeric influence. The glassy roll of the eye was changed
       for that expression of uneasy inward examination which is never
-      seen except in cases of sleep-waking, and which it is quite
+      seen except in cases of [[Sleep|sleep]]-waking, and which it is quite
       impossible to mistake. With a few rapid lateral passes I made the
-      lids quiver, as in incipient sleep, and with a few more I closed
+      lids quiver, as in incipient [[Sleep|sleep]], and with a few more I closed
       them altogether. I was not satisfied, however, with this, but
       continued the manipulations vigorously, and with the fullest
       exertion of the will, until I had completely stiffened the limbs
@@ -202,17 +202,17 @@ Of course I shall not pretend to consider it any matter for
       condition. After a few experiments, they admitted him to be an
       unusually perfect state of mesmeric trance. The curiosity of both
       the physicians was greatly excited. Dr. D—— resolved at once to
-      remain with the patient all night, while Dr. F—— took leave with
+      remain with the patient all [[Night|night]], while Dr. F—— took leave with
       a promise to return at daybreak. Mr. L—l and the nurses remained.
 
       We left M. Valdemar entirely undisturbed until about three
-      o’clock in the morning, when I approached him and found him in
+      o’[[Clock|clock]] in the morning, when I approached him and found him in
       precisely the same condition as when Dr. F—— went away—that is to
       say, he lay in the same position; the pulse was imperceptible;
       the breathing was gentle (scarcely noticeable, unless through the
-      application of a mirror to the lips); the eyes were closed
+      application of a [[Mirror|mirror]] to the lips); the eyes were closed
       naturally; and the limbs were as rigid and as cold as marble.
-      Still, the general appearance was certainly not that of death.
+      Still, the general appearance was certainly not that of [[Death|death]].
 
       As I approached M. Valdemar I made a kind of half effort to
       influence his right arm into pursuit of my own, as I passed the
@@ -235,22 +235,22 @@ Of course I shall not pretend to consider it any matter for
 
       I here felt the limbs and found them as rigid as ever. The right
       arm, as before, obeyed the direction of my hand. I questioned the
-      sleep-waker again:
+      [[Sleep|sleep]]-waker again:
 
-      “Do you still feel pain in the breast, M. Valdemar?”
+      “Do you still feel [[Pain|pain]] in the breast, M. Valdemar?”
 
       The answer now was immediate, but even less audible than before:
 
-      “No pain—I am dying.”
+      “No [[Pain|pain]]—I am dying.”
 
       I did not think it advisable to disturb him farther just then,
       and nothing more was said or done until the arrival of Dr. F——,
       who came a little before sunrise, and expressed unbounded
       astonishment at finding the patient still alive. After feeling
-      the pulse and applying a mirror to the lips, he requested me to
-      speak to the sleep-waker again. I did so, saying:
+      the pulse and applying a [[Mirror|mirror]] to the lips, he requested me to
+      speak to the [[Sleep|sleep]]-waker again. I did so, saying:
 
-      “M. Valdemar, do you still sleep?”
+      “M. Valdemar, do you still [[Sleep|sleep]]?”
 
       As before, some minutes elapsed ere a reply was made; and during
       the interval the dying man seemed to be collecting his energies
@@ -261,25 +261,25 @@ Of course I shall not pretend to consider it any matter for
 
       It was now the opinion, or rather the wish, of the physicians,
       that M. Valdemar should be suffered to remain undisturbed in his
-      present apparently tranquil condition, until death should
+      present apparently tranquil condition, until [[Death|death]] should
       supervene—and this, it was generally agreed, must now take place
       within a few minutes. I concluded, however, to speak to him once
       more, and merely repeated my previous question.
 
       While I spoke, there came a marked change over the countenance of
-      the sleep-waker. The eyes rolled themselves slowly open, the
+      the [[Sleep|sleep]]-waker. The eyes rolled themselves slowly open, the
       pupils disappearing upwardly; the skin generally assumed a
       cadaverous hue, resembling not so much parchment as white paper;
       and the circular hectic spots which, hitherto, had been strongly
       defined in the centre of each cheek, went out at once. I use this
       expression, because the suddenness of their departure put me in
       mind of nothing so much as the extinguishment of a candle by a
-      puff of the breath. The upper lip, at the same time, writhed
+      puff of the breath. The upper lip, at the same [[Time|time]], writhed
       itself away from the teeth, which it had previously covered
       completely; while the lower jaw fell with an audible jerk,
       leaving the mouth widely extended, and disclosing in full view
       the swollen and blackened tongue. I presume that no member of the
-      party then present had been unaccustomed to death-bed horrors;
+      party then present had been unaccustomed to [[Death|death]]-bed horrors;
       but so hideous beyond conception was the appearance of M.
       Valdemar at this moment, that there was a general shrinking back
       from the region of the bed.
@@ -293,7 +293,7 @@ Of course I shall not pretend to consider it any matter for
       charge of the nurses, when a strong vibratory motion was
       observable in the tongue. This continued for perhaps a minute. At
       the expiration of this period, there issued from the distended
-      and motionless jaws a voice—such as it would be madness in me to
+      and motionless jaws a voice—such as it would be [[Madness|madness]] in me to
       attempt describing. There are, indeed, two or three epithets
       which might be considered as applicable to it in part; I might
       say, for example, that the sound was harsh, and broken and
@@ -301,11 +301,11 @@ Of course I shall not pretend to consider it any matter for
       reason that no similar sounds have ever jarred upon the ear of
       humanity. There were two particulars, nevertheless, which I
       thought then, and still think, might fairly be stated as
-      characteristic of the intonation—as well adapted to convey some
+      characteristic of the intonation—as [[Well|well]] adapted to convey some
       idea of its unearthly peculiarity. In the first place, the voice
       seemed to reach our ears—at least mine—from a vast distance, or
       from some deep cavern within the earth. In the second place, it
-      impressed me (I fear, indeed, that it will be impossible to make
+      impressed me (I [[Fear|fear]], indeed, that it will be impossible to make
       myself comprehended) as gelatinous or glutinous matters impress
       the sense of touch.
 
@@ -319,7 +319,7 @@ Of course I shall not pretend to consider it any matter for
 
       No person present even affected to deny, or attempted to repress,
       the unutterable, shuddering horror which these few words, thus
-      uttered, were so well calculated to convey. Mr. L—l (the student)
+      uttered, were so [[Well|well]] calculated to convey. Mr. L—l (the student)
       swooned. The nurses immediately left the chamber, and could not
       be induced to return. My own impressions I would not pretend to
       render intelligible to the reader. For nearly an hour, we busied
@@ -328,8 +328,8 @@ Of course I shall not pretend to consider it any matter for
       ourselves again to an investigation of M. Valdemar’s condition.
 
       It remained in all respects as I have last described it, with the
-      exception that the mirror no longer afforded evidence of
-      respiration. An attempt to draw blood from the arm failed. I
+      exception that the [[Mirror|mirror]] no longer afforded evidence of
+      respiration. An attempt to draw [[Blood|blood]] from the arm failed. I
       should mention, too, that this limb was no farther subject to my
       will. I endeavored in vain to make it follow the direction of my
       hand. The only real indication, indeed, of the mesmeric
@@ -340,24 +340,24 @@ Of course I shall not pretend to consider it any matter for
       utterly insensible—although I endeavored to place each member of
       the company in mesmeric rapport with him. I believe that I have
       now related all that is necessary to an understanding of the
-      sleep-waker’s state at this epoch. Other nurses were procured;
-      and at ten o’clock I left the house in company with the two
+      [[Sleep|sleep]]-waker’s state at this epoch. Other nurses were procured;
+      and at ten o’[[Clock|clock]] I left the [[house]] in company with the two
       physicians and Mr. L—l.
 
       In the afternoon we all called again to see the patient. His
       condition remained precisely the same. We had now some discussion
       as to the propriety and feasibility of awakening him; but we had
       little difficulty in agreeing that no good purpose would be
-      served by so doing. It was evident that, so far, death (or what
-      is usually termed death) had been arrested by the mesmeric
+      served by so doing. It was evident that, so far, [[Death|death]] (or what
+      is usually termed [[Death|death]]) had been arrested by the mesmeric
       process. It seemed clear to us all that to awaken M. Valdemar
       would be merely to insure his instant, or at least his speedy,
       dissolution.
 
       From this period until the close of last week—an interval of
       nearly seven months—we continued to make daily calls at M.
-      Valdemar’s house, accompanied, now and then, by medical and other
-      friends. All this time the sleeper-waker remained _exactly_ as I
+      Valdemar’s [[house]], accompanied, now and then, by medical and other
+      friends. All this [[Time|time]] [[The Sleeper|the sleeper]]-waker remained _exactly_ as I
       have last described him. The nurses’ attentions were continual.
 
       It was on Friday last that we finally resolved to make the
@@ -367,7 +367,7 @@ Of course I shall not pretend to consider it any matter for
       much of what I cannot help thinking unwarranted popular feeling.
 
       For the purpose of relieving M. Valdemar from the mesmeric
-      trance, I made use of the customary passes. These, for a time,
+      trance, I made use of the customary passes. These, for a [[Time|time]],
       were unsuccessful. The first indication of revival was afforded
       by a partial descent of the iris. It was observed, as especially
       remarkable, that this lowering of the pupil was accompanied by
@@ -376,7 +376,7 @@ Of course I shall not pretend to consider it any matter for
 
       It was now suggested that I should attempt to influence the
       patient’s arm, as heretofore. I made the attempt and failed. Dr.
-      F—— then intimated a desire to have me put a question. I did so,
+      F—— then intimated a [[Desire|desire]] to have me put a question. I did so,
       as follows:
 
       “M. Valdemar, can you explain to us what are your feelings or
@@ -388,7 +388,7 @@ Of course I shall not pretend to consider it any matter for
       length the same hideous voice which I have already described,
       broke forth:
 
-      “For God’s sake!—quick!—quick!—put me to sleep—or, quick!—waken
+      “For God’s sake!—quick!—quick!—put me to [[Sleep|sleep]]—or, quick!—waken
       me!—quick!—I say to you that I am dead!”
 
       I was thoroughly unnerved, and for an instant remained undecided
@@ -396,7 +396,7 @@ Of course I shall not pretend to consider it any matter for
       but, failing in this through total abeyance of the will, I
       retraced my steps and as earnestly struggled to awaken him. In
       this attempt I soon saw that I should be successful—or at least I
-      soon fancied that my success would be complete—and I am sure that
+      soon fancied that my [[success]] would be complete—and I am sure that
       all in the room were prepared to see the patient awaken.
 
       For what really occurred, however, it is quite impossible that

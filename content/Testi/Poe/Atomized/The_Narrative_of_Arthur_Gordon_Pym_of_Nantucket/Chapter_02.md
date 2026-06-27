@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 3"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 3"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -32,7 +32,7 @@ eagerness, I now commenced another search for my phosphorus matches and
 
 tapers. I had a confused recollection of having put them carefully away
 
-just before falling asleep; and, indeed, previously to my last journey
+just before falling asleep; and, indeed, previously to my last [[Journey|journey]]
 
 to the trap, I had been able to remember the exact spot where I had
 
@@ -84,7 +84,7 @@ other rubbish in the barrel, that I despaired of deriving any service
 
 from them, and left them as they were. The phosphorus, of which there
 
-was only a speck or two, I gathered up as well as I could, and returned
+was only a speck or two, I gathered up as [[Well|well]] as I could, and returned
 
 with it, after much difficulty, to my box, where Tiger had all the
 
@@ -102,7 +102,7 @@ looked at it directly; by turning the exterior portions of the retina
 
 towards it, that is to say, by surveying it slightly askance, I found
 
-that it became in some measure perceptible. Thus the gloom of my prison
+that it became in some measure perceptible. Thus the gloom of my [[Prison|prison]]
 
 may be imagined, and the note of my friend, if indeed it were a note
 
@@ -114,7 +114,7 @@ vain I revolved in my brain a multitude of absurd expedients for
 
 procuring light--such expedients precisely as a man in the perturbed
 
-sleep occasioned by opium would be apt to fall upon for a similar
+[[Sleep|sleep]] occasioned by opium would be apt to fall upon for a similar
 
 purpose--each and all of which appear by turns to the dreamer the most
 
@@ -124,7 +124,7 @@ reasoning or imaginative faculties flicker, alternately, one above the
 
 other. At last an idea occurred to me which seemed rational, and which
 
-gave me cause to wonder, very justly, that I had not entertained it
+gave me cause to [[Wonder|wonder]], very justly, that I had not entertained it
 
 before. I placed the slip of paper on the back of a book, and,
 
@@ -152,7 +152,7 @@ I have before stated more than once that my intellect, for some period
 
 prior to this, had been in a condition nearly bordering on idiocy.
 
-There were, to be sure, momentary intervals of perfect sanity, and, now
+There were, to be sure, momentary intervals of perfect [[Sanity|sanity]], and, now
 
 and then, even of energy; but these were few. It must be remembered
 
@@ -160,9 +160,9 @@ that I had been, for many days certainly, inhaling the almost
 
 pestilential atmosphere of a close hold in a whaling vessel, and a long
 
-portion of that time but scantily supplied with water. For the last
+portion of that [[Time|time]] but scantily supplied with [[Water|water]]. For the last
 
-fourteen or fifteen hours I had none--nor had I slept during that time.
+fourteen or fifteen hours I had none--nor had I slept during that [[Time|time]].
 
 Salt provisions of the most exciting kind had been my chief, and,
 
@@ -228,7 +228,7 @@ indistinct glow one or two of the particles still emitted. My
 
 difficulties had taught me the necessity of caution, and I now took
 
-time to reflect upon what I was about to do. It was very probable, I
+[[Time|time]] to reflect upon what I was about to do. It was very probable, I
 
 considered, that some words were written upon that side of the paper
 
@@ -240,7 +240,7 @@ that the words (if there were any) would be found all on one side, and
 
 connected in a proper manner, as written. There was the greater
 
-necessity of ascertaining the point in question beyond a doubt, as the
+necessity of ascertaining the point in question beyond a [[Doubt|doubt]], as the
 
 phosphorus remaining would be altogether insufficient for a third
 
@@ -274,7 +274,7 @@ the writing, if writing there should finally prove to be. Again I
 
 turned the note, and went to work as I had previously done. Having
 
-rubbed in the phosphorus, a brilliancy ensued as before--but this time
+rubbed in the phosphorus, a brilliancy ensued as before--but this [[Time|time]]
 
 several lines of MS. in a large hand, and apparently in red ink, became
 
@@ -282,13 +282,13 @@ distinctly visible. The glimmer, although sufficiently bright, was but
 
 momentary. Still, had I not been too greatly excited, there would have
 
-been ample time enough for me to peruse the whole three sentences
+been ample [[Time|time]] enough for me to peruse the whole three sentences
 
 before me--for I saw there were three. In my anxiety, however, to read
 
 all at once, I succeeded only in reading the seven concluding words,
 
-which thus appeared: _"blood--your life depends upon lying close."_
+which thus appeared: _"[[Blood|blood]]--your life depends upon lying close."_
 
 
 
@@ -304,17 +304,17 @@ imbued my mind with one tithe of the harrowing and yet indefinable
 
 horror with which I was inspired by the fragmentary warning thus
 
-received. And _"blood"_ too, that word of all words--so rife at all
+received. And _"[[Blood|blood]]"_ too, that word of all words--so rife at all
 
-times with mystery, and suffering, and terror--how trebly full of
+times with mystery, and [[Suffering|suffering]], and terror--how trebly full of
 
 import did it now appear--how chillily and heavily (disjointed, as it
 
 thus was, from any foregoing words to qualify or render it distinct)
 
-did its vague syllables fall, amid the deep gloom of my prison, into
+did its vague syllables fall, amid the deep gloom of my [[Prison|prison]], into
 
-the innermost recesses of my soul!
+the innermost recesses of my [[Soul|soul]]!
 
 
 
@@ -324,7 +324,7 @@ concealed, and I formed a thousand surmises as to what they could
 
 be--but I could think of nothing affording a satisfactory solution of
 
-the mystery. Just after returning from my last journey to the trap, and
+the mystery. Just after returning from my last [[Journey|journey]] to the trap, and
 
 before my attention had been otherwise directed by the singular conduct
 
@@ -336,17 +336,17 @@ of trying to cut my way through the orlop deck. The half certainty
 
 which I felt of being able to accomplish one of these two purposes in
 
-the last emergency, had given me courage (which I should not otherwise
+the last emergency, had given me [[Courage|courage]] (which I should not otherwise
 
 have had) to endure the evils of my situation. The few words I had been
 
 able to read, however, had cut me off from these final resources, and I
 
-now, for the first time, felt all the misery of my fate. In a paroxysm
+now, for the first [[Time|time]], felt all the misery of my fate. In a paroxysm
 
-of despair I threw myself again upon the mattress, where, for about the
+of [[Despair|despair]] I threw myself again upon the mattress, where, for about the
 
-period of a day and night, I lay in a kind of stupor, relieved only by
+period of a day and [[Night|night]], I lay in a kind of stupor, relieved only by
 
 momentary intervals of reason and recollection.
 
@@ -356,9 +356,9 @@ At length I once more arose, and busied myself in reflection upon the
 
 horrors which encompassed me. For another twenty-four hours it was
 
-barely possible that I might exist without water--for a longer time I
+barely possible that I might exist without [[Water|water]]--for a longer [[Time|time]] I
 
-could not do so. During the first portion of my imprisonment I had made
+could not do so. During the first portion of my [[Imprisonment|imprisonment]] I had made
 
 free use of the cordials with which Augustus had supplied me, but they
 
@@ -398,7 +398,7 @@ phosphorus on the paper in my last attempt. As I rubbed, he ran his
 
 nose against my hand with a slight snarl; but I was too greatly excited
 
-at the time to pay much attention to the circumstance. Soon afterward,
+at the [[Time|time]] to pay much attention to the circumstance. Soon afterward,
 
 it will be remembered, I threw myself on the mattress, and fell into a
 
@@ -416,13 +416,13 @@ Presently I relapsed into my stupor, from which I was again awakened in
 
 a similar manner. This was repeated three or four times, until finally
 
-his behaviour inspired me with so great a degree of fear that I became
+his behaviour inspired me with so great a degree of [[Fear|fear]] that I became
 
 fully aroused. He was now lying close by the door of the box, snarling
 
 fearfully, although in a kind of under tone, and grinding his teeth as
 
-if strongly convulsed. I had no doubt whatever that the want of water
+if strongly convulsed. I had no [[Doubt|doubt]] whatever that the want of [[Water|water]]
 
 or the confined atmosphere of the hold had driven him mad, and I was at
 
@@ -440,7 +440,7 @@ determined to make my way from the box at all hazards, and despatch
 
 him, if his opposition should render it necessary for me to do so. To
 
-get out, I had to pass directly over his body, and he already seemed to
+get out, I had to pass directly over his [[Body|body]], and he already seemed to
 
 anticipate my design--raising himself upon his fore legs (as I
 
@@ -458,7 +458,7 @@ possible, I made a movement towards the mouth of the box. No sooner did
 
 I do this than the dog sprang with a loud growl towards my throat. The
 
-whole weight of his body struck me on the right shoulder, and I fell
+whole weight of his [[Body|body]] struck me on the right shoulder, and I fell
 
 violently to the left, while the enraged animal passed entirely over
 
@@ -472,7 +472,7 @@ enveloped my neck--yet, luckily, without being able to penetrate all
 
 the folds. I was now beneath the dog, and a few moments would place me
 
-completely in his power. Despair gave me strength, and I rose bodily
+completely in his power. [[Despair]] gave me strength, and I [[Rose|rose]] bodily
 
 up, shaking him from me by main force, and dragging with me the
 
@@ -488,7 +488,7 @@ of provisions reduced to a single gill of liqueur. As this reflection
 
 crossed my mind, I felt myself actuated by one of those fits of
 
-perverseness which might be supposed to influence a spoiled child in
+perverseness which might be supposed to influence a spoiled [[Child|child]] in
 
 similar circumstances, and, raising the bottle to my lips, I drained it
 
@@ -530,7 +530,7 @@ the most horrible and loathsome of dungeons--and one word--one little
 
 syllable would save me--yet that single syllable I could not utter! I
 
-felt, I am sure, more than ten thousand times the agonies of death
+felt, I am sure, more than ten thousand times the agonies of [[Death|death]]
 
 itself. My brain reeled, and I fell, deadly sick, against the end of
 
@@ -552,7 +552,7 @@ but himself. All was silent for some moments. At length I again heard
 
 the word _Arthur!_ repeated in a low tone, and one full of hesitation.
 
-Reviving hope loosened at once my powers of speech, and I now screamed,
+Reviving [[Hope|hope]] loosened at once my powers of speech, and I now screamed,
 
 at the top of my voice, _"Augustus! oh Augustus!"_ "Hush--for God's
 
@@ -560,17 +560,17 @@ sake be silent!" he replied, in a voice trembling with agitation; "I
 
 will be with you immediately--as soon as I can make my way through the
 
-hold." For a long time I heard him moving among the lumber, and every
+hold." For a long [[Time|time]] I heard him moving among the lumber, and every
 
 moment seemed to me an age. At length I felt his hand upon my shoulder,
 
-and he placed at the same moment a bottle of water to my lips. Those
+and he placed at the same moment a bottle of [[Water|water]] to my lips. Those
 
 only who have been suddenly redeemed from the jaws of the tomb, or who
 
 have known the insufferable torments of thirst under circumstances as
 
-aggravated as those which encompassed me in my dreary prison, can form
+aggravated as those which encompassed me in my dreary [[Prison|prison]], can form
 
 any idea of the unutterable transports which that one long draught of
 

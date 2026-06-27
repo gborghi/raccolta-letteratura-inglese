@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 43 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 43 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -20,31 +20,31 @@ CHAPTER XLIII.
 
 
 
-Marianne got up the next morning at her usual time; to every inquiry
+Marianne got up the next morning at her usual [[Time|time]]; to every inquiry
 
 replied that she was better, and tried to prove herself so, by engaging
 
 in her accustomary employments. But a day spent in sitting shivering
 
-over the fire with a book in her hand, which she was unable to read, or
+over the [[Fire|fire]] with a book in her hand, which she was unable to read, or
 
 in lying, weary and languid, on a sofa, did not speak much in favour of
 
 her amendment; and when, at last, she went early to bed, more and more
 
-indisposed, Colonel Brandon was only astonished at her sister’s
+indisposed, [[Colonel Brandon]] was only astonished at her sister’s
 
 composure, who, though attending and nursing her the whole day, against
 
-Marianne’s inclination, and forcing proper medicines on her at night,
+Marianne’s inclination, and forcing proper medicines on her at [[Night|night]],
 
-trusted, like Marianne, to the certainty and efficacy of sleep, and
+trusted, like Marianne, to the certainty and efficacy of [[Sleep|sleep]], and
 
 felt no real alarm.
 
 
 
-A very restless and feverish night, however, disappointed the
+A very restless and feverish [[Night|night]], however, disappointed the
 
 expectation of both; and when Marianne, after persisting in rising,
 
@@ -68,7 +68,7 @@ on her baby’s account. Mrs. Jennings, who had been inclined from the
 
 first to think Marianne’s complaint more serious than Elinor, now
 
-looked very grave on Mr. Harris’s report, and confirming Charlotte’s
+looked very [[Grave|grave]] on Mr. Harris’s report, and confirming Charlotte’s
 
 fears and caution, urged the necessity of her immediate removal with
 
@@ -80,7 +80,7 @@ withstood. Her departure, therefore, was fixed on; and within an hour
 
 after Mr. Harris’s arrival, she set off, with her little boy and his
 
-nurse, for the house of a near relation of Mr. Palmer’s, who lived a
+[[Nurse|nurse]], for the [[house]] of a near relation of Mr. Palmer’s, who lived a
 
 few miles on the other side of Bath; whither her husband promised, at
 
@@ -88,7 +88,7 @@ her earnest entreaty, to join her in a day or two; and whither she was
 
 almost equally urgent with her mother to accompany her. Mrs. Jennings,
 
-however, with a kindness of heart which made Elinor really love her,
+however, with a kindness of heart which made Elinor really [[Love|love]] her,
 
 declared her resolution of not stirring from Cleveland as long as
 
@@ -104,15 +104,15 @@ experience in nursing, of material use.
 
 
 
-Poor Marianne, languid and low from the nature of her malady, and
+Poor Marianne, languid and low from the [[Nature|nature]] of her malady, and
 
-feeling herself universally ill, could no longer hope that tomorrow
+feeling herself universally ill, could no longer [[Hope|hope]] that tomorrow
 
 would find her recovered; and the idea of what tomorrow would have
 
 produced, but for this unlucky illness, made every ailment severe; for
 
-on that day they were to have begun their journey home; and, attended
+on that day they were to have begun their [[Journey|journey]] [[Home|home]]; and, attended
 
 the whole way by a servant of Mrs. Jennings, were to have taken their
 
@@ -132,11 +132,11 @@ patient; she certainly was not better, and, except that there was no
 
 amendment, did not appear worse. Their party was now farther reduced;
 
-for Mr. Palmer, though very unwilling to go as well from real humanity
+for Mr. Palmer, though very unwilling to go as [[Well|well]] from real humanity
 
-and good-nature, as from a dislike of appearing to be frightened away
+and good-[[Nature|nature]], as from a dislike of appearing to be frightened away
 
-by his wife, was persuaded at last by Colonel Brandon to perform his
+by his wife, was persuaded at last by [[Colonel Brandon]] to perform his
 
 promise of following her; and while he was preparing to go, Colonel
 
@@ -144,7 +144,7 @@ Brandon himself, with a much greater exertion, began to talk of going
 
 likewise.—Here, however, the kindness of Mrs. Jennings interposed most
 
-acceptably; for to send the Colonel away while his love was in so much
+acceptably; for to send the Colonel away while his [[Love|love]] was in so much
 
 uneasiness on her sister’s account, would be to deprive them both, she
 
@@ -162,7 +162,7 @@ long even affect to demur; especially as Mrs. Jennings’s entreaty was
 
 warmly seconded by Mr. Palmer, who seemed to feel a relief to himself,
 
-in leaving behind him a person so well able to assist or advise Miss
+in leaving behind him a person so [[Well|well]] able to assist or advise Miss
 
 Dashwood in any emergence.
 
@@ -172,7 +172,7 @@ Marianne was, of course, kept in ignorance of all these arrangements.
 
 She knew not that she had been the means of sending the owners of
 
-Cleveland away, in about seven days from the time of their arrival. It
+Cleveland away, in about seven days from the [[Time|time]] of their arrival. It
 
 gave her no surprise that she saw nothing of Mrs. Palmer; and as it
 
@@ -180,7 +180,7 @@ gave her likewise no concern, she never mentioned her name.
 
 
 
-Two days passed away from the time of Mr. Palmer’s departure, and her
+Two days passed away from the [[Time|time]] of Mr. Palmer’s departure, and her
 
 situation continued, with little variation, the same. Mr. Harris, who
 
@@ -190,7 +190,7 @@ Miss Dashwood was equally sanguine; but the expectation of the others
 
 was by no means so cheerful. Mrs. Jennings had determined very early in
 
-the seizure that Marianne would never get over it, and Colonel Brandon,
+the seizure that Marianne would never get over it, and [[Colonel Brandon]],
 
 who was chiefly of use in listening to Mrs. Jennings’s forebodings, was
 
@@ -200,9 +200,9 @@ himself out of fears, which the different judgment of the apothecary
 
 seemed to render absurd; but the many hours of each day in which he was
 
-left entirely alone, were but too favourable for the admission of every
+left entirely [[Alone|alone]], were but too favourable for the admission of every
 
-melancholy idea, and he could not expel from his mind the persuasion
+[[Melancholy|melancholy]] idea, and he could not expel from his mind the [[Persuasion|persuasion]]
 
 that he should see Marianne no more.
 

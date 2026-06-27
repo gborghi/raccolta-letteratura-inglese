@@ -1,5 +1,5 @@
 ---
-title: "Loss of Breath (part 4)"
+title: "[[Loss of Breath]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Loss-of-Breath-(Poe)"
@@ -28,9 +28,9 @@ tags:
 
       The populace encored. Several gentlemen swooned; and a multitude
 
-      of ladies were carried home in hysterics. Pinxit availed himself
+      of ladies were carried [[Home|home]] in hysterics. Pinxit availed himself
 
-      of the opportunity to retouch, from a sketch taken upon the spot,
+      of the opportunity to retouch, from a [[Sketch|sketch]] taken upon the spot,
 
       his admirable painting of the “Marsyas flayed alive.”
 
@@ -38,7 +38,7 @@ tags:
 
       When I had afforded sufficient amusement, it was thought proper
 
-      to remove my body from the gallows;—this the more especially as
+      to remove my [[Body|body]] from the gallows;—this the more especially as
 
       the real culprit had in the meantime been retaken and recognized,
 
@@ -56,11 +56,11 @@ tags:
 
       Here, after due interval, I was deposited. The sexton departed,
 
-      and I was left alone. A line of Marston’s “Malcontent”—
+      and I was left [[Alone|alone]]. A line of Marston’s “Malcontent”—
 
 
 
-      Death’s a good fellow and keeps open house—
+      [[Death]]’s a good fellow and keeps open [[house]]—
 
 
 
@@ -78,13 +78,13 @@ tags:
 
       and breaking open their lids, busied myself in speculations about
 
-      the mortality within.
+      the [[Mortality|mortality]] within.
 
 
 
       “This,” I soliloquized, tumbling over a carcass, puffy, bloated,
 
-      and rotund—“this has been, no doubt, in every sense of the word,
+      and rotund—“this has been, no [[Doubt|doubt]], in every sense of the word,
 
       an unhappy—an unfortunate man. It has been his terrible lot not
 
@@ -104,11 +104,11 @@ tags:
 
       and three toward the left. His studies have been confined to the
 
-      poetry of Crabbe. He can have no idea of the wonder of a
+      poetry of Crabbe. He can have no idea of the [[Wonder|wonder]] of a
 
       pirouette. To him a pas de papillon has been an abstract
 
-      conception. He has never ascended the summit of a hill. He has
+      conception. He has never ascended the summit of a [[Hill|hill]]. He has
 
       never viewed from any steeple the glories of a metropolis. Heat
 
@@ -116,13 +116,13 @@ tags:
 
       days of a dog. Therein, he has dreamed of flames and
 
-      suffocation—of mountains upon mountains—of Pelion upon Ossa. He
+      suffocation—of [[Mountains|mountains]] upon [[Mountains|mountains]]—of Pelion upon Ossa. He
 
       was short of breath—to say all in a word, he was short of breath.
 
-      He thought it extravagant to play upon wind instruments. He was
+      He thought it extravagant to play upon [[Wind|wind]] instruments. He was
 
-      the inventor of self-moving fans, wind-sails, and ventilators. He
+      the inventor of [[Self|self]]-moving fans, [[Wind|wind]]-sails, and ventilators. He
 
       patronized Du Pont the bellows-maker, and he died miserably in
 
@@ -154,11 +154,11 @@ tags:
 
       “Entitled,” I repeated, “to no earthly commiseration. Who indeed
 
-      would think of compassioning a shadow? Besides, has he not had
+      would think of compassioning a [[Shadow|shadow]]? Besides, has he not had
 
-      his full share of the blessings of mortality? He was the
+      his full share of the blessings of [[Mortality|mortality]]? He was the
 
-      originator of tall monuments—shot-towers—lightning-rods—Lombardy
+      originator of tall monuments—shot-towers—[[Lightning|lightning]]-rods—Lombardy
 
       poplars. His treatise upon “Shades and Shadows” has immortalized
 
@@ -166,13 +166,13 @@ tags:
 
       “South on the Bones.” He went early to college and studied
 
-      pneumatics. He then came home, talked eternally, and played upon
+      pneumatics. He then came [[Home|home]], talked eternally, and played upon
 
       the French-horn. He patronized the bagpipes. Captain Barclay, who
 
-      walked against Time, would not walk against him. Windham and
+      walked against [[Time]], would not walk against him. Windham and
 
-      Allbreath were his favorite writers,—his favorite artist, Phiz.
+      Allbreath were his favorite writers,—his favorite [[Artist|artist]], Phiz.
 
       He died gloriously while inhaling gas—levique flatu corrupitur,
 
@@ -206,15 +206,15 @@ of a gentleman’s discourse. Interruptions are annoying and should
 
 undoubtedly be abolished—don’t you think so?—no reply, I beg you,—one
 
-person is enough to be speaking at a time.—I shall be done by and by,
+person is enough to be speaking at a [[Time|time]].—I shall be done by and by,
 
 and then you may begin.—How the devil sir, did you get into this
 
-place?—not a word I beseech you—been here some time myself—terrible
+place?—not a word I beseech you—been here some [[Time|time]] myself—terrible
 
 accident!—heard of it, I suppose?—awful calamity!—walking under your
 
-windows—some short while ago—about the time you were
+windows—some short while ago—about the [[Time|time]] you were
 
 stage-struck—horrible occurrence!—heard of “catching one’s breath,”
 

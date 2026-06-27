@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE SPEAKING OF THE WORD"
+title: "[[FourFaultlessFelons]] — THE SPEAKING OF THE WORD"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"

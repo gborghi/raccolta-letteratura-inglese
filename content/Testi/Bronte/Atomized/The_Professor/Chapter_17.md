@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 16"
+title: "[[The Professor]] — Chapter 16"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -38,7 +38,7 @@ by my new pupil as degrading; she recoiled from it with a certain proud
 
 impatience. Hereupon I appointed her long lessons, and left her to solve
 
-alone any perplexities they might present. She set to the task with
+[[Alone|alone]] any perplexities they might present. She set to the task with
 
 serious ardour, and having quickly accomplished one labour, eagerly
 
@@ -48,7 +48,7 @@ it evinced itself thus: she liked to learn, but hated to teach; her
 
 progress as a pupil depended upon herself, and I saw that on herself she
 
-could calculate with certainty; her success as a teacher rested partly,
+could calculate with certainty; her [[success]] as a teacher rested partly,
 
 perhaps chiefly, upon the will of others; it cost her a most painful
 
@@ -60,7 +60,7 @@ general the action of her will was impeded by many scruples; it was as
 
 unembarrassed as strong where her own affairs were concerned, and to it
 
-she could at any time subject her inclination, if that inclination went
+she could at any [[Time|time]] subject her inclination, if that inclination went
 
 counter to her convictions of right; yet when called upon to wrestle
 
@@ -68,7 +68,7 @@ with the propensities, the habits, the faults of others, of children
 
 especially, who are deaf to reason, and, for the most part, insensate to
 
-persuasion, her will sometimes almost refused to act; then came in the
+[[Persuasion|persuasion]], her will sometimes almost refused to act; then came in the
 
 sense of duty, and forced the reluctant will into operation. A wasteful
 
@@ -84,7 +84,7 @@ resisting her painful attempts to convince, persuade, control--by
 
 forcing her to the employment of coercive measures--they could
 
-inflict upon her exquisite suffering. Human beings--human children
+inflict upon her exquisite [[Suffering|suffering]]. Human beings--human children
 
 especially--seldom deny themselves the pleasure of exercising a power
 
@@ -100,11 +100,11 @@ instructor, and he will generally use it relentlessly, because the very
 
 young, very healthy, very thoughtless, know neither how to sympathize
 
-nor how to spare. Frances, I fear, suffered much; a continual weight
+nor how to spare. Frances, I [[Fear|fear]], suffered much; a continual weight
 
 seemed to oppress her spirits; I have said she did not live in the
 
-house, and whether in her own abode, wherever that might be, she wore
+[[house]], and whether in her own abode, wherever that might be, she wore
 
 the same preoccupied, unsmiling, sorrowfully resolved air that always
 
@@ -120,13 +120,13 @@ singular affair most of the pupils made of it; brevity was what they
 
 had chiefly studied; the majority of the narratives were perfectly
 
-unintelligible; those of Sylvie and Leonie Ledru alone pretended to
+unintelligible; those of Sylvie and Leonie Ledru [[Alone|alone]] pretended to
 
 anything like sense and connection. Eulalie, indeed, had hit, upon a
 
 clever expedient for at once ensuring accuracy and saving trouble; she
 
-had obtained access somehow to an abridged history of England, and had
+had obtained access somehow to an abridged [[history]] of England, and had
 
 copied the anecdote out fair. I wrote on the margin of her production
 
@@ -140,11 +140,11 @@ sheets, neatly written out and stitched together; I knew the hand, and
 
 scarcely needed the evidence of the signature “Frances Evans Henri” to
 
-confirm my conjecture as to the writer’s identity.
+confirm my conjecture as to the writer’s [[Identity|identity]].
 
 
 
-Night was my usual time for correcting devoirs, and my own room the
+[[Night]] was my usual [[Time|time]] for correcting devoirs, and my own room the
 
 usual scene of such task--task most onerous hitherto; and it seemed
 
@@ -158,9 +158,9 @@ teacher’s manuscript.
 
 “Now,” thought I, “I shall see a glimpse of what she really is; I shall
 
-get an idea of the nature and extent of her powers; not that she can be
+get an idea of the [[Nature|nature]] and extent of her powers; not that she can be
 
-expected to express herself well in a foreign tongue, but still, if she
+expected to express herself [[Well|well]] in a foreign tongue, but still, if she
 
 has any mind, here will be a reflection of it.”
 
@@ -168,13 +168,13 @@ has any mind, here will be a reflection of it.”
 
 The narrative commenced by a description of a Saxon peasant’s hut,
 
-situated within the confines of a great, leafless, winter forest; it
+situated within the confines of a great, leafless, [[Winter|winter]] forest; it
 
-represented an evening in December; flakes of snow were falling, and
+represented an evening in December; flakes of [[Snow|snow]] were falling, and
 
-the herdsman foretold a heavy storm; he summoned his wife to aid him in
+the herdsman foretold a heavy [[Storm|storm]]; he summoned his wife to aid him in
 
-collecting their flock, roaming far away on the pastoral banks of the
+collecting their flock, roaming far away on the [[Pastoral|pastoral]] banks of the
 
 Thone; he warns her that it will be late ere they return. The good woman
 
@@ -190,11 +190,11 @@ mind the bread till her return.
 
 
 
-“Take care, young man,” she continues, “that you fasten the door well
+“Take care, young man,” she continues, “that you fasten the door [[Well|well]]
 
 after us; and, above all, open to none in our absence; whatever sound
 
-you hear, stir not, and look not out. The night will soon fall; this
+you hear, stir not, and look not out. The [[Night|night]] will soon fall; this
 
 forest is most wild and lonely; strange noises are often heard therein
 
@@ -202,7 +202,7 @@ after sunset; wolves haunt these glades, and Danish warriors infest the
 
 country; worse things are talked of; you might chance to hear, as it
 
-were, a child cry, and on opening the door to afford it succour, a great
+were, a [[Child|child]] cry, and on opening the door to afford it succour, a great
 
 black bull, or a shadowy goblin dog, might rush over the threshold;
 
@@ -210,27 +210,27 @@ or, more awful still, if something flapped, as with wings, against the
 
 lattice, and then a raven or a white dove flew in and settled on the
 
-hearth, such a visitor would be a sure sign of misfortune to the house;
+hearth, such a visitor would be a sure sign of misfortune to the [[house]];
 
 therefore, heed my advice, and lift the latchet for nothing.”
 
 
 
-Her husband calls her away, both depart. The stranger, left alone,
+Her husband calls her away, both depart. The stranger, left [[Alone|alone]],
 
-listens awhile to the muffled snow-wind, the remote, swollen sound of
+listens awhile to the muffled [[Snow|snow]]-[[Wind|wind]], the remote, swollen sound of
 
-the river, and then he speaks.
+the [[River|river]], and then he speaks.
 
 
 
-“It is Christmas Eve,” says he, “I mark the date; here I sit alone on
+“It is Christmas Eve,” says he, “I mark the date; here I sit [[Alone|alone]] on
 
 a rude couch of rushes, sheltered by the thatch of a herdsman’s hut;
 
-I, whose inheritance was a kingdom, owe my night’s harbourage to a poor
+I, whose inheritance was a kingdom, owe my [[Night|night]]’s harbourage to a poor
 
-serf; my throne is usurped, my crown presses the brow of an invader; I
+serf; my throne is usurped, my [[Crown|crown]] presses the brow of an invader; I
 
 have no friends; my troops wander broken in the hills of Wales; reckless
 
@@ -242,9 +242,9 @@ and now thou standest before me resting thy hand on thy blunted blade.
 
 Ay; I see thine eye confront mine and demand why I still live, why I
 
-still hope. Pagan demon, I credit not thine omnipotence, and so cannot
+still [[Hope|hope]]. Pagan demon, I credit not thine omnipotence, and so cannot
 
-succumb to thy power. My God, whose Son, as on this night, took on Him
+succumb to thy power. My God, whose Son, as on this [[Night|night]], took on Him
 
 the form of man, and for man vouchsafed to suffer and bleed, controls
 
@@ -254,11 +254,11 @@ is sinless, eternal, all-wise--in Him is my trust; and though stripped
 
 and crushed by thee--though naked, desolate, void of resource--I do not
 
-despair, I cannot despair: were the lance of Guthrum now wet with my
+[[Despair|despair]], I cannot [[Despair|despair]]: were the lance of Guthrum now wet with my
 
-blood, I should not despair. I watch, I toil, I hope, I pray; Jehovah,
+[[Blood|blood]], I should not [[Despair|despair]]. I watch, I toil, I [[Hope|hope]], I pray; Jehovah,
 
-in his own time, will aid.”
+in his own [[Time|time]], will aid.”
 
 
 
@@ -278,13 +278,13 @@ had hitherto seen nothing like it in the course of my professorial
 
 experience. The girl’s mind had conceived a picture of the hut, of the
 
-two peasants, of the crownless king; she had imagined the wintry forest,
+two peasants, of the crownless [[King|king]]; she had imagined the wintry forest,
 
-she had recalled the old Saxon ghost-legends, she had appreciated
+she had recalled the old Saxon [[Ghost|ghost]]-legends, she had appreciated
 
-Alfred’s courage under calamity, she had remembered his Christian
+Alfred’s [[Courage|courage]] under calamity, she had remembered his Christian
 
-education, and had shown him, with the rooted confidence of those
+[[Education|education]], and had shown him, with the rooted confidence of those
 
 primitive days, relying on the scriptural Jehovah for aid against the
 
@@ -322,7 +322,7 @@ a consciousness of her own talents. “If she thinks she did a clever
 
 thing in composing that devoir, she will now look mortified,” thought
 
-I. Grave as usual, almost sombre, was her face; as usual, her eyes were
+I. [[Grave]] as usual, almost sombre, was her face; as usual, her eyes were
 
 fastened on the cahier open before her; there was something, I thought,
 
@@ -344,13 +344,13 @@ up the void, repaired in a moment the transient collapse of feature;
 
 still, I felt, rather than saw, during the whole course of the lesson,
 
-that a hope had been wrenched from her, and that if she did not show
+that a [[Hope|hope]] had been wrenched from her, and that if she did not show
 
 distress, it was because she would not.
 
 
 
-At four o’clock, when the bell rang and the room was in immediate
+At four o’[[Clock|clock]], when the bell rang and the room was in immediate
 
 tumult, instead of taking my hat and starting from the estrade, I sat
 
@@ -364,7 +364,7 @@ and was turning to depart:--
 
 
 
-“Come here,” said I, lifting my finger at the same time. She hesitated;
+“Come here,” said I, lifting my finger at the same [[Time|time]]. She hesitated;
 
 she could not hear the words amidst the uproar now pervading both
 
@@ -382,7 +382,7 @@ with diffident, easily embarrassed characters, and with some slight
 
 manual aid I presently got her placed just where I wanted her to be,
 
-that is, between my desk and the window, where she was screened from the
+that is, between my desk and the [[Window|window]], where she was screened from the
 
 rush of the second division, and where no one could sneak behind her to
 
@@ -394,7 +394,7 @@ listen.
 
 knew what I was doing would be considered a very strange thing, and,
 
-what was more, I did not care. Frances knew it also, and, I fear, by an
+what was more, I did not care. Frances knew it also, and, I [[Fear|fear]], by an
 
 appearance of agitation and trembling, that she cared much. I drew from
 
@@ -444,9 +444,9 @@ such as they are you possess them--not probably in a paramount degree,
 
 but in a degree beyond what the majority can boast. You may then take
 
-courage; cultivate the faculties that God and nature have bestowed on
+[[Courage|courage]]; cultivate the faculties that God and [[Nature|nature]] have bestowed on
 
-you, and do not fear in any crisis of suffering, under any pressure of
+you, and do not [[Fear|fear]] in any crisis of [[Suffering|suffering]], under any pressure of
 
 injustice, to derive free and full consolation from the consciousness of
 
@@ -464,13 +464,13 @@ smile almost triumphant; it seemed to say--
 
 
 
-“I am glad you have been forced to discover so much of my nature; you
+“I am glad you have been forced to discover so much of my [[Nature|nature]]; you
 
 need not so carefully moderate your language. Do you think I am myself a
 
 stranger to myself? What you tell me in terms so qualified, I have known
 
-fully from a child.”
+fully from a [[Child|child]].”
 
 
 
@@ -486,7 +486,7 @@ obliterated for a single second, now reviving with sudden force, at once
 
 subdued the too vivid characters in which her sense of her powers had
 
-been expressed. So quick was the revulsion of feeling, I had not time to
+been expressed. So quick was the revulsion of feeling, I had not [[Time|time]] to
 
 check her triumph by reproof; ere I could contract my brows to a frown
 
@@ -496,7 +496,7 @@ she had become serious and almost mournful-looking.
 
 “Thank you, sir,” said she, rising. There was gratitude both in her
 
-voice and in the look with which she accompanied it. It was time,
+voice and in the look with which she accompanied it. It was [[Time|time]],
 
 indeed, for our conference to terminate; for, when I glanced around,
 

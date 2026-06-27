@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 21 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 21 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -20,7 +20,7 @@ Madam Mantalini finds herself in a Situation of some Difficulty, and
 Miss Nickleby finds herself in no Situation at all
 
 
-The agitation she had undergone, rendered Kate Nickleby unable to resume
+The agitation she had undergone, rendered [[Kate Nickleby]] unable to resume
 her duties at the dressmaker’s for three days, at the expiration of
 which interval she betook herself at the accustomed hour, and with
 languid steps, to the temple of fashion where Madame Mantalini reigned
@@ -50,10 +50,10 @@ reflections, when the voice of Madame Mantalini, conveyed through
 the speaking-tube, ordered Miss Nickleby upstairs to assist in the
 arrangement of the show-room; a distinction which caused Miss Knag to
 toss her head so much, and bite her lips so hard, that her powers of
-conversation were, for the time, annihilated.
+conversation were, for the [[Time|time]], annihilated.
 
-‘Well, Miss Nickleby, child,’ said Madame Mantalini, when Kate presented
-herself; ‘are you quite well again?’
+‘[[Well]], Miss Nickleby, [[Child|child]],’ said Madame Mantalini, when Kate presented
+herself; ‘are you quite [[Well|well]] again?’
 
 ‘A great deal better, thank you,’ replied Kate.
 
@@ -62,51 +62,51 @@ herself with an air of weariness.
 
 ‘Are you ill?’ asked Kate. ‘I am very sorry for that.’
 
-‘Not exactly ill, but worried, child--worried,’ rejoined Madame.
+‘Not exactly ill, but worried, [[Child|child]]--worried,’ rejoined Madame.
 
 ‘I am still more sorry to hear that,’ said Kate, gently. ‘Bodily illness
 is more easy to bear than mental.’
 
 ‘Ah! and it’s much easier to talk than to bear either,’ said Madame,
 rubbing her nose with much irritability of manner. ‘There, get to your
-work, child, and put the things in order, do.’
+work, [[Child|child]], and put the things in order, do.’
 
 While Kate was wondering within herself what these symptoms of unusual
 vexation portended, Mr. Mantalini put the tips of his whiskers, and, by
 degrees, his head, through the half-opened door, and cried in a soft
 voice--
 
-‘Is my life and soul there?’
+‘Is my life and [[Soul|soul]] there?’
 
 ‘No,’ replied his wife.
 
 ‘How can it say so, when it is blooming in the front room like a little
-rose in a demnition flower-pot?’ urged Mantalini. ‘May its poppet come
+[[Rose|rose]] in a demnition flower-pot?’ urged Mantalini. ‘May its poppet come
 in and talk?’
 
 ‘Certainly not,’ replied Madame: ‘you know I never allow you here. Go
 along!’
 
 The poppet, however, encouraged perhaps by the relenting tone of this
-reply, ventured to rebel, and, stealing into the room, made towards
+reply, ventured to [[Rebel|rebel]], and, stealing into the room, made towards
 Madame Mantalini on tiptoe, blowing her a kiss as he came along.
 
 ‘Why will it vex itself, and twist its little face into bewitching
 nutcrackers?’ said Mantalini, putting his left arm round the waist of
-his life and soul, and drawing her towards him with his right.
+his life and [[Soul|soul]], and drawing her towards him with his right.
 
 ‘Oh! I can’t bear you,’ replied his wife.
 
 ‘Not--eh, not bear ME!’ exclaimed Mantalini. ‘Fibs, fibs. It couldn’t
 be. There’s not a woman alive, that could tell me such a thing to my
 face--to my own face.’ Mr. Mantalini stroked his chin, as he said this,
-and glanced complacently at an opposite mirror.
+and glanced complacently at an opposite [[Mirror|mirror]].
 
 ‘Such destructive extravagance,’ reasoned his wife, in a low tone.
 
 ‘All in its joy at having gained such a lovely creature, such a little
-Venus, such a demd, enchanting, bewitching, engrossing, captivating
-little Venus,’ said Mantalini.
+[[Venus]], such a demd, enchanting, bewitching, engrossing, captivating
+little [[Venus]],’ said Mantalini.
 
 ‘See what a situation you have placed me in!’ urged Madame.
 
@@ -126,7 +126,7 @@ Mantalini appeared to make reference, more than once, to certain debts
 incurred by Mr. Mantalini previous to her coverture; and also to an
 unexpected outlay of money in payment of the aforesaid debts; and
 furthermore, to certain agreeable weaknesses on that gentleman’s part,
-such as gaming, wasting, idling, and a tendency to horse-flesh; each
+such as gaming, wasting, idling, and a tendency to [[Horse|horse]]-flesh; each
 of which matters of accusation Mr. Mantalini disposed of, by one kiss
 or more, as its relative importance demanded. The upshot of it all
 was, that Madame Mantalini was in raptures with him, and that they went

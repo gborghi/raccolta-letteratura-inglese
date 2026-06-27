@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 29 (part 1)"
+title: "[[Northanger Abbey]] — Chapter 29 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -20,19 +20,19 @@ CHAPTER 29
 
 
 
-Catherine was too wretched to be fearful. The journey in itself had no
+Catherine was too wretched to be fearful. The [[Journey|journey]] in itself had no
 
 terrors for her; and she began it without either dreading its length or
 
 feeling its solitariness. Leaning back in one corner of the carriage,
 
-in a violent burst of tears, she was conveyed some miles beyond the
+in a violent burst of [[Tears|tears]], she was conveyed some miles beyond the
 
 walls of the abbey before she raised her head; and the highest point of
 
 ground within the park was almost closed from her view before she was
 
-capable of turning her eyes towards it. Unfortunately, the road she now
+capable of turning her eyes towards it. Unfortunately, the [[Road|road]] she now
 
 travelled was the same which only ten days ago she had so happily
 
@@ -60,7 +60,7 @@ made use of such expressions with regard to Henry and herself, had so
 
 spoken and so looked as to give her the most positive conviction of his
 
-actually wishing their marriage. Yes, only ten days ago had he elated
+actually wishing their [[Marriage|marriage]]. Yes, only ten days ago had he elated
 
 her by his pointed regard—had he even confused her by his too
 
@@ -84,11 +84,11 @@ any strange mischance his father should have gained intelligence of
 
 what she had dared to think and look for, of her causeless fancies and
 
-injurious examinations, she could not wonder at any degree of his
+injurious examinations, she could not [[Wonder|wonder]] at any degree of his
 
 indignation. If aware of her having viewed him as a murderer, she could
 
-not wonder at his even turning her from his house. But a justification
+not [[Wonder|wonder]] at his even turning her from his [[house]]. But a justification
 
 so full of torture to herself, she trusted, would not be in his power.
 
@@ -112,7 +112,7 @@ was answered by the sweetest confidence in his regret and resentment.
 
 To the General, of course, he would not dare to speak; but to
 
-Eleanor—what might he not say to Eleanor about her?
+[[Eleanor]]—what might he not say to [[Eleanor]] about her?
 
 
 
@@ -120,19 +120,19 @@ In this unceasing recurrence of doubts and inquiries, on any one
 
 article of which her mind was incapable of more than momentary repose,
 
-the hours passed away, and her journey advanced much faster than she
+the hours passed away, and her [[Journey|journey]] advanced much faster than she
 
 looked for. The pressing anxieties of thought, which prevented her from
 
 noticing anything before her, when once beyond the neighbourhood of
 
-Woodston, saved her at the same time from watching her progress; and
+Woodston, saved her at the same [[Time|time]] from watching her progress; and
 
-though no object on the road could engage a moment’s attention, she
+though no object on the [[Road|road]] could engage a moment’s attention, she
 
 found no stage of it tedious. From this, she was preserved too by
 
-another cause, by feeling no eagerness for her journey’s conclusion;
+another cause, by feeling no eagerness for her [[Journey|journey]]’s conclusion;
 
 for to return in such a manner to Fullerton was almost to destroy the
 
@@ -140,13 +140,13 @@ pleasure of a meeting with those she loved best, even after an absence
 
 such as hers—an eleven weeks’ absence. What had she to say that would
 
-not humble herself and pain her family, that would not increase her own
+not humble herself and [[Pain|pain]] her family, that would not increase her own
 
 grief by the confession of it, extend an useless resentment, and
 
-perhaps involve the innocent with the guilty in undistinguishing ill
+perhaps involve the [[Innocent|innocent]] with the guilty in undistinguishing ill
 
-will? She could never do justice to Henry and Eleanor’s merit; she felt
+will? She could never do justice to Henry and [[Eleanor]]’s merit; she felt
 
 it too strongly for expression; and should a dislike be taken against
 
@@ -158,9 +158,9 @@ account, it would cut her to the heart.
 
 With these feelings, she rather dreaded than sought for the first view
 
-of that well-known spire which would announce her within twenty miles
+of that [[Well|well]]-known spire which would announce her within twenty miles
 
-of home. Salisbury she had known to be her point on leaving Northanger;
+of [[Home|home]]. Salisbury she had known to be her point on leaving Northanger;
 
 but after the first stage she had been indebted to the post-masters for
 
@@ -176,7 +176,7 @@ require; and stopping only to change horses, she travelled on for about
 
 eleven hours without accident or alarm, and between six and seven
 
-o’clock in the evening found herself entering Fullerton.
+o’[[Clock|clock]] in the evening found herself entering Fullerton.
 
 
 
@@ -188,13 +188,13 @@ countess, with a long train of noble relations in their several
 
 phaetons, and three waiting-maids in a travelling chaise and four,
 
-behind her, is an event on which the pen of the contriver may well
+behind her, is an event on which the pen of the contriver may [[Well|well]]
 
 delight to dwell; it gives credit to every conclusion, and the author
 
 must share in the glory she so liberally bestows. But my affair is
 
-widely different; I bring back my heroine to her home in solitude and
+widely different; I bring back my heroine to her [[Home|home]] in [[Solitude|solitude]] and
 
 disgrace; and no sweet elation of spirits can lead me into minuteness.
 
@@ -202,7 +202,7 @@ A heroine in a hack post-chaise is such a blow upon sentiment, as no
 
 attempt at grandeur or pathos can withstand. Swiftly therefore shall
 
-her post-boy drive through the village, amid the gaze of Sunday groups,
+her post-boy drive through the village, amid the gaze of [[Sunday]] groups,
 
 and speedy shall be her descent from it.
 

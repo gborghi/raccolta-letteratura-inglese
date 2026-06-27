@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 15"
+title: "[[Great Expectations]] — Chapter 15"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -18,9 +18,9 @@ Chapter XV.
 
 
 As I was getting too big for Mr. Wopsle’s great-aunt’s room, my
-education under that preposterous female terminated. Not, however,
-until Biddy had imparted to me everything she knew, from the little
-catalogue of prices, to a comic song she had once bought for a
+[[Education|education]] under that preposterous female terminated. Not, however,
+until [[Biddy]] had imparted to me everything she knew, from the little
+catalogue of prices, to a comic [[Song|song]] she had once bought for a
 half-penny. Although the only coherent part of the latter piece of
 literature were the opening lines,
 
@@ -32,7 +32,7 @@ literature were the opening lines,
      Too rul loo rul
 
 
-—still, in my desire to be wiser, I got this composition by heart with
+—still, in my [[Desire|desire]] to be wiser, I got this composition by heart with
 the utmost gravity; nor do I recollect that I questioned its merit,
 except that I thought (as I still do) the amount of Too rul somewhat in
 excess of the poetry. In my hunger for information, I made proposals to
@@ -44,45 +44,45 @@ ways, I soon declined that course of instruction; though not until Mr.
 Wopsle in his poetic fury had severely mauled me.
 
 Whatever I acquired, I tried to impart to Joe. This statement sounds so
-well, that I cannot in my conscience let it pass unexplained. I wanted
+[[Well|well]], that I cannot in my [[Conscience|conscience]] let it pass unexplained. I wanted
 to make Joe less ignorant and common, that he might be worthier of my
-society and less open to Estella’s reproach.
+society and less open to [[Estella]]’s reproach.
 
 The old Battery out on the marshes was our place of study, and a broken
 slate and a short piece of slate-pencil were our educational
 implements: to which Joe always added a pipe of tobacco. I never knew
-Joe to remember anything from one Sunday to another, or to acquire,
+Joe to remember anything from one [[Sunday]] to another, or to acquire,
 under my tuition, any piece of information whatever. Yet he would smoke
 his pipe at the Battery with a far more sagacious air than anywhere
 else,—even with a learned air,—as if he considered himself to be
-advancing immensely. Dear fellow, I hope he did.
+advancing immensely. Dear fellow, I [[Hope|hope]] he did.
 
-It was pleasant and quiet, out there with the sails on the river
+It was pleasant and quiet, out there with the sails on the [[River|river]]
 passing beyond the earthwork, and sometimes, when the tide was low,
 looking as if they belonged to sunken ships that were still sailing on
-at the bottom of the water. Whenever I watched the vessels standing out
+at the [[Bottom|bottom]] of the [[Water|water]]. Whenever I watched the vessels standing out
 to sea with their white sails spread, I somehow thought of Miss
-Havisham and Estella; and whenever the light struck aslant, afar off,
-upon a cloud or sail or green hillside or water-line, it was just the
-same.—Miss Havisham and Estella and the strange house and the strange
+Havisham and [[Estella]]; and whenever the light struck aslant, afar off,
+upon a cloud or sail or green hillside or [[Water|water]]-line, it was just the
+same.—[[Miss Havisham]] and [[Estella]] and the strange [[house]] and the strange
 life appeared to have something to do with everything that was
 picturesque.
 
-One Sunday when Joe, greatly enjoying his pipe, had so plumed himself
+One [[Sunday]] when Joe, greatly enjoying his pipe, had so plumed himself
 on being “most awful dull,” that I had given him up for the day, I lay
-on the earthwork for some time with my chin on my hand, descrying
-traces of Miss Havisham and Estella all over the prospect, in the sky
-and in the water, until at last I resolved to mention a thought
+on the earthwork for some [[Time|time]] with my chin on my hand, descrying
+traces of [[Miss Havisham]] and [[Estella]] all over the prospect, in the sky
+and in the [[Water|water]], until at last I resolved to mention a thought
 concerning them that had been much in my head.
 
-“Joe,” said I; “don’t you think I ought to make Miss Havisham a visit?”
+“Joe,” said I; “don’t you think I ought to make [[Miss Havisham]] a visit?”
 
-“Well, Pip,” returned Joe, slowly considering. “What for?”
+“[[Well]], Pip,” returned Joe, slowly considering. “What for?”
 
 “What for, Joe? What is any visit made for?”
 
 “There is some wisits p’r’aps,” said Joe, “as for ever remains open to
-the question, Pip. But in regard to wisiting Miss Havisham. She might
+the question, Pip. But in regard to wisiting [[Miss Havisham]]. She might
 think you wanted something,—expected something of her.”
 
 “Don’t you think I might say that I did not, Joe?”
@@ -94,7 +94,7 @@ Joe felt, as I did, that he had made a point there, and he pulled hard
 at his pipe to keep himself from weakening it by repetition.
 
 “You see, Pip,” Joe pursued, as soon as he was past that danger, “Miss
-Havisham done the handsome thing by you. When Miss Havisham done the
+Havisham done the handsome thing by you. When [[Miss Havisham]] done the
 handsome thing by you, she called me back to say to me as that were
 all.”
 
@@ -116,8 +116,8 @@ probable.
 
 “Yes, old chap.”
 
-“Here am I, getting on in the first year of my time, and, since the day
-of my being bound, I have never thanked Miss Havisham, or asked after
+“Here am I, getting on in the first year of my [[Time|time]], and, since the day
+of my being bound, I have never thanked [[Miss Havisham]], or asked after
 her, or shown that I remember her.”
 
 “That’s true, Pip; and unless you was to turn her out a set of shoes
@@ -136,7 +136,7 @@ like—”
 
 “I don’t mean any present at all, Joe,” I interposed.
 
-“Well,” said Joe, still harping on it as though I had particularly
+“[[Well]],” said Joe, still harping on it as though I had particularly
 pressed it, “if I was yourself, Pip, I wouldn’t. No, I would _not_. For
 what’s a door-chain when she’s got one always up? And shark-headers is
 open to misrepresentations. And if it was a toasting-fork, you’d go
@@ -148,7 +148,7 @@ but a gridiron it will come out, either by your leave or again your
 leave, and you can’t help yourself—”
 
 “My dear Joe,” I cried, in desperation, taking hold of his coat, “don’t
-go on in that way. I never thought of making Miss Havisham any
+go on in that way. I never thought of making [[Miss Havisham]] any
 present.”
 
 “No, Pip,” Joe assented, as if he had been contending for that, all
@@ -164,7 +164,7 @@ have been rechris’ened.”
 “I know, Joe, I know. It was a slip of mine. What do you think of it,
 Joe?”
 
-In brief, Joe thought that if I thought well of it, he thought well of
+In brief, Joe thought that if I thought [[Well|well]] of it, he thought [[Well|well]] of
 it. But, he was particular in stipulating that if I were not received
 with cordiality, or if I were not encouraged to repeat my visit as a
 visit which had no ulterior object but was simply one of gratitude for
@@ -180,7 +180,7 @@ understanding. He was a broadshouldered loose-limbed swarthy fellow of
 great strength, never in a hurry, and always slouching. He never even
 seemed to come to his work on purpose, but would slouch in as if by
 mere accident; and when he went to the Jolly Bargemen to eat his
-dinner, or went away at night, he would slouch out, like Cain or the
+dinner, or went away at [[Night|night]], he would slouch out, like [[Cain]] or the
 Wandering Jew, as if he had no idea where he was going and no intention
 of ever coming back. He lodged at a sluice-keeper’s out on the marshes,
 and on working-days would come slouching from his hermitage, with his
@@ -194,14 +194,14 @@ was rather an odd and injurious fact that he should never be thinking.
 
 This morose journeyman had no liking for me. When I was very small and
 timid, he gave me to understand that the Devil lived in a black corner
-of the forge, and that he knew the fiend very well: also that it was
-necessary to make up the fire, once in seven years, with a live boy,
+of the forge, and that he knew the fiend very [[Well|well]]: also that it was
+necessary to make up the [[Fire|fire]], once in seven years, with a live boy,
 and that I might consider myself fuel. When I became Joe’s ’prentice,
 Orlick was perhaps confirmed in some suspicion that I should displace
 him; howbeit, he liked me still less. Not that he ever said anything,
 or did anything, openly importing hostility; I only noticed that he
 always beat his sparks in my direction, and that whenever I sang Old
-Clem, he came in out of time.
+Clem, he came in out of [[Time|time]].
 
 Dolge Orlick was at work and present, next day, when I reminded Joe of
 my half-holiday. He said nothing at the moment, for he and Joe had just
@@ -220,7 +220,7 @@ it as _him_,” said Orlick.
 
 “As to Pip, he’s going up town,” said Joe.
 
-“Well then, as to Old Orlick, _he_’s a-going up town,” retorted that
+“[[Well]] then, as to Old Orlick, _he_’s a-going up town,” retorted that
 worthy. “Two can go up town. Tain’t only one wot can go up town.
 
 “Don’t lose your temper,” said Joe.
@@ -230,9 +230,9 @@ master! Come. No favouring in this shop. Be a man!”
 
 The master refusing to entertain the subject until the journeyman was
 in a better temper, Orlick plunged at the furnace, drew out a red-hot
-bar, made at me with it as if he were going to run it through my body,
+bar, made at me with it as if he were going to run it through my [[Body|body]],
 whisked it round my head, laid it on the anvil, hammered it out,—as if
-it were I, I thought, and the sparks were my spirting blood,—and
+it were I, I thought, and the sparks were my spirting [[Blood|blood]],—and
 finally said, when he had hammered himself hot and the iron cold, and
 he again leaned on his hammer,—
 
@@ -242,33 +242,33 @@ he again leaned on his hammer,—
 
 “Ah! I am all right,” said gruff Old Orlick.
 
-“Then, as in general you stick to your work as well as most men,” said
+“Then, as in general you stick to your work as [[Well|well]] as most men,” said
 Joe, “let it be a half-holiday for all.”
 
 My sister had been standing silent in the yard, within hearing,—she was
 a most unscrupulous spy and listener,—and she instantly looked in at
 one of the windows.
 
-“Like you, you fool!” said she to Joe, “giving holidays to great idle
+“Like you, you [[Fool|fool]]!” said she to Joe, “giving holidays to great idle
 hulkers like that. You are a rich man, upon my life, to waste wages in
 that way. I wish _I_ was his master!”
 
 “You’d be everybody’s master, if you durst,” retorted Orlick, with an
 ill-favoured grin.
 
-(“Let her alone,” said Joe.)
+(“Let her [[Alone|alone]],” said Joe.)
 
 “I’d be a match for all noodles and all rogues,” returned my sister,
 beginning to work herself into a mighty rage. “And I couldn’t be a
 match for the noodles, without being a match for your master, who’s the
-dunder-headed king of the noodles. And I couldn’t be a match for the
+dunder-headed [[King|king]] of the noodles. And I couldn’t be a match for the
 rogues, without being a match for you, who are the blackest-looking and
 the worst rogue between this and France. Now!”
 
 “You’re a foul shrew, Mother Gargery,” growled the journeyman. “If that
 makes a judge of rogues, you ought to be a good’un.”
 
-(“Let her alone, will you?” said Joe.)
+(“Let her [[Alone|alone]], will you?” said Joe.)
 
 “What did you say?” cried my sister, beginning to scream. “What did you
 say? What did that fellow Orlick say to me, Pip? What did he call me,
@@ -284,16 +284,16 @@ me! Oh!”
 “Ah-h-h!” growled the journeyman, between his teeth, “I’d hold you, if
 you was my wife. I’d hold you under the pump, and choke it out of you.”
 
-(“I tell you, let her alone,” said Joe.)
+(“I tell you, let her [[Alone|alone]],” said Joe.)
 
 “Oh! To hear him!” cried my sister, with a clap of her hands and a
 scream together,—which was her next stage. “To hear the names he’s
-giving me! That Orlick! In my own house! Me, a married woman! With my
+giving me! That Orlick! In my own [[house]]! Me, a married woman! With my
 husband standing by! Oh! Oh!” Here my sister, after a fit of clappings
 and screamings, beat her hands upon her bosom and upon her knees, and
 threw her cap off, and pulled her hair down,—which were the last stages
-on her road to frenzy. Being by this time a perfect Fury and a complete
-success, she made a dash at the door which I had fortunately locked.
+on her [[Road|road]] to frenzy. Being by this [[Time|time]] a perfect Fury and a complete
+[[success]], she made a dash at the door which I had fortunately locked.
 
 What could the wretched Joe do now, after his disregarded parenthetical
 interruptions, but stand up to his journeyman, and ask him what he
@@ -304,14 +304,14 @@ straightway; so, without so much as pulling off their singed and burnt
 aprons, they went at one another, like two giants. But, if any man in
 that neighbourhood could stand uplong against Joe, I never saw the man.
 Orlick, as if he had been of no more account than the pale young
-gentleman, was very soon among the coal-dust, and in no hurry to come
+gentleman, was very soon among the coal-[[Dust|dust]], and in no hurry to come
 out of it. Then Joe unlocked the door and picked up my sister, who had
-dropped insensible at the window (but who had seen the fight first, I
-think), and who was carried into the house and laid down, and who was
+dropped insensible at the [[Window|window]] (but who had seen the fight first, I
+think), and who was carried into the [[house]] and laid down, and who was
 recommended to revive, and would do nothing but struggle and clench her
-hands in Joe’s hair. Then came that singular calm and silence which
+hands in Joe’s hair. Then came that singular calm and [[Silence|silence]] which
 succeed all uproars; and then, with the vague sensation which I have
-always connected with such a lull,—namely, that it was Sunday, and
+always connected with such a lull,—namely, that it was [[Sunday]], and
 somebody was dead,—I went upstairs to dress myself.
 
 [Illustration]
@@ -321,42 +321,42 @@ other traces of discomposure than a slit in one of Orlick’s nostrils,
 which was neither expressive nor ornamental. A pot of beer had appeared
 from the Jolly Bargemen, and they were sharing it by turns in a
 peaceable manner. The lull had a sedative and philosophical influence
-on Joe, who followed me out into the road to say, as a parting
+on Joe, who followed me out into the [[Road|road]] to say, as a parting
 observation that might do me good, “On the Rampage, Pip, and off the
 Rampage, Pip:—such is Life!”
 
 With what absurd emotions (for we think the feelings that are very
 serious in a man quite comical in a boy) I found myself again going to
-Miss Havisham’s, matters little here. Nor, how I passed and repassed
+[[Miss Havisham]]’s, matters little here. Nor, how I passed and repassed
 the gate many times before I could make up my mind to ring. Nor, how I
 debated whether I should go away without ringing; nor, how I should
-undoubtedly have gone, if my time had been my own, to come back.
+undoubtedly have gone, if my [[Time|time]] had been my own, to come back.
 
-Miss Sarah Pocket came to the gate. No Estella.
+Miss Sarah Pocket came to the gate. No [[Estella]].
 
 “How, then? You here again?” said Miss Pocket. “What do you want?”
 
-When I said that I only came to see how Miss Havisham was, Sarah
+When I said that I only came to see how [[Miss Havisham]] was, Sarah
 evidently deliberated whether or no she should send me about my
 business. But unwilling to hazard the responsibility, she let me in,
 and presently brought the sharp message that I was to “come up.”
 
-Everything was unchanged, and Miss Havisham was alone.
+Everything was unchanged, and [[Miss Havisham]] was [[Alone|alone]].
 
-“Well?” said she, fixing her eyes upon me. “I hope you want nothing?
+“[[Well]]?” said she, fixing her eyes upon me. “I [[Hope|hope]] you want nothing?
 You’ll get nothing.”
 
-“No indeed, Miss Havisham. I only wanted you to know that I am doing
-very well in my apprenticeship, and am always much obliged to you.”
+“No indeed, [[Miss Havisham]]. I only wanted you to know that I am doing
+very [[Well|well]] in my apprenticeship, and am always much obliged to you.”
 
 “There, there!” with the old restless fingers. “Come now and then; come
 on your birthday.—Ay!” she cried suddenly, turning herself and her
-chair towards me, “You are looking round for Estella? Hey?”
+chair towards me, “You are looking round for [[Estella]]? Hey?”
 
-I had been looking round,—in fact, for Estella,—and I stammered that I
-hoped she was well.
+I had been looking round,—in fact, for [[Estella]],—and I stammered that I
+hoped she was [[Well|well]].
 
-“Abroad,” said Miss Havisham; “educating for a lady; far out of reach;
+“Abroad,” said [[Miss Havisham]]; “educating for a lady; far out of reach;
 prettier than ever; admired by all who see her. Do you feel that you
 have lost her?”
 
@@ -365,33 +365,33 @@ words, and she broke into such a disagreeable laugh, that I was at a
 loss what to say. She spared me the trouble of considering, by
 dismissing me. When the gate was closed upon me by Sarah of the
 walnut-shell countenance, I felt more than ever dissatisfied with my
-home and with my trade and with everything; and that was all I took by
+[[Home|home]] and with my trade and with everything; and that was all I took by
 _that_ motion.
 
 As I was loitering along the High Street, looking in disconsolately at
 the shop windows, and thinking what I would buy if I were a gentleman,
 who should come out of the bookshop but Mr. Wopsle. Mr. Wopsle had in
-his hand the affecting tragedy of George Barnwell, in which he had that
+his hand the affecting [[Tragedy|tragedy]] of George Barnwell, in which he had that
 moment invested sixpence, with the view of heaping every word of it on
 the head of Pumblechook, with whom he was going to drink tea. No sooner
-did he see me, than he appeared to consider that a special Providence
+did he see me, than he appeared to consider that a special [[Providence]]
 had put a ’prentice in his way to be read at; and he laid hold of me,
 and insisted on my accompanying him to the Pumblechookian parlour. As I
-knew it would be miserable at home, and as the nights were dark and the
-way was dreary, and almost any companionship on the road was better
+knew it would be miserable at [[Home|home]], and as the nights were dark and the
+way was dreary, and almost any companionship on the [[Road|road]] was better
 than none, I made no great resistance; consequently, we turned into
 Pumblechook’s just as the street and the shops were lighting up.
 
 As I never assisted at any other representation of George Barnwell, I
-don’t know how long it may usually take; but I know very well that it
-took until half-past nine o’ clock that night, and that when Mr. Wopsle
+don’t know how long it may usually take; but I know very [[Well|well]] that it
+took until half-past nine o’ [[Clock|clock]] that [[Night|night]], and that when Mr. Wopsle
 got into Newgate, I thought he never would go to the scaffold, he
 became so much slower than at any former period of his disgraceful
 career. I thought it a little too much that he should complain of being
 cut short in his flower after all, as if he had not been running to
 seed, leaf after leaf, ever since his course began. This, however, was
 a mere question of length and wearisomeness. What stung me, was the
-identification of the whole affair with my unoffending self. When
+identification of the whole affair with my unoffending [[Self|self]]. When
 Barnwell began to go wrong, I declare that I felt positively
 apologetic, Pumblechook’s indignant stare so taxed me with it. Wopsle,
 too, took pains to present me in the worst light. At once ferocious and
@@ -403,16 +403,16 @@ conduct on the fatal morning, is, that it was worthy of the general
 feebleness of my character. Even after I was happily hanged and Wopsle
 had closed the book, Pumblechook sat staring at me, and shaking his
 head, and saying, “Take warning, boy, take warning!” as if it were a
-well-known fact that I contemplated murdering a near relation, provided
+[[Well|well]]-known fact that I contemplated murdering a near relation, provided
 I could only induce one to have the weakness to become my benefactor.
 
-It was a very dark night when it was all over, and when I set out with
-Mr. Wopsle on the walk home. Beyond town, we found a heavy mist out,
+It was a very dark [[Night|night]] when it was all over, and when I set out with
+Mr. Wopsle on the walk [[Home|home]]. Beyond town, we found a heavy mist out,
 and it fell wet and thick. The turnpike lamp was a blur, quite out of
 the lamp’s usual place apparently, and its rays looked solid substance
-on the fog. We were noticing this, and saying how that the mist rose
-with a change of wind from a certain quarter of our marshes, when we
-came upon a man, slouching under the lee of the turnpike house.
+on the fog. We were noticing this, and saying how that the mist [[Rose|rose]]
+with a change of [[Wind|wind]] from a certain quarter of our marshes, when we
+came upon a man, slouching under the lee of the turnpike [[house]].
 
 “Halloa!” we said, stopping. “Orlick there?”
 
@@ -421,7 +421,7 @@ chance of company.”
 
 “You are late,” I remarked.
 
-Orlick not unnaturally answered, “Well? And _you_’re late.”
+Orlick not unnaturally answered, “[[Well]]? And _you_’re late.”
 
 “We have been,” said Mr. Wopsle, exalted with his late performance,—“we
 have been indulging, Mr. Orlick, in an intellectual evening.”
@@ -436,24 +436,24 @@ is going again.”
 
 “At the Hulks?” said I.
 
-“Ay! There’s some of the birds flown from the cages. The guns have been
+“Ay! There’s some of the [[Birds|birds]] flown from the cages. The guns have been
 going since dark, about. You’ll hear one presently.”
 
 In effect, we had not walked many yards further, when the
-well-remembered boom came towards us, deadened by the mist, and heavily
-rolled away along the low grounds by the river, as if it were pursuing
+[[Well|well]]-remembered boom came towards us, deadened by the mist, and heavily
+rolled away along the low grounds by the [[River|river]], as if it were pursuing
 and threatening the fugitives.
 
-“A good night for cutting off in,” said Orlick. “We’d be puzzled how to
-bring down a jail-bird on the wing, to-night.”
+“A good [[Night|night]] for cutting off in,” said Orlick. “We’d be puzzled how to
+bring down a jail-bird on the wing, to-[[Night|night]].”
 
 The subject was a suggestive one to me, and I thought about it in
-silence. Mr. Wopsle, as the ill-requited uncle of the evening’s
-tragedy, fell to meditating aloud in his garden at Camberwell. Orlick,
+[[Silence|silence]]. Mr. Wopsle, as the ill-requited uncle of the evening’s
+[[Tragedy|tragedy]], fell to meditating aloud in his [[Garden|garden]] at Camberwell. Orlick,
 with his hands in his pockets, slouched heavily at my side. It was very
 dark, very wet, very muddy, and so we splashed along. Now and then, the
 sound of the signal cannon broke upon us again, and again rolled
-sulkily along the course of the river. I kept myself to myself and my
+sulkily along the course of the [[River|river]]. I kept myself to myself and my
 thoughts. Mr. Wopsle died amiably at Camberwell, and exceedingly game
 on Bosworth Field, and in the greatest agonies at Glastonbury. Orlick
 sometimes growled, “Beat it out, beat it out,—Old Clem! With a clink
@@ -462,7 +462,7 @@ not drunk.
 
 Thus, we came to the village. The way by which we approached it took us
 past the Three Jolly Bargemen, which we were surprised to find—it being
-eleven o’clock—in a state of commotion, with the door wide open, and
+eleven o’[[Clock|clock]]—in a state of commotion, with the door wide open, and
 unwonted lights that had been hastily caught up and put down scattered
 about. Mr. Wopsle dropped in to ask what was the matter (surmising that
 a convict had been taken), but came running out in a great hurry.
@@ -472,8 +472,8 @@ place, Pip. Run all!”
 
 “What is it?” I asked, keeping up with him. So did Orlick, at my side.
 
-“I can’t quite understand. The house seems to have been violently
-entered when Joe Gargery was out. Supposed by convicts. Somebody has
+“I can’t quite understand. The [[house]] seems to have been violently
+entered when [[Joe Gargery]] was out. Supposed by convicts. Somebody has
 been attacked and hurt.”
 
 We were running too fast to admit of more being said, and we made no
@@ -484,5 +484,5 @@ of the kitchen. The unemployed bystanders drew back when they saw me,
 and so I became aware of my sister,—lying without sense or movement on
 the bare boards where she had been knocked down by a tremendous blow on
 the back of the head, dealt by some unknown hand when her face was
-turned towards the fire,—destined never to be on the Rampage again,
+turned towards the [[Fire|fire]],—destined never to be on the Rampage again,
 while she was the wife of Joe.

@@ -19,23 +19,23 @@ CHAPTER 6. The Father of the Marshalsea
 
 Thirty years ago there stood, a few doors short of the church of Saint
 George, in the borough of Southwark, on the left-hand side of the way
-going southward, the Marshalsea Prison. It had stood there many years
+going southward, the Marshalsea [[Prison]]. It had stood there many years
 before, and it remained there some years afterwards; but it is gone now,
 and the world is none the worse without it.
 
 It was an oblong pile of barrack building, partitioned into squalid
 houses standing back to back, so that there were no back rooms;
 environed by a narrow paved yard, hemmed in by high walls duly spiked at
-top. Itself a close and confined prison for debtors, it contained within
+top. Itself a close and confined [[Prison|prison]] for debtors, it contained within
 it a much closer and more confined jail for smugglers. Offenders against
 the revenue laws, and defaulters to excise or customs who had incurred
 fines which they were unable to pay, were supposed to be incarcerated
-behind an iron-plated door closing up a second prison, consisting of a
+behind an iron-plated door closing up a second [[Prison|prison]], consisting of a
 strong cell or two, and a blind alley some yard and a half wide, which
 formed the mysterious termination of the very limited skittle-ground in
 which the Marshalsea debtors bowled down their troubles.
 
-Supposed to be incarcerated there, because the time had rather outgrown
+Supposed to be incarcerated there, because the [[Time|time]] had rather outgrown
 the strong cells and the blind alley. In practice they had come to be
 considered a little too bad, though in theory they were quite as good as
 ever; which may be observed to be the case at the present day with other
@@ -51,11 +51,11 @@ out again as soon as he hadn’t done it--neatly epitomising the
 administration of most of the public affairs in our right little, tight
 little, island.
 
-There had been taken to the Marshalsea Prison, long before the day when
+There had been taken to the Marshalsea [[Prison]], long before the day when
 the sun shone on Marseilles and on the opening of this narrative, a
 debtor with whom this narrative has some concern.
 
-He was, at that time, a very amiable and very helpless middle-aged
+He was, at that [[Time|time]], a very amiable and very helpless middle-aged
 gentleman, who was going out again directly. Necessarily, he was going
 out again directly, because the Marshalsea lock never turned upon a
 debtor who was not. He brought in a portmanteau with him, which he
@@ -63,7 +63,7 @@ doubted its being worth while to unpack; he was so perfectly clear--like
 all the rest of them, the turnkey on the lock said--that he was going
 out again directly.
 
-He was a shy, retiring man; well-looking, though in an effeminate style;
+He was a shy, retiring man; [[Well|well]]-looking, though in an effeminate style;
 with a mild voice, curling hair, and irresolute hands--rings upon the
 fingers in those days--which nervously wandered to his trembling lip a
 hundred times in the first half-hour of his acquaintance with the jail.
@@ -80,16 +80,16 @@ you see?’ he philosophically asked: ‘that’s what it hinges on.’
 
 ‘That,’ said the turnkey, ‘is agen her.’
 
-‘She is so little used to go out alone,’ said the debtor, ‘that I am at
+‘She is so little used to go out [[Alone|alone]],’ said the debtor, ‘that I am at
 a loss to think how she will ever make her way here, if she walks.’
 
 ‘P’raps,’ quoth the turnkey, ‘she’ll take a ackney coach.’
 
-‘Perhaps.’ The irresolute fingers went to the trembling lip. ‘I hope she
+‘Perhaps.’ The irresolute fingers went to the trembling lip. ‘I [[Hope|hope]] she
 will. She may not think of it.’
 
 ‘Or p’raps,’ said the turnkey, offering his suggestions from the the top
-of his well-worn wooden stool, as he might have offered them to a child
+of his [[Well|well]]-worn wooden stool, as he might have offered them to a [[Child|child]]
 for whose weakness he felt a compassion, ‘p’raps she’ll get her brother,
 or her sister, to come along with her.’
 
@@ -99,7 +99,7 @@ or her sister, to come along with her.’
 or another on ‘em,’ said the turnkey, repudiating beforehand the refusal
 of all his suggestions.
 
-‘I fear--I hope it is not against the rules--that she will bring the
+‘I [[Fear|fear]]--I [[Hope|hope]] it is not against the rules--that she will bring the
 children.’
 
 ‘The children?’ said the turnkey. ‘And the rules? Why, lord set you
@@ -107,13 +107,13 @@ up like a corner pin, we’ve a reg’lar playground o’ children here.
 Children! Why we swarm with ‘em. How many a you got?’
 
 ‘Two,’ said the debtor, lifting his irresolute hand to his lip again,
-and turning into the prison.
+and turning into the [[Prison|prison]].
 
 The turnkey followed him with his eyes. ‘And you another,’ he observed
 to himself, ‘which makes three on you. And your wife another, I’ll lay
-a crown. Which makes four on you. And another coming, I’ll lay
-half-a-crown. Which’ll make five on you. And I’ll go another seven and
-sixpence to name which is the helplessest, the unborn baby or you!’
+a [[Crown|crown]]. Which makes four on you. And another coming, I’ll lay
+half-a-[[Crown|crown]]. Which’ll make five on you. And I’ll go another seven and
+sixpence to name which is the helplessest, the [[unborn]] baby or you!’
 
 He was right in all his particulars. She came next day with a little
 boy of three years old, and a little girl of two, and he stood entirely

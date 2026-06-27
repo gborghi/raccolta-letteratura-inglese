@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote"
+title: "[[Don Quixote]]"
 author: "Chesterton"
 unitType: work
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -13,7 +13,7 @@ tags:
 </nav>
 
 
-THE RETURN OF DON QUIXOTE
+THE RETURN OF [[Don Quixote|DON QUIXOTE]]
 
 BY
 
@@ -21,7 +21,7 @@ G. K. CHESTERTON
 
 DODD, MEAD & COMPANY
 
-NEW YORK 1927
+[[New York|NEW YORK]] 1927
 
 -^-
 
@@ -31,11 +31,11 @@ W. R. TITTERTON
 
 MY DEAR TITTERTON,
 
-This parable for social reformers, as you know, was planned and
+This [[Parable|parable]] for social reformers, as you know, was planned and
 partly written long before the War; so that touching some things,
 from Fascism to nigger dances, it was a quite unintentional prophecy.
 It was your too generous confidence that dragged it from its
-dusty drawer; whether the world has any reason to thank you I doubt;
+dusty drawer; whether the world has any reason to thank you I [[Doubt|doubt]];
 but I have so many reasons for thanking you, and recognising all you
 have done for our cause, that I dedicate this book to you.
 
@@ -57,17 +57,17 @@ CHAPTER
    IX  THE MYSTERY OF A HANSOM CAB
     X  WHEN DOCTORS DISAGREE
    XI  THE LUNACY OF THE LIBRARIAN
-  XII  THE STATESMAN AND THE SUMMER-HOUSE
+  XII  THE STATESMAN AND THE [[Summer|SUMMER]]-[[house|HOUSE]]
  XIII  THE VICTORIAN AND THE ARROW
   XIV  THE RETURN OF THE KNIGHT-ERRANT
    XV  THE PARTING OF THE WAYS
-  XVI  THE JUDGMENT OF THE KING
- XVII  THE DEPARTURE OF DON QUIXOTE
-XVIII THE SECRET OF SEAWOOD XIX THE RETURN OF DON QUIXOTE
+  XVI  THE JUDGMENT OF THE [[King|KING]]
+ XVII  THE DEPARTURE OF [[Don Quixote|DON QUIXOTE]]
+XVIII THE SECRET OF SEAWOOD XIX THE RETURN OF [[Don Quixote|DON QUIXOTE]]
 
 -^-
 
-THE RETURN OF DON QUIXOTE
+THE RETURN OF [[Don Quixote|DON QUIXOTE]]
 
 -^-
 
@@ -77,12 +77,12 @@ A HOLE IN THE CASTE
 
 The end of the longest room at Seawood Abbey was full of light;
 for the walls were almost made of windows and it projected
-upon a terraced part of the garden above the park on an almost
+upon a terraced part of the [[Garden|garden]] above the park on an almost
 cloudless morning.  Murrel, called Monkey for some reason that
 everybody had forgotten, and Olive Ashley were taking advantage
 of the light to occupy themselves with painting; though she
 was painting on a very small scale and he on a very large one.
-She was laying out peculiar pigments very carefully, in imitation
+She was laying out peculiar pigments very carefully, in [[Imitation|imitation]]
 of the flat jewellery of medieval illumination, for which she
 had a great enthusiasm, as part of a rather vague notion
 of a historic past.  He, on the other hand, was highly modern,
@@ -94,20 +94,20 @@ theatricals then in preparation.  They could not paint,
 either of them; nor did they imagine that they could.
 But she was in some sense trying to do so; and he was not.
 
-"It's all very well for you to talk about discords,"
+"It's all very [[Well|well]] for you to talk about discords,"
 he was saying somewhat defensively, for she was a critical lady,
 "but your style of painting narrows the mind.  After all,
 scene-painting is only illumination seen through a microscope."
 
 "I hate microscopes," she observed briefly.
 
-"Well, you look as if you wanted one, poring over that stuff,"
+"[[Well]], you look as if you wanted one, poring over that stuff,"
 replied her companion, "in fact I fancy I have seen people
 screwing a great thing in their eye while they did it.
-I hope you won't go so far as that:  it wouldn't suit your
+I [[Hope|hope]] you won't go so far as that:  it wouldn't suit your
 style at all."
 
-This was true enough, no doubt, for she was a small, slight girl,
+This was true enough, no [[Doubt|doubt]], for she was a small, slight girl,
 with dark delicate features of the kind called regular; and her
 dark green dress, which was aesthetic but the reverse of Bohemian,
 had something akin to the small severities of her task.
@@ -122,7 +122,7 @@ to adjure her not to put the brush in the mouth.
 
 "What I mean," she said, resuming the subject of microscopes,
 "is that all your science and modern stuff has only made things ugly,
-and people ugly as well.  I don't want to look down a microscope
+and people ugly as [[Well|well]].  I don't want to look down a microscope
 any more than down a drain.  You only see a lot of horrid little
 things crawling about.  I don't want to look down at all.
 That's why I like all this old Gothic painting and building;
@@ -132,7 +132,7 @@ that points to heaven."
 "It's rude to the point," said Murrel, "and I think they might have given
 us credit for noticing the sky."
 
-"You know perfectly well what I mean," replied the lady,
+"You know perfectly [[Well|well]] what I mean," replied the lady,
 painting placidly, "all the originality of those medieval
 people was in the way they built their churches.
 The whole point of them was the pointed arches."
@@ -148,29 +148,29 @@ prize-fight for the world; but I shouldn't mind a bit being
 a lady at one of the old tournaments."
 
 "You might be a lady, but I shouldn't be a lord," said the
-scene-painter gloomily.  "Not my luck.  Even if I were a king,
+scene-painter gloomily.  "Not my luck.  Even if I were a [[King|king]],
 I should only be drowned in a butt of sack and never smile again.
 But it's more my luck to be born a serf or something.
 A leper, or some such medieval institution.  Yes, that's how it
 would be--the minute I'd poked my nose into the thirteenth
-century I'd be appointed Chief Leper to the king or somebody;
-and have to squint into church through that little window."
+century I'd be appointed Chief Leper to the [[King|king]] or somebody;
+and have to squint into church through that little [[Window|window]]."
 
-"You don't squint into church through any window at present,"
+"You don't squint into church through any [[Window|window]] at present,"
 observed the lady, "nor has it occurred to you even to do
 so through the door."
 
 "Oh, I leave all that to you," he said, and proceeded to splash away
-in silence.  He was engaged on a modest interior of "The Throne Room
-of Richard Coeur de Lion," which he treated in a scheme of scarlet,
+in [[Silence|silence]].  He was engaged on a modest interior of "The Throne Room
+of [[Richard]] Coeur de [[Lion]]," which he treated in a scheme of scarlet,
 crimson and purple which Miss Ashley strove in vain to arrest;
 though she really had some rights of protest in the matter,
 having both selected the medieval subject and even written the play,
 so far as her more sportive collaborators would allow her.
 It was all about Blondel, the Troubadour, who serenaded Coeur de
-Lion and many other people; including the daughter of the house;
+[[Lion]] and many other people; including the daughter of the [[house]];
 who was addicted to theatricals and kept him at it.
-The Hon. Douglas Murrel, or Monkey, cheerfully confronted his ill-success
+The Hon. Douglas Murrel, or Monkey, cheerfully confronted his ill-[[success]]
 in scene-painting, having succeeded equally ill in many other things.
 He was a man of wide culture, and had failed in all subjects.
 He had especially failed in politics; having once been
@@ -194,10 +194,10 @@ which were almost as lively as the colours on his brush.
 
 "I've a negro taste," he explained, laying on a giant streak
 of sanguine colour, "these mongrel greys of the mystics make me
-as tired as they are.  They talk about a Celtic Renaissance;
-but I'm for an Ethiopian Renaissance.  The banjo to be more truly
+as tired as they are.  They talk about a Celtic [[Renaissance]];
+but I'm for an Ethiopian [[Renaissance]].  The banjo to be more truly
 what's-its-name than old Dolmetch's lute.  No dances but the deep,
-heart-weary Break-Down--there's tears in the very name--no historical
+heart-weary Break-Down--there's [[Tears|tears]] in the very name--no historical
 characters except Toussaint L'Ouverture and Booker Washington,
 no fictitious characters except Uncle Remus and Uncle Tom.
 I bet it wouldn't take much to make the Smart Set black
@@ -207,10 +207,10 @@ Something tells me I was intended for a Margate nigger.
 I _do_ think vulgarity is so nice, don't you?"
 
 She did not reply; indeed she seemed a little absent-minded.
-Her humour had been faintly shrewdish; but when her face
+Her [[Humour|humour]] had been faintly shrewdish; but when her face
 fell into seriousness it was entirely young.  Her fine
-profile with parted lips suddenly suggested not only a child,
-but a lost child.
+profile with parted lips suddenly suggested not only a [[Child|child]],
+but a lost [[Child|child]].
 
 "I remember an old illumination that had a negro in it," she said
 at last.  "It was one of the Three Kings at Bethlehem, with gold crowns.
@@ -220,11 +220,11 @@ a way of doing it.  But we can't get the exact red they used now;
 I know people who have really tried.  It's one of the lost arts,
 like the stained glass."
 
-"This red will do very well for our modern purpose,"
+"This red will do very [[Well|well]] for our modern purpose,"
 said Murrel equably.
 
 She still looked out abstractedly at the circle of the woods
-under the morning sky.  "I rather wonder sometimes," she said,
+under the morning sky.  "I rather [[Wonder|wonder]] sometimes," she said,
 "what are our modern purposes.
 
 "Painting the town red, I suppose," he answered.
@@ -234,48 +234,48 @@ under the morning sky.  "I rather wonder sometimes," she said,
 You know they always gilt the name of God?  I think if they
 gilt any word now it would be Gold."
 
-The industrious silence which ensued was at length broken by a distant
+The industrious [[Silence|silence]] which ensued was at length broken by a distant
 voice down the corridors calling out:  "Monkey!" in a boisterous
 and imperative manner.  Murrel did not in the least object to being
 called a monkey, yet he always felt a slight distaste when Julian Archer
-called him one.  It had nothing to do with jealousy; though Archer
-had the same vague universality of success as Murrel had of failure.
+called him one.  It had nothing to do with [[Jealousy|jealousy]]; though Archer
+had the same vague universality of [[success]] as Murrel had of failure.
 It had to do with a fine shade between familiarity and intimacy,
 which men like Murrel are never ready to disregard, however ready
-they may be to black their faces.  When he was at Oxford he had often
+they may be to black their faces.  When he was at [[Oxford]] he had often
 carried ragging to something within measurable distance of murder.
 But he never threw people out of top windows unless they were
 his personal friends.
 
 Julian Archer was one of those men who seem to be in a great
 many places at once; and to be very important for some reason
-which is difficult to specify.  He was not a fool or a fraud:
+which is difficult to specify.  He was not a [[Fool|fool]] or a fraud:
 he acquitted himself with credit and moderation in the various
 examinations or responsibilities which appeared to be forced upon him.
 But spectators of the subtler sort could never quite understand
 why these things always were forced upon him, and not upon the man
 next door.  Some magazine would have a symposium, let us say,
 on "Shall We Eat Meat?" in which answers would be obtained from
-Bernard Shaw, Dr. Saleeby, Lord Dawson of Penn and Mr. Julian Archer.
+Bernard [[Shaw]], Dr. Saleeby, Lord Dawson of Penn and Mr. Julian Archer.
 A committee would be formed for a National Theatre or a
 Shakespeare Memorial:  and speeches would be delivered from
-the platform by Miss Viola Tree, Sir Arthur Pinero, Mr. Comyns Carr
+the platform by Miss [[Viola]] Tree, Sir [[arthur|Arthur]] Pinero, Mr. Comyns Carr
 and Mr. Julian Archer.  A composite book of essays would be
-published called "The Hope of a Hereafter," with contributions
-by Sir Oliver Lodge, Miss Marie Corelli, Mr. Joseph McCabe
+published called "The [[Hope]] of a Hereafter," with contributions
+by Sir [[Oliver]] Lodge, Miss Marie Corelli, Mr. Joseph McCabe
 and Mr. Julian Archer.  He was a Member of Parliament and of many
-other clubs.  He had written a historical novel; he was an admirable
+other clubs.  He had written a [[Historical Novel|historical novel]]; he was an admirable
 amateur actor:  so that his claims to take the leading part
 in the play of "Blondel the Troubadour" could not be disputed.
 In all this there was nothing objectionable or even eccentric.
-His historical novel about Agincourt was quite good considered
-as a modern historical novel; that is, considered as the
+His [[Historical Novel|historical novel]] about Agincourt was quite good considered
+as a modern [[Historical Novel|historical novel]]; that is, considered as the
 adventures of a modern public schoolboy at a fancy dress ball.
 He was in favour of moderate indulgence in meat; and moderate
-indulgence in personal immortality.  But his temperate opinions
+indulgence in personal [[Immortality|immortality]].  But his temperate opinions
 were loudly and positively uttered, as in the deep and resonant
 voice which was now booming down the passages.  He was one of
-those who can endure that silence which comes after a platitude.
+those who can endure that [[Silence|silence]] which comes after a platitude.
 His voice went before him everywhere; as did his reputation and his
 photograph in the society papers; with its dark curls and bold
 handsome face.  Miss Ashley remarked that he looked like a tenor.
@@ -291,11 +291,11 @@ put him out.
 
 "I say," he said, "Braintree won't act."
 
-"Well," said Murrel, painting stolidly, "I never thought he would."
+"[[Well]]," said Murrel, painting stolidly, "I never thought he would."
 
 "Rather rot, I know, having to ask a fellow like that:
 but there was simply nobody else.  I told Lord Seawood it was rot
-to have it at this time of the year when all his friends are away.
+to have it at this [[Time|time]] of the year when all his friends are away.
 Braintree's only an acquaintance, of course, and I can't imagine
 how he even came to be that."
 
@@ -323,12 +323,12 @@ things if you call him a Socialist.  He is a Syndicalist."
 things better," said Archer in a general manner, "but nobody
 can defend a man who sets one class against another as he does;
 talking about manual labour and all sorts of impossible Utopias.
-I've always said that Capital has its duties as well as its--."
+I've always said that Capital has its duties as [[Well|well]] as its--."
 
-"Well," interposed Murrel hastily, "I'm prejudiced in the present case.
+"[[Well]]," interposed Murrel hastily, "I'm prejudiced in the present case.
 Look at me; you couldn't have anybody more manual than I am."
 
-"Well, he won't act, anyhow," repeated Archer, "and we must
+"[[Well]], he won't act, anyhow," repeated Archer, "and we must
 find somebody.  It's only the Second Troubadour, of course,
 and anybody can do it.  But it must be somebody fairly young;
 that's the only reason I thought of Braintree."
@@ -343,7 +343,7 @@ are sordid; just prosaic and low, and wrangling about machinery
 and money--materialists.  They just want a world of atheists,
 that would soon be a world of apes."
 
-After a silence, Murrel crossed to the other end of the long
+After a [[Silence|silence]], Murrel crossed to the other end of the long
 room and could be heard calling a number into the telephone.
 There ensued one of those half conversations that make the hearer
 feel as if he were literally half-witted: but in this case
@@ -359,7 +359,7 @@ I won't even paint you--all right."
 
 He rang off and returned to his creative labours, whistling.
 
-"Do you know Mr. Braintree?" asked Olive, with some wonder.
+"Do you know Mr. Braintree?" asked Olive, with some [[Wonder|wonder]].
 
 "You know I have a taste for low company," answered Murrel.
 
@@ -369,8 +369,8 @@ He rang off and returned to his creative labours, whistling.
 "A taste for low company doesn't make people thieves," said Murrel,
 "it's generally a taste for high company that does that."
 And he proceeded to decorate a vivid violet pillar with very large
-orange stars, in accordance with the well-known style of the
-ornamentation of throne-rooms in the reign of Richard the First.
+orange [[Stars|stars]], in accordance with the [[Well|well]]-known style of the
+ornamentation of throne-rooms in the reign of [[Richard]] the First.
 
 -^-
 
@@ -385,7 +385,7 @@ as he did for an instant at the sight of Murrel's scenery,
 he looked pleasant enough.  On being introduced to the lady,
 he bowed with a politeness that was formal and almost stiff;
 the style once found in aristocrats but now most common
-in well-educated artisans; for Braintree had begun life
+in [[Well|well]]-educated artisans; for Braintree had begun life
 as an engineer.
 
 "I came up here because you asked me, Douglas," he said,
@@ -394,28 +394,28 @@ as an engineer.
 "Don't you like my scheme of colour?" asked Murrel.
 "It is much admired."
 
-"Well," replied the other, "I don't know that I do particularly
+"[[Well]]," replied the other, "I don't know that I do particularly
 like your plastering romantic purple over all that old feudal
 tyranny and superstition; but that isn't my difficulty.
 Look here, Douglas; I came here on the strict understanding that I
 might say what I liked; but for all that I don't particularly
-want to talk against the man in his own house if I can help it.
+want to talk against the man in his own [[house]] if I can help it.
 So perhaps the shortest way of putting the difficulty will
-be to say that the Miners' Union here has declared a strike;
-and that I am the secretary of the Miners' Union.  And as I'm
+be to say that the Miners' [[Union]] here has declared a strike;
+and that I am the secretary of the Miners' [[Union]].  And as I'm
 trying to spoil his work by staying out, I think it would
 be a little low down to spoil his play by coming in."
 
 "What are you striking about?" asked Archer.
 
-"Well, we want more money," replied Braintree coolly.  "When two pennies
+"[[Well]], we want more money," replied Braintree coolly.  "When two pennies
 will only buy one penny loaf we want two pennies to buy it with.
 It is called the complexity of the Industrial System.  But what counts
-for even more with the Union is the demand for recognition."
+for even more with the [[Union]] is the demand for recognition."
 
 "Recognition of what?"
 
-"Well, you see, the Trades Union doesn't exist.  It is a grinding tyranny,
+"[[Well]], you see, the Trades [[Union]] doesn't exist.  It is a grinding tyranny,
 and it threatens to destroy all British trade; but it doesn't exist.
 The one thing that Lord Seawood and all its most indignant critics are
 certain about, is that it doesn't exist.  So, by way of suggesting that
@@ -424,15 +424,15 @@ there might possibly be such an entity, we reserve the right to strike."
 "And leave the whole wretched public without coal,
 I suppose," cried Archer heatedly, "if you do, I fancy
 you'll find public opinion is a bit too strong for you.
-If you won't get the coal and the Government won't make you,
+If you won't get the coal and the [[government|Government]] won't make you,
 we'll find people who will get it.  I, for one, would answer
-for a hundred fellows from Oxford and Cambridge or the City,
+for a hundred fellows from [[Oxford]] and Cambridge or the [[City]],
 who wouldn't mind working in the mine to spoil your conspiracy."
 
 "While you're about it," replied Braintree contemptuously,
-"you might as well get a hundred coal-miners to finish Miss Ashley's
+"you might as [[Well|well]] get a hundred coal-miners to finish Miss Ashley's
 illumination for her.  Mining is a very skilled trade, my good sir.
-A coal-miner isn't a coal-heaver. You might do very well
+A coal-miner isn't a coal-heaver. You might do very [[Well|well]]
 as a coal-heaver."
 
 "I suppose you mean that as an insult," said Archer.
@@ -456,12 +456,12 @@ the mine ought to belong to the miner."
 "but how would you manage with the miner owning the mine?"
 
 "Ridiculous idea, isn't it?" said the Syndicalist, "One might
-as well talk about the painter owning the paint-box."
+as [[Well|well]] talk about the painter owning the paint-box."
 
-Olive rose and walked to the French windows that stood open on the garden;
+Olive [[Rose|rose]] and walked to the French windows that stood open on the [[Garden|garden]];
 and looked out, frowning.  The frown was partly at the Syndicalist,
 but partly also at some thoughts of her own.  After a few minutes'
-silence, she stepped out on to the gravel path and walked slowly away.
+[[Silence|silence]], she stepped out on to the gravel path and walked slowly away.
 There was a certain restrained rebuke about the action; but Braintree
 was too hot in his intellectualism to heed it.
 
@@ -473,7 +473,7 @@ how wild and Utopian it is for a fiddler to own his fiddle."
 
 Murrel once more changed the subject to his original frivolities.
 
-"Well, well," he said, "these social problems will never be settled
+"[[Well]], [[Well|well]]," he said, "these social problems will never be settled
 till we fall back on my expedient.  All the nobility and culture
 of France assembled to see Louis XVI put on the red cap.
 How impressive it will be when all our artists and leaders of thought
@@ -484,7 +484,7 @@ Braintree was still looking at Julian Archer with a darkened face.
 "At present," he said, "our artists and leaders have only got
 so far as blacking his boots."
 
-Archer sprang up as if he had been named as well as looked at.
+Archer sprang up as if he had been named as [[Well|well]] as looked at.
 
 "When a gentleman is accused of blacking boots," he said,
 "there is danger of his blacking eyes instead."
@@ -495,7 +495,7 @@ Braintree took one bony fist out of his pocket.
 
 "Don't play the goat, either of you," insisted the peace-maker,
 interposing his large red paint-brush, "don't rampage, Jack.
-You'll put your foot in it--in King Richard's red curtains."
+You'll put your foot in it--in [[King]] [[Richard]]'s red curtains."
 
 Archer retired slowly to his seat again; and his antagonist,
 after an instant's hesitation, turned to go out through
@@ -506,20 +506,20 @@ I'm quite content to have made a hole in your caste.
 What do you want with me?  I know you're really a gentleman;
 but I like you for all that.  But what good has your being
 a real gentleman or sham gentleman ever done to us?
-You know as well as I do that men like me are asked to houses
+You know as [[Well|well]] as I do that men like me are asked to houses
 like this, and they go there to say a word for their mates;
 and you are decent to them, and all sorts of beautiful
 women are decent to them, and everybody's decent to them;
-and the time comes when they become just--well, what do you
+and the [[Time|time]] comes when they become just--[[Well|well]], what do you
 call a man who has a letter to deliver from his friend and is
 afraid to deliver it?"
 
 "Yes, but look here," remonstrated Murrel, "you've not only made a hole,
 but you've put me in it.  I really can't get hold of anybody else now.
 It isn't to come on for a month; but there'll be fewer people still then;
-and we shall probably want that time to rehearse.  Why can't you
+and we shall probably want that [[Time|time]] to rehearse.  Why can't you
 just do it as a favour?  What does it matter what your opinions are?
-I haven't got any opinions myself; I used them all up at the Union when I
+I haven't got any opinions myself; I used them all up at the [[Union]] when I
 was a boy.  But I hate disappointing the ladies; and there really aren't
 any other men in the place."
 
@@ -527,7 +527,7 @@ Braintree looked at him steadily.
 
 "Aren't any other men," he repeated.
 
-"Well there's old Seawood, of course," said Murrel.
+"[[Well]] there's old Seawood, of course," said Murrel.
 "He's not a bad old chap in his way; and you mustn't
 expect me to take as severe a view of him as you do.
 But I own I can hardly fancy him as a Troubadour.
@@ -536,7 +536,7 @@ There really and truly aren't any other men at all."
 Braintree still looked at him.
 
 "There is a man in the next room," he said, "there is a man
-in the passage; there is a man in the garden; there is
+in the passage; there is a man in the [[Garden|garden]]; there is
 a man at the front door; there is a man in the stables;
 there is a man in the kitchen; there is a man in the cellar.
 What sort of palace of lies have you built for yourselves,
@@ -545,9 +545,9 @@ not even know that they are men?  Why do we strike?
 Because you forget our very existence when we do not strike.
 Tell your servants to serve you; but why should I?"
 
-And he went out into the garden and walked furiously away.
+And he went out into the [[Garden|garden]] and walked furiously away.
 
-"Well," said Archer at last, "I must confess I can't stand your friend
+"[[Well]]," said Archer at last, "I must confess I can't stand your friend
 at any price."
 
 Murrel stepped back from his canvas and put his head on one side,
@@ -572,46 +572,46 @@ I will go lower still, and ask the librarian.  Why, of course!
 The very thing!  The librarian!"
 
 And with sudden impetuosity he slung his heavy paint-brush
-to the other side of the room and ran out into the garden,
+to the other side of the room and ran out into the [[Garden|garden]],
 followed by the wondering Mr. Archer.
 
 It was quite early in the morning; for the amateurs had risen
-some time before breakfast to act or paint; and Braintree
-always rose early, to write and send off a rigorous,
+some [[Time|time]] before breakfast to act or paint; and Braintree
+always [[Rose|rose]] early, to write and send off a rigorous,
 not to say rabid, leading article for a Labour evening paper.
 The white light still had that pale pink tinge in corners and
 edges which must have caused the poet, somewhat fantastically,
-to equip the daybreak with fingers.  The house stood high upon
+to equip the daybreak with fingers.  The [[house]] stood high upon
 a lift of land that sank on two sides towards the Severn.
-The terraced garden, fringed with knots of tapering trees carrying
-white clouds of the spring blossom, with large flower-beds flung out
+The terraced [[Garden|garden]], fringed with knots of tapering trees carrying
+white clouds of the [[Spring|spring]] blossom, with large flower-beds flung out
 in a scheme like heraldry, at once strict and gay, scarcely veiled,
 and did not confuse, the colossal curve of the landscape.
 Along its lines the clouds rolled up and lifted like cannon smoke,
 as if the sun were silently storming the high places of the earth.
-Wind and sun burnished the slanting grass; and they seemed
+[[Wind]] and sun burnished the slanting grass; and they seemed
 to stand on the shining shoulder of the world.  At a high angle,
-but as if by accident, stood a pedestal'd grey fragment from
+but as if by accident, stood a pedestal'd grey [[Fragment|fragment]] from
 the ruins of the old abbey which had once stood on that site.
-Beyond was the corner of an older wing of the house towards
+Beyond was the corner of an older wing of the [[house]] towards
 which Murrel was making his way.  Archer had the theatrical
-sort of good looks, as well as the theatrical sort of
+sort of good looks, as [[Well|well]] as the theatrical sort of
 fine clothes, which is effective in such natural pageantry;
 and the picturesque illusion was clinched by a figure as quaintly
 clad which came out into the sunshine a few moments after.
-It was a young lady with a royal crown and red hair that looked
+It was a young lady with a royal [[Crown|crown]] and red hair that looked
 almost as royal, for she habitually carried her head with
-something of haughtiness as well as health; and seemed to snuff
-up the breeze like the war-horse in scripture; to rejoice
-in her robes as they swept with the sweeping wind and land.
+something of haughtiness as [[Well|well]] as health; and seemed to snuff
+up the breeze like the war-[[Horse|horse]] in scripture; to rejoice
+in her robes as they swept with the sweeping [[Wind|wind]] and land.
 Julian Archer in his close-fitting suit of three colours made up
 an excellent picture; beside which the modern colours of Murrel's
 tweeds and tie looked as common as those of the stablemen among
 whom he was in the habit of lounging.
 
 Rosamund Severne, Lord Seawood's only daughter, was of the type
-that throws itself into things; and makes a splash.  Her great beauty
-was of the exuberant sort, like her good-nature and good spirits;
+that throws itself into things; and makes a splash.  Her great [[Beauty|beauty]]
+was of the exuberant sort, like her good-[[Nature|nature]] and good spirits;
 and she thoroughly enjoyed being a medieval princess--in a play.
 But she had none of the reactionary dreaminess of her friend and
 guest Miss Ashley.  On the contrary, she was very up-to-date and
@@ -632,16 +632,16 @@ I say, do you know your own librarian by sight, by any chance?"
 
 "What on earth have librarians got to do with it?" asked Rosamund
 in her matter-of-fact way.  "Yes, of course, I know him.
-I don't think anybody knows him very well."
+I don't think anybody knows him very [[Well|well]]."
 
 "Sort of book-worm, I suppose," observed Archer.
 
-"Well, we're all worms," remarked Murrel cheerfully, "I suppose
+"[[Well]], we're all worms," remarked Murrel cheerfully, "I suppose
 a book-worm shows a rather refined and superior taste in diet.
 But, look here, I rather want to catch that worm, like the early bird.
 I say, Rosamund, do be an early bird and catch him for me."
 
-"Well, I am rather an early bird this morning," she replied,
+"[[Well]], I am rather an early bird this morning," she replied,
 "quite a skylark."
 
 "And quite ready for skylarking, I suppose," said Murrel.
@@ -649,12 +649,12 @@ I say, Rosamund, do be an early bird and catch him for me."
 where cares abound; that is do you know the library where books abound,
 and can you bring me a real live librarian?"
 
-"I believe he's in there now," said Rosamund with some wonder.
+"I believe he's in there now," said Rosamund with some [[Wonder|wonder]].
 "You've only got to go in and speak to him; though I can't imagine
 what you want."
 
 "You always go to the point," said Murrel, "straight from the shoulder;
-true to the kindred points of heaven and home; you're the right sort
+true to the kindred points of heaven and [[Home|home]]; you're the right sort
 of bird, you are."
 
 "A bird of paradise," said Mr. Archer gracefully.
@@ -664,7 +664,7 @@ of bird, you are."
 
 "I am a worm and a goose and a monkey," assented Murrel.
 "My evolution never stops; but before I turn into something else
-let me explain.  Archer, with his infernal aristocratic pride,
+let me explain.  Archer, with his infernal aristocratic [[Pride|pride]],
 won't allow the knife-boy to act as Troubadour, so I'm falling
 back on the librarian.  I don't know his name, but we simply
 must get somebody."
@@ -674,10 +674,10 @@ must get somebody."
 quite a learned man."
 
 But Murrel had already darted on in his impetuous fashion
-and disappeared round a corner of the house towards the glass
+and disappeared round a corner of the [[house]] towards the glass
 doors leading into the library.  But even as he turned the corner
 he stopped suddenly and stared at something in the middle distance.
-On the ridge of the high garden, where it fell away into the
+On the ridge of the high [[Garden|garden]], where it fell away into the
 lower grounds, dark against the morning sky, stood two figures;
 the very last he would ever have expected to see standing together.
 One was John Braintree, that deplorable demagogue.  The other
@@ -685,7 +685,7 @@ was Olive Ashley.  Even as he looked, it is true, Olive turned
 away with what looked like a gesture of anger or repudiation.
 But it seemed to Murrel much more extraordinary that they
 should have met than that they should have parted.  A rather
-puzzled look appeared on his melancholy monkey face for a moment;
+puzzled look appeared on his [[Melancholy|melancholy]] monkey face for a moment;
 then he turned and stepped lightly into the library.
 
 -^-
@@ -718,15 +718,15 @@ or alphabet of Hittite hieroglyphics, which were different
 from all other hieroglyphics, which, indeed, to the careless
 eye of the cold world, did not appear to be hieroglyphics
 at all, but irregular surfaces of partially decayed stone.
-But as the Bible said somewhere that somebody drove away
+But as the [[Bible]] said somewhere that somebody drove away
 forty-seven camels, Professor Elk was able to spread the great
 and glad news that in the Hittite account of what was evidently
 the same incident, the researches of the learned Herne had
 already deciphered a distinct allusion to only forty camels;
 a discovery which gravely affected the foundations of Christian
 cosmology and seemed to many to open alarming and promising
-vistas in the matter of the institution of marriage.
-The librarian's name became quite current in journalism for a time,
+vistas in the matter of the institution of [[Marriage|marriage]].
+The librarian's name became quite current in journalism for a [[Time|time]],
 and insistence on the persecution or neglect suffered at the hands
 of the orthodox by Galileo, Bruno, and Herne, became an agreeable
 variation on the recognised triad of Galileo, Bruno, and Darwin.
@@ -750,12 +750,12 @@ not in the mere sense of looking elsewhere, but almost as if it
 were in some other head than his own.  And indeed, in a manner,
 it was; it was in the head of a Hittite ten thousand years ago.
 
-For there was something in Michael Herne which is perhaps
-in every specialist, buried under his mountains of material
-and alone enabling him to support them; something of what,
+For there was something in [[Michael]] Herne which is perhaps
+in every specialist, buried under his [[Mountains|mountains]] of material
+and [[Alone|alone]] enabling him to support them; something of what,
 when it gains vent in an upper air, is called poetry.
 He instinctively made pictures of the things he studied.
-Even discerning men, appreciative of many corners of history,
+Even discerning men, appreciative of many corners of [[history]],
 would have seen in him only a dusty antiquarian, fumbling with
 pre-historic pots and pans or the everlasting stone hatchet;
 a hatchet that most of us are very willing to bury.
@@ -767,15 +767,15 @@ see it boiling, to cook something killed with the hatchet.
 He would not have called it "something," of course; but given
 the name of some sufficiently edible bird or beast; he was quite
 capable of making out a Hittite _menu._ From such faint fragments
-he had indeed erected a visionary and archaic city and state,
+he had indeed erected a visionary and archaic [[City|city]] and state,
 eclipsing Assyria in its elephantine and unshapely enormity.
-His soul was afar off, walking under strange skies of turquoise
+His [[Soul|soul]] was afar off, walking under strange skies of turquoise
 and gold; amid head-dresses like high sepulchres and sepulchres higher
 than citadels; and beards braided as if into figured tapestries.
-When he looked out of the open library window at the gardener
-sweeping the trim garden walks of Seawood, it was not these things
-that he saw.  He saw those huge enthroned brutes and birds
-that seemed to be hewn out of mountains.  He saw those vast,
+When he looked out of the open library [[Window|window]] at the gardener
+sweeping the trim [[Garden|garden]] walks of Seawood, it was not these things
+that he saw.  He saw those huge enthroned brutes and [[Birds|birds]]
+that seemed to be hewn out of [[Mountains|mountains]].  He saw those vast,
 overpowering faces, that seemed to have been planned like cities.
 There were even hints that he had allowed the Hittites to prey
 upon his mind to its slight unsettlement.  A story was current
@@ -786,22 +786,22 @@ the books and driven to take refuge on the top of the library steps.
 But opinion was divided as to whether this story was founded
 on fact or on Mr. Douglas Murrel.
 
-Anyhow, the anecdote was at least an allegory.  Few realise how much
+Anyhow, the anecdote was at least an [[Allegory|allegory]].  Few realise how much
 of controversial war and tumult can be covered by an obscure hobby.
 The fighting spirit has almost taken refuge in hobbies as in
 holes and corners of the earth; and left the larger public
-fields singularly dull and flat and free from real debate.
+fields singularly dull and flat and free from real [[debate]].
 It might be imagined that the _Daily Wire_ was a slashing paper
 and the _Review of Assyrian Excavation_ was a mild and peaceful one.
-But in truth it is the other way.  It is the popular paper that has
+But in [[Truth|truth]] it is the other way.  It is the popular paper that has
 become cold and conventional, and full of clichés used without
-any conviction.  It is the scholarly paper that is full of fire
-and fanaticism and rivalry.  Mr. Herne could not contain himself
+any conviction.  It is the scholarly paper that is full of [[Fire|fire]]
+and [[Fanaticism|fanaticism]] and rivalry.  Mr. Herne could not contain himself
 when he thought of Professor Poole and his preposterous and monstrous
-suggestion about the Pre-Hittite sandal.  He pursued the Professor,
+suggestion about the Pre-Hittite sandal.  He pursued [[The Professor|the Professor]],
 if not with a broom at least with a pen brandished like a weapon;
 and expended on these unheard-of questions energies of real eloquence,
-logic and living enthusiasm which the world will never hear of either.
+[[logic]] and living enthusiasm which the world will never hear of either.
 And when he discovered fresh facts, exposed accepted fallacies or
 concentrated on contradictions which he exposed with glaring lucidity,
 he was not an inch nearer to any public recognition but he was
@@ -809,8 +809,8 @@ something which public men cannot invariably claim to be.
 He was happy.
 
 For the rest, he was the son of a poor parson; he was one of the few
-who have succeeded in being unsociable at Oxford, not from positive
-dislike of society but from an equally positive love of solitude;
+who have succeeded in being unsociable at [[Oxford]], not from positive
+dislike of society but from an equally positive [[Love|love]] of [[Solitude|solitude]];
 and his few but persistent bodily exercises were either solitary
 like walking and swimming, or rather rare and eccentric, like fencing.
 He had a very good general knowledge of books and, having to earn his
@@ -818,16 +818,16 @@ own living, was very glad to earn a salary by looking after the fine
 old library collected by the previous owners of Seawood Abbey.
 But the one holiday of his life had been full of hard work, when he went
 as a minor assistant in the excavations of Hittite cities in Arabia;
-and all his day-dreams were but repetitions of that holiday.
+and all his day-[[Dreams|dreams]] were but repetitions of that holiday.
 
 He was standing at the open French windows by which the library looked
 on to the lawn, with his hands in his trousers' pockets, and the rather
 blind look of introspection in his eyes when the green line of
-the garden was broken by the apparition of three figures, two of whom
+the [[Garden|garden]] was broken by the apparition of three figures, two of whom
 at least might have been considered striking, not to say startling.
-They might have been gaily coloured ghosts, come out of the past.
+They might have been gaily coloured [[Ghosts|ghosts]], come out of the past.
 Their costume was far from being Hittite, as even a humbler grade of
-specialism might well have perceived; but it was almost as outlandish.
+specialism might [[Well|well]] have perceived; but it was almost as outlandish.
 Only the third figure, in a light tweed jacket and trousers was of
 a reassuring modernity.
 
@@ -852,8 +852,8 @@ fallen through and we don't want to give up the whole thing."
 "What play is it?" he asked.
 
 "Oh, it's all nonsense, of course," she said easily,
-"it's called 'Blondel the Troubadour,' about Richard Coeur de
-Lion and serenades and princesses and castles and the usual
+"it's called 'Blondel the Troubadour,' about [[Richard]] Coeur de
+[[Lion]] and serenades and princesses and castles and the usual
 sort of thing.  But we want somebody for the Second Troubadour,
 who has to go about with Blondel and talk to him.
 Or rather be talked to, for, of course, Blondel does all
@@ -863,7 +863,7 @@ the talking.  It wouldn't take you long to learn your part."
 
 "What we really want," said Archer more seriously, "is a rich
 romantic background, so to speak.  That's what the Second Troubadour
-stands for; like 'The Forest Lovers,' boyhood's dreams of the past,
+stands for; like 'The Forest [[lovers|Lovers]],' boyhood's [[Dreams|dreams]] of the past,
 full of knights errant and hermits and all the rest of it."
 
 "Rather rough to ask anybody to be a rich romantic background at such
@@ -892,14 +892,14 @@ and entirely bald; and so fat he can hardly walk."
 
 The girl exploded with something not much more dignified
 than a giggle; "Goodness!" she said.  "Think of bringing
-him all the way from Oxford and dressing him up like that,"
+him all the way from [[Oxford]] and dressing him up like that,"
 and she pointed with irrepressible mirth at Mr. Archer's legs,
 which were of somewhat dubious date.
 
 "He's the one man who could interpret the period,"
 said the librarian, shaking his head, "As to bringing him
-from Oxford, the only other man I can think of you'd have to bring
-from Paris.  There are one or two Frenchmen and a German.
+from [[Oxford]], the only other man I can think of you'd have to bring
+from [[Paris]].  There are one or two Frenchmen and a German.
 But there's no other historian in England to touch him."
 
 "Oh, come," remonstrated Archer, "Bancock's the most famous historical
@@ -909,14 +909,14 @@ writer since Macaulay; famous all over the world."
 shade of distaste.  "Garton Rogers is your only man."
 
 The lady in the horned head-dress exploded again.  "But Lord
-bless my soul," she cried, "it only takes about two hours!"
+bless my [[Soul|soul]]," she cried, "it only takes about two hours!"
 
 "Long enough for little mistakes to be noticed,"
 said the librarian gloomily.  "To reconstruct a past period
 for two solid hours wants more work than you might fancy.
 If it were only my own period now . . ."
 
-"Well, if we do want a learned man, who could be better than you?"
+"[[Well]], if we do want a learned man, who could be better than you?"
 asked the lady, with bright but illogical triumph.
 
 Herne was looking at her with a sort of sad eagerness;
@@ -930,9 +930,9 @@ of the Hittite priests and gods look stiff to them.  But I feel
 as if I knew from those stiff attitudes what sort of dances they had.
 I sometimes feel as if I could hear the music."
 
-For the first time in that clatter of cross-purposes there
-was a suspension of speech and an instantaneous silence;
-and the eyes of the learned librarian, like the eyes of a fool,
+For the first [[Time|time]] in that clatter of [[Cross|cross]]-purposes there
+was a suspension of speech and an instantaneous [[Silence|silence]];
+and the eyes of the learned librarian, like the eyes of a [[Fool|fool]],
 were in the ends of the earth.  Then he went on as with a
 sort of soliloquy.
 
@@ -948,13 +948,13 @@ Anybody would say at once, 'That's a Hittite gesture.'"
 to a hundred lips."
 
 But though he continued to stare at the librarian in frank
-and admiring mystification, he was gradually convinced
+and admiring [[Mystification|mystification]], he was gradually convinced
 of the seriousness of the whole strange situation.
 For he saw on Herne's face that expression of shrewdness
 that is the final proof of simplicity.
 
 "But hang it all," burst out Archer, like one throwing off
-a nightmare of hypnotism, "I tell you it's only a play!
+a [[nightmare]] of hypnotism, "I tell you it's only a play!
 I know my part already; and it's a lot longer than yours."
 
 "Anyhow, you've had the start in studying it," insisted Herne,
@@ -966,7 +966,7 @@ I don't believe in interfering with people who know their own subject;
 and you've been studying the period."
 
 He was gazing at the somewhat blank if beautiful countenance of the young
-woman in front of him; while Archer, in the shadow behind her,
+woman in front of him; while Archer, in the [[Shadow|shadow]] behind her,
 seemed finally overcome with a sort of hopeless amusement.
 Suddenly the librarian lost his meditative immobility and seemed
 to awaken to life.
@@ -993,7 +993,7 @@ he hoisted himself on to the shelf, in the gap left by the book,
 and sat there as if he were a new and valuable folio presented
 to the library.  It was rather dark up there under the roof;
 but an electric light hung there and he calmly turned it on.
-A silence followed and he continued to sit there on his remote perch,
+A [[Silence|silence]] followed and he continued to sit there on his remote perch,
 with his long legs dangling in mid-air and his head entirely
 invisible behind the leather wall of the large volume.
 "Mad," said Archer in a low voice.  "A bit touched,
@@ -1016,30 +1016,30 @@ Anyhow, he felt the difference acutely and when the playful Archer
 laid hands on the ladder to lift it away, told him to chuck it
 in a tone verging on ferocity.
 
-At that moment, however, it happened that a well-known voice
-called to him by name from the doorway opening on the garden.
+At that moment, however, it happened that a [[Well|well]]-known voice
+called to him by name from the doorway opening on the [[Garden|garden]].
 He turned and saw the dark figure of Olive Ashley framed
 in the doorway, with something about her attitude that was
 expectant and imperative.
 
-"You jolly well leave that ladder alone," he said hastily
+"You jolly [[Well|well]] leave that ladder [[Alone|alone]]," he said hastily
 over his shoulder as he turned away, "or by George . . ."
 
-"Well?" demanded the defiant Archer.
+"[[Well]]?" demanded the defiant Archer.
 
 "Or I'll indulge in what we would call a Hittite gesture,"
 said Murrel and walked hastily across to where Olive was standing.
-The other girl had already stepped out into the garden to
+The other girl had already stepped out into the [[Garden|garden]] to
 speak to her, as she was obviously excited about something;
-and Archer was left alone with the unconscious librarian
+and Archer was left [[Alone|alone]] with the unconscious librarian
 and the alluring ladder.
 
 Archer felt like a schoolboy who had been dared to do something.
 He was no coward; and he was very vain.  He unhooked the ladder
 from the high book-shelf very carefully without disturbing a grain
-of dust on the dusty shelves or a hair on the head of the unconscious
+of [[Dust|dust]] on the dusty shelves or a hair on the head of the unconscious
 scholar who was reading the large book.  He quietly carried
-the ladder out into the garden and leaned it up against a shed.
+the ladder out into the [[Garden|garden]] and leaned it up against a shed.
 Then he looked round for the rest of the company; and eventually
 saw them as a distant group on the lawn, so deep in conversation
 as to be as unconscious of the crime as the victim himself.
@@ -1058,22 +1058,22 @@ The gentleman called Monkey made his way rapidly across
 the wide and windy sweep of lawn towards the solitary monument
 (if it can so be called), or curiosity, or relic, which stood
 in the middle of that open space.  It was, in fact, a large
-fragment fallen from the Gothic gateways of the old Abbey,
+[[Fragment|fragment]] fallen from the Gothic gateways of the old Abbey,
 and here incongruously poised upon a more modern pedestal,
 probably by the rather hazy romanticism of some gentleman
 a hundred years ago, who thought that a subsequent accumulation
 of moss and moonlight might turn it into a suitable subject
 for the ingenious author of "Marmion." On close inspection
 (which nobody in particular ever accorded to it) the broken lines of
-it could be dimly traced in the shape of a rather repulsive monster,
+it could be dimly traced in the shape of a rather repulsive [[Monster|monster]],
 goggle-eyed and glaring upwards, possibly a dying dragon,
 above which something stood up in vertical lines like broken
 shafts or columns, possibly the lower part of a human figure.
 But it was not out of any antiquarian ardour to note these details
 that Mr. Douglas Murrel hastened towards the spot; but because
-the very impatient lady who had summoned him out of the house
+the very impatient lady who had summoned him out of the [[house]]
 on urgent business had named this place for the appointment.
-From across the garden he could see Olive Ashley standing by
+From across the [[Garden|garden]] he could see Olive Ashley standing by
 the stone, and see that she was by no means standing equally still.
 Even at that distance there seemed to be something
 restless and even nervous about her gesture and carriage.
@@ -1093,7 +1093,7 @@ It's for everybody's sake--society and all that!"
 Then her tone changed again, and she said explosively,
 "It's all your fault!  You would introduce him."
 
-"Well, what's the matter?" asked her companion, patiently.
+"[[Well]], what's the matter?" asked her companion, patiently.
 
 "Only that I simply detest him," she said.  "He was abominably rude and--"
 
@@ -1130,14 +1130,14 @@ What I want is to show him what educated people are really like.
 It's all for his own good.  He could be--he could be ever
 so much improved."
 
-"Is he to go to a continuation class or a night school?"
-inquired Murrel innocently, "or possibly to a Sunday school."
+"Is he to go to a continuation class or a [[Night|night]] school?"
+inquired Murrel innocently, "or possibly to a [[Sunday]] school."
 
 "Nobody ever learns anything at school," she replied,
 "I mean the only place where anybody ever does learn anything--
 the world; the great world.  I want him to see there are things
 much greater than his grumbling little fads--I want him to hear
-people talking about music and architecture and history,
+people talking about music and architecture and [[history]],
 and all the things that really scholarly people know about.
 Of course, he's got stuck-up by spouting in the streets and
 laying down the law in low public-houses--bullying people even
@@ -1147,7 +1147,7 @@ cultivated people, he is quite clever enough to feel stupid."
 "And so, wanting a stately scholar, cultured to his finger-tips,
 you naturally thought of me," remarked Monkey, approvingly.
 "You want me to tie him to a drawing-room chair and administer
-tea and Tolstoy, or Tupper, or whoever is the modern favourite.
+tea and [[tolstoy|Tolstoy]], or Tupper, or whoever is the modern favourite.
 My dear Olive, he wouldn't come."
 
 "I've thought of all that," she said, rather hurriedly,
@@ -1158,18 +1158,18 @@ about the strike.  That's the only thing he'd come for;
 and after that we'll introduce him to some people who'll talk
 right above his head, so that he'll sort of grow--grow up.
 It's really serious, Douglas.  He's got the most terrible power
-over these workmen.  Unless we can make him see the truth they
+over these workmen.  Unless we can make him see the [[Truth|truth]] they
 will all--he's an orator in his way."
 
-"I knew you were a bloated aristocrat," he said, contemplating the tense
+"I knew you were a bloated [[aristocrat]]," he said, contemplating the tense
 and tenuous little lady, "but I never knew you were such a diplomatist.
-Well, I suppose I must help in your horrid plot, if you really assure
+[[Well]], I suppose I must help in your horrid plot, if you really assure
 me that it's all for his own good."
 
 "Of course it's for his own good," she replied, confidently.
 "I should never have thought of it but for that."
 
-"Quite so," replied Murrel, and went back towards the house,
+"Quite so," replied Murrel, and went back towards the [[house]],
 walking rather more slowly than when coming away from it.
 But he did not see the ladder leaning up against the outhouse,
 or the development of this story might have been disastrously foiled.
@@ -1179,7 +1179,7 @@ with educated men seemed to give him considerable food for
 thought as he went across the grassy plot kicking his heels,
 with his hands thrust deep in his trousers' pockets.  Of course,
 there was something in it; fellows did find their level sometimes
-by going to Oxford.  They find out in what way their education
+by going to [[Oxford]].  They find out in what way their [[Education|education]]
 has been neglected, even if they continue to neglect it.
 But he had never seen the experiment tried on so dark a social stratum
 as the black and buried coal-seam for which the Syndicalist stood.
@@ -1208,7 +1208,7 @@ and hair seeming to bristle in every direction as he looked
 about him for enlightenment, found himself that afternoon
 (after a solemn and mysteriously futile interview with the
 great capitalist) turned loose by another door into the salon of
-the aristocracy of intellect which was to complete his education.
+the aristocracy of intellect which was to complete his [[Education|education]].
 He certainly looked rather incomplete; standing in that room
 with a stoop and a scowl, which were none the less sullen
 if they were unconsciously sullen.  He was not ugly;
@@ -1224,12 +1224,12 @@ whose whisper was a horrible yell.
 "What we want," he said, softly pulverising something in his hollow
 palm with his clenched fist, "what we want for industrial peace
 is industrial instruction.  Never listen to the reactionaries.
-Never you believe the fellows who say popular education is a mistake.
-Of course, the masses must have education.  But above all,
-economic education.  If once we can get into the people's heads
+Never you believe the fellows who say popular [[Education|education]] is a mistake.
+Of course, the masses must have [[Education|education]].  But above all,
+economic [[Education|education]].  If once we can get into the people's heads
 some notion of the laws of political economy, we shall hear
 no more of these disputes that drive trade out of the country
-and threaten to put a pistol to the head of the public.
+and threaten to put a [[Pistol|pistol]] to the head of the public.
 Whatever our opinions may be, we all want to prevent that.
 Whatever our party may be, we don't want that.  I don't
 say it in the interests of any party; I say it's something
@@ -1241,7 +1241,7 @@ of effective demand, isn't that above party?"
 The large man glanced at him quickly and almost covertly.
 Then he said, "Quite--Oh, quite."
 
-There was a silence and then a few gay remarks about the weather;
+There was a [[Silence|silence]] and then a few gay remarks about the weather;
 and then Braintree found that the large man had somehow
 smoothly and inoffensively passed from him, swimming like some
 silent leviathan into other seas.  The large man's bald head
@@ -1251,7 +1251,7 @@ His conversation had somehow given the impression that he was not.
 The first stage of Mr. Braintree's course in culture was,
 perhaps, unfortunate.  For it left that gloomy character
 with a growing inward impression, right or wrong, to the effect
-that the partisan of Economic Education for the Masses had not
+that the partisan of Economic [[Education]] for the Masses had not
 himself the very vaguest idea of what "effective demand" means.
 
 This first fiasco, however, cannot be counted fairly;
@@ -1283,7 +1283,7 @@ from which he correctly deduced that Braintree was not an art expert.
 The expert therefore felt free to be even more expert than usual.
 His hollow eyes rolled reproachfully from the tie to a
 picture on the wall, by Lippi or some Italian primitive;
-for Seawood Abbey possessed fine pictures as well as fine books.
+for Seawood Abbey possessed fine pictures as [[Well|well]] as fine books.
 Some association of ideas led Wister to echo unconsciously the
 complaint of Olive Ashley and remark that the red used for the wings
 of one of the angels was something of a lost technical secret.
@@ -1293,28 +1293,28 @@ Braintree assented civilly, having no very special knowledge
 of pictures and no knowledge at all of Pigments.  This ignorance,
 or indifference completed the case founded on the crude necktie.
 The expert, now fully realising that he was talking to
-an utter outsider, expanded with radiant condescension.
+an utter [[Outsider|outsider]], expanded with radiant condescension.
 He delivered a sort of lecture.
 
 "Ruskin is very sound upon that point," said Mr. Almeric Wister.
 "You would be quite safe in reading Ruskin, if only as a sort
 of introduction to the subject.  With the exception of Pater,
 of course, there has been no critic since having that atmosphere
-of authority.  Democracy, of course, is not favourable to authority.
-And I very much fear, Mr. Braintree, that democracy is not
+of authority.  [[democracy|Democracy]], of course, is not favourable to authority.
+And I very much [[Fear|fear]], Mr. Braintree, that [[democracy]] is not
 favourable to art."
 
-"Well, if ever we have any democracy, I suppose we shall
+"[[Well]], if ever we have any [[democracy]], I suppose we shall
 find out," said Braintree.
 
-"I fear," said Wister, shaking his head, "that we have quite
+"I [[Fear|fear]]," said Wister, shaking his head, "that we have quite
 enough to lead us to neglect all artistic authorities."
 
 At this moment, Rosamund of the red hair and the square, sensible face,
 came up, steering through the crowd a sturdy young man, who also had
 a sensible face; but the resemblance ended there, for he was stodgy
 and even plain, with short bristly hair and a tooth-brush moustache.
-But he had the clear eyes of a man of courage and his manners were
+But he had the clear eyes of a man of [[Courage|courage]] and his manners were
 very pleasant and unpretending.  He was a squire of the neighbourhood,
 named Hanbury, with some reputation as a traveller in the tropics.
 After introducing him and exchanging a few words with the group,
@@ -1322,7 +1322,7 @@ she said to Wister, "I'm afraid we interrupted you"; which was
 indeed the case.
 
 "I was saying," said Wister, airily, but also a little loftily,
-"that I fear we have descended to democracy and an age of little men.
+"that I [[Fear|fear]] we have descended to [[democracy]] and an age of little men.
 The great Victorians are gone."
 
 "Yes, of course," answered the girl, a little mechanically.
@@ -1340,19 +1340,19 @@ what I mean by a giant."
 "You can't really mean, Mr. Braintree," remonstrated the lady,
 "that you want great men to be killed."
 
-"Well, I think there's something in the idea," said Braintree.
-"Tennyson deserved to be killed for writing the May-Queen,
+"[[Well]], I think there's something in the idea," said Braintree.
+"Tennyson deserved to be killed for writing the May-[[Queen]],
 and Browning deserved to be killed for rhyming 'promise'
 and 'from mice,' and Carlyle deserved to be killed for being Carlyle;
 and Herbert Spencer deserved to be killed for writing 'The Man
 versus the State'; and Dickens deserved to be killed for not
-killing Little Nell quick enough; and Ruskin deserved to be killed
-for saying that Man ought to have no more freedom than the sun;
+killing [[Little Nell]] quick enough; and Ruskin deserved to be killed
+for saying that Man ought to have no more [[Freedom|freedom]] than the sun;
 and Gladstone deserved to be killed for deserting Parnell;
 and Disraeli deserved to be killed for talking about a
 'shrinking sire,' and Thackeray--"
 
-"Mercy on us!" interrupted the lady, laughing, "you really must
+"[[Mercy]] on us!" interrupted the lady, laughing, "you really must
 stop somewhere.  What a lot you seem to have read!"
 
 Wister appeared, for some reason or other, to be very much annoyed;
@@ -1369,7 +1369,7 @@ trades are paid equally already."
 
 "No, John Ruskin," replied the other.  "One of your Victorian giants."
 Then he added, "But the text and title of the book were not by
-John Ruskin, but by Jesus Christ; who had not, alas, the privilege
+John Ruskin, but by Jesus [[Christ]]; who had not, alas, the privilege
 of being a Victorian."
 
 The stodgy little man named Hanbury possibly felt that the conversation
@@ -1384,7 +1384,7 @@ will be a good deal of unrest among the miners?"
 "On the contrary," replied Braintree, "there will be a good deal
 of rest among the miners."
 
-The other frowned in momentary doubt, and said very quickly,
+The other frowned in momentary [[Doubt|doubt]], and said very quickly,
 "You don't mean the strike is off?"
 
 "The strike is very much on," said Braintree, grimly, "so there
@@ -1395,14 +1395,14 @@ shortly destined to be the Princess of the Troubadours.
 
 "I mean what I say," he replied, shortly.  "I say there will
 be a great deal of rest among the miners.  You always talk
-as if striking meant throwing a bomb or blowing up a house.
+as if striking meant throwing a bomb or blowing up a [[house]].
 Striking simply means resting."
 
-"Why, it's quite a paradox," cried his hostess, with a sort of joy,
+"Why, it's quite a [[Paradox|paradox]]," cried his hostess, with a sort of joy,
 as if it were a new parlour game and her party was now really going
-to be a success.
+to be a [[success]].
 
-"I should have thought it was a platitude, otherwise a plain truth,"
+"I should have thought it was a platitude, otherwise a plain [[Truth|truth]],"
 replied Braintree.  "During a strike the workers are resting;
 and a jolly new experience for some of them, I can tell you."
 
@@ -1419,7 +1419,7 @@ steady and yet gradually changing; the expression with which
 people of slow but sincere mental processes recognise something
 that has to be reckoned with, and possibly even respected.
 For although, or perhaps because, she had grown up smothered
-with wealth and luxury, she was quite innocent, and had never
+with wealth and luxury, she was quite [[Innocent|innocent]], and had never
 felt any shame in looking on the faces of her fellows.
 
 "Don't you think," she said at last, "we are just quarrelling
@@ -1433,10 +1433,10 @@ When you want to make us think you understand the situation,
 and still disapprove of the strike, say anything in the world
 except that.  Say there is the devil among the miners;
 say there is treason and anarchy among the miners;
-say there is blasphemy and madness among the miners.
+say there is blasphemy and [[Madness|madness]] among the miners.
 But don't say there is unrest among the miners.  For that one little
 word betrays the whole thing that is at the back of your mind;
-it is very old and its name is Slavery."
+it is very old and its name is [[Slavery]]."
 
 "This is very extraordinary," said Mr. Wister.
 
@@ -1451,7 +1451,7 @@ away all day while you are smoking or playing the piano--
 until a moment when the noise in the coal-cellar stops suddenly.
 It may be wrong for it to stop--it may be right--it may be all
 sorts of things.  But don't you see--can nothing make you see--
-what you really mean if you only say, like Hamlet to his
+what you really mean if you only say, like [[Hamlet]] to his
 old mole, 'Rest, perturbed spirit.'"
 
 "Ha," said Mr. Wister, graciously, "glad to see you
@@ -1461,23 +1461,23 @@ But Braintree went on without noticing the remark.
 
 "The hammering in your coal-hole that always goes on stops
 for an instant.  And what do you say to the man down there
-in the darkness?  You do not say, 'Thank you for doing it well.'
+in the darkness?  You do not say, 'Thank you for doing it [[Well|well]].'
 You do not even say, 'Damn you for doing it badly.'  What you
-do say is, 'Rest; sleep on.  Resume your normal state of repose.
+do say is, 'Rest; [[Sleep|sleep]] on.  Resume your normal state of repose.
 Continue in that state of complete quiescence which is normal
 to you and which nothing should ever have disturbed.
 Continue that rhythmic and lulling motion that must be to you
-the same as slumber; which is for you second nature and part of
-the nature of things.  _Continuez,_ as God said in Belloc's story.
+the same as slumber; which is for you second [[Nature|nature]] and part of
+the [[Nature|nature]] of things.  _Continuez,_ as God said in Belloc's story.
 Let there be no unrest.'"
 
 As he talked vehemently, but not violently, he became
 faintly conscious that many more faces were turned
 towards him and his group, not staring rudely, but giving
 a general sense of a crowd heading in that direction.
-He saw Murrel looking at him with melancholy amusement over
+He saw Murrel looking at him with [[Melancholy|melancholy]] amusement over
 a limp cigarette, and Archer glancing at him every now and then
-over his shoulder as if fearing he would set fire to the house.
+over his shoulder as if fearing he would set [[Fire|fire]] to the [[house]].
 He saw the eager and half-serious faces of several
 ladies of a sort always hungry for anything to happen.
 All those close to him were cloudy and bewildering;
@@ -1487,7 +1487,7 @@ but vivid face of little Miss Ashley of the paint-box, watching--.
 
 "But the man in the coal-cellar is only a stranger out of the street,"
 he went on, "who has gone into your black hole to attack a rock
-as he might attack a wild beast or any other brute force of nature.
+as he might attack a wild beast or any other brute force of [[Nature|nature]].
 To break coal in a coal-cellar is an action.  To break it in a coal-mine
 is an adventure.  The wild beast can kill in its own cavern.
 And fighting with that wild beast is eternal unrest; a war with chaos,
@@ -1503,7 +1503,7 @@ you don't say there is Unrest at the Travellers' Club."
 
 "Don't you see," went on Braintree, "that when you say that of us,
 you imply that we are all so much clockwork, and you never even notice
-the ticking till the clock stops."
+the ticking till the [[Clock|clock]] stops."
 
 "Yes," said Rosamund, "I think I see what you mean and I shan't
 forget it."  And, indeed, though she was not particularly clever,
@@ -1517,11 +1517,11 @@ CHAPTER V
 THE SECOND TRIAL OF JOHN BRAINTREE
 
 Douglas Murrel knew the world; he knew his own world, though that lucky
-love of low company had saved him from supposing it was the whole world.
-And he knew well enough what had happened.  Braintree, brought there
-to be abashed into silence, was being encouraged to talk.
+[[Love|love]] of low company had saved him from supposing it was the whole world.
+And he knew [[Well|well]] enough what had happened.  Braintree, brought there
+to be abashed into [[Silence|silence]], was being encouraged to talk.
 There was in it perhaps some element of the interest in a monstrosity
-or performing animal; some touch of that longing of all luxurious people
+or performing animal; some touch of that [[Longing|longing]] of all luxurious people
 for something fresh; but the monstrosity was making a good impression.
 He talked a good deal; but he did not have the air of being conceited;
 only of being convinced.  Murrel knew the world; and he knew that men
@@ -1534,7 +1534,7 @@ who would almost ask a nigger what it felt like to be black.
 It was inevitable that the old merchant should talk about political
 economy to anybody he supposed to be political.  It did not matter
 if that old ass Wister lectured him about the great Victorians.
-The self-educated man had no difficulty in showing he was better
+The [[Self|self]]-educated man had no difficulty in showing he was better
 educated than those people were.  But now the next stage
 was reached; and the other sort of people began to take notice.
 The intelligent people in the Smart Set, the people who do
@@ -1545,7 +1545,7 @@ began to ask him more sensible questions; often conceding many
 of his claims, often falling back on more fundamental objections.
 Murrel almost started as he heard the low and guttural drawl
 of old Eden, in whom so many diplomatic and parliamentary
-secrets were buttoned up, and who hardly ever talked at all,
+[[Secrets|secrets]] were buttoned up, and who hardly ever talked at all,
 saying to Braintree:  "Don't you think there's something to be
 said for the Ancients--Aristotle and all that, don't you know?
 Perhaps there really must be a class of people always working
@@ -1563,23 +1563,23 @@ really been paid a compliment.
 "But if you take that line," went on Braintree, "you can't complain
 of the people you separate in that way, treating themselves
 as something separate.  If there is a class like that, you can
-hardly wonder at its being class-conscious."
+hardly [[Wonder|wonder]] at its being class-conscious."
 
 "And the other people, I suppose, have a right to be class-conscious,
 too," said Eden with a smile.
 
 "Quite so," observed Wister in his more spacious manner.
-"The aristocrat, the magnanimous man as Aristotle says--"
+"The [[aristocrat]], the magnanimous man as Aristotle says--"
 
 "Look here," said Braintree rather irritably, "I've only read Aristotle
 in cheap translations; but I have read them.  It seems to me gentlemen
 like you first learn elaborately how to read things in Greek;
 and then never do it.  Aristotle, so far as I can understand,
 makes out the magnanimous man to be a pretty conceited fellow.
-But he never says he must be what you call an aristocrat."
+But he never says he must be what you call an [[aristocrat]]."
 
 "Quite so," said Eden, "but the most democratic of the Greeks believed
-in slavery.  In my opinion, there's a lot more to be said for slavery
+in [[Slavery|slavery]].  In my opinion, there's a lot more to be said for [[Slavery|slavery]]
 than there is for aristocracy."
 
 The Syndicalist assented almost eagerly; and Mr. Almeric Wister
@@ -1588,18 +1588,18 @@ looked rather bewildered.
 "I say," repeated Braintree, "that if you think there ought
 to be slaves, you can't prevent the slaves hanging together and
 having their own notions about things.  You can't appeal to their
-citizenship if they are not citizens.  Well, I'm one of the slaves.
+citizenship if they are not citizens.  [[Well]], I'm one of the slaves.
 I come out of the coal-cellar. I represent all those grimy
 and grubby and unpresentable people; I am one of them.
 Aristotle himself couldn't complain of my speaking for them."
 
-"You speak for them very well," said Eden.
+"You speak for them very [[Well|well]]," said Eden.
 
 Murrel smiled grimly.  The fashion was in full blast now.
 He recognised all the signs of that change in the social weather;
 that altered atmosphere around the Syndicalist.
 He even heard the familiar sound that put the final touch to it;
-the murmuring voice of Lady Boole, ". . . any Thursday.
+the murmuring voice of Lady Boole, ". . . any [[thursday|Thursday]].
 We shall be _so_ pleased."
 
 Murrel, still smiling grimly, turned on his heel and crossed over to
@@ -1607,8 +1607,8 @@ the corner where Olive Ashley was sitting.  He noted that she sat watching
 with compressed lips and that her dark eyes were dangerously bright.
 He addressed her upon a note of delicate condolence.
 
-"Afraid our practical joke has rather turned bottom up," he said.
-"We meant him to be a bear and he's going to be a lion."
+"Afraid our practical joke has rather turned [[Bottom|bottom]] up," he said.
+"We meant him to be a bear and he's going to be a [[Lion|lion]]."
 
 She looked up and suddenly smiled in a dazzling and
 highly baffling manner.
@@ -1623,14 +1623,14 @@ on his dolorous visage.
 of your _protégé._"
 
 He continued to stare at her undecipherable smile and at last he said:
-"Well, I don't understand women; nobody ever will, and it is obviously
+"[[Well]], I don't understand women; nobody ever will, and it is obviously
 dangerous to try.  But if I may make a mere guess on the subject,
 my dear Olive, I have a growing suspicion that you are a little humbug."
 
-He departed with his usual gloomy good humour; and the party
+He departed with his usual gloomy good [[Humour|humour]]; and the party
 was already breaking up.  As the last of the visitors left,
 he stood once more for a moment in the gateway leading into
-the garden and sent a Parthian arrow.
+the [[Garden|garden]] and sent a Parthian arrow.
 
 "I don't understand women," he said, "but I do know a little about men.
 And now _I'm_ going to take charge of your performing bear."
@@ -1651,33 +1651,33 @@ and found it uncomfortable but not inconvenient.  For a great part
 of his political life was spent in trying to link up the labour
 organisations directly connected with the coal-field to these other
 and smaller unisons of men employed on the derivative substances.
-It was towards his home that he now turned his face,
-when he turned his back on the great country house to which
+It was towards his [[Home|home]] that he now turned his face,
+when he turned his back on the great country [[house]] to which
 he had just paid so curious and apparently aimless a visit.
 As Eden and Wister and the various nobs of the neighbourhood,
 (as he would put it) slid away in their sumptuous cars,
-he took a great pride in walking stiffly through the crowd
+he took a great [[Pride|pride]] in walking stiffly through the crowd
 in the direction of the queer and rustic little omnibus
-that ran in and out between the great house and the town.
+that ran in and out between the [[Great House|great house]] and the town.
 When he climbed up the omnibus, however, he was rather surprised
 to find Mr. Douglas Murrel climbing up after him.
 
 "Mind if I share your omnibus?" asked Murrel, sinking on a
 bench beside the solitary outside passenger; for nobody else
 seemed to be travelling by the vehicle; they were sitting
-well forward in the front seats and the full blast of the night
+[[Well|well]] forward in the front seats and the full blast of the [[Night|night]]
 air came in their faces as the vehicle began to move.
 It seemed to wake Braintree out of a trance of abstraction
 and he assented rather curtly.
 
-"The truth is," said Murrel, "that I feel inclined to go and look
+"The [[Truth|truth]] is," said Murrel, "that I feel inclined to go and look
 at your coal-cellar."
 
 "You wouldn't like to be locked up in the coal-cellar,"
 said the other, still a little gruffly.
 
 "Of course, I should prefer to be locked up in the wine-cellar,"
-admitted Murrel.  "A new version of your parable of Labour.
+admitted Murrel.  "A new version of your [[Parable|parable]] of Labour.
 The vain and idle revelling above, while the dull persistent
 sound of popping corks told them that I was still below,
 toiling, labouring, never at rest. . . . But really, old man,
@@ -1691,7 +1691,7 @@ He knew the morbid sensitiveness of the most masculine sort of men.
 He knew his friend's almost maniacal dread of snobbery; and knew
 better than to say anything about the successes of the salon.
 To talk about Braintree as a slave in a coal-cellar was to
-steady his self-respect.
+steady his [[Self|self]]-respect.
 
 "Mostly dye-works and that sort of thing, aren't they?"
 asked Murrel, gazing at the forest of factory-chimneys,
@@ -1707,14 +1707,14 @@ of the soldier."
 
 "And what about the red tie of the Socialist?"
 asked Murrel reproachfully.  "Jack, I cannot believe that red
-tie of yours is freshly dipped in the blood of aristocrats.
-Anxious as I am to think well of you, I cannot think you
+tie of yours is freshly dipped in the [[Blood|blood]] of aristocrats.
+Anxious as I am to think [[Well|well]] of you, I cannot think you
 come reeking from the massacre of our old nobility.
-Besides, I always understood that the blood would be blue.
+Besides, I always understood that the [[Blood|blood]] would be blue.
 Can it be that you yourself are now a walking advertisement
 of old What's-his-name's dye-works?  Buy Our Red Ties.
 Syndicalist Gents Suited.  Mr. John Braintree,
-the Well-Known Revolutionist, Writes 'Since Using Your--'"
+the [[Well]]-Known Revolutionist, Writes 'Since Using Your--'"
 
 "Nobody knows where anything comes from nowadays, Douglas,"
 said Braintree quietly.  "That's what's called publicity and popular
@@ -1746,8 +1746,8 @@ The answering grunt of the person called Bill was sufficient
 to indicate that he entirely agreed that the hours of proletarian
 employment were much too long.
 
-"Well, you're all right, Bill," said Murrel.  "You're one
-of the lucky ones, especially to-night. Old Charley comes
+"[[Well]], you're all right, Bill," said Murrel.  "You're one
+of the lucky ones, especially to-[[Night|night]]. Old Charley comes
 on at the Dragon, don't he?"
 
 "Why, yes," said the driver in slow and luxuriantly scornful tones.
@@ -1762,7 +1762,7 @@ Show you bear no malice for Golliwog.  But I swear I only told
 you to back him for a place."
 
 "Never mind, Sir.  Never you mind about that," observed the
-benevolent Bill, in a glow of Christian forgiveness.
+benevolent Bill, in a glow of Christian [[Forgiveness|forgiveness]].
 "Never mind having a bit on; and if you lose your bit--
 why, there you are."
 
@@ -1787,11 +1787,11 @@ It was the Public Bar or open and honest place of drinking for the poor.
 And the moment Braintree stepped across its threshold, he knew
 he was confronted with something new; with something that he had never
 touched or tasted or seen or smelt before in all his fifteen years
-of tub-thumping. There was a good deal to be smelt as well as seen;
+of tub-thumping. There was a good deal to be smelt as [[Well|well]] as seen;
 and much that he did not feel inclined to touch, far less to taste.
 The place was very hot and densely crowded and full of a deafening
 clatter of people all talking at once.  Many of them did not seem to mind
-much whether the others were listening or talking at the same time.
+much whether the others were listening or talking at the same [[Time|time]].
 A great part of the talk was totally unintelligible to him,
 though evidently full of emphatic expressions; as if a crowd were
 swearing in Dutch or Portuguese.  Every now and then in the stream
@@ -1806,22 +1806,22 @@ to be something like a social circle round one small man
 who was right up against the counter; and that not so much
 because he was a talker as because he seemed to be a topic.
 Everybody was making jokes about him, as if he were the weather
-or the War Office or any recognised theme for the satiric artist.
+or the War Office or any recognised theme for the satiric [[Artist|artist]].
 Much of it was direct, as in the form "Goin'
 to get married soon, George?" or "What you done with all
 your money, George?"  Other remarks were in the third person,
 as "Old George 'e's been going out with the girls too much,"
-or "I reckon old George got lost in London," and so on.
-It was noticeable that this concentrated fire of satire was entirely
+or "I reckon old George got lost in [[London]]," and so on.
+It was noticeable that this concentrated [[Fire|fire]] of [[Satire|satire]] was entirely
 genial and friendly.  It was still more notable that old George
 himself seemed to feel no sort of annoyance or even surprise
 at his own mysteriously isolated position as a human target.
 He was a short, stolid, rather sleepy little man, who stood
-the whole time with half-closed eyes and a beatific smile,
+the whole [[Time|time]] with half-closed eyes and a beatific smile,
 as if this peculiar form of popularity were a never failing pleasure.
-His name was George Carter, and he was a small green-grocer
+His name was George Carter, and he was a small green-[[grocer]]
 in those parts.  Why he, more than another, should be supposed
-at any given moment to be in love or lost in London, the visitor
+at any given moment to be in [[Love|love]] or lost in [[London]], the visitor
 could not guess from the talk of two hours, and would probably
 never have discovered if he had listened to the talk for ten years.
 The man was simply a magnet; he had some mystical power of attracting
@@ -1838,16 +1838,16 @@ Meanwhile, Murrel continued to rap at intervals on the counter
 and exchange badinage with a large young woman who had
 apparently tried to make her own hair look like a wig.
 Then he fell into an interminable dispute with the man
-next him about whether some horse or other could win by some
+next him about whether some [[Horse|horse]] or other could win by some
 particular number of sections of lengths; the difference being
 apparently one of degree and not of fundamental principle.
-The debate did not advance very rapidly to any final conclusion,
+The [[debate]] did not advance very rapidly to any final conclusion,
 as it consisted mostly of the repetition of the premises
 over and over again with ever-increasing firmness.
-These two disputants were polite as well as firm; but their
+These two disputants were polite as [[Well|well]] as firm; but their
 conversation was somewhat embarrassed by the conduct of an
 immensely tall and lank and shabby man with drooping moustaches,
-who leaned across them, talking all the time, in a well-meant
+who leaned across them, talking all the [[Time|time]], in a [[Well|well]]-meant
 effort to refer the point in dispute to the gloomy Braintree.
 
 "I know a gentleman when I see him," repeated the long man
@@ -1857,17 +1857,17 @@ I know a gentleman when I--"
 "I'm not a gentleman," said the Syndicalist, with some bitterness.
 
 The long man tried to lean over him with vast fatherly gestures,
-like one soothing a fretful child.
+like one soothing a fretful [[Child|child]].
 
 "Now, don't you say that, sir," said the fatherly person.
 "Don't say that . . . I know a real toff when I see 'im,
 and I put it to you--"
 
 Braintree turned away with a jerk and collided with a large navvy
-covered with white dust, who apologised with admirable amiability
+covered with white [[Dust|dust]], who apologised with admirable amiability
 and then spat on the sawdust floor.
 
-That night was like a nightmare.  To John Braintree it seemed
+That [[Night|night]] was like a [[nightmare]].  To John Braintree it seemed
 to be as endless as it was meaningless, and yet wildly monotonous.
 For Murrel took his festive bus-driver on a holiday to bar
 after bar, not really drinking very much, not drinking half
@@ -1876,27 +1876,27 @@ of port, but drinking it to the accompaniment of endless gas
 and noise and smell and incessant interminable argument;
 argument that might truly be called interminable, in the literal
 sense that it did not seem even capable of being terminated.
-When the sixth public house resounded to booming shouts of "Time,"
+When the sixth public [[house]] resounded to booming shouts of "[[Time]],"
 and the crowds were shuffled and shunted out of it and the shutters
 put up, the indefatigable Murrel began a corresponding tour
 of coffee-stalls, with the laudable object of ensuring sobriety.
 Here he ate thick sandwiches and drank pale-brown coffee,
 still arguing with his fellow-creatures about the points
-of horses and the prospects of sporting events.  Dawn was
+of horses and the prospects of sporting events.  [[Dawn]] was
 breaking over the hills and the fringe of factory chimneys,
 when John Braintree suddenly turned to his friend and spoke
 in a tone which compelled his attention.
 
-"Douglas," he said, "you needn't act your allegory any more.
+"Douglas," he said, "you needn't act your [[Allegory|allegory]] any more.
 I always knew you were a clever fellow, and I begin to have some
 notion of how your sort have continued to manage a whole nation
-for so long; but I'm not quite a fool myself.  I know what you mean.
+for so long; but I'm not quite a [[Fool|fool]] myself.  I know what you mean.
 You haven't said it with your own tongue, but you've said it with ten
-thousand other tongues to-night. You've said, 'Yes, John Braintree,
+thousand other tongues to-[[Night|night]]. You've said, 'Yes, John Braintree,
 you can get on all right with the nobs.  It's the mobs you
 can't get on with.  You've spent an hour in the drawing-room
 and told them all about Shakespeare and the musical glasses.
-Now that you've spent a night in the poor streets, tell me--
+Now that you've spent a [[Night|night]] in the poor streets, tell me--
 which of us know the people best?'"
 
 Murrel was silent.  After a moment the other went on.
@@ -1910,11 +1910,11 @@ don't bear malice."
 
 "I know you don't," answered Murrel.  "Our friend in the pub
 didn't select his terms very tactfully; but there was something
-in what he said about your being a gentleman.  Well, this is,
-let us hope, the last of my practical jokes."
+in what he said about your being a gentleman.  [[Well]], this is,
+let us [[Hope|hope]], the last of my practical jokes."
 
 But he had not done with practical jokes that day; for as he came back
-through the garden of Seawood he saw something which startled him;
+through the [[Garden|garden]] of Seawood he saw something which startled him;
 the ladder from the library leaning against a tool-shed. He stopped,
 and his good-humoured face grew almost grim.
 
@@ -1927,19 +1927,19 @@ A COMMISSION AS COLOURMAN
 As Murrel gazed there gradually grew upon his mind (which was
 perhaps clearing itself rather slowly of many festive fumes)
 the sense of one result of his nonsensical nocturnal
-expedition or experiment in the education of revolutionists.
-He had been out all night and had seen nothing of what had
+expedition or experiment in the [[Education|education]] of revolutionists.
+He had been out all [[Night|night]] and had seen nothing of what had
 lately been happening to his friends and their theatricals.
 But he remembered that it was almost exactly at this moment
 of the morning, with its long, fine tapering shadows and faint,
-far-flung flush of dawn, that he had abandoned his painting
+far-flung flush of [[Dawn|dawn]], that he had abandoned his painting
 of the scenery and plunged into the library in pursuit
 of the librarian.  He had left the librarian at the top
 of the ladder a little more than twenty-four hours ago.
-And here was the ladder thrown away like lumber in the garden,
-spotted with mildew, a skeleton on which spiders flung their
+And here was the ladder thrown away like lumber in the [[Garden|garden]],
+spotted with mildew, a [[skeleton]] on which spiders flung their
 silvery morning webs.  What had happened, and why was that
-particular piece of furniture thus thrown out into the garden?
+particular piece of furniture thus thrown out into the [[Garden|garden]]?
 He remembered Julian Archer's jokes, and his face contracted
 with a spasm of annoyance as he walked hastily towards
 the library and looked in.
@@ -1947,25 +1947,25 @@ the library and looked in.
 His first impression was that the long and lofty room,
 entirely lined with books, was empty.  The next moment
 he saw that high up in the dark corner, where the librarian
-had found his French text-books of medieval history,
+had found his French text-books of medieval [[history]],
 there hung a queer sort of luminous blue cloud or mist.
 Then he saw that the electric light was still burning,
 and that the veil of vapour through which it shone was the
 result of somebody having been smoking on that remote perch,
 and smoking for a considerable stretch of hours, possibly
-(as it began to dawn on the mind of the strayed reveller)
-all night and a great part of the day before.
-Then for the first time he clearly visualised the two long legs
-of Mr. Michael Herne still hanging from his lofty ledge; where it
+(as it began to [[Dawn|dawn]] on the mind of the strayed reveller)
+all [[Night|night]] and a great part of the day before.
+Then for the first [[Time|time]] he clearly visualised the two long legs
+of Mr. [[Michael]] Herne still hanging from his lofty ledge; where it
 seemed that he had been reading steadily from sunrise to sunrise.
 Luckily, it would appear that he had something to smoke.
 But he could not possibly have had anything to eat.  "Lord bless us,"
 muttered Murrel, to himself, "the man must be famished!
-And what about sleep?  If he'd slept on that ledge I suppose
+And what about [[Sleep|sleep]]?  If he'd slept on that ledge I suppose
 he'd have fallen off."
 
 He called out cautiously to the man above, rather as one
-does to a child playing on the edge of a precipice.
+does to a [[Child|child]] playing on the edge of a precipice.
 He said to him, almost reassuringly, "It's all right;
 I've got the ladder."
 
@@ -1985,11 +1985,11 @@ Murrel was not easily startled but for the moment he also
 almost staggered.  He could only reply with a blank stare
 and the repetition of the word "Period!  What period?"
 
-"Well," replied Mr. Herne, the librarian, half closing his eyes.
+"[[Well]]," replied Mr. Herne, the librarian, half closing his eyes.
 "I suppose we might put the most interesting period say from 1080
 to 1260.  What do you think?"
 
-"I think it's a long time to wait for a meal," answered Murrel.
+"I think it's a long [[Time|time]] to wait for a meal," answered Murrel.
 "Man alive, you must be starving.  Have you really been perched
 up there for--for two hundred years, so to speak?"
 
@@ -2004,10 +2004,10 @@ He hurried out of the room and returned in about five minutes
 bearing a tray loaded with incongruous things, among which beer
 bottles seemed to predominate.
 
-"Ancient British cheese," he said, setting down
+"Ancient British [[cheese]]," he said, setting down
 the several objects on the top of a revolving bookcase.
 "Cold chicken, probably not earlier than 1390.  Beer, as drunk
-by Richard Coeur de Lion; or all of it that he left.
+by [[Richard]] Coeur de [[Lion]]; or all of it that he left.
 _Jambon froid à la mode Troubadour._ Do start it at once.
 I assure you that eating and drinking were practised in
 the best period."
@@ -2018,12 +2018,12 @@ the best period."
 "On the contrary, it's very late," said Murrel.  "I don't mind
 joining you, for I'm just finishing off a sort of a feast myself.
 Another little drink won't do us any harm, as it says in the old
-Troubadour song of Provence."
+Troubadour [[Song|song]] of Provence."
 
 "Really," said Herne, "I don't quite understand what all this means."
 
-"Nor do I," replied Murrel, "but the truth is I've been out
-of bed all night too.  Engaged on researches.  Not exactly
+"Nor do I," replied Murrel, "but the [[Truth|truth]] is I've been out
+of bed all [[Night|night]] too.  Engaged on researches.  Not exactly
 researches into your period, but another period; a systematic,
 organised sort of period, full of sociology and all that.
 You will forgive me if I am a little dazed myself.
@@ -2037,18 +2037,18 @@ that turning of the old imperial official into a hereditary noble!
 Wouldn't you think you were reading about the transformation of the Nal
 after the Zamul invasion?"
 
-"Wouldn't I just!" said Murrel with feeble fervour.  "Well, I hope
+"Wouldn't I just!" said Murrel with feeble fervour.  "[[Well]], I [[Hope|hope]]
 you'll be able to let us know all about Troubadours."
 
-"Well, of course you and your friends know what you're about,"
+"[[Well]], of course you and your friends know what you're about,"
 said the librarian.  "You looked it all up long before;
-but I rather wonder you concentrated so much on the Troubadours.
+but I rather [[Wonder|wonder]] you concentrated so much on the Troubadours.
 I should have thought the Trouvères would have fitted into
 your plan better."
 
 "It's a matter of convention, I suppose," answered Murrel.
 "It's quite a regular thing to be serenaded by a Troubadour;
-but if they found a Trouvère hanging about the garden,
+but if they found a Trouvère hanging about the [[Garden|garden]],
 it would not be very respectable and he might be pinched
 by the police for loitering with intent to commit a felony."
 
@@ -2068,8 +2068,8 @@ said Murrel in a controlled manner.  "But then you see I'm
 ignorant of all subjects--with the exception perhaps of beer,
 of which I seem to be taking more than my fair share.
 Come, Mr. Herne, troll the brown bowl in a more festive manner, do.
-Perhaps you would oblige the company with a song--an ancient
-Hittite drinking song."
+Perhaps you would oblige the company with a [[Song|song]]--an ancient
+Hittite drinking [[Song|song]]."
 
 "No, really," said the librarian earnestly, "I couldn't possibly sing it;
 singing is not among my accomplishments."
@@ -2080,7 +2080,7 @@ omnibuses and things; but I couldn't have done it better myself.
 It seems to me, my dear sir, that you are something of a mystery.
 Now that you are perhaps a little restored by food and drink,
 especially drink, perhaps you will explain.  If you could
-have got down at any time during the last twenty-four hours,
+have got down at any [[Time|time]] during the last twenty-four hours,
 may I ask why it never occurred to you that there is something
 to be said for going to bed and even getting up for breakfast?"
 
@@ -2089,50 +2089,50 @@ to be said for going to bed and even getting up for breakfast?"
 me into making it.  I don't usually climb up walls in that way."
 
 "What I want to know is, if you are such an Alpine climber, why did you
-remain on that ledge of the precipice all night, waiting for the dawn.
+remain on that ledge of the precipice all [[Night|night]], waiting for the [[Dawn|dawn]].
 I had no idea librarians were such light-footed mountaineers.  But why?
-Why not come down?  Come down, for love is of the valley; and it is quite
-useless to await the coming of love perched on the top of a bookcase?
+Why not come down?  Come down, for [[Love|love]] is of the valley; and it is quite
+useless to await the coming of [[Love|love]] perched on the top of a bookcase?
 Why did you do it?"
 
 "I ought to be ashamed of myself, I know," replied the scholar sadly.
-"You talk about love, and really it's a kind of unfaithfulness.
-I feel just as if I'd fallen in love with somebody else's wife.
+"You talk about [[Love|love]], and really it's a kind of unfaithfulness.
+I feel just as if I'd fallen in [[Love|love]] with somebody else's wife.
 A man ought to stick to his own subject."
 
 "You think the Princess Pal-Ul--what's-her-name?--will be
 jealous of Berengaria of Navarre?" suggested Murrel.
 "Devilish good magazine story--you being haunted by her mummy,
-trailing and bumping about all the passages at night.
-No wonder you were afraid to come down.  But I suppose you
+trailing and bumping about all the passages at [[Night|night]].
+No [[Wonder|wonder]] you were afraid to come down.  But I suppose you
 mean you were interested in the books up there."
 
 "I was enthralled," said the librarian, with a sort of groan.
 "I had no idea that the rebuilding of civilisation after the barbarian
 wars and the Dark Ages was so fascinating and many-sided a matter.
-That question of the Serf Regardant alone. . . . I'm afraid if I'd
+That question of the Serf Regardant [[Alone|alone]]. . . . I'm afraid if I'd
 come on it all when I was younger . . ."
 
 "You'd have done something desperate about it, I suppose," said Murrel.
 "Hurled yourself madly into the study of Perpendicular Gothic
 or wasted your substance on riotous old brasses and stained glass.
-Well, it isn't too late, I suppose."
+[[Well]], it isn't too late, I suppose."
 
 A minute or two later Murrel looked up sharply in answer
-to a silence, as men look up in answer to a speech.
+to a [[Silence|silence]], as men look up in answer to a speech.
 There was something arresting in the way in which the Librarian
 had stopped talking; something still more arresting in the way
 in which he was looking out between the open glass doors
-across the spaces of the garden which were gradually warmed
+across the spaces of the [[Garden|garden]] which were gradually warmed
 with the growing sunlight.  He looked down the long avenue,
 with strips of flat but glowing flower-beds on either side,
 a little like the borders of a medieval illumination,
-and at the end of that long perspective stood the fragment
+and at the end of that long perspective stood the [[Fragment|fragment]]
 of medieval masonry poised upon its eighteenth century
-pedestal above the great sweep of the garden, and the fall
+pedestal above the great sweep of the [[Garden|garden]], and the fall
 of the whole countryside.
 
-"I wonder," he said, "how much there is in that term we hear so often
+"I [[Wonder|wonder]]," he said, "how much there is in that term we hear so often
 'Too late.'  Sometimes it seems to me as if it were either quite true
 or quite false.  Either everything is too late or nothing is too late.
 It seems somehow to be right on the border of illusion and reality.
@@ -2141,7 +2141,7 @@ never makes anything else.  But do you think a man might make a mistake
 and not make anything else?  Do you think he could die having missed
 the chance to live?"
 
-"Well, as I told you," said Murrel, "I'm inclined to think one subject
+"[[Well]], as I told you," said Murrel, "I'm inclined to think one subject
 is pretty much like another.  They'd all be interesting to a man like you
 and very bewildering to a man like me."
 
@@ -2169,13 +2169,13 @@ And yet she had been the author of the play and the original
 enthusiast for the subject.
 
 "And then," as Rosamund Severne observed with a large gesture as of
-despair, "when Olive had got what she wanted, she didn't seem to want it.
+[[Despair|despair]], "when Olive had got what she wanted, she didn't seem to want it.
 Gave her her old medieval play and then it was she that got sick of it!
 Went back to pottering about with her potty little gold paints,
 and let us do the rest of the work."
 
-"Well, well," Murrel had said, for he was a universal peace-maker,
-"perhaps it's as well the work is left to you.  You are so practical.
+"[[Well]], [[Well|well]]," Murrel had said, for he was a universal peace-maker,
+"perhaps it's as [[Well|well]] the work is left to you.  You are so practical.
 You are a Man of Action."
 
 And Rosamund was somewhat soothed and admitted she had often
@@ -2187,7 +2187,7 @@ Indeed it was not quite true to say, as Rosamund said,
 that they had given her her old medieval play.
 It would be truer to say that they had taken it away from her.
 They had improved it immensely; they seemed to be quite
-confident of that, and no doubt they ought to know.
+confident of that, and no [[Doubt|doubt]] they ought to know.
 They paid every possible tribute to it, as a thing that could
 be worked up most successfully for the stage.  A little adapted,
 it afforded some admirable entrances and exits for Mr. Julian Archer.
@@ -2212,22 +2212,22 @@ they were her own jokes; and they were not at all practical.
 The camel could not pass through the eye of the needle;
 and the pantomime elephant could not pass through the
 key-hole of the door that guarded her chamber of imagery.
-That divine dolls'-house in which she played with pigmy saints
+That divine dolls'-[[house]] in which she played with pigmy saints
 and pigmy angels was too small for these people, like big
 clumsy brothers and sisters, to come blundering into it.
-So she fell back on her own old amusement, amid general wonder.
+So she fell back on her own old amusement, amid general [[Wonder|wonder]].
 Nevertheless on this particular morning she was a little
 less mildly monomaniac than usual.  After working for about
-ten minutes, she rose to her feet, staring out on to the garden.
+ten minutes, she [[Rose|rose]] to her feet, staring out on to the [[Garden|garden]].
 Then she passed out almost like an automaton, the paint-brush still
-in her hand.  She stood looking for a little time at the great
-Gothic fragment on the pedestal, in the shadow of which she
+in her hand.  She stood looking for a little [[Time|time]] at the great
+Gothic [[Fragment|fragment]] on the pedestal, in the [[Shadow|shadow]] of which she
 and Murrel had debated the terrible problem of John Braintree.
 Then she looked across at the doors and windows in the opposite
-wing of the house; and saw that in the doorway of the library
+wing of the [[house]]; and saw that in the doorway of the library
 the librarian was standing, with Douglas Murrel beside him.
 
-The sight of these two early birds seemed to awaken the third
+The sight of these two early [[Birds|birds]] seemed to awaken the third
 early bird to a more practical contact with the waking world.
 It seemed as if she suddenly took a resolution, or became aware
 of a resolution she had already taken.  She walked a little
@@ -2246,22 +2246,22 @@ as delicate in its tint as a clear space in the sunset.
 Now I can't get a colour like that anywhere."
 
 "Oh, I don't know about that," said Murrel in his easy-going way.
-"I reckon you can get pretty well anything nowadays if you know
+"I reckon you can get pretty [[Well|well]] anything nowadays if you know
 where to go."
 
 "You mean," said Olive somewhat bitterly, "that you can get anything
 nowadays if you know how to pay for it."
 
-"I wonder," said the librarian musing, "if I were to offer
-to pay for a Palaeo-Hittite _palumon,_ now, I wonder whether
+"I [[Wonder|wonder]]," said the librarian musing, "if I were to offer
+to pay for a Palaeo-Hittite _palumon,_ now, I [[Wonder|wonder]] whether
 it would be easy to obtain."
 
-"I don't say that Selfridge actually puts it in the shop-window,"
+"I don't say that Selfridge actually puts it in the shop-[[Window|window]],"
 said Murrel, "but you'd probably find some other American
 millionaire somewhere, willing to do what he would call
 a trade with it."
 
-"Now look here, Douglas," cried Olive with a certain fire,
+"Now look here, Douglas," cried Olive with a certain [[Fire|fire]],
 "I know you're fond of bets and wagers and that sort of thing.
 I'll show you the red colour I mean in the book, and you shall
 compare it yourself with the colours in my paint-box. And
@@ -2282,25 +2282,25 @@ to stare into the depths of the distance with blind but shining eyes.
 She lugged down a lumbering volume from one of the lower shelves
 and laid it open at a blazoned page on which the letters seemed
 to have come to life and to be crawling about like gilded dragons.
-In one corner was the image of the many-headed monster of the Apocalypse;
+In one corner was the image of the many-headed [[Monster|monster]] of the [[Apocalypse]];
 and even to the careless eye of her companion, its tint glowed across
 the ages with a red that had the purity of flame.
 
 "Do you mean," he asked, "that I am to go hunting that particular
-animal through the streets of London?"
+animal through the streets of [[London]]?"
 
 "I mean you are to go hunting that particular paint," she said,
-"and as you say you can get anything in the streets of London,
+"and as you say you can get anything in the streets of [[London]],
 you oughtn't to hunt far, I suppose.  There was a man called Hendry,
-in the Haymarket, who used to sell it when I was a child;
+in the Haymarket, who used to sell it when I was a [[Child|child]];
 but I can't get that sort of fine fourteenth century red at any
-artist's colourmen's round here."
+[[Artist|artist]]'s colourmen's round here."
 
-"Well, I've been painting the town red myself in a
+"[[Well]], I've been painting the town red myself in a
 quiet way, for the last few hours," said Murrel modestly,
 "but I suppose it wasn't a fine fourteenth century red.
 It was only a twentieth century red, like Braintree's tie.
-I told him at the time that the tie might begin to ignite the town."
+I told him at the [[Time|time]] that the tie might begin to ignite the town."
 
 "Braintree!" said Olive rather sharply.  "Was Mr. Braintree with you
 when you--when you painted it red?"
@@ -2324,7 +2324,7 @@ and hear discussions about things he had never heard of.
 I'm sure that discussion we had at the Pig and Whistle was
 one that he'd never heard before in his life."
 
-"You know perfectly well," she retorted a little crossly,
+"You know perfectly [[Well|well]]," she retorted a little crossly,
 "that I never wanted him to go to those horrid places.
 I meant him to have real discussions with intellectual people
 about important things."
@@ -2353,7 +2353,7 @@ it was very wrong of you to take him to such low places."
 
 "And what about me?" asked the gentleman plaintively,
 "What about my morals?  Is my moral training of no importance?
-Is my immortal soul of no value?  Why this levity and indifference
+Is my immortal [[Soul|soul]] of no value?  Why this levity and indifference
 to my spiritual prospects at the Pig and Whistle?"
 
 "Oh," she replied with elaborate indifference "everybody knows
@@ -2362,23 +2362,23 @@ you don't mind that sort of thing."
 "I raise against the Red Tie the more truly democratic blazon of
 the Red Nose; and appeal from the Marseillaise to the Music Hall,"
 he said, smiling.  "Don't you think now that if I went hunting
-for the Red Nose through London, rejecting the pink, the purple,
+for the Red Nose through [[London]], rejecting the pink, the purple,
 the merely russet, the too dusky crimson, and so on, I might find
 at last a nose of that delicate fourteenth century tint which--"
 
 "If you can find the paint," retorted Olive, "I don't care whose
 nose you paint with it.  But I'd prefer Mr. Archer's."
 
-It is necessary that the long-suffering reader should know something
+It is necessary that the long-[[Suffering|suffering]] reader should know something
 of the central incident in the play called "Blondel the Troubadour,"
-as that alone could have rendered possible or credible the central
-incident in the story called, "The Return of Don Quixote."
-In this drama, Blondel leaves his lady-love in a somewhat unnecessary
-state of mystification and jealousy, supposing that he is touring
-the Continent serenading ladies of all nationalities and types of beauty;
+as that [[Alone|alone]] could have rendered possible or credible the central
+incident in the story called, "The Return of [[Don Quixote]]."
+In this drama, Blondel [[Leaves|leaves]] his lady-[[Love|love]] in a somewhat unnecessary
+state of [[Mystification|mystification]] and [[Jealousy|jealousy]], supposing that he is touring
+the Continent serenading ladies of all nationalities and types of [[Beauty|beauty]];
 whereas in fact he is only serenading a large and muscular gentleman
 for purely political reasons.  The large and muscular gentleman,
-otherwise Richard Coeur de Lion, was to be acted on this occasion by a
+otherwise [[Richard]] Coeur de [[Lion]], was to be acted on this occasion by a
 modern gentleman answering to that description as far as externals went;
 a certain Major Trelawney, a distant cousin of Miss Ashley.
 He was one of those men, sometimes to be found in the fashionable world,
@@ -2393,21 +2393,21 @@ loftiest kind.  His motives throughout the play were of an almost
 irritating disinterestedness; a purity that amounted to perversity.
 Murrel could never conceal his amusement at hearing these suicidally
 unselfish sentiments breathed from the lips of Mr. Julian Archer.
-Blondel, in short, overflowed with loyalty to his king and love
-of his country and a desire to restore the former to the latter.
-He wished to bring the king back to restore order to his kingdom
+Blondel, in short, overflowed with loyalty to his [[King|king]] and [[Love|love]]
+of his country and a [[Desire|desire]] to restore the former to the latter.
+He wished to bring the [[King|king]] back to restore order to his kingdom
 and defeat the intrigues of John, that universal and useful,
-not to say overworked, villain of many crusading tales.
+not to say overworked, [[Villain|villain]] of many crusading tales.
 
 The climax was not a bad piece of amateur drama.  When Blondel the
-Troubadour has at last discovered the castle that contains his master,
+Troubadour has at last discovered the [[Castle|castle]] that contains his master,
 and has collected (somewhat improbably) a company of courtiers,
-court ladies, heralds and the like in the depths of the Austrian forest
+[[Court|court]] ladies, heralds and the like in the depths of the Austrian forest
 outside the doors of that dungeon, to receive the royal captive with
-loyal acclamations, King Richard comes out with a flourish of trumpets,
-takes the centre of the stage, and there before all his peripatetic court,
+loyal acclamations, [[King]] [[Richard]] comes out with a flourish of trumpets,
+takes the centre of the stage, and there before all his peripatetic [[Court|court]],
 with exceedingly royal gestures, abdicates his royal throne.
-He declares that he will be a king no longer, but only a knight errant.
+He declares that he will be a [[King|king]] no longer, but only a knight errant.
 He had indeed been sufficiently errant in every sense, when his
 misfortune fell upon him; but it has not cured him of his own version
 of the view that it is human to err.  He had been wandering in those
@@ -2416,34 +2416,34 @@ when he finally fell into the misadventure of the Austrian captivity.
 He now declared that these nameless meanderings, despite their conclusion,
 had been the happiest hours of his life.  He delivers a withering
 denunciation of the wickedness of the other kings and princes of his
-time and the disgusting condition of political affairs generally.
+[[Time|time]] and the disgusting condition of political affairs generally.
 Miss Olive Ashley had quite a pretty talent for imitating the more turgid
-Elizabethan blank verse.  He expresses a preference for the personal
-society of snakes to that of Phillip Augustus, the King of France;
+Elizabethan [[Blank Verse|blank verse]].  He expresses a preference for the personal
+society of snakes to that of Phillip Augustus, the [[King of France]];
 compares the wild boar of the forests favourably with statesmen
 managing public affairs at the moment; and makes a speech of a hearty
-and hospitable sort, addressed chiefly to the wolves and winter winds,
+and hospitable sort, addressed chiefly to the wolves and [[Winter|winter]] winds,
 begging them to make themselves comfortable at his expense,
 so long as he is not required to meet any of his relatives or recent
 political advisers.  With a peroration ending with a rhymed couplet,
-in the Shakespearean manner, he renounces his crown, draws his sword,
+in the Shakespearean manner, he renounces his [[Crown|crown]], draws his [[Sword|sword]],
 and is proceeding to Exit R., to the not unnatural annoyance
-of Blondel, who has sacrificed his private romance to his public duty,
+of Blondel, who has sacrificed his private [[Romance|romance]] to his public duty,
 only to find his public duty doing a bolt off the stage in pursuit
-of a private romance.  The opportune and exceedingly improbable
+of a private [[Romance|romance]].  The opportune and exceedingly improbable
 arrival of Berengaria of Navarre, in the depths of the same forests,
 at length induces him to return to his allegiance to himself.
 And the reader must be indeed ill acquainted with the laws of romantic
-drama if he needs to be told that the appearance of the queen,
-and her reconciliation to the king, are the signal for an exceedingly
-hasty but equally satisfactory reconciliation between Blondel and his
+drama if he needs to be told that the appearance of the [[Queen|queen]],
+and her [[Reconciliation|reconciliation]] to the [[King|king]], are the signal for an exceedingly
+hasty but equally satisfactory [[Reconciliation|reconciliation]] between Blondel and his
 own young lady.  Already an atmosphere fills the Austrian forest,
 accompanied by faint music and evening light, which corresponds
 to the grouping of figures near the foot-lights and the hasty diving
 for hats and umbrellas in the pit.
 
 Such was the play of "Blondel the Troubadour," not altogether
-a bad specimen of the sentimental and old-fashioned romance,
+a bad specimen of the sentimental and old-fashioned [[Romance|romance]],
 popular before the war, but now only remembered because of
 the romantic results which it afterwards produced in real life.
 While the rest were occupied in their respective ways with acting
@@ -2451,10 +2451,10 @@ or scenery, two other figures in that human drama remained loyal
 to other enthusiasms, not without effect on their future.
 Olive Ashley continued to potter about impenitently
 with paints and pictured missals from the library.
-And Michael Herne continued to devour volume after volume
-about the history, philosophy, theology, ethics and economics
-of the four medieval centuries, in the hope of fitting
-himself to deliver the fifteen lines of blank verse allotted
+And [[Michael]] Herne continued to devour volume after volume
+about the [[history]], [[philosophy]], theology, ethics and economics
+of the four medieval centuries, in the [[Hope|hope]] of fitting
+himself to deliver the fifteen lines of [[Blank Verse|blank verse]] allotted
 by Miss Ashley to the Second Troubadour.
 
 It is only fair to say, however, that Archer was quite as industrious
@@ -2462,19 +2462,19 @@ in his way as Herne in another.  As they were the Two Troubadours they
 often found themselves studying side by side.
 
 "It seems to me," said Julian Archer one day, flinging down
-the manuscript with which he had refreshed his memory,
-"that this fellow Blondel as a lover is a bit of a fraud.
+the manuscript with which he had refreshed his [[Memory|memory]],
+"that this fellow Blondel as a [[Lover|lover]] is a bit of a fraud.
 I like to put a bit more passion into it myself."
 
 "Certainly there was something curiously abstract, and at
 first sight artificial, about all that Provençal etiquette,"
 assented the Second Troubadour, otherwise Mr. Herne.
-"The Courts of Love seem to have been pedantic, almost pettifogging.
-Sometimes it did not seem to matter whether the lover had seen
+"The Courts of [[Love]] seem to have been pedantic, almost pettifogging.
+Sometimes it did not seem to matter whether the [[Lover|lover]] had seen
 the lady at all; as with Rudel and the Princess of Tripoli.
 Sometimes it was a courtly bow to the wife of your liege lord,
 a worship open and tolerated.  But I suppose there was often
-real passion as well."
+real passion as [[Well|well]]."
 
 "There seems damned little of it in Miss Ashley and her Troubadour,"
 said the disappointed amateur.  "All spiritual notions and nonsense.
@@ -2488,10 +2488,10 @@ been in that or similar philosophical movements."
 
 "His movements are philosophical all right," said Archer.
 "I like my movements to be a little less philosophical when I'm
-making love to a girl on the stage.  It's almost as if she really
+making [[Love|love]] to a girl on the stage.  It's almost as if she really
 meant him to be shilly-shallying instead of popping the question."
 
-"The question of avoiding marriage seems to have been essential
+"The question of avoiding [[Marriage|marriage]] seems to have been essential
 in the heresy," said Herne.  "I notice that in the records of men
 returning to orthodoxy after the Crusade of Montford and Dominic,
 there is the repeated entry _iit in matrimonium._ It would certainly
@@ -2502,7 +2502,7 @@ Nothing of that comes out very clearly in the lines Miss Ashley
 has given me to say; but perhaps your part makes the point
 a little clearer."
 
-"I think he's a long time coming to the point," replied Archer.
+"I think he's a long [[Time|time]] coming to the point," replied Archer.
 "Gives a romantic actor no scope at all."
 
 "I'm afraid I don't know anything about any sort of acting,"
@@ -2511,7 +2511,7 @@ a few lines in the play."
 
 He paused a moment, and Julian Archer looked at him with an
 almost absent-minded pity, as he murmured that it would be all
-right on the night.  For Archer, with all his highly practical
+right on the [[Night|night]].  For Archer, with all his highly practical
 _savoir faire,_ was not the man to feel the most subtle changes
 in the social climate; and he still regarded the librarian more
 or less as a sort of odd footman or stable-boy brought in by
@@ -2523,14 +2523,14 @@ and was only faintly conscious that the man was maundering still.
 "But I can't help thinking," the librarian was continuing,
 in his low meditative voice, "that it might give rather
 an interesting scope for a romantic actor to act
-exactly that sort of high and yet hollow romance.
-There is a kind of dance that expresses contempt for the body.
+exactly that sort of high and yet hollow [[Romance|romance]].
+There is a kind of [[Dance|dance]] that expresses contempt for the [[Body|body]].
 You can see it running like a pattern through any number
-of Asiatic traceries and arabesques.  That dance was the dance
-of the Albigensian troubadours; and it was a dance of death.
-For that spirit can scorn the body in either of two ways;
+of Asiatic traceries and arabesques.  That [[Dance|dance]] was the [[Dance|dance]]
+of the Albigensian troubadours; and it was a [[Dance of Death|dance of death]].
+For that spirit can scorn the [[Body|body]] in either of two ways;
 mutilating it like a fakir or pampering it like a sultan;
-but never doing it honour.  Surely it will be rather interesting
+but never doing it [[Honour|honour]].  Surely it will be rather interesting
 for you to interpret bitter hedonism, the high and wild cries,
 the horns and hootings of the old heathen revel, along with
 the underlying pessimism."
@@ -2540,7 +2540,7 @@ the underlying pessimism."
 will only fidget about with her potty little paints."
 
 He lowered his voice a little hastily with the last words,
-for he realised for the first time that the lady in question
+for he realised for the first [[Time|time]] that the lady in question
 was sitting at the other end of the library, with her back
 to him, bent over books and fidgeting away as described.
 She had not apparently heard him; in any case she did not
@@ -2561,13 +2561,13 @@ as I have.  Now unless she can put a little more pep into the dialogue,
 I'm not sure I can grip my audience."
 
 Herne was trying to listen politely with one half of his mind,
-but for the other half the garden beyond was taking on,
+but for the other half the [[Garden|garden]] beyond was taking on,
 as it so often did, the vague quality of a pageant in a vision.
 Far away at the end of an avenue of shining grass, among delicate trees,
 twinkling in the sunlight, he saw the figure of the Princess of the play.
 Rosamund was clad in her magnificent blue robes with her almost fantastic
 blue head-dress, and as she came round the curve of the path she made
-an outward gesture at once of freedom and fatigue, thrusting out
+an outward gesture at once of [[Freedom|freedom]] and fatigue, thrusting out
 her arms or throwing out her hands as if stretching herself.
 The long pointed sleeves she wore gave it somewhat the appearance
 of a bird flapping its wings; a bird of paradise, as the actor had said.
@@ -2581,7 +2581,7 @@ however, even the dreamy librarian began to think that
 there might be another reason for that outward gesture.
 Something in her face suggested that the movement had been one
 of impatience or even of dismay since it cannot help looking
-like a mask of tragedy over quite trivial irritations.  It might be
+like a mask of [[Tragedy|tragedy]] over quite trivial irritations.  It might be
 questioned whether she regarded her present irritation as trivial.
 But she unconsciously carried about with her such a glow of good
 health and such a confidence of manner, that there was a second
@@ -2591,12 +2591,12 @@ news sound as if it were good.
 
 "And here's a nice state of things," she said indignantly,
 flapping open a telegram and staring round her in impersonal anger.
-"Hugh Trelawney says he can't act the King after all."
+"Hugh Trelawney says he can't act the [[King]] after all."
 
 On some matters Julian Archer's mind worked very swiftly indeed.
 He was as much annoyed in a sense as she was; but before she had spoken
 again he had considered the possibility of taking a new part himself,
-and finding time to learn the lines appropriated to the King.  It would
+and finding [[Time|time]] to learn the lines appropriated to the [[King]].  It would
 be a fag; but he had never minded hard work when it was worth his while.
 The great difficulty he saw was the difficulty of imagining anybody
 in his part as the Troubadour.
@@ -2610,7 +2610,7 @@ were you.  It seems rather rotten, when we've all taken such a lot
 of trouble."  His eye wandered inconsequently to the other end
 of the room, where the dark head and rigid back of Miss Ashley were
 obstinately fixed in concentrated interest on the illuminations.
-It was a long time since she had been apparently concentrated on
+It was a long [[Time|time]] since she had been apparently concentrated on
 anything else; save for long disappearances, supposed to be country walks,
 which had remained something of a mystery.
 
@@ -2618,17 +2618,17 @@ which had remained something of a mystery.
 merely in illustration of the industry of the company.
 
 "But how can we go on with it?" asked Rosamund in exasperation.
-"Who else is there who could take the King?  We had trouble enough
+"Who else is there who could take the [[King]]?  We had trouble enough
 in getting hold of an assistant Troubadour, till Mr. Herne was kind
 enough to help us."
 
-"The trouble is," said Archer, "that if I took the King,
+"The trouble is," said Archer, "that if I took the [[King]],
 you'd have nobody who could take Blondel."
 
-"Well then," said Rosamund rather crossly, "in that case it ought
+"[[Well]] then," said Rosamund rather crossly, "in that case it ought
 to be dropped."
 
-There was a silence and they stood looking at each other.
+There was a [[Silence|silence]] and they stood looking at each other.
 Then they all simultaneously turned their heads and looked
 towards the other end of the long room, from which a new
 voice had spoken.
@@ -2638,34 +2638,34 @@ round to speak.  They were a little startled, for they had no idea
 she had even been listening.
 
 "It ought to be dropped," she said, "unless you can get Mr. Herne
-to act the King himself.  He is the only person who knows or cares
+to act the [[King]] himself.  He is the only person who knows or cares
 what it's all about."
 
-"God bless my soul," was the helpful comment of Mr. Herne.
+"God bless my [[Soul|soul]]," was the helpful comment of Mr. Herne.
 
 "I don't know what you people imagine it's all about," went on Olive
 with some bitterness.  "You seem to have turned it all into a sort
-of opera--a comic opera.  Well, I don't know anything about it,
+of opera--a comic opera.  [[Well]], I don't know anything about it,
 in the way he does; but I did mean something by it, for all that.
-Oh, I don't imagine I can express it properly--not half so well
-as any old song like the one that says 'Will ye no come back again?'
-or 'When the King enjoys his own again.'"
+Oh, I don't imagine I can express it properly--not half so [[Well|well]]
+as any old [[Song|song]] like the one that says 'Will ye no come back again?'
+or 'When the [[King]] enjoys his own again.'"
 
 "That's Jacobite," Archer explained kindly.  "Mixing up the periods
 a bit, eh?"
 
-"I don't know what King it is who ought to come back,
+"I don't know what [[King]] it is who ought to come back,
 any more than anybody else does," answered Olive steadily.
-"King Arthur or King Richard or King Charles or somebody.
-But Mr. Herne does know something about what those men meant by a king.
-I rather wish Mr. Herne really were King of England."
+"[[King Arthur]] or [[King]] [[Richard]] or [[King]] Charles or somebody.
+But Mr. Herne does know something about what those men meant by a [[King|king]].
+I rather wish Mr. Herne really were [[King]] of England."
 
 Julian Archer threw back his head and hooted with delighted laughter.
 There was something exaggerated and almost unnatural about his laughter;
 like the shrill mockery with which men have received prophecies.
 
 "But look here," protested the more practical Rosamund, "even supposing
-Mr. Herne could act the King, then who is going to take his own part,
+Mr. Herne could act the [[King]], then who is going to take his own part,
 that we had such a bother about before?"
 
 Olive Ashley turned her back once more and appeared to resume
@@ -2674,7 +2674,7 @@ tidying up her paints.
 "Oh," she said, rather abruptly, "I could arrange that.
 A friend of mine will take it on if you like."
 
-The others stared at her in some wonder; and then Rosamund said:
+The others stared at her in some [[Wonder|wonder]]; and then Rosamund said:
 "Hadn't we better consult Monkey about this?  He knows such
 a lot of people."
 
@@ -2688,11 +2688,11 @@ of acceptance of the idea of Mr. Herne's coronation, their friend
 Douglas Murrel was in the very act of setting out upon an expedition
 which was to have a curious effect upon all their fortunes.
 Olive Ashley had asked him to discover whether a particular
-pigment was still procurable at the artist's colourmen's.
-But he had all the cheerful bachelor's exaggerated love
+pigment was still procurable at the [[Artist|artist]]'s colourmen's.
+But he had all the cheerful bachelor's exaggerated [[Love|love]]
 of adventure, and especially of preparations for adventure.
 Just as he had started on his nocturnal round with Mr. Braintree
-with a general sense that the night would last for ever, so he set
+with a general sense that the [[Night|night]] would last for ever, so he set
 out on his little commission for Miss Ashley with a general
 assumption that it would lead him to the end of the world.
 And indeed it did perhaps in some sense lead him to the end
@@ -2707,9 +2707,9 @@ up the street.
 
 And, sure enough, no sooner had he stepped outside the old Gothic
 gateway of Seawood than he came face to face with a prodigy.
-He might almost have said a monster.  A figure was entering the house
+He might almost have said a [[Monster|monster]].  A figure was entering the [[house]]
 as he was leaving it; a figure at once fearfully unfamiliar.
-He struggled with some confusion of identity; as in a nightmare.
+He struggled with some confusion of [[Identity|identity]]; as in a [[nightmare]].
 Then he sank into a stupefied certainty; for the figure was that
 of Mr. John Braintree; and he had shaved off his beard.
 
@@ -2722,15 +2722,15 @@ THE MISADVENTURES OF MONKEY
 Murrel stood staring in the porch at the figure which appeared dark
 against the outer landscape; and all the fanciful part of him,
 which was largely subconscious, was stirred by half serious fancies.
-No black cat or white crow or piebald horse or any such proverbial
+No black cat or white crow or piebald [[Horse|horse]] or any such proverbial
 prodigy could have been so inscrutable an omen at the beginning
-of his journey as this strange appearance of the Shaven Syndicalist.
+of his [[Journey|journey]] as this strange appearance of the Shaven Syndicalist.
 Meanwhile Braintree stared back at him with a hardihood almost
 amounting to hostility, despite their mutual affection; he could no
 longer thrust out his beard, but he thrust out his chin so as to make
 it seem equally big and aggressive.
 
-But Murrel only said genially, "You are coming to help us, I hope."
+But Murrel only said genially, "You are coming to help us, I [[Hope|hope]]."
 He was a tactful person and he did not say, "You are coming to help us,
 after all."  But he understood in a flash all that had happened;
 he understood Olive Ashley's country walks and her abstraction and
@@ -2739,8 +2739,8 @@ Poor Braintree had been caught on the rebound, in the reaction
 after his depressing experiment as a drunken reveller.
 He might have easily gone on bullying her along with all the other nobs,
 so long as he had the sensation of marching into their palace with
-the populace behind him.  But since the night when Murrel himself
-had sown the seed of doubt about his friend's democratic status,
+the populace behind him.  But since the [[Night|night]] when Murrel himself
+had sown the seed of [[Doubt|doubt]] about his friend's democratic status,
 the latter had become merely an intensely sensitive and rather
 introspective individual; and one on whom graciousness and a
 delicate sympathy were certainly not altogether thrown away.
@@ -2749,7 +2749,7 @@ which remained rather cloudy; but he did not allow the faintest
 trace of intelligence to appear in his tone of voice.
 
 "Yes," replied Braintree stolidly, "Miss Ashley told me somebody
-had to come in and help.  I wonder you don't do it yourself."
+had to come in and help.  I [[Wonder|wonder]] you don't do it yourself."
 
 "Not much," replied Murrel.  "I said at the beginning that if they
 would insult me by calling me a stage-manager, at least I wasn't wicked
@@ -2759,13 +2759,13 @@ another sort of commission in my case."
 
 "Indeed?" inquired Braintree.  "Now I come to look at you, you look as if
 you were going out to seek your fortunes in the goldfields or somewhere."
-And he eyed with some wonder the equipment of his friend, who carried
+And he eyed with some [[Wonder|wonder]] the equipment of his friend, who carried
 a knapsack, a resolute looking walking-stick and a leather belt apparently
 supporting a sheath-knife.
 
 "Yes," said Murrel, "I am armed to the teeth.  I am going on
 active service--going to the Front."  Then after a pause he added,
-"The truth is I'm going shopping."
+"The [[Truth|truth]] is I'm going shopping."
 
 "Oh," said the wondering Braintree.
 
@@ -2773,7 +2773,7 @@ active service--going to the Front."  Then after a pause he added,
 "If I fall in the first charge at the Bargain Counter,
 say that my last thought was fixed firmly on Julian Archer.
 Put up a little stone on the spot where I fell, and when
-the Spring Sales come back with all their birds and flowers,
+the [[Spring]] Sales come back with all their [[Birds|birds]] and [[Flowers|flowers]],
 remember me.  Farewell.  I wish you luck."
 
 And waving his resolute walking-stick in the air with gestures
@@ -2781,7 +2781,7 @@ of benediction, he betook himself briskly along the path through
 the park, leaving the dark figure in the porch looking rather
 doubtfully after him.
 
-The birds of spring, which he had just invoked so pathetically,
+The [[Birds|birds]] of [[Spring|spring]], which he had just invoked so pathetically,
 were indeed singing in the bright plantation of little trees
 through which he went; the light green tufts of leafage
 had themselves something of the look of sprouting feathers.
@@ -2791,7 +2791,7 @@ as if ready to soar into the air, in the wake of the great pink
 and white cloud that went before him overhead like a cherubic
 herald in the sky.  Something childish in his memories awoke;
 and he could almost have fancied that he was a fairy prince
-and his clumsy walking-stick was a sword.  Then he remembered
+and his clumsy walking-stick was a [[Sword|sword]].  Then he remembered
 that his enterprise was not to take him into forests and valleys
 but into the labyrinth of commonplace and cockney towns;
 and his plain and pleasant and shrewd face was wrinkled
@@ -2816,7 +2816,7 @@ and some part of the other.  There were crowds of people inside
 trying to get out and crowds of people outside trying to get in,
 reinforced by more crowds of people not trying to get in,
 but standing and staring in at the windows without the least
-ambition to get anywhere.
+[[Ambition|ambition]] to get anywhere.
 
 At intervals in the crawling crush he came on big bland men
 who waved him on with beautifully curved motions of the hand;
@@ -2832,7 +2832,7 @@ in these endless gilded galleries and subterranean halls there
 was a department devoted to Artists' Materials; but there
 was no indication of how far away it was or how long it
 would take, at the present rate of progress, to get there.
-Every now and then they came on the huge shaft or well of a lift;
+Every now and then they came on the huge shaft or [[Well|well]] of a lift;
 and the congestion was slightly relieved by some people being
 swallowed up by the earth and others vanishing into the ceiling.
 Eventually he himself found he was one of those fated,
@@ -2857,7 +2857,7 @@ and it was not the first errand he had run for Miss Olive Ashley.
 He was the sort of man who is discovered taking care of a dog,
 which is not his dog; in whose rooms are to be found trunks
 and suit-cases which Bill or Charlie will pick up on the way
-from Mesopotamia to New York; who is often left to mind
+from Mesopotamia to [[New York]]; who is often left to mind
 the baggage and might quite conceivably be left to mind the baby.
 Yet it is not enough to say that he did not lose his dignity
 (which, such as it was, was very deep down in him indeed and
@@ -2874,7 +2874,7 @@ in his unattached sociability and very variegated friend-ships,
 made it come quite natural to anybody to ask him a favour.
 He gravely took out of his pocket-book a piece of old,
 stiff paper, rather like parchment and embrowned with age
-or dust, on which was traced in a faint but finely drawn
+or [[Dust|dust]], on which was traced in a faint but finely drawn
 outline the plumage of one part of the wing of a bird,
 probably intended as a study for the wings of an angel.
 For a few of the plumes were picked out in strokes like flames
@@ -2884,28 +2884,28 @@ and dusty page.
 
 Nobody could really know how much Murrel was trusted in such matters,
 who did not know what were Olive Ashley's feelings about that
-old scrap of paper scratched with that unfinished sketch.
-For it had been made long ago when she was a child by her father;
+old scrap of paper scratched with that unfinished [[Sketch|sketch]].
+For it had been made long ago when she was a [[Child|child]] by her father;
 who was a remarkable man in more ways than anybody ever knew,
 but especially remarkable as a father.  To him was due the fact
 that all her first thoughts about things had been coloured.
 All those things that for so many people are called culture and come
-at the end of education had been there for her before the beginning.
+at the end of [[Education|education]] had been there for her before the beginning.
 Certain pointed shapes, certain shining colours, were things
 that existed first and set a standard for all this fallen world
 and it was that which she was clumsily trying to express when she
-set her thoughts against all the notions of progress and reform.
+set her thoughts against all the notions of progress and [[Reform|reform]].
 Her nearest and dearest friend would have been amazed to know
-that she caught her breath at the mere memory of certain wavy
+that she caught her breath at the mere [[Memory|memory]] of certain wavy
 bars of silver or escalloped edges of peacock green, as others
-do at the reminder of a lost love.
+do at the reminder of a lost [[Love|love]].
 
-Murrel, as he took this precious fragment from his pocket-book,
+Murrel, as he took this precious [[Fragment|fragment]] from his pocket-book,
 took with it a newer and shinier piece of paper, on which a note
 was written in the words:  "Hendry's Old Illumination Colours;
 shop in Haymarket fifteen years ago.  _Not_ Hendry and Watson.
 Used to be sold in small round glass pots.  J. A. thinks more
-likely in country town than London now."
+likely in country town than [[London]] now."
 
 Armed with these weapons of attack, he was borne up against the counter
 stacked with artists' materials, he himself being wedged between
@@ -2918,11 +2918,11 @@ and the remarks shot sideways out of her mouth, which were of an
 irritated sort, seemed to be addressed to somebody quite different;
 apparently to somebody behind.
 
-"Never the time and the place and the loved one all together,"
-murmured Murrel with an air of resignation.  "It does not seem
+"Never the [[Time|time]] and the place and the loved one all together,"
+murmured Murrel with an air of [[Resignation|resignation]].  "It does not seem
 perhaps the perfect moment, the perfect combination of conditions,
-in which to open one's heart about Olive's early childhood
-and her fireside dreams about the flaming cherubim, or even to go
+in which to open one's heart about Olive's early [[Childhood|childhood]]
+and her fireside [[Dreams|dreams]] about the flaming cherubim, or even to go
 very deep into the influence of her father on her growing mind.
 And I don't know how else one is exactly to convey how important this is,
 or why any of us should take any particular trouble about it.
@@ -2930,16 +2930,16 @@ It all comes of having an open mind and sympathising with so many
 different sorts of people.  When I talk to Olive I know that
 the right and wrong colour are just as real to her as the right
 and wrong of anything else; and a dull shade in the red is like
-a shadow on honour or somebody not quite telling the truth.
+a [[Shadow|shadow]] on [[Honour|honour]] or somebody not quite telling the [[Truth|truth]].
 But when I look at this girl, I feel she has every reason to
 congratulate herself, when she says her evening prayers, if she
-hasn't sold six easels instead of five sketch books, or thrown
+hasn't sold six easels instead of five [[Sketch|sketch]] books, or thrown
 all the Indian ink over the people who asked for turpentine."
 
 He resolved to reduce his original explanation to the simplest possible
 terms to start with and expand it afterwards, if he survived.
 Gripping his piece of paper firmly in his hand, he confronted
-the shop girl with the eye of a lion-tamer, and said:
+the shop girl with the eye of a [[Lion|lion]]-tamer, and said:
 "Have you got Hendry's Old Illumination Colours?"
 
 The young woman gazed at him for a few seconds; and there was on her
@@ -2947,8 +2947,8 @@ face exactly the same expression as if he had spoken to her in Russian
 or Chinese.  She forgot for a moment all that mechanical and merciless
 civility which accompanied the rapid and recognised exchanges.
 She did not beg his pardon or go through any such form.
-She simply said, "Eh?" and her voice rose sharply with that deep,
-incurable, querulous complaint and protest which is the very soul
+She simply said, "Eh?" and her voice [[Rose|rose]] sharply with that deep,
+incurable, querulous complaint and protest which is the very [[Soul|soul]]
 of the accent that we call Cockney.
 
 The way of the conscientious modern novelist is hard; or rather
@@ -2957,12 +2957,12 @@ through loose and soft sand, when he himself would be only too
 delighted to leap from crag to crag or from crisis to crisis.
 When he would fain take the wings of a dove and fly away and be
 at rest in some reposeful murder, shipwreck, revolution or
-universal conflagration, he is condemned for a time to toil
-along the dusty road which is the way such things happen;
+universal conflagration, he is condemned for a [[Time|time]] to toil
+along the dusty [[Road|road]] which is the way such things happen;
 and must pass through a purgatory of law and order before
-entering his paradise of blood and ruin.  Realism is dull;
-that is what is meant by saying that realism alone tells
-the truth about our intense and intelligent civilisation.
+entering his paradise of [[Blood|blood]] and ruin.  Realism is dull;
+that is what is meant by saying that realism [[Alone|alone]] tells
+the [[Truth|truth]] about our intense and intelligent civilisation.
 Thus, for instance, nothing but a mass of most monotonous detail
 could convey to the reader any impression of the real conversation
 between Mr. Douglas Murrel and the young woman selling him,
@@ -2975,7 +2975,7 @@ notion of the phases through which the wondering face of the
 saleswoman passed, or the variation in her artless comments.
 How should rapid narrative describe how big business dealt
 with the problem?  How she said they had got illumination
-colours and produced water colours in a shilling box.
+colours and produced [[Water|water]] colours in a shilling box.
 How she then said they had not got illumination colours
 and implied that there were no such things in the world;
 that they were a fevered dream of the customer's fancy.
@@ -2990,15 +2990,15 @@ effect of appearing to give her a cold in her head,
 and causing her to answer all further remarks by saying:
 "Dote know, I'be sure."
 
-All this would have to occupy as much space as it did time,
+All this would have to occupy as much space as it did [[Time|time]],
 before the effect on the customer could be found excusable,
 especially to himself.  A wild protest against the preposterousness
-of things in general surged up inside him; a sort of melodrama
+of things in general surged up inside him; a sort of [[Melodrama|melodrama]]
 that found its energy in mockery.  He leaned over the counter
 in a lowering and almost bullying fashion, and said:
 "Where is Hendry?  What have you done with Hendry, that household word?
 Why all these dark evasions when Hendry is mentioned;
-this sinister and significant silence on this one subject;
+this sinister and significant [[Silence|silence]] on this one subject;
 this still more sinister and significant changing of the subject?
 Why do you tear the conversation away towards pastels?
 Why do you erect a screen or barricade of cheap chalks and
@@ -3012,7 +3012,7 @@ overwhelmed his good-natured spirit with shame; he stopped in the middle
 of a sentence, hesitated, and then adopted another method for pursuing
 his purpose.  Putting his hand hastily into his pocket, he pulled out some
 envelopes and a card-case, and presenting his name, asked with courtesy,
-and almost humility, if he could see the manager of the department.
+and almost [[Humility|humility]], if he could see the manager of the department.
 He gave the girl his card, and the next moment regretted that also.
 
 There was one weak side of the many-sided Mr. Murrel
@@ -3024,9 +3024,9 @@ It would be cant to say that he was always unconscious of his rank.
 Somewhere deep inside him, perhaps, he was even too conscious of it.
 But it was deeply embedded in him that the only way to defend
 it was to ignore it.  Moreover, there was a certain complexity
-and conflict; and some pride in the accident of being born
+and conflict; and some [[Pride|pride]] in the accident of being born
 with a few others "in the know" wrestled with the real
-and deep desire of all masculine men for equality.
+and deep [[Desire|desire]] of all masculine men for equality.
 The one thing that embarrassed him was any such reminder,
 and he remembered too late that his card and address carried
 certain indications of such things; a club and a formal title.
@@ -3041,10 +3041,10 @@ apartment of one evidently in authority.
 
 "Wonderful place you have here," he said cheerfully.
 "All done by organisation, I suppose.  I expect you could pretty
-well get into touch with all the trade conditions in the world
+[[Well|well]] get into touch with all the trade conditions in the world
 if you put your machinery to work."
 
-The manager, however shrewd, had a vanity in such things,
+The manager, however shrewd, had a [[Vanity|vanity]] in such things,
 and before the conversation had gone much further had committed
 himself to very vast and universal claims to knowledge.
 
@@ -3055,7 +3055,7 @@ a friend of her father and of the old group that worked
 with William Morris.
 
 "He was a man who understood his subject very thoroughly,
-on the scientific as well as the artistic side.  Indeed, I believe
+on the scientific as [[Well|well]] as the artistic side.  Indeed, I believe
 he had originally been a doctor and a chemical expert of some note,
 when he took up this particular business of producing the right
 pigments for the reproduction of medieval work.
@@ -3063,7 +3063,7 @@ pigments for the reproduction of medieval work.
 "He kept a little shop in the Haymarket but I believe that it was
 always full of his artistic friends, like Miss Ashley's father.
 He knew nearly all the eminent men of his day, and some of them
-quite well.  Now you would think a shopkeeper of that sort could
+quite [[Well|well]].  Now you would think a shopkeeper of that sort could
 hardly disappear entirely without leaving any trace at all.
 Wouldn't you expect to be able to find a man of that sort and his
 wares turning up somewhere?"
@@ -3072,14 +3072,14 @@ wares turning up somewhere?"
 employed somewhere, certainly; I should expect to find he'd
 got a job in our works or in some of the big firms."
 
-"Ah," said Murrel, and relapsed into reflective silence.
+"Ah," said Murrel, and relapsed into reflective [[Silence|silence]].
 
 Then he said, suddenly:  "If you come to that, a lot of our little
 squires and country gentlemen are pretty hard hit nowadays.
 But I suppose you could find them all acting as butlers and footmen
 to some of the dukes."
 
-"Oh, well . . . I suppose that would be a bit different," said the
+"Oh, [[Well|well]] . . . I suppose that would be a bit different," said the
 manager awkwardly; not being quite sure whether he ought to laugh.
 He went into a back office to consult business records and books
 of reference.  He left his visitor under the impression that
@@ -3092,8 +3092,8 @@ rang up and questioned all the older heads of various departments
 and after a great deal of this gratuitous labour actually came
 on a trace of the forgotten affair in question; which, to do
 him justice, he pursued when he had got it with something of
-the disinterested energy of a detective in a sensational novel.
-After some considerable time, he came back to Murrel,
+the disinterested energy of a [[Detective|detective]] in a sensational [[Novel|novel]].
+After some considerable [[Time|time]], he came back to Murrel,
 wearing a broad smile and rubbing his hands in triumph.
 
 "Very good of you to have paid a compliment to our little attempts
@@ -3101,7 +3101,7 @@ at organisation, Mr. Murrel," said the manager in quite a gay
 and radiant manner.  "There is really something to be said
 for organisation, you know."
 
-"I hope I haven't caused a lot of disorganisation," said Murrel.
+"I [[Hope|hope]] I haven't caused a lot of disorganisation," said Murrel.
 "I'm afraid my request was rather an unusual one.
 I suppose very few of your customers come to order dead
 pre-Raphaelites over the counter.  Somehow it doesn't seem
@@ -3111,15 +3111,15 @@ It's awfully good of you to bother."
 
 "Only too pleased," replied the affable official, "only too pleased
 to give you a good impression of our system, I assure you.
-Well, I think I can give you a little information about this man Hendry.
-It appears that there was a man of that name at one time employed
+[[Well]], I think I can give you a little information about this man Hendry.
+It appears that there was a man of that name at one [[Time|time]] employed
 temporarily in this department.  He seems to have applied for work,
 and appeared to have some knowledge of the business.  The end of
 the experiment was very unsatisfactory.  I believe the poor fellow
 was a little cracked; complained of pains in the head and so on.
 Anyhow he broke out one day and threw the manager of the department slap
 through a great picture on an easel.  I can't find anything about his
-being sent to prison or to an asylum, as one would naturally expect.
+being sent to [[Prison|prison]] or to an asylum, as one would naturally expect.
 As a matter of fact, I may tell you that we keep a pretty careful record
 of our employees' mode of life, prosecutions by the police and so on;
 so I imagine that he simply ran away.  Of course, he will never work
@@ -3128,18 +3128,18 @@ for us again; no good trying to help people of that sort."
 "Do you know where he lives?" asked Murrel gloomily.
 
 "No; I think that was part of the trouble," replied the other.
-"Most of our people were living in at that time.
+"Most of our people were living in at that [[Time|time]].
 They say he always lunched round at the Spotted Dog;
-and that alone looked bad, of course; We much prefer our people
+and that [[Alone|alone]] looked bad, of course; We much prefer our people
 to use the regular restaurants provided for the purpose.
 It was probably drink that was really the matter with him;
 and that sort of man never comes up again."
 
-"I wonder," said Murrel, "what became of his Illuminating Paints."
+"I [[Wonder|wonder]]," said Murrel, "what became of his Illuminating Paints."
 
-"Oh methods have been very much improved, of course, since his time,"
+"Oh methods have been very much improved, of course, since his [[Time|time]],"
 said the other.  "Only too glad to be of any service to you,
-Mr. Murrel, and I hope you won't think I'm trying to force a card.
+Mr. Murrel, and I [[Hope|hope]] you won't think I'm trying to force a card.
 But as a matter of fact, you couldn't do better than
 the Empire Illuminator that we always sell.  It's practically
 replaced all the others by now; you must have seen it everywhere.
@@ -3154,10 +3154,10 @@ of the large and pompous manufacturer with whom Braintree had
 debated in the drawing-room; but the chief feature of the leaflet
 was a large photograph of Mr. Almeric Wister, the art expert,
 with his signature appended to a testimonial declaring that these
-colours alone could please the true instinct for beauty.
+colours [[Alone|alone]] could please the true instinct for [[Beauty|beauty]].
 
 "Why, I know him," said Murrel, "He's the man who talks about
-the great Victorians.  I wonder if he knows what happened
+the great Victorians.  I [[Wonder|wonder]] if he knows what happened
 to the friends of the great Victorians?"
 
 "We can supply you immediately if you wish," said Mr. Harker.
@@ -3166,7 +3166,7 @@ to the friends of the great Victorians?"
 I will only have a box of those children's chalks that kind young
 lady offered me."
 
-And he did indeed go back in a grave and apologetic manner
+And he did indeed go back in a [[Grave|grave]] and apologetic manner
 to the original counter and solemnly make his purchase.
 
 "Is there nothing else I can do?" anxiously inquired the manager.
@@ -3183,19 +3183,19 @@ and produce frightful results.  I shouldn't like any repetition
 of unfortunate scenes . . . with all these easels standing
 about . . . thank you.  Good-bye."
 
-And he betook himself, not for the first time, to the Spotted Dog.
-At this ancient house he had a stroke of unusual luck.
+And he betook himself, not for the first [[Time|time]], to the Spotted Dog.
+At this ancient [[house]] he had a stroke of unusual luck.
 He had led the talk to the attractive topic of broken glass,
-vaguely feeling that if a man like Hendry went to a public house
+vaguely feeling that if a man like Hendry went to a public [[house]]
 often enough he would be sure sooner or later to break something.
-He was well received.
+He was [[Well|well]] received.
 
 His commonplace and cheerful appearance soon created a social
 atmosphere in which memories were encouraged to bloom.
 The young lady in the bar did remember the gentleman who broke
 a glass; the publican remembered him in greater detail,
 having disputed about the payment for the glass.
-Between them they did shadow forth a hazy portrait; of fuzzy
+Between them they did [[Shadow|shadow]] forth a hazy portrait; of fuzzy
 hair and shabby clothes and long, agitated fingers.
 
 "Do you remember," asked Murrel casually, "whether Mr. Hendry
@@ -3205,7 +3205,7 @@ talked about where he was going next?"
 "I don't know why, except that there was some chemistry mixed up with
 his paints and things.  But he was no end proud of being a real doctor
 from the hospitals, though I'm damned if I'd like him to attend on me.
-Might poison you with his paints, I should think."
+Might [[Poison|poison]] you with his paints, I should think."
 
 "You mean by accident?" asked Murrel, mildly.
 
@@ -3214,7 +3214,7 @@ and added in a reasonable voice, "but you don't want to be
 poisoned by accident any more than on purpose, do you?"
 
 "No; I will frankly admit that I don't," said Murrel.
-"Wonder where he took all his paints or poisons to."
+"[[Wonder]] where he took all his paints or poisons to."
 
 It was at this point that the barmaid became suddenly communicative
 and conciliatory, and declared that she had distinctly heard Dr. Hendry
@@ -3222,7 +3222,7 @@ mention the name of an extinct watering place on the coast.
 She had even a notion of the name of the street; and with this
 the hardy adventurer felt himself ready to act without further delay.
 He had permitted the conversation to trail away with all the traditional
-badinage and had then betaken himself to the road running to the coast.
+badinage and had then betaken himself to the [[Road|road]] running to the coast.
 Before doing so, however, he paid two or three other visits, one to
 a bank, another to a business friend and a third to his solicitor;
 and came out on each occasion looking rather grim.
@@ -3236,7 +3236,7 @@ THE MYSTERY OF A HANSOM CAB
 A day later he stood in a seaside town where a steep street shot down
 to the sea; ridge below ridge of grey slate roofs looking like rings
 of a whirlpool as if that dreary town were being sucked into the sea.
-It was the dream of a suicide so a broken man might feel the wave
+It was the dream of a [[suicide]] so a broken man might feel the wave
 of the world wash him away.
 
 Looking down the descending curve of the dreary street Murrel
@@ -3246,12 +3246,12 @@ it was a milk can left outside the low door in an area.
 But it looked as if it had been left there for a hundred years.
 The second was a stray cat; the cat did not look sad so much as
 simply indifferent; it might have been a wild dog or any such wanderer
-prowling about a city of the dead.  The third was more curious;
+prowling about a [[City|city]] of the dead.  The third was more curious;
 it was a hansom cab standing outside one of the houses;
 but a hansom cab that partook of the same almost sinister antiquity.
 All this happened before the hansom cab had become an extinct
 creature to be reserved only in museums; but this hansom cab
-might well have been in a museum side by side with a Sedan chair.
+might [[Well|well]] have been in a museum side by side with a Sedan chair.
 In fact it was rather like a Sedan chair.  Being of a pattern still
 to be found here and there in provincial towns; made of brown
 polished wood and inlaid with other ornamental woods or woods once
@@ -3260,12 +3260,12 @@ and having two folding doors that gave the occupant the sensation
 of being locked up in an ancient eighteenth century cabinet.
 Still, with all its oddity, it was unmistakably a hansom cab;
 that unique vehicle which the alien eyes of a clever Jew saw as
-the gondola of London.  Most of us know by this time that when we
+the gondola of [[London]].  Most of us know by this [[Time|time]] that when we
 are told that the pattern of something has been much improved,
 it means that all its distinctive characters have disappeared.
 Everybody has motor cabs; but nobody ever thought of having such
 a thing as a motor hansom cab.  With the old pattern vanished
-the particular romance of the gondola (to which Disraeli was
+the particular [[Romance|romance]] of the gondola (to which Disraeli was
 perhaps referring), the fact that there is only room for two.
 Worse still there vanished something supremely special and striking
 and peculiar to England; the dizzy and almost divine elevation
@@ -3289,9 +3289,9 @@ that seemed to match the provincial remoteness of the whole scene.
 Even as Murrel approached, the man, as if weary with waiting
 for his fare, laboriously descended from his lofty place
 and stood for a moment staring down the street at the scene.
-Murrel had by this time pretty well perfected his detective
-art of pumping the great democracy and he soon fell into a
-conversation with the cabman.  It was the sort of conversation
+Murrel had by this [[Time|time]] pretty [[Well|well]] perfected his [[Detective|detective]]
+art of pumping the great [[democracy]] and he soon fell into a
+conversation with the [[cabman]].  It was the sort of conversation
 which he considered most suited to his purposes; that is it
 was a conversation of which the first three quarters had
 nothing whatever to do with anything that he wanted to know.
@@ -3301,16 +3301,16 @@ to his end as almost to deserve to be called a short cut.
 At last, however, he began to discover things that were
 not without interest.  He had found out that the cab was
 quite a historical antiquity in another way, and eminently
-worthy of a museum; for the cab belonged to the cabman.
+worthy of a museum; for the cab belonged to the [[cabman]].
 His thoughts went back vaguely to that first conversation,
 with Braintree and Olive Ashley, about the paint-box belonging
 to the painter and, by inference, the mine to the miner.
 He wondered whether the vague pleasure he felt in the present
-preposterous vehicle was not a tribute to some truth.
-But he also discovered other things.  He found that the cabman
+preposterous vehicle was not a tribute to some [[Truth|truth]].
+But he also discovered other things.  He found that the [[cabman]]
 was very much bored with his fare; but was also in a hazy
 way afraid of him.  He was bored with that unknown gentleman
-because he kept him waiting outside one house after another
+because he kept him waiting outside one [[house]] after another
 in a tedious and interminable pilgrimage round the whole town.
 But he was also slightly in awe of him because he seemed
 to have some sort of official right to visit all these places
@@ -3319,21 +3319,21 @@ Though his progression was so slow it seemed that his
 manner was very hasty; or what is now called hustling.
 One felt that he had commandeered rather than called the cab.
 He was somebody who was in a frightful hurry and yet had
-a great deal of time to spare for each of his visits.
+a great deal of [[Time|time]] to spare for each of his visits.
 It was therefore evident that he was either an American
-or a person connected with the Government.
+or a person connected with the [[government|Government]].
 
 Bit by bit, it came out that he was a doctor, a medical man having
 some sort of official claim to visit a variety of persons.
-The cabman, of course, did not know his name; but his name was
+The [[cabman]], of course, did not know his name; but his name was
 the least important part of him.  What was much more important
-was another name; a name that the cabman did happen to know.
+was another name; a name that the [[cabman]] did happen to know.
 It seemed that the next stoppage of the crawling cab would be a little
 further down the street, outside the lodgings where lived a man
-whom the cabman had sometimes met in the neighbouring public house;
+whom the [[cabman]] had sometimes met in the neighbouring public [[house]];
 a curious card by the name of Hendry.
 
-Murrel having, by this circuitous route, at last reached his desire,
+Murrel having, by this circuitous route, at last reached his [[Desire|desire]],
 almost leapt like an unleashed hound.  He inquired the number
 in the street which was honoured by Mr. Hendry's residence;
 and almost immediately after went striding down the steep
@@ -3346,7 +3346,7 @@ He faced round and fortunately spoke at once.  The door
 had opened by little more than a crack; and the first fact
 it revealed was that the chain was still up across it.
 Within, much more dimly, he began to discern inside that high
-and dark house the glimmering features and figure of a human being.
+and dark [[house]] the glimmering features and figure of a human being.
 The figure was slim and the features were both pointed and pallid.
 But something almost atmospheric told him that the figure
 was feminine and even young; and when he heard the voice,
@@ -3370,13 +3370,13 @@ had occasion in such cases to plant a foot in the doorway.
 She was not unacquainted with the art of slamming the door
 on it so as to pinch it or procure its prompt removal.
 But Murrel remembered things he had heard said in the public
-house and in the shop at the beginning of his journey;
+[[house]] and in the shop at the beginning of his [[Journey|journey]];
 and he used the phrase that had never been heard in that
 street and had almost been forgotten by that woman.
 An instinct made him take off his hat and say:
 "Is Dr. Hendry in?"
 
-Man does not live by bread alone, but mostly by etiquette and above
+Man does not live by bread [[Alone|alone]], but mostly by etiquette and above
 all by consideration.  It is by consideration that even the hungry
 live and by the lack of it that they die.  It was a very determining
 detail that Hendry had once been proud of his doctor's degree;
@@ -3395,13 +3395,13 @@ Soon after he found himself mounting a very steep and narrow flight
 of stairs in almost total darkness; and soon after that abruptly
 allowed to fall into a frowsy little room, littered with such
 articles as were just too worthless to sell or even to pawn;
-where sat the man for whom he had gone on his erratic journey
+where sat the man for whom he had gone on his erratic [[Journey|journey]]
 to search, as Stanley went to search for Livingstone.
 
 Dr. Hendry had a head of hair rather like the grey top of a
 withering thistle; one almost expected it to wither visibly
 before one's eyes and the parts of the puff-ball to part and drift
-away drearily on the wind.  But otherwise he was rather neater
+away drearily on the [[Wind|wind]].  But otherwise he was rather neater
 than might have been expected; though the effect may have been
 produced by his being very tightly and tidily buttoned up to
 the throat; as is said to be sometimes the habit of the hungry.
@@ -3422,15 +3422,15 @@ For that dark room, in which he was sealed up and forgotten like a
 dead man in a tomb, had heard once more a human voice asking for
 Hendry's Illumination Colours.
 
-He rose on his thin and wavering legs and went without a word
+He [[Rose|rose]] on his thin and wavering legs and went without a word
 to a shelf on which stood a number of highly incompatible objects,
 and took down an old tin box which he brought to the table
 and began rather tremulously to open.  It contained two
-or three round and squat glass bottles covered with dust;
+or three round and squat glass bottles covered with [[Dust|dust]];
 and when he saw them it seemed as if his tongue was loosened.
 
 "They should be used with the vehicle in the box," he said.
-"Many people try to use them with oil or water, or all sorts of things";
+"Many people try to use them with oil or [[Water|water]], or all sorts of things";
 though indeed it was at least thirty years since anybody had ever
 tried to use them with anything.
 
@@ -3442,14 +3442,14 @@ with quite a consequential air.  "I shall always be ready to give
 any advice . . . any advice that can be of any use, I'm sure."
 He cleared his throat with quite a formidable return of fullness
 in his voice.  "The thing to remember, first of all, of course,
-is that this type of colouring is in its nature opaque.
+is that this type of colouring is in its [[Nature|nature]] opaque.
 So many people confuse the fact that it is brilliant with some
 notion of its being transparent.  I myself have always seen
 that the confusion arose through the parallel of stained glass.
 Both, of course, were typically medieval crafts, and Morris
 was very keen on both of them.  But I remember how wild
 he used to be if anybody forgot that glass is transparent.
-'If anybody paints a single thing in a window that looks really solid,'
+'If anybody paints a single thing in a [[Window|window]] that looks really solid,'
 he used to say, 'he ought to be made to sit on it.'"
 
 Murrel resumed his enquiry.
@@ -3459,7 +3459,7 @@ helped you a great deal in making these colours?"
 
 The old gentleman shook his head thoughtfully.
 
-"Chemistry alone would hardly have taught me all I know," he said.
+"Chemistry [[Alone|alone]] would hardly have taught me all I know," he said.
 "It is a question of optics.  It is a question of physiology."
 He suddenly thrust his beard across the table and said rapidly in a
 hissing voice, "It is even more a question of pathological psychology."
@@ -3512,7 +3512,7 @@ Colour-blindness. You mean that all this has arisen because
 nearly everybody is colour-blind."
 
 "Nearly everybody subjected to the peculiar conditions of this period
-of the earth's history," corrected the doctor in a kindly manner.
+of the earth's [[history]]," corrected the doctor in a kindly manner.
 "As to the duration of the epidemic, or its possible periodicity,
 that is another matter.  If you would care to see a number of notes
 I have compiled--"
@@ -3526,7 +3526,7 @@ to celebrate the occasion of his becoming colour-blind."
 said Dr. Hendry, "and it seems to me that my hypothesis holds the field."
 
 "It seems to me that the big shop holds the field," said Murrel,
-"and I wonder whether that shop girl who offered me chalks and red
+"and I [[Wonder|wonder]] whether that shop girl who offered me chalks and red
 ink knows about her scientific origin."
 
 "I remember my old friend Potter used to say," observed the other,
@@ -3551,9 +3551,9 @@ He was moving towards the door, when he was suddenly stopped
 by an almost startling transformation in the young lady.
 She still stood in a rather rigid fashion behind her father's chair.
 But her eyes, which were both dark and bright, shifted and shot,
-as it were, in a shining obliquity towards the window; and every line in
+as it were, in a shining obliquity towards the [[Window|window]]; and every line in
 her not ungraceful figure turned into a straight line like a steel rod.
-In the dead silence a sound could be heard through the half-open window.
+In the dead [[Silence|silence]] a sound could be heard through the half-open [[Window|window]].
 It was the sound of the large and lumbering wheels of the antiquated
 hansom cab drawing up at the door.
 
@@ -3570,7 +3570,7 @@ which in practice only swept over the poor streets, had given medical
 and other officials very abrupt and arbitrary powers over people supposed
 to fall short of the full efficiency of the manager of the stores.
 He thought it only too likely that the discoverer of the remarkable
-scientific theory of colour-blindness as a cause of social decay
+scientific theory of colour-blindness as a cause of social [[Decay|decay]]
 might appear to fall short of that efficiency.  Indeed, it would
 even seem that his own daughter thought so, from her desperate
 efforts to steer the poor old gentleman away from the topic.
@@ -3585,7 +3585,7 @@ in with her voice of steel.
 
 "It's been like that all along," she said.  "First they kick
 him into the gutter and then they blame him for being there.
-It's as if you hammered a child on the head till he was stunned
+It's as if you hammered a [[Child|child]] on the head till he was stunned
 and stupid and then abused him for being a dunce."
 
 "Your father," observed the visitor doubtfully, "does not strike
@@ -3600,19 +3600,19 @@ rather menacing voice.
 
 The question was in some sense answered, not by the person to whom it
 was addressed, but by a deep and rather guttural voice coming up the black
-well of the staircase, from somebody who was mounting the stairs.
+[[Well|well]] of the staircase, from somebody who was mounting the stairs.
 The crazy stairs creaked and even shook under him as he mounted,
 for he was a heavy man, and as he emerged into the half-light from
-the little window on the landing he seemed to fill up the whole
+the little [[Window|window]] on the landing he seemed to fill up the whole
 entrance with a bulk of big overcoat and broad shoulders.
 The face that was thus turned up to the light reminded Murrel
 for the first moment of something between a walrus and a whale;
-it was as if some deep-sea monster was rising out of the deeps
-and turning up its round and pale and fishy face like a moon.
+it was as if some deep-sea [[Monster|monster]] was rising out of the deeps
+and turning up its round and pale and fishy face like a [[Moon|moon]].
 When he looked at the man more carefully and less fancifully
 he saw that the effect came from very fair hair being very closely
 cropped in contrast with a moustache like a pair of pale tusks,
-and from the light of the window on the round spectacles.
+and from the light of the [[Window|window]] on the round spectacles.
 
 This was Dr. Gambrel, who spoke perfectly good English, but stumbled
 on the steep stairs and swore softly in some other speech.
@@ -3624,12 +3624,12 @@ into the room.
 "I suppose I'm a lunatic, too?"  Miss Hendry replied, "I'm quite
 ready to be anything my father is supposed to be."
 
-"Well, well, it's all very painful," said the doctor recovering his
+"[[Well]], [[Well|well]], it's all very painful," said the doctor recovering his
 composure and with it something more like a callous benevolence.
 "But there's nothing to be gained by shilly-shallying over it.
 You'd much better let me see your father at once."
 
-"Oh, very well," she replied.  "I suppose I shall have to."
+"Oh, very [[Well|well]]," she replied.  "I suppose I shall have to."
 
 She turned abruptly and opened the door which let them both
 into the little dingy room where Dr. Hendry was sitting.
@@ -3642,7 +3642,7 @@ the moment too fiercely flustered to define especially.
 As for the young woman, she looked at the room with a stare
 of stony astonishment.
 
-There was no other door to the room; Dr. Hendry was sitting alone
+There was no other door to the room; Dr. Hendry was sitting [[Alone|alone]]
 at his table, and Mr. Douglas Murrel had totally disappeared.
 
 Before Dr. Gambrel could remark on the fact or even become fully
@@ -3660,11 +3660,11 @@ owing to certain optical diseases which--"
 Dr. Gambrel had the power of the modern state, which is
 perhaps greater than that of any state, at least, so far
 as the departments over which it ranges are concerned.
-He had the power to invade this house and break up this
+He had the power to invade this [[house]] and break up this
 family and do what he liked with this member of it;
 but even he had not the power to stop him talking.
 In spite of all official efforts, Dr. Hendry's lecture
-on Colour-Blindness went on for a considerable time.
+on Colour-Blindness went on for a considerable [[Time|time]].
 It continued while the more responsible doctor edged him
 gradually towards the door, while he led him down the stairs,
 and at least until he managed to drag him out on to the doorstep.
@@ -3674,28 +3674,28 @@ to the lecture which had begun in the room upstairs.
 
 . . . . . . . .
 
-The cabman perched upon the ancient cab was a patient character
-and had need to be.  He had been waiting outside the house
-of the Hendrys for some time, when something happened which was
+The [[cabman]] perched upon the ancient cab was a patient character
+and had need to be.  He had been waiting outside the [[house]]
+of the Hendrys for some [[Time|time]], when something happened which was
 certainly more calculated to entertain his leisure than anything
 that had happened yet.
 
 It consisted of a gentleman apparently falling out of
 the sky on to the top of the cab, and righting himself
-with some difficulty in the act of nearly rolling off it.
+with some difficulty in the act of nearly [[rolling]] off it.
 This unexpected visitor, when eventually he came the right
-way up, revealed to the astonished cabman the face and form
+way up, revealed to the astonished [[cabman]] the face and form
 of the gentleman with whom he had had a chat recently a little
-further down the road.  A prolonged stare at the newcomer,
-followed by a prolonged stare at the window just above revealed
+further down the [[Road|road]].  A prolonged stare at the newcomer,
+followed by a prolonged stare at the [[Window|window]] just above revealed
 to the driver that the former had not actually dropped from heaven,
-but only from the window-sill. But though the incident was not
+but only from the [[Window|window]]-sill. But though the incident was not
 by definition a miracle, it was certainly something of a marvel.
-Those privileged to see Murrel fall off the window-sill
+Those privileged to see Murrel fall off the [[Window|window]]-sill
 on to the top of the hansom cab might have formed a theory
 about why he had originally been called Monkey.
 
-The cabman was still more surprised when his new companion smiled across
+The [[cabman]] was still more surprised when his new companion smiled across
 at him in an agreeable manner and said, like one resuming a conversation:
 "As I was saying--"
 
@@ -3709,17 +3709,17 @@ and said, confidentially:  "Look here, old fellow, I want to
 buy your cab."
 
 Murrel was not entirely unacquainted with the scientific regulation,
-under which was being enacted the last act of the tragedy of
+under which was being enacted the last act of the [[Tragedy|tragedy]] of
 Hendry's Illumination Colours.  He remembered having had an argument
-a long time ago with Julian Archer who was great on the subject.
+a long [[Time|time]] ago with Julian Archer who was great on the subject.
 It was a part of that quality in Julian Archer which fitted
 him so specially and supremely to be a public man.
 He could become suddenly and quite sincerely hot on any subject,
 so long as it was the subject filling the newspapers at the moment.
-If the King of Albania (whose private life, alas, leaves so much
+If the [[King]] of Albania (whose private life, alas, [[Leaves|leaves]] so much
 to be desired) were at that moment on bad terms with the sixth
 German princess who had married into his family, Mr. Julian Archer
-was instantly transformed into a knight-errant ready to cross
+was instantly transformed into a knight-errant ready to [[Cross|cross]]
 Europe on her behalf, without any reference to the other five
 princesses who were not for the moment in the public eye.
 The type and the individual will be completely misunderstood,
@@ -3772,16 +3772,16 @@ It was called Spinal Repulsion and traced brain trouble
 in all those who sat on the edges of chairs, as Hendry did.
 Dr. Gambrel had collected quite a large number of poor people off
 the edges of chairs; fit symbol of the insecure ledge of their lives.
-He was quite prepared to explain this theory in the court,
+He was quite prepared to explain this theory in the [[Court|court]],
 but he had no opportunity of explaining it in the cab.
 
 There was something macabre about the progress of the cab
 crawling up the steep streets of that grey seaside town.
 From infancy he had felt the phrase "a crawling cab" had a touch
-of nightmare; as if the cab crept after its fares and swallowed
-them with its yawning jaws.  The horse had an angular outline:
+of [[nightmare]]; as if the cab crept after its fares and swallowed
+them with its yawning jaws.  The [[Horse|horse]] had an angular outline:
 the dark woods inlaying the cab the hint of a coffin.
-The road grew steeper, the street rearing against the cabhorse
+The [[Road|road]] grew steeper, the street rearing against the cabhorse
 or the cabhorse against the cab.  But they came to a standstill
 before a porch with two pillars between which they saw
 the grey-green sea.
@@ -3792,9 +3792,9 @@ CHAPTER X
 
 WHEN DOCTORS DISAGREE
 
-The house with the pillared porch to which the crawling cab
+The [[house]] with the pillared porch to which the crawling cab
 eventually crawled, had little to distinguish it from a prosperous
-private house.  For the policy of all recent legislations and customs
+private [[house]].  For the policy of all recent legislations and customs
 had been in the direction of conducting public affairs in private.
 The official was all the more omnipotent because he was always
 in plain clothes.  It was possible to take people to and
@@ -3813,7 +3813,7 @@ to their neighbourhood.  And the magistrate who sat in an
 inner room, to consider the cases as they came, was the newest
 of all.  Unfortunately, while he was new he was also old.
 He had done the same work in many other places; and so formed into
-the habit of doing it smoothly and rapidly and dangerously well.
+the habit of doing it smoothly and rapidly and dangerously [[Well|well]].
 But he was beginning to be a little old to do anything.
 His sight was not what it was; his hearing was not what he thought
 it was.  He was a retired army surgeon of the name of Wotton.
@@ -3833,7 +3833,7 @@ of questioning his right to act as intermediary; the official attendants
 accepted him as being obviously a highly polished part of machinery,
 and even the official doctor permitted himself to be courteously
 waved into a side room to the left of the magistrate's sanctum.
-Perhaps if they had looked out of the window a moment before,
+Perhaps if they had looked out of the [[Window|window]] a moment before,
 and seen the gentlemanly person fall off the top of the cab,
 they might have been more disturbed.  As it was, the official doctor
 began to be very decidedly disturbed when the gentlemanly person
@@ -3856,7 +3856,7 @@ of conspiracy mania, I think."
 Dr. Hendry inclined his head in his most graceful manner.
 "Conspiracy is, of course, a symptom rather than a cause," he said.
 "The cause is purely physical . . . purely physical," he coughed
-in a refined manner.  "We don't need to be told at this time of day
+in a refined manner.  "We don't need to be told at this [[Time|time]] of day
 that the distortion of the sense reacts upon the brain, eh?
 In this case I have the strongest reason for supposing that the trouble
 arose originally from a very common malady of the optic nerve.
@@ -3877,33 +3877,33 @@ dangerous mania, I suppose it's all right."
 
 "In all my experience," said Dr. Hendry solemnly, and with a full
 sense of responsibility, "I have never known a clearer one.
-This optical question is becoming grave, sir.  It is becoming menacing.
+This optical question is becoming [[Grave|grave]], sir.  It is becoming menacing.
 Even at this moment, while I speak, persons unquestionably mad
 are wandering about the world, and even delivering authoritative
 opinions on scientific subjects.  Only the other day--."
 
 At this moment his melodious and persuasive voice was drowned
 for an instant in very remarkable sounds from the next room.
-The noise resembled that of some huge and heavy body being hurled
-against the door; and in the silence that followed something
+The noise resembled that of some huge and heavy [[Body|body]] being hurled
+against the door; and in the [[Silence|silence]] that followed something
 like guttural imprecations, as if hoarse and faint with fury,
 could be heard through the thick partition.
 
 "Good heavens!" cried Mr. Wotton, awakening with a start and looking
-up for the first time.  "What on earth was that?"
+up for the first [[Time|time]].  "What on earth was that?"
 
 Dr. Hendry wagged his head with a beautiful sadness,
 but he continued to smile.
 
-"Ours is a melancholy occupation," he said.  "Dealing with the weaker and
-the wilder aspects of our fallen nature . . . the body of our humiliation,
-I think it is in the Greek Testament . . . the body of our humiliation.
+"Ours is a [[Melancholy|melancholy]] occupation," he said.  "Dealing with the weaker and
+the wilder aspects of our fallen [[Nature|nature]] . . . the [[Body|body]] of our humiliation,
+I think it is in the Greek Testament . . . the [[Body|body]] of our humiliation.
 It sounds only too like the struggle of some unfortunate whom society
 finds it a sad necessity to restrain."
 
-At this moment the body of our humiliation was again
+At this moment the [[Body|body]] of our humiliation was again
 thrown crashing against the door; and it seemed to be
-a body of some weight and momentum and even nobility.
+a [[Body|body]] of some weight and momentum and even nobility.
 The magistrate was not altogether satisfied.  Patients or prisoners
 (or whatever the new social victims ought to be called) were indeed
 frequently taken into the adjoining room to await examination;
@@ -3912,11 +3912,11 @@ prevent them indicating their impatience in so lively a style.
 The only other hypothesis was that the lunatic next door was
 so exceedingly lively as to have killed his keeper.
 
-Whatever else the old army surgeon was, he was a man of courage.
+Whatever else the old army surgeon was, he was a man of [[Courage|courage]].
 He got up from his desk and went across to the door that was
 still shaking and vibrating with the shocks from within.
 He looked at it for a moment with his head on one side;
-and then deliberately unlocked it.  Though he showed no fear,
+and then deliberately unlocked it.  Though he showed no [[Fear|fear]],
 he had to show a good deal of agility, in leaping back and not being
 flung flat on the floor by the thing that came out of the room.
 At that moment he would have called it a thing rather than a man.
@@ -3925,13 +3925,13 @@ and Mr. Wotton had a confused feeling confirming the doctor's
 theory that the unfortunate creature must have something the matter
 with its eyes.  It had long tawny tufts of moustache and hair
 standing out in all directions; for it had been ineffectually
-brushing its hair against the wall for some time past.
+brushing its hair against the wall for some [[Time|time]] past.
 It was only when it had fallen into the full daylight of the room
 that the magistrate saw that it was wearing a white waistcoat
 and a grey pair of trousers, such as are seldom worn by a walrus
 or even a wild man of the woods.
 
-"Well, anyhow," he muttered, "he is clothed, if not exactly
+"[[Well]], anyhow," he muttered, "he is clothed, if not exactly
 in his right mind."
 
 The huge man who had fallen through the doorway straightened
@@ -3951,7 +3951,7 @@ suffered will not be seriously defended, but only silently enjoyed,
 by the wise and good.  He also had a very complete theory of the causes
 of mental breakdown among his fellow citizens.  He also could trace
 to physiological and organic causes the mental condition of his captive.
-He could explain the nature of Spinal Repulsion quite as sanely and
+He could explain the [[Nature|nature]] of Spinal Repulsion quite as sanely and
 serenely as Hendry could that of Colour-Blindness. But somehow he had
 not had the stage set for him so satisfactorily for its exposition.
 At the very moment when he should have sailed into the magistrate's room
@@ -3962,9 +3962,9 @@ results that we have already seen.  The official, finding himself trapped,
 had behaved as very full-blooded and confident people often behave
 when something happens to them which they never believe to be possible.
 For it is the man whose life goes with a smooth and swift motion,
-who is normally self-satisfied and smiling, who has never been made
+who is normally [[Self|self]]-satisfied and smiling, who has never been made
 to turn aside for anything, who comes with a crash into a real obstacle.
-On the other hand, the history of poor Hendry had been exactly
+On the other hand, the [[history]] of poor Hendry had been exactly
 the opposite.  He had clung pathetically to his polite manners,
 as the only relic of his social status, through a hundred humiliations;
 and he was used to explaining things elegantly to creditors and assuming
@@ -3980,28 +3980,28 @@ men meet at last; in a rather informal consultation.
 
 Outside, in the street that struggled crazily to the sea-cliff,
 Douglas Murrel sat on the top of his cab, with his face upturned
-to heaven like one whose work has been well and worthily done.
+to heaven like one whose work has been [[Well|well]] and worthily done.
 He was wearing an exceedingly battered and shabby black top hat,
 which was not his own; for he had bought the hat along with the cab;
-though it was the sort of hat which a man might well have been
+though it was the sort of hat which a man might [[Well|well]] have been
 paid to wear, rather than pay for wearing it.  It served his
-particular purpose, however, with great simplicity and success.
+particular purpose, however, with great simplicity and [[success]].
 The hat dominates and defines a figure in inconspicuous
 and colourless clothes; and so long as he wore it he passed
-well enough for the driver of such an ancient vehicle.
+[[Well|well]] enough for the driver of such an ancient vehicle.
 When he took it off and slipped among the officials,
-with his well-brushed hair and gentlemanly manner, they had
-no reason to doubt his claims to a different position.
+with his [[Well|well]]-brushed hair and gentlemanly manner, they had
+no reason to [[Doubt|doubt]] his claims to a different position.
 On the top of the cab, however, he had resumed the hat;
-not without pomp, as a conqueror might crown himself with laurel.
+not without pomp, as a conqueror might [[Crown|crown]] himself with laurel.
 
 He thought he knew what would probably happen and he decided
 to wait for it.  The end of the immediate drama of the captured
-government expert he did not expect to see at that stage;
+[[government]] expert he did not expect to see at that stage;
 he promised himself that if it went too far, he would be able
 to communicate with the authorities later.  As it was, he left
 it almost reverently as a rounded and perfected thing, a poem.
-But if all went well, one consequence was likely enough to follow;
+But if all went [[Well|well]], one consequence was likely enough to follow;
 and when he had waited for about ten minutes, he was gratified
 to find his calculation correct.
 
@@ -4010,14 +4010,14 @@ the dark pillars of the porch that stood out against the sea;
 as free as the sea-gull that was swerving along the line of the cliff.
 He had an air of almost aggressive good taste; as if informing
 the whole street that he would refuse to inform anybody about
-the delicate professional secrets just confided to him.  He made
+the delicate professional [[Secrets|secrets]] just confided to him.  He made
 a movement as if pulling on a pair of invisible gloves, and he quite
 naturally stepped into the hansom cab, before he had thought of it.
-The conscientious cabman pulled down his top hat over his brows
+The conscientious [[cabman]] pulled down his top hat over his brows
 and rapidly drove him away up the steep and stony streets.
 
-For the present at least, the chronicler may well maintain an awful
-silence about what happened between the magistrate and the doctor.
+For the present at least, the chronicler may [[Well|well]] maintain an awful
+[[Silence|silence]] about what happened between the magistrate and the doctor.
 And indeed Murrel's own mind showed a curious and rather indescribable
 disposition to drop the whole topic and to leave it behind him.
 He had a reputation for playing practical jokes.  But this moment of his
@@ -4030,22 +4030,22 @@ of the liberation of many things and the opening of a brighter world.
 Something had snapped; if it was only a bit of red tape; and he did not
 know yet how much had been set free.  As he turned the corner a shaft
 of sun shot down the steep street, seeming as solid as that from solid
-clouds in the old Bible pictures, and looking up at the window of the high
-narrow house he saw Hendry's daughter.
+clouds in the old [[Bible]] pictures, and looking up at the [[Window|window]] of the high
+narrow [[house]] he saw Hendry's daughter.
 
-The woman who looked out of the window appeared, after a fashion,
-for the first time in this story.  Hitherto she had been cloaked
-in shadows, in the shades of the steep stairways and the high dark house.
+The woman who looked out of the [[Window|window]] appeared, after a fashion,
+for the first [[Time|time]] in this story.  Hitherto she had been cloaked
+in shadows, in the shades of the steep stairways and the high dark [[house]].
 She had been disguised in destitution; and it is necessary to have
-lived in such a house to know how much destitution can disguise.
-She had turned pale like a plant in a narrow and shuttered house;
-a house in which there were no mirrors; least of all those human mirrors
+lived in such a [[house]] to know how much destitution can disguise.
+She had turned pale like a plant in a narrow and shuttered [[house]];
+a [[house]] in which there were no mirrors; least of all those human mirrors
 that we call faces.  She had long ceased to think of her appearance;
 and she would have been more surprised than anyone else if she could
-have stood in the street and seen her appearance at the window.
+have stood in the street and seen her appearance at the [[Window|window]].
 And yet, as she looked down into the street, she was something more
-than surprised.  The beauty that unfolded from within, like some
-magic flower upon the balcony, was not due altogether to the burst
+than surprised.  The [[Beauty|beauty]] that unfolded from within, like some
+[[Magic|magic]] flower upon the balcony, was not due altogether to the burst
 of sun that had struck the street.  It was the most beautiful thing
 in the world; perhaps the only really beautiful thing in the world.
 It was astonishment which was lost in Eden and will return with the
@@ -4063,7 +4063,7 @@ of rascals who happened to be too rich to be punished,
 her life had descended step after step into that world
 where all the people are assumed to be rascals and punished
 in a sort of rotation; the police regarding themselves rather
-as the warders of a large loose prison with the roof off.
+as the warders of a large loose [[Prison|prison]] with the roof off.
 She had long given up having any sharp reaction to the tendency;
 it seemed perfectly natural so long as it was a downward tendency.
 If her father had been taken away and hanged, she would
@@ -4075,15 +4075,15 @@ completely surprised.  Never had she known any living thing escape
 from the trap into which she thought he had fallen; never had she seen
 footprints coming out from that dark den of efficiency.  It was as if she
 had seen the sun turn backwards towards the East, or the Thames stop
-suddenly at Greenwich and begin to go back to Oxford.  But there was
-no doubt that it was her father, leaning back and smiling in the cab.
+suddenly at Greenwich and begin to go back to [[Oxford]].  But there was
+no [[Doubt|doubt]] that it was her father, leaning back and smiling in the cab.
 As he had come out with the gesture of pulling on invisible gloves,
 so he leaned back with the gesture of smoking an invisible cigar.
-As she stared at him, she became conscious that the cabman had taken off
+As she stared at him, she became conscious that the [[cabman]] had taken off
 his hat to her, with a remarkably fine flourish for so very deplorable
 a hat.  The removal of the hat gave the last shock to her senses;
 for it revealed the colourless but carefully brushed hair of Mr. Murrel,
-the eccentric gentleman who had called at the house a few hours before.
+the eccentric gentleman who had called at the [[house]] a few hours before.
 
 Dr. Hendry leapt from the cab with quite youthful grace, and his hand
 went with another automatic gesture towards a totally empty pocket.
@@ -4093,7 +4093,7 @@ He was living in the brave days of old.
 "This is my own cab and I do it for amusement.  Art for art's sake,
 as your old friends used to say.  I am an arrangement, as Whistler said;
 an arrangement in black and brown.  Your friend the mad doctor is,
-I trust, by this time an arrangement in black and blue."
+I trust, by this [[Time|time]] an arrangement in black and blue."
 
 Hendry recognised the educated voice, for there are some things
 a man never forgets.  He recognised the voice in spite of the hat,
@@ -4104,12 +4104,12 @@ Pray come inside."
 
 "Oh, thank you," said Murrel, getting down from his perch.
 "My Arab steed, who has slept in my tent so often in
-the desert, will probably keep a faithful watch outside.
+the [[Desert|desert]], will probably keep a faithful watch outside.
 He does not seem to suffer from any mad impulse to gallop."
 
-He ascended for the second time the dark and steep stair-case,
+He ascended for the second [[Time|time]] the dark and steep stair-case,
 up which he had seen the worthy mental specialist mounting
-like some monster out of the deeps.  His thoughts went
+like some [[Monster|monster]] out of the deeps.  His thoughts went
 back to that unfortunate expert in a momentary remorse;
 but he told himself that there would be little difficulty
 in putting the matter straight.
@@ -4122,7 +4122,7 @@ he said, "or about old Wotton either.  Wotton is a perfectly honest
 old gentleman; and will see at once that there couldn't be much
 the matter with your father, not half so much as with the other man.
 And even the other man won't be exactly anxious to proclaim to the world
-that he gave such a good imitation of a raving maniac that they
+that he gave such a good [[Imitation|imitation]] of a raving maniac that they
 locked him up."
 
 "Then you have really saved us," she said.  "It is a
@@ -4141,20 +4141,20 @@ had returned to him.
 
 "Perhaps we shall try to catch the thieves after all," he said;
 and did not know that he was uttering a sort of prophecy of
-the fate of his home and his friends and many things he knew.
+the fate of his [[Home|home]] and his friends and many things he knew.
 For far away in Seawood Abbey things that he would have
 thought utterly fantastic were taking colour and form
-and marching towards the climax of this history.
+and marching towards the climax of this [[history]].
 Of these things he knew nothing; but, curiously enough,
-his own imagination was already clouded with new colours
+his own [[Imagination|imagination]] was already clouded with new colours
 more glowing and romantic than Hendry's Illumination Paints.
 He had a vague sensation of victory; but it had culminated
-when he looked up and saw the girl's face at the window;
+when he looked up and saw the girl's face at the [[Window|window]];
 he leaned impulsively across and said:  "Do you often look
-out of the window like that.  . . . if I should be passing
-some time . . . ?"
+out of the [[Window|window]] like that.  . . . if I should be passing
+some [[Time|time]] . . . ?"
 
-"Yes." She said, "I often look out of the window."
+"Yes." She said, "I often look out of the [[Window|window]]."
 
 -^-
 
@@ -4163,7 +4163,7 @@ CHAPTER XI
 THE LUNACY OF THE LIBRARIAN
 
 Far away in Seawood Abbey the great performance of "Blondel
-the Troubadour" was over.  It had been not only a success
+the Troubadour" was over.  It had been not only a [[success]]
 but a sensation.  After it had been performed twice on
 successive afternoons, a sort of special encore performance
 had been given comparatively early on the following morning,
@@ -4173,8 +4173,8 @@ of some weariness and relief.  Some of the more malicious
 said his fatigue was partly due to the fact that he himself
 had not been the sensation.
 
-"So that's over," he said to Michael Herne who was standing
-beside him, still in the romantic green rags of the Outlaw King.
+"So that's over," he said to [[Michael]] Herne who was standing
+beside him, still in the romantic green rags of the Outlaw [[King]].
 "I'm off to get into some comfortable togs.  Thank the Lord we
 shan't have to wear these again."
 
@@ -4194,41 +4194,41 @@ and it had burst and broadened into the unearthly splendours of
 the midnight sun.  She felt as if she had painted one of her gold
 and crimson angels and the painted face had spoken, and spoken
 terrible things.  For the eccentric librarian, turned for an hour
-into a pantomime king, might have been possessed of a devil.
+into a pantomime [[King|king]], might have been possessed of a devil.
 Only the devil had been a little like the gold and crimson angel.
 Something seemed to come pouring out of him that nobody had ever thought
 was in him; and which the poet could not claim to have put in him.
 He seemed to her to span and take in his stride all the abysses
-and the heights known to the secret humility of the artist.
+and the heights known to the secret [[Humility|humility]] of the [[Artist|artist]].
 She did not seem to be hearing the verses she had written.
 They sounded like the verses she would have liked to have written.
 She had not only excitement but expectation.  For he had
 the power of making each line seem greater than the last;
 and yet they were only her own pretty tolerable verses.
-The moment which glowed in her memory, and in that of many much
-less sensitive, was that in which the King, who had been captured
-as an outlaw, refused the offer of his own crown and declared
+The moment which glowed in her [[Memory|memory]], and in that of many much
+less sensitive, was that in which the [[King]], who had been captured
+as an outlaw, refused the offer of his own [[Crown|crown]] and declared
 that in a world of wicked princes he preferred the wandering life
 of the woods.
 
   Shall I who sing with the high tree-tops at morning
   Sink to be Austria; even as is that brute
   And brigand that entrapped me, or be made
-  A slave, a spy, a cheat, a King of France?
-  And what crowns other shadow this the earth?
+  A slave, a spy, a cheat, a [[King of France]]?
+  And what crowns other [[Shadow|shadow]] this the earth?
   The evil kings sit easy on their thrones
   Shame healed with habit; but what panic aloft
-  What wild white terror if a king were good!
-  What staggering of the stars; what prodigy.
+  What wild white terror if a [[King|king]] were good!
+  What staggering of the [[Stars|stars]]; what prodigy.
   Men easily endure an unjust master
   But a just master no man will endure
   His nobles shall rise up, his knights betray him
-  And he go forth, as I go forth, alone.
+  And he go forth, as I go forth, [[Alone|alone]].
 
-A shadow fell across her upon the grass; and preoccupied
-as she was she seemed to know even the shape of the shadow.
+A [[Shadow|shadow]] fell across her upon the grass; and preoccupied
+as she was she seemed to know even the shape of the [[Shadow|shadow]].
 Braintree reclothed and in his right mind (which some considered
-a very wrong mind) had joined her in the garden.
+a very wrong mind) had joined her in the [[Garden|garden]].
 
 Before he could speak, she had said impulsively:
 "I've discovered something.  It's more natural to talk poetry
@@ -4238,12 +4238,12 @@ than in stammering.  Only, you see, most of us stammer."
 "Your librarian certainly didn't stammer," said Braintree.
 "You might almost say he sang.  I'm a pretty prosaic person;
 but I feel somehow as if I'd been listening to good music.
-It all seems very mysterious.  When a librarian can act a King
+It all seems very mysterious.  When a librarian can act a [[King]]
 like that, there seems to be only one possible inference;
 that he has only been acting a librarian.  And excellent as he was
-as the King, I consider his creation of the part of an embarrassed
+as the [[King]], I consider his creation of the part of an embarrassed
 bookworm in the library was an even more finished performance.
-Do theatrical stars often come and conceal themselves behind
+Do theatrical [[Stars|stars]] often come and conceal themselves behind
 bookcases in this way?"
 
 "You think he was always acting," said Olive, "and I know
@@ -4257,7 +4257,7 @@ you were in the presence of a great actor?"
 
 After a pause she went on:  "I don't mean a great acting man like Garrick
 or Irving or somebody.  I mean a great _dead_ man--most awfully alive.
-I mean a medieval man:  a man risen out of the grave."
+I mean a medieval man:  a man risen out of the [[Grave|grave]]."
 
 "I know what you mean," assented the other, "and of course you are
 quite right.  You mean that he couldn't have taken any other part.
@@ -4277,14 +4277,14 @@ it seriously.  And so do I; I take it damned seriously."
 "I couldn't give a greater proof of devotion than that."
 
 "I mean," she said a little hastily, "what do you mean about taking
-the King's part seriously?
+the [[King]]'s part seriously?
 
 "I don't like Kings," replied Braintree rather roughly.  "I don't
 like Knights and nobles and all that parade of armed aristocracy.
 But that man likes them.  He doesn't only pretend to like them.
 _He_ is not a snob or a silly flunkey of old Seawood.
 He is the only man I have ever seen who might really defy
-democracy and the revolution, I know it simply from the way
+[[democracy]] and the revolution, I know it simply from the way
 he strode about that silly stage and spoke--"
 
 "And spoke those silly verses, you were going to say,"
@@ -4308,7 +4308,7 @@ with a spear."
 For indeed Mr. Herne was still in the theatrical costume of an Outlaw,
 having apparently forgotten to change his clothes when he drifted
 to his dressing-room; and the long hunting-spear on which he leaned
-in his blank verse soliloquies was still grasped unconsciously
+in his [[Blank Verse|blank verse]] soliloquies was still grasped unconsciously
 in his hand.
 
 "I say," exclaimed Braintree, "aren't you going to get into any
@@ -4332,7 +4332,7 @@ Some of them, especially the ladies, were in a transitional
 state before the full splendours of the afternoon.
 For there was that afternoon at Seawood Abbey a grand political
 and social reception eclipsing even that which had attempted
-the education of Mr. Braintree.  Needless to say it contained
+the [[Education|education]] of Mr. Braintree.  Needless to say it contained
 most of the same unmistakable figures with many more in addition.
 Sir Howard Pryce was there, wearing if not the white flower
 of a blameless life at least the white waistcoat of a Victorian
@@ -4341,15 +4341,15 @@ He had lately passed equally blamelessly from Soap to Dyes,
 of which he was a financial pillar and a partner in certain
 commercial interests of Lord Seawood.  Mr. Aubrey Wister was there,
 wearing his exquisite blend of artistic and fashionable raiment;
-wearing also his long moustache and melancholy smile.
+wearing also his long moustache and [[Melancholy|melancholy]] smile.
 Mr. Hanbury, squire and traveller, was there, wearing nothing
-that could be noticed in particular and wearing it very well.
+that could be noticed in particular and wearing it very [[Well|well]].
 Lord Eden was there, wearing his single eyeglass and the hair
 that looked like a yellow wig.  Mr. Julian Archer was there,
 wearing clothes so good that they are hardly ever seen on
 a living man but only on the ideal beings in tailors' shops.
-And Mr. Michael Herne was there, still wearing a suit of green
-rags suitable to a royal outlaw in exile and quite unsuitable
+And Mr. [[Michael]] Herne was there, still wearing a suit of green
+rags suitable to a royal outlaw in [[Exile|exile]] and quite unsuitable
 to the present occasion.
 
 Braintree was not a conventional person but he was brought up
@@ -4362,12 +4362,12 @@ Herne appeared to be rather sulky in his last phase.
 
 "Dress as what," he asked.
 
-"Well, dress as yourself, I suppose," answered the other.
-"Give your celebrated imitation of Mr. Michael Herne."
+"[[Well]], dress as yourself, I suppose," answered the other.
+"Give your celebrated [[Imitation|imitation]] of Mr. [[Michael]] Herne."
 
-Michael Herne lifted his rather hang-dog head with a jerk and stared
+[[Michael]] Herne lifted his rather hang-dog head with a jerk and stared
 at the other for a moment with almost blinding concentration; and then
-moved away towards the house, presumably to perform the belated toilet.
+moved away towards the [[house]], presumably to perform the belated toilet.
 And Mr. John Braintree did the only thing he ever did do in these rather
 uncongenial assemblies; went in search of Miss Olive Ashley.
 
@@ -4375,9 +4375,9 @@ Their conversation was lengthy and largely theoretical; and it
 is a remarkable fact that even after the afternoon guests had gone
 and dinner loomed in the distance, when Olive had retired to dress
 and then reappeared in a violet and silver vesture of rather
-unusual richness, they encountered each other again in the garden,
+unusual richness, they encountered each other again in the [[Garden|garden]],
 by the broken monument where they had their first dispute.
-But they encountered something else as well.
+But they encountered something else as [[Well|well]].
 
 Mr. Herne, the librarian, was standing beside that scrap of grey
 sculpture like a green statue; it might have been a bronze statue
@@ -4394,13 +4394,13 @@ and said rather huskily.
 "Am I ever going to change? . . . Or never change?"
 
 She seemed to see something suddenly pictured in his staring eyes that
-started her trembling a little and she half shrank into the shadow of the
+started her trembling a little and she half shrank into the [[Shadow|shadow]] of the
 man beside her, who struck in with something like a defensive authority:
 "Are you going to get into ordinary clothes, I mean?"
 
 "What do you mean by ordinary clothes?" asked Herne.
 
-"Well," replied Braintree, with a short laugh, "I suppose I mean
+"[[Well]]," replied Braintree, with a short laugh, "I suppose I mean
 the sort of clothes I wear; though I've never been considered exactly
 a leader of fashion."  He smiled a moment in his grim fashion and added,
 "Nobody here will insist on your wearing a red tie."
@@ -4454,25 +4454,25 @@ head and there you are.  Besides, it has all sorts of sensible
 elements you don't discover till you've worn it for a day or so.
 For instance," he looked up at the sky with a sort of frown,
 "it may be going to rain or something; it may turn very cold
-or the wind be very strong.  What will you all do then?
-You will make a bolt for the house and come back with a paraphernalia
+or the [[Wind|wind]] be very strong.  What will you all do then?
+You will make a bolt for the [[house]] and come back with a paraphernalia
 of things for the lady; perhaps a huge horrible umbrella
 that will force you to walk about like a Chinese Emperor under
 a canopy; perhaps a lot of wraps and waterproofs and things.
 But nine times out of ten a man only wants something to pull over
 his head in this climate; he simply does this," and he plucked
 forward the hood that hung between his shoulders, "and for the rest
-of the time he can belong to the Hatless Brigade. . . . Do you know,"
+of the [[Time|time]] he can belong to the Hatless Brigade. . . . Do you know,"
 he added abruptly and in a lowered voice, "there's something
 very satisfying about wearing a hood . . . something symbolical;
-I don't wonder they corrupted the name of the great medieval
-hero into Robin Hood."
+I don't [[Wonder|wonder]] they corrupted the name of the great medieval
+[[Hero|hero]] into [[Robin Hood]]."
 
 Olive Ashley had been looking away across the undulating slopes
 of the valley, to where they vanished into a shining haze of evening,
 as if she were somewhat distrait and detached from the conversation,
 but she looked round, as if at the sound of a word which could
-penetrate her dreams.
+penetrate her [[Dreams|dreams]].
 
 "What do you mean," she said, "by saying a hood is symbolical?"
 
@@ -4480,30 +4480,30 @@ penetrate her dreams.
 "and seen the landscape beyond as bright as a lost paradise?
 That is because there is a frame to the picture. . . . You
 are cut off from something and allowed to look at something.
-When will people understand that the world is a window and not
-a blank infinity; a window in a wall of infinite nothing?
-When I wear this hood I carry my window with me.
+When will people understand that the world is a [[Window|window]] and not
+a blank infinity; a [[Window|window]] in a wall of infinite nothing?
+When I wear this hood I carry my [[Window|window]] with me.
 I say to myself--this is the world that Francis of Assisi saw
 and loved because it was limited.  The hood has the very shape
-of a Gothic window."
+of a Gothic [[Window|window]]."
 
 Olive looked over her shoulder at John Braintree and said:
 "Do you remember what poor Monkey said? . . . No, it was just
 before you came."
 
-"Before I came?" asked Braintree in a momentary doubt.
+"Before I came?" asked Braintree in a momentary [[Doubt|doubt]].
 
 "Before you first came here," she answered colouring and looking
 again at the landscape.  "He said he would have to look through
-a leper's window."
+a leper's [[Window|window]]."
 
-"A very typical medieval window, I should think,"
+"A very typical medieval [[Window|window]], I should think,"
 said Braintree rather sourly.
 
 The face of the man in medieval masquerade suddenly flamed
 as at a challenge to battle.
 
-"Will you show me a King," he cried, "a modern reigning King,
+"Will you show me a [[King]]," he cried, "a modern reigning [[King]],
 by the grace of God, who will go and handle lepers in a hospital
 as St. Louis did?"
 
@@ -4528,12 +4528,12 @@ Braintree slowly raised his head and looked steadily at the other man.
 
 CHAPTER XII
 
-THE STATESMAN AND THE SUMMER-HOUSE
+THE STATESMAN AND THE [[Summer|SUMMER]]-[[house|HOUSE]]
 
-At this point of the conversation that particular corner of the garden
+At this point of the conversation that particular corner of the [[Garden|garden]]
 was filled with the broad and breezy presence of Julian Archer in
 resplendent evening dress; he entered with a swing and then stopped dead,
-staring at Michael Herne.
+staring at [[Michael]] Herne.
 
 "I say," he cried, "are you _never_ going to change."
 
@@ -4541,13 +4541,13 @@ Perhaps the sixth repetition of this single sentence was what drove
 the librarian of Seawood mad.
 
 Anyhow he swung round, staring also, and suddenly cried out in a voice
-that rang down the garden path.
+that rang down the [[Garden|garden]] path.
 
 "No. I am never going to change."
 
-After glaring for a moment he went on "You all love change
+After glaring for a moment he went on "You all [[Love|love]] change
 and live by change; but I shall never change.  It was by change
-you fell; it is by this madness of change you go on falling.
+you fell; it is by this [[Madness|madness]] of change you go on falling.
 You had your happy moment, when men were simple and sane
 and formal and as native to this earth as they can ever be.
 You lost it; and even when you get it back for a moment,
@@ -4563,12 +4563,12 @@ of yours was sane?"
 
 "I mean that the old society was truthful and that you are in a tangle
 of lies," answered Herne.  "I don't mean that it was perfect or painless.
-I mean that it called pain and imperfection by their names.  You talk
-about despots and vassals and all the rest; well, you also have coercion
+I mean that it called [[Pain|pain]] and imperfection by their names.  You talk
+about despots and vassals and all the rest; [[Well|well]], you also have coercion
 and inequality; but you dare not call anything by its own Christian name.
 You defend every single thing by saying it is something else.
-You have a King and then explain that he is not allowed to be a King.
-You have a House of Lords and say it is the same as a House of Commons.
+You have a [[King]] and then explain that he is not allowed to be a [[King]].
+You have a [[house|House]] of Lords and say it is the same as a [[house|House]] of Commons.
 When you do want to flatter a workman or a peasant you say he is
 a true gentleman; which is like saying he is a veritable Viscount.
 When you want to flatter the gentleman you say he does not use his
@@ -4588,22 +4588,22 @@ you will see some of them dead before you die."
 
 "Perhaps," said Herne looking at him with his large pale eyes,
 "you may see them die and then live; which is a very different
-thing from existing.  I am not sure that the King may not be
-a King once more."
+thing from existing.  I am not sure that the [[King]] may not be
+a [[King]] once more."
 
 The Syndicalist seemed to see something in the staring eyes
 of the librarian that changed and almost chilled his mood.
 
 "Do you think this is an age," he asked, "for anybody to
-play King Richard?"
+play [[King]] [[Richard]]?"
 
 "I think this is an age," replied the other, "when somebody ought
-to play . . . Coeur-de-Lion."
+to play . . . Coeur-de-[[Lion]]."
 
-"Ah," said Olive, as if she began to see something for the first time.
-"You mean we lack the only virtue of King Richard."
+"Ah," said Olive, as if she began to see something for the first [[Time|time]].
+"You mean we lack the only virtue of [[King]] [[Richard]]."
 
-"The only virtue of King Richard," said Braintree, "was staying
+"The only virtue of [[King]] [[Richard]]," said Braintree, "was staying
 out of the country."
 
 "Perhaps," she answered.  "He and his virtue might come back."
@@ -4613,7 +4613,7 @@ said the Syndicalist grimly.  "No serfs; no vassals; and even
 the labourers daring to look him in the face.  He will find something
 has broken its chain; something has opened, expanded, been lifted up;
 something wild and terrible and gigantic that strikes terror even
-into the heart of a lion."
+into the heart of a [[Lion|lion]]."
 
 "Something?" repeated Olive.
 
@@ -4640,15 +4640,15 @@ a grain of common sense."
 got any.  But any woman would have more than you have."
 
 "Here comes the lady in question," said Braintree rather gloomily.
-"I hope she will meet your requirements."
+"I [[Hope|hope]] she will meet your requirements."
 
 "She will say what I say," said Olive calmly.
-"The madness is infectious.  The infection is spreading.
+"The [[Madness|madness]] is infectious.  The infection is spreading.
 None of you can get out . . . of my poor little play."
 
 And indeed when Rosamund Severne came sweeping across the lawn in
-her resolute way, like a wind, the wind struck something and turned
-to a storm.  The storm raged for an hour or two and we need only
+her resolute way, like a [[Wind|wind]], the [[Wind|wind]] struck something and turned
+to a [[Storm|storm]].  The [[Storm|storm]] raged for an hour or two and we need only
 record its end; which was that Rosamund did what was very rarely
 done by her or anyone else; what had not been done since Murrel
 had presented the petition for the admission of Braintree.
@@ -4663,14 +4663,14 @@ or indeed even of explaining.  She said explosively:
 "Things out there are getting perfectly awful.  The librarian
 won't take off his clothes."
 
-"Well, I should hope not," said Lord Seawood, and waited patiently.
+"[[Well]], I should [[Hope|hope]] not," said Lord Seawood, and waited patiently.
 
 "I mean," she added hastily, "I mean it's getting past a joke.
 Don't you understand?  He's still dressed in all his green."
 
 "I suppose, strictly speaking, our livery is blue,"
 said Lord Seawood thoughtfully.  "That doesn't matter much nowadays;
-but heraldry was always a hobby of mine. . . . Well, I don't think
+but heraldry was always a hobby of mine. . . . [[Well]], I don't think
 it's possible now to insist on the correct colours.  And nobody ever
 sees much of the librarian.  Libraries are not very popular resorts.
 And the fellow himself . . . very quiet fellow, if I remember right.
@@ -4693,9 +4693,9 @@ first that he had the misfortune to be an invalid and
 second that he had the misfortune to be a statesman.
 He was one of those who withdraw into a narrower and narrower
 world on the pretence of acting in a wider and wider sphere.
-He lived in a small world out of a love of large questions.
+He lived in a small world out of a [[Love|love]] of large questions.
 He had, as he had suggested, a sort of hobby of heraldry
-and the tracing out of the history of his own and other
+and the tracing out of the [[history]] of his own and other
 noble families, but he had felt all the more at ease because there
 were only two or three other experts in England who troubled
 about such things at all.  And as he dealt with heraldry,
@@ -4703,7 +4703,7 @@ so he dealt with society; with politics and many other things.
 He never talked to any people except experts; that is,
 in trusting the expert, he always trusted the exception.
 Exceptional people gave him information of exceptional value;
-but he never knew what was going on in his own house.
+but he never knew what was going on in his own [[house]].
 Now and then he was conscious that the details of his
 domestic arrangements were not what they had always been;
 and this was about the extent of his consciousness of the whole
@@ -4713,42 +4713,42 @@ it is doubtful whether he would have asked him why he was there.
 It is more probable he would have opened communications
 with a scientific specialist on the use of ladders;
 but only after he was honestly convinced that he had
-the very best specialist of the time.  He would defend
+the very best specialist of the [[Time|time]].  He would defend
 the aristocratic principle by an appeal to the Greek derivation,
 saying that he insisted on having the best of everything.
 And, to do him justice, though he was too much of an invalid
 and perhaps too much of a faddist to drink or smoke, he never
-had any wine or cigars in his house except the very best.
+had any wine or cigars in his [[house]] except the very best.
 He was, in his personal capacity, a bony and brittle little man,
 with a high-bridged nose and angles all over him, and a capacity
 for staring at people suddenly with a look of startled attention,
 which had an almost stunning effect on those who made
-the mistake of supposing that he was merely a fool.  The whole
+the mistake of supposing that he was merely a [[Fool|fool]].  The whole
 of his somewhat secretive personality, with its concentration
 and its bewilderment, its attention and its inattention,
 must be understood with a sympathy bordering upon subtlety,
 before the conditions of this drama can be conceived.
 Probably he was the only man in the world who could have had
-these things happening in his own house without realizing
+these things happening in his own [[house]] without realizing
 how far they had gone.
 
-But there comes a point when even the hermit in a cave on the mountains
-looks forth and sees that the city in the valley is flaming with flags.
+But there comes a point when even the hermit in a [[Cave|cave]] on the [[Mountains|mountains]]
+looks forth and sees that the [[City|city]] in the valley is flaming with flags.
 There comes a point when even the most drugged and dreamy scholar in an
-attic looks out of the window and sees that the town is illuminated.
+attic looks out of the [[Window|window]] and sees that the town is illuminated.
 And at last Lord Seawood began to realize that a revolution had
 taken place outside the door of his own study, although he had
 received no official report in connection with it.  If it had been
 a revolution in Guatemala, he would have known all about it as soon
-as he could have communicated with the Guatemalan Minister in London.
+as he could have communicated with the Guatemalan Minister in [[London]].
 If it had been a revolution in Northern Thibet, of course he would
 have sent for Biggle, who is the only fellow who has ever really
 _been_ to Northern Thibet.  But as it was only ramping and roaring
-all over his own garden and drawing-room, he was cautious about
+all over his own [[Garden|garden]] and drawing-room, he was cautious about
 receiving what might be exaggerated accounts.  Thus it happened
-that about a fortnight later he was seated in the summer-house
-that stood at the end of the garden path opposite the library,
-engaged in grave consultation with the Prime Minister.  He did not
+that about a fortnight later he was seated in the [[Summer|summer]]-[[house]]
+that stood at the end of the [[Garden|garden]] path opposite the library,
+engaged in [[Grave|grave]] consultation with the Prime Minister.  He did not
 notice anything in the whole landscape except the Prime Minister.
 This was not in the least an indication of snobbishness, for he
 considered himself, in the social and genealogical sense, more important
@@ -4760,7 +4760,7 @@ but he cared for nothing except the outer world.  He lived, if not
 at the end of the earth, at any rate at the end of the telephone.
 The views of the Prime Minister himself, about this concentrated
 complacency in his host, might have been worth hearing, for Lord Eden
-was a man of some humour, of the sort that is counted rather crabbed
+was a man of some [[Humour|humour]], of the sort that is counted rather crabbed
 and cynical, because it faces facts and does not deal very much in
 catch-words. Lord Eden was a man with a lean and wrinkled face so much
 in contrast with his yellow hair as to make it look like a yellow wig.
@@ -4777,14 +4777,14 @@ worthy of your steel, and then, of course, you found some
 sort of a job for them sooner or later; and there you were.
 But this business of the Coal-Tar people is different.
 The Unions wouldn't have been much different by themselves,
-of course.  People at a Trade Union meeting don't know what
+of course.  People at a Trade [[Union]] meeting don't know what
 they're voting about--"
 
 "Of course not," said Seawood nodding gravely and graciously,
 "quite ignorant, I suppose?"
 
 "--any more than we do," went on Lord Eden, "any more than
-the House of Commons or the House of Lords.  Did you ever
+the [[house|House]] of Commons or the [[house|House]] of Lords.  Did you ever
 know a party meeting that knew what it was voting about?
 They called themselves Socialists or something and we called
 ourselves Imperialists or something.  But, as a matter
@@ -4802,14 +4802,14 @@ picturesque turns up on the other side."
 
 "Is this Mr. Braintree picturesque?" asked Lord Seawood,
 being entirely unaware that Mr. Braintree had been his guest
-for a considerable time.
+for a considerable [[Time|time]].
 
 "These fellows seem to think so," replied the Prime Minister.
 "It's not so much the Coal people themselves; it's much
 more the affiliated Unions connected with the by-products;
 all the people he seems to have worked up just round here.
 That's why I came to ask you about it.  We are both interested in
-Coal-Tar as well as Coal, and I'd be very glad to have your opinion.
+Coal-Tar as [[Well|well]] as Coal, and I'd be very glad to have your opinion.
 There seems to be such a devil of a lot of these small Unions mixed up
 with the business.  You must know more about 'em than anybody else--
 except Braintree himself, of course.  And it's no good asking him.
@@ -4825,19 +4825,19 @@ to the by-products than to the original material, so to speak.
 It is all the more unfortunate that this Mr. Braintree should
 have chosen that for a field of battle."
 
-"It jolly well looks like a field of battle," replied the
+"It jolly [[Well|well]] looks like a field of battle," replied the
 politician gloomily.  "I don't suppose they'd actually come
-and kill people but they're pretty well ready for anything
+and kill people but they're pretty [[Well|well]] ready for anything
 short of that.  And that's just the worst of it.  If they'd
-only actually rebel, they could be put down easily enough.
-But what the devil are you to do with rebels who don't rebel?
+only actually [[Rebel|rebel]], they could be put down easily enough.
+But what the devil are you to do with rebels who don't [[Rebel|rebel]]?
 I don't believe Machiavelli ever gave any advice on the problem."
 
 Lord Seawood put his long thin fingers together and cleared his throat.
 
 "I do not profess to be Machiavelli," he said with marked modesty, "but I
-hope I am not wrong in supposing that, in a certain sense, you are asking
-my advice.  Well, the conditions are such, I admit, as to call for rather
+[[Hope|hope]] I am not wrong in supposing that, in a certain sense, you are asking
+my advice.  [[Well]], the conditions are such, I admit, as to call for rather
 special knowledge, and I have given some attention to this problem,
 and especially to parallel problems in Australia and Alaska.
 To begin with, the conditions of the production of all the derivatives
@@ -4845,17 +4845,17 @@ of coal involves considerations that are commonly understood--."
 
 "My God!" cried Lord Eden and ducked suddenly as if a blow had been
 aimed at his head.  His exclamation was natural enough; though, such was
-the incredible self-absorption of the other man that he saw the cause
+the incredible [[Self|self]]-absorption of the other man that he saw the cause
 at least a second later.
 
 What Lord Seawood saw was a long feathered arrow that stood still
-quivering in the timber of the summer-house, immediately above
+quivering in the timber of the [[Summer|summer]]-[[house]], immediately above
 Lord Eden's head.  But what Lord Eden had seen was the same singular
-missile come singing through the air out of some remote part of the garden
+missile come singing through the air out of some remote part of the [[Garden|garden]]
 and passing above him with a noise like that of some gigantic insect.
-Both the noblemen rose to their feet and regarded this object for
-a moment in silence; before the more practical politician observed
-that the shaft had fastened to it a flapping fragment of paper,
+Both the noblemen [[Rose|rose]] to their feet and regarded this object for
+a moment in [[Silence|silence]]; before the more practical politician observed
+that the shaft had fastened to it a flapping [[Fragment|fragment]] of paper,
 on which something seemed to be written.
 
 -^-
@@ -4864,23 +4864,23 @@ CHAPTER XIII
 
 THE VICTORIAN AND THE ARROW
 
-The arrow that had entered the summer-house with a sound
-like song awakened the worthy proprietor of the place
+The arrow that had entered the [[Summer|summer]]-[[house]] with a sound
+like [[Song|song]] awakened the worthy proprietor of the place
 to a world without which had been entirely transformed.
-Why it had been transformed, and what was the nature
+Why it had been transformed, and what was the [[Nature|nature]]
 of the transformation, he found it sufficiently bewildering
 to discover; but it is almost equally bewildering to describe.
 It began, in a sense, with the isolated insanity of one man;
-yet it was almost equally due, by a not uncommon paradox,
-to the equally isolated sanity of one woman.
+yet it was almost equally due, by a not uncommon [[Paradox|paradox]],
+to the equally isolated [[Sanity|sanity]] of one woman.
 
 Mr. Herne, the librarian, had positively and finally refused
 to change his clothes.
 
-"Well I can't," he cried in despair.  "I simply can't. I should feel
-like a fool, just as if--."
+"[[Well]] I can't," he cried in [[Despair|despair]].  "I simply can't. I should feel
+like a [[Fool|fool]], just as if--."
 
-"Well," asked Rosamund regarding him with round eyes.
+"[[Well]]," asked Rosamund regarding him with round eyes.
 
 "I should feel as if I were in fancy dress," he said.
 Rosamund was less impatient than might have been expected.
@@ -4897,7 +4897,7 @@ that seems to mean standing always with a sort of a stoop.
 Now I put my hands in my belt and it makes me feel ten
 inches taller.  Why, look at this spear."
 
-He had a habit of walking about with the boar-spear which King Richard
+He had a habit of walking about with the boar-spear which [[King]] [[Richard]]
 had carried in his capacity of forester; and he now planted the staff
 in the grass to bring it to her attention, though it was very literally
 as plain as a pike-staff.
@@ -4905,7 +4905,7 @@ as plain as a pike-staff.
 "The minute you begin to carry a thing of this sort," he cried,
 "you realise at once why men generally used to carry long
 poles of one sort or another; spears or pikes or pilgrims'
-staffs, or pastoral staffs.  You can hold them at arm's
+staffs, or [[Pastoral|pastoral]] staffs.  You can hold them at arm's
 length and then throw your head back as if it wore a crest.
 You have to lean down to the little modern walking-sticks in order
 to lean on them; as if you were leaning on a crutch, and so you are.
@@ -4941,49 +4941,49 @@ his clothes at once, like a naughty little boy who had fallen in a pond.
 But the quaint and almost fabulous creatures called human souls
 do not always, or perhaps even often, do what is expected of them.
 If any sensible person can be supposed to have foreseen all this
-crazy tale, he would have had no doubt about which of the two women
+crazy tale, he would have had no [[Doubt|doubt]] about which of the two women
 involved would have been more impatient with its craziness.
 The sensible man would have said that Olive Ashley, with her hobby
 of medievalism, would have understood even a rather mad medievalist;
 whereas anyone so modern as her red-haired friend would not even have
 stopped to ask whether it was medievalism, in face of the obvious
-fact that it was madness.  But then no sensible man would ever
+fact that it was [[Madness|madness]].  But then no sensible man would ever
 have believed that it would happen at all.
 
 In any case the sensible man would have been wrong, as he often is.
-Olive always had her own dreams:  but Rosamund's heart hungered
+Olive always had her own [[Dreams|dreams]]:  but Rosamund's heart hungered
 after two things, simplification and action.  Her thinking was slow;
 so she liked simplicity.  Her impulses were swift; so she liked action.
 
-Rosamund Severne in a bodily sense was born worthy of a crown;
-and even in a biographical sense under the shadow of a coronet.
-It was her fate to move against a magnificent background of river
+Rosamund Severne in a bodily sense was born worthy of a [[Crown|crown]];
+and even in a biographical sense under the [[Shadow|shadow]] of a coronet.
+It was her fate to move against a magnificent background of [[River|river]]
 and terraced hills and the ruins of a historic place, and the medieval
 masquerade she had assumed seemed altogether fitted to her presence.
 To the visionary eyes of the librarian, she appeared to be equally
 a princess in that costume or in a more conventional one.  But these
-accidents of birth and even of beauty are very misleading in psychology.
+accidents of birth and even of [[Beauty|beauty]] are very misleading in psychology.
 If Mr. Herne had possessed more knowledge of the world, he would
 have recognised a type to be seen in very different surroundings.
-The great green valley and the great grey abbey house would have
+The great green valley and the great grey abbey [[house]] would have
 faded from his sight and he would have seen in their place desks
 and typewriters and rows of very dull works of reference.  He would
-have seen in that square face and those grave and honest eyes a type
+have seen in that square face and those [[Grave|grave]] and honest eyes a type
 that is very modern and very variously distributed in the modern world.
 That young woman is to be found in many places where she is wanted
 to support the wavering unworldliness of men like Mr. Herne.
 As Secretary to the Submarine Colonisation Company, she explains firmly to
 a long procession of inquirers that there is room in the sea for more men
 that ever went into it.  As Lady Manager of the Elastic Pavements Society,
-she knows the whole case for this essential reform, and can show
+she knows the whole case for this essential [[Reform|reform]], and can show
 how it eliminates the necessity for better boots or a country life.
-The movement for proving that "Paradise Lost" was written by Charles II
+The movement for proving that "[[Paradise Lost]]" was written by Charles II
 owes its wide popularity entirely to her energy and efficiency.
 The arrangement by which the tops of top-hats can be lifted with a string,
 for purposes of ventilation, would never have reached its present
-universal success, if there had not been one sane person in the office.
+universal [[success]], if there had not been one sane person in the office.
 In all these positions she has the same powerful simplicity
-and the same sincerity in following out one idea at a time.
+and the same sincerity in following out one idea at a [[Time|time]].
 In all these positions she is very conscientious and very unscrupulous.
 
 It was characteristic of Rosamund that she had always been not
@@ -5001,7 +5001,7 @@ Quite suddenly, and perhaps accidentally, there had become clear to her
 very single eye something like a ray of light that she could follow;
 something that she could understand.  Doubtless she understood
 it better because it was linked up in a loose fashion with the
-traditions that she had been taught from childhood to preserve.
+traditions that she had been taught from [[Childhood|childhood]] to preserve.
 She had never bothered about her father's taste in heraldry;
 she had not even seen very much of her father.  But just as she was
 glad that her father was there, she was glad the heraldry was there.
@@ -5017,39 +5017,39 @@ She was an heiress; but it is due to them to say that many of
 the more chivalrous admired her not because she was an heiress
 but because she was beautiful.  She was beautiful, but it is
 due to her to say that many of the more rational admired her
-not because she was a beauty but because she was a good sort;
+not because she was a [[Beauty|beauty]] but because she was a good sort;
 and more especially what they called a good sport.  It followed,
 therefore that where she led many would follow, even if she led
-them a dance quite different from the dances then in fashion.
+them a [[Dance|dance]] quite different from the dances then in fashion.
 Thus there grew up, half in jest and yet more and more in earnest,
 a new fashionable "medievalism"; a chase in which all
 the young men followed the lady who followed the librarian.
-And because there was a certain candour of calf-love about it,
-of the moon-calf who is not ashamed to cry for the moon,
+And because there was a certain candour of calf-[[Love|love]] about it,
+of the [[Moon|moon]]-calf who is not ashamed to cry for the [[Moon|moon]],
 it had something in it of the sincerity of youth and springtime.
-It was a romance as well as a rag.  The young men became
+It was a [[Romance|romance]] as [[Well|well]] as a rag.  The young men became
 in a manner poets, if very minor poets.  With the help of
 Herne as a scholar and Rosamund as a vigorous stage-manager,
 they filled their lines with emblems and ensigns and processions,
 even more defiant of modernity than the theatrical dress which
 they had dropped and Herne had retained.  The young men were
 especially fascinated by the notion of reviving the use of the bow;
-possibly with a subconscious memory of the arrows of the god of love.
-Perhaps it was some foolish association of Valentine's that started
+possibly with a subconscious [[Memory|memory]] of the arrows of the god of [[Love|love]].
+Perhaps it was some foolish association of [[Valentine]]'s that started
 the game of sending arrows as messengers of welcome or of war.
 
-Archery was a fashion in the Victorian time; and many
+Archery was a fashion in the Victorian [[Time|time]]; and many
 Victorian ladies and gentlemen may have hovered about
 the lawns of Seawood Abbey, engaged in that graceful sport;
 many may even have revisited the scene as mildly astonished
-ghosts in long whiskers and peg-top trousers or in cloudy
+[[Ghosts|ghosts]] in long whiskers and peg-top trousers or in cloudy
 crinolines swaying and floating like balloons.  Many distinguished
 Victorian characters had doubtless honoured the amusement;
 but they did it within certain visible Victorian limitations.
 They shot their arrows correctly at targets and not (unaccountably)
 at top-hats. They used but few of those giant gestures that
 have belonged in the past to the great bows of the heroes.
-Sir Robert Peel, if prudent as Ulysses, did not turn, saying,
+Sir Robert Peel, if prudent as [[Ulysses]], did not turn, saying,
 "Now I will shoot at another mark," and transfix with his
 shaft the highly decorated waistcoat of Mr. Disraeli.
 It is nowhere recorded that Lord Derby balanced an apple
@@ -5063,7 +5063,7 @@ Lord Shaftesbury seldom appeared in the character
 and costume of the archer on the Shaftesbury Fountain;
 and it is an error to suppose that he is there represented.
 Above all, it certainly never occurred to the celebrated
-Rowland Hill that shooting arrows about in all directions
+Rowland [[Hill]] that shooting arrows about in all directions
 might be made a substitute for the Penny Post.
 There was, therefore, no real historical precedent for the state
 of affairs that began to develop rapidly at Seawood Abbey,
@@ -5080,13 +5080,13 @@ the New Régime. To describe at length all the details involved
 in the New Régime would involve the transcription of a considerable
 number of scrolls or strips of paper, which were conveyed
 to the neighbours in this rapid if not efficient manner.
-They all bore the title of The League of the Lion; and were
+They all bore the title of The League of the [[Lion]]; and were
 apparently an appeal to all persons to imitate the better qualities
-of King Richard the First and the Crusaders, under conditions
+of [[King]] [[Richard]] the First and the Crusaders, under conditions
 that could not be considered favourable to the enterprise.
 The astonished citizen was informed that England had now
-reached a crisis in which moral courage alone could save her;
-if it were only the moral courage required to aim a bow
+reached a crisis in which moral [[Courage|courage]] [[Alone|alone]] could save her;
+if it were only the moral [[Courage|courage]] required to aim a bow
 at a venture when engaged in dropping a line to a friend.
 But there was a great deal more of a more sincere sort,
 not without a certain juvenile eloquence, protesting against
@@ -5096,7 +5096,7 @@ that the age of chivalry was past.
 Needless to say, most of the people who received these missives
 were amused; some were annoyed; and some, strangely enough perhaps,
 were rather relieved and revived, as if they had seen some game of their
-childhood or ideal of their boyhood rise suddenly from the dead.
+[[Childhood|childhood]] or ideal of their boyhood rise suddenly from the dead.
 But it cannot be said that the appeal as it stood was adapted
 to the typical visitors to Lord Seawood's country seat.
 Noblemen and gentlemen who had come down to shoot were often
@@ -5108,19 +5108,19 @@ were not soothed when the librarian patiently and kindly explained
 to them how cramped, how hunchbacked, how ungainly, was the crouching
 attitude of one holding a gun, compared with the god-like lift
 and leap in the figure that has just discharged an arrow,
-frozen as it is forever in the stillness of the Apollo Belvedere.
+frozen as it is forever in the stillness of the [[Apollo]] Belvedere.
 In short, the further afield the arrows fared, the less likely it
 seemed that they would really have the softening effects of the arrows
-of the God of Love.  And this seemed to reach to a remote extreme
+of the God of [[Love]].  And this seemed to reach to a remote extreme
 of improbability in the very last extent or extremity of their travels;
 when the flying herald of chivalry had actually reached so distant
 and impenetrable a mark as to arouse the attention of the master
-of the house.
+of the [[house]].
 
 As already noted, it is rather more than a metaphor to say
 that the news reached Lord Seawood as a bolt from the blue.
-The bolt came in a flash out of the blue sky of the summer
-into the black shadows of the summer-house. It fixed itself
+The bolt came in a flash out of the blue sky of the [[Summer|summer]]
+into the black shadows of the [[Summer|summer]]-[[house]]. It fixed itself
 in the wall above the Prime Minister's head; and before
 Lord Seawood had taken it in, Lord Eden had taken it out.
 He found attached to it a curled-up document; which the two noblemen
@@ -5131,17 +5131,17 @@ tone almost terrifying.  It stated the tests and trials
 by which a sterner conception of chivalry could be introduced
 into the world; though it is only justice to all concerned
 to say that it did not contain the word Samurai.  It explained
-that an appeal to the ancient virtue of loyalty could alone
+that an appeal to the ancient virtue of loyalty could [[Alone|alone]]
 rally mankind to the restoration of a worthy social order,
 such as was envisaged by the old orders of knighthood.
 It explained a great many other things; but from the point
-of view of the two elderly gentlemen in the summer-house,
+of view of the two elderly gentlemen in the [[Summer|summer]]-[[house]],
 it did not altogether explain the arrow in the wall.
 
 Lord Eden remained silent; indeed he seemed to be studying
 the document with more gravity or grim attention than might
 be expected.  But Lord Seawood, after some abrupt ejaculations,
-turned by a sort of blind instinct to the doorway and the garden
+turned by a sort of blind instinct to the doorway and the [[Garden|garden]]
 from which the thunderbolt had come.  And there he saw,
 away in the middle distance, at the end of the long lawn,
 something that amazed him as much as a company of angels
@@ -5167,14 +5167,14 @@ But prodigious porcelain vases of the Ming dynasty might have crashed on
 every side of him without arousing his attention as it was aroused now.
 The hobbies of men are many and strange and mysterious.  And he did
 most deeply resent anyone damaging his collection of Prime Ministers.
-That summer-house in the garden was to him as sacred as any Chinese temple
-full of ancestors; for in it were the thin ghosts of many politicians.
+That [[Summer|summer]]-[[house]] in the [[Garden|garden]] was to him as sacred as any Chinese temple
+full of ancestors; for in it were the thin [[Ghosts|ghosts]] of many politicians.
 Many of these quiet conferences affecting the destinies of the Empire
 had been held in that toy hut.  It was characteristic of Lord Seawood
 that what pleased him most was meeting public men in a private way;
-even a secret way.  He was far too fine a gentleman himself to desire the
-Sunday papers to say that the Prime Minister had visited Seawood Abbey.
-But he went cold as death as he thought of the papers saying that
+even a secret way.  He was far too fine a gentleman himself to [[Desire|desire]] the
+[[Sunday]] papers to say that the Prime Minister had visited Seawood Abbey.
+But he went cold as [[Death|death]] as he thought of the papers saying that
 the Prime Minister had visited Seawood Abbey and lost an eye.
 
 The glance he gave at the gang of school-boys was, therefore,
@@ -5188,25 +5188,25 @@ a touch to the nobleman's natural annoyance and disdain.
 It was some silly rag, of course, among Rosamund's friends;
 she must have pretty rotten friends.
 
-"I hope you are aware," he said coldly but in a clear and loud voice,
+"I [[Hope|hope]] you are aware," he said coldly but in a clear and loud voice,
 "that you have just nearly killed the Prime Minister.
 Under these circumstances, I think you will see the propriety
 of choosing some other game."
 
-He turned and walked back to the summer-house, having so far controlled
+He turned and walked back to the [[Summer|summer]]-[[house]], having so far controlled
 himself with a conventional consideration for his unwelcome guests.
 But when he returned under the small thatched roof and saw
-in the shadow the pale and angular profile of the Prime Minister
+in the [[Shadow|shadow]] the pale and angular profile of the Prime Minister
 still poring over the scrap of paper with cold concentration,
 Lord Seawood's fury suddenly broke out again.  He felt in that frozen
 face the unfathomable scorn which the great mind of the great statesman
 must be feeling for this dirty and yet deadly practical joke.
-The man's silence opened like an abyss of ice; an abyss into which
+The man's [[Silence|silence]] opened like an abyss of ice; an abyss into which
 apology after apology might be dropped without plumbing its depths,
 or awakening any answer.
 
 "I simply don't know what to say," he said desperately.
-"I've half a mind to kick them all out of the house, the girl
+"I've half a mind to kick them all out of the [[house]], the girl
 and all. . . . Anything whatever I can do. . . ."
 
 Still the Prime Minister did not look up, but continued
@@ -5216,53 +5216,53 @@ them a little; but his tight lips never moved.
 
 His host was suddenly struck with a sort of terror,
 the scope of which he could not himself follow.
-He thought he had offered an insult blood could not wipe out.
-The silence snapped his nerve and he said sharply:  "For God's
+He thought he had offered an insult [[Blood|blood]] could not wipe out.
+The [[Silence|silence]] snapped his nerve and he said sharply:  "For God's
 sake don't go on reading that rubbish!  I know it's damned funny;
-but it's not so damned funny for me--happening in my own house.
-You can't imagine I like having a guest insulted, let alone you.
+but it's not so damned funny for me--happening in my own [[house]].
+You can't imagine I like having a guest insulted, let [[Alone|alone]] you.
 Tell me what you want and I'll do it."
 
-"Well," said the Prime Minister, and laid down the paper slowly
-on the little round table.  "Well, we've got it at last."
+"[[Well]]," said the Prime Minister, and laid down the paper slowly
+on the little round table.  "[[Well]], we've got it at last."
 
 "Got what?" demanded his distracted friend.
 
 "Our last chance," said the Prime Minister.
 
-There was a silence in the dark summer-house so sudden and complete
+There was a [[Silence|silence]] in the dark [[Summer|summer]]-[[house]] so sudden and complete
 that they could hear the buzzing of a fly and the distant murmur
-of the talk of the mutineers.  The silence was merely accidental;
-yet something rose up in Seawood's soul to protest against it;
-as if silence were making destiny and must be stopped from doing it.
+of the talk of the mutineers.  The [[Silence|silence]] was merely accidental;
+yet something [[Rose|rose]] up in Seawood's [[Soul|soul]] to protest against it;
+as if [[Silence|silence]] were making destiny and must be stopped from doing it.
 
 "What do you mean?" he demanded sharply.  "What last chance?"
 
 "The last chance we were talking about not ten minutes ago,"
 replied the politician with a grim smile.  "Wasn't I talking about
-this very thing before it flew in at the window, like the dove
+this very thing before it flew in at the [[Window|window]], like the dove
 with the olive branch?  Wasn't I actually saying that we must
 have something new because the poor old Empire has gone stale?
 Wasn't I saying we wanted a new positive thing to back up against
-Braintree and the New Democracy?  Well, then."
+Braintree and the New [[democracy|Democracy]]?  [[Well]], then."
 
 "What on earth do you mean?" demanded Lord Seawood.
 
 "I mean this thing has got to be backed up," cried the
 Prime Minister, slapping the little table with a vivacity
 almost shocking in one of his dry and dreary demeanour.
-"It's got to be backed up with horse, foot and artillery;
+"It's got to be backed up with [[Horse|horse]], foot and artillery;
 or what's a damn sight more important, pounds, shillings, and pence.
 It's got to be backed up as we never backed anything in our lives.
 Lord, that a man of my age should live to see the break
 in the enemy's line and the chance for a cavalry charge!
-It's got to be rammed home for all it's worth and a lot more;
+It's got to be rammed [[Home|home]] for all it's worth and a lot more;
 and the sooner we begin the better.  Where are these people?"
 
 "But do you really mean," cried the staring Seawood, "that there's
 anything to be done with fools like--"
 
-"Suppose they are," snapped Eden.  "Am I a fool that I should fancy
+"Suppose they are," snapped Eden.  "Am I a [[Fool|fool]] that I should fancy
 that anything could be done without fools?"
 
 Lord Seawood pulled himself together; but he was still staring.
@@ -5281,29 +5281,29 @@ looking over his shoulder, "the meaning of the word chivalry?"
 
 "Do you mean in the derivative sense?" asked the other nobleman.
 
-"I mean in the horse sense," replied Eden.  "What people really like
-is a man on a horse--and they don't mind much if it's a high horse.
-Give the people plenty of sports--tournaments, horse races--_panem et
+"I mean in the [[Horse|horse]] sense," replied Eden.  "What people really like
+is a man on a [[Horse|horse]]--and they don't mind much if it's a high [[Horse|horse]].
+Give the people plenty of sports--tournaments, [[Horse|horse]] races--_panem et
 circenses,_ my boy--that will do for a popular side to the policy.
 If we could mobilise all that goes to make the Derby we could
-fight the Deluge."
+fight the [[deluge|Deluge]]."
 
 "I begin," said Seawood, "to have some sort of wild notion
 of what you mean."
 
-"I mean," answered his friend, "that the Democracy cares a damn sight
+"I mean," answered his friend, "that the [[democracy|Democracy]] cares a damn sight
 more about the inequality of horses than about the equality of men."
 
-And stepping across the threshold he strode across the garden with a step
+And stepping across the threshold he strode across the [[Garden|garden]] with a step
 almost startlingly rejuvenated; and before his host had even moved
 he heard the Prime Minister's voice in the distance lifted like a trumpet,
 like the voice of the great orators of fifty years ago.
 
 Thus did the librarian who refused to change his clothes
 contrive to change his country.  For out of this small
-and grotesque incident came all that famous revolution,
+and [[Grotesque|grotesque]] incident came all that famous revolution,
 or reaction, which transformed the face of English society,
-and checked and changed the course of its history.
+and checked and changed the course of its [[history]].
 Like all revolutions effected by Englishmen, and especially
 revolutions effected by Conservatives, it was very careful
 to preserve those powers that were already powerless.
@@ -5314,18 +5314,18 @@ indeed it was supposed to support, the old monarchical pattern
 of this country.  But in practice the new power was divided
 between three or four subordinate monarchs ruling over large
 provinces of England, like magnified Lords-Lieutenant;
-and called according to the romance or affectation of
+and called according to the [[Romance|romance]] or affectation of
 the movement Kings-at-Arms. They held indeed a position with
 something of the sanctity and symbolic immunity of a herald;
-but they also possessed not a few of the powers of a king.
+but they also possessed not a few of the powers of a [[King|king]].
 They were in command of the bands of young men called Orders
 of Chivalry, which served as a sort of yeomanry or militia.
 They held courts and administered high and low justice
 in accordance with Mr. Herne's researches into medieval law.
 It was something more than a pageant; yet there passed
-into it much of that popular passion which at one time
+into it much of that popular passion which at one [[Time|time]]
 filled half the towns and villages in England with pageants;
-the hunger of a populace which Puritanism and Industrialism
+the hunger of a populace which [[Puritanism]] and Industrialism
 had so long starved for the feast of the eyes and the fancy.
 
 As it was more than a pageant, it was more than a fashion;
@@ -5338,8 +5338,8 @@ over a society know that indeterminate and yet determining instant.
 It applies to everything from women being allowed votes to women
 not being allowed hair.  It was marked in the Suffragette movement,
 which many middle-class women had long supported, when great ladies
-began to take it up.  It marks the transition from the time
-when it is the new fashion to the time when it is the fashion.
+began to take it up.  It marks the transition from the [[Time|time]]
+when it is the new fashion to the [[Time|time]] when it is the fashion.
 Up to that moment examples may be numerous, but they are still notable;
 after that moment it is the neglect that is notable.  That is
 the sort of moment, in every movement, at which Sir Julian Archer
@@ -5349,16 +5349,16 @@ every perilous emprise.
 Yet Sir Julian Archer was too vain not to be in a sense simple,
 and too simple not to be in a sense sincere.  Social changes
 of this sort are made possible among considerable masses
-of people, by two ironies of human nature.  The first is that
+of people, by two ironies of human [[Nature|nature]].  The first is that
 almost everyman's life has been sufficiently patchy and full
 of possibilities for him to remember _some_ movement of his
-own mind towards what has become the movement of the time.
+own mind towards what has become the movement of the [[Time|time]].
 The second is that he almost always makes a false picture of
-his past, and fosters a fictitious memory, whereby that detail
+his past, and fosters a fictitious [[Memory|memory]], whereby that detail
 seems in retrospect to dominate his career.
 
 Julian Archer (as has already been faithfully recorded)
-had written a long time ago a very boyish sort of a boy's adventure
+had written a long [[Time|time]] ago a very boyish sort of a boy's adventure
 story about the Battle of Agincourt.  It was only one of the
 multifarious and highly modern activities of his successful career:
 and had not been even one of the most successful.
@@ -5367,7 +5367,7 @@ more and more on his initiative in the matter.
 
 "They wouldn't listen to me," he said moodily shaking his head.
 "Doesn't do to be a bit too early in the field. . . .
-Of course, Herne's a well-read man; it's his business. . . .
+Of course, Herne's a [[Well|well]]-read man; it's his business. . . .
 I suppose he sees practically every book that comes out.
 Seems as if he had sense enough to take a hint, eh, what?"
 
@@ -5386,7 +5386,7 @@ He talked rather more about the great Primitives and less about
 the great Victorians.  But as he had so often in the past patronised
 Cimabue and said an encouraging word to Giotto and Botticelli,
 it was not difficult for him to persuade himself that he had been
-a prophet lifting up his voice in vain, and predicting the coming
+a [[Prophet|prophet]] lifting up his voice in vain, and predicting the coming
 of Mr. Herne as the Medieval Messiah.
 
 "My dear, sir," he would say confidentially, "the period
@@ -5397,39 +5397,39 @@ altogether fruitless . . . ahem . . . not altogether fruitless.
 The very patterns of their costumes would have perished;
 hardly a single picture from which they are taking their
 designs would have survived--but for my little protest.
-It shows what a word in time will do."
+It shows what a word in [[Time|time]] will do."
 
 Lord Seawood himself was affected in much the same way.
 Insensibly, he shifted the centre of gravity between his two hobbies.
 He talked a little more about his private hobby of heraldry.
 He talked a little less about his public hobby of Parliament.
-He insisted less on the greatness of Lord Palmerston and more
-on the greatness of the Black Prince, from whom the Seawood
+He insisted less on the [[Greatness|greatness]] of Lord Palmerston and more
+on the [[Greatness|greatness]] of the Black Prince, from whom the Seawood
 family claimed descent.  And in him also this touching belief
 grew silently in the shade; the sense that he had himself
-had a lot to do with the founding of the League of the Lion
-and the resurrection of Richard Coeur-de-Lion. He felt this
+had a lot to do with the founding of the League of the [[Lion]]
+and the [[Resurrection|resurrection]] of [[Richard]] Coeur-de-[[Lion]]. He felt this
 all the more vividly because of the institution of the Shield
-of Honour, which was one of the latest and proudest additions
+of [[Honour]], which was one of the latest and proudest additions
 to the scheme and had been inaugurated in his own park.
 
 In all this change of climate, Herne was himself unchanged.
 Like many idealists, he was of a type that would have been
 content in complete obscurity, but could not measure or realise
 the scope of complete fame.  If he could take one stride
-to the end of the park, he might as well take another stride
+to the end of the park, he might as [[Well|well]] take another stride
 to the end of the world.  He did not see the world to scale.
 He had forced all his commonplace companions back into their masquerade
-clothes and compelled them to play the masque until they died.
-By hanging on himself to his Robin Hood bow and boar spear,
+clothes and compelled them to play the [[Masque|masque]] until they died.
+By hanging on himself to his [[Robin Hood]] bow and boar spear,
 he had come to find himself not left behind by the company
-but marching in front of it.  The change from that loneliness
+but marching in front of it.  The change from that [[Loneliness|loneliness]]
 to that leadership did seem to him a thrilling and triumphal thing.
-But the change from the leadership of that house-party to the
+But the change from the leadership of that [[house]]-party to the
 leadership of all England hardly seemed to him a change at all.
-For indeed there was in that house-party one face that had fallen
+For indeed there was in that [[house]]-party one face that had fallen
 into the habit of watching for all changes, like the changes
-of sunset and dawn.
+of sunset and [[Dawn|dawn]].
 
 -^-
 
@@ -5440,17 +5440,17 @@ THE RETURN OF THE KNIGHT-ERRANT
 In the great General Election, which had been produced by the big
 menace of Braintree and his new Syndicalism, and which had led up
 to the launching of the movement in opposition to it, it was reported
-that Mr. Michael Herne had gone into a polling-booth to record
+that Mr. [[Michael]] Herne had gone into a polling-booth to record
 his vote; and had remained there for three-quarters of an hour,
-mysteriously occupied or possibly engaged in prayer.  He had apparently
+mysteriously occupied or possibly engaged in [[prayer]].  He had apparently
 never given a vote before; it not being a Palaeo-Hittite habit;
 but when it had been elaborately explained to him that he had
-only to make a cross on the piece of paper opposite the name
+only to make a [[Cross|cross]] on the piece of paper opposite the name
 of his favourite candidate, he seemed quite charmed and enchanted
-with the idea.  By this time, of course, his Palaeo-Hittite
+with the idea.  By this [[Time|time]], of course, his Palaeo-Hittite
 period had long become prehistoric and stratified in the past;
 and his later medieval enthusiasm devoured his days and nights.
-Nevertheless he could apparently spare a somewhat abnormal time for
+Nevertheless he could apparently spare a somewhat abnormal [[Time|time]] for
 the modern and rather mechanical process of voting; when he might have
 been engaged in drawing the long bow or tilting at a Saracen's head.
 Archer and his other colleagues became a little impatient, and not
@@ -5458,7 +5458,7 @@ a little mystified, by his mysterious immersion in the ballot box;
 they kicked their legs restlessly outside and eventually went inside,
 to see his tall and motionless back still immovable in its
 separate cell, as of a modern confessional.  They were at last
-goaded to the gross indelicacy of disturbing the Citizen when alone
+goaded to the gross indelicacy of disturbing the Citizen when [[Alone|alone]]
 with his Duty, by going up behind him and pulling his coat-tails.
 As this had no particular effect, they committed the anarchical
 and anti-democratic outrage of actually looking over his shoulder.
@@ -5466,10 +5466,10 @@ They found that he had set out on the little shelf, as on a table,
 all the illumination paints (presumably borrowed from Miss Ashley),
 paints of gold and silver and all the colours of the rainbow.
 With these he was engaged in doing his democratic duty with almost
-a painful care and patience.  He had been told to make a cross and
-he was making a cross.  He was doing it as it would have been done
+a painful care and patience.  He had been told to make a [[Cross|cross]] and
+he was making a [[Cross|cross]].  He was doing it as it would have been done
 by a monk in the Dark Ages; that is in very gay and glorified colours.
-The cross was of gold, in one corner of it were three blue birds,
+The [[Cross|cross]] was of gold, in one corner of it were three blue [[Birds|birds]],
 in another corner were three red fishes, in another plants,
 in another planets and so on; it seemed to be planned upon the scheme
 of the Canticle of the Creature of St. Francis of Assisi.
@@ -5481,8 +5481,8 @@ a ballot paper.
 
 Outside in the street, however, there were a good many people who
 thought that even the usual hasty scratch on the ballot paper was
-almost as much of a waste of time as Mr. Herne's elaborate ritual.
-It was the paradox of that particular General Election that it was a great
+almost as much of a waste of [[Time|time]] as Mr. Herne's elaborate ritual.
+It was the [[Paradox|paradox]] of that particular General Election that it was a great
 crisis because another thing was much greater; and it was intensely
 exciting because people were excited about something else.  It was
 rather like one of the elections that take place during a great war.
@@ -5502,29 +5502,29 @@ ejaculated sharp and even shrill protests.
 At the very moment when Herne was medievally occupied in the monastic cell
 of the polling-station, Braintree was filling the market-place of Milldyke
 with his thunderous voice in the most sensational speech of his career.
-It was sensational in substance as well as in style.  He no longer, as in
-the first stages of this history, demanded what he called Recognition.
+It was sensational in substance as [[Well|well]] as in style.  He no longer, as in
+the first stages of this [[history]], demanded what he called Recognition.
 He demanded Control.
 
 "Your masters tell you," he said, "that you are greedy materialists
 grown accustomed to clamour for more wages.  They are right.
 Your masters tell you that you lack ideals and do not understand
-ambition and the instinct to govern.  They are right.
+[[Ambition|ambition]] and the instinct to govern.  They are right.
 They imply that you are slaves and beasts of burden, in so far
 as you would only eat up stores and escape responsibility.
 They are right.  They are right so long as you are content to ask
-only for wages, only for food, only for well-paid service.
+only for wages, only for food, only for [[Well|well]]-paid service.
 But let us show our masters that we have profited
 by the moral lessons they are so good as to give us.
 Let us return to them penitent; let us tell them we mean to amend
 our faults of petty stipulation and merely materialistic demand.
-Let us tell them that we have an ambition; and it is to rule.
+Let us tell them that we have an [[Ambition|ambition]]; and it is to rule.
 That we have an ideal; and it is to rule equally.
 That we have a hunger and a high thirst for responsibility;
 for the glorious and joyous responsibility of ruling
 what they misrule, of managing what they have mismanaged,
 of sharing among ourselves as workers and comrades that direct
-and democratic government of our own industry which was
+and democratic [[government]] of our own industry which was
 hitherto served to keep a few parasites in luxury in their
 palaces and parks."
 
@@ -5549,37 +5549,37 @@ the one a defiant answer to the other.  On the Tuesday the news
 was brought to Herne that Braintree had been elected by a huge
 and howling Labour majority.
 
-And on the Thursday was received by that abstracted mind, blind with
+And on the [[thursday|Thursday]] was received by that abstracted mind, blind with
 inner light, the shout and scurry and acclamation which announced
 that he himself had been chosen by the Orders and Electoral Colleges,
-as King-at-Arms over the whole world of the West Country.
+as [[King]]-at-Arms over the whole world of the West Country.
 It was in a sort of waking dream that he was escorted to a
 high throne set upon that green plateau of Seawood Park.
-On one side of the new King stood Rosamund Severne, Dame of
-some new degree and holding the Shield of Honour, shaped like
-a heart and blazoned with the lion, which was to be given
+On one side of the new [[King]] stood Rosamund Severne, Dame of
+some new degree and holding the Shield of [[Honour]], shaped like
+a heart and blazoned with the [[Lion|lion]], which was to be given
 to the best knight who had achieved the boldest adventure.
 She looked very statuesque; and few could have guessed
 how energetically she flew round in preparing the ceremony;
 or how very like it was to her way of preparing the theatricals.
 On the left stood her friend, the young squire and explorer,
 whom she had once introduced to Braintree, looking very serious indeed;
-for he had passed the point of self-consciousness and felt his
+for he had passed the point of [[Self|self]]-consciousness and felt his
 heraldic uniform as natural as that of the Scots Grey.  He held
-what was called the Sword of St. George, with the cross-hilt upwards;
-for Michael had said, in one of his mystical fragments,
-"A man never deserves a sword until he can hold it by the blade.
-His hand may bleed; but it is then that he sees the Cross."
+what was called the [[Sword]] of St. George, with the [[Cross|cross]]-hilt upwards;
+for [[Michael]] had said, in one of his mystical fragments,
+"A man never deserves a [[Sword|sword]] until he can hold it by the blade.
+His hand may bleed; but it is then that he sees the [[Cross]]."
 But Herne sat on his high throne above all the coloured crowd,
 and his eyes seemed to inhabit the horizons and the high places.
 So have many fanatics ridden high on clouds over scenes
 as preposterous; so Robespierre walked in his blue coat at the Feast
 of the Supreme Being.  Lord Eden caught sight of those clear eyes,
 like still and shining pools, and muttered:  "The man is mad.
-It is dangerous for unbalanced men when their dreams come true.
-But the madness of a man may be the sanity of a society."
+It is dangerous for unbalanced men when their [[Dreams|dreams]] come true.
+But the [[Madness|madness]] of a man may be the [[Sanity|sanity]] of a society."
 
-"Well!" cried Julian Archer, slapping his sword-hilt with that air
+"[[Well]]!" cried Julian Archer, slapping his [[Sword|sword]]-hilt with that air
 of answering for everybody that was so hearty and refreshing.
 "It's been a great day and the world will hear of it.
 The people round here will find we've really got to work.
@@ -5587,7 +5587,7 @@ This is the sort of thing that will hunt out Braintree and all
 his rabble of ragamuffins and make them run like rats."
 
 Rosamund was still rather like a smiling statue; but Olive
-standing behind her had seemed as dark as her shadow.
+standing behind her had seemed as dark as her [[Shadow|shadow]].
 Now Olive suddenly spoke and her clear voice rang like steel.
 
 "He is not a ragamuffin," she said.  "He is an engineer;
@@ -5595,37 +5595,37 @@ and knows a lot more than you do.  What are most of you,
 if it comes to that?  An engineer is as good as a librarian.
 I should think."
 
-There was a deathly silence; and Archer, with a helpless gesture,
+There was a deathly [[Silence|silence]]; and Archer, with a helpless gesture,
 looked upwards, as if the sky would crack at the blasphemy;
 but most of the ladies and gentlemen looked downwards, at their pointed
 medieval shoes; for they realised that it was worse than blasphemy;
 it was certainly, under the circumstances, exceedingly bad taste.
 
 But though the groups had begun to break up and mingle,
-the King-at-Arms had not yet left his throne; as they were
+the [[King]]-at-Arms had not yet left his throne; as they were
 soon to find, in more ways than one.  He took no more notice
 of the woman who had just insulted him than if she had not
 been there; but he suddenly bent his brows upon Julian Archer;
 and a sort of subconscious thrill told everybody that in one
 mind at least the royalty was a reality.
 
-"Sir Julian," said the King-at-Arms sternly, "I think you have
+"Sir Julian," said the [[King]]-at-Arms sternly, "I think you have
 read your books of venery very wrongly.  You do not seem to know
 that we are back in braver and better days and have left behind
-the time when gentlemen could swagger about hunting vermin.
+the [[Time|time]] when gentlemen could swagger about hunting vermin.
 Ours is the spirit of the ages when royal beasts could turn
 to bay and slay the hunters; the great boar and the noble stag.
 We are of the world that could respect its enemies;
 yes, even when they were beasts.  I know John Braintree;
 and there never was a braver man walking this world.  Shall we
-fight for our faith and sneer at him because he fights for his?
+fight for our [[Faith|faith]] and sneer at him because he fights for his?
 Go and kill him if you dare; but if he should kill you,
-you will be as much honoured in your death as you are now
+you will be as much honoured in your [[Death|death]] as you are now
 dishonoured by your tongue."
 
 For one instant the impression, or illusion, was stunning and complete.
 He had spoken spontaneously and simply out of himself; but it might
-have been a reincarnation.  So exactly might Richard the Lion Heart
+have been a reincarnation.  So exactly might [[Richard]] the [[Lion]] Heart
 have spoken to a courtier who imputed cowardice to Saladin.
 
 But in that still crowd there was a change that might
@@ -5637,9 +5637,9 @@ and a sort of cry, that was half a gasp, was rent out of her.
 
 And from that moment she moved lightly in the coloured procession,
 as if a load had been lifted off her.  She seemed to wake up
-for the first time to all that decorative dance, that was so near
-to her old dreams and take her part in it without further doubt
-or distress.  Her dark eyes were shining, as at a memory.
+for the first [[Time|time]] to all that decorative [[Dance|dance]], that was so near
+to her old [[Dreams|dreams]] and take her part in it without further [[Doubt|doubt]]
+or distress.  Her dark eyes were shining, as at a [[Memory|memory]].
 A little later in the proceedings she found herself talking
 to Rosamund.  She lowered her voice and said almost like one
 telling a secret:--"He really means it!  He really understands.
@@ -5653,35 +5653,35 @@ after the eternal talking at large of Monkey and Julian
 and the rest.  Besides, he's quite right to believe in it.
 What business has anybody to laugh at it?  Beautiful dresses
 are not half so laughable as ugly dresses.  We ought to have been
-doubled up with laughter day and night in the days when men
+doubled up with laughter day and [[Night|night]] in the days when men
 wore trousers."  And she continued to pour out her defence,
 with all the passion with which a practical young woman,
 repeats the opinions of somebody else.
 
-But Olive was looking from the high lawn up the long white road
+But Olive was looking from the high lawn up the long white [[Road|road]]
 that wandered away to the sunset and seemed to melt its silver
 in that copper and gold.
 
-"They asked me once," she said, "whether I thought King Arthur
+"They asked me once," she said, "whether I thought [[King Arthur]]
 would return.  On an evening like this . . . can't you
 imagine the culmination coming, and our seeing some knight
-of the Round Table pricking along the road, ever so far away,
-bringing us a message from the King."
+of the Round Table pricking along the [[Road|road]], ever so far away,
+bringing us a message from the [[King]]."
 
-"Well, it's jolly queer you should say that," said the more
+"[[Well]], it's jolly queer you should say that," said the more
 practical Rosamund, "because there really is somebody coming along;
-and I believe he's on a horse, too."
+and I believe he's on a [[Horse|horse]], too."
 
-"He seems to be behind a horse," said Olive in a low voice.
+"He seems to be behind a [[Horse|horse]]," said Olive in a low voice.
 "That low sun dazzles my eyes. . . . Can it be a Roman chariot?
-I suppose Arthur would _really_ be a Roman?"
+I suppose [[arthur|Arthur]] would _really_ be a Roman?"
 
 "It's a very queer shape," said Rosamund; and her voice also had altered.
 
-The knight-errant from King Arthur's Court certainly was a
+The knight-errant from [[King Arthur]]'s [[Court]] certainly was a
 very queer shape; for as the equipage came nearer and nearer,
 it took on to the amazed eyes of the medieval crowd the appearance
-of a dilapidated hansom cab, surmounted by a cabman in a dilapidated
+of a dilapidated hansom cab, surmounted by a [[cabman]] in a dilapidated
 top-hat. He removed his battered headgear with a polite salutation
 and revealed the unpretentious features of Douglas Murrel.
 
@@ -5702,21 +5702,21 @@ from the top of the cab), had the curious sensation of seeing
 somebody dressed in the quaint costume of a by-gone age.
 In fact, they had very much the same feelings which he himself
 had had when he first saw the hansom cab; though hansom cabs
-had only recently begun to dwindle and disappear in London.
+had only recently begun to dwindle and disappear in [[London]].
 So rapidly does human fashion harden and people become accustomed
 to a new environment.
 
-"Monkey!" gasped Olive.  "Where on earth have you been all this time?
+"Monkey!" gasped Olive.  "Where on earth have you been all this [[Time|time]]?
 Haven't you heard anything about anything?"
 
 "I had to poke about a little bit to find the paints,"
 said Murrel modestly, "and since I bought the cab I've been
-giving people rides on the road.  But I've got it anyhow."
+giving people rides on the [[Road|road]].  But I've got it anyhow."
 
-Then for the first time he seemed to think it necessary to notice
+Then for the first [[Time|time]] he seemed to think it necessary to notice
 the singular scene that surrounded him; though the contrast was
 as great as if he had fallen out of another world and appeared
-in the ancient setting like the Yankee at the Court of King Arthur;
+in the ancient setting like the Yankee at the [[Court]] of [[King Arthur]];
 if anybody so very English as he was could ever be compared
 with a Yankee.
 
@@ -5734,7 +5734,7 @@ They told me he was coming--and I'd rather like to see him."
 
 "Oh, I can't tell it all in a minute," she exclaimed, almost impatiently.
 "Don't you know there isn't a Prime Minister now; not of that sort?
-The King-at-Arms is managing everything round here."
+The [[King]]-at-Arms is managing everything round here."
 
 And she gestured rather desperately towards that potentate, who was still
 sitting on his high seat; probably because he had forgotten to come down.
@@ -5750,24 +5750,24 @@ with one hand, and he turned towards the throne with a very proper
 air of apology.
 
 "Pardon me, Your Majesty," he said.  "May my family have the ancient
-and ancestral privilege of wearing its hat at Court?  I feel
+and ancestral privilege of wearing its hat at [[Court]]?  I feel
 sure something of that sort must have been given to us after
 we tried unsuccessfully to rescue the Princes in the Tower.
 You see, it's so awkward holding a hat; but I have a great
 affection for this hat."
 
-If he expected to see any gleam of answering humour in the face
-of the fanatic above him, he was disappointed; but the King-at-Arms
+If he expected to see any gleam of answering [[Humour|humour]] in the face
+of the fanatic above him, he was disappointed; but the [[King]]-at-Arms
 said with perfect gravity:  "Most certainly be covered.
 It is only the intention in courtesy that counts.
-I doubt whether those who had such privileges really insisted
-on them; I seem to remember a King who said, very rightly,
+I [[Doubt|doubt]] whether those who had such privileges really insisted
+on them; I seem to remember a [[King]] who said, very rightly,
 to such a privileged lord, 'You have the right to wear your hat
 before me, but not before the ladies.'  In the same spirit, where
 (as in this case) the purpose is actually to oblige a lady,
 the form is obviously dispensed with."
 
-And he looked round in a reasonable manner, as if his logic had surely
+And he looked round in a reasonable manner, as if his [[logic]] had surely
 satisfied everybody as it satisfied him, and Douglas Murrel solemnly
 put on his hat and proceeded to take a prodigious number of wrappings
 off the parcel.
@@ -5776,16 +5776,16 @@ When it eventually emerged, it was a cylindrical glass jar or bottle,
 extremely dirty, with indistinguishable inscriptions and ornaments;
 but when he handed it to Olive, he saw that his search had not been
 a futile one.  There is no explaining how the mere shape and detail
-of things lost in childhood can startle and stab the emotions;
+of things lost in [[Childhood|childhood]] can startle and stab the emotions;
 but when she saw the shape of that obsolete pot of paint, with its
 large stopper and the faded trade mark of decorative fishes upon it,
-her eyes were stung with tears so that she herself was startled by them.
+her eyes were stung with [[Tears|tears]] so that she herself was startled by them.
 It was as if she had suddenly heard the voice of her father.
 
 "How on earth did you find this?" she cried, in a very
 contradictory fashion; since she had only intended him to look
 for it, at the most, in the nearest shop in the nearest town.
-But that cry alone revealed the subconscious pessimism that had
+But that cry [[Alone|alone]] revealed the subconscious pessimism that had
 underlain all her archeological affections; she had not believed
 that any of the dead things that she desired could return.
 When she saw this one, it crowned and completed that restoration
@@ -5794,9 +5794,9 @@ Both these things somehow rang with reality.  All the costumes
 and ceremonials that had been restored might after all be,
 as Murrel had suggested, a mere continuation of the play-acting.
 But Hendry's Illumination Paints were a real thing; as real
-as a wooden doll loved in the nursery or lost in the garden.
-After that moment she never had a doubt about her side in
-the great debate.
+as a wooden doll loved in the nursery or lost in the [[Garden|garden]].
+After that moment she never had a [[Doubt|doubt]] about her side in
+the great [[debate]].
 
 Few indeed, however, in that coloured crowd were likely
 to share Miss Ashley's emotions about the parcel.  Nobody else
@@ -5810,49 +5810,49 @@ draperies and their eyes to the colours of gayer crowds.
 They no longer thought so much that their own dress was picturesque;
 they merely thought that his dress was out of the picture.
 He was not only a blot on the landscape but a block in the traffic.
-He patted his horse in an affectionate manner, and that queer
-prehistoric monster seemed even to make uncouth movements
+He patted his [[Horse|horse]] in an affectionate manner, and that queer
+prehistoric [[Monster|monster]] seemed even to make uncouth movements
 as if returning his affection.
 
 "Odd thing is," said Archer in his confidential, emphatic style
-to the young squire who carried the sword, "Odd thing is he can't
+to the young squire who carried the [[Sword|sword]], "Odd thing is he can't
 _see_ he's out of it.  Always so difficult to manage fellows
 who can't _see_ when they're out of it."
 
-He relapsed into gloomy silence, and in company with all his associates,
+He relapsed into gloomy [[Silence|silence]], and in company with all his associates,
 settled down to listen rather nervously to a dialogue that had
 already begun between the newcomer and the potentate on the throne.
 They had some cause for feeling nervous; sensible as they were
 of how this preposterous procession out of a three-act farce
-must have sprawled across the vision of the visionary king.
+must have sprawled across the vision of the visionary [[King|king]].
 It was all the more alarming when the incongruous Murrel insisted
 on addressing the throne with a somewhat burlesque civility,
 but with an apparent pertinacity of intention.  He seemed to be appealing
-to the King-at-Arms, since that person now discharged the functions
+to the [[King]]-at-Arms, since that person now discharged the functions
 both of Prime Minister and Lord of the Manor, about the details
 of his own recent adventures; those wanderings on the borderland
 of things where he had come upon the ruins of a hansom cab.
 Archer heard his polite impertinencies gradually linking
 themselves up into a long soliloquy.  He might really have been
-a traveller telling his travels at the court of some fabled king.
+a traveller telling his travels at the [[Court|court]] of some fabled [[King|king]].
 But when Archer began to listen a little wearily to what the
 experiences were, he lost all such romantic illusions about them.
 Monkey was certainly telling a story; a long story; and a damned
 silly story, Archer thought.
 
 At first he had gone to a shop.  Then he had gone to another shop;
-or another part of the same shop.  Then he had gone to a public-house.
-So like Monkey to turn up sooner or later at a public-house,
+or another part of the same shop.  Then he had gone to a public-[[house]].
+So like Monkey to turn up sooner or later at a public-[[house]],
 and you bet sooner rather than later; as if a gentleman
 couldn't have anything he wanted sent quietly to his rooms.
-Then followed long confusing conversations at the public-house,
-including an imitation of a superior barmaid; most unsuitable
+Then followed long confusing conversations at the public-[[house]],
+including an [[Imitation|imitation]] of a superior barmaid; most unsuitable
 on such an occasion.  Then he seemed to have gone for a walk,
-lord knows where, and talked to a cabman, lord knows why.
+lord knows where, and talked to a [[cabman]], lord knows why.
 Then he went to some slum or other in a seaside town and got into
 trouble with the police.  Everybody knew of course that Monkey was
 fond of practical jokes; but to do him justice, he hadn't generally
-bored you with them afterwards, let alone at this length.  He seemed
+bored you with them afterwards, let [[Alone|alone]] at this length.  He seemed
 to have played a trick on some doctor in charge of some lunatic,
 so that they didn't lock up the lunatic but only the doctor.
 Pity they hadn't split the difference and locked up Monkey.
@@ -5864,14 +5864,14 @@ and of course that might explain it all, even with a chap
 like Monkey, who always played at being the wild bachelor.
 But why in the devil was he pouring it all out _now,_ when they
 were just going to begin the regular formalities of the Shield
-and Sword?  And why was the King-at-Arms listening in that style,
+and [[Sword]]?  And why was the [[King]]-at-Arms listening in that style,
 so steady and almost stony?  Perhaps he was frozen with rage.
-Perhaps he had gone to sleep.
+Perhaps he had gone to [[Sleep|sleep]].
 
-Most of the company indeed, including the young man with the sword,
+Most of the company indeed, including the young man with the [[Sword|sword]],
 were not quite so sensitive as Mr. Archer about the tone,
 the really right and very best tone, suitable to social occasions.
-They were not so vexed as was that artist in life at the discord
+They were not so vexed as was that [[Artist|artist]] in life at the discord
 or the Monkey monologue.  But they were no more favourably, or at
 least no more seriously impressed.  Some of them began to smile,
 a few to laugh; though they had a certain air of doing it decorously,
@@ -5879,7 +5879,7 @@ as if they were laughing in church.  Nobody had the least notion of what
 Murrel was talking about, or at any rate why he was talking about it.
 But those who knew him best were a little puzzled by the eager
 exactitude with which he was telling his long-winded story.
-And all the time the King-at-Arms sat as motionless as a statue and
+And all the [[Time|time]] the [[King]]-at-Arms sat as motionless as a statue and
 nobody knew whether he was mortally offended or merely stone deaf.
 
 "You see," Murrel was concluding in an easy and confidential style,
@@ -5896,9 +5896,9 @@ they stuffed the stinker into a padded cell or not; but I don't
 believe they did, because I tipped them the wink afterwards.
 And then I did a bunk before the bobby could get a move on;
 and came away on the cab, which runs faster than a bobby does anyhow.
-And there you are.  There, so to speak, you bally well are."
+And there you are.  There, so to speak, you bally [[Well|well]] are."
 
-This peroration also fell into an abyss of silence; but after the silence
+This peroration also fell into an abyss of [[Silence|silence]]; but after the [[Silence|silence]]
 had lasted for a few moments that seemed eternal, some of the more anxious
 and watchful of the crowd perceived that the statue upon the throne
 had moved.  It was already almost as if a real statue had moved.
@@ -5922,7 +5922,7 @@ But there he had been supported by a movement in the whole social
 world around him; not to mention the daughter of a nobleman.
 He found considerably more difficulty in adapting his medieval dress
 yet more abruptly to the atmosphere of the hat and the hansom cab.
-But when Michael Herne suddenly stood up in his high place and
+But when [[Michael]] Herne suddenly stood up in his high place and
 began to talk, in a sort of stern and breathless style, he could
 not take the last leap of logical or illogical connection at all.
 He seemed to have come into a nonsense world in which events occurred
@@ -5931,12 +5931,12 @@ except that Herne was in a towering passion about something.
 Any fellow might be justified, of course, in being in a
 towering passion when confronted with a hat like that.
 But the hat had been blighting the landscape for quite a long
-time without the King-at-Arms taking any official notice of it;
+[[Time|time]] without the [[King]]-at-Arms taking any official notice of it;
 and now they seemed to have got on to something quite different.
 He could not in the least understand what Herne was talking about.
 He seemed to be telling a story.  He was telling it
 in a strange sort of way; stiff and yet straightforward;
-somehow as if it were out of the Bible and all that sort of thing.
+somehow as if it were out of the [[Bible]] and all that sort of thing.
 Nobody could possibly have supposed that it was the same story
 that Douglas Murrel had told.  Anyhow, it was not the same story
 that Julian Archer had heard.
@@ -5948,7 +5948,7 @@ But Archer could make nothing out of it, except that it was a
 story about an old man who had a daughter; and how she followed
 him faithfully in his wanderings, when he had been robbed
 by thieves and fallen on evil days.  Archer saw as in a vision
-the hard illustrations of an Early Victorian Sunday School story,
+the hard illustrations of an Early Victorian [[Sunday]] School story,
 with a very dowdy daughter and an old man with a long grey beard.
 They had nothing but each other; they were forgotten by the world:
 they stood in no man's way; they threatened nothing and provoked nobody.
@@ -5959,38 +5959,38 @@ animal and dragged him away as if he were already a corpse.
 They cared nothing for the tragic virtues on which they trampled;
 or that unbroken lily of loyalty which they stamped into the mire.
 
-"You," cried the King-at-Arms indignantly to all his enemies
+"You," cried the [[King]]-at-Arms indignantly to all his enemies
 who were not there, "You who talk of our rebuilding the ruins
 of tyranny or bringing back the barbarian crowns of gold!
 Is it written of kings that they did these things?  Is it written
-even of tyrants?  Was a tale like this told of King Richard?  Was it
-told even of King John?  You know the worst that can be said of
+even of tyrants?  Was a tale like this told of [[King]] [[Richard]]?  Was it
+told even of [[King John]]?  You know the worst that can be said of
 the wildest that the feudal world could do; it is you who say it.
-You know what John Lackland is in all your popular history
+You know what John Lackland is in all your popular [[history]]
 taken from Ivanhoe and penny dreadfuls.  John is the traitor;
-John is the tyrant; John is the universal criminal; and what
+John is the [[Tyrant|tyrant]]; John is the universal criminal; and what
 are the crimes of John?  That he murdered a royal prince.
-That he broke faith with an aristocracy of nobles.
+That he broke [[Faith|faith]] with an aristocracy of nobles.
 That he took away a tooth from one wealthy Jewish banker;
 possibly it was stopped with gold, hence the outcry!
-That he attacked the King his father or supplanted the King
+That he attacked the [[King]] his father or supplanted the [[King]]
 his brother.  Ah, it was dangerous to stand high in those days!
 It was dangerous to be a prince, to be a noble, to be
-near to the walking whirlwind of the wrath of the King.
+near to the walking whirlwind of the wrath of the [[King]].
 He that went into the palace often carried his life in his hands;
-he was entering the cave of the lion, if it was the cave of the
-Lion Heart.  It was unfortunate to be rich and rouse royal envy.
+he was entering the [[Cave|cave]] of the [[Lion|lion]], if it was the [[Cave|cave]] of the
+[[Lion]] Heart.  It was unfortunate to be rich and rouse royal envy.
 It was unfortunate to be powerful.  It was unfortunate
 to be fortunate.
 
-"But when was it spoken of the tyrant, of the mighty hunter
+"But when was it spoken of the [[Tyrant|tyrant]], of the mighty hunter
 before the Lord or the Devil, that he stayed his hunting to turn
-over a stone to steal the eggs of insects or poked in a pool to
+over a stone to steal the eggs of [[Insects|insects]] or poked in a pool to
 separate the tadpole from the frog?  When did he have that minute
 and microscopic malice that could leave nothing untormented,
 that could hate the helpless more than the proud, that could
-cover the land with spies to spoil the love-stories of serfs
-or mobilise an army to carry off an old beggar from his child?
+cover the land with spies to spoil the [[Love|love]]-stories of serfs
+or mobilise an army to carry off an old beggar from his [[Child|child]]?
 The kings rode by and hurled such beggars a curse or a coin;
 they did not stop laboriously to dismember their little
 families limb by limb; that the human heart that feeds on
@@ -5999,18 +5999,18 @@ There were good kings who waited upon the beggars
 like servants; yes, even when the beggars were lepers.
 There were bad kings who would have spurned the beggars
 and ridden on, and then probably remembered it with terror
-in the hour of death and left money for masses and charities.
+in the hour of [[Death|death]] and left money for masses and charities.
 But they did not chain up a medieval old man merely for his blindness,
 as they chained up the modern old man merely for his theory
 about colour-blindness. And this is the sort of spider's web
 of worry and misery you have spread over all the unfortunate
 mass of mankind, because, heaven help us, you are too humane,
 you are too liberal, you are too philanthropic to endure human
-government and the name of a king.
+[[government]] and the name of a [[King|king]].
 
 "Do you blame us if we have dreamed of a return to simpler things?
 Do you blame us if we sometimes fancy that a man might not do what all
-this machinery is doing, if once he were a man and no longer a machine?
+this machinery is doing, if once he were a man and no longer a [[Machine|machine]]?
 And what is marching against us to-day except machinery?
 What has Braintree to tell us to-day except that we are
 sentimentalists ignorant of science, of social science,
@@ -6019,23 +6019,23 @@ of such science as dragged that old man like a leper from all he loved?
 Let us tell John Braintree that we are not ignorant of science.
 Let us tell John Braintree that we know too much about science already.
 Let us tell John Braintree to his teeth that we have had enough
-of science, enough of enlightenment, enough of education,
+of science, enough of enlightenment, enough of [[Education|education]],
 enough of all his social order with its mantrap of machinery and
-its death-ray of knowledge.  Take this message to John Braintree;
+its [[Death|death]]-ray of knowledge.  Take this message to John Braintree;
 all things come to an end and these things are ended.  For us there
 can be no end but the beginning.  In the morning of the world,
-in the Assembly of the Knights, in the house, among the greenwoods
+in the Assembly of the Knights, in the [[house]], among the greenwoods
 of Merry England, in Camelot of the Western Shires, I give the shield
 to the one man who has done the one deed of all our days worth doing;
 who has avenged one wrong upon at least one ruffian and saved
 a woman in distress."
 
 He stooped from his throne with a swift movement and took
-the great sword from the man below; lifted and shook it
-so that it seemed to flame like the sword of St. Michael.
+the great [[Sword|sword]] from the man below; lifted and shook it
+so that it seemed to flame like the [[Sword|sword]] of St. [[Michael]].
 And then there sounded over all that staring crowd the ancient
 words that accompany the Accollade and dedicate a man to God
-and the cause of the widow and orphan.
+and the cause of the widow and [[Orphan|orphan]].
 
 -^-
 
@@ -6045,7 +6045,7 @@ THE PARTING OF THE WAYS
 
 Olive Ashley came away from the scene of the indignant
 oration looking even paler than usual; nor was she only pale
-with excitement, but also with a sort of self-inflicted pain.
+with excitement, but also with a sort of [[Self|self]]-inflicted [[Pain|pain]].
 She seemed to have come suddenly to the end and edge of something;
 to a challenge and a choice.  She was one of those women
 who cannot be stopped from hurting themselves, when once
@@ -6064,28 +6064,28 @@ it was plain morals.  If the new national cause had really
 been only an antiquarian antic, or a heraldic show, or even
 a sentimental reaction such as she might once have dreamed of,
 she could have brought herself easily to leave it.
-But now with her whole brain and conscience she was convinced
-that it would be like deserting the flag in a great war.
+But now with her whole brain and [[Conscience|conscience]] she was convinced
+that it would be like deserting the [[Flag|flag]] in a great war.
 Her conviction had been finally clinched by the denunciation
 of Hendry's oppressors in human and moving terms; the cause
 was the cause of her father's old friend and of her father.
 But it is an ironical fact that what had most convinced her
-of the justice of Braintree's great enemy had been the truth
+of the justice of Braintree's great enemy had been the [[Truth|truth]]
 of his tribute to Braintree.  Without a word to anyone,
-she went out of the main gateway and took the road to the town.
+she went out of the main gateway and took the [[Road|road]] to the town.
 
 As Olive walked slowly through the dreary suburbs to the even darker
 central places of the town of the factories, she became conscious that she
 had crossed a frontier and was walking in a world she did not know.
 Of course she had been in such towns a thousand times, and even in that
 particular town often enough; as it was the nearest town to Seawood Abbey
-and the house of her friend.  But the frontier she had passed was not
-so much of space as of time; or perhaps not of space but of spirit.
+and the [[house]] of her friend.  But the frontier she had passed was not
+so much of space as of [[Time|time]]; or perhaps not of space but of spirit.
 Like somebody discovering a new dimension, she realised that there was,
-and had been all the time, another world beside her own world,
+and had been all the [[Time|time]], another world beside her own world,
 a world of which she had heard nothing; nothing from the newspapers;
 nothing from the politicians, even when they were talking after dinner.
-The paradox was that the papers and politicians were never so silent
+The [[Paradox|paradox]] was that the papers and politicians were never so silent
 about it as when they were supposed to be talking about it.
 
 The great Strike that had begun far away in the mines had been
@@ -6095,7 +6095,7 @@ but determined group of Communists among the strikers.
 But it was not its being a revolution that surprised or puzzled her.
 It was rather that it was unlike anything she had ever associated
 with the word.  She had seen silly films and melodramas about the
-French Revolution and imagined that a popular rising must be a mob,
+[[French Revolution]] and imagined that a popular rising must be a mob,
 and that a mob must be a mob of half-naked and howling demons.
 She had known this thing in front of her described as much fiercer
 than it was and much milder than it was; described by one sort
@@ -6112,15 +6112,15 @@ and the Board of Trade and tiresome things of that sort--
 there were those things and everything else was Revolution.
 But as she passed first through the groups in the groups in the street,
 and then through the groups in the outer offices of official buildings,
-there dawned on her a truth quite different.
+there dawned on her a [[Truth|truth]] quite different.
 
 There was a Prime Minister she had never heard of; and he was
 a man she knew.  There was a Parliament she had never heard of;
 and he had just swayed it with an historic speech that would never go
-down to history.  There was a Board of Trade she had never heard of;
+down to [[history]].  There was a Board of Trade she had never heard of;
 a Board that really met and had a great deal more to say
-about Trade.  There were Government Departments quite outside
-the Government; Government Departments quite against the Government.
+about Trade.  There were [[government|Government]] Departments quite outside
+the [[government|Government]]; [[government|Government]] Departments quite against the [[government|Government]].
 There was a bureaucracy; there was a hierarchy; there was an army.
 It had the qualities and defects of such systems; but it was
 not in the least like the frightful French mob on the film.
@@ -6131,19 +6131,19 @@ of one other who had been capriciously picked out by the papers
 from all the rest and caricatured as a sort of raging buffoon.
 But the statesmen of this buried state were spoken of with
 an air of calm familiarity, that made her feel as if she had
-fallen from the moon.  Jimson was right after all and though
-Hutchins had done good work in his time, he was wrong now.
+fallen from the [[Moon|moon]].  Jimson was right after all and though
+Hutchins had done good work in his [[Time|time]], he was wrong now.
 They mustn't always let Ned Bruce talk them round.
 Now and then Braintree was mentioned as the chief leader,
 and not unfrequently criticised, which annoyed her a
 good deal; she was a little thrilled when he was praised.
 Hatton, the man who had been caricatured so often in the papers
-as the fire-brand of Red Revolution, was a good deal blamed
+as the [[Fire|fire]]-brand of Red Revolution, was a good deal blamed
 for his extreme caution and consideration for the employers.
 Some even said he was in the pay of the capitalists.
 
 For never in any newspaper or book or magazine of modern England had
-anything remotely resembling a History of the Trade Union Movement
+anything remotely resembling a [[history|History]] of the Trade [[Union]] Movement
 come the way of an intelligent and educated English lady
 like Olive Ashley.  The whole of that huge historical change
 had happened, so far as she was concerned behind a curtain;
@@ -6164,8 +6164,8 @@ Had she known more of popular life, she would have understood
 the menacing meaning of the presence of these very sleepy and
 amiable poor Englishmen amid those sullen groups in the streets.
 But the next moment she had forgotten all about them.
-She had only succeeded in penetrating into an outer court of the temple
-of officialism (it was very like waiting in a Government office)
+She had only succeeded in penetrating into an outer [[Court|court]] of the temple
+of officialism (it was very like waiting in a [[government|Government]] office)
 when she heard Braintree's voice outside in the corridor and he came
 rapidly into the room.
 
@@ -6185,7 +6185,7 @@ an unnatural simplicity.
 
 "What can I say?" she said.  "I believe now that we must part."
 
-So, for the first time, it was really admitted between them that they
+So, for the first [[Time|time]], it was really admitted between them that they
 had come together.
 
 There is a great deal of fallacy and folly about the ordinary
@@ -6197,7 +6197,7 @@ in talking about themselves.  But people tell a great deal
 so long as they talk about everything except themselves.
 These two had talked so often and so long about all the things
 that they cared for so much less than for each other,
-that they had come to an almost uncanny omniscience, and could
+that they had come to an almost [[Uncanny|uncanny]] omniscience, and could
 sometimes have deduced what one or the other thought about
 cookery from remarks about Confucius.  And, therefore, at this
 unprepared and apparently pointless crisis, they talked
@@ -6217,11 +6217,11 @@ I suppose God does belong to you, like so many other good things?"
 "And yet I suppose there is something in one's mind one cannot
 give up to anybody."
 
-"If I did not love you I could lie," he said; and again neither
-of them noticed that a word had been said for the first time.
+"If I did not [[Love|love]] you I could lie," he said; and again neither
+of them noticed that a word had been said for the first [[Time|time]].
 "God, what a gorgeous feast of lying I could have just now,
 explaining how much you mystified me by your incomprehensible attitude;
-and what had I done to forfeit our beautiful intellectual friendship;
+and what had I done to forfeit our beautiful intellectual [[Friendship|friendship]];
 and had I not at least a right to an explanation;
 and all the rest.  Lord, if I were only a real politician!
 It takes a real politician to say that politics do not matter.
@@ -6234,7 +6234,7 @@ destroy that essential good feeling--oh, hell and the devil
 and all the dung-heaps of the world!  I know what we mean.
 You and I are people who cannot help caring about right and wrong."
 
-Then after a long silence he said:  "I suppose you believe in Herne
+Then after a long [[Silence|silence]] he said:  "I suppose you believe in Herne
 and all his revival of chivalry?  I suppose you really believe it
 is chivalrous; and even know what you mean by it?"
 
@@ -6248,7 +6248,7 @@ already come to be symbols of something else with our people."
 
 "I might answer your people," she said, "rather as you have
 answered me.  I know I am called old-fashioned; and your
-people have all the new fashions.  I feel cross with them;
+people have all the new fashions.  I feel [[Cross|cross]] with them;
 I feel inclined to insult them by calling them fashionable.
 But they really are.  Don't they take up all this business
 about a woman living for herself and sex making no difference
@@ -6257,7 +6257,7 @@ They would all say that I was behind the times, and talk of me
 as if I were a slave in a harem.  And yet I will challenge them
 on that, out of the tragic and hateful tangle in which I am
 standing to-day. They talk about a woman thinking for herself!
-They talk about a woman standing alone!  How many of the wives
+They talk about a woman standing [[Alone|alone]]!  How many of the wives
 of your Socialists are out attacking Socialism?  How many women
 engaged to Labour Members are voting against them at the polls
 or speaking against them on the platform?  Nine-tenths of your
@@ -6266,24 +6266,24 @@ But I _am_ independent.  I am thinking for myself.  I am living
 my own life, as they call it; and a most miserable life it is.
 I am not going along with a revolutionary man."
 
-There was again a long silence; the sort of silence which endures
+There was again a long [[Silence|silence]]; the sort of [[Silence|silence]] which endures
 because it is unnecessary, or rather impossible, to ask questions;
-and then Braintree took a step nearer and said:  "Well, I am
-miserable enough, if that is part of the logic of the case;
+and then Braintree took a step nearer and said:  "[[Well]], I am
+miserable enough, if that is part of the [[logic]] of the case;
 and yet again it is just part of this infernal furnace of reality
-that I cannot attack logic.  How easy it is to attack logic!
+that I cannot attack [[logic]].  How easy it is to attack [[logic]]!
 How impossible to find anything else except lying!
 And then they say that women are not logical; because they
-never waste logic on things that do not matter.  My God,
-is there any way _out_ of logic?"
+never waste [[logic]] on things that do not matter.  My God,
+is there any way _out_ of [[logic]]?"
 
 To anyone who had not known their knowledge of each other,
 this conversation would have seemed a series of riddles;
 but Braintree knew the answers before the riddles were asked.
 He knew that this woman had got hold of a religion
-and that a religion is often a renunciation.
-She would not go with him without helping him to the death.
-And she would not help him; she would resist him to the death.
+and that a religion is often a [[Renunciation|renunciation]].
+She would not go with him without helping him to the [[Death|death]].
+And she would not help him; she would resist him to the [[Death|death]].
 That antagonism between them, as it had arisen in silly remarks
 and random _repartees_ in their first interview in the long
 room at Seawood, that antagonism, transfigured, enlightened,
@@ -6292,7 +6292,7 @@ of each other, was risen again to a noble height of reason,
 which he was the last man in the world to despise.
 People laugh at these things when they find them in the old
 stories of Roman virtue.  They are people who have never loved
-at the same time a truth and a friend.
+at the same [[Time|time]] a [[Truth|truth]] and a friend.
 
 "There are some things," she said at last, "that I do know
 more about than you.  You used to make fun of my old
@@ -6301,12 +6301,12 @@ stoop to laugh at them now you are fighting them; but you
 would laugh again if we were back in the old idle days.
 And yet those things are not altogether idle or laughable.
 Poetry sometimes talks plainer than prose, I think;
-and somebody said our souls are love and a perpetual farewell.
+and somebody said our souls are [[Love|love]] and a perpetual farewell.
 Did you ever read that part in Malory--about the parting
 of Lancelot and Guinevere?"
 
 "I can see it in your face," he said and kissed once, and they
-parted like the lovers of Camelot.
+parted like the [[lovers]] of Camelot.
 
 . . . . . . . .
 
@@ -6325,17 +6325,17 @@ He had hardly said a dozen words before it became apparent that
 he was talking in a tone that had been unusual in English politics.
 He had something to say that was of the final sort.
 He refused a tribunal; and in that there is something of the sort
-that always moves the deep element of epic poetry in a mob.
+that always moves the deep element of [[Epic|epic]] poetry in a mob.
 For nothing can really be approved or applauded except finality.
 That is why all the ethics of evolution and expansive ideas
 of indefinite progress have never taken hold upon any human crowd.
 
-The new seat of government had set up a seat of judgment, or chamber
+The new seat of [[government]] had set up a seat of judgment, or chamber
 of inquiry, for the settlement of the strike which Braintree led.
 It was a strike now largely confined to the Trade Unions
 of his own district; which were engaged in the manufacturing
 of dyes and paints, originally derived from Coal-Tar. The
-very genuine energy that supported the new government had
+very genuine energy that supported the new [[government]] had
 grappled immediately with the industrial problem in question.
 It was probable that it would be settled on somewhat saner
 and simpler lines than those of the complicated compromises
@@ -6345,18 +6345,18 @@ And that was what Braintree and the strikers very
 legitimately objected to.
 
 "For nearly a hundred, years," he said, "they have thundered at us
-about our duty to respect the Constitution:  the King and the House
-of Lords--and even the House of Commons.  We had to respect
+about our duty to respect the Constitution:  the [[King]] and the [[house|House]]
+of Lords--and even the [[house|House]] of Commons.  We had to respect
 that too.  (Laughter.) We were to be perfect Constitutionalists.
 Yes, my friends, we were to be the only Constitutionalists.
 We were the quiet people, the loyal subjects, the people who took
-the King and the lords seriously.  But they were to be free enough.
+the [[King]] and the lords seriously.  But they were to be free enough.
 Whenever the fancy took them to upset the Constitution,
 they were to be indulged in all the pleasures of revolution.
-They could in twenty-four hours turn the government of England
+They could in twenty-four hours turn the [[government]] of England
 upside down; and tell us that we were all not to be ruled
 by a Constitutional monarchy but by a fancy dress ball.
-Where is the King?  Who is the King?  I have heard he is a
+Where is the [[King]]?  Who is the [[King]]?  I have heard he is a
 librarian interested in the Hittites.  (Laughter.) And we are
 summoned before this revolutionary tribunal--(cheers)--to explain
 why we have for forty years, under intolerable provocation,
@@ -6368,15 +6368,15 @@ principles of continuity that never existed until the other day.
 But we will not listen to its judgment.  We would not submit
 to lawful Toryism.  We will not now submit to lawless Toryism.
 And if this Wardour Street curiosity shop sends us a message
-that we must attend its Court--our answer is in four words,
+that we must attend its [[Court]]--our answer is in four words,
 'We will not come.'"
 
 Braintree had described Herne as a librarian interested in Hittites
 but he never failed, in public or private to recognise him as a leader
-of men much more interested in the resurrection of the Middle Ages.
+of men much more interested in the [[Resurrection|resurrection]] of the Middle Ages.
 And yet it would have surprised Braintree very much to know how
 Herne was actually occupied at the moment the words were spoken.
-There was between them indeed that eternal cross purposes
+There was between them indeed that eternal [[Cross|cross]] purposes
 which arises between the two opposite types of truthful man.
 There was all the contrast between the man who knows from the start
 exactly what he stands for, whose circle of vision whether narrow
@@ -6387,19 +6387,19 @@ libraries before realising into what mind they have been absorbed,
 which can create fairy lands in which its own figure is invisible
 or at least transparent.  Braintree had known from the first,
 almost from the first quarrel in the long room at Seawood,
-the irony of his own irritated admiration.  He had felt the paradox
-of his impossible romance.  The pale and vivid face of Olive Ashley
+the irony of his own irritated admiration.  He had felt the [[Paradox|paradox]]
+of his impossible [[Romance|romance]].  The pale and vivid face of Olive Ashley
 with its lift and poise and pointed chin had entered his world
 like a wedge, like the spear of something external and antagonistic.
 He had hated all her world all the more for not hating her.
 
-But with a man like Michael Herne the whole of this process
-worked backwards.  He had hardly realised what personal romance
-was inspiring the impersonal romance of his historical revolution.
+But with a man like [[Michael]] Herne the whole of this process
+worked backwards.  He had hardly realised what personal [[Romance|romance]]
+was inspiring the impersonal [[Romance|romance]] of his historical revolution.
 He had had nothing but a sense of growing glory within;
 of a world that grew larger and loftier like an expanding sunrise
 or a rising tide; and which was yet of the same unconscious
-stuff as the day-dreams of his youth.  He had had at first
+stuff as the day-[[Dreams|dreams]] of his youth.  He had had at first
 the feeling that a hobby had become a holiday.  He had then had
 more and more feeling that the holiday had become a festival,
 in the sense of the solemn festival of a god.  Only at the back
@@ -6416,7 +6416,7 @@ he would instantly have discovered his disease.
 
 And yet it happened, as such coincidences do happen,
 hardly half an hour after those two that had met as enemies,
-and continued as friends, and had parted as lovers.
+and continued as friends, and had parted as [[lovers]].
 So soon after they had said their farewell amid the incongruous
 clatter of industrial politics, the man who had in some sense
 divided them, if only symbolically, discovered that a man
@@ -6424,14 +6424,14 @@ is meant in this world to be something more than a symbol.
 He saw Rosamund standing on the high terrace of the lawn,
 and the whole earth changed around her.
 
-The news of Braintree's defiance brought a certain doubt and
+The news of Braintree's defiance brought a certain [[Doubt|doubt]] and
 depression to the more romantic group at Seawood but nothing
 but rage and fury to Rosamund Severne.  She was the sort of woman
 inevitably irritated by strikes if only because they are delays.
-Waste of time was more vivid to her than loss of principle.
+Waste of [[Time|time]] was more vivid to her than loss of principle.
 Many have imagined that feminine politics would be merely
 pacifist or humanitarian or sentimental.  The real danger
-of feminine politics is too much love of a masculine policy.
+of feminine politics is too much [[Love|love]] of a masculine policy.
 There are a good many Rosamund Severnes in the world.
 
 She could get no relief from her impatience from the tone of the men
@@ -6444,34 +6444,34 @@ But as his remarks affected even his own daughter with a sensation
 of faint fatigue, she could hardly persuade herself that they
 would affect his mortal enemies to an emotional repentance.
 Lord Eden was more brief but not much more brisk in his comments.
-He said that time would show; and expressed doubt about the ultimate
+He said that [[Time|time]] would show; and expressed [[Doubt|doubt]] about the ultimate
 economic resources of the revolt.  Whether designedly or no,
 he said nothing about the new organisation of society which
 he himself had helped to establish.  For all of them it seemed
-as if a shadow had fallen across all that shining array.
+as if a [[Shadow|shadow]] had fallen across all that shining array.
 Beyond the park, beyond the gates of their chivalric paradise,
-the modern monster, the great black factory town, lay snorting
+the modern [[Monster|monster]], the great black factory town, lay snorting
 up its smoke in defiance and derision.
 
 "They're all so slack about it," Rosamund confided to Monkey,
 that universal confidant.  "Can't you do something to get a move on?
-And after all our flag-waving and blowing of trumpets."
+And after all our [[Flag|flag]]-waving and blowing of trumpets."
 
-"Well," said Murrel dubiously, "all that has what they call a
+"[[Well]]," said Murrel dubiously, "all that has what they call a
 moral effect; only some people call it bluff.  If it goes swinging along
 and everybody falls in with it, the thing works; and it often does.
-You can try your luck in rallying everybody to a flag.
-But you don't fight with a flag."
+You can try your luck in rallying everybody to a [[Flag|flag]].
+But you don't fight with a [[Flag|flag]]."
 
 "Do you realise what this man Braintree has done," she cried indignantly.
-"He has dared us all.  He has dared the King-at-Arms and the King."
+"He has dared us all.  He has dared the [[King]]-at-Arms and the [[King]]."
 
-"Well," replied Murrel in a detached manner, "I don't quite see
+"[[Well]]," replied Murrel in a detached manner, "I don't quite see
 what the devil else he could do.  If I were in his place--"
 
 "But you're not in his place," she cried vehemently,
-"you're not in the place of any rebel or rioter.
-Don't you ever think, Douglas, that it is time you were in
+"you're not in the place of any [[Rebel|rebel]] or rioter.
+Don't you ever think, Douglas, that it is [[Time|time]] you were in
 your own place."
 
 Murrel smiled rather wearily.  "I admit," he said,
@@ -6482,10 +6482,10 @@ And I suppose you'd say its done by walking round and round it."
 both sides of a question without wanting to clout him on both sides
 of the head."
 
-Presumably lest she should yield to this impulse, she departed in a storm,
-and swept up the long lawns and terraces towards the old raised garden
+Presumably lest she should yield to this impulse, she departed in a [[Storm|storm]],
+and swept up the long lawns and terraces towards the old raised [[Garden|garden]]
 in which the play of Blondel the Troubadour had once been performed.
-And the coincidence came back to her with something of a pang of memory;
+And the coincidence came back to her with something of a pang of [[Memory|memory]];
 for in that green deserted theatre stood one green deserted figure in
 forester's costume, with a mane of light hair and a lifted leonine head,
 looking across the valley towards the smoking town.
@@ -6497,7 +6497,7 @@ her lust for action; but in a moment she had brushed it away
 like a cobweb and spoke in her own firm voice.
 
 "You know your revolutionists have sent their reply.
-I hear they will not come to the Court."
+I hear they will not come to the [[Court]]."
 
 He looked round slowly in his rather short-sighted fashion;
 only the pause before he spoke expressed the change in his
@@ -6505,14 +6505,14 @@ feelings on hearing the voice that hailed him.
 
 "Yes, I have received their message," he said mildly.
 "It was addressed to me.  They certainly state their position clearly;
-but they will come to the Court all right."
+but they will come to the [[Court]] all right."
 
 "They will come!" she repeated in some excitement.
 "Do you mean that Braintree has yielded?"
 
 "They will come, yes," he repeated, nodding.  "Braintree has
 not yielded; indeed I did not expect him to do so.
-To tell the truth, I rather respect him for not doing so.
+To tell the [[Truth|truth]], I rather respect him for not doing so.
 He is a very courageous and consistent man; and it is always
 so much pleasanter to have an opponent of that kind."
 
@@ -6525,7 +6525,7 @@ to call a _subpoena._ I don't know how many men I shall want with me;
 but I suppose some of the Hundreds may have to turn out."
 
 "What!" she cried.  "You don't mean that you are going to _fetch_
-them to the Court!"
+them to the [[Court]]!"
 
 "Oh yes, the law is quite clear on that point", he answered.
 "And as the law makes me the executive officer, I have really
@@ -6546,7 +6546,7 @@ as she understood what he meant.
 
 "There certainly will be on our side if there is on theirs," he answered.
 
-"You are the only man in this house," cried Rosamund and found
+"You are the only man in this [[house]]," cried Rosamund and found
 herself suddenly trembling from head to foot.
 
 It seemed as if his stiff attitude was staggered so that he lost
@@ -6557,7 +6557,7 @@ when I should try to be strong."
 
 "You are not weak at all," she said, recovering her firm voice.
 
-"I am mad," he said.  "I love you."
+"I am mad," he said.  "I [[Love|love]] you."
 
 She was dumb.  He caught both her hands and his arms thrilled
 up to the shoulders as with an electric shock.
@@ -6572,10 +6572,10 @@ She remained leaning forward and looking steadily into his face.
 "Your eyes blind me," he said.
 
 They spoke no more; but the great land about them and above spoke for them
-as it rose in the mighty terraces towards the colossal corner-stones
-of the mountains; and the great wind of West England that rocked
+as it [[Rose|rose]] in the mighty terraces towards the colossal corner-stones
+of the [[Mountains|mountains]]; and the great [[Wind|wind]] of West England that rocked
 the tops of its royal trees; and all that vast valley of Avalon
-that has seen the muster of heroes and the meeting of immortal lovers,
+that has seen the muster of heroes and the meeting of immortal [[lovers]],
 was full of a movement as of the trampling horses and the trumpets,
 when the kings go forth to battle and queens rule in their stead.
 
@@ -6583,7 +6583,7 @@ So they stood for a moment on the top of the world and in the highest
 place of our human fortune, almost at the moment when Olive and
 John Braintree in the dark and smoky town were taking their sad farewell.
 And no man could have guessed that the sad farewell was soon to be
-followed with fuller reconciliation and understanding; but that over
+followed with fuller [[Reconciliation|reconciliation]] and understanding; but that over
 the two coloured and shining figures, on the shoulder of the golden down,
 hung a dark cloud of sundering and division and doom.
 
@@ -6591,10 +6591,10 @@ hung a dark cloud of sundering and division and doom.
 
 CHAPTER XVI
 
-THE JUDGMENT OF THE KING
+THE JUDGMENT OF THE [[King|KING]]
 
 Lord Seawood and Lord Eden were seated in their favourite
-summer-house on the lawn, the same into which the arrow had once
+[[Summer|summer]]-[[house]] on the lawn, the same into which the arrow had once
 entered like the first shaft of a new sunrise; and to judge by their
 faces they were doubtful whether the sun were not in eclipse.
 Lord Eden's rigidity of expression might indeed have many meanings;
@@ -6610,20 +6610,20 @@ forms for the practical suppression of material menace.
 What would Peel have said, had it been proposed to use only
 the antiquated halberds of a few Beefeaters in the Tower instead
 of the excellent and effective Constabulary which he had the genius
-and imagination to conceive?  What would Palmerston have said,
+and [[Imagination|imagination]] to conceive?  What would Palmerston have said,
 had anyone suggested to him that the Mace lying on the table
 of Parliament could be used as a club with which to quell a riot
 in Parliament Square?  Impossible as it is for us to project upon
 the future the actions of the mighty dead of the past, I conceive
 it as likely that he would have made it the subject of a jest.
-But men in the present generation are devoid of humour."
+But men in the present generation are devoid of [[Humour|humour]]."
 
-"Our friend the King-at-Arms is devoid of humour all right,"
-drawled Eden.  "I sometimes wonder whether he is not the
+"Our friend the [[King]]-at-Arms is devoid of [[Humour|humour]] all right,"
+drawled Eden.  "I sometimes [[Wonder|wonder]] whether he is not the
 happier for it."
 
 "There," said the other nobleman with firmness.  "I cannot agree.
-Our English humour, such as that to be found in the best pages
+Our English [[Humour|humour]], such as that to be found in the best pages
 of _Punch_ is--."
 
 At this moment a footman appeared silently and abruptly in the entrance
@@ -6631,7 +6631,7 @@ of the hut, murmured some ritual words and handed a note to his master.
 The reading of it changed his master's dolorous expression to one
 of unaffected astonishment.
 
-"God bless my soul," said Lord Seawood; and remained gazing
+"God bless my [[Soul|soul]]," said Lord Seawood; and remained gazing
 at the paper in his hand.
 
 For upon that paper was scrawled in a large and bold hand a message
@@ -6639,10 +6639,10 @@ destined in the next few days to change the whole face of England;
 as nothing for centuries had ever been changed by a battle
 upon English soil.
 
-"Either our young friend is really suffering from delusions,"
+"Either our young friend is really [[Suffering|suffering]] from delusions,"
 he said at last, "or else--"
 
-"Or else," said Lord Eden gazing at the roof of the summer-house,
+"Or else," said Lord Eden gazing at the roof of the [[Summer|summer]]-[[house]],
 "he has surrounded and taken the town of Milldyke, captured the Bolshevist
 headquarters and is bringing the leaders here to the trial."
 
@@ -6659,12 +6659,12 @@ and enlightened people were aware that such weapons are quite obsolete."
 
 "That," answered Eden, "is because educated and enlightened people
 never think.  Your enlightened man is always taking away the number
-he first thought of.  It seems to be a sign of education first to take
+he first thought of.  It seems to be a sign of [[Education|education]] first to take
 a thing for granted and then to forget to see if it is still there.
 Weapons are a very good working example.  The man says he won't go
-on wearing a sword because it is no longer any good against a gun.
+on wearing a [[Sword|sword]] because it is no longer any good against a gun.
 Then he throws away all the guns as relics of barbarism; and then
-he is surprised when a barbarian sticks him through with a sword.
+he is surprised when a barbarian sticks him through with a [[Sword|sword]].
 You say that pikes and halberds are not weapons against
 modern conditions.  I say pikes are excellent weapons against no pikes.
 You say it is all antiquated medieval armament.  But I put my money
@@ -6672,7 +6672,7 @@ on men who make medieval armament against men who only disapprove
 of modern armament.  And what have any of these political parties
 ever done about armament except profess to disapprove of it?
 They renounce it and neglect it and never think of the part it played
-in political history; and yet they go about with a vague security
+in political [[history]]; and yet they go about with a vague security
 as if they were girt about with invisible guns that would go off
 at the first hint of danger.  They're doing what they always do;
 mixing up their Utopia that never comes with their old Victorian
@@ -6680,10 +6680,10 @@ security that's already gone.  I for one am not at all surprised
 that a pack of pantomime halberdiers can poke them off the stage.
 I've always thought a _coup d'état_ could be effected with very small
 forces against people who won't learn to use the force they've got.
-But I never had the moral courage to do it myself; it needs somebody
+But I never had the moral [[Courage|courage]] to do it myself; it needs somebody
 very different from our sort."
 
-"Perhaps," remarked the other aristocrat, "it was due to our being,
+"Perhaps," remarked the other [[aristocrat]], "it was due to our being,
 to quite a very recent political formula, too proud to fight."
 
 "Yes," replied the old statesman.  "It is the humble who fight."
@@ -6691,7 +6691,7 @@ to quite a very recent political formula, too proud to fight."
 "I am not sure that I quite follow your meaning," said Lord Seawood.
 
 "I mean I am too wicked to fight," said Lord Eden.
-"It is the innocent who kill and burn and break the peace.
+"It is the [[Innocent|innocent]] who kill and burn and break the peace.
 It is children who rush and smash and knock each other about
 and of such is the kingdom of heaven."
 
@@ -6699,8 +6699,8 @@ It is not certain that even then his venerable Victorian companion
 was wholly and lucidly of one mind with him; but there was no more
 to be got out of him on the subject; and he remained with a face
 of flint looking up the long path towards the gates of the park.
-And indeed that road and that entrance were already shaken with
-the tumult and triumph of which he spoke; and the songs of young
+And indeed that [[Road|road]] and that entrance were already shaken with
+the tumult and triumph of which he spoke; and the [[songs]] of young
 men who come back from battle.
 
 "I apologise to Herne," said Julian Archer with hearty generosity.
@@ -6713,7 +6713,7 @@ was a Strong Man in England."
 "You know what I mean," answered the other good-humouredly. "A statesman.
 A man who knows his own mind."
 
-"Well, I suppose a madman knows his own mind," answered Murrel.
+"[[Well]], I suppose a madman knows his own mind," answered Murrel.
 "I rather fancy a statesman ought to know a little about
 other people's minds."
 
@@ -6741,7 +6741,7 @@ The idea is too horrible."
 
 "I don't know what you mean exactly," said Archer discontentedly,
 "but I am glad to say that I think Herne knows what he means all right.
-And he'll jolly well make these fellows understand what he means as well."
+And he'll jolly [[Well|well]] make these fellows understand what he means as [[Well|well]]."
 
 "My dear fellow," said Murrel, "it takes all sorts to make a world.
 I don't gush about gentlemen, as you know; they're a stuffy lot,
@@ -6754,13 +6754,13 @@ too far in any direction to make it quite impossible to go back.
 They were always yielding here and modifying there;
 and patching things up somehow.  Now it may be a jolly fine
 sight to see old Herne charging with all his chivalry.
-But if he will charge, he can't retreat.  If he figures as a hero
-to you, he will figure as a tyrant to the other fellows.
-Now it was the very soul of our old aristocratic policy
-that even a tyrant must never figure as a tyrant.
+But if he will charge, he can't retreat.  If he figures as a [[Hero|hero]]
+to you, he will figure as a [[Tyrant|tyrant]] to the other fellows.
+Now it was the very [[Soul|soul]] of our old aristocratic policy
+that even a [[Tyrant|tyrant]] must never figure as a [[Tyrant|tyrant]].
 He may break down everybody's fences and steal everybody's land,
 but he must do it by Act of Parliament and not with a great
-two-handed sword.  And if he meets the people he's disposed,
+two-handed [[Sword|sword]].  And if he meets the people he's disposed,
 he must be very polite to them and enquire after their rheumatism.
 That's what kept the British Constitution going--enquiring after
 the rheumatism.  If he begins giving people black eyes
@@ -6769,7 +6769,7 @@ another way, whether he was right or wrong in the quarrel.
 And Herne isn't by a hell of a long way so right in this
 quarrel as he thinks he is; being a simple-minded sort."
 
-"Well," remarked Archer, "You're not a very enthusiastic comrade-in-arms."
+"[[Well]]," remarked Archer, "You're not a very enthusiastic comrade-in-arms."
 
 "As to that," said Murrel gloomily, "I don't know whether
 I'm a comrade-in-arms; but I'm not an infant in arms.
@@ -6780,7 +6780,7 @@ And Herne is."
 
 "And you were always abusing him so long as he was harmless,"
 replied Murrel.  "You were always calling him a lunatic.
-Well, that may be; personally I rather like lunatics.
+[[Well]], that may be; personally I rather like lunatics.
 What I complain of is that you have swung clean round to his side,
 merely because he is a dangerous lunatic."
 
@@ -6789,22 +6789,22 @@ merely because he is a dangerous lunatic."
 "That is the only dangerous sort," said Murrel.  "That's what I
 mean by his being an infant; and an infant that shouldn't
 be allowed to bear arms.  Everything is too simple to him.
-Even his success is too simple.  He sees everything in black and white;
+Even his [[success]] is too simple.  He sees everything in black and white;
 with the need of restoring holy order and a hierarchy of chivalry
 on the one side and nothing but howling barbarians and blind
 anarchy on the other.  He will succeed; he has already succeeded.
-He will hold his court and impose his judgment and bring
+He will hold his [[Court|court]] and impose his judgment and bring
 the mutiny to an end; and you will not see that a new sort
-of history will have begun.  Our party leaders have always been
-reconciled by history; and Pitt and Fox had statues side by side.
+of [[history]] will have begun.  Our party leaders have always been
+reconciled by [[history]]; and Pitt and Fox had statues side by side.
 But you are starting two histories, one told by the conquerors
 and the other by the conquered.  Herne will deliver his judgment,
 which will be praised by all organs of the State like a judgment
 of Mansfield; but Braintree will make a defence or defiance that
 will be remembered by all rebels like the dying speech of Emmett.
-You are making something new; at once a sword that divides and a shield
+You are making something new; at once a [[Sword|sword]] that divides and a shield
 with two sides to it.  It is not England; it is not ourselves.
-It is Alva a hero for Catholics and a hobgoblin for Protestants;
+It is Alva a [[Hero|hero]] for Catholics and a hobgoblin for Protestants;
 it is Frederick the father of Prussia and the murderer of Poland.
 When you see Braintree condemned by this tribunal, you won't
 understand how much is being condemned with him; how much that you
@@ -6818,7 +6818,7 @@ from Madame Tussand's."
 
 . . . . . . . .
 
-Michael Herne took all his duties seriously, but it was soon
+[[Michael]] Herne took all his duties seriously, but it was soon
 apparent to some that he took one of them sadly.  It was apparent
 at least to Rosamund Severne, and she guessed quickly at the cause.
 She was a woman of the sort that is very much of a mother;
@@ -6826,15 +6826,15 @@ that sort of lady is often found attached to that sort of lunatic.
 She knew that he took the other and more external functions seriously,
 and strangely without a smile.  She knew that he could lead his men
 as Commander of the Hundreds and then give judgment as President
-of the Court of Arbitrament, without ever once thinking of Pooh-Bah.
+of the [[Court]] of Arbitrament, without ever once thinking of Pooh-Bah.
 She knew that he could lay aside the red cape and crest he wore
 as a Commander and put on over his green suit dark purple robes
 and a high cap of strange shape, like that of Doge before ascending
 the judgment seat, and never for a moment remember the hundred uniforms
-of the German Emperor.  But in this later case of the Court of Arbitrament
+of the German Emperor.  But in this later case of the [[Court]] of Arbitrament
 she could see there was something a little graver than gravity.
 To begin with, there seemed to be an immense load of labour.
-Herne worked all day and sat up nearly all night over mountains of books
+Herne worked all day and sat up nearly all [[Night|night]] over [[Mountains|mountains]] of books
 and bales of papers; and grew pale with wakefulness and concentration.
 She knew in a general way that it was his business to lay down the law,
 the old feudal law or whatever it was that was now being reconstituted,
@@ -6842,16 +6842,16 @@ and apply it to the crushing of all this industrial anarchy and delay.
 She heartily approved of that; indeed it had been almost the basis
 of her approval.  But she had not realised that it would mean so much
 research and codification out of the queer old codes and charters.
-Nor indeed were the queer old codes alone involved; there were things she
+Nor indeed were the queer old codes [[Alone|alone]] involved; there were things she
 thought queerer still.  New documents on what seemed the most irrelevant
 subjects, chiefly scientific subjects, were handed in to swell the pile;
 one was endorsed on the back with the signature of Douglas Murrel.
 What in the world Monkey could have to do with it she could not conceive.
 But though there were all these things to weary and even worry
-the Arbiter, she knew well enough that something else made his duty
+the Arbiter, she knew [[Well|well]] enough that something else made his duty
 somewhat distressing to him.
 
-"I know what you are feeling like, Michael," she said.
+"I know what you are feeling like, [[Michael]]," she said.
 "It is hateful to have to triumph over people we like.
 And I know you like John Braintree."
 
@@ -6863,13 +6863,13 @@ startled by the expression of his face.
 He turned his head away abruptly; indeed there was something
 strangely abrupt in his whole manner.
 
-"But I know the other part of you as well," she said.
+"But I know the other part of you as [[Well|well]]," she said.
 "You will do justice."
 
 "Yes," he answered.  "I shall do justice."  And he put his head
 on his hands.
 
-She felt a fine reverence for his broken friendship and silently
+She felt a fine reverence for his broken [[Friendship|friendship]] and silently
 left the library.
 
 A minute or two after he picked up his pen again and continued to annotate
@@ -6883,15 +6883,15 @@ reverence for the romantic pageantry of the hour, even when it
 was praised by the person for whom he cared most, was not
 likely to admire it when it came arrayed with all the terrors
 of judgment against him, and adorned with the purple robes
-and golden sword-hilts of all the people he cared about least.
+and golden [[Sword|sword]]-hilts of all the people he cared about least.
 His demeanour was openly contemptuous; but contempt is
 never contemptible in those who are defeated and defiant.
 When asked whether he wished to add any preliminary statement
-to the documents placed before the Court, he had appeared
+to the documents placed before the [[Court]], he had appeared
 as defiantly detached as Charles the First.
 
-"I see no Court," he said.  "I only see a lot of people who seem to be
-dressed up as court cards.  I know of no reason why I should recognise
+"I see no [[Court]]," he said.  "I only see a lot of people who seem to be
+dressed up as [[Court|court]] cards.  I know of no reason why I should recognise
 the brute force of the brigands, merely because they are stage brigands.
 I suppose I shall have to listen while the mummery proceeds;
 but I do not propose to say anything until you bring out the racks and
@@ -6902,7 +6902,7 @@ a complete historical reconstruction of medievalism."
 
 "Yes," replied Herne with complete gravity.  "Not in detail perhaps,
 for no one would defend every detail of any system, but in
-general plan we do desire to reconstruct the medieval scheme.
+general plan we do [[Desire|desire]] to reconstruct the medieval scheme.
 You are not, however, charged with any conduct which could
 in any case involve the punishment of burning; and that question
 therefore does not arise."
@@ -6910,15 +6910,15 @@ therefore does not arise."
 "Oh thank you," said Braintree agreeably.  "But is not this favouritism?"
 
 "Order, order," cried Julian Archer indignantly.
-"How can we proceed if the Court is not respected?"
+"How can we proceed if the [[Court]] is not respected?"
 
 "But for these things," continued the Arbiter, "for which you can be
 shown to be responsible, in relation to any public peril, for these you
-and any other persons will be judged by this Court and this Court alone.
+and any other persons will be judged by this [[Court]] and this [[Court]] [[Alone|alone]].
 It is not I who speak:  it is the Law."
 
-Michael Herne cut short in midair, with a gesture sharp as the slash
-of a sword, the cry of acclaim and applause that greeted his words.
+[[Michael]] Herne cut short in midair, with a gesture sharp as the slash
+of a [[Sword|sword]], the cry of acclaim and applause that greeted his words.
 The men who applauded him, anticipating his words with radiant faces,
 had always hitherto found those words like the words of a
 leader ringing and rousing and militant and even flamboyant.
@@ -6926,8 +6926,8 @@ But he had too serious a sense of all the new parts he played
 to be flamboyant on the seat of judgment.  Whatever condemnations
 he had to deliver against the enemies of his new realm,
 must be weighted with the composure and even coldness of
-impersonal justice.  The applause simmered down into silence;
-but it was still an eager and even an enthusiastic silence.
+impersonal justice.  The applause simmered down into [[Silence|silence]];
+but it was still an eager and even an enthusiastic [[Silence|silence]].
 He proceeded in a voice singularly level and even monotonous.
 
 "It has been our task," he said, "to recover an ancient order.
@@ -6956,8 +6956,8 @@ and the guild insisted on a serious standard of craftsmanship.
 It was normally with this Master's tools and shop and private capital that
 the work was done; the apprentice was one to whom this craft was being
 taught and the journeyman one who had not completely learnt it, but was
-finishing his education by hiring himself out to different masters,
-often in the course of a journey through different places.  Men could
+finishing his [[Education|education]] by hiring himself out to different masters,
+often in the course of a [[Journey|journey]] through different places.  Men could
 eventually become Masters by producing Masterpieces in due course.
 That is, in general outline, the ancient organization of Labour.
 Applying it to the present case, we find the following situation.
@@ -6967,20 +6967,20 @@ is conducted.  I have ascertained their names and I find that between
 them they practically share that ownership.  0ne is Sir Howard Pryce,
 formerly a Master in the manufacture of soap, but having in some rapid
 fashion become in turn a Master in the matter of Paints and Dyes.
-The second is Hubert Arthur Severne, now Baron Seawood.
+The second is [[Hubert]] [[arthur|Arthur]] Severne, now Baron Seawood.
 The third is John Henry Heriot Eames, now known as the Earl of Eden.
 But I have no note of the date or occasion of their presenting
 Masterpieces in the manufacture of dyes or pigments.  And I have been
 unable to obtain any evidence of their labouring personally in the craft,
 or of their educating their apprentices to do so."
 
-The face of Douglas Murrel had worn for some time a lively and
-alert expression; but by this time an expression of an entirely
+The face of Douglas Murrel had worn for some [[Time|time]] a lively and
+alert expression; but by this [[Time|time]] an expression of an entirely
 new kind began to flicker upon some of the faces around him.
-Indeed the look of blank mystification, which had been fixed
+Indeed the look of blank [[Mystification|mystification]], which had been fixed
 for a moment on the fine features of Julian Archer, had already
 given place to that smouldering protest which always lay so near
-the surface of his social self-expression; and he had already
+the surface of his social [[Self|self]]-expression; and he had already
 reached the point of ejaculating, "Oh!  I say--."
 
 "In this matter," went on the Arbiter, "we must be careful
@@ -6993,7 +6993,7 @@ those who completely and competently practise it, I have no
 hesitation in saying that he states the ancient medieval ideal
 and states it correctly."
 
-For the first time in the proceedings Braintree himself seemed
+For the first [[Time|time]] in the proceedings Braintree himself seemed
 to be brought to a standstill; staring and having nothing to say.
 If it was a compliment to be called a correct medievalist, it was one
 that he seemed to have a difficulty in receiving with proper grace.
@@ -7005,7 +7005,7 @@ conversation with Murrel in very resounding whispers.
 "Of course," continued Herne, "it is open to Lord Eden and Lord Seawood
 to take advantage of this system and present a Masterpiece of this form
 of manual labour.  I do not know whether they would be resuming a craft,
-with which they were occupied at some time of which I have no record;
+with which they were occupied at some [[Time|time]] of which I have no record;
 or whether it would be necessary for them to be entered under articles;
 and act as two apprentices to some existing labourer. . . ."
 
@@ -7025,7 +7025,7 @@ But that in its turn brings me to another matter;
 also immediately connected with the cause we are trying;
 about which I am compelled to speak more severely.
 Upon this first point, however, let the decision be clear.
-It is the judgment of the Arbiter and the Court of Arbitrament
+It is the judgment of the Arbiter and the [[Court]] of Arbitrament
 that the contention of John Braintree, that the Craft should
 be governed solely by Master Craftsmen, is in accordance
 with our tradition, is just and is approved."
@@ -7034,7 +7034,7 @@ with our tradition, is just and is approved."
 stolid after uttering the remark.
 
 "Hang it all, it's the whole question," cried Archer, in a
-highly reasonable voice that rose to something like a shriek.
+highly reasonable voice that [[Rose|rose]] to something like a shriek.
 "Why, a decision like that--"
 
 "The decision is given," said the Arbiter steadily.
@@ -7043,9 +7043,9 @@ highly reasonable voice that rose to something like a shriek.
 "you simply can't--"
 
 "Order, order," said Braintree sardonically.  "How can we get
-on if the Court is not respected?"
+on if the [[Court]] is not respected?"
 
-The Court appeared to take no notice of the interruption or the rebuke;
+The [[Court]] appeared to take no notice of the interruption or the rebuke;
 but anyone looking closely at the man delivering its decision would
 have seen that his gravity grew more and more severe, like a strain,
 and that he was pale with the effort to be thus concentrated and cold.
@@ -7054,12 +7054,12 @@ and that he was pale with the effort to be thus concentrated and cold.
 
 CHAPTER XVII
 
-THE DEPARTURE OF DON QUIXOTE
+THE DEPARTURE OF [[Don Quixote|DON QUIXOTE]]
 
 And all this first hubbub, the two noblemen who had been named sat
 as still and stiff as mummies; though the reason of the rigidity
 might differ.  Lord Seawood was simply gaping; he wore such an
-expression as the human head might wear if the body were suddenly
+expression as the human head might wear if the [[Body|body]] were suddenly
 blown away from under it and it were left hanging in midair.
 The judge might be joking; but it was not so that a judge should joke.
 And if he was not joking . . . where was earth and air and sky?
@@ -7073,9 +7073,9 @@ of it goes.  Here again it is essential to understand such
 statements with a certain logical precision.  If we are defining
 or describing a Craft or Trade, as it originally was and as it
 reasonably should be, that is the statement and we ask no other.
-The government of such a craft or trade rests of right with the master
+The [[government]] of such a craft or trade rests of right with the master
 craftsmen and master traders.  But the old order recognised other
-rights as well; and among them the right of private property.
+rights as [[Well|well]]; and among them the right of private property.
 The craftsman worked and the trader traded with his own private property.
 In a case like the present, we must admit that even if the abstract
 right of management ought to belong to the workers, the materials
@@ -7099,7 +7099,7 @@ for securing the whole of any particular material in the market.
 Outside such crimes, however, which were often severely
 punished by the pillory and even by the gallows, the personal
 possession of wealth was accepted as normal; and I cannot see
-any reasonable doubt that the personal wealth of these three
+any reasonable [[Doubt|doubt]] that the personal wealth of these three
 persons is what is actually being employed in this industry.
 It is, I may remark, the greater part of their personal wealth.
 Two of them are the titular owners of large landed estates;
@@ -7114,21 +7114,21 @@ from the chemical works where these by-products are used.
 It only remains to ask by what form of commercial enterprise
 such a superiority has been achieved."
 
-A curious change had come over the audience by this time.
+A curious change had come over the audience by this [[Time|time]].
 Most of them, lulled by the familiar phrases of the magnificent
 prospectus or commercial report, had nodded themselves
 almost into a slumber of agreement.  But, what was much
-more remarkable, for the first time Lord Seawood was smiling;
+more remarkable, for the first [[Time|time]] Lord Seawood was smiling;
 and Lord Eden was not.
 
 "It so happens that an accident, or rather an adventure
 (one of the most honourable adventures of the new Comrades
 of this Realm) has revealed the facts about a typical test case.
-We actually have before us the history of a master Craftsman
+We actually have before us the [[history]] of a master Craftsman
 of the older sort; one who undoubtedly compounded his own
 pigments with his own hands and in accordance with his own
 taste and judgment; and who produced thereby a particular
-article which the best artists of his time regarded as unique
+article which the best artists of his [[Time|time]] regarded as unique
 and which later artists have tried in vain to replace.
 The article is not sold by the Coal-Tar Colour and Dye Company.
 The man is not in any way profited, or even employed,
@@ -7138,7 +7138,7 @@ to that Masterpiece?  What has happened to that Master?
 "From information laid before me by the gallant gentlemen I
 have mentioned, I am in a position to say what happened to them.
 The man was beaten down to a condition of beggary,
-was so much broken by despair as to be accused of insanity;
+was so much broken by [[Despair|despair]] as to be accused of insanity;
 and it is perfectly clear that the methods employed to drive him
 from his shop and his livelihood were the methods of which I
 have spoken; the buying up of materials before they could
@@ -7154,7 +7154,7 @@ Then he named the three again formally and at length in a hard voice;
 but upon the name of Lord Seawood his voice seemed for an instant
 to break.  He did not look at any face in the crowd.
 
-"On this second point, therefore, the Court of Arbitrament decides that
+"On this second point, therefore, the [[Court]] of Arbitrament decides that
 the private property employed in this business is not lawfully acquired;
 and cannot plead, as it normally would, the privilege of just possession.
 To sum up, it is decreed, first that the craft should be ruled by its
@@ -7164,7 +7164,7 @@ We shall adjudge to the Guild--."
 
 Old Seawood sprang up as if galvanised; and a simple sort of vainglory
 deeper than all Victorian vanities came gasping to the surface like a
-drowning thing.  He forgot even the snobbish fear of snobbishness.
+drowning thing.  He forgot even the snobbish [[Fear|fear]] of snobbishness.
 
 "I had imagined," he said, stammering with emphasis,
 "that this movement was to restore a true respect for Nobility.
@@ -7173,7 +7173,7 @@ applied to Nobility."
 
 "Ah," said Herne in a low voice like an aside; "it has come at last."
 
-It seemed as if he spoke for the first time in a human voice,
+It seemed as if he spoke for the first [[Time|time]] in a human voice,
 and the effect was all the stranger because of the strange
 words in which he spoke again.  "I am not a man," he said.
 "I am here only a mouthpiece to make clear the law;
@@ -7184,7 +7184,7 @@ do not make your claim as nobles and peers."
 "Why not?" cried the boisterous Archer.
 
 "Because about that also," replied Herne, who was deadly pale,
-"you have been fools enough to bid me find out the truth."
+"you have been fools enough to bid me find out the [[Truth|truth]]."
 
 "Oh what the devil does all this mean," cried Archer in his agony.
 
@@ -7202,7 +7202,7 @@ and you have not forgotten the names you bear."
 "Strangely enough," said the Arbiter, "that is exactly what
 you have done."
 
-There was another enigmatic silence, that seemed to be filled
+There was another enigmatic [[Silence|silence]], that seemed to be filled
 with the staring eyes of Archer and Hanbury; and then the voice of
 the Arbiter was heard once more; but it gave them a new sort of start,
 for it had taken on again the leaden weight of legal exposition.
@@ -7225,13 +7225,13 @@ He said it in a lifeless and impersonal tone, as if he were
 lecturing to students on the Hittites.  But perhaps it was
 a little overdone; the words with which he went on were rather
 too dead and distinct.  "Their estates have generally been
-obtained quite recently and often by methods of doubtful morality,
-let alone chivalry; by small solicitors and speculators employing
+obtained quite recently and often by methods of doubtful [[morality]],
+let [[Alone|alone]] chivalry; by small solicitors and speculators employing
 various forms of mortgage, of foreclosing and the rest.
 In assuming the estates, these ingenious persons generally
 assumed not only the titles but the names of older families.
 The name of the Eden family is not Eames but Evans.
-The name of the Seawood family is not Severne but Smith."
+The name of the Seawood family is not Severne but [[smith|Smith]]."
 
 And with that Murrel, who had been painfully watching the pale
 face and rigid attitude of the speaker, suddenly muttered
@@ -7245,7 +7245,7 @@ still be heard.
 "The only two men in this section of the county who can
 claim the nobility, to which appeal has been made,
 are a man now driving an omnibus between here and the town
-of Milldyke and a small green-grocer in the same town.
+of Milldyke and a small green-[[grocer]] in the same town.
 No other person can call himself _Armiger Generosus_ except
 William Pond and George Carter."
 
@@ -7257,7 +7257,7 @@ Even Braintree, suddenly remembering the solid smile of Old George
 in the Green Dragon, could not control his amusement.
 
 But, as Lord Seawood had accurately remarked, the Arbiter
-of the Court of Arbitrament was deficient in a sense of humour.
+of the [[Court]] of Arbitrament was deficient in a sense of [[Humour|humour]].
 He had never properly studied the back volumes of _Punch._
 
 "I do not know," he said, "why this man's lineage should be ridiculous.
@@ -7267,14 +7267,14 @@ He has not taken money at usury and laid field to field by chicane,
 served the ruling families like a dog and then fed on the dying families
 like a vulture.  But you--you who come here to grind the faces of the poor
 with your pomposities of property and gentility, and your grand final
-flourish of chivalry--what about you?  You sit in another man's house;
+flourish of chivalry--what about you?  You sit in another man's [[house]];
 you bear another man's name; the blazon of another is on your shield;
 the crest of another is on your gate-posts; your whole story is the story
 of new men in old clothes, and you come here to me to plead against
 justice in the name of your noble ancestry."
 
 The laughter had died down but the noise was even louder;
-there was now no disguise or hesitation about its nature;
+there was now no disguise or hesitation about its [[Nature|nature]];
 all the broken cries had come together; there was a new
 noise of the mob when it changes to the pack in cry.
 Archer and Hanbury and ten or twelve other men were standing
@@ -7290,7 +7290,7 @@ They make the claim of property and they are not the proprietors.
 They make the claim of nobility and they are not nobles.
 The three pleas are disallowed."
 
-"Well," gasped Archer, "and how long is this to be allowed."
+"[[Well]]," gasped Archer, "and how long is this to be allowed."
 
 The noise had somewhat subsided as in weariness; and each man looked
 at the other as if really wondering what would come next.
@@ -7300,7 +7300,7 @@ thrust in his trousers' pockets.
 
 "Mention has been made," he said, "of somebody being charged
 with insanity.  I am sorry that a painful scene of the sort
-should have occurred in this place; but isn't it time some
+should have occurred in this place; but isn't it [[Time|time]] some
 humane person interfered?"
 
 "Somebody send for a doctor," cried Archer in a crowing
@@ -7319,8 +7319,8 @@ the grand finale of all your loyalty and your vows."
 "If," said the Arbiter calmly, "it be an end of your loyalty to me,
 it is not an end of my loyalty to you; or to the law that I have sworn
 to expound.  It is nothing for me to stand down from this seat;
-but it is everything to speak the truth while I stand here;
-and it is less than nothing whether you hate the truth or no."
+but it is everything to speak the [[Truth|truth]] while I stand here;
+and it is less than nothing whether you hate the [[Truth|truth]] or no."
 
 "You were always a play-actor," called out Julian Archer angrily.
 
@@ -7338,17 +7338,17 @@ were more natural than prose.
 
   "The evil kings sit easy on their thrones
    Shame healed with habit; but what panic aloft
-   What wild white terror if a king were good
-   What staggering of the stars; what prodigy!
+   What wild white terror if a [[King|king]] were good
+   What staggering of the [[Stars|stars]]; what prodigy!
    Men easily endure an unjust master
    But a just master no men will endure
    His nobles shall rise up, his knights betray him,
-   And he go forth, as I go forth, alone."
+   And he go forth, as I go forth, [[Alone|alone]]."
 
 He stood down suddenly from the dais; and seemed to look taller
 for the fall.
 
-"If I cease to be king or judge," he cried, "I shall still be a knight;
+"If I cease to be [[King|king]] or judge," he cried, "I shall still be a knight;
 though it be, as in the play, a knight-errant. But you will all be
 play-actors. Rogues and vagabonds, where did you steal your spurs?"
 
@@ -7361,7 +7361,7 @@ a dark exultation; but the men about him understood almost
 as little of the decision in their favour as the men in front;
 and in any case the latter were long past letting them intervene.
 And all that chivalric company answered with murmurs or sombre
-silence the appeal of their late leader for support.
+[[Silence|silence]] the appeal of their late leader for support.
 In answer to that call only two of them moved.
 From the outer skirts of the crowd Olive Ashley came
 slowly forward with the movement of a princess and,
@@ -7371,7 +7371,7 @@ at the white and stony face of the woman who was her friend.
 A moment after Douglas Murrel lounged to his feet with a singular
 grimace and went to stand on the opposite side of the Arbiter.
 They seemed like strange repetitions, and even parodies,
-of the lady and the squire who had held the shield and sword
+of the lady and the squire who had held the shield and [[Sword|sword]]
 on either side of him, on the day when he was crowned.
 
 Standing before his judgment-seat, the judge made one last
@@ -7407,7 +7407,7 @@ The man in green turned and looked at him with a pale and patient face.
 as if he were addressing a stranger.
 
 "Don't you know me?" asked Murrel.  "Don't you know my name?
-Well, perhaps you don't know my real name."
+[[Well]], perhaps you don't know my real name."
 
 "What do you mean?" asked Herne.
 
@@ -7415,7 +7415,7 @@ Well, perhaps you don't know my real name."
 
 Twenty minutes later there passed from the lands of
 Lord Seawood a _cortege_ eminently calculated to show
-how the grotesque dogs the footprints of the fantastic.
+how the [[Grotesque|grotesque]] [[dogs]] the footprints of the fantastic.
 For Mr. Douglas Murrel had by no means the intention of losing
 his faculty of enjoying the absurd with a complete gravity.
 The last stage of that exit was worth seeing, though only a few
@@ -7423,34 +7423,34 @@ of the strayed revellers or rioters were there to see it.
 As soon as Murrel had obtained the post of squire for which
 he petitioned, he vanished behind an adjoining outhouse
 and reappeared perched on the top of his celebrated hansom
-cab and driving its crazy cab-horse. Bowing from his perch
+cab and driving its crazy cab-[[Horse|horse]]. Bowing from his perch
 with the deference of a polished servant, he appeared
 to be inviting his new master to get into the cab.
 But there was to be one more crescendo or bathos and medley
-of the sublime and the ridiculous; for with one last impulse
+of the [[Sublime|sublime]] and the ridiculous; for with one last impulse
 of outrageous solemnity, the knight-errant in green sprang
-astride of the cab-horse and signalled with his lifted spear.
+astride of the cab-[[Horse|horse]] and signalled with his lifted spear.
 
-Like a revelation of lightning, in the instant before annihilating
-laughter came down like night, those who saw it saw a vision
-and a memory, bright and brittle as an instant's resurrection
+Like a revelation of [[Lightning|lightning]], in the instant before annihilating
+laughter came down like [[Night|night]], those who saw it saw a vision
+and a [[Memory|memory]], bright and brittle as an instant's [[Resurrection|resurrection]]
 of the dead.  The bones of the gaunt, high-featured face,
 the flame-like fork of the beard, the hollow and almost
 frantic eyes, were in a setting that startled with recognition;
 rigid above the saddle of Rosinante, tall and in tattered arms
 he lifted that vain lance that for three hundred years has
 taught us nothing but to laugh at the shaking of the spear.
-And behind him rose a vast yawning shadow like the very vision
-of that leviathan of laughter; the grotesque cab like the jaws
-of a derisive dragon pursuing him for ever, as the vast shadow
-of caricature pursues our desperate dignity and beauty,
+And behind him [[Rose|rose]] a vast yawning [[Shadow|shadow]] like the very vision
+of that leviathan of laughter; the [[Grotesque|grotesque]] cab like the jaws
+of a derisive dragon pursuing him for ever, as the vast [[Shadow|shadow]]
+of caricature pursues our desperate dignity and [[Beauty|beauty]],
 hanging above him for ever threatening like the wave of the world;
 and over all, the lesser and lighter human spirit, not unkindly,
 looking down on all that is most high.
 
 And yet, though that towering and toppling appendage of absurdity
 was dragged behind him like an overwhelming load, for that instant
-of time it was erased and forgotten, in the force and appalling
+of [[Time|time]] it was erased and forgotten, in the force and appalling
 passion of his face.
 
 -^-
@@ -7459,7 +7459,7 @@ CHAPTER XVIII
 
 THE SECRET OF SEAWOOD
 
-It had been a day of amazement for many, in which their prophet
+It had been a day of amazement for many, in which their [[Prophet|prophet]]
 who had come to bless had remained to curse and had at last
 gone away cursing.  But of all those who were shocked at
 the judgment which had condemned them, perhaps not one had been
@@ -7473,7 +7473,7 @@ his own cause supported as a piece of pure medievalism.
 So far as he could make out, he himself was much the most
 medieval person present.  It made him feel very uncomfortable.
 
-Then, as he stood rolling his eyes round the dissolution of
+Then, as he stood [[rolling]] his eyes round the dissolution of
 that queer transformation scene, they alit on a special object;
 he stiffened, pulled himself together, gave a short laugh and strode
 across to where Olive was standing beside the empty throne.
@@ -7482,7 +7482,7 @@ are reconciled after all."
 
 She looked at him without moving and with a slow smile.
 "It is dreadful," she said, "to think I should be glad
-of the quarrel that makes the--the reconciliation."
+of the quarrel that makes the--the [[Reconciliation|reconciliation]]."
 
 "You will forgive me for feeling only the gladness and not
 the dreadfulness," he answered.  "People must be on my side if they
@@ -7492,7 +7492,7 @@ are on his side--I mean if they are really on his side, like you."
 she said.  "I found it very difficult not to be.
 Especially when it was the losing side."
 
-"We shall jolly well see now," he said, "whether it won't be the
+"We shall jolly [[Well|well]] see now," he said, "whether it won't be the
 winning side.  This has put heart into all my people, I can tell you.
 I feel as if I'd renewed my youth like the eagle's; only it isn't
 Mr. Herne that has done that."
@@ -7504,25 +7504,25 @@ She looked slightly embarrassed and then said doubtfully,
 suppose we were beaten by an organisation, do you?
 We were beaten by a man and by men who were ready to follow him.
 Do you think I care anything about the men who were ready
-to desert him?  I said I wasn't afraid of fourteenth century
+to [[Desert|desert]] him?  I said I wasn't afraid of fourteenth century
 bows and battle-axes; I wasn't; and I'm certainly not afraid
 of a fourteenth century battle-axe brandished by old Seawood.
 Oh yes, I suppose they'll go on with the theatricals.
 We shall have the pleasure of hearing all about Sir Julian Archer,
 the brilliant Lord High Arbiter and universally popular
-King-at-Arms. But don't you give us credit for being able to go
+[[King]]-at-Arms. But don't you give us credit for being able to go
 smash through all that sort of thing like coloured paper?
-The soul is gone out of it; the soul is riding down the road
+The [[Soul|soul]] is gone out of it; the [[Soul|soul]] is riding down the [[Road|road]]
 a mile away."
 
 "Yes, I think you are right," she said after a pause, "and not
-only because Michael Herne has been something like a great man.
-It's more than that.  Their pride has gone out of them;
-their youth and their innocence have gone out of them.
-They have heard the truth and they know it is true.
+only because [[Michael]] Herne has been something like a great man.
+It's more than that.  Their [[Pride|pride]] has gone out of them;
+their youth and their [[innocence]] have gone out of them.
+They have heard the [[Truth|truth]] and they know it is true.
 And there's one of them about whom I am very unhappy."
 
-He looked at her earnestly and said, "Well, of course I'm sorry
+He looked at her earnestly and said, "[[Well]], of course I'm sorry
 for a lot of them in a way; but do you mean--"
 
 "I mean Rosamund," she answered lowering her voice.
@@ -7545,7 +7545,7 @@ but we didn't, thank God, ever have to attack each other.
 You didn't have to stand up and abuse my father; and I didn't
 have to sit silent and hear it.  It wasn't _you_ who were directly
 individually cursing me and mine; it wasn't you, of all men,
-whom I had to hear saying hateful things about my own home.
+whom I had to hear saying hateful things about my own [[Home|home]].
 I don't know what I should have done.  I think I should have simply died.
 What do you suppose she is doing?"
 
@@ -7556,7 +7556,7 @@ mean Rosamund Severne?"
 "Of course I mean Rosamund Severne," she cried angrily, "and he would
 not even leave her name.  How do you suppose I should have liked that?
 What are you staring at?  Do you really mean that you don't know
-that Rosamund and Michael Herne are in love with each other?"
+that Rosamund and [[Michael]] Herne are in [[Love|love]] with each other?"
 
 "I don't seem to know much," he said, "but if that's true of course
 I see what you mean."
@@ -7564,23 +7564,23 @@ I see what you mean."
 "I must go to see her," said Olive, "and yet I hardly know
 even how to do that."
 
-She crossed the now deserted garden towards the house; and as she did so,
+She crossed the now deserted [[Garden|garden]] towards the [[house]]; and as she did so,
 something made her stand and gaze for a moment at the monument that stood
 on the lawn; the broken image standing on the dragon.  And as she
-looked at it strange and new things came into her soul and her eyes.
+looked at it strange and new things came into her [[Soul|soul]] and her eyes.
 In the clear exalted intensity of her happiness and unhappiness,
-she seemed to be seeing it for the first time.
+she seemed to be seeing it for the first [[Time|time]].
 
 Then she looked about her, as if almost scared of the stillness,
 the abrupt and utter stillness that had succeeded to all the hubbub
 of that horrible afternoon.  The great lawn, enclosed on
 three sides by the front and two wings of the Abbey buildings,
 had been not an hour ago tossing with angry crowds and now
-it was as empty as the Courts of a city of the dead.
-Evening was wheeling towards darkness and the round moon
-rose and brightened steadily until the faint shadows
-of the new wan light began to change on the gargoyles and
-Gothic ornaments as they lost the last shadow of the sun.
+it was as empty as the Courts of a [[City|city]] of the dead.
+Evening was wheeling towards darkness and the round [[Moon|moon]]
+[[Rose|rose]] and brightened steadily until the faint shadows
+of the new wan light began to change on the [[gargoyles]] and
+Gothic ornaments as they lost the last [[Shadow|shadow]] of the sun.
 And as the face of all that ancient building flickered and
 changed under the changing light, it seemed to come more fully
 into the foreground of her mind and take on a meaning she had
@@ -7589,7 +7589,7 @@ she might have fancied, to understand it from the beginning.
 That pointed and tapering tracery, of which she had talked
 lightly to Monkey long ago, the dark glass of the windows,
 dense with colours that could only be discovered from within--
-suddenly told her something; a paradox.  Inside there was
+suddenly told her something; a [[Paradox|paradox]].  Inside there was
 light and outside there was only lead.  But who was really
 inside? . . . Those three walls with all their hooded windows,
 seemed to be watching; seemed to have watched from the beginning
@@ -7597,7 +7597,7 @@ of all their follies and to be still watching--and waiting.
 
 Suddenly and silently, as with a sort of soft shock, she came upon
 Rosamund herself standing in the great gateway.  She did not need
-to look at that perfect mask of tragedy; she avoided looking at it;
+to look at that perfect mask of [[Tragedy|tragedy]]; she avoided looking at it;
 but she caught her friend by the arm and said incoherently:
 "Oh I do not know what to say to you . . . and I have so much to say."
 
@@ -7606,15 +7606,15 @@ should happen to you, who have never been anything but good to all
 the world.  It's a shame that anybody should tell such tales."
 
 Then Rosamund Severne said in a dreadful dead voice;
-"He always tells the truth."
+"He always tells the [[Truth|truth]]."
 
 "I think you are the noblest woman in the world," said Olive.
 
 "Only the most unlucky," said the other.  "It is nobody's fault.
 It's as if there were a curse on this place."
 
-And in that instant of time Olive received a revelation like a
-blinding light; and understood her own trembling in the shadow
+And in that instant of [[Time|time]] Olive received a revelation like a
+blinding light; and understood her own trembling in the [[Shadow|shadow]]
 of those watching walls.
 
 "Rosamund, there is a curse on the place," she said.
@@ -7623,9 +7623,9 @@ nothing to do with anything we have ever talked about.
 It has nothing to do with anything that man said.
 It's not a curse on your name or anybody else's name,
 whatever your name is or whether it's old or new.
-The curse is in the name of this house."
+The curse is in the name of this [[house]]."
 
-"The name of this house," repeated the other in a dull voice.
+"The name of this [[house]]," repeated the other in a dull voice.
 
 "You've seen it at the top of your note-paper a thousand times and taken
 it for granted; and you have never seen that _that_ is the falsehood.
@@ -7641,7 +7641,7 @@ Olive burst out again with her broken soliloquy; "Why have all our
 toppling fancies about kings and knights come with a crash; why is all
 our Round Table ruined?  Because we never began at the beginning.
 Because we never went back to the Thing itself.  The Thing that produced
-everything else; the love of the Thing where it really lives.
+everything else; the [[Love|love]] of the Thing where it really lives.
 On this spot long ago two hundred men lived and loved It."
 
 She stopped and seemed to realise that her words were tumbling
@@ -7654,7 +7654,7 @@ there may be people who ask for nothing better than banks
 and brokers; there may be people who think Milldyke a nice place.
 Your father and his friends may have been right in their way;
 I'm sure they weren't so wrong as they looked when he was abusing
-them . . . it was hateful, and anyhow he had no business to spring
+them . . . it was hateful, and anyhow he had no business to [[Spring|spring]]
 it on you like that, without telling you beforehand."
 
 The statue spoke again; it seemed as if it never spoke except
@@ -7669,8 +7669,8 @@ a flower of chivalry; it sounds like a blossom of butchery.
 But _if_ we want the flower of chivalry, we must go
 right away back to the root of chivalry.  We must go back
 if we find it in a thorny place people call theology.
-We must think differently about death and free will and
-loneliness and the last appeal.  It's just the same with
+We must think differently about [[Death|death]] and free will and
+[[Loneliness|loneliness]] and the last appeal.  It's just the same with
 the popular things we can turn into fashionable things;
 folk-dances and pageants and calling everything a Guild.
 Our fathers did these things by the thousand; quite common people;
@@ -7679,7 +7679,7 @@ What we've got to ask is why they did it. . . . Rosamund,
 _this_ is why they did it.  Something lived here.
 Something they loved.  Some of them loved it so much.
 . . . Oh don't you and I know what is the only test?
-They wanted to be alone with it."
+They wanted to be [[Alone|alone]] with it."
 
 The statue moved ever so faintly as if turning away;
 and Olive clutched the arm again in a sort of remorse.
@@ -7696,40 +7696,40 @@ Now we have only evils to hate, and thank God we hate them."
 
 She pointed suddenly at the monument in the middle of which
 the wrinkles and convolutions were traced elaborately by
-the silver-point of the moon-light, like the phosphorescence
-that outlines some goggling sea-monster.
+the silver-point of the [[Moon|moon]]-light, like the phosphorescence
+that outlines some goggling sea-[[Monster|monster]].
 
 "We have only the dragon left.  A hundred times I've looked
 at that dragon and hated it and never understood it.
-Upright and high above that horror stood St. Michael or St. Margaret,
+Upright and high above that horror stood St. [[Michael]] or St. Margaret,
 subduing and conquering it; but it is the conqueror that
 has vanished.  We have no notion of what it would be really like;
 we haven't tried to imagine what image really stood there.
 We danced round it and thought of everything else except that.
-There burned in this court a great bonfire of visionary passion
+There burned in this [[Court|court]] a great bonfire of visionary passion
 which in the spirit could be seen for miles and men lived
 in the warmth of it; the positive passion and possession,
 the thing worth having in itself.  But now the very best of them
 are negative; attacking the absence of it in the world.
-They fight for truth where it isn't. They fight for honour where it
-isn't. They are a thousand times right; but it ends in truth
-and honour fighting each other, as poor Jack and Michael fought.
+They fight for [[Truth|truth]] where it isn't. They fight for [[Honour|honour]] where it
+isn't. They are a thousand times right; but it ends in [[Truth|truth]]
+and [[Honour|honour]] fighting each other, as poor Jack and [[Michael]] fought.
 We haven't any sense or any place where these virtues
 are happy, where these virtues are simply themselves.
-I love Jack and Jack loves justice; but he loves justice where it
+I [[Love|love]] Jack and Jack loves justice; but he loves justice where it
 isn't. There ought to be a way of loving it where it is."
 
-"And where is that, I wonder?" said Rosamund in a low voice.
+"And where is that, I [[Wonder|wonder]]?" said Rosamund in a low voice.
 
 "How should we know," cried Olive, "who have driven away
 the men who knew?"
 
-A deep chasm of silence opened between them; and at last
+A deep chasm of [[Silence|silence]] opened between them; and at last
 Rosamund said in her simple way; "I am very stupid.
 I shall have to try to think about what you mean.
 I'm sure you won't mind if we don't talk any more now."
 
-Olive went back slowly across the green courts and out of the shadow
+Olive went back slowly across the green courts and out of the [[Shadow|shadow]]
 of the grey walls and found John Braintree waiting for her.  They went
 away together, but were rather silent for the first part of the walk;
 then Olive said suddenly; "What a strange story all this is . . .
@@ -7737,32 +7737,32 @@ I mean ever since I started poor Monkey running after red paint.
 What a rage I was in with you and your red tie; and yet in a queer sort
 of way it turns out to have been the same sort of red.  I didn't know it
 and you didn't know it; and yet it was you who were working back blindly
-for the colour that I was after, like a child after a sunset cloud.
+for the colour that I was after, like a [[Child|child]] after a sunset cloud.
 It was you who were really trying to avenge my father's friend."
 
-"I should have tried to get him his rights, I hope," replied Braintree.
+"I should have tried to get him his rights, I [[Hope|hope]]," replied Braintree.
 
 "Oh you are always so rabid about rights," she said
 laughing with a faint impatience.  "And poor Rosamund . . .
 you must admit you do talk a terrible lot about rights.
 Are you quite sure about them?"
 
-"I hope to do a terrible lot about them before I've done,"
+"I [[Hope|hope]] to do a terrible lot about them before I've done,"
 replied the implacable politician.
 
 "But do you," she asked, "think anybody has really a right
 to be so happy?"
 
-He laughed shortly and they went out along the grey road toward Milldyke.
+He laughed shortly and they went out along the grey [[Road|road]] toward Milldyke.
 
 -^-
 
 CHAPTER XIX
 
-THE RETURN OF DON QUIXOTE
+THE RETURN OF [[Don Quixote|DON QUIXOTE]]
 
 Someday perhaps the story will be told of the adventures
-of the new Don Quixote and the new Sancho Panza,
+of the new [[Don Quixote]] and the new Sancho Panza,
 as they wandered about the winding roads of England.
 From the standpoint of the cold and satiric populace
 the story was rather that of the progress of the hansom cab,
@@ -7776,7 +7776,7 @@ the vehicle for the defence and consolation of the oppressed.
 Of how they gave lifts to tramps and rides to children;
 of how they turned the cab into a coffee stall at Reading
 and into a tent on Salisbury Plain.  Of how the cab figured
-as a bathing-machine in the dreadful affair at Worthing.
+as a bathing-[[Machine|machine]] in the dreadful affair at Worthing.
 Of how it was regarded by simple Calvinists of the Border
 as a perambulating pulpit, with a place below for the Precentor
 to sing and a place above for the minister to preach,
@@ -7784,7 +7784,7 @@ which Mr. Douglas Murrel proceeded to do with great unction
 and edification.  Of how Mr. Douglas Murrel organised
 a series of historical lectures by Mr. Herne from the top
 of the cab, and seconded them with comments and explanations,
-making the lecturing tour quite a financial success by
+making the lecturing tour quite a financial [[success]] by
 methods perhaps not invariably respectful to the lecturer.
 But though there may have been moments when the squire fell
 short of a complete seriousness, it is probable on the whole
@@ -7795,26 +7795,26 @@ who badly wanted fighting.  And Herne at least was completely
 convinced of the serious social utility of this line of attack.
 A sadder and conceivably even a wiser man, he had many long
 talks with his friend, in which he never ceased to elaborate
-the Defence of Don Quixote and the necessity of his real return.
+the Defence of [[Don Quixote]] and the necessity of his real return.
 One was especially memorable:  which took place as they sat
 under a hedge in the high lanes of Sussex.
 
 "They say I am behind the times," said Herne, "and living in the days
-that Don Quixote dreamed of.  They seemed to forget that they
+that [[Don Quixote]] dreamed of.  They seemed to forget that they
 themselves are at least three hundred years behind the times
-and living in the days when Cervantes dreamed of Don Quixote.
-They are still living in the Renaissance; in what Cervantes
+and living in the days when Cervantes dreamed of [[Don Quixote]].
+They are still living in the [[Renaissance]]; in what Cervantes
 naturally regarded as the New Birth.  But I say that a baby
 that is three hundred years old is already getting on in life.
-It is time he was born again."
+It is [[Time|time]] he was born again."
 
 "Is he to be born again," asked Murrel, "as a medieval knight-errant?"
 
-"Why not?" asked the other, "if the Renaissance man was born
-again as an Ancient Greek?  Cervantes thought that Romance
+"Why not?" asked the other, "if the [[Renaissance]] man was born
+again as an Ancient Greek?  Cervantes thought that [[Romance]]
 was dying and that Reason might reasonably take its place.
-But I say that in our time Reason is dying, in that sense;
-and it is old age is really less respectable than the old romance.
+But I say that in our [[Time|time]] Reason is dying, in that sense;
+and it is old age is really less respectable than the old [[Romance|romance]].
 We want to recur to the more simple and direct attack.
 What we want now is somebody who does believe in tilting at giants."
 
@@ -7822,7 +7822,7 @@ What we want now is somebody who does believe in tilting at giants."
 
 "Have you ever reflected," said his friend, "what a good
 thing it would have been if he had smashed the windmills?
-From what I know now of medieval history, I should say his only
+From what I know now of medieval [[history]], I should say his only
 mistake was in tilting at the mills instead of the millers.
 The miller was the middleman of the middle ages.
 He was the beginning of all the middlemen of the modern ages.
@@ -7830,7 +7830,7 @@ His mills were the beginning of all the mills and
 manufactures that have darkened and degraded modern life.
 So that even Cervantes, in a way, chose an example
 against himself.  And it's more so with the other examples.
-Don Quixote set free a lot of captives who were only convicts.
+[[Don Quixote]] set free a lot of captives who were only convicts.
 Nowadays it's mostly those who have been beggared who are
 jailed and those who have robbed them who are free.
 I'm not sure the mistake would be quite so mistaken."
@@ -7841,20 +7841,20 @@ to be dealt with in such a simple way?"
 "I think," replied Herne, "that modern things are too complicated
 to be dealt with except in a simple way."
 
-He rose from his feet and strode to and fro on the road with all
+He [[Rose|rose]] from his feet and strode to and fro on the [[Road|road]] with all
 the dreamy energy of his prototype.  He seemed trying to tear
 his real meaning out of himself.
 
 "Don't you see," he cried, "that is the moral of the whole thing.
 All your machinery has become so inhuman that it has become natural.
-In becoming a second nature, it has become as remote and indifferent
-and cruel as nature.  The Knight is once more riding in the forest.
+In becoming a second [[Nature|nature]], it has become as remote and indifferent
+and cruel as [[Nature|nature]].  The Knight is once more riding in the forest.
 Only he is lost in the wheels instead of in the woods.
 You have made your dead system on so large a scale that you do not
-yourselves know how or where it will hit.  That's the paradox!
+yourselves know how or where it will hit.  That's the [[Paradox|paradox]]!
 Things have grown incalculable by being calculated.
 You have tied men to tools so gigantic that they do not know on whom
-the strokes descend.  You have justified the nightmare of Don Quixote.
+the strokes descend.  You have justified the [[nightmare]] of [[Don Quixote]].
 The mills really _are_ giants."
 
 "Is there any method in that case," demanded the other.
@@ -7877,12 +7877,12 @@ stung him into speech upon certain matters; for under all this
 tomfoolery he had something more than the reticence of his breed.
 As it was, he looked uncomfortable and said:  "Look here, you mustn't
 give me credit like that.  I'm not on as Galahad in this scene.
-I hope I'd have done my best for the old Honkey; but I did like that girl;
+I [[Hope|hope]] I'd have done my best for the old Honkey; but I did like that girl;
 I liked her rather a lot."
 
 "Did you tell her so?" asked Herne in his obvious manner.
 
-"I couldn't very well," replied the other, "just when she was under sort
+"I couldn't very [[Well|well]]," replied the other, "just when she was under sort
 of an obligation to me."
 
 "My dear Murrel," cried Herne with impulsive simplicity,
@@ -7899,14 +7899,14 @@ might be a statute of limitations allowing you a fresh start?
 Would you like to go down--down to the west again?"
 
 Murrel's brow seemed knotted with a new embarrassment.
-"The truth is I rather avoided the neighbourhood--and the subject.
+"The [[Truth|truth]] is I rather avoided the neighbourhood--and the subject.
 I thought that you--"
 
-"I know what you mean," said Herne.  "For a long time I could hardly
-look out of a window facing that way.  I wanted to turn my back
-on the west wind; and the sunsets burned me like red-hot irons.
+"I know what you mean," said Herne.  "For a long [[Time|time]] I could hardly
+look out of a [[Window|window]] facing that way.  I wanted to turn my back
+on the west [[Wind|wind]]; and the sunsets burned me like red-hot irons.
 But a man gets calmer as the years go by, even if he doesn't get
-more cheerful.  I don't think I could go to the house itself;
+more cheerful.  I don't think I could go to the [[house]] itself;
 but I would really be glad to hear the news about--anybody."
 
 "Oh if we go there," said Murrel cheerfully, "I'll undertake
@@ -7915,7 +7915,7 @@ to go in and enquire."
 "Do you mean," asked Herne almost timidly, "go into--Seawood Abbey?"
 
 "Yes," answered Murrel shortly.  "I daresay we're in the same boat.
-I might find the other house a little harder."
+I might find the other [[house]] a little harder."
 
 They completed the rest of their programme by a tacit, not to say
 taciturn agreement; and so it fell out that, before they had
@@ -7924,7 +7924,7 @@ of all that for so long they had not seen and had avoided seeing;
 the evening sun on the high lawns of Seawood and the steep Gothic
 roofs among the trees.
 
-Certainly they needed no words of explanation when Michael Herne
+Certainly they needed no words of explanation when [[Michael]] Herne
 halted and looked across at his friend, as if bidding him go on.
 Murrel nodded and went quickly with his light and agile step up
 the steep woodland path and over the stile and dropped into the avenue
@@ -7936,8 +7936,8 @@ Monkey was no mystic; but this fact affected him with a
 mournful thrill that had in it something of mysticism.
 That incongruous element increased upon him in some indescribable
 subconscious way as he approached the great doors and,
-for the first time in his life, knocked on them and rang
-a great iron bell.  He felt rather as if he were in a dream;
+for the first [[Time|time]] in his life, knocked on them and rang
+a great iron bell.  He felt rather as if he were in [[A Dream|a dream]];
 and yet as if he were near to some more strange awakening.
 But queer as were his unformed anticipations, they were not
 so queer as what he found.
@@ -7949,8 +7949,8 @@ his friend felt that there was something odd about his quietude.
 He sat down on the bank and ruminated for a moment; then he said:
 "An extraordinary thing has happened to Seawood Abbey.  It has not been
 exactly burned to the ground, because somehow it seems to be still there,
-and looking rather more well-preserved than before.  It has not been,
-in any material or meteorological sense struck by lightning from heaven.
+and looking rather more [[Well|well]]-preserved than before.  It has not been,
+in any material or meteorological sense struck by [[Lightning|lightning]] from heaven.
 And yet I am not sure . . . anyhow a most stunning and crashing
 catastrophe has fallen on that Abbey."
 
@@ -7968,12 +7968,12 @@ of our old friends."
 
 "You mean it is a monastery.  What news did he give you?"
 
-"He was full of Society Snippets," said Murrel in his melancholy voice.
+"He was full of Society Snippets," said Murrel in his [[Melancholy|melancholy]] voice.
 "It all began with Lord Seawood dying about a year ago.  The property
 went to his--his heiress, who it seems has 'gone over' as the saying is.
 She's become a Catholic; and a very extraordinary sort of Catholic too.
 She has given up all this vast property to my friend the Abbot and his
-merry men; and gone down to work as a nurse in some Catholic settlement
+merry men; and gone down to work as a [[Nurse|nurse]] in some Catholic settlement
 or other down in the Docks; Limehouse, I think, where Chinamen strangle
 their daughters according to the Twelve Immortal Principles."
 
@@ -7988,19 +7988,19 @@ seems strange to . . ."
 and ask a Chinese strangler for The Honourable Rosamund Severne.
 But I ought to tell you on the authority of the Abbot,
 that she declares that her name is not Rosamund Severne.
-I understand you may find her if you enquire for Miss Smith."
+I understand you may find her if you enquire for Miss [[smith|Smith]]."
 
 And at that once more did lunacy strike the librarian of Seawood
-like lightning out of heaven; and leaping over a hedge he went
+like [[Lightning|lightning]] out of heaven; and leaping over a hedge he went
 racing eastwards towards a pinewood that lay across his path,
 which might be presumed to be on the outskirts of Limehouse
-and offer opportunities for enquiring after Miss Smith.
+and offer opportunities for enquiring after Miss [[smith|Smith]].
 
 It was rather more than three months later that the lunatics'
 progress came to its appointed end, and this story with it.
 Its pace had changed from capering to something more like plodding
 and to threading the labyrinths of the lowest quarters of Limehouse.
-But it ended one night when a sort of green fog of dusk hung like
+But it ended one [[Night|night]] when a sort of green fog of dusk hung like
 the fumes of some drug of witchcraft, as he turned down a crack of
 narrow street, at the corner of which hung a painted paper lantern.
 A little further down the dim defile glowed another lantern; which looked
@@ -8016,13 +8016,13 @@ So much was that great thirst for colour, which had filled
 his life, fed as from a goblet of flame, by that trivial sign
 and in this sordid place, that it scarcely surprised him
 to find himself in her presence, who stood crowned in his
-dreams as in the melodrama and the tragedy of other days.
+[[Dreams|dreams]] as in the [[Melodrama|melodrama]] and the [[Tragedy|tragedy]] of other days.
 A straight dark dress hung on her from neck to heel,
 but it was of a normal pattern; and her red hair still looked
-like a crown.
+like a [[Crown|crown]].
 
-With that queer awkward promptitude, that belonged to him alone,
-he said his simplest thought in plain words, "You are a nurse
+With that queer awkward promptitude, that belonged to him [[Alone|alone]],
+he said his simplest thought in plain words, "You are a [[Nurse|nurse]]
 and not a nun."
 
 She smiled.  "You don't know much about nuns if you think
@@ -8046,7 +8046,7 @@ But it was not he who did the real wrong of which all these
 wrongs have sprung."
 
 "I know what you mean," he replied.  "I had rather begun to think
-so myself, the more I read of history.  But in all that history
+so myself, the more I read of [[history]].  But in all that [[history]]
 there is nothing so noble as you and what you have done.
 You are the greatest of historical characters; and the learned
 may come to call you a legend."
@@ -8057,13 +8057,13 @@ a flash of moonlight, as she said.  I could only go away
 and think things out slowly and stupidly by myself; but I got
 there at last."
 
-"Do you mean," asked Michael slowly, "that Olive Ashley
+"Do you mean," asked [[Michael]] slowly, "that Olive Ashley
 also has--got there?"
 
 "Yes," she replied, "and the odd thing is that John Braintree doesn't
 seem to mind a bit.  At least a good many people would think it odd;
 they are married now and they seem to agree about almost everything.
-I wonder how much there really was for good people to disagree about
+I [[Wonder|wonder]] how much there really was for good people to disagree about
 in those quarrelsome old times."
 
 "I know," he answered.  "Everybody seems to be married.
@@ -8073,16 +8073,16 @@ month or so."
 "Even Monkey is married, I hear," she said.  "It seems like the end
 of the world.  But perhaps its the beginning of the world.
 One thing you may be sure of, though lots of people would laugh at it.
-Whenever Monks come back, marriages will come back."
+Whenever [[Monks]] come back, marriages will come back."
 
 "He went back to that seaside town and married Dr. Hendry's daughter,"
-explained Michael Herne rather vaguely.  "We parted by a sort
+explained [[Michael]] Herne rather vaguely.  "We parted by a sort
 of silent consent at Seawood Abbey and he went west and I east.
-I had to go and look for you alone:  and I was very much alone."
+I had to go and look for you [[Alone|alone]]:  and I was very much [[Alone|alone]]."
 
 "You say 'was,'" she said with a smile; and they suddenly
-moved towards each other and met as they had met in the garden
-long ago--in a silence full of many things; a silence which
+moved towards each other and met as they had met in the [[Garden|garden]]
+long ago--in a [[Silence|silence]] full of many things; a [[Silence|silence]] which
 he broke by saying suddenly, in his abrupt and awkward way:
 "I suppose I am a heretic."
 
@@ -8090,12 +8090,12 @@ he broke by saying suddenly, in his abrupt and awkward way:
 
 Herne's thoughts abruptly and absently went back to the old
 tangled talk between himself and Archer about the Albigensian
-heresy and what need to follow conversion from it; he stood
+heresy and what need to follow [[Conversion|conversion]] from it; he stood
 a moment with his wits wool gathering.  Then in that narrow street
 of the coloured lantern a new and astonishing thing happened;
 something that never had happened in all the topsy turvey happenings
-of his historical career.  Michael Herne laughed.  For the first
-time in his life he seriously saw a joke and deliberately made it.
+of his historical career.  [[Michael]] Herne laughed.  For the first
+[[Time|time]] in his life he seriously saw a joke and deliberately made it.
 It is typical of him that his one joke was one which nobody else
 could see, or would probably ever understand.
 

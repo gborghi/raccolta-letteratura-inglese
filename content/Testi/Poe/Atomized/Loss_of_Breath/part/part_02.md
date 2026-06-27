@@ -1,5 +1,5 @@
 ---
-title: "Loss of Breath (part 2)"
+title: "[[Loss of Breath]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Loss-of-Breath-(Poe)"
@@ -18,11 +18,11 @@ tags:
 
       should admire anything so dissimilar to myself was a natural and
 
-      necessary evil. I am, it is well known, of a robust and corpulent
+      necessary evil. I am, it is [[Well|well]] known, of a robust and corpulent
 
-      appearance, and at the same time somewhat diminutive in stature.
+      appearance, and at the same [[Time|time]] somewhat diminutive in stature.
 
-      What wonder, then, that the lath-like tenuity of my acquaintance,
+      What [[Wonder|wonder]], then, that the lath-like tenuity of my acquaintance,
 
       and his altitude, which has grown into a proverb, should have met
 
@@ -36,7 +36,7 @@ tags:
 
       after closet—drawer after drawer—corner after corner—were
 
-      scrutinized to no purpose. At one time, however, I thought myself
+      scrutinized to no purpose. At one [[Time|time]], however, I thought myself
 
       sure of my prize, having, in rummaging a dressing-case,
 
@@ -56,21 +56,21 @@ tags:
 
       already made up my mind. In a foreign climate, being unknown, I
 
-      might, with some probability of success, endeavor to conceal my
+      might, with some probability of [[success]], endeavor to conceal my
 
       unhappy calamity—a calamity calculated, even more than beggary,
 
       to estrange the affections of the multitude, and to draw down
 
-      upon the wretch the well-merited indignation of the virtuous and
+      upon the wretch the [[Well|well]]-merited indignation of the virtuous and
 
       the happy. I was not long in hesitation. Being naturally quick, I
 
-      committed to memory the entire tragedy of “Metamora.” I had the
+      committed to [[Memory|memory]] the entire [[Tragedy|tragedy]] of “Metamora.” I had the
 
       good fortune to recollect that in the accentuation of this drama,
 
-      or at least of such portion of it as is allotted to the hero, the
+      or at least of such portion of it as is allotted to the [[Hero|hero]], the
 
       tones of voice in which I found myself deficient were altogether
 
@@ -80,7 +80,7 @@ tags:
 
 
 
-      I practised for some time by the borders of a well frequented
+      I practised for some [[Time|time]] by the borders of a [[Well|well]] frequented
 
       marsh;—herein, however, having no reference to a similar
 
@@ -96,9 +96,9 @@ tags:
 
       most frog-like and sepulchral tones with some passage from the
 
-      tragedy—any portion of which, as I soon took great pleasure in
+      [[Tragedy|tragedy]]—any portion of which, as I soon took great pleasure in
 
-      observing, would apply equally well to any particular subject. It
+      observing, would apply equally [[Well|well]] to any particular subject. It
 
       is not to be supposed, however, that in the delivery of such
 
@@ -124,7 +124,7 @@ tags:
 
       importance required my immediate personal attendance in that
 
-      city.
+      [[City|city]].
 
 
 
@@ -138,7 +138,7 @@ tags:
 
       size larger, requesting pardon for the liberty he was about to
 
-      take, threw himself upon my body at full length, and falling
+      take, threw himself upon my [[Body|body]] at full length, and falling
 
       asleep in an instant, drowned all my guttural ejaculations for
 
@@ -154,7 +154,7 @@ tags:
 
       As, however, the day broke more distinctly in our approach to the
 
-      outskirts of the city, my tormentor, arising and adjusting his
+      outskirts of the [[City|city]], my tormentor, arising and adjusting his
 
       shirt-collar, thanked me in a very friendly manner for my
 
@@ -166,11 +166,11 @@ tags:
 
       communicated, in a very decided manner, his opinion that a dead
 
-      man had been palmed upon them during the night for a living and
+      man had been palmed upon them during the [[Night|night]] for a living and
 
       responsible fellow-traveller; here giving me a thump on the right
 
-      eye, by way of demonstrating the truth of his suggestion.
+      eye, by way of demonstrating the [[Truth|truth]] of his suggestion.
 
 
 
@@ -178,7 +178,7 @@ tags:
 
       believed it their duty to pull me by the ear. A young practising
 
-      physician, too, having applied a pocket-mirror to my mouth, and
+      physician, too, having applied a pocket-[[Mirror|mirror]] to my mouth, and
 
       found me without breath, the assertion of my persecutor was
 
@@ -198,7 +198,7 @@ tags:
 
       with any farther accident than the breaking of both my arms,
 
-      under the left hind wheel of the vehicle. I must besides do the
+      under the left hind [[Wheel|wheel]] of the vehicle. I must besides do the
 
       driver the justice to state that he did not forget to throw after
 

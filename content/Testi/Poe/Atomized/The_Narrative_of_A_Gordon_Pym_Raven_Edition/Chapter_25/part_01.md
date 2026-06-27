@@ -26,9 +26,9 @@ CHAPTER 25
 
       and with no provision but the three turtles. The long polar
 
-      winter, too, could not be considered as far distant, and it
+      [[Winter|winter]], too, could not be considered as far distant, and it
 
-      became necessary that we should deliberate well upon the course
+      became necessary that we should deliberate [[Well|well]] upon the course
 
       to be pursued. There were six or seven islands in sight belonging
 
@@ -50,7 +50,7 @@ CHAPTER 25
 
       period of the season. Only one course seemed to be left open for
 
-      hope. We resolved to steer boldly to the southward, where there
+      [[Hope|hope]]. We resolved to steer boldly to the southward, where there
 
       was at least a probability of discovering other lands, and more
 
@@ -60,17 +60,17 @@ CHAPTER 25
 
       So far we had found the Antarctic, like the Arctic Ocean,
 
-      peculiarly free from violent storms or immoderately rough water;
+      peculiarly free from violent storms or immoderately rough [[Water|water]];
 
       but our canoe was, at best, of frail structure, although large,
 
       and we set busily to work with a view of rendering her as safe as
 
-      the limited means in our possession would admit. The body of the
+      the limited means in our possession would admit. The [[Body|body]] of the
 
       boat was of no better material than bark—the bark of a tree
 
-      unknown. The ribs were of a tough osier, well adapted to the
+      unknown. The ribs were of a tough osier, [[Well|well]] adapted to the
 
       purpose for which it was used. We had fifty feet room from stem
 
@@ -134,7 +134,7 @@ CHAPTER 25
 
       southward. The weather could by no means be considered
 
-      disagreeable. We had a prevailing and very gentle wind from the
+      disagreeable. We had a prevailing and very gentle [[Wind|wind]] from the
 
       northward, a smooth sea, and continual daylight. No ice whatever
 
@@ -142,17 +142,17 @@ CHAPTER 25
 
       leaving the parallel of Bennet’s Islet._Indeed, the temperature
 
-      of the water was here far too warm for its existence in any
+      of the [[Water|water]] was here far too warm for its existence in any
 
       quantity. Having killed the largest of our tortoises, and
 
-      obtained from him not only food but a copious supply of water, we
+      obtained from him not only food but a copious supply of [[Water|water]], we
 
       continued on our course, without any incident of moment, for
 
       perhaps seven or eight days, during which period we must have
 
-      proceeded a vast distance to the southward, as the wind blew
+      proceeded a vast distance to the southward, as the [[Wind|wind]] blew
 
       constantly with us, and a very strong current set continually in
 
@@ -162,7 +162,7 @@ CHAPTER 25
 
       _March 1st_. {*7}-Many unusual phenomena now—indicated that we
 
-      were entering upon a region of novelty and wonder. A high range
+      were entering upon a region of novelty and [[Wonder|wonder]]. A high range
 
       of light gray vapor appeared constantly in the southern horizon,
 
@@ -192,12 +192,12 @@ CHAPTER 25
 
       there were eight islands in the group—that they were governed by
 
-      a common king, named _Tsalemon_or _Psalemoun,_who resided in one
+      a common [[King|king]], named _Tsalemon_or _Psalemoun,_who resided in one
 
       of the smallest of the islands; that the black skins forming the
 
       dress of the warriors came from an animal of huge size to be
 
-      found only in a valley near the court of the king—that the
+      found only in a valley near the [[Court|court]] of the [[King|king]]—that the
 
       inhabitants of the group fabricated no other boats than the

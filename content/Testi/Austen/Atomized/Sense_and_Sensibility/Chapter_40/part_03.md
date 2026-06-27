@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 40 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 40 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -18,7 +18,7 @@ tags:
 
 
 
-“Well, and how soon will he be ready?—For it seems all to depend upon
+“[[Well]], and how soon will he be ready?—For it seems all to depend upon
 
 that.”
 
@@ -26,7 +26,7 @@ that.”
 
 “Really,” said Elinor, “I know so little of these kind of forms, that I
 
-can hardly even conjecture as to the time, or the preparation
+can hardly even conjecture as to the [[Time|time]], or the preparation
 
 necessary; but I suppose two or three months will complete his
 
@@ -44,7 +44,7 @@ one would be very glad to do a kindness by poor Mr. Ferrars, I do think
 
 it is not worth while to wait two or three months for him. Sure
 
-somebody else might be found that would do as well; somebody that is in
+somebody else might be found that would do as [[Well|well]]; somebody that is in
 
 orders already.”
 
@@ -52,7 +52,7 @@ orders already.”
 
 “My dear ma’am,” said Elinor, “what can you be thinking of? Why,
 
-Colonel Brandon’s only object is to be of use to Mr. Ferrars.”
+[[Colonel Brandon]]’s only object is to be of use to Mr. Ferrars.”
 
 
 
@@ -64,7 +64,7 @@ Ferrars!”
 
 
 
-The deception could not continue after this; and an explanation
+The [[Deception|deception]] could not continue after this; and an explanation
 
 immediately took place, by which both gained considerable amusement for
 
@@ -82,7 +82,7 @@ ebullition of surprise and satisfaction was over, “and very likely
 
 _may_ be out of repair; but to hear a man apologising, as I thought,
 
-for a house that to my knowledge has five sitting rooms on the
+for a [[house]] that to my knowledge has five sitting rooms on the
 
 ground-floor, and I think the housekeeper told me could make up fifteen
 
@@ -96,7 +96,7 @@ before Lucy goes to it.”
 
 
 
-“But Colonel Brandon does not seem to have any idea of the living’s
+“But [[Colonel Brandon]] does not seem to have any idea of the living’s
 
 being enough to allow them to marry.”
 

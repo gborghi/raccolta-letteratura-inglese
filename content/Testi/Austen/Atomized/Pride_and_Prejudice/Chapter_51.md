@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 51"
+title: "[[Pride and Prejudice]] — Chapter 51"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -29,14 +29,14 @@ must endure.
 
 They came. The family were assembled in the breakfast-room to receive
 them. Smiles decked the face of Mrs. Bennet, as the carriage drove up to
-the door; her husband looked impenetrably grave; her daughters, alarmed,
+the door; her husband looked impenetrably [[Grave|grave]]; her daughters, alarmed,
 anxious, uneasy.
 
 Lydia’s voice was heard in the vestibule; the door was thrown open, and
 she ran into the room. Her mother stepped forwards, embraced her, and
 welcomed her with rapture; gave her hand with an affectionate smile to
 Wickham, who followed his lady; and wished them both joy, with an
-alacrity which showed no doubt of their happiness.
+alacrity which showed no [[Doubt|doubt]] of their happiness.
 
 Their reception from Mr. Bennet, to whom they then turned, was not quite
 so cordial. His countenance rather gained in austerity; and he scarcely
@@ -51,7 +51,7 @@ some little alteration in it, and observed, with a laugh, that it was a
 great while since she had been there.
 
 Wickham was not at all more distressed than herself; but his manners
-were always so pleasing, that, had his character and his marriage been
+were always so pleasing, that, had his character and his [[Marriage|marriage]] been
 exactly what they ought, his smiles and his easy address, while he
 claimed their relationship, would have delighted them all. Elizabeth
 had not before believed him quite equal to such assurance; but she sat
@@ -65,13 +65,13 @@ of them talk fast enough; and Wickham, who happened to sit near
 Elizabeth, began inquiring after his acquaintance in that neighbourhood,
 with a good-humoured ease, which she felt very unable to equal in her
 replies. They seemed each of them to have the happiest memories in the
-world. Nothing of the past was recollected with pain; and Lydia led
+world. Nothing of the past was recollected with [[Pain|pain]]; and Lydia led
 voluntarily to subjects which her sisters would not have alluded to for
 the world.
 
 “Only think of its being three months,” she cried, “since I went away:
 it seems but a fortnight, I declare; and yet there have been things
-enough happened in the time. Good gracious! when I went away, I am sure
+enough happened in the [[Time|time]]. Good gracious! when I went away, I am sure
 I had no more idea of being married till I came back again! though I
 thought it would be very good fun if I was.”
 
@@ -83,7 +83,7 @@ which she chose to be insensible, gaily continued,--
 afraid they might not; and we overtook William Goulding in his curricle,
 so I was determined he should know it, and so I let down the side glass
 next to him, and took off my glove and let my hand just rest upon the
-window frame, so that he might see the ring, and then I bowed and
+[[Window|window]] frame, so that he might see the ring, and then I bowed and
 smiled like anything.”
 
 Elizabeth could bear it no longer. She got up and ran out of the room;
@@ -95,16 +95,16 @@ her eldest sister,--
 “Ah, Jane, I take your place now, and you must go lower, because I am a
 married woman.”
 
-It was not to be supposed that time would give Lydia that embarrassment
+It was not to be supposed that [[Time|time]] would give Lydia that embarrassment
 from which she had been so wholly free at first. Her ease and good
 spirits increased. She longed to see Mrs. Philips, the Lucases, and all
 their other neighbours, and to hear herself called “Mrs. Wickham” by
 each of them; and in the meantime she went after dinner to show her ring
-and boast of being married to Mrs. Hill and the two housemaids.
+and boast of being married to Mrs. [[Hill]] and the two housemaids.
 
-“Well, mamma,” said she, when they were all returned to the
+“[[Well]], mamma,” said she, when they were all returned to the
 breakfast-room, “and what do you think of my husband? Is not he a
-charming man? I am sure my sisters must all envy me. I only hope they
+charming man? I am sure my sisters must all envy me. I only [[Hope|hope]] they
 may have half my good luck. They must all go to Brighton. That is the
 place to get husbands. What a pity it is, mamma, we did not all go!”
 
@@ -113,32 +113,32 @@ at all like your going such a way off. Must it be so?”
 
 “Oh, Lord! yes; there is nothing in that. I shall like it of all things.
 You and papa, and my sisters, must come down and see us. We shall be at
-Newcastle all the winter, and I dare say there will be some balls, and I
+Newcastle all the [[Winter|winter]], and I dare say there will be some balls, and I
 will take care to get good partners for them all.”
 
 “I should like it beyond anything!” said her mother.
 
 “And then when you go away, you may leave one or two of my sisters
 behind you; and I dare say I shall get husbands for them before the
-winter is over.”
+[[Winter|winter]] is over.”
 
 “I thank you for my share of the favour,” said Elizabeth; “but I do not
 particularly like your way of getting husbands.”
 
 Their visitors were not to remain above ten days with them. Mr. Wickham
-had received his commission before he left London, and he was to join
+had received his commission before he left [[London]], and he was to join
 his regiment at the end of a fortnight.
 
 No one but Mrs. Bennet regretted that their stay would be so short; and
-she made the most of the time by visiting about with her daughter, and
-having very frequent parties at home. These parties were acceptable to
+she made the most of the [[Time|time]] by visiting about with her daughter, and
+having very frequent parties at [[Home|home]]. These parties were acceptable to
 all; to avoid a family circle was even more desirable to such as did
 think than such as did not.
 
 Wickham’s affection for Lydia was just what Elizabeth had expected to
 find it; not equal to Lydia’s for him. She had scarcely needed her
 present observation to be satisfied, from the reason of things, that
-their elopement had been brought on by the strength of her love rather
+their elopement had been brought on by the strength of her [[Love|love]] rather
 than by his; and she would have wondered why, without violently caring
 for her, he chose to elope with her at all, had she not felt certain
 that his flight was rendered necessary by distress of circumstances; and
@@ -147,7 +147,7 @@ of having a companion.
 
 Lydia was exceedingly fond of him. He was her dear Wickham on every
 occasion; no one was to be put in competition with him. He did
-everything best in the world; and she was sure he would kill more birds
+everything best in the world; and she was sure he would kill more [[Birds|birds]]
 on the first of September than anybody else in the country.
 
 One morning, soon after their arrival, as she was sitting with her two
@@ -163,33 +163,33 @@ said on the subject.”
 “La! You are so strange! But I must tell you how it went off. We were
 married, you know, at St. Clement’s, because Wickham’s lodgings were in
 that parish. And it was settled that we should all be there by eleven
-o’clock. My uncle and aunt and I were to go together; and the others
+o’[[Clock|clock]]. My uncle and aunt and I were to go together; and the others
 were to meet us at the church.
 
-“Well, Monday morning came, and I was in such a fuss! I was so afraid,
+“[[Well]], Monday morning came, and I was in such a fuss! I was so afraid,
 you know, that something would happen to put it off, and then I should
-have gone quite distracted. And there was my aunt, all the time I was
+have gone quite distracted. And there was my aunt, all the [[Time|time]] I was
 dressing, preaching and talking away just as if she was reading a
 sermon. However, I did not hear above one word in ten, for I was
 thinking, you may suppose, of my dear Wickham. I longed to know whether
 he would be married in his blue coat.
 
-“Well, and so we breakfasted at ten as usual: I thought it would never
+“[[Well]], and so we breakfasted at ten as usual: I thought it would never
 be over; for, by the bye, you are to understand that my uncle and aunt
-were horrid unpleasant all the time I was with them. If you’ll believe
+were horrid unpleasant all the [[Time|time]] I was with them. If you’ll believe
 me, I did not once put my foot out of doors, though I was there a
-fortnight. Not one party, or scheme, or anything! To be sure, London was
+fortnight. Not one party, or scheme, or anything! To be sure, [[London]] was
 rather thin, but, however, the Little Theatre was open.
 
-“Well, and so, just as the carriage came to the door, my uncle was
+“[[Well]], and so, just as the carriage came to the door, my uncle was
 called away upon business to that horrid man Mr. Stone. And then, you
-know, when once they get together, there is no end of it. Well, I was so
+know, when once they get together, there is no end of it. [[Well]], I was so
 frightened I did not know what to do, for my uncle was to give me away;
 and if we were beyond the hour we could not be married all day. But,
-luckily, he came back again in ten minutes’ time, and then we all set
+luckily, he came back again in ten minutes’ [[Time|time]], and then we all set
 out. However, I recollected afterwards, that if he _had_ been prevented
 going, the wedding need not be put off, for Mr. Darcy might have done as
-well.”
+[[Well|well]].”
 
 “Mr. Darcy!” repeated Elizabeth, in utter amazement.
 
@@ -212,7 +212,7 @@ power, by running away.
 But to live in ignorance on such a point was impossible; or at least it
 was impossible not to try for information. Mr. Darcy had been at her
 sister’s wedding. It was exactly a scene, and exactly among people,
-where he had apparently least to do, and least temptation to go.
+where he had apparently least to do, and least [[Temptation|temptation]] to go.
 Conjectures as to the meaning of it, rapid and wild, hurried into her
 brain; but she was satisfied with none. Those that best pleased her, as
 placing his conduct in the noblest light, seemed most improbable. She
@@ -224,7 +224,7 @@ intended.
 “You may readily comprehend,” she added, “what my curiosity must be to
 know how a person unconnected with any of us, and, comparatively
 speaking, a stranger to our family, should have been amongst you at such
-a time. Pray write instantly, and let me understand it--unless it is,
+a [[Time|time]]. Pray write instantly, and let me understand it--unless it is,
 for very cogent reasons, to remain in the secrecy which Lydia seems to
 think necessary; and then I must endeavour to be satisfied with
 ignorance.”
@@ -234,7 +234,7 @@ letter; “and, my dear aunt, if you do not tell me in an honourable
 manner, I shall certainly be reduced to tricks and stratagems to find it
 out.”
 
-Jane’s delicate sense of honour would not allow her to speak to
+Jane’s delicate sense of [[Honour|honour]] would not allow her to speak to
 Elizabeth privately of what Lydia had let fall; Elizabeth was glad of
 it:--till it appeared whether her inquiries would receive any
 satisfaction, she had rather be without a confidante.

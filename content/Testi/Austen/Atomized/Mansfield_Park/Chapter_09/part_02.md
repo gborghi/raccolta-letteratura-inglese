@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 9 (part 2)"
+title: "[[Mansfield Park]] — Chapter 9 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -15,10 +15,10 @@ tags:
 
 
 For a few moments she was unanswered. Fanny coloured and looked at
-Edmund, but felt too angry for speech; and he needed a little
+[[Edmund]], but felt too angry for speech; and he needed a little
 recollection before he could say, “Your lively mind can hardly be
-serious even on serious subjects. You have given us an amusing sketch,
-and human nature cannot say it was not so. We must all feel _at_
+serious even on serious subjects. You have given us an amusing [[Sketch|sketch]],
+and human [[Nature|nature]] cannot say it was not so. We must all feel _at_
 _times_ the difficulty of fixing our thoughts as we could wish; but if
 you are supposing it a frequent thing, that is to say, a weakness grown
 into a habit from neglect, what could be expected from the _private_
@@ -35,18 +35,18 @@ circumstance, would find objects to distract it in the _other_, I
 believe; and the influence of the place and of example may often rouse
 better feelings than are begun with. The greater length of the service,
 however, I admit to be sometimes too hard a stretch upon the mind. One
-wishes it were not so; but I have not yet left Oxford long enough to
+wishes it were not so; but I have not yet left [[Oxford]] long enough to
 forget what chapel prayers are.”
 
 While this was passing, the rest of the party being scattered about the
-chapel, Julia called Mr. Crawford’s attention to her sister, by saying,
-“Do look at Mr. Rushworth and Maria, standing side by side, exactly as
+chapel, [[Julia]] called Mr. Crawford’s attention to her sister, by saying,
+“Do look at Mr. Rushworth and [[Maria]], standing side by side, exactly as
 if the ceremony were going to be performed. Have not they completely
 the air of it?”
 
-Mr. Crawford smiled his acquiescence, and stepping forward to Maria,
+Mr. Crawford smiled his acquiescence, and stepping forward to [[Maria]],
 said, in a voice which she only could hear, “I do not like to see Miss
-Bertram so near the altar.”
+[[Bertram]] so near the altar.”
 
 Starting, the lady instinctively moved a step or two, but recovering
 herself in a moment, affected to laugh, and asked him, in a tone not
@@ -55,23 +55,23 @@ much louder, “If he would give her away?”
 “I am afraid I should do it very awkwardly,” was his reply, with a look
 of meaning.
 
-Julia, joining them at the moment, carried on the joke.
+[[Julia]], joining them at the moment, carried on the joke.
 
 “Upon my word, it is really a pity that it should not take place
 directly, if we had but a proper licence, for here we are altogether,
 and nothing in the world could be more snug and pleasant.” And she
 talked and laughed about it with so little caution as to catch the
 comprehension of Mr. Rushworth and his mother, and expose her sister to
-the whispered gallantries of her lover, while Mrs. Rushworth spoke with
+the whispered gallantries of her [[Lover|lover]], while Mrs. Rushworth spoke with
 proper smiles and dignity of its being a most happy event to her
 whenever it took place.
 
-“If Edmund were but in orders!” cried Julia, and running to where he
-stood with Miss Crawford and Fanny: “My dear Edmund, if you were but in
+“If [[Edmund]] were but in orders!” cried [[Julia]], and running to where he
+stood with Miss Crawford and Fanny: “My dear [[Edmund]], if you were but in
 orders now, you might perform the ceremony directly. How unlucky that
-you are not ordained; Mr. Rushworth and Maria are quite ready.”
+you are not ordained; Mr. Rushworth and [[Maria]] are quite ready.”
 
-Miss Crawford’s countenance, as Julia spoke, might have amused a
+Miss Crawford’s countenance, as [[Julia]] spoke, might have amused a
 disinterested observer. She looked almost aghast under the new idea she
 was receiving. Fanny pitied her. “How distressed she will be at what
 she said just now,” passed across her mind.
@@ -85,18 +85,18 @@ Miss Crawford, rallying her spirits, and recovering her complexion,
 replied only, “If I had known this before, I would have spoken of the
 cloth with more respect,” and turned the subject.
 
-The chapel was soon afterwards left to the silence and stillness which
+The chapel was soon afterwards left to the [[Silence|silence]] and stillness which
 reigned in it, with few interruptions, throughout the year. Miss
-Bertram, displeased with her sister, led the way, and all seemed to
+[[Bertram]], displeased with her sister, led the way, and all seemed to
 feel that they had been there long enough.
 
-The lower part of the house had been now entirely shewn, and Mrs.
+The lower part of the [[house]] had been now entirely shewn, and Mrs.
 Rushworth, never weary in the cause, would have proceeded towards the
 principal staircase, and taken them through all the rooms above, if her
-son had not interposed with a doubt of there being time enough. “For
-if,” said he, with the sort of self-evident proposition which many a
+son had not interposed with a [[Doubt|doubt]] of there being [[Time|time]] enough. “For
+if,” said he, with the sort of [[Self|self]]-evident proposition which many a
 clearer head does not always avoid, “we are _too_ long going over the
-house, we shall not have time for what is to be done out of doors. It
+[[house]], we shall not have [[Time|time]] for what is to be done out of doors. It
 is past two, and we are to dine at five.”
 
 Mrs. Rushworth submitted; and the question of surveying the grounds,
@@ -119,31 +119,31 @@ promise. Mr. Rushworth, shall we summon a council on this lawn?”
 be new to all the party. The Miss Bertrams have never seen the
 wilderness yet.”
 
-No objection was made, but for some time there seemed no inclination to
+No objection was made, but for some [[Time|time]] there seemed no inclination to
 move in any plan, or to any distance. All were attracted at first by
 the plants or the pheasants, and all dispersed about in happy
 independence. Mr. Crawford was the first to move forward to examine the
-capabilities of that end of the house. The lawn, bounded on each side
+capabilities of that end of the [[house]]. The lawn, bounded on each side
 by a high wall, contained beyond the first planted area a
 bowling-green, and beyond the bowling-green a long terrace walk, backed
 by iron palisades, and commanding a view over them into the tops of the
 trees of the wilderness immediately adjoining. It was a good spot for
-fault-finding. Mr. Crawford was soon followed by Miss Bertram and Mr.
-Rushworth; and when, after a little time, the others began to form into
+fault-finding. Mr. Crawford was soon followed by Miss [[Bertram]] and Mr.
+Rushworth; and when, after a little [[Time|time]], the others began to form into
 parties, these three were found in busy consultation on the terrace by
-Edmund, Miss Crawford, and Fanny, who seemed as naturally to unite, and
+[[Edmund]], Miss Crawford, and Fanny, who seemed as naturally to unite, and
 who, after a short participation of their regrets and difficulties,
 left them and walked on. The remaining three, Mrs. Rushworth, Mrs.
-Norris, and Julia, were still far behind; for Julia, whose happy star
+Norris, and [[Julia]], were still far behind; for [[Julia]], whose happy star
 no longer prevailed, was obliged to keep by the side of Mrs. Rushworth,
 and restrain her impatient feet to that lady’s slow pace, while her
 aunt, having fallen in with the housekeeper, who was come out to feed
-the pheasants, was lingering behind in gossip with her. Poor Julia, the
+the pheasants, was lingering behind in gossip with her. Poor [[Julia]], the
 only one out of the nine not tolerably satisfied with their lot, was
-now in a state of complete penance, and as different from the Julia of
-the barouche-box as could well be imagined. The politeness which she
+now in a state of complete penance, and as different from the [[Julia]] of
+the barouche-box as could [[Well|well]] be imagined. The politeness which she
 had been brought up to practise as a duty made it impossible for her to
-escape; while the want of that higher species of self-command, that
+escape; while the want of that higher species of [[Self|self]]-command, that
 just consideration of others, that knowledge of her own heart, that
 principle of right, which had not formed any essential part of her
-education, made her miserable under it.
+[[Education|education]], made her miserable under it.

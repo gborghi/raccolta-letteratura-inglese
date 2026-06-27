@@ -1,5 +1,5 @@
 ---
-title: "Lady Susan — ATHERINE VERNON."
+title: "[[Lady Susan]] — ATHERINE VERNON."
 author: "Austen"
 unitType: story
 parentWork: "Works/Lady-Susan-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-CATHERINE VERNON.
+[[Catherine Vernon|CATHERINE VERNON]].
 
 
 
@@ -76,7 +76,7 @@ brought her to Churchhill. I think, my dear mother, you would not
 
 disapprove of her as a daughter. She is extremely young, to be sure,
 
-has had a wretched education, and a dreadful example of levity in her
+has had a wretched [[Education|education]], and a dreadful example of levity in her
 
 mother; but yet I can pronounce her disposition to be excellent, and
 
@@ -84,17 +84,17 @@ her natural abilities very good. Though totally without
 
 accomplishments, she is by no means so ignorant as one might expect to
 
-find her, being fond of books and spending the chief of her time in
+find her, being fond of books and spending the chief of her [[Time|time]] in
 
-reading. Her mother leaves her more to herself than she did, and I have
+reading. Her mother [[Leaves|leaves]] her more to herself than she did, and I have
 
 her with me as much as possible, and have taken great pains to overcome
 
 her timidity. We are very good friends, and though she never opens her
 
-lips before her mother, she talks enough when alone with me to make it
+lips before her mother, she talks enough when [[Alone|alone]] with me to make it
 
-clear that, if properly treated by Lady Susan, she would always appear
+clear that, if properly treated by [[Lady Susan]], she would always appear
 
 to much greater advantage. There cannot be a more gentle, affectionate
 
@@ -138,7 +138,7 @@ You will be eager, I know, to hear something further of Frederica, and
 
 perhaps may think me negligent for not writing before. She arrived with
 
-her uncle last Thursday fortnight, when, of course, I lost no time in
+her uncle last [[thursday|Thursday]] fortnight, when, of course, I lost no [[Time|time]] in
 
 demanding the cause of her behaviour; and soon found myself to have
 
@@ -148,13 +148,13 @@ of it frightened her so thoroughly, that, with a mixture of true
 
 girlish perverseness and folly, she resolved on getting out of the
 
-house and proceeding directly by the stage to her friends, the Clarkes;
+[[house]] and proceeding directly by the stage to her friends, the Clarkes;
 
-and had really got as far as the length of two streets in her journey
+and had really got as far as the length of two streets in her [[Journey|journey]]
 
 when she was fortunately missed, pursued, and overtaken. Such was the
 
-first distinguished exploit of Miss Frederica Vernon; and, if we
+first distinguished exploit of Miss [[Frederica Vernon]]; and, if we
 
 consider that it was achieved at the tender age of sixteen, we shall
 
@@ -168,13 +168,13 @@ extraordinary a piece of nicety, considering my daughter’s family
 
 connections, that I can only suppose the lady to be governed by the
 
-fear of never getting her money. Be that as it may, however, Frederica
+[[Fear|fear]] of never getting her money. Be that as it may, however, Frederica
 
 is returned on my hands; and, having nothing else to employ her, is
 
-busy in pursuing the plan of romance begun at Langford. She is actually
+busy in pursuing the plan of [[Romance|romance]] begun at Langford. She is actually
 
-falling in love with Reginald De Courcy! To disobey her mother by
+falling in [[Love|love]] with [[Reginald De Courcy]]! To disobey her mother by
 
 refusing an unexceptionable offer is not enough; her affections must
 
@@ -184,21 +184,21 @@ her age bid fairer to be the sport of mankind. Her feelings are
 
 tolerably acute, and she is so charmingly artless in their display as
 
-to afford the most reasonable hope of her being ridiculous, and
+to afford the most reasonable [[Hope|hope]] of her being ridiculous, and
 
 despised by every man who sees her.
 
 
 
-Artlessness will never do in love matters; and that girl is born a
+Artlessness will never do in [[Love|love]] matters; and that girl is born a
 
-simpleton who has it either by nature or affectation. I am not yet
+simpleton who has it either by [[Nature|nature]] or affectation. I am not yet
 
 certain that Reginald sees what she is about, nor is it of much
 
 consequence. She is now an object of indifference to him, and she would
 
-be one of contempt were he to understand her emotions. Her beauty is
+be one of contempt were he to understand her emotions. Her [[Beauty|beauty]] is
 
 much admired by the Vernons, but it has no effect on him. She is in
 
@@ -218,7 +218,7 @@ rules I have laid down for their discourse. But do not imagine that
 
 with all this lenity I have for a moment given up my plan of her
 
-marriage. No; I am unalterably fixed on this point, though I have not
+[[Marriage|marriage]]. No; I am unalterably fixed on this point, though I have not
 
 yet quite decided on the manner of bringing it about. I should not
 
@@ -278,7 +278,7 @@ This was no explanation; I begged her to tell me what she meant. At
 
 that moment we were interrupted by a knock at the door: it was
 
-Reginald, who came, by Lady Susan’s direction, to call Frederica down.
+Reginald, who came, by [[Lady Susan]]’s direction, to call Frederica down.
 
 “It is Mr. De Courcy!” said she, colouring violently. “Mamma has sent
 
@@ -286,7 +286,7 @@ for me; I must go.” We all three went down together; and I saw my
 
 brother examining the terrified face of Frederica with surprize. In the
 
-breakfast-room we found Lady Susan, and a young man of gentlemanlike
+breakfast-room we found [[Lady Susan]], and a young man of gentlemanlike
 
 appearance, whom she introduced by the name of Sir James Martin—the
 
@@ -296,17 +296,17 @@ pains to detach from Miss Mainwaring; but the conquest, it seems, was
 
 not designed for herself, or she has since transferred it to her
 
-daughter; for Sir James is now desperately in love with Frederica, and
+daughter; for Sir James is now desperately in [[Love|love]] with Frederica, and
 
 with full encouragement from mamma. The poor girl, however, I am sure,
 
-dislikes him; and though his person and address are very well, he
+dislikes him; and though his person and address are very [[Well|well]], he
 
 appears, both to Mr. Vernon and me, a very weak young man. Frederica
 
 looked so shy, so confused, when we entered the room, that I felt for
 
-her exceedingly. Lady Susan behaved with great attention to her
+her exceedingly. [[Lady Susan]] behaved with great attention to her
 
 visitor; and yet I thought I could perceive that she had no particular
 
@@ -322,15 +322,15 @@ Susan three times that he had seen Mrs. Johnson a few evenings before.
 
 He now and then addressed Frederica, but more frequently her mother.
 
-The poor girl sat all this time without opening her lips—her eyes cast
+The poor girl sat all this [[Time|time]] without opening her lips—her eyes cast
 
 down, and her colour varying every instant; while Reginald observed all
 
-that passed in perfect silence. At length Lady Susan, weary, I believe,
+that passed in perfect [[Silence|silence]]. At length [[Lady Susan]], weary, I believe,
 
 of her situation, proposed walking; and we left the two gentlemen
 
-together, to put on our pelisses. As we went upstairs Lady Susan begged
+together, to put on our pelisses. As we went upstairs [[Lady Susan]] begged
 
 permission to attend me for a few moments in my dressing-room, as she
 
@@ -364,7 +364,7 @@ Frederica continued at school it had better not be known to exist; but
 
 now, as I am convinced that Frederica is too old ever to submit to
 
-school confinement, and have, therefore, begun to consider her union
+school confinement, and have, therefore, begun to consider her [[Union|union]]
 
 with Sir James as not very distant, I had intended within a few days to
 
@@ -404,9 +404,9 @@ sensations foreign to my heart; and therefore I trust you will believe
 
 me when I declare, that much as I had heard in your praise before I
 
-knew you, I had no idea that I should ever love you as I now do; and I
+knew you, I had no idea that I should ever [[Love|love]] you as I now do; and I
 
-must further say that your friendship towards me is more particularly
+must further say that your [[Friendship|friendship]] towards me is more particularly
 
 gratifying because I have reason to believe that some attempts were
 
@@ -424,7 +424,7 @@ present happiness.” What can one say of such a woman, my dear mother?
 
 Such earnestness, such solemnity of expression! and yet I cannot help
 
-suspecting the truth of everything she says. As for Reginald, I believe
+suspecting the [[Truth|truth]] of everything she says. As for Reginald, I believe
 
 he does not know what to make of the matter. When Sir James came, he
 
@@ -432,7 +432,7 @@ appeared all astonishment and perplexity; the folly of the young man
 
 and the confusion of Frederica entirely engrossed him; and though a
 
-little private discourse with Lady Susan has since had its effect, he
+little private discourse with [[Lady Susan]] has since had its effect, he
 
 is still hurt, I am sure, at her allowing of such a man’s attentions to
 
@@ -444,7 +444,7 @@ very impertinent, but he took the liberty of a relation; and concluded
 
 by wishing, with a laugh, that he might be really one very soon. Even
 
-Lady Susan seemed a little disconcerted by this forwardness; in her
+[[Lady Susan]] seemed a little disconcerted by this forwardness; in her
 
 heart I am persuaded she sincerely wished him gone. But something must
 
@@ -452,17 +452,17 @@ be done for this poor girl, if her feelings are such as both I and her
 
 uncle believe them to be. She must not be sacrificed to policy or
 
-ambition, and she must not be left to suffer from the dread of it. The
+[[Ambition|ambition]], and she must not be left to suffer from the dread of it. The
 
-girl whose heart can distinguish Reginald De Courcy, deserves, however
+girl whose heart can distinguish [[Reginald De Courcy]], deserves, however
 
 he may slight her, a better fate than to be Sir James Martin’s wife. As
 
-soon as I can get her alone, I will discover the real truth; but she
+soon as I can get her [[Alone|alone]], I will discover the real [[Truth|truth]]; but she
 
-seems to wish to avoid me. I hope this does not proceed from anything
+seems to wish to avoid me. I [[Hope|hope]] this does not proceed from anything
 
-wrong, and that I shall not find out I have thought too well of her.
+wrong, and that I shall not find out I have thought too [[Well|well]] of her.
 
 Her behaviour to Sir James certainly speaks the greatest consciousness
 
@@ -496,7 +496,7 @@ _Miss Vernon to Mr. De Courcy._
 
 
 
-Sir,—I hope you will excuse this liberty; I am forced upon it by the
+Sir,—I [[Hope|hope]] you will excuse this liberty; I am forced upon it by the
 
 greatest distress, or I should be ashamed to trouble you. I am very
 
@@ -572,7 +572,7 @@ and must relieve myself by writing to you, who I know will enter into
 
 all my feelings. Who should come on Tuesday but Sir James Martin! Guess
 
-my astonishment, and vexation—for, as you well know, I never wished him
+my astonishment, and vexation—for, as you [[Well|well]] know, I never wished him
 
 to be seen at Churchhill. What a pity that you should not have known
 
@@ -580,7 +580,7 @@ his intentions! Not content with coming, he actually invited himself to
 
 remain here a few days. I could have poisoned him! I made the best of
 
-it, however, and told my story with great success to Mrs. Vernon, who,
+it, however, and told my story with great [[success]] to Mrs. Vernon, who,
 
 whatever might be her real sentiments, said nothing in opposition to
 
@@ -590,7 +590,7 @@ and gave her to understand that I was absolutely determined on her
 
 marrying him. She said something of her misery, but that was all. I
 
-have for some time been more particularly resolved on the match from
+have for some [[Time|time]] been more particularly resolved on the match from
 
 seeing the rapid increase of her affection for Reginald, and from not
 
@@ -610,7 +610,7 @@ her person. _He_ was all astonishment at the appearance of my visitor,
 
 and at first observed Sir James with an attention which I was pleased
 
-to see not unmixed with jealousy; but unluckily it was impossible for
+to see not unmixed with [[Jealousy|jealousy]]; but unluckily it was impossible for
 
 me really to torment him, as Sir James, though extremely gallant to me,
 
@@ -618,7 +618,7 @@ very soon made the whole party understand that his heart was devoted to
 
 my daughter. I had no great difficulty in convincing De Courcy, when we
 
-were alone, that I was perfectly justified, all things considered, in
+were [[Alone|alone]], that I was perfectly justified, all things considered, in
 
 desiring the match; and the whole business seemed most comfortably
 
@@ -670,11 +670,11 @@ receiving her letter, he had conversed with her on the subject of it,
 
 in order to understand the particulars, and to assure himself of her
 
-real wishes. I have not a doubt but that the girl took this opportunity
+real wishes. I have not a [[Doubt|doubt]] but that the girl took this opportunity
 
-of making downright love to him. I am convinced of it by the manner in
+of making downright [[Love|love]] to him. I am convinced of it by the manner in
 
-which he spoke of her. Much good may such love do him! I shall ever
+which he spoke of her. Much good may such [[Love|love]] do him! I shall ever
 
 despise the man who can be gratified by the passion which he never
 
@@ -696,17 +696,17 @@ assured that I must have unanswerable motives for all that I had done?
 
 Where was his reliance on my sense and goodness then? Where the
 
-resentment which true love would have dictated against the person
+resentment which true [[Love|love]] would have dictated against the person
 
-defaming me—that person, too, a chit, a child, without talent or
+defaming me—that person, too, a chit, a [[Child|child]], without talent or
 
-education, whom he had been always taught to despise? I was calm for
+[[Education|education]], whom he had been always taught to despise? I was calm for
 
-some time; but the greatest degree of forbearance may be overcome, and
+some [[Time|time]]; but the greatest degree of forbearance may be overcome, and
 
-I hope I was afterwards sufficiently keen. He endeavoured, long
+I [[Hope|hope]] I was afterwards sufficiently keen. He endeavoured, long
 
-endeavoured, to soften my resentment; but that woman is a fool indeed
+endeavoured, to soften my resentment; but that woman is a [[Fool|fool]] indeed
 
 who, while insulted by accusation, can be worked on by compliments. At
 
@@ -728,7 +728,7 @@ have not yet tranquillised myself enough to see Frederica. _She_ shall
 
 not soon forget the occurrences of this day; she shall find that she
 
-has poured forth her tender tale of love in vain, and exposed herself
+has poured forth her tender tale of [[Love|love]] in vain, and exposed herself
 
 for ever to the contempt of the whole world, and the severest
 
@@ -794,31 +794,31 @@ complexion was raised, and he spoke with great emotion; you know his
 
 eager manner, my dear mother, when his mind is interested. “Catherine,”
 
-said he, “I am going home to-day; I am sorry to leave you, but I must
+said he, “I am going [[Home|home]] to-day; I am sorry to leave you, but I must
 
 go: it is a great while since I have seen my father and mother. I am
 
 going to send James forward with my hunters immediately; if you have
 
-any letter, therefore, he can take it. I shall not be at home myself
+any letter, therefore, he can take it. I shall not be at [[Home|home]] myself
 
-till Wednesday or Thursday, as I shall go through London, where I have
+till Wednesday or [[thursday|Thursday]], as I shall go through [[London]], where I have
 
 business; but before I leave you,” he continued, speaking in a lower
 
 tone, and with still greater energy, “I must warn you of one thing—do
 
-not let Frederica Vernon be made unhappy by that Martin. He wants to
+not let [[Frederica Vernon]] be made unhappy by that Martin. He wants to
 
 marry her; her mother promotes the match, but she cannot endure the
 
 idea of it. Be assured that I speak from the fullest conviction of the
 
-truth of what I say; I know that Frederica is made wretched by Sir
+[[Truth|truth]] of what I say; I know that Frederica is made wretched by Sir
 
 James’s continuing here. She is a sweet girl, and deserves a better
 
-fate. Send him away immediately; he is only a fool: but what her mother
+fate. Send him away immediately; he is only a [[Fool|fool]]: but what her mother
 
 can mean, Heaven only knows! Good bye,” he added, shaking my hand with
 
@@ -832,15 +832,15 @@ to what we have given her credit for.” He then left me, and ran
 
 upstairs. I would not try to stop him, for I knew what his feelings
 
-must be. The nature of mine, as I listened to him, I need not attempt
+must be. The [[Nature|nature]] of mine, as I listened to him, I need not attempt
 
 to describe; for a minute or two I remained in the same spot,
 
-overpowered by wonder of a most agreeable sort indeed; yet it required
+overpowered by [[Wonder|wonder]] of a most agreeable sort indeed; yet it required
 
 some consideration to be tranquilly happy. In about ten minutes after
 
-my return to the parlour Lady Susan entered the room. I concluded, of
+my return to the parlour [[Lady Susan]] entered the room. I concluded, of
 
 course, that she and Reginald had been quarrelling; and looked with
 
@@ -848,13 +848,13 @@ anxious curiosity for a confirmation of my belief in her face. Mistress
 
 of deceit, however, she appeared perfectly unconcerned, and after
 
-chatting on indifferent subjects for a short time, said to me, “I find
+chatting on indifferent subjects for a short [[Time|time]], said to me, “I find
 
 from Wilson that we are going to lose Mr. De Courcy—is it true that he
 
-leaves Churchhill this morning?” I replied that it was. “He told us
+[[Leaves|leaves]] Churchhill this morning?” I replied that it was. “He told us
 
-nothing of all this last night,” said she, laughing, “or even this
+nothing of all this last [[Night|night]],” said she, laughing, “or even this
 
 morning at breakfast; but perhaps he did not know it himself. Young men
 
@@ -864,7 +864,7 @@ than unsteady in keeping them. I should not be surprised if he were to
 
 change his mind at last, and not go.” She soon afterwards left the
 
-room. I trust, however, my dear mother, that we have no reason to fear
+room. I trust, however, my dear mother, that we have no reason to [[Fear|fear]]
 
 an alteration of his present plan; things have gone too far. They must
 

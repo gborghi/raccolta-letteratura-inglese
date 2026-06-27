@@ -22,12 +22,12 @@ believing in devils from believing in the Devil.  Here the part
 is certainly greater than the whole.  To believe in devils is simply
 to believe in unclean souls and wills loose in the universe.
 To believe in the Devil is to believe in an infinite evil,
-a well of wickedness as deep as the tower of holiness is high.
+a [[Well|well]] of wickedness as deep as the tower of holiness is high.
 To us personally, we admit, it seems a healthier and more
 religious doctrine that goodness is the only unfathomable thing,
-and that he that hides himself in the well of evil will not
+and that he that hides himself in the [[Well|well]] of evil will not
 fall eternally through homeless abysses, but will be fished
-out in proper season, damp, and looking very much of a fool.
+out in proper season, damp, and looking very much of a [[Fool|fool]].
 
 G.K.C.
 
@@ -59,7 +59,7 @@ or inferior or equal is not a matter of physical science;
 it is a question of what you happen to want.  Science does
 its duty in saying that monkeys have tails and men have not;
 but as for saying that it is better not to have tails,
-that is a matter of taste and imagination, and by no means
+that is a matter of taste and [[Imagination|imagination]], and by no means
 certain even at that.
 
 The author himself quotes incidentally a remarkable instance
@@ -102,7 +102,7 @@ in effect, are the best guardians of children, because they
 are themselves children, "puerile, futile, limited."
 Now we know what women do for children; they nearly kill
 themselves over them with work and anxiety; the simple and
-obvious way, therefore, of testing the truth of Schopenhauer's
+obvious way, therefore, of testing the [[Truth|truth]] of Schopenhauer's
 comparison is to ask what children do for children.
 If the "futility" and "limitation" of a little boy of seven
 lead him naturally to martyr himself for another little boy
@@ -111,16 +111,16 @@ that they lead him to kick his shins and run away with his toys,
 the comparison is nonsense.  It is surely strange that the name
 of philosopher should ever have been given to a literary man,
 however brilliant, who was capable of basing an argument upon
-the amazing notion that people love what is like themselves.
+the amazing notion that people [[Love|love]] what is like themselves.
 In fact, the whole of Schopenhauer's theory of the childishness
 of women is capable of the shortest and simplest answer.
-If women are childish because they love children, it follows
-that men are womanish because they love women.
+If women are childish because they [[Love|love]] children, it follows
+that men are womanish because they [[Love|love]] women.
 
 The author speaks with just contempt of these efforts to discredit
 women by biological parallels.  If it be true that certain baboons
 have a large amount of the maternal instinct, rational ethics have
 nothing to say to it except, "So much the better for the baboons."
-They may be inferior to us in other respects; so are the birds
+They may be inferior to us in other respects; so are the [[Birds|birds]]
 of the air.  But a mortal with the wings of a bird is an angel,
 and a mortal with the maternal instinct is a mother.

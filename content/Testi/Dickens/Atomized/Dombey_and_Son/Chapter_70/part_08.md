@@ -48,7 +48,7 @@ several custard-cups of negus, began to enjoy himself. The dancing in
 general was ceremonious, and the music rather solemn—a little like
 church music in fact—but after the custard-cups, Mr Feeder told Mr
 Toots that he was going to throw a little spirit into the thing. After
-that, Mr Feeder not only began to dance as if he meant dancing and
+that, Mr Feeder not only began to [[Dance|dance]] as if he meant dancing and
 nothing else, but secretly to stimulate the music to perform wild
 tunes. Further, he became particular in his attentions to the ladies;
 and dancing with Miss Blimber, whispered to her—whispered to
@@ -59,7 +59,7 @@ poetry,
 I ne’er could injure You!”
 
 
-This, Paul heard him repeat to four young ladies, in succession. Well
+This, Paul heard him repeat to four young ladies, in succession. [[Well]]
 might Mr Feeder say to Mr Toots, that he was afraid he should be the
 worse for it to-morrow!
 
@@ -84,11 +84,11 @@ frightened at being asked to sing before so many people, and begged
 earnestly to be excused, yet, on Paul calling her to him, and saying,
 “Do, Floy! Please! For me, my dear!” she went straight to the piano,
 and began. When they all drew a little away, that Paul might see her;
-and when he saw her sitting there all alone, so young, and good, and
+and when he saw her sitting there all [[Alone|alone]], so young, and good, and
 beautiful, and kind to him; and heard her thrilling voice, so natural
-and sweet, and such a golden link between him and all his life’s love
-and happiness, rising out of the silence; he turned his face away, and
-hid his tears. Not, as he told them when they spoke to him, not that
+and sweet, and such a golden link between him and all his life’s [[Love|love]]
+and happiness, rising out of the [[Silence|silence]]; he turned his face away, and
+hid his [[Tears|tears]]. Not, as he told them when they spoke to him, not that
 the music was too plaintive or too sorrowful, but it was so dear to
 him.
 
@@ -98,26 +98,26 @@ corner, with calmly folded hands; and one leg loosely doubled under
 him, few would have thought what triumph and delight expanded his
 childish bosom while he watched her, or what a sweet tranquillity he
 felt. Lavish encomiums on “Dombey’s sister” reached his ears from all
-the boys: admiration of the self-possessed and modest little beauty was
+the boys: admiration of the [[Self|self]]-possessed and modest little [[Beauty|beauty]] was
 on every lip: reports of her intelligence and accomplishments floated
-past him, constantly; and, as if borne in upon the air of the summer
-night, there was a half intelligible sentiment diffused around,
+past him, constantly; and, as if borne in upon the air of the [[Summer|summer]]
+[[Night|night]], there was a half intelligible sentiment diffused around,
 referring to Florence and himself, and breathing sympathy for both,
 that soothed and touched him.
 
-He did not know why. For all that the child observed, and felt, and
-thought, that night—the present and the absent; what was then and what
+He did not know why. For all that the [[Child|child]] observed, and felt, and
+thought, that [[Night|night]]—the present and the absent; what was then and what
 had been—were blended like the colours in the rainbow, or in the
-plumage of rich birds when the sun is shining on them, or in the
+plumage of rich [[Birds|birds]] when the sun is shining on them, or in the
 softening sky when the same sun is setting. The many things he had had
 to think of lately, passed before him in the music; not as claiming his
 attention over again, or as likely evermore to occupy it, but as
-peacefully disposed of and gone. A solitary window, gazed through years
+peacefully disposed of and gone. A solitary [[Window|window]], gazed through years
 ago, looked out upon an ocean, miles and miles away; upon its waters,
 fancies, busy with him only yesterday, were hushed and lulled to rest
 like broken waves. The same mysterious murmur he had wondered at, when
 lying on his couch upon the beach, he thought he still heard sounding
-through his sister’s song, and through the hum of voices, and the tread
+through his sister’s [[Song|song]], and through the hum of voices, and the tread
 of feet, and having some part in the faces flitting by, and even in the
 heavy gentleness of Mr Toots, who frequently came up to shake him by
 the hand. Through the universal kindness he still thought he heard it,

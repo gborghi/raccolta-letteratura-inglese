@@ -1,5 +1,5 @@
 ---
-title: "Mesmeric Revelation"
+title: "[[Mesmeric Revelation]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/Mesmeric-Revelation-(Poe)"
@@ -13,10 +13,10 @@ tags:
 </nav>
 
 
-Whatever doubt may still envelop the _rationale_ of mesmerism, its
+Whatever [[Doubt|doubt]] may still envelop the _rationale_ of [[Mesmerism|mesmerism]], its
 startling _facts_ are now almost universally admitted. Of these latter,
-those who doubt, are your mere doubters by profession—an unprofitable
-and disreputable tribe. There can be no more absolute waste of time
+those who [[Doubt|doubt]], are your mere doubters by profession—an unprofitable
+and disreputable tribe. There can be no more absolute waste of [[Time|time]]
 than the attempt to _prove_, at the present day, that man, by mere
 exercise of will, can so impress his fellow, as to cast him into an
 abnormal condition, of which the phenomena resemble very closely those
@@ -32,55 +32,55 @@ finally, that his susceptibility to the impression increases with its
 frequency, while, in the same proportion, the peculiar phenomena
 elicited are more extended and more _pronounced_.
 
-I say that these—which are the laws of mesmerism in its general
+I say that these—which are the laws of [[Mesmerism|mesmerism]] in its general
 features—it would be supererogation to demonstrate; nor shall I inflict
 upon my readers so needless a demonstration; to-day. My purpose at
 present is a very different one indeed. I am impelled, even in the
 teeth of a world of prejudice, to detail without comment the very
-remarkable substance of a colloquy, occurring between a sleep-waker and
+remarkable substance of a colloquy, occurring between a [[Sleep|sleep]]-waker and
 myself.
 
 I had been long in the habit of mesmerizing the person in question (Mr.
 Vankirk), and the usual acute susceptibility and exaltation of the
 mesmeric perception had supervened. For many months he had been
 laboring under confirmed phthisis, the more distressing effects of
-which had been relieved by my manipulations; and on the night of
+which had been relieved by my manipulations; and on the [[Night|night]] of
 Wednesday, the fifteenth instant, I was summoned to his bedside.
 
-The invalid was suffering with acute pain in the region of the heart,
+The invalid was [[Suffering|suffering]] with acute [[Pain|pain]] in the region of the heart,
 and breathed with great difficulty, having all the ordinary symptoms of
 asthma. In spasms such as these he had usually found relief from the
-application of mustard to the nervous centres, but to-night this had
+application of mustard to the nervous centres, but to-[[Night|night]] this had
 been attempted in vain.
 
 As I entered his room he greeted me with a cheerful smile, and although
-evidently in much bodily pain, appeared to be, mentally, quite at ease.
+evidently in much bodily [[Pain|pain]], appeared to be, mentally, quite at ease.
 
-“I sent for you to-night,” he said, “not so much to administer to my
+“I sent for you to-[[Night|night]],” he said, “not so much to administer to my
 bodily ailment, as to satisfy me concerning certain psychal impressions
 which, of late, have occasioned me much anxiety and surprise. I need
 not tell you how sceptical I have hitherto been on the topic of the
-soul’s immortality. I cannot deny that there has always existed, as if
-in that very soul which I have been denying, a vague half-sentiment of
-its own existence. But this half-sentiment at no time amounted to
+[[Soul|soul]]’s [[Immortality|immortality]]. I cannot deny that there has always existed, as if
+in that very [[Soul|soul]] which I have been denying, a vague half-sentiment of
+its own existence. But this half-sentiment at no [[Time|time]] amounted to
 conviction. With it my reason had nothing to do. All attempts at
 logical inquiry resulted, indeed, in leaving me more sceptical than
 before. I had been advised to study Cousin. I studied him in his own
-works as well as in those of his European and American echoes. The
+works as [[Well|well]] as in those of his European and American echoes. The
 ‘Charles Elwood’ of Mr. Brownson, for example, was placed in my hands.
 I read it with profound attention. Throughout I found it logical, but
 the portions which were not _merely_ logical were unhappily the initial
-arguments of the disbelieving hero of the book. In his summing up it
+arguments of the disbelieving [[Hero|hero]] of the book. In his summing up it
 seemed evident to me that the reasoner had not even succeeded in
 convincing himself. His end had plainly forgotten his beginning, like
-the government of Trinculo. In short, I was not long in perceiving that
-if man is to be intellectually convinced of his own immortality, he
+the [[government]] of [[Trinculo]]. In short, I was not long in perceiving that
+if man is to be intellectually convinced of his own [[Immortality|immortality]], he
 will never be so convinced by the mere abstractions which have been so
 long the fashion of the moralists of England, of France, and of
-Germany. Abstractions may amuse and exercise, but take no hold on the
-mind. Here upon earth, at least, philosophy, I am persuaded, will
+[[Germany]]. Abstractions may amuse and exercise, but take no hold on the
+mind. Here upon earth, at least, [[philosophy]], I am persuaded, will
 always in vain call upon us to look upon qualities as things. The will
-may assent—the soul—the intellect, never.
+may assent—the [[Soul|soul]]—the intellect, never.
 
 “I repeat, then, that I only half felt, and never intellectually
 believed. But latterly there has been a certain deepening of the
@@ -91,30 +91,30 @@ cannot better explain my meaning than by the hypothesis that the
 mesmeric exaltation enables me to perceive a train of ratiocination
 which, in my abnormal existence, convinces, but which, in full
 accordance with the mesmeric phenomena, does not extend, except through
-its _effect_, into my normal condition. In sleep-waking, the reasoning
+its _effect_, into my normal condition. In [[Sleep|sleep]]-waking, the reasoning
 and its conclusion—the cause and its effect—are present together. In my
 natural state, the cause vanishing, the effect only, and perhaps only
 partially, remains.
 
 “These considerations have led me to think that some good results might
-ensue from a series of well-directed questions propounded to me while
-mesmerized. You have often observed the profound self-cognizance
-evinced by the sleep-waker—the extensive knowledge he displays upon all
+ensue from a series of [[Well|well]]-directed questions propounded to me while
+mesmerized. You have often observed the profound [[Self|self]]-cognizance
+evinced by the [[Sleep|sleep]]-waker—the extensive knowledge he displays upon all
 points relating to the mesmeric condition itself; and from this
-self-cognizance may be deduced hints for the proper conduct of a
+[[Self|self]]-cognizance may be deduced hints for the proper conduct of a
 catechism.”
 
 I consented of course to make this experiment.  A few passes threw Mr.
-Vankirk into the mesmeric sleep. His breathing became immediately more
+Vankirk into the mesmeric [[Sleep|sleep]]. His breathing became immediately more
 easy, and he seemed to suffer no physical uneasiness. The following
 conversation then ensued:—V. in the dialogue representing the patient,
 and P. myself.
 
       _P._ Are you asleep?
 
-      _V._ Yes—no; I would rather sleep more soundly.
+      _V._ Yes—no; I would rather [[Sleep|sleep]] more soundly.
 
-      _P._ [_After a few more passes._] Do you sleep now?
+      _P._ [_After a few more passes._] Do you [[Sleep|sleep]] now?
 
       _V._ Yes.
 
@@ -123,14 +123,14 @@ and P. myself.
       _V._ [_After a long hesitation and speaking as if with effort_.]
       I must die.
 
-      _P._ Does the idea of death afflict you?
+      _P._ Does the idea of [[Death|death]] afflict you?
 
       _V._ [_Very quickly_.] No—no!
 
       _P._ Are you pleased with the prospect?
 
       _V._ If I were awake I should like to die, but now it is no
-      matter. The mesmeric condition is so near death as to content me.
+      matter. The mesmeric condition is so near [[Death|death]] as to content me.
 
       _P._ I wish you would explain yourself, Mr. Vankirk.
 
@@ -154,7 +154,7 @@ and P. myself.
       _P._ Is not God spirit?
 
       _V._ While I was awake I knew what you meant by “spirit,” but now
-      it seems only a word—such, for instance, as truth, beauty—a
+      it seems only a word—such, for instance, as [[Truth|truth]], [[Beauty|beauty]]—a
       quality, I mean.
 
       _P._ Is not God immaterial?
@@ -190,9 +190,9 @@ and P. myself.
       _V._ Yes; and I now see the confusion of idea. Motion is the
       action of _mind_, not of _thinking_. The unparticled matter, or
       God, in quiescence, is (as nearly as we can conceive it) what men
-      call mind. And the power of self-movement (equivalent in effect
+      call mind. And the power of [[Self|self]]-movement (equivalent in effect
       to human volition) is, in the unparticled matter, the result of
-      its unity and omniprevalence; _how_ I know not, and now clearly
+      its [[unity]] and omniprevalence; _how_ I know not, and now clearly
       see that I shall never know. But the unparticled matter, set in
       motion by a law, or quality, existing within itself, is thinking.
 
@@ -201,7 +201,7 @@ and P. myself.
 
       _V._ The matters of which man is cognizant escape the senses in
       gradation. We have, for example, a metal, a piece of wood, a drop
-      of water, the atmosphere, a gas, caloric, electricity, the
+      of [[Water|water]], the atmosphere, a gas, caloric, electricity, the
       luminiferous ether. Now we call all these things matter, and
       embrace all matter in one general definition; but in spite of
       this, there can be no two ideas more essentially distinct than
@@ -224,9 +224,9 @@ and P. myself.
       point—there will be a degree of rarity, at which, if the atoms
       are sufficiently numerous, the interspaces must vanish, and the
       mass absolutely coalesce. But the consideration of the atomic
-      constitution being now taken away, the nature of the mass
+      constitution being now taken away, the [[Nature|nature]] of the mass
       inevitably glides into what we conceive of spirit. It is clear,
-      however, that it is as fully matter as before. The truth is, it
+      however, that it is as fully matter as before. The [[Truth|truth]] is, it
       is impossible to conceive spirit, since it is impossible to
       imagine what is not. When we flatter ourselves that we have
       formed its conception, we have merely deceived our understanding
@@ -263,14 +263,14 @@ and P. myself.
 
       _P._ But in all this—in this identification of mere matter with
       God—is there nothing of irreverence? [_I was forced to repeat
-      this question before the sleep-waker fully comprehended my
+      this question before the [[Sleep|sleep]]-waker fully comprehended my
       meaning_.]
 
       _V._ Can you say _why_ matter should be less reverenced than
       mind? But you forget that the matter of which I speak is, in all
       respects, the very “mind” or “spirit” of the schools, so far as
       regards its high capacities, and is, moreover, the “matter” of
-      these schools at the same time. God, with all the powers
+      these schools at the same [[Time|time]]. God, with all the powers
       attributed to spirit, is but the perfection of matter.
 
       _P._ You assert, then, that the unparticled matter, in motion, is
@@ -301,7 +301,7 @@ and P. myself.
       of the incarnated portions of the unparticled matter is the
       thought of man; as the motion of the whole is that of God.
 
-      _P._ You say that divested of the body man will be God?
+      _P._ You say that divested of the [[Body|body]] man will be God?
 
       _V._ [_After much hesitation._] I could not have said this; it is
       an absurdity.
@@ -313,11 +313,11 @@ and P. myself.
       unindividualized. But he can never be thus divested—at least
       never _will be_—else we must imagine an action of God returning
       upon itself—a purposeless and futile action. Man is a creature.
-      Creatures are thoughts of God. It is the nature of thought to be
+      Creatures are thoughts of God. It is the [[Nature|nature]] of thought to be
       irrevocable.
 
       _P._ I do not comprehend. You say that man will never put off the
-      body?
+      [[Body|body]]?
 
       _V._ I say that he will never be bodiless.
 
@@ -325,7 +325,7 @@ and P. myself.
 
       _V._ There are two bodies—the rudimental and the complete;
       corresponding with the two conditions of the worm and the
-      butterfly. What we call “death,” is but the painful
+      butterfly. What we call “[[Death|death]],” is but the painful
       metamorphosis. Our present incarnation is progressive,
       preparatory, temporary. Our future is perfected, ultimate,
       immortal. The ultimate life is the full design.
@@ -333,19 +333,19 @@ and P. myself.
       _P._ But of the worm’s metamorphosis we are palpably cognizant.
 
       _V._ _We_, certainly—but not the worm. The matter of which our
-      rudimental body is composed, is within the ken of the organs of
-      that body; or, more distinctly, our rudimental organs are adapted
-      to the matter of which is formed the rudimental body; but not to
-      that of which the ultimate is composed. The ultimate body thus
+      rudimental [[Body|body]] is composed, is within the ken of the organs of
+      that [[Body|body]]; or, more distinctly, our rudimental organs are adapted
+      to the matter of which is formed the rudimental [[Body|body]]; but not to
+      that of which the ultimate is composed. The ultimate [[Body|body]] thus
       escapes our rudimental senses, and we perceive only the shell
       which falls, in decaying, from the inner form; not that inner
-      form itself; but this inner form, as well as the shell, is
+      form itself; but this inner form, as [[Well|well]] as the shell, is
       appreciable by those who have already acquired the ultimate life.
 
       _P._ You have often said that the mesmeric state very nearly
-      resembles death. How is this?
+      resembles [[Death|death]]. How is this?
 
-      _V._ When I say that it resembles death, I mean that it resembles
+      _V._ When I say that it resembles [[Death|death]], I mean that it resembles
       the ultimate life; for when I am entranced the senses of my
       rudimental life are in abeyance, and I perceive external things
       directly, without organs, through a medium which I shall employ
@@ -358,12 +358,12 @@ and P. myself.
       of matter, to the exclusion of other classes and forms. The
       organs of man are adapted to his rudimental condition, and to
       that only; his ultimate condition, being unorganized, is of
-      unlimited comprehension in all points but one—the nature of the
+      unlimited comprehension in all points but one—the [[Nature|nature]] of the
       volition of God—that is to say, the motion of the unparticled
-      matter. You will have a distinct idea of the ultimate body by
+      matter. You will have a distinct idea of the ultimate [[Body|body]] by
       conceiving it to be entire brain. This it is _not_; but a
-      conception of this nature will bring you near a comprehension of
-      what it _is_. A luminous body imparts vibration to the
+      conception of this [[Nature|nature]] will bring you near a comprehension of
+      what it _is_. A luminous [[Body|body]] imparts vibration to the
       luminiferous ether. The vibrations generate similar ones within
       the retina; these again communicate similar ones to the optic
       nerve. The nerve conveys similar ones to the brain; the brain,
@@ -373,11 +373,11 @@ and P. myself.
       rudimental life communicates with the external world; and this
       external world is, to the rudimental life, limited, through the
       idiosyncrasy of its organs. But in the ultimate, unorganized
-      life, the external world reaches the whole body, (which is of a
+      life, the external world reaches the whole [[Body|body]], (which is of a
       substance having affinity to brain, as I have said,) with no
       other intervention than that of an infinitely rarer ether than
       even the luminiferous; and to this ether—in unison with it—the
-      whole body vibrates, setting in motion the unparticled matter
+      whole [[Body|body]] vibrates, setting in motion the unparticled matter
       which permeates it. It is to the absence of idiosyncratic organs,
       therefore, that we must attribute the nearly unlimited perception
       of the ultimate life. To rudimental beings, organs are the cages
@@ -394,10 +394,10 @@ and P. myself.
       ultimate life, there would have been no bodies such as these.
       Each of these is tenanted by a distinct variety of organic,
       rudimental, thinking creatures. In all, the organs vary with the
-      features of the place tenanted. At death, or metamorphosis, these
-      creatures, enjoying the ultimate life—immortality—and cognizant
-      of all secrets but _the one_, act all things and pass everywhere
-      by mere volition:—indwelling, not the stars, which to us seem the
+      features of the place tenanted. At [[Death|death]], or metamorphosis, these
+      creatures, enjoying the ultimate life—[[Immortality|immortality]]—and cognizant
+      of all [[Secrets|secrets]] but _the one_, act all things and pass everywhere
+      by mere volition:—indwelling, not the [[Stars|stars]], which to us seem the
       sole palpabilities, and for the accommodation of which we blindly
       deem space created—but that SPACE itself—that infinity of which
       the truly substantive vastness swallows up the
@@ -405,9 +405,9 @@ and P. myself.
       perception of the angels.
 
       _P._ You say that “but for the _necessity_ of the rudimental
-      life” there would have been no stars. But why this necessity?
+      life” there would have been no [[Stars|stars]]. But why this necessity?
 
-      _V._ In the inorganic life, as well as in the inorganic matter
+      _V._ In the inorganic life, as [[Well|well]] as in the inorganic matter
       generally, there is nothing to impede the action of one simple
       _unique_ law—the Divine Volition. With the view of producing
       impediment, the organic life and matter, (complex, substantial,
@@ -417,21 +417,21 @@ and P. myself.
 
       _V._ The result of law inviolate is perfection—right—negative
       happiness. The result of law violate is imperfection, wrong,
-      positive pain. Through the impediments afforded by the number,
+      positive [[Pain|pain]]. Through the impediments afforded by the number,
       complexity, and substantiality of the laws of organic life and
       matter, the violation of law is rendered, to a certain extent,
-      practicable. Thus pain, which in the inorganic life is
+      practicable. Thus [[Pain|pain]], which in the inorganic life is
       impossible, is possible in the organic.
 
-      _P._ But to what good end is pain thus rendered possible?
+      _P._ But to what good end is [[Pain|pain]] thus rendered possible?
 
       _V._ All things are either good or bad by comparison. A
       sufficient analysis will show that pleasure, in all cases, is but
-      the contrast of pain. _Positive_ pleasure is a mere idea. To be
+      the contrast of [[Pain|pain]]. _Positive_ pleasure is a mere idea. To be
       happy at any one point we must have suffered at the same. Never
       to suffer would have been never to have been blessed. But it has
-      been shown that, in the inorganic life, pain cannot be thus the
-      necessity for the organic. The pain of the primitive life of
+      been shown that, in the inorganic life, [[Pain|pain]] cannot be thus the
+      necessity for the organic. The [[Pain|pain]] of the primitive life of
       Earth, is the sole basis of the bliss of the ultimate life in
       Heaven.
 
@@ -444,17 +444,17 @@ and P. myself.
       it as a quality, but as a sentiment:—it is the perception, in
       thinking beings, of the adaptation of matter to their
       organization. There are many things on the Earth, which would be
-      nihility to the inhabitants of Venus—many things visible and
-      tangible in Venus, which we could not be brought to appreciate as
+      nihility to the inhabitants of [[Venus]]—many things visible and
+      tangible in [[Venus]], which we could not be brought to appreciate as
       existing at all. But to the inorganic beings—to the angels—the
       whole of the unparticled matter is substance—that is to say, the
       whole of what we term “space” is to them the truest
-      substantiality;—the stars, meantime, through what we consider
+      substantiality;—the [[Stars|stars]], meantime, through what we consider
       their materiality, escaping the angelic sense, just in proportion
       as the unparticled matter, through what we consider its
       immateriality, eludes the organic.
 
-      As the sleep-waker pronounced these latter words, in a feeble
+      As the [[Sleep|sleep]]-waker pronounced these latter words, in a feeble
       tone, I observed on his countenance a singular expression, which
       somewhat alarmed me, and induced me to awake him at once. No
       sooner had I done this, than, with a bright smile irradiating all
@@ -462,6 +462,6 @@ and P. myself.
       that in less than a minute afterward his corpse had all the stern
       rigidity of stone. His brow was of the coldness of ice. Thus,
       ordinarily, should it have appeared, only after long pressure
-      from Azrael’s hand. Had the sleep-waker, indeed, during the
+      from Azrael’s hand. Had the [[Sleep|sleep]]-waker, indeed, during the
       latter portion of his discourse, been addressing me from out the
       region of the shadows?

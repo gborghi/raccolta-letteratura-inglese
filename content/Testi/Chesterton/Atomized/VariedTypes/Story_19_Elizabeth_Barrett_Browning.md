@@ -1,5 +1,5 @@
 ---
-title: "VariedTypes — Elizabeth Barrett Browning"
+title: "[[VariedTypes]] — Elizabeth Barrett Browning"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/VariedTypes-(Chesterton)"
@@ -54,9 +54,9 @@ other literary women, but this was because she was stronger. It requires
 
 a certain amount of internal force to break down. A complete
 
-self-humiliation requires enormous strength, more strength than most of
+[[Self|self]]-humiliation requires enormous strength, more strength than most of
 
-us possess. When she was writing the poetry of self-abandonment she
+us possess. When she was writing the poetry of [[Self|self]]-abandonment she
 
 really abandoned herself with the valour and decision of an anchorite
 
@@ -66,13 +66,13 @@ abandoning the world. Such a couplet as:
 
   "Our Euripides, the human,
 
-  With his dropping of warm tears,"
+  With his dropping of warm [[Tears|tears]],"
 
 
 
-gives to most of us a sickly and nauseous sensation. Nothing can be well
+gives to most of us a sickly and nauseous sensation. Nothing can be [[Well|well]]
 
-conceived more ridiculous than Euripides going about dropping tears with
+conceived more ridiculous than Euripides going about dropping [[Tears|tears]] with
 
 a loud splash, and Mrs. Browning coming after him with a thermometer.
 
@@ -92,13 +92,13 @@ medal or a testimonial, the badge of the brave.
 
 
 
-In spite of the tiresome half-truth that art is unmoral, the arts
+In spite of the tiresome half-[[Truth|truth]] that art is unmoral, the arts
 
 require a certain considerable number of moral qualities, and more
 
-especially all the arts require courage. The art of drawing, for
+especially all the arts require [[Courage|courage]]. The art of drawing, for
 
-example, requires even a kind of physical courage. Anyone who has tried
+example, requires even a kind of physical [[Courage|courage]]. Anyone who has tried
 
 to draw a straight line and failed knows that he fails chiefly in nerve,
 
@@ -118,7 +118,7 @@ that she would have done better with half as much talent. The great
 
 curse of the Elizabethans is upon her, that she cannot leave anything
 
-alone, she cannot write a single line without a conceit:
+[[Alone|alone]], she cannot write a single line without a conceit:
 
 
 
@@ -132,35 +132,35 @@ she said of the Papal fans in the presence of the Italian tricolour:
 
 
 
-  "And a royal blood sends glances up her princely eye to trouble,
+  "And a royal [[Blood|blood]] sends glances up her princely eye to trouble,
 
-  And the shadow of a monarch's crown is softened in her hair,"
+  And the [[Shadow|shadow]] of a monarch's [[Crown|crown]] is softened in her hair,"
 
 
 
 is her description of a beautiful and aristocratic lady. The notion of
 
-peacock feathers winking like so many London urchins is perhaps one of
+peacock feathers winking like so many [[London]] urchins is perhaps one of
 
 her rather aggressive and outrageous figures of speech. The image of a
 
-woman's hair as the softened shadow of a crown is a singularly vivid and
+woman's hair as the softened [[Shadow|shadow]] of a [[Crown|crown]] is a singularly vivid and
 
 perfect one. But both have the same quality of intellectual fancy and
 
 intellectual concentration. They are both instances of a sort of
 
-ethereal epigram. This is the great and dominant characteristic of Mrs.
+ethereal [[Epigram|epigram]]. This is the great and dominant characteristic of Mrs.
 
-Browning, that she was significant alike in failure and success. Just as
+Browning, that she was significant alike in failure and [[success]]. Just as
 
-every marriage in the world, good or bad, is a marriage, dramatic,
+every [[Marriage|marriage]] in the world, good or bad, is a [[Marriage|marriage]], dramatic,
 
 irrevocable, and big with coming events, so every one of her wild
 
 weddings between alien ideas is an accomplished fact which produces a
 
-certain effect on the imagination, which has for good or evil become
+certain effect on the [[Imagination|imagination]], which has for good or evil become
 
 part and parcel of our mental vision forever. She gives the reader the
 
@@ -182,7 +182,7 @@ Liberalism, of that great movement of the first half of the nineteenth
 
 century towards the emancipation of men from ancient institutions which
 
-had gradually changed their nature, from the houses of refuge which had
+had gradually changed their [[Nature|nature]], from the houses of refuge which had
 
 turned into dungeons, and the mystic jewels which remained only as
 
@@ -192,7 +192,7 @@ hatred in its heart for ancient and essentially human institutions. It
 
 had that deeply conservative belief in the most ancient of institutions,
 
-the average man, which goes by the name of democracy. It had none of
+the average man, which goes by the name of [[Democracy|democracy]]. It had none of
 
 the spirit of modern Imperialism which is kicking a man because he is
 
@@ -212,7 +212,7 @@ conviction of all iconoclasts and reformers, and for which some
 
 rationalists have been absurd enough to blame the early Christians. But
 
-they had none of that disposition to pin their whole faith to some
+they had none of that disposition to pin their whole [[Faith|faith]] to some
 
 black-and-white scientific system which afterwards became the curse of
 
@@ -226,9 +226,9 @@ were knocked to pieces by a comet. Their ideal, like the ideal of all
 
 sensible people, was a chaotic and confused notion of goodness made up
 
-of English primroses and Greek statues, birds singing in April, and
+of English primroses and Greek statues, [[Birds|birds]] singing in April, and
 
-regiments being cut to pieces for a flag. They were neither Radicals nor
+regiments being cut to pieces for a [[Flag|flag]]. They were neither Radicals nor
 
 Socialists, but Liberals, and a Liberal is a noble and indispensable
 
@@ -254,19 +254,19 @@ the power of realising that all conventions were only victorious
 
 revolutions. He could follow the mediæval logicians in all their sowing
 
-of the wind and reaping of the whirlwind with all that generous ardour
+of the [[Wind|wind]] and reaping of the whirlwind with all that generous ardour
 
 which is due to abstract ideas. He could study the ancients with the
 
-young eyes of the Renaissance and read a Greek grammar like a book of
+young eyes of the [[Renaissance]] and read a Greek grammar like a book of
 
-love lyrics. This immense and almost confounding Liberalism of Browning
+[[Love|love]] lyrics. This immense and almost confounding Liberalism of Browning
 
-doubtless had some effect upon his wife. In her vision of New Italy she
+doubtless had some effect upon his wife. In her vision of New [[Italy]] she
 
-went back to the image of Ancient Italy like an honest and true
+went back to the image of Ancient [[Italy]] like an honest and true
 
-revolutionist; for does not the very word "revolution" mean a rolling
+revolutionist; for does not the very word "revolution" mean a [[rolling]]
 
 backward. All true revolutions are reversions to the natural and the
 
@@ -286,33 +286,33 @@ mean principally a belief in every other nation abandoning its patriotic
 
 feelings. In the case of no other passion does this weird contradiction
 
-exist. Men whose lives are mainly based upon friendship sympathise with
+exist. Men whose lives are mainly based upon [[Friendship|friendship]] sympathise with
 
 the friendships of others. The interest of engaged couples in each other
 
 is a proverb, and like many other proverbs sometimes a nuisance. In
 
-patriotism alone it is considered correct just now to assume that the
+patriotism [[Alone|alone]] it is considered correct just now to assume that the
 
 sentiment does not exist in other people. It was not so with the great
 
-Liberals of Mrs. Browning's time. The Brownings had, so to speak, a
+Liberals of Mrs. Browning's [[Time|time]]. The Brownings had, so to speak, a
 
 disembodied talent for patriotism. They loved England and they loved
 
-Italy; yet they were the very reverse of cosmopolitans. They loved the
+[[Italy]]; yet they were the very reverse of cosmopolitans. They loved the
 
 two countries as countries, not as arbitrary divisions of the globe.
 
 They had hold of the root and essence of patriotism. They knew how
 
-certain flowers and birds and rivers pass into the mills of the brain
+certain [[Flowers|flowers]] and [[Birds|birds]] and rivers pass into the mills of the brain
 
 and come out as wars and discoveries, and how some triumphant adventure
 
 or some staggering crime wrought in a remote continent may bear about it
 
-the colour of an Italian city or the soul of a silent village of Surrey.
+the colour of an Italian [[City|city]] or the [[Soul|soul]] of a silent village of Surrey.
 
 
 
@@ -342,7 +342,7 @@ This and all associated files of various formats will be found in:
 
 
 
-Produced by Juliet Sutherland, Melissa Er-Raqabi and the Online
+Produced by [[Juliet]] Sutherland, Melissa Er-Raqabi and the Online
 
 Distributed Proofreading Team at http://www.pgdp.net
 

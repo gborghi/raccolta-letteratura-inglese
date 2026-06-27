@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 3 (part 1)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 3 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -32,7 +32,7 @@ eagerness, I now commenced another search for my phosphorus matches and
 
 tapers. I had a confused recollection of having put them carefully away
 
-just before falling asleep; and, indeed, previously to my last journey
+just before falling asleep; and, indeed, previously to my last [[Journey|journey]]
 
 to the trap, I had been able to remember the exact spot where I had
 
@@ -84,7 +84,7 @@ other rubbish in the barrel, that I despaired of deriving any service
 
 from them, and left them as they were. The phosphorus, of which there
 
-was only a speck or two, I gathered up as well as I could, and returned
+was only a speck or two, I gathered up as [[Well|well]] as I could, and returned
 
 with it, after much difficulty, to my box, where Tiger had all the
 
@@ -102,7 +102,7 @@ looked at it directly; by turning the exterior portions of the retina
 
 towards it, that is to say, by surveying it slightly askance, I found
 
-that it became in some measure perceptible. Thus the gloom of my prison
+that it became in some measure perceptible. Thus the gloom of my [[Prison|prison]]
 
 may be imagined, and the note of my friend, if indeed it were a note
 
@@ -114,7 +114,7 @@ vain I revolved in my brain a multitude of absurd expedients for
 
 procuring light--such expedients precisely as a man in the perturbed
 
-sleep occasioned by opium would be apt to fall upon for a similar
+[[Sleep|sleep]] occasioned by opium would be apt to fall upon for a similar
 
 purpose--each and all of which appear by turns to the dreamer the most
 
@@ -124,7 +124,7 @@ reasoning or imaginative faculties flicker, alternately, one above the
 
 other. At last an idea occurred to me which seemed rational, and which
 
-gave me cause to wonder, very justly, that I had not entertained it
+gave me cause to [[Wonder|wonder]], very justly, that I had not entertained it
 
 before. I placed the slip of paper on the back of a book, and,
 
@@ -152,7 +152,7 @@ I have before stated more than once that my intellect, for some period
 
 prior to this, had been in a condition nearly bordering on idiocy.
 
-There were, to be sure, momentary intervals of perfect sanity, and, now
+There were, to be sure, momentary intervals of perfect [[Sanity|sanity]], and, now
 
 and then, even of energy; but these were few. It must be remembered
 
@@ -160,9 +160,9 @@ that I had been, for many days certainly, inhaling the almost
 
 pestilential atmosphere of a close hold in a whaling vessel, and a long
 
-portion of that time but scantily supplied with water. For the last
+portion of that [[Time|time]] but scantily supplied with [[Water|water]]. For the last
 
-fourteen or fifteen hours I had none--nor had I slept during that time.
+fourteen or fifteen hours I had none--nor had I slept during that [[Time|time]].
 
 Salt provisions of the most exciting kind had been my chief, and,
 

@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 16 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 16 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -26,9 +26,9 @@ returned some days ago, and I am not yet settled, and feel as if I
 
 never should be. We left town sooner than was intended, in consequence
 
-of my uncle’s indisposition;—I wonder what would have been the result
+of my uncle’s indisposition;—I [[Wonder|wonder]] what would have been the result
 
-if we had stayed the full time. I am quite ashamed of my new-sprung
+if we had stayed the full [[Time|time]]. I am quite ashamed of my new-sprung
 
 distaste for country life. All my former occupations seem so tedious
 
@@ -44,23 +44,23 @@ haunted with the recollections of the last few weeks, that I cannot
 
 attend to them. My drawing suits me best, for I can draw and think at
 
-the same time; and if my productions cannot now be seen by any one but
+the same [[Time|time]]; and if my productions cannot now be seen by any one but
 
 myself, and those who do not care about them, they, possibly, may be,
 
 hereafter. But, then, there is one face I am always trying to paint or
 
-to sketch, and always without success; and that vexes me. As for the
+to [[Sketch|sketch]], and always without [[success]]; and that vexes me. As for the
 
 owner of that face, I cannot get him out of my mind—and, indeed, I
 
-never try. I wonder whether he ever thinks of me; and I wonder whether
+never try. I [[Wonder|wonder]] whether he ever thinks of me; and I [[Wonder|wonder]] whether
 
 I shall ever see him again. And then might follow a train of other
 
-wonderments—questions for time and fate to answer—concluding
+wonderments—questions for [[Time|time]] and fate to answer—concluding
 
-with—Supposing all the rest be answered in the affirmative, I wonder
+with—Supposing all the rest be answered in the affirmative, I [[Wonder|wonder]]
 
 whether I shall ever repent it? as my aunt would tell me I should, if
 
@@ -70,15 +70,15 @@ she knew what I was thinking about.
 
 How distinctly I remember our conversation that evening before our
 
-departure for town, when we were sitting together over the fire, my
+departure for town, when we were sitting together over the [[Fire|fire]], my
 
 uncle having gone to bed with a slight attack of the gout.
 
 
 
-“Helen,” said she, after a thoughtful silence, “do you ever think about
+“[[Helen]],” said she, after a thoughtful [[Silence|silence]], “do you ever think about
 
-marriage?”
+[[Marriage|marriage]]?”
 
 
 
@@ -110,7 +110,7 @@ he may not happen to be single, or to take a fancy to me.”
 
 
 
-“That is no argument at all. It may be very true—and I hope is true,
+“That is no argument at all. It may be very true—and I [[Hope|hope]] is true,
 
 that there are very few men whom you would choose to marry, of
 
@@ -126,7 +126,7 @@ is aware of, and often against her better judgment, and in opposition
 
 to all her preconceived ideas of what she could have loved, unless she
 
-be extremely careful and discreet. Now, I want to warn you, Helen, of
+be extremely careful and discreet. Now, I want to warn you, [[Helen]], of
 
 these things, and to exhort you to be watchful and circumspect from the
 
@@ -136,25 +136,25 @@ stolen from you by the first foolish or unprincipled person that covets
 
 the possession of it.—You know, my dear, you are only just eighteen;
 
-there is plenty of time before you, and neither your uncle nor I are in
+there is plenty of [[Time|time]] before you, and neither your uncle nor I are in
 
 any hurry to get you off our hands, and I may venture to say, there
 
 will be no lack of suitors; for you can boast a good family, a pretty
 
-considerable fortune and expectations, and, I may as well tell you
+considerable fortune and expectations, and, I may as [[Well|well]] tell you
 
 likewise—for, if I don’t, others will—that you have a fair share of
 
-beauty besides—and I hope you may never have cause to regret it!”
+[[Beauty|beauty]] besides—and I [[Hope|hope]] you may never have cause to regret it!”
 
 
 
-“I hope not, aunt; but why should you fear it?”
+“I [[Hope|hope]] not, aunt; but why should you [[Fear|fear]] it?”
 
 
 
-“Because, my dear, beauty is that quality which, next to money, is
+“Because, my dear, [[Beauty|beauty]] is that quality which, next to money, is
 
 generally the most attractive to the worst kinds of men; and,
 
@@ -168,7 +168,7 @@ possessor.”
 
 
 
-“No, Helen,” said she, with reproachful gravity, “but I know many that
+“No, [[Helen]],” said she, with reproachful gravity, “but I know many that
 
 have; and some, through carelessness, have been the wretched victims of
 
@@ -178,11 +178,11 @@ temptations terrible to relate.”
 
 
 
-“Well, I shall be neither careless nor weak.”
+“[[Well]], I shall be neither careless nor weak.”
 
 
 
-“Remember Peter, Helen! Don’t boast, but _watch_. Keep a guard over
+“Remember Peter, [[Helen]]! Don’t boast, but _watch_. Keep a guard over
 
 your eyes and ears as the inlets of your heart, and over your lips as
 
@@ -192,9 +192,9 @@ coldly and dispassionately, every attention, till you have ascertained
 
 and duly considered the worth of the aspirant; and let your affections
 
-be consequent upon approbation alone. First study; then approve; then
+be consequent upon approbation [[Alone|alone]]. First study; then approve; then
 
-love. Let your eyes be blind to all external attractions, your ears
+[[Love|love]]. Let your eyes be blind to all external attractions, your ears
 
 deaf to all the fascinations of flattery and light discourse.—These are
 
@@ -210,7 +210,7 @@ superficially agreeable man in the world, you little know the misery
 
 that would overwhelm you if, after all, you should find him to be a
 
-worthless reprobate, or even an impracticable fool.”
+worthless reprobate, or even an impracticable [[Fool|fool]].”
 
 
 
@@ -220,11 +220,11 @@ everybody followed your advice, the world would soon come to an end.”
 
 
 
-“Never fear, my dear! the male fools and reprobates will never want for
+“Never [[Fear|fear]], my dear! the male fools and reprobates will never want for
 
 partners, while there are so many of the other sex to match them; but
 
-do _you_ follow my advice. And this is no subject for jesting, Helen—I
+do _you_ follow my advice. And this is no subject for jesting, [[Helen]]—I
 
 am sorry to see you treat the matter in that light way. Believe me,
 
@@ -236,4 +236,4 @@ more impertinent questions, and merely answered,—
 
 
 
-“I know it is; and I know there is truth and sense in what you say; but
+“I know it is; and I know there is [[Truth|truth]] and sense in what you say; but

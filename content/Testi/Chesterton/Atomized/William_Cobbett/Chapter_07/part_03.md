@@ -17,14 +17,14 @@ tags:
 It is more difficult to make the people support the cause
 of the people than to make it support the cause of a person.
 Cobbett had not only the masses but most of the middle class
-with him about the dubious royal romance.  He stood much
-more alone in dealing with the indubitable popular reality.
+with him about the dubious royal [[Romance|romance]].  He stood much
+more [[Alone|alone]] in dealing with the indubitable popular reality.
 That reality to which he testified with unwearied violence was
 something quite simple; yet it seemed to be too simple for the educated
 to understand.  He shouted it in a, place more and more padded
 and cushioned with a comfortable optimism; and it had no echo.
 He shouted it in such a fashion that many of his hearers would
-have retorted that it was well that he should be in a padded cell.
+have retorted that it was [[Well|well]] that he should be in a padded cell.
 Yet what he shouted is of a certain curious interest and is
 worth recording.  It might be typified very tersely in what he said
 in answer to one of the leading statesmen, who said that we
@@ -34,11 +34,11 @@ like a man scrawling on a great wall or the side of a hill:
 `The working classes, then, are not a great interest.'
 
 He added grimly that perhaps they might be some day.
-Those who see in Trade Union dictatorship a red dawn
+Those who see in Trade [[Union]] dictatorship a red [[Dawn|dawn]]
 of revolutionary tyranny may pause upon the postscript:
 I am concerned to point out that this was, first and last,
-what he had to say:  and he could not say it in the Reform Parliament.
-It is notable that a very fair sketch of Cobbett says that he did
+what he had to say:  and he could not say it in the [[Reform]] Parliament.
+It is notable that a very fair [[Sketch|sketch]] of Cobbett says that he did
 nothing in Parliament but make a crack-brained attack on Peel.
 Yet he can be judged even by what he attacked.
 
@@ -58,7 +58,7 @@ The only truly popular tradition about Peel has nothing to do with
 the inscriptions on the statues or the speeches on the Corn Laws.
 It is the fact that, far down in the depths of a democratic world that
 politicians never visit, the slang names for the new police were `Bobbies'
-or `Peelers.' And if we want to seize the very soul of Peel and his
+or `Peelers.' And if we want to seize the very [[Soul|soul]] of Peel and his
 Parliamentary type, we can fix it in the fact that he organised
 a tremendously powerful and privileged gendarmerie for the control
 or coercion of the people, and thought they could be distinguished from
@@ -73,7 +73,7 @@ to control mobs in top-hats, just as they played cricket in top-hats.
 It is no contradiction to this that the hat has since evolved into
 a helmet.  It might have evolved into a complete suit of armour,
 so long as it evolved; evolution was the essence of that cautious
-and creeping philosophy.  The point is that at the beginning
+and creeping [[philosophy]].  The point is that at the beginning
 the gendarme would not have been accepted if he had appeared
 in a cocked hat.  It was a world, as Tennyson should have said,
 where tyranny slowly broadened down from precedent to precedent.
@@ -90,12 +90,12 @@ In a longer view it may be Parliament that failed.
 We can hardly say that the politicians failed to use
 the genius and energy of one of the greatest of Englishmen;
 for he was not a man to be used for any ends but his own,
-and they did not in the least desire to serve those ends.
+and they did not in the least [[Desire|desire]] to serve those ends.
 There was no possible point of contact, even for contradiction.
 It would be a very inadequate metaphor to say he was a fish out
-of water; for it was rather the politicians that were fishy.
+of [[Water|water]]; for it was rather the politicians that were fishy.
 It would be truer to say that he was a very incautious diver
-drowning in a tank; but the truth is that he was simply
+drowning in a tank; but the [[Truth|truth]] is that he was simply
 a bull in a china shop.  His sort of English, his sort
 of eloquence, his gesture, and his very bodily presence
 were not suitable in any case to senatorial deliberations.
@@ -108,7 +108,7 @@ His warnings and rebukes sounded more homely and natural
 when they were shouted, as a man might shout across a meadow
 a rebuke to a trespasser or a warning against a bull.
 But that sort of shouting when it is shut up in a close
-and heated room has the appearance of madness.
+and heated room has the appearance of [[Madness|madness]].
 The company received the impression of a mere maniac.
 Yet there was not a man in that room who had a clearer head
 or a clearer style, or a better basis of common sense.

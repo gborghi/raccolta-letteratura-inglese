@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 44: FORTY FOUR (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 44: FORTY FOUR (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -21,13 +21,13 @@ shrewd meaning twinkling in his eyes, that Mr Pecksniff stopped, and
 asked him what he was going to say.
 
 ‘Ecod!’ he answered. ‘Pecksniff if I knew how you meant to leave your
-money, I could put you in the way of doubling it in no time. It wouldn’t
+money, I could put you in the way of doubling it in no [[Time|time]]. It wouldn’t
 be bad to keep a chance like this snug in the family. But you’re such a
 deep one!’
 
 ‘Jonas!’ cried Mr Pecksniff, much affected, ‘I am not a diplomatical
 character; my heart is in my hand. By far the greater part of the
-inconsiderable savings I have accumulated in the course of--I hope--a
+inconsiderable savings I have accumulated in the course of--I [[Hope|hope]]--a
 not dishonourable or useless career, is already given, devised, and
 bequeathed (correct me, my dear Jonas, if I am technically wrong), with
 expressions of confidence, which I will not repeat; and in securities
@@ -41,14 +41,14 @@ of what he had had in his mind, said, ‘No. He would keep his own
 counsel.’ But as he observed that he would take a walk, Mr Pecksniff
 insisted on accompanying him, remarking that he could leave a card for
 Mr Montague, as they went along, by way of gentleman-usher to himself at
-dinner-time. Which he did.
+dinner-[[Time|time]]. Which he did.
 
 In the course of their walk, Mr Jonas affected to maintain that close
 reserve which had operated as a timely check upon him during the
 foregoing dialogue. And as he made no attempt to conciliate Mr
 Pecksniff, but, on the contrary, was more boorish and rude to him than
 usual, that gentleman, so far from suspecting his real design, laid
-himself out to be attacked with advantage. For it is in the nature of a
+himself out to be attacked with advantage. For it is in the [[Nature|nature]] of a
 knave to think the tools with which he works indispensable to knavery;
 and knowing what he would do himself in such a case, Mr Pecksniff
 argued, ‘if this young man wanted anything of me for his own ends, he
@@ -57,18 +57,18 @@ would be polite and deferential.’
 The more Jonas repelled him in his hints and inquiries, the more
 solicitous, therefore, Mr Pecksniff became to be initiated into the
 golden mysteries at which he had obscurely glanced. Why should there be
-cold and worldly secrets, he observed, between relations? What was life
+cold and worldly [[Secrets|secrets]], he observed, between relations? What was life
 without confidence? If the chosen husband of his daughter, the man to
-whom he had delivered her with so much pride and hope, such bounding
+whom he had delivered her with so much [[Pride|pride]] and [[Hope|hope]], such bounding
 and such beaming joy; if he were not a green spot in the barren waste of
 life, where was that oasis to be bound?
 
 Little did Mr Pecksniff think on what a very green spot he planted one
 foot at that moment! Little did he foresee when he said, ‘All is but
-dust!’ how very shortly he would come down with his own!
+[[Dust|dust]]!’ how very shortly he would come down with his own!
 
 Inch by inch, in his grudging and ill-conditioned way; sustained to the
-life, for the hope of making Mr Pecksniff suffer in that tender place,
+life, for the [[Hope|hope]] of making Mr Pecksniff suffer in that tender place,
 the pocket, where Jonas smarted so terribly himself, gave him an
 additional and malicious interest in the wiles he was set on to
 practise; inch by inch, and bit by bit, Jonas rather allowed the
@@ -77,23 +77,23 @@ than paraded them before his greedy listener. And in the same niggardly
 spirit, he left Mr Pecksniff to infer, if he chose (which he DID choose,
 of course), that a consciousness of not having any great natural gifts
 of speech and manner himself, rendered him desirous to have the credit
-of introducing to Mr Montague some one who was well endowed in those
+of introducing to Mr Montague some one who was [[Well|well]] endowed in those
 respects, and so atone for his own deficiencies. Otherwise, he muttered
 discontentedly, he would have seen his beloved father-in-law ‘far enough
 off,’ before he would have taken him into his confidence.
 
 Primed in this artful manner, Mr Pecksniff presented himself at
-dinner-time in such a state of suavity, benevolence, cheerfulness,
+dinner-[[Time|time]] in such a state of suavity, benevolence, cheerfulness,
 politeness, and cordiality, as even he had perhaps never attained
 before. The frankness of the country gentleman, the refinement of
-the artist, the good-humoured allowance of the man of the world;
+the [[artist]], the good-humoured allowance of the man of the world;
 philanthropy, forbearance, piety, toleration, all blended together in a
 flexible adaptability to anything and everything; were expressed in Mr
 Pecksniff, as he shook hands with the great speculator and capitalist.
 
 ‘Welcome, respected sir,’ said Mr Pecksniff, ‘to our humble village! We
 are a simple people; primitive clods, Mr Montague; but we can appreciate
-the honour of your visit, as my dear son-in-law can testify. It is very
+the [[Honour|honour]] of your visit, as my dear son-in-law can testify. It is very
 strange,’ said Mr Pecksniff, pressing his hand almost reverentially,
 ‘but I seem to know you. That towering forehead, my dear Jonas,’ said Mr
 Pecksniff aside, ‘and those clustering masses of rich hair--I must have
@@ -101,8 +101,8 @@ seen you, my dear sir, in the sparkling throng.’
 
 Nothing was more probable, they all agreed.
 
-‘I could have wished,’ said Mr Pecksniff, ‘to have had the honour of
-introducing you to an elderly inmate of our house: to the uncle of our
+‘I could have wished,’ said Mr Pecksniff, ‘to have had the [[Honour|honour]] of
+introducing you to an elderly inmate of our [[house]]: to the uncle of our
 friend. Mr Chuzzlewit, sir, would have been proud indeed to have taken
 you by the hand.’
 
@@ -116,10 +116,10 @@ wouldn’t care to know him, I can promise you.’
 
 ‘Jonas! my dear Jonas!’ remonstrated Mr Pecksniff. ‘Really!’
 
-‘Oh! it’s all very well for you to speak up for him,’ said Jonas. ‘You
+‘Oh! it’s all very [[Well|well]] for you to speak up for him,’ said Jonas. ‘You
 have nailed him. You’ll get a fortune by him.’
 
-‘Oho! Is the wind in that quarter?’ cried Montague. ‘Ha, ha, ha!’ and
+‘Oho! Is the [[Wind|wind]] in that quarter?’ cried Montague. ‘Ha, ha, ha!’ and
 here they all laughed--especially Mr Pecksniff.
 
 ‘No, no!’ said that gentleman, clapping his son-in-law playfully upon

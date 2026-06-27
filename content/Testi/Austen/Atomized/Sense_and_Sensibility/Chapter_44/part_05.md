@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 44 (part 5)"
+title: "[[Sense and Sensibility]] — Chapter 44 (part 5)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,7 +24,7 @@ must be attached to you, or she would not have married you. To treat
 
 her with unkindness, to speak of her slightingly is no atonement to
 
-Marianne—nor can I suppose it a relief to your own conscience.”
+Marianne—nor can I suppose it a relief to your own [[Conscience|conscience]].”
 
 
 
@@ -32,7 +32,7 @@ Marianne—nor can I suppose it a relief to your own conscience.”
 
 not deserve your compassion. She knew I had no regard for her when we
 
-married. Well, married we were, and came down to Combe Magna to be
+married. [[Well]], married we were, and came down to Combe Magna to be
 
 happy, and afterwards returned to town to be gay. And now do you pity
 
@@ -42,7 +42,7 @@ only one degree,—am I less guilty in your opinion than I was before? My
 
 intentions were not always wrong. Have I explained away any part of my
 
-guilt?”
+[[Guilt|guilt]]?”
 
 
 
@@ -60,7 +60,7 @@ worse.”
 
 “Will you repeat to your sister when she is recovered, what I have been
 
-telling you?—Let me be a little lightened too in her opinion as well as
+telling you?—Let me be a little lightened too in her opinion as [[Well|well]] as
 
 in yours. You tell me that she has forgiven me already. Let me be able
 
@@ -68,7 +68,7 @@ to fancy that a better knowledge of my heart, and of my present
 
 feelings, will draw from her a more spontaneous, more natural, more
 
-gentle, less dignified, forgiveness. Tell her of my misery and my
+gentle, less dignified, [[Forgiveness|forgiveness]]. Tell her of my misery and my
 
 penitence—tell her that my heart was never inconstant to her, and if
 
@@ -86,17 +86,17 @@ illness.”
 
 
 
-“Last night, in Drury Lane lobby, I ran against Sir John Middleton, and
+“Last [[Night|night]], in Drury Lane lobby, I ran against Sir John Middleton, and
 
-when he saw who I was, for the first time these two months, he spoke to
+when he saw who I was, for the first [[Time|time]] these two months, he spoke to
 
-me. That he had cut me ever since my marriage, I had seen without
+me. That he had cut me ever since my [[Marriage|marriage]], I had seen without
 
 surprise or resentment. Now, however, his good-natured, honest, stupid
 
-soul, full of indignation against me, and concern for your sister,
+[[Soul|soul]], full of indignation against me, and concern for your sister,
 
-could not resist the temptation of telling me what he knew ought to,
+could not resist the [[Temptation|temptation]] of telling me what he knew ought to,
 
 though probably he did not think it _would_, vex me horridly. As
 
@@ -118,7 +118,7 @@ hand while he reminded me of an old promise about a pointer puppy. What
 
 I felt on hearing that your sister was dying, and dying too, believing
 
-me the greatest villain upon earth, scorning, hating me in her latest
+me the greatest [[Villain|villain]] upon earth, scorning, hating me in her latest
 
 moments—for how could I tell what horrid projects might not have been
 
@@ -126,7 +126,7 @@ imputed? _One_ person I was sure would represent me as capable of
 
 anything—What I felt was dreadful! My resolution was soon made, and at
 
-eight o’clock this morning I was in my carriage. Now you know all.”
+eight o’[[Clock|clock]] this morning I was in my carriage. Now you know all.”
 
 
 
@@ -142,9 +142,9 @@ and talents, united a disposition naturally open and honest, and a
 
 feeling, affectionate temper. The world had made him extravagant and
 
-vain—Extravagance and vanity had made him cold-hearted and selfish.
+vain—Extravagance and [[Vanity|vanity]] had made him cold-hearted and selfish.
 
-Vanity, while seeking its own guilty triumph at the expense of another,
+[[Vanity]], while seeking its own guilty triumph at the expense of another,
 
 had involved him in a real attachment, which extravagance, or at least
 
@@ -152,7 +152,7 @@ its offspring, necessity, had required to be sacrificed. Each faulty
 
 propensity in leading him to evil, had led him likewise to punishment.
 
-The attachment, from which against honour, against feeling, against
+The attachment, from which against [[Honour|honour]], against feeling, against
 
 every better interest he had outwardly torn himself, now, when no
 
@@ -162,7 +162,7 @@ sake of which he had, with little scruple, left her sister to misery,
 
 was likely to prove a source of unhappiness to himself of a far more
 
-incurable nature. From a reverie of this kind she was recalled at the
+incurable [[Nature|nature]]. From a reverie of this kind she was recalled at the
 
 end of some minutes by Willoughby, who, rousing himself from a reverie
 
@@ -202,7 +202,7 @@ he was to go.
 
 Elinor assured him that she did;—that she forgave, pitied, wished him
 
-well—was even interested in his happiness—and added some gentle counsel
+[[Well|well]]—was even interested in his happiness—and added some gentle counsel
 
 as to the behaviour most likely to promote it. His answer was not very
 
@@ -210,7 +210,7 @@ encouraging.
 
 
 
-“As to that,” said he, “I must rub through the world as well as I can.
+“As to that,” said he, “I must rub through the world as [[Well|well]] as I can.
 
 Domestic happiness is out of the question. If, however, I am allowed to
 
@@ -228,7 +228,7 @@ Elinor stopped him with a reproof.
 
 
 
-“Well,”—he replied—“once more good bye. I shall now go away and live in
+“[[Well]],”—he replied—“once more good bye. I shall now go away and live in
 
 dread of one event.”
 
@@ -238,7 +238,7 @@ dread of one event.”
 
 
 
-“Your sister’s marriage.”
+“Your sister’s [[Marriage|marriage]].”
 
 
 

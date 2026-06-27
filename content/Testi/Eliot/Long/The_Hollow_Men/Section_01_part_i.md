@@ -21,13 +21,13 @@ Headpiece filled with straw. Alas!
 Our dried voices, when  
 We whisper together  
 Are quiet and meaningless  
-As wind in dry grass  
+As [[Wind|wind]] in dry grass  
 Or rats’ feet over broken glass  
 In our dry cellar  
 Shape without form, shade without colour,  
 Paralysed force, gesture without motion;  
 Those who have crossed  
-With direct eyes, to death’s other Kingdom  
+With direct eyes, to [[Death|death]]’s other Kingdom  
 Remember us — if at all — not as lost  
 Violent souls, but only  
 As the hollow men  

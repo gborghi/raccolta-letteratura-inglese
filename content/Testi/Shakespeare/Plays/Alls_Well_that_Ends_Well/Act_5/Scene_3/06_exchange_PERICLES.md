@@ -1,5 +1,5 @@
 ---
-title: "Alls Well that Ends Well — Act V, Scene 3 — exchange (PERICLES) [6]"
+title: "Alls [[Well]] that Ends [[Well]] — Act V, Scene 3 — exchange ([[Pericles|PERICLES]]) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/ALL’S-WELL-THAT-ENDS-WELL-(Shakespeare)"

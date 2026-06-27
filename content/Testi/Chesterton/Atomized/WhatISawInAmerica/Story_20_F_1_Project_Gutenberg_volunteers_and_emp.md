@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — F.1.  Project Gutenberg volunteers and employees expend considerable"
+title: "[[WhatISawInAmerica]] — F.1.  Project Gutenberg volunteers and employees expend considerable"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"

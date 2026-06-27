@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-      Peters; Seymour, the black cook; Jones, Greely, Hartman Rogers
+      Peters; Seymour, the black cook; [[Jones]], Greely, Hartman Rogers
 
       and William Allen, all of the cook’s party; the mate, whose name
 
-      I never learned; Absalom Hicks, Wilson, John Hunty Richard
+      I never learned; Absalom Hicks, Wilson, John Hunty [[Richard]]
 
       Parker, of the mate’s party;—besides Augustus and myself.
 
@@ -26,15 +26,15 @@ tags:
 
       July 6th. The gale lasted all this day, blowing in heavy squalls,
 
-      accompanied with rain. The brig took in a good deal of water
+      accompanied with rain. The brig took in a good deal of [[Water|water]]
 
       through her seams, and one of the pumps was kept continually
 
       going, Augustus being forced to take his turn. Just at twilight a
 
-      large ship passed close by us, without having been discovered
+      large [[Ship|ship]] passed close by us, without having been discovered
 
-      until within hail. The ship was supposed to be the one for which
+      until within hail. The [[Ship|ship]] was supposed to be the one for which
 
       the mutineers were on the lookout. The mate hailed her, but the
 
@@ -46,7 +46,7 @@ tags:
 
       morning the weather moderated, and at sunrise there was very
 
-      little wind.
+      little [[Wind|wind]].
 
 
 
@@ -70,7 +70,7 @@ tags:
 
       could be done to remedy it, as it was occasioned by the brig's
 
-      straining, and taking in the water through her seams. A sail was
+      straining, and taking in the [[Water|water]] through her seams. A sail was
 
       thrummed, and got under the bows, which aided us in some measure,
 

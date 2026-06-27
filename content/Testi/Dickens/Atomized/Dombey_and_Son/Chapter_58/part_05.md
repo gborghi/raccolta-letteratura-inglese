@@ -15,10 +15,10 @@ tags:
 
 
 “With such exceptions,” said Louisa, “she’ll consult her choice
-entirely, and be under no restraint at all, my love.”
+entirely, and be under no restraint at all, my [[Love|love]].”
 
 “And then, of course, you know,” said Miss Tox, “however fond she is of
-her own dear little child—and I’m sure, Louisa, you don’t blame her for
+her own dear little [[Child|child]]—and I’m sure, Louisa, you don’t blame her for
 being fond of it?”
 
 “Oh no!” cried Mrs Chick, benignantly.
@@ -28,7 +28,7 @@ young charge, and must consider it a privilege to see a little cherub
 connected with the superior classes, gradually unfolding itself from
 day to day at one common fountain—is it not so, Louisa?”
 
-“Most undoubtedly!” said Mrs Chick. “You see, my love, she’s already
+“Most undoubtedly!” said Mrs Chick. “You see, my [[Love|love]], she’s already
 quite contented and comfortable, and means to say goodbye to her sister
 Jemima and her little pets, and her good honest husband, with a light
 heart and a smile; don’t she, my dear?”
@@ -49,7 +49,7 @@ your head and fight low, Polly, and you can’t go wrong!”
 
 Fortified by this golden secret, Polly finally ran away to avoid any
 more particular leave-taking between herself and the children. But the
-stratagem hardly succeeded as well as it deserved; for the smallest boy
+stratagem hardly succeeded as [[Well|well]] as it deserved; for the smallest boy
 but one divining her intent, immediately began swarming upstairs after
 her—if that word of doubtful etymology be admissible—on his arms and
 legs; while the eldest (known in the family by the name of Biler, in
@@ -59,9 +59,9 @@ family.
 
 A quantity of oranges and halfpence thrust indiscriminately on each
 young Toodle, checked the first violence of their regret, and the
-family were speedily transported to their own home, by means of the
+family were speedily transported to their own [[Home|home]], by means of the
 hackney-coach kept in waiting for that purpose. The children, under the
-guardianship of Jemima, blocked up the window, and dropped out oranges
+guardianship of Jemima, blocked up the [[Window|window]], and dropped out oranges
 and halfpence all the way along. Mr Toodle himself preferred to ride
 behind among the spikes, as being the mode of conveyance to which he
 was best accustomed.

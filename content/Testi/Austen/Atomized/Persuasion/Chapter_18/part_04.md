@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 18 (part 4)"
+title: "[[Persuasion]] — Chapter 18 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -30,17 +30,17 @@ Benwick. You know James Benwick.”
 
 
 
-“A little. I am a little acquainted with Captain Benwick.”
+“A little. I am a little acquainted with [[Captain Benwick]].”
 
 
 
-“Well, she is to marry him. Nay, most likely they are married already,
+“[[Well]], she is to marry him. Nay, most likely they are married already,
 
 for I do not know what they should wait for.”
 
 
 
-“I thought Captain Benwick a very pleasing young man,” said Anne, “and
+“I thought [[Captain Benwick]] a very pleasing young man,” said Anne, “and
 
 I understand that he bears an excellent character.”
 
@@ -48,7 +48,7 @@ I understand that he bears an excellent character.”
 
 “Oh! yes, yes, there is not a word to be said against James Benwick. He
 
-is only a commander, it is true, made last summer, and these are bad
+is only a commander, it is true, made last [[Summer|summer]], and these are bad
 
 times for getting on, but he has not another fault that I know of. An
 
@@ -62,13 +62,13 @@ soft sort of manner does not do him justice.”
 
 “Indeed you are mistaken there, sir; I should never augur want of
 
-spirit from Captain Benwick’s manners. I thought them particularly
+spirit from [[Captain Benwick]]’s manners. I thought them particularly
 
 pleasing, and I will answer for it, they would generally please.”
 
 
 
-“Well, well, ladies are the best judges; but James Benwick is rather
+“[[Well]], [[Well|well]], ladies are the best judges; but James Benwick is rather
 
 too piano for me; and though very likely it is all our partiality,
 
@@ -82,7 +82,7 @@ Anne was caught. She had only meant to oppose the too common idea of
 
 spirit and gentleness being incompatible with each other, not at all to
 
-represent Captain Benwick’s manners as the very best that could
+represent [[Captain Benwick]]’s manners as the very best that could
 
 possibly be; and, after a little hesitation, she was beginning to say,
 
@@ -106,15 +106,15 @@ they are all at Uppercross.”
 
 This was an opportunity which Anne could not resist; she said,
 
-therefore, “I hope, Admiral, I hope there is nothing in the style of
+therefore, “I [[Hope|hope]], Admiral, I [[Hope|hope]] there is nothing in the style of
 
-Captain Wentworth’s letter to make you and Mrs Croft particularly
+[[Captain Wentworth]]’s letter to make you and Mrs Croft particularly
 
-uneasy. It did seem, last autumn, as if there were an attachment
+uneasy. It did seem, last [[Autumn|autumn]], as if there were an attachment
 
-between him and Louisa Musgrove; but I hope it may be understood to
+between him and Louisa Musgrove; but I [[Hope|hope]] it may be understood to
 
-have worn out on each side equally, and without violence. I hope his
+have worn out on each side equally, and without violence. I [[Hope|hope]] his
 
 letter does not breathe the spirit of an ill-used man.”
 
@@ -138,25 +138,25 @@ she should have him.”
 
 
 
-“Certainly. But what I mean is, that I hope there is nothing in Captain
+“Certainly. But what I mean is, that I [[Hope|hope]] there is nothing in Captain
 
 Wentworth’s manner of writing to make you suppose he thinks himself
 
 ill-used by his friend, which might appear, you know, without its being
 
-absolutely said. I should be very sorry that such a friendship as has
+absolutely said. I should be very sorry that such a [[Friendship|friendship]] as has
 
-subsisted between him and Captain Benwick should be destroyed, or even
+subsisted between him and [[Captain Benwick]] should be destroyed, or even
 
 wounded, by a circumstance of this sort.”
 
 
 
-“Yes, yes, I understand you. But there is nothing at all of that nature
+“Yes, yes, I understand you. But there is nothing at all of that [[Nature|nature]]
 
 in the letter. He does not give the least fling at Benwick; does not so
 
-much as say, ‘I wonder at it, I have a reason of my own for wondering
+much as say, ‘I [[Wonder|wonder]] at it, I have a reason of my own for wondering
 
 at it.’ No, you would not guess, from his way of writing, that he had
 

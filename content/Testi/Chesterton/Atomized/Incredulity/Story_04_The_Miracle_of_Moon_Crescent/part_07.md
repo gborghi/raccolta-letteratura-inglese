@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Miracle of Moon Crescent (part 7)"
+title: "[[Incredulity]] — The Miracle of [[Moon]] Crescent (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -37,8 +37,8 @@ on the bench, but I guess he didn't distract us much.'
 
 `You never know how much,' replied Vair; `it might have been
 that or more likely your eyes following some gesture of the priest
-as he told his tale of magic.  It was in one of those black flashes
-that Mr Warren Wynd slipped out of his door and went to his death.
+as he told his tale of [[Magic|magic]].  It was in one of those black flashes
+that Mr Warren Wynd slipped out of his door and went to his [[Death|death]].
 That is the most probable explanation.  It is an illustration
 of the new discovery.  The mind is not a continuous line,
 but rather a dotted line.'
@@ -67,7 +67,7 @@ on the blind spots in our minds.  Miracles of the monkish sort,
 like materializing a crocodile or hanging a cloak on a sunbeam,
 seem quite sane compared to you.'
 
-`Oh, well,' said Professor Vair, rather curtly, `if you are resolved
+`Oh, [[Well|well]],' said Professor Vair, rather curtly, `if you are resolved
 to believe in your priest and his miraculous Irishman I can say no more.
 I'm afraid you have not had an opportunity of studying psychology.'
 
@@ -101,7 +101,7 @@ at the apartment which was the scene of the disappearance, in order
 to take steps for the establishment of that marvellous occurrence.
 The occurrence itself had already begun to break out in the newspapers,
 and was being taken up everywhere by the enthusiasts of occultism.
-Father Brown saw the flaring posters inscribed `Suicide of Vanishing Man',
+Father Brown saw the flaring posters inscribed `[[suicide|Suicide]] of Vanishing Man',
 and `Man's Curse Hangs Philanthropist', as he passed towards
 Moon Crescent and mounted the steps on the way to the elevator.
 He found the little group much as he left it, Vandam, Alboin,
@@ -110,7 +110,7 @@ and even reverence in their tone towards himself.  They were standing
 by Wynd's desk, on which lay a large paper and writing materials;
 they turned to greet him.
 
-`Father Brown,' said the spokesman, who was the white--haired Westerner,
+`[[Father Brown]],' said the spokesman, who was the white--haired Westerner,
 somewhat sobered with his responsibility, `we asked you here in the first
 place to offer our apologies and our thanks.  We recognize that it
 was you that spotted the spiritual manifestation from the first.
@@ -124,7 +124,7 @@ because the newspaper accounts are not what you might call exact.
 We've stated how the curse was spoken out in the street; how the man
 was sealed up here in a room like a box; how the curse dissolved him
 straight into thin air, and in some unthinkable way materialized him
-as a suicide hoisted on a gallows.  That's all we can say about it;
+as a [[suicide]] hoisted on a gallows.  That's all we can say about it;
 but all that we know, and have seen with our own eyes.  And as you
 were the first to believe in the miracle, we all feel that you ought
 to be the first to sign.'

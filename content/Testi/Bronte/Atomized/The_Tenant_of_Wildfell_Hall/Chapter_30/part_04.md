@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 30 (part 4)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 30 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -44,23 +44,23 @@ should exist a secret understanding between my husband’s friend and me,
 
 unknown to him, of which he was the object. But my after-thought was,
 
-“If it is wrong, surely Arthur’s is the fault, not mine.”
+“If it is wrong, surely [[arthur|Arthur]]’s is the fault, not mine.”
 
 
 
-And indeed I know not whether, at the time, it was not for _him_ rather
+And indeed I know not whether, at the [[Time|time]], it was not for _him_ rather
 
 than myself that I blushed; for, since he and I are one, I so identify
 
 myself with him, that I feel his degradation, his failings, and
 
-transgressions as my own: I blush for him, I fear for him; I repent for
+transgressions as my own: I blush for him, I [[Fear|fear]] for him; I repent for
 
 him, weep, pray, and feel for him as for myself; but I cannot act for
 
-him; and hence I must be, and I am, debased, contaminated by the union,
+him; and hence I must be, and I am, debased, contaminated by the [[Union|union]],
 
-both in my own eyes and in the actual truth. I am so determined to love
+both in my own eyes and in the actual [[Truth|truth]]. I am so determined to [[Love|love]]
 
 him, so intensely anxious to excuse his errors, that I am continually
 
@@ -76,25 +76,25 @@ because reason and God’s word declare them to be so; but I am gradually
 
 losing that instinctive horror and repulsion which were given me by
 
-nature, or instilled into me by the precepts and example of my aunt.
+[[Nature|nature]], or instilled into me by the precepts and example of my aunt.
 
 Perhaps then I was too severe in my judgments, for I abhorred the
 
-sinner as well as the sin; now I flatter myself I am more charitable
+sinner as [[Well|well]] as the sin; now I flatter myself I am more charitable
 
 and considerate; but am I not becoming more indifferent and insensate
 
-too? Fool that I was, to dream that I had strength and purity enough to
+too? [[Fool]] that I was, to dream that I had strength and purity enough to
 
 save myself and him! Such vain presumption would be rightly served, if
 
 I should perish with him in the gulf from which I sought to save him!
 
-Yet, God preserve me from it, and him too! Yes, poor Arthur, I will
+Yet, God preserve me from it, and him too! Yes, poor [[arthur|Arthur]], I will
 
-still hope and pray for you; and though I write as if you were some
+still [[Hope|hope]] and pray for you; and though I write as if you were some
 
-abandoned wretch, past hope and past reprieve, it is only my anxious
+abandoned wretch, past [[Hope|hope]] and past reprieve, it is only my anxious
 
 fears, my strong desires that make me do so; one who loved you less
 
@@ -104,7 +104,7 @@ would be less bitter, less dissatisfied.
 
 His conduct has, of late, been what the world calls irreproachable; but
 
-then I know his heart is still unchanged; and I know that spring is
+then I know his heart is still unchanged; and I know that [[spring]] is
 
 approaching, and deeply dread the consequences.
 
@@ -116,7 +116,7 @@ with it something of his former impatience of retirement and repose, I
 
 suggested a short residence by the sea-side, for his recreation and
 
-further restoration, and for the benefit of our little one as well. But
+further restoration, and for the benefit of our little one as [[Well|well]]. But
 
 no: watering-places were so intolerably dull; besides, he had been
 
@@ -128,15 +128,15 @@ promised to go.
 
 
 
-“Then you will leave me again, Arthur?” said I.
+“Then you will leave me again, [[arthur|Arthur]]?” said I.
 
 
 
-“Yes, dearest, but only to love you the better when I come back, and
+“Yes, dearest, but only to [[Love|love]] you the better when I come back, and
 
-make up for all past offences and short-comings; and you needn’t fear
+make up for all past offences and short-comings; and you needn’t [[Fear|fear]]
 
-me this time: there are no temptations on the mountains. And during my
+me this [[Time|time]]: there are no temptations on the [[Mountains|mountains]]. And during my
 
 absence you may pay a visit to Staningley, if you like: your uncle and
 
@@ -148,25 +148,25 @@ could bring myself up to the scratch.”
 
 
 
-About the third week in August, Arthur set out for Scotland, and Mr.
+About the third week in August, [[arthur|Arthur]] set out for Scotland, and Mr.
 
 Hargrave accompanied him thither, to my private satisfaction. Shortly
 
-after, I, with little Arthur and Rachel, went to Staningley, my dear
+after, I, with little [[arthur|Arthur]] and Rachel, went to Staningley, my dear
 
-old home, which, as well as my dear old friends its inhabitants, I saw
+old [[Home|home]], which, as [[Well|well]] as my dear old friends its inhabitants, I saw
 
-again with mingled feelings of pleasure and pain so intimately blended
+again with mingled feelings of pleasure and [[Pain|pain]] so intimately blended
 
 that I could scarcely distinguish the one from the other, or tell to
 
-which to attribute the various tears, and smiles, and sighs awakened by
+which to attribute the various [[Tears|tears]], and smiles, and sighs awakened by
 
 those old familiar scenes, and tones, and faces.
 
 
 
-Arthur did not come home till several weeks after my return to
+[[arthur|Arthur]] did not come [[Home|home]] till several weeks after my return to
 
 Grassdale; but I did not feel so anxious about him now; to think of him
 
@@ -174,7 +174,7 @@ engaged in active sports among the wild hills of Scotland, was very
 
 different from knowing him to be immersed amid the corruptions and
 
-temptations of London. His letters now; though neither long nor
+temptations of [[London]]. His letters now; though neither long nor
 
 loverlike, were more regular than ever they had been before; and when
 
@@ -182,7 +182,7 @@ he did return, to my great joy, instead of being worse than when he
 
 went, he was more cheerful and vigorous, and better in every respect.
 
-Since that time I have had little cause to complain. He still has an
+Since that [[Time|time]] I have had little cause to complain. He still has an
 
 unfortunate predilection for the pleasures of the table, against which
 
@@ -192,12 +192,12 @@ that is an increasing source of amusement to him within-doors, while
 
 his fox-hunting and coursing are a sufficient occupation for him
 
-without, when the ground is not hardened by frost; so that he is not
+without, when the ground is not hardened by [[Frost|frost]]; so that he is not
 
-wholly dependent on me for entertainment. But it is now January; spring
+wholly dependent on me for entertainment. But it is now January; [[spring]]
 
 is approaching; and, I repeat, I dread the consequences of its arrival.
 
-That sweet season, I once so joyously welcomed as the time of hope and
+That sweet season, I once so joyously welcomed as the [[Time|time]] of [[Hope|hope]] and
 
 gladness, awakens now far other anticipations by its return.

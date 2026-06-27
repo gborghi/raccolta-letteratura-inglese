@@ -20,8 +20,8 @@ on the pavement to confirm his words.
 ‘Mr Headstone—’
 
 ‘Stop! I implore you, before you answer me, to walk round this place
-once more. It will give you a minute’s time to think, and me a minute’s
-time to get some fortitude together.’
+once more. It will give you a minute’s [[Time|time]] to think, and me a minute’s
+[[Time|time]] to get some fortitude together.’
 
 Again she yielded to the entreaty, and again they came back to the same
 place, and again he worked at the stone.
@@ -29,10 +29,10 @@ place, and again he worked at the stone.
 ‘Is it,’ he said, with his attention apparently engrossed by it, ‘yes,
 or no?’
 
-‘Mr Headstone, I thank you sincerely, I thank you gratefully, and hope
+‘Mr Headstone, I thank you sincerely, I thank you gratefully, and [[Hope|hope]]
 you may find a worthy wife before long and be very happy. But it is no.’
 
-‘Is no short time necessary for reflection; no weeks or days?’ he asked,
+‘Is no short [[Time|time]] necessary for reflection; no weeks or days?’ he asked,
 in the same half-suffocated way.
 
 ‘None whatever.’
@@ -45,9 +45,9 @@ there is none.’
 
 ‘Then,’ said he, suddenly changing his tone and turning to her, and
 bringing his clenched hand down upon the stone with a force that laid
-the knuckles raw and bleeding; ‘then I hope that I may never kill him!’
+the knuckles raw and bleeding; ‘then I [[Hope|hope]] that I may never kill him!’
 
-The dark look of hatred and revenge with which the words broke from his
+The dark look of hatred and [[Revenge|revenge]] with which the words broke from his
 livid lips, and with which he stood holding out his smeared hand as
 if it held some weapon and had just struck a mortal blow, made her so
 afraid of him that she turned to run away. But he caught her by the arm.
@@ -60,21 +60,21 @@ much I need it.’
 The working of his face as she shrank from it, glancing round for her
 brother and uncertain what to do, might have extorted a cry from her in
 another instant; but all at once he sternly stopped it and fixed it, as
-if Death itself had done so.
+if [[Death]] itself had done so.
 
 ‘There! You see I have recovered myself. Hear me out.’
 
-With much of the dignity of courage, as she recalled her self-reliant
+With much of the dignity of [[Courage|courage]], as she recalled her [[Self|self]]-reliant
 life and her right to be free from accountability to this man, she
 released her arm from his grasp and stood looking full at him. She had
 never been so handsome, in his eyes. A shade came over them while
 he looked back at her, as if she drew the very light out of them to
 herself.
 
-‘This time, at least, I will leave nothing unsaid,’ he went on, folding
+‘This [[Time|time]], at least, I will leave nothing unsaid,’ he went on, folding
 his hands before him, clearly to prevent his being betrayed into any
-impetuous gesture; ‘this last time at least I will not be tortured with
-after-thoughts of a lost opportunity. Mr Eugene Wrayburn.’
+impetuous gesture; ‘this last [[Time|time]] at least I will not be tortured with
+after-thoughts of a lost opportunity. Mr [[Eugene Wrayburn]].’
 
 ‘Was it of him you spoke in your ungovernable rage and violence?’ Lizzie
 Hexam demanded with spirit.
@@ -92,26 +92,26 @@ brother.’
 
 Her look dropped for an instant to his bleeding hand. He lifted it to
 his mouth, wiped it on his sleeve, and again folded it over the other.
-‘Mr Eugene Wrayburn,’ he repeated.
+‘Mr [[Eugene Wrayburn]],’ he repeated.
 
 ‘Why do you mention that name again and again, Mr Headstone?’
 
 ‘Because it is the text of the little I have left to say. Observe! There
 are no threats in it. If I utter a threat, stop me, and fasten it upon
-me. Mr Eugene Wrayburn.’
+me. Mr [[Eugene Wrayburn]].’
 
 A worse threat than was conveyed in his manner of uttering the name,
 could hardly have escaped him.
 
 ‘He haunts you. You accept favours from him. You are willing enough to
-listen to HIM. I know it, as well as he does.’
+listen to HIM. I know it, as [[Well|well]] as he does.’
 
 ‘Mr Wrayburn has been considerate and good to me, sir,’ said Lizzie,
-proudly, ‘in connexion with the death and with the memory of my poor
+proudly, ‘in connexion with the [[Death|death]] and with the [[Memory|memory]] of my poor
 father.’
 
-‘No doubt. He is of course a very considerate and a very good man, Mr
-Eugene Wrayburn.’
+‘No [[Doubt|doubt]]. He is of course a very considerate and a very good man, Mr
+[[Eugene Wrayburn]].’
 
 ‘He is nothing to you, I think,’ said Lizzie, with an indignation she
 could not repress.
@@ -130,11 +130,11 @@ have produced upon me for yourself.’
 
 His head bent for a moment, as if under a weight, and he then looked up
 again, moistening his lips. ‘I was going on with the little I had left
-to say. I knew all this about Mr Eugene Wrayburn, all the while you were
+to say. I knew all this about Mr [[Eugene Wrayburn]], all the while you were
 drawing me to you. I strove against the knowledge, but quite in vain. It
-made no difference in me. With Mr Eugene Wrayburn in my mind, I went
-on. With Mr Eugene Wrayburn in my mind, I spoke to you just now. With Mr
-Eugene Wrayburn in my mind, I have been set aside and I have been cast
+made no difference in me. With Mr [[Eugene Wrayburn]] in my mind, I went
+on. With Mr [[Eugene Wrayburn]] in my mind, I spoke to you just now. With Mr
+[[Eugene Wrayburn]] in my mind, I have been set aside and I have been cast
 out.’
 
 ‘If you give those names to my thanking you for your proposal
@@ -143,11 +143,11 @@ compassionating the bitter struggle he could not conceal, almost as much
 as she was repelled and alarmed by it.
 
 ‘I am not complaining,’ he returned, ‘I am only stating the case. I had
-to wrestle with my self-respect when I submitted to be drawn to you in
-spite of Mr Wrayburn. You may imagine how low my self-respect lies now.’
+to wrestle with my [[Self|self]]-respect when I submitted to be drawn to you in
+spite of Mr Wrayburn. You may imagine how low my [[Self|self]]-respect lies now.’
 
 She was hurt and angry; but repressed herself in consideration of his
-suffering, and of his being her brother’s friend.
+[[Suffering|suffering]], and of his being her brother’s friend.
 
 ‘And it lies under his feet,’ said Bradley, unfolding his hands in spite
 of himself, and fiercely motioning with them both towards the stones of
@@ -158,10 +158,10 @@ treads upon it and exults above it.’
 
 ‘He does!’ said Bradley. ‘I have stood before him face to face, and he
 crushed me down in the dirt of his contempt, and walked over me. Why?
-Because he knew with triumph what was in store for me to-night.’
+Because he knew with triumph what was in store for me to-[[Night|night]].’
 
 ‘O, Mr Headstone, you talk quite wildly.’
 
-‘Quite collectedly. I know what I say too well. Now I have said all. I
+‘Quite collectedly. I know what I say too [[Well|well]]. Now I have said all. I
 have used no threat, remember; I have done no more than show you how the
 case stands;—how the case stands, so far.’

@@ -23,7 +23,7 @@ more than the Confessional was always abused for demanding.
 It is most probable that psycho analysis can do good; it is pretty
 certain that psycho-analysts can do harm.  But all this has nothing
 to do with the wonderful portrait of Dr. Sigismund Freud exhibited
-by a devout follower in his admiring study of the prophet.
+by a devout follower in his admiring study of the [[Prophet|prophet]].
 
 The devout follower writes:  `The great desk is a veritable Olympus
 of pagan gods, statuettes from the Nile cast in green metal
@@ -95,7 +95,7 @@ to a man to call him a Robot.
 Thus, again, he is drugged and mesmerized into using throughout
 the article such sentences as this:  `Freud's negation of
 Free Will is as thorough as that of some old tragic Greek poet.'
-Well, to begin with, there may be two words even about the Greek poet.
+[[Well]], to begin with, there may be two words even about the Greek poet.
 I do not profess to know much about the historic problems of Hellenism.
 I do not even know very much about the Greek tragedies.
 But the psycho-analysts know nothing at all about the Greek tragedies.
@@ -106,7 +106,7 @@ Greek parallel.  It was the whole point of Oedipus that he did
 not have the Oedipus Complex.  It was the whole point of him
 that he only knew certain things too late which our bright
 and breezy psycho-analysts would introduce us to much too early.
-Next, in so far as the old tragedy was a struggle between Fate
+Next, in so far as the old [[Tragedy|tragedy]] was a struggle between Fate
 and Free Will, it represented the defeat of Free Will and not
 the denial of Free Will.  The struggle of man against the gods
 might be a hopeless struggle, but it was a struggle.  It is the whole
@@ -115,11 +115,11 @@ In fact, the Pagans, like the Christians, had a notion of
 the distinction between the divine will and the human will;
 only that their view of the divine will was darker and more doubtful;
 and because they were Pagans they were tempted to be pessimists.
-Then, again, the whole business of Fate in the old tragedy is not
+Then, again, the whole business of Fate in the old [[Tragedy|tragedy]] is not
 so simple as it looks; one of the best Greek scholars I know said that
-a Greek tragedy often consisted of a lot of people doing the wildest
+a [[Greek Tragedy|Greek tragedy]] often consisted of a lot of people doing the wildest
 and wickedest things in a frenzy of free will and personal perversity;
-and then the Chorus saying in a hollow voice, `It is Fate.
+and then the [[Chorus]] saying in a hollow voice, `It is Fate.
 It is Fate.'  He said he did not believe it was Greek fatalism,
 but only Greek irony.
 
@@ -142,9 +142,9 @@ Even in this one story of the father of psycho analysis I could find
 a dozen examples of this slipshod popular `science'. Freud is represented
 as saying that the human race will get through (whatever that may mean)
 `because development is an inevitable law of creation'.  It is at
-least equally apparent that decay is an inevitable law of creation.
+least equally apparent that [[Decay|decay]] is an inevitable law of creation.
 Old Huxley would have hacked this sort of thing to pieces with a hatchet.
-There is doubtless a place for Freud's scalpel as well as
+There is doubtless a place for Freud's scalpel as [[Well|well]] as
 Huxley's hatchet; but it would be a pity if science, by performing
 the most brilliant operations on the brain, should end by removing
 the brain altogether.

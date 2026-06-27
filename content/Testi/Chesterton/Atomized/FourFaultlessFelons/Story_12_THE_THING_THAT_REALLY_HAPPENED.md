@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE THING THAT REALLY HAPPENED"
+title: "[[FourFaultlessFelons]] — THE THING THAT REALLY HAPPENED"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"

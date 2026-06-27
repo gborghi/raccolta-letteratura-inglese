@@ -26,7 +26,7 @@ tags:
 
       and nothing surely can be better calculated to elicit reflection
 
-      in every well-regulated human intellect.
+      in every [[Well|well]]-regulated human intellect.
 
 
 
@@ -38,7 +38,7 @@ tags:
 
       captain and a young relation of his on a point of barren land to
 
-      the westward, they having some business, whose nature I could not
+      the westward, they having some business, whose [[Nature|nature]] I could not
 
       ascertain, to transact in the interior of the island. Captain Guy
 
@@ -62,7 +62,7 @@ tags:
 
       small islands in the vicinity. Our labours, however, were not
 
-      crowned with any important success. We saw a great many fur seal,
+      crowned with any important [[success]]. We saw a great many fur seal,
 
       but they were exceedingly shy, and with the greatest exertions,
 

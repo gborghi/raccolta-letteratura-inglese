@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 9 (part 3)"
+title: "[[Persuasion]] — Chapter 9 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -16,17 +16,17 @@ tags:
 
 I dare say,” had been Anne’s reply, in all the confusion that was
 
-natural; and if the child had not called her to come and do something
+natural; and if the [[Child|child]] had not called her to come and do something
 
 for him, she would have been out of the room the next moment, and
 
-released Captain Wentworth as well as herself.
+released [[Captain Wentworth]] as [[Well|well]] as herself.
 
 
 
-He continued at the window; and after calmly and politely saying, “I
+He continued at the [[Window|window]]; and after calmly and politely saying, “I
 
-hope the little boy is better,” was silent.
+[[Hope|hope]] the little boy is better,” was silent.
 
 
 
@@ -38,11 +38,11 @@ great satisfaction, she heard some other person crossing the little
 
 vestibule. She hoped, on turning her head, to see the master of the
 
-house; but it proved to be one much less calculated for making matters
+[[house]]; but it proved to be one much less calculated for making matters
 
 easy—Charles Hayter, probably not at all better pleased by the sight of
 
-Captain Wentworth than Captain Wentworth had been by the sight of Anne.
+[[Captain Wentworth]] than [[Captain Wentworth]] had been by the sight of Anne.
 
 
 
@@ -52,19 +52,19 @@ others will be here presently.”
 
 
 
-Captain Wentworth, however, came from his window, apparently not
+[[Captain Wentworth]], however, came from his [[Window|window]], apparently not
 
 ill-disposed for conversation; but Charles Hayter soon put an end to
 
 his attempts by seating himself near the table, and taking up the
 
-newspaper; and Captain Wentworth returned to his window.
+newspaper; and [[Captain Wentworth]] returned to his [[Window|window]].
 
 
 
 Another minute brought another addition. The younger boy, a remarkable
 
-stout, forward child, of two years old, having got the door opened for
+stout, forward [[Child|child]], of two years old, having got the door opened for
 
 him by some one without, made his determined appearance among them, and
 
@@ -116,7 +116,7 @@ down her head so much, that his little sturdy hands were unfastened
 
 from around her neck, and he was resolutely borne away, before she knew
 
-that Captain Wentworth had done it.
+that [[Captain Wentworth]] had done it.
 
 
 
@@ -126,11 +126,11 @@ could not even thank him. She could only hang over little Charles, with
 
 most disordered feelings. His kindness in stepping forward to her
 
-relief, the manner, the silence in which it had passed, the little
+relief, the manner, the [[Silence|silence]] in which it had passed, the little
 
 particulars of the circumstance, with the conviction soon forced on her
 
-by the noise he was studiously making with the child, that he meant to
+by the noise he was studiously making with the [[Child|child]], that he meant to
 
 avoid hearing her thanks, and rather sought to testify that her
 
@@ -146,15 +146,15 @@ not stay. It might have been an opportunity of watching the loves and
 
 jealousies of the four—they were now altogether; but she could stay for
 
-none of it. It was evident that Charles Hayter was not well inclined
+none of it. It was evident that Charles Hayter was not [[Well|well]] inclined
 
-towards Captain Wentworth. She had a strong impression of his having
+towards [[Captain Wentworth]]. She had a strong impression of his having
 
-said, in a vext tone of voice, after Captain Wentworth’s interference,
+said, in a vext tone of voice, after [[Captain Wentworth]]’s interference,
 
 “You ought to have minded _me_, Walter; I told you not to teaze your
 
-aunt;” and could comprehend his regretting that Captain Wentworth
+aunt;” and could comprehend his regretting that [[Captain Wentworth]]
 
 should do what he ought to have done himself. But neither Charles
 
@@ -164,6 +164,6 @@ had a little better arranged her own. She was ashamed of herself, quite
 
 ashamed of being so nervous, so overcome by such a trifle; but so it
 
-was, and it required a long application of solitude and reflection to
+was, and it required a long application of [[Solitude|solitude]] and reflection to
 
 recover her.

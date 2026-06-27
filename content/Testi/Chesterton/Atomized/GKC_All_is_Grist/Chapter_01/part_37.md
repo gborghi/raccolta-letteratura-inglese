@@ -123,5 +123,5 @@ It would occupy too much space to expound it here, and I have often
 enough expounded it elsewhere.  But it might be indicated by saying
 that there is a truth behind the joke of the man who said:
 `Give us the luxuries of life and we will dispense with the necessities';
-and the truth can be more soberly stated by saying that, in one sense,
+and the [[Truth|truth]] can be more soberly stated by saying that, in one sense,
 human beings are not even completely human, until they are civilized.

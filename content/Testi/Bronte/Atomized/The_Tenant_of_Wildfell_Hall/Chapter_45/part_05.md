@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 45 (part 5)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 45 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-“He may as well see me as you,” said I; and, stepping past the
+“He may as [[Well|well]] see me as you,” said I; and, stepping past the
 
 astonished footman, I boldly rapped at the door, entered, and closed it
 
 behind me. The room was spacious and handsomely furnished—very
 
-comfortably, too, for a bachelor. A clear, red fire was burning in the
+comfortably, too, for a bachelor. A clear, red [[Fire|fire]] was burning in the
 
 polished grate: a superannuated greyhound, given up to idleness and
 
@@ -58,7 +58,7 @@ countenance.
 
 
 
-“Mr. Markham, I scarcely expected this!” he said; and the blood left
+“Mr. Markham, I scarcely expected this!” he said; and the [[Blood|blood]] left
 
 his cheek as he spoke.
 
@@ -70,7 +70,7 @@ you what I came for.” Unthinkingly, I advanced a step or two nearer. He
 
 winced at my approach, with an expression of aversion and instinctive
 
-physical fear anything but conciliatory to my feelings. I stepped back,
+physical [[Fear|fear]] anything but conciliatory to my feelings. I stepped back,
 
 however.
 
@@ -82,7 +82,7 @@ silver bell that stood on the table beside him, “or I shall be obliged
 
 to call for assistance. I am in no state to bear your brutalities now,
 
-or your presence either.” And in truth the moisture started from his
+or your presence either.” And in [[Truth|truth]] the moisture started from his
 
 pores and stood on his pale forehead like dew.
 
@@ -96,7 +96,7 @@ so I plunged into it at once, and floundered through it as I could.
 
 
 
-“The truth is, Lawrence,” said I, “I have not acted quite correctly
+“The [[Truth|truth]] is, Lawrence,” said I, “I have not acted quite correctly
 
 towards you of late—especially on this last occasion; and I’m come
 
@@ -124,7 +124,7 @@ it’s no matter whether he pardons it or not.”
 
 mistake,”—muttered I. “I should have made a very handsome apology, but
 
-you provoked me so confoundedly with your—. Well, I suppose it’s my
+you provoked me so confoundedly with your—. [[Well]], I suppose it’s my
 
 fault. The fact is, I didn’t know that you were Mrs. Graham’s brother,
 
@@ -160,7 +160,7 @@ seen the last of her!”
 
 “No; but she has bid adieu to me, and I have promised never to go near
 
-that house again while she inhabits it.” I could have groaned aloud at
+that [[house]] again while she inhabits it.” I could have groaned aloud at
 
 the bitter thoughts awakened by this turn in the discourse. But I only
 
@@ -194,13 +194,13 @@ than I do the result of my _brutality_, as you rightly term it.”
 
 “Never mind that,” said he, faintly smiling; “let us forget all
 
-unpleasant words on both sides, as well as deeds, and consign to
+unpleasant words on both sides, as [[Well|well]] as deeds, and consign to
 
 oblivion everything that we have cause to regret. Have you any
 
 objection to take my hand, or you’d rather not?” It trembled through
 
-weakness as he held it out, and dropped before I had time to catch it
+weakness as he held it out, and dropped before I had [[Time|time]] to catch it
 
 and give it a hearty squeeze, which he had not the strength to return.
 
@@ -226,13 +226,13 @@ sister?”
 
 
 
-“To confess the truth, I had not the courage to do so; but when you
+“To confess the [[Truth|truth]], I had not the [[Courage|courage]] to do so; but when you
 
 tell her, will you just say that I deeply regret it, and—?”
 
 
 
-“Oh, never fear! I shall say nothing against you, as long as you keep
+“Oh, never [[Fear|fear]]! I shall say nothing against you, as long as you keep
 
 your good resolution of remaining aloof from her. She has not heard of
 
@@ -244,13 +244,13 @@ my illness, then, that you are aware of?”
 
 
 
-“I’m glad of that, for I have been all this time tormenting myself with
+“I’m glad of that, for I have been all this [[Time|time]] tormenting myself with
 
-the fear that somebody would tell her I was dying, or desperately ill,
+the [[Fear|fear]] that somebody would tell her I was dying, or desperately ill,
 
 and she would be either distressing herself on account of her inability
 
-to hear from me or do me any good, or perhaps committing the madness of
+to hear from me or do me any good, or perhaps committing the [[Madness|madness]] of
 
 coming to see me. I must contrive to let her know something about it,
 
@@ -290,7 +290,7 @@ was little need to disguise his hand, for the poor fellow seemed to
 
 have considerable difficulty in writing at all, so as to be legible.
 
-When the note was done, I thought it time to retire, and took leave,
+When the note was done, I thought it [[Time|time]] to retire, and took leave,
 
 after asking if there was anything in the world I could do for him,
 
@@ -322,6 +322,6 @@ shall not be disputed again.”
 
 I engaged to do so, and departed with a cordial pressure of the hand. I
 
-posted the letter on my way home, most manfully resisting the
+posted the letter on my way [[Home|home]], most manfully resisting the
 
-temptation of dropping in a word from myself at the same time.
+[[Temptation|temptation]] of dropping in a word from myself at the same [[Time|time]].

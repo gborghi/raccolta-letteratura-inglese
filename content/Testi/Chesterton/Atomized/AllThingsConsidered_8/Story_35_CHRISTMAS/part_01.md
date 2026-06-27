@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered-8 — CHRISTMAS (part 1)"
+title: "[[AllThingsConsidered-8]] — CHRISTMAS (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
@@ -23,27 +23,27 @@ It is the very essence of a festival that it breaks upon one
 brilliantly and abruptly, that at one moment the great day is not
 and the next moment the great day is.  Up to a certain specific
 instant you are feeling ordinary and sad; for it is only Wednesday.
-At the next moment your heart leaps up and your soul and body dance
-together like lovers; for in one burst and blaze it has become Thursday.
+At the next moment your heart leaps up and your [[Soul|soul]] and [[Body|body]] [[Dance|dance]]
+together like [[lovers]]; for in one burst and blaze it has become [[thursday|Thursday]].
 I am assuming (of course) that you are a worshipper of Thor, and that
 you celebrate his day once a week, possibly with human sacrifice.
 If, on the other hand, you are a modern Christian Englishman, you hail
 (of course) with the same explosion of gaiety the appearance
-of the English Sunday.  But I say that whatever the day is that is
+of the English [[Sunday]].  But I say that whatever the day is that is
 to you festive or symbolic, it is essential that there should be
-a quite clear black line between it and the time going before.
+a quite clear black line between it and the [[Time|time]] going before.
 And all the old wholesome customs in connection with Christmas
 were to the effect that one should not touch or see or know
 or speak of something before the actual coming of Christmas Day.
 Thus, for instance, children were never given their presents
 until the actual coming of the appointed hour.  The presents
 were kept tied up in brown-paper parcels, out of which an arm
-of a doll or the leg of a donkey sometimes accidentally stuck.
+of a doll or the leg of a [[donkey]] sometimes accidentally stuck.
 I wish this principle were adopted in respect of modern Christmas
 ceremonies and publications.  Especially it ought to be observed
 in connection with what are called the Christmas numbers of magazines.
 The editors of the magazines bring out their Christmas numbers
-so long before the time that the reader is more likely to be still
+so long before the [[Time|time]] that the reader is more likely to be still
 lamenting for the turkey of last year than to have seriously settled
 down to a solid anticipation of the turkey which is to come.
 Christmas numbers of magazines ought to be tied up in brown paper
@@ -84,7 +84,7 @@ easily abolish as a superstition and carefully perpetuate it as a bore?
 There have been many instances of this half-witted compromise.
 Was it not true, for instance, that the other day some mad American
 was trying to buy Glastonbury Abbey and transfer it stone by stone
-to America?  Such things are not only illogical, but idiotic.
+to [[america|America]]?  Such things are not only illogical, but idiotic.
 There is no particular reason why a pushing American financier
 should pay respect to Glastonbury Abbey at all.  But if he is to pay
 respect to Glastonbury Abbey, he must pay respect to Glastonbury.
@@ -100,7 +100,7 @@ They were at least superior to the modern American mode of reasoning.
 They did not desecrate the stones because they held them sacred.
 
 Another instance of the same illogicality I observed the other day
-at some kind of "At Home."  I saw what appeared to be a human
+at some kind of "At [[Home]]."  I saw what appeared to be a human
 being dressed in a black evening-coat, black dress-waistcoat,
 and black dress-trousers, but with a shirt-front made of Jaeger wool.
 What can be the sense of this sort of thing?  If a man thinks
@@ -120,11 +120,11 @@ nowadays to have Ritual Commissions and Ritual Reports to make rather
 unmeaning compromises in the ceremonial of the Church of England.
 So perhaps we shall have an ecclesiastical compromise by which
 all the Bishops shall wear Jaeger copes and Jaeger mitres.
-Similarly the King might insist on having a Jaeger crown.
-But I do not think he will, for he understands the logic of the matter
+Similarly the [[King]] might insist on having a Jaeger [[Crown|crown]].
+But I do not think he will, for he understands the [[logic]] of the matter
 better than that.  The modern monarch, like a reasonable fellow,
-wears his crown as seldom as he can; but if he does it at all,
-then the only point of a crown is that it is a crown.
+wears his [[Crown|crown]] as seldom as he can; but if he does it at all,
+then the only point of a [[Crown|crown]] is that it is a [[Crown|crown]].
 So let me assure the unknown gentleman in the woollen vesture
 that the only point of a white shirt-front is that it is a white
 shirt-front. Stiffness may be its impossible defect; but it is

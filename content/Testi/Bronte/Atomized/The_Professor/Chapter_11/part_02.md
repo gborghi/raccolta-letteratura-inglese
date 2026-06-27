@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 10 (part 2)"
+title: "[[The Professor]] — Chapter 10 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -42,7 +42,7 @@ whisperers, and I did not scruple to take a very steady look at them as
 
 they emerged from their temporary eclipse. It is astonishing what ease
 
-and courage their little phrases of flippancy had given me; the idea by
+and [[Courage|courage]] their little phrases of flippancy had given me; the idea by
 
 which I had been awed was that the youthful beings before me, with their
 
@@ -58,7 +58,7 @@ The three I allude to were just in front, within half a yard of my
 
 estrade, and were among the most womanly-looking present. Their names
 
-I knew afterwards, and may as well mention now; they were Eulalie,
+I knew afterwards, and may as [[Well|well]] mention now; they were Eulalie,
 
 Hortense, Caroline. Eulalie was tall, and very finely shaped: she was
 
@@ -74,7 +74,7 @@ or flush the equality of her pale, clear skin; her noble bust heaved
 
 with her regular breathing, her eyes moved a little--by these evidences
 
-of life alone could I have distinguished her from some large handsome
+of life [[Alone|alone]] could I have distinguished her from some large handsome
 
 figure moulded in wax. Hortense was of middle size and stout, her
 
@@ -94,9 +94,9 @@ very dark eyes, absolutely regular features, with a colourless olive
 
 complexion, clear as to the face and sallow about the neck, formed in
 
-her that assemblage of points whose union many persons regard as the
+her that assemblage of points whose [[Union|union]] many persons regard as the
 
-perfection of beauty. How, with the tintless pallor of her skin and the
+perfection of [[Beauty|beauty]]. How, with the tintless pallor of her skin and the
 
 classic straightness of her lineaments, she managed to look sensual, I
 
@@ -104,7 +104,7 @@ don’t know. I think her lips and eyes contrived the affair between
 
 them, and the result left no uncertainty on the beholder’s mind. She was
 
-sensual now, and in ten years’ time she would be coarse--promise plain
+sensual now, and in ten years’ [[Time|time]] she would be coarse--promise plain
 
 was written in her face of much future folly.
 
@@ -116,9 +116,9 @@ with still less. Eulalie raised her unmoved eye to mine, and seemed to
 
 expect, passively but securely, an impromptu tribute to her majestic
 
-charms. Hortense regarded me boldly, and giggled at the same time, while
+charms. Hortense regarded me boldly, and giggled at the same [[Time|time]], while
 
-she said, with an air of impudent freedom--
+she said, with an air of impudent [[Freedom|freedom]]--
 
 
 
@@ -128,17 +128,17 @@ she said, with an air of impudent freedom--
 
 Caroline shook her loose ringlets of abundant but somewhat coarse hair
 
-over her rolling black eyes; parting her lips, as full as those of a
+over her [[rolling]] black eyes; parting her lips, as full as those of a
 
-hot-blooded Maroon, she showed her well-set teeth sparkling between
+hot-blooded Maroon, she showed her [[Well|well]]-set teeth sparkling between
 
-them, and treated me at the same time to a smile “de sa facon.”
+them, and treated me at the same [[Time|time]] to a smile “de sa facon.”
 
  Beautiful as Pauline Borghese, she looked at the moment scarcely purer
 
-than Lucrece de Borgia. Caroline was of noble family. I heard her
+than [[Lucrece]] de Borgia. Caroline was of noble family. I heard her
 
-lady-mother’s character afterwards, and then I ceased to wonder at the
+lady-mother’s character afterwards, and then I ceased to [[Wonder|wonder]] at the
 
 precocious accomplishments of the daughter. These three, I at once saw,
 
@@ -192,15 +192,15 @@ dit-on point et virgule en Anglais, monsieur?”
 
 Here a general murmur arose, and the teacher, opening her lips for the
 
-first time, ejaculated--
+first [[Time|time]], ejaculated--
 
 
 
-“Silence, mesdemoiselles!”
+“[[Silence]], mesdemoiselles!”
 
 
 
-No silence followed--on the contrary, the three ladies in front began to
+No [[Silence|silence]] followed--on the contrary, the three ladies in front began to
 
 talk more loudly.
 
@@ -226,7 +226,7 @@ class; it was necessary to take prompt measures.
 
 “Donnez-moi votre cahier,” said I to Eulalie in an abrupt tone; and
 
-bending over, I took it before she had time to give it.
+bending over, I took it before she had [[Time|time]] to give it.
 
 
 
@@ -236,9 +236,9 @@ addressing a little pale, plain looking girl who sat in the first row of
 
 the other division, and whom I had remarked as being at once the ugliest
 
-and the most attentive in the room; she rose up, walked over to me, and
+and the most attentive in the room; she [[Rose|rose]] up, walked over to me, and
 
-delivered her book with a grave, modest curtsey. I glanced over the
+delivered her book with a [[Grave|grave]], modest curtsey. I glanced over the
 
 two dictations; Eulalie’s was slurred, blotted, and full of silly
 

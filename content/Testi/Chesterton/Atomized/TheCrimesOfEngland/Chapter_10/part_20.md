@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 20)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 20)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -18,7 +18,7 @@ eloquence of Victor Hugo, that Napoleon III. was a mere ape of Napoleon
 
 I. That is, that he had, as the politician says, in "L'Aiglon," "le
 
-petit chapeau, mais pas la tête"; that he was merely a bad imitation.
+petit chapeau, mais pas la tête"; that he was merely a bad [[Imitation|imitation]].
 
 This is extravagantly exaggerative; and those who say it, moreover,
 
@@ -36,13 +36,13 @@ both succeeded at last, even after the failure. If at this moment we owe
 
 thanks to Napoleon Bonaparte for the armies of united France, we also
 
-owe some thanks to Louis Bonaparte for the armies of united Italy. That
+owe some thanks to Louis Bonaparte for the armies of united [[Italy]]. That
 
 great movement to a freer and more chivalrous Europe which we call
 
 to-day the Cause of the Allies, had its forerunners and first victories
 
-before our time; and it not only won at Arcola, but also at Solferino.
+before our [[Time|time]]; and it not only won at Arcola, but also at Solferino.
 
 Men who remembered Louis Napoleon when he mooned about the Blessington
 
@@ -52,7 +52,7 @@ he deceived Europe twice; once when he made men think him an imbecile,
 
 and once when he made them think him a statesman. But he deceived them a
 
-third time; when he made them think he was dead; and had done nothing.
+third [[Time|time]]; when he made them think he was dead; and had done nothing.
 
 
 
@@ -60,21 +60,21 @@ In spite of the unbridled verse of Hugo and the even more unbridled
 
 prose of Kinglake, Napoleon III. is really and solely discredited in
 
-history because of the catastrophe of 1870. Hugo hurled any amount of
+[[history]] because of the catastrophe of 1870. Hugo hurled any amount of
 
-lightning on Louis Napoleon; but he threw very little light on him. Some
+[[Lightning|lightning]] on Louis Napoleon; but he threw very little light on him. Some
 
 passages in the "Châtiments" are really caricatures carved in eternal
 
 marble. They will always be valuable in reminding generations too vague
 
-and soft, as were the Victorians, of the great truth that hatred is
+and soft, as were the Victorians, of the great [[Truth|truth]] that hatred is
 
-beautiful, when it is hatred of the ugliness of the soul. But most of
+beautiful, when it is hatred of the ugliness of the [[Soul|soul]]. But most of
 
-them could have been written about Haman, or Heliogabalus, or King John,
+them could have been written about Haman, or Heliogabalus, or [[King John]],
 
-or Queen Elizabeth, as much as about poor Louis Napoleon; they bear no
+or [[Queen Elizabeth]], as much as about poor Louis Napoleon; they bear no
 
 trace of any comprehension of his quite interesting aims, and his quite
 
@@ -86,7 +86,7 @@ revolutionary element in Cæsarism, it need hardly be said that a rather
 
 Primrose League Tory like Tennyson did not. Kinglake's curiously acrid
 
-insistence upon the _Coup d'état_ is, I fear, only an indulgence in one
+insistence upon the _Coup d'état_ is, I [[Fear|fear]], only an indulgence in one
 
 of the least pleasing pleasures of our national pen and press, and one
 
@@ -96,9 +96,9 @@ is an unfortunate habit of publicly repenting for other people's sins.
 
 If this came easy to an Englishman like Kinglake, it came, of course,
 
-still easier to a German like Queen Victoria's husband and even to
+still easier to a German like [[Queen]] Victoria's husband and even to
 
-Queen Victoria herself, who was naturally influenced by him. But in so
+[[Queen]] Victoria herself, who was naturally influenced by him. But in so
 
 far as the sensible masses of the English nation took any interest in
 
@@ -116,17 +116,17 @@ make an end of that ending: warring on until, if only by a purgatory of
 
 the nations and the mountainous annihilation of men, the story of the
 
-world ends well.
+world ends [[Well|well]].
 
 
 
-There are, as it were, valleys of history quite close to us, but hidden
+There are, as it were, valleys of [[history]] quite close to us, but hidden
 
 by the closer hills. One, as we have seen, is that fold in the soft
 
 Surrey hills where Cobbett sleeps with his still-born English
 
-Revolution. Another is under that height called The Spy of Italy, where
+Revolution. Another is under that height called The Spy of [[Italy]], where
 
 a new Napoleon brought back the golden eagles against the black eagles
 
@@ -136,19 +136,19 @@ insurrection was very important; we are only beginning to understand
 
 its importance. It was a defiance to the German Reaction and 1870 was a
 
-sort of revenge for it, just as the Balkan victory was a defiance to the
+sort of [[Revenge|revenge]] for it, just as the Balkan victory was a defiance to the
 
-German Reaction and 1914 was the attempted revenge for it. It is true
+German Reaction and 1914 was the attempted [[Revenge|revenge]] for it. It is true
 
-that the French liberation of Italy was incomplete, the problem of the
+that the French liberation of [[Italy]] was incomplete, the problem of the
 
 Papal States, for instance, being untouched by the Peace of Villafranca.
 
-The volcanic but fruitful spirit of Italy had already produced that
+The volcanic but fruitful spirit of [[Italy]] had already produced that
 
 wonderful, wandering, and almost omnipresent personality whose red shirt
 
-was to be a walking flag: Garibaldi. And many English Liberals
+was to be a walking [[Flag|flag]]: Garibaldi. And many English Liberals
 
 sympathised with him and his extremists as against the peace. Palmerston
 
@@ -162,25 +162,25 @@ understand. To quarrel with the Pope, but to compromise with him, was an
 
 instinct with the Bonapartes; an instinct no Anglo-Saxon could be
 
-expected to understand. They knew the truth; that Anti-Clericalism is
+expected to understand. They knew the [[Truth|truth]]; that Anti-Clericalism is
 
 not a Protestant movement, but a Catholic mood. And after all the
 
-English Liberals could not get their own Government to risk what the
+English Liberals could not get their own [[government|Government]] to risk what the
 
-French Government had risked; and Napoleon III. might well have retorted
+French [[government|Government]] had risked; and Napoleon III. might [[Well|well]] have retorted
 
 on Palmerston, his rival in international Liberalism, that half a war
 
 was better than no fighting. Swinburne called Villafranca "The Halt
 
-before Rome," and expressed a rhythmic impatience for the time when the
+before Rome," and expressed a rhythmic impatience for the [[Time|time]] when the
 
 world
 
 
 
-  "Shall ring to the roar of the lion
+  "Shall ring to the roar of the [[Lion|lion]]
 
   Proclaiming Republican Rome."
 
@@ -188,14 +188,14 @@ world
 
 But he might have remembered, after all, that it was not the British
 
-lion, that a British poet should have the right to say so imperiously,
+[[Lion|lion]], that a British poet should have the right to say so imperiously,
 
 "Let him roar again. Let him roar again."
 
 
 
-It is true that there was no clear call to England from Italy, as there
+It is true that there was no clear call to England from [[Italy]], as there
 
-certainly was from Denmark. The great powers were not bound to help
+certainly was from [[Denmark]]. The great powers were not bound to help
 
-Italy to become a nation, as they were bound to support the unquestioned
+[[Italy]] to become a nation, as they were bound to support the unquestioned

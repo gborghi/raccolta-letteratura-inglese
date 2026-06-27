@@ -20,21 +20,21 @@ his door, waiting to make his bed, and who gave him to understand while
 doing it, that she had received her instructions from Mr Chivery, ‘not
 the old ‘un but the young ‘un,’ he sat down in the faded arm-chair,
 pressing his head between his hands, as if he had been stunned. Little
-Dorrit love him! More bewildering to him than his misery, far.
+Dorrit [[Love|love]] him! More bewildering to him than his misery, far.
 
 Consider the improbability. He had been accustomed to call her his
-child, and his dear child, and to invite her confidence by dwelling upon
+[[Child|child]], and his dear [[Child|child]], and to invite her confidence by dwelling upon
 the difference in their respective ages, and to speak of himself as one
 who was turning old. Yet she might not have thought him old. Something
 reminded him that he had not thought himself so, until the roses had
-floated away upon the river.
+floated away upon the [[River|river]].
 
 He had her two letters among other papers in his box, and he took them
 out and read them. There seemed to be a sound in them like the sound
 of her sweet voice. It fell upon his ear with many tones of tenderness,
 that were not insusceptible of the new meaning. Now it was that the
-quiet desolation of her answer, ‘No, No, No,’ made to him that night
-in that very room--that night when he had been shown the dawn of her
+quiet desolation of her answer, ‘No, No, No,’ made to him that [[Night|night]]
+in that very room--that [[Night|night]] when he had been shown the [[Dawn|dawn]] of her
 altered fortune, and when other words had passed between them which he
 had been destined to remember in humiliation and a prisoner, rushed into
 his mind.
@@ -44,16 +44,16 @@ Consider the improbability.
 But it had a preponderating tendency, when considered, to become
 fainter. There was another and a curious inquiry of his own heart’s that
 concurrently became stronger. In the reluctance he had felt to believe
-that she loved any one; in his desire to set that question at rest; in
+that she loved any one; in his [[Desire|desire]] to set that question at rest; in
 a half-formed consciousness he had had that there would be a kind of
-nobleness in his helping her love for any one, was there no suppressed
+nobleness in his helping her [[Love|love]] for any one, was there no suppressed
 something on his own side that he had hushed as it arose? Had he ever
 whispered to himself that he must not think of such a thing as her
 loving him, that he must not take advantage of her gratitude, that he
 must keep his experience in remembrance as a warning and reproof;
 that he must regard such youthful hopes as having passed away, as his
 friend’s dead daughter had passed away; that he must be steady in saying
-to himself that the time had gone by him, and he was too saddened and
+to himself that the [[Time|time]] had gone by him, and he was too saddened and
 old?
 
 He had kissed her when he raised her from the ground on the day when she
@@ -64,16 +64,16 @@ The darkness found him occupied with these thoughts. The darkness also
 found Mr and Mrs Plornish knocking at his door. They brought with them a
 basket, filled with choice selections from that stock in trade which met
 with such a quick sale and produced such a slow return. Mrs Plornish was
-affected to tears. Mr Plornish amiably growled, in his philosophical but
+affected to [[Tears|tears]]. Mr Plornish amiably growled, in his philosophical but
 not lucid manner, that there was ups you see, and there was downs. It
 was in vain to ask why ups, why downs; there they was, you know. He had
-heerd it given for a truth that accordin’ as the world went round, which
+heerd it given for a [[Truth|truth]] that accordin’ as the world went round, which
 round it did rewolve undoubted, even the best of gentlemen must take his
 turn of standing with his ed upside down and all his air a flying
-the wrong way into what you might call Space. Wery well then. What
-Mr Plornish said was, wery well then. That gentleman’s ed would come
+the wrong way into what you might call Space. Wery [[Well|well]] then. What
+Mr Plornish said was, wery [[Well|well]] then. That gentleman’s ed would come
 up-ards when his turn come, that gentleman’s air would be a pleasure to
-look upon being all smooth again, and wery well then!
+look upon being all smooth again, and wery [[Well|well]] then!
 
 It has been already stated that Mrs Plornish, not being philosophical,
 wept. It further happened that Mrs Plornish, not being philosophical,
@@ -81,7 +81,7 @@ was intelligible. It may have arisen out of her softened state of mind,
 out of her sex’s wit, out of a woman’s quick association of ideas,
 or out of a woman’s no association of ideas, but it further happened
 somehow that Mrs Plornish’s intelligibility displayed itself upon the
-very subject of Arthur’s meditations.
+very subject of [[arthur|Arthur]]’s meditations.
 
 ‘The way father has been talking about you, Mr Clennam,’ said Mrs
 Plornish, ‘you hardly would believe. It’s made him quite poorly. As
@@ -110,7 +110,7 @@ Speaking in this room, it’s not hard to think what the present something
 is. It’s a thing to be thankful for, indeed, that Miss Dorrit is not
 here to know it.’
 
-Arthur thought she looked at him with particular expression.
+[[arthur|Arthur]] thought she looked at him with particular expression.
 
 ‘It’s a thing,’ reiterated Mrs Plornish, ‘to be thankful for, indeed,
 that Miss Dorrit is far away. It’s to be hoped she is not likely to hear

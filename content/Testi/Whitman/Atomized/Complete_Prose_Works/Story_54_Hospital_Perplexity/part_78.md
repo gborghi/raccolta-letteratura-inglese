@@ -17,25 +17,25 @@ tags:
 Compared with the past, our modern science soars, and our journals
 serve--but ideal and even ordinary romantic literature, does not,
 I think, substantially advance. Behold the prolific brood of the
-contemporary novel, magazine-tale, theatre-play, &c. The same endless
-thread of tangled and superlative love-story, inherited, apparently from
+contemporary [[Novel|novel]], magazine-tale, theatre-play, &c. The same endless
+thread of tangled and superlative [[Love|love]]-story, inherited, apparently from
 the Amadises and Palmerins of the 13th, 14th, and 15th centuries over
 there in Europe. The costumes and associations brought down to date, the
 seasoning hotter and more varied, the dragons and ogres left out--but
 the _thing_, I should say, has not advanced--is just as sensational,
 just as strain'd--remains about the same, nor more, nor less.
 
-What is the reason our time, our lands, that we see no fresh local
-courage, sanity, of our own--the Mississippi, stalwart Western men,
-real mental and physical facts, Southerners, &c., in the body of our
+What is the reason our [[Time|time]], our lands, that we see no fresh local
+[[Courage|courage]], [[Sanity|sanity]], of our own--the Mississippi, stalwart Western men,
+real mental and physical facts, Southerners, &c., in the [[Body|body]] of our
 literature? especially the poetic part of it. But always, instead, a
 parcel of dandies and ennuyees, dapper little gentlemen from abroad, who
-flood us with their thin sentiment of parlors, parasols, piano-songs,
+flood us with their thin sentiment of parlors, parasols, piano-[[songs]],
 tinkling rhymes, the five-hundredth importation--or whimpering and
 crying about something, chasing one aborted conceit after another,
 and forever occupied in dyspeptic amours with dyspeptic women. While,
-current and novel, the grandest events and revolutions and stormiest
-passions of history, are crossing to-day with unparallel'd rapidity and
+current and [[Novel|novel]], the grandest events and revolutions and stormiest
+passions of [[history]], are crossing to-day with unparallel'd rapidity and
 magnificence over the stages of our own and all the continents, offering
 new materials, opening new vistas, with largest needs, inviting the
 daring launching forth of conceptions in literature, inspired by them,
@@ -43,14 +43,14 @@ soaring in highest regions, serving art in its highest (which is only
 the other name for serving God, and serving humanity,) where is the man
 of letters, where is the book, with any nobler aim than to follow in the
 old track, repeat what has been said before--and, as its utmost triumph,
-sell well, and be erudite or elegant?
+sell [[Well|well]], and be erudite or elegant?
 
 Mark the roads, the processes, through which these States have arrived,
 standing easy, henceforth ever-equal, ever-compact in their range
 to-day. European adventures? the most antique? Asiatic or African? old
-history--miracles--romances? Rather our own unquestion'd facts. They
-hasten, incredible, blazing bright as fire. From the deeds and days of
-Columbus down to the present, and including the present--and especially
+[[history]]--miracles--romances? Rather our own unquestion'd facts. They
+hasten, incredible, blazing bright as [[Fire|fire]]. From the deeds and days of
+[[Columbus]] down to the present, and including the present--and especially
 the late secession war--when I con them, I feel, every leaf, like
 stopping to see if I have not made a mistake, and fall'n on the splendid
 figments of some dream. But it is no dream. We stand, live, move, in
@@ -89,23 +89,23 @@ books, newspapers, a currency for money circulation, &c. The
 Third stage, rising out of the previous ones, to make them and
 all illustrious, I, now, for one, promulge, announcing a native
 expression-spirit, getting into form, adult, and through mentality, for
-these States, self-contain'd, different from others, more expansive,
+these States, [[Self|self]]-contain'd, different from others, more expansive,
 more rich and free, to be evidenced by original authors and poets
 to come, by American personalities, plenty of them, male and female,
 traversing the States, none excepted--and by native superber
-tableaux and growths of language, songs, operas, orations, lectures,
-architecture--and by a sublime and serious Religious Democracy sternly
+tableaux and growths of language, [[songs]], operas, orations, lectures,
+architecture--and by a [[Sublime|sublime]] and serious Religious [[democracy|Democracy]] sternly
 taking command, dissolving the old, sloughing off surfaces, and from
 its own interior and vital principles, reconstructing, democratizing
 society.
 
-For America, type of progress, and of essential faith in man, above
+For [[america|America]], type of progress, and of essential [[Faith|faith]] in man, above
 all his errors and wickedness--few suspect how deep, how deep it really
 strikes. The world evidently supposes, and we have evidently supposed
 so too, that the States are merely to achieve the equal franchise, an
-elective government--to inaugurate the respectability of labor, and
-become a nation of practical operatives, law-abiding, orderly and well
-off. Yes, those are indeed parts of the task of America; but they
+elective [[government]]--to inaugurate the respectability of labor, and
+become a nation of practical operatives, law-abiding, orderly and [[Well|well]]
+off. Yes, those are indeed parts of the task of [[america|America]]; but they
 not only do not exhaust the progressive conception, but rather arise,
 teeming with it, as the mediums of deeper, higher progress. Daughter of
 a physical revolution--mother of the true revolutions, which are of

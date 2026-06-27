@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Absence of Mr Glass (part 1)"
+title: "[[wifrb11]] — The Absence of Mr Glass (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -19,7 +19,7 @@ tags:
 
 THE consulting-rooms of Dr Orion Hood, the eminent criminologist
 and specialist in certain moral disorders, lay along the sea-front
-at Scarborough, in a series of very large and well-lighted french windows,
+at Scarborough, in a series of very large and [[Well|well]]-lighted french windows,
 which showed the North Sea like one endless outer wall of blue-green marble. 
 In such a place the sea had something of the monotony of a blue-green dado: 
 for the chambers themselves were ruled throughout by a terrible tidiness
@@ -29,7 +29,7 @@ These things were there, in their place; but one felt that
 they were never allowed out of their place.  Luxury was there: 
 there stood upon a special table eight or ten boxes of the best cigars;
 but they were built upon a plan so that the strongest were always
-nearest the wall and the mildest nearest the window.  A tantalus
+nearest the wall and the mildest nearest the [[Window|window]].  A tantalus
 containing three kinds of spirit, all of a liqueur excellence,
 stood always on this table of luxury; but the fanciful have asserted
 that the whisky, brandy, and rum seemed always to stand at the same level. 
@@ -51,12 +51,12 @@ instruments of chemistry or mechanics.
      Dr Hood paced the length of his string of apartments, bounded--
 as the boys' geographies say--on the east by the North Sea and on the west
 by the serried ranks of his sociological and criminologist library. 
-He was clad in an artist's velvet, but with none of an artist's negligence;
+He was clad in an [[artist]]'s velvet, but with none of an [[artist]]'s negligence;
 his hair was heavily shot with grey, but growing thick and healthy;
 his face was lean, but sanguine and expectant.  Everything about him
 and his room indicated something at once rigid and restless,
 like that great northern sea by which (on pure principles of hygiene)
-he had built his home.
+he had built his [[Home|home]].
 
      Fate, being in a funny mood, pushed the door open and
 introduced into those long, strict, sea-flanked apartments
@@ -75,7 +75,7 @@ harmless sea-beast had crawled into his room.  The new-comer
 regarded the doctor with that beaming but breathless geniality
 which characterizes a corpulent charwoman who has just managed
 to stuff herself into an omnibus.  It is a rich confusion of
-social self-congratulation and bodily disarray.  His hat tumbled
+social [[Self|self]]-congratulation and bodily disarray.  His hat tumbled
 to the carpet, his heavy umbrella slipped between his knees with a thud;
 he reached after the one and ducked after the other, but with
 an unimpaired smile on his round face spoke simultaneously as follows:
@@ -84,11 +84,11 @@ an unimpaired smile on his round face spoke simultaneously as follows:
 that business of the MacNabs.  I have heard, you often help people
 out of such troubles.  Pray excuse me if I am wrong."
 
-     By this time he had sprawlingly recovered the hat, and made
+     By this [[Time|time]] he had sprawlingly recovered the hat, and made
 an odd little bobbing bow over it, as if setting everything quite right.
 
      "I hardly understand you," replied the scientist, with
-a cold intensity of manner.  "I fear you have mistaken the chambers. 
+a cold intensity of manner.  "I [[Fear|fear]] you have mistaken the chambers. 
 I am Dr Hood, and my work is almost entirely literary and educational. 
 It is true that I have sometimes been consulted by the police
 in cases of peculiar difficulty and importance, but--"
@@ -114,11 +114,11 @@ of the consulting physician.
 
      "Mr Brown," he said gravely, "it is quite fourteen and a half years
 since I was personally asked to test a personal problem: then it was
-the case of an attempt to poison the French President at
-a Lord Mayor's Banquet.  It is now, I understand, a question of whether
+the case of an attempt to [[Poison|poison]] the French President at
+a [[Lord Mayor]]'s Banquet.  It is now, I understand, a question of whether
 some friend of yours called Maggie is a suitable fiancee for some friend
-of hers called Todhunter.  Well, Mr Brown, I am a sportsman. 
+of hers called Todhunter.  [[Well]], Mr Brown, I am a sportsman. 
 I will take it on.  I will give the MacNab family my best advice,
-as good as I gave the French Republic and the King of England--no, better: 
+as good as I gave the French Republic and the [[King]] of England--no, better: 
 fourteen years better.  I have nothing else to do this afternoon. 
 Tell me your story."

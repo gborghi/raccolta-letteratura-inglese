@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 48 (part 3)"
+title: "[[Mansfield Park]] — Chapter 48 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -14,39 +14,39 @@ tags:
 </nav>
 
 
-Henry Crawford, ruined by early independence and bad domestic example,
-indulged in the freaks of a cold-blooded vanity a little too long. Once
+[[Henry Crawford]], ruined by early independence and bad domestic example,
+indulged in the freaks of a cold-blooded [[Vanity|vanity]] a little too long. Once
 it had, by an opening undesigned and unmerited, led him into the way of
 happiness. Could he have been satisfied with the conquest of one
 amiable woman’s affections, could he have found sufficient exultation
 in overcoming the reluctance, in working himself into the esteem and
-tenderness of Fanny Price, there would have been every probability of
-success and felicity for him. His affection had already done something.
+tenderness of [[Fanny Price]], there would have been every probability of
+[[success]] and felicity for him. His affection had already done something.
 Her influence over him had already given him some influence over her.
-Would he have deserved more, there can be no doubt that more would have
-been obtained, especially when that marriage had taken place, which
-would have given him the assistance of her conscience in subduing her
+Would he have deserved more, there can be no [[Doubt|doubt]] that more would have
+been obtained, especially when that [[Marriage|marriage]] had taken place, which
+would have given him the assistance of her [[Conscience|conscience]] in subduing her
 first inclination, and brought them very often together. Would he have
 persevered, and uprightly, Fanny must have been his reward, and a
 reward very voluntarily bestowed, within a reasonable period from
-Edmund’s marrying Mary.
+[[Edmund]]’s marrying Mary.
 
 Had he done as he intended, and as he knew he ought, by going down to
 Everingham after his return from Portsmouth, he might have been
 deciding his own happy destiny. But he was pressed to stay for Mrs.
 Fraser’s party; his staying was made of flattering consequence, and he
-was to meet Mrs. Rushworth there. Curiosity and vanity were both
-engaged, and the temptation of immediate pleasure was too strong for a
+was to meet Mrs. Rushworth there. Curiosity and [[Vanity|vanity]] were both
+engaged, and the [[Temptation|temptation]] of immediate pleasure was too strong for a
 mind unused to make any sacrifice to right: he resolved to defer his
-Norfolk journey, resolved that writing should answer the purpose of it,
+Norfolk [[Journey|journey]], resolved that writing should answer the purpose of it,
 or that its purpose was unimportant, and staid. He saw Mrs. Rushworth,
 was received by her with a coldness which ought to have been repulsive,
 and have established apparent indifference between them for ever; but
 he was mortified, he could not bear to be thrown off by the woman whose
 smiles had been so wholly at his command: he must exert himself to
 subdue so proud a display of resentment; it was anger on Fanny’s
-account; he must get the better of it, and make Mrs. Rushworth Maria
-Bertram again in her treatment of himself.
+account; he must get the better of it, and make Mrs. Rushworth [[Maria]]
+[[Bertram]] again in her treatment of himself.
 
 In this spirit he began the attack, and by animated perseverance had
 soon re-established the sort of familiar intercourse, of gallantry, of
@@ -54,8 +54,8 @@ flirtation, which bounded his views; but in triumphing over the
 discretion which, though beginning in anger, might have saved them
 both, he had put himself in the power of feelings on her side more
 strong than he had supposed. She loved him; there was no withdrawing
-attentions avowedly dear to her. He was entangled by his own vanity,
-with as little excuse of love as possible, and without the smallest
+attentions avowedly dear to her. He was entangled by his own [[Vanity|vanity]],
+with as little excuse of [[Love|love]] as possible, and without the smallest
 inconstancy of mind towards her cousin. To keep Fanny and the Bertrams
 from a knowledge of what was passing became his first object. Secrecy
 could not have been more desirable for Mrs. Rushworth’s credit than he
@@ -73,12 +73,12 @@ measure attend _his_ share of the offence is, we know, not one of the
 barriers which society gives to virtue. In this world the penalty is
 less equal than could be wished; but without presuming to look forward
 to a juster appointment hereafter, we may fairly consider a man of
-sense, like Henry Crawford, to be providing for himself no small
+sense, like [[Henry Crawford]], to be providing for himself no small
 portion of vexation and regret: vexation that must rise sometimes to
-self-reproach, and regret to wretchedness, in having so requited
+[[Self|self]]-reproach, and regret to wretchedness, in having so requited
 hospitality, so injured family peace, so forfeited his best, most
 estimable, and endeared acquaintance, and so lost the woman whom he had
-rationally as well as passionately loved.
+rationally as [[Well|well]] as passionately loved.
 
 After what had passed to wound and alienate the two families, the
 continuance of the Bertrams and Grants in such close neighbourhood
@@ -87,36 +87,36 @@ some months purposely lengthened, ended very fortunately in the
 necessity, or at least the practicability, of a permanent removal. Dr.
 Grant, through an interest on which he had almost ceased to form hopes,
 succeeded to a stall in Westminster, which, as affording an occasion
-for leaving Mansfield, an excuse for residence in London, and an
+for leaving Mansfield, an excuse for residence in [[London]], and an
 increase of income to answer the expenses of the change, was highly
 acceptable to those who went and those who staid.
 
-Mrs. Grant, with a temper to love and be loved, must have gone with
+Mrs. Grant, with a temper to [[Love|love]] and be loved, must have gone with
 some regret from the scenes and people she had been used to; but the
 same happiness of disposition must in any place, and any society,
-secure her a great deal to enjoy, and she had again a home to offer
-Mary; and Mary had had enough of her own friends, enough of vanity,
-ambition, love, and disappointment in the course of the last half-year,
+secure her a great deal to enjoy, and she had again a [[Home|home]] to offer
+Mary; and Mary had had enough of her own friends, enough of [[Vanity|vanity]],
+[[Ambition|ambition]], [[Love|love]], and disappointment in the course of the last half-year,
 to be in need of the true kindness of her sister’s heart, and the
 rational tranquillity of her ways. They lived together; and when Dr.
-Grant had brought on apoplexy and death, by three great institutionary
+Grant had brought on apoplexy and [[Death|death]], by three great institutionary
 dinners in one week, they still lived together; for Mary, though
 perfectly resolved against ever attaching herself to a younger brother
 again, was long in finding among the dashing representatives, or idle
-heir-apparents, who were at the command of her beauty, and her £20,000,
+heir-apparents, who were at the command of her [[Beauty|beauty]], and her £20,000,
 any one who could satisfy the better taste she had acquired at
-Mansfield, whose character and manners could authorise a hope of the
-domestic happiness she had there learned to estimate, or put Edmund
-Bertram sufficiently out of her head.
+Mansfield, whose character and manners could authorise a [[Hope|hope]] of the
+domestic happiness she had there learned to estimate, or put [[Edmund]]
+[[Bertram]] sufficiently out of her head.
 
-Edmund had greatly the advantage of her in this respect. He had not to
+[[Edmund]] had greatly the advantage of her in this respect. He had not to
 wait and wish with vacant affections for an object worthy to succeed
-her in them. Scarcely had he done regretting Mary Crawford, and
+her in them. Scarcely had he done regretting [[Mary Crawford]], and
 observing to Fanny how impossible it was that he should ever meet with
 such another woman, before it began to strike him whether a very
-different kind of woman might not do just as well, or a great deal
+different kind of woman might not do just as [[Well|well]], or a great deal
 better: whether Fanny herself were not growing as dear, as important to
-him in all her smiles and all her ways, as Mary Crawford had ever been;
+him in all her smiles and all her ways, as [[Mary Crawford]] had ever been;
 and whether it might not be a possible, a hopeful undertaking to
 persuade her that her warm and sisterly regard for him would be
-foundation enough for wedded love.
+foundation enough for wedded [[Love|love]].

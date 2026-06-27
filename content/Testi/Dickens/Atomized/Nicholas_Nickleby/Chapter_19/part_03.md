@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 19 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 19 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -26,9 +26,9 @@ her uncle might consider the payment of the hackney-coach fare a sort
 of bargain for her punctuality, she suffered him to draw her arm through
 his, and to lead her away.
 
-Seven or eight gentlemen were standing round the fire when they went in,
+Seven or eight gentlemen were standing round the [[Fire|fire]] when they went in,
 and, as they were talking very loud, were not aware of their entrance
-until Mr. Ralph Nickleby, touching one on the coat-sleeve, said in a
+until Mr. [[Ralph Nickleby]], touching one on the coat-sleeve, said in a
 harsh emphatic voice, as if to attract general attention--
 
 ‘Lord Frederick Verisopht, my niece, Miss Nickleby.’
@@ -52,7 +52,7 @@ something redder in the face, and something longer upon town, and said
 in a loud whisper that the girl was ‘deyvlish pitty.’
 
 ‘Introduce me, Nickleby,’ said this second gentleman, who was lounging
-with his back to the fire, and both elbows on the chimneypiece.
+with his back to the [[Fire|fire]], and both elbows on the chimneypiece.
 
 ‘Sir Mulberry Hawk,’ said Ralph.
 
@@ -75,16 +75,16 @@ somebody, who appeared to be a make-weight, and was not introduced at
 all.
 
 There were two circumstances which, in this early stage of the party,
-struck home to Kate’s bosom, and brought the blood tingling to her face.
+struck [[Home|home]] to Kate’s bosom, and brought the [[Blood|blood]] tingling to her face.
 One was the flippant contempt with which the guests evidently regarded
 her uncle, and the other, the easy insolence of their manner towards
 herself. That the first symptom was very likely to lead to the
 aggravation of the second, it needed no great penetration to foresee.
-And here Mr. Ralph Nickleby had reckoned without his host; for however
-fresh from the country a young lady (by nature) may be, and however
+And here Mr. [[Ralph Nickleby]] had reckoned without his host; for however
+fresh from the country a young lady (by [[Nature|nature]]) may be, and however
 unacquainted with conventional behaviour, the chances are, that she will
 have quite as strong an innate sense of the decencies and proprieties of
-life as if she had run the gauntlet of a dozen London seasons--possibly
+life as if she had run the gauntlet of a dozen [[London]] [[Seasons|seasons]]--possibly
 a stronger one, for such senses have been known to blunt in this
 improving process.
 
@@ -112,11 +112,11 @@ Pyke and Pluck laughed consumedly.
 
 These gentlemen had not yet quite recovered the jest, when dinner was
 announced, and then they were thrown into fresh ecstasies by a similar
-cause; for Sir Mulberry Hawk, in an excess of humour, shot dexterously
+cause; for Sir Mulberry Hawk, in an excess of [[Humour|humour]], shot dexterously
 past Lord Frederick Verisopht who was about to lead Kate downstairs, and
 drew her arm through his up to the elbow.
 
-‘No, damn it, Verisopht,’ said Sir Mulberry, ‘fair play’s a jewel, and
+‘No, damn it, Verisopht,’ said Sir Mulberry, ‘fair play’s a [[Jewel|jewel]], and
 Miss Nickleby and I settled the matter with our eyes ten minutes ago.’
 
 ‘Ha, ha, ha!’ laughed the honourable Mr. Snobb, ‘very good, very good.’
@@ -135,13 +135,13 @@ Mulberry as his lordship sat down.
 ‘Of course,’ replied Lord Frederick, fixing his eyes on Miss Nickleby,
 ‘how can you a-ask me?’
 
-‘Well, you attend to your dinner,’ said Sir Mulberry, ‘and don’t mind
+‘[[Well]], you attend to your dinner,’ said Sir Mulberry, ‘and don’t mind
 Miss Nickleby and me, for we shall prove very indifferent company, I
 dare say.’
 
 ‘I wish you’d interfere here, Nickleby,’ said Lord Frederick.
 
-‘What is the matter, my lord?’ demanded Ralph from the bottom of the
+‘What is the matter, my lord?’ demanded Ralph from the [[Bottom|bottom]] of the
 table, where he was supported by Messrs Pyke and Pluck.
 
 ‘This fellow, Hawk, is monopolising your niece,’ said Lord Frederick.

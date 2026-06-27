@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 10)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 10)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -24,7 +24,7 @@ England. It was the theatre in which were enacted innumerable picaresque
 
 comedies and romantic plays, with figures ranging from Sancho Panza to
 
-Sam Weller. It served as the apparatus, like some gigantic toy set up in
+[[Sam Weller]]. It served as the apparatus, like some gigantic toy set up in
 
 bricks and timber, for the ancient and perhaps eternal game of tennis.
 
@@ -34,13 +34,13 @@ and the players scored accordingly as they hit the buttery-hatch or the
 
 roof. Singular speculations hover in my mind as the scene darkens and
 
-the quadrangle below begins to empty in the last hours of night. Some
+the quadrangle below begins to empty in the last hours of [[Night|night]]. Some
 
-day perhaps this huge structure will be found standing in a solitude
+day perhaps this huge structure will be found standing in a [[Solitude|solitude]]
 
-like a skeleton; and it will be the skeleton of the Spotted Dog or the
+like a [[skeleton]]; and it will be the [[skeleton]] of the Spotted Dog or the
 
-Blue Boar. It will wither and decay until it is worthy at last to be a
+Blue Boar. It will wither and [[Decay|decay]] until it is worthy at last to be a
 
 tavern. I do not know whether men will play tennis on its ground floor,
 
@@ -52,7 +52,7 @@ part of some such rustic game. Perhaps the electric fan will no longer
 
 be electric and the elevator will no longer elevate, and the waiter will
 
-only wait to be hit. But at least it is only by the decay of modern
+only wait to be hit. But at least it is only by the [[Decay|decay]] of modern
 
 plutocracy, which seems already to have begun, that the secret of the
 
@@ -78,9 +78,9 @@ _A Meditation in Broadway_
 
 
 
-When I had looked at the lights of Broadway by night, I made to my
+When I had looked at the lights of Broadway by [[Night|night]], I made to my
 
-American friends an innocent remark that seemed for some reason to amuse
+American friends an [[Innocent|innocent]] remark that seemed for some reason to amuse
 
 them. I had looked, not without joy, at that long kaleidoscope of
 
@@ -88,9 +88,9 @@ coloured lights arranged in large letters and sprawling trade-marks,
 
 advertising everything, from pork to pianos, through the agency of the
 
-two most vivid and most mystical of the gifts of God; colour and fire. I
+two most vivid and most mystical of the gifts of God; colour and [[Fire|fire]]. I
 
-said to them, in my simplicity, 'What a glorious garden of wonders this
+said to them, in my simplicity, 'What a glorious [[Garden|garden]] of wonders this
 
 would be, to any one who was lucky enough to be unable to read.'
 
@@ -112,19 +112,19 @@ practical use to mankind, such as ploughing, cutting wood, or growing
 
 vegetables, would very probably be excluded; and it is not for us to
 
-criticise from the outside the philosophy of those who would keep out
+criticise from the outside the [[philosophy]] of those who would keep out
 
 the farmer and let in the forger. But let us suppose, if only for the
 
 sake of argument, that the peasant is walking under the artificial suns
 
-and stars of this tremendous thoroughfare; that he has escaped to the
+and [[Stars|stars]] of this tremendous thoroughfare; that he has escaped to the
 
-land of liberty upon some general rumour and romance of the story of
+land of liberty upon some general rumour and [[Romance|romance]] of the story of
 
 its liberation, but without being yet able to understand the arbitrary
 
-signs of its alphabet. The soul of such a man would surely soar higher
+signs of its alphabet. The [[Soul|soul]] of such a man would surely soar higher
 
 than the sky-scrapers, and embrace a brotherhood broader than Broadway.
 
@@ -140,7 +140,7 @@ comet. He would be shrewd enough to guess that the three festoons
 
 fringed with fiery words of somewhat similar pattern stood for
 
-'Government of the People, For the People, By the People'; for it must
+'[[government|Government]] of the People, For the People, By the People'; for it must
 
 obviously be that, unless it were 'Liberty, Equality, Fraternity.' His
 
@@ -148,9 +148,9 @@ shrewdness would perhaps be a little shaken if he knew that the triad
 
 stood for 'Tang Tonic To-day; Tang Tonic To-morrow; Tang Tonic All the
 
-Time.' He will soon identify a restless ribbon of red lettering, red hot
+[[Time]].' He will soon identify a restless ribbon of red lettering, red hot
 
-and rebellious, as the saying, 'Give me liberty or give me death.' He
+and rebellious, as the saying, 'Give me liberty or give me [[Death|death]].' He
 
 will fail to identify it as the equally famous saying, 'Skyoline Has
 
@@ -158,9 +158,9 @@ Gout Beaten to a Frazzle.' Therefore it was that I desired the peasant
 
 to walk down that grove of fiery trees, under all that golden foliage,
 
-and fruits like monstrous jewels, as innocent as Adam before the Fall.
+and fruits like monstrous jewels, as [[Innocent|innocent]] as Adam before the Fall.
 
-He would see sights almost as fine as the flaming sword or the purple
+He would see sights almost as fine as the flaming [[Sword|sword]] or the purple
 
 and peacock plumage of the seraphim; so long as he did not go near the
 
@@ -170,34 +170,34 @@ Tree of Knowledge.
 
 In other words, if once he went to school it would be all up; and indeed
 
-I fear in any case he would soon discover his error. If he stood wildly
+I [[Fear|fear]] in any case he would soon discover his error. If he stood wildly
 
-waving his hat for liberty in the middle of the road as Chunk Chutney
+waving his hat for liberty in the middle of the [[Road|road]] as Chunk Chutney
 
-picked itself out in ruby stars upon the sky, he would impede the
+picked itself out in ruby [[Stars|stars]] upon the sky, he would impede the
 
-excellent but extremely rigid traffic system of New York. If he fell on
+excellent but extremely rigid traffic system of [[New York]]. If he fell on
 
-his knees before a sapphire splendour, and began saying an Ave Maria
+his knees before a sapphire splendour, and began saying an Ave [[Maria]]
 
 under a mistaken association, he would be conducted kindly but firmly by
 
 an Irish policeman to a more authentic shrine. But though the foreign
 
-simplicity might not long survive in New York, it is quite a mistake to
+simplicity might not long survive in [[New York]], it is quite a mistake to
 
-suppose that such foreign simplicity cannot enter New York. He may be
+suppose that such foreign simplicity cannot enter [[New York]]. He may be
 
 excluded for being illiterate, but he cannot be excluded for being
 
-ignorant, nor for being innocent. Least of all can he be excluded for
+ignorant, nor for being [[Innocent|innocent]]. Least of all can he be excluded for
 
-being wiser in his innocence than the world in its knowledge. There is
+being wiser in his [[innocence]] than the world in its knowledge. There is
 
-here indeed more than one distinction to be made. New York is a
+here indeed more than one distinction to be made. [[New York]] is a
 
-cosmopolitan city; but it is not a city of cosmopolitans. Most of the
+cosmopolitan [[City|city]]; but it is not a [[City|city]] of cosmopolitans. Most of the
 
-masses in New York have a nation, whether or no it be the nation to
+masses in [[New York]] have a nation, whether or no it be the nation to
 
-which New York belongs. Those who are Americanised are American, and
+which [[New York]] belongs. Those who are Americanised are American, and

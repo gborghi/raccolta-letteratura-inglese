@@ -18,10 +18,10 @@ CHAPTER 25. The Chief Butler Resigns the Seals of Office
 
 
 The dinner-party was at the great Physician’s. Bar was there, and in
-full force. Ferdinand Barnacle was there, and in his most engaging
+full force. [[Ferdinand]] Barnacle was there, and in his most engaging
 state. Few ways of life were hidden from Physician, and he was oftener
 in its darkest places than even Bishop. There were brilliant ladies
-about London who perfectly doted on him, my dear, as the most charming
+about [[London]] who perfectly doted on him, my dear, as the most charming
 creature and the most delightful person, who would have been shocked to
 find themselves so close to him if they could have known on what sights
 those thoughtful eyes of his had rested within an hour or two, and near
@@ -50,7 +50,7 @@ themselves, whether they were conscious of it or no, ‘Here is a man who
 really has an acquaintance with us as we are, who is admitted to some
 of us every day with our wigs and paint off, who hears the wanderings of
 our minds, and sees the undisguised expression of our faces, when both
-are past our control; we may as well make an approach to reality with
+are past our control; we may as [[Well|well]] make an approach to reality with
 him, for the man has got the better of us and is too strong for us.’
 Therefore, Physician’s guests came out so surprisingly at his round
 table that they were almost natural.
@@ -64,18 +64,18 @@ a better insight into their tendernesses and affections, in one week of
 his rounds, than Westminster Hall and all the circuits put together,
 in threescore years and ten. Bar always had a suspicion of this, and
 perhaps was glad to encourage it (for, if the world were really a great
-Law Court, one would think that the last day of Term could not too soon
+Law [[Court]], one would think that the last day of Term could not too soon
 arrive); and so he liked and respected Physician quite as much as any
 other kind of man did.
 
-Mr Merdle’s default left a Banquo’s chair at the table; but, if he had
-been there, he would have merely made the difference of Banquo in it,
+[[Mr Merdle]]’s default left a [[Banquo]]’s chair at the table; but, if he had
+been there, he would have merely made the difference of [[Banquo]] in it,
 and consequently he was no loss. Bar, who picked up all sorts of odds
 and ends about Westminster Hall, much as a raven would have done if he
-had passed as much of his time there, had been picking up a great many
-straws lately and tossing them about, to try which way the Merdle wind
+had passed as much of his [[Time|time]] there, had been picking up a great many
+straws lately and tossing them about, to try which way the Merdle [[Wind|wind]]
 blew. He now had a little talk on the subject with Mrs Merdle herself;
-sidling up to that lady, of course, with his double eye-glass and his
+sidling up to that lady, of course, with his [[Double|double]] eye-glass and his
 jury droop.
 
 ‘A certain bird,’ said Bar; and he looked as if it could have been no
@@ -106,7 +106,7 @@ bad a one; but you would be such a good one!’
 
 ‘Why, you ridiculous man?’ asked Mrs Merdle, laughing.
 
-Bar waved his double eye-glass three or four times between himself and
+Bar waved his [[Double|double]] eye-glass three or four times between himself and
 the Bosom, as a rallying answer, and inquired in his most insinuating
 accents:
 
@@ -114,7 +114,7 @@ accents:
 a few weeks, or it may be a few days, hence?’
 
 ‘Didn’t your bird tell you what to call her?’ answered Mrs Merdle. ‘Do
-ask it to-morrow, and tell me the next time you see me what it says.’
+ask it to-morrow, and tell me the next [[Time|time]] you see me what it says.’
 
 This led to further passages of similar pleasantry between the two; but
 Bar, with all his sharpness, got nothing out of them. Physician, on the
@@ -129,13 +129,13 @@ half disposed to ask you.’
 
 ‘To ask me! Why me?’
 
-‘Upon my honour, I think Mr Merdle reposes greater confidence in you
+‘Upon my [[Honour|honour]], I think [[Mr Merdle]] reposes greater confidence in you
 than in any one.’
 
 ‘On the contrary, he tells me absolutely nothing, even professionally.
 You have heard the talk, of course?’
 
-‘Of course I have. But you know what Mr Merdle is; you know how
+‘Of course I have. But you know what [[Mr Merdle]] is; you know how
 taciturn and reserved he is. I assure you I have no idea what foundation
 for it there may be. I should like it to be true; why should I deny that
 to you? You would know better, if I did!’

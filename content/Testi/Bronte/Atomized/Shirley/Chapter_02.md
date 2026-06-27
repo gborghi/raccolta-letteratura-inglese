@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 2"
+title: "[[Shirley]] — Chapter 2"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,17 +24,17 @@ THE WAGONS.
 
 
 
-The evening was pitch dark: star and moon were quenched in gray
+The evening was pitch dark: star and [[Moon|moon]] were quenched in gray
 
-rain-clouds--gray they would have been by day; by night they looked
+rain-clouds--gray they would have been by day; by [[Night|night]] they looked
 
-sable. Malone was not a man given to close observation of nature; her
+sable. Malone was not a man given to close observation of [[Nature|nature]]; her
 
 changes passed, for the most part, unnoticed by him. He could walk miles
 
 on the most varying April day and never see the beautiful dallying of
 
-earth and heaven--never mark when a sunbeam kissed the hill-tops, making
+earth and heaven--never mark when a sunbeam kissed the [[Hill|hill]]-tops, making
 
 them smile clear in green light, or when a shower wept over them, hiding
 
@@ -46,7 +46,7 @@ muffled, streaming vault, all black, save where, towards the east, the
 
 furnaces of Stilbro' ironworks threw a tremulous lurid shimmer on the
 
-horizon--with the same sky on an unclouded frosty night. He did not
+horizon--with the same sky on an unclouded frosty [[Night|night]]. He did not
 
 trouble himself to ask where the constellations and the planets were
 
@@ -60,7 +60,7 @@ way, leaning a little forward as he walked, and wearing his hat on the
 
 back of his head, as his Irish manner was. "Tramp, tramp," he went along
 
-the causeway, where the road boasted the privilege of such an
+the causeway, where the [[Road|road]] boasted the privilege of such an
 
 accommodation; "splash, splash," through the mire-filled cart ruts,
 
@@ -68,13 +68,13 @@ where the flags were exchanged for soft mud. He looked but for certain
 
 landmarks--the spire of Briarfield Church; farther on, the lights of
 
-Redhouse. This was an inn; and when he reached it, the glow of a fire
+Redhouse. This was an inn; and when he reached it, the glow of a [[Fire|fire]]
 
-through a half-curtained window, a vision of glasses on a round table,
+through a half-curtained [[Window|window]], a vision of glasses on a round table,
 
 and of revellers on an oaken settle, had nearly drawn aside the curate
 
-from his course. He thought longingly of a tumbler of whisky-and-water.
+from his course. He thought longingly of a tumbler of whisky-and-[[Water|water]].
 
 In a strange place he would instantly have realized the dream; but the
 
@@ -98,11 +98,11 @@ see a high gable, then a long front, then a low gable, then a thick,
 
 lofty stack of chimneys. There were some trees behind it. It was dark;
 
-not a candle shone from any window. It was absolutely still; the rain
+not a candle shone from any [[Window|window]]. It was absolutely still; the rain
 
 running from the eaves, and the rather wild but very low whistle of the
 
-wind round the chimneys and through the boughs were the sole sounds in
+[[Wind|wind]] round the chimneys and through the boughs were the sole sounds in
 
 its neighbourhood.
 
@@ -112,13 +112,13 @@ This building passed, the fields, hitherto flat, declined in a rapid
 
 descent. Evidently a vale lay below, through which you could hear the
 
-water run. One light glimmered in the depth. For that beacon Malone
+[[Water|water]] run. One light glimmered in the depth. For that beacon Malone
 
 steered.
 
 
 
-He came to a little white house--you could see it was white even through
+He came to a little white [[house]]--you could see it was white even through
 
 this dense darkness--and knocked at the door. A fresh-faced servant
 
@@ -132,7 +132,7 @@ walls and white floor, made the little interior look clean and fresh.
 
 
 
-"Mr. Moore is at home, I suppose?"
+"Mr. Moore is at [[Home|home]], I suppose?"
 
 
 
@@ -144,7 +144,7 @@ walls and white floor, made the little interior look clean and fresh.
 
 
 
-"At the mill--in the counting-house."
+"At the mill--in the counting-[[house]]."
 
 
 
@@ -154,7 +154,7 @@ Here one of the crimson doors opened.
 
 "Are the wagons come, Sarah?" asked a female voice, and a female head at
 
-the same time was apparent. It might not be the head of a
+the same [[Time|time]] was apparent. It might not be the head of a
 
 goddess--indeed a screw of curl-paper on each side the temples quite
 
@@ -202,7 +202,7 @@ politely but a little formally,--
 
 should have thought it necessary to trouble you so far. There was no
 
-necessity--I told him so--and on such a night; but walk forwards."
+necessity--I told him so--and on such a [[Night|night]]; but walk forwards."
 
 
 
@@ -212,15 +212,15 @@ the speaker into a light and bright room within--very light and bright
 
 indeed it seemed to eyes which, for the last hour, had been striving to
 
-penetrate the double darkness of night and fog; but except for its
+penetrate the [[Double|double]] darkness of [[Night|night]] and fog; but except for its
 
-excellent fire, and for a lamp of elegant design and vivid lustre
+excellent [[Fire|fire]], and for a lamp of elegant design and vivid lustre
 
 burning on a table, it was a very plain place. The boarded floor was
 
 carpetless; the three or four stiff-backed, green-painted chairs seemed
 
-once to have furnished the kitchen of some farm-house; a desk of strong,
+once to have furnished the kitchen of some farm-[[house]]; a desk of strong,
 
 solid formation, the table aforesaid, and some framed sheets on the
 
@@ -248,11 +248,11 @@ yourself."
 
 "Yes, but my sister would be glad to see you, if you would prefer
 
-stepping into the house."
+stepping into the [[house]]."
 
 
 
-"Oh no! The ladies are best alone, I never was a lady's man. You don't
+"Oh no! The ladies are best [[Alone|alone]], I never was a lady's man. You don't
 
 mistake me for my friend Sweeting, do you, Mr. Moore?"
 
@@ -266,17 +266,17 @@ overcoat, or the little gentleman?"
 
 "The little one--he of Nunnely; the cavalier of the Misses Sykes, with
 
-the whole six of whom he is in love, ha! ha!"
+the whole six of whom he is in [[Love|love]], ha! ha!"
 
 
 
-"Better be generally in love with all than specially with one, I should
+"Better be generally in [[Love|love]] with all than specially with one, I should
 
 think, in that quarter."
 
 
 
-"But he is specially in love with one besides, for when I and Donne
+"But he is specially in [[Love|love]] with one besides, for when I and Donne
 
 urged him to make a choice amongst the fair bevy, he named--which do you
 
@@ -330,13 +330,13 @@ eyeglass. That's what he has."
 
 
 
-"Ha! ha! Excellent! I'll ask him that next time I see him. I'll roast
+"Ha! ha! Excellent! I'll ask him that next [[Time|time]] I see him. I'll roast
 
-him for his presumption. But no doubt he expects old Christopher Sykes
+him for his presumption. But no [[Doubt|doubt]] he expects old Christopher Sykes
 
 would do something handsome. He is rich, is he not? They live in a large
 
-house."
+[[house]]."
 
 
 
@@ -354,7 +354,7 @@ would be about as likely to think of drawing money from the business to
 
 give dowries to his daughters as I should be to dream of pulling down
 
-the cottage there, and constructing on its ruins a house as large as
+the cottage there, and constructing on its ruins a [[house]] as large as
 
 Fieldhead."
 
@@ -372,7 +372,7 @@ Briarfield gossips are capable of saying that or sillier things."
 
 "That you were going to take Fieldhead on a lease (I thought it looked a
 
-dismal place, by-the-bye, to-night, as I passed it), and that it was
+dismal place, by-the-bye, to-[[Night|night]], as I passed it), and that it was
 
 your intention to settle a Miss Sykes there as mistress--to be married,
 
@@ -382,7 +382,7 @@ the handsomest."
 
 
 
-"I wonder how often it has been settled that I was to be married since I
+"I [[Wonder|wonder]] how often it has been settled that I was to be married since I
 
 came to Briarfield. They have assigned me every marriageable single
 
@@ -398,7 +398,7 @@ visit nowhere; I seek female society about as assiduously as you do, Mr.
 
 Malone. If ever I go to Whinbury, it is only to give Sykes or Pearson a
 
-call in their counting-house, where our discussions run on other topics
+call in their counting-[[house]], where our discussions run on other topics
 
 than matrimony, and our thoughts are occupied with other things than
 
@@ -408,15 +408,15 @@ we can't employ, the mills we can't run, the perverse course of events
 
 generally, which we cannot alter, fill our hearts, I take it, pretty
 
-well at present, to the tolerably complete exclusion of such figments as
+[[Well|well]] at present, to the tolerably complete exclusion of such figments as
 
-love-making, etc."
+[[Love|love]]-making, etc."
 
 
 
 "I go along with you completely, Moore. If there is one notion I hate
 
-more than another, it is that of marriage--I mean marriage in the vulgar
+more than another, it is that of [[Marriage|marriage]]--I mean [[Marriage|marriage]] in the vulgar
 
 weak sense, as a mere matter of sentiment--two beggarly fools agreeing
 
@@ -430,9 +430,9 @@ dignity of views and permanency of solid interests, is not so bad--eh?"
 
 "No," responded Moore, in an absent manner. The subject seemed to have
 
-no interest for him; he did not pursue it. After sitting for some time
+no interest for him; he did not pursue it. After sitting for some [[Time|time]]
 
-gazing at the fire with a preoccupied air, he suddenly turned his head.
+gazing at the [[Fire|fire]] with a preoccupied air, he suddenly turned his head.
 
 
 
@@ -440,9 +440,9 @@ gazing at the fire with a preoccupied air, he suddenly turned his head.
 
 
 
-Rising, he went to the window, opened it, and listened. He soon closed
+Rising, he went to the [[Window|window]], opened it, and listened. He soon closed
 
-it. "It is only the sound of the wind rising," he remarked, "and the
+it. "It is only the sound of the [[Wind|wind]] rising," he remarked, "and the
 
 rivulet a little swollen, rushing down the hollow. I expected those
 
@@ -462,15 +462,15 @@ it will."
 
 the walls of this mill. Once put up, I defy the frame-breakers. Let them
 
-only pay me a visit and take the consequences. My mill is my castle."
+only pay me a visit and take the consequences. My mill is my [[Castle|castle]]."
 
 
 
 "One despises such low scoundrels," observed Malone, in a profound vein
 
-of reflection. "I almost wish a party would call upon you to-night; but
+of reflection. "I almost wish a party would call upon you to-[[Night|night]]; but
 
-the road seemed extremely quiet as I came along. I saw nothing astir."
+the [[Road|road]] seemed extremely quiet as I came along. I saw nothing astir."
 
 
 
@@ -482,7 +482,7 @@ the road seemed extremely quiet as I came along. I saw nothing astir."
 
 
 
-"There would be nothing on that road. It is in the direction of Stilbro'
+"There would be nothing on that [[Road|road]]. It is in the direction of Stilbro'
 
 the risk lies."
 
@@ -496,7 +496,7 @@ the risk lies."
 
 this difference: most of the manufacturers seem paralyzed when they are
 
-attacked. Sykes, for instance, when his dressing-shop was set on fire
+attacked. Sykes, for instance, when his dressing-shop was set on [[Fire|fire]]
 
 and burned to the ground, when the cloth was torn from his tenters and
 
@@ -534,7 +534,7 @@ myself baffled at every turn by their untoward effects."
 
 warehouse yonder, and observe how it is piled to the roof with pieces.
 
-Roakes and Pearson are in the same condition. America used to be their
+Roakes and Pearson are in the same condition. [[America]] used to be their
 
 market, but the Orders in Council have cut that off."
 
@@ -562,7 +562,7 @@ bridal tour, and then to run through a round of visits, and then, I
 
 suppose, to be 'having a family.' Oh, que le diable emporte!" He broke
 
-off the aspiration into which he was launching with a certain energy,
+off the [[Aspiration|aspiration]] into which he was launching with a certain energy,
 
 and added, more calmly, "I believe women talk and think only of these
 
@@ -574,7 +574,7 @@ things, and they naturally fancy men's minds similarly occupied."
 
 whistled, looked impatiently round, and seemed to feel a great want of
 
-something. This time Moore caught and, it appeared, comprehended his
+something. This [[Time|time]] Moore caught and, it appeared, comprehended his
 
 demonstrations.
 
@@ -588,7 +588,7 @@ walk. I forget hospitality."
 
 "Not at all," rejoined Malone; but he looked as if the right nail was at
 
-last hit on the head, nevertheless. Moore rose and opened a cupboard.
+last hit on the head, nevertheless. Moore [[Rose|rose]] and opened a cupboard.
 
 
 
@@ -598,9 +598,9 @@ not to be dependent on the feminity in the cottage yonder for every
 
 mouthful I eat or every drop I drink. I often spend the evening and sup
 
-here alone, and sleep with Joe Scott in the mill. Sometimes I am my own
+here [[Alone|alone]], and [[Sleep|sleep]] with Joe Scott in the mill. Sometimes I am my own
 
-watchman. I require little sleep, and it pleases me on a fine night to
+watchman. I require little [[Sleep|sleep]], and it pleases me on a fine [[Night|night]] to
 
 wander for an hour or two with my musket about the hollow. Mr. Malone,
 
@@ -618,7 +618,7 @@ You know the secret of keeping the juices in?"
 
 
 
-"Never fear me; you shall see. Hand a knife and fork, please."
+"Never [[Fear|fear]] me; you shall see. Hand a knife and fork, please."
 
 
 
@@ -628,9 +628,9 @@ with vigour. The manufacturer placed on the table plates, a loaf of
 
 bread, a black bottle, and two tumblers. He then produced a small copper
 
-kettle--still from the same well-stored recess, his cupboard--filled it
+kettle--still from the same [[Well|well]]-stored recess, his cupboard--filled it
 
-with water from a large stone jar in a corner, set it on the fire beside
+with [[Water|water]] from a large stone jar in a corner, set it on the [[Fire|fire]] beside
 
 the hissing gridiron, got lemons, sugar, and a small china punch-bowl;
 
@@ -646,7 +646,7 @@ but while he was brewing the punch a tap at the door called him away.
 
 
 
-"No; I shall not be in to-night; I shall sleep in the mill. So lock the
+"No; I shall not be in to-[[Night|night]]; I shall [[Sleep|sleep]] in the mill. So lock the
 
 doors, and tell your mistress to go to bed."
 
@@ -662,7 +662,7 @@ as, with his fine face ruddy as the embers over which he bent, he
 
 assiduously turned the mutton chops. "You are not under petticoat
 
-government, like poor Sweeting, a man--whew! how the fat spits! it has
+[[government]], like poor Sweeting, a man--whew! how the fat spits! it has
 
 burnt my hand--destined to be ruled by women. Now you and I,
 
@@ -684,7 +684,7 @@ tractable, why not?"
 
 "There is a glassful. Taste it. When Joe Scott and his minions return
 
-they shall have a share of this, provided they bring home the frames
+they shall have a share of this, provided they bring [[Home|home]] the frames
 
 intact."
 
@@ -696,9 +696,9 @@ made bad jokes and applauded them himself, and, in short, grew
 
 unmeaningly noisy. His host, on the contrary, remained quiet as before.
 
-It is time, reader, that you should have some idea of the appearance of
+It is [[Time|time]], reader, that you should have some idea of the appearance of
 
-this same host. I must endeavour to sketch him as he sits at table.
+this same host. I must endeavour to [[Sketch|sketch]] him as he sits at table.
 
 
 
@@ -708,7 +708,7 @@ strange-looking man; for he is thin, dark, sallow, very foreign of
 
 aspect, with shadowy hair carelessly streaking his forehead. It appears
 
-that he spends but little time at his toilet, or he would arrange it
+that he spends but little [[Time|time]] at his toilet, or he would arrange it
 
 with more taste. He seems unconscious that his features are fine, that
 
@@ -716,11 +716,11 @@ they have a southern symmetry, clearness, regularity in their
 
 chiselling; nor does a spectator become aware of this advantage till he
 
-has examined him well, for an anxious countenance and a hollow, somewhat
+has examined him [[Well|well]], for an anxious countenance and a hollow, somewhat
 
-haggard, outline of face disturb the idea of beauty with one of care.
+haggard, outline of face disturb the idea of [[Beauty|beauty]] with one of care.
 
-His eyes are large, and grave, and gray; their expression is intent and
+His eyes are large, and [[Grave|grave]], and gray; their expression is intent and
 
 meditative, rather searching than soft, rather thoughtful than genial.
 
@@ -730,9 +730,9 @@ that it is frank or cheerful even then, but you feel the influence of a
 
 certain sedate charm, suggestive, whether truly or delusively, of a
 
-considerate, perhaps a kind nature, of feelings that may wear well at
+considerate, perhaps a kind [[Nature|nature]], of feelings that may wear [[Well|well]] at
 
-home--patient, forbearing, possibly faithful feelings. He is still
+[[Home|home]]--patient, forbearing, possibly faithful feelings. He is still
 
 young--not more than thirty; his stature is tall, his figure slender.
 
@@ -748,7 +748,7 @@ Mr. Moore, indeed, was but half a Briton, and scarcely that. He came of
 
 a foreign ancestry by the mother's side, and was himself born and partly
 
-reared on a foreign soil. A hybrid in nature, it is probable he had a
+reared on a foreign soil. A hybrid in [[Nature|nature]], it is probable he had a
 
 hybrid's feeling on many points--patriotism for one; it is likely that
 
@@ -774,15 +774,15 @@ but the uncertainties, the involvements, of business had come upon them;
 
 disastrous speculations had loosened by degrees the foundations of their
 
-credit. The house had stood on a tottering base for a dozen years; and
+credit. The [[house]] had stood on a tottering base for a dozen years; and
 
-at last, in the shock of the French Revolution, it had rushed down a
+at last, in the shock of the [[French Revolution]], it had rushed down a
 
 total ruin. In its fall was involved the English and Yorkshire firm of
 
-Moore, closely connected with the Antwerp house, and of which one of the
+Moore, closely connected with the Antwerp [[house]], and of which one of the
 
-partners, resident in Antwerp, Robert Moore, had married Hortense
+partners, resident in Antwerp, [[Robert Moore]], had married Hortense
 
 Gérard, with the prospect of his bride inheriting her father Constantine
 
@@ -794,15 +794,15 @@ set aside by a composition with creditors, some said her son Robert
 
 accepted, in his turn, as a legacy, and that he aspired one day to
 
-discharge them, and to rebuild the fallen house of Gérard and Moore on a
+discharge them, and to rebuild the fallen [[house]] of Gérard and Moore on a
 
-scale at least equal to its former greatness. It was even supposed that
+scale at least equal to its former [[Greatness|greatness]]. It was even supposed that
 
-he took by-past circumstances much to heart; and if a childhood passed
+he took by-past circumstances much to heart; and if a [[Childhood|childhood]] passed
 
 at the side of a saturnine mother, under foreboding of coming evil, and
 
-a manhood drenched and blighted by the pitiless descent of the storm,
+a manhood drenched and blighted by the pitiless descent of the [[Storm|storm]],
 
 could painfully impress the mind, _his_ probably was impressed in no
 
@@ -818,7 +818,7 @@ content with the day of small things. When he came to Yorkshire,
 
 he--whose ancestors had owned warehouses in this seaport, and factories
 
-in that inland town, had possessed their town-house and their
+in that inland town, had possessed their town-[[house]] and their
 
 country-seat--saw no way open to him but to rent a cloth-mill in an
 
@@ -826,7 +826,7 @@ out-of-the-way nook of an out-of-the-way district; to take a cottage
 
 adjoining it for his residence, and to add to his possessions, as
 
-pasture for his horse, and space for his cloth-tenters, a few acres of
+pasture for his [[Horse|horse]], and space for his cloth-tenters, a few acres of
 
 the steep, rugged land that lined the hollow through which his
 
@@ -838,7 +838,7 @@ Fieldhead estate, then the property of a minor.
 
 
 
-At the time this history commences, Robert Moore had lived but two years
+At the [[Time|time]] this [[history]] commences, [[Robert Moore]] had lived but two years
 
 in the district, during which period he had at least proved himself
 
@@ -846,7 +846,7 @@ possessed of the quality of activity. The dingy cottage was converted
 
 into a neat, tasteful residence. Of part of the rough land he had made
 
-garden-ground, which he cultivated with singular, even with Flemish,
+[[Garden|garden]]-ground, which he cultivated with singular, even with Flemish,
 
 exactness and care. As to the mill, which was an old structure, and
 
@@ -856,15 +856,15 @@ had from the first evinced the strongest contempt for all its
 
 arrangements and appointments. His aim had been to effect a radical
 
-reform, which he had executed as fast as his very limited capital would
+[[Reform|reform]], which he had executed as fast as his very limited capital would
 
 allow; and the narrowness of that capital, and consequent check on his
 
 progress, was a restraint which galled his spirit sorely. Moore ever
 
-wanted to push on. "Forward" was the device stamped upon his soul; but
+wanted to push on. "Forward" was the device stamped upon his [[Soul|soul]]; but
 
-poverty curbed him. Sometimes (figuratively) he foamed at the mouth when
+[[Poverty|poverty]] curbed him. Sometimes (figuratively) he foamed at the mouth when
 
 the reins were drawn very tight.
 
@@ -874,7 +874,7 @@ In this state of feeling, it is not to be expected that he would
 
 deliberate much as to whether his advance was or was not prejudicial to
 
-others. Not being a native, nor for any length of time a resident of the
+others. Not being a native, nor for any length of [[Time|time]] a resident of the
 
 neighbourhood, he did not sufficiently care when the new inventions
 
@@ -888,15 +888,15 @@ starving poor of Yorkshire seemed to have a closer claim.
 
 
 
-The period of which I write was an overshadowed one in British history,
+The period of which I write was an overshadowed one in British [[history]],
 
-and especially in the history of the northern provinces. War was then
+and especially in the [[history]] of the northern provinces. War was then
 
 at its height. Europe was all involved therein. England, if not weary,
 
 was worn with long resistance--yes, and half her people were weary too,
 
-and cried out for peace on any terms. National honour was become a mere
+and cried out for peace on any terms. National [[Honour|honour]] was become a mere
 
 empty name, of no value in the eyes of many, because their sight was dim
 
@@ -910,7 +910,7 @@ The "Orders in Council," provoked by Napoleon's Milan and Berlin
 
 decrees, and forbidding neutral powers to trade with France, had, by
 
-offending America, cut off the principal market of the Yorkshire woollen
+offending [[America]], cut off the principal market of the Yorkshire woollen
 
 trade, and brought it consequently to the verge of ruin. Minor foreign
 
@@ -926,7 +926,7 @@ necessary to be employed, threw thousands out of work, and left them
 
 without legitimate means of sustaining life. A bad harvest supervened.
 
-Distress reached its climax. Endurance, overgoaded, stretched the hand
+Distress reached its climax. [[Endurance]], overgoaded, stretched the hand
 
 of fraternity to sedition. The throes of a sort of moral earthquake were
 
@@ -936,7 +936,7 @@ in such cases, nobody took much notice. When a food-riot broke out in a
 
 manufacturing town, when a gig-mill was burnt to the ground, or a
 
-manufacturer's house was attacked, the furniture thrown into the
+manufacturer's [[house]] was attacked, the furniture thrown into the
 
 streets, and the family forced to flee for their lives, some local
 
@@ -974,7 +974,7 @@ buildings. In the parish of Briarfield, with which we have at present to
 
 do, Hollow's Mill was the place held most abominable; Gérard Moore, in
 
-his double character of semi-foreigner and thorough-going progressist,
+his [[Double|double]] character of semi-foreigner and thorough-going progressist,
 
 the man most abominated. And it perhaps rather agreed with Moore's
 
@@ -982,15 +982,15 @@ temperament than otherwise to be generally hated, especially when he
 
 believed the thing for which he was hated a right and an expedient
 
-thing; and it was with a sense of warlike excitement he, on this night,
+thing; and it was with a sense of warlike excitement he, on this [[Night|night]],
 
-sat in his counting-house waiting the arrival of his frame-laden wagons.
+sat in his counting-[[house]] waiting the arrival of his frame-laden wagons.
 
 Malone's coming and company were, it may be, most unwelcome to him. He
 
-would have preferred sitting alone; for he liked a silent, sombre,
+would have preferred sitting [[Alone|alone]]; for he liked a silent, sombre,
 
-unsafe solitude. His watchman's musket would have been company enough
+unsafe [[Solitude|solitude]]. His watchman's musket would have been company enough
 
 for him; the full-flowing beck in the den would have delivered
 
@@ -1014,27 +1014,27 @@ came between it and Malone. Moore raised his hand.
 
 "Chut!" he said in his French fashion, as Malone made a noise with his
 
-glass. He listened a moment, then rose, put his hat on, and went out at
+glass. He listened a moment, then [[Rose|rose]], put his hat on, and went out at
 
-the counting-house door.
+the counting-[[house]] door.
 
 
 
-The night was still, dark, and stagnant: the water yet rushed on full
+The [[Night|night]] was still, dark, and stagnant: the [[Water|water]] yet rushed on full
 
-and fast; its flow almost seemed a flood in the utter silence. Moore's
+and fast; its flow almost seemed a flood in the utter [[Silence|silence]]. Moore's
 
 ear, however, caught another sound, very distant but yet dissimilar,
 
 broken and rugged--in short, a sound of heavy wheels crunching a stony
 
-road. He returned to the counting-house and lit a lantern, with which he
+[[Road|road]]. He returned to the counting-[[house]] and lit a lantern, with which he
 
 walked down the mill-yard, and proceeded to open the gates. The big
 
 wagons were coming on; the dray-horses' huge hoofs were heard splashing
 
-in the mud and water. Moore hailed them.
+in the mud and [[Water|water]]. Moore hailed them.
 
 
 
@@ -1054,7 +1054,7 @@ leader's nose almost touched his.
 
 
 
-Some one jumped out from the foremost wagon into the road; a voice cried
+Some one jumped out from the foremost wagon into the [[Road|road]]; a voice cried
 
 aloud, "Ay, ay, divil; all's raight! We've smashed 'em."
 
@@ -1074,7 +1074,7 @@ was neither man nor machinery; they were empty and abandoned.
 
 Now Mr. Moore loved his machinery. He had risked the last of his capital
 
-on the purchase of these frames and shears which to-night had been
+on the purchase of these frames and shears which to-[[Night|night]] had been
 
 expected. Speculations most important to his interests depended on the
 
@@ -1130,7 +1130,7 @@ men are lying bound hand and foot in a ditch by the roadside. Take this
 
 as a warning from men that are starving, and have starving wives and
 
-children to go home to when they have done this deed. If you get new
+children to go [[Home|home]] to when they have done this deed. If you get new
 
 machines, or if you otherwise go on as you have done, you shall hear
 
@@ -1164,7 +1164,7 @@ and help me to light up the front."
 
 Returning to his horses, he unharnessed, fed, and stabled them with
 
-equal speed and care, pausing occasionally, while so occupied, as if to
+equal [[Speed|speed]] and care, pausing occasionally, while so occupied, as if to
 
 listen for the mill-bell. It clanged out presently, with irregular but
 
@@ -1172,13 +1172,13 @@ loud and alarming din. The hurried, agitated peal seemed more urgent
 
 than if the summons had been steadily given by a practised hand. On that
 
-still night, at that unusual hour, it was heard a long way round. The
+still [[Night|night]], at that unusual hour, it was heard a long way round. The
 
 guests in the kitchen of the Redhouse were startled by the clamour, and
 
 declaring that "there must be summat more nor common to do at Hollow's
 
-Miln," they called for lanterns, and hurried to the spot in a body. And
+Miln," they called for lanterns, and hurried to the spot in a [[Body|body]]. And
 
 scarcely had they thronged into the yard with their gleaming lights,
 
@@ -1196,13 +1196,13 @@ hackney, and with the aid of Sarah, the servant, lit up his mill, whose
 
 wide and long front now glared one great illumination, throwing a
 
-sufficient light on the yard to obviate all fear of confusion arising
+sufficient light on the yard to obviate all [[Fear|fear]] of confusion arising
 
 from obscurity. Already a deep hum of voices became audible. Mr. Malone
 
-had at length issued from the counting-house, previously taking the
+had at length issued from the counting-[[house]], previously taking the
 
-precaution to dip his head and face in the stone water-jug; and this
+precaution to dip his head and face in the stone [[Water|water]]-jug; and this
 
 precaution, together with the sudden alarm, had nearly restored to him
 
@@ -1218,13 +1218,13 @@ immediately confronted by the shovel hat and the shaggy pony.
 
 
 
-"Well, Moore, what is your business with us? I thought you would want us
+"[[Well]], Moore, what is your business with us? I thought you would want us
 
-to-night--me and the hetman here (patting his pony's neck), and Tom and
+to-[[Night|night]]--me and the hetman here (patting his pony's neck), and Tom and
 
 his charger. When I heard your mill-bell I could sit still no longer, so
 
-I left Boultby to finish his supper alone. But where is the enemy? I do
+I left Boultby to finish his supper [[Alone|alone]]. But where is the enemy? I do
 
 not see a mask or a smutted face present; and there is not a pane of
 
@@ -1248,7 +1248,7 @@ over to Stilbro' Moor."
 
 
 
-"The wagons are come home an hour ago."
+"The wagons are come [[Home|home]] an hour ago."
 
 
 
@@ -1256,7 +1256,7 @@ over to Stilbro' Moor."
 
 
 
-"They came home empty; and Joe Scott and company are left on the moor,
+"They came [[Home|home]] empty; and Joe Scott and company are left on the moor,
 
 and so are the frames. Read that scrawl."
 
@@ -1272,7 +1272,7 @@ have before been given.
 
 poor fellows in the ditch will be expecting help with some impatience.
 
-This is a wet night for such a berth. I and Tom will go with you. Malone
+This is a wet [[Night|night]] for such a berth. I and Tom will go with you. Malone
 
 may stay behind and take care of the mill. What is the matter with him?
 
@@ -1286,7 +1286,7 @@ His eyes seem starting out of his head."
 
 "Indeed!--Peter Augustus, be on your guard. Eat no more mutton chops
 
-to-night. You are left here in command of these premises--an honourable
+to-[[Night|night]]. You are left here in command of these premises--an honourable
 
 post!"
 
@@ -1300,7 +1300,7 @@ post!"
 
 will remain here, and how many will go a little way with me and Mr.
 
-Moore on the Stilbro' road, to meet some men who have been waylaid and
+Moore on the Stilbro' [[Road|road]], to meet some men who have been waylaid and
 
 assaulted by frame-breakers?"
 
@@ -1308,7 +1308,7 @@ assaulted by frame-breakers?"
 
 The small number of three volunteered to go; the rest preferred staying
 
-behind. As Mr. Moore mounted his horse, the rector asked him in a low
+behind. As Mr. Moore mounted his [[Horse|horse]], the rector asked him in a low
 
 voice whether he had locked up the mutton chops, so that Peter Augustus
 

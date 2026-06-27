@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 19 (part 6)"
+title: "[[Shirley]] — Chapter 19 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-"He is coming here towards us, Shirley!"
+"He is coming here towards us, [[Shirley]]!"
 
 
 
@@ -24,7 +24,7 @@ and his forehead, which has got a scratch, I perceive."
 
 
 
-"He bleeds, Shirley. Don't hold me. I must go."
+"He bleeds, [[Shirley]]. Don't hold me. I must go."
 
 
 
@@ -32,7 +32,7 @@ and his forehead, which has got a scratch, I perceive."
 
 
 
-"He is hurt, Shirley!"
+"He is hurt, [[Shirley]]!"
 
 
 
@@ -76,11 +76,11 @@ Robert."
 
 
 
-"You think he would not like it, Shirley?"
+"You think he would not like it, [[Shirley]]?"
 
 
 
-"Far less than he would like our stopping him to say good-night, which
+"Far less than he would like our stopping him to say good-[[Night|night]], which
 
 you were so sore about."
 
@@ -100,7 +100,7 @@ you were so sore about."
 
 "I quite understand. But now, watch him. He has bathed his forehead, and
 
-the blood has ceased trickling. His hurt is really a mere graze; I can
+the [[Blood|blood]] has ceased trickling. His hurt is really a mere graze; I can
 
 see it from hence. He is going to look after the wounded men."
 
@@ -112,7 +112,7 @@ each prostrate form. They then gave directions to have the wounded taken
 
 up and carried into the mill. This duty being performed, Joe Scott was
 
-ordered to saddle his master's horse and Mr. Helstone's pony, and the
+ordered to saddle his master's [[Horse|horse]] and Mr. Helstone's pony, and the
 
 two gentlemen rode away full gallop, to seek surgical aid in different
 
@@ -124,9 +124,9 @@ Caroline was not yet pacified.
 
 
 
-"Shirley, Shirley, I should have liked to speak one word to him before
+"[[Shirley]], [[Shirley]], I should have liked to speak one word to him before
 
-he went," she murmured, while the tears gathered glittering in her eyes.
+he went," she murmured, while the [[Tears|tears]] gathered glittering in her eyes.
 
 
 
@@ -136,19 +136,19 @@ to be glad instead of sorry. Robert has escaped any serious harm; he is
 
 victorious; he has been cool and brave in combat; he is now considerate
 
-in triumph. Is this a time--are these causes for weeping?"
+in triumph. Is this a [[Time|time]]--are these causes for weeping?"
 
 
 
 "You do not know what I have in my heart," pleaded the other--"what
 
-pain, what distraction--nor whence it arises. I can understand that you
+[[Pain|pain]], what distraction--nor whence it arises. I can understand that you
 
-should exult in Robert's greatness and goodness; so do I, in one sense,
+should exult in Robert's [[Greatness|greatness]] and goodness; so do I, in one sense,
 
 but in another I feel _so_ miserable. I am too far removed from him. I
 
-used to be nearer. Let me alone, Shirley. Do let me cry a few minutes;
+used to be nearer. Let me [[Alone|alone]], [[Shirley]]. Do let me cry a few minutes;
 
 it relieves me."
 
@@ -160,9 +160,9 @@ with her. She went out of the shed, and left her to weep in peace. It
 
 was the best plan. In a few minutes Caroline rejoined her, much calmer.
 
-She said, with her natural, docile, gentle manner, "Come, Shirley, we
+She said, with her natural, docile, gentle manner, "Come, [[Shirley]], we
 
-will go home now. I promise not to try to see Robert again till he asks
+will go [[Home|home]] now. I promise not to try to see Robert again till he asks
 
 for me. I never will try to push myself on him. I thank you for
 
@@ -180,7 +180,7 @@ morning breeze, and walk very quietly back to the rectory. We will steal
 
 in as we stole out. None shall know where we have been or what we have
 
-seen to-night; neither taunt nor misconstruction can consequently molest
+seen to-[[Night|night]]; neither taunt nor misconstruction can consequently molest
 
 us. To-morrow we will see Robert, and be of good cheer; but I will say
 

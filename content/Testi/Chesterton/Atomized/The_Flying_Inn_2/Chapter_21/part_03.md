@@ -25,7 +25,7 @@ Lady Joan, who was looking with tedium at a rich
 pattern of purple and green in which Misysra attempted
 to interest her (imploring her to disregard the mere
 title, which idolatrously stated it as "First Communion
-in the Snow"), abruptly turned her full face to
+in the [[Snow]]"), abruptly turned her full face to
 Dorian.  It was a face to which few men could feel
 indifferent, especially when thus suddenly shown them.
 
@@ -34,9 +34,9 @@ mean he would resent the limits of metre and rhyme
 and so on?"
 
 The poet reflected for a moment and then said,
-"Well, partly; but I mean more than that too.  As one
+"[[Well]], partly; but I mean more than that too.  As one
 can be candid in the family, I may say that what everyone
-says about him is that he has no humour.  But
+says about him is that he has no [[Humour|humour]].  But
 that's not my complaint at all.  I think my complaint
 is that he has no pathos.  That is, he does not feel
 human limitations.  That is, he will not write poetry."
@@ -58,15 +58,15 @@ he dropped it again and confronted Joan with a face
 paler than usual.
 
 "Joan," he said, "I would walk where no man has
-walked; and find something beyond tears and laughter.
-My road shall be my road indeed; for I will make it,
+walked; and find something beyond [[Tears|tears]] and laughter.
+My [[Road|road]] shall be my [[Road|road]] indeed; for I will make it,
 like the Romans.  And my adventures shall not be in
 the hedges and the gutters, but in the borders of the
 ever advancing brain.  I will think what was unthinkable
-until I thought it; I will love what never lived
+until I thought it; I will [[Love|love]] what never lived
 until I loved it--I will be as lonely as the First Man."
 
-"They say," she said, after a silence, "that the first
+"They say," she said, after a [[Silence|silence]], "that the first
 man fell."
 
 "You mean the priests?" he answered.  "Yes, but
@@ -81,7 +81,7 @@ pictures, yourself?"
 "I see the breaking of the barriers," he answered,
 "beyond that I see nothing."
 
-She looked at the floor for a little time and traced
+She looked at the floor for a little [[Time|time]] and traced
 patterns with her parasol, like one who has really
 received food for thought.  Then she said, suddenly,
 
@@ -153,7 +153,7 @@ know if it was raining, say?"
 countryside," inquired Dorian, scientifically, "a woman
 --let us say an old woman."
 
-"Aye," said the man, with good humour.
+"Aye," said the man, with good [[Humour|humour]].
 
 "What on earth are you doing with the creature?"
 whispered Enid, feverishly.
@@ -167,7 +167,7 @@ my asking; you see we are responsible while we keep
 the place going."
 
 There soared up into the sky like a cloud of rooks
-the eager vanity of the North.
+the eager [[Vanity|vanity]] of the North.
 
 "We collier lads are none so badly educated, lad,"
 he said.  "In the town a' was born in there was a
@@ -181,11 +181,11 @@ woman and the other rain in the hills.  It's a mere
 formality.  You shall have your drink when you've
 said which is which."
 
-The northerner bowed his huge body before the two
+The northerner bowed his huge [[Body|body]] before the two
 frames and peered into them patiently.  The long stillness
 that followed seemed to be something of a strain
-on Joan, who rose in a restless manner, first went to
-look out of a window and then went out of the front
+on Joan, who [[Rose|rose]] in a restless manner, first went to
+look out of a [[Window|window]] and then went out of the front
 door.
 
 At length the art-critic lifted a large, puzzled but
@@ -204,12 +204,12 @@ payment by the rapid method of running out of the
 gallery on to the steps outside.
 
 Joan was already standing there.  Out the little side
-window she had seen the incredible thing she
+[[Window|window]] she had seen the incredible thing she
 expected to see; which explained the ludicrous scene
-inside.  She saw the red and blue wooden flag of Mr.
+inside.  She saw the red and blue wooden [[Flag|flag]] of Mr.
 Pump standing up in the flower-beds in the sun, as
 serenely as if it were a tall and tropical flower;
-and yet, in the brief interval between the window and
+and yet, in the brief interval between the [[Window|window]] and
 the door it had vanished, as if to remind her it was a
 flying dream.  But two men were in a little motor
 outside, which was in the very act of starting.  They
@@ -217,11 +217,11 @@ were in motoring disguise, but she knew who they
 were.  All that was deep in her, all that was sceptical,
 all that was stoical, all that was noble, made her
 stand as still as one of the pillars of the porch; but a
-dog, bearing the name of Quoodle, sprang up in the
+dog, bearing the name of [[quoodle|Quoodle]], sprang up in the
 moving car, and barked with joy at the mere sight of
 her, and though she had borne all else, something in
-that bestial innocence of an animal suddenly blinded
-her with tears.
+that bestial [[innocence]] of an animal suddenly blinded
+her with [[Tears|tears]].
 
 It could not, however, blind her to the extraordinary
 fact that followed.  Mr. Dorian Wimpole, attired in

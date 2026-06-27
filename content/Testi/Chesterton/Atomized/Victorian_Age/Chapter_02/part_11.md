@@ -30,9 +30,9 @@ great Victorians who will not fit into any of the obvious categories I
 
 employ; because they will not fit into anything, hardly into the world
 
-itself. Where Germany or Italy would relieve the monotony of mankind by
+itself. Where [[Germany]] or [[Italy]] would relieve the monotony of mankind by
 
-paying serious respect to an artist, or a scholar, or a patriotic
+paying serious respect to an [[artist]], or a scholar, or a patriotic
 
 warrior, or a priest--it was always the instinct of the English to do it
 
@@ -44,7 +44,7 @@ critic, but he survives as a Character. Cobbett is neglected
 
 a Character. Now these people continued to crop up through the Victorian
 
-time; and each stands so much by himself that I shall end these pages
+[[Time|time]]; and each stands so much by himself that I shall end these pages
 
 with a profound suspicion that I have forgotten to mention a Character
 
@@ -54,7 +54,7 @@ George Borrow; who sympathised with unsuccessful nomads like the gipsies
 
 while every one else sympathised with successful nomads like the Jews;
 
-who had a genius like the west wind for the awakening of wild and casual
+who had a genius like the west [[Wind|wind]] for the awakening of wild and casual
 
 friendships and the drag and attraction of the roads. But whether George
 
@@ -94,13 +94,13 @@ thing; a thing called Nonsense. It may be doubted whether this thing was
 
 really invented to please children. Rather it was invented by old
 
-people trying to prove their first childhood, and sometimes succeeding
+people trying to prove their first [[Childhood|childhood]], and sometimes succeeding
 
 only in proving their second. But whatever else the thing was, it was
 
 English and it was individual. Lewis Carroll gave mathematics a holiday:
 
-he carried logic into the wild lands of illogicality. Edward Lear, a
+he carried [[logic]] into the wild lands of illogicality. Edward Lear, a
 
 richer, more romantic and therefore more truly Victorian buffoon,
 
@@ -110,11 +110,11 @@ think, conclude that it reposed on something more real and profound in
 
 the Victorians than even their just and exquisite appreciation of
 
-children. It came from the deep Victorian sense of humour.
+children. It came from the deep Victorian sense of [[Humour|humour]].
 
 
 
-It may appear, because I have used from time to time the only possible
+It may appear, because I have used from [[Time|time]] to [[Time|time]] the only possible
 
 phrases for the case, that I mean the Victorian Englishman to appear as
 
@@ -128,7 +128,7 @@ which Goethe had never taught the Germans, Byron did manage to teach the
 
 English--the duty of not taking him seriously. The strong and shrewd
 
-Victorian humour appears in every slash of the pencil of Charles Keene;
+Victorian [[Humour|humour]] appears in every slash of the pencil of Charles Keene;
 
 in every undergraduate inspiration of Calverley or "Q." or J. K. S. They
 

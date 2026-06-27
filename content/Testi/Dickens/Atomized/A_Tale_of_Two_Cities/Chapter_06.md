@@ -28,21 +28,21 @@ salutation, as if it were at a distance:
 
 “You are still hard at work, I see?”
 
-After a long silence, the head was lifted for another moment, and the
-voice replied, “Yes--I am working.” This time, a pair of haggard eyes
+After a long [[Silence|silence]], the head was lifted for another moment, and the
+voice replied, “Yes--I am working.” This [[Time|time]], a pair of haggard eyes
 had looked at the questioner, before the face had dropped again.
 
 The faintness of the voice was pitiable and dreadful. It was not the
 faintness of physical weakness, though confinement and hard fare no
-doubt had their part in it. Its deplorable peculiarity was, that it was
-the faintness of solitude and disuse. It was like the last feeble echo
+[[Doubt|doubt]] had their part in it. Its deplorable peculiarity was, that it was
+the faintness of [[Solitude|solitude]] and disuse. It was like the last feeble echo
 of a sound made long and long ago. So entirely had it lost the life and
 resonance of the human voice, that it affected the senses like a once
 beautiful colour faded away into a poor weak stain. So sunken and
 suppressed it was, that it was like a voice underground. So expressive
 it was, of a hopeless and lost creature, that a famished traveller,
 wearied out by lonely wandering in a wilderness, would have remembered
-home and friends in such a tone before lying down to die.
+[[Home|home]] and friends in such a tone before lying down to die.
 
 Some minutes of silent work had passed: and the haggard eyes had looked
 up again: not with any interest or curiosity, but with a dull mechanical
@@ -60,11 +60,11 @@ other side of him; then, upward at the speaker.
 
 “You can bear a little more light?”
 
-“I must bear it, if you let it in.” (Laying the palest shadow of a
+“I must bear it, if you let it in.” (Laying the palest [[Shadow|shadow]] of a
 stress upon the second word.)
 
 The opened half-door was opened a little further, and secured at that
-angle for the time. A broad ray of light fell into the garret, and
+angle for the [[Time|time]]. A broad ray of light fell into the garret, and
 showed the workman with an unfinished shoe upon his lap, pausing in his
 labour. His few common tools and various scraps of leather were at his
 feet and on his bench. He had a white beard, raggedly cut, but not very
@@ -72,7 +72,7 @@ long, a hollow face, and exceedingly bright eyes. The hollowness and
 thinness of his face would have caused them to look large, under his yet
 dark eyebrows and his confused white hair, though they had been really
 otherwise; but, they were naturally large, and looked unnaturally so.
-His yellow rags of shirt lay open at the throat, and showed his body
+His yellow rags of shirt lay open at the throat, and showed his [[Body|body]]
 to be withered and worn. He, and his old canvas frock, and his loose
 stockings, and all his poor tatters of clothes, had, in a long seclusion
 from direct light and air, faded down to such a dull uniformity of
@@ -113,7 +113,7 @@ look and the action had occupied but an instant.
 The shoemaker looked up as before, but without removing a hand from his
 work.
 
-“Come!” said Defarge. “Here is monsieur, who knows a well-made shoe when
+“Come!” said Defarge. “Here is monsieur, who knows a [[Well|well]]-made shoe when
 he sees one. Show him that shoe you are working at. Take it, monsieur.”
 
 Mr. Lorry took it in his hand.
@@ -129,7 +129,7 @@ information?”
 
 “It is a lady’s shoe. It is a young lady’s walking-shoe. It is in the
 present mode. I never saw the mode. I have had a pattern in my hand.” He
-glanced at the shoe with some little passing touch of pride.
+glanced at the shoe with some little passing touch of [[Pride|pride]].
 
 “And the maker’s name?” said Defarge.
 
@@ -139,7 +139,7 @@ hollow of the right, and then passed a hand across his bearded chin, and
 so on in regular changes, without a moment’s intermission. The task of
 recalling him from the vagrancy into which he always sank when he
 had spoken, was like recalling some very weak person from a swoon, or
-endeavouring, in the hope of some disclosure, to stay the spirit of a
+endeavouring, in the [[Hope|hope]] of some disclosure, to stay the spirit of a
 fast-dying man.
 
 “Did you ask me for my name?”
@@ -153,7 +153,7 @@ fast-dying man.
 “One Hundred and Five, North Tower.”
 
 With a weary sound that was not a sigh, nor a groan, he bent to work
-again, until the silence was again broken.
+again, until the [[Silence|silence]] was again broken.
 
 “You are not a shoemaker by trade?” said Mr. Lorry, looking steadfastly
 at him.
@@ -166,10 +166,10 @@ on the questioner when they had sought the ground.
 learnt it here. I taught myself. I asked leave to--”
 
 He lapsed away, even for minutes, ringing those measured changes on his
-hands the whole time. His eyes came slowly back, at last, to the face
+hands the whole [[Time|time]]. His eyes came slowly back, at last, to the face
 from which they had wandered; when they rested on it, he started, and
 resumed, in the manner of a sleeper that moment awake, reverting to a
-subject of last night.
+subject of last [[Night|night]].
 
 “I asked leave to teach myself, and I got it with much difficulty after
 a long while, and I have made shoes ever since.”
@@ -184,7 +184,7 @@ questioner.
 
 “Monsieur Manette”; Mr. Lorry laid his hand upon Defarge’s arm; “do you
 remember nothing of this man? Look at him. Look at me. Is there no old
-banker, no old business, no old servant, no old time, rising in your
+banker, no old business, no old servant, no old [[Time|time]], rising in your
 mind, Monsieur Manette?”
 
 As the captive of many years sat looking fixedly, by turns, at Mr.
@@ -198,7 +198,7 @@ she now stood looking at him, with hands which at first had been only
 raised in frightened compassion, if not even to keep him off and
 shut out the sight of him, but which were now extending towards him,
 trembling with eagerness to lay the spectral face upon her warm young
-breast, and love it back to life and hope--so exactly was the expression
+breast, and [[Love|love]] it back to life and [[Hope|hope]]--so exactly was the expression
 repeated (though in stronger characters) on her fair young face, that it
 looked as though it had passed like a moving light, from him to her.
 
@@ -211,7 +211,7 @@ took the shoe up, and resumed his work.
 
 “Yes; for a moment. At first I thought it quite hopeless, but I have
 unquestionably seen, for a single moment, the face that I once knew so
-well. Hush! Let us draw further back. Hush!”
+[[Well|well]]. Hush! Let us draw further back. Hush!”
 
 She had moved from the wall of the garret, very near to the bench on
 which he sat. There was something awful in his unconsciousness of the
@@ -226,7 +226,7 @@ in his hand, for his shoemaker’s knife. It lay on that side of him
 which was not the side on which she stood. He had taken it up, and was
 stooping to work again, when his eyes caught the skirt of her dress. He
 raised them, and saw her face. The two spectators started forward,
-but she stayed them with a motion of her hand. She had no fear of his
+but she stayed them with a motion of her hand. She had no [[Fear|fear]] of his
 striking at her with the knife, though they had.
 
 He stared at her with a fearful look, and after a while his lips began
@@ -235,7 +235,7 @@ the pauses of his quick and laboured breathing, he was heard to say:
 
 “What is this?”
 
-With the tears streaming down her face, she put her two hands to her
+With the [[Tears|tears]] streaming down her face, she put her two hands to her
 lips, and kissed them to him; then clasped them on her breast, as if she
 laid his ruined head there.
 
@@ -271,12 +271,12 @@ As the concentrated expression returned to his forehead, he seemed to
 become conscious that it was in hers too. He turned her full to the
 light, and looked at her.
 
-“She had laid her head upon my shoulder, that night when I was summoned
-out--she had a fear of my going, though I had none--and when I was
+“She had laid her head upon my shoulder, that [[Night|night]] when I was summoned
+out--she had a [[Fear|fear]] of my going, though I had none--and when I was
 brought to the North Tower they found these upon my sleeve. ‘You will
-leave me them? They can never help me to escape in the body, though they
+leave me them? They can never help me to escape in the [[Body|body]], though they
 may in the spirit.’ Those were the words I said. I remember them very
-well.”
+[[Well|well]].”
 
 He formed this speech with his lips many times before he could utter it.
 But when he did find spoken words for it, they came to him coherently,
@@ -306,27 +306,27 @@ name, my gentle angel?”
 Hailing his softened tone and manner, his daughter fell upon her knees
 before him, with her appealing hands upon his breast.
 
-“O, sir, at another time you shall know my name, and who my mother was,
-and who my father, and how I never knew their hard, hard history. But I
-cannot tell you at this time, and I cannot tell you here. All that I may
+“O, sir, at another [[Time|time]] you shall know my name, and who my mother was,
+and who my father, and how I never knew their hard, hard [[history]]. But I
+cannot tell you at this [[Time|time]], and I cannot tell you here. All that I may
 tell you, here and now, is, that I pray to you to touch me and to bless
 me. Kiss me, kiss me! O my dear, my dear!”
 
 His cold white head mingled with her radiant hair, which warmed and
-lighted it as though it were the light of Freedom shining on him.
+lighted it as though it were the light of [[Freedom]] shining on him.
 
-“If you hear in my voice--I don’t know that it is so, but I hope it
+“If you hear in my voice--I don’t know that it is so, but I [[Hope|hope]] it
 is--if you hear in my voice any resemblance to a voice that once was
 sweet music in your ears, weep for it, weep for it! If you touch, in
 touching my hair, anything that recalls a beloved head that lay on your
 breast when you were young and free, weep for it, weep for it! If, when
-I hint to you of a Home that is before us, where I will be true to you
+I hint to you of a [[Home]] that is before us, where I will be true to you
 with all my duty and with all my faithful service, I bring back the
-remembrance of a Home long desolate, while your poor heart pined away,
+remembrance of a [[Home]] long desolate, while your poor heart pined away,
 weep for it, weep for it!”
 
 She held him closer round the neck, and rocked him on her breast like a
-child.
+[[Child|child]].
 
 “If, when I tell you, dearest dear, that your agony is over, and that I
 have come here to take you from it, and that we go to England to be at
@@ -335,19 +335,19 @@ and of our native France so wicked to you, weep for it, weep for it! And
 if, when I shall tell you of my name, and of my father who is living,
 and of my mother who is dead, you learn that I have to kneel to my
 honoured father, and implore his pardon for having never for his sake
-striven all day and lain awake and wept all night, because the love of
+striven all day and lain awake and wept all [[Night|night]], because the [[Love|love]] of
 my poor mother hid his torture from me, weep for it, weep for it! Weep
 for her, then, and for me! Good gentlemen, thank God! I feel his sacred
-tears upon my face, and his sobs strike against my heart. O, see! Thank
+[[Tears|tears]] upon my face, and his sobs strike against my heart. O, see! Thank
 God for us, thank God!”
 
 He had sunk in her arms, and his face dropped on her breast: a sight so
-touching, yet so terrible in the tremendous wrong and suffering which
+touching, yet so terrible in the tremendous wrong and [[Suffering|suffering]] which
 had gone before it, that the two beholders covered their faces.
 
 When the quiet of the garret had been long undisturbed, and his heaving
 breast and shaken form had long yielded to the calm that must follow all
-storms--emblem to humanity, of the rest and silence into which the storm
+storms--emblem to humanity, of the rest and [[Silence|silence]] into which the [[Storm|storm]]
 called Life must hush at last--they came forward to raise the father and
 daughter from the ground. He had gradually dropped to the floor, and lay
 there in a lethargy, worn out. She had nestled down with him, that his
@@ -356,12 +356,12 @@ him from the light.
 
 “If, without disturbing him,” she said, raising her hand to Mr. Lorry as
 he stooped over them, after repeated blowings of his nose, “all could be
-arranged for our leaving Paris at once, so that, from the very door, he
+arranged for our leaving [[Paris]] at once, so that, from the very door, he
 could be taken away--”
 
-“But, consider. Is he fit for the journey?” asked Mr. Lorry.
+“But, consider. Is he fit for the [[Journey|journey]]?” asked Mr. Lorry.
 
-“More fit for that, I think, than to remain in this city, so dreadful to
+“More fit for that, I think, than to remain in this [[City|city]], so dreadful to
 him.”
 
 “It is true,” said Defarge, who was kneeling to look on and hear. “More
@@ -374,13 +374,13 @@ methodical manners; “and if business is to be done, I had better do it.”
 “Then be so kind,” urged Miss Manette, “as to leave us here. You see how
 composed he has become, and you cannot be afraid to leave him with me
 now. Why should you be? If you will lock the door to secure us from
-interruption, I do not doubt that you will find him, when you come back,
+interruption, I do not [[Doubt|doubt]] that you will find him, when you come back,
 as quiet as you leave him. In any case, I will take care of him until
 you return, and then we will remove him straight.”
 
 Both Mr. Lorry and Defarge were rather disinclined to this course, and
 in favour of one of them remaining. But, as there were not only carriage
-and horses to be seen to, but travelling papers; and as time pressed,
+and horses to be seen to, but travelling papers; and as [[Time|time]] pressed,
 for the day was drawing to an end, it came at last to their hastily
 dividing the business that was necessary to be done, and hurrying away
 to do it.
@@ -390,7 +390,7 @@ hard ground close at the father’s side, and watched him. The darkness
 deepened and deepened, and they both lay quiet, until a light gleamed
 through the chinks in the wall.
 
-Mr. Lorry and Monsieur Defarge had made all ready for the journey, and
+Mr. Lorry and Monsieur Defarge had made all ready for the [[Journey|journey]], and
 had brought with them, besides travelling cloaks and wrappers, bread and
 meat, wine, and hot coffee. Monsieur Defarge put this provender, and the
 lamp he carried, on the shoemaker’s bench (there was nothing else in the
@@ -398,12 +398,12 @@ garret but a pallet bed), and he and Mr. Lorry roused the captive, and
 assisted him to his feet.
 
 No human intelligence could have read the mysteries of his mind, in
-the scared blank wonder of his face. Whether he knew what had happened,
+the scared blank [[Wonder|wonder]] of his face. Whether he knew what had happened,
 whether he recollected what they had said to him, whether he knew that
 he was free, were questions which no sagacity could have solved. They
 tried speaking to him; but, he was so confused, and so very slow to
 answer, that they took fright at his bewilderment, and agreed for
-the time to tamper with him no more. He had a wild, lost manner of
+the [[Time|time]] to tamper with him no more. He had a wild, lost manner of
 occasionally clasping his head in his hands, that had not been seen
 in him before; yet, he had some pleasure in the mere sound of his
 daughter’s voice, and invariably turned to it when she spoke.
@@ -429,7 +429,7 @@ she had repeated it.
 “Remember? No, I don’t remember. It was so very long ago.”
 
 That he had no recollection whatever of his having been brought from his
-prison to that house, was apparent to them. They heard him mutter,
+[[Prison|prison]] to that [[house]], was apparent to them. They heard him mutter,
 “One Hundred and Five, North Tower;” and when he looked about him, it
 evidently was for the strong fortress-walls which had long encompassed
 him. On their reaching the courtyard he instinctively altered his
@@ -439,8 +439,8 @@ dropped his daughter’s hand and clasped his head again.
 
 No crowd was about the door; no people were discernible at any of the
 many windows; not even a chance passerby was in the street. An unnatural
-silence and desertion reigned there. Only one soul was to be seen, and
-that was Madame Defarge--who leaned against the door-post, knitting, and
+[[Silence|silence]] and desertion reigned there. Only one [[Soul|soul]] was to be seen, and
+that was [[Madame Defarge]]--who leaned against the door-post, knitting, and
 saw nothing.
 
 The prisoner had got into a coach, and his daughter had followed
@@ -457,29 +457,29 @@ over-swinging lamps.
 
 Under the over-swinging lamps--swinging ever brighter in the better
 streets, and ever dimmer in the worse--and by lighted shops, gay crowds,
-illuminated coffee-houses, and theatre-doors, to one of the city
-gates. Soldiers with lanterns, at the guard-house there. “Your papers,
+illuminated coffee-houses, and theatre-doors, to one of the [[City|city]]
+gates. Soldiers with lanterns, at the guard-[[house]] there. “Your papers,
 travellers!” “See here then, Monsieur the Officer,” said Defarge,
 getting down, and taking him gravely apart, “these are the papers of
 monsieur inside, with the white head. They were consigned to me, with
 him, at the--” He dropped his voice, there was a flutter among the
 military lanterns, and one of them being handed into the coach by an arm
 in uniform, the eyes connected with the arm looked, not an every day
-or an every night look, at monsieur with the white head. “It is well.
+or an every [[Night|night]] look, at monsieur with the white head. “It is [[Well|well]].
 Forward!” from the uniform. “Adieu!” from Defarge. And so, under a short
 grove of feebler and feebler over-swinging lamps, out under the great
-grove of stars.
+grove of [[Stars|stars]].
 
 Beneath that arch of unmoved and eternal lights; some, so remote from
 this little earth that the learned tell us it is doubtful whether their
 rays have even yet discovered it, as a point in space where anything
-is suffered or done: the shadows of the night were broad and black.
-All through the cold and restless interval, until dawn, they once more
-whispered in the ears of Mr. Jarvis Lorry--sitting opposite the buried
+is suffered or done: the shadows of the [[Night|night]] were broad and black.
+All through the cold and restless interval, until [[Dawn|dawn]], they once more
+whispered in the ears of Mr. [[Jarvis Lorry]]--sitting opposite the buried
 man who had been dug out, and wondering what subtle powers were for ever
 lost to him, and what were capable of restoration--the old inquiry:
 
-“I hope you care to be recalled to life?”
+“I [[Hope|hope]] you care to be recalled to life?”
 
 And the old answer:
 

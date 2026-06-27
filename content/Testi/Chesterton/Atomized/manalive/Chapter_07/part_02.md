@@ -1,5 +1,5 @@
 ---
-title: "manalive — Chapter 1 (part 2)"
+title: "[[manalive]] — Chapter 1 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manalive-(Chesterton)"
@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-Arthur Inglewood glanced curiously for an instant at the huge creature
+[[arthur|Arthur]] Inglewood glanced curiously for an instant at the huge creature
 at the foot of the table, who was fitting a paper figure with a cocked hat,
 and then looked back at Dr. Pym, who was concluding in a quieter tone.
 
 "It only remains for us," he said, "to bring forward actual evidence
-of his previous attempts.  By an agreement already made with the Court
+of his previous attempts.  By an agreement already made with the [[Court]]
 and the leaders of the defence, we are permitted to put in evidence authentic
 letters from witnesses to these scenes, which the defence is free to examine.
 Out of several cases of such outrages we have decided to select one--
@@ -36,29 +36,29 @@ as a cock-crow:--
 "Sir,--Hi am the Sub-Warden of Brikespeare College, Cambridge--"
 
 
-"Lord have mercy on us," muttered Moon, making a backward movement as men
+"Lord have [[Mercy|mercy]] on us," muttered [[Moon]], making a backward movement as men
 do when a gun goes off.
 
 
 "Hi am the Sub-Warden of Brikespeare College, Cambridge,"
 proclaimed the uncompromising Moses, "and I can endorse the description
-you gave of the un'appy Smith.  It was not alone my unfortunate duty
+you gave of the un'appy [[smith|Smith]].  It was not [[Alone|alone]] my unfortunate duty
 to rebuke many of the lesser violences of his undergraduate period,
 but I was actually a witness to the last iniquity which terminated
-that period.  Hi happened to passing under the house of my friend
+that period.  Hi happened to passing under the [[house]] of my friend
 the Warden of Brikespeare, which is semi-detached from the College
 and connected with it by two or three very ancient arches or props,
-like bridges, across a small strip of water connected with the river.
+like bridges, across a small strip of [[Water|water]] connected with the [[River|river]].
 To my grive astonishment I be'eld my eminent friend suspended in mid-air
 and clinging to one of these pieces of masonry, his appearance and
 attitude indicatin' that he suffered from the grivest apprehensions.
-After a short time I heard two very loud shots, and distinctly perceived
-the unfortunate undergraduate Smith leaning far out of the Warden's
-window and aiming at the Warden repeatedly with a revolver.
-Upon seeing me, Smith burst into a loud laugh (in which
+After a short [[Time|time]] I heard two very loud shots, and distinctly perceived
+the unfortunate undergraduate [[smith|Smith]] leaning far out of the Warden's
+[[Window|window]] and aiming at the Warden repeatedly with a revolver.
+Upon seeing me, [[smith|Smith]] burst into a loud laugh (in which
 impertinence was mingled with insanity), and appeared to desist.
 I sent the college porter for a ladder, and he succeeded in detaching
-the Warden from his painful position.  Smith was sent down.
+the Warden from his painful position.  [[smith|Smith]] was sent down.
 The photograph I enclose is from the group of the University Rifle Club
 prizemen, and represents him as he was when at the College.--
 Hi am, your obedient servant, Amos Boulter.
@@ -71,22 +71,22 @@ and won't take long to read.
 "Dear Sir,--It is quite true that I am the porter of Brikespeare College,
 and that I 'elped the Warden down when the young man was shooting at him,
 as Mr. Boulter has said in his letter.  The young man who was shooting at
-him was Mr. Smith, the same that is in the photograph Mr. Boulter sends.--
+him was Mr. [[smith|Smith]], the same that is in the photograph Mr. Boulter sends.--
 Yours respectfully, Samuel Barker."
 
 
-Gould handed the two letters across to Moon, who examined them.
+Gould handed the two letters across to [[Moon]], who examined them.
 But for the vocal divergences in the matter of h's and a's,
 the Sub-Warden's letter was exactly as Gould had rendered it;
 and both that and the porter's letter were plainly genuine.
-Moon handed them to Inglewood, who handed them back in silence
+[[Moon]] handed them to Inglewood, who handed them back in [[Silence|silence]]
 to Moses Gould.
 
 "So far as this first charge of continual attempted murder is concerned,"
-said Dr. Pym, standing up for the last time, "that is my case."
+said Dr. Pym, standing up for the last [[Time|time]], "that is my case."
 
-Michael Moon rose for the defence with an air of depression which gave
-little hope at the outset to the sympathizers with the prisoner.
+[[Michael]] [[Moon]] [[Rose|rose]] for the defence with an air of depression which gave
+little [[Hope|hope]] at the outset to the sympathizers with the prisoner.
 He did not, he said, propose to follow the doctor into the
 abstract questions.  "I do not know enough to be an agnostic,"
 he said, rather wearily, "and I can only master the known and admitted
@@ -97,21 +97,21 @@ That's the only difference between science and religion there's ever been,
 or will be.  Yet these new discoveries touch me, somehow," he said,
 looking down sorrowfully at his boots.  "They remind me of a dear
 old great-aunt of mine who used to enjoy them in her youth.
-It brings tears to my eyes.  I can see the old bucket by the garden
+It brings [[Tears|tears]] to my eyes.  I can see the old bucket by the [[Garden|garden]]
 fence and the line of shimmering poplars behind--"
 
 "Hi! here, stop the 'bus a bit," cried Mr. Moses Gould, rising in a sort
 of perspiration.  "We want to give the defence a fair run--like gents,
 you know; but any gent would draw the line at shimmering poplars."
 
-"Well, hang it all," said Moon, in an injured manner, "if Dr. Pym
+"[[Well]], hang it all," said [[Moon]], in an injured manner, "if Dr. Pym
 may have an old friend with ferrets, why mayn't I have an old
 aunt with poplars?"
 
 "I am sure," said Mrs. Duke, bridling, with something almost
-like a shaky authority, "Mr. Moon may have what aunts he likes."
+like a shaky authority, "Mr. [[Moon]] may have what aunts he likes."
 
-"Why, as to liking her," began Moon, "I--but perhaps,
+"Why, as to liking her," began [[Moon]], "I--but perhaps,
 as you say, she is scarcely the core of the question.
 I repeat that I do not mean to follow the abstract speculations.
 For, indeed, my answer to Dr. Pym is simple and severely concrete.

@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — T is not true that Lord Tallboys wore his top-hat in bed, during his"
+title: "[[FourFaultlessFelons]] — T is not true that Lord Tallboys wore his top-hat in bed, during his"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -28,13 +28,13 @@ official duties at the earliest possible opportunity; rather to the
 
 annoyance, it was said, of his subordinate the Deputy-Governor, who found
 
-himself for the second time checked in some of those vigorous military
+himself for the second [[Time|time]] checked in some of those vigorous military
 
 measures which are always more easily effected after the shock of a
 
 political outrage. In plain words, the Deputy-Governor was rather sulky.
 
-He had relapsed into a red-faced and irritable silence, and when he broke
+He had relapsed into a red-faced and irritable [[Silence|silence]], and when he broke
 
 it his friends rather wished he would relapse into it again. At the
 
@@ -56,7 +56,7 @@ swine!"
 
 "He's not a mouldy swine," said Barbara Traill emphatically, as if it
 
-were an exact point of natural history. "I don't believe a word of what
+were an exact point of natural [[history]]. "I don't believe a word of what
 
 you people are saying against him."
 
@@ -76,13 +76,13 @@ had apparently arrested the oratorical rotation of his hands. His family
 
 felt that they had never liked him so much before. It seemed almost as if
 
-there were some truth in the theory of the Moderate Murderer.
+there were some [[Truth|truth]] in the theory of the Moderate Murderer.
 
 
 
 On the other hand, Sir Harry Smythe, usually so much more good-humoured
 
-with his family, seemed to be in an increasingly bad humour. The dark red
+with his family, seemed to be in an increasingly bad [[Humour|humour]]. The dark red
 
 of his complexion deepened, until by contrast there was something almost
 
@@ -138,11 +138,11 @@ out too much, or that he had gained a new subtlety of perception.
 
 Meanwhile John Hume was sitting in his place of detention, staring at a
 
-blank wall with an equally blank face. Accustomed as he was to solitude,
+blank wall with an equally blank face. Accustomed as he was to [[Solitude|solitude]],
 
 he soon found something of a strain in two or three days and nights of
 
-the dehumanized solitude of imprisonment. Perhaps the fact most vivid to
+the dehumanized [[Solitude|solitude]] of [[Imprisonment|imprisonment]]. Perhaps the fact most vivid to
 
 his immediate senses was being deprived of tobacco. But he had other and
 
@@ -168,7 +168,7 @@ country with coercion acts and punitive expeditions, until his impulsive
 
 militarism had been a little moderated by the arrival of Tallboys with a
 
-compromise from the home Government. Tallboys was still alive and even,
+compromise from the [[Home|home]] [[government|Government]]. Tallboys was still alive and even,
 
 in a modified manner, kicking. But he was probably still under doctor's
 
@@ -176,13 +176,13 @@ orders and could hardly be judge in his own cause; so that the autocratic
 
 Smythe would probably have another chance of riding the whirlwind and
 
-directing the storm. But the truth is that there was at the back of the
+directing the [[Storm|storm]]. But the [[Truth|truth]] is that there was at the back of the
 
-prisoner's mind something that he feared much more than prison. The tiny
+prisoner's mind something that he feared much more than [[Prison|prison]]. The tiny
 
 point of panic, which had begun to worry and eat away even his rocky
 
-stolidity of mind and body, was the fear that his fantastic explanation
+stolidity of mind and [[Body|body]], was the [[Fear|fear]] that his fantastic explanation
 
 had given his enemies another sort of opportunity. What he really feared
 
@@ -204,25 +204,25 @@ seemed to himself that, like a hermit in his cell, he was seeing visions.
 
 
 
-"Well, I suppose I am, after all," he said aloud in a dead and distinct
+"[[Well]], I suppose I am, after all," he said aloud in a dead and distinct
 
-voice. "Didn't St. Paul say something? . . . Wherefore, O King Agrippa, I
+voice. "Didn't St. Paul say something? . . . Wherefore, O [[King]] Agrippa, I
 
 was not disobedient to the heavenly vision. ... I have seen that heavenly
 
 one coming in at the door like that several times, and rather hoped it
 
-was real. But real people can't come through prison doors like that. . .
+was real. But real people can't come through [[Prison|prison]] doors like that. . .
 
 . Once it came so that the room might have been full of trumpets and once
 
-with a cry like the wind and there was a fight and I found out that I
+with a cry like the [[Wind|wind]] and there was a fight and I found out that I
 
-could hate and that I could love. Two miracles on one night. Don't you
+could hate and that I could [[Love|love]]. Two miracles on one [[Night|night]]. Don't you
 
-think that must have been a dream-that is supposing you weren't a dream
+think that must have been [[A Dream|a dream]]-that is supposing you weren't [[A Dream|a dream]]
 
-and could think anything? But I did rather hope you were real then."
+and could think anything? But I did rather [[Hope|hope]] you were real then."
 
 
 
@@ -230,7 +230,7 @@ and could think anything? But I did rather hope you were real then."
 
 
 
-"Do you mean to tell me in cold blood that I am not mad," asked Hume,
+"Do you mean to tell me in cold [[Blood|blood]] that I am not mad," asked Hume,
 
 still staring at her, "and you are here?"
 
@@ -264,7 +264,7 @@ have to hold one's tongue for the sake of someone you would care about."
 
 
 
-"Well," she said steadily, "I have been brought into it for the sake of
+"[[Well]]," she said steadily, "I have been brought into it for the sake of
 
 someone I care about."
 
@@ -284,7 +284,7 @@ before. I don't want to talk to anybody else now."
 
 He sprang to his feet; something like an earthquake had shaken him at
 
-last out of his long petrified incredulity about happiness. He caught her
+last out of his long petrified [[Incredulity|incredulity]] about happiness. He caught her
 
 by both hands and words came out of him he had never dreamed were within.
 
@@ -320,9 +320,9 @@ extraordinarily ordinary story."
 
 He paused a moment reflectively and then went on: "It's really a
 
-particularly plain and simple story. I wonder it hasn't happened hundreds
+particularly plain and simple story. I [[Wonder|wonder]] it hasn't happened hundreds
 
-of times before. I wonder it hasn't been told in hundreds of stories
+of times before. I [[Wonder|wonder]] it hasn't been told in hundreds of stories
 
 before. It might so easily happen anywhere, given certain conditions.
 
@@ -332,7 +332,7 @@ before. It might so easily happen anywhere, given certain conditions.
 
 balcony that runs round my bungalow, and how one looks down from it and
 
-sees the whole landscape like a map. Well, I was looking down and saw all
+sees the whole landscape like a map. [[Well]], I was looking down and saw all
 
 that flat plan of the place; the row of villas and the wall and path
 
@@ -344,7 +344,7 @@ all the rest. But I saw what surprised me; that the rifle-range was
 
 already set up. It must have been a rush order; people must have worked
 
-all night. And even as I stared, I saw in the distance a dot that was a
+all [[Night|night]]. And even as I stared, I saw in the distance a dot that was a
 
 man standing by the nearest target, as if adding the last touches. Then
 
@@ -356,9 +356,9 @@ gesture told me something; he was quite obviously clearing out just
 
 before the firing at the target was to begin. And almost at the same
 
-moment I saw something else. Well, I saw one thing, anyhow. I saw why
+moment I saw something else. [[Well]], I saw one thing, anyhow. I saw why
 
-Lady Smythe is worried, and wandered distracted in the garden."
+Lady Smythe is worried, and wandered distracted in the [[Garden|garden]]."
 
 
 
@@ -366,7 +366,7 @@ Barbara stared, but he went on: "Travelling along the path from the
 
 Governorate and towards the sycamore was a familiar shape. It just showed
 
-above the long garden wall in sharp outline like a shape in a shadow
+above the long [[Garden|garden]] wall in sharp outline like a shape in a [[Shadow|shadow]]
 
 pantomime. It was the top-hat of Lord Tallboys. Then I remembered that he
 
@@ -376,9 +376,9 @@ beyond; and I felt an overwhelming suspicion that he did not know that
 
 the space beyond was already a firing-ground. You know he is very deaf,
 
-and I sometimes doubt whether he hears all the things officially told to
+and I sometimes [[Doubt|doubt]] whether he hears all the things officially told to
 
-him; sometimes I fear they are told so that he cannot hear. Anyhow, he
+him; sometimes I [[Fear|fear]] they are told so that he cannot hear. Anyhow, he
 
 had every appearance of marching straight across as usual, and there came
 
@@ -402,7 +402,7 @@ and dashed down the slope towards the path, waving wildly and trying to
 
 hail or head him off. He didn't see me and couldn't hear me. I pounded
 
-along after him along the path, but he had too long a start. By the time
+along after him along the path, but he had too long a start. By the [[Time|time]]
 
 I reached the sycamore, I knew I was too late. He was already half-way
 
@@ -412,19 +412,19 @@ came to the corner.
 
 
 
-"I felt a rage against the fool which a man looks against the background
+"I felt a rage against the [[Fool|fool]] which a man looks against the background
 
 of fate. I saw his lean, pompous figure with the absurd top-hat riding on
 
 top of it; and the large ears standing out from his head . . the large,
 
-useless ears. There was something agonizingly grotesque about that
+useless ears. There was something agonizingly [[Grotesque|grotesque]] about that
 
-unconscious back outlined against the plains of death. For I was certain
+unconscious back outlined against the plains of [[Death|death]]. For I was certain
 
 that the moment he passed the corner that field would be swept by the
 
-fire, which would cut across at right angles to his progress. I could
+[[Fire|fire]], which would cut across at right angles to his progress. I could
 
 think of only one thing to do and I did it. Hayter thought I was mad when
 
@@ -442,11 +442,11 @@ corner. I waited a moment and saw that people were coming out of the last
 
 houses to pick him up. I did the only thing I really regret. I had a
 
-vague idea the house by the sycamore was empty, so I threw the gun over
+vague idea the [[house]] by the sycamore was empty, so I threw the gun over
 
-the wall into the garden, and nearly got that poor old ass of a parson
+the wall into the [[Garden|garden]], and nearly got that poor old ass of a parson
 
-into trouble. Then I went home and waited till they summoned me to give
+into trouble. Then I went [[Home|home]] and waited till they summoned me to give
 
 evidence about Gregory."
 
@@ -498,15 +498,15 @@ Extremists.
 
 Believe me, the reactionary Extremists are quite as likely to go to
 
-extremes. The history of faction fights will show acts of violence by
+extremes. The [[history]] of faction fights will show acts of violence by
 
-Patricians as well as Plebeians, by Ghibellines as well as Guelphs, by
+Patricians as [[Well|well]] as Plebeians, by Ghibellines as [[Well|well]] as Guelphs, by
 
-Orangemen as well as Fenians, by Fascists as well as Bolshevists, by the
+Orangemen as [[Well|well]] as Fenians, by Fascists as [[Well|well]] as Bolshevists, by the
 
-Ku-Klux-Klan as well as the Black Hand. And when a politician comes from
+Ku-Klux-Klan as [[Well|well]] as the Black Hand. And when a politician comes from
 
-London with a compromise in his pocket-it is not only Nationalists who
+[[London]] with a compromise in his pocket-it is not only Nationalists who
 
 see their plans frustrated.
 
@@ -514,13 +514,13 @@ see their plans frustrated.
 
 "The other point is more personal, especially to you. You once told me
 
-you feared for the family sanity, merely because you had bad dreams and
+you feared for the family [[Sanity|sanity]], merely because you had bad [[Dreams|dreams]] and
 
-brooded over things of your own imagination. Believe me, it's not the
+brooded over things of your own [[Imagination|imagination]]. Believe me, it's not the
 
 imaginative people who become insane. It's not they who are mad, even
 
-when they are morbid. They can always be woken up from bad dreams by
+when they are morbid. They can always be woken up from bad [[Dreams|dreams]] by
 
 broader prospects and brighter visions-because they are imaginative. The
 
@@ -540,11 +540,11 @@ shorter, but they have to do with it. My uncle sent me here with an
 
 officer who has an order for your release . . and the Deputy-Governor is
 
-going home . . resignation on the grounds of ill-health."
+going [[Home|home]] . . [[Resignation|resignation]] on the grounds of ill-health."
 
 
 
-"Tallboys is no fool," said John Hume; "he has guessed."
+"Tallboys is no [[Fool|fool]]," said John Hume; "he has guessed."
 
 
 

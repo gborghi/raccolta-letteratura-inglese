@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 15 (part 4)"
+title: "Bleak [[house|House]] — Chapter 15 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,37 +14,37 @@ tags:
 </nav>
 
 
-It was the first time since our entry that a tear had been shed among
-these children. The little orphan girl had spoken of their father and
+It was the first [[Time|time]] since our entry that a tear had been shed among
+these children. The little [[Orphan|orphan]] girl had spoken of their father and
 their mother as if all that sorrow were subdued by the necessity of
-taking courage, and by her childish importance in being able to work,
+taking [[Courage|courage]], and by her childish importance in being able to work,
 and by her bustling busy way. But now, when Tom cried, although she
 sat quite tranquil, looking quietly at us, and did not by any
 movement disturb a hair of the head of either of her little charges,
-I saw two silent tears fall down her face.
+I saw two silent [[Tears|tears]] fall down her face.
 
-I stood at the window with Ada, pretending to look at the housetops,
+I stood at the [[Window|window]] with Ada, pretending to look at the housetops,
 and the blackened stack of chimneys, and the poor plants, and the
-birds in little cages belonging to the neighbours, when I found that
+[[Birds|birds]] in little cages belonging to the neighbours, when I found that
 Mrs. Blinder, from the shop below, had come in (perhaps it had taken
-her all this time to get upstairs) and was talking to my guardian.
+her all this [[Time|time]] to get upstairs) and was talking to my guardian.
 
 “It’s not much to forgive ’em the rent, sir,” she said; “who could
 take it from them!”
 
-“Well, well!” said my guardian to us two. “It is enough that the time
+“[[Well]], [[Well|well]]!” said my guardian to us two. “It is enough that the [[Time|time]]
 will come when this good woman will find that it WAS much, and that
-forasmuch as she did it unto the least of these—This child,” he
+forasmuch as she did it unto the least of these—This [[Child|child]],” he
 added after a few moments, “could she possibly continue this?”
 
 “Really, sir, I think she might,” said Mrs. Blinder, getting her
 heavy breath by painful degrees. “She’s as handy as it’s possible to
 be. Bless you, sir, the way she tended them two children after the
-mother died was the talk of the yard! And it was a wonder to see her
+mother died was the talk of the yard! And it was a [[Wonder|wonder]] to see her
 with him after he was took ill, it really was! ‘Mrs. Blinder,’ he
 said to me the very last he spoke—he was lying there—‘Mrs.
 Blinder, whatever my calling may have been, I see a angel sitting in
-this room last night along with my child, and I trust her to Our
+this room last [[Night|night]] along with my [[Child|child]], and I trust her to Our
 Father!’”
 
 “He had no other calling?” said my guardian.
@@ -59,7 +59,7 @@ though his temper has been hard tried.”
 
 “So you gave him notice?” said my guardian.
 
-“So I gave him notice,” said Mrs. Blinder. “But really when the time
+“So I gave him notice,” said Mrs. Blinder. “But really when the [[Time|time]]
 came, and I knew no other ill of him, I was in doubts. He was
 punctual and diligent; he did what he had to do, sir,” said Mrs.
 Blinder, unconsciously fixing Mr. Skimpole with her eye, “and it’s
@@ -82,7 +82,7 @@ different. Mr. Coavins gave a guinea, and the follerers made up a
 little purse. Some neighbours in the yard that had always joked and
 tapped their shoulders when he went by came forward with a little
 subscription, and—in general—not so bad. Similarly with Charlotte.
-Some people won’t employ her because she was a follerer’s child; some
+Some people won’t employ her because she was a follerer’s [[Child|child]]; some
 people that do employ her cast it at her; some make a merit of having
 her to work for them, with that and all her draw-backs upon her, and
 perhaps pay her less and put upon her more. But she’s patienter than
@@ -99,8 +99,8 @@ up.
 
 “I don’t know what you may be doing here, ladies and gentlemen,” he
 said, as if he resented our presence, “but you’ll excuse my coming
-in. I don’t come in to stare about me. Well, Charley! Well, Tom!
-Well, little one! How is it with us all to-day?”
+in. I don’t come in to stare about me. [[Well]], Charley! [[Well]], Tom!
+[[Well]], little one! How is it with us all to-day?”
 
 He bent over the group in a caressing way and clearly was regarded as
 a friend by the children, though his face retained its stern
@@ -122,7 +122,7 @@ a quarrelsome temper. I am irascible. I am not polite!”
 
 “Not very, I think.”
 
-“Sir,” said Gridley, putting down the child and going up to him as if
+“Sir,” said Gridley, putting down the [[Child|child]] and going up to him as if
 he meant to strike him, “do you know anything of Courts of Equity?”
 
 “Perhaps I do, to my sorrow.”
@@ -131,12 +131,12 @@ he meant to strike him, “do you know anything of Courts of Equity?”
 your pardon. I am not polite, I know. I beg your pardon! Sir,” with
 renewed violence, “I have been dragged for five and twenty years over
 burning iron, and I have lost the habit of treading upon velvet. Go
-into the Court of Chancery yonder and ask what is one of the standing
+into the [[Court]] of Chancery yonder and ask what is one of the standing
 jokes that brighten up their business sometimes, and they will tell
 you that the best joke they have is the man from Shropshire. I,” he
 said, beating one hand on the other passionately, “am the man from
 Shropshire.”
 
-“I believe I and my family have also had the honour of furnishing
-some entertainment in the same grave place,” said my guardian
+“I believe I and my family have also had the [[Honour|honour]] of furnishing
+some entertainment in the same [[Grave|grave]] place,” said my guardian
 composedly. “You may have heard my name—Jarndyce.”

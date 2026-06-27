@@ -18,11 +18,11 @@ CHAPTER XI.
 A Companion Picture
 
 
-“Sydney,” said Mr. Stryver, on that self-same night, or morning, to his
+“Sydney,” said Mr. Stryver, on that [[Self|self]]-same [[Night|night]], or morning, to his
 jackal; “mix another bowl of punch; I have something to say to you.”
 
-Sydney had been working double tides that night, and the night before,
-and the night before that, and a good many nights in succession, making
+Sydney had been working [[Double|double]] tides that [[Night|night]], and the [[Night|night]] before,
+and the [[Night|night]] before that, and a good many nights in succession, making
 a grand clearance among Mr. Stryver’s papers before the setting in
 of the long vacation. The clearance was effected at last; the Stryver
 arrears were handsomely fetched up; everything was got rid of until
@@ -31,7 +31,7 @@ bring grist to the mill again.
 
 Sydney was none the livelier and none the soberer for so much
 application. It had taken a deal of extra wet-towelling to pull him
-through the night; a correspondingly extra quantity of wine had preceded
+through the [[Night|night]]; a correspondingly extra quantity of wine had preceded
 the towelling; and he was in a very damaged condition, as he now pulled
 his turban off and threw it into the basin in which he had steeped it at
 intervals for the last six hours.
@@ -58,19 +58,19 @@ shrewd as you usually do think me. I intend to marry.”
 
 “Guess.”
 
-“I am not going to guess, at five o’clock in the morning, with my brains
+“I am not going to guess, at five o’[[Clock|clock]] in the morning, with my brains
 frying and sputtering in my head. If you want me to guess, you must ask
 me to dinner.”
 
-“Well then, I’ll tell you,” said Stryver, coming slowly into a sitting
-posture. “Sydney, I rather despair of making myself intelligible to you,
+“[[Well]] then, I’ll tell you,” said Stryver, coming slowly into a sitting
+posture. “Sydney, I rather [[Despair|despair]] of making myself intelligible to you,
 because you are such an insensible dog.”
 
 “And you,” returned Sydney, busy concocting the punch, “are such a
 sensitive and poetical spirit--”
 
 “Come!” rejoined Stryver, laughing boastfully, “though I don’t prefer
-any claim to being the soul of Romance (for I hope I know better), still
+any claim to being the [[Soul|soul]] of [[Romance]] (for I [[Hope|hope]] I know better), still
 I am a tenderer sort of fellow than _you_.”
 
 “You are a luckier, if you mean that.”
@@ -79,18 +79,18 @@ I am a tenderer sort of fellow than _you_.”
 
 “Say gallantry, while you are about it,” suggested Carton.
 
-“Well! I’ll say gallantry. My meaning is that I am a man,” said Stryver,
+“[[Well]]! I’ll say gallantry. My meaning is that I am a man,” said Stryver,
 inflating himself at his friend as he made the punch, “who cares more to
 be agreeable, who takes more pains to be agreeable, who knows better how
 to be agreeable, in a woman’s society, than you do.”
 
-“Go on,” said Sydney Carton.
+“Go on,” said [[Sydney Carton]].
 
 “No; but before I go on,” said Stryver, shaking his head in his bullying
-way, “I’ll have this out with you. You’ve been at Doctor Manette’s house
+way, “I’ll have this out with you. You’ve been at [[Doctor Manette]]’s [[house]]
 as much as I have, or more than I have. Why, I have been ashamed of your
 moroseness there! Your manners have been of that silent and sullen and
-hangdog kind, that, upon my life and soul, I have been ashamed of you,
+hangdog kind, that, upon my life and [[Soul|soul]], I have been ashamed of you,
 Sydney!”
 
 “It should be very beneficial to a man in your practice at the bar, to
@@ -122,7 +122,7 @@ He asked the question with some appearance of scorn.
 “You have no business to be incorrigible,” was his friend’s answer,
 delivered in no very soothing tone.
 
-“I have no business to be, at all, that I know of,” said Sydney Carton.
+“I have no business to be, at all, that I know of,” said [[Sydney Carton]].
 “Who is the lady?”
 
 “Now, don’t let my announcement of the name make you uncomfortable,
@@ -136,7 +136,7 @@ me in slighting terms.”
 
 “Certainly; and in these chambers.”
 
-Sydney Carton looked at his punch and looked at his complacent friend;
+[[Sydney Carton]] looked at his punch and looked at his complacent friend;
 drank his punch and looked at his complacent friend.
 
 “You made mention of the young lady as a golden-haired doll. The young
@@ -148,13 +148,13 @@ think of the expression, than I should be annoyed by a man’s opinion of
 a picture of mine, who had no eye for pictures: or of a piece of music
 of mine, who had no ear for music.”
 
-Sydney Carton drank the punch at a great rate; drank it by bumpers,
+[[Sydney Carton]] drank the punch at a great rate; drank it by bumpers,
 looking at his friend.
 
 “Now you know all about it, Syd,” said Mr. Stryver. “I don’t care about
 fortune: she is a charming creature, and I have made up my mind to
 please myself: on the whole, I think I can afford to please myself. She
-will have in me a man already pretty well off, and a rapidly rising man,
+will have in me a man already pretty [[Well|well]] off, and a rapidly rising man,
 and a man of some distinction: it is a piece of good fortune for her,
 but she is worthy of good fortune. Are you astonished?”
 
@@ -165,19 +165,19 @@ astonished?”
 
 Carton, still drinking the punch, rejoined, “Why should I not approve?”
 
-“Well!” said his friend Stryver, “you take it more easily than I fancied
+“[[Well]]!” said his friend Stryver, “you take it more easily than I fancied
 you would, and are less mercenary on my behalf than I thought you would
-be; though, to be sure, you know well enough by this time that your
+be; though, to be sure, you know [[Well|well]] enough by this [[Time|time]] that your
 ancient chum is a man of a pretty strong will. Yes, Sydney, I have had
 enough of this style of life, with no other as a change from it; I
-feel that it is a pleasant thing for a man to have a home when he feels
+feel that it is a pleasant thing for a man to have a [[Home|home]] when he feels
 inclined to go to it (when he doesn’t, he can stay away), and I feel
-that Miss Manette will tell well in any station, and will always do me
+that Miss Manette will tell [[Well|well]] in any station, and will always do me
 credit. So I have made up my mind. And now, Sydney, old boy, I want to
 say a word to _you_ about _your_ prospects. You are in a bad way, you
 know; you really are in a bad way. You don’t know the value of money,
 you live hard, you’ll knock up one of these days, and be ill and poor;
-you really ought to think about a nurse.”
+you really ought to think about a [[Nurse|nurse]].”
 
 The prosperous patronage with which he said it, made him look twice as
 big as he was, and four times as offensive.

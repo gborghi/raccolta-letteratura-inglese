@@ -14,27 +14,27 @@ tags:
 </nav>
 
 
-The word comradeship just now promises to become as fatuous as
+The word [[Comradeship|comradeship]] just now promises to become as fatuous as
 the word "affinity."  There are clubs of a Socialist sort where all
 the members, men and women, call each other "Comrade."  I have no
 serious emotions, hostile or otherwise, about this particular habit:
 at the worst it is conventionality, and at the best flirtation.
 I am convinced here only to point out a rational principle.
-If you choose to lump all flowers together, lilies and dahlias
+If you choose to lump all [[Flowers|flowers]] together, lilies and dahlias
 and tulips and chrysanthemums and call them all daisies,
 you will find that you have spoiled the very fine word daisy.
-If you choose to call every human attachment comradeship,
+If you choose to call every human attachment [[Comradeship|comradeship]],
 if you include under that name the respect of a youth for a
 venerable prophetess, the interest of a man in a beautiful woman
 who baffles him, the pleasure of a philosophical old fogy in a girl
-who is impudent and innocent, the end of the meanest quarrel
-or the beginning of the most mountainous love; if you are going
-to call all these comradeship, you will gain nothing, you will
+who is impudent and [[Innocent|innocent]], the end of the meanest quarrel
+or the beginning of the most mountainous [[Love|love]]; if you are going
+to call all these [[Comradeship|comradeship]], you will gain nothing, you will
 only lose a word.  Daisies are obvious and universal and open;
-but they are only one kind of flower.  Comradeship is obvious
+but they are only one kind of flower.  [[Comradeship]] is obvious
 and universal and open; but it is only one kind of affection;
 it has characteristics that would destroy any other kind.
-Anyone who has known true comradeship in a club or in a regiment,
+Anyone who has known true [[Comradeship|comradeship]] in a club or in a regiment,
 knows that it is impersonal.  There is a pedantic phrase used
 in debating clubs which is strictly true to the masculine emotion;
 they call it "speaking to the question."  Women speak to each other;
@@ -51,10 +51,10 @@ that is called the club.
 It is obvious that this cool and careless quality which is essential
 to the collective affection of males involves disadvantages and dangers.
 It leads to spitting; it leads to coarse speech; it must lead to
-these things so long as it is honorable; comradeship must be in some
-degree ugly.  The moment beauty is mentioned in male friendship,
+these things so long as it is honorable; [[Comradeship|comradeship]] must be in some
+degree ugly.  The moment [[Beauty|beauty]] is mentioned in male [[Friendship|friendship]],
 the nostrils are stopped with the smell of abominable things.
-Friendship must be physically dirty if it is to be morally clean.
+[[Friendship]] must be physically dirty if it is to be morally clean.
 It must be in its shirt sleeves.  The chaos of habits that always goes
 with males when left entirely to themselves has only one honorable cure;
 and that is the strict discipline of a monastery.  Anyone who has
@@ -75,25 +75,25 @@ III
 
 THE COMMON VISION
 
-Now this masculine love of an open and level camaraderie is
-the life within all democracies and attempts to govern by debate;
+Now this masculine [[Love|love]] of an open and level camaraderie is
+the life within all democracies and attempts to govern by [[debate]];
 without it the republic would be a dead formula.  Even as it is,
-of course, the spirit of democracy frequently differs widely
+of course, the spirit of [[democracy]] frequently differs widely
 from the letter, and a pothouse is often a better test than
-a Parliament.  Democracy in its human sense is not arbitrament
+a Parliament.  [[democracy|Democracy]] in its human sense is not arbitrament
 by the majority; it is not even arbitrament by everybody.
 It can be more nearly defined as arbitrament by anybody.
 I mean that it rests on that club habit of taking a total
 stranger for granted, of assuming certain things to be inevitably
 common to yourself and him.  Only the things that anybody
-may be presumed to hold have the full authority of democracy.
-Look out of the window and notice the first man who walks by.
+may be presumed to hold have the full authority of [[democracy]].
+Look out of the [[Window|window]] and notice the first man who walks by.
 The Liberals may have swept England with an over-whelming majority;
-but you would not stake a button that the man is a Liberal.  The Bible
+but you would not stake a button that the man is a Liberal.  The [[Bible]]
 may be read in all schools and respected in all law courts; but you
-would not bet a straw that he believes in the Bible.  But you would bet
+would not bet a straw that he believes in the [[Bible]].  But you would bet
 your week's wages, let us say, that he believes in wearing clothes.
-You would bet that he believes that physical courage is a fine thing,
+You would bet that he believes that physical [[Courage|courage]] is a fine thing,
 or that parents have authority over children.  Of course,
 he might be the millionth man who does not believe these things;
 if it comes to that, he might be the Bearded Lady dressed up as a man.
@@ -102,18 +102,18 @@ calculation of numbers.  People who hold these views are not a minority,
 but a monstrosity.  But of these universal dogmas that have full
 democratic authority the only test is this test of anybody.
 What you would observe before any newcomer in a tavern--that is
-the real English law.  The first man you see from the window,
-he is the King of England.
+the real English law.  The first man you see from the [[Window|window]],
+he is the [[King]] of England.
 
-The decay of taverns, which is but a part of the general decay
-of democracy, has undoubtedly weakened this masculine spirit
+The [[Decay|decay]] of taverns, which is but a part of the general [[Decay|decay]]
+of [[democracy]], has undoubtedly weakened this masculine spirit
 of equality.  I remember that a roomful of Socialists literally
 laughed when I told them that there were no two nobler words
-in all poetry than Public House.  They thought it was a joke.
+in all poetry than Public [[house|House]].  They thought it was a joke.
 Why they should think it a joke, since they want to make all houses
 public houses, I cannot imagine.  But if anyone wishes to see
 the real rowdy egalitarianism which is necessary (to males, at least)
-he can find it as well as anywhere in the great old tavern disputes
+he can find it as [[Well|well]] as anywhere in the great old tavern disputes
 which come down to us in such books as Boswell's Johnson.  It is
 worth while to mention that one name especially because the modern
 world in its morbidity has done it a strange injustice.
@@ -126,7 +126,7 @@ to wrangle with him.  His very brutality was based on the idea
 of an equal scrimmage, like that of football.  It is strictly true
 that he bawled and banged the table because he was a modest man.
 He was honestly afraid of being overwhelmed or even overlooked.
-Addison had exquisite manners and was the king of his company;
+Addison had exquisite manners and was the [[King|king]] of his company;
 he was polite to everybody; but superior to everybody;
 therefore he has been handed down forever in the immortal
 insult of Pope--

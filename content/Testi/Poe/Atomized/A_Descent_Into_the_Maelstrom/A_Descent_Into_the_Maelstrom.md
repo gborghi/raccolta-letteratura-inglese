@@ -1,5 +1,5 @@
 ---
-title: "A Descent Into the Maelstrom"
+title: "[[A Descent Into the Maelstrom]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/A-Descent-Into-the-Maelstrom-(Poe)"
@@ -13,10 +13,10 @@ tags:
 </nav>
 
 
-The ways of God in Nature, as in Providence, are not as our ways; 
+The ways of God in [[Nature]], as in [[Providence]], are not as our ways; 
   nor are the models that we frame any way commensurate to the
   vastness, profundity, and unsearchableness of His works, _which have
-  a depth in them greater than the well of Democritus_.
+  a depth in them greater than the [[Well|well]] of Democritus_.
 
 —_Joseph Glanville_.
 
@@ -24,31 +24,31 @@ The ways of God in Nature, as in Providence, are not as our ways;
       minutes the old man seemed too much exhausted to speak.
 
       “Not long ago,” said he at length, “and I could have guided you
-      on this route as well as the youngest of my sons; but, about
+      on this route as [[Well|well]] as the youngest of my sons; but, about
       three years past, there happened to me an event such as never
       happened to mortal man—or at least such as no man ever survived
       to tell of—and the six hours of deadly terror which I then
-      endured have broken me up body and soul. You suppose me a _very_
+      endured have broken me up [[Body|body]] and [[Soul|soul]]. You suppose me a _very_
       old man—but I am not. It took less than a single day to change
       these hairs from a jetty black to white, to weaken my limbs, and
       to unstring my nerves, so that I tremble at the least exertion,
-      and am frightened at a shadow. Do you know I can scarcely look
+      and am frightened at a [[Shadow|shadow]]. Do you know I can scarcely look
       over this little cliff without getting giddy?”
 
       The “little cliff,” upon whose edge he had so carelessly thrown
-      himself down to rest that the weightier portion of his body hung
+      himself down to rest that the weightier portion of his [[Body|body]] hung
       over it, while he was only kept from falling by the tenure of his
       elbow on its extreme and slippery edge—this “little cliff” arose,
       a sheer unobstructed precipice of black shining rock, some
       fifteen or sixteen hundred feet from the world of crags beneath
       us. Nothing would have tempted me to within half a dozen yards of
-      its brink. In truth so deeply was I excited by the perilous
+      its brink. In [[Truth|truth]] so deeply was I excited by the perilous
       position of my companion, that I fell at full length upon the
       ground, clung to the shrubs around me, and dared not even glance
       upward at the sky—while I struggled in vain to divest myself of
       the idea that the very foundations of the mountain were in danger
       from the fury of the winds. It was long before I could reason
-      myself into sufficient courage to sit up and look out into the
+      myself into sufficient [[Courage|courage]] to sit up and look out into the
       distance.
 
       “You must get over these fancies,” said the guide, “for I have
@@ -67,7 +67,7 @@ The ways of God in Nature, as in Providence, are not as our ways;
       I looked dizzily, and beheld a wide expanse of ocean, whose
       waters wore so inky a hue as to bring at once to my mind the
       Nubian geographer’s account of the _Mare Tenebrarum_. A panorama
-      more deplorably desolate no human imagination can conceive. To
+      more deplorably desolate no human [[Imagination|imagination]] can conceive. To
       the right and left, as far as the eye could reach, there lay
       outstretched, like ramparts of the world, lines of horridly black
       and beetling cliff, whose character of gloom was but the more
@@ -83,12 +83,12 @@ The ways of God in Nature, as in Providence, are not as our ways;
 
       The appearance of the ocean, in the space between the more
       distant island and the shore, had something very unusual about
-      it. Although, at the time, so strong a gale was blowing landward
-      that a brig in the remote offing lay to under a double-reefed
+      it. Although, at the [[Time|time]], so strong a gale was blowing landward
+      that a brig in the remote offing lay to under a [[Double|double]]-reefed
       trysail, and constantly plunged her whole hull out of sight,
       still there was here nothing like a regular swell, but only a
-      short, quick, angry cross dashing of water in every direction—as
-      well in the teeth of the wind as otherwise. Of foam there was
+      short, quick, angry [[Cross|cross]] dashing of [[Water|water]] in every direction—as
+      [[Well|well]] in the teeth of the [[Wind|wind]] as otherwise. Of foam there was
       little except in the immediate vicinity of the rocks.
 
       “The island in the distance,” resumed the old man, “is called by
@@ -99,7 +99,7 @@ The ways of God in Nature, as in Providence, are not as our ways;
       are the true names of the places—but why it has been thought
       necessary to name them at all, is more than either you or I can
       understand. Do you hear anything? Do you see any change in the
-      water?”
+      [[Water|water]]?”
 
       We had now been about ten minutes upon the top of Helseggen, to
       which we had ascended from the interior of Lofoden, so that we
@@ -110,7 +110,7 @@ The ways of God in Nature, as in Providence, are not as our ways;
       perceived that what seamen term the _chopping_ character of the
       ocean beneath us, was rapidly changing into a current which set
       to the eastward. Even while I gazed, this current acquired a
-      monstrous velocity. Each moment added to its speed—to its
+      monstrous velocity. Each moment added to its [[Speed|speed]]—to its
       headlong impetuosity. In five minutes the whole sea, as far as
       Vurrgh, was lashed into ungovernable fury; but it was between
       Moskoe and the coast that the main uproar held its sway. Here the
@@ -118,7 +118,7 @@ The ways of God in Nature, as in Providence, are not as our ways;
       conflicting channels, burst suddenly into phrensied
       convulsion—heaving, boiling, hissing—gyrating in gigantic and
       innumerable vortices, and all whirling and plunging on to the
-      eastward with a rapidity which water never elsewhere assumes
+      eastward with a rapidity which [[Water|water]] never elsewhere assumes
       except in precipitous descents.
 
       In a few minutes more, there came over the scene another radical
@@ -133,7 +133,7 @@ The ways of God in Nature, as in Providence, are not as our ways;
       diameter. The edge of the whirl was represented by a broad belt
       of gleaming spray; but no particle of this slipped into the mouth
       of the terrific funnel, whose interior, as far as the eye could
-      fathom it, was a smooth, shining, and jet-black wall of water,
+      fathom it, was a smooth, shining, and jet-black wall of [[Water|water]],
       inclined to the horizon at an angle of some forty-five degrees,
       speeding dizzily round and round with a swaying and sweltering
       motion, and sending forth to the winds an appalling voice, half
@@ -156,13 +156,13 @@ The ways of God in Nature, as in Providence, are not as our ways;
       either of the magnificence, or of the horror of the scene—or of
       the wild bewildering sense of _the novel_ which confounds the
       beholder. I am not sure from what point of view the writer in
-      question surveyed it, nor at what time; but it could neither have
-      been from the summit of Helseggen, nor during a storm. There are
+      question surveyed it, nor at what [[Time|time]]; but it could neither have
+      been from the summit of Helseggen, nor during a [[Storm|storm]]. There are
       some passages of his description, nevertheless, which may be
       quoted for their details, although their effect is exceedingly
       feeble in conveying an impression of the spectacle.
 
-      “Between Lofoden and Moskoe,” he says, “the depth of the water is
+      “Between Lofoden and Moskoe,” he says, “the depth of the [[Water|water]] is
       between thirty-six and forty fathoms; but on the other side,
       toward Ver (Vurrgh) this depth decreases so as not to afford a
       convenient passage for a vessel, without the risk of splitting on
@@ -171,14 +171,14 @@ The ways of God in Nature, as in Providence, are not as our ways;
       with a boisterous rapidity; but the roar of its impetuous ebb to
       the sea is scarce equalled by the loudest and most dreadful
       cataracts; the noise being heard several leagues off, and the
-      vortices or pits are of such an extent and depth, that if a ship
+      vortices or pits are of such an extent and depth, that if a [[Ship|ship]]
       comes within its attraction, it is inevitably absorbed and
-      carried down to the bottom, and there beat to pieces against the
-      rocks; and when the water relaxes, the fragments thereof are
+      carried down to the [[Bottom|bottom]], and there beat to pieces against the
+      rocks; and when the [[Water|water]] relaxes, the fragments thereof are
       thrown up again. But these intervals of tranquility are only at
       the turn of the ebb and flood, and in calm weather, and last but
       a quarter of an hour, its violence gradually returning. When the
-      stream is most boisterous, and its fury heightened by a storm, it
+      stream is most boisterous, and its fury heightened by a [[Storm|storm]], it
       is dangerous to come within a Norway mile of it. Boats, yachts,
       and ships have been carried away by not guarding against it
       before they were within its reach. It likewise happens
@@ -190,15 +190,15 @@ The ways of God in Nature, as in Providence, are not as our ways;
       down, while he roared terribly, so as to be heard on shore. Large
       stocks of firs and pine trees, after being absorbed by the
       current, rise again broken and torn to such a degree as if
-      bristles grew upon them. This plainly shows the bottom to consist
+      bristles grew upon them. This plainly shows the [[Bottom|bottom]] to consist
       of craggy rocks, among which they are whirled to and fro. This
       stream is regulated by the flux and reflux of the sea—it being
-      constantly high and low water every six hours. In the year 1645,
-      early in the morning of Sexagesima Sunday, it raged with such
+      constantly high and low [[Water|water]] every six hours. In the year 1645,
+      early in the morning of Sexagesima [[Sunday]], it raged with such
       noise and impetuosity that the very stones of the houses on the
       coast fell to the ground.”
 
-      In regard to the depth of the water, I could not see how this
+      In regard to the depth of the [[Water|water]], I could not see how this
       could have been ascertained at all in the immediate vicinity of
       the vortex. The “forty fathoms” must have reference only to
       portions of the channel close upon the shore either of Moskoe or
@@ -210,18 +210,18 @@ The ways of God in Nature, as in Providence, are not as our ways;
       Phlegethon below, I could not help smiling at the simplicity with
       which the honest Jonas Ramus records, as a matter difficult of
       belief, the anecdotes of the whales and the bears; for it
-      appeared to me, in fact, a self-evident thing, that the largest
-      ship of the line in existence, coming within the influence of
+      appeared to me, in fact, a [[Self|self]]-evident thing, that the largest
+      [[Ship|ship]] of the line in existence, coming within the influence of
       that deadly attraction, could resist it as little as a feather
       the hurricane, and must disappear bodily and at once.
 
       The attempts to account for the phenomenon—some of which, I
       remember, seemed to me sufficiently plausible in perusal—now wore
       a very different and unsatisfactory aspect. The idea generally
-      received is that this, as well as three smaller vortices among
+      received is that this, as [[Well|well]] as three smaller vortices among
       the Ferroe islands, “have no other cause than the collision of
       waves rising and falling, at flux and reflux, against a ridge of
-      rocks and shelves, which confines the water so that it
+      rocks and shelves, which confines the [[Water|water]] so that it
       precipitates itself like a cataract; and thus the higher the
       flood rises, the deeper must the fall be, and the natural result
       of all is a whirlpool or vortex, the prodigious suction of which
@@ -231,7 +231,7 @@ The ways of God in Nature, as in Providence, are not as our ways;
       penetrating the globe, and issuing in some very remote part—the
       Gulf of Bothnia being somewhat decidedly named in one instance.
       This opinion, idle in itself, was the one to which, as I gazed,
-      my imagination most readily assented; and, mentioning it to the
+      my [[Imagination|imagination]] most readily assented; and, mentioning it to the
       guide, I was rather surprised to hear him say that, although it
       was the view almost universally entertained of the subject by the
       Norwegians, it nevertheless was not his own. As to the former
@@ -242,7 +242,7 @@ The ways of God in Nature, as in Providence, are not as our ways;
 
       “You have had a good look at the whirl now,” said the old man,
       “and if you will creep round this crag, so as to get in its lee,
-      and deaden the roar of the water, I will tell you a story that
+      and deaden the roar of the [[Water|water]], I will tell you a story that
       will convince you I ought to know something of the Moskoe-ström.”
 
       I placed myself as desired, and he proceeded.
@@ -251,7 +251,7 @@ The ways of God in Nature, as in Providence, are not as our ways;
       about seventy tons burthen, with which we were in the habit of
       fishing among the islands beyond Moskoe, nearly to Vurrgh. In all
       violent eddies at sea there is good fishing, at proper
-      opportunities, if one has only the courage to attempt it; but
+      opportunities, if one has only the [[Courage|courage]] to attempt it; but
       among the whole of the Lofoden coastmen, we three were the only
       ones who made a regular business of going out to the islands, as
       I tell you. The usual grounds are a great way lower down to the
@@ -262,7 +262,7 @@ The ways of God in Nature, as in Providence, are not as our ways;
       day, what the more timid of the craft could not scrape together
       in a week. In fact, we made it a matter of desperate
       speculation—the risk of life standing instead of labor, and
-      courage answering for capital.
+      [[Courage|courage]] answering for capital.
 
       “We kept the smack in a cove about five miles higher up the coast
       than this; and it was our practice, in fine weather, to take
@@ -270,20 +270,20 @@ The ways of God in Nature, as in Providence, are not as our ways;
       channel of the Moskoe-ström, far above the pool, and then drop
       down upon anchorage somewhere near Otterholm, or Sandflesen,
       where the eddies are not so violent as elsewhere. Here we used to
-      remain until nearly time for slack-water again, when we weighed
-      and made for home. We never set out upon this expedition without
-      a steady side wind for going and coming—one that we felt sure
+      remain until nearly [[Time|time]] for slack-[[Water|water]] again, when we weighed
+      and made for [[Home|home]]. We never set out upon this expedition without
+      a steady side [[Wind|wind]] for going and coming—one that we felt sure
       would not fail us before our return—and we seldom made a
       mis-calculation upon this point. Twice, during six years, we were
-      forced to stay all night at anchor on account of a dead calm,
+      forced to stay all [[Night|night]] at anchor on account of a dead calm,
       which is a rare thing indeed just about here; and once we had to
-      remain on the grounds nearly a week, starving to death, owing to
+      remain on the grounds nearly a week, starving to [[Death|death]], owing to
       a gale which blew up shortly after our arrival, and made the
       channel too boisterous to be thought of. Upon this occasion we
       should have been driven out to sea in spite of everything, (for
       the whirlpools threw us round and round so violently, that, at
       length, we fouled our anchor and dragged it) if it had not been
-      that we drifted into one of the innumerable cross currents—here
+      that we drifted into one of the innumerable [[Cross|cross]] currents—here
       to-day and gone to-morrow—which drove us under the lee of Flimen,
       where, by good luck, we brought up.
 
@@ -292,15 +292,15 @@ The ways of God in Nature, as in Providence, are not as our ways;
       good weather—but we made shift always to run the gauntlet of the
       Moskoe-ström itself without accident; although at times my heart
       has been in my mouth when we happened to be a minute or so behind
-      or before the slack. The wind sometimes was not as strong as we
+      or before the slack. The [[Wind|wind]] sometimes was not as strong as we
       thought it at starting, and then we made rather less way than we
       could wish, while the current rendered the smack unmanageable. My
       eldest brother had a son eighteen years old, and I had two stout
       boys of my own. These would have been of great assistance at such
-      times, in using the sweeps, as well as afterward in fishing—but,
+      times, in using the sweeps, as [[Well|well]] as afterward in fishing—but,
       somehow, although we ran the risk ourselves, we had not the heart
       to let the young ones get into the danger—for, after all is said
-      and done, it _was_ a horrible danger, and that is the truth.
+      and done, it _was_ a horrible danger, and that is the [[Truth|truth]].
 
       “It is now within a few days of three years since what I am going
       to tell you occurred. It was on the tenth day of July, 18—, a day
@@ -313,29 +313,29 @@ The ways of God in Nature, as in Providence, are not as our ways;
       follow.
 
       “The three of us—my two brothers and myself—had crossed over to
-      the islands about two o’clock P. M., and had soon nearly loaded
+      the islands about two o’[[Clock|clock]] P. M., and had soon nearly loaded
       the smack with fine fish, which, we all remarked, were more
       plenty that day than we had ever known them. It was just seven,
-      _by my watch_, when we weighed and started for home, so as to
-      make the worst of the Ström at slack water, which we knew would
+      _by my watch_, when we weighed and started for [[Home|home]], so as to
+      make the worst of the Ström at slack [[Water|water]], which we knew would
       be at eight.
 
-      “We set out with a fresh wind on our starboard quarter, and for
-      some time spanked along at a great rate, never dreaming of
+      “We set out with a fresh [[Wind|wind]] on our starboard quarter, and for
+      some [[Time|time]] spanked along at a great rate, never dreaming of
       danger, for indeed we saw not the slightest reason to apprehend
       it. All at once we were taken aback by a breeze from over
       Helseggen. This was most unusual—something that had never
       happened to us before—and I began to feel a little uneasy,
-      without exactly knowing why. We put the boat on the wind, but
+      without exactly knowing why. We put the boat on the [[Wind|wind]], but
       could make no headway at all for the eddies, and I was upon the
       point of proposing to return to the anchorage, when, looking
       astern, we saw the whole horizon covered with a singular
-      copper-colored cloud that rose with the most amazing velocity.
+      copper-colored cloud that [[Rose|rose]] with the most amazing velocity.
 
       “In the meantime the breeze that had headed us off fell away, and
       we were dead becalmed, drifting about in every direction. This
       state of things, however, did not last long enough to give us
-      time to think about it. In less than a minute the storm was upon
+      [[Time|time]] to think about it. In less than a minute the [[Storm|storm]] was upon
       us—in less than two the sky was entirely overcast—and what with
       this and the driving spray, it became suddenly so dark that we
       could not see each other in the smack.
@@ -348,9 +348,9 @@ The ways of God in Nature, as in Providence, are not as our ways;
       brother, who had lashed himself to it for safety.
 
       “Our boat was the lightest feather of a thing that ever sat upon
-      water. It had a complete flush deck, with only a small hatch near
+      [[Water|water]]. It had a complete flush deck, with only a small hatch near
       the bow, and this hatch it had always been our custom to batten
-      down when about to cross the Ström, by way of precaution against
+      down when about to [[Cross|cross]] the Ström, by way of precaution against
       the chopping seas. But for this circumstance we should have
       foundered at once—for we lay entirely buried for some moments.
       How my elder brother escaped destruction I cannot say, for I
@@ -363,11 +363,11 @@ The ways of God in Nature, as in Providence, are not as our ways;
       think.
 
       “For some moments we were completely deluged, as I say, and all
-      this time I held my breath, and clung to the bolt. When I could
+      this [[Time|time]] I held my breath, and clung to the bolt. When I could
       stand it no longer I raised myself upon my knees, still keeping
       hold with my hands, and thus got my head clear. Presently our
       little boat gave herself a shake, just as a dog does in coming
-      out of the water, and thus rid herself, in some measure, of the
+      out of the [[Water|water]], and thus rid herself, in some measure, of the
       seas. I was now trying to get the better of the stupor that had
       come over me, and to collect my senses so as to see what was to
       be done, when I felt somebody grasp my arm. It was my elder
@@ -378,8 +378,8 @@ The ways of God in Nature, as in Providence, are not as our ways;
 
       “No one ever will know what my feelings were at that moment. I
       shook from head to foot as if I had had the most violent fit of
-      the ague. I knew what he meant by that one word well enough—I
-      knew what he wished to make me understand. With the wind that now
+      the ague. I knew what he meant by that one word [[Well|well]] enough—I
+      knew what he wished to make me understand. With the [[Wind|wind]] that now
       drove us on, we were bound for the whirl of the Ström, and
       nothing could save us!
 
@@ -388,20 +388,20 @@ The ways of God in Nature, as in Providence, are not as our ways;
       and then had to wait and watch carefully for the slack—but now we
       were driving right upon the pool itself, and in such a hurricane
       as this! ‘To be sure,’ I thought, ‘we shall get there just about
-      the slack—there is some little hope in that’—but in the next
-      moment I cursed myself for being so great a fool as to dream of
-      hope at all. I knew very well that we were doomed, had we been
-      ten times a ninety-gun ship.
+      the slack—there is some little [[Hope|hope]] in that’—but in the next
+      moment I cursed myself for being so great a [[Fool|fool]] as to dream of
+      [[Hope|hope]] at all. I knew very [[Well|well]] that we were doomed, had we been
+      ten times a ninety-gun [[Ship|ship]].
 
-      “By this time the first fury of the tempest had spent itself, or
+      “By this [[Time|time]] the first fury of the tempest had spent itself, or
       perhaps we did not feel it so much, as we scudded before it, but
       at all events the seas, which at first had been kept down by the
-      wind, and lay flat and frothing, now got up into absolute
-      mountains. A singular change, too, had come over the heavens.
+      [[Wind|wind]], and lay flat and frothing, now got up into absolute
+      [[Mountains|mountains]]. A singular change, too, had come over the heavens.
       Around in every direction it was still as black as pitch, but
       nearly overhead there burst out, all at once, a circular rift of
       clear sky—as clear as I ever saw—and of a deep bright blue—and
-      through it there blazed forth the full moon with a lustre that I
+      through it there blazed forth the full [[Moon|moon]] with a lustre that I
       never before knew her to wear. She lit up every thing about us
       with the greatest distinctness—but, oh God, what a scene it was
       to light up!
@@ -410,28 +410,28 @@ The ways of God in Nature, as in Providence, are not as our ways;
       some manner which I could not understand, the din had so
       increased that I could not make him hear a single word, although
       I screamed at the top of my voice in his ear. Presently he shook
-      his head, looking as pale as death, and held up one of his
+      his head, looking as pale as [[Death|death]], and held up one of his
       fingers, as if to say _‘listen! ‘_
 
       “At first I could not make out what he meant—but soon a hideous
       thought flashed upon me. I dragged my watch from its fob. It was
       not going. I glanced at its face by the moonlight, and then burst
-      into tears as I flung it far away into the ocean. _It had run
-      down at seven o’clock! We were behind the time of the slack, and
+      into [[Tears|tears]] as I flung it far away into the ocean. _It had run
+      down at seven o’[[Clock|clock]]! We were behind the [[Time|time]] of the slack, and
       the whirl of the Ström was in full fury!_
 
-      “When a boat is well built, properly trimmed, and not deep laden,
+      “When a boat is [[Well|well]] built, properly trimmed, and not deep laden,
       the waves in a strong gale, when she is going large, seem always
       to slip from beneath her—which appears very strange to a
       landsman—and this is what is called _riding_, in sea phrase.
 
-      “Well, so far we had ridden the swells very cleverly; but
+      “[[Well]], so far we had ridden the swells very cleverly; but
       presently a gigantic sea happened to take us right under the
-      counter, and bore us with it as it rose—up—up—as if into the sky.
+      counter, and bore us with it as it [[Rose|rose]]—up—up—as if into the sky.
       I would not have believed that any wave could rise so high. And
       then down we came with a sweep, a slide, and a plunge, that made
       me feel sick and dizzy, as if I was falling from some lofty
-      mountain-top in a dream. But while we were up I had thrown a
+      mountain-top in [[A Dream|a dream]]. But while we were up I had thrown a
       quick glance around—and that one glance was all sufficient. I saw
       our exact position in an instant. The Moskoe-Ström whirlpool was
       about a quarter of a mile dead ahead—but no more like the
@@ -445,14 +445,14 @@ The ways of God in Nature, as in Providence, are not as our ways;
       suddenly felt the waves subside, and were enveloped in foam. The
       boat made a sharp half turn to larboard, and then shot off in its
       new direction like a thunderbolt. At the same moment the roaring
-      noise of the water was completely drowned in a kind of shrill
+      noise of the [[Water|water]] was completely drowned in a kind of shrill
       shriek—such a sound as you might imagine given out by the
       waste-pipes of many thousand steam-vessels, letting off their
       steam all together. We were now in the belt of surf that always
       surrounds the whirl; and I thought, of course, that another
       moment would plunge us into the abyss, down which we could only
       see indistinctly on account of the amazing velocity with which we
-      wore borne along. The boat did not seem to sink into the water at
+      wore borne along. The boat did not seem to sink into the [[Water|water]] at
       all, but to skim like an air-bubble upon the surface of the
       surge. Her starboard side was next the whirl, and on the larboard
       arose the world of ocean we had left. It stood like a huge
@@ -460,11 +460,11 @@ The ways of God in Nature, as in Providence, are not as our ways;
 
       “It may appear strange, but now, when we were in the very jaws of
       the gulf, I felt more composed than when we were only approaching
-      it. Having made up my mind to hope no more, I got rid of a great
+      it. Having made up my mind to [[Hope|hope]] no more, I got rid of a great
       deal of that terror which unmanned me at first. I suppose it was
-      despair that strung my nerves.
+      [[Despair|despair]] that strung my nerves.
 
-      “It may look like boasting—but what I tell you is truth—I began
+      “It may look like boasting—but what I tell you is [[Truth|truth]]—I began
       to reflect how magnificent a thing it was to die in such a
       manner, and how foolish it was in me to think of so paltry a
       consideration as my own individual life, in view of so wonderful
@@ -474,22 +474,22 @@ The ways of God in Nature, as in Providence, are not as our ways;
       itself. I positively felt a _wish_ to explore its depths, even at
       the sacrifice I was going to make; and my principal grief was
       that I should never be able to tell my old companions on shore
-      about the mysteries I should see. These, no doubt, were singular
+      about the mysteries I should see. These, no [[Doubt|doubt]], were singular
       fancies to occupy a man’s mind in such extremity—and I have often
       thought since, that the revolutions of the boat around the pool
       might have rendered me a little light-headed.
 
       “There was another circumstance which tended to restore my
-      self-possession; and this was the cessation of the wind, which
+      [[Self|self]]-possession; and this was the cessation of the [[Wind|wind]], which
       could not reach us in our present situation—for, as you saw
       yourself, the belt of surf is considerably lower than the general
       bed of the ocean, and this latter now towered above us, a high,
       black, mountainous ridge. If you have never been at sea in a
       heavy gale, you can form no idea of the confusion of mind
-      occasioned by the wind and spray together. They blind, deafen,
+      occasioned by the [[Wind|wind]] and spray together. They blind, deafen,
       and strangle you, and take away all power of action or
       reflection. But we were now, in a great measure, rid of these
-      annoyances—just as death-condemned felons in prison are allowed
+      annoyances—just as [[Death|death]]-condemned felons in [[Prison|prison]] are allowed
       petty indulgences, forbidden them while their doom is yet
       uncertain.
 
@@ -497,8 +497,8 @@ The ways of God in Nature, as in Providence, are not as our ways;
       say. We careered round and round for perhaps an hour, flying
       rather than floating, getting gradually more and more into the
       middle of the surge, and then nearer and nearer to its horrible
-      inner edge. All this time I had never let go of the ring-bolt. My
-      brother was at the stern, holding on to a small empty water-cask
+      inner edge. All this [[Time|time]] I had never let go of the ring-bolt. My
+      brother was at the stern, holding on to a small empty [[Water|water]]-cask
       which had been securely lashed under the coop of the counter, and
       was the only thing on deck that had not been swept overboard when
       the gale first took us. As we approached the brink of the pit he
@@ -515,26 +515,26 @@ The ways of God in Nature, as in Providence, are not as our ways;
       fro, with the immense sweeps and swelters of the whirl. Scarcely
       had I secured myself in my new position, when we gave a wild
       lurch to starboard, and rushed headlong into the abyss. I
-      muttered a hurried prayer to God, and thought all was over.
+      muttered a hurried [[prayer]] to God, and thought all was over.
 
       “As I felt the sickening sweep of the descent, I had
       instinctively tightened my hold upon the barrel, and closed my
       eyes. For some seconds I dared not open them—while I expected
       instant destruction, and wondered that I was not already in my
-      death-struggles with the water. But moment after moment elapsed.
+      [[Death|death]]-struggles with the [[Water|water]]. But moment after moment elapsed.
       I still lived. The sense of falling had ceased; and the motion of
       the vessel seemed much as it had been before, while in the belt
       of foam, with the exception that she now lay more along. I took
-      courage, and looked once again upon the scene.
+      [[Courage|courage]], and looked once again upon the scene.
 
       “Never shall I forget the sensations of awe, horror, and
       admiration with which I gazed about me. The boat appeared to be
-      hanging, as if by magic, midway down, upon the interior surface
+      hanging, as if by [[Magic|magic]], midway down, upon the interior surface
       of a funnel vast in circumference, prodigious in depth, and whose
       perfectly smooth sides might have been mistaken for ebony, but
       for the bewildering rapidity with which they spun around, and for
       the gleaming and ghastly radiance they shot forth, as the rays of
-      the full moon, from that circular rift amid the clouds which I
+      the full [[Moon|moon]], from that circular rift amid the clouds which I
       have already described, streamed in a flood of golden glory along
       the black walls, and far away down into the inmost recesses of
       the abyss.
@@ -546,21 +546,21 @@ The ways of God in Nature, as in Providence, are not as our ways;
       unobstructed view, from the manner in which the smack hung on the
       inclined surface of the pool. She was quite upon an even
       keel—that is to say, her deck lay in a plane parallel with that
-      of the water—but this latter sloped at an angle of more than
+      of the [[Water|water]]—but this latter sloped at an angle of more than
       forty-five degrees, so that we seemed to be lying upon our
       beam-ends. I could not help observing, nevertheless, that I had
       scarcely more difficulty in maintaining my hold and footing in
       this situation, than if we had been upon a dead level; and this,
-      I suppose, was owing to the speed at which we revolved.
+      I suppose, was owing to the [[Speed|speed]] at which we revolved.
 
-      “The rays of the moon seemed to search the very bottom of the
+      “The rays of the [[Moon|moon]] seemed to search the very [[Bottom|bottom]] of the
       profound gulf; but still I could make out nothing distinctly, on
       account of a thick mist in which everything there was enveloped,
       and over which there hung a magnificent rainbow, like that narrow
       and tottering bridge which Mussulmen say is the only pathway
-      between Time and Eternity. This mist, or spray, was no doubt
+      between [[Time]] and [[Eternity]]. This mist, or spray, was no [[Doubt|doubt]]
       occasioned by the clashing of the great walls of the funnel, as
-      they all met together at the bottom—but the yell that went up to
+      they all met together at the [[Bottom|bottom]]—but the yell that went up to
       the Heavens from out of that mist, I dare not attempt to
       describe.
 
@@ -577,7 +577,7 @@ The ways of God in Nature, as in Providence, are not as our ways;
       object in the embrace of the whirl. Both above and below us were
       visible fragments of vessels, large masses of building timber and
       trunks of trees, with many smaller articles, such as pieces of
-      house furniture, broken boxes, barrels and staves. I have already
+      [[house]] furniture, broken boxes, barrels and staves. I have already
       described the unnatural curiosity which had taken the place of my
       original terrors. It appeared to grow upon me as I drew nearer
       and nearer to my dreadful doom. I now began to watch, with a
@@ -585,17 +585,17 @@ The ways of God in Nature, as in Providence, are not as our ways;
       company. I _must_ have been delirious, for I even sought
       _amusement_ in speculating upon the relative velocities of their
       several descents toward the foam below. ‘This fir tree,’ I found
-      myself at one time saying, ‘will certainly be the next thing that
+      myself at one [[Time|time]] saying, ‘will certainly be the next thing that
       takes the awful plunge and disappears,’—and then I was
-      disappointed to find that the wreck of a Dutch merchant ship
+      disappointed to find that the wreck of a Dutch merchant [[Ship|ship]]
       overtook it and went down before. At length, after making several
-      guesses of this nature, and being deceived in all—this fact—the
+      guesses of this [[Nature|nature]], and being deceived in all—this fact—the
       fact of my invariable miscalculation, set me upon a train of
       reflection that made my limbs again tremble, and my heart beat
       heavily once more.
 
-      “It was not a new terror that thus affected me, but the dawn of a
-      more exciting _hope_. This hope arose partly from memory, and
+      “It was not a new terror that thus affected me, but the [[Dawn|dawn]] of a
+      more exciting _hope_. This [[Hope|hope]] arose partly from [[Memory|memory]], and
       partly from present observation. I called to mind the great
       variety of buoyant matter that strewed the coast of Lofoden,
       having been absorbed and then thrown forth by the Moskoe-ström.
@@ -608,7 +608,7 @@ The ways of God in Nature, as in Providence, are not as our ways;
       ones which had been _completely absorbed_—that the others had
       entered the whirl at so late a period of the tide, or, for some
       reason, had descended so slowly after entering, that they did not
-      reach the bottom before the turn of the flood came, or of the
+      reach the [[Bottom|bottom]] before the turn of the flood came, or of the
       ebb, as the case might be. I conceived it possible, in either
       instance, that they might thus be whirled up again to the level
       of the ocean, without undergoing the fate of those which had been
@@ -617,7 +617,7 @@ The ways of God in Nature, as in Providence, are not as our ways;
       rule, the larger the bodies were, the more rapid their
       descent—the second, that, between two masses of equal extent, the
       one spherical, and the other _of any other shape_, the
-      superiority in speed of descent was with the sphere—the third,
+      superiority in [[Speed|speed]] of descent was with the sphere—the third,
       that, between two masses of equal size, the one cylindrical, and
       the other of any other shape, the cylinder was absorbed the more
       slowly. Since my escape, I have had several conversations on this
@@ -628,7 +628,7 @@ The ways of God in Nature, as in Providence, are not as our ways;
       consequence of the forms of the floating fragments—and showed me
       how it happened that a cylinder, swimming in a vortex, offered
       more resistance to its suction, and was drawn in with greater
-      difficulty than an equally bulky body, of any form whatever. (*1)
+      difficulty than an equally bulky [[Body|body]], of any form whatever. (*1)
 
       “There was one startling circumstance which went a great way in
       enforcing these observations, and rendering me anxious to turn
@@ -640,8 +640,8 @@ The ways of God in Nature, as in Providence, are not as our ways;
       from their original station.
 
       “I no longer hesitated what to do. I resolved to lash myself
-      securely to the water cask upon which I now held, to cut it loose
-      from the counter, and to throw myself with it into the water. I
+      securely to the [[Water|water]] cask upon which I now held, to cut it loose
+      from the counter, and to throw myself with it into the [[Water|water]]. I
       attracted my brother’s attention by signs, pointed to the
       floating barrels that came near us, and did everything in my
       power to make him understand what I was about to do. I thought at
@@ -665,14 +665,14 @@ The ways of God in Nature, as in Providence, are not as our ways;
       succession, and, bearing my loved brother with it, plunged
       headlong, at once and forever, into the chaos of foam below. The
       barrel to which I was attached sunk very little farther than half
-      the distance between the bottom of the gulf and the spot at which
+      the distance between the [[Bottom|bottom]] of the gulf and the spot at which
       I leaped overboard, before a great change took place in the
       character of the whirlpool. The slope of the sides of the vast
       funnel became momently less and less steep. The gyrations of the
       whirl grew, gradually, less and less violent. By degrees, the
-      froth and the rainbow disappeared, and the bottom of the gulf
+      froth and the rainbow disappeared, and the [[Bottom|bottom]] of the gulf
       seemed slowly to uprise. The sky was clear, the winds had gone
-      down, and the full moon was setting radiantly in the west, when I
+      down, and the full [[Moon|moon]] was setting radiantly in the west, when I
       found myself on the surface of the ocean, in full view of the
       shores of Lofoden, and above the spot where the pool of the
       Moskoe-ström _had been_. It was the hour of the slack—but the sea
@@ -681,11 +681,11 @@ The ways of God in Nature, as in Providence, are not as our ways;
       and in a few minutes was hurried down the coast into the
       ‘grounds’ of the fishermen. A boat picked me up—exhausted from
       fatigue—and (now that the danger was removed) speechless from the
-      memory of its horror. Those who drew me on board were my old
+      [[Memory|memory]] of its horror. Those who drew me on board were my old
       mates and daily companions—but they knew me no more than they
       would have known a traveller from the spirit-land. My hair which
       had been raven-black the day before, was as white as you see it
       now. They say too that the whole expression of my countenance had
       changed. I told them my story—they did not believe it. I now tell
-      it to _you_—and I can scarcely expect you to put more faith in it
+      it to _you_—and I can scarcely expect you to put more [[Faith|faith]] in it
       than did the merry fishermen of Lofoden.”

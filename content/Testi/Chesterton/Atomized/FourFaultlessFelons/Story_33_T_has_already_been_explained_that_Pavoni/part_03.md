@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — T has already been explained that Pavonia was governed on enlightened (part 3)"
+title: "[[FourFaultlessFelons]] — T has already been explained that Pavonia was governed on enlightened (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -24,9 +24,9 @@ machinery in action. Immediately in front of the crescent of houses was
 
 one of those picturesque but unmeaning scraps of ornamental shrubbery,
 
-with a railing round it, which are to be found in many city squares and
+with a railing round it, which are to be found in many [[City|city]] squares and
 
-secluded terraces. This clump of bushes threw a big shadow in the
+secluded terraces. This clump of bushes threw a big [[Shadow|shadow]] in the
 
 moonlight, and at one corner of the railing there lurked a plain-clothes
 
@@ -34,9 +34,9 @@ officer with a motor-cycle, ready to start on any errand.
 
 
 
-Suddenly, and in utter stillness, a small shadow seemed to detach itself
+Suddenly, and in utter stillness, a small [[Shadow|shadow]] seemed to detach itself
 
-from the big shadow and seemed to skim across the road as lightly as a
+from the big [[Shadow|shadow]] and seemed to skim across the [[Road|road]] as lightly as a
 
 dry leaf. Indeed it had something of the look of a dried leaf, for though
 
@@ -50,15 +50,15 @@ beard or whiskers or even, as a wilder fancy prompted, eyebrows; the legs
 
 were rather long than otherwise but moving in a bent and crooked fashion
 
-like a grasshopper's. His passage across the road was so swift and
+like a grasshopper's. His passage across the [[Road|road]] was so swift and
 
-surprising that the door of the house had opened to him and closed on him
+surprising that the door of the [[house]] had opened to him and closed on him
 
 again before the watchers had fully recovered from their first surprise.
 
 Then Simon looked at Grimm and said, with a faint smile: "The hurry is
 
-hospitality. That is the owner of the house."
+hospitality. That is the owner of the [[house]]."
 
 
 
@@ -74,13 +74,13 @@ They talk about a rising of the poor, but they cannot even rise so long
 
 as they are poor. Why, these four men would have nowhere to meet like
 
-this, if Lobb had not bought the house for them."
+this, if Lobb had not bought the [[house]] for them."
 
 
 
 "I should be the last to deny that money is useful," answered Grimm, "but
 
-money alone won't make either a revolution or a realm."
+money [[Alone|alone]] won't make either a revolution or a realm."
 
 
 
@@ -94,7 +94,7 @@ you can't help that, but really you are becoming romantic."
 
 soldier is ever romantic-not about soldiering, anyhow. But what I say is
 
-horse-sense, for all that. There is no soldiering without soldiers, and
+[[Horse|horse]]-sense, for all that. There is no soldiering without soldiers, and
 
 money doesn't make soldiers. You can give a mob a mountain of munitions,
 
@@ -102,27 +102,27 @@ and it's no good if they won't use them or can't use them."
 
 
 
-"Well, I should say. . . . Look out, here's somebody else."
+"[[Well]], I should say. . . . Look out, here's somebody else."
 
 
 
 The other had already become conscious of a dull clang of sound for which
 
-he could not immediately account, and the next moment another shadow had
+he could not immediately account, and the next moment another [[Shadow|shadow]] had
 
-passed across the scene of that shadow pantomime. This shadow had a
+passed across the scene of that [[Shadow|shadow]] pantomime. This [[Shadow|shadow]] had a
 
 sharply outlined and very high black hat like an elongated chimney-pot,
 
-and the moon gleamed for a moment on the green spectacles of Professor
+and the [[Moon|moon]] gleamed for a moment on the green spectacles of Professor
 
 Phocus of the National Museum. He also disappeared rapidly into the
 
-hospitable house.
+hospitable [[house]].
 
 
 
-"That's the Professor," said Simon. "Perhaps, as he is so learned, he
+"That's [[The Professor|the Professor]]," said Simon. "Perhaps, as he is so learned, he
 
 will lecture to them on munitions."
 
@@ -134,19 +134,19 @@ something else. Did you hear a sort of iron creak and clang just before
 
 he appeared? It must have been the gate in that railing over there. I
 
-believe they must both have come out of that dingy little garden. What
+believe they must both have come out of that dingy little [[Garden|garden]]. What
 
 could they be doing there?"
 
 
 
-"Nesting in the trees, perhaps; they look queer enough birds for
+"Nesting in the trees, perhaps; they look queer enough [[Birds|birds]] for
 
 anything," answered the other.
 
 
 
-"Well, the railing isn't high," said the police chief at last. "They may
+"[[Well]], the railing isn't high," said the police chief at last. "They may
 
 simply have clambered in and out again to confuse the scent, but it's rum
 
@@ -156,37 +156,37 @@ that my man over there didn't see them."
 
 A long interval followed, and the two companions pacing up and down to
 
-pass the time, fell again into their discussion. "What I mean," said
+pass the [[Time|time]], fell again into their discussion. "What I mean," said
 
 Grimm, "is that it's a bad blunder to reckon on material without moral.
 
-Money doesn't fight. Men fight. If the time comes when men won't fight,
+Money doesn't fight. Men fight. If the [[Time|time]] comes when men won't fight,
 
 even money won't make them. And somebody has got to teach them how. How
 
-are your revolutionary armies going to be drilled? Will Mr. Sebastian
+are your revolutionary armies going to be drilled? Will Mr. [[Sebastian]]
 
-drill them to recite poems? Will Mr. Lobb drill them to fill in
+drill them to recite [[Poems|poems]]? Will Mr. Lobb drill them to fill in
 
 pawn-tickets?"
 
 
 
-"Well," said Simon, making a sign of warning, "here is Mr. Sebastian; so
+"[[Well]]," said Simon, making a sign of warning, "here is Mr. [[Sebastian]]; so
 
 you had better ask him."
 
 
 
-This time it was unmistakable that the newcomer threw open the gate of
+This [[Time|time]] it was unmistakable that the newcomer threw open the gate of
 
-the little garden and crossed the road to the house. For Sebastian of the
+the little [[Garden|garden]] and crossed the [[Road|road]] to the [[house]]. For [[Sebastian]] of the
 
 purple beard and peacock scarf walked with a certain swagger, even when a
 
-conspirator apparently alone under the moon; the gate closed behind him
+conspirator apparently [[Alone|alone]] under the [[Moon|moon]]; the gate closed behind him
 
-with a ringing clash and even the door of the house seemed to open and
+with a ringing clash and even the door of the [[house]] seemed to open and
 
 shut again with a shade of greater pomposity.
 
@@ -212,19 +212,19 @@ his own bed. But Grimm remained fixed in his theory of the quadrilateral
 
 council, and after a long interval, so long that they almost looked for
 
-dawn in the east, they heard the gate move once more and a tall figure
+[[Dawn|dawn]] in the east, they heard the gate move once more and a tall figure
 
-approached the house. He was clad in a cape or cloak of grey that looked
+approached the [[house]]. He was clad in a cape or cloak of grey that looked
 
 silvery in the moonshine; and as it fell apart showed a gleam, and almost
 
 a blaze, of more brilliant silver; for it seemed to be some sort of white
 
-and dazzling uniform, with stars and clasps. Then the man turned his face
+and dazzling uniform, with [[Stars|stars]] and clasps. Then the man turned his face
 
-for a moment upwards to the moon, and the face was the final shock; for
+for a moment upwards to the [[Moon|moon]], and the face was the final shock; for
 
-it was darker than the glittering garments. Under the moon it looked
+it was darker than the glittering garments. Under the [[Moon|moon]] it looked
 
 almost blue, or at least took on those varied tints of grey and violet
 

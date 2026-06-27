@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — E.6.  You may convert to and distribute this work in any binary,"
+title: "[[LordKitchener]] — E.6.  You may [[convert]] to and distribute this work in any binary,"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/LordKitchener-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-1.E.6.  You may convert to and distribute this work in any binary,
+1.E.6.  You may [[convert]] to and distribute this work in any binary,
 
 compressed, marked up, nonproprietary or proprietary form, including any
 

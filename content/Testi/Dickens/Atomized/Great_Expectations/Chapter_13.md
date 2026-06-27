@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 13"
+title: "[[Great Expectations]] — Chapter 13"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -18,21 +18,21 @@ Chapter XIII.
 
 
 It was a trial to my feelings, on the next day but one, to see Joe
-arraying himself in his Sunday clothes to accompany me to Miss
-Havisham’s. However, as he thought his court-suit necessary to the
+arraying himself in his [[Sunday]] clothes to accompany me to Miss
+Havisham’s. However, as he thought his [[Court|court]]-suit necessary to the
 occasion, it was not for me to tell him that he looked far better in
 his working-dress; the rather, because I knew he made himself so
 dreadfully uncomfortable, entirely on my account, and that it was for
 me he pulled up his shirt-collar so very high behind, that it made the
-hair on the crown of his head stand up like a tuft of feathers.
+hair on the [[Crown|crown]] of his head stand up like a tuft of feathers.
 
-At breakfast-time my sister declared her intention of going to town
+At breakfast-[[Time|time]] my sister declared her intention of going to town
 with us, and being left at Uncle Pumblechook’s and called for “when we
 had done with our fine ladies”—a way of putting the case, from which
 Joe appeared inclined to augur the worst. The forge was shut up for the
-day, and Joe inscribed in chalk upon the door (as it was his custom to
+day, and Joe inscribed in [[chalk]] upon the door (as it was his custom to
 do on the very rare occasions when he was not at work) the monosyllable
-HOUT, accompanied by a sketch of an arrow supposed to be flying in the
+HOUT, accompanied by a [[Sketch|sketch]] of an arrow supposed to be flying in the
 direction he had taken.
 
 We walked to town, my sister leading the way in a very large beaver
@@ -40,25 +40,25 @@ bonnet, and carrying a basket like the Great Seal of England in plaited
 Straw, a pair of pattens, a spare shawl, and an umbrella, though it was
 a fine bright day. I am not quite clear whether these articles were
 carried penitentially or ostentatiously; but I rather think they were
-displayed as articles of property,—much as Cleopatra or any other
+displayed as articles of property,—much as [[Cleopatra]] or any other
 sovereign lady on the Rampage might exhibit her wealth in a pageant or
 procession.
 
 When we came to Pumblechook’s, my sister bounced in and left us. As it
-was almost noon, Joe and I held straight on to Miss Havisham’s house.
-Estella opened the gate as usual, and, the moment she appeared, Joe
+was almost [[Noon|noon]], Joe and I held straight on to [[Miss Havisham]]’s [[house]].
+[[Estella]] opened the gate as usual, and, the moment she appeared, Joe
 took his hat off and stood weighing it by the brim in both his hands;
 as if he had some urgent reason in his mind for being particular to
 half a quarter of an ounce.
 
-Estella took no notice of either of us, but led us the way that I knew
-so well. I followed next to her, and Joe came last. When I looked back
+[[Estella]] took no notice of either of us, but led us the way that I knew
+so [[Well|well]]. I followed next to her, and Joe came last. When I looked back
 at Joe in the long passage, he was still weighing his hat with the
 greatest care, and was coming after us in long strides on the tips of
 his toes.
 
-Estella told me we were both to go in, so I took Joe by the coat-cuff
-and conducted him into Miss Havisham’s presence. She was seated at her
+[[Estella]] told me we were both to go in, so I took Joe by the coat-cuff
+and conducted him into [[Miss Havisham]]’s presence. She was seated at her
 dressing-table, and looked round at us immediately.
 
 “Oh!” said she to Joe. “You are the husband of the sister of this boy?”
@@ -68,18 +68,18 @@ so like some extraordinary bird; standing as he did speechless, with
 his tuft of feathers ruffled, and his mouth open as if he wanted a
 worm.
 
-“You are the husband,” repeated Miss Havisham, “of the sister of this
+“You are the husband,” repeated [[Miss Havisham]], “of the sister of this
 boy?”
 
 It was very aggravating; but, throughout the interview, Joe persisted
-in addressing Me instead of Miss Havisham.
+in addressing Me instead of [[Miss Havisham]].
 
 “Which I meantersay, Pip,” Joe now observed in a manner that was at
 once expressive of forcible argumentation, strict confidence, and great
-politeness, “as I hup and married your sister, and I were at the time
+politeness, “as I hup and married your sister, and I were at the [[Time|time]]
 what you might call (if you was anyways inclined) a single man.”
 
-“Well!” said Miss Havisham. “And you have reared the boy, with the
+“[[Well]]!” said [[Miss Havisham]]. “And you have reared the boy, with the
 intention of taking him for your apprentice; is that so, Mr. Gargery?”
 
 “You know, Pip,” replied Joe, “as you and me were ever friends, and it
@@ -88,10 +88,10 @@ larks. Not but what, Pip, if you had ever made objections to the
 business,—such as its being open to black and sut, or such-like,—not
 but what they would have been attended to, don’t you see?”
 
-“Has the boy,” said Miss Havisham, “ever made any objection? Does he
+“Has the boy,” said [[Miss Havisham]], “ever made any objection? Does he
 like the trade?”
 
-“Which it is well beknown to yourself, Pip,” returned Joe,
+“Which it is [[Well|well]] beknown to yourself, Pip,” returned Joe,
 strengthening his former mixture of argumentation, confidence, and
 politeness, “that it were the wish of your own hart.” (I saw the idea
 suddenly break upon him that he would adapt his epitaph to the
@@ -99,22 +99,22 @@ occasion, before he went on to say) “And there weren’t no objection on
 your part, and Pip it were the great wish of your hart!”
 
 It was quite in vain for me to endeavour to make him sensible that he
-ought to speak to Miss Havisham. The more I made faces and gestures to
+ought to speak to [[Miss Havisham]]. The more I made faces and gestures to
 him to do it, the more confidential, argumentative, and polite, he
 persisted in being to Me.
 
-“Have you brought his indentures with you?” asked Miss Havisham.
+“Have you brought his indentures with you?” asked [[Miss Havisham]].
 
-“Well, Pip, you know,” replied Joe, as if that were a little
+“[[Well]], Pip, you know,” replied Joe, as if that were a little
 unreasonable, “you yourself see me put ’em in my ’at, and therefore you
 know as they are here.” With which he took them out, and gave them, not
-to Miss Havisham, but to me. I am afraid I was ashamed of the dear good
-fellow,—I _know_ I was ashamed of him,—when I saw that Estella stood at
-the back of Miss Havisham’s chair, and that her eyes laughed
+to [[Miss Havisham]], but to me. I am afraid I was ashamed of the dear good
+fellow,—I _know_ I was ashamed of him,—when I saw that [[Estella]] stood at
+the back of [[Miss Havisham]]’s chair, and that her eyes laughed
 mischievously. I took the indentures out of his hand and gave them to
-Miss Havisham.
+[[Miss Havisham]].
 
-“You expected,” said Miss Havisham, as she looked them over, “no
+“You expected,” said [[Miss Havisham]], as she looked them over, “no
 premium with the boy?”
 
 “Joe!” I remonstrated, for he made no reply at all. “Why don’t you
@@ -122,17 +122,17 @@ answer—”
 
 “Pip,” returned Joe, cutting me short as if he were hurt, “which I
 meantersay that were not a question requiring a answer betwixt yourself
-and me, and which you know the answer to be full well No. You know it
+and me, and which you know the answer to be full [[Well|well]] No. You know it
 to be No, Pip, and wherefore should I say it?”
 
-Miss Havisham glanced at him as if she understood what he really was
+[[Miss Havisham]] glanced at him as if she understood what he really was
 better than I had thought possible, seeing what he was there; and took
 up a little bag from the table beside her.
 
 “Pip has earned a premium here,” she said, “and here it is. There are
 five-and-twenty guineas in this bag. Give it to your master, Pip.”
 
-As if he were absolutely out of his mind with the wonder awakened in
+As if he were absolutely out of his mind with the [[Wonder|wonder]] awakened in
 him by her strange figure and the strange room, Joe, even at this pass,
 persisted in addressing me.
 
@@ -140,7 +140,7 @@ persisted in addressing me.
 received and grateful welcome, though never looked for, far nor near,
 nor nowheres. And now, old chap,” said Joe, conveying to me a
 sensation, first of burning and then of freezing, for I felt as if that
-familiar expression were applied to Miss Havisham,—“and now, old chap,
+familiar expression were applied to [[Miss Havisham]],—“and now, old chap,
 may we do our duty! May you and me do our duty, both on us, by one and
 another, and by them which your liberal present—have-conweyed—to be—for
 the satisfaction of mind-of—them as never—” here Joe showed that he
@@ -149,9 +149,9 @@ rescued himself with the words, “and from myself far be it!” These
 words had such a round and convincing sound for him that he said them
 twice.
 
-“Good-bye, Pip!” said Miss Havisham. “Let them out, Estella.”
+“Good-bye, Pip!” said [[Miss Havisham]]. “Let them out, [[Estella]].”
 
-“Am I to come again, Miss Havisham?” I asked.
+“Am I to come again, [[Miss Havisham]]?” I asked.
 
 “No. Gargery is your master now. Gargery! One word!”
 
@@ -164,8 +164,8 @@ How Joe got out of the room, I have never been able to determine; but I
 know that when he did get out he was steadily proceeding upstairs
 instead of coming down, and was deaf to all remonstrances until I went
 after him and laid hold of him. In another minute we were outside the
-gate, and it was locked, and Estella was gone. When we stood in the
-daylight alone again, Joe backed up against a wall, and said to me,
+gate, and it was locked, and [[Estella]] was gone. When we stood in the
+daylight [[Alone|alone]] again, Joe backed up against a wall, and said to me,
 “Astonishing!” And there he remained so long saying, “Astonishing” at
 intervals, so often, that I began to think his senses were never coming
 back. At length he prolonged his remark into “Pip, I do assure _you_
@@ -178,11 +178,11 @@ he invented a subtle and deep design. My reason is to be found in what
 took place in Mr. Pumblechook’s parlour: where, on our presenting
 ourselves, my sister sat in conference with that detested seedsman.
 
-“Well?” cried my sister, addressing us both at once. “And what’s
-happened to _you_? I wonder you condescend to come back to such poor
+“[[Well]]?” cried my sister, addressing us both at once. “And what’s
+happened to _you_? I [[Wonder|wonder]] you condescend to come back to such poor
 society as this, I am sure I do!”
 
-“Miss Havisham,” said Joe, with a fixed look at me, like an effort of
+“[[Miss Havisham]],” said Joe, with a fixed look at me, like an effort of
 remembrance, “made it wery partick’ler that we should give her—were it
 compliments or respects, Pip?”
 
@@ -195,14 +195,14 @@ J. Gargery—”
 too.
 
 “And wishing,” pursued Joe, with another fixed look at me, like another
-effort of remembrance, “that the state of Miss Havisham’s elth were
+effort of remembrance, “that the state of [[Miss Havisham]]’s elth were
 sitch as would have—allowed, were it, Pip?”
 
 “Of her having the pleasure,” I added.
 
 “Of ladies’ company,” said Joe. And drew a long breath.
 
-“Well!” cried my sister, with a mollified glance at Mr. Pumblechook.
+“[[Well]]!” cried my sister, with a mollified glance at Mr. Pumblechook.
 “She might have had the politeness to send that message at first, but
 it’s better late than never. And what did she give young Rantipole
 here?”
@@ -218,7 +218,7 @@ have know’d,” added Joe, with an appearance of reflection, “whether it
 were Joe, or Jorge.”
 
 My sister looked at Pumblechook: who smoothed the elbows of his wooden
-arm-chair, and nodded at her and at the fire, as if he had known all
+arm-chair, and nodded at her and at the [[Fire|fire]], as if he had known all
 about it beforehand.
 
 “And how much have you got?” asked my sister, laughing. Positively
@@ -226,8 +226,8 @@ laughing!
 
 “What would present company say to ten pound?” demanded Joe.
 
-“They’d say,” returned my sister, curtly, “pretty well. Not too much,
-but pretty well.”
+“They’d say,” returned my sister, curtly, “pretty [[Well|well]]. Not too much,
+but pretty [[Well|well]].”
 
 “It’s more than that, then,” said Joe.
 
@@ -243,7 +243,7 @@ in you! Go on!”
 
 “Handsome would be the word,” returned my sister.
 
-“Well, then,” said Joe, “It’s more than twenty pound.”
+“[[Well]], then,” said Joe, “It’s more than twenty pound.”
 
 That abject hypocrite, Pumblechook, nodded again, and said, with a
 patronizing laugh, “It’s more than that, Mum. Good again! Follow her
@@ -257,8 +257,8 @@ Pumblechook, rising to shake hands with her; “and it’s no more than
 your merits (as I said when my opinion was asked), and I wish you joy
 of the money!”
 
-If the villain had stopped here, his case would have been sufficiently
-awful, but he blackened his guilt by proceeding to take me into
+If the [[Villain|villain]] had stopped here, his case would have been sufficiently
+awful, but he blackened his [[Guilt|guilt]] by proceeding to take me into
 custody, with a right of patronage that left all his former criminality
 far behind.
 
@@ -272,13 +272,13 @@ money), “we’re deeply beholden to you.”
 
 “Never mind me, Mum,” returned that diabolical cornchandler. “A
 pleasure’s a pleasure all the world over. But this boy, you know; we
-must have him bound. I said I’d see to it—to tell you the truth.”
+must have him bound. I said I’d see to it—to tell you the [[Truth|truth]].”
 
 The Justices were sitting in the Town Hall near at hand, and we at once
 went over to have me bound apprentice to Joe in the Magisterial
 presence. I say we went over, but I was pushed over by Pumblechook,
 exactly as if I had that moment picked a pocket or fired a rick;
-indeed, it was the general impression in Court that I had been taken
+indeed, it was the general impression in [[Court]] that I had been taken
 red-handed; for, as Pumblechook shoved me before him through the crowd,
 I heard some people say, “What’s he done?” and others, “He’s a young
 ’un, too, but looks bad, don’t he?” One person of mild and benevolent
@@ -289,7 +289,7 @@ entitled TO BE READ IN MY CELL.
 The Hall was a queer place, I thought, with higher pews in it than a
 church,—and with people hanging over the pews looking on,—and with
 mighty Justices (one with a powdered head) leaning back in chairs, with
-folded arms, or taking snuff, or going to sleep, or writing, or reading
+folded arms, or taking snuff, or going to [[Sleep|sleep]], or writing, or reading
 the newspapers,—and with some shining black portraits on the walls,
 which my unartistic eye regarded as a composition of hardbake and
 sticking-plaster. Here, in a corner my indentures were duly signed and
@@ -306,10 +306,10 @@ serve her but we must have a dinner out of that windfall at the Blue
 Boar, and that Pumblechook must go over in his chaise-cart, and bring
 the Hubbles and Mr. Wopsle.
 
-It was agreed to be done; and a most melancholy day I passed. For, it
+It was agreed to be done; and a most [[Melancholy|melancholy]] day I passed. For, it
 inscrutably appeared to stand to reason, in the minds of the whole
 company, that I was an excrescence on the entertainment. And to make it
-worse, they all asked me from time to time,—in short, whenever they had
+worse, they all asked me from [[Time|time]] to [[Time|time]],—in short, whenever they had
 nothing else to do,—why I didn’t enjoy myself? And what could I
 possibly do then, but say I _was_ enjoying myself,—when I wasn’t!
 
@@ -317,25 +317,25 @@ However, they were grown up and had their own way, and they made the
 most of it. That swindling Pumblechook, exalted into the beneficent
 contriver of the whole occasion, actually took the top of the table;
 and, when he addressed them on the subject of my being bound, and had
-fiendishly congratulated them on my being liable to imprisonment if I
+fiendishly congratulated them on my being liable to [[Imprisonment|imprisonment]] if I
 played at cards, drank strong liquors, kept late hours or bad company,
 or indulged in other vagaries which the form of my indentures appeared
 to contemplate as next to inevitable, he placed me standing on a chair
 beside him to illustrate his remarks.
 
 My only other remembrances of the great festival are, That they
-wouldn’t let me go to sleep, but whenever they saw me dropping off,
+wouldn’t let me go to [[Sleep|sleep]], but whenever they saw me dropping off,
 woke me up and told me to enjoy myself. That, rather late in the
 evening Mr. Wopsle gave us Collins’s ode, and threw his bloodstained
-sword in thunder down, with such effect, that a waiter came in and
+[[Sword|sword]] in thunder down, with such effect, that a waiter came in and
 said, “The Commercials underneath sent up their compliments, and it
 wasn’t the Tumblers’ Arms.” That, they were all in excellent spirits on
-the road home, and sang, O Lady Fair! Mr. Wopsle taking the bass, and
+the [[Road|road]] [[Home|home]], and sang, O Lady Fair! Mr. Wopsle taking the bass, and
 asserting with a tremendously strong voice (in reply to the inquisitive
 bore who leads that piece of music in a most impertinent manner, by
 wanting to know all about everybody’s private affairs) that _he_ was
 the man with his white locks flowing, and that he was upon the whole
-the weakest pilgrim going.
+the weakest [[Pilgrim|pilgrim]] going.
 
 Finally, I remember that when I got into my little bedroom, I was truly
 wretched, and had a strong conviction on me that I should never like

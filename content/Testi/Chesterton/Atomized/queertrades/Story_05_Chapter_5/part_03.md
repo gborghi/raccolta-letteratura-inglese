@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 5 (part 3)"
+title: "[[queertrades]] — Chapter 5 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/queertrades-(Chesterton)"
@@ -31,7 +31,7 @@ that grass is green or God all-merciful. These things are truisms,
 and often private ones at that.  If Miss Chadd has written down under
 the eye of a strange woman in a post-office that her brother is off
 his head you may be perfectly certain that she did it because it
-was a matter of life and death, and she can think of no other way
+was a matter of life and [[Death|death]], and she can think of no other way
 of forcing us to come promptly."
 
 "It will force us of course," I said, smiling.
@@ -39,12 +39,12 @@ of forcing us to come promptly."
 "Oh, yes," he replied; "there is a cab-rank near."
 
 Basil scarcely said a word as we drove across Westminster Bridge,
-through Trafalgar Square, along Piccadilly, and up the Uxbridge Road.
+through Trafalgar Square, along Piccadilly, and up the Uxbridge [[Road]].
 Only as he was opening the gate he spoke.
 
 "I think you will take my word for it, my friend," he said;
 "this is one of the most queer and complicated and astounding
-incidents that ever happened in London or, for that matter,
+incidents that ever happened in [[London]] or, for that matter,
 in any high civilization."
 
 "I confess with the greatest sympathy and reverence that I don't quite
@@ -52,13 +52,13 @@ see it," I said.  "Is it so very extraordinary or complicated that a
 dreamy somnambulant old invalid who has always walked on the borders
 of the inconceivable should go mad under the shock of great joy?
 Is it so very extraordinary that a man with a head like a turnip
-and a soul like a spider's web should not find his strength equal
+and a [[Soul|soul]] like a spider's web should not find his strength equal
 to a confounding change of fortunes?  Is it, in short, so very
 extraordinary that James Chadd should lose his wits from excitement?"
 
 "It would not be extraordinary in the least," answered Basil,
 with placidity.  "It would not be extraordinary in the least,"
-he repeated, "if the professor had gone mad.  That was not
+he repeated, "if [[The Professor|the professor]] had gone mad.  That was not
 the extraordinary circumstance to which I referred."
 
 "What," I asked, stamping my foot, "was the extraordinary thing?"
@@ -72,20 +72,20 @@ way to be blocking the narrow passage and the little parlour.
 There was a general sense of their keeping something from view.
 They seemed like three black-clad ladies in some strange play
 of Maeterlinck, veiling the catastrophe from the audience in the manner
-of the Greek chorus.
+of the Greek [[Chorus|chorus]].
 
 "Sit down, won't you?" said one of them, in a voice that was
-somewhat rigid with pain.  "I think you had better be told first
+somewhat rigid with [[Pain|pain]].  "I think you had better be told first
 what has happened."
 
-Then, with her bleak face looking unmeaningly out of the window,
+Then, with her bleak face looking unmeaningly out of the [[Window|window]],
 she continued, in an even and mechanical voice:
 
 "I had better state everything that occurred just as it occurred.
 This morning I was clearing away the breakfast things,
 my sisters were both somewhat unwell, and had not come down.
 My brother had just gone out of the room, I believe, to fetch a book.
-He came back again, however, without it, and stood for some time
+He came back again, however, without it, and stood for some [[Time|time]]
 staring at the empty grate.  I said, `Were you looking for anything
 I could get?'  He did not answer, but this constantly happens,
 as he is often very abstracted.  I repeated my question,
@@ -120,21 +120,21 @@ describe circles with it in the air.  I rushed to the door and shouted
 for Christina.  I will not dwell on the dreadful hours that followed.
 All three of us talked to him, implored him to speak to us with
 appeals that might have brought back the dead, but he has done
-nothing but hop and dance and kick with a solemn silent face.
+nothing but hop and [[Dance|dance]] and kick with a solemn silent face.
 It looks as if his legs belonged to some one else or were possessed
-by devils.  He has never spoken to us from that time to this."
+by devils.  He has never spoken to us from that [[Time|time]] to this."
 
 "Where is he now?"  I said, getting up in some agitation.
-"We ought not to leave him alone."
+"We ought not to leave him [[Alone|alone]]."
 
 "Doctor Colman is with him," said Miss Chadd calmly.  "They are
-in the garden.  Doctor Colman thought the air would do him good.
+in the [[Garden|garden]].  Doctor Colman thought the air would do him good.
 And he can scarcely go into the street."
 
-Basil and I walked rapidly to the window which looked out on the garden.
-It was a small and somewhat smug suburban garden; the flower beds
+Basil and I walked rapidly to the [[Window|window]] which looked out on the [[Garden|garden]].
+It was a small and somewhat smug suburban [[Garden|garden]]; the flower beds
 a little too neat and like the pattern of a coloured carpet;
-but on this shining and opulent summer day even they had
+but on this shining and opulent [[Summer|summer]] day even they had
 the exuberance of something natural, I had almost said tropical.
 In the middle of a bright and verdant but painfully circular lawn
 stood two figures.  One of them was a small, sharp-looking man
@@ -143,13 +143,13 @@ who was talking very quietly and clearly, yet with a nervous twitch,
 as it were, in his face.  The other was our old friend,
 listening with his old forbearing expression and owlish eyes,
 the strong sunlight gleaming on his glasses as the lamplight had
-gleamed the night before, when the boisterous Basil had rallied
+gleamed the [[Night|night]] before, when the boisterous Basil had rallied
 him on his studious decorum.  But for one thing the figure of this
-morning might have been the identical figure of last night.
+morning might have been the identical figure of last [[Night|night]].
 That one thing was that while the face listened reposefully
 the legs were industriously dancing like the legs of a marionette.
-The neat flowers and the sunny glitter of the garden lent
+The neat [[Flowers|flowers]] and the sunny glitter of the [[Garden|garden]] lent
 an indescribable sharpness and incredibility to the prodigy--
 the prodigy of the head of a hermit and the legs of a harlequin.
 For miracles should always happen in broad daylight.
-The night makes them credible and therefore commonplace.
+The [[Night|night]] makes them credible and therefore commonplace.

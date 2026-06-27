@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 40 (part 4)"
+title: "[[Great Expectations]] — Chapter 40 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“I have been informed by a person named Abel Magwitch, that he is the
+“I have been informed by a person named [[Abel Magwitch]], that he is the
 benefactor so long unknown to me.”
 
 “That is the man,” said Mr. Jaggers, “in New South Wales.”
@@ -58,9 +58,9 @@ likely to obtain a pardon; that he was expatriated for the term of his
 natural life; and that his presenting himself in this country would be
 an act of felony, rendering him liable to the extreme penalty of the
 law. I gave Magwitch that caution,” said Mr. Jaggers, looking hard at
-me; “I wrote it to New South Wales. He guided himself by it, no doubt.”
+me; “I wrote it to New South Wales. He guided himself by it, no [[Doubt|doubt]].”
 
-“No doubt,” said I.
+“No [[Doubt|doubt]],” said I.
 
 “I have been informed by Wemmick,” pursued Mr. Jaggers, still looking
 hard at me, “that he has received a letter, under date Portsmouth, from
@@ -95,16 +95,16 @@ and to force out of their swollen throats, “O, what a man he is!”
 
 Wemmick was out, and though he had been at his desk he could have done
 nothing for me. I went straight back to the Temple, where I found the
-terrible Provis drinking rum and water and smoking negro-head, in
+terrible Provis drinking rum and [[Water|water]] and smoking negro-head, in
 safety.
 
-Next day the clothes I had ordered all came home, and he put them on.
+Next day the clothes I had ordered all came [[Home|home]], and he put them on.
 Whatever he put on, became him less (it dismally seemed to me) than
 what he had worn before. To my thinking, there was something in him
 that made it hopeless to attempt to disguise him. The more I dressed
 him and the better I dressed him, the more he looked like the slouching
 fugitive on the marshes. This effect on my anxious fancy was partly
-referable, no doubt, to his old face and manner growing more familiar
+referable, no [[Doubt|doubt]], to his old face and manner growing more familiar
 to me; but I believe too that he dragged one of his legs as if there
 were still a weight of iron on it, and that from head to foot there was
 Convict in the very grain of the man.
@@ -129,11 +129,11 @@ conceded the powder after overcoming the shorts. But I can compare the
 effect of it, when on, to nothing but the probable effect of rouge upon
 the dead; so awful was the manner in which everything in him that it
 was most desirable to repress, started through that thin layer of
-pretence, and seemed to come blazing out at the crown of his head. It
+pretence, and seemed to come blazing out at the [[Crown|crown]] of his head. It
 was abandoned as soon as tried, and he wore his grizzled hair cut
 short.
 
-Words cannot tell what a sense I had, at the same time, of the dreadful
+Words cannot tell what a sense I had, at the same [[Time|time]], of the dreadful
 mystery that he was to me. When he fell asleep of an evening, with his
 knotted hands clenching the sides of the easy-chair, and his bald head
 tattooed with deep wrinkles falling forward on his breast, I would sit
@@ -143,7 +143,7 @@ start up and fly from him. Every hour so increased my abhorrence of
 him, that I even think I might have yielded to this impulse in the
 first agonies of being so haunted, notwithstanding all he had done for
 me and the risk he ran, but for the knowledge that Herbert must soon
-come back. Once, I actually did start out of bed in the night, and
+come back. Once, I actually did start out of bed in the [[Night|night]], and
 begin to dress myself in my worst clothes, hurriedly intending to leave
 him there with everything else I possessed, and enlist for India as a
 private soldier.

@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 12: TWELVE (part 7)"
+title: "[[Martin Chuzzlewit]] — Chapter 12: TWELVE (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -27,9 +27,9 @@ Then Mr Pecksniff descended, and helped his daughters to alight; but
 neither he nor the young ladies took the slightest notice of Martin,
 who had advanced to offer his assistance, but was repulsed by Mr
 Pecksniff’s standing immediately before his person, with his back
-towards him. In the same manner, and in profound silence, Mr Pecksniff
+towards him. In the same manner, and in profound [[Silence|silence]], Mr Pecksniff
 handed his daughters into the gig; and following himself and taking the
-reins, drove off home.
+reins, drove off [[Home|home]].
 
 Lost in astonishment, Martin stood staring at the coach, and when the
 coach had driven away, at Mr Pinch, and the luggage, until the cart
@@ -48,21 +48,21 @@ without another word started off at such a pace, that Tom had some
 difficulty in keeping up with him.
 
 He had no care where he went, but walked through little heaps of mud
-and little pools of water with the utmost indifference; looking straight
+and little pools of [[Water|water]] with the utmost indifference; looking straight
 before him, and sometimes laughing in a strange manner within himself.
 Tom felt that anything he could say would only render him the more
 obstinate, and therefore trusted to Mr Pecksniff’s manner when they
-reached the house, to remove the mistaken impression under which he felt
+reached the [[house]], to remove the mistaken impression under which he felt
 convinced so great a favourite as the new pupil must unquestionably be
 labouring. But he was not a little amazed himself, when they did reach
-it, and entered the parlour where Mr Pecksniff was sitting alone
-before the fire, drinking some hot tea, to find that instead of taking
+it, and entered the parlour where Mr Pecksniff was sitting [[Alone|alone]]
+before the [[Fire|fire]], drinking some hot tea, to find that instead of taking
 favourable notice of his relative and keeping him, Mr Pinch, in the
 background, he did exactly the reverse, and was so lavish in his
 attentions to Tom, that Tom was thoroughly confounded.
 
 ‘Take some tea, Mr Pinch--take some tea,’ said Pecksniff, stirring the
-fire. ‘You must be very cold and damp. Pray take some tea, and come into
+[[Fire|fire]]. ‘You must be very cold and damp. Pray take some tea, and come into
 a warm place, Mr Pinch.’
 
 Tom saw that Martin looked at Mr Pecksniff as though he could have
@@ -84,14 +84,14 @@ Mr Pinch looked from master to pupil, and from pupil to master, and was
 so perplexed and dismayed that he wanted presence of mind to answer
 the question. In this awkward interval, Mr Pecksniff (who was perfectly
 conscious of Martin’s gaze, though he had never once glanced towards
-him) poked the fire very much, and when he couldn’t do that any more,
+him) poked the [[Fire|fire]] very much, and when he couldn’t do that any more,
 drank tea assiduously.
 
 ‘Now, Mr Pecksniff,’ said Martin at last, in a very quiet voice, ‘if you
 have sufficiently refreshed and recovered yourself, I shall be glad to
 hear what you mean by this treatment of me.’
 
-‘And what,’ said Mr Pecksniff, turning his eyes on Tom Pinch, even more
+‘And what,’ said Mr Pecksniff, turning his eyes on [[Tom Pinch]], even more
 placidly and gently than before, ‘what have YOU been doing, Thomas,
 humph?’
 
@@ -111,7 +111,7 @@ please. I ask you’--he raised his voice a little here--‘what you mean by
 this?’
 
 ‘I will talk to you, sir,’ said Mr Pecksniff in a severe voice, as he
-looked at him for the first time, ‘presently.’
+looked at him for the first [[Time|time]], ‘presently.’
 
 ‘You are very obliging,’ returned Martin; ‘presently will not do. I must
 trouble you to talk to me at once.’
@@ -131,9 +131,9 @@ Pecksniff’s cravat.
 
 ‘I lament to be obliged to say, sir,’ resumed Mr Pecksniff, ‘that it
 would be quite in keeping with your character if you did threaten me.
-You have deceived me. You have imposed upon a nature which you knew to
+You have deceived me. You have imposed upon a [[Nature|nature]] which you knew to
 be confiding and unsuspicious. You have obtained admission, sir,’ said
-Mr Pecksniff, rising, ‘to this house, on perverted statements and on
+Mr Pecksniff, rising, ‘to this [[house]], on perverted statements and on
 false pretences.’
 
 ‘Go on,’ said Martin, with a scornful smile. ‘I understand you now. What
@@ -151,7 +151,7 @@ man, seeking to do my duty in this carnal universe, and setting my face
 against all vice and treachery. I weep for your depravity, sir,’ said
 Mr Pecksniff; ‘I mourn over your corruption, I pity your voluntary
 withdrawal of yourself from the flowery paths of purity and peace;’ here
-he struck himself upon his breast, or moral garden; ‘but I cannot have
+he struck himself upon his breast, or moral [[Garden|garden]]; ‘but I cannot have
 a leper and a serpent for an inmate. Go forth,’ said Mr Pecksniff,
 stretching out his hand: ‘go forth, young man! Like all who know you, I
 renounce you!’

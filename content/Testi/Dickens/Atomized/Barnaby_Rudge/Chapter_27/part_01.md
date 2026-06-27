@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 27 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 27 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -18,8 +18,8 @@ Chapter 27
 
 
 Mr Haredale stood in the widow’s parlour with the door-key in his hand,
-gazing by turns at Mr Chester and at Gabriel Varden, and occasionally
-glancing downward at the key as in the hope that of its own accord
+gazing by turns at Mr Chester and at [[Gabriel Varden]], and occasionally
+glancing downward at the key as in the [[Hope|hope]] that of its own accord
 it would unlock the mystery; until Mr Chester, putting on his hat and
 gloves, and sweetly inquiring whether they were walking in the same
 direction, recalled him to himself.
@@ -27,20 +27,20 @@ direction, recalled him to himself.
 ‘No,’ he said. ‘Our roads diverge--widely, as you know. For the present,
 I shall remain here.’
 
-‘You will be hipped, Haredale; you will be miserable, melancholy,
+‘You will be hipped, Haredale; you will be miserable, [[Melancholy|melancholy]],
 utterly wretched,’ returned the other. ‘It’s a place of the very last
 description for a man of your temper. I know it will make you very
 miserable.’
 
 ‘Let it,’ said Mr Haredale, sitting down; ‘and thrive upon the thought.
-Good night!’
+Good [[Night|night]]!’
 
 Feigning to be wholly unconscious of the abrupt wave of the hand which
 rendered this farewell tantamount to a dismissal, Mr Chester retorted
 with a bland and heartfelt benediction, and inquired of Gabriel in what
 direction HE was going.
 
-‘Yours, sir, would be too much honour for the like of me,’ replied the
+‘Yours, sir, would be too much [[Honour|honour]] for the like of me,’ replied the
 locksmith, hesitating.
 
 ‘I wish you to remain here a little while, Varden,’ said Mr Haredale,
@@ -77,32 +77,32 @@ graciously dismissed him with a fervent blessing.
 you please!’ The chairmen were rendered quite vivacious by having such a
 courteous burden, and to Clerkenwell they went at a fair round trot.
 
-Alighting at a certain point he had indicated to them upon the road, and
+Alighting at a certain point he had indicated to them upon the [[Road|road]], and
 paying them something less than they expected from a fare of such gentle
 speech, he turned into the street in which the locksmith dwelt, and
-presently stood beneath the shadow of the Golden Key. Mr Tappertit, who
+presently stood beneath the [[Shadow|shadow]] of the Golden Key. Mr Tappertit, who
 was hard at work by lamplight, in a corner of the workshop, remained
 unconscious of his presence until a hand upon his shoulder made him
 start and turn his head.
 
-‘Industry,’ said Mr Chester, ‘is the soul of business, and the keystone
+‘Industry,’ said Mr Chester, ‘is the [[Soul|soul]] of business, and the keystone
 of prosperity. Mr Tappertit, I shall expect you to invite me to dinner
-when you are Lord Mayor of London.’
+when you are [[Lord Mayor]] of [[London]].’
 
 ‘Sir,’ returned the ‘prentice, laying down his hammer, and rubbing
-his nose on the back of a very sooty hand, ‘I scorn the Lord Mayor and
+his nose on the back of a very sooty hand, ‘I scorn the [[Lord Mayor]] and
 everything that belongs to him. We must have another state of society,
-sir, before you catch me being Lord Mayor. How de do, sir?’
+sir, before you catch me being [[Lord Mayor]]. How de do, sir?’
 
 ‘The better, Mr Tappertit, for looking into your ingenuous face once
-more. I hope you are well.’
+more. I [[Hope|hope]] you are [[Well|well]].’
 
-‘I am as well, sir,’ said Sim, standing up to get nearer to his ear, and
+‘I am as [[Well|well]], sir,’ said Sim, standing up to get nearer to his ear, and
 whispering hoarsely, ‘as any man can be under the aggrawations to which
 I am exposed. My life’s a burden to me. If it wasn’t for wengeance, I’d
 play at pitch and toss with it on the losing hazard.’
 
-‘Is Mrs Varden at home?’ said Mr Chester.
+‘Is Mrs Varden at [[Home|home]]?’ said Mr Chester.
 
 ‘Sir,’ returned Sim, eyeing him over with a look of concentrated
 expression,--‘she is. Did you wish to see her?’
@@ -133,7 +133,7 @@ let his father be any check or restraint on your domestic occupations,
 Miss Varden.’
 
 ‘Oh! Now! There! An’t I always a-saying it!’ exclaimed Miggs, clapping
-her hands. ‘If he an’t been and took Missis for her own daughter. Well,
+her hands. ‘If he an’t been and took Missis for her own daughter. [[Well]],
 she DO look like it, that she do. Only think of that, mim!’
 
 ‘Is it possible,’ said Mr Chester in his softest tones, ‘that this is

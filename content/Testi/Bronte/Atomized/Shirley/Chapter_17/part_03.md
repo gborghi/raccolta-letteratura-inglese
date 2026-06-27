@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 17 (part 3)"
+title: "[[Shirley]] — Chapter 17 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -16,11 +16,11 @@ tags:
 
 friend, Miss Mann, whom the fine weather had tempted, or some urgent
 
-friend had persuaded, to leave her drear solitude for one hour of social
+friend had persuaded, to leave her drear [[Solitude|solitude]] for one hour of social
 
 enjoyment. Miss Mann looked tired of standing; a lady in a yellow bonnet
 
-brought her a chair. Caroline knew well that _chapeau en satin jaune_;
+brought her a chair. Caroline knew [[Well|well]] that _chapeau en satin jaune_;
 
 she knew the black hair, and the kindly though rather opinionated and
 
@@ -30,7 +30,7 @@ knew even that _schall gris de lin_; she knew, in short, Hortense Moore,
 
 and she wanted to jump up and run to her and kiss her--to give her one
 
-embrace for her own sake and two for her brother's. She half rose,
+embrace for her own sake and two for her brother's. She half [[Rose|rose]],
 
 indeed, with a smothered exclamation, and perhaps--for the impulse was
 
@@ -52,19 +52,19 @@ she dared not trust herself to hazard a second glance; for his image
 
 struck on her vision with painful brightness, and pictured itself on her
 
-memory as vividly as if there daguerreotyped by a pencil of keen
+[[Memory|memory]] as vividly as if there daguerreotyped by a pencil of keen
 
-lightning.
+[[Lightning|lightning]].
 
 
 
-He moved on, and spoke to Miss Keeldar. Shirley, irritated by some
+He moved on, and spoke to Miss Keeldar. [[Shirley]], irritated by some
 
 unwelcome attentions from Sam Wynne, and by the fact of that gentleman
 
 being still seated on her gloves and handkerchief--and probably, also,
 
-by Moore's want of punctuality--was by no means in good humour. She
+by Moore's want of punctuality--was by no means in good [[Humour|humour]]. She
 
 first shrugged her shoulders at him, and then she said a bitter word or
 
@@ -84,7 +84,7 @@ gentle pressure indicated the latter.
 
 
 
-"You may sit where you can now, Mr. Moore," said Shirley, also smiling.
+"You may sit where you can now, Mr. Moore," said [[Shirley]], also smiling.
 
 "You see there is not an inch of room for you here; but I discern plenty
 
@@ -102,7 +102,7 @@ took a turn down the long room, pausing in his walk to interchange
 
 greetings with other gentlemen in his own placeless predicament; but
 
-still he came back to the magnet, Shirley, bringing with him, each time
+still he came back to the magnet, [[Shirley]], bringing with him, each [[Time|time]]
 
 he returned, observations it was necessary to whisper in her ear.
 
@@ -122,7 +122,7 @@ the tables, and announced distinctly that she expected to faint if the
 
 present state of things continued. Mr. Sam offered to accompany her into
 
-the open air; just the way to give her her death of cold, she alleged.
+the open air; just the way to give her her [[Death|death]] of cold, she alleged.
 
 In short, his post became untenable; and having swallowed his quantum of
 
@@ -138,7 +138,7 @@ large corn-factor, Timothy Ramsden, Esq., happened to be nearer; and
 
 feeling himself tired of standing, he advanced to fill the vacant seat.
 
-Shirley's expedients did not fail her. A sweep of her scarf upset her
+[[Shirley]]'s expedients did not fail her. A sweep of her scarf upset her
 
 teacup: its contents were shared between the bench and her own satin
 
@@ -146,7 +146,7 @@ dress. Of course, it became necessary to call a waiter to remedy the
 
 mischief. Mr. Ramsden, a stout, puffy gentleman, as large in person as
 
-he was in property, held aloof from the consequent commotion. Shirley,
+he was in property, held aloof from the consequent commotion. [[Shirley]],
 
 usually almost culpably indifferent to slight accidents affecting dress,
 
@@ -162,9 +162,9 @@ the spot, he turned on his heel, and beat a heavy retreat.
 
 Moore at last returned. Calmly surveying the bustle, and somewhat
 
-quizzically scanning Shirley's enigmatical-looking countenance, he
+quizzically scanning [[Shirley]]'s enigmatical-looking countenance, he
 
-remarked that in truth this was the hottest end of the room, that he
+remarked that in [[Truth|truth]] this was the hottest end of the room, that he
 
 found a climate there calculated to agree with none but cool
 
@@ -172,7 +172,7 @@ temperaments like his own; and putting the waiters, the napkins, the
 
 satin robe--the whole turmoil, in short--to one side, he installed
 
-himself where destiny evidently decreed he should sit. Shirley subsided;
+himself where destiny evidently decreed he should sit. [[Shirley]] subsided;
 
 her features altered their lines; the raised knit brow and inexplicable
 
@@ -180,7 +180,7 @@ curve of the mouth became straight again; wilfulness and roguery gave
 
 place to other expressions; and all the angular movements with which she
 
-had vexed the soul of Sam Wynne were conjured to rest as by a charm.
+had vexed the [[Soul|soul]] of Sam Wynne were conjured to rest as by a charm.
 
 Still no gracious glance was cast on Moore. On the contrary, he was
 
@@ -188,7 +188,7 @@ accused of giving her a world of trouble, and roundly charged with being
 
 the cause of depriving her of the esteem of Mr. Ramsden and the
 
-invaluable friendship of Mr. Samuel Wynne.
+invaluable [[Friendship|friendship]] of Mr. Samuel Wynne.
 
 
 

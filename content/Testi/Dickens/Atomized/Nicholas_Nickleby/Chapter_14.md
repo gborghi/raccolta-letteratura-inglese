@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 14"
+title: "[[Nicholas Nickleby]] — Chapter 14"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -20,14 +20,14 @@ Having the Misfortune to treat of none but Common People, is necessarily
 of a Mean and Vulgar Character
 
 
-In that quarter of London in which Golden Square is situated, there is
+In that quarter of [[London]] in which Golden Square is situated, there is
 a bygone, faded, tumble-down street, with two irregular rows of tall
 meagre houses, which seem to have stared each other out of countenance
-years ago. The very chimneys appear to have grown dismal and melancholy,
+years ago. The very chimneys appear to have grown dismal and [[Melancholy|melancholy]],
 from having had nothing better to look at than the chimneys over the
 way. Their tops are battered, and broken, and blackened with smoke; and,
 here and there, some taller stack than the rest, inclining heavily to
-one side, and toppling over the roof, seems to meditate taking revenge
+one side, and toppling over the roof, seems to meditate taking [[Revenge|revenge]]
 for half a century’s neglect, by crushing the inhabitants of the garrets
 beneath.
 
@@ -42,7 +42,7 @@ scarcely raise a crow among them. The only one with anything approaching
 to a voice, is an aged bantam at the baker’s; and even he is hoarse, in
 consequence of bad living in his last place.
 
-To judge from the size of the houses, they have been, at one time,
+To judge from the size of the houses, they have been, at one [[Time|time]],
 tenanted by persons of better condition than their present occupants;
 but they are now let off, by the week, in floors or rooms, and every
 door has almost as many plates or bell-handles as there are apartments
@@ -56,17 +56,17 @@ to the full-grown girl and half-gallon can.
 In the parlour of one of these houses, which was perhaps a thought
 dirtier than any of its neighbours; which exhibited more bell-handles,
 children, and porter pots, and caught in all its freshness the first
-gust of the thick black smoke that poured forth, night and day, from a
+gust of the thick black smoke that poured forth, [[Night|night]] and day, from a
 large brewery hard by; hung a bill, announcing that there was yet one
 room to let within its walls, though on what story the vacant room could
 be--regard being had to the outward tokens of many lodgers which the
-whole front displayed, from the mangle in the kitchen window to the
+whole front displayed, from the mangle in the kitchen [[Window|window]] to the
 flower-pots on the parapet--it would have been beyond the power of a
 calculating boy to discover.
 
 The common stairs of this mansion were bare and carpetless; but a
 curious visitor who had to climb his way to the top, might have observed
-that there were not wanting indications of the progressive poverty
+that there were not wanting indications of the progressive [[Poverty|poverty]]
 of the inmates, although their rooms were shut. Thus, the first-floor
 lodgers, being flush of furniture, kept an old mahogany table--real
 mahogany--on the landing-place outside, which was only taken in, when
@@ -93,7 +93,7 @@ seemed moreover as though the speaker had uttered them from the interior
 of a mug or other drinking vessel; but they were in the voice of Newman,
 and conveyed a reply in the affirmative.
 
-‘A nasty night, Mr. Noggs!’ said the man in the nightcap, stepping in to
+‘A nasty [[Night|night]], Mr. Noggs!’ said the man in the nightcap, stepping in to
 light his candle.
 
 ‘Does it rain?’ asked Newman.
@@ -103,19 +103,19 @@ light his candle.
 ‘It doesn’t take much to wet you and me through, Mr. Crowl,’ said Newman,
 laying his hand upon the lappel of his threadbare coat.
 
-‘Well; and that makes it the more vexatious,’ observed Mr. Crowl, in the
+‘[[Well]]; and that makes it the more vexatious,’ observed Mr. Crowl, in the
 same pettish tone.
 
 Uttering a low querulous growl, the speaker, whose harsh countenance was
-the very epitome of selfishness, raked the scanty fire nearly out of
+the very epitome of selfishness, raked the scanty [[Fire|fire]] nearly out of
 the grate, and, emptying the glass which Noggs had pushed towards him,
 inquired where he kept his coals.
 
-Newman Noggs pointed to the bottom of a cupboard, and Mr. Crowl, seizing
+[[Newman Noggs]] pointed to the [[Bottom|bottom]] of a cupboard, and Mr. Crowl, seizing
 the shovel, threw on half the stock: which Noggs very deliberately took
 off again, without saying a word.
 
-‘You have not turned saving, at this time of day, I hope?’ said Crowl.
+‘You have not turned saving, at this [[Time|time]] of day, I [[Hope|hope]]?’ said Crowl.
 
 Newman pointed to the empty glass, as though it were a sufficient
 refutation of the charge, and briefly said that he was going downstairs
@@ -131,13 +131,13 @@ couldn’t come, and make up my mind to spend the evening with you!’
 
 ‘I was obliged to go,’ said Newman. ‘They would have me.’
 
-‘Well; but what’s to become of me?’ urged the selfish man, who never
+‘[[Well]]; but what’s to become of me?’ urged the selfish man, who never
 thought of anybody else. ‘It’s all your fault. I’ll tell you what--I’ll
-sit by your fire till you come back again.’
+sit by your [[Fire|fire]] till you come back again.’
 
 Newman cast a despairing glance at his small store of fuel, but, not
-having the courage to say no--a word which in all his life he never had
-said at the right time, either to himself or anyone else--gave way to
+having the [[Courage|courage]] to say no--a word which in all his life he never had
+said at the right [[Time|time]], either to himself or anyone else--gave way to
 the proposed arrangement. Mr. Crowl immediately went about making himself
 as comfortable, with Newman Nogg’s means, as circumstances would admit
 of his being made.
@@ -148,7 +148,7 @@ turner in ivory, who was looked upon as a person of some consideration
 on the premises, inasmuch as he occupied the whole of the first floor,
 comprising a suite of two rooms. Mrs. Kenwigs, too, was quite a lady in
 her manners, and of a very genteel family, having an uncle who collected
-a water-rate; besides which distinction, the two eldest of her little
+a [[Water|water]]-rate; besides which distinction, the two eldest of her little
 girls went twice a week to a dancing school in the neighbourhood, and
 had flaxen hair, tied with blue ribbons, hanging in luxuriant pigtails
 down their backs; and wore little white trousers with frills round the
@@ -163,8 +163,8 @@ grateful commemoration of the same, Mrs. Kenwigs had invited a few select
 friends to cards and a supper in the first floor, and had put on a new
 gown to receive them in: which gown, being of a flaming colour and made
 upon a juvenile principle, was so successful that Mr. Kenwigs said the
-eight years of matrimony and the five children seemed all a dream, and
-Mrs. Kenwigs younger and more blooming than on the very first Sunday he
+eight years of matrimony and the five children seemed all [[A Dream|a dream]], and
+Mrs. Kenwigs younger and more blooming than on the very first [[Sunday]] he
 had kept company with her.
 
 Beautiful as Mrs. Kenwigs looked when she was dressed though, and so
@@ -172,7 +172,7 @@ stately that you would have supposed she had a cook and housemaid
 at least, and nothing to do but order them about, she had a world
 of trouble with the preparations; more, indeed, than she, being of a
 delicate and genteel constitution, could have sustained, had not the
-pride of housewifery upheld her. At last, however, all the things that
+[[Pride|pride]] of housewifery upheld her. At last, however, all the things that
 had to be got together were got together, and all the things that had to
 be got out of the way were got out of the way, and everything was ready,
 and the collector himself having promised to come, fortune smiled upon
@@ -190,15 +190,15 @@ young lady, was a young man, who had known Mr. Kenwigs when he was a
 bachelor, and was much esteemed by the ladies, as bearing the reputation
 of a rake. To these were added a newly-married couple, who had visited
 Mr. and Mrs. Kenwigs in their courtship; and a sister of Mrs. Kenwigs’s,
-who was quite a beauty; besides whom, there was another young man,
+who was quite a [[Beauty|beauty]]; besides whom, there was another young man,
 supposed to entertain honourable designs upon the lady last mentioned;
 and Mr. Noggs, who was a genteel person to ask, because he had been a
 gentleman once. There were also an elderly lady from the back-parlour,
 and one more young lady, who, next to the collector, perhaps was the
-great lion of the party, being the daughter of a theatrical fireman, who
+great [[Lion|lion]] of the party, being the daughter of a theatrical fireman, who
 ‘went on’ in the pantomime, and had the greatest turn for the stage that
 was ever known, being able to sing and recite in a manner that brought
-the tears into Mrs. Kenwigs’s eyes. There was only one drawback upon
+the [[Tears|tears]] into Mrs. Kenwigs’s eyes. There was only one drawback upon
 the pleasure of seeing such friends, and that was, that the lady in
 the back-parlour, who was very fat, and turned of sixty, came in a
 low book-muslin dress and short kid gloves, which so exasperated Mrs
@@ -226,7 +226,7 @@ creature as ever breathed.’
 
 ‘The kindest-hearted man as ever was,’ said Kenwigs.
 
-‘It goes to his heart, I believe, to be forced to cut the water off,
+‘It goes to his heart, I believe, to be forced to cut the [[Water|water]] off,
 when the people don’t pay,’ observed the bachelor friend, intending a
 joke.
 
@@ -241,9 +241,9 @@ be sneered at--it is the fault of his elewated sitiwation, and not of
 himself. Mrs. Kenwigs’s relation is a public man, and that he knows,
 George, and that he can bear; but putting Mrs. Kenwigs out of the
 question (if I COULD put Mrs. Kenwigs out of the question on such an
-occasion as this), I have the honour to be connected with the collector
-by marriage; and I cannot allow these remarks in my--’ Mr. Kenwigs was
-going to say ‘house,’ but he rounded the sentence with ‘apartments’.
+occasion as this), I have the [[Honour|honour]] to be connected with the collector
+by [[Marriage|marriage]]; and I cannot allow these remarks in my--’ Mr. Kenwigs was
+going to say ‘[[house]],’ but he rounded the sentence with ‘apartments’.
 
 At the conclusion of these observations, which drew forth evidences
 of acute feeling from Mrs. Kenwigs, and had the intended effect of
@@ -261,7 +261,7 @@ have been carved out of LIGNUM VITAE, for anything that appeared to the
 contrary, was led playfully in by Miss Morleena Kenwigs, regarding
 whose uncommon Christian name it may be here remarked that it had been
 invented and composed by Mrs. Kenwigs previous to her first lying-in, for
-the special distinction of her eldest child, in case it should prove a
+the special distinction of her eldest [[Child|child]], in case it should prove a
 daughter.
 
 ‘Oh, uncle, I am SO glad to see you,’ said Mrs. Kenwigs, kissing the
@@ -270,8 +270,8 @@ collector affectionately on both cheeks. ‘So glad!’
 ‘Many happy returns of the day, my dear,’ replied the collector,
 returning the compliment.
 
-Now, this was an interesting thing. Here was a collector of water-rates,
-without his book, without his pen and ink, without his double knock,
+Now, this was an interesting thing. Here was a collector of [[Water|water]]-rates,
+without his book, without his pen and ink, without his [[Double|double]] knock,
 without his intimidation, kissing--actually kissing--an agreeable
 female, and leaving taxes, summonses, notices that he had called, or
 announcements that he would never call again, for two quarters’ due,
@@ -281,7 +281,7 @@ winks with which they expressed their gratification at finding so much
 humanity in a tax-gatherer.
 
 ‘Where will you sit, uncle?’ said Mrs. Kenwigs, in the full glow of
-family pride, which the appearance of her distinguished relation
+family [[Pride|pride]], which the appearance of her distinguished relation
 occasioned.
 
 ‘Anywheres, my dear,’ said the collector, ‘I am not particular.’
@@ -290,12 +290,12 @@ Not particular! What a meek collector! If he had been an author, who
 knew his place, he couldn’t have been more humble.
 
 ‘Mr. Lillyvick,’ said Kenwigs, addressing the collector, ‘some friends
-here, sir, are very anxious for the honour of--thank you--Mr. and Mrs
+here, sir, are very anxious for the [[Honour|honour]] of--thank you--Mr. and Mrs
 Cutler, Mr. Lillyvick.’
 
 ‘Proud to know you, sir,’ said Mr. Cutler; ‘I’ve heerd of you very
 often.’ These were not mere words of ceremony; for, Mr. Cutler, having
-kept house in Mr. Lillyvick’s parish, had heard of him very often indeed.
+kept [[house]] in Mr. Lillyvick’s parish, had heard of him very often indeed.
 His attention in calling had been quite extraordinary.
 
 ‘George, you know, I think, Mr. Lillyvick,’ said Kenwigs; ‘lady from
@@ -304,9 +304,9 @@ Lillyvick. Mr. Lillyvick--Miss Petowker of the Theatre Royal, Drury Lane.
 Very glad to make two public characters acquainted! Mrs. Kenwigs, my
 dear, will you sort the counters?’
 
-Mrs. Kenwigs, with the assistance of Newman Noggs, (who, as he performed
+Mrs. Kenwigs, with the assistance of [[Newman Noggs]], (who, as he performed
 sundry little acts of kindness for the children, at all times and
-seasons, was humoured in his request to be taken no notice of, and was
+[[Seasons|seasons]], was humoured in his request to be taken no notice of, and was
 merely spoken about, in a whisper, as the decayed gentleman), did as he
 was desired; and the greater part of the guests sat down to speculation,
 while Newman himself, Mrs. Kenwigs, and Miss Petowker of the Theatre
@@ -314,7 +314,7 @@ Royal Drury Lane, looked after the supper-table.
 
 While the ladies were thus busying themselves, Mr. Lillyvick was intent
 upon the game in progress, and as all should be fish that comes to a
-water-collector’s net, the dear old gentleman was by no means scrupulous
+[[Water|water]]-collector’s net, the dear old gentleman was by no means scrupulous
 in appropriating to himself the property of his neighbours, which, on
 the contrary, he abstracted whenever an opportunity presented itself,
 smiling good-humouredly all the while, and making so many condescending
@@ -328,29 +328,29 @@ were summarily banished, the cloth was laid with much elegance, and a
 pair of boiled fowls, a large piece of pork, apple-pie, potatoes and
 greens, were served; at sight of which, the worthy Mr. Lillyvick vented a
 great many witticisms, and plucked up amazingly: to the immense delight
-and satisfaction of the whole body of admirers.
+and satisfaction of the whole [[Body|body]] of admirers.
 
-Very well and very fast the supper went off; no more serious
+Very [[Well|well]] and very fast the supper went off; no more serious
 difficulties occurring, than those which arose from the incessant demand
 for clean knives and forks; which made poor Mrs. Kenwigs wish, more
 than once, that private society adopted the principle of schools, and
 required that every guest should bring his own knife, fork, and spoon;
 which doubtless would be a great accommodation in many cases, and to no
-one more so than to the lady and gentleman of the house, especially
+one more so than to the lady and gentleman of the [[house]], especially
 if the school principle were carried out to the full extent, and the
 articles were expected, as a matter of delicacy, not to be taken away
 again.
 
 Everybody having eaten everything, the table was cleared in a most
 alarming hurry, and with great noise; and the spirits, whereat the eyes
-of Newman Noggs glistened, being arranged in order, with water both hot
+of [[Newman Noggs]] glistened, being arranged in order, with [[Water|water]] both hot
 and cold, the party composed themselves for conviviality; Mr. Lillyvick
 being stationed in a large armchair by the fireside, and the four little
 Kenwigses disposed on a small form in front of the company with their
-flaxen tails towards them, and their faces to the fire; an arrangement
+flaxen tails towards them, and their faces to the [[Fire|fire]]; an arrangement
 which was no sooner perfected, than Mrs. Kenwigs was overpowered by the
 feelings of a mother, and fell upon the left shoulder of Mr. Kenwigs
-dissolved in tears.
+dissolved in [[Tears|tears]].
 
 ‘They are so beautiful!’ said Mrs. Kenwigs, sobbing.
 
@@ -361,7 +361,7 @@ should feel proud of that; but don’t give way, don’t.’
 they’re too beautiful to live, much too beautiful!’
 
 On hearing this alarming presentiment of their being doomed to an early
-death in the flower of their infancy, all four little girls raised
+[[Death|death]] in the flower of their infancy, all four little girls raised
 a hideous cry, and burying their heads in their mother’s lap
 simultaneously, screamed until the eight flaxen tails vibrated again;
 Mrs. Kenwigs meanwhile clasping them alternately to her bosom, with
@@ -371,10 +371,10 @@ have copied.
 At length, the anxious mother permitted herself to be soothed into a
 more tranquil state, and the little Kenwigses, being also composed, were
 distributed among the company, to prevent the possibility of Mrs. Kenwigs
-being again overcome by the blaze of their combined beauty. This done,
+being again overcome by the blaze of their combined [[Beauty|beauty]]. This done,
 the ladies and gentlemen united in prophesying that they would live for
 many, many years, and that there was no occasion at all for Mrs. Kenwigs
-to distress herself; which, in good truth, there did not appear to be;
+to distress herself; which, in good [[Truth|truth]], there did not appear to be;
 the loveliness of the children by no means justifying her apprehensions.
 
 ‘This day eight year,’ said Mr. Kenwigs after a pause. ‘Dear me--ah!’
@@ -389,18 +389,18 @@ This reflection was echoed by all present, who said ‘Ah!’ first, and
 ‘Certainly not,’ added everybody.
 
 ‘I remember my niece,’ said Mr. Lillyvick, surveying his audience with
-a grave air; ‘I remember her, on that very afternoon, when she first
+a [[Grave|grave]] air; ‘I remember her, on that very afternoon, when she first
 acknowledged to her mother a partiality for Kenwigs. “Mother,” she says,
-“I love him.”’
+“I [[Love|love]] him.”’
 
 ‘“Adore him,” I said, uncle,’ interposed Mrs. Kenwigs.
 
-‘“Love him,” I think, my dear,’ said the collector, firmly.
+‘“[[Love]] him,” I think, my dear,’ said the collector, firmly.
 
 ‘Perhaps you are right, uncle,’ replied Mrs. Kenwigs, submissively. ‘I
 thought it was “adore.”’
 
-‘“Love,” my dear,’ retorted Mr. Lillyvick. ‘“Mother,” she says, “I love
+‘“[[Love]],” my dear,’ retorted Mr. Lillyvick. ‘“Mother,” she says, “I [[Love|love]]
 him!” “What do I hear?” cries her mother; and instantly falls into
 strong conwulsions.’
 
@@ -412,7 +412,7 @@ that there was a very great objection to him, on the ground that he was
 beneath the family, and would disgrace it. You remember, Kenwigs?’
 
 ‘Certainly,’ replied that gentleman, in no way displeased at the
-reminiscence, inasmuch as it proved, beyond all doubt, what a high
+reminiscence, inasmuch as it proved, beyond all [[Doubt|doubt]], what a high
 family Mrs. Kenwigs came of.
 
 ‘I shared in that feeling,’ said Mr. Lillyvick: ‘perhaps it was natural;
@@ -421,11 +421,11 @@ perhaps it wasn’t.’
 A gentle murmur seemed to say, that, in one of Mr. Lillyvick’s station,
 the objection was not only natural, but highly praiseworthy.
 
-‘I came round to him in time,’ said Mr. Lillyvick. ‘After they were
+‘I came round to him in [[Time|time]],’ said Mr. Lillyvick. ‘After they were
 married, and there was no help for it, I was one of the first to say
 that Kenwigs must be taken notice of. The family DID take notice of him,
 in consequence, and on my representation; and I am bound to say--and
-proud to say--that I have always found him a very honest, well-behaved,
+proud to say--that I have always found him a very honest, [[Well|well]]-behaved,
 upright, respectable sort of man. Kenwigs, shake hands.’
 
 ‘I am proud to do it, sir,’ said Mr. Kenwigs.
@@ -447,7 +447,7 @@ the majority of those present.
 
 ‘Oh dear, Mrs. Kenwigs,’ said Miss Petowker, ‘while Mr. Noggs is making
 that punch to drink happy returns in, do let Morleena go through that
-figure dance before Mr. Lillyvick.’
+figure [[Dance|dance]] before Mr. Lillyvick.’
 
 ‘No, no, my dear,’ replied Mrs. Kenwigs, ‘it will only worry my uncle.’
 
@@ -457,9 +457,9 @@ much pleased, won’t you, sir?’
 ‘That I am sure I shall’ replied the collector, glancing at the
 punch-mixer.
 
-‘Well then, I’ll tell you what,’ said Mrs. Kenwigs, ‘Morleena shall
+‘[[Well]] then, I’ll tell you what,’ said Mrs. Kenwigs, ‘Morleena shall
 do the steps, if uncle can persuade Miss Petowker to recite us the
-Blood-Drinker’s Burial, afterwards.’
+[[Blood]]-Drinker’s Burial, afterwards.’
 
 There was a great clapping of hands and stamping of feet, at this
 proposition; the subject whereof, gently inclined her head several
@@ -469,7 +469,7 @@ times, in acknowledgment of the reception.
 anything professional in private parties.’
 
 ‘Oh, but not here!’ said Mrs. Kenwigs. ‘We are all so very friendly and
-pleasant, that you might as well be going through it in your own room;
+pleasant, that you might as [[Well|well]] be going through it in your own room;
 besides, the occasion--’
 
 ‘I can’t resist that,’ interrupted Miss Petowker; ‘anything in my humble
@@ -479,12 +479,12 @@ Mrs. Kenwigs and Miss Petowker had arranged a small PROGRAMME of the
 entertainments between them, of which this was the prescribed order,
 but they had settled to have a little pressing on both sides, because it
 looked more natural. The company being all ready, Miss Petowker hummed
-a tune, and Morleena danced a dance; having previously had the soles
+a tune, and Morleena danced a [[Dance|dance]]; having previously had the soles
 of her shoes chalked, with as much care as if she were going on the
 tight-rope. It was a very beautiful figure, comprising a great deal of
 work for the arms, and was received with unbounded applause.
 
-‘If I was blessed with a--a child--’ said Miss Petowker, blushing, ‘of
+‘If I was blessed with a--a [[Child|child]]--’ said Miss Petowker, blushing, ‘of
 such genius as that, I would have her out at the Opera instantly.’
 
 Mrs. Kenwigs sighed, and looked at Mr. Kenwigs, who shook his head, and
@@ -499,7 +499,7 @@ think of the young dukes and marquises.’
 
 ‘Very right,’ said the collector.
 
-‘Still,’ submitted Miss Petowker, ‘if she took a proper pride in
+‘Still,’ submitted Miss Petowker, ‘if she took a proper [[Pride|pride]] in
 herself, you know--’
 
 ‘There’s a good deal in that,’ observed Mrs. Kenwigs, looking at her
@@ -512,16 +512,16 @@ sort.’
 Mr. Kenwigs, with becoming gallantry, said that settled the question at
 once, and that he would take the subject into his serious consideration.
 This being resolved upon, Miss Petowker was entreated to begin the
-Blood-Drinker’s Burial; to which end, that young lady let down her back
+[[Blood]]-Drinker’s Burial; to which end, that young lady let down her back
 hair, and taking up her position at the other end of the room, with the
-bachelor friend posted in a corner, to rush out at the cue ‘in death
+bachelor friend posted in a corner, to rush out at the cue ‘in [[Death|death]]
 expire,’ and catch her in his arms when she died raving mad, went
 through the performance with extraordinary spirit, and to the great
 terror of the little Kenwigses, who were all but frightened into fits.
 
 The ecstasies consequent upon the effort had not yet subsided, and
 Newman (who had not been thoroughly sober at so late an hour for a long
-long time,) had not yet been able to put in a word of announcement,
+long [[Time|time]],) had not yet been able to put in a word of announcement,
 that the punch was ready, when a hasty knock was heard at the room-door,
 which elicited a shriek from Mrs. Kenwigs, who immediately divined that
 the baby had fallen out of bed.
@@ -531,13 +531,13 @@ the baby had fallen out of bed.
 ‘Don’t be alarmed, it’s only me,’ said Crowl, looking in, in his
 nightcap. ‘The baby is very comfortable, for I peeped into the room as
 I came down, and it’s fast asleep, and so is the girl; and I don’t think
-the candle will set fire to the bed-curtain, unless a draught was to get
+the candle will set [[Fire|fire]] to the bed-curtain, unless a draught was to get
 into the room--it’s Mr. Noggs that’s wanted.’
 
 ‘Me!’ cried Newman, much astonished.
 
 ‘Why, it IS a queer hour, isn’t it?’ replied Crowl, who was not best
-pleased at the prospect of losing his fire; ‘and they are queer-looking
+pleased at the prospect of losing his [[Fire|fire]]; ‘and they are queer-looking
 people, too, all covered with rain and mud. Shall I tell them to go
 away?’
 
@@ -547,17 +547,17 @@ away?’
 
 ‘Want me? By name?’ asked Newman.
 
-‘By name,’ replied Crowl. ‘Mr. Newman Noggs, as pat as need be.’
+‘By name,’ replied Crowl. ‘Mr. [[Newman Noggs]], as pat as need be.’
 
 Newman reflected for a few seconds, and then hurried away, muttering
 that he would be back directly. He was as good as his word; for, in an
-exceedingly short time, he burst into the room, and seizing, without
+exceedingly short [[Time|time]], he burst into the room, and seizing, without
 a word of apology or explanation, a lighted candle and tumbler of hot
 punch from the table, darted away like a madman.
 
 ‘What the deuce is the matter with him?’ exclaimed Crowl, throwing the
 door open. ‘Hark! Is there any noise above?’
 
-The guests rose in great confusion, and, looking in each other’s faces
-with much perplexity and some fear, stretched their necks forward, and
+The guests [[Rose|rose]] in great confusion, and, looking in each other’s faces
+with much perplexity and some [[Fear|fear]], stretched their necks forward, and
 listened attentively.

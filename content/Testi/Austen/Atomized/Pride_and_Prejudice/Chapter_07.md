@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 7"
+title: "[[Pride and Prejudice]] — Chapter 7"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -28,7 +28,7 @@ had left her four thousand pounds.
 
 She had a sister married to a Mr. Philips, who had been a clerk to their
 father and succeeded him in the business, and a brother settled in
-London in a respectable line of trade.
+[[London]] in a respectable line of trade.
 
 The village of Longbourn was only one mile from Meryton; a most
 convenient distance for the young ladies, who were usually tempted
@@ -39,9 +39,9 @@ their minds were more vacant than their sisters’, and when nothing
 better offered, a walk to Meryton was necessary to amuse their morning
 hours and furnish conversation for the evening; and, however bare of
 news the country in general might be, they always contrived to learn
-some from their aunt. At present, indeed, they were well supplied both
+some from their aunt. At present, indeed, they were [[Well|well]] supplied both
 with news and happiness by the recent arrival of a militia regiment in
-the neighbourhood; it was to remain the whole winter, and Meryton was
+the neighbourhood; it was to remain the whole [[Winter|winter]], and Meryton was
 the head-quarters.
 
 Their visits to Mrs. Philips were now productive of the most interesting
@@ -58,19 +58,19 @@ After listening one morning to their effusions on this subject, Mr.
 Bennet coolly observed,--
 
 “From all that I can collect by your manner of talking, you must be two
-of the silliest girls in the country. I have suspected it some time, but
+of the silliest girls in the country. I have suspected it some [[Time|time]], but
 I am now convinced.”
 
 Catherine was disconcerted, and made no answer; but Lydia, with perfect
 indifference, continued to express her admiration of Captain Carter, and
-her hope of seeing him in the course of the day, as he was going the
-next morning to London.
+her [[Hope|hope]] of seeing him in the course of the day, as he was going the
+next morning to [[London]].
 
 “I am astonished, my dear,” said Mrs. Bennet, “that you should be so
 ready to think your own children silly. If I wished to think slightingly
 of anybody’s children, it should not be of my own, however.”
 
-“If my children are silly, I must hope to be always sensible of it.”
+“If my children are silly, I must [[Hope|hope]] to be always sensible of it.”
 
 “Yes; but as it happens, they are all of them very clever.”
 
@@ -81,11 +81,11 @@ foolish.”
 
 “My dear Mr. Bennet, you must not expect such girls to have the sense of
 their father and mother. When they get to our age, I dare say they will
-not think about officers any more than we do. I remember the time when I
-liked a red coat myself very well--and, indeed, so I do still at my
+not think about officers any more than we do. I remember the [[Time|time]] when I
+liked a red coat myself very [[Well|well]]--and, indeed, so I do still at my
 heart; and if a smart young colonel, with five or six thousand a year,
 should want one of my girls, I shall not say nay to him; and I thought
-Colonel Forster looked very becoming the other night at Sir William’s in
+Colonel Forster looked very becoming the other [[Night|night]] at Sir William’s in
 his regimentals.”
 
 “Mamma,” cried Lydia, “my aunt says that Colonel Forster and Captain
@@ -97,8 +97,8 @@ note for Miss Bennet; it came from Netherfield, and the servant waited
 for an answer. Mrs. Bennet’s eyes sparkled with pleasure, and she was
 eagerly calling out, while her daughter read,--
 
-“Well, Jane, who is it from? What is it about? What does he say? Well,
-Jane, make haste and tell us; make haste, my love.”
+“[[Well]], Jane, who is it from? What is it about? What does he say? [[Well]],
+Jane, make haste and tell us; make haste, my [[Love|love]].”
 
 “It is from Miss Bingley,” said Jane, and then read it aloud.
 
@@ -113,7 +113,7 @@ Jane, make haste and tell us; make haste, my love.”
 
 “CAROLINE BINGLEY.”
 
-“With the officers!” cried Lydia: “I wonder my aunt did not tell us of
+“With the officers!” cried Lydia: “I [[Wonder|wonder]] my aunt did not tell us of
 _that_.”
 
 “Dining out,” said Mrs. Bennet; “that is very unlucky.”
@@ -121,10 +121,10 @@ _that_.”
 “Can I have the carriage?” said Jane.
 
 “No, my dear, you had better go on horseback, because it seems likely to
-rain; and then you must stay all night.”
+rain; and then you must stay all [[Night|night]].”
 
 “That would be a good scheme,” said Elizabeth, “if you were sure that
-they would not offer to send her home.”
+they would not offer to send her [[Home|home]].”
 
 “Oh, but the gentlemen will have Mr. Bingley’s chaise to go to Meryton;
 and the Hursts have no horses to theirs.”
@@ -159,21 +159,21 @@ brought the following note for Elizabeth:--
 
      “I find myself very unwell this morning, which, I suppose, is to be
      imputed to my getting wet through yesterday. My kind friends will
-     not hear of my returning home till I am better. They insist also on
-     my seeing Mr. Jones--therefore do not be alarmed if you should hear
+     not hear of my returning [[Home|home]] till I am better. They insist also on
+     my seeing Mr. [[Jones]]--therefore do not be alarmed if you should hear
      of his having been to me--and, excepting a sore throat and a
      headache, there is not much the matter with me.
 
 “Yours, etc.”
 
-“Well, my dear,” said Mr. Bennet, when Elizabeth had read the note
+“[[Well]], my dear,” said Mr. Bennet, when Elizabeth had read the note
 aloud, “if your daughter should have a dangerous fit of illness--if she
 should die--it would be a comfort to know that it was all in pursuit of
 Mr. Bingley, and under your orders.”
 
 “Oh, I am not at all afraid of her dying. People do not die of little
 trifling colds. She will be taken good care of. As long as she stays
-there, it is all very well. I would go and see her if I could have the
+there, it is all very [[Well|well]]. I would go and see her if I could have the
 carriage.”
 
 Elizabeth, feeling really anxious, determined to go to her, though the
@@ -204,10 +204,10 @@ together.
 see something of Captain Carter, before he goes.”
 
 In Meryton they parted: the two youngest repaired to the lodgings of one
-of the officers’ wives, and Elizabeth continued her walk alone, crossing
+of the officers’ wives, and Elizabeth continued her walk [[Alone|alone]], crossing
 field after field at a quick pace, jumping over stiles and springing
 over puddles, with impatient activity, and finding herself at last
-within view of the house, with weary ancles, dirty stockings, and a face
+within view of the [[house]], with weary ancles, dirty stockings, and a face
 glowing with the warmth of exercise.
 
 She was shown into the breakfast parlour, where all but Jane were
@@ -217,16 +217,16 @@ dirty weather, and by herself, was almost incredible to Mrs. Hurst and
 Miss Bingley; and Elizabeth was convinced that they held her in contempt
 for it. She was received, however, very politely by them; and in their
 brother’s manners there was something better than politeness--there was
-good-humour and kindness. Mr. Darcy said very little, and Mr. Hurst
+good-[[Humour|humour]] and kindness. Mr. Darcy said very little, and Mr. Hurst
 nothing at all. The former was divided between admiration of the
-brilliancy which exercise had given to her complexion and doubt as to
-the occasion’s justifying her coming so far alone. The latter was
+brilliancy which exercise had given to her complexion and [[Doubt|doubt]] as to
+the occasion’s justifying her coming so far [[Alone|alone]]. The latter was
 thinking only of his breakfast.
 
 Her inquiries after her sister were not very favourably answered. Miss
-Bennet had slept ill, and though up, was very feverish, and not well
+Bennet had slept ill, and though up, was very feverish, and not [[Well|well]]
 enough to leave her room. Elizabeth was glad to be taken to her
-immediately; and Jane, who had only been withheld by the fear of giving
+immediately; and Jane, who had only been withheld by the [[Fear|fear]] of giving
 alarm or inconvenience, from expressing in her note how much she longed
 for such a visit, was delighted at her entrance. She was not equal,
 however, to much conversation; and when Miss Bingley left them together,
@@ -245,10 +245,10 @@ ached acutely. Elizabeth did not quit her room for a moment, nor were
 the other ladies often absent; the gentlemen being out, they had in fact
 nothing to do elsewhere.
 
-When the clock struck three, Elizabeth felt that she must go, and very
+When the [[Clock|clock]] struck three, Elizabeth felt that she must go, and very
 unwillingly said so. Miss Bingley offered her the carriage, and she only
 wanted a little pressing to accept it, when Jane testified such concern
-at parting with her that Miss Bingley was obliged to convert the offer
+at parting with her that Miss Bingley was obliged to [[convert]] the offer
 of the chaise into an invitation to remain at Netherfield for the
 present. Elizabeth most thankfully consented, and a servant was
 despatched to Longbourn, to acquaint the family with her stay, and bring

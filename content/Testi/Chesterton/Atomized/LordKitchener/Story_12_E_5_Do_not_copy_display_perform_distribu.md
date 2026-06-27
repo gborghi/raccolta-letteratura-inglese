@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — E.5.  Do not copy, display, perform, distribute or redistribute this"
+title: "[[LordKitchener]] — E.5.  Do not copy, display, perform, distribute or redistribute this"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/LordKitchener-(Chesterton)"

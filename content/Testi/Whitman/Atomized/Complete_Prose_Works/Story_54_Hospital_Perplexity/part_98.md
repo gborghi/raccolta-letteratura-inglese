@@ -16,14 +16,14 @@ tags:
 
 Under these influences, therefore, I still feel to keep "Passage to
 India" for last words even to this centennial dithyramb. Not as, in
-antiquity, at highest festival of Egypt, the noisome skeleton of death
-was sent on exhibition to the revelers, for zest and shadow to the
+antiquity, at highest festival of [[Egypt]], the noisome [[skeleton]] of [[Death|death]]
+was sent on exhibition to the revelers, for zest and [[Shadow|shadow]] to the
 occasion's joy and light--but as the marble statue of the normal Greeks
-at Elis, suggesting death in the form of a beautiful and perfect young
+at Elis, suggesting [[Death|death]] in the form of a beautiful and perfect young
 man, with closed eyes, leaning on an inverted torch--emblem of rest and
-aspiration after action--of crown and point which all lives and poems
+[[Aspiration|aspiration]] after action--of [[Crown|crown]] and point which all lives and [[Poems|poems]]
 should steadily have reference to, namely, the justified and noble
-termination of our identity, this grade of it, and outlet-preparation to
+termination of our [[Identity|identity]], this grade of it, and outlet-preparation to
 another grade.
 
 [34] Namely, a character, making most of common and normal elements, to
@@ -33,11 +33,11 @@ municipal necessities and current requirements, so long a-building,
 shall still faithfully contribute, but which at its foundations and
 carried up thence, and receiving its impetus from the democratic spirit,
 and accepting its gauge in all departments from the democratic formulas,
-shall again directly be vitalized by the perennial influences of Nature
-at first hand, and the old heroic stamina of Nature, the strong air
+shall again directly be vitalized by the perennial influences of [[Nature]]
+at first hand, and the old heroic stamina of [[Nature]], the strong air
 of prairie and mountain, the dash of the briny sea, the primary
 antiseptics--of the passions, in all their fullest heat and potency,
-of courage, rankness, amativeness, and of immense pride. Not to lose at
+of [[Courage|courage]], rankness, amativeness, and of immense [[Pride|pride]]. Not to lose at
 all, therefore, the benefits of artificial progress and civilization,
 but to re-occupy for Western tenancy the oldest though ever-fresh
 fields, and reap from them the savage and sane nourishment indispensable
@@ -45,72 +45,72 @@ to a hardy nation, and the absence of which, threatening to become worse
 and worse, is the most serious lack and defect to-day of our New World
 literature.
 
-Not but what the brawn of "Leaves of Grass" is, I hope, thoroughly
+Not but what the brawn of "[[Leaves]] of Grass" is, I [[Hope|hope]], thoroughly
 spiritualized everywhere, for final estimate, but, from the very
 subjects, the direct effect is a sense of the life, as it should be, of
-flesh and blood, and physical urge, and animalism. While there are other
-themes, and plenty of abstract thoughts and poems in the volume--while
+flesh and [[Blood|blood]], and physical urge, and animalism. While there are other
+themes, and plenty of abstract thoughts and [[Poems|poems]] in the volume--while
 I have put in it passing and rapid but actual glimpses of the great
 struggle between the nation and the slave-power, (1861-'65,) as the
 fierce and bloody panorama of that contest unroll'd itself: while the
 whole book, indeed, revolves around that four years' war, which, as I
-was in the midst of it, becomes, in "Drum-Taps," pivotal to the rest
+was in the midst of it, becomes, in "[[Drum-Taps]]," pivotal to the rest
 entire--and here and there, before and afterward, not a few episodes
 and speculations--_that_--namely, to make a type-portrait for living,
-active, worldly, healthy personality, objective as well as subjective,
+active, worldly, healthy personality, objective as [[Well|well]] as subjective,
 joyful and potent, and modern and free, distinctively for the use of
 the United States, male and female, through the long future--has been,
 I say, my general object. (Probably, indeed, the whole of these varied
-songs, and all my writings, both volumes, only ring changes in some
+[[songs]], and all my writings, both volumes, only ring changes in some
 sort, on the ejaculation, How vast, how eligible, how joyful, how real,
 is a human being, himself or herself.)
 
-Though from no definite plan at the time, I see now that I have
+Though from no definite plan at the [[Time|time]], I see now that I have
 unconsciously sought, by indirections at least as much as directions, to
 express the whirls and rapid growth and intensity of the United States,
 the prevailing tendency and events of the Nineteenth century, and
-largely the spirit of the whole current world, my time; for I feel that
+largely the spirit of the whole current world, my [[Time|time]]; for I feel that
 I have partaken of that spirit, as I have been deeply interested in
 all those events, the closing of long-stretch'd eras and ages, and,
-illustrated in the history of the United States, the opening of larger
-ones. (The death of President Lincoln, for instance, fitly, historically
+illustrated in the [[history]] of the United States, the opening of larger
+ones. (The [[Death|death]] of President [[Lincoln]], for instance, fitly, historically
 closes, in the civilization of feudalism, many old influences--drops on
 them, suddenly, a vast, gloomy, as it were, separating curtain.)
 
-Since I have been ill, (1873-'74-'75,) mostly without serious pain, and
-with plenty of time and frequent inclination to judge my poems,
+Since I have been ill, (1873-'74-'75,) mostly without serious [[Pain|pain]], and
+with plenty of [[Time|time]] and frequent inclination to judge my [[Poems|poems]],
 (never composed with eye on the book-market, nor for fame, nor for any
 pecuniary profit,) I have felt temporary depression more than once, for
-fear that in "Leaves of Grass" the _moral_ parts were not sufficiently
+[[Fear|fear]] that in "[[Leaves]] of Grass" the _moral_ parts were not sufficiently
 pronounced. But in my clearest and calmest moods I have realized that
-as those "Leaves," all and several, surely prepare the way for, and
-necessitate morals, and are adjusted to them, just the same as Nature
+as those "[[Leaves]]," all and several, surely prepare the way for, and
+necessitate morals, and are adjusted to them, just the same as [[Nature]]
 does and is, they are what, consistently with my plan, they must and
 probably should be. (In a certain sense, while the Moral is the purport
-and last intelligence of all Nature, there is absolutely nothing of
-the moral in the works, or laws, or shows of Nature. Those only lead
+and last intelligence of all [[Nature]], there is absolutely nothing of
+the moral in the works, or laws, or shows of [[Nature]]. Those only lead
 inevitably to it--begin and necessitate it.)
 
-Then I meant "Leaves of Grass," as publish'd, to be the Poem of average
-Identity, (of _yours_, whoever you are, now reading these lines.) A man
+Then I meant "[[Leaves]] of Grass," as publish'd, to be the Poem of average
+[[Identity]], (of _yours_, whoever you are, now reading these lines.) A man
 is not greatest as victor in war, nor inventor or explorer, nor even
 in science, or in his intellectual or artistic capacity, or exemplar
 in some vast benevolence. To the highest democratic view, man is most
-acceptable in living well the practical life and lot which happens
+acceptable in living [[Well|well]] the practical life and lot which happens
 to him as ordinary farmer, sea-farer, mechanic, clerk, laborer, or
 driver--upon and from which position as a central basis or pedestal,
 while performing its labors, and his duties as citizen, son, husband,
 father and employ'd person, he preserves his physique, ascends,
 developing, radiating himself in other regions--and especially where
 and when, (greatest of all, and nobler than the proudest mere genius or
-magnate in any field,) he fully realizes the conscience, the spiritual,
-the divine faculty, cultivated well, exemplified in all his deeds and
+magnate in any field,) he fully realizes the [[Conscience|conscience]], the spiritual,
+the divine faculty, cultivated [[Well|well]], exemplified in all his deeds and
 words, through life, uncompromising to the end--a flight loftier
-than any of Homer's or Shakspere's--broader than all poems and
-bibles--namely, Nature's own, and in the midst of it, Yourself, your own
-Identity, body and soul. (All serves, helps--but in the centre of all,
+than any of Homer's or Shakspere's--broader than all [[Poems|poems]] and
+bibles--namely, [[Nature]]'s own, and in the midst of it, Yourself, your own
+[[Identity]], [[Body|body]] and [[Soul|soul]]. (All serves, helps--but in the centre of all,
 absorbing all, giving, for your purpose, the only meaning and vitality
 to all, master or mistress of all, under the law, stands Yourself.)
-To sing the Song of that law of average Identity, and of Yourself,
+To sing the [[Song]] of that law of average [[Identity]], and of Yourself,
 consistently with the divine law of the universal, is a main intention
-of those "Leaves."
+of those "[[Leaves]]."

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 9 (part 4)"
+title: "[[Shirley]] — Chapter 9 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -22,7 +22,7 @@ waters are not always the safest. Besides, he is too still, unmoved,
 
 phlegmatic, to be happy. Life will never have much joy in it for Mark.
 
-By the time he is five-and-twenty he will wonder why people ever laugh,
+By the [[Time|time]] he is five-and-twenty he will [[Wonder|wonder]] why people ever laugh,
 
 and think all fools who seem merry. Poetry will not exist for Mark,
 
@@ -32,13 +32,13 @@ mere rant and jargon. Enthusiasm will be his aversion and contempt. Mark
 
 will have no youth; while he looks juvenile and blooming, he will be
 
-already middle-aged in mind. His body is now fourteen years of age, but
+already middle-aged in mind. His [[Body|body]] is now fourteen years of age, but
 
-his soul is already thirty.
+his [[Soul|soul]] is already thirty.
 
 
 
-Martin, the youngest of the three, owns another nature. Life may, or may
+Martin, the youngest of the three, owns another [[Nature|nature]]. Life may, or may
 
 not, be brief for him, but it will certainly be brilliant. He will pass
 
@@ -84,9 +84,9 @@ and capacity. Mr. Yorke knows this, and is proud of his race. Yorkshire
 
 has such families here and there amongst her hills and wolds--peculiar,
 
-racy, vigorous; of good blood and strong brain; turbulent somewhat in
+racy, vigorous; of good [[Blood|blood]] and strong brain; turbulent somewhat in
 
-the pride of their strength, and intractable in the force of their
+the [[Pride|pride]] of their strength, and intractable in the force of their
 
 native powers; wanting polish, wanting consideration, wanting docility,
 
@@ -100,9 +100,9 @@ A low tap is heard at the parlour door; the boys have been making such a
 
 noise over their game, and little Jessy, besides, has been singing so
 
-sweet a Scotch song to her father--who delights in Scotch and Italian
+sweet a Scotch [[Song|song]] to her father--who delights in Scotch and Italian
 
-songs, and has taught his musical little daughter some of the best--that
+[[songs]], and has taught his musical little daughter some of the best--that
 
 the ring at the outer door was not observed.
 
@@ -118,11 +118,11 @@ give orders for the making of a pudding in the kitchen, to bid the boys
 
 hang up their caps in the hall, or to call the girls to their
 
-sewing--"come in!" And in came Robert Moore.
+sewing--"come in!" And in came [[Robert Moore]].
 
 
 
-Moore's habitual gravity, as well as his abstemiousness (for the case of
+Moore's habitual gravity, as [[Well|well]] as his abstemiousness (for the case of
 
 spirit decanters is never ordered up when he pays an evening visit), has
 
@@ -134,25 +134,25 @@ found out that he is hampered by a secret intrigue which prevents him
 
 from marrying, or that he is a wolf in sheep's clothing--discoveries
 
-which she made at an early date after marriage concerning most of her
+which she made at an early date after [[Marriage|marriage]] concerning most of her
 
 husband's bachelor friends, and excluded them from her board
 
 accordingly; which part of her conduct, indeed, might be said to have
 
-its just and sensible as well as its harsh side.
+its just and sensible as [[Well|well]] as its harsh side.
 
 
 
-"Well, is it you?" she says to Mr. Moore, as he comes up to her and
+"[[Well]], is it you?" she says to Mr. Moore, as he comes up to her and
 
-gives his hand. "What are you roving about at this time of night for?
+gives his hand. "What are you roving about at this [[Time|time]] of [[Night|night]] for?
 
-You should be at home."
+You should be at [[Home|home]]."
 
 
 
-"Can a single man be said to have a home, madam?" he asks.
+"Can a single man be said to have a [[Home|home]], madam?" he asks.
 
 
 
@@ -164,9 +164,9 @@ speaking on all occasions is carried to a point calculated, sometimes,
 
 to awaken admiration, but oftener alarm--"pooh! you need not talk
 
-nonsense to me; a single man can have a home if he likes. Pray, does not
+nonsense to me; a single man can have a [[Home|home]] if he likes. Pray, does not
 
-your sister make a home for you?"
+your sister make a [[Home|home]] for you?"
 
 
 
@@ -186,7 +186,7 @@ occasionally to crack a dry jest against matrimony, even though it
 
 should be at her own expense. "He has repented it in sackcloth and
 
-ashes, Robert Moore, as you may well believe when you see his
+ashes, [[Robert Moore]], as you may [[Well|well]] believe when you see his
 
 punishment" (here she pointed to her children). "Who would burden
 
@@ -204,7 +204,7 @@ two daughters, and look twice before you leap."
 
 "I am not tempted now, at any rate. I think these are not times for
 
-marrying or giving in marriage."
+marrying or giving in [[Marriage|marriage]]."
 
 
 
@@ -216,4 +216,4 @@ said, "I make little account of the wisdom of a Solomon of your age; it
 
 will be upset by the first fancy that crosses you. Meantime, sit down,
 
-sir. You can talk, I suppose, as well sitting as standing?"
+sir. You can talk, I suppose, as [[Well|well]] sitting as standing?"

@@ -19,38 +19,38 @@ Chapter 11
 SOME AFFAIRS OF THE HEART
 
 
-Little Miss Peecher, from her little official dwelling-house, with its
+Little Miss Peecher, from her little official dwelling-[[house]], with its
 little windows like the eyes in needles, and its little doors like the
 covers of school-books, was very observant indeed of the object of her
-quiet affections. Love, though said to be afflicted with blindness, is
-a vigilant watchman, and Miss Peecher kept him on double duty over Mr
-Bradley Headstone. It was not that she was naturally given to playing
+quiet affections. [[Love]], though said to be afflicted with blindness, is
+a vigilant watchman, and Miss Peecher kept him on [[Double|double]] duty over Mr
+[[Bradley Headstone]]. It was not that she was naturally given to playing
 the spy—it was not that she was at all secret, plotting, or mean—it
 was simply that she loved the irresponsive Bradley with all the
-primitive and homely stock of love that had never been examined or
+primitive and homely stock of [[Love|love]] that had never been examined or
 certificated out of her. If her faithful slate had had the latent
 qualities of sympathetic paper, and its pencil those of invisible ink,
 many a little treatise calculated to astonish the pupils would have come
-bursting through the dry sums in school-time under the warming influence
+bursting through the dry sums in school-[[Time|time]] under the warming influence
 of Miss Peecher’s bosom. For, oftentimes when school was not, and her
-calm leisure and calm little house were her own, Miss Peecher would
+calm leisure and calm little [[house]] were her own, Miss Peecher would
 commit to the confidential slate an imaginary description of how, upon
 a balmy evening at dusk, two figures might have been observed in the
-market-garden ground round the corner, of whom one, being a manly form,
+market-[[Garden|garden]] ground round the corner, of whom one, being a manly form,
 bent over the other, being a womanly form of short stature and some
-compactness, and breathed in a low voice the words, ‘Emma Peecher, wilt
+compactness, and breathed in a low voice the words, ‘[[Emma]] Peecher, wilt
 thou be my own?’ after which the womanly form’s head reposed upon the
 manly form’s shoulder, and the nightingales tuned up. Though all unseen,
-and unsuspected by the pupils, Bradley Headstone even pervaded the
+and unsuspected by the pupils, [[Bradley Headstone]] even pervaded the
 school exercises. Was Geography in question? He would come triumphantly
 flying out of Vesuvius and Aetna ahead of the lava, and would boil
 unharmed in the hot springs of Iceland, and would float majestically
-down the Ganges and the Nile. Did History chronicle a king of men?
+down the Ganges and the Nile. Did [[history|History]] chronicle a [[King|king]] of men?
 Behold him in pepper-and-salt pantaloons, with his watch-guard round
 his neck. Were copies to be written? In capital B’s and H’s most of the
 girls under Miss Peecher’s tuition were half a year ahead of every other
 letter in the alphabet. And Mental Arithmetic, administered by Miss
-Peecher, often devoted itself to providing Bradley Headstone with a
+Peecher, often devoted itself to providing [[Bradley Headstone]] with a
 wardrobe of fabulous extent: fourscore and four neck-ties at two and
 ninepence-halfpenny, two gross of silver watches at four pounds fifteen
 and sixpence, seventy-four black hats at eighteen shillings; and many
@@ -64,14 +64,14 @@ mind that was not in the scholastic syllabus. Putting this and that
 together—combining under the head ‘this,’ present appearances and the
 intimacy with Charley Hexam, and ranging under the head ‘that’ the
 visit to his sister, the watchman reported to Miss Peecher his strong
-suspicions that the sister was at the bottom of it.
+suspicions that the sister was at the [[Bottom|bottom]] of it.
 
-‘I wonder,’ said Miss Peecher, as she sat making up her weekly report on
+‘I [[Wonder|wonder]],’ said Miss Peecher, as she sat making up her weekly report on
 a half-holiday afternoon, ‘what they call Hexam’s sister?’
 
 Mary Anne, at her needlework, attendant and attentive, held her arm up.
 
-‘Well, Mary Anne?’
+‘[[Well]], Mary Anne?’
 
 ‘She is named Lizzie, ma’am.’
 
@@ -79,7 +79,7 @@ Mary Anne, at her needlework, attendant and attentive, held her arm up.
 Peecher, in a tunefully instructive voice. ‘Is Lizzie a Christian name,
 Mary Anne?’
 
-Mary Anne laid down her work, rose, hooked herself behind, as being
+Mary Anne laid down her work, [[Rose|rose]], hooked herself behind, as being
 under catechization, and replied: ‘No, it is a corruption, Miss
 Peecher.’
 
@@ -103,17 +103,17 @@ fiction of conducting the examination in a semiofficial manner for Mary
 Anne’s benefit, not her own, ‘where does this young woman, who is called
 but not named Lizzie, live? Think, now, before answering.’
 
-‘In Church Street, Smith Square, by Mill Bank, ma’am.’
+‘In Church Street, [[smith|Smith]] Square, by Mill Bank, ma’am.’
 
-‘In Church Street, Smith Square, by Mill Bank,’ repeated Miss Peecher,
+‘In Church Street, [[smith|Smith]] Square, by Mill Bank,’ repeated Miss Peecher,
 as if possessed beforehand of the book in which it was written. Exactly
 so. And what occupation does this young woman pursue, Mary Anne? Take
-time.’
+[[Time|time]].’
 
-‘She has a place of trust at an outfitter’s in the City, ma’am.’
+‘She has a place of trust at an outfitter’s in the [[City]], ma’am.’
 
 ‘Oh!’ said Miss Peecher, pondering on it; but smoothly added, in a
-confirmatory tone, ‘At an outfitter’s in the City. Ye-es?’
+confirmatory tone, ‘At an outfitter’s in the [[City]]. Ye-es?’
 
 ‘And Charley—’ Mary Anne was proceeding, when Miss Peecher stared.
 
@@ -126,16 +126,16 @@ Hexam—’
 that his sister won’t be guided by his advice, and persists in being
 guided by somebody else’s; and that—’
 
-‘Mr Headstone coming across the garden!’ exclaimed Miss Peecher, with a
-flushed glance at the looking-glass. ‘You have answered very well, Mary
+‘Mr Headstone coming across the [[Garden|garden]]!’ exclaimed Miss Peecher, with a
+flushed glance at the looking-glass. ‘You have answered very [[Well|well]], Mary
 Anne. You are forming an excellent habit of arranging your thoughts
 clearly. That will do.’
 
-The discreet Mary Anne resumed her seat and her silence, and stitched,
-and stitched, and was stitching when the schoolmaster’s shadow came in
+The discreet Mary Anne resumed her seat and her [[Silence|silence]], and stitched,
+and stitched, and was stitching when the schoolmaster’s [[Shadow|shadow]] came in
 before him, announcing that he might be instantly expected.
 
-‘Good evening, Miss Peecher,’ he said, pursuing the shadow, and taking
+‘Good evening, Miss Peecher,’ he said, pursuing the [[Shadow|shadow]], and taking
 its place.
 
 ‘Good evening, Mr Headstone. Mary Anne, a chair.’

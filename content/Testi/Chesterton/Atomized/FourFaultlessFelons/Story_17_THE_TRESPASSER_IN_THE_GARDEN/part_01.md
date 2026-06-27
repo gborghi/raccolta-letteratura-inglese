@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE TRESPASSER IN THE GARDEN (part 1)"
+title: "[[FourFaultlessFelons]] — THE TRESPASSER IN THE [[Garden|GARDEN]] (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-III THE TRESPASSER IN THE GARDEN
+III THE TRESPASSER IN THE [[Garden|GARDEN]]
 
 
 
 FOR various causes, which accumulated in his dark and brooding brain for
 
-the next day or two, Dr. Judson eventually summoned up all his courage
+the next day or two, Dr. Judson eventually summoned up all his [[Courage|courage]]
 
 and decided to go and consult Doone.
 
@@ -34,7 +34,7 @@ question had, of course, passed at some period through the more or less
 
 human phases of being Mr. Doone and Dr. Doone and then Professor Doone,
 
-before he rose into the higher magnificence of being Doone. Men said
+before he [[Rose|rose]] into the higher magnificence of being Doone. Men said
 
 Doone just as men said Darwin. It soon became something of an
 
@@ -58,7 +58,7 @@ of Doone had cropped up in a disputed point. To explain how it had
 
 cropped up, and how it had come to seem so important, it is necessary to
 
-return once more (after the habit of Dr. Judson) to the house of the poet
+return once more (after the habit of Dr. Judson) to the [[house]] of the poet
 
 Windrush.
 
@@ -148,7 +148,7 @@ a great advantage in discussion before any modern cultivated audience.
 
 
 
-The debate had arisen out of a chance boast of the poet touching his
+The [[debate]] had arisen out of a chance boast of the poet touching his
 
 early experiments as a painter. He showed them some old rhythmic designs
 
@@ -198,7 +198,7 @@ manners, though Wilmot was entirely serene.
 
 
 
-"That young man is becoming insufferable," said the artist. "He turns
+"That young man is becoming insufferable," said the [[artist]]. "He turns
 
 every talk into an argument and every argument into a quarrel. What the
 
@@ -210,6 +210,6 @@ To the scowling Dr. Judson, however, it did evidently matter very much
 
 what Doone really said. It mattered so much that the doctor (as already
 
-indicated) took the trouble to cross the town in order to hear Doone
+indicated) took the trouble to [[Cross|cross]] the town in order to hear Doone
 
 really say it. Perhaps there was something like a touch of morbidity in

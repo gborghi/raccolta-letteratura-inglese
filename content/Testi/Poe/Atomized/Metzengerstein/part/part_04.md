@@ -1,5 +1,5 @@
 ---
-title: "Metzengerstein (part 4)"
+title: "[[Metzengerstein]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Metzengerstein-(Poe)"
@@ -22,11 +22,11 @@ tags:
 
       Among all the retinue of the Baron, however, none were found to
 
-      doubt the ardor of that extraordinary affection which existed on
+      [[Doubt|doubt]] the ardor of that extraordinary affection which existed on
 
       the part of the young nobleman for the fiery qualities of his
 
-      horse; at least, none but an insignificant and misshapen little
+      [[Horse|horse]]; at least, none but an insignificant and misshapen little
 
       page, whose deformities were in everybody’s way, and whose
 
@@ -44,7 +44,7 @@ tags:
 
 
 
-      One tempestuous night, Metzengerstein, awaking from a heavy
+      One tempestuous [[Night|night]], [[Metzengerstein]], awaking from a heavy
 
       slumber, descended like a maniac from his chamber, and, mounting
 
@@ -56,11 +56,11 @@ tags:
 
       domestics, when, after some hours’ absence, the stupendous and
 
-      magnificent battlements of the Chateau Metzengerstein, were
+      magnificent battlements of the Chateau [[Metzengerstein]], were
 
       discovered crackling and rocking to their very foundation, under
 
-      the influence of a dense and livid mass of ungovernable fire.
+      the influence of a dense and livid mass of ungovernable [[Fire|fire]].
 
 
 
@@ -70,7 +70,7 @@ tags:
 
       were evidently futile, the astonished neighborhood stood idly
 
-      around in silent and pathetic wonder. But a new and fearful
+      around in silent and pathetic [[Wonder|wonder]]. But a new and fearful
 
       object soon rivetted the attention of the multitude, and proved
 
@@ -84,7 +84,7 @@ tags:
 
       Up the long avenue of aged oaks which led from the forest to the
 
-      main entrance of the Château Metzengerstein, a steed, bearing an
+      main entrance of the Château [[Metzengerstein]], a steed, bearing an
 
       unbonneted and disordered rider, was seen leaping with an
 
@@ -112,7 +112,7 @@ tags:
 
       staircases of the palace, and, with its rider, disappeared amid
 
-      the whirlwind of chaotic fire.
+      the whirlwind of chaotic [[Fire|fire]].
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Richard Duke of York (3 Henry VI) — Act I, Scene 1 — exchange (PRINCE EDWARD) [5]"
+title: "[[Richard]] [[Duke of York]] (3 [[Henry VI]]) — Act I, Scene 1 — exchange (PRINCE EDWARD) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/RICHARD-DUKE-OF-YORK---(3-HENRY-VI)-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| PRINCE EDWARD | Father, you cannot disinherit me. If you be king, why should not I succeed? |
-| KING HENRY | Pardon me, Margaret; pardon me, sweet son— The Earl of Warwick and the Duke enforced me. |
+| PRINCE EDWARD | Father, you cannot disinherit me. If you be [[King|king]], why should not I succeed? |
+| [[King|KING]] HENRY | Pardon me, Margaret; pardon me, sweet son— The [[Earl of Warwick]] and the Duke enforced me. |

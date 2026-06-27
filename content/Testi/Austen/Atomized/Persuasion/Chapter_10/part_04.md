@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 10 (part 4)"
+title: "[[Persuasion]] — Chapter 10 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -16,7 +16,7 @@ tags:
 
 “Miss Elliot, I am sure _you_ are tired,” cried Mrs Croft. “Do let us
 
-have the pleasure of taking you home. Here is excellent room for three,
+have the pleasure of taking you [[Home|home]]. Here is excellent room for three,
 
 I assure you. If we were all like you, I believe we might sit four. You
 
@@ -32,7 +32,7 @@ came in support of his wife’s; they would not be refused; they
 
 compressed themselves into the smallest possible space to leave her a
 
-corner, and Captain Wentworth, without saying a word, turned to her,
+corner, and [[Captain Wentworth]], without saying a word, turned to her,
 
 and quietly obliged her to be assisted into the carriage.
 
@@ -58,13 +58,13 @@ high and unjust resentment, though perfectly careless of her, and
 
 though becoming attached to another, still he could not see her suffer,
 
-without the desire of giving her relief. It was a remainder of former
+without the [[Desire|desire]] of giving her relief. It was a remainder of former
 
-sentiment; it was an impulse of pure, though unacknowledged friendship;
+sentiment; it was an impulse of pure, though unacknowledged [[Friendship|friendship]];
 
 it was a proof of his own warm and amiable heart, which she could not
 
-contemplate without emotions so compounded of pleasure and pain, that
+contemplate without emotions so compounded of pleasure and [[Pain|pain]], that
 
 she knew not which prevailed.
 
@@ -90,9 +90,9 @@ this comes of the peace. If it were war now, he would have settled it
 
 long ago. We sailors, Miss Elliot, cannot afford to make long
 
-courtships in time of war. How many days was it, my dear, between the
+courtships in [[Time|time]] of war. How many days was it, my dear, between the
 
-first time of my seeing you and our sitting down together in our
+first [[Time|time]] of my seeing you and our sitting down together in our
 
 lodgings at North Yarmouth?”
 
@@ -108,11 +108,11 @@ together. I had known you by character, however, long before.”
 
 
 
-“Well, and I had heard of you as a very pretty girl, and what were we
+“[[Well]], and I had heard of you as a very pretty girl, and what were we
 
 to wait for besides? I do not like having such things so long in hand.
 
-I wish Frederick would spread a little more canvass, and bring us home
+I wish Frederick would spread a little more canvass, and bring us [[Home|home]]
 
 one of these young ladies to Kellynch. Then there would always be
 

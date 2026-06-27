@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 5"
+title: "[[queertrades]] — Chapter 5"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/queertrades-(Chesterton)"
@@ -21,7 +21,7 @@ The Noticeable Conduct of Professor Chadd
 
 Basil Grant had comparatively few friends besides myself; yet he was
 the reverse of an unsociable man.  He would talk to any one anywhere,
-and talk not only well but with perfectly genuine concern and enthusiasm
+and talk not only [[Well|well]] but with perfectly genuine concern and enthusiasm
 for that person's affairs.  He went through the world, as it were,
 as if he were always on the top of an omnibus or waiting for a train.
 Most of these chance acquaintances, of course, vanished into darkness
@@ -40,7 +40,7 @@ made his acquaintance over a discussion in a hotel cloak-room about
 the right hat, a discussion which reduced the little major almost
 to a kind of masculine hysterics, the compound of the selfishness
 of an old bachelor and the scrupulosity of an old maid.
-They had gone home in a cab together and then dined with each
+They had gone [[Home|home]] in a cab together and then dined with each
 other twice a week until they died.  I myself was another.
 I had met Grant while he was still a judge, on the balcony of the
 National Liberal Club, and exchanged a few words about the weather.
@@ -67,19 +67,19 @@ There he lived with three sisters, ladies of solid goodness,
 but sinister demeanour.  His life was happy, as are almost all the lives
 of methodical students, but one would not have called it exhilarating.
 His only hours of exhilaration occurred when his friend, Basil Grant,
-came into the house, late at night, a tornado of conversation.
+came into the [[house]], late at [[Night|night]], a tornado of conversation.
 
 Basil, though close on sixty, had moods of boisterous babyishness,
 and these seemed for some reason or other to descend upon him
-particularly in the house of his studious and almost dingy friend.
+particularly in the [[house]] of his studious and almost dingy friend.
 I can remember vividly (for I was acquainted with both parties
 and often dined with them) the gaiety of Grant on that particular
-evening when the strange calamity fell upon the professor.
+evening when the strange calamity fell upon [[The Professor|the professor]].
 Professor Chadd was, like most of his particular class and type
 (the class that is at once academic and middle-class), a Radical
 of a solemn and old-fashioned type.  Grant was a Radical himself,
 but he was that more discriminating and not uncommon type of
-Radical who passes most of his time in abusing the Radical party.
+Radical who passes most of his [[Time|time]] in abusing the Radical party.
 Chadd had just contributed to a magazine an article called
 "Zulu Interests and the New Makango Frontier', in which a precise
 scientific report of his study of the customs of the people
@@ -93,22 +93,22 @@ shaking it with his voice, with his high spirits and his heavy tread.
 "It's not your opinions that I object to, my esteemed Chadd,"
 he was saying, "it's you.  You are quite right to champion
 the Zulus, but for all that you do not sympathize with them.
-No doubt you know the Zulu way of cooking tomatoes and the Zulu prayer
+No [[Doubt|doubt]] you know the Zulu way of cooking tomatoes and the Zulu [[prayer]]
 before blowing one's nose; but for all that you don't understand
-them as well as I do, who don't know an assegai from an alligator.
+them as [[Well|well]] as I do, who don't know an assegai from an alligator.
 You are more learned, Chadd, but I am more Zulu.  Why is it that the jolly
 old barbarians of this earth are always championed by people who are
 their antithesis?  Why is it?  You are sagacious, you are benevolent,
-you are well informed, but, Chadd, you are not savage.  Live no longer
+you are [[Well|well]] informed, but, Chadd, you are not savage.  Live no longer
 under that rosy illusion.  Look in the glass.  Ask your sisters.
 Consult the librarian of the British Museum.  Look at this umbrella."
 And he held up that sad but still respectable article.  "Look at it.
 For ten mortal years to my certain knowledge you have carried
-that object under your arm, and I have no sort of doubt that you
+that object under your arm, and I have no sort of [[Doubt|doubt]] that you
 carried it at the age of eight months, and it never occurred to you
 to give one wild yell and hurl it like a javelin--thus--"
 
-And he sent the umbrella whizzing past the professor's bald head,
+And he sent the umbrella whizzing past [[The Professor|the professor]]'s bald head,
 so that it knocked over a pile of books with a crash and left
 a vase rocking.
 
@@ -117,7 +117,7 @@ to the lamp and the wrinkle cut in his forehead.
 
 "Your mental processes," he said, "always go a little too fast.
 And they are stated without method.  There is no kind of inconsistency"--
-and no words can convey the time he took to get to the end of
+and no words can convey the [[Time|time]] he took to get to the end of
 the word--"between valuing the right of the aborigines to adhere
 to their stage in the evolutionary process, so long as they find it
 congenial and requisite to do so.  There is, I say, no inconsistency
@@ -135,7 +135,7 @@ Grant was shaking with laughter as he watched him.
 But there is a great deal of incompatibility of temper.
 I am very far from being certain that the Zulu is on an inferior
 evolutionary stage, whatever the blazes that may mean.  I do not think
-there is anything stupid or ignorant about howling at the moon or being
+there is anything stupid or ignorant about howling at the [[Moon|moon]] or being
 afraid of devils in the dark.  It seems to me perfectly philosophical.
 Why should a man be thought a sort of idiot because he feels
 the mystery and peril of existence itself?  Suppose, my dear Chadd,
@@ -151,7 +151,7 @@ that our civilization is not or may not be an advance upon,
 and indeed (if I apprehend you), is or may be a retrogression
 from states identical with or analogous to the state of the Zulus.
 Moreover, I shall be inclined to concede that such a proposition
-is of the nature, in some degree at least, of a primary proposition,
+is of the [[Nature|nature]], in some degree at least, of a primary proposition,
 and cannot adequately be argued, in the same sense, I mean,
 that the primary proposition of pessimism, or the primary proposition
 of the non-existence of matter, cannot adequately be argued.
@@ -176,7 +176,7 @@ because I have a feeling that that is not the way that things happen.
 If you ask me why I think so I can only answer that I am a Zulu;
 and if you ask me (as you most certainly will) what is my definition
 of a Zulu, I can answer that also.  He is one who has climbed a Sussex
-apple-tree at seven and been afraid of a ghost in an English lane."
+apple-tree at seven and been afraid of a [[Ghost|ghost]] in an English lane."
 
 "Your process of thought--" began the immovable Chadd, but his speech
 was interrupted.  His sister, with that masculinity which always
@@ -185,14 +185,14 @@ with a rigid arm and said:
 
 "James, Mr Bingham of the British Museum wants to see you again."
 
-The philosopher rose with a dazed look, which always indicates
-in such men the fact that they regard philosophy as a familiar thing,
+The philosopher [[Rose|rose]] with a dazed look, which always indicates
+in such men the fact that they regard [[philosophy]] as a familiar thing,
 but practical life as a weird and unnerving vision, and walked
 dubiously out of the room.
 
-"I hope you do not mind my being aware of it, Miss Chadd,"
+"I [[Hope|hope]] you do not mind my being aware of it, Miss Chadd,"
 said Basil Grant, "but I hear that the British Museum has recognized
-one of the men who have deserved well of their commonwealth.
+one of the men who have deserved [[Well|well]] of their commonwealth.
 It is true, is it not, that Professor Chadd is likely to be made
 keeper of Asiatic manuscripts?"
 
@@ -203,21 +203,21 @@ feel a great deal, but great relief, which they feel more;
 relief from worry from a lot of things.  James' health has never
 been good, and while we are as poor as we are he had to do journalism
 and coaching, in addition to his own dreadful grinding notions
-and discoveries, which he loves more than man, woman, or child.
+and discoveries, which he loves more than man, woman, or [[Child|child]].
 I have often been afraid that unless something of this kind
 occurred we should really have to be careful of his brain.
 But I believe it is practically settled."
 
 "I am delighted," began Basil, but with a worried face, "but these
 red-tape negotiations are so terribly chancy that I really can't
-advise you to build on hope, only to be hurled down into bitterness.
+advise you to build on [[Hope|hope]], only to be hurled down into bitterness.
 I've known men, and good men like your brother, come nearer than
 this and be disappointed.  Of course, if it is true--"
 
 "If it is true," said the woman fiercely, "it means that people
 who have never lived may make an attempt at living."
 
-Even as she spoke the professor came into the room still with the dazed
+Even as she spoke [[The Professor|the professor]] came into the room still with the dazed
 look in his eyes.
 
 "Is it true?" asked Basil, with burning eyes.
@@ -227,30 +227,30 @@ look in his eyes.
 
 "What do you mean?" demanded Grant.
 
-"Well," said the professor slowly, "in saying that you could possess
+"[[Well]]," said [[The Professor|the professor]] slowly, "in saying that you could possess
 a knowledge of the essence of Zulu life distinct from--"
 
 "Oh! confound Zulu life," cried Grant, with a burst of laughter.
 "I mean, have you got the post?"
 
 "You mean the post of keeper of the Asiatic manuscripts," he said,
-opening his eye with childlike wonder.  "Oh, yes, I got that.
+opening his eye with childlike [[Wonder|wonder]].  "Oh, yes, I got that.
 But the real objection to your argument, which has only, I admit,
 occurred to me since I have been out of the room, is that it does
-not merely presuppose a Zulu truth apart from the facts, but infers
+not merely presuppose a Zulu [[Truth|truth]] apart from the facts, but infers
 that the discovery of it is absolutely impeded by the facts."
 
-"I am crushed," said Basil, and sat down to laugh, while the professor's
+"I am crushed," said Basil, and sat down to laugh, while [[The Professor|the professor]]'s
 sister retired to her room, possibly, possibly not.
 
 It was extremely late when we left the Chadds, and it is an extremely
-long and tiresome journey from Shepherd's Bush to Lambeth.
+long and tiresome [[Journey|journey]] from Shepherd's Bush to Lambeth.
 This may be our excuse for the fact that we (for I was stopping
-the night with Grant) got down to breakfast next day at a time
-inexpressibly criminal, a time, in point of fact, close upon noon.
+the [[Night|night]] with Grant) got down to breakfast next day at a [[Time|time]]
+inexpressibly criminal, a [[Time|time]], in point of fact, close upon [[Noon|noon]].
 Even to that belated meal we came in a very lounging and
 leisurely fashion.  Grant, in particular, seemed so dreamy at table
-that he scarcely saw the pile of letters by his plate, and I doubt
+that he scarcely saw the pile of letters by his plate, and I [[Doubt|doubt]]
 if he would have opened any of them if there had not lain on the top
 that one thing which has succeeded amid modern carelessness in being
 really urgent and coercive--a telegram.  This he opened with the same
@@ -259,7 +259,7 @@ When he read it he did not stir a hair or say a word, but something,
 I know not what, made me feel that the motionless figure had been
 pulled together suddenly as strings are tightened on a slack guitar.
 Though he said nothing and did not move, I knew that he had been
-for an instant cleared and sharpened with a shock of cold water.
+for an instant cleared and sharpened with a shock of cold [[Water|water]].
 It was scarcely any surprise to me when a man who had drifted
 sullenly to his seat and fallen into it, kicked it away like a cur
 from under him and came round to me in two strides.
@@ -281,7 +281,7 @@ that grass is green or God all-merciful. These things are truisms,
 and often private ones at that.  If Miss Chadd has written down under
 the eye of a strange woman in a post-office that her brother is off
 his head you may be perfectly certain that she did it because it
-was a matter of life and death, and she can think of no other way
+was a matter of life and [[Death|death]], and she can think of no other way
 of forcing us to come promptly."
 
 "It will force us of course," I said, smiling.
@@ -289,12 +289,12 @@ of forcing us to come promptly."
 "Oh, yes," he replied; "there is a cab-rank near."
 
 Basil scarcely said a word as we drove across Westminster Bridge,
-through Trafalgar Square, along Piccadilly, and up the Uxbridge Road.
+through Trafalgar Square, along Piccadilly, and up the Uxbridge [[Road]].
 Only as he was opening the gate he spoke.
 
 "I think you will take my word for it, my friend," he said;
 "this is one of the most queer and complicated and astounding
-incidents that ever happened in London or, for that matter,
+incidents that ever happened in [[London]] or, for that matter,
 in any high civilization."
 
 "I confess with the greatest sympathy and reverence that I don't quite
@@ -302,13 +302,13 @@ see it," I said.  "Is it so very extraordinary or complicated that a
 dreamy somnambulant old invalid who has always walked on the borders
 of the inconceivable should go mad under the shock of great joy?
 Is it so very extraordinary that a man with a head like a turnip
-and a soul like a spider's web should not find his strength equal
+and a [[Soul|soul]] like a spider's web should not find his strength equal
 to a confounding change of fortunes?  Is it, in short, so very
 extraordinary that James Chadd should lose his wits from excitement?"
 
 "It would not be extraordinary in the least," answered Basil,
 with placidity.  "It would not be extraordinary in the least,"
-he repeated, "if the professor had gone mad.  That was not
+he repeated, "if [[The Professor|the professor]] had gone mad.  That was not
 the extraordinary circumstance to which I referred."
 
 "What," I asked, stamping my foot, "was the extraordinary thing?"
@@ -322,20 +322,20 @@ way to be blocking the narrow passage and the little parlour.
 There was a general sense of their keeping something from view.
 They seemed like three black-clad ladies in some strange play
 of Maeterlinck, veiling the catastrophe from the audience in the manner
-of the Greek chorus.
+of the Greek [[Chorus|chorus]].
 
 "Sit down, won't you?" said one of them, in a voice that was
-somewhat rigid with pain.  "I think you had better be told first
+somewhat rigid with [[Pain|pain]].  "I think you had better be told first
 what has happened."
 
-Then, with her bleak face looking unmeaningly out of the window,
+Then, with her bleak face looking unmeaningly out of the [[Window|window]],
 she continued, in an even and mechanical voice:
 
 "I had better state everything that occurred just as it occurred.
 This morning I was clearing away the breakfast things,
 my sisters were both somewhat unwell, and had not come down.
 My brother had just gone out of the room, I believe, to fetch a book.
-He came back again, however, without it, and stood for some time
+He came back again, however, without it, and stood for some [[Time|time]]
 staring at the empty grate.  I said, `Were you looking for anything
 I could get?'  He did not answer, but this constantly happens,
 as he is often very abstracted.  I repeated my question,
@@ -370,21 +370,21 @@ describe circles with it in the air.  I rushed to the door and shouted
 for Christina.  I will not dwell on the dreadful hours that followed.
 All three of us talked to him, implored him to speak to us with
 appeals that might have brought back the dead, but he has done
-nothing but hop and dance and kick with a solemn silent face.
+nothing but hop and [[Dance|dance]] and kick with a solemn silent face.
 It looks as if his legs belonged to some one else or were possessed
-by devils.  He has never spoken to us from that time to this."
+by devils.  He has never spoken to us from that [[Time|time]] to this."
 
 "Where is he now?"  I said, getting up in some agitation.
-"We ought not to leave him alone."
+"We ought not to leave him [[Alone|alone]]."
 
 "Doctor Colman is with him," said Miss Chadd calmly.  "They are
-in the garden.  Doctor Colman thought the air would do him good.
+in the [[Garden|garden]].  Doctor Colman thought the air would do him good.
 And he can scarcely go into the street."
 
-Basil and I walked rapidly to the window which looked out on the garden.
-It was a small and somewhat smug suburban garden; the flower beds
+Basil and I walked rapidly to the [[Window|window]] which looked out on the [[Garden|garden]].
+It was a small and somewhat smug suburban [[Garden|garden]]; the flower beds
 a little too neat and like the pattern of a coloured carpet;
-but on this shining and opulent summer day even they had
+but on this shining and opulent [[Summer|summer]] day even they had
 the exuberance of something natural, I had almost said tropical.
 In the middle of a bright and verdant but painfully circular lawn
 stood two figures.  One of them was a small, sharp-looking man
@@ -393,19 +393,19 @@ who was talking very quietly and clearly, yet with a nervous twitch,
 as it were, in his face.  The other was our old friend,
 listening with his old forbearing expression and owlish eyes,
 the strong sunlight gleaming on his glasses as the lamplight had
-gleamed the night before, when the boisterous Basil had rallied
+gleamed the [[Night|night]] before, when the boisterous Basil had rallied
 him on his studious decorum.  But for one thing the figure of this
-morning might have been the identical figure of last night.
+morning might have been the identical figure of last [[Night|night]].
 That one thing was that while the face listened reposefully
 the legs were industriously dancing like the legs of a marionette.
-The neat flowers and the sunny glitter of the garden lent
+The neat [[Flowers|flowers]] and the sunny glitter of the [[Garden|garden]] lent
 an indescribable sharpness and incredibility to the prodigy--
 the prodigy of the head of a hermit and the legs of a harlequin.
 For miracles should always happen in broad daylight.
-The night makes them credible and therefore commonplace.
+The [[Night|night]] makes them credible and therefore commonplace.
 
-The second sister had by this time entered the room and came somewhat
-drearily to the window.
+The second sister had by this [[Time|time]] entered the room and came somewhat
+drearily to the [[Window|window]].
 
 "You know, Adelaide," she said, "that Mr Bingham from the Museum
 is coming again at three."
@@ -417,31 +417,31 @@ come easily to us."
 Grant suddenly turned round.  "What do you mean?" he said.
 "What will you have to tell Mr Bingham?"
 
-"You know what I shall have to tell him," said the professor's sister,
+"You know what I shall have to tell him," said [[The Professor|the professor]]'s sister,
 almost fiercely.  "I don't know that we need give it its wretched name.
 Do you think that the keeper of Asiatic manuscripts will be allowed
 to go on like that?"  And she pointed for an instant at the figure
-in the garden, the shining, listening face and the unresting feet.
+in the [[Garden|garden]], the shining, listening face and the unresting feet.
 
 Basil Grant took out his watch with an abrupt movement.
 "When did you say the British Museum man was coming?" he said.
 
-"Three o'clock," said Miss Chadd briefly.
+"Three o'[[Clock|clock]]," said Miss Chadd briefly.
 
 "Then I have an hour before me," said Grant, and without another word
-threw up the window and jumped out into the garden.  He did not walk
-straight up to the doctor and lunatic, but strolling round the garden
+threw up the [[Window|window]] and jumped out into the [[Garden|garden]].  He did not walk
+straight up to the doctor and lunatic, but strolling round the [[Garden|garden]]
 path drew near them cautiously and yet apparently carelessly.
 He stood a couple of feet off them, seemingly counting halfpence
 out of his trousers pocket, but, as I could see, looking up steadily
 under the broad brim of his hat.
 
 Suddenly he stepped up to Professor Chadd's elbow, and said,
-in a loud familiar voice, "Well, my boy, do you still think
+in a loud familiar voice, "[[Well]], my boy, do you still think
 the Zulus our inferiors?"
 
 The doctor knitted his brows and looked anxious, seeming to be about
-to speak.  The professor turned his bald and placid head towards
+to speak.  [[The Professor|The professor]] turned his bald and placid head towards
 Grant in a friendly manner, but made no answer, idly flinging his
 left leg about.
 
@@ -451,17 +451,17 @@ still in the same loud and lucid tone.
 Chadd only shuffled his feet and kicked a little with the other leg,
 his expression still benevolent and inquiring.  The doctor cut
 in rather sharply.  "Shall we go inside, professor?" he said.
-"Now you have shown me the garden.  A beautiful garden.
-A most beautiful garden.  Let us go in," and he tried to draw
-the kicking ethnologist by the elbow, at the same time whispering
+"Now you have shown me the [[Garden|garden]].  A beautiful [[Garden|garden]].
+A most beautiful [[Garden|garden]].  Let us go in," and he tried to draw
+the kicking ethnologist by the elbow, at the same [[Time|time]] whispering
 to Grant:  "I must ask you not to trouble him with questions.
 Most risky.  He must be soothed."
 
 Basil answered in the same tone, with great coolness:
 
 "Of course your directions must be followed out, doctor.  I will endeavour
-to do so, but I hope it will not be inconsistent with them if you
-will leave me alone with my poor friend in this garden for an hour.
+to do so, but I [[Hope|hope]] it will not be inconsistent with them if you
+will leave me [[Alone|alone]] with my poor friend in this [[Garden|garden]] for an hour.
 I want to watch him.  I assure you, Dr Colman, that I shall say very
 little to him, and that little shall be as soothing as--as syrup."
 
@@ -471,17 +471,17 @@ The doctor wiped his eyeglass thoughtfully.
 sun without his hat.  With his bald head, too."
 
 "That is soon settled," said Basil composedly, and took off his own
-big hat and clapped it on the egglike skull of the professor.
+big hat and clapped it on the egglike skull of [[The Professor|the professor]].
 The latter did not turn round but danced away with his eyes
 on the horizon.
 
 The doctor put on his glasses again, looked severely at the two
 for some seconds, with his head on one side like a bird's,
-and then saying, shortly, "All right," strutted away into the house,
+and then saying, shortly, "All right," strutted away into the [[house]],
 where the three Misses Chadd were all looking out from the parlour
-window on to the garden.  They looked out on it with hungry eyes
+[[Window|window]] on to the [[Garden|garden]].  They looked out on it with hungry eyes
 for a full hour without moving, and they saw a sight which was more
-extraordinary than madness itself.
+extraordinary than [[Madness|madness]] itself.
 
 Basil Grant addressed a few questions to the madman, without succeeding
 in making him do anything but continue to caper, and when he had
@@ -492,7 +492,7 @@ He began hurriedly to scribble notes.  When the lunatic skipped away from
 him he would walk a few yards in pursuit, stop, and make notes again.
 Thus they followed each other round and round the foolish circle
 of turf, the one writing in pencil with the face of a man working
-out a problem, the other leaping and playing like a child.
+out a problem, the other leaping and playing like a [[Child|child]].
 
 After about three-quarters of an hour of this imbecile scene,
 Grant put the pencil in his pocket, but kept the note-book open
@@ -500,15 +500,15 @@ in his hand, and walking round the mad professor, planted himself
 directly in front of him.
 
 Then occurred something that even those already used to that wild
-morning had not anticipated or dreamed.  The professor, on finding
+morning had not anticipated or dreamed.  [[The Professor|The professor]], on finding
 Basil in front of him, stared with a blank benignity for a few seconds,
 and then drew up his left leg and hung it bent in the attitude
 that his sister had described as being the first of all his antics.
 And the moment he had done it Basil Grant lifted his own leg and held it
 out rigid before him, confronting Chadd with the flat sole of his boot.
-The professor dropped his bent leg, and swinging his weight on to it
+[[The Professor|The professor]] dropped his bent leg, and swinging his weight on to it
 kicked out the other behind, like a man swimming.  Basil crossed
-his feet like a saltire cross, and then flung them apart again,
+his feet like a saltire [[Cross|cross]], and then flung them apart again,
 giving a leap into the air.  Then before any of the spectators
 could say a word or even entertain a thought about the matter,
 both of them were dancing a sort of jig or hornpipe opposite each other;
@@ -516,13 +516,13 @@ and the sun shone down on two madmen instead of one.
 
 They were so stricken with the deafness and blindness of monomania
 that they did not see the eldest Miss Chadd come out feverishly into
-the garden with gestures of entreaty, a gentleman following her.
+the [[Garden|garden]] with gestures of entreaty, a gentleman following her.
 Professor Chadd was in the wildest posture of a pas-de-quatre,
-Basil Grant seemed about to turn a cart-wheel, when they were frozen
+Basil Grant seemed about to turn a cart-[[Wheel|wheel]], when they were frozen
 in their follies by the steely voice of Adelaide Chadd saying,
 "Mr Bingham of the British Museum."
 
-Mr Bingham was a slim, well-clad gentleman with a pointed and
+Mr Bingham was a slim, [[Well|well]]-clad gentleman with a pointed and
 slightly effeminate grey beard, unimpeachable gloves, and formal
 but agreeable manners.  He was the type of the over-civilized,
 as Professor Chadd was of the uncivilized pedant.  His formality
@@ -533,7 +533,7 @@ of knowledge had accustomed him to the spectacle of two grey-haired
 middle-class gentlemen in modern costume throwing themselves about
 like acrobats as a substitute for an after-dinner nap.
 
-The professor continued his antics with perfect placidity,
+[[The Professor|The professor]] continued his antics with perfect placidity,
 but Grant stopped abruptly.  The doctor had reappeared on the scene,
 and his shiny black eyes, under his shiny black hat, moved restlessly
 from one of them to the other.
@@ -547,7 +547,7 @@ Mr Bingham, of the British Museum, bowed in a manner that was
 respectful but a trifle bewildered.
 
 "Miss Chadd will excuse me," continued Basil easily, "if I know
-my way about the house."  And he led the dazed librarian rapidly
+my way about the [[house]]."  And he led the dazed librarian rapidly
 through the back door into the parlour.
 
 "Mr Bingham," said Basil, setting a chair for him, "I imagine
@@ -570,16 +570,16 @@ in his chair, drawing it up to the table.
 "I am delighted, of course," said the gentleman from the British Museum,
 coughing and drawing up his chair also.
 
-The clock on the mantelpiece ticked for just the moments required
+The [[Clock|clock]] on the mantelpiece ticked for just the moments required
 for Basil to clear his throat and collect his words, and then he said:
 
 "My proposal is this.  I do not know that in the strict use of words
 you could altogether call it a compromise, still it has something of
-that character.  My proposal is that the Government (acting, as I presume,
+that character.  My proposal is that the [[government|Government]] (acting, as I presume,
 through your Museum) should pay Professor Chadd L800 a year until
 he stops dancing."
 
-"Eight hundred a year!" said Mr Bingham, and for the first time lifted
+"Eight hundred a year!" said Mr Bingham, and for the first [[Time|time]] lifted
 his mild blue eyes to those of his interlocutor--and he raised them
 with a mild blue stare.  "I think I have not quite understood you.
 Did I understand you to say that Professor Chadd ought to be employed,
@@ -606,17 +606,17 @@ for life.  Not at all."
 
 "What for, then?" asked the meek Bingham, suppressing an instinct
 meekly to tear his hair.  "How long is this endowment to run?
-Not till his death?  Till the Judgement day?"
+Not till his [[Death|death]]?  Till the Judgement day?"
 
 "No," said Basil, beaming, "but just what I said.  Till he has
 stopped dancing."  And he lay back with satisfaction and his hands
 in his pockets.
 
-Bingham had by this time fastened his eyes keenly on Basil Grant
+Bingham had by this [[Time|time]] fastened his eyes keenly on Basil Grant
 and kept them there.
 
 "Come, Mr Grant," he said.  "Do I seriously understand you to suggest
-that the Government pay Professor Chadd an extraordinarily high salary
+that the [[government|Government]] pay Professor Chadd an extraordinarily high salary
 simply on the ground that he has (pardon the phrase) gone mad?
 That he should be paid more than four good clerks solely on the ground
 that he is flinging his boots about in the back yard?"
@@ -628,7 +628,7 @@ but actually to stop with the absurd dancing?"
 
 "One must stop somewhere," said Grant.  "Of course."
 
-Bingham rose and took up his perfect stick and gloves.
+Bingham [[Rose|rose]] and took up his perfect stick and gloves.
 
 "There is really nothing more to be said, Mr Grant," he said coldly.
 "What you are trying to explain to me may be a joke--
@@ -644,7 +644,7 @@ I am sorry to say, with the British Museum Library."
 He was stepping towards the door, but Grant's hand, flung out
 in dramatic warning, arrested him.
 
-"Stop!" said Basil sternly.  "Stop while there is yet time.
+"Stop!" said Basil sternly.  "Stop while there is yet [[Time|time]].
 Do you want to take part in a great work, Mr Bingham?  Do you
 want to help in the glory of Europe--in the glory of science?
 Do you want to carry your head in the air when it is bald or
@@ -666,7 +666,7 @@ Dr Colman was coming in.
 "the fact is, Mr Grant, I--er--have made a most disturbing discovery
 about Mr Chadd."
 
-Bingham looked at him with grave eyes.
+Bingham looked at him with [[Grave|grave]] eyes.
 
 "I was afraid so," he said.  "Drink, I imagine."
 
@@ -691,10 +691,10 @@ is of a different character.  The awful thing about him is--"
 
 "Not mad!"
 
-"There are quite well-known physical tests of lunacy,"
+"There are quite [[Well|well]]-known physical tests of lunacy,"
 said the doctor shortly; "he hasn't got any of them."
 
-"But why does he dance?" cried the despairing Bingham.
+"But why does he [[Dance|dance]]?" cried the despairing Bingham.
 "Why doesn't he answer us?  Why hasn't he spoken to his family?"
 
 "The devil knows," said Dr Colman coolly.  "I'm paid to judge
@@ -720,7 +720,7 @@ he began, but Bingham cried:
 
 "Of course, of course," with a sort of frenzy.
 
-"Well," said Basil, "like this."  And he suddenly sprang a foot
+"[[Well]]," said Basil, "like this."  And he suddenly sprang a foot
 into the air, coming down with crashing boots, and then stood
 on one leg.
 
@@ -738,13 +738,13 @@ Basil let his loose foot fall on the carpet with a crash that struck
 them all rigid in their feeble attitudes.
 
 "Idiots!" he cried.  "Have you seen the man?  Have you looked
-at James Chadd going dismally to and fro from his dingy house
+at James Chadd going dismally to and fro from his dingy [[house]]
 to your miserable library, with his futile books and his confounded
 umbrella, and never seen that he has the eyes of a fanatic?
 Have you never noticed, stuck casually behind his spectacles
 and above his seedy old collar, the face of a man who might
 have burned heretics, or died for the philosopher's stone?
-It is all my fault, in a way:  I lit the dynamite of his deadly faith.
+It is all my fault, in a way:  I lit the dynamite of his deadly [[Faith|faith]].
 I argued against him on the score of his famous theory about language--
 the theory that language was complete in certain individuals and
 was picked up by others simply by watching them.  I also chaffed
@@ -762,12 +762,12 @@ It is religious persecution."
 
 Mr Bingham held out his hand cordially.
 
-"I thank you, Mr Grant," he said.  "I hope I shall be able
+"I thank you, Mr Grant," he said.  "I [[Hope|hope]] I shall be able
 to answer for the source of the L800 and I fancy that I shall.
 Will you come in my cab?"
 
 "No, thank you very much, Mr Bingham," said Grant heartily.
-"I think I will go and have a chat with the professor in the garden."
+"I think I will go and have a chat with [[The Professor|the professor]] in the [[Garden|garden]]."
 
 The conversation between Chadd and Grant appeared to be personal
 and friendly.  They were still dancing when I left.

@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 23: IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES (part 3)"
+title: "The [[Pickwick]] Papers — Chapter 23: IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -16,9 +16,9 @@ tags:
 
 There was a momentary look of deep slyness in Job Trotter’s eye, as he
 said this, which ran a thrill through Mr. Weller’s clenched fist, as he
-burned with a desire to make a demonstration on his ribs. Sam
+burned with a [[Desire|desire]] to make a demonstration on his ribs. Sam
 constrained himself, however, and replied that his master was extremely
-well.
+[[Well|well]].
 
 ‘Oh, I am so glad,’ replied Mr. Trotter; ‘is he here?’
 
@@ -36,7 +36,7 @@ worse than ever.’
 ‘No, not at a boarding-school,’ replied Job Trotter, with the same sly
 look which Sam had noticed before; ‘not at a boarding-school.’
 
-‘At the house with the green gate?’ said Sam, eyeing his companion
+‘At the [[house]] with the green gate?’ said Sam, eyeing his companion
 closely.
 
 ‘No, no--oh, not there,’ replied Job, with a quickness very unusual to
@@ -46,13 +46,13 @@ him, ‘not there.’
 inside the gate by accident, perhaps?’
 
 ‘Why, Mr. Weller,’ replied Job, ‘I don’t mind telling you my little
-secrets, because, you know, we took such a fancy for each other when we
+[[Secrets|secrets]], because, you know, we took such a fancy for each other when we
 first met. You recollect how pleasant we were that morning?’
 
-‘Oh, yes,’ said Sam, impatiently. ‘I remember. Well?’
+‘Oh, yes,’ said Sam, impatiently. ‘I remember. [[Well]]?’
 
-‘Well,’ replied Job, speaking with great precision, and in the low tone
-of a man who communicates an important secret; ‘in that house with the
+‘[[Well]],’ replied Job, speaking with great precision, and in the low tone
+of a man who communicates an important secret; ‘in that [[house]] with the
 green gate, Mr. Weller, they keep a good many servants.’
 
 ‘So I should think, from the look on it,’ interposed Sam.
@@ -63,7 +63,7 @@ herself in life, to open a little shop in the chandlery way, you see.’
 
 Yes.’
 
-‘Yes, Mr. Weller. Well, Sir, I met her at a chapel that I go to; a very
+‘Yes, Mr. Weller. [[Well]], Sir, I met her at a chapel that I go to; a very
 neat little chapel in this town, Mr. Weller, where they sing the number
 four collection of hymns, which I generally carry about with me, in a
 little book, which you may perhaps have seen in my hand--and I got a
@@ -75,7 +75,7 @@ be the chandler.’
 with a side look of intense dislike.
 
 ‘The great advantage of this, Mr. Weller,’ continued Job, his eyes
-filling with tears as he spoke, ‘will be, that I shall be able to leave
+filling with [[Tears|tears]] as he spoke, ‘will be, that I shall be able to leave
 my present disgraceful service with that bad man, and to devote myself
 to a better and more virtuous life; more like the way in which I was
 brought up, Mr. Weller.’
@@ -92,14 +92,14 @@ Sam.
 ‘I was, sir,’ replied Job, heaving a deep sigh; ‘I was the idol of the
 place.’
 
-‘Ah,’ said Sam, ‘I don’t wonder at it. What a comfort you must ha’ been
+‘Ah,’ said Sam, ‘I don’t [[Wonder|wonder]] at it. What a comfort you must ha’ been
 to your blessed mother.’
 
 At these words, Mr. Job Trotter inserted an end of the pink handkerchief
 into the corner of each eye, one after the other, and began to weep
 copiously.
 
-‘Wot’s the matter with the man,’ said Sam, indignantly. ‘Chelsea water-
+‘Wot’s the matter with the man,’ said Sam, indignantly. ‘Chelsea [[Water|water]]-
 works is nothin’ to you. What are you melting vith now? The
 consciousness o’ willainy?’
 
@@ -116,8 +116,8 @@ speculation! Oh! Mr. Weller, it makes me shudder.’
 
 ‘Vell,’ said Sam, as they had now arrived near the hotel, ‘I vant to
 have a little bit o’ talk with you, Job; so if you’re not partickler
-engaged, I should like to see you at the Great White Horse to-night,
-somewheres about eight o’clock.’
+engaged, I should like to see you at the Great White [[Horse]] to-[[Night|night]],
+somewheres about eight o’[[Clock|clock]].’
 
 ‘I shall be sure to come,’ said Job.
 
@@ -129,13 +129,13 @@ and then I might cut you out, you know.’
 Sam’s hand with the utmost fervour, he walked away.
 
 ‘Take care, Job Trotter, take care,’ said Sam, looking after him, ‘or I
-shall be one too many for you this time. I shall, indeed.’ Having
+shall be one too many for you this [[Time|time]]. I shall, indeed.’ Having
 uttered this soliloquy, and looked after Job till he was to be seen no
 more, Mr. Weller made the best of his way to his master’s bedroom.
 
 ‘It’s all in training, Sir,’ said Sam.
 
-‘What’s in training, Sam?’ inquired Mr. Pickwick.
+‘What’s in training, Sam?’ inquired Mr. [[Pickwick]].
 
 ‘I’ve found ‘em out, Sir,’ said Sam.
 
@@ -144,14 +144,14 @@ more, Mr. Weller made the best of his way to his master’s bedroom.
 ‘That ‘ere queer customer, and the melan-cholly chap with the black
 hair.’
 
-‘Impossible, Sam!’ said Mr. Pickwick, with the greatest energy. ‘Where
+‘Impossible, Sam!’ said Mr. [[Pickwick]], with the greatest energy. ‘Where
 are they, Sam: where are they?’
 
-‘Hush, hush!’ replied Mr. Weller; and as he assisted Mr. Pickwick to
+‘Hush, hush!’ replied Mr. Weller; and as he assisted Mr. [[Pickwick]] to
 dress, he detailed the plan of action on which he proposed to enter.
 
-‘But when is this to be done, Sam?’ inquired Mr. Pickwick.
+‘But when is this to be done, Sam?’ inquired Mr. [[Pickwick]].
 
-‘All in good time, Sir,’ replied Sam.
+‘All in good [[Time|time]], Sir,’ replied Sam.
 
-Whether it was done in good time, or not, will be seen hereafter.
+Whether it was done in good [[Time|time]], or not, will be seen hereafter.

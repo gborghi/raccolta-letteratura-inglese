@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Everybody quotes the opening lines of Shelley's fine chorus of `Hellas'.
+Everybody quotes the opening lines of Shelley's fine [[Chorus|chorus]] of `Hellas'.
 And everybody quotes them as the expression of Shelley's heroic hope
 for the human race, his idealism and his optimism about his ideals,
 his radiant faith in a final fulfilment in which humanity should
@@ -58,9 +58,9 @@ which many modern as well as ancient philosophers have held, but to
 which the ancient philosophers gave the name of `The Great Year'.
 The theory, of course, is broadly this:  that when all
 possible permutations and combinations have been exhausted,
-the cosmic system will of its nature have to begin all over again
+the cosmic system will of its [[Nature|nature]] have to begin all over again
 and repeat everything we know exactly as we have known it.
-This will happen again and again for ever; for the same logic that brings
+This will happen again and again for ever; for the same [[logic]] that brings
 the repetition must also bring the repetition of the repetition.
 And, indeed, it is odd to notice how the philosophers repeat themselves
 even in describing the repetition.  Mr. Dawson quotes the case of a Greek
@@ -68,10 +68,10 @@ sage who said, `This staff that I am holding I shall hold again,'
 and the case of a Socialist thinker who said, `This pen I am holding
 I shall hold again,' in almost exactly the same form of words.
 Every detail of every life will return with exactitude, and return
-again and again to eternity.  And everybody knows how Nietzsche
+again and again to [[Eternity|eternity]].  And everybody knows how Nietzsche
 uttered this revelation, with something almost like a howl,
 from the last high and crazy peak of his strange existence;
-about the time, indeed, when he collapsed into complete insanity.
+about the [[Time|time]], indeed, when he collapsed into complete insanity.
 I do not know whether he went mad because he believed the theory,
 or only believed the theory because he went mad.  But it always struck
 me as an almost startling example of how a deathly fatalism overcomes
@@ -80,58 +80,58 @@ were wild enough, but wild at least on the side of Will and of Liberty.
 To see him entangled in that old necessitarian net is like seeing
 a great spider's web entangle an eagle.
 
-What interests me here is that it entangled the skylark as well
+What interests me here is that it entangled the skylark as [[Well|well]]
 as the eagle.  It is surely obvious that Shelley, in the rise
-and fall of those remarkable lines of the Hellas Chorus,
+and fall of those remarkable lines of the Hellas [[Chorus]],
 is referring to the old pagan conception of The Great Year.
 He feels that it justifies him in saying that the world's
 great age will begin anew and the golden years return.
 But he does not want to drain the urn of prophecy to the dregs,
-because the same wheel of fate that has brought round the golden years
+because the same [[Wheel|wheel]] of fate that has brought round the golden years
 will bring round also the leaden and the iron years; and we shall
-all be forced to repeat all the crimes and tyrannies of history.
+all be forced to repeat all the crimes and tyrannies of [[history]].
 Without being unduly controversial, I think I may say that it
 is not a cheery prospect.  And I am exceedingly proud to observe
-that it was before the coming of Christianity that it flourished,
-and after the neglect of Christianity that it returned.
+that it was before the coming of [[Christianity]] that it flourished,
+and after the neglect of [[Christianity]] that it returned.
 
-XXIV.  On the Romance of Childhood
+XXIV.  On the [[Romance]] of [[Childhood]]
 
 I AM just old enough to remember the world before telephones.
 And I remember that my father and my uncle fitted up with their own
 metal and chemicals the first telephone I ever saw:  a miniature
 telephone reaching from the top bedroom under the roof to the remote
-end of the garden.  I was really impressed imaginatively by this;
+end of the [[Garden|garden]].  I was really impressed imaginatively by this;
 and I do not think I have ever been so much impressed since by
 any extension of it.  The point is rather important in the whole
-theory of imagination.  It did startle me that a voice should sound
+theory of [[Imagination|imagination]].  It did startle me that a voice should sound
 in the room when it was really as distant as the next street.
 It would hardly have startled me more if it had been as distant
 as the next town.  It does not startle me any more if it
 is as distant as the next continent.  The miracle is over.
 Thus I admired even the large scientific things most on a small scale.
 So I always found that I was much more attracted by the microscope
-than the telescope.  I was not overwhelmed in childhood by being
-told of remote stars which the sun never reached, any more than
+than the telescope.  I was not overwhelmed in [[Childhood|childhood]] by being
+told of remote [[Stars|stars]] which the sun never reached, any more than
 in manhood by being told of the empire on which the sun never set.
 I had no use for an empire that had no sunsets.  But I was inspired and
 thrilled by looking through a little hole at a crystal like a pin's head,
 and seeing it change pattern and colour like a pygmy sunset.
 
 I have already picked two quarrels with better men than myself,
-who were enthusiasts for childish romance, upon the reality of the
-romance of childhood.  First, I disagree with them when they treat
-the infantile imagination as a sort of dream; whereas I remember it
+who were enthusiasts for childish [[Romance|romance]], upon the reality of the
+[[Romance|romance]] of [[Childhood|childhood]].  First, I disagree with them when they treat
+the infantile [[Imagination|imagination]] as a sort of dream; whereas I remember it
 rather as a man dreaming might remember the world where he was awake.
 And second, I deny that children have suffered under a tyranny
-of moral tales.  For I remember the time when it would have seemed
+of moral tales.  For I remember the [[Time|time]] when it would have seemed
 the most hideous tyranny to take my moral tales away from me.
 And, in order to make this clear, I must contradict yet another
-common assumption in the romantic description of the dawn of life.
+common assumption in the romantic description of the [[Dawn|dawn]] of life.
 The point is not very easy to explain; indeed, I have spent
 the greater part of my life in an unsuccessful attempt to explain it.
 Upon the cartloads of ill-constructed books in which I
-have completely failed to do so I have no desire to dwell.
+have completely failed to do so I have no [[Desire|desire]] to dwell.
 But perhaps, as a general definition, this might be useful; or, if not
 as a definition, at least a suggestion.  From the first vaguely,
 and of late more and more clearly, I have felt that the world

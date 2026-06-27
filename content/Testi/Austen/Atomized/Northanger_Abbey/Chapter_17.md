@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 16"
+title: "[[Northanger Abbey]] — Chapter 16"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -24,9 +24,9 @@ Catherine’s expectations of pleasure from her visit in Milsom Street
 
 were so very high that disappointment was inevitable; and accordingly,
 
-though she was most politely received by General Tilney, and kindly
+though she was most politely received by [[General Tilney]], and kindly
 
-welcomed by his daughter, though Henry was at home, and no one else of
+welcomed by his daughter, though Henry was at [[Home|home]], and no one else of
 
 the party, she found, on her return, without spending many hours in the
 
@@ -38,7 +38,7 @@ herself improved in acquaintance with Miss Tilney, from the intercourse
 
 of the day, she seemed hardly so intimate with her as before; instead
 
-of seeing Henry Tilney to greater advantage than ever, in the ease of a
+of seeing [[Henry Tilney]] to greater advantage than ever, in the ease of a
 
 family party, he had never said so little, nor been so little
 
@@ -48,11 +48,11 @@ spite of his thanks, invitations, and compliments—it had been a release
 
 to get away from him. It puzzled her to account for all this. It could
 
-not be General Tilney’s fault. That he was perfectly agreeable and
+not be [[General Tilney]]’s fault. That he was perfectly agreeable and
 
 good-natured, and altogether a very charming man, did not admit of a
 
-doubt, for he was tall and handsome, and Henry’s father. _He_ could not
+[[Doubt|doubt]], for he was tall and handsome, and Henry’s father. _He_ could not
 
 be accountable for his children’s want of spirits, or for her want of
 
@@ -60,23 +60,23 @@ enjoyment in his company. The former she hoped at last might have been
 
 accidental, and the latter she could only attribute to her own
 
-stupidity. Isabella, on hearing the particulars of the visit, gave a
+stupidity. [[Isabella]], on hearing the particulars of the visit, gave a
 
-different explanation: “It was all pride, pride, insufferable
+different explanation: “It was all [[Pride|pride]], [[Pride|pride]], insufferable
 
-haughtiness and pride! she had long suspected the family to be very
+haughtiness and [[Pride|pride]]! she had long suspected the family to be very
 
 high, and this made it certain. Such insolence of behaviour as Miss
 
 Tilney’s she had never heard of in her life! not to do the honours of
 
-her house with common good breeding! to behave to her guest with such
+her [[house]] with common good breeding! to behave to her guest with such
 
 superciliousness! hardly even to speak to her!”
 
 
 
-“But it was not so bad as that, Isabella; there was no
+“But it was not so bad as that, [[Isabella]]; there was no
 
 superciliousness; she was very civil.”
 
@@ -84,7 +84,7 @@ superciliousness; she was very civil.”
 
 “Oh, don’t defend her! and then the brother, he, who had appeared so
 
-attached to you! good heavens! well, some people’s feelings are
+attached to you! good heavens! [[Well|well]], some people’s feelings are
 
 incomprehensible. And so he hardly looked once at you the whole day?”
 
@@ -114,7 +114,7 @@ has the most constant heart.”
 
 
 
-“But as for General Tilney, I assure you it would be impossible for
+“But as for [[General Tilney]], I assure you it would be impossible for
 
 anybody to behave to me with greater civility and attention; it seemed
 
@@ -122,15 +122,15 @@ to be his only care to entertain and make me happy.”
 
 
 
-“Oh! i know no harm of him; I do not suspect him of pride. I believe he
+“Oh! i know no harm of him; I do not suspect him of [[Pride|pride]]. I believe he
 
-is a very gentleman-like man. John thinks very well of him, and John’s
+is a very gentleman-like man. John thinks very [[Well|well]] of him, and John’s
 
 judgment—”
 
 
 
-“Well, I shall see how they behave to me this evening; we shall meet
+“[[Well]], I shall see how they behave to me this evening; we shall meet
 
 them at the rooms.”
 
@@ -152,7 +152,7 @@ will be some forty miles off. And as for dancing, do not mention it, I
 
 beg; _that_ is quite out of the question. Charles Hodges will plague me
 
-to death, I dare say; but I shall cut him very short. Ten to one but he
+to [[Death|death]], I dare say; but I shall cut him very short. Ten to one but he
 
 guesses the reason, and that is exactly what I want to avoid, so I
 
@@ -160,17 +160,17 @@ shall insist on his keeping his conjecture to himself.”
 
 
 
-Isabella’s opinion of the Tilneys did not influence her friend; she was
+[[Isabella]]’s opinion of the Tilneys did not influence her friend; she was
 
 sure there had been no insolence in the manners either of brother or
 
-sister; and she did not credit there being any pride in their hearts.
+sister; and she did not credit there being any [[Pride|pride]] in their hearts.
 
 The evening rewarded her confidence; she was met by one with the same
 
 kindness, and by the other with the same attention, as heretofore: Miss
 
-Tilney took pains to be near her, and Henry asked her to dance.
+Tilney took pains to be near her, and Henry asked her to [[Dance|dance]].
 
 
 
@@ -188,7 +188,7 @@ that some people might think him handsomer than his brother, though, in
 
 her eyes, his air was more assuming, and his countenance less
 
-prepossessing. His taste and manners were beyond a doubt decidedly
+prepossessing. His taste and manners were beyond a [[Doubt|doubt]] decidedly
 
 inferior; for, within her hearing, he not only protested against every
 
@@ -206,19 +206,19 @@ instigator of the three villains in horsemen’s greatcoats, by whom she
 
 will hereafter be forced into a traveling-chaise and four, which will
 
-drive off with incredible speed. Catherine, meanwhile, undisturbed by
+drive off with incredible [[Speed|speed]]. Catherine, meanwhile, undisturbed by
 
 presentiments of such an evil, or of any evil at all, except that of
 
-having but a short set to dance down, enjoyed her usual happiness with
+having but a short set to [[Dance|dance]] down, enjoyed her usual happiness with
 
-Henry Tilney, listening with sparkling eyes to everything he said; and,
+[[Henry Tilney]], listening with sparkling eyes to everything he said; and,
 
 in finding him irresistible, becoming so herself.
 
 
 
-At the end of the first dance, Captain Tilney came towards them again,
+At the end of the first [[Dance|dance]], Captain Tilney came towards them again,
 
 and, much to Catherine’s dissatisfaction, pulled his brother away. They
 
@@ -228,7 +228,7 @@ not take immediate alarm, and lay it down as fact, that Captain Tilney
 
 must have heard some malevolent misrepresentation of her, which he now
 
-hastened to communicate to his brother, in the hope of separating them
+hastened to communicate to his brother, in the [[Hope|hope]] of separating them
 
 forever, she could not have her partner conveyed from her sight without
 
@@ -244,7 +244,7 @@ any objection to dancing, as his brother would be most happy to be
 
 introduced to her. Catherine, without hesitation, replied that she was
 
-very sure Miss Thorpe did not mean to dance at all. The cruel reply was
+very sure Miss Thorpe did not mean to [[Dance|dance]] at all. The cruel reply was
 
 passed on to the other, and he immediately walked away.
 
@@ -254,11 +254,11 @@ passed on to the other, and he immediately walked away.
 
 say before that he hated dancing; but it was very good-natured in him
 
-to think of it. I suppose he saw Isabella sitting down, and fancied she
+to think of it. I suppose he saw [[Isabella]] sitting down, and fancied she
 
 might wish for a partner; but he is quite mistaken, for she would not
 
-dance upon any account in the world.”
+[[Dance|dance]] upon any account in the world.”
 
 
 
@@ -288,15 +288,15 @@ _I_ be influenced, What would be _my_ inducement in acting so and so?”
 
 “Then we are on very unequal terms, for I understand you perfectly
 
-well.”
+[[Well|well]].”
 
 
 
-“Me? Yes; I cannot speak well enough to be unintelligible.”
+“Me? Yes; I cannot speak [[Well|well]] enough to be unintelligible.”
 
 
 
-“Bravo! an excellent satire on modern language.”
+“Bravo! an excellent [[Satire|satire]] on modern language.”
 
 
 
@@ -304,7 +304,7 @@ well.”
 
 
 
-“Shall I indeed? Do you really desire it? But you are not aware of the
+“Shall I indeed? Do you really [[Desire|desire]] it? But you are not aware of the
 
 consequences; it will involve you in a very cruel embarrassment, and
 
@@ -316,11 +316,11 @@ certainly bring on a disagreement between us.”
 
 
 
-“Well, then, I only meant that your attributing my brother’s wish of
+“[[Well]], then, I only meant that your attributing my brother’s wish of
 
-dancing with Miss Thorpe to good nature alone convinced me of your
+dancing with Miss Thorpe to good [[Nature|nature]] [[Alone|alone]] convinced me of your
 
-being superior in good nature yourself to all the rest of the world.”
+being superior in good [[Nature|nature]] yourself to all the rest of the world.”
 
 
 
@@ -328,11 +328,11 @@ Catherine blushed and disclaimed, and the gentleman’s predictions were
 
 verified. There was a something, however, in his words which repaid her
 
-for the pain of confusion; and that something occupied her mind so much
+for the [[Pain|pain]] of confusion; and that something occupied her mind so much
 
-that she drew back for some time, forgetting to speak or to listen, and
+that she drew back for some [[Time|time]], forgetting to speak or to listen, and
 
-almost forgetting where she was; till, roused by the voice of Isabella,
+almost forgetting where she was; till, roused by the voice of [[Isabella]],
 
 she looked up and saw her with Captain Tilney preparing to give them
 
@@ -340,9 +340,9 @@ hands across.
 
 
 
-Isabella shrugged her shoulders and smiled, the only explanation of
+[[Isabella]] shrugged her shoulders and smiled, the only explanation of
 
-this extraordinary change which could at that time be given; but as it
+this extraordinary change which could at that [[Time|time]] be given; but as it
 
 was not quite enough for Catherine’s comprehension, she spoke her
 
@@ -350,13 +350,13 @@ astonishment in very plain terms to her partner.
 
 
 
-“I cannot think how it could happen! isabella was so determined not to
+“I cannot think how it could happen! [[Isabella|isabella]] was so determined not to
 
-dance.”
+[[Dance|dance]].”
 
 
 
-“And did Isabella never change her mind before?”
+“And did [[Isabella]] never change her mind before?”
 
 
 
@@ -380,7 +380,7 @@ yourself.”
 
 
 
-“You are laughing; but, I assure you, Isabella is very firm in
+“You are laughing; but, I assure you, [[Isabella]] is very firm in
 
 general.”
 
@@ -400,9 +400,9 @@ The friends were not able to get together for any confidential
 
 discourse till all the dancing was over; but then, as they walked about
 
-the room arm in arm, Isabella thus explained herself: “I do not wonder
+the room arm in arm, [[Isabella]] thus explained herself: “I do not [[Wonder|wonder]]
 
-at your surprise; and I am really fatigued to death. He is such a
+at your surprise; and I am really fatigued to [[Death|death]]. He is such a
 
 rattle! amusing enough, if my mind had been disengaged; but I would
 
@@ -424,7 +424,7 @@ to excuse me, and get some other partner—but no, not he; after aspiring
 
 to my hand, there was nobody else in the room he could bear to think
 
-of; and it was not that he wanted merely to dance, he wanted to be with
+of; and it was not that he wanted merely to [[Dance|dance]], he wanted to be with
 
 me. Oh! such nonsense! i told him he had taken a very unlikely way to
 
@@ -452,9 +452,9 @@ was upon us.”
 
 “Handsome! yes, I suppose he may. I dare say people would admire him in
 
-general; but he is not at all in my style of beauty. I hate a florid
+general; but he is not at all in my style of [[Beauty|beauty]]. I hate a florid
 
-complexion and dark eyes in a man. However, he is very well. Amazingly
+complexion and dark eyes in a man. However, he is very [[Well|well]]. Amazingly
 
 conceited, I am sure. I took him down several times, you know, in my
 
@@ -490,15 +490,15 @@ borne by him without discontent. Catherine, whose expectations had been
 
 as unfixed as her ideas of her father’s income, and whose judgment was
 
-now entirely led by her brother, felt equally well satisfied, and
+now entirely led by her brother, felt equally [[Well|well]] satisfied, and
 
-heartily congratulated Isabella on having everything so pleasantly
+heartily congratulated [[Isabella]] on having everything so pleasantly
 
 settled.
 
 
 
-“It is very charming indeed,” said Isabella, with a grave face. “Mr.
+“It is very charming indeed,” said [[Isabella]], with a [[Grave|grave]] face. “Mr.
 
 Morland has behaved vastly handsome indeed,” said the gentle Mrs.
 
@@ -510,7 +510,7 @@ _can_ do more by and by, I dare say he will, for I am sure he must be
 
 an excellent good-hearted man. Four hundred is but a small income to
 
-begin on indeed, but your wishes, my dear Isabella, are so moderate,
+begin on indeed, but your wishes, my dear [[Isabella]], are so moderate,
 
 you do not consider how little you ever want, my dear.”
 
@@ -532,7 +532,7 @@ the affection it makes everybody feel for you. There never was a young
 
 woman so beloved as you are by everybody that knows you; and I dare say
 
-when Mr. Morland sees you, my dear child—but do not let us distress our
+when Mr. Morland sees you, my dear [[Child|child]]—but do not let us distress our
 
 dear Catherine by talking of such things. Mr. Morland has behaved so
 
@@ -560,15 +560,15 @@ Catherine was hurt by these insinuations. “I am very sure,” said she,
 
 
 
-Isabella recollected herself. “As to that, my sweet Catherine, there
+[[Isabella]] recollected herself. “As to that, my sweet Catherine, there
 
-cannot be a doubt, and you know me well enough to be sure that a much
+cannot be a [[Doubt|doubt]], and you know me [[Well|well]] enough to be sure that a much
 
 smaller income would satisfy me. It is not the want of more money that
 
 makes me just at present a little out of spirits; I hate money; and if
 
-our union could take place now upon only fifty pounds a year, I should
+our [[Union|union]] could take place now upon only fifty pounds a year, I should
 
 not have a wish unsatisfied. Ah! my Catherine, you have found me out.
 
@@ -578,11 +578,11 @@ to pass before your brother can hold the living.”
 
 
 
-“Yes, yes, my darling Isabella,” said Mrs. Thorpe, “we perfectly see
+“Yes, yes, my darling [[Isabella]],” said Mrs. Thorpe, “we perfectly see
 
 into your heart. You have no disguise. We perfectly understand the
 
-present vexation; and everybody must love you the better for such a
+present vexation; and everybody must [[Love|love]] you the better for such a
 
 noble honest affection.”
 
@@ -590,9 +590,9 @@ noble honest affection.”
 
 Catherine’s uncomfortable feelings began to lessen. She endeavoured to
 
-believe that the delay of the marriage was the only source of
+believe that the delay of the [[Marriage|marriage]] was the only source of
 
-Isabella’s regret; and when she saw her at their next interview as
+[[Isabella]]’s regret; and when she saw her at their next interview as
 
 cheerful and amiable as ever, endeavoured to forget that she had for a
 

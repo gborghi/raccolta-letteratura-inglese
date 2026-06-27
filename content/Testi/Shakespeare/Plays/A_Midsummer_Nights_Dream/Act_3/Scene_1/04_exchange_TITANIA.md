@@ -1,5 +1,5 @@
 ---
-title: "A Midsummer Nights Dream — Act III, Scene 1 — exchange (TITANIA) [4]"
+title: "A Midsummer Nights Dream — Act III, Scene 1 — exchange ([[Titania|TITANIA]]) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/A-MIDSUMMER-NIGHT’S-DREAM-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| TITANIA | (to the Fairies) Come, wait upon him, lead him to my bower. The moon, methinks, looks with a wat’ry eye, And when she weeps, weeps every little flower, Lamenting some enforced chastity. Tie up my love’s tongue; bring him silently. Exeunt |
+| [[Titania|TITANIA]] | (to the Fairies) Come, wait upon him, lead him to my bower. The [[Moon|moon]], methinks, looks with a wat’ry eye, And when she weeps, weeps every little flower, Lamenting some enforced chastity. Tie up my [[Love|love]]’s tongue; bring him silently. Exeunt |

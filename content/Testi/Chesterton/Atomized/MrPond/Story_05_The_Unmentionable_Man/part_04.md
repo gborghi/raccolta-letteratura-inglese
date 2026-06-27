@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Unmentionable Man (part 4)"
+title: "[[MrPond]] — The Unmentionable Man (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -38,7 +38,7 @@ Tarnowski the Terrorist is now said to be fomenting strikes and
 
 revolutions not only in this country but definitely in this
 
-capital.  Well, our friend in the white hat seems to me to be
+capital.  [[Well]], our friend in the white hat seems to me to be
 
 rather an old hand."
 
@@ -70,7 +70,7 @@ Mr. Huss stiffened and sat as still as a stone idol; but the change
 
 in the face of the graven image was appalling.  It suggested some
 
-nightmare story of a man at a solitary table finding he was dining
+[[nightmare]] story of a man at a solitary table finding he was dining
 
 with a devil.
 
@@ -88,7 +88,7 @@ and apparently to be repeated indefinitely without control.
 
 
 
-"Well," interrupted Pond, mildly exasperated, "how can you possibly
+"[[Well]]," interrupted Pond, mildly exasperated, "how can you possibly
 
 know that he is not Tarnowski?"
 
@@ -120,7 +120,7 @@ it."
 
 "That," observed the other with guttural slowness, "is what I think
 
-you call a paradox."
+you call a [[Paradox|paradox]]."
 
 
 
@@ -156,7 +156,7 @@ black, bloodshot with the glimpses of the Bolshevist journal.  In
 
 the social sense at least, there seemed to be a clearance in the
 
-storm, of the strikers if not the strike; the threat of riots had
+[[Storm|storm]], of the strikers if not the strike; the threat of riots had
 
 been outmanoeuvred; and the police were picketed at intervals down
 
@@ -184,9 +184,9 @@ him in a merely nonsensical manner, as if they had been dolls or
 
 dummies in some delightful puppet-play; their cocked hats carrying
 
-a vague memory of the beadle in a Punch-and-Judy show.  Through all
+a vague [[Memory|memory]] of the beadle in a Punch-and-Judy show.  Through all
 
-this coloured comedy there advanced the rigid figure of M. Marcus,
+this coloured [[Comedy|comedy]] there advanced the rigid figure of M. Marcus,
 
 with a visage which announced vividly that that political Puritan
 
@@ -194,9 +194,9 @@ did not believe in puppet-shows.
 
 
 
-"Well," he said, glaring at Pond with a sort of controlled rage, "I
+"[[Well]]," he said, glaring at Pond with a sort of controlled rage, "I
 
-fancy I can guess the truth about HIM."
+fancy I can guess the [[Truth|truth]] about HIM."
 
 
 
@@ -218,7 +218,7 @@ to be hanged."
 
 
 
-"I fear I do not understand anything yet," answered Pond mildly,
+"I [[Fear|fear]] I do not understand anything yet," answered Pond mildly,
 
 "except that for some reason he cannot even be deported."
 
@@ -226,13 +226,13 @@ to be hanged."
 
 "Looks very patriarchal, doesn't he, sitting in the sunshine and
 
-playing with the children?  It was darker last night and I caught
+playing with the children?  It was darker last [[Night|night]] and I caught
 
 him in a darker piece of business. . . .  Listen to this, first of
 
 all.  It was at the end of dusk, yesterday evening; and but for
 
-myself, he was alone in the café; I don't think he saw me; but I
+myself, he was [[Alone|alone]] in the café; I don't think he saw me; but I
 
 don't know if he would care.  There drove up a dark, closely
 

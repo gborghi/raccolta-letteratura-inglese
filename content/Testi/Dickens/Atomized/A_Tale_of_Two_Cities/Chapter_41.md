@@ -18,9 +18,9 @@ CHAPTER IX.
 The Game Made
 
 
-While Sydney Carton and the Sheep of the prisons were in the adjoining
+While [[Sydney Carton]] and the Sheep of the prisons were in the adjoining
 dark room, speaking so low that not a sound was heard, Mr. Lorry looked
-at Jerry in considerable doubt and mistrust. That honest tradesman’s
+at Jerry in considerable [[Doubt|doubt]] and mistrust. That honest tradesman’s
 manner of receiving the look, did not inspire confidence; he changed the
 leg on which he rested, as often as if he had fifty of those limbs,
 and were trying them all; he examined his finger-nails with a very
@@ -41,14 +41,14 @@ Mr. Cruncher conceived the luminous idea of replying, “Agicultooral
 character.”
 
 “My mind misgives me much,” said Mr. Lorry, angrily shaking a forefinger
-at him, “that you have used the respectable and great house of Tellson’s
+at him, “that you have used the respectable and [[Great House|great house]] of Tellson’s
 as a blind, and that you have had an unlawful occupation of an infamous
 description. If you have, don’t expect me to befriend you when you
 get back to England. If you have, don’t expect me to keep your secret.
 Tellson’s shall not be imposed upon.”
 
-“I hope, sir,” pleaded the abashed Mr. Cruncher, “that a gentleman like
-yourself wot I’ve had the honour of odd jobbing till I’m grey at it,
+“I [[Hope|hope]], sir,” pleaded the abashed Mr. Cruncher, “that a gentleman like
+yourself wot I’ve had the [[Honour|honour]] of odd jobbing till I’m grey at it,
 would think twice about harming of me, even if it wos so--I don’t say it
 is, but even if it wos. And which it is to be took into account that if
 it wos, it wouldn’t, even then, be all o’ one side. There’d be two sides
@@ -58,7 +58,7 @@ fardens--fardens! no, nor yet his half fardens--half fardens! no, nor
 yet his quarter--a banking away like smoke at Tellson’s, and a cocking
 their medical eyes at that tradesman on the sly, a going in and going
 out to their own carriages--ah! equally like smoke, if not more so.
-Well, that ’ud be imposing, too, on Tellson’s. For you cannot sarse the
+[[Well]], that ’ud be imposing, too, on Tellson’s. For you cannot sarse the
 goose and not the gander. And here’s Mrs. Cruncher, or leastways wos
 in the Old England times, and would be to-morrow, if cause given,
 a floppin’ again the business to that degree as is ruinating--stark
@@ -106,12 +106,12 @@ cause when I might have kep’ it back.”
 that I shall yet stand your friend, if you deserve it, and repent in
 action--not in words. I want no more words.”
 
-Mr. Cruncher knuckled his forehead, as Sydney Carton and the spy
+Mr. Cruncher knuckled his forehead, as [[Sydney Carton]] and the spy
 returned from the dark room. “Adieu, Mr. Barsad,” said the former; “our
-arrangement thus made, you have nothing to fear from me.”
+arrangement thus made, you have nothing to [[Fear|fear]] from me.”
 
 He sat down in a chair on the hearth, over against Mr. Lorry. When they
-were alone, Mr. Lorry asked him what he had done?
+were [[Alone|alone]], Mr. Lorry asked him what he had done?
 
 “Not much. If it should go ill with the prisoner, I have ensured access
 to him, once.”
@@ -128,10 +128,10 @@ Tribunal, will not save him.”
 
 “I never said it would.”
 
-Mr. Lorry’s eyes gradually sought the fire; his sympathy with his
+Mr. Lorry’s eyes gradually sought the [[Fire|fire]]; his sympathy with his
 darling, and the heavy disappointment of his second arrest, gradually
 weakened them; he was an old man now, overborne with anxiety of late,
-and his tears fell.
+and his [[Tears|tears]] fell.
 
 “You are a good man and a true friend,” said Carton, in an altered
 voice. “Forgive me if I notice that you are affected. I could not see my
@@ -157,7 +157,7 @@ evidently understood it.
 only add to her trouble. Don’t speak of me to her. As I said to you when
 I first came, I had better not see her. I can put my hand out, to do any
 little helpful work for her that my hand can find to do, without that.
-You are going to her, I hope? She must be very desolate to-night.”
+You are going to her, I [[Hope|hope]]? She must be very desolate to-[[Night|night]].”
 
 “I am going now, directly.”
 
@@ -170,13 +170,13 @@ on you. How does she look?”
 
 It was a long, grieving sound, like a sigh--almost like a sob. It
 attracted Mr. Lorry’s eyes to Carton’s face, which was turned to the
-fire. A light, or a shade (the old gentleman could not have said which),
-passed from it as swiftly as a change will sweep over a hill-side on a
+[[Fire|fire]]. A light, or a shade (the old gentleman could not have said which),
+passed from it as swiftly as a change will sweep over a [[Hill|hill]]-side on a
 wild bright day, and he lifted his foot to put back one of the little
 flaming logs, which was tumbling forward. He wore the white riding-coat
-and top-boots, then in vogue, and the light of the fire touching their
+and top-boots, then in vogue, and the light of the [[Fire|fire]] touching their
 light surfaces made him look very pale, with his long brown hair,
-all untrimmed, hanging loose about him. His indifference to fire was
+all untrimmed, hanging loose about him. His indifference to [[Fire|fire]] was
 sufficiently remarkable to elicit a word of remonstrance from Mr. Lorry;
 his boot was still upon the hot embers of the flaming log, when it had
 broken under the weight of his foot.
@@ -191,9 +191,9 @@ reminded of that expression.
 “And your duties here have drawn to an end, sir?” said Carton, turning
 to him.
 
-“Yes. As I was telling you last night when Lucie came in so
+“Yes. As I was telling you last [[Night|night]] when Lucie came in so
 unexpectedly, I have at length done all that I can do here. I hoped to
-have left them in perfect safety, and then to have quitted Paris. I have
+have left them in perfect safety, and then to have quitted [[Paris]]. I have
 my Leave to Pass. I was ready to go.”
 
 They were both silent.
@@ -214,7 +214,7 @@ you when you leave it empty!”
 “A solitary old bachelor,” answered Mr. Lorry, shaking his head. “There
 is nobody to weep for me.”
 
-“How can you say that? Wouldn’t She weep for you? Wouldn’t her child?”
+“How can you say that? Wouldn’t She weep for you? Wouldn’t her [[Child|child]]?”
 
 “Yes, yes, thank God. I didn’t quite mean what I said.”
 
@@ -222,8 +222,8 @@ is nobody to weep for me.”
 
 “Surely, surely.”
 
-“If you could say, with truth, to your own solitary heart, to-night,
-‘I have secured to myself the love and attachment, the gratitude or
+“If you could say, with [[Truth|truth]], to your own solitary heart, to-[[Night|night]],
+‘I have secured to myself the [[Love|love]] and attachment, the gratitude or
 respect, of no human creature; I have won myself a tender place in no
 regard; I have done nothing good or serviceable to be remembered by!’
 your seventy-eight years would be seventy-eight heavy curses; would they
@@ -231,15 +231,15 @@ not?”
 
 “You say truly, Mr. Carton; I think they would be.”
 
-Sydney turned his eyes again upon the fire, and, after a silence of a
+Sydney turned his eyes again upon the [[Fire|fire]], and, after a [[Silence|silence]] of a
 few moments, said:
 
-“I should like to ask you:--Does your childhood seem far off? Do the
+“I should like to ask you:--Does your [[Childhood|childhood]] seem far off? Do the
 days when you sat at your mother’s knee, seem days of very long ago?”
 
 Responding to his softened manner, Mr. Lorry answered:
 
-“Twenty years back, yes; at this time of my life, no. For, as I draw
+“Twenty years back, yes; at this [[Time|time]] of my life, no. For, as I draw
 closer and closer to the end, I travel in the circle, nearer and
 nearer to the beginning. It seems to be one of the kind smoothings and
 preparings of the way. My heart is touched now, by many remembrances
@@ -250,7 +250,7 @@ so real with me, and my faults were not confirmed in me.”
 “I understand the feeling!” exclaimed Carton, with a bright flush. “And
 you are the better for it?”
 
-“I hope so.”
+“I [[Hope|hope]] so.”
 
 Carton terminated the conversation here, by rising to help him on with
 his outer coat; “But you,” said Mr. Lorry, reverting to the theme, “you
@@ -262,8 +262,8 @@ age. Enough of me.”
 “And of me, I am sure,” said Mr. Lorry. “Are you going out?”
 
 “I’ll walk with you to her gate. You know my vagabond and restless
-habits. If I should prowl about the streets a long time, don’t be
-uneasy; I shall reappear in the morning. You go to the Court to-morrow?”
+habits. If I should prowl about the streets a long [[Time|time]], don’t be
+uneasy; I shall reappear in the morning. You go to the [[Court]] to-morrow?”
 
 “Yes, unhappily.”
 
@@ -274,18 +274,18 @@ Mr. Lorry did so, and they went down-stairs and out in the streets. A
 few minutes brought them to Mr. Lorry’s destination. Carton left him
 there; but lingered at a little distance, and turned back to the gate
 again when it was shut, and touched it. He had heard of her going to
-the prison every day. “She came out here,” he said, looking about him,
+the [[Prison|prison]] every day. “She came out here,” he said, looking about him,
 “turned this way, must have trod on these stones often. Let me follow in
 her steps.”
 
-It was ten o’clock at night when he stood before the prison of La Force,
+It was ten o’[[Clock|clock]] at [[Night|night]] when he stood before the [[Prison|prison]] of La Force,
 where she had stood hundreds of times. A little wood-sawyer, having
 closed his shop, was smoking his pipe at his shop-door.
 
-“Good night, citizen,” said Sydney Carton, pausing in going by; for, the
+“Good [[Night|night]], citizen,” said [[Sydney Carton]], pausing in going by; for, the
 man eyed him inquisitively.
 
-“Good night, citizen.”
+“Good [[Night|night]], citizen.”
 
 “How goes the Republic?”
 
@@ -301,10 +301,10 @@ exhausted. Ha, ha, ha! He is so droll, that Samson. Such a Barber!”
 
 “Go and see him when he has a good batch. Figure this to yourself,
 citizen; he shaved the sixty-three to-day, in less than two pipes! Less
-than two pipes. Word of honour!”
+than two pipes. Word of [[Honour|honour]]!”
 
 As the grinning little man held out the pipe he was smoking, to explain
-how he timed the executioner, Carton was so sensible of a rising desire
+how he timed the executioner, Carton was so sensible of a rising [[Desire|desire]]
 to strike the life out of him, that he turned away.
 
 “But you are not English,” said the wood-sawyer, “though you wear
@@ -316,9 +316,9 @@ English dress?”
 
 “I am an old student here.”
 
-“Aha, a perfect Frenchman! Good night, Englishman.”
+“Aha, a perfect Frenchman! Good [[Night|night]], Englishman.”
 
-“Good night, citizen.”
+“Good [[Night|night]], citizen.”
 
 “But go and see that droll dog,” the little man persisted, calling after
 him. “And take a pipe with you!”
@@ -326,17 +326,17 @@ him. “And take a pipe with you!”
 Sydney had not gone far out of sight, when he stopped in the middle of
 the street under a glimmering lamp, and wrote with his pencil on a scrap
 of paper. Then, traversing with the decided step of one who remembered
-the way well, several dark and dirty streets--much dirtier than usual,
+the way [[Well|well]], several dark and dirty streets--much dirtier than usual,
 for the best public thoroughfares remained uncleansed in those times of
 terror--he stopped at a chemist’s shop, which the owner was closing with
-his own hands. A small, dim, crooked shop, kept in a tortuous, up-hill
+his own hands. A small, dim, crooked shop, kept in a tortuous, up-[[Hill|hill]]
 thoroughfare, by a small, dim, crooked man.
 
-Giving this citizen, too, good night, as he confronted him at his
+Giving this citizen, too, good [[Night|night]], as he confronted him at his
 counter, he laid the scrap of paper before him. “Whew!” the chemist
 whistled softly, as he read it. “Hi! hi! hi!”
 
-Sydney Carton took no heed, and the chemist said:
+[[Sydney Carton]] took no heed, and the chemist said:
 
 “For you, citizen?”
 
@@ -350,28 +350,28 @@ consequences of mixing them?”
 Certain small packets were made and given to him. He put them, one by
 one, in the breast of his inner coat, counted out the money for them,
 and deliberately left the shop. “There is nothing more to do,” said he,
-glancing upward at the moon, “until to-morrow. I can’t sleep.”
+glancing upward at the [[Moon|moon]], “until to-morrow. I can’t [[Sleep|sleep]].”
 
 It was not a reckless manner, the manner in which he said these words
 aloud under the fast-sailing clouds, nor was it more expressive of
 negligence than defiance. It was the settled manner of a tired man, who
 had wandered and struggled and got lost, but who at length struck into
-his road and saw its end.
+his [[Road|road]] and saw its end.
 
 Long ago, when he had been famous among his earliest competitors as a
-youth of great promise, he had followed his father to the grave. His
+youth of great promise, he had followed his father to the [[Grave|grave]]. His
 mother had died, years before. These solemn words, which had been
-read at his father’s grave, arose in his mind as he went down the dark
-streets, among the heavy shadows, with the moon and the clouds sailing
-on high above him. “I am the resurrection and the life, saith the Lord:
+read at his father’s [[Grave|grave]], arose in his mind as he went down the dark
+streets, among the heavy shadows, with the [[Moon|moon]] and the clouds sailing
+on high above him. “I am the [[Resurrection|resurrection]] and the life, saith the Lord:
 he that believeth in me, though he were dead, yet shall he live: and
 whosoever liveth and believeth in me, shall never die.”
 
-In a city dominated by the axe, alone at night, with natural sorrow
-rising in him for the sixty-three who had been that day put to death,
+In a [[City|city]] dominated by the axe, [[Alone|alone]] at [[Night|night]], with natural sorrow
+rising in him for the sixty-three who had been that day put to [[Death|death]],
 and for to-morrow’s victims then awaiting their doom in the prisons,
 and still of to-morrow’s and to-morrow’s, the chain of association that
-brought the words home, like a rusty old ship’s anchor from the deep,
+brought the words [[Home|home]], like a rusty old [[Ship|ship]]’s anchor from the deep,
 might have been easily found. He did not seek it, but repeated them and
 went on.
 
@@ -379,45 +379,45 @@ With a solemn interest in the lighted windows where the people were
 going to rest, forgetful through a few calm hours of the horrors
 surrounding them; in the towers of the churches, where no prayers
 were said, for the popular revulsion had even travelled that length
-of self-destruction from years of priestly impostors, plunderers, and
+of [[Self|self]]-destruction from years of priestly impostors, plunderers, and
 profligates; in the distant burial-places, reserved, as they wrote upon
-the gates, for Eternal Sleep; in the abounding gaols; and in the streets
-along which the sixties rolled to a death which had become so common and
+the gates, for Eternal [[Sleep]]; in the abounding gaols; and in the streets
+along which the sixties rolled to a [[Death|death]] which had become so common and
 material, that no sorrowful story of a haunting Spirit ever arose among
 the people out of all the working of the Guillotine; with a solemn
-interest in the whole life and death of the city settling down to its
-short nightly pause in fury; Sydney Carton crossed the Seine again for
+interest in the whole life and [[Death|death]] of the [[City|city]] settling down to its
+short nightly pause in fury; [[Sydney Carton]] crossed the Seine again for
 the lighter streets.
 
 Few coaches were abroad, for riders in coaches were liable to be
 suspected, and gentility hid its head in red nightcaps, and put on heavy
-shoes, and trudged. But, the theatres were all well filled, and the
-people poured cheerfully out as he passed, and went chatting home. At
+shoes, and trudged. But, the theatres were all [[Well|well]] filled, and the
+people poured cheerfully out as he passed, and went chatting [[Home|home]]. At
 one of the theatre doors, there was a little girl with a mother, looking
-for a way across the street through the mud. He carried the child over,
+for a way across the street through the mud. He carried the [[Child|child]] over,
 and before the timid arm was loosed from his neck asked her for a kiss.
 
-“I am the resurrection and the life, saith the Lord: he that believeth
+“I am the [[Resurrection|resurrection]] and the life, saith the Lord: he that believeth
 in me, though he were dead, yet shall he live: and whosoever liveth and
 believeth in me, shall never die.”
 
-Now, that the streets were quiet, and the night wore on, the words
+Now, that the streets were quiet, and the [[Night|night]] wore on, the words
 were in the echoes of his feet, and were in the air. Perfectly calm
 and steady, he sometimes repeated them to himself as he walked; but, he
 heard them always.
 
-The night wore out, and, as he stood upon the bridge listening to the
-water as it splashed the river-walls of the Island of Paris, where the
-picturesque confusion of houses and cathedral shone bright in the light
-of the moon, the day came coldly, looking like a dead face out of the
-sky. Then, the night, with the moon and the stars, turned pale and died,
+The [[Night|night]] wore out, and, as he stood upon the bridge listening to the
+[[Water|water]] as it splashed the [[River|river]]-walls of the Island of [[Paris]], where the
+picturesque confusion of houses and [[Cathedral|cathedral]] shone bright in the light
+of the [[Moon|moon]], the day came coldly, looking like a dead face out of the
+sky. Then, the [[Night|night]], with the [[Moon|moon]] and the [[Stars|stars]], turned pale and died,
 and for a little while it seemed as if Creation were delivered over to
-Death’s dominion.
+[[Death]]’s dominion.
 
 But, the glorious sun, rising, seemed to strike those words, that burden
-of the night, straight and warm to his heart in its long bright rays.
+of the [[Night|night]], straight and warm to his heart in its long bright rays.
 And looking along them, with reverently shaded eyes, a bridge of light
-appeared to span the air between him and the sun, while the river
+appeared to span the air between him and the sun, while the [[River|river]]
 sparkled under it.
 
 The strong tide, so swift, so deep, and certain, was like a congenial
@@ -429,24 +429,24 @@ stream absorbed it, and carried it on to the sea.--“Like me.”
 
 A trading-boat, with a sail of the softened colour of a dead leaf, then
 glided into his view, floated by him, and died away. As its silent track
-in the water disappeared, the prayer that had broken up out of his heart
+in the [[Water|water]] disappeared, the [[Prayer|prayer]] that had broken up out of his heart
 for a merciful consideration of all his poor blindnesses and errors,
-ended in the words, “I am the resurrection and the life.”
+ended in the words, “I am the [[Resurrection|resurrection]] and the life.”
 
 Mr. Lorry was already out when he got back, and it was easy to surmise
-where the good old man was gone. Sydney Carton drank nothing but a
+where the good old man was gone. [[Sydney Carton]] drank nothing but a
 little coffee, ate some bread, and, having washed and changed to refresh
 himself, went out to the place of trial.
 
-The court was all astir and a-buzz, when the black sheep--whom many fell
+The [[Court|court]] was all astir and a-buzz, when the black sheep--whom many fell
 away from in dread--pressed him into an obscure corner among the crowd.
-Mr. Lorry was there, and Doctor Manette was there. She was there,
+Mr. Lorry was there, and [[Doctor Manette]] was there. She was there,
 sitting beside her father.
 
 When her husband was brought in, she turned a look upon him, so
-sustaining, so encouraging, so full of admiring love and pitying
+sustaining, so encouraging, so full of admiring [[Love|love]] and pitying
 tenderness, yet so courageous for his sake, that it called the healthy
-blood into his face, brightened his glance, and animated his heart. If
+[[Blood|blood]] into his face, brightened his glance, and animated his heart. If
 there had been any eyes to notice the influence of her look, on Sydney
 Carton, it would have been seen to be the same influence exactly.
 
@@ -462,7 +462,7 @@ after. Eager and prominent among them, one man with a craving face, and
 his fingers perpetually hovering about his lips, whose appearance
 gave great satisfaction to the spectators. A life-thirsting,
 cannibal-looking, bloody-minded juryman, the Jacques Three of St.
-Antoine. The whole jury, as a jury of dogs empannelled to try the deer.
+Antoine. The whole jury, as a jury of [[dogs]] empannelled to try the deer.
 
 Every eye then turned to the five judges and the public prosecutor.
 No favourable leaning in that quarter to-day. A fell, uncompromising,
@@ -471,8 +471,8 @@ in the crowd, and gleamed at it approvingly; and heads nodded at one
 another, before bending forward with a strained attention.
 
 Charles Evrémonde, called Darnay. Released yesterday. Reaccused and
-retaken yesterday. Indictment delivered to him last night. Suspected and
-Denounced enemy of the Republic, Aristocrat, one of a family of tyrants,
+retaken yesterday. Indictment delivered to him last [[Night|night]]. Suspected and
+Denounced enemy of the Republic, [[aristocrat|Aristocrat]], one of a family of tyrants,
 one of a race proscribed, for that they had used their abolished
 privileges to the infamous oppression of the people. Charles Evrémonde,
 called Darnay, in right of such proscription, absolutely Dead in Law.
@@ -485,7 +485,7 @@ The President asked, was the Accused openly denounced or secretly?
 
 “By whom?”
 
-“Three voices. Ernest Defarge, wine-vendor of St. Antoine.”
+“Three voices. [[Ernest Defarge]], wine-vendor of St. Antoine.”
 
 “Good.”
 
@@ -495,14 +495,14 @@ The President asked, was the Accused openly denounced or secretly?
 
 “Alexandre Manette, physician.”
 
-A great uproar took place in the court, and in the midst of it, Doctor
+A great uproar took place in the [[Court|court]], and in the midst of it, Doctor
 Manette was seen, pale and trembling, standing where he had been seated.
 
 “President, I indignantly protest to you that this is a forgery and
 a fraud. You know the accused to be the husband of my daughter. My
 daughter, and those dear to her, are far dearer to me than my life. Who
 and where is the false conspirator who says that I denounce the husband
-of my child!”
+of my [[Child|child]]!”
 
 “Citizen Manette, be tranquil. To fail in submission to the authority of
 the Tribunal would be to put yourself out of Law. As to what is dearer
@@ -512,20 +512,20 @@ Republic.”
 Loud acclamations hailed this rebuke. The President rang his bell, and
 with warmth resumed.
 
-“If the Republic should demand of you the sacrifice of your child
+“If the Republic should demand of you the sacrifice of your [[Child|child]]
 herself, you would have no duty but to sacrifice her. Listen to what is
 to follow. In the meanwhile, be silent!”
 
-Frantic acclamations were again raised. Doctor Manette sat down, with
+Frantic acclamations were again raised. [[Doctor Manette]] sat down, with
 his eyes looking around, and his lips trembling; his daughter drew
 closer to him. The craving man on the jury rubbed his hands together,
 and restored the usual hand to his mouth.
 
-Defarge was produced, when the court was quiet enough to admit of his
-being heard, and rapidly expounded the story of the imprisonment, and of
+Defarge was produced, when the [[Court|court]] was quiet enough to admit of his
+being heard, and rapidly expounded the story of the [[Imprisonment|imprisonment]], and of
 his having been a mere boy in the Doctor’s service, and of the release,
 and of the state of the prisoner when released and delivered to him.
-This short examination followed, for the court was quick with its work.
+This short examination followed, for the [[Court|court]] was quick with its work.
 
 “You did good service at the taking of the Bastille, citizen?”
 
@@ -534,7 +534,7 @@ This short examination followed, for the court was quick with its work.
 Here, an excited woman screeched from the crowd: “You were one of the
 best patriots there. Why not say so? You were a cannonier that day
 there, and you were among the first to enter the accursed fortress when
-it fell. Patriots, I speak the truth!”
+it fell. Patriots, I speak the [[Truth|truth]]!”
 
 It was The Vengeance who, amidst the warm commendations of the audience,
 thus assisted the proceedings. The President rang his bell; but, The
@@ -545,7 +545,7 @@ Vengeance, warming with encouragement, shrieked, “I defy that bell!”
 citizen.”
 
 “I knew,” said Defarge, looking down at his wife, who stood at the
-bottom of the steps on which he was raised, looking steadily up at him;
+[[Bottom|bottom]] of the steps on which he was raised, looking steadily up at him;
 “I knew that this prisoner, of whom I speak, had been confined in a cell
 known as One Hundred and Five, North Tower. I knew it from himself. He
 knew himself by no other name than One Hundred and Five, North Tower,
@@ -555,16 +555,16 @@ the cell, with a fellow-citizen who is one of the Jury, directed by a
 gaoler. I examine it, very closely. In a hole in the chimney, where a
 stone has been worked out and replaced, I find a written paper. This is
 that written paper. I have made it my business to examine some specimens
-of the writing of Doctor Manette. This is the writing of Doctor Manette.
-I confide this paper, in the writing of Doctor Manette, to the hands of
+of the writing of [[Doctor Manette]]. This is the writing of [[Doctor Manette]].
+I confide this paper, in the writing of [[Doctor Manette]], to the hands of
 the President.”
 
 “Let it be read.”
 
-In a dead silence and stillness--the prisoner under trial looking
+In a dead [[Silence|silence]] and stillness--the prisoner under trial looking
 lovingly at his wife, his wife only looking from him to look with
-solicitude at her father, Doctor Manette keeping his eyes fixed on the
-reader, Madame Defarge never taking hers from the prisoner, Defarge
+solicitude at her father, [[Doctor Manette]] keeping his eyes fixed on the
+reader, [[Madame Defarge]] never taking hers from the prisoner, Defarge
 never taking his from his feasting wife, and all the other eyes there
 intent upon the Doctor, who saw none of them--the paper was read, as
 follows.

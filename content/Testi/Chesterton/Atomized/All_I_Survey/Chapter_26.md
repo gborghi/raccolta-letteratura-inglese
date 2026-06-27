@@ -24,7 +24,7 @@ of the West._ The most human inference (in the opinion of many)
 was that the German, having assisted at the spectacle of the Decline
 and Fall of the German Empire, naturally wanted all the rest of us
 to decline and fall with him.  He felt it would be obviously
-a breach of taste and tact for any nation to flourish if Germany
+a breach of taste and tact for any nation to flourish if [[Germany]]
 had declined; if, indeed, he was even aware of the existence
 of such fringes of his Empire as France or Flanders or England.
 Anyhow, he applied his doctrine to all that is most active
@@ -37,7 +37,7 @@ his view was quite reasonable and very persuasively stated.
 But there was bound up with it another set of ideas which are not
 necessarily any part of the theory, either that civilizations
 periodically weaken or that our civilization has weakened
-in our period.  Those two theses may quite well be true;
+in our period.  Those two theses may quite [[Well|well]] be true;
 but the thesis of the book was false.
 
 For me, at least, it was false because it was fatalist;
@@ -49,21 +49,21 @@ of the critic that it had been discontinuous and disconnected.
 He was not content to say that civilizations revolve in
 separate cycles, in the sense in which we might be said to belong
 to a different civilization from the Druids.  He cut up ordinary
-European history into chunks, that were supposed to have no more
-to do with each other than Chinese history and Aztec history.
-He chopped ordinary Christian history in two in the middle,
+European [[history]] into chunks, that were supposed to have no more
+to do with each other than Chinese [[history]] and Aztec [[history]].
+He chopped ordinary Christian [[history]] in two in the middle,
 in order to deny that either part of it was Christian.
 So far as I remember, he attributed the first half of it
 entirely to the Moslem Arabs, because they were not Christians;
-and the second half of it to people of the type of Faust,
+and the second half of it to people of the type of [[Faust]],
 because they were rather fishy sort of Christians, and German
-as well.  And he talked about these divisions as if they
+as [[Well|well]].  And he talked about these divisions as if they
 were like the abysses that might separate a stratum full
 of primordial crystals from a stratum, æons afterwards,
 containing the first fantastic traces of marsupial life.
 
 Now, I am quite certain, as a matter of mere common sense,
-that the history of Christendom, or even the history of Europe,
+that the [[history]] of Christendom, or even the [[history]] of Europe,
 was never so fragmentary as that.  We are much more connected
 with the ancient Greeks than the German writer would allow us
 to be with the later mediævals, or even the earlier moderns.
@@ -72,7 +72,7 @@ when a cycle of civilization really dies, and then
 fossilizes and remains as inscrutable as an ammonite.
 We have no idea what was the religion of the Cro-Magnans,
 though we infer from certain pictures of ritual dances
-(as well as from our own common sense) that they had one.
+(as [[Well|well]] as from our own common sense) that they had one.
 We do not know the significance of the Cup and Ring Stones,
 though the fortunate and civilized of us still use rings,
 as in the case of wedding-rings, or cups even in the sense of
@@ -82,12 +82,12 @@ never died in that fashion; and the Roman Empire has never died
 at all.  Of the most modern industrial cities in England,
 many have in their very names the title of the Roman Camp;
 and wherever there stood the Roman Camp, there stood afterwards
-the Christian Cathedral.  There was never one moment,
-in the long history from Herodotus to Herr Spengler, when all
+the Christian [[Cathedral]].  There was never one moment,
+in the long [[history]] from Herodotus to Herr Spengler, when all
 the men who counted in any age did not talk of The Fall of Troy;
 there was never a generation when young poets did not make
-that old tale a topic for new poems.  I wonder whether a poem
-by Heredia about Antony, or a poem by Morris about Arthur,
+that old tale a topic for new [[Poems|poems]].  I [[Wonder|wonder]] whether a poem
+by Heredia about Antony, or a poem by Morris about [[Arthur]],
 belongs to the dead Greek period or the dead Arabic period?
 There was never a generation when poets did not invoke Virgil,
 if only to imitate him.  There was never a generation in which
@@ -114,10 +114,10 @@ but in the long run they let them remain as elves.
 They let them remain as fanciful and fabulous figures,
 for literary metaphor or plastic decoration, so that Christendom
 has left the nymph in poetry or the cupid in sculpture.
-It is true that now, for the first time, the race that has
+It is true that now, for the first [[Time|time]], the race that has
 always remembered is invited on every side to forget.
 
-Yes; it is true that today, for the first time, our newspapers and our
+Yes; it is true that today, for the first [[Time|time]], our newspapers and our
 new politicians have asked us to forget, not what happened a thousand
 years ago or a hundred years ago, but what happened twenty years ago.
 When it is a question of shifting a policy or rehabilitating
@@ -128,9 +128,9 @@ Here is the true trick of regarding ourselves as divided by æons
 and abysses, not only from our fathers, but from ourselves.
 Thus, by reading the daily paper every day, and forgetting
 everything that it said on the previous day, we can divide human
-history into self-contained cycles; each consisting, not of five
+[[history]] into [[Self|self]]-contained cycles; each consisting, not of five
 hundred years, but of twenty-four hours.  By this means we can
-regard the politician we trusted last week as we regard the cave-man
+regard the politician we trusted last week as we regard the [[Cave|cave]]-man
 whose carvings we could not decipher in a hundred years.
 By this means we can consider the slogans and swaggering
 policies which we ourselves cheered only recently, as if they

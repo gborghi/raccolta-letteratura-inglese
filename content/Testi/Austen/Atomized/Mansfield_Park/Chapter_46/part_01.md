@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 46 (part 1)"
+title: "[[Mansfield Park]] — Chapter 46 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -17,7 +17,7 @@ tags:
 CHAPTER XLVI
 
 
-As Fanny could not doubt that her answer was conveying a real
+As Fanny could not [[Doubt|doubt]] that her answer was conveying a real
 disappointment, she was rather in expectation, from her knowledge of
 Miss Crawford’s temper, of being urged again; and though no second
 letter arrived for the space of a week, she had still the same feeling
@@ -42,7 +42,7 @@ Henry is blameless, and in spite of a moment’s _etourderie_, thinks of
 nobody but you. Say not a word of it; hear nothing, surmise nothing,
 whisper nothing till I write again. I am sure it will be all hushed up,
 and nothing proved but Rushworth’s folly. If they are gone, I would lay
-my life they are only gone to Mansfield Park, and Julia with them. But
+my life they are only gone to [[Mansfield Park]], and [[Julia]] with them. But
 why would not you let us come for you? I wish you may not repent
 it.—Yours, etc.”
 
@@ -51,7 +51,7 @@ her, it was impossible for her to understand much of this strange
 letter. She could only perceive that it must relate to Wimpole Street
 and Mr. Crawford, and only conjecture that something very imprudent had
 just occurred in that quarter to draw the notice of the world, and to
-excite her jealousy, in Miss Crawford’s apprehension, if she heard it.
+excite her [[Jealousy|jealousy]], in Miss Crawford’s apprehension, if she heard it.
 Miss Crawford need not be alarmed for her. She was only sorry for the
 parties concerned and for Mansfield, if the report should spread so
 far; but she hoped it might not. If the Rushworths were gone themselves
@@ -89,12 +89,12 @@ that room, of her father and his newspaper, came across her. No candle
 was now wanted. The sun was yet an hour and half above the horizon. She
 felt that she had, indeed, been three months there; and the sun’s rays
 falling strongly into the parlour, instead of cheering, made her still
-more melancholy, for sunshine appeared to her a totally different thing
+more [[Melancholy|melancholy]], for sunshine appeared to her a totally different thing
 in a town and in the country. Here, its power was only a glare: a
 stifling, sickly glare, serving but to bring forward stains and dirt
 that might otherwise have slept. There was neither health nor gaiety in
 sunshine in a town. She sat in a blaze of oppressive heat, in a cloud
-of moving dust, and her eyes could only wander from the walls, marked
+of moving [[Dust|dust]], and her eyes could only wander from the walls, marked
 by her father’s head, to the table cut and notched by her brothers,
 where stood the tea-board never thoroughly cleaned, the cups and
 saucers wiped in streaks, the milk a mixture of motes floating in thin
@@ -125,6 +125,6 @@ had to announce to the world a matrimonial _fracas_ in the family of
 Mr. R. of Wimpole Street; the beautiful Mrs. R., whose name had not
 long been enrolled in the lists of Hymen, and who had promised to
 become so brilliant a leader in the fashionable world, having quitted
-her husband’s roof in company with the well-known and captivating Mr.
+her husband’s roof in company with the [[Well|well]]-known and captivating Mr.
 C., the intimate friend and associate of Mr. R., and it was not known
 even to the editor of the newspaper whither they were gone.”

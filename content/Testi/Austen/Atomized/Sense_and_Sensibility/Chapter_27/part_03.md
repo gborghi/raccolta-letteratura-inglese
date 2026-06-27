@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 27 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 27 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -40,13 +40,13 @@ concealment be possible, is all that remains.”
 
 
 
-These words, which conveyed to Elinor a direct avowal of his love for
+These words, which conveyed to Elinor a direct avowal of his [[Love|love]] for
 
 her sister, affected her very much. She was not immediately able to say
 
 anything, and even when her spirits were recovered, she debated for a
 
-short time, on the answer it would be most proper to give. The real
+short [[Time|time]], on the answer it would be most proper to give. The real
 
 state of things between Willoughby and her sister was so little known
 
@@ -54,11 +54,11 @@ to herself, that in endeavouring to explain it, she might be as liable
 
 to say too much as too little. Yet as she was convinced that Marianne’s
 
-affection for Willoughby, could leave no hope of Colonel Brandon’s
+affection for Willoughby, could leave no [[Hope|hope]] of [[Colonel Brandon]]’s
 
-success, whatever the event of that affection might be, and at the same
+[[success]], whatever the event of that affection might be, and at the same
 
-time wished to shield her conduct from censure, she thought it most
+[[Time|time]] wished to shield her conduct from censure, she thought it most
 
 prudent and kind, after some consideration, to say more than she really
 
@@ -66,7 +66,7 @@ knew or believed. She acknowledged, therefore, that though she had
 
 never been informed by themselves of the terms on which they stood with
 
-each other, of their mutual affection she had no doubt, and of their
+each other, of their mutual affection she had no [[Doubt|doubt]], and of their
 
 correspondence she was not astonished to hear.
 
@@ -74,7 +74,7 @@ correspondence she was not astonished to hear.
 
 He listened to her with silent attention, and on her ceasing to speak,
 
-rose directly from his seat, and after saying in a voice of emotion,
+[[Rose|rose]] directly from his seat, and after saying in a voice of emotion,
 
 “to your sister I wish all imaginable happiness; to Willoughby that he
 
@@ -86,7 +86,7 @@ Elinor derived no comfortable feelings from this conversation, to
 
 lessen the uneasiness of her mind on other points; she was left, on the
 
-contrary, with a melancholy impression of Colonel Brandon’s
+contrary, with a [[Melancholy|melancholy]] impression of [[Colonel Brandon]]’s
 
 unhappiness, and was prevented even from wishing it removed, by her
 

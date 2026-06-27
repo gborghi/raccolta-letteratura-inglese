@@ -1,5 +1,5 @@
 ---
-title: "Antony and Cleopatra — Act IV, Scene 11"
+title: "Antony and [[Cleopatra]] — Act IV, Scene 11"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/ANTONY-AND-CLEOPATRA-(Shakespeare)"
@@ -19,5 +19,5 @@ tags:
 | *(didascalia)* | Enter Antony and Scarus with their army |
 | ANTONY | Their preparation is today by sea;<br>We please them not by land. |
 | SCARUS | For both, my lord. |
-| ANTONY | I would they’d fight i‘th’ fire or i’th’ air;<br>We’d fight there too. But this it is: our foot<br>Upon the hills adjoining to the city<br>Shall stay with us. Order for sea is given.<br>They have put forth the haven—<br>Where their appointment we may best discover,<br>And look on their endeavour. |
+| ANTONY | I would they’d fight i‘th’ [[Fire|fire]] or i’th’ air;<br>We’d fight there too. But this it is: our foot<br>Upon the hills adjoining to the [[City|city]]<br>Shall stay with us. Order for sea is given.<br>They have put forth the haven—<br>Where their appointment we may best discover,<br>And look on their endeavour. |
 | *(didascalia)* | Exeunt |

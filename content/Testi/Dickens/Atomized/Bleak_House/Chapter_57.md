@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 57"
+title: "Bleak [[house|House]] — Chapter 57"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -25,8 +25,8 @@ speak to him and learn what had happened, he told me, after a word or
 two of preparation, that there had been a discovery at Sir Leicester
 Dedlock’s. That my mother had fled, that a person was now at our door
 who was empowered to convey to her the fullest assurances of
-affectionate protection and forgiveness if he could possibly find
-her, and that I was sought for to accompany him in the hope that my
+affectionate protection and [[Forgiveness|forgiveness]] if he could possibly find
+her, and that I was sought for to accompany him in the [[Hope|hope]] that my
 entreaties might prevail upon her if his failed. Something to this
 general purpose I made out, but I was thrown into such a tumult of
 alarm, and hurry and distress, that in spite of every effort I could
@@ -40,16 +40,16 @@ also explained how it was that he had come to think of me. Mr.
 Bucket, in a low voice, by the light of my guardian’s candle, read to
 me in the hall a letter that my mother had left upon her table; and I
 suppose within ten minutes of my having been aroused I was sitting
-beside him, rolling swiftly through the streets.
+beside him, [[rolling]] swiftly through the streets.
 
 His manner was very keen, and yet considerate when he explained to me
 that a great deal might depend on my being able to answer, without
 confusion, a few questions that he wished to ask me. These were,
 chiefly, whether I had had much communication with my mother (to whom
-he only referred as Lady Dedlock), when and where I had spoken with
+he only referred as [[Lady Dedlock]]), when and where I had spoken with
 her last, and how she had become possessed of my handkerchief. When I
 had satisfied him on these points, he asked me particularly to
-consider—taking time to think—whether within my knowledge there was
+consider—taking [[Time|time]] to think—whether within my knowledge there was
 any one, no matter where, in whom she might be at all likely to
 confide under circumstances of the last necessity. I could think of
 no one but my guardian. But by and by I mentioned Mr. Boythorn. He
@@ -67,10 +67,10 @@ to understand it.
 
 We had not driven very far from our lodgings when we stopped in a
 by-street at a public-looking place lighted up with gas. Mr. Bucket
-took me in and sat me in an arm-chair by a bright fire. It was now
-past one, as I saw by the clock against the wall. Two police
+took me in and sat me in an arm-chair by a bright [[Fire|fire]]. It was now
+past one, as I saw by the [[Clock|clock]] against the wall. Two police
 officers, looking in their perfectly neat uniform not at all like
-people who were up all night, were quietly writing at a desk; and the
+people who were up all [[Night|night]], were quietly writing at a desk; and the
 place seemed very quiet altogether, except for some beating and
 calling out at distant doors underground, to which nobody paid any
 attention.
@@ -89,26 +89,26 @@ with the greatest dispatch and without the waste of a moment; yet
 nobody was at all hurried. As soon as the paper was sent out upon its
 travels, the two officers resumed their former quiet work of writing
 with neatness and care. Mr. Bucket thoughtfully came and warmed the
-soles of his boots, first one and then the other, at the fire.
+soles of his boots, first one and then the other, at the [[Fire|fire]].
 
-“Are you well wrapped up, Miss Summerson?” he asked me as his eyes
-met mine. “It’s a desperate sharp night for a young lady to be out
+“Are you [[Well|well]] wrapped up, Miss Summerson?” he asked me as his eyes
+met mine. “It’s a desperate sharp [[Night|night]] for a young lady to be out
 in.”
 
 I told him I cared for no weather and was warmly clothed.
 
-“It may be a long job,” he observed; “but so that it ends well, never
+“It may be a long job,” he observed; “but so that it ends [[Well|well]], never
 mind, miss.”
 
-“I pray to heaven it may end well!” said I.
+“I pray to heaven it may end [[Well|well]]!” said I.
 
 He nodded comfortingly. “You see, whatever you do, don’t you go and
 fret yourself. You keep yourself cool and equal for anything that may
 happen, and it’ll be the better for you, the better for me, the
-better for Lady Dedlock, and the better for Sir Leicester Dedlock,
+better for [[Lady Dedlock]], and the better for [[Sir Leicester Dedlock]],
 Baronet.”
 
-He was really very kind and gentle, and as he stood before the fire
+He was really very kind and gentle, and as he stood before the [[Fire|fire]]
 warming his boots and rubbing his face with his forefinger, I felt a
 confidence in his sagacity which reassured me. It was not yet a
 quarter to two when I heard horses’ feet and wheels outside. “Now,
@@ -121,18 +121,18 @@ box. The man in uniform whom he had sent to fetch this equipage then
 handed him up a dark lantern at his request, and when he had given a
 few directions to the driver, we rattled away.
 
-I was far from sure that I was not in a dream. We rattled with great
+I was far from sure that I was not in [[A Dream|a dream]]. We rattled with great
 rapidity through such a labyrinth of streets that I soon lost all
 idea where we were, except that we had crossed and re-crossed the
-river, and still seemed to be traversing a low-lying, waterside,
+[[River|river]], and still seemed to be traversing a low-lying, waterside,
 dense neighbourhood of narrow thoroughfares chequered by docks and
 basins, high piles of warehouses, swing-bridges, and masts of ships.
 At length we stopped at the corner of a little slimy turning, which
-the wind from the river, rushing up it, did not purify; and I saw my
+the [[Wind|wind]] from the [[River|river]], rushing up it, did not purify; and I saw my
 companion, by the light of his lantern, in conference with several
 men who looked like a mixture of police and sailors. Against the
 mouldering wall by which they stood, there was a bill, on which I
-could discern the words, “Found Drowned”; and this and an inscription
+could discern the words, “Found Drowned”; and this and an [[Inscription|inscription]]
 about drags possessed me with the awful suspicion shadowed forth in
 our visit to that place.
 
@@ -140,7 +140,7 @@ I had no need to remind myself that I was not there by the indulgence
 of any feeling of mine to increase the difficulties of the search, or
 to lessen its hopes, or enhance its delays. I remained quiet, but
 what I suffered in that dreadful spot I never can forget. And still
-it was like the horror of a dream. A man yet dark and muddy, in long
+it was like the horror of [[A Dream|a dream]]. A man yet dark and muddy, in long
 swollen sodden boots and a hat like them, was called out of a boat
 and whispered with Mr. Bucket, who went away with him down some
 slippery steps—as if to look at something secret that he had to
@@ -166,32 +166,32 @@ know that it is in train by looking after it myself. Get on, my lad!”
 We appeared to retrace the way we had come. Not that I had taken note
 of any particular objects in my perturbed state of mind, but judging
 from the general character of the streets. We called at another
-office or station for a minute and crossed the river again. During
-the whole of this time, and during the whole search, my companion,
+office or station for a minute and crossed the [[River|river]] again. During
+the whole of this [[Time|time]], and during the whole search, my companion,
 wrapped up on the box, never relaxed in his vigilance a single
 moment; but when we crossed the bridge he seemed, if possible, to be
 more on the alert than before. He stood up to look over the parapet,
 he alighted and went back after a shadowy female figure that flitted
-past us, and he gazed into the profound black pit of water with a
-face that made my heart die within me. The river had a fearful look,
+past us, and he gazed into the profound black pit of [[Water|water]] with a
+face that made my heart die within me. The [[River|river]] had a fearful look,
 so overcast and secret, creeping away so fast between the low flat
 lines of shore—so heavy with indistinct and awful shapes, both of
-substance and shadow; so death-like and mysterious. I have seen it
+substance and [[Shadow|shadow]]; so [[Death|death]]-like and mysterious. I have seen it
 many times since then, by sunlight and by moonlight, but never free
-from the impressions of that journey. In my memory the lights upon
-the bridge are always burning dim, the cutting wind is eddying round
+from the impressions of that [[Journey|journey]]. In my [[Memory|memory]] the lights upon
+the bridge are always burning dim, the cutting [[Wind|wind]] is eddying round
 the homeless woman whom we pass, the monotonous wheels are whirling
 on, and the light of the carriage-lamps reflected back looks palely
-in upon me—a face rising out of the dreaded water.
+in upon me—a face rising out of the dreaded [[Water|water]].
 
 Clattering and clattering through the empty streets, we came at
 length from the pavement on to dark smooth roads and began to leave
 the houses behind us. After a while I recognized the familiar way to
 Saint Albans. At Barnet fresh horses were ready for us, and we
 changed and went on. It was very cold indeed, and the open country
-was white with snow, though none was falling then.
+was white with [[Snow|snow]], though none was falling then.
 
-“An old acquaintance of yours, this road, Miss Summerson,” said Mr.
+“An old acquaintance of yours, this [[Road|road]], Miss Summerson,” said Mr.
 Bucket cheerfully.
 
 “Yes,” I returned. “Have you gathered any intelligence?”
@@ -199,8 +199,8 @@ Bucket cheerfully.
 “None that can be quite depended on as yet,” he answered, “but it’s
 early times as yet.”
 
-He had gone into every late or early public-house where there
-was a light (they were not a few at that time, the road being
+He had gone into every late or early public-[[house]] where there
+was a light (they were not a few at that [[Time|time]], the [[Road|road]] being
 then much frequented by drovers) and had got down to talk to the
 turnpike-keepers. I had heard him ordering drink, and chinking money,
 and making himself agreeable and merry everywhere; but whenever he
@@ -208,7 +208,7 @@ took his seat upon the box again, his face resumed its watchful
 steady look, and he always said to the driver in the same business
 tone, “Get on, my lad!”
 
-With all these stoppages, it was between five and six o’clock and we
+With all these stoppages, it was between five and six o’[[Clock|clock]] and we
 were yet a few miles short of Saint Albans when he came out of one of
 these houses and handed me in a cup of tea.
 
@@ -218,7 +218,7 @@ more yourself now, ain’t you?”
 I thanked him and said I hoped so.
 
 “You was what you may call stunned at first,” he returned; “and Lord,
-no wonder! Don’t speak loud, my dear. It’s all right. She’s on
+no [[Wonder|wonder]]! Don’t speak loud, my dear. It’s all right. She’s on
 ahead.”
 
 I don’t know what joyful exclamation I made or was going to make, but
@@ -230,41 +230,41 @@ couldn’t make quite sure. Traced her all along, on and off. Picked
 her up at one place, and dropped her at another; but she’s before us
 now, safe. Take hold of this cup and saucer, ostler. Now, if you
 wasn’t brought up to the butter trade, look out and see if you can
-catch half a crown in your t’other hand. One, two, three, and there
+catch half a [[Crown|crown]] in your t’other hand. One, two, three, and there
 you are! Now, my lad, try a gallop!”
 
 We were soon in Saint Albans and alighted a little before day, when I
 was just beginning to arrange and comprehend the occurrences of the
-night and really to believe that they were not a dream. Leaving the
-carriage at the posting-house and ordering fresh horses to be ready,
-my companion gave me his arm, and we went towards home.
+[[Night|night]] and really to believe that they were not [[A Dream|a dream]]. Leaving the
+carriage at the posting-[[house]] and ordering fresh horses to be ready,
+my companion gave me his arm, and we went towards [[Home|home]].
 
 “As this is your regular abode, Miss Summerson, you see,” he
 observed, “I should like to know whether you’ve been asked for by any
 stranger answering the description, or whether Mr. Jarndyce has. I
 don’t much expect it, but it might be.”
 
-As we ascended the hill, he looked about him with a sharp eye—the
+As we ascended the [[Hill|hill]], he looked about him with a sharp eye—the
 day was now breaking—and reminded me that I had come down it one
-night, as I had reason for remembering, with my little servant and
+[[Night|night]], as I had reason for remembering, with my little servant and
 poor Jo, whom he called Toughey.
 
 I wondered how he knew that.
 
-“When you passed a man upon the road, just yonder, you know,” said
+“When you passed a man upon the [[Road|road]], just yonder, you know,” said
 Mr. Bucket.
 
-Yes, I remembered that too, very well.
+Yes, I remembered that too, very [[Well|well]].
 
 “That was me,” said Mr. Bucket.
 
 Seeing my surprise, he went on, “I drove down in a gig that afternoon
 to look after that boy. You might have heard my wheels when you came
 out to look after him yourself, for I was aware of you and your
-little maid going up when I was walking the horse down. Making an
+little maid going up when I was walking the [[Horse|horse]] down. Making an
 inquiry or two about him in the town, I soon heard what company he
 was in and was coming among the brick-fields to look for him when I
-observed you bringing him home here.”
+observed you bringing him [[Home|home]] here.”
 
 “Had he committed any crime?” I asked.
 
@@ -274,41 +274,41 @@ him for was in connexion with keeping this very matter of Lady
 Dedlock quiet. He had been making his tongue more free than welcome
 as to a small accidental service he had been paid for by the deceased
 Mr. Tulkinghorn; and it wouldn’t do, at any sort of price, to have
-him playing those games. So having warned him out of London, I made
+him playing those games. So having warned him out of [[London]], I made
 an afternoon of it to warn him to keep out of it now he WAS away, and
 go farther from it, and maintain a bright look-out that I didn’t
 catch him coming back again.”
 
 “Poor creature!” said I.
 
-“Poor enough,” assented Mr. Bucket, “and trouble enough, and well
-enough away from London, or anywhere else. I was regularly turned on
+“Poor enough,” assented Mr. Bucket, “and trouble enough, and [[Well|well]]
+enough away from [[London]], or anywhere else. I was regularly turned on
 my back when I found him taken up by your establishment, I do assure
 you.”
 
 I asked him why. “Why, my dear?” said Mr. Bucket. “Naturally there
-was no end to his tongue then. He might as well have been born with a
+was no end to his tongue then. He might as [[Well|well]] have been born with a
 yard and a half of it, and a remnant over.”
 
 Although I remember this conversation now, my head was in confusion
-at the time, and my power of attention hardly did more than enable me
+at the [[Time|time]], and my power of attention hardly did more than enable me
 to understand that he entered into these particulars to divert me.
 With the same kind intention, manifestly, he often spoke to me of
 indifferent things, while his face was busy with the one object that
 we had in view. He still pursued this subject as we turned in at the
-garden-gate.
+[[Garden|garden]]-gate.
 
 “Ah!” said Mr. Bucket. “Here we are, and a nice retired place it is.
-Puts a man in mind of the country house in the Woodpecker-tapping,
+Puts a man in mind of the country [[house]] in the Woodpecker-tapping,
 that was known by the smoke which so gracefully curled. They’re early
-with the kitchen fire, and that denotes good servants. But what
+with the kitchen [[Fire|fire]], and that denotes good servants. But what
 you’ve always got to be careful of with servants is who comes to see
 ’em; you never know what they’re up to if you don’t know that. And
 another thing, my dear. Whenever you find a young man behind the
 kitchen-door, you give that young man in charge on suspicion of being
-secreted in a dwelling-house with an unlawful purpose.”
+secreted in a dwelling-[[house]] with an unlawful purpose.”
 
-We were now in front of the house; he looked attentively and closely
+We were now in front of the [[house]]; he looked attentively and closely
 at the gravel for footprints before he raised his eyes to the
 windows.
 
@@ -337,23 +337,23 @@ him.
 “Why, now I’ll tell you, Miss Summerson,” he replied. “Your mind will
 be all the better for not running on one point too continually, and
 I’ll tell you for a change. It was him as pointed out to me where
-Toughey was. I made up my mind that night to come to the door and ask
+Toughey was. I made up my mind that [[Night|night]] to come to the door and ask
 for Toughey, if that was all; but willing to try a move or so first,
 if any such was on the board, I just pitched up a morsel of gravel at
-that window where I saw a shadow. As soon as Harold opens it and I
+that [[Window|window]] where I saw a [[Shadow|shadow]]. As soon as Harold opens it and I
 have had a look at him, thinks I, you’re the man for me. So I
 smoothed him down a bit about not wanting to disturb the family after
 they was gone to bed and about its being a thing to be regretted that
 charitable young ladies should harbour vagrants; and then, when I
-pretty well understood his ways, I said I should consider a fypunnote
-well bestowed if I could relieve the premises of Toughey without
+pretty [[Well|well]] understood his ways, I said I should consider a fypunnote
+[[Well|well]] bestowed if I could relieve the premises of Toughey without
 causing any noise or trouble. Then says he, lifting up his eyebrows
 in the gayest way, ‘It’s no use mentioning a fypunnote to me, my
-friend, because I’m a mere child in such matters and have no idea of
+friend, because I’m a mere [[Child|child]] in such matters and have no idea of
 money.’ Of course I understood what his taking it so easy meant; and
 being now quite sure he was the man for me, I wrapped the note round
-a little stone and threw it up to him. Well! He laughs and beams, and
-looks as innocent as you like, and says, ‘But I don’t know the value
+a little stone and threw it up to him. [[Well]]! He laughs and beams, and
+looks as [[Innocent|innocent]] as you like, and says, ‘But I don’t know the value
 of these things. What am I to DO with this?’ ‘Spend it, sir,’ says I.
 ‘But I shall be taken in,’ he says, ‘they won’t give me the right
 change, I shall lose it, it’s no use to me.’ Lord, you never saw such
@@ -362,15 +362,15 @@ Toughey, and I found him.”
 
 I regarded this as very treacherous on the part of Mr. Skimpole
 towards my guardian and as passing the usual bounds of his childish
-innocence.
+[[innocence]].
 
 “Bounds, my dear?” returned Mr. Bucket. “Bounds? Now, Miss Summerson,
 I’ll give you a piece of advice that your husband will find useful
 when you are happily married and have got a family about you.
-Whenever a person says to you that they are as innocent as can be in
-all concerning money, look well after your own money, for they are
+Whenever a person says to you that they are as [[Innocent|innocent]] as can be in
+all concerning money, look [[Well|well]] after your own money, for they are
 dead certain to collar it if they can. Whenever a person proclaims to
-you ‘In worldly matters I’m a child,’ you consider that that person
+you ‘In worldly matters I’m a [[Child|child]],’ you consider that that person
 is only a-crying off from being held accountable and that you have
 got that person’s number, and it’s Number One. Now, I am not a
 poetical man myself, except in a vocal way when it goes round a
@@ -382,10 +382,10 @@ and so go back to our business.”
 
 I believe it had not been for a moment out of his mind, any more than
 it had been out of my mind, or out of his face. The whole household
-were amazed to see me, without any notice, at that time in the
+were amazed to see me, without any notice, at that [[Time|time]] in the
 morning, and so accompanied; and their surprise was not diminished by
 my inquiries. No one, however, had been there. It could not be
-doubted that this was the truth.
+doubted that this was the [[Truth|truth]].
 
 “Then, Miss Summerson,” said my companion, “we can’t be too soon at
 the cottage where those brickmakers are to be found. Most inquiries
@@ -397,47 +397,47 @@ We set off again immediately. On arriving at the cottage, we found it
 shut up and apparently deserted, but one of the neighbours who knew
 me and who came out when I was trying to make some one hear informed
 me that the two women and their husbands now lived together in
-another house, made of loose rough bricks, which stood on the margin
+another [[house]], made of loose rough bricks, which stood on the margin
 of the piece of ground where the kilns were and where the long rows
-of bricks were drying. We lost no time in repairing to this place,
+of bricks were drying. We lost no [[Time|time]] in repairing to this place,
 which was within a few hundred yards; and as the door stood ajar, I
 pushed it open.
 
-There were only three of them sitting at breakfast, the child lying
+There were only three of them sitting at breakfast, the [[Child|child]] lying
 asleep on a bed in the corner. It was Jenny, the mother of the dead
-child, who was absent. The other woman rose on seeing me; and the
+[[Child|child]], who was absent. The other woman [[Rose|rose]] on seeing me; and the
 men, though they were, as usual, sulky and silent, each gave me a
 morose nod of recognition. A look passed between them when Mr. Bucket
 followed me in, and I was surprised to see that the woman evidently
 knew him.
 
 I had asked leave to enter of course. Liz (the only name by which I
-knew her) rose to give me her own chair, but I sat down on a stool
-near the fire, and Mr. Bucket took a corner of the bedstead. Now that
+knew her) [[Rose|rose]] to give me her own chair, but I sat down on a stool
+near the [[Fire|fire]], and Mr. Bucket took a corner of the bedstead. Now that
 I had to speak and was among people with whom I was not familiar, I
 became conscious of being hurried and giddy. It was very difficult to
-begin, and I could not help bursting into tears.
+begin, and I could not help bursting into [[Tears|tears]].
 
-“Liz,” said I, “I have come a long way in the night and through the
-snow to inquire after a lady—”
+“Liz,” said I, “I have come a long way in the [[Night|night]] and through the
+[[Snow|snow]] to inquire after a lady—”
 
 “Who has been here, you know,” Mr. Bucket struck in, addressing the
 whole group with a composed propitiatory face; “that’s the lady the
-young lady means. The lady that was here last night, you know.”
+young lady means. The lady that was here last [[Night|night]], you know.”
 
 “And who told YOU as there was anybody here?” inquired Jenny’s
 husband, who had made a surly stop in his eating to listen and now
 measured him with his eye.
 
-“A person of the name of Michael Jackson, with a blue welveteen
-waistcoat with a double row of mother of pearl buttons,” Mr. Bucket
+“A person of the name of [[Michael]] Jackson, with a blue welveteen
+waistcoat with a [[Double|double]] row of mother of pearl buttons,” Mr. Bucket
 immediately answered.
 
 “He had as good mind his own business, whoever he is,” growled the
 man.
 
 “He’s out of employment, I believe,” said Mr. Bucket apologetically
-for Michael Jackson, “and so gets talking.”
+for [[Michael]] Jackson, “and so gets talking.”
 
 The woman had not resumed her chair, but stood faltering with her
 hand upon its broken back, looking at me. I thought she would have
@@ -452,9 +452,9 @@ she would have told me all she could about this lady, whom I am very
 anxious indeed—you cannot think how anxious—to overtake. Will Jenny
 be here soon? Where is she?”
 
-The woman had a great desire to answer, but the man, with another
+The woman had a great [[Desire|desire]] to answer, but the man, with another
 oath, openly kicked at her foot with his heavy boot. He left it to
-Jenny’s husband to say what he chose, and after a dogged silence the
+Jenny’s husband to say what he chose, and after a dogged [[Silence|silence]] the
 latter turned his shaggy head towards me.
 
 “I’m not partial to gentlefolks coming into my place, as you’ve heerd
@@ -466,9 +466,9 @@ civil answer, though I give notice that I’m not a-going to be drawed
 like a badger. Will Jenny be here soon? No she won’t. Where is she?
 She’s gone up to Lunnun.”
 
-“Did she go last night?” I asked.
+“Did she go last [[Night|night]]?” I asked.
 
-“Did she go last night? Ah! She went last night,” he answered with a
+“Did she go last [[Night|night]]? Ah! She went last [[Night|night]],” he answered with a
 sulky jerk of his head.
 
 “But was she here when the lady came? And what did the lady say to
@@ -482,21 +482,21 @@ woman timidly began.
 emphasis, “will break your neck if you meddle with wot don’t concern
 you.”
 
-After another silence, the husband of the absent woman, turning to me
+After another [[Silence|silence]], the husband of the absent woman, turning to me
 again, answered me with his usual grumbling unwillingness.
 
 “Wos Jenny here when the lady come? Yes, she wos here when the lady
-come. Wot did the lady say to her? Well, I’ll tell you wot the lady
-said to her. She said, ‘You remember me as come one time to talk to
+come. Wot did the lady say to her? [[Well]], I’ll tell you wot the lady
+said to her. She said, ‘You remember me as come one [[Time|time]] to talk to
 you about the young lady as had been a-wisiting of you? You remember
 me as give you somethink handsome for a handkercher wot she had
-left?’ Ah, she remembered. So we all did. Well, then, wos that young
-lady up at the house now? No, she warn’t up at the house now. Well,
-then, lookee here. The lady was upon a journey all alone, strange as
+left?’ Ah, she remembered. So we all did. [[Well]], then, wos that young
+lady up at the [[house]] now? No, she warn’t up at the [[house]] now. [[Well]],
+then, lookee here. The lady was upon a [[Journey|journey]] all [[Alone|alone]], strange as
 we might think it, and could she rest herself where you’re a setten
 for a hour or so. Yes she could, and so she did. Then she went—it
 might be at twenty minutes past eleven, and it might be at twenty
-minutes past twelve; we ain’t got no watches here to know the time
+minutes past twelve; we ain’t got no watches here to know the [[Time|time]]
 by, nor yet clocks. Where did she go? I don’t know where she go’d.
 She went one way, and Jenny went another; one went right to Lunnun,
 and t’other went right from it. That’s all about it. Ask this man. He
@@ -514,7 +514,7 @@ husband had turned his seat a little so as to face her and kept his
 hammer-like hand upon the table as if it were in readiness to execute
 his threat if she disobeyed him.
 
-“I hope you will not object to my asking your wife,” said I, “how the
+“I [[Hope|hope]] you will not object to my asking your wife,” said I, “how the
 lady looked.”
 
 “Come, then!” he gruffly cried to her. “You hear what she says. Cut
@@ -533,14 +533,14 @@ She answered, looking all the while at her husband for leave.
 “Go on!” said the husband in answer to her look. “Tell her and cut it
 short.”
 
-“She had a little water, miss, and Jenny fetched her some bread and
+“She had a little [[Water|water]], miss, and Jenny fetched her some bread and
 tea. But she hardly touched it.”
 
 “And when she went from here,” I was proceeding, when Jenny’s husband
 impatiently took me up.
 
 “When she went from here, she went right away nor’ard by the high
-road. Ask on the road if you doubt me, and see if it warn’t so. Now,
+[[Road|road]]. Ask on the [[Road|road]] if you [[Doubt|doubt]] me, and see if it warn’t so. Now,
 there’s the end. That’s all about it.”
 
 I glanced at my companion, and finding that he had already risen and
@@ -555,7 +555,7 @@ looked full at her.
 
 “Just as good as saw it,” he returned. “Else why should he talk about
 his ‘twenty minutes past’ and about his having no watch to tell the
-time by? Twenty minutes! He don’t usually cut his time so fine as
+[[Time|time]] by? Twenty minutes! He don’t usually cut his [[Time|time]] so fine as
 that. If he comes to half-hours, it’s as much as HE does. Now, you
 see, either her ladyship gave him that watch or he took it. I think
 she gave it him. Now, what should she give it him for? What should
@@ -565,11 +565,11 @@ He repeated this question to himself several times as we hurried on,
 appearing to balance between a variety of answers that arose in his
 mind.
 
-“If time could be spared,” said Mr. Bucket, “which is the only thing
+“If [[Time|time]] could be spared,” said Mr. Bucket, “which is the only thing
 that can’t be spared in this case, I might get it out of that woman;
 but it’s too doubtful a chance to trust to under present
 circumstances. They are up to keeping a close eye upon her, and any
-fool knows that a poor creetur like her, beaten and kicked and
+[[Fool|fool]] knows that a poor creetur like her, beaten and kicked and
 scarred and bruised from head to foot, will stand by the husband that
 ill uses her through thick and thin. There’s something kept back.
 It’s a pity but what we had seen the other woman.”
@@ -578,51 +578,51 @@ I regretted it exceedingly, for she was very grateful, and I felt
 sure would have resisted no entreaty of mine.
 
 “It’s possible, Miss Summerson,” said Mr. Bucket, pondering on it,
-“that her ladyship sent her up to London with some word for you, and
+“that her ladyship sent her up to [[London]] with some word for you, and
 it’s possible that her husband got the watch to let her go. It don’t
 come out altogether so plain as to please me, but it’s on the cards.
 Now, I don’t take kindly to laying out the money of Sir Leicester
 Dedlock, Baronet, on these roughs, and I don’t see my way to the
-usefulness of it at present. No! So far our road, Miss Summerson, is
+usefulness of it at present. No! So far our [[Road|road]], Miss Summerson, is
 for’ard—straight ahead—and keeping everything quiet!”
 
-We called at home once more that I might send a hasty note to my
+We called at [[Home|home]] once more that I might send a hasty note to my
 guardian, and then we hurried back to where we had left the carriage.
 The horses were brought out as soon as we were seen coming, and we
-were on the road again in a few minutes.
+were on the [[Road|road]] again in a few minutes.
 
 It had set in snowing at daybreak, and it now snowed hard. The air
 was so thick with the darkness of the day and the density of the fall
 that we could see but a very little way in any direction. Although it
-was extremely cold, the snow was but partially frozen, and it
+was extremely cold, the [[Snow|snow]] was but partially frozen, and it
 churned—with a sound as if it were a beach of small shells—under
-the hoofs of the horses into mire and water. They sometimes slipped
+the hoofs of the horses into mire and [[Water|water]]. They sometimes slipped
 and floundered for a mile together, and we were obliged to come to a
-standstill to rest them. One horse fell three times in this first
+standstill to rest them. One [[Horse|horse]] fell three times in this first
 stage, and trembled so and was so shaken that the driver had to
 dismount from his saddle and lead him at last.
 
-I could eat nothing and could not sleep, and I grew so nervous under
+I could eat nothing and could not [[Sleep|sleep]], and I grew so nervous under
 those delays and the slow pace at which we travelled that I had an
-unreasonable desire upon me to get out and walk. Yielding to my
+unreasonable [[Desire|desire]] upon me to get out and walk. Yielding to my
 companion’s better sense, however, I remained where I was. All this
-time, kept fresh by a certain enjoyment of the work in which he was
-engaged, he was up and down at every house we came to, addressing
+[[Time|time]], kept fresh by a certain enjoyment of the work in which he was
+engaged, he was up and down at every [[house]] we came to, addressing
 people whom he had never beheld before as old acquaintances, running
-in to warm himself at every fire he saw, talking and drinking and
+in to warm himself at every [[Fire|fire]] he saw, talking and drinking and
 shaking hands at every bar and tap, friendly with every waggoner,
 wheelwright, blacksmith, and toll-taker, yet never seeming to lose
-time, and always mounting to the box again with his watchful, steady
+[[Time|time]], and always mounting to the box again with his watchful, steady
 face and his business-like “Get on, my lad!”
 
-When we were changing horses the next time, he came from the
-stable-yard, with the wet snow encrusted upon him and dropping off
+When we were changing horses the next [[Time|time]], he came from the
+stable-yard, with the wet [[Snow|snow]] encrusted upon him and dropping off
 him—plashing and crashing through it to his wet knees as he had been
 doing frequently since we left Saint Albans—and spoke to me at the
 carriage side.
 
 “Keep up your spirits. It’s certainly true that she came on here,
-Miss Summerson. There’s not a doubt of the dress by this time, and
+Miss Summerson. There’s not a [[Doubt|doubt]] of the dress by this [[Time|time]], and
 the dress has been seen here.”
 
 “Still on foot?” said I.
@@ -639,9 +639,9 @@ and don’t you worry yourself no more than you can help. Get on, my
 lad!”
 
 The sleet fell all that day unceasingly, a thick mist came on early,
-and it never rose or lightened for a moment. Such roads I had never
+and it never [[Rose|rose]] or lightened for a moment. Such roads I had never
 seen. I sometimes feared we had missed the way and got into the
-ploughed grounds or the marshes. If I ever thought of the time I had
+ploughed grounds or the marshes. If I ever thought of the [[Time|time]] I had
 been out, it presented itself as an indefinite period of great
 duration, and I seemed, in a strange way, never to have been free
 from the anxiety under which I then laboured.
@@ -663,8 +663,8 @@ he said, to lose such a track for one while, and to take it up for
 another while, and so on; but it had disappeared here in an
 unaccountable manner, and we had not come upon it since. This
 corroborated the apprehensions I had formed, when he began to look at
-direction-posts, and to leave the carriage at cross roads for a
-quarter of an hour at a time while he explored them. But I was not to
+direction-posts, and to leave the carriage at [[Cross|cross]] roads for a
+quarter of an hour at a [[Time|time]] while he explored them. But I was not to
 be down-hearted, he told me, for it was as likely as not that the
 next stage might set us right again.
 
@@ -676,16 +676,16 @@ carriage-door, entreating me to alight and refresh myself while the
 horses were making ready, I thought it would be uncharitable to
 refuse. They took me upstairs to a warm room and left me there.
 
-It was at the corner of the house, I remember, looking two ways. On
-one side to a stable-yard open to a by-road, where the ostlers were
+It was at the corner of the [[house]], I remember, looking two ways. On
+one side to a stable-yard open to a by-[[Road|road]], where the ostlers were
 unharnessing the splashed and tired horses from the muddy carriage,
-and beyond that to the by-road itself, across which the sign was
+and beyond that to the by-[[Road|road]] itself, across which the sign was
 heavily swinging; on the other side to a wood of dark pine-trees.
-Their branches were encumbered with snow, and it silently dropped off
-in wet heaps while I stood at the window. Night was setting in, and
-its bleakness was enhanced by the contrast of the pictured fire
-glowing and gleaming in the window-pane. As I looked among the stems
-of the trees and followed the discoloured marks in the snow where the
+Their branches were encumbered with [[Snow|snow]], and it silently dropped off
+in wet heaps while I stood at the [[Window|window]]. [[Night]] was setting in, and
+its bleakness was enhanced by the contrast of the pictured [[Fire|fire]]
+glowing and gleaming in the [[Window|window]]-pane. As I looked among the stems
+of the trees and followed the discoloured marks in the [[Snow|snow]] where the
 thaw was sinking into it and undermining it, I thought of the
 motherly face brightly set off by daughters that had just now
 welcomed me and of MY mother lying down in such a wood to die.
@@ -693,8 +693,8 @@ welcomed me and of MY mother lying down in such a wood to die.
 I was frightened when I found them all about me, but I remembered
 that before I fainted I tried very hard not to do it; and that was
 some little comfort. They cushioned me up on a large sofa by the
-fire, and then the comely landlady told me that I must travel no
-further to-night, but must go to bed. But this put me into such a
+[[Fire|fire]], and then the comely landlady told me that I must travel no
+further to-[[Night|night]], but must go to bed. But this put me into such a
 tremble lest they should detain me there that she soon recalled her
 words and compromised for a rest of half an hour.
 
@@ -706,7 +706,7 @@ very unwilling to disappoint them. However, I could take some toast
 and some hot negus; and as I really enjoyed that refreshment, it made
 some recompense.
 
-Punctual to the time, at the half-hour’s end the carriage came
+Punctual to the [[Time|time]], at the half-hour’s end the carriage came
 rumbling under the gateway, and they took me down, warmed, refreshed,
 comforted by kindness, and safe (I assured them) not to faint any
 more. After I had got in and had taken a grateful leave of them all,
@@ -715,19 +715,19 @@ first married, they had told me—got upon the carriage step, reached
 in, and kissed me. I have never seen her, from that hour, but I think
 of her to this hour as my friend.
 
-The transparent windows with the fire and light, looking so bright
+The transparent windows with the [[Fire|fire]] and light, looking so bright
 and warm from the cold darkness out of doors, were soon gone, and
-again we were crushing and churning the loose snow. We went on with
+again we were crushing and churning the loose [[Snow|snow]]. We went on with
 toil enough, but the dismal roads were not much worse than they had
 been, and the stage was only nine miles. My companion smoking on the
 box—I had thought at the last inn of begging him to do so when I saw
-him standing at a great fire in a comfortable cloud of tobacco—was
+him standing at a great [[Fire|fire]] in a comfortable cloud of tobacco—was
 as vigilant as ever and as quickly down and up again when we came to
 any human abode or any human creature. He had lighted his little dark
 lantern, which seemed to be a favourite with him, for we had lamps to
 the carriage; and every now and then he turned it upon me to see that
-I was doing well. There was a folding-window to the carriage-head,
-but I never closed it, for it seemed like shutting out hope.
+I was doing [[Well|well]]. There was a folding-[[Window|window]] to the carriage-head,
+but I never closed it, for it seemed like shutting out [[Hope|hope]].
 
 We came to the end of the stage, and still the lost trace was not
 recovered. I looked at him anxiously when we stopped to change, but I
@@ -741,13 +741,13 @@ excited and quite different man.
 “No, no. Don’t deceive yourself, my dear. Nobody’s here. But I’ve got
 it!”
 
-The crystallized snow was in his eyelashes, in his hair, lying in
+The crystallized [[Snow|snow]] was in his eyelashes, in his hair, lying in
 ridges on his dress. He had to shake it from his face and get his
 breath before he spoke to me.
 
 “Now, Miss Summerson,” said he, beating his finger on the apron,
 “don’t you be disappointed at what I’m a-going to do. You know me.
-I’m Inspector Bucket, and you can trust me. We’ve come a long way;
+I’m [[Inspector Bucket]], and you can trust me. We’ve come a long way;
 never mind. Four horses out there for the next stage up! Quick!”
 
 There was a commotion in the yard, and a man came running out of the
@@ -755,7 +755,7 @@ stables to know if he meant up or down.
 
 “Up, I tell you! Up! Ain’t it English? Up!”
 
-“Up?” said I, astonished. “To London! Are we going back?”
+“Up?” said I, astonished. “To [[London]]! Are we going back?”
 
 “Miss Summerson,” he answered, “back. Straight back as a die. You
 know me. Don’t be afraid. I’ll follow the other, by G——”
@@ -763,10 +763,10 @@ know me. Don’t be afraid. I’ll follow the other, by G——”
 “The other?” I repeated. “Who?”
 
 “You called her Jenny, didn’t you? I’ll follow her. Bring those two
-pair out here for a crown a man. Wake up, some of you!”
+pair out here for a [[Crown|crown]] a man. Wake up, some of you!”
 
-“You will not desert this lady we are in search of; you will not
-abandon her on such a night and in such a state of mind as I know her
+“You will not [[Desert|desert]] this lady we are in search of; you will not
+abandon her on such a [[Night|night]] and in such a state of mind as I know her
 to be in!” said I, in an agony, and grasping his hand.
 
 “You are right, my dear, I won’t. But I’ll follow the other. Look
@@ -778,7 +778,7 @@ These orders and the way in which he ran about the yard urging them
 caused a general excitement that was scarcely less bewildering to me
 than the sudden change. But in the height of the confusion, a mounted
 man galloped away to order the relays, and our horses were put to
-with great speed.
+with great [[Speed|speed]].
 
 “My dear,” said Mr. Bucket, jumping to his seat and looking in again,
 “—you’ll excuse me if I’m too familiar—don’t you fret and worry
@@ -791,18 +791,18 @@ Could I not go forward by myself in search of—I grasped his hand
 again in my distress and whispered it to him—of my own mother.
 
 “My dear,” he answered, “I know, I know, and would I put you wrong,
-do you think? Inspector Bucket. Now you know me, don’t you?”
+do you think? [[Inspector Bucket]]. Now you know me, don’t you?”
 
 What could I say but yes!
 
 “Then you keep up as good a heart as you can, and you rely upon me
-for standing by you, no less than by Sir Leicester Dedlock, Baronet.
+for standing by you, no less than by [[Sir Leicester Dedlock]], Baronet.
 Now, are you right there?”
 
 “All right, sir!”
 
 “Off she goes, then. And get on, my lads!”
 
-We were again upon the melancholy road by which we had come, tearing
-up the miry sleet and thawing snow as if they were torn up by a
+We were again upon the [[Melancholy|melancholy]] [[Road|road]] by which we had come, tearing
+up the miry sleet and thawing [[Snow|snow]] as if they were torn up by a
 waterwheel.

@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 13: THIRTEEN"
+title: "[[Martin Chuzzlewit]] — Chapter 13: THIRTEEN"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -17,15 +17,15 @@ tags:
 CHAPTER THIRTEEN
 
 SHOWING WHAT BECAME OF MARTIN AND HIS DESPARATE RESOLVE, AFTER HE LEFT
-MR PECKSNIFF’S HOUSE; WHAT PERSONS HE ENCOUNTERED; WHAT ANXIETIES HE
+MR PECKSNIFF’S [[house|HOUSE]]; WHAT PERSONS HE ENCOUNTERED; WHAT ANXIETIES HE
 SUFFERED; AND WHAT NEWS HE HEARD
 
 
-Carrying Tom Pinch’s book quite unconsciously under his arm, and not
+Carrying [[Tom Pinch]]’s book quite unconsciously under his arm, and not
 even buttoning his coat as a protection against the heavy rain, Martin
 went doggedly forward at the same quick pace, until he had passed the
-finger-post, and was on the high road to London. He slackened very
-little in his speed even then, but he began to think, and look about
+finger-post, and was on the high [[Road|road]] to [[London]]. He slackened very
+little in his [[Speed|speed]] even then, but he began to think, and look about
 him, and to disengage his senses from the coil of angry passions which
 hitherto had held them prisoner.
 
@@ -34,34 +34,34 @@ employment either for his moral or his physical perceptions. The day was
 dawning from a patch of watery light in the east, and sullen clouds
 came driving up before it, from which the rain descended in a thick, wet
 mist. It streamed from every twig and bramble in the hedge; made little
-gullies in the path; ran down a hundred channels in the road; and
+gullies in the path; ran down a hundred channels in the [[Road|road]]; and
 punched innumerable holes into the face of every pond and gutter. It
 fell with an oozy, slushy sound among the grass; and made a muddy kennel
 of every furrow in the ploughed fields. No living creature was anywhere
 to be seen. The prospect could hardly have been more desolate if
-animated nature had been dissolved in water, and poured down upon the
+animated [[Nature|nature]] had been dissolved in [[Water|water]], and poured down upon the
 earth again in that form.
 
 The range of view within the solitary traveller was quite as cheerless
 as the scene without. Friendless and penniless; incensed to the last
-degree; deeply wounded in his pride and self-love; full of independent
+degree; deeply wounded in his [[Pride|pride]] and [[Self|self]]-[[Love|love]]; full of independent
 schemes, and perfectly destitute of any means of realizing them; his
 most vindictive enemy might have been satisfied with the extent of his
-troubles. To add to his other miseries, he was by this time sensible of
+troubles. To add to his other miseries, he was by this [[Time|time]] sensible of
 being wet to the skin, and cold at his very heart.
 
 In this deplorable condition he remembered Mr Pinch’s book; more
-because it was rather troublesome to carry, than from any hope of being
+because it was rather troublesome to carry, than from any [[Hope|hope]] of being
 comforted by that parting gift. He looked at the dingy lettering on the
 back, and finding it to be an odd volume of the ‘Bachelor of Salamanca,’
-in the French tongue, cursed Tom Pinch’s folly twenty times. He was on
-the point of throwing it away, in his ill-humour and vexation, when he
+in the French tongue, cursed [[Tom Pinch]]’s folly twenty times. He was on
+the point of throwing it away, in his ill-[[Humour|humour]] and vexation, when he
 bethought himself that Tom had referred him to a leaf, turned down;
 and opening it at that place, that he might have additional cause
 of complaint against him for supposing that any cold scrap of the
 Bachelor’s wisdom could cheer him in such circumstances, found!--
 
-Well, well! not much, but Tom’s all. The half-sovereign. He had wrapped
+[[Well]], [[Well|well]]! not much, but Tom’s all. The half-sovereign. He had wrapped
 it hastily in a piece of paper, and pinned it to the leaf. These words
 were scrawled in pencil on the inside: ‘I don’t want it indeed. I should
 not know what to do with it if I had it.’
@@ -69,10 +69,10 @@ not know what to do with it if I had it.’
 There are some falsehoods, Tom, on which men mount, as on bright wings,
 towards Heaven. There are some truths, cold bitter taunting truths,
 wherein your worldly scholars are very apt and punctual, which bind men
-down to earth with leaden chains. Who would not rather have to fan him,
+down to earth with leaden [[Chains|chains]]. Who would not rather have to fan him,
 in his dying hour, the lightest feather of a falsehood such as thine,
 than all the quills that have been plucked from the sharp porcupine,
-reproachful truth, since time began!
+reproachful [[Truth|truth]], since [[Time|time]] began!
 
 Martin felt keenly for himself, and he felt this good deed of Tom’s
 keenly. After a few minutes it had the effect of raising his spirits,
@@ -83,46 +83,46 @@ winning fellow he must be to have made such an impression on Tom; and in
 reflecting how superior he was to Tom; and how much more likely to make
 his way in the world. Animated by these thoughts, and strengthened in
 his design of endeavouring to push his fortune in another country, he
-resolved to get to London as a rallying-point, in the best way he could;
-and to lose no time about it.
+resolved to get to [[London]] as a rallying-point, in the best way he could;
+and to lose no [[Time|time]] about it.
 
 He was ten good miles from the village made illustrious by being the
 abiding-place of Mr Pecksniff, when he stopped to breakfast at a little
 roadside alehouse; and resting upon a high-backed settle before the
-fire, pulled off his coat, and hung it before the cheerful blaze to
+[[Fire|fire]], pulled off his coat, and hung it before the cheerful blaze to
 dry. It was a very different place from the last tavern in which he
 had regaled; boasting no greater extent of accommodation than the
 brick-floored kitchen yielded; but the mind so soon accommodates itself
-to the necessities of the body, that this poor waggoner’s house-of-call,
+to the necessities of the [[Body|body]], that this poor waggoner’s [[house]]-of-call,
 which he would have despised yesterday, became now quite a choice hotel;
 while his dish of eggs and bacon, and his mug of beer, were not by
 any means the coarse fare he had supposed, but fully bore out the
-inscription on the window-shutter, which proclaimed those viands to be
+[[Inscription|inscription]] on the [[Window|window]]-shutter, which proclaimed those viands to be
 ‘Good entertainment for Travellers.’
 
 He pushed away his empty plate; and with a second mug upon the hearth
-before him, looked thoughtfully at the fire until his eyes ached. Then
+before him, looked thoughtfully at the [[Fire|fire]] until his eyes ached. Then
 he looked at the highly-coloured scripture pieces on the walls, in
 little black frames like common shaving-glasses, and saw how the Wise
 Men (with a strong family likeness among them) worshipped in a pink
-manger; and how the Prodigal Son came home in red rags to a purple
-father, and already feasted his imagination on a sea-green calf. Then he
-glanced through the window at the falling rain, coming down aslant upon
-the sign-post over against the house, and overflowing the horse-trough;
-and then he looked at the fire again, and seemed to descry a double
-distant London, retreating among the fragments of the burning wood.
+manger; and how the Prodigal Son came [[Home|home]] in red rags to a purple
+father, and already feasted his [[Imagination|imagination]] on a sea-green calf. Then he
+glanced through the [[Window|window]] at the falling rain, coming down aslant upon
+the sign-post over against the [[house]], and overflowing the [[Horse|horse]]-trough;
+and then he looked at the [[Fire|fire]] again, and seemed to descry a [[Double|double]]
+distant [[London]], retreating among the fragments of the burning wood.
 
 He had repeated this process in just the same order, many times, as
 if it were a matter of necessity, when the sound of wheels called his
-attention to the window out of its regular turn; and there he beheld a
-kind of light van drawn by four horses, and laden, as well as he could
+attention to the [[Window|window]] out of its regular turn; and there he beheld a
+kind of light van drawn by four horses, and laden, as [[Well|well]] as he could
 see (for it was covered in), with corn and straw. The driver, who
-was alone, stopped at the door to water his team, and presently came
+was [[Alone|alone]], stopped at the door to [[Water|water]] his team, and presently came
 stamping and shaking the wet off his hat and coat, into the room where
 Martin sat.
 
 He was a red-faced burly young fellow; smart in his way, and with a
-good-humoured countenance. As he advanced towards the fire he touched
+good-humoured countenance. As he advanced towards the [[Fire|fire]] he touched
 his shining forehead with the forefinger of his stiff leather glove,
 by way of salutation; and said (rather unnecessarily) that it was an
 uncommon wet day.
@@ -143,14 +143,14 @@ hands:
 
 ‘Out riding, maybe?’ said the driver
 
-‘I should have been, if I owned a horse; but I don’t,’ returned Martin.
+‘I should have been, if I owned a [[Horse|horse]]; but I don’t,’ returned Martin.
 
 ‘That’s bad,’ said the driver.
 
 ‘And may be worse,’ said Martin.
 
 Now the driver said ‘That’s bad,’ not so much because Martin didn’t own
-a horse, as because he said he didn’t with all the reckless desperation
+a [[Horse|horse]], as because he said he didn’t with all the reckless desperation
 of his mood and circumstances, and so left a great deal to be inferred.
 Martin put his hands in his pockets and whistled when he had retorted on
 the driver; thus giving him to understand that he didn’t care a pin for
@@ -160,13 +160,13 @@ else.
 
 The driver looked at him stealthily for a minute or so; and in the
 pauses of his warming whistled too. At length he asked, as he pointed
-his thumb towards the road.
+his thumb towards the [[Road|road]].
 
 ‘Up or down?’
 
 ‘Which IS up?’ said Martin.
 
-‘London, of course,’ said the driver.
+‘[[London]], of course,’ said the driver.
 
 ‘Up then,’ said Martin. He tossed his head in a careless manner
 afterwards, as if he would have added, ‘Now you know all about it.’
@@ -174,18 +174,18 @@ put his hands deeper into his pockets; changed his tune, and whistled a
 little louder.
 
 ‘I’m going up,’ observed the driver; ‘Hounslow, ten miles this side
-London.’
+[[London]].’
 
 ‘Are you?’ cried Martin, stopping short and looking at him.
 
-The driver sprinkled the fire with his wet hat until it hissed again and
+The driver sprinkled the [[Fire|fire]] with his wet hat until it hissed again and
 answered, ‘Aye, to be sure he was.’
 
 ‘Why, then,’ said Martin, ‘I’ll be plain with you. You may suppose from
 my dress that I have money to spare. I have not. All I can afford for
-coach-hire is a crown, for I have but two. If you can take me for that,
+coach-hire is a [[Crown|crown]], for I have but two. If you can take me for that,
 and my waistcoat, or this silk handkerchief, do. If you can’t, leave it
-alone.’
+[[Alone|alone]].’
 
 ‘Short and sweet,’ remarked the driver.
 
@@ -221,9 +221,9 @@ The driver’s name, as he soon informed Martin, was William Simmons,
 better known as Bill; and his spruce appearance was sufficiently
 explained by his connection with a large stage-coaching establishment at
 Hounslow, whither he was conveying his load from a farm belonging to
-the concern in Wiltshire. He was frequently up and down the road on such
+the concern in Wiltshire. He was frequently up and down the [[Road|road]] on such
 errands, he said, and to look after the sick and rest horses, of which
-animals he had much to relate that occupied a long time in the
+[[Animals|animals]] he had much to relate that occupied a long [[Time|time]] in the
 telling. He aspired to the dignity of the regular box, and expected
 an appointment on the first vacancy. He was musical besides, and had
 a little key-bugle in his pocket, on which, whenever the conversation
@@ -254,24 +254,24 @@ line here, and couldn’t meet his engagements, so he cut off to Liverpool
 one day, without saying anything about it, and went and shipped himself
 for the U-nited States.’
 
-‘Well?’ said Martin.
+‘[[Well]]?’ said Martin.
 
-‘Well! as he landed there without a penny to bless himself with, of
+‘[[Well]]! as he landed there without a penny to bless himself with, of
 course they wos very glad to see him in the U-nited States.’
 
 ‘What do you mean?’ asked Martin, with some scorn.
 
 ‘What do I mean?’ said Bill. ‘Why, THAT. All men are alike in the
 U-nited States, an’t they? It makes no odds whether a man has a thousand
-pound, or nothing, there. Particular in New York, I’m told, where Ned
+pound, or nothing, there. Particular in [[New York]], I’m told, where Ned
 landed.’
 
-‘New York, was it?’ asked Martin, thoughtfully.
+‘[[New York]], was it?’ asked Martin, thoughtfully.
 
-‘Yes,’ said Bill. ‘New York. I know that, because he sent word home that
+‘Yes,’ said Bill. ‘[[New York]]. I know that, because he sent word [[Home|home]] that
 it brought Old York to his mind, quite vivid, in consequence of being so
 exactly unlike it in every respect. I don’t understand what particular
-business Ned turned his mind to, when he got there; but he wrote home
+business Ned turned his mind to, when he got there; but he wrote [[Home|home]]
 that him and his friends was always a-singing, Ale Columbia, and blowing
 up the President, so I suppose it was something in the public line; or
 free-and-easy way again. Anyhow, he made his fortune.’
@@ -296,8 +296,8 @@ Martin said nothing in reply, but soon afterwards fell asleep, and
 remained so for an hour or more. When he awoke, finding it had ceased
 to rain, he took his seat beside the driver, and asked him several
 questions; as how long had the fortunate guard of the Light Salisbury
-been in crossing the Atlantic; at what time of the year had he sailed;
-what was the name of the ship in which he made the voyage; how much had
+been in crossing the Atlantic; at what [[Time|time]] of the year had he sailed;
+what was the name of the [[Ship|ship]] in which he made the voyage; how much had
 he paid for passage-money; did he suffer greatly from sea-sickness?
 and so forth. But on these points of detail his friend was possessed
 of little or no information; either answering obviously at random or
@@ -308,33 +308,33 @@ intelligence on these essential particulars.
 They jogged on all day, and stopped so often--now to refresh, now to
 change their team of horses, now to exchange or bring away a set of
 harness, now on one point of business, and now upon another, connected
-with the coaching on that line of road--that it was midnight when they
+with the coaching on that line of [[Road|road]]--that it was midnight when they
 reached Hounslow. A little short of the stables for which the van was
-bound, Martin got down, paid his crown, and forced his silk handkerchief
+bound, Martin got down, paid his [[Crown|crown]], and forced his silk handkerchief
 upon his honest friend, notwithstanding the many protestations that he
 didn’t wish to deprive him of it, with which he tried to give the lie to
-his longing looks. That done, they parted company; and when the van had
+his [[Longing|longing]] looks. That done, they parted company; and when the van had
 driven into its own yard and the gates were closed, Martin stood in the
-dark street, with a pretty strong sense of being shut out, alone, upon
+dark street, with a pretty strong sense of being shut out, [[Alone|alone]], upon
 the dreary world, without the key of it.
 
 But in this moment of despondency, and often afterwards, the
 recollection of Mr Pecksniff operated as a cordial to him; awakening
 in his breast an indignation that was very wholesome in nerving him to
-obstinate endurance. Under the influence of this fiery dram he started
-off for London without more ado. Arriving there in the middle of the
-night, and not knowing where to find a tavern open, he was fain to
+obstinate [[Endurance|endurance]]. Under the influence of this fiery dram he started
+off for [[London]] without more ado. Arriving there in the middle of the
+[[Night|night]], and not knowing where to find a tavern open, he was fain to
 stroll about the streets and market-places until morning.
 
-He found himself, about an hour before dawn, in the humbler regions
+He found himself, about an hour before [[Dawn|dawn]], in the humbler regions
 of the Adelphi; and addressing himself to a man in a fur-cap, who was
-taking down the shutters of an obscure public-house, informed him
+taking down the shutters of an obscure public-[[house]], informed him
 that he was a stranger, and inquired if he could have a bed there. It
 happened by good luck that he could. Though none of the gaudiest, it was
 tolerably clean, and Martin felt very glad and grateful when he crept
 into it, for warmth, rest, and forgetfulness.
 
-It was quite late in the afternoon when he awoke; and by the time he had
+It was quite late in the afternoon when he awoke; and by the [[Time|time]] he had
 washed and dressed, and broken his fast, it was growing dusk again. This
 was all the better, for it was now a matter of absolute necessity that
 he should part with his watch to some obliging pawn-broker. He would
@@ -345,13 +345,13 @@ He passed more Golden Balls than all the jugglers in Europe have juggled
 with, in the course of their united performances, before he could
 determine in favour of any particular shop where those symbols were
 displayed. In the end he came back to one of the first he had seen,
-and entering by a side-door in a court, where the three balls, with the
+and entering by a side-door in a [[Court|court]], where the three balls, with the
 legend ‘Money Lent,’ were repeated in a ghastly transparency, passed
 into one of a series of little closets, or private boxes, erected for
 the accommodation of the more bashful and uninitiated customers. He
 bolted himself in; pulled out his watch; and laid it on the counter.
 
-‘Upon my life and soul!’ said a low voice in the next box to the shopman
+‘Upon my life and [[Soul|soul]]!’ said a low voice in the next box to the shopman
 who was in treaty with him, ‘you must make it more; you must make it a
 trifle more, you must indeed! You must dispense with one half-quarter
 of an ounce in weighing out your pound of flesh, my best of friends, and
@@ -359,16 +359,16 @@ make it two-and-six.’
 
 Martin drew back involuntarily, for he knew the voice at once.
 
-‘You’re always full of your chaff,’ said the shopman, rolling up the
+‘You’re always full of your chaff,’ said the shopman, [[rolling]] up the
 article (which looked like a shirt) quite as a matter of course, and
 nibbing his pen upon the counter.
 
 ‘I shall never be full of my wheat,’ said Mr Tigg, ‘as long as I come
 here. Ha, ha! Not bad! Make it two-and-six, my dear friend, positively
-for this occasion only. Half-a-crown is a delightful coin. Two-and-six.
-Going at two-and-six! For the last time at two-and-six!’
+for this occasion only. Half-a-[[Crown|crown]] is a delightful coin. Two-and-six.
+Going at two-and-six! For the last [[Time|time]] at two-and-six!’
 
-‘It’ll never be the last time till it’s quite worn out,’ rejoined the
+‘It’ll never be the last [[Time|time]] till it’s quite worn out,’ rejoined the
 shopman. ‘It’s grown yellow in the service as it is.’
 
 ‘Its master has grown yellow in the service, if you mean that, my
@@ -379,7 +379,7 @@ country. You are making it two-and-six, I think?’
 shillings. Same name as usual, I suppose?’
 
 ‘Still the same name,’ said Mr Tigg; ‘my claim to the dormant peerage
-not being yet established by the House of Lords.’
+not being yet established by the [[house|House]] of Lords.’
 
 ‘The old address?’
 
@@ -394,21 +394,21 @@ a grin.
 is still the same. The apartments for the under-butler and the fifth
 footman being of a most confounded low and vulgar kind at thirty-eight,
 Mayfair, I have been compelled, in my regard for the feelings which do
-them so much honour, to take on lease for seven, fourteen, or twenty-one
+them so much [[Honour|honour]], to take on lease for seven, fourteen, or twenty-one
 years, renewable at the option of the tenant, the elegant and commodious
 family mansion, number fifteen-hundred-and-forty-two Park Lane. Make it
 two-and-six, and come and see me!’
 
-The shopman was so highly entertained by this piece of humour that Mr
+The shopman was so highly entertained by this piece of [[Humour|humour]] that Mr
 Tigg himself could not repress some little show of exultation. It vented
-itself, in part, in a desire to see how the occupant of the next
+itself, in part, in a [[Desire|desire]] to see how the occupant of the next
 box received his pleasantry; to ascertain which he glanced round the
 partition, and immediately, by the gaslight, recognized Martin.
 
-‘I wish I may die,’ said Mr Tigg, stretching out his body so far that
+‘I wish I may die,’ said Mr Tigg, stretching out his [[Body|body]] so far that
 his head was as much in Martin’s little cell as Martin’s own head was,
 ‘but this is one of the most tremendous meetings in Ancient or Modern
-History! How are you? What is the news from the agricultural districts?
+[[history|History]]! How are you? What is the news from the agricultural districts?
 How are our friends the P.’s? Ha, ha! David, pay particular attention to
 this gentleman immediately, as a friend of mine, I beg.’
 
@@ -460,7 +460,7 @@ Mr Tigg was about to speak, but Martin interposed:
 
 ‘I need scarcely tell you, after what you have just seen, that I
 have nothing to bestow upon your friend Mr Slyme. And it is quite as
-unnecessary for me to tell you that I don’t desire the honour of your
+unnecessary for me to tell you that I don’t [[Desire|desire]] the [[Honour|honour]] of your
 company.’
 
 ‘Stop’ cried Mr Tigg, holding out his hand. ‘Hold! There is a most
@@ -479,7 +479,7 @@ set up as a vagabond on your own account, or are still trading on behalf
 of Mr Slyme. I wish to hold no correspondence with you. In the devil’s
 name, man’ said Martin, scarcely able, despite his vexation, to repress
 a smile as Mr Tigg stood leaning his back against the shutters of a shop
-window, adjusting his hair with great composure, ‘will you go one way or
+[[Window|window]], adjusting his hair with great composure, ‘will you go one way or
 other?’
 
 ‘You will allow me to remind you, sir,’ said Mr Tigg, with sudden
@@ -487,11 +487,11 @@ dignity, ‘that you--not I--that you--I say emphatically, YOU--have
 reduced the proceedings of this evening to a cold and distant matter of
 business, when I was disposed to place them on a friendly footing.
 It being made a matter of business, sir, I beg to say that I expect
-a trifle (which I shall bestow in charity) as commission upon the
+a trifle (which I shall bestow in [[Charity|charity]]) as commission upon the
 pecuniary advance, in which I have rendered you my humble services.
 After the terms in which you have addressed me, sir,’ concluded Mr
 Tigg, ‘you will not insult me, if you please, by offering more than
-half-a-crown.’
+half-a-[[Crown|crown]].’
 
 Martin drew that piece of money from his pocket, and tossed it towards
 him. Mr Tigg caught it, looked at it to assure himself of its goodness,
@@ -510,7 +510,7 @@ shop. The only comfort he had in the recollection was, Mr Tigg’s
 voluntary avowal of a separation between himself and Slyme, that would
 at least prevent his circumstances (so Martin argued) from being known
 to any member of his family, the bare possibility of which filled him
-with shame and wounded pride. Abstractedly there was greater reason,
+with shame and wounded [[Pride|pride]]. Abstractedly there was greater reason,
 perhaps, for supposing any declaration of Mr Tigg’s to be false, than
 for attaching the least credence to it; but remembering the terms on
 which the intimacy between that gentleman and his bosom friend had
@@ -520,14 +520,14 @@ reasonable appearance of probability; at all events, Martin hoped so;
 and that went a long way.
 
 His first step, now that he had a supply of ready money for his present
-necessities, was, to retain his bed at the public-house until further
-notice, and to write a formal note to Tom Pinch (for he knew Pecksniff
-would see it) requesting to have his clothes forwarded to London by
+necessities, was, to retain his bed at the public-[[house]] until further
+notice, and to write a formal note to [[Tom Pinch]] (for he knew Pecksniff
+would see it) requesting to have his clothes forwarded to [[London]] by
 coach, with a direction to be left at the office until called for. These
 measures taken, he passed the interval before the box arrived--three
 days--in making inquiries relative to American vessels, at the offices
-of various shipping-agents in the city; and in lingering about the docks
-and wharves, with the faint hope of stumbling upon some engagement
+of various shipping-agents in the [[City|city]]; and in lingering about the docks
+and wharves, with the faint [[Hope|hope]] of stumbling upon some engagement
 for the voyage, as clerk or supercargo, or custodian of something or
 somebody, which would enable him to procure a free passage. But
 finding, soon, that no such means of employment were likely to present
@@ -536,16 +536,16 @@ advertisement, stating what he wanted, and inserted it in the leading
 newspapers. Pending the receipt of the twenty or thirty answers which
 he vaguely expected, he reduced his wardrobe to the narrowest limits
 consistent with decent respectability, and carried the overplus at
-different times to the pawnbroker’s shop, for conversion into money.
+different times to the pawnbroker’s shop, for [[Conversion|conversion]] into money.
 
 And it was strange, very strange, even to himself, to find how, by
 quick though almost imperceptible degrees, he lost his delicacy and
-self-respect, and gradually came to do that as a matter of course,
+[[Self|self]]-respect, and gradually came to do that as a matter of course,
 without the least compunction, which but a few short days before had
-galled him to the quick. The first time he visited the pawnbroker’s,
+galled him to the quick. The first [[Time|time]] he visited the pawnbroker’s,
 he felt on his way there as if every person whom he passed suspected
 whither he was going; and on his way back again, as if the whole human
-tide he stemmed, knew well where he had come from. When did he care to
+tide he stemmed, knew [[Well|well]] where he had come from. When did he care to
 think of their discernment now! In his first wanderings up and down the
 weary streets, he counterfeited the walk of one who had an object in
 his view; but soon there came upon him the sauntering, slipshod gait of
@@ -555,15 +555,15 @@ and looking into the same shop-windows, with a miserable indifference,
 fifty times a day. At first, he came out from his lodging with an uneasy
 sense of being observed--even by those chance passers-by, on whom he had
 never looked before, and hundreds to one would never see again--issuing
-in the morning from a public-house; but now, in his comings-out and
+in the morning from a public-[[house]]; but now, in his comings-out and
 goings-in he did not mind to lounge about the door, or to stand sunning
 himself in careless thought beside the wooden stem, studded from head to
 heel with pegs, on which the beer-pots dangled like so many boughs upon
 a pewter-tree. And yet it took but five weeks to reach the lowest round
 of this tall ladder!
 
-Oh, moralists, who treat of happiness and self-respect, innate in every
-sphere of life, and shedding light on every grain of dust in God’s
+Oh, moralists, who treat of happiness and [[Self|self]]-respect, innate in every
+sphere of life, and shedding light on every grain of [[Dust|dust]] in God’s
 highway, so smooth below your carriage-wheels, so rough beneath the
 tread of naked feet, bethink yourselves in looking on the swift descent
 of men who HAVE lived in their own esteem, that there are scores of
@@ -572,41 +572,41 @@ that high respect have never lived at all, nor had a chance of life! Go
 ye, who rest so placidly upon the sacred Bard who had been young,
 and when he strung his harp was old, and had never seen the righteous
 forsaken, or his seed begging their bread; go, Teachers of content and
-honest pride, into the mine, the mill, the forge, the squalid depths of
+honest [[Pride|pride]], into the mine, the mill, the forge, the squalid depths of
 deepest ignorance, and uttermost abyss of man’s neglect, and say can any
-hopeful plant spring up in air so foul that it extinguishes the soul’s
+hopeful plant [[Spring|spring]] up in air so foul that it extinguishes the [[Soul|soul]]’s
 bright torch as fast as it is kindled! And, oh! ye Pharisees of the
 nineteen hundredth year of Christian Knowledge, who soundingly appeal
-to human nature, see that it be human first. Take heed it has not been
-transformed, during your slumber and the sleep of generations, into the
-nature of the Beasts!
+to human [[Nature|nature]], see that it be human first. Take heed it has not been
+transformed, during your slumber and the [[Sleep|sleep]] of generations, into the
+[[Nature|nature]] of the Beasts!
 
 Five weeks! Of all the twenty or thirty answers, not one had come. His
 money--even the additional stock he had raised from the disposal of his
 spare clothes (and that was not much, for clothes, though dear to buy,
 are cheap to pawn)--was fast diminishing. Yet what could he do? At times
 an agony came over him in which he darted forth again, though he was
-but newly home, and, returning to some place where he had been already
+but newly [[Home|home]], and, returning to some place where he had been already
 twenty times, made some new attempt to gain his end, but always
 unsuccessfully. He was years and years too old for a cabin-boy, and
 years upon years too inexperienced to be accepted as a common seaman.
 His dress and manner, too, militated fatally against any such proposal
 as the latter; and yet he was reduced to making it; for even if he could
-have contemplated the being set down in America totally without money,
+have contemplated the being set down in [[America]] totally without money,
 he had not enough left now for a steerage passage and the poorest
 provisions upon the voyage.
 
 It is an illustration of a very common tendency in the mind of man, that
-all this time he never once doubted, one may almost say the certainty
+all this [[Time|time]] he never once doubted, one may almost say the certainty
 of doing great things in the New World, if he could only get there.
 In proportion as he became more and more dejected by his present
-circumstances, and the means of gaining America receded from his grasp,
+circumstances, and the means of gaining [[America]] receded from his grasp,
 the more he fretted himself with the conviction that that was the only
-place in which he could hope to achieve any high end, and worried his
+place in which he could [[Hope|hope]] to achieve any high end, and worried his
 brain with the thought that men going there in the meanwhile might
 anticipate him in the attainment of those objects which were dearest to
 his heart. He often thought of John Westlock, and besides looking out
-for him on all occasions, actually walked about London for three days
+for him on all occasions, actually walked about [[London]] for three days
 together for the express purpose of meeting with him. But although he
 failed in this; and although he would not have scrupled to borrow money
 of him; and although he believed that John would have lent it; yet still
@@ -614,10 +614,10 @@ he could not bring his mind to write to Pinch and inquire where he was
 to be found. For although, as we have seen, he was fond of Tom after
 his own fashion, he could not endure the thought (feeling so superior to
 Tom) of making him the stepping-stone to his fortune, or being anything
-to him but a patron; and his pride so revolted from the idea that it
+to him but a patron; and his [[Pride|pride]] so revolted from the idea that it
 restrained him even now.
 
-It might have yielded, however; and no doubt must have yielded soon, but
+It might have yielded, however; and no [[Doubt|doubt]] must have yielded soon, but
 for a very strange and unlooked-for occurrence.
 
 The five weeks had quite run out, and he was in a truly desperate
@@ -631,35 +631,35 @@ only a letter.’
 
 ‘A letter!’ cried Martin.
 
-‘For Mr Martin Chuzzlewit,’ said the landlord, reading the
-superscription of one he held in his hand. ‘Noon. Chief office. Paid.’
+‘For Mr [[Martin Chuzzlewit]],’ said the landlord, reading the
+superscription of one he held in his hand. ‘[[Noon]]. Chief office. Paid.’
 
 Martin took it from him, thanked him, and walked upstairs. It was not
 sealed, but pasted close; the handwriting was quite unknown to him.
 He opened it and found enclosed, without any name, address, or other
-inscription or explanation of any kind whatever, a Bank of England note
+[[Inscription|inscription]] or explanation of any kind whatever, a Bank of England note
 for Twenty Pounds.
 
 To say that he was perfectly stunned with astonishment and delight; that
 he looked again and again at the note and the wrapper; that he hurried
 below stairs to make quite certain that the note was a good note; and
-then hurried up again to satisfy himself for the fiftieth time that
+then hurried up again to satisfy himself for the fiftieth [[Time|time]] that
 he had not overlooked some scrap of writing on the wrapper; that he
 exhausted and bewildered himself with conjectures; and could make
 nothing of it but that there the note was, and he was suddenly enriched;
 would be only to relate so many matters of course to no purpose. The
-final upshot of the business at that time was, that he resolved to treat
+final upshot of the business at that [[Time|time]] was, that he resolved to treat
 himself to a comfortable but frugal meal in his own chamber; and having
-ordered a fire to be kindled, went out to purchase it forthwith.
+ordered a [[Fire|fire]] to be kindled, went out to purchase it forthwith.
 
 He bought some cold beef, and ham, and French bread, and butter, and
 came back with his pockets pretty heavily laden. It was somewhat of
 a damping circumstance to find the room full of smoke, which was
 attributable to two causes; firstly, to the flue being naturally vicious
 and a smoker; and secondly, to their having forgotten, in lighting the
-fire, an odd sack or two and some trifles, which had been put up the
+[[Fire|fire]], an odd sack or two and some trifles, which had been put up the
 chimney to keep the rain out. They had already remedied this oversight,
-however; and propped up the window-sash with a bundle of firewood to
+however; and propped up the [[Window|window]]-sash with a bundle of firewood to
 keep it open; so that except in being rather inflammatory to the eyes
 and choking to the lungs, the apartment was quite comfortable.
 
@@ -670,7 +670,7 @@ instructions relative to the production of something hot when he should
 ring the bell. The cold meat being wrapped in a playbill, Martin laid
 the cloth by spreading that document on the little round table with the
 print downwards, and arranging the collation upon it. The foot of the
-bed, which was very close to the fire, answered for a sideboard; and
+bed, which was very close to the [[Fire|fire]], answered for a sideboard; and
 when he had completed these preparations, he squeezed an old arm-chair
 into the warmest corner, and sat down to enjoy himself.
 
@@ -679,13 +679,13 @@ meanwhile with a triumphant anticipation of quitting it for ever on the
 morrow, when his attention was arrested by a stealthy footstep on the
 stairs, and presently by a knock at his chamber door, which, although
 it was a gentle knock enough, communicated such a start to the bundle of
-firewood, that it instantly leaped out of window, and plunged into the
+firewood, that it instantly leaped out of [[Window|window]], and plunged into the
 street.
 
 ‘More coals, I suppose,’ said Martin. ‘Come in!’
 
 ‘It an’t a liberty, sir, though it seems so,’ rejoined a man’s voice.
-‘Your servant, sir. Hope you’re pretty well, sir.’
+‘Your servant, sir. [[Hope]] you’re pretty [[Well|well]], sir.’
 
 Martin stared at the face that was bowing in the doorway, perfectly
 remembering the features and expression, but quite forgetting to whom
@@ -707,7 +707,7 @@ a man jolly, sir--I see you a-buying that.’
 
 Martin reddened as he pointed to the table, and said, somewhat hastily:
 
-‘Well! What then?’
+‘[[Well]]! What then?’
 
 ‘Why, then, sir,’ said Mark, ‘I made bold to foller; and as I told ‘em
 downstairs that you expected me, I was let up.’
@@ -742,11 +742,11 @@ and he sat down accordingly upon the bedstead.
 
 ‘If you don’t take it now, you’ll not have any,’ said Martin.
 
-‘Very good, sir,’ rejoined Mark. ‘That being your desire--now it is.’
+‘Very good, sir,’ rejoined Mark. ‘That being your [[Desire|desire]]--now it is.’
 With which reply he gravely helped himself and went on eating. Martin
-having done the like for a short time in silence, said abruptly:
+having done the like for a short [[Time|time]] in [[Silence|silence]], said abruptly:
 
-‘What are you doing in London?’
+‘What are you doing in [[London]]?’
 
 ‘Nothing at all, sir,’ rejoined Mark.
 
@@ -767,10 +767,10 @@ He said this so pointedly, that Martin stopped in his eating, and said:
 ‘Yes, I do, sir,’ interposed Mark.
 
 ‘Then you may judge from my style of living here, of my means of keeping
-a man-servant. Besides, I am going to America immediately.’
+a man-servant. Besides, I am going to [[America]] immediately.’
 
-‘Well, sir,’ returned Mark, quite unmoved by this intelligence ‘from all
-that ever I heard about it, I should say America is a very likely sort
+‘[[Well]], sir,’ returned Mark, quite unmoved by this intelligence ‘from all
+that ever I heard about it, I should say [[America]] is a very likely sort
 of place for me to be jolly in!’
 
 Again Martin looked at him angrily; and again his anger melted away in
@@ -779,8 +779,8 @@ spite of himself.
 ‘Lord bless you, sir,’ said Mark, ‘what is the use of us a-going round
 and round, and hiding behind the corner, and dodging up and down, when
 we can come straight to the point in six words? I’ve had my eye upon you
-any time this fortnight. I see well enough there’s a screw loose in
-your affairs. I know’d well enough the first time I see you down at the
+any [[Time|time]] this fortnight. I see [[Well|well]] enough there’s a screw loose in
+your affairs. I know’d [[Well|well]] enough the first [[Time|time]] I see you down at the
 Dragon that it must be so, sooner or later. Now, sir here am I, without
 a sitiwation; without any want of wages for a year to come; for I saved
 up (I didn’t mean to do it, but I couldn’t help it) at the Dragon--here
@@ -792,21 +792,21 @@ down; and will you take me, or will you leave me?’
 
 ‘When I say take,’ rejoined Mark, ‘I mean will you let me go? and when I
 say will you let me go, I mean will you let me go along with you? for go
-I will, somehow or another. Now that you’ve said America, I see clear at
+I will, somehow or another. Now that you’ve said [[America]], I see clear at
 once, that that’s the place for me to be jolly in. Therefore, if I don’t
-pay my own passage in the ship you go in, sir, I’ll pay my own passage
-in another. And mark my words, if I go alone it shall be, to carry out
+pay my own passage in the [[Ship|ship]] you go in, sir, I’ll pay my own passage
+in another. And mark my words, if I go [[Alone|alone]] it shall be, to carry out
 the principle, in the rottenest, craziest, leakingest tub of a wessel
-that a place can be got in for love or money. So if I’m lost upon the
+that a place can be got in for [[Love|love]] or money. So if I’m lost upon the
 way, sir, there’ll be a drowned man at your door--and always a-knocking
-double knocks at it, too, or never trust me!’
+[[Double|double]] knocks at it, too, or never trust me!’
 
 ‘This is mere folly,’ said Martin.
 
 ‘Very good, sir,’ returned Mark. ‘I’m glad to hear it, because if you
 don’t mean to let me go, you’ll be more comfortable, perhaps, on account
 of thinking so. Therefore I contradict no gentleman. But all I say is,
-that if I don’t emigrate to America in that case, in the beastliest old
+that if I don’t emigrate to [[America]] in that case, in the beastliest old
 cockle-shell as goes out of port, I’m--’
 
 ‘You don’t mean what you say, I’m sure,’ said Martin.
@@ -817,7 +817,7 @@ cockle-shell as goes out of port, I’m--’
 
 ‘Very good, sir,’ said Mark, with the same air of perfect satisfaction.
 ‘Let it stand that way at present, sir, and wait and see how it turns
-out. Why, love my heart alive! the only doubt I have is, whether there’s
+out. Why, [[Love|love]] my heart alive! the only [[Doubt|doubt]] I have is, whether there’s
 any credit in going with a gentleman like you, that’s as certain to make
 his way there as a gimlet is to go through soft deal.’
 
@@ -826,13 +826,13 @@ advantage. He could not help thinking, either, what a brisk fellow this
 Mark was, and how great a change he had wrought in the atmosphere of the
 dismal little room already.
 
-‘Why, certainly, Mark,’ he said, ‘I have hopes of doing well there, or I
-shouldn’t go. I may have the qualifications for doing well, perhaps.’
+‘Why, certainly, Mark,’ he said, ‘I have hopes of doing [[Well|well]] there, or I
+shouldn’t go. I may have the qualifications for doing [[Well|well]], perhaps.’
 
-‘Of course you have, sir,’ returned Mark Tapley. ‘Everybody knows that.’
+‘Of course you have, sir,’ returned [[Mark Tapley]]. ‘Everybody knows that.’
 
 ‘You see,’ said Martin, leaning his chin upon his hand, and looking at
-the fire, ‘ornamental architecture applied to domestic purposes,
+the [[Fire|fire]], ‘ornamental architecture applied to domestic purposes,
 can hardly fail to be in great request in that country; for men are
 constantly changing their residences there, and moving further off; and
 it’s clear they must have houses to live in.’
@@ -842,14 +842,14 @@ opens one of the jolliest look-outs for domestic architecture that ever
 I heerd tell on.’
 
 Martin glanced at him hastily, not feeling quite free from a suspicion
-that this remark implied a doubt of the successful issue of his plans.
+that this remark implied a [[Doubt|doubt]] of the successful issue of his plans.
 But Mr Tapley was eating the boiled beef and bread with such entire good
-faith and singleness of purpose expressed in his visage that he could
-not but be satisfied. Another doubt arose in his mind however, as this
+[[Faith|faith]] and singleness of purpose expressed in his visage that he could
+not but be satisfied. Another [[Doubt|doubt]] arose in his mind however, as this
 one disappeared. He produced the blank cover in which the note had been
 enclosed, and fixing his eyes on Mark as he put it in his hands, said:
 
-‘Now tell me the truth. Do you know anything about that?’
+‘Now tell me the [[Truth|truth]]. Do you know anything about that?’
 
 Mark turned it over and over; held it near his eyes; held it away from
 him at arm’s length; held it with the superscription upwards and with
@@ -859,13 +859,13 @@ said, as he took it from him again:
 
 ‘No, I see you don’t. How should you! Though, indeed, your knowing about
 it would not be more extraordinary than its being here. Come, Tapley,’
-he added, after a moment’s thought, ‘I’ll trust you with my history,
+he added, after a moment’s thought, ‘I’ll trust you with my [[history]],
 such as it is, and then you’ll see more clearly what sort of fortunes
 you would link yourself to, if you followed me.’
 
 ‘I beg your pardon, sir,’ said Mark; ‘but afore you enter upon it
 will you take me if I choose to go? Will you turn off me--Mark
-Tapley--formerly of the Blue Dragon, as can be well recommended by Mr
+Tapley--formerly of the Blue Dragon, as can be [[Well|well]] recommended by Mr
 Pinch, and as wants a gentleman of your strength of mind to look up to;
 or will you, in climbing the ladder as you’re certain to get to the
 top of, take me along with you at a respectful distance? Now, sir,’
@@ -886,13 +886,13 @@ find yourself to-morrow.’
 ‘Then, sir,’ said Mark, rubbing his hands, ‘the job’s done. Go on, sir,
 if you please. I’m all attention.’
 
-Throwing himself back in his arm-chair, and looking at the fire, with
+Throwing himself back in his arm-chair, and looking at the [[Fire|fire]], with
 now and then a glance at Mark, who at such times nodded his head sagely,
 to express his profound interest and attention. Martin ran over the
-chief points in his history, to the same effect as he had related them,
+chief points in his [[history]], to the same effect as he had related them,
 weeks before, to Mr Pinch. But he adapted them, according to the best of
 his judgment, to Mr Tapley’s comprehension; and with that view made as
-light of his love affair as he could, and referred to it in very few
+light of his [[Love|love]] affair as he could, and referred to it in very few
 words. But here he reckoned without his host; for Mark’s interest was
 keenest in this part of the business, and prompted him to ask sundry
 questions in relation to it; for which he apologised as one in some
@@ -900,29 +900,29 @@ measure privileged to do so, from having seen (as Martin explained to
 him) the young lady at the Blue Dragon.
 
 ‘And a young lady as any gentleman ought to feel more proud of being in
-love with,’ said Mark, energetically, ‘don’t draw breath.’
+[[Love|love]] with,’ said Mark, energetically, ‘don’t draw breath.’
 
 ‘Aye! You saw her when she was not happy,’ said Martin, gazing at the
-fire again. ‘If you had seen her in the old times, indeed--’
+[[Fire|fire]] again. ‘If you had seen her in the old times, indeed--’
 
 ‘Why, she certainly was a little down-hearted, sir, and something paler
 in her colour than I could have wished,’ said Mark, ‘but none the worse
 in her looks for that. I think she seemed better, sir, after she come to
-London.’
+[[London]].’
 
-Martin withdrew his eyes from the fire; stared at Mark as if he thought
+Martin withdrew his eyes from the [[Fire|fire]]; stared at Mark as if he thought
 he had suddenly gone mad; and asked him what he meant.
 
 ‘No offence intended, sir,’ urged Mark. ‘I don’t mean to say she was any
 the happier without you; but I thought she was a-looking better, sir.’
 
-‘Do you mean to tell me she has been in London?’ asked Martin, rising
+‘Do you mean to tell me she has been in [[London]]?’ asked Martin, rising
 hurriedly, and pushing back his chair.
 
 ‘Of course I do,’ said Mark, rising too, in great amazement from the
 bedstead.
 
-‘Do you mean to tell me she is in London now?’
+‘Do you mean to tell me she is in [[London]] now?’
 
 ‘Most likely, sir. I mean to say she was a week ago.’
 
@@ -931,32 +931,32 @@ bedstead.
 ‘Yes!’ cried Mark. ‘What! Don’t you?’
 
 ‘My good fellow!’ exclaimed Martin, clutching him by both arms, ‘I have
-never seen her since I left my grandfather’s house.’
+never seen her since I left my grandfather’s [[house]].’
 
 ‘Why, then!’ cried Mark, giving the little table such a blow with his
 clenched fist that the slices of beef and ham danced upon it, while all
 his features seemed, with delight, to be going up into his forehead, and
 never coming back again any more, ‘if I an’t your nat’ral born servant,
 hired by Fate, there an’t such a thing in natur’ as a Blue Dragon. What!
-when I was a-rambling up and down a old churchyard in the City, getting
+when I was a-rambling up and down a old churchyard in the [[City]], getting
 myself into a jolly state, didn’t I see your grandfather a-toddling to
 and fro for pretty nigh a mortal hour! Didn’t I watch him into Todgers’s
-commercial boarding-house, and watch him out, and watch him home to his
+commercial boarding-[[house]], and watch him out, and watch him [[Home|home]] to his
 hotel, and go and tell him as his was the service for my money, and I
 had said so, afore I left the Dragon! Wasn’t the young lady a-sitting
 with him then, and didn’t she fall a-laughing in a manner as was
 beautiful to see! Didn’t your grandfather say, “Come back again next
 week,” and didn’t I go next week; and didn’t he say that he couldn’t
 make up his mind to trust nobody no more; and therefore wouldn’t engage
-me, but at the same time stood something to drink as was handsome! Why,’
+me, but at the same [[Time|time]] stood something to drink as was handsome! Why,’
 cried Mr Tapley, with a comical mixture of delight and chagrin, ‘where’s
 the credit of a man’s being jolly under such circumstances! Who could
 help it, when things come about like this!’
 
 For some moments Martin stood gazing at him, as if he really doubted the
 evidence of his senses, and could not believe that Mark stood there, in
-the body, before him. At length he asked him whether, if the young lady
-were still in London, he thought he could contrive to deliver a letter
+the [[Body|body]], before him. At length he asked him whether, if the young lady
+were still in [[London]], he thought he could contrive to deliver a letter
 to her secretly.
 
 ‘Do I think I can?’ cried Mark. ‘THINK I can? Here, sit down, sir. Write
@@ -974,12 +974,12 @@ Martin required no further adjuration, but went to work at a great rate;
 while Mr Tapley, installing himself without any more formalities into
 the functions of his valet and general attendant, divested himself
 of his coat, and went on to clear the fireplace and arrange the room;
-talking to himself in a low voice the whole time.
+talking to himself in a low voice the whole [[Time|time]].
 
 ‘Jolly sort of lodgings,’ said Mark, rubbing his nose with the knob at
-the end of the fire-shovel, and looking round the poor chamber; ‘that’s
+the end of the [[Fire|fire]]-shovel, and looking round the poor chamber; ‘that’s
 a comfort. The rain’s come through the roof too. That an’t bad. A lively
-old bedstead, I’ll be bound; popilated by lots of wampires, no doubt.
+old bedstead, I’ll be bound; popilated by lots of wampires, no [[Doubt|doubt]].
 Come! my spirits is a-getting up again. An uncommon ragged nightcap
 this. A very good sign. We shall do yet! Here, Jane, my dear,’ calling
 down the stairs, ‘bring up that there hot tumbler for my master as was

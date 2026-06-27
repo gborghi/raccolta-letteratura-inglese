@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 8"
+title: "[[Northanger Abbey]] — Chapter 8"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -22,9 +22,9 @@ CHAPTER 8
 
 In spite of Udolpho and the dressmaker, however, the party from
 
-Pulteney Street reached the Upper Rooms in very good time. The Thorpes
+Pulteney Street reached the Upper Rooms in very good [[Time|time]]. The Thorpes
 
-and James Morland were there only two minutes before them; and Isabella
+and James Morland were there only two minutes before them; and [[Isabella]]
 
 having gone through the usual ceremonial of meeting her friend with the
 
@@ -44,7 +44,7 @@ The dancing began within a few minutes after they were seated; and
 
 James, who had been engaged quite as long as his sister, was very
 
-importunate with Isabella to stand up; but John was gone into the
+importunate with [[Isabella]] to stand up; but John was gone into the
 
 card-room to speak to a friend, and nothing, she declared, should
 
@@ -58,7 +58,7 @@ the whole evening.” Catherine accepted this kindness with gratitude,
 
 and they continued as they were for three minutes longer, when
 
-Isabella, who had been talking to James on the other side of her,
+[[Isabella]], who had been talking to James on the other side of her,
 
 turned again to his sister and whispered, “My dear creature, I am
 
@@ -68,15 +68,15 @@ begin; I know you will not mind my going away, and I dare say John will
 
 be back in a moment, and then you may easily find me out.” Catherine,
 
-though a little disappointed, had too much good nature to make any
+though a little disappointed, had too much good [[Nature|nature]] to make any
 
-opposition, and the others rising up, Isabella had only time to press
+opposition, and the others rising up, [[Isabella]] had only [[Time|time]] to press
 
-her friend’s hand and say, “Good-bye, my dear love,” before they
+her friend’s hand and say, “Good-bye, my dear [[Love|love]],” before they
 
 hurried off. The younger Miss Thorpes being also dancing, Catherine was
 
-left to the mercy of Mrs. Thorpe and Mrs. Allen, between whom she now
+left to the [[Mercy|mercy]] of Mrs. Thorpe and Mrs. Allen, between whom she now
 
 remained. She could not help being vexed at the non-appearance of Mr.
 
@@ -90,7 +90,7 @@ the discredit of wanting a partner. To be disgraced in the eye of the
 
 world, to wear the appearance of infamy while her heart is all purity,
 
-her actions all innocence, and the misconduct of another the true
+her actions all [[innocence]], and the misconduct of another the true
 
 source of her debasement, is one of those circumstances which
 
@@ -166,7 +166,7 @@ seeing her.
 
 
 
-“Well, sir, and I dare say you are not sorry to be back again, for it
+“[[Well]], sir, and I dare say you are not sorry to be back again, for it
 
 is just the place for young people—and indeed for everybody else too. I
 
@@ -174,21 +174,21 @@ tell Mr. Allen, when he talks of being sick of it, that I am sure he
 
 should not complain, for it is so very agreeable a place, that it is
 
-much better to be here than at home at this dull time of year. I tell
+much better to be here than at [[Home|home]] at this dull [[Time|time]] of year. I tell
 
 him he is quite in luck to be sent here for his health.”
 
 
 
-“And I hope, madam, that Mr. Allen will be obliged to like the place,
+“And I [[Hope|hope]], madam, that Mr. Allen will be obliged to like the place,
 
 from finding it of service to him.”
 
 
 
-“Thank you, sir. I have no doubt that he will. A neighbour of ours, Dr.
+“Thank you, sir. I have no [[Doubt|doubt]] that he will. A neighbour of ours, Dr.
 
-Skinner, was here for his health last winter, and came away quite
+Skinner, was here for his health last [[Winter|winter]], and came away quite
 
 stout.”
 
@@ -212,7 +212,7 @@ with seats, as they had agreed to join their party. This was
 
 accordingly done, Mr. Tilney still continuing standing before them; and
 
-after a few minutes’ consideration, he asked Catherine to dance with
+after a few minutes’ consideration, he asked Catherine to [[Dance|dance]] with
 
 him. This compliment, delightful as it was, produced severe
 
@@ -230,13 +230,13 @@ by any means reconcile her more to her lot; nor did the particulars
 
 which he entered into while they were standing up, of the horses and
 
-dogs of the friend whom he had just left, and of a proposed exchange of
+[[dogs]] of the friend whom he had just left, and of a proposed exchange of
 
 terriers between them, interest her so much as to prevent her looking
 
 very often towards that part of the room where she had left Mr. Tilney.
 
-Of her dear Isabella, to whom she particularly longed to point out that
+Of her dear [[Isabella]], to whom she particularly longed to point out that
 
 gentleman, she could see nothing. They were in different sets. She was
 
@@ -294,7 +294,7 @@ once by her appearance and her relationship to Mr. Tilney, was desirous
 
 of being acquainted with her, and readily talked therefore whenever she
 
-could think of anything to say, and had courage and leisure for saying
+could think of anything to say, and had [[Courage|courage]] and leisure for saying
 
 it. But the hindrance thrown in the way of a very speedy intimacy, by
 
@@ -302,7 +302,7 @@ the frequent want of one or more of these requisites, prevented their
 
 doing more than going through the first rudiments of an acquaintance,
 
-by informing themselves how well the other liked Bath, how much she
+by informing themselves how [[Well|well]] the other liked Bath, how much she
 
 admired its buildings and surrounding country, whether she drew, or
 
@@ -312,7 +312,7 @@ played, or sang, and whether she was fond of riding on horseback.
 
 The two dances were scarcely concluded before Catherine found her arm
 
-gently seized by her faithful Isabella, who in great spirits exclaimed,
+gently seized by her faithful [[Isabella]], who in great spirits exclaimed,
 
 “At last I have got you. My dearest creature, I have been looking for
 
@@ -322,13 +322,13 @@ knew I was in the other? I have been quite wretched without you.”
 
 
 
-“My dear Isabella, how was it possible for me to get at you? I could
+“My dear [[Isabella]], how was it possible for me to get at you? I could
 
 not even see where you were.”
 
 
 
-“So I told your brother all the time—but he would not believe me. Do go
+“So I told your brother all the [[Time|time]]—but he would not believe me. Do go
 
 and see for her, Mr. Morland, said I—but all in vain—he would not stir
 
@@ -378,7 +378,7 @@ satisfied, for you are not to know anything at all of the matter.”
 
 
 
-“Well, I declare I never knew anything like you. What can it signify to
+“[[Well]], I declare I never knew anything like you. What can it signify to
 
 you, what we are talking of. Perhaps we are talking about you;
 
@@ -388,15 +388,15 @@ something not very agreeable.”
 
 
 
-In this commonplace chatter, which lasted some time, the original
+In this commonplace chatter, which lasted some [[Time|time]], the original
 
-subject seemed entirely forgotten; and though Catherine was very well
+subject seemed entirely forgotten; and though Catherine was very [[Well|well]]
 
 pleased to have it dropped for a while, she could not avoid a little
 
-suspicion at the total suspension of all Isabella’s impatient desire to
+suspicion at the total suspension of all [[Isabella]]’s impatient [[Desire|desire]] to
 
-see Mr. Tilney. When the orchestra struck up a fresh dance, James would
+see Mr. Tilney. When the orchestra struck up a fresh [[Dance|dance]], James would
 
 have led his fair partner away, but she resisted. “I tell you, Mr.
 
@@ -404,7 +404,7 @@ Morland,” she cried, “I would not do such a thing for all the world.
 
 How can you be so teasing; only conceive, my dear Catherine, what your
 
-brother wants me to do. He wants me to dance with him again, though I
+brother wants me to do. He wants me to [[Dance|dance]] with him again, though I
 
 tell him that it is a most improper thing, and entirely against the
 
@@ -414,7 +414,7 @@ partners.”
 
 
 
-“Upon my honour,” said James, “in these public assemblies, it is as
+“Upon my [[Honour|honour]],” said James, “in these public assemblies, it is as
 
 often done as not.”
 
@@ -436,15 +436,15 @@ change.”
 
 
 
-“There,” cried Isabella, “you hear what your sister says, and yet you
+“There,” cried [[Isabella]], “you hear what your sister says, and yet you
 
-will not mind her. Well, remember that it is not my fault, if we set
+will not mind her. [[Well]], remember that it is not my fault, if we set
 
 all the old ladies in Bath in a bustle. Come along, my dearest
 
 Catherine, for heaven’s sake, and stand by me.” And off they went, to
 
-regain their former place. John Thorpe, in the meanwhile, had walked
+regain their former place. [[John Thorpe]], in the meanwhile, had walked
 
 away; and Catherine, ever willing to give Mr. Tilney an opportunity of
 
@@ -452,11 +452,11 @@ repeating the agreeable request which had already flattered her once,
 
 made her way to Mrs. Allen and Mrs. Thorpe as fast as she could, in the
 
-hope of finding him still with them—a hope which, when it proved to be
+[[Hope|hope]] of finding him still with them—a [[Hope|hope]] which, when it proved to be
 
-fruitless, she felt to have been highly unreasonable. “Well, my dear,”
+fruitless, she felt to have been highly unreasonable. “[[Well]], my dear,”
 
-said Mrs. Thorpe, impatient for praise of her son, “I hope you have had
+said Mrs. Thorpe, impatient for praise of her son, “I [[Hope|hope]] you have had
 
 an agreeable partner.”
 
@@ -480,7 +480,7 @@ an agreeable partner.”
 
 “He was with us just now, and said he was so tired of lounging about,
 
-that he was resolved to go and dance; so I thought perhaps he would ask
+that he was resolved to go and [[Dance|dance]]; so I thought perhaps he would ask
 
 you, if he met with you.”
 
@@ -488,13 +488,13 @@ you, if he met with you.”
 
 “Where can he be?” said Catherine, looking round; but she had not
 
-looked round long before she saw him leading a young lady to the dance.
+looked round long before she saw him leading a young lady to the [[Dance|dance]].
 
 
 
 “Ah! he has got a partner; I wish he had asked _you_,” said Mrs. Allen;
 
-and after a short silence, she added, “he is a very agreeable young
+and after a short [[Silence|silence]], she added, “he is a very agreeable young
 
 man.”
 
@@ -520,11 +520,11 @@ thought I was speaking of her son.”
 
 Catherine was disappointed and vexed. She seemed to have missed by so
 
-little the very object she had had in view; and this persuasion did not
+little the very object she had had in view; and this [[Persuasion|persuasion]] did not
 
-incline her to a very gracious reply, when John Thorpe came up to her
+incline her to a very gracious reply, when [[John Thorpe]] came up to her
 
-soon afterwards and said, “Well, Miss Morland, I suppose you and I are
+soon afterwards and said, “[[Well]], Miss Morland, I suppose you and I are
 
 to stand up and jig it together again.”
 
@@ -532,7 +532,7 @@ to stand up and jig it together again.”
 
 “Oh, no; I am much obliged to you, our two dances are over; and,
 
-besides, I am tired, and do not mean to dance any more.”
+besides, I am tired, and do not mean to [[Dance|dance]] any more.”
 
 
 
@@ -554,7 +554,7 @@ Tilney was drawn away from their party at tea, to attend that of his
 
 partner; Miss Tilney, though belonging to it, did not sit near her, and
 
-James and Isabella were so much engaged in conversing together that the
+James and [[Isabella]] were so much engaged in conversing together that the
 
 latter had no leisure to bestow more on her friend than one smile, one
 

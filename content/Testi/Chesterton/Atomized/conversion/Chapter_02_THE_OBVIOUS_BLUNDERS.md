@@ -1,5 +1,5 @@
 ---
-title: "conversion — Chapter 2: THE OBVIOUS BLUNDERS"
+title: "[[conversion]] — Chapter 2: THE OBVIOUS BLUNDERS"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/conversion-(Chesterton)"
@@ -23,16 +23,16 @@ thought it striking and even stirring that in the venerable
 invocation of the "Tantum Ergo," which for us seems to come loaded
 with accumulated ages, there is still the language of innovation;
 of the antique document that must yield to a new rite.
-For us the hymn is something of an antique document itself.
+For us the [[Hymn|hymn]] is something of an antique document itself.
 But the rite is always new.
 
-But if a convert is to write of conversion he must try
+But if a [[convert]] is to write of [[conversion]] he must try
 to retrace his steps out of that shrine back into that
 ultimate wilderness where he once really believed that this
 eternal youth was only the "Old Religion."  It is a thing
-exceedingly difficult to do and not often done well, and I
-for one have little hope of doing it even tolerably well.
-The difficulty was expressed to me by another convert who said,
+exceedingly difficult to do and not often done [[Well|well]], and I
+for one have little [[Hope|hope]] of doing it even tolerably [[Well|well]].
+The difficulty was expressed to me by another [[convert]] who said,
 "I cannot explain why I am a Catholic; because now that I
 am a Catholic I cannot imagine myself as anything else."
 Nevertheless, it is right to make the imaginative effort.
@@ -40,14 +40,14 @@ It is not bigotry to be certain we are right; but it is bigotry
 to be unable to imagine how we might possibly have gone wrong.
 It is my duty to try to understand what H. G. Wells can possibly
 mean when he says that the medieval Church did not care for
-education but only for imposing dogmas; it is my duty to speculate
+[[Education|education]] but only for imposing dogmas; it is my duty to speculate
 (however darkly) on what can have made an intelligent man like
 Arnold Bennett stone-blind to all the plainest facts about Spain;
 it is my duty to find if I can the thread of connected thought
 in George Moore's various condemnations of Catholic Ireland;
 and it is equally my duty to labour till I understand
 the strange mental state of G. K. Chesterton when he really
-assumed that the Catholic Church was a sort of ruined abbey,
+assumed that the [[Catholic Church]] was a sort of ruined abbey,
 almost as deserted as Stonehenge.
 
 I must say first that, in my own case, it was at worst a matter
@@ -56,18 +56,18 @@ than I have had to wrestle with a hundred devils of howling falsehood;
 with a swarm of lies and libels.  I owe it to the liberal and Universalist
 atmosphere of my family, of Stopford Brooke and the Unitarian preachers
 they followed, that I was always just sufficiently enlightened
-to be out of the reach of Maria Monk.  Nevertheless, as this
+to be out of the reach of [[Maria]] Monk.  Nevertheless, as this
 is but a private privilege for which I have to be thankful,
 it is necessary to say something of what I might be tempted to call
 the obvious slanders, but that better men than I have not always seen
 that the slander was obvious.  I do not think that they exercise
 much influence on the generation that is younger than mine.
-The worst temptation of the most pagan youth is not so much to denounce
-monks for breaking their vow as to wonder at them for keeping it.
+The worst [[Temptation|temptation]] of the most pagan youth is not so much to denounce
+[[Monks|monks]] for breaking their vow as to [[Wonder|wonder]] at them for keeping it.
 But there is a state of transition that must be allowed for in which
 a vague Protestant prejudice would rather like to have it both ways.
 There is still a sort of woolly-minded philistine who would be content to
-consider a friar a knave for his unchastity and a fool for his chastity.
+consider a friar a knave for his unchastity and a [[Fool|fool]] for his chastity.
 In other words, these dying calumnies are dying but not dead;
 and there are still enough people who may still be held back by such
 crude and clumsy obstacles that it is necessary to some extent
@@ -78,21 +78,21 @@ But let us consider the evidence of all these things being black,
 before we go on to the inconvenient fact of their being white.
 
 The usual protest of the Protestant, that the Church of Rome
-is afraid of the Bible, did not, as I shall explain in a moment,
-have any great terrors for me at any time.  This was by no
+is afraid of the [[Bible]], did not, as I shall explain in a moment,
+have any great terrors for me at any [[Time|time]].  This was by no
 merit of my own, but by the accident of my age and situation.
 For I grew up in a world in which the Protestants, who had just
-proved that Rome did not believe the Bible, were excitedly
-discovering that they did not believe the Bible themselves.
+proved that Rome did not believe the [[Bible]], were excitedly
+discovering that they did not believe the [[Bible]] themselves.
 Some of them even tried to combine the two condemnations and say
 that they were steps of progress.  The next step in progress
 consisted in a man kicking his father for having locked up a book
-of such beauty and value, a book which the son then proceeded
+of such [[Beauty|beauty]] and value, a book which the son then proceeded
 to tear into a thousand pieces.  I early discovered that progress
 is worse than Protestantism so far as stupidity is concerned.
 But most of the free-thinkers who were friends of mine happened
 to think sufficiently freely to see that the Higher Criticism
-was much more of an attack on Protestant Bible-worship than on
+was much more of an attack on Protestant [[Bible]]-worship than on
 Roman authority.  Anyhow, my family and friends were more concerned
 with the opening of the book of Darwin than the book of Daniel;
 and most of them regarded the Hebrew Scriptures as if they were
@@ -100,13 +100,13 @@ Hittite sculptures.  But, even then, it would seem odd to worship
 the sculptures as gods and then smash them as idols and still go
 on blaming somebody else for not having worshipped them enough.
 But here again it is hard for me to know how far my own experience
-is representative, or whether it would not be well to say
+is representative, or whether it would not be [[Well|well]] to say
 more of these purely Protestant prejudices and doubts than I,
 from my own experience, am able to say.
 
-The Church is a house with a hundred gates; and no two men
+The Church is a [[house]] with a hundred gates; and no two men
 enter at exactly the same angle.  Mine was at least as much
-Agnostic as Anglican, though I accepted for a time the borderland
+Agnostic as Anglican, though I accepted for a [[Time|time]] the borderland
 of Anglicanism; but only on the assumption that it could really
 be Anglo-Catholicism. There is a distinction of ultimate intention
 there which in the vague English atmosphere is often missed.
@@ -116,21 +116,21 @@ first and last to save the Church of England.  Some of them think
 it can be saved by calling it Catholic, or making it Catholic,
 or believing that it is Catholic; but that is what they want to save.
 But I did not start out with the idea of saving the English Church,
-but of finding the Catholic Church.  If the two were one, so much
+but of finding the [[Catholic Church]].  If the two were one, so much
 the better; but I had never conceived of Catholicism as a sort of showy
-attribute or attraction to be tacked on to my own national body,
-but as the inmost soul of the true body, wherever it might be.
+attribute or attraction to be tacked on to my own national [[Body|body]],
+but as the inmost [[Soul|soul]] of the true [[Body|body]], wherever it might be.
 It might be said that Anglo-Catholicism was simply my own uncompleted
-conversion to Catholicism.  But it was from a position originally
+[[conversion]] to Catholicism.  But it was from a position originally
 much more detached and indefinite that I had been converted,
 an atmosphere if not agnostic at least pantheistic or unitarian.
 To this I owe the fact that I find it very difficult to take
 some of the Protestant propositions even seriously.
 What is any man who has been in the real outer world, for instance,
 to make of the everlasting cry that Catholic traditions are
-condemned by the Bible?  It indicates a jumble of topsy-turvy
+condemned by the [[Bible]]?  It indicates a jumble of topsy-turvy
 tests and tail-foremost arguments, of which I never could at
-any time see the sense.  The ordinary sensible sceptic or pagan
+any [[Time|time]] see the sense.  The ordinary sensible sceptic or pagan
 is standing in the street (in the supreme character of the man
 in the street) and he sees a procession go by of the priests
 of some strange cult, carrying their object of worship under
@@ -151,7 +151,7 @@ particular group (a scroll which had always belonged to them
 and been a part of their hocus-pocus, if it was hocus-pocus);
 why in the world should the man in the street say that one
 particular scroll was not bosh, but was the one and only
-truth by which all the other things were to be condemned?
+[[Truth|truth]] by which all the other things were to be condemned?
 Why should it not be as superstitious to worship the scrolls
 as the statues, of that one particular procession?  Why should it
 not be as reasonable to preserve the statues as the scrolls,
@@ -162,8 +162,8 @@ and we are going to worship one part of your procession
 and wreck the rest," is not sensible from any standpoint,
 least of all that of the man in the street.
 
-Similarly, I could never take seriously the fear of the priest,
-as of something unnatural and unholy; a dangerous man in the home.
+Similarly, I could never take seriously the [[Fear|fear]] of the priest,
+as of something unnatural and unholy; a dangerous man in the [[Home|home]].
 Why should man who wanted to be wicked encumber himself with special
 and elaborate promises to be good?  There might sometimes be a
 reason for a priest being a profligate.  But what was the reason
@@ -180,19 +180,19 @@ seemed to me silly even when I was a boy or an unbeliever; and I
 cannot describe how I passed out of it because I was never in it.
 I remember asking some friends at Cambridge, people of the
 Puritan tradition, why in the world they were so afraid of Papists;
-why a priest in somebody's house was a peril or an Irish servant
+why a priest in somebody's [[house]] was a peril or an Irish servant
 the beginning of a pestilence.  I asked them why they could not simply
 disagree with Papists and say so, as they did with Theosophists
 or Anarchists.  They seemed at once pleased and shocked with my daring,
-as if I had undertaken to convert a burglar or tame a mad dog.
+as if I had undertaken to [[convert]] a burglar or tame a mad dog.
 Perhaps their alarm was really wiser than my bravado.
 Anyhow, I had not then the most shadowy notion that the burglar
-would convert me.  That, however, I am inclined to think,
+would [[convert]] me.  That, however, I am inclined to think,
 is the subconscious intuition in the whole business.
 It must either mean that they suspect that our religion has
 something about it so wrong that the hint of it is bad for anybody;
 or else that it has something so right that the presence of it
-would convert anybody.  To do them justice, I think most of them
+would [[convert]] anybody.  To do them justice, I think most of them
 darkly suspect the second and not the first.
 
 A shade more plausible than the notion that Popish priests merely
@@ -215,19 +215,19 @@ Protestant laymen.  The only difference was that the Jesuits
 had been worried enough about the matter to try to make rules
 and limitations saving as much verbal veracity as possible;
 whereas the happy Protestants were not worried about it at all,
-but told lies from morning to night as merrily and innocently
-as the birds sing in the trees.  The fact is, of course,
+but told lies from morning to [[Night|night]] as merrily and innocently
+as the [[Birds|birds]] sing in the trees.  The fact is, of course,
 that the modern world is full of an utterly lawless casuistry
 because the Jesuits were prevented from making a lawful casuistry.
 But every man is a casuist or a lunatic.
 
-It is true that this general truth was hidden from many by certain
+It is true that this general [[Truth|truth]] was hidden from many by certain
 definite assertions.  I can only call them, in simple language,
 Protestant lies about Catholic lying.  The men who repeated
 them were not necessarily lying, because they were repeating.
 But the statements were of the same lucid and precise order as a
 statement that the Pope has three legs or that Rome is situated at
-the North Pole.  There is no more doubt about their nature than that.
+the North Pole.  There is no more [[Doubt|doubt]] about their [[Nature|nature]] than that.
 One of them, for instance, is the positive statement, once heard
 everywhere and still heard often:  "Roman Catholics are taught
 that anything is lawful if done for the good of the Church."  This is
@@ -237,9 +237,9 @@ and it can be proved to be totally false.  Here as always
 the critics cannot see that they are trying to have it both ways.
 They are always complaining that our creed is cut and dried;
 that we are told what to believe and must believe nothing else;
-that it is all written down for us in bulls and confessions of faith.
+that it is all written down for us in bulls and confessions of [[Faith|faith]].
 In so far as this is true, it brings a matter like this
-to the point of legal and literal truth, which can be tested;
+to the point of legal and literal [[Truth|truth]], which can be tested;
 and so tested, it is a lie.  But even here I was saved at a very
 early stage by noticing a curious fact.  I noticed that those who
 were most ready to blame priests for relying on rigid formulas
@@ -263,8 +263,8 @@ They never looked for them.  They never looked for anything.
 They seemed to have simply made up out of their own heads a number
 of phrases, such as a Scarlet Woman of deficient intellect
 might be supposed to launch on the world; and left it at that.
-Boundless freedom reigned; it was not treated as if it were a question
-of fact at all.  A priest might say anything about the Faith;
+Boundless [[Freedom|freedom]] reigned; it was not treated as if it were a question
+of fact at all.  A priest might say anything about the [[Faith]];
 because a Protestant might say anything about the priest.
 These novels were padded with pronouncements like this one, for instance,
 which I happen to remember:  "Disobeying a priest is the one sin
@@ -275,7 +275,7 @@ if it does exist.  He has heard the phrase "a reserved case"
 and considers, in a poetic reverie, what he shall make it mean.
 He does not go and ask the nearest priest what it does mean.
 He does not look it up in an encyclopedia or any ordinary work
-of reference.  There is no doubt about the fact that it simply
+of reference.  There is no [[Doubt|doubt]] about the fact that it simply
 means a case reserved for ecclesiastical superiors and not to be
 settled finally by the priest.  That may be a fact to be denounced;
 but anyhow it is a fact.  But the man much prefers to denounce
@@ -286,12 +286,12 @@ facts and quite easy to base a Protestant invective upon them.
 It puzzled me very much, even at that early stage, to imagine
 why people bringing controversial charges against a powerful and
 prominent institution should thus neglect to test their own case,
-and should draw in this random way on their own imagination.
+and should draw in this random way on their own [[Imagination|imagination]].
 It did not make me any more inclined to be a Catholic; in those
 days the very idea of such a thing would have seemed crazy.
 But it did save me from swallowing all the solid and solemn
 assertion about what Jesuits said and did.  I did not accept quite
-so completely as others the well-ascertained and widely accepted fact
+so completely as others the [[Well|well]]-ascertained and widely accepted fact
 that "Roman Catholics may do anything for the good of the Church";
 because I had already learned to smile at equally accepted truths
 like "Disobeying a priest is the one sin for which there is
@@ -302,24 +302,24 @@ were curiously inaccurate.
 It is strange to me to go back to these things now, and to think
 that I ever took them even as seriously as that.  But I was not
 very serious even then; and certainly I was not serious long.
-The last lingering shadow of the Jesuit, gliding behind curtains
+The last lingering [[Shadow|shadow]] of the Jesuit, gliding behind curtains
 and concealing himself in cupboards, faded from my young life
-about the time when I first caught a distant glimpse of the late
+about the [[Time|time]] when I first caught a distant glimpse of the late
 Father Bernard Vaughan.  He was the only Jesuit I ever knew in those days;
 and as you could generally hear him half a mile away, he seemed
 to be ill-selected for the duties of a curtain-glider. It has always
-struck me as curious that this Jesuit raised a storm by refusing
+struck me as curious that this Jesuit raised a [[Storm|storm]] by refusing
 to be Jesuitical (in the journalese sense I mean), by refusing to
 substitute smooth equivocation and verbal evasion for a brute fact.
 Because he talked about "killing Germans" when Germans had to be killed,
-all our shifty and shamefaced morality was shocked at him.
+all our shifty and shamefaced [[morality]] was shocked at him.
 And none of those protesting Protestants took thought for a moment
 to realise that they were showing all the shuffling insincerity they
 attributed to the Jesuits, and the Jesuit was showing all the plain
 candour that they claimed for the Protestant.
 
 I could give a great many other instances besides, these I
-have given of the hidden Bible, the profligate priest or the
+have given of the hidden [[Bible]], the profligate priest or the
 treacherous Jesuit.  I could go steadily through the list of all these
 more old-fashioned charges against Rome and show how they affected me,
 or rather why they did not affect me.  But my only purpose here is
@@ -327,19 +327,19 @@ to point out, as a preliminary, that they did not affect me at all.
 I had all the difficulties that a heathen would have had in becoming
 a Catholic in the fourth century.  I had very few of the difficulties
 that a Protestant had, from the seventeenth to the nineteenth.
-And I owe this to men whose memories I shall always honour;
+And I owe this to men whose memories I shall always [[Honour|honour]];
 to my father and his circle and the literary tradition of men like
 George Macdonald and the Universalists of the Victorian Age.  If I
 was born on the wrong side of the Roman wall, at least I was not born
 on the wrong side of the No Popery quarrel; and if I did not inherit
-a fully civilised faith, neither did I inherit a barbarian feud.
+a fully civilised [[Faith|faith]], neither did I inherit a barbarian feud.
 The people I was born amongst wished to be just to Catholics if they
 did not always understand them; and I should be very thankless if I
-did not record of them that (like a very much more valuable convert)
+did not record of them that (like a very much more valuable [[convert]])
 I can say I was born free.
 
 I will add one example to illustrate this point, because it
-leads us on to larger matters.  After a long time--I might
+leads us on to larger matters.  After a long [[Time|time]]--I might
 almost say after a lifetime--I have at last begun to realise
 what the worthy Liberal or Socialist of Balham or Battersea
 really means when he says he is an Internationalist and that
@@ -353,31 +353,31 @@ weekly sermon assumed that they were the salt of the earth,
 and especially that they were the salt of the sea.
 His people had never thought outside their British nationality.
 They lived in an Empire on which the sun never set, or possibly
-never rose.  Their Church was emphatically the Church of England--
-even if it was a chapel.  Their religion was the Bible that went
-everywhere with the Union Jack.  And when I realised that,
+never [[Rose|rose]].  Their Church was emphatically the Church of England--
+even if it was a chapel.  Their religion was the [[Bible]] that went
+everywhere with the [[Union]] Jack.  And when I realised that,
 I realised the whole story.  That was why they were excited
 by the exceedingly dull theory of the Internationalist.  That was
 why the brotherhood of nations, which to me was a truism,
 to them was a trumpet.  That was why it seemed such
-a thrilling paradox to say that we must love foreigners;
-it had in it the divine paradox that we must love enemies.
+a thrilling [[Paradox|paradox]] to say that we must [[Love|love]] foreigners;
+it had in it the divine [[Paradox|paradox]] that we must [[Love|love]] enemies.
 That was why the Internationalist was always planning deputations
 and visits to foreign capitals and heart-to-heart talks
 and hands across the sea.  It was the marvel of discovering
-that foreigners had hands, let alone hearts.  There was in that
+that foreigners had hands, let [[Alone|alone]] hearts.  There was in that
 excitement a sort of stifled cry:  "Look!  Frenchmen also have
 two legs!  See!  Germans have noses in the same place as we!"
 Now a Catholic, especially a born Catholic, can never understand
 that attitude, because from the first his whole religion
-is rooted in the unity of the race of Adam, the one and only
+is rooted in the [[unity]] of the race of Adam, the one and only
 Chosen Race.  He is loyal to his own country; indeed he is generally
 ardently loyal to it, such local affections being in other ways
 very natural to his religious life, with its shrines and relics.
 But just as the relic follows upon the religion, so the local
 loyalty follows on the universal brotherhood of all men.
-The Catholic says, "Of course we must love all men:
-but what do all men love?  They love their lands,
+The Catholic says, "Of course we must [[Love|love]] all men:
+but what do all men [[Love|love]]?  They [[Love|love]] their lands,
 their lawful boundaries, the memories of their fathers.
 That is the justification of being national, that it is normal."
 But the Protestant patriot really never thought of any patriotism
@@ -388,9 +388,9 @@ beyond it to all the varied loves and traditions of mankind.
 There never was a more illuminating flash than that which lit up
 the last moment of one of the most glorious of English Protestants;
 one of the most Protestant and one of the most English.  For that is
-the meaning of that phrase of Nurse Cavell, herself the noblest
+the meaning of that phrase of [[Nurse]] Cavell, herself the noblest
 martyr of our modern religion of nationality, when the very shaft
-of the white sun of death shone deep into her mind and she
+of the white sun of [[Death|death]] shone deep into her mind and she
 cried aloud, like one who had just discovered something,
 "I see now that patriotism is not enough."
 
@@ -398,8 +398,8 @@ There was this in common between the Catholics to whom I have come
 and the Liberals among whom I was born:  neither of them would
 ever have imagined for a moment that patriotism was enough.
 But that insular idealism by which that great lady lived really had
-taught her unconsciously from childhood that patriotism was enough.
-Not seldom has the English lady appeared in history as a heroine;
+taught her unconsciously from [[Childhood|childhood]] that patriotism was enough.
+Not seldom has the English lady appeared in [[history]] as a heroine;
 but generally as facing and defying strangers or savages, not specially
 as feeling them as fellows and equals.  Those last words of the English
 martyr in Belgium have often been quoted by mere cosmopolitans;
@@ -433,50 +433,50 @@ which had forgotten the free cities and had not dreamed of the
 small nationalities; which knew only humanity, the humanum genus,
 and the name of Rome.
 
-The Catholic Church loves nations as she loves men; because they
+The [[Catholic Church]] loves nations as she loves men; because they
 are her children.  But they certainly are her children,
-in the sense that they are secondary to her in time and process
+in the sense that they are secondary to her in [[Time|time]] and process
 of production.  This is, as it happens, a very good example
-of a fallacy that often confuses discussion about the convert.
-The same people who call he convert a pervert, and especially
+of a fallacy that often confuses discussion about the [[convert]].
+The same people who call he [[convert]] a pervert, and especially
 a traitor to patriotism, very often use the other catchword
 to the effect that he is forced to believe this or that.
 But it is not really a question of what a man is made to believe
 but of what he must believe; what he cannot help believing.
 He cannot disbelieve in an elephant when he has seen one; and he cannot
-treat the Church as a child when he has discovered that she is
+treat the Church as a [[Child|child]] when he has discovered that she is
 his mother.  She is not only his mother but his country's mother
 in being much older and more aboriginal than his country.  She is
 such a mother not in sentimental feeling but in historical fact.
 He cannot think one thing when he knows the contrary thing.
-He cannot think that Christianity was invented by Penda of Mercia,
+He cannot think that [[Christianity]] was invented by Penda of Mercia,
 who sent missionaries to the heathen Augustine and the rude
 and barbarous Gregory.  He cannot think that the Church
-first rose in the middle of the British Empire, and not
+first [[Rose|rose]] in the middle of the British Empire, and not
 of the Roman Empire.  He cannot think that England existed,
-with cricket and fox-hunting and the Jacobean translation
-all complete, when Rome was founded or when Christ was born.
+with cricket and fox-hunting and the Jacobean [[Translation|translation]]
+all complete, when Rome was founded or when [[Christ]] was born.
 It is no good talking about his being "free" to believe these things.
 He is exactly as free to believe them as he is to believe
-that a horse has feathers or that the sun is pea green.
+that a [[Horse|horse]] has feathers or that the sun is pea green.
 He cannot believe them when once he fully realises them;
 and among such things is the notion that the national claim
-upon a good patriot is in its nature more absolute, ancient and
+upon a good patriot is in its [[Nature|nature]] more absolute, ancient and
 authoritative than the claim of the whole religious culture
 which first mapped out its territories and anointed its kings.
 That religious culture does indeed encourage him to fight to
 the last for his country, as for his family.  But that is because
 the religious culture is generous and imaginative and humane
 and knows that men must have intimate and individual ties.
-But those secondary loyalties are secondary in time and logic
-to the law of universal morality which justifies them.
-And if the patriot is such a fool as to force the issue against
+But those secondary loyalties are secondary in [[Time|time]] and [[logic]]
+to the law of universal [[morality]] which justifies them.
+And if the patriot is such a [[Fool|fool]] as to force the issue against
 that universal tradition from which his own patriotism descends,
 if he presses his claim to priority over the primitive law
 of the whole earth--then he will have brought it on himself
 if he is answered with the pulverising plainness of the Book
 of Job.  As God said to the man, "Where were you when the foundations
-of the world were laid?"  We might well say to the nation,
+of the world were laid?"  We might [[Well|well]] say to the nation,
 "Where were you when the foundations of the Church were laid?"
 And the nation will not know in the least what to answer--
 if it should wish to answer--but will be forced to put its hand
@@ -487,17 +487,17 @@ at least an emotion in which I profoundly believe and happen to
 feel strongly.  I have always done my best to defend it; though I
 have sometimes become suspect by sympathising with other people's
 patriotism besides my own.  But I cannot see how it can be defended
-except as part of a larger morality; and the Catholic morality happens
+except as part of a larger [[morality]]; and the Catholic [[morality]] happens
 to be one of the very few large moralities now ready to defend it.
 But the Church defends it as one of the duties of men and not as the whole
 duty of man; as it was in the Prussian theory of the State and too often
 in the British theory of the Empire.  And for this the Catholic rests,
 exactly as the Universalist Unitarian rested, upon the actual fact of a
-human unity anterior to all these healthy and natural human divisions.
-But it is absurd to treat the Church as a novel conspiracy attacking
-the State, when the State was only recently a novel experiment arising
+human [[unity]] anterior to all these healthy and natural human divisions.
+But it is absurd to treat the Church as a [[Novel|novel]] conspiracy attacking
+the State, when the State was only recently a [[Novel|novel]] experiment arising
 within the Church.  It is absurd to forget that the Church itself received
 the first loyalties of men who had not yet even conceived the notion
-of founding such a national and separate state; that the Faith really
-was not only the faith of our fathers, but the faith of our fathers
+of founding such a national and separate state; that the [[Faith]] really
+was not only the [[Faith|faith]] of our fathers, but the [[Faith|faith]] of our fathers
 before they had even named our fatherland.

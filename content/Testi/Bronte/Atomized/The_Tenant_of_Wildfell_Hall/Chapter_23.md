@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 23"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 23"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,7 +20,7 @@ tags:
 
 
 
-Feb. 18, 1822.—Early this morning Arthur mounted his hunter and set off
+Feb. 18, 1822.—Early this morning [[arthur|Arthur]] mounted his hunter and set off
 
 in high glee to meet the —— hounds. He will be away all day, and so I
 
@@ -38,13 +38,13 @@ Manor. I have had eight weeks’ experience of matrimony. And do I regret
 
 the step I have taken? No, though I must confess, in my secret heart,
 
-that Arthur is not what I thought him at first, and if I had known him
+that [[arthur|Arthur]] is not what I thought him at first, and if I had known him
 
 in the beginning as thoroughly as I do now, I probably never should
 
 have loved him, and if I loved him first, and then made the discovery,
 
-I fear I should have thought it my duty not to have married him. To be
+I [[Fear|fear]] I should have thought it my duty not to have married him. To be
 
 sure I might have known him, for every one was willing enough to tell
 
@@ -54,11 +54,11 @@ wilfully blind; and now, instead of regretting that I did not discern
 
 his full character before I was indissolubly bound to him, I am _glad_,
 
-for it has saved me a great deal of battling with my conscience, and a
+for it has saved me a great deal of battling with my [[Conscience|conscience]], and a
 
-great deal of consequent trouble and pain; and, whatever I _ought_ to
+great deal of consequent trouble and [[Pain|pain]]; and, whatever I _ought_ to
 
-have done, my duty now is plainly to love him and to cleave to him, and
+have done, my duty now is plainly to [[Love|love]] him and to cleave to him, and
 
 this just tallies with my inclination.
 
@@ -72,7 +72,7 @@ more of a friend, if I might choose; but I won’t complain of that: I am
 
 only afraid his affection loses in depth where it gains in ardour. I
 
-sometimes liken it to a fire of dry twigs and branches compared with
+sometimes liken it to a [[Fire|fire]] of dry twigs and branches compared with
 
 one of solid coal, very bright and hot; but if it should burn itself
 
@@ -80,11 +80,11 @@ out and leave nothing but ashes behind, what shall I do? But it won’t,
 
 it _shan_’t, I am determined; and surely I have power to keep it alive.
 
-So let me dismiss _that_ thought at once. But Arthur is selfish; I am
+So let me dismiss _that_ thought at once. But [[arthur|Arthur]] is selfish; I am
 
 constrained to acknowledge that; and, indeed, the admission gives me
 
-less pain than might be expected, for, since _I_ love him so much, I
+less [[Pain|pain]] than might be expected, for, since _I_ [[Love|love]] him so much, I
 
 can easily forgive him for loving himself: he likes to be pleased, and
 
@@ -102,7 +102,7 @@ familiar to him: many had lost their interest in his eyes, and others
 
 had never had anything to lose. The consequence was, that after a
 
-flying transit through part of France and part of Italy, I came back
+flying transit through part of France and part of [[Italy]], I came back
 
 nearly as ignorant as I went, having made no acquaintance with persons
 
@@ -128,11 +128,11 @@ anything disconnected with himself.
 
 
 
-As for Paris, we only just touched at that, and he would not give me
+As for [[Paris]], we only just touched at that, and he would not give me
 
-time to see one-tenth of the beauties and interesting objects of Rome.
+[[Time|time]] to see one-tenth of the beauties and interesting objects of Rome.
 
-He wanted to get me home, he said, to have me all to himself, and to
+He wanted to get me [[Home|home]], he said, to have me all to himself, and to
 
 see me safely installed as the mistress of Grassdale Manor, just as
 
@@ -142,7 +142,7 @@ some frail butterfly, he expressed himself fearful of rubbing the
 
 silver off my wings by bringing me into contact with society,
 
-especially that of Paris and Rome; and, more-over, he did not scruple
+especially that of [[Paris]] and Rome; and, more-over, he did not scruple
 
 to tell me that there were ladies in both places that would tear his
 
@@ -158,17 +158,17 @@ him_, and the trouble I was at to frame excuses to my friends for
 
 having seen and observed so little, without imputing one particle of
 
-blame to my companion. But when we got home—to my new, delightful
+blame to my companion. But when we got [[Home|home]]—to my new, delightful
 
-home—I was so happy and he was so kind that I freely forgave him all;
+[[Home|home]]—I was so happy and he was so kind that I freely forgave him all;
 
 and I was beginning to think my lot _too_ happy, and my husband
 
 actually too good for me, if not too good for this world, when, on the
 
-second Sunday after our arrival, he shocked and horrified me by another
+second [[Sunday]] after our arrival, he shocked and horrified me by another
 
-instance of his unreasonable exaction. We were walking home from the
+instance of his unreasonable exaction. We were walking [[Home|home]] from the
 
 morning service, for it was a fine frosty day, and as we are so near
 
@@ -176,7 +176,7 @@ the church, I had requested the carriage should not be used.
 
 
 
-“Helen,” said he, with unusual gravity, “I am not quite satisfied with
+“[[Helen]],” said he, with unusual gravity, “I am not quite satisfied with
 
 you.”
 
@@ -186,7 +186,7 @@ I desired to know what was wrong.
 
 
 
-“But will you promise to reform if I tell you?”
+“But will you promise to [[Reform|reform]] if I tell you?”
 
 
 
@@ -194,11 +194,11 @@ I desired to know what was wrong.
 
 
 
-“Ah! there it is, you see: you don’t love me with all your heart.”
+“Ah! there it is, you see: you don’t [[Love|love]] me with all your heart.”
 
 
 
-“I don’t understand you, Arthur (at least I hope I don’t): pray tell me
+“I don’t understand you, [[arthur|Arthur]] (at least I [[Hope|hope]] I don’t): pray tell me
 
 what I have done or said amiss.”
 
@@ -214,7 +214,7 @@ things, it may be carried too far. To my thinking, a woman’s religion
 
 ought not to lessen her devotion to her earthly lord. She should have
 
-enough to purify and etherealise her soul, but not enough to refine
+enough to purify and etherealise her [[Soul|soul]], but not enough to refine
 
 away her heart, and raise her above all human sympathies.”
 
@@ -234,11 +234,11 @@ devotions that you had not even a glance to spare for me—I declare it
 
 is enough to make one jealous of one’s Maker—which is very wrong, you
 
-know; so don’t excite such wicked passions again, for my soul’s sake.”
+know; so don’t excite such wicked passions again, for my [[Soul|soul]]’s sake.”
 
 
 
-“I will give my whole heart and soul to my Maker if I can,” I answered,
+“I will give my whole heart and [[Soul|soul]] to my Maker if I can,” I answered,
 
 “and not one atom more of it to you than He allows. What are _you_,
 
@@ -248,29 +248,29 @@ possession of my heart with Him to whom I owe all I have and all I am,
 
 every blessing I ever did or ever can enjoy—and yourself among the
 
-rest—if you _are_ a blessing, which I am half inclined to doubt.”
+rest—if you _are_ a blessing, which I am half inclined to [[Doubt|doubt]].”
 
 
 
-“Don’t be so hard upon me, Helen; and don’t pinch my arm so: you are
+“Don’t be so hard upon me, [[Helen]]; and don’t pinch my arm so: you are
 
 squeezing your fingers into the bone.”
 
 
 
-“Arthur,” continued I, relaxing my hold of his arm, “you don’t love me
+“[[arthur|Arthur]],” continued I, relaxing my hold of his arm, “you don’t [[Love|love]] me
 
 half as much as I do you; and yet, if you loved me far less than you
 
 do, I would not complain, provided you loved your Maker more. I should
 
-_rejoice_ to see you at any time so deeply absorbed in your devotions
+_rejoice_ to see you at any [[Time|time]] so deeply absorbed in your devotions
 
 that you had not a single thought to spare for me. But, indeed, I
 
 should lose nothing by the change, for the more you loved your God the
 
-more deep and pure and true would be your love to me.”
+more deep and pure and true would be your [[Love|love]] to me.”
 
 
 
@@ -278,7 +278,7 @@ At this he only laughed and kissed my hand, calling me a sweet
 
 enthusiast. Then taking off his hat, he added: “But look here,
 
-Helen—what can a man do with such a head as this?”
+[[Helen]]—what can a man do with such a head as this?”
 
 
 
@@ -310,7 +310,7 @@ to whom less is given, less will be required, but our utmost exertions
 
 are required of us all. You are not without the capacity of veneration,
 
-and faith and hope, and conscience and reason, and every other
+and [[Faith|faith]] and [[Hope|hope]], and [[Conscience|conscience]] and reason, and every other
 
 requisite to a Christian’s character, if you choose to employ them; but
 
@@ -322,7 +322,7 @@ or those which tend to evil, till they become your masters, and neglect
 
 the good till they dwindle away, you have only yourself to blame. But
 
-you _have_ talents, Arthur—natural endowments both of heart and mind
+you _have_ talents, [[arthur|Arthur]]—natural endowments both of heart and mind
 
 and temper, such as many a better Christian would be glad to possess,
 
@@ -334,7 +334,7 @@ without ceasing to be a happy, merry-hearted man.”
 
 
 
-“You speak like an oracle, Helen, and all you say is indisputably true;
+“You speak like an oracle, [[Helen]], and all you say is indisputably true;
 
 but listen here: I am hungry, and I see before me a good substantial
 
@@ -352,7 +352,7 @@ taste than the dainties that are promised me; in the third place, I
 
 don’t _see_ to-morrow’s banquet, and how can I tell that it is not all
 
-a fable, got up by the greasy-faced fellow that is advising me to
+a [[Fable|fable]], got up by the greasy-faced fellow that is advising me to
 
 abstain in order that he may have all the good victuals to himself? in
 
@@ -378,9 +378,9 @@ of to-morrow. If, regardless of that counsel, you choose to make a
 
 beast of yourself now, and over-eat and over-drink yourself till you
 
-turn the good victuals into poison, who is to blame if, hereafter,
+turn the good victuals into [[Poison|poison]], who is to blame if, hereafter,
 
-while you are suffering the torments of yesterday’s gluttony and
+while you are [[Suffering|suffering]] the torments of yesterday’s gluttony and
 
 drunkenness, you see more temperate men sitting down to enjoy
 
@@ -408,17 +408,17 @@ judgment.’”
 
 
 
-“Well, but, Helen, I’m sure I’ve been very good these last few weeks.
+“[[Well]], but, [[Helen]], I’m sure I’ve been very good these last few weeks.
 
 What have you seen amiss in me, and what would you have me to do?”
 
 
 
-“Nothing more than you do, Arthur: your actions are all right so far;
+“Nothing more than you do, [[arthur|Arthur]]: your actions are all right so far;
 
 but I would have your thoughts changed; I would have you to fortify
 
-yourself against temptation, and not to call evil good, and good evil;
+yourself against [[Temptation|temptation]], and not to call evil good, and good evil;
 
 I should wish you to think more deeply, to look further, and aim higher
 

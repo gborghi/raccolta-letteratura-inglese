@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 25 (part 2)"
+title: "[[The Professor]] — Chapter 25 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -34,21 +34,21 @@ it best.”
 
 Minnie having departed in clean cap and smart shawl, we, too, set out,
 
-leaving the house solitary and silent--silent, at least, but for
+leaving the [[house]] solitary and silent--silent, at least, but for
 
-the ticking of the clock. We were soon clear of Brussels; the fields
+the ticking of the [[Clock|clock]]. We were soon clear of Brussels; the fields
 
 received us, and then the lanes, remote from carriage-resounding
 
 CHAUSSEES. Ere long we came upon a nook, so rural, green, and secluded,
 
-it might have been a spot in some pastoral English province; a bank of
+it might have been a spot in some [[Pastoral|pastoral]] English province; a bank of
 
 short and mossy grass, under a hawthorn, offered a seat too tempting
 
 to be declined; we took it, and when we had admired and examined some
 
-English-looking wild-flowers growing at our feet, I recalled Frances’
+English-looking wild-[[Flowers|flowers]] growing at our feet, I recalled Frances’
 
 attention and my own to the topic touched on at breakfast.
 
@@ -62,7 +62,7 @@ proposed to begin a school. We already had the means for commencing on
 
 a careful scale, having lived greatly within our income. We possessed,
 
-too, by this time, an extensive and eligible connection, in the sense
+too, by this [[Time|time]], an extensive and eligible connection, in the sense
 
 advantageous to our business; for, though our circle of visiting
 
@@ -72,9 +72,9 @@ schools and families as teachers. When Frances had developed her plan,
 
 she intimated, in some closing sentences, her hopes for the future. If
 
-we only had good health and tolerable success, me might, she was sure,
+we only had good health and tolerable [[success]], me might, she was sure,
 
-in time realize an independency; and that, perhaps, before we were too
+in [[Time|time]] realize an independency; and that, perhaps, before we were too
 
 old to enjoy it; then both she and I would rest; and what was to hinder
 
@@ -106,19 +106,19 @@ wanted, ask and you shall have.”
 
 
 
-Frances’ eyes thanked me almost with tears; just a sparkle or two, soon
+Frances’ eyes thanked me almost with [[Tears|tears]]; just a sparkle or two, soon
 
 brushed away; she possessed herself of my hand too, and held it for
 
-some time very close clasped in both her own, but she said no more than
+some [[Time|time]] very close clasped in both her own, but she said no more than
 
 “Thank you, monsieur.”
 
 
 
-We passed a divine day, and came home late, lighted by a full summer
+We passed a divine day, and came [[Home|home]] late, lighted by a full [[Summer|summer]]
 
-moon.
+[[Moon|moon]].
 
 
 
@@ -134,15 +134,15 @@ strangers to amusement, never thought of indulgence, and yet, as
 
 our course ran side by side, as we marched hand in hand, we neither
 
-murmured, repented, nor faltered. Hope indeed cheered us; health kept us
+murmured, repented, nor faltered. [[Hope]] indeed cheered us; health kept us
 
 up; harmony of thought and deed smoothed many difficulties, and finally,
 
-success bestowed every now and then encouraging reward on diligence. Our
+[[success]] bestowed every now and then encouraging reward on diligence. Our
 
 school became one of the most popular in Brussels, and as by degrees
 
-we raised our terms and elevated our system of education, our choice of
+we raised our terms and elevated our system of [[Education|education]], our choice of
 
 pupils grew more select, and at length included the children of the
 
@@ -164,27 +164,27 @@ woman, though in another she remained unchanged. So different was
 
 she under different circumstances. I seemed to possess two wives. The
 
-faculties of her nature, already disclosed when I married her, remained
+faculties of her [[Nature|nature]], already disclosed when I married her, remained
 
 fresh and fair; but other faculties shot up strong, branched out
 
 broad, and quite altered the external character of the plant. Firmness,
 
-activity, and enterprise, covered with grave foliage, poetic feeling
+activity, and enterprise, covered with [[Grave|grave]] foliage, poetic feeling
 
-and fervour; but these flowers were still there, preserved pure and dewy
+and fervour; but these [[Flowers|flowers]] were still there, preserved pure and dewy
 
-under the umbrage of later growth and hardier nature: perhaps I only in
+under the umbrage of later growth and hardier [[Nature|nature]]: perhaps I only in
 
 the world knew the secret of their existence, but to me they were ever
 
-ready to yield an exquisite fragrance and present a beauty as chaste as
+ready to yield an exquisite fragrance and present a [[Beauty|beauty]] as chaste as
 
 radiant.
 
 
 
-In the daytime my house and establishment were conducted by Madame the
+In the daytime my [[house]] and establishment were conducted by Madame the
 
 directress, a stately and elegant woman, bearing much anxious thought on
 
@@ -194,7 +194,7 @@ after breakfast I used to part with this lady; I went to my college,
 
 she to her schoolroom; returning for an hour in the course of the day,
 
-I found her always in class, intently occupied; silence, industry,
+I found her always in class, intently occupied; [[Silence|silence]], industry,
 
 observance, attending on her presence. When not actually teaching,
 
@@ -212,8 +212,8 @@ formulas--she made her own phrases as she went on, and very nervous
 
 and impressive phrases they frequently were; often, when elucidating
 
-favourite points of history, or geography, she would wax genuinely
+favourite points of [[history]], or geography, she would wax genuinely
 
 eloquent in her earnestness. Her pupils, or at least the elder and more
 
-intelligent amongst them, recognized well the language of a superior
+intelligent amongst them, recognized [[Well|well]] the language of a superior

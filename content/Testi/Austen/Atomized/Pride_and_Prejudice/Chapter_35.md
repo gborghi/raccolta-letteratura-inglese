@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 35"
+title: "[[Pride and Prejudice]] — Chapter 35"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -26,13 +26,13 @@ else; and, totally indisposed for employment, she resolved soon after
 breakfast to indulge herself in air and exercise. She was proceeding
 directly to her favourite walk, when the recollection of Mr. Darcy’s
 sometimes coming there stopped her, and instead of entering the park,
-she turned up the lane which led her farther from the turnpike road. The
+she turned up the lane which led her farther from the turnpike [[Road|road]]. The
 park paling was still the boundary on one side, and she soon passed one
 of the gates into the ground.
 
 After walking two or three times along that part of the lane, she was
 tempted, by the pleasantness of the morning, to stop at the gates and
-look into the park. The five weeks which she had now passed in Kent had
+look into the park. The five weeks which she had now passed in [[Kent]] had
 made a great difference in the country, and every day was adding to the
 verdure of the early trees. She was on the point of continuing her
 walk, when she caught a glimpse of a gentleman within the sort of grove
@@ -41,36 +41,36 @@ Mr. Darcy, she was directly retreating. But the person who advanced was
 now near enough to see her, and stepping forward with eagerness,
 pronounced her name. She had turned away; but on hearing herself called,
 though in a voice which proved it to be Mr. Darcy, she moved again
-towards the gate. He had by that time reached it also; and, holding out
+towards the gate. He had by that [[Time|time]] reached it also; and, holding out
 a letter, which she instinctively took, said, with a look of haughty
-composure, “I have been walking in the grove some time, in the hope of
-meeting you. Will you do me the honour of reading that letter?” and
+composure, “I have been walking in the grove some [[Time|time]], in the [[Hope|hope]] of
+meeting you. Will you do me the [[Honour|honour]] of reading that letter?” and
 then, with a slight bow, turned again into the plantation, and was soon
 out of sight.
 
 With no expectation of pleasure, but with the strongest curiosity,
-Elizabeth opened the letter, and to her still increasing wonder,
+Elizabeth opened the letter, and to her still increasing [[Wonder|wonder]],
 perceived an envelope containing two sheets of letter paper, written
 quite through, in a very close hand. The envelope itself was likewise
 full. Pursuing her way along the lane, she then began it. It was dated
-from Rosings, at eight o’clock in the morning, and was as follows:--
+from Rosings, at eight o’[[Clock|clock]] in the morning, and was as follows:--
 
 “Be not alarmed, madam, on receiving this letter, by the apprehension of
 its containing any repetition of those sentiments, or renewal of those
-offers, which were last night so disgusting to you. I write without any
+offers, which were last [[Night|night]] so disgusting to you. I write without any
 intention of paining you, or humbling myself, by dwelling on wishes,
 which, for the happiness of both, cannot be too soon forgotten; and the
 effort which the formation and the perusal of this letter must occasion,
 should have been spared, had not my character required it to be written
-and read. You must, therefore, pardon the freedom with which I demand
+and read. You must, therefore, pardon the [[Freedom|freedom]] with which I demand
 your attention; your feelings, I know, will bestow it unwillingly, but I
 demand it of your justice.
 
-“Two offences of a very different nature, and by no means of equal
-magnitude, you last night laid to my charge. The first mentioned was,
+“Two offences of a very different [[Nature|nature]], and by no means of equal
+magnitude, you last [[Night|night]] laid to my charge. The first mentioned was,
 that, regardless of the sentiments of either, I had detached Mr. Bingley
 from your sister,--and the other, that I had, in defiance of various
-claims, in defiance of honour and humanity, ruined the immediate
+claims, in defiance of [[Honour|honour]] and humanity, ruined the immediate
 prosperity and blasted the prospects of Mr. Wickham. Wilfully and
 wantonly to have thrown off the companion of my youth, the acknowledged
 favourite of my father, a young man who had scarcely any other
@@ -78,7 +78,7 @@ dependence than on our patronage, and who had been brought up to expect
 its exertion, would be a depravity, to which the separation of two young
 persons whose affection could be the growth of only a few weeks, could
 bear no comparison. But from the severity of that blame which was last
-night so liberally bestowed, respecting each circumstance, I shall hope
+[[Night|night]] so liberally bestowed, respecting each circumstance, I shall [[Hope|hope]]
 to be in future secured, when the following account of my actions and
 their motives has been read. If, in the explanation of them which is due
 to myself, I am under the necessity of relating feelings which may be
@@ -86,13 +86,13 @@ offensive to yours, I can only say that I am sorry. The necessity must
 be obeyed, and further apology would be absurd. I had not been long in
 Hertfordshire before I saw, in common with others, that Bingley
 preferred your elder sister to any other young woman in the country. But
-it was not till the evening of the dance at Netherfield that I had any
+it was not till the evening of the [[Dance|dance]] at Netherfield that I had any
 apprehension of his feeling a serious attachment. I had often seen him
-in love before. At that ball, while I had the honour of dancing with
+in [[Love|love]] before. At that ball, while I had the [[Honour|honour]] of dancing with
 you, I was first made acquainted, by Sir William Lucas’s accidental
 information, that Bingley’s attentions to your sister had given rise to
-a general expectation of their marriage. He spoke of it as a certain
-event, of which the time alone could be undecided. From that moment I
+a general expectation of their [[Marriage|marriage]]. He spoke of it as a certain
+event, of which the [[Time|time]] [[Alone|alone]] could be undecided. From that moment I
 observed my friend’s behaviour attentively; and I could then perceive
 that his partiality for Miss Bennet was beyond what I had ever witnessed
 in him. Your sister I also watched. Her look and manners were open,
@@ -102,7 +102,7 @@ though she received his attentions with pleasure, she did not invite
 them by any participation of sentiment. If _you_ have not been mistaken
 here, _I_ must have been in an error. Your superior knowledge of your
 sister must make the latter probable. If it be so, if I have been misled
-by such error to inflict pain on her, your resentment has not been
+by such error to inflict [[Pain|pain]] on her, your resentment has not been
 unreasonable. But I shall not scruple to assert, that the serenity of
 your sister’s countenance and air was such as might have given the most
 acute observer a conviction that, however amiable her temper, her heart
@@ -111,7 +111,7 @@ her indifferent is certain; but I will venture to say that my
 investigations and decisions are not usually influenced by my hopes or
 fears. I did not believe her to be indifferent because I wished it; I
 believed it on impartial conviction, as truly as I wished it in reason.
-My objections to the marriage were not merely those which I last night
+My objections to the [[Marriage|marriage]] were not merely those which I last [[Night|night]]
 acknowledged to have required the utmost force of passion to put aside
 in my own case; the want of connection could not be so great an evil to
 my friend as to me. But there were other causes of repugnance; causes
@@ -131,17 +131,17 @@ disposition of both. I will only say, farther, that from what passed
 that evening my opinion of all parties was confirmed, and every
 inducement heightened, which could have led me before to preserve my
 friend from what I esteemed a most unhappy connection. He left
-Netherfield for London on the day following, as you, I am certain,
+Netherfield for [[London]] on the day following, as you, I am certain,
 remember, with the design of soon returning. The part which I acted is
 now to be explained. His sisters’ uneasiness had been equally excited
 with my own: our coincidence of feeling was soon discovered; and, alike
-sensible that no time was to be lost in detaching their brother, we
-shortly resolved on joining him directly in London. We accordingly
+sensible that no [[Time|time]] was to be lost in detaching their brother, we
+shortly resolved on joining him directly in [[London]]. We accordingly
 went--and there I readily engaged in the office of pointing out to my
 friend the certain evils of such a choice. I described and enforced them
 earnestly. But however this remonstrance might have staggered or delayed
 his determination, I do not suppose that it would ultimately have
-prevented the marriage, had it not been seconded by the assurance, which
+prevented the [[Marriage|marriage]], had it not been seconded by the assurance, which
 I hesitated not in giving, of your sister’s indifference. He had before
 believed her to return his affection with sincere, if not with equal,
 regard. But Bingley has great natural modesty, with a stronger
@@ -164,7 +164,7 @@ governed me may to you very naturally appear insufficient, I have not
 yet learnt to condemn them.--With respect to that other, more weighty
 accusation, of having injured Mr. Wickham, I can only refute it by
 laying before you the whole of his connection with my family. Of what he
-has _particularly_ accused me I am ignorant; but of the truth of what I
+has _particularly_ accused me I am ignorant; but of the [[Truth|truth]] of what I
 shall relate I can summon more than one witness of undoubted veracity.
 Mr. Wickham is the son of a very respectable man, who had for many years
 the management of all the Pemberley estates, and whose good conduct in
@@ -173,7 +173,7 @@ to him; and on George Wickham, who was his godson, his kindness was
 therefore liberally bestowed. My father supported him at school, and
 afterwards at Cambridge; most important assistance, as his own father,
 always poor from the extravagance of his wife, would have been unable to
-give him a gentleman’s education. My father was not only fond of this
+give him a gentleman’s [[Education|education]]. My father was not only fond of this
 young man’s society, whose manners were always engaging, he had also the
 highest opinion of him, and hoping the church would be his profession,
 intended to provide for him in it. As for myself, it is many, many years
@@ -182,9 +182,9 @@ vicious propensities, the want of principle, which he was careful to
 guard from the knowledge of his best friend, could not escape the
 observation of a young man of nearly the same age with himself, and who
 had opportunities of seeing him in unguarded moments, which Mr. Darcy
-could not have. Here again I shall give you pain--to what degree you
+could not have. Here again I shall give you [[Pain|pain]]--to what degree you
 only can tell. But whatever may be the sentiments which Mr. Wickham has
-created, a suspicion of their nature shall not prevent me from unfolding
+created, a suspicion of their [[Nature|nature]] shall not prevent me from unfolding
 his real character. It adds even another motive. My excellent father
 died about five years ago; and his attachment to Mr. Wickham was to the
 last so steady, that in his will he particularly recommended it to me to
@@ -215,28 +215,28 @@ circumstances, he assured me, and I had no difficulty in believing it,
 were exceedingly bad. He had found the law a most unprofitable study,
 and was now absolutely resolved on being ordained, if I would present
 him to the living in question--of which he trusted there could be little
-doubt, as he was well assured that I had no other person to provide for,
+[[Doubt|doubt]], as he was [[Well|well]] assured that I had no other person to provide for,
 and I could not have forgotten my revered father’s intentions. You will
 hardly blame me for refusing to comply with this entreaty, or for
 resisting every repetition of it. His resentment was in proportion to
 the distress of his circumstances--and he was doubtless as violent in
 his abuse of me to others as in his reproaches to myself. After this
 period, every appearance of acquaintance was dropped. How he lived, I
-know not. But last summer he was again most painfully obtruded on my
+know not. But last [[Summer|summer]] he was again most painfully obtruded on my
 notice. I must now mention a circumstance which I would wish to forget
 myself, and which no obligation less than the present should induce me
-to unfold to any human being. Having said thus much, I feel no doubt of
+to unfold to any human being. Having said thus much, I feel no [[Doubt|doubt]] of
 your secrecy. My sister, who is more than ten years my junior, was left
 to the guardianship of my mother’s nephew, Colonel Fitzwilliam, and
 myself. About a year ago, she was taken from school, and an
-establishment formed for her in London; and last summer she went with
+establishment formed for her in [[London]]; and last [[Summer|summer]] she went with
 the lady who presided over it to Ramsgate; and thither also went Mr.
 Wickham, undoubtedly by design; for there proved to have been a prior
 acquaintance between him and Mrs. Younge, in whose character we were
 most unhappily deceived; and by her connivance and aid he so far
 recommended himself to Georgiana, whose affectionate heart retained a
-strong impression of his kindness to her as a child, that she was
-persuaded to believe herself in love and to consent to an elopement. She
+strong impression of his kindness to her as a [[Child|child]], that she was
+persuaded to believe herself in [[Love|love]] and to consent to an elopement. She
 was then but fifteen, which must be her excuse; and after stating her
 imprudence, I am happy to add, that I owed the knowledge of it to
 herself. I joined them unexpectedly a day or two before the intended
@@ -247,18 +247,18 @@ acted. Regard for my sister’s credit and feelings prevented any public
 exposure; but I wrote to Mr. Wickham, who left the place immediately,
 and Mrs. Younge was of course removed from her charge. Mr. Wickham’s
 chief object was unquestionably my sister’s fortune, which is thirty
-thousand pounds; but I cannot help supposing that the hope of revenging
-himself on me was a strong inducement. His revenge would have been
+thousand pounds; but I cannot help supposing that the [[Hope|hope]] of revenging
+himself on me was a strong inducement. His [[Revenge|revenge]] would have been
 complete indeed. This, madam, is a faithful narrative of every event in
 which we have been concerned together; and if you do not absolutely
-reject it as false, you will, I hope, acquit me henceforth of cruelty
+reject it as false, you will, I [[Hope|hope]], acquit me henceforth of cruelty
 towards Mr. Wickham. I know not in what manner, under what form of
-falsehood, he has imposed on you; but his success is not perhaps to be
+falsehood, he has imposed on you; but his [[success]] is not perhaps to be
 wondered at, ignorant as you previously were of everything concerning
 either. Detection could not be in your power, and suspicion certainly
-not in your inclination. You may possibly wonder why all this was not
-told you last night. But I was not then master enough of myself to know
-what could or ought to be revealed. For the truth of everything here
+not in your inclination. You may possibly [[Wonder|wonder]] why all this was not
+told you last [[Night|night]]. But I was not then master enough of myself to know
+what could or ought to be revealed. For the [[Truth|truth]] of everything here
 related, I can appeal more particularly to the testimony of Colonel
 Fitzwilliam, who, from our near relationship and constant intimacy, and
 still more as one of the executors of my father’s will, has been

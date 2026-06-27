@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Soul of the Schoolboy (part 1)"
+title: "The Man Who Knew Too Much — The [[Soul]] of the Schoolboy (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/The-Man-Who-Knew-Too-Much-(Chesterton)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-III - The Soul of the Schoolboy
+III - The [[Soul]] of the Schoolboy
 *
-A large map of London would be needed to display the wild and zigzag
+A large map of [[London]] would be needed to display the wild and zigzag
 
-course of one day's journey undertaken by an uncle and his nephew;
+course of one day's [[Journey|journey]] undertaken by an uncle and his nephew;
 
 or, to speak more truly, of a nephew and his uncle. For the nephew,
 
@@ -44,7 +44,7 @@ the Rev. Thomas Twyford, a lean and lively old gentleman with a red,
 
 eager face and white hair. He was in the ordinary way a country
 
-clergyman, but he was one of those who achieve the paradox of being
+clergyman, but he was one of those who achieve the [[Paradox|paradox]] of being
 
 famous in an obscure way, because they are famous in an obscure
 
@@ -54,7 +54,7 @@ the only people who could even understand one another's discoveries,
 
 he occupied a recognized and respectable place. And a critic might
 
-have found even in that day's journey at least as much of the
+have found even in that day's [[Journey|journey]] at least as much of the
 
 uncle's hobby as of the nephew's holiday.
 His original purpose had been wholly paternal and festive. But,
@@ -63,11 +63,11 @@ like many other intelligent people, he was not above the weakness of
 
 playing with a toy to amuse himself, on the theory that it would
 
-amuse a child. His toys were crowns and miters and croziers and
+amuse a [[Child|child]]. His toys were crowns and miters and croziers and
 
 swords of state; and he had lingered over them, telling himself that
 
-the boy ought to see all the sights of London. And at the end of the
+the boy ought to see all the sights of [[London]]. And at the end of the
 
 day, after a tremendous tea, he rather gave the game away by winding
 
@@ -98,23 +98,23 @@ ignorance and startling knowledge—knowledge of some special
 
 classification in which he can generally correct and confound his
 
-elders. He considered himself entitled, at Hampton Court on a
+elders. He considered himself entitled, at Hampton [[Court]] on a
 
-holiday, to forget the very names of Cardinal Wolsey or William of
+holiday, to forget the very names of [[Cardinal Wolsey]] or William of
 
 Orange; but he could hardly be dragged from some details about the
 
-arrangement of the electric bells in the neighboring hotel. He was
+arrangement of the electric [[Bells|bells]] in the neighboring hotel. He was
 
 solidly dazed by Westminster Abbey, which is not so unnatural since
 
 that church became the lumber room of the larger and less successful
 
-statuary of the eighteenth century. But he had a magic and minute
+statuary of the eighteenth century. But he had a [[Magic|magic]] and minute
 
 knowledge of the Westminster omnibuses, and indeed of the whole
 
-omnibus system of London, the colors and numbers of which he knew as
+omnibus system of [[London]], the colors and numbers of which he knew as
 
 a herald knows heraldry. He would cry out against a momentary
 
@@ -137,10 +137,10 @@ thousand things. There hardly seems to be a career in it, unless you
 
 could be permanently on the pavement to prevent old ladies getting
 
-into the wrong bus. Well, we must get out of this one, for this is
+into the wrong bus. [[Well]], we must get out of this one, for this is
 
 our place. I want to show you what they call St. Paul's Penny."
-"Is it like St. Paul's Cathedral?" asked the youth with resignation,
+"Is it like St. Paul's [[Cathedral]]?" asked the youth with [[Resignation|resignation]],
 
 as they alighted.
 At the entrance their eyes were arrested by a singular figure
@@ -180,9 +180,9 @@ extraordinary precautions. I have compared the silver coin to the
 
 Koh-i-noor, and in one sense it was even conventionally comparable,
 
-since by a historical accident it was at one time almost counted
+since by a historical accident it was at one [[Time|time]] almost counted
 
-among the Crown jewels, or at least the Crown relics, until one of
+among the [[Crown]] jewels, or at least the [[Crown]] relics, until one of
 
 the royal princes publicly restored it to the shrine to which it was
 

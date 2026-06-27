@@ -20,7 +20,7 @@ tags:
 
       answer, or took any notice of my suggestion. “By-and-by,” said he
 
-      at length—“time enough—home by-and-by.” I had expected a similar
+      at length—“[[Time|time]] enough—[[Home|home]] by-and-by.” I had expected a similar
 
       reply, but there was something in the tone of these words which
 
@@ -38,9 +38,9 @@ tags:
 
       apparent surprise, letting go the tiller at the same moment, and
 
-      falling forward into the bottom of the boat—“matter—why, nothing
+      falling forward into the [[Bottom|bottom]] of the boat—“matter—why, nothing
 
-      is the—matter—going home—d—d—don’t you see?” The whole truth now
+      is the—matter—going [[Home|home]]—d—d—don’t you see?” The whole [[Truth|truth]] now
 
       flashed upon me. I flew to him and raised him up. He was
 
@@ -48,9 +48,9 @@ tags:
 
       see. His eyes were perfectly glazed; and as I let him go in the
 
-      extremity of my despair, he rolled like a mere log into the
+      extremity of my [[Despair|despair]], he rolled like a mere log into the
 
-      bilge-water, from which I had lifted him. It was evident that,
+      bilge-[[Water|water]], from which I had lifted him. It was evident that,
 
       during the evening, he had drunk far more than I suspected, and
 
@@ -58,15 +58,15 @@ tags:
 
       highly-concentrated state of intoxication—a state which, like
 
-      madness, frequently enables the victim to imitate the outward
+      [[Madness|madness]], frequently enables the victim to imitate the outward
 
       demeanour of one in perfect possession of his senses. The
 
-      coolness of the night air, however, had had its usual effect—the
+      coolness of the [[Night|night]] air, however, had had its usual effect—the
 
       mental energy began to yield before its influence—and the
 
-      confused perception which he no doubt then had of his perilous
+      confused perception which he no [[Doubt|doubt]] then had of his perilous
 
       situation had assisted in hastening the catastrophe. He was now
 
@@ -82,9 +82,9 @@ tags:
 
       timid and irresolute. I knew that I was altogether incapable of
 
-      managing the boat, and that a fierce wind and strong ebb tide
+      managing the boat, and that a fierce [[Wind|wind]] and strong ebb tide
 
-      were hurrying us to destruction. A storm was evidently gathering
+      were hurrying us to destruction. A [[Storm|storm]] was evidently gathering
 
       behind us; we had neither compass nor provisions; and it was
 
@@ -98,7 +98,7 @@ tags:
 
       the possibility of making any exertion. The boat was going
 
-      through the water at a terrible rate—full before the wind—no reef
+      through the [[Water|water]] at a terrible rate—full before the [[Wind|wind]]—no reef
 
       in either jib or mainsail—running her bows completely under the
 
@@ -110,35 +110,35 @@ tags:
 
       kept steady, and gradually I recovered some degree of presence of
 
-      mind. Still the wind was increasing fearfully, and whenever we
+      mind. Still the [[Wind|wind]] was increasing fearfully, and whenever we
 
-      rose from a plunge forward, the sea behind fell combing over our
+      [[Rose|rose]] from a plunge forward, the sea behind fell combing over our
 
-      counter, and deluged us with water. I was so utterly benumbed,
+      counter, and deluged us with [[Water|water]]. I was so utterly benumbed,
 
       too, in every limb, as to be nearly unconscious of sensation. At
 
-      length I summoned up the resolution of despair, and rushing to
+      length I summoned up the resolution of [[Despair|despair]], and rushing to
 
       the mainsail let it go by the run. As might have been expected,
 
-      it flew over the bows, and, getting drenched with water, carried
+      it flew over the bows, and, getting drenched with [[Water|water]], carried
 
-      away the mast short off by the board. This latter accident alone
+      away the mast short off by the board. This latter accident [[Alone|alone]]
 
       saved me from instant destruction. Under the jib only, I now
 
-      boomed along before the wind, shipping heavy seas occasionally
+      boomed along before the [[Wind|wind]], shipping heavy seas occasionally
 
       over the counter, but relieved from the terror of immediate
 
-      death. I took the helm, and breathed with greater freedom as I
+      [[Death|death]]. I took the helm, and breathed with greater [[Freedom|freedom]] as I
 
       found that there yet remained to us a chance of ultimate escape.
 
-      Augustus still lay senseless in the bottom of the boat; and as
+      Augustus still lay senseless in the [[Bottom|bottom]] of the boat; and as
 
-      there was imminent danger of his drowning (the water being nearly
+      there was imminent danger of his drowning (the [[Water|water]] being nearly
 
       a foot deep just where he fell), I contrived to raise him
 
@@ -146,7 +146,7 @@ tags:
 
       rope round his waist, and lashing it to a ringbolt in the deck of
 
-      the cuddy. Having thus arranged every thing as well as I could in
+      the cuddy. Having thus arranged every thing as [[Well|well]] as I could in
 
       my chilled and agitated condition, I recommended myself to God,
 
@@ -166,11 +166,11 @@ tags:
 
       experienced at that moment. My hair stood erect on my head—I felt
 
-      the blood congealing in my veins—my heart ceased utterly to beat,
+      the [[Blood|blood]] congealing in my veins—my heart ceased utterly to beat,
 
       and without having once raised my eyes to learn the source of my
 
-      alarm, I tumbled headlong and insensible upon the body of my
+      alarm, I tumbled headlong and insensible upon the [[Body|body]] of my
 
       fallen companion.
 
@@ -178,19 +178,19 @@ tags:
 
       I found myself, upon reviving, in the cabin of a large
 
-      whaling-ship (the Penguin) bound to Nantucket. Several persons
+      whaling-[[Ship|ship]] (the Penguin) bound to Nantucket. Several persons
 
-      were standing over me, and Augustus, paler than death, was busily
+      were standing over me, and Augustus, paler than [[Death|death]], was busily
 
       occupied in chafing my hands. Upon seeing me open my eyes, his
 
       exclamations of gratitude and joy excited alternate laughter and
 
-      tears from the rough-looking personages who were present. The
+      [[Tears|tears]] from the rough-looking personages who were present. The
 
       mystery of our being in existence was now soon explained. We had
 
-      been run down by the whaling-ship, which was close-hauled,
+      been run down by the whaling-[[Ship|ship]], which was close-hauled,
 
       beating up to Nantucket with every sail she could venture to set,
 

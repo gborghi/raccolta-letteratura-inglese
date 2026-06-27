@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 33"
+title: "[[Nicholas Nickleby]] — Chapter 33"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,14 +16,14 @@ tags:
 
 CHAPTER 33
 
-In which Mr. Ralph Nickleby is relieved, by a very expeditious Process,
+In which Mr. [[Ralph Nickleby]] is relieved, by a very expeditious Process,
 from all Commerce with his Relations
 
 
-Smike and Newman Noggs, who in his impatience had returned home long
-before the time agreed upon, sat before the fire, listening anxiously
+[[Smike]] and [[Newman Noggs]], who in his impatience had returned [[Home|home]] long
+before the [[Time|time]] agreed upon, sat before the [[Fire|fire]], listening anxiously
 to every footstep on the stairs, and the slightest sound that stirred
-within the house, for the approach of Nicholas. Time had worn on, and
+within the [[house]], for the approach of Nicholas. [[Time]] had worn on, and
 it was growing late. He had promised to be back in an hour; and his
 prolonged absence began to excite considerable alarm in the minds of
 both, as was abundantly testified by the blank looks they cast upon each
@@ -31,11 +31,11 @@ other at every new disappointment.
 
 At length a coach was heard to stop, and Newman ran out to light
 Nicholas up the stairs. Beholding him in the trim described at
-the conclusion of the last chapter, he stood aghast in wonder and
+the conclusion of the last chapter, he stood aghast in [[Wonder|wonder]] and
 consternation.
 
 ‘Don’t be alarmed,’ said Nicholas, hurrying him back into the room.
-‘There is no harm done, beyond what a basin of water can repair.’
+‘There is no harm done, beyond what a basin of [[Water|water]] can repair.’
 
 ‘No harm!’ cried Newman, passing his hands hastily over the back and
 arms of Nicholas, as if to assure himself that he had broken no bones.
@@ -44,11 +44,11 @@ arms of Nicholas, as if to assure himself that he had broken no bones.
 ‘I know all,’ interrupted Nicholas; ‘I have heard a part, and guessed
 the rest. But before I remove one jot of these stains, I must hear the
 whole from you. You see I am collected. My resolution is taken. Now, my
-good friend, speak out; for the time for any palliation or concealment
-is past, and nothing will avail Ralph Nickleby now.’
+good friend, speak out; for the [[Time|time]] for any palliation or concealment
+is past, and nothing will avail [[Ralph Nickleby]] now.’
 
 ‘Your dress is torn in several places; you walk lame, and I am sure you
-are suffering pain,’ said Newman. ‘Let me see to your hurts first.’
+are [[Suffering|suffering]] [[Pain|pain]],’ said Newman. ‘Let me see to your hurts first.’
 
 ‘I have no hurts to see to, beyond a little soreness and stiffness
 that will soon pass off,’ said Nicholas, seating himself with some
@@ -58,11 +58,11 @@ right to know. Come,’ said Nicholas, giving his hand to Noggs. ‘You had
 a sister of your own, you told me once, who died before you fell into
 misfortune. Now think of her, and tell me, Newman.’
 
-‘Yes, I will, I will,’ said Noggs. ‘I’ll tell you the whole truth.’
+‘Yes, I will, I will,’ said Noggs. ‘I’ll tell you the whole [[Truth|truth]].’
 
-Newman did so. Nicholas nodded his head from time to time, as it
+Newman did so. Nicholas nodded his head from [[Time|time]] to [[Time|time]], as it
 corroborated the particulars he had already gleaned; but he fixed his
-eyes upon the fire, and did not look round once.
+eyes upon the [[Fire|fire]], and did not look round once.
 
 His recital ended, Newman insisted upon his young friend’s stripping off
 his coat and allowing whatever injuries he had received to be properly
@@ -71,18 +71,18 @@ some pretty severe bruises on his arms and shoulders were being rubbed
 with oil and vinegar, and various other efficacious remedies which
 Newman borrowed from the different lodgers, related in what manner they
 had been received. The recital made a strong impression on the warm
-imagination of Newman; for when Nicholas came to the violent part of the
-quarrel, he rubbed so hard, as to occasion him the most exquisite pain,
+[[Imagination|imagination]] of Newman; for when Nicholas came to the violent part of the
+quarrel, he rubbed so hard, as to occasion him the most exquisite [[Pain|pain]],
 which he would not have exhibited, however, for the world, it being
 perfectly clear that, for the moment, Newman was operating on Sir
 Mulberry Hawk, and had quite lost sight of his real patient.
 
-This martyrdom over, Nicholas arranged with Newman that while he was
+This [[Martyrdom|martyrdom]] over, Nicholas arranged with Newman that while he was
 otherwise occupied next morning, arrangements should be made for his
 mother’s immediately quitting her present residence, and also for
 dispatching Miss La Creevy to break the intelligence to her. He then
-wrapped himself in Smike’s greatcoat, and repaired to the inn where they
-were to pass the night, and where (after writing a few lines to Ralph,
+wrapped himself in [[Smike]]’s greatcoat, and repaired to the inn where they
+were to pass the [[Night|night]], and where (after writing a few lines to Ralph,
 the delivery of which was to be intrusted to Newman next day), he
 endeavoured to obtain the repose of which he stood so much in need.
 
@@ -90,25 +90,25 @@ Drunken men, they say, may roll down precipices, and be quite
 unconscious of any serious personal inconvenience when their reason
 returns. The remark may possibly apply to injuries received in other
 kinds of violent excitement: certain it is, that although Nicholas
-experienced some pain on first awakening next morning, he sprung out of
-bed as the clock struck seven, with very little difficulty, and was soon
+experienced some [[Pain|pain]] on first awakening next morning, he sprung out of
+bed as the [[Clock|clock]] struck seven, with very little difficulty, and was soon
 as much on the alert as if nothing had occurred.
 
-Merely looking into Smike’s room, and telling him that Newman Noggs
+Merely looking into [[Smike]]’s room, and telling him that [[Newman Noggs]]
 would call for him very shortly, Nicholas descended into the street,
 and calling a hackney coach, bade the man drive to Mrs. Wititterly’s,
 according to the direction which Newman had given him on the previous
-night.
+[[Night|night]].
 
 It wanted a quarter to eight when they reached Cadogan Place. Nicholas
-began to fear that no one might be stirring at that early hour, when he
+began to [[Fear|fear]] that no one might be stirring at that early hour, when he
 was relieved by the sight of a female servant, employed in cleaning the
 door-steps. By this functionary he was referred to the doubtful page,
 who appeared with dishevelled hair and a very warm and glossy face, as
 of a page who had just got out of bed.
 
 By this young gentleman he was informed that Miss Nickleby was then
-taking her morning’s walk in the gardens before the house. On the
+taking her morning’s walk in the gardens before the [[house]]. On the
 question being propounded whether he could go and find her, the page
 desponded and thought not; but being stimulated with a shilling, the
 page grew sanguine and thought he could.
@@ -119,8 +119,8 @@ see her,’ said Nicholas.
 The plated buttons disappeared with an alacrity most unusual to them,
 and Nicholas paced the room in a state of feverish agitation which made
 the delay even of a minute insupportable. He soon heard a light footstep
-which he well knew, and before he could advance to meet her, Kate had
-fallen on his neck and burst into tears.
+which he [[Well|well]] knew, and before he could advance to meet her, Kate had
+fallen on his neck and burst into [[Tears|tears]].
 
 ‘My darling girl,’ said Nicholas as he embraced her. ‘How pale you are!’
 
@@ -135,14 +135,14 @@ bring misfortune on your head; that it was a trial to me no less than to
 yourself, and that if I did wrong it was in ignorance of the world and
 unknowingly.’
 
-‘Why should I tell you what we know so well?’ returned Kate soothingly.
+‘Why should I tell you what we know so [[Well|well]]?’ returned Kate soothingly.
 ‘Nicholas--dear Nicholas--how can you give way thus?’
 
 ‘It is such bitter reproach to me to know what you have undergone,’
 returned her brother; ‘to see you so much altered, and yet so kind and
 patient--God!’ cried Nicholas, clenching his fist and suddenly changing
-his tone and manner, ‘it sets my whole blood on fire again. You must
-leave here with me directly; you should not have slept here last night,
+his tone and manner, ‘it sets my whole [[Blood|blood]] on [[Fire|fire]] again. You must
+leave here with me directly; you should not have slept here last [[Night|night]],
 but that I knew all this too late. To whom can I speak, before we drive
 away?’
 
@@ -155,7 +155,7 @@ the right side, ‘is not yet half expired. Therefore--’
 
 ‘Therefore,’ interposed Nicholas, ‘the quarter’s salary must be lost,
 sir. You will excuse this extreme haste, but circumstances require that
-I should immediately remove my sister, and I have not a moment’s time to
+I should immediately remove my sister, and I have not a moment’s [[Time|time]] to
 lose. Whatever she brought here I will send for, if you will allow me,
 in the course of the day.’
 
@@ -174,12 +174,12 @@ of their own; and this was Mr. Wititterly’s.
 
 ‘If you please,’ said Nicholas. And once more offering a hurried apology
 for so sudden a departure, he hurried Kate into the vehicle, and bade
-the man drive with all speed into the city.
+the man drive with all [[Speed|speed]] into the [[City|city]].
 
-To the city they went accordingly, with all the speed the hackney coach
+To the [[City|city]] they went accordingly, with all the [[Speed|speed]] the hackney coach
 could make; and as the horses happened to live at Whitechapel and to be
 in the habit of taking their breakfast there, when they breakfasted
-at all, they performed the journey with greater expedition than could
+at all, they performed the [[Journey|journey]] with greater expedition than could
 reasonably have been expected.
 
 Nicholas sent Kate upstairs a few minutes before him, that his
@@ -199,14 +199,14 @@ means be made to comprehend the necessity of such hurried proceedings.
 ‘Why don’t you ask your uncle, my dear Nicholas, what he can possibly
 mean by it?’ said Mrs. Nickleby.
 
-‘My dear mother,’ returned Nicholas, ‘the time for talking has gone
+‘My dear mother,’ returned Nicholas, ‘the [[Time|time]] for talking has gone
 by. There is but one step to take, and that is to cast him off with the
-scorn and indignation he deserves. Your own honour and good name demand
+scorn and indignation he deserves. Your own [[Honour|honour]] and good name demand
 that, after the discovery of his vile proceedings, you should not be
 beholden to him one hour, even for the shelter of these bare walls.’
 
 ‘To be sure,’ said Mrs. Nickleby, crying bitterly, ‘he is a brute, a
-monster; and the walls are very bare, and want painting too, and I have
+[[Monster|monster]]; and the walls are very bare, and want painting too, and I have
 had this ceiling whitewashed at the expense of eighteen-pence, which is
 a very distressing thing, considering that it is so much gone into your
 uncle’s pocket. I never could have believed it--never.’
@@ -218,8 +218,8 @@ Mulberry Hawk should be such an abandoned wretch as Miss La Creevy says
 he is, Nicholas, my dear; when I was congratulating myself every day on
 his being an admirer of our dear Kate’s, and thinking what a thing it
 would be for the family if he was to become connected with us, and use
-his interest to get you some profitable government place. There are
-very good places to be got about the court, I know; for a friend of ours
+his interest to get you some profitable [[government]] place. There are
+very good places to be got about the [[Court|court]], I know; for a friend of ours
 (Miss Cropley, at Exeter, my dear Kate, you recollect), he had one, and
 I know that it was the chief part of his duty to wear silk stockings,
 and a bag wig like a black watch-pocket; and to think that it should
@@ -227,7 +227,7 @@ come to this after all--oh, dear, dear, it’s enough to kill one, that it
 is!’ With which expressions of sorrow, Mrs. Nickleby gave fresh vent to
 her grief, and wept piteously.
 
-As Nicholas and his sister were by this time compelled to superintend
+As Nicholas and his sister were by this [[Time|time]] compelled to superintend
 the removal of the few articles of furniture, Miss La Creevy devoted
 herself to the consolation of the matron, and observed with great
 kindness of manner that she must really make an effort, and cheer up.
@@ -253,7 +253,7 @@ downstairs to see that everything had been taken away; and when she was
 getting into the coach she had a vision of a forgotten coffee-pot on the
 back-kitchen hob, and after she was shut in, a dismal recollection of
 a green umbrella behind some unknown door. At last Nicholas, in a
-condition of absolute despair, ordered the coachman to drive away,
+condition of absolute [[Despair|despair]], ordered the coachman to drive away,
 and in the unexpected jerk of a sudden starting, Mrs. Nickleby lost a
 shilling among the straw, which fortunately confined her attention to
 the coach until it was too late to remember anything else.
@@ -265,20 +265,20 @@ everything been done, that it was barely half-past nine when he reached
 the place of meeting.
 
 ‘Here is the letter for Ralph,’ said Nicholas, ‘and here the key. When
-you come to me this evening, not a word of last night. Ill news travels
+you come to me this evening, not a word of last [[Night|night]]. Ill news travels
 fast, and they will know it soon enough. Have you heard if he was much
 hurt?’
 
 Newman shook his head.
 
-‘I will ascertain that myself without loss of time,’ said Nicholas.
+‘I will ascertain that myself without loss of [[Time|time]],’ said Nicholas.
 
 ‘You had better take some rest,’ returned Newman. ‘You are fevered and
 ill.’
 
 Nicholas waved his hand carelessly, and concealing the indisposition he
 really felt, now that the excitement which had sustained him was over,
-took a hurried farewell of Newman Noggs, and left him.
+took a hurried farewell of [[Newman Noggs]], and left him.
 
 Newman was not three minutes’ walk from Golden Square, but in the course
 of that three minutes he took the letter out of his hat and put it in
@@ -290,7 +290,7 @@ ecstasy with his commission.
 
 He reached the office, hung his hat on its accustomed peg, laid the
 letter and key upon the desk, and waited impatiently until Ralph
-Nickleby should appear. After a few minutes, the well-known creaking of
+Nickleby should appear. After a few minutes, the [[Well|well]]-known creaking of
 his boots was heard on the stairs, and then the bell rung.
 
 ‘Has the post come in?’
@@ -313,21 +313,21 @@ follows:--
 head which would carry with them one thousandth part of the grovelling
 shame that this assurance will awaken even in your breast.
 
-‘Your brother’s widow and her orphan child spurn the shelter of your
+‘Your brother’s widow and her [[Orphan|orphan]] [[Child|child]] spurn the shelter of your
 roof, and shun you with disgust and loathing. Your kindred renounce you,
-for they know no shame but the ties of blood which bind them in name
+for they know no shame but the ties of [[Blood|blood]] which bind them in name
 with you.
 
-‘You are an old man, and I leave you to the grave. May every
+‘You are an old man, and I leave you to the [[Grave|grave]]. May every
 recollection of your life cling to your false heart, and cast their
-darkness on your death-bed.’
+darkness on your [[Death|death]]-bed.’
 
-Ralph Nickleby read this letter twice, and frowning heavily, fell into
+[[Ralph Nickleby]] read this letter twice, and frowning heavily, fell into
 a fit of musing; the paper fluttered from his hand and dropped upon the
 floor, but he clasped his fingers, as if he held it still.
 
 Suddenly, he started from his seat, and thrusting it all crumpled into
-his pocket, turned furiously to Newman Noggs, as though to ask him
+his pocket, turned furiously to [[Newman Noggs]], as though to ask him
 why he lingered. But Newman stood unmoved, with his back towards him,
 following up, with the worn and blackened stump of an old pen, some
 figures in an Interest-table which was pasted against the wall, and

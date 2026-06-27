@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Crime of Captain Gahagan"
+title: "[[MrPond]] — The Crime of Captain Gahagan"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/MrPond-(Chesterton)"
@@ -22,7 +22,7 @@ THE CRIME OF CAPTAIN GAHAGAN
 
 It must be confessed that some people thought Mr. Pond a bore.  He
 
-had a weakness for long speeches, not out of self-importance, but
+had a weakness for long speeches, not out of [[Self|self]]-importance, but
 
 because he had an old-fashioned taste in literature; and had
 
@@ -40,7 +40,7 @@ Mr. Pond said (referring, I grieve to say, to the greater part of
 
 the female sex, at least in its most modern phase):  "They go so
 
-fast that they get no farther," he did not mean it as an epigram.
+fast that they get no farther," he did not mean it as an [[Epigram|epigram]].
 
 And somehow it did not sound epigrammatic; but only odd and
 
@@ -58,7 +58,7 @@ therefore and great glory belongs to anyone who could successfully
 
 stop Mr. Pond from making long speeches; and this laurel is for the
 
-brows of Miss Artemis Asa-Smith, of Pentapolis, Pa.  She came to
+brows of Miss Artemis Asa-[[smith|Smith]], of Pentapolis, Pa.  She came to
 
 interview Mr. Pond for The Live Wire, touching his alleged views on
 
@@ -76,7 +76,7 @@ murder, but--"
 
 "Forget it," said the young lady briefly.  "It's just too wonderful
 
-for me to be sitting here next to all secrets of your government;
+for me to be sitting here next to all [[Secrets|secrets]] of your [[government]];
 
 why--"
 
@@ -96,7 +96,7 @@ ended.
 
 We have all heard of American interviewers who rip up family
 
-secrets, break down bedroom doors and collect information in the
+[[Secrets|secrets]], break down bedroom doors and collect information in the
 
 manner of burglars.  There are some; but there are also others.
 
@@ -104,7 +104,7 @@ There are, or were, when the writer remembers them, a very large
 
 number of intelligent men ready to discuss intelligent things; and
 
-there was Miss Asa-Smith.  She was small and dark; she was rather
+there was Miss Asa-[[smith|Smith]].  She was small and dark; she was rather
 
 pretty and would have been very pretty if she had not dipped her
 
@@ -112,15 +112,15 @@ lipstick in hues of earthquake and eclipse.  Her finger-nails were
 
 painted five different colours, looking like the paints in a
 
-child's paintbox; and she was as innocent as a child.  She was also
+[[Child|child]]'s paintbox; and she was as [[Innocent|innocent]] as a [[Child|child]].  She was also
 
-as garrulous as a child.  She felt something paternal about Mr.
+as garrulous as a [[Child|child]].  She felt something paternal about Mr.
 
 Pond and told him everything.  He did not have to tell her
 
 anything.  No buried tragedies of the Pond family were dug up; no
 
-secrets of the crimes committed behind Mr. Pond's bedroom door.
+[[Secrets|secrets]] of the crimes committed behind Mr. Pond's bedroom door.
 
 Conversation, so to describe it, revolved largely round her early
 
@@ -142,17 +142,17 @@ written a play; and she just longed to read it to Mr. Pond.
 
 
 
-"Well, I'm just desperate to read you this play, and--you know how
+"[[Well]], I'm just desperate to read you this play, and--you know how
 
 it is.  You see, my play's awfully MODERN.  But even the modernest
 
-people haven't done just that--I mean, beginning in the water and
+people haven't done just that--I mean, beginning in the [[Water|water]] and
 
 then--"
 
 
 
-"Beginning in the water?" inquired Mr. Pond.
+"Beginning in the [[Water|water]]?" inquired Mr. Pond.
 
 
 
@@ -162,7 +162,7 @@ all characters in bathing dresses soon--but they'll only just enter
 
 L. or R.; come on at the side, you know--and all the old stuff.  My
 
-characters enter from above, diving, with a splash--Well, that'll
+characters enter from above, diving, with a splash--[[Well]], that'll
 
 be a splash, won't it?  I mean to say, it begins like that."  She
 
@@ -202,15 +202,15 @@ is the only splash by your--.'
 
 "She calls him Grandpa, you see, because 'splosh' means money in
 
-that ever-so-old comic song--they're quite young really, of course,
+that ever-so-old comic [[Song|song]]--they're quite young really, of course,
 
 and rather . . . you know.  But--"
 
 
 
-Mr. Pond interposed with delicacy and firmness:  "I wonder whether
+Mr. Pond interposed with delicacy and firmness:  "I [[Wonder|wonder]] whether
 
-you would be so very kind, Miss Asa-Smith, as to leave the
+you would be so very kind, Miss Asa-[[smith|Smith]], as to leave the
 
 manuscript with me or send me a copy, so that I can enjoy it at
 
@@ -226,7 +226,7 @@ heights into a stage sea?"
 
 "Oh, I dare say some of the old-stagers would be stuffy about it,"
 
-she replied, "because--can't fancy your great tragedienne, Olivia
+she replied, "because--can't fancy your great tragedienne, [[Olivia]]
 
 Feversham--though she's not so old really and just lovely still,
 
@@ -236,7 +236,7 @@ Varney to PROMISE, and her sister's quite a friend of mine, though
 
 of course not so--and lots of amateurs would do it for fun.  That
 
-Gahagan guy is a good swimmer, and he's acted, too, and--oh, well,
+Gahagan guy is a good swimmer, and he's acted, too, and--oh, [[Well|well]],
 
 he'd click if Joan Varney's in it."
 
@@ -254,27 +254,27 @@ me to Miss Varney.  As to her sister, the one on the stage--"
 
 
 
-"Not a patch on Joan, is she?  But--" said Miss Asa-Smith.
+"Not a patch on Joan, is she?  But--" said Miss Asa-[[smith|Smith]].
 
 
 
-Mr. Pond had formed an impression.  He liked Miss Asa-Smith.  He
+Mr. Pond had formed an impression.  He liked Miss Asa-[[smith|Smith]].  He
 
 liked her very much.  And the thought of the Honourable Violet
 
-Varney, that English aristocrat, made him like the American even
+Varney, that English [[aristocrat]], made him like the American even
 
 more.  The Honourable Violet was one of those wealthy women who pay
 
 to act badly; and blackleg the poorer people who might have been
 
-paid to act well.  She certainly was quite capable of diving in a
+paid to act [[Well|well]].  She certainly was quite capable of diving in a
 
 bathing dress, or in anything or nothing, if it were the only way
 
 to the stage and the spot-light.  She was quite capable of helping
 
-Miss Asa-Smith in her absurd play and talking similar nonsense
+Miss Asa-[[smith|Smith]] in her absurd play and talking similar nonsense
 
 about being modern and independent of selfish man.  But there was a
 
@@ -296,7 +296,7 @@ too tired to finish it; Artemis did so as if she were really too
 
 eager to get on to the next.  There was within her, somehow, a
 
-thing, a spirit of life, which survives every criticism of America.
+thing, a spirit of life, which survives every criticism of [[america|America]].
 
 
 
@@ -320,23 +320,23 @@ the precise and prosaic Mr. Pond.
 
 "Some say he's a rotter," said the candid American.  "I don't say
 
-that; but I do say he's a dark horse.  And he does shilly-shally
+that; but I do say he's a dark [[Horse|horse]].  And he does shilly-shally
 
-about Joan Varney, doesn't he?  Some say he's really in love with
+about Joan Varney, doesn't he?  Some say he's really in [[Love|love]] with
 
-the great Olivia--your only tragic actress.  Only she's so jolly
+the great [[Olivia]]--your only tragic actress.  Only she's so jolly
 
 tragic."
 
 
 
-"God send she doesn't play in a real tragedy," said Pond.
+"God send she doesn't play in a real [[Tragedy|tragedy]]," said Pond.
 
 
 
 He knew what he meant; but he had not the faintest foreshadowing of
 
-the awful tragedy of real life and death in which Olivia Feversham
+the awful [[Tragedy|tragedy]] of real life and [[Death|death]] in which [[Olivia]] Feversham
 
 was to play within the next twenty-four hours.
 
@@ -350,13 +350,13 @@ Gahagan lived the modern life, perhaps to excess, was a prop of
 
 nightclubs and a driver of sports cars, still comparatively young;
 
-but, for all that, he was a survival.  He belonged to the times of
+but, for all that, he was a [[Survival|survival]].  He belonged to the times of
 
 a more Byronic pose.  When Mr. W. B. Yeats wrote:  "Romantic
 
-Ireland's dead and gone; it's with O'Leary in the grave," he had
+Ireland's dead and gone; it's with O'Leary in the [[Grave|grave]]," he had
 
-never met Gahagan, who was not yet in the grave.  He was of that
+never met Gahagan, who was not yet in the [[Grave|grave]].  He was of that
 
 older tradition by a hundred tests; he had been a cavalry soldier
 
@@ -376,9 +376,9 @@ eighteenth-century way: the way of Garrick; and that eighteenth
 
 century that he recalled had a pretty pagan side to it.  Pond could
 
-not dismiss the chances of Gahagan having an affair with Olivia or
+not dismiss the chances of Gahagan having an affair with [[Olivia]] or
 
-anyone else; and if so a storm might be brewing.  For Olivia was
+anyone else; and if so a [[Storm|storm]] might be brewing.  For [[Olivia]] was
 
 married; and to no complaisant husband, either.
 
@@ -406,9 +406,9 @@ wife than with his solicitor.
 
 
 
-Through court after court Feversham passed, pursuing his rights and
+Through [[Court|court]] after [[Court|court]] Feversham passed, pursuing his rights and
 
-followed like a shadow by his solicitor, Luke, of the firm of
+followed like a [[Shadow|shadow]] by his solicitor, Luke, of the firm of
 
 Masters, Luke and Masters; a young man with flat, yellow hair and a
 
@@ -416,7 +416,7 @@ rather wooden face.  What he thought of his client's feuds and how
 
 far he ventured to restrain them, that wooden face would never
 
-reveal.  But he worked well for his client; and the two had
+reveal.  But he worked [[Well|well]] for his client; and the two had
 
 necessarily become in a way companions-in-arms.  Of one thing Pond
 
@@ -440,13 +440,13 @@ the problem of an ill-drawn will or a dubious signature.  It was
 
 the problem of a stiff and staring corpse, lying just inside a
 
-garden-gate and nailed there by a fencing-sword with the button
+[[Garden|garden]]-gate and nailed there by a fencing-[[Sword|sword]] with the button
 
 broken off.  Frederick Feversham, that legalist, had suffered at
 
 least one final and indisputable illegality; he had been stabbed to
 
-death as he entered his own home.
+[[Death|death]] as he entered his own [[Home|home]].
 
 
 
@@ -458,7 +458,7 @@ Long before certain facts, slowly collected, were put before the
 
 police, they were put before Mr. Pond.  This may seem odd, but
 
-there were reasons; indeed Mr. Pond, like many other Government
+there were reasons; indeed Mr. Pond, like many other [[government|Government]]
 
 officials, had rather secret and unsuspected spheres of influence;
 
@@ -472,9 +472,9 @@ labyrinth of the most unconstitutional of all constitutions.  In
 
 any case, his first warning of the trouble took the commonplace
 
-form of an ordinary legal letter, with the heading of the well-
+form of an ordinary legal letter, with the heading of the [[Well|well]]-
 
-known firm of Masters, Luke and Masters, expressing the hope that
+known firm of Masters, Luke and Masters, expressing the [[Hope|hope]] that
 
 Mr. Luke might be allowed to discuss certain information with Mr.
 
@@ -498,11 +498,11 @@ was going to tell him.
 
 
 
-"The truth is, Mr. Pond," said the solicitor, in a confidential but
+"The [[Truth|truth]] is, Mr. Pond," said the solicitor, in a confidential but
 
 still careful voice, when he was at length deposited on the other
 
-side of Mr. Pond's table next day.  "The truth is that the
+side of Mr. Pond's table next day.  "The [[Truth|truth]] is that the
 
 possibilities of this affair, painful in any case, may be specially
 
@@ -524,7 +524,7 @@ suppose that anybody had not entertained the idea long ago.  He
 
 knew that words to that effect were common in the more conventional
 
-detective stories, which he heartily enjoyed, as a change from
+[[Detective|detective]] stories, which he heartily enjoyed, as a change from
 
 Burke and Gibbon.  He could see the printed words on a hundred
 
@@ -570,13 +570,13 @@ whether men were capable of murder, he was rather inclined to think
 
 that Gahagan WAS capable of murder--more capable of murder than of
 
-meanness to a cabman.
+meanness to a [[cabman]].
 
 
 
 Suddenly, with extraordinary vividness, the image of Gahagan
 
-himself sprang up in Pond's memory: Gahagan as he had last seen him
+himself sprang up in Pond's [[Memory|memory]]: Gahagan as he had last seen him
 
 lounging with his large shoulders and long stride, and strange dark-
 
@@ -592,17 +592,17 @@ forgiven; but not a man to be lightly acquitted.
 
 
 
-"Mr. Luke," said Pond suddenly, "will it save time if I tell you,
+"Mr. Luke," said Pond suddenly, "will it save [[Time|time]] if I tell you,
 
 to start with, what I know there is against Gahagan?  He was
 
 hanging round Mrs. Feversham, the great actress; I don't know why
 
-he was; my own belief is that he is really in love with another
+he was; my own belief is that he is really in [[Love|love]] with another
 
 woman.  Yet he did unquestionably give the actress a huge amount of
 
-his time: hours and hours and late hours too.  But if Feversham
+his [[Time|time]]: hours and hours and late hours too.  But if Feversham
 
 caught him doing anything unconventional, Feversham was not the man
 
@@ -626,7 +626,7 @@ at the start that I don't believe in it."
 
 "Unfortunately it is not the whole case against Captain Gahagan,"
 
-replied Luke smoothly, "and I fear the full Statement may make even
+replied Luke smoothly, "and I [[Fear|fear]] the full Statement may make even
 
 you believe it.  Perhaps the most serious result of our
 
@@ -638,7 +638,7 @@ of his movements, or proposed movements, on the evening of the
 
 murder.  Allowing him the highest possible marks for truthfulness
 
-in the matter, he must at least have told two lies to one truth."
+in the matter, he must at least have told two lies to one [[Truth|truth]]."
 
 
 
@@ -646,7 +646,7 @@ in the matter, he must at least have told two lies to one truth."
 
 "except when he was telling lies for amusement; which is really
 
-rather the mark of a man who doesn't prostitute the sublime art of
+rather the mark of a man who doesn't prostitute the [[Sublime|sublime]] art of
 
 lying to the base uses of necessity.  About all ordinary practical
 
@@ -680,7 +680,7 @@ had been talking to several ladies."
 
 him?  If one of them happened, for instance, to be that very
 
-charming lady, Miss Asa-Smith of Pentapolis, I would venture to
+charming lady, Miss Asa-[[smith|Smith]] of Pentapolis, I would venture to
 
 guess that it was she who was talking to him."
 
@@ -690,7 +690,7 @@ guess that it was she who was talking to him."
 
 not know if it was a guess; but one of them certainly was a Miss
 
-Asa-Smith of Pentapolis.  The other two were the Hon. Violet Varney
+Asa-[[smith|Smith]] of Pentapolis.  The other two were the Hon. Violet Varney
 
 and, last but not least, the Hon. Joan Varney.  As a matter of
 
@@ -700,7 +700,7 @@ only natural.  It is notable, on your own suggestion, that he is
 
 really attached to this last lady, that his statement to her was
 
-apparently much the nearest to the truth."
+apparently much the nearest to the [[Truth|truth]]."
 
 
 
@@ -710,9 +710,9 @@ apparently much the nearest to the truth."
 
 "Joan Varney," observed the lawyer gravely, "stated most
 
-definitely, before she knew that there was any trouble or tragedy
+definitely, before she knew that there was any trouble or [[Tragedy|tragedy]]
 
-in this case, that Captain Gahagan had left the house saying:  'I
+in this case, that Captain Gahagan had left the [[house]] saying:  'I
 
 am going round to the Fevershams'.'"
 
@@ -724,7 +724,7 @@ said Mr. Pond.
 
 
 
-"Most emphatically," replied Luke.  "The other sister, well known
+"Most emphatically," replied Luke.  "The other sister, [[Well|well]] known
 
 on the stage as Violet Varney, stopped him as he was going out and
 
@@ -788,7 +788,7 @@ absolutely honest."
 
 
 
-"Well, there it is," said Luke, speaking also not without a decent
+"[[Well]], there it is," said Luke, speaking also not without a decent
 
 gloom.  "It seems to me that the psychology's only too obvious
 
@@ -798,7 +798,7 @@ to the girl he was accustomed to confide in; perhaps he didn't
 
 really plan the crime till later; or perhaps it wasn't entirely
 
-planned or premeditated.  But by the time he talked to less
+planned or premeditated.  But by the [[Time|time]] he talked to less
 
 friendly people he saw how unwise it would be to say he was going
 
@@ -814,7 +814,7 @@ sufficiently vague, and says he is going to the club."
 
 "It might be like that," replied Pond, "or it might--"  And Mr.
 
-Pond fell for the first time into the lax habit of Miss Asa-Smith,
+Pond fell for the first [[Time|time]] into the lax habit of Miss Asa-[[smith|Smith]],
 
 and failed to finish his sentence.  Instead he sat staring at the
 
@@ -832,13 +832,13 @@ expression, and said with a brisk and almost sharp tone:
 
 
 
-"You seem very much bent on bringing the crime home to poor
+"You seem very much bent on bringing the crime [[Home|home]] to poor
 
 Gahagan."
 
 
 
-For the first time Luke's features stiffened to hardness, or even
+For the first [[Time|time]] Luke's features stiffened to hardness, or even
 
 harshness.  "We naturally wish to bring the murderer of our client
 
@@ -978,7 +978,7 @@ gentleman who was my client and friend!"
 
 "You seem a little annoyed," said Mr. Pond.  "Have you tried
 
-reading Dr. Johnson's Vanity of Human Wishes?  Very soothing.
+reading Dr. Johnson's [[Vanity]] of Human Wishes?  Very soothing.
 
 Believe me, those eighteenth-century writers I wanted to quote are
 
@@ -992,7 +992,7 @@ very soothing.  Have you read Addison's play about Cato?"
 
 "Or again," continued Mr. Pond in a chatty way, "have you read Miss
 
-Asa-Smith's play about the duchess in the bathing-suit?  All the
+Asa-[[smith|Smith]]'s play about the duchess in the bathing-suit?  All the
 
 sentences curiously cut short--like the bathing-suit."
 
@@ -1004,7 +1004,7 @@ sentences curiously cut short--like the bathing-suit."
 
 "Oh, yes, I mean a great deal," replied Pond.  "But it takes quite
 
-a long time to explain--like the Vanity of Human Wishes.  What I
+a long [[Time|time]] to explain--like the [[Vanity]] of Human Wishes.  What I
 
 mean is this.  My friend Gahagan is very fond of those old wits and
 
@@ -1018,9 +1018,9 @@ style; balance and antithesis and all that.  Now if you have this
 
 habit and read, say, the hackneyed lines in Cato:  ''Tis not in
 
-mortals to command success; but we'll do more, Sempronius, we'll
+mortals to command [[success]]; but we'll do more, [[Sempronius]], we'll
 
-deserve it'--well, it may be good or bad; but you've got to wait
+deserve it'--[[Well|well]], it may be good or bad; but you've got to wait
 
 for the end of the sentence; because it begins with a platitude and
 
@@ -1034,7 +1034,7 @@ nobody waits for it to end.
 
 don't think, they think quicker than we do.  They often talk
 
-better.  But they don't LISTEN so well.  They leap so quickly upon
+better.  But they don't LISTEN so [[Well|well]].  They leap so quickly upon
 
 the first point; they see so much more in it; and go off in a
 
@@ -1070,7 +1070,7 @@ though his next words were that the woman almost certainly wasn't
 
 there.  Stuff about Brighton and the club didn't interest her, and
 
-she didn't even remember it.  Very well, let us go on to the next
+she didn't even remember it.  Very [[Well|well]], let us go on to the next
 
 case.  What Gahagan said to Violet Varney was this:  'It's no good
 
@@ -1080,7 +1080,7 @@ but perhaps I'll look in and see; if they're not back, I shall go
 
 on to the club.'  Violet is much less truthful and careful than
 
-Joan; and she was jealous of Olivia herself, but in a much
+Joan; and she was jealous of [[Olivia]] herself, but in a much
 
 shallower way, Violet supposing herself to be an actress.  She also
 
@@ -1096,7 +1096,7 @@ condescend to pay any attention whatever to anything else he said.
 
 "Now for the third case.  What Gahagan said to Miss Artemis Asa-
 
-Smith on the doorstep was this:  'I'm going to the club; I promised
+[[smith|Smith]] on the doorstep was this:  'I'm going to the club; I promised
 
 to look in on some friends of mine on the way, the Fevershams; but
 
@@ -1104,7 +1104,7 @@ I don't believe they're back from Brighton.'  That's what he said.
 
 What Artemis heard, saw and blasted with her blazing eye, was a
 
-typical insolent, selfish, self-indulgent male brazenly bragging in
+typical insolent, selfish, [[Self|self]]-indulgent male brazenly bragging in
 
 the open street of his intention to go to his infamous club, where
 
@@ -1130,13 +1130,13 @@ especially to these rather jumpy modern girls, accustomed only to
 
 jump at the sentence that comes first--very often because there
 
-isn't any thing at all to come after it.  The Asa-Smith school of
+isn't any thing at all to come after it.  The Asa-[[smith|Smith]] school of
 
 drama, in which every sentence stops as soon as it starts, if it
 
-doesn't strike you as having much to do with the Tragedy of Cato,
+doesn't strike you as having much to do with the [[Tragedy]] of Cato,
 
-has had a very great deal to do with the Tragedy of Captain
+has had a very great deal to do with the [[Tragedy]] of Captain
 
 Gahagan.  They might have hanged my friend between them, with the
 
@@ -1176,11 +1176,11 @@ proved any of this."
 
 guessed it.  But I did ring up Gahagan and hear something of the
 
-truth of his words and movements that afternoon."
+[[Truth|truth]] of his words and movements that afternoon."
 
 
 
-"Truth!" cried Luke, with very extraordinary bitterness.
+"[[Truth]]!" cried Luke, with very extraordinary bitterness.
 
 
 
@@ -1208,7 +1208,7 @@ came back to him about an actual conspiracy against Gahagan; though
 
 certainly not one worked by Artemis or Joan.  At last he broke the
 
-silence very abruptly.
+[[Silence|silence]] very abruptly.
 
 
 
@@ -1220,7 +1220,7 @@ interest.  Since you study his interests so deeply, can you give me
 
 a piece of information about him?  DID Mr. Feversham and his wife
 
-come back from Brighton that day?  Was Mrs. Feversham at the house
+come back from Brighton that day?  Was Mrs. Feversham at the [[house]]
 
 that afternoon, whether Gahagan went there, or not?"
 
@@ -1230,7 +1230,7 @@ that afternoon, whether Gahagan went there, or not?"
 
 return next morning.  I have no idea why Feversham himself did
 
-return that night."
+return that [[Night|night]]."
 
 
 
@@ -1238,13 +1238,13 @@ return that night."
 
 
 
-Mr. Luke the solicitor rose abruptly from his seat and turned away.
+Mr. Luke the solicitor [[Rose|rose]] abruptly from his seat and turned away.
 
 "I cannot see any use in all these speculations of yours," he said,
 
 and, making a stiff salute, he took his top-hat and was gone from
 
-the house with a swiftness that seemed hardly normal.
+the [[house]] with a swiftness that seemed hardly normal.
 
 
 
@@ -1284,17 +1284,17 @@ human personality and stands apart from modes and manners.  For
 
 Joan had very much the same tricks of style; the same rather high,
 
-well-bred voice, the same sketchy, uncompleted sentences; but,
+[[Well|well]]-bred voice, the same sketchy, uncompleted sentences; but,
 
 fortunately, not the same purple powder and not in the least the
 
-same eyes or gestures or mind or immortal soul.  Mr. Pond, with all
+same eyes or gestures or mind or immortal [[Soul|soul]].  Mr. Pond, with all
 
 his old-fashioned prejudices, knew at once that in this other girl
 
 the new virtues were virtues, whether or not they were new.  She
 
-really was brave and generous and fond of the truth, though the
+really was brave and generous and fond of the [[Truth|truth]], though the
 
 Society papers did say so.  "She's all right," said Mr. Pond to
 
@@ -1306,9 +1306,9 @@ And oh, how much better than platinum!"
 
 Stopping at the next stage of his pilgrimage, he visited the
 
-monstrous and ludicrous large hotel which had the honour of housing
+monstrous and ludicrous large hotel which had the [[Honour|honour]] of housing
 
-Miss Artemis Asa-Smith of Pennsylvania.  She received him with the
+Miss Artemis Asa-[[smith|Smith]] of Pennsylvania.  She received him with the
 
 rather overwhelming enthusiasm which bore her everywhere through
 
@@ -1324,7 +1324,7 @@ which he always refused to say a word to anybody), the ardent
 
 Artemis continued to earn his approval by her reserves of good
 
-sense and good nature.  She saw the point about the order of the
+sense and good [[Nature|nature]].  She saw the point about the order of the
 
 topics mentioned, and its probable effect on her own mind; and so
 
@@ -1342,27 +1342,27 @@ himself together, before approaching his last duty--which also took
 
 the form of calling on a lady.  He might be excused; for it also
 
-involved passing through that grim garden where a man had lain
+involved passing through that grim [[Garden|garden]] where a man had lain
 
-murdered, to that high and sinister house where his widow was still
+murdered, to that high and sinister [[house]] where his widow was still
 
-living alone: the great Olivia, queen of tragedy, now tragic by a
+living [[Alone|alone]]: the great [[Olivia]], [[Queen|queen]] of [[Tragedy|tragedy]], now tragic by a
 
-double claim.
+[[Double|double]] claim.
 
 
 
 He stepped, not without repugnance, across that dark corner inside
 
-the gate and under the holly tree where poor Fred Feversham had
+the gate and under the holly tree where poor [[Fred]] Feversham had
 
-been spiked to the earth by a mere splinter of a sword; and as he
+been spiked to the earth by a mere splinter of a [[Sword|sword]]; and as he
 
 climbed the crooked path to the doorway in the narrow and bare
 
-brick house that stood above him like a tower, dark against the
+brick [[house]] that stood above him like a tower, dark against the
 
-stars, he revolved difficulties much deeper than had yet troubled
+[[Stars|stars]], he revolved difficulties much deeper than had yet troubled
 
 him in the more trifling matter of the supposed inconsistencies of
 
@@ -1374,7 +1374,7 @@ unfortunate Frederick Feversham; and there were some real reasons
 
 for directing the suspicion upon Gahagan.  After all, he had been
 
-in the habit of spending whole days, or half of the nights as well,
+in the habit of spending whole days, or half of the nights as [[Well|well]],
 
 with this actress; nothing seemed more horribly natural, more
 
@@ -1390,7 +1390,7 @@ was not an advertisement, as it would be for Violet Varney.  She
 
 had really the stronger motive of the two . . . but, good God, this
 
-would never do!  Suppose Gahagan really was innocent--but at that
+would never do!  Suppose Gahagan really was [[Innocent|innocent]]--but at that
 
 price!  Whatever his weaknesses, he was just the man to be hanged
 
@@ -1406,17 +1406,17 @@ what was there against Gahagan or the widow?  It seemed to him, as
 
 he forced himself to colder considerations, that it really resolved
 
-itself into a matter of time.
+itself into a matter of [[Time|time]].
 
 
 
-Gahagan had certainly spent a huge amount of TIME with Olivia; that
+Gahagan had certainly spent a huge amount of [[Time|TIME]] with [[Olivia]]; that
 
 was really the only external proof of his passion for her.  The
 
 proofs of his passion for Joan were very external indeed.  Pond
 
-could have sworn that the Irishman was really in love with Joan.
+could have sworn that the Irishman was really in [[Love|love]] with Joan.
 
 He threw himself at her head; and she, on the accepted standards of
 
@@ -1424,9 +1424,9 @@ modern youth, threw herself back at him.  But these encounters, one
 
 might say collisions, were as brief as they were brilliant.  Why
 
-did a lover full of such triumphs want to go off and spend such a
+did a [[Lover|lover]] full of such triumphs want to go off and spend such a
 
-lot of TIME with a much older woman? . . .  These broodings had
+lot of [[Time|TIME]] with a much older woman? . . .  These broodings had
 
 turned him into an automaton and brought him unconsciously past the
 
@@ -1434,11 +1434,11 @@ servants and up the stairs and into the very room where he was
 
 asked to wait for Mrs. Feversham.  He nervously picked up an old
 
-battered book, apparently dating from the time when the actress was
+battered book, apparently dating from the [[Time|time]] when the actress was
 
 a schoolgirl, for the flyleaf showed in a very schoolgirl hand:
 
-"Olivia Malone."  Perhaps the great Shakespearian actress claimed
+"[[Olivia]] Malone."  Perhaps the great Shakespearian actress claimed
 
 descent from the great Shakespearian critic.  But, anyhow, she must
 
@@ -1460,15 +1460,15 @@ brevity of a hieroglyphic.
 
 
 
-"Love never needs time.  But Friendship always needs time.  More
+"[[Love]] never needs [[Time|time]].  But [[Friendship]] always needs [[Time|time]].  More
 
-and more and more time, up to long past midnight."
+and more and more [[Time|time]], up to long past midnight."
 
 
 
 When Gahagan had done those crazy things that blazoned his devotion
 
-to Joan Varney, they had hardly occupied any time.  When he fell on
+to Joan Varney, they had hardly occupied any [[Time|time]].  When he fell on
 
 her from a parachute as she came out of church at Bournemouth, the
 
@@ -1478,17 +1478,17 @@ costing hundreds of pounds to stay with her half an hour longer in
 
 Samoa, it was only half an hour longer.  When he swam the
 
-Hellespont in imitation of Leander, it was only for exactly thirty-
+Hellespont in [[Imitation|imitation]] of Leander, it was only for exactly thirty-
 
-five minutes' conversation with Hero.  But Love is like that.  It
+five minutes' conversation with [[Hero]].  But [[Love]] is like that.  It
 
-is a thing of great moments; and it lives on the memory of moments.
+is a thing of great moments; and it lives on the [[Memory|memory]] of moments.
 
 Perhaps it is a fragile illusion; perhaps, on the other hand, it is
 
-eternal and beyond time.  But Friendship eats up time.  If poor
+eternal and beyond [[Time|time]].  But [[Friendship]] eats up [[Time|time]].  If poor
 
-Gahagan had a real intellectual friendship, then he would go on
+Gahagan had a real intellectual [[Friendship|friendship]], then he would go on
 
 talking till long past midnight.  And with whom would Gahagan be so
 
@@ -1496,7 +1496,7 @@ likely to have one as with an Irish actress who was chiefly
 
 interested in Shakespeare?  Even as he had the thought, he heard
 
-the rich and faintly Irish voice of Olivia welcoming him; and he
+the rich and faintly Irish voice of [[Olivia]] welcoming him; and he
 
 knew he was right.
 
@@ -1512,15 +1512,15 @@ called Poetry; or perhaps I ought to say it's generally called
 
 Recitation.  It's been suppressed by the police in all the English
 
-salons; and that's the worst of the Irish wrongs.  People in London
+salons; and that's the worst of the Irish wrongs.  People in [[London]]
 
-are not allowed to recite poems to each other all night, as they do
+are not allowed to recite [[Poems|poems]] to each other all [[Night|night]], as they do
 
 in Dublin.  Poor Peter used to come to me and talk Shakespeare till
 
 morning; but I had to turn him out at last.  When a man calls on
 
-ME, and tries to recite the whole of Romeo and Juliet, it gets past
+ME, and tries to recite the whole of [[Romeo]] and [[Juliet]], it gets past
 
 a joke.  But you see how it was.  The English won't allow the poor
 
@@ -1538,13 +1538,13 @@ that neither devils nor dynamite will stop them from reciting
 
 verse.  All the black clouds of morbid brooding on the murder which
 
-had oppressed him in the garden had rolled away at the first sound
+had oppressed him in the [[Garden|garden]] had rolled away at the first sound
 
 of this strong, good-humoured irishwoman's voice.  But after a
 
 little while they began to gather again, though more remotely.
 
-After all, as he had said before, SOMEBODY had killed poor Fred
+After all, as he had said before, SOMEBODY had killed poor [[Fred]]
 
 Feversham.
 
@@ -1552,13 +1552,13 @@ Feversham.
 
 He was quite certain now that it was not Feversham's wife.  He was
 
-practically certain it was not Gahagan.  He went home that night
+practically certain it was not Gahagan.  He went [[Home|home]] that [[Night|night]]
 
-turning the question over and over; but he had only one night's
+turning the question over and over; but he had only one [[Night|night]]'s
 
 unrest.  For the next day's paper contained the news of the
 
-unexplained suicide of Mr. Luke, of the well-known firm of Masters,
+unexplained [[suicide]] of Mr. Luke, of the [[Well|well]]-known firm of Masters,
 
 Luke and Masters; and Mr. Pond sat gently chiding himself, because
 
@@ -1570,7 +1570,7 @@ possibly discover one day that he has been swindled by his own
 
 solicitor.  Feversham had summoned Luke to that midnight meeting in
 
-the garden, in order to tell him so; but Mr. Luke, a man careful of
+the [[Garden|garden]], in order to tell him so; but Mr. Luke, a man careful of
 
 his professional standing, had taken very prompt steps to prevent
 

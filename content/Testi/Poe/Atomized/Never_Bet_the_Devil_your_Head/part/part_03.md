@@ -1,5 +1,5 @@
 ---
-title: "Never Bet the Devil your Head (part 3)"
+title: "[[Never Bet the Devil your Head]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Never-Bet-the-Devil-your-Head-(Poe)"
@@ -28,20 +28,20 @@ tags:
 
       Upon observing him more closely, I perceived that he wore a black silk
       apron over his small-clothes; and this was a thing which I thought very
-      odd. Before I had time to make any remark, however, upon so singular a
+      odd. Before I had [[Time|time]] to make any remark, however, upon so singular a
       circumstance, he interrupted me with a second “ahem!”
 
 
       To this observation I was not immediately prepared to reply. The fact is,
-      remarks of this laconic nature are nearly unanswerable. I have known a
+      remarks of this laconic [[Nature|nature]] are nearly unanswerable. I have known a
       Quarterly Review non-plussed by the word “Fudge!” I am not ashamed to say,
       therefore, that I turned to Mr. Dammit for assistance.
 
       “Dammit,” said I, “what are you about? don’t you hear?—the gentleman
       says ‘ahem!’” I looked sternly at my friend while I thus addressed him;
-      for, to say the truth, I felt particularly puzzled, and when a man is
+      for, to say the [[Truth|truth]], I felt particularly puzzled, and when a man is
       particularly puzzled he must knit his brows and look savage, or else he is
-      pretty sure to look like a fool.
+      pretty sure to look like a [[Fool|fool]].
 
       “Dammit,” observed I—although this sounded very much like an oath,
       than which nothing was further from my thoughts—“Dammit,” I
@@ -52,7 +52,7 @@ tags:
       think it profound myself; but I have noticed that the effect of our
       speeches is not always proportionate with their importance in our own
       eyes; and if I had shot Mr. D. through and through with a Paixhan bomb, or
-      knocked him in the head with the “Poets and Poetry of America,” he could
+      knocked him in the head with the “Poets and Poetry of [[America]],” he could
       hardly have been more discomfited than when I addressed him with those
       simple words: “Dammit, what are you about?—don’t you hear?—the
       gentleman says ‘ahem!’”
@@ -60,8 +60,8 @@ tags:
 
       “You don’t say so?” gasped he at length, after turning more colors than a
       pirate runs up, one after the other, when chased by a man-of-war. “Are you
-      quite sure he said that? Well, at all events I am in for it now, and may
-      as well put a bold face upon the matter. Here goes, then—ahem!”
+      quite sure he said that? [[Well]], at all events I am in for it now, and may
+      as [[Well|well]] put a bold face upon the matter. Here goes, then—ahem!”
 
 
       At this the little old gentleman seemed pleased—God only knows why.
@@ -81,9 +81,9 @@ tags:
       the corners of his mouth—“ahem!” And “ahem!” said he again, after a
       pause; and not another word more than “ahem!” did I ever know him to say
       after that. “Aha!” thought I, without expressing myself aloud—“this
-      is quite a remarkable silence on the part of Toby Dammit, and is no doubt
+      is quite a remarkable [[Silence|silence]] on the part of Toby Dammit, and is no [[Doubt|doubt]]
       a consequence of his verbosity upon a previous occasion. One extreme
-      induces another. I wonder if he has forgotten the many unanswerable
+      induces another. I [[Wonder|wonder]] if he has forgotten the many unanswerable
       questions which he propounded to me so fluently on the day when I gave him
       my last lecture? At all events, he is cured of the transcendentals.”
 
@@ -93,7 +93,7 @@ tags:
 
       The old gentleman now took him by the arm, and led him more into the shade
       of the bridge—a few paces back from the turnstile. “My good fellow,”
-       said he, “I make it a point of conscience to allow you this much run. Wait
+       said he, “I make it a point of [[Conscience|conscience]] to allow you this much run. Wait
       here, till I take my place by the stile, so that I may see whether you go
       over it handsomely, and transcendentally, and don’t omit any flourishes of
       the pigeon-wing. A mere form, you know. I will say ‘one, two, three, and

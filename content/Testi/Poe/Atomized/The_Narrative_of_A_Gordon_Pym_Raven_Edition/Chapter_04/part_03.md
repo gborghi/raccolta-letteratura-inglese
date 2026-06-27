@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-      time and progressing science to verify some of the most important
+      [[Time|time]] and progressing science to verify some of the most important
 
       and most improbable of my statements.
 
@@ -34,7 +34,7 @@ tags:
 
       below when the mutineers came up. Presently the two made their
 
-      appearance, the captain pale as death, but somewhat recovered
+      appearance, the captain pale as [[Death|death]], but somewhat recovered
 
       from the effects of his wound. He spoke to the men in a voice
 
@@ -44,7 +44,7 @@ tags:
 
       chose, and to take no steps for bringing them to justice. He
 
-      might as well have spoken to the winds. Two of the ruffians
+      might as [[Well|well]] have spoken to the winds. Two of the ruffians
 
       seized him by the arms and hurled him over the brig’s side into
 
@@ -60,19 +60,19 @@ tags:
 
       of being permitted to bid his father farewell. A handful of
 
-      sea-biscuit and a jug of water were now handed down; but neither
+      sea-biscuit and a jug of [[Water|water]] were now handed down; but neither
 
       mast, sail, oar, nor compass. The boat was towed astern for a few
 
       minutes, during which the mutineers held another consultation—it
 
-      was then finally cut adrift. By this time night had come on—there
+      was then finally cut adrift. By this [[Time|time]] [[Night|night]] had come on—there
 
-      were neither moon nor stars visible—and a short and ugly sea was
+      were neither [[Moon|moon]] nor [[Stars|stars]] visible—and a short and ugly sea was
 
-      running, although there was no great deal of wind. The boat was
+      running, although there was no great deal of [[Wind|wind]]. The boat was
 
-      instantly out of sight, and little hope could be entertained for
+      instantly out of sight, and little [[Hope|hope]] could be entertained for
 
       the unfortunate sufferers who were in it. This event happened,
 
@@ -96,7 +96,7 @@ tags:
 
       some piratical expedition, in which, from all that could be
 
-      understood, a ship was to be intercepted on her way from the Cape
+      understood, a [[Ship|ship]] was to be intercepted on her way from the Cape
 
       Verd Islands to Porto Rico. No attention was paid to Augustus,
 
@@ -116,7 +116,7 @@ tags:
 
       distressing result of his condition; and, indeed, I had never
 
-      reason to doubt the sincerity of his friendship. More than once
+      reason to [[Doubt|doubt]] the sincerity of his [[Friendship|friendship]]. More than once
 
       he had resolved to acquaint the mutineers with the secret of my
 
@@ -124,7 +124,7 @@ tags:
 
       recollection of the atrocities he had already beheld, and partly
 
-      through a hope of being able soon to bring me relief. For the
+      through a [[Hope|hope]] of being able soon to bring me relief. For the
 
       latter purpose he was constantly on the watch; but, in spite of
 
@@ -132,7 +132,7 @@ tags:
 
       was cut adrift before any chance occurred. At length, on the
 
-      night of the third day, there came on a heavy blow from the
+      [[Night|night]] of the third day, there came on a heavy blow from the
 
       eastward, and all hands were called up to take in sail. During
 
@@ -142,7 +142,7 @@ tags:
 
       that the latter had been rendered a place of deposit for a
 
-      variety of sea-stores and ship-furniture, and that several
+      variety of sea-stores and [[Ship|ship]]-furniture, and that several
 
       fathoms of old chain-cable, which had been stowed away beneath
 

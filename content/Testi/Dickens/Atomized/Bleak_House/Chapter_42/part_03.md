@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 42 (part 3)"
+title: "Bleak [[house|House]] — Chapter 42 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -23,11 +23,11 @@ with folded arms.
 
 “So much the poorer you; so much the richer I! Look, mistress, this
 is the key of my wine-cellar. It is a large key, but the keys of
-prisons are larger. In this city there are houses of correction
+prisons are larger. In this [[City|city]] there are houses of correction
 (where the treadmills are, for women), the gates of which are very
-strong and heavy, and no doubt the keys too. I am afraid a lady of
+strong and heavy, and no [[Doubt|doubt]] the keys too. I am afraid a lady of
 your spirit and activity would find it an inconvenience to have one
-of those keys turned upon her for any length of time. What do you
+of those keys turned upon her for any length of [[Time|time]]. What do you
 think?”
 
 “I think,” mademoiselle replies without any action and in a clear,
@@ -35,7 +35,7 @@ obliging voice, “that you are a miserable wretch.”
 
 “Probably,” returns Mr. Tulkinghorn, quietly blowing his nose. “But I
 don’t ask what you think of myself; I ask what you think of the
-prison.”
+[[Prison|prison]].”
 
 “Nothing. What does it matter to me?”
 
@@ -43,18 +43,18 @@ prison.”
 putting away his handkerchief and adjusting his frill; “the law is so
 despotic here that it interferes to prevent any of our good English
 citizens from being troubled, even by a lady’s visits against his
-desire. And on his complaining that he is so troubled, it takes hold
-of the troublesome lady and shuts her up in prison under hard
+[[Desire|desire]]. And on his complaining that he is so troubled, it takes hold
+of the troublesome lady and shuts her up in [[Prison|prison]] under hard
 discipline. Turns the key upon her, mistress.” Illustrating with the
 cellar-key.
 
 “Truly?” returns mademoiselle in the same pleasant voice. “That is
-droll! But—my faith!—still what does it matter to me?”
+droll! But—my [[Faith|faith]]!—still what does it matter to me?”
 
 “My fair friend,” says Mr. Tulkinghorn, “make another visit here, or
 at Mr. Snagsby’s, and you shall learn.”
 
-“In that case you will send me to the prison, perhaps?”
+“In that case you will send me to the [[Prison|prison]], perhaps?”
 
 “Perhaps.”
 
@@ -73,7 +73,7 @@ ignominious manner, strapped down on a board, my good wench.”
 “I will try if you dare to do it!”
 
 “And if,” pursues the lawyer without minding her, “I place you in
-that good condition of being locked up in jail, it will be some time
+that good condition of being locked up in jail, it will be some [[Time|time]]
 before you find yourself at liberty again.”
 
 “I will prove you,” repeats mademoiselle in her former whisper.

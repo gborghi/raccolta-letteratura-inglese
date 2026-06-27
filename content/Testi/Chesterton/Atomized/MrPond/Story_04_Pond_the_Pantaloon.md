@@ -1,5 +1,5 @@
 ---
-title: "MrPond — Pond the Pantaloon"
+title: "[[MrPond]] — Pond the Pantaloon"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/MrPond-(Chesterton)"
@@ -22,7 +22,7 @@ POND THE PANTALOON
 
 "No, no, no," said Mr. Pond, with a gentle shrillness which he
 
-occasionally showed, when any doubt was thrown on the prosaic
+occasionally showed, when any [[Doubt|doubt]] was thrown on the prosaic
 
 precision of his statements or arguments.  "I did not say it was a
 
@@ -46,7 +46,7 @@ reported in that way, may be made to sound almost absurd."
 
 "Almost," said Captain Gahagan, nodding gravely and gazing at the
 
-little man opposite him, rather as if he were a mysterious monster
+little man opposite him, rather as if he were a mysterious [[Monster|monster]]
 
 in a tank.
 
@@ -54,7 +54,7 @@ in a tank.
 
 Mr. Pond was in his private tank, or private office, in a hive of
 
-Government offices, sitting at a desk and busy at the work of blue-
+[[government|Government]] offices, sitting at a desk and busy at the work of blue-
 
 pencilling the proofs of some official report; whence had arisen
 
@@ -70,27 +70,27 @@ watching other people work.
 
 
 
-"I may resemble Polonius," said Pond, modestly; and, indeed, his
+"I may resemble [[Polonius]]," said Pond, modestly; and, indeed, his
 
 old-fashioned beard, owlish expression and official courtliness
 
-made the comparison almost apt.  "I may be like Polonius; but I am
+made the comparison almost apt.  "I may be like [[Polonius]]; but I am
 
-not Polonius--which is just the point I wish to illustrate.  Hamlet
+not [[Polonius]]--which is just the point I wish to illustrate.  [[Hamlet]]
 
-told Polonius that a cloud in the sky was like a camel.  The effect
+told [[Polonius]] that a cloud in the sky was like a camel.  The effect
 
-would have been somewhat different if Hamlet had stated, seriously
+would have been somewhat different if [[Hamlet]] had stated, seriously
 
 and scientifically, that he had seen a camel in the sky.  In that
 
-case, Polonius might have been pardoned in regarding the Prince's
+case, [[Polonius]] might have been pardoned in regarding the Prince's
 
-madness as finally proved.  Touchy officials have been known to
+[[Madness|madness]] as finally proved.  Touchy officials have been known to
 
 express the view that you, my dear Gahagan, come into this office
 
-like a buffalo, and there 'lie wallowing through the long summer
+like a buffalo, and there 'lie wallowing through the long [[Summer|summer]]
 
 day,' as an outmoded poet puts it.  But if the authorities of the
 
@@ -102,7 +102,7 @@ inquiries."
 
 
 
-"No doubt you have my dossier," said Gahagan, "with official
+"No [[Doubt|doubt]] you have my dossier," said Gahagan, "with official
 
 calculations and statistics about the number of my legs, not to
 
@@ -110,7 +110,7 @@ mention my horns; all annotated with blue and red pencil--and most
 
 certainly with some very black marks against my name.  But that
 
-brings me back to the original subject of my simple wonder.  You
+brings me back to the original subject of my simple [[Wonder|wonder]].  You
 
 hardly seem to have noticed what was really peculiar in your own
 
@@ -126,7 +126,7 @@ faint smile.  "You would say, for instance, that my notes on this
 
 proof are in blue pencil; and yet--"  He held out a pencil with its
 
-red chalk point towards the other.  It looked like a mild conjuring
+red [[chalk]] point towards the other.  It looked like a mild conjuring
 
 trick, until he twiddled it so as to show it was one of those
 
@@ -152,7 +152,7 @@ impatience.  "I should say what I said before; that the queer thing
 
 about you is that you are quite blind to what was really mad in
 
-your statement.  You can't see the paradox in your own remark.  You
+your statement.  You can't see the [[Paradox|paradox]] in your own remark.  You
 
 can't see the point of your own remark."
 
@@ -184,7 +184,7 @@ breaking a crystal or shattering a perfectly rounded soap-bubble.
 
 To pierce the pure and spherical perfection of your maniacal calm
 
-would be like invading the innocence of a child.  If you really and
+would be like invading the [[innocence]] of a [[Child|child]].  If you really and
 
 truly do not know when you are talking nonsense, if you do not even
 
@@ -202,7 +202,7 @@ And he sauntered out of the room, swinging his stick, in the
 
 direction of the very important department presided over by Sir
 
-Hubert Wotton; that he might enjoy the inspiriting spectacle of
+[[Hubert]] Wotton; that he might enjoy the inspiriting spectacle of
 
 another friend doing his day's work and being interrupted by an
 
@@ -210,11 +210,11 @@ idle man.
 
 
 
-Sir Hubert Wotton, however, was of a type somewhat different from
+Sir [[Hubert]] Wotton, however, was of a type somewhat different from
 
 Mr. Pond; in that, even if he was busy, he was never fussy.  Mr.
 
-Pond was bent over the poised point of his blue pencil; Sir Hubert
+Pond was bent over the poised point of his blue pencil; Sir [[Hubert]]
 
 was first visible behind the red end of a cigar, which he was
 
@@ -282,7 +282,7 @@ he's really had some very extraordinary experiences.  He doesn't
 
 talk about them; he doesn't want to talk about them; but he does
 
-want to talk about reason and philosophy and theoretical things in
+want to talk about reason and [[philosophy]] and theoretical things in
 
 books; you know he loves reading all the rational eighteenth-
 
@@ -290,7 +290,7 @@ century literature.  But when, in the course of talking in the
 
 abstract, he comes on some concrete thing that he has actually DONE--
 
-well, I can only say he crumples it up.  He tries to crush it into
+[[Well|well]], I can only say he crumples it up.  He tries to crush it into
 
 a small space and it simply sounds contradictory.  Almost every one
 
@@ -306,7 +306,7 @@ radiant reflection.  "Yes, you're right.  You can't expect me to be
 
 taken in, mind you, by most of your swagger of stoicism in the
 
-English public-school man.  Half the time they are simply showing
+English public-school man.  Half the [[Time|time]] they are simply showing
 
 off by not showing off.  But in Pond it's genuine.  He really does
 
@@ -318,7 +318,7 @@ this particular manner, when he really does want to keep the secret
 
 of his services.  In other words, you mean there is a story behind
 
-every paradox of Pond.  Certainly that is true--of all those cases
+every [[Paradox|paradox]] of Pond.  Certainly that is true--of all those cases
 
 when I have been told the story."
 
@@ -356,23 +356,23 @@ reminiscently, "before he turned the sixth shot on himself."
 
 
 
-"Well, I'm blowed," said the Captain elegantly.  "I always thought
+"[[Well]], I'm blowed," said the Captain elegantly.  "I always thought
 
 Pond the most charming of tea-table comedies; I never knew he
 
-figured in a melodrama.  I should as soon have thought of his
+figured in a [[Melodrama|melodrama]].  I should as soon have thought of his
 
 figuring in a fairy-pantomime.  But he seems somehow associated
 
 with theatrical things at the moment.  He asked me himself if he
 
-was like Polonius; and I suppose some malicious people would say he
+was like [[Polonius]]; and I suppose some malicious people would say he
 
 was more like Pantaloon.  I like the notion of you and he magically
 
-transplanted to a Christmas pantomime:  'Harlequin Hubert and the
+transplanted to a Christmas pantomime:  'Harlequin [[Hubert]] and the
 
-Fairies' Pond,' all ending with a real Harlequinade, with red fire
+Fairies' Pond,' all ending with a real Harlequinade, with red [[Fire|fire]]
 
 and the Pantaloon falling over the Policeman.  Pardon my talking
 
@@ -382,7 +382,7 @@ impossible things."
 
 
 
-"It's curious you should call it impossible," said Sir Hubert
+"It's curious you should call it impossible," said Sir [[Hubert]]
 
 Wotton, knitting his brows, "because that's almost exactly what
 
@@ -390,7 +390,7 @@ really happened to us."
 
 
 
-Sir Hubert Wotton showed a certain reticence and deliberate
+Sir [[Hubert]] Wotton showed a certain reticence and deliberate
 
 vagueness about the official details of the story; even in telling
 
@@ -400,9 +400,9 @@ especially, there are enormous events which never get into the
 
 newspapers, and are apparently intended never to get into the
 
-history-books.  It may be enough to say here that there was at one
+[[history]]-books.  It may be enough to say here that there was at one
 
-time under the surface, but very near to the surface, a conspiracy
+[[Time|time]] under the surface, but very near to the surface, a conspiracy
 
 aiming at a coup d'état, which was backed by a Continental Power of
 
@@ -414,15 +414,15 @@ certain number of minor officials had been corrupted or converted
 
 by the conspirators.  Hence, when it was a question of sending
 
-certain very private official documents (about the nature of which
+certain very private official documents (about the [[Nature|nature]] of which
 
 Wotton remained somewhat hazy to the end) from one of the great
 
-northern ports to a particular Government department in London, the
+northern ports to a particular [[government|Government]] department in [[London]], the
 
 first Council was a very small and select one, presided over by Sir
 
-Hubert and held in the smaller office of Mr. Pond.  Indeed, Mr.
+[[Hubert]] and held in the smaller office of Mr. Pond.  Indeed, Mr.
 
 Pond was the official in charge of the job.  The only other person
 
@@ -432,7 +432,7 @@ Yard; Wotton had brought his clerk with him to arrange and explain
 
 certain matters; but had later made an excuse for sending the man
 
-out on an errand.  Dyer, the detective from the Yard, a heavy-
+out on an errand.  Dyer, the [[Detective|detective]] from the Yard, a heavy-
 
 shouldered, hard-headed person with a toothbrush moustache,
 
@@ -442,7 +442,7 @@ and arrangements he would consider necessary for protecting the
 
 transport of the papers to their destination.  He wanted an
 
-armoured car with a machine-gun, a certain number of men carrying
+armoured car with a [[Machine|machine]]-gun, a certain number of men carrying
 
 concealed arms, a police search of everybody involved in first
 
@@ -480,7 +480,7 @@ than anybody would send an important letter by registered post."
 
 
 
-"Well, you must pardon my dullness," said Sir Hubert, "but, as a
+"[[Well]], you must pardon my dullness," said Sir [[Hubert]], "but, as a
 
 matter of fact, I have heard of people sending an important letter
 
@@ -506,7 +506,7 @@ amusement.
 
 to prevent a document from being dropped down a drain, or thrown
 
-into a dustbin, or used to light the fire or to make a bird's nest,
+into a dustbin, or used to light the [[Fire|fire]] or to make a bird's nest,
 
 or any other accident of neglect, then it is a good thing to draw
 
@@ -536,7 +536,7 @@ and sent along with a thousand others looking exactly the same."
 
 It is a tribute to the essential shrewdness, underlying the
 
-apparent woodenness of Wotton and Dyer, that the paradox of Pond
+apparent woodenness of Wotton and Dyer, that the [[Paradox|paradox]] of Pond
 
 prevailed.  The documents, however, were too bulky to be treated as
 
@@ -568,9 +568,9 @@ country.  Now if we were in--"
 
 He shut his mouth rather sharply, as a discreet knock sounded on
 
-the door, and Sir Hubert's clerk glided in to say he had discharged
+the door, and Sir [[Hubert]]'s clerk glided in to say he had discharged
 
-his commission.  Sir Hubert did not see him at first, his frowning
+his commission.  Sir [[Hubert]] did not see him at first, his frowning
 
 gaze being fixed on the railway-map of the route to be pursued; and
 
@@ -588,7 +588,7 @@ costume; but his wide face had that indescribable look which is
 
 sometimes seen, of which we can only say that it suggests the large
 
-head on the little figure of a dwarf, or perhaps that sunken
+head on the little figure of a [[Dwarf|dwarf]], or perhaps that sunken
 
 between the shoulders of a hunchback; the face is not normal, even
 
@@ -600,7 +600,7 @@ noticeably ill at ease when he silently handed papers to his
 
 superior; and, last but not least, that he had started visibly when
 
-he saw the detective from Scotland Yard.
+he saw the [[Detective|detective]] from Scotland Yard.
 
 
 
@@ -634,7 +634,7 @@ enter or leave the station.
 
 "I have told our people they mustn't even let US out of the
 
-station," he said, "without close examination, for fear somebody
+station," he said, "without close examination, for [[Fear|fear]] somebody
 
 should have a fancy for dressing up as Mr. Pond."
 
@@ -648,13 +648,13 @@ station; and one can hardly say it looks particularly festive."
 
 
 
-Nothing, indeed, can well look more desolate than one of the
+Nothing, indeed, can [[Well|well]] look more desolate than one of the
 
 numerous side platforms of an empty railway-station on a dreary
 
-winter day; unless it is the empty Third Class Waiting-Room which
+[[Winter|winter]] day; unless it is the empty Third Class Waiting-Room which
 
-is provided to be a human refuge from the winter blast.  Somehow
+is provided to be a human refuge from the [[Winter|winter]] blast.  Somehow
 
 the waiting-room looks even less human than the platform from which
 
@@ -674,7 +674,7 @@ place to be spending any part of Christmas; but Mr. Pond had a
 
 stoical cheerfulness under such circumstances which rather
 
-surprised those who only knew his catlike love of comfortable
+surprised those who only knew his catlike [[Love|love]] of comfortable
 
 domestic routine.
 
@@ -688,7 +688,7 @@ broken pens on the corner table.
 
 
 
-"Well," he said, turning away, "they couldn't do very much with
+"[[Well]]," he said, turning away, "they couldn't do very much with
 
 those, anyhow; but, of course, they might have pencils or fountain-
 
@@ -698,9 +698,9 @@ pens.  I'm rather glad I did it, on the whole."
 
 "Pond," said Wotton gravely, "this is in your department anyhow;
 
-and I'm sure that Dyer will agree that we've done well to follow
+and I'm sure that Dyer will agree that we've done [[Well|well]] to follow
 
-your advice so far.  But I hope you don't mind my having a mild
+your advice so far.  But I [[Hope|hope]] you don't mind my having a mild
 
 curiosity about what it is that you've done."
 
@@ -740,7 +740,7 @@ little against them.  But what could an isolated man do?"
 
 
 
-"Well," said Wotton rather impatiently.  "What could he do?"
+"[[Well]]," said Wotton rather impatiently.  "What could he do?"
 
 
 
@@ -748,7 +748,7 @@ little against them.  But what could an isolated man do?"
 
 think about what a spy or stray intruder might do, in a quiet way
 
-without any noise of battle, murder or sudden death, if he did
+without any noise of battle, murder or sudden [[Death|death]], if he did
 
 manage somehow to spot the right box.  So I got on to the private
 
@@ -760,7 +760,7 @@ which the address seemed to have been altered; anything crossed out
 
 or anything substituted.  A man might conceivably snatch a moment
 
-to re-direct a box to some of his friends in London; though he
+to re-direct a box to some of his friends in [[London]]; though he
 
 could never take the box out of the station without being searched.
 
@@ -768,29 +768,29 @@ That's what I did; and it was these broken-down penholders that
 
 reminded me of it.  It's a pretty broken-down place to spend
 
-Christmas in, as you say; they have given us a sort of a fire,
+Christmas in, as you say; they have given us a sort of a [[Fire|fire]],
 
 which is more than some waiting-rooms do; but it looks as if it
 
-were dying of depression; and I don't wonder."
+were dying of depression; and I don't [[Wonder|wonder]]."
 
 
 
-He stirred up the neglected fire, making quite a creditable blaze,
+He stirred up the neglected [[Fire|fire]], making quite a creditable blaze,
 
 with his usual instinct for the comforts of life; then he added:
 
-"I hope you don't disagree with that second precaution of mine."
+"I [[Hope|hope]] you don't disagree with that second precaution of mine."
 
 
 
-"No; I think that also is a very sensible precaution; though I hope
+"No; I think that also is a very sensible precaution; though I [[Hope|hope]]
 
 there is no chance of anybody hitting on the right box, even by
 
-accident."  Hubert Wotton frowned a moment at the renewed flame and
+accident."  [[Hubert]] Wotton frowned a moment at the renewed flame and
 
-the dancing sparks, and then said gloomily, "This is about the time
+the dancing sparks, and then said gloomily, "This is about the [[Time|time]]
 
 when people at Christmas are going to the pantomime.  Or, at any
 
@@ -804,27 +804,27 @@ abstraction.  At last he said:
 
 
 
-"I sometimes wonder whether things weren't better when pictures
+"I sometimes [[Wonder|wonder]] whether things weren't better when pictures
 
-meant the pictures in the fire, instead of the pictures on the
+meant the pictures in the [[Fire|fire]], instead of the pictures on the
 
 film."
 
 
 
-Sir Hubert Wotton gruffly suggested, in a general way, that the
+Sir [[Hubert]] Wotton gruffly suggested, in a general way, that the
 
-dingy fire in a Third Class Waiting-Room was not one in which he
+dingy [[Fire|fire]] in a Third Class Waiting-Room was not one in which he
 
 would prefer to look for pictures.
 
 
 
-"The fire pictures, like the cloud pictures," went on Mr. Pond,
+"The [[Fire|fire]] pictures, like the cloud pictures," went on Mr. Pond,
 
-"are just incomplete enough to call out the imagination to complete
+"are just incomplete enough to call out the [[Imagination|imagination]] to complete
 
-them.  Besides," he added, cheerfully poking the fire, "you can
+them.  Besides," he added, cheerfully poking the [[Fire|fire]], "you can
 
 stick a poker into the coals and break them up into a different
 
@@ -854,7 +854,7 @@ three of the officials involved.
 
 "I'll stay on this platform," he said; "in fact I shall stay on
 
-this platform all night if necessary.  This is my particular job.
+this platform all [[Night|night]] if necessary.  This is my particular job.
 
 But you go and get your lunch first and come back; and I'll see if
 
@@ -920,25 +920,25 @@ shack."
 
 "I consider it quite a Christmas triumph," said Mr. Pond, with
 
-undiminished cheerfulness, "that we have managed to keep the fire
+undiminished cheerfulness, "that we have managed to keep the [[Fire|fire]]
 
-in, anyhow. . . .  Why, I believe it's begun to snow."
+in, anyhow. . . .  Why, I believe it's begun to [[Snow|snow]]."
 
 
 
-For some time they had noted that the afternoon, already darkening
+For some [[Time|time]] they had noted that the afternoon, already darkening
 
-towards the early winter evening, had something of that lurid
+towards the early [[Winter|winter]] evening, had something of that lurid
 
-greenish light which often glows under the load of snow-clouds; a
+greenish light which often glows under the load of [[Snow|snow]]-clouds; a
 
 sprinkling began to fall as they went along the apparently
 
-interminable platform; and by the time they reached the austere
+interminable platform; and by the [[Time|time]] they reached the austere
 
 waiting-room, its roof and doorway were powdered with silver.  The
 
-fire was burning briskly inside; Dyer had evidently been keeping
+[[Fire|fire]] was burning briskly inside; Dyer had evidently been keeping
 
 himself warm.
 
@@ -948,13 +948,13 @@ himself warm.
 
 beginning to look like a Christmas card.  Our dismal salle
 
-d'attente will soon be a parody of Father Christmas's cottage in a
+d'attente will soon be a [[Parody|parody]] of Father Christmas's cottage in a
 
 pantomime."
 
 
 
-"The whole thing is like the parody of a pantomime," said Pond in a
+"The whole thing is like the [[Parody|parody]] of a pantomime," said Pond in a
 
 lower and more disquieted tone, "and as you say, it is very queer."
 
@@ -1004,19 +1004,19 @@ telephoning as you did."
 
 
 
-"Well," said Pond obstinately, "and what would they do then; if
+"[[Well]]," said Pond obstinately, "and what would they do then; if
 
 they knew I'd telephoned?"
 
 
 
-Wotton looked puzzled; and Pond sat down in silence, stirring the
+Wotton looked puzzled; and Pond sat down in [[Silence|silence]], stirring the
 
-fire and staring at it.
+[[Fire|fire]] and staring at it.
 
 
 
-After a silence he said abruptly:  "I wish Dyer were back."
+After a [[Silence|silence]] he said abruptly:  "I wish Dyer were back."
 
 
 
@@ -1028,13 +1028,13 @@ finished the business; and it's all over here."
 
 
 
-"I fear," said Pond, without taking his head out of the fireplace,
+"I [[Fear|fear]]," said Pond, without taking his head out of the fireplace,
 
 "that it's only just going to begin."
 
 
 
-There was another silence of growing mystification, like the
+There was another [[Silence|silence]] of growing [[Mystification|mystification]], like the
 
 gathering darkness outside.  And then Pond observed suddenly:
 
@@ -1048,13 +1048,13 @@ Wotton's face only expressed the stolid stupefaction natural under
 
 the circumstances; but in his depths, which were deeper than some
 
-supposed, an unearthly chill touched him for the first time.
+supposed, an unearthly chill touched him for the first [[Time|time]].
 
-Nightmare stirred in its sleep; not the mere practical perplexity
+[[nightmare|Nightmare]] stirred in its [[Sleep|sleep]]; not the mere practical perplexity
 
 of a problem, but all those doubts beyond reason which revolve
 
-round place and time.  Before he could speak, Pond added:
+round place and [[Time|time]].  Before he could speak, Pond added:
 
 
 
@@ -1068,7 +1068,7 @@ locked up the station; and there is nobody on it but ourselves;
 
 except that girl in the bar.  You don't imagine she has put a new
 
-set of furniture and fire-irons in all the waiting-rooms?"
+set of furniture and [[Fire|fire]]-irons in all the waiting-rooms?"
 
 
 
@@ -1080,17 +1080,17 @@ shape of poker."
 
 Almost as he spoke, he leapt away from the fireplace, leaving the
 
-poker in the fire, and ran to the doorway, craning out his head and
+poker in the [[Fire|fire]], and ran to the doorway, craning out his head and
 
 listening.  His companion listened also; and recognized as an
 
-objective reality, which was no nightmare, a noise of scrambling
+objective reality, which was no [[nightmare]], a noise of scrambling
 
 footsteps somewhere on the platform.  But, when they ran out, the
 
 platform appeared to be perfectly empty, now a blank and solid
 
-table of snow; and they began to realize that the noise came from
+table of [[Snow|snow]]; and they began to realize that the noise came from
 
 underneath their feet.  Looking over the railing, they saw that the
 
@@ -1098,7 +1098,7 @@ whole raised woodwork of the station was intercepted at one point
 
 by a belt of grassy embankment, very grey and discoloured with the
 
-smoke; they were just in time to see a dark lean figure scramble up
+smoke; they were just in [[Time|time]] to see a dark lean figure scramble up
 
 this bank and dive under the platform, in such a manner that he was
 
@@ -1116,13 +1116,13 @@ station, against such very special difficulties, Wotton's mind,
 
 already full of suspicions, decided at a glance that he was very
 
-much of a dark horse.  Curiously enough, he looked a little like a
+much of a dark [[Horse|horse]].  Curiously enough, he looked a little like a
 
-horse, having a long equine visage and a strange sort of stoop; he
+[[Horse|horse]], having a long equine visage and a strange sort of stoop; he
 
 was swarthy and haggard and his hollow eyes were such dense patches
 
-of shadow that it was a sort of shock to realize that the eyes
+of [[Shadow|shadow]] that it was a sort of shock to realize that the eyes
 
 within were glaring.  He was dressed with the last extreme of
 
@@ -1130,11 +1130,11 @@ shabbiness, in a long threadbare and almost ragged waterproof; and
 
 they thought they had never seen before a face and figure so
 
-symbolic of desolation and dreary tragedy.  It seemed to Wotton
+symbolic of desolation and dreary [[Tragedy|tragedy]].  It seemed to Wotton
 
 that he himself had his first real glimpse of those depths in which
 
-despair manufactures the many revolutionary movements which it had
+[[Despair|despair]] manufactures the many revolutionary movements which it had
 
 been his duty to combat; but, of necessity, his duty prevailed.
 
@@ -1186,13 +1186,13 @@ to do with the story."
 
 
 
-But Sir Hubert Wotton was having no more for the moment of Mr.
+But Sir [[Hubert]] Wotton was having no more for the moment of Mr.
 
 Pond's fanciful mysteries; least of all, of the last and most
 
 mysterious, the mystery of his mirth.  He had already begun to
 
-cross-examine the stranger in the style of the police; and the
+[[Cross|cross]]-examine the stranger in the style of the police; and the
 
 stranger stood up to him with gloomy but unshaken lucidity.  His
 
@@ -1212,7 +1212,7 @@ he been cheered by the assurance of the police at the entrance that
 
 regular trains for passengers would be running again in an hour, at
 
-a time that would make him too late for his appointment; and lose
+a [[Time|time]] that would make him too late for his appointment; and lose
 
 him the first few shillings he had earned in many months.  He had
 
@@ -1236,7 +1236,7 @@ was still smouldering with some suspicions.
 
 "I haven't got my visiting-card," said the sombre Mr. Hankin.  "I
 
-lost it along with my Rolls-Royce and my little castle in Scotland.
+lost it along with my Rolls-Royce and my little [[Castle|castle]] in Scotland.
 
 But you can see me in my resplendent and fashionable evening-dress,
 
@@ -1268,11 +1268,11 @@ pantomime, such as they had been discussing.
 
 the awestruck Mr. Pond.  "But I feel as if he had fallen out of the
 
-sky like the snow.  Fate or the fairies have added this final
+sky like the [[Snow|snow]].  Fate or the fairies have added this final
 
 touch; see how they built up gradually round us the whole palace of
 
-pantomime in this wilderness; first the firelight and then the snow
+pantomime in this wilderness; first the firelight and then the [[Snow|snow]]
 
 and now the only original 'Here We Are Again!'  Such a cosy happy
 
@@ -1298,7 +1298,7 @@ to complete your costume, Sir."
 
 He suddenly plucked out the poker, from where it was standing in
 
-the fire, and it emerged already red-hot.  He handed it politely to
+the [[Fire|fire]], and it emerged already red-hot.  He handed it politely to
 
 the Clown.
 
@@ -1314,11 +1314,11 @@ you make the Policeman jump."
 
 Wotton stared at a scene to which he had now entirely lost the
 
-clue; and in the silence that followed, the long platform outside
+clue; and in the [[Silence|silence]] that followed, the long platform outside
 
 resounded with a firm and heavy stride coming nearer and nearer.
 
-The large figure of Dyer the detective appeared framed in the
+The large figure of Dyer the [[Detective|detective]] appeared framed in the
 
 doorway; and he stood as if turned to stone by what he saw.
 
@@ -1344,9 +1344,9 @@ astonished.  He was staring only at the poker; and he obviously saw
 
 nothing funny about it.  His face was distorted by almost demoniac
 
-fear and fury; and he looked at the red pantomime poker rather as
+[[Fear|fear]] and fury; and he looked at the red pantomime poker rather as
 
-if it had been the flaming sword of an accusing angel.
+if it had been the flaming [[Sword|sword]] of an accusing angel.
 
 
 
@@ -1372,23 +1372,23 @@ were struggling with the would-be assassin, and forcing his hand
 
 away.  Finally, he managed to wrench his hand loose again and twist
 
-the pistol inwards upon himself; the body of the big man stiffened
+the [[Pistol|pistol]] inwards upon himself; the [[Body|body]] of the big man stiffened
 
-in their arms; and Dyer of the detective service lay dead on the
+in their arms; and Dyer of the [[Detective|detective]] service lay dead on the
 
-floor before the dancing fire.
-
-
+floor before the dancing [[Fire|fire]].
 
 
 
 
 
-The explanation of events was given by Mr. Pond some time later;
 
-for his first action after the catastrophe left no time for
 
-explanations.  He had repeatedly, at intervals, looked at the clock
+The explanation of events was given by Mr. Pond some [[Time|time]] later;
+
+for his first action after the catastrophe left no [[Time|time]] for
+
+explanations.  He had repeatedly, at intervals, looked at the [[Clock|clock]]
 
 in the waiting-room, and seemed satisfied; but he was leaving
 
@@ -1400,7 +1400,7 @@ earlier in the day.  He came out wiping his brow, in spite of the
 
 cold; but wearing a smile of relative relief in the midst of the
 
-tragedy.  When asked what he was doing, he answered simply: "I was
+[[Tragedy|tragedy]].  When asked what he was doing, he answered simply: "I was
 
 telephoning a description of the package.  It'll be all right now;
 
@@ -1428,7 +1428,7 @@ Wotton was very much the gentleman, in the more generous sense, and
 
 he heartily agreed to this; and, though it was difficult for the
 
-melancholy man with the horse-face to produce anything nearer to a
+[[Melancholy|melancholy]] man with the [[Horse|horse]]-face to produce anything nearer to a
 
 laugh than a neigh, he was manifestly much cheered internally and
 
@@ -1440,7 +1440,7 @@ the two friends adjourned to the one and only refreshment-room and
 
 sat down behind two tall glasses of beer; having no taste for
 
-warming their hands at that rather too blood-red fire that still
+warming their hands at that rather too [[Blood|blood]]-red [[Fire|fire]] that still
 
 burned in the sinister waiting-room.
 
@@ -1462,11 +1462,11 @@ himself, just as he killed himself.  I fancy many conspirators are
 
 really chasing themselves into corners like that.  Don't you see
 
-that he locked himself into a logical prison, when he would empty
+that he locked himself into a logical [[Prison|prison]], when he would empty
 
 and close the whole station, to impress us with his efficiency.  By
 
-the way, I ought to have guessed there was a double meaning in his
+the way, I ought to have guessed there was a [[Double|double]] meaning in his
 
 dictatorial ways and demands to override the Constitution; he was
 
@@ -1478,7 +1478,7 @@ never thought of him at all until I found him wandering about
 
 inside the logical square or enclosure, like a rectangle in
 
-geometry.  I was thinking all the time about one thing: what would
+geometry.  I was thinking all the [[Time|time]] about one thing: what would
 
 these people probably do to divert or intercept the box, now that
 
@@ -1534,19 +1534,19 @@ different angle; that could only mean it had been red-hot and
 
 hammered half crooked like a horseshoe on the anvil.  And then, of
 
-course, I realized that a red-hot poker would serve as well as a
+course, I realized that a red-hot poker would serve as [[Well|well]] as a
 
-pen or pencil, or rather better, for altering an inscription on a
+pen or pencil, or rather better, for altering an [[Inscription|inscription]] on a
 
-wooden box.  A pen could only cross it out; but a poker could burn
+wooden box.  A pen could only [[Cross|cross]] it out; but a poker could burn
 
-it out.  Managed neatly, it might well remove all trace of there
+it out.  Managed neatly, it might [[Well|well]] remove all trace of there
 
-ever having been any label or previous inscription at all.  But it
+ever having been any label or previous [[Inscription|inscription]] at all.  But it
 
 would do a great deal more than that.  The clown is not the only
 
-artist who wields a poker; there is the whole elegant craft called
+[[artist]] who wields a poker; there is the whole elegant craft called
 
 poker-work.  It would be quite easy to change the whole appearance
 
@@ -1566,7 +1566,7 @@ the post to that address as a separate thing in an ordinary way;
 
 and our scheme for posting it in an ordinary way would have
 
-recoiled on our heads.  As it was, I was just in time to describe
+recoiled on our heads.  As it was, I was just in [[Time|time]] to describe
 
 the poker-work box and stop it.  I made a silly joke about a red
 
@@ -1576,7 +1576,7 @@ Dyer; I'm ashamed to say the only person I began by suspecting was
 
 your unfortunate clerk Franks, who is rather exceptionally
 
-innocent."
+[[Innocent|innocent]]."
 
 
 
@@ -1588,13 +1588,13 @@ innocent."
 
 than you may imagine.  He's a queer-looking fellow; but I ought
 
-to have known that suffering sort of look is more often
+to have known that [[Suffering|suffering]] sort of look is more often
 
 conscientiousness than unconscientiousness.  But where I was a
 
 priceless ass was when I looked at the suspect instead of looking
 
-at the detective.  At that moment, Dyer was holding the box up,
+at the [[Detective|detective]].  At that moment, Dyer was holding the box up,
 
 looking at it very closely; and Franks, from the other side, could
 
@@ -1604,7 +1604,7 @@ he would know it again.  Franks knew about the box scheme; and
 
 seeing that very swift and furtive act, he started and stared; and
 
-I don't wonder.  In fact, Franks was the real detective and was far
+I don't [[Wonder|wonder]].  In fact, Franks was the real [[Detective|detective]] and was far
 
 ahead of me, for I hadn't suspected Dyer at all.  Not till, so to
 
@@ -1620,7 +1620,7 @@ excuse the pun."
 
 
 
-"Well," said Captain Gahagan, when Wotton had told him the story
+"[[Well]]," said Captain Gahagan, when Wotton had told him the story
 
 long afterwards.  "My favourite character in your drama is the
 
@@ -1630,7 +1630,7 @@ irrelevant."
 
 
 
-"You are," said Sir Hubert Wotton, and resumed the study of his
+"You are," said Sir [[Hubert]] Wotton, and resumed the study of his
 
 documents.
 
@@ -1640,13 +1640,13 @@ documents.
 
 unchanged buoyancy.  "The Clown in Shakespeare seems to be there by
 
-accident unconnected with the story and yet he is the chorus of the
+accident unconnected with the story and yet he is the [[Chorus|chorus]] of the
 
-tragedy.  The Fool is like a fantastic dancing flame lighting up
+[[Tragedy|tragedy]].  The [[Fool]] is like a fantastic dancing flame lighting up
 
-the features and furniture of the dark house of death.  Perhaps we
+the features and furniture of the dark [[house]] of [[Death|death]].  Perhaps we
 
-may connect Pond and Polonius after all."  And he continued to
+may connect Pond and [[Polonius]] after all."  And he continued to
 
 illustrate his theory of the buffoons in Shakespeare, a dramatic
 

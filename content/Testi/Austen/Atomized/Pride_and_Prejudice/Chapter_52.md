@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 52"
+title: "[[Pride and Prejudice]] — Chapter 52"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -39,9 +39,9 @@ contain a denial.
      side. If you do not choose to understand me, forgive my
      impertinence. Your uncle is as much surprised as I am; and nothing
      but the belief of your being a party concerned would have allowed
-     him to act as he has done. But if you are really innocent and
+     him to act as he has done. But if you are really [[Innocent|innocent]] and
      ignorant, I must be more explicit. On the very day of my coming
-     home from Longbourn, your uncle had a most unexpected visitor. Mr.
+     [[Home|home]] from Longbourn, your uncle had a most unexpected visitor. Mr.
      Darcy called, and was shut up with him several hours. It was all
      over before I arrived; so my curiosity was not so dreadfully racked
      as _yours_ seems to have been. He came to tell Mr. Gardiner that he
@@ -50,10 +50,10 @@ contain a denial.
      From what I can collect, he left Derbyshire only one day after
      ourselves, and came to town with the resolution of hunting for
      them. The motive professed was his conviction of its being owing to
-     himself that Wickham’s worthlessness had not been so well known as
-     to make it impossible for any young woman of character to love or
+     himself that Wickham’s worthlessness had not been so [[Well|well]] known as
+     to make it impossible for any young woman of character to [[Love|love]] or
      confide in him. He generously imputed the whole to his mistaken
-     pride, and confessed that he had before thought it beneath him to
+     [[Pride|pride]], and confessed that he had before thought it beneath him to
      lay his private actions open to the world. His character was to
      speak for itself. He called it, therefore, his duty to step
      forward, and endeavour to remedy an evil which had been brought on
@@ -62,9 +62,9 @@ contain a denial.
      discover them; but he had something to direct his search, which was
      more than _we_ had; and the consciousness of this was another
      reason for his resolving to follow us. There is a lady, it seems, a
-     Mrs. Younge, who was some time ago governess to Miss Darcy, and was
+     Mrs. Younge, who was some [[Time|time]] ago governess to Miss Darcy, and was
      dismissed from her charge on some cause of disapprobation, though
-     he did not say what. She then took a large house in Edward Street,
+     he did not say what. She then took a large [[house]] in Edward Street,
      and has since maintained herself by letting lodgings. This Mrs.
      Younge was, he knew, intimately acquainted with Wickham; and he
      went to her for intelligence of him, as soon as he got to town. But
@@ -72,7 +72,7 @@ contain a denial.
      wanted. She would not betray her trust, I suppose, without bribery
      and corruption, for she really did know where her friend was to be
      found. Wickham, indeed, had gone to her on their first arrival in
-     London; and had she been able to receive them into her house, they
+     [[London]]; and had she been able to receive them into her [[house]], they
      would have taken up their abode with her. At length, however, our
      kind friend procured the wished-for direction. They were in ----
      Street. He saw Wickham, and afterwards insisted on seeing Lydia.
@@ -82,30 +82,30 @@ contain a denial.
      offering his assistance as far as it would go. But he found Lydia
      absolutely resolved on remaining where she was. She cared for none
      of her friends; she wanted no help of his; she would not hear of
-     leaving Wickham. She was sure they should be married some time or
+     leaving Wickham. She was sure they should be married some [[Time|time]] or
      other, and it did not much signify when. Since such were her
      feelings, it only remained, he thought, to secure and expedite a
-     marriage, which, in his very first conversation with Wickham, he
+     [[Marriage|marriage]], which, in his very first conversation with Wickham, he
      easily learnt had never been _his_ design. He confessed himself
-     obliged to leave the regiment on account of some debts of honour
+     obliged to leave the regiment on account of some debts of [[Honour|honour]]
      which were very pressing; and scrupled not to lay all the ill
-     consequences of Lydia’s flight on her own folly alone. He meant to
+     consequences of Lydia’s flight on her own folly [[Alone|alone]]. He meant to
      resign his commission immediately; and as to his future situation,
      he could conjecture very little about it. He must go somewhere, but
      he did not know where, and he knew he should have nothing to live
      on. Mr. Darcy asked why he did not marry your sister at once.
      Though Mr. Bennet was not imagined to be very rich, he would have
      been able to do something for him, and his situation must have been
-     benefited by marriage. But he found, in reply to this question,
-     that Wickham still cherished the hope of more effectually making
-     his fortune by marriage, in some other country. Under such
+     benefited by [[Marriage|marriage]]. But he found, in reply to this question,
+     that Wickham still cherished the [[Hope|hope]] of more effectually making
+     his fortune by [[Marriage|marriage]], in some other country. Under such
      circumstances, however, he was not likely to be proof against the
-     temptation of immediate relief. They met several times, for there
+     [[Temptation|temptation]] of immediate relief. They met several times, for there
      was much to be discussed. Wickham, of course, wanted more than he
      could get; but at length was reduced to be reasonable. Everything
      being settled between _them_, Mr. Darcy’s next step was to make
      your uncle acquainted with it, and he first called in Gracechurch
-     Street the evening before I came home. But Mr. Gardiner could not
+     Street the evening before I came [[Home|home]]. But Mr. Gardiner could not
      be seen; and Mr. Darcy found, on further inquiry, that your father
      was still with him, but would quit town the next morning. He did
      not judge your father to be a person whom he could so properly
@@ -113,8 +113,8 @@ contain a denial.
      till after the departure of the former. He did not leave his name,
      and till the next day it was only known that a gentleman had called
      on business. On Saturday he came again. Your father was gone, your
-     uncle at home, and, as I said before, they had a great deal of talk
-     together. They met again on Sunday, and then _I_ saw him too. It
+     uncle at [[Home|home]], and, as I said before, they had a great deal of talk
+     together. They met again on [[Sunday]], and then _I_ saw him too. It
      was not all settled before Monday: as soon as it was, the express
      was sent off to Longbourn. But our visitor was very obstinate. I
      fancy, Lizzy, that obstinacy is the real defect of his character,
@@ -122,7 +122,7 @@ contain a denial.
      but _this_ is the true one. Nothing was to be done that he did not
      do himself; though I am sure (and I do not speak it to be thanked,
      therefore say nothing about it) your uncle would most readily have
-     settled the whole. They battled it together for a long time, which
+     settled the whole. They battled it together for a long [[Time|time]], which
      was more than either the gentleman or lady concerned in it
      deserved. But at last your uncle was forced to yield, and instead
      of being allowed to be of use to his niece, was forced to put up
@@ -131,33 +131,33 @@ contain a denial.
      gave him great pleasure, because it required an explanation that
      would rob him of his borrowed feathers, and give the praise where
      it was due. But, Lizzy, this must go no further than yourself, or
-     Jane at most. You know pretty well, I suppose, what has been done
+     Jane at most. You know pretty [[Well|well]], I suppose, what has been done
      for the young people. His debts are to be paid, amounting, I
      believe, to considerably more than a thousand pounds, another
      thousand in addition to her own settled upon _her_, and his
      commission purchased. The reason why all this was to be done by him
-     alone, was such as I have given above. It was owing to him, to his
+     [[Alone|alone]], was such as I have given above. It was owing to him, to his
      reserve and want of proper consideration, that Wickham’s character
      had been so misunderstood, and consequently that he had been
-     received and noticed as he was. Perhaps there was some truth in
-     _this_; though I doubt whether _his_ reserve, or _anybody’s_
+     received and noticed as he was. Perhaps there was some [[Truth|truth]] in
+     _this_; though I [[Doubt|doubt]] whether _his_ reserve, or _anybody’s_
      reserve can be answerable for the event. But in spite of all this
      fine talking, my dear Lizzy, you may rest perfectly assured that
      your uncle would never have yielded, if we had not given him credit
      for _another interest_ in the affair. When all this was resolved
      on, he returned again to his friends, who were still staying at
-     Pemberley; but it was agreed that he should be in London once more
+     Pemberley; but it was agreed that he should be in [[London]] once more
      when the wedding took place, and all money matters were then to
      receive the last finish. I believe I have now told you everything.
      It is a relation which you tell me is to give you great surprise; I
-     hope at least it will not afford you any displeasure. Lydia came to
-     us, and Wickham had constant admission to the house. _He_ was
+     [[Hope|hope]] at least it will not afford you any displeasure. Lydia came to
+     us, and Wickham had constant admission to the [[house]]. _He_ was
      exactly what he had been when I knew him in Hertfordshire; but I
      would not tell you how little I was satisfied with _her_ behaviour
      while she stayed with us, if I had not perceived, by Jane’s letter
-     last Wednesday, that her conduct on coming home was exactly of a
+     last Wednesday, that her conduct on coming [[Home|home]] was exactly of a
      piece with it, and therefore what I now tell you can give you no
-     fresh pain. I talked to her repeatedly in the most serious manner,
+     fresh [[Pain|pain]]. I talked to her repeatedly in the most serious manner,
      representing to her the wickedness of what she had done, and all
      the unhappiness she had brought on her family. If she heard me, it
      was by good luck, for I am sure she did not listen. I was sometimes
@@ -165,7 +165,7 @@ contain a denial.
      and for their sakes had patience with her. Mr. Darcy was punctual
      in his return, and, as Lydia informed you, attended the wedding. He
      dined with us the next day, and was to leave town again on
-     Wednesday or Thursday. Will you be very angry with me, my dear
+     Wednesday or [[thursday|Thursday]]. Will you be very angry with me, my dear
      Lizzy, if I take this opportunity of saying (what I was never bold
      enough to say before) how much I like him? His behaviour to us has,
      in every respect, been as pleasing as when we were in Derbyshire.
@@ -185,12 +185,12 @@ contain a denial.
 
 
 The contents of this letter threw Elizabeth into a flutter of spirits,
-in which it was difficult to determine whether pleasure or pain bore the
+in which it was difficult to determine whether pleasure or [[Pain|pain]] bore the
 greatest share. The vague and unsettled suspicions which uncertainty had
 produced, of what Mr. Darcy might have been doing to forward her
 sister’s match--which she had feared to encourage, as an exertion of
-goodness too great to be probable, and at the same time dreaded to be
-just, from the pain of obligation--were proved beyond their greatest
+goodness too great to be probable, and at the same [[Time|time]] dreaded to be
+just, from the [[Pain|pain]] of obligation--were proved beyond their greatest
 extent to be true! He had followed them purposely to town, he had taken
 on himself all the trouble and mortification attendant on such a
 research; in which supplication had been necessary to a woman whom he
@@ -199,11 +199,11 @@ meet, reason with, persuade, and finally bribe the man whom he always
 most wished to avoid, and whose very name it was punishment to him to
 pronounce. He had done all this for a girl whom he could neither regard
 nor esteem. Her heart did whisper that he had done it for her. But it
-was a hope shortly checked by other considerations; and she soon felt
-that even her vanity was insufficient, when required to depend on his
+was a [[Hope|hope]] shortly checked by other considerations; and she soon felt
+that even her [[Vanity|vanity]] was insufficient, when required to depend on his
 affection for her, for a woman who had already refused him, as able to
 overcome a sentiment so natural as abhorrence against relationship with
-Wickham. Brother-in-law of Wickham! Every kind of pride must revolt from
+Wickham. Brother-in-law of Wickham! Every kind of [[Pride|pride]] must revolt from
 the connection. He had, to be sure, done much. She was ashamed to think
 how much. But he had given a reason for his interference, which asked no
 extraordinary stretch of belief. It was reasonable that he should feel
@@ -217,7 +217,7 @@ return. They owed the restoration of Lydia, her character, everything to
 him. Oh, how heartily did she grieve over every ungracious sensation she
 had ever encouraged, every saucy speech she had ever directed towards
 him! For herself she was humbled; but she was proud of him,--proud that
-in a cause of compassion and honour he had been able to get the better
+in a cause of compassion and [[Honour|honour]] he had been able to get the better
 of himself. She read over her aunt’s commendation of him again and
 again. It was hardly enough; but it pleased her. She was even sensible
 of some pleasure, though mixed with regret, on finding how steadfastly
@@ -255,18 +255,18 @@ me. But of course she did not mention my name to you.”
 “And what did she say?”
 
 “That you were gone into the army, and she was afraid had--not turned
-out well. At such a distance as _that_, you know, things are strangely
+out [[Well|well]]. At such a distance as _that_, you know, things are strangely
 misrepresented.”
 
 “Certainly,” he replied, biting his lips. Elizabeth hoped she had
 silenced him; but he soon afterwards said,--
 
 “I was surprised to see Darcy in town last month. We passed each other
-several times. I wonder what he can be doing there.”
+several times. I [[Wonder|wonder]] what he can be doing there.”
 
-“Perhaps preparing for his marriage with Miss de Bourgh,” said
+“Perhaps preparing for his [[Marriage|marriage]] with Miss de Bourgh,” said
 Elizabeth. “It must be something particular to take him there at this
-time of year.”
+[[Time|time]] of year.”
 
 “Undoubtedly. Did you see him while you were at Lambton? I thought I
 understood from the Gardiners that you had.”
@@ -279,7 +279,7 @@ understood from the Gardiners that you had.”
 
 “I have heard, indeed, that she is uncommonly improved within this year
 or two. When I last saw her, she was not very promising. I am very glad
-you liked her. I hope she will turn out well.”
+you liked her. I [[Hope|hope]] she will turn out [[Well|well]].”
 
 “I dare say she will; she has got over the most trying age.”
 
@@ -288,17 +288,17 @@ you liked her. I hope she will turn out well.”
 “I do not recollect that we did.”
 
 “I mention it because it is the living which I ought to have had. A most
-delightful place! Excellent parsonage-house! It would have suited me in
+delightful place! Excellent parsonage-[[house]]! It would have suited me in
 every respect.”
 
 “How should you have liked making sermons?”
 
-“Exceedingly well. I should have considered it as part of my duty, and
+“Exceedingly [[Well|well]]. I should have considered it as part of my duty, and
 the exertion would soon have been nothing. One ought not to repine; but,
 to be sure, it would have been such a thing for me! The quiet, the
 retirement of such a life, would have answered all my ideas of
 happiness! But it was not to be. Did you ever hear Darcy mention the
-circumstance when you were in Kent?”
+circumstance when you were in [[Kent]]?”
 
 “I _have_ heard from authority, which I thought _as good_, that it was
 left you conditionally only, and at the will of the present patron.”
@@ -306,7 +306,7 @@ left you conditionally only, and at the will of the present patron.”
 “You have! Yes, there was something in _that_; I told you so from the
 first, you may remember.”
 
-“I _did_ hear, too, that there was a time when sermon-making was not so
+“I _did_ hear, too, that there was a [[Time|time]] when sermon-making was not so
 palatable to you as it seems to be at present; that you actually
 declared your resolution of never taking orders, and that the business
 had been compromised accordingly.”
@@ -314,16 +314,16 @@ had been compromised accordingly.”
 “You did! and it was not wholly without foundation. You may remember
 what I told you on that point, when first we talked of it.”
 
-They were now almost at the door of the house, for she had walked fast
+They were now almost at the door of the [[house]], for she had walked fast
 to get rid of him; and unwilling, for her sister’s sake, to provoke him,
 she only said in reply, with a good-humoured smile,--
 
 “Come, Mr. Wickham, we are brother and sister, you know. Do not let us
-quarrel about the past. In future, I hope we shall be always of one
+quarrel about the past. In future, I [[Hope|hope]] we shall be always of one
 mind.”
 
 She held out her hand: he kissed it with affectionate gallantry, though
-he hardly knew how to look, and they entered the house.
+he hardly knew how to look, and they entered the [[house]].
 
 
 

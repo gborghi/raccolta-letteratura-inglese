@@ -27,10 +27,10 @@ eye, stood against the wall. A hard family likeness was on all these
 things.
 
 ‘The room was kept like this, Rokesmith,’ said Mr Boffin, ‘against the
-son’s return. In short, everything in the house was kept exactly as it
+son’s return. In short, everything in the [[house]] was kept exactly as it
 came to us, for him to see and approve. Even now, nothing is changed
 but our own room below-stairs that you have just left. When the son came
-home for the last time in his life, and for the last time in his life
+[[Home|home]] for the last [[Time|time]] in his life, and for the last [[Time|time]] in his life
 saw his father, it was most likely in this room that they met.’
 
 As the Secretary looked all round it, his eyes rested on a side door in
@@ -38,10 +38,10 @@ a corner.
 
 ‘Another staircase,’ said Mr Boffin, unlocking the door, ‘leading down
 into the yard. We’ll go down this way, as you may like to see the yard,
-and it’s all in the road. When the son was a little child, it was up
+and it’s all in the [[Road|road]]. When the son was a little [[Child|child]], it was up
 and down these stairs that he mostly came and went to his father. He was
 very timid of his father. I’ve seen him sit on these stairs, in his
-shy way, poor child, many a time. Mr and Mrs Boffin have comforted him,
+shy way, poor [[Child|child]], many a [[Time|time]]. Mr and Mrs Boffin have comforted him,
 sitting with his little book on these stairs, often.’
 
 ‘Ah! And his poor sister too,’ said Mrs Boffin. ‘And here’s the sunny
@@ -50,15 +50,15 @@ own little hands wrote up their names here, only with a pencil; but the
 names are here still, and the poor dears gone for ever.’
 
 ‘We must take care of the names, old lady,’ said Mr Boffin. ‘We must
-take care of the names. They shan’t be rubbed out in our time, nor yet,
-if we can help it, in the time after us. Poor little children!’
+take care of the names. They shan’t be rubbed out in our [[Time|time]], nor yet,
+if we can help it, in the [[Time|time]] after us. Poor little children!’
 
 ‘Ah, poor little children!’ said Mrs Boffin.
 
-They had opened the door at the bottom of the staircase giving on the
+They had opened the door at the [[Bottom|bottom]] of the staircase giving on the
 yard, and they stood in the sunlight, looking at the scrawl of the two
 unsteady childish hands two or three steps up the staircase. There was
-something in this simple memento of a blighted childhood, and in the
+something in this simple memento of a blighted [[Childhood|childhood]], and in the
 tenderness of Mrs Boffin, that touched the Secretary.
 
 Mr Boffin then showed his new man of business the Mounds, and his own
@@ -69,11 +69,11 @@ before he acquired the whole estate.
 pleased God to spare the last of those two young lives and sorrowful
 deaths. We didn’t want the rest.’
 
-At the treasures of the yard, and at the outside of the house, and at
+At the treasures of the yard, and at the outside of the [[house]], and at
 the detached building which Mr Boffin pointed out as the residence
 of himself and his wife during the many years of their service, the
 Secretary looked with interest. It was not until Mr Boffin had shown
-him every wonder of the Bower twice over, that he remembered his having
+him every [[Wonder|wonder]] of the Bower twice over, that he remembered his having
 duties to discharge elsewhere.
 
 ‘You have no instructions to give me, Mr Boffin, in reference to this
@@ -94,18 +94,18 @@ that Mr Boffin said, as if in answer to a remark:
 ‘Ay, ay, that’s another thing. I may sell THEM, though I should be sorry
 to see the neighbourhood deprived of ’em too. It’ll look but a poor dead
 flat without the Mounds. Still I don’t say that I’m going to keep ’em
-always there, for the sake of the beauty of the landscape. There’s no
+always there, for the sake of the [[Beauty|beauty]] of the landscape. There’s no
 hurry about it; that’s all I say at present. I ain’t a scholar in much,
-Rokesmith, but I’m a pretty fair scholar in dust. I can price the Mounds
+Rokesmith, but I’m a pretty fair scholar in [[Dust|dust]]. I can price the Mounds
 to a fraction, and I know how they can be best disposed of; and likewise
 that they take no harm by standing where they do. You’ll look in
 to-morrow, will you be so kind?’
 
-‘Every day. And the sooner I can get you into your new house, complete,
+‘Every day. And the sooner I can get you into your new [[house]], complete,
 the better you will be pleased, sir?’
 
-‘Well, it ain’t that I’m in a mortal hurry,’ said Mr Boffin; ‘only when
-you DO pay people for looking alive, it’s as well to know that they ARE
+‘[[Well]], it ain’t that I’m in a mortal hurry,’ said Mr Boffin; ‘only when
+you DO pay people for looking alive, it’s as [[Well|well]] to know that they ARE
 looking alive. Ain’t that your opinion?’
 
 ‘Quite!’ replied the Secretary; and so withdrew.
@@ -134,7 +134,7 @@ of a great military leader known to him as Bully Sawyers, but perhaps
 better known to fame and easier of identification by the classical
 student, under the less Britannic name of Belisarius. Even this
 general’s career paled in interest for Mr Boffin before the clearing of
-his conscience with Wegg; and hence, when that literary gentleman had
+his [[Conscience|conscience]] with Wegg; and hence, when that literary gentleman had
 according to custom eaten and drunk until he was all a-glow, and when
 he took up his book with the usual chirping introduction, ‘And now, Mr
 Boffin, sir, we’ll decline and we’ll fall!’ Mr Boffin stopped him.

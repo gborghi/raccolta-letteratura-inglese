@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 2)"
+title: "The [[Pickwick]] Papers — Chapter 45: DESCRIPTIVE OF AN AFFECTING INTERVIEW BETWEEN MR. SAMUEL (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -20,7 +20,7 @@ tags:
 seen how tight he held on by the sides wen he did get up, as if he wos
 afeerd o’ being precipitayted down full six foot, and dashed into a
 million hatoms. He tumbled in at last, however, and avay ve vent; and I
-rayther think--I say I rayther think, Samivel--that he found his-self a
+rayther think--I say I rayther think, Samivel--that he found his-[[Self|self]] a
 little jolted ven ve turned the corners.’
 
 ‘Wot, I s’pose you happened to drive up agin a post or two?’ said Sam.
@@ -39,14 +39,14 @@ gentleman, when by dint of much struggling, and various convulsive
 stamps upon the ground, he had recovered his voice. ‘It’s only a kind o’
 quiet laugh as I’m a-tryin’ to come, Sammy.’
 
-‘Well, if that’s wot it is,’ said Sam, ‘you’d better not try to come it
+‘[[Well]], if that’s wot it is,’ said Sam, ‘you’d better not try to come it
 agin. You’ll find it rayther a dangerous inwention.’
 
 ‘Don’t you like it, Sammy?’ inquired the old gentleman.
 
 ‘Not at all,’ replied Sam.
 
-‘Well,’ said Mr. Weller, with the tears still running down his cheeks,
+‘[[Well]],’ said Mr. Weller, with the [[Tears|tears]] still running down his cheeks,
 ‘it ‘ud ha’ been a wery great accommodation to me if I could ha’ done
 it, and ‘ud ha’ saved a good many vords atween your mother-in-law and
 me, sometimes; but I’m afeerd you’re right, Sammy, it’s too much in the
@@ -65,7 +65,7 @@ obliged to you for this here wisit.--Shepherd, how air you?’
 ‘Not a bit on it, mum,’ replied Sam.--‘Is it, shepherd?’
 
 Mr. Stiggins raised his hands, and turned up his eyes, until the whites-
--or rather the yellows--were alone visible; but made no reply in words.
+-or rather the yellows--were [[Alone|alone]] visible; but made no reply in words.
 
 ‘Is this here gen’l’m’n troubled with any painful complaint?’ said Sam,
 looking to his mother-in-law for explanation.
@@ -75,18 +75,18 @@ looking to his mother-in-law for explanation.
 ‘Oh, that’s it, is it?’ said Sam. ‘I was afeerd, from his manner, that
 he might ha’ forgotten to take pepper vith that ‘ere last cowcumber he
 eat. Set down, Sir, ve make no extra charge for settin’ down, as the
-king remarked wen he blowed up his ministers.’
+[[King|king]] remarked wen he blowed up his ministers.’
 
-‘Young man,’ said Mr. Stiggins ostentatiously, ‘I fear you are not
-softened by imprisonment.’
+‘Young man,’ said Mr. Stiggins ostentatiously, ‘I [[Fear|fear]] you are not
+softened by [[Imprisonment|imprisonment]].’
 
 ‘Beg your pardon, Sir,’ replied Sam; ‘wot wos you graciously pleased to
 hobserve?’
 
-‘I apprehend, young man, that your nature is no softer for this
+‘I apprehend, young man, that your [[Nature|nature]] is no softer for this
 chastening,’ said Mr. Stiggins, in a loud voice.
 
-‘Sir,’ replied Sam, ‘you’re wery kind to say so. I hope my natur is _NOT
+‘Sir,’ replied Sam, ‘you’re wery kind to say so. I [[Hope|hope]] my natur is _NOT
 _ a soft vun, Sir. Wery much obliged to you for your good opinion, Sir.’
 
 At this point of the conversation, a sound, indecorously approaching to
@@ -101,7 +101,7 @@ become gradually hysterical.
 ‘Wery much obleeged to you, my dear,’ replied Mr. Weller; ‘but I’m quite
 comfortable vere I am.’
 
-Upon this, Mrs. Weller burst into tears.
+Upon this, Mrs. Weller burst into [[Tears|tears]].
 
 ‘Wot’s gone wrong, mum?’ said Sam.
 
@@ -115,7 +115,7 @@ nothing do him good?’
 replied the old gentleman. ‘I think a pipe vould benefit me a good deal.
 Could I be accommodated, Sammy?’
 
-Here Mrs. Weller let fall some more tears, and Mr. Stiggins groaned.
+Here Mrs. Weller let fall some more [[Tears|tears]], and Mr. Stiggins groaned.
 
 ‘Hollo! Here’s this unfortunate gen’l’m’n took ill agin,’ said Sam,
 looking round. ‘Vere do you feel it now, sir?’
@@ -135,7 +135,7 @@ an undertone, that he must be the representative of the united parishes
 of St. Simon Without and St. Walker Within.
 
 ‘I’m afeered, mum,’ said Sam, ‘that this here gen’l’m’n, with the twist
-in his countenance, feels rather thirsty, with the melancholy spectacle
+in his countenance, feels rather thirsty, with the [[Melancholy|melancholy]] spectacle
 afore him. Is it the case, mum?’
 
 The worthy lady looked at Mr. Stiggins for a reply; that gentleman, with
@@ -153,7 +153,7 @@ vanities!’
 ‘Too true, too true, indeed,’ said Mrs. Weller, murmuring a groan, and
 shaking her head assentingly.
 
-‘Well,’ said Sam, ‘I des-say they may be, sir; but wich is your
+‘[[Well]],’ said Sam, ‘I des-say they may be, sir; but wich is your
 partickler wanity? Wich wanity do you like the flavour on best, sir?’
 
 ‘Oh, my dear young friend,’ replied Mr. Stiggins, ‘I despise them all.

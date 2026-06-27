@@ -23,21 +23,21 @@ husband’s, and looking up into Dumps’s face with an expression of as
 much interest as she was capable of displaying.
 
 ‘Good God, how small he is!’ cried the amiable uncle, starting back
-with well-feigned surprise; ‘_remarkably_ small indeed.’
+with [[Well|well]]-feigned surprise; ‘_remarkably_ small indeed.’
 
 ‘Do you think so?’ inquired poor little Kitterbell, rather alarmed.
-‘He’s a monster to what he was—ain’t he, nurse?’
+‘He’s a [[Monster|monster]] to what he was—ain’t he, [[Nurse|nurse]]?’
 
-‘He’s a dear,’ said the nurse, squeezing the child, and evading the
+‘He’s a dear,’ said the [[Nurse|nurse]], squeezing the [[Child|child]], and evading the
 question—not because she scrupled to disguise the fact, but because she
-couldn’t afford to throw away the chance of Dumps’s half-crown.
+couldn’t afford to throw away the chance of Dumps’s half-[[Crown|crown]].
 
-‘Well, but who is he like?’ inquired little Kitterbell.
+‘[[Well]], but who is he like?’ inquired little Kitterbell.
 
 Dumps looked at the little pink heap before him, and only thought at
 the moment of the best mode of mortifying the youthful parents.
 
-‘I really don’t know _who_ he’s like,’ he answered, very well knowing
+‘I really don’t know _who_ he’s like,’ he answered, very [[Well|well]] knowing
 the reply expected of him.
 
 ‘Don’t you think he’s like _me_?’ inquired his nephew with a knowing
@@ -51,20 +51,20 @@ misunderstood. ‘Decidedly not like you.—Oh, certainly not.’
 ‘Oh, dear no; not in the least. I’m no judge, of course, in such cases;
 but I really think he’s more like one of those little carved
 representations that one sometimes sees blowing a trumpet on a
-tombstone!’ The nurse stooped down over the child, and with great
+tombstone!’ The [[Nurse|nurse]] stooped down over the [[Child|child]], and with great
 difficulty prevented an explosion of mirth. Pa and ma looked almost as
 miserable as their amiable uncle.
 
-‘Well!’ said the disappointed little father, ‘you’ll be better able to
+‘[[Well]]!’ said the disappointed little father, ‘you’ll be better able to
 tell what he’s like by-and-by. You shall see him this evening with his
 mantle off.’
 
 ‘Thank you,’ said Dumps, feeling particularly grateful.
 
-‘Now, my love,’ said Kitterbell to his wife, ‘it’s time we were off.
+‘Now, my [[Love|love]],’ said Kitterbell to his wife, ‘it’s [[Time|time]] we were off.
 We’re to meet the other godfather and the godmother at the church,
 uncle,—Mr. and Mrs. Wilson from over the way—uncommonly nice people. My
-love, are you well wrapped up?’
+[[Love|love]], are you [[Well|well]] wrapped up?’
 
 ‘Yes, dear.’
 
@@ -82,49 +82,49 @@ anything particular occurring. The clergyman had to dine some distance
 from town, and had two churchings, three christenings, and a funeral to
 perform in something less than an hour. The godfathers and godmother,
 therefore, promised to renounce the devil and all his works—‘and all
-that sort of thing’—as little Kitterbell said—‘in less than no time;’
-and with the exception of Dumps nearly letting the child fall into the
+that sort of thing’—as little Kitterbell said—‘in less than no [[Time|time]];’
+and with the exception of Dumps nearly letting the [[Child|child]] fall into the
 font when he handed it to the clergyman, the whole affair went off in
 the usual business-like and matter-of-course manner, and Dumps
-re-entered the Bank-gates at two o’clock with a heavy heart, and the
+re-entered the Bank-gates at two o’[[Clock|clock]] with a heavy heart, and the
 painful conviction that he was regularly booked for an evening party.
 
 Evening came—and so did Dumps’s pumps, black silk stockings, and white
 cravat which he had ordered to be forwarded, per boy, from Pentonville.
-The depressed godfather dressed himself at a friend’s counting-house,
+The depressed godfather dressed himself at a friend’s counting-[[house]],
 from whence, with his spirits fifty degrees below proof, he sallied
 forth—as the weather had cleared up, and the evening was tolerably
 fine—to walk to Great Russell-street. Slowly he paced up Cheapside,
-Newgate-street, down Snow-hill, and up Holborn ditto, looking as grim
+Newgate-street, down [[Snow]]-[[Hill|hill]], and up Holborn ditto, looking as grim
 as the figure-head of a man-of-war, and finding out fresh causes of
-misery at every step. As he was crossing the corner of Hatton-garden, a
+misery at every step. As he was crossing the corner of Hatton-[[Garden|garden]], a
 man apparently intoxicated, rushed against him, and would have knocked
 him down, had he not been providentially caught by a very genteel young
-man, who happened to be close to him at the time. The shock so
-disarranged Dumps’s nerves, as well as his dress, that he could hardly
+man, who happened to be close to him at the [[Time|time]]. The shock so
+disarranged Dumps’s nerves, as [[Well|well]] as his dress, that he could hardly
 stand. The gentleman took his arm, and in the kindest manner walked
-with him as far as Furnival’s Inn. Dumps, for about the first time in
+with him as far as Furnival’s Inn. Dumps, for about the first [[Time|time]] in
 his life, felt grateful and polite; and he and the gentlemanly-looking
 young man parted with mutual expressions of good will.
 
-‘There are at least some well-disposed men in the world,’ ruminated the
+‘There are at least some [[Well|well]]-disposed men in the world,’ ruminated the
 misanthropical Dumps, as he proceeded towards his destination.
 
 Rat—tat—ta-ra-ra-ra-ra-rat—knocked a hackney-coachman at Kitterbell’s
-door, in imitation of a gentleman’s servant, just as Dumps reached it;
+door, in [[Imitation|imitation]] of a gentleman’s servant, just as Dumps reached it;
 and out came an old lady in a large toque, and an old gentleman in a
 blue coat, and three female copies of the old lady in pink dresses, and
 shoes to match.
 
 ‘It’s a large party,’ sighed the unhappy godfather, wiping the
 perspiration from his forehead, and leaning against the area-railings.
-It was some time before the miserable man could muster up courage to
+It was some [[Time|time]] before the miserable man could muster up [[Courage|courage]] to
 knock at the door, and when he did, the smart appearance of a
 neighbouring greengrocer (who had been hired to wait for seven and
-sixpence, and whose calves alone were worth double the money), the lamp
-in the passage, and the Venus on the landing, added to the hum of many
+sixpence, and whose calves [[Alone|alone]] were worth [[Double|double]] the money), the lamp
+in the passage, and the [[Venus]] on the landing, added to the hum of many
 voices, and the sound of a harp and two violins, painfully convinced
-him that his surmises were but too well founded.
+him that his surmises were but too [[Well|well]] founded.
 
 ‘How are you?’ said little Kitterbell, in a greater bustle than ever,
 bolting out of the little back parlour with a cork-screw in his hand,

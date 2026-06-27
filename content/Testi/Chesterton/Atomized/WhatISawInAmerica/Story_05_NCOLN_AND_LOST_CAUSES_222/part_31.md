@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 31)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 31)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -20,7 +20,7 @@ achievement of the American meat-salesman is that his poetic enthusiasm
 
 can really be for meat sales; not for money but for meat. An American
 
-commercial traveller asked me, with a religious fire in his eyes,
+commercial traveller asked me, with a religious [[Fire|fire]] in his eyes,
 
 whether I did not think that salesmanship could be an art. In England
 
@@ -30,13 +30,13 @@ art of salesmanship. Art is with them a hobby; a thing of leisure and
 
 liberty. That is why the English traveller talks, if not of art, then of
 
-sport. That is why the two city men in the London train, if they are not
+sport. That is why the two [[City|city]] men in the [[London]] train, if they are not
 
 talking about golf, may be talking about gardening. If they are not
 
 talking about dollars, or the equivalent of dollars, the reason lies
 
-much deeper than any superficial praise or blame touching the desire for
+much deeper than any superficial praise or blame touching the [[Desire|desire]] for
 
 wealth. In the English case, at least, it lies very deep in the English
 
@@ -50,23 +50,23 @@ casually that they can be attributed to the most improbable people; even
 
 to Bacon. The sonnets of Shakespeare are picked up afterwards as if out
 
-of a wastepaper basket. The immortality of Dr. Johnson does not rest on
+of a wastepaper basket. The [[Immortality|immortality]] of Dr. Johnson does not rest on
 
-the written leaves he collected, but entirely on the words he wasted,
+the written [[Leaves|leaves]] he collected, but entirely on the words he wasted,
 
-the words he scattered to the winds. So great a thing as Pickwick is
+the words he scattered to the winds. So great a thing as [[Pickwick]] is
 
 almost a kind of accident; it began as something secondary and grew into
 
 something primary and pre-eminent. It began with mere words written to
 
-illustrate somebody else's pictures; and swelled like an epic expanded
+illustrate somebody else's pictures; and swelled like an [[Epic|epic]] expanded
 
-from an epigram. It might almost be said that in the case of Pickwick
+from an [[Epigram|epigram]]. It might almost be said that in the case of [[Pickwick]]
 
-the author began as the servant of the artist. But, as in the same story
+the author began as the servant of the [[Artist|artist]]. But, as in the same story
 
-of Pickwick, the servant became greater than the master. This
+of [[Pickwick]], the servant became greater than the master. This
 
 incalculable and accidental quality, like all national qualities, has
 
@@ -94,15 +94,15 @@ somewhere else, owing to depressed conditions in the candlestick market.
 
 
 
-Now certainly one of the first impressions of America, or at any rate
+Now certainly one of the first impressions of [[America]], or at any rate
 
-of New York, which is by no means the same thing as America, is that of
+of [[New York]], which is by no means the same thing as [[America]], is that of
 
 a sort of mob of business men, behaving in many ways in a fashion very
 
-different from that of the swarms of London city men who go up every day
+different from that of the swarms of [[London]] [[City|city]] men who go up every day
 
-to the city. They sit about in groups with Red-Indian gravity, as if
+to the [[City|city]]. They sit about in groups with Red-Indian gravity, as if
 
 passing the pipe of peace; though, in fact, most of them are smoking
 
@@ -120,13 +120,13 @@ not know; whether it is a more economical way of carrying a mere symbol
 
 of commercial conversation; or whether something of the same queer
 
-outlandish morality that draws such a distinction between beer and
+outlandish [[morality]] that draws such a distinction between beer and
 
 ginger beer draws an equally ethical distinction between touching
 
 tobacco and lighting it. For the rest, it would be easy to make a merely
 
-external sketch full of things equally strange; for this can always be
+external [[Sketch|sketch]] full of things equally strange; for this can always be
 
 done in a strange country. I allow for the fact of all foreigners
 
@@ -136,7 +136,7 @@ spectacles and shaven jaws, do look rather alike, because they all like
 
 to make their faces hard. And with the mention of their mental attitude
 
-we realise the futility of any such external sketch. Unless we can see
+we realise the futility of any such external [[Sketch|sketch]]. Unless we can see
 
 that these are something more than men smoking cigars and talking about
 
@@ -146,7 +146,7 @@ dollars we had much better not see them at all.
 
 It is customary to condemn the American as a materialist because of his
 
-worship of success. But indeed this very worship, like any worship,
+worship of [[success]]. But indeed this very worship, like any worship,
 
 even devil-worship, proves him rather a mystic than a materialist. The
 
@@ -156,21 +156,21 @@ his wine and eat his omelette in peace might much more plausibly be
 
 called a materialist by those who do not prefer to call him a man of
 
-sense. But Americans do worship success in the abstract, as a sort of
+sense. But Americans do worship [[success]] in the abstract, as a sort of
 
-ideal vision. They follow success rather than money; they follow money
+ideal vision. They follow [[success]] rather than money; they follow money
 
 rather than meat and drink. If their national life in one sense is a
 
 perpetual game of poker, they are playing excitedly for chips or
 
-counters as well as for coins. And by the ultimate test of material
+counters as [[Well|well]] as for coins. And by the ultimate test of material
 
 enjoyment, like the enjoyment of an omelette, even a coin is itself a
 
 counter. The Yankee cannot eat chips as the Frenchman can eat chipped
 
-potatoes; but neither can he swallow red cents as the Frenchman swallows
+potatoes; but neither can he [[Swallow|swallow]] red cents as the Frenchman swallows
 
 red wine. Thus when people say of a Yankee that he worships the dollar,
 
@@ -178,14 +178,14 @@ they pay a compliment to his fine spirituality more true and delicate
 
 than they imagine. The dollar is an idol because it is an image; but it
 
-is an image of success and not of enjoyment.
+is an image of [[success]] and not of enjoyment.
 
 
 
-That this romance is also a religion is shown in the fact that there is
+That this [[Romance|romance]] is also a religion is shown in the fact that there is
 
-a queer sort of morality attached to it. The nearest parallel to it is
+a queer sort of [[morality]] attached to it. The nearest parallel to it is
 
-something like the sense of honour in the old duelling days. There is
+something like the sense of [[Honour|honour]] in the old duelling days. There is
 
 not a material but a distinctly moral savour about the implied

@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 8)"
+title: "[[The Mystery of Marie Roget]] (part 8)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -22,9 +22,9 @@ tags:
 
       “Having prescribed thus a limit to suit its own preconceived
 
-      notions; having assumed that, if this were the body of Marie, it
+      notions; having assumed that, if this were the [[Body|body]] of Marie, it
 
-      could have been in the water but a very brief time, the journal
+      could have been in the [[Water|water]] but a very brief [[Time|time]], the journal
 
       goes on to say:
 
@@ -32,21 +32,21 @@ tags:
 
       ‘All experience has shown that drowned bodies, or bodies thrown
 
-      into the water immediately after death by violence, require from
+      into the [[Water|water]] immediately after [[Death|death]] by violence, require from
 
       six to ten days for sufficient decomposition to take place to
 
-      bring them to the top of the water. Even when a cannon is fired
+      bring them to the top of the [[Water|water]]. Even when a cannon is fired
 
       over a corpse, and it rises before at least five or six days’
 
-      immersion, it sinks again if let alone.’
+      immersion, it sinks again if let [[Alone|alone]].’
 
 
 
       “These assertions have been tacitly received by every paper in
 
-      Paris, with the exception of Le Moniteur. (*15) This latter print
+      [[Paris]], with the exception of Le Moniteur. (*15) This latter print
 
       endeavors to combat that portion of the paragraph which has
 
@@ -54,7 +54,7 @@ tags:
 
       instances in which the bodies of individuals known to be drowned
 
-      were found floating after the lapse of less time than is insisted
+      were found floating after the lapse of less [[Time|time]] than is insisted
 
       upon by L’Etoile. But there is something excessively
 
@@ -70,7 +70,7 @@ tags:
 
       examples could still have been properly regarded only as
 
-      exceptions to L’Etoile’s rule, until such time as the rule itself
+      exceptions to L’Etoile’s rule, until such [[Time|time]] as the rule itself
 
       should be confuted. Admitting the rule, (and this Le Moniteur
 
@@ -80,7 +80,7 @@ tags:
 
       this argument does not pretend to involve more than a question of
 
-      the probability of the body having risen to the surface in less
+      the probability of the [[Body|body]] having risen to the surface in less
 
       than three days; and this probability will be in favor of
 
@@ -96,31 +96,31 @@ tags:
 
       urged, if at all, against the rule itself; and for this end we
 
-      must examine the rationale of the rule. Now the human body, in
+      must examine the rationale of the rule. Now the human [[Body|body]], in
 
-      general, is neither much lighter nor much heavier than the water
+      general, is neither much lighter nor much heavier than the [[Water|water]]
 
       of the Seine; that is to say, the specific gravity of the human
 
-      body, in its natural condition, is about equal to the bulk of
+      [[Body|body]], in its natural condition, is about equal to the bulk of
 
-      fresh water which it displaces. The bodies of fat and fleshy
+      fresh [[Water|water]] which it displaces. The bodies of fat and fleshy
 
       persons, with small bones, and of women generally, are lighter
 
       than those of the lean and large-boned, and of men; and the
 
-      specific gravity of the water of a river is somewhat influenced
+      specific gravity of the [[Water|water]] of a [[River|river]] is somewhat influenced
 
       by the presence of the tide from sea. But, leaving this tide out
 
       of question, it may be said that very few human bodies will sink
 
-      at all, even in fresh water, of their own accord. Almost any one,
+      at all, even in fresh [[Water|water]], of their own accord. Almost any one,
 
-      falling into a river, will be enabled to float, if he suffer the
+      falling into a [[River|river]], will be enabled to float, if he suffer the
 
-      specific gravity of the water fairly to be adduced in comparison
+      specific gravity of the [[Water|water]] fairly to be adduced in comparison
 
       with his own—that is to say, if he suffer his whole person to be
 
@@ -130,17 +130,17 @@ tags:
 
       walker on land, with the head thrown fully back, and immersed;
 
-      the mouth and nostrils alone remaining above the surface. Thus
+      the mouth and nostrils [[Alone|alone]] remaining above the surface. Thus
 
       circumstanced, we shall find that we float without difficulty and
 
       without exertion. It is evident, however, that the gravities of
 
-      the body, and of the bulk of water displaced, are very nicely
+      the [[Body|body]], and of the bulk of [[Water|water]] displaced, are very nicely
 
       balanced, and that a trifle will cause either to preponderate. An
 
-      arm, for instance, uplifted from the water, and thus deprived of
+      arm, for instance, uplifted from the [[Water|water]], and thus deprived of
 
       its support, is an additional weight sufficient to immerse the
 
@@ -156,15 +156,15 @@ tags:
 
       immersion of the mouth and nostrils, and the inception, during
 
-      efforts to breathe while beneath the surface, of water into the
+      efforts to breathe while beneath the surface, of [[Water|water]] into the
 
-      lungs. Much is also received into the stomach, and the whole body
+      lungs. Much is also received into the stomach, and the whole [[Body|body]]
 
       becomes heavier by the difference between the weight of the air
 
       originally distending these cavities, and that of the fluid which
 
-      now fills them. This difference is sufficient to cause the body
+      now fills them. This difference is sufficient to cause the [[Body|body]]
 
       to sink, as a general rule; but is insufficient in the cases of
 
@@ -174,11 +174,11 @@ tags:
 
 
 
-      “The corpse, being supposed at the bottom of the river, will
+      “The corpse, being supposed at the [[Bottom|bottom]] of the [[River|river]], will
 
       there remain until, by some means, its specific gravity again
 
-      becomes less than that of the bulk of water which it displaces.
+      becomes less than that of the bulk of [[Water|water]] which it displaces.
 
       This effect is brought about by decomposition, or otherwise. The
 
@@ -192,7 +192,7 @@ tags:
 
       without a corresponding increase of mass or weight, its specific
 
-      gravity becomes less than that of the water displaced, and it
+      gravity becomes less than that of the [[Water|water]] displaced, and it
 
       forthwith makes its appearance at the surface. But decomposition
 

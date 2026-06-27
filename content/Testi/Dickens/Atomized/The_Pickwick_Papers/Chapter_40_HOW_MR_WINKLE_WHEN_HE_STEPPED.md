@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 38: HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN,"
+title: "The [[Pickwick]] Papers — Chapter 38: HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN,"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -15,16 +15,16 @@ tags:
 
 
 CHAPTER XXXVIII. HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN,
-WALKED GENTLY AND COMFORTABLY INTO THE FIRE
+WALKED GENTLY AND COMFORTABLY INTO THE [[Fire|FIRE]]
 
 The ill-starred gentleman who had been the unfortunate cause of the
 unusual noise and disturbance which alarmed the inhabitants of the Royal
-Crescent in manner and form already described, after passing a night of
+Crescent in manner and form already described, after passing a [[Night|night]] of
 great confusion and anxiety, left the roof beneath which his friends
 still slumbered, bound he knew not whither. The excellent and
 considerate feelings which prompted Mr. Winkle to take this step can
 never be too highly appreciated or too warmly extolled. ‘If,’ reasoned
-Mr. Winkle with himself--‘if this Dowler attempts (as I have no doubt he
+Mr. Winkle with himself--‘if this Dowler attempts (as I have no [[Doubt|doubt]] he
 will) to carry into execution his threat of personal violence against
 myself, it will be incumbent on me to call him out. He has a wife; that
 wife is attached to, and dependent on him. Heavens! If I should kill him
@@ -38,16 +38,16 @@ as little noise as possible, and walked off. Bending his steps towards
 the Royal Hotel, he found a coach on the point of starting for Bristol,
 and, thinking Bristol as good a place for his purpose as any other he
 could go to, he mounted the box, and reached his place of destination in
-such time as the pair of horses, who went the whole stage and back
+such [[Time|time]] as the pair of horses, who went the whole stage and back
 again, twice a day or more, could be reasonably supposed to arrive
 there.
 
 He took up his quarters at the Bush, and designing to postpone any
-communication by letter with Mr. Pickwick until it was probable that Mr.
+communication by letter with Mr. [[Pickwick]] until it was probable that Mr.
 Dowler’s wrath might have in some degree evaporated, walked forth to
-view the city, which struck him as being a shade more dirty than any
+view the [[City|city]], which struck him as being a shade more dirty than any
 place he had ever seen. Having inspected the docks and shipping, and
-viewed the cathedral, he inquired his way to Clifton, and being directed
+viewed the [[Cathedral|cathedral]], he inquired his way to Clifton, and being directed
 thither, took the route which was pointed out to him. But as the
 pavements of Bristol are not the widest or cleanest upon earth, so its
 streets are not altogether the straightest or least intricate; and Mr.
@@ -56,21 +56,21 @@ looked about him for a decent shop in which he could apply afresh for
 counsel and instruction.
 
 His eye fell upon a newly-painted tenement which had been recently
-converted into something between a shop and a private house, and which a
+converted into something between a shop and a private [[house]], and which a
 red lamp, projecting over the fanlight of the street door, would have
 sufficiently announced as the residence of a medical practitioner, even
 if the word ‘Surgery’ had not been inscribed in golden characters on a
-wainscot ground, above the window of what, in times bygone, had been the
+wainscot ground, above the [[Window|window]] of what, in times bygone, had been the
 front parlour. Thinking this an eligible place wherein to make his
 inquiries, Mr. Winkle stepped into the little shop where the gilt-
 labelled drawers and bottles were; and finding nobody there, knocked
-with a half-crown on the counter, to attract the attention of anybody
+with a half-[[Crown|crown]] on the counter, to attract the attention of anybody
 who might happen to be in the back parlour, which he judged to be the
 innermost and peculiar sanctum of the establishment, from the repetition
-of the word surgery on the door--painted in white letters this time, by
+of the word surgery on the door--painted in white letters this [[Time|time]], by
 way of taking off the monotony.
 
-At the first knock, a sound, as of persons fencing with fire-irons,
+At the first knock, a sound, as of persons fencing with [[Fire|fire]]-irons,
 which had until now been very audible, suddenly ceased; at the second, a
 studious-looking young gentleman in green spectacles, with a very large
 book in his hand, glided quietly into the shop, and stepping behind the
@@ -84,7 +84,7 @@ book up into the air, and catching it with great dexterity at the very
 moment when it threatened to smash to atoms all the bottles on the
 counter. ‘Here’s a start!’
 
-There was, without doubt; for Mr. Winkle was so very much astonished at
+There was, without [[Doubt|doubt]]; for Mr. Winkle was so very much astonished at
 the extraordinary behaviour of the medical gentleman, that he
 involuntarily retreated towards the door, and looked very much disturbed
 at his strange reception.
@@ -95,7 +95,7 @@ Mr. Winkle murmured, in reply, that he had not that pleasure.
 
 ‘Why, then,’ said the medical gentleman, ‘there are hopes for me yet; I
 may attend half the old women in Bristol, if I’ve decent luck. Get out,
-you mouldy old villain, get out!’ With this adjuration, which was
+you mouldy old [[Villain|villain]], get out!’ With this adjuration, which was
 addressed to the large book, the medical gentleman kicked the volume
 with remarkable agility to the farther end of the shop, and, pulling off
 his green spectacles, grinned the identical grin of Robert Sawyer,
@@ -107,7 +107,7 @@ shaking Mr. Winkle’s hand with friendly warmth.
 
 ‘Upon my word I was not,’ replied Mr. Winkle, returning his pressure.
 
-‘I wonder you didn’t see the name,’ said Bob Sawyer, calling his
+‘I [[Wonder|wonder]] you didn’t see the name,’ said Bob Sawyer, calling his
 friend’s attention to the outer door, on which, in the same white paint,
 were traced the words ‘Sawyer, late Nockemorf.’
 
@@ -115,29 +115,29 @@ were traced the words ‘Sawyer, late Nockemorf.’
 
 ‘Lord, if I had known who you were, I should have rushed out, and caught
 you in my arms,’ said Bob Sawyer; ‘but upon my life, I thought you were
-the King’s-taxes.’
+the [[King]]’s-taxes.’
 
 ‘No!’ said Mr. Winkle.
 
 ‘I did, indeed,’ responded Bob Sawyer, ‘and I was just going to say that
-I wasn’t at home, but if you’d leave a message I’d be sure to give it to
+I wasn’t at [[Home|home]], but if you’d leave a message I’d be sure to give it to
 myself; for he don’t know me; no more does the Lighting and Paving. I
-think the Church-rates guesses who I am, and I know the Water-works
+think the Church-rates guesses who I am, and I know the [[Water]]-works
 does, because I drew a tooth of his when I first came down here. But
 come in, come in!’ Chattering in this way, Mr. Bob Sawyer pushed Mr.
 Winkle into the back room, where, amusing himself by boring little
 circular caverns in the chimney-piece with a red-hot poker, sat no less
 a person than Mr. Benjamin Allen.
 
-‘Well!’ said Mr. Winkle. ‘This is indeed a pleasure I did not expect.
+‘[[Well]]!’ said Mr. Winkle. ‘This is indeed a pleasure I did not expect.
 What a very nice place you have here!’
 
-‘Pretty well, pretty well,’ replied Bob Sawyer. ‘I _passed_, soon after
+‘Pretty [[Well|well]], pretty [[Well|well]],’ replied Bob Sawyer. ‘I _passed_, soon after
 that precious party, and my friends came down with the needful for this
 business; so I put on a black suit of clothes, and a pair of spectacles,
 and came here to look as solemn as I could.’
 
-‘And a very snug little business you have, no doubt?’ said Mr. Winkle
+‘And a very snug little business you have, no [[Doubt|doubt]]?’ said Mr. Winkle
 knowingly.
 
 ‘Very,’ replied Bob Sawyer. ‘So snug, that at the end of a few years you
@@ -151,14 +151,14 @@ in ‘em, and the other half don’t open.’
 
 ‘Nonsense!’ said Mr. Winkle.
 
-‘Fact--honour!’ returned Bob Sawyer, stepping out into the shop, and
+‘Fact--[[Honour|honour]]!’ returned Bob Sawyer, stepping out into the shop, and
 demonstrating the veracity of the assertion by divers hard pulls at the
 little gilt knobs on the counterfeit drawers. ‘Hardly anything real in
 the shop but the leeches, and _they _are second-hand.’
 
 ‘I shouldn’t have thought it!’ exclaimed Mr. Winkle, much surprised.
 
-‘I hope not,’ replied Bob Sawyer, ‘else where’s the use of appearances,
+‘I [[Hope|hope]] not,’ replied Bob Sawyer, ‘else where’s the use of appearances,
 eh? But what will you take? Do as we do? That’s right. Ben, my fine
 fellow, put your hand into the cupboard, and bring out the patent
 digester.’
@@ -166,21 +166,21 @@ digester.’
 Mr. Benjamin Allen smiled his readiness, and produced from the closet at
 his elbow a black bottle half full of brandy.
 
-‘You don’t take water, of course?’ said Bob Sawyer.
+‘You don’t take [[Water|water]], of course?’ said Bob Sawyer.
 
 ‘Thank you,’ replied Mr. Winkle. ‘It’s rather early. I should like to
 qualify it, if you have no objection.’
 
-‘None in the least, if you can reconcile it to your conscience,’ replied
+‘None in the least, if you can reconcile it to your [[Conscience|conscience]],’ replied
 Bob Sawyer, tossing off, as he spoke, a glass of the liquor with great
 relish. ‘Ben, the pipkin!’
 
 Mr. Benjamin Allen drew forth, from the same hiding-place, a small brass
 pipkin, which Bob Sawyer observed he prided himself upon, particularly
-because it looked so business-like. The water in the professional pipkin
-having been made to boil, in course of time, by various little
+because it looked so business-like. The [[Water|water]] in the professional pipkin
+having been made to boil, in course of [[Time|time]], by various little
 shovelfuls of coal, which Mr. Bob Sawyer took out of a practicable
-window-seat, labelled ‘Soda Water,’ Mr. Winkle adulterated his brandy;
+[[Window|window]]-seat, labelled ‘Soda [[Water]],’ Mr. Winkle adulterated his brandy;
 and the conversation was becoming general, when it was interrupted by
 the entrance into the shop of a boy, in a sober gray livery and a gold-
 laced hat, with a small covered basket under his arm, whom Mr. Bob
@@ -196,12 +196,12 @@ scamp!’ said Mr. Bob Sawyer.
 ‘You had better not!’ said Mr. Bob Sawyer, with a threatening aspect.
 ‘Who do you suppose will ever employ a professional man, when they see
 his boy playing at marbles in the gutter, or flying the garter in the
-horse-road? Have you no feeling for your profession, you groveller? Did
+[[Horse|horse]]-[[Road|road]]? Have you no feeling for your profession, you groveller? Did
 you leave all the medicine?’
 
 Yes, Sir.’
 
-‘The powders for the child, at the large house with the new family, and
+‘The powders for the [[Child|child]], at the large [[house]] with the new family, and
 the pills to be taken four times a day at the ill-tempered old
 gentleman’s with the gouty leg?’
 
@@ -216,11 +216,11 @@ sent out.’
 Mr. Bob Sawyer peeped into the shop to see that no stranger was within
 hearing, and leaning forward to Mr. Winkle, said, in a low tone--
 
-‘He leaves it all at the wrong houses.’
+‘He [[Leaves|leaves]] it all at the wrong houses.’
 
 Mr. Winkle looked perplexed, and Bob Sawyer and his friend laughed.
 
-‘Don’t you see?’ said Bob. ‘He goes up to a house, rings the area bell,
+‘Don’t you see?’ said Bob. ‘He goes up to a [[house]], rings the area bell,
 pokes a packet of medicine without a direction into the servant’s hand,
 and walks off. Servant takes it into the dining-parlour; master opens
 it, and reads the label: “Draught to be taken at bedtime--pills as
@@ -237,11 +237,11 @@ that’s been to half the houses in Bristol, and hasn’t done yet.’
 ‘Dear me, I see,’ observed Mr. Winkle; ‘what an excellent plan!’
 
 ‘Oh, Ben and I have hit upon a dozen such,’ replied Bob Sawyer, with
-great glee. ‘The lamplighter has eighteenpence a week to pull the night-
-bell for ten minutes every time he comes round; and my boy always rushes
+great glee. ‘The lamplighter has eighteenpence a week to pull the [[Night|night]]-
+bell for ten minutes every [[Time|time]] he comes round; and my boy always rushes
 into the church just before the psalms, when the people have got nothing
 to do but look about ‘em, and calls me out, with horror and dismay
-depicted on his countenance. “Bless my soul,” everybody says, “somebody
+depicted on his countenance. “Bless my [[Soul|soul]],” everybody says, “somebody
 taken suddenly ill! Sawyer, late Nockemorf, sent for. What a business
 that young man has!”’
 
@@ -260,7 +260,7 @@ predisposition to maudlinism than he had ever known before; the cause of
 which malady was briefly this. He had been staying nearly three weeks
 with Mr. Bob Sawyer; Mr. Bob Sawyer was not remarkable for temperance,
 nor was Mr. Benjamin Allen for the ownership of a very strong head; the
-consequence was that, during the whole space of time just mentioned, Mr.
+consequence was that, during the whole space of [[Time|time]] just mentioned, Mr.
 Benjamin Allen had been wavering between intoxication partial, and
 intoxication complete.
 
@@ -270,7 +270,7 @@ dispense some of the second-hand leeches, previously referred to; ‘my
 dear friend, I am very miserable.’
 
 Mr. Winkle professed his heartfelt regret to hear it, and begged to know
-whether he could do anything to alleviate the sorrows of the suffering
+whether he could do anything to alleviate the sorrows of the [[Suffering|suffering]]
 student.
 
 ‘Nothing, my dear boy, nothing,’ said Ben. ‘You recollect Arabella,
@@ -282,7 +282,7 @@ countenance to your recollection?’
 Mr. Winkle required nothing to recall the charming Arabella to his mind;
 and it was rather fortunate he did not, for the features of her brother
 Benjamin would unquestionably have proved but an indifferent refresher
-to his memory. He answered, with as much calmness as he could assume,
+to his [[Memory|memory]]. He answered, with as much calmness as he could assume,
 that he perfectly remembered the young lady referred to, and sincerely
 trusted she was in good health.
 
@@ -321,7 +321,7 @@ the poker again, more fiercely than before.
 
 All this was, of course, very soothing to the feelings of Mr. Winkle,
 who remained silent for a few minutes; but at length mustered up
-resolution to inquire whether Miss Allen was in Kent.
+resolution to inquire whether Miss Allen was in [[Kent]].
 
 ‘No, no,’ said Mr. Ben Allen, laying aside the poker, and looking very
 cunning; ‘I didn’t think Wardle’s exactly the place for a headstrong
@@ -346,7 +346,7 @@ here an insurmountable objection presented itself, for whether the
 explanatory ‘over that way,’ and ‘down there,’ of Mr. Ben Allen, meant
 three miles off, or thirty, or three hundred, he could in no wise guess.
 
-But he had no opportunity of pondering over his love just then, for Bob
+But he had no opportunity of pondering over his [[Love|love]] just then, for Bob
 Sawyer’s return was the immediate precursor of the arrival of a meat-pie
 from the baker’s, of which that gentleman insisted on his staying to
 partake. The cloth was laid by an occasional charwoman, who officiated
@@ -360,7 +360,7 @@ After dinner, Mr. Bob Sawyer ordered in the largest mortar in the shop,
 and proceeded to brew a reeking jorum of rum-punch therein, stirring up
 and amalgamating the materials with a pestle in a very creditable and
 apothecary-like manner. Mr. Sawyer, being a bachelor, had only one
-tumbler in the house, which was assigned to Mr. Winkle as a compliment
+tumbler in the [[house]], which was assigned to Mr. Winkle as a compliment
 to the visitor, Mr. Ben Allen being accommodated with a funnel with a
 cork in the narrow end, and Bob Sawyer contented himself with one of
 those wide-lipped crystal vessels inscribed with a variety of cabalistic
@@ -378,12 +378,12 @@ at the end of the street. Which conversation materially lightened the
 hours and improved the mind of Mr. Bob Sawyer’s boy, who, instead of
 devoting the evening to his ordinary occupation of writing his name on
 the counter, and rubbing it out again, peeped through the glass door,
-and thus listened and looked on at the same time.
+and thus listened and looked on at the same [[Time|time]].
 
 
 The mirth of Mr. Bob Sawyer was rapidly ripening into the furious, Mr.
 Ben Allen was fast relapsing into the sentimental, and the punch had
-well-nigh disappeared altogether, when the boy hastily running in,
+[[Well|well]]-nigh disappeared altogether, when the boy hastily running in,
 announced that a young woman had just come over, to say that Sawyer late
 Nockemorf was wanted directly, a couple of streets off. This broke up
 the party. Mr. Bob Sawyer, understanding the message, after some twenty
@@ -397,14 +397,14 @@ Mr. Winkle took his departure, and returned to the Bush.
 The anxiety of his mind, and the numerous meditations which Arabella had
 awakened, prevented his share of the mortar of punch producing that
 effect upon him which it would have had under other circumstances. So,
-after taking a glass of soda-water and brandy at the bar, he turned into
+after taking a glass of soda-[[Water|water]] and brandy at the bar, he turned into
 the coffee-room, dispirited rather than elevated by the occurrences of
 the evening.
 
-Sitting in front of the fire, with his back towards him, was a tallish
+Sitting in front of the [[Fire|fire]], with his back towards him, was a tallish
 gentleman in a greatcoat: the only other occupant of the room. It was
 rather a cool evening for the season of the year, and the gentleman drew
-his chair aside to afford the new-comer a sight of the fire. What were
+his chair aside to afford the new-comer a sight of the [[Fire|fire]]. What were
 Mr. Winkle’s feelings when, in doing so, he disclosed to view the face
 and figure of the vindictive and sanguinary Dowler!
 
@@ -425,12 +425,12 @@ me.’
 ‘Sir,’ said Mr. Winkle, trembling from head to foot, ‘before I consent
 to sit down beside, or opposite you, without the presence of a waiter, I
 must be secured by some further understanding. You used a threat against
-me last night, Sir, a dreadful threat, Sir.’ Here Mr. Winkle turned very
+me last [[Night|night]], Sir, a dreadful threat, Sir.’ Here Mr. Winkle turned very
 pale indeed, and stopped short.
 
 ‘I did,’ said Dowler, with a countenance almost as white as Mr.
 Winkle’s. ‘Circumstances were suspicious. They have been explained. I
-respect your bravery. Your feeling is upright. Conscious innocence.
+respect your bravery. Your feeling is upright. Conscious [[innocence]].
 There’s my hand. Grasp it.’
 
 ‘Really, Sir,’ said Mr. Winkle, hesitating whether to give his hand or
@@ -447,7 +447,7 @@ extreme spirit, and he had a higher opinion of him than ever.
 did you follow? Be frank. Tell me.’
 
 ‘It’s quite accidental,’ replied Mr. Winkle, greatly perplexed by the
-curious and unexpected nature of the interview. ‘Quite.’
+curious and unexpected [[Nature|nature]] of the interview. ‘Quite.’
 
 ‘Glad of it,’ said Dowler. ‘I woke this morning. I had forgotten my
 threat. I laughed at the accident. I felt friendly. I said so.’
@@ -460,7 +460,7 @@ rash one,” said she. “It was,” said I. “I’ll apologise. Where is he?�
 ‘Who?’ inquired Mr. Winkle.
 
 ‘You,’ replied Dowler. ‘I went downstairs. You were not to be found.
-Pickwick looked gloomy. Shook his head. Hoped no violence would be
+[[Pickwick]] looked gloomy. Shook his head. Hoped no violence would be
 committed. I saw it all. You felt yourself insulted. You had gone, for a
 friend perhaps. Possibly for pistols. “High spirit,” said I. “I admire
 him.”’
@@ -474,7 +474,7 @@ You required a verbal explanation. You were right. It’s all over now. My
 business is finished. I go back to-morrow. Join me.’
 
 As Dowler progressed in his explanation, Mr. Winkle’s countenance grew
-more and more dignified. The mysterious nature of the commencement of
+more and more dignified. The mysterious [[Nature|nature]] of the commencement of
 their conversation was explained; Mr. Dowler had as great an objection
 to duelling as himself; in short, this blustering and awful personage
 was one of the most egregious cowards in existence, and interpreting Mr.
@@ -484,15 +484,15 @@ should have subsided.
 
 As the real state of the case dawned upon Mr. Winkle’s mind, he looked
 very terrible, and said he was perfectly satisfied; but at the same
-time, said so with an air that left Mr. Dowler no alternative but to
+[[Time|time]], said so with an air that left Mr. Dowler no alternative but to
 infer that if he had not been, something most horrible and destructive
 must inevitably have occurred. Mr. Dowler appeared to be impressed with
 a becoming sense of Mr. Winkle’s magnanimity and condescension; and the
-two belligerents parted for the night, with many protestations of
-eternal friendship.
+two belligerents parted for the [[Night|night]], with many protestations of
+eternal [[Friendship|friendship]].
 
-About half-past twelve o’clock, when Mr. Winkle had been revelling some
-twenty minutes in the full luxury of his first sleep, he was suddenly
+About half-past twelve o’[[Clock|clock]], when Mr. Winkle had been revelling some
+twenty minutes in the full luxury of his first [[Sleep|sleep]], he was suddenly
 awakened by a loud knocking at his chamber door, which, being repeated
 with increased vehemence, caused him to start up in bed, and inquire who
 was there, and what the matter was.
@@ -529,16 +529,16 @@ indignantly. ‘Get out, sir, this instant. What do you mean, Sir?’
 ‘What do I mean,’ retorted Sam; ‘come, Sir, this is rayther too rich, as
 the young lady said when she remonstrated with the pastry-cook, arter
 he’d sold her a pork pie as had got nothin’ but fat inside. What do I
-mean! Well, that ain’t a bad ‘un, that ain’t.’
+mean! [[Well]], that ain’t a bad ‘un, that ain’t.’
 
 ‘Unlock that door, and leave this room immediately, Sir,’ said Mr.
 Winkle.
 
 ‘I shall leave this here room, sir, just precisely at the wery same
-moment as you leaves it,’ responded Sam, speaking in a forcible manner,
+moment as you [[Leaves|leaves]] it,’ responded Sam, speaking in a forcible manner,
 and seating himself with perfect gravity. ‘If I find it necessary to
 carry you away, pick-a-back, o’ course I shall leave it the least bit o’
-time possible afore you; but allow me to express a hope as you won’t
+[[Time|time]] possible afore you; but allow me to express a [[Hope|hope]] as you won’t
 reduce me to extremities; in saying wich, I merely quote wot the
 nobleman said to the fractious pennywinkle, ven he vouldn’t come out of
 his shell by means of a pin, and he conseqvently began to be afeered
@@ -558,13 +558,13 @@ folded his arms with a look of great disgust, and threw himself back in
 his chair, as if awaiting the criminal’s defence.
 
 ‘My good fellow,’ said Mr. Winkle, extending his hand--his teeth
-chattering all the time he spoke, for he had been standing, during the
-whole of Mr. Weller’s lecture, in his night-gear--‘my good fellow, I
+chattering all the [[Time|time]] he spoke, for he had been standing, during the
+whole of Mr. Weller’s lecture, in his [[Night|night]]-gear--‘my good fellow, I
 respect your attachment to my excellent friend, and I am very sorry
 indeed to have added to his causes for disquiet. There, Sam, there!’
 
-‘Well,’ said Sam, rather sulkily, but giving the proffered hand a
-respectful shake at the same time--‘well, so you ought to be, and I am
+‘[[Well]],’ said Sam, rather sulkily, but giving the proffered hand a
+respectful shake at the same [[Time|time]]--‘[[Well|well]], so you ought to be, and I am
 very glad to find you air; for, if I can help it, I won’t have him put
 upon by nobody, and that’s all about it.’
 
@@ -577,7 +577,7 @@ we’ll talk further about this in the morning.’
 
 ‘No,’ said Sam, shaking his head. ‘Can’t be done.’
 
-‘You don’t mean to say you’re going back to-night, Sam?’ urged Mr.
+‘You don’t mean to say you’re going back to-[[Night|night]], Sam?’ urged Mr.
 Winkle, greatly surprised.
 
 ‘Not unless you particklerly wish it,’ replied Sam; ‘but I mustn’t leave
@@ -600,15 +600,15 @@ conditions:--
 That Sam should retire, and leave Mr. Winkle in the undisturbed
 possession of his apartment, on the condition that he had permission to
 lock the door on the outside, and carry off the key; provided always,
-that in the event of an alarm of fire, or other dangerous contingency,
+that in the event of an alarm of [[Fire|fire]], or other dangerous contingency,
 the door should be instantly unlocked. That a letter should be written
-to Mr. Pickwick early next morning, and forwarded per Dowler, requesting
+to Mr. [[Pickwick]] early next morning, and forwarded per Dowler, requesting
 his consent to Sam and Mr. Winkle’s remaining at Bristol, for the
 purpose and with the object already assigned, and begging an answer by
 the next coach--, if favourable, the aforesaid parties to remain
 accordingly, and if not, to return to Bath immediately on the receipt
 thereof. And, lastly, that Mr. Winkle should be understood as distinctly
-pledging himself not to resort to the window, fireplace, or other
+pledging himself not to resort to the [[Window|window]], fireplace, or other
 surreptitious mode of escape in the meanwhile. These stipulations having
 been concluded, Sam locked the door and departed.
 
@@ -622,5 +622,5 @@ morrow, anyvays.’
 
 Apparently much consoled by this reflection, Mr. Weller once more
 deposited the key in his pocket, and descending the remainder of the
-stairs without any fresh visitations of conscience, was soon, in common
-with the other inmates of the house, buried in profound repose.
+stairs without any fresh visitations of [[Conscience|conscience]], was soon, in common
+with the other inmates of the [[house]], buried in profound repose.

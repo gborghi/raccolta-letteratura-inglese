@@ -16,21 +16,21 @@ tags:
 
 'What do you mean?' asked Taylor sharply.
 
-But he got no answer out of Father Brown, who was once more completely
-concentrated on jiggling the little handle of the machine, that made one
+But he got no answer out of [[Father Brown]], who was once more completely
+concentrated on jiggling the little handle of the [[Machine|machine]], that made one
 doll jump out and then another doll jump after it.
 
-'Father Brown,' said Muggleton, his old annoyance faintly reviving:
-'Will you tell me why you like that fool thing so much?'
+'[[Father Brown]],' said Muggleton, his old annoyance faintly reviving:
+'Will you tell me why you like that [[Fool|fool]] thing so much?'
 
 'For one reason,' replied the priest, peering closely into the glass
-puppet - show. 'Because it contains the secret of this tragedy.'
+puppet - show. 'Because it contains the secret of this [[Tragedy|tragedy]].'
 
 Then he suddenly straightened himself; and looked quite seriously at his
 companion.
 
-'I knew all along,' he said, 'that you were telling the truth and the
-opposite of the truth.'
+'I knew all along,' he said, 'that you were telling the [[Truth|truth]] and the
+opposite of the [[Truth|truth]].'
 
 Muggleton could only stare at a return of all the riddles.
 
@@ -52,8 +52,8 @@ Trust Magnate, the great merchant prince, the ruler of markets.â But
 when I heard about the air of dignity and authority, I said to myself,
 âThat's the actor; everything about this is the actor, â You don't get
 that look by being President of the Chain Store Amalgamation Company.
-You get that look by being Hamlet's Father's Ghost, or Julius Caesar, or
-King Lear, and you never altogether lose it. You couldn't see enough of
+You get that look by being [[Hamlet]]'s Father's [[Ghost]], or [[Julius Caesar]], or
+[[King Lear]], and you never altogether lose it. You couldn't see enough of
 his clothes to tell whether they were really seedy, but you saw a strip
 of fur and a sort of faintly fashionable cut; and I said to myself
 again, âThe actor.â
@@ -78,18 +78,18 @@ and luxurious Count Fosco, fleeing for his life before a secret society,
 was found stabbed in the blue blouse of a common French workman? Then
 let us go back for a moment to the demeanour of these men. You saw the
 first man calm and collected and you said to yourself, âThat's the
-innocent victimâ; though the innocent victim's own letter wasn't at all
+[[Innocent|innocent]] victimâ; though the [[Innocent|innocent]] victim's own letter wasn't at all
 calm and collected. I heard he was calm and collected; and I said to
 myself, âThat's the murderer.â Why should he be anything else but calm
 and collected? He knew what he was going to do. He had made up his mind
-to do it for a long time; if he had ever had any hesitation or remorse
+to do it for a long [[Time|time]]; if he had ever had any hesitation or remorse
 he had hardened himself against them before he came on the scene - in
 his case, we might say, on the stage. He wasn't likely to have any
-particular stage - fright. He didn't pull out his pistol and wave it
+particular stage - fright. He didn't pull out his [[Pistol|pistol]] and wave it
 about; why should he? He kept it in his pocket till he wanted it; very
-likely he fired from his pocket. The other man fidgeted with his pistol
+likely he fired from his pocket. The other man fidgeted with his [[Pistol|pistol]]
 because he was nervous as a cat, and very probably had never had a
-pistol before. He did it for the same reason that he rolled his eyes;
+[[Pistol|pistol]] before. He did it for the same reason that he rolled his eyes;
 and I remember that, even in your own unconscious evidence, it is
 particularly stated that he rolled them backwards. In fact, he was
 looking behind him. In fact, he was not the pursuer but the pursued. But
@@ -98,9 +98,9 @@ thinking of the other man as coming up behind him. In mere mathematics
 and mechanics, each of them was running after the other - just like the
 others.'
 
-'What others?' inquired the dazed detective.
+'What others?' inquired the dazed [[Detective|detective]].
 
-'Why, these,' cried Father Brown, striking the automatic machine with
+'Why, these,' cried [[Father Brown]], striking the automatic [[Machine|machine]] with
 the little wooden spade, which had incongruously remained in his hand
 throughout these murderous mysteries. 'These little clockwork dolls that
 chase each other round and round for ever. Let us call them Mr Blue and
@@ -115,26 +115,26 @@ the murderer leaving the pier - '
 'They never looked for the murderer leaving the pier,' said the other.
 'Nobody told them to look for a quiet clean - shaven gentleman in an
 astrakhan coat. All the mystery of his vanishing revolved on your
-description of a hulking fellow in a red neckcloth. But the simple truth
+description of a hulking fellow in a red neckcloth. But the simple [[Truth|truth]]
 was that the actor in the astrakhan coat murdered the millionaire with
-the red rag, and there is the poor fellow's body. It's just like the red
+the red rag, and there is the poor fellow's [[Body|body]]. It's just like the red
 and blue dolls; only, because you saw one first, you guessed wrong about
 which was red with vengeance and which was blue with funk.'
 
 At this point two or three children began to straggle across the sands,
 and the priest waved them to him with the wooden spade, theatrically
-tapping the automatic machine. Muggleton guessed that it was mainly to
+tapping the automatic [[Machine|machine]]. Muggleton guessed that it was mainly to
 prevent their straying towards the horrible heap on the shore.
 
-'One more penny left in the world,' said Father Brown, 'and then we must
-go home to tea. Do you know, Doris, I rather like those revolving games,
+'One more penny left in the world,' said [[Father Brown]], 'and then we must
+go [[Home|home]] to tea. Do you know, Doris, I rather like those revolving games,
 that just go round and round like the Mulberry - Bush. After all, God
-made all the suns and stars to play Mulberry - Bush. But those other
+made all the suns and [[Stars|stars]] to play Mulberry - Bush. But those other
 games, where one must catch up with another, where runners are rivals
-and run neck and neck and outstrip each other; well - much nastier
+and run neck and neck and outstrip each other; [[Well|well]] - much nastier
 things seem to happen. I like to think of Mr Red and Mr Blue always
 jumping with undiminished spirits; all free and equal; and never hurting
-each other. âFond lover, never, never, wilt thou kiss - or kill.â Happy,
+each other. âFond [[Lover|lover]], never, never, wilt thou kiss - or kill.â Happy,
 happy Mr Red!
 
 He cannot change; though thou hast not thy bliss,

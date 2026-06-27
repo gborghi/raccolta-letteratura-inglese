@@ -16,7 +16,7 @@ tags:
 
 ‘You knew my father infinitely better than I ever knew him; and his
 reserve with me yielded to you. You were much the stronger, mother, and
-directed him. As a child, I knew it as well as I know it now. I knew
+directed him. As a [[Child|child]], I knew it as [[Well|well]] as I know it now. I knew
 that your ascendancy over him was the cause of his going to China to
 take care of the business there, while you took care of it here (though
 I do not even now know whether these were really terms of separation
@@ -33,8 +33,8 @@ his will:
 suspect--’
 
 At the word Suspect, she turned her eyes momentarily upon her son, with
-a dark frown. She then suffered them to seek the fire, as before; but
-with the frown fixed above them, as if the sculptor of old Egypt had
+a dark frown. She then suffered them to seek the [[Fire|fire]], as before; but
+with the frown fixed above them, as if the sculptor of old [[Egypt]] had
 indented it in the hard granite face, to frown for ages.
 
 ‘--that he had any secret remembrance which caused him trouble of
@@ -43,7 +43,7 @@ suggesting that; or ever spoke to him upon it, or ever heard him hint at
 such a thing?’
 
 ‘I do not understand what kind of secret remembrance you mean to infer
-that your father was a prey to,’ she returned, after a silence. ‘You
+that your father was a prey to,’ she returned, after a [[Silence|silence]]. ‘You
 speak so mysteriously.’
 
 ‘Is it possible, mother,’ her son leaned forward to be the nearer to her
@@ -55,9 +55,9 @@ Looking at him wrathfully, she bent herself back in her chair to keep
 him further off, but gave him no reply.
 
 ‘I am deeply sensible, mother, that if this thought has never at any
-time flashed upon you, it must seem cruel and unnatural in me, even in
-this confidence, to breathe it. But I cannot shake it off. Time and
-change (I have tried both before breaking silence) do nothing to wear it
+[[Time|time]] flashed upon you, it must seem cruel and unnatural in me, even in
+this confidence, to breathe it. But I cannot shake it off. [[Time]] and
+change (I have tried both before breaking [[Silence|silence]]) do nothing to wear it
 out.  Remember, I was with my father. Remember, I saw his face when he
 gave the watch into my keeping, and struggled to express that he sent it
 as a token you would understand, to you. Remember, I saw him at the last
@@ -69,10 +69,10 @@ us examine sacredly whether there is any wrong entrusted to us to set
 right. No one can help towards it, mother, but you.’
 
 Still so recoiling in her chair that her overpoised weight moved it,
-from time to time, a little on its wheels, and gave her the appearance
-of a phantom of fierce aspect gliding away from him, she interposed her
+from [[Time|time]] to [[Time|time]], a little on its wheels, and gave her the appearance
+of a [[Phantom|phantom]] of fierce aspect gliding away from him, she interposed her
 left arm, bent at the elbow with the back of her hand towards her face,
-between herself and him, and looked at him in a fixed silence.
+between herself and him, and looked at him in a fixed [[Silence|silence]].
 
 ‘In grasping at money and in driving hard bargains--I have begun, and I
 must speak of such things now, mother--some one may have been grievously
@@ -80,15 +80,15 @@ deceived, injured, ruined. You were the moving power of all this
 machinery before my birth; your stronger spirit has been infused into
 all my father’s dealings for more than two score years. You can set
 these doubts at rest, I think, if you will really help me to discover
-the truth. Will you, mother?’
+the [[Truth|truth]]. Will you, mother?’
 
-He stopped in the hope that she would speak. But her grey hair was not
+He stopped in the [[Hope|hope]] that she would speak. But her grey hair was not
 more immovable in its two folds, than were her firm lips.
 
 ‘If reparation can be made to any one, if restitution can be made to any
 one, let us know it and make it. Nay, mother, if within my means, let
 _me_ make it. I have seen so little happiness come of money; it has
-brought within my knowledge so little peace to this house, or to any one
+brought within my knowledge so little peace to this [[house]], or to any one
 belonging to it, that it is worth less to me than to another. It can buy
 me nothing that will not be a reproach and misery to me, if I am haunted
 by a suspicion that it darkened my father’s last hours with remorse, and
@@ -110,17 +110,17 @@ stroking his face. ‘I thought you would be. I was pretty sure of it.’
 
 ‘Flintwinch!’ said the mother, ‘look at my son. Look at him!’
 
-‘Well, I _am_ looking at him,’ said Flintwinch.
+‘[[Well]], I _am_ looking at him,’ said Flintwinch.
 
 She stretched out the arm with which she had shielded herself, and as
 she went on, pointed at the object of her anger.
 
 ‘In the very hour of his return almost--before the shoe upon his foot is
-dry--he asperses his father’s memory to his mother! Asks his mother
+dry--he asperses his father’s [[Memory|memory]] to his mother! Asks his mother
 to become, with him, a spy upon his father’s transactions through a
 lifetime! Has misgivings that the goods of this world which we have
 painfully got together early and late, with wear and tear and toil and
-self-denial, are so much plunder; and asks to whom they shall be given
+[[Self|self]]-denial, are so much plunder; and asks to whom they shall be given
 up, as reparation and restitution!’
 
 Although she said this raging, she said it in a voice so far from being
@@ -129,7 +129,7 @@ spoke with great distinctness.
 
 ‘Reparation!’ said she. ‘Yes, truly! It is easy for him to talk of
 reparation, fresh from journeying and junketing in foreign lands, and
-living a life of vanity and pleasure. But let him look at me, in prison,
+living a life of [[Vanity|vanity]] and pleasure. But let him look at me, in [[Prison|prison]],
 and in bonds here. I endure without murmuring, because it is appointed
 that I shall so make reparation for my sins. Reparation! Is there none
 in this room? Has there been none here this fifteen years?’

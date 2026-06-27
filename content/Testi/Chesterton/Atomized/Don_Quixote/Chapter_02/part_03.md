@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 1 (part 3)"
+title: "[[Don Quixote]] — Chapter 1 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -27,12 +27,12 @@ things if you call him a Socialist.  He is a Syndicalist."
 things better," said Archer in a general manner, "but nobody
 can defend a man who sets one class against another as he does;
 talking about manual labour and all sorts of impossible Utopias.
-I've always said that Capital has its duties as well as its--."
+I've always said that Capital has its duties as [[Well|well]] as its--."
 
-"Well," interposed Murrel hastily, "I'm prejudiced in the present case.
+"[[Well]]," interposed Murrel hastily, "I'm prejudiced in the present case.
 Look at me; you couldn't have anybody more manual than I am."
 
-"Well, he won't act, anyhow," repeated Archer, "and we must
+"[[Well]], he won't act, anyhow," repeated Archer, "and we must
 find somebody.  It's only the Second Troubadour, of course,
 and anybody can do it.  But it must be somebody fairly young;
 that's the only reason I thought of Braintree."
@@ -47,7 +47,7 @@ are sordid; just prosaic and low, and wrangling about machinery
 and money--materialists.  They just want a world of atheists,
 that would soon be a world of apes."
 
-After a silence, Murrel crossed to the other end of the long
+After a [[Silence|silence]], Murrel crossed to the other end of the long
 room and could be heard calling a number into the telephone.
 There ensued one of those half conversations that make the hearer
 feel as if he were literally half-witted: but in this case
@@ -63,7 +63,7 @@ I won't even paint you--all right."
 
 He rang off and returned to his creative labours, whistling.
 
-"Do you know Mr. Braintree?" asked Olive, with some wonder.
+"Do you know Mr. Braintree?" asked Olive, with some [[Wonder|wonder]].
 
 "You know I have a taste for low company," answered Murrel.
 
@@ -73,7 +73,7 @@ He rang off and returned to his creative labours, whistling.
 "A taste for low company doesn't make people thieves," said Murrel,
 "it's generally a taste for high company that does that."
 And he proceeded to decorate a vivid violet pillar with very large
-orange stars, in accordance with the well-known style of the
-ornamentation of throne-rooms in the reign of Richard the First.
+orange [[Stars|stars]], in accordance with the [[Well|well]]-known style of the
+ornamentation of throne-rooms in the reign of [[Richard]] the First.
 
 -^-

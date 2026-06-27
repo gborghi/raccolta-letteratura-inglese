@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 9 (part 5)"
+title: "[[Don Quixote]] — Chapter 9 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -15,17 +15,17 @@ tags:
 
 
 Murrel was not entirely unacquainted with the scientific regulation,
-under which was being enacted the last act of the tragedy of
+under which was being enacted the last act of the [[Tragedy|tragedy]] of
 Hendry's Illumination Colours.  He remembered having had an argument
-a long time ago with Julian Archer who was great on the subject.
+a long [[Time|time]] ago with Julian Archer who was great on the subject.
 It was a part of that quality in Julian Archer which fitted
 him so specially and supremely to be a public man.
 He could become suddenly and quite sincerely hot on any subject,
 so long as it was the subject filling the newspapers at the moment.
-If the King of Albania (whose private life, alas, leaves so much
+If the [[King]] of Albania (whose private life, alas, [[Leaves|leaves]] so much
 to be desired) were at that moment on bad terms with the sixth
 German princess who had married into his family, Mr. Julian Archer
-was instantly transformed into a knight-errant ready to cross
+was instantly transformed into a knight-errant ready to [[Cross|cross]]
 Europe on her behalf, without any reference to the other five
 princesses who were not for the moment in the public eye.
 The type and the individual will be completely misunderstood,
@@ -78,16 +78,16 @@ It was called Spinal Repulsion and traced brain trouble
 in all those who sat on the edges of chairs, as Hendry did.
 Dr. Gambrel had collected quite a large number of poor people off
 the edges of chairs; fit symbol of the insecure ledge of their lives.
-He was quite prepared to explain this theory in the court,
+He was quite prepared to explain this theory in the [[Court|court]],
 but he had no opportunity of explaining it in the cab.
 
 There was something macabre about the progress of the cab
 crawling up the steep streets of that grey seaside town.
 From infancy he had felt the phrase "a crawling cab" had a touch
-of nightmare; as if the cab crept after its fares and swallowed
-them with its yawning jaws.  The horse had an angular outline:
+of [[nightmare]]; as if the cab crept after its fares and swallowed
+them with its yawning jaws.  The [[Horse|horse]] had an angular outline:
 the dark woods inlaying the cab the hint of a coffin.
-The road grew steeper, the street rearing against the cabhorse
+The [[Road|road]] grew steeper, the street rearing against the cabhorse
 or the cabhorse against the cab.  But they came to a standstill
 before a porch with two pillars between which they saw
 the grey-green sea.

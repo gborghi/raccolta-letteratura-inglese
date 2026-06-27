@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 17 (part 6)"
+title: "[[Jane Eyre]] — Chapter 17 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -29,7 +29,7 @@ at him, and chatters like a wren: she likes him better than she does
 Mr. Rochester. Henry Lynn has taken possession of an ottoman at the
 feet of Louisa: Adèle shares it with him: he is trying to talk French
 with her, and Louisa laughs at his blunders. With whom will Blanche
-Ingram pair? She is standing alone at the table, bending gracefully
+Ingram pair? She is standing [[Alone|alone]] at the table, bending gracefully
 over an album. She seems waiting to be sought; but she will not wait
 too long: she herself selects a mate.
 
@@ -52,7 +52,7 @@ station on the opposite side of the mantelpiece.
 
 “Why, I suppose you have a governess for her: I saw a person with her
 just now—is she gone? Oh, no! there she is still, behind the
-window-curtain. You pay her, of course; I should think it quite as
+[[Window|window]]-curtain. You pay her, of course; I should think it quite as
 expensive,—more so; for you have them both to keep in addition.”
 
 I feared—or should I say, hoped?—the allusion to me would make Mr.
@@ -73,14 +73,14 @@ The young lady thus claimed as the dowager’s special property,
 reiterated her question with an explanation.
 
 “My dearest, don’t mention governesses; the word makes me nervous. I
-have suffered a martyrdom from their incompetency and caprice. I thank
+have suffered a [[Martyrdom|martyrdom]] from their incompetency and caprice. I thank
 Heaven I have now done with them!”
 
 Mrs. Dent here bent over to the pious lady and whispered something in
 her ear; I suppose, from the answer elicited, it was a reminder that
 one of the anathematised race was present.
 
-“Tant pis!” said her Ladyship, “I hope it may do her good!” Then, in a
+“Tant pis!” said her Ladyship, “I [[Hope|hope]] it may do her good!” Then, in a
 lower tone, but still loud enough for me to hear, “I noticed her; I am
 a judge of physiognomy, and in hers I see all the faults of her class.”
 
@@ -104,7 +104,7 @@ Mrs. Grey was coarse and insensible; no blow took effect on her. But
 poor Madame Joubert! I see her yet in her raging passions, when we had
 driven her to extremities—spilt our tea, crumbled our bread and butter,
 tossed our books up to the ceiling, and played a charivari with the
-ruler and desk, the fender and fire-irons. Theodore, do you remember
+ruler and desk, the fender and [[Fire|fire]]-irons. Theodore, do you remember
 those merry days?”
 
 “Yaas, to be sure I do,” drawled Lord Ingram; “and the poor old stick
@@ -115,20 +115,20 @@ when she was herself so ignorant.”
 “We did; and, Tedo, you know, I helped you in prosecuting (or
 persecuting) your tutor, whey-faced Mr. Vining—the parson in the pip,
 as we used to call him. He and Miss Wilson took the liberty of falling
-in love with each other—at least Tedo and I thought so; we surprised
+in [[Love|love]] with each other—at least Tedo and I thought so; we surprised
 sundry tender glances and sighs which we interpreted as tokens of ‘la
 belle passion,’ and I promise you the public soon had the benefit of
 our discovery; we employed it as a sort of lever to hoist our
-dead-weights from the house. Dear mama, there, as soon as she got an
+dead-weights from the [[house]]. Dear mama, there, as soon as she got an
 inkling of the business, found out that it was of an immoral tendency.
 Did you not, my lady-mother?”
 
 “Certainly, my best. And I was quite right: depend on that: there are a
 thousand reasons why liaisons between governesses and tutors should
-never be tolerated a moment in any well-regulated house; firstly—”
+never be tolerated a moment in any [[Well|well]]-regulated [[house]]; firstly—”
 
 “Oh, gracious, mama! Spare us the enumeration! _Au reste_, we all know
-them: danger of bad example to innocence of childhood; distractions and
+them: danger of bad example to [[innocence]] of [[Childhood|childhood]]; distractions and
 consequent neglect of duty on the part of the attached—mutual alliance
 and reliance; confidence thence resulting—insolence accompanying—mutiny
 and general blow-up. Am I right, Baroness Ingram, of Ingram Park?”
@@ -140,4 +140,4 @@ and general blow-up. Am I right, Baroness Ingram, of Ingram Park?”
 Amy Eshton, not hearing or not heeding this dictum, joined in with her
 soft, infantine tone: “Louisa and I used to quiz our governess too; but
 she was such a good creature, she would bear anything: nothing put her
-out. She was never cross with us; was she, Louisa?”
+out. She was never [[Cross|cross]] with us; was she, Louisa?”

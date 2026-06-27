@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 7: HOW MR. WINKLE, INSTEAD OF SHOOTING AT THE PIGEON AND"
+title: "The [[Pickwick]] Papers — Chapter 7: HOW MR. WINKLE, INSTEAD OF SHOOTING AT THE PIGEON AND"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -22,65 +22,65 @@ INSTRUCTIVE MATTERS
 
 The fatiguing adventures of the day or the somniferous influence of the
 clergyman’s tale operated so strongly on the drowsy tendencies of Mr.
-Pickwick, that in less than five minutes after he had been shown to his
-comfortable bedroom he fell into a sound and dreamless sleep, from which
+[[Pickwick]], that in less than five minutes after he had been shown to his
+comfortable bedroom he fell into a sound and dreamless [[Sleep|sleep]], from which
 he was only awakened by the morning sun darting his bright beams
-reproachfully into the apartment. Mr. Pickwick was no sluggard, and he
+reproachfully into the apartment. Mr. [[Pickwick]] was no sluggard, and he
 sprang like an ardent warrior from his tent-bedstead.
 
 ‘Pleasant, pleasant country,’ sighed the enthusiastic gentleman, as he
-opened his lattice window. ‘Who could live to gaze from day to day on
+opened his lattice [[Window|window]]. ‘Who could live to gaze from day to day on
 bricks and slates who had once felt the influence of a scene like this?
 Who could continue to exist where there are no cows but the cows on the
 chimney-pots; nothing redolent of Pan but pan-tiles; no crop but stone
 crop? Who could bear to drag out a life in such a spot? Who, I ask,
-could endure it?’ and, having cross-examined solitude after the most
-approved precedents, at considerable length, Mr. Pickwick thrust his
+could endure it?’ and, having [[Cross|cross]]-examined [[Solitude|solitude]] after the most
+approved precedents, at considerable length, Mr. [[Pickwick]] thrust his
 head out of the lattice and looked around him.
 
-The rich, sweet smell of the hay-ricks rose to his chamber window; the
-hundred perfumes of the little flower-garden beneath scented the air
+The rich, sweet smell of the hay-ricks [[Rose|rose]] to his chamber [[Window|window]]; the
+hundred perfumes of the little flower-[[Garden|garden]] beneath scented the air
 around; the deep-green meadows shone in the morning dew that glistened
-on every leaf as it trembled in the gentle air; and the birds sang as if
+on every leaf as it trembled in the gentle air; and the [[Birds|birds]] sang as if
 every sparkling drop were to them a fountain of inspiration. Mr.
-Pickwick fell into an enchanting and delicious reverie.
+[[Pickwick]] fell into an enchanting and delicious reverie.
 
 ‘Hollo!’ was the sound that roused him.
 
 He looked to the right, but he saw nobody; his eyes wandered to the
 left, and pierced the prospect; he stared into the sky, but he wasn’t
 wanted there; and then he did what a common mind would have done at
-once--looked into the garden, and there saw Mr. Wardle.
+once--looked into the [[Garden|garden]], and there saw Mr. Wardle.
 
 ‘How are you?’ said the good-humoured individual, out of breath with his
 own anticipations of pleasure.’Beautiful morning, ain’t it? Glad to see
 you up so early. Make haste down, and come out. I’ll wait for you here.’
 
-Mr. Pickwick needed no second invitation. Ten minutes sufficed for the
-completion of his toilet, and at the expiration of that time he was by
+Mr. [[Pickwick]] needed no second invitation. Ten minutes sufficed for the
+completion of his toilet, and at the expiration of that [[Time|time]] he was by
 the old gentleman’s side.
 
-‘Hollo!’ said Mr. Pickwick in his turn, seeing that his companion was
+‘Hollo!’ said Mr. [[Pickwick]] in his turn, seeing that his companion was
 armed with a gun, and that another lay ready on the grass; ‘what’s going
 forward?’
 
 ‘Why, your friend and I,’ replied the host, ‘are going out rook-shooting
 before breakfast. He’s a very good shot, ain’t he?’
 
-‘I’ve heard him say he’s a capital one,’ replied Mr. Pickwick, ‘but I
+‘I’ve heard him say he’s a capital one,’ replied Mr. [[Pickwick]], ‘but I
 never saw him aim at anything.’
 
-‘Well,’ said the host, ‘I wish he’d come. Joe--Joe!’
+‘[[Well]],’ said the host, ‘I wish he’d come. Joe--Joe!’
 
 The fat boy, who under the exciting influence of the morning did not
 appear to be more than three parts and a fraction asleep, emerged from
-the house.
+the [[house]].
 
 ‘Go up, and call the gentleman, and tell him he’ll find me and Mr.
-Pickwick in the rookery. Show the gentleman the way there; d’ye hear?’
+[[Pickwick]] in the rookery. Show the gentleman the way there; d’ye hear?’
 
 The boy departed to execute his commission; and the host, carrying both
-guns like a second Robinson Crusoe, led the way from the garden.
+guns like a second Robinson Crusoe, led the way from the [[Garden|garden]].
 
 ‘This is the place,’ said the old gentleman, pausing after a few minutes
 walking, in an avenue of trees. The information was unnecessary; for the
@@ -89,7 +89,7 @@ whereabouts.
 
 The old gentleman laid one gun on the ground, and loaded the other.
 
-‘Here they are,’ said Mr. Pickwick; and, as he spoke, the forms of Mr.
+‘Here they are,’ said Mr. [[Pickwick]]; and, as he spoke, the forms of Mr.
 Tupman, Mr. Snodgrass, and Mr. Winkle appeared in the distance. The fat
 boy, not being quite certain which gentleman he was directed to call,
 had with peculiar sagacity, and to prevent the possibility of any
@@ -101,7 +101,7 @@ this.’
 
 Mr. Winkle responded with a forced smile, and took up the spare gun with
 an expression of countenance which a metaphysical rook, impressed with a
-foreboding of his approaching death by violence, may be supposed to
+foreboding of his approaching [[Death|death]] by violence, may be supposed to
 assume. It might have been keenness, but it looked remarkably like
 misery.
 
@@ -109,7 +109,7 @@ The old gentleman nodded; and two ragged boys who had been marshalled to
 the spot under the direction of the infant Lambert, forthwith commenced
 climbing up two of the trees.
 
-‘What are these lads for?’ inquired Mr. Pickwick abruptly. He was rather
+‘What are these lads for?’ inquired Mr. [[Pickwick]] abruptly. He was rather
 alarmed; for he was not quite certain but that the distress of the
 agricultural interest, about which he had often heard a great deal,
 might have compelled the small boys attached to the soil to earn a
@@ -118,7 +118,7 @@ inexperienced sportsmen.
 
 ‘Only to start the game,’ replied Mr. Wardle, laughing.
 
-‘To what?’ inquired Mr. Pickwick.
+‘To what?’ inquired Mr. [[Pickwick]].
 
 ‘Why, in plain English, to frighten the rooks.’
 
@@ -128,7 +128,7 @@ inexperienced sportsmen.
 
 ‘Quite.’
 
-‘Very well. Shall I begin?’
+‘Very [[Well|well]]. Shall I begin?’
 
 ‘If you please,’ said Mr. Winkle, glad of any respite.
 
@@ -142,12 +142,12 @@ off flew the others.
 ‘Take him up, Joe,’ said the old gentleman.
 
 There was a smile upon the youth’s face as he advanced. Indistinct
-visions of rook-pie floated through his imagination. He laughed as he
+visions of rook-pie floated through his [[Imagination|imagination]]. He laughed as he
 retired with the bird--it was a plump one.
 
-‘Now, Mr. Winkle,’ said the host, reloading his own gun. ‘Fire away.’
+‘Now, Mr. Winkle,’ said the host, reloading his own gun. ‘[[Fire]] away.’
 
-Mr. Winkle advanced, and levelled his gun. Mr. Pickwick and his friends
+Mr. Winkle advanced, and levelled his gun. Mr. [[Pickwick]] and his friends
 cowered involuntarily to escape damage from the heavy fall of rooks,
 which they felt quite certain would be occasioned by the devastating
 barrel of their friend. There was a solemn pause--a shout--a flapping of
@@ -155,26 +155,26 @@ wings--a faint click.
 
 ‘Hollo!’ said the old gentleman.
 
-‘Won’t it go?’ inquired Mr. Pickwick.
+‘Won’t it go?’ inquired Mr. [[Pickwick]].
 
-‘Missed fire,’ said Mr. Winkle, who was very pale--probably from
+‘Missed [[Fire|fire]],’ said Mr. Winkle, who was very pale--probably from
 disappointment.
 
 ‘Odd,’ said the old gentleman, taking the gun. ‘Never knew one of them
-miss fire before. Why, I don’t see anything of the cap.’
+miss [[Fire|fire]] before. Why, I don’t see anything of the cap.’
 
-Bless my soul!’ said Mr. Winkle, ‘I declare I forgot the cap!’
+Bless my [[Soul|soul]]!’ said Mr. Winkle, ‘I declare I forgot the cap!’
 
-The slight omission was rectified. Mr. Pickwick crouched again. Mr.
+The slight omission was rectified. Mr. [[Pickwick]] crouched again. Mr.
 Winkle stepped forward with an air of determination and resolution; and
-Mr. Tupman looked out from behind a tree. The boy shouted; four birds
+Mr. Tupman looked out from behind a tree. The boy shouted; four [[Birds|birds]]
 flew out. Mr. Winkle fired. There was a scream as of an individual--not
 a rook--in corporal anguish. Mr. Tupman had saved the lives of
-innumerable unoffending birds by receiving a portion of the charge in
+innumerable unoffending [[Birds|birds]] by receiving a portion of the charge in
 his left arm.
 
 To describe the confusion that ensued would be impossible. To tell how
-Mr. Pickwick in the first transports of emotion called Mr. Winkle
+Mr. [[Pickwick]] in the first transports of emotion called Mr. Winkle
 ‘Wretch!’ how Mr. Tupman lay prostrate on the ground; and how Mr. Winkle
 knelt horror-stricken beside him; how Mr. Tupman called distractedly
 upon some feminine Christian name, and then opened first one eye, and
@@ -184,7 +184,7 @@ recovering of the unfortunate individual, the binding up of his arm with
 pocket-handkerchiefs, and the conveying him back by slow degrees
 supported by the arms of his anxious friends.
 
-They drew near the house. The ladies were at the garden gate, waiting
+They drew near the [[house]]. The ladies were at the [[Garden|garden]] gate, waiting
 for their arrival and their breakfast. The spinster aunt appeared; she
 smiled, and beckoned them to walk quicker. ‘Twas evident she knew not of
 the disaster. Poor thing! there are times when ignorance is bliss
@@ -192,14 +192,14 @@ indeed.
 
 They approached nearer.
 
-‘Why, what is the matter with the little old gentleman?’ said Isabella
+‘Why, what is the matter with the little old gentleman?’ said [[Isabella]]
 Wardle. The spinster aunt heeded not the remark; she thought it applied
-to Mr. Pickwick. In her eyes Tracy Tupman was a youth; she viewed his
+to Mr. [[Pickwick]]. In her eyes [[Tracy Tupman]] was a youth; she viewed his
 years through a diminishing glass.
 
 ‘Don’t be frightened,’ called out the old host, fearful of alarming his
 daughters. The little party had crowded so completely round Mr. Tupman,
-that they could not yet clearly discern the nature of the accident.
+that they could not yet clearly discern the [[Nature|nature]] of the accident.
 
 ‘Don’t be frightened,’ said the host.
 
@@ -210,14 +210,14 @@ that they could not yet clearly discern the nature of the accident.
 The spinster aunt uttered a piercing scream, burst into an hysteric
 laugh, and fell backwards in the arms of her nieces.
 
-‘Throw some cold water over her,’ said the old gentleman.
+‘Throw some cold [[Water|water]] over her,’ said the old gentleman.
 
 ‘No, no,’ murmured the spinster aunt; ‘I am better now. Bella, Emily--a
 surgeon! Is he wounded?--Is he dead?--Is he--Ha, ha, ha!’ Here the
 spinster aunt burst into fit number two, of hysteric laughter
 interspersed with screams.
 
-‘Calm yourself,’ said Mr. Tupman, affected almost to tears by this
+‘Calm yourself,’ said Mr. Tupman, affected almost to [[Tears|tears]] by this
 expression of sympathy with his sufferings. ‘Dear, dear madam, calm
 yourself.’
 
@@ -230,14 +230,14 @@ soothingly. ‘I am very little hurt, I assure you.’
 ‘Then you are not dead!’ ejaculated the hysterical lady. ‘Oh, say you
 are not dead!’
 
-‘Don’t be a fool, Rachael,’ interposed Mr. Wardle, rather more roughly
-than was consistent with the poetic nature of the scene. ‘What the
+‘Don’t be a [[Fool|fool]], Rachael,’ interposed Mr. Wardle, rather more roughly
+than was consistent with the poetic [[Nature|nature]] of the scene. ‘What the
 devil’s the use of his saying he isn’t dead?’
 
 ‘No, no, I am not,’ said Mr. Tupman. ‘I require no assistance but yours.
 Let me lean on your arm.’ He added, in a whisper, ‘Oh, Miss Rachael!’
 The agitated female advanced, and offered her arm. They turned into the
-breakfast parlour. Mr. Tracy Tupman gently pressed her hand to his lips,
+breakfast parlour. Mr. [[Tracy Tupman]] gently pressed her hand to his lips,
 and sank upon the sofa.
 
 ‘Are you faint?’ inquired the anxious Rachael.
@@ -255,34 +255,34 @@ The lady started. ‘Surely you did not hear them!’ she said bashfully.
 ‘Oh, yes, I did!’ replied Mr. Tupman; ‘repeat them. If you would have me
 recover, repeat them.’
 
-Hush!’ said the lady. ‘My brother.’ Mr. Tracy Tupman resumed his former
+Hush!’ said the lady. ‘My brother.’ Mr. [[Tracy Tupman]] resumed his former
 position; and Mr. Wardle, accompanied by a surgeon, entered the room.
 
 The arm was examined, the wound dressed, and pronounced to be a very
 slight one; and the minds of the company having been thus satisfied,
 they proceeded to satisfy their appetites with countenances to which an
-expression of cheerfulness was again restored. Mr. Pickwick alone was
-silent and reserved. Doubt and distrust were exhibited in his
+expression of cheerfulness was again restored. Mr. [[Pickwick]] [[Alone|alone]] was
+silent and reserved. [[Doubt]] and distrust were exhibited in his
 countenance. His confidence in Mr. Winkle had been shaken--greatly
 shaken--by the proceedings of the morning.
 
 ‘Are you a cricketer?’ inquired Mr. Wardle of the marksman.
 
-At any other time, Mr. Winkle would have replied in the affirmative. He
+At any other [[Time|time]], Mr. Winkle would have replied in the affirmative. He
 felt the delicacy of his situation, and modestly replied, ‘No.’
 
 ‘Are you, sir?’ inquired Mr. Snodgrass.
 
-‘I was once upon a time,’ replied the host; ‘but I have given it up now.
+‘I was once upon a [[Time|time]],’ replied the host; ‘but I have given it up now.
 I subscribe to the club here, but I don’t play.’
 
-‘The grand match is played to-day, I believe,’ said Mr. Pickwick.
+‘The grand match is played to-day, I believe,’ said Mr. [[Pickwick]].
 
 ‘It is,’ replied the host. ‘Of course you would like to see it.’
 
-‘I, sir,’ replied Mr. Pickwick, ‘am delighted to view any sports which
+‘I, sir,’ replied Mr. [[Pickwick]], ‘am delighted to view any sports which
 may be safely indulged in, and in which the impotent effects of
-unskilful people do not endanger human life.’ Mr. Pickwick paused, and
+unskilful people do not endanger human life.’ Mr. [[Pickwick]] paused, and
 looked steadily on Mr. Winkle, who quailed beneath his leader’s
 searching glance. The great man withdrew his eyes after a few minutes,
 and added: ‘Shall we be justified in leaving our wounded friend to the
@@ -292,7 +292,7 @@ care of the ladies?’
 
 ‘Quite impossible,’ said Mr. Snodgrass.
 
-It was therefore settled that Mr. Tupman should be left at home in
+It was therefore settled that Mr. Tupman should be left at [[Home|home]] in
 charge of the females; and that the remainder of the guests, under the
 guidance of Mr. Wardle, should proceed to the spot where was to be held
 that trial of skill, which had roused all Muggleton from its torpor, and
@@ -301,10 +301,10 @@ inoculated Dingley Dell with a fever of excitement.
 As their walk, which was not above two miles long, lay through shady
 lanes and sequestered footpaths, and as their conversation turned upon
 the delightful scenery by which they were on every side surrounded, Mr.
-Pickwick was almost inclined to regret the expedition they had used,
+[[Pickwick]] was almost inclined to regret the expedition they had used,
 when he found himself in the main street of the town of Muggleton.
 
-Everybody whose genius has a topographical bent knows perfectly well
+Everybody whose genius has a topographical bent knows perfectly [[Well|well]]
 that Muggleton is a corporate town, with a mayor, burgesses, and
 freemen; and anybody who has consulted the addresses of the mayor to the
 freemen, or the freemen to the mayor, or both to the corporation, or all
@@ -314,31 +314,31 @@ zealous advocacy of Christian principles with a devoted attachment to
 commercial rights; in demonstration whereof, the mayor, corporation, and
 other inhabitants, have presented at divers times, no fewer than one
 thousand four hundred and twenty petitions against the continuance of
-negro slavery abroad, and an equal number against any interference with
-the factory system at home; sixty-eight in favour of the sale of livings
-in the Church, and eighty-six for abolishing Sunday trading in the
+negro [[Slavery|slavery]] abroad, and an equal number against any interference with
+the factory system at [[Home|home]]; sixty-eight in favour of the sale of livings
+in the Church, and eighty-six for abolishing [[Sunday]] trading in the
 street.
 
-Mr. Pickwick stood in the principal street of this illustrious town, and
+Mr. [[Pickwick]] stood in the principal street of this illustrious town, and
 gazed with an air of curiosity, not unmixed with interest, on the
 objects around him. There was an open square for the market-place; and
 in the centre of it, a large inn with a sign-post in front, displaying
-an object very common in art, but rarely met with in nature--to wit, a
-blue lion, with three bow legs in the air, balancing himself on the
+an object very common in art, but rarely met with in [[Nature|nature]]--to wit, a
+blue [[Lion|lion]], with three bow legs in the air, balancing himself on the
 extreme point of the centre claw of his fourth foot. There were, within
-sight, an auctioneer’s and fire-agency office, a corn-factor’s, a linen-
-draper’s, a saddler’s, a distiller’s, a grocer’s, and a shoe-shop--the
+sight, an auctioneer’s and [[Fire|fire]]-agency office, a corn-factor’s, a linen-
+draper’s, a saddler’s, a distiller’s, a [[grocer]]’s, and a shoe-shop--the
 last-mentioned warehouse being also appropriated to the diffusion of
 hats, bonnets, wearing apparel, cotton umbrellas, and useful knowledge.
-There was a red brick house with a small paved courtyard in front, which
+There was a red brick [[house]] with a small paved courtyard in front, which
 anybody might have known belonged to the attorney; and there was,
-moreover, another red brick house with Venetian blinds, and a large
+moreover, another red brick [[house]] with Venetian blinds, and a large
 brass door-plate with a very legible announcement that it belonged to
 the surgeon. A few boys were making their way to the cricket-field; and
 two or three shopkeepers who were standing at their doors looked as if
 they should like to be making their way to the same spot, as indeed to
 all appearance they might have done, without losing any great amount of
-custom thereby. Mr. Pickwick having paused to make these observations,
+custom thereby. Mr. [[Pickwick]] having paused to make these observations,
 to be noted down at a more convenient period, hastened to rejoin his
 friends, who had turned out of the main street, and were already within
 sight of the field of battle.
@@ -355,43 +355,43 @@ tents, towards one of which Mr. Wardle conducted the party.
 Several dozen of ‘How-are-you’s?’ hailed the old gentleman’s arrival;
 and a general raising of the straw hats, and bending forward of the
 flannel jackets, followed his introduction of his guests as gentlemen
-from London, who were extremely anxious to witness the proceedings of
-the day, with which, he had no doubt, they would be greatly delighted.
+from [[London]], who were extremely anxious to witness the proceedings of
+the day, with which, he had no [[Doubt|doubt]], they would be greatly delighted.
 
 ‘You had better step into the marquee, I think, Sir,’ said one very
-stout gentleman, whose body and legs looked like half a gigantic roll of
+stout gentleman, whose [[Body|body]] and legs looked like half a gigantic roll of
 flannel, elevated on a couple of inflated pillow-cases.
 
 ‘You’ll find it much pleasanter, Sir,’ urged another stout gentleman,
 who strongly resembled the other half of the roll of flannel aforesaid.
 
-‘You’re very good,’ said Mr. Pickwick.
+‘You’re very good,’ said Mr. [[Pickwick]].
 
 ‘This way,’ said the first speaker; ‘they notch in here--it’s the best
 place in the whole field;’ and the cricketer, panting on before,
 preceded them to the tent.
 
 ‘Capital game--smart sport--fine exercise--very,’ were the words which
-fell upon Mr. Pickwick’s ear as he entered the tent; and the first
+fell upon Mr. [[Pickwick]]’s ear as he entered the tent; and the first
 object that met his eyes was his green-coated friend of the Rochester
 coach, holding forth, to the no small delight and edification of a
 select circle of the chosen of All-Muggleton. His dress was slightly
 improved, and he wore boots; but there was no mistaking him.
 
 The stranger recognised his friends immediately; and, darting forward
-and seizing Mr. Pickwick by the hand, dragged him to a seat with his
+and seizing Mr. [[Pickwick]] by the hand, dragged him to a seat with his
 usual impetuosity, talking all the while as if the whole of the
 arrangements were under his especial patronage and direction.
 
 ‘This way--this way--capital fun--lots of beer--hogsheads; rounds of
 beef--bullocks; mustard--cart-loads; glorious day--down with you--make
-yourself at home--glad to see you--very.’
+yourself at [[Home|home]]--glad to see you--very.’
 
-Mr. Pickwick sat down as he was bid, and Mr. Winkle and Mr. Snodgrass
+Mr. [[Pickwick]] sat down as he was bid, and Mr. Winkle and Mr. Snodgrass
 also complied with the directions of their mysterious friend. Mr. Wardle
-looked on in silent wonder.
+looked on in silent [[Wonder|wonder]].
 
-‘Mr. Wardle--a friend of mine,’ said Mr. Pickwick.
+‘Mr. Wardle--a friend of mine,’ said Mr. [[Pickwick]].
 
 ‘Friend of yours!--My dear sir, how are you?--Friend of my friend’s--
 give me your hand, sir’--and the stranger grasped Mr. Wardle’s hand with
@@ -399,14 +399,14 @@ all the fervour of a close intimacy of many years, and then stepped back
 a pace or two as if to take a full survey of his face and figure, and
 then shook hands with him again, if possible, more warmly than before.
 
-‘Well; and how came you here?’ said Mr. Pickwick, with a smile in which
+‘[[Well]]; and how came you here?’ said Mr. [[Pickwick]], with a smile in which
 benevolence struggled with surprise.
 
-‘Come,’ replied the stranger--‘stopping at Crown--Crown at Muggleton--
+‘Come,’ replied the stranger--‘stopping at [[Crown]]--[[Crown]] at Muggleton--
 met a party--flannel jackets--white trousers--anchovy sandwiches--
 devilled kidney--splendid fellows--glorious.’
 
-Mr. Pickwick was sufficiently versed in the stranger’s system of
+Mr. [[Pickwick]] was sufficiently versed in the stranger’s system of
 stenography to infer from this rapid and disjointed communication that
 he had, somehow or other, contracted an acquaintance with the All-
 Muggletons, which he had converted, by a process peculiar to himself,
@@ -429,7 +429,7 @@ indeed it is generally supposed that it is quite impossible to look out
 properly in any other position.
 
 The umpires were stationed behind the wickets; the scorers were prepared
-to notch the runs; a breathless silence ensued. Mr. Luffey retired a few
+to notch the runs; a breathless [[Silence|silence]] ensued. Mr. Luffey retired a few
 paces behind the wicket of the passive Podder, and applied the ball to
 his right eye for several seconds. Dumkins confidently awaited its
 coming with his eyes fixed on the motions of Luffey.
@@ -448,11 +448,11 @@ to garnish himself and Muggleton. He blocked the doubtful balls, missed
 the bad ones, took the good ones, and sent them flying to all parts of
 the field. The scouts were hot and tired; the bowlers were changed and
 bowled till their arms ached; but Dumkins and Podder remained
-unconquered. Did an elderly gentleman essay to stop the progress of the
+unconquered. Did an elderly gentleman [[Essay|essay]] to stop the progress of the
 ball, it rolled between his legs or slipped between his fingers. Did a
 slim gentleman try to catch it, it struck him on the nose, and bounded
 pleasantly off with redoubled violence, while the slim gentleman’s eyes
-filled with water, and his form writhed with anguish. Was it thrown
+filled with [[Water|water]], and his form writhed with anguish. Was it thrown
 straight up to the wicket, Dumkins had reached it before the ball. In
 short, when Dumkins was caught out, and Podder stumped out, All-
 Muggleton had notched some fifty-four, while the score of the Dingley
@@ -475,7 +475,7 @@ seemed to establish him in the opinion of all around, as a most
 excellent and undeniable judge of the whole art and mystery of the noble
 game of cricket.
 
-‘Capital game--well played--some strokes admirable,’ said the stranger,
+‘Capital game--[[Well|well]] played--some strokes admirable,’ said the stranger,
 as both sides crowded into the tent, at the conclusion of the game.
 
 ‘You have played it, sir?’ inquired Mr. Wardle, who had been much amused
@@ -483,11 +483,11 @@ by his loquacity.
 
 ‘Played it! Think I have--thousands of times--not here--West Indies--
 exciting thing--hot work--very.’ ‘It must be rather a warm pursuit in
-such a climate,’ observed Mr. Pickwick.
+such a climate,’ observed Mr. [[Pickwick]].
 
 ‘Warm!--red hot--scorching--glowing. Played a match once--single wicket-
 -friend the colonel--Sir Thomas Blazo--who should get the greatest
-number of runs.--Won the toss--first innings--seven o’clock A.M.--six
+number of runs.--Won the toss--first innings--seven o’[[Clock|clock]] A.M.--six
 natives to look out--went in; kept in--heat intense--natives all
 fainted--taken away--fresh half-dozen ordered--fainted also--Blazo
 bowling--supported by two natives--couldn’t bowl me out--fainted too--
@@ -511,30 +511,30 @@ on his own--died, sir.’ Here the stranger buried his countenance in a
 brown jug, but whether to hide his emotion or imbibe its contents, we
 cannot distinctly affirm. We only know that he paused suddenly, drew a
 long and deep breath, and looked anxiously on, as two of the principal
-members of the Dingley Dell club approached Mr. Pickwick, and said--
+members of the Dingley Dell club approached Mr. [[Pickwick]], and said--
 
-‘We are about to partake of a plain dinner at the Blue Lion, Sir; we
-hope you and your friends will join us.’
+‘We are about to partake of a plain dinner at the Blue [[Lion]], Sir; we
+[[Hope|hope]] you and your friends will join us.’
 
 Of course,’ said Mr. Wardle, ‘among our friends we include Mr.--;’ and
 he looked towards the stranger.
 
 ‘Jingle,’ said that versatile gentleman, taking the hint at once.
-‘Jingle--Alfred Jingle, Esq., of No Hall, Nowhere.’
+‘Jingle--[[Alfred Jingle]], Esq., of No Hall, Nowhere.’
 
-‘I shall be very happy, I am sure,’ said Mr. Pickwick.
+‘I shall be very happy, I am sure,’ said Mr. [[Pickwick]].
 
-‘So shall I,’ said Mr. Alfred Jingle, drawing one arm through Mr.
-Pickwick’s, and another through Mr. Wardle’s, as he whispered
+‘So shall I,’ said Mr. [[Alfred Jingle]], drawing one arm through Mr.
+[[Pickwick]]’s, and another through Mr. Wardle’s, as he whispered
 confidentially in the ear of the former gentleman:--
 
 ‘Devilish good dinner--cold, but capital--peeped into the room this
 morning--fowls and pies, and all that sort of thing--pleasant fellows
-these--well behaved, too--very.’
+these--[[Well|well]] behaved, too--very.’
 
 There being no further preliminaries to arrange, the company straggled
 into the town in little knots of twos and threes; and within a quarter
-of an hour were all seated in the great room of the Blue Lion Inn,
+of an hour were all seated in the great room of the Blue [[Lion]] Inn,
 Muggleton--Mr. Dumkins acting as chairman, and Mr. Luffey officiating as
 vice.
 
@@ -555,7 +555,7 @@ of countenance, who remained very quiet; occasionally looking round him
 when the conversation slackened, as if he contemplated putting in
 something very weighty; and now and then bursting into a short cough of
 inexpressible grandeur. At length, during a moment of comparative
-silence, the little man called out in a very loud, solemn voice,--
+[[Silence|silence]], the little man called out in a very loud, solemn voice,--
 
 ‘Mr. Luffey!’
 
@@ -584,11 +584,11 @@ have to say, or I may say to--to--’
 ‘Yes, to state,’ said the little man, ‘I thank my honourable friend, if
 he will allow me to call him so (four hears and one certainly from Mr.
 Jingle), for the suggestion. Sir, I am a Deller--a Dingley Deller
-(cheers). I cannot lay claim to the honour of forming an item in the
+(cheers). I cannot lay claim to the [[Honour|honour]] of forming an item in the
 population of Muggleton; nor, Sir, I will frankly admit, do I covet that
-honour: and I will tell you why, Sir (hear); to Muggleton I will readily
+[[Honour|honour]]: and I will tell you why, Sir (hear); to Muggleton I will readily
 concede all these honours and distinctions to which it can fairly lay
-claim--they are too numerous and too well known to require aid or
+claim--they are too numerous and too [[Well|well]] known to require aid or
 recapitulation from me. But, sir, while we remember that Muggleton has
 given birth to a Dumkins and a Podder, let us never forget that Dingley
 Dell can boast a Luffey and a Struggles. (Vociferous cheering.) Let me
@@ -597,16 +597,16 @@ gentlemen. Sir, I envy them the luxury of their own feelings on this
 occasion. (Cheers.) Every gentleman who hears me, is probably acquainted
 with the reply made by an individual, who--to use an ordinary figure of
 speech--“hung out” in a tub, to the emperor Alexander:--“if I were not
-Diogenes,” said he, “I would be Alexander.” I can well imagine these
+Diogenes,” said he, “I would be Alexander.” I can [[Well|well]] imagine these
 gentlemen to say, “If I were not Dumkins I would be Luffey; if I were
 not Podder I would be Struggles.” (Enthusiasm.) But, gentlemen of
-Muggleton, is it in cricket alone that your fellow-townsmen stand pre-
+Muggleton, is it in cricket [[Alone|alone]] that your fellow-townsmen stand pre-
 eminent? Have you never heard of Dumkins and determination? Have you
 never been taught to associate Podder with property? (Great applause.)
 Have you never, when struggling for your rights, your liberties, and
 your privileges, been reduced, if only for an instant, to misgiving and
-despair? And when you have been thus depressed, has not the name of
-Dumkins laid afresh within your breast the fire which had just gone out;
+[[Despair|despair]]? And when you have been thus depressed, has not the name of
+Dumkins laid afresh within your breast the [[Fire|fire]] which had just gone out;
 and has not a word from that man lighted it again as brightly as if it
 had never expired? (Great cheering.) Gentlemen, I beg to surround with a
 rich halo of enthusiastic cheering the united names of “Dumkins and
@@ -615,23 +615,23 @@ Podder.”’
 Here the little man ceased, and here the company commenced a raising of
 voices, and thumping of tables, which lasted with little intermission
 during the remainder of the evening. Other toasts were drunk. Mr. Luffey
-and Mr. Struggles, Mr. Pickwick and Mr. Jingle, were, each in his turn,
+and Mr. Struggles, Mr. [[Pickwick]] and Mr. Jingle, were, each in his turn,
 the subject of unqualified eulogium; and each in due course returned
-thanks for the honour.
+thanks for the [[Honour|honour]].
 
 Enthusiastic as we are in the noble cause to which we have devoted
-ourselves, we should have felt a sensation of pride which we cannot
+ourselves, we should have felt a sensation of [[Pride|pride]] which we cannot
 express, and a consciousness of having done something to merit
-immortality of which we are now deprived, could we have laid the
+[[Immortality|immortality]] of which we are now deprived, could we have laid the
 faintest outline on these addresses before our ardent readers. Mr.
-Snodgrass, as usual, took a great mass of notes, which would no doubt
+Snodgrass, as usual, took a great mass of notes, which would no [[Doubt|doubt]]
 have afforded most useful and valuable information, had not the burning
 eloquence of the words or the feverish influence of the wine made that
 gentleman’s hand so extremely unsteady, as to render his writing nearly
 unintelligible, and his style wholly so. By dint of patient
 investigation, we have been enabled to trace some characters bearing a
 faint resemblance to the names of the speakers; and we can only discern
-an entry of a song (supposed to have been sung by Mr. Jingle), in which
+an entry of a [[Song|song]] (supposed to have been sung by Mr. Jingle), in which
 the words ‘bowl’ ‘sparkling’ ‘ruby’ ‘bright’ and ‘wine’ are frequently
 repeated at short intervals. We fancy, too, that we can discern at the
 very end of the notes, some indistinct reference to ‘broiled bones’; and
@@ -641,10 +641,10 @@ disposed to indulge in any of the speculations to which they may give
 rise.
 
 We will therefore return to Mr. Tupman; merely adding that within some
-few minutes before twelve o’clock that night, the convocation of
+few minutes before twelve o’[[Clock|clock]] that [[Night|night]], the convocation of
 worthies of Dingley Dell and Muggleton were heard to sing, with great
 feeling and emphasis, the beautiful and pathetic national air of
 
 
-‘We won’t go home till morning, We won’t go home till morning, We won’t
-go home till morning, Till daylight doth appear.’
+‘We won’t go [[Home|home]] till morning, We won’t go [[Home|home]] till morning, We won’t
+go [[Home|home]] till morning, Till daylight doth appear.’

@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — EDIATELY after leaving the little garden-party, Tom and his tutor (part 3)"
+title: "[[FourFaultlessFelons]] — EDIATELY after leaving the little [[Garden|garden]]-party, Tom and his tutor (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -14,19 +14,19 @@ tags:
 </nav>
 
 
-was not like the green growths of home, springing on light stalks to
+was not like the green growths of [[Home|home]], springing on light stalks to
 
-lovely flowers like butterflies captured out of air. It was more like the
+lovely [[Flowers|flowers]] like butterflies captured out of air. It was more like the
 
 dead blind bubbling of some green, squalid slime: a world of plants that
 
 were as plain and flat as stones. She hated the hairy surface of some of
 
-the squat and swollen trees of that grotesque garden; the tufts here and
+the squat and swollen trees of that [[Grotesque|grotesque]] [[Garden|garden]]; the tufts here and
 
 there irritated her fancy as they might have tickled her face. She felt
 
-that even the big, folded flowers, if they opened, would have a foul
+that even the big, folded [[Flowers|flowers]], if they opened, would have a foul
 
 fragrance. She had a latent sense of the savour of faint horror, lying
 
@@ -64,7 +64,7 @@ trippers, but it gave him in the moonlight something of the silver touch
 
 of a spectral harlequin. As he advanced he screwed the shining disk into
 
-his eye and it revealed in a flash the faint memory that had always
+his eye and it revealed in a flash the faint [[Memory|memory]] that had always
 
 escaped her. His face in repose was calm and classic and might have been
 
@@ -86,7 +86,7 @@ white negro.
 
 else he said. Broken phrases from what she had heard recently tumbled
 
-through her mind, mere words like "reputation" and "prison", and she
+through her mind, mere words like "reputation" and "[[Prison|prison]]", and she
 
 stepped back to increase the distance, but moving in the opposite
 
@@ -98,7 +98,7 @@ instantaneous impression of crushing and startling strength, like a
 
 chimpanzee, surprised her into a cry. Then she stumbled and ran, but not
 
-in the direction of the house of her own people.
+in the direction of the [[house]] of her own people.
 
 
 
@@ -108,7 +108,7 @@ went to meet someone who stumbled up the stair without.
 
 
 
-"My dear child," he said, and put a hand on her shaking shoulder, giving
+"My dear [[Child|child]]," he said, and put a hand on her shaking shoulder, giving
 
 and receiving a queer thrill like a dull electric shock. Then he went,
 
@@ -118,13 +118,13 @@ and without descending the steps, sprang over the rail to the ground
 
 below, standing waist-high in the wild and tangled vegetation. There was
 
-a screen of large leaves waving to and fro between Barbara and the rapid
+a screen of large [[Leaves|leaves]] waving to and fro between Barbara and the rapid
 
 drama that followed, but she saw, as in flashes of moonlight, the tutor
 
 dart across the path of the figure in white and heard the shock of blows
 
-and saw a kick like a catapult. There was a wheel of silver legs like the
+and saw a kick like a catapult. There was a [[Wheel|wheel]] of silver legs like the
 
 arms of the Isle of Man, and then out of the dense depth of the lower
 
@@ -132,13 +132,13 @@ thicket a spout of curses in a tongue that was not English, nor wholly
 
 German, but which shrieked and chattered in all the Ghettoes of the
 
-world. But one strange thing remained even in her disordered memory; that
+world. But one strange thing remained even in her disordered [[Memory|memory]]; that
 
 when the figure in white had risen tottering and turned to plunge down
 
-the hill, the white face and the furious gesture of malediction were
+the [[Hill|hill]], the white face and the furious gesture of malediction were
 
-turned, not towards the assailant, but towards the house of the Governor.
+turned, not towards the assailant, but towards the [[house]] of the Governor.
 
 
 
@@ -146,7 +146,7 @@ The tutor was frowning ponderously as he came again up the veranda steps,
 
 as if over some of his geometrical problems. She asked him rather wildly
 
-what he had done and he answered in his heavy voice: "I hope I half
+what he had done and he answered in his heavy voice: "I [[Hope|hope]] I half
 
 killed him. You know I am in favour of half measures."
 
@@ -168,15 +168,15 @@ vivid violet or some sort of blue that seemed warmer than any red; and
 
 the furry filaments of the great tree-trunks seemed like the quaint
 
-sea-beasts of childhood, which could be stroked and which unfolded their
+sea-beasts of [[Childhood|childhood]], which could be stroked and which unfolded their
 
 fingers. There was something upon them both beyond speech or even
 
-silence. He even went so far as to say it was a fine night.
+[[Silence|silence]]. He even went so far as to say it was a fine [[Night|night]].
 
 
 
-"Yes," she answered, "it is a fine night"; and felt instantly as if she
+"Yes," she answered, "it is a fine [[Night|night]]"; and felt instantly as if she
 
 had betrayed some secret.
 
@@ -186,4 +186,4 @@ They went through the inner gardens to the gate of the vestibule, which
 
 was crowded with people in uniform and evening dress. They parted with
 
-the utmost formality; and that night neither of them slept.
+the utmost formality; and that [[Night|night]] neither of them slept.

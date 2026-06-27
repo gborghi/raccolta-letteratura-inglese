@@ -1,5 +1,5 @@
 ---
-title: "The Business Man"
+title: "[[The Business Man]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/The-Business-Man-(Poe)"
@@ -13,7 +13,7 @@ tags:
 </nav>
 
 
-Method is the soul of business.—OLD SAYING.
+Method is the [[Soul|soul]] of business.—OLD SAYING.
 
 
 
@@ -29,11 +29,11 @@ Method is the soul of business.—OLD SAYING.
 
       what they call an orderly manner. Now here, I conceive, is a
 
-      positive paradox. True method appertains to the ordinary and the
+      positive [[Paradox|paradox]]. True method appertains to the ordinary and the
 
-      obvious alone, and cannot be applied to the _outré_. What
+      obvious [[Alone|alone]], and cannot be applied to the _outré_. What
 
-      definite idea can a body attach to such expressions as
+      definite idea can a [[Body|body]] attach to such expressions as
 
       “methodical Jack o’ Dandy,” or “a systematical Will o’ the Wisp”?
 
@@ -43,7 +43,7 @@ Method is the soul of business.—OLD SAYING.
 
       are, but for a fortunate accident which happened to me when I was
 
-      a very little boy. A good-hearted old Irish nurse (whom I shall
+      a very little boy. A good-hearted old Irish [[Nurse|nurse]] (whom I shall
 
       not forget in my will) took me up one day by the heels, when I
 
@@ -57,7 +57,7 @@ Method is the soul of business.—OLD SAYING.
 
       bump arose at once on my sinciput, and turned out to be as pretty
 
-      an organ of order as one shall see on a summer’s day. Hence that
+      an organ of order as one shall see on a [[Summer|summer]]’s day. Hence that
 
       positive appetite for system and regularity which has made me the
 
@@ -83,7 +83,7 @@ Method is the soul of business.—OLD SAYING.
 
       whatever to be considered as a business at all. Thus you may tell
 
-      these characters immediately by the nature of their occupations.
+      these characters immediately by the [[Nature|nature]] of their occupations.
 
       If you ever perceive a man setting up as a merchant or a
 
@@ -105,9 +105,9 @@ Method is the soul of business.—OLD SAYING.
 
       My day-book and ledger will evince this in a minute. They are
 
-      well kept, though I say it myself; and, in my general habits of
+      [[Well|well]] kept, though I say it myself; and, in my general habits of
 
-      accuracy and punctuality, I am not to be beat by a clock.
+      accuracy and punctuality, I am not to be beat by a [[Clock|clock]].
 
       Moreover, my occupations have been always made to chime in with
 
@@ -115,29 +115,29 @@ Method is the soul of business.—OLD SAYING.
 
       indebted, upon this score, to my exceedingly weak-minded parents,
 
-      who, beyond doubt, would have made an arrant genius of me at
+      who, beyond [[Doubt|doubt]], would have made an arrant genius of me at
 
-      last, if my guardian angel had not come, in good time, to the
+      last, if my guardian angel had not come, in good [[Time|time]], to the
 
-      rescue. In biography the truth is every thing, and in
+      rescue. In [[Biography|biography]] the [[Truth|truth]] is every thing, and in
 
-      autobiography it is especially so—yet I scarcely hope to be
+      autobiography it is especially so—yet I scarcely [[Hope|hope]] to be
 
       believed when I state, however solemnly, that my poor father put
 
       me, when I was about fifteen years of age, into the
 
-      counting-house of what be termed “a respectable hardware and
+      counting-[[house]] of what be termed “a respectable hardware and
 
       commission merchant doing a capital bit of business!” A capital
 
       bit of fiddlestick! However, the consequence of this folly was,
 
-      that in two or three days, I had to be sent home to my
+      that in two or three days, I had to be sent [[Home|home]] to my
 
       button-headed family in a high state of fever, and with a most
 
-      violent and dangerous pain in the sinciput, all around about my
+      violent and dangerous [[Pain|pain]] in the sinciput, all around about my
 
       organ of order. It was nearly a gone case with me then—just
 
@@ -151,13 +151,13 @@ Method is the soul of business.—OLD SAYING.
 
       business,” and I felt grateful to the protuberance which had been
 
-      the means of my salvation, as well as to the kindhearted female
+      the means of my salvation, as [[Well|well]] as to the kindhearted female
 
       who had originally put these means within my reach.
 
 
 
-      The most of boys run away from home at ten or twelve years of
+      The most of boys run away from [[Home|home]] at ten or twelve years of
 
       age, but I waited till I was sixteen. I don’t know that I should
 
@@ -173,9 +173,9 @@ Method is the soul of business.—OLD SAYING.
 
       eccentric old people, and running the risk of being made a genius
 
-      of in the end. In this project I succeeded perfectly well at the
+      of in the end. In this project I succeeded perfectly [[Well|well]] at the
 
-      first effort, and by the time I was fairly eighteen, found myself
+      first effort, and by the [[Time|time]] I was fairly eighteen, found myself
 
       doing an extensive and profitable business in the Tailor’s
 
@@ -189,13 +189,13 @@ Method is the soul of business.—OLD SAYING.
 
       feature of my mind. A scrupulous method characterized my actions
 
-      as well as my accounts. In my case it was method—not money—which
+      as [[Well|well]] as my accounts. In my case it was method—not money—which
 
       made the man: at least all of him that was not made by the tailor
 
       whom I served. At nine, every morning, I called upon that
 
-      individual for the clothes of the day. Ten o’clock found me in
+      individual for the clothes of the day. Ten o’[[Clock|clock]] found me in
 
       some fashionable promenade or other place of public amusement.
 
@@ -205,17 +205,17 @@ Method is the soul of business.—OLD SAYING.
 
       suit upon my back, was the admiration of all the knowing men in
 
-      the trade. Noon never passed without my bringing home a customer
+      the trade. [[Noon]] never passed without my bringing [[Home|home]] a customer
 
-      to the house of my employers, Messrs. Cut & Comeagain. I say this
+      to the [[house]] of my employers, Messrs. Cut & Comeagain. I say this
 
-      proudly, but with tears in my eyes—for the firm proved themselves
+      proudly, but with [[Tears|tears]] in my eyes—for the firm proved themselves
 
       the basest of ingrates. The little account, about which we
 
       quarreled and finally parted, cannot, in any item, be thought
 
-      overcharged, by gentlemen really conversant with the nature of
+      overcharged, by gentlemen really conversant with the [[Nature|nature]] of
 
       the business. Upon this point, however, I feel a degree of proud
 
@@ -231,7 +231,7 @@ To Peter Proffit, Walking Advertiser,_ Drs.
 
 
 
-July 10.   to promenade, as usual and customer brought home   $00 25
+July 10.   to promenade, as usual and customer brought [[Home|home]]   $00 25
 
 July 11.   To do do do                                            25
 
@@ -247,7 +247,7 @@ July 20.   To purchasing bran new paper shirt collar or dickey,
 
            to set off gray Petersham                              02
 
-Aug. 15.   To wearing double-padded bobtail frock, (thermometer
+Aug. 15.   To wearing [[Double|double]]-padded bobtail frock, (thermometer
 
            106 in the shade)                                      25
 
@@ -309,11 +309,11 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       again came into play. I found myself driving a flourishing trade,
 
-      and soon became a marked man upon “Change.” The truth is, I never
+      and soon became a marked man upon “Change.” The [[Truth|truth]] is, I never
 
       dabbled in flashy matters, but jogged on in the good old sober
 
-      routine of the calling—a calling in which I should, no doubt,
+      routine of the calling—a calling in which I should, no [[Doubt|doubt]],
 
       have remained to the present hour, but for a little accident
 
@@ -357,11 +357,11 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       I did not reply to their absurd proposition, of course; but I
 
-      felt it a duty to go that same night, and lamp-black the whole of
+      felt it a duty to go that same [[Night|night]], and lamp-black the whole of
 
       their palace. For this the unreasonable villains clapped me into
 
-      jail; and the gentlemen of the Eye-Sore trade could not well
+      jail; and the gentlemen of the Eye-Sore trade could not [[Well|well]]
 
       avoid cutting my connection when I came out.
 
@@ -371,23 +371,23 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       adventure for a livelihood, was somewhat ill-adapted to the
 
-      delicate nature of my constitution; but I went to work in it with
+      delicate [[Nature|nature]] of my constitution; but I went to work in it with
 
       a good heart, and found my account here, as heretofore, in those
 
       stern habits of methodical accuracy which had been thumped into
 
-      me by that delightful old nurse—I would indeed be the basest of
+      me by that delightful old [[Nurse|nurse]]—I would indeed be the basest of
 
-      men not to remember her well in my will. By observing, as I say,
+      men not to remember her [[Well|well]] in my will. By observing, as I say,
 
       the strictest system in all my dealings, and keeping a
 
-      well-regulated set of books, I was enabled to get over many
+      [[Well|well]]-regulated set of books, I was enabled to get over many
 
       serious difficulties, and, in the end, to establish myself very
 
-      decently in the profession. The truth is, that few individuals,
+      decently in the profession. The [[Truth|truth]] is, that few individuals,
 
       in any line, did a snugger little business than I. I will just
 
@@ -443,7 +443,7 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       into the pit. Neck dislocated, and right leg capitally
 
-      splintered. Went home in high glee, drank a bottle of champagne,
+      splintered. Went [[Home|home]] in high glee, drank a bottle of champagne,
 
       and booked the young man for five thousand. Bag says it’ll do.
 
@@ -477,11 +477,11 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       nothing in comparison with health. I found the exactions of the
 
-      profession somewhat too much for my delicate state of body; and,
+      profession somewhat too much for my delicate state of [[Body|body]]; and,
 
       discovering, at last, that I was knocked all out of shape, so
 
-      that I didn’t know very well what to make of the matter, and so
+      that I didn’t know very [[Well|well]] what to make of the matter, and so
 
       that my friends, when they met me in the street, couldn’t tell
 
@@ -505,7 +505,7 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       an eye-sore prig, or a salt-and-batter man, thinks, of course,
 
-      that he’ll answer very well as a dabbler of mud. But there never
+      that he’ll answer very [[Well|well]] as a dabbler of mud. But there never
 
       was entertained a more erroneous idea than that it requires no
 
@@ -521,7 +521,7 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       took care, too, to have a nice little puddle at hand, which I
 
-      could get at in a minute. By these means I got to be well known
+      could get at in a minute. By these means I got to be [[Well|well]] known
 
       as a man to be trusted; and this is one-half the battle, let me
 
@@ -541,7 +541,7 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       inconvenience. These, however, are not individuals, but
 
-      corporations; and corporations, it is very well known, have
+      corporations; and corporations, it is very [[Well|well]] known, have
 
       neither bodies to be kicked nor souls to be damned.
 
@@ -559,9 +559,9 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       fat and up to all varieties of snuff. He had been in the trade a
 
-      long time, and, I may say, understood it. Our general routine was
+      long [[Time|time]], and, I may say, understood it. Our general routine was
 
-      this:—Pompey, having rolled himself well in the mud, sat upon end
+      this:—[[Pompey]], having rolled himself [[Well|well]] in the mud, sat upon end
 
       at the shop door, until he observed a dandy approaching in bright
 
@@ -573,7 +573,7 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       with blacking and brushes. It was only a minute’s work, and then
 
-      came a sixpence. This did moderately well for a time;—in fact, I
+      came a sixpence. This did moderately [[Well|well]] for a [[Time|time]];—in fact, I
 
       was not avaricious, but my dog was. I allowed him a third of the
 
@@ -585,11 +585,11 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       I next tried my hand at the Organ-Grinding for a while, and may
 
-      say that I made out pretty well. It is a plain, straightforward
+      say that I made out pretty [[Well|well]]. It is a plain, straightforward
 
       business, and requires no particular abilities. You can get a
 
-      music-mill for a mere song, and to put it in order, you have but
+      music-mill for a mere [[Song|song]], and to put it in order, you have but
 
       to open the works, and give them three or four smart raps with a
 
@@ -603,7 +603,7 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       grind; looking as if you meant to stop and grind till doomsday.
 
-      Presently a window opens, and somebody pitches you a sixpence,
+      Presently a [[Window|window]] opens, and somebody pitches you a sixpence,
 
       with a request to “Hush up and go on,” etc. I am aware that some
 
@@ -617,7 +617,7 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       At this occupation I did a good deal; but, somehow, I was not
 
-      quite satisfied, and so finally abandoned it. The truth is, I
+      quite satisfied, and so finally abandoned it. The [[Truth|truth]] is, I
 
       labored under the disadvantage of having no monkey—and American
 
@@ -653,17 +653,17 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       receive the postage. Nobody hesitates at paying for a
 
-      letter—especially for a double one—people are such fools—and it
+      letter—especially for a [[Double|double]] one—people are such fools—and it
 
-      was no trouble to get round a corner before there was time to
+      was no trouble to get round a corner before there was [[Time|time]] to
 
       open the epistles. The worst of this profession was, that I had
 
       to walk so much and so fast; and so frequently to vary my route.
 
-      Besides, I had serious scruples of conscience. I can’t bear to
+      Besides, I had serious scruples of [[Conscience|conscience]]. I can’t bear to
 
-      hear innocent individuals abused—and the way the whole town took
+      hear [[Innocent|innocent]] individuals abused—and the way the whole town took
 
       to cursing Tom Dobson and Bobby Tompkins was really awful to
 
@@ -675,7 +675,7 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       have found that a most pleasant and lucrative business, and,
 
-      really, no trouble at all. The country, it is well known, has
+      really, no trouble at all. The country, it is [[Well|well]] known, has
 
       become infested with cats—so much so of late, that a petition for
 
@@ -683,7 +683,7 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       before the Legislature at its late memorable session. The
 
-      Assembly, at this epoch, was unusually well-informed, and, having
+      Assembly, at this epoch, was unusually [[Well|well]]-informed, and, having
 
       passed many other wise and wholesome enactments, it crowned all
 
@@ -695,7 +695,7 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       word “tails” for “heads.” This amendment was so obviously proper,
 
-      that the House concurred in it nem. con.
+      that the [[house|House]] concurred in it nem. con.
 
 
 
@@ -717,7 +717,7 @@ Aug. 19.   To do do (small man and bad pay)                        6
 
       three crops in a year. It delights me to find, too, that the
 
-      animals soon get accustomed to the thing, and would rather have
+      [[Animals|animals]] soon get accustomed to the thing, and would rather have
 
       the appendages cut off than otherwise. I consider myself,
 

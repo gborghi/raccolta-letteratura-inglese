@@ -20,19 +20,19 @@ Swinburne and far more perfect. In this verbal sense its most arresting
 
 quality is a combination of something haunting and harmonious that flows
 
-by like a river or a song, with something else that is compact and
+by like a [[River|river]] or a [[Song|song]], with something else that is compact and
 
 pregnant like a pithy saying picked out in rock by the chisel of some
 
-pagan philosopher. It is at once a tune that escapes and an inscription
+pagan philosopher. It is at once a tune that escapes and an [[Inscription|inscription]]
 
-that remains. Thus, alone among the reckless and romantic verses that
+that remains. Thus, [[Alone|alone]] among the reckless and romantic verses that
 
-first rose in Coleridge or Keats, it preserves something also of the wit
+first [[Rose|rose]] in Coleridge or Keats, it preserves something also of the wit
 
 and civilisation of the eighteenth century. Lines like "a Muezzin from
 
-the tower of darkness cries," or "Their mouths are stopped with dust"
+the tower of darkness cries," or "Their mouths are stopped with [[Dust|dust]]"
 
 are successful in the same sense as "Pinnacled dim in the intense inane"
 
@@ -60,7 +60,7 @@ It thus earned a right to be considered the complete expression of that
 
 scepticism and sensual sadness into which later Victorian literature was
 
-more and more falling away: a sort of bible of unbelief. For a cold fit
+more and more falling away: a sort of [[Bible|bible]] of unbelief. For a cold fit
 
 had followed the hot fit of Swinburne, which was of a feverish sort: he
 
@@ -76,7 +76,7 @@ and minds in looking for the lost syntax of Browning; while Browning
 
 himself was away looking for God, rather in the spirit of a truant boy
 
-from their school looking for birds' nests. The nineteenth-century
+from their school looking for [[Birds|birds]]' nests. The nineteenth-century
 
 sceptics did not really shake the respectable world and alter it, as the
 
@@ -92,15 +92,15 @@ when ordinary English people listened to it, they came to the conclusion
 
 that it was a frame of mind they would rather hear about than
 
-experience. But these later poets did, so to speak, spread their soul in
+experience. But these later poets did, so to speak, spread their [[Soul|soul]] in
 
 all the empty spaces; weaker brethren, disappointed artists, unattached
 
 individuals, very young people, were sapped or swept away by these
 
-songs; which, so far as any particular sense in them goes, were almost
+[[songs]]; which, so far as any particular sense in them goes, were almost
 
-songs without words. It is because there is something which is after all
+[[songs]] without words. It is because there is something which is after all
 
 indescribably manly, intellectual, firm about Fitzgerald's way of
 
@@ -108,7 +108,7 @@ phrasing the pessimism that he towers above the slope that was tumbling
 
 down to the decadents. But it is still pessimism, a thing unfit for a
 
-white man; a thing like opium, that may often be a poison and sometimes
+white man; a thing like opium, that may often be a [[Poison|poison]] and sometimes
 
 a medicine, but never a food for us, who are driven by an inner command
 
@@ -120,7 +120,7 @@ only to grow but to build.
 
 And, indeed, we see the insufficiency of such sad extremes even in the
 
-next name among the major poets; we see the Swinburnian parody of
+next name among the major poets; we see the Swinburnian [[Parody|parody]] of
 
 mediævalism, the inverted Catholicism of the decadents, struggling to
 
@@ -134,7 +134,7 @@ that return to real issues leading up to the real revolts that broke up
 
 Victorianism at last. In the mere art of words, indeed, William Morris
 
-carried much further than Swinburne or Rossetti the mere imitation of
+carried much further than Swinburne or Rossetti the mere [[Imitation|imitation]] of
 
 stiff mediæval ornament. The other mediævalists had their modern
 
@@ -156,7 +156,7 @@ something like--
 
 
 
-    "And the kin of the ill king Bonaparte
+    "And the kin of the ill [[King|king]] Bonaparte
 
     Hath a high gallows for all his part."
 
@@ -180,7 +180,7 @@ he so often called himself, a craftsman. He had enough masculine
 
 strength to be tidy: that is, after the masculine manner, tidy about his
 
-own trade. If his poems were too like wallpapers, it was because he
+own trade. If his [[Poems|poems]] were too like wallpapers, it was because he
 
 really could make wallpapers. He knew that lines of poetry ought to be
 

@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 17"
+title: "[[Pride and Prejudice]] — Chapter 17"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -22,11 +22,11 @@ CHAPTER XVII.
 Elizabeth related to Jane, the next day, what had passed between Mr.
 Wickham and herself. Jane listened with astonishment and concern: she
 knew not how to believe that Mr. Darcy could be so unworthy of Mr.
-Bingley’s regard; and yet it was not in her nature to question the
+Bingley’s regard; and yet it was not in her [[Nature|nature]] to question the
 veracity of a young man of such amiable appearance as Wickham. The
 possibility of his having really endured such unkindness was enough to
 interest all her tender feelings; and nothing therefore remained to be
-done but to think well of them both, to defend the conduct of each, and
+done but to think [[Well|well]] of them both, to defend the conduct of each, and
 throw into the account of accident or mistake whatever could not be
 otherwise explained.
 
@@ -50,9 +50,9 @@ character, could be capable of it. Can his most intimate friends be so
 excessively deceived in him? Oh no.”
 
 “I can much more easily believe Mr. Bingley’s being imposed on than that
-Mr. Wickham should invent such a history of himself as he gave me last
-night; names, facts, everything mentioned without ceremony. If it be not
-so, let Mr. Darcy contradict it. Besides, there was truth in his looks.”
+Mr. Wickham should invent such a [[history]] of himself as he gave me last
+[[Night|night]]; names, facts, everything mentioned without ceremony. If it be not
+so, let Mr. Darcy contradict it. Besides, there was [[Truth|truth]] in his looks.”
 
 “It is difficult, indeed--it is distressing. One does not know what to
 think.”
@@ -86,7 +86,7 @@ Elizabeth thought with pleasure of dancing a great deal with Mr.
 Wickham, and of seeing a confirmation of everything in Mr. Darcy’s look
 and behaviour. The happiness anticipated by Catherine and Lydia depended
 less on any single event, or any particular person; for though they
-each, like Elizabeth, meant to dance half the evening with Mr. Wickham,
+each, like Elizabeth, meant to [[Dance|dance]] half the evening with Mr. Wickham,
 he was by no means the only partner who could satisfy them, and a ball
 was, at any rate, a ball. And even Mary could assure her family that she
 had no disinclination for it.
@@ -103,13 +103,13 @@ him whether he intended to accept Mr. Bingley’s invitation, and if he
 did, whether he would think it proper to join in the evening’s
 amusement; and she was rather surprised to find that he entertained no
 scruple whatever on that head, and was very far from dreading a rebuke,
-either from the Archbishop or Lady Catherine de Bourgh, by venturing to
-dance.
+either from the Archbishop or [[Lady Catherine de Bourgh]], by venturing to
+[[Dance|dance]].
 
 “I am by no means of opinion, I assure you,” said he, “that a ball of
 this kind, given by a young man of character, to respectable people, can
 have any evil tendency; and I am so far from objecting to dancing
-myself, that I shall hope to be honoured with the hands of all my fair
+myself, that I shall [[Hope|hope]] to be honoured with the hands of all my fair
 cousins in the course of the evening; and I take this opportunity of
 soliciting yours, Miss Elizabeth, for the two first dances especially; a
 preference which I trust my cousin Jane will attribute to the right
@@ -129,21 +129,21 @@ The idea soon reached to conviction, as she observed his increasing
 civilities towards herself, and heard his frequent attempt at a
 compliment on her wit and vivacity; and though more astonished than
 gratified herself by this effect of her charms, it was not long before
-her mother gave her to understand that the probability of their marriage
+her mother gave her to understand that the probability of their [[Marriage|marriage]]
 was exceedingly agreeable to _her_. Elizabeth, however, did not choose
-to take the hint, being well aware that a serious dispute must be the
+to take the hint, being [[Well|well]] aware that a serious dispute must be the
 consequence of any reply. Mr. Collins might never make the offer, and,
 till he did, it was useless to quarrel about him.
 
 If there had not been a Netherfield ball to prepare for and talk of, the
-younger Miss Bennets would have been in a pitiable state at this time;
+younger Miss Bennets would have been in a pitiable state at this [[Time|time]];
 for, from the day of the invitation to the day of the ball, there was
 such a succession of rain as prevented their walking to Meryton once. No
 aunt, no officers, no news could be sought after; the very shoe-roses
 for Netherfield were got by proxy. Even Elizabeth might have found some
 trial of her patience in weather which totally suspended the improvement
-of her acquaintance with Mr. Wickham; and nothing less than a dance on
-Tuesday could have made such a Friday, Saturday, Sunday, and Monday
+of her acquaintance with Mr. Wickham; and nothing less than a [[Dance|dance]] on
+Tuesday could have made such a Friday, Saturday, [[Sunday]], and Monday
 endurable to Kitty and Lydia.
 
 

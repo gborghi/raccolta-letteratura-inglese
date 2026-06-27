@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 64 (part 4)"
+title: "Bleak [[house|House]] — Chapter 64 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -25,7 +25,7 @@ Mr. Jobling confirmed this with a sliding movement of his legs.
 “My friend Jobling will render me his assistance in the capacity of
 clerk and will live in the ’ouse,” said Mr. Guppy. “My mother will
 likewise live in the ’ouse when her present quarter in the Old Street
-Road shall have ceased and expired; and consequently there will be no
+[[Road]] shall have ceased and expired; and consequently there will be no
 want of society. My friend Jobling is naturally aristocratic by
 taste, and besides being acquainted with the movements of the upper
 circles, fully backs me in the intentions I am now developing.”
@@ -37,13 +37,13 @@ Mr Guppy’s mother.
 confidence of Miss Summerson,” said Mr. Guppy, “(mother, I wish you’d
 be so good as to keep still), that Miss Summerson’s image was
 formerly imprinted on my ’eart and that I made her a proposal of
-marriage.”
+[[Marriage|marriage]].”
 
 “That I have heard,” returned my guardian.
 
 “Circumstances,” pursued Mr. Guppy, “over which I had no control, but
-quite the contrary, weakened the impression of that image for a time.
-At which time Miss Summerson’s conduct was highly genteel; I may even
+quite the contrary, weakened the impression of that image for a [[Time|time]].
+At which [[Time|time]] Miss Summerson’s conduct was highly genteel; I may even
 add, magnanimous.”
 
 My guardian patted me on the shoulder and seemed much amused.
@@ -56,13 +56,13 @@ did suppose had been eradicated from my ’eart is NOT eradicated. Its
 influence over me is still tremenjous, and yielding to it, I am
 willing to overlook the circumstances over which none of us have had
 any control and to renew those proposals to Miss Summerson which I
-had the honour to make at a former period. I beg to lay the ’ouse in
+had the [[Honour|honour]] to make at a former period. I beg to lay the ’ouse in
 Walcot Square, the business, and myself before Miss Summerson for her
 acceptance.”
 
 “Very magnanimous indeed, sir,” observed my guardian.
 
-“Well, sir,” replied Mr. Guppy with candour, “my wish is to BE
+“[[Well]], sir,” replied Mr. Guppy with candour, “my wish is to BE
 magnanimous. I do not consider that in making this offer to Miss
 Summerson I am by any means throwing myself away; neither is that the
 opinion of my friends. Still, there are circumstances which I submit
@@ -72,7 +72,7 @@ of mine, and so a fair and equitable balance arrived at.”
 “I take upon myself, sir,” said my guardian, laughing as he rang the
 bell, “to reply to your proposals on behalf of Miss Summerson. She is
 very sensible of your handsome intentions, and wishes you good
-evening, and wishes you well.”
+evening, and wishes you [[Well|well]].”
 
 “Oh!” said Mr. Guppy with a blank look. “Is that tantamount, sir, to
 acceptance, or rejection, or consideration?”
@@ -119,6 +119,6 @@ won’t!”
 However, Mr. Guppy and Mr. Jobling together closed on Mr. Guppy’s
 mother (who began to be quite abusive) and took her, very much
 against her will, downstairs, her voice rising a stair higher every
-time her figure got a stair lower, and insisting that we should
+[[Time|time]] her figure got a stair lower, and insisting that we should
 immediately go and find somebody who was good enough for us, and
 above all things that we should get out.

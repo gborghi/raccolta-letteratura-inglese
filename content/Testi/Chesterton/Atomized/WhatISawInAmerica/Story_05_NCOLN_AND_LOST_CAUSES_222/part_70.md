@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 70)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 70)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -28,15 +28,15 @@ to it. At any moment it may appear in the simple form of compulsory
 
 arbitration; for compulsory arbitration dealing with private employers
 
-is by definition slavery. When workmen receive unemployment pay, and at
+is by definition [[Slavery|slavery]]. When workmen receive unemployment pay, and at
 
-the same time arouse more and more irritation by going on strike, it may
+the same [[Time|time]] arouse more and more irritation by going on strike, it may
 
 seem very natural to give them the unemployment pay for good and forbid
 
 them the strike for good; and the combination of those two things is by
 
-definition slavery. And Trotsky can beat any Trust magnate as a
+definition [[Slavery|slavery]]. And Trotsky can beat any Trust magnate as a
 
 strike-breaker; for he does not even pretend that his compulsory labour
 
@@ -46,7 +46,7 @@ compromise, that compromise will be a Servile State. But it will also be
 
 the supreme and by far the most constructive and conclusive result of
 
-the industrial movement in history; of the power of machinery or money;
+the industrial movement in [[history]]; of the power of machinery or money;
 
 of the huge populations of the modern cities; of scientific inventions
 
@@ -54,13 +54,13 @@ and resources; of all the things before which the agricultural society
 
 of the Southern Confederacy went down. But even those who cannot see
 
-that commercialism may end in the triumph of slavery can see that the
+that commercialism may end in the triumph of [[Slavery|slavery]] can see that the
 
 Northern victory has to a great extent ended in the triumph of
 
 commercialism. And the point at the moment is that this did definitely
 
-mean, even at the time, the triumph of one American type over another
+mean, even at the [[Time|time]], the triumph of one American type over another
 
 American type; just as much as any European war might mean the triumph
 
@@ -70,7 +70,7 @@ would be a victory of merchants over peasants; and the victory of
 
 Northerners over Southerners was a victory of merchants over squires. So
 
-that that very unity, which Mr. Wells contrasts so favourably with war,
+that that very [[unity]], which Mr. Wells contrasts so favourably with war,
 
 was not only itself due to a war, but to a war which had one of the most
 
@@ -88,17 +88,17 @@ which we speak when we say that 1870 was a disaster to Europe, or that
 
 it was necessary to fight Prussia lest she should Prussianise the whole
 
-world. America would have been very different if the leadership had
+world. [[america|America]] would have been very different if the leadership had
 
 remained with Virginia. The world would have been very different if
 
-America had been very different. It is quite reasonable to rejoice that
+[[america|America]] had been very different. It is quite reasonable to rejoice that
 
 the issue went as it did; indeed, as I have explained elsewhere, for
 
 other reasons I do on the whole rejoice in it. But it is certainly not
 
-self-evident that it is a matter for rejoicing. One type of American
+[[Self|self]]-evident that it is a matter for rejoicing. One type of American
 
 state conquered and subjugated another type of American state; and the
 
@@ -114,7 +114,7 @@ that one or other of them becomes the European tradition to the neglect
 
 of the other. The situation which seems to satisfy him so completely in
 
-America is, after all, the situation which would result in Europe if the
+[[america|America]] is, after all, the situation which would result in Europe if the
 
 Germanic Empires, let us say, had entirely arrested the special
 
@@ -130,19 +130,19 @@ agricultural South has been considerably balanced by the growth of the
 
 agricultural West. It is true, as I have occasion to emphasise in
 
-another place, that the West does give the New America something that is
+another place, that the West does give the New [[america|America]] something that is
 
 nearly a normal peasantry, as a pendant to the industrial towns. But
 
 this is not an answer; it is rather an augmentation of the argument. In
 
-so far as America is saved it is saved by being patchy; and would be
+so far as [[america|America]] is saved it is saved by being patchy; and would be
 
 ruined if the Western patch had the same fate as the Southern patch.
 
 When all is said, therefore, the advantages of American unification are
 
-not so certain that we can apply them to a world unification. The doubt
+not so certain that we can apply them to a world unification. The [[Doubt|doubt]]
 
 could be expressed in a great many ways and by a great many examples.
 
@@ -154,15 +154,15 @@ sort of local injustice that turns provinces into nations struggling to
 
 be free. It has already inflicted what amounts to religious persecution,
 
-or the imposition of an alien morality, on the wine-growing civilisation
+or the imposition of an alien [[morality]], on the wine-growing civilisation
 
 of California. In a word, the American system is a good one as
 
 governments go; but it is too large, and the world will not be improved
 
-by making it larger. And for this reason alone I should reject this
+by making it larger. And for this reason [[Alone|alone]] I should reject this
 
-second method of uniting England and America; which is not only
+second method of uniting England and [[america|America]]; which is not only
 
 Americanising England, but Americanising everything else.
 
@@ -170,7 +170,7 @@ Americanising England, but Americanising everything else.
 
 But the essential reason is that a type of culture came out on top in
 
-America and England in the nineteenth century, which cannot and would
+[[america|America]] and England in the nineteenth century, which cannot and would
 
 not be tolerated on top of the world. To unite all the systems at the
 

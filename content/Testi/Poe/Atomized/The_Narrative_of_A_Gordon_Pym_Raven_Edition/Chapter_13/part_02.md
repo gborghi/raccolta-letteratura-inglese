@@ -16,11 +16,11 @@ tags:
 
       be experienced. We did every thing in our power for his comfort,
 
-      and trebled his allowance of water.
+      and trebled his allowance of [[Water|water]].
 
 
 
-      July 30. An excessively hot day, with no wind. An enormous shark
+      July 30. An excessively hot day, with no [[Wind|wind]]. An enormous shark
 
       kept close by the hulk during the whole of the forenoon. We made
 
@@ -32,17 +32,17 @@ tags:
 
       constantly prayed to be relieved from his sufferings, wishing for
 
-      nothing but death. This evening we ate the last of our olives,
+      nothing but [[Death|death]]. This evening we ate the last of our olives,
 
-      and found the water in our jug so putrid that we could not
+      and found the [[Water|water]] in our jug so putrid that we could not
 
-      swallow it at all without the addition of wine. Determined to
+      [[Swallow|swallow]] it at all without the addition of wine. Determined to
 
       kill our tortoise in the morning.
 
 
 
-      July 31. After a night of excessive anxiety and fatigue, owing to
+      July 31. After a [[Night|night]] of excessive anxiety and fatigue, owing to
 
       the position of the hulk, we set about killing and cutting up our
 
@@ -68,21 +68,21 @@ tags:
 
       us thirteen days. A brisk shower, with severe thunder and
 
-      lightning, came on about dusk, but lasted so short a time that we
+      [[Lightning|lightning]], came on about dusk, but lasted so short a [[Time|time]] that we
 
-      only succeeded in catching about half a pint of water. The whole
+      only succeeded in catching about half a pint of [[Water|water]]. The whole
 
       of this, by common consent, was given to Augustus, who now
 
-      appeared to be in the last extremity. He drank the water from the
+      appeared to be in the last extremity. He drank the [[Water|water]] from the
 
       sheet as we caught it (we holding it above him as he lay so as to
 
       let it run into his mouth), for we had now nothing left capable
 
-      of holding water, unless we had chosen to empty out our wine from
+      of holding [[Water|water]], unless we had chosen to empty out our wine from
 
-      the carboy, or the stale water from the jug. Either of these
+      the carboy, or the stale [[Water|water]] from the jug. Either of these
 
       expedients would have been resorted to had the shower lasted.
 
@@ -112,11 +112,11 @@ tags:
 
       August 1. A continuance of the same calm weather, with an
 
-      oppressively hot sun. Suffered exceedingly from thirst, the water
+      oppressively hot sun. Suffered exceedingly from thirst, the [[Water|water]]
 
       in the jug being absolutely putrid and swarming with vermin. We
 
-      contrived, nevertheless, to swallow a portion of it by mixing it
+      contrived, nevertheless, to [[Swallow|swallow]] a portion of it by mixing it
 
       with wine; our thirst, however, was but little abated. We found
 
@@ -130,9 +130,9 @@ tags:
 
       nothing to relieve his sufferings, which appeared to be great.
 
-      About twelve o’clock he expired in strong convulsions, and
+      About twelve o’[[Clock|clock]] he expired in strong convulsions, and
 
-      without having spoken for several hours. His death filled us with
+      without having spoken for several hours. His [[Death|death]] filled us with
 
       the most gloomy forebodings, and had so great an effect upon our
 
@@ -140,15 +140,15 @@ tags:
 
       day, and never addressed each other except in a whisper. It was
 
-      not until some time after dark that we took courage to get up and
+      not until some [[Time|time]] after dark that we took [[Courage|courage]] to get up and
 
-      throw the body overboard. It was then loathsome beyond
+      throw the [[Body|body]] overboard. It was then loathsome beyond
 
       expression, and so far decayed that, as Peters attempted to lift
 
       it, an entire leg came off in his grasp. As the mass of
 
-      putrefaction slipped over the vessel’s side into the water, the
+      putrefaction slipped over the vessel’s side into the [[Water|water]], the
 
       glare of phosphoric light with which it was surrounded plainly
 
@@ -162,15 +162,15 @@ tags:
 
 
 
-      August 2. The same fearfully calm and hot weather. The dawn found
+      August 2. The same fearfully calm and hot weather. The [[Dawn|dawn]] found
 
-      us in a state of pitiable dejection as well as bodily exhaustion.
+      us in a state of pitiable dejection as [[Well|well]] as bodily exhaustion.
 
-      The water in the jug was now absolutely useless, being a thick
+      The [[Water|water]] in the jug was now absolutely useless, being a thick
 
       gelatinous mass; nothing but frightful-looking worms mingled with
 
-      slime. We threw it out, and washed the jug well in the sea,
+      slime. We threw it out, and washed the jug [[Well|well]] in the sea,
 
       afterward pouring a little vinegar in it from our bottles of
 
@@ -190,7 +190,7 @@ tags:
 
       opportunity of bathing, but to no purpose; for the hulk was now
 
-      entirely besieged on all sides with sharks—no doubt the identical
+      entirely besieged on all sides with sharks—no [[Doubt|doubt]] the identical
 
       monsters who had devoured our poor companion on the evening
 

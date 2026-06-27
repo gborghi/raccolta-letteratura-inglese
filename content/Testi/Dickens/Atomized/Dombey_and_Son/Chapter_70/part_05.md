@@ -26,7 +26,7 @@ Doctor and Mrs Blimber, said:
 “Yes, I think, Doctor Blimber, we may release this young gentleman from
 his books just now; the vacation being so very near at hand.”
 
-“By all means,” said Doctor Blimber. “My love, you will inform
+“By all means,” said Doctor Blimber. “My [[Love|love]], you will inform
 Cornelia, if you please.”
 
 “Assuredly,” said Mrs Blimber.
@@ -52,28 +52,28 @@ with a cheerful smile, Paul smiled in return and abandoned it.
 
 He lay in bed all that day, dozing and dreaming, and looking at Mr
 Toots; but got up on the next, and went downstairs. Lo and behold,
-there was something the matter with the great clock; and a workman on a
+there was something the matter with the great [[Clock|clock]]; and a workman on a
 pair of steps had taken its face off, and was poking instruments into
 the works by the light of a candle! This was a great event for Paul,
-who sat down on the bottom stair, and watched the operation
-attentively: now and then glancing at the clock face, leaning all
+who sat down on the [[Bottom|bottom]] stair, and watched the operation
+attentively: now and then glancing at the [[Clock|clock]] face, leaning all
 askew, against the wall hard by, and feeling a little confused by a
 suspicion that it was ogling him.
 
 The workman on the steps was very civil; and as he said, when he
 observed Paul, “How do you do, Sir?” Paul got into conversation with
-him, and told him he hadn’t been quite well lately. The ice being thus
+him, and told him he hadn’t been quite [[Well|well]] lately. The ice being thus
 broken, Paul asked him a multitude of questions about chimes and
 clocks: as, whether people watched up in the lonely church steeples by
-night to make them strike, and how the bells were rung when people
-died, and whether those were different bells from wedding bells, or
+[[Night|night]] to make them strike, and how [[The Bells|the bells]] were rung when people
+died, and whether those were different [[Bells|bells]] from wedding [[Bells|bells]], or
 only sounded dismal in the fancies of the living. Finding that his new
-acquaintance was not very well informed on the subject of the Curfew
+acquaintance was not very [[Well|well]] informed on the subject of the Curfew
 Bell of ancient days, Paul gave him an account of that institution; and
-also asked him, as a practical man, what he thought about King Alfred’s
-idea of measuring time by the burning of candles; to which the workman
-replied, that he thought it would be the ruin of the clock trade if it
-was to come up again. In fine, Paul looked on, until the clock had
+also asked him, as a practical man, what he thought about [[King Alfred]]’s
+idea of measuring [[Time|time]] by the burning of candles; to which the workman
+replied, that he thought it would be the ruin of the [[Clock|clock]] trade if it
+was to come up again. In fine, Paul looked on, until the [[Clock|clock]] had
 quite recovered its familiar aspect, and resumed its sedate inquiry;
 when the workman, putting away his tools in a long basket, bade him
 good day, and went away. Though not before he had whispered something,
@@ -91,26 +91,26 @@ First, there was Florence coming to the party. Florence would see that
 the boys were fond of him; and that would make her happy. This was his
 great theme. Let Florence once be sure that they were gentle and good
 to him, and that he had become a little favourite among them, and then
-she would always think of the time he had passed there, without being
+she would always think of the [[Time|time]] he had passed there, without being
 very sorry. Florence might be all the happier too for that, perhaps,
 when he came back.
 
 When he came back! Fifty times a day, his noiseless little feet went up
 the stairs to his own room, as he collected every book, and scrap, and
 trifle that belonged to him, and put them all together there, down to
-the minutest thing, for taking home! There was no shade of coming back
+the minutest thing, for taking [[Home|home]]! There was no shade of coming back
 on little Paul; no preparation for it, or other reference to it, grew
 out of anything he thought or did, except this slight one in connexion
 with his sister. On the contrary, he had to think of everything
 familiar to him, in his contemplative moods and in his wanderings about
-the house, as being to be parted with; and hence the many things he had
+the [[house]], as being to be parted with; and hence the many things he had
 to think of, all day long.
 
 He had to peep into those rooms upstairs, and think how solitary they
-would be when he was gone, and wonder through how many silent days,
-weeks, months, and years, they would continue just as grave and
-undisturbed. He had to think—would any other child (old-fashioned, like
-himself) stray there at any time, to whom the same grotesque
+would be when he was gone, and [[Wonder|wonder]] through how many silent days,
+weeks, months, and years, they would continue just as [[Grave|grave]] and
+undisturbed. He had to think—would any other [[Child|child]] (old-fashioned, like
+himself) stray there at any [[Time|time]], to whom the same [[Grotesque|grotesque]]
 distortions of pattern and furniture would manifest themselves; and
 would anybody tell that boy of little Dombey, who had been there once?
 
@@ -123,12 +123,12 @@ centre of a wondering group, one figure that he knew, a figure with a
 light about its head—benignant, mild, and merciful—stood pointing
 upward.
 
-At his own bedroom window, there were crowds of thoughts that mixed
-with these, and came on, one upon another, like the rolling waves.
-Where those wild birds lived, that were always hovering out at sea in
-troubled weather; where the clouds rose and first began; whence the
-wind issued on its rushing flight, and where it stopped; whether the
+At his own bedroom [[Window|window]], there were crowds of thoughts that mixed
+with these, and came on, one upon another, like the [[rolling]] waves.
+Where those wild [[Birds|birds]] lived, that were always hovering out at sea in
+troubled weather; where the clouds [[Rose|rose]] and first began; whence the
+[[Wind|wind]] issued on its rushing flight, and where it stopped; whether the
 spot where he and Florence had so often sat, and watched, and talked
 about these things, could ever be exactly as it used to be without
 them; whether it could ever be the same to Florence, if he were in some
-distant place, and she were sitting there alone.
+distant place, and she were sitting there [[Alone|alone]].

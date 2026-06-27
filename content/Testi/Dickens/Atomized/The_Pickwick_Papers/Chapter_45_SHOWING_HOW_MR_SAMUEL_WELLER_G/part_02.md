@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 43: SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES (part 2)"
+title: "The [[Pickwick]] Papers — Chapter 43: SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -51,14 +51,14 @@ admiration, and said emphatically--
 ‘And what’ll you take, sir?’
 
 ‘Why, really,’ replied Mr. Pell, ‘you’re very--. Upon my word and
-honour, I’m not in the habit of--. It’s so very early in the morning,
-that, actually, I am almost--. Well, you may bring me threepenn’orth of
+[[Honour|honour]], I’m not in the habit of--. It’s so very early in the morning,
+that, actually, I am almost--. [[Well]], you may bring me threepenn’orth of
 rum, my dear.’
 
-The officiating damsel, who had anticipated the order before it was
+The officiating [[Damsel|damsel]], who had anticipated the order before it was
 given, set the glass of spirits before Pell, and retired.
 
-‘Gentlemen,’ said Mr. Pell, looking round upon the company, ‘success to
+‘Gentlemen,’ said Mr. Pell, looking round upon the company, ‘[[success]] to
 your friend! I don’t like to boast, gentlemen; it’s not my way; but I
 can’t help saying, that, if your friend hadn’t been fortunate enough to
 fall into hands that--But I won’t say what I was going to say.
@@ -70,10 +70,10 @@ assembled coachmen, who evidently regarded him as a species of divinity.
 gentlemen?’
 
 ‘I think you was remarkin’ as you wouldn’t have no objection to another
-o’ the same, Sir,’ said Mr. Weller, with grave facetiousness.
+o’ the same, Sir,’ said Mr. Weller, with [[Grave|grave]] facetiousness.
 
 ‘Ha, ha!’ laughed Mr. Pell. ‘Not bad, not bad. A professional man, too!
-At this time of the morning, it would be rather too good a--Well, I
+At this [[Time|time]] of the morning, it would be rather too good a--[[Well]], I
 don’t know, my dear--you may do that again, if you please. Hem!’
 
 This last sound was a solemn and dignified cough, in which Mr. Pell,
@@ -97,9 +97,9 @@ A murmur of assent ran through the company.
 occasion; there was only us two, but everything as splendid as if twenty
 people had been expected--the great seal on a dumb-waiter at his right
 hand, and a man in a bag-wig and suit of armour guarding the mace with a
-drawn sword and silk stockings--which is perpetually done, gentlemen,
-night and day; when he said, “Pell,” he said, “no false delicacy, Pell.
-You’re a man of talent; you can get anybody through the Insolvent Court,
+drawn [[Sword|sword]] and silk stockings--which is perpetually done, gentlemen,
+[[Night|night]] and day; when he said, “Pell,” he said, “no false delicacy, Pell.
+You’re a man of talent; you can get anybody through the Insolvent [[Court]],
 Pell; and your country should be proud of you.” Those were his very
 words. “My Lord,” I said, “you flatter me.”--“Pell,” he said, “if I do,
 I’m damned.”’
@@ -142,13 +142,13 @@ blue bag, who were inseparable companions, rushed violently into the
 room, and said (at least the boy did, for the blue bag took no part in
 the announcement) that the case was coming on directly. The intelligence
 was no sooner received than the whole party hurried across the street,
-and began to fight their way into court--a preparatory ceremony, which
+and began to fight their way into [[Court|court]]--a preparatory ceremony, which
 has been calculated to occupy, in ordinary cases, from twenty-five
 minutes to thirty.
 
 Mr. Weller, being stout, cast himself at once into the crowd, with the
-desperate hope of ultimately turning up in some place which would suit
-him. His success was not quite equal to his expectations; for having
+desperate [[Hope|hope]] of ultimately turning up in some place which would suit
+him. His [[success]] was not quite equal to his expectations; for having
 neglected to take his hat off, it was knocked over his eyes by some
 unseen person, upon whose toes he had alighted with considerable force.
 Apparently this individual regretted his impetuosity immediately

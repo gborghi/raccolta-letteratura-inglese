@@ -1,5 +1,5 @@
 ---
-title: "Richard III — Act I, Scene 4 — exchange (CLARENCE) [3]"
+title: "[[Richard III]] — Act I, Scene 4 — exchange ([[Clarence|CLARENCE]]) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/RICHARD-III-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| CLARENCE | Methought I had, and often did I strive To yield the ghost, but still the envious flood Stopped-in my soul and would not let it forth To find the empty, vast, and wand’ring air, But smothered it within my panting bulk, Who almost burst to belch it in the sea. BRACKENBURY Awaked you not in this sore agony? |
+| [[Clarence|CLARENCE]] | Methought I had, and often did I strive To yield the [[Ghost|ghost]], but still the envious flood Stopped-in my [[Soul|soul]] and would not let it forth To find the empty, vast, and wand’ring air, But smothered it within my panting bulk, Who almost burst to belch it in the sea. BRACKENBURY Awaked you not in this sore agony? |

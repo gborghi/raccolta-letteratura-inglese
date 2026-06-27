@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 6: AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE"
+title: "The [[Pickwick]] Papers — Chapter 6: AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -17,15 +17,15 @@ tags:
 CHAPTER VI. AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE
 STORY OF THE CONVICT’S RETURN
 
-Several guests who were assembled in the old parlour rose to greet Mr.
-Pickwick and his friends upon their entrance; and during the performance
-of the ceremony of introduction, with all due formalities, Mr. Pickwick
+Several guests who were assembled in the old parlour [[Rose|rose]] to greet Mr.
+[[Pickwick]] and his friends upon their entrance; and during the performance
+of the ceremony of introduction, with all due formalities, Mr. [[Pickwick]]
 had leisure to observe the appearance, and speculate upon the characters
 and pursuits, of the persons by whom he was surrounded--a habit in which
 he, in common with many other great men, delighted to indulge.
 
 A very old lady, in a lofty cap and faded silk gown--no less a personage
-than Mr. Wardle’s mother--occupied the post of honour on the right-hand
+than Mr. Wardle’s mother--occupied the post of [[Honour|honour]] on the right-hand
 corner of the chimney-piece; and various certificates of her having been
 brought up in the way she should go when young, and of her not having
 departed from it when old, ornamented the walls, in the form of samplers
@@ -38,53 +38,53 @@ bottle, while a fourth was busily engaged in patting and punching the
 pillows which were arranged for her support. On the opposite side sat a
 bald-headed old gentleman, with a good-humoured, benevolent face--the
 clergyman of Dingley Dell; and next him sat his wife, a stout, blooming
-old lady, who looked as if she were well skilled, not only in the art
-and mystery of manufacturing home-made cordials greatly to other
+old lady, who looked as if she were [[Well|well]] skilled, not only in the art
+and mystery of manufacturing [[Home|home]]-made cordials greatly to other
 people’s satisfaction, but of tasting them occasionally very much to her
 own. A little hard-headed, Ripstone pippin-faced man, was conversing
 with a fat old gentleman in one corner; and two or three more old
 gentlemen, and two or three more old ladies, sat bolt upright and
-motionless on their chairs, staring very hard at Mr. Pickwick and his
+motionless on their chairs, staring very hard at Mr. [[Pickwick]] and his
 fellow-voyagers.
 
-‘Mr. Pickwick, mother,’ said Mr. Wardle, at the very top of his voice.
+‘Mr. [[Pickwick]], mother,’ said Mr. Wardle, at the very top of his voice.
 
 ‘Ah!’ said the old lady, shaking her head; ‘I can’t hear you.’
 
-‘Mr. Pickwick, grandma!’ screamed both the young ladies together.
+‘Mr. [[Pickwick]], grandma!’ screamed both the young ladies together.
 
-‘Ah!’ exclaimed the old lady. ‘Well, it don’t much matter. He don’t care
+‘Ah!’ exclaimed the old lady. ‘[[Well]], it don’t much matter. He don’t care
 for an old ‘ooman like me, I dare say.’
 
-‘I assure you, ma’am,’ said Mr. Pickwick, grasping the old lady’s hand,
+‘I assure you, ma’am,’ said Mr. [[Pickwick]], grasping the old lady’s hand,
 and speaking so loud that the exertion imparted a crimson hue to his
 benevolent countenance--‘I assure you, ma’am, that nothing delights me
-more than to see a lady of your time of life heading so fine a family,
-and looking so young and well.’
+more than to see a lady of your [[Time|time]] of life heading so fine a family,
+and looking so young and [[Well|well]].’
 
 ‘Ah!’ said the old lady, after a short pause: ‘it’s all very fine, I
 dare say; but I can’t hear him.’
 
-‘Grandma’s rather put out now,’ said Miss Isabella Wardle, in a low
+‘Grandma’s rather put out now,’ said Miss [[Isabella]] Wardle, in a low
 tone; ‘but she’ll talk to you presently.’
 
-Mr. Pickwick nodded his readiness to humour the infirmities of age, and
+Mr. [[Pickwick]] nodded his readiness to [[Humour|humour]] the infirmities of age, and
 entered into a general conversation with the other members of the
 circle.
 
-‘Delightful situation this,’ said Mr. Pickwick.
+‘Delightful situation this,’ said Mr. [[Pickwick]].
 
 ‘Delightful!’ echoed Messrs. Snodgrass, Tupman, and Winkle.
 
-‘Well, I think it is,’ said Mr. Wardle.
+‘[[Well]], I think it is,’ said Mr. Wardle.
 
-‘There ain’t a better spot o’ ground in all Kent, sir,’ said the hard-
+‘There ain’t a better spot o’ ground in all [[Kent]], sir,’ said the hard-
 headed man with the pippin--face; ‘there ain’t indeed, sir--I’m sure
 there ain’t, Sir.’ The hard-headed man looked triumphantly round, as if
 he had been very much contradicted by somebody, but had got the better
 of him at last.
 
-‘There ain’t a better spot o’ ground in all Kent,’ said the hard-headed
+‘There ain’t a better spot o’ ground in all [[Kent]],’ said the hard-headed
 man again, after a pause.
 
 ‘’Cept Mullins’s Meadows,’ observed the fat man solemnly.
@@ -121,7 +121,7 @@ above a whisper, drew herself up, and looked carving-knives at the hard-
 headed delinquent.
 
 ‘Come, come,’ said the bustling host, with a natural anxiety to change
-the conversation, ‘what say you to a rubber, Mr. Pickwick?’
+the conversation, ‘what say you to a rubber, Mr. [[Pickwick]]?’
 
 ‘I should like it of all things,’ replied that gentleman; ‘but pray
 don’t make up one on my account.’
@@ -137,7 +137,7 @@ the card-tables.’
 
 The lethargic youth contrived without any additional rousing to set out
 two card-tables; the one for Pope Joan, and the other for whist. The
-whist-players were Mr. Pickwick and the old lady, Mr. Miller and the fat
+whist-players were Mr. [[Pickwick]] and the old lady, Mr. Miller and the fat
 gentleman. The round game comprised the rest of the company.
 
 The rubber was conducted with all that gravity of deportment and
@@ -148,7 +148,7 @@ table, on the other hand, was so boisterously merry as materially to
 interrupt the contemplations of Mr. Miller, who, not being quite so much
 absorbed as he ought to have been, contrived to commit various high
 crimes and misdemeanours, which excited the wrath of the fat gentleman
-to a very great extent, and called forth the good-humour of the old lady
+to a very great extent, and called forth the good-[[Humour|humour]] of the old lady
 in a proportionate degree.
 
 ‘There!’ said the criminal Miller triumphantly, as he took up the odd
@@ -158,7 +158,7 @@ better, I flatter myself; impossible to have made another trick!’
 ‘Miller ought to have trumped the diamond, oughtn’t he, Sir?’ said the
 old lady.
 
-Mr. Pickwick nodded assent.
+Mr. [[Pickwick]] nodded assent.
 
 ‘Ought I, though?’ said the unfortunate, with a doubtful appeal to his
 partner.
@@ -169,24 +169,24 @@ partner.
 
 ‘Much use that,’ growled the fat gentleman.
 
-‘Two by honours--makes us eight,’ said Mr. Pickwick.
+‘Two by honours--makes us eight,’ said Mr. [[Pickwick]].
 
 ‘Another hand. ‘Can you one?’ inquired the old lady.
 
-‘I can,’ replied Mr. Pickwick. ‘Double, single, and the rub.’
+‘I can,’ replied Mr. [[Pickwick]]. ‘[[Double]], single, and the rub.’
 
 ‘Never was such luck,’ said Mr. Miller.
 
 ‘Never was such cards,’ said the fat gentleman.
 
-A solemn silence; Mr. Pickwick humorous, the old lady serious, the fat
+A solemn [[Silence|silence]]; Mr. [[Pickwick]] humorous, the old lady serious, the fat
 gentleman captious, and Mr. Miller timorous.
 
-‘Another double,’ said the old lady, triumphantly making a memorandum of
+‘Another [[Double|double]],’ said the old lady, triumphantly making a memorandum of
 the circumstance, by placing one sixpence and a battered halfpenny under
 the candlestick.
 
-‘A double, sir,’ said Mr. Pickwick.
+‘A [[Double|double]], sir,’ said Mr. [[Pickwick]].
 
 ‘Quite aware of the fact, Sir,’ replied the fat gentleman sharply.
 
@@ -194,13 +194,13 @@ Another game, with a similar result, was followed by a revoke from the
 unlucky Miller; on which the fat gentleman burst into a state of high
 personal excitement which lasted until the conclusion of the game, when
 he retired into a corner, and remained perfectly mute for one hour and
-twenty-seven minutes; at the end of which time he emerged from his
-retirement, and offered Mr. Pickwick a pinch of snuff with the air of a
-man who had made up his mind to a Christian forgiveness of injuries
+twenty-seven minutes; at the end of which [[Time|time]] he emerged from his
+retirement, and offered Mr. [[Pickwick]] a pinch of snuff with the air of a
+man who had made up his mind to a Christian [[Forgiveness|forgiveness]] of injuries
 sustained. The old lady’s hearing decidedly improved and the unlucky
 Miller felt as much out of his element as a dolphin in a sentry-box.
 
-Meanwhile the round game proceeded right merrily. Isabella Wardle and
+Meanwhile the round game proceeded right merrily. [[Isabella]] Wardle and
 Mr. Trundle ‘went partners,’ and Emily Wardle and Mr. Snodgrass did the
 same; and even Mr. Tupman and the spinster aunt established a joint-
 stock company of fish and flattery. Old Mr. Wardle was in the very
@@ -209,7 +209,7 @@ board, and the old ladies were so sharp after their winnings, that the
 whole table was in a perpetual roar of merriment and laughter. There was
 one old lady who always had about half a dozen cards to pay for, at
 which everybody laughed, regularly every round; and when the old lady
-looked cross at having to pay, they laughed louder than ever; on which
+looked [[Cross|cross]] at having to pay, they laughed louder than ever; on which
 the old lady’s face gradually brightened up, till at last she laughed
 louder than any of them, Then, when the spinster aunt got ‘matrimony,’
 the young ladies laughed afresh, and the Spinster aunt seemed disposed
@@ -223,10 +223,10 @@ made one old gentleman facetiously sly, about partnerships at cards and
 partnerships for life, and caused the aforesaid old gentleman to make
 some remarks thereupon, accompanied with divers winks and chuckles,
 which made the company very merry and the old gentleman’s wife
-especially so. And Mr. Winkle came out with jokes which are very well
+especially so. And Mr. Winkle came out with jokes which are very [[Well|well]]
 known in town, but are not all known in the country; and as everybody
 laughed at them very heartily, and said they were very capital, Mr.
-Winkle was in a state of great honour and glory. And the benevolent
+Winkle was in a state of great [[Honour|honour]] and glory. And the benevolent
 clergyman looked pleasantly on; for the happy faces which surrounded the
 table made the good old man feel happy too; and though the merriment was
 rather boisterous, still it came from the heart and not from the lips;
@@ -234,32 +234,32 @@ and this is the right sort of merriment, after all.
 
 The evening glided swiftly away, in these cheerful recreations; and when
 the substantial though homely supper had been despatched, and the little
-party formed a social circle round the fire, Mr. Pickwick thought he had
-never felt so happy in his life, and at no time so much disposed to
+party formed a social circle round the [[Fire|fire]], Mr. [[Pickwick]] thought he had
+never felt so happy in his life, and at no [[Time|time]] so much disposed to
 enjoy, and make the most of, the passing moment.
 
 ‘Now this,’ said the hospitable host, who was sitting in great state
 next the old lady’s arm-chair, with her hand fast clasped in his--‘this
 is just what I like--the happiest moments of my life have been passed at
 this old fireside; and I am so attached to it, that I keep up a blazing
-fire here every evening, until it actually grows too hot to bear it.
+[[Fire|fire]] here every evening, until it actually grows too hot to bear it.
 Why, my poor old mother, here, used to sit before this fireplace upon
 that little stool when she was a girl; didn’t you, mother?’
 
 The tear which starts unbidden to the eye when the recollection of old
 times and the happiness of many years ago is suddenly recalled, stole
-down the old lady’s face as she shook her head with a melancholy smile.
+down the old lady’s face as she shook her head with a [[Melancholy|melancholy]] smile.
 
-‘You must excuse my talking about this old place, Mr. Pickwick,’ resumed
-the host, after a short pause, ‘for I love it dearly, and know no other-
+‘You must excuse my talking about this old place, Mr. [[Pickwick]],’ resumed
+the host, after a short pause, ‘for I [[Love|love]] it dearly, and know no other-
 -the old houses and fields seem like living friends to me; and so does
 our little church with the ivy, about which, by the bye, our excellent
-friend there made a song when he first came amongst us. Mr. Snodgrass,
+friend there made a [[Song|song]] when he first came amongst us. Mr. Snodgrass,
 have you anything in your glass?’
 
 ‘Plenty, thank you,’ replied that gentleman, whose poetic curiosity had
 been greatly excited by the last observation of his entertainer. ‘I beg
-your pardon, but you were talking about the song of the Ivy.’
+your pardon, but you were talking about the [[Song|song]] of the Ivy.’
 
 ‘You must ask our friend opposite about that,’ said the host knowingly,
 indicating the clergyman by a nod of his head.
@@ -269,7 +269,7 @@ Snodgrass.
 
 ‘Why, really,’ replied the clergyman, ‘it’s a very slight affair; and
 the only excuse I have for having ever perpetrated it is, that I was a
-young man at the time. Such as it is, however, you shall hear it, if you
+young man at the [[Time|time]]. Such as it is, however, you shall hear it, if you
 wish.’
 
 A murmur of curiosity was of course the reply; and the old gentleman
@@ -282,30 +282,30 @@ THE IVY GREEN
 Oh, a dainty plant is the Ivy green, That creepeth o’er ruins old! Of
 right choice food are his meals, I ween, In his cell so lone and cold.
 The wall must be crumbled, the stone decayed, To pleasure his dainty
-whim; And the mouldering dust that years have made, Is a merry meal for
+whim; And the mouldering [[Dust|dust]] that years have made, Is a merry meal for
 him. Creeping where no life is seen, A rare old plant is the Ivy green.
 
 Fast he stealeth on, though he wears no wings, And a staunch old heart
 has he. How closely he twineth, how tight he clings To his friend the
-huge Oak Tree! And slily he traileth along the ground, And his leaves he
+huge Oak Tree! And slily he traileth along the ground, And his [[Leaves|leaves]] he
 gently waves, As he joyously hugs and crawleth round The rich mould of
-dead men’s graves. Creeping where grim death has been, A rare old plant
+dead men’s graves. Creeping where grim [[Death|death]] has been, A rare old plant
 is the Ivy green.
 
 Whole ages have fled and their works decayed, And nations have scattered
 been; But the stout old Ivy shall never fade, From its hale and hearty
 green. The brave old plant in its lonely days, Shall fatten upon the
 past; For the stateliest building man can raise, Is the Ivy’s food at
-last. Creeping on where time has been, A rare old plant is the Ivy
+last. Creeping on where [[Time|time]] has been, A rare old plant is the Ivy
 green.
 
 
 
-While the old gentleman repeated these lines a second time, to enable
-Mr. Snodgrass to note them down, Mr. Pickwick perused the lineaments of
+While the old gentleman repeated these lines a second [[Time|time]], to enable
+Mr. Snodgrass to note them down, Mr. [[Pickwick]] perused the lineaments of
 his face with an expression of great interest. The old gentleman having
 concluded his dictation, and Mr. Snodgrass having returned his note-book
-to his pocket, Mr. Pickwick said--
+to his pocket, Mr. [[Pickwick]] said--
 
 ‘Excuse me, sir, for making the remark on so short an acquaintance; but
 a gentleman like yourself cannot fail, I should think, to have observed
@@ -313,7 +313,7 @@ many scenes and incidents worth recording, in the course of your
 experience as a minister of the Gospel.’
 
 ‘I have witnessed some certainly,’ replied the old gentleman, ‘but the
-incidents and characters have been of a homely and ordinary nature, my
+incidents and characters have been of a homely and ordinary [[Nature|nature]], my
 sphere of action being so very limited.’
 
 ‘You did make some notes, I think, about John Edmunds, did you not?’
@@ -321,7 +321,7 @@ inquired Mr. Wardle, who appeared very desirous to draw his friend out,
 for the edification of his new visitors.
 
 The old gentleman slightly nodded his head in token of assent, and was
-proceeding to change the subject, when Mr. Pickwick said--
+proceeding to change the subject, when Mr. [[Pickwick]] said--
 
 ‘I beg your pardon, sir, but pray, if I may venture to inquire, who was
 John Edmunds?’
@@ -350,8 +350,8 @@ is now just five-and-twenty years ago, the most notorious person among
 my parishioners was a man of the name of Edmunds, who leased a small
 farm near this spot. He was a morose, savage-hearted, bad man; idle and
 dissolute in his habits; cruel and ferocious in his disposition. Beyond
-the few lazy and reckless vagabonds with whom he sauntered away his time
-in the fields, or sotted in the ale-house, he had not a single friend or
+the few lazy and reckless vagabonds with whom he sauntered away his [[Time|time]]
+in the fields, or sotted in the ale-[[house]], he had not a single friend or
 acquaintance; no one cared to speak to the man whom many feared, and
 every one detested--and Edmunds was shunned by all.
 
@@ -360,48 +360,48 @@ twelve years old. Of the acuteness of that woman’s sufferings, of the
 gentle and enduring manner in which she bore them, of the agony of
 solicitude with which she reared that boy, no one can form an adequate
 conception. Heaven forgive me the supposition, if it be an uncharitable
-one, but I do firmly and in my soul believe, that the man systematically
+one, but I do firmly and in my [[Soul|soul]] believe, that the man systematically
 tried for many years to break her heart; but she bore it all for her
-child’s sake, and, however strange it may seem to many, for his father’s
+[[Child|child]]’s sake, and, however strange it may seem to many, for his father’s
 too; for brute as he was, and cruelly as he had treated her, she had
 loved him once; and the recollection of what he had been to her,
-awakened feelings of forbearance and meekness under suffering in her
+awakened feelings of forbearance and meekness under [[Suffering|suffering]] in her
 bosom, to which all God’s creatures, but women, are strangers.
 
 ‘They were poor--they could not be otherwise when the man pursued such
 courses; but the woman’s unceasing and unwearied exertions, early and
-late, morning, noon, and night, kept them above actual want. These
+late, morning, [[Noon|noon]], and [[Night|night]], kept them above actual want. These
 exertions were but ill repaid. People who passed the spot in the
-evening--sometimes at a late hour of the night--reported that they had
+evening--sometimes at a late hour of the [[Night|night]]--reported that they had
 heard the moans and sobs of a woman in distress, and the sound of blows;
 and more than once, when it was past midnight, the boy knocked softly at
-the door of a neighbour’s house, whither he had been sent, to escape the
+the door of a neighbour’s [[house]], whither he had been sent, to escape the
 drunken fury of his unnatural father.
 
-‘During the whole of this time, and when the poor creature often bore
+‘During the whole of this [[Time|time]], and when the poor creature often bore
 about her marks of ill-usage and violence which she could not wholly
 conceal, she was a constant attendant at our little church. Regularly
-every Sunday, morning and afternoon, she occupied the same seat with the
+every [[Sunday]], morning and afternoon, she occupied the same seat with the
 boy at her side; and though they were both poorly dressed--much more so
 than many of their neighbours who were in a lower station--they were
 always neat and clean. Every one had a friendly nod and a kind word for
 “poor Mrs. Edmunds”; and sometimes, when she stopped to exchange a few
 words with a neighbour at the conclusion of the service in the little
 row of elm-trees which leads to the church porch, or lingered behind to
-gaze with a mother’s pride and fondness upon her healthy boy, as he
+gaze with a mother’s [[Pride|pride]] and fondness upon her healthy boy, as he
 sported before her with some little companions, her careworn face would
 lighten up with an expression of heartfelt gratitude; and she would
 look, if not cheerful and happy, at least tranquil and contented.
 
-‘Five or six years passed away; the boy had become a robust and well-
-grown youth. The time that had strengthened the child’s slight frame and
+‘Five or six years passed away; the boy had become a robust and [[Well|well]]-
+grown youth. The [[Time|time]] that had strengthened the [[Child|child]]’s slight frame and
 knit his weak limbs into the strength of manhood had bowed his mother’s
 form, and enfeebled her steps; but the arm that should have supported
 her was no longer locked in hers; the face that should have cheered her,
 no more looked upon her own. She occupied her old seat, but there was a
-vacant one beside her. The Bible was kept as carefully as ever, the
+vacant one beside her. The [[Bible]] was kept as carefully as ever, the
 places were found and folded down as they used to be: but there was no
-one to read it with her; and the tears fell thick and fast upon the
+one to read it with her; and the [[Tears|tears]] fell thick and fast upon the
 book, and blotted the words from her eyes. Neighbours were as kind as
 they were wont to be of old, but she shunned their greetings with
 averted head. There was no lingering among the old elm-trees now--no
@@ -409,7 +409,7 @@ cheering anticipations of happiness yet in store. The desolate woman
 drew her bonnet closer over her face, and walked hurriedly away.
 
 ‘Shall I tell you that the young man, who, looking back to the earliest
-of his childhood’s days to which memory and consciousness extended, and
+of his [[Childhood|childhood]]’s days to which [[Memory|memory]] and consciousness extended, and
 carrying his recollection down to that moment, could remember nothing
 which was not in some way connected with a long series of voluntary
 privations suffered by his mother for his sake, with ill-usage, and
@@ -417,43 +417,43 @@ insult, and violence, and all endured for him--shall I tell you, that
 he, with a reckless disregard for her breaking heart, and a sullen,
 wilful forgetfulness of all she had done and borne for him, had linked
 himself with depraved and abandoned men, and was madly pursuing a
-headlong career, which must bring death to him, and shame to her? Alas
-for human nature! You have anticipated it long since.
+headlong career, which must bring [[Death|death]] to him, and shame to her? Alas
+for human [[Nature|nature]]! You have anticipated it long since.
 
 ‘The measure of the unhappy woman’s misery and misfortune was about to
 be completed. Numerous offences had been committed in the neighbourhood;
 the perpetrators remained undiscovered, and their boldness increased. A
-robbery of a daring and aggravated nature occasioned a vigilance of
+robbery of a daring and aggravated [[Nature|nature]] occasioned a vigilance of
 pursuit, and a strictness of search, they had not calculated on. Young
 Edmunds was suspected, with three companions. He was apprehended--
 committed--tried--condemned--to die.
 
 ‘The wild and piercing shriek from a woman’s voice, which resounded
-through the court when the solemn sentence was pronounced, rings in my
+through the [[Court|court]] when the solemn sentence was pronounced, rings in my
 ears at this moment. That cry struck a terror to the culprit’s heart,
-which trial, condemnation--the approach of death itself, had failed to
+which trial, condemnation--the approach of [[Death|death]] itself, had failed to
 awaken. The lips which had been compressed in dogged sullenness
 throughout, quivered and parted involuntarily; the face turned ashy pale
 as the cold perspiration broke forth from every pore; the sturdy limbs
 of the felon trembled, and he staggered in the dock.
 
-‘In the first transports of her mental anguish, the suffering mother
+‘In the first transports of her mental anguish, the [[Suffering|suffering]] mother
 threw herself on her knees at my feet, and fervently sought the Almighty
 Being who had hitherto supported her in all her troubles to release her
-from a world of woe and misery, and to spare the life of her only child.
-A burst of grief, and a violent struggle, such as I hope I may never
+from a world of woe and misery, and to spare the life of her only [[Child|child]].
+A burst of grief, and a violent struggle, such as I [[Hope|hope]] I may never
 have to witness again, succeeded. I knew that her heart was breaking
 from that hour; but I never once heard complaint or murmur escape her
 lips.
 
-‘It was a piteous spectacle to see that woman in the prison-yard from
+‘It was a piteous spectacle to see that woman in the [[Prison|prison]]-yard from
 day to day, eagerly and fervently attempting, by affection and entreaty,
 to soften the hard heart of her obdurate son. It was in vain. He
 remained moody, obstinate, and unmoved. Not even the unlooked-for
 commutation of his sentence to transportation for fourteen years,
 softened for an instant the sullen hardihood of his demeanour.
 
-‘But the spirit of resignation and endurance that had so long upheld
+‘But the spirit of [[Resignation|resignation]] and [[Endurance|endurance]] that had so long upheld
 her, was unable to contend against bodily weakness and infirmity. She
 fell sick. She dragged her tottering limbs from the bed to visit her son
 once more, but her strength failed her, and she sank powerless on the
@@ -468,16 +468,16 @@ from her, perhaps for ever. Oh! how the long-forgotten thoughts of
 former days rushed upon his mind, as he almost ran up and down the
 narrow yard--as if intelligence would arrive the sooner for his
 hurrying--and how bitterly a sense of his helplessness and desolation
-rushed upon him, when he heard the truth! His mother, the only parent he
+rushed upon him, when he heard the [[Truth|truth]]! His mother, the only parent he
 had ever known, lay ill--it might be, dying--within one mile of the
 ground he stood on; were he free and unfettered, a few minutes would
 place him by her side. He rushed to the gate, and grasping the iron
 rails with the energy of desperation, shook it till it rang again, and
 threw himself against the thick wall as if to force a passage through
 the stone; but the strong building mocked his feeble efforts, and he
-beat his hands together and wept like a child.
+beat his hands together and wept like a [[Child|child]].
 
-‘I bore the mother’s forgiveness and blessing to her son in prison; and
+‘I bore the mother’s [[Forgiveness|forgiveness]] and blessing to her son in [[Prison|prison]]; and
 I carried the solemn assurance of repentance, and his fervent
 supplication for pardon, to her sick-bed. I heard, with pity and
 compassion, the repentant man devise a thousand little plans for her
@@ -485,11 +485,11 @@ comfort and support when he returned; but I knew that many months before
 he could reach his place of destination, his mother would be no longer
 of this world.
 
-‘He was removed by night. A few weeks afterwards the poor woman’s soul
-took its flight, I confidently hope, and solemnly believe, to a place of
+‘He was removed by [[Night|night]]. A few weeks afterwards the poor woman’s [[Soul|soul]]
+took its flight, I confidently [[Hope|hope]], and solemnly believe, to a place of
 eternal happiness and rest. I performed the burial service over her
 remains. She lies in our little churchyard. There is no stone at her
-grave’s head. Her sorrows were known to man; her virtues to God.
+[[Grave|grave]]’s head. Her sorrows were known to man; her virtues to God.
 
 ‘It had been arranged previously to the convict’s departure, that he
 should write to his mother as soon as he could obtain permission, and
@@ -509,7 +509,7 @@ adhering to his old resolution and the pledge he gave his mother, he
 made his way back to England amidst innumerable difficulties, and
 returned, on foot, to his native place.
 
-‘On a fine Sunday evening, in the month of August, John Edmunds set foot
+‘On a fine [[Sunday]] evening, in the month of August, John Edmunds set foot
 in the village he had left with shame and disgrace seventeen years
 before. His nearest way lay through the churchyard. The man’s heart
 swelled as he crossed the stile. The tall old elms, through whose
@@ -517,43 +517,43 @@ branches the declining sun cast here and there a rich ray of light upon
 the shady part, awakened the associations of his earliest days. He
 pictured himself as he was then, clinging to his mother’s hand, and
 walking peacefully to church. He remembered how he used to look up into
-her pale face; and how her eyes would sometimes fill with tears as she
-gazed upon his features--tears which fell hot upon his forehead as she
+her pale face; and how her eyes would sometimes fill with [[Tears|tears]] as she
+gazed upon his features--[[Tears|tears]] which fell hot upon his forehead as she
 stooped to kiss him, and made him weep too, although he little knew then
-what bitter tears hers were. He thought how often he had run merrily
+what bitter [[Tears|tears]] hers were. He thought how often he had run merrily
 down that path with some childish playfellow, looking back, ever and
 again, to catch his mother’s smile, or hear her gentle voice; and then a
-veil seemed lifted from his memory, and words of kindness unrequited,
+veil seemed lifted from his [[Memory|memory]], and words of kindness unrequited,
 and warnings despised, and promises broken, thronged upon his
 recollection till his heart failed him, and he could bear it no longer.
 
 ‘He entered the church. The evening service was concluded and the
 congregation had dispersed, but it was not yet closed. His steps echoed
 through the low building with a hollow sound, and he almost feared to be
-alone, it was so still and quiet. He looked round him. Nothing was
+[[Alone|alone]], it was so still and quiet. He looked round him. Nothing was
 changed. The place seemed smaller than it used to be; but there were the
 old monuments on which he had gazed with childish awe a thousand times;
 the little pulpit with its faded cushion; the Communion table before
 which he had so often repeated the Commandments he had reverenced as a
-child, and forgotten as a man. He approached the old seat; it looked
-cold and desolate. The cushion had been removed, and the Bible was not
+[[Child|child]], and forgotten as a man. He approached the old seat; it looked
+cold and desolate. The cushion had been removed, and the [[Bible]] was not
 there. Perhaps his mother now occupied a poorer seat, or possibly she
-had grown infirm and could not reach the church alone. He dared not
+had grown infirm and could not reach the church [[Alone|alone]]. He dared not
 think of what he feared. A cold feeling crept over him, and he trembled
 violently as he turned away. ‘An old man entered the porch just as he
-reached it. Edmunds started back, for he knew him well; many a time he
+reached it. Edmunds started back, for he knew him [[Well|well]]; many a [[Time|time]] he
 had watched him digging graves in the churchyard. What would he say to
 the returned convict?
 
 ‘The old man raised his eyes to the stranger’s face, bade him “good-
 evening,” and walked slowly on. He had forgotten him.
 
-‘He walked down the hill, and through the village. The weather was warm,
+‘He walked down the [[Hill|hill]], and through the village. The weather was warm,
 and the people were sitting at their doors, or strolling in their little
 gardens as he passed, enjoying the serenity of the evening, and their
 rest from labour. Many a look was turned towards him, and many a
 doubtful glance he cast on either side to see whether any knew and
-shunned him. There were strange faces in almost every house; in some he
+shunned him. There were strange faces in almost every [[house]]; in some he
 recognised the burly form of some old schoolfellow--a boy when he last
 saw him--surrounded by a troop of merry children; in others he saw,
 seated in an easy-chair at a cottage door, a feeble and infirm old man,
@@ -562,17 +562,17 @@ forgotten him, and he passed on unknown.
 
 ‘The last soft light of the setting sun had fallen on the earth, casting
 a rich glow on the yellow corn sheaves, and lengthening the shadows of
-the orchard trees, as he stood before the old house--the home of his
+the orchard trees, as he stood before the old [[house]]--the [[Home|home]] of his
 infancy--to which his heart had yearned with an intensity of affection
 not to be described, through long and weary years of captivity and
-sorrow. The paling was low, though he well remembered the time that it
-had seemed a high wall to him; and he looked over into the old garden.
-There were more seeds and gayer flowers than there used to be, but there
+sorrow. The paling was low, though he [[Well|well]] remembered the [[Time|time]] that it
+had seemed a high wall to him; and he looked over into the old [[Garden|garden]].
+There were more seeds and gayer [[Flowers|flowers]] than there used to be, but there
 were the old trees still--the very tree under which he had lain a
 thousand times when tired of playing in the sun, and felt the soft, mild
-sleep of happy boyhood steal gently upon him. There were voices within
-the house. He listened, but they fell strangely upon his ear; he knew
-them not. They were merry too; and he well knew that his poor old mother
+[[Sleep|sleep]] of happy boyhood steal gently upon him. There were voices within
+the [[house]]. He listened, but they fell strangely upon his ear; he knew
+them not. They were merry too; and he [[Well|well]] knew that his poor old mother
 could not be cheerful, and he away. The door opened, and a group of
 little children bounded out, shouting and romping. The father, with a
 little boy in his arms, appeared at the door, and they crowded round
@@ -586,34 +586,34 @@ clenched, and his teeth were set, in a fierce and deadly passion.
 
 ‘And such was the return to which he had looked through the weary
 perspective of many years, and for which he had undergone so much
-suffering! No face of welcome, no look of forgiveness, no house to
+[[Suffering|suffering]]! No face of welcome, no look of [[Forgiveness|forgiveness]], no [[house]] to
 receive, no hand to help him--and this too in the old village. What was
-his loneliness in the wild, thick woods, where man was never seen, to
+his [[Loneliness|loneliness]] in the wild, thick woods, where man was never seen, to
 this!
 
 ‘He felt that in the distant land of his bondage and infamy, he had
 thought of his native place as it was when he left it; and not as it
 would be when he returned. The sad reality struck coldly at his heart,
-and his spirit sank within him. He had not courage to make inquiries, or
+and his spirit sank within him. He had not [[Courage|courage]] to make inquiries, or
 to present himself to the only person who was likely to receive him with
 kindness and compassion. He walked slowly on; and shunning the roadside
-like a guilty man, turned into a meadow he well remembered; and covering
+like a guilty man, turned into a meadow he [[Well|well]] remembered; and covering
 his face with his hands, threw himself upon the grass.
 
 ‘He had not observed that a man was lying on the bank beside him; his
 garments rustled as he turned round to steal a look at the new-comer;
 and Edmunds raised his head.
 
-‘The man had moved into a sitting posture. His body was much bent, and
+‘The man had moved into a sitting posture. His [[Body|body]] was much bent, and
 his face was wrinkled and yellow. His dress denoted him an inmate of the
 workhouse: he had the appearance of being very old, but it looked more
 the effect of dissipation or disease, than the length of years. He was
 staring hard at the stranger, and though his eyes were lustreless and
 heavy at first, they appeared to glow with an unnatural and alarmed
-expression after they had been fixed upon him for a short time, until
+expression after they had been fixed upon him for a short [[Time|time]], until
 they seemed to be starting from their sockets. Edmunds gradually raised
 himself to his knees, and looked more and more earnestly on the old
-man’s face. They gazed upon each other in silence.
+man’s face. They gazed upon each other in [[Silence|silence]].
 
 ‘The old man was ghastly pale. He shuddered and tottered to his feet.
 Edmunds sprang to his. He stepped back a pace or two. Edmunds advanced.
@@ -633,12 +633,12 @@ father; and his arm fell powerless by his side.
 ‘The old man uttered a loud yell which rang through the lonely fields
 like the howl of an evil spirit. His face turned black, the gore rushed
 from his mouth and nose, and dyed the grass a deep, dark red, as he
-staggered and fell. He had ruptured a blood-vessel, and he was a dead
+staggered and fell. He had ruptured a [[Blood|blood]]-vessel, and he was a dead
 man before his son could raise him.
 
 
 ‘In that corner of the churchyard,’ said the old gentleman, after a
-silence of a few moments, ‘in that corner of the churchyard of which I
+[[Silence|silence]] of a few moments, ‘in that corner of the churchyard of which I
 have before spoken, there lies buried a man who was in my employment for
 three years after this event, and who was truly contrite, penitent, and
 humbled, if ever man was. No one save myself knew in that man’s lifetime

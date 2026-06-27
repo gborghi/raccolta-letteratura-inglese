@@ -17,28 +17,28 @@ tags:
 BACK TO WASHINGTON
 
 _January, '63_.--Left camp at Falmouth, with some wounded, a few days
-since, and came here by Aquia creek railroad, and so on government
+since, and came here by Aquia creek railroad, and so on [[government]]
 steamer up the Potomac. Many wounded were with us on the cars and boat.
-The cars were just common platform ones. The railroad journey of ten or
+The cars were just common platform ones. The railroad [[Journey|journey]] of ten or
 twelve miles was made mostly before sunrise. The soldiers guarding the
-road came out from their tents or shebangs of bushes with rumpled hair
+[[Road|road]] came out from their tents or shebangs of bushes with rumpled hair
 and half-awake look. Those on duty were walking their posts, some on
 banks over us, others down far below the level of the track. I saw
-large cavalry camps off the road. At Aquia creek landing were numbers
+large cavalry camps off the [[Road|road]]. At Aquia creek landing were numbers
 of wounded going north. While I waited some three hours, I went around
-among them. Several wanted word sent home to parents, brothers, wives,
+among them. Several wanted word sent [[Home|home]] to parents, brothers, wives,
 &c., which I did for them, (by mail the next day from Washington.) On
 the boat I had my hands full. One poor fellow died going up.
 
 I am now remaining in and around Washington, daily visiting the
 hospitals. Am much in Patent-office, Eighth street, H street,
 Armory-square, and others. Am now able to do a little good, having
-money, (as almoner of others home,) and getting experience. To-day,
-Sunday afternoon and till nine in the evening, visited Campbell
+money, (as almoner of others [[Home|home]],) and getting experience. To-day,
+[[Sunday]] afternoon and till nine in the evening, visited Campbell
 hospital; attended specially to one case in ward I, very sick with
 pleurisy and typhoid fever, young man, farmer's son, D. F. Russell,
-company E, 60th New York, downhearted and feeble; a long time before he
-would take any interest; wrote a letter home to his mother, in Malone,
+company E, 60th [[New York]], downhearted and feeble; a long [[Time|time]] before he
+would take any interest; wrote a letter [[Home|home]] to his mother, in Malone,
 Franklin county, N. Y., at his request; gave him some fruit and one
 or two other gifts; envelop'd and directed his letter, &c. Then went
 thoroughly through ward 6, observ'd every case in the ward, without, I
@@ -68,7 +68,7 @@ among the southerners.)
 
 Evening, same day, went to see D. F. R., before alluded to; found him
 remarkably changed for the better; up and dress'd--quite a triumph; he
-afterwards got well, and went back to his regiment.
+afterwards got [[Well|well]], and went back to his regiment.
 
 Distributed in the wards a quantity of note-paper, and forty or fifty
 stamp'd envelopes, of which I had recruited my stock, and the men were

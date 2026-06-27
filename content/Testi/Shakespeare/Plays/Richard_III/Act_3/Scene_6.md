@@ -1,5 +1,5 @@
 ---
-title: "Richard III — Act III, Scene 6"
+title: "[[Richard III]] — Act III, Scene 6"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/RICHARD-III-(Shakespeare)"
@@ -17,5 +17,5 @@ tags:
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Enter a Scrivener with a paper in his hand |
-| SCRIVENER | Here is the indictment of the good Lord Hastings,<br>Which in a set hand fairly is engrossed,<br>That it may be today read o’er in Paul’s—<br>And mark how well the sequel hangs together:<br>Eleven hours I have spent to write it over,<br>For yesternight by Catesby was it sent me;<br>The precedent was full as long a-doing;<br>And yet, within these five hours, Hastings lived,<br>Untainted, unexamined, free, at liberty.<br>Here’s a good world the while! Who is so gross<br>That cannot see this palpable device?<br>Yet who so bold but says he sees it not?<br>Bad is the world, and all will come to naught,<br>When such ill dealing must be seen in thought. |
+| SCRIVENER | Here is the indictment of the good Lord [[Hastings]],<br>Which in a set hand fairly is engrossed,<br>That it may be today read o’er in Paul’s—<br>And mark how [[Well|well]] the sequel hangs together:<br>Eleven hours I have spent to write it over,<br>For yesternight by Catesby was it sent me;<br>The precedent was full as long a-doing;<br>And yet, within these five hours, [[Hastings]] lived,<br>Untainted, unexamined, free, at liberty.<br>Here’s a good world the while! Who is so gross<br>That cannot see this palpable device?<br>Yet who so bold but says he sees it not?<br>Bad is the world, and all will come to naught,<br>When such ill dealing must be seen in thought. |
 | *(didascalia)* | Exit |

@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 50 (part 3)"
+title: "[[Oliver Twist]] — Chapter 50 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -18,7 +18,7 @@ tags:
 they keep such ugly things above the ground for?—Who’s that knocking?”
 
 Crackit intimated, by a motion of his hand as he left the room, that
-there was nothing to fear; and directly came back with Charley Bates
+there was nothing to [[Fear|fear]]; and directly came back with Charley Bates
 behind him. Sikes sat opposite the door, so that the moment the boy
 entered the room he encountered his figure.
 
@@ -37,7 +37,7 @@ farther.
 
 “Don’t come nearer me,” answered the boy, still retreating, and
 looking, with horror in his eyes, upon the murderer’s face. “You
-monster!”
+[[Monster|monster]]!”
 
 The man stopped half-way, and they looked at each other; but Sikes’s
 eyes sunk gradually to the ground.
@@ -63,7 +63,7 @@ and never ceasing to call for help with all his might.
 
 The contest, however, was too unequal to last long. Sikes had him down,
 and his knee was on his throat, when Crackit pulled him back with a
-look of alarm, and pointed to the window. There were lights gleaming
+look of alarm, and pointed to the [[Window|window]]. There were lights gleaming
 below, voices in loud and earnest conversation, the tramp of hurried
 footsteps—endless they seemed in number—crossing the nearest wooden
 bridge. One man on horseback seemed to be among the crowd; for there
@@ -75,15 +75,15 @@ multitude of angry voices as would have made the boldest quail.
 “Help!” shrieked the boy in a voice that rent the air. “He’s here!
 Break down the door!”
 
-“In the King’s name,” cried the voices without; and the hoarse cry
+“In the [[King]]’s name,” cried the voices without; and the hoarse cry
 arose again, but louder.
 
 “Break down the door!” screamed the boy. “I tell you they’ll never open
 it. Run straight to the room where the light is. Break down the door!”
 
 Strokes, thick and heavy, rattled upon the door and lower
-window-shutters as he ceased to speak, and a loud huzzah burst from the
-crowd; giving the listener, for the first time, some adequate idea of
+[[Window|window]]-shutters as he ceased to speak, and a loud huzzah burst from the
+crowd; giving the listener, for the first [[Time|time]], some adequate idea of
 its immense extent.
 
 “Open the door of some place where I can lock this screeching
@@ -92,7 +92,7 @@ boy, now, as easily as if he were an empty sack. “That door. Quick!” He
 flung him in, bolted it, and turned the key. “Is the downstairs door
 fast?”
 
-“Double-locked and chained,” replied Crackit, who, with the other two
+“[[Double]]-locked and chained,” replied Crackit, who, with the other two
 men, still remained quite helpless and bewildered.
 
 “The panels—are they strong?”
@@ -108,11 +108,11 @@ menacing the crowd. “Do your worst! I’ll cheat you yet!”
 
 Of all the terrific yells that ever fell on mortal ears, none could
 exceed the cry of the infuriated throng. Some shouted to those who were
-nearest to set the house on fire; others roared to the officers to
+nearest to set the [[house]] on [[Fire|fire]]; others roared to the officers to
 shoot him dead. Among them all, none showed such fury as the man on
 horseback, who, throwing himself out of the saddle, and bursting
-through the crowd as if he were parting water, cried, beneath the
-window, in a voice that rose above all others, “Twenty guineas to the
+through the crowd as if he were parting [[Water|water]], cried, beneath the
+[[Window|window]], in a voice that [[Rose|rose]] above all others, “Twenty guineas to the
 man who brings a ladder!”
 
 The nearest voices took up the cry, and hundreds echoed it. Some called
@@ -120,10 +120,10 @@ for ladders, some for sledge-hammers; some ran with torches to and fro
 as if to seek them, and still came back and roared again; some spent
 their breath in impotent curses and execrations; some pressed forward
 with the ecstasy of madmen, and thus impeded the progress of those
-below; some among the boldest attempted to climb up by the water-spout
+below; some among the boldest attempted to climb up by the [[Water|water]]-spout
 and crevices in the wall; and all waved to and fro, in the darkness
-beneath, like a field of corn moved by an angry wind: and joined from
-time to time in one loud furious roar.
+beneath, like a field of corn moved by an angry [[Wind|wind]]: and joined from
+[[Time|time]] to [[Time|time]] in one loud furious roar.
 
 “The tide,” cried the murderer, as he staggered back into the room, and
 shut the faces out, “the tide was in as I came up. Give me a rope, a
@@ -133,13 +133,13 @@ and kill myself.”
 
 The panic-stricken men pointed to where such articles were kept; the
 murderer, hastily selecting the longest and strongest cord, hurried up
-to the house-top.
+to the [[house]]-top.
 
-All the windows in the rear of the house had been long ago bricked up,
+All the windows in the rear of the [[house]] had been long ago bricked up,
 except one small trap in the room where the boy was locked, and that
-was too small even for the passage of his body. But, from this
+was too small even for the passage of his [[Body|body]]. But, from this
 aperture, he had never ceased to call on those without, to guard the
-back; and thus, when the murderer emerged at last on the house-top by
+back; and thus, when the murderer emerged at last on the [[house]]-top by
 the door in the roof, a loud shout proclaimed the fact to those in
 front, who immediately began to pour round, pressing upon each other in
 an unbroken stream.

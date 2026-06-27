@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 11 (part 4)"
+title: "[[Jane Eyre]] — Chapter 11 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -19,11 +19,11 @@ tags:
 “Are they foreigners?” I inquired, amazed at hearing the French
 language.
 
-“The nurse is a foreigner, and Adela was born on the Continent; and, I
+“The [[Nurse|nurse]] is a foreigner, and Adela was born on the Continent; and, I
 believe, never left it till within six months ago. When she first came
 here she could speak no English; now she can make shift to talk it a
 little: I don’t understand her, she mixes it so with French; but you
-will make out her meaning very well, I dare say.”
+will make out her meaning very [[Well|well]], I dare say.”
 
 Fortunately I had had the advantage of being taught French by a French
 lady; and as I had always made a point of conversing with Madame
@@ -39,43 +39,43 @@ replied briefly at first, but after we were seated at the table, and
 she had examined me some ten minutes with her large hazel eyes, she
 suddenly commenced chattering fluently.
 
-“Ah!” cried she, in French, “you speak my language as well as Mr.
+“Ah!” cried she, in French, “you speak my language as [[Well|well]] as Mr.
 Rochester does: I can talk to you as I can to him, and so can Sophie.
 She will be glad: nobody here understands her: Madame Fairfax is all
-English. Sophie is my nurse; she came with me over the sea in a great
-ship with a chimney that smoked—how it did smoke!—and I was sick, and
+English. Sophie is my [[Nurse|nurse]]; she came with me over the sea in a great
+[[Ship|ship]] with a chimney that smoked—how it did smoke!—and I was sick, and
 so was Sophie, and so was Mr. Rochester. Mr. Rochester lay down on a
 sofa in a pretty room called the salon, and Sophie and I had little
 beds in another place. I nearly fell out of mine; it was like a shelf.
 And Mademoiselle—what is your name?”
 
-“Eyre—Jane Eyre.”
+“Eyre—[[Jane Eyre]].”
 
-“Aire? Bah! I cannot say it. Well, our ship stopped in the morning,
-before it was quite daylight, at a great city—a huge city, with very
+“Aire? Bah! I cannot say it. [[Well]], our [[Ship|ship]] stopped in the morning,
+before it was quite daylight, at a great [[City|city]]—a huge [[City|city]], with very
 dark houses and all smoky; not at all like the pretty clean town I came
 from; and Mr. Rochester carried me in his arms over a plank to the
 land, and Sophie came after, and we all got into a coach, which took us
-to a beautiful large house, larger than this and finer, called an
+to a beautiful large [[house]], larger than this and finer, called an
 hotel. We stayed there nearly a week: I and Sophie used to walk every
 day in a great green place full of trees, called the Park; and there
-were many children there besides me, and a pond with beautiful birds in
+were many children there besides me, and a pond with beautiful [[Birds|birds]] in
 it, that I fed with crumbs.”
 
 “Can you understand her when she runs on so fast?” asked Mrs. Fairfax.
 
-I understood her very well, for I had been accustomed to the fluent
+I understood her very [[Well|well]], for I had been accustomed to the fluent
 tongue of Madame Pierrot.
 
 “I wish,” continued the good lady, “you would ask her a question or two
-about her parents: I wonder if she remembers them?”
+about her parents: I [[Wonder|wonder]] if she remembers them?”
 
 “Adèle,” I inquired, “with whom did you live when you were in that
 pretty clean town you spoke of?”
 
 “I lived long ago with mama; but she is gone to the Holy Virgin. Mama
-used to teach me to dance and sing, and to say verses. A great many
-gentlemen and ladies came to see mama, and I used to dance before them,
+used to teach me to [[Dance|dance]] and sing, and to say verses. A great many
+gentlemen and ladies came to see mama, and I used to [[Dance|dance]] before them,
 or to sit on their knees and sing to them: I liked it. Shall I let you
 hear me sing now?”
 
@@ -83,23 +83,23 @@ She had finished her breakfast, so I permitted her to give a specimen
 of her accomplishments. Descending from her chair, she came and placed
 herself on my knee; then, folding her little hands demurely before her,
 shaking back her curls and lifting her eyes to the ceiling, she
-commenced singing a song from some opera. It was the strain of a
-forsaken lady, who, after bewailing the perfidy of her lover, calls
-pride to her aid; desires her attendant to deck her in her brightest
-jewels and richest robes, and resolves to meet the false one that night
+commenced singing a [[Song|song]] from some opera. It was the strain of a
+forsaken lady, who, after bewailing the perfidy of her [[Lover|lover]], calls
+[[Pride|pride]] to her aid; desires her attendant to deck her in her brightest
+jewels and richest robes, and resolves to meet the false one that [[Night|night]]
 at a ball, and prove to him, by the gaiety of her demeanour, how little
 his desertion has affected her.
 
 The subject seemed strangely chosen for an infant singer; but I suppose
-the point of the exhibition lay in hearing the notes of love and
-jealousy warbled with the lisp of childhood; and in very bad taste that
+the point of the exhibition lay in hearing the notes of [[Love|love]] and
+[[Jealousy|jealousy]] warbled with the lisp of [[Childhood|childhood]]; and in very bad taste that
 point was: at least I thought so.
 
 Adèle sang the canzonette tunefully enough, and with the _naïveté_ of
 her age. This achieved, she jumped from my knee and said, “Now,
 Mademoiselle, I will repeat you some poetry.”
 
-Assuming an attitude, she began, “La Ligue des Rats: fable de La
+Assuming an attitude, she began, “La Ligue des Rats: [[Fable|fable]] de La
 Fontaine.” She then declaimed the little piece with an attention to
 punctuation and emphasis, a flexibility of voice and an appropriateness
 of gesture, very unusual indeed at her age, and which proved she had
@@ -109,14 +109,14 @@ been carefully trained.
 
 “Yes, and she just used to say it in this way: ‘Qu’avez vous donc? lui
 dit un de ces rats; parlez!’ She made me lift my hand—so—to remind me
-to raise my voice at the question. Now shall I dance for you?”
+to raise my voice at the question. Now shall I [[Dance|dance]] for you?”
 
 “No, that will do: but after your mama went to the Holy Virgin, as you
 say, with whom did you live then?”
 
 “With Madame Frédéric and her husband: she took care of me, but she is
 nothing related to me. I think she is poor, for she had not so fine a
-house as mama. I was not long there. Mr. Rochester asked me if I would
+[[house]] as mama. I was not long there. Mr. Rochester asked me if I would
 like to go and live with him in England, and I said yes; for I knew Mr.
 Rochester before I knew Madame Frédéric, and he was always kind to me
 and gave me pretty dresses and toys: but you see he has not kept his
@@ -128,7 +128,7 @@ appears, Mr. Rochester had directed should be used as the schoolroom.
 Most of the books were locked up behind glass doors; but there was one
 bookcase left open containing everything that could be needed in the
 way of elementary works, and several volumes of light literature,
-poetry, biography, travels, a few romances, &c. I suppose he had
+poetry, [[Biography|biography]], travels, a few romances, &c. I suppose he had
 considered that these were all the governess would require for her
 private perusal; and, indeed, they contented me amply for the present;
 compared with the scanty pickings I had now and then been able to glean

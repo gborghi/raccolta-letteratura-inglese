@@ -17,8 +17,8 @@ tags:
 Part the Third
 
 
-THE world had grown six years older since that night of the return.  It
-was a warm autumn afternoon, and there had been heavy rain.  The sun
+THE world had grown six years older since that [[Night|night]] of the return.  It
+was a warm [[Autumn|autumn]] afternoon, and there had been heavy rain.  The sun
 burst suddenly from among the clouds; and the old battle-ground,
 sparkling brilliantly and cheerfully at sight of it in one green place,
 flashed a responsive welcome there, which spread along the country side
@@ -29,34 +29,34 @@ How beautiful the landscape kindling in the light, and that luxuriant
 influence passing on like a celestial presence, brightening everything!
 The wood, a sombre mass before, revealed its varied tints of yellow,
 green, brown, red: its different forms of trees, with raindrops
-glittering on their leaves and twinkling as they fell.  The verdant
+glittering on their [[Leaves|leaves]] and twinkling as they fell.  The verdant
 meadow-land, bright and glowing, seemed as if it had been blind, a minute
 since, and now had found a sense of sight wherewith to look up at the
 shining sky.  Corn-fields, hedge-rows, fences, homesteads, and clustered
-roofs, the steeple of the church, the stream, the water-mill, all sprang
-out of the gloomy darkness smiling.  Birds sang sweetly, flowers raised
+roofs, the steeple of the church, the stream, the [[Water|water]]-mill, all sprang
+out of the gloomy darkness smiling.  [[Birds]] sang sweetly, [[Flowers|flowers]] raised
 their drooping heads, fresh scents arose from the invigorated ground; the
 blue expanse above extended and diffused itself; already the sun’s
 slanting rays pierced mortally the sullen bank of cloud that lingered in
 its flight; and a rainbow, spirit of all the colours that adorned the
 earth and sky, spanned the whole arch with its triumphant glory.
 
-At such a time, one little roadside Inn, snugly sheltered behind a great
+At such a [[Time|time]], one little roadside Inn, snugly sheltered behind a great
 elm-tree with a rare seat for idlers encircling its capacious bole,
-addressed a cheerful front towards the traveller, as a house of
+addressed a cheerful front towards the traveller, as a [[house]] of
 entertainment ought, and tempted him with many mute but significant
 assurances of a comfortable welcome.  The ruddy sign-board perched up in
 the tree, with its golden letters winking in the sun, ogled the
-passer-by, from among the green leaves, like a jolly face, and promised
-good cheer.  The horse-trough, full of clear fresh water, and the ground
-below it sprinkled with droppings of fragrant hay, made every horse that
+passer-by, from among the green [[Leaves|leaves]], like a jolly face, and promised
+good cheer.  The [[Horse|horse]]-trough, full of clear fresh [[Water|water]], and the ground
+below it sprinkled with droppings of fragrant hay, made every [[Horse|horse]] that
 passed, prick up his ears.  The crimson curtains in the lower rooms, and
 the pure white hangings in the little bed-chambers above, beckoned, Come
 in! with every breath of air.  Upon the bright green shutters, there were
 golden legends about beer and ale, and neat wines, and good beds; and an
 affecting picture of a brown jug frothing over at the top.  Upon the
-window-sills were flowering plants in bright red pots, which made a
-lively show against the white front of the house; and in the darkness of
+[[Window|window]]-sills were flowering plants in bright red pots, which made a
+lively show against the white front of the [[house]]; and in the darkness of
 the doorway there were streaks of light, which glanced off from the
 surfaces of bottles and tankards.
 
@@ -66,43 +66,43 @@ hands in his pockets, and his legs just wide enough apart to express a
 mind at rest upon the subject of the cellar, and an easy confidence—too
 calm and virtuous to become a swagger—in the general resources of the
 Inn.  The superabundant moisture, trickling from everything after the
-late rain, set him off well.  Nothing near him was thirsty.  Certain
-top-heavy dahlias, looking over the palings of his neat well-ordered
-garden, had swilled as much as they could carry—perhaps a trifle more—and
+late rain, set him off [[Well|well]].  Nothing near him was thirsty.  Certain
+top-heavy dahlias, looking over the palings of his neat [[Well|well]]-ordered
+[[Garden|garden]], had swilled as much as they could carry—perhaps a trifle more—and
 may have been the worse for liquor; but the sweet-briar, roses,
-wall-flowers, the plants at the windows, and the leaves on the old tree,
+wall-[[Flowers|flowers]], the plants at the windows, and the [[Leaves|leaves]] on the old tree,
 were in the beaming state of moderate company that had taken no more than
 was wholesome for them, and had served to develop their best qualities.
 Sprinkling dewy drops about them on the ground, they seemed profuse of
-innocent and sparkling mirth, that did good where it lighted, softening
+[[Innocent|innocent]] and sparkling mirth, that did good where it lighted, softening
 neglected corners which the steady rain could seldom reach, and hurting
 nothing.
 
 This village Inn had assumed, on being established, an uncommon sign.  It
 was called The Nutmeg-Grater.  And underneath that household word, was
 inscribed, up in the tree, on the same flaming board, and in the like
-golden characters, By Benjamin Britain.
+golden characters, By [[Benjamin Britain]].
 
 At a second glance, and on a more minute examination of his face, you
-might have known that it was no other than Benjamin Britain himself who
-stood in the doorway—reasonably changed by time, but for the better; a
+might have known that it was no other than [[Benjamin Britain]] himself who
+stood in the doorway—reasonably changed by [[Time|time]], but for the better; a
 very comfortable host indeed.
 
-‘Mrs. B.,’ said Mr. Britain, looking down the road, ‘is rather late.
-It’s tea-time.’
+‘Mrs. B.,’ said Mr. Britain, looking down the [[Road|road]], ‘is rather late.
+It’s tea-[[Time|time]].’
 
 As there was no Mrs. Britain coming, he strolled leisurely out into the
-road and looked up at the house, very much to his satisfaction.  ‘It’s
-just the sort of house,’ said Benjamin, ‘I should wish to stop at, if I
+[[Road|road]] and looked up at the [[house]], very much to his satisfaction.  ‘It’s
+just the sort of [[house]],’ said Benjamin, ‘I should wish to stop at, if I
 didn’t keep it.’
 
-Then, he strolled towards the garden-paling, and took a look at the
+Then, he strolled towards the [[Garden|garden]]-paling, and took a look at the
 dahlias.  They looked over at him, with a helpless drowsy hanging of
 their heads: which bobbed again, as the heavy drops of wet dripped off
 them.
 
 ‘You must be looked after,’ said Benjamin.  ‘Memorandum, not to forget to
-tell her so.  She’s a long time coming!’
+tell her so.  She’s a long [[Time|time]] coming!’
 
 Mr. Britain’s better half seemed to be by so very much his better half,
 that his own moiety of himself was utterly cast away and helpless without
@@ -112,45 +112,45 @@ her.
 matters of business after market, but not many.  Oh! here we are at
 last!’
 
-A chaise-cart, driven by a boy, came clattering along the road: and
-seated in it, in a chair, with a large well-saturated umbrella spread out
+A chaise-cart, driven by a boy, came clattering along the [[Road|road]]: and
+seated in it, in a chair, with a large [[Well|well]]-saturated umbrella spread out
 to dry behind her, was the plump figure of a matronly woman, with her
 bare arms folded across a basket which she carried on her knee, several
 other baskets and parcels lying crowded around her, and a certain bright
-good nature in her face and contented awkwardness in her manner, as she
+good [[Nature|nature]] in her face and contented awkwardness in her manner, as she
 jogged to and fro with the motion of her carriage, which smacked of old
 times, even in the distance.  Upon her nearer approach, this relish of
 by-gone days was not diminished; and when the cart stopped at the
 Nutmeg-Grater door, a pair of shoes, alighting from it, slipped nimbly
 through Mr. Britain’s open arms, and came down with a substantial weight
 upon the pathway, which shoes could hardly have belonged to any one but
-Clemency Newcome.
+[[Clemency Newcome]].
 
 In fact they did belong to her, and she stood in them, and a rosy
-comfortable-looking soul she was: with as much soap on her glossy face as
+comfortable-looking [[Soul|soul]] she was: with as much soap on her glossy face as
 in times of yore, but with whole elbows now, that had grown quite dimpled
 in her improved condition.
 
 ‘You’re late, Clemmy!’ said Mr. Britain.
 
 ‘Why, you see, Ben, I’ve had a deal to do!’ she replied, looking busily
-after the safe removal into the house of all the packages and baskets:
+after the safe removal into the [[house]] of all the packages and baskets:
 ‘eight, nine, ten—where’s eleven?  Oh! my basket’s eleven!  It’s all
-right.  Put the horse up, Harry, and if he coughs again give him a warm
-mash to-night.  Eight, nine, ten.  Why, where’s eleven?  Oh I forgot,
+right.  Put the [[Horse|horse]] up, Harry, and if he coughs again give him a warm
+mash to-[[Night|night]].  Eight, nine, ten.  Why, where’s eleven?  Oh I forgot,
 it’s all right.  How’s the children, Ben?’
 
 ‘Hearty, Clemmy, hearty.’
 
 ‘Bless their precious faces!’ said Mrs. Britain, unbonneting her own
-round countenance (for she and her husband were by this time in the bar),
+round countenance (for she and her husband were by this [[Time|time]] in the bar),
 and smoothing her hair with her open hands.  ‘Give us a kiss, old man!’
 
 Mr. Britain promptly complied.
 
 ‘I think,’ said Mrs. Britain, applying herself to her pockets and drawing
 forth an immense bulk of thin books and crumpled papers: a very kennel of
-dogs’-ears: ‘I’ve done everything.  Bills all settled—turnips
+[[dogs]]’-ears: ‘I’ve done everything.  Bills all settled—turnips
 sold—brewer’s account looked into and paid—’bacco pipes ordered—seventeen
 pound four, paid into the Bank—Doctor Heathfield’s charge for little
 Clem—you’ll guess what that is—Doctor Heathfield won’t take nothing
@@ -192,7 +192,7 @@ previously disposed of by private contract.”’
 ‘Yes, but they don’t always put this,’ he returned.  ‘Look here,
 “Mansion,” &c.—“offices,” &c., “shrubberies,” &c., “ring fence,” &c.
 “Messrs. Snitchey and Craggs,” &c., “ornamental portion of the
-unencumbered freehold property of Michael Warden, Esquire, intending to
+unencumbered freehold property of [[Michael Warden]], Esquire, intending to
 continue to reside abroad”!’
 
 ‘Intending to continue to reside abroad!’ repeated Clemency.
@@ -200,22 +200,22 @@ continue to reside abroad”!’
 ‘Here it is,’ said Britain.  ‘Look!’
 
 ‘And it was only this very day that I heard it whispered at the old
-house, that better and plainer news had been half promised of her, soon!’
+[[house]], that better and plainer news had been half promised of her, soon!’
 said Clemency, shaking her head sorrowfully, and patting her elbows as if
 the recollection of old times unconsciously awakened her old habits.
 ‘Dear, dear, dear!  There’ll be heavy hearts, Ben, yonder.’
 
 Mr. Britain heaved a sigh, and shook his head, and said he couldn’t make
 it out: he had left off trying long ago.  With that remark, he applied
-himself to putting up the bill just inside the bar window.  Clemency,
-after meditating in silence for a few moments, roused herself, cleared
+himself to putting up the bill just inside the bar [[Window|window]].  Clemency,
+after meditating in [[Silence|silence]] for a few moments, roused herself, cleared
 her thoughtful brow, and bustled off to look after the children.
 
 Though the host of the Nutmeg-Grater had a lively regard for his
 good-wife, it was of the old patronising kind, and she amused him
 mightily.  Nothing would have astonished him so much, as to have known
 for certain from any third party, that it was she who managed the whole
-house, and made him, by her plain straightforward thrift, good-humour,
+[[house]], and made him, by her plain straightforward thrift, good-[[Humour|humour]],
 honesty, and industry, a thriving man.  So easy it is, in any degree of
 life (as the world very often finds it), to take those cheerful natures
 that never assert their merit, at their own modest valuation; and to
@@ -230,29 +230,29 @@ that her being an excellent wife was an illustration of the old precept
 that virtue is its own reward.
 
 He had finished wafering up the bill, and had locked the vouchers for her
-day’s proceedings in the cupboard—chuckling all the time, over her
+day’s proceedings in the cupboard—chuckling all the [[Time|time]], over her
 capacity for business—when, returning with the news that the two Master
-Britains were playing in the coach-house under the superintendence of one
+Britains were playing in the coach-[[house]] under the superintendence of one
 Betsey, and that little Clem was sleeping ‘like a picture,’ she sat down
 to tea, which had awaited her arrival, on a little table.  It was a very
 neat little bar, with the usual display of bottles and glasses; a sedate
-clock, right to the minute (it was half-past five); everything in its
+[[Clock|clock]], right to the minute (it was half-past five); everything in its
 place, and everything furbished and polished up to the very utmost.
 
-‘It’s the first time I’ve sat down quietly to-day, I declare,’ said Mrs.
-Britain, taking a long breath, as if she had sat down for the night; but
+‘It’s the first [[Time|time]] I’ve sat down quietly to-day, I declare,’ said Mrs.
+Britain, taking a long breath, as if she had sat down for the [[Night|night]]; but
 getting up again immediately to hand her husband his tea, and cut him his
 bread-and-butter; ‘how that bill does set me thinking of old times!’
 
 ‘Ah!’ said Mr. Britain, handling his saucer like an oyster, and disposing
 of its contents on the same principle.
 
-‘That same Mr. Michael Warden,’ said Clemency, shaking her head at the
+‘That same Mr. [[Michael Warden]],’ said Clemency, shaking her head at the
 notice of sale, ‘lost me my old place.’
 
 ‘And got you your husband,’ said Mr. Britain.
 
-‘Well!  So he did,’ retorted Clemency, ‘and many thanks to him.’
+‘[[Well]]!  So he did,’ retorted Clemency, ‘and many thanks to him.’
 
 ‘Man’s the creature of habit,’ said Mr. Britain, surveying her, over his
 saucer.  ‘I had somehow got used to you, Clem; and I found I shouldn’t be
@@ -261,7 +261,7 @@ ha!  We!  Who’d have thought it!’
 
 ‘Who indeed!’ cried Clemency.  ‘It was very good of you, Ben.’
 
-‘No, no, no,’ replied Mr. Britain, with an air of self-denial.  ‘Nothing
+‘No, no, no,’ replied Mr. Britain, with an air of [[Self|self]]-denial.  ‘Nothing
 worth mentioning.’
 
 ‘Oh yes it was, Ben,’ said his wife, with great simplicity; ‘I’m sure I
@@ -274,18 +274,18 @@ could I?’
 
 ‘And Dr. Jeddler,’ pursued Clemency, putting down her tea-cup, and
 looking thoughtfully at the bill, ‘in his grief and passion turned me out
-of house and home!  I never have been so glad of anything in all my life,
+of [[house]] and [[Home|home]]!  I never have been so glad of anything in all my life,
 as that I didn’t say an angry word to him, and hadn’t any angry feeling
 towards him, even then; for he repented that truly, afterwards.  How
 often he has sat in this room, and told me over and over again he was
-sorry for it!—the last time, only yesterday, when you were out.  How
+sorry for it!—the last [[Time|time]], only yesterday, when you were out.  How
 often he has sat in this room, and talked to me, hour after hour, about
 one thing and another, in which he made believe to be interested!—but
 only for the sake of the days that are gone by, and because he knows she
 used to like me, Ben!’
 
 ‘Why, how did you ever come to catch a glimpse of that, Clem?’ asked her
-husband: astonished that she should have a distinct perception of a truth
+husband: astonished that she should have a distinct perception of a [[Truth|truth]]
 which had only dimly suggested itself to his inquiring mind.
 
 ‘I don’t know, I’m sure,’ said Clemency, blowing her tea, to cool it.
@@ -298,7 +298,7 @@ attired in mourning, and cloaked and booted like a rider on horseback,
 who stood at the bar-door.  He seemed attentive to their conversation,
 and not at all impatient to interrupt it.
 
-Clemency hastily rose at this sight.  Mr. Britain also rose and saluted
+Clemency hastily [[Rose|rose]] at this sight.  Mr. Britain also [[Rose|rose]] and saluted
 the guest.  ‘Will you please to walk up-stairs, sir?  There’s a very nice
 room up-stairs, sir.’
 
@@ -319,16 +319,16 @@ were asking me,’—he said, still looking at her,—‘What you would please t
 take, sir,’ answered Clemency, stealing a glance at him in return.
 
 ‘If you will let me have a draught of ale,’ he said, moving to a table by
-the window, ‘and will let me have it here, without being any interruption
+the [[Window|window]], ‘and will let me have it here, without being any interruption
 to your meal, I shall be much obliged to you.’  He sat down as he spoke,
 without any further parley, and looked out at the prospect.  He was an
-easy, well-knit figure of a man in the prime of life.  His face, much
+easy, [[Well|well]]-knit figure of a man in the prime of life.  His face, much
 browned by the sun, was shaded by a quantity of dark hair; and he wore a
 moustache.  His beer being set before him, he filled out a glass, and
-drank, good-humouredly, to the house; adding, as he put the tumbler down
+drank, good-humouredly, to the [[house]]; adding, as he put the tumbler down
 again:
 
-‘It’s a new house, is it not?’
+‘It’s a new [[house]], is it not?’
 
 ‘Not particularly new, sir,’ replied Mr. Britain.
 
@@ -357,14 +357,14 @@ down; and it was enough to make one’s heart bleed, to see him wandering
 about, railing at the world; but a great change for the better came over
 him after a year or two, and then he began to like to talk about his lost
 daughter, and to praise her, ay and the world too! and was never tired of
-saying, with the tears in his poor eyes, how beautiful and good she was.
-He had forgiven her then.  That was about the same time as Miss Grace’s
-marriage.  Britain, you remember?’
+saying, with the [[Tears|tears]] in his poor eyes, how beautiful and good she was.
+He had forgiven her then.  That was about the same [[Time|time]] as Miss Grace’s
+[[Marriage|marriage]].  Britain, you remember?’
 
-Mr. Britain remembered very well.
+Mr. Britain remembered very [[Well|well]].
 
 ‘The sister is married then,’ returned the stranger.  He paused for some
-time before he asked, ‘To whom?’
+[[Time|time]] before he asked, ‘To whom?’
 
 Clemency narrowly escaped oversetting the tea-board, in her emotion at
 this question.
@@ -377,7 +377,7 @@ raised it to his lips.
 ‘Ah!  It would be a long story, if it was properly told,’ said Clemency,
 resting her chin on the palm of her left hand, and supporting that elbow
 on her right hand, as she shook her head, and looked back through the
-intervening years, as if she were looking at a fire.  ‘It would be a long
+intervening years, as if she were looking at a [[Fire|fire]].  ‘It would be a long
 story, I am sure.’
 
 ‘But told as a short one,’ suggested the stranger.
@@ -395,7 +395,7 @@ No one better,’ added Clemency, wiping her eyes with her hand.
 ‘And so,’ said Clemency, taking him up mechanically, and without any
 change in her attitude or manner, ‘they at last were married.  They were
 married on her birth-day—it comes round again to-morrow—very quiet, very
-humble like, but very happy.  Mr. Alfred said, one night when they were
+humble like, but very happy.  Mr. Alfred said, one [[Night|night]] when they were
 walking in the orchard, “Grace, shall our wedding-day be Marion’s
 birth-day?”  And it was.’
 
@@ -406,18 +406,18 @@ sorrow but this.’
 
 She raised her head as with a sudden attention to the circumstances under
 which she was recalling these events, and looked quickly at the stranger.
-Seeing that his face was turned toward the window, and that he seemed
+Seeing that his face was turned toward the [[Window|window]], and that he seemed
 intent upon the prospect, she made some eager signs to her husband, and
 pointed to the bill, and moved her mouth as if she were repeating with
 great energy, one word or phrase to him over and over again.  As she
 uttered no sound, and as her dumb motions like most of her gestures were
 of a very extraordinary kind, this unintelligible conduct reduced Mr.
-Britain to the confines of despair.  He stared at the table, at the
+Britain to the confines of [[Despair|despair]].  He stared at the table, at the
 stranger, at the spoons, at his wife—followed her pantomime with looks of
 deep amazement and perplexity—asked in the same language, was it property
 in danger, was it he in danger, was it she—answered her signals with
 other signals expressive of the deepest distress and confusion—followed
-the motions of her lips—guessed half aloud ‘milk and water,’ ‘monthly
+the motions of her lips—guessed half aloud ‘milk and [[Water|water]],’ ‘monthly
 warning,’ ‘mice and walnuts’—and couldn’t approach her meaning.
 
 Clemency gave it up at last, as a hopeless attempt; and moving her chair
@@ -426,12 +426,12 @@ apparently cast down but glancing sharply at him now and then, waiting
 until he should ask some other question.  She had not to wait long; for
 he said, presently:
 
-‘And what is the after history of the young lady who went away?  They
+‘And what is the after [[history]] of the young lady who went away?  They
 know it, I suppose?’
 
-Clemency shook her head.  ‘I’ve heard,’ she said, ‘that Doctor Jeddler is
+Clemency shook her head.  ‘I’ve heard,’ she said, ‘that [[Doctor Jeddler]] is
 thought to know more of it than he tells.  Miss Grace has had letters
-from her sister, saying that she was well and happy, and made much
+from her sister, saying that she was [[Well|well]] and happy, and made much
 happier by her being married to Mr. Alfred: and has written letters back.
 But there’s a mystery about her life and fortunes, altogether, which
 nothing has cleared up to this hour, and which—’
@@ -445,12 +445,12 @@ drawing her breath quickly.
 
 ‘Who may that be?’ asked the stranger.
 
-‘Mr. Michael Warden!’ answered Clemency, almost in a shriek: at once
+‘Mr. [[Michael Warden]]!’ answered Clemency, almost in a shriek: at once
 conveying to her husband what she would have had him understand before,
-and letting Michael Warden know that he was recognised.
+and letting [[Michael Warden]] know that he was recognised.
 
 ‘You remember me, sir?’ said Clemency, trembling with emotion; ‘I saw
-just now you did!  You remember me, that night in the garden.  I was with
+just now you did!  You remember me, that [[Night|night]] in the [[Garden|garden]].  I was with
 her!’
 
 ‘Yes.  You were,’ he said.
@@ -459,13 +459,13 @@ her!’
 you please.  Ben, my dear Ben, run to Miss Grace—run to Mr. Alfred—run
 somewhere, Ben!  Bring somebody here, directly!’
 
-‘Stay!’ said Michael Warden, quietly interposing himself between the door
+‘Stay!’ said [[Michael Warden]], quietly interposing himself between the door
 and Britain.  ‘What would you do?’
 
 ‘Let them know that you are here, sir,’ answered Clemency, clapping her
 hands in sheer agitation.  ‘Let them know that they may hear of her, from
 your own lips; let them know that she is not quite lost to them, but that
-she will come home again yet, to bless her father and her loving
+she will come [[Home|home]] again yet, to bless her father and her loving
 sister—even her old servant, even me,’ she struck herself upon the breast
 with both hands, ‘with a sight of her sweet face.  Run, Ben, run!’  And
 still she pressed him on towards the door, and still Mr. Warden stood
@@ -474,18 +474,18 @@ before it, with his hand stretched out, not angrily, but sorrowfully.
 ‘Or perhaps,’ said Clemency, running past her husband, and catching in
 her emotion at Mr. Warden’s cloak, ‘perhaps she’s here now; perhaps she’s
 close by.  I think from your manner she is.  Let me see her, sir, if you
-please.  I waited on her when she was a little child.  I saw her grow to
-be the pride of all this place.  I knew her when she was Mr. Alfred’s
+please.  I waited on her when she was a little [[Child|child]].  I saw her grow to
+be the [[Pride|pride]] of all this place.  I knew her when she was Mr. Alfred’s
 promised wife.  I tried to warn her when you tempted her away.  I know
-what her old home was when she was like the soul of it, and how it
+what her old [[Home|home]] was when she was like the [[Soul|soul]] of it, and how it
 changed when she was gone and lost.  Let me speak to her, if you please!’
 
-He gazed at her with compassion, not unmixed with wonder: but, he made no
+He gazed at her with compassion, not unmixed with [[Wonder|wonder]]: but, he made no
 gesture of assent.
 
 ‘I don’t think she _can_ know,’ pursued Clemency, ‘how truly they forgive
-her; how they love her; what joy it would be to them, to see her once
-more.  She may be timorous of going home.  Perhaps if she sees me, it may
+her; how they [[Love|love]] her; what joy it would be to them, to see her once
+more.  She may be timorous of going [[Home|home]].  Perhaps if she sees me, it may
 give her new heart.  Only tell me truly, Mr. Warden, is she with you?’
 
 ‘She is not,’ he answered, shaking his head.
@@ -501,18 +501,18 @@ At that moment, a grey-headed old gentleman came running in: quite out of
 breath, and panting so much that his voice was scarcely to be recognised
 as the voice of Mr. Snitchey.
 
-‘Good Heaven, Mr. Warden!’ said the lawyer, taking him aside, ‘what wind
+‘Good Heaven, Mr. Warden!’ said the lawyer, taking him aside, ‘what [[Wind|wind]]
 has blown—’  He was so blown himself, that he couldn’t get on any further
 until after a pause, when he added, feebly, ‘you here?’
 
-‘An ill-wind, I am afraid,’ he answered.  ‘If you could have heard what
+‘An ill-[[Wind|wind]], I am afraid,’ he answered.  ‘If you could have heard what
 has just passed—how I have been besought and entreated to perform
 impossibilities—what confusion and affliction I carry with me!’
 
 ‘I can guess it all.  But why did you ever come here, my good sir?’
 retorted Snitchey.
 
-‘Come!  How should I know who kept the house?  When I sent my servant on
+‘Come!  How should I know who kept the [[house]]?  When I sent my servant on
 to you, I strolled in here because the place was new to me; and I had a
 natural curiosity in everything new and old, in these old scenes; and it
 was outside the town.  I wanted to communicate with you, first, before
@@ -520,47 +520,47 @@ appearing there.  I wanted to know what people would say to me.  I see by
 your manner that you can tell me.  If it were not for your confounded
 caution, I should have been possessed of everything long ago.’
 
-‘Our caution!’ returned the lawyer, ‘speaking for Self and
+‘Our caution!’ returned the lawyer, ‘speaking for [[Self]] and
 Craggs—deceased,’ here Mr. Snitchey, glancing at his hat-band, shook his
 head, ‘how can you reasonably blame us, Mr. Warden?  It was understood
 between us that the subject was never to be renewed, and that it wasn’t a
-subject on which grave and sober men like us (I made a note of your
-observations at the time) could interfere.  Our caution too!  When Mr.
-Craggs, sir, went down to his respected grave in the full belief—’
+subject on which [[Grave|grave]] and sober men like us (I made a note of your
+observations at the [[Time|time]]) could interfere.  Our caution too!  When Mr.
+Craggs, sir, went down to his respected [[Grave|grave]] in the full belief—’
 
-‘I had given a solemn promise of silence until I should return, whenever
+‘I had given a solemn promise of [[Silence|silence]] until I should return, whenever
 that might be,’ interrupted Mr. Warden; ‘and I have kept it.’
 
-‘Well, sir, and I repeat it,’ returned Mr. Snitchey, ‘we were bound to
-silence too.  We were bound to silence in our duty towards ourselves, and
+‘[[Well]], sir, and I repeat it,’ returned Mr. Snitchey, ‘we were bound to
+[[Silence|silence]] too.  We were bound to [[Silence|silence]] in our duty towards ourselves, and
 in our duty towards a variety of clients, you among them, who were as
 close as wax.  It was not our place to make inquiries of you on such a
 delicate subject.  I had my suspicions, sir; but, it is not six months
-since I have known the truth, and been assured that you lost her.’
+since I have known the [[Truth|truth]], and been assured that you lost her.’
 
 ‘By whom?’ inquired his client.
 
-‘By Doctor Jeddler himself, sir, who at last reposed that confidence in
-me voluntarily.  He, and only he, has known the whole truth, years and
+‘By [[Doctor Jeddler]] himself, sir, who at last reposed that confidence in
+me voluntarily.  He, and only he, has known the whole [[Truth|truth]], years and
 years.’
 
 ‘And you know it?’ said his client.
 
 ‘I do, sir!’ replied Snitchey; ‘and I have also reason to know that it
 will be broken to her sister to-morrow evening.  They have given her that
-promise.  In the meantime, perhaps you’ll give me the honour of your
-company at my house; being unexpected at your own.  But, not to run the
+promise.  In the meantime, perhaps you’ll give me the [[Honour|honour]] of your
+company at my [[house]]; being unexpected at your own.  But, not to run the
 chance of any more such difficulties as you have had here, in case you
 should be recognised—though you’re a good deal changed; I think I might
 have passed you myself, Mr. Warden—we had better dine here, and walk on
 in the evening.  It’s a very good place to dine at, Mr. Warden: your own
-property, by-the-bye.  Self and Craggs (deceased) took a chop here
+property, by-the-bye.  [[Self]] and Craggs (deceased) took a chop here
 sometimes, and had it very comfortably served.  Mr. Craggs, sir,’ said
 Snitchey, shutting his eyes tight for an instant, and opening them again,
 ‘was struck off the roll of life too soon.’
 
-‘Heaven forgive me for not condoling with you,’ returned Michael Warden,
-passing his hand across his forehead, ‘but I’m like a man in a dream at
+‘Heaven forgive me for not condoling with you,’ returned [[Michael Warden]],
+passing his hand across his forehead, ‘but I’m like a man in [[A Dream|a dream]] at
 present.  I seem to want my wits.  Mr. Craggs—yes—I am very sorry we have
 lost Mr. Craggs.’  But he looked at Clemency as he said it, and seemed to
 sympathise with Ben, consoling her.
@@ -572,11 +572,11 @@ right leg, my right ear, my right eye, was Mr. Craggs.  I am paralytic
 without him.  He bequeathed his share of the business to Mrs. Craggs, her
 executors, administrators, and assigns.  His name remains in the Firm to
 this hour.  I try, in a childish sort of a way, to make believe,
-sometimes, he’s alive.  You may observe that I speak for Self and
+sometimes, he’s alive.  You may observe that I speak for [[Self]] and
 Craggs—deceased, sir—deceased,’ said the tender-hearted attorney, waving
 his pocket-handkerchief.
 
-Michael Warden, who had still been observant of Clemency, turned to Mr.
+[[Michael Warden]], who had still been observant of Clemency, turned to Mr.
 Snitchey when he ceased to speak, and whispered in his ear.
 
 ‘Ah, poor thing!’ said Snitchey, shaking his head.  ‘Yes.  She was always
@@ -586,7 +586,7 @@ Clemency.’
 
 Clemency only sighed, and shook her head.
 
-‘Well, well!  Wait till to-morrow,’ said the lawyer, kindly.
+‘[[Well]], [[Well|well]]!  Wait till to-morrow,’ said the lawyer, kindly.
 
 ‘To-morrow can’t bring back’ the dead to life, Mister,’ said Clemency,
 sobbing.
@@ -598,7 +598,7 @@ may bring some comfort.  Wait till to-morrow!’
 So Clemency, shaking his proffered hand, said she would; and Britain, who
 had been terribly cast down at sight of his despondent wife (which was
 like the business hanging its head), said that was right; and Mr.
-Snitchey and Michael Warden went up-stairs; and there they were soon
+Snitchey and [[Michael Warden]] went up-stairs; and there they were soon
 engaged in a conversation so cautiously conducted, that no murmur of it
 was audible above the clatter of plates and dishes, the hissing of the
 frying-pan, the bubbling of saucepans, the low monotonous waltzing of the
@@ -608,19 +608,19 @@ preparations in the kitchen for their dinner.
 
                                 * * * * *
 
-To-morrow was a bright and peaceful day; and nowhere were the autumn
+To-morrow was a bright and peaceful day; and nowhere were the [[Autumn|autumn]]
 tints more beautifully seen, than from the quiet orchard of the Doctor’s
-house.  The snows of many winter nights had melted from that ground, the
-withered leaves of many summer times had rustled there, since she had
+[[house]].  The snows of many [[Winter|winter]] nights had melted from that ground, the
+withered [[Leaves|leaves]] of many [[Summer|summer]] times had rustled there, since she had
 fled.  The honey-suckle porch was green again, the trees cast bountiful
 and changing shadows on the grass, the landscape was as tranquil and
 serene as it had ever been; but where was she!
 
 Not there.  Not there.  She would have been a stranger sight in her old
-home now, even than that home had been at first, without her.  But, a
+[[Home|home]] now, even than that [[Home|home]] had been at first, without her.  But, a
 lady sat in the familiar place, from whose heart she had never passed
-away; in whose true memory she lived, unchanging, youthful, radiant with
-all promise and all hope; in whose affection—and it was a mother’s now,
+away; in whose true [[Memory|memory]] she lived, unchanging, youthful, radiant with
+all promise and all [[Hope|hope]]; in whose affection—and it was a mother’s now,
 there was a cherished little daughter playing by her side—she had no
 rival, no successor; upon whose gentle lips her name was trembling then.
 
@@ -634,13 +634,13 @@ one of the Doctor’s old predictions.  But, in his useful, patient,
 unknown visiting of poor men’s homes; and in his watching of sick beds;
 and in his daily knowledge of the gentleness and goodness flowering the
 by-paths of this world, not to be trodden down beneath the heavy foot of
-poverty, but springing up, elastic, in its track, and making its way
+[[Poverty|poverty]], but springing up, elastic, in its track, and making its way
 beautiful; he had better learned and proved, in each succeeding year, the
-truth of his old faith.  The manner of his life, though quiet and remote,
+[[Truth|truth]] of his old [[Faith|faith]].  The manner of his life, though quiet and remote,
 had shown him how often men still entertained angels, unawares, as in the
-olden time; and how the most unlikely forms—even some that were mean and
+olden [[Time|time]]; and how the most unlikely forms—even some that were mean and
 ugly to the view, and poorly clad—became irradiated by the couch of
-sorrow, want, and pain, and changed to ministering spirits with a glory
+sorrow, want, and [[Pain|pain]], and changed to ministering spirits with a glory
 round their heads.
 
 He lived to better purpose on the altered battle-ground, perhaps, than if
@@ -649,27 +649,27 @@ with his wife, dear Grace.
 
 And Marion.  Had _he_ forgotten her?
 
-‘The time has flown, dear Grace,’ he said, ‘since then;’ they had been
-talking of that night; ‘and yet it seems a long long while ago.  We count
+‘The [[Time|time]] has flown, dear Grace,’ he said, ‘since then;’ they had been
+talking of that [[Night|night]]; ‘and yet it seems a long long while ago.  We count
 by changes and events within us.  Not by years.’
 
 ‘Yet we have years to count by, too, since Marion was with us,’ returned
-Grace.  ‘Six times, dear husband, counting to-night as one, we have sat
+Grace.  ‘Six times, dear husband, counting to-[[Night|night]] as one, we have sat
 here on her birth-day, and spoken together of that happy return, so
 eagerly expected and so long deferred.  Ah when will it be!  When will it
 be!’
 
-Her husband attentively observed her, as the tears collected in her eyes;
+Her husband attentively observed her, as the [[Tears|tears]] collected in her eyes;
 and drawing nearer, said:
 
 ‘But, Marion told you, in that farewell letter which she left for you
-upon your table, love, and which you read so often, that years must pass
+upon your table, [[Love|love]], and which you read so often, that years must pass
 away before it _could_ be.  Did she not?’
 
 She took a letter from her breast, and kissed it, and said ‘Yes.’
 
 ‘That through these intervening years, however happy she might be, she
-would look forward to the time when you would meet again, and all would
+would look forward to the [[Time|time]] when you would meet again, and all would
 be made clear; and that she prayed you, trustfully and hopefully to do
 the same.  The letter runs so, does it not, my dear?’
 
@@ -678,18 +678,18 @@ the same.  The letter runs so, does it not, my dear?’
 ‘And every other letter she has written since?’
 
 ‘Except the last—some months ago—in which she spoke of you, and what you
-then knew, and what I was to learn to-night.’
+then knew, and what I was to learn to-[[Night|night]].’
 
 He looked towards the sun, then fast declining, and said that the
-appointed time was sunset.
+appointed [[Time|time]] was sunset.
 
 ‘Alfred!’ said Grace, laying her hand upon his shoulder earnestly, ‘there
 is something in this letter—this old letter, which you say I read so
-often—that I have never told you.  But, to-night, dear husband, with that
+often—that I have never told you.  But, to-[[Night|night]], dear husband, with that
 sunset drawing near, and all our life seeming to soften and become hushed
 with the departing day, I cannot keep it secret.’
 
-‘What is it, love?’
+‘What is it, [[Love|love]]?’
 
 ‘When Marion went away, she wrote me, here, that you had once left her a
 sacred trust to me, and that now she left you, Alfred, such a trust in my
@@ -700,28 +700,28 @@ it.’
 
 ‘—And make me a proud, and happy man again, Grace.  Did she say so?’
 
-‘She meant, to make myself so blest and honoured in your love,’ was his
+‘She meant, to make myself so blest and honoured in your [[Love|love]],’ was his
 wife’s answer, as he held her in his arms.
 
 ‘Hear me, my dear!’ he said.—‘No.  Hear me so!’—and as he spoke, he
 gently laid the head she had raised, again upon his shoulder.  ‘I know
 why I have never heard this passage in the letter, until now.  I know why
 no trace of it ever showed itself in any word or look of yours at that
-time.  I know why Grace, although so true a friend to me, was hard to win
+[[Time|time]].  I know why Grace, although so true a friend to me, was hard to win
 to be my wife.  And knowing it, my own! I know the priceless value of the
 heart I gird within my arms, and thank GOD for the rich possession!’
 
 She wept, but not for sorrow, as he pressed her to his heart.  After a
-brief space, he looked down at the child, who was sitting at their feet
-playing with a little basket of flowers, and bade her look how golden and
+brief space, he looked down at the [[Child|child]], who was sitting at their feet
+playing with a little basket of [[Flowers|flowers]], and bade her look how golden and
 how red the sun was.
 
 ‘Alfred,’ said Grace, raising her head quickly at these words.  ‘The sun
 is going down.  You have not forgotten what I am to know before it sets.’
 
-‘You are to know the truth of Marion’s history, my love,’ he answered.
+‘You are to know the [[Truth|truth]] of Marion’s [[history]], my [[Love|love]],’ he answered.
 
-‘All the truth,’ she said, imploringly.  ‘Nothing veiled from me, any
+‘All the [[Truth|truth]],’ she said, imploringly.  ‘Nothing veiled from me, any
 more.  That was the promise.  Was it not?’
 
 ‘It was,’ he answered.
@@ -732,14 +732,14 @@ It is sinking fast.’
 He put his arm about her waist, and, looking steadily into her eyes,
 rejoined:
 
-‘That truth is not reserved so long for me to tell, dear Grace.  It is to
+‘That [[Truth|truth]] is not reserved so long for me to tell, dear Grace.  It is to
 come from other lips.’
 
 ‘From other lips!’ she faintly echoed.
 
 ‘Yes.  I know your constant heart, I know how brave you are, I know that
 to you a word of preparation is enough.  You have said, truly, that the
-time is come.  It is.  Tell me that you have present fortitude to bear a
+[[Time|time]] is come.  It is.  Tell me that you have present fortitude to bear a
 trial—a surprise—a shock: and the messenger is waiting at the gate.’
 
 ‘What messenger?’ she said.  ‘And what intelligence does he bring?’
@@ -753,60 +753,60 @@ There was that emotion in his face, despite its steady gaze, which
 frightened her.  Again she hid her own face on his shoulder, trembling,
 and entreated him to pause—a moment.
 
-‘Courage, my wife!  When you have firmness to receive the messenger, the
+‘[[Courage]], my wife!  When you have firmness to receive the messenger, the
 messenger is waiting at the gate.  The sun is setting on Marion’s
-birth-day.  Courage, courage, Grace!’
+birth-day.  [[Courage]], [[Courage|courage]], Grace!’
 
 She raised her head, and, looking at him, told him she was ready.  As she
 stood, and looked upon him going away, her face was so like Marion’s as
-it had been in her later days at home, that it was wonderful to see.  He
-took the child with him.  She called her back—she bore the lost girl’s
+it had been in her later days at [[Home|home]], that it was wonderful to see.  He
+took the [[Child|child]] with him.  She called her back—she bore the lost girl’s
 name—and pressed her to her bosom.  The little creature, being released
-again, sped after him, and Grace was left alone.
+again, sped after him, and Grace was left [[Alone|alone]].
 
 She knew not what she dreaded, or what hoped; but remained there,
 motionless, looking at the porch by which they had disappeared.
 
-Ah! what was that, emerging from its shadow; standing on its threshold!
+Ah! what was that, emerging from its [[Shadow|shadow]]; standing on its threshold!
 That figure, with its white garments rustling in the evening air; its
 head laid down upon her father’s breast, and pressed against it to his
 loving heart!  O God! was it a vision that came bursting from the old
 man’s arms, and with a cry, and with a waving of its hands, and with a
-wild precipitation of itself upon her in its boundless love, sank down in
+wild precipitation of itself upon her in its boundless [[Love|love]], sank down in
 her embrace!
 
-‘Oh, Marion, Marion!  Oh, my sister!  Oh, my heart’s dear love!  Oh, joy
+‘Oh, Marion, Marion!  Oh, my sister!  Oh, my heart’s dear [[Love|love]]!  Oh, joy
 and happiness unutterable, so to meet again!’
 
-It was no dream, no phantom conjured up by hope and fear, but Marion,
+It was no dream, no [[Phantom|phantom]] conjured up by [[Hope|hope]] and [[Fear|fear]], but Marion,
 sweet Marion!  So beautiful, so happy, so unalloyed by care and trial, so
 elevated and exalted in her loveliness, that as the setting sun shone
 brightly on her upturned face, she might have been a spirit visiting the
 earth upon some healing mission.
 
 Clinging to her sister, who had dropped upon a seat and bent down over
-her—and smiling through her tears—and kneeling, close before her, with
+her—and smiling through her [[Tears|tears]]—and kneeling, close before her, with
 both arms twining round her, and never turning for an instant from her
 face—and with the glory of the setting sun upon her brow, and with the
 soft tranquillity of evening gathering around them—Marion at length broke
-silence; her voice, so calm, low, clear, and pleasant, well-tuned to the
-time.
+[[Silence|silence]]; her voice, so calm, low, clear, and pleasant, [[Well|well]]-tuned to the
+[[Time|time]].
 
-‘When this was my dear home, Grace, as it will be now again—’
+‘When this was my dear [[Home|home]], Grace, as it will be now again—’
 
-‘Stay, my sweet love!  A moment!  O Marion, to hear you speak again.’
+‘Stay, my sweet [[Love|love]]!  A moment!  O Marion, to hear you speak again.’
 
-She could not bear the voice she loved so well, at first.
+She could not bear the voice she loved so [[Well|well]], at first.
 
-‘When this was my dear home, Grace, as it will be now again, I loved him
-from my soul.  I loved him most devotedly.  I would have died for him,
+‘When this was my dear [[Home|home]], Grace, as it will be now again, I loved him
+from my [[Soul|soul]].  I loved him most devotedly.  I would have died for him,
 though I was so young.  I never slighted his affection in my secret
 breast for one brief instant.  It was far beyond all price to me.
 Although it is so long ago, and past, and gone, and everything is wholly
-changed, I could not bear to think that you, who love so well, should
-think I did not truly love him once.  I never loved him better, Grace,
+changed, I could not bear to think that you, who [[Love|love]] so [[Well|well]], should
+think I did not truly [[Love|love]] him once.  I never loved him better, Grace,
 than when he left this very scene upon this very day.  I never loved him
-better, dear one, than I did that night when I left here.’
+better, dear one, than I did that [[Night|night]] when I left here.’
 
 Her sister, bending over her, could look into her face, and hold her
 fast.
@@ -814,20 +814,20 @@ fast.
 ‘But he had gained, unconsciously,’ said Marion, with a gentle smile,
 ‘another heart, before I knew that I had one to give him.  That
 heart—yours, my sister!—was so yielded up, in all its other tenderness,
-to me; was so devoted, and so noble; that it plucked its love away, and
+to me; was so devoted, and so noble; that it plucked its [[Love|love]] away, and
 kept its secret from all eyes but mine—Ah! what other eyes were quickened
 by such tenderness and gratitude!—and was content to sacrifice itself to
 me.  But, I knew something of its depths.  I knew the struggle it had
 made.  I knew its high, inestimable worth to him, and his appreciation of
-it, let him love me as he would.  I knew the debt I owed it.  I had its
+it, let him [[Love|love]] me as he would.  I knew the debt I owed it.  I had its
 great example every day before me.  What you had done for me, I knew that
 I could do, Grace, if I would, for you.  I never laid my head down on my
-pillow, but I prayed with tears to do it.  I never laid my head down on
+pillow, but I prayed with [[Tears|tears]] to do it.  I never laid my head down on
 my pillow, but I thought of Alfred’s own words on the day of his
 departure, and how truly he had said (for I knew that, knowing you) that
 there were victories gained every day, in struggling hearts, to which
 these fields of battle were nothing.  Thinking more and more upon the
-great endurance cheerfully sustained, and never known or cared for, that
+great [[Endurance|endurance]] cheerfully sustained, and never known or cared for, that
 there must be, every day and hour, in that great strife of which he
 spoke, my trial seemed to grow light and easy.  And He who knows our
 hearts, my dearest, at this moment, and who knows there is no drop of
@@ -842,44 +842,44 @@ dearly, dearly!) be his wife!’
 ‘I had tried to seem indifferent to him;’ and she pressed her sister’s
 face against her own; ‘but that was hard, and you were always his true
 advocate.  I had tried to tell you of my resolution, but you would never
-hear me; you would never understand me.  The time was drawing near for
+hear me; you would never understand me.  The [[Time|time]] was drawing near for
 his return.  I felt that I must act, before the daily intercourse between
-us was renewed.  I knew that one great pang, undergone at that time,
+us was renewed.  I knew that one great pang, undergone at that [[Time|time]],
 would save a lengthened agony to all of us.  I knew that if I went away
 then, that end must follow which _has_ followed, and which has made us
 both so happy, Grace!  I wrote to good Aunt Martha, for a refuge in her
-house: I did not then tell her all, but something of my story, and she
+[[house]]: I did not then tell her all, but something of my story, and she
 freely promised it.  While I was contesting that step with myself, and
-with my love of you, and home, Mr. Warden, brought here by an accident,
-became, for some time, our companion.’
+with my [[Love|love]] of you, and [[Home|home]], Mr. Warden, brought here by an accident,
+became, for some [[Time|time]], our companion.’
 
 ‘I have sometimes feared of late years, that this might have been,’
 exclaimed her sister; and her countenance was ashy-pale.  ‘You never
-loved him—and you married him in your self-sacrifice to me!’
+loved him—and you married him in your [[Self-Sacrifice|self-sacrifice]] to me!’
 
 ‘He was then,’ said Marion, drawing her sister closer to her, ‘on the eve
-of going secretly away for a long time.  He wrote to me, after leaving
+of going secretly away for a long [[Time|time]].  He wrote to me, after leaving
 here; told me what his condition and prospects really were; and offered
 me his hand.  He told me he had seen I was not happy in the prospect of
 Alfred’s return.  I believe he thought my heart had no part in that
 contract; perhaps thought I might have loved him once, and did not then;
 perhaps thought that when I tried to seem indifferent, I tried to hide
 indifference—I cannot tell.  But I wished that you should feel me wholly
-lost to Alfred—hopeless to him—dead.  Do you understand me, love?’
+lost to Alfred—hopeless to him—dead.  Do you understand me, [[Love|love]]?’
 
-Her sister looked into her face, attentively.  She seemed in doubt.
+Her sister looked into her face, attentively.  She seemed in [[Doubt|doubt]].
 
-‘I saw Mr. Warden, and confided in his honour; charged him with my
+‘I saw Mr. Warden, and confided in his [[Honour|honour]]; charged him with my
 secret, on the eve of his and my departure.  He kept it.  Do you
 understand me, dear?’
 
 Grace looked confusedly upon her.  She scarcely seemed to hear.
 
-‘My love, my sister!’ said Marion, ‘recall your thoughts a moment; listen
+‘My [[Love|love]], my sister!’ said Marion, ‘recall your thoughts a moment; listen
 to me.  Do not look so strangely on me.  There are countries, dearest,
 where those who would abjure a misplaced passion, or would strive,
 against some cherished feeling of their hearts and conquer it, retire
-into a hopeless solitude, and close the world against themselves and
+into a hopeless [[Solitude|solitude]], and close the world against themselves and
 worldly loves and hopes for ever.  When women do so, they assume that
 name which is so dear to you and me, and call each other Sisters.  But,
 there may be sisters, Grace, who, in the broad world out of doors, and
@@ -895,21 +895,21 @@ Still she looked fixedly upon her, and made no reply.
 fondly to that breast from which she had been so long exiled, ‘if you
 were not a happy wife and mother—if I had no little namesake here—if
 Alfred, my kind brother, were not your own fond husband—from whence could
-I derive the ecstasy I feel to-night!  But, as I left here, so I have
-returned.  My heart has known no other love, my hand has never been
+I derive the ecstasy I feel to-[[Night|night]]!  But, as I left here, so I have
+returned.  My heart has known no other [[Love|love]], my hand has never been
 bestowed apart from it.  I am still your maiden sister, unmarried,
 unbetrothed: your own loving old Marion, in whose affection you exist
-alone and have no partner, Grace!’
+[[Alone|alone]] and have no partner, Grace!’
 
 She understood her now.  Her face relaxed: sobs came to her relief; and
 falling on her neck, she wept and wept, and fondled her as if she were a
-child again.
+[[Child|child]] again.
 
 When they were more composed, they found that the Doctor, and his sister
 good Aunt Martha, were standing near at hand, with Alfred.
 
 ‘This is a weary day for me,’ said good Aunt Martha, smiling through her
-tears, as she embraced her nieces; ‘for I lose my dear companion in
+[[Tears|tears]], as she embraced her nieces; ‘for I lose my dear companion in
 making you all happy; and what can you give me, in return for my Marion?’
 
 ‘A converted brother,’ said the Doctor.
@@ -919,7 +919,7 @@ as—’
 
 ‘No, pray don’t,’ said the doctor penitently.
 
-‘Well, I won’t,’ replied Aunt Martha.  ‘But, I consider myself ill used.
+‘[[Well]], I won’t,’ replied Aunt Martha.  ‘But, I consider myself ill used.
 I don’t know what’s to become of me without my Marion, after we have
 lived together half-a-dozen years.’
 
@@ -929,12 +929,12 @@ quarrel now, Martha.’
 ‘Or you must get married, Aunt,’ said Alfred.
 
 ‘Indeed,’ returned the old lady, ‘I think it might be a good speculation
-if I were to set my cap at Michael Warden, who, I hear, is come home much
+if I were to set my cap at [[Michael Warden]], who, I hear, is come [[Home|home]] much
 the better for his absence in all respects.  But as I knew him when he
 was a boy, and I was not a very young woman then, perhaps he mightn’t
 respond.  So I’ll make up my mind to go and live with Marion, when she
 marries, and until then (it will not be very long, I dare say) to live
-alone.  What do _you_ say, Brother?’
+[[Alone|alone]].  What do _you_ say, Brother?’
 
 ‘I’ve a great mind to say it’s a ridiculous world altogether, and there’s
 nothing serious in it,’ observed the poor old Doctor.
@@ -959,14 +959,14 @@ laid open to your view the transports of this family, long severed and
 now reunited.  Therefore, I will not follow the poor Doctor through his
 humbled recollection of the sorrow he had had, when Marion was lost to
 him; nor, will I tell how serious he had found that world to be, in which
-some love, deep-anchored, is the portion of all human creatures; nor, how
+some [[Love|love]], deep-anchored, is the portion of all human creatures; nor, how
 such a trifle as the absence of one little unit in the great absurd
 account, had stricken him to the ground.  Nor, how, in compassion for his
-distress, his sister had, long ago, revealed the truth to him by slow
+distress, his sister had, long ago, revealed the [[Truth|truth]] to him by slow
 degrees, and brought him to the knowledge of the heart of his
-self-banished daughter, and to that daughter’s side.
+[[Self|self]]-banished daughter, and to that daughter’s side.
 
-Nor, how Alfred Heathfield had been told the truth, too, in the course of
+Nor, how [[Alfred Heathfield]] had been told the [[Truth|truth]], too, in the course of
 that then current year; and Marion had seen him, and had promised him, as
 her brother, that on her birth-day, in the evening, Grace should know it
 from her lips at last.
@@ -989,7 +989,7 @@ from behind the door, ‘you are among old friends.’
 Mrs. Snitchey having delivered her congratulations, took her husband
 aside.
 
-‘One moment, Mr. Snitchey,’ said that lady.  ‘It is not in my nature to
+‘One moment, Mr. Snitchey,’ said that lady.  ‘It is not in my [[Nature|nature]] to
 rake up the ashes of the departed.’
 
 ‘No, my dear,’ returned her husband.
@@ -999,27 +999,27 @@ rake up the ashes of the departed.’
 ‘Yes, my dear, he is deceased,’ said Snitchey.
 
 ‘But I ask you if you recollect,’ pursued his wife, ‘that evening of the
-ball?  I only ask you that.  If you do; and if your memory has not
+ball?  I only ask you that.  If you do; and if your [[Memory|memory]] has not
 entirely failed you, Mr. Snitchey; and if you are not absolutely in your
-dotage; I ask you to connect this time with that—to remember how I begged
+dotage; I ask you to connect this [[Time|time]] with that—to remember how I begged
 and prayed you, on my knees—’
 
 ‘Upon your knees, my dear?’ said Mr. Snitchey.
 
 ‘Yes,’ said Mrs. Snitchey, confidently, ‘and you know it—to beware of
 that man—to observe his eye—and now to tell me whether I was right, and
-whether at that moment he knew secrets which he didn’t choose to tell.’
+whether at that moment he knew [[Secrets|secrets]] which he didn’t choose to tell.’
 
 ‘Mrs. Snitchey,’ returned her husband, in her ear, ‘Madam.  Did you ever
 observe anything in _my_ eye?’
 
 ‘No,’ said Mrs. Snitchey, sharply.  ‘Don’t flatter yourself.’
 
-‘Because, Madam, that night,’ he continued, twitching her by the sleeve,
-‘it happens that we both knew secrets which we didn’t choose to tell, and
+‘Because, Madam, that [[Night|night]],’ he continued, twitching her by the sleeve,
+‘it happens that we both knew [[Secrets|secrets]] which we didn’t choose to tell, and
 both knew just the same professionally.  And so the less you say about
 such things the better, Mrs. Snitchey; and take this as a warning to have
-wiser and more charitable eyes another time.  Miss Marion, I brought a
+wiser and more charitable eyes another [[Time|time]].  Miss Marion, I brought a
 friend of yours along with me.  Here!  Mistress!’
 
 Poor Clemency, with her apron to her eyes, came slowly in, escorted by
@@ -1029,9 +1029,9 @@ abandoned herself to grief, the Nutmeg-Grater was done for.
 ‘Now, Mistress,’ said the lawyer, checking Marion as she ran towards her,
 and interposing himself between them, ‘what’s the matter with _you_?’
 
-‘The matter!’ cried poor Clemency.—When, looking up in wonder, and in
+‘The matter!’ cried poor Clemency.—When, looking up in [[Wonder|wonder]], and in
 indignant remonstrance, and in the added emotion of a great roar from Mr.
-Britain, and seeing that sweet face so well remembered close before her,
+Britain, and seeing that sweet face so [[Well|well]] remembered close before her,
 she stared, sobbed, laughed, cried, screamed, embraced her, held her
 fast, released her, fell on Mr. Snitchey and embraced him (much to Mrs.
 Snitchey’s indignation), fell on the Doctor and embraced him, fell on Mr.
@@ -1042,7 +1042,7 @@ A stranger had come into the orchard, after Mr. Snitchey, and had
 remained apart, near the gate, without being observed by any of the
 group; for they had little spare attention to bestow, and that had been
 monopolised by the ecstasies of Clemency.  He did not appear to wish to
-be observed, but stood alone, with downcast eyes; and there was an air of
+be observed, but stood [[Alone|alone]], with downcast eyes; and there was an air of
 dejection about him (though he was a gentleman of a gallant appearance)
 which the general happiness rendered more remarkable.
 
@@ -1058,9 +1058,9 @@ conversation with him too.
 bringing out a legal-looking document, while this was going on, ‘I
 congratulate you.  You are now the whole and sole proprietor of that
 freehold tenement, at present occupied and held by yourself as a licensed
-tavern, or house of public entertainment, and commonly called or known by
-the sign of the Nutmeg-Grater.  Your wife lost one house, through my
-client Mr. Michael Warden; and now gains another.  I shall have the
+tavern, or [[house]] of public entertainment, and commonly called or known by
+the sign of the Nutmeg-Grater.  Your wife lost one [[house]], through my
+client Mr. [[Michael Warden]]; and now gains another.  I shall have the
 pleasure of canvassing you for the county, one of these fine mornings.’
 
 ‘Would it make any difference in the vote if the sign was altered, sir?’
@@ -1072,26 +1072,26 @@ asked Britain.
 the words, “and Thimble,” will you be so good; and I’ll have the two
 mottoes painted up in the parlour instead of my wife’s portrait.’
 
-‘And let me,’ said a voice behind them; it was the stranger’s—Michael
+‘And let me,’ said a voice behind them; it was the stranger’s—[[Michael]]
 Warden’s; ‘let me claim the benefit of those inscriptions.  Mr.
 Heathfield and Dr. Jeddler, I might have deeply wronged you both.  That I
 did not, is no virtue of my own.  I will not say that I am six years
 wiser than I was, or better.  But I have known, at any rate, that term of
-self-reproach.  I can urge no reason why you should deal gently with me.
-I abused the hospitality of this house; and learnt by my own demerits,
+[[Self|self]]-reproach.  I can urge no reason why you should deal gently with me.
+I abused the hospitality of this [[house]]; and learnt by my own demerits,
 with a shame I never have forgotten, yet with some profit too, I would
-fain hope, from one,’ he glanced at Marion, ‘to whom I made my humble
-supplication for forgiveness, when I knew her merit and my deep
+fain [[Hope|hope]], from one,’ he glanced at Marion, ‘to whom I made my humble
+supplication for [[Forgiveness|forgiveness]], when I knew her merit and my deep
 unworthiness.  In a few days I shall quit this place for ever.  I entreat
 your pardon.  Do as you would be done by!  Forget and Forgive!’
 
                                 * * * * *
 
-TIME—from whom I had the latter portion of this story, and with whom I
+[[Time|TIME]]—from whom I had the latter portion of this story, and with whom I
 have the pleasure of a personal acquaintance of some five-and-thirty
-years’ duration—informed me, leaning easily upon his scythe, that Michael
-Warden never went away again, and never sold his house, but opened it
+years’ duration—informed me, leaning easily upon his scythe, that [[Michael]]
+Warden never went away again, and never sold his [[house]], but opened it
 afresh, maintained a golden means of hospitality, and had a wife, the
-pride and honour of that countryside, whose name was Marion.  But, as I
-have observed that Time confuses facts occasionally, I hardly know what
+[[Pride|pride]] and [[Honour|honour]] of that countryside, whose name was Marion.  But, as I
+have observed that [[Time]] confuses facts occasionally, I hardly know what
 weight to give to his authority.

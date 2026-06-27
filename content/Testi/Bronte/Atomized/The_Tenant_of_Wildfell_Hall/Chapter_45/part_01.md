@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 45 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 45 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,7 +20,7 @@ tags:
 
 
 
-Well, Halford, what do you think of all this? and while you read it,
+[[Well]], Halford, what do you think of all this? and while you read it,
 
 did you ever picture to yourself what my feelings would probably be
 
@@ -28,7 +28,7 @@ during its perusal? Most likely not; but I am not going to descant upon
 
 them now: I will only make this acknowledgment, little honourable as it
 
-may be to human nature, and especially to myself,—that the former half
+may be to human [[Nature|nature]], and especially to myself,—that the former half
 
 of the narrative was, to me, more painful than the latter, not that I
 
@@ -46,27 +46,27 @@ my fury against him, was to relieve my mind of an intolerable burden,
 
 and fill my heart with joy, as if some friend had roused me from a
 
-dreadful nightmare.
+dreadful [[nightmare]].
 
 
 
-It was now near eight o’clock in the morning, for my candle had expired
+It was now near eight o’[[Clock|clock]] in the morning, for my candle had expired
 
 in the midst of my perusal, leaving me no alternative but to get
 
-another, at the expense of alarming the house, or to go to bed, and
+another, at the expense of alarming the [[house]], or to go to bed, and
 
 wait the return of daylight. On my mother’s account, I chose the
 
-latter; but how _willingly_ I sought my pillow, and how much sleep it
+latter; but how _willingly_ I sought my pillow, and how much [[Sleep|sleep]] it
 
 brought me, I leave you to imagine.
 
 
 
-At the first appearance of dawn, I rose, and brought the manuscript to
+At the first appearance of [[Dawn|dawn]], I [[Rose|rose]], and brought the manuscript to
 
-the window, but it was impossible to read it yet. I devoted half an
+the [[Window|window]], but it was impossible to read it yet. I devoted half an
 
 hour to dressing, and then returned to it again. Now, with a little
 
@@ -74,7 +74,7 @@ difficulty, I could manage; and with intense and eager interest, I
 
 devoured the remainder of its contents. When it was ended, and my
 
-transient regret at its abrupt conclusion was over, I opened the window
+transient regret at its abrupt conclusion was over, I opened the [[Window|window]]
 
 and put out my head to catch the cooling breeze, and imbibe deep
 
@@ -84,17 +84,17 @@ half-frozen dew lay thick on the grass, the swallows were twittering
 
 round me, the rooks cawing, and cows lowing in the distance; and early
 
-frost and summer sunshine mingled their sweetness in the air. But I did
+[[Frost|frost]] and [[Summer|summer]] sunshine mingled their sweetness in the air. But I did
 
 not think of that: a confusion of countless thoughts and varied
 
 emotions crowded upon me while I gazed abstractedly on the lovely face
 
-of nature. Soon, however, this chaos of thoughts and passions cleared
+of [[Nature|nature]]. Soon, however, this chaos of thoughts and passions cleared
 
 away, giving place to two distinct emotions: joy unspeakable that my
 
-adored Helen was all I wished to think her—that through the noisome
+adored [[Helen]] was all I wished to think her—that through the noisome
 
 vapours of the world’s aspersions and my own fancied convictions, her
 
@@ -112,7 +112,7 @@ greet her quite as an old friend; but every kindly impulse was checked
 
 by the look of cold distrust she cast upon me on opening the door. The
 
-old virgin had constituted herself the guardian of her lady’s honour, I
+old virgin had constituted herself the guardian of her lady’s [[Honour|honour]], I
 
 suppose, and doubtless she saw in me another Mr. Hargrave, only the
 
@@ -146,11 +146,11 @@ still more iron frigidity than before.
 
 
 
-Just in time to prevent me from committing the impropriety of taking
+Just in [[Time|time]] to prevent me from committing the impropriety of taking
 
-the citadel by storm, and pushing forward unannounced, an inner door
+the citadel by [[Storm|storm]], and pushing forward unannounced, an inner door
 
-opened, and little Arthur appeared with his frolicsome playfellow, the
+opened, and little [[arthur|Arthur]] appeared with his frolicsome playfellow, the
 
 dog. He seized my hand between both his, and smilingly drew me forward.
 
@@ -164,7 +164,7 @@ out and play with Rover.”
 
 Rachel retired with a sigh, and I stepped into the parlour and shut the
 
-door. There, before the fire-place, stood the tall, graceful figure,
+door. There, before the [[Fire|fire]]-place, stood the tall, graceful figure,
 
 wasted with many sorrows. I cast the manuscript on the table, and
 
@@ -190,7 +190,7 @@ She did not answer, but her eyes glistened, and a faint red mantled on
 
 her lip and cheek. As I approached, she abruptly turned away, and went
 
-to the window. It was not in anger, I was well assured, but only to
+to the [[Window|window]]. It was not in anger, I was [[Well|well]] assured, but only to
 
 conceal or control her emotion. I therefore ventured to follow and
 
@@ -220,9 +220,9 @@ It shows a want of confidence—”
 
 no want of confidence in you; but if I had told you anything of my
 
-history, I must have told you all, in order to excuse my conduct; and I
+[[history]], I must have told you all, in order to excuse my conduct; and I
 
-might well shrink from such a disclosure, till necessity obliged me to
+might [[Well|well]] shrink from such a disclosure, till necessity obliged me to
 
 make it. But you forgive me?—I have done very, very wrong, I know; but,
 
@@ -236,7 +236,7 @@ Bitter, indeed, was the tone of anguish, repressed by resolute
 
 firmness, in which this was spoken. Now, I raised her hand to my lips,
 
-and fervently kissed it again and again; for tears prevented any other
+and fervently kissed it again and again; for [[Tears|tears]] prevented any other
 
 reply. She suffered these wild caresses without resistance or
 

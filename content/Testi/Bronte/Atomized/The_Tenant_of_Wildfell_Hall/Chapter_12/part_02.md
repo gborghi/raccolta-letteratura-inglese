@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 12 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 12 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -28,11 +28,11 @@ This outburst brought a flush of colour to her face.
 
 “I heard some detestable falsehoods; but none but fools would credit
 
-them for a moment, Helen, so don’t let them trouble you.”
+them for a moment, [[Helen]], so don’t let them trouble you.”
 
 
 
-“I did not think Mr. Millward a fool, and he believes it all; but
+“I did not think Mr. Millward a [[Fool|fool]], and he believes it all; but
 
 however little you may value the opinions of those about you—however
 
@@ -58,23 +58,23 @@ entreat you not only to pardon me, but to enable me to make reparation;
 
 authorise me to clear your name from every imputation: give me the
 
-right to identify your honour with my own, and to defend your
+right to identify your [[Honour|honour]] with my own, and to defend your
 
 reputation as more precious than my life!”
 
 
 
-“Are you hero enough to unite yourself to one whom you know to be
+“Are you [[Hero|hero]] enough to unite yourself to one whom you know to be
 
 suspected and despised by all around you, and identify your interests
 
-and your honour with hers? Think! it is a serious thing.”
+and your [[Honour|honour]] with hers? Think! it is a serious thing.”
 
 
 
-“I should be proud to do it, Helen!—most happy—delighted beyond
+“I should be proud to do it, [[Helen]]!—most happy—delighted beyond
 
-expression!—and if that be all the obstacle to our union, it is
+expression!—and if that be all the obstacle to our [[Union|union]], it is
 
 demolished, and you must—you shall be mine!”
 
@@ -90,11 +90,11 @@ all!”
 
 
 
-“What is it, then? You promised I should know some time, and—”
+“What is it, then? You promised I should know some [[Time|time]], and—”
 
 
 
-“You shall know some time—but not now—my head aches terribly,” she
+“You shall know some [[Time|time]]—but not now—my head aches terribly,” she
 
 said, pressing her hand to her forehead, “and I must have some
 
@@ -118,7 +118,7 @@ you,” she added in a low murmur, as if she mused aloud.
 
 
 
-“_You_, Helen? Impossible?”
+“_You_, [[Helen]]? Impossible?”
 
 
 
@@ -136,7 +136,7 @@ me was as cold and fraternal as you professed it to be.”
 
 “Or as mine—ought to have been—of such a light and selfish, superficial
 
-nature, that—”
+[[Nature|nature]], that—”
 
 
 
@@ -162,7 +162,7 @@ affection you seem to feel—”
 
 
 
-“_Seem_, Helen?”
+“_Seem_, [[Helen]]?”
 
 
 
@@ -174,7 +174,7 @@ affection you seem to feel—”
 
 with greater severity than you did! And if you think you have wronged
 
-me by giving me your friendship, and occasionally admitting me to the
+me by giving me your [[Friendship|friendship]], and occasionally admitting me to the
 
 enjoyment of your company and conversation, when all hopes of closer
 
@@ -182,11 +182,11 @@ intimacy were vain—as indeed you always gave me to understand—if you
 
 think you have wronged me by this, you are mistaken; for such favours,
 
-in themselves alone, are not only delightful to my heart, but
+in themselves [[Alone|alone]], are not only delightful to my heart, but
 
-purifying, exalting, ennobling to my soul; and I would rather have your
+purifying, exalting, ennobling to my [[Soul|soul]]; and I would rather have your
 
-friendship than the love of any other woman in the world!”
+[[Friendship|friendship]] than the [[Love|love]] of any other woman in the world!”
 
 
 
@@ -206,9 +206,9 @@ worthy of regard.”
 
 
 
-“I can safely answer no to that: you cannot have such grave confessions
+“I can safely answer no to that: you cannot have such [[Grave|grave]] confessions
 
-to make—you must be trying my faith, Helen.”
+to make—you must be trying my [[Faith|faith]], [[Helen]].”
 
 
 
@@ -222,7 +222,7 @@ tell you now; so let me entreat you to leave me!”
 
 
 
-“I will; but answer me this one question first;—do you love me?”
+“I will; but answer me this one question first;—do you [[Love|love]] me?”
 
 
 
@@ -230,7 +230,7 @@ tell you now; so let me entreat you to leave me!”
 
 
 
-“Then I will conclude you do; and so good-night.”
+“Then I will conclude you do; and so good-[[Night|night]].”
 
 
 
@@ -250,7 +250,7 @@ But I gave one look back before I closed the door, and saw her leaning
 
 forward on the table, with her hands pressed against her eyes, sobbing
 
-convulsively; yet I withdrew in silence. I felt that to obtrude my
+convulsively; yet I withdrew in [[Silence|silence]]. I felt that to obtrude my
 
 consolations on her then would only serve to aggravate her sufferings.
 
@@ -260,7 +260,7 @@ To tell you all the questionings and conjectures—the fears, and hopes,
 
 and wild emotions that jostled and chased each other through my mind as
 
-I descended the hill, would almost fill a volume in itself. But before
+I descended the [[Hill|hill]], would almost fill a volume in itself. But before
 
 I was half-way down, a sentiment of strong sympathy for her I had left
 
@@ -270,7 +270,7 @@ draw me back: I began to think, “Why am I hurrying so fast in this
 
 direction? Can I find comfort or consolation—peace, certainty,
 
-contentment, all—or anything that I want at home? and can I leave all
+contentment, all—or anything that I want at [[Home|home]]? and can I leave all
 
 perturbation, sorrow, and anxiety behind me there?”
 

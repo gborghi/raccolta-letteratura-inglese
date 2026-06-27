@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 54"
+title: "[[Pride and Prejudice]] — Chapter 54"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -24,7 +24,7 @@ or, in other words, to dwell without interruption on those subjects
 which must deaden them more. Mr. Darcy’s behaviour astonished and vexed
 her.
 
-“Why, if he came only to be silent, grave, and indifferent,” said she,
+“Why, if he came only to be silent, [[Grave|grave]], and indifferent,” said she,
 “did he come at all?”
 
 She could settle it in no way that gave her pleasure.
@@ -34,7 +34,7 @@ was in town; and why not to me? If he fears me, why come hither? If he
 no longer cares for me, why silent? Teasing, teasing man! I will think
 no more about him.”
 
-Her resolution was for a short time involuntarily kept by the approach
+Her resolution was for a short [[Time|time]] involuntarily kept by the approach
 of her sister, who joined her with a cheerful look which showed her
 better satisfied with their visitors than Elizabeth.
 
@@ -49,17 +49,17 @@ take care.”
 
 “My dear Lizzy, you cannot think me so weak as to be in danger now.”
 
-“I think you are in very great danger of making him as much in love with
+“I think you are in very great danger of making him as much in [[Love|love]] with
 you as ever.”
 
 They did not see the gentlemen again till Tuesday; and Mrs. Bennet, in
 the meanwhile, was giving way to all the happy schemes which the
-good-humour and common politeness of Bingley, in half an hour’s visit,
+good-[[Humour|humour]] and common politeness of Bingley, in half an hour’s visit,
 had revived.
 
 On Tuesday there was a large party assembled at Longbourn; and the two
 who were most anxiously expected, to the credit of their punctuality as
-sportsmen, were in very good time. When they repaired to the
+sportsmen, were in very good [[Time|time]]. When they repaired to the
 dining-room, Elizabeth eagerly watched to see whether Bingley would take
 the place which, in all their former parties, had belonged to him, by
 her sister. Her prudent mother, occupied by the same ideas, forbore to
@@ -79,7 +79,7 @@ Elizabeth, that, if left wholly to himself, Jane’s happiness, and his
 own, would be speedily secured. Though she dared not depend upon the
 consequence, she yet received pleasure from observing his behaviour. It
 gave her all the animation that her spirits could boast; for she was in
-no cheerful humour. Mr. Darcy was almost as far from her as the table
+no cheerful [[Humour|humour]]. Mr. Darcy was almost as far from her as the table
 could divide them. He was on one side of her mother. She knew how little
 such a situation would give pleasure to either, or make either appear to
 advantage. She was not near enough to hear any of their discourse; but
@@ -118,7 +118,7 @@ to help anybody to coffee, and then was enraged against herself for
 being so silly!
 
 “A man who has once been refused! How could I ever be foolish enough to
-expect a renewal of his love? Is there one among the sex who would not
+expect a renewal of his [[Love|love]]? Is there one among the sex who would not
 protest against such a weakness as a second proposal to the same woman?
 There is no indignity so abhorrent to their feelings.”
 
@@ -129,38 +129,38 @@ himself; and she seized the opportunity of saying,--
 
 “Yes; she will remain there till Christmas.”
 
-“And quite alone? Have all her friends left her?”
+“And quite [[Alone|alone]]? Have all her friends left her?”
 
 “Mrs. Annesley is with her. The others have been gone on to Scarborough
 these three weeks.”
 
 She could think of nothing more to say; but if he wished to converse
-with her, he might have better success. He stood by her, however, for
-some minutes, in silence; and, at last, on the young lady’s whispering
+with her, he might have better [[success]]. He stood by her, however, for
+some minutes, in [[Silence|silence]]; and, at last, on the young lady’s whispering
 to Elizabeth again, he walked away.
 
 When the tea things were removed, and the card tables placed, the ladies
-all rose; and Elizabeth was then hoping to be soon joined by him, when
+all [[Rose|rose]]; and Elizabeth was then hoping to be soon joined by him, when
 all her views were overthrown, by seeing him fall a victim to her
 mother’s rapacity for whist players, and in a few moments after seated
 with the rest of the party. She now lost every expectation of pleasure.
 They were confined for the evening at different tables; and she had
-nothing to hope, but that his eyes were so often turned towards her side
+nothing to [[Hope|hope]], but that his eyes were so often turned towards her side
 of the room, as to make him play as unsuccessfully as herself.
 
 Mrs. Bennet had designed to keep the two Netherfield gentlemen to
 supper; but their carriage was, unluckily, ordered before any of the
 others, and she had no opportunity of detaining them.
 
-“Well, girls,” said she, as soon as they were left to themselves, “what
-say you to the day? I think everything has passed off uncommonly well, I
-assure you. The dinner was as well dressed as any I ever saw. The
+“[[Well]], girls,” said she, as soon as they were left to themselves, “what
+say you to the day? I think everything has passed off uncommonly [[Well|well]], I
+assure you. The dinner was as [[Well|well]] dressed as any I ever saw. The
 venison was roasted to a turn--and everybody said, they never saw so fat
 a haunch. The soup was fifty times better than what we had at the
 Lucases’ last week; and even Mr. Darcy acknowledged that the partridges
-were remarkably well done; and I suppose he has two or three French
+were remarkably [[Well|well]] done; and I suppose he has two or three French
 cooks at least. And, my dear Jane, I never saw you look in greater
-beauty. Mrs. Long said so too, for I asked her whether you did not. And
+[[Beauty|beauty]]. Mrs. Long said so too, for I asked her whether you did not. And
 what do you think she said besides? ‘Ah! Mrs. Bennet, we shall have her
 at Netherfield at last!’ She did, indeed. I do think Mrs. Long is as
 good a creature as ever lived--and her nieces are very pretty behaved
@@ -174,11 +174,11 @@ girls, and not at all handsome: I like them prodigiously.”
 Mrs. Bennet, in short, was in very great spirits: she had seen enough of
 Bingley’s behaviour to Jane to be convinced that she would get him at
 last; and her expectations of advantage to her family, when in a happy
-humour, were so far beyond reason, that she was quite disappointed at
+[[Humour|humour]], were so far beyond reason, that she was quite disappointed at
 not seeing him there again the next day, to make his proposals.
 
 “It has been a very agreeable day,” said Miss Bennet to Elizabeth. “The
-party seemed so well selected, so suitable one with the other. I hope we
+party seemed so [[Well|well]] selected, so suitable one with the other. I [[Hope|hope]] we
 may often meet again.”
 
 Elizabeth smiled.
@@ -188,7 +188,7 @@ assure you that I have now learnt to enjoy his conversation as an
 agreeable and sensible young man without having a wish beyond it. I am
 perfectly satisfied, from what his manners now are, that he never had
 any design of engaging my affection. It is only that he is blessed with
-greater sweetness of address, and a stronger desire of generally
+greater sweetness of address, and a stronger [[Desire|desire]] of generally
 pleasing, than any other man.”
 
 “You are very cruel,” said her sister, “you will not let me smile, and
@@ -198,7 +198,7 @@ are provoking me to it every moment.”
 others! But why should you wish to persuade me that I feel more than I
 acknowledge?”
 
-“That is a question which I hardly know how to answer. We all love to
+“That is a question which I hardly know how to answer. We all [[Love|love]] to
 instruct, though we can teach only what is not worth knowing. Forgive
 me; and if you persist in indifference, do not make _me_ your
 confidante.”

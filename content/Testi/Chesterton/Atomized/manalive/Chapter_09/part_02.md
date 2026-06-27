@@ -1,5 +1,5 @@
 ---
-title: "manalive — Chapter 3 (part 2)"
+title: "[[manalive]] — Chapter 3 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manalive-(Chesterton)"
@@ -24,13 +24,13 @@ rather north of Dunquerque.  I am willing to write all I know
 of the stranger out of the sea.
 
 "I have no sympathy with eccentrics or poets.  A man of sense
-looks for beauty in things deliberately intended to be beautiful,
+looks for [[Beauty|beauty]] in things deliberately intended to be beautiful,
 such as a trim flower-bed or an ivory statuette.  One does not permit
-beauty to pervade one's whole life, just as one does not pave
+[[Beauty|beauty]] to pervade one's whole life, just as one does not pave
 all the roads with ivory or cover all the fields with geraniums.
-My faith, but we should miss the onions!
+My [[Faith|faith]], but we should miss the onions!
 
-"But whether I read things backwards through my memory, or whether there
+"But whether I read things backwards through my [[Memory|memory]], or whether there
 are indeed atmospheres of psychology which the eye of science cannot
 as yet pierce, it is the humiliating fact that on that particular evening
 I felt like a poet--like any little rascal of a poet who drinks absinthe
@@ -39,23 +39,23 @@ in the mad Montmartre.
 "Positively the sea itself looked like absinthe, green and bitter
 and poisonous.  I had never known it look so unfamiliar before.
 In the sky was that early and stormy darkness that is so depressing to
-the mind, and the wind blew shrilly round the little lonely coloured kiosk
+the mind, and the [[Wind|wind]] blew shrilly round the little lonely coloured kiosk
 where they sell the newspapers, and along the sand-hills by the shore.
 There I saw a fishing-boat with a brown sail standing in silently from
 the sea.  It was already quite close, and out of it clambered a man
-of monstrous stature, who came wading to shore with the water not up
+of monstrous stature, who came wading to shore with the [[Water|water]] not up
 to his knees, though it would have reached the hips of many men.
 He leaned on a long rake or pole, which looked like a trident, and made him
 look like a Triton.  Wet as he was, and with strips of seaweed clinging
 to him, he walked across to my cafe, and, sitting down at a table outside,
 asked for cherry brandy, a liqueur which I keep, but is seldom demanded.
-Then the monster, with great politeness, invited me to partake
+Then the [[Monster|monster]], with great politeness, invited me to partake
 of a vermouth before my dinner, and we fell into conversation.
-He had apparently crossed from Kent by a small boat got at a private
+He had apparently crossed from [[Kent]] by a small boat got at a private
 bargain because of some odd fancy he had for passing promptly in an
 easterly direction, and not waiting for any of the official boats.
-He was, he somewhat vaguely explained, looking for a house.  When I
-naturally asked him where the house was, he answered that he did not know;
+He was, he somewhat vaguely explained, looking for a [[house]].  When I
+naturally asked him where the [[house]] was, he answered that he did not know;
 it was on an island; it was somewhere to the east; or, as he expressed
 it with a hazy and yet impatient gesture, `over there.'
 
@@ -98,7 +98,7 @@ At the end of the world, at the back of the dawn, I shall find
 the wife I really married and the house that is really mine.
 And that house will have a greener lamp-post and a redder pillar-box.
 Do you,' he asked with a sudden intensity, `do you never want to rush
-out of your house in order to find it?'
+out of your [[house]] in order to find it?'
 
 "`No, I think not,' I replied; `reason tells a man from
 the first to adapt his desires to the probable supply of life.
@@ -106,14 +106,14 @@ I remain here, content to fulfil the life of man.
 All my interests are here, and most of my friends, and--'
 
 "`And yet,' he cried, starting to his almost terrific height,
-`you made the French Revolution!'
+`you made the [[French Revolution]]!'
 
 "`Pardon me,' I said, `I am not quite so elderly.
 A relative perhaps.'
 
 "`I mean your sort did!' exclaimed this personage.
 `Yes, your damned smug, settled, sensible sort made
-the French Revolution.  Oh!  I know some say it was no good,
+the [[French Revolution]].  Oh!  I know some say it was no good,
 and you're just back where you were before.  Why, blast it all,
 that's just where we all want to be--back where we were before!
 That is revolution--going right round!  Every revolution,
@@ -123,11 +123,11 @@ like a repentance, is a return.'
 and then said something indifferent and soothing; but he struck
 the tiny table with his colossal fist and went on.
 
-"`I am going to have a revolution, not a French Revolution, but an
+"`I am going to have a revolution, not a [[French Revolution]], but an
 English Revolution.  God has given to each tribe its own type of mutiny.
-The Frenchmen march against the citadel of the city together; the Englishman
-marches to the outskirts of the city, and alone.  But I am going to turn
-the world upside down, too.  I'm going to turn myself upside down.
+The Frenchmen march against the citadel of the [[City|city]] together; the Englishman
+marches to the outskirts of the [[City|city]], and [[Alone|alone]].  But I am going to turn
+the [[World Upside Down|world upside down]], too.  I'm going to turn myself upside down.
 I'm going to walk upside down in the cursed upsidedownland of the Antipodes,
 where trees and men hang head downward in the sky.  But my revolution,
 like yours, like the earth's, will end up in the holy, happy place--
@@ -138,7 +138,7 @@ he leapt from the seat and strode away into the twilight,
 swinging his pole and leaving behind him an excessive payment,
 which also pointed to some loss of mental balance.
 This is all I know of the episode of the man landed from the
-fishing-boat, and I hope it may serve the interests of justice.--
+fishing-boat, and I [[Hope|hope]] it may serve the interests of justice.--
 Accept, Sir, the assurances of the very high consideration,
-with which I have the honour to be your obedient servant,
+with which I have the [[Honour|honour]] to be your obedient servant,
 					    "Jules Durobin."

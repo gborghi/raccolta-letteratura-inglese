@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 3)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 2 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -18,7 +18,7 @@ sitting position or lying at full length. Among other things, there
 
 were some books, pen, ink, and paper, three blankets, a large jug full
 
-of water, a keg of sea-biscuit, three or four immense Bologna sausages,
+of [[Water|water]], a keg of sea-biscuit, three or four immense Bologna sausages,
 
 an enormous ham, a cold leg of roast mutton, and half a dozen bottles
 
@@ -70,15 +70,15 @@ easily find opportunities of coming down to me. At length I heard the
 
 trap open and shut, and presently he called in a low voice, asking if
 
-all was well, and if there was anything I wanted. "Nothing," I replied;
+all was [[Well|well]], and if there was anything I wanted. "Nothing," I replied;
 
 "I am as comfortable as can be; when will the brig sail?" "She will be
 
 under weigh in less than half an hour," he answered. "I came to let you
 
-know, and for fear you should be uneasy at my absence. I shall not have
+know, and for [[Fear|fear]] you should be uneasy at my absence. I shall not have
 
-a chance of coming down again for some time--perhaps for three or four
+a chance of coming down again for some [[Time|time]]--perhaps for three or four
 
 days more. All is going on right aboveboard. After I go up and close
 
@@ -86,7 +86,7 @@ the trap, do you creep along by the whipcord to where the nail is
 
 driven in. You will find my watch there--it may be useful to you, as
 
-you have no daylight to keep time by. I suppose you can't tell how long
+you have no daylight to keep [[Time|time]] by. I suppose you can't tell how long
 
 you have been buried--only three days--this is the twentieth. I would
 
@@ -116,13 +116,13 @@ that, after toiling a long distance, I was brought back within a foot
 
 or two of a former position. At length I reached the nail, and,
 
-securing the object of my journey, returned with it in safety. I now
+securing the object of my [[Journey|journey]], returned with it in safety. I now
 
 looked over the books which had been so thoughtfully provided, and
 
 selected the expedition of Lewis and Clarke to the mouth of the
 
-Columbia. With this I amused myself for some time, when, growing
+Columbia. With this I amused myself for some [[Time|time]], when, growing
 
 sleepy, I extinguished the light with great care, and soon fell into a
 
@@ -130,7 +130,7 @@ sound slumber.
 
 
 
-Upon awaking I felt strangely confused in mind, and some time elapsed
+Upon awaking I felt strangely confused in mind, and some [[Time|time]] elapsed
 
 before I could bring to recollection all the various circumstances of
 
@@ -146,7 +146,7 @@ between the crates. Presently, feeling an almost ravenous appetite, I
 
 bethought myself of the cold mutton, some of which I had eaten just
 
-before going to sleep, and found excellent. What was my astonishment at
+before going to [[Sleep|sleep]], and found excellent. What was my astonishment at
 
 discovering it to be in a state of absolute putrefaction! This
 
@@ -154,7 +154,7 @@ circumstance occasioned me great disquietude; for, connecting it with
 
 the disorder of mind I experienced upon awaking, I began to suppose
 
-that I must have slept for an inordinately long period of time. The
+that I must have slept for an inordinately long period of [[Time|time]]. The
 
 close atmosphere of the hold might have had something to do with this,
 
@@ -168,7 +168,7 @@ feelings. Still I could not venture to make any disturbance by opening
 
 the trap or otherwise, and, having wound up the watch, contented myself
 
-as well as possible.
+as [[Well|well]] as possible.
 
 
 
@@ -176,21 +176,21 @@ Throughout the whole of the next tedious twenty-four hours no person
 
 came to my relief, and I could not help accusing Augustus of the
 
-grossest inattention. What alarmed me chiefly was, that the water in my
+grossest inattention. What alarmed me chiefly was, that the [[Water|water]] in my
 
-jug was reduced to about half a pint, and I was suffering much from
+jug was reduced to about half a pint, and I was [[Suffering|suffering]] much from
 
 thirst, having eaten freely of the Bologna sausages after the loss of
 
 my mutton. I became very uneasy, and could no longer take any interest
 
-in my books. I was overpowered, too, with a desire to sleep, yet
+in my books. I was overpowered, too, with a [[Desire|desire]] to [[Sleep|sleep]], yet
 
 trembled at the thought of indulging it, lest there might exist some
 
 pernicious influence, like that of burning charcoal, in the confined
 
-air of the hold. In the mean time the roll of the brig told me that we
+air of the hold. In the mean [[Time|time]] the roll of the brig told me that we
 
 were far in the main ocean, and a dull humming sound, which reached my
 

@@ -15,7 +15,7 @@ tags:
 
 
 He did not wake out of this boisterous reverie of
-the white road and the wind till a motor horn had first
+the white [[Road|road]] and the [[Wind|wind]] till a motor horn had first
 hooted and then howled, till the ground had shaken
 with the shock of a stoppage, and till a human hand
 fell heavily and tightly on his shoulder.  He looked
@@ -24,9 +24,9 @@ He did not worry about the face.  And there
 fell on him the Fifth, or Unexpected Mood, which is
 called by the vulgar Astonishment.
 
-In despair he looked at the motor car itself that had
+In [[Despair|despair]] he looked at the motor car itself that had
 anchored so abruptly under the opposite hedge.  The
-man at the steering wheel was so erect and unresponsive
+man at the steering [[Wheel|wheel]] was so erect and unresponsive
 that Dorian felt sure he was feasting his eyes on
 yet another policeman.  But on the seat behind was a
 very different figure, a figure that baffled him all the
@@ -39,7 +39,7 @@ of which stuck straight up and was exalted, like the
 little horn in his favourite scriptures.  Another tuft of
 it, in a bright but blinding manner, fell across and
 obscured the left optic, as in literal fulfilment of the
-parable of a beam in the eye.  The eyes, with or without
+[[Parable|parable]] of a beam in the eye.  The eyes, with or without
 beams in them, looked a little bewildered, and the
 individual was always nervously resettling his
 necktie.  For the individual went by the name of Hibbs,
@@ -49,25 +49,25 @@ wholly new to him.
 "What on earth do you want?" asked Wimpole of
 the policeman.
 
-His innocent and startled face, and perhaps other
+His [[Innocent|innocent]] and startled face, and perhaps other
 things about his appearance, evidently caused the
 Inspector to waver.
 
-"Well, it's about this 'ere donkey, sir," he said.
+"[[Well]], it's about this 'ere [[donkey]], sir," he said.
 
 "Do you think I stole it?" cried the indignant
-aristocrat.  "Well, of all the mad worlds!  A pack of
-thieves steal my Limousine, I save their damned donkey's
+[[aristocrat]].  "[[Well]], of all the mad worlds!  A pack of
+thieves steal my Limousine, I save their damned [[donkey]]'s
 life at the risk of my own--and _I'm_ run in for
 stealing."
 
-The clothes of the indignant aristocrat probably
+The clothes of the indignant [[aristocrat]] probably
 spoke louder than his tongue; the officer dropped his
 hand, and after consulting some papers in his hand,
 walked across to consult with the unkempt gentleman
 in the car.
 
-"That seems to be a similar cart and donkey," Dorian
+"That seems to be a similar cart and [[donkey]]," Dorian
 heard him saying, "but the clothes don't seem to
 fit your description of the men you saw."
 
@@ -75,10 +75,10 @@ Now, Mr. Hibbs had extremely vague and wild
 recollections of the men he saw; he could not even
 tell what he had done and what he had merely dreamed.
 If he had spoken sincerely, he would have described
-a sort of green nightmare of forests, in which he
+a sort of green [[nightmare]] of forests, in which he
 found himself in the power of an ogre about twelve
 feet high, with scarlet flames for hair and dressed
-rather like Robin Hood.  But a long course of what is
+rather like [[Robin Hood]].  But a long course of what is
 known as "keeping the party together" had made it as
 unnatural to him to tell anyone (even himself) what
 he really thought about anything, as it would have
@@ -97,22 +97,22 @@ uniform."
 intellectually, "when we say _uniform_, of course--we must distinguish some of our friends who don't
 quite see eye to eye with us, you know," and he smiled
 with tender leniency, "some of our friends wouldn't
-like it called a _uniform_ perhaps.  But--of course--well, it wasn't a police uniform, for instance.  Ha!
+like it called a _uniform_ perhaps.  But--of course--[[Well|well]], it wasn't a police uniform, for instance.  Ha!
 Ha!"
 
-"I should hope not," said the official, shortly.
+"I should [[Hope|hope]] not," said the official, shortly.
 
 "So--in a way--however," said Hibbs, clutching
 his verbal talisman at last, "it might be brown velvet
 in the dark."
 
 The Inspector replied to this helpful suggestion with
-some wonder.  "But it was a moon, like limelight," he
+some [[Wonder|wonder]].  "But it was a [[Moon|moon]], like limelight," he
 protested.
 
 "Yars, yars," cried Hibbs, in a high tone that can
 only be described as a hasty drawl.  "Yars--discolours
-everything of course.  The flowers and things--"
+everything of course.  The [[Flowers|flowers]] and things--"
 
 "But look here," said the Inspector, "you said the
 principal man's hair was red."
@@ -124,12 +124,12 @@ shook his head and said with the heaviest solemnity
 the word was capable of carrying, "Teutonic, purely
 Teutonic."
 
-The Inspector began to feel some wonder that, even
+The Inspector began to feel some [[Wonder|wonder]] that, even
 in the confusion following on Lord Ivywood's fall, he
 had been put under the guidance of this particular
-guide.  The truth was that Leveson, once more masking
+guide.  The [[Truth|truth]] was that Leveson, once more masking
 his own fears under his usual parade of hurry, had
-found Hibbs at a table by an open window, with wild
+found Hibbs at a table by an open [[Window|window]], with wild
 hair and sleepy eyes, picking himself up with some
 sort of medicine.  Finding him already fairly clear-headed in a dreary way, he had not scrupled to use
 the remains of his bewilderment to despatch him with
@@ -138,12 +138,12 @@ semi-recovered drunkard, he thought, could be trusted
 to recognise anyone so unmistakable as the Captain.
 
 But, though the diplomatist's debauch was barely
-over, his strange, soft fear and cunning were awake.
+over, his strange, soft [[Fear|fear]] and cunning were awake.
 He felt fairly certain the man in the fur coat had
 something to do with the mystery, as men with fur coats
 do not commonly wander about with donkeys.  He
 was afraid of offending Lord Ivywood, and at the
-same time, afraid of exposing himself to a policeman.
+same [[Time|time]], afraid of exposing himself to a policeman.
 
 "You have large discretion," he said, gravely.
 "Very right you should have large discretion in the

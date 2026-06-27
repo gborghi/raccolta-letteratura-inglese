@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 2"
+title: "[[Oliver Twist]] — Chapter 2"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -15,26 +15,26 @@ tags:
 
 
  CHAPTER II.
-TREATS OF OLIVER TWIST’S GROWTH, EDUCATION, AND BOARD
+TREATS OF [[Oliver Twist|OLIVER TWIST]]’S GROWTH, [[Education|EDUCATION]], AND BOARD
 
 
-For the next eight or ten months, Oliver was the victim of a systematic
-course of treachery and deception. He was brought up by hand. The
-hungry and destitute situation of the infant orphan was duly reported
+For the next eight or ten months, [[Oliver]] was the victim of a systematic
+course of treachery and [[Deception|deception]]. He was brought up by hand. The
+hungry and destitute situation of the infant [[Orphan|orphan]] was duly reported
 by the workhouse authorities to the parish authorities. The parish
 authorities inquired with dignity of the workhouse authorities, whether
-there was no female then domiciled in “the house” who was in a
-situation to impart to Oliver Twist, the consolation and nourishment of
+there was no female then domiciled in “the [[house]]” who was in a
+situation to impart to [[Oliver Twist]], the consolation and nourishment of
 which he stood in need. The workhouse authorities replied with
-humility, that there was not. Upon this, the parish authorities
-magnanimously and humanely resolved, that Oliver should be “farmed,”
+[[Humility|humility]], that there was not. Upon this, the parish authorities
+magnanimously and humanely resolved, that [[Oliver]] should be “farmed,”
 or, in other words, that he should be dispatched to a branch-workhouse
 some three miles off, where twenty or thirty other juvenile offenders
 against the poor-laws, rolled about the floor all day, without the
 inconvenience of too much food or too much clothing, under the parental
 superintendence of an elderly female, who received the culprits at and
 for the consideration of sevenpence-halfpenny per small head per week.
-Sevenpence-halfpenny’s worth per week is a good round diet for a child;
+Sevenpence-halfpenny’s worth per week is a good round diet for a [[Child|child]];
 a great deal may be got for sevenpence-halfpenny, quite enough to
 overload its stomach, and make it uncomfortable. The elderly female was
 a woman of wisdom and experience; she knew what was good for children;
@@ -46,56 +46,56 @@ lowest depth a deeper still; and proving herself a very great
 experimental philosopher.
 
 Everybody knows the story of another experimental philosopher who had a
-great theory about a horse being able to live without eating, and who
-demonstrated it so well, that he had got his own horse down to a straw
+great theory about a [[Horse|horse]] being able to live without eating, and who
+demonstrated it so [[Well|well]], that he had got his own [[Horse|horse]] down to a straw
 a day, and would unquestionably have rendered him a very spirited and
 rampacious animal on nothing at all, if he had not died,
 four-and-twenty hours before he was to have had his first comfortable
-bait of air. Unfortunately for the experimental philosophy of the
-female to whose protecting care Oliver Twist was delivered over, a
+bait of air. Unfortunately for the experimental [[philosophy]] of the
+female to whose protecting care [[Oliver Twist]] was delivered over, a
 similar result usually attended the operation of _her_ system; for at
-the very moment when the child had contrived to exist upon the smallest
+the very moment when the [[Child|child]] had contrived to exist upon the smallest
 possible portion of the weakest possible food, it did perversely happen
 in eight and a half cases out of ten, either that it sickened from want
-and cold, or fell into the fire from neglect, or got half-smothered by
+and cold, or fell into the [[Fire|fire]] from neglect, or got half-smothered by
 accident; in any one of which cases, the miserable little being was
 usually summoned into another world, and there gathered to the fathers
 it had never known in this.
 
 Occasionally, when there was some more than usually interesting inquest
-upon a parish child who had been overlooked in turning up a bedstead,
-or inadvertently scalded to death when there happened to be a
+upon a parish [[Child|child]] who had been overlooked in turning up a bedstead,
+or inadvertently scalded to [[Death|death]] when there happened to be a
 washing—though the latter accident was very scarce, anything
 approaching to a washing being of rare occurrence in the farm—the jury
 would take it into their heads to ask troublesome questions, or the
 parishioners would rebelliously affix their signatures to a
 remonstrance. But these impertinences were speedily checked by the
 evidence of the surgeon, and the testimony of the beadle; the former of
-whom had always opened the body and found nothing inside (which was
+whom had always opened the [[Body|body]] and found nothing inside (which was
 very probable indeed), and the latter of whom invariably swore whatever
-the parish wanted; which was very self-devotional. Besides, the board
+the parish wanted; which was very [[Self|self]]-devotional. Besides, the board
 made periodical pilgrimages to the farm, and always sent the beadle the
 day before, to say they were going. The children were neat and clean to
 behold, when _they_ went; and what more would the people have!
 
 It cannot be expected that this system of farming would produce any
-very extraordinary or luxuriant crop. Oliver Twist’s ninth birthday
-found him a pale thin child, somewhat diminutive in stature, and
-decidedly small in circumference. But nature or inheritance had
-implanted a good sturdy spirit in Oliver’s breast. It had had plenty of
+very extraordinary or luxuriant crop. [[Oliver Twist]]’s ninth birthday
+found him a pale thin [[Child|child]], somewhat diminutive in stature, and
+decidedly small in circumference. But [[Nature|nature]] or inheritance had
+implanted a good sturdy spirit in [[Oliver]]’s breast. It had had plenty of
 room to expand, thanks to the spare diet of the establishment; and
 perhaps to this circumstance may be attributed his having any ninth
 birth-day at all. Be this as it may, however, it _was_ his ninth
 birthday; and he was keeping it in the coal-cellar with a select party
 of two other young gentleman, who, after participating with him in a
 sound thrashing, had been locked up for atrociously presuming to be
-hungry, when Mrs. Mann, the good lady of the house, was unexpectedly
+hungry, when Mrs. Mann, the good lady of the [[house]], was unexpectedly
 startled by the apparition of Mr. Bumble, the beadle, striving to undo
-the wicket of the garden-gate.
+the wicket of the [[Garden|garden]]-gate.
 
 “Goodness gracious! Is that you, Mr. Bumble, sir?” said Mrs. Mann,
-thrusting her head out of the window in well-affected ecstasies of joy.
-“(Susan, take Oliver and them two brats upstairs, and wash ’em
+thrusting her head out of the [[Window|window]] in [[Well|well]]-affected ecstasies of joy.
+“(Susan, take [[Oliver]] and them two brats upstairs, and wash ’em
 directly.)—My heart alive! Mr. Bumble, how glad I am to see you,
 sure-ly!”
 
@@ -105,7 +105,7 @@ the little wicket a tremendous shake, and then bestowed upon it a kick
 which could have emanated from no leg but a beadle’s.
 
 “Lor, only think,” said Mrs. Mann, running out,—for the three boys had
-been removed by this time,—“only think of that! That I should have
+been removed by this [[Time|time]],—“only think of that! That I should have
 forgotten that the gate was bolted on the inside, on account of them
 dear children! Walk in sir; walk in, pray, Mr. Bumble, do, sir.”
 
@@ -115,19 +115,19 @@ beadle.
 
 “Do you think this respectful or proper conduct, Mrs. Mann,” inquired
 Mr. Bumble, grasping his cane, “to keep the parish officers a waiting
-at your garden-gate, when they come here upon porochial business with
+at your [[Garden|garden]]-gate, when they come here upon porochial business with
 the porochial orphans? Are you aweer, Mrs. Mann, that you are, as I may
 say, a porochial delegate, and a stipendiary?”
 
 “I’m sure Mr. Bumble, that I was only a telling one or two of the dear
 children as is so fond of you, that it was you a coming,” replied Mrs.
-Mann with great humility.
+Mann with great [[Humility|humility]].
 
 Mr. Bumble had a great idea of his oratorical powers and his
 importance. He had displayed the one, and vindicated the other. He
 relaxed.
 
-“Well, well, Mrs. Mann,” he replied in a calmer tone; “it may be as you
+“[[Well]], [[Well|well]], Mrs. Mann,” he replied in a calmer tone; “it may be as you
 say; it may be. Lead the way in, Mrs. Mann, for I come on business, and
 have something to say.”
 
@@ -148,7 +148,7 @@ dignified, but placid manner.
 
 “I think you will,” said Mrs. Mann, who had noticed the tone of the
 refusal, and the gesture that had accompanied it. “Just a leetle drop,
-with a little cold water, and a lump of sugar.”
+with a little cold [[Water|water]], and a lump of sugar.”
 
 Mr. Bumble coughed.
 
@@ -156,26 +156,26 @@ Mr. Bumble coughed.
 
 “What is it?” inquired the beadle.
 
-“Why, it’s what I’m obliged to keep a little of in the house, to put
-into the blessed infants’ Daffy, when they ain’t well, Mr. Bumble,”
+“Why, it’s what I’m obliged to keep a little of in the [[house]], to put
+into the blessed infants’ Daffy, when they ain’t [[Well|well]], Mr. Bumble,”
 replied Mrs. Mann as she opened a corner cupboard, and took down a
 bottle and glass. “It’s gin. I’ll not deceive you, Mr. B. It’s gin.”
 
 “Do you give the children Daffy, Mrs. Mann?” inquired Bumble, following
 with his eyes the interesting process of mixing.
 
-“Ah, bless ’em, that I do, dear as it is,” replied the nurse. “I
+“Ah, bless ’em, that I do, dear as it is,” replied the [[Nurse|nurse]]. “I
 couldn’t see ’em suffer before my very eyes, you know sir.”
 
 “No”; said Mr. Bumble approvingly; “no, you could not. You are a humane
 woman, Mrs. Mann.” (Here she set down the glass.) “I shall take a early
 opportunity of mentioning it to the board, Mrs. Mann.” (He drew it
 towards him.) “You feel as a mother, Mrs. Mann.” (He stirred the
-gin-and-water.) “I—I drink your health with cheerfulness, Mrs. Mann”;
+gin-and-[[Water|water]].) “I—I drink your health with cheerfulness, Mrs. Mann”;
 and he swallowed half of it.
 
 “And now about business,” said the beadle, taking out a leathern
-pocket-book. “The child that was half-baptized Oliver Twist, is nine
+pocket-book. “The [[Child|child]] that was half-baptized [[Oliver Twist]], is nine
 year old today.”
 
 “Bless him!” interposed Mrs. Mann, inflaming her left eye with the
@@ -190,7 +190,7 @@ father, or what was his mother’s settlement, name, or condition.”
 Mrs. Mann raised her hands in astonishment; but added, after a moment’s
 reflection, “How comes he to have any name at all, then?”
 
-The beadle drew himself up with great pride, and said, “I inwented it.”
+The beadle drew himself up with great [[Pride|pride]], and said, “I inwented it.”
 
 “You, Mr. Bumble!”
 
@@ -202,70 +202,70 @@ again, when we come to Z.”
 
 “Why, you’re quite a literary character, sir!” said Mrs. Mann.
 
-“Well, well,” said the beadle, evidently gratified with the compliment;
+“[[Well]], [[Well|well]],” said the beadle, evidently gratified with the compliment;
 “perhaps I may be. Perhaps I may be, Mrs. Mann.” He finished the
-gin-and-water, and added, “Oliver being now too old to remain here, the
-board have determined to have him back into the house. I have come out
+gin-and-[[Water|water]], and added, “[[Oliver]] being now too old to remain here, the
+board have determined to have him back into the [[house]]. I have come out
 myself to take him there. So let me see him at once.”
 
 “I’ll fetch him directly,” said Mrs. Mann, leaving the room for that
-purpose. Oliver, having had by this time as much of the outer coat of
+purpose. [[Oliver]], having had by this [[Time|time]] as much of the outer coat of
 dirt which encrusted his face and hands, removed, as could be scrubbed
 off in one washing, was led into the room by his benevolent
 protectress.
 
-“Make a bow to the gentleman, Oliver,” said Mrs. Mann.
+“Make a bow to the gentleman, [[Oliver]],” said Mrs. Mann.
 
-Oliver made a bow, which was divided between the beadle on the chair,
+[[Oliver]] made a bow, which was divided between the beadle on the chair,
 and the cocked hat on the table.
 
-“Will you go along with me, Oliver?” said Mr. Bumble, in a majestic
+“Will you go along with me, [[Oliver]]?” said Mr. Bumble, in a majestic
 voice.
 
-Oliver was about to say that he would go along with anybody with great
+[[Oliver]] was about to say that he would go along with anybody with great
 readiness, when, glancing upward, he caught sight of Mrs. Mann, who had
 got behind the beadle’s chair, and was shaking her fist at him with a
 furious countenance. He took the hint at once, for the fist had been
-too often impressed upon his body not to be deeply impressed upon his
+too often impressed upon his [[Body|body]] not to be deeply impressed upon his
 recollection.
 
-“Will _she_ go with me?” inquired poor Oliver.
+“Will _she_ go with me?” inquired poor [[Oliver]].
 
 “No, she can’t,” replied Mr. Bumble. “But she’ll come and see you
 sometimes.”
 
-This was no very great consolation to the child. Young as he was,
+This was no very great consolation to the [[Child|child]]. Young as he was,
 however, he had sense enough to make a feint of feeling great regret at
-going away. It was no very difficult matter for the boy to call tears
+going away. It was no very difficult matter for the boy to call [[Tears|tears]]
 into his eyes. Hunger and recent ill-usage are great assistants if you
-want to cry; and Oliver cried very naturally indeed. Mrs. Mann gave him
-a thousand embraces, and what Oliver wanted a great deal more, a piece
+want to cry; and [[Oliver]] cried very naturally indeed. Mrs. Mann gave him
+a thousand embraces, and what [[Oliver]] wanted a great deal more, a piece
 of bread and butter, lest he should seem too hungry when he got to the
 workhouse. With the slice of bread in his hand, and the little
-brown-cloth parish cap on his head, Oliver was then led away by Mr.
-Bumble from the wretched home where one kind word or look had never
+brown-cloth parish cap on his head, [[Oliver]] was then led away by Mr.
+Bumble from the wretched [[Home|home]] where one kind word or look had never
 lighted the gloom of his infant years. And yet he burst into an agony
 of childish grief, as the cottage-gate closed after him. Wretched as
 were the little companions in misery he was leaving behind, they were
-the only friends he had ever known; and a sense of his loneliness in
-the great wide world, sank into the child’s heart for the first time.
+the only friends he had ever known; and a sense of his [[Loneliness|loneliness]] in
+the great wide world, sank into the [[Child|child]]’s heart for the first [[Time|time]].
 
-Mr. Bumble walked on with long strides; little Oliver, firmly grasping
+Mr. Bumble walked on with long strides; little [[Oliver]], firmly grasping
 his gold-laced cuff, trotted beside him, inquiring at the end of every
 quarter of a mile whether they were “nearly there.” To these
 interrogations Mr. Bumble returned very brief and snappish replies; for
-the temporary blandness which gin-and-water awakens in some bosoms had
-by this time evaporated; and he was once again a beadle.
+the temporary blandness which gin-and-[[Water|water]] awakens in some bosoms had
+by this [[Time|time]] evaporated; and he was once again a beadle.
 
-Oliver had not been within the walls of the workhouse a quarter of an
+[[Oliver]] had not been within the walls of the workhouse a quarter of an
 hour, and had scarcely completed the demolition of a second slice of
 bread, when Mr. Bumble, who had handed him over to the care of an old
-woman, returned; and, telling him it was a board night, informed him
+woman, returned; and, telling him it was a board [[Night|night]], informed him
 that the board had said he was to appear before it forthwith.
 
 Not having a very clearly defined notion of what a live board was,
-Oliver was rather astounded by this intelligence, and was not quite
-certain whether he ought to laugh or cry. He had no time to think about
+[[Oliver]] was rather astounded by this intelligence, and was not quite
+certain whether he ought to laugh or cry. He had no [[Time|time]] to think about
 the matter, however; for Mr. Bumble gave him a tap on the head, with
 his cane, to wake him up: and another on the back to make him lively:
 and bidding him to follow, conducted him into a large whitewashed
@@ -273,60 +273,60 @@ room, where eight or ten fat gentlemen were sitting round a table. At
 the top of the table, seated in an arm-chair rather higher than the
 rest, was a particularly fat gentleman with a very round, red face.
 
-“Bow to the board,” said Bumble. Oliver brushed away two or three tears
+“Bow to the board,” said Bumble. [[Oliver]] brushed away two or three [[Tears|tears]]
 that were lingering in his eyes; and seeing no board but the table,
 fortunately bowed to that.
 
 “What’s your name, boy?” said the gentleman in the high chair.
 
-Oliver was frightened at the sight of so many gentlemen, which made him
+[[Oliver]] was frightened at the sight of so many gentlemen, which made him
 tremble: and the beadle gave him another tap behind, which made him
 cry. These two causes made him answer in a very low and hesitating
-voice; whereupon a gentleman in a white waistcoat said he was a fool.
+voice; whereupon a gentleman in a white waistcoat said he was a [[Fool|fool]].
 Which was a capital way of raising his spirits, and putting him quite
 at his ease.
 
 “Boy,” said the gentleman in the high chair, “listen to me. You know
-you’re an orphan, I suppose?”
+you’re an [[Orphan|orphan]], I suppose?”
 
-“What’s that, sir?” inquired poor Oliver.
+“What’s that, sir?” inquired poor [[Oliver]].
 
-“The boy _is_ a fool—I thought he was,” said the gentleman in the white
+“The boy _is_ a [[Fool|fool]]—I thought he was,” said the gentleman in the white
 waistcoat.
 
 “Hush!” said the gentleman who had spoken first. “You know you’ve got
 no father or mother, and that you were brought up by the parish, don’t
 you?”
 
-“Yes, sir,” replied Oliver, weeping bitterly.
+“Yes, sir,” replied [[Oliver]], weeping bitterly.
 
 “What are you crying for?” inquired the gentleman in the white
 waistcoat. And to be sure it was very extraordinary. What _could_ the
 boy be crying for?
 
-“I hope you say your prayers every night,” said another gentleman in a
+“I [[Hope|hope]] you say your prayers every [[Night|night]],” said another gentleman in a
 gruff voice; “and pray for the people who feed you, and take care of
 you—like a Christian.”
 
 “Yes, sir,” stammered the boy. The gentleman who spoke last was
 unconsciously right. It would have been _very_ like a Christian, and a
-marvellously good Christian too, if Oliver had prayed for the people
+marvellously good Christian too, if [[Oliver]] had prayed for the people
 who fed and took care of _him_. But he hadn’t, because nobody had
 taught him.
 
-“Well! You have come here to be educated, and taught a useful trade,”
+“[[Well]]! You have come here to be educated, and taught a useful trade,”
 said the red-faced gentleman in the high chair.
 
-“So you’ll begin to pick oakum tomorrow morning at six o’clock,” added
+“So you’ll begin to pick oakum tomorrow morning at six o’[[Clock|clock]],” added
 the surly one in the white waistcoat.
 
 For the combination of both these blessings in the one simple process
-of picking oakum, Oliver bowed low by the direction of the beadle, and
+of picking oakum, [[Oliver]] bowed low by the direction of the beadle, and
 was then hurried away to a large ward; where, on a rough, hard bed, he
-sobbed himself to sleep. What a novel illustration of the tender laws
-of England! They let the paupers go to sleep!
+sobbed himself to [[Sleep|sleep]]. What a [[Novel|novel]] illustration of the tender laws
+of England! They let the paupers go to [[Sleep|sleep]]!
 
-Poor Oliver! He little thought, as he lay sleeping in happy
+Poor [[Oliver]]! He little thought, as he lay sleeping in happy
 unconsciousness of all around him, that the board had that very day
 arrived at a decision which would exercise the most material influence
 over all his future fortunes. But they had. And this was it:
@@ -339,16 +339,16 @@ poorer classes; a tavern where there was nothing to pay; a public
 breakfast, dinner, tea, and supper all the year round; a brick and
 mortar elysium, where it was all play and no work. “Oho!” said the
 board, looking very knowing; “we are the fellows to set this to rights;
-we’ll stop it all, in no time.” So, they established the rule, that all
+we’ll stop it all, in no [[Time|time]].” So, they established the rule, that all
 poor people should have the alternative (for they would compel nobody,
-not they), of being starved by a gradual process in the house, or by a
+not they), of being starved by a gradual process in the [[house]], or by a
 quick one out of it. With this view, they contracted with the
-water-works to lay on an unlimited supply of water; and with a
+[[Water|water]]-works to lay on an unlimited supply of [[Water|water]]; and with a
 corn-factory to supply periodically small quantities of oatmeal; and
 issued three meals of thin gruel a day, with an onion twice a week, and
 half a roll of Sundays. They made a great many other wise and humane
 regulations, having reference to the ladies, which it is not necessary
-to repeat; kindly undertook to divorce poor married people, in
+to repeat; kindly undertook to [[divorce]] poor married people, in
 consequence of the great expense of a suit in Doctors’ Commons; and,
 instead of compelling a man to support his family, as they had
 theretofore done, took his family away from him, and made him a
@@ -359,12 +359,12 @@ long-headed men, and had provided for this difficulty. The relief was
 inseparable from the workhouse and the gruel; and that frightened
 people.
 
-For the first six months after Oliver Twist was removed, the system was
+For the first six months after [[Oliver Twist]] was removed, the system was
 in full operation. It was rather expensive at first, in consequence of
 the increase in the undertaker’s bill, and the necessity of taking in
 the clothes of all the paupers, which fluttered loosely on their
 wasted, shrunken forms, after a week or two’s gruel. But the number of
-workhouse inmates got thin as well as the paupers; and the board were
+workhouse inmates got thin as [[Well|well]] as the paupers; and the board were
 in ecstasies.
 
 The room in which the boys were fed, was a large stone hall, with a
@@ -380,46 +380,46 @@ the copper, with such eager eyes, as if they could have devoured the
 very bricks of which it was composed; employing themselves, meanwhile,
 in sucking their fingers most assiduously, with the view of catching up
 any stray splashes of gruel that might have been cast thereon. Boys
-have generally excellent appetites. Oliver Twist and his companions
+have generally excellent appetites. [[Oliver Twist]] and his companions
 suffered the tortures of slow starvation for three months: at last they
 got so voracious and wild with hunger, that one boy, who was tall for
 his age, and hadn’t been used to that sort of thing (for his father had
 kept a small cook-shop), hinted darkly to his companions, that unless
 he had another basin of gruel _per diem_, he was afraid he might some
-night happen to eat the boy who slept next him, who happened to be a
+[[Night|night]] happen to eat the boy who slept next him, who happened to be a
 weakly youth of tender age. He had a wild, hungry eye; and they
 implicitly believed him. A council was held; lots were cast who should
 walk up to the master after supper that evening, and ask for more; and
-it fell to Oliver Twist.
+it fell to [[Oliver Twist]].
 
 The evening arrived; the boys took their places. The master, in his
 cook’s uniform, stationed himself at the copper; his pauper assistants
 ranged themselves behind him; the gruel was served out; and a long
 grace was said over the short commons. The gruel disappeared; the boys
-whispered each other, and winked at Oliver; while his next neighbors
-nudged him. Child as he was, he was desperate with hunger, and reckless
-with misery. He rose from the table; and advancing to the master, basin
+whispered each other, and winked at [[Oliver]]; while his next neighbors
+nudged him. [[Child]] as he was, he was desperate with hunger, and reckless
+with misery. He [[Rose|rose]] from the table; and advancing to the master, basin
 and spoon in hand, said: somewhat alarmed at his own temerity:
 
 “Please, sir, I want some more.”
 
 The master was a fat, healthy man; but he turned very pale. He gazed in
-stupefied astonishment on the small rebel for some seconds, and then
+stupefied astonishment on the small [[Rebel|rebel]] for some seconds, and then
 clung for support to the copper. The assistants were paralysed with
-wonder; the boys with fear.
+[[Wonder|wonder]]; the boys with [[Fear|fear]].
 
 “What!” said the master at length, in a faint voice.
 
-“Please, sir,” replied Oliver, “I want some more.”
+“Please, sir,” replied [[Oliver]], “I want some more.”
 
-The master aimed a blow at Oliver’s head with the ladle; pinioned him
+The master aimed a blow at [[Oliver]]’s head with the ladle; pinioned him
 in his arm; and shrieked aloud for the beadle.
 
 The board were sitting in solemn conclave, when Mr. Bumble rushed into
 the room in great excitement, and addressing the gentleman in the high
 chair, said,
 
-“Mr. Limbkins, I beg your pardon, sir! Oliver Twist has asked for
+“Mr. Limbkins, I beg your pardon, sir! [[Oliver Twist]] has asked for
 more!”
 
 There was a general start. Horror was depicted on every countenance.
@@ -434,10 +434,10 @@ eaten the supper allotted by the dietary?”
 know that boy will be hung.”
 
 Nobody controverted the prophetic gentleman’s opinion. An animated
-discussion took place. Oliver was ordered into instant confinement; and
+discussion took place. [[Oliver]] was ordered into instant confinement; and
 a bill was next morning pasted on the outside of the gate, offering a
-reward of five pounds to anybody who would take Oliver Twist off the
-hands of the parish. In other words, five pounds and Oliver Twist were
+reward of five pounds to anybody who would take [[Oliver Twist]] off the
+hands of the parish. In other words, five pounds and [[Oliver Twist]] were
 offered to any man or woman who wanted an apprentice to any trade,
 business, or calling.
 
@@ -449,5 +449,5 @@ I am that that boy will come to be hung.”
 As I purpose to show in the sequel whether the white waistcoated
 gentleman was right or not, I should perhaps mar the interest of this
 narrative (supposing it to possess any at all), if I ventured to hint
-just yet, whether the life of Oliver Twist had this violent termination
+just yet, whether the life of [[Oliver Twist]] had this violent termination
 or no.

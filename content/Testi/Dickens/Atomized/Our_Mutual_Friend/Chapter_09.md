@@ -27,31 +27,31 @@ over with Anybody else.
 
 But, the Reginald Wilfer family were of such commonplace extraction and
 pursuits that their forefathers had for generations modestly subsisted
-on the Docks, the Excise Office, and the Custom House, and the existing
+on the Docks, the Excise Office, and the Custom [[house|House]], and the existing
 R. Wilfer was a poor clerk. So poor a clerk, through having a limited
 salary and an unlimited family, that he had never yet attained the
-modest object of his ambition: which was, to wear a complete new suit
-of clothes, hat and boots included, at one time. His black hat was brown
+modest object of his [[Ambition|ambition]]: which was, to wear a complete new suit
+of clothes, hat and boots included, at one [[Time|time]]. His black hat was brown
 before he could afford a coat, his pantaloons were white at the seams
 and knees before he could buy a pair of boots, his boots had worn out
-before he could treat himself to new pantaloons, and, by the time he
+before he could treat himself to new pantaloons, and, by the [[Time|time]] he
 worked round to the hat again, that shining modern article roofed-in an
 ancient ruin of various periods.
 
 If the conventional Cherub could ever grow up and be clothed, he might
-be photographed as a portrait of Wilfer. His chubby, smooth, innocent
+be photographed as a portrait of Wilfer. His chubby, smooth, [[Innocent|innocent]]
 appearance was a reason for his being always treated with condescension
-when he was not put down. A stranger entering his own poor house at
-about ten o’clock P.M. might have been surprised to find him sitting up
+when he was not put down. A stranger entering his own poor [[house]] at
+about ten o’[[Clock|clock]] P.M. might have been surprised to find him sitting up
 to supper. So boyish was he in his curves and proportions, that his
 old schoolmaster meeting him in Cheapside, might have been unable to
-withstand the temptation of caning him on the spot. In short, he was
+withstand the [[Temptation|temptation]] of caning him on the spot. In short, he was
 the conventional cherub, after the supposititious shoot just mentioned,
 rather grey, with signs of care on his expression, and in decidedly
 insolvent circumstances.
 
 He was shy, and unwilling to own to the name of Reginald, as being too
-aspiring and self-assertive a name. In his signature he used only the
+aspiring and [[Self|self]]-assertive a name. In his signature he used only the
 initial R., and imparted what it really stood for, to none but chosen
 friends, under the seal of confidence. Out of this, the facetious habit
 had arisen in the neighbourhood surrounding Mincing Lane of making
@@ -61,7 +61,7 @@ Round, Ripe, Ridiculous, Ruminative; others, derived their point from
 their want of application: as Raging, Rattling, Roaring, Raffish. But,
 his popular name was Rumty, which in a moment of inspiration had been
 bestowed upon him by a gentleman of convivial habits connected with the
-drug-markets, as the beginning of a social chorus, his leading part in
+drug-markets, as the beginning of a social [[Chorus|chorus]], his leading part in
 the execution of which had led this gentleman to the Temple of Fame, and
 of which the whole expressive burden ran:
 
@@ -72,21 +72,21 @@ Thus he was constantly addressed, even in minor notes on business, as
 ‘Dear Rumty’; in answer to which, he sedately signed himself, ‘Yours
 truly, R. Wilfer.’
 
-He was clerk in the drug-house of Chicksey, Veneering, and Stobbles.
+He was clerk in the drug-[[house]] of Chicksey, Veneering, and Stobbles.
 Chicksey and Stobbles, his former masters, had both become absorbed in
 Veneering, once their traveller or commission agent: who had signalized
 his accession to supreme power by bringing into the business a quantity
-of plate-glass window and French-polished mahogany partition, and a
+of plate-glass [[Window|window]] and French-polished mahogany partition, and a
 gleaming and enormous doorplate.
 
 R. Wilfer locked up his desk one evening, and, putting his bunch of keys
-in his pocket much as if it were his peg-top, made for home. His home
-was in the Holloway region north of London, and then divided from it by
+in his pocket much as if it were his peg-top, made for [[Home|home]]. His [[Home|home]]
+was in the Holloway region north of [[London]], and then divided from it by
 fields and trees. Between Battle Bridge and that part of the Holloway
 district in which he dwelt, was a tract of suburban Sahara, where tiles
 and bricks were burnt, bones were boiled, carpets were beat, rubbish was
-shot, dogs were fought, and dust was heaped by contractors. Skirting
-the border of this desert, by the way he took, when the light of its
+shot, [[dogs]] were fought, and [[Dust|dust]] was heaped by contractors. Skirting
+the border of this [[Desert|desert]], by the way he took, when the light of its
 kiln-fires made lurid smears on the fog, R. Wilfer sighed and shook his
 head.
 
@@ -94,7 +94,7 @@ head.
 
 With which commentary on human life, indicating an experience of it
 not exclusively his own, he made the best of his way to the end of his
-journey.
+[[Journey|journey]].
 
 Mrs Wilfer was, of course, a tall woman and an angular. Her lord being
 cherubic, she was necessarily majestic, according to the principle which
@@ -106,9 +106,9 @@ assuming it when in low spirits or difficulties), and as a species of
 full dress. It was therefore with some sinking of the spirit that her
 husband beheld her thus heroically attired, putting down her candle in
 the little hall, and coming down the doorsteps through the little front
-court to open the gate for him.
+[[Court|court]] to open the gate for him.
 
-Something had gone wrong with the house-door, for R. Wilfer stopped on
+Something had gone wrong with the [[house]]-door, for R. Wilfer stopped on
 the steps, staring at it, and cried:
 
 ‘Hal-loa?’
@@ -137,7 +137,7 @@ front room, half kitchen, half parlour, where a girl of about nineteen,
 with an exceedingly pretty figure and face, but with an impatient and
 petulant expression both in her face and in her shoulders (which in
 her sex and at her age are very expressive of discontent), sat playing
-draughts with a younger girl, who was the youngest of the House of
+draughts with a younger girl, who was the youngest of the [[house|House]] of
 Wilfer. Not to encumber this page by telling off the Wilfers in detail
 and casting them up in the gross, it is enough for the present that the
 rest were what is called ‘out in the world,’ in various ways, and that
@@ -146,9 +146,9 @@ to see him, R. Wilfer generally seemed to say to himself, after a little
 mental arithmetic, ‘Oh! here’s another of ’em!’ before adding aloud,
 ‘How de do, John,’ or Susan, as the case might be.
 
-‘Well Piggywiggies,’ said R. W., ‘how de do to-night? What I was
+‘[[Well]] Piggywiggies,’ said R. W., ‘how de do to-[[Night|night]]? What I was
 thinking of, my dear,’ to Mrs Wilfer already seated in a corner with
-folded gloves, ‘was, that as we have let our first floor so well, and as
+folded gloves, ‘was, that as we have let our first floor so [[Well|well]], and as
 we have now no place in which you could teach pupils even if pupils—’
 
 ‘The milkman said he knew of two young ladies of the highest
@@ -173,11 +173,11 @@ whether the milkman said so.’
 
 ‘I mean, my dear, it is the same thing as to space. As to space. If you
 have no space in which to put two youthful fellow-creatures, however
-eminently respectable, which I do not doubt, where are those youthful
+eminently respectable, which I do not [[Doubt|doubt]], where are those youthful
 fellow-creatures to be accommodated? I carry it no further than that.
 And solely looking at it,’ said her husband, making the stipulation at
 once in a conciliatory, complimentary, and argumentative tone—‘as I am
-sure you will agree, my love—from a fellow-creature point of view, my
+sure you will agree, my [[Love|love]]—from a fellow-creature point of view, my
 dear.’
 
 ‘I have nothing more to say,’ returned Mrs Wilfer, with a meek
@@ -191,7 +191,7 @@ sister went down on her knees to pick up.
 
 ‘Poor Bella!’ said Mrs Wilfer.
 
-‘And poor Lavinia, perhaps, my dear?’ suggested R. W.
+‘And poor [[Lavinia]], perhaps, my dear?’ suggested R. W.
 
 ‘Pardon me,’ said Mrs Wilfer, ‘no!’
 
@@ -199,25 +199,25 @@ It was one of the worthy woman’s specialities that she had an amazing
 power of gratifying her splenetic or worldly-minded humours by extolling
 her own family: which she thus proceeded, in the present case, to do.
 
-‘No, R. W. Lavinia has not known the trial that Bella has known. The
+‘No, R. W. [[Lavinia]] has not known the trial that Bella has known. The
 trial that your daughter Bella has undergone, is, perhaps, without
 a parallel, and has been borne, I will say, Nobly. When you see your
-daughter Bella in her black dress, which she alone of all the family
+daughter Bella in her black dress, which she [[Alone|alone]] of all the family
 wears, and when you remember the circumstances which have led to
 her wearing it, and when you know how those circumstances have been
 sustained, then, R. W., lay your head upon your pillow and say, “Poor
-Lavinia!”’
+[[Lavinia]]!”’
 
-Here, Miss Lavinia, from her kneeling situation under the table, put in
+Here, Miss [[Lavinia]], from her kneeling situation under the table, put in
 that she didn’t want to be ‘poored by pa’, or anybody else.
 
 ‘I am sure you do not, my dear,’ returned her mother, ‘for you have a
 fine brave spirit. And your sister Cecilia has a fine brave spirit
 of another kind, a spirit of pure devotion, a beau-ti-ful spirit! The
-self-sacrifice of Cecilia reveals a pure and womanly character, very
+[[Self-Sacrifice|self-sacrifice]] of Cecilia reveals a pure and womanly character, very
 seldom equalled, never surpassed. I have now in my pocket a letter from
 your sister Cecilia, received this morning—received three months after
-her marriage, poor child!—in which she tells me that her husband must
+her [[Marriage|marriage]], poor [[Child|child]]!—in which she tells me that her husband must
 unexpectedly shelter under their roof his reduced aunt. “But I will be
 true to him, mamma,” she touchingly writes, “I will not leave him, I
 must not forget that he is my husband. Let his aunt come!” If this is
@@ -226,7 +226,7 @@ her gloves in a sense of the impossibility of saying more, and tied the
 pocket-handkerchief over her head in a tighter knot under her chin.
 
 Bella, who was now seated on the rug to warm herself, with her brown
-eyes on the fire and a handful of her brown curls in her mouth, laughed
+eyes on the [[Fire|fire]] and a handful of her brown curls in her mouth, laughed
 at this, and then pouted and half cried.
 
 ‘I am sure,’ said she, ‘though you have no feeling for me, pa, I am one
@@ -244,25 +244,25 @@ strangulation, and to give him a kiss and a pat or two on the cheek.
 
 ‘My dear, I do.’
 
-‘Yes, and I say you ought to. If they had only left me alone and told
+‘Yes, and I say you ought to. If they had only left me [[Alone|alone]] and told
 me nothing about it, it would have mattered much less. But that nasty Mr
 Lightwood feels it his duty, as he says, to write and tell me what is in
 reserve for me, and then I am obliged to get rid of George Sampson.’
 
-Here, Lavinia, rising to the surface with the last draughtman rescued,
+Here, [[Lavinia]], rising to the surface with the last draughtman rescued,
 interposed, ‘You never cared for George Sampson, Bella.’
 
 ‘And did I say I did, miss?’ Then, pouting again, with the curls in her
 mouth; ‘George Sampson was very fond of me, and admired me very much,
 and put up with everything I did to him.’
 
-‘You were rude enough to him,’ Lavinia again interposed.
+‘You were rude enough to him,’ [[Lavinia]] again interposed.
 
 ‘And did I say I wasn’t, miss? I am not setting up to be sentimental
 about George Sampson. I only say George Sampson was better than
 nothing.’
 
-‘You didn’t show him that you thought even that,’ Lavinia again
+‘You didn’t show him that you thought even that,’ [[Lavinia]] again
 interposed.
 
 ‘You are a chit and a little idiot,’ returned Bella, ‘or you wouldn’t
@@ -277,17 +277,17 @@ know what an embarrassing meeting it would be, and how we never
 could pretend to have an inclination of our own, either of us. It was
 ridiculous enough to know I shouldn’t like him—how COULD I like him,
 left to him in a will, like a dozen of spoons, with everything cut and
-dried beforehand, like orange chips. Talk of orange flowers indeed!
+dried beforehand, like orange chips. Talk of orange [[Flowers|flowers]] indeed!
 I declare again it’s a shame! Those ridiculous points would have been
-smoothed away by the money, for I love money, and want money—want it
+smoothed away by the money, for I [[Love|love]] money, and want money—want it
 dreadfully. I hate to be poor, and we are degradingly poor, offensively
 poor, miserably poor, beastly poor. But here I am, left with all the
 ridiculous parts of the situation remaining, and, added to them all,
-this ridiculous dress! And if the truth was known, when the Harmon
+this ridiculous dress! And if the [[Truth|truth]] was known, when the Harmon
 murder was all over the town, and people were speculating on its being
-suicide, I dare say those impudent wretches at the clubs and places made
-jokes about the miserable creature’s having preferred a watery grave to
-me. It’s likely enough they took such liberties; I shouldn’t wonder! I
+[[suicide]], I dare say those impudent wretches at the clubs and places made
+jokes about the miserable creature’s having preferred a watery [[Grave|grave]] to
+me. It’s likely enough they took such liberties; I shouldn’t [[Wonder|wonder]]! I
 declare it’s a very hard case indeed, and I am a most unfortunate girl.
 The idea of being a kind of a widow, and never having been married!
 And the idea of being as poor as ever after all, and going into black,
@@ -310,13 +310,13 @@ her to announce me.’
 
 ‘Pardon me,’ returned Mrs Wilfer. ‘Not at all. Two of my daughters. R.
 W., this is the gentleman who has taken your first-floor. He was so good
-as to make an appointment for to-night, when you would be at home.’
+as to make an appointment for to-[[Night|night]], when you would be at [[Home|home]].’
 
 A dark gentleman. Thirty at the utmost. An expressive, one might say
 handsome, face. A very bad manner. In the last degree constrained,
 reserved, diffident, troubled. His eyes were on Miss Bella for an
 instant, and then looked at the ground as he addressed the master of the
-house.
+[[house]].
 
 ‘Seeing that I am quite satisfied, Mr Wilfer, with the rooms, and with
 their situation, and with their price, I suppose a memorandum between us
@@ -326,7 +326,7 @@ to send in furniture without delay.’
 Two or three times during this short address, the cherub addressed had
 made chubby motions towards a chair. The gentleman now took it, laying
 a hesitating hand on a corner of the table, and with another hesitating
-hand lifting the crown of his hat to his lips, and drawing it before his
+hand lifting the [[Crown|crown]] of his hat to his lips, and drawing it before his
 mouth.
 
 ‘The gentleman, R. W.,’ said Mrs Wilfer, ‘proposes to take your
@@ -336,21 +336,21 @@ apartments by the quarter. A quarter’s notice on either side.’
 received as a matter of course, ‘the form of a reference?’
 
 ‘I think,’ returned the gentleman, after a pause, ‘that a reference is
-not necessary; neither, to say the truth, is it convenient, for I am
-a stranger in London. I require no reference from you, and perhaps,
+not necessary; neither, to say the [[Truth|truth]], is it convenient, for I am
+a stranger in [[London]]. I require no reference from you, and perhaps,
 therefore, you will require none from me. That will be fair on both
 sides. Indeed, I show the greater confidence of the two, for I will pay
 in advance whatever you please, and I am going to trust my furniture
 here. Whereas, if you were in embarrassed circumstances—this is merely
 supposititious—’
 
-Conscience causing R. Wilfer to colour, Mrs Wilfer, from a corner (she
+[[Conscience]] causing R. Wilfer to colour, Mrs Wilfer, from a corner (she
 always got into stately corners) came to the rescue with a deep-toned
 ‘Per-fectly.’
 
 ‘—Why then I—might lose it.’
 
-‘Well!’ observed R. Wilfer, cheerfully, ‘money and goods are certainly
+‘[[Well]]!’ observed R. Wilfer, cheerfully, ‘money and goods are certainly
 the best of references.’
 
 ‘Do you think they ARE the best, pa?’ asked Miss Bella, in a low voice,
@@ -392,7 +392,7 @@ for a woman’s; and then they looked at one another.
 sir.’
 
 As there was nothing more to do but pay eight sovereigns in earnest of
-the bargain, pocket the agreement, appoint a time for the arrival of his
+the bargain, pocket the agreement, appoint a [[Time|time]] for the arrival of his
 furniture and himself, and go, Mr Rokesmith did that as awkwardly as it
 might be done, and was escorted by his landlord to the outer air. When
 R. Wilfer returned, candlestick in hand, to the bosom of his family, he
@@ -400,7 +400,7 @@ found the bosom agitated.
 
 ‘Pa,’ said Bella, ‘we have got a Murderer for a tenant.’
 
-‘Pa,’ said Lavinia, ‘we have got a Robber.’
+‘Pa,’ said [[Lavinia]], ‘we have got a Robber.’
 
 ‘To see him unable for his life to look anybody in the face!’ said
 Bella. ‘There never was such an exhibition.’
@@ -411,7 +411,7 @@ should say particularly so in the society of girls of your age.’
 ‘Nonsense, our age!’ cried Bella, impatiently. ‘What’s that got to do
 with him?’
 
-‘Besides, we are not of the same age:—which age?’ demanded Lavinia.
+‘Besides, we are not of the same age:—which age?’ demanded [[Lavinia]].
 
 ‘Never YOU mind, Lavvy,’ retorted Bella; ‘you wait till you are of an
 age to ask such questions. Pa, mark my words! Between Mr Rokesmith and
@@ -423,8 +423,8 @@ and me, there is a matter of eight sovereigns, and something for supper
 shall come of it, if you’ll agree upon the article.’
 
 This was a neat and happy turn to give the subject, treats being rare in
-the Wilfer household, where a monotonous appearance of Dutch-cheese at
-ten o’clock in the evening had been rather frequently commented on by
+the Wilfer household, where a monotonous appearance of Dutch-[[cheese]] at
+ten o’[[Clock|clock]] in the evening had been rather frequently commented on by
 the dimpled shoulders of Miss Bella. Indeed, the modest Dutchman himself
 seemed conscious of his want of variety, and generally came before the
 family in a state of apologetic perspiration. After some discussion on
@@ -434,9 +434,9 @@ divested herself of her handkerchief and gloves, as a preliminary
 sacrifice to preparing the frying-pan, and R. W. himself went out
 to purchase the viand. He soon returned, bearing the same in a fresh
 cabbage-leaf, where it coyly embraced a rasher of ham. Melodious sounds
-were not long in rising from the frying-pan on the fire, or in seeming,
+were not long in rising from the frying-pan on the [[Fire|fire]], or in seeming,
 as the firelight danced in the mellow halls of a couple of full bottles
-on the table, to play appropriate dance-music.
+on the table, to play appropriate [[Dance|dance]]-music.
 
 The cloth was laid by Lavvy. Bella, as the acknowledged ornament of the
 family, employed both her hands in giving her hair an additional
@@ -446,7 +446,7 @@ direction touching the supper: as, ‘Very brown, ma;’ or, to her sister,
 
 Meantime her father, chinking Mr Rokesmith’s gold as he sat expectant
 between his knife and fork, remarked that six of those sovereigns came
-just in time for their landlord, and stood them in a little pile on the
+just in [[Time|time]] for their landlord, and stood them in a little pile on the
 white tablecloth to look at.
 
 ‘I hate our landlord!’ said Bella.
@@ -457,13 +457,13 @@ It was one of the girl’s spoilt ways to be always arranging the family’s
 hair—perhaps because her own was so pretty, and occupied so much of her
 attention.
 
-‘You deserve to have a house of your own; don’t you, poor pa?’
+‘You deserve to have a [[house]] of your own; don’t you, poor pa?’
 
 ‘I don’t deserve it better than another, my dear.’
 
 ‘At any rate I, for one, want it more than another,’ said Bella, holding
 him by the chin, as she stuck his flaxen hair on end, ‘and I grudge
-this money going to the Monster that swallows up so much, when we all
+this money going to the [[Monster]] that swallows up so much, when we all
 want—Everything. And if you say (as you want to say; I know you want
 to say so, pa) “that’s neither reasonable nor honest, Bella,” then I
 answer, “Maybe not, pa—very likely—but it’s one of the consequences
@@ -476,18 +476,18 @@ However, as it was brown, even to Bella’s taste, the young lady
 graciously partook of it without reconsignment to the frying-pan, and
 also, in due course, of the contents of the two bottles: whereof
 one held Scotch ale and the other rum. The latter perfume, with
-the fostering aid of boiling water and lemon-peel, diffused itself
+the fostering aid of boiling [[Water|water]] and lemon-peel, diffused itself
 throughout the room, and became so highly concentrated around the warm
-fireside, that the wind passing over the house roof must have rushed off
+fireside, that the [[Wind|wind]] passing over the [[house]] roof must have rushed off
 charged with a delicious whiff of it, after buzzing like a great bee at
 that particular chimneypot.
 
 ‘Pa,’ said Bella, sipping the fragrant mixture and warming her favourite
-ankle; ‘when old Mr Harmon made such a fool of me (not to mention
+ankle; ‘when old Mr Harmon made such a [[Fool|fool]] of me (not to mention
 himself, as he is dead), what do you suppose he did it for?’
 
-‘Impossible to say, my dear. As I have told you time out of number since
-his will was brought to light, I doubt if I ever exchanged a hundred
+‘Impossible to say, my dear. As I have told you [[Time|time]] out of number since
+his will was brought to light, I [[Doubt|doubt]] if I ever exchanged a hundred
 words with the old gentleman. If it was his whim to surprise us, his
 whim succeeded. For he certainly did it.’
 
@@ -497,7 +497,7 @@ me; was I?’ said Bella, contemplating the ankle before mentioned.
 ‘You were stamping your little foot, my dear, and screaming with your
 little voice, and laying into me with your little bonnet, which you
 had snatched off for the purpose,’ returned her father, as if the
-remembrance gave a relish to the rum; ‘you were doing this one Sunday
+remembrance gave a relish to the rum; ‘you were doing this one [[Sunday]]
 morning when I took you out, because I didn’t go the exact way you
 wanted, when the old gentleman, sitting on a seat near, said, “That’s a
 nice girl; that’s a VERY nice girl; a promising girl!” And so you were,
@@ -505,11 +505,11 @@ my dear.’
 
 ‘And then he asked my name, did he, pa?’
 
-‘Then he asked your name, my dear, and mine; and on other Sunday
+‘Then he asked your name, my dear, and mine; and on other [[Sunday]]
 mornings, when we walked his way, we saw him again, and—and really
 that’s all.’
 
-As that was all the rum and water too, or, in other words, as R. W.
+As that was all the rum and [[Water|water]] too, or, in other words, as R. W.
 delicately signified that his glass was empty, by throwing back his head
 and standing the glass upside down on his nose and upper lip, it might
 have been charitable in Mrs Wilfer to suggest replenishment. But that
@@ -517,7 +517,7 @@ heroine briefly suggesting ‘Bedtime’ instead, the bottles were put away,
 and the family retired; she cherubically escorted, like some severe
 saint in a painting, or merely human matron allegorically treated.
 
-‘And by this time to-morrow,’ said Lavinia when the two girls were alone
+‘And by this [[Time|time]] to-morrow,’ said [[Lavinia]] when the two girls were [[Alone|alone]]
 in their room, ‘we shall have Mr Rokesmith here, and shall be expecting
 to have our throats cut.’
 
@@ -530,7 +530,7 @@ and a few inches of looking-glass!’
 it are.’
 
 ‘You low little thing. Caught George Sampson with it! Don’t talk about
-catching people, miss, till your own time for catching—as you call
+catching people, miss, till your own [[Time|time]] for catching—as you call
 it—comes.’
 
 ‘Perhaps it has come,’ muttered Lavvy, with a toss of her head.

@@ -1,5 +1,5 @@
 ---
-title: "The First Part of the Contention (2 Henry VI) — Act I, Scene 1 — exchange (CARDINAL BEAUFORT) [5]"
+title: "The First Part of the Contention (2 [[Henry VI]]) — Act I, Scene 1 — exchange ([[Cardinal Beaufort|CARDINAL BEAUFORT]]) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/THE-FIRST-PART-OF-THE-CONTENTION---(2-HENRY-VI)-(Shakespeare)"
@@ -15,6 +15,6 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| CARDINAL BEAUFORT | This weighty business will not brook delay— I’ll to the Duke of Suffolk presently. Exit |
-| SOMERSET | Cousin of Buckingham, though Humphrey’s pride And greatness of his place be grief to us, Yet let us watch the haughty Cardinal; His insolence is more intolerable Than all the princes in the land beside. If Gloucester be displaced, he’ll be Protector. |
-| BUCKINGHAM | Or thou or I, Somerset, will be Protector, Despite Duke Humphrey or the Cardinal. Exeunt Buckingham and Somerset |
+| [[Cardinal Beaufort|CARDINAL BEAUFORT]] | This weighty business will not brook delay— I’ll to the [[Duke of Suffolk]] presently. Exit |
+| SOMERSET | Cousin of [[Buckingham]], though Humphrey’s [[Pride|pride]] And [[Greatness|greatness]] of his place be grief to us, Yet let us watch the haughty Cardinal; His insolence is more intolerable Than all the princes in the land beside. If [[Gloucester]] be displaced, he’ll be Protector. |
+| [[Buckingham|BUCKINGHAM]] | Or thou or I, Somerset, will be Protector, Despite Duke Humphrey or the Cardinal. Exeunt [[Buckingham]] and Somerset |

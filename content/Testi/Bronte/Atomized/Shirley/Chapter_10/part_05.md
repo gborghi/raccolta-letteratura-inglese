@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 10 (part 5)"
+title: "[[Shirley]] — Chapter 10 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -22,9 +22,9 @@ happened to be in the room when Miss Mann had made a call on his sister,
 
 and after listening to her conversation and viewing her features for a
 
-time, he had gone out into the garden where his little cousin was
+[[Time|time]], he had gone out into the [[Garden|garden]] where his little cousin was
 
-tending some of his favourite flowers, and while standing near and
+tending some of his favourite [[Flowers|flowers]], and while standing near and
 
 watching her he had amused himself with comparing fair youth, delicate
 
@@ -52,7 +52,7 @@ forehead, and those soft eyes. I suppose, too, you will keep your voice,
 
 which has another 'timbre' than that hard, deep organ of Miss Mann's.
 
-Courage, Cary! Even at fifty you will not be repulsive."
+[[Courage]], Cary! Even at fifty you will not be repulsive."
 
 
 
@@ -60,7 +60,7 @@ Courage, Cary! Even at fifty you will not be repulsive."
 
 
 
-"Nature made her in the mood in which she makes her briars and thorns;
+"[[Nature]] made her in the mood in which she makes her briars and thorns;
 
 whereas for the creation of some women she reserves the May morning
 
@@ -78,17 +78,17 @@ Ushered into Miss Mann's little parlour, Caroline found her, as she
 
 always found her, surrounded by perfect neatness, cleanliness, and
 
-comfort (after all, is it not a virtue in old maids that solitude rarely
+comfort (after all, is it not a virtue in old maids that [[Solitude|solitude]] rarely
 
-makes them negligent or disorderly?)--no dust on her polished furniture,
+makes them negligent or disorderly?)--no [[Dust|dust]] on her polished furniture,
 
-none on her carpet, fresh flowers in the vase on her table, a bright
+none on her carpet, fresh [[Flowers|flowers]] in the vase on her table, a bright
 
-fire in the grate. She herself sat primly and somewhat grimly-tidy in a
+[[Fire|fire]] in the grate. She herself sat primly and somewhat grimly-tidy in a
 
 cushioned rocking-chair, her hands busied with some knitting. This was
 
-her favourite work, as it required the least exertion. She scarcely rose
+her favourite work, as it required the least exertion. She scarcely [[Rose|rose]]
 
 as Caroline entered. To avoid excitement was one of Miss Mann's aims in
 
@@ -114,13 +114,13 @@ Moore had undergone it once, and had never forgotten the circumstance.
 
 He considered it quite equal to anything Medusa could do. He professed
 
-to doubt whether, since that infliction, his flesh had been quite what
+to [[Doubt|doubt]] whether, since that infliction, his flesh had been quite what
 
 it was before--whether there was not something stony in its texture. The
 
 gaze had had such an effect on him as to drive him promptly from the
 
-apartment and house; it had even sent him straightway up to the rectory,
+apartment and [[house]]; it had even sent him straightway up to the rectory,
 
 where he had appeared in Caroline's presence with a very queer face, and
 
@@ -152,9 +152,9 @@ duties in her day from whose severe anguish many a human Peri,
 
 gazelle-eyed, silken-tressed, and silver-tongued, would have shrunk
 
-appalled. She had passed alone through protracted scenes of suffering,
+appalled. She had passed [[Alone|alone]] through protracted scenes of [[Suffering|suffering]],
 
-exercised rigid self-denial, made large sacrifices of time, money,
+exercised rigid [[Self|self]]-denial, made large sacrifices of [[Time|time]], money,
 
 health for those who had repaid her only by ingratitude, and now her
 
@@ -188,13 +188,13 @@ temper that was wrong.
 
 
 
-Caroline made this discovery for the first time to-day, and moved
+Caroline made this discovery for the first [[Time|time]] to-day, and moved
 
 thereby to regret divers unjust judgments she had more than once passed
 
 on the crabbed old maid, she began to talk to her softly, not in
 
-sympathizing words, but with a sympathizing voice. The loneliness of her
+sympathizing words, but with a sympathizing voice. The [[Loneliness|loneliness]] of her
 
 condition struck her visitor in a new light, as did also the character
 

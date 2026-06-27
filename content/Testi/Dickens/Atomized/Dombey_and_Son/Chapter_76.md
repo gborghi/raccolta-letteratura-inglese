@@ -15,15 +15,15 @@ tags:
 
 
 CHAPTER XX.
-Mr Dombey goes upon a Journey
+Mr Dombey goes upon a [[Journey]]
 
 
-Mr Dombey, Sir,” said Major Bagstock, “Joey” B. is not in general a
+Mr Dombey, Sir,” said [[Major Bagstock]], “Joey” B. is not in general a
 man of sentiment, for Joseph is tough. But Joe has his feelings, Sir,
 and when they are awakened—Damme, Mr Dombey,” cried the Major with
 sudden ferocity, “this is weakness, and I won’t submit to it!”
 
-Major Bagstock delivered himself of these expressions on receiving Mr
+[[Major Bagstock]] delivered himself of these expressions on receiving Mr
 Dombey as his guest at the head of his own staircase in Princess’s
 Place. Mr Dombey had come to breakfast with the Major, previous to
 their setting forth on their trip; and the ill-starved Native had
@@ -41,28 +41,28 @@ eyes stood out in bolder relief, as he shook Mr Dombey by the hand,
 imparting to that peaceful action as defiant a character as if it had
 been the prelude to his immediately boxing Mr Dombey for a thousand
 pounds a side and the championship of England. With a rotatory motion
-of his head, and a wheeze very like the cough of a horse, the Major
+of his head, and a wheeze very like the cough of a [[Horse|horse]], the Major
 then conducted his visitor to the sitting-room, and there welcomed him
-(having now composed his feelings) with the freedom and frankness of a
+(having now composed his feelings) with the [[Freedom|freedom]] and frankness of a
 travelling companion.
 
 “Dombey,” said the Major, “I’m glad to see you. I’m proud to see you.
 There are not many men in Europe to whom J. Bagstock would say that—for
-Josh is blunt. Sir: it’s his nature—but Joey B. is proud to see you,
+Josh is blunt. Sir: it’s his [[Nature|nature]]—but Joey B. is proud to see you,
 Dombey.”
 
 “Major,” returned Mr Dombey, “you are very obliging.”
 
 “No, Sir,” said the Major, “Devil a bit! That’s not my character. If
-that had been Joe’s character, Joe might have been, by this time,
+that had been Joe’s character, Joe might have been, by this [[Time|time]],
 Lieutenant-General Sir Joseph Bagstock, K.C.B., and might have received
 you in very different quarters. You don’t know old Joe yet, I find. But
-this occasion, being special, is a source of pride to me. By the Lord,
-Sir,” said the Major resolutely, “it’s an honour to me!”
+this occasion, being special, is a source of [[Pride|pride]] to me. By the Lord,
+Sir,” said the Major resolutely, “it’s an [[Honour|honour]] to me!”
 
 Mr Dombey, in his estimation of himself and his money, felt that this
 was very true, and therefore did not dispute the point. But the
-instinctive recognition of such a truth by the Major, and his plain
+instinctive recognition of such a [[Truth|truth]] by the Major, and his plain
 avowal of it, were very able. It was a confirmation to Mr Dombey, if he
 had required any, of his not being mistaken in the Major. It was an
 assurance to him that his power extended beyond his own immediate
@@ -76,26 +76,26 @@ upon him. What could it do, his boy had asked him. Sometimes, thinking
 of the baby question, he could hardly forbear inquiring, himself, what
 could it do indeed: what had it done?
 
-But these were lonely thoughts, bred late at night in the sullen
-despondency and gloom of his retirement, and pride easily found its
-reassurance in many testimonies to the truth, as unimpeachable and
+But these were lonely thoughts, bred late at [[Night|night]] in the sullen
+despondency and gloom of his retirement, and [[Pride|pride]] easily found its
+reassurance in many testimonies to the [[Truth|truth]], as unimpeachable and
 precious as the Major’s. Mr Dombey, in his friendlessness, inclined to
 the Major. It cannot be said that he warmed towards him, but he thawed
 a little, The Major had had some part—and not too much—in the days by
 the seaside. He was a man of the world, and knew some great people. He
 talked much, and told stories; and Mr Dombey was disposed to regard him
 as a choice spirit who shone in society, and who had not that poisonous
-ingredient of poverty with which choice spirits in general are too much
+ingredient of [[Poverty|poverty]] with which choice spirits in general are too much
 adulterated. His station was undeniable. Altogether the Major was a
-creditable companion, well accustomed to a life of leisure, and to such
+creditable companion, [[Well|well]] accustomed to a life of leisure, and to such
 places as that they were about to visit, and having an air of
-gentlemanly ease about him that mixed well enough with his own City
+gentlemanly ease about him that mixed [[Well|well]] enough with his own [[City]]
 character, and did not compete with it at all. If Mr Dombey had any
 lingering idea that the Major, as a man accustomed, in the way of his
 calling, to make light of the ruthless hand that had lately crushed his
-hopes, might unconsciously impart some useful philosophy to him, and
+hopes, might unconsciously impart some useful [[philosophy]] to him, and
 scare away his weak regrets, he hid it from himself, and left it lying
-at the bottom of his pride, unexamined.
+at the [[Bottom|bottom]] of his [[Pride|pride]], unexamined.
 
 “Where is my scoundrel?” said the Major, looking wrathfully round the
 room.
@@ -104,7 +104,7 @@ The Native, who had no particular name, but answered to any
 vituperative epithet, presented himself instantly at the door and
 ventured to come no nearer.
 
-“You villain!” said the choleric Major, “where’s the breakfast?”
+“You [[Villain|villain]]!” said the choleric Major, “where’s the breakfast?”
 
 The dark servant disappeared in search of it, and was quickly heard
 reascending the stairs in such a tremulous state, that the plates and
@@ -133,7 +133,7 @@ short throat, and nearly suffocating him.
 
 “Miss Tox is a very good sort of person, I believe,” replied Mr Dombey.
 
-The haughty coldness of the reply seemed to afford Major Bagstock
+The haughty coldness of the reply seemed to afford [[Major Bagstock]]
 infinite delight. He swelled and swelled, exceedingly: and even laid
 down his knife and fork for a moment, to rub his hands.
 
@@ -154,12 +154,12 @@ what, Dombey.” The Major paused in his eating, and looked mysteriously
 indignant. “That’s a de-vilish ambitious woman, Sir.”
 
 Mr Dombey said “Indeed?” with frigid indifference: mingled perhaps with
-some contemptuous incredulity as to Miss Tox having the presumption to
+some contemptuous [[Incredulity|incredulity]] as to Miss Tox having the presumption to
 harbour such a superior quality.
 
-“That woman, Sir,” said the Major, “is, in her way, a Lucifer. Joey B.
+“That woman, Sir,” said the Major, “is, in her way, a [[Lucifer]]. Joey B.
 has had his day, Sir, but he keeps his eyes. He sees, does Joe. His
-Royal Highness the late Duke of York observed of Joey, at a levee, that
+Royal Highness the late [[Duke of York]] observed of Joey, at a levee, that
 he saw.”
 
 The Major accompanied this with such a look, and, between eating,
@@ -176,23 +176,23 @@ aspires sky-high, Sir. Matrimonially, Dombey.”
 
 “Why should I not, Major?” said Mr Dombey.
 
-The Major gave no answer but the horse’s cough, and went on eating
+The Major gave no answer but the [[Horse|horse]]’s cough, and went on eating
 vigorously.
 
 “She has taken an interest in your household,” said the Major, stopping
-short again, “and has been a frequent visitor at your house for some
-time now.”
+short again, “and has been a frequent visitor at your [[house]] for some
+[[Time|time]] now.”
 
 “Yes,” replied Mr Dombey with great stateliness, “Miss Tox was
-originally received there, at the time of Mrs Dombey’s death, as a
-friend of my sister’s; and being a well-behaved person, and showing a
+originally received there, at the [[Time|time]] of Mrs Dombey’s [[Death|death]], as a
+friend of my sister’s; and being a [[Well|well]]-behaved person, and showing a
 liking for the poor infant, she was permitted—may I say encouraged—to
 repeat her visits with my sister, and gradually to occupy a kind of
 footing of familiarity in the family. I have,” said Mr Dombey, in the
 tone of a man who was making a great and valuable concession, “I have a
 respect for Miss Tox. She has been so obliging as to render many little
-services in my house: trifling and insignificant services perhaps,
-Major, but not to be disparaged on that account: and I hope I have had
+services in my [[house]]: trifling and insignificant services perhaps,
+Major, but not to be disparaged on that account: and I [[Hope|hope]] I have had
 the good fortune to be enabled to acknowledge them by such attention
 and notice as it has been in my power to bestow. I hold myself indebted
 to Miss Tox, Major,” added Mr Dombey, with a slight wave of his hand,
@@ -216,19 +216,19 @@ weakness, and nothing should induce him to submit to it.
 “and all the credit that belongs to her, J. B. is willing to give her,
 Sir. Notwithstanding which, Ma’am,” he added, raising his eyes from his
 plate, and casting them across Princess’s Place, to where Miss Tox was
-at that moment visible at her window watering her flowers, “you’re a
-scheming jade, Ma’am, and your ambition is a piece of monstrous
+at that moment visible at her [[Window|window]] watering her [[Flowers|flowers]], “you’re a
+scheming jade, Ma’am, and your [[Ambition|ambition]] is a piece of monstrous
 impudence. If it only made yourself ridiculous, Ma’am,” said the Major,
-rolling his head at the unconscious Miss Tox, while his starting eyes
+[[rolling]] his head at the unconscious Miss Tox, while his starting eyes
 appeared to make a leap towards her, “you might do that to your heart’s
 content, Ma’am, without any objection, I assure you, on the part of
 Bagstock.” Here the Major laughed frightfully up in the tips of his
 ears and in the veins of his head. “But when, Ma’am,” said the Major,
 “you compromise other people, and generous, unsuspicious people too, as
-a repayment for their condescension, you stir the blood of old Joe in
-his body.”
+a repayment for their condescension, you stir the [[Blood|blood]] of old Joe in
+his [[Body|body]].”
 
-“Major,” said Mr Dombey, reddening, “I hope you do not hint at anything
+“Major,” said Mr Dombey, reddening, “I [[Hope|hope]] you do not hint at anything
 so absurd on the part of Miss Tox as—”
 
 “Dombey,” returned the Major, “I hint at nothing. But Joey B. has lived
@@ -246,28 +246,28 @@ Ma’am,” cried the Major, again apostrophising his fair neighbour, with
 great ire,—“when the provocation is too strong to admit of his
 remaining silent.”
 
-The emotion of this outbreak threw the Major into a paroxysm of horse’s
-coughs, which held him for a long time. On recovering he added:
+The emotion of this outbreak threw the Major into a paroxysm of [[Horse|horse]]’s
+coughs, which held him for a long [[Time|time]]. On recovering he added:
 
 “And now, Dombey, as you have invited Joe—old Joe, who has no other
 merit, Sir, but that he is tough and hearty—to be your guest and guide
 at Leamington, command him in any way you please, and he is wholly
-yours. I don’t know, Sir,” said the Major, wagging his double chin with
+yours. I don’t know, Sir,” said the Major, wagging his [[Double|double]] chin with
 a jocose air, “what it is you people see in Joe to make you hold him in
 such great request, all of you; but this I know, Sir, that if he wasn’t
 pretty tough, and obstinate in his refusals, you’d kill him among you
-with your invitations and so forth, in double-quick time.”
+with your invitations and so forth, in [[Double|double]]-quick [[Time|time]].”
 
 Mr Dombey, in a few words, expressed his sense of the preference he
 received over those other distinguished members of society who were
-clamouring for the possession of Major Bagstock. But the Major cut him
+clamouring for the possession of [[Major Bagstock]]. But the Major cut him
 short by giving him to understand that he followed his own
-inclinations, and that they had risen up in a body and said with one
+inclinations, and that they had risen up in a [[Body|body]] and said with one
 accord, “J. B., Dombey is the man for you to choose as a friend.”
 
-The Major being by this time in a state of repletion, with essence of
+The Major being by this [[Time|time]] in a state of repletion, with essence of
 savoury pie oozing out at the corners of his eyes, and devilled grill
-and kidneys tightening his cravat: and the time moreover approaching
+and kidneys tightening his cravat: and the [[Time|time]] moreover approaching
 for the departure of the railway train to Birmingham, by which they
 were to leave town: the Native got him into his great-coat with immense
 difficulty, and buttoned him up until his face looked staring and
@@ -279,10 +279,10 @@ his head, by way of toning down his remarkable visage. The Native had
 previously packed, in all possible and impossible parts of Mr Dombey’s
 chariot, which was in waiting, an unusual quantity of carpet-bags and
 small portmanteaus, no less apoplectic in appearance than the Major
-himself: and having filled his own pockets with Seltzer water, East
+himself: and having filled his own pockets with Seltzer [[Water|water]], East
 India sherry, sandwiches, shawls, telescopes, maps, and newspapers, any
 or all of which light baggage the Major might require at any instant of
-the journey, he announced that everything was ready. To complete the
+the [[Journey|journey]], he announced that everything was ready. To complete the
 equipment of this unfortunate foreigner (currently believed to be a
 prince in his own country), when he took his seat in the rumble by the
 side of Mr Towlinson, a pile of the Major’s cloaks and great-coats was
@@ -291,13 +291,13 @@ with those great missiles like a Titan, and so covered him up, that he
 proceeded, in a living tomb, to the railroad station.
 
 But before the carriage moved away, and while the Native was in the act
-of sepulture, Miss Tox appearing at her window, waved a lilywhite
+of sepulture, Miss Tox appearing at her [[Window|window]], waved a lilywhite
 handkerchief. Mr Dombey received this parting salutation very
 coldly—very coldly even for him—and honouring her with the slightest
 possible inclination of his head, leaned back in the carriage with a
 very discontented look. His marked behaviour seemed to afford the Major
 (who was all politeness in his recognition of Miss Tox) unbounded
-satisfaction; and he sat for a long time afterwards, leering, and
+satisfaction; and he sat for a long [[Time|time]] afterwards, leering, and
 choking, like an over-fed Mephistopheles.
 
 During the bustle of preparation at the railway, Mr Dombey and the
@@ -307,23 +307,23 @@ with a variety of anecdotes and reminiscences, in most of which Joe
 Bagstock was the principal performer. Neither of the two observed that
 in the course of these walks, they attracted the attention of a working
 man who was standing near the engine, and who touched his hat every
-time they passed; for Mr Dombey habitually looked over the vulgar herd,
-not at them; and the Major was looking, at the time, into the core of
+[[Time|time]] they passed; for Mr Dombey habitually looked over the vulgar herd,
+not at them; and the Major was looking, at the [[Time|time]], into the core of
 one of his stories. At length, however, this man stepped before them as
 they turned round, and pulling his hat off, and keeping it off, ducked
 his head to Mr Dombey.
 
-“Beg your pardon, Sir,” said the man, “but I hope you’re a doin’ pretty
-well, Sir.”
+“Beg your pardon, Sir,” said the man, “but I [[Hope|hope]] you’re a doin’ pretty
+[[Well|well]], Sir.”
 
-He was dressed in a canvas suit abundantly besmeared with coal-dust and
+He was dressed in a canvas suit abundantly besmeared with coal-[[Dust|dust]] and
 oil, and had cinders in his whiskers, and a smell of half-slaked ashes
 all over him. He was not a bad-looking fellow, nor even what could be
 fairly called a dirty-looking fellow, in spite of this; and, in short,
 he was Mr Toodle, professionally clothed.
 
-“I shall have the honour of stokin’ of you down, Sir,” said Mr Toodle.
-“Beg your pardon, Sir.—I hope you find yourself a coming round?”
+“I shall have the [[Honour|honour]] of stokin’ of you down, Sir,” said Mr Toodle.
+“Beg your pardon, Sir.—I [[Hope|hope]] you find yourself a coming round?”
 
 Mr Dombey looked at him, in return for his tone of interest, as if a
 man like that would make his very eyesight dirty.
@@ -344,7 +344,7 @@ Mr Dombey was stopped short now in his turn: and awkwardly: with his
 hand in his pocket.
 
 “No, Sir,” said Toodle, turning his oilskin cap round and round; “we’re
-a doin’ pretty well, Sir; we haven’t no cause to complain in the
+a doin’ pretty [[Well|well]], Sir; we haven’t no cause to complain in the
 worldly way, Sir. We’ve had four more since then, Sir, but we rubs on.”
 
 Mr Dombey would have rubbed on to his own carriage, though in so doing
@@ -370,7 +370,7 @@ troubled you with such a pint except as a way of gettin’ in the name of
 my son Biler—christened Robin—him as you was so good as to make a
 Charitable Grinder on.”
 
-“Well, man,” said Mr Dombey in his severest manner. “What about him?”
+“[[Well]], man,” said Mr Dombey in his severest manner. “What about him?”
 
 “Why, Sir,” returned Toodle, shaking his head with a face of great
 anxiety and distress, “I’m forced to say, Sir, that he’s gone wrong.”
@@ -380,7 +380,7 @@ satisfaction.
 
 “He has fell into bad company, you see, genelmen,” pursued the father,
 looking wistfully at both, and evidently taking the Major into the
-conversation with the hope of having his sympathy. “He has got into bad
+conversation with the [[Hope|hope]] of having his sympathy. “He has got into bad
 ways. God send he may come to again, genelmen, but he’s on the wrong
 track now! You could hardly be off hearing of it somehow, Sir,” said
 Toodle, again addressing Mr Dombey individually; “and it’s better I
@@ -403,8 +403,8 @@ repeating “The usual return!” led the Major away. And the Major being
 heavy to hoist into Mr Dombey’s carriage, elevated in mid-air, and
 having to stop and swear that he would flay the Native alive, and break
 every bone in his skin, and visit other physical torments upon him,
-every time he couldn’t get his foot on the step, and fell back on that
-dark exile, had barely time before they started to repeat hoarsely that
+every [[Time|time]] he couldn’t get his foot on the step, and fell back on that
+dark [[Exile|exile]], had barely [[Time|time]] before they started to repeat hoarsely that
 it would never do: that it always failed: and that if he were to
 educate “his own vagabond,” he would certainly be hanged.
 
@@ -416,36 +416,36 @@ Company. He had seen upon the man’s rough cap a piece of new crape, and
 he had assured himself, from his manner and his answers, that he wore
 it for _his_ son.
 
-So! from high to low, at home or abroad, from Florence in his great
-house to the coarse churl who was feeding the fire then smoking before
+So! from high to low, at [[Home|home]] or abroad, from Florence in his great
+[[house]] to the coarse churl who was feeding the [[Fire|fire]] then smoking before
 them, everyone set up some claim or other to a share in his dead boy,
 and was a bidder against him! Could he ever forget how that woman had
-wept over his pillow, and called him her own child! or how he, waking
-from his sleep, had asked for her, and had raised himself in his bed
+wept over his pillow, and called him her own [[Child|child]]! or how he, waking
+from his [[Sleep|sleep]], had asked for her, and had raised himself in his bed
 and brightened when she came in!
 
 To think of this presumptuous raker among coals and ashes going on
 before there, with his sign of mourning! To think that he dared to
 enter, even by a common show like that, into the trial and
 disappointment of a proud gentleman’s secret heart! To think that this
-lost child, who was to have divided with him his riches, and his
+lost [[Child|child]], who was to have divided with him his riches, and his
 projects, and his power, and allied with whom he was to have shut out
-all the world as with a double door of gold, should have let in such a
+all the world as with a [[Double|double]] door of gold, should have let in such a
 herd to insult him with their knowledge of his defeated hopes, and
 their boasts of claiming community of feeling with himself, so far
 removed: if not of having crept into the place wherein he would have
-lorded it, alone!
+lorded it, [[Alone|alone]]!
 
-He found no pleasure or relief in the journey. Tortured by these
+He found no pleasure or relief in the [[Journey|journey]]. Tortured by these
 thoughts he carried monotony with him, through the rushing landscape,
 and hurried headlong, not through a rich and varied country, but a
-wilderness of blighted plans and gnawing jealousies. The very speed at
+wilderness of blighted plans and gnawing jealousies. The very [[Speed|speed]] at
 which the train was whirled along, mocked the swift course of the young
 life that had been borne away so steadily and so inexorably to its
 foredoomed end. The power that forced itself upon its iron way—its
 own—defiant of all paths and roads, piercing through the heart of every
 obstacle, and dragging living creatures of all classes, ages, and
-degrees behind it, was a type of the triumphant monster, Death.
+degrees behind it, was a type of the triumphant [[Monster|monster]], [[Death]].
 
 Away, with a shriek, and a roar, and a rattle, from the town, burrowing
 among the dwellings of men and making the streets hum, flashing out
@@ -453,72 +453,72 @@ into the meadows for a moment, mining in through the damp earth,
 booming on in darkness and heavy air, bursting out again into the sunny
 day so bright and wide; away, with a shriek, and a roar, and a rattle,
 through the fields, through the woods, through the corn, through the
-hay, through the chalk, through the mould, through the clay, through
+hay, through the [[chalk]], through the mould, through the clay, through
 the rock, among objects close at hand and almost in the grasp, ever
 flying from the traveller, and a deceitful distance ever moving slowly
-within him: like as in the track of the remorseless monster, Death!
+within him: like as in the track of the remorseless [[Monster|monster]], [[Death]]!
 
 Through the hollow, on the height, by the heath, by the orchard, by the
-park, by the garden, over the canal, across the river, where the sheep
+park, by the [[Garden|garden]], over the canal, across the [[River|river]], where the sheep
 are feeding, where the mill is going, where the barge is floating,
 where the dead are lying, where the factory is smoking, where the
 stream is running, where the village clusters, where the great
-cathedral rises, where the bleak moor lies, and the wild breeze smooths
+[[Cathedral|cathedral]] rises, where the bleak moor lies, and the wild breeze smooths
 or ruffles it at its inconstant will; away, with a shriek, and a roar,
-and a rattle, and no trace to leave behind but dust and vapour: like as
-in the track of the remorseless monster, Death!
+and a rattle, and no trace to leave behind but [[Dust|dust]] and vapour: like as
+in the track of the remorseless [[Monster|monster]], [[Death]]!
 
-Breasting the wind and light, the shower and sunshine, away, and still
+Breasting the [[Wind|wind]] and light, the shower and sunshine, away, and still
 away, it rolls and roars, fierce and rapid, smooth and certain, and
 great works and massive bridges crossing up above, fall like a beam of
-shadow an inch broad, upon the eye, and then are lost. Away, and still
+[[Shadow|shadow]] an inch broad, upon the eye, and then are lost. Away, and still
 away, onward and onward ever: glimpses of cottage-homes, of houses,
 mansions, rich estates, of husbandry and handicraft, of people, of old
 roads and paths that look deserted, small, and insignificant as they
 are left behind: and so they do, and what else is there but such
-glimpses, in the track of the indomitable monster, Death!
+glimpses, in the track of the indomitable [[Monster|monster]], [[Death]]!
 
 Away, with a shriek, and a roar, and a rattle, plunging down into the
-earth again, and working on in such a storm of energy and perseverance,
+earth again, and working on in such a [[Storm|storm]] of energy and perseverance,
 that amidst the darkness and whirlwind the motion seems reversed, and
 to tend furiously backward, until a ray of light upon the wet wall
 shows its surface flying past like a fierce stream. Away once more into
 the day, and through the day, with a shrill yell of exultation,
 roaring, rattling, tearing on, spurning everything with its dark
 breath, sometimes pausing for a minute where a crowd of faces are, that
-in a minute more are not; sometimes lapping water greedily, and before
+in a minute more are not; sometimes lapping [[Water|water]] greedily, and before
 the spout at which it drinks has ceased to drip upon the ground,
 shrieking, roaring, rattling through the purple distance!
 
 Louder and louder yet, it shrieks and cries as it comes tearing on
-resistless to the goal: and now its way, still like the way of Death,
+resistless to the goal: and now its way, still like the way of [[Death]],
 is strewn with ashes thickly. Everything around is blackened. There are
-dark pools of water, muddy lanes, and miserable habitations far below.
+dark pools of [[Water|water]], muddy lanes, and miserable habitations far below.
 There are jagged walls and falling houses close at hand, and through
 the battered roofs and broken windows, wretched rooms are seen, where
 want and fever hide themselves in many wretched shapes, while smoke and
 crowded gables, and distorted chimneys, and deformity of brick and
-mortar penning up deformity of mind and body, choke the murky distance.
-As Mr Dombey looks out of his carriage window, it is never in his
-thoughts that the monster who has brought him there has let the light
+mortar penning up deformity of mind and [[Body|body]], choke the murky distance.
+As Mr Dombey looks out of his carriage [[Window|window]], it is never in his
+thoughts that the [[Monster|monster]] who has brought him there has let the light
 of day in on these things: not made or caused them. It was the
-journey’s fitting end, and might have been the end of everything; it
+[[Journey|journey]]’s fitting end, and might have been the end of everything; it
 was so ruinous and dreary.
 
 So, pursuing the one course of thought, he had the one relentless
-monster still before him. All things looked black, and cold, and deadly
+[[Monster|monster]] still before him. All things looked black, and cold, and deadly
 upon him, and he on them. He found a likeness to his misfortune
 everywhere. There was a remorseless triumph going on about him, and it
-galled and stung him in his pride and jealousy, whatever form it took:
-though most of all when it divided with him the love and memory of his
+galled and stung him in his [[Pride|pride]] and [[Jealousy|jealousy]], whatever form it took:
+though most of all when it divided with him the [[Love|love]] and [[Memory|memory]] of his
 lost boy.
 
-There was a face—he had looked upon it, on the previous night, and it
-on him with eyes that read his soul, though they were dim with tears,
+There was a face—he had looked upon it, on the previous [[Night|night]], and it
+on him with eyes that read his [[Soul|soul]], though they were dim with [[Tears|tears]],
 and hidden soon behind two quivering hands—that often had attended him
 in fancy, on this ride. He had seen it, with the expression of last
-night, timidly pleading to him. It was not reproachful, but there was
-something of doubt, almost of hopeful incredulity in it, which, as he
+[[Night|night]], timidly pleading to him. It was not reproachful, but there was
+something of [[Doubt|doubt]], almost of hopeful [[Incredulity|incredulity]] in it, which, as he
 once more saw that fade away into a desolate certainty of his dislike,
 was like reproach. It was a trouble to him to think of this face of
 Florence.
@@ -530,28 +530,28 @@ and threatening to grow too strong for his composure. Because the face
 was abroad, in the expression of defeat and persecution that seemed to
 encircle him like the air. Because it barbed the arrow of that cruel
 and remorseless enemy on which his thoughts so ran, and put into its
-grasp a double-handed sword. Because he knew full well, in his own
+grasp a [[Double|double]]-handed [[Sword|sword]]. Because he knew full [[Well|well]], in his own
 breast, as he stood there, tinging the scene of transition before him
 with the morbid colours of his own mind, and making it a ruin and a
-picture of decay, instead of hopeful change, and promise of better
+picture of [[Decay|decay]], instead of hopeful change, and promise of better
 things, that life had quite as much to do with his complainings as
-death. One child was gone, and one child left. Why was the object of
-his hope removed instead of her?
+[[Death|death]]. One [[Child|child]] was gone, and one [[Child|child]] left. Why was the object of
+his [[Hope|hope]] removed instead of her?
 
 The sweet, calm, gentle presence in his fancy, moved him to no
 reflection but that. She had been unwelcome to him from the first; she
 was an aggravation of his bitterness now. If his son had been his only
-child, and the same blow had fallen on him, it would have been heavy to
+[[Child|child]], and the same blow had fallen on him, it would have been heavy to
 bear; but infinitely lighter than now, when it might have fallen on her
 (whom he could have lost, or he believed it, without a pang), and had
-not. Her loving and innocent face rising before him, had no softening
+not. Her loving and [[Innocent|innocent]] face rising before him, had no softening
 or winning influence. He rejected the angel, and took up with the
 tormenting spirit crouching in his bosom. Her patience, goodness,
-youth, devotion, love, were as so many atoms in the ashes upon which he
+youth, devotion, [[Love|love]], were as so many atoms in the ashes upon which he
 set his heel. He saw her image in the blight and blackness all around
 him, not irradiating but deepening the gloom. More than once upon this
-journey, and now again as he stood pondering at this journey’s end,
-tracing figures in the dust with his stick, the thought came into his
+[[Journey|journey]], and now again as he stood pondering at this [[Journey|journey]]’s end,
+tracing figures in the [[Dust|dust]] with his stick, the thought came into his
 mind, what was there he could interpose between himself and it?
 
 The Major, who had been blowing and panting all the way down, like
@@ -569,12 +569,12 @@ Dombey, to be thoughtful. In your position, Sir, you’re far above that
 kind of thing.”
 
 The Major even in his friendly remonstrances, thus consulting the
-dignity and honour of Mr Dombey, and showing a lively sense of their
+dignity and [[Honour|honour]] of Mr Dombey, and showing a lively sense of their
 importance, Mr Dombey felt more than ever disposed to defer to a
-gentleman possessing so much good sense and such a well-regulated mind;
+gentleman possessing so much good sense and such a [[Well|well]]-regulated mind;
 accordingly he made an effort to listen to the Major’s stories, as they
-trotted along the turnpike road; and the Major, finding both the pace
-and the road a great deal better adapted to his conversational powers
+trotted along the turnpike [[Road|road]]; and the Major, finding both the pace
+and the [[Road|road]] a great deal better adapted to his conversational powers
 than the mode of travelling they had just relinquished, came out of his
 entertainment.
 
@@ -591,7 +591,7 @@ said the Major, with a broad stare, “how they discovered that J. B.
 ever came to know you, is a mystery!”
 
 In this flow of spirits and conversation, only interrupted by his usual
-plethoric symptoms, and by intervals of lunch, and from time to time by
+plethoric symptoms, and by intervals of lunch, and from [[Time|time]] to [[Time|time]] by
 some violent assault upon the Native, who wore a pair of ear-rings in
 his dark-brown ears, and on whom his European clothes sat with an
 outlandish impossibility of adjustment—being, of their own accord, and
@@ -601,7 +601,7 @@ loose, and loose where they ought to be tight—and to which he imparted
 a new grace, whenever the Major attacked him, by shrinking into them
 like a shrivelled nut, or a cold monkey—in this flow of spirits and
 conversation, the Major continued all day: so that when evening came
-on, and found them trotting through the green and leafy road near
+on, and found them trotting through the green and leafy [[Road|road]] near
 Leamington, the Major’s voice, what with talking and eating and
 chuckling and choking, appeared to be in the box under the rumble, or
 in some neighbouring hay-stack. Nor did the Major improve it at the
@@ -610,7 +610,7 @@ oppressed his organs of speech by eating and drinking, that when he
 retired to bed he had no voice at all, except to cough with, and could
 only make himself intelligible to the dark servant by gasping at him.
 
-He not only rose next morning, however, like a giant refreshed, but
+He not only [[Rose|rose]] next morning, however, like a giant refreshed, but
 conducted himself, at breakfast like a giant refreshing. At this meal
 they arranged their daily habits. The Major was to take the
 responsibility of ordering everything to eat and drink; and they were
@@ -619,7 +619,7 @@ together every day. Mr Dombey would prefer remaining in his own room,
 or walking in the country by himself, on that first day of their
 sojourn at Leamington; but next morning he would be happy to accompany
 the Major to the Pump-room, and about the town. So they parted until
-dinner-time. Mr Dombey retired to nurse his wholesome thoughts in his
+dinner-[[Time|time]]. Mr Dombey retired to [[Nurse|nurse]] his wholesome thoughts in his
 own way. The Major, attended by the Native carrying a camp-stool, a
 great-coat, and an umbrella, swaggered up and down through all the
 public places: looking into subscription books to find out who was
@@ -629,14 +629,14 @@ went. There never was a man who stood by a friend more staunchly than
 the Major, when in puffing him, he puffed himself.
 
 It was surprising how much new conversation the Major had to let off at
-dinner-time, and what occasion he gave Mr Dombey to admire his social
+dinner-[[Time|time]], and what occasion he gave Mr Dombey to admire his social
 qualities. At breakfast next morning, he knew the contents of the
 latest newspapers received; and mentioned several subjects in connexion
 with them, on which his opinion had recently been sought by persons of
 such power and might, that they were only to be obscurely hinted at. Mr
 Dombey, who had been so long shut up within himself, and who had
-rarely, at any time, overstepped the enchanted circle within which the
+rarely, at any [[Time|time]], overstepped the enchanted circle within which the
 operations of Dombey and Son were conducted, began to think this an
 improvement on his solitary life; and in place of excusing himself for
-another day, as he had thought of doing when alone, walked out with the
+another day, as he had thought of doing when [[Alone|alone]], walked out with the
 Major arm-in-arm.

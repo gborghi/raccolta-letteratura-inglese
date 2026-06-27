@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Biron with a paper in his hand, alone |
+| *(didascalia)* | Enter Biron with a paper in his hand, [[Alone|alone]] |

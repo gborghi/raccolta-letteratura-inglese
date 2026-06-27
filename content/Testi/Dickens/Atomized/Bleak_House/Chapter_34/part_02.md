@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 34 (part 2)"
+title: "Bleak [[house|House]] — Chapter 34 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“Well, George, old fellow,” says she, “and how do YOU do, this
+“[[Well]], George, old fellow,” says she, “and how do YOU do, this
 sunshiny morning?”
 
 Giving him a friendly shake of the hand, Mrs. Bagnet draws a long
@@ -49,7 +49,7 @@ the matter, George?” asks Mrs. Bagnet, stopping in her cheerful talk.
 “I am not quite myself,” returns the trooper; “I have been a little
 put out, Mrs. Bagnet.”
 
-Her bright quick eye catches the truth directly. “George!” holding up
+Her bright quick eye catches the [[Truth|truth]] directly. “George!” holding up
 her forefinger. “Don’t tell me there’s anything wrong about that
 security of Lignum’s! Don’t do it, George, on account of the
 children!”
@@ -68,9 +68,9 @@ Mr. Bagnet, otherwise as immovable as a pump or a lamp-post, puts his
 large right hand on the top of his bald head as if to defend it from
 a shower-bath and looks with great uneasiness at Mrs. Bagnet.
 
-“George,” says that old girl, “I wonder at you! George, I am ashamed
+“George,” says that old girl, “I [[Wonder|wonder]] at you! George, I am ashamed
 of you! George, I couldn’t have believed you would have done it! I
-always knew you to be a rolling stone that gathered no moss, but I
+always knew you to be a [[rolling]] stone that gathered no moss, but I
 never thought you would have taken away what little moss there was
 for Bagnet and the children to lie upon. You know what a
 hard-working, steady-going chap he is. You know what Quebec and Malta
@@ -86,26 +86,26 @@ straw bonnet.
 
 “Mat,” says the trooper in a subdued voice, addressing him but still
 looking at his wife, “I am sorry you take it so much to heart,
-because I do hope it’s not so bad as that comes to. I certainly have,
+because I do [[Hope|hope]] it’s not so bad as that comes to. I certainly have,
 this morning, received this letter”—which he reads aloud—“but I
-hope it may be set right yet. As to a rolling stone, why, what you
-say is true. I AM a rolling stone, and I never rolled in anybody’s
+[[Hope|hope]] it may be set right yet. As to a [[rolling]] stone, why, what you
+say is true. I AM a [[rolling]] stone, and I never rolled in anybody’s
 way, I fully believe, that I rolled the least good to. But it’s
 impossible for an old vagabond comrade to like your wife and family
 better than I like ’em, Mat, and I trust you’ll look upon me as
 forgivingly as you can. Don’t think I’ve kept anything from you. I
 haven’t had the letter more than a quarter of an hour.”
 
-“Old girl,” murmurs Mr. Bagnet after a short silence, “will you tell
+“Old girl,” murmurs Mr. Bagnet after a short [[Silence|silence]], “will you tell
 him my opinion?”
 
 “Oh! Why didn’t he marry,” Mrs. Bagnet answers, half laughing and
-half crying, “Joe Pouch’s widder in North America? Then he wouldn’t
+half crying, “Joe Pouch’s widder in North [[America]]? Then he wouldn’t
 have got himself into these troubles.”
 
 “The old girl,” says Mr. Bagnet, “puts it correct—why didn’t you?”
 
-“Well, she has a better husband by this time, I hope,” returns the
+“[[Well]], she has a better husband by this [[Time|time]], I [[Hope|hope]],” returns the
 trooper. “Anyhow, here I stand, this present day, NOT married to Joe
 Pouch’s widder. What shall I do? You see all I have got about me.
 It’s not mine; it’s yours. Give the word, and I’ll sell off every
@@ -124,7 +124,7 @@ means.”
 “And that was like me!” observes the penitent trooper, shaking his
 head. “Like me, I know.”
 
-“Silence! The old girl,” says Mr. Bagnet, “is correct—in her way of
+“[[Silence]]! The old girl,” says Mr. Bagnet, “is correct—in her way of
 giving my opinions—hear me out!”
 
 “That was when you never ought to have asked for the security,

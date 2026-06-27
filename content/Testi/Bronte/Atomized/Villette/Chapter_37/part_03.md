@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 35 (part 3)"
+title: "[[Villette]] — Chapter 35 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Such was the sketch of “Human Justice,” scratched hurriedly on paper,
+Such was the [[Sketch|sketch]] of “Human Justice,” scratched hurriedly on paper,
 and placed at the service of Messrs. Boissec and Rochemorte. M. Emanuel
 read it over my shoulder. Waiting no comment, I curtsied to the trio,
 and withdrew.
@@ -29,7 +29,7 @@ Not wishing him to go quite away, only desiring he should feel that
 such a transport as he had that day given way to, could not be indulged
 with perfect impunity, I was not sorry to see him, soon after,
 gardening in the berceau. He approached the glass door; I drew near
-also. We spoke of some flowers growing round it. By-and-by Monsieur
+also. We spoke of some [[Flowers|flowers]] growing round it. By-and-by Monsieur
 laid down his spade; by-and-by he recommenced conversation, passed to
 other subjects, and at last touched a point of interest.
 
@@ -38,12 +38,12 @@ charge of extravagance, M. Paul half apologized; he half regretted,
 too, the fitfulness of his moods at all times, yet he hinted that some
 allowance ought to be made for him. “But,” said he, “I can hardly
 expect it at your hands, Miss Lucy; you know neither me, nor my
-position, nor my history.”
+position, nor my [[history]].”
 
-His history. I took up the word at once; I pursued the idea.
+His [[history]]. I took up the word at once; I pursued the idea.
 
 “No, Monsieur,” I rejoined. “Of course, as you say, I know neither your
-history, nor your position, nor your sacrifices, nor any of your
+[[history]], nor your position, nor your sacrifices, nor any of your
 sorrows, or trials, or affections, or fidelities. Oh, no! I know
 nothing about you; you are for me altogether a stranger.”
 
@@ -58,12 +58,12 @@ thrust here and there, inconsiderate of their feelings. You seek your
 recreations in public, by the light of the evening chandelier: this
 school and yonder college are your workshops, where you fabricate the
 ware called pupils. I don’t so much as know where you live; it is
-natural to take it for granted that you have no home, and need none.”
+natural to take it for granted that you have no [[Home|home]], and need none.”
 
 “I am judged,” said he. “Your opinion of me is just what I thought it
 was. For you I am neither a man nor a Christian. You see me void of
 affection and religion, unattached by friend or family, unpiloted by
-principle or faith. It is well, Mademoiselle; such is our reward in
+principle or [[Faith|faith]]. It is [[Well|well]], Mademoiselle; such is our reward in
 this life.”
 
 “You are a philosopher, Monsieur; a cynic philosopher” (and I looked at
@@ -82,7 +82,7 @@ scorn the most decided, he broke out—
 
 “Je vis dans un trou! I inhabit a den, Miss—a cavern, where you would
 not put your dainty nose. Once, with base shame of speaking the whole
-truth, I talked about my ‘study’ in that college: know now that this
+[[Truth|truth]], I talked about my ‘study’ in that college: know now that this
 ‘study’ is my whole abode; my chamber is there and my drawing-room. As
 for my ‘establishment of servants’” (mimicking my voice) “they number
 ten; les voilà.”
@@ -97,7 +97,7 @@ And he grimly spread, close under my eyes, his ten fingers.
 supper takes care, of itself; I pass days laborious and loveless;
 nights long and lonely; I am ferocious, and bearded and monkish; and
 nothing now living in this world loves me, except some old hearts worn
-like my own, and some few beings, impoverished, suffering, poor in
+like my own, and some few beings, impoverished, [[Suffering|suffering]], poor in
 purse and in spirit, whom the kingdoms of this world own not, but to
 whom a will and testament not to be disputed has bequeathed the kingdom
 of heaven.”
@@ -106,7 +106,7 @@ of heaven.”
 
 “What do you know? many things, I verily believe; yet not me, Lucy!”
 
-“I know that you have a pleasant old house in a pleasant old square of
+“I know that you have a pleasant old [[house]] in a pleasant old square of
 the Basse-Ville—why don’t you go and live there?”
 
 “Hein?” muttered he again.
@@ -125,14 +125,14 @@ up all that? Who told you?” he asked.
 “Can I enter into your visions? Can I guess a woman’s waking thoughts,
 much less her sleeping fantasies?”
 
-“If I dreamt it, I saw in my dream human beings as well as a house. I
+“If I dreamt it, I saw in my dream human beings as [[Well|well]] as a [[house]]. I
 saw a priest, old, bent, and grey, and a domestic—old, too, and
 picturesque; and a lady, splendid but strange; her head would scarce
 reach to my elbow—her magnificence might ransom a duke. She wore a gown
 bright as lapis-lazuli—a shawl worth a thousand francs: she was decked
 with ornaments so brilliant, I never saw any with such a beautiful
 sparkle; but her figure looked as if it had been broken in two and bent
-double; she seemed also to have outlived the common years of humanity,
+[[Double|double]]; she seemed also to have outlived the common years of humanity,
 and to have attained those which are only labour and sorrow. She was
 become morose—almost malevolent; yet _somebody_, it appears, cared for
 her in her infirmities—somebody forgave her trespasses, hoping to have

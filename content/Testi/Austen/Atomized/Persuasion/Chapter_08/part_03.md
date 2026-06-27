@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 8 (part 3)"
+title: "[[Persuasion]] — Chapter 8 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-refinement!—Women may be as comfortable on board, as in the best house
+refinement!—Women may be as comfortable on board, as in the best [[house]]
 
 in England. I believe I have lived as much on board as most women, and
 
@@ -42,7 +42,7 @@ superfine, extraordinary sort of gallantry of yours then?”
 
 
 
-“All merged in my friendship, Sophia. I would assist any brother
+“All merged in my [[Friendship|friendship]], Sophia. I would assist any brother
 
 officer’s wife that I could, and I would bring anything of Harville’s
 
@@ -80,7 +80,7 @@ her family to Plymouth.”
 
 women were all fine ladies, instead of rational creatures. We none of
 
-us expect to be in smooth water all our days.”
+us expect to be in smooth [[Water|water]] all our days.”
 
 
 
@@ -100,7 +100,7 @@ bring him his wife.”
 
 
 
-“Now I have done,” cried Captain Wentworth. “When once married people
+“Now I have done,” cried [[Captain Wentworth]]. “When once married people
 
 begin to attack me with,—‘Oh! you will think very differently, when you
 
@@ -120,13 +120,13 @@ to Mrs Croft.
 
 
 
-“Pretty well, ma’am, in the fifteen years of my marriage; though many
+“Pretty [[Well|well]], ma’am, in the fifteen years of my [[Marriage|marriage]]; though many
 
 women have done more. I have crossed the Atlantic four times, and have
 
 been once to the East Indies, and back again, and only once; besides
 
-being in different places about home: Cork, and Lisbon, and Gibraltar.
+being in different places about [[Home|home]]: Cork, and Lisbon, and Gibraltar.
 
 But I never went beyond the Streights, and never was in the West
 
@@ -152,7 +152,7 @@ confined; though any reasonable woman may be perfectly happy in one of
 
 them; and I can safely say, that the happiest part of my life has been
 
-spent on board a ship. While we were together, you know, there was
+spent on board a [[Ship|ship]]. While we were together, you know, there was
 
 nothing to be feared. Thank God! I have always been blessed with
 
@@ -160,15 +160,15 @@ excellent health, and no climate disagrees with me. A little disordered
 
 always the first twenty-four hours of going to sea, but never knew what
 
-sickness was afterwards. The only time I ever really suffered in body
+sickness was afterwards. The only [[Time|time]] I ever really suffered in [[Body|body]]
 
-or mind, the only time that I ever fancied myself unwell, or had any
+or mind, the only [[Time|time]] that I ever fancied myself unwell, or had any
 
-ideas of danger, was the winter that I passed by myself at Deal, when
+ideas of danger, was the [[Winter|winter]] that I passed by myself at Deal, when
 
 the Admiral (_Captain_ Croft then) was in the North Seas. I lived in
 
-perpetual fright at that time, and had all manner of imaginary
+perpetual fright at that [[Time|time]], and had all manner of imaginary
 
 complaints from not knowing what to do with myself, or when I should
 
@@ -192,7 +192,7 @@ over, and he is safe back again.”
 
 The evening ended with dancing. On its being proposed, Anne offered her
 
-services, as usual; and though her eyes would sometimes fill with tears
+services, as usual; and though her eyes would sometimes fill with [[Tears|tears]]
 
 as she sat at the instrument, she was extremely glad to be employed,
 
@@ -202,7 +202,7 @@ and desired nothing in return but to be unobserved.
 
 It was a merry, joyous party, and no one seemed in higher spirits than
 
-Captain Wentworth. She felt that he had every thing to elevate him
+[[Captain Wentworth]]. She felt that he had every thing to elevate him
 
 which general attention and deference, and especially the attention of
 
@@ -210,7 +210,7 @@ all the young women, could do. The Miss Hayters, the females of the
 
 family of cousins already mentioned, were apparently admitted to the
 
-honour of being in love with him; and as for Henrietta and Louisa, they
+[[Honour|honour]] of being in [[Love|love]] with him; and as for Henrietta and Louisa, they
 
 both seemed so entirely occupied by him, that nothing but the continued
 
@@ -218,7 +218,7 @@ appearance of the most perfect good-will between themselves could have
 
 made it credible that they were not decided rivals. If he were a little
 
-spoilt by such universal, such eager admiration, who could wonder?
+spoilt by such universal, such eager admiration, who could [[Wonder|wonder]]?
 
 
 

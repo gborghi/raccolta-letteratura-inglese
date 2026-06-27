@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 30)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 30)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -20,11 +20,11 @@ begin with, the word "British" involves a similar awkwardness. I have
 
 tried to use it in the one or two cases that referred to such things as
 
-military glory and unity: though I am sure I have failed of full
+military glory and [[unity]]: though I am sure I have failed of full
 
 consistency in so complex a matter. The difficulty is that this sense of
 
-glory and unity, which should certainly cover the Scotch, should also
+glory and [[unity]], which should certainly cover the Scotch, should also
 
 cover the Irish. And while it is fairly safe to call a Scotsman a North
 
@@ -216,7 +216,7 @@ copying, distributing, performing, displaying or creating derivative
 
 works based on the work as long as all references to Project Gutenberg
 
-are removed.  Of course, we hope that you will support the Project
+are removed.  Of course, we [[Hope|hope]] that you will support the Project
 
 Gutenberg-tm mission of promoting free access to electronic works by
 

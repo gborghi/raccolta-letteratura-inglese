@@ -1,5 +1,5 @@
 ---
-title: "misc — THE REAL JOURNALIST"
+title: "[[misc]] — THE REAL JOURNALIST"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/misc-(Chesterton)"
@@ -18,17 +18,17 @@ THE REAL JOURNALIST
 
 
 Our age which has boasted of realism will fail chiefly through lack
-of reality.  Never, I fancy, has there been so grave and startling
-a divorce between the real way a thing is done and the look of it
+of reality.  Never, I fancy, has there been so [[Grave|grave]] and startling
+a [[divorce]] between the real way a thing is done and the look of it
 when it is done.  I take the nearest and most topical instance to hand
 a newspaper.  Nothing looks more neat and regular than a newspaper,
 with its parallel columns, its mechanical printing, its detailed
 facts and figures, its responsible, polysyllabic leading articles.
-Nothing, as a matter of fact, goes every night through more agonies
+Nothing, as a matter of fact, goes every [[Night|night]] through more agonies
 of adventure, more hairbreadth escapes, desperate expedients,
 crucial councils, random compromises, or barely averted catastrophes.
 Seen from the outside, it seems to come round as automatically
-as the clock and as silently as the dawn.  Seen from the inside,
+as the [[Clock|clock]] and as silently as the [[Dawn|dawn]].  Seen from the inside,
 it gives all its organisers a gasp of relief every morning to see
 that it has come out at all; that it has come out without the leading
 article upside down or the Pope congratulated on discovering
@@ -41,20 +41,20 @@ and instructive:  the tale of how I made a great mistake in quotation.
 There are really two stories:  the story as seen from the outside,
 by a man reading the paper; and the story seen from the inside,
 by the journalists shouting and telephoning and taking notes
-in shorthand through the night.
+in shorthand through the [[Night|night]].
 
 This is the outside story; and it reads like a dreadful quarrel.
 The notorious G. K. Chesterton, a reactionary Torquemada
 whose one gloomy pleasure was in the defence of orthodoxy and
 the pursuit of heretics, long calculated and at last launched
 a denunciation of a brilliant leader of the New Theology
-which he hated with all the furnace of his fanatic soul.
+which he hated with all the furnace of his fanatic [[Soul|soul]].
 In this document Chesterton darkly, deliberately, and not having
-the fear of God before his eyes, asserted that Shakespeare wrote
+the [[Fear|fear]] of God before his eyes, asserted that Shakespeare wrote
 the line "that wreathes its old fantastic roots so high."
 This he said because he had been kept in ignorance by Priests;
 or, perhaps, because he thought craftily that none of his dupes
-could discover a curious and forgotten rhyme called 'Elegy
+could discover a curious and forgotten rhyme called '[[elegy|Elegy]]
 in a Country Churchyard'. Anyhow, that orthodox gentleman made
 a howling error; and received some twenty-five letters and post-cards
 from kind correspondents who pointed out the mistake.
@@ -67,8 +67,8 @@ read through all Shakespeare and failed to find the line.
 A third wrote in a sort of moral distress, asking, as in confidence,
 if Gray was really a plagiarist.  They were a noble collection;
 but they all subtly assumed an element of leisure and exactitude in
-the recipient's profession and character which is far from the truth.
-Let us pass on to the next act of the external tragedy.
+the recipient's profession and character which is far from the [[Truth|truth]].
+Let us pass on to the next act of the external [[Tragedy|tragedy]].
 
 In Monday's issue of the same paper appeared a letter from
 the same culprit.  He ingenuously confessed that the line did not
@@ -89,49 +89,49 @@ each other as the curtain falls.
 And now I will tell you exactly what really happened.
 It is honestly rather amusing; it is a story of what journals and
 journalists really are.  A monstrously lazy man lives in South Bucks
-partly by writing a column in the Saturday Daily News.  At the time
-he usually writes it (which is always at the last moment) his house is
+partly by writing a column in the Saturday Daily News.  At the [[Time|time]]
+he usually writes it (which is always at the last moment) his [[house]] is
 unexpectedly invaded by infants of all shapes and sizes.  His Secretary
 is called away; and he has to cope with the invading pigmies.
 Playing with children is a glorious thing; but the journalist in question
 has never understood why it was considered a soothing or idyllic one.
-It reminds him, not of watering little budding flowers,
+It reminds him, not of watering little budding [[Flowers|flowers]],
 but of wrestling for hours with gigantic angels and devils.
 Moral problems of the most monstrous complexity besiege him incessantly.
-He has to decide before the awful eyes of innocence, whether,
-when a sister has knocked down a brother's bricks, in revenge for
+He has to decide before the awful eyes of [[innocence]], whether,
+when a sister has knocked down a brother's bricks, in [[Revenge|revenge]] for
 the brother having taken two sweets out of his turn, it is endurable
 that the brother should retaliate by scribbling on the sister's
 picture-book, and whether such conduct does not justify the sister
 in blowing out the brother's unlawfully lighted match.
 
 Just as he is solving this problem upon principles of the highest
-morality, it occurs to him suddenly that he has not written his
+[[morality]], it occurs to him suddenly that he has not written his
 Saturday article; and that there is only about an hour to do it in.
 He wildly calls to somebody (probably the gardener) to telephone
 to somewhere for a messenger; he barricades himself in another room
-and tears his hair, wondering what on earth he shall write about.
+and [[Tears|tears]] his hair, wondering what on earth he shall write about.
 A drumming of fists on the door outside and a cheerful bellowing
 encourage and clarify his thoughts; and he is able to observe some
 newspapers and circulars in wrappers lying on the table.  One is
 a dingy book catalogue; the second is a shiny pamphlet about petrol;
 the third is a paper called The Christian Commonwealth.  He opens
 it anyhow, and sees in the middle of a page a sentence with which
-he honestly disagrees.  It says that the sense of beauty in Nature
+he honestly disagrees.  It says that the sense of [[Beauty|beauty]] in [[Nature]]
 is a new thing, hardly felt before Wordsworth.  A stream of images
 and pictures pour through his head, like skies chasing each other
 or forests running by.  "Not felt before Wordsworth!" he thinks.
-"Oh, but this won't do... bare ruined choirs where late the sweet birds
-sang... night's candles are burnt out... glowed with living sapphires.
-leaving their moon-loved maze... antique roots fantastic... antique
+"Oh, but this won't do... bare ruined choirs where late the sweet [[Birds|birds]]
+sang... [[Night|night]]'s candles are burnt out... glowed with living sapphires.
+leaving their [[Moon|moon]]-loved maze... antique roots fantastic... antique
 roots wreathed high... what is it in _As You Like It_?"
 
 He sits down desperately; the messenger rings at the bell;
-the children drum on the door; the servants run up from time
-to time to say the messenger is getting bored; and the pencil
+the children drum on the door; the servants run up from [[Time|time]]
+to [[Time|time]] to say the messenger is getting bored; and the pencil
 staggers along, making the world a present of fifteen hundred
 unimportant words, and making Shakespeare a present of a portion
-of Gray's Elegy; putting "fantastic roots wreathed high"
+of Gray's [[elegy|Elegy]]; putting "fantastic roots wreathed high"
 instead of "antique roots peep out."  Then the journalist sends
 off his copy and turns his attention to the enigma of whether
 a brother should commandeer a sister's necklace because the sister
@@ -140,26 +140,26 @@ that is how an article is really written.
 
 The scene now changes to the newspaper office.  The writer of the article
 has discovered his mistake and wants to correct it by the next day:
-but the next day is Sunday.  He cannot post a letter,
+but the next day is [[Sunday]].  He cannot post a letter,
 so he rings up the paper and dictates a letter by telephone.
-He leaves the title to his friends at the other end; he knows
-that they can spell "Gray," as no doubt they can:  but the letter
+He [[Leaves|leaves]] the title to his friends at the other end; he knows
+that they can spell "Gray," as no [[Doubt|doubt]] they can:  but the letter
 is put down by journalistic custom in a pencil scribble and the vowel
-may well be doubtful.  The friend writes at the top of the letter
+may [[Well|well]] be doubtful.  The friend writes at the top of the letter
 "'G. K. C.' Explains," putting the initials in quotation marks.
 The next man passing it for press is bored with these initials
 (I am with him there) and crosses them out, substituting with
 austere civility, "Mr. Chesterton Explains."  But and now he hears
 the iron laughter of the Fates, for the blind bolt is about to fall--
-but he neglects to cross out the second "quote" (as we call it)
+but he neglects to [[Cross|cross]] out the second "quote" (as we call it)
 and it goes up to press with a "quote" between the last words.
 Another quotation mark at the end of "explains" was the work of one
 merry moment for the printers upstairs.  So the inverted commas
 were lifted entirely off one word on to the other and a totally
-innocent title suddenly turned into a blasting sneer.  But that would
+[[Innocent|innocent]] title suddenly turned into a blasting sneer.  But that would
 have mattered nothing so far, for there was nothing to sneer at.
 In the same dark hour, however, there was a printer who was
-(I suppose) so devoted to this Government that he could think of no
+(I suppose) so devoted to this [[government|Government]] that he could think of no
 Gray but Sir Edward Grey.  He spelt it "Grey" by a mere misprint,
 and the whole tale was complete:  first blunder, second blunder,
 and final condemnation.

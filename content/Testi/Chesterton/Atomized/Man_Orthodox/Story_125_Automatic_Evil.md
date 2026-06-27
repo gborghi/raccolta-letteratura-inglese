@@ -36,7 +36,7 @@ The parallels from other crimes are insolently fallacious.  A man
 reading about a burglary is not any more likely to commit a burglary.
 A man who has seen a pocket picked is not in the least likely
 to become a pickpocket.  But there is one evil which, by its hold
-on the imagination (the creative and reproductive part of man),
+on the [[Imagination|imagination]] (the creative and reproductive part of man),
 can reproduce itself even by report.  We have a right to protect
 ourselves and especially our top-heavy and groping children
 against startling and uncivilized appeals to this instinct.
@@ -50,7 +50,7 @@ than to come behind him and inflame his coattails.  ...
 The appeal to animal appetite may succeed by its very familiarity.
 Indecency is not wild and lawless.  The danger of indecency is exactly
 that it is tame, dull, direct, inevitable; a mere law in the members.
-It is automatic evil.  Pride makes a man a devil; but lust makes
-him a machine.
+It is automatic evil.  [[Pride]] makes a man a devil; but lust makes
+him a [[Machine|machine]].
 
                                            Daily News, February 19th, 1910

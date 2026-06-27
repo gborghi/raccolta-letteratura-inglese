@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 23 (part 2)"
+title: "[[Persuasion]] — Chapter 23 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -20,7 +20,7 @@ small miniature painting, “do you know who that is?”
 
 
 
-“Certainly: Captain Benwick.”
+“Certainly: [[Captain Benwick]].”
 
 
 
@@ -30,19 +30,19 @@ not done for her. Miss Elliot, do you remember our walking together at
 
 Lyme, and grieving for him? I little thought then—but no matter. This
 
-was drawn at the Cape. He met with a clever young German artist at the
+was drawn at the Cape. He met with a clever young German [[artist]] at the
 
 Cape, and in compliance with a promise to my poor sister, sat to him,
 
-and was bringing it home for her; and I have now the charge of getting
+and was bringing it [[Home|home]] for her; and I have now the charge of getting
 
 it properly set for another! It was a commission to me! But who else
 
-was there to employ? I hope I can allow for him. I am not sorry,
+was there to employ? I [[Hope|hope]] I can allow for him. I am not sorry,
 
 indeed, to make it over to another. He undertakes it;” (looking towards
 
-Captain Wentworth,) “he is writing about it now.” And with a quivering
+[[Captain Wentworth]],) “he is writing about it now.” And with a quivering
 
 lip he wound up the whole by adding, “Poor Fanny! she would not have
 
@@ -56,11 +56,11 @@ believe.”
 
 
 
-“It was not in her nature. She doted on him.”
+“It was not in her [[Nature|nature]]. She doted on him.”
 
 
 
-“It would not be the nature of any woman who truly loved.”
+“It would not be the [[Nature|nature]] of any woman who truly loved.”
 
 
 
@@ -70,7 +70,7 @@ sex?” and she answered the question, smiling also, “Yes. We certainly
 
 do not forget you as soon as you forget us. It is, perhaps, our fate
 
-rather than our merit. We cannot help ourselves. We live at home,
+rather than our merit. We cannot help ourselves. We live at [[Home|home]],
 
 quiet, confined, and our feelings prey upon us. You are forced on
 
@@ -98,15 +98,15 @@ little family circle, ever since.”
 
 say now, Captain Harville? If the change be not from outward
 
-circumstances, it must be from within; it must be nature, man’s nature,
+circumstances, it must be from within; it must be [[Nature|nature]], man’s [[Nature|nature]],
 
-which has done the business for Captain Benwick.”
+which has done the business for [[Captain Benwick]].”
 
 
 
-“No, no, it is not man’s nature. I will not allow it to be more man’s
+“No, no, it is not man’s [[Nature|nature]]. I will not allow it to be more man’s
 
-nature than woman’s to be inconstant and forget those they do love, or
+[[Nature|nature]] than woman’s to be inconstant and forget those they do [[Love|love]], or
 
 have loved. I believe the reverse. I believe in a true analogy between
 
@@ -124,7 +124,7 @@ spirit of analogy will authorise me to assert that ours are the most
 
 tender. Man is more robust than woman, but he is not longer lived;
 
-which exactly explains my view of the nature of their attachments. Nay,
+which exactly explains my view of the [[Nature|nature]] of their attachments. Nay,
 
 it would be too hard upon you, if it were otherwise. You have
 
@@ -132,7 +132,7 @@ difficulties, and privations, and dangers enough to struggle with. You
 
 are always labouring and toiling, exposed to every risk and hardship.
 
-Your home, country, friends, all quitted. Neither time, nor health, nor
+Your [[Home|home]], country, friends, all quitted. Neither [[Time|time]], nor health, nor
 
 life, to be called your own. It would be hard, indeed” (with a
 
@@ -168,9 +168,9 @@ have caught.
 
 “There is no hurry on my side. I am only ready whenever you are. I am
 
-in very good anchorage here,” (smiling at Anne), “well supplied, and
+in very good anchorage here,” (smiling at Anne), “[[Well|well]] supplied, and
 
-want for nothing. No hurry for a signal at all. Well, Miss Elliot,”
+want for nothing. No hurry for a signal at all. [[Well]], Miss Elliot,”
 
 (lowering his voice), “as I was saying, we shall never agree, I suppose,
 
@@ -178,13 +178,13 @@ upon this point. No man and woman would, probably. But let me observe
 
 that all histories are against you—all stories, prose and verse. If I
 
-had such a memory as Benwick, I could bring you fifty quotations in a
+had such a [[Memory|memory]] as Benwick, I could bring you fifty quotations in a
 
 moment on my side the argument, and I do not think I ever opened a book
 
 in my life which had not something to say upon woman’s inconstancy.
 
-Songs and proverbs, all talk of woman’s fickleness. But perhaps you
+[[songs|Songs]] and proverbs, all talk of woman’s fickleness. But perhaps you
 
 will say, these were all written by men.”
 
@@ -194,7 +194,7 @@ will say, these were all written by men.”
 
 books. Men have had every advantage of us in telling their own story.
 
-Education has been theirs in so much higher a degree; the pen has been
+[[Education]] has been theirs in so much higher a degree; the pen has been
 
 in their hands. I will not allow books to prove anything.”
 
@@ -232,4 +232,4 @@ in, as long as it is in sight, and then turns away and says, ‘God knows
 
 whether we ever meet again!’ And then, if I could convey to you the
 
-glow of his soul when he does see them again; when, coming back after a
+glow of his [[Soul|soul]] when he does see them again; when, coming back after a

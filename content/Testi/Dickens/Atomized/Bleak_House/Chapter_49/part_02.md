@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 49 (part 2)"
+title: "Bleak [[house|House]] — Chapter 49 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -20,10 +20,10 @@ the devil out.”
 “There’s something in that,” his wife assents; “but so it is,
 Lignum.”
 
-Further conversation is prevented, for the time, by the necessity
+Further conversation is prevented, for the [[Time|time]], by the necessity
 under which Mr. Bagnet finds himself of directing the whole force of
 his mind to the dinner, which is a little endangered by the dry
-humour of the fowls in not yielding any gravy, and also by the made
+[[Humour|humour]] of the fowls in not yielding any gravy, and also by the made
 gravy acquiring no flavour and turning out of a flaxen complexion.
 With a similar perverseness, the potatoes crumble off forks in the
 process of peeling, upheaving from their centres in every direction,
@@ -33,9 +33,9 @@ these disadvantages to the best of his ability, Mr. Bagnet at last
 dishes and they sit down at table, Mrs. Bagnet occupying the guest’s
 place at his right hand.
 
-It is well for the old girl that she has but one birthday in a year,
+It is [[Well|well]] for the old girl that she has but one birthday in a year,
 for two such indulgences in poultry might be injurious. Every kind of
-finer tendon and ligament that is in the nature of poultry to possess
+finer tendon and ligament that is in the [[Nature|nature]] of poultry to possess
 is developed in these specimens in the singular form of
 guitar-strings. Their limbs appear to have struck roots into their
 breasts and bodies, as aged trees strike roots into the earth. Their
@@ -54,12 +54,12 @@ The old girl has another trial to undergo after the conclusion of the
 repast in sitting in state to see the room cleared, the hearth swept,
 and the dinner-service washed up and polished in the backyard. The
 great delight and energy with which the two young ladies apply
-themselves to these duties, turning up their skirts in imitation of
+themselves to these duties, turning up their skirts in [[Imitation|imitation]] of
 their mother and skating in and out on little scaffolds of pattens,
 inspire the highest hopes for the future, but some anxiety for the
 present. The same causes lead to confusion of tongues, a clattering
 of crockery, a rattling of tin mugs, a whisking of brooms, and an
-expenditure of water, all in excess, while the saturation of the
+expenditure of [[Water|water]], all in excess, while the saturation of the
 young ladies themselves is almost too moving a spectacle for Mrs.
 Bagnet to look upon with the calmness proper to her position. At last
 the various cleansing processes are triumphantly completed; Quebec
@@ -68,9 +68,9 @@ and something to drink are placed upon the table; and the old girl
 enjoys the first peace of mind she ever knows on the day of this
 delightful entertainment.
 
-When Mr. Bagnet takes his usual seat, the hands of the clock are very
+When Mr. Bagnet takes his usual seat, the hands of the [[Clock|clock]] are very
 near to half-past four; as they mark it accurately, Mr. Bagnet
-announces, “George! Military time.”
+announces, “George! Military [[Time|time]].”
 
 It is George, and he has hearty congratulations for the old girl
 (whom he kisses on the great occasion), and for the children, and for
@@ -88,7 +88,7 @@ don’t he, Lignum?”
 
 “I didn’t know I looked white,” says the trooper, passing his hand
 over his brow, “and I didn’t know I looked shocked, and I’m sorry I
-do. But the truth is, that boy who was taken in at my place died
+do. But the [[Truth|truth]] is, that boy who was taken in at my place died
 yesterday afternoon, and it has rather knocked me over.”
 
 “Poor creetur!” says Mrs. Bagnet with a mother’s pity. “Is he gone?
@@ -112,7 +112,7 @@ leapings and clappings by the young family, and with a species of
 reverential admiration by Mr. Bagnet. “Old girl,” says Mr. Bagnet.
 “Tell him my opinion of it.”
 
-“Why, it’s a wonder, George!” Mrs. Bagnet exclaims. “It’s the
+“Why, it’s a [[Wonder|wonder]], George!” Mrs. Bagnet exclaims. “It’s the
 beautifullest thing that ever was seen!”
 
 “Good!” says Mr. Bagnet. “My opinion.”

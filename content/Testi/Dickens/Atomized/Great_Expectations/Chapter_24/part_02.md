@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 24 (part 2)"
+title: "[[Great Expectations]] — Chapter 24 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -20,10 +20,10 @@ led me into my guardian’s room, and said, “This you’ve seen already.”
 “Pray,” said I, as the two odious casts with the twitchy leer upon them
 caught my sight again, “whose likenesses are those?”
 
-“These?” said Wemmick, getting upon a chair, and blowing the dust off
+“These?” said Wemmick, getting upon a chair, and blowing the [[Dust|dust]] off
 the horrible heads before bringing them down. “These are two celebrated
 ones. Famous clients of ours that got us a world of credit. This chap
-(why you must have come down in the night and been peeping into the
+(why you must have come down in the [[Night|night]] and been peeping into the
 inkstand, to get this blot upon your eyebrow, you old rascal!) murdered
 his master, and, considering that he wasn’t brought up to evidence,
 didn’t plan it badly.”
@@ -52,10 +52,10 @@ pocket-handkerchief.
 same look.”
 
 “You’re right,” said Wemmick; “it’s the genuine look. Much as if one
-nostril was caught up with a horse-hair and a little fish-hook. Yes, he
+nostril was caught up with a [[Horse|horse]]-hair and a little fish-hook. Yes, he
 came to the same end; quite the natural end here, I assure you. He
 forged wills, this blade did, if he didn’t also put the supposed
-testators to sleep too. You were a gentlemanly Cove, though” (Mr.
+testators to [[Sleep|sleep]] too. You were a gentlemanly Cove, though” (Mr.
 Wemmick was again apostrophising), “and you said you could write Greek.
 Yah, Bounceable! What a liar you were! I never met such a liar as you!”
 Before putting his late friend on his shelf again, Wemmick touched the
@@ -78,11 +78,11 @@ your brilliant lookout, but as to myself, my guiding-star always is,
 When I had rendered homage to this light, he went on to say, in a
 friendly manner:—
 
-“If at any odd time when you have nothing better to do, you wouldn’t
+“If at any odd [[Time|time]] when you have nothing better to do, you wouldn’t
 mind coming over to see me at Walworth, I could offer you a bed, and I
-should consider it an honour. I have not much to show you; but such two
+should consider it an [[Honour|honour]]. I have not much to show you; but such two
 or three curiosities as I have got you might like to look over; and I
-am fond of a bit of garden and a summer-house.”
+am fond of a bit of [[Garden|garden]] and a [[Summer|summer]]-[[house]].”
 
 I said I should be delighted to accept his hospitality.
 
@@ -91,13 +91,13 @@ convenient to you. Have you dined with Mr. Jaggers yet?”
 
 “Not yet.”
 
-“Well,” said Wemmick, “he’ll give you wine, and good wine. I’ll give
+“[[Well]],” said Wemmick, “he’ll give you wine, and good wine. I’ll give
 you punch, and not bad punch. And now I’ll tell you something. When you
 go to dine with Mr. Jaggers, look at his housekeeper.”
 
 “Shall I see something very uncommon?”
 
-“Well,” said Wemmick, “you’ll see a wild beast tamed. Not so very
+“[[Well]],” said Wemmick, “you’ll see a wild beast tamed. Not so very
 uncommon, you’ll tell me. I reply, that depends on the original
 wildness of the beast, and the amount of taming. It won’t lower your
 opinion of Mr. Jaggers’s powers. Keep your eye on it.”
@@ -108,11 +108,11 @@ would like to devote five minutes to seeing Mr. Jaggers “at it?”
 
 For several reasons, and not least because I didn’t clearly know what
 Mr. Jaggers would be found to be “at,” I replied in the affirmative. We
-dived into the City, and came up in a crowded police-court, where a
-blood-relation (in the murderous sense) of the deceased, with the
+dived into the [[City]], and came up in a crowded police-[[Court|court]], where a
+[[Blood|blood]]-relation (in the murderous sense) of the deceased, with the
 fanciful taste in brooches, was standing at the bar, uncomfortably
 chewing something; while my guardian had a woman under examination or
-cross-examination,—I don’t know which,—and was striking her, and the
+[[Cross|cross]]-examination,—I don’t know which,—and was striking her, and the
 bench, and everybody present, with awe. If anybody, of whatsoever
 degree, said a word that he didn’t approve of, he instantly required to
 have it “taken down.” If anybody wouldn’t make an admission, he said,

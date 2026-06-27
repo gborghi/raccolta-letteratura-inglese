@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 3 (part 2)"
+title: "[[Villette]] — Chapter 3 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“I see she will. Farewell, then. It is time to go.”
+“I see she will. Farewell, then. It is [[Time|time]] to go.”
 
 “_Now_?—just _now_?
 
@@ -33,7 +33,7 @@ through, in that brief interval of her infant life, emotions such as
 some never feel; it was in her constitution: she would have more of
 such instants if she lived. Nobody spoke. Mrs. Bretton, being a mother,
 shed a tear or two. Graham, who was writing, lifted up his eyes and
-gazed at her. I, Lucy Snowe, was calm.
+gazed at her. I, [[Lucy Snowe]], was calm.
 
 The little creature, thus left unharassed, did for herself what none
 other could do—contended with an intolerable feeling; and, ere long, in
@@ -70,7 +70,7 @@ my eye followed her.
 “There, then.”
 
 And she deposited the cup on the carpet, like a jailor putting a
-prisoner’s pitcher of water through his cell-door, and retreated.
+prisoner’s pitcher of [[Water|water]] through his cell-door, and retreated.
 Presently she returned.
 
 “What will you have besides tea—what to eat?”
@@ -88,7 +88,7 @@ She selected a portion of whatever was best on the table; and, ere
 long, came back with a whispered request for some marmalade, which was
 not there. Having got it, however, (for Mrs. Bretton refused the pair
 nothing), Graham was shortly after heard lauding her to the skies;
-promising that, when he had a house of his own, she should be his
+promising that, when he had a [[house]] of his own, she should be his
 housekeeper, and perhaps—if she showed any culinary genius—his cook;
 and, as she did not return, and I went to look after her, I found
 Graham and her breakfasting _tête-à-tête_—she standing at his elbow,
@@ -98,16 +98,16 @@ procured it as much on her own account as his. She constantly evinced
 these nice perceptions and delicate instincts.
 
 The league of acquaintanceship thus struck up was not hastily
-dissolved; on the contrary, it appeared that time and circumstances
+dissolved; on the contrary, it appeared that [[Time|time]] and circumstances
 served rather to cement than loosen it. Ill-assimilated as the two were
 in age, sex, pursuits, &c., they somehow found a great deal to say to
-each other. As to Paulina, I observed that her little character never
+each other. As to [[Paulina]], I observed that her little character never
 properly came out, except with young Bretton. As she got settled, and
-accustomed to the house, she proved tractable enough with Mrs. Bretton;
+accustomed to the [[house]], she proved tractable enough with Mrs. Bretton;
 but she would sit on a stool at that lady’s feet all day long, learning
 her task, or sewing, or drawing figures with a pencil on a slate, and
 never kindling once to originality, or showing a single gleam of the
-peculiarities of her nature. I ceased to watch her under such
+peculiarities of her [[Nature|nature]]. I ceased to watch her under such
 circumstances: she was not interesting. But the moment Graham’s knock
 sounded of an evening, a change occurred; she was instantly at the head
 of the staircase. Usually her welcome was a reprimand or a threat.
@@ -122,7 +122,7 @@ the rails of the banister; she could not look over them).
 
 “Polly!”
 
-“My dear boy!” (such was one of her terms for him, adopted in imitation
+“My dear boy!” (such was one of her terms for him, adopted in [[Imitation|imitation]]
 of his mother.)
 
 “I am fit to faint with fatigue,” declared Graham, leaning against the
@@ -135,9 +135,9 @@ up my books.”
 “Not at all, Polly—it is positive fact. I’m as weak as a rush. Come
 down.”
 
-“Your eyes are quiet like the cat’s, but you’ll spring.”
+“Your eyes are quiet like the cat’s, but you’ll [[spring]].”
 
-“Spring? Nothing of the kind: it isn’t in me. Come down.”
+“[[spring|Spring]]? Nothing of the kind: it isn’t in me. Come down.”
 
 “Perhaps I may—if you’ll promise not to touch—not to snatch me up, and
 not to whirl me round.”
@@ -155,12 +155,12 @@ and take your tea—I am sure you must want something.”
 
 It was sufficiently comical to observe her as she sat beside Graham,
 while he took that meal. In his absence she was a still personage, but
-with him the most officious, fidgety little body possible. I often
+with him the most officious, fidgety little [[Body|body]] possible. I often
 wished she would mind herself and be tranquil; but no—herself was
-forgotten in him: he could not be sufficiently well waited on, nor
+forgotten in him: he could not be sufficiently [[Well|well]] waited on, nor
 carefully enough looked after; he was more than the Grand Turk in her
 estimation. She would gradually assemble the various plates before him,
-and, when one would suppose all he could possibly desire was within his
+and, when one would suppose all he could possibly [[Desire|desire]] was within his
 reach, she would find out something else: “Ma’am,” she would whisper to
 Mrs. Bretton,—“perhaps your son would like a little cake—sweet cake,
 you know—there is some in there“ (pointing to the sideboard cupboard).

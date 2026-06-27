@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 34 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 34 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘I do not consider yours, my soul!’ exclaimed Mr. Mantalini.
+‘I do not consider yours, my [[Soul|soul]]!’ exclaimed Mr. Mantalini.
 
 ‘No,’ replied his wife.
 
@@ -40,8 +40,8 @@ Mr. Mantalini groaned slightly, and buttoned his trousers pocket.
 ‘I am obliged,’ continued Madame Mantalini, ‘since our late misfortunes,
 to pay Miss Knag a great deal of money for having her name in the
 business, and I really cannot afford to encourage him in all his
-wastefulness. As I have no doubt that he came straight here, Mr
-Nickleby, to convert the papers I have spoken of, into money, and as you
+wastefulness. As I have no [[Doubt|doubt]] that he came straight here, Mr
+Nickleby, to [[convert]] the papers I have spoken of, into money, and as you
 have assisted us very often before, and are very much connected with us
 in this kind of matters, I wish you to know the determination at which
 his conduct has compelled me to arrive.’
@@ -75,10 +75,10 @@ lady’s nerves. ‘But no. It is a demd horrid dream. It is not reality.
 No!’
 
 Comforting himself with this assurance, Mr. Mantalini closed his eyes and
-waited patiently till such time as he should wake up.
+waited patiently till such [[Time|time]] as he should wake up.
 
 ‘A very judicious arrangement,’ observed Ralph with a sneer, ‘if your
-husband will keep within it, ma’am--as no doubt he will.’
+husband will keep within it, ma’am--as no [[Doubt|doubt]] he will.’
 
 ‘Demmit!’ exclaimed Mr. Mantalini, opening his eyes at the sound of
 Ralph’s voice, ‘it is a horrid reality. She is sitting there before me.
@@ -90,18 +90,18 @@ that I cannot be angry with her, even now?’
 ‘You have brought it upon yourself, Alfred,’ returned Madame
 Mantalini--still reproachfully, but in a softened tone.
 
-‘I am a demd villain!’ cried Mr. Mantalini, smiting himself on the head.
+‘I am a demd [[Villain|villain]]!’ cried Mr. Mantalini, smiting himself on the head.
 ‘I will fill my pockets with change for a sovereign in halfpence and
 drown myself in the Thames; but I will not be angry with her, even then,
 for I will put a note in the twopenny-post as I go along, to tell her
-where the body is. She will be a lovely widow. I shall be a body. Some
+where the [[Body|body]] is. She will be a lovely widow. I shall be a [[Body|body]]. Some
 handsome women will cry; she will laugh demnebly.’
 
 ‘Alfred, you cruel, cruel creature,’ said Madame Mantalini, sobbing at
 the dreadful picture.
 
 ‘She calls me cruel--me--me--who for her sake will become a demd, damp,
-moist, unpleasant body!’ exclaimed Mr. Mantalini.
+moist, unpleasant [[Body|body]]!’ exclaimed Mr. Mantalini.
 
 ‘You know it almost breaks my heart, even to hear you talk of such a
 thing,’ replied Madame Mantalini.
@@ -115,24 +115,24 @@ captivater, and can I live to be suspected by her? Demmit, no I can’t.’
 reasoned Madame Mantalini.
 
 ‘I don’t want any sum,’ replied her disconsolate husband; ‘I shall
-require no demd allowance. I will be a body.’
+require no demd allowance. I will be a [[Body|body]].’
 
 On this repetition of Mr. Mantalini’s fatal threat, Madame Mantalini
-wrung her hands, and implored the interference of Ralph Nickleby; and
-after a great quantity of tears and talking, and several attempts on
+wrung her hands, and implored the interference of [[Ralph Nickleby]]; and
+after a great quantity of [[Tears|tears]] and talking, and several attempts on
 the part of Mr. Mantalini to reach the door, preparatory to straightway
 committing violence upon himself, that gentleman was prevailed upon,
-with difficulty, to promise that he wouldn’t be a body. This great point
+with difficulty, to promise that he wouldn’t be a [[Body|body]]. This great point
 attained, Madame Mantalini argued the question of the allowance, and Mr
 Mantalini did the same, taking occasion to show that he could live with
-uncommon satisfaction upon bread and water, and go clad in rags, but
+uncommon satisfaction upon bread and [[Water|water]], and go clad in rags, but
 that he could not support existence with the additional burden of
 being mistrusted by the object of his most devoted and disinterested
-affection. This brought fresh tears into Madame Mantalini’s eyes, which
+affection. This brought fresh [[Tears|tears]] into Madame Mantalini’s eyes, which
 having just begun to open to some few of the demerits of Mr. Mantalini,
 were only open a very little way, and could be easily closed again. The
 result was, that without quite giving up the allowance question, Madame
 Mantalini, postponed its further consideration; and Ralph saw, clearly
 enough, that Mr. Mantalini had gained a fresh lease of his easy life, and
-that, for some time longer at all events, his degradation and downfall
+that, for some [[Time|time]] longer at all events, his degradation and downfall
 were postponed.

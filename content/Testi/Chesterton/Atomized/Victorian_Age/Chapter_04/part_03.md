@@ -16,7 +16,7 @@ tags:
 
 republican enthusiasm was also much more alive. If their scepticism was
 
-cold, and their faith even colder, their practical politics were wildly
+cold, and their [[Faith|faith]] even colder, their practical politics were wildly
 
 idealistic; and if they doubted the kingdom of heaven, they were
 
@@ -36,21 +36,21 @@ The modern world, in fact, had fallen between two stools. It had fallen
 
 between that austere old three-legged stool which was the tripod of the
 
-cold priestess of Apollo; and that other mystical and mediæval stool
+cold priestess of [[Apollo]]; and that other mystical and mediæval stool
 
-that may well be called the Stool of Repentance. It kept neither of the
+that may [[Well|well]] be called the Stool of Repentance. It kept neither of the
 
 two values as intensely valuable. It could not believe in the bonds that
 
 bound men; but, then, neither could it believe in the men they bound. It
 
-was always restrained in its hatred of slavery by a half remembrance of
+was always restrained in its hatred of [[Slavery|slavery]] by a half remembrance of
 
-its yet greater hatred of liberty. They were almost alone, I think, in
+its yet greater hatred of liberty. They were almost [[Alone|alone]], I think, in
 
 thus carrying to its extreme the negative attitude already noted in Miss
 
-Arabella Allen. Anselm would have despised a civic crown, but he would
+Arabella Allen. Anselm would have despised a civic [[Crown|crown]], but he would
 
 not have despised a relic. Voltaire would have despised a relic; but he
 
@@ -60,9 +60,9 @@ we come to the age of Oscar Wilde.
 
 
 
-These years that followed on that double disillusionment were like one
+These years that followed on that [[Double|double]] [[Disillusionment|disillusionment]] were like one
 
-long afternoon in a rich house on a rainy day. It was not merely that
+long afternoon in a rich [[house]] on a rainy day. It was not merely that
 
 everybody believed that nothing would happen; it was also that everybody
 
@@ -72,11 +72,11 @@ It was in this stale atmosphere that a few flickers of the old
 
 Swinburnian flame survived; and were called Art. The great men of the
 
-older artistic movement did not live in this time; rather they lived
+older artistic movement did not live in this [[Time|time]]; rather they lived
 
-through it. But this time did produce an interregnum of art that had a
+through it. But this [[Time|time]] did produce an interregnum of art that had a
 
-truth of its own; though that truth was near to being only a consistent
+[[Truth|truth]] of its own; though that [[Truth|truth]] was near to being only a consistent
 
 lie.
 
@@ -100,7 +100,7 @@ Wilde is also connected with real intellectual influences, largely
 
 negative, indeed, but subtle and influential. The mark in most of the
 
-arts of this time was a certain quality which those who like it would
+arts of this [[Time|time]] was a certain quality which those who like it would
 
 call "uniqueness of aspect," and those who do not like it "not quite
 
@@ -110,7 +110,7 @@ its mark was that the _smallest_ change of standpoint made it unmeaning
 
 and unthinkable--a foolish joke. A beggar painted by Rembrandt is as
 
-solid as a statue, however roughly he is sketched in; the soul can walk
+solid as a statue, however roughly he is sketched in; the [[Soul|soul]] can walk
 
 all round him like a public monument. We see he would have other
 
@@ -124,7 +124,7 @@ masterpiece it is a man. But a nocturne by Whistler of mist on the
 
 Thames is either a masterpiece or it is nothing; it is either a nocturne
 
-or a nightmare of childish nonsense. Made in a certain mood, viewed
+or a [[nightmare]] of childish nonsense. Made in a certain mood, viewed
 
 through a certain temperament, conceived under certain conventions, it
 
@@ -132,7 +132,7 @@ may be, it often is, an unreplaceable poem, a vision that may never be
 
 seen again. But the moment it ceases to be a splendid picture it ceases
 
-to be a picture at all. Or, again, if _Hamlet_ is not a great tragedy it
+to be a picture at all. Or, again, if _Hamlet_ is not a great [[Tragedy|tragedy]] it
 
 is an uncommonly good tale. The people and the posture of affairs would
 
@@ -140,11 +140,11 @@ still be there even if one thought that Shakespeare's moral attitude was
 
 wrong. Just as one could imagine all the other sides of Rembrandt's
 
-beggar, so, with the mind's eye (Horatio), one can see all four sides of
+beggar, so, with the mind's eye ([[Horatio]]), one can see all four sides of
 
-the castle of Elsinore. One might tell the tale from the point of view
+the [[Castle|castle]] of Elsinore. One might tell the tale from the point of view
 
-of Laërtes or Claudius or Polonius or the gravedigger; and it would
+of Laërtes or [[Claudius]] or [[Polonius]] or the gravedigger; and it would
 
 still be a good tale and the same tale. But if we take a play like
 
@@ -156,11 +156,11 @@ we cannot grasp anything whatever. Except from one extreme poetic point
 
 of view, the thing is not a play; it is not a bad play, it is a mass of
 
-clotted nonsense. One whole act describes the lovers going to look for a
+clotted nonsense. One whole act describes the [[lovers]] going to look for a
 
-ring in a distant cave when they both know they have dropped it down a
+ring in a distant [[Cave|cave]] when they both know they have dropped it down a
 
-well. Seen from some secret window on some special side of the soul's
+[[Well|well]]. Seen from some secret [[Window|window]] on some special side of the [[Soul|soul]]'s
 
 turret, this might convey a sense of faerie futility in our human life.
 
@@ -168,13 +168,13 @@ But it is quite obvious that unless it called forth that one kind of
 
 sympathy, it would call forth nothing but laughter and rotten eggs. In
 
-the same play the husband chases his wife with a drawn sword, the wife
+the same play the husband chases his wife with a drawn [[Sword|sword]], the wife
 
 remarking at intervals "I am not gay." Now there may really be an idea
 
 in this; the idea of human misfortune coming most cruelly upon the
 
-optimism of innocence; that the lonely human heart says, like a child at
+optimism of [[innocence]]; that the lonely human heart says, like a [[Child|child]] at
 
 a party, "I am not enjoying myself as I thought I should." But it is
 
@@ -192,6 +192,6 @@ narrow.
 
 This is the spirit of Wilde's work and of most of the literary work done
 
-in that time and fashion. It is, as Mr. Arthur Symons said, an attitude;
+in that [[Time|time]] and fashion. It is, as Mr. [[Arthur]] Symons said, an attitude;
 
 but it is an attitude in the flat, not in the round; not a statue, but

@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 9 (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 9 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,23 +14,23 @@ tags:
 </nav>
 
 
-As to Todgers’s itself--speaking of it only as a house in that
+As to Todgers’s itself--speaking of it only as a [[house]] in that
 neighbourhood, and making no reference to its merits as a commercial
 boarding establishment--it was worthy to stand where it did. There was
-one staircase-window in it, at the side of the house, on the ground
+one staircase-[[Window|window]] in it, at the side of the [[house]], on the ground
 floor; which tradition said had not been opened for a hundred years at
 least, and which, abutting on an always dirty lane, was so begrimed and
 coated with a century’s mud, that no one pane of glass could possibly
 fall out, though all were cracked and broken twenty times. But the grand
 mystery of Todgers’s was the cellarage, approachable only by a little
-back door and a rusty grating; which cellarage within the memory of man
-had had no connection with the house, but had always been the freehold
+back door and a rusty grating; which cellarage within the [[Memory|memory]] of man
+had had no connection with the [[house]], but had always been the freehold
 property of somebody else, and was reported to be full of wealth; though
 in what shape--whether in silver, brass, or gold, or butts of wine,
 or casks of gun-powder--was matter of profound uncertainty and supreme
 indifference to Todgers’s and all its inmates.
 
-The top of the house was worthy of notice. There was a sort of terrace
+The top of the [[house]] was worthy of notice. There was a sort of terrace
 on the roof, with posts and fragments of rotten lines, once intended to
 dry clothes upon; and there were two or three tea-chests out there,
 full of earth, with forgotten plants in them, like old walking-sticks.
@@ -38,11 +38,11 @@ Whoever climbed to this observatory, was stunned at first from having
 knocked his head against the little door in coming out; and after that,
 was for the moment choked from having looked perforce, straight down the
 kitchen chimney; but these two stages over, there were things to gaze
-at from the top of Todgers’s, well worth your seeing too. For first
-and foremost, if the day were bright, you observed upon the house-tops,
-stretching far away, a long dark path; the shadow of the Monument; and
+at from the top of Todgers’s, [[Well|well]] worth your seeing too. For first
+and foremost, if the day were bright, you observed upon the [[house]]-tops,
+stretching far away, a long dark path; the [[Shadow|shadow]] of the Monument; and
 turning round, the tall original was close beside you, with every hair
-erect upon his golden head, as if the doings of the city frightened him.
+erect upon his golden head, as if the doings of the [[City|city]] frightened him.
 Then there were steeples, towers, belfries, shining vanes, and masts of
 ships; a very forest. Gables, housetops, garret-windows, wilderness upon
 wilderness. Smoke and noise enough for all the world at once.
@@ -55,7 +55,7 @@ seemed to be turning gravely to each other every now and then, and
 whispering the result of their separate observation of what was going
 on below. Others, of a crook-backed shape, appeared to be maliciously
 holding themselves askew, that they might shut the prospect out and
-baffle Todgers’s. The man who was mending a pen at an upper window over
+baffle Todgers’s. The man who was [[mending]] a pen at an upper [[Window|window]] over
 the way, became of paramount importance in the scene, and made a blank
 in it, ridiculously disproportionate in its extent, when he retired. The
 gambols of a piece of cloth upon the dyer’s pole had far more interest
@@ -71,14 +71,14 @@ head-foremost.
 So said the two Miss Pecksniffs, when they retired with Mrs Todgers from
 this place of espial, leaving the youthful porter to close the door
 and follow them downstairs; who, being of a playful temperament, and
-contemplating with a delight peculiar to his sex and time of life, any
+contemplating with a delight peculiar to his sex and [[Time|time]] of life, any
 chance of dashing himself into small fragments, lingered behind to walk
 upon the parapet.
 
-It being the second day of their stay in London, the Miss Pecksniffs
-and Mrs Todgers were by this time highly confidential, insomuch that the
+It being the second day of their stay in [[London]], the Miss Pecksniffs
+and Mrs Todgers were by this [[Time|time]] highly confidential, insomuch that the
 last-named lady had already communicated the particulars of three early
-disappointments of a tender nature; and had furthermore possessed her
+disappointments of a tender [[Nature|nature]]; and had furthermore possessed her
 young friends with a general summary of the life, conduct, and character
 of Mr Todgers. Who, it seemed, had cut his matrimonial career rather
 short, by unlawfully running away from his happiness, and establishing
@@ -95,28 +95,28 @@ dreamy shadowing forth of her own visage.
 ‘It’s a speaking likeness!’ cried the two Miss Pecksniffs.
 
 ‘It was considered so once,’ said Mrs Todgers, warming herself in a
-gentlemanly manner at the fire; ‘but I hardly thought you would have
+gentlemanly manner at the [[Fire|fire]]; ‘but I hardly thought you would have
 known it, my loves.’
 
 They would have known it anywhere. If they could have met with it in
-the street, or seen it in a shop window, they would have cried ‘Good
+the street, or seen it in a shop [[Window|window]], they would have cried ‘Good
 gracious! Mrs Todgers!’
 
 ‘Presiding over an establishment like this, makes sad havoc with the
-features, my dear Miss Pecksniffs,’ said Mrs Todgers. ‘The gravy alone,
+features, my dear Miss Pecksniffs,’ said Mrs Todgers. ‘The gravy [[Alone|alone]],
 is enough to add twenty years to one’s age, I do assure you.’
 
 ‘Lor’!’ cried the two Miss Pecksniffs.
 
 ‘The anxiety of that one item, my dears,’ said Mrs Todgers, ‘keeps the
 mind continually upon the stretch. There is no such passion in human
-nature, as the passion for gravy among commercial gentlemen. It’s
+[[Nature|nature]], as the passion for gravy among commercial gentlemen. It’s
 nothing to say a joint won’t yield--a whole animal wouldn’t yield--the
 amount of gravy they expect each day at dinner. And what I have
 undergone in consequence,’ cried Mrs Todgers, raising her eyes and
 shaking her head, ‘no one would believe!’
 
-‘Just like Mr Pinch, Merry!’ said Charity. ‘We have always noticed it in
+‘Just like Mr Pinch, Merry!’ said [[Charity]]. ‘We have always noticed it in
 him, you remember?’
 
 ‘Yes, my dear,’ giggled Merry, ‘but we have never given it him, you

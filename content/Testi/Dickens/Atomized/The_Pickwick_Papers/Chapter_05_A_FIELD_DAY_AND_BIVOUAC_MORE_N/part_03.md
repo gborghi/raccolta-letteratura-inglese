@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 3)"
+title: "The [[Pickwick]] Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-Mr. Pickwick, we say, was completely exhausted, and about to give up the
-chase, when the hat was blown with some violence against the wheel of a
+Mr. [[Pickwick]], we say, was completely exhausted, and about to give up the
+chase, when the hat was blown with some violence against the [[Wheel|wheel]] of a
 carriage, which was drawn up in a line with half a dozen other vehicles
-on the spot to which his steps had been directed. Mr. Pickwick,
+on the spot to which his steps had been directed. Mr. [[Pickwick]],
 perceiving his advantage, darted briskly forward, secured his property,
 planted it on his head, and paused to take breath. He had not been
 stationary half a minute, when he heard his own name eagerly pronounced
@@ -38,16 +38,16 @@ contemplative mind associations connected with cold fowls, tongues, and
 bottles of wine--and on the box sat a fat and red-faced boy, in a state
 of somnolency, whom no speculative observer could have regarded for an
 instant without setting down as the official dispenser of the contents
-of the before-mentioned hamper, when the proper time for their
+of the before-mentioned hamper, when the proper [[Time|time]] for their
 consumption should arrive.
 
-Mr. Pickwick had bestowed a hasty glance on these interesting objects,
+Mr. [[Pickwick]] had bestowed a hasty glance on these interesting objects,
 when he was again greeted by his faithful disciple.
 
-‘Pickwick--Pickwick,’ said Mr. Tupman; ‘come up here. Make haste.’
+‘[[Pickwick]]--[[Pickwick]],’ said Mr. Tupman; ‘come up here. Make haste.’
 
 ‘Come along, Sir. Pray, come up,’ said the stout gentleman. ‘Joe!--damn
-that boy, he’s gone to sleep again.--Joe, let down the steps.’ The fat
+that boy, he’s gone to [[Sleep|sleep]] again.--Joe, let down the steps.’ The fat
 boy rolled slowly off the box, let down the steps, and held the carriage
 door invitingly open. Mr. Snodgrass and Mr. Winkle came up at the
 moment.
@@ -55,27 +55,27 @@ moment.
 ‘Room for you all, gentlemen,’ said the stout man. ‘Two inside, and one
 out. Joe, make room for one of these gentlemen on the box. Now, Sir,
 come along;’ and the stout gentleman extended his arm, and pulled first
-Mr. Pickwick, and then Mr. Snodgrass, into the barouche by main force.
+Mr. [[Pickwick]], and then Mr. Snodgrass, into the barouche by main force.
 Mr. Winkle mounted to the box, the fat boy waddled to the same perch,
 and fell fast asleep instantly.
 
-‘Well, gentlemen,’ said the stout man, ‘very glad to see you. Know you
-very well, gentlemen, though you mayn’t remember me. I spent some
-ev’nin’s at your club last winter--picked up my friend Mr. Tupman here
-this morning, and very glad I was to see him. Well, Sir, and how are
-you? You do look uncommon well, to be sure.’
+‘[[Well]], gentlemen,’ said the stout man, ‘very glad to see you. Know you
+very [[Well|well]], gentlemen, though you mayn’t remember me. I spent some
+ev’nin’s at your club last [[Winter|winter]]--picked up my friend Mr. Tupman here
+this morning, and very glad I was to see him. [[Well]], Sir, and how are
+you? You do look uncommon [[Well|well]], to be sure.’
 
-Mr. Pickwick acknowledged the compliment, and cordially shook hands with
+Mr. [[Pickwick]] acknowledged the compliment, and cordially shook hands with
 the stout gentleman in the top-boots.
 
-‘Well, and how are you, sir?’ said the stout gentleman, addressing Mr.
-Snodgrass with paternal anxiety. ‘Charming, eh? Well, that’s right--
-that’s right. And how are you, sir (to Mr. Winkle)? Well, I am glad to
-hear you say you are well; very glad I am, to be sure. My daughters,
+‘[[Well]], and how are you, sir?’ said the stout gentleman, addressing Mr.
+Snodgrass with paternal anxiety. ‘Charming, eh? [[Well]], that’s right--
+that’s right. And how are you, sir (to Mr. Winkle)? [[Well]], I am glad to
+hear you say you are [[Well|well]]; very glad I am, to be sure. My daughters,
 gentlemen--my gals these are; and that’s my sister, Miss Rachael Wardle.
 She’s a Miss, she is; and yet she ain’t a Miss--eh, Sir, eh?’ And the
 stout gentleman playfully inserted his elbow between the ribs of Mr.
-Pickwick, and laughed very heartily.
+[[Pickwick]], and laughed very heartily.
 
 ‘Lor, brother!’ said Miss Wardle, with a deprecating smile.
 
@@ -83,7 +83,7 @@ Pickwick, and laughed very heartily.
 I beg your pardon; this is my friend Mr. Trundle. And now you all know
 each other, let’s be comfortable and happy, and see what’s going
 forward; that’s what I say.’ So the stout gentleman put on his
-spectacles, and Mr. Pickwick pulled out his glass, and everybody stood
+spectacles, and Mr. [[Pickwick]] pulled out his glass, and everybody stood
 up in the carriage, and looked over somebody else’s shoulder at the
 evolutions of the military.
 
@@ -107,7 +107,7 @@ slept as soundly as if the roaring of cannon were his ordinary lullaby.
 
 ‘Joe, Joe!’ said the stout gentleman, when the citadel was taken, and
 the besiegers and besieged sat down to dinner. ‘Damn that boy, he’s gone
-to sleep again. Be good enough to pinch him, sir--in the leg, if you
+to [[Sleep|sleep]] again. Be good enough to pinch him, sir--in the leg, if you
 please; nothing else wakes him--thank you. Undo the hamper, Joe.’
 
 The fat boy, who had been effectually roused by the compression of a

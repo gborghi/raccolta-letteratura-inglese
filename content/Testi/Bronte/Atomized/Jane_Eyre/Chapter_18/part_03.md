@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 18 (part 3)"
+title: "[[Jane Eyre]] — Chapter 18 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -17,7 +17,7 @@ tags:
 Because, when she failed, I saw how she might have succeeded. Arrows
 that continually glanced off from Mr. Rochester’s breast and fell
 harmless at his feet, might, I knew, if shot by a surer hand, have
-quivered keen in his proud heart—have called love into his stern eye,
+quivered keen in his proud heart—have called [[Love|love]] into his stern eye,
 and softness into his sardonic face; or, better still, without weapons
 a silent conquest might have been won.
 
@@ -42,19 +42,19 @@ I have not yet said anything condemnatory of Mr. Rochester’s project of
 marrying for interest and connections. It surprised me when I first
 discovered that such was his intention: I had thought him a man
 unlikely to be influenced by motives so commonplace in his choice of a
-wife; but the longer I considered the position, education, &c., of the
+wife; but the longer I considered the position, [[Education|education]], &c., of the
 parties, the less I felt justified in judging and blaming either him or
 Miss Ingram for acting in conformity to ideas and principles instilled
-into them, doubtless, from their childhood. All their class held these
+into them, doubtless, from their [[Childhood|childhood]]. All their class held these
 principles: I supposed, then, they had reasons for holding them such as
 I could not fathom. It seemed to me that, were I a gentleman like him,
-I would take to my bosom only such a wife as I could love; but the very
+I would take to my bosom only such a wife as I could [[Love|love]]; but the very
 obviousness of the advantages to the husband’s own happiness offered by
 this plan convinced me that there must be arguments against its general
 adoption of which I was quite ignorant: otherwise I felt sure all the
 world would act as I wished to act.
 
-But in other points, as well as this, I was growing very lenient to my
+But in other points, as [[Well|well]] as this, I was growing very lenient to my
 master: I was forgetting all his faults, for which I had once kept a
 sharp look-out. It had formerly been my endeavour to study all sides of
 his character: to take the bad with the good; and from the just
@@ -66,13 +66,13 @@ as for the vague something—was it a sinister or a sorrowful, a
 designing or a desponding expression?—that opened upon a careful
 observer, now and then, in his eye, and closed again before one could
 fathom the strange depth partially disclosed; that something which used
-to make me fear and shrink, as if I had been wandering amongst
+to make me [[Fear|fear]] and shrink, as if I had been wandering amongst
 volcanic-looking hills, and had suddenly felt the ground quiver and
 seen it gape: that something, I, at intervals, beheld still; and with
 throbbing heart, but not with palsied nerves. Instead of wishing to
 shun, I longed only to dare—to divine it; and I thought Miss Ingram
 happy, because one day she might look into the abyss at her leisure,
-explore its secrets and analyse their nature.
+explore its [[Secrets|secrets]] and analyse their [[Nature|nature]].
 
 Meantime, while I thought only of my master and his future bride—saw
 only them, heard only their discourse, and considered only their
@@ -90,7 +90,7 @@ to and with one of the Messrs. Lynn; and Mary Ingram listened languidly
 to the gallant speeches of the other. Sometimes all, as with one
 consent, suspended their by-play to observe and listen to the principal
 actors: for, after all, Mr. Rochester and—because closely connected
-with him—Miss Ingram were the life and soul of the party. If he was
+with him—Miss Ingram were the life and [[Soul|soul]] of the party. If he was
 absent from the room an hour, a perceptible dulness seemed to steal
 over the spirits of his guests; and his re-entrance was sure to give a
 fresh impulse to the vivacity of conversation.
@@ -106,7 +106,7 @@ sought solace in a quiet game at cards. Blanche Ingram, after having
 repelled, by supercilious taciturnity, some efforts of Mrs. Dent and
 Mrs. Eshton to draw her into conversation, had first murmured over some
 sentimental tunes and airs on the piano, and then, having fetched a
-novel from the library, had flung herself in haughty listlessness on a
+[[Novel|novel]] from the library, had flung herself in haughty listlessness on a
 sofa, and prepared to beguile, by the spell of fiction, the tedious
-hours of absence. The room and the house were silent: only now and then
+hours of absence. The room and the [[house]] were silent: only now and then
 the merriment of the billiard-players was heard from above.

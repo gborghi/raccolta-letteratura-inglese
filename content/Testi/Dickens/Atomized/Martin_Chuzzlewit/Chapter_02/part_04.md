@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 2 (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 2 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,35 +16,35 @@ tags:
 
 ‘Which,’ cried Mr Pecksniff after a pause, during which he seemed to
 have been casting about for a new moral, and not quite successfully,
-‘which is also very soothing. Mercy, my dear, stir the fire and throw up
+‘which is also very soothing. [[Mercy]], my dear, stir the [[Fire|fire]] and throw up
 the cinders.’
 
 The young lady obeyed, and having done so, resumed her stool, reposed
 one arm upon her father’s knee, and laid her blooming cheek upon
-it. Miss Charity drew her chair nearer the fire, as one prepared for
+it. Miss [[Charity]] drew her chair nearer the [[Fire|fire]], as one prepared for
 conversation, and looked towards her father.
 
 ‘Yes,’ said Mr Pecksniff, after a short pause, during which he had been
-silently smiling, and shaking his head at the fire--‘I have again been
+silently smiling, and shaking his head at the [[Fire|fire]]--‘I have again been
 fortunate in the attainment of my object. A new inmate will very shortly
 come among us.’
 
-‘A youth, papa?’ asked Charity.
+‘A youth, papa?’ asked [[Charity]].
 
 ‘Ye-es, a youth,’ said Mr Pecksniff. ‘He will avail himself of the
 eligible opportunity which now offers, for uniting the advantages of the
-best practical architectural education with the comforts of a home, and
+best practical architectural [[Education|education]] with the comforts of a [[Home|home]], and
 the constant association with some who (however humble their sphere,
 and limited their capacity) are not unmindful of their moral
 responsibilities.’
 
-‘Oh Pa!’ cried Mercy, holding up her finger archly. ‘See advertisement!’
+‘Oh Pa!’ cried [[Mercy]], holding up her finger archly. ‘See advertisement!’
 
 ‘Playful--playful warbler,’ said Mr Pecksniff. It may be observed in
 connection with his calling his daughter a ‘warbler,’ that she was not
 at all vocal, but that Mr Pecksniff was in the frequent habit of using
 any word that occurred to him as having a good sound, and rounding a
-sentence well without much care for its meaning. And he did this so
+sentence [[Well|well]] without much care for its meaning. And he did this so
 boldly, and in such an imposing manner, that he would sometimes stagger
 the wisest people with his eloquence, and make them gasp again.
 
@@ -53,28 +53,28 @@ and forms was the master-key to Mr Pecksniff’s character.
 
 ‘Is he handsome, Pa?’ inquired the younger daughter.
 
-‘Silly Merry!’ said the eldest: Merry being fond for Mercy. ‘What is the
+‘Silly Merry!’ said the eldest: Merry being fond for [[Mercy]]. ‘What is the
 premium, Pa? tell us that.’
 
-‘Oh, good gracious, Cherry!’ cried Miss Mercy, holding up her hands with
+‘Oh, good gracious, Cherry!’ cried Miss [[Mercy]], holding up her hands with
 the most winning giggle in the world, ‘what a mercenary girl you are! oh
 you naughty, thoughtful, prudent thing!’
 
-It was perfectly charming, and worthy of the Pastoral age, to see how
+It was perfectly charming, and worthy of the [[Pastoral]] age, to see how
 the two Miss Pecksniffs slapped each other after this, and then subsided
 into an embrace expressive of their different dispositions.
 
-‘He is well looking,’ said Mr Pecksniff, slowly and distinctly; ‘well
+‘He is [[Well|well]] looking,’ said Mr Pecksniff, slowly and distinctly; ‘[[Well|well]]
 looking enough. I do not positively expect any immediate premium with
 him.’
 
-Notwithstanding their different natures, both Charity and Mercy
+Notwithstanding their different natures, both [[Charity]] and [[Mercy]]
 concurred in opening their eyes uncommonly wide at this announcement,
 and in looking for the moment as blank as if their thoughts had actually
 had a direct bearing on the main chance.
 
-‘But what of that!’ said Mr Pecksniff, still smiling at the fire. ‘There
-is disinterestedness in the world, I hope? We are not all arrayed in two
+‘But what of that!’ said Mr Pecksniff, still smiling at the [[Fire|fire]]. ‘There
+is disinterestedness in the world, I [[Hope|hope]]? We are not all arrayed in two
 opposite ranks; the OFfensive and the DEfensive. Some few there are
 who walk between; who help the needy as they go; and take no part with
 either side. Umph!’
@@ -84,12 +84,12 @@ sisters. They exchanged glances, and brightened very much.
 
 ‘Oh! let us not be for ever calculating, devising, and plotting for the
 future,’ said Mr Pecksniff, smiling more and more, and looking at the
-fire as a man might, who was cracking a joke with it: ‘I am weary of
+[[Fire|fire]] as a man might, who was cracking a joke with it: ‘I am weary of
 such arts. If our inclinations are but good and open-hearted, let us
 gratify them boldly, though they bring upon us Loss instead of Profit.
-Eh, Charity?’
+Eh, [[Charity]]?’
 
-Glancing towards his daughters for the first time since he had begun
+Glancing towards his daughters for the first [[Time|time]] since he had begun
 these reflections, and seeing that they both smiled, Mr Pecksniff eyed
 them for an instant so jocosely (though still with a kind of saintly
 waggishness) that the younger one was moved to sit upon his knee
@@ -102,20 +102,20 @@ joined.
 his fingers through his hair, as he resumed his tranquil face. ‘What
 folly is this! Let us take heed how we laugh without reason lest we cry
 with it. What is the domestic news since yesterday? John Westlock is
-gone, I hope?’
+gone, I [[Hope|hope]]?’
 
-‘Indeed, no,’ said Charity.
+‘Indeed, no,’ said [[Charity]].
 
 ‘And why not?’ returned her father. ‘His term expired yesterday. And his
 box was packed, I know; for I saw it, in the morning, standing in the
 hall.’
 
-‘He slept last night at the Dragon,’ returned the young lady, ‘and had
+‘He slept last [[Night|night]] at the Dragon,’ returned the young lady, ‘and had
 Mr Pinch to dine with him. They spent the evening together, and Mr Pinch
-was not home till very late.’
+was not [[Home|home]] till very late.’
 
-‘And when I saw him on the stairs this morning, Pa,’ said Mercy with her
-usual sprightliness, ‘he looked, oh goodness, SUCH a monster! with his
+‘And when I saw him on the stairs this morning, Pa,’ said [[Mercy]] with her
+usual sprightliness, ‘he looked, oh goodness, SUCH a [[Monster|monster]]! with his
 face all manner of colours, and his eyes as dull as if they had been
 boiled, and his head aching dreadfully, I am sure from the look of
 it, and his clothes smelling, oh it’s impossible to say how strong,
@@ -130,20 +130,20 @@ in Mr Pinch. I am not quite sure that this was kind in Mr Pinch. I will
 go further and say, I am not quite sure that this was even ordinarily
 grateful in Mr Pinch.’
 
-‘But what can anyone expect from Mr Pinch!’ cried Charity, with as
+‘But what can anyone expect from Mr Pinch!’ cried [[Charity]], with as
 strong and scornful an emphasis on the name as if it would have given
 her unspeakable pleasure to express it, in an acted charade, on the calf
 of that gentleman’s leg.
 
 ‘Aye, aye,’ returned her father, raising his hand mildly: ‘it is
-very well to say what can we expect from Mr Pinch, but Mr Pinch is
+very [[Well|well]] to say what can we expect from Mr Pinch, but Mr Pinch is
 a fellow-creature, my dear; Mr Pinch is an item in the vast total of
-humanity, my love; and we have a right, it is our duty, to expect in
+humanity, my [[Love|love]]; and we have a right, it is our duty, to expect in
 Mr Pinch some development of those better qualities, the possession
-of which in our own persons inspires our humble self-respect. No,’
+of which in our own persons inspires our humble [[Self|self]]-respect. No,’
 continued Mr Pecksniff. ‘No! Heaven forbid that I should say, nothing
 can be expected from Mr Pinch; or that I should say, nothing can be
 expected from any man alive (even the most degraded, which Mr Pinch is
 not, no, really); but Mr Pinch has disappointed me; he has hurt me;
 I think a little the worse of him on this account, but not if human
-nature. Oh, no, no!’
+[[Nature|nature]]. Oh, no, no!’

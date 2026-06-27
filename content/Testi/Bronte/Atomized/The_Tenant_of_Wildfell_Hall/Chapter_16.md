@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 16"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 16"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -26,9 +26,9 @@ returned some days ago, and I am not yet settled, and feel as if I
 
 never should be. We left town sooner than was intended, in consequence
 
-of my uncle’s indisposition;—I wonder what would have been the result
+of my uncle’s indisposition;—I [[Wonder|wonder]] what would have been the result
 
-if we had stayed the full time. I am quite ashamed of my new-sprung
+if we had stayed the full [[Time|time]]. I am quite ashamed of my new-sprung
 
 distaste for country life. All my former occupations seem so tedious
 
@@ -44,23 +44,23 @@ haunted with the recollections of the last few weeks, that I cannot
 
 attend to them. My drawing suits me best, for I can draw and think at
 
-the same time; and if my productions cannot now be seen by any one but
+the same [[Time|time]]; and if my productions cannot now be seen by any one but
 
 myself, and those who do not care about them, they, possibly, may be,
 
 hereafter. But, then, there is one face I am always trying to paint or
 
-to sketch, and always without success; and that vexes me. As for the
+to [[Sketch|sketch]], and always without [[success]]; and that vexes me. As for the
 
 owner of that face, I cannot get him out of my mind—and, indeed, I
 
-never try. I wonder whether he ever thinks of me; and I wonder whether
+never try. I [[Wonder|wonder]] whether he ever thinks of me; and I [[Wonder|wonder]] whether
 
 I shall ever see him again. And then might follow a train of other
 
-wonderments—questions for time and fate to answer—concluding
+wonderments—questions for [[Time|time]] and fate to answer—concluding
 
-with—Supposing all the rest be answered in the affirmative, I wonder
+with—Supposing all the rest be answered in the affirmative, I [[Wonder|wonder]]
 
 whether I shall ever repent it? as my aunt would tell me I should, if
 
@@ -70,15 +70,15 @@ she knew what I was thinking about.
 
 How distinctly I remember our conversation that evening before our
 
-departure for town, when we were sitting together over the fire, my
+departure for town, when we were sitting together over the [[Fire|fire]], my
 
 uncle having gone to bed with a slight attack of the gout.
 
 
 
-“Helen,” said she, after a thoughtful silence, “do you ever think about
+“[[Helen]],” said she, after a thoughtful [[Silence|silence]], “do you ever think about
 
-marriage?”
+[[Marriage|marriage]]?”
 
 
 
@@ -110,7 +110,7 @@ he may not happen to be single, or to take a fancy to me.”
 
 
 
-“That is no argument at all. It may be very true—and I hope is true,
+“That is no argument at all. It may be very true—and I [[Hope|hope]] is true,
 
 that there are very few men whom you would choose to marry, of
 
@@ -126,7 +126,7 @@ is aware of, and often against her better judgment, and in opposition
 
 to all her preconceived ideas of what she could have loved, unless she
 
-be extremely careful and discreet. Now, I want to warn you, Helen, of
+be extremely careful and discreet. Now, I want to warn you, [[Helen]], of
 
 these things, and to exhort you to be watchful and circumspect from the
 
@@ -136,25 +136,25 @@ stolen from you by the first foolish or unprincipled person that covets
 
 the possession of it.—You know, my dear, you are only just eighteen;
 
-there is plenty of time before you, and neither your uncle nor I are in
+there is plenty of [[Time|time]] before you, and neither your uncle nor I are in
 
 any hurry to get you off our hands, and I may venture to say, there
 
 will be no lack of suitors; for you can boast a good family, a pretty
 
-considerable fortune and expectations, and, I may as well tell you
+considerable fortune and expectations, and, I may as [[Well|well]] tell you
 
 likewise—for, if I don’t, others will—that you have a fair share of
 
-beauty besides—and I hope you may never have cause to regret it!”
+[[Beauty|beauty]] besides—and I [[Hope|hope]] you may never have cause to regret it!”
 
 
 
-“I hope not, aunt; but why should you fear it?”
+“I [[Hope|hope]] not, aunt; but why should you [[Fear|fear]] it?”
 
 
 
-“Because, my dear, beauty is that quality which, next to money, is
+“Because, my dear, [[Beauty|beauty]] is that quality which, next to money, is
 
 generally the most attractive to the worst kinds of men; and,
 
@@ -168,7 +168,7 @@ possessor.”
 
 
 
-“No, Helen,” said she, with reproachful gravity, “but I know many that
+“No, [[Helen]],” said she, with reproachful gravity, “but I know many that
 
 have; and some, through carelessness, have been the wretched victims of
 
@@ -178,11 +178,11 @@ temptations terrible to relate.”
 
 
 
-“Well, I shall be neither careless nor weak.”
+“[[Well]], I shall be neither careless nor weak.”
 
 
 
-“Remember Peter, Helen! Don’t boast, but _watch_. Keep a guard over
+“Remember Peter, [[Helen]]! Don’t boast, but _watch_. Keep a guard over
 
 your eyes and ears as the inlets of your heart, and over your lips as
 
@@ -192,9 +192,9 @@ coldly and dispassionately, every attention, till you have ascertained
 
 and duly considered the worth of the aspirant; and let your affections
 
-be consequent upon approbation alone. First study; then approve; then
+be consequent upon approbation [[Alone|alone]]. First study; then approve; then
 
-love. Let your eyes be blind to all external attractions, your ears
+[[Love|love]]. Let your eyes be blind to all external attractions, your ears
 
 deaf to all the fascinations of flattery and light discourse.—These are
 
@@ -210,7 +210,7 @@ superficially agreeable man in the world, you little know the misery
 
 that would overwhelm you if, after all, you should find him to be a
 
-worthless reprobate, or even an impracticable fool.”
+worthless reprobate, or even an impracticable [[Fool|fool]].”
 
 
 
@@ -220,11 +220,11 @@ everybody followed your advice, the world would soon come to an end.”
 
 
 
-“Never fear, my dear! the male fools and reprobates will never want for
+“Never [[Fear|fear]], my dear! the male fools and reprobates will never want for
 
 partners, while there are so many of the other sex to match them; but
 
-do _you_ follow my advice. And this is no subject for jesting, Helen—I
+do _you_ follow my advice. And this is no subject for jesting, [[Helen]]—I
 
 am sorry to see you treat the matter in that light way. Believe me,
 
@@ -236,9 +236,9 @@ more impertinent questions, and merely answered,—
 
 
 
-“I know it is; and I know there is truth and sense in what you say; but
+“I know it is; and I know there is [[Truth|truth]] and sense in what you say; but
 
-you need not fear me, for I not only should think it _wrong_ to marry a
+you need not [[Fear|fear]] me, for I not only should think it _wrong_ to marry a
 
 man that was deficient in sense or in principle, but I should never be
 
@@ -246,19 +246,19 @@ _tempted_ to do it; for I could not like him, if he were ever so
 
 handsome, and ever so charming, in other respects; I should hate
 
-him—despise him—pity him—anything but love him. My affections not only
+him—despise him—pity him—anything but [[Love|love]] him. My affections not only
 
 _ought_ to be founded on approbation, but they will and must be so:
 
-for, without approving, I cannot love. It is needless to say, I ought
+for, without approving, I cannot [[Love|love]]. It is needless to say, I ought
 
-to be able to respect and honour the man I marry, as _well_ as love
+to be able to respect and [[Honour|honour]] the man I marry, as _well_ as [[Love|love]]
 
-him, for I cannot love him without. So set your mind at rest.”
+him, for I cannot [[Love|love]] him without. So set your mind at rest.”
 
 
 
-“I hope it may be so,” answered she.
+“I [[Hope|hope]] it may be so,” answered she.
 
 
 
@@ -266,15 +266,15 @@ him, for I cannot love him without. So set your mind at rest.”
 
 
 
-“You have not been tried yet, Helen—we can but hope,” said she in her
+“You have not been tried yet, [[Helen]]—we can but [[Hope|hope]],” said she in her
 
 cold, cautious way.
 
 
 
-“I was vexed at her incredulity; but I am not sure her doubts were
+“I was vexed at her [[Incredulity|incredulity]]; but I am not sure her doubts were
 
-entirely without sagacity; I fear I have found it much easier to
+entirely without sagacity; I [[Fear|fear]] I have found it much easier to
 
 remember her advice than to profit by it;—indeed, I have sometimes been
 
@@ -284,7 +284,7 @@ counsels may be good, as far as they go—in the main points at
 
 least;—but there are some things she has overlooked in her
 
-calculations. I wonder if _she_ was ever in love.
+calculations. I [[Wonder|wonder]] if _she_ was ever in [[Love|love]].
 
 
 
@@ -294,11 +294,11 @@ it—kindling with bright hopes and fancies—chiefly raised by this
 
 conversation—and full of confidence in my own discretion. At first, I
 
-was delighted with the novelty and excitement of our London life; but
+was delighted with the novelty and excitement of our [[London]] life; but
 
 soon I began to weary of its mingled turbulence and constraint, and
 
-sigh for the freshness and freedom of home. My new acquaintances, both
+sigh for the freshness and [[Freedom|freedom]] of [[Home|home]]. My new acquaintances, both
 
 male and female, disappointed my expectations, and vexed and depressed
 
@@ -314,11 +314,11 @@ artificial. The gentlemen seemed better, but, perhaps, it was because I
 
 knew them less—perhaps, because they flattered me; but I did not fall
 
-in love with any of them; and, if their attentions pleased me one
+in [[Love|love]] with any of them; and, if their attentions pleased me one
 
-moment, they provoked me the next, because they put me out of humour
+moment, they provoked me the next, because they put me out of [[Humour|humour]]
 
-with myself, by revealing my vanity and making me fear I was becoming
+with myself, by revealing my [[Vanity|vanity]] and making me [[Fear|fear]] I was becoming
 
 like some of the ladies I so heartily despised.
 
@@ -364,27 +364,27 @@ agreeable society.
 
 
 
-One night, however, at a ball, he had been more than usually
+One [[Night|night]], however, at a ball, he had been more than usually
 
 tormenting, and my patience was quite exhausted. It appeared as if the
 
-whole evening was fated to be insupportable: I had just had one dance
+whole evening was fated to be insupportable: I had just had one [[Dance|dance]]
 
 with an empty-headed coxcomb, and then Mr. Boarham had come upon me and
 
-seemed determined to cling to me for the rest of the night. He never
+seemed determined to cling to me for the rest of the [[Night|night]]. He never
 
 danced himself, and there he sat, poking his head in my face, and
 
 impressing all beholders with the idea that he was a confirmed,
 
-acknowledged lover; my aunt looking complacently on all the time, and
+acknowledged [[Lover|lover]]; my aunt looking complacently on all the [[Time|time]], and
 
-wishing him God-speed. In vain I attempted to drive him away by giving
+wishing him God-[[Speed|speed]]. In vain I attempted to drive him away by giving
 
 a loose to my exasperated feelings, even to positive rudeness: nothing
 
-could convince him that his presence was disagreeable. Sullen silence
+could convince him that his presence was disagreeable. Sullen [[Silence|silence]]
 
 was taken for rapt attention, and gave him greater room to talk; sharp
 
@@ -404,13 +404,13 @@ But there was one present who seemed to have a better appreciation of
 
 my frame of mind. A gentleman stood by, who had been watching our
 
-conference for some time, evidently much amused at my companion’s
+conference for some [[Time|time]], evidently much amused at my companion’s
 
 remorseless pertinacity and my manifest annoyance, and laughing to
 
 himself at the asperity and uncompromising spirit of my replies. At
 
-length, however, he withdrew, and went to the lady of the house,
+length, however, he withdrew, and went to the lady of the [[house]],
 
 apparently for the purpose of asking an introduction to me, for,
 
@@ -418,7 +418,7 @@ shortly after, they both came up, and she introduced him as Mr.
 
 Huntingdon, the son of a late friend of my uncle’s. He asked me to
 
-dance. I gladly consented, of course; and he was my companion during
+[[Dance|dance]]. I gladly consented, of course; and he was my companion during
 
 the remainder of my stay, which was not long, for my aunt, as usual,
 
@@ -430,7 +430,7 @@ I was sorry to go, for I had found my new acquaintance a very lively
 
 and entertaining companion. There was a certain graceful ease and
 
-freedom about all he said and did, that gave a sense of repose and
+[[Freedom|freedom]] about all he said and did, that gave a sense of repose and
 
 expansion to the mind, after so much constraint and formality as I had
 
@@ -438,13 +438,13 @@ been doomed to suffer. There might be, it is true, a little too much
 
 careless boldness in his manner and address, but I was in so good a
 
-humour, and so grateful for my late deliverance from Mr. Boarham, that
+[[Humour|humour]], and so grateful for my late deliverance from Mr. Boarham, that
 
 it did not anger me.
 
 
 
-“Well, Helen, how do you like Mr. Boarham now?” said my aunt, as we
+“[[Well]], [[Helen]], how do you like Mr. Boarham now?” said my aunt, as we
 
 took our seats in the carriage and drove away.
 
@@ -516,11 +516,11 @@ blue eyes.”
 
 
 
-“False reasoning, Helen!” said she, with a sigh.
+“False reasoning, [[Helen]]!” said she, with a sigh.
 
 
 
-“Well, we ought to be charitable, you know, aunt—besides, I don’t think
+“[[Well]], we ought to be charitable, you know, aunt—besides, I don’t think
 
 it _is_ false: I am an excellent physiognomist, and I always judge of
 
@@ -536,7 +536,7 @@ worthless old reprobate; and by Mr. Boarham’s, that he was not an
 
 agreeable companion; and by Mr. Huntingdon’s, that he was neither a
 
-fool nor a knave, though, possibly, neither a sage nor a saint—but that
+[[Fool|fool]] nor a knave, though, possibly, neither a sage nor a saint—but that
 
 is no matter to me, as I am not likely to meet him again—unless as an
 
@@ -550,9 +550,9 @@ call upon my uncle, apologising for not having done so before, by
 
 saying he was only lately returned from the Continent, and had not
 
-heard, till the previous night, of my uncle’s arrival in town; and
+heard, till the previous [[Night|night]], of my uncle’s arrival in town; and
 
-after that I often met him; sometimes in public, sometimes at home; for
+after that I often met him; sometimes in public, sometimes at [[Home|home]]; for
 
 he was very assiduous in paying his respects to his old friend, who did
 
@@ -560,9 +560,9 @@ not, however, consider himself greatly obliged by the attention.
 
 
 
-“I wonder what the deuce the lad means by coming so often,” he would
+“I [[Wonder|wonder]] what the deuce the lad means by coming so often,” he would
 
-say,—“can _you_ tell, Helen?—Hey? He wants none o’ my company, nor I
+say,—“can _you_ tell, [[Helen]]?—Hey? He wants none o’ my company, nor I
 
 his—that’s certain.”
 
@@ -576,13 +576,13 @@ his—that’s certain.”
 
 me). “Besides, he’s a pretty tidy fortune, Peggy, you know—not such a
 
-catch as Wilmot; but then Helen won’t hear of that match: for, somehow,
+catch as Wilmot; but then [[Helen]] won’t hear of that match: for, somehow,
 
 these old chaps don’t go down with the girls—with _all_ their money,
 
 and their experience to boot. I’ll bet anything she’d rather have this
 
-young fellow without a penny, than Wilmot with his house full of gold.
+young fellow without a penny, than Wilmot with his [[house]] full of gold.
 
 Wouldn’t you, Nell?”
 
@@ -606,7 +606,7 @@ Huntingdon—eh?”
 
 “Ah! it needs consideration, then? But come, now—would you rather be an
 
-old maid—let alone the pauper?”
+old maid—let [[Alone|alone]] the pauper?”
 
 
 
@@ -616,11 +616,11 @@ old maid—let alone the pauper?”
 
 And I left the room immediately, to escape further examination. But
 
-five minutes after, in looking from my window, I beheld Mr. Boarham
+five minutes after, in looking from my [[Window|window]], I beheld Mr. Boarham
 
 coming up to the door. I waited nearly half-an-hour in uncomfortable
 
-suspense, expecting every minute to be called, and vainly longing to
+suspense, expecting every minute to be called, and vainly [[Longing|longing]] to
 
 hear him go. Then footsteps were heard on the stairs, and my aunt
 
@@ -630,7 +630,7 @@ her.
 
 
 
-“Here is Mr. Boarham, Helen,” said she. “He wishes to see you.”
+“Here is Mr. Boarham, [[Helen]],” said she. “He wishes to see you.”
 
 
 
@@ -642,17 +642,17 @@ _him_.”
 
 “Nonsense, my dear! this is no trifling matter. He is come on a very
 
-important errand—to ask your hand in marriage of your uncle and me.”
+important errand—to ask your hand in [[Marriage|marriage]] of your uncle and me.”
 
 
 
-“I hope my uncle and you told him it was not in your power to give it.
+“I [[Hope|hope]] my uncle and you told him it was not in your power to give it.
 
 What right had he to ask _any_ one before me?”
 
 
 
-“Helen!”
+“[[Helen]]!”
 
 
 
@@ -682,7 +682,7 @@ please yourself.”
 
 “It is no matter what I said. What will _you_ say?—that is the
 
-question. He is now waiting to ask you himself; but consider well
+question. He is now waiting to ask you himself; but consider [[Well|well]]
 
 before you go; and if you intend to refuse him, give me your reasons.”
 
@@ -696,9 +696,9 @@ my reasons afterwards.”
 
 
 
-“But stay, Helen; sit down a little and compose yourself. Mr. Boarham
+“But stay, [[Helen]]; sit down a little and compose yourself. Mr. Boarham
 
-is in no particular hurry, for he has little doubt of your acceptance;
+is in no particular hurry, for he has little [[Doubt|doubt]] of your acceptance;
 
 and I want to speak with you. Tell me, my dear, what are your
 
@@ -718,7 +718,7 @@ objections to him? Do you deny that he is an upright, honourable man?”
 
 
 
-“_But_ Helen! How many such men do you expect to meet with in the
+“_But_ [[Helen]]! How many such men do you expect to meet with in the
 
 world? Upright, honourable, sensible, sober, respectable! Is _this_
 
@@ -748,13 +748,13 @@ eloquence.
 
 
 
-“Hate him, Helen! Is this a Christian spirit?—_you hate him?_ and he so
+“Hate him, [[Helen]]! Is this a Christian spirit?—_you hate him?_ and he so
 
 good a man!”
 
 
 
-“I don’t hate him as a man, but as a husband. As a man, I love him so
+“I don’t hate him as a man, but as a husband. As a man, I [[Love|love]] him so
 
 much that I wish him a better wife than I—one as good as himself, or
 
@@ -794,7 +794,7 @@ the better man.”
 
 
 
-“I have no doubt Mr. Huntingdon is a much better man than you think
+“I have no [[Doubt|doubt]] Mr. Huntingdon is a much better man than you think
 
 him; but we are not talking about him now, but about Mr. Boarham; and
 
@@ -818,11 +818,11 @@ present—”
 
 
 
-“Or that you desire a further acquaintance.”
+“Or that you [[Desire|desire]] a further acquaintance.”
 
 
 
-“But I don’t desire a further acquaintance—quite the contrary.”
+“But I don’t [[Desire|desire]] a further acquaintance—quite the contrary.”
 
 
 
@@ -844,7 +844,7 @@ complacency, “I have your kind guardian’s permission—”
 
 possible, “and I am greatly obliged for your preference, but must beg
 
-to decline the honour you wish to confer, for I think we were not made
+to decline the [[Honour|honour]] you wish to confer, for I think we were not made
 
 for each other, as you yourself would shortly discover if the
 
@@ -852,7 +852,7 @@ experiment were tried.”
 
 
 
-My aunt was right. It was quite evident he had had little doubt of my
+My aunt was right. It was quite evident he had had little [[Doubt|doubt]] of my
 
 acceptance, and no idea of a positive denial. He was amazed, astounded
 
@@ -868,13 +868,13 @@ in years, in temperament, and perhaps some other things; but let me
 
 assure you, I shall not be severe to mark the faults and foibles of a
 
-young and ardent nature such as yours, and while I acknowledge them to
+young and ardent [[Nature|nature]] such as yours, and while I acknowledge them to
 
 myself, and even rebuke them with all a father’s care, believe me, no
 
-youthful lover could be more tenderly indulgent towards the object of
+youthful [[Lover|lover]] could be more tenderly indulgent towards the object of
 
-his affections than I to you; and, on the other hand, let me hope that
+his affections than I to you; and, on the other hand, let me [[Hope|hope]] that
 
 my more experienced years and graver habits of reflection will be no
 
@@ -902,11 +902,11 @@ were not made for each other.”
 
 “But you don’t know me—you wish for a further acquaintance—a longer
 
-time to—”
+[[Time|time]] to—”
 
 
 
-“No, I don’t. I know you as well as I ever shall, and better than you
+“No, I don’t. I know you as [[Well|well]] as I ever shall, and better than you
 
 know me, or you would never dream of uniting yourself to one so
 
@@ -936,23 +936,23 @@ sure, will—”
 
 in such important matters, I take the liberty of judging for myself;
 
-and no persuasion can alter my inclinations, or induce me to believe
+and no [[Persuasion|persuasion]] can alter my inclinations, or induce me to believe
 
 that such a step would be conducive to my happiness or yours—and I
 
-wonder that a man of your experience and discretion should think of
+[[Wonder|wonder]] that a man of your experience and discretion should think of
 
 choosing such a wife.”
 
 
 
-“Ah, well!” said he, “I have sometimes wondered at that myself. I have
+“Ah, [[Well|well]]!” said he, “I have sometimes wondered at that myself. I have
 
 sometimes said to myself, ‘Now Boarham, what is this you’re after? Take
 
 care, man—look before you leap! This is a sweet, bewitching creature,
 
-but remember, the brightest attractions to the lover too often prove
+but remember, the brightest attractions to the [[Lover|lover]] too often prove
 
 the husband’s greatest torments!’ I assure you my choice has not been
 
@@ -960,7 +960,7 @@ made without much reasoning and reflection. The seeming imprudence of
 
 the match has cost me many an anxious thought by day, and many a
 
-sleepless hour by night; but at length I satisfied myself that it was
+sleepless hour by [[Night|night]]; but at length I satisfied myself that it was
 
 not, in very deed, imprudent. I saw my sweet girl was not without her
 
@@ -982,13 +982,13 @@ _I_ am satisfied, why should _you_ object—on my account, at least?”
 
 
 
-“But to tell you the truth, Mr. Boarham, it is on my own account I
+“But to tell you the [[Truth|truth]], Mr. Boarham, it is on my own account I
 
 principally object; so let us—drop the subject,” I would have said,
 
 “for it is worse than useless to pursue it any further,” but he
 
-pertinaciously interrupted me with,—“But why so? I would love you,
+pertinaciously interrupted me with,—“But why so? I would [[Love|love]] you,
 
 cherish you, protect you,” &c., &c.
 
@@ -1000,7 +1000,7 @@ Suffice it to say, that I found him very troublesome, and very hard to
 
 convince that I really meant what I said, and really _was_ so obstinate
 
-and blind to my own interests, that there was no shadow of a chance
+and blind to my own interests, that there was no [[Shadow|shadow]] of a chance
 
 that either he or my aunt would ever be able to overcome my objections.
 
@@ -1018,7 +1018,7 @@ induce me to marry against my inclinations. I respect you—at least, I
 
 would respect you, if you would behave like a sensible man—but I cannot
 
-love you, and never could—and the more you talk the further you repel
+[[Love|love]] you, and never could—and the more you talk the further you repel
 
 me; so pray don’t say any more about it.”
 
@@ -1026,4 +1026,4 @@ me; so pray don’t say any more about it.”
 
 Whereupon he wished me a good-morning, and withdrew, disconcerted and
 
-offended, no doubt; but surely it was not my fault.
+offended, no [[Doubt|doubt]]; but surely it was not my fault.

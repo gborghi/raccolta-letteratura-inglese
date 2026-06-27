@@ -15,19 +15,19 @@ tags:
 
 
 “Good Heaven!” said Uncle Sol, starting back against his favourite
-compass-case. “It can’t be! Well, I—”
+compass-case. “It can’t be! [[Well]], I—”
 
 “No, nor anybody else,” said Walter, anticipating the rest. “Nobody
 would, nobody could, you know. Here! just help me lift the little sofa
-near the fire, will you, Uncle Sol—take care of the plates—cut some
+near the [[Fire|fire]], will you, Uncle Sol—take care of the plates—cut some
 dinner for her, will you, Uncle—throw those shoes under the grate. Miss
 Florence—put your feet on the fender to dry—how damp they are—here’s an
-adventure, Uncle, eh?—God bless my soul, how hot I am!”
+adventure, Uncle, eh?—God bless my [[Soul|soul]], how hot I am!”
 
-Solomon Gills was quite as hot, by sympathy, and in excessive
+[[Solomon Gills]] was quite as hot, by sympathy, and in excessive
 bewilderment. He patted Florence’s head, pressed her to eat, pressed
 her to drink, rubbed the soles of her feet with his pocket-handkerchief
-heated at the fire, followed his locomotive nephew with his eyes, and
+heated at the [[Fire|fire]], followed his locomotive nephew with his eyes, and
 ears, and had no clear perception of anything except that he was being
 constantly knocked against and tumbled over by that excited young
 gentleman, as he darted about the room attempting to accomplish twenty
@@ -47,12 +47,12 @@ parlour, “it’s the most extraordinary—”
 “Yes, yes, yes,” cried Solomon, cutting instantly into a leg of mutton,
 as if he were catering for a giant. “I’ll take care of her, Wally! I
 understand. Pretty dear! Famished, of course. You go and get ready.
-Lord bless me! Sir Richard Whittington thrice Lord Mayor of London.”
+Lord bless me! Sir [[Richard]] Whittington thrice [[Lord Mayor]] of [[London]].”
 
 Walter was not very long in mounting to his lofty garret and descending
 from it, but in the meantime Florence, overcome by fatigue, had sunk
-into a doze before the fire. The short interval of quiet, though only a
-few minutes in duration, enabled Solomon Gills so far to collect his
+into a doze before the [[Fire|fire]]. The short interval of quiet, though only a
+few minutes in duration, enabled [[Solomon Gills]] so far to collect his
 wits as to make some little arrangements for her comfort, and to darken
 the room, and to screen her from the blaze. Thus, when the boy
 returned, she was sleeping peacefully.
@@ -62,7 +62,7 @@ squeezed a new expression into his face. “Now I’m off. I’ll just take a
 crust of bread with me, for I’m very hungry—and don’t wake her, Uncle
 Sol.”
 
-“No, no,” said Solomon. “Pretty child.”
+“No, no,” said Solomon. “Pretty [[Child|child]].”
 
 “Pretty, indeed!” cried Walter. “I never saw such a face, Uncle Sol.
 Now I’m off.”
@@ -79,7 +79,7 @@ Now I’m off.”
 
 “That’s famous! now I’m off.”
 
-“I hope you are,” said Solomon to himself.
+“I [[Hope|hope]] you are,” said Solomon to himself.
 
 “I say, Uncle Sol,” cried Walter, reappearing at the door.
 
@@ -88,24 +88,24 @@ Now I’m off.”
 “We met Mr Carker the Junior in the street, queerer than ever. He bade
 me good-bye, but came behind us here—there’s an odd thing!—for when we
 reached the shop door, I looked round, and saw him going quietly away,
-like a servant who had seen me home, or a faithful dog. How does she
+like a servant who had seen me [[Home|home]], or a faithful dog. How does she
 look now, Uncle?”
 
 “Pretty much the same as before, Wally,” replied Uncle Sol.
 
 “That’s right. Now I am off!”
 
-And this time he really was: and Solomon Gills, with no appetite for
-dinner, sat on the opposite side of the fire, watching Florence in her
+And this [[Time|time]] he really was: and [[Solomon Gills]], with no appetite for
+dinner, sat on the opposite side of the [[Fire|fire]], watching Florence in her
 slumber, building a great many airy castles of the most fantastic
 architecture; and looking, in the dim shade, and in the close vicinity
 of all the instruments, like a magician disguised in a Welsh wig and a
-suit of coffee colour, who held the child in an enchanted sleep.
+suit of coffee colour, who held the [[Child|child]] in an enchanted [[Sleep|sleep]].
 
-In the meantime, Walter proceeded towards Mr Dombey’s house at a pace
-seldom achieved by a hack horse from the stand; and yet with his head
-out of window every two or three minutes, in impatient remonstrance
-with the driver. Arriving at his journey’s end, he leaped out, and
+In the meantime, Walter proceeded towards Mr Dombey’s [[house]] at a pace
+seldom achieved by a hack [[Horse|horse]] from the stand; and yet with his head
+out of [[Window|window]] every two or three minutes, in impatient remonstrance
+with the driver. Arriving at his [[Journey|journey]]’s end, he leaped out, and
 breathlessly announcing his errand to the servant, followed him
 straight into the library, we there was a great confusion of tongues,
 and where Mr Dombey, his sister, and Miss Tox, Richards, and Nipper,
@@ -131,22 +131,22 @@ least I don’t know that I can claim the merit of having exactly found
 her, Sir, but I was the fortunate instrument of—”
 
 “What do you mean, Sir,” interrupted Mr Dombey, regarding the boy’s
-evident pride and pleasure in his share of the transaction with an
+evident [[Pride|pride]] and pleasure in his share of the transaction with an
 instinctive dislike, “by not having exactly found my daughter, and by
 being a fortunate instrument? Be plain and coherent, if you please.”
 
 It was quite out of Walter’s power to be coherent; but he rendered
 himself as explanatory as he could, in his breathless state, and stated
-why he had come alone.
+why he had come [[Alone|alone]].
 
 “You hear this, girl?” said Mr Dombey sternly to the black-eyed. “Take
 what is necessary, and return immediately with this young man to fetch
-Miss Florence home. Gay, you will be rewarded to-morrow.”
+Miss Florence [[Home|home]]. Gay, you will be rewarded to-morrow.”
 
 “Oh! thank you, Sir,” said Walter. “You are very kind. I’m sure I was
 not thinking of any reward, Sir.”
 
 “You are a boy,” said Mr Dombey, suddenly and almost fiercely; “and
 what you think of, or affect to think of, is of little consequence. You
-have done well, Sir. Don’t undo it. Louisa, please to give the lad some
+have done [[Well|well]], Sir. Don’t undo it. Louisa, please to give the lad some
 wine.”

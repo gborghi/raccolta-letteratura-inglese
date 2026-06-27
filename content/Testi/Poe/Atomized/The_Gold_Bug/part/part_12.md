@@ -1,5 +1,5 @@
 ---
-title: "The Gold-Bug (part 12)"
+title: "[[The Gold-Bug]] (part 12)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Gold-Bug-(Poe)"
@@ -42,9 +42,9 @@ tags:
 
       times greater. Circumstances, and a certain bias of mind, have
 
-      led me to take interest in such riddles, and it may well be
+      led me to take interest in such riddles, and it may [[Well|well]] be
 
-      doubted whether human ingenuity can construct an enigma of the
+      doubted whether human ingenuity can construct [[An Enigma|an enigma]] of the
 
       kind which human ingenuity may not, by proper application,
 
@@ -98,7 +98,7 @@ tags:
 
       considered the solution as assured. But, there being no division,
 
-      my first step was to ascertain the predominant letters, as well
+      my first step was to ascertain the predominant letters, as [[Well|well]]
 
       as the least frequent. Counting all, I constructed a table, thus:
 
@@ -164,7 +164,7 @@ tags:
 
       frequency in English—in such words, for example, as ‘meet,’
 
-      ‘.fleet,’ ‘speed,’ ‘seen,’ been,’ ‘agree,’ &c. In the present
+      ‘.fleet,’ ‘[[Speed|speed]],’ ‘seen,’ been,’ ‘agree,’ &c. In the present
 
       instance we see it doubled no less than five times, although the
 
@@ -188,7 +188,7 @@ tags:
 
       therefore, assume that ; represents _t_, 4 represents _h_, and 8
 
-      represents _e_—the last being now well confirmed. Thus a great
+      represents _e_—the last being now [[Well|well]] confirmed. Thus a great
 
       step has been taken.
 

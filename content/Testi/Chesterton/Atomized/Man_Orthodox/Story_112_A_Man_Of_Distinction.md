@@ -16,20 +16,20 @@ tags:
 
 A MAN OF DISTINCTION
 
-It is obvious that there fell with Arthur Balfour one of the few
+It is obvious that there fell with [[arthur|Arthur]] Balfour one of the few
 remaining pillars of that old patriotic aristocracy which not only
 governed England but practically was England, so far as England
 was a personality dealing personally with other nations.
 It is one of the paradoxes, so typical of England, that many of the men
 who thus understood and summed up her policy came from Scotland.
 It has been said that it requires a surgical operation to get a joke
-into the head of a Scotsman.  I wonder no Scotsman has retorted,
+into the head of a Scotsman.  I [[Wonder|wonder]] no Scotsman has retorted,
 what would often be more correct, that it requires a surgical
 operation to get a serious idea into the head of an Englishman.
 When it happened, the operation was often performed by a Scotch surgeon.
-The English squire was an unconscious aristocrat; the Scotch laird
-was a conscious aristocrat; and Lord Balfour, with all his social
-grace and graciousness, was conscious and even self-conscious.
+The English squire was an unconscious [[aristocrat]]; the Scotch laird
+was a conscious [[aristocrat]]; and Lord Balfour, with all his social
+grace and graciousness, was conscious and even [[Self|self]]-conscious.
 But this was only another way of saying that he had a mind which
 mirrored everything, including himself and that, whatever else he did,
 he did not act blindly or in the dark.  He was sometimes quite wrong;
@@ -41,16 +41,16 @@ which represented him as a drooping aesthete or a broken lily.
 In some ways he seems to me to have been too good a Stoic to be
 entirely a good Christian; or rather (to put it more correctly)
 to feel, like the rest of us, that he was a bad Christian.
-But about his virtues, both public and private, there can be no doubt,
+But about his virtues, both public and private, there can be no [[Doubt|doubt]],
 for they contained great elements that stood out as rather unique
-in his time.  Courage, dignity, self-control, these were much more
+in his [[Time|time]].  [[Courage]], dignity, [[Self|self]]-control, these were much more
 the essentials of his character than the social elegance and suavity
 attributed to him by all his critics and some of his admirers.
 There was much more in him of the Scotch Puritan than of
 the English Cavalier.
 
 But he made one great contribution to modern politics which it
-will be well to understand because it was entirely misunderstood.
+will be [[Well|well]] to understand because it was entirely misunderstood.
 It is supremely characteristic of the present Parliamentary atmosphere
 that everybody accused Lord Balfour of incomprehensible compromise
 and vagueness because he was completely logical and absolutely clear.
@@ -80,7 +80,7 @@ as nationalizing the land, you will generally find that they are
 merely puzzled and suppose it to be some sort of mystification--
 because it is quite clear.  They cannot make out whether you are in
 favour of `Socialism and all that sort of thing'.  Lord Balfour once
-rent the murky sky of politics with one lightning-flash of lucidity
+rent the murky sky of politics with one [[Lightning|lightning]]-flash of lucidity
 by giving the exact economic definition of the collectivist idea,
 and then adding, `That is Socialism and nothing else is Socialism'.
 It was probably regarded as one of his Fine-spun evasions.
@@ -94,7 +94,7 @@ In these days when large-mindedness is supposed to consist
 of confusing everything with everything else, of saying that man
 is the same as woman and religion the same as irreligion,
 and the unnatural as good as the natural and all the rest of it,
-it is well to keep high in the mind the great power of distinction;
+it is [[Well|well]] to keep high in the mind the great power of distinction;
 by which man becomes in the true sense distinguished.
 
                                           G. K.'s Weekly, March 29th, 1930

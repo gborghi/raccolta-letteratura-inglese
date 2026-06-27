@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 25 (part 4)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 25 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-servants and his dogs, he is gentle and kind to me. What he would be,
+servants and his [[dogs]], he is gentle and kind to me. What he would be,
 
 if I did not so watchfully anticipate his wants, and so carefully
 
@@ -22,27 +22,27 @@ avoid, or immediately desist from doing anything that has a tendency to
 
 irritate or disturb him, with however little reason, I cannot tell. How
 
-intensely I wish he were worthy of all this care! Last night, as I sat
+intensely I wish he were worthy of all this care! Last [[Night|night]], as I sat
 
 beside him, with his head in my lap, passing my fingers through his
 
 beautiful curls, this thought made my eyes overflow with sorrowful
 
-tears—as it often does; but this time, a tear fell on his face and made
+[[Tears|tears]]—as it often does; but this [[Time|time]], a tear fell on his face and made
 
 him look up. He smiled, but not insultingly.
 
 
 
-“Dear Helen!” he said—“why do you cry? you know that I love you” (and
+“Dear [[Helen]]!” he said—“why do you cry? you know that I [[Love|love]] you” (and
 
 he pressed my hand to his feverish lips), “and what more could you
 
-desire?”
+[[Desire|desire]]?”
 
 
 
-“Only, Arthur, that you would love _yourself_ as truly and as
+“Only, [[arthur|Arthur]], that you would [[Love|love]] _yourself_ as truly and as
 
 faithfully as you are loved by me.”
 
@@ -52,11 +52,11 @@ faithfully as you are loved by me.”
 
 
 
-August 24th.—Arthur is himself again, as lusty and reckless, as light
+August 24th.—[[arthur|Arthur]] is himself again, as lusty and reckless, as light
 
 of heart and head as ever, and as restless and hard to amuse as a
 
-spoilt child, and almost as full of mischief too, especially when wet
+spoilt [[Child|child]], and almost as full of mischief too, especially when wet
 
 weather keeps him within doors. I wish he had something to do, some
 
@@ -100,19 +100,19 @@ been similarly occupied at this moment, instead of lying under the
 
 acacia-tree pulling poor Dash’s ears. But he says it is dull work
 
-shooting alone; he must have a friend or two to help him.
+shooting [[Alone|alone]]; he must have a friend or two to help him.
 
 
 
-“Let them be tolerably decent then, Arthur,” said I. The word “friend”
+“Let them be tolerably decent then, [[arthur|Arthur]],” said I. The word “friend”
 
 in his mouth makes me shudder: I know it was some of his “friends” that
 
-induced him to stay behind me in London, and kept him away so long:
+induced him to stay behind me in [[London]], and kept him away so long:
 
-indeed, from what he has unguardedly told me, or hinted from time to
+indeed, from what he has unguardedly told me, or hinted from [[Time|time]] to
 
-time, I cannot doubt that he frequently showed them my letters, to let
+[[Time|time]], I cannot [[Doubt|doubt]] that he frequently showed them my letters, to let
 
 them see how fondly his wife watched over his interests, and how keenly
 
@@ -120,7 +120,7 @@ she regretted his absence; and that they induced him to remain week
 
 after week, and to plunge into all manner of excesses, to avoid being
 
-laughed at for a wife-ridden fool, and, perhaps, to show how far he
+laughed at for a wife-ridden [[Fool|fool]], and, perhaps, to show how far he
 
 could venture to go without danger of shaking the fond creature’s
 
@@ -130,13 +130,13 @@ false one.
 
 
 
-“Well,” replied he, “I thought of Lord Lowborough for one; but there is
+“[[Well]],” replied he, “I thought of [[Lord Lowborough]] for one; but there is
 
 no possibility of getting him without his better half, our mutual
 
 friend, Annabella; so we must ask them both. You’re not afraid of her,
 
-are you, Helen?” he asked, with a mischievous twinkle in his eyes.
+are you, [[Helen]]?” he asked, with a mischievous twinkle in his eyes.
 
 
 
@@ -150,7 +150,7 @@ near, for he has little enough land of his own to shoot over, and we
 
 can extend our depredations into it, if we like; and he is thoroughly
 
-respectable, you know, Helen—quite a lady’s man: and I think, Grimsby
+respectable, you know, [[Helen]]—quite a lady’s man: and I think, Grimsby
 
 for another: he’s a decent, quiet fellow enough. You’ll not object to
 
@@ -164,7 +164,7 @@ presence for a while.”
 
 
 
-“All a prejudice, Helen, a mere woman’s antipathy.”
+“All a prejudice, [[Helen]], a mere woman’s antipathy.”
 
 
 
@@ -174,19 +174,19 @@ presence for a while.”
 
 “Why, yes, I think so. Hattersley will be too busy billing and cooing,
 
-with his bride to have much time to spare for guns and dogs at
+with his bride to have much [[Time|time]] to spare for guns and [[dogs]] at
 
 present,” he replied. And that reminds me, that I have had several
 
-letters from Milicent since her marriage, and that she either is, or
+letters from Milicent since her [[Marriage|marriage]], and that she either is, or
 
 pretends to be, quite reconciled to her lot. She professes to have
 
 discovered numberless virtues and perfections in her husband, some of
 
-which, I fear, less partial eyes would fail to distinguish, though they
+which, I [[Fear|fear]], less partial eyes would fail to distinguish, though they
 
-sought them carefully with tears; and now that she is accustomed to his
+sought them carefully with [[Tears|tears]]; and now that she is accustomed to his
 
 loud voice, and abrupt, uncourteous manners, she affirms she finds no
 
@@ -202,6 +202,6 @@ victim of fate, or of her mother’s worldly wisdom, she might have been
 
 thoroughly miserable; and if, for duty’s sake, she had not made every
 
-effort to love her husband, she would, doubtless, have hated him to the
+effort to [[Love|love]] her husband, she would, doubtless, have hated him to the
 
 end of her days.

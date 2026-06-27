@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 34"
+title: "[[Sense and Sensibility]] — Chapter 34"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -56,7 +56,7 @@ affection, and almost without having anything to say to them; for of
 
 the quarter of an hour bestowed on Berkeley Street, she sat at least
 
-seven minutes and a half in silence.
+seven minutes and a half in [[Silence|silence]].
 
 
 
@@ -66,9 +66,9 @@ whether Edward was then in town; but nothing would have induced Fanny
 
 voluntarily to mention his name before her, till able to tell her that
 
-his marriage with Miss Morton was resolved on, or till her husband’s
+his [[Marriage|marriage]] with Miss Morton was resolved on, or till her husband’s
 
-expectations on Colonel Brandon were answered; because she believed
+expectations on [[Colonel Brandon]] were answered; because she believed
 
 them still so very much attached to each other, that they could not be
 
@@ -80,7 +80,7 @@ another quarter. Lucy came very shortly to claim Elinor’s compassion on
 
 being unable to see Edward, though he had arrived in town with Mr. and
 
-Mrs. Dashwood. He dared not come to Bartlett’s Buildings for fear of
+Mrs. Dashwood. He dared not come to Bartlett’s Buildings for [[Fear|fear]] of
 
 detection, and though their mutual impatience to meet, was not to be
 
@@ -90,7 +90,7 @@ told, they could do nothing at present but write.
 
 Edward assured them himself of his being in town, within a very short
 
-time, by twice calling in Berkeley Street. Twice was his card found on
+[[Time|time]], by twice calling in Berkeley Street. Twice was his card found on
 
 the table, when they returned from their morning’s engagements. Elinor
 
@@ -106,11 +106,11 @@ though not much in the habit of giving anything, they determined to
 
 give them—a dinner; and soon after their acquaintance began, invited
 
-them to dine in Harley Street, where they had taken a very good house
+them to dine in Harley Street, where they had taken a very good [[house]]
 
 for three months. Their sisters and Mrs. Jennings were invited
 
-likewise, and John Dashwood was careful to secure Colonel Brandon, who,
+likewise, and John Dashwood was careful to secure [[Colonel Brandon]], who,
 
 always glad to be where the Miss Dashwoods were, received his eager
 
@@ -126,7 +126,7 @@ Edward’s mother without that strong anxiety which had once promised to
 
 attend such an introduction, though she could now see her with perfect
 
-indifference as to her opinion of herself, her desire of being in
+indifference as to her opinion of herself, her [[Desire|desire]] of being in
 
 company with Mrs. Ferrars, her curiosity to know what she was like, was
 
@@ -142,7 +142,7 @@ that the Miss Steeles were also to be at it.
 
 
 
-So well had they recommended themselves to Lady Middleton, so agreeable
+So [[Well|well]] had they recommended themselves to Lady Middleton, so agreeable
 
 had their assiduities made them to her, that though Lucy was certainly
 
@@ -182,7 +182,7 @@ determine, that Edward who lived with his mother, must be asked as his
 
 mother was, to a party given by his sister; and to see him for the
 
-first time, after all that passed, in the company of Lucy!—she hardly
+first [[Time|time]], after all that passed, in the company of Lucy!—she hardly
 
 knew how she could bear it!
 
@@ -190,7 +190,7 @@ knew how she could bear it!
 
 These apprehensions, perhaps, were not founded entirely on reason, and
 
-certainly not at all on truth. They were relieved however, not by her
+certainly not at all on [[Truth|truth]]. They were relieved however, not by her
 
 own recollection, but by the good will of Lucy, who believed herself to
 
@@ -198,7 +198,7 @@ be inflicting a severe disappointment when she told her that Edward
 
 certainly would not be in Harley Street on Tuesday, and even hoped to
 
-be carrying the pain still farther by persuading her that he was kept
+be carrying the [[Pain|pain]] still farther by persuading her that he was kept
 
 away by the extreme affection for herself, which he could not conceal
 
@@ -216,7 +216,7 @@ to this formidable mother-in-law.
 
 together—for the Middletons arrived so directly after Mrs. Jennings,
 
-that they all followed the servant at the same time:—“there is nobody
+that they all followed the servant at the same [[Time|time]]:—“there is nobody
 
 here but you, that can feel for me. I declare I can hardly stand. Good
 
@@ -244,13 +244,13 @@ Mrs. Ferrars was a little, thin woman, upright, even to formality, in
 
 her figure, and serious, even to sourness, in her aspect. Her
 
-complexion was sallow; and her features small, without beauty, and
+complexion was sallow; and her features small, without [[Beauty|beauty]], and
 
 naturally without expression; but a lucky contraction of the brow had
 
 rescued her countenance from the disgrace of insipidity, by giving it
 
-the strong characters of pride and ill nature. She was not a woman of
+the strong characters of [[Pride|pride]] and ill [[Nature|nature]]. She was not a woman of
 
 many words; for, unlike people in general, she proportioned them to the
 
@@ -310,7 +310,7 @@ been within some thousand pounds of being obliged to sell out at a
 
 loss, nothing gave any symptom of that indigence which he had tried to
 
-infer from it;—no poverty of any kind, except of conversation,
+infer from it;—no [[Poverty|poverty]] of any kind, except of conversation,
 
 appeared—but there, the deficiency was considerable. John Dashwood had
 
@@ -328,7 +328,7 @@ spirits—or want of temper.
 
 
 
-When the ladies withdrew to the drawing-room after dinner, this poverty
+When the ladies withdrew to the drawing-room after dinner, this [[Poverty|poverty]]
 
 was particularly evident, for the gentlemen _had_ supplied the
 
@@ -348,7 +348,7 @@ Had both the children been there, the affair might have been determined
 
 too easily by measuring them at once; but as Harry only was present, it
 
-was all conjectural assertion on both sides; and every body had a right
+was all conjectural assertion on both sides; and every [[Body|body]] had a right
 
 to be equally positive in their opinion, and to repeat it over and over
 
@@ -400,11 +400,11 @@ Before her removing from Norland, Elinor had painted a very pretty pair
 
 of screens for her sister-in-law, which being now just mounted and
 
-brought home, ornamented her present drawing room; and these screens,
+brought [[Home|home]], ornamented her present drawing room; and these screens,
 
 catching the eye of John Dashwood on his following the other gentlemen
 
-into the room, were officiously handed by him to Colonel Brandon for
+into the room, were officiously handed by him to [[Colonel Brandon]] for
 
 his admiration.
 
@@ -416,7 +416,7 @@ taste, will, I dare say, be pleased with them. I do not know whether
 
 you have ever happened to see any of her performances before, but she
 
-is in general reckoned to draw extremely well.”
+is in general reckoned to draw extremely [[Well|well]].”
 
 
 
@@ -434,7 +434,7 @@ at them; and after they had received gratifying testimony of Lady
 
 Middletons’s approbation, Fanny presented them to her mother,
 
-considerately informing her, at the same time, that they were done by
+considerately informing her, at the same [[Time|time]], that they were done by
 
 Miss Dashwood.
 
@@ -468,7 +468,7 @@ her last landscape is done!”
 
 
 
-“Beautifully indeed! But _she_ does every thing well.”
+“Beautifully indeed! But _she_ does every thing [[Well|well]].”
 
 
 
@@ -508,7 +508,7 @@ Fanny looked very angry too, and her husband was all in a fright at his
 
 sister’s audacity. Elinor was much more hurt by Marianne’s warmth than
 
-she had been by what produced it; but Colonel Brandon’s eyes, as they
+she had been by what produced it; but [[Colonel Brandon]]’s eyes, as they
 
 were fixed on Marianne, declared that he noticed only what was amiable
 
@@ -542,9 +542,9 @@ unhappy.”
 
 She could say no more; her spirits were quite overcome, and hiding her
 
-face on Elinor’s shoulder, she burst into tears. Every body’s attention
+face on Elinor’s shoulder, she burst into [[Tears|tears]]. Every [[Body|body]]’s attention
 
-was called, and almost every body was concerned.—Colonel Brandon rose
+was called, and almost every [[Body|body]] was concerned.—[[Colonel Brandon]] [[Rose|rose]]
 
 up and went to them without knowing what he did.—Mrs. Jennings, with a
 
@@ -568,7 +568,7 @@ the impression of what had passed, the whole evening.
 
 
 
-“Poor Marianne!” said her brother to Colonel Brandon, in a low voice,
+“Poor Marianne!” said her brother to [[Colonel Brandon]], in a low voice,
 
 as soon as he could secure his attention: “She has not such good health
 
@@ -576,7 +576,7 @@ as her sister,—she is very nervous,—she has not Elinor’s
 
 constitution;—and one must allow that there is something very trying to
 
-a young woman who _has been_ a beauty in the loss of her personal
+a young woman who _has been_ a [[Beauty|beauty]] in the loss of her personal
 
 attractions. You would not think it perhaps, but Marianne _was_
 

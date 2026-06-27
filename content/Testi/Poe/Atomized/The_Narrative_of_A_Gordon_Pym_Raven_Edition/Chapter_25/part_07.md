@@ -24,15 +24,15 @@ tags:
 
       hearkened, entranced, to a melody more than mortal—to assumptions
 
-      and aspirations which mortality had never before known.
+      and aspirations which [[Mortality|mortality]] had never before known.
 
 
 
       That she loved me I should not have doubted; and I might have
 
-      been easily aware that, in a bosom such as hers, love would have
+      been easily aware that, in a bosom such as hers, [[Love|love]] would have
 
-      reigned no ordinary passion. But in death only, was I fully
+      reigned no ordinary passion. But in [[Death|death]] only, was I fully
 
       impressed with the strength of her affection. For long hours,
 
@@ -48,15 +48,15 @@ tags:
 
       subject I cannot bear to dilate. Let me say only, that in
 
-      Ligeia’s more than womanly abandonment to a love, alas! all
+      Ligeia’s more than womanly abandonment to a [[Love|love]], alas! all
 
       unmerited, all unworthily bestowed, I at length recognized the
 
-      principle of her longing with so wildly earnest a desire for the
+      principle of her [[Longing|longing]] with so wildly earnest a [[Desire|desire]] for the
 
       life which was now fleeing so rapidly away. It is this wild
 
-      longing—it is this eager vehemence of desire for life—but for
+      [[Longing|longing]]—it is this eager vehemence of [[Desire|desire]] for life—but for
 
       life—that I have no power to portray—no utterance capable of
 
@@ -64,7 +64,7 @@ tags:
 
 
 
-      At high noon of the night in which she departed, beckoning me,
+      At high [[Noon|noon]] of the [[Night|night]] in which she departed, beckoning me,
 
       peremptorily, to her side, she bade me repeat certain verses
 
@@ -74,13 +74,13 @@ tags:
 
 
 
-Lo! ’tis a gala night
+Lo! ’tis a gala [[Night|night]]
 
     Within the lonesome latter years!
 
 An angel throng, bewinged, bedight
 
-    In veils, and drowned in tears,
+    In veils, and drowned in [[Tears|tears]],
 
 Sit in a theatre, to see
 
@@ -114,17 +114,17 @@ That motley drama!—oh, be sure
 
     It shall not be forgot!
 
-With its Phantom chased forever more,
+With its [[Phantom]] chased forever more,
 
     By a crowd that seize it not,
 
 Through a circle that ever returneth in
 
-    To the self-same spot,
+    To the [[Self|self]]-same spot,
 
-And much of Madness and more of Sin
+And much of [[Madness]] and more of Sin
 
-    And Horror the soul of the plot.
+    And Horror the [[Soul|soul]] of the plot.
 
 
 
@@ -132,9 +132,9 @@ But see, amid the mimic rout,
 
     A crawling shape intrude!
 
-A blood-red thing that writhes from out
+A [[Blood|blood]]-red thing that writhes from out
 
-    The scenic solitude!
+    The scenic [[Solitude|solitude]]!
 
 It writhes!—it writhes!—with mortal pangs
 
@@ -152,15 +152,15 @@ Out—out are the lights—out all!
 
 The curtain, a funeral pall,
 
-    Comes down with the rush of a storm,
+    Comes down with the rush of a [[Storm|storm]],
 
 And the angels, all pallid and wan,
 
     Uprising, unveiling, affirm
 
-That the play is the tragedy, “Man,”
+That the play is the [[Tragedy|tragedy]], “Man,”
 
-    And its hero the Conqueror Worm.
+    And its [[Hero|hero]] [[The Conqueror Worm|the Conqueror Worm]].
 
 
 
@@ -176,7 +176,7 @@ That the play is the tragedy, “Man,”
 
       the will with its vigor? Man doth not yield him to the angels,
 
-      nor unto death utterly, save only through the weakness of his
+      nor unto [[Death|death]] utterly, save only through the weakness of his
 
       feeble will.”
 
@@ -184,7 +184,7 @@ That the play is the tragedy, “Man,”
 
       And now, as if exhausted with emotion, she suffered her white
 
-      arms to fall, and returned solemnly to her bed of death. And as
+      arms to fall, and returned solemnly to her bed of [[Death|death]]. And as
 
       she breathed her last sighs, there came mingled with them a low
 
@@ -192,17 +192,17 @@ That the play is the tragedy, “Man,”
 
       again, the concluding words of the passage in Glanvill—“Man doth
 
-      not yield him to the angels, nor unto death utterly, save only
+      not yield him to the angels, nor unto [[Death|death]] utterly, save only
 
       through the weakness of his feeble will.”
 
 
 
-      She died: and I, crushed into the very dust with sorrow, could no
+      She died: and I, crushed into the very [[Dust|dust]] with sorrow, could no
 
       longer endure the lonely desolation of my dwelling in the dim and
 
-      decaying city by the Rhine. I had no lack of what the world calls
+      decaying [[City|city]] by the Rhine. I had no lack of what the world calls
 
       wealth. Ligeia had brought me far more, very far more than
 
@@ -216,7 +216,7 @@ That the play is the tragedy, “Man,”
 
       and dreary grandeur of the building, the almost savage aspect of
 
-      the domain, the many melancholy and time-honored memories
+      the domain, the many [[Melancholy|melancholy]] and [[Time|time]]-honored memories
 
       connected with both, had much in unison with the feelings of
 
@@ -224,21 +224,21 @@ That the play is the tragedy, “Man,”
 
       unsocial region of the country. Yet although the external abbey,
 
-      with its verdant decay hanging about it, suffered but little
+      with its verdant [[Decay|decay]] hanging about it, suffered but little
 
-      alteration, I gave way, with a child-like perversity, and
+      alteration, I gave way, with a [[Child|child]]-like perversity, and
 
-      perchance with a faint hope of alleviating my sorrows, to a
+      perchance with a faint [[Hope|hope]] of alleviating my sorrows, to a
 
       display of more than regal magnificence within. For such follies,
 
-      even in childhood, I had imbibed a taste and now they came back
+      even in [[Childhood|childhood]], I had imbibed a taste and now they came back
 
       to me as if in the dotage of grief. Alas, I feel how much even of
 
-      incipient madness might have been discovered in the gorgeous and
+      incipient [[Madness|madness]] might have been discovered in the gorgeous and
 
-      fantastic draperies, in the solemn carvings of Egypt, in the wild
+      fantastic draperies, in the solemn carvings of [[Egypt]], in the wild
 
       cornices and furniture, in the Bedlam patterns of the carpets of
 
@@ -246,8 +246,8 @@ That the play is the tragedy, “Man,”
 
       opium, and my labors and my orders had taken a coloring from my
 
-      dreams. But these absurdities I must not pause to detail. Let me
+      [[Dreams|dreams]]. But these absurdities I must not pause to detail. Let me
 
       speak only of that one chamber, ever accursed, whither in a
 
-      moment of mental alienation, I led from the altar as my bride—as
+      moment of mental [[Alienation|alienation]], I led from the altar as my bride—as

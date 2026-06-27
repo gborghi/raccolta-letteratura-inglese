@@ -16,7 +16,7 @@ tags:
 
 Chapter 17
 
-A SOCIAL CHORUS
+A SOCIAL [[Chorus|CHORUS]]
 
 
 Amazement sits enthroned upon the countenances of Mr and Mrs Alfred
@@ -26,18 +26,18 @@ furniture and effects (including a Billiard Table in capital letters),
 hearthrug in Sackville Street. But, nobody is half so much amazed as
 Hamilton Veneering, Esquire, M.P. for Pocket-Breaches, who instantly
 begins to find out that the Lammles are the only people ever entered on
-his soul’s register, who are NOT the oldest and dearest friends he has
+his [[Soul|soul]]’s register, who are NOT the oldest and dearest friends he has
 in the world. Mrs Veneering, W.M.P. for Pocket-Breaches, like a faithful
 wife shares her husband’s discovery and inexpressible astonishment.
 Perhaps the Veneerings twain may deem the last unutterable feeling
-particularly due to their reputation, by reason that once upon a time
-some of the longer heads in the City are whispered to have shaken
+particularly due to their reputation, by reason that once upon a [[Time|time]]
+some of the longer heads in the [[City]] are whispered to have shaken
 themselves, when Veneering’s extensive dealings and great wealth were
 mentioned. But, it is certain that neither Mr nor Mrs Veneering can
-find words to wonder in, and it becomes necessary that they give to the
+find words to [[Wonder|wonder]] in, and it becomes necessary that they give to the
 oldest and dearest friends they have in the world, a wondering dinner.
 
-For, it is by this time noticeable that, whatever befals, the Veneerings
+For, it is by this [[Time|time]] noticeable that, whatever befals, the Veneerings
 must give a dinner upon it. Lady Tippins lives in a chronic state
 of invitation to dine with the Veneerings, and in a chronic state of
 inflammation arising from the dinners. Boots and Brewer go about in
@@ -45,7 +45,7 @@ cabs, with no other intelligible business on earth than to beat up
 people to come and dine with the Veneerings. Veneering pervades the
 legislative lobbies, intent upon entrapping his fellow-legislators to
 dinner. Mrs Veneering dined with five-and-twenty bran-new faces over
-night; calls upon them all to day; sends them every one a dinner-card
+[[Night|night]]; calls upon them all to day; sends them every one a dinner-card
 to-morrow, for the week after next; before that dinner is digested,
 calls upon their brothers and sisters, their sons and daughters, their
 nephews and nieces, their aunts and uncles and cousins, and invites
@@ -57,7 +57,7 @@ one another.
 
 Perhaps, after all,—who knows?—Veneering may find this dining, though
 expensive, remunerative, in the sense that it makes champions.
-Mr Podsnap, as a representative man, is not alone in caring very
+Mr Podsnap, as a representative man, is not [[Alone|alone]] in caring very
 particularly for his own dignity, if not for that of his acquaintances,
 and therefore in angrily supporting the acquaintances who have taken out
 his Permit, lest, in their being lessened, he should be. The gold and
@@ -75,9 +75,9 @@ The camels are polishing up in the Analytical’s pantry for the dinner
 of wonderment on the occasion of the Lammles going to pieces, and Mr
 Twemlow feels a little queer on the sofa at his lodgings over the stable
 yard in Duke Street, Saint James’s, in consequence of having taken
-two advertised pills at about mid-day, on the faith of the printed
+two advertised pills at about mid-day, on the [[Faith|faith]] of the printed
 representation accompanying the box (price one and a penny halfpenny,
-government stamp included), that the same ‘will be found highly salutary
+[[government]] stamp included), that the same ‘will be found highly salutary
 as a precautionary measure in connection with the pleasures of the
 table.’ To whom, while sickly with the fancy of an insoluble pill
 sticking in his gullet, and also with the sensation of a deposit of warm
@@ -90,7 +90,7 @@ the lady’s name.’
 The lady’s name is Lammle. The lady will not detain Mr Twemlow longer
 than a very few minutes. The lady is sure that Mr Twemlow will do her
 the kindness to see her, on being told that she particularly desires
-a short interview. The lady has no doubt whatever of Mr Twemlow’s
+a short interview. The lady has no [[Doubt|doubt]] whatever of Mr Twemlow’s
 compliance when he hears her name. Has begged the servant to be
 particular not to mistake her name. Would have sent in a card, but has
 none.
@@ -100,7 +100,7 @@ none.
 Mr Twemlow’s little rooms are modestly furnished, in an old-fashioned
 manner (rather like the housekeeper’s room at Snigsworthy Park), and
 would be bare of mere ornament, were it not for a full-length engraving
-of the sublime Snigsworth over the chimneypiece, snorting at a
+of the [[Sublime|sublime]] Snigsworth over the chimneypiece, snorting at a
 Corinthian column, with an enormous roll of paper at his feet, and a
 heavy curtain going to tumble down on his head; those accessories being
 understood to represent the noble lord as somehow in the act of saving
@@ -109,7 +109,7 @@ his country.
 ‘Pray take a seat, Mrs Lammle.’ Mrs Lammle takes a seat and opens the
 conversation.
 
-‘I have no doubt, Mr Twemlow, that you have heard of a reverse of
+‘I have no [[Doubt|doubt]], Mr Twemlow, that you have heard of a reverse of
 fortune having befallen us. Of course you have heard of it, for no kind
 of news travels so fast—among one’s friends especially.’
 
@@ -118,7 +118,7 @@ the imputation.
 
 ‘Probably it will not,’ says Mrs Lammle, with a certain hardened manner
 upon her, that makes Twemlow shrink, ‘have surprised you so much as some
-others, after what passed between us at the house which is now turned
+others, after what passed between us at the [[house]] which is now turned
 out at windows. I have taken the liberty of calling upon you, Mr
 Twemlow, to add a sort of postscript to what I said that day.’
 
@@ -146,7 +146,7 @@ Twemlow going on to reply, she rests her eyes again, knowing her ears to
 be quite enough for the contents of so weak a vessel.
 
 ‘I can, I suppose,’ says Twemlow, nervously, ‘offer no reasonable
-objection to hearing anything that you do me the honour to wish to say
+objection to hearing anything that you do me the [[Honour|honour]] to wish to say
 to me under those heads. But if I may, with all possible delicacy and
 politeness, entreat you not to range beyond them, I—I beg to do so.’
 
@@ -159,7 +159,7 @@ certain person.’
 
 ‘And for doing which, I thank you; though, indeed, I scarcely know why
 I turned traitress to my husband in the matter, for the girl is a poor
-little fool. I was a poor little fool once myself; I can find no better
+little [[Fool|fool]]. I was a poor little [[Fool|fool]] once myself; I can find no better
 reason.’ Seeing the effect she produces on him by her indifferent laugh
 and cold look, she keeps her eyes upon him as she proceeds. ‘Mr Twemlow,
 if you should chance to see my husband, or to see me, or to see both of
@@ -172,7 +172,7 @@ stipulation; to a gentleman it is simply a reminder.’
 Twemlow sits murmuring to himself with his hand to his forehead.
 
 ‘It is so plain a case,’ Mrs Lammle goes on, ‘as between me (from the
-first relying on your honour) and you, that I will not waste another
+first relying on your [[Honour|honour]]) and you, that I will not waste another
 word upon it.’ She looks steadily at Mr Twemlow, until, with a shrug,
 he makes her a little one-sided bow, as though saying ‘Yes, I think you
 have a right to rely upon me,’ and then she moistens her lips, and shows
@@ -196,12 +196,12 @@ while listening, and uses them with strong effect while speaking.
 
 ‘Yes.’
 
-‘It is strange that he should have told you the truth,’ says Mrs
+‘It is strange that he should have told you the [[Truth|truth]],’ says Mrs
 Lammle, seriously pondering. ‘Pray where did a circumstance so very
 extraordinary happen?’
 
-Twemlow hesitates. He is shorter than the lady as well as weaker, and,
-as she stands above him with her hardened manner and her well-used eyes,
+Twemlow hesitates. He is shorter than the lady as [[Well|well]] as weaker, and,
+as she stands above him with her hardened manner and her [[Well|well]]-used eyes,
 he finds himself at such a disadvantage that he would like to be of the
 opposite sex.
 
@@ -214,7 +214,7 @@ More particularly, as Mr Fledgeby did, with great civility, which I
 could not feel that I deserved from him, render me the same service that
 you had entreated him to render you.’
 
-It is a part of the true nobility of the poor gentleman’s soul to say
+It is a part of the true nobility of the poor gentleman’s [[Soul|soul]] to say
 this last sentence. ‘Otherwise,’ he has reflected, ‘I shall assume the
 superior position of having no difficulties of my own, while I know of
 hers. Which would be mean, very mean.’
@@ -248,7 +248,7 @@ man’s truthfulness by your own, from being imposed upon.’
 ‘Impossible!’ cries Twemlow, standing aghast. ‘How do you know it?’
 
 ‘I scarcely know how I know it. The whole train of circumstances seemed
-to take fire at once, and show it to me.’
+to take [[Fire|fire]] at once, and show it to me.’
 
 ‘Oh! Then you have no proof.’
 
@@ -270,11 +270,11 @@ ingenuous, or inexperienced, sees this plain thing no more than Mr
 Twemlow does—because there is no proof! Yet I believe five women out of
 six, in my place, would see it as clearly as I do. However, I will never
 rest (if only in remembrance of Mr Fledgeby’s having kissed my hand)
-until my husband does see it. And you will do well for yourself to see
-it from this time forth, Mr Twemlow, though I CAN give you no proof.’
+until my husband does see it. And you will do [[Well|well]] for yourself to see
+it from this [[Time|time]] forth, Mr Twemlow, though I CAN give you no proof.’
 
 As she moves towards the door, Mr Twemlow, attending on her, expresses
-his soothing hope that the condition of Mr Lammle’s affairs is not
+his soothing [[Hope|hope]] that the condition of Mr Lammle’s affairs is not
 irretrievable.
 
 ‘I don’t know,’ Mrs Lammle answers, stopping, and sketching out the
@@ -283,10 +283,10 @@ depends. There may be an opening for him dawning now, or there may be
 none. We shall soon find out. If none, we are bankrupt here, and must go
 abroad, I suppose.’
 
-Mr Twemlow, in his good-natured desire to make the best of it, remarks
+Mr Twemlow, in his good-natured [[Desire|desire]] to make the best of it, remarks
 that there are pleasant lives abroad.
 
-‘Yes,’ returns Mrs Lammle, still sketching on the wall; ‘but I doubt
+‘Yes,’ returns Mrs Lammle, still sketching on the wall; ‘but I [[Doubt|doubt]]
 whether billiard-playing, card-playing, and so forth, for the means to
 live under suspicion at a dirty table-d’hote, is one of them.’
 
@@ -294,15 +294,15 @@ It is much for Mr Lammle, Twemlow politely intimates (though greatly
 shocked), to have one always beside him who is attached to him in all
 his fortunes, and whose restraining influence will prevent him from
 courses that would be discreditable and ruinous. As he says it, Mrs
-Lammle leaves off sketching, and looks at him.
+Lammle [[Leaves|leaves]] off sketching, and looks at him.
 
 ‘Restraining influence, Mr Twemlow? We must eat and drink, and dress,
 and have a roof over our heads. Always beside him and attached in all
 his fortunes? Not much to boast of in that; what can a woman at my age
 do? My husband and I deceived one another when we married; we must bear
-the consequences of the deception—that is to say, bear one another, and
+the consequences of the [[Deception|deception]]—that is to say, bear one another, and
 bear the burden of scheming together for to-day’s dinner and to-morrow’s
-breakfast—till death divorces us.’
+breakfast—till [[Death|death]] divorces us.’
 
 With those words, she walks out into Duke Street, Saint James’s. Mr
 Twemlow returning to his sofa, lays down his aching head on its slippery
@@ -311,15 +311,15 @@ painful interview is not the kind of thing to be taken after the dinner
 pills which are so highly salutary in connexion with the pleasures of
 the table.
 
-But, six o’clock in the evening finds the worthy little gentleman
+But, six o’[[Clock|clock]] in the evening finds the worthy little gentleman
 getting better, and also getting himself into his obsolete little silk
 stockings and pumps, for the wondering dinner at the Veneerings. And
-seven o’clock in the evening finds him trotting out into Duke Street, to
+seven o’[[Clock|clock]] in the evening finds him trotting out into Duke Street, to
 trot to the corner and save a sixpence in coach-hire.
 
-Tippins the divine has dined herself into such a condition by this time,
-that a morbid mind might desire her, for a blessed change, to sup
-at last, and turn into bed. Such a mind has Mr Eugene Wrayburn, whom
+Tippins the divine has dined herself into such a condition by this [[Time|time]],
+that a morbid mind might [[Desire|desire]] her, for a blessed change, to sup
+at last, and turn into bed. Such a mind has Mr [[Eugene Wrayburn]], whom
 Twemlow finds contemplating Tippins with the moodiest of visages,
 while that playful creature rallies him on being so long overdue at the
 woolsack. Skittish is Tippins with Mortimer Lightwood too, and has raps
@@ -346,14 +346,14 @@ declining to take a farthing less. With Buffer, Boots, and Brewer, Lady
 Tippins is eminently facetious on the subject of these Fathers of the
 Scrip-Church: surveying them through her eyeglass, and inquiring whether
 Boots and Brewer and Buffer think they will make her fortune if she
-makes love to them? with other pleasantries of that nature. Veneering,
+makes [[Love|love]] to them? with other pleasantries of that [[Nature|nature]]. Veneering,
 in his different way, is much occupied with the Fathers too, piously
 retiring with them into the conservatory, from which retreat the word
 ‘Committee’ is occasionally heard, and where the Fathers instruct
 Veneering how he must leave the valley of the piano on his left,
-take the level of the mantelpiece, cross by an open cutting at the
+take the level of the mantelpiece, [[Cross|cross]] by an open cutting at the
 candelabra, seize the carrying-traffic at the console, and cut up the
-opposition root and branch at the window curtains.
+opposition root and branch at the [[Window|window]] curtains.
 
 Mr and Mrs Podsnap are of the company, and the Fathers descry in Mrs
 Podsnap a fine woman. She is consigned to a Father—Boots’s Father,
@@ -379,7 +379,7 @@ not.
 
 ‘I assure you,’ replies Brewer, looking about for anybody else to
 address his answer to, and giving the preference to Lightwood; ‘I assure
-you, the things were going for a song. Handsome things enough, but
+you, the things were going for a [[Song|song]]. Handsome things enough, but
 fetching nothing.’
 
 ‘So I heard this afternoon,’ says Lightwood.
@@ -432,7 +432,7 @@ Eugene (who would seem to be in a gloomy state of suggestiveness),
 suggests, ‘Suppose you have no means and live beyond them?’
 
 This is too insolvent a state of things for the Father to entertain. It
-is too insolvent a state of things for any one with any self-respect
+is too insolvent a state of things for any one with any [[Self|self]]-respect
 to entertain, and is universally scouted. But, it is so amazing how any
 people can have come to a total smash, that everybody feels bound to
 account for it specially. One of the Fathers says, ‘Gaming table.’
@@ -442,7 +442,7 @@ fan, ‘Two establishments.’ Mr Podsnap, saying nothing, is referred
 to for his opinion; which he delivers as follows; much flushed and
 extremely angry:
 
-‘Don’t ask me. I desire to take no part in the discussion of these
+‘Don’t ask me. I [[Desire|desire]] to take no part in the discussion of these
 people’s affairs. I abhor the subject. It is an odious subject, an
 offensive subject, a subject that makes me sick, and I—’ And with his
 favourite right-arm flourish which sweeps away everything and settles it
@@ -461,8 +461,8 @@ who is as nothing off the box; and the Coachman, yielding up his salver,
 retires defeated.
 
 Then, the Analytical, perusing a scrap of paper lying on the salver,
-with the air of a literary Censor, adjusts it, takes his time about
-going to the table with it, and presents it to Mr Eugene Wrayburn.
+with the air of a literary Censor, adjusts it, takes his [[Time|time]] about
+going to the table with it, and presents it to Mr [[Eugene Wrayburn]].
 Whereupon the pleasant Tippins says aloud, ‘The Lord Chancellor has
 resigned!’
 
@@ -495,7 +495,7 @@ Glue Monge.’
 
 ‘Sharp boy again,’ returns Eugene. ‘I’ll go to him.’
 
-Goes out straightway, and, leisurely leaning his arms on the open window
+Goes out straightway, and, leisurely leaning his arms on the open [[Window|window]]
 of a cab in waiting, looks in at Mr Dolls: who has brought his own
 atmosphere with him, and would seem from its odour to have brought it,
 for convenience of carriage, in a rum-cask.
@@ -507,10 +507,10 @@ for convenience of carriage, in a rum-cask.
 After carefully reading the dingy scrap of paper handed to him, and as
 carefully tucking it into his waistcoat pocket, Eugene tells out the
 money; beginning incautiously by telling the first shilling into Mr
-Dolls’s hand, which instantly jerks it out of window; and ending by
+Dolls’s hand, which instantly jerks it out of [[Window|window]]; and ending by
 telling the fifteen shillings on the seat.
 
-‘Give him a ride back to Charing Cross, sharp boy, and there get rid of
+‘Give him a ride back to Charing [[Cross]], sharp boy, and there get rid of
 him.’
 
 Returning to the dining-room, and pausing for an instant behind the

@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 21: TWENTY ONE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -19,14 +19,14 @@ of face which set off the cheerfulness of Mark’s visage to great
 advantage.
 
 ‘I never thought on it, sir,’ said Mark. ‘It come in at one ear, and
-went out at the other. But Lord love us, he was one of another Company,
+went out at the other. But Lord [[Love|love]] us, he was one of another Company,
 I dare say, and only made up the story that we might go to his Eden, and
 not the opposition one.’
 
 ‘There’s some probability in that,’ observed Martin. ‘I can honestly say
-that I hope so, with all my heart.’
+that I [[Hope|hope]] so, with all my heart.’
 
-‘I’ve not a doubt about it, sir,’ returned Mark, who, full of the
+‘I’ve not a [[Doubt|doubt]] about it, sir,’ returned Mark, who, full of the
 inspiriting influence of the anecodote upon himself, had for the moment
 forgotten its probable effect upon his master; ‘anyhow, we must live,
 you know, sir.’
@@ -49,11 +49,11 @@ closed; only peeping out of the corners, and even then with a glance
 that seemed to say, ‘Now you won’t overreach me; you want to, but you
 won’t.’ His arms rested carelessly on his knees as he leant forward;
 in the palm of his left hand, as English rustics have their slice of
-cheese, he had a cake of tobacco; in his right a penknife. He struck
+[[cheese]], he had a cake of tobacco; in his right a penknife. He struck
 into the dialogue with as little reserve as if he had been specially
 called in, days before, to hear the arguments on both sides, and favour
 them with his opinion; and he no more contemplated or cared for the
-possibility of their not desiring the honour of his acquaintance or
+possibility of their not desiring the [[Honour|honour]] of his acquaintance or
 interference in their private affairs than if he had been a bear or a
 buffalo.
 
@@ -92,9 +92,9 @@ pro-duce.’
 
 Martin not discussing the question, there was a pause.
 
-‘Well!’ resumed their new friend, after staring at them intently during
-the whole interval of silence; ‘how’s the unnat’ral old parent by this
-time?’
+‘[[Well]]!’ resumed their new friend, after staring at them intently during
+the whole interval of [[Silence|silence]]; ‘how’s the unnat’ral old parent by this
+[[Time|time]]?’
 
 Mr Tapley regarding this inquiry as only another version of the
 impertinent English question, ‘How’s your mother?’ would have resented
@@ -103,11 +103,11 @@ it instantly, but for Martin’s prompt interposition.
 ‘You mean the old country?’ he said.
 
 ‘Ah!’ was the reply. ‘How’s she? Progressing back’ards, I expect, as
-usual? Well! How’s Queen Victoria?’
+usual? [[Well]]! How’s [[Queen]] Victoria?’
 
 ‘In good health, I believe,’ said Martin.
 
-‘Queen Victoria won’t shake in her royal shoes at all, when she hears
+‘[[Queen]] Victoria won’t shake in her royal shoes at all, when she hears
 to-morrow named,’ observed the stranger, ‘No.’
 
 ‘Not that I am aware of. Why should she?’
@@ -120,11 +120,11 @@ done in these diggings,’ said the stranger. ‘No.’
 The strange gentleman looked at him as if in pity for his ignorance or
 prejudice, and said:
 
-‘Well, sir, I tell you this--there ain’t a engine with its biler
+‘[[Well]], sir, I tell you this--there ain’t a engine with its biler
 bust, in God A’mighty’s free U-nited States, so fixed, and nipped,
 and frizzled to a most e-tarnal smash, as that young critter, in her
-luxurious location in the Tower of London will be, when she reads the
-next double-extra Watertoast Gazette.’
+luxurious location in the Tower of [[London]] will be, when she reads the
+next [[Double|double]]-extra Watertoast Gazette.’
 
 Several other gentlemen had left their seats and gathered round during
 the foregoing dialogue. They were highly delighted with this speech. One
@@ -134,7 +134,7 @@ called upon to acknowledge it.
 
 ‘Hem! Mr La Fayette Kettle,’ he said, taking off his hat.
 
-There was a grave murmur of ‘Hush!’
+There was a [[Grave|grave]] murmur of ‘Hush!’
 
 ‘Mr La Fayette Kettle! Sir!’
 
@@ -149,9 +149,9 @@ star-spangled banner of the Great United States, for your eloquent and
 categorical exposition. And if, sir,’ said the speaker, poking Martin
 with the handle of his umbrella to bespeak his attention, for he was
 listening to a whisper from Mark; ‘if, sir, in such a place, and at such
-a time, I might venture to con-clude with a sentiment, glancing--however
+a [[Time|time]], I might venture to con-clude with a sentiment, glancing--however
 slantin’dicularly--at the subject in hand, I would say, sir, may
-the British Lion have his talons eradicated by the noble bill of the
+the British [[Lion]] have his talons eradicated by the noble bill of the
 American Eagle, and be taught to play upon the Irish Harp and the Scotch
 Fiddle that music which is breathed in every empty shell that lies upon
 the shores of green Co-lumbia!’

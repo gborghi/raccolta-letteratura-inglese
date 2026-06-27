@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 15 (part 3)"
+title: "[[Northanger Abbey]] — Chapter 15 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-little more than this assurance of success; and every particular was
+little more than this assurance of [[success]]; and every particular was
 
-deferred till James could write again. But for particulars Isabella
+deferred till James could write again. But for particulars [[Isabella]]
 
-could well afford to wait. The needful was comprised in Mr. Morland’s
+could [[Well|well]] afford to wait. The needful was comprised in Mr. Morland’s
 
-promise; his honour was pledged to make everything easy; and by what
+promise; his [[Honour|honour]] was pledged to make everything easy; and by what
 
 means their income was to be formed, whether landed property were to be
 
@@ -28,7 +28,7 @@ resigned, or funded money made over, was a matter in which her
 
 disinterested spirit took no concern. She knew enough to feel secure of
 
-an honourable and speedy establishment, and her imagination took a
+an honourable and speedy establishment, and her [[Imagination|imagination]] took a
 
 rapid flight over its attendant felicities. She saw herself at the end
 
@@ -42,25 +42,25 @@ exhibition of hoop rings on her finger.
 
 
 
-When the contents of the letter were ascertained, John Thorpe, who had
+When the contents of the letter were ascertained, [[John Thorpe]], who had
 
-only waited its arrival to begin his journey to London, prepared to set
+only waited its arrival to begin his [[Journey|journey]] to [[London]], prepared to set
 
-off. “Well, Miss Morland,” said he, on finding her alone in the
+off. “[[Well]], Miss Morland,” said he, on finding her [[Alone|alone]] in the
 
 parlour, “I am come to bid you good-bye.” Catherine wished him a good
 
-journey. Without appearing to hear her, he walked to the window,
+[[Journey|journey]]. Without appearing to hear her, he walked to the [[Window|window]],
 
-fidgeted about, hummed a tune, and seemed wholly self-occupied.
+fidgeted about, hummed a tune, and seemed wholly [[Self|self]]-occupied.
 
 
 
 “Shall not you be late at Devizes?” said Catherine. He made no answer;
 
-but after a minute’s silence burst out with, “A famous good thing this
+but after a minute’s [[Silence|silence]] burst out with, “A famous good thing this
 
-marrying scheme, upon my soul! a clever fancy of Morland’s and Belle’s.
+marrying scheme, upon my [[Soul|soul]]! a clever fancy of Morland’s and Belle’s.
 
 What do you think of it, Miss Morland? _I_ say it is no bad notion.”
 
@@ -72,11 +72,11 @@ What do you think of it, Miss Morland? _I_ say it is no bad notion.”
 
 “Do you? That’s honest, by heavens! i am glad you are no enemy to
 
-matrimony, however. Did you ever hear the old song, ‘Going to One
+matrimony, however. Did you ever hear the old [[Song|song]], ‘Going to One
 
 Wedding Brings on Another?’ I say, you will come to Belle’s wedding, I
 
-hope.”
+[[Hope|hope]].”
 
 
 
@@ -86,15 +86,15 @@ hope.”
 
 “And then you know”—twisting himself about and forcing a foolish
 
-laugh—“I say, then you know, we may try the truth of this same old
+laugh—“I say, then you know, we may try the [[Truth|truth]] of this same old
 
-song.”
+[[Song|song]].”
 
 
 
-“May we? But I never sing. Well, I wish you a good journey. I dine with
+“May we? But I never sing. [[Well]], I wish you a good [[Journey|journey]]. I dine with
 
-Miss Tilney to-day, and must now be going home.”
+Miss Tilney to-day, and must now be going [[Home|home]].”
 
 
 
@@ -114,13 +114,13 @@ waited for an answer.
 
 “That is kind of you, however—kind and good-natured. I shall not forget
 
-it in a hurry. But you have more good nature and all that, than anybody
+it in a hurry. But you have more good [[Nature|nature]] and all that, than anybody
 
-living, I believe. A monstrous deal of good nature, and it is not only
+living, I believe. A monstrous deal of good [[Nature|nature]], and it is not only
 
-good nature, but you have so much, so much of everything; and then you
+good [[Nature|nature]], but you have so much, so much of everything; and then you
 
-have such—upon my soul, I do not know anybody like you.”
+have such—upon my [[Soul|soul]], I do not know anybody like you.”
 
 
 
@@ -140,7 +140,7 @@ before it is long, if not disagreeable.”
 
 
 
-“And I hope—I hope, Miss Morland, _you_ will not be sorry to see me.”
+“And I [[Hope|hope]]—I [[Hope|hope]], Miss Morland, _you_ will not be sorry to see me.”
 
 
 
@@ -152,7 +152,7 @@ Company is always cheerful.”
 
 “That is just my way of thinking. Give me but a little cheerful
 
-company, let me only have the company of the people I love, let me only
+company, let me only have the company of the people I [[Love|love]], let me only
 
 be where I like and with whom I like, and the devil take the rest, say
 
@@ -166,7 +166,7 @@ matters.”
 
 “Perhaps we may; but it is more than I ever thought of. And as to _most
 
-matters_, to say the truth, there are not many that I know my own mind
+matters_, to say the [[Truth|truth]], there are not many that I know my own mind
 
 about.”
 
@@ -176,7 +176,7 @@ about.”
 
 does not concern me. My notion of things is simple enough. Let me only
 
-have the girl I like, say I, with a comfortable house over my head, and
+have the girl I like, say I, with a comfortable [[house]] over my head, and
 
 what care I for all the rest? Fortune is nothing. I am sure of a good
 
@@ -200,7 +200,7 @@ the power of all his gallantry to detain her longer. With such news to
 
 communicate, and such a visit to prepare for, her departure was not to
 
-be delayed by anything in his nature to urge; and she hurried away,
+be delayed by anything in his [[Nature|nature]] to urge; and she hurried away,
 
 leaving him to the undivided consciousness of his own happy address,
 
@@ -222,7 +222,7 @@ brother’s arrival; and all that they felt on the occasion was
 
 comprehended in a wish for the young people’s happiness, with a remark,
 
-on the gentleman’s side, in favour of Isabella’s beauty, and on the
+on the gentleman’s side, in favour of [[Isabella]]’s [[Beauty|beauty]], and on the
 
 lady’s, of her great good luck. It was to Catherine the most surprising
 

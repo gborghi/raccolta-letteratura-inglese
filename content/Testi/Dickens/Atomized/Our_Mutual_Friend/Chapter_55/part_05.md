@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-‘Now, I wonder,’ he meditated as he went along, nursing his stick,
-‘whether it can be, that Venus is setting himself to get the better of
+‘Now, I [[Wonder|wonder]],’ he meditated as he went along, nursing his stick,
+‘whether it can be, that [[Venus]] is setting himself to get the better of
 Wegg? Whether it can be, that he means, when I have bought Wegg out, to
 have me all to himself and to pick me clean to the bones!’
 
@@ -24,10 +24,10 @@ of Misers, and he looked very cunning and suspicious as he went jogging
 through the streets. More than once or twice, more than twice or thrice,
 say half a dozen times, he took his stick from the arm on which he
 nursed it, and hit a straight sharp rap at the air with its head.
-Possibly the wooden countenance of Mr Silas Wegg was incorporeally
+Possibly the wooden countenance of Mr [[Silas Wegg]] was incorporeally
 before him at those moments, for he hit with intense satisfaction.
 
-He was within a few streets of his own house, when a little private
+He was within a few streets of his own [[house]], when a little private
 carriage, coming in the contrary direction, passed him, turned round,
 and passed him again. It was a little carriage of eccentric movement,
 for again he heard it stop behind him and turn round, and again he saw
@@ -35,25 +35,25 @@ it pass him. Then it stopped, and then went on, out of sight. But, not
 far out of sight, for, when he came to the corner of his own street,
 there it stood again.
 
-There was a lady’s face at the window as he came up with this carriage,
+There was a lady’s face at the [[Window|window]] as he came up with this carriage,
 and he was passing it when the lady softly called to him by his name.
 
 ‘I beg your pardon, Ma’am?’ said Mr Boffin, coming to a stop.
 
 ‘It is Mrs Lammle,’ said the lady.
 
-Mr Boffin went up to the window, and hoped Mrs Lammle was well.
+Mr Boffin went up to the [[Window|window]], and hoped Mrs Lammle was [[Well|well]].
 
-‘Not very well, dear Mr Boffin; I have fluttered myself by
+‘Not very [[Well|well]], dear Mr Boffin; I have fluttered myself by
 being—perhaps foolishly—uneasy and anxious. I have been waiting for
-you some time. Can I speak to you?’
+you some [[Time|time]]. Can I speak to you?’
 
-Mr Boffin proposed that Mrs Lammle should drive on to his house, a few
+Mr Boffin proposed that Mrs Lammle should drive on to his [[house]], a few
 hundred yards further.
 
 ‘I would rather not, Mr Boffin, unless you particularly wish it. I feel
 the difficulty and delicacy of the matter so much that I would rather
-avoid speaking to you at your own home. You must think this very
+avoid speaking to you at your own [[Home|home]]. You must think this very
 strange?’
 
 Mr Boffin said no, but meant yes.

@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — Some Old Curiosities (part 1)"
+title: "ball and [[Cross|cross]] — Some Old Curiosities (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -17,7 +17,7 @@ tags:
 III.  SOME OLD CURIOSITIES
 
 The evening sky, a dome of solid gold, unflaked even by a single
-sunset cloud, steeped the meanest sights of London in a strange
+sunset cloud, steeped the meanest sights of [[London]] in a strange
 and mellow light.  It made a little greasy street of St. Martin's Lane
 look as if it were paved with gold.  It made the pawnbroker's
 half-way down it shine as if it were really that Mountain of Piety
@@ -25,31 +25,31 @@ that the French poetic instinct has named it; it made the mean
 pseudo-French bookshop, next but one to it, a shop packed with
 dreary indecency, show for a moment a kind of Parisian colour.
 And the shop that stood between the pawnshop and the shop of
-dreary indecency, showed with quite a blaze of old world beauty,
+dreary indecency, showed with quite a blaze of old world [[Beauty|beauty]],
 for it was, by accident, a shop not unbeautiful in itself.
-The front window had a glimmer of bronze and blue steel, lit, as by
-a few stars, by the sparks of what were alleged to be jewels;
+The front [[Window|window]] had a glimmer of bronze and blue steel, lit, as by
+a few [[Stars|stars]], by the sparks of what were alleged to be jewels;
 for it was in brief, a shop of bric-a-brac and old curiosities.
 A row of half-burnished seventeenth-century swords ran like an
-ornate railing along the front of the window; behind was a darker
+ornate railing along the front of the [[Window|window]]; behind was a darker
 glimmer of old oak and old armour; and higher up hung the most
 extraordinary looking South Sea tools or utensils, whether designed
 for killing enemies or merely for cooking them, no mere white
-man could possibly conjecture.  But the romance of the eye,
+man could possibly conjecture.  But the [[Romance|romance]] of the eye,
 which really on this rich evening, clung about the shop, had its main
 source in the accident of two doors standing open, the front door
 that opened on the street and a back door that opened on an odd
-green square of garden, that the sun turned to a square of gold.
+green square of [[Garden|garden]], that the sun turned to a square of gold.
 There is nothing more beautiful than thus to look as it were through
-the archway of a house; as if the open sky were an interior chamber,
+the archway of a [[house]]; as if the open sky were an interior chamber,
 and the sun a secret lamp of the place.
 
 I have suggested that the sunset light made everything lovely.
 To say that it made the keeper of the curiosity shop lovely would
 be a tribute to it perhaps too extreme.  It would easily have
 made him beautiful if he had been merely squalid; if he had been
-a Jew of the Fagin type.  But he was a Jew of another and much
-less admirable type; a Jew with a very well-sounding name.
+a Jew of the [[Fagin]] type.  But he was a Jew of another and much
+less admirable type; a Jew with a very [[Well|well]]-sounding name.
 For though there are no hard tests for separating the tares and the wheat
 of any people, one rude but efficient guide is that the nice Jew
 is called Moses Solomon, and the nasty Jew is called Thornton Percy.
@@ -88,24 +88,24 @@ The tall Scotchman in grey took a step forward and spoke in a voice
 quite clear and bold, and yet somehow lifeless, like a man going
 through an ancient formality.
 
-"The fact is, Mr. Gordon, we have to place our honour in your hands.
-Words have passed between Mr. Turnbull and myself on a grave
+"The fact is, Mr. Gordon, we have to place our [[Honour|honour]] in your hands.
+Words have passed between Mr. Turnbull and myself on a [[Grave|grave]]
 and invaluable matter, which can only be atoned for by fighting.
 Unfortunately, as the police are in some sense pursuing us,
 we are hurried, and must fight now and without seconds.
-But if you will be so kind as to take us into your little garden
+But if you will be so kind as to take us into your little [[Garden|garden]]
 and see fair play, we shall feel how----"
 
 The shopman recovered himself from a stunning surprise and burst out:
 
-"Gentlemen, are you drunk?  A duel!  A duel in my garden.
-Go home, gentlemen, go home.  Why, what did you quarrel about?"
+"Gentlemen, are you drunk?  A duel!  A duel in my [[Garden|garden]].
+Go [[Home|home]], gentlemen, go [[Home|home]].  Why, what did you quarrel about?"
 
 "We quarrelled," said Evan, in the same dead voice, "about religion."
 The fat shopkeeper rolled about in his chair with enjoyment.
 
-"Well, this is a funny game," he said.  "So you want to commit
-murder on behalf of religion.  Well, well my religion is a little
+"[[Well]], this is a funny game," he said.  "So you want to commit
+murder on behalf of religion.  [[Well]], [[Well|well]] my religion is a little
 respect for humanity, and----"
 
 "Excuse me," cut in Turnbull, suddenly and fiercely, pointing towards
@@ -120,13 +120,13 @@ pointing backward to the pornographic bookseller.
 
 "Why, then," cried Turnbull, with grating contempt.
 "I will leave the religion of humanity confidently in your hands;
-but I am sorry I troubled you about such a thing as honour.
+but I am sorry I troubled you about such a thing as [[Honour|honour]].
 Look here, my man.  I do believe in humanity.  I do believe in liberty.
 My father died for it under the swords of the Yeomanry.  I am going
-to die for it, if need be, under that sword on your counter.  But if
-there is one sight that makes me doubt it it is your foul fat face.
+to die for it, if need be, under that [[Sword|sword]] on your counter.  But if
+there is one sight that makes me [[Doubt|doubt]] it it is your foul fat face.
 It is hard to believe you were not meant to be ruled like a dog
-or killed like a cockroach.  Don't try your slave's philosophy on me.
-We are going to fight, and we are going to fight in your garden,
+or killed like a cockroach.  Don't try your slave's [[philosophy]] on me.
+We are going to fight, and we are going to fight in your [[Garden|garden]],
 with your swords.  Be still!  Raise your voice above a whisper,
-and I run you through the body."
+and I run you through the [[Body|body]]."

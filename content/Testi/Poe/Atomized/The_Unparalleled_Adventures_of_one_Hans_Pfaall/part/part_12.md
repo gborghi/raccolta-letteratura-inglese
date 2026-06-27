@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 12)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 12)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -54,7 +54,7 @@ tags:
 
       horizontal direction. In that portion of the cloth forming the
 
-      bottom, was likewise, a fourth window, of the same kind, and
+      [[Bottom|bottom]], was likewise, a fourth [[Window|window]], of the same kind, and
 
       corresponding with a small aperture in the floor of the car
 
@@ -70,7 +70,7 @@ tags:
 
       matter of little consequence; for had I even been able to place a
 
-      window at top, the balloon itself would have prevented my making
+      [[Window|window]] at top, the balloon itself would have prevented my making
 
       any use of it.
 
@@ -82,15 +82,15 @@ tags:
 
       adapted in its inner edge to the windings of a screw. In this rim
 
-      was screwed the large tube of the condenser, the body of the
+      was screwed the large tube of the condenser, the [[Body|body]] of the
 
-      machine being, of course, within the chamber of gum-elastic.
+      [[Machine|machine]] being, of course, within the chamber of gum-elastic.
 
       Through this tube a quantity of the rare atmosphere circumjacent
 
-      being drawn by means of a vacuum created in the body of the
+      being drawn by means of a vacuum created in the [[Body|body]] of the
 
-      machine, was thence discharged, in a state of condensation, to
+      [[Machine|machine]], was thence discharged, in a state of condensation, to
 
       mingle with the thin air already in the chamber. This operation
 
@@ -98,17 +98,17 @@ tags:
 
       atmosphere proper for all the purposes of respiration. But in so
 
-      confined a space it would, in a short time, necessarily become
+      confined a space it would, in a short [[Time|time]], necessarily become
 
       foul, and unfit for use from frequent contact with the lungs. It
 
-      was then ejected by a small valve at the bottom of the car—the
+      was then ejected by a small valve at the [[Bottom|bottom]] of the car—the
 
       dense air readily sinking into the thinner atmosphere below. To
 
       avoid the inconvenience of making a total vacuum at any moment
 
-      within the chamber, this purification was never accomplished all
+      within the chamber, this [[Purification|purification]] was never accomplished all
 
       at once, but in a gradual manner—the valve being opened only for
 
@@ -120,7 +120,7 @@ tags:
 
       and kittens in a small basket, and suspended it outside the car
 
-      to a button at the bottom, close by the valve, through which I
+      to a button at the [[Bottom|bottom]], close by the valve, through which I
 
       could feed them at any moment when necessary. I did this at some
 
@@ -132,23 +132,23 @@ tags:
 
 
 
-      “By the time I had fully completed these arrangements and filled
+      “By the [[Time|time]] I had fully completed these arrangements and filled
 
       the chamber as explained, it wanted only ten minutes of nine
 
-      o’clock. During the whole period of my being thus employed, I
+      o’[[Clock|clock]]. During the whole period of my being thus employed, I
 
       endured the most terrible distress from difficulty of
 
       respiration, and bitterly did I repent the negligence or rather
 
-      fool-hardiness, of which I had been guilty, of putting off to the
+      [[Fool|fool]]-hardiness, of which I had been guilty, of putting off to the
 
       last moment a matter of so much importance. But having at length
 
       accomplished it, I soon began to reap the benefit of my
 
-      invention. Once again I breathed with perfect freedom and
+      invention. Once again I breathed with perfect [[Freedom|freedom]] and
 
       ease—and indeed why should I not? I was also agreeably surprised
 
@@ -164,7 +164,7 @@ tags:
 
       the uneasiness attending the removal of atmospheric pressure had
 
-      actually worn off, as I had expected, and that much of the pain
+      actually worn off, as I had expected, and that much of the [[Pain|pain]]
 
       endured for the last two hours should have been attributed
 
@@ -172,9 +172,9 @@ tags:
 
 
 
-      “At twenty minutes before nine o’clock—that is to say, a short
+      “At twenty minutes before nine o’[[Clock|clock]]—that is to say, a short
 
-      time prior to my closing up the mouth of the chamber, the mercury
+      [[Time|time]] prior to my closing up the mouth of the chamber, the mercury
 
       attained its limit, or ran down, in the barometer, which, as I
 
@@ -182,13 +182,13 @@ tags:
 
       indicated an altitude on my part of 132,000 feet, or
 
-      five-and-twenty miles, and I consequently surveyed at that time
+      five-and-twenty miles, and I consequently surveyed at that [[Time|time]]
 
       an extent of the earth’s area amounting to no less than the three
 
       hundred-and-twentieth part of its entire superficies. At nine
 
-      o’clock I had again lost sight of land to the eastward, but not
+      o’[[Clock|clock]] I had again lost sight of land to the eastward, but not
 
       before I became aware that the balloon was drifting rapidly to
 

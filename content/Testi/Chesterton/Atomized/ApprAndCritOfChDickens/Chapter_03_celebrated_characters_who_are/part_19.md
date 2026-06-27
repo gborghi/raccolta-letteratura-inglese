@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 19)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 19)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -14,21 +14,21 @@ tags:
 </nav>
 
 
-fireside. Real conviction and real charity are much nearer than people
+fireside. Real conviction and real [[Charity|charity]] are much nearer than people
 
-suppose. Dickens was capable of loving all men; but he refused to love
+suppose. Dickens was capable of loving all men; but he refused to [[Love|love]]
 
-all opinions. The modern humanitarian can love all opinions, but he
+all opinions. The modern humanitarian can [[Love|love]] all opinions, but he
 
-cannot love all men; he seems, sometimes, in the ecstasy of his
+cannot [[Love|love]] all men; he seems, sometimes, in the ecstasy of his
 
-humanitarianism, even to hate them all. He can love all opinions,
+[[Humanitarianism|humanitarianism]], even to hate them all. He can [[Love|love]] all opinions,
 
 including the opinion that men are unlovable.
 
 
 
-In feeling Dickens as a lover we must never forget him as a fighter, and
+In feeling Dickens as a [[Lover|lover]] we must never forget him as a fighter, and
 
 a fighter for a creed; but indeed there is no other kind of fighter. The
 
@@ -42,7 +42,7 @@ strictly to decide how far he was to be excused. He was willing to like
 
 Mr. Twemlow in spite of his snobbishness, but Dickens and Dickens's
 
-doctrine were alone to be judges of how far he was snobbish. There was
+doctrine were [[Alone|alone]] to be judges of how far he was snobbish. There was
 
 never a more didactic writer: hence there was never one more amusing. He
 
@@ -68,7 +68,7 @@ when you will not come upon one of the convictions of Dickens; and when
 
 you do come upon it you do know it. It is as hard and as high as any
 
-precipice or peak of the mountains. The highest and hardest of these
+precipice or peak of the [[Mountains|mountains]]. The highest and hardest of these
 
 peaks is _Hard Times_.
 
@@ -82,21 +82,21 @@ that his bones stick out. There are indeed many other books of his which
 
 are written better and written in a sadder tone. _Great Expectations_ is
 
-melancholy in a sense; but it is doubtful of everything, even of its
+[[Melancholy|melancholy]] in a sense; but it is doubtful of everything, even of its
 
-own melancholy. _The Tale of Two Cities_ is a great tragedy, but it is
+own [[Melancholy|melancholy]]. _The Tale of Two Cities_ is a great [[Tragedy|tragedy]], but it is
 
-still a sentimental tragedy. It is a great drama, but it is still a
+still a sentimental [[Tragedy|tragedy]]. It is a great drama, but it is still a
 
-melodrama. But this tale of _Hard Times_ is in some way harsher than all
+[[Melodrama|melodrama]]. But this tale of _Hard Times_ is in some way harsher than all
 
 these. For it is the expression of a righteous indignation which cannot
 
-condescend to humour and which cannot even condescend to pathos. Twenty
+condescend to [[Humour|humour]] and which cannot even condescend to pathos. Twenty
 
 times we have taken Dickens's hand and it has been sometimes hot with
 
-revelry and sometimes weak with weariness; but this time we start a
+revelry and sometimes weak with weariness; but this [[Time|time]] we start a
 
 little, for it is inhumanly cold; and then we realise that we have
 
@@ -146,11 +146,11 @@ unprepared for their ideas--a world ignorant of the possibility of such
 
 ideas. Somewhat the same mistake is made by those who suggest that
 
-Christianity was adopted by a world incapable of criticising it; whereas
+[[Christianity]] was adopted by a world incapable of criticising it; whereas
 
 obviously it was adopted by a world that was tired of criticising
 
-everything. The vital mistake that is made about the French Revolution
+everything. The vital mistake that is made about the [[French Revolution]]
 
 is merely this--that everyone talks about it as the introduction of a
 
@@ -164,9 +164,9 @@ world having never got used to them there would be no mass of men ready
 
 to fight for them at a moment's notice. That which was irritating about
 
-the French Revolution was this--that it was not the introduction of a
+the [[French Revolution]] was this--that it was not the introduction of a
 
-new ideal, but the practical fulfilment of an old one. From the time of
+new ideal, but the practical fulfilment of an old one. From the [[Time|time]] of
 
 the first fairy tales men had always believed ideally in equality; they
 
@@ -190,7 +190,7 @@ had been just too accurately copied. It was a platitude which they had
 
 always held in theory unexpectedly put into practice. The tyrants did
 
-not hate democracy because it was a paradox; they hated it because it
+not hate [[democracy]] because it was a [[Paradox|paradox]]; they hated it because it
 
 was a truism which seemed in some danger of coming true.
 

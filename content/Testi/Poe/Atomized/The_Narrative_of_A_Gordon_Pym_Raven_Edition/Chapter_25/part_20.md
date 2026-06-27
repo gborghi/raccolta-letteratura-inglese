@@ -72,7 +72,7 @@ tags:
 
       thrown into an extremity of agitation by seeing her unfold, for
 
-      the second time, the eye-glass which hung at her side, fully
+      the second [[Time|time]], the eye-glass which hung at her side, fully
 
       confront me as before, and, disregarding the renewed buzz of the
 
@@ -80,13 +80,13 @@ tags:
 
       composure which had previously so delighted and confounded my
 
-      soul.
+      [[Soul|soul]].
 
 
 
       This extraordinary behavior, by throwing me into a perfect fever
 
-      of excitement—into an absolute delirium of love—served rather to
+      of excitement—into an absolute delirium of [[Love|love]]—served rather to
 
       embolden than to disconcert me. In the mad intensity of my
 
@@ -126,7 +126,7 @@ tags:
 
       conception of my astonishment—of my profound amazement—my
 
-      delirious bewilderment of heart and soul—when, instantly
+      delirious bewilderment of heart and [[Soul|soul]]—when, instantly
 
       afterward, having again glanced furtively around, she allowed her
 
@@ -146,15 +146,15 @@ tags:
 
       mad with excess of happiness, it was myself at that moment. I
 
-      loved. This was my first love—so I felt it to be. It was love
+      loved. This was my first [[Love|love]]—so I felt it to be. It was [[Love|love]]
 
-      supreme—indescribable. It was “love at first sight;” and at first
+      supreme—indescribable. It was “[[Love|love]] at first sight;” and at first
 
       sight, too, it had been appreciated and returned.
 
 
 
-      Yes, returned. How and why should I doubt it for an instant. What
+      Yes, returned. How and why should I [[Doubt|doubt]] it for an instant. What
 
       other construction could I possibly put upon such conduct, on the
 
@@ -166,7 +166,7 @@ tags:
 
       was Madame Lalande? Yes, she loved me—she returned the enthusiasm
 
-      of my love, with an enthusiasm as blind—as uncompromising—as
+      of my [[Love|love]], with an enthusiasm as blind—as uncompromising—as
 
       uncalculating—as abandoned—and as utterly unbounded as my own!
 
@@ -194,13 +194,13 @@ tags:
 
       This morrow at last came, that is to say, a day finally dawned
 
-      upon a long and weary night of impatience; and then the hours
+      upon a long and weary [[Night|night]] of impatience; and then the hours
 
       until “one” were snail-paced, dreary, and innumerable. But even
 
       Stamboul, it is said, shall have an end, and there came an end to
 
-      this long delay. The clock struck. As the last echo ceased, I
+      this long delay. The [[Clock|clock]] struck. As the last echo ceased, I
 
       stepped into B——’s and inquired for Talbot.
 

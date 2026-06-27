@@ -32,7 +32,7 @@ yet without which it cannot be itself.
 
 In any case, as I have said, I think that we must always conceive
 of that which is the goal of all our endeavours as something which is
-in some strange way near.  Science boasts of the distance of its stars;
+in some strange way near.  Science boasts of the distance of its [[Stars|stars]];
 of the terrific remoteness of the things of which it has to speak.
 But poetry and religion always insist upon the proximity, the almost
 menacing closeness of the things with which they are concerned.
@@ -53,13 +53,13 @@ and found myself in England.
 The singular shock experienced perhaps requires explanation.
 In the darkest or the most inadequate moments of England there
 is one thing that should always be remembered about the very
-nature of our country.  It may be shortly stated by saying that
-England is not such a fool as it looks.  The types of England,
+[[Nature|nature]] of our country.  It may be shortly stated by saying that
+England is not such a [[Fool|fool]] as it looks.  The types of England,
 the externals of England, always misrepresent the country.
 England is an oligarchical country, and it prefers that its
 oligarchy should be inferior to itself.
 
-The speaking in the House of Commons, for instance, is not only worse
+The speaking in the [[house|House]] of Commons, for instance, is not only worse
 than the speaking was, it is worse than the speaking is, in all or
 almost all other places in small debating clubs or casual dinners.
 Our countrymen probably prefer this solemn futility in the higher
@@ -80,19 +80,19 @@ It is the same with the voters.  The average man votes below himself;
 he votes with half a mind or with a hundredth part of one.
 A man ought to vote with the whole of himself as he worships
 or gets married.  A man ought to vote with his head and heart,
-his soul and stomach, his eye for faces and his ear for music;
+his [[Soul|soul]] and stomach, his eye for faces and his ear for music;
 also (when sufficiently provoked) with his hands and feet.
 If he has ever seen a fine sunset, the crimson colour of it
-should creep into his vote.  If he has ever heard splendid songs,
-they should be in his ears when he makes the mystical cross.
-But as it is, the difficulty with English democracy at all
+should creep into his vote.  If he has ever heard splendid [[songs]],
+they should be in his ears when he makes the mystical [[Cross|cross]].
+But as it is, the difficulty with English [[democracy]] at all
 elections is that it is something less than itself.  The question
 is not so much whether only a minority of the electorate votes.
 The point is that only a minority of the voter votes.
 
 . . . . .
 
-This is the tragedy of England; you cannot judge it by its foremost men.
+This is the [[Tragedy|tragedy]] of England; you cannot judge it by its foremost men.
 Its types do not typify.  And on the occasion of which I speak
 I found this to be so especially of that old intelligent middle
 class which I had imagined had almost vanished from the world.
@@ -104,12 +104,12 @@ the people in question are welcome to have either of them, or, as is
 more likely, to have both, in hideous alternations of disease and cure.
 But all the prominent men who plainly represent the middle class have
 adopted either the single eye-glass of Mr Chamberlain or the single
-eye of Mr. Bernard Shaw.
+eye of Mr. Bernard [[Shaw]].
 
 The old class that I mean has no representative.  Its food was plentiful;
 but it had no show.  Its food was plain; but it had no fads.
 It was serious about politics; and when it spoke in public it
-committed the solecism of trying to speak well.  I thought that
+committed the solecism of trying to speak [[Well|well]].  I thought that
 this old earnest political England had practically disappeared.
 And as I say, I took one turn out of Fleet Street and I found
 a room full of it.
@@ -118,7 +118,7 @@ a room full of it.
 
 At the top of the room was a chair in which Johnson had sat.
 The club was a club in which Wilkes had spoken,
-in a time when even the ne'er-do-weel was virile.
+in a [[Time|time]] when even the ne'er-do-weel was virile.
 But all these things by themselves might be merely archaism.
 The extraordinary thing was that this hall had all the hubbub,
 the sincerity, the anger, the oratory of the eighteenth century.
@@ -126,15 +126,15 @@ The members of this club were of all shades of opinion, yet there
 was not one speech which gave me that jar of unreality which I
 often have in listening to the ablest men uttering my own opinion.
 The Toryism of this club was like the Toryism of Johnson,
-a Toryism that could use humour and appealed to humanity.
-The democracy of this club was like the democracy of Wilkes,
-a democracy that can speak epigrams and fight duels;
-a democracy that can face things out and endure slander;
-the democracy of Wilkes, or, rather, the democracy of Fox.
+a Toryism that could use [[Humour|humour]] and appealed to humanity.
+The [[democracy]] of this club was like the [[democracy]] of Wilkes,
+a [[democracy]] that can speak epigrams and fight duels;
+a [[democracy]] that can face things out and endure slander;
+the [[democracy]] of Wilkes, or, rather, the [[democracy]] of Fox.
 
-One thing especially filled my soul with the soul of my fathers.
-Each man speaking, whether he spoke well or ill, spoke as
-well as he could from sheer fury against the other man.
+One thing especially filled my [[Soul|soul]] with the [[Soul|soul]] of my fathers.
+Each man speaking, whether he spoke [[Well|well]] or ill, spoke as
+[[Well|well]] as he could from sheer fury against the other man.
 This is the greatest of our modern descents, that nowadays a man
 does not become more rhetorical as he becomes more sincere.
 An eighteenth-century speaker, when he got really and honestly furious,
@@ -145,23 +145,23 @@ the rhetoric is put into the merely formal part, the opening
 to which nobody listens.  But when Mr. Chamberlain, or a Moderate,
 or one of the harder kind of Socialists, becomes really sincere,
 he becomes Cockney.  "The destiny of the Empire," or "The destiny
-of humanity," do well enough for mere ornamental preliminaries,
+of humanity," do [[Well|well]] enough for mere ornamental preliminaries,
 but when the man becomes angry and honest, then it is a snarl,
 "Where do we come in?" or "It's your money they want."
 
 The men in this eighteenth-century club were entirely different;
-they were quite eighteenth century.  Each one rose to his feet
+they were quite eighteenth century.  Each one [[Rose|rose]] to his feet
 quivering with passion, and tried to destroy his opponent,
 not with sniggering, but actually with eloquence.
-I was arguing with them about Home Rule; at the end I told them
+I was arguing with them about [[Home]] Rule; at the end I told them
 why the English aristocracy really disliked an Irish Parliament;
 because it would be like their club.
 
 . . . . .
 
-I came out again into Fleet Street at night, and by a dim lamp I
-saw pasted up some tawdry nonsense about Wastrels and how London
-was rising against something that London had hardly heard of.
+I came out again into Fleet Street at [[Night|night]], and by a dim lamp I
+saw pasted up some tawdry nonsense about Wastrels and how [[London]]
+was rising against something that [[London]] had hardly heard of.
 Then I suddenly saw, as in one obvious picture, that the modern world
 is an immense and tumultuous ocean, full of monstrous and living things.
 And I saw that across the top of it is spread a thin, a very thin,

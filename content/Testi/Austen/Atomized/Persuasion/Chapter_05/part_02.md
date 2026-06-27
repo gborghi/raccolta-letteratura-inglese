@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 5 (part 2)"
+title: "[[Persuasion]] — Chapter 5 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -16,7 +16,7 @@ tags:
 
 rather better acquainted with her sentiments than you can be, I can
 
-assure you, that upon the subject of marriage they are particularly
+assure you, that upon the subject of [[Marriage|marriage]] they are particularly
 
 nice, and that she reprobates all inequality of condition and rank more
 
@@ -84,13 +84,13 @@ spirits; Sir Walter prepared with condescending bows for all the
 
 afflicted tenantry and cottagers who might have had a hint to show
 
-themselves, and Anne walked up at the same time, in a sort of desolate
+themselves, and Anne walked up at the same [[Time|time]], in a sort of desolate
 
 tranquillity, to the Lodge, where she was to spend the first week.
 
 
 
-Her friend was not in better spirits than herself. Lady Russell felt
+Her friend was not in better spirits than herself. [[Lady Russell]] felt
 
 this break-up of the family exceedingly. Their respectability was as
 
@@ -100,15 +100,15 @@ habit. It was painful to look upon their deserted grounds, and still
 
 worse to anticipate the new hands they were to fall into; and to escape
 
-the solitariness and the melancholy of so altered a village, and be out
+the solitariness and the [[Melancholy|melancholy]] of so altered a village, and be out
 
 of the way when Admiral and Mrs Croft first arrived, she had determined
 
-to make her own absence from home begin when she must give up Anne.
+to make her own absence from [[Home|home]] begin when she must give up Anne.
 
 Accordingly their removal was made together, and Anne was set down at
 
-Uppercross Cottage, in the first stage of Lady Russell’s journey.
+Uppercross Cottage, in the first stage of [[Lady Russell]]’s [[Journey|journey]].
 
 
 
@@ -122,11 +122,11 @@ mansion of the squire, with its high walls, great gates, and old trees,
 
 substantial and unmodernized, and the compact, tight parsonage,
 
-enclosed in its own neat garden, with a vine and a pear-tree trained
+enclosed in its own neat [[Garden|garden]], with a vine and a pear-tree trained
 
-round its casements; but upon the marriage of the young ’squire, it had
+round its casements; but upon the [[Marriage|marriage]] of the young ’squire, it had
 
-received the improvement of a farm-house elevated into a cottage, for
+received the improvement of a farm-[[house]] elevated into a cottage, for
 
 his residence, and Uppercross Cottage, with its veranda, French
 
@@ -134,31 +134,31 @@ windows, and other prettiness, was quite as likely to catch the
 
 traveller’s eye as the more consistent and considerable aspect and
 
-premises of the Great House, about a quarter of a mile farther on.
+premises of the [[Great House]], about a quarter of a mile farther on.
 
 
 
 Here Anne had often been staying. She knew the ways of Uppercross as
 
-well as those of Kellynch. The two families were so continually
+[[Well|well]] as those of Kellynch. The two families were so continually
 
 meeting, so much in the habit of running in and out of each other’s
 
-house at all hours, that it was rather a surprise to her to find Mary
+[[house]] at all hours, that it was rather a surprise to her to find Mary
 
-alone; but being alone, her being unwell and out of spirits was almost
+[[Alone|alone]]; but being [[Alone|alone]], her being unwell and out of spirits was almost
 
 a matter of course. Though better endowed than the elder sister, Mary
 
-had not Anne’s understanding nor temper. While well, and happy, and
+had not Anne’s understanding nor temper. While [[Well|well]], and happy, and
 
-properly attended to, she had great good humour and excellent spirits;
+properly attended to, she had great good [[Humour|humour]] and excellent spirits;
 
 but any indisposition sunk her completely. She had no resources for
 
-solitude; and inheriting a considerable share of the Elliot
+[[Solitude|solitude]]; and inheriting a considerable share of the Elliot
 
-self-importance, was very prone to add to every other distress that of
+[[Self|self]]-importance, was very prone to add to every other distress that of
 
 fancying herself neglected and ill-used. In person, she was inferior to
 
@@ -184,33 +184,33 @@ morning!”
 
 “I am sorry to find you unwell,” replied Anne. “You sent me such a good
 
-account of yourself on Thursday!”
+account of yourself on [[thursday|Thursday]]!”
 
 
 
-“Yes, I made the best of it; I always do: but I was very far from well
+“Yes, I made the best of it; I always do: but I was very far from [[Well|well]]
 
-at the time; and I do not think I ever was so ill in my life as I have
+at the [[Time|time]]; and I do not think I ever was so ill in my life as I have
 
-been all this morning: very unfit to be left alone, I am sure. Suppose
+been all this morning: very unfit to be left [[Alone|alone]], I am sure. Suppose
 
 I were to be seized of a sudden in some dreadful way, and not able to
 
-ring the bell! So, Lady Russell would not get out. I do not think she
+ring the bell! So, [[Lady Russell]] would not get out. I do not think she
 
-has been in this house three times this summer.”
+has been in this [[house]] three times this [[Summer|summer]].”
 
 
 
 Anne said what was proper, and enquired after her husband. “Oh! Charles
 
-is out shooting. I have not seen him since seven o’clock. He would go,
+is out shooting. I have not seen him since seven o’[[Clock|clock]]. He would go,
 
 though I told him how ill I was. He said he should not stay out long;
 
 but he has never come back, and now it is almost one. I assure you, I
 
-have not seen a soul this whole long morning.”
+have not seen a [[Soul|soul]] this whole long morning.”
 
 
 

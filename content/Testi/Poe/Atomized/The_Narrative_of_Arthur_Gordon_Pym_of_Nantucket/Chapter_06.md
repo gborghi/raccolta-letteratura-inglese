@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 7"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 7"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -22,7 +22,7 @@ CHAPTER VII.
 
 _July 10._ Spoke a brig from Rio, bound to Norfolk. Weather hazy, with
 
-a light baffling wind from the eastward. To-day Hartman Rogers died,
+a light baffling [[Wind|wind]] from the eastward. To-day Hartman Rogers died,
 
 having been attacked on the eighth with spasms after drinking a glass
 
@@ -34,23 +34,23 @@ had poisoned him, and that he expected, if he did not be on the
 
 look-out, his own turn would come shortly. There were now only himself,
 
-Jones, and the cook belonging to his own gang--on the other side there
+[[Jones]], and the cook belonging to his own gang--on the other side there
 
-were five. He had spoken to Jones about taking the command from the
+were five. He had spoken to [[Jones]] about taking the command from the
 
 mate; but the project having been coolly received, he had been deterred
 
 from pressing the matter any further, or from saying anything to the
 
-cook. It was well, as it happened, that he was so prudent, for in the
+cook. It was [[Well|well]], as it happened, that he was so prudent, for in the
 
 afternoon the cook expressed his determination of siding with the mate,
 
-and went over formally to that party; while Jones took an opportunity
+and went over formally to that party; while [[Jones]] took an opportunity
 
 of quarrelling with Peters, and hinted that he would let the mate know
 
-of the plan in agitation. There was now, evidently, no time to be lost,
+of the plan in agitation. There was now, evidently, no [[Time|time]] to be lost,
 
 and Peters expressed his determination of attempting to take the vessel
 
@@ -62,7 +62,7 @@ purpose, and, thinking the opportunity a favourable one, made known the
 
 fact of my being on board. At this the hybrid was not more astonished
 
-than delighted, as he had no reliance whatever upon Jones, whom he
+than delighted, as he had no reliance whatever upon [[Jones]], whom he
 
 already considered as belonging to the party of the mate. They went
 
@@ -70,9 +70,9 @@ below immediately, when Augustus called to me by name, and Peters and
 
 myself were soon made acquainted. It was agreed that we should attempt
 
-to retake the vessel upon the first good opportunity, leaving Jones
+to retake the vessel upon the first good opportunity, leaving [[Jones]]
 
-altogether out of our councils. In the event of success we were to run
+altogether out of our councils. In the event of [[success]] we were to run
 
 the brig into the first port that offered, and deliver her up. The
 
@@ -100,17 +100,17 @@ properly taken in, a violent squall laid the brig on her beam-ends. By
 
 keeping her away, however, she righted, having shipped a good deal of
 
-water. Scarcely was everything secure, when another squall took the
+[[Water|water]]. Scarcely was everything secure, when another squall took the
 
 vessel, and immediately afterward another--no damage being done. There
 
-was every appearance of a gale of wind, which, indeed, shortly came on,
+was every appearance of a gale of [[Wind|wind]], which, indeed, shortly came on,
 
 with great fury, from the northward and westward. All was made as snug
 
 as possible, and we laid to, as usual, under a close-reefed foresail.
 
-As night drew on, the wind increased in violence, with a remarkably
+As [[Night|night]] drew on, the [[Wind|wind]] increased in violence, with a remarkably
 
 heavy sea. Peters now came into the forecastle with Augustus, and we
 
@@ -142,7 +142,7 @@ always wore in the waistband of his pantaloons. From certain
 
 indications, too, such, for example, as there being no such thing as an
 
-axe or a handspike lying in their customary places, we began to fear
+axe or a handspike lying in their customary places, we began to [[Fear|fear]]
 
 that the mate had his suspicions, at least in regard to Peters, and
 
@@ -182,11 +182,11 @@ was upon the alert--it not being usual, except in vessels where
 
 discipline is most rigidly enforced, to station a watch on deck when a
 
-vessel is lying to in a gale of wind. As I address myself principally,
+vessel is lying to in a gale of [[Wind|wind]]. As I address myself principally,
 
 if not altogether, to persons who have never been to sea, it may be as
 
-well to state the exact condition of a vessel under such circumstances.
+[[Well|well]] to state the exact condition of a vessel under such circumstances.
 
 Lying to, or, in sea-parlance "laying to," is a measure resorted to for
 
@@ -200,25 +200,25 @@ vessel which lies to is under full sail, the manoeuvre is usually
 
 accomplished by throwing round some portion of her sails so as to let
 
-the wind take them aback, when she becomes stationary. But we are now
+the [[Wind|wind]] take them aback, when she becomes stationary. But we are now
 
-speaking of lying to in a gale of wind. This is done when the wind is
+speaking of lying to in a gale of [[Wind|wind]]. This is done when the [[Wind|wind]] is
 
 ahead, and too violent to admit of carrying sail without danger of
 
-capsizing; and sometimes even when the wind is fair, but the sea too
+capsizing; and sometimes even when the [[Wind|wind]] is fair, but the sea too
 
 heavy for the vessel to be put before it. If a vessel be suffered to
 
-scud before the wind in a very heavy sea, much damage is usually done
+scud before the [[Wind|wind]] in a very heavy sea, much damage is usually done
 
-her by the shipping of water over her stern, and sometimes by the
+her by the shipping of [[Water|water]] over her stern, and sometimes by the
 
 violent plunges she makes forward. This manoeuvre, then, is seldom
 
 resorted to in such case, unless through necessity. When the vessel is
 
-in a leaky condition, she is often put before the wind even in the
+in a leaky condition, she is often put before the [[Wind|wind]] even in the
 
 heaviest seas; for, when lying to, her seams are sure to be greatly
 
@@ -228,7 +228,7 @@ scudding. Often, too, it becomes necessary to scud a vessel, either
 
 when the blast is so exceedingly furious as to tear in pieces the sail
 
-which is employed with a view of bringing her head to the wind, or
+which is employed with a view of bringing her head to the [[Wind|wind]], or
 
 when, through the false modelling of the frame or other causes, this
 
@@ -236,17 +236,17 @@ main object cannot be effected.
 
 
 
-Vessels in a gale of wind are laid to in different manners, according
+Vessels in a gale of [[Wind|wind]] are laid to in different manners, according
 
 to their peculiar construction. Some lie to best under a foresail, and
 
 this, I believe, is the sail most usually employed. Large square-rigged
 
-vessels have sails for the express purpose, called storm-staysails. But
+vessels have sails for the express purpose, called [[Storm|storm]]-staysails. But
 
 the jib is occasionally employed by itself--sometimes the jib and
 
-foresail, or a double-reefed foresail, and not unfrequently the
+foresail, or a [[Double|double]]-reefed foresail, and not unfrequently the
 
 after-sails, are made use of. Foretopsails are very often found to
 
@@ -256,7 +256,7 @@ was generally laid to under a close-reefed foresail.
 
 
 
-When a vessel is to be laid to, her head is brought up to the wind just
+When a vessel is to be laid to, her head is brought up to the [[Wind|wind]] just
 
 so nearly as to fill the sail under which she lies, when hauled flat
 
@@ -264,11 +264,11 @@ aft, that is, when brought diagonally across the vessel. This being
 
 done, the bows point within a few degrees of the direction from which
 
-the wind issues, and the windward bow of course receives the shock of
+the [[Wind|wind]] issues, and the windward bow of course receives the shock of
 
 the waves. In this situation a good vessel will ride out a very heavy
 
-gale of wind without shipping a drop of water, and without any further
+gale of [[Wind|wind]] without shipping a drop of [[Water|water]], and without any further
 
 attention being requisite on the part of the crew. The helm is usually
 
@@ -282,21 +282,21 @@ than lashed very fast, for the rudder is apt to be torn off by heavy
 
 seas if there be no room for the helm to play. As long as the sail
 
-holds, a well-modelled vessel will maintain her situation, and ride
+holds, a [[Well|well]]-modelled vessel will maintain her situation, and ride
 
 every sea, as if instinct with life and reason. If the violence of the
 
-wind, however, should tear the sail into pieces (a feat which it
+[[Wind|wind]], however, should tear the sail into pieces (a feat which it
 
 requires a perfect hurricane to accomplish under ordinary
 
 circumstances), there is then imminent danger. The vessel falls off
 
-from the wind, and, coming broadside to the sea, is completely at its
+from the [[Wind|wind]], and, coming broadside to the sea, is completely at its
 
-mercy: the only resource in this case is to put her quickly before the
+[[Mercy|mercy]]: the only resource in this case is to put her quickly before the
 
-wind, letting her scud until some other sail can be set. Some vessels
+[[Wind|wind]], letting her scud until some other sail can be set. Some vessels
 
 will lie to under no sail whatever, but such are not to be trusted at
 
@@ -306,17 +306,17 @@ sea.
 
 But to return from this digression. It had never been customary with
 
-the mate to have any watch on deck when lying to in a gale of wind, and
+the mate to have any watch on deck when lying to in a gale of [[Wind|wind]], and
 
 the fact that he had now one, coupled with the circumstance of the
 
 missing axes and handspikes, fully convinced us that the crew were too
 
-well on the watch to be taken by surprise in the manner Peters had
+[[Well|well]] on the watch to be taken by surprise in the manner Peters had
 
 suggested. Something, however, was to be done, and that with as little
 
-delay as practicable, for there could be no doubt that a suspicion
+delay as practicable, for there could be no [[Doubt|doubt]] that a suspicion
 
 having been once entertained against Peters, he would be sacrificed
 
@@ -334,19 +334,19 @@ stateroom, we might possibly be able to come upon them unawares by
 
 means of the hold; but a little reflection convinced us that the vessel
 
-rolled and pitched too violently for any attempt of that nature.
+rolled and pitched too violently for any attempt of that [[Nature|nature]].
 
 
 
 By good fortune I at length hit upon the idea of working upon the
 
-superstitious terrors and guilty conscience of the mate. It will be
+superstitious terrors and guilty [[Conscience|conscience]] of the mate. It will be
 
 remembered that one of the crew, Hartman Rogers, had died during the
 
 morning, having been attacked two days before with spasms after
 
-drinking some spirits and water. Peters had expressed to us his opinion
+drinking some spirits and [[Water|water]]. Peters had expressed to us his opinion
 
 that this man had been poisoned by the mate, and for this belief he had
 
@@ -366,13 +366,13 @@ determined to act accordingly.
 
 Rogers had died about eleven in the forenoon, in violent convulsions;
 
-and the corpse presented in a few minutes after death one of the most
+and the corpse presented in a few minutes after [[Death|death]] one of the most
 
 horrid and loathsome spectacles I ever remember to have seen. The
 
 stomach was swollen immensely, like that of a man who has been drowned
 
-and lain under water for many weeks. The hands were in the same
+and lain under [[Water|water]] for many weeks. The hands were in the same
 
 condition, while the face was shrunken, shrivelled, and of a chalky
 
@@ -382,15 +382,15 @@ like those occasioned by the erysipelas: one of these splotches
 
 extended diagonally across the face, completely covering up an eye as
 
-if with a band of red velvet. In this disgusting condition the body had
+if with a band of red velvet. In this disgusting condition the [[Body|body]] had
 
-been brought up from the cabin at noon to be thrown overboard, when the
+been brought up from the cabin at [[Noon|noon]] to be thrown overboard, when the
 
-mate getting a glimpse of it (for he now saw it for the first time),
+mate getting a glimpse of it (for he now saw it for the first [[Time|time]]),
 
 and being either touched with remorse for his crime or struck with
 
-terror at so horrible a sight, ordered the men to sew the body up in
+terror at so horrible a sight, ordered the men to sew the [[Body|body]] up in
 
 its hammock, and allow it the usual rites of sea-burial. Having given
 
@@ -402,7 +402,7 @@ came on with great fury, and the design was abandoned for the present.
 
 The corpse, left to itself, was washed into the larboard scuppers,
 
-where it still lay at the time of which I speak, floundering about with
+where it still lay at the [[Time|time]] of which I speak, floundering about with
 
 the furious lurches of the brig.
 
@@ -416,7 +416,7 @@ anticipated, was immediately accosted by Allen, who appeared to be
 
 stationed more as a watch upon the forecastle than for any other
 
-purpose. The fate of this villain, however, was speedily and silently
+purpose. The fate of this [[Villain|villain]], however, was speedily and silently
 
 decided; for Peters, approaching him in a careless manner, as if about
 
@@ -436,15 +436,15 @@ It was indispensable, too, that we should be quick in our operations,
 
 for every minute we expected the mate to be up to set the pumps going,
 
-as it was evident the brig must be taking in water very fast. After
+as it was evident the brig must be taking in [[Water|water]] very fast. After
 
-searching about for some time, we could find nothing more fit for our
+searching about for some [[Time|time]], we could find nothing more fit for our
 
 purpose than the two pump-handles, one of which Augustus took, and I
 
 the other. Having secured these, we stripped off the shirt of the
 
-corpse and dropped the body overboard. Peters and myself then went
+corpse and dropped the [[Body|body]] overboard. Peters and myself then went
 
 below, leaving Augustus to watch upon deck, where he took his station
 
@@ -458,7 +458,7 @@ he might suppose it was the watch.
 
 As soon as I got below I commenced disguising myself so as to represent
 
-the corpse of Rogers. The shirt which we had taken from the body aided
+the corpse of Rogers. The shirt which we had taken from the [[Body|body]] aided
 
 us very much, for it was of a singular form and character, and easily
 
@@ -468,7 +468,7 @@ clothing. It was a blue stockinett, with large white stripes running
 
 across. Having put this on, I proceeded to equip myself with a false
 
-stomach, in imitation of the horrible deformity of the swollen corpse.
+stomach, in [[Imitation|imitation]] of the horrible deformity of the swollen corpse.
 
 This was soon effected by means of stuffing with some bedclothes. I
 
@@ -476,9 +476,9 @@ then gave the same appearance to my hands by drawing on a pair of white
 
 woollen mittens, and filling them in with any kind of rags that offered
 
-themselves. Peters then arranged my face, first rubbing it well over
+themselves. Peters then arranged my face, first rubbing it [[Well|well]] over
 
-with white chalk, and afterward splotching it with blood, which he took
+with white [[chalk]], and afterward splotching it with [[Blood|blood]], which he took
 
 from a cut in his finger. The streak across the eye was not forgotten,
 

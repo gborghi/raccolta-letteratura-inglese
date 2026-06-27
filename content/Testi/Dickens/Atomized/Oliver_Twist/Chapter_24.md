@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 24"
+title: "[[Oliver Twist]] — Chapter 24"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -16,26 +16,26 @@ tags:
 
  CHAPTER XXIV.
 TREATS ON A VERY POOR SUBJECT, BUT IS A SHORT ONE, AND MAY BE FOUND OF
-IMPORTANCE IN THIS HISTORY
+IMPORTANCE IN THIS [[history|HISTORY]]
 
 
-It was no unfit messenger of death, who had disturbed the quiet of the
-matron’s room. Her body was bent by age; her limbs trembled with palsy;
-her face, distorted into a mumbling leer, resembled more the grotesque
-shaping of some wild pencil, than the work of Nature’s hand.
+It was no unfit messenger of [[Death|death]], who had disturbed the quiet of the
+matron’s room. Her [[Body|body]] was bent by age; her limbs trembled with palsy;
+her face, distorted into a mumbling leer, resembled more the [[Grotesque|grotesque]]
+shaping of some wild pencil, than the work of [[Nature]]’s hand.
 
-Alas! How few of Nature’s faces are left alone to gladden us with their
-beauty! The cares, and sorrows, and hungerings, of the world, change
-them as they change hearts; and it is only when those passions sleep,
+Alas! How few of [[Nature]]’s faces are left [[Alone|alone]] to gladden us with their
+[[Beauty|beauty]]! The cares, and sorrows, and hungerings, of the world, change
+them as they change hearts; and it is only when those passions [[Sleep|sleep]],
 and have lost their hold for ever, that the troubled clouds pass off,
 and leave Heaven’s surface clear. It is a common thing for the
 countenances of the dead, even in that fixed and rigid state, to
 subside into the long-forgotten expression of sleeping infancy, and
 settle into the very look of early life; so calm, so peaceful, do they
-grow again, that those who knew them in their happy childhood, kneel by
+grow again, that those who knew them in their happy [[Childhood|childhood]], kneel by
 the coffin’s side in awe, and see the Angel even upon earth.
 
-The old crone tottered along the passages, and up the stairs, muttering
+The old [[Crone|crone]] tottered along the passages, and up the stairs, muttering
 some indistinct answers to the chidings of her companion; being at
 length compelled to pause for breath, she gave the light into her hand,
 and remained behind to follow as she might: while the more nimble
@@ -43,18 +43,18 @@ superior made her way to the room where the sick woman lay.
 
 It was a bare garret-room, with a dim light burning at the farther end.
 There was another old woman watching by the bed; the parish
-apothecary’s apprentice was standing by the fire, making a toothpick
+apothecary’s apprentice was standing by the [[Fire|fire]], making a toothpick
 out of a quill.
 
-“Cold night, Mrs. Corney,” said this young gentleman, as the matron
+“Cold [[Night|night]], Mrs. Corney,” said this young gentleman, as the matron
 entered.
 
 “Very cold, indeed, sir,” replied the mistress, in her most civil
 tones, and dropping a curtsey as she spoke.
 
 “You should get better coals out of your contractors,” said the
-apothecary’s deputy, breaking a lump on the top of the fire with the
-rusty poker; “these are not at all the sort of thing for a cold night.”
+apothecary’s deputy, breaking a lump on the top of the [[Fire|fire]] with the
+rusty poker; “these are not at all the sort of thing for a cold [[Night|night]].”
 
 “They’re the board’s choosing, sir,” returned the matron. “The least
 they could do, would be to keep us pretty warm: for our places are hard
@@ -80,17 +80,17 @@ the young man. “Put the light on the floor. She won’t see it there.”
 
 The attendant did as she was told: shaking her head meanwhile, to
 intimate that the woman would not die so easily; having done so, she
-resumed her seat by the side of the other nurse, who had by this time
+resumed her seat by the side of the other [[Nurse|nurse]], who had by this [[Time|time]]
 returned. The mistress, with an expression of impatience, wrapped
 herself in her shawl, and sat at the foot of the bed.
 
 The apothecary’s apprentice, having completed the manufacture of the
-toothpick, planted himself in front of the fire and made good use of it
+toothpick, planted himself in front of the [[Fire|fire]] and made good use of it
 for ten minutes or so: when apparently growing rather dull, he wished
 Mrs. Corney joy of her job, and took himself off on tiptoe.
 
-When they had sat in silence for some time, the two old women rose from
-the bed, and crouching over the fire, held out their withered hands to
+When they had sat in [[Silence|silence]] for some [[Time|time]], the two old women [[Rose|rose]] from
+the bed, and crouching over the [[Fire|fire]], held out their withered hands to
 catch the heat. The flame threw a ghastly light on their shrivelled
 faces, and made their ugliness appear terrible, as, in this position,
 they began to converse in a low voice.
@@ -99,7 +99,7 @@ they began to converse in a low voice.
 messenger.
 
 “Not a word,” replied the other. “She plucked and tore at her arms for
-a little time; but I held her hands, and she soon dropped off. She
+a little [[Time|time]]; but I held her hands, and she soon dropped off. She
 hasn’t much strength in her, so I easily kept her quiet. I ain’t so
 weak for an old woman, although I am on parish allowance; no, no!”
 
@@ -111,9 +111,9 @@ set, and she clenched the mug so hard that it was as much as I could do
 to get it back again. So _I_ drank it; and it did me good!”
 
 Looking cautiously round, to ascertain that they were not overheard,
-the two hags cowered nearer to the fire, and chuckled heartily.
+the two hags cowered nearer to the [[Fire|fire]], and chuckled heartily.
 
-“I mind the time,” said the first speaker, “when she would have done
+“I mind the [[Time|time]],” said the first speaker, “when she would have done
 the same, and made rare fun of it afterwards.”
 
 “Ay, that she would,” rejoined the other; “she had a merry heart. A
@@ -123,15 +123,15 @@ them too; for I have helped her, scores of times.”
 
 Stretching forth her trembling fingers as she spoke, the old creature
 shook them exultingly before her face, and fumbling in her pocket,
-brought out an old time-discoloured tin snuff-box, from which she shook
+brought out an old [[Time|time]]-discoloured tin snuff-box, from which she shook
 a few grains into the outstretched palm of her companion, and a few
 more into her own. While they were thus employed, the matron, who had
 been impatiently watching until the dying woman should awaken from her
-stupor, joined them by the fire, and sharply asked how long she was to
+stupor, joined them by the [[Fire|fire]], and sharply asked how long she was to
 wait?
 
 “Not long, mistress,” replied the second woman, looking up into her
-face. “We have none of us long to wait for Death. Patience, patience!
+face. “We have none of us long to wait for [[Death]]. Patience, patience!
 He’ll be here soon enough for us all.”
 
 “Hold your tongue, you doting idiot!” said the matron sternly. “You,
@@ -144,9 +144,9 @@ wake again but once—and mind, mistress, that won’t be for long!”
 
 “Long or short,” said the matron, snappishly, “she won’t find me here
 when she does wake; take care, both of you, how you worry me again for
-nothing. It’s no part of my duty to see all the old women in the house
+nothing. It’s no part of my duty to see all the old women in the [[house]]
 die, and I won’t—that’s more. Mind that, you impudent old harridans. If
-you make a fool of me again, I’ll soon cure you, I warrant you!”
+you make a [[Fool|fool]] of me again, I’ll soon cure you, I warrant you!”
 
 She was bouncing away, when a cry from the two women, who had turned
 towards the bed, caused her to look round. The patient had raised
@@ -174,15 +174,15 @@ door, and returned to the bedside. On being excluded, the old ladies
 changed their tone, and cried through the keyhole that old Sally was
 drunk; which, indeed, was not unlikely; since, in addition to a
 moderate dose of opium prescribed by the apothecary, she was labouring
-under the effects of a final taste of gin-and-water which had been
+under the effects of a final taste of gin-and-[[Water|water]] which had been
 privily administered, in the openness of their hearts, by the worthy
 old ladies themselves.
 
 “Now listen to me,” said the dying woman aloud, as if making a great
 effort to revive one latent spark of energy. “In this very room—in this
 very bed—I once nursed a pretty young creetur’, that was brought into
-the house with her feet cut and bruised with walking, and all soiled
-with dust and blood. She gave birth to a boy, and died. Let me
+the [[house]] with her feet cut and bruised with walking, and all soiled
+with [[Dust|dust]] and [[Blood|blood]]. She gave birth to a boy, and died. Let me
 think—what was the year again!”
 
 “Never mind the year,” said the impatient auditor; “what about her?”
@@ -205,7 +205,7 @@ back. “Go on, go on—yes—what of it? Who was the mother? When was it?”
 
 “She charged me to keep it safe,” replied the woman with a groan, “and
 trusted me as the only woman about her. I stole it in my heart when she
-first showed it me hanging round her neck; and the child’s death,
+first showed it me hanging round her neck; and the [[Child|child]]’s [[Death|death]],
 perhaps, is on me besides! They would have treated him better, if they
 had known it all!”
 
@@ -213,7 +213,7 @@ had known it all!”
 
 “The boy grew so like his mother,” said the woman, rambling on, and not
 heeding the question, “that I could never forget it when I saw his
-face. Poor girl! poor girl! She was so young, too! Such a gentle lamb!
+face. Poor girl! poor girl! She was so young, too! Such a gentle [[Lamb|lamb]]!
 Wait; there’s more to tell. I have not told you all, have I?”
 
 “No, no,” replied the matron, inclining her head to catch the words, as
@@ -221,23 +221,23 @@ they came more faintly from the dying woman. “Be quick, or it may be
 too late!”
 
 “The mother,” said the woman, making a more violent effort than before;
-“the mother, when the pains of death first came upon her, whispered in
+“the mother, when the pains of [[Death|death]] first came upon her, whispered in
 my ear that if her baby was born alive, and thrived, the day might come
 when it would not feel so much disgraced to hear its poor young mother
 named. ‘And oh, kind Heaven!’ she said, folding her thin hands
 together, ‘whether it be boy or girl, raise up some friends for it in
-this troubled world, and take pity upon a lonely desolate child,
-abandoned to its mercy!’”
+this troubled world, and take pity upon a lonely desolate [[Child|child]],
+abandoned to its [[Mercy|mercy]]!’”
 
 “The boy’s name?” demanded the matron.
 
-“They _called_ him Oliver,” replied the woman, feebly. “The gold I
+“They _called_ him [[Oliver]],” replied the woman, feebly. “The gold I
 stole was—”
 
 “Yes, yes—what?” cried the other.
 
 She was bending eagerly over the woman to hear her reply; but drew
-back, instinctively, as she once again rose, slowly and stiffly, into a
+back, instinctively, as she once again [[Rose|rose]], slowly and stiffly, into a
 sitting posture; then, clutching the coverlid with both hands, muttered
 some indistinct sounds in her throat, and fell lifeless on the bed.
 
@@ -250,4 +250,4 @@ carelessly away.
 
 The two crones, to all appearance, too busily occupied in the
 preparations for their dreadful duties to make any reply, were left
-alone, hovering about the body.
+[[Alone|alone]], hovering about the [[Body|body]].

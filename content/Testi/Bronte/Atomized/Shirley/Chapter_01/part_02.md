@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 1 (part 2)"
+title: "[[Shirley]] — Chapter 1 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -28,7 +28,7 @@ they set everybody beneath their 'fit.' They treat her with less than
 
 civility, just because she doesn't keep a servant, but does the work of
 
-the house herself, as her mother did afore her; then they are always
+the [[house]] herself, as her mother did afore her; then they are always
 
 speaking against Yorkshire ways and Yorkshire folk," and by that very
 
@@ -74,7 +74,7 @@ Mrs. Gale offered the loaf.
 
 she followed her inclinations, she would have cut the parson also; her
 
-Yorkshire soul revolted absolutely from his manner of command.
+Yorkshire [[Soul|soul]] revolted absolutely from his manner of command.
 
 
 
@@ -84,13 +84,13 @@ ate a great deal of it. They swallowed, too, a tolerable allowance of
 
 the "flat beer," while a dish of Yorkshire pudding, and two tureens of
 
-vegetables, disappeared like leaves before locusts. The cheese, too,
+vegetables, disappeared like [[Leaves|leaves]] before locusts. The [[cheese]], too,
 
 received distinguished marks of their attention; and a "spice-cake,"
 
 which followed by way of dessert, vanished like a vision, and was no
 
-more found. Its elegy was chanted in the kitchen by Abraham, Mrs. Gale's
+more found. Its [[elegy]] was chanted in the kitchen by Abraham, Mrs. Gale's
 
 son and heir, a youth of six summers; he had reckoned upon the reversion
 
@@ -108,7 +108,7 @@ rather have had whisky; but Mr. Donne, being an Englishman, did not keep
 
 the beverage. While they sipped they argued, not on politics, nor on
 
-philosophy, nor on literature--these topics were now, as ever, totally
+[[philosophy]], nor on literature--these topics were now, as ever, totally
 
 without interest for them--not even on theology, practical or doctrinal,
 
@@ -172,7 +172,7 @@ anatomy the bowels of natural affection had somehow been omitted.
 
 The victims met these attacks each in his own way: Mr. Donne with a
 
-stilted self-complacency and half-sullen phlegm, the sole props of his
+stilted [[Self|self]]-complacency and half-sullen phlegm, the sole props of his
 
 otherwise somewhat rickety dignity; Mr. Sweeting with the indifference
 
@@ -186,7 +186,7 @@ When Malone's raillery became rather too offensive, which it soon did,
 
 they joined, in an attempt to turn the tables on him by asking him how
 
-many boys had shouted "Irish Peter!" after him as he came along the road
+many boys had shouted "Irish Peter!" after him as he came along the [[Road|road]]
 
 that day (Malone's name was Peter--the Rev. Peter Augustus Malone);
 
@@ -194,11 +194,11 @@ requesting to be informed whether it was the mode in Ireland for
 
 clergymen to carry loaded pistols in their pockets, and a shillelah in
 
-their hands, when they made pastoral visits; inquiring the signification
+their hands, when they made [[Pastoral|pastoral]] visits; inquiring the signification
 
 of such words as vele, firrum, hellum, storrum (so Mr. Malone invariably
 
-pronounced veil, firm, helm, storm), and employing such other methods of
+pronounced veil, firm, helm, [[Storm|storm]]), and employing such other methods of
 
 retaliation as the innate refinement of their minds suggested.
 

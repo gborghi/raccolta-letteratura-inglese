@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Idiot (part 2)"
+title: "ball and [[Cross|cross]] — The Idiot (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -16,14 +16,14 @@ tags:
 
 But before the doors had clanged upon their dazed victims, MacIan had
 been able to say to Turnbull with a strange drawl of significance:
-"I wonder who A is."
+"I [[Wonder|wonder]] who A is."
 
 Turnbull made an automatic struggle before he allowed himself to be
 thrown into the cell.  Hence it happened that he was the last to enter,
 and was still full of the exhilaration of the adventures for at least
 five minutes after the echo of the clanging door had died away.
 
-Then, when silence had sunk deep and nothing happened for two
+Then, when [[Silence|silence]] had sunk deep and nothing happened for two
 and a half hours, it suddenly occurred to him that this was
 the end of his life.  He was hidden and sealed up in this little
 crack of stone until the flesh should fall off his bones.
@@ -31,7 +31,7 @@ He was dead, and the world had won.
 
 His cell was of an oblong shape, but very long in comparison with
 its width.  It was just wide enough to permit the arms to be fully
-extended with the dumb-bells, which were hung up on the left wall,
+extended with the dumb-[[Bells|bells]], which were hung up on the left wall,
 very dusty.  It was, however, long enough for a man to walk
 one thirty-fifth part of a mile if he traversed it entirely.
 On the same principle a row of fixed holes, quite close together,
@@ -39,7 +39,7 @@ let in to the cells by pipes what was alleged to be the freshest air.
 For these great scientific organizers insisted that a man should be
 healthy even if he was miserable.  They provided a walk long enough
 to give him exercise and holes large enough to give him oxygen.
-There their interest in human nature suddenly ceased.  It seemed never
+There their interest in human [[Nature|nature]] suddenly ceased.  It seemed never
 to have occurred to them that the benefit of exercise belongs partly
 to the benefit of liberty.  They had not entertained the suggestion
 that the open air is only one of the advantages of the open sky.
@@ -51,10 +51,10 @@ Every morning, while Turnbull was still half asleep on his iron
 bedstead which was lifted half-way up the wall and clamped to it
 with iron, four sluices or metal mouths opened above him at the four
 corners of the chamber and washed it white of any defilement.
-Turnbull's solitary soul surged up against this sickening daily solemnity.
+Turnbull's solitary [[Soul|soul]] surged up against this sickening daily solemnity.
 
 "I am buried alive!" he cried, bitterly; "they have hidden me
-under mountains.  I shall be here till I rot.  Why the blazes
+under [[Mountains|mountains]].  I shall be here till I rot.  Why the blazes
 should it matter to them whether I am dirty or clean."
 
 Every morning and evening an iron hatchway opened in his
@@ -70,7 +70,7 @@ Even the shape of his cell especially irritated him.
 It was a long, narrow parallelogram, which had a flat wall
 at one end and ought to have had a flat wall at the other;
 but that end was broken by a wedge or angle of space,
-like the prow of a ship.  After three days of silence and cocoa,
+like the prow of a [[Ship|ship]].  After three days of [[Silence|silence]] and cocoa,
 this angle at the end began to infuriate Turnbull.  It maddened
 him to think that two lines came together and pointed at nothing.
 After the fifth day he was reckless, and poked his head into the corner.
@@ -80,7 +80,7 @@ it like a sort of Robinson Crusoe.
 
 Almost unconsciously it was his instinct to examine outlets,
 and he found himself paying particular attention to the row
-of holes which let in the air into his last house of life.
+of holes which let in the air into his last [[house]] of life.
 He soon discovered that these air-holes were all the ends and mouths
 of long leaden tubes which doubtless carried air from some remote
 watering-place near Margate.  One evening while he was engaged
@@ -101,20 +101,20 @@ or now, can make a strong army merely by making the men afraid.
 But it does it with the permanent possibility that the men may
 some day be more afraid of their enemies than of their officers.
 Thus the drainage in our cities so long as it is quite solid means
-a general safety, but if there is one leak it means concentrated poison--
+a general safety, but if there is one leak it means concentrated [[Poison|poison]]--
 an explosion of deathly germs like dynamite, a spirit of stink.
 Thus, indeed, all that excellent machinery which is the swiftest thing
 on earth in saving human labour is also the slowest thing on earth
 in resisting human interference.  It may be easier to get chocolate
-for nothing out of a shopkeeper than out of an automatic machine.
-But if you did manage to steal the chocolate, the automatic machine
+for nothing out of a shopkeeper than out of an automatic [[Machine|machine]].
+But if you did manage to steal the chocolate, the automatic [[Machine|machine]]
 would be much less likely to run after you.
 
-Turnbull was not long in discovering this truth in connexion
+Turnbull was not long in discovering this [[Truth|truth]] in connexion
 with the cold and colossal machinery of this great asylum.
 He had been shaken by many spiritual states since the instant
 when he was pitched head foremost into that private cell which was
-to be his private room till death.  He had felt a high fit of pride
+to be his private room till [[Death|death]].  He had felt a high fit of [[Pride|pride]]
 and poetry, which had ebbed away and left him deadly cold.
 He had known a period of mere scientific curiosity, in the course
 of which he examined all the tiles of his cell, with the gratifying
@@ -122,13 +122,13 @@ conclusion that they were all the same shape and size;
 but was greatly puzzled about the angle in the wall at the end,
 and also about an iron peg or spike that stood out from
 the wall, the object of which he does not know to this day.
-Then he had a period of mere madness not to be written of by
+Then he had a period of mere [[Madness|madness]] not to be written of by
 decent men, but only by those few dirty novelists hallooed on
-by the infernal huntsman to hunt down and humiliate human nature.
+by the infernal huntsman to hunt down and humiliate human [[Nature|nature]].
 This also passed, but left behind it a feverish distaste for many
 of the mere objects around him.  Long after he had returned
-to sanity and such hopeless cheerfulness as a man might have on
-a desert island, he disliked the regular squares of the pattern
+to [[Sanity|sanity]] and such hopeless cheerfulness as a man might have on
+a [[Desert|desert]] island, he disliked the regular squares of the pattern
 of wall and floor and the triangle that terminated his corridor.
 Above all, he had a hatred, deep as the hell he did not believe in,
 for the objectless iron peg in the wall.

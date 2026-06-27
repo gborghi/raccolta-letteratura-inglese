@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 35 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 35 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,7 +24,7 @@ consciousness of some injustice towards herself, to deter her from
 
 saying that she was happy to see him, and that she had very much
 
-regretted being from home, when he called before in Berkeley Street.
+regretted being from [[Home|home]], when he called before in Berkeley Street.
 
 She would not be frightened from paying him those attentions which, as
 
@@ -34,7 +34,7 @@ Lucy, though she soon perceived them to be narrowly watching her.
 
 
 
-Her manners gave some re-assurance to Edward, and he had courage enough
+Her manners gave some re-assurance to Edward, and he had [[Courage|courage]] enough
 
 to sit down; but his embarrassment still exceeded that of the ladies in
 
@@ -42,7 +42,7 @@ a proportion, which the case rendered reasonable, though his sex might
 
 make it rare; for his heart had not the indifference of Lucy’s, nor
 
-could his conscience have quite the ease of Elinor’s.
+could his [[Conscience|conscience]] have quite the ease of Elinor’s.
 
 
 
@@ -70,7 +70,7 @@ _that_ in the handsomest manner, for she loitered away several minutes
 
 on the landing-place, with the most high-minded fortitude, before she
 
-went to her sister. When that was once done, however, it was time for
+went to her sister. When that was once done, however, it was [[Time|time]] for
 
 the raptures of Edward to cease; for Marianne’s joy hurried her into
 
@@ -104,15 +104,15 @@ should be checked by Lucy’s unwelcome presence. Edward was the first to
 
 speak, and it was to notice Marianne’s altered looks, and express his
 
-fear of her not finding London agree with her.
+[[Fear|fear]] of her not finding [[London]] agree with her.
 
 
 
 “Oh, don’t think of me!” she replied with spirited earnestness, though
 
-her eyes were filled with tears as she spoke, “don’t think of _my_
+her eyes were filled with [[Tears|tears]] as she spoke, “don’t think of _my_
 
-health. Elinor is well, you see. That must be enough for us both.”
+health. Elinor is [[Well|well]], you see. That must be enough for us both.”
 
 
 
@@ -124,7 +124,7 @@ very benignant expression.
 
 
 
-“Do you like London?” said Edward, willing to say any thing that might
+“Do you like [[London]]?” said Edward, willing to say any thing that might
 
 introduce another subject.
 
@@ -192,11 +192,11 @@ private.
 
 
 
-“Perhaps, Miss Marianne,” cried Lucy, eager to take some revenge on
+“Perhaps, Miss Marianne,” cried Lucy, eager to take some [[Revenge|revenge]] on
 
 her, “you think young men never stand upon engagements, if they have no
 
-mind to keep them, little as well as great.”
+mind to keep them, little as [[Well|well]] as great.”
 
 
 
@@ -208,27 +208,27 @@ sting; for she calmly replied,
 
 “Not so, indeed; for, seriously speaking, I am very sure that
 
-conscience only kept Edward from Harley Street. And I really believe he
+[[Conscience|conscience]] only kept Edward from Harley Street. And I really believe he
 
-_has_ the most delicate conscience in the world; the most scrupulous in
+_has_ the most delicate [[Conscience|conscience]] in the world; the most scrupulous in
 
 performing every engagement, however minute, and however it may make
 
 against his interest or pleasure. He is the most fearful of giving
 
-pain, of wounding expectation, and the most incapable of being selfish,
+[[Pain|pain]], of wounding expectation, and the most incapable of being selfish,
 
-of any body I ever saw. Edward, it is so, and I will say it. What! are
+of any [[Body|body]] I ever saw. Edward, it is so, and I will say it. What! are
 
 you never to hear yourself praised!—Then you must be no friend of mine;
 
-for those who will accept of my love and esteem, must submit to my open
+for those who will accept of my [[Love|love]] and esteem, must submit to my open
 
 commendation.”
 
 
 
-The nature of her commendation, in the present case, however, happened
+The [[Nature|nature]] of her commendation, in the present case, however, happened
 
 to be particularly ill-suited to the feelings of two thirds of her
 
@@ -242,7 +242,7 @@ got up to go away.
 
 
 
-And drawing him a little aside, she whispered her persuasion that Lucy
+And drawing him a little aside, she whispered her [[Persuasion|persuasion]] that Lucy
 
 could not stay much longer. But even this encouragement failed, for he
 
@@ -260,7 +260,7 @@ two hours, soon afterwards went away.
 
 “Why so?—we were all his friends, and Lucy has been the longest known
 
-to him of any. It is but natural that he should like to see her as well
+to him of any. It is but natural that he should like to see her as [[Well|well]]
 
 as ourselves.”
 
@@ -268,7 +268,7 @@ as ourselves.”
 
 Marianne looked at her steadily, and said, “You know, Elinor, that this
 
-is a kind of talking which I cannot bear. If you only hope to have your
+is a kind of talking which I cannot bear. If you only [[Hope|hope]] to have your
 
 assertion contradicted, as I must suppose to be the case, you ought to
 
@@ -286,11 +286,11 @@ no information that would convince Marianne; and painful as the
 
 consequences of her still continuing in an error might be, she was
 
-obliged to submit to it. All that she could hope, was that Edward would
+obliged to submit to it. All that she could [[Hope|hope]], was that Edward would
 
 not often expose her or himself to the distress of hearing Marianne’s
 
-mistaken warmth, nor to the repetition of any other part of the pain
+mistaken warmth, nor to the repetition of any other part of the [[Pain|pain]]
 
 that had attended their recent meeting—and this she had every reason to
 

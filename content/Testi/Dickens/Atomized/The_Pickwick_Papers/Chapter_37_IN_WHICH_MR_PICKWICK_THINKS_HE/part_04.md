@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 35: IN WHICH MR. PICKWICK THINKS HE HAD BETTER GO TO BATH; AND (part 4)"
+title: "The [[Pickwick]] Papers — Chapter 35: IN WHICH MR. [[Pickwick|PICKWICK]] THINKS HE HAD BETTER GO TO BATH; AND (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,31 +14,31 @@ tags:
 </nav>
 
 
-At the appointed hour, Mr. Pickwick and his friends, escorted by Dowler,
+At the appointed hour, Mr. [[Pickwick]] and his friends, escorted by Dowler,
 repaired to the Assembly Rooms, and wrote their names down in the book--
-an instance of condescension at which Angelo Bantam was even more
+an instance of condescension at which [[Angelo]] Bantam was even more
 overpowered than before. Tickets of admission to that evening’s assembly
 were to have been prepared for the whole party, but as they were not
-ready, Mr. Pickwick undertook, despite all the protestations to the
-contrary of Angelo Bantam, to send Sam for them at four o’clock in the
-afternoon, to the M.C.’s house in Queen Square. Having taken a short
-walk through the city, and arrived at the unanimous conclusion that Park
+ready, Mr. [[Pickwick]] undertook, despite all the protestations to the
+contrary of [[Angelo]] Bantam, to send Sam for them at four o’[[Clock|clock]] in the
+afternoon, to the M.C.’s [[house]] in [[Queen]] Square. Having taken a short
+walk through the [[City|city]], and arrived at the unanimous conclusion that Park
 Street was very much like the perpendicular streets a man sees in a
 dream, which he cannot get up for the life of him, they returned to the
 White Hart, and despatched Sam on the errand to which his master had
 pledged him.
 
-Sam Weller put on his hat in a very easy and graceful manner, and,
+[[Sam Weller]] put on his hat in a very easy and graceful manner, and,
 thrusting his hands in his waistcoat pockets, walked with great
-deliberation to Queen Square, whistling as he went along, several of the
+deliberation to [[Queen]] Square, whistling as he went along, several of the
 most popular airs of the day, as arranged with entirely new movements
 for that noble instrument the organ, either mouth or barrel. Arriving at
-the number in Queen Square to which he had been directed, he left off
+the number in [[Queen]] Square to which he had been directed, he left off
 whistling and gave a cheerful knock, which was instantaneously answered
 by a powdered-headed footman in gorgeous livery, and of symmetrical
 stature.
 
-‘Is this here Mr. Bantam’s, old feller?’ inquired Sam Weller, nothing
+‘Is this here Mr. Bantam’s, old feller?’ inquired [[Sam Weller]], nothing
 abashed by the blaze of splendour which burst upon his sight in the
 person of the powdered-headed footman with the gorgeous livery.
 
@@ -70,7 +70,7 @@ perspiration. No hurry, six-foot. I’ve had my dinner.’
 ‘I have not had the pleasure of hearing of you before.’
 
 ‘I haven’t created any wery surprisin’ sensation here, as yet,’ rejoined
-Sam, ‘for me and the other fash’nables only come last night.’
+Sam, ‘for me and the other fash’nables only come last [[Night|night]].’
 
 ‘Nice place, Sir,’ said the powdered-headed footman.
 
@@ -91,7 +91,7 @@ small snuff-box with a fox’s head on the top of it.
 
 ‘Why, it _is_ difficult, sir, I confess,’ said the tall footman. ‘It may
 be done by degrees, Sir. Coffee is the best practice. I carried coffee,
-Sir, for a long time. It looks very like rappee, sir.’
+Sir, for a long [[Time|time]]. It looks very like rappee, sir.’
 
 Here, a sharp peal at the bell reduced the powdered-headed footman to
 the ignominious necessity of putting the fox’s head in his pocket, and
@@ -105,7 +105,7 @@ afraid you’ll find it inconveniently large.’
 ‘Don’t mention it,’ said Sam, taking a letter with a small enclosure.
 ‘It’s just possible as exhausted natur’ may manage to surwive it.’
 
-‘I hope we shall meet again, Sir,’ said the powdered-headed footman,
+‘I [[Hope|hope]] we shall meet again, Sir,’ said the powdered-headed footman,
 rubbing his hands, and following Sam out to the door-step.
 
 ‘You are wery obligin’, sir,’ replied Sam. ‘Now, don’t allow yourself to
@@ -123,7 +123,7 @@ Sam said nothing at all. He winked, shook his head, smiled, winked
 again; and, with an expression of countenance which seemed to denote
 that he was greatly amused with something or other, walked merrily away.
 
-At precisely twenty minutes before eight o’clock that night, Angelo
+At precisely twenty minutes before eight o’[[Clock|clock]] that [[Night|night]], [[Angelo]]
 Cyrus Bantam, Esq., the Master of the Ceremonies, emerged from his
 chariot at the door of the Assembly Rooms in the same wig, the same
 teeth, the same eye-glass, the same watch and seals, the same rings, the

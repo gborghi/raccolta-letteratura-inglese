@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 18 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 18 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,7 +20,7 @@ lawn. I had but a transient glimpse of him: for the moment it stopped,
 
 he sprang out over the side on to the portico steps, and disappeared
 
-into the house.
+into the [[house]].
 
 
 
@@ -32,13 +32,13 @@ business was completed, I repaired to the drawing-room, where I found
 
 Mr. and Miss Wilmot and Milicent Hargrave already assembled. Shortly
 
-after, Lord Lowborough entered, and then Mr. Boarham, who seemed quite
+after, [[Lord Lowborough]] entered, and then Mr. Boarham, who seemed quite
 
-willing to forget and forgive my former conduct, and to hope that a
+willing to forget and forgive my former conduct, and to [[Hope|hope]] that a
 
 little conciliation and steady perseverance on his part might yet
 
-succeed in bringing me to reason. While I stood at the window,
+succeed in bringing me to reason. While I stood at the [[Window|window]],
 
 conversing with Milicent, he came up to me, and was beginning to talk
 
@@ -46,9 +46,9 @@ in nearly his usual strain, when Mr. Huntingdon entered the room.
 
 
 
-“How will he greet me, I wonder?” said my bounding heart; and, instead
+“How will he greet me, I [[Wonder|wonder]]?” said my bounding heart; and, instead
 
-of advancing to meet him, I turned to the window to hide or subdue my
+of advancing to meet him, I turned to the [[Window|window]] to hide or subdue my
 
 emotion. But having saluted his host and hostess, and the rest of the
 
@@ -64,7 +64,7 @@ condemned to sit between himself and Mr. Boarham. But afterwards, when
 
 we were all again assembled in the drawing-room, I was indemnified for
 
-so much suffering by a few delightful minutes of conversation with Mr.
+so much [[Suffering|suffering]] by a few delightful minutes of conversation with Mr.
 
 Huntingdon.
 
@@ -104,13 +104,13 @@ with a delighted chuckle.
 
 Then, drawing a candle close to his elbow, he gathered all the drawings
 
-to himself, as well what he had seen as the others, and muttering, “I
+to himself, as [[Well|well]] what he had seen as the others, and muttering, “I
 
 must look at _both_ sides now,” he eagerly commenced an examination,
 
 which I watched, at first, with tolerable composure, in the confidence
 
-that his vanity would not be gratified by any further discoveries; for,
+that his [[Vanity|vanity]] would not be gratified by any further discoveries; for,
 
 though I must plead guilty to having disfigured the backs of several
 
@@ -120,7 +120,7 @@ was sure that, with that one unfortunate exception, I had carefully
 
 obliterated all such witnesses of my infatuation. But the pencil
 
-frequently leaves an impression upon cardboard that no amount of
+frequently [[Leaves|leaves]] an impression upon cardboard that no amount of
 
 rubbing can efface. Such, it seems, was the case with most of these;
 
@@ -140,21 +140,21 @@ interesting part of the concern.”
 
 
 
-Then, leaning back in his chair, he reflected a few minutes in silence,
+Then, leaning back in his chair, he reflected a few minutes in [[Silence|silence]],
 
 complacently smiling to himself, and while I was concocting some
 
-cutting speech wherewith to check his gratification, he rose, and
+cutting speech wherewith to check his gratification, he [[Rose|rose]], and
 
 passing over to where Annabella Wilmot sat vehemently coquetting with
 
-Lord Lowborough, seated himself on the sofa beside her, and attached
+[[Lord Lowborough]], seated himself on the sofa beside her, and attached
 
 himself to her for the rest of the evening.
 
 
 
-“So then,” thought I, “he despises me, because he knows I love him.”
+“So then,” thought I, “he despises me, because he knows I [[Love|love]] him.”
 
 
 
@@ -168,13 +168,13 @@ introduction of tea, I took advantage of the open door and the slight
 
 diversion caused by its entrance to slip out—for I was sure I could not
 
-take any—and take refuge in the library. My aunt sent Thomas in quest
+take any—and take refuge in the library. My aunt sent Thomas in [[Quest|quest]]
 
 of me, to ask if I were not coming to tea; but I bade him say I should
 
-not take any to-night, and, happily, she was too much occupied with her
+not take any to-[[Night|night]], and, happily, she was too much occupied with her
 
-guests to make any further inquiries at the time.
+guests to make any further inquiries at the [[Time|time]].
 
 
 
@@ -192,11 +192,11 @@ hall—though I could hardly hear it myself—he instantly turned back.
 
 
 
-“Helen, is that you?” said he. “Why did you run away from us?”
+“[[Helen]], is that you?” said he. “Why did you run away from us?”
 
 
 
-“Good-night, Mr. Huntingdon,” said I, coldly, not choosing to answer
+“Good-[[Night|night]], Mr. Huntingdon,” said I, coldly, not choosing to answer
 
 the question. And I turned away to enter the drawing-room.
 
@@ -222,9 +222,9 @@ I made a desperate effort to free my hand from his grasp.
 
 
 
-“Why are you in such a hurry to leave me, Helen?” he said, with a smile
+“Why are you in such a hurry to leave me, [[Helen]]?” he said, with a smile
 
-of the most provoking self-sufficiency. “You don’t hate me, you
+of the most provoking [[Self-Sufficiency|self-sufficiency]]. “You don’t hate me, you
 
 _know_.”
 

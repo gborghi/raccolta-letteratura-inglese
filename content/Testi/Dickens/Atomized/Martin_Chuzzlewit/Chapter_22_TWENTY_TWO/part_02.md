@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 22: TWENTY TWO (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 22: TWENTY TWO (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -19,10 +19,10 @@ table; ‘such a perfectly unaccountable fellow as that, I never saw.
 Mark, what do you say to this?’
 
 ‘Why, sir,’ returned his partner, ‘my opinion is that we must have got
-to the MOST remarkable man in the country at last. So I hope there’s an
+to the MOST remarkable man in the country at last. So I [[Hope|hope]] there’s an
 end to the breed, sir.’
 
-Although this made Martin laugh, it couldn’t keep off two o’clock.
+Although this made Martin laugh, it couldn’t keep off two o’[[Clock|clock]].
 Punctually, as the hour struck, Captain Kedgick returned to hand him
 to the room of state; and he had no sooner got him safe there, than
 he bawled down the staircase to his fellow-citizens below, that Mr
@@ -66,30 +66,30 @@ feather-bed--exclaiming--‘Gentlemen, you that have been introduced to Mr
 Chuzzlewit, WILL you clear?’
 
 Even when they began to clear it was no better; for then a stream of
-gentlemen, every one with a lady on each arm (exactly like the chorus
+gentlemen, every one with a lady on each arm (exactly like the [[Chorus|chorus]]
 to the National Anthem when Royalty goes in state to the play), came
 gliding in--every new group fresher than the last, and bent on staying
 to the latest moment. If they spoke to him, which was not often, they
 invariably asked the same questions, in the same tone; with no more
 remorse, or delicacy, or consideration, than if he had been a figure of
 stone, purchased, and paid for, and set up there for their delight. Even
-when, in the slow course of time, these died off, it was as bad as ever,
+when, in the slow course of [[Time|time]], these died off, it was as bad as ever,
 if not worse; for then the boys grew bold, and came in as a class
 of themselves, and did everything that the grown-up people had done.
 Uncouth stragglers, too, appeared; men of a ghostly kind, who being in,
 didn’t know how to get out again; insomuch that one silent gentleman
 with glazed and fishy eyes and only one button on his waistcoat (which
 was a very large metal one, and shone prodigiously), got behind the
-door, and stood there, like a clock, long after everybody else was gone.
+door, and stood there, like a [[Clock|clock]], long after everybody else was gone.
 
 Martin felt, from pure fatigue, and heat, and worry, as if he could have
 fallen on the ground and willingly remained there, if they would but
-have had the mercy to leave him alone. But as letters and messages,
+have had the [[Mercy|mercy]] to leave him [[Alone|alone]]. But as letters and messages,
 threatening his public denouncement if he didn’t see the senders, poured
 in like hail; and as more visitors came while he took his coffee by
 himself; and as Mark, with all his vigilance, was unable to keep them
 from the door; he resolved to go to bed--not that he felt at all sure
-of bed being any protection, but that he might not leave a forlorn hope
+of bed being any protection, but that he might not leave a forlorn [[Hope|hope]]
 untried.
 
 He had communicated this design to Mark, and was on the eve of escaping,
@@ -106,11 +106,11 @@ held a most enormous fan.
 
 ‘That is my name.’
 
-‘Sir,’ said the gentleman, ‘I am pressed for time.’
+‘Sir,’ said the gentleman, ‘I am pressed for [[Time|time]].’
 
 ‘Thank God!’ thought Martin.
 
-‘I go back Toe my home, sir,’ pursued the gentleman, ‘by the return
+‘I go back Toe my [[Home|home]], sir,’ pursued the gentleman, ‘by the return
 train, which starts immediate. Start is not a word you use in your
 country, sir.’
 

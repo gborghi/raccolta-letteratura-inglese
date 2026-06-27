@@ -1,5 +1,5 @@
 ---
-title: "MrPond — When Doctors Agree (part 6)"
+title: "[[MrPond]] — When Doctors Agree (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -16,19 +16,19 @@ tags:
 
 Angus tossed the tool on the table like a man throwing down his
 
-sword, and turned on his companion with a new and transfigured air
+[[Sword|sword]], and turned on his companion with a new and transfigured air
 
 of candour and finality.
 
 
 
-"You needn't trouble about hymns any more; I may as well tell you
+"You needn't trouble about hymns any more; I may as [[Well|well]] tell you
 
 that I've done with them, for one.  You're too strong for me--or,
 
-rather, the truth is too strong for me.  I've defended my own
+rather, the [[Truth|truth]] is too strong for me.  I've defended my own
 
-nursery nightmare as long as I could; but you've woken me up at
+nursery [[nightmare]] as long as I could; but you've woken me up at
 
 last.  You are right, you must be right; I don't see any way out of
 
@@ -36,21 +36,21 @@ it."
 
 
 
-After a silence, Campbell answered very softly:  "I'll no mak'
+After a [[Silence|silence]], Campbell answered very softly:  "I'll no mak'
 
-apologies for fighting for the truth; but, man, ye made a real
+apologies for fighting for the [[Truth|truth]]; but, man, ye made a real
 
 bonny fight for the falsehood."
 
 
 
-It might well have seemed that the old blasphemer had never spoken
+It might [[Well|well]] have seemed that the old blasphemer had never spoken
 
 on the topic in a tone so delicate and respectful; and it seemed
 
-strange that his new convert did not respond to the appeal.
+strange that his new [[convert]] did not respond to the appeal.
 
-Looking up, Campbell saw that his new convert's attention had been
+Looking up, Campbell saw that his new [[convert]]'s attention had been
 
 abruptly abstracted; he was standing staring at the implement in
 
@@ -74,35 +74,35 @@ after a pause, he added, with equal calm:
 
 "Noo that we are agreed, and a' of one mind, aboot the need for sic
 
-social surgery, it's as weel ye should know the hale truth.  Aye,
+social surgery, it's as weel ye should know the hale [[Truth|truth]].  Aye,
 
 lad, I did it mysel'; and with a blade like yon.  That nicht ye
 
-took me to the kirk--weel, it's the fairst time, I hope, I've ever
+took me to the kirk--weel, it's the fairst [[Time|time]], I [[Hope|hope]], I've ever
 
 been hypocreetical; but I stayed behind to pray, and I think ye had
 
 hopes of my convairsion.  But I prayed because Jamie prayed; and
 
-when he rose from his prayers, I followed him and killed him i' the
+when he [[Rose|rose]] from his prayers, I followed him and killed him i' the
 
 kirkyard."
 
 
 
-Angus was still looking at the knife in silence; then he said
+Angus was still looking at the knife in [[Silence|silence]]; then he said
 
 suddenly:  "Why did you kill him?"
 
 
 
-"Ye needna ask, noo we are agreed in moral philosophy," replied the
+"Ye needna ask, noo we are agreed in moral [[philosophy]]," replied the
 
 old doctor simply.  "It was just plain surgery.  As we sacrifice a
 
-finger to save the body, so we maun sacrifice a man to save the
+finger to save the [[Body|body]], so we maun sacrifice a man to save the
 
-body politic.  I killed him because he was doing evil, and
+[[Body|body]] politic.  I killed him because he was doing evil, and
 
 inhumanly preventing what was guid for humanity: the scheme for the
 
@@ -136,11 +136,11 @@ same experience."
 
 but evil," answered Angus.  "I still think you were doing evil;
 
-even though you were serving truth.  You have convinced me that my
+even though you were serving [[Truth|truth]].  You have convinced me that my
 
-beliefs were dreams; but not that dreaming is worse than waking up.
+beliefs were [[Dreams|dreams]]; but not that dreaming is worse than waking up.
 
-You brutally broke the dreams of the humble, sneered at the weak
+You brutally broke the [[Dreams|dreams]] of the humble, sneered at the weak
 
 hopes of the bereaved.  You seem cruel and inhuman to me, just as
 
@@ -176,11 +176,11 @@ his voice.
 
 held back only by the superstition you have destroyed tonight.  Day
 
-after day, you have been battering down the scruples which alone
+after day, you have been battering down the scruples which [[Alone|alone]]
 
-defended you from death.  You wise thinker; you wary reasoner; you
+defended you from [[Death|death]].  You wise thinker; you wary reasoner; you
 
-fool!  It would be better for you to-night if I still believed in
+[[Fool|fool]]!  It would be better for you to-[[Night|night]] if I still believed in
 
 God and in his Commandment against murder."
 
@@ -194,7 +194,7 @@ table, where he lay as if fainting.  Round them and above them the
 
 empty tiers of concentric seats glimmered in the faint and frigid
 
-moonlight as desolate as the Colosseum under the moon; a deserted
+moonlight as desolate as the Colosseum under the [[Moon|moon]]; a deserted
 
 amphitheatre where there was no human voice to cry "Habet!"  The
 
@@ -202,11 +202,11 @@ red-haired slayer stood with the knife uplifted, as strange in
 
 shape as the flint knife of some prehistoric sacrifice; and still
 
-he talked on in the high tones of madness.
+he talked on in the high tones of [[Madness|madness]].
 
 
 
-"One thing alone protected you and kept the peace between us: that
+"One thing [[Alone|alone]] protected you and kept the peace between us: that
 
 we disagreed.  Now we agree, now we are at one in thought--and
 
@@ -218,21 +218,21 @@ at peace."
 
 And with the sound of that word he struck; and Andrew Campbell
 
-moved for the last time.  In his own cold temple, upon his own
+moved for the last [[Time|time]].  In his own cold temple, upon his own
 
 godless altar . . . he stirred and then lay still; and the murderer
 
-bent and fled from the building and from the city and across the
+bent and fled from the building and from the [[City|city]] and across the
 
-Highland line at night, to hide himself in the hills.
-
-
+Highland line at [[Night|night]], to hide himself in the hills.
 
 
 
 
 
-When Pond had told this story, Gahagan rose slowly to his gigantic
+
+
+When Pond had told this story, Gahagan [[Rose|rose]] slowly to his gigantic
 
 height and knocked out his cigar in an ashtray:  "I darkly suspect,
 
@@ -252,7 +252,7 @@ Poles or Prussians or other foreigners have agreed.  We don't often
 
 ask what they've agreed on.  But agreement can be rather risky,
 
-unless it's agreement with the truth."
+unless it's agreement with the [[Truth|truth]]."
 
 
 

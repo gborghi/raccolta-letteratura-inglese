@@ -28,7 +28,7 @@ and his companions called him "Francesco", or "The little Frenchman"
 because of his passion for the French poetry of the Troubadours.
 The more probable story is that his mother had him named John
 when he was born in the absence of his father, who shortly returned
-from a visit to France, Where his commercial success had filled
+from a visit to France, Where his commercial [[success]] had filled
 him with so much enthusiasm for French taste and social usage that
 he gave his son the new name signifying the Frank or Frenchman.
 In either case the name had a certain significance, as connecting
@@ -71,7 +71,7 @@ believed to be one of the habits of princes.  This first glimpse
 of the young man in the market is symbolic in more ways than one.
 An incident occurred which is perhaps the shortest and sharpest summary
 that could be given of certain curious things which were a part of
-his character, long before it was transfigured by transcendental faith.
+his character, long before it was transfigured by transcendental [[Faith|faith]].
 While he was selling velvet and fine embroideries to some solid
 merchant of the town a beggar came imploring alms; evidently in
 a somewhat tactless manner.  It was a rude and simple society
@@ -84,23 +84,23 @@ forbidding outsiders to interrupt a fair bargain; and it is possible
 that some such thing put the mendicant more than normally in the wrong.
 Francis had all his life a great liking for people who had been
 put hopelessly in the wrong.  On this occasion he seems to have
-dealt with the double interview with rather a divided mind;
+dealt with the [[Double|double]] interview with rather a divided mind;
 certainly with distraction, possibly with irritation.
 Perhaps he was all the more uneasy because of the almost
 fastidious standard of manners that came to him quite naturally.
 All are agreed that politeness flowed from him from the first,
 like one of the public fountains in such a sunny Italian market place.
-He might have written among his own poems as his own motto that verse
+He might have written among his own [[Poems|poems]] as his own motto that verse
 of Mr. Belloc's poem--
 
       "Of Courtesy, it is much less
-       Than courage of heart or holiness
+       Than [[Courage|courage]] of heart or holiness
        Yet in my walks it seems to me
        That the grace of God is in Courtesy."
 
-Nobody ever doubted that Francis Bernadone had courage of heart,
-even of the most manly and military sort; and a time was to come when
-there was quite as little doubt about the holiness and grace of God.
+Nobody ever doubted that Francis Bernadone had [[Courage|courage]] of heart,
+even of the most manly and military sort; and a [[Time|time]] was to come when
+there was quite as little [[Doubt|doubt]] about the holiness and grace of God.
 But I think that if there was one thing about which he was punctilious,
 it was punctiliousness.  If there was one thing of which so humble
 a man could be said to be proud, he was proud of good manners.
@@ -126,16 +126,16 @@ revolution that he wrought, equally naturally looked back to his first
 years chiefly for omens and signs of such a spiritual earthquake.
 But writing at a greater distance, we shall not decrease that
 dramatic effect, but rather increase it, if we realise that there
-was not at this time any external sign of anything particularly
+was not at this [[Time|time]] any external sign of anything particularly
 mystical about the young man.  He had not anything of that early
 sense of his vocation that has belonged to some of the saints.
-Over and above his main ambition to win fame as a French poet,
+Over and above his main [[Ambition|ambition]] to win fame as a French poet,
 he would seem to have most often thought of winning fame as a soldier.
 He was born kind; he was brave in the normal boyish fashion;
 but he drew the line in both in kindness and bravery pretty
-well where most boys would have drawn it; for instance,
+[[Well|well]] where most boys would have drawn it; for instance,
 he had the human horror of leprosy of which few normal people
-felt any need to be ashamed.  He had the love of gay and bright
+felt any need to be ashamed.  He had the [[Love|love]] of gay and bright
 apparel which was inherent in the heraldic taste of medieval
 times and seems altogether to have been rather a festive figure.
 If he did not paint the town red, he would probably have preferred
@@ -146,25 +146,25 @@ individuality that must be assumed from first to last.
 
 For instance, there is the spirit of swiftness.  In a sense he continued
 running for the rest of his life, as he ran after the beggar.
-Because nearly all the errands he ran were errands of mercy,
+Because nearly all the errands he ran were errands of [[Mercy|mercy]],
 there appeared in his portraiture a mere element of mildness
 which was true in the truest sense, but is easily misunderstood.
-A certain precipitancy was the very poise of his soul.
+A certain precipitancy was the very poise of his [[Soul|soul]].
 This saint should be represented among the other saints as angels
 were sometimes represented in pictures of angels; with flying feet
 or with feathers; in the spirit of the text that makes angels winds
-and messengers a flaming fire.  It is a curiosity of language
-that courage actually means running; and some of our sceptics
-will no doubt demonstrate that courage really means running away.
-But his courage was running, in the sense of rushing.
+and messengers a flaming [[Fire|fire]].  It is a curiosity of language
+that [[Courage|courage]] actually means running; and some of our sceptics
+will no [[Doubt|doubt]] demonstrate that [[Courage|courage]] really means running away.
+But his [[Courage|courage]] was running, in the sense of rushing.
 With all his gentleness, there was originally something of
-impatience in his impetuosity.  The psychological truth about it
-illustrates very well the modern muddle about the word "practical."
+impatience in his impetuosity.  The psychological [[Truth|truth]] about it
+illustrates very [[Well|well]] the modern muddle about the word "practical."
 If we mean by what is practical what is most immediately practicable,
 we merely mean what is easiest.  In that sense St. Francis was
 very impractical, and his ultimate aims were very unworldly.
 Bit if we mean by practicality a preference for prompt effort
-and energy over doubt or delay, he was very practical indeed.
+and energy over [[Doubt|doubt]] or delay, he was very practical indeed.
 Some might call him a madman, but he was the very reverse of a dreamer.
 Nobody would be likely to call him a man of business;
 but he was very emphatically a man of action.  In some of his
@@ -175,25 +175,25 @@ flinging himself around corners in the most unexpected fashion,
 as when he flew through the streets after the beggar.
 
 Another element implied in the story, which was already partially
-a natural instinct, before it became supernatural ideal, was something
+a natural instinct, before it became [[Supernatural|supernatural]] ideal, was something
 that had never perhaps been wholly lost in those little republics
-of medieval Italy.  It was something very puzzling to some people;
+of medieval [[Italy]].  It was something very puzzling to some people;
 something clearer as a rule to Southerners than to Northeners, and I
 think to Catholics than to Protestants; the quite natural assumption
 of the equality of men.  It has nothing necessarily to do with the
-Franciscan love for men; on the contrary one of its merely practical
+Franciscan [[Love|love]] for men; on the contrary one of its merely practical
 tests is the equality of the duel.  Perhaps a gentleman will never be
 fully an egalitarian until he can really quarrel with his servant.
 But it was an antecedant condition of the Franciscan brotherhood;
 and we feel it in this early and secular incident.
-Francis, I fancy, felt a real doubt about which he must attend to,
+Francis, I fancy, felt a real [[Doubt|doubt]] about which he must attend to,
 the beggar or the merchant; and having attended to the merchant,
 he turned to attend the beggar; he thought of them as two men.
 This is a thing much more difficult to describe, in a society from
 which it is absent, but it was the original basis of the whole business;
 it was why the popular movement arose in that sort of place and
-that sort of man.  His imaginative magnanimity rose like a tower
-to starry heights that might well seem dizzy and even crazy;
+that sort of man.  His imaginative magnanimity [[Rose|rose]] like a tower
+to starry heights that might [[Well|well]] seem dizzy and even crazy;
 but it was founded on this high table land of human equality.
 
 I have taken this the first among a hundred tales of the youth
@@ -215,7 +215,7 @@ that we realise what an extraordinary young man he was.
 
 War had broken out between Assisi and Perugia.  It is now fashionable
 to say in a satirical spirit that such wars did not so much break out
-as to go on idefinitely between the city states of medieval Italy.
+as to go on idefinitely between the [[City|city]] states of medieval [[Italy]].
 It will be enough to say here that if one of those medieval
 wars had really gone on without stopping for a century,
 it might possibly have come within a remote distance of killing
@@ -223,14 +223,14 @@ as many people as we kill in a year, in one of our great modern
 scientific wars between our great modern industrial empires.
 But the citizens of the medieval republic were certainly under
 the limitation of only being asked to die for the things with
-which they had always lived, the house they inhabited, the shrines
+which they had always lived, the [[house]] they inhabited, the shrines
 they venerated and the rulers and representatives they new;
 and had not the larger vision calling for them to die for the latest
 rumours about remote colonies as reported in anonymous newspapers.
 And if we infer from our own experience that war paralyzed
 civilization, we must at least admit that these warring towns
-turned out a number of paralytics who go by the names of Dante
-and Michael Angelo, Ariosto and Titian, Leonardo and Columbus,
+turned out a number of paralytics who go by the names of [[Dante]]
+and [[Michael]] [[Angelo]], Ariosto and Titian, Leonardo and [[Columbus]],
 not to mention Catherine of Siena and the subject of this story.
 While we lament all this local patriotism as a hubbub of the Dark Ages,
 it must seem a rather curious fact that about three quarters
@@ -239,8 +239,8 @@ and were often engaged in these little wars.  It remains to be seen
 what will ultimately come out of our large towns; but there has
 been no sign of anything of this sort since they became large;
 and I have sometimes been haunted by a fancy of my youth, that these
-things will not come till there is a city wall around Clapham
-and the tocsin is rung at night to arm the citizens of Wimbledon.
+things will not come till there is a [[City|city]] wall around Clapham
+and the tocsin is rung at [[Night|night]] to arm the citizens of Wimbledon.
 
 Anyhow, the tocsin was rung at Assisi and the citizens armed,
 and among them was Francis the son of the cloth merchant.
@@ -249,7 +249,7 @@ fight or other he and his little band were taken prisoners.
 To me it seems most probable that there had been some tale of treason
 or cowardice about the disaster; for we are told that there was one
 of the captives with whom his fellow-prisoners flatly refused to
-associate even in prison; and when this happens in such circumstances,
+associate even in [[Prison|prison]]; and when this happens in such circumstances,
 it is generally because the military blame for the surrender is thrown
 on some individual.  Anyhow, somebody noted a small but rather
 curious thing, though it might seem rather negative than positive.
@@ -260,10 +260,10 @@ And when he came across the mysterious outcast, traitor or coward
 or whatever he was called, he simply treated him exactly like all
 the rest, neither with coldness or compassion, but with the same
 unaffected gaiety and good fellowship.  But if there had been
-present in that prison someone with a sort of second sight about
-the truth and trend of spiritual things, he might have known he was
+present in that [[Prison|prison]] someone with a sort of second sight about
+the [[Truth|truth]] and trend of spiritual things, he might have known he was
 in the presence of something new and seemingly almost anarchic;
-a deep tide driving out to uncharted seas of charity.  For in this sense
+a deep tide driving out to uncharted seas of [[Charity|charity]].  For in this sense
 there was really something wanting in Francis of Assisi, something to
 which he was blind that he might see better and more beautiful things.
 All those limits in good fellowship and good form, all those landmarks
@@ -276,31 +276,31 @@ but especially those whom everybody disliked him for liking.
 Something very vast and universal was already present in that
 narrow dungeon; and such a seer might have seen in its darkness
 that red halo of caritas caritatum which marks one saint among saints
-as well as among men.  He might well have heard the first whisper
+as [[Well|well]] as among men.  He might [[Well|well]] have heard the first whisper
 of that wild blessing that afterwards took the form of a blasphemy;
 "He listens to those whom God himself will not listen".
 
-But though such a seer might have seen such a truth,
+But though such a seer might have seen such a [[Truth|truth]],
 it is exceedingly doubtful if Francis himself saw it.
 He had acted out of an unconscious largeness, or in the fine medieval
 phrase largesse, within himself, something might almost have been
 lawless if it had not been reaching out to a more divine law;
 but is doubtful whether he new the law was divine.  It is evident
-that he had not at this time any notion of abandoning the military,
+that he had not at this [[Time|time]] any notion of abandoning the military,
 still less of adopting the monastic life.  It is true that there is not,
 as pacifists and prigs imagine, the least inconsistency between loving
 men and fighting them, if we fight them fairly and for a good cause.
 But it seems to me that there was more than this involved;
 that the mind of the young man was really running towards a military
-morality in any case.  About this time the first calamity crossed
+[[morality]] in any case.  About this [[Time|time]] the first calamity crossed
 his path in the form of a malady which was to revisit him many times
 and hamper his headlong career.  Sickness made him more serious;
 but one fancies it would only have made him a more serious soldier,
 or even more serious about soldiering.  And while he was recovering,
 something rather larger than the little fueds and raids of
-the Italian towns opened an avenue of adventure and ambition.
-The crown of Sicily, a considerable centre of controversy at
-the time, was apparently claimed by a certain Gauthier de Brienne,
+the Italian towns opened an avenue of adventure and [[Ambition|ambition]].
+The [[Crown|crown]] of Sicily, a considerable centre of controversy at
+the [[Time|time]], was apparently claimed by a certain Gauthier de Brienne,
 and the Papal cause to aid which Gauthier was called in aroused
 enthusiasm among a number of young Assisians, including Francis,
 who proposed to march into Apulia on the count's behalf; perhaps his
@@ -310,11 +310,11 @@ it was a world of little things concerned with great things.
 There was more internationalism in the lands dotted with tiny republics
 than in the huge homogeneous impenetrable national divisions of to-day.
 The legal authority of the Assisian magistrates might hardly reach
-further than a bow-shot from their high embattled city walls.
+further than a bow-shot from their high embattled [[City|city]] walls.
 But their sympathies might be with the ride of the Normans
 through Sicily or the palace of the Troubadours at Toulouse;
 with the Emperor throned in the German forests or the great Pope
-dying in the exile of Salerno.  Above all, it must be remembered
+dying in the [[Exile|exile]] of Salerno.  Above all, it must be remembered
 that when the interests of an age are mainly religious they must
 be universal.  Nothing can be more universal than the universe.
 And there are several things about the religious position at that
@@ -337,43 +337,43 @@ The creed was still being repeated after the victory or escape;
 but it is not unnatural to suppose that there was something
 a little monotonous about the repitition.  The Church looked old
 then as now; and there were some who thought her dying as now.
-In truth orthodoxy was not dead but it may have been dull;
+In [[Truth|truth]] orthodoxy was not dead but it may have been dull;
 it is certain that some people began to think it dull.
 The Troubadours of the Provencal movement had already begun to take
-that turn or twist towards Oriental fancies and the paradox of pessimism,
+that turn or twist towards Oriental fancies and the [[Paradox|paradox]] of pessimism,
 which always comes to Europeans as something fresh when their own
-sanity seems to be something stale.  It is likely enough that
+[[Sanity|sanity]] seems to be something stale.  It is likely enough that
 after all those centuries of hopeless war without and ruthless
 asceticism within, the official orthodoxy seemed to be something stale.
-The freshness and freedom of the first Christians seemed then
+The freshness and [[Freedom|freedom]] of the first Christians seemed then
 as much as now a lost and almost prehistoric age of gold.
 Rome was still more rational than anything else; the Church was
-really wiser but it may well have seemed wearier than the world.
+really wiser but it may [[Well|well]] have seemed wearier than the world.
 There was something more adventurous and alluring, perhaps,
 about the mad metaphysics that had been blown across out of Asia.
-Dreams were gathering like dark clouds over the Midi to break in a
+[[Dreams]] were gathering like dark clouds over the Midi to break in a
 thunder of anathema and civil war.  Only the light lay on the great
 plain around Rome; but the light was blank and the plain was flat;
-and there was no stir in the still air and the immemorial silence
+and there was no stir in the still air and the immemorial [[Silence|silence]]
 about the sacred town.
 
-High in the dark house of Assisi Francesco Bernadonne slept and dreamed
+High in the dark [[house]] of Assisi Francesco Bernadonne slept and dreamed
 of arms.  There came to him in the darkness a vision splendid with swords,
-patterned after the cross in the Crusading fashion, of spears and shields
+patterned after the [[Cross|cross]] in the Crusading fashion, of spears and shields
 and helmets hung in a high armoury, all bearing the sacred sign.
 When he awoke he accepted the dream as a trumpet bidding him
-to the battlefield, and rushed out to take horse and arms.
+to the [[Battlefield|battlefield]], and rushed out to take [[Horse|horse]] and arms.
 He delighted in all the exercises of chivalry; and was evidently
 an accomplished cavalier and fighting man by the tests of the camp.
-He would doubtless at any time have preferred a Christian sort
+He would doubtless at any [[Time|time]] have preferred a Christian sort
 of chivalry; but it seems clear that he was also in a mood
 which thirsted for glory, though in him that glory would always
-have been identical with honour.  He was not without some vision
+have been identical with [[Honour|honour]].  He was not without some vision
 of that wreath of laurel which Ceasar has left for all the Latins.
 As he rode out to war the great gate in the deep wall of Assisi
 resounded with his last boast, "I shall come back a great prince."
 
-A little way along the road his sickness rose again and threw him.
+A little way along the [[Road|road]] his sickness [[Rose|rose]] again and threw him.
 It seems highly probable, in the light of his impetuous temper,
 that he had ridden away long before he was fit to move.
 And in the darkness of this second and fare more desolating interruption,
@@ -384,32 +384,32 @@ a very dismal and disappointed and perhaps even derided figure,
 with nothing to do but wait for what should happen next.
 It was his first descent into a dark ravine that is called the valley
 of humiliation, which seemed to him very rocky and desolate,
-but in which he was afterwards to find many flowers.
+but in which he was afterwards to find many [[Flowers|flowers]].
 
 But he was not only disappointed and humiliated; he was very much
-puzzled and bewildered.  He still firmly believed that his two dreams
+puzzled and bewildered.  He still firmly believed that his two [[Dreams|dreams]]
 must have meant something; and he could not imagine what they
 could possibly mean.  It was while he was drifting, one might even
 say mooning, about the streets of Assisi and the fields outside
-the city wall, that an incident occurred to him which has not
-always been immediately connected with the business of the dreams,
+the [[City|city]] wall, that an incident occurred to him which has not
+always been immediately connected with the business of the [[Dreams|dreams]],
 but which seems to me the obvious culmination of them.  He was riding
 listlessly in some wayside place, apparently in the open country,
-when he saw a figure coming along the road towards him and halted;
+when he saw a figure coming along the [[Road|road]] towards him and halted;
 for he saw it was a leper.  And he knew instantly that his
-courage was challenged, not as the world challenges, but as one
-would challenge who knew the secrets of the heart of a man.
+[[Courage|courage]] was challenged, not as the world challenges, but as one
+would challenge who knew the [[Secrets|secrets]] of the heart of a man.
 What he saw advancing was not the banner and spears of Perugia,
 from which it never occurred to him to shrink; nor the armies that fought
-for the crown of Sicily, of which he had always thought as a courageous
-man thinks of mere vulgar danger.  Francis Bernadone saw his fear
-coming up the road towards him; the fear that comes from within
+for the [[Crown|crown]] of Sicily, of which he had always thought as a courageous
+man thinks of mere vulgar danger.  Francis Bernadone saw his [[Fear|fear]]
+coming up the [[Road|road]] towards him; the [[Fear|fear]] that comes from within
 and not without; though it stood white and horrible in the sunlight.
-For once in the long rush of his life his soul must have stood still.
-Then he sprang from his horse, knowing nothing between stillness
+For once in the long rush of his life his [[Soul|soul]] must have stood still.
+Then he sprang from his [[Horse|horse]], knowing nothing between stillness
 and swiftness, and rushed on the leper and threw his arms around him.
 It was the beginning of a long vocation of ministry among many lepers,
 for whom he did many services; to this man he gave what money
 he could and mounted and rode on.  We do not know how far he rode,
 or with what sense of the things around him; but it is said that
-when he looked back, he could see no figure on the road.
+when he looked back, he could see no figure on the [[Road|road]].

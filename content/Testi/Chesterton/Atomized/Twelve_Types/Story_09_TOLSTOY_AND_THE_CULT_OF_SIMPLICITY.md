@@ -1,5 +1,5 @@
 ---
-title: "Twelve Types — TOLSTOY AND THE CULT OF SIMPLICITY"
+title: "Twelve Types — [[tolstoy|TOLSTOY]] AND THE CULT OF SIMPLICITY"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Twelve-Types-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-TOLSTOY AND THE CULT OF SIMPLICITY
+[[tolstoy|TOLSTOY]] AND THE CULT OF SIMPLICITY
 
 
 
@@ -24,7 +24,7 @@ The whole world is certainly heading for a great simplicity, not
 
 deliberately, but rather inevitably. It is not a mere fashion of false
 
-innocence, like that of the French aristocrats before the Revolution,
+[[innocence]], like that of the French aristocrats before the Revolution,
 
 who built an altar to Pan, and who taxed the peasantry for the enormous
 
@@ -38,9 +38,9 @@ and continuous contemplation of things. For the universe is like
 
 everything in it; we have to look at it repeatedly and habitually before
 
-we see it. It is only when we have seen it for the hundredth time that
+we see it. It is only when we have seen it for the hundredth [[Time|time]] that
 
-we see it for the first time. The more consistently things are
+we see it for the first [[Time|time]]. The more consistently things are
 
 contemplated, the more they tend to unify themselves and therefore to
 
@@ -56,39 +56,39 @@ staring face.
 
 
 
-Few people will dispute that all the typical movements of our time are
+Few people will dispute that all the typical movements of our [[Time|time]] are
 
-upon this road towards simplification. Each system seeks to be more
+upon this [[Road|road]] towards simplification. Each system seeks to be more
 
 fundamental than the other; each seeks, in the literal sense, to
 
 undermine the other. In art, for example, the old conception of man,
 
-classic as the Apollo Belvedere, has first been attacked by the realist,
+classic as the [[Apollo]] Belvedere, has first been attacked by the realist,
 
-who asserts that man, as a fact of natural history, is a creature with
+who asserts that man, as a fact of natural [[history]], is a creature with
 
 colourless hair and a freckled face. Then comes the Impressionist, going
 
-yet deeper, who asserts that to his physical eye, which alone is
+yet deeper, who asserts that to his physical eye, which [[Alone|alone]] is
 
 certain, man is a creature with purple hair and a grey face. Then comes
 
-the Symbolist, and says that to his soul, which alone is certain, man is
+the Symbolist, and says that to his [[Soul|soul]], which [[Alone|alone]] is certain, man is
 
 a creature with green hair and a blue face. And all the great writers of
 
-our time represent in one form or another this attempt to re-establish
+our [[Time|time]] represent in one form or another this attempt to re-establish
 
 communication with the elemental, or, as it is sometimes more roughly
 
-and fallaciously expressed, to return to nature. Some think that the
+and fallaciously expressed, to return to [[Nature|nature]]. Some think that the
 
-return to nature consists in drinking no wine; some think that it
+return to [[Nature|nature]] consists in drinking no wine; some think that it
 
 consists in drinking a great deal more than is good for them. Some think
 
-that the return to nature is achieved by beating swords into
+that the return to [[Nature|nature]] is achieved by beating swords into
 
 ploughshares; some think it is achieved by turning ploughshares into
 
@@ -102,29 +102,29 @@ kill other people with dynamite and himself with vegetarianism. It would
 
 be too obviously Philistine a sentiment, perhaps, to suggest that the
 
-claim of either of these persons to be obeying the voice of nature is
+claim of either of these persons to be obeying the voice of [[Nature|nature]] is
 
 interesting when we consider that they require huge volumes of
 
-paradoxical argument to persuade themselves or anyone else of the truth
+paradoxical argument to persuade themselves or anyone else of the [[Truth|truth]]
 
-of their conclusions. But the giants of our time are undoubtedly alike
+of their conclusions. But the giants of our [[Time|time]] are undoubtedly alike
 
 in that they approach by very different roads this conception of the
 
-return to simplicity. Ibsen returns to nature by the angular exterior of
+return to simplicity. Ibsen returns to [[Nature|nature]] by the angular exterior of
 
-fact, Maeterlinck by the eternal tendencies of fable. Whitman returns to
+fact, Maeterlinck by the eternal tendencies of [[Fable|fable]]. Whitman returns to
 
-nature by seeing how much he can accept, Tolstoy by seeing how much he
+[[Nature|nature]] by seeing how much he can accept, [[tolstoy|Tolstoy]] by seeing how much he
 
 can reject.
 
 
 
-Now, this heroic desire to return to nature is, of course, in some
+Now, this heroic [[Desire|desire]] to return to [[Nature|nature]] is, of course, in some
 
-respects, rather like the heroic desire of a kitten to return to its own
+respects, rather like the heroic [[Desire|desire]] of a kitten to return to its own
 
 tail. A tail is a simple and beautiful object, rhythmic in curve and
 
@@ -134,13 +134,13 @@ characteristic qualities of a tail that it should hang behind. It is
 
 impossible to deny that it would in some degree lose its character if
 
-attached to any other part of the anatomy. Now, nature is like a tail in
+attached to any other part of the anatomy. Now, [[Nature|nature]] is like a tail in
 
 the sense that it is vitally important if it is to discharge its real
 
-duty that it should be always behind. To imagine that we can see nature,
+duty that it should be always behind. To imagine that we can see [[Nature|nature]],
 
-especially our own nature, face to face is a folly; it is even a
+especially our own [[Nature|nature]], face to face is a folly; it is even a
 
 blasphemy. It is like the conduct of a cat in some mad fairy-tale, who
 
@@ -150,11 +150,11 @@ find his tail growing like a tree in the meadows at the end of the
 
 world. And the actual effect of the travels of the philosopher in search
 
-of nature when seen from the outside looks very like the gyrations of
+of [[Nature|nature]] when seen from the outside looks very like the gyrations of
 
 the tail-pursuing kitten, exhibiting much enthusiasm but little dignity,
 
-much cry and very little tail. The grandeur of nature is that she is
+much cry and very little tail. The grandeur of [[Nature|nature]] is that she is
 
 omnipotent and unseen, that she is perhaps ruling us most when we think
 
@@ -162,33 +162,33 @@ that she is heeding us least. 'Thou art a God that hidest Thyself,' said
 
 the Hebrew poet. It may be said with all reverence that it is behind a
 
-man's back that the spirit of nature hides.
+man's back that the spirit of [[Nature|nature]] hides.
 
 
 
 It is this consideration that lends a certain air of futility even to
 
-all the inspired simplicities and thunderous veracities of Tolstoy. We
+all the inspired simplicities and thunderous veracities of [[tolstoy|Tolstoy]]. We
 
 feel that a man cannot make himself simple merely by warring on
 
 complexity; we feel, indeed, in our saner moments that a man cannot make
 
-himself simple at all. A self-conscious simplicity may well be far more
+himself simple at all. A [[Self|self]]-conscious simplicity may [[Well|well]] be far more
 
 intrinsically ornate than luxury itself. Indeed, a great deal of the
 
-pomp and sumptuousness of the world's history was simple in the truest
+pomp and sumptuousness of the world's [[history]] was simple in the truest
 
 sense. It was born of an almost babyish receptiveness; it was the work
 
-of men who had eyes to wonder and men who had ears to hear.
+of men who had eyes to [[Wonder|wonder]] and men who had ears to hear.
 
 
 
-    'King Solomon brought merchant men
+    '[[King]] Solomon brought merchant men
 
-      Because of his desire
+      Because of his [[Desire|desire]]
 
     With peacocks, apes and ivory,
 
@@ -198,11 +198,11 @@ of men who had eyes to wonder and men who had ears to hear.
 
 But this proceeding was not a part of the wisdom of Solomon; it was a
 
-part of his folly--I had almost said of his innocence. Tolstoy, we feel,
+part of his folly--I had almost said of his [[innocence]]. [[tolstoy|Tolstoy]], we feel,
 
-would not be content with hurling satire and denunciation at 'Solomon in
+would not be content with hurling [[Satire|satire]] and denunciation at 'Solomon in
 
-all his glory.' With fierce and unimpeachable logic he would go a step
+all his glory.' With fierce and unimpeachable [[logic]] he would go a step
 
 further. He would spend days and nights in the meadows stripping the
 
@@ -210,19 +210,19 @@ shameless crimson coronals off the lilies of the field.
 
 
 
-The new collection of 'Tales from Tolstoy,' translated and edited by Mr
+The new collection of 'Tales from [[tolstoy|Tolstoy]],' translated and edited by Mr
 
 R. Nisbet Bain, is calculated to draw particular attention to this
 
-ethical and ascetic side of Tolstoy's work. In one sense, and that the
+ethical and [[ascetic]] side of [[tolstoy|Tolstoy]]'s work. In one sense, and that the
 
-deepest sense, the work of Tolstoy is, of course, a genuine and noble
+deepest sense, the work of [[tolstoy|Tolstoy]] is, of course, a genuine and noble
 
-appeal to simplicity. The narrow notion that an artist may not teach is
+appeal to simplicity. The narrow notion that an [[artist]] may not teach is
 
-pretty well exploded by now. But the truth of the matter is, that an
+pretty [[Well|well]] exploded by now. But the [[Truth|truth]] of the matter is, that an
 
-artist teaches far more by his mere background and properties, his
+[[artist]] teaches far more by his mere background and properties, his
 
 landscape, his costume, his idiom and technique--all the part of his
 
@@ -234,9 +234,9 @@ opinions. The real distinction between the ethics of high art and the
 
 ethics of manufactured and didactic art lies in the simple fact that the
 
-bad fable has a moral, while the good fable is a moral. And the real
+bad [[Fable|fable]] has a moral, while the good [[Fable|fable]] is a moral. And the real
 
-moral of Tolstoy comes out constantly in these stories, the great moral
+moral of [[tolstoy|Tolstoy]] comes out constantly in these stories, the great moral
 
 which lies at the heart of all his work, of which he is probably
 
@@ -246,7 +246,7 @@ disapprove. The curious cold white light of morning that shines over all
 
 the tales, the folklore simplicity with which 'a man or a woman' are
 
-spoken of without further identification, the love--one might almost say
+spoken of without further identification, the [[Love|love]]--one might almost say
 
 the lust--for the qualities of brute materials, the hardness of wood,
 
@@ -256,7 +256,7 @@ kindliness sitting beside the very cradle of the race of man--these
 
 influences are truly moral. When we put beside them the trumpeting and
 
-tearing nonsense of the didactic Tolstoy, screaming for an obscene
+tearing nonsense of the didactic [[tolstoy|Tolstoy]], screaming for an obscene
 
 purity, shouting for an inhuman peace, hacking up human life into small
 
@@ -264,7 +264,7 @@ sins with a chopper, sneering at men, women, and children out of respect
 
 to humanity, combining in one chaos of contradictions an unmanly Puritan
 
-and an uncivilised prig, then, indeed, we scarcely know whither Tolstoy
+and an uncivilised prig, then, indeed, we scarcely know whither [[tolstoy|Tolstoy]]
 
 has vanished. We know not what to do with this small and noisy moralist
 
@@ -272,13 +272,13 @@ who is inhabiting one corner of a great and good man.
 
 
 
-It is difficult in every case to reconcile Tolstoy the great artist with
+It is difficult in every case to reconcile [[tolstoy|Tolstoy]] the great [[artist]] with
 
-Tolstoy the almost venomous reformer. It is difficult to believe that a
+[[tolstoy|Tolstoy]] the almost venomous reformer. It is difficult to believe that a
 
 man who draws in such noble outlines the dignity of the daily life of
 
-humanity regards as evil that divine act of procreation by which that
+humanity regards as evil that divine act of [[Procreation|procreation]] by which that
 
 dignity is renewed from age to age. It is difficult to believe that a
 
@@ -316,11 +316,11 @@ the star of our happiness, and the fortunes of the land of our birth.
 
 
 
-The work of Tolstoy has another and more special significance. It
+The work of [[tolstoy|Tolstoy]] has another and more special significance. It
 
 represents the re-assertion of a certain awful common-sense which
 
-characterised the most extreme utterances of Christ. It is true that we
+characterised the most extreme utterances of [[Christ]]. It is true that we
 
 cannot turn the cheek to the smiter; it is true that we cannot give our
 
@@ -330,21 +330,21 @@ too emotional. The robber would brag, and we should blush; in other
 
 words, the robber and we are alike sentimentalists. The command of
 
-Christ is impossible, but it is not insane; it is rather sanity preached
+[[Christ]] is impossible, but it is not insane; it is rather [[Sanity|sanity]] preached
 
 to a planet of lunatics. If the whole world was suddenly stricken with a
 
-sense of humour it would find itself mechanically fulfilling the Sermon
+sense of [[Humour|humour]] it would find itself mechanically fulfilling the Sermon
 
 on the Mount. It is not the plain facts of the world which stand in the
 
-way of that consummation, but its passions of vanity and
+way of that consummation, but its passions of [[Vanity|vanity]] and
 
-self-advertisement and morbid sensibility. It is true that we cannot
+[[Self|self]]-advertisement and morbid sensibility. It is true that we cannot
 
 turn the cheek to the smiter, and the sole and sufficient reason is that
 
-we have not the pluck. Tolstoy and his followers have shown that they
+we have not the pluck. [[tolstoy|Tolstoy]] and his followers have shown that they
 
 have the pluck, and even if we think they are mistaken, by this sign
 
@@ -368,7 +368,7 @@ conquered without humiliation. The theory of Christian duty enunciated
 
 by them is that we should never conquer by force, but always, if we can,
 
-conquer by persuasion. In their mythology St George did not conquer the
+conquer by [[Persuasion|persuasion]]. In their mythology St George did not conquer the
 
 dragon: he tied a pink ribbon round its neck and gave it a saucer of
 
@@ -394,7 +394,7 @@ up in the celebrated verse of Mr Edward Lear:
 
 
 
-Their confidence in human nature is really honourable and magnificent;
+Their confidence in human [[Nature|nature]] is really honourable and magnificent;
 
 it takes the form of refusing to believe the overwhelming majority of
 
@@ -404,15 +404,15 @@ although most of us would in all probability tend at first sight to
 
 consider this new sect of Christians as little less outrageous than some
 
-brawling and absurd sect in the Reformation, yet we should fall into a
+brawling and absurd sect in the [[Reformation]], yet we should fall into a
 
-singular error in doing so. The Christianity of Tolstoy is, when we come
+singular error in doing so. The [[Christianity]] of [[tolstoy|Tolstoy]] is, when we come
 
 to consider it, one of the most thrilling and dramatic incidents in our
 
 modern civilisation. It represents a tribute to the Christian religion
 
-more sensational than the breaking of seals or the falling of stars.
+more sensational than the breaking of seals or the falling of [[Stars|stars]].
 
 
 
@@ -430,7 +430,7 @@ phenomenon as it really is.
 
 
 
-The religion of Christ has, like many true things, been disproved an
+The religion of [[Christ]] has, like many true things, been disproved an
 
 extraordinary number of times. It was disproved by the Neo-Platonist
 
@@ -438,13 +438,13 @@ philosophers at the very moment when it was first starting forth upon
 
 its startling and universal career. It was disproved again by many of
 
-the sceptics of the Renaissance only a few years before its second and
+the sceptics of the [[Renaissance]] only a few years before its second and
 
-supremely striking embodiment, the religion of Puritanism, was about to
+supremely striking embodiment, the religion of [[Puritanism]], was about to
 
 triumph over many kings, and civilise many continents. We all agree that
 
-these schools of negation were only interludes in its history; but we
+these schools of negation were only interludes in its [[history]]; but we
 
 all believe naturally and inevitably that the negation of our own day
 
@@ -452,7 +452,7 @@ is really a breaking up of the theological cosmos, an Armageddon, a
 
 Ragnorak, a twilight of the gods. The man of the nineteenth century,
 
-like a schoolboy of sixteen, believes that his doubt and depression are
+like a schoolboy of sixteen, believes that his [[Doubt|doubt]] and depression are
 
 symbols of the end of the world. In our day the great irreligionists who
 
@@ -462,9 +462,9 @@ outstripped, distanced, and made to look orthodox and humdrum. A newer
 
 race of sceptics has found something infinitely more exciting to do than
 
-nailing down the lids upon a million coffins, and the body upon a single
+nailing down the lids upon a million coffins, and the [[Body|body]] upon a single
 
-cross. They have disputed not only the elementary creeds, but the
+[[Cross|cross]]. They have disputed not only the elementary creeds, but the
 
 elementary laws of mankind, property, patriotism, civil obedience. They
 
@@ -484,11 +484,11 @@ saturnalia of scepticism, the school that goes furthest among thousands
 
 who go so far, the school that denies the moral validity of those ideals
 
-of courage or obedience which are recognised even among pirates, this
+of [[Courage|courage]] or obedience which are recognised even among pirates, this
 
-school bases itself upon the literal words of Christ, like Dr Watts or
+school bases itself upon the literal words of [[Christ]], like Dr Watts or
 
-Messrs Moody and Sankey. Never in the whole history of the world was
+Messrs Moody and Sankey. Never in the whole [[history]] of the world was
 
 such a tremendous tribute paid to the vitality of an ancient creed.
 
@@ -512,7 +512,7 @@ something stunning and hypnotic. The most convinced rationalist is in
 
 its presence suddenly stricken with a strange and ancient vision, sees
 
-the immense sceptical cosmogonies of this age as dreams going the way
+the immense sceptical cosmogonies of this age as [[Dreams|dreams]] going the way
 
 of a thousand forgotten heresies, and believes for a moment that the
 
@@ -526,9 +526,9 @@ This value which we have above suggested, unquestionably belongs to the
 
 Tolstoians, who may roughly be described as the new Quakers. With their
 
-strange optimism, and their almost appalling logical courage, they offer
+strange optimism, and their almost appalling logical [[Courage|courage]], they offer
 
-a tribute to Christianity which no orthodoxies could offer. It cannot
+a tribute to [[Christianity]] which no orthodoxies could offer. It cannot
 
 but be remarkable to watch a revolution in which both the rulers and the
 
@@ -544,7 +544,7 @@ number of statements about the New Testament, of which the accuracy is
 
 by no means so striking as the confidence. To begin with, we must
 
-protest against a habit of quoting and paraphrasing at the same time.
+protest against a habit of quoting and paraphrasing at the same [[Time|time]].
 
 When a man is discussing what Jesus meant, let him state first of all
 
@@ -566,7 +566,7 @@ the spirit world is merciful, is perfect.'
 
 
 
-There is nothing in this, perhaps, which Christ might not have said
+There is nothing in this, perhaps, which [[Christ]] might not have said
 
 except the abominable metaphysical modernism of 'the spirit world'; but
 
@@ -582,7 +582,7 @@ sects had paraphrased them as cheerfully as he, he would never have had
 
 the text upon which he founds his theory. In a pamphlet in which plain
 
-printed words cannot be left alone, it is not surprising if there are
+printed words cannot be left [[Alone|alone]], it is not surprising if there are
 
 mis-statements upon larger matters. Here is a statement clearly and
 
@@ -600,7 +600,7 @@ and those who are in sympathy with us.' I should very much like to know
 
 where in the whole of the New Testament the author finds this violent,
 
-unnatural, and immoral proposition. Christ did not have the same kind of
+unnatural, and immoral proposition. [[Christ]] did not have the same kind of
 
 regard for one person as for another. We are specifically told that
 
@@ -608,35 +608,35 @@ there were certain persons whom He specially loved. It is most
 
 improbable that He thought of other nations as He thought of His own.
 
-The sight of His national city moved Him to tears, and the highest
+The sight of His national [[City|city]] moved Him to [[Tears|tears]], and the highest
 
 compliment He paid was, 'Behold an Israelite indeed.' The author has
 
-simply confused two entirely distinct things. Christ commanded us to
+simply confused two entirely distinct things. [[Christ]] commanded us to
 
-have love for all men, but even if we had equal love for all men, to
+have [[Love|love]] for all men, but even if we had equal [[Love|love]] for all men, to
 
-speak of having the same love for all men is merely bewildering
+speak of having the same [[Love|love]] for all men is merely bewildering
 
-nonsense. If we love a man at all, the impression he produces on us must
+nonsense. If we [[Love|love]] a man at all, the impression he produces on us must
 
 be vitally different to the impression produced by another man whom we
 
-love. To speak of having the same kind of regard for both is about as
+[[Love|love]]. To speak of having the same kind of regard for both is about as
 
 sensible as asking a man whether he prefers chrysanthemums or billiards.
 
-Christ did not love humanity; He never said He loved humanity: He loved
+[[Christ]] did not [[Love|love]] humanity; He never said He loved humanity: He loved
 
-men. Neither He nor anyone else can love humanity; it is like loving a
+men. Neither He nor anyone else can [[Love|love]] humanity; it is like loving a
 
 gigantic centipede. And the reason that the Tolstoians can even endure
 
-to think of an equally distributed affection is that their love of
+to think of an equally distributed affection is that their [[Love|love]] of
 
-humanity is a logical love, a love into which they are coerced by their
+humanity is a logical [[Love|love]], a [[Love|love]] into which they are coerced by their
 
-own theories, a love which would be an insult to a tom-cat.
+own theories, a [[Love|love]] which would be an insult to a tom-cat.
 
 
 
@@ -646,13 +646,13 @@ teaching of the New Testament into five rules. It precisely and
 
 ingeniously misses the most dominant characteristic of the teaching--its
 
-absolute spontaneity. The abyss between Christ and all His modern
+absolute spontaneity. The abyss between [[Christ]] and all His modern
 
 interpreters is that we have no record that He ever wrote a word, except
 
-with His finger in the sand. The whole is the history of one continuous
+with His finger in the sand. The whole is the [[history]] of one continuous
 
-and sublime conversation. Thousands of rules have been deduced from it
+and [[Sublime|sublime]] conversation. Thousands of rules have been deduced from it
 
 before these Tolstoian rules were made, and thousands will be deduced
 
@@ -660,6 +660,6 @@ afterwards. It was not for any pompous proclamation, it was not for any
 
 elaborate output of printed volumes; it was for a few splendid and idle
 
-words that the cross was set up on Calvary, and the earth gaped, and the
+words that the [[Cross|cross]] was set up on Calvary, and the earth gaped, and the
 
 sun was darkened at noonday.

@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 2 (part 5)"
+title: "[[queertrades]] — Chapter 2 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/queertrades-(Chesterton)"
@@ -22,29 +22,29 @@ I looked at him blankly.
 "Doing instead?"  I asked.  "What are we doing instead?"
 
 "Why," said he, "we are waiting for one or two hours outside this
-house on a winter evening.  You must forgive me; it is all my vanity.
+[[house]] on a [[Winter|winter]] evening.  You must forgive me; it is all my [[Vanity|vanity]].
 It is only to show you that I am right.  Can you, with the assistance
 of this cigar, wait until both Sir Walter Cholmondeliegh and the mystic
-Wimpole have left this house?"
+Wimpole have left this [[house]]?"
 
 "Certainly," I said.  "But I do not know which is likely to leave first.
 Have you any notion?"
 
 "No," he said.  "Sir Walter may leave first in a glow of rage.
 Or again, Mr Wimpole may leave first, feeling that his last
-epigram is a thing to be flung behind him like a firework.
-And Sir Walter may remain some time to analyse Mr Wimpole's character.
-But they will both have to leave within reasonable time, for they
+[[Epigram|epigram]] is a thing to be flung behind him like a firework.
+And Sir Walter may remain some [[Time|time]] to analyse Mr Wimpole's character.
+But they will both have to leave within reasonable [[Time|time]], for they
 will both have to get dressed and come back to dinner here tonight."
 
-As he spoke the shrill double whistle from the porch
-of the great house drew a dark cab to the dark portal.
+As he spoke the shrill [[Double|double]] whistle from the porch
+of the [[Great House|great house]] drew a dark cab to the dark portal.
 And then a thing happened that we really had not expected.
 Mr Wimpole and Sir Walter Cholmondeliegh came out at the same moment.
 
-They paused for a second or two opposite each other in a natural doubt;
+They paused for a second or two opposite each other in a natural [[Doubt|doubt]];
 then a certain geniality, fundamental perhaps in both of them,
-made Sir Walter smile and say:  "The night is foggy.
+made Sir Walter smile and say:  "The [[Night|night]] is foggy.
 Pray take my cab."
 
 Before I could count twenty the cab had gone rattling up the street
@@ -57,13 +57,13 @@ We pelted on steadily, keeping the cab in sight, through dark
 mazy streets.  God only, I thought, knows why we are running at all,
 but we are running hard.  Fortunately we did not run far.
 The cab pulled up at the fork of two streets and Sir Walter paid
-the cabman, who drove away rejoicing, having just come in contact
+the [[cabman]], who drove away rejoicing, having just come in contact
 with the more generous among the rich.  Then the two men talked
 together as men do talk together after giving and receiving
-great insults, the talk which leads either to forgiveness or a duel--
+great insults, the talk which leads either to [[Forgiveness|forgiveness]] or a duel--
 at least so it seemed as we watched it from ten yards off.
 Then the two men shook hands heartily, and one went down one fork
-of the road and one down another.
+of the [[Road|road]] and one down another.
 
 Basil, with one of his rare gestures, flung his arms forward.
 
@@ -76,7 +76,7 @@ We dashed across the open space and reached the juncture of two paths.
 He ran on.
 
 "Idiot!"  I howled.  "Sir Walter's gone down there.
-Wimpole has slipped us.  He's half a mile down the other road.
+Wimpole has slipped us.  He's half a mile down the other [[Road|road]].
 You're wrong ... Are you deaf?  You're wrong!"
 
 "I don't think I am," he panted, and ran on.
@@ -105,7 +105,7 @@ but we got him tight.  I had not the remotest notion why.
 He had a splendid and full-blooded vigour; when he could
 not box he kicked, and we bound him; when he could not kick
 he shouted, and we gagged him.  Then, by Basil's arrangement,
-we dragged him into a small court by the street side and waited.
+we dragged him into a small [[Court|court]] by the street side and waited.
 As I say, I had no notion why.
 
 "I am sorry to incommode you," said Basil calmly out of the darkness;
@@ -113,7 +113,7 @@ As I say, I had no notion why.
 
 "An appointment!"  I said blankly.
 
-"Yes," he said, glancing calmly at the apoplectic old aristocrat gagged
+"Yes," he said, glancing calmly at the apoplectic old [[aristocrat]] gagged
 on the ground, whose eyes were starting impotently from his head.
 "I have made an appointment here with a thoroughly nice young fellow.
 An old friend.  Jasper Drummond his name is--you may have met him
@@ -121,15 +121,15 @@ this afternoon at the Beaumonts.  He can scarcely come though till
 the Beaumonts' dinner is over."
 
 For I do not know how many hours we stood there calmly in the darkness.
-By the time those hours were over I had thoroughly made up my mind
+By the [[Time|time]] those hours were over I had thoroughly made up my mind
 that the same thing had happened which had happened long ago on
-the bench of a British Court of Justice.  Basil Grant had gone mad.
+the bench of a British [[Court]] of Justice.  Basil Grant had gone mad.
 I could imagine no other explanation of the facts, with the portly,
 purple-faced old country gentleman flung there strangled on the floor
 like a bundle of wood.
 
 After about four hours a lean figure in evening dress rushed into
-the court.  A glimpse of gaslight showed the red moustache and white
+the [[Court|court]].  A glimpse of gaslight showed the red moustache and white
 face of Jasper Drummond.
 
 "Mr Grant," he said blankly, "the thing is incredible.
@@ -186,17 +186,17 @@ like piracy."
 
 "It is," said Grant calmly, "the great new trade of the Organizer
 of Repartee.  This fat old gentleman lying on the ground strikes you,
-as I have no doubt, as very stupid and very rich.  Let me clear
+as I have no [[Doubt|doubt]], as very stupid and very rich.  Let me clear
 his character.  He is, like ourselves, very clever and very poor.
 He is also not really at all fat; all that is stuffing.
 He is not particularly old, and his name is not Cholmondeliegh.
 He is a swindler, and a swindler of a perfectly delightful and
-novel kind.  He hires himself out at dinner-parties to lead up
+[[Novel|novel]] kind.  He hires himself out at dinner-parties to lead up
 to other people's repartees.  According to a preconcerted scheme
 (which you may find on that piece of paper), he says the stupid
 things he has arranged for himself, and his client says the clever
 things arranged for him.  In short, he allows himself to be scored
-off for a guinea a night."
+off for a guinea a [[Night|night]]."
 
 "And this fellow Wimpole--" began Drummond with indignation.
 

@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 58 (part 2)"
+title: "Bleak [[house|House]] — Chapter 58 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-He withdraws his hand and falls to looking at the sleet and snow
+He withdraws his hand and falls to looking at the sleet and [[Snow|snow]]
 again until they seem, by being long looked at, to fall so thick and
 fast that he is obliged to close his eyes for a minute on the giddy
 whirl of white flakes and icy blots.
@@ -37,7 +37,7 @@ that my Lady will never more set foot within these walls.”
 “That’s worse. But why, mother?”
 
 “When I saw my Lady yesterday, George, she looked to me—and I may
-say at me too—as if the step on the Ghost’s Walk had almost walked
+say at me too—as if the step on the [[Ghost]]’s Walk had almost walked
 her down.”
 
 “Come, come! You alarm yourself with old-story fears, mother.”
@@ -47,15 +47,15 @@ have been in this family, and I never had any fears for it before.
 But it’s breaking up, my dear; the great old Dedlock family is
 breaking up.”
 
-“I hope not, mother.”
+“I [[Hope|hope]] not, mother.”
 
 “I am thankful I have lived long enough to be with Sir Leicester in
 this illness and trouble, for I know I am not too old nor too useless
 to be a welcomer sight to him than anybody else in my place would be.
-But the step on the Ghost’s Walk will walk my Lady down, George; it
+But the step on the [[Ghost]]’s Walk will walk my Lady down, George; it
 has been many a day behind her, and now it will pass her and go on.”
 
-“Well, mother dear, I say again, I hope not.”
+“[[Well]], mother dear, I say again, I [[Hope|hope]] not.”
 
 “Ah, so do I, George,” the old lady returns, shaking her head and
 parting her folded hands. “But if my fears come true, and he has to
@@ -69,14 +69,14 @@ know it, who will tell him!”
 lower voice, “I begin to understand how you come to think as you do
 think, mother. Rooms get an awful look about them when they are
 fitted up, like these, for one person you are used to see in them,
-and that person is away under any shadow, let alone being God knows
+and that person is away under any [[Shadow|shadow]], let [[Alone|alone]] being God knows
 where.”
 
 He is not far out. As all partings foreshadow the great final one,
 so, empty rooms, bereft of a familiar presence, mournfully whisper
 what your room and what mine must one day be. My Lady’s state has a
 hollow look, thus gloomy and abandoned; and in the inner apartment,
-where Mr. Bucket last night made his secret perquisition, the traces
+where Mr. Bucket last [[Night|night]] made his secret perquisition, the traces
 of her dresses and her ornaments, even the mirrors accustomed to
 reflect them when they were a portion of herself, have a desolate and
 vacant air. Dark and cold as the wintry day is, it is darker and
@@ -87,10 +87,10 @@ let their ruddy light shoot through to the furthest corners, there is
 a heavy cloud upon the rooms which no light will dispel.
 
 The old housekeeper and her son remain until the preparations are
-complete, and then she returns upstairs. Volumnia has taken Mrs.
+complete, and then she returns upstairs. [[Volumnia]] has taken Mrs.
 Rouncewell’s place in the meantime, though pearl necklaces and rouge
 pots, however calculated to embellish Bath, are but indifferent
-comforts to the invalid under present circumstances. Volumnia, not
+comforts to the invalid under present circumstances. [[Volumnia]], not
 being supposed to know (and indeed not knowing) what is the matter,
 has found it a ticklish task to offer appropriate observations and
 consequently has supplied their place with distracting smoothings of
@@ -100,28 +100,28 @@ is asleep.” In disproof of which superfluous remark Sir Leicester has
 indignantly written on the slate, “I am not.”
 
 Yielding, therefore, the chair at the bedside to the quaint old
-housekeeper, Volumnia sits at a table a little removed,
-sympathetically sighing. Sir Leicester watches the sleet and snow and
+housekeeper, [[Volumnia]] sits at a table a little removed,
+sympathetically sighing. Sir Leicester watches the sleet and [[Snow|snow]] and
 listens for the returning steps that he expects. In the ears of his
 old servant, looking as if she had stepped out of an old
 picture-frame to attend a summoned Dedlock to another world, the
-silence is fraught with echoes of her own words, “Who will tell him!”
+[[Silence|silence]] is fraught with echoes of her own words, “Who will tell him!”
 
 He has been under his valet’s hands this morning to be made
-presentable and is as well got up as the circumstances will allow. He
+presentable and is as [[Well|well]] got up as the circumstances will allow. He
 is propped with pillows, his grey hair is brushed in its usual
 manner, his linen is arranged to a nicety, and he is wrapped in a
 responsible dressing-gown. His eye-glass and his watch are ready to
 his hand. It is necessary—less to his own dignity now perhaps than
 for her sake—that he should be seen as little disturbed and as much
-himself as may be. Women will talk, and Volumnia, though a Dedlock,
-is no exceptional case. He keeps her here, there is little doubt, to
+himself as may be. Women will talk, and [[Volumnia]], though a Dedlock,
+is no exceptional case. He keeps her here, there is little [[Doubt|doubt]], to
 prevent her talking somewhere else. He is very ill, but he makes his
-present stand against distress of mind and body most courageously.
+present stand against distress of mind and [[Body|body]] most courageously.
 
-The fair Volumnia, being one of those sprightly girls who cannot long
+The fair [[Volumnia]], being one of those sprightly girls who cannot long
 continue silent without imminent peril of seizure by the dragon
-Boredom, soon indicates the approach of that monster with a series of
+Boredom, soon indicates the approach of that [[Monster|monster]] with a series of
 undisguisable yawns. Finding it impossible to suppress those yawns by
 any other process than conversation, she compliments Mrs. Rouncewell
 on her son, declaring that he positively is one of the finest figures
@@ -134,4 +134,4 @@ about him in such a confused way that Mrs. Rouncewell feels it
 necessary to explain.
 
 “Miss Dedlock don’t speak of my eldest son, Sir Leicester, but my
-youngest. I have found him. He has come home.”
+youngest. I have found him. He has come [[Home|home]].”

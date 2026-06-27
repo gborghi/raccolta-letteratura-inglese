@@ -27,19 +27,19 @@ A Pageant exhibits all the fun of a Fancy Dress Ball, with this
 great difference:  that its motive is reverent instead of irreverent.
 In the one case a man dresses up as his great-grandfather in
 order to make game of his great-grandfather; in the other case,
-in order to do him honour.  What the great-grandfather himself would
+in order to do him [[Honour|honour]].  What the great-grandfather himself would
 think of either of them we fortunately have not to conjecture.
 The alteration is important and satisfactory.  All natural men
 regard their ancestors as dignified because they are dead; it was
 a great pity and folly that we had fallen into the habit of regarding
 the Middle Ages as a mere second-hand shop for comic costumes.
 Mediaeval costume and heraldry had been meant as the very
-manifestation of courage and publicity and a decent pride.
+manifestation of [[Courage|courage]] and publicity and a decent [[Pride|pride]].
 Colours were worn that they might be conspicuous across a battle-field;
 an animal was rampant on a helmet that he might stand up
-evident against the sky.  The mediaeval time has been talked
+evident against the sky.  The mediaeval [[Time|time]] has been talked
 of too much as if it were full of twilight and secrecies.
-It was a time of avowal and of what many modern people call vulgarity.
+It was a [[Time|time]] of avowal and of what many modern people call vulgarity.
 A man's dress was that of his family or his trade or his religion;
 and these are exactly the three things which we now think it
 bad taste to discuss.  Imagine a modern man being dressed
@@ -52,24 +52,24 @@ If ever he dresses up as a cavalier or a monk it is only as a
 joke-very often as a disreputable and craven joke, a joke in a mask.
 That vivid and heraldic costume which was meant to show
 everybody who a man was is now chiefly worn by people at
-Covent Garden masquerades who wish to conceal who they are.
+Covent [[Garden]] masquerades who wish to conceal who they are.
 The clerk dresses up as a monk in order to be absurd.  If the monk
 dressed up as a clerk in order to be absurd I could understand it;
 though the escapade might disturb his monastic superiors.
 A man in a sensible gown and hood might possibly put on
 a top-hat and a pair of trousers in order to cover himself
-with derision, in some extravagance of mystical humility.
+with derision, in some extravagance of mystical [[Humility|humility]].
 But that a man who calmly shows himself to the startled sky
 every morning in a top-hat and trousers should think it comic
 to put on a simple and dignified robe and hood is a situation
 which almost splits the brain.  Things like the Church Pageant
 may do something towards snubbing this silly and derisive view
 of the past.  Hitherto the young stockbroker, when he wanted
-to make a fool of himself, dressed up as Cardinal Wolsey.
-It may now begin to dawn on him that he ought rather to make
+to make a [[Fool|fool]] of himself, dressed up as [[Cardinal Wolsey]].
+It may now begin to [[Dawn|dawn]] on him that he ought rather to make
 a wise man of himself before attempting the impersonation.
 
-Nevertheless, the truth which the Pageant has to tell the British public
+Nevertheless, the [[Truth|truth]] which the Pageant has to tell the British public
 is rather more special and curious than one might at first assume.
 It is easy enough to say in the rough that modern dress is dingy,
 and that the dress of our fathers was more bright and picturesque.
@@ -92,8 +92,8 @@ brown bowler.  Why is it that he is also much more pleasant?
 
 I think the whole difference is in this:  that the first man
 is brown with a reason and the second without a reason.
-If a hundred monks wore one brown habit it was because they felt
-that their toil and brotherhood were well expressed in being clad
+If a hundred [[Monks|monks]] wore one brown habit it was because they felt
+that their toil and brotherhood were [[Well|well]] expressed in being clad
 in the coarse, dark colour of the earth.  I do not say that they
 said so, or even clearly thought so; but their artistic instinct
 went straight when they chose the mud-colour for laborious
@@ -101,13 +101,13 @@ brethren or the flame-colour for the first princes of the Church.
 But when 'Arry puts on a brown bowler he does not either
 with his consciousness or his subconsciousness (that rich soil)
 feel that he is crowning his brows with the brown earth,
-clasping round his temples a strange crown of clay.
-He does not wear a dust-coloured hat as a form of strewing
-dust upon his head.  He wears a dust-coloured hat because
+clasping round his temples a strange [[Crown|crown]] of clay.
+He does not wear a [[Dust|dust]]-coloured hat as a form of strewing
+[[Dust|dust]] upon his head.  He wears a [[Dust|dust]]-coloured hat because
 the nobility and gentry who are his models discourage him from
 wearing a crimson hat or a golden hat or a peacock-green hat.
 He is not thinking of the brownness of brown.  It is not to him
-a symbol of the roots, of realism, or of autochthonous humility;
+a symbol of the roots, of realism, or of autochthonous [[Humility|humility]];
 on the contrary, he thinks it looks rather "classy."
 
 The modern trouble is not that the people do not see splendid
@@ -119,7 +119,7 @@ But a thing is insignificant when we do not know what it signifies.
 An African elephant lying dead in Ludgate Circus would
 be insignificant.  That is, one could not recognize it as
 the sign or message of anything.  One could not regard it as an
-allegory or a love-token. One could not even call it a hint.
+[[Allegory|allegory]] or a [[Love|love]]-token. One could not even call it a hint.
 In the same way the solar system is insignificant.
 Unless you have some special religious theory of what it means,
 it is merely big and silly, like the elephant in Ludgate Circus.
@@ -127,14 +127,14 @@ And similarly, modern life, with its vastness, its energy,
 its elaboration, its wealth, is, in the exact sense, insignificant.
 Nobody knows what we mean; we do not know ourselves.
 Nobody could explain intelligently why a coat is black, why a
-waistcoat is white, why asparagus is eaten with the fingers, or why
+waistcoat is white, why [[asparagus]] is eaten with the fingers, or why
 Hammersmith omnibuses are painted red.  The mediaevals had a much
 stronger idea of crowding all possible significance into things.
 If they had consented to waste red paint on a large and ugly
 Hammersmith omnibus it would have been in order to suggest
 that there was some sort of gory magnanimity about Hammersmith.
-A heraldic lion is no more like a real lion than a chimney-pot
-hat is like a chimney-pot. But the lion was meant to be a lion.
+A heraldic [[Lion|lion]] is no more like a real [[Lion|lion]] than a chimney-pot
+hat is like a chimney-pot. But the [[Lion|lion]] was meant to be a [[Lion|lion]].
 And the chimney-pot hat was not meant to be like a chimney-pot
 or like anything else.  The resemblance only struck
 certain philosophers (probably gutter-boys) afterwards.

@@ -16,7 +16,7 @@ tags:
 
 INGE VERSUS BARNES
 
-NONE of us I hope ever wished to be unjust to Dean Inge:
+NONE of us I [[Hope|hope]] ever wished to be unjust to Dean Inge:
 though in such fights the button will sometimes come off the foil.
 And a cruel injustice is being done to him, in the suggestion
 widely circulated that he agrees with Dr. Barnes.  Such things
@@ -53,7 +53,7 @@ After these frank and arresting admissions, it is a mere matter
 of routine, and almost of respectability, that the Dean should agree
 with the Bishop that all such sacramentalism is very deplorable;
 that the admittedly intelligent people he knows who say they
-have found Christ in the Mass and not in the Morning Service
+have found [[Christ]] in the Mass and not in the Morning Service
 must be "natural idolaters" and that it is "obvious" that the
 Blessed Sacrament has an affinity with the lower religions.
 Also with the lower classes.  That, I fancy, is what the Dean really
@@ -65,7 +65,7 @@ And he does exactly the same thing, if in a lesser degree,
 on the second and lesser matter which was similarly boosted.
 I mean, of course, the matter of Evolution.  The Dean, of course,
 believes in Evolution, as do a good many other people,
-Catholic and Protestant as well as agnostic.  But though he believes
+Catholic and Protestant as [[Well|well]] as agnostic.  But though he believes
 in Evolution, he does not believe in Bishop Barnes's Evolution.
 He comments with admirable clarity and decision on the folly
 of identifying progress with evolution; or even mere complication
@@ -74,7 +74,7 @@ sentences in which he disposes altogether of that idealisation
 of the scientific theory, which is in fact simply ignorance of it.
 In plain words, Bishop Barnes, for all his bluster, knows almost
 as little about Evolution as he does about Transubstantiation.
-The Dean of St. Paul's does not, of course, put this truth
+The Dean of St. Paul's does not, of course, put this [[Truth|truth]]
 in such plain words; but he manages to make it pretty plain.
 His candour in this case also has to be balanced by general expressions
 of agreement with the Bishop, and somewhat heartier expressions of
@@ -82,7 +82,7 @@ disagreement with everybody else, especially with the Bishop's enemies.
 The Dean alludes scornfully to the orthodox world, as if it necessarily
 repudiated certain biological theories; or as if it mattered
 very much if it did.  The difference between the Broad Churchman
-and the Catholic Church is not that the former thinks Evolution true
+and the [[Catholic Church]] is not that the former thinks Evolution true
 and the latter thinks it false.  It is that the former thinks Evolution
 an explanation and the latter knows it is not an explanation.
 Hence the former thinks it all important; and the latter thinks
@@ -103,21 +103,21 @@ but he might have added that they were much more certain of it
 in the earlier part of their lives than they will be by the end
 of their lives.  Those of them who have really read the most recent
 European enquiries and speculations know that Darwinism is every
-day becoming much less of a dogma and much more of a doubt.
+day becoming much less of a dogma and much more of a [[Doubt|doubt]].
 Those who have not read the speculations and the doubts simply go
 on repeating the dogma.  While Dr. Barnes was preaching sermons
 carefully founded on the biology of fifty years ago, Mr. Belloc was
 proving conclusively before the whole world that Mr. H. G. Wells and
-Sir Arthur Keith were unacquainted with the biology of five years ago.
+Sir [[arthur|Arthur]] Keith were unacquainted with the biology of five years ago.
 In short, it is only just, as we have said, to insist on the difference
 between Dean Inge and Dr. Barnes; which is like the difference
 between Huxley and Haeckel.  Everybody would be better and happier
 if Dean Inge were known as Professor Inge; and if Dr. Barnes were not
 only a Professor but a Prussian Professor.  Then he could be boomed
-along with other barbarians attacking Christianity, without having
+along with other barbarians attacking [[Christianity]], without having
 the ecclesiastical privilege of actually persecuting Christians.
 But there are heathens and heathens and there are persecutors
-and persecutors.  The Dean is a pagan Roman of the Senate House.
+and persecutors.  The Dean is a pagan Roman of the Senate [[house|House]].
 The Bishop is a pagan Teuton of the swamps and fens.  The Dean dislikes
 the Christian tradition in the spirit of Diocletian and Julian.
 The Bishop dislikes it in the simpler spirit of a Danish pirate
@@ -133,35 +133,35 @@ and not to mind being called reactionary.  Whereas the Bishop seems
 really to cherish the truly extraordinary notion that his notions
 are new and up-to-date.
 
-Of course they have a philosophy in common; and it would be a cheap
+Of course they have a [[philosophy]] in common; and it would be a cheap
 simplification to call it Materialism.  Indeed, we should be almost
 as shallow in talking about Materialism as they are in talking
-about Magic.  The truth is that the strange bigotry, which leads
-the Bishop to scream and rail at all sacramentalism as Magic,
+about [[Magic]].  The [[Truth|truth]] is that the strange bigotry, which leads
+the Bishop to scream and rail at all sacramentalism as [[Magic]],
 is in its inmost essence the very reverse of Materialism.
 Indeed it is nothing half so healthy as Materialism.
 The root of this prejudice is not so much a trust in matter as a sort
-of horror of matter.  The man of this philosophy is always asking
+of horror of matter.  The man of this [[philosophy]] is always asking
 that worship shall be wholly spiritual, or even wholly intellectual;
 because he does really feel a disgust at the idea of spiritual things
-having a body and a solid form.  It probably does really give him
+having a [[Body|body]] and a solid form.  It probably does really give him
 a mystical shudder to suppose that God can become as bread and wine;
 though I never understood why it should not give the same shudder
-to say that God could become flesh and blood.  But whether or no
-these thinkers are logical in their philosophy, I think this is
-their philosophy.  It has a very long history and an ancient name.
+to say that God could become flesh and [[Blood|blood]].  But whether or no
+these thinkers are logical in their [[philosophy]], I think this is
+their [[philosophy]].  It has a very long [[history]] and an ancient name.
 It is not Materialist but Manichee.
 
-Indeed the Dean uttered an unconscious truth when he said
+Indeed the Dean uttered an unconscious [[Truth|truth]] when he said
 the sacramentalists must be "natural idolaters."  He shrinks from it
 not only because it is idolatrous, but also because it is natural.
-He cannot bear to think how natural is the craving for the supernatural.
+He cannot bear to think how natural is the craving for the [[Supernatural|supernatural]].
 He cannot tolerate the idea of it actually working through the
-elements of nature.  Unconsciously, no doubt, but very stubbornly,
+elements of [[Nature|nature]].  Unconsciously, no [[Doubt|doubt]], but very stubbornly,
 that sort of intellectual does feel that our souls may belong
 to God, but our bodies only to the devil or the beast.
 That Manichean horror of matter is the only INTELLIGENT reason for
-any such sweeping refusal of supernatural and sacramental wonders.
+any such sweeping refusal of [[Supernatural|supernatural]] and sacramental wonders.
 The rest is all cant and repetition and arguing in a circle;
 all the baseless dogmatism about science forbidding men to
 believe in miracles; as if SCIENCE could forbid men to believe
@@ -170,24 +170,24 @@ Science is the study of the admitted laws of existence; it cannot prove
 a universal negative about whether those laws could ever be suspended
 by something admittedly above them.  It is as if we were to say
 that a lawyer was so deeply learned in the American Constitution
-that he knew there could never be a revolution in America.
+that he knew there could never be a revolution in [[America]].
 Or it is as if a man were to say he was so close a student of the text
-of Hamlet that he was authorised to deny that an actor had dropped
-the skull and bolted when the theatre caught fire.  The constitution
+of [[Hamlet]] that he was authorised to deny that an actor had dropped
+the skull and bolted when the theatre caught [[Fire|fire]].  The constitution
 follows a certain course, so long as it is there to follow it;
 the play follows a certain course, so long as it is being played;
-the visible order of nature follows a certain course if there
+the visible order of [[Nature|nature]] follows a certain course if there
 is nothing behind it to stop it.  But that fact throws no sort
 of light on whether there IS anything behind it to stop it.  That is
-a question of philosophy or metaphysics and not of material science.
+a question of [[philosophy]] or metaphysics and not of material science.
 And out of respect for the intelligence of both these reverend gentlemen,
 and especially for the high intelligence of the Dean of St. Paul's, I much
-prefer to think that they are opposed to what they call Magic
+prefer to think that they are opposed to what they call [[Magic]]
 as consistent philosophers and not as inconsistent scientists.
 I prefer to think that they are thinking along the lines of great
 Gnostics and Buddhists and other mystics of a dark but dignified
 historical tradition; rather than that they are blundering
-in plain logic in the interests of cheap popular science.
+in plain [[logic]] in the interests of cheap popular science.
 I can even understand or imagine that thrill of repulsion that seizes
 them in the presence of the divine materialism of the Mass.
 But I still think they would be more consistent and complete, if they

@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 13: THIRTEEN (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 13: THIRTEEN (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,16 +14,16 @@ tags:
 </nav>
 
 
-The shopman was so highly entertained by this piece of humour that Mr
+The shopman was so highly entertained by this piece of [[Humour|humour]] that Mr
 Tigg himself could not repress some little show of exultation. It vented
-itself, in part, in a desire to see how the occupant of the next
+itself, in part, in a [[Desire|desire]] to see how the occupant of the next
 box received his pleasantry; to ascertain which he glanced round the
 partition, and immediately, by the gaslight, recognized Martin.
 
-‘I wish I may die,’ said Mr Tigg, stretching out his body so far that
+‘I wish I may die,’ said Mr Tigg, stretching out his [[Body|body]] so far that
 his head was as much in Martin’s little cell as Martin’s own head was,
 ‘but this is one of the most tremendous meetings in Ancient or Modern
-History! How are you? What is the news from the agricultural districts?
+[[history|History]]! How are you? What is the news from the agricultural districts?
 How are our friends the P.’s? Ha, ha! David, pay particular attention to
 this gentleman immediately, as a friend of mine, I beg.’
 
@@ -75,7 +75,7 @@ Mr Tigg was about to speak, but Martin interposed:
 
 ‘I need scarcely tell you, after what you have just seen, that I
 have nothing to bestow upon your friend Mr Slyme. And it is quite as
-unnecessary for me to tell you that I don’t desire the honour of your
+unnecessary for me to tell you that I don’t [[Desire|desire]] the [[Honour|honour]] of your
 company.’
 
 ‘Stop’ cried Mr Tigg, holding out his hand. ‘Hold! There is a most
@@ -94,7 +94,7 @@ set up as a vagabond on your own account, or are still trading on behalf
 of Mr Slyme. I wish to hold no correspondence with you. In the devil’s
 name, man’ said Martin, scarcely able, despite his vexation, to repress
 a smile as Mr Tigg stood leaning his back against the shutters of a shop
-window, adjusting his hair with great composure, ‘will you go one way or
+[[Window|window]], adjusting his hair with great composure, ‘will you go one way or
 other?’
 
 ‘You will allow me to remind you, sir,’ said Mr Tigg, with sudden
@@ -102,11 +102,11 @@ dignity, ‘that you--not I--that you--I say emphatically, YOU--have
 reduced the proceedings of this evening to a cold and distant matter of
 business, when I was disposed to place them on a friendly footing.
 It being made a matter of business, sir, I beg to say that I expect
-a trifle (which I shall bestow in charity) as commission upon the
+a trifle (which I shall bestow in [[Charity|charity]]) as commission upon the
 pecuniary advance, in which I have rendered you my humble services.
 After the terms in which you have addressed me, sir,’ concluded Mr
 Tigg, ‘you will not insult me, if you please, by offering more than
-half-a-crown.’
+half-a-[[Crown|crown]].’
 
 Martin drew that piece of money from his pocket, and tossed it towards
 him. Mr Tigg caught it, looked at it to assure himself of its goodness,
@@ -125,7 +125,7 @@ shop. The only comfort he had in the recollection was, Mr Tigg’s
 voluntary avowal of a separation between himself and Slyme, that would
 at least prevent his circumstances (so Martin argued) from being known
 to any member of his family, the bare possibility of which filled him
-with shame and wounded pride. Abstractedly there was greater reason,
+with shame and wounded [[Pride|pride]]. Abstractedly there was greater reason,
 perhaps, for supposing any declaration of Mr Tigg’s to be false, than
 for attaching the least credence to it; but remembering the terms on
 which the intimacy between that gentleman and his bosom friend had

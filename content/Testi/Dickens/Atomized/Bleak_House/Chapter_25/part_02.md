@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 25 (part 2)"
+title: "Bleak [[house|House]] — Chapter 25 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -37,7 +37,7 @@ as crystal that Mr. Snagsby is that boy’s father.
 exudations from his reverend visage. “Peace be with us! My friends,
 why with us? Because,” with his fat smile, “it cannot be against us,
 because it must be for us; because it is not hardening, because it is
-softening; because it does not make war like the hawk, but comes home
+softening; because it does not make war like the hawk, but comes [[Home|home]]
 unto us like the dove. Therefore, my friends, peace be with us! My
 human boy, come forward!”
 
@@ -45,10 +45,10 @@ Stretching forth his flabby paw, Mr. Chadband lays the same on Jo’s
 arm and considers where to station him. Jo, very doubtful of his
 reverend friend’s intentions and not at all clear but that something
 practical and painful is going to be done to him, mutters, “You let
-me alone. I never said nothink to you. You let me alone.”
+me [[Alone|alone]]. I never said nothink to you. You let me [[Alone|alone]].”
 
 “No, my young friend,” says Chadband smoothly, “I will not let you
-alone. And why? Because I am a harvest-labourer, because I am a
+[[Alone|alone]]. And why? Because I am a harvest-labourer, because I am a
 toiler and a moiler, because you are delivered over unto me and are
 become as a precious instrument in my hands. My friends, may I so
 employ this instrument as to use it to your advantage, to your
@@ -67,7 +67,7 @@ This is the signal for a general settlement of the audience. The
 a staring and vacant state, compounded of a stunned admiration of Mr.
 Chadband and pity for the friendless outcast whose condition touches
 her nearly. Mrs. Snagsby silently lays trains of gunpowder. Mrs.
-Chadband composes herself grimly by the fire and warms her knees,
+Chadband composes herself grimly by the [[Fire|fire]] and warms her knees,
 finding that sensation favourable to the reception of eloquence.
 
 It happens that Mr. Chadband has a pulpit habit of fixing some member
@@ -84,7 +84,7 @@ ill-starred stationer, already sufficiently confused, the immediate
 recipient of his discourse.
 
 “We have here among us, my friends,” says Chadband, “a Gentile and a
-heathen, a dweller in the tents of Tom-all-Alone’s and a mover-on
+heathen, a dweller in the tents of Tom-all-[[Alone]]’s and a mover-on
 upon the surface of the earth. We have here among us, my friends,”
 and Mr. Chadband, untwisting the point with his dirty thumb-nail,
 bestows an oily smile on Mr. Snagsby, signifying that he will throw
@@ -93,7 +93,7 @@ him an argumentative back-fall presently if he be not already down,
 of flocks and herds, devoid of gold and silver and of precious
 stones. Now, my friends, why do I say he is devoid of these
 possessions? Why? Why is he?” Mr. Chadband states the question as if
-he were propounding an entirely new riddle of much ingenuity and
+he were propounding an entirely new [[Riddle|riddle]] of much ingenuity and
 merit to Mr. Snagsby and entreating him not to give it up.
 
 Mr. Snagsby, greatly perplexed by the mysterious look he received
@@ -103,7 +103,7 @@ don’t know, I’m sure, sir.” On which interruption Mrs. Chadband
 glares and Mrs. Snagsby says, “For shame!”
 
 “I hear a voice,” says Chadband; “is it a still small voice, my
-friends? I fear not, though I fain would hope so—”
+friends? I [[Fear|fear]] not, though I fain would [[Hope|hope]] so—”
 
 “Ah—h!” from Mrs. Snagsby.
 
@@ -119,8 +119,8 @@ to be lured on to his destruction again. Mr. Chadband, leaning
 forward over the table, pierces what he has got to follow directly
 into Mr. Snagsby with the thumb-nail already mentioned.
 
-“It is,” says Chadband, “the ray of rays, the sun of suns, the moon
-of moons, the star of stars. It is the light of Terewth.”
+“It is,” says Chadband, “the ray of rays, the sun of suns, the [[Moon|moon]]
+of moons, the star of [[Stars|stars]]. It is the light of Terewth.”
 
 Mr. Chadband draws himself up again and looks triumphantly at Mr.
 Snagsby as if he would be glad to know how he feels after that.

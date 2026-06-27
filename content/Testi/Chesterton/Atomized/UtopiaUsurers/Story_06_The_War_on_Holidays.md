@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The War on Holidays"
+title: "[[UtopiaUsurers]] — The War on Holidays"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -34,15 +34,15 @@ holidays. I do not mean that he necessarily wants all his workmen to
 
 work until they drop; that only occurs when he happens to be stupid as
 
-well as wicked. I do not mean to say that he is necessarily unwilling to
+[[Well|well]] as wicked. I do not mean to say that he is necessarily unwilling to
 
 grant what he would call "decent hours of labour." He may treat men like
 
 dirt; but if you want to make money, even out of dirt, you must let
 
-it lie fallow by some rotation of rest. He may treat men as dogs, but
+it lie fallow by some rotation of rest. He may treat men as [[dogs]], but
 
-unless he is a lunatic he will for certain periods let sleeping dogs
+unless he is a lunatic he will for certain periods let sleeping [[dogs]]
 
 lie.
 
@@ -54,7 +54,7 @@ with the idea of holidays. It is not even a question of ten hours day
 
 and eight-hours day; it is not a question of cutting down leisure to
 
-the space necessary for food, sleep and exercise. If the modern employer
+the space necessary for food, [[Sleep|sleep]] and exercise. If the modern employer
 
 came to the conclusion, for some reason or other, that he could get most
 
@@ -62,15 +62,15 @@ out of his men by working them hard for only two hours a day, his whole
 
 mental attitude would still be foreign and hostile to holidays. For his
 
-whole mental attitude is that the passive time and the active time are
+whole mental attitude is that the passive [[Time|time]] and the active [[Time|time]] are
 
 alike useful for him and his business. All is, indeed, grist that
 
 comes to his mill, including the millers. His slaves still serve him in
 
-unconsciousness, as dogs still hunt in slumber. His grist is ground not
+unconsciousness, as [[dogs]] still hunt in slumber. His grist is ground not
 
-only by the sounding wheels of iron, but by the soundless wheel of blood
+only by the sounding wheels of iron, but by the soundless [[Wheel|wheel]] of [[Blood|blood]]
 
 and brain. His sacks are still filling silently when the doors are shut
 
@@ -86,21 +86,21 @@ The Great Holiday
 
 Now a holiday has no connection with using a man either by beating or
 
-feeding him. When you give a man a holiday you give him back his body
+feeding him. When you give a man a holiday you give him back his [[Body|body]]
 
-and soul. It is quite possible you may be doing him an injury (though
+and [[Soul|soul]]. It is quite possible you may be doing him an injury (though
 
 he seldom thinks so), but that does not affect the question for those to
 
-whom a holiday is holy. Immortality is the great holiday; and a holiday,
+whom a holiday is holy. [[Immortality]] is the great holiday; and a holiday,
 
-like the immortality in the old theologies, is a double-edged privilege.
+like the [[Immortality|immortality]] in the old theologies, is a [[Double|double]]-edged privilege.
 
 But wherever it is genuine it is simply the restoration and completion
 
 of the man. If people ever looked at the printed word under their eye,
 
-the word "recreation" would be like the word "resurrection," the blast
+the word "recreation" would be like the word "[[Resurrection|resurrection]]," the blast
 
 of a trumpet.
 
@@ -122,7 +122,7 @@ a head), but when he has done work he goes to the cloak-room, like the
 
 man at the club, and gets his head back again; that is the germ of the
 
-holiday. It may be urged that the club man who leaves his hat often goes
+holiday. It may be urged that the club man who [[Leaves|leaves]] his hat often goes
 
 away with another hat; and perhaps it may be the same with the factory
 
@@ -130,7 +130,7 @@ hand who has left his head. A hand that has lost its head may affect the
 
 fastidious as a mixed metaphor; but, God pardon us all, what an unmixed
 
-truth! We could almost prove the whole ease from the habit of calling
+[[Truth|truth]]! We could almost prove the whole ease from the habit of calling
 
 human beings merely "hands" while they are working; as if the hand were
 
@@ -150,7 +150,7 @@ that the hat taken away by mistake is frequently better than the real
 
 hat; whereas the head taken away after the hours of toil is certainly
 
-worse: stained with the cobwebs and dust of this dustbin of all the
+worse: stained with the cobwebs and [[Dust|dust]] of this dustbin of all the
 
 centuries.
 
@@ -176,7 +176,7 @@ the Avenue de l'Opera would embrace a leper, slap him on the back, and
 
 ask him to order what he liked; but I do say that hospitality is his
 
-trade virtue. And I do also say it is well to keep before our eyes the
+trade virtue. And I do also say it is [[Well|well]] to keep before our eyes the
 
 supreme adventure of a virtue. If you are brave, think of the man who
 
@@ -200,13 +200,13 @@ statue to "restore"; that ineffaceable image of man that some call the
 
 image of God. And that is the holiday; it is the restaurant or restoring
 
-thing that, by a blast of magic, turns a man into himself.
+thing that, by a blast of [[Magic|magic]], turns a man into himself.
 
 
 
-This complete and reconstructed man is the nightmare of the modern
+This complete and reconstructed man is the [[nightmare]] of the modern
 
-capitalist. His whole scheme would crack across like a mirror of
+capitalist. His whole scheme would crack across like a [[Mirror|mirror]] of
 
 Shallot, if once a plain man were ready for his two plain duties--ready
 
@@ -218,23 +218,23 @@ human being: something that is not a "hand" or a "head for figures." But
 
 an awful creature who has met himself in the wilderness. The employers
 
-will give time to eat, time to sleep; they are in terror of a time to
+will give [[Time|time]] to eat, [[Time|time]] to [[Sleep|sleep]]; they are in terror of a [[Time|time]] to
 
 think.
 
 
 
-To anyone who knows any history it is wholly needless to say that
+To anyone who knows any [[history]] it is wholly needless to say that
 
 holidays have been destroyed. As Mr. Belloc, who knows much more
 
-history than you or I, recently pointed out in the "Pall Mall Magazine,"
+[[history]] than you or I, recently pointed out in the "Pall Mall Magazine,"
 
-Shakespeare's title of "Twelfth Night: or What You Will" simply meant
+Shakespeare's title of "[[Twelfth Night]]: or What You Will" simply meant
 
-that a winter carnival for everybody went on wildly till the twelfth
+that a [[Winter|winter]] carnival for everybody went on wildly till the twelfth
 
-night after Christmas. Those of my readers who work for modern offices
+[[Night|night]] after Christmas. Those of my readers who work for modern offices
 
 or factories might ask their employers for twelve days' holidays after
 

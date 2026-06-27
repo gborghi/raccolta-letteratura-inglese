@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 15 (part 3)"
+title: "[[Villette]] — Chapter 15 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -15,79 +15,79 @@ tags:
 
 
 The crétin being gone, I was free to walk out. At first I lacked
-courage to venture very far from the Rue Fossette, but by degrees I
-sought the city gates, and passed them, and then went wandering away
+[[Courage|courage]] to venture very far from the Rue Fossette, but by degrees I
+sought the [[City|city]] gates, and passed them, and then went wandering away
 far along chaussées, through fields, beyond cemeteries, Catholic and
 Protestant, beyond farmsteads, to lanes and little woods, and I know
 not where. A goad thrust me on, a fever forbade me to rest; a want of
-companionship maintained in my soul the cravings of a most deadly
-famine. I often walked all day, through the burning noon and the arid
+companionship maintained in my [[Soul|soul]] the cravings of a most deadly
+famine. I often walked all day, through the burning [[Noon|noon]] and the arid
 afternoon, and the dusk evening, and came back with moonrise.
 
-While wandering in solitude, I would sometimes picture the present
-probable position of others, my acquaintance. There was Madame Beck at
+While wandering in [[Solitude|solitude]], I would sometimes picture the present
+probable position of others, my acquaintance. There was [[Madame Beck]] at
 a cheerful watering-place with her children, her mother, and a whole
 troop of friends who had sought the same scene of relaxation. Zélie St.
-Pierre was at Paris, with her relatives; the other teachers were at
-their homes. There was Ginevra Fanshawe, whom certain of her
+Pierre was at [[Paris]], with her relatives; the other teachers were at
+their homes. There was [[Ginevra Fanshawe]], whom certain of her
 connections had carried on a pleasant tour southward. Ginevra seemed to
 me the happiest. She was on the route of beautiful scenery; these
 September suns shone for her on fertile plains, where harvest and
 vintage matured under their mellow beam. These gold and crystal moons
-rose on her vision over blue horizons waved in mounted lines.
+[[Rose|rose]] on her vision over blue horizons waved in mounted lines.
 
-But all this was nothing; I too felt those autumn suns and saw those
+But all this was nothing; I too felt those [[Autumn|autumn]] suns and saw those
 harvest moons, and I almost wished to be covered in with earth and
 turf, deep out of their influence; for I could not live in their light,
 nor make them comrades, nor yield them affection. But Ginevra had a
 kind of spirit with her, empowered to give constant strength and
 comfort, to gladden daylight and embalm darkness; the best of the good
 genii that guard humanity curtained her with his wings, and canopied
-her head with his bending form. By True Love was Ginevra followed:
-never could she be alone. Was she insensible to this presence? It
+her head with his bending form. By True [[Love]] was Ginevra followed:
+never could she be [[Alone|alone]]. Was she insensible to this presence? It
 seemed to me impossible: I could not realize such deadness. I imagined
 her grateful in secret, loving now with reserve; but purposing one day
-to show how much she loved: I pictured her faithful hero half conscious
+to show how much she loved: I pictured her faithful [[Hero|hero]] half conscious
 of her coy fondness, and comforted by that consciousness: I conceived
 an electric chord of sympathy between them, a fine chain of mutual
-understanding, sustaining union through a separation of a hundred
-leagues—carrying, across mound and hollow, communication by prayer and
+understanding, sustaining [[Union|union]] through a separation of a hundred
+leagues—carrying, across mound and hollow, communication by [[prayer]] and
 wish. Ginevra gradually became with me a sort of heroine. One day,
 perceiving this growing illusion, I said, “I really believe my nerves
 are getting overstretched: my mind has suffered somewhat too much a
-malady is growing upon it—what shall I do? How shall I keep well?”
+malady is growing upon it—what shall I do? How shall I keep [[Well|well]]?”
 
-Indeed there was no way to keep well under the circumstances. At last a
-day and night of peculiarly agonizing depression were succeeded by
-physical illness, I took perforce to my bed. About this time the Indian
-summer closed and the equinoctial storms began; and for nine dark and
+Indeed there was no way to keep [[Well|well]] under the circumstances. At last a
+day and [[Night|night]] of peculiarly agonizing depression were succeeded by
+physical illness, I took perforce to my bed. About this [[Time|time]] the Indian
+[[Summer|summer]] closed and the equinoctial storms began; and for nine dark and
 wet days, of which the hours rushed on all turbulent, deaf,
 dishevelled—bewildered with sounding hurricane—I lay in a strange fever
-of the nerves and blood. Sleep went quite away. I used to rise in the
-night, look round for her, beseech her earnestly to return. A rattle of
-the window, a cry of the blast only replied—Sleep never came!
+of the nerves and [[Blood|blood]]. [[Sleep]] went quite away. I used to rise in the
+[[Night|night]], look round for her, beseech her earnestly to return. A rattle of
+the [[Window|window]], a cry of the blast only replied—[[Sleep]] never came!
 
 I err. She came once, but in anger. Impatient of my importunity she
-brought with her an avenging dream. By the clock of St. Jean Baptiste,
+brought with her an avenging dream. By the [[Clock|clock]] of St. Jean Baptiste,
 that dream remained scarce fifteen minutes—a brief space, but sufficing
 to wring my whole frame with unknown anguish; to confer a nameless
 experience that had the hue, the mien, the terror, the very tone of a
-visitation from eternity. Between twelve and one that night a cup was
-forced to my lips, black, strong, strange, drawn from no well, but
-filled up seething from a bottomless and boundless sea. Suffering,
+visitation from [[Eternity|eternity]]. Between twelve and one that [[Night|night]] a cup was
+forced to my lips, black, strong, strange, drawn from no [[Well|well]], but
+filled up seething from a bottomless and boundless sea. [[Suffering]],
 brewed in temporal or calculable measure, and mixed for mortal lips,
-tastes not as this suffering tasted. Having drank and woke, I thought
+tastes not as this [[Suffering|suffering]] tasted. Having drank and woke, I thought
 all was over: the end come and past by. Trembling fearfully—as
 consciousness returned—ready to cry out on some fellow-creature to help
 me, only that I knew no fellow-creature was near enough to catch the
-wild summons—Goton in her far distant attic could not hear—I rose on my
+wild summons—Goton in her far distant attic could not hear—I [[Rose|rose]] on my
 knees in bed. Some fearful hours went over me: indescribably was I
 torn, racked and oppressed in mind. Amidst the horrors of that dream I
-think the worst lay here. Methought the well-loved dead, who had loved
-_me_ well in life, met me elsewhere, alienated: galled was my inmost
-spirit with an unutterable sense of despair about the future. Motive
+think the worst lay here. Methought the [[Well|well]]-loved dead, who had loved
+_me_ [[Well|well]] in life, met me elsewhere, alienated: galled was my inmost
+spirit with an unutterable sense of [[Despair|despair]] about the future. Motive
 there was none why I should try to recover or wish to live; and yet
-quite unendurable was the pitiless and haughty voice in which Death
+quite unendurable was the pitiless and haughty voice in which [[Death]]
 challenged me to engage his unknown terrors. When I tried to pray I
 could only utter these words: “From my youth up Thy terrors have I
 suffered with a troubled mind.”
@@ -98,28 +98,28 @@ On bringing me my tea next morning Goton urged me to call in a doctor.
 I would not: I thought no doctor could cure me.
 
 One evening—and I was not delirious: I was in my sane mind, I got up—I
-dressed myself, weak and shaking. The solitude and the stillness of the
+dressed myself, weak and shaking. The [[Solitude|solitude]] and the stillness of the
 long dormitory could not be borne any longer; the ghastly white beds
-were turning into spectres—the coronal of each became a death’s-head,
-huge and sun-bleached—dead dreams of an elder world and mightier race
+were turning into spectres—the coronal of each became a [[Death|death]]’s-head,
+huge and sun-bleached—dead [[Dreams|dreams]] of an elder world and mightier race
 lay frozen in their wide gaping eyeholes. That evening more firmly than
-ever fastened into my soul the conviction that Fate was of stone, and
-Hope a false idol—blind, bloodless, and of granite core. I felt, too,
+ever fastened into my [[Soul|soul]] the conviction that Fate was of stone, and
+[[Hope]] a false idol—blind, bloodless, and of granite core. I felt, too,
 that the trial God had appointed me was gaining its climax, and must
 now be turned by my own hands, hot, feeble, trembling as they were. It
 rained still, and blew; but with more clemency, I thought, than it had
 poured and raged all day. Twilight was falling, and I deemed its
-influence pitiful; from the lattice I saw coming night-clouds trailing
+influence pitiful; from the lattice I saw coming [[Night|night]]-clouds trailing
 low like banners drooping. It seemed to me that at this hour there was
-affection and sorrow in Heaven above for all pain suffered on earth
+affection and sorrow in Heaven above for all [[Pain|pain]] suffered on earth
 beneath; the weight of my dreadful dream became alleviated—that
 insufferable thought of being no more loved—no more owned, half-yielded
-to hope of the contrary—I was sure this hope would shine clearer if I
-got out from under this house-roof, which was crushing as the slab of a
-tomb, and went outside the city to a certain quiet hill, a long way
+to [[Hope|hope]] of the contrary—I was sure this [[Hope|hope]] would shine clearer if I
+got out from under this [[house]]-roof, which was crushing as the slab of a
+tomb, and went outside the [[City|city]] to a certain quiet [[Hill|hill]], a long way
 distant in the fields. Covered with a cloak (I could not be delirious,
 for I had sense and recollection to put on warm clothing), forth I set.
-The bells of a church arrested me in passing; they seemed to call me in
+[[The Bells|The bells]] of a church arrested me in passing; they seemed to call me in
 to the _salut_, and I went in. Any solemn rite, any spectacle of
 sincere worship, any opening for appeal to God was as welcome to me
 then as bread to one in extremity of want. I knelt down with others on

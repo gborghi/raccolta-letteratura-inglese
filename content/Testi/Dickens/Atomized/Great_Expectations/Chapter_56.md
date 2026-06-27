@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 56"
+title: "[[Great Expectations]] — Chapter 56"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,29 +17,29 @@ tags:
 Chapter LVI.
 
 
-He lay in prison very ill, during the whole interval between his
+He lay in [[Prison|prison]] very ill, during the whole interval between his
 committal for trial and the coming round of the Sessions. He had broken
 two ribs, they had wounded one of his lungs, and he breathed with great
-pain and difficulty, which increased daily. It was a consequence of his
+[[Pain|pain]] and difficulty, which increased daily. It was a consequence of his
 hurt that he spoke so low as to be scarcely audible; therefore he spoke
 very little. But he was ever ready to listen to me; and it became the
 first duty of my life to say to him, and read to him, what I knew he
 ought to hear.
 
-Being far too ill to remain in the common prison, he was removed, after
+Being far too ill to remain in the common [[Prison|prison]], he was removed, after
 the first day or so, into the infirmary. This gave me opportunities of
 being with him that I could not otherwise have had. And but for his
 illness he would have been put in irons, for he was regarded as a
-determined prison-breaker, and I know not what else.
+determined [[Prison|prison]]-breaker, and I know not what else.
 
-Although I saw him every day, it was for only a short time; hence, the
+Although I saw him every day, it was for only a short [[Time|time]]; hence, the
 regularly recurring spaces of our separation were long enough to record
 on his face any slight changes that occurred in his physical state. I
 do not recollect that I once saw any change in it for the better; he
 wasted, and became slowly weaker and worse, day by day, from the day
-when the prison door closed upon him.
+when the [[Prison|prison]] door closed upon him.
 
-The kind of submission or resignation that he showed was that of a man
+The kind of submission or [[Resignation|resignation]] that he showed was that of a man
 who was tired out. I sometimes derived an impression, from his manner
 or from a whispered word or two which escaped him, that he pondered
 over the question whether he might have been a better man under better
@@ -51,7 +51,7 @@ desperate reputation was alluded to by one or other of the people in
 attendance on him. A smile crossed his face then, and he turned his
 eyes on me with a trustful look, as if he were confident that I had
 seen some small redeeming touch in him, even so long ago as when I was
-a little child. As to all the rest, he was humble and contrite, and I
+a little [[Child|child]]. As to all the rest, he was humble and contrite, and I
 never knew him complain.
 
 When the Sessions came round, Mr. Jaggers caused an application to be
@@ -69,54 +69,54 @@ he had returned, and was there in presence of the Judge and Jury. It
 was impossible to try him for that, and do otherwise than find him
 guilty.
 
-At that time, it was the custom (as I learnt from my terrible
+At that [[Time|time]], it was the custom (as I learnt from my terrible
 experience of that Sessions) to devote a concluding day to the passing
 of Sentences, and to make a finishing effect with the Sentence of
-Death. But for the indelible picture that my remembrance now holds
+[[Death]]. But for the indelible picture that my remembrance now holds
 before me, I could scarcely believe, even as I write these words, that
 I saw two-and-thirty men and women put before the Judge to receive that
 sentence together. Foremost among the two-and-thirty was he; seated,
 that he might get breath enough to keep life in him.
 
 The whole scene starts out again in the vivid colours of the moment,
-down to the drops of April rain on the windows of the court, glittering
+down to the drops of April rain on the windows of the [[Court|court]], glittering
 in the rays of April sun. Penned in the dock, as I again stood outside
 it at the corner with his hand in mine, were the two-and-thirty men and
 women; some defiant, some stricken with terror, some sobbing and
 weeping, some covering their faces, some staring gloomily about. There
 had been shrieks from among the women convicts; but they had been
-stilled, and a hush had succeeded. The sheriffs with their great chains
+stilled, and a hush had succeeded. The sheriffs with their great [[Chains|chains]]
 and nosegays, other civic gewgaws and monsters, criers, ushers, a great
 gallery full of people,—a large theatrical audience,—looked on, as the
 two-and-thirty and the Judge were solemnly confronted. Then the Judge
 addressed them. Among the wretched creatures before him whom he must
 single out for special address was one who almost from his infancy had
 been an offender against the laws; who, after repeated imprisonments
-and punishments, had been at length sentenced to exile for a term of
+and punishments, had been at length sentenced to [[Exile|exile]] for a term of
 years; and who, under circumstances of great violence and daring, had
-made his escape and been re-sentenced to exile for life. That miserable
-man would seem for a time to have become convinced of his errors, when
+made his escape and been re-sentenced to [[Exile|exile]] for life. That miserable
+man would seem for a [[Time|time]] to have become convinced of his errors, when
 far removed from the scenes of his old offences, and to have lived a
 peaceable and honest life. But in a fatal moment, yielding to those
 propensities and passions, the indulgence of which had so long rendered
 him a scourge to society, he had quitted his haven of rest and
 repentance, and had come back to the country where he was proscribed.
-Being here presently denounced, he had for a time succeeded in evading
+Being here presently denounced, he had for a [[Time|time]] succeeded in evading
 the officers of Justice, but being at length seized while in the act of
 flight, he had resisted them, and had—he best knew whether by express
-design, or in the blindness of his hardihood—caused the death of his
+design, or in the blindness of his hardihood—caused the [[Death|death]] of his
 denouncer, to whom his whole career was known. The appointed punishment
-for his return to the land that had cast him out, being Death, and his
+for his return to the land that had cast him out, being [[Death]], and his
 case being this aggravated case, he must prepare himself to Die.
 
-The sun was striking in at the great windows of the court, through the
+The sun was striking in at the great windows of the [[Court|court]], through the
 glittering drops of rain upon the glass, and it made a broad shaft of
 light between the two-and-thirty and the Judge, linking both together,
 and perhaps reminding some among the audience how both were passing on,
 with absolute equality, to the greater Judgment that knoweth all
 things, and cannot err. Rising for a moment, a distinct speck of face
 in this way of light, the prisoner said, “My Lord, I have received my
-sentence of Death from the Almighty, but I bow to yours,” and sat down
+sentence of [[Death]] from the Almighty, but I bow to yours,” and sat down
 again. There was some hushing, and the Judge went on with what he had
 to say to the rest. Then they were all formally doomed, and some of
 them were supported out, and some of them sauntered out with a haggard
@@ -131,25 +131,25 @@ and me.
 
 I earnestly hoped and prayed that he might die before the Recorder’s
 Report was made; but, in the dread of his lingering on, I began that
-night to write out a petition to the Home Secretary of State, setting
+[[Night|night]] to write out a petition to the [[Home]] Secretary of State, setting
 forth my knowledge of him, and how it was that he had come back for my
 sake. I wrote it as fervently and pathetically as I could; and when I
 had finished it and sent it in, I wrote out other petitions to such men
 in authority as I hoped were the most merciful, and drew up one to the
-Crown itself. For several days and nights after he was sentenced I took
+[[Crown]] itself. For several days and nights after he was sentenced I took
 no rest except when I fell asleep in my chair, but was wholly absorbed
 in these appeals. And after I had sent them in, I could not keep away
 from the places where they were, but felt as if they were more hopeful
 and less desperate when I was near them. In this unreasonable
-restlessness and pain of mind I would roam the streets of an evening,
+restlessness and [[Pain|pain]] of mind I would roam the streets of an evening,
 wandering by those offices and houses where I had left the petitions.
-To the present hour, the weary western streets of London on a cold,
-dusty spring night, with their ranges of stern, shut-up mansions, and
-their long rows of lamps, are melancholy to me from this association.
+To the present hour, the weary western streets of [[London]] on a cold,
+dusty [[spring]] [[Night|night]], with their ranges of stern, shut-up mansions, and
+their long rows of lamps, are [[Melancholy|melancholy]] to me from this association.
 
 The daily visits I could make him were shortened now, and he was more
 strictly kept. Seeing, or fancying, that I was suspected of an
-intention of carrying poison to him, I asked to be searched before I
+intention of carrying [[Poison|poison]] to him, I asked to be searched before I
 sat down at his bedside, and told the officer who was always there,
 that I was willing to do anything that would assure him of the
 singleness of my designs. Nobody was hard with him or with me. There
@@ -164,7 +164,7 @@ looking at the white ceiling, with an absence of light in his face
 until some word of mine brightened it for an instant, and then it would
 subside again. Sometimes he was almost or quite unable to speak, then
 he would answer me with slight pressures on my hand, and I grew to
-understand his meaning very well.
+understand his meaning very [[Well|well]].
 
 The number of the days had risen to ten, when I saw a greater change in
 him than I had seen yet. His eyes were turned towards the door, and
@@ -173,27 +173,27 @@ lighted up as I entered.
 “Dear boy,” he said, as I sat down by his bed: “I thought you was late.
 But I knowed you couldn’t be that.”
 
-“It is just the time,” said I. “I waited for it at the gate.”
+“It is just the [[Time|time]],” said I. “I waited for it at the gate.”
 
 “You always waits at the gate; don’t you, dear boy?”
 
-“Yes. Not to lose a moment of the time.”
+“Yes. Not to lose a moment of the [[Time|time]].”
 
 “Thank’ee dear boy, thank’ee. God bless you! You’ve never deserted me,
 dear boy.”
 
-I pressed his hand in silence, for I could not forget that I had once
-meant to desert him.
+I pressed his hand in [[Silence|silence]], for I could not forget that I had once
+meant to [[Desert|desert]] him.
 
 “And what’s the best of all,” he said, “you’ve been more comfortable
 alonger me, since I was under a dark cloud, than when the sun shone.
 That’s best of all.”
 
 He lay on his back, breathing with great difficulty. Do what he would,
-and love me though he did, the light left his face ever and again, and
+and [[Love|love]] me though he did, the light left his face ever and again, and
 a film came over the placid look at the white ceiling.
 
-“Are you in much pain to-day?”
+“Are you in much [[Pain|pain]] to-day?”
 
 “I don’t complain of none, dear boy.”
 
@@ -203,8 +203,8 @@ He had spoken his last words. He smiled, and I understood his touch to
 mean that he wished to lift my hand, and lay it on his breast. I laid
 it there, and he smiled again, and put both his hands upon it.
 
-The allotted time ran out, while we were thus; but, looking round, I
-found the governor of the prison standing near me, and he whispered,
+The allotted [[Time|time]] ran out, while we were thus; but, looking round, I
+found the governor of the [[Prison|prison]] standing near me, and he whispered,
 “You needn’t go yet.” I thanked him gratefully, and asked, “Might I
 speak to him, if he can hear me?”
 
@@ -217,12 +217,12 @@ say?”
 
 A gentle pressure on my hand.
 
-“You had a child once, whom you loved and lost.”
+“You had a [[Child|child]] once, whom you loved and lost.”
 
 A stronger pressure on my hand.
 
 “She lived, and found powerful friends. She is living now. She is a
-lady and very beautiful. And I love her!”
+lady and very beautiful. And I [[Love|love]] her!”
 
 With a last faint effort, which would have been powerless but for my
 yielding to it and assisting it, he raised my hand to his lips. Then,

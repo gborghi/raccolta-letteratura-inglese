@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 19 (part 4)"
+title: "[[Shirley]] — Chapter 19 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -22,9 +22,9 @@ around it.
 
 
 
-"Surely he is prepared. Surely that is not Moore meeting them alone?"
+"Surely he is prepared. Surely that is not Moore meeting them [[Alone|alone]]?"
 
-whispered Shirley.
+whispered [[Shirley]].
 
 
 
@@ -60,7 +60,7 @@ back. "Not one step shall you stir," she went on authoritatively. "At
 
 this moment Moore would be both shocked and embarrassed if he saw either
 
-you or me. Men never want women near them in time of real danger."
+you or me. Men never want women near them in [[Time|time]] of real danger."
 
 
 
@@ -68,7 +68,7 @@ you or me. Men never want women near them in time of real danger."
 
 
 
-"How?--by inspiring him with heroism? Pooh! these are not the days of
+"How?--by inspiring him with [[Heroism|heroism]]? Pooh! these are not the days of
 
 chivalry. It is not a tilt at a tournament we are going to behold, but a
 
@@ -80,11 +80,11 @@ struggle about money, and food, and life."
 
 
 
-"As queen of his heart? His mill is his lady-love, Cary! Backed by his
+"As [[Queen|queen]] of his heart? His mill is his lady-[[Love|love]], Cary! Backed by his
 
 factory and his frames, he has all the encouragement he wants or can
 
-know. It is not for love or beauty, but for ledger and broadcloth, he is
+know. It is not for [[Love|love]] or [[Beauty|beauty]], but for ledger and broadcloth, he is
 
 going to break a spear. Don't be sentimental; Robert is not so."
 
@@ -100,7 +100,7 @@ going to break a spear. Don't be sentimental; Robert is not so."
 
 She loosened her hold. Caroline sped like levelled shaft from bent bow;
 
-after her rang a jesting, gibing laugh. "Look well there is no mistake!"
+after her rang a jesting, gibing laugh. "Look [[Well|well]] there is no mistake!"
 
 was the warning given.
 
@@ -114,7 +114,7 @@ hastily to the mill.
 
 
 
-"Make haste, Lina!" cried Shirley; "meet him before he enters."
+"Make haste, Lina!" cried [[Shirley]]; "meet him before he enters."
 
 
 
@@ -136,7 +136,7 @@ superfluous; and now I am thankful we came too late to give it. It has
 
 saved us the trouble of a scene. How fine to have entered the
 
-counting-house _toute éperdue_, and to have found oneself in presence of
+counting-[[house]] _toute éperdue_, and to have found oneself in presence of
 
 Messrs. Armitage and Ramsden smoking, Malone swaggering, your uncle
 
@@ -146,19 +146,19 @@ man-of-business vein! I am glad we missed it all."
 
 
 
-"I wonder if there are many in the mill, Shirley!"
+"I [[Wonder|wonder]] if there are many in the mill, [[Shirley]]!"
 
 
 
 "Plenty to defend it. The soldiers we have twice seen to-day were going
 
-there, no doubt, and the group we noticed surrounding your cousin in the
+there, no [[Doubt|doubt]], and the group we noticed surrounding your cousin in the
 
 fields will be with him."
 
 
 
-"What are they doing now, Shirley? What is that noise?"
+"What are they doing now, [[Shirley]]? What is that noise?"
 
 
 
@@ -180,15 +180,15 @@ our own eyes. We are here on the spot, and none know it. Instead of
 
 amazing the curate, the clothier, and the corn-dealer with a romantic
 
-rush on the stage, we stand alone with the friendly night, its mute
+rush on the stage, we stand [[Alone|alone]] with the friendly [[Night|night]], its mute
 
-stars, and these whispering trees, whose report our friends will not
+[[Stars|stars]], and these whispering trees, whose report our friends will not
 
 come to gather."
 
 
 
-"Shirley, Shirley, the gates are down! That crash was like the felling
+"[[Shirley]], [[Shirley]], the gates are down! That crash was like the felling
 
 of great trees. Now they are pouring through. They will break down the
 
@@ -196,7 +196,7 @@ mill doors as they have broken the gate. What can Robert do against so
 
 many? Would to God I were a little nearer him--could hear him
 
-speak--could speak to him! With my will--my longing to serve him--I
+speak--could speak to him! With my will--my [[Longing|longing]] to serve him--I
 
 could not be a useless burden in his way; I could be turned to some
 
@@ -204,25 +204,25 @@ account."
 
 
 
-"They come on!" cried Shirley. "How steadily they march in! There is
+"They come on!" cried [[Shirley]]. "How steadily they march in! There is
 
-discipline in their ranks. I will not say there is courage--hundreds
+discipline in their ranks. I will not say there is [[Courage|courage]]--hundreds
 
 against tens are no proof of that quality--but" (she dropped her voice)
 
-"there is suffering and desperation enough amongst them. These goads
+"there is [[Suffering|suffering]] and desperation enough amongst them. These goads
 
 will urge them forwards."
 
 
 
-"Forwards against Robert; and they hate him. Shirley, is there much
+"Forwards against Robert; and they hate him. [[Shirley]], is there much
 
 danger they will win the day?"
 
 
 
-"We shall see. Moore and Helstone are of 'earth's first blood'--no
+"We shall see. Moore and Helstone are of 'earth's first [[Blood|blood]]'--no
 
 bunglers--no cravens----"
 
@@ -248,7 +248,7 @@ ears--perhaps for your heart, since, if it rends the air in hate to
 
 yourself, or to the men or principles you approve, the interests to
 
-which you wish well, wrath wakens to the cry of hate; the lion shakes
+which you wish [[Well|well]], wrath wakens to the cry of hate; the [[Lion|lion]] shakes
 
 his mane, and rises to the howl of the hyena; caste stands up, ireful
 
@@ -262,11 +262,11 @@ in such moments.
 
 
 
-Caroline rose; Shirley put her arm round her: they stood together as
+Caroline [[Rose|rose]]; [[Shirley]] put her arm round her: they stood together as
 
 still as the straight stems of two trees. That yell was a long one, and
 
-when it ceased the night was yet full of the swaying and murmuring of a
+when it ceased the [[Night|night]] was yet full of the swaying and murmuring of a
 
 crowd.
 
@@ -278,8 +278,8 @@ mill remained mute as a mausoleum.
 
 
 
-"He _cannot_ be alone!" whispered Caroline.
+"He _cannot_ be [[Alone|alone]]!" whispered Caroline.
 
 
 
-"I would stake all I have that he is as little alone as he is alarmed,"
+"I would stake all I have that he is as little [[Alone|alone]] as he is alarmed,"

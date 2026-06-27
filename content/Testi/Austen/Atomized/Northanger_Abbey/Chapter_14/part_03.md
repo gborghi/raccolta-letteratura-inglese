@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 13 (part 3)"
+title: "[[Northanger Abbey]] — Chapter 13 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-and was then most agreeably surprised by General Tilney’s asking her if
+and was then most agreeably surprised by [[General Tilney]]’s asking her if
 
-she would do his daughter the honour of dining and spending the rest of
+she would do his daughter the [[Honour|honour]] of dining and spending the rest of
 
 the day with her. Miss Tilney added her own wishes. Catherine was
 
@@ -48,13 +48,13 @@ Catherine, delighted by all that had passed, proceeded gaily to
 
 Pulteney Street, walking, as she concluded, with great elasticity,
 
-though she had never thought of it before. She reached home without
+though she had never thought of it before. She reached [[Home|home]] without
 
 seeing anything more of the offended party; and now that she had been
 
 triumphant throughout, had carried her point, and was secure of her
 
-walk, she began (as the flutter of her spirits subsided) to doubt
+walk, she began (as the flutter of her spirits subsided) to [[Doubt|doubt]]
 
 whether she had been perfectly right. A sacrifice was always noble; and
 
@@ -70,7 +70,7 @@ person what her own conduct had really been, she took occasion to
 
 mention before Mr. Allen the half-settled scheme of her brother and the
 
-Thorpes for the following day. Mr. Allen caught at it directly. “Well,”
+Thorpes for the following day. Mr. Allen caught at it directly. “[[Well]],”
 
 said he, “and do you think of going too?”
 
@@ -88,9 +88,9 @@ I?”
 
 are not at all the thing. Young men and women driving about the country
 
-in open carriages! now and then it is very well; but going to inns and
+in open carriages! now and then it is very [[Well|well]]; but going to inns and
 
-public places together! it is not right; and I wonder Mrs. Thorpe
+public places together! it is not right; and I [[Wonder|wonder]] Mrs. Thorpe
 
 should allow it. I am glad you do not think of going; I am sure Mrs.
 
@@ -104,7 +104,7 @@ thinking? Do not you think these kind of projects objectionable?”
 
 gown is not five minutes’ wear in them. You are splashed getting in and
 
-getting out; and the wind takes your hair and your bonnet in every
+getting out; and the [[Wind|wind]] takes your hair and your bonnet in every
 
 direction. I hate an open carriage myself.”
 
@@ -164,7 +164,7 @@ Thorpe any more.”
 
 
 
-Catherine, relieved for herself, felt uneasy for Isabella, and after a
+Catherine, relieved for herself, felt uneasy for [[Isabella]], and after a
 
 moment’s thought, asked Mr. Allen whether it would not be both proper
 
@@ -172,15 +172,15 @@ and kind in her to write to Miss Thorpe, and explain the indecorum of
 
 which she must be as insensible as herself; for she considered that
 
-Isabella might otherwise perhaps be going to Clifton the next day, in
+[[Isabella]] might otherwise perhaps be going to Clifton the next day, in
 
 spite of what had passed. Mr. Allen, however, discouraged her from
 
-doing any such thing. “You had better leave her alone, my dear; she is
+doing any such thing. “You had better leave her [[Alone|alone]], my dear; she is
 
 old enough to know what she is about, and if not, has a mother to
 
-advise her. Mrs. Thorpe is too indulgent beyond a doubt; but, however,
+advise her. Mrs. Thorpe is too indulgent beyond a [[Doubt|doubt]]; but, however,
 
 you had better not interfere. She and your brother choose to go, and
 
@@ -188,7 +188,7 @@ you will be only getting ill will.”
 
 
 
-Catherine submitted, and though sorry to think that Isabella should be
+Catherine submitted, and though sorry to think that [[Isabella]] should be
 
 doing wrong, felt greatly relieved by Mr. Allen’s approbation of her
 

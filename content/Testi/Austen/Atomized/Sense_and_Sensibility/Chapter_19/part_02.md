@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 19 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 19 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -22,7 +22,7 @@ going away, she did not adopt the method so judiciously employed by
 
 Marianne, on a similar occasion, to augment and fix her sorrow, by
 
-seeking silence, solitude and idleness. Their means were as different
+seeking [[Silence|silence]], [[Solitude|solitude]] and idleness. Their means were as different
 
 as their objects, and equally suited to the advancement of each.
 
@@ -30,7 +30,7 @@ as their objects, and equally suited to the advancement of each.
 
 Elinor sat down to her drawing-table as soon as he was out of the
 
-house, busily employed herself the whole day, neither sought nor
+[[house]], busily employed herself the whole day, neither sought nor
 
 avoided the mention of his name, appeared to interest herself almost as
 
@@ -48,7 +48,7 @@ Such behaviour as this, so exactly the reverse of her own, appeared no
 
 more meritorious to Marianne, than her own had seemed faulty to her.
 
-The business of self-command she settled very easily;—with strong
+The business of [[Self|self]]-command she settled very easily;—with strong
 
 affections it was impossible, with calm ones it could have no merit.
 
@@ -62,9 +62,9 @@ spite of this mortifying conviction.
 
 
 
-Without shutting herself up from her family, or leaving the house in
+Without shutting herself up from her family, or leaving the [[house]] in
 
-determined solitude to avoid them, or lying awake the whole night to
+determined [[Solitude|solitude]] to avoid them, or lying awake the whole [[Night|night]] to
 
 indulge meditation, Elinor found every day afforded her leisure enough
 
@@ -72,13 +72,13 @@ to think of Edward, and of Edward’s behaviour, in every possible
 
 variety which the different state of her spirits at different times
 
-could produce,—with tenderness, pity, approbation, censure, and doubt.
+could produce,—with tenderness, pity, approbation, censure, and [[Doubt|doubt]].
 
 There were moments in abundance, when, if not by the absence of her
 
-mother and sisters, at least by the nature of their employments,
+mother and sisters, at least by the [[Nature|nature]] of their employments,
 
-conversation was forbidden among them, and every effect of solitude was
+conversation was forbidden among them, and every effect of [[Solitude|solitude]] was
 
 produced. Her mind was inevitably at liberty; her thoughts could not be
 
@@ -86,7 +86,7 @@ chained elsewhere; and the past and the future, on a subject so
 
 interesting, must be before her, must force her attention, and engross
 
-her memory, her reflection, and her fancy.
+her [[Memory|memory]], her reflection, and her fancy.
 
 
 
@@ -94,17 +94,17 @@ From a reverie of this kind, as she sat at her drawing-table, she was
 
 roused one morning, soon after Edward’s leaving them, by the arrival of
 
-company. She happened to be quite alone. The closing of the little
+company. She happened to be quite [[Alone|alone]]. The closing of the little
 
-gate, at the entrance of the green court in front of the house, drew
+gate, at the entrance of the green [[Court|court]] in front of the [[house]], drew
 
-her eyes to the window, and she saw a large party walking up to the
+her eyes to the [[Window|window]], and she saw a large party walking up to the
 
 door. Amongst them were Sir John and Lady Middleton and Mrs. Jennings,
 
 but there were two others, a gentleman and lady, who were quite unknown
 
-to her. She was sitting near the window, and as soon as Sir John
+to her. She was sitting near the [[Window|window]], and as soon as Sir John
 
 perceived her, he left the rest of the party to the ceremony of
 
@@ -112,13 +112,13 @@ knocking at the door, and stepping across the turf, obliged her to open
 
 the casement to speak to him, though the space was so short between the
 
-door and the window, as to make it hardly possible to speak at one
+door and the [[Window|window]], as to make it hardly possible to speak at one
 
 without being heard at the other.
 
 
 
-“Well,” said he, “we have brought you some strangers. How do you like
+“[[Well]],” said he, “we have brought you some strangers. How do you like
 
 them?”
 
@@ -154,19 +154,19 @@ They were now joined by Mrs. Jennings, who had not patience enough to
 
 wait till the door was opened before she told _her_ story. She came
 
-hallooing to the window, “How do you do, my dear? How does Mrs.
+hallooing to the [[Window|window]], “How do you do, my dear? How does Mrs.
 
-Dashwood do? And where are your sisters? What! all alone! you will be
+Dashwood do? And where are your sisters? What! all [[Alone|alone]]! you will be
 
 glad of a little company to sit with you. I have brought my other son
 
 and daughter to see you. Only think of their coming so suddenly! I
 
-thought I heard a carriage last night, while we were drinking our tea,
+thought I heard a carriage last [[Night|night]], while we were drinking our tea,
 
 but it never entered my head that it could be them. I thought of
 
-nothing but whether it might not be Colonel Brandon come back again; so
+nothing but whether it might not be [[Colonel Brandon]] come back again; so
 
 I said to Sir John, I do think I hear a carriage; perhaps it is Colonel
 
@@ -180,7 +180,7 @@ receive the rest of the party; Lady Middleton introduced the two
 
 strangers; Mrs. Dashwood and Margaret came down stairs at the same
 
-time, and they all sat down to look at one another, while Mrs. Jennings
+[[Time|time]], and they all sat down to look at one another, while Mrs. Jennings
 
 continued her story as she walked through the passage into the parlour,
 
@@ -192,21 +192,21 @@ Mrs. Palmer was several years younger than Lady Middleton, and totally
 
 unlike her in every respect. She was short and plump, had a very pretty
 
-face, and the finest expression of good humour in it that could
+face, and the finest expression of good [[Humour|humour]] in it that could
 
 possibly be. Her manners were by no means so elegant as her sister’s,
 
 but they were much more prepossessing. She came in with a smile, smiled
 
-all the time of her visit, except when she laughed, and smiled when she
+all the [[Time|time]] of her visit, except when she laughed, and smiled when she
 
-went away. Her husband was a grave looking young man of five or six and
+went away. Her husband was a [[Grave|grave]] looking young man of five or six and
 
 twenty, with an air of more fashion and sense than his wife, but of
 
 less willingness to please or be pleased. He entered the room with a
 
-look of self-consequence, slightly bowed to the ladies, without
+look of [[Self|self]]-consequence, slightly bowed to the ladies, without
 
 speaking a word, and, after briefly surveying them and their
 
@@ -216,7 +216,7 @@ it as long as he staid.
 
 
 
-Mrs. Palmer, on the contrary, who was strongly endowed by nature with a
+Mrs. Palmer, on the contrary, who was strongly endowed by [[Nature|nature]] with a
 
 turn for being uniformly civil and happy, was hardly seated before her
 
@@ -224,7 +224,7 @@ admiration of the parlour and every thing in it burst forth.
 
 
 
-“Well! what a delightful room this is! I never saw anything so
+“[[Well]]! what a delightful room this is! I never saw anything so
 
 charming! Only think, Mama, how it is improved since I was here last! I
 

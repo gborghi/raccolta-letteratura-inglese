@@ -28,7 +28,7 @@ a sudden fog, and some error on the pilot’s part, were the cause.  We
 were surrounded by banks, and rocks, and shoals of all kinds, but had
 happily drifted, it seemed, upon the only safe speck that was to be found
 thereabouts.  Eased by this report, and by the assurance that the tide
-was past the ebb, we turned in at three o’clock in the morning.
+was past the ebb, we turned in at three o’[[Clock|clock]] in the morning.
 
 I was dressing about half-past nine next day, when the noise above
 hurried me on deck.  When I had left it overnight, it was dark, foggy,
@@ -37,7 +37,7 @@ down a smooth, broad stream, at the rate of eleven miles an hour: our
 colours flying gaily; our crew rigged out in their smartest clothes; our
 officers in uniform again; the sun shining as on a brilliant April day in
 England; the land stretched out on either side, streaked with light
-patches of snow; white wooden houses; people at their doors; telegraphs
+patches of [[Snow|snow]]; white wooden houses; people at their doors; telegraphs
 working; flags hoisted; wharfs appearing; ships; quays crowded with
 people; distant noises; shouts; men and boys running down steep places
 towards the pier: all more bright and gay and fresh to our unused eyes
@@ -45,12 +45,12 @@ than words can paint them.  We came to a wharf, paved with uplifted
 faces; got alongside, and were made fast, after some shouting and
 straining of cables; darted, a score of us along the gangway, almost as
 soon as it was thrust out to meet us, and before it had reached the
-ship—and leaped upon the firm glad earth again!
+[[Ship|ship]]—and leaped upon the firm glad earth again!
 
 I suppose this Halifax would have appeared an Elysium, though it had been
 a curiosity of ugly dulness.  But I carried away with me a most pleasant
 impression of the town and its inhabitants, and have preserved it to this
-hour.  Nor was it without regret that I came home, without having found
+hour.  Nor was it without regret that I came [[Home|home]], without having found
 an opportunity of returning thither, and once more shaking hands with the
 friends I made that day.
 
@@ -60,26 +60,26 @@ new Session of Parliament in England were so closely copied, and so
 gravely presented on a small scale, that it was like looking at
 Westminster through the wrong end of a telescope.  The governor, as her
 Majesty’s representative, delivered what may be called the Speech from
-the Throne.  He said what he had to say manfully and well.  The military
-band outside the building struck up “God save the Queen” with great
+the Throne.  He said what he had to say manfully and [[Well|well]].  The military
+band outside the building struck up “God save the [[Queen]]” with great
 vigour before his Excellency had quite finished; the people shouted; the
-in’s rubbed their hands; the out’s shook their heads; the Government
+in’s rubbed their hands; the out’s shook their heads; the [[government|Government]]
 party said there never was such a good speech; the Opposition declared
-there never was such a bad one; the Speaker and members of the House of
+there never was such a bad one; the Speaker and members of the [[house|House]] of
 Assembly withdrew from the bar to say a great deal among themselves and
 do a little: and, in short, everything went on, and promised to go on,
-just as it does at home upon the like occasions.
+just as it does at [[Home|home]] upon the like occasions.
 
-The town is built on the side of a hill, the highest point being
+The town is built on the side of a [[Hill|hill]], the highest point being
 commanded by a strong fortress, not yet quite finished.  Several streets
-of good breadth and appearance extend from its summit to the water-side,
-and are intersected by cross streets running parallel with the river.
+of good breadth and appearance extend from its summit to the [[Water|water]]-side,
+and are intersected by [[Cross|cross]] streets running parallel with the [[River|river]].
 The houses are chiefly of wood.  The market is abundantly supplied; and
 provisions are exceedingly cheap.  The weather being unusually mild at
-that time for the season of the year, there was no sleighing: but there
+that [[Time|time]] for the season of the year, there was no sleighing: but there
 were plenty of those vehicles in yards and by-places, and some of them,
 from the gorgeous quality of their decorations, might have ‘gone on’
-without alteration as triumphal cars in a melodrama at Astley’s.  The day
+without alteration as triumphal cars in a [[Melodrama|melodrama]] at Astley’s.  The day
 was uncommonly fine; the air bracing and healthful; the whole aspect of
 the town cheerful, thriving, and industrious.
 
@@ -91,7 +91,7 @@ streets), the engines were again put in motion, and we stood off for
 Boston.
 
 Encountering squally weather again in the Bay of Fundy, we tumbled and
-rolled about as usual all that night and all next day.  On the next
+rolled about as usual all that [[Night|night]] and all next day.  On the next
 afternoon, that is to say, on Saturday, the twenty-second of January, an
 American pilot-boat came alongside, and soon afterwards the Britannia
 steam-packet, from Liverpool, eighteen days out, was telegraphed at
@@ -101,7 +101,7 @@ The indescribable interest with which I strained my eyes, as the first
 patches of American soil peeped like molehills from the green sea, and
 followed them, as they swelled, by slow and almost imperceptible degrees,
 into a continuous line of coast, can hardly be exaggerated.  A sharp keen
-wind blew dead against us; a hard frost prevailed on shore; and the cold
+[[Wind|wind]] blew dead against us; a hard [[Frost|frost]] prevailed on shore; and the cold
 was most severe.  Yet the air was so intensely clear, and dry, and
 bright, that the temperature was not only endurable, but delicious.
 
@@ -112,15 +112,15 @@ will not prolong this chapter to discuss.  Neither will I more than hint
 at my foreigner-like mistake in supposing that a party of most active
 persons, who scrambled on board at the peril of their lives as we
 approached the wharf, were newsmen, answering to that industrious class
-at home; whereas, despite the leathern wallets of news slung about the
+at [[Home|home]]; whereas, despite the leathern wallets of news slung about the
 necks of some, and the broad sheets in the hands of all, they were
 Editors, who boarded ships in person (as one gentleman in a worsted
 comforter informed me), ‘because they liked the excitement of it.’
 Suffice it in this place to say, that one of these invaders, with a ready
 courtesy for which I thank him here most gratefully, went on before to
 order rooms at the hotel; and that when I followed, as I soon did, I
-found myself rolling through the long passages with an involuntary
-imitation of the gait of Mr. T. P. Cooke, in a new nautical melodrama.
+found myself [[rolling]] through the long passages with an involuntary
+[[Imitation|imitation]] of the gait of Mr. T. P. Cooke, in a new nautical [[Melodrama|melodrama]].
 
 ‘Dinner, if you please,’ said I to the waiter.
 
@@ -142,13 +142,13 @@ At this, I really thought the waiter must have gone out of his mind: as I
 believe he would have done, but for the interposition of another man, who
 whispered in his ear, ‘Directly.’
 
-‘Well! and that’s a fact!’ said the waiter, looking helplessly at me:
+‘[[Well]]! and that’s a fact!’ said the waiter, looking helplessly at me:
 ‘Right away.’
 
 I saw now that ‘Right away’ and ‘Directly’ were one and the same thing.
 So I reversed my previous answer, and sat down to dinner in ten minutes
 afterwards; and a capital dinner it was.
 
-The hotel (a very excellent one) is called the Tremont House.  It has
+The hotel (a very excellent one) is called the Tremont [[house|House]].  It has
 more galleries, colonnades, piazzas, and passages than I can remember, or
 the reader would believe.

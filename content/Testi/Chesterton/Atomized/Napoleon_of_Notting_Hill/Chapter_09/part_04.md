@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting Hill — Chapter 1 (part 4)"
+title: "Napoleon of Notting [[Hill]] — Chapter 1 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Napoleon-of-Notting-Hill-(Chesterton)"
@@ -21,34 +21,34 @@ pine-apple chunks, he waved his stick generally towards them.
 
 "Yes," he said, "I'll take those."
 
-"All those, sir?" said the grocer, with greatly increased interest.
+"All those, sir?" said the [[grocer]], with greatly increased interest.
 
 "Yes, yes; all those," replied Wayne, still a little bewildered,
-like a man splashed with cold water.
+like a man splashed with cold [[Water|water]].
 
-"Very good, sir; thank you, sir," said the grocer with animation.
+"Very good, sir; thank you, sir," said the [[grocer]] with animation.
 "You may count upon my patriotism, sir."
 
 "I count upon it already," said Wayne, and passed out into
-the gathering night.
+the gathering [[Night|night]].
 
-The grocer put the box of dates back in its place.
+The [[grocer]] put the box of dates back in its place.
 
 "What a nice fellow he is," he said.  "It's odd how often they are nice.
 Much nicer than those as are all right."
 
-Meanwhile Adam Wayne stood outside the glowing chemist's shop,
+Meanwhile [[Adam Wayne]] stood outside the glowing chemist's shop,
 unmistakably wavering.
 
 "What a weakness it is," he muttered.  "I have never got
-rid of it from childhood.  The fear of this magic shop.
-The grocer is rich, he is romantic, he is poetical in the truest sense,
-but he is not...no, he is not supernatural.  But the chemist!
-All the other shops stand in Notting Hill, but this stands
+rid of it from [[Childhood|childhood]].  The [[Fear|fear]] of this [[Magic|magic]] shop.
+The [[grocer]] is rich, he is romantic, he is poetical in the truest sense,
+but he is not...no, he is not [[Supernatural|supernatural]].  But the chemist!
+All the other shops stand in Notting [[Hill]], but this stands
 in Elf-land. Look at those great burning bowls of colour.
 It must be from them that God paints the sunsets.  It is superhuman,
-and the superhuman is all the more uncanny when it is beneficent.
-That is the root of the fear of God.  I am afraid.  But I must
+and the superhuman is all the more [[Uncanny|uncanny]] when it is beneficent.
+That is the root of the [[Fear|fear]] of God.  I am afraid.  But I must
 be a man and enter."
 
 He was a man, and entered.  A short, dark young man was behind
@@ -60,8 +60,8 @@ entirely business-like smile.
 "Fine, indeed, strange Father," said Adam, stretching his hands
 somewhat forward.  "It is on such clear and mellow nights that your
 shop is most itself.  Then they appear most perfect, those moons
-of green and gold and crimson, which from afar, oft guide the pilgrim
-of pain and sickness to this house of merciful witchcraft."
+of green and gold and crimson, which from afar, oft guide the [[Pilgrim|pilgrim]]
+of [[Pain|pain]] and sickness to this [[house]] of merciful witchcraft."
 
 "Can I get you anything?" asked the chemist.
 
@@ -85,8 +85,8 @@ And he waved his stick around the shop.
 
 Meeting with no answer, he continued with animation:
 
-"In Notting Hill we have felt to its core the elfish mystery
-of your profession.  And now Notting Hill itself is threatened."
+"In Notting [[Hill]] we have felt to its core the elfish mystery
+of your profession.  And now Notting [[Hill]] itself is threatened."
 
 "Anything more, sir?" asked the chemist.
 
@@ -103,29 +103,29 @@ and immediately said:
 "And the next article, please?"
 
 "Alum," said the Provost, wildly.  "I resume.  It is in this sacred town
-alone that your priesthood is reverenced.  Therefore, when you fight
+[[Alone|alone]] that your priesthood is reverenced.  Therefore, when you fight
 for us you fight not only for yourself, but for everything you typify.
-You fight not only for Notting Hill, but for Fairyland, for as surely
+You fight not only for Notting [[Hill]], but for Fairyland, for as surely
 as Buck and Barker and such men hold sway, the sense of Fairyland
 in some strange manner diminishes."
 
 "Anything more, sir?" asked Mr. Bowles, with unbroken cheerfulness.
 
 "Oh yes, jujubes...Gregory powder...magnesia. The danger is imminent.
-In all this matter I have felt that I fought not merely for my own city
-(though to that I owe all my blood), but for all places in which
+In all this matter I have felt that I fought not merely for my own [[City|city]]
+(though to that I owe all my [[Blood|blood]]), but for all places in which
 these great ideas could prevail.  I am fighting not merely for
-Notting Hill, but for Bayswater itself; for North Kensington itself.
+Notting [[Hill]], but for Bayswater itself; for North Kensington itself.
 For if the gold-hunters prevail, these also will lose all their
-ancient sentiments and all the mystery of their national soul.
+ancient sentiments and all the mystery of their national [[Soul|soul]].
 I know I can count upon you."
 
 "Oh yes, sir," said the chemist, with great animation, "we are always
 glad to oblige a good customer."
 
-Adam Wayne went out of the shop with a deep sense of fulfilment of soul.
+[[Adam Wayne]] went out of the shop with a deep sense of fulfilment of [[Soul|soul]].
 
 "It is so fortunate," he said, "to have tact, to be able to play
 upon the peculiar talents and specialities, the cosmopolitanism
-of the grocer and the world-old necromancy of the chemist.
+of the [[grocer]] and the world-old necromancy of the chemist.
 Where should I be without tact?"

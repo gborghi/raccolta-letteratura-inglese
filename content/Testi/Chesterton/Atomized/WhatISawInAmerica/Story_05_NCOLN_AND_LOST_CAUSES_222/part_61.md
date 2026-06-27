@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 61)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 61)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -22,11 +22,11 @@ the phrase. But most of the American slang that is borrowed seems to be
 
 borrowed for no particular reason. It either has no point or the point
 
-is lost by translation into another context and culture. It is either
+is lost by [[Translation|translation]] into another context and culture. It is either
 
-something which does not need any grotesque and exaggerative
+something which does not need any [[Grotesque|grotesque]] and exaggerative
 
-description, or of which there already exists a grotesque and
+description, or of which there already exists a [[Grotesque|grotesque]] and
 
 exaggerative description more native to our tongue and soil. For
 
@@ -50,7 +50,7 @@ ordinary language. Very often the English have already as humorous and
 
 fanciful idiom of their own, only that through habit it has lost its
 
-humour. When Keats wrote the line, 'What pipes and timbrels, what wild
+[[Humour|humour]]. When Keats wrote the line, 'What pipes and timbrels, what wild
 
 ecstasy!' I am willing to believe that the American humorist would have
 
@@ -92,7 +92,7 @@ of either. All that happens is that a number of weary people who used to
 
 say, 'Something like a bird,' now say, 'Some bird,' with undiminished
 
-weariness. But they might just as well use dull and decent English; for
+weariness. But they might just as [[Well|well]] use dull and decent English; for
 
 in both cases they are only using jocular language without seeing the
 
@@ -112,19 +112,19 @@ scroll of decorative designs unrolled ceaselessly before the British
 
 public, about a hen-pecked husband, which is indistinguishable to the
 
-eye from an actual self-repeating pattern like that of the Greek Key,
+eye from an actual [[Self|self]]-repeating pattern like that of the Greek Key,
 
 but which is imported as if it were as precious and irreplaceable as the
 
-Elgin Marbles. Advertisement and syndication make mountains out of the
+Elgin Marbles. Advertisement and syndication make [[Mountains|mountains]] out of the
 
-most funny little mole-hills; but no doubt the mole-hills are
+most funny little mole-hills; but no [[Doubt|doubt]] the mole-hills are
 
 picturesque enough in their own landscape. In any case there is nothing
 
-so national as humour; and many things, like many people, can be
+so national as [[Humour|humour]]; and many things, like many people, can be
 
-humorous enough when they are at home. But these American jokes are
+humorous enough when they are at [[Home|home]]. But these American jokes are
 
 boomed as solemnly as American religions; and their supporters gravely
 
@@ -132,11 +132,11 @@ testify that they are funny, without seeing the fun of it for a moment.
 
 This is partly perhaps the spirit of spontaneous institutionalism in
 
-American democracy, breaking out in the wrong place. They make humour an
+American [[democracy]], breaking out in the wrong place. They make [[Humour|humour]] an
 
 institution; and a man will be set to tell an anecdote as if to play the
 
-violin. But when the story is told in America it really is amusing; and
+violin. But when the story is told in [[America]] it really is amusing; and
 
 when these jokes are reprinted in England they are often not even
 
@@ -146,7 +146,7 @@ monopolist, the enterprising proprietor prints jokes in England which
 
 are necessarily unintelligible to nearly every English person; jokes
 
-referring to domestic and local conditions quite peculiar to America. I
+referring to domestic and local conditions quite peculiar to [[America]]. I
 
 saw one of these narrative caricatures the other day in which the whole
 
@@ -164,7 +164,7 @@ tow an iceberg to an English port all the way from the North Pole, as to
 
 trail that one pale and frigid joke to Fleet Street all the way from the
 
-New York papers. It is the same with a hundred other advertisements and
+[[New York]] papers. It is the same with a hundred other advertisements and
 
 adaptations. I have already confessed that I took a considerable delight
 
@@ -172,17 +172,17 @@ in the dancing illuminations of Broadway--in Broadway. Everything there
 
 is suitable to them, the vast interminable thoroughfare, the toppling
 
-houses, the dizzy and restless spirit of the whole city. It is a city of
+houses, the dizzy and restless spirit of the whole [[City|city]]. It is a [[City|city]] of
 
-dissolving views, and one may almost say a city in everlasting
+dissolving views, and one may almost say a [[City|city]] in everlasting
 
-dissolution. But I do not especially admire a burning fragment of
+dissolution. But I do not especially admire a burning [[Fragment|fragment]] of
 
 Broadway stuck up opposite the old Georgian curve of Regent Street. I
 
 would as soon express sympathy with the Republic of Switzerland by
 
-erecting a small Alp, with imitation snow, in the middle of St. James's
+erecting a small Alp, with [[Imitation|imitation]] [[Snow|snow]], in the middle of St. James's
 
 Park.
 

@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — ORD KITCHENER (part 5)"
+title: "[[LordKitchener]] — ORD KITCHENER (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/LordKitchener-(Chesterton)"
@@ -16,11 +16,11 @@ tags:
 
 story, if it be true, is admirably French; for it reveals at once the
 
-wit and the peasant. But the humour of the Englishman was worthily
+wit and the peasant. But the [[Humour|humour]] of the Englishman was worthily
 
-equal to the wit of the Frenchman; and it was humour of that sane sort
+equal to the wit of the Frenchman; and it was [[Humour|humour]] of that sane sort
 
-which we call good humour. Political papers in pacific England and
+which we call good [[Humour|humour]]. Political papers in pacific England and
 
 France raved and ranted over the crisis, responsible journals howled
 
@@ -32,7 +32,7 @@ the two grim tropical travellers and soldiers who faced each other on
 
 the burning sands of Fashoda. As we see them facing each other, we
 
-have again the vague sense of a sign or a parable which runs through
+have again the vague sense of a sign or a [[Parable|parable]] which runs through
 
 this story. For they were to meet again long afterwards as allies,
 
@@ -42,11 +42,11 @@ Great War.
 
 
 
-Something of the same shadow of prophecy is perhaps the deepest memory
+Something of the same [[Shadow|shadow]] of prophecy is perhaps the deepest [[Memory|memory]]
 
 left by the last war of Kitchener before the greatest. After further
 
-activities in Egypt and the Soudan, of which the attempt to educate
+activities in [[Egypt]] and the Soudan, of which the attempt to educate
 
 the Fellaheen by the Gordon Memorial College was the most remarkable,
 
@@ -78,11 +78,11 @@ war that so nearly began at Fashoda. It seemed almost as if God were
 
 pitting his heroes against each other in tournament, before they all
 
-rode together against the heathen pouring upon them out of Germany.
+rode together against the heathen pouring upon them out of [[Germany]].
 
 
 
-It is with that name of Germany that this mere skeleton of the facts
+It is with that name of [[Germany]] that this mere [[skeleton]] of the facts
 
 must end. After the South African War Kitchener had been made
 
@@ -96,17 +96,17 @@ in his dealings with the Sepoys, that obscure yet powerful sympathy
 
 with the mysterious intellect of the East. Thence he had been again
 
-shifted to Egypt; but the next summons that came to him swallowed up
+shifted to [[Egypt]]; but the next summons that came to him swallowed up
 
-all these things. A short time after war broke out with Germany he was
+all these things. A short [[Time|time]] after war broke out with [[Germany]] he was
 
 made Minister of War, and held that post until the dark season when he
 
-set out on a mission to Russia, which never reached its goal. But when
+set out on a mission to [[Russia]], which never reached its goal. But when
 
-his ship went down he had already done a work and registered a change
+his [[Ship|ship]] went down he had already done a work and registered a change
 
-in England, with some words about which this sketch may well conclude.
+in England, with some words about which this [[Sketch|sketch]] may [[Well|well]] conclude.
 
 Journalistic attacks were indeed made upon him, but in writing for a
 
@@ -118,7 +118,7 @@ the greatest. In his new work he was not only a very great man, but
 
 one dealing with very great things; and perhaps his most historic
 
-moment was when he broke his customary silence about the deeper
+moment was when he broke his customary [[Silence|silence]] about the deeper
 
 emotions of life, and became the mouthpiece of the national horror at
 
@@ -132,11 +132,11 @@ stretch of years the comparative chivalry and nobility of his dead
 
 enemies of the Soudan, and to announce that in the heart of Europe, in
 
-learned academies and ordered government offices, there had appeared a
+learned academies and ordered [[government]] offices, there had appeared a
 
 lunacy so cruel and unclean that the maddest dervish dead in the
 
-desert had a right to disdain it where he lay.
+[[Desert|desert]] had a right to disdain it where he lay.
 
 
 
@@ -146,17 +146,17 @@ England and even outside Europe. But it was in England, and after his
 
 return to England, that he did what will perhaps make his name most
 
-permanent in history. That return to England was indeed as symbolic as
+permanent in [[history]]. That return to England was indeed as symbolic as
 
-his last and tragic journey to Russia. Both will stand as symbols of
+his last and tragic [[Journey|journey]] to [[Russia]]. Both will stand as symbols of
 
-the deepest things which are moving mankind in the Great War. In truth
+the deepest things which are moving mankind in the Great War. In [[Truth|truth]]
 
 the whole of that great European movement which we call the cause of
 
-the Allies is in itself a homeward journey. It is a return to native
+the Allies is in itself a homeward [[Journey|journey]]. It is a return to native
 
-and historic ideals, after an exile in the howling wilderness of the
+and historic ideals, after an [[Exile|exile]] in the howling wilderness of the
 
 political pessimism and cynicism of Prussia. After his great
 
@@ -182,7 +182,7 @@ of English clubs and hotels into the solitudes of the Nile or up the
 
 passes of the Himalayas, and is infinitely ignorant of things
 
-infinitely nearer home. For this type of Englishman Cairo was nearer
+infinitely nearer [[Home|home]]. For this type of Englishman Cairo was nearer
 
 than Calais. Yet the typical figure which we associated with such
 

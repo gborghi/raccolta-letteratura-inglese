@@ -15,8 +15,8 @@ tags:
 
 
 It appeared to Miss Abbey and her two companions that a considerable
-time had been thus occupied. There was now as eager a set towards the
-shore beneath the house as there had been from it; and it was only
+[[Time|time]] had been thus occupied. There was now as eager a set towards the
+shore beneath the [[house]] as there had been from it; and it was only
 on the first boat of the rush coming in that it was known what had
 occurred.
 
@@ -35,21 +35,21 @@ The submissive Tom complied, attended by a crowd.
 
 ‘Found?’
 
-‘Yes. He’s been under water a long time, Miss; but they’ve grappled up
-the body.’
+‘Yes. He’s been under [[Water|water]] a long [[Time|time]], Miss; but they’ve grappled up
+the [[Body|body]].’
 
-‘Let ’em bring it here. You, Bob Gliddery, shut the house-door and stand
+‘Let ’em bring it here. You, Bob Gliddery, shut the [[house]]-door and stand
 by it on the inside, and don’t you open till I tell you. Any police down
 there?’
 
 ‘Here, Miss Abbey,’ was official rejoinder.
 
-‘After they have brought the body in, keep the crowd out, will you? And
+‘After they have brought the [[Body|body]] in, keep the crowd out, will you? And
 help Bob Gliddery to shut ’em out.’
 
 ‘All right, Miss Abbey.’
 
-The autocratic landlady withdrew into the house with Riah and Miss
+The autocratic landlady withdrew into the [[house]] with Riah and Miss
 Jenny, and disposed those forces, one on either side of her, within the
 half-door of the bar, as behind a breastwork.
 

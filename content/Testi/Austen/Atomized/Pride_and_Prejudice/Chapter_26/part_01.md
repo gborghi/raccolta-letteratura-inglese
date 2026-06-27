@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 26 (part 1)"
+title: "[[Pride and Prejudice]] — Chapter 26 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -20,10 +20,10 @@ CHAPTER XXVI.
 [Illustration]
 
 Mrs. Gardiner’s caution to Elizabeth was punctually and kindly given on
-the first favourable opportunity of speaking to her alone: after
+the first favourable opportunity of speaking to her [[Alone|alone]]: after
 honestly telling her what she thought, she thus went on:--
 
-“You are too sensible a girl, Lizzy, to fall in love merely because you
+“You are too sensible a girl, Lizzy, to fall in [[Love|love]] merely because you
 are warned against it; and, therefore, I am not afraid of speaking
 openly. Seriously, I would have you be on your guard. Do not involve
 yourself, or endeavour to involve him, in an affection which the want of
@@ -36,20 +36,20 @@ good conduct, I am sure. You must not disappoint your father.”
 
 “My dear aunt, this is being serious indeed.”
 
-“Yes, and I hope to engage you to be serious likewise.”
+“Yes, and I [[Hope|hope]] to engage you to be serious likewise.”
 
-“Well, then, you need not be under any alarm. I will take care of
-myself, and of Mr. Wickham too. He shall not be in love with me, if I
+“[[Well]], then, you need not be under any alarm. I will take care of
+myself, and of Mr. Wickham too. He shall not be in [[Love|love]] with me, if I
 can prevent it.”
 
 “Elizabeth, you are not serious now.”
 
-“I beg your pardon. I will try again. At present I am not in love with
+“I beg your pardon. I will try again. At present I am not in [[Love|love]] with
 Mr. Wickham; no, I certainly am not. But he is, beyond all comparison,
 the most agreeable man I ever saw--and if he becomes really attached to
 me--I believe it will be better that he should not. I see the imprudence
 of it. Oh, _that_ abominable Mr. Darcy! My father’s opinion of me does
-me the greatest honour; and I should be miserable to forfeit it. My
+me the greatest [[Honour|honour]]; and I should be miserable to forfeit it. My
 father, however, is partial to Mr. Wickham. In short, my dear aunt, I
 should be very sorry to be the means of making any of you unhappy; but
 since we see, every day, that where there is affection young people are
@@ -61,7 +61,7 @@ not to be in a hurry. I will not be in a hurry to believe myself his
 first object. When I am in company with him, I will not be wishing. In
 short, I will do my best.”
 
-“Perhaps it will be as well if you discourage his coming here so very
+“Perhaps it will be as [[Well|well]] if you discourage his coming here so very
 often. At least you should not _remind_ your mother of inviting him.”
 
 “As I did the other day,” said Elizabeth, with a conscious smile; “very
@@ -69,7 +69,7 @@ true, it will be wise in me to refrain from _that_. But do not imagine
 that he is always here so often. It is on your account that he has been
 so frequently invited this week. You know my mother’s ideas as to the
 necessity of constant company for her friends. But really, and upon my
-honour, I will try to do what I think to be wisest; and now I hope you
+[[Honour|honour]], I will try to do what I think to be wisest; and now I [[Hope|hope]] you
 are satisfied.”
 
 Her aunt assured her that she was; and Elizabeth, having thanked her for
@@ -79,11 +79,11 @@ being given on such a point without being resented.
 Mr. Collins returned into Hertfordshire soon after it had been quitted
 by the Gardiners and Jane; but, as he took up his abode with the
 Lucases, his arrival was no great inconvenience to Mrs. Bennet. His
-marriage was now fast approaching; and she was at length so far resigned
+[[Marriage|marriage]] was now fast approaching; and she was at length so far resigned
 as to think it inevitable, and even repeatedly to say, in an ill-natured
-tone, that she “_wished_ they might be happy.” Thursday was to be the
+tone, that she “_wished_ they might be happy.” [[thursday|Thursday]] was to be the
 wedding-day, and on Wednesday Miss Lucas paid her farewell visit; and
-when she rose to take leave, Elizabeth, ashamed of her mother’s
+when she [[Rose|rose]] to take leave, Elizabeth, ashamed of her mother’s
 ungracious and reluctant good wishes, and sincerely affected herself,
 accompanied her out of the room. As they went down stairs together,
 Charlotte said,--
@@ -94,19 +94,19 @@ Charlotte said,--
 
 “And I have another favour to ask. Will you come and see me?”
 
-“We shall often meet, I hope, in Hertfordshire.”
+“We shall often meet, I [[Hope|hope]], in Hertfordshire.”
 
-“I am not likely to leave Kent for some time. Promise me, therefore, to
+“I am not likely to leave [[Kent]] for some [[Time|time]]. Promise me, therefore, to
 come to Hunsford.”
 
 Elizabeth could not refuse, though she foresaw little pleasure in the
 visit.
 
-“My father and Maria are to come to me in March,” added Charlotte, “and
-I hope you will consent to be of the party. Indeed, Eliza, you will be
+“My father and [[Maria]] are to come to me in March,” added Charlotte, “and
+I [[Hope|hope]] you will consent to be of the party. Indeed, Eliza, you will be
 as welcome to me as either of them.”
 
-The wedding took place: the bride and bridegroom set off for Kent from
+The wedding took place: the bride and bridegroom set off for [[Kent]] from
 the church door, and everybody had as much to say or to hear on the
 subject as usual. Elizabeth soon heard from her friend, and their
 correspondence was as regular and frequent as it ever had been: that it
@@ -115,22 +115,22 @@ address her without feeling that all the comfort of intimacy was over;
 and, though determined not to slacken as a correspondent, it was for the
 sake of what had been rather than what was. Charlotte’s first letters
 were received with a good deal of eagerness: there could not but be
-curiosity to know how she would speak of her new home, how she would
+curiosity to know how she would speak of her new [[Home|home]], how she would
 like Lady Catherine, and how happy she would dare pronounce herself to
 be; though, when the letters were read, Elizabeth felt that Charlotte
 expressed herself on every point exactly as she might have foreseen. She
 wrote cheerfully, seemed surrounded with comforts, and mentioned nothing
-which she could not praise. The house, furniture, neighbourhood, and
+which she could not praise. The [[house]], furniture, neighbourhood, and
 roads, were all to her taste, and Lady Catherine’s behaviour was most
 friendly and obliging. It was Mr. Collins’s picture of Hunsford and
 Rosings rationally softened; and Elizabeth perceived that she must wait
 for her own visit there, to know the rest.
 
 Jane had already written a few lines to her sister, to announce their
-safe arrival in London; and when she wrote again, Elizabeth hoped it
+safe arrival in [[London]]; and when she wrote again, Elizabeth hoped it
 would be in her power to say something of the Bingleys.
 
-Her impatience for this second letter was as well rewarded as impatience
+Her impatience for this second letter was as [[Well|well]] rewarded as impatience
 generally is. Jane had been a week in town, without either seeing or
 hearing from Caroline. She accounted for it, however, by supposing that
 her last letter to her friend from Longbourn had by some accident been

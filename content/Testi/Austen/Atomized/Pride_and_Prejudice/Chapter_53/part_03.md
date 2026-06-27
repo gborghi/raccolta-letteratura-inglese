@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 53 (part 3)"
+title: "[[Pride and Prejudice]] — Chapter 53 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -18,8 +18,8 @@ Bingley replied that he did, and made his congratulations. Elizabeth
 dared not lift up her eyes. How Mr. Darcy looked, therefore, she could
 not tell.
 
-“It is a delightful thing, to be sure, to have a daughter well married,”
-continued her mother; “but at the same time, Mr. Bingley, it is very
+“It is a delightful thing, to be sure, to have a daughter [[Well|well]] married,”
+continued her mother; “but at the same [[Time|time]], Mr. Bingley, it is very
 hard to have her taken away from me. They are gone down to Newcastle, a
 place quite northward it seems, and there they are to stay, I do not
 know how long. His regiment is there; for I suppose you have heard of
@@ -33,7 +33,7 @@ the exertion of speaking, which nothing else had so effectually done
 before; and she asked Bingley whether he meant to make any stay in the
 country at present. A few weeks, he believed.
 
-“When you have killed all your own birds, Mr. Bingley,” said her mother,
+“When you have killed all your own [[Birds|birds]], Mr. Bingley,” said her mother,
 “I beg you will come here and shoot as many as you please on Mr.
 Bennet’s manor. I am sure he will be vastly happy to oblige you, and
 will save all the best of the coveys for you.”
@@ -52,8 +52,8 @@ one or the other again!”
 
 Yet the misery, for which years of happiness were to offer no
 compensation, received soon afterwards material relief, from observing
-how much the beauty of her sister rekindled the admiration of her former
-lover. When first he came in, he had spoken to her but little, but every
+how much the [[Beauty|beauty]] of her sister rekindled the admiration of her former
+[[Lover|lover]]. When first he came in, he had spoken to her but little, but every
 five minutes seemed to be giving her more of his attention. He found her
 as handsome as she had been last year; as good-natured, and as
 unaffected, though not quite so chatty. Jane was anxious that no
@@ -61,12 +61,12 @@ difference should be perceived in her at all, and was really persuaded
 that she talked as much as ever; but her mind was so busily engaged,
 that she did not always know when she was silent.
 
-When the gentlemen rose to go away, Mrs. Bennet was mindful of her
+When the gentlemen [[Rose|rose]] to go away, Mrs. Bennet was mindful of her
 intended civility, and they were invited and engaged to dine at
-Longbourn in a few days’ time.
+Longbourn in a few days’ [[Time|time]].
 
 “You are quite a visit in my debt, Mr. Bingley,” she added; “for when
-you went to town last winter, you promised to take a family dinner with
+you went to town last [[Winter|winter]], you promised to take a family dinner with
 us as soon as you returned. I have not forgot, you see; and I assure you
 I was very much disappointed that you did not come back and keep your
 engagement.”
@@ -77,7 +77,7 @@ his concern at having been prevented by business. They then went away.
 Mrs. Bennet had been strongly inclined to ask them to stay and dine
 there that day; but, though she always kept a very good table, she did
 not think anything less than two courses could be good enough for a man
-on whom she had such anxious designs, or satisfy the appetite and pride
+on whom she had such anxious designs, or satisfy the appetite and [[Pride|pride]]
 of one who had ten thousand a year.
 
 

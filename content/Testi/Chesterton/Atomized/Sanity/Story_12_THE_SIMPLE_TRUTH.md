@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE SIMPLE TRUTH"
+title: "[[Sanity]] — THE SIMPLE [[Truth|TRUTH]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Sanity-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-  1. The Simple Truth
+  1. The Simple [[Truth]]

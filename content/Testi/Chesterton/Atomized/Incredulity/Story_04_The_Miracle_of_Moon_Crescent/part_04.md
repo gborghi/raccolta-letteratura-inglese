@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Miracle of Moon Crescent (part 4)"
+title: "[[Incredulity]] — The Miracle of [[Moon]] Crescent (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -25,7 +25,7 @@ to believe in.'
 
 `Well,' said the priest gravely, `it is true enough that I
 believe in a good many things that you probably don't. But it
-would take a considerable time to explain all the things I
+would take a considerable [[Time|time]] to explain all the things I
 believe in, and all the reasons I have for thinking I'm right.
 It would take about two seconds to open that door and prove
 I am wrong.'
@@ -50,7 +50,7 @@ stood in the empty outer room staring about them.
 The severity and simplicity of its fittings, which had
 already been noted, returned on them with a rigid challenge.
 Certainly in this room there was no question of hiding
-a mouse, let alone a man.  There were no curtains and,
+a mouse, let [[Alone|alone]] a man.  There were no curtains and,
 what is rare in American arrangements, no cupboards.
 Even the desk was no more than a plain table with a shallow
 drawer and a tilted lid.  The chairs were hard and high--
@@ -122,11 +122,11 @@ men like thistledown.'
 `I know I said it would,' said the Westerner, with candour;
 'but all the same, how the devil could it?'
 
-The silence was broken by Fenner saying with an abruptness amounting
+The [[Silence|silence]] was broken by Fenner saying with an abruptness amounting
 to violence:  `There's only one thing to say about this affair.
 It simply hasn't happened.  It can't have happened.'
 
-`Oh, yes,' said Father Brown out of the corner; `it has
+`Oh, yes,' said [[Father Brown]] out of the corner; `it has
 happened all right.'
 
 They all jumped; for the truth was they had all forgotten
@@ -141,5 +141,5 @@ before he could stop himself; 'suppose there were something
 in it, after all!'
 
 `I must confess,' said Fenner, frowning at the table, `that his
-reverence's anticipations were apparently well founded.
+reverence's anticipations were apparently [[Well|well]] founded.
 I don't know whether he has anything else to tell us.'

@@ -1,5 +1,5 @@
 ---
-title: "The Man That Was Used Up (part 3)"
+title: "[[The Man That Was Used Up]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Man-That-Was-Used-Up-(Poe)"
@@ -48,17 +48,17 @@ tags:
 
 
 
-      “Smith!” said she, “why, not General John A. B. C.? Horrid affair
+      “[[smith|Smith]]!” said she, “why, not General John A. B. C.? Horrid affair
 
       that, wasn’t it?—great wretches, those Bugaboos—savage and so
 
-      on—but we live in a wonderfully inventive age!—Smith!—O yes!
+      on—but we live in a wonderfully inventive age!—[[smith|Smith]]!—O yes!
 
       great man!—perfect desperado!—immortal renown!—prodigies of
 
       valor! _Never heard!_” [This was given in a scream.] “Bless my
 
-      soul! why, he’s the man—”
+      [[Soul|soul]]! why, he’s the man—”
 
 
 
@@ -66,7 +66,7 @@ tags:
 
      Nor all the drowsy syrups of the world
 
-     Shall ever medicine thee to that sweet sleep
+     Shall ever medicine thee to that sweet [[Sleep|sleep]]
 
      Which thou owd’st yesterday!”
 
@@ -74,13 +74,13 @@ tags:
 
       here roared our Climax just in my ear, and shaking his fist in my
 
-      face all the time, in a way that I _couldn’t_ stand, and I
+      face all the [[Time|time]], in a way that I _couldn’t_ stand, and I
 
       _wouldn’t_. I left the Misses Cognoscenti immediately, went
 
       behind the scenes forthwith, and gave the beggarly scoundrel such
 
-      a thrashing as I trust he will remember to the day of his death.
+      a thrashing as I trust he will remember to the day of his [[Death|death]].
 
 
 
@@ -98,7 +98,7 @@ tags:
 
 
 
-      “Smith!” said my partner, “why, not General John A. B. C.? Horrid
+      “[[smith|Smith]]!” said my partner, “why, not General John A. B. C.? Horrid
 
       affair that, wasn’t it?—diamonds, did you say?—terrible wretches
 
@@ -108,7 +108,7 @@ tags:
 
       _the_ age, one may say—_the_ age _par excellence_—speak
 
-      French?—oh, quite a hero—perfect desperado!—_no hearts_, Mr.
+      French?—oh, quite a [[Hero|hero]]—perfect desperado!—_no hearts_, Mr.
 
       Tattle? I don’t believe it.—immortal renown and all
 
@@ -134,7 +134,7 @@ tags:
 
       that evening in regard to Brevet Brigadier General John A. B. C.
 
-      Smith.
+      [[smith|Smith]].
 
 
 
@@ -148,21 +148,21 @@ tags:
 
 
 
-      “Smith!” said Mrs. P., as we twirled about together in a _pas de
+      “[[smith|Smith]]!” said Mrs. P., as we twirled about together in a _pas de
 
-      zephyr_, “Smith!—why, not General John A. B. C.? Dreadful
+      zephyr_, “[[smith|Smith]]!—why, not General John A. B. C.? Dreadful
 
       business that of the Bugaboos, wasn’t it?—dreadful creatures,
 
       those Indians!—_do_ turn out your toes! I really am ashamed of
 
-      you—man of great courage, poor fellow!—but this is a wonderful
+      you—man of great [[Courage|courage]], poor fellow!—but this is a wonderful
 
       age for invention—O dear me, I’m out of breath—quite a
 
       desperado—prodigies of valor—_never heard!_—can’t believe it—I
 
-      shall have to sit down and enlighten you—Smith! why, he’s the
+      shall have to sit down and enlighten you—[[smith|Smith]]! why, he’s the
 
       man—”
 
@@ -186,7 +186,7 @@ tags:
 
       means Man-_Fred_, yet when I returned to seek Mrs. Pirouette she
 
-      was not to be discovered, and I made my retreat from the house in
+      was not to be discovered, and I made my retreat from the [[house]] in
 
       a very bitter spirit of animosity against the whole race of the
 
@@ -204,9 +204,9 @@ tags:
 
 
 
-      “Smith!” said he, in his well-known peculiar way of drawling out
+      “[[smith|Smith]]!” said he, in his [[Well|well]]-known peculiar way of drawling out
 
-      his syllables; “Smith!—why, not General John A. B. C.? Savage
+      his syllables; “[[smith|Smith]]!—why, not General John A. B. C.? Savage
 
       affair that with the Kickapo-o-o-os, wasn’t it? Say! don’t you
 
@@ -222,9 +222,9 @@ tags:
 
 
 
-      “Hem!—oh well!—quite _la même cho-o-ose_, as we say in France.
+      “Hem!—oh [[Well|well]]!—quite _la même cho-o-ose_, as we say in France.
 
-      Smith, eh? Brigadier-General John A.—B.—C.? I say”—[here Mr. S.
+      [[smith|Smith]], eh? Brigadier-General John A.—B.—C.? I say”—[here Mr. S.
 
       thought proper to put his finger to the side of his nose]—“I say,
 
@@ -232,7 +232,7 @@ tags:
 
       conscientiously, that you don’t know all about that affair of
 
-      Smith’s, as well as I do, eh? Smith? John A—B—C.? Why, bless me,
+      [[smith|Smith]]’s, as [[Well|well]] as I do, eh? [[smith|Smith]]? John A—B—C.? Why, bless me,
 
       he’s the ma-a-an—”
 
@@ -250,7 +250,7 @@ tags:
 
       This reply I considered a pointed and positive insult, and so
 
-      left the house at once in high dudgeon, with a firm resolve to
+      left the [[house]] at once in high dudgeon, with a firm resolve to
 
       call my friend, Mr. Sinivate, to a speedy account for his
 

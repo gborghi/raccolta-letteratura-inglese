@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 24 (part 5)"
+title: "[[The Professor]] — Chapter 24 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -44,7 +44,7 @@ life--God willing.”
 
 “God is not willing--you can’t suppose it; what business have you to
 
-be suited so well with a partner? And she treats you with a sort of
+be suited so [[Well|well]] with a partner? And she treats you with a sort of
 
 respect, too, and says, ‘Monsieur’ and modulates her tone in addressing
 
@@ -88,17 +88,17 @@ more of the nervous, mobile Parisienne in her than of the the robust
 
 ‘jungfrau’). Your Mdlle. Henri is in person “chetive”, in mind “sans
 
-caractere”, compared with the queen of my visions. You, indeed, may put
+caractere”, compared with the [[Queen|queen]] of my visions. You, indeed, may put
 
 up with that “minois chiffone”; but when I marry I must have straighter
 
 and more harmonious features, to say nothing of a nobler and better
 
-developed shape than that perverse, ill-thriven child can boast.”
+developed shape than that perverse, ill-thriven [[Child|child]] can boast.”
 
 
 
-“Bribe a seraph to fetch you a coal of fire from heaven, if you will,”
+“Bribe a seraph to fetch you a coal of [[Fire|fire]] from heaven, if you will,”
 
  said I, “and with it kindle life in the tallest, fattest, most boneless,
 

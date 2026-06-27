@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 20 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 20 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -31,16 +31,16 @@ best in which to couch her communication, she cogitated a good deal upon
 the probable causes of her young friend’s indisposition.
 
 ‘I don’t know what to make of it,’ said Miss La Creevy. ‘Her eyes were
-decidedly red last night. She said she had a headache; headaches don’t
+decidedly red last [[Night|night]]. She said she had a headache; headaches don’t
 occasion red eyes. She must have been crying.’
 
 Arriving at this conclusion, which, indeed, she had established to her
 perfect satisfaction on the previous evening, Miss La Creevy went on
-to consider--as she had done nearly all night--what new cause of
+to consider--as she had done nearly all [[Night|night]]--what new cause of
 unhappiness her young friend could possibly have had.
 
 ‘I can’t think of anything,’ said the little portrait painter. ‘Nothing
-at all, unless it was the behaviour of that old bear. Cross to her, I
+at all, unless it was the behaviour of that old bear. [[Cross]] to her, I
 suppose? Unpleasant brute!’
 
 Relieved by this expression of opinion, albeit it was vented upon empty
@@ -71,29 +71,29 @@ very much, and been marvellously polite--certain indications that they
 were within an inch of a very desperate quarrel--Miss La Creevy bounced
 out of the room, and into the street.
 
-‘I wonder who that is,’ said the queer little soul. ‘A nice person
+‘I [[Wonder|wonder]] who that is,’ said the queer little [[Soul|soul]]. ‘A nice person
 to know, I should think! I wish I had the painting of her: I’D do her
 justice.’ So, feeling quite satisfied that she had said a very cutting
 thing at Miss Knag’s expense, Miss La Creevy had a hearty laugh, and
-went home to breakfast in great good humour.
+went [[Home|home]] to breakfast in great good [[Humour|humour]].
 
-Here was one of the advantages of having lived alone so long! The little
+Here was one of the advantages of having lived [[Alone|alone]] so long! The little
 bustling, active, cheerful creature existed entirely within herself,
 talked to herself, made a confidante of herself, was as sarcastic as she
 could be, on people who offended her, by herself; pleased herself, and
 did no harm. If she indulged in scandal, nobody’s reputation suffered;
-and if she enjoyed a little bit of revenge, no living soul was one atom
+and if she enjoyed a little bit of [[Revenge|revenge]], no living [[Soul|soul]] was one atom
 the worse. One of the many to whom, from straitened circumstances, a
 consequent inability to form the associations they would wish, and a
-disinclination to mix with the society they could obtain, London is
-as complete a solitude as the plains of Syria, the humble artist had
+disinclination to mix with the society they could obtain, [[London]] is
+as complete a [[Solitude|solitude]] as the plains of Syria, the humble [[artist]] had
 pursued her lonely, but contented way for many years; and, until the
 peculiar misfortunes of the Nickleby family attracted her attention,
 had made no friends, though brimful of the friendliest feelings to all
 mankind. There are many warm hearts in the same solitary guise as poor
 little Miss La Creevy’s.
 
-However, that’s neither here nor there, just now. She went home to
+However, that’s neither here nor there, just now. She went [[Home|home]] to
 breakfast, and had scarcely caught the full flavour of her first sip of
 tea, when the servant announced a gentleman, whereat Miss La Creevy, at
 once imagining a new sitter transfixed by admiration at the street-door
@@ -103,7 +103,7 @@ tea-things.
 ‘Here, take ‘em away; run with ‘em into the bedroom; anywhere,’ said
 Miss La Creevy. ‘Dear, dear; to think that I should be late on this
 particular morning, of all others, after being ready for three weeks by
-half-past eight o’clock, and not a soul coming near the place!’
+half-past eight o’[[Clock|clock]], and not a [[Soul|soul]] coming near the place!’
 
 ‘Don’t let me put you out of the way,’ said a voice Miss La Creevy knew.
 ‘I told the servant not to mention my name, because I wished to surprise
@@ -125,13 +125,13 @@ away.’
 
 Nicholas, with becoming gallantry, immediately took Miss La Creevy at
 her word, who uttered a faint scream and slapped his face; but it was
-not a very hard slap, and that’s the truth.
+not a very hard slap, and that’s the [[Truth|truth]].
 
 ‘I never saw such a rude creature!’ exclaimed Miss La Creevy.
 
 ‘You told me to try,’ said Nicholas.
 
-‘Well; but I was speaking ironically,’ rejoined Miss La Creevy.
+‘[[Well]]; but I was speaking ironically,’ rejoined Miss La Creevy.
 
 ‘Oh! that’s another thing,’ said Nicholas; ‘you should have told me
 that, too.’
@@ -143,6 +143,6 @@ face is haggard and pale. And how come you to have left Yorkshire?’
 She stopped here; for there was so much heart in her altered tone and
 manner, that Nicholas was quite moved.
 
-‘I need look somewhat changed,’ he said, after a short silence; ‘for
-I have undergone some suffering, both of mind and body, since I left
-London. I have been very poor, too, and have even suffered from want.’
+‘I need look somewhat changed,’ he said, after a short [[Silence|silence]]; ‘for
+I have undergone some [[Suffering|suffering]], both of mind and [[Body|body]], since I left
+[[London]]. I have been very poor, too, and have even suffered from want.’

@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 47 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 47 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -24,7 +24,7 @@ One morning, about the beginning of November, while I was inditing some
 
 business letters, shortly after breakfast, Eliza Millward came to call
 
-upon my sister. Rose had neither the discrimination nor the virulence
+upon my sister. [[Rose]] had neither the discrimination nor the virulence
 
 to regard the little demon as I did, and they still preserved their
 
@@ -44,7 +44,7 @@ polite if he chose. But she wanted to tease me.
 
 
 
-“What a pleasure it is to find you at home, Mr. Markham!” said she,
+“What a pleasure it is to find you at [[Home|home]], Mr. Markham!” said she,
 
 with a disingenuously malicious smile. “I so seldom see you now, for
 
@@ -76,11 +76,11 @@ been particularly plodding and diligent.”
 
 
 
-“Ah! well, there’s nothing like active employment, I suppose, to
+“Ah! [[Well|well]], there’s nothing like active employment, I suppose, to
 
 console the afflicted;—and, excuse me, Mr. Markham, but you look so
 
-very far from well, and have been, by all accounts, so moody and
+very far from [[Well|well]], and have been, by all accounts, so moody and
 
 thoughtful of late,—I could almost think you have some secret care
 
@@ -112,11 +112,11 @@ to my daily business.”
 
 
 
-Before she could reply to this ungallant speech, Rose entered the room;
+Before she could reply to this ungallant speech, [[Rose]] entered the room;
 
 and Miss Eliza rising to greet her, they both seated themselves near
 
-the fire, where that idle lad Fergus was standing, leaning his shoulder
+the [[Fire|fire]], where that idle lad Fergus was standing, leaning his shoulder
 
 against the corner of the chimney-piece, with his legs crossed and his
 
@@ -124,7 +124,7 @@ hands in his breeches-pockets.
 
 
 
-“Now, Rose, I’ll tell you a piece of news—I hope you have not heard it
+“Now, [[Rose]], I’ll tell you a piece of news—I [[Hope|hope]] you have not heard it
 
 before: for good, bad, or indifferent, one always likes to be the first
 
@@ -146,17 +146,17 @@ whispered—“A monomania—but don’t mention it—all right but that.”
 
 “I should be sorry to injure any one’s feelings,” returned she,
 
-speaking below her breath. “Another time, perhaps.”
+speaking below her breath. “Another [[Time|time]], perhaps.”
 
 
 
 “Speak out, Miss Eliza!” said I, not deigning to notice the other’s
 
-buffooneries: “you needn’t fear to say anything in my presence.”
+buffooneries: “you needn’t [[Fear|fear]] to say anything in my presence.”
 
 
 
-“Well,” answered she, “perhaps you know already that Mrs. Graham’s
+“[[Well]],” answered she, “perhaps you know already that Mrs. Graham’s
 
 husband is not really dead, and that she had run away from him?” I
 
@@ -164,11 +164,11 @@ started, and felt my face glow; but I bent it over my letter, and went
 
 on folding it up as she proceeded. “But perhaps you did _not_ know that
 
-she is now gone back to him again, and that a perfect reconciliation
+she is now gone back to him again, and that a perfect [[Reconciliation|reconciliation]]
 
 has taken place between them? Only think,” she continued, turning to
 
-the confounded Rose, “what a fool the man must be!”
+the confounded [[Rose]], “what a [[Fool|fool]] the man must be!”
 
 
 
@@ -218,7 +218,7 @@ composure, and in spite of my firm conviction that the story _was_ a
 
 lame one—that the supposed Mrs. Graham, most certainly, had not
 
-_voluntarily_ gone back to her husband, or dreamt of a reconciliation.
+_voluntarily_ gone back to her husband, or dreamt of a [[Reconciliation|reconciliation]].
 
 Most likely she was gone away, and the tale-bearing servant, not
 
@@ -234,7 +234,7 @@ away by force. Determined to know the worst, I hastily pocketed my two
 
 letters, and muttered something about being too late for the post, left
 
-the room, rushed into the yard, and vociferously called for my horse.
+the room, rushed into the yard, and vociferously called for my [[Horse|horse]].
 
 No one being there, I dragged him out of the stable myself, strapped
 
@@ -260,4 +260,4 @@ at once removed.
 
 “I suppose I mayn’t know where she is?” said I, as I dismounted, and
 
-relinquished my horse to the gardener, who, being the only servant
+relinquished my [[Horse|horse]] to the gardener, who, being the only servant

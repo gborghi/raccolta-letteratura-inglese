@@ -24,15 +24,15 @@ but for me interesting matters.  For I am conscious throughout
 of saying less than I could wish of a thousand things, my omission
 of which is not altogether thoughtless, far less thankless.
 There have been and will be better sketches than mine of all that
-attractive society, the paradox of an intelligentsia that is intelligent.
+attractive society, the [[Paradox|paradox]] of an intelligentsia that is intelligent.
 I could write a great deal, not only about those I value as my
 own friends, like Katherine Tynan or Stephen Gwynn, but about men
 with whom my meeting was all too momentary; about the elvish energy
-conveyed by Mr. James Stephens; the social greatness of Dr. Gogarty,
+conveyed by Mr. James Stephens; the social [[Greatness|greatness]] of Dr. Gogarty,
 who was like a literary legend of the eighteenth century;
 of the unique universalism of A. E., who has something of the presence
 of William Morris, and a more transcendental type of the spiritual
-hospitality of Walt Whitman.  But I am not in this rough sketch
+hospitality of Walt Whitman.  But I am not in this rough [[Sketch|sketch]]
 trying to tell Irishmen what they know already, but trying to tell
 Englishmen some of the large and simple things that they do not know.
 The large matter concerned here is Labour; and I have only
@@ -42,7 +42,7 @@ And it was none the less a fact in support of my argument,
 because it was something of a joke against myself.
 
 On the occasion I have mentioned, a most exhilarating evening
-at the Arts Club, Mr. Yeats asked me to open a debate at the
+at the Arts Club, Mr. Yeats asked me to open a [[debate]] at the
 Abbey Theatre, defending property on its more purely political side.
 My opponent was one of the ablest of the leaders of Liberty Hall,
 the famous stronghold of Labour politics in Dublin, Mr. Johnson,
@@ -51,7 +51,7 @@ proletarian Irish.  He made a most admirable speech, to which I
 mean no disparagement when I say that I think his personal
 popularity had even more weight than his personal eloquence.
 My own argument was confined to the particular value of small
-property as a weapon of militant democracy; and was based
+property as a weapon of militant [[Democracy|democracy]]; and was based
 on the idea that the citizen resisting injustice could find no
 substitute for private property, for every other impersonal power,
 however democratic in theory, must be bureaucratic in form.
@@ -59,21 +59,21 @@ I said, as a flippant figure of speech, that committing property
 to any officials, even guild officials, was like having to leave
 one's legs in the cloakroom along with one's stick or umbrella.
 The point is that a man may want his legs at any minute, to kick a man or
-to dance with a lady; and recovering them may be postponed by any hitch,
+to [[Dance|dance]] with a lady; and recovering them may be postponed by any hitch,
 from the loss of the ticket to the criminal flight of the official.
 So in a social crisis, such as a strike, a man must be ready to act
 without officials who may hamper or betray him; and I asked whether
 many more strikes would not have been successful, if each striker
-had owned so much as a kitchen garden to help him to live.
+had owned so much as a kitchen [[Garden|garden]] to help him to live.
 My opponent replied that he had always been in favour of such a reserve
 of proletarian property, but preferred it to be communal rather
 than individual; which seems to me to leave my argument where it was;
 for what is communal must be official, unless it is to be chaotic.
-Two minor jokes, somewhat at my expense, remain in my memory;
+Two minor jokes, somewhat at my expense, remain in my [[Memory|memory]];
 I appear to have caused some amusement by cutting a pencil with a
 very large Spanish knife, which I value (as it happens) as the gift
 of an Irish priest who is a friend of mine, and which may therefore
-also be regarded as a symbolic weapon, a sort of sword of the spirit.
+also be regarded as a symbolic weapon, a sort of [[Sword|sword]] of the spirit.
 Whether the audience thought I was about to amputate my own legs
 in illustration of my own metaphor, or that I was going to cut
 Mr. Johnson's throat in fury at finding no reply to his arguments,
@@ -91,22 +91,22 @@ of my opponent; as in the ovation he received before he spoke at all,
 or the applause given to a number of his topical asides, allusions which
 I could not always understand.  After the meeting a distinguished
 Southern Unionist, who happens to own land outside Dublin, said to me,
-"Of course, Johnson has just had a huge success in his work here.
+"Of course, Johnson has just had a huge [[success]] in his work here.
 Liberty Hall has just done something that has really never been
-done before in the whole Trade Union movement.  He has really
-managed to start a Trade Union for agricultural labourers.
+done before in the whole Trade [[Union]] movement.  He has really
+managed to start a Trade [[Union]] for agricultural labourers.
 I know, because I've had to meet their demands.  You know how
-utterly impossible it has always been really to found a union of
+utterly impossible it has always been really to found a [[Union|union]] of
 agricultural labourers in England."  I did know it; and I also knew
 why it had been possible to found one in Ireland.  It had been
 possible for the very reason I had been urging all the evening;
 that behind the Irish proletariat there had been the tradition
 of an Irish peasantry.  In their families, if not in themselves,
-there had been some memory of the personal love of the land.
+there had been some [[Memory|memory]] of the personal [[Love|love]] of the land.
 But it seemed to me an interesting irony that even my own
-defeat was an example of my own doctrine; and that the truth
+defeat was an example of my own doctrine; and that the [[Truth|truth]]
 on my side was proved by the popularity of the other side.
-The agricultural guild was due to a wind of freedom that came into
-that dark city from very distant fields; and the truth that even
-these rolling stones of homeless proletarianism had been so lately
-loosened from the very roots of the mountains.
+The agricultural guild was due to a [[Wind|wind]] of [[Freedom|freedom]] that came into
+that dark [[City|city]] from very distant fields; and the [[Truth|truth]] that even
+these [[rolling]] stones of homeless proletarianism had been so lately
+loosened from the very roots of the [[Mountains|mountains]].

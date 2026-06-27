@@ -1,5 +1,5 @@
 ---
-title: "trees of pride — THE CHASE AFTER THE TRUTH"
+title: "trees of [[Pride|pride]] — THE CHASE AFTER THE [[Truth|TRUTH]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/trees-of-pride-(Chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-  IV. THE CHASE AFTER THE TRUTH
+  IV. THE CHASE AFTER THE [[Truth|TRUTH]]
 
 
 
 
-THE TREES OF PRIDE
+THE TREES OF [[Pride|PRIDE]]

@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 18 (part 2)"
+title: "[[Pride and Prejudice]] — Chapter 18 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -18,7 +18,7 @@ tags:
 _making_ friends; whether he may be equally capable of _retaining_ them,
 is less certain.”
 
-“He has been so unlucky as to lose your friendship,” replied Elizabeth,
+“He has been so unlucky as to lose your [[Friendship|friendship]],” replied Elizabeth,
 with emphasis, “and in a manner which he is likely to suffer from all
 his life.”
 
@@ -31,7 +31,7 @@ his dancing and his partner.
 “I have been most highly gratified, indeed, my dear sir; such very
 superior dancing is not often seen. It is evident that you belong to the
 first circles. Allow me to say, however, that your fair partner does not
-disgrace you: and that I must hope to have this pleasure often repeated,
+disgrace you: and that I must [[Hope|hope]] to have this pleasure often repeated,
 especially when a certain desirable event, my dear Miss Eliza (glancing
 at her sister and Bingley), shall take place. What congratulations will
 then flow in! I appeal to Mr. Darcy;--but let me not interrupt you, sir.
@@ -56,7 +56,7 @@ of.”
 
 “I do not think we were speaking at all. Sir William could not have
 interrupted any two people in the room who had less to say for
-themselves. We have tried two or three subjects already without success,
+themselves. We have tried two or three subjects already without [[success]],
 and what we are to talk of next I cannot imagine.”
 
 “What think you of books?” said he, smiling.
@@ -71,7 +71,7 @@ no want of subject. We may compare our different opinions.”
 something else.”
 
 “The _present_ always occupies you in such scenes--does it?” said he,
-with a look of doubt.
+with a look of [[Doubt|doubt]].
 
 “Yes, always,” she replied, without knowing what she said; for her
 thoughts had wandered far from the subject, as soon afterwards appeared
@@ -84,7 +84,7 @@ created_?”
 
 “And never allow yourself to be blinded by prejudice?”
 
-“I hope not.”
+“I [[Hope|hope]] not.”
 
 “It is particularly incumbent on those who never change their opinion,
 to be secure of judging properly at first.”
@@ -94,22 +94,22 @@ to be secure of judging properly at first.”
 “Merely to the illustration of _your_ character,” said she, endeavouring
 to shake off her gravity. “I am trying to make it out.”
 
-“And what is your success?”
+“And what is your [[success]]?”
 
 She shook her head. “I do not get on at all. I hear such different
 accounts of you as puzzle me exceedingly.”
 
 “I can readily believe,” answered he, gravely, “that reports may vary
 greatly with respect to me; and I could wish, Miss Bennet, that you were
-not to sketch my character at the present moment, as there is reason to
-fear that the performance would reflect no credit on either.”
+not to [[Sketch|sketch]] my character at the present moment, as there is reason to
+[[Fear|fear]] that the performance would reflect no credit on either.”
 
 “But if I do not take your likeness now, I may never have another
 opportunity.”
 
 “I would by no means suspend any pleasure of yours,” he coldly replied.
-She said no more, and they went down the other dance and parted in
-silence; on each side dissatisfied, though not to an equal degree; for
+She said no more, and they went down the other [[Dance|dance]] and parted in
+[[Silence|silence]]; on each side dissatisfied, though not to an equal degree; for
 in Darcy’s breast there was a tolerably powerful feeling towards her,
 which soon procured her pardon, and directed all his anger against
 another.
@@ -126,16 +126,16 @@ implicit confidence to all his assertions; for, as to Mr. Darcy’s using
 him ill, it is perfectly false: for, on the contrary, he has been always
 remarkably kind to him, though George Wickham has treated Mr. Darcy in a
 most infamous manner. I do not know the particulars, but I know very
-well that Mr. Darcy is not in the least to blame; that he cannot bear
+[[Well|well]] that Mr. Darcy is not in the least to blame; that he cannot bear
 to hear George Wickham mentioned; and that though my brother thought he
-could not well avoid including him in his invitation to the officers, he
+could not [[Well|well]] avoid including him in his invitation to the officers, he
 was excessively glad to find that he had taken himself out of the way.
 His coming into the country at all is a most insolent thing, indeed, and
-I wonder how he could presume to do it. I pity you, Miss Eliza, for this
-discovery of your favourite’s guilt; but really, considering his
+I [[Wonder|wonder]] how he could presume to do it. I pity you, Miss Eliza, for this
+discovery of your favourite’s [[Guilt|guilt]]; but really, considering his
 descent, one could not expect much better.”
 
-“His guilt and his descent appear, by your account, to be the same,”
+“His [[Guilt|guilt]] and his descent appear, by your account, to be the same,”
 said Elizabeth, angrily; “for I have heard you accuse him of nothing
 worse than of being the son of Mr. Darcy’s steward, and of _that_, I can
 assure you, he informed me himself.”
@@ -149,7 +149,7 @@ nothing in it but your own wilful ignorance and the malice of Mr.
 Darcy.” She then sought her eldest sister, who had undertaken to make
 inquiries on the same subject of Bingley. Jane met her with a smile of
 such sweet complacency, a glow of such happy expression, as sufficiently
-marked how well she was satisfied with the occurrences of the evening.
+marked how [[Well|well]] she was satisfied with the occurrences of the evening.
 Elizabeth instantly read her feelings; and, at that moment, solicitude
 for Wickham, resentment against his enemies, and everything else, gave
-way before the hope of Jane’s being in the fairest way for happiness.
+way before the [[Hope|hope]] of Jane’s being in the fairest way for happiness.

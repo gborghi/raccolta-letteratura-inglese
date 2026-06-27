@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 7 (part 4)"
+title: "[[Wuthering Heights]] — Chapter 7 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -17,7 +17,7 @@ tags:
 * * * * *
 
 
-Thus interrupting herself, the housekeeper rose, and proceeded to lay
+Thus interrupting herself, the housekeeper [[Rose|rose]], and proceeded to lay
 aside her sewing; but I felt incapable of moving from the hearth, and I
 was very far from nodding. “Sit still, Mrs. Dean,” I cried; “do sit
 still another half-hour. You’ve done just right to tell the story
@@ -25,24 +25,24 @@ leisurely. That is the method I like; and you must finish it in the
 same style. I am interested in every character you have mentioned, more
 or less.”
 
-“The clock is on the stroke of eleven, sir.”
+“The [[Clock|clock]] is on the stroke of eleven, sir.”
 
 “No matter—I’m not accustomed to go to bed in the long hours. One or
 two is early enough for a person who lies till ten.”
 
 “You shouldn’t lie till ten. There’s the very prime of the morning gone
-long before that time. A person who has not done one-half his day’s
-work by ten o’clock, runs a chance of leaving the other half undone.”
+long before that [[Time|time]]. A person who has not done one-half his day’s
+work by ten o’[[Clock|clock]], runs a chance of leaving the other half undone.”
 
 “Nevertheless, Mrs. Dean, resume your chair; because to-morrow I intend
-lengthening the night till afternoon. I prognosticate for myself an
+lengthening the [[Night|night]] till afternoon. I prognosticate for myself an
 obstinate cold, at least.”
 
-“I hope not, sir. Well, you must allow me to leap over some three
+“I [[Hope|hope]] not, sir. [[Well]], you must allow me to leap over some three
 years; during that space Mrs. Earnshaw—”
 
 “No, no, I’ll allow nothing of the sort! Are you acquainted with the
-mood of mind in which, if you were seated alone, and the cat licking
+mood of mind in which, if you were seated [[Alone|alone]], and the cat licking
 its kitten on the rug before you, you would watch the operation so
 intently that puss’s neglect of one ear would put you seriously out of
 temper?”
@@ -55,8 +55,8 @@ acquire over people in towns the value that a spider in a dungeon does
 over a spider in a cottage, to their various occupants; and yet the
 deepened attraction is not entirely owing to the situation of the
 looker-on. They _do_ live more in earnest, more in themselves, and less
-in surface, change, and frivolous external things. I could fancy a love
-for life here almost possible; and I was a fixed unbeliever in any love
+in surface, change, and frivolous external things. I could fancy a [[Love|love]]
+for life here almost possible; and I was a fixed unbeliever in any [[Love|love]]
 of a year’s standing. One state resembles setting a hungry man down to
 a single dish, on which he may concentrate his entire appetite and do
 it justice; the other, introducing him to a table laid out by French
@@ -76,7 +76,7 @@ for frittering your life away in silly trifles.”
 
 Mrs. Dean laughed.
 
-“I certainly esteem myself a steady, reasonable kind of body,” she
+“I certainly esteem myself a steady, reasonable kind of [[Body|body]],” she
 said; “not exactly from living among the hills and seeing one set of
 faces, and one series of actions, from year’s end to year’s end; but I
 have undergone sharp discipline, which has taught me wisdom; and then,
@@ -86,5 +86,5 @@ out of also: unless it be that range of Greek and Latin, and that of
 French; and those I know one from another: it is as much as you can
 expect of a poor man’s daughter. However, if I am to follow my story in
 true gossip’s fashion, I had better go on; and instead of leaping three
-years, I will be content to pass to the next summer—the summer of 1778,
+years, I will be content to pass to the next [[Summer|summer]]—the [[Summer|summer]] of 1778,
 that is nearly twenty-three years ago.”

@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 10: Containing the whole Science of Government"
+title: "Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government]]"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-CHAPTER 10. Containing the whole Science of Government
+CHAPTER 10. Containing the whole Science of [[government|Government]]
 
 
 The Circumlocution Office was (as everybody knows without being told)
-the most important Department under Government. No public business of
-any kind could possibly be done at any time without the acquiescence of
+the most important Department under [[government|Government]]. No public business of
+any kind could possibly be done at any [[Time|time]] without the acquiescence of
 the Circumlocution Office. Its finger was in the largest public pie,
 and in the smallest public tart. It was equally impossible to do the
 plainest right and to undo the plainest wrong without the express
@@ -31,7 +31,7 @@ of official memoranda, and a family-vault full of ungrammatical
 correspondence, on the part of the Circumlocution Office.
 
 This glorious establishment had been early in the field, when the one
-sublime principle involving the difficult art of governing a country,
+[[Sublime|sublime]] principle involving the difficult art of governing a country,
 was first distinctly revealed to statesmen. It had been foremost to
 study that bright revelation and to carry its shining influence through
 the whole of the official proceedings. Whatever was required to be done,
@@ -46,13 +46,13 @@ departments; and the public condition had risen to be--what it was.
 It is true that How not to do it was the great study and object of
 all public departments and professional politicians all round the
 Circumlocution Office. It is true that every new premier and every
-new government, coming in because they had upheld a certain thing as
+new [[government]], coming in because they had upheld a certain thing as
 necessary to be done, were no sooner come in than they applied their
 utmost faculties to discovering How not to do it. It is true that from
 the moment when a general election was over, every returned man who had
 been raving on hustings because it hadn’t been done, and who had been
 asking the friends of the honourable gentleman in the opposite interest
-on pain of impeachment to tell him why it hadn’t been done, and who had
+on [[Pain|pain]] of impeachment to tell him why it hadn’t been done, and who had
 been asserting that it must be done, and who had been pledging himself
 that it should be done, began to devise, How it was not to be done. It
 is true that the debates of both Houses of Parliament the whole session
@@ -64,12 +64,12 @@ chambers, and discuss, How not to do it. It is true that the royal
 speech, at the close of such session, virtually said, My lords and
 gentlemen, you have through several laborious months been considering
 with great loyalty and patriotism, How not to do it, and you have found
-out; and with the blessing of Providence upon the harvest (natural, not
+out; and with the blessing of [[Providence]] upon the harvest (natural, not
 political), I now dismiss you. All this is true, but the Circumlocution
 Office went beyond it.
 
 Because the Circumlocution Office went on mechanically, every day,
-keeping this wonderful, all-sufficient wheel of statesmanship, How not
+keeping this wonderful, all-sufficient [[Wheel|wheel]] of statesmanship, How not
 to do it, in motion. Because the Circumlocution Office was down upon any
 ill-advised public servant who was going to do it, or who appeared to be
 by any surprising accident in remote danger of doing it, with a minute,
@@ -86,7 +86,7 @@ up under the foolscap paper of the Circumlocution Office.
 Numbers of people were lost in the Circumlocution Office. Unfortunates
 with wrongs, or with projects for the general welfare (and they had
 better have had wrongs at first, than have taken that bitter English
-recipe for certainly getting them), who in slow lapse of time and agony
+recipe for certainly getting them), who in slow lapse of [[Time|time]] and agony
 had passed safely through other public departments; who, according to
 rule, had been bullied in this, over-reached by that, and evaded by
 the other; got referred at last to the Circumlocution Office, and
@@ -99,11 +99,11 @@ except the business that never came out of it; and _its_ name was Legion.
 Sometimes, angry spirits attacked the Circumlocution Office. Sometimes,
 parliamentary questions were asked about it, and even parliamentary
 motions made or threatened about it by demagogues so low and ignorant as
-to hold that the real recipe of government was, How to do it. Then would
+to hold that the real recipe of [[government]] was, How to do it. Then would
 the noble lord, or right honourable gentleman, in whose department it
 was to defend the Circumlocution Office, put an orange in his pocket,
 and make a regular field-day of the occasion. Then would he come down to
-that house with a slap upon the table, and meet the honourable gentleman
+that [[house]] with a slap upon the table, and meet the honourable gentleman
 foot to foot. Then would he be there to tell that honourable gentleman
 that the Circumlocution Office not only was blameless in this matter,
 but was commendable in this matter, was extollable to the skies in this
@@ -111,9 +111,9 @@ matter. Then would he be there to tell that honourable gentleman that,
 although the Circumlocution Office was invariably right and wholly
 right, it never was so right as in this matter. Then would he be there
 to tell that honourable gentleman that it would have been more to his
-honour, more to his credit, more to his good taste, more to his good
+[[Honour|honour]], more to his credit, more to his good taste, more to his good
 sense, more to half the dictionary of commonplaces, if he had left the
-Circumlocution Office alone, and never approached this matter. Then
+Circumlocution Office [[Alone|alone]], and never approached this matter. Then
 would he keep one eye upon a coach or crammer from the Circumlocution
 Office sitting below the bar, and smash the honourable gentleman with
 the Circumlocution Office account of this matter. And although one
@@ -124,7 +124,7 @@ half and forgot the other; the Circumlocution Office was always voted
 immaculate by an accommodating majority.
 
 Such a nursery of statesmen had the Department become in virtue of a
-long career of this nature, that several solemn lords had attained the
+long career of this [[Nature|nature]], that several solemn lords had attained the
 reputation of being quite unearthly prodigies of business, solely from
 having practised, How not to do it, as the head of the Circumlocution
 Office. As to the minor priests and acolytes of that temple, the result
@@ -134,7 +134,7 @@ a heaven-born institution that had an absolute right to do whatever it
 liked; or took refuge in total infidelity, and considered it a flagrant
 nuisance.
 
-The Barnacle family had for some time helped to administer the
+The Barnacle family had for some [[Time|time]] helped to administer the
 Circumlocution Office. The Tite Barnacle Branch, indeed, considered
 themselves in a general way as having vested rights in that direction,
 and took it ill if any other family had much to say to it. The Barnacles
@@ -149,29 +149,29 @@ The Mr Tite Barnacle who at the period now in question usually coached
 or crammed the statesman at the head of the Circumlocution Office, when
 that noble or right honourable individual sat a little uneasily in his
 saddle by reason of some vagabond making a tilt at him in a newspaper,
-was more flush of blood than money. As a Barnacle he had his place,
+was more flush of [[Blood|blood]] than money. As a Barnacle he had his place,
 which was a snug thing enough; and as a Barnacle he had of course put
 in his son Barnacle Junior in the office. But he had intermarried with
 a branch of the Stiltstalkings, who were also better endowed in a
 sanguineous point of view than with real or personal property, and of
-this marriage there had been issue, Barnacle junior and three young
+this [[Marriage|marriage]] there had been issue, Barnacle junior and three young
 ladies. What with the patrician requirements of Barnacle junior, the
 three young ladies, Mrs Tite Barnacle nee Stiltstalking, and himself,
 Mr Tite Barnacle found the intervals between quarter day and quarter day
 rather longer than he could have desired; a circumstance which he always
 attributed to the country’s parsimony.
 
-For Mr Tite Barnacle, Mr Arthur Clennam made his fifth inquiry one day
+For Mr Tite Barnacle, Mr [[Arthur Clennam]] made his fifth inquiry one day
 at the Circumlocution Office; having on previous occasions awaited that
 gentleman successively in a hall, a glass case, a waiting room, and a
-fire-proof passage where the Department seemed to keep its wind. On this
+[[Fire|fire]]-proof passage where the Department seemed to keep its [[Wind|wind]]. On this
 occasion Mr Barnacle was not engaged, as he had been before, with the
 noble prodigy at the head of the Department; but was absent. Barnacle
 Junior, however, was announced as a lesser star, yet visible above the
 office horizon.
 
-With Barnacle junior, he signified his desire to confer; and found that
-young gentleman singeing the calves of his legs at the parental fire,
+With Barnacle junior, he signified his [[Desire|desire]] to confer; and found that
+young gentleman singeing the calves of his legs at the parental [[Fire|fire]],
 and supporting his spine against the mantel-shelf. It was a comfortable
 room, handsomely furnished in the higher official manner; and presenting
 stately suggestions of the absent Barnacle, in the thick carpet, the
@@ -198,15 +198,15 @@ way to-day,’ said Barnacle Junior. ‘Is this anything that I can do?’
 (Click! Eye-glass down. Barnacle Junior quite frightened and feeling all
 round himself, but not able to find it.)
 
-‘You are very good,’ said Arthur Clennam. ‘I wish however to see Mr
+‘You are very good,’ said [[Arthur Clennam]]. ‘I wish however to see Mr
 Barnacle.’
 
 ‘But I say. Look here! You haven’t got any appointment, you know,’ said
 Barnacle Junior.
 
-(By this time he had found the eye-glass, and put it up again.)
+(By this [[Time|time]] he had found the eye-glass, and put it up again.)
 
-‘No,’ said Arthur Clennam. ‘That is what I wish to have.’
+‘No,’ said [[Arthur Clennam]]. ‘That is what I wish to have.’
 
 ‘But I say. Look here! Is this public business?’ asked Barnacle junior.
 
@@ -220,15 +220,15 @@ after it that Mr Clennam felt it useless to reply at present.)
 his glass in it, in that inflammatory manner that his eye began watering
 dreadfully.)
 
-‘No,’ said Arthur, ‘it is nothing about tonnage.’
+‘No,’ said [[arthur|Arthur]], ‘it is nothing about tonnage.’
 
 ‘Then look here. Is it private business?’
 
 ‘I really am not sure. It relates to a Mr Dorrit.’
 
-‘Look here, I tell you what! You had better call at our house, if you
+‘Look here, I tell you what! You had better call at our [[house]], if you
 are going that way. Twenty-four, Mews Street, Grosvenor Square. My
-father’s got a slight touch of the gout, and is kept at home by it.’
+father’s got a slight touch of the gout, and is kept at [[Home|home]] by it.’
 
 (The misguided young Barnacle evidently going blind on his eye-glass
 side, but ashamed to make any further alteration in his painful
@@ -251,23 +251,23 @@ Mews Street, Grosvenor Square, was not absolutely Grosvenor Square
 itself, but it was very near it. It was a hideous little street of dead
 wall, stables, and dunghills, with lofts over coach-houses inhabited by
 coachmen’s families, who had a passion for drying clothes and decorating
-their window-sills with miniature turnpike-gates. The principal
+their [[Window|window]]-sills with miniature turnpike-gates. The principal
 chimney-sweep of that fashionable quarter lived at the blind end of Mews
 Street; and the same corner contained an establishment much frequented
 about early morning and twilight for the purchase of wine-bottles and
 kitchen-stuff. Punch’s shows used to lean against the dead wall in Mews
-Street, while their proprietors were dining elsewhere; and the dogs of
+Street, while their proprietors were dining elsewhere; and the [[dogs]] of
 the neighbourhood made appointments to meet in the same locality. Yet
 there were two or three small airless houses at the entrance end of Mews
 Street, which went at enormous rents on account of their being abject
 hangers-on to a fashionable situation; and whenever one of these fearful
 little coops was to be let (which seldom happened, for they were in
-great request), the house agent advertised it as a gentlemanly residence
+great request), the [[house]] agent advertised it as a gentlemanly residence
 in the most aristocratic part of town, inhabited solely by the elite of
 the beau monde.
 
 If a gentlemanly residence coming strictly within this narrow margin had
-not been essential to the blood of the Barnacles, this particular branch
+not been essential to the [[Blood|blood]] of the Barnacles, this particular branch
 would have had a pretty wide selection among, let us say, ten thousand
 houses, offering fifty times the accommodation for a third of the money.
 As it was, Mr Barnacle, finding his gentlemanly residence extremely
@@ -275,14 +275,14 @@ inconvenient and extremely dear, always laid it, as a public servant,
 at the door of the country, and adduced it as another instance of the
 country’s parsimony.
 
-Arthur Clennam came to a squeezed house, with a ramshackle bowed
+[[Arthur Clennam]] came to a squeezed [[house]], with a ramshackle bowed
 front, little dingy windows, and a little dark area like a damp
 waistcoat-pocket, which he found to be number twenty-four, Mews Street,
-Grosvenor Square. To the sense of smell the house was like a sort of
+Grosvenor Square. To the sense of smell the [[house]] was like a sort of
 bottle filled with a strong distillation of Mews; and when the footman
 opened the door, he seemed to take the stopper out.
 
-The footman was to the Grosvenor Square footmen, what the house was to
+The footman was to the Grosvenor Square footmen, what the [[house]] was to
 the Grosvenor Square houses. Admirable in his way, his way was a back
 and a bye way. His gorgeousness was not unmixed with dirt; and both in
 complexion and consistency he had suffered from the closeness of his
@@ -312,13 +312,13 @@ visitor was shut up, pending his announcement, in a close back parlour.
 There he had an opportunity of refreshing himself with both the
 bottles at once, looking out at a low blinding wall three feet off,
 and speculating on the number of Barnacle families within the bills of
-mortality who lived in such hutches of their own free flunkey choice.
+[[Mortality|mortality]] who lived in such hutches of their own free flunkey choice.
 
 Mr Barnacle would see him. Would he walk up-stairs? He would, and
 he did; and in the drawing-room, with his leg on a rest, he found Mr
 Barnacle himself, the express image and presentment of How not to do it.
 
-Mr Barnacle dated from a better time, when the country was not so
+Mr Barnacle dated from a better [[Time|time]], when the country was not so
 parsimonious and the Circumlocution Office was not so badgered. He wound
 and wound folds of white cravat round his neck, as he wound and wound
 folds of tape and paper round the neck of the country. His wristbands
@@ -344,18 +344,18 @@ that it is a liberty; proceed to take another liberty, and let me know
 your business.’
 
 ‘Allow me to observe that I have been for some years in China, am quite
-a stranger at home, and have no personal motive or interest in the
+a stranger at [[Home|home]], and have no personal motive or interest in the
 inquiry I am about to make.’
 
 Mr Barnacle tapped his fingers on the table, and, as if he were now
-sitting for his portrait to a new and strange artist, appeared to say
+sitting for his portrait to a new and strange [[artist]], appeared to say
 to his visitor, ‘If you will be good enough to take me with my present
 lofty expression, I shall feel obliged.’
 
-‘I have found a debtor in the Marshalsea Prison of the name of Dorrit,
+‘I have found a debtor in the Marshalsea [[Prison]] of the name of Dorrit,
 who has been there many years. I wish to investigate his confused
 affairs so far as to ascertain whether it may not be possible, after
-this lapse of time, to ameliorate his unhappy condition. The name of
+this lapse of [[Time|time]], to ameliorate his unhappy condition. The name of
 Mr Tite Barnacle has been mentioned to me as representing some highly
 influential interest among his creditors. Am I correctly informed?’
 
@@ -363,7 +363,7 @@ It being one of the principles of the Circumlocution Office never, on
 any account whatever, to give a straightforward answer, Mr Barnacle
 said, ‘Possibly.’
 
-‘On behalf of the Crown, may I ask, or as private individual?’
+‘On behalf of the [[Crown]], may I ask, or as private individual?’
 
 ‘The Circumlocution Department, sir,’ Mr Barnacle replied, ‘may have
 possibly recommended--possibly--I cannot say--that some public claim
@@ -382,7 +382,7 @@ for any gentleman’s assumptions.’
 state of the case?’
 
 ‘It is competent,’ said Mr Barnacle, ‘to any member of the--Public,’
-mentioning that obscure body with reluctance, as his natural enemy,
+mentioning that obscure [[Body|body]] with reluctance, as his natural enemy,
 ‘to memorialise the Circumlocution Department. Such formalities as are
 required to be observed in so doing, may be known on application to the
 proper branch of that Department.’
@@ -410,30 +410,30 @@ to betake himself again to the Circumlocution Office, and try what
 satisfaction he could get there. So he went back to the Circumlocution
 Office, and once more sent up his card to Barnacle junior by a messenger
 who took it very ill indeed that he should come back again, and who was
-eating mashed potatoes and gravy behind a partition by the hall fire.
+eating mashed potatoes and gravy behind a partition by the hall [[Fire|fire]].
 
 He was readmitted to the presence of Barnacle junior, and found that
 young gentleman singeing his knees now, and gaping his weary way on
-to four o’clock.
+to four o’[[Clock|clock]].
 
 ‘I say. Look here. You stick to us in a devil of a manner,’ Said
 Barnacle junior, looking over his shoulder.
 
 ‘I want to know--’
 
-‘Look here. Upon my soul you mustn’t come into the place saying you
+‘Look here. Upon my [[Soul|soul]] you mustn’t come into the place saying you
 want to know, you know,’ remonstrated Barnacle junior, turning about and
 putting up the eye-glass.
 
-‘I want to know,’ said Arthur Clennam, who had made up his mind to
-persistence in one short form of words, ‘the precise nature of the claim
-of the Crown against a prisoner for debt, named Dorrit.’
+‘I want to know,’ said [[Arthur Clennam]], who had made up his mind to
+persistence in one short form of words, ‘the precise [[Nature|nature]] of the claim
+of the [[Crown]] against a prisoner for debt, named Dorrit.’
 
 ‘I say. Look here. You really are going it at a great pace, you know.
 Egad, you haven’t got an appointment,’ said Barnacle junior, as if the
 thing were growing serious.
 
-‘I want to know,’ said Arthur, and repeated his case.
+‘I want to know,’ said [[arthur|Arthur]], and repeated his case.
 
 Barnacle junior stared at him until his eye-glass fell out, and then
 put it in again and stared at him until it fell out again. ‘You have
@@ -445,17 +445,17 @@ whether it was public business or not.’
 suitor, ‘and I want to know’--and again repeated his monotonous inquiry.
 
 Its effect upon young Barnacle was to make him repeat in a defenceless
-way, ‘Look here! Upon my SOUL you mustn’t come into the place saying you
-want to know, you know!’ The effect of that upon Arthur Clennam was
+way, ‘Look here! Upon my [[Soul|SOUL]] you mustn’t come into the place saying you
+want to know, you know!’ The effect of that upon [[Arthur Clennam]] was
 to make him repeat his inquiry in exactly the same words and tone
 as before. The effect of that upon young Barnacle was to make him a
 wonderful spectacle of failure and helplessness.
 
-‘Well, I tell you what. Look here. You had better try the Secretarial
+‘[[Well]], I tell you what. Look here. You had better try the Secretarial
 Department,’ he said at last, sidling to the bell and ringing it.
 ‘Jenkinson,’ to the mashed potatoes messenger, ‘Mr Wobbler!’
 
-Arthur Clennam, who now felt that he had devoted himself to the storming
+[[Arthur Clennam]], who now felt that he had devoted himself to the storming
 of the Circumlocution Office, and must go through with it, accompanied
 the messenger to another floor of the building, where that functionary
 pointed out Mr Wobbler’s room. He entered that apartment, and found two
@@ -488,7 +488,7 @@ particularly like her when hocussed.’
 
 ‘Mr Wobbler?’ said the suitor.
 
-Both gentlemen laughed for some time. The gentleman with the gun-barrel,
+Both gentlemen laughed for some [[Time|time]]. The gentleman with the gun-barrel,
 considering it, on inspection, in a satisfactory state, referred it to
 the other; receiving confirmation of his views, he fitted it into its
 place in the case before him, and took out the stock and polished that,
@@ -498,7 +498,7 @@ softly whistling.
 
 ‘What’s the matter?’ then said Mr Wobbler, with his mouth full.
 
-‘I want to know--’ and Arthur Clennam again mechanically set forth what
+‘I want to know--’ and [[Arthur Clennam]] again mechanically set forth what
 he wanted to know.
 
 ‘Can’t inform you,’ observed Mr Wobbler, apparently to his lunch. ‘Never
@@ -522,18 +522,18 @@ particular, number two doing nothing particular, number three doing
 nothing particular. They seemed, however, to be more directly concerned
 than the others had been in the effective execution of the great
 principle of the office, as there was an awful inner apartment with a
-double door, in which the Circumlocution Sages appeared to be assembled
+[[Double|double]] door, in which the Circumlocution Sages appeared to be assembled
 in council, and out of which there was an imposing coming of papers,
 and into which there was an imposing going of papers, almost constantly;
 wherein another gentleman, number four, was the active instrument.
 
-‘I want to know,’ said Arthur Clennam,--and again stated his case in the
+‘I want to know,’ said [[Arthur Clennam]],--and again stated his case in the
 same barrel-organ way. As number one referred him to number two, and
 as number two referred him to number three, he had occasion to state
 it three times before they all referred him to number four, to whom he
 stated it again.
 
-Number four was a vivacious, well-looking, well-dressed, agreeable
+Number four was a vivacious, [[Well|well]]-looking, [[Well|well]]-dressed, agreeable
 young fellow--he was a Barnacle, but on the more sprightly side of
 the family--and he said in an easy way, ‘Oh! you had better not bother
 yourself about it, I think.’
@@ -542,7 +542,7 @@ yourself about it, I think.’
 
 ‘No! I recommend you not to bother yourself about it.’
 
-This was such a new point of view that Arthur Clennam found himself at a
+This was such a new point of view that [[Arthur Clennam]] found himself at a
 loss how to receive it.
 
 ‘You can if you like. I can give you plenty of forms to fill up. Lots of
@@ -559,7 +559,7 @@ a contract, or something of that kind, was there?’
 
 ‘I really don’t know.’
 
-‘Well! That you can find out. Then you’ll find out what Department the
+‘[[Well]]! That you can find out. Then you’ll find out what Department the
 contract was in, and then you’ll find out all about it there.’
 
 ‘I beg your pardon. How shall I find out?’
@@ -567,14 +567,14 @@ contract was in, and then you’ll find out all about it there.’
 ‘Why, you’ll--you’ll ask till they tell you. Then you’ll memorialise
 that Department (according to regular forms which you’ll find out) for
 leave to memorialise this Department. If you get it (which you may after
-a time), that memorial must be entered in that Department, sent to
+a [[Time|time]]), that memorial must be entered in that Department, sent to
 be registered in this Department, sent back to be signed by that
 Department, sent back to be countersigned by this Department, and then
 it will begin to be regularly before that Department. You’ll find out
 when the business passes through each of these stages by asking at both
 Departments till they tell you.’
 
-‘But surely this is not the way to do the business,’ Arthur Clennam
+‘But surely this is not the way to do the business,’ [[Arthur Clennam]]
 could not help saying.
 
 This airy young Barnacle was quite entertained by his simplicity in
@@ -588,29 +588,29 @@ snobs. This dashing young Barnacle, in a word, was likely to become a
 statesman, and to make a figure.
 
 ‘When the business is regularly before that Department, whatever it is,’
-pursued this bright young Barnacle, ‘then you can watch it from time
-to time through that Department. When it comes regularly before this
-Department, then you must watch it from time to time through this
+pursued this bright young Barnacle, ‘then you can watch it from [[Time|time]]
+to [[Time|time]] through that Department. When it comes regularly before this
+Department, then you must watch it from [[Time|time]] to [[Time|time]] through this
 Department. We shall have to refer it right and left; and when we refer
 it anywhere, then you’ll have to look it up. When it comes back to us
-at any time, then you had better look _us_ up. When it sticks anywhere,
+at any [[Time|time]], then you had better look _us_ up. When it sticks anywhere,
 you’ll have to try to give it a jog. When you write to another
 Department about it, and then to this Department about it, and don’t
 hear anything satisfactory about it, why then you had better--keep on
 writing.’
 
-Arthur Clennam looked very doubtful indeed. ‘But I am obliged to you at
+[[Arthur Clennam]] looked very doubtful indeed. ‘But I am obliged to you at
 any rate,’ said he, ‘for your politeness.’
 
 ‘Not at all,’ replied this engaging young Barnacle. ‘Try the thing, and
-see how you like it. It will be in your power to give it up at any time,
+see how you like it. It will be in your power to give it up at any [[Time|time]],
 if you don’t like it. You had better take a lot of forms away with you.
 Give him a lot of forms!’ With which instruction to number two, this
 sparkling young Barnacle took a fresh handful of papers from numbers one
 and three, and carried them into the sanctuary to offer to the presiding
 Idol of the Circumlocution Office.
 
-Arthur Clennam put his forms in his pocket gloomily enough, and went
+[[Arthur Clennam]] put his forms in his pocket gloomily enough, and went
 his way down the long stone passage and the long stone staircase. He had
 come to the swing doors leading into the street, and was waiting, not
 over patiently, for two people who were between him and them to pass out
@@ -639,7 +639,7 @@ from abroad. I am glad to see you.’
 
 ‘Mrs Meagles and your daughter--?’
 
-‘Are as well as possible,’ said Mr Meagles. ‘I only wish you had come
+‘Are as [[Well|well]] as possible,’ said Mr Meagles. ‘I only wish you had come
 upon me in a more prepossessing condition as to coolness.’
 
 Though it was anything but a hot day, Mr Meagles was in a heated state
@@ -658,7 +658,7 @@ Park?’
 
 ‘As much as you please.’
 
-‘Come along then. Ah! you may well look at him.’ He happened to have
+‘Come along then. Ah! you may [[Well|well]] look at him.’ He happened to have
 turned his eyes towards the offender whom Mr Meagles had so angrily
 collared. ‘He’s something to look at, that fellow is.’
 
@@ -685,8 +685,8 @@ depressed, but neither ashamed nor repentant. If he were a criminal
 offender, he must surely be an incorrigible hypocrite; and if he were no
 offender, why should Mr Meagles have collared him in the Circumlocution
 Office? He perceived that the man was not a difficulty in his own
-mind alone, but in Mr Meagles’s too; for such conversation as they had
-together on the short way to the Park was by no means well sustained,
+mind [[Alone|alone]], but in Mr Meagles’s too; for such conversation as they had
+together on the short way to the Park was by no means [[Well|well]] sustained,
 and Mr Meagles’s eye always wandered back to the man, even when he spoke
 of something very different.
 
@@ -694,7 +694,7 @@ At length they being among the trees, Mr Meagles stopped short, and
 said:
 
 ‘Mr Clennam, will you do me the favour to look at this man? His name
-is Doyce, Daniel Doyce. You wouldn’t suppose this man to be a notorious
+is Doyce, [[Daniel Doyce]]. You wouldn’t suppose this man to be a notorious
 rascal; would you?’
 
 ‘I certainly should not.’ It was really a disconcerting question, with
@@ -706,20 +706,20 @@ a public offender; would you?’
 ‘No.’
 
 ‘No. But he is. He is a public offender. What has he been guilty of?
-Murder, manslaughter, arson, forgery, swindling, house-breaking, highway
+Murder, manslaughter, arson, forgery, swindling, [[house]]-breaking, highway
 robbery, larceny, conspiracy, fraud? Which should you say, now?’
 
-‘I should say,’ returned Arthur Clennam, observing a faint smile in
-Daniel Doyce’s face, ‘not one of them.’
+‘I should say,’ returned [[Arthur Clennam]], observing a faint smile in
+[[Daniel Doyce]]’s face, ‘not one of them.’
 
 ‘You are right,’ said Mr Meagles. ‘But he has been ingenious, and he has
 been trying to turn his ingenuity to his country’s service. That makes
 him a public offender directly, sir.’
 
-Arthur looked at the man himself, who only shook his head.
+[[arthur|Arthur]] looked at the man himself, who only shook his head.
 
-‘This Doyce,’ said Mr Meagles, ‘is a smith and engineer. He is not in a
-large way, but he is well known as a very ingenious man. A dozen years
+‘This Doyce,’ said Mr Meagles, ‘is a [[smith]] and engineer. He is not in a
+large way, but he is [[Well|well]] known as a very ingenious man. A dozen years
 ago, he perfects an invention (involving a very curious secret process)
 of great importance to his country and his fellow-creatures. I won’t say
 how much money it cost him, or how many years of his life he had been
@@ -729,16 +729,16 @@ man in the world; he never complains!’
 
 ‘Yes. Rather better than twelve years ago.’
 
-‘Rather better?’ said Mr Meagles, ‘you mean rather worse. Well, Mr
-Clennam, he addresses himself to the Government. The moment he addresses
-himself to the Government, he becomes a public offender! Sir,’ said Mr
+‘Rather better?’ said Mr Meagles, ‘you mean rather worse. [[Well]], Mr
+Clennam, he addresses himself to the [[government|Government]]. The moment he addresses
+himself to the [[government|Government]], he becomes a public offender! Sir,’ said Mr
 Meagles, in danger of making himself excessively hot again, ‘he ceases
-to be an innocent citizen, and becomes a culprit. He is treated from
+to be an [[Innocent|innocent]] citizen, and becomes a culprit. He is treated from
 that instant as a man who has done some infernal action. He is a man to
 be shirked, put off, brow-beaten, sneered at, handed over by this
 highly-connected young or old gentleman, to that highly-connected young
 or old gentleman, and dodged back again; he is a man with no rights in
-his own time, or his own property; a mere outlaw, whom it is justifiable
+his own [[Time|time]], or his own property; a mere outlaw, whom it is justifiable
 to get rid of anyhow; a man to be worn out by all possible means.’
 
 It was not so difficult to believe, after the morning’s experience, as
@@ -750,7 +750,7 @@ cried Mr Meagles, ‘but tell Mr Clennam what you confessed to me.’
 ‘I undoubtedly was made to feel,’ said the inventor, ‘as if I had
 committed an offence. In dancing attendance at the various offices, I
 was always treated, more or less, as if it was a very bad offence. I
-have frequently found it necessary to reflect, for my own self-support,
+have frequently found it necessary to reflect, for my own [[Self|self]]-support,
 that I really had not done anything to bring myself into the Newgate
 Calendar, but only wanted to effect a great saving and a great
 improvement.’
@@ -772,7 +772,7 @@ pig-headed to look at it. How there were more years; more impertinences,
 ignorances, and insults. How my lords then made a Minute, number five
 thousand one hundred and three, whereby they resigned the business to
 the Circumlocution Office. How the Circumlocution Office, in course of
-time, took up the business as if it were a bran new thing of yesterday,
+[[Time|time]], took up the business as if it were a bran new thing of yesterday,
 which had never been heard of before; muddled the business, addled the
 business, tossed the business in a wet blanket. How the impertinences,
 ignorances, and insults went through the multiplication table. How there
@@ -788,30 +788,30 @@ Office that very morning, and how the Brazen Head had spoken, and had
 been, upon the whole, and under all the circumstances, and looking at it
 from the various points of view, of opinion that one of two courses was
 to be pursued in respect of the business: that was to say, either to
-leave it alone for evermore, or to begin it all over again.
+leave it [[Alone|alone]] for evermore, or to begin it all over again.
 
 ‘Upon which,’ said Mr Meagles, ‘as a practical man, I then and there, in
 that presence, took Doyce by the collar, and told him it was plain to
 me that he was an infamous rascal and treasonable disturber of the
-government peace, and took him away. I brought him out of the office
+[[government]] peace, and took him away. I brought him out of the office
 door by the collar, that the very porter might know I was a practical
 man who appreciated the official estimate of such characters; and here
 we are!’
 
 If that airy young Barnacle had been there, he would have frankly told
 them perhaps that the Circumlocution Office had achieved its function.
-That what the Barnacles had to do, was to stick on to the national ship
-as long as they could. That to trim the ship, lighten the ship, clean
-the ship, would be to knock them off; that they could but be knocked off
-once; and that if the ship went down with them yet sticking to it, that
-was the ship’s look out, and not theirs.
+That what the Barnacles had to do, was to stick on to the national [[Ship|ship]]
+as long as they could. That to trim the [[Ship|ship]], lighten the [[Ship|ship]], clean
+the [[Ship|ship]], would be to knock them off; that they could but be knocked off
+once; and that if the [[Ship|ship]] went down with them yet sticking to it, that
+was the [[Ship|ship]]’s look out, and not theirs.
 
 ‘There!’ said Mr Meagles, ‘now you know all about Doyce. Except, which I
 own does not improve my state of mind, that even now you don’t hear him
 complain.’
 
-‘You must have great patience,’ said Arthur Clennam, looking at him with
-some wonder, ‘great forbearance.’
+‘You must have great patience,’ said [[Arthur Clennam]], looking at him with
+some [[Wonder|wonder]], ‘great forbearance.’
 
 ‘No,’ he returned, ‘I don’t know that I have more than another man.’
 
@@ -819,7 +819,7 @@ some wonder, ‘great forbearance.’
 
 Doyce smiled, as he said to Clennam, ‘You see, my experience of these
 things does not begin with myself. It has been in my way to know a
-little about them from time to time. Mine is not a particular case. I am
+little about them from [[Time|time]] to [[Time|time]]. Mine is not a particular case. I am
 not worse used than a hundred others who have put themselves in the same
 position--than all the others, I was going to say.’
 
@@ -828,7 +828,7 @@ but I am very glad that you do.’
 
 ‘Understand me! I don’t say,’ he replied in his steady, planning
 way, and looking into the distance before him as if his grey eye were
-measuring it, ‘that it’s recompense for a man’s toil and hope; but it’s
+measuring it, ‘that it’s recompense for a man’s toil and [[Hope|hope]]; but it’s
 a certain sort of relief to know that I might have counted on this.’
 
 He spoke in that quiet deliberate manner, and in that undertone, which
@@ -838,7 +838,7 @@ way of tilting up his hat at the back every now and then, as if he were
 contemplating some half-finished work of his hand and thinking about it.
 
 ‘Disappointed?’ he went on, as he walked between them under the trees.
-‘Yes. No doubt I am disappointed. Hurt? Yes. No doubt I am hurt. That’s
+‘Yes. No [[Doubt|doubt]] I am disappointed. Hurt? Yes. No [[Doubt|doubt]] I am hurt. That’s
 only natural. But what I mean when I say that people who put themselves
 in the same position are mostly used in the same way--’
 
@@ -851,7 +851,7 @@ many go there.’
 Mr Meagles very hot indeed again.
 
 ‘What I mean is, that however this comes to be the regular way of our
-government, it is its regular way. Have you ever heard of any projector
+[[government]], it is its regular way. Have you ever heard of any projector
 or inventor who failed to find it all but inaccessible, and whom it did
 not discourage and ill-treat?’
 
@@ -867,26 +867,26 @@ answer that. Never.’
 many cases of its fixed determination to be miles upon miles, and years
 upon years, behind the rest of us; and of its being found out persisting
 in the use of things long superseded, even after the better things were
-well known and generally taken up?’
+[[Well|well]] known and generally taken up?’
 
 They all agreed upon that.
 
-‘Well then,’ said Doyce, with a sigh, ‘as I know what such a metal will
-do at such a temperature, and such a body under such a pressure, so I
+‘[[Well]] then,’ said Doyce, with a sigh, ‘as I know what such a metal will
+do at such a temperature, and such a [[Body|body]] under such a pressure, so I
 may know (if I will only consider), how these great lords and gentlemen
 will certainly deal with such a matter as mine. I have no right to be
-surprised, with a head upon my shoulders, and memory in it, that I fall
+surprised, with a head upon my shoulders, and [[Memory|memory]] in it, that I fall
 into the ranks with all who came before me. I ought to have let it
-alone. I have had warning enough, I am sure.’
+[[Alone|alone]]. I have had warning enough, I am sure.’
 
-With that he put up his spectacle-case, and said to Arthur, ‘If I don’t
+With that he put up his spectacle-case, and said to [[arthur|Arthur]], ‘If I don’t
 complain, Mr Clennam, I can feel gratitude; and I assure you that I
 feel it towards our mutual friend. Many’s the day, and many’s the way in
 which he has backed me.’
 
 ‘Stuff and nonsense,’ said Mr Meagles.
 
-Arthur could not but glance at Daniel Doyce in the ensuing silence.
+[[arthur|Arthur]] could not but glance at [[Daniel Doyce]] in the ensuing [[Silence|silence]].
 Though it was evidently in the grain of his character, and of his
 respect for his own case, that he should abstain from idle murmuring,
 it was evident that he had grown the older, the sterner, and the poorer,

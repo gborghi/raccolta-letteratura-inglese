@@ -1,5 +1,5 @@
 ---
-title: "The Business Man (part 4)"
+title: "[[The Business Man]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Business-Man-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-      music-mill for a mere song, and to put it in order, you have but
+      music-mill for a mere [[Song|song]], and to put it in order, you have but
 
       to open the works, and give them three or four smart raps with a
 
@@ -28,7 +28,7 @@ tags:
 
       grind; looking as if you meant to stop and grind till doomsday.
 
-      Presently a window opens, and somebody pitches you a sixpence,
+      Presently a [[Window|window]] opens, and somebody pitches you a sixpence,
 
       with a request to “Hush up and go on,” etc. I am aware that some
 
@@ -42,7 +42,7 @@ tags:
 
       At this occupation I did a good deal; but, somehow, I was not
 
-      quite satisfied, and so finally abandoned it. The truth is, I
+      quite satisfied, and so finally abandoned it. The [[Truth|truth]] is, I
 
       labored under the disadvantage of having no monkey—and American
 
@@ -78,17 +78,17 @@ tags:
 
       receive the postage. Nobody hesitates at paying for a
 
-      letter—especially for a double one—people are such fools—and it
+      letter—especially for a [[Double|double]] one—people are such fools—and it
 
-      was no trouble to get round a corner before there was time to
+      was no trouble to get round a corner before there was [[Time|time]] to
 
       open the epistles. The worst of this profession was, that I had
 
       to walk so much and so fast; and so frequently to vary my route.
 
-      Besides, I had serious scruples of conscience. I can’t bear to
+      Besides, I had serious scruples of [[Conscience|conscience]]. I can’t bear to
 
-      hear innocent individuals abused—and the way the whole town took
+      hear [[Innocent|innocent]] individuals abused—and the way the whole town took
 
       to cursing Tom Dobson and Bobby Tompkins was really awful to
 
@@ -100,7 +100,7 @@ tags:
 
       have found that a most pleasant and lucrative business, and,
 
-      really, no trouble at all. The country, it is well known, has
+      really, no trouble at all. The country, it is [[Well|well]] known, has
 
       become infested with cats—so much so of late, that a petition for
 
@@ -108,7 +108,7 @@ tags:
 
       before the Legislature at its late memorable session. The
 
-      Assembly, at this epoch, was unusually well-informed, and, having
+      Assembly, at this epoch, was unusually [[Well|well]]-informed, and, having
 
       passed many other wise and wholesome enactments, it crowned all
 
@@ -120,7 +120,7 @@ tags:
 
       word “tails” for “heads.” This amendment was so obviously proper,
 
-      that the House concurred in it nem. con.
+      that the [[house|House]] concurred in it nem. con.
 
 
 
@@ -142,7 +142,7 @@ tags:
 
       three crops in a year. It delights me to find, too, that the
 
-      animals soon get accustomed to the thing, and would rather have
+      [[Animals|animals]] soon get accustomed to the thing, and would rather have
 
       the appendages cut off than otherwise. I consider myself,
 

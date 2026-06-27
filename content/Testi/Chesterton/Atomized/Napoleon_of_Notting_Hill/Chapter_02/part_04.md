@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting Hill — Chapter 2 (part 4)"
+title: "Napoleon of Notting [[Hill]] — Chapter 2 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Napoleon-of-Notting-Hill-(Chesterton)"
@@ -24,30 +24,30 @@ grandeur, "are the colours of Nicaragua."
 no longer a..."
 
 "Nicaragua has been conquered like Athens.  Nicaragua has been
-annexed like Jerusalem," cried the old man, with amazing fire.
+annexed like Jerusalem," cried the old man, with amazing [[Fire|fire]].
 "The Yankee and the German and the brute powers of modernity have
 trampled it with the hoofs of oxen.  But Nicaragua is not dead.
 Nicaragua is an idea."
 
-Auberon Quin suggested timidly, "A brilliant idea."
+[[Auberon Quin]] suggested timidly, "A brilliant idea."
 
 "Yes," said the foreigner, snatching at the word.  "You are right,
 generous Englishman.  An idea brilliant, a burning thought.
-Senor, you asked me why, in my desire to see the colours of my country,
-I snatched at paper and blood.  Can you not understand the ancient
+Senor, you asked me why, in my [[Desire|desire]] to see the colours of my country,
+I snatched at paper and [[Blood|blood]].  Can you not understand the ancient
 sanctity of colours?  The Church has her symbolic colours.
 And think of what colours mean to us...think of the position
 of one like myself, who can see nothing but those two colours,
 nothing but the red and the yellow.  To me all shapes are equal,
-all common and noble things are in a democracy of combination.
+all common and noble things are in a [[democracy]] of combination.
 Wherever there is a field of marigolds and the red cloak of an
 old woman, there is Nicaragua.  Wherever there is a field of poppies
 and a yellow patch of sand, there is Nicaragua, Wherever there
 is a lemon and a red sunset, there is my country.  Wherever I
 see a red pillar-box and a yellow sunset, there my heart beats.
-Blood and a splash of mustard can be my heraldry.  If there
+[[Blood]] and a splash of mustard can be my heraldry.  If there
 be yellow mud and red mud in the same ditch, it is better to me
-than white stars."
+than white [[Stars|stars]]."
 
 "And if," said Quin, with equal enthusiasm, "there should happen
 to be yellow wine and red wine at the same lunch, you could not
@@ -82,7 +82,7 @@ such things as...er...the Nicaraguan independence."
 
 "Pardon me, pardon me, President," said Barker, warmly; "my sympathies
 are with no nation.  You misunderstand, I think, the modern intellect.
-We do not disapprove of the fire and extravagance of such commonwealths
+We do not disapprove of the [[Fire|fire]] and extravagance of such commonwealths
 as yours only to become more extravagant on a larger scale.
 We do not condemn Nicaragua because we think Britain ought
 to be more Nicaraguan.  We do not discourage small nationalities
@@ -95,9 +95,9 @@ in a great cosmopolitan civilization, one which shall include all
 the talents of all the absorbed peoples..."
 
 "The Senor will forgive me," said the President.  "May I ask
-the Senor how, under ordinary circumstances, he catches a wild horse?"
+the Senor how, under ordinary circumstances, he catches a wild [[Horse|horse]]?"
 
-"I never catch a wild horse," replied Barker, with dignity.
+"I never catch a wild [[Horse|horse]]," replied Barker, with dignity.
 
 "Precisely," said the other; "and there ends your absorption
 of the talents.  That is what I complain of your cosmopolitanism.
@@ -111,14 +111,14 @@ include all talents.  Will it?  Do you really mean to say that at
 the moment when the Esquimaux has learnt to vote for a County Council,
 you will have learnt to spear a walrus?  I recur to the example I gave.
 In Nicaragua we had a way of catching wild horses...by lassoing
-the fore-feet-which was supposed to be the best in South America.
+the fore-feet-which was supposed to be the best in South [[America]].
 If you are going to include all the talents, go and do it.
 If not, permit me to say, what I have always said, that something
 went from the world when Nicaragua was civilized."
 
 "Something, perhaps," replied Barker, "but that something a mere
 barbarian dexterity.  I do not know that I could chip flints
-as well as a primeval man, but I know that civilization can make
+as [[Well|well]] as a primeval man, but I know that civilization can make
 these knives which are better, and I trust to civilization."
 
 "You have good authority," answered the Nicaraguan.  "Many clever
@@ -144,4 +144,4 @@ of small nationalities is worse.  The superstition of reverencing our
 own country is bad, but the superstition of reverencing other people's
 countries is worse.  It is so everywhere, and in a hundred ways.
 The superstition of monarchy is bad, and the superstition of aristocracy
-is bad, but the superstition of democracy is the worst of all."
+is bad, but the superstition of [[democracy]] is the worst of all."

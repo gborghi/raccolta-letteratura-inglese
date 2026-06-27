@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 9 (part 3)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 9 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -30,13 +30,13 @@ we could not determine, the brig did not lie so much along as she had
 
 done before, the deck was comparatively dry, and we could move about
 
-with freedom. We had now been better than three entire days and nights
+with [[Freedom|freedom]]. We had now been better than three entire days and nights
 
 without either food or drink, and it became absolutely necessary that
 
 we should make an attempt to get up something from below. As the brig
 
-was completely full of water, we went to this work despondingly, and
+was completely full of [[Water|water]], we went to this work despondingly, and
 
 with but little expectation of being able to obtain anything. We made a
 
@@ -46,7 +46,7 @@ of the companion-hatch into two pieces of wood. Tying these across each
 
 other, and fastening them to the end of a rope, we threw them into the
 
-cabin, and dragged them to and fro, in the faint hope of being thus
+cabin, and dragged them to and fro, in the faint [[Hope|hope]] of being thus
 
 able to entangle some article which might be of use to us for food, or
 
@@ -58,19 +58,19 @@ nothing more than a few bedclothes, which were readily caught by the
 
 nails. Indeed, our contrivance was so very clumsy, that any greater
 
-success was hardly to be anticipated.
+[[success]] was hardly to be anticipated.
 
 
 
 We now tried the forecastle, but equally in vain, and were upon the
 
-brink of despair, when Peters proposed that we should fasten a rope to
+brink of [[Despair|despair]], when Peters proposed that we should fasten a rope to
 
-his body, and let him make an attempt to get up something by diving
+his [[Body|body]], and let him make an attempt to get up something by diving
 
 into the cabin. This proposition we hailed with all the delight which
 
-reviving hope could inspire. He proceeded immediately to strip off his
+reviving [[Hope|hope]] could inspire. He proceeded immediately to strip off his
 
 clothes with the exception of his pantaloons; and a strong rope was
 
@@ -84,7 +84,7 @@ as we could hardly expect to find much, if any provision in the cabin
 
 itself, it was necessary that the diver, after letting himself down,
 
-should make a turn to the right, and proceed under water a distance of
+should make a turn to the right, and proceed under [[Water|water]] a distance of
 
 ten or twelve feet, in a narrow passage, to the storeroom, and return,
 
@@ -94,7 +94,7 @@ without drawing breath.
 
 Everything being ready, Peters now descended into the cabin, going down
 
-the companion-ladder until the water reached his chin. He then plunged
+the companion-ladder until the [[Water|water]] reached his chin. He then plunged
 
 in, head first, turning to the right as he plunged, and endeavouring to
 
@@ -120,9 +120,9 @@ to rest full fifteen minutes before he could again venture to descend.
 
 
 
-The second attempt met with even worse success; for he remained so long
+The second attempt met with even worse [[success]]; for he remained so long
 
-under water without giving the signal, that, becoming alarmed for his
+under [[Water|water]] without giving the signal, that, becoming alarmed for his
 
 safety, we drew him out without it, and found that he was almost at the
 
@@ -138,7 +138,7 @@ remove it, if possible, before proceeding with our design. As we had no
 
 means of getting it away except by main force, we all descended into
 
-the water as far as we could on the ladder, and, giving a pull against
+the [[Water|water]] as far as we could on the ladder, and, giving a pull against
 
 it with our united strength, succeeded in breaking it down.
 
@@ -150,7 +150,7 @@ now became evident that nothing could be done in this manner without
 
 the aid of some weight with which the diver might steady himself, and
 
-keep to the floor of the cabin while making his search. For a long time
+keep to the floor of the cabin while making his search. For a long [[Time|time]]
 
 we looked about in vain for something which might answer this purpose;
 
@@ -160,7 +160,7 @@ weather-forechains so loose that we had not the least difficulty in
 
 wrenching it off. Having fastened this securely to one of his ancles,
 
-Peters now made his fourth descent into the cabin, and this time
+Peters now made his fourth descent into the cabin, and this [[Time|time]]
 
 succeeded in making his way to the door of the steward's room. To his
 
@@ -168,11 +168,11 @@ inexpressible grief, however, he found it locked, and was obliged to
 
 return without effecting an entrance, as, with the greatest exertion,
 
-he could remain under water not more, at the utmost extent, than a
+he could remain under [[Water|water]] not more, at the utmost extent, than a
 
 single minute. Our affairs now looked gloomy indeed, and neither
 
-Augustus nor myself could refrain from bursting into tears, as we
+Augustus nor myself could refrain from bursting into [[Tears|tears]], as we
 
 thought of the host of difficulties which encompassed us, and the
 
@@ -182,6 +182,6 @@ this weakness was not of long duration. Throwing ourselves on our knees
 
 to God, we implored his aid in the many dangers which beset us; and
 
-arose with renewed hope and vigour to think what could yet be done by
+arose with renewed [[Hope|hope]] and vigour to think what could yet be done by
 
 mortal means towards accomplishing our deliverance.

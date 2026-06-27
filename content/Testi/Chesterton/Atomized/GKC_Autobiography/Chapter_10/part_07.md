@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 10 (part 7)"
+title: "[[GKC-Autobiography]] — Chapter 10 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -21,9 +21,9 @@ relaxation from the cares of State.  Then the Original Four,
 whom destiny had selected for a wild western life, were approached
 with private instructions, which worked out in public as follows.
 The stage was cleared and the company adjourned to the auditorium,
-where Bernard Shaw harangued them in a furious speech, with savage
+where Bernard [[Shaw]] harangued them in a furious speech, with savage
 gesticulations denouncing Barker and Barrie and finally drawing
-an enormous sword.  The other three of us rose at this signal,
+an enormous [[Sword|sword]].  The other three of us [[Rose|rose]] at this signal,
 also brandishing swords, and stormed the stage, going out
 through the back scenery.  And there We (whoever We were)
 disappear for ever from the record and reasonable understanding
@@ -32,7 +32,7 @@ light been thrown on the reasons of our remarkable behaviour.
 I have since heard in a remote and roundabout way certain
 vague suggestions, to the effect that there was some symbolical
 notion of our vanishing from real life and being captured or caught
-up into the film world of romance; being engaged through all the rest
+up into the film world of [[Romance|romance]]; being engaged through all the rest
 of the play in struggling to fight our way back to reality.
 Whether this was the idea I have never known for certain;
 I only know that I received immediately afterwards a friendly
@@ -45,15 +45,15 @@ in which the secret put in Barrie's pipe had ended in smoke.
 There had really been a sort of unearthly unreality in all
 the levity of those last hours; like something high and shrill
 that might crack; and it did crack.  I have sometimes wondered
-whether it was felt that this fantasy of fashionable London would
+whether it was felt that this fantasy of fashionable [[London]] would
 appear incongruous with something that happened some days later.
 For what happened then was that a certain Ultimatum went out from
-the Austrian Government against Serbia.  I rang up Maurice Baring
+the Austrian [[government|Government]] against Serbia.  I rang up Maurice Baring
 at a further stage of that rapidly developing business; and I can
 remember the tones of his voice when he said, "We've got to fight.
 They've all got to fight.  I don't see how anybody can help it."
 
-If the Cowboys were indeed struggling to find the road back to Reality
+If the Cowboys were indeed struggling to find the [[Road|road]] back to Reality
 they found it all right.
 
 *****

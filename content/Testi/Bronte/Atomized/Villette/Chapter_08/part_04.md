@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 8 (part 4)"
+title: "[[Villette]] — Chapter 8 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -19,7 +19,7 @@ one making an accusation, “Meess, in England you were a governess?”
 
 “No, Madame,” said I smiling, “you are mistaken.”
 
-“Is this your first essay at teaching—this attempt with my children?”
+“Is this your first [[Essay|essay]] at teaching—this attempt with my children?”
 
 I assured her it was. Again she became silent; but looking up, as I
 took a pin from the cushion, I found myself an object of study: she
@@ -51,12 +51,12 @@ my usual base habit of cowardice, I shrank into my sloth like a snail
 into its shell, and alleged incapacity and impracticability as a
 pretext to escape action. If left to myself, I should infallibly have
 let this chance slip. Inadventurous, unstirred by impulses of practical
-ambition, I was capable of sitting twenty years teaching infants the
+[[Ambition|ambition]], I was capable of sitting twenty years teaching infants the
 hornbook, turning silk dresses and making children’s frocks. Not that
-true contentment dignified this infatuated resignation: my work had
+true contentment dignified this infatuated [[Resignation|resignation]]: my work had
 neither charm for my taste, nor hold on my interest; but it seemed to
 me a great thing to be without heavy anxiety, and relieved from
-intimate trial: the negation of severe suffering was the nearest
+intimate trial: the negation of severe [[Suffering|suffering]] was the nearest
 approach to happiness I expected to know. Besides, I seemed to hold two
 lives—the life of thought, and that of reality; and, provided the
 former was nourished with a sufficiency of the strange necromantic joys
@@ -64,28 +64,28 @@ of fancy, the privileges of the latter might remain limited to daily
 bread, hourly work, and a roof of shelter.
 
 “Come,” said Madame, as I stooped more busily than ever over the
-cutting-out of a child’s pinafore, “leave that work.”
+cutting-out of a [[Child|child]]’s pinafore, “leave that work.”
 
 “But Fifine wants it, Madame.”
 
 “Fifine must want it, then, for I want _you_.”
 
-And as Madame Beck did really want and was resolved to have me—as she
+And as [[Madame Beck]] did really want and was resolved to have me—as she
 had long been dissatisfied with the English master, with his
 shortcomings in punctuality, and his careless method of tuition—as,
 too, _she_ did not lack resolution and practical activity, whether _I_
 lacked them or not—she, without more ado, made me relinquish thimble
 and needle; my hand was taken into hers, and I was conducted
 down-stairs. When we reached the carré, a large square hall between the
-dwelling-house and the pensionnat, she paused, dropped my hand, faced,
+dwelling-[[house]] and the pensionnat, she paused, dropped my hand, faced,
 and scrutinized me. I was flushed, and tremulous from head to foot:
 tell it not in Gath, I believe I was crying. In fact, the difficulties
 before me were far from being wholly imaginary; some of them were real
 enough; and not the least substantial lay in my want of mastery over
 the medium through which I should be obliged to teach. I had, indeed,
-studied French closely since my arrival in Villette; learning its
-practice by day, and its theory in every leisure moment at night, to as
-late an hour as the rule of the house would allow candle-light; but I
+studied French closely since my arrival in [[Villette]]; learning its
+practice by day, and its theory in every leisure moment at [[Night|night]], to as
+late an hour as the rule of the [[house]] would allow candle-light; but I
 was far from yet being able to trust my powers of correct oral
 expression.
 
@@ -105,8 +105,8 @@ felt all the dishonour of my diffidence—all the pusillanimity of my
 slackness to aspire.
 
 “Will you,” she said, “go backward or forward?” indicating with her
-hand, first, the small door of communication with the dwelling-house,
-and then the great double portals of the classes or schoolrooms.
+hand, first, the small door of communication with the dwelling-[[house]],
+and then the great [[Double|double]] portals of the classes or schoolrooms.
 
 “En avant,” I said.
 
@@ -117,7 +117,7 @@ you face the classes, or are you over-excited?”
 She sneered slightly in saying this: nervous excitability was not much
 to Madame’s taste.
 
-“I am no more excited than this stone,” I said, tapping the flag with
+“I am no more excited than this stone,” I said, tapping the [[Flag|flag]] with
 my toe: “or than you,” I added, returning her look.
 
 “Bon! But let me tell you these are not quiet, decorous, English girls
@@ -134,5 +134,5 @@ ignorant. Still I mean to give the lesson.”
 
 “I know that too, Madame; I have heard how they rebelled against and
 persecuted Miss Turner”—a poor friendless English teacher, whom Madame
-had employed, and lightly discarded; and to whose piteous history I was
+had employed, and lightly discarded; and to whose piteous [[history]] I was
 no stranger.

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 32 (part 3)"
+title: "[[Shirley]] — Chapter 32 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,7 +24,7 @@ Being seated, he takes from his satchel a book--not the Latin grammar,
 
 but a contraband volume of fairy tales. There will be light enough yet
 
-for an hour to serve his keen young vision. Besides, the moon waits on
+for an hour to serve his keen young vision. Besides, the [[Moon|moon]] waits on
 
 him; her beam, dim and vague as yet, fills the glade where he sits.
 
@@ -32,11 +32,11 @@ him; her beam, dim and vague as yet, fills the glade where he sits.
 
 He reads. He is led into a solitary mountain region; all round him is
 
-rude and desolate, shapeless, and almost colourless. He hears bells
+rude and desolate, shapeless, and almost colourless. He hears [[Bells|bells]]
 
-tinkle on the wind. Forth-riding from the formless folds of the mist
+tinkle on the [[Wind|wind]]. Forth-riding from the formless folds of the mist
 
-dawns on him the brightest vision--a green-robed lady, on a snow-white
+dawns on him the brightest vision--a green-robed lady, on a [[Snow|snow]]-white
 
 palfrey. He sees her dress, her gems, and her steed. She arrests him
 
@@ -70,7 +70,7 @@ Looking up and forward, he sees, at the bleak point of the reef, a tall,
 
 pale thing--shaped like man, but made of spray--transparent, tremulous,
 
-awful. It stands not alone. They are all human figures that wanton in
+awful. It stands not [[Alone|alone]]. They are all human figures that wanton in
 
 the rocks--a crowd of foam-women--a band of white, evanescent Nereids.
 
@@ -78,7 +78,7 @@ the rocks--a crowd of foam-women--a band of white, evanescent Nereids.
 
 Hush! Shut the book; hide it in the satchel. Martin hears a tread. He
 
-listens. No--yes. Once more the dead leaves, lightly crushed, rustle on
+listens. No--yes. Once more the dead [[Leaves|leaves]], lightly crushed, rustle on
 
 the wood path. Martin watches; the trees part, and a woman issues
 
@@ -90,7 +90,7 @@ She is a lady dressed in dark silk, a veil covering her face. Martin
 
 never met a lady in this wood before--nor any female, save, now and
 
-then, a village girl come to gather nuts. To-night the apparition does
+then, a village girl come to gather nuts. To-[[Night|night]] the apparition does
 
 not displease him. He observes, as she approaches, that she is neither
 
@@ -98,7 +98,7 @@ old nor plain, but, on the contrary, very youthful; and, but that he now
 
 recognizes her for one whom he has often wilfully pronounced ugly, he
 
-would deem that he discovered traits of beauty behind the thin gauze of
+would deem that he discovered traits of [[Beauty|beauty]] behind the thin gauze of
 
 that veil.
 
@@ -124,7 +124,7 @@ that he blushed when thus addressed; yet blush he did, to the ears.
 
 
 
-"I am," he said bluntly, and encouraged himself to wonder,
+"I am," he said bluntly, and encouraged himself to [[Wonder|wonder]],
 
 superciliously, what would come next.
 
@@ -138,7 +138,7 @@ It could not have been more felicitous. It was a simple sentence--very
 
 artlessly, a little timidly, pronounced; but it chimed in harmony to the
 
-youth's nature. It stilled him like a note of music.
+youth's [[Nature|nature]]. It stilled him like a note of music.
 
 
 
@@ -164,9 +164,9 @@ perfectly in place.
 
 
 
-"Are your father and mother well?" (it was lucky she did not say _papa_
+"Are your father and mother [[Well|well]]?" (it was lucky she did not say _papa_
 
-and _mamma_; that would have undone all); "and Rose and Jessie?"
+and _mamma_; that would have undone all); "and [[Rose]] and Jessie?"
 
 
 
@@ -194,13 +194,13 @@ was likely to be held by the young Yorkes.
 
 
 
-"They suit so well about the servants they can't help liking each
+"They suit so [[Well|well]] about the servants they can't help liking each
 
 other."
 
 
 
-"It is cold to-night."
+"It is cold to-[[Night|night]]."
 
 
 
@@ -248,7 +248,7 @@ to make an experiment.
 
 
 
-"Going to die. Nothing can save him. All hope flung overboard!"
+"Going to die. Nothing can save him. All [[Hope|hope]] flung overboard!"
 
 
 
@@ -270,7 +270,7 @@ The questioner, perhaps, did nor hear this judgment. She stood
 
 motionless. In two minutes, without another word, she moved forwards; no
 
-good-night, no further inquiry. This was not amusing, nor what Martin
+good-[[Night|night]], no further inquiry. This was not amusing, nor what Martin
 
 had calculated on. He expected something dramatic and demonstrative. It
 

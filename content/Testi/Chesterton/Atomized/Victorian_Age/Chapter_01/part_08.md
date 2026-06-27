@@ -16,11 +16,11 @@ tags:
 
 sceptical omissions, with the grisly Old Testament God he had heard
 
-about in the black Sabbaths of his childhood; and so promulgated
+about in the black Sabbaths of his [[Childhood|childhood]]; and so promulgated
 
-(against both Rationalists and Catholics) a sort of heathen Puritanism:
+(against both Rationalists and Catholics) a sort of heathen [[Puritanism]]:
 
-Protestantism purged of its evidences of Christianity.
+Protestantism purged of its evidences of [[Christianity]].
 
 
 
@@ -28,11 +28,11 @@ His great and real work was the attack on Utilitarianism: which did real
 
 good, though there was much that was muddled and dangerous in the
 
-historical philosophy which he preached as an alternative. It is his
+historical [[philosophy]] which he preached as an alternative. It is his
 
 real glory that he was the first to see clearly and say plainly the
 
-great truth of our time; that the wealth of the state is not the
+great [[Truth|truth]] of our [[Time|time]]; that the wealth of the state is not the
 
 prosperity of the people. Macaulay and the Mills and all the regular run
 
@@ -40,7 +40,7 @@ of the Early Victorians, took it for granted that if Manchester was
 
 getting richer, we had got hold of the key to comfort and progress.
 
-Carlyle pointed out (with stronger sagacity and humour than he showed on
+Carlyle pointed out (with stronger sagacity and [[Humour|humour]] than he showed on
 
 any other question) that it was just as true to say that Manchester was
 
@@ -52,19 +52,19 @@ pleasing people in Manchester. In this matter he is to be noted in
 
 connection with national developments much later; for he thus became the
 
-first prophet of the Socialists. _Sartor Resartus_ is an admirable
+first [[Prophet|prophet]] of the Socialists. _Sartor Resartus_ is an admirable
 
 fantasia; _The French Revolution_ is, with all its faults, a really
 
-fine piece of history; the lectures on Heroes contain some masterly
+fine piece of [[history]]; the lectures on Heroes contain some masterly
 
 sketches of personalities. But I think it is in _Past and Present_, and
 
-the essay on _Chartism_, that Carlyle achieves the work he was chosen by
+the [[Essay|essay]] on _Chartism_, that Carlyle achieves the work he was chosen by
 
 gods and men to achieve; which possibly might not have been achieved by
 
-a happier or more healthy-minded man. He never rose to more deadly irony
+a happier or more healthy-minded man. He never [[Rose|rose]] to more deadly irony
 
 than in such _macabre_ descriptions as that of the poor woman proving
 
@@ -82,7 +82,7 @@ at all.... He that accuses us of producing, let him show himself. Let
 
 him say what and when." And he never wrote so sternly and justly as when
 
-he compared the "divine sorrow" of Dante with the "undivine sorrow" of
+he compared the "divine sorrow" of [[Dante]] with the "undivine sorrow" of
 
 Utilitarianism, which had already come down to talking about the
 
@@ -104,7 +104,7 @@ cockney cheerfulness of the cheaper economists, they and others
 
 represented him as a pessimist, and reduced all his azure infinities to
 
-a fit of the blues. But Carlyle's philosophy, more carefully considered,
+a fit of the blues. But Carlyle's [[philosophy]], more carefully considered,
 
 will be found to be dangerously optimist rather than pessimist. As a
 
@@ -114,13 +114,13 @@ satisfied. For he seems to have held the theory that good could not be
 
 definitely defeated in this world; and that everything in the long run
 
-finds its right level. It began with what we may call the "Bible of
+finds its right level. It began with what we may call the "[[Bible]] of
 
-History" idea: that all affairs and politics were a clouded but unbroken
+[[history|History]]" idea: that all affairs and politics were a clouded but unbroken
 
 revelation of the divine. Thus any enormous and unaltered human
 
-settlement--as the Norman Conquest or the secession of America--we must
+settlement--as the Norman Conquest or the secession of [[america|America]]--we must
 
 suppose to be the will of God. It lent itself to picturesque treatment;
 
@@ -130,7 +130,7 @@ gave them at first a rhetorical advantage over the Catholic and other
 
 older schools. They could boast that their Creator was still creating;
 
-that he was in Man and Nature, and was not hedged round in a Paradise or
+that he was in Man and [[Nature]], and was not hedged round in a Paradise or
 
 imprisoned in a pyx. They could say their God had not grown too old for
 
@@ -144,7 +144,7 @@ defend their position. But they said things to the same effect: that
 
 what manages finally to happen, happens for a higher purpose. Carlyle
 
-said the French Revolution was a thing settled in the eternal councils
+said the [[French Revolution]] was a thing settled in the eternal councils
 
 to be; and therefore (and not because it was right) attacking it was
 
@@ -162,9 +162,9 @@ the side of the big battalions--or at least, of the victorious ones.
 
 Thus a creed which set out to create conquerors would only corrupt
 
-soldiers; corrupt them with a craven and unsoldierly worship of success:
+soldiers; corrupt them with a craven and unsoldierly worship of [[success]]:
 
-and that which began as the philosophy of courage ends as the philosophy
+and that which began as the [[philosophy]] of [[Courage|courage]] ends as the [[philosophy]]
 
 of cowardice. If, indeed, Carlyle were right in saying that right is
 
@@ -178,12 +178,12 @@ Anti-Utilitarian element, is to be kept in mind in connection with after
 
 developments: for in this Carlyle is the first cry of Imperialism, as
 
-(in the other case) of Socialism: and the two babes unborn who stir at
+(in the other case) of Socialism: and the two babes [[unborn]] who stir at
 
-the trumpet are Mr. Bernard Shaw and Mr. Rudyard Kipling. Kipling also
+the trumpet are Mr. Bernard [[Shaw]] and Mr. Rudyard Kipling. Kipling also
 
 carries on from Carlyle the concentration on the purely Hebraic parts of
 
-the Bible. The fallacy of this whole philosophy is that if God is indeed
+the [[Bible]]. The fallacy of this whole [[philosophy]] is that if God is indeed
 
 present at a modern battle, He may be present not as on Gilboa but

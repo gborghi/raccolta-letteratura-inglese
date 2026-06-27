@@ -20,15 +20,15 @@ under the circumstances, would have been so considerate and sparing as
 you have been to me just now. Do you care to be thanked?’
 
 ‘Thanks are always worth having,’ said Mrs Boffin, in her ready good
-nature.
+[[Nature|nature]].
 
 ‘Then thank you both.’
 
 ‘Sophronia,’ asked her husband, mockingly, ‘are you sentimental?’
 
-‘Well, well, my good sir,’ Mr Boffin interposed, ‘it’s a very good
-thing to think well of another person, and it’s a very good thing to be
-thought well of BY another person. Mrs Lammle will be none the worse for
+‘[[Well]], [[Well|well]], my good sir,’ Mr Boffin interposed, ‘it’s a very good
+thing to think [[Well|well]] of another person, and it’s a very good thing to be
+thought [[Well|well]] of BY another person. Mrs Lammle will be none the worse for
 it, if she is.’
 
 ‘Much obliged. But I asked Mrs Lammle if she was.’
@@ -48,11 +48,11 @@ until they vanished into Mr Boffin’s waistcoat pocket. Then he directed
 a look, half exasperated and half jeering, at his wife. She still stood
 sketching; but, as she sketched, there was a struggle within her, which
 found expression in the depth of the few last lines the parasol point
-indented into the table-cloth, and then some tears fell from her eyes.
+indented into the table-cloth, and then some [[Tears|tears]] fell from her eyes.
 
 ‘Why, confound the woman,’ exclaimed Lammle, ‘she _is_ sentimental.’
 
-She walked to the window, flinching under his angry stare, looked out
+She walked to the [[Window|window]], flinching under his angry stare, looked out
 for a moment, and turned round quite coldly.
 
 ‘You have had no former cause of complaint on the sentimental score,
@@ -61,7 +61,7 @@ We go abroad soon, with the money we have earned here?’
 
 ‘You know we do; you know we must.’
 
-‘There is no fear of my taking any sentiment with me. I should soon be
+‘There is no [[Fear|fear]] of my taking any sentiment with me. I should soon be
 eased of it, if I did. But it will be all left behind. It IS all left
 behind. Are you ready, Alfred?’
 
@@ -70,7 +70,7 @@ behind. Are you ready, Alfred?’
 ‘Let us go then. I am sorry I have delayed our dignified departure.’
 
 She passed out and he followed her. Mr and Mrs Boffin had the curiosity
-softly to raise a window and look after them as they went down the long
+softly to raise a [[Window|window]] and look after them as they went down the long
 street. They walked arm-in-arm, showily enough, but without appearing
 to interchange a syllable. It might have been fanciful to suppose that
 under their outer bearing there was something of the shamed air of two

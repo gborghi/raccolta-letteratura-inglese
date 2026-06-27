@@ -1,5 +1,5 @@
 ---
-title: "manalive — Chapter 4 (part 1)"
+title: "[[manalive]] — Chapter 4 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manalive-(Chesterton)"
@@ -21,30 +21,30 @@ tags:
 
 
 "A modern man," said Dr. Cyrus Pym, "must, if he be thoughtful,
-approach the problem of marriage with some caution.
-Marriage is a stage--doubtless a suitable stage--in the long
+approach the problem of [[Marriage|marriage]] with some caution.
+[[Marriage]] is a stage--doubtless a suitable stage--in the long
 advance of mankind towards a goal which we cannot as yet conceive;
-which we are not, perhaps, as yet fitted even to desire.
-What, gentlemen, is the ethical position of marriage?
+which we are not, perhaps, as yet fitted even to [[Desire|desire]].
+What, gentlemen, is the ethical position of [[Marriage|marriage]]?
 Have we outlived it?"
 
-"Outlived it?" broke out Moon; "why, nobody's ever survived it!
+"Outlived it?" broke out [[Moon]]; "why, nobody's ever survived it!
 Look at all the people married since Adam and Eve--and all
 as dead as mutton."
 
-"This is no doubt an inter-pellation joc'lar in its character,"
-said Dr. Pym frigidly.  "I cannot tell what may be Mr. Moon's
-matured and ethical view of marriage--"
+"This is no [[Doubt|doubt]] an inter-pellation joc'lar in its character,"
+said Dr. Pym frigidly.  "I cannot tell what may be Mr. [[Moon]]'s
+matured and ethical view of [[Marriage|marriage]]--"
 
-"I can tell," said Michael savagely, out of the gloom.  "Marriage is a duel
-to the death, which no man of honour should decline."
+"I can tell," said [[Michael]] savagely, out of the gloom.  "[[Marriage]] is a duel
+to the [[Death|death]], which no man of [[Honour|honour]] should decline."
 
-"Michael," said Arthur Inglewood in a low voice, "you MUST keep quiet."
+"[[Michael]]," said [[arthur|Arthur]] Inglewood in a low voice, "you MUST keep quiet."
 
-"Mr. Moon," said Pym with exquisite good temper, "probably regards
+"Mr. [[Moon]]," said Pym with exquisite good temper, "probably regards
 the institution in a more antiquated manner.  Probably he would make
-it stringent and uniform.  He would treat divorce in some great soul
-of steel--the divorce of a Julius Caesar or of a Salt Ring Robinson--
+it stringent and uniform.  He would treat [[divorce]] in some great [[Soul|soul]]
+of steel--the [[divorce]] of a [[Julius Caesar]] or of a Salt Ring Robinson--
 exactly as he would treat some no-account tramp or labourer who
 scoots from his wife.  Science has views broader and more humane.
 Just as murder for the scientist is a thirst for absolute destruction,
@@ -53,7 +53,7 @@ so polygamy for the scientist is an extreme development of the instinct
 for variety.  A man thus afflicted is incapable of constancy.
 Doubtless there is a physical cause for this flitting from flower to flower--
 as there is, doubtless, for the intermittent groaning which appears
-to afflict Mr. Moon at the present moment.  Our own world-scorning
+to afflict Mr. [[Moon]] at the present moment.  Our own world-scorning
 Winterbottom has even dared to say, `For a certain rare and fine
 physical type polygamy is but the realization of the variety of females,
 as comradeship is the realization of the variety of males.'
@@ -101,7 +101,7 @@ visionary aunt had been the dancing will-o'-the-wisp
 who had led many a high-souled maiden to her doom.
 Into how many virginal ears has he whispered that holy word?
 When he said `aunt' there glowed about her all the merriment
-and high morality of the Anglo-Saxon home.  Kettles began to hum,
+and high [[morality]] of the Anglo-Saxon [[Home|home]].  Kettles began to hum,
 pussy cats to purr, in that very wild cab that was being
 driven to destruction."
 
@@ -110,8 +110,8 @@ denizen of the eastern hemisphere has found), that the American was
 not only perfectly serious, but was really eloquent and affecting--
 when the difference of the hemispheres was adjusted.
 
-"It is therefore atrociously evident that the man Smith has at
-least represented himself to one innocent female of this house
+"It is therefore atrociously evident that the man [[smith|Smith]] has at
+least represented himself to one [[Innocent|innocent]] female of this [[house]]
 as an eligible bachelor, being, in fact, a married man.  I agree with
 my colleague, Mr. Gould, that no other crime could approximate to this.
 As to whether what our ancestors called purity has any ultimate ethical
@@ -120,7 +120,7 @@ But what hesitation can there be about the baseness of a citizen
 who ventures, by brutal experiments upon living females, to anticipate
 the verdict of science on such a point?
 
-"The woman mentioned by Curate Percy as living with Smith
+"The woman mentioned by Curate Percy as living with [[smith|Smith]]
 in Highbury may or may not be the same as the lady he married
 in Maidenhead.  If one short sweet spell of constancy and heart
 repose interrupted the plunging torrent of his profligate life,
@@ -130,4 +130,4 @@ and deeper into the shaking quagmires of infidelity and shame."
 
 Dr. Pym closed his eyes, but the unfortunate fact that there was no more
 light left this familiar signal without its full and proper moral effect.
-After a pause, which almost partook of the character of prayer, he continued.
+After a pause, which almost partook of the character of [[prayer]], he continued.

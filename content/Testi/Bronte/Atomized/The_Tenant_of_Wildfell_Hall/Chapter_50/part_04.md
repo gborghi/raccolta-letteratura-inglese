@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 50 (part 4)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 50 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -30,7 +30,7 @@ Some wondered at his taste; some even ridiculed it—but in this their
 
 folly was more apparent than his. The lady was about his own
 
-age—_i.e._, between thirty and forty—remarkable neither for beauty, nor
+age—_i.e._, between thirty and forty—remarkable neither for [[Beauty|beauty]], nor
 
 wealth, nor brilliant accomplishments; nor any other thing that I ever
 
@@ -42,9 +42,9 @@ qualities, however, as you may readily imagine, combined to render her
 
 an excellent mother to the children, and an invaluable wife to his
 
-lordship. _He_, with his usual self-depreciation, thought her a world
+lordship. _He_, with his usual [[Self|self]]-depreciation, thought her a world
 
-too good for him, and while he wondered at the kindness of Providence
+too good for him, and while he wondered at the kindness of [[Providence]]
 
 in conferring such a gift upon him, and even at her taste in preferring
 
@@ -82,7 +82,7 @@ As for Mr. Hattersley, he had never wholly forgotten his resolution to
 
 “come out from among them,” and behave like a man and a Christian, and
 
-the last illness and death of his once jolly friend Huntingdon so
+the last illness and [[Death|death]] of his once jolly friend Huntingdon so
 
 deeply and seriously impressed him with the evil of their former
 

@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 57 (part 1)"
+title: "Bleak [[house|House]] — Chapter 57 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -25,8 +25,8 @@ speak to him and learn what had happened, he told me, after a word or
 two of preparation, that there had been a discovery at Sir Leicester
 Dedlock’s. That my mother had fled, that a person was now at our door
 who was empowered to convey to her the fullest assurances of
-affectionate protection and forgiveness if he could possibly find
-her, and that I was sought for to accompany him in the hope that my
+affectionate protection and [[Forgiveness|forgiveness]] if he could possibly find
+her, and that I was sought for to accompany him in the [[Hope|hope]] that my
 entreaties might prevail upon her if his failed. Something to this
 general purpose I made out, but I was thrown into such a tumult of
 alarm, and hurry and distress, that in spite of every effort I could
@@ -40,16 +40,16 @@ also explained how it was that he had come to think of me. Mr.
 Bucket, in a low voice, by the light of my guardian’s candle, read to
 me in the hall a letter that my mother had left upon her table; and I
 suppose within ten minutes of my having been aroused I was sitting
-beside him, rolling swiftly through the streets.
+beside him, [[rolling]] swiftly through the streets.
 
 His manner was very keen, and yet considerate when he explained to me
 that a great deal might depend on my being able to answer, without
 confusion, a few questions that he wished to ask me. These were,
 chiefly, whether I had had much communication with my mother (to whom
-he only referred as Lady Dedlock), when and where I had spoken with
+he only referred as [[Lady Dedlock]]), when and where I had spoken with
 her last, and how she had become possessed of my handkerchief. When I
 had satisfied him on these points, he asked me particularly to
-consider—taking time to think—whether within my knowledge there was
+consider—taking [[Time|time]] to think—whether within my knowledge there was
 any one, no matter where, in whom she might be at all likely to
 confide under circumstances of the last necessity. I could think of
 no one but my guardian. But by and by I mentioned Mr. Boythorn. He
@@ -67,10 +67,10 @@ to understand it.
 
 We had not driven very far from our lodgings when we stopped in a
 by-street at a public-looking place lighted up with gas. Mr. Bucket
-took me in and sat me in an arm-chair by a bright fire. It was now
-past one, as I saw by the clock against the wall. Two police
+took me in and sat me in an arm-chair by a bright [[Fire|fire]]. It was now
+past one, as I saw by the [[Clock|clock]] against the wall. Two police
 officers, looking in their perfectly neat uniform not at all like
-people who were up all night, were quietly writing at a desk; and the
+people who were up all [[Night|night]], were quietly writing at a desk; and the
 place seemed very quiet altogether, except for some beating and
 calling out at distant doors underground, to which nobody paid any
 attention.
@@ -89,26 +89,26 @@ with the greatest dispatch and without the waste of a moment; yet
 nobody was at all hurried. As soon as the paper was sent out upon its
 travels, the two officers resumed their former quiet work of writing
 with neatness and care. Mr. Bucket thoughtfully came and warmed the
-soles of his boots, first one and then the other, at the fire.
+soles of his boots, first one and then the other, at the [[Fire|fire]].
 
-“Are you well wrapped up, Miss Summerson?” he asked me as his eyes
-met mine. “It’s a desperate sharp night for a young lady to be out
+“Are you [[Well|well]] wrapped up, Miss Summerson?” he asked me as his eyes
+met mine. “It’s a desperate sharp [[Night|night]] for a young lady to be out
 in.”
 
 I told him I cared for no weather and was warmly clothed.
 
-“It may be a long job,” he observed; “but so that it ends well, never
+“It may be a long job,” he observed; “but so that it ends [[Well|well]], never
 mind, miss.”
 
-“I pray to heaven it may end well!” said I.
+“I pray to heaven it may end [[Well|well]]!” said I.
 
 He nodded comfortingly. “You see, whatever you do, don’t you go and
 fret yourself. You keep yourself cool and equal for anything that may
 happen, and it’ll be the better for you, the better for me, the
-better for Lady Dedlock, and the better for Sir Leicester Dedlock,
+better for [[Lady Dedlock]], and the better for [[Sir Leicester Dedlock]],
 Baronet.”
 
-He was really very kind and gentle, and as he stood before the fire
+He was really very kind and gentle, and as he stood before the [[Fire|fire]]
 warming his boots and rubbing his face with his forefinger, I felt a
 confidence in his sagacity which reassured me. It was not yet a
 quarter to two when I heard horses’ feet and wheels outside. “Now,
@@ -121,17 +121,17 @@ box. The man in uniform whom he had sent to fetch this equipage then
 handed him up a dark lantern at his request, and when he had given a
 few directions to the driver, we rattled away.
 
-I was far from sure that I was not in a dream. We rattled with great
+I was far from sure that I was not in [[A Dream|a dream]]. We rattled with great
 rapidity through such a labyrinth of streets that I soon lost all
 idea where we were, except that we had crossed and re-crossed the
-river, and still seemed to be traversing a low-lying, waterside,
+[[River|river]], and still seemed to be traversing a low-lying, waterside,
 dense neighbourhood of narrow thoroughfares chequered by docks and
 basins, high piles of warehouses, swing-bridges, and masts of ships.
 At length we stopped at the corner of a little slimy turning, which
-the wind from the river, rushing up it, did not purify; and I saw my
+the [[Wind|wind]] from the [[River|river]], rushing up it, did not purify; and I saw my
 companion, by the light of his lantern, in conference with several
 men who looked like a mixture of police and sailors. Against the
 mouldering wall by which they stood, there was a bill, on which I
-could discern the words, “Found Drowned”; and this and an inscription
+could discern the words, “Found Drowned”; and this and an [[Inscription|inscription]]
 about drags possessed me with the awful suspicion shadowed forth in
 our visit to that place.

@@ -14,25 +14,25 @@ tags:
 </nav>
 
 
-I protested a short time ago against the abominable slander
+I protested a short [[Time|time]] ago against the abominable slander
 of suggesting that most Americans are like these people.
 Most Americans laugh at them, even more derisively and destructively
-than we do.  America may be a country of strange sects, but it
-is also a country of almost continuous satire on strange sects.
-Nobody needs to add anything to the satire of Mark Twain
+than we do.  [[America]] may be a country of strange sects, but it
+is also a country of almost continuous [[Satire|satire]] on strange sects.
+Nobody needs to add anything to the [[Satire|satire]] of Mark Twain
 and some more recent writers on people like Mrs. Eddy.
-But it is worthy of remark that America has given birth, among many
+But it is worthy of remark that [[America]] has given birth, among many
 other strange sects, to this strange sect of the commercial optimist,
 who may perhaps be best defined as the Unrealist.  The creed is perhaps
-the corruption of many good things, of the ancient American hope
-and pioneering courage gone wild.  But, as there seems a tendency,
+the corruption of many good things, of the ancient American [[Hope|hope]]
+and pioneering [[Courage|courage]] gone wild.  But, as there seems a tendency,
 even in England, to boost this mere religion of boosting,
 an Englishman may be allowed to protest that it is preposterously
-unsuited to England and is not really respected even in America.
+unsuited to England and is not really respected even in [[America]].
 Christian Science may or may not start with the assumption
 that God is in His heaven and all is right with the world;
-it is a subject for a respectful debate with Christian Scientists.
-But Christianity emphatically began with the assumptions
+it is a subject for a respectful [[debate]] with Christian Scientists.
+But [[Christianity]] emphatically began with the assumptions
 that God has come on earth because all is wrong with the world;
 and from those two things the whole Christian theory proceeds.
 
@@ -42,13 +42,13 @@ I NEED not say what any normal Englishman feels, or ought to feel,
 when he sails up the St. Lawrence, under the high trophies
 on the Heights of Abraham, and I have never affected any new
 abnormality about such feeling.  My thoughts, when I was there,
-went back in one flash to the little town in the hills of Kent
+went back in one flash to the little town in the hills of [[Kent]]
 where I had been but a few weeks before:  the little town
 where James Wolfe was born and where his statue still stands,
-sword in hand, in a romantic but not inappropriate swagger.
+[[Sword|sword]] in hand, in a romantic but not inappropriate swagger.
 For Wolfe, who was one of the most interesting of English heroes,
 was himself a flat contradiction to the vulgar and prosaic version
-of English heroism.  It is strange that people should ever have
+of English [[Heroism|heroism]].  It is strange that people should ever have
 talked of the English as if they must be heavy, stupid, and brutal.
 It is still more astounding that they should ever have been
 proud of being heavy, stupid, and brutal.  It would be nothing
@@ -70,9 +70,9 @@ with what is called the artistic temperament.  Nelson suffered
 from something which is even worse than the artistic temperament--
 sea-sickness. Wolfe was of the slight and high-strung sort, and owed
 nothing of his bravery to brutality.  He was himself, I believe,
-an artist with the pencil, of considerable felicity and talent:
+an [[Artist|artist]] with the pencil, of considerable felicity and talent:
 he was devoted to books, and, whether he did or did not quote
-Gray's Elegy as he sailed up the St. Lawrence to death and glory,
+Gray's [[elegy|Elegy]] as he sailed up the St. Lawrence to [[Death|death]] and glory,
 it was exactly the sort of thing he would have done.  But there is
 another aspect of the fine culture and dignity in Wolfe and the earlier
 English heroes which seems to me to teach a sad but salutary lesson.
@@ -81,26 +81,26 @@ I had never heard before, which moved me very much.  With all our
 talk of globe-trotting and sightseeing, it seems to me that some
 of the finest sights of the globe are neglected or not appreciated.
 It was only by such a casual stranger that I was once told,
-what I hope is the truth, that on the mountain range between two
+what I [[Hope|hope]] is the [[Truth|truth]], that on the mountain range between two
 South American Republics, which had made peace with each other,
-there stands a colossal figure of Christ; apparently one of the largest,
+there stands a colossal figure of [[Christ]]; apparently one of the largest,
 and surely one of the most impressive, statues in the world.
-But it stands, if it does stand, alone and enormous upon the mountains.
+But it stands, if it does stand, [[Alone|alone]] and enormous upon the [[Mountains|mountains]].
 
 Somewhat in the same way I had seen many tributes to Wolfe,
 of a worthy or unworthy sort.  I had seen him in patriotic posters,
 figuring side by side with people whom he would have intensely disliked,
 such as Cecil Rhodes.  But it was only this chance information
 which informed me that a monument has been set up on that high
-place to Wolfe and Montcalm together, with a fine Latin inscription
-saying that fate gave to them the same death and the same honour.
+place to Wolfe and Montcalm together, with a fine Latin [[Inscription|inscription]]
+saying that fate gave to them the same [[Death|death]] and the same [[Honour|honour]].
 
 And when I thought of that worthy commemoration, of those two great
-and gallant soldiers, it occurred to me that they were, in truth,
+and gallant soldiers, it occurred to me that they were, in [[Truth|truth]],
 nearer together, even in their lifetime, than most of their kindred
 are to-day. There were real differences, of course; Montcalm was
 a noble and Wolfe a man of the middle classes, risen by merit;
-but their notion of the manners, the code of honour, and the necessary
+but their notion of the manners, the code of [[Honour|honour]], and the necessary
 information of a gentleman would have been very much the same.
 Neither would have thought it odd for a soldier to go about
 quoting poetry; both would have thought it quite ordinary and obvious

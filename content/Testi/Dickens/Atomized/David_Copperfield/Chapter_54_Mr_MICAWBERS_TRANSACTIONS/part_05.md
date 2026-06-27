@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 5)"
+title: "[[David Copperfield]] — Chapter 54: Mr. MICAWBER’S TRANSACTIONS (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-My aunt remained quiet; until again some stray tears found their way to
+My aunt remained quiet; until again some stray [[Tears|tears]] found their way to
 her cheeks. ‘You are quite right,’ she said. ‘It was very thoughtful to
 mention it.’
 
@@ -25,7 +25,7 @@ threat! Let us have Mr. and Mrs. Micawber back. And don’t any of you
 speak to me!’ With that she smoothed her dress, and sat, with her
 upright carriage, looking at the door.
 
-‘Well, Mr. and Mrs. Micawber!’ said my aunt, when they entered. ‘We have
+‘[[Well]], Mr. and Mrs. Micawber!’ said my aunt, when they entered. ‘We have
 been discussing your emigration, with many apologies to you for keeping
 you out of the room so long; and I’ll tell you what arrangements we
 propose.’
@@ -37,13 +37,13 @@ all bill transactions, that he could not be dissuaded from immediately
 rushing out, in the highest spirits, to buy the stamps for his notes of
 hand. But, his joy received a sudden check; for within five minutes,
 he returned in the custody of a sheriff’s officer, informing us, in
-a flood of tears, that all was lost. We, being quite prepared for this
-event, which was of course a proceeding of Uriah Heep’s, soon paid the
+a flood of [[Tears|tears]], that all was lost. We, being quite prepared for this
+event, which was of course a proceeding of [[Uriah Heep]]’s, soon paid the
 money; and in five minutes more Mr. Micawber was seated at the table,
 filling up the stamps with an expression of perfect joy, which only
 that congenial employment, or the making of punch, could impart in full
 completeness to his shining face. To see him at work on the stamps, with
-the relish of an artist, touching them like pictures, looking at them
+the relish of an [[Artist|artist]], touching them like pictures, looking at them
 sideways, taking weighty notes of dates and amounts in his pocket-book,
 and contemplating them when finished, with a high sense of their
 precious value, was a sight indeed.
@@ -55,36 +55,36 @@ occupation for evermore.’
 ‘Madam,’ replied Mr. Micawber, ‘it is my intention to register such a
 vow on the virgin page of the future. Mrs. Micawber will attest it. I
 trust,’ said Mr. Micawber, solemnly, ‘that my son Wilkins will ever bear
-in mind, that he had infinitely better put his fist in the fire, than
-use it to handle the serpents that have poisoned the life-blood of his
+in mind, that he had infinitely better put his fist in the [[Fire|fire]], than
+use it to handle the serpents that have poisoned the life-[[Blood|blood]] of his
 unhappy parent!’ Deeply affected, and changed in a moment to the image
-of despair, Mr. Micawber regarded the serpents with a look of gloomy
+of [[Despair|despair]], Mr. Micawber regarded the serpents with a look of gloomy
 abhorrence (in which his late admiration of them was not quite subdued),
 folded them up and put them in his pocket.
 
 This closed the proceedings of the evening. We were weary with sorrow
-and fatigue, and my aunt and I were to return to London on the morrow.
+and fatigue, and my aunt and I were to return to [[London]] on the morrow.
 It was arranged that the Micawbers should follow us, after effecting a
 sale of their goods to a broker; that Mr. Wickfield’s affairs should be
-brought to a settlement, with all convenient speed, under the direction
-of Traddles; and that Agnes should also come to London, pending those
-arrangements. We passed the night at the old house, which, freed from
+brought to a settlement, with all convenient [[Speed|speed]], under the direction
+of Traddles; and that Agnes should also come to [[London]], pending those
+arrangements. We passed the [[Night|night]] at the old [[house]], which, freed from
 the presence of the Heeps, seemed purged of a disease; and I lay in my
-old room, like a shipwrecked wanderer come home.
+old room, like a shipwrecked wanderer come [[Home|home]].
 
-We went back next day to my aunt’s house--not to mine--and when she and
-I sat alone, as of old, before going to bed, she said:
+We went back next day to my aunt’s [[house]]--not to mine--and when she and
+I sat [[Alone|alone]], as of old, before going to bed, she said:
 
 ‘Trot, do you really wish to know what I have had upon my mind lately?’
 
-‘Indeed I do, aunt. If there ever was a time when I felt unwilling that
+‘Indeed I do, aunt. If there ever was a [[Time|time]] when I felt unwilling that
 you should have a sorrow or anxiety which I could not share, it is now.’
 
-‘You have had sorrow enough, child,’ said my aunt, affectionately,
+‘You have had sorrow enough, [[Child|child]],’ said my aunt, affectionately,
 ‘without the addition of my little miseries. I could have no other
 motive, Trot, in keeping anything from you.’
 
-‘I know that well,’ said I. ‘But tell me now.’
+‘I know that [[Well|well]],’ said I. ‘But tell me now.’
 
 ‘Would you ride with me a little way tomorrow morning?’ asked my aunt.
 
@@ -93,10 +93,10 @@ motive, Trot, in keeping anything from you.’
 ‘At nine,’ said she. ‘I’ll tell you then, my dear.’
 
 At nine, accordingly, we went out in a little chariot, and drove to
-London. We drove a long way through the streets, until we came to one of
+[[London]]. We drove a long way through the streets, until we came to one of
 the large hospitals. Standing hard by the building was a plain hearse.
 The driver recognized my aunt, and, in obedience to a motion of her hand
-at the window, drove slowly off; we following.
+at the [[Window|window]], drove slowly off; we following.
 
 ‘You understand it now, Trot,’ said my aunt. ‘He is gone!’
 
@@ -104,11 +104,11 @@ at the window, drove slowly off; we following.
 
 ‘Yes.’
 
-She sat immovable beside me; but, again I saw the stray tears on her
+She sat immovable beside me; but, again I saw the stray [[Tears|tears]] on her
 face.
 
 ‘He was there once before,’ said my aunt presently. ‘He was ailing a
-long time--a shattered, broken man, these many years. When he knew his
+long [[Time|time]]--a shattered, broken man, these many years. When he knew his
 state in this last illness, he asked them to send for me. He was sorry
 then. Very sorry.’
 
@@ -116,24 +116,24 @@ then. Very sorry.’
 
 ‘I went. I was with him a good deal afterwards.’
 
-‘He died the night before we went to Canterbury?’ said I. My aunt
+‘He died the [[Night|night]] before we went to Canterbury?’ said I. My aunt
 nodded. ‘No one can harm him now,’ she said. ‘It was a vain threat.’
 
 We drove away, out of town, to the churchyard at Hornsey. ‘Better here
 than in the streets,’ said my aunt. ‘He was born here.’
 
-We alighted; and followed the plain coffin to a corner I remember well,
-where the service was read consigning it to the dust.
+We alighted; and followed the plain coffin to a corner I remember [[Well|well]],
+where the service was read consigning it to the [[Dust|dust]].
 
 ‘Six-and-thirty years ago, this day, my dear,’ said my aunt, as we
 walked back to the chariot, ‘I was married. God forgive us all!’ We took
-our seats in silence; and so she sat beside me for a long time, holding
-my hand. At length she suddenly burst into tears, and said:
+our seats in [[Silence|silence]]; and so she sat beside me for a long [[Time|time]], holding
+my hand. At length she suddenly burst into [[Tears|tears]], and said:
 
 ‘He was a fine-looking man when I married him, Trot--and he was sadly
 changed!’
 
-It did not last long. After the relief of tears, she soon became
+It did not last long. After the relief of [[Tears|tears]], she soon became
 composed, and even cheerful. Her nerves were a little shaken, she said,
 or she would not have given way to it. God forgive us all!
 
@@ -152,7 +152,7 @@ Micawber:
 enveloped in impenetrable mists, and for ever withdrawn from the eyes of
 a drifting wretch whose Doom is sealed!
 
-‘Another writ has been issued (in His Majesty’s High Court of King’s
+‘Another writ has been issued (in His Majesty’s High [[Court]] of [[King]]’s
 Bench at Westminster), in another cause of HEEP V. MICAWBER, and
 the defendant in that cause is the prey of the sheriff having legal
 jurisdiction in this bailiwick.
@@ -160,14 +160,14 @@ jurisdiction in this bailiwick.
      ‘Now’s the day, and now’s the hour,
      See the front of battle lower,
      See approach proud EDWARD’S power--
-     Chains and slavery!
+     [[Chains]] and [[Slavery|slavery]]!
 
 ‘Consigned to which, and to a speedy end (for mental torture is not
 supportable beyond a certain point, and that point I feel I have
 attained), my course is run. Bless you, bless you! Some future
 traveller, visiting, from motives of curiosity, not unmingled, let us
-hope, with sympathy, the place of confinement allotted to debtors in
-this city, may, and I trust will, Ponder, as he traces on its wall,
+[[Hope|hope]], with sympathy, the place of confinement allotted to debtors in
+this [[City|city]], may, and I trust will, Ponder, as he traces on its wall,
 inscribed with a rusty nail,
 
                               ‘The obscure initials,
@@ -175,6 +175,6 @@ inscribed with a rusty nail,
                                    ‘W. M.
 
 ‘P.S. I re-open this to say that our common friend, Mr. Thomas Traddles
-(who has not yet left us, and is looking extremely well), has paid the
+(who has not yet left us, and is looking extremely [[Well|well]]), has paid the
 debt and costs, in the noble name of Miss Trotwood; and that myself and
 family are at the height of earthly bliss.’

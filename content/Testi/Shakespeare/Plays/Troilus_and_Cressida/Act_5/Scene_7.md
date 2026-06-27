@@ -1,5 +1,5 @@
 ---
-title: "Troilus and Cressida — Act V, Scene 7"
+title: "[[Troilus]] and [[Cressida]] — Act V, Scene 7"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/TROILUS-AND-CRESSIDA-(Shakespeare)"
@@ -16,5 +16,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Achilles with Myrmidons |
-| ACHILLES | Come here about me, you my Myrmidons.<br>Mark what I say. Attend me where I wheel;<br>Strike not a stroke, but keep yourselves in breath,<br>And when I have the bloody Hector found,<br>Empale him with your weapons round about.<br>In fellest manner execute your arms.<br>Follow me, sirs, and my proceedings eye.<br>It is decreed Hector the great must die. Exeunt |
+| *(didascalia)* | Enter [[Achilles]] with Myrmidons |
+| [[Achilles|ACHILLES]] | Come here about me, you my Myrmidons.<br>Mark what I say. Attend me where I [[Wheel|wheel]];<br>Strike not a stroke, but keep yourselves in breath,<br>And when I have the bloody [[Hector]] found,<br>Empale him with your weapons round about.<br>In fellest manner execute your arms.<br>Follow me, sirs, and my proceedings eye.<br>It is decreed [[Hector]] the great must die. Exeunt |

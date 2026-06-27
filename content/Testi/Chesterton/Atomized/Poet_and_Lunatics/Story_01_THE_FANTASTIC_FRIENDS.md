@@ -17,26 +17,26 @@ tags:
 THE FANTASTIC FRIENDS
 
 THE inn called the Rising Sun had an exterior rather suggesting
-the title of the Setting Sun.  It stood in a narrow triangle of garden,
+the title of the Setting Sun.  It stood in a narrow triangle of [[Garden|garden]],
 more grey than green, with broken-down hedges mingling with
-the melancholy reeds of a river; with a few dark and dank arbours,
+the [[Melancholy|melancholy]] reeds of a [[River|river]]; with a few dark and dank arbours,
 of which the roofs and the seats had alike collapsed; and a dingy
-dried-up fountain, with a weather-stained water-nymph and no water.
-The house itself seemed rather devoured by ivy than decorated with it;
+dried-up fountain, with a weather-stained [[Water|water]]-nymph and no [[Water|water]].
+The [[house]] itself seemed rather devoured by ivy than decorated with it;
 as if its old bones of brown brick were slowly broken by the dragon
 coils of that gigantic parasite.  On the other side it looked on a
-lonely road leading across the hills down to a ford across the river;
+lonely [[Road|road]] leading across the hills down to a ford across the [[River|river]];
 now largely disused since the building of a bridge lower down.
 Outside the door was a wooden bench and table, and above it a wooden sign,
 much darkened, with the gold of the sun's disc faded to a brown;
-and under the sign stood the inn-keeper, gazing gloomily up the road.
+and under the sign stood the inn-keeper, gazing gloomily up the [[Road|road]].
 His hair was black and flat, and his face, of a congested purple,
-had all the sombreness, if not all the beauty, of sunset.
+had all the sombreness, if not all the [[Beauty|beauty]], of sunset.
 
 The only person in the place who exhibited any liveliness was the person
 who was leaving it.  He was the first and last customer for many months;
-a solitary swallow who had conspicuously failed to make a summer;
-and the swallow was now flitting.  He was a medical man on a holiday;
+a solitary [[Swallow|swallow]] who had conspicuously failed to make a [[Summer|summer]];
+and the [[Swallow|swallow]] was now flitting.  He was a medical man on a holiday;
 young, and of an agreeable ugliness, with a humorous hatchet
 face and red hair; and the cat-like activity of his movements
 contrasted with the stagnant inertia of the inn by the ford.
@@ -45,7 +45,7 @@ and neither his host, who stood a yard off, nor the single servant,
 who moved heavily and obscurely within, offered to help him;
 possibly through sulkiness, possibly merely through dreaminess and disuse.
 
-The long silence, idle or busy, was broken for the first time
+The long [[Silence|silence]], idle or busy, was broken for the first [[Time|time]]
 by two sharp and explosive sounds.  The first was the abrupt
 bursting of the strap which the doctor was tightening round the bag
 on the table; and the second was the loud and cheerful "Damn!"
@@ -55,11 +55,11 @@ which was his comment upon it.
 by the name of Garth; "I shall have to tie it up with something.
 Have you got a cord or a rope or anything?"
 
-The melancholy inn-keeper turned very slowly and went indoors,
+The [[Melancholy|melancholy]] inn-keeper turned very slowly and went indoors,
 coming out presently with a length of dusty rope in a loop like a halter,
-probably for tethering a donkey or a calf.
+probably for tethering a [[donkey]] or a calf.
 
-"That's all I've got," he said; "I'm pretty well at the end of my
+"That's all I've got," he said; "I'm pretty [[Well|well]] at the end of my
 own tether anyhow."
 
 "You seem a bit depressed," observed Dr. Garth; "you probably want
@@ -69,7 +69,7 @@ a tonic.  Perhaps this medicine chest burst open to give you one."
 answered the landlord of the Rising Sun.
 
 "I never recommend it," observed the doctor cheerfully.
-"It's very pleasant at the moment, no doubt; but I never feel I
+"It's very pleasant at the moment, no [[Doubt|doubt]]; but I never feel I
 can guarantee a complete recovery afterwards.  But you certainly
 seem down in the mouth; you didn't even brighten up when I indulged
 in such an eccentricity as paying my bill."
@@ -77,26 +77,26 @@ in such an eccentricity as paying my bill."
 "Much obliged to you, sir," observed the other gruffly, "but it would
 want a lot more bills to keep this rotten old show from going to pot.
 It was a good business once, when the right-of-way was open beyond
-the river, and everybody used this ford.  But the last squire shut up
+the [[River|river]], and everybody used this ford.  But the last squire shut up
 the path somehow; and now everything goes by the new bridge a mile away.
 Nobody comes this way; and, saving your presence, I don't know
 why anybody should."
 
-"Well, they say the new squire is nearly bankrupt himself,"
-observed Dr. Garth.  "So history brings its revenges.
+"[[Well]], they say the new squire is nearly bankrupt himself,"
+observed Dr. Garth.  "So [[history]] brings its revenges.
 Westermaine's his name, isn't it?  I'm told there's a brother and sister
-living in the big house over there, with precious little to live on.
+living in the big [[house]] over there, with precious little to live on.
 I suppose the whole countryside's rather gone downhill.
 But you're wrong about nobody coming here," he added suddenly,
-"for there are two men coming over the hill now."
+"for there are two men coming over the [[Hill|hill]] now."
 
-The road ran across the valley at right angles to the river;
+The [[Road|road]] ran across the valley at right angles to the [[River|river]];
 beyond the ford the forgotten right-of-way could be traced more faintly
 up the slope to where the ruined gate that marked Westermaine Abbey stood
 dark against clouds of a pallor that was faintly lurid, as with a hint
-of storm.  But on the other side of the valley the sky was clear;
+of [[Storm|storm]].  But on the other side of the valley the sky was clear;
 and the early afternoon seemed as bright and brisk as morning.
-And on this side, where the white road curved over the hill,
+And on this side, where the white [[Road|road]] curved over the [[Hill|hill]],
 two figures were advancing, which seemed, even when they were hardly
 more than dots in the distance, to be markedly dissimilar.
 
@@ -112,7 +112,7 @@ and a pair of bright, bird-like eyes, that made it look like a
 small beak.  There was something of the cock sparrow about him;
 and, indeed, he seemed more of a town bird than a country bird.
 His clothes were as neat and commonplace as a clerk's; and he carried
-a business-like little bag as if he was going up to the City;
+a business-like little bag as if he was going up to the [[City]];
 while his tall companion had bundled on his back a loose knapsack,
 and what was evidently the paraphernalia of a painter.
 He had a long, slightly cadaverous face, with absent-minded eyes;
@@ -132,7 +132,7 @@ character had disappeared into his gloomy place of entertainment,
 he turned to the doctor with the same radiant loquacity:
 
 "My friend's a painter," he explained, "but rather a special sort
-of painter.  You might call him a house-painter; but he's not quite
+of painter.  You might call him a [[house]]-painter; but he's not quite
 what most people mean by one.  It may surprise you, sir, but he's
 an R.A., and not the stuffy sort that sometimes suggests, either.
 One of the first among the young geniuses, and exhibits at all
@@ -149,23 +149,23 @@ you were saying this morning about reviving the real inns.
 My friend is very poetical; and he said it would make a sunrise
 all over England."
 
-"Well, they say the sun never sets on the British Empire,"
+"[[Well]], they say the sun never sets on the British Empire,"
 observed the doctor, with a laugh.
 
 "I don't feel it about the Empire so much," said the painter simply,
-breaking his silence like one spontaneously thinking aloud.
+breaking his [[Silence|silence]] like one spontaneously thinking aloud.
 "After all, one doesn't fancy an English inn on the top of Mount Everest,
-or somewhere on the Suez Canal.  But one's life would be well spent
+or somewhere on the Suez Canal.  But one's life would be [[Well|well]] spent
 in waking up the dead inns of England and making them English
 and Christian again.  If I could do it, I would do nothing else
 till I die."
 
 "Of course you can do it," replied his travelling companion.
-"A picture by an artist like you, and hung outside a public-house,
+"A picture by an [[artist]] like you, and hung outside a public-[[house]],
 makes it fashionable for miles round."
 
 "Is it really true, then," inquired Dr. Garth, "that you employ
-all your serious powers on subjects like public-house signs?"
+all your serious powers on subjects like public-[[house]] signs?"
 
 "What finer subjects are there, even as subjects?" asked the painter;
 he was now evidently full of his favourite subject and he was one of
@@ -178,19 +178,19 @@ old noodle wearing his George and Garter than to paint St. George
 himself in the very act of killing the Dragon?  I've repainted
 six old signs of St. George and the Dragon, or even the Dragon
 without St. George; a sign called the Green Dragon is usually very
-suggestive to anybody with a little imagination; you can make him
+suggestive to anybody with a little [[Imagination|imagination]]; you can make him
 a sort of spirit and terror of tropical forests.  Even a Blue Boar
-is suggestive; something nocturnal with stars like the Great Bear;
-like that dim monstrous boar that stood for chaos and old night
+is suggestive; something nocturnal with [[Stars|stars]] like the Great Bear;
+like that dim monstrous boar that stood for chaos and old [[Night|night]]
 in the Celtic mythology."
 
 And he reached for his pewter pot, and applied himself to
 it with absorption.
 
-"He's a poet as well as a painter, you know," explained the smaller man,
+"He's a poet as [[Well|well]] as a painter, you know," explained the smaller man,
 still regarding his companion with an absurd air of proprietorship,
 as if he himself were the keeper and showman of some singular
-wild animal; "You've probably heard of the poems of Gabriel Gale,
+wild animal; "You've probably heard of the [[Poems|poems]] of Gabriel Gale,
 illustrated by himself?  I can get you a copy if you are interested
 in these things.  I'm his agent and business man; my name's Hurrel...
 James Hurrel.  People laugh at us and call us the Heavenly Twins,
@@ -203,14 +203,14 @@ fiery with controversy.
 "Genius oughtn't to be eccentric!" he cried in some excitement.
 "Genius ought to be centric.  It ought to be in the core of the cosmos,
 not on the revolving edges.  People seem to think it a compliment
-to accuse one of being an outsider, and to talk about the eccentricities
+to accuse one of being an [[Outsider|outsider]], and to talk about the eccentricities
 of genius.  What would they think, if I said I only wish to God I
 had the centricities of genius?"
 
-"I fear they would think it was the beer," replied Dr. Garth,
-"that had slightly confused your polysyllables.  Well, it may
+"I [[Fear|fear]] they would think it was the beer," replied Dr. Garth,
+"that had slightly confused your polysyllables.  [[Well]], it may
 be a romantic idea to revive the old signs, as you say.
-Romance is not much in my line."
+[[Romance]] is not much in my line."
 
 Mr. Hurrel, the agent, cut in sharply, and even eagerly.
 "But it isn't only a romantic idea," he explained; "it's a real,
@@ -218,28 +218,28 @@ practical idea, too.  I'm a business man, and you may believe me
 it's really a business proposition.  Not only for us, but for
 the other people too... for the inn-keepers and the villagers
 and the squires, and everybody.  Why, look at this broken-down
-ale-house they call the Rising Sun.  If everyone would work together,
+ale-[[house]] they call the Rising Sun.  If everyone would work together,
 they could have this empty hole humming like a hive in a year.
-If the squire would open the old road and let people visit the ruins,
+If the squire would open the old [[Road|road]] and let people visit the ruins,
 if he'd build a bridge here by the inn and hang out a sign painted
 by Gabriel Gale, you'd have all the cultivated sightseers in Europe
 stopping here for lunch."
 
 "Hullo!" cried the doctor.  "It looks as if they were coming
 to lunch already.  Really, our pessimistic friend inside talked
-as if this were a ruin in the desert; but I begin to believe it
+as if this were a ruin in the [[Desert|desert]]; but I begin to believe it
 does a trade like the Savoy."
 
-They had all been standing with their backs to the road, looking at
+They had all been standing with their backs to the [[Road|road]], looking at
 the dark tavern under discussion; but even before the doctor
 began to speak, Gabriel Gale, the painter and poet, had become
 in some odd fashion conscious of an addition to the company.
-Perhaps it was because the elongated shadows of a horse and two human
-figures had for some little time rested on the sunny road beside him.
+Perhaps it was because the elongated shadows of a [[Horse|horse]] and two human
+figures had for some little [[Time|time]] rested on the sunny [[Road|road]] beside him.
 He turned his head over his shoulder, and remained staring at
 what he saw.
 
-A high dog-cart had drawn up on the other side of the road.
+A high dog-cart had drawn up on the other side of the [[Road|road]].
 The reins were in the gloved hands of a tall, dark young lady,
 clad in dark blue of the tailor-made type, neat but not particularly new.
 By her side was a man, perhaps ten years older than herself,
@@ -247,16 +247,16 @@ but seeming in many ways much more, for his high-featured face
 was wasted as with sickness, and there was a great anxiety in his
 large grey eyes.
 
-In the momentary silence the clear voice of the girl came like an echo
+In the momentary [[Silence|silence]] the clear voice of the girl came like an echo
 of the doctor's phrase, saying:  "I am sure we can get some lunch here."
-She slipped lightly to the ground and stood by the horse's head,
+She slipped lightly to the ground and stood by the [[Horse|horse]]'s head,
 while her companion descended with a little more hesitation.
 He was dressed in light tweeds, which seemed somehow slightly
 incongruous with his invalid air, and he addressed Hurrel with a
 rather nervous smile.
 
-"I hope you won't regard me as an eavesdropper, sir; but you were
-not exactly speaking as if you were talking secrets."
+"I [[Hope|hope]] you won't regard me as an eavesdropper, sir; but you were
+not exactly speaking as if you were talking [[Secrets|secrets]]."
 
 Hurrel, indeed, had been talking as if he were a cheap-jack dominating
 the noise of the fair; and he smiled and answered quite pleasantly:
@@ -272,7 +272,7 @@ any squires nowadays."
 "I sincerely apologize," answered the agent, still smiling; "but, if you
 will play Haroun Alraschid..."
 
-"Oh, I'm not at all offended," answered the other.  "To tell the truth,
+"Oh, I'm not at all offended," answered the other.  "To tell the [[Truth|truth]],
 I'm rather wondering whether you aren't quite right."
 
 Gabriel Gale had been looking at the girl in dark blue rather longer than
@@ -280,7 +280,7 @@ was quite polite; but painters and absent-minded persons may sometimes
 be excused in such cases.  His friend would probably have infuriated
 him by calling it one of the eccentricities of genius, but it might
 have been disputed whether his admiration was entirely eccentric.
-Lady Diana Westermaine would have made a most satisfactory sign
+Lady [[Diana]] Westermaine would have made a most satisfactory sign
 for an inn... a bush worthy of the best wine... or might even have
 uplifted the lowly estate of an Academy picture, though it was long
 since her unfortunate family could have easily afforded one.
@@ -289,7 +289,7 @@ looked black, while the lights in it looked almost red; her dark
 eyebrows had a touch of temper both in the good and the bad sense;
 her eyes were even larger and greyer than her brother's, but less
 filled with mere worry and more with a more spiritual weariness.
-Gale had the sense that her soul was more hungry than her body.
+Gale had the sense that her [[Soul|soul]] was more hungry than her [[Body|body]].
 But he had also the thought that people are only hungry because they
 are healthy.  He thought all this in the brief moments before
 he remembered his manners, and turned to consider the other group.
@@ -307,7 +307,7 @@ Affairs which a man like Westermaine could never normally have
 conceived as being settled except by long lawyers' letters extending
 over several months, seemed to be arranging themselves before him
 in several minutes.  A new bridge of the most artistic woodwork
-seemed already to point across the river to the open road;
+seemed already to point across the [[River|river]] to the open [[Road|road]];
 a new and higher class of rents seemed already to be dotting the valley
 with artistic villages; and a new golden sign of the Rising Sun,
 with the signature of Gabriel Gale, already blazed above them,
@@ -316,14 +316,14 @@ a symbol that the sun had risen indeed.
 Before they knew where they were the whole company had been
 bustled in the most friendly fashion through the inn, and set
 down to a luncheon that was really a committee round the table
-in the dreary garden beside the river.  Hurrel was drawing plans
+in the dreary [[Garden|garden]] beside the [[River|river]].  Hurrel was drawing plans
 on the wooden table and making calculations on pieces of paper,
 and reeling off figures and answering objections and growing every
-moment more restless and radiant.  He had one piece of magic for making
+moment more restless and radiant.  He had one piece of [[Magic|magic]] for making
 others believe... the fact that he evidently believed himself;
 and the squire, who had never met such a person before, had no weapons
 with which to fight him, even if it had been his interest to do so.
-Amid all this whirl Lady Diana looked across at Gale, who sat at
+Amid all this whirl Lady [[Diana]] looked across at Gale, who sat at
 the opposite corner of the table, somewhat detached and dreamy.
 
 "What do you think of it, Mr. Gale?" she said; but Mr. Gale's
@@ -338,10 +338,10 @@ or what anybody says, for that matter.  He doesn't answer a question
 for about half an hour, as a rule."
 
 Nevertheless, the painter answered the lady's question under
-the time specified; but all he said was, "I think we ought to
+the [[Time|time]] specified; but all he said was, "I think we ought to
 consult the inn-keeper."
 
-"Oh, very well," cried the resilient Hurrel, leaping up.
+"Oh, very [[Well|well]]," cried the resilient Hurrel, leaping up.
 "I'll do that now, if you like.  Back in a minute."
 And he disappeared again through the dark interior of the inn.
 
@@ -355,10 +355,10 @@ comparative eclipse; but he only smiled and said:  "No, I'm no good
 at practical things."
 
 Almost as he spoke a noise like a sort of cry came through the inn
-from the road beyond, and Dr. Garth sprang to his feet and stood peering
+from the [[Road|road]] beyond, and Dr. Garth sprang to his feet and stood peering
 in at the door.  The next moment Gale also seemed to rouse himself
 with a sort of sudden agitation; and the moment after that the others
-were all following the doctor, who had already started through the house.
+were all following the doctor, who had already started through the [[house]].
 But when he came to the front door Gale turned for a moment,
 barring the exit with his tall figure, and said:
 
@@ -374,17 +374,17 @@ the first cry of alarm.  The man over whom the doctor was bending
 was the unfortunate inn-keeper; and this was apparently the form
 in which he took his prussic acid.
 
-After being busy in silence for a few moments, the doctor gave
+After being busy in [[Silence|silence]] for a few moments, the doctor gave
 a grunt of relief and said:
 
 "He's not dead; in fact he'll be all right presently."  Then he said,
 with a sort of disgust:  "Why the devil did I leave that rope
 there instead of tying up my bag like a tidy professional man?
-I forgot all about it in all this fuss.  Well, Mr. Hurrel, the sun
-nearly rose too late for somebody."
+I forgot all about it in all this fuss.  [[Well]], Mr. Hurrel, the sun
+nearly [[Rose|rose]] too late for somebody."
 
 Hurrel and the doctor carried the unfortunate inn-keeper into his inn,
-the latter declaring that the would-be suicide would soon be
+the latter declaring that the would-be [[suicide]] would soon be
 in a position to be questioned, if questioning was necessary.
 Gale paced up and down outside in his aimless fashion, frequently
 frowning at the sign that had served as a gallows (and the table
@@ -405,7 +405,7 @@ a moment, said with a certain abruptness:
 
 "Look here, I want to ask you a favour, which may seem an odd one.
 I want you to let me question this poor chap when he comes to.
-Give me ten minutes alone with him, and I will promise to cure him
+Give me ten minutes [[Alone|alone]] with him, and I will promise to cure him
 of suicidal mania better than a policeman could."
 
 "But why you especially?" asked the doctor, in some natural annoyance.
@@ -413,15 +413,15 @@ of suicidal mania better than a policeman could."
 "Because I am no good at practical things," answered Gale,
 "and you have got beyond practical things."
 
-There was another silence, and he spoke again with the same strange
+There was another [[Silence|silence]], and he spoke again with the same strange
 air of authority.
 
 "What you want is an unpractical man.  That is what people
 always want in the last resort and the worst conditions.
-What can practical men do here?  Waste their practical time
+What can practical men do here?  Waste their practical [[Time|time]]
 in running after the poor fellow and cutting him down from one pub
 sign after another?  Waste their practical lives watching him
-day and night, to see he doesn't get hold of a rope or a razor?
+day and [[Night|night]], to see he doesn't get hold of a rope or a razor?
 Do you call that practical?  You can only forbid him to die.
 Can you persuade him to live?  Believe me, that is where we come in.
 A man must have his head in the clouds and his wits wool-gathering
@@ -433,15 +433,15 @@ lessened when he actually or apparently fulfilled his undertaking,
 coming out of the inn twenty minutes afterwards, and cheerfully
 announcing that the inn-keeper would not hang himself again.
 The next moment he had jumped on to the table under the sign
-with a large piece of chalk in his hand, and was making sketchy
+with a large piece of [[chalk]] in his hand, and was making sketchy
 and slashing strokes of design on the brown face of the Rising Sun.
 
-Lady Diana was looking on at the operation with a dark and watchful face.
+Lady [[Diana]] was looking on at the operation with a dark and watchful face.
 She was of a type more intellectual than the others, and she
 recognized a real thread of thought running through all that seemed
 to them transcendental tomfoolery.  She had understood the implied
 irony of his first reference to their host; the moral that had come
-before the frightful fable.  After all, they had certainly been
+before the frightful [[Fable|fable]].  After all, they had certainly been
 thinking of everything about the inn except the inn-keeper. She
 could see there was an intelligent case, and a practical example,
 of the occasions when the poet can be more useful than the policeman.
@@ -449,22 +449,22 @@ But she was conscious also of something baffling about him above
 and beyond all this; of a disquiet in him with some deeper cause,
 and something in his eye that belied the new levity of his manner.
 His draughtsmanship, however, was proceeding in the most dashing
-and even dazzling fashion, when Lady Diana spoke:
+and even dazzling fashion, when Lady [[Diana]] spoke:
 
 "I can't think how you can do it," she said, "on the very place
 where a man has hung himself like Judas."
 
-"It was the treason, not the despair of Judas, that was really bad,"
+"It was the treason, not the [[Despair|despair]] of Judas, that was really bad,"
 he answered.  "I was just thinking of something like that for
-the picture.  I prefer it to Apollo and all that, for a treatment of
+the picture.  I prefer it to [[Apollo]] and all that, for a treatment of
 the sunrise.  Look here, you have a big head blocked in with some shadows,
 in the centre," and he made some bold markings on the sun's disc.
-"His dark face hidden in his hands like that, but a burst of golden dawn
+"His dark face hidden in his hands like that, but a burst of golden [[Dawn|dawn]]
 behind like a glory.  Red bars of level cloud and a red cock, just there.
 The greatest of sinners and of saints; his reproach the cock,
 and his halo the Rising Sun."
 
-The nameless shadow seemed to have fallen from him as he talked
+The nameless [[Shadow|shadow]] seemed to have fallen from him as he talked
 and worked; and by an almost symbolic coincidence the strong afternoon
 sun fell with a strange fullness and splendour upon him and his work,
 which shone out against a blackening background of clouds continually
@@ -478,20 +478,20 @@ in some distant period, about which she did not know too much.
 She felt herself back among the sacred arts and crafts of the
 medieval world; which were all she knew of the medieval world.
 
-Unfortunately, a shadow came between her and the sun in a shape
+Unfortunately, a [[Shadow|shadow]] came between her and the sun in a shape
 that did not remind her of the medieval world.  Mr. James Hurrel,
 the agent, his stiff hat a little on one side, jumped on to the same
-table on which the artist stood, and sat within two yards of him,
+table on which the [[artist]] stood, and sat within two yards of him,
 with dangling legs, and somewhat aggressive cigar.  "Always have
 to keep an eye on him, your ladyship, or he'd be giving 'em away,"
 he called out, and somehow his voice and figure failed to fit
 in with the picture of pious and primitive craftsmanship.
 
-Diana Westermaine explained to herself lucidly that she had no
+[[Diana]] Westermaine explained to herself lucidly that she had no
 sort of reason to be angry; but she was exceedingly angry.
 The conversation of the two had been of no particular intimacy;
 but its increase to three had a very practical and painful effect
-of intrusion.  She could not imagine why the artist, who was a gentleman,
+of intrusion.  She could not imagine why the [[artist]], who was a gentleman,
 should go about with such a little bounder as his business adviser;
 and she wanted to hear more about the picture of St. Peter,
 or something interesting.  As the agent sat down he had audibly
@@ -503,12 +503,12 @@ At this moment a much quieter voice said in her ear:  "Excuse me,
 but might I have one word with you?"
 
 She turned and found Dr. Garth, with his bag in his hand,
-evidently about to resume his journey at last.
+evidently about to resume his [[Journey|journey]] at last.
 
 "I'm going," he said, "and I feel I really ought to tell you
 something before I go."
 
-He drew her a little way up the road of his departure, and then
+He drew her a little way up the [[Road|road]] of his departure, and then
 turned with an abrupt and hurried air of farewell.
 
 "Doctors are often in delicate situations," he said, "and a troublesome
@@ -522,40 +522,40 @@ itself shining with its new accretion of colours, and the tall,
 actively moving figure, shining also with sunlight, and from that
 distance altogether dwarfing the small and dingy figure near his feet.
 There returned on her still more strongly the vision of a true creator,
-making pure colours in the innocent morning of the world.
+making pure colours in the [[Innocent|innocent]] morning of the world.
 
 "They are called the Heavenly Twins," went on the doctor,
-"because they are inseparable.  Well, there are many kinds of couples
+"because they are inseparable.  [[Well]], there are many kinds of couples
 that are inseparable, and many causes for their never separating.
 But there is one sort that specially concerns me, and I should be
 sorry to see mixed up with you."
 
-"I haven't the least idea what you mean," replied Lady Diana.
+"I haven't the least idea what you mean," replied Lady [[Diana]].
 
 "What about a lunatic and his keeper?" said the doctor, and walked
-on rapidly along the road, leaving her behind him.
+on rapidly along the [[Road|road]], leaving her behind him.
 
 She had the sensation of furiously flinging a suggestion from her,
-from the top of a high tower to the bottom of an abyss,
+from the top of a high tower to the [[Bottom|bottom]] of an abyss,
 combined with the sensation that the tower was not high enough nor
-the abyss deep enough; she even had the novel sensation that there
+the abyss deep enough; she even had the [[Novel|novel]] sensation that there
 was something weak about her throwing.  While the tower of her mind
 was still rocking with the effort, she was interrupted by her brother,
 who came hastily, and even excitedly, towards her.
 
 "I've just asked these gentlemen across to our place," he said,
 "to fix up this business better.  And we'd better be starting,
-for there's a storm beating up, and even the ford sometimes gets
-pretty dicky.  As it is, we shall have to cross two at a time
+for there's a [[Storm|storm]] beating up, and even the ford sometimes gets
+pretty dicky.  As it is, we shall have to [[Cross|cross]] two at a [[Time|time]]
 in our own rotten old cart."
 
 It was in a sort of dream that she found herself again untethering
-the horse and again taking the reins.  It was in a dream
+the [[Horse|horse]] and again taking the reins.  It was in [[A Dream|a dream]]
 that she heard the voice that irritated her so much saying,
 "Heavenly Twins, you know, Heavenly Twins; we mustn't be parted";
 and then the voice of the squire replying, "Oh, it'll only be
 for a minute, anyhow; she'll send Wilson back with the dog-cart
-at once.  There's only room for two at a time, I'm afraid."
+at once.  There's only room for two at a [[Time|time]], I'm afraid."
 They stood a little way back in the doorway of the inn as they talked,
 and Gabriel Gale had just stepped from the table and was standing
 nearer to the dog-cart.
@@ -564,45 +564,45 @@ Then there surged up in her suddenly she knew not what movement
 of impatience or defiance; and she said in a matter-of-fact tone:
 "Are you coming first, Mr. Gale?"
 
-The face of the artist blanched as if he were blasted with white
-lightning in the sun-light. He gave one look over his shoulder
-and then leapt into the seat beside her, and the horse threw up his
+The face of the [[artist]] blanched as if he were blasted with white
+[[Lightning|lightning]] in the sun-light. He gave one look over his shoulder
+and then leapt into the seat beside her, and the [[Horse|horse]] threw up his
 head and began to move towards the ford.  The rain must have already
-fallen further upstream, for there was already the sensation of water
-flowing more deeply about the horse's legs; and, though they were
-only fording a river, she had a hazy sensation of crossing a Rubicon.
+fallen further upstream, for there was already the sensation of [[Water|water]]
+flowing more deeply about the [[Horse|horse]]'s legs; and, though they were
+only fording a [[River|river]], she had a hazy sensation of crossing a Rubicon.
 
 Enoch Wilson, the groom, one of the small group left at Westermaine Abbey,
 died and was gathered to his fathers without having the faintest notion
-of the determining part which he played in the dark events of that night.
+of the determining part which he played in the dark events of that [[Night|night]].
 And his private life, though, like that of other immortal spirits,
 of an intense interest, does not in any other point affect this story.
 It is enough to say that he was rather deaf, and, like many grooms,
 more sympathetic with the moods of horses than of men.
-Lady Diana sought him out in the stable, which stood far from
-the house and near the river, and told him to take the dog-cart back
+Lady [[Diana]] sought him out in the stable, which stood far from
+the [[house]] and near the [[River|river]], and told him to take the dog-cart back
 for the rest of the party.  She spoke hurriedly and told him to hurry,
 because the rain would soon make the ford difficult; and her phrases,
 combined with his own bias, turned his mind chiefly to a consideration
-of the horse.  He drove across under the gathering storm,
+of the [[Horse|horse]].  He drove across under the gathering [[Storm|storm]],
 and as he drew near the dark inn he heard high and excited voices.
 Mr. Hurrel was evidently hot upon his hobby or campaign.
 The groom got the impression that there was a quarrel; and took a few
 testy words from his master as meaning that he was not to be disturbed.
-So the careful Wilson took the horse back across the ford and back
+So the careful Wilson took the [[Horse|horse]] back across the ford and back
 into the stable, congratulating himself on having saved the valuable
 quadruped from the worst inconveniences of what threatened to be a flood.
 Then he betook himself to his own occupations, leaving a trail
 of destiny behind him.
 
-Meanwhile Diana Westermaine had left the stable and made her way
+Meanwhile [[Diana]] Westermaine had left the stable and made her way
 across the grounds to rejoin the guest who had gone in front of her.
 As she went up through a lane of hollyhocks and tall plants,
 she saw the vast flying island or continent of rain cloud,
 with its volcanic hues and outline, come sailing slowly
 over the dark, wooded ridge that was the wall of the valley.
 There was already something faintly lurid about the twilight
-with which it covered the rich colours of the garden; but higher
+with which it covered the rich colours of the [[Garden|garden]]; but higher
 up the climbing path a strip of lawn was golden in a chance gleam
 of sunlight, and against it she saw the figure she had come to seek.
 She recognized it by the light-brown clothes that had looked
@@ -612,22 +612,22 @@ He seemed to be waving his arms slowly like branches in
 a breeze, and she fancied the arms were unnaturally long.
 For an instant she had the ugly fancy that the figure was deformed;
 and yet the more unearthly fancy that it had no head.
-Then the nightmare turned into ordinary nonsense, for the man
+Then the [[nightmare]] turned into ordinary nonsense, for the man
 threw a sort of cartwheel and alighted on his feet laughing.
 He had actually been standing on his head, or rather on his hands.
 
 "Excuse me," he said, "I often do that.  It's a very good thing
 for a landscape-painter to see the landscape upside down.
-He sees things then as they really are; yes, and that's true in philosophy
-as well as art."  He brooded and then explained explosively.
+He sees things then as they really are; yes, and that's true in [[philosophy]]
+as [[Well|well]] as art."  He brooded and then explained explosively.
 
-"It's all very well to talk about being topsy-turvy. But when
+"It's all very [[Well|well]] to talk about being topsy-turvy. But when
 the angels hang head downwards, we know they come from above.
 It's only those that come from below that always have their noses
 in the air."
 
 Despite his hilarious manner, she approached him with a certain
-sub-conscious fear; which was not lessened when he lowered his voice
+sub-conscious [[Fear|fear]]; which was not lessened when he lowered his voice
 and added:  "Shall I tell you a secret?"
 
 At the same moment were heard overhead the first heavy movements
@@ -635,10 +635,10 @@ of the thunder, through which his voice came, perhaps, with an
 accidental air as of loud whispering.
 
 "The world is upside down.  We're all upside down.  We're all flies
-crawling on a ceiling, and it's an everlasting mercy that we
+crawling on a ceiling, and it's an everlasting [[Mercy|mercy]] that we
 don't drop off."
 
-At that instant the twilight turned to a white blaze of lightning;
+At that instant the twilight turned to a white blaze of [[Lightning|lightning]];
 and she was shocked to see that his face was quite serious.
 
 She said with a sort of irritation, "You do say such crazy things,"
@@ -647,18 +647,18 @@ of the thunder, which seemed to shake everything, shouting the same
 word again and again... crazy, crazy, crazy.  She had unconsciously
 given a word for the worst thought in her mind.
 
-As yet no rain had fallen on the garden slopes, though the noise
-of it was already troubling the river beyond.  But even had it
+As yet no rain had fallen on the [[Garden|garden]] slopes, though the noise
+of it was already troubling the [[River|river]] beyond.  But even had it
 done so, she herself doubted if the man would have noticed it.
 Even in more normal moments he seemed to be one who singly pursued
 a solitary train of thought, and he was still talking, like a man
 talking to himself, about the rationality of topsy-turvydom.
 
 "We were talking about St. Peter," he said; "you remember that
-he was crucified upside down.  I've often fancied his humility was
-rewarded by seeing in death the beautiful vision of his boyhood.
-He also saw the landscape as it really is:  with the stars like flowers,
-and the clouds like hills, and all men hanging on the mercy of God."
+he was crucified upside down.  I've often fancied his [[Humility|humility]] was
+rewarded by seeing in [[Death|death]] the beautiful vision of his boyhood.
+He also saw the landscape as it really is:  with the [[Stars|stars]] like [[Flowers|flowers]],
+and the clouds like hills, and all men hanging on the [[Mercy|mercy]] of God."
 
 Then a heavy drop of rain fell on him; and the effect of it
 was indescribable.  It seemed to sting him like a wasp and wake
@@ -668,19 +668,19 @@ in a new and more natural voice:
 "My God, where is Hurrel?  What are the others doing?
 Aren't they here yet?"
 
-With an impulse not to be analysed, Diana dashed through the swaying
+With an impulse not to be analysed, [[Diana]] dashed through the swaying
 plants to the top of a neighbouring hillock, and looked across
 the valley to the inn of the Rising Sun.  And she saw flowing between
 them and that place a heavier and wider flood, which in that wild
-moment looked impassable, like the river of death.
+moment looked impassable, like the [[River|river]] of [[Death|death]].
 
 In a strange way it seemed to her a symbol of something
 greater than the mere grim realism that would have told her,
-now only too plainly, that she was left alone with a lunatic.
+now only too plainly, that she was left [[Alone|alone]] with a lunatic.
 Somehow it seemed that the lunacy itself was only a sort
 of abominable accident and obstacle between her and something
-that might have been beautiful and a satisfaction of the soul.
-Another dark river was flowing between her and her own fairyland.
+that might have been beautiful and a satisfaction of the [[Soul|soul]].
+Another dark [[River|river]] was flowing between her and her own fairyland.
 
 At the same moment Gabriel Gale gave a terrible cry; he also had
 seen afar off the sundering flood.
@@ -690,79 +690,79 @@ to speak of Peter.  I have blasphemed and done the unpardonable sin.
 I am the traitor now."  Then he added in lower and heavier tones:
 "Yes, I am the man who sold God."
 
-The girl's mind was growing clearer with the cold pain of reality.
+The girl's mind was growing clearer with the cold [[Pain|pain]] of reality.
 She had heard that maniacs sometimes accused themselves of the
-unpardonable sin.  Something of her natural courage returned also,
+unpardonable sin.  Something of her natural [[Courage|courage]] returned also,
 and she was ready to do anything, though she did not yet see
 very clearly what to do.  As she was fighting for a solution,
 the question was settled for her in some degree by her companion himself,
 who started running down the slope.
 
-"I must get across again if I swim the river," he said.
+"I must get across again if I swim the [[River|river]]," he said.
 "I ought never to be away from Hurrel like this.  I can never tell
 what will happen next."
 
 She followed his descent, and was rather surprised to see him deflect
 it to dart towards the stable.  Before she knew where she was,
-he was struggling with the horse and dragging it out into the shafts;
+he was struggling with the [[Horse|horse]] and dragging it out into the shafts;
 and she felt an irrational pleasure in the fact that he had
 the strength of a man, if it was the strength of a madman.
-But her own high spirit and self-respect had returned to her,
-and there rose in her a furious refusal to be a passive spectator
-of what might well be merely a suicide.  After all, however mad
+But her own high spirit and [[Self|self]]-respect had returned to her,
+and there [[Rose|rose]] in her a furious refusal to be a passive spectator
+of what might [[Well|well]] be merely a [[suicide]].  After all, however mad
 he might be, the man was doing the right thing in trying to rejoin
 his medical attendant; and she would not have the last effort
-of his sanity frustrated by the antics of his disease.
+of his [[Sanity|sanity]] frustrated by the antics of his disease.
 
 "I'll drive if we must," she said in a ringing tone.
 "He'll go better with me."
 
-The sun had set behind the hills opposite, and night was already
-deepening the darkness of the storm.  As the rocking vehicle splashed up
-to the hub of its wheel in the eddying water, she could only faintly see
-the long water-rushes streaming with the stream, as if they were indeed
-the shades of the underworld hovering without hope beside the Styx.
+The sun had set behind the hills opposite, and [[Night|night]] was already
+deepening the darkness of the [[Storm|storm]].  As the rocking vehicle splashed up
+to the hub of its [[Wheel|wheel]] in the eddying [[Water|water]], she could only faintly see
+the long [[Water|water]]-rushes streaming with the stream, as if they were indeed
+the shades of the underworld hovering without [[Hope|hope]] beside the Styx.
 But she had no longer need to call it, merely in metaphor,
-a river of death.  Death was driving hard against horse and cart,
+a [[River|river]] of [[Death|death]].  [[Death]] was driving hard against [[Horse|horse]] and cart,
 staggering the insecure foothold of the one, and swaying the human
 burden of the other; the thunder was about their ears, and on their
-dreadful path scarce any light but the lightning; and her human
+dreadful path scarce any light but the [[Lightning|lightning]]; and her human
 companion was a man uttering a monologue, of which she heard snatches,
 more shocking than the thunder.  All the reason and realism
 in her told her that he might at any moment tear her in pieces.
 But underneath all such things there was something else contrary
 and incredible; something in the need and the companionship,
-and the courage and heroism she was showing; and it was too deep
-in her dizzy soul for her to know that it was exultation.
+and the [[Courage|courage]] and [[Heroism|heroism]] she was showing; and it was too deep
+in her dizzy [[Soul|soul]] for her to know that it was exultation.
 
-The horse almost fell just as they came to the end of the ford,
-but Gale sprang from the cart and held it, standing knee-deep in water.
+The [[Horse|horse]] almost fell just as they came to the end of the ford,
+but Gale sprang from the cart and held it, standing knee-deep in [[Water|water]].
 
-In a lull in the noise of the storm she heard for the first
-time voices from the inn beside the river... voices high,
+In a lull in the noise of the [[Storm|storm]] she heard for the first
+[[Time|time]] voices from the inn beside the [[River|river]]... voices high,
 and even shrill, as if the altercation that the groom
-had heard had risen steadily like the rise of the storm.
+had heard had risen steadily like the rise of the [[Storm|storm]].
 Then there came what sounded like the crash of a falling chair.
-Gale dragged the horse to land with the energy of a demon,
+Gale dragged the [[Horse|horse]] to land with the energy of a demon,
 then dropped the bridle, and set off running towards the inn.
 
-Even as he did so a piercing shriek rose into the night from
-the doors of that solitary and sinister tavern by the river.
-It died away in a wailing echo along the reedy banks of the river itself,
-as if the reeds were indeed the lost spirits by the river of Hades;
+Even as he did so a piercing shriek [[Rose|rose]] into the [[Night|night]] from
+the doors of that solitary and sinister tavern by the [[River|river]].
+It died away in a wailing echo along the reedy banks of the [[River|river]] itself,
+as if the reeds were indeed the lost spirits by the [[River|river]] of Hades;
 and the very thunder seemed to have stopped and held its breath
 to hear it.  Then before the thunder moved again came one wide
-flash of lightning, as wide as an instantaneous daylight,
+flash of [[Lightning|lightning]], as wide as an instantaneous daylight,
 picking out the most minute details of the distance, of the branches
 and twigs upon the wooded heights, and the clover in the flat
-fields beside the river.  And with the same clarity she saw for an
+fields beside the [[River|river]].  And with the same clarity she saw for an
 instant something incredible and abominable, and yet not wholly
 new or unfamiliar... something that returned in the waking world
-as a detested nightmare will return in sleep.  It was the black
+as a detested [[nightmare]] will return in [[Sleep|sleep]].  It was the black
 figure of a man dangling from the painted gallows of the Rising Sun.
 But it was not the same man.
 
-Diana was convinced for the moment that she herself had gone mad.
+[[Diana]] was convinced for the moment that she herself had gone mad.
 She could only imagine dully that her own mind had snapped under
 the strain, and that the dark objects she saw were but dancing dots
 upon a void.  But one of those black dots had certainly seemed
@@ -774,14 +774,14 @@ and capering with excitement in front of that frightful signboard.
 
 Darkness followed the flash, and a moment after she heard the great voice
 of Gale himself, a larger and louder voice than she had imagined him
-to possess, bellowing through the darkness and the stress of wind.
+to possess, bellowing through the darkness and the stress of [[Wind|wind]].
 "It's all right... he's quite safe now."  Little as she understood
 of anything yet, she understood with a cold thrill that they had
-come just in time.
+come just in [[Time|time]].
 
 She was still dazed when she staggered somehow through the din and
 distraction of the tempest into the inn parlour, with a smoky lamp on
-the table, and the three figures of that frustrated tragedy around it.
+the table, and the three figures of that frustrated [[Tragedy|tragedy]] around it.
 The squire, her brother, in a sort of collapse of convalescence,
 sat or lay in an arm-chair with a stiff dose of brandy in front of him.
 Gabriel Gale was standing up, like one who had taken command,
@@ -789,15 +789,15 @@ with a face as white but as hard as marble.  He was speaking to the man
 named Hurrel in low level, and quiet tones, but with one finger pointed,
 as when a man speaks to a dog.
 
-"Go over there and sit by the window," he said.  "You must
+"Go over there and sit by the [[Window|window]]," he said.  "You must
 keep quite quiet."
 
 The man obeyed, taking a seat at the other end of the room,
-and looked out of the window at the storm, without hearing or seeking
+and looked out of the [[Window|window]] at the [[Storm|storm]], without hearing or seeking
 to hear the talk of the others.
 
-"What does it all mean?" asked Diana at last.  "I thought you...
-the truth is Dr. Garth gave me a hint that you were only a lunatic
+"What does it all mean?" asked [[Diana]] at last.  "I thought you...
+the [[Truth|truth]] is Dr. Garth gave me a hint that you were only a lunatic
 and his keeper."
 
 "And so we are, as you see," answered Gale; "but the keeper has
@@ -809,7 +809,7 @@ behaved far worse than the lunatic."
 
 They had drawn nearer to the doorway, and their voices
 also were covered by the noise of the elements, so that they
-were almost as much alone as when they stood beyond the river.
+were almost as much [[Alone|alone]] as when they stood beyond the [[River|river]].
 She remembered the earlier dialogue, and the violent and mysterious
 language he had used in it; and she said doubtfully:
 
@@ -824,19 +824,19 @@ to be the only person who can manage this particular lunatic.
 It's a long story, and perhaps I shall tell it some day.
 This poor fellow once did me a great service, and I feel I can
 only repay it by looking after him and saving him from the infernal
-brutality of officials.  You see, the truth is they say I
-have a talent for it... a sort of psychological imagination.
+brutality of officials.  You see, the [[Truth|truth]] is they say I
+have a talent for it... a sort of psychological [[Imagination|imagination]].
 I generally know what they're going to do or fancy next.
 I've known a lot of them, one way or another... religious
 maniacs who thought they were divine or damned, or what not,
 and revolutionary maniacs, who believed in dynamite or doing
 without clothes; or philosophical lunatics, of whom I could tell
 you some tall stories, too... men who behaved as if they lived
-in another world and under different stars, as I suppose they did.
+in another world and under different [[Stars|stars]], as I suppose they did.
 But of all the maniacs I have tried to manage, the maddest of all
 maniacs was the man of business."
 
-He smiled rather sourly, and then the tragedy returned to his face
+He smiled rather sourly, and then the [[Tragedy|tragedy]] returned to his face
 as he went on:
 
 "As for your other question, I may have talked wildly against myself,
@@ -859,24 +859,24 @@ with the sense of a whole new world surging up against her.
 "Ah, why," he repeated with a changed voice; "but I think
 you know why.  It is not your fault, but you know why.
 You know what has often made a sentinel leave his post.
-You know what brought Troilus out of Troy and perhaps Adam out of Eden.
+You know what brought [[Troilus]] out of Troy and perhaps Adam out of Eden.
 And I have neither the need nor the right to tell you."
 
 She stood looking out into the darkness, and her face wore
 a singular smile.
 
-"Well, there's the other story you promised to tell some day,"
+"[[Well]], there's the other story you promised to tell some day,"
 she said.  "Perhaps you will tell it me if we meet again."
 And she held out her hand in farewell.
 
 The sinister and fantastic partners had set off again next morning
-when the sun first shone upon the road; the storm had rolled away along
-the valley and the birds were singing after the rain.  Stranger things
+when the sun first shone upon the [[Road|road]]; the [[Storm|storm]] had rolled away along
+the valley and the [[Birds|birds]] were singing after the rain.  Stranger things
 yet were to happen before he and she should meet again; but for
 the moment she had a curious relapse into repose and contemplation.
 She reminded herself of the words about the world being upside down;
 and thought it had indeed turned upside down many times in that
-single night.  And she could not analyse the sensation that,
+single [[Night|night]].  And she could not analyse the sensation that,
 in spite of everything, it had come the right side up.
 
 

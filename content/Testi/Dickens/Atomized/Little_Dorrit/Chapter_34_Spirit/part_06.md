@@ -19,7 +19,7 @@ tags:
 ‘What is it to me, sir? I have a--hum--a spirit, sir, that will not
 endure it. I,’ he took out his pocket-handkerchief again and dabbed his
 face. ‘I am outraged and insulted by it. Let me suppose the case that I
-myself may at a certain time--ha--or times, have made a--hum--an appeal,
+myself may at a certain [[Time|time]]--ha--or times, have made a--hum--an appeal,
 and a properly-worded appeal, and a delicate appeal, and an urgent
 appeal to some individual for a small temporary accommodation. Let me
 suppose that that accommodation could have been easily extended, and was
@@ -32,7 +32,7 @@ account be calmed. He said his spirit was up, and wouldn’t endure this.
 
 Was he to be told that, he wished to know again, by his own son on his
 own hearth, to his own face? Was that humiliation to be put upon him by
-his own blood?
+his own [[Blood|blood]]?
 
 ‘You are putting it on yourself, father, and getting into all this
 injury of your own accord!’ said the young gentleman morosely. ‘What I
@@ -46,26 +46,26 @@ nothing else should, in laying down such--ha--such unnatural principles.
 Besides; if you are not filial, sir, if you discard that duty, you
 are at least--hum--not a Christian? Are you--ha--an Atheist? And is it
 Christian, let me ask you, to stigmatise and denounce an individual
-for begging to be excused this time, when the same individual
-may--ha--respond with the required accommodation next time? Is it the
+for begging to be excused this [[Time|time]], when the same individual
+may--ha--respond with the required accommodation next [[Time|time]]? Is it the
 part of a Christian not to--hum--not to try him again?’ He had worked
 himself into quite a religious glow and fervour.
 
-‘I see precious well,’ said Mr Tip, rising, ‘that I shall get no
-sensible or fair argument here to-night, and so the best thing I can do
-is to cut. Good night, Amy. Don’t be vexed. I am very sorry it happens
-here, and you here, upon my soul I am; but I can’t altogether part with
+‘I see precious [[Well|well]],’ said Mr Tip, rising, ‘that I shall get no
+sensible or fair argument here to-[[Night|night]], and so the best thing I can do
+is to cut. Good [[Night|night]], Amy. Don’t be vexed. I am very sorry it happens
+here, and you here, upon my [[Soul|soul]] I am; but I can’t altogether part with
 my spirit, even for your sake, old girl.’
 
 With those words he put on his hat and went out, accompanied by Miss
 Fanny; who did not consider it spirited on her part to take leave of
 Clennam with any less opposing demonstration than a stare, importing
-that she had always known him for one of the large body of conspirators.
+that she had always known him for one of the large [[Body|body]] of conspirators.
 
 When they were gone, the Father of the Marshalsea was at first inclined
 to sink into despondency again, and would have done so, but that a
 gentleman opportunely came up within a minute or two to attend him to
-the Snuggery. It was the gentleman Clennam had seen on the night of his
+the Snuggery. It was the gentleman Clennam had seen on the [[Night|night]] of his
 own accidental detention there, who had that impalpable grievance about
 the misappropriated Fund on which the Marshal was supposed to batten.
 He presented himself as deputation to escort the Father to the Chair, it
@@ -82,7 +82,7 @@ Clennam besought him not to delay a moment.
 leave the honours of our poor apology for an establishment with
 confidence in your hands, and perhaps you may do something towards
 erasing from Mr Clennam’s mind the--ha--untoward and unpleasant
-circumstance which has occurred since tea-time.’
+circumstance which has occurred since tea-[[Time|time]].’
 
 Clennam assured him that it had made no impression on his mind, and
 therefore required no erasure.

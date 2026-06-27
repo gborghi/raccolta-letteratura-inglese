@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 24 (part 6)"
+title: "[[Shirley]] — Chapter 24 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -22,9 +22,9 @@ the bays of Australia ere I forget."
 
 
 
-And the child lulled the parent, as the parent had erst lulled the
+And the [[Child|child]] lulled the parent, as the parent had erst lulled the
 
-child. At last Mrs. Pryor wept. She then grew calmer. She resumed those
+[[Child|child]]. At last Mrs. Pryor wept. She then grew calmer. She resumed those
 
 tender cares agitation had for a moment suspended. Replacing her
 
@@ -42,23 +42,23 @@ to come into this room by-and-by. I want to hear him say that I am your
 
 daughter. And, mamma, take your supper here. Don't leave me for one
 
-minute to-night."
+minute to-[[Night|night]]."
 
 
 
-"O Caroline, it is well you are gentle! You will say to me, Go, and I
+"O Caroline, it is [[Well|well]] you are gentle! You will say to me, Go, and I
 
 shall go; Come, and I shall come; Do this, and I shall do it. You
 
-inherit a certain manner as well as certain features. It will always be
+inherit a certain manner as [[Well|well]] as certain features. It will always be
 
 'mamma' prefacing a mandate--softly spoken, though, from you, thank God!
 
-Well," she added, under her breath, "he spoke softly too, once, like a
+[[Well]]," she added, under her breath, "he spoke softly too, once, like a
 
 flute breathing tenderness; and then, when the world was not by to
 
-listen, discords that split the nerves and curdled the blood--sounds to
+listen, discords that split the nerves and curdled the [[Blood|blood]]--sounds to
 
 inspire insanity."
 
@@ -74,13 +74,13 @@ me be troublesome. Check me if I encroach."
 
 "You must not depend on me to check you; you must keep guard over
 
-yourself. I have little moral courage; the want of it is my bane. It is
+yourself. I have little moral [[Courage|courage]]; the want of it is my bane. It is
 
 that which has made me an unnatural parent--which has kept me apart from
 
-my child during the ten years which have elapsed since my husband's
+my [[Child|child]] during the ten years which have elapsed since my husband's
 
-death left me at liberty to claim her. It was that which first unnerved
+[[Death|death]] left me at liberty to claim her. It was that which first unnerved
 
 my arms and permitted the infant I might have retained a while longer to
 
@@ -100,7 +100,7 @@ portrait, taken at eight years old; that portrait confirmed my fears.
 
 Had it shown me a sunburnt little rustic--a heavy, blunt-featured,
 
-commonplace child--I should have hastened to claim you; but there, under
+commonplace [[Child|child]]--I should have hastened to claim you; but there, under
 
 the silver paper, I saw blooming the delicacy of an aristocratic
 
@@ -114,13 +114,13 @@ fairy-like representative. My sweet little lady overwhelmed me with
 
 dismay; her air of native elegance froze my very marrow. In my
 
-experience I had not met with truth, modesty, good principle as the
+experience I had not met with [[Truth|truth]], modesty, good principle as the
 
-concomitants of beauty. A form so straight and fine, I argued, must
+concomitants of [[Beauty|beauty]]. A form so straight and fine, I argued, must
 
-conceal a mind warped and cruel. I had little faith in the power of
+conceal a mind warped and cruel. I had little [[Faith|faith]] in the power of
 
-education to rectify such a mind; or rather, I entirely misdoubted my
+[[Education|education]] to rectify such a mind; or rather, I entirely misdoubted my
 
 own ability to influence it. Caroline, I dared not undertake to rear
 
@@ -144,9 +144,9 @@ unmolested. My married name recalled too vividly my married life; I
 
 could not bear it. Besides, threats were uttered of forcing me to return
 
-to bondage. It could not be. Rather a bier for a bed, the grave for a
+to bondage. It could not be. Rather a bier for a bed, the [[Grave|grave]] for a
 
-home. My new name sheltered me. I resumed under its screen my old
+[[Home|home]]. My new name sheltered me. I resumed under its screen my old
 
 occupation of teaching. At first it scarcely procured me the means of
 
@@ -156,7 +156,7 @@ safe seemed the darkness and chill of an unkindled hearth when no lurid
 
 reflection from terror crimsoned its desolation! How serene was
 
-solitude, when I feared not the irruption of violence and vice!"
+[[Solitude|solitude]], when I feared not the irruption of violence and vice!"
 
 
 
@@ -200,7 +200,7 @@ summoned him to his niece's apartment.
 
 
 
-"She's not worse, I hope?" he inquired hastily.
+"She's not worse, I [[Hope|hope]]?" he inquired hastily.
 
 
 

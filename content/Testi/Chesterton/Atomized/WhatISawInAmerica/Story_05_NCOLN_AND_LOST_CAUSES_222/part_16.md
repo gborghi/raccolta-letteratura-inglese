@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 16)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 16)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -30,13 +30,13 @@ even poor. They are the most powerful and practical world-combination
 
 with whom we can decide to be friends or foes; and that is why I thought
 
-first of that still and solid brown house in Buckinghamshire, standing
+first of that still and solid brown [[house]] in Buckinghamshire, standing
 
-back in the shadow of the trees.
+back in the [[Shadow|shadow]] of the trees.
 
 
 
-Among my impressions of America I have deliberately put first the figure
+Among my impressions of [[America]] I have deliberately put first the figure
 
 of the Irish-American interviewer, standing on the shore more symbolic
 
@@ -46,11 +46,11 @@ English lay in the fact of his being an Irishman, but there was also
 
 considerable interest in the circumstance of his being an interviewer.
 
-And as certain wild birds sometimes wing their way far out to sea and
+And as certain wild [[Birds|birds]] sometimes wing their way far out to sea and
 
 are the first signal of the shore, so the first Americans the traveller
 
-meets are often American interviewers; and they are generally birds of a
+meets are often American interviewers; and they are generally [[Birds|birds]] of a
 
 feather, and they certainly flock together. In this respect, there is a
 
@@ -64,7 +64,7 @@ nobody in the world would in the least wish to interview me. I should
 
 attract no more attention than the stone griffin opposite the Law
 
-Courts; both monsters being grotesque but also familiar. But supposing
+Courts; both monsters being [[Grotesque|grotesque]] but also familiar. But supposing
 
 for the sake of argument that anybody did want to interview me, it is
 
@@ -80,15 +80,15 @@ say stage thunder.
 
 
 
-But in America the fact of my landing and lecturing was evidently
+But in [[America]] the fact of my landing and lecturing was evidently
 
-regarded in the same light as a murder or a great fire, or any other
+regarded in the same light as a murder or a great [[Fire|fire]], or any other
 
 terrible but incurable catastrophe, a matter of interest to all pressmen
 
 concerned with practical events. One of the first questions I was asked
 
-was how I should be disposed to explain the wave of crime in New York.
+was how I should be disposed to explain the wave of crime in [[New York]].
 
 Naturally I replied that it might possibly be due to the number of
 
@@ -102,7 +102,7 @@ the moment, and even as a mood did not last more than a moment. And
 
 since it has reference to a rather common and a rather unjust conception
 
-of American journalism, I think it well to take it first as a fallacy to
+of American journalism, I think it [[Well|well]] to take it first as a fallacy to
 
 be refuted, though the refutation may require a rather longer approach.
 
@@ -128,27 +128,27 @@ feature that balances it. The ordinary examples are obvious enough. An
 
 Englishman dining inside a hotel on the boulevards thinks the French
 
-eccentric in refusing to open a window. But he does not think the
+eccentric in refusing to open a [[Window|window]]. But he does not think the
 
 English eccentric in refusing to carry their chairs and tables out on to
 
 the pavement in Ludgate Circus. An Englishman will go poking about in
 
-little Swiss or Italian villages, in wild mountains or in remote
+little Swiss or Italian villages, in wild [[Mountains|mountains]] or in remote
 
 islands, demanding tea; and never reflects that he is like a Chinaman
 
-who should enter all the wayside public-houses in Kent and Sussex and
+who should enter all the wayside public-houses in [[Kent]] and Sussex and
 
 demand opium. But the point is not merely that he demands what he cannot
 
 expect to enjoy; it is that he ignores even what he does enjoy. He does
 
-not realise the sublime and starry paradox of the phrase, _vin
+not realise the [[Sublime|sublime]] and starry [[Paradox|paradox]] of the phrase, _vin
 
 ordinaire_, which to him should be a glorious jest like the phrase
 
-'common gold' or 'daily diamonds.' These are the simple and self-evident
+'common gold' or 'daily diamonds.' These are the simple and [[Self|self]]-evident
 
 cases; but there are many more subtle cases of the same thing; of the
 
@@ -158,11 +158,11 @@ substitute; or corrects its own extravagance with its own precaution.
 
 The national antidote generally grows wild in the woods side by side
 
-with the national poison. If it did not, all the natives would be dead.
+with the national [[Poison|poison]]. If it did not, all the natives would be dead.
 
 For it is so, as I have said, that nations necessarily die of the
 
-undiluted poison called progress.
+undiluted [[Poison|poison]] called progress.
 
 
 
@@ -192,4 +192,4 @@ American journalists are supposed, with some exaggeration, to aim at. It
 
 might be more difficult for an Englishman to ask a total stranger on the
 
-spur of the moment for the exact inscription on his mother's grave; but
+spur of the moment for the exact [[Inscription|inscription]] on his mother's [[Grave|grave]]; but

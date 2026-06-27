@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 39: THIRTY NINE"
+title: "[[Martin Chuzzlewit]] — Chapter 39: THIRTY NINE"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -17,24 +17,24 @@ tags:
 CHAPTER THIRTY-NINE
 
 CONTAINING SOME FURTHER PARTICULARS OF THE DOMESTIC ECONOMY OF THE
-PINCHES; WITH STRANGE NEWS FROM THE CITY, NARROWLY CONCERNING TOM
+PINCHES; WITH STRANGE NEWS FROM THE [[City|CITY]], NARROWLY CONCERNING TOM
 
 
 Pleasant little Ruth! Cheerful, tidy, bustling, quiet little Ruth! No
-doll’s house ever yielded greater delight to its young mistress, than
+doll’s [[house]] ever yielded greater delight to its young mistress, than
 little Ruth derived from her glorious dominion over the triangular
 parlour and the two small bedrooms.
 
 To be Tom’s housekeeper. What dignity! Housekeeping, upon the commonest
 terms, associated itself with elevated responsibilities of all sorts and
 kinds; but housekeeping for Tom implied the utmost complication of
-grave trusts and mighty charges. Well might she take the keys out of
+[[Grave|grave]] trusts and mighty charges. [[Well]] might she take the keys out of
 the little chiffonier which held the tea and sugar; and out of the
 two little damp cupboards down by the fireplace, where the very black
 beetles got mouldy, and had the shine taken out of their backs by
 envious mildew; and jingle them upon a ring before Tom’s eyes when he
-came down to breakfast! Well might she, laughing musically, put them
-up in that blessed little pocket of hers with a merry pride! For it was
+came down to breakfast! [[Well]] might she, laughing musically, put them
+up in that blessed little pocket of hers with a merry [[Pride|pride]]! For it was
 such a grand novelty to be mistress of anything, that if she had been
 the most relentless and despotic of all little housekeepers, she might
 have pleaded just that much for her excuse, and have been honourably
@@ -44,7 +44,7 @@ So far from being despotic, however, there was a coyness about her very
 way of pouring out the tea, which Tom quite revelled in. And when
 she asked him what he would like to have for dinner, and faltered
 out ‘chops’ as a reasonably good suggestion after their last
-night’s successful supper, Tom grew quite facetious, and rallied her
+[[Night|night]]’s successful supper, Tom grew quite facetious, and rallied her
 desperately.
 
 ‘I don’t know, Tom,’ said his sister, blushing, ‘I am not quite
@@ -56,7 +56,7 @@ much as a beef-steak pudding!’ cried Tom, slapping his leg to give the
 greater force to this reply.
 
 ‘Yes, dear, that’s excellent! But if it should happen not to come quite
-right the first time,’ his sister faltered; ‘if it should happen not
+right the first [[Time|time]],’ his sister faltered; ‘if it should happen not
 to be a pudding exactly, but should turn out a stew, or a soup, or
 something of that sort, you’ll not be vexed, Tom, will you?’
 
@@ -77,7 +77,7 @@ of the saucepan at last, somehow or other, you know. We can’t cook it
 into nothing at all; that’s a great comfort. So if you like to venture,
 I will.’
 
-‘I have not the least doubt,’ rejoined Tom, ‘that it will come out an
+‘I have not the least [[Doubt|doubt]],’ rejoined Tom, ‘that it will come out an
 excellent pudding, or at all events, I am sure that I shall think it so.
 There is naturally something so handy and brisk about you, Ruth, that
 if you said you could make a bowl of faultless turtle soup, I should
@@ -88,7 +88,7 @@ to have been able to resist her coaxing manner; and nobody had any
 business to try. Yet she never seemed to know it was her manner at all.
 That was the best of it.
 
-Well! she washed up the breakfast cups, chatting away the whole time,
+[[Well]]! she washed up the breakfast cups, chatting away the whole [[Time|time]],
 and telling Tom all sorts of anecdotes about the brass-and-copper
 founder; put everything in its place; made the room as neat as
 herself;--you must not suppose its shape was half as neat as hers
@@ -98,12 +98,12 @@ discovered, all in a moment, that Tom’s shirt-collar was frayed at the
 edge; and flying upstairs for a needle and thread, came flying down
 again with her thimble on, and set it right with wonderful expertness;
 never once sticking the needle into his face, although she was humming
-his pet tune from first to last, and beating time with the fingers of
+his pet tune from first to last, and beating [[Time|time]] with the fingers of
 her left hand upon his neckcloth. She had no sooner done this, than off
 she was again; and there she stood once more, as brisk and busy as a
 bee, tying that compact little chin of hers into an equally compact
 little bonnet; intent on bustling out to the butcher’s, without a
-minute’s loss of time; and inviting Tom to come and see the steak cut,
+minute’s loss of [[Time|time]]; and inviting Tom to come and see the steak cut,
 with his own eyes. As to Tom, he was ready to go anywhere; so off they
 trotted, arm-in-arm, as nimbly as you please; saying to each other what
 a quiet street it was to lodge in, and how very cheap, and what an airy
@@ -117,7 +117,7 @@ and keen; it was a piece of art, high art; there was delicacy of touch,
 clearness of tone, skillful handling of the subject, fine shading. It
 was the triumph of mind over matter; quite.
 
-Perhaps the greenest cabbage-leaf ever grown in a garden was wrapped
+Perhaps the greenest cabbage-leaf ever grown in a [[Garden|garden]] was wrapped
 about this steak, before it was delivered over to Tom. But the butcher
 had a sentiment for his business, and knew how to refine upon it. When
 he saw Tom putting the cabbage-leaf into his pocket awkwardly, he begged
@@ -127,7 +127,7 @@ to be allowed to do it for him; ‘for meat,’ he said with some emotion,
 Back they went to the lodgings again, after they had bought some eggs,
 and flour, and such small matters; and Tom sat gravely down to write at
 one end of the parlour table, while Ruth prepared to make the pudding at
-the other end; for there was nobody in the house but an old woman (the
+the other end; for there was nobody in the [[house]] but an old woman (the
 landlord being a mysterious sort of man, who went out early in the
 morning, and was scarcely ever seen); and saving in mere household
 drudgery, they waited on themselves.
@@ -138,11 +138,11 @@ his shoulder.
 ‘Why, you see, my dear,’ said Tom, leaning back in his chair, and
 looking up in her face, ‘I am very anxious, of course, to obtain some
 suitable employment; and before Mr Westlock comes this afternoon,
-I think I may as well prepare a little description of myself and my
+I think I may as [[Well|well]] prepare a little description of myself and my
 qualifications; such as he could show to any friend of his.’
 
 ‘You had better do the same for me, Tom, also,’ said his sister, casting
-down her eyes. ‘I should dearly like to keep house for you and take care
+down her eyes. ‘I should dearly like to keep [[house]] for you and take care
 of you always, Tom; but we are not rich enough for that.’
 
 ‘We are not rich,’ returned Tom, ‘certainly; and we may be much poorer.
@@ -160,7 +160,7 @@ battle it out together. Don’t you think we shall?’
 indeed.’
 
 ‘We don’t know that,’ said Tom. ‘How are we to know that, yet awhile,
-and without trying? Lord bless my soul!’--Tom’s energy became quite
+and without trying? Lord bless my [[Soul|soul]]!’--Tom’s energy became quite
 grand--‘there is no knowing what may happen, if we try hard. And I am
 sure we can live contentedly upon a very little--if we can only get it.’
 
@@ -175,33 +175,33 @@ make a beef-steak pudding, indeed!’ said Tom, giving her a gentle push.
 
 ‘You WILL call it a pudding, Tom. Mind! I told you not!’
 
-‘I may as well call it that, till it proves to be something else,’ said
+‘I may as [[Well|well]] call it that, till it proves to be something else,’ said
 Tom. ‘Oh, you are going to work in earnest, are you?’
 
 Aye, aye! That she was. And in such pleasant earnest, moreover, that
 Tom’s attention wandered from his writing every moment. First, she
 tripped downstairs into the kitchen for the flour, then for the
 pie-board, then for the eggs, then for the butter, then for a jug of
-water, then for the rolling-pin, then for a pudding-basin, then for the
-pepper, then for the salt; making a separate journey for everything, and
-laughing every time she started off afresh. When all the materials were
+[[Water|water]], then for the [[rolling]]-pin, then for a pudding-basin, then for the
+pepper, then for the salt; making a separate [[Journey|journey]] for everything, and
+laughing every [[Time|time]] she started off afresh. When all the materials were
 collected she was horrified to find she had no apron on, and so ran
 UPstairs by way of variety, to fetch it. She didn’t put it on upstairs,
 but came dancing down with it in her hand; and being one of those little
-women to whom an apron is a most becoming little vanity, it took
-an immense time to arrange; having to be carefully smoothed down
+women to whom an apron is a most becoming little [[Vanity|vanity]], it took
+an immense [[Time|time]] to arrange; having to be carefully smoothed down
 beneath--Oh, heaven, what a wicked little stomacher!--and to be gathered
 up into little plaits by the strings before it could be tied, and to
 be tapped, rebuked, and wheedled, at the pockets, before it would set
 right, which at last it did, and when it did--but never mind; this is
 a sober chronicle. And then, there were her cuffs to be tucked up, for
-fear of flour; and she had a little ring to pull off her finger, which
+[[Fear|fear]] of flour; and she had a little ring to pull off her finger, which
 wouldn’t come off (foolish little ring!); and during the whole of these
 preparations she looked demurely every now and then at Tom, from under
 her dark eyelashes, as if they were all a part of the pudding, and
 indispensable to its composition.
 
-For the life and soul of him, Tom could get no further in his
+For the life and [[Soul|soul]] of him, Tom could get no further in his
 writing than, ‘A respectable young man, aged thirty-five,’ and this,
 notwithstanding the show she made of being supernaturally quiet, and
 going about on tiptoe, lest she should disturb him; which only served
@@ -214,9 +214,9 @@ her.
 
 ‘Will you look here a moment, please?’
 
-As if he hadn’t been looking all the time!
+As if he hadn’t been looking all the [[Time|time]]!
 
-‘I am going to begin, Tom. Don’t you wonder why I butter the inside of
+‘I am going to begin, Tom. Don’t you [[Wonder|wonder]] why I butter the inside of
 the basin?’ said his busy little sister.
 
 ‘Not more than you do, I dare say,’ replied Tom, laughing. ‘For I
@@ -230,13 +230,13 @@ It was wholly out of the question to try to write. Tom lined out
 ‘respectable young man, aged thirty-five;’ and sat looking on, pen in
 hand, with one of the most loving smiles imaginable.
 
-Such a busy little woman as she was! So full of self-importance and
+Such a busy little woman as she was! So full of [[Self|self]]-importance and
 trying so hard not to smile, or seem uncertain about anything! It was a
 perfect treat to Tom to see her with her brows knit, and her rosy lips
-pursed up, kneading away at the crust, rolling it out, cutting it up
+pursed up, kneading away at the crust, [[rolling]] it out, cutting it up
 into strips, lining the basin with it, shaving it off fine round the
 rim, chopping up the steak into small pieces, raining down pepper and
-salt upon them, packing them into the basin, pouring in cold water for
+salt upon them, packing them into the basin, pouring in cold [[Water|water]] for
 gravy, and never venturing to steal a look in his direction, lest her
 gravity should be disturbed; until, at last, the basin being quite full
 and only wanting the top crust, she clapped her hands all covered with
@@ -252,7 +252,7 @@ seasoning to commend it to the taste of any reasonable man on earth.
 
 ‘It WILL be, you stupid fellow, when it’s covered in,’ returned his
 sister. Tom still pretending to look incredulous, she gave him a tap on
-the head with the rolling-pin, and still laughing merrily, had returned
+the head with the [[rolling]]-pin, and still laughing merrily, had returned
 to the composition of the top crust, when she started and turned very
 red. Tom started, too, for following her eyes, he saw John Westlock in
 the room.
@@ -269,7 +269,7 @@ must confess that I am. Tom, will you kindly come to my relief?’
 
 ‘Mr John Westlock,’ said Tom. ‘My sister.’
 
-‘I hope that, as the sister of so old a friend,’ said John, laughing
+‘I [[Hope|hope]] that, as the sister of so old a friend,’ said John, laughing
 ‘you will have the goodness to detach your first impressions of me from
 my unfortunate entrance.’
 
@@ -288,7 +288,7 @@ themselves on easy terms immediately.
 
 ‘I can only think of sitting down on one condition,’ returned his
 friend; ‘and that is, that your sister goes on with the pudding, as if
-you were still alone.’
+you were still [[Alone|alone]].’
 
 ‘That I am sure she will,’ said Tom. ‘On one other condition, and that
 is, that you stay and help us to eat it.’
@@ -312,16 +312,16 @@ respectable young man, aged thirty-five”--The beginning of a description
 of myself. That’s all.’
 
 ‘I don’t think you will have occasion to finish it, Tom. But how is it
-you never told me you had friends in London?’
+you never told me you had friends in [[London]]?’
 
 Tom looked at his sister with all his might; and certainly his sister
 looked with all her might at him.
 
-‘Friends in London!’ echoed Tom.
+‘Friends in [[London]]!’ echoed Tom.
 
 ‘Ah!’ said Westlock, ‘to be sure.’
 
-‘Have YOU any friends in London, Ruth, my dear!’ asked Tom.
+‘Have YOU any friends in [[London]], Ruth, my dear!’ asked Tom.
 
 ‘No, Tom.’
 
@@ -336,15 +336,15 @@ morning, there comes a knock at my door.’
 
 ‘So I did. And the person who knocked, not being a respectable young
 man, aged thirty-five, from the country, came in when he was invited,
-instead of standing gaping and staring about him on the landing. Well!
-When he came in, I found he was a stranger; a grave, business-like,
+instead of standing gaping and staring about him on the landing. [[Well]]!
+When he came in, I found he was a stranger; a [[Grave|grave]], business-like,
 sedate-looking, stranger. “Mr Westlock?” said he. “That is my name,”
  said I. “The favour of a few words with you?” said he. “Pray be seated,
 sir,” said I.’
 
 Here John stopped for an instant, to glance towards the table, where
 Tom’s sister, listening attentively, was still busy with the basin,
-which by this time made a noble appearance. Then he resumed:
+which by this [[Time|time]] made a noble appearance. Then he resumed:
 
 ‘The pudding having taken a chair, Tom--’
 
@@ -355,7 +355,7 @@ which by this time made a noble appearance. Then he resumed:
 ‘You said a pudding.’
 
 ‘No, no,’ replied John, colouring rather; ‘a chair. The idea of a
-stranger coming into my rooms at half-past eight o’clock in the morning,
+stranger coming into my rooms at half-past eight o’[[Clock|clock]] in the morning,
 and taking a pudding! Having taken a chair, Tom, a chair--amazed me by
 opening the conversation thus: “I believe you are acquainted, sir, with
 Mr Thomas Pinch?”
@@ -363,7 +363,7 @@ Mr Thomas Pinch?”
 ‘No!’ cried Tom.
 
 ‘His very words, I assure you. I told him I was. Did I know where you
-were at present residing? Yes. In London? Yes. He had casually heard,
+were at present residing? Yes. In [[London]]? Yes. He had casually heard,
 in a roundabout way, that you had left your situation with Mr Pecksniff.
 Was that the fact? Yes, it was. Did you want another? Yes, you did.’
 
@@ -371,7 +371,7 @@ Was that the fact? Yes, it was. Did you want another? Yes, you did.’
 
 ‘Just what I impressed upon him. You may rest assured that I set that
 point beyond the possibility of any mistake, and gave him distinctly to
-understand that he might make up his mind about it. Very well.’
+understand that he might make up his mind about it. Very [[Well|well]].’
 
 “Then,” said he, “I think I can accommodate him.”’
 
@@ -392,7 +392,7 @@ nor lodging, still the duties were not heavy, and there the post was.
 Vacant, and ready for your acceptance.’
 
 ‘Good gracious me!’ cried Tom; ‘a hundred pounds a year! My dear John!
-Ruth, my love! A hundred pounds a year!’
+Ruth, my [[Love|love]]! A hundred pounds a year!’
 
 ‘But the strangest part of the story,’ resumed John Westlock, laying his
 hand on Tom’s wrist, to bespeak his attention, and repress his ecstasies
@@ -400,10 +400,10 @@ for the moment; ‘the strangest part of the story, Miss Pinch, is this. I
 don’t know this man from Adam; neither does this man know Tom.’
 
 ‘He can’t,’ said Tom, in great perplexity, ‘if he’s a Londoner. I don’t
-know any one in London.’
+know any one in [[London]].’
 
 ‘And on my observing,’ John resumed, still keeping his hand upon Tom’s
-wrist, ‘that I had no doubt he would excuse the freedom I took in
+wrist, ‘that I had no [[Doubt|doubt]] he would excuse the [[Freedom|freedom]] I took in
 inquiring who directed him to me; how he came to know of the change
 which had taken place in my friend’s position; and how he came to be
 acquainted with my friend’s peculiar fitness for such an office as he
@@ -415,14 +415,14 @@ long breath.
 
 ‘“I must be perfectly aware,” he said,’ John added, ‘“that to any person
 who had ever been in Mr Pecksniff’s neighbourhood, Mr Thomas Pinch and
-his acquirements were as well known as the Church steeple, or the Blue
+his acquirements were as [[Well|well]] known as the Church steeple, or the Blue
 Dragon.”’
 
 ‘The Blue Dragon!’ repeated Tom, staring alternately at his friend and
 his sister.
 
 ‘Aye, think of that! He spoke as familiarly of the Blue Dragon, I give
-you my word, as if he had been Mark Tapley. I opened my eyes, I can
+you my word, as if he had been [[Mark Tapley]]. I opened my eyes, I can
 tell you, when he did so; but I could not fancy I had ever seen the man
 before, although he said with a smile, “You know the Blue Dragon, Mr
 Westlock; you kept it up there, once or twice, yourself.” Kept it up
@@ -434,7 +434,7 @@ and extraordinary circumstance he had ever heard of in his life.
 
 ‘Unaccountable?’ his friend repeated. ‘I became afraid of the man.
 Though it was broad day, and bright sunshine, I was positively afraid
-of him. I declare I half suspected him to be a supernatural visitor,
+of him. I declare I half suspected him to be a [[Supernatural|supernatural]] visitor,
 and not a mortal, until he took out a common-place description of
 pocket-book, and handed me this card.’
 
@@ -443,17 +443,17 @@ sounds ghostly, John.’
 
 ‘Fips don’t, I think,’ was John’s reply. ‘But there he lives, Tom, and
 there he expects us to call this morning. And now you know as much of
-this strange incident as I do, upon my honour.’
+this strange incident as I do, upon my [[Honour|honour]].’
 
 Tom’s face, between his exultation in the hundred pounds a year, and
-his wonder at this narration, was only to be equalled by the face of his
+his [[Wonder|wonder]] at this narration, was only to be equalled by the face of his
 sister, on which there sat the very best expression of blooming surprise
 that any painter could have wished to see. What the beef-steak pudding
-would have come to, if it had not been by this time finished, astrology
+would have come to, if it had not been by this [[Time|time]] finished, astrology
 itself could hardly determine.
 
 ‘Tom,’ said Ruth, after a little hesitation, ‘perhaps Mr Westlock, in
-his friendship for you, knows more of this than he chooses to tell.’
+his [[Friendship|friendship]] for you, knows more of this than he chooses to tell.’
 
 ‘No, indeed!’ cried John, eagerly. ‘It is not so, I assure you. I wish
 it were. I cannot take credit to myself, Miss Pinch, for any such thing.
@@ -464,7 +464,7 @@ told you.’
 pie-board industriously.
 
 ‘No,’ retorted John. ‘Indeed, no. It is very ungenerous in you to be so
-suspicious of me when I repose implicit faith in you. I have unbounded
+suspicious of me when I repose implicit [[Faith|faith]] in you. I have unbounded
 confidence in the pudding, Miss Pinch.’
 
 She laughed at this, but they soon got back into a serious vein, and
@@ -475,7 +475,7 @@ surrounding obscurity rather set it off than otherwise.
 
 Tom, being in a great flutter, wished to start for Austin Friars
 instantly, but they waited nearly an hour, by John’s advice, before they
-departed. Tom made himself as spruce as he could before leaving home,
+departed. Tom made himself as spruce as he could before leaving [[Home|home]],
 and when John Westlock, through the half-opened parlour door, had
 glimpses of that brave little sister brushing the collar of his coat in
 the passage, taking up loose stitches in his gloves and hovering lightly
@@ -502,14 +502,14 @@ nor my mother either.’
 ‘Remember them? oh dear yes. My poor mother was the last. She died when
 Ruth was a mere baby, and then we both became a charge upon the savings
 of that good old grandmother I used to tell you of. You remember! Oh!
-There’s nothing romantic in our history, John.’
+There’s nothing romantic in our [[history]], John.’
 
-‘Very well,’ said John in quiet despair. ‘Then there is no way of
+‘Very [[Well|well]],’ said John in quiet [[Despair|despair]]. ‘Then there is no way of
 accounting for my visitor of this morning. So we’ll not try, Tom.’
 
 They did try, notwithstanding, and never left off trying until they
 got to Austin Friars, where, in a very dark passage on the first floor,
-oddly situated at the back of a house, across some leads, they found a
+oddly situated at the back of a [[house]], across some leads, they found a
 little blear-eyed glass door up in one corner, with Mr FIPS painted on
 it in characters which were meant to be transparent. There was also a
 wicked old sideboard hiding in the gloom hard by, meditating designs
@@ -523,7 +523,7 @@ door, was apprised, by the usual means of communication, that somebody
 had come to call upon him, and giving that somebody admission, observed
 that it was ‘rather dark.’
 
-‘Dark indeed,’ John whispered in Tom Pinch’s ear. ‘Not a bad place to
+‘Dark indeed,’ John whispered in [[Tom Pinch]]’s ear. ‘Not a bad place to
 dispose of a countryman in, I should think, Tom.’
 
 Tom had been already turning over in his mind the possibility of their
@@ -536,19 +536,19 @@ wore black shorts and powder, dispelled his doubts.
 They walked in. And a mighty yellow-jaundiced little office Mr Fips
 had of it; with a great, black, sprawling splash upon the floor in one
 corner, as if some old clerk had cut his throat there, years ago, and
-had let out ink instead of blood.
+had let out ink instead of [[Blood|blood]].
 
 ‘I have brought my friend Mr Pinch, sir,’ said John Westlock.
 
 ‘Be pleased to sit,’ said Mr Fips.
 
 They occupied the two chairs, and Mr Fips took the office stool from the
-stuffing whereof he drew forth a piece of horse-hair of immense length,
+stuffing whereof he drew forth a piece of [[Horse|horse]]-hair of immense length,
 which he put into his mouth with a great appearance of appetite.
 
-He looked at Tom Pinch curiously, but with an entire freedom from any
+He looked at [[Tom Pinch]] curiously, but with an entire [[Freedom|freedom]] from any
 such expression as could be reasonably construed into an unusual
-display of interest. After a short silence, during which Mr Fips was
+display of interest. After a short [[Silence|silence]], during which Mr Fips was
 so perfectly unembarrassed as to render it manifest that he could have
 broken it sooner without hesitation, if he had felt inclined to do so,
 he asked if Mr Westlock had made his offer fully known to Mr Pinch.
@@ -565,7 +565,7 @@ exceedingly obliged to you for the offer.’
 
 ‘To your friend, sir, then,’ said Tom. ‘To the gentleman with whom I am
 to engage, and whose confidence I shall endeavour to deserve. When he
-knows me better, sir, I hope he will not lose his good opinion of me.
+knows me better, sir, I [[Hope|hope]] he will not lose his good opinion of me.
 He will find me punctual and vigilant, and anxious to do what is right.
 That I think I can answer for, and so,’ looking towards him, ‘can Mr
 Westlock.’
@@ -590,22 +590,22 @@ Fips, taking off a very deep impression of the wafer-stamp upon the calf
 of his left leg, and looking steadily at Tom, ‘I don’t know that it’s a
 matter of much consequence.’
 
-Poor Tom inclined his head deferentially, but appeared to doubt that.
+Poor Tom inclined his head deferentially, but appeared to [[Doubt|doubt]] that.
 
 ‘I say,’ repeated Mr Fips, ‘that I don’t know it’s a matter of much
 consequence. The business lies entirely between yourself and me, Mr
 Pinch. With reference to your duties, I can set you going; and with
 reference to your salary, I can pay it. Weekly,’ said Mr Fips, putting
-down the wafer-stamp, and looking at John Westlock and Tom Pinch by
-turns, ‘weekly; in this office; at any time between the hours of four
-and five o’clock in the afternoon.’ As Mr Fips said this, he made up his
+down the wafer-stamp, and looking at John Westlock and [[Tom Pinch]] by
+turns, ‘weekly; in this office; at any [[Time|time]] between the hours of four
+and five o’[[Clock|clock]] in the afternoon.’ As Mr Fips said this, he made up his
 face as if he were going to whistle. But he didn’t.
 
 ‘You are very good,’ said Tom, whose countenance was now suffused with
 pleasure; ‘and nothing can be more satisfactory or straightforward. My
 attendance will be required--’
 
-‘From half-past nine to four o’clock or so, I should say,’ interrupted
+‘From half-past nine to four o’[[Clock|clock]] or so, I should say,’ interrupted
 Mr Fips. ‘About that.’
 
 ‘I did not mean the hours of attendance,’ retorted Tom, ‘which are light
@@ -623,7 +623,7 @@ place.’
 
 ‘You may consider yourself engaged, by all means,’ said Mr Fips; ‘you
 couldn’t meet me at the Temple Gate in Fleet Street, in an hour from
-this time, I suppose, could you?’
+this [[Time|time]], I suppose, could you?’
 
 Certainly Tom could.
 
@@ -644,16 +644,16 @@ fulfillment of the appointment they had made with Mr Fips.
 
 After looking at John Westlock’s chambers, and devoting a few spare
 minutes to the Boar’s Head, they issued forth again to the place of
-meeting. The time agreed upon had not quite come; but Mr Fips was
+meeting. The [[Time|time]] agreed upon had not quite come; but Mr Fips was
 already at the Temple Gate, and expressed his satisfaction at their
 punctuality.
 
 He led the way through sundry lanes and courts, into one more quiet and
-more gloomy than the rest, and, singling out a certain house, ascended
+more gloomy than the rest, and, singling out a certain [[house]], ascended
 a common staircase; taking from his pocket, as he went, a bunch of rusty
 keys. Stopping before a door upon an upper story, which had nothing
 but a yellow smear of paint where custom would have placed the
-tenant’s name, he began to beat the dust out of one of these keys, very
+tenant’s name, he began to beat the [[Dust|dust]] out of one of these keys, very
 deliberately, upon the great broad handrail of the balustrade.
 
 ‘You had better have a little plug made,’ he said, looking round at Tom,
@@ -667,7 +667,7 @@ opened the door, which yielded to his hand very unwillingly, and with a
 horribly discordant sound. He took the key out, when he had done so, and
 gave it to Tom.
 
-‘Aye, aye!’ said Mr Fips. ‘The dust lies rather thick here.’
+‘Aye, aye!’ said Mr Fips. ‘The [[Dust|dust]] lies rather thick here.’
 
 Truly, it did. Mr Fips might have gone so far as to say, very thick.
 It had accumulated everywhere; lay deep on everything, and in one part,
@@ -675,9 +675,9 @@ where a ray of sun shone through a crevice in the shutter and struck
 upon the opposite wall, it went twirling round and round, like a
 gigantic squirrel-cage.
 
-Dust was the only thing in the place that had any motion about it. When
+[[Dust]] was the only thing in the place that had any motion about it. When
 their conductor admitted the light freely, and lifting up the heavy
-window-sash, let in the summer air, he showed the mouldering furniture,
+[[Window|window]]-sash, let in the [[Summer|summer]] air, he showed the mouldering furniture,
 discoloured wainscoting and ceiling, rusty stove, and ashy hearth, in
 all their inert neglect. Close to the door there stood a candlestick,
 with an extinguisher upon it; as if the last man who had been there
@@ -689,7 +689,7 @@ There were two rooms on that floor; and in the first or outer one a
 narrow staircase, leading to two more above. These last were fitted
 up as bed-chambers. Neither in them, nor in the rooms below, was any
 scarcity of convenient furniture observable, although the fittings
-were of a bygone fashion; but solitude and want of use seemed to have
+were of a bygone fashion; but [[Solitude|solitude]] and want of use seemed to have
 rendered it unfit for any purposes of comfort, and to have given it a
 grisly, haunted air.
 
@@ -718,7 +718,7 @@ for.
 
 ‘Oh!’ cried Mr Fips, pulling on his glove, ‘didn’t I? No, by-the-bye,
 I don’t think I did. Ah! I dare say he’ll be here soon. You will get on
-very well together, I have no doubt. I wish you success I am sure. You
+very [[Well|well]] together, I have no [[Doubt|doubt]]. I wish you [[success]] I am sure. You
 won’t forget to shut the door? It’ll lock of itself if you slam it.
 Half-past nine, you know. Let us say from half-past nine to four, or
 half-past four, or thereabouts; one day, perhaps, a little earlier,
@@ -751,7 +751,7 @@ give John an inch that way and he was sure to take several ells, being
 a jovial, good-tempered fellow, they looked about them more closely,
 groping among the lumber for any stray means of enlightenment that might
 turn up. But no scrap or shred of information could they find. The books
-were marked with a variety of owner’s names, having, no doubt, been
+were marked with a variety of owner’s names, having, no [[Doubt|doubt]], been
 bought at sales, and collected here and there at different times; but
 whether any one of these names belonged to Tom’s employer, and, if so,
 which of them, they had no means whatever of determining. It occurred to
@@ -773,22 +773,22 @@ a wig?’
 
 Tom, being in that state of mind in which any explanation is a great
 relief, adopted this last one (which indeed was quite as feasible as any
-other) readily, and said he had no doubt of it. Nor was his faith at all
+other) readily, and said he had no [[Doubt|doubt]] of it. Nor was his [[Faith|faith]] at all
 shaken by his having said exactly the same thing to each suggestion of
 his friend’s in turn, and being perfectly ready to say it again if he
 had any new solution to propose.
 
-As he had not, Tom drew down the window-sash, and folded the shutter;
+As he had not, Tom drew down the [[Window|window]]-sash, and folded the shutter;
 and they left the rooms. He closed the door heavily, as Mr Fips had
 desired him; tried it, found it all safe, and put the key in his pocket.
 
 They made a pretty wide circuit in going back to Islington, as they had
-time to spare, and Tom was never tired of looking about him. It was well
+[[Time|time]] to spare, and Tom was never tired of looking about him. It was [[Well|well]]
 he had John Westlock for his companion, for most people would have
 been weary of his perpetual stoppages at shop-windows, and his frequent
 dashes into the crowded carriage-way at the peril of his life, to get
 the better view of church steeples, and other public buildings. But John
-was charmed to see him so much interested, and every time Tom came back
+was charmed to see him so much interested, and every [[Time|time]] Tom came back
 with a beaming face from among the wheels of carts and hackney-coaches,
 wholly unconscious of the personal congratulations addressed to him by
 the drivers, John seemed to like him better than before.
@@ -810,20 +810,20 @@ The table was already spread for dinner; and though it was spread with
 nothing very choice in the way of glass or linen, and with green-handled
 knives, and very mountebanks of two-pronged forks, which seemed to be
 trying how far asunder they could possibly stretch their legs without
-converting themselves into double the number of iron toothpicks, it
+converting themselves into [[Double|double]] the number of iron toothpicks, it
 wanted neither damask, silver, gold, nor china; no, nor any other
 garniture at all. There it was; and, being there, nothing else would
-have done as well.
+have done as [[Well|well]].
 
-The success of that initiative dish; that first experiment of hers in
+The [[success]] of that initiative dish; that first experiment of hers in
 cookery; was so entire, so unalloyed and perfect, that John Westlock and
-Tom agreed she must have been studying the art in secret for a long time
+Tom agreed she must have been studying the art in secret for a long [[Time|time]]
 past; and urged her to make a full confession of the fact. They were
 exceedingly merry over this jest, and many smart things were said
 concerning it; but John was not as fair in his behaviour as might
-have been expected, for, after luring Tom Pinch on for a long time,
+have been expected, for, after luring [[Tom Pinch]] on for a long [[Time|time]],
 he suddenly went over to the enemy, and swore to everything his sister
-said. However, as Tom observed the same night before going to bed, it
+said. However, as Tom observed the same [[Night|night]] before going to bed, it
 was only in joke, and John had always been famous for being polite
 to ladies, even when he was quite a boy. Ruth said, ‘Oh! indeed!’ She
 didn’t say anything else.
@@ -835,16 +835,16 @@ daughters, and what a change had fallen on the younger, they were very
 serious.
 
 John Westlock became quite absorbed in her fortunes; asking many
-questions of Tom Pinch about her marriage, inquiring whether her husband
+questions of [[Tom Pinch]] about her [[Marriage|marriage]], inquiring whether her husband
 was the gentleman whom Tom had brought to dine with him at Salisbury;
 in what degree of relationship they stood towards each other, being
 different persons; and taking, in short, the greatest interest in the
 subject. Tom then went into it, at full length; he told how Martin had
-gone abroad, and had not been heard of for a long time; how Dragon Mark
+gone abroad, and had not been heard of for a long [[Time|time]]; how Dragon Mark
 had borne him company; how Mr Pecksniff had got the poor old doting
 grandfather into his power; and how he basely sought the hand of Mary
 Graham. But not a word said Tom of what lay hidden in his heart; his
-heart, so deep, and true, and full of honour, and yet with so much room
+heart, so deep, and true, and full of [[Honour|honour]], and yet with so much room
 for every gentle and unselfish thought; not a word.
 
 Tom, Tom! The man in all this world most confident in his sagacity and
@@ -853,19 +853,19 @@ other men, and having most to show in gold and silver as the gains
 belonging to his creed; the meekest favourer of that wise doctrine,
 Every man for himself, and God for us all (there being high wisdom in
 the thought that the Eternal Majesty of Heaven ever was, or can be, on
-the side of selfish lust and love!); shall never find, oh, never find,
-be sure of that, the time come home to him, when all his wisdom is an
+the side of selfish lust and [[Love|love]]!); shall never find, oh, never find,
+be sure of that, the [[Time|time]] come [[Home|home]] to him, when all his wisdom is an
 idiot’s folly, weighed against a simple heart!
 
-Well, well, Tom, it was simple too, though simple in a different way, to
+[[Well]], [[Well|well]], Tom, it was simple too, though simple in a different way, to
 be so eager touching that same theatre, of which John said, when tea was
 done, he had the absolute command, so far as taking parties in without
 the payment of a sixpence was concerned; and simpler yet, perhaps, never
-to suspect that when he went in first, alone, he paid the money! Simple
+to suspect that when he went in first, [[Alone|alone]], he paid the money! Simple
 in thee, dear Tom, to laugh and cry so heartily at such a sorry show,
-so poorly shown; simple to be so happy and loquacious trudging home
+so poorly shown; simple to be so happy and loquacious trudging [[Home|home]]
 with Ruth; simple to be so surprised to find that merry present of
 a cookery-book awaiting her in the parlour next morning, with the
 beef-steak-pudding-leaf turned down and blotted out. There! Let
-the record stand! Thy quality of soul was simple, simple, quite
-contemptible, Tom Pinch!
+the record stand! Thy quality of [[Soul|soul]] was simple, simple, quite
+contemptible, [[Tom Pinch]]!

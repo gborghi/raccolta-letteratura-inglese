@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 30: A LOSS (part 2)"
+title: "[[David Copperfield]] — Chapter 30: A LOSS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -25,12 +25,12 @@ my heart, in what he said.
 
 ‘Therefore, I mentioned to them,’ said Mr. Omer, in a comfortable,
 easy-going tone, ‘this. I said, “Now, don’t consider Em’ly nailed down
-in point of time, at all. Make it your own time. Her services have been
+in point of [[Time|time]], at all. Make it your own [[Time|time]]. Her services have been
 more valuable than was supposed; her learning has been quicker than was
 supposed; Omer and Joram can run their pen through what remains; and
 she’s free when you wish. If she likes to make any little arrangement,
-afterwards, in the way of doing any little thing for us at home,
-very well. If she don’t, very well still. We’re no losers, anyhow.”
+afterwards, in the way of doing any little thing for us at [[Home|home]],
+very [[Well|well]]. If she don’t, very [[Well|well]] still. We’re no losers, anyhow.”
  For--don’t you see,’ said Mr. Omer, touching me with his pipe, ‘it ain’t
 likely that a man so short of breath as myself, and a grandfather too,
 would go and strain points with a little bit of a blue-eyed blossom,
@@ -38,27 +38,27 @@ like her?’
 
 ‘Not at all, I am certain,’ said I.
 
-‘Not at all! You’re right!’ said Mr. Omer. ‘Well, sir, her cousin--you
+‘Not at all! You’re right!’ said Mr. Omer. ‘[[Well]], sir, her cousin--you
 know it’s a cousin she’s going to be married to?’
 
-‘Oh yes,’ I replied. ‘I know him well.’
+‘Oh yes,’ I replied. ‘I know him [[Well|well]].’
 
-‘Of course you do,’ said Mr. Omer. ‘Well, sir! Her cousin being, as it
-appears, in good work, and well to do, thanked me in a very manly sort
+‘Of course you do,’ said Mr. Omer. ‘[[Well]], sir! Her cousin being, as it
+appears, in good work, and [[Well|well]] to do, thanked me in a very manly sort
 of manner for this (conducting himself altogether, I must say, in a way
 that gives me a high opinion of him), and went and took as comfortable
-a little house as you or I could wish to clap eyes on. That little
-house is now furnished right through, as neat and complete as a doll’s
+a little [[house]] as you or I could wish to clap eyes on. That little
+[[house]] is now furnished right through, as neat and complete as a doll’s
 parlour; and but for Barkis’s illness having taken this bad turn, poor
-fellow, they would have been man and wife--I dare say, by this time. As
+fellow, they would have been man and wife--I dare say, by this [[Time|time]]. As
 it is, there’s a postponement.’
 
 ‘And Emily, Mr. Omer?’ I inquired. ‘Has she become more settled?’
 
-‘Why that, you know,’ he returned, rubbing his double chin again, ‘can’t
+‘Why that, you know,’ he returned, rubbing his [[Double|double]] chin again, ‘can’t
 naturally be expected. The prospect of the change and separation, and
 all that, is, as one may say, close to her and far away from her, both
-at once. Barkis’s death needn’t put it off much, but his lingering
+at once. Barkis’s [[Death|death]] needn’t put it off much, but his lingering
 might. Anyway, it’s an uncertain state of matters, you see.’
 
 ‘I see,’ said I.
@@ -66,10 +66,10 @@ might. Anyway, it’s an uncertain state of matters, you see.’
 ‘Consequently,’ pursued Mr. Omer, ‘Em’ly’s still a little down, and a
 little fluttered; perhaps, upon the whole, she’s more so than she was.
 Every day she seems to get fonder and fonder of her uncle, and more loth
-to part from all of us. A kind word from me brings the tears into her
+to part from all of us. A kind word from me brings the [[Tears|tears]] into her
 eyes; and if you was to see her with my daughter Minnie’s little girl,
 you’d never forget it. Bless my heart alive!’ said Mr. Omer, pondering,
-‘how she loves that child!’
+‘how she loves that [[Child|child]]!’
 
 Having so favourable an opportunity, it occurred to me to ask Mr. Omer,
 before our conversation should be interrupted by the return of his
@@ -90,10 +90,10 @@ was quite unconscious; and that Mr. Chillip had mournfully said in the
 kitchen, on going away just now, that the College of Physicians, the
 College of Surgeons, and Apothecaries’ Hall, if they were all called
 in together, couldn’t help him. He was past both Colleges, Mr. Chillip
-said, and the Hall could only poison him.
+said, and the Hall could only [[Poison|poison]] him.
 
 Hearing this, and learning that Mr. Peggotty was there, I determined to
-go to the house at once. I bade good night to Mr. Omer, and to Mr. and
+go to the [[house]] at once. I bade good [[Night|night]] to Mr. Omer, and to Mr. and
 Mrs. Joram; and directed my steps thither, with a solemn feeling, which
 made Mr. Barkis quite a new and different creature.
 
@@ -104,7 +104,7 @@ expectation of that dread surprise, all other changes and surprises
 dwindle into nothing.
 
 I shook hands with Mr. Peggotty, and passed into the kitchen, while he
-softly closed the door. Little Emily was sitting by the fire, with her
+softly closed the door. [[Little Emily]] was sitting by the [[Fire|fire]], with her
 hands before her face. Ham was standing near her.
 
 We spoke in whispers; listening, between whiles, for any sound in the
@@ -134,7 +134,7 @@ She clung the closer to him, but neither lifted up her face, nor spoke a
 word.
 
 ‘It’s getting late, my dear,’ said Mr. Peggotty, ‘and here’s Ham come
-fur to take you home. Theer! Go along with t’other loving art! What’
+fur to take you [[Home|home]]. Theer! Go along with t’other loving art! What’
 Em’ly? Eh, my pretty?’
 
 The sound of her voice had not reached me, but he bent his head as if he

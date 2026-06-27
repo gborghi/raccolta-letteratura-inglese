@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 3 (part 3)"
+title: "[[queertrades]] — Chapter 3 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/queertrades-(Chesterton)"
@@ -21,8 +21,8 @@ I remembered dimly in my classical days (I was a scholar in a small
 way once, but now, alas! rusty), I remembered the mysteries of
 the Bona Dea and their strange female freemasonry.  I remembered
 the witches' Sabbaths.  I was just, in my absurd lightheadedness,
-trying to remember a line of verse about Diana's nymphs,
-when Miss Mowbray threw her arm round me from behind.
+trying to remember a line of verse about [[Diana]]'s nymphs,
+when Miss [[Mowbray]] threw her arm round me from behind.
 The moment it held me I knew it was not a woman's arm.
 
 "Miss Brett--or what I had called Miss Brett--was standing in front
@@ -35,10 +35,10 @@ I mean he was a wo--no, that is I saw that instead of being
 a woman she--he, I mean--that is, it was a man."
 
 Mr Shorter became indescribably flurried and flapping in endeavouring
-to arrange these genders and his plaid shawl at the same time.
+to arrange these genders and his plaid shawl at the same [[Time|time]].
 He resumed with a higher fever of nervousness:
 
-"As for Miss Mowbray, she--he, held me in a ring of iron.
+"As for Miss [[Mowbray]], she--he, held me in a ring of iron.
 He had her arm--that is she had his arm--round her neck--
 my neck I mean--and I could not cry out.  Miss Brett--that is,
 Mr Brett, at least Mr something who was not Miss Brett--
@@ -54,12 +54,12 @@ Was it to be Nonconformists?
 "`Curse 'is eyes,' said Miss Brett--I mean the man with the revolver--`why
 should we show 'im the game?'
 
-"`If you take my advice you bloomin' well will,' said the man at
+"`If you take my advice you bloomin' [[Well|well]] will,' said the man at
 the door, whom they called Bill.  `A man wot knows wet 'e's doin'
 is worth ten wot don't, even if 'e's a potty old parson.'
 
 "`Bill's right enough,' said the coarse voice of the man who held me
-(it had been Miss Mowbray's). `Bring out the picture, 'Arry.'
+(it had been Miss [[Mowbray]]'s). `Bring out the picture, 'Arry.'
 
 "The man with the revolver walked across the room to where
 the other two women--I mean men--were turning over baggage,
@@ -105,7 +105,7 @@ to live in these parts, don't you?'
 
 "I nodded.
 
-"`Well,' said the man 'Arry, pointing to the picture, `that's 'is mother.
+"`[[Well]],' said the man 'Arry, pointing to the picture, `that's 'is mother.
 'Oo ran to catch 'im when 'e fell?  She did,' and he flung his
 fingers in a general gesture towards the photograph of the old lady
 who was exactly like me.

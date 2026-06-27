@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Village of Grassley-in-the-Hole (part 2)"
+title: "ball and [[Cross|cross]] — The Village of Grassley-in-the-Hole (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -17,34 +17,34 @@ tags:
 "Exists?" said MacIan in his monotonous way, settling his pewter
 pot on the table.
 
-"Yes, in a real sense nature does not exist.  I mean that nobody
-can discover what the original nature of things would have been
+"Yes, in a real sense [[Nature|nature]] does not exist.  I mean that nobody
+can discover what the original [[Nature|nature]] of things would have been
 if things had not interfered with it.  The first blade of grass began
-to tear up the earth and eat it; it was interfering with nature,
-if there is any nature.  The first wild ox began to tear up the grass
-and eat it; he was interfering with nature, if there is any nature.
+to tear up the earth and eat it; it was interfering with [[Nature|nature]],
+if there is any [[Nature|nature]].  The first wild ox began to tear up the grass
+and eat it; he was interfering with [[Nature|nature]], if there is any [[Nature|nature]].
 In the same way," continued Turnbull, "the human when it asserts
-its dominance over nature is just as natural as the thing
+its dominance over [[Nature|nature]] is just as natural as the thing
 which it destroys."
 
 "And in the same way," said MacIan almost dreamily, "the superhuman,
-the supernatural is just as natural as the nature which it destroys."
+the [[Supernatural|supernatural]] is just as natural as the [[Nature|nature]] which it destroys."
 
 Turnbull took his head out of his pewter pot in some anger.
 
-"The supernatural, of course," he said, "is quite another thing;
-the case of the supernatural is simple.  The supernatural
+"The [[Supernatural|supernatural]], of course," he said, "is quite another thing;
+the case of the [[Supernatural|supernatural]] is simple.  The [[Supernatural|supernatural]]
 does not exist."
 
 "Quite so," said MacIan in a rather dull voice; "you said the same
-about the natural.  If the natural does not exist the supernatural
+about the natural.  If the natural does not exist the [[Supernatural|supernatural]]
 obviously can't." And he yawned a little over his ale.
 
 Turnbull turned for some reason a little red and remarked quickly,
 "That may be jolly clever, for all I know.  But everyone does know
 that there is a division between the things that as a matter of fact
 do commonly happen and the things that don't. Things that break
-the evident laws of nature----"
+the evident laws of [[Nature|nature]]----"
 
 "Which does not exist," put in MacIan sleepily.  Turnbull struck
 the table with a sudden hand.
@@ -56,7 +56,7 @@ the table with a sudden hand.
 "Good Lord in heaven!" thundered Turnbull, without regarding
 the interruption.  "Do you really mean to sit there and say that you,
 like anybody else, would not recognize the difference between a natural
-occurrence and a supernatural one--if there could be such a thing?
+occurrence and a [[Supernatural|supernatural]] one--if there could be such a thing?
 If I flew up to the ceiling----"
 
 "You would bump your head badly," cried MacIan, suddenly starting up.
@@ -76,17 +76,17 @@ He stood silent for a second or two and then resumed.
 "A minute or two ago I caught you out in a real contradiction.
 At that moment logically I was right.  And at that moment I knew
 I was wrong.  Yes, there is a real difference between the natural
-and the supernatural:  if you flew up into that blue sky this instant,
+and the [[Supernatural|supernatural]]:  if you flew up into that blue sky this instant,
 I should think that you were moved by God--or the devil.
 But if you want to know what I really think...I must explain."
 
-He stopped again, abstractedly boring the point of his sword into
+He stopped again, abstractedly boring the point of his [[Sword|sword]] into
 the earth, and went on:
 
 "I was born and bred and taught in a complete universe.
-The supernatural was not natural, but it was perfectly reasonable.
-Nay, the supernatural to me is more reasonable than the natural;
-for the supernatural is a direct message from God, who is reason.
+The [[Supernatural|supernatural]] was not natural, but it was perfectly reasonable.
+Nay, the [[Supernatural|supernatural]] to me is more reasonable than the natural;
+for the [[Supernatural|supernatural]] is a direct message from God, who is reason.
 I was taught that some things are natural and some things divine.
 I mean that some things are mechanical and some things divine.
 But there is the great difficulty, Turnbull.  The great difficulty
@@ -97,12 +97,12 @@ is that, according to my teaching, you are divine."
 "That is just the difficulty," continued MacIan thoughtfully.  "I was
 told that there was a difference between the grass and a man's will;
 and the difference was that a man's will was special and divine.
-A man's free will, I heard, was supernatural."
+A man's free will, I heard, was [[Supernatural|supernatural]]."
 
 "Rubbish!" said Turnbull.
 
 "Oh," said MacIan patiently, "then if a man's free will isn't
-supernatural, why do your materialists deny that it exists?"
+[[Supernatural|supernatural]], why do your materialists deny that it exists?"
 
 Turnbull was silent for a moment.  Then he began to speak,
 but MacIan continued with the same steady voice and sad eyes:
@@ -112,28 +112,28 @@ taught to believe in.  I can understand your disbelieving in it,
 but why disbelieve in a part of it?  It was all one thing to me.  God had
 authority because he was God.  Man had authority because he was man.
 You cannot prove that God is better than a man; nor can you prove
-that a man is better than a horse.  Why permit any ordinary thing?
-Why do you let a horse be saddled?"
+that a man is better than a [[Horse|horse]].  Why permit any ordinary thing?
+Why do you let a [[Horse|horse]] be saddled?"
 
 "Some modern thinkers disapprove of it," said Turnbull
 a little doubtfully.
 
-"I know," said MacIan grimly; "that man who talked about love,
+"I know," said MacIan grimly; "that man who talked about [[Love|love]],
 for instance."
 
 Turnbull made a humorous grimace; then he said:  "We seem to be talking
 in a kind of shorthand; but I won't pretend not to understand you.
 What you mean is this:  that you learnt about all your saints
-and angels at the same time as you learnt about common morality,
+and angels at the same [[Time|time]] as you learnt about common [[morality]],
 from the same people, in the same way.  And you mean to say that if one
-may be disputed, so may the other.  Well, let that pass for the moment.
+may be disputed, so may the other.  [[Well]], let that pass for the moment.
 But let me ask you a question in turn.  Did not this system
 of yours, which you swallowed whole, contain all sorts of things
 that were merely local, the respect for the chief of your clan,
-or such things; the village ghost, the family feud, or what not?
+or such things; the village [[Ghost|ghost]], the family feud, or what not?
 Did you not take in those things, too, along with your theology?"
 
-MacIan stared along the dim village road, down which the last
+MacIan stared along the dim village [[Road|road]], down which the last
 straggler from the inn was trailing his way.
 
 "What you say is not unreasonable," he said.  "But it is not quite true.
@@ -142,7 +142,7 @@ anything like the distinction between the human and the divine,
 or the human and the animal.  It was more like the distinction
 between one animal and another.  But----"
 
-"Well?" said Turnbull.
+"[[Well]]?" said Turnbull.
 
 MacIan was silent.
 

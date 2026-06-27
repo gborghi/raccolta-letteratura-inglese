@@ -16,7 +16,7 @@ tags:
 
 ‘And duly witnessed as by law required,’ said Snitchey, pushing away his
 plate, and taking out the papers, which his partner proceeded to spread
-upon the table; ‘and Self and Craggs having been co-trustees with you,
+upon the table; ‘and [[Self]] and Craggs having been co-trustees with you,
 Doctor, in so far as the fund was concerned, we shall want your two
 servants to attest the signatures—can you read, Mrs. Newcome?’
 
@@ -27,7 +27,7 @@ his eyes over her extraordinary figure.  ‘You _can_ read?’
 
 ‘A little,’ answered Clemency.
 
-‘The marriage service, night and morning, eh?’ observed the lawyer,
+‘The [[Marriage|marriage]] service, [[Night|night]] and morning, eh?’ observed the lawyer,
 jocosely.
 
 ‘No,’ said Clemency.  ‘Too hard.  I only reads a thimble.’
@@ -44,7 +44,7 @@ Snitchey, staring at her.
 
 Grace, however, interposing, explained that each of the articles in
 question bore an engraved motto, and so formed the pocket library of
-Clemency Newcome, who was not much given to the study of books.
+[[Clemency Newcome]], who was not much given to the study of books.
 
 ‘Oh, that’s it, is it, Miss Grace!’ said Snitchey.
 
@@ -54,13 +54,13 @@ does the thimble say, Mrs. Newcome?’
 
 ‘I an’t married, Mister,’ observed Clemency.
 
-‘Well, Newcome.  Will that do?’ said the lawyer.  ‘What does the thimble
+‘[[Well]], Newcome.  Will that do?’ said the lawyer.  ‘What does the thimble
 say, Newcome?’
 
 How Clemency, before replying to this question, held one pocket open, and
 looked down into its yawning depths for the thimble which wasn’t
 there,—and how she then held an opposite pocket open, and seeming to
-descry it, like a pearl of great price, at the bottom, cleared away such
+descry it, like a pearl of great price, at the [[Bottom|bottom]], cleared away such
 intervening obstacles as a handkerchief, an end of wax candle, a flushed
 apple, an orange, a lucky penny, a cramp bone, a padlock, a pair of
 scissors in a sheath more expressively describable as promising young
@@ -85,7 +85,7 @@ himself at her expense.  ‘And what does the thimble say?’
 ‘For-get and For-give.’
 
 Snitchey and Craggs laughed heartily.  ‘So new!’ said Snitchey.  ‘So
-easy!’ said Craggs.  ‘Such a knowledge of human nature in it!’ said
+easy!’ said Craggs.  ‘Such a knowledge of human [[Nature|nature]] in it!’ said
 Snitchey.  ‘So applicable to the affairs of life!’ said Craggs.
 
 ‘And the nutmeg-grater?’ inquired the head of the Firm.
@@ -105,7 +105,7 @@ is—and lay the blame on us afterwards.  We, in our profession, are little
 else than mirrors after all, Mr. Alfred; but, we are generally consulted
 by angry and quarrelsome people who are not in their best looks, and it’s
 rather hard to quarrel with us if we reflect unpleasant aspects.  I
-think,’ said Mr. Snitchey, ‘that I speak for Self and Craggs?’
+think,’ said Mr. Snitchey, ‘that I speak for [[Self]] and Craggs?’
 
 ‘Decidedly,’ said Craggs.
 
@@ -120,14 +120,14 @@ stood in a state of abstraction, mentally balancing the Doctor against
 the lawyers, and the lawyers against the Doctor, and their clients
 against both, and engaged in feeble attempts to make the thimble and
 nutmeg-grater (a new idea to him) square with anybody’s system of
-philosophy; and, in short, bewildering himself as much as ever his great
+[[philosophy]]; and, in short, bewildering himself as much as ever his great
 namesake has done with theories and schools.  But, Clemency, who was his
 good Genius—though he had the meanest possible opinion of her
 understanding, by reason of her seldom troubling herself with abstract
 speculations, and being always at hand to do the right thing at the right
-time—having produced the ink in a twinkling, tendered him the further
+[[Time|time]]—having produced the ink in a twinkling, tendered him the further
 service of recalling him to himself by the application of her elbows;
-with which gentle flappers she so jogged his memory, in a more literal
+with which gentle flappers she so jogged his [[Memory|memory]], in a more literal
 construction of that phrase than usual, that he soon became quite fresh
 and brisk.
 
@@ -141,16 +141,16 @@ them before writing (the cramped hand, to say nothing of the phraseology,
 being so much Chinese to him), and also on turning them round to see
 whether there was anything fraudulent underneath; and how, having signed
 his name, he became desolate as one who had parted with his property and
-rights; I want the time to tell.  Also, how the blue bag containing his
+rights; I want the [[Time|time]] to tell.  Also, how the blue bag containing his
 signature, afterwards had a mysterious interest for him, and he couldn’t
-leave it; also, how Clemency Newcome, in an ecstasy of laughter at the
+leave it; also, how [[Clemency Newcome]], in an ecstasy of laughter at the
 idea of her own importance and dignity, brooded over the whole table with
 her two elbows, like a spread eagle, and reposed her head upon her left
 arm as a preliminary to the formation of certain cabalistic characters,
 which required a deal of ink, and imaginary counterparts whereof she
-executed at the same time with her tongue.  Also, how, having once tasted
+executed at the same [[Time|time]] with her tongue.  Also, how, having once tasted
 ink, she became thirsty in that regard, as tame tigers are said to be
 after tasting another sort of fluid, and wanted to sign everything, and
 put her name in all kinds of places.  In brief, the Doctor was discharged
 of his trust and all its responsibilities; and Alfred, taking it on
-himself, was fairly started on the journey of life.
+himself, was fairly started on the [[Journey of Life|journey of life]].

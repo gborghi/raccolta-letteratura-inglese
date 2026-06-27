@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 6 (part 1)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 6 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -44,17 +44,17 @@ ears closely to the box. I was convinced that he was dead, and
 
 determined to open the door. We found him lying at full length,
 
-apparently in a deep stupor, yet still alive. No time was to be lost,
+apparently in a deep stupor, yet still alive. No [[Time|time]] was to be lost,
 
 yet I could not bring myself to abandon an animal who had now been
 
 twice instrumental in saving my life, without some attempt at
 
-preserving him. We therefore dragged him along with us as well as we
+preserving him. We therefore dragged him along with us as [[Well|well]] as we
 
 could, although with the greatest difficulty and fatigue; Augustus,
 
-during part of the time, being forced to clamber over the impediments
+during part of the [[Time|time]], being forced to clamber over the impediments
 
 in our way with the huge dog in his arms--a feat to which the
 
@@ -88,7 +88,7 @@ performed on board the Grampus was a most shameful piece of neglect on
 
 the part of Captain Barnard, who was by no means as careful or as
 
-experienced a seaman as the hazardous nature of the service on which he
+experienced a seaman as the hazardous [[Nature|nature]] of the service on which he
 
 was employed would seem necessarily to demand. A proper stowage cannot
 
@@ -108,7 +108,7 @@ cargo or ballast's shifting position even in the most violent rollings
 
 of the vessel. With this end, great attention must be paid, not only to
 
-the bulk taken in, but to the nature of the bulk, and whether there be
+the bulk taken in, but to the [[Nature|nature]] of the bulk, and whether there be
 
 a full or only a partial cargo. In most kinds of freight the stowage is
 
@@ -118,7 +118,7 @@ the whole is screwed so tightly into the hold of the vessel that the
 
 barrels or hogsheads upon discharging are found to be completely
 
-flattened, and take some time to regain their original shape. This
+flattened, and take some [[Time|time]] to regain their original shape. This
 
 screwing, however, is resorted to principally with a view of obtaining
 
@@ -138,7 +138,7 @@ for example, tightly screwed while in certain conditions, has been
 
 known, through the expansion of its bulk, to rend a vessel asunder at
 
-sea. There can be no doubt, either, that the same result would ensue in
+sea. There can be no [[Doubt|doubt]], either, that the same result would ensue in
 
 the case of tobacco, while undergoing its usual course of fermentation,
 
@@ -154,7 +154,7 @@ apprehended from shifting, and that precautions should be always taken
 
 to guard against such misfortune. Only those who have encountered a
 
-violent gale of wind, or, rather, who have experienced the rolling of a
+violent gale of [[Wind|wind]], or, rather, who have experienced the [[rolling]] of a
 
 vessel in a sudden calm after the gale, can form an idea of the
 
@@ -176,7 +176,7 @@ there be a proper stowage_. If this, however, has not been strictly
 
 attended to, in the first of these heavy lurches the whole of the cargo
 
-tumbles over to the side of the vessel which lies upon the water, and,
+tumbles over to the side of the vessel which lies upon the [[Water|water]], and,
 
 being thus prevented from regaining her equilibrium, as she would
 

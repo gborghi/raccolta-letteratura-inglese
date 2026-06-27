@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 14)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 14)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-We were all seated round a blazing fire which crackled pleasantly as
+We were all seated round a blazing [[Fire|fire]] which crackled pleasantly as
 the guests talked merrily and the urn steamed cheerily—for, being an
 old-fashioned party, there _was_ an urn, and a teapot besides—when
 there came a postman’s knock at the door, so violent and sudden, that
@@ -23,20 +23,20 @@ interesting and most unaffected young ladies to scream aloud and to
 exhibit many afflicting symptoms of terror and distress, until they had
 been several times assured by their respective adorers, that they were
 in no danger. We were about to remark that it was surely beyond
-post-time, and must have been a runaway knock, when our host, who had
-hitherto been paralysed with wonder, sank into a chair in a perfect
+post-[[Time|time]], and must have been a runaway knock, when our host, who had
+hitherto been paralysed with [[Wonder|wonder]], sank into a chair in a perfect
 ecstasy of laughter, and offered to lay twenty pounds that it was that
 droll dog Griggins. He had no sooner said this, than the majority of
-the company and all the children of the house burst into a roar of
+the company and all the children of the [[house]] burst into a roar of
 laughter too, as if some inimitable joke flashed upon them
 simultaneously, and gave vent to various exclamations of—To be sure it
 must be Griggins, and How like him that was, and What spirits he was
-always in! with many other commendatory remarks of the like nature.
+always in! with many other commendatory remarks of the like [[Nature|nature]].
 
 Not having the happiness to know Griggins, we became extremely desirous
 to see so pleasant a fellow, the more especially as a stout gentleman
 with a powdered head, who was sitting with his breeches buckles almost
-touching the hob, whispered us he was a wit of the first water, when
+touching the hob, whispered us he was a wit of the first [[Water|water]], when
 the door opened, and Mr. Griggins being announced, presented himself,
 amidst another shout of laughter and a loud clapping of hands from the
 younger branches. This welcome he acknowledged by sundry contortions of
@@ -44,9 +44,9 @@ countenance, imitative of the clown in one of the new pantomimes, which
 were so extremely successful, that one stout gentleman rolled upon an
 ottoman in a paroxysm of delight, protesting, with many gasps, that if
 somebody didn’t make that fellow Griggins leave off, he would be the
-death of him, he knew. At this the company only laughed more
+[[Death|death]] of him, he knew. At this the company only laughed more
 boisterously than before, and as we always like to accommodate our tone
-and spirit if possible to the humour of any society in which we find
+and spirit if possible to the [[Humour|humour]] of any society in which we find
 ourself, we laughed with the rest, and exclaimed, ‘Oh! capital,
 capital!’ as loud as any of them.
 
@@ -56,27 +56,27 @@ needful introductions with much ease and many puns. This ceremony over,
 he avowed his intention of sitting in somebody’s lap unless the young
 ladies made room for him on the sofa, which being done, after a great
 deal of tittering and pleasantry, he squeezed himself among them, and
-likened his condition to that of love among the roses. At this novel
+likened his condition to that of [[Love|love]] among the roses. At this [[Novel|novel]]
 jest we all roared once more. ‘You should consider yourself highly
 honoured, sir,’ said we. ‘Sir,’ replied Mr. Griggins, ‘you do me
 proud.’ Here everybody laughed again; and the stout gentleman by the
-fire whispered in our ear that Griggins was making a dead set at us.
+[[Fire|fire]] whispered in our ear that Griggins was making a dead set at us.
 
 The tea-things having been removed, we all sat down to a round game,
 and here Mr. Griggins shone forth with peculiar brilliancy, abstracting
 other people’s fish, and looking over their hands in the most comical
 manner. He made one most excellent joke in snuffing a candle, which was
-neither more nor less than setting fire to the hair of a pale young
+neither more nor less than setting [[Fire|fire]] to the hair of a pale young
 gentleman who sat next him, and afterwards begging his pardon with
-considerable humour. As the young gentleman could not see the joke
+considerable [[Humour|humour]]. As the young gentleman could not see the joke
 however, possibly in consequence of its being on the top of his own
-head, it did not go off quite as well as it might have done; indeed,
+head, it did not go off quite as [[Well|well]] as it might have done; indeed,
 the young gentleman was heard to murmur some general references to
 ‘impertinence,’ and a ‘rascal,’ and to state the number of his lodgings
 in an angry tone—a turn of the conversation which might have been
 productive of slaughterous consequences, if a young lady, betrothed to
 the young gentleman, had not used her immediate influence to bring
-about a reconciliation: emphatically declaring in an agitated whisper,
+about a [[Reconciliation|reconciliation]]: emphatically declaring in an agitated whisper,
 intended for his peculiar edification but audible to the whole table,
 that if he went on in that way, she never would think of him otherwise
 than as a friend, though as that she must always regard him. At this
@@ -105,7 +105,7 @@ aforesaid young gentlemen, called each other to witness how they had
 struggled, and protested vehemently that it was very rude, and that
 they were surprised at Mrs. Brown’s allowing it, and that they couldn’t
 bear it, and had no patience with such impertinence. But such is the
-gentle and forgiving nature of woman, that although we looked very
+gentle and forgiving [[Nature|nature]] of woman, that although we looked very
 narrowly for it, we could not detect the slightest harshness in the
 subsequent treatment of Mr. Griggins. Indeed, upon the whole, it struck
 us that among the ladies he seemed rather more popular than before!

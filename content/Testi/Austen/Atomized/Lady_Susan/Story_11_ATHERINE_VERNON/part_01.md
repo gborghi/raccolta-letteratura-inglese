@@ -1,5 +1,5 @@
 ---
-title: "Lady Susan — ATHERINE VERNON. (part 1)"
+title: "[[Lady Susan]] — ATHERINE VERNON. (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Lady-Susan-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-CATHERINE VERNON.
+[[Catherine Vernon|CATHERINE VERNON]].
 
 
 
@@ -42,9 +42,9 @@ Churchhill.
 
 
 
-I call on you, dear Alicia, for congratulations: I am my own self, gay
+I call on you, dear Alicia, for congratulations: I am my own [[Self|self]], gay
 
-and triumphant! When I wrote to you the other day I was, in truth, in
+and triumphant! When I wrote to you the other day I was, in [[Truth|truth]], in
 
 high irritation, and with ample cause. Nay, I know not whether I ought
 
@@ -60,7 +60,7 @@ point of leaving Churchhill! I had scarcely concluded my last, when
 
 Wilson brought me word of it. I found, therefore, that something must
 
-be done; for I did not choose to leave my character at the mercy of a
+be done; for I did not choose to leave my character at the [[Mercy|mercy]] of a
 
 man whose passions are so violent and so revengeful. It would have been
 
@@ -92,15 +92,15 @@ here even an hour. I am perfectly aware that after what has passed
 
 between us it would ill suit the feelings of either to remain longer in
 
-the same house: so very great, so total a change from the intimacy of
+the same [[house]]: so very great, so total a change from the intimacy of
 
-friendship must render any future intercourse the severest punishment;
+[[Friendship|friendship]] must render any future intercourse the severest punishment;
 
 and your resolution of quitting Churchhill is undoubtedly in unison
 
 with our situation, and with those lively feelings which I know you to
 
-possess. But, at the same time, it is not for me to suffer such a
+possess. But, at the same [[Time|time]], it is not for me to suffer such a
 
 sacrifice as it must be to leave relations to whom you are so much
 
@@ -120,9 +120,9 @@ other. Where I go is of no consequence to anyone; of very little to
 
 myself; but you are of importance to all your connections.” Here I
 
-concluded, and I hope you will be satisfied with my speech. Its effect
+concluded, and I [[Hope|hope]] you will be satisfied with my speech. Its effect
 
-on Reginald justifies some portion of vanity, for it was no less
+on Reginald justifies some portion of [[Vanity|vanity]], for it was no less
 
 favourable than instantaneous. Oh, how delightful it was to watch the
 
@@ -144,11 +144,11 @@ attached, more devoted than ever, would have left me in the first angry
 
 swelling of his proud heart without deigning to seek an explanation.
 
-Humbled as he now is, I cannot forgive him such an instance of pride,
+Humbled as he now is, I cannot forgive him such an instance of [[Pride|pride]],
 
 and am doubtful whether I ought not to punish him by dismissing him at
 
-once after this reconciliation, or by marrying and teazing him for
+once after this [[Reconciliation|reconciliation]], or by marrying and teazing him for
 
 ever. But these measures are each too violent to be adopted without
 
@@ -174,7 +174,7 @@ I have also an idea of being soon in town; and whatever may be my
 
 determination as to the rest, I shall probably put _that_ project in
 
-execution; for London will be always the fairest field of action,
+execution; for [[London]] will be always the fairest field of action,
 
 however my views may be directed; and at any rate I shall there be
 
@@ -192,7 +192,7 @@ know I am not very desirous of obtaining; nor has Frederica any claim
 
 to the indulgence of her notions at the expense of her mother’s
 
-inclinations. Her idle love for Reginald, too! It is surely my duty to
+inclinations. Her idle [[Love|love]] for Reginald, too! It is surely my duty to
 
 discourage such romantic nonsense. All things considered, therefore, it
 
@@ -206,7 +206,7 @@ fact, I have not; for though he is still in my power, I have given up
 
 the very article by which our quarrel was produced, and at best the
 
-honour of victory is doubtful. Send me your opinion on all these
+[[Honour|honour]] of victory is doubtful. Send me your opinion on all these
 
 matters, my dear Alicia, and let me know whether you can get lodgings
 

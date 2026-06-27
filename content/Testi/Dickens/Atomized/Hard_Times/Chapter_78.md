@@ -29,15 +29,15 @@ discovery that to discharge this highly connected female—to have it in
 his power to say, ‘She was a woman of family, and wanted to stick to me,
 but I wouldn’t have it, and got rid of her’—would be to get the utmost
 possible amount of crowning glory out of the connection, and at the same
-time to punish Mrs. Sparsit according to her deserts.
+[[Time|time]] to punish Mrs. Sparsit according to her deserts.
 
 Filled fuller than ever, with this great idea, Mr. Bounderby came in to
 lunch, and sat himself down in the dining-room of former days, where his
-portrait was.  Mrs. Sparsit sat by the fire, with her foot in her cotton
+portrait was.  Mrs. Sparsit sat by the [[Fire|fire]], with her foot in her cotton
 stirrup, little thinking whither she was posting.
 
 Since the Pegler affair, this gentlewoman had covered her pity for Mr.
-Bounderby with a veil of quiet melancholy and contrition.  In virtue
+Bounderby with a veil of quiet [[Melancholy|melancholy]] and contrition.  In virtue
 thereof, it had become her habit to assume a woful look, which woful look
 she now bestowed upon her patron.
 
@@ -54,7 +54,7 @@ of bread, and threw the knife down with a noise.
 Mrs. Sparsit took her foot out of her stirrup, and said, ‘Mr. Bounderby,
 sir!’
 
-‘Well, ma’am?’ retorted Mr. Bounderby.  ‘What are you staring at?’
+‘[[Well]], ma’am?’ retorted Mr. Bounderby.  ‘What are you staring at?’
 
 ‘May I ask, sir,’ said Mrs. Sparsit, ‘have you been ruffled this
 morning?’
@@ -71,7 +71,7 @@ with it.’  (Mr. Bounderby felt it necessary to get on: foreseeing that if
 he allowed of details, he would be beaten.)
 
 Mrs. Sparsit first elevated, then knitted, her Coriolanian eyebrows;
-gathered up her work into its proper basket; and rose.
+gathered up her work into its proper basket; and [[Rose|rose]].
 
 ‘Sir,’ said she, majestically.  ‘It is apparent to me that I am in your
 way at present.  I will retire to my own apartment.’
@@ -110,7 +110,7 @@ you might find some affairs there, ma’am, to interfere with?’
 you mention it, should think it highly probable.’
 
 ‘Then suppose you try, ma’am,’ said Bounderby, laying an envelope with a
-cheque in it in her little basket.  ‘You can take your own time for
+cheque in it in her little basket.  ‘You can take your own [[Time|time]] for
 going, ma’am; but perhaps in the meanwhile, it will be more agreeable to
 a lady of your powers of mind, to eat her meals by herself, and not to be
 intruded upon.  I really ought to apologise to you—being only Josiah
@@ -127,7 +127,7 @@ inspire contempt.’
 Thus saying, Mrs. Sparsit, with her Roman features like a medal struck to
 commemorate her scorn of Mr. Bounderby, surveyed him fixedly from head to
 foot, swept disdainfully past him, and ascended the staircase.  Mr.
-Bounderby closed the door, and stood before the fire; projecting himself
+Bounderby closed the door, and stood before the [[Fire|fire]]; projecting himself
 after his old explosive manner into his portrait—and into futurity.
 
                                 * * * * *
@@ -144,9 +144,9 @@ young Tom’s place, and had almost captured young Tom himself, in the
 times when by various rascals he was spirited away?  Did he see any faint
 reflection of his own image making a vain-glorious will, whereby
 five-and-twenty Humbugs, past five-and-fifty years of age, each taking
-upon himself the name, Josiah Bounderby of Coketown, should for ever dine
+upon himself the name, [[Josiah Bounderby]] of Coketown, should for ever dine
 in Bounderby Hall, for ever lodge in Bounderby buildings, for ever attend
-a Bounderby chapel, for ever go to sleep under a Bounderby chaplain, for
+a Bounderby chapel, for ever go to [[Sleep|sleep]] under a Bounderby chaplain, for
 ever be supported out of a Bounderby estate, and for ever nauseate all
 healthy stomachs, with a vast amount of Bounderby balderdash and bluster?
 Had he any prescience of the day, five years to come, when Josiah
@@ -159,7 +159,7 @@ Here was Mr. Gradgrind on the same day, and in the same hour, sitting
 thoughtful in his own room.  How much of futurity did _he_ see?  Did he
 see himself, a white-haired decrepit man, bending his hitherto inflexible
 theories to appointed circumstances; making his facts and figures
-subservient to Faith, Hope, and Charity; and no longer trying to grind
+subservient to [[Faith]], [[Hope]], and [[Charity]]; and no longer trying to grind
 that Heavenly trio in his dusty little mills?  Did he catch sight of
 himself, therefore much despised by his late political associates?  Did
 he see them, in the era of its being quite settled that the national
@@ -171,22 +171,22 @@ his men.
 
                                 * * * * *
 
-Here was Louisa on the night of the same day, watching the fire as in
+Here was Louisa on the [[Night|night]] of the same day, watching the [[Fire|fire]] as in
 days of yore, though with a gentler and a humbler face.  How much of the
 future might arise before _her_ vision?  Broadsides in the streets,
-signed with her father’s name, exonerating the late Stephen Blackpool,
-weaver, from misplaced suspicion, and publishing the guilt of his own
-son, with such extenuation as his years and temptation (he could not
-bring himself to add, his education) might beseech; were of the Present.
-So, Stephen Blackpool’s tombstone, with her father’s record of his death,
+signed with her father’s name, exonerating the late [[Stephen Blackpool]],
+weaver, from misplaced suspicion, and publishing the [[Guilt|guilt]] of his own
+son, with such extenuation as his years and [[Temptation|temptation]] (he could not
+bring himself to add, his [[Education|education]]) might beseech; were of the Present.
+So, [[Stephen Blackpool]]’s tombstone, with her father’s record of his [[Death|death]],
 was almost of the Present, for she knew it was to be.  These things she
 could plainly see.  But, how much of the Future?
 
 A working woman, christened Rachael, after a long illness once again
 appearing at the ringing of the Factory bell, and passing to and fro at
-the set hours, among the Coketown Hands; a woman of pensive beauty,
+the set hours, among the Coketown Hands; a woman of pensive [[Beauty|beauty]],
 always dressed in black, but sweet-tempered and serene, and even
-cheerful; who, of all the people in the place, alone appeared to have
+cheerful; who, of all the people in the place, [[Alone|alone]] appeared to have
 compassion on a degraded, drunken wretch of her own sex, who was
 sometimes seen in the town secretly begging of her, and crying to her; a
 woman working, ever working, but content to do it, and preferring to do
@@ -194,27 +194,27 @@ it as her natural lot, until she should be too old to labour any more?
 Did Louisa see this?  Such a thing was to be.
 
 A lonely brother, many thousands of miles away, writing, on paper blotted
-with tears, that her words had too soon come true, and that all the
+with [[Tears|tears]], that her words had too soon come true, and that all the
 treasures in the world would be cheaply bartered for a sight of her dear
-face?  At length this brother coming nearer home, with hope of seeing
+face?  At length this brother coming nearer [[Home|home]], with [[Hope|hope]] of seeing
 her, and being delayed by illness; and then a letter, in a strange hand,
 saying ‘he died in hospital, of fever, such a day, and died in penitence
-and love of you: his last word being your name’?  Did Louisa see these
+and [[Love|love]] of you: his last word being your name’?  Did Louisa see these
 things?  Such things were to be.
 
 Herself again a wife—a mother—lovingly watchful of her children, ever
-careful that they should have a childhood of the mind no less than a
-childhood of the body, as knowing it to be even a more beautiful thing,
+careful that they should have a [[Childhood|childhood]] of the mind no less than a
+[[Childhood|childhood]] of the [[Body|body]], as knowing it to be even a more beautiful thing,
 and a possession, any hoarded scrap of which, is a blessing and happiness
 to the wisest?  Did Louisa see this?  Such a thing was never to be.
 
 But, happy Sissy’s happy children loving her; all children loving her;
-she, grown learned in childish lore; thinking no innocent and pretty
+she, grown learned in childish lore; thinking no [[Innocent|innocent]] and pretty
 fancy ever to be despised; trying hard to know her humbler
 fellow-creatures, and to beautify their lives of machinery and reality
 with those imaginative graces and delights, without which the heart of
 infancy will wither up, the sturdiest physical manhood will be morally
-stark death, and the plainest national prosperity figures can show, will
+stark [[Death|death]], and the plainest national prosperity figures can show, will
 be the Writing on the Wall,—she holding this course as part of no
 fantastic vow, or bond, or brotherhood, or sisterhood, or pledge, or
 covenant, or fancy dress, or fancy fair; but simply as a duty to be

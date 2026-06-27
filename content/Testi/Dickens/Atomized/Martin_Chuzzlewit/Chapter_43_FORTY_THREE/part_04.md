@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 43: FORTY THREE (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 43: FORTY THREE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 The amazement of Mrs Lupin, and indeed of Mr Tapley himself for that
 matter, at this impassioned flow of language, was immense. But Martin,
-after looking thoughtfully at the fire for a short time, said:
+after looking thoughtfully at the [[Fire|fire]] for a short [[Time|time]], said:
 
 ‘You are right, Mark. Right or wrong, it shall be done. I’ll do it.’
 
@@ -42,21 +42,21 @@ Tapley issued forth next morning, after breakfast, charged with a letter
 from Martin to his grandfather, requesting leave to wait upon him for a
 few minutes. And postponing as he went along the congratulations of his
 numerous friends until a more convenient season, he soon arrived at Mr
-Pecksniff’s house. At that gentleman’s door; with a face so immovable
+Pecksniff’s [[house]]. At that gentleman’s door; with a face so immovable
 that it would have been next to an impossibility for the most acute
 physiognomist to determine what he was thinking about, or whether he was
 thinking at all; he straightway knocked.
 
 A person of Mr Tapley’s observation could not long remain insensible
 to the fact that Mr Pecksniff was making the end of his nose very
-blunt against the glass of the parlour window, in an angular attempt to
+blunt against the glass of the parlour [[Window|window]], in an angular attempt to
 discover who had knocked at the door. Nor was Mr Tapley slow to baffle
 this movement on the part of the enemy, by perching himself on the
-top step, and presenting the crown of his hat in that direction. But
+top step, and presenting the [[Crown|crown]] of his hat in that direction. But
 possibly Mr Pecksniff had already seen him, for Mark soon heard his
 shoes creaking, as he advanced to open the door with his own hands.
 
-Mr Pecksniff was as cheerful as ever, and sang a little song in the
+Mr Pecksniff was as cheerful as ever, and sang a little [[Song|song]] in the
 passage.
 
 ‘How d’ye do, sir?’ said Mark.
@@ -93,8 +93,8 @@ handed Mark the scraps; retired, and shut the door.
 Mark thought it prudent to subdue his personal emotions, and return to
 Martin at the Dragon. They were not unprepared for such a reception,
 and suffered an hour or so to elapse before making another attempt.
-When this interval had gone by, they returned to Mr Pecksniff’s house in
-company. Martin knocked this time, while Mr Tapley prepared himself to
+When this interval had gone by, they returned to Mr Pecksniff’s [[house]] in
+company. Martin knocked this [[Time|time]], while Mr Tapley prepared himself to
 keep the door open with his foot and shoulder, when anybody came, and by
 that means secure an enforced parley. But this precaution was needless,
 for the servant-girl appeared almost immediately. Brushing quickly past
@@ -109,13 +109,13 @@ their mutual recognition, Martin saw the old man droop his grey head,
 and hide his face in his hands.
 
 It smote him to the heart. In his most selfish and most careless day,
-this lingering remnant of the old man’s ancient love, this buttress of a
-ruined tower he had built up in the time gone by, with so much pride and
-hope, would have caused a pang in Martin’s heart. But now, changed for
+this lingering remnant of the old man’s ancient [[Love|love]], this buttress of a
+ruined tower he had built up in the [[Time|time]] gone by, with so much [[Pride|pride]] and
+[[Hope|hope]], would have caused a pang in Martin’s heart. But now, changed for
 the better in his worst respect; looking through an altered medium on
-his former friend, the guardian of his childhood, so broken and bowed
-down; resentment, sullenness, self-confidence, and pride, were all swept
-away, before the starting tears upon the withered cheeks. He could not
+his former friend, the guardian of his [[Childhood|childhood]], so broken and bowed
+down; resentment, sullenness, [[Self|self]]-confidence, and [[Pride|pride]], were all swept
+away, before the starting [[Tears|tears]] upon the withered cheeks. He could not
 bear to see them. He could not bear to think they fell at sight of
 him. He could not bear to view reflected in them, the reproachful and
 irrevocable Past.
@@ -132,11 +132,11 @@ your arrows at me, sir, if you’ll have the goodness; not at Him!’
 
 ‘Would you, sir? Would you?’ said Mr Pecksniff, dodging about, so as to
 keep himself always between them. ‘Is it not enough, sir, that you come
-into my house like a thief in the night, or I should rather say, for we
-can never be too particular on the subject of Truth, like a thief in
-the day-time; bringing your dissolute companions with you, to plant
+into my [[house]] like a thief in the [[Night|night]], or I should rather say, for we
+can never be too particular on the subject of [[Truth]], like a thief in
+the day-[[Time|time]]; bringing your dissolute companions with you, to plant
 themselves with their backs against the insides of parlour doors, and
 prevent the entrance or issuing forth of any of my household’--Mark had
 taken up this position, and held it quite unmoved--‘but would you also
 strike at venerable Virtue? Would you? Know that it is not defenceless.
-I will be its shield, young man. Assail me. Come on, sir. Fire away!’
+I will be its shield, young man. Assail me. Come on, sir. [[Fire]] away!’

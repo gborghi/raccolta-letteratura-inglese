@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE VENGEANCE OF THE STATUE (part 7)"
+title: "[[manwho]] — THE VENGEANCE OF THE STATUE (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-up the garden path to where my motor bike was waiting on the road
+up the [[Garden|garden]] path to where my motor bike was waiting on the [[Road|road]]
 
 above. I had every reason for haste; but I fled without looking back
 
-at the statue and the body; and I think the thing I fled from was
+at the statue and the [[Body|body]]; and I think the thing I fled from was
 
-the sight of that appalling allegory.
+the sight of that appalling [[Allegory|allegory]].
 
 
 
-"Then I did the rest of what I had to do. All through the night and
+"Then I did the rest of what I had to do. All through the [[Night|night]] and
 
 into the daybreak and the daylight I went humming through the
 
@@ -32,13 +32,13 @@ villages and markets of South England like a traveling bullet, till
 
 I came to the headquarters in the West where the trouble was. I was
 
-just in time. I was able to placard the place, so to speak, with the
+just in [[Time|time]]. I was able to placard the place, so to speak, with the
 
-news that the government had not betrayed them, and that they would
+news that the [[government]] had not betrayed them, and that they would
 
 find supports if they would push eastward against the enemy. There's
 
-no time to tell you all that happened; but I tell you it was the day
+no [[Time|time]] to tell you all that happened; but I tell you it was the day
 
 of my life. A triumph like a torchlight procession, with torchlights
 
@@ -46,11 +46,11 @@ that might have been firebrands. The mutinies simmered down; the men
 
 of Somerset and the western counties came pouring into the market
 
-places; the men who died with Arthur and stood firm with Alfred. The
+places; the men who died with [[arthur|Arthur]] and stood firm with Alfred. The
 
 Irish regiments rallied to them, after a scene like a riot, and
 
-marched eastward out of the town singing Fenian songs. There was all
+marched eastward out of the town singing Fenian [[songs]]. There was all
 
 that is not understood, about the dark laughter of that people, in
 
@@ -60,7 +60,7 @@ defense of England, they shouted at the top of their voices, 'High
 
 upon the gallows tree stood the noble-hearted three . . . With
 
-England's cruel cord about them cast.' However, the chorus was 'God
+England's cruel cord about them cast.' However, the [[Chorus|chorus]] was 'God
 
 save Ireland,' and we could all have sung that just then, in one
 
@@ -78,7 +78,7 @@ the enemy had pushed forward the great battery that covered all his
 
 movements; and though our friends from the West could hardly arrive
 
-in time to intercept the main movement, they might get within long
+in [[Time|time]] to intercept the main movement, they might get within long
 
 artillery range of the battery and shell it, if they only knew
 
@@ -114,7 +114,7 @@ more.
 
 "We must walk the rest of the way," he said, "and the last bit of
 
-all I must walk alone."
+all I must walk [[Alone|alone]]."
 
 
 
@@ -130,7 +130,7 @@ took it under his arm and began to pick his way across the turf. The
 
 ground was growing more tumbled and irregular and he was walking
 
-toward a mass of thickets and small woods; night grew darker every
+toward a mass of thickets and small woods; [[Night|night]] grew darker every
 
 moment. "We must not talk any more," said Fisher. "I shall whisper
 
@@ -162,7 +162,7 @@ a gesture. He caught his companion's hand and wrung it with a
 
 violent tenderness, and then darted forward into the darkness. March
 
-could faintly see his figure crawling along under the shadow of the
+could faintly see his figure crawling along under the [[Shadow|shadow]] of the
 
 ridge, then he lost sight of it, and then he saw it again standing
 
@@ -180,7 +180,7 @@ fierce but familiar sound; and an instant after the rocket left its
 
 perch and went up into endless space like a starry arrow aimed at
 
-the stars. March thought suddenly of the signs of the last days and
+the [[Stars|stars]]. March thought suddenly of the signs of the last days and
 
 knew he was looking at the apocalyptic meteor of something like a
 
@@ -190,13 +190,13 @@ Day of judgment.
 
 Far up in the infinite heavens the rocket drooped and sprang into
 
-scarlet stars. For a moment the whole landscape out to the sea and
+scarlet [[Stars|stars]]. For a moment the whole landscape out to the sea and
 
 back to the crescent of the wooded hills was like a lake of ruby
 
 light, of a red strangely rich and glorious, as if the world were
 
-steeped in wine rather than blood, or the earth were an earthly
+steeped in wine rather than [[Blood|blood]], or the earth were an earthly
 
 paradise, over which paused forever the sanguine moment of morning.
 

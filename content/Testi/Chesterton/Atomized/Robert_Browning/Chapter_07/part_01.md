@@ -27,7 +27,7 @@ voicing the essential and distinct versions of the case. One of the
 ablest and most sympathetic of all the critics of Browning, Mr.
 Augustine Birrell, has said in one place that the speeches of the two
 advocates in _The Ring and the Book_ will scarcely be very interesting
-to the ordinary reader. However that may be, there can be little doubt
+to the ordinary reader. However that may be, there can be little [[Doubt|doubt]]
 that a great number of the readers of Browning think them beside the
 mark and adventitious. But it is exceedingly dangerous to say that
 anything in Browning is irrelevant or unnecessary. We are apt to go on
@@ -55,15 +55,15 @@ that a poet of the type of Browning lived some centuries hence and
 found in some _cause célèbre_ of our day, such as the Parnell
 Commission, an opportunity for a work similar in its design to _The
 Ring and the Book_. The first monologue, which would be called
-"Half-London," would be the arguments of an ordinary educated and
+"Half-[[London]]," would be the arguments of an ordinary educated and
 sensible Unionist who believed that there really was evidence that the
 Nationalist movement in Ireland was rooted in crime and public panic.
-The "Otherhalf-London" would be the utterance of an ordinary educated
-and sensible Home Ruler, who thought that in the main Nationalism was
+The "Otherhalf-[[London]]" would be the utterance of an ordinary educated
+and sensible [[Home]] Ruler, who thought that in the main Nationalism was
 one distinct symptom, and crime another, of the same poisonous and
 stagnant problem. The "Tertium Quid" would be some detached
 intellectual, committed neither to Nationalism nor to Unionism,
-possibly Mr. Bernard Shaw, who would make a very entertaining Browning
+possibly Mr. Bernard [[Shaw]], who would make a very entertaining Browning
 monologue. Then of course would come the speeches of the great actors
 in the drama, the icy anger of Parnell, the shuffling apologies of
 Pigott. But we should feel that the record was incomplete without
@@ -95,39 +95,39 @@ Browningite will regard the criticism made by so many of Browning's
 critics and biographers about _The Ring and the Book_. That criticism
 was embodied by one of them in the words "the theme looked at
 dispassionately is unworthy of the monument in which it is entombed
-for eternity." Now this remark shows at once that the critic does not
+for [[Eternity|eternity]]." Now this remark shows at once that the critic does not
 know what _The Ring and the Book_ means. We feel about it as we should
 feel about a man who said that the plot of _Tristram Shandy_ was not
-well constructed, or that the women in Rossetti's pictures did not
+[[Well|well]] constructed, or that the women in Rossetti's pictures did not
 look useful and industrious. A man who has missed the fact that
 _Tristram Shandy is_ a game of digressions, that the whole book is a
 kind of practical joke to cheat the reader out of a story, simply has
 not read _Tristram Shandy_ at all. The man who objects to the Rossetti
 pictures because they depict a sad and sensuous day-dream, objects to
 their existing at all. And any one who objects to Browning writing his
-huge epic round a trumpery and sordid police-case has in reality
+huge [[Epic|epic]] round a trumpery and sordid police-case has in reality
 missed the whole length and breadth of the poet's meaning. The essence
-of _The Ring and the Book_ is that it is the great epic of the
-nineteenth century, because it is the great epic of the enormous
+of _The Ring and the Book_ is that it is the great [[Epic|epic]] of the
+nineteenth century, because it is the great [[Epic|epic]] of the enormous
 importance of small things. The supreme difference that divides _The
-Ring and the Book_ from all the great poems of similar length and
+Ring and the Book_ from all the great [[Poems|poems]] of similar length and
 largeness of design is precisely the fact that all these are about
 affairs commonly called important, and _The Ring and the Book_ is
 about an affair commonly called contemptible. Homer says, "I will show
 you the relations between man and heaven as exhibited in a great
-legend of love and war, which shall contain the mightiest of all
+legend of [[Love|love]] and war, which shall contain the mightiest of all
 mortal warriors, and the most beautiful of all mortal women." The
 author of the Book of Job says, "I will show you the relations between
 man and heaven by a tale of primeval sorrows and the voice of God out
 of a whirlwind." Virgil says, "I will show you the relations of man to
 heaven by the tale of the origin of the greatest people and the
-founding of the most wonderful city in the world." Dante says, "I will
+founding of the most wonderful [[City|city]] in the world." [[Dante]] says, "I will
 show you the relations of man to heaven by uncovering the very
 machinery of the spiritual universe, and letting you hear, as I have
-heard, the roaring of the mills of God." Milton says, "I will show you
+heard, the roaring of the mills of God." [[Milton]] says, "I will show you
 the relations of man to heaven by telling you of the very beginning of
 all things, and the first shaping of the thing that is evil in the
-first twilight of time." Browning says, "I will show you the relations
+first twilight of [[Time|time]]." Browning says, "I will show you the relations
 of man to heaven by telling you a story out of a dirty Italian book of
 criminal trials from which I select one of the meanest and most
 completely forgotten." Until we have realised this fundamental idea in

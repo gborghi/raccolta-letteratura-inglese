@@ -1,5 +1,5 @@
 ---
-title: "The Literary Life of Thingum Bob, Esq (part 5)"
+title: "[[The Literary Life of Thingum Bob, Esq]] (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Literary-Life-of-Thingum-Bob,-Esq-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-      rivals as Hyperion with a Satyr. The ‘Hum-Drum,’ the ‘Rowdy-Dow,’
+      rivals as [[Hyperion]] with a Satyr. The ‘Hum-Drum,’ the ‘Rowdy-Dow,’
 
       and the ‘Goosetherumfoodle,’ excel, it is true, in braggadocio,
 
@@ -58,7 +58,7 @@ tags:
 
       “Toad”—a print highly distinguished for its uprightness, and
 
-      independence—for its entire freedom from sycophancy and
+      independence—for its entire [[Freedom|freedom]] from sycophancy and
 
       subservience to the givers of dinners:
 
@@ -68,7 +68,7 @@ tags:
 
       contemporaries, and infinitely surpasses them, of course, in the
 
-      splendor of its embellishments, as well as in the richness of its
+      splendor of its embellishments, as [[Well|well]] as in the richness of its
 
       literary contents. The ‘Hum-Drum,’ the ‘Rowdy-Dow,’ and the
 
@@ -116,7 +116,7 @@ tags:
 
       in our power to satisfy. ‘Snob’ is the nom de plume of Mr.
 
-      Thingum Bob, of this city,—a relative of the great Mr. Thingum,
+      Thingum Bob, of this [[City|city]],—a relative of the great Mr. Thingum,
 
       (after whom he is named,) and otherwise connected with the most
 
@@ -164,9 +164,9 @@ tags:
 
       advisedly. The ‘Hum-Drum,’ the ‘Rowdy-Dow’ and the
 
-      ‘Goosetherumfoodle’ must look well to their laurels. These
+      ‘Goosetherumfoodle’ must look [[Well|well]] to their laurels. These
 
-      prints, no doubt, surpass every thing in loudness of pretension,
+      prints, no [[Doubt|doubt]], surpass every thing in loudness of pretension,
 
       but, in all other points, give us the ‘Lollipop!’ How this
 
@@ -202,7 +202,7 @@ tags:
 
       is a Mr. Thingum Bob, Esq., sole heir of a wealthy merchant of
 
-      this city, Thomas Bob, Esq., and a near relative of the
+      this [[City|city]], Thomas Bob, Esq., and a near relative of the
 
       distinguished Mr. Thingum. The title of Mr. B.‘s admirable poem
 

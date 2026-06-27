@@ -23,7 +23,7 @@ No matter. There is inquiry on foot, and pursuit. Say! Is there not?’
 ‘Yes.’
 
 ‘Check it; divert it! Don’t let her be brought in question. Shield
-her. The guilty man, brought to justice, would poison her name. Let the
+her. The guilty man, brought to justice, would [[Poison|poison]] her name. Let the
 guilty man go unpunished. Lizzie and my reparation before all! Promise
 me!’
 
@@ -42,7 +42,7 @@ The dolls’ dressmaker, all softened compassion now, watched him with an
 earnestness that never relaxed. She would regularly change the ice, or
 the cooling spirit, on his head, and would keep her ear at the pillow
 betweenwhiles, listening for any faint words that fell from him in his
-wanderings. It was amazing through how many hours at a time she would
+wanderings. It was amazing through how many hours at a [[Time|time]] she would
 remain beside him, in a crouching attitude, attentive to his slightest
 moan. As he could not move a hand, he could make no sign of distress;
 but, through this close watching (if through no secret sympathy or
@@ -53,29 +53,29 @@ and she would change the dressing of a wound, or ease a ligature, or
 turn his face, or alter the pressure of the bedclothes on him, with an
 absolute certainty of doing right. The natural lightness and delicacy of
 touch which had become very refined by practice in her miniature work,
-no doubt was involved in this; but her perception was at least as fine.
+no [[Doubt|doubt]] was involved in this; but her perception was at least as fine.
 
 The one word, Lizzie, he muttered millions of times. In a certain phase
 of his distressful state, which was the worst to those who tended him,
 he would roll his head upon the pillow, incessantly repeating the name
 in a hurried and impatient manner, with the misery of a disturbed mind,
-and the monotony of a machine. Equally, when he lay still and staring,
+and the monotony of a [[Machine|machine]]. Equally, when he lay still and staring,
 he would repeat it for hours without cessation, but then, always in a
 tone of subdued warning and horror. Her presence and her touch upon his
 breast or face would often stop this, and then they learned to expect
-that he would for some time remain still, with his eyes closed, and that
+that he would for some [[Time|time]] remain still, with his eyes closed, and that
 he would be conscious on opening them. But, the heavy disappointment of
-their hope—revived by the welcome silence of the room—was, that his
+their [[Hope|hope]]—revived by the welcome [[Silence|silence]] of the room—was, that his
 spirit would glide away again and be lost, in the moment of their joy
 that it was there.
 
 This frequent rising of a drowning man from the deep, to sink again, was
 dreadful to the beholders. But, gradually the change stole upon him that
-it became dreadful to himself. His desire to impart something that was
+it became dreadful to himself. His [[Desire|desire]] to impart something that was
 on his mind, his unspeakable yearning to have speech with his friend
 and make a communication to him, so troubled him when he recovered
 consciousness, that its term was thereby shortened. As the man rising
-from the deep would disappear the sooner for fighting with the water, so
+from the deep would disappear the sooner for fighting with the [[Water|water]], so
 he in his desperate struggle went down again.
 
 One afternoon when he had been lying still, and Lizzie, unrecognized,
@@ -89,7 +89,7 @@ Lightwood’s name.
 Lightwood shook his head. ‘Still, Eugene, you are no worse than you
 were.’
 
-‘But I know there’s no hope. Yet I pray it may last long enough for you
+‘But I know there’s no [[Hope|hope]]. Yet I pray it may last long enough for you
 to do me one last service, and for me to do one last action. Keep me
 here a few moments, Mortimer. Try, try!’
 
@@ -143,6 +143,6 @@ He stooped, and she whispered in his ear. She whispered in his ear one
 short word of a single syllable. Lightwood started, and looked at her.
 
 ‘Try it,’ said the little creature, with an excited and exultant face.
-She then bent over the unconscious man, and, for the first time, kissed
+She then bent over the unconscious man, and, for the first [[Time|time]], kissed
 him on the cheek, and kissed the poor maimed hand that was nearest to
 her. Then, she withdrew to the foot of the bed.

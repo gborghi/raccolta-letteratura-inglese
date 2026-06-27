@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 9"
+title: "[[Shirley]] — Chapter 9"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -40,7 +40,7 @@ said to Sykes, whose senses were not acute enough to enable him to
 
 discover unassisted where his presence and conversation were a nuisance,
 
-"Come, sir; your road and mine lie partly together. Had we not better
+"Come, sir; your [[Road|road]] and mine lie partly together. Had we not better
 
 bear each other company? We'll bid Moore good-morning, and leave him to
 
@@ -56,11 +56,11 @@ the happy fancies he seems disposed to indulge."
 
 I've been helping you a little; I flatter myself not injudiciously. I
 
-thought it better not to lose time; so, while you were parleying with
+thought it better not to lose [[Time|time]]; so, while you were parleying with
 
 that down-looking gentleman--Farren I think his name is--I opened this
 
-back window, shouted to Murgatroyd, who was in the stable, to bring Mr.
+back [[Window|window]], shouted to Murgatroyd, who was in the stable, to bring Mr.
 
 Sykes's gig round; then I smuggled Sugden and brother Moses--wooden leg
 
@@ -90,9 +90,9 @@ only just what was absolutely necessary to the progress of business,
 
 but looked at him a good deal out of the corners of his eyes, frequently
 
-came to poke the counting-house fire for him, and once, as he was
+came to poke the counting-[[house]] [[Fire|fire]] for him, and once, as he was
 
-locking up for the day (the mill was then working short time, owing to
+locking up for the day (the mill was then working short [[Time|time]], owing to
 
 the slackness of trade), observed that it was a grand evening, and he
 
@@ -106,7 +106,7 @@ At this recommendation Mr. Moore burst into a short laugh, and after
 
 demanding of Joe what all this solicitude meant, and whether he took him
 
-for a woman or a child, seized the keys from his hand, and shoved him by
+for a woman or a [[Child|child]], seized the keys from his hand, and shoved him by
 
 the shoulders out of his presence. He called him back, however, ere he
 
@@ -114,15 +114,15 @@ had reached the yard-gate.
 
 
 
-"Joe, do you know those Farrens? They are not well off, I suppose?"
+"Joe, do you know those Farrens? They are not [[Well|well]] off, I suppose?"
 
 
 
-"They cannot be well off, sir, when they've not had work as a three
+"They cannot be [[Well|well]] off, sir, when they've not had work as a three
 
 month. Ye'd see yoursel' 'at William's sorely changed--fair paired.
 
-They've selled most o' t' stuff out o' th' house."
+They've selled most o' t' stuff out o' th' [[house]]."
 
 
 
@@ -138,9 +138,9 @@ They've selled most o' t' stuff out o' th' house."
 
 
 
-"Niver dacenter. Th' wife's a raight cant body, and as clean--ye mught
+"Niver dacenter. Th' wife's a raight cant [[Body|body]], and as clean--ye mught
 
-eat your porridge off th' house floor. They're sorely comed down. I wish
+eat your porridge off th' [[house]] floor. They're sorely comed down. I wish
 
 William could get a job as gardener or summat i' that way; he
 
@@ -170,29 +170,29 @@ Which Joe did accordingly.
 
 
 
-Spring evenings are often cold and raw, and though this had been a fine
+[[Spring]] evenings are often cold and raw, and though this had been a fine
 
 day, warm even in the morning and meridian sunshine, the air chilled at
 
-sunset, the ground crisped, and ere dusk a hoar frost was insidiously
+sunset, the ground crisped, and ere dusk a hoar [[Frost|frost]] was insidiously
 
 stealing over growing grass and unfolding bud. It whitened the pavement
 
 in front of Briarmains (Mr. Yorke's residence), and made silent havoc
 
-among the tender plants in his garden, and on the mossy level of his
+among the tender plants in his [[Garden|garden]], and on the mossy level of his
 
 lawn. As to that great tree, strong-trunked and broad-armed, which
 
-guarded the gable nearest the road, it seemed to defy a spring-night
+guarded the gable nearest the [[Road|road]], it seemed to defy a [[Spring|spring]]-[[Night|night]]
 
-frost to harm its still bare boughs; and so did the leafless grove of
+[[Frost|frost]] to harm its still bare boughs; and so did the leafless grove of
 
-walnut-trees rising tall behind the house.
+walnut-trees rising tall behind the [[house]].
 
 
 
-In the dusk of the moonless if starry night, lights from windows shone
+In the dusk of the moonless if starry [[Night|night]], lights from windows shone
 
 vividly. This was no dark or lonely scene, nor even a silent one.
 
@@ -204,21 +204,21 @@ fields was the only path conducting to it. Briarfield lay scarce a mile
 
 off; its hum was heard, its glare distinctly seen. Briar Chapel, a
 
-large, new, raw Wesleyan place of worship, rose but a hundred yards
+large, new, raw Wesleyan place of worship, [[Rose|rose]] but a hundred yards
 
-distant; and as there was even now a prayer-meeting being held within
+distant; and as there was even now a [[prayer]]-meeting being held within
 
 its walls, the illumination of its windows cast a bright reflection on
 
-the road, while a hymn of a most extraordinary description, such as a
+the [[Road|road]], while a [[Hymn|hymn]] of a most extraordinary description, such as a
 
-very Quaker might feel himself moved by the Spirit to dance to, roused
+very Quaker might feel himself moved by the Spirit to [[Dance|dance]] to, roused
 
 cheerily all the echoes of the vicinage. The words were distinctly
 
 audible by snatches. Here is a quotation or two from different strains;
 
-for the singers passed jauntily from hymn to hymn and from tune to tune,
+for the singers passed jauntily from [[Hymn|hymn]] to [[Hymn|hymn]] and from tune to tune,
 
 with an ease and buoyancy all their own:--
 
@@ -228,7 +228,7 @@ with an ease and buoyancy all their own:--
 
        This struggle for life,
 
-     This travail and pain,
+     This travail and [[Pain|pain]],
 
        This trembling and strife?
 
@@ -248,7 +248,7 @@ with an ease and buoyancy all their own:--
 
      The warrior's delight
 
-       Is slaughter and blood,
+       Is slaughter and [[Blood|blood]],
 
      His foes overturning,
 
@@ -256,11 +256,11 @@ with an ease and buoyancy all their own:--
 
      And this is with burning,
 
-       And fuel, and fire!"
+       And fuel, and [[Fire|fire]]!"
 
 
 
-Here followed an interval of clamorous prayer, accompanied by fearful
+Here followed an interval of clamorous [[prayer]], accompanied by fearful
 
 groans. A shout of "I've found liberty!" "Doad o' Bill's has fun'
 
@@ -268,7 +268,7 @@ liberty!" rang from the chapel, and out all the assembly broke again.
 
 
 
-    "What a mercy is this!
+    "What a [[Mercy|mercy]] is this!
 
       What a heaven of bliss!
 
@@ -296,13 +296,13 @@ liberty!" rang from the chapel, and out all the assembly broke again.
 
 
 
-    "Oh, the fathomless love
+    "Oh, the fathomless [[Love|love]]
 
       That has deigned to approve
 
     And prosper the work of my hands.
 
-      With my pastoral crook
+      With my [[Pastoral|pastoral]] crook
 
       I went over the brook,
 
@@ -320,7 +320,7 @@ liberty!" rang from the chapel, and out all the assembly broke again.
 
       They are born from the skies,
 
-    And gives glory to God and the Lamb!"
+    And gives glory to God and the [[Lamb]]!"
 
 
 
@@ -336,13 +336,13 @@ cap the climax of noise and zeal.
 
      Tophet gaped to take us in;
 
-     Mercy to our rescue flew,
+     [[Mercy]] to our rescue flew,
 
      Broke the snare, and brought us through.
 
 
 
-    "Here, as in a lion's den,
+    "Here, as in a [[Lion|lion]]'s den,
 
      Undevoured we still remain,
 
@@ -364,7 +364,7 @@ the last stanza was given.)
 
     "Here we raise our voices higher,
 
-     Shout in the refiner's fire,
+     Shout in the refiner's [[Fire|fire]],
 
      Clap our hands amidst the flame,
 
@@ -410,11 +410,11 @@ the predominant hues, glittering round a gravely-tinted medallion in the
 
 centre of each, representing the suave head of William Shakespeare, and
 
-the serene one of John Milton. Some Canadian views hung on the
+the serene one of John [[Milton]]. Some Canadian views hung on the
 
-walls--green forest and blue water scenery--and in the midst of them
+walls--green forest and blue [[Water|water]] scenery--and in the midst of them
 
-blazes a night-eruption of Vesuvius; very ardently it glows, contrasted
+blazes a [[Night|night]]-eruption of Vesuvius; very ardently it glows, contrasted
 
 with the cool foam and azure of cataracts, and the dusky depths of
 
@@ -422,13 +422,13 @@ woods.
 
 
 
-The fire illuminating this room, reader, is such as, if you be a
+The [[Fire|fire]] illuminating this room, reader, is such as, if you be a
 
 southern, you do not often see burning on the hearth of a private
 
-apartment. It is a clear, hot coal fire, heaped high in the ample
+apartment. It is a clear, hot coal [[Fire|fire]], heaped high in the ample
 
-chimney. Mr. Yorke _will_ have such fires even in warm summer weather.
+chimney. Mr. Yorke _will_ have such fires even in warm [[Summer|summer]] weather.
 
 He sits beside it with a book in his hand, a little round stand at his
 
@@ -444,11 +444,11 @@ care on her front and on her shoulders, but not overwhelming, inevitable
 
 care, rather the sort of voluntary, exemplary cloud and burden people
 
-ever carry who deem it their duty to be gloomy. Ah, well-a-day! Mrs.
+ever carry who deem it their duty to be gloomy. Ah, [[Well|well]]-a-day! Mrs.
 
-Yorke had that notion, and grave as Saturn she was, morning, noon, and,
+Yorke had that notion, and [[Grave|grave]] as [[Saturn]] she was, morning, [[Noon|noon]], and,
 
-night; and hard things she thought if any unhappy wight--especially of
+[[Night|night]]; and hard things she thought if any unhappy wight--especially of
 
 the female sex--who dared in her presence to show the light of a gay
 
@@ -470,27 +470,27 @@ at arm's length.
 
 
 
-Mr. Yorke and she agreed perfectly well, yet he was naturally a social,
+Mr. Yorke and she agreed perfectly [[Well|well]], yet he was naturally a social,
 
-hospitable man, an advocate for family unity; and in his youth, as has
+hospitable man, an advocate for family [[unity]]; and in his youth, as has
 
 been said, he liked none but lively, cheerful women. Why he chose her,
 
 how they contrived to suit each other, is a problem puzzling enough, but
 
-which might soon be solved if one had time to go into the analysis of
+which might soon be solved if one had [[Time|time]] to go into the analysis of
 
-the case. Suffice it here to say that Yorke had a shadowy side as well
+the case. Suffice it here to say that Yorke had a shadowy side as [[Well|well]]
 
 as a sunny side to his character, and that his shadowy side found
 
 sympathy and affinity in the whole of his wife's uniformly overcast
 
-nature. For the rest, she was a strong-minded woman; never said a weak
+[[Nature|nature]]. For the rest, she was a strong-minded woman; never said a weak
 
 or a trite thing; took stern, democratic views of society, and rather
 
-cynical ones of human nature; considered herself perfect and safe, and
+cynical ones of human [[Nature|nature]]; considered herself perfect and safe, and
 
 the rest of the world all wrong. Her main fault was a brooding, eternal,
 
@@ -508,7 +508,7 @@ turn out quite ordinary, commonplace beings; and they were not. You see
 
 six of them, reader. The youngest is a baby on the mother's knee. It is
 
-all her own yet, and that one she has not yet begun to doubt, suspect,
+all her own yet, and that one she has not yet begun to [[Doubt|doubt]], suspect,
 
 condemn; it derives its sustenance from her, it hangs on her, it clings
 
@@ -520,11 +520,11 @@ loves it.
 
 
 
-The two next are girls, Rose and Jessy; they are both now at their
+The two next are girls, [[Rose]] and Jessy; they are both now at their
 
 father's knee; they seldom go near their mother, except when obliged to
 
-do so. Rose, the elder, is twelve years old; she is like her father--the
+do so. [[Rose]], the elder, is twelve years old; she is like her father--the
 
 most like him of the whole group--but it is a granite head copied in
 
@@ -534,27 +534,27 @@ face--his daughter's is not harsh, neither is it quite pretty; it is
 
 simple, childlike in feature; the round cheeks bloom: as to the gray
 
-eyes, they are otherwise than childlike; a serious soul lights them--a
+eyes, they are otherwise than childlike; a serious [[Soul|soul]] lights them--a
 
-young soul yet, but it will mature, if the body lives; and neither
+young [[Soul|soul]] yet, but it will mature, if the [[Body|body]] lives; and neither
 
 father nor mother have a spirit to compare with it. Partaking of the
 
 essence of each, it will one day be better than either--stronger, much
 
-purer, more aspiring. Rose is a still, sometimes a stubborn, girl now.
+purer, more aspiring. [[Rose]] is a still, sometimes a stubborn, girl now.
 
 Her mother wants to make of her such a woman as she is herself--a woman
 
-of dark and dreary duties; and Rose has a mind full-set, thick-sown with
+of dark and dreary duties; and [[Rose]] has a mind full-set, thick-sown with
 
 the germs of ideas her mother never knew. It is agony to her often to
 
 have these ideas trampled on and repressed. She has never rebelled yet;
 
-but if hard driven, she will rebel one day, and then it will be once for
+but if hard driven, she will [[Rebel|rebel]] one day, and then it will be once for
 
-all. Rose loves her father: her father does not rule her with a rod of
+all. [[Rose]] loves her father: her father does not rule her with a rod of
 
 iron; he is good to her. He sometimes fears she will not live, so bright
 
@@ -582,15 +582,15 @@ ways, is made to be a pet, and her father's pet she accordingly is. It
 
 is odd that the doll should resemble her mother feature by feature, as
 
-Rose resembles her father, and yet the physiognomy--how different!
+[[Rose]] resembles her father, and yet the physiognomy--how different!
 
 
 
-Mr. Yorke, if a magic mirror were now held before you, and if therein
+Mr. Yorke, if a [[Magic|magic]] [[Mirror|mirror]] were now held before you, and if therein
 
 were shown you your two daughters as they will be twenty years from this
 
-night, what would you think? The magic mirror is here: you shall learn
+[[Night|night]], what would you think? The [[Magic|magic]] [[Mirror|mirror]] is here: you shall learn
 
 their destinies--and first that of your little life, Jessy.
 
@@ -598,39 +598,39 @@ their destinies--and first that of your little life, Jessy.
 
 Do you know this place? No, you never saw it; but you recognize the
 
-nature of these trees, this foliage--the cypress, the willow, the yew.
+[[Nature|nature]] of these trees, this foliage--the cypress, the willow, the yew.
 
 Stone crosses like these are not unfamiliar to you, nor are these dim
 
-garlands of everlasting flowers. Here is the place--green sod and a gray
+garlands of everlasting [[Flowers|flowers]]. Here is the place--green sod and a gray
 
 marble headstone. Jessy sleeps below. She lived through an April day;
 
 much loved was she, much loving. She often, in her brief life, shed
 
-tears, she had frequent sorrows; she smiled between, gladdening whatever
+[[Tears|tears]], she had frequent sorrows; she smiled between, gladdening whatever
 
-saw her. Her death was tranquil and happy in Rose's guardian arms, for
+saw her. Her [[Death|death]] was tranquil and happy in [[Rose]]'s guardian arms, for
 
-Rose had been her stay and defence through many trials. The dying and
+[[Rose]] had been her stay and defence through many trials. The dying and
 
-the watching English girls were at that hour alone in a foreign
+the watching English girls were at that hour [[Alone|alone]] in a foreign
 
-country, and the soil of that country gave Jessy a grave.
+country, and the soil of that country gave Jessy a [[Grave|grave]].
 
 
 
-Now, behold Rose two years later. The crosses and garlands looked
+Now, behold [[Rose]] two years later. The crosses and garlands looked
 
 strange, but the hills and woods of this landscape look still stranger.
 
 This, indeed, is far from England; remote must be the shores which wear
 
-that wild, luxuriant aspect. This is some virgin solitude. Unknown birds
+that wild, luxuriant aspect. This is some virgin [[Solitude|solitude]]. Unknown [[Birds|birds]]
 
-flutter round the skirts of that forest; no European river this, on
+flutter round the skirts of that forest; no European [[River|river]] this, on
 
-whose banks Rose sits thinking. The little quiet Yorkshire girl is a
+whose banks [[Rose]] sits thinking. The little quiet Yorkshire girl is a
 
 lonely emigrant in some region of the southern hemisphere. Will she ever
 
@@ -654,7 +654,7 @@ of a separate character, belongs to each.
 
 
 
-I shall not say much about Matthew, the first-born of the house, though
+I shall not say much about Matthew, the first-born of the [[house]], though
 
 it is impossible to avoid gazing at him long, and conjecturing what
 
@@ -670,7 +670,7 @@ to which Matthew's face seems to bear an affinity, and of which, ever
 
 and anon, it reminds you strangely--the eruption of Vesuvius? Flame and
 
-shadow seem the component parts of that lad's soul--no daylight in it,
+[[Shadow|shadow]] seem the component parts of that lad's [[Soul|soul]]--no daylight in it,
 
 and no sunshine, and no pure, cool moonbeam ever shone there. He has an
 
@@ -684,19 +684,19 @@ a low voice he pleads, "Mark and Martin, don't anger your brother." And
 
 this is ever the tone adopted by both parents. Theoretically, they decry
 
-partiality--no rights of primogeniture are to be allowed in that house;
+partiality--no rights of primogeniture are to be allowed in that [[house]];
 
 but Matthew is never to be vexed, never to be opposed; they avert
 
-provocation from him as assiduously as they would avert fire from a
+provocation from him as assiduously as they would avert [[Fire|fire]] from a
 
 barrel of gunpowder. "Concede, conciliate," is their motto wherever he
 
-is concerned. The republicans are fast making a tyrant of their own
+is concerned. The republicans are fast making a [[Tyrant|tyrant]] of their own
 
-flesh and blood. This the younger scions know and feel, and at heart
+flesh and [[Blood|blood]]. This the younger scions know and feel, and at heart
 
-they all rebel against the injustice. They cannot read their parents'
+they all [[Rebel|rebel]] against the injustice. They cannot read their parents'
 
 motives; they only see the difference of treatment. The dragon's teeth
 
@@ -718,7 +718,7 @@ waters are not always the safest. Besides, he is too still, unmoved,
 
 phlegmatic, to be happy. Life will never have much joy in it for Mark.
 
-By the time he is five-and-twenty he will wonder why people ever laugh,
+By the [[Time|time]] he is five-and-twenty he will [[Wonder|wonder]] why people ever laugh,
 
 and think all fools who seem merry. Poetry will not exist for Mark,
 
@@ -728,13 +728,13 @@ mere rant and jargon. Enthusiasm will be his aversion and contempt. Mark
 
 will have no youth; while he looks juvenile and blooming, he will be
 
-already middle-aged in mind. His body is now fourteen years of age, but
+already middle-aged in mind. His [[Body|body]] is now fourteen years of age, but
 
-his soul is already thirty.
+his [[Soul|soul]] is already thirty.
 
 
 
-Martin, the youngest of the three, owns another nature. Life may, or may
+Martin, the youngest of the three, owns another [[Nature|nature]]. Life may, or may
 
 not, be brief for him, but it will certainly be brilliant. He will pass
 
@@ -780,9 +780,9 @@ and capacity. Mr. Yorke knows this, and is proud of his race. Yorkshire
 
 has such families here and there amongst her hills and wolds--peculiar,
 
-racy, vigorous; of good blood and strong brain; turbulent somewhat in
+racy, vigorous; of good [[Blood|blood]] and strong brain; turbulent somewhat in
 
-the pride of their strength, and intractable in the force of their
+the [[Pride|pride]] of their strength, and intractable in the force of their
 
 native powers; wanting polish, wanting consideration, wanting docility,
 
@@ -796,9 +796,9 @@ A low tap is heard at the parlour door; the boys have been making such a
 
 noise over their game, and little Jessy, besides, has been singing so
 
-sweet a Scotch song to her father--who delights in Scotch and Italian
+sweet a Scotch [[Song|song]] to her father--who delights in Scotch and Italian
 
-songs, and has taught his musical little daughter some of the best--that
+[[songs]], and has taught his musical little daughter some of the best--that
 
 the ring at the outer door was not observed.
 
@@ -814,11 +814,11 @@ give orders for the making of a pudding in the kitchen, to bid the boys
 
 hang up their caps in the hall, or to call the girls to their
 
-sewing--"come in!" And in came Robert Moore.
+sewing--"come in!" And in came [[Robert Moore]].
 
 
 
-Moore's habitual gravity, as well as his abstemiousness (for the case of
+Moore's habitual gravity, as [[Well|well]] as his abstemiousness (for the case of
 
 spirit decanters is never ordered up when he pays an evening visit), has
 
@@ -830,25 +830,25 @@ found out that he is hampered by a secret intrigue which prevents him
 
 from marrying, or that he is a wolf in sheep's clothing--discoveries
 
-which she made at an early date after marriage concerning most of her
+which she made at an early date after [[Marriage|marriage]] concerning most of her
 
 husband's bachelor friends, and excluded them from her board
 
 accordingly; which part of her conduct, indeed, might be said to have
 
-its just and sensible as well as its harsh side.
+its just and sensible as [[Well|well]] as its harsh side.
 
 
 
-"Well, is it you?" she says to Mr. Moore, as he comes up to her and
+"[[Well]], is it you?" she says to Mr. Moore, as he comes up to her and
 
-gives his hand. "What are you roving about at this time of night for?
+gives his hand. "What are you roving about at this [[Time|time]] of [[Night|night]] for?
 
-You should be at home."
+You should be at [[Home|home]]."
 
 
 
-"Can a single man be said to have a home, madam?" he asks.
+"Can a single man be said to have a [[Home|home]], madam?" he asks.
 
 
 
@@ -860,9 +860,9 @@ speaking on all occasions is carried to a point calculated, sometimes,
 
 to awaken admiration, but oftener alarm--"pooh! you need not talk
 
-nonsense to me; a single man can have a home if he likes. Pray, does not
+nonsense to me; a single man can have a [[Home|home]] if he likes. Pray, does not
 
-your sister make a home for you?"
+your sister make a [[Home|home]] for you?"
 
 
 
@@ -882,7 +882,7 @@ occasionally to crack a dry jest against matrimony, even though it
 
 should be at her own expense. "He has repented it in sackcloth and
 
-ashes, Robert Moore, as you may well believe when you see his
+ashes, [[Robert Moore]], as you may [[Well|well]] believe when you see his
 
 punishment" (here she pointed to her children). "Who would burden
 
@@ -900,7 +900,7 @@ two daughters, and look twice before you leap."
 
 "I am not tempted now, at any rate. I think these are not times for
 
-marrying or giving in marriage."
+marrying or giving in [[Marriage|marriage]]."
 
 
 
@@ -912,7 +912,7 @@ said, "I make little account of the wisdom of a Solomon of your age; it
 
 will be upset by the first fancy that crosses you. Meantime, sit down,
 
-sir. You can talk, I suppose, as well sitting as standing?"
+sir. You can talk, I suppose, as [[Well|well]] sitting as standing?"
 
 
 
@@ -928,7 +928,7 @@ Mr. Moore's arms, which were very promptly held out to receive her.
 
 as she was lifted lightly to his knee, "and he is married now, or as
 
-good. He promised that I should be his wife last summer, the first time
+good. He promised that I should be his wife last [[Summer|summer]], the first [[Time|time]]
 
 he saw me in my new white frock and blue sash. Didn't he, father?"
 
@@ -946,7 +946,7 @@ it over again now, Jessy. Such as he are only false loons."
 
 "He is not false. He is too bonny to be false," said Jessy, looking up
 
-to her tall sweetheart with the fullest confidence in his faith.
+to her tall sweetheart with the fullest confidence in his [[Faith|faith]].
 
 
 
@@ -964,23 +964,23 @@ think he forgot promises soon, but Mr. Moore never laughs."
 
 
 
-"Your sentimental buck is the greatest cheat of all, Rose," remarked Mr.
+"Your sentimental buck is the greatest cheat of all, [[Rose]]," remarked Mr.
 
 Yorke.
 
 
 
-"He's not sentimental," said Rose.
+"He's not sentimental," said [[Rose]].
 
 
 
 Mr. Moore turned to her with a little surprise, smiling at the same
 
-time.
+[[Time|time]].
 
 
 
-"How do you know I am not sentimental, Rose?"
+"How do you know I am not sentimental, [[Rose]]?"
 
 
 
@@ -990,7 +990,7 @@ time.
 
 "Voilà, qui devient intéressant!" exclaimed Mr. Yorke, hitching his
 
-chair nearer the fire. "A lady! That has quite a romantic twang. We must
+chair nearer the [[Fire|fire]]. "A lady! That has quite a romantic twang. We must
 
 guess who it is.--Rosy, whisper the name low to your father. Don't let
 
@@ -998,7 +998,7 @@ _him_ hear."
 
 
 
-"Rose, don't be too forward to talk," here interrupted Mrs. Yorke, in
+"[[Rose]], don't be too forward to talk," here interrupted Mrs. Yorke, in
 
 her usual kill-joy fashion, "nor Jessy either. It becomes all children,
 
@@ -1006,11 +1006,11 @@ especially girls, to be silent in the presence of their elders."
 
 
 
-"Why have we tongues, then?" asked Jessy pertly; while Rose only looked
+"Why have we tongues, then?" asked Jessy pertly; while [[Rose]] only looked
 
 at her mother with an expression that seemed to say she should take that
 
-maxim in and think it over at her leisure. After two minutes' grave
+maxim in and think it over at her leisure. After two minutes' [[Grave|grave]]
 
 deliberation, she asked, "And why especially girls, mother?"
 
@@ -1026,7 +1026,7 @@ are a girl's best wisdom."
 
 me, indeed, of my dear sister's observations; but really it is not
 
-applicable to these little ones. Let Rose and Jessy talk to me freely,
+applicable to these little ones. Let [[Rose]] and Jessy talk to me freely,
 
 or my chief pleasure in coming here is gone. I like their prattle; it
 
@@ -1052,9 +1052,9 @@ boys. All my uncles and aunts seem to think their nephews better than
 
 their nieces, and when gentlemen come here to dine, it is always
 
-Matthew, and Mark, and Martin that are talked to, and never Rose and me.
+Matthew, and Mark, and Martin that are talked to, and never [[Rose]] and me.
 
-Mr. Moore is _our_ friend, and we'll keep him.--But mind, Rose, he's not
+Mr. Moore is _our_ friend, and we'll keep him.--But mind, [[Rose]], he's not
 
 so much your friend as he is mine. He is my _particular acquaintance_;
 
@@ -1064,29 +1064,29 @@ gesture.
 
 
 
-Rose was quite accustomed to be admonished by that small hand. Her will
+[[Rose]] was quite accustomed to be admonished by that small hand. Her will
 
 daily bent itself to that of the impetuous little Jessy. She was guided,
 
 overruled by Jessy in a thousand things. On all occasions of show and
 
-pleasure Jessy took the lead, and Rose fell quietly into the background;
+pleasure Jessy took the lead, and [[Rose]] fell quietly into the background;
 
 whereas, when the disagreeables of life--its work and privations--were
 
-in question, Rose instinctively took upon her, in addition to her own
+in question, [[Rose]] instinctively took upon her, in addition to her own
 
 share, what she could of her sister's. Jessy had already settled it in
 
-her mind that she, when she was old enough, was to be married; Rose, she
+her mind that she, when she was old enough, was to be married; [[Rose]], she
 
 decided, must be an old maid, to live with her, look after her children,
 
-keep her house. This state of things is not uncommon between two
+keep her [[house]]. This state of things is not uncommon between two
 
 sisters, where one is plain and the other pretty; but in this case, if
 
-there _was_ a difference in external appearance, Rose had the advantage:
+there _was_ a difference in external appearance, [[Rose]] had the advantage:
 
 her face was more regular-featured than that of the piquant little
 
@@ -1094,23 +1094,23 @@ Jessy. Jessy, however, was destined to possess, along with sprightly
 
 intelligence and vivacious feeling, the gift of fascination, the power
 
-to charm when, where, and whom she would. Rose was to have a fine,
+to charm when, where, and whom she would. [[Rose]] was to have a fine,
 
-generous soul, a noble intellect profoundly cultivated, a heart as true
+generous [[Soul|soul]], a noble intellect profoundly cultivated, a heart as true
 
 as steel, but the manner to attract was not to be hers.
 
 
 
-"Now, Rose, tell me the name of this lady who denied that I was
+"Now, [[Rose]], tell me the name of this lady who denied that I was
 
 sentimental," urged Mr. Moore.
 
 
 
-Rose had no idea of tantalization, or she would have held him a while in
+[[Rose]] had no idea of tantalization, or she would have held him a while in
 
-doubt. She answered briefly, "I can't. I don't know her name."
+[[Doubt|doubt]]. She answered briefly, "I can't. I don't know her name."
 
 
 
@@ -1120,7 +1120,7 @@ doubt. She answered briefly, "I can't. I don't know her name."
 
 "When Jessy and I went to spend the day at Whinbury with Kate and Susan
 
-Pearson, who were just come home from school, there was a party at Mrs.
+Pearson, who were just come [[Home|home]] from school, there was a party at Mrs.
 
 Pearson's, and some grown-up ladies were sitting in a corner of the
 
@@ -1142,7 +1142,7 @@ drawing-room talking about you."
 
 "Some of them were. They called you a misanthrope. I remember the word.
 
-I looked for it in the dictionary when I came home. It means a
+I looked for it in the dictionary when I came [[Home|home]]. It means a
 
 man-hater."
 
@@ -1164,7 +1164,7 @@ one with the red hair--a fine girl, but half-witted."
 
 "She has wit enough for me, it appears," said Moore. "A solemn puppy,
 
-indeed! Well, Rose, go on."
+indeed! [[Well]], [[Rose]], go on."
 
 
 
@@ -1176,7 +1176,7 @@ like some sort of a sentimental noodle."
 
 
 
-Again Mr. Yorke laughed. Mrs. Yorke even joined in this time. "You see
+Again Mr. Yorke laughed. Mrs. Yorke even joined in this [[Time|time]]. "You see
 
 in what esteem you are held behind your back," said she; "yet I believe
 
@@ -1192,9 +1192,9 @@ you first came into the country, old as she is."
 
 "A lady whom I don't know, because she never visits here, though I see
 
-her every Sunday at church. She sits in the pew near the pulpit. I
+her every [[Sunday]] at church. She sits in the pew near the pulpit. I
 
-generally look at her, instead of looking at my prayer-book, for she is
+generally look at her, instead of looking at my [[prayer]]-book, for she is
 
 like a picture in our dining-room, that woman with the dove in her
 
@@ -1206,21 +1206,21 @@ that makes all her face look, somehow, what I call clear."
 
 "And you don't know her!" exclaimed Jessy, in a tone of exceeding
 
-surprise. "That's so like Rose. Mr. Moore, I often wonder in what sort
+surprise. "That's so like [[Rose]]. Mr. Moore, I often [[Wonder|wonder]] in what sort
 
-of a world my sister lives. I am sure she does not live all her time in
+of a world my sister lives. I am sure she does not live all her [[Time|time]] in
 
 this. One is continually finding out that she is quite ignorant of some
 
 little matter which everybody else knows. To think of her going solemnly
 
-to church every Sunday, and looking all service-time at one particular
+to church every [[Sunday]], and looking all service-[[Time|time]] at one particular
 
 person, and never so much as asking that person's name. She means
 
-Caroline Helstone, the rector's niece. I remember all about it. Miss
+[[Caroline Helstone]], the rector's niece. I remember all about it. Miss
 
-Helstone was quite angry with Anne Pearson. She said, 'Robert Moore is
+Helstone was quite angry with Anne Pearson. She said, '[[Robert Moore]] is
 
 neither affected nor sentimental; you mistake his character utterly, or
 
@@ -1228,7 +1228,7 @@ rather not one of you here knows anything about it.' Now, shall I tell
 
 you what she is like? I can tell what people are like, and how they are
 
-dressed, better than Rose can."
+dressed, better than [[Rose]] can."
 
 
 
@@ -1276,7 +1276,7 @@ Hereupon Mr. Moore gave both the little girls an invitation to pay him a
 
 visit next day, promising that, as he was going to Stilbro' in the
 
-morning, he would buy them each a present, of what nature he would not
+morning, he would buy them each a present, of what [[Nature|nature]] he would not
 
 then declare, but they must come and see. Jessy was about to reply, when
 
@@ -1286,7 +1286,7 @@ one of the boys unexpectedly broke in,--
 
 "I know that Miss Helstone you have all been palavering about. She's an
 
-ugly girl. I hate her. I hate all womenites. I wonder what they were
+ugly girl. I hate her. I hate all womenites. I [[Wonder|wonder]] what they were
 
 made for."
 
@@ -1320,11 +1320,11 @@ about to be admired. I'll never marry. I'll be a bachelor."
 
 "Stick to it! stick to it!--Hesther" (addressing his wife), "I was like
 
-him when I was his age--a regular misogamist; and, behold! by the time I
+him when I was his age--a regular misogamist; and, behold! by the [[Time|time]] I
 
-was three-and-twenty--being then a tourist in France and Italy, and the
+was three-and-twenty--being then a tourist in France and [[Italy]], and the
 
-Lord knows where--I curled my hair every night before I went to bed, and
+Lord knows where--I curled my hair every [[Night|night]] before I went to bed, and
 
 wore a ring i' my ear, and would have worn one i' my nose if it had been
 
@@ -1374,7 +1374,7 @@ and with an expression of still irony in his face not easy to describe.
 
 "Mr. Moore," said he, "you think perhaps it was a compliment on Miss
 
-Caroline Helstone's part to say you were not sentimental. I thought you
+[[Caroline Helstone]]'s part to say you were not sentimental. I thought you
 
 appeared confused when my sisters told you the words, as if you felt
 
@@ -1408,7 +1408,7 @@ enfants terribles, que les vôtres!"
 
 
 
-Rose, who had been listening attentively to Mark's speech, replied to
+[[Rose]], who had been listening attentively to Mark's speech, replied to
 
 him, "There are different kinds of thoughts, ideas, and notions," said
 
@@ -1420,23 +1420,23 @@ was defending him."
 
 
 
-"That's my kind little advocate!" said Moore, taking Rose's hand.
+"That's my kind little advocate!" said Moore, taking [[Rose]]'s hand.
 
 
 
-"She was defending him," repeated Rose, "as I should have done had I
+"She was defending him," repeated [[Rose]], "as I should have done had I
 
 been in her place, for the other ladies seemed to speak spitefully."
 
 
 
-"Ladies always do speak spitefully," observed Martin. "It is the nature
+"Ladies always do speak spitefully," observed Martin. "It is the [[Nature|nature]]
 
 of womenites to be spiteful."
 
 
 
-Matthew now, for the first time, opened his lips. "What a fool Martin
+Matthew now, for the first [[Time|time]], opened his lips. "What a [[Fool|fool]] Martin
 
 is, to be always gabbling about what he does not understand!"
 
@@ -1460,9 +1460,9 @@ added, standing up at the table, and pointing across it to
 
 Matthew--"this fellow forgets, what every cottier in Briarfield knows,
 
-that all born of our house have that arched instep under which water can
+that all born of our [[house]] have that arched instep under which [[Water|water]] can
 
-flow--proof that there has not been a slave of the blood for three
+flow--proof that there has not been a slave of the [[Blood|blood]] for three
 
 hundred years."
 
@@ -1480,11 +1480,11 @@ mischief-maker. There would have been no disturbance but for you."
 
 "Indeed! Is that correct? Did I begin, or did Matthew? Had I spoken to
 
-him when he accused me of gabbling like a fool?"
+him when he accused me of gabbling like a [[Fool|fool]]?"
 
 
 
-"A presumptuous fool!" repeated Matthew.
+"A presumptuous [[Fool|fool]]!" repeated Matthew.
 
 
 
@@ -1518,7 +1518,7 @@ as he turned to leave the room.
 
 
 
-"Somewhere where I shall be safe from insult, if in this house I can
+"Somewhere where I shall be safe from insult, if in this [[house]] I can
 
 find any such place."
 
@@ -1538,7 +1538,7 @@ trembled through all his slight lad's frame; but he restrained himself.
 
 
 
-Martin went, and Matthew sent another insolent laugh after him. Rose,
+Martin went, and Matthew sent another insolent laugh after him. [[Rose]],
 
 lifting her fair head from Moore's shoulder, against which, for a
 
@@ -1546,17 +1546,17 @@ moment, it had been resting, said, as she directed a steady gaze to
 
 Matthew, "Martin is grieved, and you are glad; but I would rather be
 
-Martin than you. I dislike your nature."
+Martin than you. I dislike your [[Nature|nature]]."
 
 
 
 Here Mr. Moore, by way of averting, or at least escaping, a scene--which
 
-a sob from Mrs. Yorke warned him was likely to come on--rose, and
+a sob from Mrs. Yorke warned him was likely to come on--[[Rose|rose]], and
 
-putting Jessy off his knee, he kissed her and Rose, reminding them, at
+putting Jessy off his knee, he kissed her and [[Rose]], reminding them, at
 
-the same time, to be sure and come to the Hollow in good time to-morrow
+the same [[Time|time]], to be sure and come to the Hollow in good [[Time|time]] to-morrow
 
 afternoon; then, having taken leave of his hostess, he said to Mr.
 
@@ -1608,13 +1608,13 @@ cloth-dressers who came to me this morning to complain and threaten.
 
 William did not threaten. He only asked me to give them rather more
 
-time--to make my changes more slowly. You know I cannot do that:
+[[Time|time]]--to make my changes more slowly. You know I cannot do that:
 
 straitened on all sides as I am, I have nothing for it but to push on. I
 
 thought it would be idle to palaver long with them. I sent them away,
 
-after arresting a rascal amongst them, whom I hope to transport--a
+after arresting a rascal amongst them, whom I [[Hope|hope]] to transport--a
 
 fellow who preaches at the chapel yonder sometimes."
 
@@ -1634,7 +1634,7 @@ make a martyr. You've done a wise thing."
 
 
 
-"I've done a right thing. Well, the short and the long of it is, I'm
+"I've done a right thing. [[Well]], the short and the long of it is, I'm
 
 determined to get Farren a place, and I reckon on you to give him one."
 
@@ -1658,7 +1658,7 @@ great charge to undertake; but great or little, I'll none of it."
 
 "_I_ find! You'll make me use language I'm not accustomed to use. I wish
 
-you would go home. Here is the door; set off."
+you would go [[Home|home]]. Here is the door; set off."
 
 
 
@@ -1678,7 +1678,7 @@ don't understand this change."
 
 
 
-"I do. The fellow spoke to me nothing but truth and sense. I answered
+"I do. The fellow spoke to me nothing but [[Truth|truth]] and sense. I answered
 
 him just as roughly as I did the rest, who jabbered mere gibberish. I
 
@@ -1716,7 +1716,7 @@ be to do a dishonest thing."
 
 
 
-"Come, let us take a turn on the front. It is a starlight night," said
+"Come, let us take a turn on the front. It is a starlight [[Night|night]]," said
 
 Mr. Yorke.
 
@@ -1724,7 +1724,7 @@ Mr. Yorke.
 
 They passed out, closing the front door after them, and side by side
 
-paced the frost-white pavement to and fro.
+paced the [[Frost|frost]]-white pavement to and fro.
 
 
 
@@ -1736,7 +1736,7 @@ there."
 
 
 
-"Well, so be it. I'll send for him to-morrow, and we'll see. And now, my
+"[[Well]], so be it. I'll send for him to-morrow, and we'll see. And now, my
 
 lad, you're concerned about the condition of your affairs?"
 
@@ -1756,7 +1756,7 @@ re-establishing the old firm on its former basis."
 
 
 
-"Yes; but you might as well say that breath is all a dead man wants to
+"Yes; but you might as [[Well|well]] say that breath is all a dead man wants to
 
 live."
 
@@ -1770,25 +1770,25 @@ pretty nigh desperate; but the young and unencumbered have chances
 
 peculiar to themselves. I hear gossip now and then about your being on
 
-the eve of marriage with this miss and that; but I suppose it is none of
+the eve of [[Marriage|marriage]] with this miss and that; but I suppose it is none of
 
 it true?"
 
 
 
-"You may well suppose that. I think I am not in a position to be
+"You may [[Well|well]] suppose that. I think I am not in a position to be
 
-dreaming of marriage. Marriage! I cannot bear the word; it sounds so
+dreaming of [[Marriage|marriage]]. [[Marriage]]! I cannot bear the word; it sounds so
 
-silly and utopian. I have settled it decidedly that marriage and love
+silly and utopian. I have settled it decidedly that [[Marriage|marriage]] and [[Love|love]]
 
 are superfluities, intended only for the rich, who live at ease, and
 
 have no need to take thought for the morrow; or desperations--the last
 
-and reckless joy of the deeply wretched, who never hope to rise out of
+and reckless joy of the deeply wretched, who never [[Hope|hope]] to rise out of
 
-the slough of their utter poverty."
+the slough of their utter [[Poverty|poverty]]."
 
 
 
@@ -1800,7 +1800,7 @@ suit both me and my affairs."
 
 
 
-"I wonder where?"
+"I [[Wonder|wonder]] where?"
 
 
 
@@ -1816,7 +1816,7 @@ suit both me and my affairs."
 
 
 
-"I'd rather break stones on the road."
+"I'd rather break stones on the [[Road|road]]."
 
 
 
@@ -1824,7 +1824,7 @@ suit both me and my affairs."
 
 
 
-"Bah! I hate ugliness and delight in beauty. My eyes and heart, Yorke,
+"Bah! I hate ugliness and delight in [[Beauty|beauty]]. My eyes and heart, Yorke,
 
 take pleasure in a sweet, young, fair face, as they are repelled by a
 
@@ -1838,7 +1838,7 @@ ones prejudice me. I won't have an ugly wife."
 
 
 
-"Not if she were dressed in gems. I could not love--I could not fancy--I
+"Not if she were dressed in gems. I could not [[Love|love]]--I could not fancy--I
 
 could not endure her. My taste must have satisfaction, or disgust would
 
@@ -1856,11 +1856,11 @@ cheek-bones, the rather wide mouth, and reddish hair?"
 
 "I'll never try, I tell you. Grace at least I _will_ have, and youth and
 
-symmetry--yes, and what I call beauty."
+symmetry--yes, and what I call [[Beauty|beauty]]."
 
 
 
-"And poverty, and a nursery full of bairns you can neither clothe nor
+"And [[Poverty|poverty]], and a nursery full of bairns you can neither clothe nor
 
 feed, and very soon an anxious, faded mother; and then bankruptcy,
 
@@ -1868,17 +1868,17 @@ discredit--a life-long struggle."
 
 
 
-"Let me alone, Yorke."
+"Let me [[Alone|alone]], Yorke."
 
 
 
-"If you are romantic, Robert, and especially if you are already in love,
+"If you are romantic, Robert, and especially if you are already in [[Love|love]],
 
 it is of no use talking."
 
 
 
-"I am not romantic. I am stripped of romance as bare as the white
+"I am not romantic. I am stripped of [[Romance|romance]] as bare as the white
 
 tenters in that field are of cloth."
 
@@ -1886,17 +1886,17 @@ tenters in that field are of cloth."
 
 "Always use such figures of speech, lad; I can understand them. And
 
-there is no love affair to disturb your judgment?"
+there is no [[Love|love]] affair to disturb your judgment?"
 
 
 
-"I thought I had said enough on that subject before. Love for me?
+"I thought I had said enough on that subject before. [[Love]] for me?
 
 Stuff!"
 
 
 
-"Well, then, if you are sound both in heart and head, there is no
+"[[Well]], then, if you are sound both in heart and head, there is no
 
 reason why you should not profit by a good chance if it offers;
 
@@ -1920,10 +1920,10 @@ circumstances."
 
 
 
-"In the meantime, I care naught about ye, Robert Moore: ye are nothing
+"In the meantime, I care naught about ye, [[Robert Moore]]: ye are nothing
 
 akin to me or mine, and whether ye lose or find a fortune it maks no
 
-difference to me. Go home, now. It has stricken ten. Miss Hortense will
+difference to me. Go [[Home|home]], now. It has stricken ten. Miss Hortense will
 
 be wondering where ye are."

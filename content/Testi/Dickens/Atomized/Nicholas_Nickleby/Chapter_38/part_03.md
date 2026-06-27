@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 38 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 38 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -28,7 +28,7 @@ that he could scarcely endure it.
 tonight?’ asked Sir Mulberry.
 
 ‘Nothing,’ replied Ralph. ‘There are some bills of my lord’s which need
-renewal; but let them be till you are well. I--I--came,’ said Ralph,
+renewal; but let them be till you are [[Well|well]]. I--I--came,’ said Ralph,
 speaking more slowly, and with harsher emphasis, ‘I came to say how
 grieved I am that any relative of mine, although disowned by me, should
 have inflicted such punishment on you as--’
@@ -46,7 +46,7 @@ interfere.’
 Sir Mulberry, clenching his hands and teeth.
 
 ‘Noised in all directions,’ replied Ralph. ‘Every club and gaming-room
-has rung with it. There has been a good song made about it, as I am
+has rung with it. There has been a good [[Song|song]] made about it, as I am
 told,’ said Ralph, looking eagerly at his questioner. ‘I have not heard
 it myself, not being in the way of such things, but I have been told
 it’s even printed--for private circulation--but that’s all over town, of
@@ -65,22 +65,22 @@ with his hand to his ear, and a face as calm as if its every line of
 sternness had been cast in iron.
 
 ‘When I am off this cursed bed,’ said the invalid, actually striking at
-his broken leg in the ecstasy of his passion, ‘I’ll have such revenge as
+his broken leg in the ecstasy of his passion, ‘I’ll have such [[Revenge|revenge]] as
 never man had yet. By God, I will. Accident favouring him, he has marked
 me for a week or two, but I’ll put a mark on him that he shall carry
-to his grave. I’ll slit his nose and ears, flog him, maim him for life.
+to his [[Grave|grave]]. I’ll slit his nose and ears, flog him, maim him for life.
 I’ll do more than that; I’ll drag that pattern of chastity, that pink of
 prudery, the delicate sister, through--’
 
-It might have been that even Ralph’s cold blood tingled in his cheeks
+It might have been that even Ralph’s cold [[Blood|blood]] tingled in his cheeks
 at that moment. It might have been that Sir Mulberry remembered, that,
-knave and usurer as he was, he must, in some early time of infancy, have
+knave and usurer as he was, he must, in some early [[Time|time]] of infancy, have
 twined his arm about her father’s neck. He stopped, and menacing with
 his hand, confirmed the unuttered threat with a tremendous oath.
 
-‘It is a galling thing,’ said Ralph, after a short term of silence,
+‘It is a galling thing,’ said Ralph, after a short term of [[Silence|silence]],
 during which he had eyed the sufferer keenly, ‘to think that the man
-about town, the rake, the ROUE, the rook of twenty seasons should be
+about town, the rake, the ROUE, the rook of twenty [[Seasons|seasons]] should be
 brought to this pass by a mere boy!’
 
 Sir Mulberry darted a wrathful look at him, but Ralph’s eyes were bent
@@ -100,17 +100,17 @@ pretty sure I couldn’t be mistaken. He is light and active, I suppose.
 But those were slight advantages compared with yours. Luck, luck! These
 hang-dog outcasts have it.’
 
-‘He’ll need the most he has, when I am well again,’ said Sir Mulberry
+‘He’ll need the most he has, when I am [[Well|well]] again,’ said Sir Mulberry
 Hawk, ‘let him fly where he will.’
 
 ‘Oh!’ returned Ralph quickly, ‘he doesn’t dream of that. He is here,
-good sir, waiting your pleasure, here in London, walking the streets
+good sir, waiting your pleasure, here in [[London]], walking the streets
 at noonday; carrying it off jauntily; looking for you, I swear,’ said
 Ralph, his face darkening, and his own hatred getting the upper hand
-of him, for the first time, as this gay picture of Nicholas presented
+of him, for the first [[Time|time]], as this gay picture of Nicholas presented
 itself; ‘if we were only citizens of a country where it could be safely
 done, I’d give good money to have him stabbed to the heart and rolled
-into the kennel for the dogs to tear.’
+into the kennel for the [[dogs]] to tear.’
 
 As Ralph, somewhat to the surprise of his old client, vented this
 little piece of sound family feeling, and took up his hat preparatory to
@@ -123,7 +123,7 @@ Croak, croak, croak. Bow, wow, wow. What has it all been about?’
 ‘Sir Mulberry has been angry, my Lord,’ said Ralph, looking towards the
 couch.
 
-‘Not about money, I hope? Nothing has gone wrong in business, has it,
+‘Not about money, I [[Hope|hope]]? Nothing has gone wrong in business, has it,
 Nickleby?’
 
 ‘No, my Lord, no,’ returned Ralph. ‘On that point we always agree. Sir

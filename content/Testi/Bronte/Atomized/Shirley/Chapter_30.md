@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 30"
+title: "[[Shirley]] — Chapter 30"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,7 +24,7 @@ RUSHEDGE--A CONFESSIONAL.
 
 
 
-Everybody said it was high time for Mr. Moore to return home. All
+Everybody said it was high [[Time|time]] for Mr. Moore to return [[Home|home]]. All
 
 Briarfield wondered at his strange absence, and Whinbury and Nunnely
 
@@ -52,7 +52,7 @@ This was known at Briarfield. The newspapers had reported it. The
 
 _Stilbro' Courier_ had given every particular, with amplifications. None
 
-applauded his perseverance or hailed his success, though the mill-owners
+applauded his perseverance or hailed his [[success]], though the mill-owners
 
 were glad of it, trusting that the terrors of law vindicated would
 
@@ -74,7 +74,7 @@ his life was not worth an hour's purchase if he did.
 
 "I'll tell him that," said Mr. Yorke, when his foreman mentioned the
 
-rumour; "and if _that_ does not bring him home full gallop, nothing
+rumour; "and if _that_ does not bring him [[Home|home]] full gallop, nothing
 
 will."
 
@@ -92,7 +92,7 @@ meet him.
 
 
 
-It was market-day. Moore arrived in time to take his usual place at the
+It was market-day. Moore arrived in [[Time|time]] to take his usual place at the
 
 market dinner. As something of a stranger, and as a man of note and
 
@@ -148,9 +148,9 @@ painful indeed is the panegyric of those we contemn. Often had Moore
 
 gazed with a brilliant countenance over howling crowds from a hostile
 
-hustings. He had breasted the storm of unpopularity with gallant bearing
+hustings. He had breasted the [[Storm|storm]] of unpopularity with gallant bearing
 
-and soul elate; but he drooped his head under the half-bred tradesmen's
+and [[Soul|soul]] elate; but he drooped his head under the half-bred tradesmen's
 
 praise, and shrank chagrined before their congratulations.
 
@@ -158,7 +158,7 @@ praise, and shrank chagrined before their congratulations.
 
 Yorke could not help asking him how he liked his supporters, and whether
 
-he did not think they did honour to his cause. "But it is a pity, lad,"
+he did not think they did [[Honour|honour]] to his cause. "But it is a pity, lad,"
 
 he added, "that you did not hang these four samples of the unwashed. If
 
@@ -170,7 +170,7 @@ like a conquering general."
 
 
 
-Moore soon forsook the wine, broke from the party, and took the road.
+Moore soon forsook the wine, broke from the party, and took the [[Road|road]].
 
 In less than five minutes Mr. Yorke followed him. They rode out of
 
@@ -178,11 +178,11 @@ Stilbro' together.
 
 
 
-It was early to go home, but yet it was late in the day. The last ray of
+It was early to go [[Home|home]], but yet it was late in the day. The last ray of
 
-the sun had already faded from the cloud-edges, and the October night
+the sun had already faded from the cloud-edges, and the October [[Night|night]]
 
-was casting over the moorlands the shadow of her approach.
+was casting over the moorlands the [[Shadow|shadow]] of her approach.
 
 
 
@@ -190,7 +190,7 @@ Mr. Yorke, moderately exhilarated with his moderate libations, and not
 
 displeased to see young Moore again in Yorkshire, and to have him for
 
-his comrade during the long ride home, took the discourse much to
+his comrade during the long ride [[Home|home]], took the discourse much to
 
 himself. He touched briefly, but scoffingly, on the trials and the
 
@@ -202,13 +202,13 @@ long he attacked Moore on his own personal concerns.
 
 "Bob, I believe you are worsted, and you deserve it. All was smooth.
 
-Fortune had fallen in love with you. She had decreed you the first prize
+Fortune had fallen in [[Love|love]] with you. She had decreed you the first prize
 
-in her wheel--twenty thousand pounds; she only required that you should
+in her [[Wheel|wheel]]--twenty thousand pounds; she only required that you should
 
 hold your hand out and take it. And what did you do? You called for a
 
-horse and rode a-hunting to Warwickshire. Your sweetheart--Fortune, I
+[[Horse|horse]] and rode a-hunting to Warwickshire. Your sweetheart--Fortune, I
 
 mean--was perfectly indulgent. She said, 'I'll excuse him; he's young.'
 
@@ -222,11 +222,11 @@ a good lad. You might still have had her first prize.
 
 "It capped her beyond expression, and me too, to find that, instead of
 
-thundering home in a breakneck gallop and laying your assize laurels at
+thundering [[Home|home]] in a breakneck gallop and laying your assize laurels at
 
-her feet, you coolly took coach up to London. What you have done there
+her feet, you coolly took coach up to [[London]]. What you have done there
 
-Satan knows; nothing in this world, I believe, but sat and sulked. Your
+[[Satan]] knows; nothing in this world, I believe, but sat and sulked. Your
 
 face was never lily fair, but it is olive green now. You're not as bonny
 
@@ -238,7 +238,7 @@ as you were, man."
 
 
 
-"Only a baronet; that is all. I have not a doubt in my own mind you've
+"Only a baronet; that is all. I have not a [[Doubt|doubt]] in my own mind you've
 
 lost her. She will be Lady Nunnely before Christmas."
 
@@ -248,7 +248,7 @@ lost her. She will be Lady Nunnely before Christmas."
 
 
 
-"But she need not to have been. Fool of a lad! I swear you might have
+"But she need not to have been. [[Fool]] of a lad! I swear you might have
 
 had her."
 
@@ -270,7 +270,7 @@ they grew when your name was mentioned, though of custom they are pale."
 
 "It ought to be. But try; it is worth trying. I call this Sir Philip
 
-milk and water. And then he writes verses, they say--tags rhymes. _You_
+milk and [[Water|water]]. And then he writes verses, they say--tags rhymes. _You_
 
 are above that, Bob, at all events."
 
@@ -284,7 +284,7 @@ eleventh hour?"
 
 "You can but make the experiment, Robert. If she has a fancy for
 
-you--and, on my conscience, I believe she has or had--she will forgive
+you--and, on my [[Conscience|conscience]], I believe she has or had--she will forgive
 
 much. But, my lad, you are laughing. Is it at me? You had better grin at
 
@@ -306,13 +306,13 @@ it against a harder wall."
 
 
 
-"Ha! I'm glad to hear that. Sharp exercise yon! I hope it has done you
+"Ha! I'm glad to hear that. Sharp exercise yon! I [[Hope|hope]] it has done you
 
-good--ta'en some of the self-conceit out of you?"
+good--ta'en some of the [[Self|self]]-conceit out of you?"
 
 
 
-"Self-conceit? What is it? Self-respect, self-tolerance even, what are
+"[[Self]]-conceit? What is it? [[Self]]-respect, [[Self|self]]-tolerance even, what are
 
 they? Do you sell the articles? Do you know anybody who does? Give an
 
@@ -328,17 +328,17 @@ mind. What has gone wrong?"
 
 
 
-"The machinery of all my nature; the whole enginery of this human mill;
+"The machinery of all my [[Nature|nature]]; the whole enginery of this human mill;
 
 the boiler, which I take to be the heart, is fit to burst."
 
 
 
-"That suld be putten i' print; it's striking. It's almost blank verse.
+"That suld be putten i' print; it's striking. It's almost [[Blank Verse|blank verse]].
 
 Ye'll be jingling into poetry just e'now. If the afflatus comes, give
 
-way, Robert. Never heed me; I'll bear it this whet [time]."
+way, Robert. Never heed me; I'll bear it this whet [[[Time|time]]]."
 
 
 
@@ -366,7 +366,7 @@ my breast, and I choose that you shall hear how it can yell."
 
 sings--tones off like a soft, deep bell--I've felt myself tremble again.
 
-The night is still. It listens. It is just leaning down to you, like a
+The [[Night|night]] is still. It listens. It is just leaning down to you, like a
 
 black priest to a blacker penitent. Confess, lad. Smooth naught down. Be
 
@@ -378,7 +378,7 @@ meeting. Make yourself as wicked as Beelzebub. It will ease your mind."
 
 "As mean as Mammon, you would say. Yorke, if I got off horseback and
 
-laid myself down across the road, would you have the goodness to gallop
+laid myself down across the [[Road|road]], would you have the goodness to gallop
 
 over me, backwards and forwards, about twenty times?"
 
@@ -406,19 +406,19 @@ changed countenance--I know she did. She pronounced it herself in the
 
 most musical of her many musical tones. She was cordial to me; she took
 
-an interest in me; she was anxious about me; she wished me well; she
+an interest in me; she was anxious about me; she wished me [[Well|well]]; she
 
 sought, she seized every opportunity to benefit me. I considered,
 
 paused, watched, weighed, wondered. I could come to but one
 
-conclusion--this is love.
+conclusion--this is [[Love|love]].
 
 
 
-"I looked at her, Yorke. I saw in her youth and a species of beauty. I
+"I looked at her, Yorke. I saw in her youth and a species of [[Beauty|beauty]]. I
 
-saw power in her. Her wealth offered me the redemption of my honour and
+saw power in her. Her wealth offered me the redemption of my [[Honour|honour]] and
 
 my standing. I owed her gratitude. She had aided me substantially and
 
@@ -428,7 +428,7 @@ things? Could I believe she loved me? Could I hear wisdom urge me to
 
 marry her, and disregard every dear advantage, disbelieve every
 
-flattering suggestion, disdain every well-weighed counsel, turn and
+flattering suggestion, disdain every [[Well|well]]-weighed counsel, turn and
 
 leave her? Young, graceful, gracious--my benefactress, attached to me,
 
@@ -440,7 +440,7 @@ with an admiration dedicated entirely to myself, and unimpaired even by
 
 esteem for her; indeed I smiled in deep secrecy at her _naïveté_ and
 
-simplicity in being the first to love, and to show it. That whip of
+simplicity in being the first to [[Love|love]], and to show it. That whip of
 
 yours seems to have a good heavy handle, Yorke; you can swing it about
 
@@ -450,9 +450,9 @@ relish a loundering whack."
 
 
 
-"Tak patience, Robert, till the moon rises and I can see you. Speak
+"Tak patience, Robert, till the [[Moon|moon]] rises and I can see you. Speak
 
-plain out--did you love her or not? I could like to know. I feel
+plain out--did you [[Love|love]] her or not? I could like to know. I feel
 
 curious."
 
@@ -460,13 +460,13 @@ curious."
 
 "Sir--sir--I say--she is very pretty, in her own style, and very
 
-attractive. She has a look, at times, of a thing made out of fire and
+attractive. She has a look, at times, of a thing made out of [[Fire|fire]] and
 
 air, at which I stand and marvel, without a thought of clasping and
 
-kissing it. I felt in her a powerful magnet to my interest and vanity. I
+kissing it. I felt in her a powerful magnet to my interest and [[Vanity|vanity]]. I
 
-never felt as if nature meant her to be my other and better self. When a
+never felt as if [[Nature|nature]] meant her to be my other and better [[Self|self]]. When a
 
 question on that head rushed upon me, I flung it off, saying brutally I
 
@@ -480,15 +480,15 @@ practical, and not romantic."
 
 
 
-"With this sensible resolve I walked up to Fieldhead one night last
+"With this sensible resolve I walked up to Fieldhead one [[Night|night]] last
 
 August. It was the very eve of my departure for Birmingham; for, you
 
 see, I wanted to secure Fortune's splendid prize. I had previously
 
-dispatched a note requesting a private interview. I found her at home,
+dispatched a note requesting a private interview. I found her at [[Home|home]],
 
-and alone.
+and [[Alone|alone]].
 
 
 
@@ -506,7 +506,7 @@ person--with my debts, of course, as a settlement.
 
 "It vexed me, it kindled my ire, to find that she neither blushed,
 
-trembled, nor looked down. She responded, 'I doubt whether I have
+trembled, nor looked down. She responded, 'I [[Doubt|doubt]] whether I have
 
 understood you, Mr. Moore.'
 
@@ -518,7 +518,7 @@ as A B C, before she would fully take it in. And then, what did she do?
 
 Instead of faltering a sweet Yes, or maintaining a soft, confused
 
-silence (which would have been as good), she started up, walked twice
+[[Silence|silence]] (which would have been as good), she started up, walked twice
 
 fast through the room, in the way that _she_ only does, and no other
 
@@ -544,13 +544,13 @@ and if you knew how strangely you worded it and looked it, you would be
 
 startled at yourself. You spoke like a brigand who demanded my purse
 
-rather than like a lover who asked my heart.'
+rather than like a [[Lover|lover]] who asked my heart.'
 
 
 
 "A queer sentence, was it not, Yorke? And I knew, as she uttered it, it
 
-was true as queer. Her words were a mirror in which I saw myself.
+was true as queer. Her words were a [[Mirror|mirror]] in which I saw myself.
 
 
 
@@ -558,21 +558,21 @@ was true as queer. Her words were a mirror in which I saw myself.
 
 
 
-"'Gérard Moore, you know you don't love Shirley Keeldar.' I might have
+"'Gérard Moore, you know you don't [[Love|love]] [[Shirley Keeldar]].' I might have
 
-broken out into false swearing--vowed that I did love her; but I could
+broken out into false swearing--vowed that I did [[Love|love]] her; but I could
 
 not lie in her pure face. I could not perjure myself in her truthful
 
 presence. Besides, such hollow oaths would have been vain as void. She
 
-would no more have believed me than she would have believed the ghost of
+would no more have believed me than she would have believed the [[Ghost|ghost]] of
 
-Judas, had he broken from the night and stood before her. Her female
+Judas, had he broken from the [[Night|night]] and stood before her. Her female
 
 heart had finer perceptions than to be cheated into mistaking my
 
-half-coarse, half-cold admiration for true-throbbing, manly love.
+half-coarse, half-cold admiration for true-throbbing, manly [[Love|love]].
 
 
 
@@ -580,7 +580,7 @@ half-coarse, half-cold admiration for true-throbbing, manly love.
 
 
 
-"Why, she sat down in the window-seat and cried. She cried passionately.
+"Why, she sat down in the [[Window|window]]-seat and cried. She cried passionately.
 
 Her eyes not only rained but lightened. They flashed, open, large, dark,
 
@@ -608,7 +608,7 @@ at palliation. I stood to be scorned.
 
 
 
-"Sold to the devil for the time being, I was certainly infatuated. When
+"Sold to the devil for the [[Time|time]] being, I was certainly infatuated. When
 
 I did speak, what do you think I said?
 
@@ -620,7 +620,7 @@ Keeldar.'
 
 
 
-"Beautiful, was it not? She sat quite confounded. 'Is it Robert Moore
+"Beautiful, was it not? She sat quite confounded. 'Is it [[Robert Moore]]
 
 that speaks?' I heard her mutter. 'Is it a man--or something lower?'
 
@@ -628,7 +628,7 @@ that speaks?' I heard her mutter. 'Is it a man--or something lower?'
 
 "'Do you mean,' she asked aloud--'do you mean you thought I loved you as
 
-we love those we wish to marry?'
+we [[Love|love]] those we wish to marry?'
 
 
 
@@ -638,7 +638,7 @@ we love those we wish to marry?'
 
 "'You conceived an idea obnoxious to a woman's feelings,' was her
 
-answer. 'You have announced it in a fashion revolting to a woman's soul.
+answer. 'You have announced it in a fashion revolting to a woman's [[Soul|soul]].
 
 You insinuate that all the frank kindness I have shown you has been a
 
@@ -658,7 +658,7 @@ affection for me.'
 
 
 
-"I hope I was answered, Yorke?
+"I [[Hope|hope]] I was answered, Yorke?
 
 
 
@@ -692,7 +692,7 @@ could get none.
 
 then? When I stopped you in Maythorn Lane, did you think I loved you
 
-then? When I called on you in the counting-house, when I walked with you
+then? When I called on you in the counting-[[house]], when I walked with you
 
 on the pavement, did you think I loved you then?'
 
@@ -702,7 +702,7 @@ on the pavement, did you think I loved you then?'
 
 
 
-"By the Lord! Yorke, she rose, she grew tall, she expanded and refined
+"By the Lord! Yorke, she [[Rose|rose]], she grew tall, she expanded and refined
 
 almost to flame. There was a trembling all through her, as in live coal
 
@@ -720,17 +720,17 @@ degrading herself and her sex; that I have sought where the incorrupt of
 
 my kind naturally scorn and abhor to seek.' She and I were silent for
 
-many a minute. 'Lucifer, Star of the Morning,' she went on, 'thou art
+many a minute. '[[Lucifer]], Star of the Morning,' she went on, 'thou art
 
 fallen! You, once high in my esteem, are hurled down; you, once intimate
 
-in my friendship, are cast out. Go!'
+in my [[Friendship|friendship]], are cast out. Go!'
 
 
 
 "I went not. I had heard her voice tremble, seen her lip quiver. I knew
 
-another storm of tears would fall, and then I believed some calm and
+another [[Storm|storm]] of [[Tears|tears]] would fall, and then I believed some calm and
 
 some sunshine must come, and I would wait for it.
 
@@ -752,7 +752,7 @@ haughty, more mournful than incensed.
 
 "I relieved myself by what should have been a sigh, but it became a
 
-groan. A sense of Cain-like desolation made my breast ache.
+groan. A sense of [[Cain]]-like desolation made my breast ache.
 
 
 
@@ -762,11 +762,11 @@ bitter wages, which I will go and spend far from her who gave them.'
 
 
 
-"I took my hat. All the time I could not have borne to depart so, and I
+"I took my hat. All the [[Time|time]] I could not have borne to depart so, and I
 
 believed she would not let me. Nor would she but for the mortal pang I
 
-had given her pride, that cowed her compassion and kept her silent.
+had given her [[Pride|pride]], that cowed her compassion and kept her silent.
 
 
 
@@ -786,21 +786,21 @@ to mislead a sagacious man so far I must have done wrong.'
 
 that it was sincere, and that my wish and aim were to absolve her to
 
-herself. In fact, in her case self-accusation was a chimera.
+herself. In fact, in her case [[Self|self]]-accusation was a chimera.
 
 
 
-"At last she extended her hand. For the first time I wished to take her
+"At last she extended her hand. For the first [[Time|time]] I wished to take her
 
 in my arms and kiss her. I _did_ kiss her hand many times.
 
 
 
-"'Some day we shall be friends again,' she said, 'when you have had time
+"'Some day we shall be friends again,' she said, 'when you have had [[Time|time]]
 
 to read my actions and motives in a true light, and not so horribly to
 
-misinterpret them. Time may give you the right key to all. Then,
+misinterpret them. [[Time]] may give you the right key to all. Then,
 
 perhaps, you will comprehend me, and then we shall be reconciled.'
 
@@ -822,11 +822,11 @@ God knows! Thus were we severed."
 
 "I'll do it no more," vowed his companion; "never more will I mention
 
-marriage to a woman unless I feel love. Henceforth credit and commerce
+[[Marriage|marriage]] to a woman unless I feel [[Love|love]]. Henceforth credit and commerce
 
 may take care of themselves. Bankruptcy may come when it lists. I have
 
-done with slavish fear of disaster. I mean to work diligently, wait
+done with slavish [[Fear|fear]] of disaster. I mean to work diligently, wait
 
 patiently, bear steadily. Let the worst come, I will take my axe and an
 
@@ -836,7 +836,7 @@ settled it. No woman shall ever again look at me as Miss Keeldar looked,
 
 ever again feel towards me as Miss Keeldar felt. In no woman's presence
 
-will I ever again stand at once such a fool and such a knave, such a
+will I ever again stand at once such a [[Fool|fool]] and such a knave, such a
 
 brute and such a puppy."
 
@@ -844,11 +844,11 @@ brute and such a puppy."
 
 "Tut!" said the imperturbable Yorke, "you make too much of it; but
 
-still, I say, I am capped. Firstly, that she did not love you; and
+still, I say, I am capped. Firstly, that she did not [[Love|love]] you; and
 
-secondly, that you did not love her. You are both young; you are both
+secondly, that you did not [[Love|love]] her. You are both young; you are both
 
-handsome; you are both well enough for wit and even for temper--take you
+handsome; you are both [[Well|well]] enough for wit and even for temper--take you
 
 on the right side. What ailed you that you could not agree?"
 
@@ -880,7 +880,7 @@ mastered her attention; then we have conversed; and others, thinking me,
 
 perhaps, peculiarly privileged, have withdrawn by degrees, and left us
 
-alone. Were we happy thus left? For myself, I must say No. Always a
+[[Alone|alone]]. Were we happy thus left? For myself, I must say No. Always a
 
 feeling of constraint came over me; always I was disposed to be stern
 
@@ -890,41 +890,41 @@ intimacy ever opened our hearts, or thawed our language and made it flow
 
 easy and limpid. If we had confidences, they were confidences of the
 
-counting-house, not of the heart. Nothing in her cherished affection in
+counting-[[house]], not of the heart. Nothing in her cherished affection in
 
 me, made me better, gentler; she only stirred my brain and whetted my
 
 acuteness. She never crept into my heart or influenced its pulse; and
 
-for this good reason, no doubt, because I had not the secret of making
+for this good reason, no [[Doubt|doubt]], because I had not the secret of making
 
-her love me."
+her [[Love|love]] me."
 
 
 
-"Well, lad, it is a queer thing. I might laugh at thee, and reckon to
+"[[Well]], lad, it is a queer thing. I might laugh at thee, and reckon to
 
-despise thy refinements; but as it is dark night and we are by
+despise thy refinements; but as it is dark [[Night|night]] and we are by
 
 ourselves, I don't mind telling thee that thy talk brings back a glimpse
 
 of my own past life. Twenty-five years ago I tried to persuade a
 
-beautiful woman to love me, and she would not. I had not the key to her
+beautiful woman to [[Love|love]] me, and she would not. I had not the key to her
 
-nature; she was a stone wall to me, doorless and windowless."
+[[Nature|nature]]; she was a stone wall to me, doorless and windowless."
 
 
 
-"But you loved _her_, Yorke; you worshipped Mary Cave. Your conduct,
+"But you loved _her_, Yorke; you worshipped Mary [[Cave]]. Your conduct,
 
 after all, was that of a man--never of a fortune-hunter."
 
 
 
-"Ay, I _did_ love her; but then she was beautiful as the moon we do
+"Ay, I _did_ [[Love|love]] her; but then she was beautiful as the [[Moon|moon]] we do
 
-_not_ see to-night. There is naught like her in these days. Miss
+_not_ see to-[[Night|night]]. There is naught like her in these days. Miss
 
 Helstone, maybe, has a look of her, but nobody else."
 
@@ -934,13 +934,13 @@ Helstone, maybe, has a look of her, but nobody else."
 
 
 
-"That black-coated tyrant's niece--that quiet, delicate Miss Helstone.
+"That black-coated [[Tyrant|tyrant]]'s niece--that quiet, delicate Miss Helstone.
 
-Many a time I have put on my spectacles to look at the lassie in church,
+Many a [[Time|time]] I have put on my spectacles to look at the lassie in church,
 
 because she has gentle blue een, wi' long lashes; and when she sits in
 
-shadow, and is very still and very pale, and is, happen, about to fall
+[[Shadow|shadow]], and is very still and very pale, and is, happen, about to fall
 
 asleep wi' the length of the sermon and the heat of the biggin', she is
 
@@ -948,29 +948,29 @@ as like one of Canova's marbles as aught else."
 
 
 
-"Was Mary Cave in that style?"
+"Was Mary [[Cave]] in that style?"
 
 
 
 "Far grander!--less lass-like and flesh-like. You wondered why she
 
-hadn't wings and a crown. She was a stately, peaceful angel was my
+hadn't wings and a [[Crown|crown]]. She was a stately, peaceful angel was my
 
 Mary."
 
 
 
-"And you could not persuade her to love you?"
+"And you could not persuade her to [[Love|love]] you?"
 
 
 
-"Not with all I could do, though I prayed Heaven many a time, on my
+"Not with all I could do, though I prayed Heaven many a [[Time|time]], on my
 
 bended knees, to help me."
 
 
 
-"Mary Cave was not what you think her, Yorke. I have seen her picture at
+"Mary [[Cave]] was not what you think her, Yorke. I have seen her picture at
 
 the rectory. She is no angel, but a fair, regular-featured,
 
@@ -980,13 +980,13 @@ supposing she had been something better than she was----"
 
 
 
-"Robert," interrupted Yorke, "I could fell you off your horse at this
+"Robert," interrupted Yorke, "I could fell you off your [[Horse|horse]] at this
 
 moment. However, I'll hold my hand. Reason tells me you are right and I
 
-am wrong. I know well enough that the passion I still have is only the
+am wrong. I know [[Well|well]] enough that the passion I still have is only the
 
-remnant of an illusion. If Miss Cave had possessed either feeling or
+remnant of an illusion. If Miss [[Cave]] had possessed either feeling or
 
 sense, she could not have been so perfectly impassible to my regard as
 
@@ -1000,7 +1000,7 @@ despot."
 
 those days); supposing she had possessed a thoughtful, original mind, a
 
-love of knowledge, a wish for information, which she took an artless
+[[Love|love]] of knowledge, a wish for information, which she took an artless
 
 delight in receiving from your lips, and having measured out to her by
 
@@ -1016,13 +1016,13 @@ became your atmosphere, and content your element; supposing that
 
 whenever her face was under your gaze, or her idea filled your thoughts,
 
-you gradually ceased to be hard and anxious, and pure affection, love of
+you gradually ceased to be hard and anxious, and pure affection, [[Love|love]] of
 
-home, thirst for sweet discourse, unselfish longing to protect and
+[[Home|home]], thirst for sweet discourse, unselfish [[Longing|longing]] to protect and
 
 cherish, replaced the sordid, cankering calculations of your trade;
 
-supposing, with all this, that many a time, when you had been so happy
+supposing, with all this, that many a [[Time|time]], when you had been so happy
 
 as to possess your Mary's little hand, you had felt it tremble as you
 
@@ -1040,9 +1040,9 @@ should reveal too much; supposing, in short, your Mary had been not
 
 cold, but modest; not vacant, but reflective; not obtuse, but sensitive;
 
-not inane, but innocent; not prudish, but pure,--would you have left her
+not inane, but [[Innocent|innocent]]; not prudish, but pure,--would you have left her
 
-to court another woman for her wealth?"
+to [[Court|court]] another woman for her wealth?"
 
 
 
@@ -1050,7 +1050,7 @@ Mr. Yorke raised his hat, wiped his forehead with his handkerchief.
 
 
 
-"The moon is up," was his first not quite relevant remark, pointing with
+"The [[Moon|moon]] is up," was his first not quite relevant remark, pointing with
 
 his whip across the moor. "There she is, rising into the haze, staring
 
@@ -1064,7 +1064,7 @@ Rushedge i' that way, and looking at us wi' a scowl and a menace?"
 
 "Yorke, if Mary had loved you silently yet faithfully, chastely yet
 
-fervently, as you would wish your wife to love, would you have left
+fervently, as you would wish your wife to [[Love|love]], would you have left
 
 her?"
 
@@ -1078,11 +1078,11 @@ Chaos churned up in her ferment. I might swear sounding oaths--oaths
 
 that would make the poachers think there was a bittern booming in
 
-Bilberry Moss--that, in the case you put, death only should have parted
+Bilberry Moss--that, in the case you put, [[Death|death]] only should have parted
 
 me from Mary. But I have lived in the world fifty-five years; I have
 
-been forced to study human nature; and, to speak a dark truth, the odds
+been forced to study human [[Nature|nature]]; and, to speak a dark [[Truth|truth]], the odds
 
 are, if Mary had loved and not scorned me, if I had been secure of her
 
@@ -1094,7 +1094,7 @@ saddle)--"the odds are I should have left her!"
 
 
 
-They rode side by side in silence. Ere either spoke again they were on
+They rode side by side in [[Silence|silence]]. Ere either spoke again they were on
 
 the other side of Rushedge. Briarfield lights starred the purple skirt
 
@@ -1112,13 +1112,13 @@ out of purifying flame or through strengthening peril. We err, we fall,
 
 we are humbled; then we walk more carefully. We greedily eat and drink
 
-poison out of the gilded cup of vice or from the beggar's wallet of
+[[Poison|poison]] out of the gilded cup of vice or from the beggar's wallet of
 
 avarice. We are sickened, degraded; everything good in us rebels against
 
 us; our souls rise bitterly indignant against our bodies; there is a
 
-period of civil war; if the soul has strength, it conquers and rules
+period of civil war; if the [[Soul|soul]] has strength, it conquers and rules
 
 thereafter."
 
@@ -1138,27 +1138,27 @@ altered. While I was in Birmingham I looked a little into reality,
 
 considered closely and at their source the causes of the present
 
-troubles of this country. I did the same in London. Unknown, I could go
+troubles of this country. I did the same in [[London]]. Unknown, I could go
 
 where I pleased, mix with whom I would. I went where there was want of
 
-food, of fuel, of clothing; where there was no occupation and no hope. I
+food, of fuel, of clothing; where there was no occupation and no [[Hope|hope]]. I
 
 saw some, with naturally elevated tendencies and good feelings, kept
 
 down amongst sordid privations and harassing griefs. I saw many
 
-originally low, and to whom lack of education left scarcely anything but
+originally low, and to whom lack of [[Education|education]] left scarcely anything but
 
 animal wants, disappointed in those wants, ahungered, athirst, and
 
-desperate as famished animals. I saw what taught my brain a new lesson,
+desperate as famished [[Animals|animals]]. I saw what taught my brain a new lesson,
 
 and filled my breast with fresh feelings. I have no intention to profess
 
 more softness or sentiment than I have hitherto professed; mutiny and
 
-ambition I regard as I have always regarded them. I should resist a
+[[Ambition|ambition]] I regard as I have always regarded them. I should resist a
 
 riotous mob just as heretofore; I should open on the scent of a runaway
 
@@ -1170,17 +1170,17 @@ now chiefly for the sake and the security of those he misled. Something
 
 there is to look to, Yorke, beyond a man's personal interest, beyond the
 
-advancement of well-laid schemes, beyond even the discharge of
+advancement of [[Well|well]]-laid schemes, beyond even the discharge of
 
 dishonouring debts. To respect himself, a man must believe he renders
 
 justice to his fellow-men. Unless I am more considerate to ignorance,
 
-more forbearing to suffering, than I have hitherto been, I shall scorn
+more forbearing to [[Suffering|suffering]], than I have hitherto been, I shall scorn
 
-myself as grossly unjust.--What now?" he said, addressing his horse,
+myself as grossly unjust.--What now?" he said, addressing his [[Horse|horse]],
 
-which, hearing the ripple of water, and feeling thirsty, turned to a
+which, hearing the ripple of [[Water|water]], and feeling thirsty, turned to a
 
 wayside trough, where the moonbeam was playing in a crystal eddy.
 
@@ -1194,11 +1194,11 @@ Yorke accordingly rode slowly forwards, occupying himself as he advanced
 
 in discriminating, amongst the many lights now spangling the distance,
 
-those of Briarmains. Stilbro' Moor was left behind; plantations rose
+those of Briarmains. Stilbro' Moor was left behind; plantations [[Rose|rose]]
 
-dusk on either hand; they were descending the hill; below them lay the
+dusk on either hand; they were descending the [[Hill|hill]]; below them lay the
 
-valley with its populous parish: they felt already at home.
+valley with its populous parish: they felt already at [[Home|home]].
 
 
 
@@ -1220,6 +1220,6 @@ die without knowledge."
 
 
 
-A fierce flash and sharp crack violated the calm of night. Yorke, ere he
+A fierce flash and sharp crack violated the calm of [[Night|night]]. Yorke, ere he
 
 turned, knew the four convicts of Birmingham were avenged.

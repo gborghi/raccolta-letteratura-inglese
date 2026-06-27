@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 24 (part 3)"
+title: "Bleak [[house|House]] — Chapter 24 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -20,7 +20,7 @@ his upper lip.
 
 “You are as punctual as the sun,” said Mr. Jarndyce.
 
-“Military time, sir,” he replied. “Force of habit. A mere habit in
+“Military [[Time|time]], sir,” he replied. “Force of habit. A mere habit in
 me, sir. I am not at all business-like.”
 
 “Yet you have a large establishment, too, I am told?” said Mr.
@@ -40,20 +40,20 @@ it, he would come out very good.”
 
 “He did at first, sir, but not afterwards. Not his full mind. Perhaps
 he has something else upon it—some young lady, perhaps.” His bright
-dark eyes glanced at me for the first time.
+dark eyes glanced at me for the first [[Time|time]].
 
 “He has not me upon his mind, I assure you, Mr. George,” said I,
 laughing, “though you seem to suspect me.”
 
 He reddened a little through his brown and made me a trooper’s bow.
-“No offence, I hope, miss. I am one of the roughs.”
+“No offence, I [[Hope|hope]], miss. I am one of the roughs.”
 
 “Not at all,” said I. “I take it as a compliment.”
 
 If he had not looked at me before, he looked at me now in three or
 four quick successive glances. “I beg your pardon, sir,” he said to
 my guardian with a manly kind of diffidence, “but you did me the
-honour to mention the young lady’s name—”
+[[Honour|honour]] to mention the young lady’s name—”
 
 “Miss Summerson.”
 
@@ -66,7 +66,7 @@ somewhere.”
 
 “I think not,” I returned, raising my head from my work to look at
 him; and there was something so genuine in his speech and manner that
-I was glad of the opportunity. “I remember faces very well.”
+I was glad of the opportunity. “I remember faces very [[Well|well]].”
 
 “So do I, miss!” he returned, meeting my look with the fullness of
 his dark eyes and broad forehead. “Humph! What set me off, now, upon
@@ -85,11 +85,11 @@ live by.”
 
 “All sorts, sir. Natives and foreigners. From gentlemen to
 ’prentices. I have had Frenchwomen come, before now, and show
-themselves dabs at pistol-shooting. Mad people out of number, of
+themselves dabs at [[Pistol|pistol]]-shooting. Mad people out of number, of
 course, but THEY go everywhere where the doors stand open.”
 
 “People don’t come with grudges and schemes of finishing their
-practice with live targets, I hope?” said my guardian, smiling.
+practice with live targets, I [[Hope|hope]]?” said my guardian, smiling.
 
 “Not much of that, sir, though that HAS happened. Mostly they come
 for skill—or idleness. Six of one, and half-a-dozen of the other. I
@@ -99,7 +99,7 @@ suitor, if I have heard correct?”
 
 “I am sorry to say I am.”
 
-“I have had one of YOUR compatriots in my time, sir.”
+“I have had one of YOUR compatriots in my [[Time|time]], sir.”
 
 “A Chancery suitor?” returned my guardian. “How was that?”
 
@@ -107,15 +107,15 @@ suitor, if I have heard correct?”
 knocked about from post to pillar, and from pillar to post,” said Mr.
 George, “that he got out of sorts. I don’t believe he had any idea of
 taking aim at anybody, but he was in that condition of resentment and
-violence that he would come and pay for fifty shots and fire away
+violence that he would come and pay for fifty shots and [[Fire|fire]] away
 till he was red hot. One day I said to him when there was nobody by
 and he had been talking to me angrily about his wrongs, ‘If this
-practice is a safety-valve, comrade, well and good; but I don’t
+practice is a safety-valve, comrade, [[Well|well]] and good; but I don’t
 altogether like your being so bent upon it in your present state of
 mind; I’d rather you took to something else.’ I was on my guard for a
 blow, he was that passionate; but he received it in very good part
 and left off directly. We shook hands and struck up a sort of
-friendship.”
+[[Friendship|friendship]].”
 
 “What was that man?” asked my guardian in a new tone of interest.
 
@@ -152,19 +152,19 @@ of his reverie. “I can’t say anything about him. He will be worn out
 soon, I expect. You may file a strong man’s heart away for a good
 many years, but it will tell all of a sudden at last.”
 
-Richard’s entrance stopped the conversation. Mr. George rose, made me
+[[Richard]]’s entrance stopped the conversation. Mr. George [[Rose|rose]], made me
 another of his soldierly bows, wished my guardian a good day, and
 strode heavily out of the room.
 
-This was the morning of the day appointed for Richard’s departure. We
+This was the morning of the day appointed for [[Richard]]’s departure. We
 had no more purchases to make now; I had completed all his packing
-early in the afternoon; and our time was disengaged until night, when
+early in the afternoon; and our [[Time|time]] was disengaged until [[Night|night]], when
 he was to go to Liverpool for Holyhead. Jarndyce and Jarndyce being
-again expected to come on that day, Richard proposed to me that we
-should go down to the court and hear what passed. As it was his last
+again expected to come on that day, [[Richard]] proposed to me that we
+should go down to the [[Court|court]] and hear what passed. As it was his last
 day, and he was eager to go, and I had never been there, I gave my
-consent and we walked down to Westminster, where the court was then
+consent and we walked down to Westminster, where the [[Court|court]] was then
 sitting. We beguiled the way with arrangements concerning the letters
-that Richard was to write to me and the letters that I was to write
+that [[Richard]] was to write to me and the letters that I was to write
 to him and with a great many hopeful projects. My guardian knew where
 we were going and therefore was not with us.

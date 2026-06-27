@@ -39,7 +39,7 @@ which are worthy to pass into an impersonal and immortal rite.
 
 That was all, and that was a good thing to remember.
 
-Now I open the large Sunday paper of the Express group
+Now I open the large [[Sunday]] paper of the Express group
 and the first thing that knocks me in the eye is a huge
 headline about the Toc H ceremony as recently conducted.
 It is an announcement in gigantic letters `D.S.O. Sobs at Ceremony'
@@ -70,20 +70,20 @@ understand it.  And if anybody says he does like it, all the more
 do I weep and wail over the existence of anybody who does like it.
 If it was untrue, I denounce it; and if it was true,
 I denounce it more.  My tradition makes no treaty with the man
-who could first spy on a man's tears then elaborately note
+who could first spy on a man's [[Tears|tears]] then elaborately note
 his rank, and then clump the two things in colossal letters
 at the top of the column before he had even told the story;
 hallooing his remarkable good luck as if he had seen a shark
 off Margate or the man who broke the bank at Monte Carlo.
 It is because that is the tone of the Trust and all its
-literature and view of life that I hope to withstand it
+literature and view of life that I [[Hope|hope]] to withstand it
 till I die.  Coarseness about coarse things is not vulgar.
 It is not in itself immoral; it is in various degrees improper
 or inexpedient according to conditions and occasion and,
 above all, motive.  But anyhow, to talk grossly about a gross
 topic is not necessarily to be in the least a vulgarian.
 But to talk grossly about a sensitive and austere topic,
-to speak loudly about something that remains in high-strung silence
+to speak loudly about something that remains in high-strung [[Silence|silence]]
 like a harp string, to discover what is deliberately invisible
 and gape at it, to hear what cannot be spoken and bellow it--
 this is the shame not to be found among rude and simple men.
@@ -91,9 +91,9 @@ It is nowhere in the popular tales or traditions;
 it is not found in the old ballads or the Christmas carols;
 it is a mixture of weak curiosity and strained attention
 and a stunted mind and an idiot light heartedness, which is
-altogether peculiar to our civilization.  ... We alone have
-had the honour of producing this fine flower of progress.
-And this flower will overrun our garden like a weed,
+altogether peculiar to our civilization.  ... We [[Alone|alone]] have
+had the [[Honour|honour]] of producing this fine flower of progress.
+And this flower will overrun our [[Garden|garden]] like a weed,
 when that culture has fully come into its own.
 
                                          G. K.'s Weekly, January 1st, 1927

@@ -16,11 +16,11 @@ tags:
 
 On Pigs as Pets
 
-A DREAM of my pure and aspiring boyhood has been realized
+[[A Dream|A DREAM]] of my pure and aspiring boyhood has been realized
 in the following paragraph, which I quote exactly as it stands:
 
 A complaint by the Epping Rural District Council against a spinster
-keeping a pig in her house has evoked the following reply:
+keeping a pig in her [[house]] has evoked the following reply:
 "I received your letter, and felt very much cut up, as I am
 laying in the pig's room.  I have not been able to stand up
 or get on my legs; when I can, I will get him in his own room,
@@ -42,7 +42,7 @@ the animal downstairs.  It is an unusual situation, I admit.
 In the normal life of humanity the gentleman gives his arm to the lady,
 and not to the pig; and it is the pig who is very much cut up.
 But the situation seems to be exceptional in every way.
-It is all very well for the lady to say that the pig is no
+It is all very [[Well|well]] for the lady to say that the pig is no
 nuisance to anyone:  as it seems that she has established
 herself in the pig's private suite of apartments, the question
 rather is whether she is a nuisance to the pig.  But indeed I
@@ -50,26 +50,26 @@ do not think that this poor woman's fad is an inch more fantastic
 than many such oddities indulged in by rich and reputable people;
 and, as I say, I have from my boyhood entertained the dream.
 I never could imagine why pigs should not be kept as pets.
-To begin with, pigs are very beautiful animals.
+To begin with, pigs are very beautiful [[Animals|animals]].
 Those who think otherwise are those who do not look at anything
 with their own eyes, but only through other people's eyeglasses.
 The actual lines of a pig (I mean of a really fat pig)
-are among the loveliest and most luxuriant in nature;
+are among the loveliest and most luxuriant in [[Nature|nature]];
 the pig has the same great curves, swift and yet heavy, which we
-see in rushing water or in rolling cloud.  Compared to him,
-the horse, for instance, is a bony, angular, and abrupt animal.
+see in rushing [[Water|water]] or in [[rolling]] cloud.  Compared to him,
+the [[Horse|horse]], for instance, is a bony, angular, and abrupt animal.
 I remember that Mr. H. G. Wells, in arguing for the relativity
 of things (a subject over which even the Greek philosophers went
-to sleep until Christianity woke them up), pointed out that,
-while a horse is commonly beautiful if seen in profile,
+to [[Sleep|sleep]] until [[Christianity]] woke them up), pointed out that,
+while a [[Horse|horse]] is commonly beautiful if seen in profile,
 he is excessively ugly if seen from the top of a dogcart,
-having a long, lean neck, and a body like a fiddle.  Now, there is
+having a long, lean neck, and a [[Body|body]] like a fiddle.  Now, there is
 no point of view from which a really corpulent pig is not full
 of sumptuous and satisfying curves.  You can look down on a pig
 from the top of the most unnaturally lofty dogcart; you can
-(if not pressed for time) allow the pig to draw the dogcart;
+(if not pressed for [[Time|time]]) allow the pig to draw the dogcart;
 and I suppose a dogcart has as much to do with pigs as it has
-with dogs.  You can examine the pig from the top of an omnibus,
+with [[dogs]].  You can examine the pig from the top of an omnibus,
 from the top of the Monument, from a balloon, or an airship;
 and as long as he is visible he will be beautiful.
 In short, he has that fuller, subtler, and more universal
@@ -79,26 +79,26 @@ For fatness itself is a valuable quality.  While it creates
 admiration in the onlookers, it creates modesty in the possessor.
 If there is anything on which I differ from the monastic institutions
 of the past, it is that they sometimes sought to achieve
-humility by means of emaciation.  It may be that the thin monks
-were holy, but I am sure it was the fat monks who were humble.
-Falstaff said that to be fat is not to be hated; but it certainly
+[[Humility|humility]] by means of emaciation.  It may be that the thin [[Monks|monks]]
+were holy, but I am sure it was the fat [[Monks|monks]] who were humble.
+[[Falstaff]] said that to be fat is not to be hated; but it certainly
 is to be laughed at, and that is a more wholesome experience
-for the soul of man.
+for the [[Soul|soul]] of man.
 
-I do not urge that it is effective upon the soul of a pig, who, indeed,
+I do not urge that it is effective upon the [[Soul|soul]] of a pig, who, indeed,
 seems somewhat indifferent to public opinion on this point.
-Nor do I mean that mere fatness is the only beauty of the pig.
-The beauty of the best pigs lies in a certain sleepy perfection
+Nor do I mean that mere fatness is the only [[Beauty|beauty]] of the pig.
+The [[Beauty|beauty]] of the best pigs lies in a certain sleepy perfection
 of contour which links them especially to the smooth strength
 of our south English land in which they live.  There are two other
 things in which one can see this perfect and piggish quality:
 one is in the silent and smooth swell of the Sussex downs,
-so enormous and yet so innocent.  The other is in the sleek,
+so enormous and yet so [[Innocent|innocent]].  The other is in the sleek,
 strong limbs of those beech trees that grow so thick in their valleys.
 These three holy symbols, the pig, the beech tree,
-and the chalk down, stand for ever as expressing the one thing
+and the [[chalk]] down, stand for ever as expressing the one thing
 that England as England has to say--that power is not inconsistent
-with kindness.  Tears of regret come into my eyes when I
+with kindness.  [[Tears]] of regret come into my eyes when I
 remember that three lions or leopards, or whatever they are,
 sprawl in a fantastic, foreign way across the arms of England.
 We ought to have three pigs passant, gardant, or on gules.
@@ -108,12 +108,12 @@ colossal Hampshire hogs to keep watch over so national a spot.
 Perhaps some of our sculptors will attack the conception;
 perhaps the lady's pig, which weighs forty stone and seems to be
 something of a domestic problem, might begin to earn its living
-as an artist's model.
+as an [[artist]]'s model.
 
 
 Again, we do not know what fascinating variations might happen
 in the pig if once the pig were a pet.  The dog has been
-domesticated--that is, destroyed.  Nobody now in London can form
+domesticated--that is, destroyed.  Nobody now in [[London]] can form
 the faintest idea of what a dog would look like.  You know
 a Dachshund in the street; you know a St. Bernard in the street.
 But if you saw a Dog in the street you would run from him screaming.
@@ -126,7 +126,7 @@ as a pony may perambulate the streets like a St. Bernard without
 attracting attention.  . An elegant and unnaturally attenuated
 pig may have all the appearance of a greyhound.  There may
 be little, frisky, fighting pigs like Irish or Scotch terriers;
-there may be little pathetic pigs like King Charles spaniels.
+there may be little pathetic pigs like [[King]] Charles spaniels.
 Artificial breeding might reproduce the awful original pig,
 tusks and all, the terror of the forests--something bigger,
 more mysterious, and more bloody than the bloodhound.
@@ -142,6 +142,6 @@ a lap-pig instead of a lap-dog.
 What is it that makes you look so incredulous?  Why do you still feel
 slightly superior to the poor lady who would not be parted from her pig?
 Why do you not at once take the hog to your heart?  Reason suggests
-his evident beauty.  Evolution suggests his probable improvement.
-Is it, perhaps, some instinct, some tradition...?  Well, apply that
-to women, children, animals, and we will argue again.
+his evident [[Beauty|beauty]].  Evolution suggests his probable improvement.
+Is it, perhaps, some instinct, some tradition...?  [[Well]], apply that
+to women, children, [[Animals|animals]], and we will argue again.

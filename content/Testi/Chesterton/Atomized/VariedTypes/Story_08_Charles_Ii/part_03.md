@@ -1,5 +1,5 @@
 ---
-title: "VariedTypes — Charles Ii (part 3)"
+title: "[[VariedTypes]] — Charles Ii (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/VariedTypes-(Chesterton)"
@@ -22,35 +22,35 @@ one point that Stevenson more constantly and passionately emphasised
 
 than any other it was that we must worship good for its own value and
 
-beauty, without any reference whatever to victory or failure in space
+[[Beauty|beauty]], without any reference whatever to victory or failure in space
 
-and time. "Whatever we are intended to do," he said, "we are not
+and [[Time|time]]. "Whatever we are intended to do," he said, "we are not
 
-intended to succeed." That the stars in their courses fight against
+intended to succeed." That the [[Stars|stars]] in their courses fight against
 
-virtue, that humanity is in its nature a forlorn hope, this was the very
+virtue, that humanity is in its [[Nature|nature]] a forlorn [[Hope|hope]], this was the very
 
 spirit that through the whole of Stevenson's work sounded a trumpet to
 
 all the brave. The story of Henry Durie is dark enough, but could anyone
 
-stand beside the grave of that sodden monomaniac and not respect him? It
+stand beside the [[Grave|grave]] of that sodden monomaniac and not respect him? It
 
-is strange that men should see sublime inspiration in the ruins of an
+is strange that men should see [[Sublime|sublime]] inspiration in the ruins of an
 
 old church and see none in the ruins of a man.
 
 
 
-The author has most extraordinary ideas about Stevenson's tales of blood
+The author has most extraordinary ideas about Stevenson's tales of [[Blood|blood]]
 
 and spoil; he appears to think that they prove Stevenson to have had (we
 
 use Mr. Baildon's own phrase) a kind of "homicidal mania." "He
 
-[Stevenson] arrives pretty much at the paradox that one can hardly be
+[Stevenson] arrives pretty much at the [[Paradox|paradox]] that one can hardly be
 
-better employed than in taking life." Mr. Baildon might as well say that
+better employed than in taking life." Mr. Baildon might as [[Well|well]] say that
 
 Dr. Conan Doyle delights in committing inexplicable crimes, that Mr.
 
@@ -58,7 +58,7 @@ Clark Russell is a notorious pirate, and that Mr. Wilkie Collins thought
 
 that one could hardly be better employed than in stealing moonstones
 
-and falsifying marriage registers. But Mr. Baildon is scarcely alone in
+and falsifying [[Marriage|marriage]] registers. But Mr. Baildon is scarcely [[Alone|alone]] in
 
 this error: few people have understood properly the goriness of
 
@@ -66,7 +66,7 @@ Stevenson. Stevenson was essentially the robust schoolboy who draws
 
 skeletons and gibbets in his Latin grammar. It was not that he took
 
-pleasure in death, but that he took pleasure in life, in every muscular
+pleasure in [[Death|death]], but that he took pleasure in life, in every muscular
 
 and emphatic action of life, even if it were an action that took the
 
@@ -92,17 +92,17 @@ and brilliant explosion of bodily vitality, like breaking a rock with a
 
 blow of a hammer, or just clearing a five-barred gate. This is the
 
-standpoint of romance, and it is the soul of "Treasure Island" and "The
+standpoint of [[Romance|romance]], and it is the [[Soul|soul]] of "Treasure Island" and "The
 
 Wrecker." It was not, indeed, that Stevenson loved men less, but that he
 
-loved clubs and pistols more. He had, in truth, in the devouring
+loved clubs and pistols more. He had, in [[Truth|truth]], in the devouring
 
-universalism of his soul, a positive love for inanimate objects such as
+universalism of his [[Soul|soul]], a positive [[Love|love]] for inanimate objects such as
 
-has not been known since St. Francis called the sun brother and the well
+has not been known since St. Francis called the sun brother and the [[Well|well]]
 
-sister. We feel that he was actually in love with the wooden crutch that
+sister. We feel that he was actually in [[Love|love]] with the wooden crutch that
 
 Silver sent hurtling in the sunlight, with the box that Billy Bones left
 
@@ -130,19 +130,19 @@ on our credulity." This is rather like describing the travels of Baron
 
 Munchausen as "unconvincing." The whole story of "The Dynamiter" is a
 
-kind of humorous nightmare, and even in that story "The Destroying
+kind of humorous [[nightmare]], and even in that story "The Destroying
 
 Angel" is supposed to be an extravagant lie made up on the spur of the
 
-moment. It is a dream within a dream, and to accuse it of improbability
+moment. It is [[A Dream|a dream]] within [[A Dream|a dream]], and to accuse it of improbability
 
 is like accusing the sky of being blue. But Mr. Baildon, whether from
 
 hasty reading or natural difference of taste, cannot in the least
 
-comprehend that rich and romantic irony of Stevenson's London stories.
+comprehend that rich and romantic irony of Stevenson's [[London]] stories.
 
-He actually says of that portentous monument of humour, Prince Florizel
+He actually says of that portentous monument of [[Humour|humour]], Prince [[Florizel]]
 
 of Bohemia, that, "though evidently admired by his creator, he is to me
 
@@ -150,9 +150,9 @@ on the whole rather an irritating presence." From this we are almost
 
 driven to believe (though desperately and against our will) that Mr.
 
-Baildon thinks that Prince Florizel is to be taken seriously, as if he
+Baildon thinks that Prince [[Florizel]] is to be taken seriously, as if he
 
-were a man in real life. For ourselves. Prince Florizel is almost our
+were a man in real life. For ourselves. Prince [[Florizel]] is almost our
 
 favourite character in fiction; but we willingly add the proviso that
 
@@ -174,9 +174,9 @@ light-headed paradoxes in so flowing a copy-book hand that everyone
 
 supposed they must be copy-book sentiments. He suffered from his
 
-versatility, not, as is loosely said, by not doing every department well
+versatility, not, as is loosely said, by not doing every department [[Well|well]]
 
-enough, but by doing every department too well. As child, cockney,
+enough, but by doing every department too [[Well|well]]. As [[Child|child]], cockney,
 
 pirate, or Puritan, his disguises were so good that most people could
 
@@ -186,13 +186,13 @@ play the fiddle, give legal opinions, and black boots just tolerably, he
 
 is called an Admirable Crichton, but if he does all three thoroughly
 
-well, he is apt to be regarded, in the several departments, as a common
+[[Well|well]], he is apt to be regarded, in the several departments, as a common
 
 fiddler, a common lawyer, and a common boot-black. This is what has
 
 happened in the case of Stevenson. If "Dr. Jekyll," "The Master of
 
-Ballantrae," "The Child's Garden of Verses," and "Across the Plains" had
+Ballantrae," "The [[Child]]'s [[Garden]] of Verses," and "Across the Plains" had
 
 been each of them one shade less perfectly done than they were, everyone
 
@@ -204,25 +204,25 @@ has naturally convinced others that he was five different people. But
 
 the real message of Stevenson was as simple as that of Mohamet, as moral
 
-as that of Dante, as confident as that of Whitman, and as practical as
+as that of [[Dante]], as confident as that of Whitman, and as practical as
 
 that of James Watt. The conception which unites the whole varied work of
 
-Stevenson was that romance, or the vision of the possibilities of
+Stevenson was that [[Romance|romance]], or the vision of the possibilities of
 
 things, was far more important than mere occurrences: that one was the
 
-soul of our life, the other the body, and that the soul was the precious
+[[Soul|soul]] of our life, the other the [[Body|body]], and that the [[Soul|soul]] was the precious
 
 thing. The germ of all his stories lies in the idea that every landscape
 
-or scrap of scenery has a soul: and that soul is a story. Standing
+or scrap of scenery has a [[Soul|soul]]: and that [[Soul|soul]] is a story. Standing
 
 before a stunted orchard with a broken stone wall, we may know as a
 
 mere fact that no one has been through it but an elderly female cook.
 
-But everything exists in the human soul: that orchard grows in our own
+But everything exists in the human [[Soul|soul]]: that orchard grows in our own
 
 brain, and there it is the shrine and theatre of some strange chance
 
@@ -236,7 +236,7 @@ one. And this is the reason for his wide diversities of narrative: he
 
 had to make one story as rich as a ruby sunset, another as grey as a
 
-hoary monolith: for the story was the soul, or rather the meaning, of
+hoary monolith: for the story was the [[Soul|soul]], or rather the meaning, of
 
 the bodily vision. It is quite inappropriate to judge "The Teller of
 
@@ -244,7 +244,7 @@ Tales" (as the Samoans called him) by the particular novels he wrote, as
 
 one would judge Mr. George Moore by "Esther Waters." These novels were
 
-only the two or three of his soul's adventures that he happened to tell.
+only the two or three of his [[Soul|soul]]'s adventures that he happened to tell.
 
 But he died with a thousand stories in his heart.
 

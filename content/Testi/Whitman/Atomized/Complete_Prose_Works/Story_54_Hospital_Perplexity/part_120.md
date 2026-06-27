@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-BOOK-CLASSES--AMERICA'S LITERATURE
+BOOK-CLASSES--[[America|AMERICA]]'S LITERATURE
 
 For certain purposes, literary productions through all the recorded ages
 may be roughly divided into two classes. The first consisting of only
@@ -34,12 +34,12 @@ they really have, therefore, a literature."
 OUR REAL CULMINATION
 
 The final culmination of this vast and varied Republic will be the
-production and perennial establishment of millions of comfortable city
+production and perennial establishment of millions of comfortable [[City|city]]
 homesteads and moderate-sized farms, healthy and independent, single
 separate ownership, fee simple, life in them complete but cheap, within
 reach of all. Exceptional wealth, splendor, countless manufactures,
 excess of exports, immense capital and capitalists, the
-five-dollar-a-day hotels well fill'd, artificial improvements, even
+five-dollar-a-day hotels [[Well|well]] fill'd, artificial improvements, even
 books, colleges, and the suffrage--all, in many respects, in themselves,
 (hard as it is to say so, and sharp as a surgeon's lance,) form, more or
 less, a sort of anti-democratic disease and monstrosity, except as
@@ -49,7 +49,7 @@ mainly of value, or worth consideration, only with reference to it.
 There is a subtle something in the common earth, crops, cattle, air,
 trees, &c., and in having to do at first hand with them, that forms the
 only purifying and perennial element for individuals and for society.
-I must confess I want to see the agricultural occupation of America at
+I must confess I want to see the agricultural occupation of [[America]] at
 first hand permanently broaden'd. Its gains are the only ones on which
 God seems to smile. What others--what business, profit, wealth, without
 a taint? What fortune else--what dollar--does not stand for, and come
@@ -58,11 +58,11 @@ from, more or less imposition, lying, unnaturalness?
 
 AN AMERICAN PROBLEM
 
-One of the problems presented in America these times is, how to
+One of the problems presented in [[America]] these times is, how to
 combine one's duty and policy as a member of associations, societies,
 brotherhoods or what not, and one's obligations to the State and Nation,
-with essential freedom as an individual personality, without which
-freedom a man cannot grow or expand, or be full, modern, heroic,
+with essential [[Freedom|freedom]] as an individual personality, without which
+[[Freedom|freedom]] a man cannot grow or expand, or be full, modern, heroic,
 democratic, American. With all the necessities and benefits of
 association, (and the world cannot get along without it,) the true
 nobility and satisfaction of a man consist in his thinking and acting
@@ -72,9 +72,9 @@ ignore either.
 
 THE LAST COLLECTIVE COMPACTION
 
-I like well our polyglot construction-stamp, and the retention thereof,
+I like [[Well|well]] our polyglot construction-stamp, and the retention thereof,
 in the broad, the tolerating, the many-sided, the collective. All
-nations here--a home for every race on earth. British, German,
+nations here--a [[Home|home]] for every race on earth. British, German,
 Scandinavian, Spanish, French, Italian--papers published, plays acted,
 speeches made, in all languages--on our shores the crowning resultant
 of those distillations, decantations, compactions of humanity, that have
@@ -94,7 +94,7 @@ PIECES IN EARLY YOUTH
 1834-'42
 
 
-DOUGH-FACE SONG --Like dough; soft; yielding to pressure;
+DOUGH-FACE [[Song|SONG]] --Like dough; soft; yielding to pressure;
 pale----_Webster's Dictionary_.
 
     We are all docile dough-faces,
@@ -125,7 +125,7 @@ pale----_Webster's Dictionary_.
     With jaws a-gape for "the two great parties;"
       A pretty thought, I wis!
 
-    Principle--freedom!--fiddlesticks!
+    Principle--[[Freedom|freedom]]!--fiddlesticks!
       We know not where they're found.
     Rights of the masses--progress!--bah!
       Words that tickle and sound;
@@ -134,14 +134,14 @@ pale----_Webster's Dictionary_.
 
     Beyond all such we know a term
       Charming to ears and eyes,
-    With it we'll stab young Freedom,
+    With it we'll stab young [[Freedom]],
       And do it in disguise;
 
     Speak soft, ye wily dough-faces--
       That term is "compromise."
 
     And what if children, growing up,
-      In future seasons read
+      In future [[Seasons|seasons]] read
     The thing we do? and heart and tongue
       Accurse us for the deed?
     The future cannot touch us;
@@ -152,9 +152,9 @@ pale----_Webster's Dictionary_.
     And pacify slave-breeding wrath
       By yielding all the matter;
     For otherwise, as sure as guns,
-      The Union it will shatter.
+      The [[Union]] it will shatter.
 
-    Besides, to tell the honest truth
+    Besides, to tell the honest [[Truth|truth]]
       (For us an innovation,)
     Keeping in with the slave power
       Is our personal salvation;
@@ -177,7 +177,7 @@ pale----_Webster's Dictionary_.
 
     We do not ask a bold brave front;
       We never try that game;
-    'Twould bring the storm upon our heads,
-      A huge mad storm of shame;
+    'Twould bring the [[Storm|storm]] upon our heads,
+      A huge mad [[Storm|storm]] of shame;
     Evade it, brothers--"compromise"
       Will answer just the same.

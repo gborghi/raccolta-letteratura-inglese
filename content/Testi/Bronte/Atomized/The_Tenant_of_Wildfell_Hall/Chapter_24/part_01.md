@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 24 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 24 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,9 +20,9 @@ tags:
 
 
 
-March 25th.—Arthur is getting tired—not of me, I trust, but of the
+March 25th.—[[arthur|Arthur]] is getting tired—not of me, I trust, but of the
 
-idle, quiet life he leads—and no wonder, for he has so few sources of
+idle, quiet life he leads—and no [[Wonder|wonder]], for he has so few sources of
 
 amusement: he never reads anything but newspapers and sporting
 
@@ -30,7 +30,7 @@ magazines; and when he sees me occupied with a book, he won’t let me
 
 rest till I close it. In fine weather he generally manages to get
 
-through the time pretty well, but on rainy days, of which we have had a
+through the [[Time|time]] pretty [[Well|well]], but on rainy days, of which we have had a
 
 good many of late, it is quite painful to witness his ennui. I do all I
 
@@ -48,21 +48,21 @@ amours, always turning upon the ruin of some confiding girl or the
 
 cozening of some unsuspecting husband; and when I express my horror and
 
-indignation, he lays it all to the charge of jealousy, and laughs till
+indignation, he lays it all to the charge of [[Jealousy|jealousy]], and laughs till
 
-the tears run down his cheeks. I used to fly into passions or melt into
+the [[Tears|tears]] run down his cheeks. I used to fly into passions or melt into
 
-tears at first, but seeing that his delight increased in proportion to
+[[Tears|tears]] at first, but seeing that his delight increased in proportion to
 
 my anger and agitation, I have since endeavoured to suppress my
 
-feelings and receive his revelations in the silence of calm contempt;
+feelings and receive his revelations in the [[Silence|silence]] of calm contempt;
 
 but still he reads the inward struggle in my face, and misconstrues my
 
-bitterness of soul for his unworthiness into the pangs of wounded
+bitterness of [[Soul|soul]] for his unworthiness into the pangs of wounded
 
-jealousy; and when he has sufficiently diverted himself with that, or
+[[Jealousy|jealousy]]; and when he has sufficiently diverted himself with that, or
 
 fears my displeasure will become too serious for his comfort, he tries
 
@@ -70,17 +70,17 @@ to kiss and soothe me into smiles again—never were his caresses so
 
 little welcome as then! This is _double_ selfishness, displayed to me
 
-and to the victims of his former love. There are times when, with a
+and to the victims of his former [[Love|love]]. There are times when, with a
 
-momentary pang—a flash of wild dismay, I ask myself, “Helen, what have
+momentary pang—a flash of wild dismay, I ask myself, “[[Helen]], what have
 
 you done?” But I rebuke the inward questioner, and repel the obtrusive
 
 thoughts that crowd upon me; for were he ten times as sensual and
 
-impenetrable to good and lofty thoughts, I well know I have no right to
+impenetrable to good and lofty thoughts, I [[Well|well]] know I have no right to
 
-complain. And I don’t and won’t complain. I do and will love him still;
+complain. And I don’t and won’t complain. I do and will [[Love|love]] him still;
 
 and I do not and will not regret that I have linked my fate with his.
 
@@ -88,13 +88,13 @@ and I do not and will not regret that I have linked my fate with his.
 
 April 4th.—We have had a downright quarrel. The particulars are as
 
-follows: Arthur had told me, at different intervals, the whole story of
+follows: [[arthur|Arthur]] had told me, at different intervals, the whole story of
 
 his intrigue with Lady F——, which I would not believe before. It was
 
 some consolation, however, to find that in this instance the lady had
 
-been more to blame than he, for he was very young at the time, and she
+been more to blame than he, for he was very young at the [[Time|time]], and she
 
 had decidedly made the first advances, if what he said was true. I
 
@@ -108,7 +108,7 @@ of her name.
 
 
 
-“Not because you loved her, Arthur, mind, but because she injured you
+“Not because you loved her, [[arthur|Arthur]], mind, but because she injured you
 
 and deceived her husband, and was altogether a very abominable woman,
 
@@ -118,7 +118,7 @@ whom you ought to be ashamed to mention.”
 
 But he defended her by saying that she had a doting old husband, whom
 
-it was impossible to love.
+it was impossible to [[Love|love]].
 
 
 
@@ -130,7 +130,7 @@ it was impossible to love.
 
 
 
-“Then that was another crime, and her solemn promise to love and honour
+“Then that was another crime, and her solemn promise to [[Love|love]] and [[Honour|honour]]
 
 him was another, that only increased the enormity of the last.”
 
@@ -138,13 +138,13 @@ him was another, that only increased the enormity of the last.”
 
 “You are too severe upon the poor lady,” laughed he. “But never mind,
 
-Helen, I don’t care for her now; and I never loved any of them half as
+[[Helen]], I don’t care for her now; and I never loved any of them half as
 
-much as I do you, so you needn’t fear to be forsaken like them.”
+much as I do you, so you needn’t [[Fear|fear]] to be forsaken like them.”
 
 
 
-“If you had told me these things before, Arthur, I never should have
+“If you had told me these things before, [[arthur|Arthur]], I never should have
 
 given you the chance.”
 
@@ -164,13 +164,13 @@ He laughed incredulously.
 
 “I wish I could convince you of it now!” cried I, starting up from
 
-beside him: and for the first time in my life, and I hope the last, I
+beside him: and for the first [[Time|time]] in my life, and I [[Hope|hope]] the last, I
 
 wished I had not married him.
 
 
 
-“Helen,” said he, more gravely, “do you know that if I believed you now
+“[[Helen]],” said he, more gravely, “do you know that if I believed you now
 
 I should be very angry? but thank heaven I don’t. Though you stand
 
@@ -190,7 +190,7 @@ the handle, then he knocked.
 
 
 
-“Won’t you let me in, Helen?” said he. “No; you have displeased me,” I
+“Won’t you let me in, [[Helen]]?” said he. “No; you have displeased me,” I
 
 replied, “and I don’t want to see your face or hear your voice again
 
@@ -202,7 +202,7 @@ He paused a moment as if dumfounded or uncertain how to answer such a
 
 speech, and then turned and walked away. This was only an hour after
 
-dinner: I knew he would find it very dull to sit alone all the evening;
+dinner: I knew he would find it very dull to sit [[Alone|alone]] all the evening;
 
 and this considerably softened my resentment, though it did not make me
 
@@ -212,11 +212,11 @@ and I could live without him if I chose; and I sat down and wrote a
 
 long letter to my aunt, of course telling her nothing of all this. Soon
 
-after ten o’clock I heard him come up again, but he passed my door and
+after ten o’[[Clock|clock]] I heard him come up again, but he passed my door and
 
 went straight to his own dressing-room, where he shut himself in for
 
-the night.
+the [[Night|night]].
 
 
 
@@ -228,7 +228,7 @@ careless smile.
 
 
 
-“Are you cross still, Helen?” said he, approaching as if to salute me.
+“Are you [[Cross|cross]] still, [[Helen]]?” said he, approaching as if to salute me.
 
 I coldly turned to the table, and began to pour out the coffee,
 
@@ -236,7 +236,7 @@ observing that he was rather late.
 
 
 
-He uttered a low whistle and sauntered away to the window, where he
+He uttered a low whistle and sauntered away to the [[Window|window]], where he
 
 stood for some minutes looking out upon the pleasing prospect of sullen
 

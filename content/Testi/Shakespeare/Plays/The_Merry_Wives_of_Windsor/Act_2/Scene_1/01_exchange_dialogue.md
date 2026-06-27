@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Mistress Page, with a letter |
+| *(didascalia)* | Enter [[Mistress Page]], with a letter |

@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-“No, Heart’s-delight,” said Captain Cuttle, “I am not afeard. Wal”r is
+“No, Heart’s-delight,” said [[Captain Cuttle]], “I am not afeard. Wal”r is
 a lad as’ll go through a deal o’ hard weather. Wal”r is a lad as’ll
-bring as much success to that “ere brig as a lad is capable on. Wal”r,”
+bring as much [[success]] to that “ere brig as a lad is capable on. Wal”r,”
 said the Captain, his eyes glistening with the praise of his young
 friend, and his hook raised to announce a beautiful quotation, “is what
 you may call a out’ard and visible sign of an in’ard and spirited
@@ -29,7 +29,7 @@ looked to him for something more.
 “I am not afeard, my Heart’s-delight,” resumed the Captain, “There’s
 been most uncommon bad weather in them latitudes, there’s no denyin’,
 and they have drove and drove and been beat off, may be t’other side
-the world. But the ship’s a good ship, and the lad’s a good lad; and it
+the world. But the [[Ship|ship]]’s a good [[Ship|ship]], and the lad’s a good lad; and it
 ain’t easy, thank the Lord,” the Captain made a little bow, “to break
 up hearts of oak, whether they’re in brigs or buzzums. Here we have ’em
 both ways, which is bringing it up with a round turn, and so I ain’t a
@@ -38,17 +38,17 @@ bit afeard as yet.”
 “As yet?” repeated Florence.
 
 “Not a bit,” returned the Captain, kissing his iron hand; “and afore I
-begin to be, my Hearts-delight, Wal”r will have wrote home from the
+begin to be, my Hearts-delight, Wal”r will have wrote [[Home|home]] from the
 island, or from some port or another, and made all taut and
-ship-shape.” And with regard to old Sol Gills, here the Captain became
-solemn, “who I’ll stand by, and not desert until death do us part, and
+[[Ship|ship]]-shape.” And with regard to old Sol Gills, here the Captain became
+solemn, “who I’ll stand by, and not [[Desert|desert]] until [[Death|death]] do us part, and
 when the stormy winds do blow, do blow, do blow—overhaul the
 Catechism,” said the Captain parenthetically, “and there you’ll find
 them expressions—if it would console Sol Gills to have the opinion of a
 seafaring man as has got a mind equal to any undertaking that he puts
 it alongside of, and as was all but smashed in his “prenticeship, and
 of which the name is Bunsby, that “ere man shall give him such an
-opinion in his own parlour as’ll stun him. Ah!” said Captain Cuttle,
+opinion in his own parlour as’ll stun him. Ah!” said [[Captain Cuttle]],
 vauntingly, “as much as if he’d gone and knocked his head again a
 door!”
 
@@ -63,7 +63,7 @@ skimmed into the room like a bird, and alighted heavily at the
 Captain’s feet. The door then shut as violently as it had opened, and
 nothing ensued in explanation of the prodigy.
 
-Captain Cuttle picked up his hat, and having turned it over with a look
+[[Captain Cuttle]] picked up his hat, and having turned it over with a look
 of interest and welcome, began to polish it on his sleeve. While doing
 so, the Captain eyed his visitors intently, and said in a low voice,
 
@@ -71,9 +71,9 @@ so, the Captain eyed his visitors intently, and said in a low voice,
 morning, but she—she took it away and kept it. That’s the long and
 short of the subject.”
 
-“Who did, for goodness sake?” asked Susan Nipper.
+“Who did, for goodness sake?” asked [[Susan Nipper]].
 
-“The lady of the house, my dear,” returned the Captain, in a gruff
+“The lady of the [[house]], my dear,” returned the Captain, in a gruff
 whisper, and making signals of secrecy. “We had some words about the
 swabbing of these here planks, and she—In short,” said the Captain,
 eyeing the door, and relieving himself with a long breath, “she stopped
@@ -83,7 +83,7 @@ my liberty.”
 energy of the wish. “I’d stop her!”
 
 “Would you, do you, my dear?” rejoined the Captain, shaking his head
-doubtfully, but regarding the desperate courage of the fair aspirant
+doubtfully, but regarding the desperate [[Courage|courage]] of the fair aspirant
 with obvious admiration. “I don’t know. It’s difficult navigation.
 She’s very hard to carry on with, my dear. You never can tell how
 she’ll head, you see. She’s full one minute, and round upon you next.
@@ -95,10 +95,10 @@ recurring to his admiration of Miss Nipper’s devoted bravery, timidly
 repeated, “Would you, do you think, my dear?”
 
 Susan only replied with a bridling smile, but that was so very full of
-defiance, that there is no knowing how long Captain Cuttle might have
+defiance, that there is no knowing how long [[Captain Cuttle]] might have
 stood entranced in its contemplation, if Florence in her anxiety had
 not again proposed their immediately resorting to the oracular Bunsby.
-Thus reminded of his duty, Captain Cuttle put on the glazed hat firmly,
+Thus reminded of his duty, [[Captain Cuttle]] put on the glazed hat firmly,
 took up another knobby stick, with which he had supplied the place of
 that one given to Walter, and offering his arm to Florence, prepared to
 cut his way through the enemy.
@@ -107,19 +107,19 @@ It turned out, however, that Mrs MacStinger had already changed her
 course, and that she headed, as the Captain had remarked she often did,
 in quite a new direction. For when they got downstairs, they found that
 exemplary woman beating the mats on the doorsteps, with Alexander,
-still upon the paving-stone, dimly looming through a fog of dust; and
+still upon the paving-stone, dimly looming through a fog of [[Dust|dust]]; and
 so absorbed was Mrs MacStinger in her household occupation, that when
-Captain Cuttle and his visitors passed, she beat the harder, and
+[[Captain Cuttle]] and his visitors passed, she beat the harder, and
 neither by word nor gesture showed any consciousness of their vicinity.
-The Captain was so well pleased with this easy escape—although the
+The Captain was so [[Well|well]] pleased with this easy escape—although the
 effect of the door-mats on him was like a copious administration of
-snuff, and made him sneeze until the tears ran down his face—that he
+snuff, and made him sneeze until the [[Tears|tears]] ran down his face—that he
 could hardly believe his good fortune; but more than once, between the
 door and the hackney-coach, looked over his shoulder, with an obvious
 apprehension of Mrs MacStinger’s giving chase yet.
 
 However, they got to the corner of Brig Place without any molestation
-from that terrible fire-ship; and the Captain mounting the
+from that terrible [[Fire|fire]]-[[Ship|ship]]; and the Captain mounting the
 coach-box—for his gallantry would not allow him to ride inside with the
 ladies, though besought to do so—piloted the driver on his course for
 Captain Bunsby’s vessel, which was called the Cautious Clara, and was

@@ -14,49 +14,49 @@ tags:
 </nav>
 
 
-Then said Mr Merdle, ‘Allow me, sir. Take my arm!’ Then leaning on
-Mr Merdle’s arm, did Mr Dorrit descend the staircase, seeing the
-worshippers on the steps, and feeling that the light of Mr Merdle shone
+Then said [[Mr Merdle]], ‘Allow me, sir. Take my arm!’ Then leaning on
+[[Mr Merdle]]’s arm, did Mr Dorrit descend the staircase, seeing the
+worshippers on the steps, and feeling that the light of [[Mr Merdle]] shone
 by reflection in himself. Then the carriage, and the ride into the
-City; and the people who looked at them; and the hats that flew off grey
+[[City]]; and the people who looked at them; and the hats that flew off grey
 heads; and the general bowing and crouching before this wonderful mortal
 the like of which prostration of spirit was not to be seen--no, by
 high Heaven, no! It may be worth thinking of by Fawners of all
-denominations--in Westminster Abbey and Saint Paul’s Cathedral put
-together, on any Sunday in the year. It was a rapturous dream to Mr
+denominations--in Westminster Abbey and Saint Paul’s [[Cathedral]] put
+together, on any [[Sunday]] in the year. It was a rapturous dream to Mr
 Dorrit to find himself set aloft in this public car of triumph, making a
 magnificent progress to that befitting destination, the golden Street of
 the Lombards.
 
-There Mr Merdle insisted on alighting and going his way a-foot, and
+There [[Mr Merdle]] insisted on alighting and going his way a-foot, and
 leaving his poor equipage at Mr Dorrit’s disposition. So the dream
-increased in rapture when Mr Dorrit came out of the bank alone, and
-people looked at _him_ in default of Mr Merdle, and when, with the ears of
+increased in rapture when Mr Dorrit came out of the bank [[Alone|alone]], and
+people looked at _him_ in default of [[Mr Merdle]], and when, with the ears of
 his mind, he heard the frequent exclamation as he rolled glibly along,
-‘A wonderful man to be Mr Merdle’s friend!’
+‘A wonderful man to be [[Mr Merdle]]’s friend!’
 
 At dinner that day, although the occasion was not foreseen and provided
-for, a brilliant company of such as are not made of the dust of the
+for, a brilliant company of such as are not made of the [[Dust|dust]] of the
 earth, but of some superior article for the present unknown, shed
-their lustrous benediction upon Mr Dorrit’s daughter’s marriage. And Mr
+their lustrous benediction upon Mr Dorrit’s daughter’s [[Marriage|marriage]]. And Mr
 Dorrit’s daughter that day began, in earnest, her competition with that
-woman not present; and began it so well that Mr Dorrit could all but
+woman not present; and began it so [[Well|well]] that Mr Dorrit could all but
 have taken his affidavit, if required, that Mrs Sparkler had all her
 life been lying at full length in the lap of luxury, and had never heard
 of such a rough word in the English tongue as Marshalsea.
 
 Next day, and the day after, and every day, all graced by more dinner
-company, cards descended on Mr Dorrit like theatrical snow. As the
-friend and relative by marriage of the illustrious Merdle, Bar, Bishop,
-Treasury, Chorus, Everybody, wanted to make or improve Mr Dorrit’s
-acquaintance. In Mr Merdle’s heap of offices in the City, when Mr Dorrit
+company, cards descended on Mr Dorrit like theatrical [[Snow|snow]]. As the
+friend and relative by [[Marriage|marriage]] of the illustrious Merdle, Bar, Bishop,
+Treasury, [[Chorus]], Everybody, wanted to make or improve Mr Dorrit’s
+acquaintance. In [[Mr Merdle]]’s heap of offices in the [[City]], when Mr Dorrit
 appeared at any of them on his business taking him Eastward (which it
 frequently did, for it throve amazingly), the name of Dorrit was always
 a passport to the great presence of Merdle. So the dream increased in
 rapture every hour, as Mr Dorrit felt increasingly sensible that this
 connection had brought him forward indeed.
 
-Only one thing sat otherwise than auriferously, and at the same time
+Only one thing sat otherwise than auriferously, and at the same [[Time|time]]
 lightly, on Mr Dorrit’s mind. It was the Chief Butler. That stupendous
 character looked at him, in the course of his official looking at the
 dinners, in a manner that Mr Dorrit considered questionable. He looked

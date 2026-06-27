@@ -20,16 +20,16 @@ Secret Intelligence
 
 Good Mrs Brown and her daughter Alice kept silent company together, in
 their own dwelling. It was early in the evening, and late in the
-spring. But a few days had elapsed since Mr Dombey had told Major
+[[Spring|spring]]. But a few days had elapsed since Mr Dombey had told Major
 Bagstock of his singular intelligence, singularly obtained, which might
 turn out to be valueless, and might turn out to be true; and the world
 was not satisfied yet.
 
-The mother and daughter sat for a long time without interchanging a
+The mother and daughter sat for a long [[Time|time]] without interchanging a
 word: almost without motion. The old woman’s face was shrewdly anxious
 and expectant; that of her daughter was expectant too, but in a less
 sharp degree, and sometimes it darkened, as if with gathering
-disappointment and incredulity. The old woman, without heeding these
+disappointment and [[Incredulity|incredulity]]. The old woman, without heeding these
 changes in its expression, though her eyes were often turned towards
 it, sat mumbling and munching, and listening confidently.
 
@@ -38,14 +38,14 @@ in the days when only Good Mrs Brown inhabited it. Some few attempts at
 cleanliness and order were manifest, though made in a reckless, gipsy
 way, that might have connected them, at a glance, with the younger
 woman. The shades of evening thickened and deepened as the two kept
-silence, until the blackened walls were nearly lost in the prevailing
+[[Silence|silence]], until the blackened walls were nearly lost in the prevailing
 gloom.
 
-Then Alice broke the silence which had lasted so long, and said:
+Then Alice broke the [[Silence|silence]] which had lasted so long, and said:
 
 “You may give him up, mother. He’ll not come here.”
 
-“Death give him up!” returned the old woman, impatiently. “He will come
+“[[Death]] give him up!” returned the old woman, impatiently. “He will come
 here.”
 
 “We shall see,” said Alice.
@@ -54,7 +54,7 @@ here.”
 
 “And doomsday,” said the daughter.
 
-“You think I’m in my second childhood, I know!” croaked the old woman.
+“You think I’m in my second [[Childhood|childhood]], I know!” croaked the old woman.
 “That’s the respect and duty that I get from my own gal, but I’m wiser
 than you take me for. He’ll come. T’other day when I touched his coat
 in the street, he looked round as if I was a toad. But Lord, to see him
@@ -66,7 +66,7 @@ they was!”
 “Angry? ask if it was bloody. That’s more like the word. Angry? Ha, ha!
 To call that only angry!” said the old woman, hobbling to the cupboard,
 and lighting a candle, which displayed the workings of her mouth to
-ugly advantage, as she brought it to the table. “I might as well call
+ugly advantage, as she brought it to the table. “I might as [[Well|well]] call
 your face only angry, when you think or talk about ’em.”
 
 It was something different from that, truly, as she sat as still as a
@@ -94,14 +94,14 @@ harm in it.”
 “That’s my handsome daughter,” said the old woman. “Your worship won’t
 mind her. She knows all about it.”
 
-A shadow fell upon his face not less expressive than if he had groaned
+A [[Shadow|shadow]] fell upon his face not less expressive than if he had groaned
 aloud, “Who does not know all about it!” but he looked at her steadily,
 and she, without any acknowledgment of his presence, looked at him. The
-shadow on his face was darker when he turned his glance away from her;
+[[Shadow|shadow]] on his face was darker when he turned his glance away from her;
 and even then it wandered back again, furtively, as if he were haunted
 by her bold eyes, and some remembrance they inspired.
 
-“Woman,” said Mr Dombey to the old witch who was chuckling and leering
+“Woman,” said Mr Dombey to the old [[Witch|witch]] who was chuckling and leering
 close at his elbow, and who, when he turned to address her, pointed
 stealthily at her daughter, and rubbed her hands, and pointed again,
 “Woman! I believe that I am weak and forgetful of my station in coming
@@ -113,7 +113,7 @@ about him, “when I have exerted my power and means to obtain it in
 vain? I do not think,” he said, after a moment’s pause, during which he
 had observed her, sternly, “that you are so audacious as to mean to
 trifle with me, or endeavour to impose upon me. But if you have that
-purpose, you had better stop on the threshold of your scheme. My humour
+purpose, you had better stop on the threshold of your scheme. My [[Humour|humour]]
 is not a trifling one, and my acknowledgment will be severe.”
 
 “Oh a proud, hard gentleman!” chuckled the old woman, shaking her head,
@@ -140,7 +140,7 @@ judge,” she returned. “Do you know nothing of a woman’s anger?”
 
 “Not usually,” she answered, without any show of emotion: “I speak to
 you now, that you may understand us better, and rely more on us. A
-woman’s anger is pretty much the same here, as in your fine house. I am
+woman’s anger is pretty much the same here, as in your fine [[house]]. I am
 angry. I have been so, many years. I have as good cause for my anger as
 you have for yours, and its object is the same man.”
 
@@ -194,8 +194,8 @@ me?”
 
 “A stranger?”
 
-“Chut!” said the old woman, with a shrill laugh. “What signifies! Well,
-well; no. No stranger to your worship. But he won’t see you. He’d be
+“Chut!” said the old woman, with a shrill laugh. “What signifies! [[Well]],
+[[Well|well]]; no. No stranger to your worship. But he won’t see you. He’d be
 afraid of you, and wouldn’t talk. You’ll stand behind that door, and
 judge him for yourself. We don’t ask to be believed on trust What! Your
 worship doubts the room behind the door? Oh the suspicion of you rich
@@ -242,7 +242,7 @@ birdcage in my hand, will you?”
 “Thinks of a birdcage, afore me!” cried the old woman, apostrophizing
 the ceiling. “Me that feels more than a mother for him!”
 
-“Well, I’m sure I’m very much obliged to you, Misses Brown,” said the
+“[[Well]], I’m sure I’m very much obliged to you, Misses Brown,” said the
 unfortunate youth, greatly aggravated; “but you’re so jealous of a
 cove. I’m very fond of you myself, and all that, of course; but I don’t
 smother you, do I, Misses Brown?”
@@ -269,7 +269,7 @@ enough to make a cove run wild!”
 “What! Do you snub me, thankless boy!” cried the old woman, with ready
 vehemence.
 
-“Good gracious, Misses Brown, no!” returned the Grinder, with tears in
+“Good gracious, Misses Brown, no!” returned the Grinder, with [[Tears|tears]] in
 his eyes. “Was there ever such a—! Don’t I dote upon you, Misses
 Brown?”
 
@@ -282,7 +282,7 @@ and his hair was standing on end all over his head.
 into with affection like this here. I wish she was—How have you been,
 Misses Brown?”
 
-“Ah! Not here since this night week!” said the old woman, contemplating
+“Ah! Not here since this [[Night|night]] week!” said the old woman, contemplating
 him with a look of reproach.
 
 “Good gracious, Misses Brown,” returned the Grinder, “I said tonight’s
@@ -305,8 +305,8 @@ Mr Dombey’s face at the door, “and wishing her the same and many of
 
 He drained the glass to these two sentiments, and set it down.
 
-“Well, I say, Misses Brown!” he proceeded. “To go on a little rational
-now. You’re a judge of birds, and up to their ways, as I know to my
+“[[Well]], I say, Misses Brown!” he proceeded. “To go on a little rational
+now. You’re a judge of [[Birds|birds]], and up to their ways, as I know to my
 cost.”
 
 “Cost!” repeated Mrs Brown.
@@ -314,14 +314,14 @@ cost.”
 “Satisfaction, I mean,” returned the Grinder. “How you do take up a
 cove, Misses Brown! You’ve put it all out of my head again.”
 
-“Judge of birds, Robby,” suggested the old woman.
+“Judge of [[Birds|birds]], Robby,” suggested the old woman.
 
-“Ah!” said the Grinder. “Well, I’ve got to take care of this
+“Ah!” said the Grinder. “[[Well]], I’ve got to take care of this
 parrot—certain things being sold, and a certain establishment broke
 up—and as I don’t want no notice took at present, I wish you’d attend
 to her for a week or so, and give her board and lodging, will you? If I
 must come backwards and forwards,” mused the Grinder with a dejected
-face, “I may as well have something to come for.”
+face, “I may as [[Well|well]] have something to come for.”
 
 “Something to come for?” screamed the old woman.
 
@@ -362,10 +362,10 @@ call, said:
 
 The old woman darted a glance at him that might have warned him to
 consider his ears in danger, but it was his turn to look in at the
-parrot now, and however expressive his imagination may have made her
+parrot now, and however expressive his [[Imagination|imagination]] may have made her
 angry scowl, it was unseen by his bodily eyes.
 
-“I wonder Master didn’t take you with him, Rob,” said the old woman, in
+“I [[Wonder|wonder]] Master didn’t take you with him, Rob,” said the old woman, in
 a wheedling voice, but with increased malignity of aspect.
 
 Rob was so absorbed in contemplation of the parrot, and in trolling his
@@ -375,11 +375,11 @@ The old woman had her clutch within a hair’s breadth of his shock of
 hair as it stooped over the table; but she restrained her fingers, and
 said, in a voice that choked with its efforts to be coaxing:
 
-“Robby, my child.”
+“Robby, my [[Child|child]].”
 
-“Well, Misses Brown,” returned the Grinder.
+“[[Well]], Misses Brown,” returned the Grinder.
 
-“I say I wonder Master didn’t take you with him, dear.”
+“I say I [[Wonder|wonder]] Master didn’t take you with him, dear.”
 
 “Never you mind, Misses Brown,” returned the Grinder.
 
@@ -399,7 +399,7 @@ woman, panting too, and stamping with rage and eagerness, appeared to
 be collecting her energies for another swoop upon him. At this crisis
 Alice interposed her voice, but not in the Grinder’s favour, by saying,
 
-“Well done, mother. Tear him to pieces!”
+“[[Well]] done, mother. Tear him to pieces!”
 
 “What, young woman!” blubbered Rob; “are you against me too? What have
 I been and done? What am I to be tore to pieces for, I should like to
@@ -431,7 +431,7 @@ after him that shall talk too much; that won’t be shook away; that’ll
 hang to him like leeches, and slink arter him like foxes. What! He
 knows ’em. He knows his old games and his old ways. If he’s forgotten
 ’em, they’ll soon remind him. Now let him go, and see how he’ll do
-Master’s business, and keep Master’s secrets, with such company always
+Master’s business, and keep Master’s [[Secrets|secrets]], with such company always
 following him up and down. Ha, ha, ha! He’ll find ’em a different sort
 from you and me, Ally; Close as he is with you and me. Now let him go,
 now let him go!”
@@ -442,7 +442,7 @@ diameter, constantly repeating these words, and shaking her fist above
 her head, and working her mouth about.
 
 “Misses Brown,” pleaded Rob, coming a little out of his corner, “I’m
-sure you wouldn’t injure a cove, on second thoughts, and in cold blood,
+sure you wouldn’t injure a cove, on second thoughts, and in cold [[Blood|blood]],
 would you?”
 
 “Don’t talk to me,” said Mrs Brown, still wrathfully pursuing her
@@ -476,7 +476,7 @@ keep it there.
 amicable posture, they had pledged each other.
 
 “Hush! If you’d be so good, Misses Brown, as to speak a little lower,”
-Rob implored. “Why, he’s pretty well, thank’ee, I suppose.”
+Rob implored. “Why, he’s pretty [[Well|well]], thank’ee, I suppose.”
 
 “You’re not out of place, Robby?” said Mrs Brown, in a wheedling tone.
 
@@ -486,12 +486,12 @@ in pay, Misses Brown.”
 “And nothing to do, Rob?”
 
 “Nothing particular to do just now, Misses Brown, but to—keep my eyes
-open,” said the Grinder, rolling them in a forlorn way.
+open,” said the Grinder, [[rolling]] them in a forlorn way.
 
 “Master abroad, Rob?”
 
 “Oh, for goodness’ sake, Misses Brown, couldn’t you gossip with a cove
-about anything else?” cried the Grinder, in a burst of despair.
+about anything else?” cried the Grinder, in a burst of [[Despair|despair]].
 
 The impetuous Mrs Brown rising directly, the tortured Grinder detained
 her, stammering “Ye-es, Misses Brown, I believe he’s abroad. What’s she
@@ -509,14 +509,14 @@ supplication.
 
 “Yes, I believe I see her once,” replied Rob.
 
-“The night she went away, Robby, eh?” said the old woman in his ear,
+“The [[Night|night]] she went away, Robby, eh?” said the old woman in his ear,
 and taking note of every change in his face. “Aha! I know it was that
-night.”
+[[Night|night]].”
 
-“Well, if you know it was that night, you know, Misses Brown,” replied
+“[[Well]], if you know it was that [[Night|night]], you know, Misses Brown,” replied
 Rob, “it’s no use putting pinchers into a cove to make him say so.
 
-“Where did they go that night, Rob? Straight away? How did they go?
+“Where did they go that [[Night|night]], Rob? Straight away? How did they go?
 Where did you see her? Did she laugh? Did she cry? Tell me all about
 it,” cried the old hag, holding him closer yet, patting the hand that
 was drawn through his arm against her other hand, and searching every
@@ -528,13 +528,13 @@ The wretched Grinder made a gasp, and a pause.
 
 “Are you dumb?” said the old woman, angrily.
 
-“Lord, Misses Brown, no! You expect a cove to be a flash of lightning.
+“Lord, Misses Brown, no! You expect a cove to be a flash of [[Lightning|lightning]].
 I wish I was the electric fluency,” muttered the bewildered Grinder.
 “I’d have a shock at somebody, that would settle their business.”
 
 “What do you say?” asked the old woman, with a grin.
 
-“I’m wishing my love to you, Misses Brown,” returned the false Rob,
+“I’m wishing my [[Love|love]] to you, Misses Brown,” returned the false Rob,
 seeking consolation in the glass. “Where did they go to first was it?
 Him and her, do you mean?”
 
@@ -554,10 +554,10 @@ different ways, I tell you Misses Brown.”
 after a moment’s silent and keen scrutiny of his face.
 
 “Why, if they weren’t a going to meet somewhere, I suppose they might
-as well have stayed at home, mightn’t they, Brown?” returned the
+as [[Well|well]] have stayed at [[Home|home]], mightn’t they, Brown?” returned the
 unwilling Grinder.
 
-“Well, Rob? Well?” said the old woman, drawing his arm yet tighter
+“[[Well]], Rob? [[Well]]?” said the old woman, drawing his arm yet tighter
 through her own, as if, in her eagerness, she were afraid of his
 slipping away.
 
@@ -565,7 +565,7 @@ slipping away.
 Grinder, who, between his sense of injury, his sense of liquor, and his
 sense of being on the rack, had become so lachrymose, that at almost
 every answer he scooped his coats into one or other of his eyes, and
-uttered an unavailing whine of remonstrance. “Did she laugh that night,
+uttered an unavailing whine of remonstrance. “Did she laugh that [[Night|night]],
 was it? Didn’t you ask if she laughed, Misses Brown?”
 
 “Or cried?” added the old woman, nodding assent.
@@ -593,26 +593,26 @@ know next, Misses Brown?”
 “What became of Master? Where did he go?” she inquired, still holding
 him tight, and looking close into his face, with her sharp eyes.
 
-“Upon my soul, I don’t know, Misses Brown,” answered Rob. “Upon my soul
+“Upon my [[Soul|soul]], I don’t know, Misses Brown,” answered Rob. “Upon my [[Soul|soul]]
 I don’t know what he did, nor where he went, nor anything about him I
 only know what he said to me as a caution to hold my tongue, when we
 parted; and I tell you this, Misses Brown, as a friend, that sooner
 than ever repeat a word of what we’re saying now, you had better take
-and shoot yourself, or shut yourself up in this house, and set it
-a-fire, for there’s nothing he wouldn’t do, to be revenged upon you.
-You don’t know him half as well as I do, Misses Brown. You’re never
+and shoot yourself, or shut yourself up in this [[house]], and set it
+a-[[Fire|fire]], for there’s nothing he wouldn’t do, to be revenged upon you.
+You don’t know him half as [[Well|well]] as I do, Misses Brown. You’re never
 safe from him, I tell you.”
 
 “Haven’t I taken an oath,” retorted the old woman, “and won’t I keep
 it?”
 
-“Well, I’m sure I hope you will, Misses Brown,” returned Rob, somewhat
+“[[Well]], I’m sure I [[Hope|hope]] you will, Misses Brown,” returned Rob, somewhat
 doubtfully, and not without a latent threatening in his manner. “For
 your own sake, quite as much as mine.”
 
 He looked at her as he gave her this friendly caution, and emphasized
 it with a nodding of his head; but finding it uncomfortable to
-encounter the yellow face with its grotesque action, and the ferret
+encounter the yellow face with its [[Grotesque|grotesque]] action, and the ferret
 eyes with their keen old wintry gaze, so close to his own, he looked
 down uneasily and sat skulking in his chair, as if he were trying to
 bring himself to a sullen declaration that he would answer no more
@@ -649,7 +649,7 @@ you can spell it.”
 Rob, with a petulant exclamation between laughing and crying—for he was
 penetrated with some admiration of Mrs Brown’s cunning, even through
 this persecution—after some reluctant fumbling in his waistcoat pocket,
-produced from it a little piece of chalk. The old woman’s eyes sparkled
+produced from it a little piece of [[chalk]]. The old woman’s eyes sparkled
 when she saw it between his thumb and finger, and hastily clearing a
 space on the deal table, that he might write the word there, she once
 more made her signal with a shaking hand.
@@ -657,30 +657,30 @@ more made her signal with a shaking hand.
 “Now I tell you beforehand what it is, Misses Brown,” said Rob, “it’s
 no use asking me anything else. I won’t answer anything else; I can’t.
 How long it was to be before they met, or whose plan it was that they
-was to go away alone, I don’t know no more than you do. I don’t know
+was to go away [[Alone|alone]], I don’t know no more than you do. I don’t know
 any more about it. If I was to tell you how I found out this word,
 you’d believe that. Shall I tell you, Misses Brown?”
 
 “Yes, Rob.”
 
-“Well then, Misses Brown. The way—now you won’t ask any more, you
+“[[Well]] then, Misses Brown. The way—now you won’t ask any more, you
 know?” said Rob, turning his eyes, which were now fast getting drowsy
 and stupid, upon her.
 
 “Not another word,” said Mrs Brown.
 
-“Well then, the way was this. When a certain person left the lady with
+“[[Well]] then, the way was this. When a certain person left the lady with
 me, he put a piece of paper with a direction written on it in the
 lady’s hand, saying it was in case she should forget. She wasn’t afraid
 of forgetting, for she tore it up as soon as his back was turned, and
 when I put up the carriage steps, I shook out one of the pieces—she
-sprinkled the rest out of the window, I suppose, for there was none
+sprinkled the rest out of the [[Window|window]], I suppose, for there was none
 there afterwards, though I looked for ’em. There was only one word on
 it, and that was this, if you must and will know. But remember! You’re
 upon your oath, Misses Brown!”
 
 Mrs Brown knew that, she said. Rob, having nothing more to say, began
-to chalk, slowly and laboriously, on the table.
+to [[chalk]], slowly and laboriously, on the table.
 
 “‘D,’” the old woman read aloud, when he had formed the letter.
 
@@ -696,7 +696,7 @@ went on with the word. As he bent his head down, the person for whose
 information he so unconsciously laboured, moved from the door behind
 him to within a short stride of his shoulder, and looked eagerly
 towards the creeping track of his hand upon the table. At the same
-time, Alice, from her opposite chair, watched it narrowly as it shaped
+[[Time|time]], Alice, from her opposite chair, watched it narrowly as it shaped
 the letters, and repeated each one on her lips as he made it, without
 articulating it aloud. At the end of every letter her eyes and Mr
 Dombey’s met, as if each of them sought to be confirmed by the other;
@@ -705,30 +705,30 @@ and thus they both spelt D.I.J.O.N.
 “There!” said the Grinder, moistening the palm of his hand hastily, to
 obliterate the word; and not content with smearing it out, rubbing and
 planing all trace of it away with his coat-sleeve, until the very
-colour of the chalk was gone from the table. “Now, I hope you’re
+colour of the [[chalk]] was gone from the table. “Now, I [[Hope|hope]] you’re
 contented, Misses Brown!”
 
 The old woman, in token of her being so, released his arm and patted
 his back; and the Grinder, overcome with mortification,
-cross-examination, and liquor, folded his arms on the table, laid his
+[[Cross|cross]]-examination, and liquor, folded his arms on the table, laid his
 head upon them, and fell asleep.
 
-Not until he had been heavily asleep some time, and was snoring
+Not until he had been heavily asleep some [[Time|time]], and was snoring
 roundly, did the old woman turn towards the door where Mr Dombey stood
 concealed, and beckon him to come through the room, and pass out. Even
 then, she hovered over Rob, ready to blind him with her hands, or
 strike his head down, if he should raise it while the secret step was
 crossing to the door. But though her glance took sharp cognizance of
-the sleeper, it was sharp too for the waking man; and when he touched
+[[The Sleeper|the sleeper]], it was sharp too for the waking man; and when he touched
 her hand with his, and in spite of all his caution, made a chinking,
 golden sound, it was as bright and greedy as a raven’s.
 
-The daughter’s dark gaze followed him to the door, and noted well how
+The daughter’s dark gaze followed him to the door, and noted [[Well|well]] how
 pale he was, and how his hurried tread indicated that the least delay
 was an insupportable restraint upon him, and how he was burning to be
 active and away. As he closed the door behind him, she looked round at
 her mother. The old woman trotted to her; opened her hand to show what
-was within; and, tightly closing it again in her jealousy and avarice,
+was within; and, tightly closing it again in her [[Jealousy|jealousy]] and avarice,
 whispered:
 
 “What will he do, Ally?”
@@ -737,10 +737,10 @@ whispered:
 
 “Murder?” asked the old woman.
 
-“He’s a madman, in his wounded pride, and may do that, for anything we
+“He’s a madman, in his wounded [[Pride|pride]], and may do that, for anything we
 can say, or he either.”
 
-Her glance was brighter than her mother’s, and the fire that shone in
+Her glance was brighter than her mother’s, and the [[Fire|fire]] that shone in
 it was fiercer; but her face was colourless, even to her lips.
 
 They said no more, but sat apart; the mother communing with her money;

@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 23 (part 3)"
+title: "[[Persuasion]] — Chapter 23 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -34,7 +34,7 @@ pressing his own with emotion.
 
 
 
-“Oh!” cried Anne eagerly, “I hope I do justice to all that is felt by
+“Oh!” cried Anne eagerly, “I [[Hope|hope]] I do justice to all that is felt by
 
 you, and by those who resemble you. God forbid that I should undervalue
 
@@ -50,13 +50,13 @@ every important exertion, and to every domestic forbearance, so long
 
 as—if I may be allowed the expression—so long as you have an object. I
 
-mean while the woman you love lives, and lives for you. All the
+mean while the woman you [[Love|love]] lives, and lives for you. All the
 
 privilege I claim for my own sex (it is not a very enviable one; you
 
 need not covet it), is that of loving longest, when existence or when
 
-hope is gone.”
+[[Hope|hope]] is gone.”
 
 
 
@@ -66,7 +66,7 @@ too full, her breath too much oppressed.
 
 
 
-“You are a good soul,” cried Captain Harville, putting his hand on her
+“You are a good [[Soul|soul]],” cried Captain Harville, putting his hand on her
 
 arm, quite affectionately. “There is no quarrelling with you. And when
 
@@ -82,7 +82,7 @@ leave.
 
 “Here, Frederick, you and I part company, I believe,” said she. “I am
 
-going home, and you have an engagement with your friend. To-night we
+going [[Home|home]], and you have an engagement with your friend. To-[[Night|night]] we
 
 may have the pleasure of all meeting again at your party,” (turning to
 
@@ -90,11 +90,11 @@ Anne). “We had your sister’s card yesterday, and I understood Frederick
 
 had a card too, though I did not see it; and you are disengaged,
 
-Frederick, are you not, as well as ourselves?”
+Frederick, are you not, as [[Well|well]] as ourselves?”
 
 
 
-Captain Wentworth was folding up a letter in great haste, and either
+[[Captain Wentworth]] was folding up a letter in great haste, and either
 
 could not or would not answer fully.
 
@@ -110,7 +110,7 @@ service in half a minute.”
 
 
 
-Mrs Croft left them, and Captain Wentworth, having sealed his letter
+Mrs Croft left them, and [[Captain Wentworth]], having sealed his letter
 
 with great rapidity, was indeed ready, and had even a hurried, agitated
 
@@ -124,7 +124,7 @@ out of the room without a look!
 
 
 
-She had only time, however, to move closer to the table where he had
+She had only [[Time|time]], however, to move closer to the table where he had
 
 been writing, when footsteps were heard returning; the door opened, it
 
@@ -134,7 +134,7 @@ and instantly crossing the room to the writing table, he drew out a
 
 letter from under the scattered paper, placed it before Anne with eyes
 
-of glowing entreaty fixed on her for a time, and hastily collecting his
+of glowing entreaty fixed on her for a [[Time|time]], and hastily collecting his
 
 gloves, was again out of the room, almost before Mrs Musgrove was aware
 
@@ -148,7 +148,7 @@ expression. The letter, with a direction hardly legible, to “Miss A.
 
 E.—,” was evidently the one which he had been folding so hastily. While
 
-supposed to be writing only to Captain Benwick, he had been also
+supposed to be writing only to [[Captain Benwick]], he had been also
 
 addressing her! On the contents of that letter depended all which this
 
@@ -164,9 +164,9 @@ had leaned and written, her eyes devoured the following words:
 
 
 
-“I can listen no longer in silence. I must speak to you by such means
+“I can listen no longer in [[Silence|silence]]. I must speak to you by such means
 
-as are within my reach. You pierce my soul. I am half agony, half hope.
+as are within my reach. You pierce my [[Soul|soul]]. I am half agony, half [[Hope|hope]].
 
 Tell me not that I am too late, that such precious feelings are gone
 
@@ -174,13 +174,13 @@ for ever. I offer myself to you again with a heart even more your own
 
 than when you almost broke it, eight years and a half ago. Dare not say
 
-that man forgets sooner than woman, that his love has an earlier death.
+that man forgets sooner than woman, that his [[Love|love]] has an earlier [[Death|death]].
 
 I have loved none but you. Unjust I may have been, weak and resentful I
 
-have been, but never inconstant. You alone have brought me to Bath. For
+have been, but never inconstant. You [[Alone|alone]] have brought me to Bath. For
 
-you alone, I think and plan. Have you not seen this? Can you fail to
+you [[Alone|alone]], I think and plan. Have you not seen this? Can you fail to
 
 have understood my wishes? I had not waited even these ten days, could
 
@@ -212,7 +212,7 @@ F. W.
 
 your party, as soon as possible. A word, a look, will be enough to
 
-decide whether I enter your father’s house this evening or never.”
+decide whether I enter your father’s [[house]] this evening or never.”
 
 
 
@@ -220,7 +220,7 @@ decide whether I enter your father’s house this evening or never.”
 
 Such a letter was not to be soon recovered from. Half an hour’s
 
-solitude and reflection might have tranquillized her; but the ten
+[[Solitude|solitude]] and reflection might have tranquillized her; but the ten
 
 minutes only which now passed before she was interrupted, with all the
 

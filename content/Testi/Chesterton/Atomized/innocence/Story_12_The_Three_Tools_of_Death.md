@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Three Tools of Death"
+title: "[[innocence]] — The Three Tools of [[Death]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/innocence-(Chesterton)"
@@ -14,18 +14,18 @@ tags:
 </nav>
 
 
-                     The Three Tools of Death
+                     The Three Tools of [[Death]]
 
-Both by calling and conviction Father Brown knew better than
+Both by calling and conviction [[Father Brown]] knew better than
 most of us, that every man is dignified when he is dead.
 But even he felt a pang of incongruity when he was knocked up
-at daybreak and told that Sir Aaron Armstrong had been murdered.
+at daybreak and told that Sir [[Aaron]] Armstrong had been murdered.
 There was something absurd and unseemly about secret violence
 in connection with so entirely entertaining and popular a figure.
-For Sir Aaron Armstrong was entertaining to the point of being comic;
+For Sir [[Aaron]] Armstrong was entertaining to the point of being comic;
 and popular in such a manner as to be almost legendary.
 It was like hearing that Sunny Jim had hanged himself;
-or that Mr. Pickwick had died in Hanwell.  For though Sir Aaron was
+or that Mr. [[Pickwick]] had died in Hanwell.  For though Sir [[Aaron]] was
 a philanthropist, and thus dealt with the darker side of our society,
 he prided himself on dealing with it in the brightest possible style.
 His political and social speeches were cataracts of anecdotes
@@ -34,7 +34,7 @@ his ethics were all optimism; and he dealt with the Drink problem
 (his favourite topic) with that immortal or even monotonous gaiety
 which is so often a mark of the prosperous total abstainer.
 
-The established story of his conversion was familiar on the more
+The established story of his [[Conversion|conversion]] was familiar on the more
 puritanic platforms and pulpits, how he had been, when only a boy,
 drawn away from Scotch theology to Scotch whisky, and how he had
 risen out of both and become (as he modestly put it) what he was.
@@ -45,16 +45,16 @@ so morbid as either a dram-drinker or a Calvinist.  He was, one felt,
 the most seriously merry of all the sons of men.
 
 He had lived on the rural skirt of Hampstead in a handsome
-house, high but not broad, a modern and prosaic tower.
+[[house]], high but not broad, a modern and prosaic tower.
 The narrowest of its narrow sides overhung the steep green
 bank of a railway, and was shaken by passing trains.
-Sir Aaron Armstrong, as he boisterously explained, had no nerves.
-But if the train had often given a shock to the house,
-that morning the tables were turned, and it was the house
+Sir [[Aaron]] Armstrong, as he boisterously explained, had no nerves.
+But if the train had often given a shock to the [[house]],
+that morning the tables were turned, and it was the [[house]]
 that gave a shock to the train.
 
 The engine slowed down and stopped just beyond that point where
-an angle of the house impinged upon the sharp slope of turf.
+an angle of the [[house]] impinged upon the sharp slope of turf.
 The arrest of most mechanical things must be slow;
 but the living cause of this had been very rapid.
 A man clad completely in black, even (it was remembered)
@@ -70,52 +70,52 @@ But the engine-driver swears he would have pulled up just the same if he had
 heard only the dreadful and definite accent and not the word.
 
 The train once arrested, the most superficial stare could take
-in many features of the tragedy.  The man in black on the green bank
-was Sir Aaron Armstrong's man-servant Magnus.  The baronet in his
+in many features of the [[Tragedy|tragedy]].  The man in black on the green bank
+was Sir [[Aaron]] Armstrong's man-servant Magnus.  The baronet in his
 optimism had often laughed at the black gloves of this dismal attendant;
 but no one was likely to laugh at him just now.
 
 So soon as an inquirer or two had stepped off the line and across
-the smoky hedge, they saw, rolled down almost to the bottom
-of the bank, the body of an old man in a yellow dressing-gown
+the smoky hedge, they saw, rolled down almost to the [[Bottom|bottom]]
+of the bank, the [[Body|body]] of an old man in a yellow dressing-gown
 with a very vivid scarlet lining.  A scrap of rope seemed
 caught about his leg, entangled presumably in a struggle.
-There was a smear or so of blood, though very little; but the body
+There was a smear or so of [[Blood|blood]], though very little; but the [[Body|body]]
 was bent or broken into a posture impossible to any living thing.
-It was Sir Aaron Armstrong.  A few more bewildered moments brought
+It was Sir [[Aaron]] Armstrong.  A few more bewildered moments brought
 out a big fair-bearded man, whom some travellers could salute as
-the dead man's secretary, Patrick Royce, once well known in Bohemian
+the dead man's secretary, Patrick Royce, once [[Well|well]] known in Bohemian
 society and even famous in the Bohemian arts.  In a manner more vague,
 but even more convincing, he echoed the agony of the servant.
-By the time the third figure of that household, Alice Armstrong,
+By the [[Time|time]] the third figure of that household, Alice Armstrong,
 daughter of the dead man, had come already tottering and waving
-into the garden, the engine-driver had put a stop to his stoppage.
+into the [[Garden|garden]], the engine-driver had put a stop to his stoppage.
 The whistle had blown and the train had panted on to get help
 from the next station.
 
-Father Brown had been thus rapidly summoned at the request
+[[Father Brown]] had been thus rapidly summoned at the request
 of Patrick Royce, the big ex-Bohemian secretary.
 Royce was an Irishman by birth; and that casual kind of Catholic
 that never remembers his religion until he is really in a hole.
 But Royce's request might have been less promptly complied
 with if one of the official detectives had not been a friend
-and admirer of the unofficial Flambeau; and it was impossible
-to be a friend of Flambeau without hearing numberless stories
-about Father Brown.  Hence, while the young detective
+and admirer of the unofficial [[Flambeau]]; and it was impossible
+to be a friend of [[Flambeau]] without hearing numberless stories
+about [[Father Brown]].  Hence, while the young [[Detective|detective]]
 (whose name was Merton) led the little priest across the fields
 to the railway, their talk was more confidential than could
 be expected between two total strangers.
 
 "As far as I can see," said Mr. Merton candidly, "there is no
 sense to be made of it at all.  There is nobody one can suspect.
-Magnus is a solemn old fool; far too much of a fool to be an assassin.
+Magnus is a solemn old [[Fool|fool]]; far too much of a [[Fool|fool]] to be an assassin.
 Royce has been the baronet's best friend for years; and his
 daughter undoubtedly adored him.  Besides, it's all too absurd.
 Who would kill such a cheery old chap as Armstrong?  Who could
 dip his hands in the gore of an after-dinner speaker?
 It would be like killing Father Christmas."
 
-"Yes, it was a cheery house," assented Father Brown.  "It was a cheery house
+"Yes, it was a cheery [[house]]," assented [[Father Brown]].  "It was a cheery [[house]]
 while he was alive.  Do you think it will be cheery now he is dead?"
 
 Merton started a little and regarded his companion with an enlivened eye.
@@ -123,13 +123,13 @@ Merton started a little and regarded his companion with an enlivened eye.
 
 "Yes," continued the priest stolidly, "he was cheerful.
 But did he communicate his cheerfulness?  Frankly, was anyone
-else in the house cheerful but he?"
+else in the [[house]] cheerful but he?"
 
-A window in Merton's mind let in that strange light of surprise
-in which we see for the first time things we have known all along.
+A [[Window|window]] in Merton's mind let in that strange light of surprise
+in which we see for the first [[Time|time]] things we have known all along.
 He had often been to the Armstrongs', on little police jobs
 of the philanthropist; and, now he came to think of it, it was in
-itself a depressing house.  The rooms were very high and very cold;
+itself a depressing [[house]].  The rooms were very high and very cold;
 the decoration mean and provincial; the draughty corridors were lit
 by electricity that was bleaker than moonlight.  And though the old
 man's scarlet face and silver beard had blazed like a bonfire in each
@@ -140,11 +140,11 @@ or lamps, he would say, but carried his own warmth with him.
 But when Merton recalled the other inmates, he was compelled
 to confess that they also were as shadows of their lord.
 The moody man-servant, with his monstrous black gloves, was almost
-a nightmare; Royce, the secretary, was solid enough, a big bull of a man,
+a [[nightmare]]; Royce, the secretary, was solid enough, a big bull of a man,
 in tweeds, with a short beard; but the straw-coloured beard was
 startlingly salted with grey like the tweeds, and the broad forehead
 was barred with premature wrinkles.  He was good-natured enough also,
-but it was a sad sort of good-nature, almost a heart-broken sort--
+but it was a sad sort of good-[[Nature|nature]], almost a heart-broken sort--
 he had the general air of being some sort of failure in life.
 As for Armstrong's daughter, it was almost incredible that she was
 his daughter; she was so pallid in colour and sensitive in outline.
@@ -152,7 +152,7 @@ She was graceful, but there was a quiver in the very shape of her
 that was like the lines of an aspen.  Merton had sometimes wondered
 if she had learnt to quail at the crash of the passing trains.
 
-"You see," said Father Brown, blinking modestly, "I'm not sure that
+"You see," said [[Father Brown]], blinking modestly, "I'm not sure that
 the Armstrong cheerfulness is so very cheerful--for other people.
 You say that nobody could kill such a happy old man, but I'm not sure;
 ne nos inducas in tentationem.  If ever I murdered somebody,"
@@ -160,19 +160,19 @@ he added quite simply, "I dare say it might be an Optimist."
 
 "Why?" cried Merton amused.  "Do you think people dislike cheerfulness?"
 
-"People like frequent laughter," answered Father Brown, "but I
+"People like frequent laughter," answered [[Father Brown]], "but I
 don't think they like a permanent smile.  Cheerfulness without
-humour is a very trying thing."
+[[Humour|humour]] is a very trying thing."
 
-They walked some way in silence along the windy grassy bank by the rail,
-and just as they came under the far-flung shadow of the tall
-Armstrong house, Father Brown said suddenly, like a man throwing
+They walked some way in [[Silence|silence]] along the windy grassy bank by the rail,
+and just as they came under the far-flung [[Shadow|shadow]] of the tall
+Armstrong [[house]], [[Father Brown]] said suddenly, like a man throwing
 away a troublesome thought rather than offering it seriously:
 "Of course, drink is neither good nor bad in itself.
 But I can't help sometimes feeling that men like Armstrong want
 an occasional glass of wine to sadden them."
 
-Merton's official superior, a grizzled and capable detective
+Merton's official superior, a grizzled and capable [[Detective|detective]]
 named Gilder, was standing on the green bank waiting for the coroner,
 talking to Patrick Royce, whose big shoulders and bristly beard and hair
 towered above him.  This was the more noticeable because Royce walked
@@ -182,14 +182,14 @@ like a buffalo drawing a go-cart.
 
 He raised his head with unusual pleasure at the sight of the priest,
 and took him a few paces apart.  Meanwhile Merton was addressing the older
-detective respectfully indeed, but not without a certain boyish impatience.
+[[Detective|detective]] respectfully indeed, but not without a certain boyish impatience.
 
-"Well, Mr. Gilder, have you got much farther with the mystery?"
+"[[Well]], Mr. Gilder, have you got much farther with the mystery?"
 
 "There is no mystery," replied Gilder, as he looked under dreamy
 eyelids at the rooks.
 
-"Well, there is for me, at any rate," said Merton, smiling.
+"[[Well]], there is for me, at any rate," said Merton, smiling.
 
 "It is simple enough, my boy," observed the senior investigator,
 stroking his grey, pointed beard.  "Three minutes after you'd
@@ -199,7 +199,7 @@ stopped the train?"
 
 "I should know him anywhere.  Somehow he rather gave me the creeps."
 
-"Well," drawled Gilder, "when the train had gone on again,
+"[[Well]]," drawled Gilder, "when the train had gone on again,
 that man had gone too.  Rather a cool criminal, don't you think,
 to escape by the very train that went off for the police?"
 
@@ -221,32 +221,32 @@ with an odd little giggle.
 Gilder looked round at this wild remark, and rather sternly asked
 Brown what he meant.
 
-"Silly way of putting it, I know," said Father Brown apologetically.
+"Silly way of putting it, I know," said [[Father Brown]] apologetically.
 "Sounds like a fairy tale.  But poor Armstrong was killed with a giant's club,
 a great green club, too big to be seen, and which we call the earth.
 He was broken against this green bank we are standing on."
 
-"How do you mean?" asked the detective quickly.
+"How do you mean?" asked the [[Detective|detective]] quickly.
 
-Father Brown turned his moon face up to the narrow facade
-of the house and blinked hopelessly up.  Following his eyes,
+[[Father Brown]] turned his [[Moon|moon]] face up to the narrow facade
+of the [[house]] and blinked hopelessly up.  Following his eyes,
 they saw that right at the top of this otherwise blind back
-quarter of the building, an attic window stood open.
+quarter of the building, an attic [[Window|window]] stood open.
 
-"Don't you see," he explained, pointing a little awkwardly like a child,
+"Don't you see," he explained, pointing a little awkwardly like a [[Child|child]],
 "he was thrown down from there?"
 
-Gilder frowningly scrutinised the window, and then said:
-"Well, it is certainly possible.  But I don't see why you are
+Gilder frowningly scrutinised the [[Window|window]], and then said:
+"[[Well]], it is certainly possible.  But I don't see why you are
 so sure about it."
 
 Brown opened his grey eyes wide.  "Why," he said, "there's a bit
 of rope round the dead man's leg.  Don't you see that other bit
-of rope up there caught at the corner of the window?"
+of rope up there caught at the corner of the [[Window|window]]?"
 
 At that height the thing looked like the faintest particle
-of dust or hair, but the shrewd old investigator was satisfied.
-"You're quite right, sir," he said to Father Brown; "that is
+of [[Dust|dust]] or hair, but the shrewd old investigator was satisfied.
+"You're quite right, sir," he said to [[Father Brown]]; "that is
 certainly one to you."
 
 Almost as he spoke a special train with one carriage took the curve
@@ -267,8 +267,8 @@ The man looked him in the face with a rather curious expression and said:
 When he spoke everyone instantly understood how this voice had stopped
 a train.  He was a dull-looking man with flat black hair, a colourless face,
 and a faint suggestion of the East in the level slits in his eyes and mouth.
-His blood and name, indeed, had remained dubious, ever since Sir Aaron had
-"rescued" him from a waitership in a London restaurant, and (as some said)
+His [[Blood|blood]] and name, indeed, had remained dubious, ever since Sir [[Aaron]] had
+"rescued" him from a waitership in a [[London]] restaurant, and (as some said)
 from more infamous things.  But his voice was as vivid as his face was dead.
 Whether through exactitude in a foreign language, or in deference to
 his master (who had been somewhat deaf), Magnus's tones had a peculiarly
@@ -284,7 +284,7 @@ And he made a momentary movement with his two dark-gloved hands.
 with wrath, "aren't you putting the bracelets on this fellow;
 he looks pretty dangerous."
 
-"Well, sir," said the sergeant, with the same odd look of wonder,
+"[[Well]], sir," said the sergeant, with the same odd look of [[Wonder|wonder]],
 "I don't know that we can."
 
 "What do you mean?" asked the other sharply.  "Haven't you arrested him?"
@@ -301,18 +301,18 @@ Gilder looked at the man-servant in utter amazement.
 
 "To keep it safe from the criminal, of course," replied that person placidly.
 
-"Surely," said Gilder, "Sir Aaron's money might have been safely left
-with Sir Aaron's family."
+"Surely," said Gilder, "Sir [[Aaron]]'s money might have been safely left
+with Sir [[Aaron]]'s family."
 
 The tail of his sentence was drowned in the roar of the train as it
 went rocking and clanking; but through all the hell of noises to
-which that unhappy house was periodically subject, they could hear
+which that unhappy [[house]] was periodically subject, they could hear
 the syllables of Magnus's answer, in all their bell-like distinctness:
-"I have no reason to feel confidence in Sir Aaron's family."
+"I have no reason to feel confidence in Sir [[Aaron]]'s family."
 
 All the motionless men had the ghostly sensation of the presence of some
 new person; and Merton was scarcely surprised when he looked up and saw
-the pale face of Armstrong's daughter over Father Brown's shoulder.
+the pale face of Armstrong's daughter over [[Father Brown]]'s shoulder.
 She was still young and beautiful in a silvery style, but her hair
 was of so dusty and hueless a brown that in some shadows it seemed
 to have turned totally grey.
@@ -320,15 +320,15 @@ to have turned totally grey.
 "Be careful what you say," said Royce gruffly, "you'll
 frighten Miss Armstrong."
 
-"I hope so," said the man with the clear voice.
+"I [[Hope|hope]] so," said the man with the clear voice.
 
 As the woman winced and everyone else wondered, he went on:
 "I am somewhat used to Miss Armstrong's tremors.
 I have seen her trembling off and on for years.  And some said
-she was shaking with cold and some she was shaking with fear,
+she was shaking with cold and some she was shaking with [[Fear|fear]],
 but I know she was shaking with hate and wicked anger--
 fiends that have had their feast this morning.  She would have
-been away by now with her lover and all the money but for me.
+been away by now with her [[Lover|lover]] and all the money but for me.
 Ever since my poor old master prevented her from marrying
 that tipsy blackguard--"
 
@@ -338,9 +338,9 @@ your mere opinions--"
 
 "Oh!  I'll give you practical evidence," cut in Magnus, in his
 hacking accent.  "You'll have to subpoena me, Mr. Inspector,
-and I shall have to tell the truth.  And the truth is this:
+and I shall have to tell the [[Truth|truth]].  And the [[Truth|truth]] is this:
 An instant after the old man was pitched bleeding out of
-the window, I ran into the attic, and found his daughter
+the [[Window|window]], I ran into the attic, and found his daughter
 swooning on the floor with a red dagger still in her hand.
 Allow me to hand that also to the proper authorities."
 He took from his tail-pocket a long horn-hilted knife with
@@ -352,9 +352,9 @@ Merton felt an almost bodily sickness at the sight of him;
 and he muttered to Gilder:  "Surely you would take Miss Armstrong's
 word against his?"
 
-Father Brown suddenly lifted a face so absurdly fresh that it
+[[Father Brown]] suddenly lifted a face so absurdly fresh that it
 looked somehow as if he had just washed it.  "Yes," he said,
-radiating innocence, "but is Miss Armstrong's word against his?"
+radiating [[innocence]], "but is Miss Armstrong's word against his?"
 
 The girl uttered a startled, singular little cry; everyone looked at her.
 Her figure was rigid as if paralysed; only her face within its
@@ -364,11 +364,11 @@ She stood like one of a sudden lassooed and throttled.
 "This man," said Mr. Gilder gravely, "actually says that you were found
 grasping a knife, insensible, after the murder."
 
-"He says the truth," answered Alice.
+"He says the [[Truth|truth]]," answered Alice.
 
 The next fact of which they were conscious was that Patrick Royce strode
 with his great stooping head into their ring and uttered the singular words:
-"Well, if I've got to go, I'll have a bit of pleasure first."
+"[[Well]], if I've got to go, I'll have a bit of pleasure first."
 
 His huge shoulder heaved and he sent an iron fist smash into Magnus's
 bland Mongolian visage, laying him on the lawn as flat as a starfish.
@@ -384,7 +384,7 @@ were turning into a brainless harlequinade.
 
 Gilder threw an alarmed glance at the man knocked down; but since
 that outraged person was already sitting up and wiping a little
-blood off a substantially uninjured face, he only said shortly:
+[[Blood|blood]] off a substantially uninjured face, he only said shortly:
 "What do you mean?"
 
 "It is quite true, as this fellow says," explained Royce,
@@ -415,23 +415,23 @@ Two vases were smashed on the mantelpiece and one on the carpet.
 battered man somehow had the pathos of the first sin of a baby.
 
 "You all know about me," he continued huskily; "everybody knows
-how my story began, and it may as well end like that too.
+how my story began, and it may as [[Well|well]] end like that too.
 I was called a clever man once, and might have been a happy one;
-Armstrong saved the remains of a brain and body from the taverns,
+Armstrong saved the remains of a brain and [[Body|body]] from the taverns,
 and was always kind to me in his own way, poor fellow!
 Only he wouldn't let me marry Alice here; and it will always
-be said that he was right enough.  Well, you can form your
+be said that he was right enough.  [[Well]], you can form your
 own conclusions, and you won't want me to go into details.
 That is my whisky bottle half emptied in the corner; that is
 my revolver quite emptied on the carpet.  It was the rope from
-my box that was found on the corpse, and it was from my window
+my box that was found on the corpse, and it was from my [[Window|window]]
 the corpse was thrown.  You need not set detectives to grub
-up my tragedy; it is a common enough weed in this world.
+up my [[Tragedy|tragedy]]; it is a common enough weed in this world.
 I give myself to the gallows; and, by God, that is enough!"
 
 At a sufficiently delicate sign, the police gathered round
 the large man to lead him away; but their unobtrusiveness was
-somewhat staggered by the remarkable appearance of Father Brown,
+somewhat staggered by the remarkable appearance of [[Father Brown]],
 who was on his hands and knees on the carpet in the doorway,
 as if engaged in some kind of undignified prayers.
 Being a person utterly insensible to the social figure he cut,
@@ -442,18 +442,18 @@ with a very comic human head.
 "I say," he said good-naturedly, "this really won't do at all,
 you know.  At the beginning you said we'd found no weapon.
 But now we're finding too many; there's the knife to stab,
-and the rope to strangle, and the pistol to shoot; and after all
-he broke his neck by falling out of a window!  It won't do.
+and the rope to strangle, and the [[Pistol|pistol]] to shoot; and after all
+he broke his neck by falling out of a [[Window|window]]!  It won't do.
 It's not economical."  And he shook his head at the ground
-as a horse does grazing.
+as a [[Horse|horse]] does grazing.
 
 Inspector Gilder had opened his mouth with serious intentions,
-but before he could speak the grotesque figure on the floor
+but before he could speak the [[Grotesque|grotesque]] figure on the floor
 had gone on quite volubly.
 
 "And now three quite impossible things.  First, these holes
 in the carpet, where the six bullets have gone in.
-Why on earth should anybody fire at the carpet?  A drunken man
+Why on earth should anybody [[Fire|fire]] at the carpet?  A drunken man
 lets fly at his enemy's head, the thing that's grinning at him.
 He doesn't pick a quarrel with his feet, or lay siege to his slippers.
 And then there's the rope"--and having done with the carpet
@@ -467,12 +467,12 @@ fought for the whisky bottle, and then having won, rolled it
 away in a corner, spilling one half and leaving the other.
 That is the very last thing a dipsomaniac would do."
 
-He scrambled awkwardly to his feet, and said to the self-accused
+He scrambled awkwardly to his feet, and said to the [[Self|self]]-accused
 murderer in tones of limpid penitence:  "I'm awfully sorry,
 my dear sir, but your tale is really rubbish."
 
 "Sir," said Alice Armstrong in a low tone to the priest,
-"can I speak to you alone for a moment?"
+"can I speak to you [[Alone|alone]] for a moment?"
 
 This request forced the communicative cleric out of the gangway,
 and before he could speak in the next room, the girl was talking
@@ -481,7 +481,7 @@ with strange incisiveness.
 "You are a clever man," she said, "and you are trying to
 save Patrick, I know.  But it's no use.  The core of all this
 is black, and the more things you find out the more there
-will be against the miserable man I love."
+will be against the miserable man I [[Love|love]]."
 
 "Why?" asked Brown, looking at her steadily.
 
@@ -496,21 +496,21 @@ heard on earth, roaring `Hell, hell, hell,' again and again,
 and then the two doors shook with the first explosion
 of the revolver.  Thrice again the thing banged before I
 got the two doors open and found the room full of smoke;
-but the pistol was smoking in my poor, mad Patrick's hand;
-and I saw him fire the last murderous volley with my own eyes.
+but the [[Pistol|pistol]] was smoking in my poor, mad Patrick's hand;
+and I saw him [[Fire|fire]] the last murderous volley with my own eyes.
 Then he leapt on my father, who was clinging in terror
-to the window-sill, and, grappling, tried to strangle him
+to the [[Window|window]]-sill, and, grappling, tried to strangle him
 with the rope, which he threw over his head, but which slipped
 over his struggling shoulders to his feet.  Then it tightened
 round one leg and Patrick dragged him along like a maniac.
 I snatched a knife from the mat, and, rushing between them,
 managed to cut the rope before I fainted."
 
-"I see," said Father Brown, with the same wooden civility.  "Thank you."
+"I see," said [[Father Brown]], with the same wooden civility.  "Thank you."
 
 As the girl collapsed under her memories, the priest passed
 stiffly into the next room, where he found Gilder and Merton
-alone with Patrick Royce, who sat in a chair, handcuffed.
+[[Alone|alone]] with Patrick Royce, who sat in a chair, handcuffed.
 There he said to the Inspector submissively:
 
 "Might I say a word to the prisoner in your presence;
@@ -520,9 +520,9 @@ and might he take off those funny cuffs for a minute?"
 "Why do you want them taken off?"
 
 "Why, I thought," replied the priest humbly, "that perhaps I
-might have the very great honour of shaking hands with him."
+might have the very great [[Honour|honour]] of shaking hands with him."
 
-Both detectives stared, and Father Brown added:  "Won't you tell them
+Both detectives stared, and [[Father Brown]] added:  "Won't you tell them
 about it, sir?"
 
 The man on the chair shook his tousled head, and the
@@ -532,22 +532,22 @@ priest turned impatiently.
 than public reputations.  I am going to save the living,
 and let the dead bury their dead."
 
-He went to the fatal window, and blinked out of it as he went on talking.
+He went to the fatal [[Window|window]], and blinked out of it as he went on talking.
 
-"I told you that in this case there were too many weapons and only one death.
-I tell you now that they were not weapons, and were not used to cause death.
-All those grisly tools, the noose, the bloody knife, the exploding pistol,
-were instruments of a curious mercy.  They were not used to kill Sir Aaron,
+"I told you that in this case there were too many weapons and only one [[Death|death]].
+I tell you now that they were not weapons, and were not used to cause [[Death|death]].
+All those grisly tools, the noose, the bloody knife, the exploding [[Pistol|pistol]],
+were instruments of a curious [[Mercy|mercy]].  They were not used to kill Sir [[Aaron]],
 but to save him."
 
 "To save him!" repeated Gilder.  "And from what?"
 
-"From himself," said Father Brown.  "He was a suicidal maniac."
+"From himself," said [[Father Brown]].  "He was a suicidal maniac."
 
 "What?" cried Merton in an incredulous tone.
 "And the Religion of Cheerfulness--"
 
-"It is a cruel religion," said the priest, looking out of the window.
+"It is a cruel religion," said the priest, looking out of the [[Window|window]].
 "Why couldn't they let him weep a little, like his fathers before him?
 His plans stiffened, his views grew cold; behind that merry mask
 was the empty mind of the atheist.  At last, to keep up his hilarious
@@ -557,24 +557,24 @@ that he pictures and expects that psychological inferno from which
 he has warned others.  It leapt upon poor Armstrong prematurely,
 and by this morning he was in such a case that he sat here and cried
 he was in hell, in so crazy a voice that his daughter did not know it.
-He was mad for death, and with the monkey tricks of the mad he had
-scattered round him death in many shapes--a running noose and his friend's
+He was mad for [[Death|death]], and with the monkey tricks of the mad he had
+scattered round him [[Death|death]] in many shapes--a running noose and his friend's
 revolver and a knife.  Royce entered accidentally and acted in a flash.
 He flung the knife on the mat behind him, snatched up the revolver, and having
-no time to unload it, emptied it shot after shot all over the floor.
-The suicide saw a fourth shape of death, and made a dash for the window.
+no [[Time|time]] to unload it, emptied it shot after shot all over the floor.
+The [[suicide]] saw a fourth shape of [[Death|death]], and made a dash for the [[Window|window]].
 The rescuer did the only thing he could--ran after him with the rope and
 tried to tie him hand and foot.  Then it was that the unlucky girl ran in,
 and misunderstanding the struggle, strove to slash her father free.
 At first she only slashed poor Royce's knuckles, from which has
-come all the little blood in this affair.  But, of course,
-you noticed that he left blood, but no wound, on that servant's face?
+come all the little [[Blood|blood]] in this affair.  But, of course,
+you noticed that he left [[Blood|blood]], but no wound, on that servant's face?
 Only before the poor woman swooned, she did hack her father loose,
-so that he went crashing through that window into eternity."
+so that he went crashing through that [[Window|window]] into [[Eternity|eternity]]."
 
 There was a long stillness slowly broken by the metallic noises
 of Gilder unlocking the handcuffs of Patrick Royce, to whom he said:
-"I think I should have told the truth, sir.  You and the young lady
+"I think I should have told the [[Truth|truth]], sir.  You and the young lady
 are worth more than Armstrong's obituary notices."
 
 "Confound Armstrong's notices," cried Royce roughly.
@@ -582,13 +582,13 @@ are worth more than Armstrong's obituary notices."
 
 "Mustn't know what?" asked Merton.
 
-"Why, that she killed her father, you fool!" roared the other.
+"Why, that she killed her father, you [[Fool|fool]]!" roared the other.
 "He'd have been alive now but for her.  It might craze her
 to know that."
 
-"No, I don't think it would," remarked Father Brown, as he picked up his hat.
+"No, I don't think it would," remarked [[Father Brown]], as he picked up his hat.
 "I rather think I should tell her.  Even the most murderous blunders don't
-poison life like sins; anyhow, I think you may both be the happier now.
+[[Poison|poison]] life like sins; anyhow, I think you may both be the happier now.
 I've got to go back to the Deaf School."
 
 As he went out on to the gusty grass an acquaintance from Highgate
@@ -596,5 +596,5 @@ stopped him and said:
 
 "The Coroner has arrived.  The inquiry is just going to begin."
 
-"I've got to get back to the Deaf School," said Father Brown.  "I'm sorry
+"I've got to get back to the Deaf School," said [[Father Brown]].  "I'm sorry
 I can't stop for the inquiry."

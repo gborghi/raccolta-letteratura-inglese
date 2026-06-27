@@ -21,9 +21,9 @@ to aim their questions at!’
 ‘Now, don’t,’ remonstrated Mr Meagles, ‘don’t! Don’t take offence,
 because it’s the plainest question in the world, and might be asked
 of any one. The documents I refer to were not his own, were wrongfully
-obtained, might at some time or other be troublesome to an innocent
+obtained, might at some [[Time|time]] or other be troublesome to an [[Innocent|innocent]]
 person to have in keeping, and are sought by the people to whom they
-really belong. He passed through Calais going to London, and there were
+really belong. He passed through Calais going to [[London]], and there were
 reasons why he should not take them with him then, why he should wish
 to be able to put his hand upon them readily, and why he should distrust
 leaving them with people of his own sort. Did he leave them here? I
@@ -40,36 +40,36 @@ people. Did he leave them here? Did he leave anything here?’
 question. He did not leave them here, and I know nothing about them.’
 
 ‘There!’ said Mr Meagles rising. ‘I am sorry for it; that’s over; and I
-hope there is not much harm done.--Tattycoram well, Miss Wade?’
+[[Hope|hope]] there is not much harm done.--Tattycoram [[Well|well]], Miss Wade?’
 
-‘Harriet well? O yes!’
+‘Harriet [[Well|well]]? O yes!’
 
 ‘I have put my foot in it again,’ said Mr Meagles, thus corrected. ‘I
 can’t keep my foot out of it here, it seems. Perhaps, if I had thought
 twice about it, I might never have given her the jingling name. But,
 when one means to be good-natured and sportive with young people, one
-doesn’t think twice. Her old friend leaves a kind word for her, Miss
+doesn’t think twice. Her old friend [[Leaves|leaves]] a kind word for her, Miss
 Wade, if you should think proper to deliver it.’
 
 She said nothing as to that; and Mr Meagles, taking his honest face out
 of the dull room, where it shone like a sun, took it to the Hotel where
 he had left Mrs Meagles, and where he made the Report: ‘Beaten, Mother;
-no effects!’ He took it next to the London Steam Packet, which sailed in
-the night; and next to the Marshalsea.
+no effects!’ He took it next to the [[London]] Steam Packet, which sailed in
+the [[Night|night]]; and next to the Marshalsea.
 
 The faithful John was on duty when Father and Mother Meagles presented
 themselves at the wicket towards nightfall. Miss Dorrit was not there
 then, he said; but she had been there in the morning, and invariably
-came in the evening. Mr Clennam was slowly mending; and Maggy and Mrs
+came in the evening. Mr Clennam was slowly [[mending]]; and Maggy and Mrs
 Plornish and Mr Baptist took care of him by turns. Miss Dorrit was sure
 to come back that evening before the bell rang. There was the room the
 Marshal had lent her, up-stairs, in which they could wait for her, if
-they pleased. Mistrustful that it might be hazardous to Arthur to see
+they pleased. Mistrustful that it might be hazardous to [[arthur|Arthur]] to see
 him without preparation, Mr Meagles accepted the offer; and they were
-left shut up in the room, looking down through its barred window into
+left shut up in the room, looking down through its barred [[Window|window]] into
 the jail.
 
-The cramped area of the prison had such an effect on Mrs Meagles that
+The cramped area of the [[Prison|prison]] had such an effect on Mrs Meagles that
 she began to weep, and such an effect on Mr Meagles that he began to
 gasp for air. He was walking up and down the room, panting, and making
 himself worse by laboriously fanning himself with her handkerchief, when
@@ -79,11 +79,11 @@ he turned towards the opening door.
 Mother, look! Tattycoram!’
 
 No other. And in Tattycoram’s arms was an iron box some two feet square.
-Such a box had Affery Flintwinch seen, in the first of her dreams, going
-out of the old house in the dead of the night under Double’s arm. This,
+Such a box had Affery Flintwinch seen, in the first of her [[Dreams|dreams]], going
+out of the old [[house]] in the dead of the [[Night|night]] under [[Double]]’s arm. This,
 Tattycoram put on the ground at her old master’s feet: this, Tattycoram
 fell on her knees by, and beat her hands upon, crying half in exultation
-and half in despair, half in laughter and half in tears, ‘Pardon, dear
+and half in [[Despair|despair]], half in laughter and half in [[Tears|tears]], ‘Pardon, dear
 Master; take me back, dear Mistress; here it is!’
 
 ‘Tatty!’ exclaimed Mr Meagles.
@@ -105,7 +105,7 @@ burnt it. But, here it is!’
 The glow and rapture that the girl was in, with her ‘Here it is!’
 
 ‘She never wanted it to be left, I must say that for her; but he left
-it, and I knew well that after what you said, and after her denying
+it, and I knew [[Well|well]] that after what you said, and after her denying
 it, she never would have given it up. But here it is! Dear Master, dear
 Mistress, take me back again, and give me back the dear old name! Let
 this intercede for me. Here it is!’
@@ -115,8 +115,8 @@ they took the headstrong foundling-girl into their protection again.
 
 ‘Oh! I have been so wretched,’ cried Tattycoram, weeping much more,
 ‘always so unhappy, and so repentant! I was afraid of her from the first
-time I saw her. I knew she had got a power over me through understanding
-what was bad in me so well. It was a madness in me, and she could raise
+[[Time|time]] I saw her. I knew she had got a power over me through understanding
+what was bad in me so [[Well|well]]. It was a [[Madness|madness]] in me, and she could raise
 it whenever she liked. I used to think, when I got into that state, that
 people were all against me because of my first beginning; and the kinder
 they were to me, the worse fault I found in them. I made it out that
@@ -127,13 +127,13 @@ and I gone away from her! Such a brute and a wretch as she must think
 me! But you’ll say a word to her for me, and ask her to be as forgiving
 as you two are? For I am not so bad as I was,’ pleaded Tattycoram; ‘I am
 bad enough, but not so bad as I was, indeed. I have had Miss Wade
-before me all this time, as if it was my own self grown ripe--turning
+before me all this [[Time|time]], as if it was my own [[Self|self]] grown ripe--turning
 everything the wrong way, and twisting all good into evil. I have had
-her before me all this time, finding no pleasure in anything but keeping
+her before me all this [[Time|time]], finding no pleasure in anything but keeping
 me as miserable, suspicious, and tormenting as herself. Not that she had
 much to do, to do that,’ cried Tattycoram, in a closing great burst of
 distress, ‘for I was as bad as bad could be. I only mean to say, that,
-after what I have gone through, I hope I shall never be quite so bad
+after what I have gone through, I [[Hope|hope]] I shall never be quite so bad
 again, and that I shall get better by very slow degrees. I’ll try very
 hard. I won’t stop at five-and-twenty, sir, I’ll count five-and-twenty
 hundred, five-and-twenty thousand!’

@@ -20,19 +20,19 @@ tags:
 state, I assure you, Mrs. Bounderby, if we all fell out of our adopted
 ranks and were reviewed together.’
 
-Mr. Bounderby, who had been in danger of bursting in silence, interposed
+Mr. Bounderby, who had been in danger of bursting in [[Silence|silence]], interposed
 here with a project for postponing the family dinner till half-past six,
-and taking Mr. James Harthouse in the meantime on a round of visits to
+and taking Mr. [[James Harthouse]] in the meantime on a round of visits to
 the voting and interesting notabilities of Coketown and its vicinity.
-The round of visits was made; and Mr. James Harthouse, with a discreet
+The round of visits was made; and Mr. [[James Harthouse]], with a discreet
 use of his blue coaching, came off triumphantly, though with a
 considerable accession of boredom.
 
 In the evening, he found the dinner-table laid for four, but they sat
 down only three.  It was an appropriate occasion for Mr. Bounderby to
 discuss the flavour of the hap’orth of stewed eels he had purchased in
-the streets at eight years old; and also of the inferior water, specially
-used for laying the dust, with which he had washed down that repast.  He
+the streets at eight years old; and also of the inferior [[Water|water]], specially
+used for laying the [[Dust|dust]], with which he had washed down that repast.  He
 likewise entertained his guest over the soup and fish, with the
 calculation that he (Bounderby) had eaten in his youth at least three
 horses under the guise of polonies and saveloys.  These recitals, Jem, in
@@ -49,7 +49,7 @@ Yes!  By Jupiter, there was something, and here it was, in an unexpected
 shape.  Tom appeared.  She changed as the door opened, and broke into a
 beaming smile.
 
-A beautiful smile.  Mr. James Harthouse might not have thought so much of
+A beautiful smile.  Mr. [[James Harthouse]] might not have thought so much of
 it, but that he had wondered so long at her impassive face.  She put out
 her hand—a pretty little soft hand; and her fingers closed upon her
 brother’s, as if she would have carried them to her lips.
@@ -68,23 +68,23 @@ right, and hadn’t to dress afterwards.’
 
 ‘Never mind that now,’ said Bounderby.
 
-‘Well, then,’ grumbled Tom.  ‘Don’t begin with me.’
+‘[[Well]], then,’ grumbled Tom.  ‘Don’t begin with me.’
 
 ‘Mrs. Bounderby,’ said Harthouse, perfectly hearing this under-strain as
 it went on; ‘your brother’s face is quite familiar to me.  Can I have
 seen him abroad?  Or at some public school, perhaps?’
 
 ‘No,’ she resumed, quite interested, ‘he has never been abroad yet, and
-was educated here, at home.  Tom, love, I am telling Mr. Harthouse that
+was educated here, at [[Home|home]].  Tom, [[Love|love]], I am telling Mr. Harthouse that
 he never saw you abroad.’
 
 ‘No such luck, sir,’ said Tom.
 
 There was little enough in him to brighten her face, for he was a sullen
 young fellow, and ungracious in his manner even to her.  So much the
-greater must have been the solitude of her heart, and her need of some
+greater must have been the [[Solitude|solitude]] of her heart, and her need of some
 one on whom to bestow it.  ‘So much the more is this whelp the only
-creature she has ever cared for,’ thought Mr. James Harthouse, turning it
+creature she has ever cared for,’ thought Mr. [[James Harthouse]], turning it
 over and over.  ‘So much the more.  So much the more.’
 
 Both in his sister’s presence, and after she had left the room, the whelp
@@ -92,9 +92,9 @@ took no pains to hide his contempt for Mr. Bounderby, whenever he could
 indulge it without the observation of that independent man, by making wry
 faces, or shutting one eye.  Without responding to these telegraphic
 communications, Mr. Harthouse encouraged him much in the course of the
-evening, and showed an unusual liking for him.  At last, when he rose to
+evening, and showed an unusual liking for him.  At last, when he [[Rose|rose]] to
 return to his hotel, and was a little doubtful whether he knew the way by
-night, the whelp immediately proffered his services as guide, and turned
+[[Night|night]], the whelp immediately proffered his services as guide, and turned
 out with him to escort him thither.
 
             [Picture: Mr. Harthouse dines at the Bounderby’s]

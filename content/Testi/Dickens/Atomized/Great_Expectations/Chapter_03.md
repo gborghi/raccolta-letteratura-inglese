@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 3"
+title: "[[Great Expectations]] — Chapter 3"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -18,16 +18,16 @@ Chapter III.
 
 
 It was a rimy morning, and very damp. I had seen the damp lying on the
-outside of my little window, as if some goblin had been crying there
-all night, and using the window for a pocket-handkerchief. Now, I saw
+outside of my little [[Window|window]], as if some goblin had been crying there
+all [[Night|night]], and using the [[Window|window]] for a pocket-handkerchief. Now, I saw
 the damp lying on the bare hedges and spare grass, like a coarser sort
 of spiders’ webs; hanging itself from twig to twig and blade to blade.
 On every rail and gate, wet lay clammy, and the marsh mist was so
 thick, that the wooden finger on the post directing people to our
 village—a direction which they never accepted, for they never came
 there—was invisible to me until I was quite close under it. Then, as I
-looked up at it, while it dripped, it seemed to my oppressed conscience
-like a phantom devoting me to the Hulks.
+looked up at it, while it dripped, it seemed to my oppressed [[Conscience|conscience]]
+like a [[Phantom|phantom]] devoting me to the Hulks.
 
 The mist was heavier yet when I got out upon the marshes, so that
 instead of my running at everything, everything seemed to run at me.
@@ -36,7 +36,7 @@ banks came bursting at me through the mist, as if they cried as plainly
 as could be, “A boy with somebody else’s pork pie! Stop him!” The
 cattle came upon me with like suddenness, staring out of their eyes,
 and steaming out of their nostrils, “Halloa, young thief!” One black
-ox, with a white cravat on,—who even had to my awakened conscience
+ox, with a white cravat on,—who even had to my awakened [[Conscience|conscience]]
 something of a clerical air,—fixed me so obstinately with his eyes, and
 moved his blunt head round in such an accusatory manner as I moved
 round, that I blubbered out to him, “I couldn’t help it, sir! It wasn’t
@@ -44,20 +44,20 @@ for myself I took it!” Upon which he put down his head, blew a cloud of
 smoke out of his nose, and vanished with a kick-up of his hind-legs and
 a flourish of his tail.
 
-All this time, I was getting on towards the river; but however fast I
+All this [[Time|time]], I was getting on towards the [[River|river]]; but however fast I
 went, I couldn’t warm my feet, to which the damp cold seemed riveted,
 as the iron was riveted to the leg of the man I was running to meet. I
 knew my way to the Battery, pretty straight, for I had been down there
-on a Sunday with Joe, and Joe, sitting on an old gun, had told me that
+on a [[Sunday]] with Joe, and Joe, sitting on an old gun, had told me that
 when I was ’prentice to him, regularly bound, we would have such Larks
 there! However, in the confusion of the mist, I found myself at last
 too far to the right, and consequently had to try back along the
-river-side, on the bank of loose stones above the mud and the stakes
+[[River|river]]-side, on the bank of loose stones above the mud and the stakes
 that staked the tide out. Making my way along here with all despatch, I
 had just crossed a ditch which I knew to be very near the Battery, and
 had just scrambled up the mound beyond the ditch, when I saw the man
 sitting before me. His back was towards me, and he had his arms folded,
-and was nodding forward, heavy with sleep.
+and was nodding forward, heavy with [[Sleep|sleep]].
 
 I thought he would be more glad if I came upon him with his breakfast,
 in that unexpected manner, so I went forward softly and touched him on
@@ -74,17 +74,17 @@ down, for it made him stumble,—and then he ran into the mist, stumbling
 twice as he went, and I lost him.
 
 “It’s the young man!” I thought, feeling my heart shoot as I identified
-him. I dare say I should have felt a pain in my liver, too, if I had
+him. I dare say I should have felt a [[Pain|pain]] in my liver, too, if I had
 known where it was.
 
 I was soon at the Battery after that, and there was the right
 man,—hugging himself and limping to and fro, as if he had never all
-night left off hugging and limping,—waiting for me. He was awfully
+[[Night|night]] left off hugging and limping,—waiting for me. He was awfully
 cold, to be sure. I half expected to see him drop down before my face
 and die of deadly cold. His eyes looked so awfully hungry too, that
 when I handed him the file and he laid it down on the grass, it
 occurred to me he would have tried to eat it, if he had not seen my
-bundle. He did not turn me upside down this time to get at what I had,
+bundle. He did not turn me upside down this [[Time|time]] to get at what I had,
 but left me right side upwards while I opened the bundle and emptied my
 pockets.
 
@@ -106,15 +106,15 @@ teeth, without biting it off.
 “It’s bad about here,” I told him. “You’ve been lying out on the
 meshes, and they’re dreadful aguish. Rheumatic too.”
 
-“I’ll eat my breakfast afore they’re the death of me,” said he. “I’d do
+“I’ll eat my breakfast afore they’re the [[Death|death]] of me,” said he. “I’d do
 that, if I was going to be strung up to that there gallows as there is
 over there, directly afterwards. I’ll beat the shivers so far, I’ll bet
 you.”
 
-He was gobbling mincemeat, meatbone, bread, cheese, and pork pie, all
+He was gobbling mincemeat, meatbone, bread, [[cheese]], and pork pie, all
 at once: staring distrustfully while he did so at the mist all round
 us, and often stopping—even stopping his jaws—to listen. Some real or
-fancied sound, some clink upon the river or breathing of beast upon the
+fancied sound, some clink upon the [[River|river]] or breathing of beast upon the
 marsh, now gave him a start, and he said, suddenly,—
 
 “You’re not a deceiving imp? You brought no one with you?”
@@ -125,12 +125,12 @@ marsh, now gave him a start, and he said, suddenly,—
 
 “No!”
 
-“Well,” said he, “I believe you. You’d be but a fierce young hound
-indeed, if at your time of life you could help to hunt a wretched
-warmint hunted as near death and dunghill as this poor wretched warmint
+“[[Well]],” said he, “I believe you. You’d be but a fierce young hound
+indeed, if at your [[Time|time]] of life you could help to hunt a wretched
+warmint hunted as near [[Death|death]] and dunghill as this poor wretched warmint
 is!”
 
-Something clicked in his throat as if he had works in him like a clock,
+Something clicked in his throat as if he had works in him like a [[Clock|clock]],
 and was going to strike. And he smeared his ragged rough sleeve over
 his eyes.
 
@@ -155,7 +155,7 @@ him, without making a chop with his jaws at the visitor. In all of
 which particulars he was very like the dog.
 
 “I am afraid you won’t leave any of it for him,” said I, timidly; after
-a silence during which I had hesitated as to the politeness of making
+a [[Silence|silence]] during which I had hesitated as to the politeness of making
 the remark. “There’s no more to be got where that came from.” It was
 the certainty of this fact that impelled me to offer the hint.
 
@@ -187,22 +187,22 @@ first idea about cutting my throat had revived.
 “Dressed like you, you know, only with a hat,” I explained, trembling;
 “and—and”—I was very anxious to put this delicately—“and with—the same
 reason for wanting to borrow a file. Didn’t you hear the cannon last
-night?”
+[[Night|night]]?”
 
 “Then there _was_ firing!” he said to himself.
 
-“I wonder you shouldn’t have been sure of that,” I returned, “for we
-heard it up at home, and that’s farther away, and we were shut in
+“I [[Wonder|wonder]] you shouldn’t have been sure of that,” I returned, “for we
+heard it up at [[Home|home]], and that’s farther away, and we were shut in
 besides.”
 
-“Why, see now!” said he. “When a man’s alone on these flats, with a
+“Why, see now!” said he. “When a man’s [[Alone|alone]] on these flats, with a
 light head and a light stomach, perishing of cold and want, he hears
-nothin’ all night, but guns firing, and voices calling. Hears? He sees
+nothin’ all [[Night|night]], but guns firing, and voices calling. Hears? He sees
 the soldiers, with their red coats lighted up by the torches carried
 afore, closing in round him. Hears his number called, hears himself
 challenged, hears the rattle of the muskets, hears the orders ‘Make
 ready! Present! Cover him steady, men!’ and is laid hands on—and
-there’s nothin’! Why, if I see one pursuing party last night—coming up
+there’s nothin’! Why, if I see one pursuing party last [[Night|night]]—coming up
 in order, Damn ’em, with their tramp, tramp—I see a hundred. And as to
 firing! Why, I see the mist shake with the cannon, arter it was broad
 day,—But this man”; he had said all the rest, as if he had forgotten my
@@ -228,7 +228,7 @@ his own leg, which had an old chafe upon it and was bloody, but which
 he handled as roughly as if it had no more feeling in it than the file.
 I was very much afraid of him again, now that he had worked himself
 into this fierce hurry, and I was likewise very much afraid of keeping
-away from home any longer. I told him I must go, but he took no notice,
+away from [[Home|home]] any longer. I told him I must go, but he took no notice,
 so I thought the best thing I could do was to slip off. The last I saw
 of him, his head was bent over his knee and he was working hard at his
 fetter, muttering impatient imprecations at it and at his leg. The last

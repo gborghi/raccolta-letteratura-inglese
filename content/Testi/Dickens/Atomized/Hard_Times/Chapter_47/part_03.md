@@ -28,7 +28,7 @@ kissing me again, he let me go.  When I had gone down-stairs, I turned
 back that I might be a little bit more company to him yet, and looked in
 at the door, and said, “Father dear, shall I take Merrylegs?”  Father
 shook his head and said, “No, Sissy, no; take nothing that’s known to be
-mine, my darling;” and I left him sitting by the fire.  Then the thought
+mine, my darling;” and I left him sitting by the [[Fire|fire]].  Then the thought
 must have come upon him, poor, poor father! of going away to try
 something for my sake; for when I came back, he was gone.’
 
@@ -55,7 +55,7 @@ Sissy with compassion to the door.  Mr. Gradgrind usually improved these
 occasions by remarking, when she was gone, that if Jupe had been properly
 trained from an early age she would have remonstrated to herself on sound
 principles the baselessness of these fantastic hopes.  Yet it did seem
-(though not to him, for he saw nothing of it) as if fantastic hope could
+(though not to him, for he saw nothing of it) as if fantastic [[Hope|hope]] could
 take as strong a hold as Fact.
 
 This observation must be limited exclusively to his daughter.  As to Tom,
@@ -66,7 +66,7 @@ like a feminine dormouse, and say:
 
 ‘Good gracious bless me, how my poor head is vexed and worried by that
 girl Jupe’s so perseveringly asking, over and over again, about her
-tiresome letters!  Upon my word and honour I seem to be fated, and
+tiresome letters!  Upon my word and [[Honour|honour]] I seem to be fated, and
 destined, and ordained, to live in the midst of things that I am never to
 hear the last of.  It really is a most extraordinary circumstance that it
 appears as if I never was to hear the last of anything!’

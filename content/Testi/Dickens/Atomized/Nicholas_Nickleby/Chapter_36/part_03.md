@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 36 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 36 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -18,7 +18,7 @@ tags:
 
 ‘Oh! from her, is it?’ said Mr. Kenwigs. ‘Oh dear, yes. Ah! Mrs. Kenwigs
 will be glad to hear from her. Henrietta Petowker, eh? How odd things
-come about, now! That you should have met her in the country! Well!’
+come about, now! That you should have met her in the country! [[Well]]!’
 
 Hearing this mention of their old friend’s name, the four Miss Kenwigses
 gathered round Nicholas, open eyed and mouthed, to hear more. Mr. Kenwigs
@@ -43,16 +43,16 @@ coincidence also.
 ‘The message is from him,’ said Nicholas.
 
 Mr. Kenwigs appeared to revive. He knew that his niece was in a delicate
-state, and had, no doubt, sent word that they were to forward full
+state, and had, no [[Doubt|doubt]], sent word that they were to forward full
 particulars. Yes. That was very kind of him; so like him too!
 
-‘He desired me to give his kindest love,’ said Nicholas.
+‘He desired me to give his kindest [[Love|love]],’ said Nicholas.
 
 ‘Very much obliged to him, I’m sure. Your great-uncle, Lillyvick, my
 dears!’ interposed Mr. Kenwigs, condescendingly explaining it to the
 children.
 
-‘His kindest love,’ resumed Nicholas; ‘and to say that he had no time to
+‘His kindest [[Love|love]],’ resumed Nicholas; ‘and to say that he had no [[Time|time]] to
 write, but that he was married to Miss Petowker.’
 
 Mr. Kenwigs started from his seat with a petrified stare, caught his
@@ -64,19 +64,19 @@ two remaining little Kenwigses shrieked in affright.
 ‘My children, my defrauded, swindled infants!’ cried Mr. Kenwigs, pulling
 so hard, in his vehemence, at the flaxen tail of his second daughter,
 that he lifted her up on tiptoe, and kept her, for some seconds, in that
-attitude. ‘Villain, ass, traitor!’
+attitude. ‘[[Villain]], ass, traitor!’
 
-‘Drat the man!’ cried the nurse, looking angrily around. ‘What does he
+‘Drat the man!’ cried the [[Nurse|nurse]], looking angrily around. ‘What does he
 mean by making that noise here?’
 
-‘Silence, woman!’ said Mr. Kenwigs, fiercely.
+‘[[Silence]], woman!’ said Mr. Kenwigs, fiercely.
 
-‘I won’t be silent,’ returned the nurse. ‘Be silent yourself, you
+‘I won’t be silent,’ returned the [[Nurse|nurse]]. ‘Be silent yourself, you
 wretch. Have you no regard for your baby?’
 
 ‘No!’ returned Mr. Kenwigs.
 
-‘More shame for you,’ retorted the nurse. ‘Ugh! you unnatural monster.’
+‘More shame for you,’ retorted the [[Nurse|nurse]]. ‘Ugh! you unnatural [[Monster|monster]].’
 
 ‘Let him die,’ cried Mr. Kenwigs, in the torrent of his wrath. ‘Let him
 die! He has no expectations, no property to come into. We want no babies
@@ -84,7 +84,7 @@ here,’ said Mr. Kenwigs recklessly. ‘Take ‘em away, take ‘em away to the
 Fondling!’
 
 With these awful remarks, Mr. Kenwigs sat himself down in a chair, and
-defied the nurse, who made the best of her way into the adjoining room,
+defied the [[Nurse|nurse]], who made the best of her way into the adjoining room,
 and returned with a stream of matrons: declaring that Mr. Kenwigs had
 spoken blasphemy against his family, and must be raving mad.
 
@@ -102,7 +102,7 @@ to bed.
 
 ‘The attention,’ said Mr. Kenwigs, looking around with a plaintive air,
 ‘the attention that I’ve shown to that man! The hyseters he has eat, and
-the pints of ale he has drank, in this house--!’
+the pints of ale he has drank, in this [[house]]--!’
 
 ‘It’s very trying, and very hard to bear, we know,’ said one of the
 married ladies; ‘but think of your dear darling wife.’
@@ -115,10 +115,10 @@ to his calamity, ‘the pipes, the snuff-boxes--a pair of india-rubber
 goloshes, that cost six-and-six--’
 
 ‘Ah! it won’t bear thinking of, indeed,’ cried the matrons generally;
-‘but it’ll all come home to him, never fear.’
+‘but it’ll all come [[Home|home]] to him, never [[Fear|fear]].’
 
 Mr. Kenwigs looked darkly upon the ladies, as if he would prefer its all
-coming home to HIM, as there was nothing to be got by it; but he said
+coming [[Home|home]] to HIM, as there was nothing to be got by it; but he said
 nothing, and resting his head upon his hand, subsided into a kind of
 doze.
 
@@ -131,7 +131,7 @@ they liked to see it, they did, for it showed a good heart. And one lady
 observed, as a case bearing upon the present, that her husband was often
 quite light-headed from anxiety on similar occasions, and that once,
 when her little Johnny was born, it was nearly a week before he came to
-himself again, during the whole of which time he did nothing but cry ‘Is
+himself again, during the whole of which [[Time|time]] he did nothing but cry ‘Is
 it a boy, is it a boy?’ in a manner which went to the hearts of all his
 hearers.
 
@@ -146,7 +146,7 @@ Having seen him sound asleep, and heard him snore most satisfactorily,
 and having further presided over the distribution of the toys, to the
 perfect contentment of all the little Kenwigses, Nicholas took his
 leave. The matrons dropped off one by one, with the exception of six
-or eight particular friends, who had determined to stop all night; the
+or eight particular friends, who had determined to stop all [[Night|night]]; the
 lights in the houses gradually disappeared; the last bulletin was issued
-that Mrs. Kenwigs was as well as could be expected; and the whole family
+that Mrs. Kenwigs was as [[Well|well]] as could be expected; and the whole family
 were left to their repose.

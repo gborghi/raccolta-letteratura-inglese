@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Salad of Colonel Cray (part 3)"
+title: "[[wifrb11]] — The Salad of Colonel Cray (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -16,40 +16,40 @@ tags:
 
      "Oh yes, we can, my dear," said the Major, looking at her
 very amiably.  "Marco has all the sauces, and we've often
-done ourselves well in very rough places, as you might know by now. 
-And it's time you had a treat, Audrey; you mustn't be a housekeeper
+done ourselves [[Well|well]] in very rough places, as you might know by now. 
+And it's [[Time|time]] you had a treat, Audrey; you mustn't be a housekeeper
 every hour of the day; and I know you want to hear the music."
 
      "I want to go to church," she said, with rather severe eyes.
 
      She was one of those handsome women who will always be handsome,
-because the beauty is not in an air or a tint, but in the very structure
+because the [[Beauty|beauty]] is not in an air or a tint, but in the very structure
 of the head and features.  But though she was not yet middle-aged
 and her auburn hair was of a Titianesque fullness in form and colour,
 there was a look in her mouth and around her eyes which suggested that
 some sorrows wasted her, as winds waste at last the edges of a Greek temple. 
 For indeed the little domestic difficulty of which she was now speaking
-so decisively was rather comic than tragic.  Father Brown gathered,
+so decisively was rather comic than tragic.  [[Father Brown]] gathered,
 from the course of the conversation, that Cray, the other gourmet,
-had to leave before the usual lunch-time; but that Putnam, his host,
+had to leave before the usual lunch-[[Time|time]]; but that Putnam, his host,
 not to be done out of a final feast with an old crony, had arranged
 for a special dejeuner to be set out and consumed in the course of
 the morning, while Audrey and other graver persons were at morning service. 
 She was going there under the escort of a relative and old friend of hers,
-Dr Oliver Oman, who, though a scientific man of a somewhat bitter type,
+Dr [[Oliver]] Oman, who, though a scientific man of a somewhat bitter type,
 was enthusiastic for music, and would go even to church to get it. 
 There was nothing in all this that could conceivably concern
-the tragedy in Miss Watson's face; and by a half conscious instinct,
-Father Brown turned again to the seeming lunatic grubbing about
+the [[Tragedy|tragedy]] in Miss Watson's face; and by a half conscious instinct,
+[[Father Brown]] turned again to the seeming lunatic grubbing about
 in the grass.
 
      When he strolled across to him, the black, unbrushed head was
 lifted abruptly, as if in some surprise at his continued presence. 
-And indeed, Father Brown, for reasons best known to himself,
+And indeed, [[Father Brown]], for reasons best known to himself,
 had lingered much longer than politeness required; or even,
 in the ordinary sense, permitted.
 
-     "Well!" cried Cray, with wild eyes.  "I suppose you think I'm mad,
+     "[[Well]]!" cried Cray, with wild eyes.  "I suppose you think I'm mad,
 like the rest?"
 
      "I have considered the thesis," answered the little man, composedly. 
@@ -57,7 +57,7 @@ like the rest?"
 
      "What do you mean?" snapped Cray quite savagely.
 
-     "Real madmen," explained Father Brown, "always encourage their
+     "Real madmen," explained [[Father Brown]], "always encourage their
 own morbidity.  They never strive against it.  But you are trying
 to find traces of the burglar; even when there aren't any. 
 You are struggling against it.  You want what no madman ever wants."
@@ -73,21 +73,21 @@ that the fellow was only after the silver--as if I shouldn't be
 only too pleased to think so!  She's been at me," and he tossed his tousled
 black head towards Audrey, but the other had no need of the direction,
 "she's been at me today about how cruel I was to shoot a poor harmless
-house-breaker, and how I have the devil in me against poor harmless natives. 
+[[house]]-breaker, and how I have the devil in me against poor harmless natives. 
 But I was a good-natured man once--as good-natured as Putnam."
 
      After a pause he said:  "Look here, I've never seen you before;
 but you shall judge of the whole story.  Old Putnam and I were friends
 in the same mess; but, owing to some accidents on the Afghan border,
 I got my command much sooner than most men; only we were both
-invalided home for a bit.  I was engaged to Audrey out there;
-and we all travelled back together.  But on the journey back
+invalided [[Home|home]] for a bit.  I was engaged to Audrey out there;
+and we all travelled back together.  But on the [[Journey|journey]] back
 things happened.  Curious things.  The result of them was
 that Putnam wants it broken off, and even Audrey keeps it hanging on--
 and I know what they mean.  I know what they think I am.  So do you.
 
-     "Well, these are the facts.  The last day we were in
-an Indian city I asked Putnam if I could get some Trichinopoli cigars,
+     "[[Well]], these are the facts.  The last day we were in
+an Indian [[City|city]] I asked Putnam if I could get some Trichinopoli cigars,
 he directed me to a little place opposite his lodgings. 
 I have since found he was quite right; but `opposite' is a dangerous word
 when one decent house stands opposite five or six squalid ones;

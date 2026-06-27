@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica"
+title: "[[WhatISawInAmerica]]"
 author: "Chesterton"
 unitType: work
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -13,7 +13,7 @@ tags:
 </nav>
 
 
-The Project Gutenberg EBook of What I Saw in America, by G. K. Chesterton
+The Project Gutenberg EBook of What I Saw in [[America]], by G. K. Chesterton
 
 This eBook is for the use of anyone anywhere at no cost and with
 
@@ -23,7 +23,7 @@ re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.org
 
-Title: What I Saw in America
+Title: What I Saw in [[America]]
 
 Author: G. K. Chesterton
 
@@ -33,7 +33,7 @@ Language: English
 
 Character set encoding: ISO-8859-1
 
-*** START OF THIS PROJECT GUTENBERG EBOOK WHAT I SAW IN AMERICA ***
+*** START OF THIS PROJECT GUTENBERG EBOOK WHAT I SAW IN [[America|AMERICA]] ***
 
 Produced by Irma Špehar, Martin Pettit and the Online
 
@@ -43,7 +43,7 @@ file was produced from images generously made available
 
 by The Internet Archive/Canadian Libraries)
 
-WHAT I SAW IN AMERICA
+WHAT I SAW IN [[America|AMERICA]]
 
 BY
 
@@ -51,7 +51,7 @@ G. K. CHESTERTON
 
 HODDER AND STOUGHTON
 
-LIMITED LONDON
+LIMITED [[London|LONDON]]
 
 MCMXXII
 
@@ -63,9 +63,9 @@ _Contents_
 
                                     PAGE
 
-WHAT IS AMERICA?                       1
+WHAT IS [[America|AMERICA]]?                       1
 
-A MEDITATION IN A NEW YORK HOTEL      19
+A MEDITATION IN A [[New York|NEW YORK]] HOTEL      19
 
 A MEDITATION IN BROADWAY              33
 
@@ -89,29 +89,29 @@ THE REPUBLICAN IN THE RUINS          195
 
 IS THE ATLANTIC NARROWING?           208
 
-LINCOLN AND LOST CAUSES              222
+[[Lincoln|LINCOLN]] AND LOST CAUSES              222
 
 WELLS AND THE WORLD STATE            235
 
-A NEW MARTIN CHUZZLEWIT              253
+A NEW [[Martin Chuzzlewit|MARTIN CHUZZLEWIT]]              253
 
-THE SPIRIT OF AMERICA                267
+THE SPIRIT OF [[America|AMERICA]]                267
 
 THE SPIRIT OF ENGLAND                281
 
-THE FUTURE OF DEMOCRACY              295
+THE FUTURE OF [[democracy|DEMOCRACY]]              295
 
-_What is America?_
+_What is [[America]]?_
 
 I have never managed to lose my old conviction that travel narrows the
 
-mind. At least a man must make a double effort of moral humility and
+mind. At least a man must make a [[Double|double]] effort of moral [[Humility|humility]] and
 
 imaginative energy to prevent it from narrowing his mind. Indeed there
 
 is something touching and even tragic about the thought of the
 
-thoughtless tourist, who might have stayed at home loving Laplanders,
+thoughtless tourist, who might have stayed at [[Home|home]] loving Laplanders,
 
 embracing Chinamen, and clasping Patagonians to his heart in Hampstead
 
@@ -121,7 +121,7 @@ they looked like. This is not meant for nonsense; still less is it meant
 
 for the silliest sort of nonsense, which is cynicism. The human bond
 
-that he feels at home is not an illusion. On the contrary, it is rather
+that he feels at [[Home|home]] is not an illusion. On the contrary, it is rather
 
 an inner reality. Man is inside all men. In a real sense any man may be
 
@@ -131,9 +131,9 @@ dangerously near the outside. So long as he thought of men in the
 
 abstract, like naked toiling figures in some classic frieze, merely as
 
-those who labour and love their children and die, he was thinking the
+those who labour and [[Love|love]] their children and die, he was thinking the
 
-fundamental truth about them. By going to look at their unfamiliar
+fundamental [[Truth|truth]] about them. By going to look at their unfamiliar
 
 manners and customs he is inviting them to disguise themselves in
 
@@ -169,7 +169,7 @@ international relations there is far too little laughing, and far too
 
 much sneering. But I believe that there is a better way which largely
 
-consists of laughter; a form of friendship between nations which is
+consists of laughter; a form of [[Friendship|friendship]] between nations which is
 
 actually founded on differences. To hint at some such better way is the
 
@@ -177,7 +177,7 @@ only excuse of this book.
 
 Let me begin my American impressions with two impressions I had before I
 
-went to America. One was an incident and the other an idea; and when
+went to [[America]]. One was an incident and the other an idea; and when
 
 taken together they illustrate the attitude I mean. The first principle
 
@@ -203,7 +203,7 @@ is proportionally even more preferable to laugh rather than judge in
 
 dealing with highly civilised peoples. Therefore I put at the beginning
 
-two working examples of what I felt about America before I saw it; the
+two working examples of what I felt about [[America]] before I saw it; the
 
 sort of thing that a man has a right to enjoy as a joke, and the sort of
 
@@ -217,13 +217,13 @@ capable of expecting the American consulate to be American. Embassies
 
 and consulates are by tradition like islands of the soil for which they
 
-stand; and I have often found the tradition corresponding to a truth. I
+stand; and I have often found the tradition corresponding to a [[Truth|truth]]. I
 
 have seen the unmistakable French official living on omelettes and a
 
 little wine and serving his sacred abstractions under the last
 
-palm-trees fringing a desert. In the heat and noise of quarrelling Turks
+palm-trees fringing a [[Desert|desert]]. In the heat and noise of quarrelling Turks
 
 and Egyptians, I have come suddenly, as with the cool shock of his own
 
@@ -247,11 +247,11 @@ called 'Confessions' which my friends and I invented in our youth; an
 
 examination paper containing questions like, 'If you saw a rhinoceros
 
-in the front garden, what would you do?' One of my friends, I remember,
+in the front [[Garden|garden]], what would you do?' One of my friends, I remember,
 
 wrote, 'Take the pledge.' But that is another story, and might bring Mr.
 
-Pussyfoot Johnson on the scene before his time.
+Pussyfoot Johnson on the scene before his [[Time|time]].
 
 One of the questions on the paper was, 'Are you an anarchist?' To which
 
@@ -259,11 +259,11 @@ a detached philosopher would naturally feel inclined to answer, 'What
 
 the devil has that to do with you? Are you an atheist?' along with some
 
-playful efforts to cross-examine the official about what constitutes an
+playful efforts to [[Cross|cross]]-examine the official about what constitutes an
 
 [Greek: archê]. Then there was the question, 'Are you in favour of
 
-subverting the government of the United States by force?' Against this I
+subverting the [[government]] of the United States by force?' Against this I
 
 should write, 'I prefer to answer that question at the end of my tour
 
@@ -271,7 +271,7 @@ and not the beginning.' The inquisitor, in his more than morbid
 
 curiosity, had then written down, 'Are you a polygamist?' The answer to
 
-this is, 'No such luck' or 'Not such a fool,' according to our
+this is, 'No such luck' or 'Not such a [[Fool|fool]],' according to our
 
 experience of the other sex. But perhaps a better answer would be that
 
@@ -287,13 +287,13 @@ the thought of the ruthless outlaw who should feel compelled to treat it
 
 respectfully. I like to think of the foreign desperado, seeking to slip
 
-into America with official papers under official protection, and sitting
+into [[America]] with official papers under official protection, and sitting
 
 down to write with a beautiful gravity, 'I am an anarchist. I hate you
 
 all and wish to destroy you.' Or, 'I intend to subvert by force the
 
-government of the United States as soon as possible, sticking the long
+[[government]] of the United States as soon as possible, sticking the long
 
 sheath-knife in my left trouser-pocket into Mr. Harding at the earliest
 
@@ -329,15 +329,15 @@ that without merely assuming that they must be inferior to himself.
 
 Superficially this is rather a queer business. It would be easy enough
 
-to suggest that in this America has introduced a quite abnormal spirit
+to suggest that in this [[America]] has introduced a quite abnormal spirit
 
-of inquisition; an interference with liberty unknown among all the
+of [[Inquisition|inquisition]]; an interference with liberty unknown among all the
 
 ancient despotisms and aristocracies. About that there will be something
 
 to be said later; but superficially it is true that this degree of
 
-officialism is comparatively unique. In a journey which I took only the
+officialism is comparatively unique. In a [[Journey|journey]] which I took only the
 
 year before I had occasion to have my papers passed by governments which
 
@@ -367,13 +367,13 @@ into my thoughts. They held their power as limited to the limitation of
 
 practice; they did not forbid me to hold a theory. It would be easy to
 
-argue here that Western democracy persecutes where even Eastern
+argue here that Western [[democracy]] persecutes where even Eastern
 
 despotism tolerates or emancipates. It would be easy to develop the
 
-fancy that, as compared with the sultans of Turkey or Egypt, the
+fancy that, as compared with the sultans of Turkey or [[Egypt]], the
 
-American Constitution is a thing like the Spanish Inquisition.
+American Constitution is a thing like the [[Spanish Inquisition]].
 
 Only the traveller who stops at that point is totally wrong; and the
 
@@ -385,7 +385,7 @@ remedy is not to unsay what he has said, not even, so to speak, to
 
 unlaugh what he has laughed, not to deny that there is something unique
 
-and curious about this American inquisition into our abstract opinions,
+and curious about this American [[Inquisition|inquisition]] into our abstract opinions,
 
 but rather to continue the train of thought, and follow the admirable
 
@@ -395,9 +395,9 @@ thing unless you think it out.' It is not to deny that American
 
 officialism is rather peculiar on this point, but to inquire what it
 
-really is which makes America peculiar, or which is peculiar to America.
+really is which makes [[America]] peculiar, or which is peculiar to [[America]].
 
-In short, it is to get some ultimate idea of what America _is_; and the
+In short, it is to get some ultimate idea of what [[America]] _is_; and the
 
 answer to that question will reveal something much deeper and grander
 
@@ -405,13 +405,13 @@ and more worthy of our intelligent interest.
 
 It may have seemed something less than a compliment to compare the
 
-American Constitution to the Spanish Inquisition. But oddly enough, it
+American Constitution to the [[Spanish Inquisition]]. But oddly enough, it
 
-does involve a truth; and still more oddly perhaps, it does involve a
+does involve a [[Truth|truth]]; and still more oddly perhaps, it does involve a
 
 compliment. The American Constitution does resemble the Spanish
 
-Inquisition in this: that it is founded on a creed. America is the only
+[[Inquisition]] in this: that it is founded on a creed. [[America]] is the only
 
 nation in the world that is founded on a creed. That creed is set forth
 
@@ -433,7 +433,7 @@ from whom these equal rights are derived. Nobody expects a modern
 
 political system to proceed logically in the application of such dogmas,
 
-and in the matter of God and Government it is naturally God whose claim
+and in the matter of God and [[government|Government]] it is naturally God whose claim
 
 is taken more lightly. The point is that there is a creed, if not about
 
@@ -441,15 +441,15 @@ divine, at least about human things.
 
 Now a creed is at once the broadest and the narrowest thing in the
 
-world. In its nature it is as broad as its scheme for a brotherhood of
+world. In its [[Nature|nature]] it is as broad as its scheme for a brotherhood of
 
-all men. In its nature it is limited by its definition of the nature of
+all men. In its [[Nature|nature]] it is limited by its definition of the [[Nature|nature]] of
 
 all men. This was true of the Christian Church, which was truly said to
 
 exclude neither Jew nor Greek, but which did definitely substitute
 
-something else for Jewish religion or Greek philosophy. It was truly
+something else for Jewish religion or Greek [[philosophy]]. It was truly
 
 said to be a net drawing in of all kinds; but a net of a certain
 
@@ -457,13 +457,13 @@ pattern, the pattern of Peter the Fisherman. And this is true even of
 
 the most disastrous distortions or degradations of that creed; and true
 
-among others of the Spanish Inquisition. It may have been narrow
+among others of the [[Spanish Inquisition]]. It may have been narrow
 
 touching theology, it could not confess to being narrow about
 
-nationality or ethnology. The Spanish Inquisition might be admittedly
+nationality or ethnology. The [[Spanish Inquisition]] might be admittedly
 
-Inquisitorial; but the Spanish Inquisition could not be merely Spanish.
+Inquisitorial; but the [[Spanish Inquisition]] could not be merely Spanish.
 
 Such a Spaniard, even when he was narrower than his own creed, had to be
 
@@ -479,7 +479,7 @@ a much vaguer and more evolutionary fashion, there is something of the
 
 same idea at the back of the great American experiment; the experiment
 
-of a democracy of diverse races which has been compared to a
+of a [[democracy]] of diverse races which has been compared to a
 
 melting-pot. But even that metaphor implies that the pot itself is of a
 
@@ -487,9 +487,9 @@ certain shape and a certain substance; a pretty solid substance. The
 
 melting-pot must not melt. The original shape was traced on the lines of
 
-Jeffersonian democracy; and it will remain in that shape until it
+Jeffersonian [[democracy]]; and it will remain in that shape until it
 
-becomes shapeless. America invites all men to become citizens; but it
+becomes shapeless. [[America]] invites all men to become citizens; but it
 
 implies the dogma that there is such a thing as citizenship. Only, so
 
@@ -503,7 +503,7 @@ something of the same spirit the American may exclude a polygamist,
 
 precisely because he cannot exclude a Turk.
 
-Now for America this is no idle theory. It may have been theoretical,
+Now for [[America]] this is no idle theory. It may have been theoretical,
 
 though it was thoroughly sincere, when that great Virginian gentleman
 
@@ -511,7 +511,7 @@ declared it in surroundings that still had something of the character of
 
 an English countryside. It is not merely theoretical now. There is
 
-nothing to prevent America being literally invaded by Turks, as she is
+nothing to prevent [[America]] being literally invaded by Turks, as she is
 
 invaded by Jews or Bulgars. In the most exquisitely inconsequent of the
 
@@ -527,7 +527,7 @@ _Bab Ballads_, we are told concerning Pasha Bailey Ben:--
 
 But the converse need by no means be true. There is nothing in the
 
-nature of things to prevent an emigration of Turks increasing and
+[[Nature|nature]] of things to prevent an emigration of Turks increasing and
 
 multiplying on the plains where the Red Indians wandered; there is
 
@@ -537,7 +537,7 @@ alas, are likely to be rarer. And as I much prefer Red Indians to Turks,
 
 not to mention Jews, I speak without prejudice; but the point here is
 
-that America, partly by original theory and partly by historical
+that [[America]], partly by original theory and partly by historical
 
 accident, does lie open to racial admixtures which most countries would
 
@@ -551,7 +551,7 @@ who may meet Turks in the back street with that of those who have never
 
 met Turks except in the _Bab Ballads_. It is not fair simply to compare
 
-America with England in its regulations about the Turk. In short, it is
+[[America]] with England in its regulations about the Turk. In short, it is
 
 not fair to do what almost every Englishman probably does; to look at
 
@@ -561,15 +561,15 @@ with saying, 'We don't have any of that nonsense in England.'
 
 We do not have any of that nonsense in England because we have never
 
-attempted to have any of that philosophy in England. And, above all,
+attempted to have any of that [[philosophy]] in England. And, above all,
 
 because we have the enormous advantage of feeling it natural to be
 
 national, because there is nothing else to be. England in these days is
 
-not well governed; England is not well educated; England suffers from
+not [[Well|well]] governed; England is not [[Well|well]] educated; England suffers from
 
-wealth and poverty that are not well distributed. But England is
+wealth and [[Poverty|poverty]] that are not [[Well|well]] distributed. But England is
 
 English; _esto perpetua_. England is English as France is French or
 
@@ -577,17 +577,17 @@ Ireland Irish; the great mass of men taking certain national traditions
 
 for granted. Now this gives us a totally different and a very much
 
-easier task. We have not got an inquisition, because we have not got a
+easier task. We have not got an [[Inquisition|inquisition]], because we have not got a
 
 creed; but it is arguable that we do not need a creed, because we have
 
-got a character. In any of the old nations the national unity is
+got a character. In any of the old nations the national [[unity]] is
 
 preserved by the national type. Because we have a type we do not need to
 
 have a test.
 
-Take that innocent question, 'Are you an anarchist?' which is
+Take that [[Innocent|innocent]] question, 'Are you an anarchist?' which is
 
 intrinsically quite as impudent as 'Are you an optimist?' or 'Are you a
 
@@ -607,7 +607,7 @@ is even more because even the anarchists are Englishmen. For instance,
 
 it would be easy to make fun of the American formula by noting that the
 
-cap would fit all sorts of bald academic heads. It might well be
+cap would fit all sorts of bald academic heads. It might [[Well|well]] be
 
 maintained that Herbert Spencer was an anarchist. It is practically
 
@@ -615,11 +615,11 @@ certain that Auberon Herbert was an anarchist. But Herbert Spencer was
 
 an extraordinarily typical Englishman of the Nonconformist middle class.
 
-And Auberon Herbert was an extraordinarily typical English aristocrat of
+And Auberon Herbert was an extraordinarily typical English [[aristocrat]] of
 
 the old and genuine aristocracy. Every one knew in his heart that the
 
-squire would not throw a bomb at the Queen, and the Nonconformist would
+squire would not throw a bomb at the [[Queen]], and the Nonconformist would
 
 not throw a bomb at anybody. Every one knew that there was something
 
@@ -643,9 +643,9 @@ says that there ought to be no nations. Somebody called Cobden the
 
 International Man; but no man could be more English than Cobden.
 
-Everybody recognises Tolstoy as the iconoclast of all patriotism; but
+Everybody recognises [[tolstoy|Tolstoy]] as the iconoclast of all patriotism; but
 
-nobody could be more Russian than Tolstoy. In the old countries where
+nobody could be more Russian than [[tolstoy|Tolstoy]]. In the old countries where
 
 there are these national types, the types may be allowed to hold any
 
@@ -663,11 +663,11 @@ Now I am very far from intending to imply that these American tests are
 
 good tests, or that there is no danger of tyranny becoming the
 
-temptation of America. I shall have something to say later on about that
+[[Temptation|temptation]] of [[America]]. I shall have something to say later on about that
 
-temptation or tendency. Nor do I say that they apply consistently this
+[[Temptation|temptation]] or tendency. Nor do I say that they apply consistently this
 
-conception of a nation with the soul of a church, protected by religious
+conception of a nation with the [[Soul|soul]] of a church, protected by religious
 
 and not racial selection. If they did apply that principle consistently,
 
@@ -699,13 +699,13 @@ a problem like that of the two academic anarchists, who might by a
 
 coincidence be called the two Herberts. Suppose a man said, 'Buffle, my
 
-old Oxford tutor, wants to meet you; I wish you'd ask him down for a day
+old [[Oxford]] tutor, wants to meet you; I wish you'd ask him down for a day
 
 or two. He has the oddest opinions, but he's very stimulating.' It would
 
-not occur to us that the oddity of the Oxford don's opinions would lead
+not occur to us that the oddity of the [[Oxford]] don's opinions would lead
 
-him to blow up the house; because the Oxford don is an English type.
+him to blow up the [[house]]; because the [[Oxford]] don is an English type.
 
 Suppose somebody said, 'Do let me bring old Colonel Robinson down for
 
@@ -713,7 +713,7 @@ the week-end; he's a bit of a crank but quite interesting.' We should
 
 not anticipate the colonel running amuck with a carving-knife and
 
-offering up human sacrifice in the garden; for these are not among the
+offering up human sacrifice in the [[Garden|garden]]; for these are not among the
 
 daily habits of an old English colonel; and because we know his habits,
 
@@ -733,7 +733,7 @@ interesting, we should want to know a little more about it and him. We
 
 should be tempted to draw up as fantastic an examination paper as that
 
-presented to the emigrant going to America. We should ask what a Hairy
+presented to the emigrant going to [[America]]. We should ask what a Hairy
 
 Ainu was, and how hairy he was, and above all what sort of Ainu he was.
 
@@ -751,25 +751,25 @@ insist on his wearing clothes, will he recognise the authority of the
 
 police? In short, as in the American formula, is he an anarchist?
 
-Of course this generalisation about America, like other historical
+Of course this generalisation about [[America]], like other historical
 
-things, is subject to all sorts of cross divisions and exceptions, to
+things, is subject to all sorts of [[Cross|cross]] divisions and exceptions, to
 
 be considered in their place. The negroes are a special problem, because
 
 of what white men in the past did to them. The Japanese are a special
 
-problem, because of what men fear that they in the future may do to
+problem, because of what men [[Fear|fear]] that they in the future may do to
 
 white men. The Jews are a special problem, because of what they and the
 
 Gentiles, in the past, present, and future, seem to have the habit of
 
-doing to each other. But the point is not that nothing exists in America
+doing to each other. But the point is not that nothing exists in [[America]]
 
 except this idea; it is that nothing like this idea exists anywhere
 
-except in America. This idea is not internationalism; on the contrary it
+except in [[America]]. This idea is not internationalism; on the contrary it
 
 is decidedly nationalism. The Americans are very patriotic, and wish to
 
@@ -777,17 +777,17 @@ make their new citizens patriotic Americans. But it is the idea of
 
 making a new nation literally out of any old nation that comes along. In
 
-a word, what is unique is not America but what is called
+a word, what is unique is not [[America]] but what is called
 
-Americanisation. We understand nothing till we understand the amazing
+[[americanisation|Americanisation]]. We understand nothing till we understand the amazing
 
-ambition to Americanise the Kamskatkan and the Hairy Ainu. We are not
+[[Ambition|ambition]] to Americanise the Kamskatkan and the Hairy Ainu. We are not
 
 trying to Anglicise thousands of French cooks or Italian organ-grinders.
 
 France is not trying to Gallicise thousands of English trippers or
 
-German prisoners of war. America is the one place in the world where
+German prisoners of war. [[America]] is the one place in the world where
 
 this process, healthy or unhealthy, possible or impossible, is going on.
 
@@ -795,21 +795,21 @@ And the process, as I have pointed out, is _not_ internationalisation.
 
 It would be truer to say it is the nationalisation of the
 
-internationalised. It is making a home out of vagabonds and a nation out
+internationalised. It is making a [[Home|home]] out of vagabonds and a nation out
 
 of exiles. This is what at once illuminates and softens the moral
 
 regulations which we may really think faddist or fanatical. They are
 
-abnormal; but in one sense this experiment of a home for the homeless is
+abnormal; but in one sense this experiment of a [[Home|home]] for the homeless is
 
-abnormal. In short, it has long been recognised that America was an
+abnormal. In short, it has long been recognised that [[America]] was an
 
 asylum. It is only since Prohibition that it has looked a little like a
 
 lunatic asylum.
 
-It was before sailing for America, as I have said, that I stood with the
+It was before sailing for [[America]], as I have said, that I stood with the
 
 official paper in my hand and these thoughts in my head. It was while I
 
@@ -819,9 +819,9 @@ and then sympathising; of realising that my momentary amusement, at
 
 being asked if I were not an Anarchist, was partly due to the fact that
 
-I was not an American. And in truth I think there are some things a man
+I was not an American. And in [[Truth|truth]] I think there are some things a man
 
-ought to know about America before he sees it. What we know of a country
+ought to know about [[America]] before he sees it. What we know of a country
 
 beforehand may not affect what we see that it is; but it will vitally
 
@@ -829,7 +829,7 @@ affect what we appreciate it for being, because it will vitally affect
 
 what we expect it to be. I can honestly say that I had never expected
 
-America to be what nine-tenths of the newspaper critics invariably
+[[America]] to be what nine-tenths of the newspaper critics invariably
 
 assume it to be. I never thought it was a sort of Anglo-Saxon colony,
 
@@ -839,11 +839,11 @@ colonists. During the war I felt that the very worst propaganda for the
 
 Allies was the propaganda for the Anglo-Saxons. I tried to point out
 
-that in one way America is nearer to Europe than England is. If she is
+that in one way [[America]] is nearer to Europe than England is. If she is
 
 not nearer to Bulgaria, she is nearer to Bulgars; if she is not nearer
 
-to Bohemia, she is nearer to Bohemians. In my New York hotel the head
+to Bohemia, she is nearer to Bohemians. In my [[New York]] hotel the head
 
 waiter in the dining-room was a Bohemian; the head waiter in the
 
@@ -859,17 +859,17 @@ had not heard the latest news about the town. I shall record later some
 
 of those arresting realities which the traveller does not expect; and
 
-which, in some cases I fear, he actually does not see because he does
+which, in some cases I [[Fear|fear]], he actually does not see because he does
 
 not expect. I shall try to do justice to the psychology of what Mr.
 
 Belloc has called 'Eye-Openers in Travel.' But there are some things
 
-about America that a man ought to see even with his eyes shut. One is
+about [[America]] that a man ought to see even with his eyes shut. One is
 
 that a state that came into existence solely through its repudiation and
 
-abhorrence of the British Crown is not likely to be a respectful copy of
+abhorrence of the British [[Crown]] is not likely to be a respectful copy of
 
 the British Constitution. Another is that the chief mark of the
 
@@ -881,7 +881,7 @@ have invariably thanked God, with the jolliest boasting and bragging,
 
 that they had kept out of the British Constitution. It is the thing
 
-called abstraction or academic logic. It is the thing which such jolly
+called abstraction or academic [[logic]]. It is the thing which such jolly
 
 people call theory; and which those who can practise it call thought.
 
@@ -899,13 +899,13 @@ especially intelligible to an Englishman, who tends at his best to the
 
 virtues of the gentleman and at his worst to the vices of the snob. The
 
-idealism of England, or if you will the romance of England, has not been
+idealism of England, or if you will the [[Romance|romance]] of England, has not been
 
-primarily the romance of the citizen. But the idealism of America, we
+primarily the [[Romance|romance]] of the citizen. But the idealism of [[America]], we
 
 may safely say, still revolves entirely round the citizen and his
 
-romance. The realities are quite another matter, and we shall consider
+[[Romance|romance]]. The realities are quite another matter, and we shall consider
 
 in its place the question of whether the ideal will be able to shape
 
@@ -941,7 +941,7 @@ admires the virtues of the Middle Ages. He need not set himself to
 
 develop equality, but he need not set himself to misunderstand it. He
 
-may at least understand what Jefferson and Lincoln meant, and he may
+may at least understand what Jefferson and [[Lincoln]] meant, and he may
 
 possibly find some assistance in this task by reading what they said. He
 
@@ -953,7 +953,7 @@ but cannot believe in anybody believing. It is an absolute of morals by
 
 which all men have a value invariable and indestructible and a dignity
 
-as intangible as death. He may at least be a philosopher and see that
+as intangible as [[Death|death]]. He may at least be a philosopher and see that
 
 equality is an idea; and not merely one of these soft-headed sceptics
 
@@ -963,7 +963,7 @@ tawdry hotel lounges, and tell each other twenty times over, with
 
 unwearied iteration, that equality is an illusion.
 
-In truth it is inequality that is the illusion. The extreme
+In [[Truth|truth]] it is inequality that is the illusion. The extreme
 
 disproportion between men, that we seem to see in life, is a thing of
 
@@ -971,7 +971,7 @@ changing lights and lengthening shadows, a twilight full of fancies and
 
 distortions. We find a man famous and cannot live long enough to find
 
-him forgotten; we see a race dominant and cannot linger to see it decay.
+him forgotten; we see a race dominant and cannot linger to see it [[Decay|decay]].
 
 It is the experience of men that always returns to the equality of men;
 
@@ -979,31 +979,31 @@ it is the average that ultimately justifies the average man. It is when
 
 men have seen and suffered much and come at the end of more elaborate
 
-experiments, that they see men as men under an equal light of death and
+experiments, that they see men as men under an equal light of [[Death|death]] and
 
 daily laughter; and none the less mysterious for being many. Nor is it
 
 in vain that these Western democrats have sought the blazonry of their
 
-flag in that great multitude of immortal lights that endure behind the
+[[Flag|flag]] in that great multitude of immortal lights that endure behind the
 
 fires we see, and gathered them into the corner of Old Glory whose
 
-ground is like the glittering night. For veritably, in the spirit as
+ground is like the glittering [[Night|night]]. For veritably, in the spirit as
 
-well as in the symbol, suns and moons and meteors pass and fill our
+[[Well|well]] as in the symbol, suns and moons and meteors pass and fill our
 
 skies with a fleeting and almost theatrical conflagration; and wherever
 
-the old shadow stoops upon the earth, the stars return.
+the old [[Shadow|shadow]] stoops upon the earth, the [[Stars|stars]] return.
 
-_A Meditation in a New York Hotel_
+_A Meditation in a [[New York]] Hotel_
 
 All this must begin with an apology and not an apologia. When I went
 
-wandering about the States disguised as a lecturer, I was well aware
+wandering about the States disguised as a lecturer, I was [[Well|well]] aware
 
-that I was not sufficiently well disguised to be a spy. I was even in
+that I was not sufficiently [[Well|well]] disguised to be a spy. I was even in
 
 the worst possible position to be a sight-seer. A lecturer to American
 
@@ -1011,7 +1011,7 @@ audiences can hardly be in the holiday mood of a sight-seer. It is
 
 rather the audience that is sight-seeing; even if it is seeing a rather
 
-melancholy sight. Some say that people come to see the lecturer and not
+[[Melancholy|melancholy]] sight. Some say that people come to see the lecturer and not
 
 to hear him; in which case it seems rather a pity that he should disturb
 
@@ -1019,7 +1019,7 @@ and distress their minds with a lecture. He might merely display himself
 
 on a stand or platform for a stipulated sum; or be exhibited like a
 
-monster in a menagerie. The circus elephant is not expected to make a
+[[Monster|monster]] in a menagerie. The circus elephant is not expected to make a
 
 speech. But it is equally true that the circus elephant is not allowed
 
@@ -1061,7 +1061,7 @@ of Uplift, and is even, in a manner of speaking, a high-brow. Above all,
 
 I shall probably make generalisations that are much too general; and are
 
-insufficient through being exaggerative. To this sort of doubt all my
+insufficient through being exaggerative. To this sort of [[Doubt|doubt]] all my
 
 impressions are subject; and among them the negative generalisation with
 
@@ -1069,11 +1069,11 @@ which I shall begin this rambling meditation on American hotels.
 
 In all my American wanderings I never saw such a thing as an inn. They
 
-may exist; but they do not arrest the traveller upon every road as they
+may exist; but they do not arrest the traveller upon every [[Road|road]] as they
 
 do in England and in Europe. The saloons no longer existed when I was
 
-there, owing to the recent reform which restricted intoxicants to the
+there, owing to the recent [[Reform|reform]] which restricted intoxicants to the
 
 wealthier classes. But we feel that the saloons have been there; if one
 
@@ -1087,13 +1087,13 @@ for the power of modern plutocracy to root them out. There will be a
 
 very different chase when the White Hart is hunted to the forests or
 
-when the Red Lion turns to bay. But people could not feel about the
+when the Red [[Lion]] turns to bay. But people could not feel about the
 
 American saloon as they will feel about the English inns. They could not
 
 feel that the Prohibitionist, that vulgar chucker-out, was chucking
 
-Chaucer out of the Tabard and Shakespeare out of the Mermaid. In justice
+Chaucer out of the Tabard and Shakespeare out of the [[Mermaid]]. In justice
 
 to the American Prohibitionists it must be realised that they were not
 
@@ -1111,7 +1111,7 @@ Prohibition except in so far as it is involved in the statement that the
 
 saloons were in no sense inns. Secondly, of course, there are the
 
-hotels. There are indeed. There are hotels toppling to the stars, hotels
+hotels. There are indeed. There are hotels toppling to the [[Stars|stars]], hotels
 
 covering the acreage of villages, hotels in multitudinous number like a
 
@@ -1119,13 +1119,13 @@ mob of Babylonian or Assyrian monuments; but the hotels also are not
 
 inns.
 
-Broadly speaking, there is only one hotel in America. The pattern of it,
+Broadly speaking, there is only one hotel in [[America]]. The pattern of it,
 
 which is a very rational pattern, is repeated in cities as remote from
 
 each other as the capitals of European empires. You may find that hotel
 
-rising among the red blooms of the warm spring woods of Nebraska, or
+rising among the red blooms of the warm [[Spring|spring]] woods of Nebraska, or
 
 whitened with Canadian snows near the eternal noise of Niagara. And
 
@@ -1149,7 +1149,7 @@ habitation. This is where it differs most perhaps from the crooked
 
 landings and unexpected levels of the old English inns, even when they
 
-call themselves hotels. To me there was something weird, like a magic
+call themselves hotels. To me there was something weird, like a [[Magic|magic]]
 
 multiplication, in the exquisite sameness of these suites. It seemed to
 
@@ -1157,29 +1157,29 @@ suggest the still atmosphere of some eerie psychological story. I once
 
 myself entertained the notion of a story, in which a man was to be
 
-prevented from entering his house (the scene of some crime or calamity)
+prevented from entering his [[house]] (the scene of some crime or calamity)
 
-by people who painted and furnished the next house to look exactly like
+by people who painted and furnished the next [[house]] to look exactly like
 
 it; the assimilation going to the most fantastic lengths, such as
 
-altering the numbering of houses in the street. I came to America and
+altering the numbering of houses in the street. I came to [[America]] and
 
 found an hotel fitted and upholstered throughout for the enactment of my
 
-phantasmal fraud. I offer the skeleton of my story with all humility to
+phantasmal fraud. I offer the [[skeleton]] of my story with all [[Humility|humility]] to
 
-some of the admirable lady writers of detective stories in America, to
+some of the admirable lady writers of [[Detective|detective]] stories in [[America]], to
 
 Miss Carolyn Wells, or Miss Mary Roberts Rhinehart, or Mrs. A. K. Green
 
 of the unforgotten Leavenworth Case. Surely it might be possible for the
 
-unsophisticated Nimrod K. Moose, of Yellow Dog Flat, to come to New York
+unsophisticated Nimrod K. Moose, of Yellow Dog Flat, to come to [[New York]]
 
 and be entangled somehow in this net of repetitions or recurrences.
 
-Surely something tells me that his beautiful daughter, the Rose of Red
+Surely something tells me that his beautiful daughter, the [[Rose]] of Red
 
 Murder Gulch, might seek for him in vain amid the apparently
 
@@ -1193,7 +1193,7 @@ two floors looked exactly alike to the virginal Western eye. The
 
 original point of my own story was that the man to be entrapped walked
 
-into his own house after all, in spite of it being differently painted
+into his own [[house]] after all, in spite of it being differently painted
 
 and numbered, simply because he was absent-minded and used to taking a
 
@@ -1207,7 +1207,7 @@ talk metaphorically; for it is something that a mechanism cannot do. But
 
 I think there is only one real objection to my story of Mr. Moose in the
 
-New York hotel. And that is unfortunately a rather fatal one. It is that
+[[New York]] hotel. And that is unfortunately a rather fatal one. It is that
 
 far away in the remote desolation of Yellow Dog, among those outlying
 
@@ -1221,7 +1221,7 @@ Anyhow the general plan of the American hotel is commonly the same, and,
 
 as I have said, it is a very sound one so far as it goes. When I first
 
-went into one of the big New York hotels, the first impression was
+went into one of the big [[New York]] hotels, the first impression was
 
 certainly its bigness. It was called the Biltmore; and I wondered how
 
@@ -1237,23 +1237,23 @@ that I was in some sort of high street or market-place during a carnival
 
 or a revolution. True, the people looked rather rich for a revolution
 
-and rather grave for a carnival; but they were congested in great crowds
+and rather [[Grave|grave]] for a carnival; but they were congested in great crowds
 
 that moved slowly like people passing through an overcrowded railway
 
 station. Even in the dizzy heights of such a sky-scraper there could not
 
-possibly be room for all those people to sleep in the hotel, or even to
+possibly be room for all those people to [[Sleep|sleep]] in the hotel, or even to
 
 dine in it. And, as a matter of fact, they did nothing whatever except
 
 drift into it and drift out again. Most of them had no more to do with
 
-the hotel than I have with Buckingham Palace. I have never been in
+the hotel than I have with [[Buckingham]] Palace. I have never been in
 
-Buckingham Palace, and I have very seldom, thank God, been in the big
+[[Buckingham]] Palace, and I have very seldom, thank God, been in the big
 
-hotels of this type that exist in London or Paris. But I cannot believe
+hotels of this type that exist in [[London]] or [[Paris]]. But I cannot believe
 
 that mobs are perpetually pouring through the Hotel Cecil or the Savoy
 
@@ -1277,7 +1277,7 @@ them myself, I trust it is not unsympathetic to compare them to active
 
 anthropoids who can climb trees, and so look down in safety on the herds
 
-or packs of wilder animals wandering and prowling below. Of course there
+or packs of wilder [[Animals|animals]] wandering and prowling below. Of course there
 
 are modifications of this architectural plan, but they are generally
 
@@ -1311,7 +1311,7 @@ another story that never existed, about a man who was accused of having
 
 murdered and dismembered his secretary when he had only taken his typing
 
-machine to pieces; but we must not dwell on these digressions. The
+[[Machine|machine]] to pieces; but we must not dwell on these digressions. The
 
 Americans may have another reason for giving long and ceremonious titles
 
@@ -1347,7 +1347,7 @@ will eventually be ritualistically decorated like a chapel; possibly
 
 with a symbolic scheme of wings. Perhaps a brief religious service will
 
-be held in the elevator as it ascends; in a few well-chosen words
+be held in the elevator as it ascends; in a few [[Well|well]]-chosen words
 
 touching the Utmost for the Highest. Possibly he would consent even to
 
@@ -1359,7 +1359,7 @@ problem of all optimistic modernism. I mean the difficulty of imagining
 
 a lift which is free to go up, if it is not also free to go down.
 
-I think I know my American friends and acquaintances too well to
+I think I know my American friends and acquaintances too [[Well|well]] to
 
 apologise for any levity in these illustrations. Americans make fun of
 
@@ -1381,15 +1381,15 @@ bathroom attached to every bedroom; and my impulse to sing the praises
 
 of it brought me once at least into a rather quaint complication. I
 
-think it was in the city of Dayton; anyhow I remember there was a
+think it was in the [[City|city]] of Dayton; anyhow I remember there was a
 
 Laundry Convention going on in the same hotel, in a room very
 
-patriotically and properly festooned with the stars and stripes, and
+patriotically and properly festooned with the [[Stars|stars]] and stripes, and
 
 doubtless full of promise for the future of laundering. I was
 
-interviewed on the roof, within earshot of this debate, and may have
+interviewed on the roof, within earshot of this [[debate]], and may have
 
 been the victim of some association or confusion; anyhow, after
 
@@ -1397,19 +1397,19 @@ answering the usual questions about Labour, the League of Nations, the
 
 length of ladies' dresses, and other great matters, I took refuge in a
 
-rhapsody of warm and well-deserved praise of American bathrooms. The
+rhapsody of warm and [[Well|well]]-deserved praise of American bathrooms. The
 
 editor, I understand, running a gloomy eye down the column of his
 
 contributor's 'story,' and seeing nothing but metaphysical terms such as
 
-justice, freedom, the abstract disapproval of sweating, swindling, and
+justice, [[Freedom|freedom]], the abstract disapproval of sweating, swindling, and
 
 the like, paused at last upon the ablutionary allusion, and his eye
 
 brightened. 'That's the only copy in the whole thing,' he said, 'A
 
-Bath-Tub in Every Home.' So these words appeared in enormous letters
+Bath-Tub in Every [[Home]].' So these words appeared in enormous letters
 
 above my portrait in the paper. It will be noted that, like many things
 
@@ -1419,13 +1419,13 @@ had commended as new and national was a bathroom in every bedroom. Even
 
 feudal and moss-grown England is not entirely ignorant of an occasional
 
-bath-tub in the home. But what gave me great joy was what followed. I
+bath-tub in the [[Home|home]]. But what gave me great joy was what followed. I
 
 discovered with delight that many people, glancing rapidly at my
 
 portrait with its prodigious legend, imagined that it was a commercial
 
-advertisement, and that I was a very self-advertising commercial
+advertisement, and that I was a very [[Self|self]]-advertising commercial
 
 traveller. When I walked about the streets, I was supposed to be
 
@@ -1433,7 +1433,7 @@ travelling in bath-tubs. Consider the caption of the portrait, and you
 
 will see how similar it is to the true commercial slogan: 'We offer a
 
-Bath-Tub in Every Home.' And this charming error was doubtless clinched
+Bath-Tub in Every [[Home]].' And this charming error was doubtless clinched
 
 by the fact that I had been found haunting the outer courts of the
 
@@ -1445,7 +1445,7 @@ two individuals. But I understand that it included the idea that I had
 
 come to the town to attend the Laundry Convention, and had made an
 
-eloquent speech to that senate, no doubt exhibiting my tubs.
+eloquent speech to that senate, no [[Doubt|doubt]] exhibiting my tubs.
 
 Such was the penalty of too passionate and unrestrained an admiration
 
@@ -1455,7 +1455,7 @@ inconsequent, does cover the part of social practice for which these
 
 American institutions can really be praised. About everything like
 
-laundry or hot and cold water there is not only organisation, but what
+laundry or hot and cold [[Water|water]] there is not only organisation, but what
 
 does not always or perhaps often go with it, efficiency. Americans are
 
@@ -1485,7 +1485,7 @@ even to be sham aristocrats, or to be real snobs. But their standards
 
 are secure; and though I do not really travel in a bath-tub, or believe
 
-in the bath-tub philosophy and religion, I will not on this matter
+in the bath-tub [[philosophy]] and religion, I will not on this matter
 
 recoil misanthropically from them: I prefer the tub of Dayton to the tub
 
@@ -1493,7 +1493,7 @@ of Diogenes. On these points there is really something a million times
 
 better than efficiency, and that is something like equality.
 
-In short, the American hotel is not America; but it is American. In some
+In short, the American hotel is not [[America]]; but it is American. In some
 
 respects it is as American as the English inn is English. And it is
 
@@ -1505,19 +1505,19 @@ little natural dignity. The old Romans boasted that their republic was a
 
 nation of kings. If we really walked abroad in such a kingdom, we might
 
-very well grow tired of the sight of a crowd of kings, of every man with
+very [[Well|well]] grow tired of the sight of a crowd of kings, of every man with
 
-a gold crown on his head or an ivory sceptre in his hand. But it is
+a gold [[Crown|crown]] on his head or an ivory sceptre in his hand. But it is
 
 arguable that we ought not to grow tired of the repetition of crowns and
 
-sceptres, any more than of the repetition of flowers and stars. The
+sceptres, any more than of the repetition of [[Flowers|flowers]] and [[Stars|stars]]. The
 
 whole imaginative effort of Walt Whitman was really an effort to absorb
 
 and animate these multitudinous modern repetitions; and Walt Whitman
 
-would be quite capable of including in his lyric litany of optimism a
+would be quite capable of including in his [[Lyric|lyric]] [[litany]] of optimism a
 
 list of the nine hundred and ninety-nine identical bathrooms. I do not
 
@@ -1525,7 +1525,7 @@ sneer at the generous effort of the giant; though I think, when all is
 
 said, that it is a criticism of modern machinery that the effort should
 
-be gigantic as well as generous.
+be gigantic as [[Well|well]] as generous.
 
 While there is so much repetition there is little repose. It is the
 
@@ -1535,17 +1535,17 @@ running and even leaping like the figures in a zoetrope. But even in the
 
 groups where there was no hustle there was often something of
 
-homelessness. I do not mean merely that they were not dining at home;
+homelessness. I do not mean merely that they were not dining at [[Home|home]];
 
-but rather that they were not at home even when dining, and dining at
+but rather that they were not at [[Home|home]] even when dining, and dining at
 
 their favourite hotel. They would frequently start up and dart from the
 
 room at a summons from the telephone. It may have been fanciful, but I
 
-could not help feeling a breath of home, as from a flap or flutter of
+could not help feeling a breath of [[Home|home]], as from a flap or flutter of
 
-St. George's Cross, when I first sat down in a Canadian hostelry, and
+St. George's [[Cross]], when I first sat down in a Canadian hostelry, and
 
 read the announcement that no such telephonic or other summonses were
 
@@ -1585,11 +1585,11 @@ any Mr. Anderson to be found. Perhaps he and every one else wandered in
 
 an abyss of bottomless scepticism; and he was but the victim of one out
 
-of numberless nightmares of eternity, as he wandered a shadow with
+of numberless nightmares of [[Eternity|eternity]], as he wandered a [[Shadow|shadow]] with
 
 shadows and wailed by impassable streams. This is not exactly my
 
-philosophy, but I feel sure it was his. And it is a mood that may
+[[philosophy]], but I feel sure it was his. And it is a mood that may
 
 frequently visit the mind in the centres of highly active and successful
 
@@ -1597,7 +1597,7 @@ industrial civilisation.
 
 Such are the first idle impressions of the great American hotel, gained
 
-by sitting for the first time in its gallery and gazing on its drifting
+by sitting for the first [[Time|time]] in its gallery and gazing on its drifting
 
 crowds with thoughts equally drifting. The first impression is of
 
@@ -1611,9 +1611,9 @@ with sincerity, if I did not touch in passing the note of something
 
 unearthly about that vast system to an insular traveller who sees it for
 
-the first time. It is as if he were wandering in another world among the
+the first [[Time|time]]. It is as if he were wandering in another world among the
 
-fixed stars; or worse still, in an ideal Utopia of the future.
+fixed [[Stars|stars]]; or worse still, in an ideal Utopia of the future.
 
 Yet I am not certain; and perhaps the best of all news is that nothing
 
@@ -1635,7 +1635,7 @@ almost impudent innovation. But our fathers had the French café, in the
 
 sense of the free-and-easy table in the sun and air. The only difference
 
-was that French democracy was allowed to develop its café, or multiply
+was that French [[democracy]] was allowed to develop its café, or multiply
 
 its tables, while English plutocracy prevented any such popular growth.
 
@@ -1661,7 +1661,7 @@ England. It was the theatre in which were enacted innumerable picaresque
 
 comedies and romantic plays, with figures ranging from Sancho Panza to
 
-Sam Weller. It served as the apparatus, like some gigantic toy set up in
+[[Sam Weller]]. It served as the apparatus, like some gigantic toy set up in
 
 bricks and timber, for the ancient and perhaps eternal game of tennis.
 
@@ -1671,13 +1671,13 @@ and the players scored accordingly as they hit the buttery-hatch or the
 
 roof. Singular speculations hover in my mind as the scene darkens and
 
-the quadrangle below begins to empty in the last hours of night. Some
+the quadrangle below begins to empty in the last hours of [[Night|night]]. Some
 
-day perhaps this huge structure will be found standing in a solitude
+day perhaps this huge structure will be found standing in a [[Solitude|solitude]]
 
-like a skeleton; and it will be the skeleton of the Spotted Dog or the
+like a [[skeleton]]; and it will be the [[skeleton]] of the Spotted Dog or the
 
-Blue Boar. It will wither and decay until it is worthy at last to be a
+Blue Boar. It will wither and [[Decay|decay]] until it is worthy at last to be a
 
 tavern. I do not know whether men will play tennis on its ground floor,
 
@@ -1689,7 +1689,7 @@ part of some such rustic game. Perhaps the electric fan will no longer
 
 be electric and the elevator will no longer elevate, and the waiter will
 
-only wait to be hit. But at least it is only by the decay of modern
+only wait to be hit. But at least it is only by the [[Decay|decay]] of modern
 
 plutocracy, which seems already to have begun, that the secret of the
 
@@ -1703,9 +1703,9 @@ thunder; of D'Artagnan knocking at the door.
 
 _A Meditation in Broadway_
 
-When I had looked at the lights of Broadway by night, I made to my
+When I had looked at the lights of Broadway by [[Night|night]], I made to my
 
-American friends an innocent remark that seemed for some reason to amuse
+American friends an [[Innocent|innocent]] remark that seemed for some reason to amuse
 
 them. I had looked, not without joy, at that long kaleidoscope of
 
@@ -1713,9 +1713,9 @@ coloured lights arranged in large letters and sprawling trade-marks,
 
 advertising everything, from pork to pianos, through the agency of the
 
-two most vivid and most mystical of the gifts of God; colour and fire. I
+two most vivid and most mystical of the gifts of God; colour and [[Fire|fire]]. I
 
-said to them, in my simplicity, 'What a glorious garden of wonders this
+said to them, in my simplicity, 'What a glorious [[Garden|garden]] of wonders this
 
 would be, to any one who was lucky enough to be unable to read.'
 
@@ -1735,19 +1735,19 @@ practical use to mankind, such as ploughing, cutting wood, or growing
 
 vegetables, would very probably be excluded; and it is not for us to
 
-criticise from the outside the philosophy of those who would keep out
+criticise from the outside the [[philosophy]] of those who would keep out
 
 the farmer and let in the forger. But let us suppose, if only for the
 
 sake of argument, that the peasant is walking under the artificial suns
 
-and stars of this tremendous thoroughfare; that he has escaped to the
+and [[Stars|stars]] of this tremendous thoroughfare; that he has escaped to the
 
-land of liberty upon some general rumour and romance of the story of
+land of liberty upon some general rumour and [[Romance|romance]] of the story of
 
 its liberation, but without being yet able to understand the arbitrary
 
-signs of its alphabet. The soul of such a man would surely soar higher
+signs of its alphabet. The [[Soul|soul]] of such a man would surely soar higher
 
 than the sky-scrapers, and embrace a brotherhood broader than Broadway.
 
@@ -1763,7 +1763,7 @@ comet. He would be shrewd enough to guess that the three festoons
 
 fringed with fiery words of somewhat similar pattern stood for
 
-'Government of the People, For the People, By the People'; for it must
+'[[government|Government]] of the People, For the People, By the People'; for it must
 
 obviously be that, unless it were 'Liberty, Equality, Fraternity.' His
 
@@ -1771,9 +1771,9 @@ shrewdness would perhaps be a little shaken if he knew that the triad
 
 stood for 'Tang Tonic To-day; Tang Tonic To-morrow; Tang Tonic All the
 
-Time.' He will soon identify a restless ribbon of red lettering, red hot
+[[Time]].' He will soon identify a restless ribbon of red lettering, red hot
 
-and rebellious, as the saying, 'Give me liberty or give me death.' He
+and rebellious, as the saying, 'Give me liberty or give me [[Death|death]].' He
 
 will fail to identify it as the equally famous saying, 'Skyoline Has
 
@@ -1781,9 +1781,9 @@ Gout Beaten to a Frazzle.' Therefore it was that I desired the peasant
 
 to walk down that grove of fiery trees, under all that golden foliage,
 
-and fruits like monstrous jewels, as innocent as Adam before the Fall.
+and fruits like monstrous jewels, as [[Innocent|innocent]] as Adam before the Fall.
 
-He would see sights almost as fine as the flaming sword or the purple
+He would see sights almost as fine as the flaming [[Sword|sword]] or the purple
 
 and peacock plumage of the seraphim; so long as he did not go near the
 
@@ -1791,37 +1791,37 @@ Tree of Knowledge.
 
 In other words, if once he went to school it would be all up; and indeed
 
-I fear in any case he would soon discover his error. If he stood wildly
+I [[Fear|fear]] in any case he would soon discover his error. If he stood wildly
 
-waving his hat for liberty in the middle of the road as Chunk Chutney
+waving his hat for liberty in the middle of the [[Road|road]] as Chunk Chutney
 
-picked itself out in ruby stars upon the sky, he would impede the
+picked itself out in ruby [[Stars|stars]] upon the sky, he would impede the
 
-excellent but extremely rigid traffic system of New York. If he fell on
+excellent but extremely rigid traffic system of [[New York]]. If he fell on
 
-his knees before a sapphire splendour, and began saying an Ave Maria
+his knees before a sapphire splendour, and began saying an Ave [[Maria]]
 
 under a mistaken association, he would be conducted kindly but firmly by
 
 an Irish policeman to a more authentic shrine. But though the foreign
 
-simplicity might not long survive in New York, it is quite a mistake to
+simplicity might not long survive in [[New York]], it is quite a mistake to
 
-suppose that such foreign simplicity cannot enter New York. He may be
+suppose that such foreign simplicity cannot enter [[New York]]. He may be
 
 excluded for being illiterate, but he cannot be excluded for being
 
-ignorant, nor for being innocent. Least of all can he be excluded for
+ignorant, nor for being [[Innocent|innocent]]. Least of all can he be excluded for
 
-being wiser in his innocence than the world in its knowledge. There is
+being wiser in his [[innocence]] than the world in its knowledge. There is
 
-here indeed more than one distinction to be made. New York is a
+here indeed more than one distinction to be made. [[New York]] is a
 
-cosmopolitan city; but it is not a city of cosmopolitans. Most of the
+cosmopolitan [[City|city]]; but it is not a [[City|city]] of cosmopolitans. Most of the
 
-masses in New York have a nation, whether or no it be the nation to
+masses in [[New York]] have a nation, whether or no it be the nation to
 
-which New York belongs. Those who are Americanised are American, and
+which [[New York]] belongs. Those who are Americanised are American, and
 
 very patriotically American. Those who are not thus nationalised are not
 
@@ -1833,7 +1833,7 @@ carry on the traditions of remote European valleys almost untouched. In
 
 short, there is a sort of slender bridge between their old country and
 
-their new, which they either cross or do not cross, but which they
+their new, which they either [[Cross|cross]] or do not [[Cross|cross]], but which they
 
 seldom simply occupy. They are exiles or they are citizens; there is no
 
@@ -1843,7 +1843,7 @@ them not only rooted traditions, but rooted truths.
 
 Indeed it is to a great extent the thought of these strange souls in
 
-crude American garb that gives a meaning to the masquerade of New York.
+crude American garb that gives a meaning to the masquerade of [[New York]].
 
 In the hotel where I stayed the head waiter in one room was a Bohemian;
 
@@ -1855,7 +1855,7 @@ of perpetually talking about Czecho-Slovakia. I suggested to my American
 
 friends that the abandonment of the word Bohemian in its historical
 
-sense might well extend to its literary and figurative sense. We might
+sense might [[Well|well]] extend to its literary and figurative sense. We might
 
 be expected to say, 'I'm afraid Henry has got into very Czecho-Slovakian
 
@@ -1865,7 +1865,7 @@ affair.' Anyhow my Bohemian would have nothing to do with such nonsense;
 
 he called himself a son of Bohemia, and spoke as such in his criticisms
 
-of America, which were both favourable and unfavourable. He was a squat
+of [[America]], which were both favourable and unfavourable. He was a squat
 
 man, with a sturdy figure and a steady smile; and his eyes were like
 
@@ -1873,7 +1873,7 @@ dark pools in the depth of a darker forest, but I do not think he had
 
 ever been deceived by the lights of Broadway.
 
-But I found something like my real innocent abroad, my real peasant
+But I found something like my real [[Innocent|innocent]] abroad, my real peasant
 
 among the sky-signs, in another part of the same establishment. He was a
 
@@ -1897,11 +1897,11 @@ said, 'Yes. From the earth we come and to the earth we return; when
 
 people get away from that they are lost.'
 
-To hear such a thing said by the waiter was alone an epoch in the life
+To hear such a thing said by the waiter was [[Alone|alone]] an epoch in the life
 
 of an unfortunate writer of fantastic novels. To see him clear away the
 
-clam chowder like an automaton, and bring me more iced water like an
+clam chowder like an automaton, and bring me more iced [[Water|water]] like an
 
 automaton or like nothing on earth except an American waiter (for piling
 
@@ -1915,7 +1915,7 @@ of the peasant admiring Broadway. So he passed, with his artificial
 
 clothes and manners, lit up with all the ghastly artificial light of the
 
-hotel, and all the ghastly artificial life of the city; and his heart
+hotel, and all the ghastly artificial life of the [[City|city]]; and his heart
 
 was like his own remote and rocky valley, where those unchanging words
 
@@ -1923,23 +1923,23 @@ were carved as on a rock.
 
 I do not profess to discuss here at all adequately the question this
 
-raises about the Americanisation of the Bulgar. It has many aspects, of
+raises about the [[americanisation|Americanisation]] of the Bulgar. It has many aspects, of
 
 some of which most Englishmen and even some Americans are rather
 
 unconscious. For one thing, a man with so rugged a loyalty to land could
 
-not be Americanised in New York; but it is not so certain that he could
+not be Americanised in [[New York]]; but it is not so certain that he could
 
-not be Americanised in America. We might almost say that a peasantry is
+not be Americanised in [[America]]. We might almost say that a peasantry is
 
-hidden in the heart of America. So far as our impressions go, it is a
+hidden in the heart of [[America]]. So far as our impressions go, it is a
 
 secret. It is rather an open secret; covering only some thousand square
 
 miles of open prairie. But for most of our countrymen it is something
 
-invisible, unimagined, and unvisited; the simple truth that where all
+invisible, unimagined, and unvisited; the simple [[Truth|truth]] that where all
 
 those acres are there is agriculture, and where all that agriculture is
 
@@ -1949,7 +1949,7 @@ equalised property, as in a peasantry. On the other hand, there are
 
 those who say that the Bulgar will never be Americanised, that he only
 
-comes to be a waiter in America that he may afford to return to be a
+comes to be a waiter in [[America]] that he may afford to return to be a
 
 peasant in Bulgaria. I cannot decide this issue, and indeed I did not
 
@@ -1959,25 +1959,25 @@ reflection that runs along the Great White Way, and I will continue to
 
 follow it. The criticism, if we could put it rightly, not only covers
 
-more than New York but more than the whole New World. Any argument
+more than [[New York]] but more than the whole New World. Any argument
 
 against it is quite as valid against the largest and richest cities of
 
-the Old World, against London or Liverpool or Frankfort or Belfast. But
+the Old World, against [[London]] or Liverpool or Frankfort or Belfast. But
 
-it is in New York that we see the argument most clearly, because we see
+it is in [[New York]] that we see the argument most clearly, because we see
 
 the thing thus towering into its own turrets and breaking into its own
 
 fireworks.
 
-I disagree with the aesthetic condemnation of the modern city with its
+I disagree with the aesthetic condemnation of the modern [[City|city]] with its
 
-sky-scrapers and sky-signs. I mean that which laments the loss of beauty
+sky-scrapers and sky-signs. I mean that which laments the loss of [[Beauty|beauty]]
 
 and its sacrifice to utility. It seems to me the very reverse of the
 
-truth. Years ago, when people used to say the Salvation Army doubtless
+[[Truth|truth]]. Years ago, when people used to say the Salvation Army doubtless
 
 had good intentions, but we must all deplore its methods, I pointed out
 
@@ -1987,11 +1987,11 @@ democratic appeal, is that of the Franciscans or any other march of the
 
 Church Militant. It was precisely its aims that were dubious, with their
 
-dissenting morality and despotic finance. It is somewhat the same with
+dissenting [[morality]] and despotic finance. It is somewhat the same with
 
 things like the sky-signs in Broadway. The aesthete must not ask me to
 
-mingle my tears with his, because these things are merely useful and
+mingle my [[Tears|tears]] with his, because these things are merely useful and
 
 ugly. For I am not specially inclined to think them ugly; but I am
 
@@ -2001,9 +2001,9 @@ sake, they seem to me rather artistic. As a form of practical social
 
 work they seem to me stark stupid waste. If Mr. Bilge is rich enough to
 
-build a tower four hundred feet high and give it a crown of golden
+build a tower four hundred feet high and give it a [[Crown|crown]] of golden
 
-crescents and crimson stars, in order to draw attention to his
+crescents and crimson [[Stars|stars]], in order to draw attention to his
 
 manufacture of the Paradise Tooth Paste or The Seventh Heaven Cigar, I
 
@@ -2011,9 +2011,9 @@ do not feel the least disposition to thank him for any serious form of
 
 social service. I have never tried the Seventh Heaven Cigar; indeed a
 
-premonition moves me towards the belief that I shall go down to the dust
+premonition moves me towards the belief that I shall go down to the [[Dust|dust]]
 
-without trying it. I have every reason to doubt whether it does any
+without trying it. I have every reason to [[Doubt|doubt]] whether it does any
 
 particular good to those who smoke it, or any good to anybody except
 
@@ -2023,27 +2023,27 @@ useful to Mr. Bilge, and all the rest is illusion and sentimentalism.
 
 But because I know that Bilge is only Bilge, shall I stoop to the
 
-profanity of saying that fire is only fire? Shall I blaspheme crimson
+profanity of saying that [[Fire|fire]] is only [[Fire|fire]]? Shall I blaspheme crimson
 
-stars any more than crimson sunsets, or deny that those moons are golden
+[[Stars|stars]] any more than crimson sunsets, or deny that those moons are golden
 
-any more than that this grass is green? If a child saw these coloured
+any more than that this grass is green? If a [[Child|child]] saw these coloured
 
-lights, he would dance with as much delight as at any other coloured
+lights, he would [[Dance|dance]] with as much delight as at any other coloured
 
 toys; and it is the duty of every poet, and even of every critic, to
 
-dance in respectful imitation of the child. Indeed I am in a mood of so
+[[Dance|dance]] in respectful [[Imitation|imitation]] of the [[Child|child]]. Indeed I am in a mood of so
 
-much sympathy with the fairy lights of this pantomime city, that I
+much sympathy with the fairy lights of this pantomime [[City|city]], that I
 
-should be almost sorry to see social sanity and a sense of proportion
+should be almost sorry to see social [[Sanity|sanity]] and a sense of proportion
 
-return to extinguish them. I fear the day is breaking, and the broad
+return to extinguish them. I [[Fear|fear]] the day is breaking, and the broad
 
-daylight of tradition and ancient truth is coming to end all this
+daylight of tradition and ancient [[Truth|truth]] is coming to end all this
 
-delightful nightmare of New York at night. Peasants and priests and all
+delightful [[nightmare]] of [[New York]] at [[Night|night]]. Peasants and priests and all
 
 sorts of practical and sensible people are coming back into power, and
 
@@ -2051,7 +2051,7 @@ their stern realism may wither all these beautiful, unsubstantial,
 
 useless things. They will not believe in the Seventh Heaven Cigar, even
 
-when they see it shining as with stars in the seventh heaven. They will
+when they see it shining as with [[Stars|stars]] in the seventh heaven. They will
 
 not be affected by advertisements, any more than the priests and
 
@@ -2065,7 +2065,7 @@ a little more hard-headed, humorous, and intellectually independent, see
 
 the rather simple joke; and are not impressed by this or any other form
 
-of self-praise. Almost any other men in almost any other age would have
+of [[Self|self]]-praise. Almost any other men in almost any other age would have
 
 seen the joke. If you had said to a man in the Stone Age, 'Ugg says Ugg
 
@@ -2075,17 +2075,17 @@ detachment and disinterestedness about the testimonial. If you had said
 
 to a medieval peasant, 'Robert the Bowyer proclaims, with three blasts
 
-of a horn, that he makes good bows,' the peasant would have said, 'Well,
+of a horn, that he makes good bows,' the peasant would have said, '[[Well]],
 
 of course he does,' and thought about something more important. It is
 
-only among people whose minds have been weakened by a sort of mesmerism
+only among people whose minds have been weakened by a sort of [[Mesmerism|mesmerism]]
 
 that so transparent a trick as that of advertisement could ever have
 
 been tried at all. And if ever we have again, as for other reasons I
 
-cannot but hope we shall, a more democratic distribution of property and
+cannot but [[Hope|hope]] we shall, a more democratic distribution of property and
 
 a more agricultural basis of national life, it would seem at first sight
 
@@ -2093,7 +2093,7 @@ only too likely that all this beautiful superstition will perish, and
 
 the fairyland of Broadway with all its varied rainbows fade away. For
 
-such people the Seventh Heaven Cigar, like the nineteenth-century city,
+such people the Seventh Heaven Cigar, like the nineteenth-century [[City|city]],
 
 will have ended in smoke. And even the smoke of it will have vanished.
 
@@ -2101,7 +2101,7 @@ But the next stage of reflection brings us back to the peasant looking
 
 at the lights of Broadway. It is not true to say in the strict sense
 
-that the peasant has never seen such things before. The truth is that he
+that the peasant has never seen such things before. The [[Truth|truth]] is that he
 
 has seen them on a much smaller scale, but for a much larger purpose.
 
@@ -2109,9 +2109,9 @@ Peasants also have their ritual and ornament, but it is to adorn more
 
 real things. Apart from our first fancy about the peasant who could not
 
-read, there is no doubt about what would be apparent to a peasant who
+read, there is no [[Doubt|doubt]] about what would be apparent to a peasant who
 
-could read, and who could understand. For him also fire is sacred, for
+could read, and who could understand. For him also [[Fire|fire]] is sacred, for
 
 him also colour is symbolic. But where he sets up a candle to light the
 
@@ -2123,7 +2123,7 @@ windows showing red for martyrs or blue for madonnas; but here he can
 
 only conclude that all the colours of the rainbow belong to Mr. Bilge.
 
-Now upon the aesthetic side he might well be impressed; but it is
+Now upon the aesthetic side he might [[Well|well]] be impressed; but it is
 
 exactly on the social and even scientific side that he has a right to
 
@@ -2135,9 +2135,9 @@ arrive at a great firework display in celebration of something; perhaps
 
 the Sacred Emperor's birthday, or rather birthnight. It would gradually
 
-dawn on the Chinese philosopher that the Emperor could hardly be born
+[[Dawn|dawn]] on the Chinese philosopher that the Emperor could hardly be born
 
-every night. And when he learnt the truth the philosopher, if he was a
+every [[Night|night]]. And when he learnt the [[Truth|truth]] the philosopher, if he was a
 
 philosopher, would be a little disappointed ... possibly a little
 
@@ -2147,9 +2147,9 @@ Compare, for instance, these everlasting fireworks with the damp squibs
 
 and dying bonfires of Guy Fawkes Day. That quaint and even queer
 
-national festival has been fading for some time out of English life.
+national festival has been fading for some [[Time|time]] out of English life.
 
-Still, it was a national festival, in the double sense that it
+Still, it was a national festival, in the [[Double|double]] sense that it
 
 represented some sort of public spirit pursued by some sort of popular
 
@@ -2189,27 +2189,27 @@ bolster and a paper mask, calling out
 
      Hit him in the eye.
 
-But I admit it is a disadvantage that they have not a saint or hero to
+But I admit it is a disadvantage that they have not a saint or [[Hero|hero]] to
 
-crown in effigy as well as a traitor to burn in effigy. I admit that
+[[Crown|crown]] in effigy as [[Well|well]] as a traitor to burn in effigy. I admit that
 
 popular Protestantism has become too purely negative for people to
 
-wreathe in flowers the statue of Mr. Kensit or even of Dr. Clifford. I
+wreathe in [[Flowers|flowers]] the statue of Mr. Kensit or even of Dr. [[Clifford]]. I
 
 do not disguise my preference for popular Catholicism; which still has
 
-statues that can be wreathed in flowers. I wish our national feast of
+statues that can be wreathed in [[Flowers|flowers]]. I wish our national feast of
 
 fireworks revolved round something positive and popular. I wish the
 
-beauty of a Catherine Wheel were displayed to the glory of St.
+[[Beauty|beauty]] of a Catherine [[Wheel]] were displayed to the glory of St.
 
 Catherine. I should not especially complain if Roman candles were really
 
 Roman candles. But this negative character does not destroy the national
 
-character; which began at least in disinterested faith and has ended at
+character; which began at least in disinterested [[Faith|faith]] and has ended at
 
 least in disinterested fun. There is nothing disinterested at all about
 
@@ -2223,13 +2223,13 @@ congratulated me on the impression I produced on a lady interviewer,
 
 observing, 'She says you're a regular guy.' This puzzled me a little at
 
-the time. 'Her description is no doubt correct,' I said, 'but I confess
+the [[Time|time]]. 'Her description is no [[Doubt|doubt]] correct,' I said, 'but I confess
 
 that it would never have struck me as specially complimentary.' But it
 
 appears that it is one of the most graceful of compliments, in the
 
-original American. A guy in America is a colourless term for a human
+original American. A guy in [[America]] is a colourless term for a human
 
 being. All men are guys, being endowed by their Creator with certain ...
 
@@ -2237,11 +2237,11 @@ but I am misled by another association. And a regular guy means, I
 
 presume, a reliable or respectable guy. The point here, however, is that
 
-the guy in the grotesque English sense does represent the dilapidated
+the guy in the [[Grotesque|grotesque]] English sense does represent the dilapidated
 
 remnant of a real human tradition of symbolising real historic ideals by
 
-the sacramental mystery of fire. It is a great fall from the lowest of
+the sacramental mystery of [[Fire|fire]]. It is a great fall from the lowest of
 
 these lowly bonfires to the highest of the modern sky-signs. The new
 
@@ -2265,7 +2265,7 @@ are imposed upon us by a mercantile minority, and we are merely passive
 
 to the suggestion. The hypnotist of high finance or big business merely
 
-writes his commands in heaven with a finger of fire. All men really are
+writes his commands in heaven with a finger of [[Fire|fire]]. All men really are
 
 guys, in the sense of dummies. We are only the victims of his
 
@@ -2277,41 +2277,41 @@ such art and architecture. It is not that it is toppling, but that it is
 
 top-heavy. It is not that it is vulgar, but rather that it is not
 
-popular. In other words, the democratic ideal of countries like America,
+popular. In other words, the democratic ideal of countries like [[America]],
 
 while it is still generally sincere and sometimes intense, is at issue
 
 with another tendency, an industrial progress which is of all things on
 
-earth the most undemocratic. America is not alone in possessing the
+earth the most undemocratic. [[America]] is not [[Alone|alone]] in possessing the
 
-industrialism, but she is alone in emphasising the ideal that strives
+industrialism, but she is [[Alone|alone]] in emphasising the ideal that strives
 
-with industrialism. Industrial capitalism and ideal democracy are
+with industrialism. Industrial capitalism and ideal [[democracy]] are
 
 everywhere in controversy; but perhaps only here are they in conflict.
 
 France has a democratic ideal; but France is not industrial. England and
 
-Germany are industrial; but England and Germany are not really
+[[Germany]] are industrial; but England and [[Germany]] are not really
 
 democratic. Of course when I speak here of industrialism I speak of
 
 great industrial areas; there is, as will be noted later, another side
 
-to all these countries; there is in America itself not only a great deal
+to all these countries; there is in [[America]] itself not only a great deal
 
 of agricultural society, but a great deal of agricultural equality;
 
-just as there are still peasants in Germany and may some day again be
+just as there are still peasants in [[Germany]] and may some day again be
 
 peasants in England. But the point is that the ideal and its enemy the
 
 reality are here crushed very close to each other in the high, narrow
 
-city; and that the sky-scraper is truly named because its top, towering
+[[City|city]]; and that the sky-scraper is truly named because its top, towering
 
-in such insolence, is scraping the stars off the American sky, the very
+in such insolence, is scraping the [[Stars|stars]] off the American sky, the very
 
 heaven of the American spirit.
 
@@ -2319,33 +2319,33 @@ That seems to me the main outline of the whole problem. In the first
 
 chapter of this book, I have emphasised the fact that equality is still
 
-the ideal though no longer the reality of America. I should like to
+the ideal though no longer the reality of [[America]]. I should like to
 
 conclude this one by emphasising the fact that the reality of modern
 
 capitalism is menacing that ideal with terrors and even splendours that
 
-might well stagger the wavering and impressionable modern spirit. Upon
+might [[Well|well]] stagger the wavering and impressionable modern spirit. Upon
 
 the issue of that struggle depends the question of whether this new
 
 great civilisation continues to exist, and even whether any one cares if
 
-it exists or not. I have already used the parable of the American flag,
+it exists or not. I have already used the [[Parable|parable]] of the American [[Flag|flag]],
 
-and the stars that stand for a multitudinous equality; I might here take
+and the [[Stars|stars]] that stand for a multitudinous equality; I might here take
 
-the opposite symbol of these artificial and terrestrial stars flaming on
+the opposite symbol of these artificial and terrestrial [[Stars|stars]] flaming on
 
-the forehead of the commercial city; and note the peril of the last
+the forehead of the commercial [[City|city]]; and note the peril of the last
 
-illusion, which is that the artificial stars may seem to fill the
+illusion, which is that the artificial [[Stars|stars]] may seem to fill the
 
-heavens, and the real stars to have faded from sight. But I am content
+heavens, and the real [[Stars|stars]] to have faded from sight. But I am content
 
 for the moment to reaffirm the merely imaginative pleasure of those
 
-dizzy turrets and dancing fires. If those nightmare buildings were
+dizzy turrets and dancing fires. If those [[nightmare]] buildings were
 
 really all built for nothing, how noble they would be! The fact that
 
@@ -2367,11 +2367,11 @@ written with a fiery finger, like that huge unhuman finger that wrote on
 
 Belshazzar's wall.... But what did it write on Belshazzar's wall?... I
 
-am content once more to end on a note of doubt and a rather dark
+am content once more to end on a note of [[Doubt|doubt]] and a rather dark
 
 sympathy with those many-coloured solar systems turning so dizzily, far
 
-up in the divine vacuum of the night.
+up in the divine vacuum of the [[Night|night]].
 
 'From the earth we come and to the earth we return; when people get away
 
@@ -2383,13 +2383,13 @@ It is often asked what should be the first thing that a man sees when he
 
 lands in a foreign country; but I think it should be the vision of his
 
-own country. At least when I came into New York Harbour, a sort of grey
+own country. At least when I came into [[New York]] Harbour, a sort of grey
 
 and green cloud came between me and the towers with multitudinous
 
-windows, white in the winter sunlight; and I saw an old brown house
+windows, white in the [[Winter|winter]] sunlight; and I saw an old brown [[house]]
 
-standing back among the beech-trees at home, the house of only one among
+standing back among the beech-trees at [[Home|home]], the [[house]] of only one among
 
 many friends and neighbours, but one somehow so sunken in the very heart
 
@@ -2401,7 +2401,7 @@ clear the vision that revisited me was something else. Before we touched
 
 land the men of my own guild, the journalists and reporters, had already
 
-boarded the ship like pirates. And one of them spoke to me in an accent
+boarded the [[Ship|ship]] like pirates. And one of them spoke to me in an accent
 
 that I knew; and thanked me for all I had done for Ireland. And it was
 
@@ -2433,7 +2433,7 @@ persecuted people at least this land had really been an asylum; even if
 
 recent legislation (as I have said) had made them think it a lunatic
 
-asylum. They had made it so much their home that the very colour of the
+asylum. They had made it so much their [[Home|home]] that the very colour of the
 
 country seemed to change with the infusion; as the bronze of the great
 
@@ -2449,15 +2449,15 @@ than his practice; and his defence more ill-considered than the most
 
 indefensible things that it was intended to defend. There is in this
 
-matter a curious tangle of cross-purposes, which only a parallel example
+matter a curious tangle of [[Cross|cross]]-purposes, which only a parallel example
 
 can make at all clear. And I will note the point here, because it is
 
 some testimony to its vivid importance that it was really the first I
 
-had to discuss on American soil with an American citizen. In a double
+had to discuss on American soil with an American citizen. In a [[Double|double]]
 
-sense I touched Ireland before I came to America. I will take an
+sense I touched Ireland before I came to [[America]]. I will take an
 
 imaginary instance from another controversy; in order to show how the
 
@@ -2465,13 +2465,13 @@ apology can be worse than the action. The best we can say for ourselves
 
 is worse than the worst that we can do.
 
-There was a time when English poets and other publicists could always be
+There was a [[Time|time]] when English poets and other publicists could always be
 
 inspired with instantaneous indignation about the persecuted Jews in
 
-Russia. We have heard less about them since we heard more about the
+[[Russia]]. We have heard less about them since we heard more about the
 
-persecuting Jews in Russia. I fear there are a great many middle-class
+persecuting Jews in [[Russia]]. I [[Fear|fear]] there are a great many middle-class
 
 Englishmen already who wish that Trotsky had been persecuted a little
 
@@ -2483,15 +2483,15 @@ never seen, in Warsaw, and the Jews whom they had often seen in
 
 Whitechapel. It seemed to be assumed that, by a curious coincidence,
 
-Russia possessed not only the very worst Anti-Semites but the very best
+[[Russia]] possessed not only the very worst Anti-Semites but the very best
 
-Semites. A moneylender in London might be like Judas Iscariot; but a
+Semites. A moneylender in [[London]] might be like Judas Iscariot; but a
 
 moneylender in Moscow must be like Judas Maccabaeus.
 
 Nevertheless there remained in our common sense an unconscious but
 
-fundamental comprehension of the unity of Israel; a sense that some
+fundamental comprehension of the [[unity]] of Israel; a sense that some
 
 things could be said, and some could not be said, about the Jews as a
 
@@ -2503,7 +2503,7 @@ Russian Anti-Semites, and suppose the answer had been somewhat as
 
 follows:--
 
-'It is all very well for foreigners to complain of our denying civic
+'It is all very [[Well|well]] for foreigners to complain of our denying civic
 
 rights to our Jewish subjects; but we know the Jews better than they do.
 
@@ -2523,9 +2523,9 @@ Their hopeless incapacity for commerce or finance would retard the
 
 progress of our people, would prevent the spread of any sort of economic
 
-education, would keep the whole country on a level lower than that of
+[[Education|education]], would keep the whole country on a level lower than that of
 
-the most prehistoric methods of barter. What Russia needs most is a
+the most prehistoric methods of barter. What [[Russia]] needs most is a
 
 mercantile middle class; and it is unjust to ask us to swamp its small
 
@@ -2533,7 +2533,7 @@ beginnings in thousands of these rude tribesmen, who cannot do a sum of
 
 simple addition, or understand the symbolic character of a threepenny
 
-bit. We might as well be asked to give civic rights to cows and pigs as
+bit. We might as [[Well|well]] be asked to give civic rights to cows and pigs as
 
 to this unhappy, half-witted race who can no more count than the beasts
 
@@ -2593,7 +2593,7 @@ saying, more or less humorously, that the Irishman rules them. A highly
 
 intelligent professor said to me in Boston, 'We have solved the Irish
 
-problem here; we have an entirely independent Irish Government.' While
+problem here; we have an entirely independent Irish [[government|Government]].' While
 
 we are complaining, in an almost passionate manner, of the impotence of
 
@@ -2603,7 +2603,7 @@ very indignant manner, of the power of great gangs of bosses and
 
 bullies. There are a great many Americans who pity the Irish, very
 
-naturally and very rightly, for the historic martyrdom which their
+naturally and very rightly, for the historic [[Martyrdom|martyrdom]] which their
 
 patriotism has endured. But there are a great many Americans who do not
 
@@ -2617,17 +2617,17 @@ Ireland tend to be the foes of England. We make one set of enemies by
 
 our action, and another by our apology.
 
-It is a thing that can from time to time be found in history; a
+It is a thing that can from [[Time|time]] to [[Time|time]] be found in [[history]]; a
 
 misunderstanding that really has a moral. The English excuse would carry
 
-much more weight if it had more sincerity and more humility. There are
+much more weight if it had more sincerity and more [[Humility|humility]]. There are
 
 a considerable number of people in the United States who could
 
-sympathise with us, if we would say frankly that we fear the Irish.
+sympathise with us, if we would say frankly that we [[Fear|fear]] the Irish.
 
-Those who thus despise our pity might possibly even respect our fear.
+Those who thus despise our pity might possibly even respect our [[Fear|fear]].
 
 The argument I have often used in other places comes back with
 
@@ -2651,7 +2651,7 @@ to penal servitude; and who connives at the continuance of the sentence,
 
 not because he himself is particularly vindictive, but because he is
 
-afraid of what the convict will do when he comes out of prison. This is
+afraid of what the convict will do when he comes out of [[Prison|prison]]. This is
 
 not exactly a moral strength, but it is a very human weakness; and that
 
@@ -2687,9 +2687,9 @@ or know the value of a coin.
 
 The first thing for any honest Englishman to send across the sea is
 
-this; that the English have not the shadow of a notion of what they are
+this; that the English have not the [[Shadow|shadow]] of a notion of what they are
 
-up against in America. They have never even heard of the batteries of
+up against in [[America]]. They have never even heard of the batteries of
 
 almost brutal energy, of which I had thus touched a live wire even
 
@@ -2711,11 +2711,11 @@ even poor. They are the most powerful and practical world-combination
 
 with whom we can decide to be friends or foes; and that is why I thought
 
-first of that still and solid brown house in Buckinghamshire, standing
+first of that still and solid brown [[house]] in Buckinghamshire, standing
 
-back in the shadow of the trees.
+back in the [[Shadow|shadow]] of the trees.
 
-Among my impressions of America I have deliberately put first the figure
+Among my impressions of [[America]] I have deliberately put first the figure
 
 of the Irish-American interviewer, standing on the shore more symbolic
 
@@ -2725,11 +2725,11 @@ English lay in the fact of his being an Irishman, but there was also
 
 considerable interest in the circumstance of his being an interviewer.
 
-And as certain wild birds sometimes wing their way far out to sea and
+And as certain wild [[Birds|birds]] sometimes wing their way far out to sea and
 
 are the first signal of the shore, so the first Americans the traveller
 
-meets are often American interviewers; and they are generally birds of a
+meets are often American interviewers; and they are generally [[Birds|birds]] of a
 
 feather, and they certainly flock together. In this respect, there is a
 
@@ -2743,7 +2743,7 @@ nobody in the world would in the least wish to interview me. I should
 
 attract no more attention than the stone griffin opposite the Law
 
-Courts; both monsters being grotesque but also familiar. But supposing
+Courts; both monsters being [[Grotesque|grotesque]] but also familiar. But supposing
 
 for the sake of argument that anybody did want to interview me, it is
 
@@ -2757,15 +2757,15 @@ rather bad journalism; it would have an air of stolen thunder, not to
 
 say stage thunder.
 
-But in America the fact of my landing and lecturing was evidently
+But in [[America]] the fact of my landing and lecturing was evidently
 
-regarded in the same light as a murder or a great fire, or any other
+regarded in the same light as a murder or a great [[Fire|fire]], or any other
 
 terrible but incurable catastrophe, a matter of interest to all pressmen
 
 concerned with practical events. One of the first questions I was asked
 
-was how I should be disposed to explain the wave of crime in New York.
+was how I should be disposed to explain the wave of crime in [[New York]].
 
 Naturally I replied that it might possibly be due to the number of
 
@@ -2779,7 +2779,7 @@ the moment, and even as a mood did not last more than a moment. And
 
 since it has reference to a rather common and a rather unjust conception
 
-of American journalism, I think it well to take it first as a fallacy to
+of American journalism, I think it [[Well|well]] to take it first as a fallacy to
 
 be refuted, though the refutation may require a rather longer approach.
 
@@ -2803,27 +2803,27 @@ feature that balances it. The ordinary examples are obvious enough. An
 
 Englishman dining inside a hotel on the boulevards thinks the French
 
-eccentric in refusing to open a window. But he does not think the
+eccentric in refusing to open a [[Window|window]]. But he does not think the
 
 English eccentric in refusing to carry their chairs and tables out on to
 
 the pavement in Ludgate Circus. An Englishman will go poking about in
 
-little Swiss or Italian villages, in wild mountains or in remote
+little Swiss or Italian villages, in wild [[Mountains|mountains]] or in remote
 
 islands, demanding tea; and never reflects that he is like a Chinaman
 
-who should enter all the wayside public-houses in Kent and Sussex and
+who should enter all the wayside public-houses in [[Kent]] and Sussex and
 
 demand opium. But the point is not merely that he demands what he cannot
 
 expect to enjoy; it is that he ignores even what he does enjoy. He does
 
-not realise the sublime and starry paradox of the phrase, _vin
+not realise the [[Sublime|sublime]] and starry [[Paradox|paradox]] of the phrase, _vin
 
 ordinaire_, which to him should be a glorious jest like the phrase
 
-'common gold' or 'daily diamonds.' These are the simple and self-evident
+'common gold' or 'daily diamonds.' These are the simple and [[Self|self]]-evident
 
 cases; but there are many more subtle cases of the same thing; of the
 
@@ -2833,11 +2833,11 @@ substitute; or corrects its own extravagance with its own precaution.
 
 The national antidote generally grows wild in the woods side by side
 
-with the national poison. If it did not, all the natives would be dead.
+with the national [[Poison|poison]]. If it did not, all the natives would be dead.
 
 For it is so, as I have said, that nations necessarily die of the
 
-undiluted poison called progress.
+undiluted [[Poison|poison]] called progress.
 
 It is so in this much-abused and over-abused example of the American
 
@@ -2865,7 +2865,7 @@ American journalists are supposed, with some exaggeration, to aim at. It
 
 might be more difficult for an Englishman to ask a total stranger on the
 
-spur of the moment for the exact inscription on his mother's grave; but
+spur of the moment for the exact [[Inscription|inscription]] on his mother's [[Grave|grave]]; but
 
 I really think that if an Englishman once got so far as that he would go
 
@@ -2873,7 +2873,7 @@ very much farther, and certainly go on very much longer. The Englishman
 
 would approach the churchyard by a rather more wandering woodland path;
 
-but if once he had got to the grave I think he would have much more
+but if once he had got to the [[Grave|grave]] I think he would have much more
 
 disposition, so to speak, to sit down on it. Our own national
 
@@ -2957,7 +2957,7 @@ troubles. I told them my general view of Labour in the very largest and
 
 perhaps the vaguest historical outline; pointing out that the one great
 
-truth to be taught to the middle classes was that Capitalism was itself
+[[Truth|truth]] to be taught to the middle classes was that Capitalism was itself
 
 a crisis, and a passing crisis; that it was not so much that it was
 
@@ -2973,7 +2973,7 @@ most faithfully reproduced by the interviewer, who had actually heard it
 
 casually and idly spoken. But on the top of this column of political
 
-philosophy was the extraordinary announcement in enormous letters,
+[[philosophy]] was the extraordinary announcement in enormous letters,
 
 'Chesterton Takes Sides in Trolley Strike.' This was inaccurate. When I
 
@@ -2983,7 +2983,7 @@ did not know what a trolley strike was. I should have had an indistinct
 
 idea that a large number of citizens earned their living by carrying
 
-things about in wheel-barrows, and that they had desisted from the
+things about in [[Wheel|wheel]]-barrows, and that they had desisted from the
 
 beneficent activities. Any one who did not happen to be a journalist, or
 
@@ -2995,9 +2995,9 @@ and written the title. But I know that we have here to deal with two
 
 different types of journalists; and the man who writes the headlines I
 
-will not dare to describe; for I have not seen him except in dreams.
+will not dare to describe; for I have not seen him except in [[Dreams|dreams]].
 
-Another innocent complication is that the interviewer does sometimes
+Another [[Innocent|innocent]] complication is that the interviewer does sometimes
 
 translate things into his native language. It would not seem odd that a
 
@@ -3005,7 +3005,7 @@ French interviewer should translate them into French; and it is certain
 
 that the American interviewer sometimes translates them into American.
 
-Those who imagine the two languages to be the same are more innocent
+Those who imagine the two languages to be the same are more [[Innocent|innocent]]
 
 than any interviewer. To take one out of the twenty examples, some of
 
@@ -3015,7 +3015,7 @@ had the reputation of being a nut. I should be flattered but faintly
 
 surprised at such a tribute to my dress and dashing exterior. I should
 
-afterwards be sobered and enlightened by discovering that in America a
+afterwards be sobered and enlightened by discovering that in [[America]] a
 
 nut does not mean a dandy but a defective or imbecile person. And as I
 
@@ -3035,7 +3035,7 @@ it. From the printed interview it appeared that I had said,
 
 'Prohibition! All matter of dollar sign.' This is almost avowed
 
-translation, like a French translation. Nobody can suppose that it would
+[[Translation|translation]], like a French [[Translation|translation]]. Nobody can suppose that it would
 
 come natural to an Englishman to talk about a dollar, still less about a
 
@@ -3057,7 +3057,7 @@ precise; and students of my literary and conversational style will be
 
 interested to know that I said, 'See here, Walt Whitman was your one
 
-real red-blooded man.' Here again I hardly think the translation can
+real red-blooded man.' Here again I hardly think the [[Translation|translation]] can
 
 have been quite unconscious; most of my intimates are indeed aware that
 
@@ -3065,9 +3065,9 @@ I do not talk like that, but I fancy that the same fact would have
 
 dawned on the journalist to whom I had been talking. And even this
 
-trivial point carries with it the two truths which must be, I fear, the
+trivial point carries with it the two truths which must be, I [[Fear|fear]], the
 
-rather monotonous moral of these pages. The first is that America and
+rather monotonous moral of these pages. The first is that [[America]] and
 
 England can be far better friends when sharply divided than when
 
@@ -3089,7 +3089,7 @@ plutocratic foundation of Prohibition. But the American knew at once
 
 that I meant it was a matter of dollar sign; probably because he knew
 
-very well that it is.
+very [[Well|well]] that it is.
 
 Then again there is a curious convention by which American interviewing
 
@@ -3099,7 +3099,7 @@ and insolent than the conversations. This is probably a part of the fact
 
 that a certain vivacity, which to some seems vitality and to some
 
-vulgarity, is not only an ambition but an ideal. It must always be
+vulgarity, is not only an [[Ambition|ambition]] but an ideal. It must always be
 
 grasped that this vulgarity is an ideal even more than it is a reality.
 
@@ -3125,11 +3125,11 @@ of how atrociously I had been insulted till I saw it in the paper next
 
 morning. I had no notion I had been on the rack of an inquisitor until I
 
-saw it in plain print; and then of course I believed it, with a faith
+saw it in plain print; and then of course I believed it, with a [[Faith|faith]]
 
-and docility unknown in any previous epoch of history. An interesting
+and docility unknown in any previous epoch of [[history]]. An interesting
 
-essay might be written upon points upon which nations affect more vices
+[[Essay|essay]] might be written upon points upon which nations affect more vices
 
 than they possess; and it might deal more fully with the American
 
@@ -3183,7 +3183,7 @@ another.
 
 _Some American Cities_
 
-There is one point, almost to be called a paradox, to be noted about New
+There is one point, almost to be called a [[Paradox|paradox]], to be noted about New
 
 York; and that is that in one sense it is really new. The term very
 
@@ -3197,17 +3197,17 @@ properly be called the old thoughtlessness; and the thing we call the
 
 New Poor Law is already old enough to know better. But there is a sense
 
-in which New York is always new; in the sense that it is always being
+in which [[New York]] is always new; in the sense that it is always being
 
-renewed. A stranger might well say that the chief industry of the
+renewed. A stranger might [[Well|well]] say that the chief industry of the
 
-citizens consists of destroying their city; but he soon realises that
+citizens consists of destroying their [[City|city]]; but he soon realises that
 
-they always start it all over again with undiminished energy and hope.
+they always start it all over again with undiminished energy and [[Hope|hope]].
 
 At first I had a fancy that they never quite finished putting up a big
 
-building without feeling that it was time to pull it down again; and
+building without feeling that it was [[Time|time]] to pull it down again; and
 
 that somebody began to dig up the first foundations while somebody else
 
@@ -3215,17 +3215,17 @@ was putting on the last tiles. This fills the whole of this brilliant
 
 and bewildering place with a quite unique and unparalleled air of rapid
 
-ruin. Ruins spring up so suddenly like mushrooms, which with us are the
+ruin. Ruins [[Spring|spring]] up so suddenly like mushrooms, which with us are the
 
 growth of age like mosses, that one half expects to see ivy climbing
 
-quickly up the broken walls as in the nightmare of the Time Machine, or
+quickly up the broken walls as in the [[nightmare]] of the [[Time]] [[Machine]], or
 
 in some incredibly accelerated cinema.
 
 There is no sight in any country that raises my own spirits so much as
 
-a scaffolding. It is a tragedy that they always take the scaffolding
+a scaffolding. It is a [[Tragedy|tragedy]] that they always take the scaffolding
 
 away, and leave us nothing but a mere building. If they would only take
 
@@ -3235,9 +3235,9 @@ cases be a gain to the loveliness of earth. If I could analyse what it
 
 is that lifts the heart about the lightness and clarity of such a white
 
-and wooden skeleton, I could explain what it is that is really charming
+and wooden [[skeleton]], I could explain what it is that is really charming
 
-about New York; in spite of its suffering from the curse of
+about [[New York]]; in spite of its [[Suffering|suffering]] from the curse of
 
 cosmopolitanism and even the provincial superstition of progress. It is
 
@@ -3251,17 +3251,17 @@ a carpenter; and secondly because he is a stage carpenter. Indeed there
 
 is about the whole scene the spirit of scene-shifting. It therefore
 
-touches whatever nerve in us has since childhood thrilled at all
+touches whatever nerve in us has since [[Childhood|childhood]] thrilled at all
 
 theatrical things. But the picture will be imperfect unless we realise
 
-something which gives it unity and marks its chief difference from the
+something which gives it [[unity]] and marks its chief difference from the
 
 climate and colours of Western Europe. We may say that the back-scene
 
-remains the same. The sky remained, and in the depths of winter it
+remains the same. The sky remained, and in the depths of [[Winter|winter]] it
 
-seemed to be blue with summer; and so clear that I almost flattered
+seemed to be blue with [[Summer|summer]]; and so clear that I almost flattered
 
 myself that clouds were English products like primroses. An American
 
@@ -3273,7 +3273,7 @@ England it is the heavens that are shifty. And indeed we have changes
 
 from day to day that would seem to him as distinct as different
 
-magic-lantern slides; one view showing the Bay of Naples and the next
+[[Magic|magic]]-lantern slides; one view showing the Bay of Naples and the next
 
 the North Pole. I do not mean, of course, that there are no changes in
 
@@ -3281,13 +3281,13 @@ American weather; but as a matter of proportion it is true that the most
 
 unstable part of our scenery is the most stable part of theirs. Indeed
 
-we might almost be pardoned the boast that Britain alone really
+we might almost be pardoned the boast that Britain [[Alone|alone]] really
 
 possesses the noble thing called weather; most other countries having to
 
 be content with climate. It must be confessed, however, that they often
 
-are content with it. And the beauty of New York, which is considerable,
+are content with it. And the [[Beauty|beauty]] of [[New York]], which is considerable,
 
 is very largely due to the clarity that brings out the colours of varied
 
@@ -3297,7 +3297,7 @@ myself repeating about this vista of the West two vivid lines in which
 
 Mr. W. B. Yeats has called up a vision of the East:--
 
-     And coloured like the eastern birds
+     And coloured like the eastern [[Birds|birds]]
 
      At evening in their rainless skies.
 
@@ -3305,41 +3305,41 @@ To invoke a somewhat less poetic parallel, even the untravelled
 
 Englishman has probably seen American posters and trade advertisements
 
-of a patchy and gaudy kind, in which a white house or a yellow motor-car
+of a patchy and gaudy kind, in which a white [[house]] or a yellow motor-car
 
 are cut out as in cardboard against a sky like blue marble. I used to
 
-think it was only New Art, but I found that it is really New York.
+think it was only New Art, but I found that it is really [[New York]].
 
-It is not for nothing that the very nature of local character has gained
+It is not for nothing that the very [[Nature|nature]] of local character has gained
 
 the nickname of local colour. Colour runs through all our experience;
 
-and we all know that our childhood found talismanic gems in the very
+and we all know that our [[Childhood|childhood]] found talismanic gems in the very
 
 paints in the paint-box, or even in their very names. And just as the
 
 very name of 'crimson lake' really suggested to me some sanguine and
 
-mysterious mere, dark yet red as blood, so the very name of 'burnt
+mysterious mere, dark yet red as [[Blood|blood]], so the very name of 'burnt
 
 sienna' became afterwards tangled up in my mind with the notion of
 
-something traditional and tragic; as if some such golden Italian city
+something traditional and tragic; as if some such golden Italian [[City|city]]
 
 had really been darkened by many conflagrations in the wars of mediaeval
 
-democracy. Now if one had the caprice of conceiving some city exactly
+[[democracy]]. Now if one had the caprice of conceiving some [[City|city]] exactly
 
-contrary to one thus seared and seasoned by fire, its colour might be
+contrary to one thus seared and seasoned by [[Fire|fire]], its colour might be
 
 called up to a childish fancy by the mere name of 'raw umber'; and such
 
-a city is New York. I used to be puzzled by the name of 'raw umber,'
+a [[City|city]] is [[New York]]. I used to be puzzled by the name of 'raw umber,'
 
 being unable to imagine the effect of fried umber or stewed umber. But
 
-the colours of New York are exactly in that key; and might be adumbrated
+the colours of [[New York]] are exactly in that key; and might be adumbrated
 
 by phrases like raw pink or raw yellow. It is really in a sense like
 
@@ -3349,7 +3349,7 @@ half-baked. And yet the effect is not only beautiful, it is even
 
 delicate. I had no name for this nuance; until I saw that somebody had
 
-written of 'the pastel-tinted towers of New York'; and I knew that the
+written of 'the pastel-tinted towers of [[New York]]'; and I knew that the
 
 name had been found. There are no paints dry enough to describe all that
 
@@ -3357,7 +3357,7 @@ dry light; and it is not a box of colours but of crayons. If the
 
 Englishman returning to England is moved at the sight of a block of
 
-white chalk, the American sees rather a bundle of chalks. Nor can I
+white [[chalk]], the American sees rather a bundle of chalks. Nor can I
 
 imagine anything more moving. Fairy tales are told to children about a
 
@@ -3379,15 +3379,15 @@ newly-turned earth or the white sections of trees. And it is in this
 
 respect that the local colour can literally be taken as local character.
 
-For New York considered in itself is primarily a place of unrest, and
+For [[New York]] considered in itself is primarily a place of unrest, and
 
-those who sincerely love it, as many do, love it for the romance of its
+those who sincerely [[Love|love]] it, as many do, [[Love|love]] it for the [[Romance|romance]] of its
 
-restlessness. A man almost looks at a building as he passes to wonder
+restlessness. A man almost looks at a building as he passes to [[Wonder|wonder]]
 
-whether it will be there when he comes back from his walk; and the doubt
+whether it will be there when he comes back from his walk; and the [[Doubt|doubt]]
 
-is part of an indescribable notion, as of a white nightmare of daylight,
+is part of an indescribable notion, as of a white [[nightmare]] of daylight,
 
 which is increased by the very numbering of the streets, with its tangle
 
@@ -3413,7 +3413,7 @@ vision of a mad mathematician, is rooted in a more real impression. His
 
 first feeling that his head is turning round is due to something really
 
-dizzy in the movement of a life that turns dizzily like a wheel. If
+dizzy in the movement of a life that turns dizzily like a [[Wheel|wheel]]. If
 
 there be in the modern mind something paradoxical that can find peace in
 
@@ -3427,19 +3427,19 @@ name, as I have said, seems to make a boast of novelty.
 
 That is something like a sincere first impression of the atmosphere of
 
-New York. Those who think that is the atmosphere of America have never
+[[New York]]. Those who think that is the atmosphere of [[America]] have never
 
-got any farther than New York. We might almost say that they have never
+got any farther than [[New York]]. We might almost say that they have never
 
-entered America, any more than if they had been detained like
+entered [[America]], any more than if they had been detained like
 
 undesirable aliens at Ellis Island. And indeed there are a good many
 
-undesirable aliens detained in Manhattan Island too. But of that I will
+undesirable aliens detained in [[Manhattan]] Island too. But of that I will
 
 not speak, being myself an alien with no particular pretensions to be
 
-desirable. Anyhow, such is New York; but such is not the New World. The
+desirable. Anyhow, such is [[New York]]; but such is not the New World. The
 
 great American Republic contains very considerable varieties, and of
 
@@ -3447,9 +3447,9 @@ these varieties I necessarily saw far too little to allow me to
 
 generalise. But from the little I did see, I should venture on the
 
-generalisation that the great part of America is singularly and even
+generalisation that the great part of [[America]] is singularly and even
 
-strikingly unlike New York. It goes without saying that New York is very
+strikingly unlike [[New York]]. It goes without saying that [[New York]] is very
 
 unlike the vast agricultural plains and small agricultural towns of the
 
@@ -3457,13 +3457,13 @@ Middle West, which I did see. It may be conjectured with some confidence
 
 that it is very unlike what is called the Wild and sometimes the Woolly
 
-West, which I did not see. But I am here comparing New York, not with
+West, which I did not see. But I am here comparing [[New York]], not with
 
-the newer states of the prairie or the mountains, but with the other
+the newer states of the prairie or the [[Mountains|mountains]], but with the other
 
-older cities of the Atlantic coast. And New York, as it seems to me, is
+older cities of the Atlantic coast. And [[New York]], as it seems to me, is
 
-quite vitally different from the other historic cities of America. It is
+quite vitally different from the other historic cities of [[America]]. It is
 
 so different that it shows them all for the moment in a false light, as
 
@@ -3473,15 +3473,15 @@ theatrical upon ancient and quiet villages folded in the everlasting
 
 hills. Philadelphia and Boston and Baltimore are more like those quiet
 
-villages than they are like New York.
+villages than they are like [[New York]].
 
-If I were to call this book 'The Antiquities of America,' I should give
+If I were to call this book 'The Antiquities of [[America]],' I should give
 
-rise to misunderstanding and possibly to annoyance. And yet the double
+rise to misunderstanding and possibly to annoyance. And yet the [[Double|double]]
 
 sense in such words is an undeserved misfortune for them. We talk of
 
-Plato or the Parthenon or the Greek passion for beauty as parts of the
+Plato or the Parthenon or the Greek passion for [[Beauty|beauty]] as parts of the
 
 antique, but hardly of the antiquated. When we call them ancient it is
 
@@ -3507,11 +3507,11 @@ purpose of their being; it is the benediction of the founders of the
 
 colonies and the fathers of the republic. This tradition is truly to be
 
-called life; for life alone can link the past and the future. It merely
+called life; for life [[Alone|alone]] can link the past and the future. It merely
 
 means that as what was done yesterday makes some difference to-day, so
 
-what is done to-day will make some difference to-morrow. In New York it
+what is done to-day will make some difference to-morrow. In [[New York]] it
 
 is difficult to feel that any day will make any difference. These
 
@@ -3523,7 +3523,7 @@ States I felt something quite sincerely of that historic emotion which
 
 is satisfied in the eternal cities of the Mediterranean. I felt in
 
-America what many Americans suppose can only be felt in Europe. I have
+[[America]] what many Americans suppose can only be felt in Europe. I have
 
 seldom had that sentiment stirred more simply and directly than when I
 
@@ -3531,11 +3531,11 @@ saw from afar off, above the vast grey labyrinth of Philadelphia, great
 
 Penn upon his pinnacle like the graven figure of a god who had fashioned
 
-a new world; and remembered that his body lay buried in a field at the
+a new world; and remembered that his [[Body|body]] lay buried in a field at the
 
 turning of a lane, a league from my own door.
 
-For this aspect of America is rather neglected in the talk about
+For this aspect of [[America]] is rather neglected in the talk about
 
 electricity and headlines. Needless to say, the modern vulgarity of
 
@@ -3553,7 +3553,7 @@ Canterbury was killed but did not die. It is at least as possible for a
 
 Philadelphian to feel the presence of Penn and Franklin as for an
 
-Englishman to see the ghosts of Alfred and of Becket. Tradition does not
+Englishman to see the [[Ghosts|ghosts]] of Alfred and of Becket. Tradition does not
 
 mean a dead town; it does not mean that the living are dead but that the
 
@@ -3561,7 +3561,7 @@ dead are alive. It means that it still matters what Penn did two hundred
 
 years ago or what Franklin did a hundred years ago; I never could feel
 
-in New York that it mattered what anybody did an hour ago. And these
+in [[New York]] that it mattered what anybody did an hour ago. And these
 
 things did and do matter. Quakerism is not my favourite creed; but on
 
@@ -3571,7 +3571,7 @@ treaty with the Red Indians, his creed of humanity did have a triumph
 
 and a triumph that has not turned back. The praise given to him is not a
 
-priggish fiction of our conventional history, though such fictions have
+priggish fiction of our conventional [[history]], though such fictions have
 
 illogically curtailed it. The Nonconformists have been rather unfair to
 
@@ -3583,11 +3583,11 @@ Those who deify him for consenting to bargain with the savages cannot
 
 forgive him for consenting to bargain with the Stuarts. And the same is
 
-true of the other city, yet more closely connected with the tolerant
+true of the other [[City|city]], yet more closely connected with the tolerant
 
 experiment of the Stuarts. The state of Maryland was the first
 
-experiment in religious freedom in human history. Lord Baltimore and his
+experiment in religious [[Freedom|freedom]] in human [[history]]. Lord Baltimore and his
 
 Catholics were a long march ahead of William Penn and his Quakers on
 
@@ -3607,13 +3607,13 @@ accidental; it will always remain with me with a mixture of gratitude
 
 and grief, for they brought a message of welcome from a great American
 
-whose name I had known from childhood and whose career was drawing to
+whose name I had known from [[Childhood|childhood]] and whose career was drawing to
 
-its close; for it was but a few days after I left the city that I
+its close; for it was but a few days after I left the [[City|city]] that I
 
 learned that Cardinal Gibbons was dead.
 
-On the top of a hill on one side of the town stood the first monument
+On the top of a [[Hill|hill]] on one side of the town stood the first monument
 
 raised after the Revolution to Washington. Beyond it was a new monument
 
@@ -3643,7 +3643,7 @@ never finish--
 
      If I ever go back to Baltimore
 
-     The city of Maryland.
+     The [[City|city]] of Maryland.
 
 But the poem would have to contain far too much; for I was thinking of a
 
@@ -3667,11 +3667,11 @@ already a Prince of the Church was dying. Only on a later page can I
 
 even attempt to comb out such a tangle of contrasts, which is indeed the
 
-tangle of America and this mortal life; but sitting there on that stone
+tangle of [[America]] and this mortal life; but sitting there on that stone
 
 seat under that quiet sky, I had some experience of the thronging
 
-thousands of living thoughts and things, noisy and numberless as birds,
+thousands of living thoughts and things, noisy and numberless as [[Birds|birds]],
 
 that give its everlasting vivacity and vitality to a dead town.
 
@@ -3697,11 +3697,11 @@ side the places are more prosaic than the names and on the other the
 
 names are more prosaic than the places. St. Louis is a fine town, and we
 
-recognise a fine instinct of the imagination that set on the hill
+recognise a fine instinct of the [[Imagination|imagination]] that set on the [[Hill|hill]]
 
-overlooking the river the statue of that holy horseman who has
+overlooking the [[River|river]] the statue of that holy horseman who has
 
-christened the city. But the city is not as beautiful as its name; it
+christened the [[City|city]]. But the [[City|city]] is not as beautiful as its name; it
 
 could not be. Indeed these titles set up a standard to which the most
 
@@ -3711,7 +3711,7 @@ commercial chimneys and sky-signs conspicuously sink. We should think it
 
 odd if Belfast had borne the name of Joan of Arc. We should be slightly
 
-shocked if the town of Johannesburg happened to be called Jesus Christ.
+shocked if the town of Johannesburg happened to be called Jesus [[Christ]].
 
 But few have noted a blasphemy, or even a somewhat challenging
 
@@ -3721,9 +3721,9 @@ But on the other hand a place like Boston is much more beautiful than
 
 its name. And, as I have suggested, an Englishman's general information,
 
-or lack of information, leaves him in some ignorance of the type of
+or lack of information, [[Leaves|leaves]] him in some ignorance of the type of
 
-beauty that turns up in that type of place. He has heard so much about
+[[Beauty|beauty]] that turns up in that type of place. He has heard so much about
 
 the purely commercial North as against the agricultural and
 
@@ -3739,15 +3739,15 @@ in Philadelphia, is the sort of thing that we in England should expect
 
 to find rather in New Orleans. The academic aristocracy of Boston, which
 
-Oliver Wendell Holmes called the Brahmins, is still a reality though it
+[[Oliver]] Wendell Holmes called the Brahmins, is still a reality though it
 
-was always a minority and is now a very small minority. An epigram,
+was always a minority and is now a very small minority. An [[Epigram|epigram]],
 
 invented by Yale at the expense of Harvard, describes it as very small
 
 indeed:--
 
-     Here is to jolly old Boston, the home of the bean and the cod,
+     Here is to jolly old Boston, the [[Home|home]] of the bean and the cod,
 
      Where Cabots speak only to Lowells, and Lowells speak only to God.
 
@@ -3763,7 +3763,7 @@ Amy Lowell, and broadened his sympathies so indiscriminately as to show
 
 kindness and hospitality to so lost a being as an English lecturer. But
 
-if the thing is hardly a limit it is very living as a memory; and Boston
+if the thing is hardly a limit it is very living as a [[Memory|memory]]; and Boston
 
 on this side is very much a place of memories. It would be paying it a
 
@@ -3775,25 +3775,25 @@ vanished from England. There are old brown houses in the corners of
 
 squares and streets that are like glimpses of a man's forgotten
 
-childhood; and when I saw the long path with posts where the Autocrat
+[[Childhood|childhood]]; and when I saw the long path with posts where the Autocrat
 
 may be supposed to have walked with the schoolmistress, I felt I had
 
 come to the land where old tales come true.
 
-I pause in this place upon this particular aspect of America because it
+I pause in this place upon this particular aspect of [[America]] because it
 
 is very much missed in a mere contrast with England. I need not say that
 
 if I felt it even about slight figures of fiction, I felt it even more
 
-about solid figures of history. Such ghosts seemed particularly solid in
+about solid figures of [[history]]. Such [[Ghosts|ghosts]] seemed particularly solid in
 
 the Southern States, precisely because of the comparative quietude and
 
 leisure of the atmosphere of the South. It was never more vivid to me
 
-than when coming in, at a quiet hour of the night, into the
+than when coming in, at a quiet hour of the [[Night|night]], into the
 
 comparatively quiet hotel at Nashville in Tennessee, and mounting to a
 
@@ -3803,11 +3803,11 @@ picture; and from the dark canvas looked forth the face of Andrew
 
 Jackson, watchful like a white eagle.
 
-At that moment, perhaps, I was in more than one sense alone. Most
+At that moment, perhaps, I was in more than one sense [[Alone|alone]]. Most
 
 Englishmen know a good deal of American fiction, and nothing whatever of
 
-American history. They know more about the autocrat of the
+American [[history]]. They know more about the autocrat of the
 
 breakfast-table than about the autocrat of the army and the people, the
 
@@ -3815,7 +3815,7 @@ one great democratic despot of modern times; the Napoleon of the New
 
 World. The only notion the English public ever got about American
 
-politics they got from a novel, _Uncle Tom's Cabin_; and to say the
+politics they got from a [[Novel|novel]], _Uncle Tom's Cabin_; and to say the
 
 least of it, it was no exception to the prevalence of fiction over fact.
 
@@ -3823,7 +3823,7 @@ Hundreds of us have heard of Tom Sawyer for one who has heard of Charles
 
 Sumner; and it is probable that most of us could pass a more detailed
 
-examination about Toddy and Budge than about Lincoln and Lee. But in
+examination about Toddy and Budge than about [[Lincoln]] and Lee. But in
 
 the case of Andrew Jackson it may be that I felt a special sense of
 
@@ -3835,15 +3835,15 @@ great man was largely directed towards saving us from the chief evil
 
 which destroys the nations to-day. He sought to cut down, as with a
 
-sword of simplicity, the new and nameless enormity of finance; and he
+[[Sword|sword]] of simplicity, the new and nameless enormity of finance; and he
 
-must have known, as by a lightning flash, that the people were behind
+must have known, as by a [[Lightning|lightning]] flash, that the people were behind
 
 him, because all the politicians were against him. The end of that
 
-struggle is not yet; but if the bank is stronger than the sword or the
+struggle is not yet; but if the bank is stronger than the [[Sword|sword]] or the
 
-sceptre of popular sovereignty, the end will be the end of democracy. It
+sceptre of popular sovereignty, the end will be the end of [[democracy]]. It
 
 will have to choose between accepting an acknowledged dictator and
 
@@ -3861,9 +3861,9 @@ great popular dictator who made war on the politicians and the
 
 financiers. This chapter does not profess to touch on one in twenty of
 
-the interesting cities of America, even in this particular aspect of
+the interesting cities of [[America]], even in this particular aspect of
 
-their relation to the history of America, which is so much neglected in
+their relation to the [[history]] of [[America]], which is so much neglected in
 
 England. If that were so, there would be a great deal to say even about
 
@@ -3879,17 +3879,17 @@ with industrialism. It is due to the Americans to remember that they
 
 have deliberately preserved one of their cities from such defilement and
 
-such disease. And that is the presidential city, which stands in the
+such disease. And that is the presidential [[City|city]], which stands in the
 
 American mind for the same ideal as the President; the idea of the
 
 Republic that rises above modern money-getting and endures. There has
 
-really been an effort to keep the White House white. No factories are
+really been an effort to keep the White [[house|House]] white. No factories are
 
 allowed in that town; no more than the necessary shops are tolerated. It
 
-is a beautiful city; and really retains something of that classical
+is a beautiful [[City|city]]; and really retains something of that classical
 
 serenity of the eighteenth century in which the Fathers of the Republic
 
@@ -3903,9 +3903,9 @@ In this, as in so many things, there is no harm in our criticising
 
 foreigners, if only we would also criticise ourselves. In other words,
 
-the world might need even less of its new charity, if it had a little
+the world might need even less of its new [[Charity|charity]], if it had a little
 
-more of the old humility. When we complain of American individualism, we
+more of the old [[Humility|humility]]. When we complain of American [[Individualism|individualism]], we
 
 forget that we have fostered it by ourselves having far less of this
 
@@ -3919,7 +3919,7 @@ way for it by allowing them all to accumulate in the possession of
 
 English magnates. It is bad that a public treasure should be in the
 
-possession of a private man in America, but we took the first step in
+possession of a private man in [[America]], but we took the first step in
 
 lightly letting it disappear into the private collection of a man in
 
@@ -3941,7 +3941,7 @@ There were wilder stories of a millionaire wishing to transplant
 
 Glastonbury Abbey and similar buildings as if they were portable shrubs
 
-in pots. It is obvious that it is nonsense as well as vandalism to
+in pots. It is obvious that it is nonsense as [[Well|well]] as vandalism to
 
 separate Glastonbury Abbey from Glastonbury. I can understand a man
 
@@ -3953,7 +3953,7 @@ idolatrise it; it is meaningless to desecrate the shrine in order to
 
 worship the stones. That sort of thing is the bad side of American
 
-appetite and ambition; and we are perfectly right to see it not only as
+appetite and [[Ambition|ambition]]; and we are perfectly right to see it not only as
 
 a deliberate blasphemy but as an unconscious buffoonery. But there is
 
@@ -3963,7 +3963,7 @@ in our own tradition. And it is illustrated in this idea of preserving
 
 Washington as a sort of paradise of impersonal politics without personal
 
-commerce. Nobody could buy the White House or the Washington Monument;
+commerce. Nobody could buy the White [[house|House]] or the Washington Monument;
 
 it may be hinted (as by an inhabitant of Glastonbury) that nobody wants
 
@@ -4009,11 +4009,11 @@ superstition and its up-to-date vulgarity. But somehow the one
 
 impression that had never pierced through their description was the
 
-simple and single impression of a city on a hill, with walls coming to
+simple and single impression of a [[City|city]] on a [[Hill|hill]], with walls coming to
 
 the very edge of slopes that were almost as steep as walls; the turreted
 
-city which crowns a cone-shaped hill in so many mediaeval landscapes.
+[[City|city]] which crowns a cone-shaped [[Hill|hill]] in so many mediaeval landscapes.
 
 One would suppose that this was at once the plainest and most
 
@@ -4021,29 +4021,29 @@ picturesque of all the facts; yet somehow, in my reading, I had always
 
 lost it amid a mass of minor facts that were merely details. We know
 
-that a city that is set upon a hill cannot be hid; and yet it would seem
+that a [[City|city]] that is set upon a [[Hill|hill]] cannot be hid; and yet it would seem
 
-that it is exactly the hill that is hid; though perhaps it is only hid
+that it is exactly the [[Hill|hill]] that is hid; though perhaps it is only hid
 
 from the wise and the understanding. I had a similar and simple
 
-impression when I discovered America. I cannot avoid the phrase; for it
+impression when I discovered [[America]]. I cannot avoid the phrase; for it
 
 would really seem that each man discovers it for himself.
 
 Thus I had heard a great deal, before I saw them, about the tall and
 
-dominant buildings of New York. I agree that they have an instant effect
+dominant buildings of [[New York]]. I agree that they have an instant effect
 
-on the imagination; which I think is increased by the situation in which
+on the [[Imagination|imagination]]; which I think is increased by the situation in which
 
 they stand, and out of which they arose. They are all the more
 
 impressive because the building, while it is vertically so vast, is
 
-horizontally almost narrow. New York is an island, and has all the
+horizontally almost narrow. [[New York]] is an island, and has all the
 
-intensive romance of an island. It is a thing of almost infinite height
+intensive [[Romance|romance]] of an island. It is a thing of almost infinite height
 
 upon very finite foundations. It is almost like a lofty lighthouse upon
 
@@ -4065,17 +4065,17 @@ world was a sort of new Pharaoh, who built not so much a pyramid as a
 
 pagoda of pyramids. It would suggest houses built by mammoths out of
 
-mountains; the cities reared by elephants in their own elephantine
+[[Mountains|mountains]]; the cities reared by elephants in their own elephantine
 
-school of architecture. And New York does recall the most famous of all
+school of architecture. And [[New York]] does recall the most famous of all
 
 sky-scrapers--the tower of Babel. She recalls it none the less because
 
-there is no doubt about the confusion of tongues. But in truth the very
+there is no [[Doubt|doubt]] about the confusion of tongues. But in [[Truth|truth]] the very
 
-reverse is true of most of the buildings in America. I had no sooner
+reverse is true of most of the buildings in [[America]]. I had no sooner
 
-passed out into the suburbs of New York on the way to Boston than I
+passed out into the suburbs of [[New York]] on the way to Boston than I
 
 began to see something else quite contrary and far more curious. I saw
 
@@ -4097,7 +4097,7 @@ I do not say this in any sense as a criticism. As it happens, I am
 
 particularly fond of wood. Of all the superstitions which our fathers
 
-took lightly enough to love, the most natural seems to me the notion it
+took lightly enough to [[Love|love]], the most natural seems to me the notion it
 
 is lucky to touch wood. Some of them affect me the less as
 
@@ -4117,11 +4117,11 @@ those ideas which are truly popular, because they are truly poetic. It
 
 is probable enough that the conception came originally from the healing
 
-of the wood of the Cross; but that only clinches the divine coincidence.
+of the wood of the [[Cross]]; but that only clinches the divine coincidence.
 
 It is like that other divine coincidence that the Victim was a
 
-carpenter, who might almost have made His own cross. Whether we take the
+carpenter, who might almost have made His own [[Cross|cross]]. Whether we take the
 
 mystical or the mythical explanation, there is obviously a very deep
 
@@ -4131,11 +4131,11 @@ mysticism. It gives something like a touch of the holy childishness to
 
 the tale, as if that terrible engine could be a toy. In the same fashion
 
-a child fancies that mysterious and sinister horse, which was the
+a [[Child|child]] fancies that mysterious and sinister [[Horse|horse]], which was the
 
 downfall of Troy, as something plain and staring, and perhaps spotted,
 
-like his own rocking-horse in the nursery.
+like his own rocking-[[Horse|horse]] in the nursery.
 
 It might be said symbolically that Americans have a taste for
 
@@ -4149,29 +4149,29 @@ Something of this restlessness in the race may really be involved in the
 
 matter; but I think the deeper significance of the rocking-chair may
 
-still be found in the deeper symbolism of the rocking-horse. I think
+still be found in the deeper symbolism of the rocking-[[Horse|horse]]. I think
 
 there is behind all this fresh and facile use of wood a certain spirit
 
 that is childish in the good sense of the word; something that is
 
-innocent, and easily pleased. It is not altogether untrue, still less is
+[[Innocent|innocent]], and easily pleased. It is not altogether untrue, still less is
 
 it unfriendly, to say that the landscape seems to be dotted with dolls'
 
-houses. It is the true tragedy of every fallen son of Adam that he has
+houses. It is the true [[Tragedy|tragedy]] of every fallen son of Adam that he has
 
-grown too big to live in a doll's house. These things seem somehow to
+grown too big to live in a doll's [[house]]. These things seem somehow to
 
-escape the irony of time by not even challenging it; they are too
+escape the irony of [[Time|time]] by not even challenging it; they are too
 
 temporary even to be merely temporal. These people are not building
 
 tombs; they are not, as in the fine image of Mrs. Meynell's poem, merely
 
-building ruins. It is not easy to imagine the ruins of a doll's house;
+building ruins. It is not easy to imagine the ruins of a doll's [[house]];
 
-and that is why a doll's house is an everlasting habitation. How far it
+and that is why a doll's [[house]] is an everlasting habitation. How far it
 
 promises a political permanence is a matter for further discussion; I am
 
@@ -4191,7 +4191,7 @@ have been educated on American literature. It is true, and it is
 
 inevitable, that they can only be educated on rather old-fashioned
 
-American literature. Mr. Bernard Shaw, in one of his plays, noted truly
+American literature. Mr. Bernard [[Shaw]], in one of his plays, noted truly
 
 the limitations of the young American millionaire, and especially the
 
@@ -4205,7 +4205,7 @@ staleness is necessarily a disadvantage is, of course, a different
 
 question. But, in any case, it is true that the old American books were
 
-often the books of our childhood, even in the literal sense of the books
+often the books of our [[Childhood|childhood]], even in the literal sense of the books
 
 of our nursery. I know few men in England who have not left their
 
@@ -4215,7 +4215,7 @@ Finn_. I know few women in England, from the most revolutionary
 
 Suffragette to the most carefully preserved Early Victorian, who will
 
-not confess to having passed a happy childhood with the Little Women of
+not confess to having passed a happy [[Childhood|childhood]] with the Little Women of
 
 Miss Alcott. _Helen's Babies_ was the first and by far the best book in
 
@@ -4227,7 +4227,7 @@ even fed, our growing minds. Perhaps it was the smell of growing things;
 
 but I am far from certain that it was not simply the smell of wood. Now
 
-that all the memory comes back to me, it seems to come back heavy in a
+that all the [[Memory|memory]] comes back to me, it seems to come back heavy in a
 
 hundred forms with the fragrance and the touch of timber. There was the
 
@@ -4243,9 +4243,9 @@ wood, which could only be expressed in symbol and even in fantasy. I
 
 will not go so far as to say that it shortened the transition from Log
 
-Cabin to White House; as if the White House were itself made of white
+Cabin to White [[house|House]]; as if the White [[house|House]] were itself made of white
 
-wood (as Oliver Wendell Holmes said), 'that cuts like cheese, but lasts
+wood (as [[Oliver]] Wendell Holmes said), 'that cuts like [[cheese]], but lasts
 
 like iron for things like these.' But I will say that the experience
 
@@ -4267,15 +4267,15 @@ It was therefore with an almost infantile pleasure that I looked at all
 
 this promising expansion of fresh-cut timber and thought of the housing
 
-shortage at home. I know not by what incongruous movement of the mind
+shortage at [[Home|home]]. I know not by what incongruous movement of the mind
 
 there swept across me, at the same moment, the thought of things
 
 ancestral and hoary with the light of ancient dawns. The last war
 
-brought back body-armour; the next war may bring back bows and arrows.
+brought back [[Body|body]]-armour; the next war may bring back bows and arrows.
 
-And I suddenly had a memory of old wooden houses in London; and a model
+And I suddenly had a [[Memory|memory]] of old wooden houses in [[London]]; and a model
 
 of Shakespeare's town.
 
@@ -4289,13 +4289,13 @@ confronted with a placard inscribed in enormous letters, 'Watch Us
 
 Grow.' He can always imagine that he sees the timbers swelling before
 
-his eyes like pumpkins in some super-tropical summer. But he may have
+his eyes like pumpkins in some super-tropical [[Summer|summer]]. But he may have
 
 formed the conviction that no such proclamation could be found outside
 
 Shakespeare's town. And indeed there is a serious criticism here, to any
 
-one who knows history; since the things that grow are not always the
+one who knows [[history]]; since the things that grow are not always the
 
 things that remain; and pumpkins of that expansiveness have a tendency
 
@@ -4311,9 +4311,9 @@ fine enthusiasms; the one thing I could not always feel clear about was
 
 their future. I believe they were happier in their frame-houses than
 
-most people in most houses; having democracy, good education, and a
+most people in most houses; having [[democracy]], good [[Education|education]], and a
 
-hobby of work; the one doubt that did float across me was something
+hobby of work; the one [[Doubt|doubt]] that did float across me was something
 
 like, 'Will all this be here at all in two hundred years?' That was the
 
@@ -4341,7 +4341,7 @@ those fields will count for a great deal in the affairs of humanity.
 
 They are already counting for a great deal, and possibly for too much,
 
-in the affairs of America. The real criticism of the Middle West is
+in the affairs of [[America]]. The real criticism of the Middle West is
 
 concerned with two facts, neither of which has been yet adequately
 
@@ -4349,7 +4349,7 @@ appreciated by the educated class in England. The first is that the turn
 
 of the world has come, and the turn of the agricultural countries with
 
-it. That is the meaning of the resurrection of Ireland; that is the
+it. That is the meaning of the [[Resurrection|resurrection]] of Ireland; that is the
 
 meaning of the practical surrender of the Bolshevist Jews to the Russian
 
@@ -4361,25 +4361,25 @@ the one considerable place where they still carry on the Puritan
 
 tradition. But the Puritan tradition was originally a tradition of the
 
-town; and the second truth about the Middle West turns largely on its
+town; and the second [[Truth|truth]] about the Middle West turns largely on its
 
 moral relation to the town. As I shall suggest presently, there is much
 
-in common between this agricultural society of America and the great
+in common between this agricultural society of [[America]] and the great
 
 agricultural societies of Europe. It tends, as the agricultural society
 
-nearly always does, to some decent degree of democracy. The agricultural
+nearly always does, to some decent degree of [[democracy]]. The agricultural
 
-society tends to the agrarian law. But in Puritan America there is an
+society tends to the agrarian law. But in Puritan [[America]] there is an
 
 additional problem, which I can hardly explain without a periphrasis.
 
-There was a time when the progress of the cities seemed to mock the
+There was a [[Time|time]] when the progress of the cities seemed to mock the
 
-decay of the country. It is more and more true, I think, to-day that it
+[[Decay|decay]] of the country. It is more and more true, I think, to-day that it
 
-is rather the decay of the cities that seems to poison the progress and
+is rather the [[Decay|decay]] of the cities that seems to [[Poison|poison]] the progress and
 
 promise of the countryside. The cinema boasts of being a substitute for
 
@@ -4395,7 +4395,7 @@ but he need never move at the movies. Thus in the real village inn are
 
 the real village politics, while in the other are only the remote and
 
-unreal metropolitan politics. And those central city politics are not
+unreal metropolitan politics. And those central [[City|city]] politics are not
 
 only cosmopolitan politics but corrupt politics. They corrupt everything
 
@@ -4409,33 +4409,33 @@ feminism and the factory. It is very largely the point about feminism
 
 and many other callings, apparently more cultured than the factory, such
 
-as the law court and the political platform. When I see women so wildly
+as the law [[Court|court]] and the political platform. When I see women so wildly
 
-anxious to tie themselves to all this machinery of the modern city my
+anxious to tie themselves to all this machinery of the modern [[City|city]] my
 
 first feeling is not indignation, but that dark and ominous sort of pity
 
-with which we should see a crowd rushing to embark in a leaking ship
+with which we should see a crowd rushing to embark in a leaking [[Ship|ship]]
 
-under a lowering storm. When I see wives and mothers going in for
+under a lowering [[Storm|storm]]. When I see wives and mothers going in for
 
-business government I not only regard it as a bad business but as a
+business [[government]] I not only regard it as a bad business but as a
 
 bankrupt business. It seems to me very much as if the peasant women,
 
-just before the French Revolution, had insisted on being made duchesses
+just before the [[French Revolution]], had insisted on being made duchesses
 
 or (as is quite as logical and likely) on being made dukes.
 
 It is as if those ragged women, instead of crying out for bread, had
 
-cried out for powder and patches. By the time they were wearing them
+cried out for powder and patches. By the [[Time|time]] they were wearing them
 
 they would be the only people wearing them. For powder and patches soon
 
 went out of fashion, but bread does not go out of fashion. In the same
 
-way, if women desert the family for the factory, they may find they have
+way, if women [[Desert|desert]] the family for the factory, they may find they have
 
 only done it for a deserted factory. It would have been very unwise of
 
@@ -4451,15 +4451,15 @@ tiresome to be taught all those tricks just when the whole bag of tricks
 
 was coming to an end. A French satirist might have written a fine
 
-apologue about Jacques Bonhomme coming up to Paris in his wooden shoes
+apologue about Jacques Bonhomme coming up to [[Paris]] in his wooden shoes
 
 and demanding to be made Gold Stick in Waiting in the name of Liberty,
 
-Equality, and Fraternity; but I fear the stick in waiting would be
+Equality, and Fraternity; but I [[Fear|fear]] the stick in waiting would be
 
 waiting still.
 
-One of the first topics on which I heard conversation turning in America
+One of the first topics on which I heard conversation turning in [[America]]
 
 was that of a very interesting book called _Main Street_, which involves
 
@@ -4469,15 +4469,15 @@ feminine. It is simply the story, or perhaps rather the study than the
 
 story, of a young married woman in one of the multitudinous little towns
 
-on the great central plains of America; and of a sort of struggle
+on the great central plains of [[America]]; and of a sort of struggle
 
 between her own more restless culture and the provincial prosperity of
 
 her neighbours. There are a number of true and telling suggestions in
 
-the book, but the one touch which I found tingling in the memory of many
+the book, but the one touch which I found tingling in the [[Memory|memory]] of many
 
-readers was the last sentence, in which the master of the house, with
+readers was the last sentence, in which the master of the [[house]], with
 
 unshaken simplicity, merely asks for the whereabouts of some domestic
 
@@ -4487,7 +4487,7 @@ request, but from the way people talked about it one might suppose he
 
 had asked for a screw-driver to screw down the wife in her coffin. And a
 
-great many advanced persons would tell us that wooden house in which
+great many advanced persons would tell us that wooden [[house]] in which
 
 she lived really was like a wooden coffin. But this appears to me to be
 
@@ -4503,19 +4503,19 @@ but even as the ideal. Revolutionary wars have been waged to establish
 
 this; revolutionary heroes have fought, and revolutionary martyrs have
 
-died, only to build such a wooden house for such a worthy family. Men
+died, only to build such a wooden [[house]] for such a worthy family. Men
 
-have taken the sword and perished by the sword in order that the poor
+have taken the [[Sword|sword]] and perished by the [[Sword|sword]] in order that the poor
 
 gentleman might have liberty to look for his screw-driver. For there is
 
-here a fact about America that is almost entirely unknown in England.
+here a fact about [[America]] that is almost entirely unknown in England.
 
-The English have not in the least realised the real strength of America.
+The English have not in the least realised the real strength of [[America]].
 
 We in England hear a great deal, we hear far too much, about the
 
-economic energy of industrial America, about the money of Mr. Morgan, or
+economic energy of industrial [[America]], about the money of Mr. Morgan, or
 
 the machinery of Mr. Edison. We never realise that while we in England
 
@@ -4571,15 +4571,15 @@ a case against the gentleman and the screw-driver. And when we have
 
 noted what it really is, we have noted the real disadvantage in a
 
-situation like that of modern America, and especially the Middle West.
+situation like that of modern [[America]], and especially the Middle West.
 
-And with that we come back to the truth with which I started this
+And with that we come back to the [[Truth|truth]] with which I started this
 
-speculation; the truth that few have yet realised, but of which I, for
+speculation; the [[Truth|truth]] that few have yet realised, but of which I, for
 
 one, am more and more convinced--that industrialism is spreading because
 
-it is decaying; that only the dust and ashes of its dissolution are
+it is decaying; that only the [[Dust|dust]] and ashes of its dissolution are
 
 choking up the growth of natural things everywhere and turning the green
 
@@ -4611,7 +4611,7 @@ its vitality by its variety. We know the adventures of the three
 
 brothers in the old fairy tales who passed across the endless plain from
 
-city to city, and found one kingdom ruled by a wizard and another wasted
+[[City|city]] to [[City|city]], and found one kingdom ruled by a wizard and another wasted
 
 by a dragon, one people living in castles of crystal and another sitting
 
@@ -4621,17 +4621,17 @@ adventures of a traveller passing from one patch of peasantry to
 
 another, and finding women wearing strange head-dresses and men singing
 
-new songs.
+new [[songs]].
 
-A traveller in America would be somewhat surprised if he found the
+A traveller in [[America]] would be somewhat surprised if he found the
 
-people in the city of St. Louis all wearing crowns and crusading armour
+people in the [[City|city]] of St. Louis all wearing crowns and crusading armour
 
-in honour of their patron saint. He might even feel some faint surprise
+in [[Honour|honour]] of their patron saint. He might even feel some faint surprise
 
 if he found all the citizens of Philadelphia clad in a composite
 
-costume, combining that of a Quaker with that of a Red Indian, in honour
+costume, combining that of a Quaker with that of a Red Indian, in [[Honour|honour]]
 
 of the noble treaty of William Penn. Yet these are the sort of local and
 
@@ -4639,7 +4639,7 @@ traditional things that would really be found giving variety to the
 
 valleys of mediaeval Europe. I myself felt a perfectly genuine and
 
-generous exhilaration of freedom and fresh enterprise in new places like
+generous exhilaration of [[Freedom|freedom]] and fresh enterprise in new places like
 
 Oklahoma. But you would hardly find in Oklahoma what was found in
 
@@ -4651,15 +4651,15 @@ Oklahoma as that it does not come from Oklahoma. In other words, these
 
 people have on the economic side a much closer approach than we have to
 
-economic freedom. It is not for us, who have allowed our land to be
+economic [[Freedom|freedom]]. It is not for us, who have allowed our land to be
 
 stolen by squires and then vulgarised by sham squires, to sneer at such
 
 colonists as merely crude and prosaic. They at least have really kept
 
-something of the simplicity and, therefore, the dignity of democracy;
+something of the simplicity and, therefore, the dignity of [[democracy]];
 
-and that democracy may yet save their country even from the calamities
+and that [[democracy]] may yet save their country even from the calamities
 
 of wealth and science.
 
@@ -4671,9 +4671,9 @@ become intellectual. Their culture, and to some great extent their
 
 creed, do come along the railroads from the great modern urban centres,
 
-and bring with them a blast of death and a reek of rotting things. It is
+and bring with them a blast of [[Death|death]] and a reek of rotting things. It is
 
-that influence that alone prevents the Middle West from progressing
+that influence that [[Alone|alone]] prevents the Middle West from progressing
 
 towards the Middle Ages.
 
@@ -4687,19 +4687,19 @@ is no reason why the screw-driver that seemed such a trifle to the
 
 author should not have been borne in triumph down Main Street like a
 
-sword of state, in some pageant of the Guild of St. Joseph of the
+[[Sword|sword]] of state, in some pageant of the Guild of St. Joseph of the
 
 Carpenters or St. Dunstan of the Smiths. It was the Catholic poetry and
 
 piety that filled common life with something that is lacking in the
 
-worthy and virile democracy of the West. Nor are Americans of
+worthy and virile [[democracy]] of the West. Nor are Americans of
 
 intelligence so ignorant of this as some may suppose. There is an
 
 admirable society called the Mediaevalists in Chicago; whose name and
 
-address will strike many as suggesting a certain struggle of the soul
+address will strike many as suggesting a certain struggle of the [[Soul|soul]]
 
 against the environment. With the national heartiness they blazon their
 
@@ -4707,7 +4707,7 @@ note-paper with heraldry and the hues of Gothic windows; with the
 
 national high spirits they assume the fancy dress of friars; but any one
 
-who should essay to laugh at them instead of with them would find out
+who should [[Essay|essay]] to laugh at them instead of with them would find out
 
 his mistake. For many of them do really know a great deal about
 
@@ -4731,7 +4731,7 @@ Even on the huge Puritan plains of the Middle West the influence strays
 
 in the strangest fashion. And it is notable that among the pessimistic
 
-epitaphs of the Spoon River Anthology, in that churchyard compared with
+epitaphs of the Spoon [[River]] Anthology, in that churchyard compared with
 
 which most churchyards are cheery, among the suicides and secret
 
@@ -4747,35 +4747,35 @@ in its multiplicity of mildly half-educated people; and all these
 
 historic things are a thousand miles from them. They have not heard the
 
-ancient noise either of arts or arms; the building of the cathedral or
+ancient noise either of arts or arms; the building of the [[Cathedral|cathedral]] or
 
 the marching of the crusade. But at least they have not deliberately
 
-slandered the crusade and defaced the cathedral. And if they have not
+slandered the crusade and defaced the [[Cathedral|cathedral]]. And if they have not
 
 produced the peasant arts, they can still produce the peasant crafts.
 
 They can sow and plough and reap and live by these everlasting things;
 
-nor shall the foundations of their state be moved. And the memory of
+nor shall the foundations of their state be moved. And the [[Memory|memory]] of
 
 those colossal fields, of those fruitful deserts, came back the more
 
 readily into my mind because I finished these reflections in the very
 
-heart of a modern industrial city, if it can be said to have a heart. It
+heart of a modern [[Industrial City|industrial city]], if it can be said to have a heart. It
 
-was in fact an English industrial city, but it struck me that it might
+was in fact an English [[Industrial City|industrial city]], but it struck me that it might
 
-very well be an American one. And it also struck me that we yield rather
+very [[Well|well]] be an American one. And it also struck me that we yield rather
 
-too easily to America the dusty palm of industrial enterprise, and feel
+too easily to [[America]] the dusty palm of industrial enterprise, and feel
 
 far too little apprehension about greener and fresher vegetables. There
 
-is a story of an American who carefully studied all the sights of London
+is a story of an American who carefully studied all the sights of [[London]]
 
-or Rome or Paris, and came to the conclusion that 'it had nothing on
+or Rome or [[Paris]], and came to the conclusion that 'it had nothing on
 
 Minneapolis.' It seems to me that Minneapolis has nothing on Manchester.
 
@@ -4787,7 +4787,7 @@ a blade of grass; the whole horizon was so infinite with efficiency. The
 
 factory chimneys might have been Pittsburg; the sky-signs might have
 
-been New York. One looked up in a sort of despair at the sky, not for a
+been [[New York]]. One looked up in a sort of [[Despair|despair]] at the sky, not for a
 
 sky-sign but in a sense for a sign, for some sentence of significance
 
@@ -4795,7 +4795,7 @@ and judgment; by the instinct that makes any man in such a scene seek
 
 for the only thing that has not been made by men. But even that was
 
-illogical, for it was night, and I could only expect to see the stars,
+illogical, for it was [[Night|night]], and I could only expect to see the [[Stars|stars]],
 
 which might have reminded me of Old Glory; but that was not the sign
 
@@ -4821,7 +4821,7 @@ therefore a bird of prey. But when he ultimately escaped to the land of
 
 the free, he might find the same bird on the American coinage figuring
 
-as a bird of freedom. Doubtless, he might find many other things to
+as a bird of [[Freedom|freedom]]. Doubtless, he might find many other things to
 
 surprise him in the land of the free, and many calculated to make him
 
@@ -4829,13 +4829,13 @@ think that the bird, if not imperial, was at least rather imperious. But
 
 I am not discussing those exceptional details here. It is equally
 
-obvious that a Russian reactionary might cross the world with a vow of
+obvious that a Russian reactionary might [[Cross|cross]] the world with a vow of
 
-vengeance against the red flag. But that authoritarian might have some
+vengeance against the red [[Flag|flag]]. But that authoritarian might have some
 
 difficulties with the authorities, if he shot a man for using the red
 
-flag on the railway between Willesden and Clapham Junction.
+[[Flag|flag]] on the railway between Willesden and Clapham Junction.
 
 But, of course, the difficulty about symbols is generally much more
 
@@ -4847,7 +4847,7 @@ has not read about. It may be a small or secondary thing, but it is a
 
 thing that he has seen and not merely expected to see.
 
-I gave the example of the great multitude of wooden houses in America;
+I gave the example of the great multitude of wooden houses in [[America]];
 
 we might say of wooden towns and wooden cities. But after he has seen
 
@@ -4861,19 +4861,19 @@ it; but even on the face of it, it might mean many different and even
 
 opposite things.
 
-For instance, a wooden house might suggest an almost savage solitude; a
+For instance, a wooden [[house]] might suggest an almost savage [[Solitude|solitude]]; a
 
 rude shanty put together by a pioneer in a forest; or it might mean a
 
 very recent and rapid solution of the housing problem, conducted cheaply
 
-and therefore on a very large scale. A wooden house might suggest the
+and therefore on a very large scale. A wooden [[house]] might suggest the
 
-very newest thing in America or one of the very oldest things in
+very newest thing in [[America]] or one of the very oldest things in
 
 England. It might mean a grey ruin at Stratford or a white exhibition at
 
-Earl's Court.
+Earl's [[Court]].
 
 It is when we come to this interpretation of international symbols that
 
@@ -4889,9 +4889,9 @@ very commonplace and trivial objects of modern life--a walking stick and
 
 a fur coat.
 
-As it happened, I travelled about America with two sticks, like a
+As it happened, I travelled about [[America]] with two sticks, like a
 
-Japanese nobleman with his two swords. I fear the simile is too stately.
+Japanese nobleman with his two swords. I [[Fear|fear]] the simile is too stately.
 
 I bore more resemblance to a cripple with two crutches or a highly
 
@@ -4903,15 +4903,15 @@ them in my erratic travels. One is a very plain grey stick from the
 
 woods of Buckinghamshire, but as I took it with me to Palestine it
 
-partakes of the character of a pilgrim's staff. When I can say that I
+partakes of the character of a [[Pilgrim|pilgrim]]'s staff. When I can say that I
 
 have taken the same stick to Jerusalem and to Chicago, I think the stick
 
 and I may both have a rest. The other, which I value even more, was
 
-given me by the Knights of Columbus at Yale, and I wish I could think
+given me by the Knights of [[Columbus]] at Yale, and I wish I could think
 
-that their chivalric title allowed me to regard it as a sword.
+that their chivalric title allowed me to regard it as a [[Sword|sword]].
 
 Now, I do not know whether the Americans I met, struck by the fastidious
 
@@ -4927,7 +4927,7 @@ by Englishmen than by Americans; it is that the sticks which are carried
 
 by Americans stand for something entirely different.
 
-In America a stick is commonly called a cane, and it has about it
+In [[America]] a stick is commonly called a cane, and it has about it
 
 something of the atmosphere which the poet described as the nice conduct
 
@@ -4963,9 +4963,9 @@ sort of man who has carried the stick through his native woods, and
 
 perhaps even cut it in his native woods.
 
-There are plenty of these vigorous loungers, no doubt, in the rural
+There are plenty of these vigorous loungers, no [[Doubt|doubt]], in the rural
 
-parts of America, but the idea of a walking stick would not especially
+parts of [[America]], but the idea of a walking stick would not especially
 
 suggest them to Americans; it would not call up such figures like a
 
@@ -4977,7 +4977,7 @@ old squire, a man vigorous and even rustic, but trained to hold a
 
 useless staff rather than a useful tool. It might be suggested that
 
-American citizens do at least so far love freedom as to like to have
+American citizens do at least so far [[Love|love]] [[Freedom|freedom]] as to like to have
 
 their hands free. It might be suggested, on the other hand, that they
 
@@ -4993,7 +4993,7 @@ impression is, and how misleading it is, he could find something like a
 
 parallel in what he himself feels about a fur coat. When I first found
 
-myself among the crowds on the main floor of a New York hotel, my rather
+myself among the crowds on the main floor of a [[New York]] hotel, my rather
 
 exaggerated impression of the luxury of the place was largely produced
 
@@ -5047,11 +5047,11 @@ the cold until he is warm enough to eat ices. But the point is that the
 
 same coat of fur which in England would indicate the sybarite life may
 
-here very well indicate the strenuous life; just as the same walking
+here very [[Well|well]] indicate the strenuous life; just as the same walking
 
 stick which would here suggest a lounger would in England suggest a
 
-plodder and almost a pilgrim.
+plodder and almost a [[Pilgrim|pilgrim]].
 
 And these two trifles are types which I should like to put, by way of
 
@@ -5067,25 +5067,25 @@ have come from the careful record of very true facts. They have come
 
 from the fatal power of observing the facts without being able to
 
-observe the truth. They came from seeing the symbol with the most vivid
+observe the [[Truth|truth]]. They came from seeing the symbol with the most vivid
 
 clarity and being blind to all that it symbolises. It is as if a man who
 
-knew no Greek should imagine that he could read a Greek inscription
+knew no Greek should imagine that he could read a Greek [[Inscription|inscription]]
 
 because he took the Greek R for an English P or the Greek long E for an
 
 English H. I do not mention this merely as a criticism on other people's
 
-impressions of America, but as a criticism on my own. I wish it to be
+impressions of [[America]], but as a criticism on my own. I wish it to be
 
-understood that I am well aware that all my views are subject to this
+understood that I am [[Well|well]] aware that all my views are subject to this
 
 sort of potential criticism, and that even when I am certain of the
 
 facts I do not profess to be certain of the deductions.
 
-In this chapter I hope to point out how a misunderstanding of this kind
+In this chapter I [[Hope|hope]] to point out how a misunderstanding of this kind
 
 affects the common impression, not altogether unfounded, that the
 
@@ -5093,7 +5093,7 @@ Americans talk about dollars. But for the moment I am merely anxious to
 
 avoid a similar misunderstanding when I talk about Americans. About the
 
-dogmas of democracy, about the right of a people to its own symbols,
+dogmas of [[democracy]], about the right of a people to its own symbols,
 
 whether they be coins or customs, I am convinced, and no longer to be
 
@@ -5105,17 +5105,17 @@ pay for the great glory of nationality. And in this sense I am quite
 
 ready, at the start, to warn my own readers against my own opinions.
 
-The fact without the truth is futile; indeed the fact without the truth
+The fact without the [[Truth|truth]] is futile; indeed the fact without the [[Truth|truth]]
 
 is false. I have already noted that this is especially true touching our
 
 observations of a strange country; and it is certainly true touching one
 
-small fact which has swelled into a large fable. I mean the fable about
+small fact which has swelled into a large [[Fable|fable]]. I mean the [[Fable|fable]] about
 
-America commonly summed up in the phrase about the Almighty Dollar. I do
+[[America]] commonly summed up in the phrase about the Almighty Dollar. I do
 
-not think the dollar is almighty in America; I fancy many things are
+not think the dollar is almighty in [[America]]; I fancy many things are
 
 mightier, including many ideals and some rather insane ideals. But I
 
@@ -5141,7 +5141,7 @@ would be utterly useless and even fundamentally false. It is as if we
 
 should calculate that the word 'elephant' had been mentioned a certain
 
-number of times in a particular London street, or so many times more
+number of times in a particular [[London]] street, or so many times more
 
 often than the word 'thunderbolt' had been used in Stoke Poges.
 
@@ -5151,7 +5151,7 @@ statistics also; and doubtless there are scientific social reformers
 
 capable of legislating on the basis of them. They would probably argue
 
-from the elephantine imagery of the London street that such and such a
+from the elephantine imagery of the [[London]] street that such and such a
 
 percentage of the householders were megalomaniacs and required medical
 
@@ -5161,17 +5161,17 @@ all such calculations, would leave out the only important point; as that
 
 the street was in the immediate neighbourhood of the Zoo, or was yet
 
-more happily situated under the benignant shadow of the Elephant and
+more happily situated under the benignant [[Shadow|shadow]] of the Elephant and
 
-Castle. And in the same way the mechanical calculation about the mention
+[[Castle]]. And in the same way the mechanical calculation about the mention
 
 of dollars is entirely useless unless we have some moral understanding
 
-of why they are mentioned. It certainly does not mean merely a love of
+of why they are mentioned. It certainly does not mean merely a [[Love|love]] of
 
-money; and if it did, a love of money may mean a great many very
+money; and if it did, a [[Love|love]] of money may mean a great many very
 
-different and even contrary things. The love of money is very different
+different and even contrary things. The [[Love|love]] of money is very different
 
 in a peasant or in a pirate, in a miser or in a gambler, in a great
 
@@ -5187,9 +5187,9 @@ deeper things in the Englishman, of which the Englishman is even more
 
 ignorant.
 
-To begin with, I fancy that the American, quite apart from any love of
+To begin with, I fancy that the American, quite apart from any [[Love|love]] of
 
-money, has a great love of measurement. He will mention the exact size
+money, has a great [[Love|love]] of measurement. He will mention the exact size
 
 or weight of things, in a way which appears to us as irrelevant. It is
 
@@ -5197,7 +5197,7 @@ as if we were to say that a man came to see us carrying three feet of
 
 walking stick and four inches of cigar. It is so in cases that have no
 
-possible connection with any avarice or greed for gain. An American will
+possible connection with any avarice or [[Greed|greed]] for gain. An American will
 
 praise the prodigal generosity of some other man in giving up his own
 
@@ -5227,13 +5227,13 @@ a certain godlike appetite for things, as distinct from thoughts.
 
 But there is also, of course, a much deeper cause of the difference; and
 
-it can easily be deduced by noting the real nature of the difference
+it can easily be deduced by noting the real [[Nature|nature]] of the difference
 
 itself. When two business men in a train are talking about dollars I am
 
-not so foolish as to expect them to be talking about the philosophy of
+not so foolish as to expect them to be talking about the [[philosophy]] of
 
-St. Thomas Aquinas. But if they were two English business men I should
+St. Thomas [[aquinas|Aquinas]]. But if they were two English business men I should
 
 not expect them to be talking about business. Probably it would be about
 
@@ -5251,13 +5251,13 @@ neither and in effect it involves both. It is certainly connected with
 
 that snobbishness which is the great sin of English society. The
 
-Englishman does love to conceive himself as a sort of country gentleman;
+Englishman does [[Love|love]] to conceive himself as a sort of country gentleman;
 
 and his castles in the air are all castles in Scotland rather than in
 
-Spain. For, as an ideal, a Scotch castle is as English as a Welsh
+Spain. For, as an ideal, a Scotch [[Castle|castle]] is as English as a Welsh
 
-rarebit or an Irish stew. And if he talks less about money I fear it is
+rarebit or an Irish stew. And if he talks less about money I [[Fear|fear]] it is
 
 sometimes because in one sense he thinks more of it. Money is a mystery
 
@@ -5277,7 +5277,7 @@ clatter, in making general a very real respect for work. He has partly
 
 disenchanted the dangerous glamour of the gentleman, and in that sense
 
-has achieved some degree of democracy; which is the most difficult
+has achieved some degree of [[democracy]]; which is the most difficult
 
 achievement in the world.
 
@@ -5287,9 +5287,9 @@ leisure, and one which the American spirit tends to miss. It may be
 
 expressed in the word 'holiday' or still better in the word 'hobby.' The
 
-Englishman, in his character of Robin Hood, really has got two strings
+Englishman, in his character of [[Robin Hood]], really has got two strings
 
-to his bow. Indeed the Englishman really is well represented by Robin
+to his bow. Indeed the Englishman really is [[Well|well]] represented by Robin
 
 Hood; for there is always something about him that may literally be
 
@@ -5307,7 +5307,7 @@ treasure is. Browning expressed a very English sentiment when he said:--
 
      Candlestick-maker much acquaints
 
-     His soul with song, or haply mute
+     His [[Soul|soul]] with [[Song|song]], or haply mute
 
      Blows out his brains upon the flute.
 
@@ -5321,7 +5321,7 @@ achievement of the American meat-salesman is that his poetic enthusiasm
 
 can really be for meat sales; not for money but for meat. An American
 
-commercial traveller asked me, with a religious fire in his eyes,
+commercial traveller asked me, with a religious [[Fire|fire]] in his eyes,
 
 whether I did not think that salesmanship could be an art. In England
 
@@ -5331,13 +5331,13 @@ art of salesmanship. Art is with them a hobby; a thing of leisure and
 
 liberty. That is why the English traveller talks, if not of art, then of
 
-sport. That is why the two city men in the London train, if they are not
+sport. That is why the two [[City|city]] men in the [[London]] train, if they are not
 
 talking about golf, may be talking about gardening. If they are not
 
 talking about dollars, or the equivalent of dollars, the reason lies
 
-much deeper than any superficial praise or blame touching the desire for
+much deeper than any superficial praise or blame touching the [[Desire|desire]] for
 
 wealth. In the English case, at least, it lies very deep in the English
 
@@ -5351,23 +5351,23 @@ casually that they can be attributed to the most improbable people; even
 
 to Bacon. The sonnets of Shakespeare are picked up afterwards as if out
 
-of a wastepaper basket. The immortality of Dr. Johnson does not rest on
+of a wastepaper basket. The [[Immortality|immortality]] of Dr. Johnson does not rest on
 
-the written leaves he collected, but entirely on the words he wasted,
+the written [[Leaves|leaves]] he collected, but entirely on the words he wasted,
 
-the words he scattered to the winds. So great a thing as Pickwick is
+the words he scattered to the winds. So great a thing as [[Pickwick]] is
 
 almost a kind of accident; it began as something secondary and grew into
 
 something primary and pre-eminent. It began with mere words written to
 
-illustrate somebody else's pictures; and swelled like an epic expanded
+illustrate somebody else's pictures; and swelled like an [[Epic|epic]] expanded
 
-from an epigram. It might almost be said that in the case of Pickwick
+from an [[Epigram|epigram]]. It might almost be said that in the case of [[Pickwick]]
 
-the author began as the servant of the artist. But, as in the same story
+the author began as the servant of the [[Artist|artist]]. But, as in the same story
 
-of Pickwick, the servant became greater than the master. This
+of [[Pickwick]], the servant became greater than the master. This
 
 incalculable and accidental quality, like all national qualities, has
 
@@ -5393,15 +5393,15 @@ brains upon the flute there is always a danger that he may blow them out
 
 somewhere else, owing to depressed conditions in the candlestick market.
 
-Now certainly one of the first impressions of America, or at any rate
+Now certainly one of the first impressions of [[America]], or at any rate
 
-of New York, which is by no means the same thing as America, is that of
+of [[New York]], which is by no means the same thing as [[America]], is that of
 
 a sort of mob of business men, behaving in many ways in a fashion very
 
-different from that of the swarms of London city men who go up every day
+different from that of the swarms of [[London]] [[City|city]] men who go up every day
 
-to the city. They sit about in groups with Red-Indian gravity, as if
+to the [[City|city]]. They sit about in groups with Red-Indian gravity, as if
 
 passing the pipe of peace; though, in fact, most of them are smoking
 
@@ -5419,13 +5419,13 @@ not know; whether it is a more economical way of carrying a mere symbol
 
 of commercial conversation; or whether something of the same queer
 
-outlandish morality that draws such a distinction between beer and
+outlandish [[morality]] that draws such a distinction between beer and
 
 ginger beer draws an equally ethical distinction between touching
 
 tobacco and lighting it. For the rest, it would be easy to make a merely
 
-external sketch full of things equally strange; for this can always be
+external [[Sketch|sketch]] full of things equally strange; for this can always be
 
 done in a strange country. I allow for the fact of all foreigners
 
@@ -5435,7 +5435,7 @@ spectacles and shaven jaws, do look rather alike, because they all like
 
 to make their faces hard. And with the mention of their mental attitude
 
-we realise the futility of any such external sketch. Unless we can see
+we realise the futility of any such external [[Sketch|sketch]]. Unless we can see
 
 that these are something more than men smoking cigars and talking about
 
@@ -5443,7 +5443,7 @@ dollars we had much better not see them at all.
 
 It is customary to condemn the American as a materialist because of his
 
-worship of success. But indeed this very worship, like any worship,
+worship of [[success]]. But indeed this very worship, like any worship,
 
 even devil-worship, proves him rather a mystic than a materialist. The
 
@@ -5453,21 +5453,21 @@ his wine and eat his omelette in peace might much more plausibly be
 
 called a materialist by those who do not prefer to call him a man of
 
-sense. But Americans do worship success in the abstract, as a sort of
+sense. But Americans do worship [[success]] in the abstract, as a sort of
 
-ideal vision. They follow success rather than money; they follow money
+ideal vision. They follow [[success]] rather than money; they follow money
 
 rather than meat and drink. If their national life in one sense is a
 
 perpetual game of poker, they are playing excitedly for chips or
 
-counters as well as for coins. And by the ultimate test of material
+counters as [[Well|well]] as for coins. And by the ultimate test of material
 
 enjoyment, like the enjoyment of an omelette, even a coin is itself a
 
 counter. The Yankee cannot eat chips as the Frenchman can eat chipped
 
-potatoes; but neither can he swallow red cents as the Frenchman swallows
+potatoes; but neither can he [[Swallow|swallow]] red cents as the Frenchman swallows
 
 red wine. Thus when people say of a Yankee that he worships the dollar,
 
@@ -5475,13 +5475,13 @@ they pay a compliment to his fine spirituality more true and delicate
 
 than they imagine. The dollar is an idol because it is an image; but it
 
-is an image of success and not of enjoyment.
+is an image of [[success]] and not of enjoyment.
 
-That this romance is also a religion is shown in the fact that there is
+That this [[Romance|romance]] is also a religion is shown in the fact that there is
 
-a queer sort of morality attached to it. The nearest parallel to it is
+a queer sort of [[morality]] attached to it. The nearest parallel to it is
 
-something like the sense of honour in the old duelling days. There is
+something like the sense of [[Honour|honour]] in the old duelling days. There is
 
 not a material but a distinctly moral savour about the implied
 
@@ -5497,23 +5497,23 @@ very particular in American. There is a fine shade of distinction
 
 between succeeding and making good, precisely because there must always
 
-be a sort of ethical echo in the word good. America does vaguely feel a
+be a sort of ethical echo in the word good. [[America]] does vaguely feel a
 
 man making good as something analogous to a man being good or a man
 
-doing good. It is connected with his serious self-respect and his sense
+doing good. It is connected with his serious [[Self|self]]-respect and his sense
 
 of being worthy of those he loves. Nor is this curious crude idealism
 
 wholly insincere even when it drives him to what some of us would call
 
-stealing; any more than the duellist's honour was insincere when it
+stealing; any more than the duellist's [[Honour|honour]] was insincere when it
 
 drove him to what some would call murder. A very clever American play
 
 which I once saw acted contained a complete working model of this
 
-morality. A girl was loyal to, but distressed by, her engagement to a
+[[morality]]. A girl was loyal to, but distressed by, her engagement to a
 
 young man on whom there was a sort of cloud of humiliation. The
 
@@ -5573,7 +5573,7 @@ the mire of everything bad, that he would make good by bluffing, lying,
 
 swindling, and grinding the faces of the poor, did not seem to trouble
 
-them in the least. Against this fanaticism there is this shadow of truth
+them in the least. Against this [[Fanaticism|fanaticism]] there is this [[Shadow|shadow]] of [[Truth|truth]]
 
 even in the fiction of aristocracy; that a gentleman may at least be
 
@@ -5583,13 +5583,13 @@ Another objection to the phrase about the almighty dollar is that it is
 
 an almighty phrase, and therefore an almighty nuisance. I mean that it
 
-is made to explain everything, and to explain everything much too well;
+is made to explain everything, and to explain everything much too [[Well|well]];
 
 that is, much too easily. It does not really help people to understand a
 
 foreign country; but it gives them the fatal illusion that they do
 
-understand it. Dollars stood for America as frogs stood for France;
+understand it. Dollars stood for [[America]] as frogs stood for France;
 
 because it was necessary to connect particular foreigners with
 
@@ -5599,7 +5599,7 @@ or a Russian with a Red Indian. The only cure for this sort of satisfied
 
 familiarity is the shock of something really unfamiliar. When people can
 
-see nothing at all in American democracy except a Yankee running after a
+see nothing at all in American [[democracy]] except a Yankee running after a
 
 dollar, then the only thing to do is to trip them up as they run after
 
@@ -5631,7 +5631,7 @@ For instance, Americans are very unpunctual. That is the last thing that
 
 a critic expects who comes to condemn them for hustling and haggling and
 
-vulgar ambition. But it is almost the first fact that strikes the
+vulgar [[Ambition|ambition]]. But it is almost the first fact that strikes the
 
 spectator on the spot. The chief difference between the humdrum English
 
@@ -5649,15 +5649,15 @@ understand a crowd of commercial Americans not coming to my lectures at
 
 all; but there was something odd about their coming in a crowd, and the
 
-crowd being expected to turn up some time after the appointed hour. The
+crowd being expected to turn up some [[Time|time]] after the appointed hour. The
 
 managers of these lectures (I continue to call them lectures out of
 
 courtesy to myself) often explained to me that it was quite useless to
 
-begin properly until about half an hour after time. Often people were
+begin properly until about half an hour after [[Time|time]]. Often people were
 
-still coming in three-quarters of an hour or even an hour after time.
+still coming in three-quarters of an hour or even an hour after [[Time|time]].
 
 Not that I objected to that, as some lecturers are said to do; it seemed
 
@@ -5679,13 +5679,13 @@ much more important things. But at least I was not content to lump this
 
 along with all sorts of contrary things that I did not happen to like,
 
-and call it America. I am not sure of what it really means, but I rather
+and call it [[America]]. I am not sure of what it really means, but I rather
 
 fancy that though it may seem the very reverse of the hustling, it has
 
 the same origin as the hustling. The American is not punctual because he
 
-is not punctilious. He is impulsive, and has an impulse to stay as well
+is not punctilious. He is impulsive, and has an impulse to stay as [[Well|well]]
 
 as an impulse to go. For, after all, punctuality belongs to the same
 
@@ -5709,15 +5709,15 @@ civilised; or a little French shopkeeper shutting up his shop to play
 
 dominoes is more civilised. And the reason is that the American has the
 
-romance of business and is monomaniac, while the Frenchman has the
+[[Romance|romance]] of business and is monomaniac, while the Frenchman has the
 
-romance of life and is sane. But the romance of business really is a
+[[Romance|romance]] of life and is sane. But the [[Romance|romance]] of business really is a
 
-romance, and the Americans are really romantic about it. And that
+[[Romance|romance]], and the Americans are really romantic about it. And that
 
-romance, though it revolves round pork or petrol, is really like a
+[[Romance|romance]], though it revolves round pork or petrol, is really like a
 
-love-affair in this; that it involves not only rushing but also
+[[Love|love]]-affair in this; that it involves not only rushing but also
 
 lingering.
 
@@ -5743,13 +5743,13 @@ swift to be smart. He is much too practical to be precise. By a strange
 
 illusion which can lift pork-packing almost to the level of patriotism,
 
-the American has the same free rhythm in his romance of business. He
+the American has the same free rhythm in his [[Romance|romance]] of business. He
 
-varies his conduct not to suit the clock but to suit the case. He gives
+varies his conduct not to suit the [[Clock|clock]] but to suit the case. He gives
 
-more time to more important and less time to less important things; and
+more [[Time|time]] to more important and less [[Time|time]] to less important things; and
 
-he makes up his time-table as he goes along. Suppose he has three
+he makes up his [[Time|time]]-table as he goes along. Suppose he has three
 
 appointments; the first, let us say, is some mere trifle of erecting a
 
@@ -5795,7 +5795,7 @@ for the business of life, but not necessarily for the life of business.
 
 And it is true that for many of these Americans business is the
 
-business of life. It is really also, as I have said, the romance of
+business of life. It is really also, as I have said, the [[Romance|romance]] of
 
 life. We shall admire or deplore this spirit, accordingly as we are glad
 
@@ -5807,7 +5807,7 @@ other hobby; and one is disposed to add that it does fill their
 
 imaginations like any other delusion. For the true criticism of all this
 
-commercial romance would involve a criticism of this historic phase of
+commercial [[Romance|romance]] would involve a criticism of this historic phase of
 
 commerce. These people are building on the sand, though it shines like
 
@@ -5823,11 +5823,11 @@ but harm; but it does them good to buy and sell them. The claim of the
 
 romantic salesman is better justified than he realises. Business really
 
-is romance; for it is not reality.
+is [[Romance|romance]]; for it is not reality.
 
-There is one real advantage that America has over England, largely due
+There is one real advantage that [[America]] has over England, largely due
 
-to its livelier and more impressionable ideal. America does not think
+to its livelier and more impressionable ideal. [[America]] does not think
 
 that stupidity is practical. It does not think that ideas are merely
 
@@ -5843,7 +5843,7 @@ purposes; it would be quite capable of asking Blake to take his tiger
 
 and his golden lions round as a sort of Barnum's Show, or Shelley to
 
-hang his stars and haloed clouds among the lights of Broadway. But it
+hang his [[Stars|stars]] and haloed clouds among the lights of Broadway. But it
 
 would not assume that a natural force is useless, any more than that
 
@@ -5851,11 +5851,11 @@ Niagara is useless. And there is a very definite distinction here
 
 touching the intelligence of the trader, whatever we may think of either
 
-course touching the intelligence of the artist. It is one thing that
+course touching the intelligence of the [[Artist|artist]]. It is one thing that
 
-Apollo should be employed by Admetus, although he is a god. It is quite
+[[Apollo]] should be employed by Admetus, although he is a god. It is quite
 
-another thing that Apollo should always be sacked by Admetus, because he
+another thing that [[Apollo]] should always be sacked by Admetus, because he
 
 is a god. Now in England, largely owing to the accident of a rivalry and
 
@@ -5863,15 +5863,15 @@ therefore a comparison with France, there arose about the end of the
 
 eighteenth century an extraordinary notion that there was some sort of
 
-connection between dullness and success. What the Americans call a
+connection between dullness and [[success]]. What the Americans call a
 
 bonehead became what the English call a hard-headed man. The merchants
 
-of London evinced their contempt for the fantastic logicians of Paris by
+of [[London]] evinced their contempt for the fantastic logicians of [[Paris]] by
 
 living in a permanent state of terror lest somebody should set the
 
-Thames on fire. In this as in much else it is much easier to understand
+Thames on [[Fire|fire]]. In this as in much else it is much easier to understand
 
 the Americans if we connect them with the French who were their allies
 
@@ -5879,21 +5879,21 @@ than with the English who were their enemies. There are a great many
 
 Franco-American resemblances which the practical Anglo-Saxons are of
 
-course too hard-headed (or boneheaded) to see. American history is
+course too hard-headed (or boneheaded) to see. American [[history]] is
 
-haunted with the shadow of the Plebiscitary President; they have a
+haunted with the [[Shadow|shadow]] of the Plebiscitary President; they have a
 
 tradition of classical architecture for public buildings. Their cities
 
-are planned upon the squares of Paris and not upon the labyrinth of
+are planned upon the squares of [[Paris]] and not upon the labyrinth of
 
-London. They call their cities Corinth and Syracuse, as the French
+[[London]]. They call their cities Corinth and Syracuse, as the French
 
 called their citizens Epaminondas and Timoleon. Their soldiers wore the
 
 French kepi; and they make coffee admirably, and do not make tea at all.
 
-But of all the French elements in America the most French is this real
+But of all the French elements in [[America]] the most French is this real
 
 practicality. They know that at certain times the most businesslike of
 
@@ -5903,15 +5903,15 @@ l'audace.' The publisher may induce the poet to do a pot-boiler; but the
 
 publisher would cheerfully allow the poet to set the Mississippi on
 
-fire, if it would boil his particular pot. It is not so much that
+[[Fire|fire]], if it would boil his particular pot. It is not so much that
 
 Englishmen are stupid as that they are afraid of being clever; and it is
 
 not so much that Americans are clever as that they do not try to be any
 
-stupider than they are. The fire of French logic has burnt that out of
+stupider than they are. The [[Fire|fire]] of French [[logic]] has burnt that out of
 
-America as it has burnt it out of Europe, and of almost every place
+[[America]] as it has burnt it out of Europe, and of almost every place
 
 except England. This is one of the few points on which English
 
@@ -5923,25 +5923,25 @@ sort of compromise is to be found in confusion. This must be clearly
 
 distinguished from the commonplace about the utilitarian world not
 
-rising to the invisible values of genius. Under this philosophy the
+rising to the invisible values of genius. Under this [[philosophy]] the
 
 utilitarian does not see the utility of genius, even when it is quite
 
 visible. He does not see it, not because he is a utilitarian, but
 
-because he is an idealist whose ideal is dullness. For some time the
+because he is an idealist whose ideal is dullness. For some [[Time|time]] the
 
 English aspired to be stupid, prayed and hoped with soaring spiritual
 
-ambition to be stupid. But with all their worship of success, they did
+[[Ambition|ambition]] to be stupid. But with all their worship of [[success]], they did
 
 not succeed in being stupid. The natural talents of a great and
 
 traditional nation were always breaking out in spite of them. In spite
 
-of the merchants of London, Turner did set the Thames on fire. In spite
+of the merchants of [[London]], Turner did set the Thames on [[Fire|fire]]. In spite
 
-of our repeatedly explained preference for realism to romance, Europe
+of our repeatedly explained preference for realism to [[Romance|romance]], Europe
 
 persisted in resounding with the name of Byron. And just when we had
 
@@ -5971,25 +5971,25 @@ persons.' The English national anthem is content to say heartily, but
 
 almost hastily, 'Confound their politics,' and then more cheerfully, as
 
-if changing the subject, 'God Save the King.' For this is especially the
+if changing the subject, 'God Save the [[King]].' For this is especially the
 
 secret of the monarch or chief magistrate in the two countries. They arm
 
-the President with the powers of a King, that he may be a nuisance in
+the President with the powers of a [[King]], that he may be a nuisance in
 
-politics. We deprive the King even of the powers of a President, lest he
+politics. We deprive the [[King]] even of the powers of a President, lest he
 
-should remind us of a politician. We desire to forget the never-ending
+should remind us of a politician. We [[Desire|desire]] to forget the never-ending
 
 audacity of elected persons; and with us therefore it really never does
 
 end. That is the practical objection to our own habit of changing the
 
-subject, instead of changing the ministry. The King, as the Irish wit
+subject, instead of changing the ministry. The [[King]], as the Irish wit
 
 observed, is not a subject; but in that sense the English crowned head
 
-is not a King. He is a popular figure intended to remind us of the
+is not a [[King]]. He is a popular figure intended to remind us of the
 
 England that politicians do not remember; the England of horses and
 
@@ -5999,7 +5999,7 @@ purely social symbol; and it is rather the root than the result of this
 
 that their social luxury, and especially their sport, are a little
 
-lacking in humanity and humour. It is the American, much more than the
+lacking in humanity and [[Humour|humour]]. It is the American, much more than the
 
 Englishman, who takes his pleasures sadly, not to say savagely.
 
@@ -6007,7 +6007,7 @@ The genuine popularity of constitutional monarchs, in parliamentary
 
 countries, can be explained by any practical example. Let us suppose
 
-that great social reform, The Compulsory Haircutting Act, has just begun
+that great social [[Reform|reform]], The Compulsory Haircutting Act, has just begun
 
 to be enforced. The Compulsory Haircutting Act, as every good citizen
 
@@ -6035,9 +6035,9 @@ glance that outline of the criminal skull, which is so common among
 
 them. The Compulsory Haircutting Act is thus in every way a compact and
 
-convenient example of all our current laws about education, sport,
+convenient example of all our current laws about [[Education|education]], sport,
 
-liquor and liberty in general. Well, the law has passed and the masses,
+liquor and liberty in general. [[Well]], the law has passed and the masses,
 
 insensible to its scientific value, are still murmuring against it. The
 
@@ -6047,7 +6047,7 @@ hair; and does not see how she can even be a flapper with nothing to
 
 flap. Her father, his mind already poisoned by Bolshevists, begins to
 
-wonder who the devil does these things, and why. In proportion as he
+[[Wonder|wonder]] who the devil does these things, and why. In proportion as he
 
 knows the world of to-day, he guesses that the real origin may be quite
 
@@ -6063,7 +6063,7 @@ sell a million bad razors. Hence the poor man looks about him with
 
 suspicion in the street; knowing that the lowest sneak or the loudest
 
-snob he sees may be directing the government of his country. Anybody may
+snob he sees may be directing the [[government]] of his country. Anybody may
 
 have to do with politics; and this sort of thing is politics. Suddenly
 
@@ -6071,7 +6071,7 @@ he catches sight of a crowd, stops, and begins wildly to cheer a
 
 carriage that is passing. The carriage contains the one person who has
 
-certainly not originated any great scientific reform. He is the only
+certainly not originated any great scientific [[Reform|reform]]. He is the only
 
 person in the commonwealth who is not allowed to cut off other people's
 
@@ -6079,13 +6079,13 @@ hair, or to take away other people's liberties. He at least is kept out
 
 of politics; and men hold him up as they did an unspotted victim to
 
-appease the wrath of the gods. He is their King, and the only man they
+appease the wrath of the gods. He is their [[King]], and the only man they
 
 know is not their ruler. We need not be surprised that he is popular,
 
 knowing how they are ruled.
 
-The popularity of a President in America is exactly the opposite. The
+The popularity of a President in [[America]] is exactly the opposite. The
 
 American Republic is the last mediaeval monarchy. It is intended that
 
@@ -6093,7 +6093,7 @@ the President shall rule, and take all the risks of ruling. If the hair
 
 is cut he is the haircutter, the magistrate that bears not the razor in
 
-vain. All the popular Presidents, Jackson and Lincoln and Roosevelt,
+vain. All the popular Presidents, Jackson and [[Lincoln]] and Roosevelt,
 
 have acted as democratic despots, but emphatically not as
 
@@ -6101,11 +6101,11 @@ constitutional monarchs. In short, the names have become curiously
 
 interchanged; and as a historical reality it is the President who ought
 
-to be called a King.
+to be called a [[King]].
 
 But it is not only true that the President could correctly be called a
 
-King. It is also true that the King might correctly be called a
+[[King]]. It is also true that the [[King]] might correctly be called a
 
 President. We could hardly find a more exact description of him than to
 
@@ -6139,17 +6139,17 @@ national idea is perpetual motion. Technically it is called a message;
 
 and might often actually be called a menace. Thus we may truly say that
 
-the King presides and the President reigns. Some would prefer to say
+the [[King]] presides and the President reigns. Some would prefer to say
 
 that the President rules; and some Senators and members of Congress
 
-would prefer to say that he rebels. But there is no doubt that he moves;
+would prefer to say that he rebels. But there is no [[Doubt|doubt]] that he moves;
 
 he does not take the chair or even the stool, but rather the stump.
 
 Some people seem to suppose that the fall of President Wilson was a
 
-denial of this almost despotic ideal in America. As a matter of fact it
+denial of this almost despotic ideal in [[America]]. As a matter of fact it
 
 was the strongest possible assertion of it. The idea is that the
 
@@ -6167,25 +6167,25 @@ as the mediaeval monarchs. Constitutional princes are seldom deposed;
 
 but despots were often deposed. In the simpler races of sunnier lands,
 
-such as Turkey, they were commonly assassinated. Even in our own history
+such as Turkey, they were commonly assassinated. Even in our own [[history]]
 
-a King often received the same respectful tribute to the responsibility
+a [[King]] often received the same respectful tribute to the responsibility
 
-and reality of his office. But King John was attacked because he was
+and reality of his office. But [[King John]] was attacked because he was
 
-strong, not because he was weak. Richard the Second lost the crown
+strong, not because he was weak. [[Richard]] the Second lost the [[Crown|crown]]
 
-because the crown was a trophy, not because it was a trifle. And
+because the [[Crown|crown]] was a trophy, not because it was a trifle. And
 
 President Wilson was deposed because he had used a power which is such,
 
-in its nature, that a man must use it at the risk of deposition. As a
+in its [[Nature|nature]], that a man must use it at the risk of deposition. As a
 
 matter of fact, of course, it is easy to exaggerate Mr. Wilson's real
 
 unpopularity, and still more easy to exaggerate Mr. Wilson's real
 
-failure. There are a great many people in America who justify and
+failure. There are a great many people in [[America]] who justify and
 
 applaud him; and what is yet more interesting, who justify him not on
 
@@ -6195,21 +6195,21 @@ is especially insisted by some that his demonstration, which seemed
 
 futile as a threat against Mexico, was a very far-sighted preparation
 
-for the threat against Prussia. But in so far as the democracy did
+for the threat against Prussia. But in so far as the [[democracy]] did
 
 disagree with him, it was but the occasional and inevitable result of
 
-the theory by which the despot has to anticipate the democracy.
+the theory by which the despot has to anticipate the [[democracy]].
 
-Thus the American King and the English President are the very opposite
+Thus the American [[King]] and the English President are the very opposite
 
 of each other; yet they are both the varied and very national
 
-indications of the same contemporary truth. It is the great weariness
+indications of the same contemporary [[Truth|truth]]. It is the great weariness
 
 and contempt that have fallen upon common politics in both countries. It
 
-may be answered, with some show of truth, that the new American
+may be answered, with some show of [[Truth|truth]], that the new American
 
 President represents a return to common politics; and that in that sense
 
@@ -6241,9 +6241,9 @@ equality in theory with extreme economic inequality in practice.
 
 Capitalism was not a normalcy but an abnormalcy. Property is normal, and
 
-is more normal in proportion as it is universal. Slavery may be normal
+is more normal in proportion as it is universal. [[Slavery]] may be normal
 
-and even natural, in the sense that a bad habit may be second nature.
+and even natural, in the sense that a bad habit may be second [[Nature|nature]].
 
 But Capitalism was never anything so human as a habit; we may say it was
 
@@ -6261,7 +6261,7 @@ things considered, I cannot say anything worse of them than that.
 
 The recent Presidential election preserved some trace of the old Party
 
-System of America; but its tradition has very nearly faded like that of
+System of [[America]]; but its tradition has very nearly faded like that of
 
 the Party System of England. It is easy for an Englishman to confess
 
@@ -6285,9 +6285,9 @@ Democrats are the party of the South and have some true tradition from
 
 the Southern aristocracy and the defence of Secession and State Rights.
 
-The Republicans rose in the North as the party of Lincoln, largely
+The Republicans [[Rose|rose]] in the North as the party of [[Lincoln]], largely
 
-condemning slavery. But the Republicans are also the party of Tariffs,
+condemning [[Slavery|slavery]]. But the Republicans are also the party of Tariffs,
 
 and are at least accused of being the party of Trusts. The Democrats are
 
@@ -6303,15 +6303,15 @@ bewildering; but I am inclined to think that they are as a whole more
 
 coherent and rational than our own old division of Liberals and
 
-Conservatives. There is even more doubt nowadays about what is the
+Conservatives. There is even more [[Doubt|doubt]] nowadays about what is the
 
 connecting link between the different items in the old British party
 
 programmes. I have never been able to understand why being in favour of
 
-Protection should have anything to do with being opposed to Home Rule;
+Protection should have anything to do with being opposed to [[Home]] Rule;
 
-especially as most of the people who were to receive Home Rule were
+especially as most of the people who were to receive [[Home]] Rule were
 
 themselves in favour of Protection. I could never see what giving people
 
@@ -6335,7 +6335,7 @@ all is said, I incline to think that there was more spiritual and
 
 atmospheric cohesion in the different parts of the American party than
 
-in those of the English party; and I think this unity was all the more
+in those of the English party; and I think this [[unity]] was all the more
 
 real because it was more difficult to define. The Republican party
 
@@ -6343,11 +6343,11 @@ originally stood for the triumph of the North, and the North stood for
 
 the nineteenth century; that is for the characteristic commercial
 
-expansion of the nineteenth century; for a firm faith in the profit and
+expansion of the nineteenth century; for a firm [[Faith|faith]] in the profit and
 
 progress of its great and growing cities, its division of labour, its
 
-industrial science, and its evolutionary reform. The Democratic party
+industrial science, and its evolutionary [[Reform|reform]]. The Democratic party
 
 stood more loosely for all the elements that doubted whether this
 
@@ -6373,9 +6373,9 @@ Above all, it was perfectly natural that this tone of thought should
 
 favour local liberties, and even a revolt on behalf of local liberties,
 
-and should distrust the huge machine of centralised power called the
+and should distrust the huge [[Machine|machine]] of centralised power called the
 
-Union. In short, something very near the truth was said by a suicidally
+[[Union]]. In short, something very near the [[Truth|truth]] was said by a suicidally
 
 silly Republican orator, who was running Blaine for the Presidency, when
 
@@ -6385,11 +6385,11 @@ rebellion.' They seem to me to be three excellent things in their place;
 
 and that is why I suspect that I should have belonged to the Democratic
 
-party, if I had been born in America when there was a Democratic party.
+party, if I had been born in [[America]] when there was a Democratic party.
 
-But I fancy that by this time even this general distinction has become
+But I fancy that by this [[Time|time]] even this general distinction has become
 
-very dim. If I had been an American twenty years ago, in the time of the
+very dim. If I had been an American twenty years ago, in the [[Time|time]] of the
 
 great Free Silver campaign, I should certainly never have hesitated for
 
@@ -6399,9 +6399,9 @@ exactly those that are nobly expressed by Mr. Vachell Lindsay, in a poem
 
 bearing the characteristic title of 'Bryan, Bryan, Bryan, Bryan.' And,
 
-by the way, nobody can begin to sympathise with America whose soul does
+by the way, nobody can begin to sympathise with [[America]] whose [[Soul|soul]] does
 
-not to some extent begin to swing and dance to the drums and gongs of
+not to some extent begin to swing and [[Dance|dance]] to the drums and gongs of
 
 Mr. Vachell Lindsay's great orchestra; which has the note of his whole
 
@@ -6409,13 +6409,13 @@ nation in this: that a refined person can revile it a hundred times over
 
 as violent and brazen and barbarous and absurd, but not as insincere;
 
-there is something in it, and that something is the soul of many million
+there is something in it, and that something is the [[Soul|soul]] of many million
 
 men. But the poet himself, in the political poem referred to, speaks of
 
 Bryan's fall over Free Silver as 'defeat of my boyhood, defeat of my
 
-dream'; and it is only too probable that the cause has fallen as well as
+dream'; and it is only too probable that the cause has fallen as [[Well|well]] as
 
 the candidate. The William Jennings Bryan of later years is not the man
 
@@ -6423,45 +6423,45 @@ whom I should have seen in my youth, with the visionary eyes of Mr.
 
 Vachell Lindsay. He has become a commonplace Pacifist, which is in its
 
-nature the very opposite of a revolutionist; for if men will fight
+[[Nature|nature]] the very opposite of a revolutionist; for if men will fight
 
-rather than sacrifice humanity on a golden cross, it cannot be wrong for
+rather than sacrifice humanity on a golden [[Cross|cross]], it cannot be wrong for
 
-them to resist its being sacrificed to an iron cross. I came into very
+them to resist its being sacrificed to an iron [[Cross|cross]]. I came into very
 
-indirect contact with Mr. Bryan when I was in America, in a fashion that
+indirect contact with Mr. Bryan when I was in [[America]], in a fashion that
 
 made me realise how hard it has become to recover the illusions of a
 
 Bryanite. I believe that my lecture agent was anxious to arrange a
 
-debate, and I threw out a sort of loose challenge to the effect that
+[[debate]], and I threw out a sort of loose challenge to the effect that
 
 woman's suffrage had weakened the position of woman; and while I was
 
-away in the wilds of Oklahoma my lecture agent (a man of blood-curdling
+away in the wilds of Oklahoma my lecture agent (a man of [[Blood|blood]]-curdling
 
-courage and enterprise) asked Mr. Bryan to debate with me. Now Mr. Bryan
+[[Courage|courage]] and enterprise) asked Mr. Bryan to [[debate]] with me. Now Mr. Bryan
 
-is one of the greatest orators of modern history, and there is no
+is one of the greatest orators of modern [[history]], and there is no
 
-conceivable reason why he should trouble to debate with a wandering
+conceivable reason why he should trouble to [[debate]] with a wandering
 
 lecturer. But as a matter of fact he expressed himself in the most
 
 magnanimous and courteous terms about my personal position, but said (as
 
-I understood) that it would be improper to debate on female suffrage as
+I understood) that it would be improper to [[debate]] on female suffrage as
 
 it was already a part of the political system. And when I heard that, I
 
 could not help a sigh; for I recognised something that I knew only too
 
-well on the front benches of my own beloved land. The great and glorious
+[[Well|well]] on the front benches of my own beloved land. The great and glorious
 
 demagogue had degenerated into a statesman. I had never expected for a
 
-moment that the great orator could be bothered to debate with me at all;
+moment that the great orator could be bothered to [[debate]] with me at all;
 
 but it had never occurred to me, as a general moral principle, that two
 
@@ -6469,11 +6469,11 @@ educated men were for ever forbidden to talk sense about a particular
 
 topic, because a lot of other people had already voted on it. What is
 
-the matter with that attitude is the loss of the freedom of the mind.
+the matter with that attitude is the loss of the [[Freedom|freedom]] of the mind.
 
 There can be no liberty of thought unless it is ready to unsettle what
 
-has recently been settled, as well as what has long been settled. We are
+has recently been settled, as [[Well|well]] as what has long been settled. We are
 
 perpetually being told in the papers that what is wanted is a strong man
 
@@ -6481,7 +6481,7 @@ who will do things. What is wanted is a strong man who will undo things;
 
 and that will be a real test of strength.
 
-Anyhow, we could have believed, in the time of the Free Silver fight,
+Anyhow, we could have believed, in the [[Time|time]] of the Free Silver fight,
 
 that the Democratic party was democratic with a small d. In Mr. Wilson
 
@@ -6493,13 +6493,13 @@ it has been healthy, has also been hazy. In fact, it has been not so
 
 much the victory of a political party as a relapse into repose after
 
-certain political passions; and in that sense there is a truth in the
+certain political passions; and in that sense there is a [[Truth|truth]] in the
 
 strange phrase about normalcy; in the sense that there is nothing more
 
-normal than going to sleep. But an even larger truth is this; it is most
+normal than going to [[Sleep|sleep]]. But an even larger [[Truth|truth]] is this; it is most
 
-likely that America is no longer concentrated on these faction fights at
+likely that [[America]] is no longer concentrated on these faction fights at
 
 all, but is considering certain large problems upon which those factions
 
@@ -6507,7 +6507,7 @@ hardly troubled to take sides. They are too large even to be classified
 
 as foreign policy distinct from domestic policy. They are so large as to
 
-be inside as well as outside the state. From an English standpoint the
+be inside as [[Well|well]] as outside the state. From an English standpoint the
 
 most obvious example is the Irish; for the Irish problem is not a
 
@@ -6515,7 +6515,7 @@ British problem, but also an American problem. And this is true even of
 
 the great external enigma of Japan. The Japanese question may be a part
 
-of foreign policy for America, but it is a part of domestic policy for
+of foreign policy for [[America]], but it is a part of domestic policy for
 
 California. And the same is true of that other intense and intelligent
 
@@ -6523,19 +6523,19 @@ Eastern people, the genius and limitations of which have troubled the
 
 world so much longer. What the Japs are in California, the Jews are in
 
-America. That is, they are a piece of foreign policy that has become
+[[America]]. That is, they are a piece of foreign policy that has become
 
 imbedded in domestic policy; something which is found inside but still
 
 has to be regarded from the outside. On these great international
 
-matters I doubt if Americans got much guidance from their party system;
+matters I [[Doubt|doubt]] if Americans got much guidance from their party system;
 
 especially as most of these questions have grown very recently and
 
 rapidly to enormous size. Men are left free to judge of them with fresh
 
-minds. And that is the truth in the statement that the Washington
+minds. And that is the [[Truth|truth]] in the statement that the Washington
 
 Conference has opened the gates of a new world.
 
@@ -6557,7 +6557,7 @@ journalists have recently imagined that they were pouring oil upon the
 
 troubled waters, when they were rather pouring out oil to smooth the
 
-downward path; and to turn the broad road to destruction into a
+downward path; and to turn the broad [[Road|road]] to destruction into a
 
 butter-slide. They seem to have no notion of what to do, except to say
 
@@ -6569,7 +6569,7 @@ would probably like to know. They therefore informed the public that
 
 'the majority of Americans' had abandoned all sympathy with Ireland,
 
-because of its alleged sympathy with Germany; and that this majority of
+because of its alleged sympathy with [[Germany]]; and that this majority of
 
 Americans was now ardently in sympathy with its English brothers across
 
@@ -6577,7 +6577,7 @@ the sea. Now to begin with, such critics have no notion of what they are
 
 saying when they talk about the majority of Americans. To anybody who
 
-has happened to look in, let us say, on the city of Omaha, Nebraska, the
+has happened to look in, let us say, on the [[City|city]] of Omaha, Nebraska, the
 
 remark will have something enormous and overwhelming about it. It is
 
@@ -6589,15 +6589,15 @@ rather than the Ritz. There are millions and millions of people living
 
 in those great central plains of the North American Continent of whom
 
-it would be nearer the truth to say that they have never heard of
+it would be nearer the [[Truth|truth]] to say that they have never heard of
 
 England, or of Ireland either, than to say that their first emotional
 
-movement is a desire to come to the rescue of either of them. It is
+movement is a [[Desire|desire]] to come to the rescue of either of them. It is
 
 perfectly true that the more monomaniac sort of Sinn Feiner might
 
-sometimes irritate this innocent and isolated American spirit by being
+sometimes irritate this [[Innocent|innocent]] and isolated American spirit by being
 
 pro-Irish. It is equally true that a traditional Bostonian or Virginian
 
@@ -6617,9 +6617,9 @@ hold-up with six-shooters and photographs of a beautiful murderess or
 
 divorcée, fill up the round of their good and happy lives, and fleet the
 
-time carelessly as in the golden age.
+[[Time|time]] carelessly as in the [[Golden Age|golden age]].
 
-But putting aside all this vast and distant democracy, which is the real
+But putting aside all this vast and distant [[democracy]], which is the real
 
 'majority of Americans,' and confining ourselves to that older culture
 
@@ -6633,17 +6633,17 @@ eastern coast, as I did, finds himself not only most warmly welcomed as
 
 a guest, but most cordially complimented as an Englishman. Men recall
 
-with pride the branches of their family that belong to England or the
+with [[Pride|pride]] the branches of their family that belong to England or the
 
 English counties where they were rooted; and there are enthusiasms for
 
-English literature and history which are as spontaneous as patriotism
+English literature and [[history]] which are as spontaneous as patriotism
 
 itself. Something of this may be put down to a certain promptitude and
 
 flexibility in all American kindness, which is never sufficiently stodgy
 
-to be called good nature. The Englishman does sometimes wonder whether
+to be called good [[Nature|nature]]. The Englishman does sometimes [[Wonder|wonder]] whether
 
 if he had been a Russian, his hosts would not have remembered remote
 
@@ -6665,7 +6665,7 @@ What I began to feel, with a certain creeping chill, was that they were
 
 only too sympathetic with England. The word sympathetic has sometimes
 
-rather a double sense. The impression I received was that all these
+rather a [[Double|double]] sense. The impression I received was that all these
 
 chivalrous Southerners and men mellow with Bostonian memories were
 
@@ -6675,7 +6675,7 @@ England that they were defending. Their attitude implied that somebody
 
 or something was leaving her undefended, or finding her indefensible.
 
-The burden of that hearty chorus was that England was not so black as
+The burden of that hearty [[Chorus|chorus]] was that England was not so black as
 
 she was painted; it seemed clear that somewhere or other she was being
 
@@ -6683,9 +6683,9 @@ painted pretty black. But there was something else that made me
 
 uncomfortable; it was not only the sense of being somewhat boisterously
 
-forgiven; it was also something involving questions of power as well as
+forgiven; it was also something involving questions of power as [[Well|well]] as
 
-morality. Then it seemed to me that a new sensation turned me hot and
+[[morality]]. Then it seemed to me that a new sensation turned me hot and
 
 cold; and I felt something I have never before felt in a foreign land.
 
@@ -6717,13 +6717,13 @@ politics the impression will be purely negative; I am sure that most
 
 Americans have no notion of the position of France or the position of
 
-Poland. But if English readers want the truth, I am sure this is the
+Poland. But if English readers want the [[Truth|truth]], I am sure this is the
 
-truth about their notion of the position of England. They are wondering,
+[[Truth|truth]] about their notion of the position of England. They are wondering,
 
-or those who are watching are wondering, whether the term of her success
+or those who are watching are wondering, whether the term of her [[success]]
 
-is come and she is going down the dark road after Prussia. Many are
+is come and she is going down the dark [[Road|road]] after Prussia. Many are
 
 sorry if this is so; some are glad if it is so; but all are seriously
 
@@ -6731,15 +6731,15 @@ considering the probability of its being so. And herein lay especially
 
 the horrible folly of our Black-and-Tan terrorism over the Irish people.
 
-I have noted that the newspapers told us that America had been chilled
+I have noted that the newspapers told us that [[America]] had been chilled
 
 in its Irish sympathies by Irish detachment during the war. It is the
 
-painful truth that any advantage we might have had from this we
+painful [[Truth|truth]] that any advantage we might have had from this we
 
 ourselves immediately proceeded to destroy. Ireland _might_ have put
 
-herself wrong with America by her attitude about Belgium, if England had
+herself wrong with [[America]] by her attitude about Belgium, if England had
 
 not instantly proceeded to put herself more wrong by her attitude
 
@@ -6771,9 +6771,9 @@ called firmness with what it called conciliation; as if when we made up
 
 our minds to soothe a man with a five-pound note, we always took care to
 
-undo our own action by giving him a kick as well. The English politician
+undo our own action by giving him a kick as [[Well|well]]. The English politician
 
-has often done that; though there is nothing to be said of such a fool,
+has often done that; though there is nothing to be said of such a [[Fool|fool]],
 
 except that he has wasted a fiver. But in this case he gave the kick
 
@@ -6799,17 +6799,17 @@ country by so many cultivated Americans; their memories of homely
 
 corners of historic counties from which their fathers came, of the
 
-cathedral that dwarfs the town, or the inn at the turning of the road.
+[[Cathedral|cathedral]] that dwarfs the town, or the inn at the turning of the [[Road|road]].
 
 There was something in their voices and the look in their eyes which
 
 from the first disturbed me. So I have heard good Englishmen, who died
 
-afterwards the death of soldiers, cry aloud in 1914, 'It seems
+afterwards the [[Death|death]] of soldiers, cry aloud in 1914, 'It seems
 
 impossible, of those jolly Bavarians!' or, 'I will never believe it,
 
-when I think of the time I had at Heidelberg!'
+when I think of the [[Time|time]] I had at Heidelberg!'
 
 But there are other things besides the parallel of Prussia or the
 
@@ -6819,7 +6819,7 @@ American public is much more familiar with the discussion of corruption
 
 than our own; and it is much more conscious of the corruption of our
 
-politics than we are. Almost any man in America may speak of the Marconi
+politics than we are. Almost any man in [[America]] may speak of the Marconi
 
 Case; many a man in England does not even know what it means. Many
 
@@ -6831,7 +6831,7 @@ Americans to say that one figure in that drama is ruling India and
 
 another is ruling Palestine. And this brings me to another problem,
 
-which is also dealt with much more openly in America than in England. I
+which is also dealt with much more openly in [[America]] than in England. I
 
 mention it here only because it is a perfect model of the
 
@@ -6859,33 +6859,33 @@ with him. He has a distinguished and sensitive face; he really invented
 
 things himself, unlike most men who profit by inventions; he is
 
-something of an artist and not a little of a fighter. A man of that type
+something of an [[Artist|artist]] and not a little of a fighter. A man of that type
 
 is always capable of being wildly wrong, especially in the sectarian
 
-atmosphere of America; and Mr. Ford has been wrong before and may be
+atmosphere of [[America]]; and Mr. Ford has been wrong before and may be
 
 wrong now. He is chiefly known in England for a project which I think
 
-very preposterous; that of the Peace Ship, which came to Europe during
+very preposterous; that of the Peace [[Ship]], which came to Europe during
 
 the war. But he is not known in England at all in connection with a much
 
 more important campaign, which he has conducted much more recently and
 
-with much more success; a campaign against the Jews like one of the
+with much more [[success]]; a campaign against the Jews like one of the
 
 Anti-Semitic campaigns of the Continent. Now any one who knows anything
 
-of America knows exactly what the Peace Ship would be like. It was a
+of [[America]] knows exactly what the Peace [[Ship]] would be like. It was a
 
-national combination of imagination and ignorance, which has at least
+national combination of [[Imagination|imagination]] and ignorance, which has at least
 
-some of the beauty of innocence. Men living in those huge, hedgeless
+some of the [[Beauty|beauty]] of [[innocence]]. Men living in those huge, hedgeless
 
-inland plains know nothing about frontiers or the tragedy of a fight for
+inland plains know nothing about frontiers or the [[Tragedy|tragedy]] of a fight for
 
-freedom; they know nothing of alarum and armaments or the peril of a
+[[Freedom|freedom]]; they know nothing of alarum and armaments or the peril of a
 
 high civilisation poised like a precious statue within reach of a mailed
 
@@ -6893,15 +6893,15 @@ fist. They are accustomed to a cosmopolitan citizenship, in which men of
 
 all bloods mingle and in which men of all creeds are counted equal.
 
-Their highest moral boast is humanitarianism; their highest mental boast
+Their highest moral boast is [[Humanitarianism|humanitarianism]]; their highest mental boast
 
 is enlightenment. In a word, they are the very last men in the world who
 
-would seem likely to pride themselves on a prejudice against the Jews.
+would seem likely to [[Pride|pride]] themselves on a prejudice against the Jews.
 
 They have no religion in particular, except a sincere sentiment which
 
-they would call 'true Christianity,' and which specially forbids an
+they would call 'true [[Christianity]],' and which specially forbids an
 
 attack on the Jews. They have a patriotism which prides itself on
 
@@ -6919,11 +6919,11 @@ racial and religious prejudice, he would have been about the very last
 
 sort of man to have it. His particular part of the world would have been
 
-the very last place to produce it. We may well laugh at the Peace Ship,
+the very last place to produce it. We may [[Well|well]] laugh at the Peace [[Ship]],
 
 and its wild course and inevitable shipwreck; but remember that its very
 
-wildness was an attempt to sail as far as possible from the castle of
+wildness was an attempt to sail as far as possible from the [[Castle|castle]] of
 
 Front-de-Boeuf. Everything that made him Anti-War should have
 
@@ -6933,7 +6933,7 @@ peace; but we cannot say that he was so mad on peace that he made war on
 
 Israel.
 
-It happened that, when I was in America, I had just published some
+It happened that, when I was in [[America]], I had just published some
 
 studies on Palestine; and I was besieged by Rabbis lamenting my
 
@@ -6945,7 +6945,7 @@ personal autobiography, I do not happen to be a man who dislikes Jews;
 
 though I believe that some men do. I have had Jews among my most
 
-intimate and faithful friends since my boyhood, and I hope to have them
+intimate and faithful friends since my boyhood, and I [[Hope|hope]] to have them
 
 till I die. But even if I did have a dislike of Jews, it would be
 
@@ -6975,9 +6975,9 @@ Now the point is that this new American Anti-Semitism springs from
 
 experience and nothing but experience. There is no prejudice for it to
 
-spring from. Or rather the prejudice is all the other way. All the
+[[Spring|spring]] from. Or rather the prejudice is all the other way. All the
 
-traditions of that democracy, and very creditable traditions too, are in
+traditions of that [[democracy]], and very creditable traditions too, are in
 
 favour of toleration and a sort of idealistic indifference. The
 
@@ -7047,9 +7047,9 @@ myself, take a superior and censorious attitude towards Americans and
 
 especially Californians, I am moved to make a final remark. When a
 
-considerable number of Englishmen talk of the grave contending claims of
+considerable number of Englishmen talk of the [[Grave|grave]] contending claims of
 
-our friendship with Japan and our friendship with America, when they
+our [[Friendship|friendship]] with Japan and our [[Friendship|friendship]] with [[America]], when they
 
 finally tend in a sort of summing up to dwell on the superior virtues of
 
@@ -7057,15 +7057,15 @@ Japan, I may be permitted to make a single comment.
 
 We are perpetually boring the world and each other with talk about the
 
-bonds that bind us to America. We are perpetually crying aloud that
+bonds that bind us to [[America]]. We are perpetually crying aloud that
 
-England and America are very much alike, especially England. We are
+England and [[America]] are very much alike, especially England. We are
 
 always insisting that the two are identical in all the things in which
 
 they most obviously differ. We are always saying that both stand for
 
-democracy, when we should not consent to stand their democracy for half
+[[democracy]], when we should not consent to stand their [[democracy]] for half
 
 a day. We are always saying that at least we are all Anglo-Saxons, when
 
@@ -7073,7 +7073,7 @@ we are descended from Romans and Normans and Britons and Danes, and they
 
 are descended from Irishmen and Italians and Slavs and Germans. We tell
 
-a people whose very existence is a revolt against the British Crown that
+a people whose very existence is a revolt against the British [[Crown]] that
 
 they are passionately devoted to the British Constitution. We tell a
 
@@ -7097,43 +7097,43 @@ existence to insult. And when we have established all these nonsensical
 
 analogies with a nonexistent nation, we wait until there is a crisis in
 
-which we really are at one with America, and then we falter and threaten
+which we really are at one with [[America]], and then we falter and threaten
 
-to fail her. In a battle where we really are of one blood, the blood of
+to fail her. In a battle where we really are of one [[Blood|blood]], the [[Blood|blood]] of
 
 the great white race throughout the world, when we really have one
 
 language, the fundamental alphabet of Cadmus and the script of Rome,
 
-when we really do represent the same reign of law, the common conscience
+when we really do represent the same reign of law, the common [[Conscience|conscience]]
 
 of Christendom and the morals of men baptized, when we really have an
 
-implicit faith and honour and type of freedom to summon up our souls as
+implicit [[Faith|faith]] and [[Honour|honour]] and type of [[Freedom|freedom]] to summon up our souls as
 
-with trumpets--_then_ many of us begin to weaken and waver and wonder
+with trumpets--_then_ many of us begin to weaken and waver and [[Wonder|wonder]]
 
 whether there is not something very nice about little yellow men, whose
 
-heroic stories revolve round polygamy and suicide, and whose heroes wore
+heroic stories revolve round polygamy and [[suicide]], and whose heroes wore
 
 two swords and worshipped the ancestors of the Mikado.
 
 _Prohibition in Fact and Fancy_
 
-I went to America with some notion of not discussing Prohibition. But I
+I went to [[America]] with some notion of not discussing Prohibition. But I
 
-soon found that well-to-do Americans were only too delighted to discuss
+soon found that [[Well|well]]-to-do Americans were only too delighted to discuss
 
 it over the nuts and wine. They were even willing, if necessary, to
 
 dispense with the nuts. I am far from sneering at this; having a general
 
-philosophy which need not here be expounded, but which may be symbolised
+[[philosophy]] which need not here be expounded, but which may be symbolised
 
 by saying that monkeys can enjoy nuts but only men can enjoy wine. But
 
-if I am to deal with Prohibition, there is no doubt of the first thing
+if I am to deal with Prohibition, there is no [[Doubt|doubt]] of the first thing
 
 to be said about it. The first thing to be said about it is that it does
 
@@ -7143,13 +7143,13 @@ was intended to be enforced among the poor; though even among them I
 
 fancy it is much evaded. It is certainly not enforced among the rich;
 
-and I doubt whether it was intended to be. I suspect that this has
+and I [[Doubt|doubt]] whether it was intended to be. I suspect that this has
 
 always happened whenever this negative notion has taken hold of some
 
 particular province or tribe. Prohibition never prohibits. It never has
 
-in history; not even in Moslem history; and it never will. Mahomet at
+in [[history]]; not even in Moslem [[history]]; and it never will. Mahomet at
 
 least had the argument of a climate and not the interest of a class. But
 
@@ -7159,7 +7159,7 @@ permanently into our own modern culture. You will find the one Moslem
 
 poem that has really pierced is a Moslem poem in praise of wine. The
 
-crown of all the victories of the Crescent is that nobody reads the
+[[Crown|crown]] of all the victories of the Crescent is that nobody reads the
 
 Koran and everybody reads the Rubaiyat.
 
@@ -7169,13 +7169,13 @@ representing a festive old gentleman in a state of collapse on the
 
 pavement, and a philanthropic old lady anxiously calling the attention
 
-of a cabman to the calamity. The old lady says, 'I'm sure this poor
+of a [[cabman]] to the calamity. The old lady says, 'I'm sure this poor
 
-gentleman is ill,' and the cabman replies with fervour, 'Ill! I wish I
+gentleman is ill,' and the [[cabman]] replies with fervour, 'Ill! I wish I
 
 'ad 'alf 'is complaint.'
 
-We talk about unconscious humour; but there is such a thing as
+We talk about unconscious [[Humour|humour]]; but there is such a thing as
 
 unconscious seriousness. Flippancy is a flower whose roots are often
 
@@ -7189,13 +7189,13 @@ he means only to make a pun. Some of the _Punch_ jokes of the best
 
 period are examples of this; and that quoted above is a very strong
 
-example of it. The cabman meant what he said; but he said a great deal
+example of it. The [[cabman]] meant what he said; but he said a great deal
 
 more than he meant. His utterance contained fine philosophical doctrines
 
 and distinctions of which he was not perhaps entirely conscious. The
 
-spirit of the English language, the tragedy and comedy of the condition
+spirit of the English language, the [[Tragedy|tragedy]] and [[Comedy|comedy]] of the condition
 
 of the English people, spoke through him as the god spoke through a
 
@@ -7203,7 +7203,7 @@ teraph-head or brazen mask of oracle. And the oracle is an omen; and in
 
 some sense an omen of doom.
 
-Observe, to begin with, the sobriety of the cabman. Note his measure,
+Observe, to begin with, the sobriety of the [[cabman]]. Note his measure,
 
 his moderation; or to use the yet truer term, his temperance. He only
 
@@ -7213,7 +7213,7 @@ welcome to the other half, along with all the other pomps and luxuries
 
 of his superior social station. There is nothing Bolshevist or even
 
-Communist about the temperance cabman. He might almost be called
+Communist about the temperance [[cabman]]. He might almost be called
 
 Distributist, in the sense that he wishes to distribute the old
 
@@ -7227,15 +7227,15 @@ this picture Mr. Punch made amends for some more snobbish pictures, with
 
 the opposite social moral. It will remain eternally among his real
 
-glories that he exhibited a picture in which the cabman was sober and
+glories that he exhibited a picture in which the [[cabman]] was sober and
 
 the gentleman was drunk. Despite many ideas to the contrary, it was
 
-emphatically a picture of real life. The truth is subject to the
+emphatically a picture of real life. The [[Truth|truth]] is subject to the
 
-simplest of all possible tests. If the cabman were really and truly
+simplest of all possible tests. If the [[cabman]] were really and truly
 
-drunk he would not be a cabman, for he could not drive a cab. If he had
+drunk he would not be a [[cabman]], for he could not drive a cab. If he had
 
 the whole of the old gentleman's complaint, he would be sitting happily
 
@@ -7243,7 +7243,7 @@ on the pavement beside the old gentleman; a symbol of social equality
 
 found at last, and the levelling of all classes of mankind. I do not say
 
-that there has never been such a monster known as a drunken cabman; I do
+that there has never been such a [[Monster|monster]] known as a drunken [[cabman]]; I do
 
 not say that the driver may not sometimes have approximated imprudently
 
@@ -7261,7 +7261,7 @@ people but only at papers, probably have a mass of social statistics to
 
 the contrary; founded on the simple fact that cabmen can be
 
-cross-examined about their habits and gentlemen cannot. Social workers
+[[Cross|cross]]-examined about their habits and gentlemen cannot. Social workers
 
 probably have the whole thing worked out in sections and compartments,
 
@@ -7277,11 +7277,11 @@ English; and in the proverb that says 'as drunk as a lord.'
 
 Now Prohibition, whether as a proposal in England or a pretence in
 
-America, simply means that the man who has drunk less shall have no
+[[America]], simply means that the man who has drunk less shall have no
 
 drink, and the man who has drunk more shall have all the drink. It means
 
-that the old gentleman shall be carried home in the cab drunker than
+that the old gentleman shall be carried [[Home|home]] in the cab drunker than
 
 ever; but that, in order to make it quite safe for him to drink to
 
@@ -7293,7 +7293,7 @@ ever will mean. It tends to that in Moslem countries; where the
 
 luxurious and advanced drink champagne, while the poor and fanatical
 
-drink water. It means that in modern America; where the wealthy are all
+drink [[Water|water]]. It means that in modern [[America]]; where the wealthy are all
 
 at this moment sipping their cocktails, and discussing how much harder
 
@@ -7303,7 +7303,7 @@ This is what it means and all it means; and men are divided about it
 
 according to whether they believe in a certain transcendental concept
 
-called 'justice,' expressed in a more mystical paradox as the equality
+called 'justice,' expressed in a more mystical [[Paradox|paradox]] as the equality
 
 of men. So long as you do not believe in justice, and so long as you are
 
@@ -7313,7 +7313,7 @@ be as drunk as you choose.
 
 I see that some remarks by the Rev. R. J. Campbell, dealing with social
 
-conditions in America, are reported in the press. They include some
+conditions in [[America]], are reported in the press. They include some
 
 observations about Sinn Fein in which, as in most of Mr. Campbell's
 
@@ -7321,19 +7321,19 @@ allusions to Ireland, it is not difficult to detect his dismal origin,
 
 or the acrid smell of the smoke of Belfast. But the remarks about
 
-America are valuable in the objective sense, over and above their
+[[America]] are valuable in the objective sense, over and above their
 
-philosophy. He believes that Prohibition will survive and be a success,
+[[philosophy]]. He believes that Prohibition will survive and be a [[success]],
 
 nor does he seem himself to regard the prospect with any special
 
-disfavour. But he frankly and freely testifies to the truth I have
+disfavour. But he frankly and freely testifies to the [[Truth|truth]] I have
 
 asserted; that Prohibition does not prohibit, so far as the wealthy are
 
 concerned. He testifies to constantly seeing wine on the table, as will
 
-any other grateful guest of the generous hospitality of America; and he
+any other grateful guest of the generous hospitality of [[America]]; and he
 
 implies humorously that he asked no questions about the story told him
 
@@ -7343,13 +7343,13 @@ facts; and we come back as before to the principles. Is Mr. Campbell
 
 content with a Prohibition which is another name for Privilege? If so,
 
-he has simply absorbed along with his new theology a new morality which
+he has simply absorbed along with his new theology a new [[morality]] which
 
 is different from mine. But he does state both sides of the inequality
 
-with equal logic and clearness; and in these days of intellectual fog
+with equal [[logic]] and clearness; and in these days of intellectual fog
 
-that alone is like a ray of sunshine.
+that [[Alone|alone]] is like a ray of sunshine.
 
 Now my primary objection to Prohibition is not based on any arguments
 
@@ -7357,7 +7357,7 @@ against it, but on the one argument for it. I need nothing more for its
 
 condemnation than the only thing that is said in its defence. It is said
 
-by capitalists all over America; and it is very clearly and correctly
+by capitalists all over [[America]]; and it is very clearly and correctly
 
 reported by Mr. Campbell himself. The argument is that employees work
 
@@ -7365,7 +7365,7 @@ harder, and therefore employers get richer. That this idea should be
 
 taken calmly, by itself, as the test of a problem of liberty, is in
 
-itself a final testimony to the presence of slavery. It shows that
+itself a final testimony to the presence of [[Slavery|slavery]]. It shows that
 
 people have completely forgotten that there is any other test except the
 
@@ -7379,13 +7379,13 @@ this also really means that they can do more work. But they are not in
 
 any way willing that workmen should have fun; for fun only increases the
 
-happiness and not the utility of the worker. Fun is freedom; and in that
+happiness and not the utility of the worker. Fun is [[Freedom|freedom]]; and in that
 
 sense is an end in itself. It concerns the man not as a worker but as a
 
-citizen, or even as a soul; and the soul in that sense is an end in
+citizen, or even as a [[Soul|soul]]; and the [[Soul|soul]] in that sense is an end in
 
-itself. That a man shall have a reasonable amount of comedy and poetry
+itself. That a man shall have a reasonable amount of [[Comedy|comedy]] and poetry
 
 and even fantasy in his life is part of his spiritual health, which is
 
@@ -7403,9 +7403,9 @@ conjecture than a prophecy, that England may find it necessary to become
 
 teetotal in order to compete commercially with the efficiency and
 
-economy of teetotal America. Well, in the eighteenth and early
+economy of teetotal [[America]]. [[Well]], in the eighteenth and early
 
-nineteenth centuries there was in America one of the most economical and
+nineteenth centuries there was in [[America]] one of the most economical and
 
 efficient of all forms of labour. It did not happen to be feasible for
 
@@ -7415,29 +7415,29 @@ humanitarian prejudices about in those days. But economically there
 
 seems to be no reason why a man should not have prophesied that England
 
-would be forced to adopt American Slavery then, as she is urged to adopt
+would be forced to adopt American [[Slavery]] then, as she is urged to adopt
 
-American Prohibition now. Perhaps such a prophet would have prophesied
+American Prohibition now. Perhaps such a [[Prophet|prophet]] would have prophesied
 
-rightly. Certainly it is not impossible that universal Slavery might
+rightly. Certainly it is not impossible that universal [[Slavery]] might
 
 have been the vision of Calhoun as universal Prohibition seems to be the
 
 vision of Campbell. The old England of 1830 would have said that such a
 
-plea for slavery was monstrous; but what would it have said of a plea
+plea for [[Slavery|slavery]] was monstrous; but what would it have said of a plea
 
-for enforced water-drinking? Nevertheless, the nobler Servile State of
+for enforced [[Water|water]]-drinking? Nevertheless, the nobler Servile State of
 
 Calhoun collapsed before it could spread to Europe. And there is always
 
-the hope that the same may happen to the far more materialistic Utopia
+the [[Hope|hope]] that the same may happen to the far more materialistic Utopia
 
 of Mr. Campbell and Soft Drinks.
 
-Abstract morality is very important; and it may well clear the mind to
+Abstract [[morality]] is very important; and it may [[Well|well]] clear the mind to
 
-consider what would be the effect of Prohibition in America, if it were
+consider what would be the effect of Prohibition in [[America]], if it were
 
 introduced there. It would, of course, be a decisive departure from the
 
@@ -7449,11 +7449,11 @@ are reduced to minimising that document in defence of Prohibition,
 
 exactly as the slave-owners were reduced to minimising it in defence of
 
-Slavery. They are reduced to saying that the Fathers of the Republic
+[[Slavery]]. They are reduced to saying that the Fathers of the Republic
 
-meant no more than that they would not be ruled by a king. And they are
+meant no more than that they would not be ruled by a [[King|king]]. And they are
 
-obviously open to the reply which Lincoln gave to Douglas on the slavery
+obviously open to the reply which [[Lincoln]] gave to Douglas on the [[Slavery|slavery]]
 
 question; that if that great charter was limited to certain events in
 
@@ -7469,23 +7469,23 @@ They are maintaining that Jefferson only meant to say something that he
 
 does not say at all. The great preamble does not say that all
 
-monarchical government must be wrong; on the contrary, it rather implies
+monarchical [[government]] must be wrong; on the contrary, it rather implies
 
-that most government is right. It speaks of human governments in general
+that most [[government]] is right. It speaks of human governments in general
 
 as justified by the necessity of defending certain personal rights. I
 
 see no reason whatever to suppose that it would not include any royal
 
-government that does defend those rights. Still less do I doubt what it
+[[government]] that does defend those rights. Still less do I [[Doubt|doubt]] what it
 
-would say of a republican government that does destroy those rights.
+would say of a republican [[government]] that does destroy those rights.
 
-But what are those rights? Sophists can always debate about their
+But what are those rights? Sophists can always [[debate]] about their
 
-degree; but even sophists cannot debate about their direction. Nobody in
+degree; but even sophists cannot [[debate]] about their direction. Nobody in
 
-his five wits will deny that Jeffersonian democracy wished to give the
+his five wits will deny that Jeffersonian [[democracy]] wished to give the
 
 law a general control in more public things, but the citizens a more
 
@@ -7503,7 +7503,7 @@ they do not include the normal right to regulate his own health, in
 
 relation to the normal risks of diet and daily life? Nobody can pretend
 
-that beer is a poison as prussic acid is a poison; that all the millions
+that beer is a [[Poison|poison]] as prussic acid is a [[Poison|poison]]; that all the millions
 
 of civilised men who drank it all fell down dead when they had touched
 
@@ -7533,39 +7533,39 @@ sceptic has when he supports a negation. That sort of ultimate
 
 scepticism can only be retorted upon itself, and we can point out to
 
-them that they can no more prove the right of the city to be oppressive
+them that they can no more prove the right of the [[City|city]] to be oppressive
 
 than we can prove the right of the citizen to be free. In the primary
 
 metaphysics of such a claim, it would surely be easier to make it out
 
-for a single conscious soul than for an artificial social combination.
+for a single conscious [[Soul|soul]] than for an artificial social combination.
 
 If there are no rights of men, what are the rights of nations? Perhaps a
 
-nation has no claim to self-government. Perhaps it has no claim to good
+nation has no claim to [[Self|self]]-[[government]]. Perhaps it has no claim to good
 
-government. Perhaps it has no claim to any sort of government or any
+[[government]]. Perhaps it has no claim to any sort of [[government]] or any
 
 sort of independence. Perhaps they will say _that_ is not implied in the
 
 Declaration of Independence. But without going deep into my reasons for
 
-believing in natural rights, or rather in supernatural rights (and
+believing in natural rights, or rather in [[Supernatural|supernatural]] rights (and
 
-Jefferson certainly states them as supernatural), I am content here to
+Jefferson certainly states them as [[Supernatural|supernatural]]), I am content here to
 
-note that a man's treatment of his own body, in relation to traditional
+note that a man's treatment of his own [[Body|body]], in relation to traditional
 
 and ordinary opportunities for bodily excess, is as near to his
 
-self-respect as social coercion can possibly go; and that when that is
+[[Self|self]]-respect as social coercion can possibly go; and that when that is
 
 gone there is nothing left. If coercion applies to that, it applies to
 
 everything; and in the future of this controversy it obviously will
 
-apply to everything. When I was in America, people were already applying
+apply to everything. When I was in [[America]], people were already applying
 
 it to tobacco. I never can see why they should not apply it to talking.
 
@@ -7587,13 +7587,13 @@ blue devils. He should gag all gay deceivers and plausible cynics; he
 
 should cut off all flattering lips and the tongue that speaketh proud
 
-things. Nobody can doubt that nine-tenths of the harm in the world is
+things. Nobody can [[Doubt|doubt]] that nine-tenths of the harm in the world is
 
 done simply by talking. Jefferson and the old democrats allowed people
 
 to talk, not because they were unaware of this fact, but because they
 
-were fettered by this old fancy of theirs about freedom and the rights
+were fettered by this old fancy of theirs about [[Freedom|freedom]] and the rights
 
 of man. But since we have already abandoned that doctrine in a final
 
@@ -7621,17 +7621,17 @@ policeman would remove at stated hours; and their mouths would be opened
 
 from one to three, as now in England even the public-houses are from
 
-time to time accessible to the public. To some this will sound
+[[Time|time]] to [[Time|time]] accessible to the public. To some this will sound
 
 fantastic; but not so fantastic as Jefferson would have thought
 
 Prohibition. But there is one sense in which it is indeed fantastic, for
 
-by hypothesis it leaves out the favouritism that is the fundamental of
+by hypothesis it [[Leaves|leaves]] out the favouritism that is the fundamental of
 
-the whole matter. The only sense in which we can say that logic will
+the whole matter. The only sense in which we can say that [[logic]] will
 
-never go so far as this is that logic will never go the length of
+never go so far as this is that [[logic]] will never go the length of
 
 equality. It is perfectly possible that the same forces that have
 
@@ -7639,7 +7639,7 @@ forbidden beer may go on to forbid tobacco. But they will in a special
 
 and limited sense forbid tobacco--but not cigars. Or at any rate not
 
-expensive cigars. In America, where large numbers of ordinary men smoke
+expensive cigars. In [[America]], where large numbers of ordinary men smoke
 
 rather ordinary cigars, there would be doubtless a good opportunity of
 
@@ -7647,7 +7647,7 @@ penalising a very ordinary pleasure. But the Havanas of the millionaire
 
 will be all right. So it will be if ever the Puritans bring back the
 
-Scold's Bridle and the statutory silence of the populace. It will only
+Scold's Bridle and the statutory [[Silence|silence]] of the populace. It will only
 
 be the populace that is silent. The politicians will go on talking.
 
@@ -7659,19 +7659,19 @@ which, if not defences, are at least excuses. The first is that
 
 Prohibition was largely passed in a sort of fervour or fever of
 
-self-sacrifice, which was a part of the passionate patriotism of America
+[[Self-Sacrifice|self-sacrifice]], which was a part of the passionate patriotism of [[America]]
 
 in the war. As I have remarked elsewhere, those who have any notion of
 
-what that national unanimity was like will smile when they see America
+what that national unanimity was like will smile when they see [[America]]
 
 made a model of mere international idealism. Prohibition was partly a
 
-sort of patriotic renunciation; for the popular instinct, like every
+sort of patriotic [[Renunciation|renunciation]]; for the popular instinct, like every
 
 poetic instinct, always tends at great crises to great gestures of
 
-renunciation. But this very fact, while it makes the inhumanity far more
+[[Renunciation|renunciation]]. But this very fact, while it makes the inhumanity far more
 
 human, makes it far less final and convincing. Men cannot remain
 
@@ -7679,7 +7679,7 @@ standing stiffly in such symbolical attitudes; nor can a permanent
 
 policy be founded on something analogous to flinging a gauntlet or
 
-uttering a battle-cry. We might as well expect all the Yale students to
+uttering a battle-cry. We might as [[Well|well]] expect all the Yale students to
 
 remain through life with their mouths open, exactly as they were when
 
@@ -7687,7 +7687,7 @@ they uttered the college yell. It would be as reasonable as to expect
 
 them to remain through life with their mouths shut, while the wine-cup
 
-which has been the sacrament of all poets and lovers passed round among
+which has been the sacrament of all poets and [[lovers]] passed round among
 
 all the youth of the world. This point appeared very plainly in a
 
@@ -7699,19 +7699,19 @@ of these healthier Prohibitionists, which had so much to do with the
 
 passing of Prohibition, by asking, 'May not a man who is asked to give
 
-up his blood for his country be asked to give up his beer for his
+up his [[Blood|blood]] for his country be asked to give up his beer for his
 
 country?' And this phrase clearly illuminates all the limitations of the
 
 case. I have never denied, in principle, that it might in some abnormal
 
-crisis be lawful for a government to lock up the beer, or to lock up the
+crisis be lawful for a [[government]] to lock up the beer, or to lock up the
 
 bread. In that sense I am quite prepared to treat the sacrifice of beer
 
-in the same way as the sacrifice of blood. But is my American critic
+in the same way as the sacrifice of [[Blood|blood]]. But is my American critic
 
-really ready to treat the sacrifice of blood in the same way as the
+really ready to treat the sacrifice of [[Blood|blood]] in the same way as the
 
 sacrifice of beer? Is bloodshed to be as prolonged and protracted as
 
@@ -7731,27 +7731,27 @@ but of whether lying and swindling are wrong. But I never denied that
 
 there might need to be exceptional sacrifices for exceptional occasions;
 
-and war is in its nature an exception. Only, if war is the exception,
+and war is in its [[Nature|nature]] an exception. Only, if war is the exception,
 
 why should Prohibition be the rule? If the surrender of beer is worthy
 
-to be compared to the shedding of blood, why then blood ought to be
+to be compared to the shedding of [[Blood|blood]], why then [[Blood|blood]] ought to be
 
 flowing for ever like a fountain in the public squares of Philadelphia
 
-and New York. If my critic wants to complete his parallel, he must draw
+and [[New York]]. If my critic wants to complete his parallel, he must draw
 
 up rather a remarkable programme for the daily life of the ordinary
 
 citizens. He must suppose that, through all their lives, they are
 
-paraded every day at lunch time and prodded with bayonets to show that
+paraded every day at lunch [[Time|time]] and prodded with bayonets to show that
 
-they will shed their blood for their country. He must suppose that every
+they will shed their [[Blood|blood]] for their country. He must suppose that every
 
-evening, after a light repast of poison gas and shrapnel, they are made
+evening, after a light repast of [[Poison|poison]] gas and shrapnel, they are made
 
-to go to sleep in a trench under a permanent drizzle of shell-fire. It
+to go to [[Sleep|sleep]] in a trench under a permanent drizzle of shell-[[Fire|fire]]. It
 
 is surely obvious that if this were the normal life of the citizen, the
 
@@ -7769,19 +7769,19 @@ citizen must be subject to control in such bodily things is like saying
 
 that every Christian ought to tear himself with red-hot pincers because
 
-the Christian martyrs did their duty in time of persecution. A man has a
+the Christian martyrs did their duty in [[Time|time]] of persecution. A man has a
 
-right to control his body, though in a time of martyrdom he may give his
+right to control his [[Body|body]], though in a [[Time|time]] of [[Martyrdom|martyrdom]] he may give his
 
-body to be burned; and a man has a right to control his bodily health,
+[[Body|body]] to be burned; and a man has a right to control his bodily health,
 
-though in a state of siege he may give his body to be starved. Thus,
+though in a state of siege he may give his [[Body|body]] to be starved. Thus,
 
 though the patriotic defence was a sincere defence, it is a defence that
 
 comes back on the defenders like a boomerang. For it proves only that
 
-Prohibition ought to be ephemeral, unless war ought to be eternal.
+Prohibition ought to be [[ephemeral]], unless war ought to be eternal.
 
 The other excuse is much less romantic and much more realistic. I have
 
@@ -7817,7 +7817,7 @@ indeed I wish I had more space here to do justice to the Red Indians.
 
 They did heroic service in the war; and more than justified their
 
-glorious place in the day-dreams and nightmares of our boyhood. But the
+glorious place in the day-[[Dreams|dreams]] and nightmares of our boyhood. But the
 
 negro problem certainly demands more study than a sight-seer could give
 
@@ -7829,17 +7829,17 @@ who shoots at sight. But I believe that it was always common ground to
 
 people of common sense that the enslavement and importation of negroes
 
-had been the crime and catastrophe of American history. The only
+had been the crime and catastrophe of American [[history]]. The only
 
 difference was originally that one side thought that, the crime once
 
-committed, the only reparation was their freedom; while the other
+committed, the only reparation was their [[Freedom|freedom]]; while the other
 
 thought that, the crime once committed, the only safety was their
 
-slavery. It was only comparatively lately, by a process I shall have to
+[[Slavery|slavery]]. It was only comparatively lately, by a process I shall have to
 
-indicate elsewhere, that anything like a positive case for slavery
+indicate elsewhere, that anything like a positive case for [[Slavery|slavery]]
 
 became possible. Now among the many problems of the presence of an alien
 
@@ -7853,15 +7853,15 @@ alleged to have a peculiarly demoralising effect upon negroes in the
 
 United States; to call up the passions that are the particular
 
-temptation of the race and to lead to appalling outrages that are
+[[Temptation|temptation]] of the race and to lead to appalling outrages that are
 
 followed by appalling popular vengeance. However this may be, many of
 
-the states of the American Union, which first forbade liquor to
+the states of the American [[Union]], which first forbade liquor to
 
 citizens, meant simply to forbid it to negroes. But they had not the
 
-moral courage to deny that negroes are citizens. About all their
+moral [[Courage|courage]] to deny that negroes are citizens. About all their
 
 political expedients necessarily hung the load that hangs so heavy on
 
@@ -7881,7 +7881,7 @@ the comparison illustrates the idiocy of supposing that the moral sense
 
 of mankind will ever support the prohibition of drinking as if it were
 
-something like the prohibition of shooting. Shooting in America is
+something like the prohibition of shooting. Shooting in [[America]] is
 
 liable to take a free form, and sometimes a very horrible form; as when
 
@@ -7893,7 +7893,7 @@ Americans gravely tell us that their drinking cannot be interfered with,
 
 because they are only using up their existing stocks of wine, we may
 
-well be disposed to smile. When I was there, at any rate, they were
+[[Well|well]] be disposed to smile. When I was there, at any rate, they were
 
 using them up very fast; and with no apparent fears about the supply.
 
@@ -7917,7 +7917,7 @@ the rich now make all the rules and therefore all the exceptions, but
 
 partly because nobody ever could feel the full moral seriousness of this
 
-particular rule. And the truth is, as I have indicated, that it was
+particular rule. And the [[Truth|truth]] is, as I have indicated, that it was
 
 originally established as an exception and not as a rule. The
 
@@ -7941,7 +7941,7 @@ to say frankly that we have ruled them so badly that they are unfit to
 
 rule themselves. But no modern oligarch is enough of a man to say this.
 
-For like all virile cynicism it would have an element of humility; which
+For like all virile cynicism it would have an element of [[Humility|humility]]; which
 
 would not mix with the necessary element of hypocrisy. So we proceed,
 
@@ -7963,13 +7963,13 @@ and then send inspectors to the slums but not to the smart streets. We
 
 apply the same ingenuous principle; and are quite as undemocratic as
 
-Western democracy. Nevertheless there is an element in the American case
+Western [[democracy]]. Nevertheless there is an element in the American case
 
-which cannot be present in ours; and this chapter may well conclude upon
+which cannot be present in ours; and this chapter may [[Well|well]] conclude upon
 
 so important a change.
 
-America can now say with pride that she has abolished the colour bar. In
+[[America]] can now say with [[Pride|pride]] that she has abolished the colour bar. In
 
 this matter the white labourer and the black labourer have at last been
 
@@ -8001,7 +8001,7 @@ perfectly entitled to laugh at anything, so long as he realises, in a
 
 reverent and religious spirit, that he himself is laughable. I was a
 
-foreigner in America; and I can truly claim that the sense of my own
+foreigner in [[America]]; and I can truly claim that the sense of my own
 
 laughable position never left me. But when the native and the foreigner
 
@@ -8009,7 +8009,7 @@ have finished with seeing the fun of each other in things that are meant
 
 to be serious, they both approach the far more delicate and dangerous
 
-ground of things that are meant to be funny. The sense of humour is
+ground of things that are meant to be funny. The sense of [[Humour|humour]] is
 
 generally very national; perhaps that is why the internationalists are
 
@@ -8023,17 +8023,17 @@ rightly or wrongly, I came to the conclusion that they arose from the
 
 failure to understand when a foreigner is serious and when he is
 
-humorous. And it is in the very nature of the best sort of joke to be
+humorous. And it is in the very [[Nature|nature]] of the best sort of joke to be
 
 the worst sort of insult if it is not taken as a joke.
 
-The English and the American types of humour are in one way directly
+The English and the American types of [[Humour|humour]] are in one way directly
 
-contrary. The most American sort of fun involves a soaring imagination,
+contrary. The most American sort of fun involves a soaring [[Imagination|imagination]],
 
-piling one house on another in a tower like that of a sky-scraper. The
+piling one [[house]] on another in a tower like that of a sky-scraper. The
 
-most English humour consists of a sort of bathos, of a man returning to
+most English [[Humour|humour]] consists of a sort of bathos, of a man returning to
 
 the earth his mother in a homely fashion; as when he sits down suddenly
 
@@ -8041,9 +8041,9 @@ on a butter-slide. English farce describes a man as being in a hole.
 
 American fantasy, in its more aspiring spirit, describes a man as being
 
-up a tree. The former is to be found in the cockney comic songs that
+up a tree. The former is to be found in the cockney comic [[songs]] that
 
-concern themselves with hanging out the washing or coming home with the
+concern themselves with hanging out the washing or coming [[Home|home]] with the
 
 milk. The latter is to be found in those fantastic yarns about machines
 
@@ -8067,7 +8067,7 @@ based on the extraordinary assumption that the American means what he
 
 says. The American has merely indulged in a little art for art's sake,
 
-and abstract adventure of the imagination; he has told an American short
+and abstract adventure of the [[Imagination|imagination]]; he has told an American short
 
 story. But the Englishman, not understanding this, will think the other
 
@@ -8075,11 +8075,11 @@ man is boasting, and reflecting on the insufficiency of the English
 
 effort. The English soldier is very likely to say something like, 'Oh,
 
-you'll be wanting to get home to your old woman before that, and asking
+you'll be wanting to get [[Home|home]] to your old woman before that, and asking
 
 for a kipper with your tea.' And it is quite likely that the American
 
-will be offended in his turn at having his arabesque of abstract beauty
+will be offended in his turn at having his arabesque of abstract [[Beauty|beauty]]
 
 answered in so personal a fashion. Being an American, he will probably
 
@@ -8093,13 +8093,13 @@ the woman is old. Possibly he thinks the mysterious demand for a kipper
 
 carries with it some charge of ill-treating his wife; which his national
 
-sense of honour swiftly resents. But the real cross-purposes come from
+sense of [[Honour|honour]] swiftly resents. But the real [[Cross|cross]]-purposes come from
 
 the contrary direction of the two exaggerations, the American making
 
 life more wild and impossible than it is, and the Englishman making it
 
-more flat and farcical than it is; the one escaping from the house of
+more flat and farcical than it is; the one escaping from the [[house]] of
 
 life by a skylight and the other by a trap-door.
 
@@ -8109,7 +8109,7 @@ practical people. Most of those who profess to remove all international
 
 differences are not practical people. Most of the phrases offered for
 
-the reconciliation of severally patriotic peoples are entirely serious
+the [[Reconciliation|reconciliation]] of severally patriotic peoples are entirely serious
 
 and even solemn phrases. But human conversation is not conducted in
 
@@ -8119,23 +8119,23 @@ flippant man. And the normal man is almost always the national man.
 
 Patriotism is the most popular of all the virtues. The drier sort of
 
-democrats who despise it have the democracy against them in every
+democrats who despise it have the [[democracy]] against them in every
 
 country in the world. Hence their international efforts seldom go any
 
-farther than to effect an international reconciliation of all
+farther than to effect an international [[Reconciliation|reconciliation]] of all
 
 internationalists. But we have not solved the normal and popular problem
 
-until we have an international reconciliation of all nationalists.
+until we have an international [[Reconciliation|reconciliation]] of all nationalists.
 
-It is very difficult to see how humour can be translated at all. When
+It is very difficult to see how [[Humour|humour]] can be translated at all. When
 
-Sam Weller is in the Fleet Prison and Mrs. Weller and Mr. Stiggins sit
+[[Sam Weller]] is in the Fleet [[Prison]] and Mrs. Weller and Mr. Stiggins sit
 
 on each side of the fireplace and weep and groan with sympathy, old Mr.
 
-Weller observes, 'Vell, Sammy, I hope you find your spirits rose by this
+Weller observes, 'Vell, Sammy, I [[Hope|hope]] you find your spirits [[Rose|rose]] by this
 
 'ere lively visit.' I have never looked up this passage in the popular
 
@@ -8143,13 +8143,13 @@ and successful French version of _Pickwick_; but I confess I am curious
 
 as to what French past-participle conveys the precise effect of the word
 
-'rose.' A translator has not only to give the right translation of the
+'[[Rose|rose]].' A translator has not only to give the right [[Translation|translation]] of the
 
-right word but the right translation of the wrong word. And in the same
+right word but the right [[Translation|translation]] of the wrong word. And in the same
 
 way I am quite prepared to suspect that there are English jokes which an
 
-Englishman must enjoy in his own rich and romantic solitude, without
+Englishman must enjoy in his own rich and romantic [[Solitude|solitude]], without
 
 asking for the sympathy of an American. But Englishmen are generally
 
@@ -8157,19 +8157,19 @@ only too prone to claim this fine perception, without seeing that the
 
 fine edge of it cuts both ways. I have begun this chapter on the note of
 
-national humour because I wish to make it quite clear that I realise how
+national [[Humour|humour]] because I wish to make it quite clear that I realise how
 
 easily a foreigner may take something seriously that is not serious.
 
-When I think something in America is really foolish, it may be I that am
+When I think something in [[America]] is really foolish, it may be I that am
 
-made a fool of. It is the first duty of a traveller to allow for this;
+made a [[Fool|fool]] of. It is the first duty of a traveller to allow for this;
 
 but it seems to be the very last thing that occurs to some travellers.
 
 But when I seek to say something of what may be called the fantastic
 
-side of America, I allow beforehand that some of it may be meant to be
+side of [[America]], I allow beforehand that some of it may be meant to be
 
 fantastic. And indeed it is very difficult to believe that some of it is
 
@@ -8177,19 +8177,19 @@ meant to be serious. But whether or no there is a joke, there is
 
 certainly an inconsistency; and it is an inconsistency in the moral
 
-make-up of America which both puzzles and amuses me.
+make-up of [[America]] which both puzzles and amuses me.
 
-The danger of democracy is not anarchy but convention. There is even a
+The danger of [[democracy]] is not anarchy but convention. There is even a
 
-sort of double meaning in the word 'convention'; for it is also used for
+sort of [[Double|double]] meaning in the word 'convention'; for it is also used for
 
 the most informal and popular sort of parliament; a parliament not
 
-summoned by any king. The Americans come together very easily without
+summoned by any [[King|king]]. The Americans come together very easily without
 
-any king; but their coming together is in every sense a convention, and
+any [[King|king]]; but their coming together is in every sense a convention, and
 
-even a very conventional convention. In a democracy riot is rather the
+even a very conventional convention. In a [[democracy]] riot is rather the
 
 exception and respectability certainly the rule. And though a
 
@@ -8197,11 +8197,11 @@ superficial sight-seer should hesitate about all such generalisations,
 
 and certainly should allow for enormous exceptions to them, he does
 
-receive a general impression of unity verging on uniformity. Thus
+receive a general impression of [[unity]] verging on uniformity. Thus
 
-Americans all dress well; one might almost say that American women all
+Americans all dress [[Well|well]]; one might almost say that American women all
 
-look well; but they do not, as compared with Europeans, look very
+look [[Well|well]]; but they do not, as compared with Europeans, look very
 
 different. They are in the fashion; too much in the fashion even to be
 
@@ -8209,7 +8209,7 @@ conspicuously fashionable. Of course there are patches, both Bohemian
 
 and Babylonian, of which this is not true, but I am talking of the
 
-general tone of a whole democracy. I have said there is more
+general tone of a whole [[democracy]]. I have said there is more
 
 respectability than riot; but indeed in a deeper sense the same spirit
 
@@ -8223,31 +8223,31 @@ instinct,' so long as we realise that it is a metaphor and not an
 
 explanation.
 
-Public opinion can be a prairie fire. It eats up everything that opposes
+Public opinion can be a prairie [[Fire|fire]]. It eats up everything that opposes
 
-it; and there is the grandeur as well as the grave disadvantages of a
+it; and there is the grandeur as [[Well|well]] as the [[Grave|grave]] disadvantages of a
 
-natural catastrophe in that national unity. Pacifists who complained in
+natural catastrophe in that national [[unity]]. Pacifists who complained in
 
 England of the intolerance of patriotism have no notion of what
 
-patriotism can be like. If they had been in America, after America had
+patriotism can be like. If they had been in [[America]], after [[America]] had
 
 entered the war, they would have seen something which they have always
 
 perhaps subconsciously dreaded, and would then have beyond all their
 
-worst dreams detested; and the name of it is democracy. They would have
+worst [[Dreams|dreams]] detested; and the name of it is [[democracy]]. They would have
 
-found that there are disadvantages in birds of a feather flocking
+found that there are disadvantages in [[Birds|birds]] of a feather flocking
 
 together; and that one of them follows on a too complacent display of
 
-the white feather. The truth is that a certain flexible sympathy with
+the white feather. The [[Truth|truth]] is that a certain flexible sympathy with
 
 eccentrics of this kind is rather one of the advantages of an
 
-aristocratic tradition. The imprisonment of Mr. Debs, the American
+aristocratic tradition. The [[Imprisonment|imprisonment]] of Mr. Debs, the American
 
 Pacifist, which really was prolonged and oppressive, would probably have
 
@@ -8263,25 +8263,25 @@ gentleman may very probably have aunts and uncles who are quite as mad.
 
 He takes the matter personally, in the sense of being able to imagine
 
-the psychology of the persons. But democracy is no respecter of persons.
+the psychology of the persons. But [[democracy]] is no respecter of persons.
 
 It is no respecter of them, either in the bad and servile or in the good
 
-and sympathetic sense. And Debs was nothing to democracy. He was but one
+and sympathetic sense. And Debs was nothing to [[democracy]]. He was but one
 
 of the millions. This is a real problem, or question in the balance,
 
-touching different forms of government; which is, of course, quite
+touching different forms of [[government]]; which is, of course, quite
 
 neglected by the idealists who merely repeat long words. There was
 
-during the war a society called the Union of Democratic Control, which
+during the war a society called the [[Union]] of Democratic Control, which
 
-would have been instantly destroyed anywhere where democracy had any
+would have been instantly destroyed anywhere where [[democracy]] had any
 
-control, or where there was any union. And in this sense the United
+control, or where there was any [[Union|union]]. And in this sense the United
 
-States have most emphatically got a union. Nevertheless I think there is
+States have most emphatically got a [[Union|union]]. Nevertheless I think there is
 
 something rather more subtle than this simple popular solidity behind
 
@@ -8293,7 +8293,7 @@ And it is here that we have to remember that biological fancies like the
 
 herd instinct are only figures of speech, and cannot really cover
 
-anything human. For the Americans are in some ways a very self-conscious
+anything human. For the Americans are in some ways a very [[Self|self]]-conscious
 
 people. To compare their social enthusiasm to a stampede of cattle is to
 
@@ -8305,13 +8305,13 @@ certainly conscious of criticism and not merely of a blind and brutal
 
 appetite. But the peculiar point about them is that it is this very
 
-vividness in the self that often produces the similarity. It may be that
+vividness in the [[Self|self]] that often produces the similarity. It may be that
 
 when they are unconscious they are like bulls and cows. But it is when
 
-they are self-conscious that they are like each other.
+they are [[Self|self]]-conscious that they are like each other.
 
-Individualism is the death of individuality. It is so, if only because
+[[Individualism]] is the [[Death|death]] of individuality. It is so, if only because
 
 it is an 'ism.' Many Americans become almost impersonal in their worship
 
@@ -8319,17 +8319,17 @@ of personality. Where their natural selves might differ, their ideal
 
 selves tend to be the same. Anybody can see what I mean in those strong
 
-self-conscious photographs of American business men that can be seen in
+[[Self|self]]-conscious photographs of American business men that can be seen in
 
 any American magazine. Each may conceive himself to be a solitary
 
-Napoleon brooding at St. Helena; but the result is a multitude of
+Napoleon brooding at St. [[Helena]]; but the result is a multitude of
 
 Napoleons brooding all over the place. Each of them must have the eyes
 
 of a mesmerist; but the most weak-minded person cannot be mesmerised by
 
-more than one millionaire at a time. Each of the millionaires must
+more than one millionaire at a [[Time|time]]. Each of the millionaires must
 
 thrust forward his jaw, offering (if I may say so) to fight the world
 
@@ -8355,25 +8355,25 @@ abstract, so that people are actually thinking about how they can will,
 
 more than about what they want. To this I do think a certain corrective
 
-could be found in the nature of English eccentricity. Every man in his
+could be found in the [[Nature|nature]] of English eccentricity. Every man in his
 
-humour is most interesting when he is unconscious of his humour; or at
+[[Humour|humour]] is most interesting when he is unconscious of his [[Humour|humour]]; or at
 
-least when he is in an intermediate stage between humour in the old
+least when he is in an intermediate stage between [[Humour|humour]] in the old
 
 sense of oddity and in the new sense of irony. Much is said in these
 
-days against negative morality; and certainly most Americans would show
+days against negative [[morality]]; and certainly most Americans would show
 
-a positive preference for positive morality. The virtues they venerate
+a positive preference for positive [[morality]]. The virtues they venerate
 
-collectively are very active virtues; cheerfulness and courage and vim,
+collectively are very active virtues; cheerfulness and [[Courage|courage]] and vim,
 
 otherwise zip, also pep and similar things. But it is sometimes
 
-forgotten that negative morality is freer than positive morality.
+forgotten that negative [[morality]] is freer than positive [[morality]].
 
-Negative morality is a net of a larger and more open pattern, of which
+Negative [[morality]] is a net of a larger and more open pattern, of which
 
 the lines or cords constrict at longer intervals. A man like Dr. Johnson
 
@@ -8381,9 +8381,9 @@ could grow in his own way to his own stature in the net of the Ten
 
 Commandments; precisely because he was convinced there were only ten of
 
-them. He was not compressed into the mould of positive beauty, like
+them. He was not compressed into the mould of positive [[Beauty|beauty]], like
 
-that of the Apollo Belvedere or the American citizen.
+that of the [[Apollo]] Belvedere or the American citizen.
 
 This criticism is sometimes true even of the American woman, who is
 
@@ -8427,23 +8427,23 @@ candelabra of the ideals of the happy virtues. Sometimes it came over
 
 me, in a wordless wave, that I should like to see a sulky woman. How she
 
-would walk in beauty like the night, and reveal more silent spaces full
+would walk in [[Beauty|beauty]] like the [[Night|night]], and reveal more silent spaces full
 
-of older stars! These things cannot be conveyed in their delicate
+of older [[Stars|stars]]! These things cannot be conveyed in their delicate
 
 proportion even in the most detached description. But the same thing
 
-was in the mind of a white-bearded old man I met in New York, an Irish
+was in the mind of a white-bearded old man I met in [[New York]], an Irish
 
-exile and a wonderful talker, who stared up at the tower of gilded
+[[Exile|exile]] and a wonderful talker, who stared up at the tower of gilded
 
 galleries of the great hotel, and said with that spontaneous movement of
 
 style which is hardly heard except from Irish talkers: 'And I have been
 
-in a village in the mountains where the people could hardly read or
+in a village in the [[Mountains|mountains]] where the people could hardly read or
 
-write; but all the men were like soldiers, and all the women had pride.'
+write; but all the men were like soldiers, and all the women had [[Pride|pride]].'
 
 It sounds like a poem about an Earthly Paradise to say that in this land
 
@@ -8451,11 +8451,11 @@ the old women can be more beautiful than the young. Indeed, I think Walt
 
 Whitman, the national poet, has a line somewhere almost precisely to
 
-that effect. It sounds like a parody upon Utopia, and the image of the
+that effect. It sounds like a [[Parody|parody]] upon Utopia, and the image of the
 
-lion lying down with the lamb, to say it is a place where a man might
+[[Lion|lion]] lying down with the [[Lamb|lamb]], to say it is a place where a man might
 
-almost fall in love with his mother-in-law. But there is nothing in
+almost fall in [[Love|love]] with his mother-in-law. But there is nothing in
 
 which the finer side of American gravity and good feeling does more
 
@@ -8465,7 +8465,7 @@ women. It is not a cant phrase to say that they grow old gracefully; for
 
 they do really grow old. In this the national optimism really has in it
 
-the national courage. The old women do not dress like young women; they
+the national [[Courage|courage]]. The old women do not dress like young women; they
 
 only dress better. There is another side to this feminine dignity in the
 
@@ -8477,7 +8477,7 @@ vision of the beautiful old women suffers a little from that bewildering
 
 multiplicity and recurrence that is indeed the whole theme of Whitman.
 
-It is like the green eternity of Leaves of Grass. When I think of the
+It is like the green [[Eternity|eternity]] of [[Leaves]] of Grass. When I think of the
 
 eccentric spinsters and incorrigible grandmothers of my own country, I
 
@@ -8495,17 +8495,17 @@ only the inevitable effect of visiting any country in a swift and
 
 superficial fashion; and that the grey and pink cloud is probably an
 
-illusion, like the spinning prairies scattered by the wheel of the
+illusion, like the spinning prairies scattered by the [[Wheel|wheel]] of the
 
 train.
 
-Anyhow there is enough of this equality, and of a certain social unity
+Anyhow there is enough of this equality, and of a certain social [[unity]]
 
-favourable to sanity, to make the next point about America very much of
+favourable to [[Sanity|sanity]], to make the next point about [[America]] very much of
 
 a puzzle. It seems to me a very real problem, to which I have never seen
 
-an answer even such as I shall attempt here, why a democracy should
+an answer even such as I shall attempt here, why a [[democracy]] should
 
 produce fads; and why, where there is so genuine a sense of human
 
@@ -8517,7 +8517,7 @@ elsewhere. Prohibition is at least a superstition, and therefore next
 
 door to a religion; it has some imaginable connection with moral
 
-questions, as have slavery or human sacrifice. But those who ask us to
+questions, as have [[Slavery|slavery]] or human sacrifice. But those who ask us to
 
 model ourselves on the States which punish the sin of drink forget that
 
@@ -8539,7 +8539,7 @@ hanged for writing a post-card.
 
 As for the sort of thing to which I refer, the American newspapers are
 
-full of it and there is no name for it but mere madness. Indeed it is
+full of it and there is no name for it but mere [[Madness|madness]]. Indeed it is
 
 not only mad, but it calls itself mad. To mention but one example out of
 
@@ -8559,17 +8559,17 @@ say that the modern world is too ridiculous to be ridiculed. You cannot
 
 caricature a caricature. Imagine what a satirist of saner days would
 
-have made of the daily life of a child of six, who was actually admitted
+have made of the daily life of a [[Child|child]] of six, who was actually admitted
 
 to be mad on the subject of his own health. These are not days in which
 
 that great extravaganza could be written; but I dimly see some of its
 
-episodes like uncompleted dreams. I see the child pausing in the middle
+episodes like uncompleted [[Dreams|dreams]]. I see the [[Child|child]] pausing in the middle
 
-of a cart-wheel, or when he has performed three-quarters of a
+of a cart-[[Wheel|wheel]], or when he has performed three-quarters of a
 
-cart-wheel, and consulting a little note-book about the amount of
+cart-[[Wheel|wheel]], and consulting a little note-book about the amount of
 
 exercise per diem. I see him pausing half-way up a tree, or when he has
 
@@ -8577,43 +8577,43 @@ climbed exactly one-third of a tree; and then producing a clinical
 
 thermometer to take his own temperature. But what would be the good of
 
-imaginative logic to prove the madness of such people, when they
+imaginative [[logic]] to prove the [[Madness|madness]] of such people, when they
 
 themselves praise it for being mad?
 
 There is also the cult of the Infant Phenomenon, of which Dickens made
 
-fun and of which educationalists make fusses. When I was in America
+fun and of which educationalists make fusses. When I was in [[America]]
 
-another newspaper produced a marvellous child of six who had the
+another newspaper produced a marvellous [[Child|child]] of six who had the
 
-intellect of a child of twelve. The only test given, and apparently one
+intellect of a [[Child|child]] of twelve. The only test given, and apparently one
 
 on which the experiment turned, was that she could be made to understand
 
 and even to employ the word 'annihilate.' When asked to say something
 
-proving this, the happy infant offered the polished aphorism, 'When
+proving this, the happy infant offered the polished [[Aphorism|aphorism]], 'When
 
 common sense comes in, superstition is annihilated.' In reply to which,
 
-by way of showing that I also am as intelligent as a child of twelve,
+by way of showing that I also am as intelligent as a [[Child|child]] of twelve,
 
 and there is no arrested development about me, I will say in the same
 
-elegant diction, 'When psychological education comes in, common sense is
+elegant diction, 'When psychological [[Education|education]] comes in, common sense is
 
-annihilated.' Everybody seems to be sitting round this child in an
+annihilated.' Everybody seems to be sitting round this [[Child|child]] in an
 
 adoring fashion. It did not seem to occur to anybody that we do not
 
-particularly want even a child of twelve to talk about annihilating
+particularly want even a [[Child|child]] of twelve to talk about annihilating
 
-superstition; that we do not want a child of six to talk like a child of
+superstition; that we do not want a [[Child|child]] of six to talk like a [[Child|child]] of
 
-twelve, or a child of twelve to talk like a man of fifty, or even a man
+twelve, or a [[Child|child]] of twelve to talk like a man of fifty, or even a man
 
-of fifty to talk like a fool. And on the principle of hoping that a
+of fifty to talk like a [[Fool|fool]]. And on the principle of hoping that a
 
 little girl of six will have a massive and mature brain, there is every
 
@@ -8623,7 +8623,7 @@ bushy beard.
 
 Now there is any amount of this nonsense cropping up among American
 
-cranks. Anybody may propose to establish coercive Eugenics; or enforce
+cranks. Anybody may propose to establish coercive [[Eugenics]]; or enforce
 
 psychoanalysis--that is, enforce confession without absolution. And I
 
@@ -8631,15 +8631,15 @@ confess I cannot connect this feature with the genuine democratic spirit
 
 of the mass. I can only suggest, in concluding this chapter, two
 
-possible causes rather peculiar to America, which may have made this
+possible causes rather peculiar to [[America]], which may have made this
 
-great democracy so unlike all other democracies, and in this so
+great [[democracy]] so unlike all other democracies, and in this so
 
 manifestly hostile to the whole democratic idea.
 
-The first historical cause is Puritanism; but not Puritanism merely in
+The first historical cause is [[Puritanism]]; but not [[Puritanism]] merely in
 
-the sense of Prohibitionism. The truth is that prohibitions might have
+the sense of Prohibitionism. The [[Truth|truth]] is that prohibitions might have
 
 done far less harm as prohibitions, if a vague association had not
 
@@ -8651,7 +8651,7 @@ prohibition. Men can enjoy life under considerable limitations, if they
 
 can be sure of their limited enjoyments; but under Progressive
 
-Puritanism we can never be sure of anything. The curse of it is not
+[[Puritanism]] we can never be sure of anything. The curse of it is not
 
 limitation; it is unlimited limitation. The evil is not in the
 
@@ -8661,27 +8661,27 @@ restriction. The prohibitions are bound to progress point by point; more
 
 and more human rights and pleasures must of necessity be taken away; for
 
-it is of the nature of this futurism that the latest fad is the faith of
+it is of the [[Nature|nature]] of this futurism that the latest fad is the [[Faith|faith]] of
 
 the future, and the most fantastic fad inevitably makes the pace. Thus
 
 the worst thing in the seventeenth-century aberration was not so much
 
-Puritanism as sectarianism. It searched for truth not by synthesis but
+[[Puritanism]] as sectarianism. It searched for [[Truth|truth]] not by synthesis but
 
 by subdivision. It not only broke religion into small pieces, but it was
 
-bound to choose the smallest piece. There is in America, I believe, a
+bound to choose the smallest piece. There is in [[America]], I believe, a
 
-large religious body that has felt it right to separate itself from
+large religious [[Body|body]] that has felt it right to separate itself from
 
-Christendom because it cannot believe in the morality of wearing
+Christendom because it cannot believe in the [[morality]] of wearing
 
 buttons. I do not know how the schism arose; but it is easy to suppose,
 
 for the sake of argument, that there had originally existed some Puritan
 
-body which condemned the frivolity of ribbons though not of buttons. I
+[[Body|body]] which condemned the frivolity of ribbons though not of buttons. I
 
 was going to say of badges but not buttons; but on reflection I cannot
 
@@ -8695,7 +8695,7 @@ new objection to ribbons, so that holy spirit would then pass from it to
 
 the new sect who invented a further objection to buttons. And from them
 
-it must inevitably pass to any rebel among them who shall choose to rise
+it must inevitably pass to any [[Rebel|rebel]] among them who shall choose to rise
 
 and say that he disapproves of trousers because of the existence of
 
@@ -8707,7 +8707,7 @@ is the progressive theory, the legacy of seventeenth-century
 
 sectarianism, the dogma implied in much modern politics, and the evident
 
-enemy of democracy. Democracy is reproached with saying that the
+enemy of [[democracy]]. [[democracy|Democracy]] is reproached with saying that the
 
 majority is always right. But progress says that the minority is always
 
@@ -8721,7 +8721,7 @@ people. If he chooses to say that drinking is always wrong, or that
 
 kissing is always wrong, or that wearing buttons is always wrong, people
 
-are afraid to contradict him for fear they should be contradicting their
+are afraid to contradict him for [[Fear|fear]] they should be contradicting their
 
 own great-grandchild. For their superstition is an inversion of the
 
@@ -8731,9 +8731,9 @@ that is dead, they appeal to something that may never be born.
 
 There is another cause of this strange servile disease in American
 
-democracy. It is to be found in American feminism, and feminist America
+[[democracy]]. It is to be found in American feminism, and feminist [[America]]
 
-is an entirely different thing from feminine America. I should say that
+is an entirely different thing from feminine [[America]]. I should say that
 
 the overwhelming majority of American girls laugh at their female
 
@@ -8755,7 +8755,7 @@ was Abolitionism before the Civil War, or Pro-Germanism in the Great
 
 War, or the suggestion of racial admixture in the South at all times,
 
-then the fad meets far less mercy than anywhere else in the world; it is
+then the fad meets far less [[Mercy|mercy]] than anywhere else in the world; it is
 
 snowed under and swept away. But when it does not thus directly
 
@@ -8785,7 +8785,7 @@ disregard, the formal and legal rights of the citizen. In so far as this
 
 is a bias, it is a bias in the directly opposite direction from that now
 
-lightly alleged. There is a sort of underbred history going about,
+lightly alleged. There is a sort of underbred [[history]] going about,
 
 according to which women in the past have always been in the position of
 
@@ -8809,7 +8809,7 @@ feminism means that there shall be no more laws or liberties in a state
 
 than there are in a nursery. The woman does not really regard men as
 
-citizens but as children. She may, if she is a humanitarian, love all
+citizens but as children. She may, if she is a humanitarian, [[Love|love]] all
 
 mankind; but she does not respect it. Still less does she respect its
 
@@ -8831,11 +8831,11 @@ protests are already being made, and will increasingly be made, if men
 
 retain any instinct of independence or dignity at all. But to complain
 
-of the woman interfering in the home will always sound like complaining
+of the woman interfering in the [[Home|home]] will always sound like complaining
 
 of the oyster intruding into the oyster-shell. To object that she has
 
-too much power over education will seem like objecting to a hen having
+too much power over [[Education|education]] will seem like objecting to a hen having
 
 too much to do with eggs. She has already been given an almost
 
@@ -8847,15 +8847,15 @@ to her own power in the family all these alien fads external to the
 
 family, her power will not only be irresponsible but insane. She will be
 
-something which may well be called a nightmare of the nursery; a mad
+something which may [[Well|well]] be called a [[nightmare]] of the nursery; a mad
 
 mother. But the point is that she will be mad about other nurseries as
 
-well as her own, or possibly instead of her own. The results will be
+[[Well|well]] as her own, or possibly instead of her own. The results will be
 
 interesting; but at least it is certain that under this softening
 
-influence government of the people, by the people, for the people, will
+influence [[government]] of the people, by the people, for the people, will
 
 most assuredly perish from the earth.
 
@@ -8865,7 +8865,7 @@ and there like muffled gongs of doom. The other day some people
 
 preaching some low trick or other, for running away from the glory of
 
-motherhood, were suddenly silenced in New York; by a voice of deep and
+motherhood, were suddenly silenced in [[New York]]; by a voice of deep and
 
 democratic volume. The prigs who potter about the great plains are
 
@@ -8873,7 +8873,7 @@ pygmies dancing round a sleeping giant. That which sleeps, so far as
 
 they are concerned, is the huge power of human unanimity and intolerance
 
-in the soul of America. At present the masses in the Middle West are
+in the [[Soul|soul]] of [[America]]. At present the masses in the Middle West are
 
 indifferent to such fancies or faintly attracted by them, as fashions of
 
@@ -8885,9 +8885,9 @@ religion; and then he will see something. He will find himself running
 
 like a nigger who has wronged a white woman or a man who has set the
 
-prairie on fire. He will see something which the politicians fan in its
+prairie on [[Fire|fire]]. He will see something which the politicians fan in its
 
-sleep and flatter with the name of the people, which many reactionaries
+[[Sleep|sleep]] and flatter with the name of the people, which many reactionaries
 
 have cursed with the name of the mob, but which in any case has had
 
@@ -8903,11 +8903,11 @@ last words that Job heard out of the whirlwind; and a voice they never
 
 knew shall tell them that his name is Leviathan, and he is lord over all
 
-the children of pride.
+the children of [[Pride|pride]].
 
 _The Extraordinary American_
 
-When I was in America I had the feeling that it was far more foreign
+When I was in [[America]] I had the feeling that it was far more foreign
 
 than France or even than Ireland. And by foreign I mean fascinating
 
@@ -8917,7 +8917,7 @@ the frontier of any fairyland, or gives to the traveller himself the
 
 almost eerie title of the stranger. And I saw there more clearly than in
 
-countries counted as more remote from us, in race or religion, a paradox
+countries counted as more remote from us, in race or religion, a [[Paradox|paradox]]
 
 that is one of the great truths of travel.
 
@@ -8937,7 +8937,7 @@ can probably be found in a puzzle picture. If we can find an event of
 
 which the meaning is really dark to us, it will probably throw some
 
-light on the truth. I will therefore take from my American experiences
+light on the [[Truth|truth]]. I will therefore take from my American experiences
 
 one isolated incident, which certainly could not have happened in any
 
@@ -8949,17 +8949,17 @@ conjectures about its meaning. But though I do not understand it, I do
 
 sincerely believe that if I did understand it, I should understand
 
-America.
+[[America]].
 
-It happened in the city of Oklahoma, which would require a book to
+It happened in the [[City|city]] of Oklahoma, which would require a book to
 
 itself, even considered as a background. The State of Oklahoma is a
 
 district in the south-west recently reclaimed from the Red Indian
 
-territory. What many, quite incorrectly, imagine about all America is
+territory. What many, quite incorrectly, imagine about all [[America]] is
 
-really true of Oklahoma. It is proud of having no history. It is glowing
+really true of Oklahoma. It is proud of having no [[history]]. It is glowing
 
 with the sense of having a great future--and nothing else. People are
 
@@ -8971,11 +8971,11 @@ Oklahoma the citizens do point out a colossal structure, arrogantly
 
 affirming that it wasn't there last week. It was against the colours of
 
-this crude stage scenery, as of a pantomime city of pasteboard, that the
+this crude stage scenery, as of a pantomime [[City|city]] of pasteboard, that the
 
 fantastic figure appeared which still haunts me like a walking note of
 
-interrogation. I was strolling down the main street of the city, and
+interrogation. I was strolling down the main street of the [[City|city]], and
 
 looking in at a paper-stall vivid with the news of crime, when a
 
@@ -8983,7 +8983,7 @@ stranger addressed me; and asked me, quite politely but with a curious
 
 air of having authority to put the question, what I was doing in that
 
-city.
+[[City|city]].
 
 He was a lean brown man, having rather the look of a shabby tropical
 
@@ -8991,13 +8991,13 @@ traveller, with a grey moustache and a lively and alert eye. But the
 
 most singular thing about him was that the front of his coat was covered
 
-with a multitude of shining metallic emblems made in the shape of stars
+with a multitude of shining metallic emblems made in the shape of [[Stars|stars]]
 
-and crescents. I was well accustomed by this time to Americans adorning
+and crescents. I was [[Well|well]] accustomed by this [[Time|time]] to Americans adorning
 
 the lapels of their coats with little symbols of various societies; it
 
-is a part of the American passion for the ritual of comradeship. There
+is a part of the American passion for the ritual of [[Comradeship|comradeship]]. There
 
 is nothing that an American likes so much as to have a secret society
 
@@ -9015,7 +9015,7 @@ Oklahoma, I replied with restraint that I was lecturing. To which he
 
 replied without restraint, but rather with an expansive and radiant
 
-pride, 'I also am lecturing. I am lecturing on astronomy.'
+[[Pride|pride]], 'I also am lecturing. I am lecturing on astronomy.'
 
 So far a certain wild rationality seemed to light up the affair. I knew
 
@@ -9039,7 +9039,7 @@ cockroaches crawling all over his coat and waistcoat. I should like to
 
 see a conchologist in a simple costume of shells. An osteopath, I
 
-suppose, would be agreeably painted so as to resemble a skeleton, while
+suppose, would be agreeably painted so as to resemble a [[skeleton]], while
 
 a botanist would enliven the street with the appearance of a
 
@@ -9047,15 +9047,15 @@ Jack-in-the-Green. So while I regarded the astronomical lecturer in the
 
 astronomical coat as a figure distinguishable, by a high degree of
 
-differentiation, from the artless astronomers of my island home (enough
+differentiation, from the artless astronomers of my island [[Home|home]] (enough
 
 their simple loveliness for me) I saw in him nothing illogical, but
 
-rather an imaginative extreme of logic. And then came another turn of
+rather an imaginative extreme of [[logic]]. And then came another turn of
 
-the wheel of topsy-turvydom, and all the logic was scattered to the
+the [[Wheel|wheel]] of topsy-turvydom, and all the [[logic]] was scattered to the
 
-wind.
+[[Wind|wind]].
 
 Expanding his starry bosom and standing astraddle, with the air of one
 
@@ -9065,7 +9065,7 @@ on astronomy, anthropology, archaeology, palaeontology, embryology,
 
 eschatology,' and so on in a thunderous roll of theoretical sciences
 
-apparently beyond the scope of any single university, let alone any
+apparently beyond the scope of any single university, let [[Alone|alone]] any
 
 single professor. Having thus introduced himself, however, he got to
 
@@ -9083,7 +9083,7 @@ more serious was clouding his brow.
 
 'I feel it to be my duty,' he said, 'to acquaint myself with any
 
-stranger visiting this city; and it is an additional pleasure to welcome
+stranger visiting this [[City|city]]; and it is an additional pleasure to welcome
 
 here a member of the Upper Ten.' I assured him earnestly that I knew
 
@@ -9093,13 +9093,13 @@ felt, not without alarm, that the Upper Ten might be another secret
 
 society. He waved my abnegation aside and continued, 'I have a great
 
-responsibility in watching over this city. My friend the mayor and I
+responsibility in watching over this [[City|city]]. My friend the mayor and I
 
 have a great responsibility.' And then an extraordinary thing happened.
 
 Suddenly diving his hand into his breast-pocket, he flashed something
 
-before my eyes like a hand-mirror; something which disappeared again
+before my eyes like a hand-[[Mirror|mirror]]; something which disappeared again
 
 almost as soon as it appeared. In that flash I could only see that it
 
@@ -9107,7 +9107,7 @@ was some sort of polished metal plate, with some letters engraved on it
 
 like a monogram. But the reward of a studious and virtuous life, which
 
-has been spent chiefly in the reading of American detective stories,
+has been spent chiefly in the reading of American [[Detective|detective]] stories,
 
 shone forth for me in that hour of trial; I received at last the prize
 
@@ -9115,13 +9115,13 @@ of a profound scholarship in the matter of imaginary murders in
 
 tenth-rate magazines. I remembered who it was who in the Yankee
 
-detective yarn flashes before the eyes of Slim Jim or the Lone Hand
+[[Detective|detective]] yarn flashes before the eyes of Slim Jim or the Lone Hand
 
 Crook a badge of metal sometimes called a shield. Assuming all the
 
 desperate composure of Slim Jim himself, I replied, 'You mean you are
 
-connected with the police authorities here, don't you? Well, if I commit
+connected with the police authorities here, don't you? [[Well]], if I commit
 
 a murder here, I'll let you know.' Whereupon that astonishing man waved
 
@@ -9135,27 +9135,27 @@ Then that moving constellation moved away, disappearing in the dark
 
 tides of humanity, as the vision passed away down the dark tides from
 
-Sir Galahad and, starlike, mingled with the stars.
+Sir Galahad and, starlike, mingled with the [[Stars|stars]].
 
 That is the problem I would put to all Americans, and to all who claim
 
-to understand America. Who and what was that man? Was he an astronomer?
+to understand [[America]]. Who and what was that man? Was he an astronomer?
 
-Was he a detective? Was he a wandering lunatic? If he was a lunatic who
+Was he a [[Detective|detective]]? Was he a wandering lunatic? If he was a lunatic who
 
 thought he was an astronomer, why did he have a badge to prove he was a
 
-detective? If he was a detective pretending to be an astronomer, why did
+[[Detective|detective]]? If he was a [[Detective|detective]] pretending to be an astronomer, why did
 
-he tell a total stranger that he was a detective two minutes after
+he tell a total stranger that he was a [[Detective|detective]] two minutes after
 
-saying he was an astronomer? If he wished to watch over the city in a
+saying he was an astronomer? If he wished to watch over the [[City|city]] in a
 
 quiet and unobtrusive fashion, why did he blazon himself all over with
 
-all the stars of the sky, and profess to give public lectures on all the
+all the [[Stars|stars]] of the sky, and profess to give public lectures on all the
 
-subjects of the world? Every wise and well-conducted student of murder
+subjects of the world? Every wise and [[Well|well]]-conducted student of murder
 
 stories is acquainted with the notion of a policeman in plain clothes.
 
@@ -9171,11 +9171,11 @@ committees. Some Americans suggested to me that he was the Sheriff; the
 
 regular hard-riding, free-shooting Sheriff of Bret Harte and my
 
-boyhood's dreams. Others suggested that he was an agent of the Ku-Klux
+boyhood's [[Dreams|dreams]]. Others suggested that he was an agent of the Ku-Klux
 
 Klan, that great nameless revolution of the revival of which there were
 
-rumours at the time; and that the symbol he exhibited was theirs. But
+rumours at the [[Time|time]]; and that the symbol he exhibited was theirs. But
 
 whether he was a sheriff acting for the law, or a conspirator against
 
@@ -9197,9 +9197,9 @@ not shoot you for keeping it. Only in the presence of that citizen of
 
 Oklahoma I feel I am confronted with the fullness and depth of the
 
-mystery of America. Because I understand nothing, I recognise the thing
+mystery of [[America]]. Because I understand nothing, I recognise the thing
 
-that we call a nation; and I salute the flag.
+that we call a nation; and I salute the [[Flag|flag]].
 
 But even in connection with this mysterious figure there is a moral
 
@@ -9207,7 +9207,7 @@ which affords another reason for mentioning him. Whether he was a
 
 sheriff or an outlaw, there was certainly something about him that
 
-suggested the adventurous violence of the old border life of America;
+suggested the adventurous violence of the old border life of [[America]];
 
 and whether he was connected with the police or no, there was certainly
 
@@ -9227,7 +9227,7 @@ acquittal. Nor did the Hamon case appear to be entirely exceptional in
 
 that breezy borderland. The moment the town had received the news that
 
-Clara Smith was free, newsboys rushed down the street shouting, 'Double
+Clara [[smith|Smith]] was free, newsboys rushed down the street shouting, '[[Double]]
 
 stabbing outrage near Oklahoma,' or 'Banker's throat cut on Main
 
@@ -9237,7 +9237,7 @@ much as to say, 'Do not imagine that our local energies are exhausted in
 
 shooting a Senator,' or 'Come, now, the world is young, even if Clara
 
-Smith is acquitted, and the enthusiasm of Oklahoma is not yet cold.'
+[[smith|Smith]] is acquitted, and the enthusiasm of Oklahoma is not yet cold.'
 
 But my particular reason for mentioning the matter is this. Despite my
 
@@ -9273,17 +9273,17 @@ total absence of that atmosphere in the trial at Oklahoma. Mr. Hamon was
 
 presumably a member of the Upper Ten, if there is such a thing. He was a
 
-member of the Senate or Upper House in the American Parliament; he was a
+member of the Senate or Upper [[house|House]] in the American Parliament; he was a
 
 millionaire and a pillar of the Republican party, which might be called
 
 the respectable party; he is said to have been mentioned as a possible
 
-President. And the speeches of Clara Smith's counsel, who was known by
+President. And the speeches of Clara [[smith|Smith]]'s counsel, who was known by
 
 the delightfully Oklahomite title of Wild Bill McLean, were wild enough
 
-in all conscience; but they left very little of my friend's illusion
+in all [[Conscience|conscience]]; but they left very little of my friend's illusion
 
 that members of the Upper Ten could not be accused of crimes. Nero and
 
@@ -9297,7 +9297,7 @@ English trials, which does at least begin with a certain scepticism
 
 about people prominent in public life being abominable in private life.
 
-People do vaguely doubt the criminality of 'a man in that position';
+People do vaguely [[Doubt|doubt]] the criminality of 'a man in that position';
 
 that is, the position of the Marquise de Brinvilliers or the Marquis de
 
@@ -9309,11 +9309,11 @@ millionaire. Wild Bill did not minimise him as a bankrupt or an
 
 adventurer; he insisted on the solidity and size of his fortune, he made
 
-mountains out of the 'Hamon millions,' as if they made the matter much
+[[Mountains|mountains]] out of the 'Hamon millions,' as if they made the matter much
 
 worse; as indeed I think they do. But that is because I happen to share
 
-a certain political philosophy with Wild Bill and other wild buffaloes
+a certain political [[philosophy]] with Wild Bill and other wild buffaloes
 
 of the prairies. In other words, there is really present here a
 
@@ -9331,25 +9331,25 @@ the Senator with his gold.
 
 But something more is involved. I became conscious, as I have been
 
-conscious in reading the crime novels of America, that the millionaire
+conscious in reading the crime novels of [[America]], that the millionaire
 
 was taken as a type and not an individual. This is the great difference;
 
-that America recognises rich crooks as a _class_. Any Englishman might
+that [[America]] recognises rich crooks as a _class_. Any Englishman might
 
-recognise them as individuals. Any English romance may turn on a crime
+recognise them as individuals. Any English [[Romance|romance]] may turn on a crime
 
 in high life; in which the baronet is found to have poisoned his wife,
 
 or the elusive burglar turns out to be the bishop. But the English are
 
-not always saying, either in romance or reality, 'What's to be done, if
+not always saying, either in [[Romance|romance]] or reality, 'What's to be done, if
 
 our food is being poisoned by all these baronets?' They do not murmur in
 
 indignation, 'If bishops will go on burgling like this, something must
 
-be done.' The whole point of the English romance is the exceptional
+be done.' The whole point of the English [[Romance|romance]] is the exceptional
 
 character of a crime in high life. That is not the tone of American
 
@@ -9361,15 +9361,15 @@ as when any other crook is caught; but it is at his being caught, not at
 
 his being discovered. To put the matter shortly, England recognises a
 
-criminal class at the bottom of the social scale. America also
+criminal class at the [[Bottom|bottom]] of the social scale. [[America]] also
 
 recognises a criminal class at the top of the social scale. In both, for
 
 various reasons, it may be difficult for the criminals to be convicted;
 
-but in America the upper class of criminals is recognised. In both
+but in [[America]] the upper class of criminals is recognised. In both
 
-America and England, of course, it exists.
+[[America]] and England, of course, it exists.
 
 This is an assumption at the back of the American mind which makes a
 
@@ -9377,7 +9377,7 @@ great difference in many ways; and in my opinion a difference for the
 
 better. I wrote merely fancifully just now about bishops being burglars;
 
-but there is a story in New York, illustrating this, which really does
+but there is a story in [[New York]], illustrating this, which really does
 
 in a sense attribute a burglary to a bishop. The story was that an
 
@@ -9391,25 +9391,25 @@ when a gigantic Irish policeman came round the corner and hit him a
 
 crack over the head with a truncheon on the assumption that he was a
 
-house-breaker. I hope that those who laugh at the story see that the
+[[house]]-breaker. I [[Hope|hope]] that those who laugh at the story see that the
 
 laugh is not altogether against the policeman; and that it is not only
 
 the policeman, but rather the bishop, who had failed to recognise some
 
-fine logical distinctions. The bishop, being a learned man, might well
+fine logical distinctions. The bishop, being a learned man, might [[Well|well]]
 
 be called upon (when he had sufficiently recovered from the knock on
 
-the head) to define what is the exact difference between a house-breaker
+the head) to define what is the exact difference between a [[house]]-breaker
 
-and a home-visitor; and why the home-visitor should not be regarded as a
+and a [[Home|home]]-visitor; and why the [[Home|home]]-visitor should not be regarded as a
 
-house-breaker when he will not behave as a guest. An impartial
+[[house]]-breaker when he will not behave as a guest. An impartial
 
 intelligence will be much less shocked at the policeman's disrespect for
 
-the home-visitor than by the home-visitor's disrespect for the home.
+the [[Home|home]]-visitor than by the [[Home|home]]-visitor's disrespect for the [[Home|home]].
 
 But that story smacks of the western soil, precisely because of the
 
@@ -9419,7 +9419,7 @@ oppression are much subtler and softer; the manifestations of them at
 
 least are more mellow and humane. In comparison there is indeed
 
-something which people call ruthless about the air of America,
+something which people call ruthless about the air of [[America]],
 
 especially the American cities. The bishop may push open the door
 
@@ -9427,7 +9427,7 @@ without an apology, but he would not break open the door with a
 
 truncheon; but the Irish policeman's truncheon hits both ways. It may be
 
-brutal to the tenement dweller as well as to the bishop; but the
+brutal to the tenement dweller as [[Well|well]] as to the bishop; but the
 
 difference and distinction is that it might really be brutal to the
 
@@ -9443,15 +9443,15 @@ oligarchic bureaucracies are resented. There is a sense in which
 
 corruption is not so narrow as nepotism. It is upon this queer cynical
 
-charity, and even humility, that it has been possible to rear so high
+[[Charity|charity]], and even [[Humility|humility]], that it has been possible to rear so high
 
 and uphold so long that tower of brass, Tammany Hall. The modern police
 
-system is in spirit the most inhuman in history, and its evil belongs
+system is in spirit the most inhuman in [[history]], and its evil belongs
 
 to an age and not to a nation. But some American police methods are evil
 
-past all parallel; and the detective can be more crooked than a hundred
+past all parallel; and the [[Detective|detective]] can be more crooked than a hundred
 
 crooks. But in the States it is not only possible that the policeman is
 
@@ -9465,7 +9465,7 @@ Christian seek relief in strong language and a trust in heaven--not to
 
 say in hell. And yet books even more popular than O. Henry's are those
 
-of the 'sob-sisterhood' who swim in lachrymose lakes after love-lorn
+of the 'sob-sisterhood' who swim in lachrymose lakes after [[Love|love]]-lorn
 
 spinsters, who pass their lives in reclaiming and consoling such tramps.
 
@@ -9479,7 +9479,7 @@ policeman does not confine himself fastidiously to bludgeoning bishops;
 
 his truncheon finds plenty of poor people's heads to hit; and yet I
 
-believe on my soul he has a sort of sympathy with poor people not to be
+believe on my [[Soul|soul]] he has a sort of sympathy with poor people not to be
 
 found in the police of more aristocratic states. I believe he also reads
 
@@ -9489,11 +9489,11 @@ fact, there is much of such pathos in an American magazine (my sole
 
 companion on many happy railway journeys) which is not only devoted to
 
-detective stories, but apparently edited by detectives. In these stories
+[[Detective|detective]] stories, but apparently edited by detectives. In these stories
 
 also there is the honest, popular astonishment at the Upper Ten
 
-expressed by the astronomical detective, if indeed he was a detective
+expressed by the astronomical [[Detective|detective]], if indeed he was a [[Detective|detective]]
 
 and not a demon from the dark Red-Indian forests that faded to the
 
@@ -9525,13 +9525,13 @@ hypothesis; it may be a fancy; it may be a forgery. But it is always an
 
 idol in the true sense of an image; and an image in the true sense of a
 
-thing mastering the imagination and not the reason. The power of these
+thing mastering the [[Imagination|imagination]] and not the reason. The power of these
 
 talismanic pictures is almost hypnotic to modern humanity. We can never
 
 forget that we have seen a portrait of the Missing Link; though we
 
-should instantly detect the lapse of logic into superstition, if we were
+should instantly detect the lapse of [[logic]] into superstition, if we were
 
 told that the old Greek agnostics had made a statue of the Unknown God.
 
@@ -9541,13 +9541,13 @@ same trick of fancy. We accept in a blind and literal spirit, not only
 
 images of speculation, but even figures of speech. The nineteenth
 
-century prided itself on having lost its faith in myths, and proceeded
+century prided itself on having lost its [[Faith|faith]] in myths, and proceeded
 
-to put all its faith in metaphors. It dismissed the old doctrines about
+to put all its [[Faith|faith]] in metaphors. It dismissed the old doctrines about
 
 the way of life and the light of the world; and then it proceeded to
 
-talk as if the light of truth were really and literally a light, that
+talk as if the light of [[Truth|truth]] were really and literally a light, that
 
 could be absorbed by merely opening our eyes; or as if the path of
 
@@ -9555,15 +9555,15 @@ progress were really and truly a path, to be found by merely following
 
 our noses. Thus the purpose of God is an idea, true or false; but the
 
-purpose of Nature is merely a metaphor; for obviously if there is no God
+purpose of [[Nature]] is merely a metaphor; for obviously if there is no God
 
 there is no purpose. Yet while men, by an imaginative instinct, spoke of
 
 the purpose of God with a grand agnosticism, as something too large to
 
-be seen, something reaching out to worlds and to eternities, they speak
+be seen, something reaching out to worlds and to [[eternities]], they speak
 
-of the purpose of Nature in particular and practical problems of curing
+of the purpose of [[Nature]] in particular and practical problems of curing
 
 babies or cutting up rabbits. This power of the modern metaphor must be
 
@@ -9571,13 +9571,13 @@ understood, by way of an introduction, if we are to understand one of
 
 the chief errors, at once evasive and pervasive, which perplex the
 
-problem of America.
+problem of [[America]].
 
-America is always spoken of as a young nation; and whether or no this be
+[[America]] is always spoken of as a young nation; and whether or no this be
 
 a valuable and suggestive metaphor, very few people notice that it is a
 
-metaphor at all. If somebody said that a certain deserving charity had
+metaphor at all. If somebody said that a certain deserving [[Charity|charity]] had
 
 just gone into trousers, we should recognise that it was a figure of
 
@@ -9591,13 +9591,13 @@ these phrases would mean the only thing that can possibly be meant by
 
 calling a corporate association of all sorts of people 'young'; that is,
 
-that a certain institution has only existed for a certain time. I am not
+that a certain institution has only existed for a certain [[Time|time]]. I am not
 
 now denying that such a corporate nationality may happen to have a
 
 psychology comparatively analogous to the psychology of youth. I am not
 
-even denying that America has it. I am only pointing out, to begin with,
+even denying that [[America]] has it. I am only pointing out, to begin with,
 
 that we must free ourselves from the talismanic tyranny of a metaphor
 
@@ -9609,7 +9609,7 @@ metaphors are metaphorical. They have some sort of hazy notion that
 
 American society must be growing, must be promising, must have the
 
-virtues of hope or the faults of ignorance, merely _because_ it has only
+virtues of [[Hope|hope]] or the faults of ignorance, merely _because_ it has only
 
 had a separate existence since the eighteenth century. And that is
 
@@ -9617,11 +9617,11 @@ exactly like saying that a new chapel must be growing taller, or that a
 
 limited liability company will soon have its second teeth.
 
-Now in truth this particular conception of American hopefulness would be
+Now in [[Truth|truth]] this particular conception of American hopefulness would be
 
-anything but hopeful for America. If the argument really were, as it is
+anything but hopeful for [[America]]. If the argument really were, as it is
 
-still vaguely supposed to be, that America must have a long life before
+still vaguely supposed to be, that [[America]] must have a long life before
 
 it, because it only started in the eighteenth century, we should find a
 
@@ -9641,7 +9641,7 @@ the most recent and the most rationalistic creations that have been
 
 ruined. The two great States which did most definitely and emphatically
 
-deserve to be called modern states were Prussia and Russia. There was no
+deserve to be called modern states were Prussia and [[Russia]]. There was no
 
 real Prussia before Frederick the Great; no real Russian Empire before
 
@@ -9655,9 +9655,9 @@ for themselves. They did not, like the kings of England or France or
 
 Spain or Scotland, inherit a sceptre that was the symbol of a historic
 
-and patriotic people. In this sense there was no Russia but only an
+and patriotic people. In this sense there was no [[Russia]] but only an
 
-Emperor of Russia. In this sense Prussia was a kingdom before it was a
+Emperor of [[Russia]]. In this sense Prussia was a kingdom before it was a
 
 nation; if it ever was a nation. But anyhow both men were particularly
 
@@ -9665,7 +9665,7 @@ modern in their whole mood and mind. They were modern to the extent of
 
 being not only anti-traditional, but almost anti-patriotic. Peter forced
 
-the science of the West on Russia to the regret of many Russians.
+the science of the West on [[Russia]] to the regret of many Russians.
 
 Frederick talked the French of Voltaire and not the German of Luther.
 
@@ -9675,7 +9675,7 @@ rationalism; they were built in broad daylight by men who believed in
 
 nothing but the light of common day; and already their day is done.
 
-If then the promise of America were in the fact that she is one of the
+If then the promise of [[America]] were in the fact that she is one of the
 
 latest births of progress, we should point out that it is exactly the
 
@@ -9689,9 +9689,9 @@ came in an age of clarity and scepticism, uncontaminated by old
 
 superstitions, it could still be retorted that the works of superstition
 
-have survived the works of scepticism. But the truth is, of course, that
+have survived the works of scepticism. But the [[Truth|truth]] is, of course, that
 
-the real quality of America is much more subtle and complex than this;
+the real quality of [[America]] is much more subtle and complex than this;
 
 and is mixed not only of good and bad, and rational and mystical, but
 
@@ -9701,7 +9701,7 @@ proportions of American life so interesting and so impossible.
 
 To begin with, such a metaphor is always as distracting as a mixed
 
-metaphor. It is a double-edged tool that cuts both ways; and
+metaphor. It is a [[Double|double]]-edged tool that cuts both ways; and
 
 consequently opposite ways. We use the same word 'young' to mean two
 
@@ -9717,11 +9717,11 @@ call it young if it conducted all its industry with chipped flints;
 
 meaning that it was primitive. These two meanings of youth are
 
-hopelessly mixed up when the word is applied to America. But what is
+hopelessly mixed up when the word is applied to [[America]]. But what is
 
-more curious, the two elements really are wildly entangled in America.
+more curious, the two elements really are wildly entangled in [[America]].
 
-America is in some ways what is called in advance of the times, and in
+[[America]] is in some ways what is called in advance of the times, and in
 
 some ways what is called behind the times; but it seems a little
 
@@ -9739,17 +9739,17 @@ in another thing, such as art. What is less fully realised is that this
 
 is true even as between different methods of science. The perfection of
 
-wireless telegraphy might well be followed by the gross imperfection of
+wireless telegraphy might [[Well|well]] be followed by the gross imperfection of
 
 wires. The very enthusiasm of American science brings this out very
 
-vividly. The telephone in New York works miracles all day long. Replies
+vividly. The telephone in [[New York]] works miracles all day long. Replies
 
 from remote places come as promptly as in a private talk; nobody cuts
 
 anybody off; nobody says, 'Sorry you've been troubled.' But then the
 
-postal service of New York does not work at all. At least I could never
+postal service of [[New York]] does not work at all. At least I could never
 
 discover it working. Letters lingered in it for days and days, as in
 
@@ -9773,7 +9773,7 @@ But on the other hand, American manners contain much that is called
 
 young in the contrary sense; in the sense of an earlier stage of
 
-history. There are whole patches and particular aspects that seem to me
+[[history]]. There are whole patches and particular aspects that seem to me
 
 quite Early Victorian. I cannot help having this sensation, for
 
@@ -9803,33 +9803,33 @@ compromise, by which women will be allowed to smoke, but men forbidden
 
 to do so.
 
-In one respect, however, America is very old indeed. In one respect
+In one respect, however, [[America]] is very old indeed. In one respect
 
-America is more historic than England; I might almost say more
+[[America]] is more historic than England; I might almost say more
 
 archaeological than England. The record of one period of the past,
 
 morally remote and probably irrevocable, is there preserved in a more
 
-perfect form as a pagan city is preserved at Pompeii. In a more general
+perfect form as a pagan [[City|city]] is preserved at Pompeii. In a more general
 
 sense, of course, it is easy to exaggerate the contrast as a mere
 
 contrast between the old world and the new. There is a superficial
 
-satire about the millionaire's daughter who has recently become the wife
+[[Satire|satire]] about the millionaire's daughter who has recently become the wife
 
-of an aristocrat; but there is a rather more subtle satire in the
+of an [[aristocrat]]; but there is a rather more subtle [[Satire|satire]] in the
 
-question of how long the aristocrat has been aristocratic. There is
+question of how long the [[aristocrat]] has been aristocratic. There is
 
-often much misplaced mockery of a marriage between an upstart's daughter
+often much misplaced mockery of a [[Marriage|marriage]] between an upstart's daughter
 
-and a decayed relic of feudalism; when it is really a marriage between
+and a decayed relic of feudalism; when it is really a [[Marriage|marriage]] between
 
 an upstart's daughter and an upstart's grandson. The sentimental
 
-socialist often seems to admit the blue blood of the nobleman, even when
+socialist often seems to admit the blue [[Blood|blood]] of the nobleman, even when
 
 he wants to shed it; just as he seems to admit the marvellous brains of
 
@@ -9839,7 +9839,7 @@ the interests of social science, of course) the sentimental socialist
 
 never does go so far as bloodshed or blowing out brains; otherwise the
 
-colour and quality of both blood and brains would probably be a
+colour and quality of both [[Blood|blood]] and brains would probably be a
 
 disappointment to him. There are certainly more American families that
 
@@ -9847,9 +9847,9 @@ really came over in the _Mayflower_ than English families that really
 
 came over with the Conqueror; and an English county family clearly
 
-dating from the time of the _Mayflower_ would be considered a very
+dating from the [[Time|time]] of the _Mayflower_ would be considered a very
 
-traditional and historic house. Nevertheless, there are ancient things
+traditional and historic [[house]]. Nevertheless, there are ancient things
 
 in England, though the aristocracy is hardly one of them. There are
 
@@ -9859,15 +9859,15 @@ do preserve, as in a perfect pattern, some particular epoch of the past,
 
 and even of the remote past. A man could study the Middle Ages in
 
-Lincoln as well as in Rouen; in Canterbury as well as in Cologne. Even
+[[Lincoln]] as [[Well|well]] as in Rouen; in Canterbury as [[Well|well]] as in Cologne. Even
 
-of the Renaissance the same is true, at least on the literary side; if
+of the [[Renaissance]] the same is true, at least on the literary side; if
 
 Shakespeare was later he was also greater than Ronsard. But the point is
 
-that the spirit and philosophy of the periods were present in fullness
+that the spirit and [[philosophy]] of the periods were present in fullness
 
-and in freedom. The guildsmen were as Christian in England as they were
+and in [[Freedom|freedom]]. The guildsmen were as Christian in England as they were
 
 anywhere; the poets were as pagan in England as they were anywhere.
 
@@ -9875,17 +9875,17 @@ Personally I do not admit that the men who served patrons were freer
 
 than those who served patron saints. But each fashion had its own kind
 
-of freedom; and the point is that the English, in each case, had the
+of [[Freedom|freedom]]; and the point is that the English, in each case, had the
 
-fullness of that kind of freedom. But there was another ideal of freedom
+fullness of that kind of [[Freedom|freedom]]. But there was another ideal of [[Freedom|freedom]]
 
 which the English never had at all; or, anyhow, never expressed at all.
 
-There was another ideal, the soul of another epoch, round which we built
+There was another ideal, the [[Soul|soul]] of another epoch, round which we built
 
 no monuments and wrote no masterpieces. You will find no traces of it in
 
-England; but you will find them in America.
+England; but you will find them in [[America]].
 
 The thing I mean was the real religion of the eighteenth century. Its
 
@@ -9893,7 +9893,7 @@ religion, in the more defined sense, was generally Deism, as in
 
 Robespierre or Jefferson. In the more general way of morals and
 
-atmosphere it was rather Stoicism, as in the suicide of Wolfe Tone. It
+atmosphere it was rather Stoicism, as in the [[suicide]] of Wolfe Tone. It
 
 had certain very noble and, as some would say, impossible ideals; as
 
@@ -9903,29 +9903,29 @@ knew Latin; and therefore insisted on the strange fancy that the
 
 Republic should be a public thing. Its Republican simplicity was
 
-anything but a silly pose; unless all martyrdom is a silly pose. Even of
+anything but a silly pose; unless all [[Martyrdom|martyrdom]] is a silly pose. Even of
 
 the prigs and fanatics of the American and French Revolutions we can
 
-often say, as Stevenson said of an American, that 'thrift and courage
+often say, as Stevenson said of an American, that 'thrift and [[Courage|courage]]
 
 glowed in him.' And its virtue and value for us is that it did remember
 
 the things we now most tend to forget; from the dignity of liberty to
 
-the danger of luxury. It did really believe in self-determination, in
+the danger of luxury. It did really believe in [[Self|self]]-determination, in
 
-the self-determination of the self, as well as of the state. And its
+the [[Self|self]]-determination of the [[Self|self]], as [[Well|well]] as of the state. And its
 
 determination was really determined. In short, it believed in
 
-self-respect; and it is strictly true even of its rebels and regicides
+[[Self|self]]-respect; and it is strictly true even of its rebels and regicides
 
 that they desired chiefly to be respectable. But there were in it the
 
-marks of religion as well as respectability; it had a creed; it had a
+marks of religion as [[Well|well]] as respectability; it had a creed; it had a
 
-crusade. Men died singing its songs; men starved rather than write
+crusade. Men died singing its [[songs]]; men starved rather than write
 
 against its principles. And its principles were liberty, equality, and
 
@@ -9935,13 +9935,13 @@ the idea that redeemed the dreary negations of the eighteenth century;
 
 and there are still corners of Philadelphia or Boston or Baltimore where
 
-we can feel so suddenly in the silence its plain garb and formal
+we can feel so suddenly in the [[Silence|silence]] its plain garb and formal
 
-manners, that the walking ghost of Jefferson would hardly surprise us.
+manners, that the walking [[Ghost|ghost]] of Jefferson would hardly surprise us.
 
-There is not the ghost of such a thing in England. In England the real
+There is not the [[Ghost|ghost]] of such a thing in England. In England the real
 
-religion of the eighteenth century never found freedom or scope. It
+religion of the eighteenth century never found [[Freedom|freedom]] or scope. It
 
 never cleared a space in which to build that cold and classic building
 
@@ -9959,21 +9959,21 @@ the best things of the eighteenth century. The ground was occupied by
 
 legal fictions; by a godless Erastian church and a powerless Hanoverian
 
-king. Its realities were an aristocracy of Regency dandies, in costumes
+[[King|king]]. Its realities were an aristocracy of Regency dandies, in costumes
 
 made to match Brighton Pavilion; a paganism not frigid but florid. It
 
 was a touch of this aristocratic waste in Fox that prevented that great
 
-man from being a glorious exception. It is therefore well for us to
+man from being a glorious exception. It is therefore [[Well|well]] for us to
 
-realise that there is something in history which we did not experience;
+realise that there is something in [[history]] which we did not experience;
 
 and therefore probably something in Americans that we do not understand.
 
-There was this idealism at the very beginning of their individualism.
+There was this idealism at the very beginning of their [[Individualism|individualism]].
 
-There was a note of heroic publicity and honourable poverty which
+There was a note of heroic publicity and honourable [[Poverty|poverty]] which
 
 lingers in the very name of Cincinnati.
 
@@ -9981,17 +9981,17 @@ But I have another and special reason for noting this historical fact;
 
 the fact that we English never made anything upon the model of a
 
-capitol, while we can match anybody with the model of a cathedral. It is
+capitol, while we can match anybody with the model of a [[Cathedral|cathedral]]. It is
 
 far from improbable that the latter model may again be a working model.
 
-For I have myself felt, naturally and for a long time, a warm sympathy
+For I have myself felt, naturally and for a long [[Time|time]], a warm sympathy
 
 with both those past ideals, which seem to some so incompatible. I have
 
-felt the attraction of the red cap as well as the red cross, of the
+felt the attraction of the red cap as [[Well|well]] as the red [[Cross|cross]], of the
 
-Marseillaise as well as the Magnificat. And even when they were in
+Marseillaise as [[Well|well]] as the Magnificat. And even when they were in
 
 furious conflict I have never altogether lost my sympathy for either.
 
@@ -10009,7 +10009,7 @@ many mid-Victorian free-thinkers felt for the religious ideal. The most
 
 sincere poets of that period were largely divided between those who
 
-insisted, like Arnold and Clough, that Christianity might be a ruin, but
+insisted, like Arnold and Clough, that [[Christianity]] might be a ruin, but
 
 after all it must be treated as a picturesque ruin; and those, like
 
@@ -10025,17 +10025,17 @@ That is why I went about looking for the fading traces of that lost
 
 cause, in the old-world atmosphere of the new world.
 
-But I do not, as a fact, feel that the cathedral is a ruin; I doubt if I
+But I do not, as a fact, feel that the [[Cathedral|cathedral]] is a ruin; I [[Doubt|doubt]] if I
 
-should feel it even if I wished to lay it in ruins. I doubt if Mr.
+should feel it even if I wished to lay it in ruins. I [[Doubt|doubt]] if Mr.
 
 M'Cabe really thinks that Catholicism is dying, though he might deceive
 
 himself into saying so. Nobody could be naturally moved to say that the
 
-crowded cathedral of St. Patrick in New York was a ruin, or even that
+crowded [[Cathedral|cathedral]] of St. Patrick in [[New York]] was a ruin, or even that
 
-the unfinished Anglo-Catholic cathedral at Washington was a ruin, though
+the unfinished Anglo-Catholic [[Cathedral|cathedral]] at Washington was a ruin, though
 
 it is not yet a church; or that there is anything lost or lingering
 
@@ -10049,15 +10049,15 @@ the religious centres that we now have the feeling of something
 
 beautiful but receding, of something loved but lost. It is exactly in
 
-the spaces cleared and levelled by America for the large and sober
+the spaces cleared and levelled by [[America]] for the large and sober
 
-religion of the eighteenth century; it is where an old house in
+religion of the eighteenth century; it is where an old [[house]] in
 
 Philadelphia contains an old picture of Franklin, or where the men of
 
-Maryland raised above their city the first monument of Washington. It is
+Maryland raised above their [[City|city]] the first monument of Washington. It is
 
-there that I feel like one who treads alone some banquet hall deserted,
+there that I feel like one who treads [[Alone|alone]] some banquet hall deserted,
 
 whose lights are fled, whose garlands dead, and all save he departed. It
 
@@ -10067,7 +10067,7 @@ But when I say that the Republic of the Age of Reason is now a ruin, I
 
 should rather say that at its best it is a ruin. At its worst it has
 
-collapsed into a death-trap or is rotting like a dunghill. What is the
+collapsed into a [[Death|death]]-trap or is rotting like a dunghill. What is the
 
 real Republic of our day as distinct from the ideal Republic of our
 
@@ -10077,21 +10077,21 @@ those parasites, the professional politicians? I was re-reading
 
 Swinburne's bitter but not ignoble poem, 'Before a Crucifix,' in which
 
-he bids Christ, or the ecclesiastical image of Christ, stand out of the
+he bids [[Christ]], or the ecclesiastical image of [[Christ]], stand out of the
 
 way of the onward march of a political idealism represented by United
 
-Italy or the French Republic. I was struck by the strange and ironic
+[[Italy]] or the French Republic. I was struck by the strange and ironic
 
 exactitude with which every taunt he flings at the degradation of the
 
 old divine ideal would now fit the degradation of his own human ideal.
 
-The time has already come when we can ask his Goddess of Liberty, as
+The [[Time|time]] has already come when we can ask his Goddess of Liberty, as
 
 represented by the actual Liberals, 'Have _you_ filled full men's
 
-starved-out souls; have _you_ brought freedom on the earth?' For every
+starved-out souls; have _you_ brought [[Freedom|freedom]] on the earth?' For every
 
 engine in which these old free-thinkers firmly and confidently trusted
 
@@ -10109,33 +10109,33 @@ filthy plutocracy in less than a hundred?
 
      The years have woven a viewless veil,
 
-     If thou wert verily man's lover
+     If thou wert verily man's [[Lover|lover]]
 
-     What did thy love or blood avail?
+     What did thy [[Love|love]] or [[Blood|blood]] avail?
 
-     Thy blood the priests make poison of;
+     Thy [[Blood|blood]] the priests make [[Poison|poison]] of;
 
-     And in gold shekels coin thy love.
+     And in gold shekels coin thy [[Love|love]].
 
 Which has most to do with shekels to-day, the priests or the
 
 politicians? Can we say in any special sense nowadays that clergymen, as
 
-such, make a poison out of the blood of the martyrs? Can we say it in
+such, make a [[Poison|poison]] out of the [[Blood|blood]] of the martyrs? Can we say it in
 
 anything like the real sense, in which we do say that yellow journalists
 
-make a poison out of the blood of the soldiers?
+make a [[Poison|poison]] out of the [[Blood|blood]] of the soldiers?
 
 But I understand how Swinburne felt when confronted by the image of the
 
-carven Christ, and, perplexed by the contrast between its claims and its
+carven [[Christ]], and, perplexed by the contrast between its claims and its
 
 consequences, he said his strange farewell to it, hastily indeed, but
 
 not without regret, not even really without respect. I felt the same
 
-myself when I looked for the last time on the Statue of Liberty.
+myself when I looked for the last [[Time|time]] on the Statue of Liberty.
 
 FOOTNOTE:
 
@@ -10147,7 +10147,7 @@ system, as in France or even in England.
 
 _Is the Atlantic Narrowing?_
 
-A certain kind of question is asked very earnestly in our time. Because
+A certain kind of question is asked very earnestly in our [[Time|time]]. Because
 
 of a certain logical quality in it, connected with premises and data, it
 
@@ -10169,7 +10169,7 @@ are free from corruption; or by what mental and moral training certain
 
 millionaires were enabled to succeed by sheer force of character; in
 
-short, they will ask why plutocrats govern well and how it is that pigs
+short, they will ask why plutocrats govern [[Well|well]] and how it is that pigs
 
 fly, spreading their pink pinions to the breeze or delighting us as they
 
@@ -10183,7 +10183,7 @@ gentleman who was asked, 'When did you leave off beating your wife?' But
 
 there is something analogous to it in the present discussions about the
 
-forces drawing England and America together. It seems as if the
+forces drawing England and [[America]] together. It seems as if the
 
 reasoners hardly went far enough back in their argument, or took
 
@@ -10197,21 +10197,21 @@ special analysis. It is so with the international _rapprochement_ I have
 
 to consider here.
 
-In other places I have ventured to express a doubt about whether nations
+In other places I have ventured to express a [[Doubt|doubt]] about whether nations
 
 can be drawn together by an ancient rumour about races; by a sort of
 
 prehistoric chit-chat or the gossip of the Stone Age. I have ventured
 
-farther; and even expressed a doubt about whether they ought to be drawn
+farther; and even expressed a [[Doubt|doubt]] about whether they ought to be drawn
 
 together, or rather dragged together, by the brute violence of the
 
-engines of science and speed. But there is yet another horrible doubt
+engines of science and [[Speed|speed]]. But there is yet another horrible [[Doubt|doubt]]
 
 haunting my morbid mind, which it will be better for my constitution to
 
-confess frankly. And that is the doubt about whether they are being
+confess frankly. And that is the [[Doubt|doubt]] about whether they are being
 
 drawn together at all.
 
@@ -10227,7 +10227,7 @@ barbaric past. There is something about these sayings that seems simple
 
 and familiar and entirely satisfactory when we say them; they are of
 
-that consoling sort which we can say without any of the mental pain of
+that consoling sort which we can say without any of the mental [[Pain|pain]] of
 
 thinking what we are saying. But if we turn our attention from the
 
@@ -10237,7 +10237,7 @@ least that there are a good many facts on the other side and examples
 
 pointing the other way. For instance, it does happen occasionally, from
 
-time to time, that people talk about Ireland. He would be a very
+[[Time|time]] to [[Time|time]], that people talk about Ireland. He would be a very
 
 hilarious humanitarian who should maintain that Ireland and England have
 
@@ -10251,7 +10251,7 @@ uttering the watchword of 'Repeal' in Gaelic than of uttering it in
 
 Zulu. Grattan could hardly have brought himself to believe that the real
 
-repeal of the Union would actually be signed in London in the strange
+repeal of the [[Union]] would actually be signed in [[London]] in the strange
 
 script as remote as the snaky ornament of the Celtic crosses. It would
 
@@ -10317,13 +10317,13 @@ so that it seemed to come to me by inheritance like _Gulliver's Travels_
 
 or _Tristram Shandy_. Its language was as English as Ruskin, and a great
 
-deal more English than Carlyle. Well, I have seen in later years an
+deal more English than Carlyle. [[Well]], I have seen in later years an
 
-almost equally wide and well-merited popularity of the stories of O.
+almost equally wide and [[Well|well]]-merited popularity of the stories of O.
 
 Henry. But never for one moment could I or any one else reading them
 
-forget that they were stories by an American about America. The very
+forget that they were stories by an American about [[America]]. The very
 
 first fact about them is that they are told with an American accent,
 
@@ -10331,15 +10331,15 @@ that is, in the unmistakable tones of a brilliant and fascinating
 
 foreigner. And the same is true of every other recent work of which the
 
-fame has managed to cross the Atlantic. We did not say that _The Spoon
+fame has managed to [[Cross|cross]] the Atlantic. We did not say that _The Spoon
 
-River Anthology_ was a new book, but that it was a new book from
+[[River]] Anthology_ was a new book, but that it was a new book from
 
-America. It was exactly as if a remarkable realistic novel was reported
+[[America]]. It was exactly as if a remarkable realistic [[Novel|novel]] was reported
 
-from Russia or Italy. We were in no danger of confusing it with the
+from [[Russia]] or [[Italy]]. We were in no danger of confusing it with the
 
-'Elegy in a Country Churchyard.' People in England who heard of Main
+'[[Elegy]] in a Country Churchyard.' People in England who heard of Main
 
 Street were not likely to identify it with a High Street; with the
 
@@ -10347,9 +10347,9 @@ principal thoroughfare in any little town in Berkshire or
 
 Buckinghamshire. But when I was a boy I practically identified the
 
-boarding-house of the Autocrat with any boarding-house I happened to
+boarding-[[house]] of the Autocrat with any boarding-[[house]] I happened to
 
-know in Brompton or Brighton. No doubt there were differences; but the
+know in Brompton or Brighton. No [[Doubt|doubt]] there were differences; but the
 
 point is that the differences did not pierce the consciousness or prick
 
@@ -10359,15 +10359,15 @@ boarding-houses,' not 'People are like this in Boston.'
 
 This can be seen even in the simple matter of language, especially in
 
-the sense of slang. Take, for instance, the delightful sketch in the
+the sense of slang. Take, for instance, the delightful [[Sketch|sketch]] in the
 
-causerie of Oliver Wendell Holmes; the character of the young man called
+causerie of [[Oliver]] Wendell Holmes; the character of the young man called
 
 John. He is the very modern type in every modern country who does
 
 specialise in slang. He is the young fellow who is something in the
 
-City; the everyday young man of the Gilbertian song, with a stick and a
+[[City]]; the everyday young man of the Gilbertian [[Song|song]], with a stick and a
 
 pipe and a half-bred black-and-tan. In every country he is at once witty
 
@@ -10377,7 +10377,7 @@ vivacity and the vulgarity of slang. But when he appeared in Holmes's
 
 book, his language was not very different from what it would have been
 
-in a Brighton instead of a Boston boarding-house; or, in short, if the
+in a Brighton instead of a Boston boarding-[[house]]; or, in short, if the
 
 young man called John had more commonly been called 'Arry. If he had
 
@@ -10391,9 +10391,9 @@ dizzy and involved metaphors of O. Henry. Nor is it an answer that this
 
 depended on the personalities of the particular writers. A comparison
 
-between the real journalism of the time of Holmes and the real
+between the real journalism of the [[Time|time]] of Holmes and the real
 
-journalism of the time of Henry reveals the same thing. It is the
+journalism of the [[Time|time]] of Henry reveals the same thing. It is the
 
 expansion of a slight difference of style into a luxuriant difference of
 
@@ -10417,19 +10417,19 @@ Indeed, the story of the reversal is somewhat singular, when we come to
 
 think of it. It began in a certain atmosphere and spirit of certain
 
-well-meaning people who talked about the English-speaking race; and were
+[[Well|well]]-meaning people who talked about the English-speaking race; and were
 
 apparently indifferent to how the English was spoken, whether in the
 
 accent of a Jamaican negro or a convict from Botany Bay. It was their
 
-logical tendency to say that Dante was a Dago. It was their logical
+logical tendency to say that [[Dante]] was a Dago. It was their logical
 
 punishment to say that Disraeli was an Englishman. Now there may have
 
 been a period when this Anglo-American amalgamation included more or
 
-less equal elements from England and America. It never included the
+less equal elements from England and [[America]]. It never included the
 
 larger elements, or the more valuable elements of either. But, on the
 
@@ -10443,23 +10443,23 @@ their past triumphs to England; which was false. They ended up by
 
 telling the English that they would owe all their future triumphs to
 
-America; which is if possible still more false. Because we chose to
+[[America]]; which is if possible still more false. Because we chose to
 
-forget that New York had been New Amsterdam, we are now in danger of
+forget that [[New York]] had been New Amsterdam, we are now in danger of
 
-forgetting that London is not New York. Because we insisted that Chicago
+forgetting that [[London]] is not [[New York]]. Because we insisted that Chicago
 
-was only a pious imitation of Chiswick, we may yet see Chiswick an
+was only a pious [[Imitation|imitation]] of Chiswick, we may yet see Chiswick an
 
-inferior imitation of Chicago. Our Anglo-Saxon historians attempted that
+inferior [[Imitation|imitation]] of Chicago. Our Anglo-Saxon historians attempted that
 
 conquest in which Howe and Burgoyne had failed, and with infinitely less
 
 justification on their side. They attempted the great crime of the
 
-Anglicisation of America. They have called down the punishment of the
+Anglicisation of [[America]]. They have called down the punishment of the
 
-Americanisation of England. We must not murmur; but it is a heavy
+[[americanisation|Americanisation]] of England. We must not murmur; but it is a heavy
 
 punishment.
 
@@ -10467,13 +10467,13 @@ It may lift a little of its load, however, if we look at it more
 
 closely; we shall then find that though it is very much on top of us, it
 
-is only on top. In that sense such Americanisation as there is is very
+is only on top. In that sense such [[americanisation|Americanisation]] as there is is very
 
 superficial. For instance, there is a certain amount of American slang
 
 picked up at random; it appears in certain pushing types of journalism
 
-and drama. But we may easily dwell too much on this tragedy; of people
+and drama. But we may easily dwell too much on this [[Tragedy|tragedy]]; of people
 
 who have never spoken English beginning to speak American. I am far from
 
@@ -10489,13 +10489,13 @@ instance, is a real discovery and revelation, a new and necessary name
 
 for something that walked nameless but enormous in the modern world, a
 
-shaft of light and a stroke of lightning. That comes from America and
+shaft of light and a stroke of [[Lightning|lightning]]. That comes from [[America]] and
 
-belongs to the world, as much as 'The Raven' or _The Scarlet Letter_ or
+belongs to the world, as much as '[[The Raven]]' or _The Scarlet Letter_ or
 
 the novels of Henry James belong to the world. In fact, I can imagine
 
-Henry James originating it in the throes of self-expression, and
+Henry James originating it in the throes of [[Self|self]]-expression, and
 
 bringing out a word like 'high-browed,' with a sort of gentle jerk, at
 
@@ -10505,11 +10505,11 @@ the phrase. But most of the American slang that is borrowed seems to be
 
 borrowed for no particular reason. It either has no point or the point
 
-is lost by translation into another context and culture. It is either
+is lost by [[Translation|translation]] into another context and culture. It is either
 
-something which does not need any grotesque and exaggerative
+something which does not need any [[Grotesque|grotesque]] and exaggerative
 
-description, or of which there already exists a grotesque and
+description, or of which there already exists a [[Grotesque|grotesque]] and
 
 exaggerative description more native to our tongue and soil. For
 
@@ -10533,7 +10533,7 @@ ordinary language. Very often the English have already as humorous and
 
 fanciful idiom of their own, only that through habit it has lost its
 
-humour. When Keats wrote the line, 'What pipes and timbrels, what wild
+[[Humour|humour]]. When Keats wrote the line, 'What pipes and timbrels, what wild
 
 ecstasy!' I am willing to believe that the American humorist would have
 
@@ -10575,7 +10575,7 @@ of either. All that happens is that a number of weary people who used to
 
 say, 'Something like a bird,' now say, 'Some bird,' with undiminished
 
-weariness. But they might just as well use dull and decent English; for
+weariness. But they might just as [[Well|well]] use dull and decent English; for
 
 in both cases they are only using jocular language without seeing the
 
@@ -10593,19 +10593,19 @@ scroll of decorative designs unrolled ceaselessly before the British
 
 public, about a hen-pecked husband, which is indistinguishable to the
 
-eye from an actual self-repeating pattern like that of the Greek Key,
+eye from an actual [[Self|self]]-repeating pattern like that of the Greek Key,
 
 but which is imported as if it were as precious and irreplaceable as the
 
-Elgin Marbles. Advertisement and syndication make mountains out of the
+Elgin Marbles. Advertisement and syndication make [[Mountains|mountains]] out of the
 
-most funny little mole-hills; but no doubt the mole-hills are
+most funny little mole-hills; but no [[Doubt|doubt]] the mole-hills are
 
 picturesque enough in their own landscape. In any case there is nothing
 
-so national as humour; and many things, like many people, can be
+so national as [[Humour|humour]]; and many things, like many people, can be
 
-humorous enough when they are at home. But these American jokes are
+humorous enough when they are at [[Home|home]]. But these American jokes are
 
 boomed as solemnly as American religions; and their supporters gravely
 
@@ -10613,11 +10613,11 @@ testify that they are funny, without seeing the fun of it for a moment.
 
 This is partly perhaps the spirit of spontaneous institutionalism in
 
-American democracy, breaking out in the wrong place. They make humour an
+American [[democracy]], breaking out in the wrong place. They make [[Humour|humour]] an
 
 institution; and a man will be set to tell an anecdote as if to play the
 
-violin. But when the story is told in America it really is amusing; and
+violin. But when the story is told in [[America]] it really is amusing; and
 
 when these jokes are reprinted in England they are often not even
 
@@ -10627,7 +10627,7 @@ monopolist, the enterprising proprietor prints jokes in England which
 
 are necessarily unintelligible to nearly every English person; jokes
 
-referring to domestic and local conditions quite peculiar to America. I
+referring to domestic and local conditions quite peculiar to [[America]]. I
 
 saw one of these narrative caricatures the other day in which the whole
 
@@ -10645,7 +10645,7 @@ tow an iceberg to an English port all the way from the North Pole, as to
 
 trail that one pale and frigid joke to Fleet Street all the way from the
 
-New York papers. It is the same with a hundred other advertisements and
+[[New York]] papers. It is the same with a hundred other advertisements and
 
 adaptations. I have already confessed that I took a considerable delight
 
@@ -10653,17 +10653,17 @@ in the dancing illuminations of Broadway--in Broadway. Everything there
 
 is suitable to them, the vast interminable thoroughfare, the toppling
 
-houses, the dizzy and restless spirit of the whole city. It is a city of
+houses, the dizzy and restless spirit of the whole [[City|city]]. It is a [[City|city]] of
 
-dissolving views, and one may almost say a city in everlasting
+dissolving views, and one may almost say a [[City|city]] in everlasting
 
-dissolution. But I do not especially admire a burning fragment of
+dissolution. But I do not especially admire a burning [[Fragment|fragment]] of
 
 Broadway stuck up opposite the old Georgian curve of Regent Street. I
 
 would as soon express sympathy with the Republic of Switzerland by
 
-erecting a small Alp, with imitation snow, in the middle of St. James's
+erecting a small Alp, with [[Imitation|imitation]] [[Snow|snow]], in the middle of St. James's
 
 Park.
 
@@ -10673,11 +10673,11 @@ never copies anything that is really worth copying. Nations never
 
 _learn_ anything from each other in this way. We have many things to
 
-learn from America; but we only listen to those Americans who have still
+learn from [[America]]; but we only listen to those Americans who have still
 
 to learn them. Thus, for instance, we do not import the small farm but
 
-only the big shop. In other words, we hear nothing of the democracy of
+only the big shop. In other words, we hear nothing of the [[democracy]] of
 
 the Middle West, but everything of the plutocracy of the middleman, who
 
@@ -10685,9 +10685,9 @@ is probably as unpopular in the Middle West as the miller in the Middle
 
 Ages. If Mr. Elihu K. Pike could be transplanted bodily from the
 
-neighbourhood of his home town of Marathon, Neb., with his farm and his
+neighbourhood of his [[Home|home]] town of Marathon, Neb., with his farm and his
 
-frame-house and all its fittings, and they could be set down exactly in
+frame-[[house]] and all its fittings, and they could be set down exactly in
 
 the spot now occupied by Selfridge's (which could be easily cleared away
 
@@ -10715,21 +10715,21 @@ pleasant domestic ritual and pastime, and is the American equivalent of
 
 the glory of roasting chestnuts. Above all, many of us would learn for
 
-the first time that a man can really live and walk about upon something
+the first [[Time|time]] that a man can really live and walk about upon something
 
 more productive than a pavement; and that when he does so he can really
 
-be a free man, and have no lord but the law. Instead of that, America
+be a free man, and have no lord but the law. Instead of that, [[America]]
 
-can give nothing to London but those multiple modern shops, of which it
+can give nothing to [[London]] but those multiple modern shops, of which it
 
-has too many already. I know that many people entertain the innocent
+has too many already. I know that many people entertain the [[Innocent|innocent]]
 
 illusion that big shops are more efficient than small ones; but that is
 
 only because the big combinations have the monopoly of advertisement as
 
-well as trade. The big shop is not in the least remarkable for
+[[Well|well]] as trade. The big shop is not in the least remarkable for
 
 efficiency; it is only too big to be blamed for its inefficiency. It is
 
@@ -10755,11 +10755,11 @@ employ one or any of its barristers, when we are in temporary danger of
 
 being hanged. We go to men who own their own tools and are responsible
 
-for the use of their own talents. And the same truth applies to that
+for the use of their own talents. And the same [[Truth|truth]] applies to that
 
 other modern method of advertisement, which has also so largely fallen
 
-across us like the gigantic shadow of America. Nations do not arm
+across us like the gigantic [[Shadow|shadow]] of [[America]]. Nations do not arm
 
 themselves for a mortal struggle by remembering which sort of submarine
 
@@ -10789,13 +10789,13 @@ die. But though we modern people are indeed patients, in the sense of
 
 being merely receptive and accepting things with astonishing patience,
 
-we are not dead yet; and we have lingering gleams of sanity.
+we are not dead yet; and we have lingering gleams of [[Sanity|sanity]].
 
 For the best things do not travel. As I appear here as a traveller, I
 
 may say with all modesty that the best people do not travel either. Both
 
-in England and America the normal people are the national people; and I
+in England and [[America]] the normal people are the national people; and I
 
 repeat that I think they are growing more and more national. I do not
 
@@ -10805,9 +10805,9 @@ I do not want it bridged by all this slang journalism and blatant
 
 advertisement. I have called all that commercial publicity the gigantic
 
-shadow of America. It may be the shadow of America, but it is not the
+[[Shadow|shadow]] of [[America]]. It may be the [[Shadow|shadow]] of [[America]], but it is not the
 
-light of America. The light lies far beyond, a level light upon the
+light of [[America]]. The light lies far beyond, a level light upon the
 
 lands of sunset, where it shines upon wide places full of a very simple
 
@@ -10817,19 +10817,19 @@ _Lincoln and Lost Causes_
 
 It has already been remarked here that the English know a great deal
 
-about past American literature, but nothing about past American history.
+about past American literature, but nothing about past American [[history]].
 
-They do not know either, of course, as well as they know the present
+They do not know either, of course, as [[Well|well]] as they know the present
 
 American advertising, which is the least important of the three. But it
 
-is worth noting once more how little they know of the history, and how
+is worth noting once more how little they know of the [[history]], and how
 
-illogically that little is chosen. They have heard, no doubt, of the
+illogically that little is chosen. They have heard, no [[Doubt|doubt]], of the
 
-fame and the greatness of Henry Clay. He is a cigar. But it would be
+fame and the [[Greatness|greatness]] of Henry Clay. He is a cigar. But it would be
 
-unwise to cross-examine any Englishman, who may be consuming that luxury
+unwise to [[Cross|cross]]-examine any Englishman, who may be consuming that luxury
 
 at the moment, about the Missouri Compromise or the controversies with
 
@@ -10853,21 +10853,21 @@ not only solid but antiquated; and is not therefore a very tactful name
 
 for a chicken. There would rise up before him something memorable in
 
-the haze that he calls his history; and he would see the history books
+the haze that he calls his [[history]]; and he would see the [[history]] books
 
 of his boyhood and old engravings of men in steeple-crowned hats
 
 struggling with sea-waves or Red Indians. The whole thing would suddenly
 
-become clear to him if (by a simple reform) the chickens were called
+become clear to him if (by a simple [[Reform|reform]]) the chickens were called
 
-Pilgrim Fathers.
+[[Pilgrim]] Fathers.
 
-Then he would remember all about it. The Pilgrim Fathers were champions
+Then he would remember all about it. The [[Pilgrim]] Fathers were champions
 
-of religious liberty; and they discovered America. It is true that he
+of religious liberty; and they discovered [[America]]. It is true that he
 
-has also heard of a man called Christopher Columbus; but that was in
+has also heard of a man called Christopher [[Columbus]]; but that was in
 
 connection with an egg. He has also heard of somebody known as Sir
 
@@ -10879,13 +10879,13 @@ be possible that he brought it from Virginia, where the cigarettes come
 
 from? Gradually the memories will come back and fit themselves together
 
-for the average hen-wife who learnt history at the English elementary
+for the average hen-wife who learnt [[history]] at the English elementary
 
 schools, and who has now something better to do. Even when the narrative
 
 becomes consecutive, it will not necessarily become correct. It is not
 
-strictly true to say that the Pilgrim Fathers discovered America. But it
+strictly true to say that the [[Pilgrim]] Fathers discovered [[America]]. But it
 
 is quite as true as saying that they were champions of religious
 
@@ -10895,9 +10895,9 @@ heroically in torments rather than tolerate any religious liberty, we
 
 should be talking something like sense about them, and telling the real
 
-truth that is their due. The whole Puritan movement, from the Solemn
+[[Truth|truth]] that is their due. The whole Puritan movement, from the Solemn
 
-League and Covenant to the last stand of the last Stuarts, was a
+League and Covenant to the [[Last Stand|last stand]] of the last Stuarts, was a
 
 struggle _against_ religious toleration, or what they would have called
 
@@ -10907,25 +10907,25 @@ established by a Catholic cavalier in Maryland. Now there is nothing in
 
 this to diminish any dignity that belongs to any real virtues and
 
-virilities in the Pilgrim Fathers; on the contrary, it is rather to the
+virilities in the [[Pilgrim]] Fathers; on the contrary, it is rather to the
 
-credit of their consistency and conviction. But there is no doubt that
+credit of their consistency and conviction. But there is no [[Doubt|doubt]] that
 
-the note of their whole experiment in New England was intolerance, and
+the note of their whole experiment in [[New England]] was intolerance, and
 
-even inquisition. And there is no doubt that New England was then only
+even [[Inquisition|inquisition]]. And there is no [[Doubt|doubt]] that [[New England]] was then only
 
 the newest and not the oldest of these colonial experiments. At least
 
 two Cavaliers had been in the field before any Puritans. And they had
 
-carried with them much more of the atmosphere and nature of the normal
+carried with them much more of the atmosphere and [[Nature|nature]] of the normal
 
 Englishman than any Puritan could possibly carry. They had established
 
 it especially in Virginia, which had been founded by a great Elizabethan
 
-and named after the great Elizabeth. Before there was any New England in
+and named after the great Elizabeth. Before there was any [[New England]] in
 
 the North, there was something very like Old England in the South.
 
@@ -10933,11 +10933,11 @@ Relatively speaking, there is still.
 
 Whenever the anniversary of the _Mayflower_ comes round, there is a
 
-chorus of Anglo-American congratulation and comradeship, as if this at
+[[Chorus|chorus]] of Anglo-American congratulation and [[Comradeship|comradeship]], as if this at
 
 least were a matter on which all can agree. But I knew enough about
 
-America, even before I went there, to know that there are a good many
+[[America]], even before I went there, to know that there are a good many
 
 people there at any rate who do not agree with it. Long ago I wrote a
 
@@ -10949,47 +10949,47 @@ why a few crabbed Nonconformists should have the right to erase a record
 
 that begins with Raleigh and ends with Lee, and incidentally includes
 
-Washington. The great state of Virginia was the backbone of America
+Washington. The great state of Virginia was the backbone of [[America]]
 
 until it was broken in the Civil War. From Virginia came the first great
 
 Presidents and most of the Fathers of the Republic. Its adherence to
 
-the Southern side in the war made it a great war, and for a long time a
+the Southern side in the war made it a great war, and for a long [[Time|time]] a
 
 doubtful war. And in the leader of the Southern armies it produced what
 
 is perhaps the one modern figure that may come to shine like St. Louis
 
-in the lost battle, or Hector dying before holy Troy.
+in the lost battle, or [[Hector]] dying before holy Troy.
 
 Again, it is characteristic that while the modern English know nothing
 
-about Lee they do know something about Lincoln; and nearly all that they
+about Lee they do know something about [[Lincoln]]; and nearly all that they
 
 know is wrong. They know nothing of his Southern connections, nothing of
 
 his considerable Southern sympathy, nothing of the meaning of his
 
-moderation in face of the problem of slavery, now lightly treated as
+moderation in face of the problem of [[Slavery|slavery]], now lightly treated as
 
-self-evident. Above all, they know nothing about the respect in which
+[[Self|self]]-evident. Above all, they know nothing about the respect in which
 
-Lincoln was quite un-English, was indeed the very reverse of English;
+[[Lincoln]] was quite un-English, was indeed the very reverse of English;
 
 and can be understood better if we think of him as a Frenchman, since it
 
 seems so hard for some of us to believe that he was an American. I mean
 
-his lust for logic for its own sake, and the way he kept mathematical
+his lust for [[logic]] for its own sake, and the way he kept mathematical
 
-truths in his mind like the fixed stars. He was so far from being a
+truths in his mind like the fixed [[Stars|stars]]. He was so far from being a
 
 merely practical man, impatient of academic abstractions, that he
 
 reviewed and revelled in academic abstractions, even while he could not
 
-apply them to practical life. He loved to repeat that slavery was
+apply them to practical life. He loved to repeat that [[Slavery|slavery]] was
 
 intolerable while he tolerated it, and to prove that something ought to
 
@@ -10999,11 +10999,11 @@ bewildering to his brother-politicians; for politicians always whitewash
 
 what they do not destroy. But for all that this inconsistent consistency
 
-beat the politicians at their own game, and this abstracted logic proved
+beat the politicians at their own game, and this abstracted [[logic]] proved
 
 the most practical of all. For when the chance did come to do something,
 
-there was no doubt about the thing to be done. The thunderbolt fell
+there was no [[Doubt|doubt]] about the thing to be done. The thunderbolt fell
 
 from the clear heights of heaven; it had not been tossed about and lost
 
@@ -11013,7 +11013,7 @@ mentioning, because it has a moral for a much larger modern question. A
 
 wise man's attitude towards industrial capitalism will be very like
 
-Lincoln's attitude towards slavery. That is, he will manage to endure
+[[Lincoln]]'s attitude towards [[Slavery|slavery]]. That is, he will manage to endure
 
 capitalism; but he will not endure a defence of capitalism. He will
 
@@ -11025,25 +11025,25 @@ having a thing clearly labelled in his own mind as bad, long before the
 
 opportunity comes to abolish it. He may recognise the risk of even worse
 
-things in immediate abolition, as Lincoln did in abolitionism. He will
+things in immediate abolition, as [[Lincoln]] did in abolitionism. He will
 
-not call all business men brutes, any more than Lincoln would call all
+not call all business men brutes, any more than [[Lincoln]] would call all
 
 planters demons; because he knows they are not. He will regard many
 
-alternatives to capitalism as crude and inhuman, as Lincoln regarded
+alternatives to capitalism as crude and inhuman, as [[Lincoln]] regarded
 
 John Brown's raid; because they are. But he will clear his _mind_ from
 
-cant about capitalism; he will have no doubt of what is the truth about
+cant about capitalism; he will have no [[Doubt|doubt]] of what is the [[Truth|truth]] about
 
 Trusts and Trade Combines and the concentration of capital; and it is
 
-the truth that they endure under one of the ironic silences of heaven,
+the [[Truth|truth]] that they endure under one of the ironic silences of heaven,
 
 over the pageants and the passing triumphs of hell.
 
-But the name of Lincoln has a more immediate reference to the
+But the name of [[Lincoln]] has a more immediate reference to the
 
 international matters I am considering here. His name has been much
 
@@ -11053,7 +11053,7 @@ quarrel with Ireland. And if we study the matter, we shall hardly admire
 
 the tact and sagacity of those journalists and politicians.
 
-History is an eternal tangle of cross-purposes; and we could not take a
+[[history|History]] is an eternal tangle of [[Cross|cross]]-purposes; and we could not take a
 
 clearer case, or rather a more complicated case, of such a tangle, than
 
@@ -11063,13 +11063,13 @@ politicians. I mean the parallel between the movement for Irish
 
 independence and the attempted secession of the Southern Confederacy in
 
-America. Superficially any one might say that the comparison is natural
+[[America]]. Superficially any one might say that the comparison is natural
 
 enough; and that there is much in common between the quarrel of the
 
 North and South in Ireland and the quarrel of the North and South in
 
-America. In both cases the South was on the whole agricultural, the
+[[America]]. In both cases the South was on the whole agricultural, the
 
 North on the whole industrial. True, the parallel exaggerates the
 
@@ -11079,17 +11079,17 @@ system to have consisted of Pittsburg. In both the side that was more
 
 successful was felt by many to be less attractive. In both the same
 
-political terms were used, such as the term 'Union' and 'Unionism.' An
+political terms were used, such as the term '[[Union]]' and 'Unionism.' An
 
-ordinary Englishman comes to America, knowing these main lines of
+ordinary Englishman comes to [[America]], knowing these main lines of
 
-American history, and knowing that the American knows the similar main
+American [[history]], and knowing that the American knows the similar main
 
-lines of Irish history. He knows that there are strong champions of
+lines of Irish [[history]]. He knows that there are strong champions of
 
-Ireland in America; possibly he also knows that there are very genuine
+Ireland in [[America]]; possibly he also knows that there are very genuine
 
-champions of England in America. By every possible historical analogy,
+champions of England in [[America]]. By every possible historical analogy,
 
 he would naturally expect to find the pro-Irish in the South and the
 
@@ -11099,7 +11099,7 @@ the opposite. He finds Boston governed by Irishmen, and Nashville
 
 containing people more pro-English than Englishmen. He finds Virginians
 
-not only of British blood, like George Washington, but of British
+not only of British [[Blood|blood]], like George Washington, but of British
 
 opinions almost worthy of George the Third.
 
@@ -11121,7 +11121,7 @@ Americans of the Southern States. As I have already hinted, some of them
 
 are so loyal to the English humanities, that they think it their duty to
 
-defend even the English inhumanities. New England is turning into New
+defend even the English inhumanities. [[New England]] is turning into New
 
 Ireland. But Old England can still be faintly traced in Old Dixie. It
 
@@ -11135,11 +11135,11 @@ places whose historic memories and family traditions really hold them to
 
 us, not by alliance but by affection. Indeed, they have the affection in
 
-spite of the alliance. They love us in spite of our compliments and
+spite of the alliance. They [[Love|love]] us in spite of our compliments and
 
 courtesies and hands across the sea; all our ambassadorial salutations
 
-and speeches cannot kill their love. They manage even to respect us in
+and speeches cannot kill their [[Love|love]]. They manage even to respect us in
 
 spite of the shady Jew stockbrokers we send them as English envoys, or
 
@@ -11171,13 +11171,13 @@ English politicians eagerly point out that we shall be justified in
 
 crushing Ireland exactly as Sumner and Stevens crushed the most English
 
-part of America. It does not seem to occur to them that this comparison
+part of [[America]]. It does not seem to occur to them that this comparison
 
-between the Unionist triumph in America and a Unionist triumph in
+between the Unionist triumph in [[America]] and a Unionist triumph in
 
 Britain is rather hard upon our particular sympathisers, who did not
 
-triumph. When England exults in Lincoln's victory over his foes, she is
+triumph. When England exults in [[Lincoln]]'s victory over his foes, she is
 
 exulting in his victory over her own friends. If her diplomacy continues
 
@@ -11185,13 +11185,13 @@ as delicate and chivalrous as it is at present, they may soon be her
 
 only friends. England will be defending herself at the expense of her
 
-only defenders. But however this may be, it is as well to bear witness
+only defenders. But however this may be, it is as [[Well|well]] to bear witness
 
 to some of the elements of my own experience; and I can answer for it,
 
 at least, that there are some people in the South who will not be
 
-pleased at being swept into the rubbish heap of history as rebels and
+pleased at being swept into the rubbish heap of [[history]] as rebels and
 
 ruffians; and who will not, I regret to say, by any means enjoy even
 
@@ -11211,25 +11211,25 @@ very much indeed when that particular cause was lost. These are not days
 
 in which it is exactly obvious that an agricultural society was more
 
-dangerous than an industrial one. And even Southern slavery had this one
+dangerous than an industrial one. And even Southern [[Slavery|slavery]] had this one
 
 moral merit, that it was decadent; it has this one historic advantage,
 
-that it is dead. The Northern slavery, industrial slavery, or what is
+that it is dead. The Northern [[Slavery|slavery]], industrial [[Slavery|slavery]], or what is
 
-called wage slavery, is not decaying but increasing; and the end of it
+called wage [[Slavery|slavery]], is not decaying but increasing; and the end of it
 
-is not yet. But in any case, it would be well for us to realise that the
+is not yet. But in any case, it would be [[Well|well]] for us to realise that the
 
 reproach of resembling the Confederacy does not ring in all ears as an
 
-unanswerable condemnation. It is scarcely a self-evident or sufficient
+unanswerable condemnation. It is scarcely a [[Self|self]]-evident or sufficient
 
 argument, to some hearers, even to prove that the English are as
 
 delicate and philanthropic as Sherman, still less that the Irish are as
 
-criminal and lawless as Lee. Nor will it soothe every single soul on the
+criminal and lawless as Lee. Nor will it soothe every single [[Soul|soul]] on the
 
 American continent to say that the English victory in Ireland will be
 
@@ -11251,15 +11251,15 @@ I do not incline to accept the parallel in that sense any more than in
 
 the opposite sense. For reasons I have already given elsewhere, I do
 
-believe that in the main Abraham Lincoln was right. But right in what?
+believe that in the main [[Abraham Lincoln]] was right. But right in what?
 
-If Lincoln was right, he was right in guessing that there was not
+If [[Lincoln]] was right, he was right in guessing that there was not
 
 really a Northern nation and a Southern nation, but only one American
 
 nation. And if he has been proved right, he has been proved right by the
 
-fact that men in the South, as well as the North, do now feel a
+fact that men in the South, as [[Well|well]] as the North, do now feel a
 
 patriotism for that American nation. His wisdom, if it really was
 
@@ -11269,7 +11269,7 @@ being converted. Now, if the English politicians must insist on this
 
 parallel, they ought to see that the parallel is fatal to themselves.
 
-The very test which proved Lincoln right has proved them wrong. The very
+The very test which proved [[Lincoln]] right has proved them wrong. The very
 
 judgment which may have justified him quite unquestionably condemns
 
@@ -11277,17 +11277,17 @@ them. We have again and again conquered Ireland, and have never come an
 
 inch nearer to converting Ireland. We have had not one Gettysburg, but
 
-twenty Gettysburgs; but we have had no Union. And that is where, as I
+twenty Gettysburgs; but we have had no [[Union]]. And that is where, as I
 
 have remarked, it is relevant to remember that flying fantastic vision
 
 on the films that told so many people what no histories have told them.
 
-I heard when I was in America rumours of the local reappearance of the
+I heard when I was in [[America]] rumours of the local reappearance of the
 
 Ku-Klux Klan; but the smallness and mildness of the manifestation, as
 
-compared with the old Southern or the new Irish case, is alone a
+compared with the old Southern or the new Irish case, is [[Alone|alone]] a
 
 sufficient example of the exception that proves the rule. To approximate
 
@@ -11295,19 +11295,19 @@ to any resemblance to recent Irish events, we must imagine the Ku-Klux
 
 Klan riding again in more than the terrors of that vision, wild as the
 
-wind, white as the moon, terrible as an army with banners. If there were
+[[Wind|wind]], white as the [[Moon|moon]], terrible as an army with banners. If there were
 
 really such a revival of the Southern action, there would equally be a
 
 revival of the Southern argument. It would be clear that Lee was right
 
-and Lincoln was wrong; that the Southern States were national and were
+and [[Lincoln]] was wrong; that the Southern States were national and were
 
 as indestructible as nations. If the South were as rebellious as
 
 Ireland, the North would be as wrong as England.
 
-But I desire a new English diplomacy that will exhibit, not the things
+But I [[Desire|desire]] a new English diplomacy that will exhibit, not the things
 
 in which England is wrong but the things in which England is right. And
 
@@ -11327,15 +11327,15 @@ England. That is why I insist on the stupidity of ignoring and insulting
 
 the opinions of those few Virginians and other Southerners who really
 
-have some inherited notion of why Englishmen love England; and even love
+have some inherited notion of why Englishmen [[Love|love]] England; and even [[Love|love]]
 
 it in something of the same fashion themselves. Politicians who do not
 
-know the English spirit when they see it at home, cannot of course be
+know the English spirit when they see it at [[Home|home]], cannot of course be
 
 expected to recognise it abroad. Publicists are eloquently praising
 
-Abraham Lincoln, for all the wrong reasons; but fundamentally for that
+[[Abraham Lincoln]], for all the wrong reasons; but fundamentally for that
 
 worst and vilest of all reasons--that he succeeded. None of them seems
 
@@ -11343,7 +11343,7 @@ to have the least notion of how to look for England in England; and they
 
 would see something fantastic in the figure of a traveller who found it
 
-elsewhere, or anywhere but in New England. And it is well, perhaps, that
+elsewhere, or anywhere but in [[New England]]. And it is [[Well|well]], perhaps, that
 
 they have not yet found England where it is hidden in England; for if
 
@@ -11351,17 +11351,17 @@ they found it, they would kill it.
 
 All I am concerned to consider here is the inevitable failure of this
 
-sort of Anglo-American propaganda to create a friendship. To praise
+sort of Anglo-American propaganda to create a [[Friendship|friendship]]. To praise
 
-Lincoln as an Englishman is about as appropriate as if we were praising
+[[Lincoln]] as an Englishman is about as appropriate as if we were praising
 
-Lincoln as an English town. We are talking about something totally
+[[Lincoln]] as an English town. We are talking about something totally
 
 different. And indeed the whole conversation is rather like some such
 
-cross-purposes about some such word as 'Lincoln'; in which one party
+[[Cross|cross]]-purposes about some such word as '[[Lincoln]]'; in which one party
 
-should be talking about the President and the other about the cathedral.
+should be talking about the President and the other about the [[Cathedral|cathedral]].
 
 It is like some wild bewilderment in a farce, with one man wondering how
 
@@ -11373,15 +11373,15 @@ would insist everywhere in this book; that the remedy is to be found in
 
 disentangling the two and not in entangling them further. You could not
 
-produce a democrat of the logical type of Lincoln merely out of the
+produce a democrat of the logical type of [[Lincoln]] merely out of the
 
-moral materials that now make up an English cathedral town, like that on
+moral materials that now make up an English [[Cathedral|cathedral]] town, like that on
 
-which Old Tom of Lincoln looks down. But on the other hand, it is quite
+which Old Tom of [[Lincoln]] looks down. But on the other hand, it is quite
 
 certain that a hundred Abraham Lincolns, working for a hundred years,
 
-could not build Lincoln Cathedral. And the farcical allegory of an
+could not build [[Lincoln]] [[Cathedral]]. And the farcical [[Allegory|allegory]] of an
 
 attempt to make Old Tom and Old Abe embrace to the glory of the
 
@@ -11389,17 +11389,17 @@ illogical Anglo-Saxon language is but a symbol of something that is
 
 always being attempted, and always attempted in vain. It is not by
 
-mutual imitation that the understanding can come. It is not by erecting
+mutual [[Imitation|imitation]] that the understanding can come. It is not by erecting
 
-New York sky-scrapers in London that New York can learn the sacred
+[[New York]] sky-scrapers in [[London]] that [[New York]] can learn the sacred
 
-significance of the towers of Lincoln. It is not by English dukes
+significance of the towers of [[Lincoln]]. It is not by English dukes
 
 importing the daughters of American millionaires that England can get
 
 any glimpse of the democratic dignity of American men. I have the best
 
-of all reasons for knowing that a stranger can be welcomed in America;
+of all reasons for knowing that a stranger can be welcomed in [[America]];
 
 and just as he is courteously treated in the country as a stranger, so
 
@@ -11431,7 +11431,7 @@ Garvin, made interesting and important speeches, and many scientific
 
 aviators luminously discussed the new science. Among their graceful
 
-felicitations and grave and quiet analyses a word was said, or a note
+felicitations and [[Grave|grave]] and quiet analyses a word was said, or a note
 
 was struck, which I myself can never hear, even in the most harmless
 
@@ -11451,19 +11451,19 @@ saying that an instrument of torture was being prepared by my dentist,
 
 that would finally cure me of loving my dog. And I felt it again when
 
-all these wise and well-meaning persons began to talk about the
+all these wise and [[Well|well]]-meaning persons began to talk about the
 
 inevitable effect of aviation in bridging the Atlantic, and establishing
 
-alliance and affection between England and America.
+alliance and affection between England and [[America]].
 
-I resent the suggestion that a machine can make me bad. But I resent
+I resent the suggestion that a [[Machine|machine]] can make me bad. But I resent
 
-quite equally the suggestion that a machine can make me good. It might
+quite equally the suggestion that a [[Machine|machine]] can make me good. It might
 
 be the unfortunate fact that a coolness had arisen between myself and
 
-Mr. Fitzarlington Blenkinsop, inhabiting the suburban villa and garden
+Mr. Fitzarlington Blenkinsop, inhabiting the suburban villa and [[Garden|garden]]
 
 next to mine; and I might even be largely to blame for it. But if
 
@@ -11483,13 +11483,13 @@ a man had suffered from a trifling shindy with his wife. And suppose
 
 somebody told him that the introduction of an entirely new
 
-vacuum-cleaner would compel him to a reluctant reconciliation with his
+vacuum-cleaner would compel him to a reluctant [[Reconciliation|reconciliation]] with his
 
-wife. It would be found, I fancy, that human nature abhors that vacuum.
+wife. It would be found, I fancy, that human [[Nature|nature]] abhors that vacuum.
 
 Reasonably spirited human beings will not be ordered about by bicycles
 
-and sewing-machines; and a sane man will not be made good, let alone
+and sewing-machines; and a sane man will not be made good, let [[Alone|alone]]
 
 bad, by the things he has himself made. I have occasionally dictated to
 
@@ -11501,13 +11501,13 @@ however complex, that attempted such a tyranny.
 
 Yet this and nothing else is what is implied in all such talk of the
 
-aeroplane annihilating distinctions as well as distances; and an
+aeroplane annihilating distinctions as [[Well|well]] as distances; and an
 
 international aviation abolishing nationalities. This and nothing else
 
 was really implied in one speaker's prediction that such aviation will
 
-almost necessitate an Anglo-American friendship. Incidentally, I may
+almost necessitate an Anglo-American [[Friendship|friendship]]. Incidentally, I may
 
 remark, it is not a true suggestion even in the practical and
 
@@ -11515,9 +11515,9 @@ materialistic sense; and the speaker's phrase refuted the speaker's
 
 argument. He said that international relations must be more friendly
 
-when men can get from England to America in a day. Well, men can already
+when men can get from England to [[America]] in a day. [[Well]], men can already
 
-get from England to Germany in a day; and the result was a mutual
+get from England to [[Germany]] in a day; and the result was a mutual
 
 invitation of which the formalities lasted for five years. Men could get
 
@@ -11533,15 +11533,15 @@ there very quickly when Napoleon sat in his tent in that camp at
 
 Boulogne that filled England with alarums of invasion. Are these the
 
-amiable and pacific relations which will unite England and America, when
+amiable and pacific relations which will unite England and [[America]], when
 
-Englishmen can get to America in a day? The shortening of the distance
+Englishmen can get to [[America]] in a day? The shortening of the distance
 
 seems quite as likely, so far as that argument goes, to facilitate that
 
 endless guerilla warfare which raged across the narrow seas in the
 
-Middle Ages; when French invaders carried away the bells of Rye, and the
+Middle Ages; when French invaders carried away [[The Bells|the bells]] of Rye, and the
 
 men of those flats of East Sussex gloriously pursued and recovered them.
 
@@ -11551,9 +11551,9 @@ carry away a few of the more elegant factory chimneys as a substitute
 
 for the superstitious symbols of the past. I know not if the English, on
 
-ripe reflection, would essay with any enthusiasm to get them back. But
+ripe reflection, would [[Essay|essay]] with any enthusiasm to get them back. But
 
-anyhow it is anything but self-evident that people cannot fight each
+anyhow it is anything but [[Self|self]]-evident that people cannot fight each
 
 other because they are near to each other; and if it were true, there
 
@@ -11563,7 +11563,7 @@ a fact, border warfare has often been the one sort of warfare which it
 
 was most difficult to bring under control. And our own traditional
 
-position in face of this new logic is somewhat disconcerting. We have
+position in face of this new [[logic]] is somewhat disconcerting. We have
 
 always supposed ourselves safer because we were insular and therefore
 
@@ -11577,13 +11577,13 @@ our neighbours. We have pitied the poor nations with frontiers, because
 
 a frontier only produces fighting; and now we are trusting to a frontier
 
-as the only thing that will produce friendship. But, as a matter of
+as the only thing that will produce [[Friendship|friendship]]. But, as a matter of
 
 fact, and for a far deeper and more spiritual reason, a frontier will
 
-not produce friendship. Only friendliness produces friendship. And we
+not produce [[Friendship|friendship]]. Only friendliness produces [[Friendship|friendship]]. And we
 
-must look far deeper into the soul of man for the thing that produces
+must look far deeper into the [[Soul|soul]] of man for the thing that produces
 
 friendliness.
 
@@ -11595,9 +11595,9 @@ it were true that men could be taught and tamed by machines, even if
 
 they were taught wisdom or tamed to amiability, I should think it the
 
-most tragic truth in the world. A man so improved would be, in an
+most tragic [[Truth|truth]] in the world. A man so improved would be, in an
 
-exceedingly ugly sense, losing his soul to save it. But in truth he
+exceedingly ugly sense, losing his [[Soul|soul]] to save it. But in [[Truth|truth]] he
 
 cannot be so completely coerced into good; and in so far as he is
 
@@ -11611,7 +11611,7 @@ light in their bodies is darkness, and the highest objects of such men
 
 are the lowest objects of ordinary men. Their peace is mere safety,
 
-their friendship is mere trade; their international friendship is mere
+their [[Friendship|friendship]] is mere trade; their international [[Friendship|friendship]] is mere
 
 international trade. The best we can say of that school of capitalism is
 
@@ -11641,11 +11641,11 @@ suggest that in his vision the Englishman and the American are to
 
 embrace only in the sense of clinging to each other in terror. He is a
 
-man who understands what friendship is, and who knows how to enjoy the
+man who understands what [[Friendship|friendship]] is, and who knows how to enjoy the
 
 motley humours of humanity. But the political reconstruction which he
 
-proposes is too much determined by this old nightmare of
+proposes is too much determined by this old [[nightmare]] of
 
 necessitarianism. He tells us that our national dignities and
 
@@ -11665,11 +11665,11 @@ nobody says that if Greek scholarship is carried past a certain point,
 
 everybody will be torn in pieces like Orpheus, or burned up like Semele,
 
-or poisoned like Socrates. Philosophy, theology and logic may or may not
+or poisoned like Socrates. [[philosophy|Philosophy]], theology and [[logic]] may or may not
 
 be idle academic studies; but nobody supposes that the study of
 
-philosophy, or even of theology, ultimately forces its students to
+[[philosophy]], or even of theology, ultimately forces its students to
 
 manufacture racks and thumb-screws against their will; or that even
 
@@ -11683,9 +11683,9 @@ scientific dangers which alarm Mr. Wells, but with the remedy he
 
 proposes for them; or rather with the relation of that remedy to the
 
-foundation and the future of America. Now it is not too much to say that
+foundation and the future of [[America]]. Now it is not too much to say that
 
-Mr. Wells finds his model in America. The World State is to be the
+Mr. Wells finds his model in [[America]]. The World State is to be the
 
 United States of the World. He answers almost all objections to the
 
@@ -11693,7 +11693,7 @@ practicability of such a peace among states, by pointing out that the
 
 American States have such a peace, and by adding, truly enough, that
 
-another turn of history might easily have seen them broken up by war.
+another turn of [[history]] might easily have seen them broken up by war.
 
 The pattern of the World State is to be found in the New World.
 
@@ -11705,9 +11705,9 @@ in that Constitution. The point appeared in answer to a question which
 
 many, like myself, must have put in this matter; the question of
 
-despotism and democracy. I cannot understand any democrat not seeing the
+despotism and [[democracy]]. I cannot understand any democrat not seeing the
 
-danger of so distant and indirect a system of government. It is hard
+danger of so distant and indirect a system of [[government]]. It is hard
 
 enough anywhere to get representatives to represent. It is hard enough
 
@@ -11723,9 +11723,9 @@ fellow-creatures from the North Pole or the New Jerusalem, is a vision
 
 of Oriental despotism beyond the towering fancies of Tamberlane. This
 
-difficulty in all representative government is felt everywhere, and not
+difficulty in all representative [[government]] is felt everywhere, and not
 
-least in America. But I think that if there is one truth apparent in
+least in [[America]]. But I think that if there is one [[Truth|truth]] apparent in
 
 such a choice of evils, it is that monarchy is at least better than
 
@@ -11759,7 +11759,7 @@ has a real popular institution in the Presidency. But Mr. Wells would
 
 appear to want the American Constitution without the Presidency. If I
 
-understand his words rightly, he seems to want the great democracy
+understand his words rightly, he seems to want the great [[democracy]]
 
 without its popular institution. Alluding to this danger, that the
 
@@ -11807,21 +11807,21 @@ command was not a fiction. So the universal peace would only be a
 
 reality if the World State were not a fiction. And it could not be even
 
-a state if it were not a government. This argument amounts to saying,
+a state if it were not a [[government]]. This argument amounts to saying,
 
 first that the World State will be needed because it is strong, and
 
 then that it may safely be weak because it will not be needed.
 
-Internationalism is in any case hostile to democracy. I do not say it is
+Internationalism is in any case hostile to [[democracy]]. I do not say it is
 
 incompatible with it; but any combination of the two will be a
 
-compromise between the two. The only purely popular government is local,
+compromise between the two. The only purely popular [[government]] is local,
 
-and founded on local knowledge. The citizens can rule the city because
+and founded on local knowledge. The citizens can rule the [[City|city]] because
 
-they know the city; but it will always be an exceptional sort of citizen
+they know the [[City|city]]; but it will always be an exceptional sort of citizen
 
 who has or claims the right to rule over ten cities, and these remote
 
@@ -11843,13 +11843,13 @@ been to the Cannibal Islands; or rather of the still smaller and more
 
 select minority who have come back.
 
-Given this difficulty about quite direct democracy over large areas, I
+Given this difficulty about quite direct [[democracy]] over large areas, I
 
-think the nearest thing to democracy is despotism. At any rate I think
+think the nearest thing to [[democracy]] is despotism. At any rate I think
 
 it is some sort of more or less independent monarchy, such as Andrew
 
-Jackson created in America. And I believe it is true to say that the two
+Jackson created in [[America]]. And I believe it is true to say that the two
 
 men whom the modern world really and almost reluctantly regards with
 
@@ -11861,11 +11861,11 @@ But to admire the United States as the United States is one thing. To
 
 admire them as the World State is quite another. The attempt of Mr.
 
-Wells to make America a sort of model for the federation of all the free
+Wells to make [[America]] a sort of model for the federation of all the free
 
 nations of the earth, though it is international in intention, is really
 
-as narrowly national, in the bad sense, as the desire of Mr. Kipling to
+as narrowly national, in the bad sense, as the [[Desire|desire]] of Mr. Kipling to
 
 cover the world with British Imperialism, or of Professor Treitschke to
 
@@ -11875,7 +11875,7 @@ believe that everything can be settled by painting the map red. Nor do I
 
 believe it can be done by painting it blue with white spots, even if
 
-they are called stars. The insufficiency of British Imperialism does not
+they are called [[Stars|stars]]. The insufficiency of British Imperialism does not
 
 lie in the fact that it has always been applied by force of arms. As a
 
@@ -11885,15 +11885,15 @@ colonisation of comparatively empty places, by geographical discovery
 
 and diplomatic bargain. Whether it be regarded as praise or blame, it is
 
-certainly the truth that among all the things that have called
+certainly the [[Truth|truth]] that among all the things that have called
 
 themselves empires, the British has been perhaps the least purely
 
-military, and has least both of the special guilt and the special glory
+military, and has least both of the special [[Guilt|guilt]] and the special glory
 
 that goes with militarism. The insufficiency of British Imperialism is
 
-not that it is imperial, let alone military. The insufficiency of
+not that it is imperial, let [[Alone|alone]] military. The insufficiency of
 
 British Imperialism is that it is British; when it is not merely Jewish.
 
@@ -11911,11 +11911,11 @@ black. The objection to spreading anything all over the world is that,
 
 among other things, you have to spread it very thin.
 
-But America, which Mr. Wells takes as a model, is in another sense
+But [[America]], which Mr. Wells takes as a model, is in another sense
 
 rather a warning. Mr. Wells says very truly that there was a moment in
 
-history when America might well have broken up into independent states
+[[history]] when [[America]] might [[Well|well]] have broken up into independent states
 
 like those of Europe. He seems to take it for granted that it was in all
 
@@ -11925,7 +11925,7 @@ however mildly we put it, for a certain importance in the world still
 
 attaching to Europe. There are some who find France as interesting as
 
-Florida; and who think they can learn as much about history and humanity
+Florida; and who think they can learn as much about [[history]] and humanity
 
 in the marble cities of the Mediterranean as in the wooden towns of the
 
@@ -11935,7 +11935,7 @@ destroyed; nor has its peculiar position in the culture of the world
 
 been destroyed. Nothing has yet appeared capable of completely eclipsing
 
-it, either in its extension in America or its imitation in Japan. But
+it, either in its extension in [[America]] or its [[Imitation|imitation]] in Japan. But
 
 the immediate point here is perhaps a more important one. There is now
 
@@ -11949,7 +11949,7 @@ was superior to that of the barbarians in Roman times. If Europe were
 
 united in modern times, it would probably be by the victory of one of
 
-its types over others, possibly over all the others. And when America
+its types over others, possibly over all the others. And when [[America]]
 
 was united finally in the nineteenth century, it _was_ by the victory of
 
@@ -11957,19 +11957,19 @@ one of its types over others. It is not yet certain that this victory
 
 was a good thing. It is not yet certain that the world will be better
 
-for the triumph of the North over the Southern traditions of America.
+for the triumph of the North over the Southern traditions of [[America]].
 
 It may yet turn out to be as unfortunate as a triumph of the North
 
-Germans over the Southern traditions of Germany and of Europe.
+Germans over the Southern traditions of [[Germany]] and of Europe.
 
 The men who will not face this fact are men whose minds are not free.
 
-They are more crushed by Progress than any pietists by Providence. They
+They are more crushed by Progress than any pietists by [[Providence]]. They
 
 are not allowed to question that whatever has recently happened was all
 
-for the best. Now Progress is Providence without God. That is, it is a
+for the best. Now Progress is [[Providence]] without God. That is, it is a
 
 theory that everything has always perpetually gone right by accident. It
 
@@ -11979,7 +11979,7 @@ more miraculous than a miracle. If there be no purpose, or if the
 
 purpose permits of human free will, then in either case it is almost
 
-insanely unlikely that there should be in history a period of steady and
+insanely unlikely that there should be in [[history]] a period of steady and
 
 uninterrupted progress; or in other words a period in which poor
 
@@ -12001,11 +12001,11 @@ tribes were mistakes. In the French the persecution of Catholicism by
 
 the politicians was a mistake, as they found out in the Great War; when
 
-the memory gave Irish or Italian Catholics an excuse for hanging back.
+the [[Memory|memory]] gave Irish or Italian Catholics an excuse for hanging back.
 
 In England the loss of agriculture and therefore of food-supply in war,
 
-and the power to stand a siege, was a mistake. And in America the
+and the power to stand a siege, was a mistake. And in [[America]] the
 
 introduction of the negroes was a mistake; but it may yet be found that
 
@@ -12013,7 +12013,7 @@ the sacrifice of the Southern white man to them was even more of a
 
 mistake.
 
-The reason of this doubt is in one word. We have not yet seen the end of
+The reason of this [[Doubt|doubt]] is in one word. We have not yet seen the end of
 
 the whole industrial experiment; and there are already signs of it
 
@@ -12027,7 +12027,7 @@ have already called in Capitalists to help them to crush the free
 
 peasants. The Capitalists are quite likely to call in Labour Leaders to
 
-whitewash their compromise as social reform or even Socialism. The
+whitewash their compromise as social [[Reform|reform]] or even Socialism. The
 
 cosmopolitan Jews who are the Communists in the East will not find it so
 
@@ -12039,7 +12039,7 @@ nominal Socialism. The Eastern Jews have already admitted that their
 
 Socialism is nominal. It was the Bolshevist leader himself who said,
 
-'Russia is again a Capitalist country.' But whoever makes the bargain,
+'[[Russia]] is again a Capitalist country.' But whoever makes the bargain,
 
 and whatever is its precise character, the substance of it will be
 
@@ -12059,15 +12059,15 @@ to it. At any moment it may appear in the simple form of compulsory
 
 arbitration; for compulsory arbitration dealing with private employers
 
-is by definition slavery. When workmen receive unemployment pay, and at
+is by definition [[Slavery|slavery]]. When workmen receive unemployment pay, and at
 
-the same time arouse more and more irritation by going on strike, it may
+the same [[Time|time]] arouse more and more irritation by going on strike, it may
 
 seem very natural to give them the unemployment pay for good and forbid
 
 them the strike for good; and the combination of those two things is by
 
-definition slavery. And Trotsky can beat any Trust magnate as a
+definition [[Slavery|slavery]]. And Trotsky can beat any Trust magnate as a
 
 strike-breaker; for he does not even pretend that his compulsory labour
 
@@ -12077,7 +12077,7 @@ compromise, that compromise will be a Servile State. But it will also be
 
 the supreme and by far the most constructive and conclusive result of
 
-the industrial movement in history; of the power of machinery or money;
+the industrial movement in [[history]]; of the power of machinery or money;
 
 of the huge populations of the modern cities; of scientific inventions
 
@@ -12085,13 +12085,13 @@ and resources; of all the things before which the agricultural society
 
 of the Southern Confederacy went down. But even those who cannot see
 
-that commercialism may end in the triumph of slavery can see that the
+that commercialism may end in the triumph of [[Slavery|slavery]] can see that the
 
 Northern victory has to a great extent ended in the triumph of
 
 commercialism. And the point at the moment is that this did definitely
 
-mean, even at the time, the triumph of one American type over another
+mean, even at the [[Time|time]], the triumph of one American type over another
 
 American type; just as much as any European war might mean the triumph
 
@@ -12101,7 +12101,7 @@ would be a victory of merchants over peasants; and the victory of
 
 Northerners over Southerners was a victory of merchants over squires. So
 
-that that very unity, which Mr. Wells contrasts so favourably with war,
+that that very [[unity]], which Mr. Wells contrasts so favourably with war,
 
 was not only itself due to a war, but to a war which had one of the most
 
@@ -12119,17 +12119,17 @@ which we speak when we say that 1870 was a disaster to Europe, or that
 
 it was necessary to fight Prussia lest she should Prussianise the whole
 
-world. America would have been very different if the leadership had
+world. [[America]] would have been very different if the leadership had
 
 remained with Virginia. The world would have been very different if
 
-America had been very different. It is quite reasonable to rejoice that
+[[America]] had been very different. It is quite reasonable to rejoice that
 
 the issue went as it did; indeed, as I have explained elsewhere, for
 
 other reasons I do on the whole rejoice in it. But it is certainly not
 
-self-evident that it is a matter for rejoicing. One type of American
+[[Self|self]]-evident that it is a matter for rejoicing. One type of American
 
 state conquered and subjugated another type of American state; and the
 
@@ -12145,7 +12145,7 @@ that one or other of them becomes the European tradition to the neglect
 
 of the other. The situation which seems to satisfy him so completely in
 
-America is, after all, the situation which would result in Europe if the
+[[America]] is, after all, the situation which would result in Europe if the
 
 Germanic Empires, let us say, had entirely arrested the special
 
@@ -12161,19 +12161,19 @@ agricultural South has been considerably balanced by the growth of the
 
 agricultural West. It is true, as I have occasion to emphasise in
 
-another place, that the West does give the New America something that is
+another place, that the West does give the New [[America]] something that is
 
 nearly a normal peasantry, as a pendant to the industrial towns. But
 
 this is not an answer; it is rather an augmentation of the argument. In
 
-so far as America is saved it is saved by being patchy; and would be
+so far as [[America]] is saved it is saved by being patchy; and would be
 
 ruined if the Western patch had the same fate as the Southern patch.
 
 When all is said, therefore, the advantages of American unification are
 
-not so certain that we can apply them to a world unification. The doubt
+not so certain that we can apply them to a world unification. The [[Doubt|doubt]]
 
 could be expressed in a great many ways and by a great many examples.
 
@@ -12185,21 +12185,21 @@ sort of local injustice that turns provinces into nations struggling to
 
 be free. It has already inflicted what amounts to religious persecution,
 
-or the imposition of an alien morality, on the wine-growing civilisation
+or the imposition of an alien [[morality]], on the wine-growing civilisation
 
 of California. In a word, the American system is a good one as
 
 governments go; but it is too large, and the world will not be improved
 
-by making it larger. And for this reason alone I should reject this
+by making it larger. And for this reason [[Alone|alone]] I should reject this
 
-second method of uniting England and America; which is not only
+second method of uniting England and [[America]]; which is not only
 
 Americanising England, but Americanising everything else.
 
 But the essential reason is that a type of culture came out on top in
 
-America and England in the nineteenth century, which cannot and would
+[[America]] and England in the nineteenth century, which cannot and would
 
 not be tolerated on top of the world. To unite all the systems at the
 
@@ -12229,7 +12229,7 @@ they are bankrupt. The peasantries are growing not only more prosperous
 
 but more politically effective; the Russian moujik has held up the
 
-Bolshevist Government of Moscow and Petersburg; a huge concession has
+Bolshevist [[government|Government]] of Moscow and Petersburg; a huge concession has
 
 been made by England to Ireland; the League of Nations has decided for
 
@@ -12243,17 +12243,17 @@ culture is one of its ideas. Industrialism itself may perish; or on the
 
 other hand industrialism itself may survive, by some searching and
 
-scientific reform that will really guarantee economic security to all.
+scientific [[Reform|reform]] that will really guarantee economic security to all.
 
 It may really purge itself of the accidental maladies of anarchy and
 
-famine; and continue as a machine, but at least as a comparatively clean
+famine; and continue as a [[Machine|machine]], but at least as a comparatively clean
 
-and humanely shielded machine; at any rate no longer as a man-eating
+and humanely shielded [[Machine|machine]]; at any rate no longer as a man-eating
 
-machine. Capitalism may clear itself of its worst corruptions by such
+[[Machine|machine]]. Capitalism may clear itself of its worst corruptions by such
 
-reform as is open to it; by creating humane and healthy conditions for
+[[Reform|reform]] as is open to it; by creating humane and healthy conditions for
 
 labour, and setting the labouring classes to work under a lucid and
 
@@ -12275,7 +12275,7 @@ those graves in the Wilderness where lay the bones of so many gallant
 
 gentlemen; men who had also from their youth known and upheld such a
 
-social stratification, who had the courage to call a spade a spade and a
+social stratification, who had the [[Courage|courage]] to call a spade a spade and a
 
 slave a slave.
 
@@ -12283,7 +12283,7 @@ _A New Martin Chuzzlewit_
 
 The aim of this book, if it has one, is to suggest this thesis; that the
 
-very worst way of helping Anglo-American friendship is to be an
+very worst way of helping Anglo-American [[Friendship|friendship]] is to be an
 
 Anglo-American. There is only one thing lower, of course, which is being
 
@@ -12295,11 +12295,11 @@ an American and an Englishman in some way blended together. But if
 
 Angles and Saxons ever did exist, they are all fortunately dead now; and
 
-the wildest imagination cannot form the weakest idea of what sort of
+the wildest [[Imagination|imagination]] cannot form the weakest idea of what sort of
 
-monster would be made by mixing one with the other. But my thesis is
+[[Monster|monster]] would be made by mixing one with the other. But my thesis is
 
-that the whole hope, and the only hope, lies not in mixing two things
+that the whole [[Hope|hope]], and the only [[Hope|hope]], lies not in mixing two things
 
 together, but rather in cutting them very sharply asunder. That is the
 
@@ -12311,13 +12311,13 @@ different and yet supposed to be the same, there can be nothing but a
 
 divided mind and a staggering balance. It may be that in the first
 
-twilight of time man and woman walked about as one quadruped. But if
+twilight of [[Time|time]] man and woman walked about as one quadruped. But if
 
 they did, I am sure it was a quadruped that reared and bucked and kicked
 
-up its heels. Then the flaming sword of some angel divided them, and
+up its heels. Then the flaming [[Sword|sword]] of some angel divided them, and
 
-they fell in love with each other.
+they fell in [[Love|love]] with each other.
 
 Should the reader require an example a little more within historical
 
@@ -12359,7 +12359,7 @@ enmity. But so long as the two are sharply divided there can be no
 
 enmity because there can be no rivalry. Nobody can argue about whether
 
-the Swiss climb mountains better than the Dutch build dykes; just as
+the Swiss climb [[Mountains|mountains]] better than the Dutch build dykes; just as
 
 nobody can argue about whether a triangle is more triangular than a
 
@@ -12371,7 +12371,7 @@ but, having used it for convenience, I could easily give similar
 
 examples not of fancy but of fact. I had occasion recently to attend the
 
-Christmas festivity of a club in London for the exiles of one of the
+Christmas festivity of a club in [[London]] for the exiles of one of the
 
 Scandinavian nations. When I entered the room the first thing that
 
@@ -12385,7 +12385,7 @@ evidence; there were men dressed like myself (only better) in the garb
 
 of the modern middle classes; there was furniture like the furniture of
 
-any other room in London. Now, according to the ideal formula of the
+any other room in [[London]]. Now, according to the ideal formula of the
 
 ordinary internationalist, these things that we had in common ought to
 
@@ -12397,7 +12397,7 @@ I also wore a collar and tie, we were brothers and nothing could come
 
 between us. I ought to have felt that we were standing for the same
 
-principles of truth because we were wearing the same pair of trousers;
+principles of [[Truth|truth]] because we were wearing the same pair of trousers;
 
 or rather, to speak with more precision, similar pairs of trousers.
 
@@ -12419,7 +12419,7 @@ northern nation was the very thing that is utterly and indeed lamentably
 
 lacking in my own nation. It was something corresponding to the one
 
-great gap in English history, corresponding to the one great blot on
+great gap in English [[history]], corresponding to the one great blot on
 
 English civilisation. It was the spiritual presence of a peasantry,
 
@@ -12427,15 +12427,15 @@ dressed according to its own dignity, and expressing itself by its own
 
 creations.
 
-The sketch of America left by Charles Dickens is generally regarded as
+The [[Sketch|sketch]] of [[America]] left by Charles Dickens is generally regarded as
 
 something which is either to be used as a taunt or covered with an
 
-apology. Doubtless it was unduly critical, even of the America of that
+apology. Doubtless it was unduly critical, even of the [[America]] of that
 
-day; yet curiously enough it may well be the text for a true
+day; yet curiously enough it may [[Well|well]] be the text for a true
 
-reconciliation at the present day. It is true that in this, as in other
+[[Reconciliation|reconciliation]] at the present day. It is true that in this, as in other
 
 things, the Dickensian exaggeration is itself exaggerated. It is also
 
@@ -12443,37 +12443,37 @@ true that, while it is over-emphasised, it is not allowed for. Dickens
 
 tended too much to describe the United States as a vast lunatic asylum;
 
-but partly because he had a natural inspiration and imagination suited
+but partly because he had a natural inspiration and [[Imagination|imagination]] suited
 
 to the description of lunatic asylums. As it was his finest poetic fancy
 
-that created a lunatic over the garden wall, so it was his fancy that
+that created a lunatic over the [[Garden|garden]] wall, so it was his fancy that
 
 created a lunatic over the western sea. To read some of the complaints,
 
 one would fancy that Dickens had deliberately invented a low and
 
-farcical America to be a contrast to his high and exalted England. It is
+farcical [[America]] to be a contrast to his high and exalted England. It is
 
-suggested that he showed America as full of rowdy bullies like Hannibal
+suggested that he showed [[America]] as full of rowdy bullies like Hannibal
 
-Chollop, or ridiculous wind-bags like Elijah Pogram, while England was
+Chollop, or ridiculous [[Wind|wind]]-bags like Elijah Pogram, while England was
 
-full of refined and sincere spirits like Jonas Chuzzlewit, Chevy Slime,
+full of refined and sincere spirits like [[Jonas Chuzzlewit]], Chevy Slime,
 
-Montague Tigg, and Mr. Pecksniff. If _Martin Chuzzlewit_ makes America a
+[[Montague Tigg]], and Mr. Pecksniff. If _Martin Chuzzlewit_ makes [[America]] a
 
 lunatic asylum, what in the world does it make England? We can only say
 
-a criminal lunatic asylum. The truth is, of course, that Dickens so
+a criminal lunatic asylum. The [[Truth|truth]] is, of course, that Dickens so
 
 described them because he had a genius for that sort of description; for
 
 the making of almost maniacal grotesques of the same type as Quilp or
 
-Fagin. He made these Americans absurd because he was an artist in
+[[Fagin]]. He made these Americans absurd because he was an [[Artist|artist]] in
 
-absurdity; and no artist can help finding hints everywhere for his own
+absurdity; and no [[Artist|artist]] can help finding hints everywhere for his own
 
 peculiar art. In a word, he created a laughable Pogram for the same
 
@@ -12481,11 +12481,11 @@ reason that he created a laughable Pecksniff; and that was only because
 
 no other creature could have created them.
 
-It is often said that we learn to love the characters in romances as if
+It is often said that we learn to [[Love|love]] the characters in romances as if
 
-they were characters in real life. I wish we could sometimes love the
+they were characters in real life. I wish we could sometimes [[Love|love]] the
 
-characters in real life as we love the characters in romances. There are
+characters in real life as we [[Love|love]] the characters in romances. There are
 
 a great many human souls whom we should accept more kindly, and even
 
@@ -12501,7 +12501,7 @@ towards an American friend that exact shade or tint of tenderness that
 
 we feel towards Mr. Hannibal Chollop. Our enjoyment of the foreigner
 
-should rather resemble our enjoyment of Pickwick than our enjoyment of
+should rather resemble our enjoyment of [[Pickwick]] than our enjoyment of
 
 Pecksniff. But there is this amount of appropriateness even in the
 
@@ -12509,7 +12509,7 @@ particular example; that Dickens did show in both countries how men can
 
 be made amusing to each other. So far the point is not that he made fun
 
-of America, but that he got fun out of America. And, as I have already
+of [[America]], but that he got fun out of [[America]]. And, as I have already
 
 pointed out, he applied exactly the same method of selection and
 
@@ -12523,7 +12523,7 @@ can see it in the witty and withering criticism delivered by the Yankee
 
 traveller in the musty refreshment room of Mugby Junction; a genuine
 
-example of a genuinely American fun and freedom satirising a genuinely
+example of a genuinely American fun and [[Freedom|freedom]] satirising a genuinely
 
 British stuffiness and snobbery. Nobody expects the American traveller
 
@@ -12531,7 +12531,7 @@ to admire the refreshments at Mugby Junction; but he might admire the
 
 refreshment at one of the Pickwickian inns, especially if it contained
 
-Pickwick. Nobody expects Pickwick to like Pogram; but he might like the
+[[Pickwick]]. Nobody expects [[Pickwick]] to like Pogram; but he might like the
 
 American who made fun of Mugby Junction. But the point is that, while he
 
@@ -12547,13 +12547,13 @@ the American amusing because he was American; nor can I imagine a better
 
 ground for his amusement.
 
-Now many will debate on the psychological possibility of such a
+Now many will [[debate]] on the psychological possibility of such a
 
-friendship founded on reciprocal ridicule, or rather on a comedy of
+[[Friendship|friendship]] founded on reciprocal ridicule, or rather on a [[Comedy|comedy]] of
 
 comparisons. But I will say of this harmony of humours what Mr. H. G.
 
-Wells says of his harmony of states in the unity of his World State. If
+Wells says of his harmony of states in the [[unity]] of his World State. If
 
 it be truly impossible to have such a peace, then there is nothing
 
@@ -12561,7 +12561,7 @@ possible except war. If we cannot have friends in this fashion, then we
 
 shall sooner or later have enemies in some other fashion. There is no
 
-hope in the pompous impersonalities of internationalism.
+[[Hope|hope]] in the pompous impersonalities of internationalism.
 
 And this brings us to the real and relevant mistake of Dickens. It was
 
@@ -12573,7 +12573,7 @@ American sketches are almost avowedly superficial; they are descriptions
 
 of public life and not private life. Mr. Jefferson Brick had no private
 
-life. But Mr. Jonas Chuzzlewit undoubtedly had a private life; and even
+life. But Mr. [[Jonas Chuzzlewit]] undoubtedly had a private life; and even
 
 kept some parts of it exceeding private. Mr. Pecksniff was also a
 
@@ -12581,7 +12581,7 @@ domestic character; so was Mr. Quilp. Mr. Pecksniff and Mr. Quilp had
 
 slightly different ways of surprising their families; Mr. Pecksniff by
 
-playfully observing 'Boh!' when he came home; Mr. Quilp by coming home
+playfully observing 'Boh!' when he came [[Home|home]]; Mr. Quilp by coming [[Home|home]]
 
 at all. But we can form no picture of how Mr. Hannibal Chollop playfully
 
@@ -12595,7 +12595,7 @@ Gracchi managed the Modern Gracchi; for her maternity was rather a
 
 public than a private office. We have no romantic moonlit scenes of the
 
-love-making of Elijah Pogram, to balance against the love story of Seth
+[[Love|love]]-making of Elijah Pogram, to balance against the [[Love|love]] story of Seth
 
 Pecksniff. These figures are all in a special sense theatrical; all
 
@@ -12603,7 +12603,7 @@ facing one way and lit up by a public limelight. Their ridiculous
 
 characters are detachable from their real characters, if they have any
 
-real characters. And the author might perfectly well be right about what
+real characters. And the author might perfectly [[Well|well]] be right about what
 
 is ridiculous, and wrong about what is real. He might be as right in
 
@@ -12611,33 +12611,33 @@ smiling at the Pograms and the Bricks as in smiling at the Pickwicks and
 
 the Boffins. And he might still be as wrong in seeing Mr. Pogram as a
 
-hypocrite as the great Buzfuz was wrong in seeing Mr. Pickwick as a
+hypocrite as the great Buzfuz was wrong in seeing Mr. [[Pickwick]] as a
 
-monster of revolting heartlessness and systematic villainy. He might
+[[Monster|monster]] of revolting heartlessness and systematic villainy. He might
 
 still be as wrong in thinking Jefferson Brick a charlatan and a cheat as
 
 was that great disciple of Lavater, Mrs. Wilfer, in tracing every
 
-wrinkle of evil cunning in the face of Mrs. Boffin. For Mr. Pickwick's
+wrinkle of evil cunning in the face of Mrs. Boffin. For Mr. [[Pickwick]]'s
 
 spectacles and gaiters and Mrs. Boffin's bonnets and boudoir are after
 
-all superficial jokes; and might be equally well seen whatever we saw
+all superficial jokes; and might be equally [[Well|well]] seen whatever we saw
 
-beneath them. A man may smile and smile and be a villain; but a man may
+beneath them. A man may smile and smile and be a [[Villain|villain]]; but a man may
 
-also make us smile and not be a villain. He may make us smile and not
+also make us smile and not be a [[Villain|villain]]. He may make us smile and not
 
-even be a fool. He may make us roar with laughter and be an exceedingly
+even be a [[Fool|fool]]. He may make us roar with laughter and be an exceedingly
 
 wise man.
 
-Now that is the paradox of America which Dickens never discovered.
+Now that is the [[Paradox|paradox]] of [[America]] which Dickens never discovered.
 
 Elijah Pogram was far more fantastic than his satirist thought; and the
 
-most grotesque feature of Brick and Chollop was hidden from him. The
+most [[Grotesque|grotesque]] feature of Brick and Chollop was hidden from him. The
 
 really strange thing was that Pogram probably did say, 'Rough he may be.
 
@@ -12647,9 +12647,9 @@ perfectly intelligent and public-spirited citizen while he said it. The
 
 extraordinary thing is that Jefferson Brick may really have said, 'The
 
-libation of freedom must sometimes be quaffed in blood,' and yet
+libation of [[Freedom|freedom]] must sometimes be quaffed in [[Blood|blood]],' and yet
 
-Jefferson Brick may have served freedom, resisting unto blood. There
+Jefferson Brick may have served [[Freedom|freedom]], resisting unto [[Blood|blood]]. There
 
 really has been a florid school of rhetoric in the United States which
 
@@ -12661,7 +12661,7 @@ always amusing; just as English idiom and English costume are amusing to
 
 Americans. But about this kind of difference there can be no kind of
 
-doubt. So sturdy not to say stuffy a materialist as Ingersoll could say
+[[Doubt|doubt]]. So sturdy not to say stuffy a materialist as Ingersoll could say
 
 of so shoddy not to say shady a financial politician as Blaine, 'Like an
 
@@ -12685,7 +12685,7 @@ post-master was at least as good a person to praise in such a fashion as
 
 James G. Blaine of the Little Rock Railway. But anybody who had treated
 
-Ingersoll or Blaine merely as a fool and a figure of fun would have very
+Ingersoll or Blaine merely as a [[Fool|fool]] and a figure of fun would have very
 
 rapidly found out his mistake. But Dickens did not know Brick or Chollop
 
@@ -12695,15 +12695,15 @@ after a full understanding, he might still have found things to smile at
 
 or to criticise. I do not insist on his admitting that Hannibal Chollop
 
-was as great a hero as Hannibal, or that Elijah Pogram was as true a
+was as great a [[Hero|hero]] as Hannibal, or that Elijah Pogram was as true a
 
-prophet as Elijah. But I do say very seriously that they had something
+[[Prophet|prophet]] as Elijah. But I do say very seriously that they had something
 
 about their atmosphere and situation that made possible a sort of
 
-heroism and even a sort of prophecy that were really less natural at
+[[Heroism|heroism]] and even a sort of prophecy that were really less natural at
 
-that period in that Merry England whose comedy and common sense we sum
+that period in that Merry England whose [[Comedy|comedy]] and common sense we sum
 
 up under the name of Dickens. When we joke about the name of Hannibal
 
@@ -12723,7 +12723,7 @@ For all these three things, good, bad, and indifferent, go together to
 
 form something that Dickens missed, merely because the England of his
 
-time most disastrously missed it. In this case, as in every case, the
+[[Time|time]] most disastrously missed it. In this case, as in every case, the
 
 only way to measure justly the excess of a foreign country is to measure
 
@@ -12731,7 +12731,7 @@ the defect of our own country. For in this matter the human mind is the
 
 victim of a curious little unconscious trick, the cause of nearly all
 
-international dislikes. A man treats his own faults as original sin and
+international dislikes. A man treats his own faults as [[Original Sin|original sin]] and
 
 supposes them scattered everywhere with the seed of Adam. He supposes
 
@@ -12741,9 +12741,9 @@ foundation of his own private vices. It would astound him to realise
 
 that they have actually, by their strange erratic path, avoided his
 
-vices as well as his virtues. His own faults are things with which he is
+vices as [[Well|well]] as his virtues. His own faults are things with which he is
 
-so much at home that he at once forgets and assumes them abroad. He is
+so much at [[Home|home]] that he at once forgets and assumes them abroad. He is
 
 so faintly conscious of them in himself that he is not even conscious of
 
@@ -12757,9 +12757,9 @@ goes on to be seriously angry with the Frenchman for having dared to
 
 complicate them by the French faults. The notion that the Frenchman has
 
-the French faults and _not_ the English faults is a paradox too wild to
+the French faults and _not_ the English faults is a [[Paradox|paradox]] too wild to
 
-cross his mind.
+[[Cross|cross]] his mind.
 
 He is like an old Chinaman who should laugh at Europeans for wearing
 
@@ -12785,7 +12785,7 @@ enough to have high-heeled shoes. Nor should we necessarily have come an
 
 inch nearer to the Chinese extravagances even if the chimney-pot hat
 
-rose higher than a factory chimney or the high heels had evolved into a
+[[Rose|rose]] higher than a factory chimney or the high heels had evolved into a
 
 sort of stilts. By the same fallacy the Englishman will not only curse
 
@@ -12801,7 +12801,7 @@ have top-hats but not pig-tails, so the Englishman cannot believe that
 
 peasants are not snobs even when they are savages. Or he sees that a
 
-Paris paper is violent and sensational; and then supposes that some
+[[Paris]] paper is violent and sensational; and then supposes that some
 
 millionaire owns twenty such papers and runs them as a newspaper trust.
 
@@ -12815,7 +12815,7 @@ because it belongs to a real and responsible person, and not to a ring
 
 of nameless millionaires. It is a pamphlet, and not an anonymous
 
-pamphlet. In a hundred other cases the same truth could be illustrated;
+pamphlet. In a hundred other cases the same [[Truth|truth]] could be illustrated;
 
 the situation in which the black man first assumes that all mankind is
 
@@ -12825,23 +12825,23 @@ their faces red and yellow, or the hypocrisy of white-washing
 
 themselves after the fashion of whited sepulchres. The particular case
 
-of it now before us is that of the English misunderstanding of America;
+of it now before us is that of the English misunderstanding of [[America]];
 
 and it is based, as in all these cases, on the English misunderstanding
 
 of England.
 
-For the truth is that England has suffered of late from not having
+For the [[Truth|truth]] is that England has suffered of late from not having
 
 enough of the free shooting of Hannibal Chollop; from not understanding
 
-enough that the libation of freedom must sometimes be quaffed in blood.
+enough that the libation of [[Freedom|freedom]] must sometimes be quaffed in [[Blood|blood]].
 
 The prosperous Englishman will not admit this; but then the prosperous
 
 Englishman will not admit that he has suffered from anything. That is
 
-what he is suffering from. Until lately at least he refused to realise
+what he is [[Suffering|suffering]] from. Until lately at least he refused to realise
 
 that many of his modern habits had been bad habits, the worst of them
 
@@ -12849,7 +12849,7 @@ being contentment. For all the real virtue in contentment evaporates,
 
 when the contentment is only satisfaction and the satisfaction is only
 
-self-satisfaction. Now it is perfectly true that America and not England
+[[Self|self]]-satisfaction. Now it is perfectly true that [[America]] and not England
 
 has seen the most obvious and outrageous official denials of liberty.
 
@@ -12863,17 +12863,17 @@ character would ever be surprised if the weapons of Chollop began to be
 
 used in that most lawful lawlessness. It is perfectly true that the
 
-libation of freedom must sometimes be drunk in blood, and never more
+libation of [[Freedom|freedom]] must sometimes be drunk in [[Blood|blood]], and never more
 
 (one would think) than when mad millionaires forbid it to be drunk in
 
-beer. But America, as compared with England, is the country where one
+beer. But [[America]], as compared with England, is the country where one
 
 can still fancy men obtaining the libation of beer by the libation of
 
-blood. Vulgar plutocracy is almost omnipotent in both countries; but I
+[[Blood|blood]]. Vulgar plutocracy is almost omnipotent in both countries; but I
 
-think there is now more kick of reaction against it in America than in
+think there is now more kick of reaction against it in [[America]] than in
 
 England. The Americans may go mad when they make laws; but they recover
 
@@ -12881,33 +12881,33 @@ their reason when they disobey them. I wish I could believe that there
 
 was as much of that destructive repentance in England; as indeed there
 
-certainly was when Cobbett wrote. It faded gradually like a dying fire
+certainly was when Cobbett wrote. It faded gradually like a dying [[Fire|fire]]
 
 through the Victorian era; and it was one of the very few realities that
 
 Dickens did not understand. But any one who does understand it will know
 
-that the days of Cobbett saw the last lost fight for English democracy;
+that the days of Cobbett saw the last lost fight for English [[democracy]];
 
-and that if he had stood at that turning of the historic road, he would
+and that if he had stood at that turning of the historic [[Road|road]], he would
 
 have wished a better fate to the frame-breakers and the fury against the
 
 first machinery, and luck to the Luddite fires.
 
-Anyhow, what is wanted is a new Martin Chuzzlewit, told by a wiser Mark
+Anyhow, what is wanted is a new [[Martin Chuzzlewit]], told by a wiser Mark
 
 Tapley. It is typical of something sombre and occasionally stale in the
 
 mood of Dickens when he wrote that book, that the comic servant is not
 
-really very comic. Mark Tapley is a very thin shadow of Sam Weller. But
+really very comic. [[Mark Tapley]] is a very thin [[Shadow|shadow]] of [[Sam Weller]]. But
 
 if Dickens had written it in a happier mood, there might have been a
 
-truer meaning in Mark Tapley's happiness. For it is true that this
+truer meaning in [[Mark Tapley]]'s happiness. For it is true that this
 
-illogical good humour amid unreason and disorder is one of the real
+illogical good [[Humour|humour]] amid unreason and disorder is one of the real
 
 virtues of the English people. It is the real advantage they have in
 
@@ -12917,25 +12917,25 @@ reluctantly induced to call an Empire. That receptive ridicule remains
 
 with them as a secret pleasure when they are colonists--or convicts.
 
-Dickens might have written another version of the great romance, and one
+Dickens might have written another version of the great [[Romance|romance]], and one
 
-in which America was really seen gaily by Mark instead of gloomily by
+in which [[America]] was really seen gaily by Mark instead of gloomily by
 
-Martin. Mark Tapley might really have made the best of America. Then
+Martin. [[Mark Tapley]] might really have made the best of [[America]]. Then
 
-America would have lived and danced before us like Pickwick's England, a
+[[America]] would have lived and danced before us like [[Pickwick]]'s England, a
 
 fairyland of happy lunatics and lovable monsters, and we might still
 
 have sympathised as much with the rhetoric of Lafayette Kettle as with
 
-the rhetoric of Wilkins Micawber, or with the violence of Chollop as
+the rhetoric of [[Wilkins Micawber]], or with the violence of Chollop as
 
-with the violence of Boythorn. That new Martin Chuzzlewit will never be
+with the violence of Boythorn. That new [[Martin Chuzzlewit]] will never be
 
 written; and the loss of it is more tragic than the loss of _Edwin
 
-Drood_. But every man who has travelled in America has seen glimpses and
+Drood_. But every man who has travelled in [[America]] has seen glimpses and
 
 episodes in that untold tale; and far away on the Red-Indian frontiers
 
@@ -12953,9 +12953,9 @@ _The Spirit of America_
 
 I suggest that diplomatists of the internationalist school should spend
 
-some of their money on staging farces and comedies of cross-purposes,
+some of their money on staging farces and comedies of [[Cross|cross]]-purposes,
 
-founded on the curious and prevalent idea that England and America have
+founded on the curious and prevalent idea that England and [[America]] have
 
 the same language. I know, of course, that we both inherit the glorious
 
@@ -12979,7 +12979,7 @@ already given the example of calling a person 'a regular guy,' which in
 
 the States is a graceful expression of respect and esteem, but which on
 
-the stage, properly handled, might surely lead the way towards a divorce
+the stage, properly handled, might surely lead the way towards a [[divorce]]
 
 or duel or something lively. Sometimes coincidence merely clinches a
 
@@ -13033,7 +13033,7 @@ was nothing the matter with him beyond a mistaken choice of the
 
 theatrical profession. Surely there are here the elements of a play, not
 
-to mention a cinema play. Surely a New England village maiden might find
+to mention a cinema play. Surely a [[New England]] village maiden might find
 
 herself among the wigwams in the power of the formidable and fiendish
 
@@ -13071,11 +13071,11 @@ stage, anyhow, the American girl may say, referring to her friend's
 
 fiancé, with a cynical wave of the cigarette, 'I suppose he's bound to
 
-come and see you.' And at this the blue blood of the Vere de Veres will
+come and see you.' And at this the blue [[Blood|blood]] of the Vere de Veres will
 
 boil over; the English lady will be deeply wounded and insulted at the
 
-suggestion that her lover only comes to see her because he is forced to
+suggestion that her [[Lover|lover]] only comes to see her because he is forced to
 
 do so. A staggering stage quarrel will then ensue, and things will go
 
@@ -13097,7 +13097,7 @@ surmount any obstacle to do it. The two young ladies will then embrace
 
 as the curtain falls.
 
-Now when I was lecturing in America I was often told, in a radiant and
+Now when I was lecturing in [[America]] I was often told, in a radiant and
 
 congratulatory manner, that such and such a person was bound to come and
 
@@ -13111,7 +13111,7 @@ understand certain American ideas and instincts that lie behind this
 
 American idiom. For as I have urged before, and shall often urge again,
 
-the road to international friendship is through really understanding
+the [[Road|road]] to international [[Friendship|friendship]] is through really understanding
 
 jokes. It is in a sense through taking jokes seriously. It is quite
 
@@ -13129,13 +13129,13 @@ relations depend on our getting beyond the fact of difference to the
 
 things wherein it differs. A good symbolical figure for all this may be
 
-found among the people who say, perhaps with a self-revealing
+found among the people who say, perhaps with a [[Self|self]]-revealing
 
 simplicity, that they are bound to go to a lecture.
 
 If I were asked for a single symbolic figure summing up the whole of
 
-what seems eccentric and interesting about America to an Englishman, I
+what seems eccentric and interesting about [[America]] to an Englishman, I
 
 should be satisfied to select that one lady who complained of Mrs.
 
@@ -13153,7 +13153,7 @@ money rather than hoards it; and when we convict them of vulgarity we
 
 acquit them of avarice. Where she was typically American, summing up a
 
-truth individual and indescribable in any other way, is that she used
+[[Truth|truth]] individual and indescribable in any other way, is that she used
 
 these words: 'I've risen from a sick-bed to come and hear her, and I
 
@@ -13169,21 +13169,21 @@ the admiration. The amusement is in the vision of a tragic sacrifice for
 
 what is avowedly a rather trivial object. Mrs. Asquith is a candid lady
 
-of considerable humour; and I feel sure she does not regard the
+of considerable [[Humour|humour]]; and I feel sure she does not regard the
 
 experience of hearing her read her diary as an ecstasy for which the
 
-sick should thus suffer martyrdom. She also is English; and had no other
+sick should thus suffer [[Martyrdom|martyrdom]]. She also is English; and had no other
 
 claim but to amuse Americans and possibly to be amused by them. This
 
 being so, it is rather as if somebody said, 'I have risked my life in
 
-fire and pestilence to find my way to the music hall,' or, 'I have
+[[Fire|fire]] and pestilence to find my way to the music hall,' or, 'I have
 
-fasted forty days in the wilderness sustained by the hope of seeing
+fasted forty days in the wilderness sustained by the [[Hope|hope]] of seeing
 
-Totty Toddles do her new dance.' And there is something rather more
+Totty Toddles do her new [[Dance|dance]].' And there is something rather more
 
 subtle involved here. There is something in an Englishman which would
 
@@ -13203,7 +13203,7 @@ there is something in it distinct from a mere embarrassment at admitting
 
 enthusiasm. He might admit the enthusiasm if the object seemed to
 
-justify it; he might perfectly well be serious about a serious thing.
+justify it; he might perfectly [[Well|well]] be serious about a serious thing.
 
 But he cannot understand a person being proud of serious sacrifices for
 
@@ -13247,17 +13247,17 @@ of about half its size on the banks of the Marne. But that is not what
 
 an American means by energy; that sort of Prussian energy is only
 
-monotony without repose. American energy is not a soulless machine; for
+monotony without repose. American energy is not a soulless [[Machine|machine]]; for
 
-it is the whole point that he puts his soul into it. It is a very small
+it is the whole point that he puts his [[Soul|soul]] into it. It is a very small
 
 box for so big a thing; but it is not an empty box. But the point is
 
 that he is not only proud of his energy, he is proud of his excitement.
 
-He is not ashamed of his emotion, of the fire or even the tear in his
+He is not ashamed of his emotion, of the [[Fire|fire]] or even the tear in his
 
-manly eye, when he tells you that the great wheel of his machine breaks
+manly eye, when he tells you that the great [[Wheel|wheel]] of his [[Machine|machine]] breaks
 
 four billion butterflies an hour.
 
@@ -13267,7 +13267,7 @@ sportive. It is because it is not very sportive that we sometimes say it
 
 is not very sporting. It has the vices of a religion. It has all the
 
-paradox of original sin in the service of aboriginal faith. It is
+[[Paradox|paradox]] of [[Original Sin|original sin]] in the service of aboriginal [[Faith|faith]]. It is
 
 sometimes untruthful because it is sincere. It is sometimes treacherous
 
@@ -13279,21 +13279,21 @@ Highland feud. We may say that the vassal readily committed treason; but
 
 it is equally true that he readily endured torture. So does the American
 
-athlete endure torture. Not only the self-sacrifice but the solemnity of
+athlete endure torture. Not only the [[Self-Sacrifice|self-sacrifice]] but the solemnity of
 
 the American athlete is like that of the American Indian. The athletes
 
 in the States have the attitude of the athletes among the Spartans, the
 
-great historical nation without a sense of humour. They suffer an
+great historical nation without a sense of [[Humour|humour]]. They suffer an
 
-ascetic régime not to be matched in any monasticism and hardly in any
+[[ascetic]] régime not to be matched in any monasticism and hardly in any
 
 militarism. If any tradition of these things remains in a saner age,
 
 they will probably be remembered as a mysterious religious order of
 
-fakirs or dancing dervishes, who shaved their heads and fasted in honour
+fakirs or dancing dervishes, who shaved their heads and fasted in [[Honour|honour]]
 
 of Hercules or Castor and Pollux. And that is really the spiritual
 
@@ -13315,7 +13315,7 @@ that Americans are so stupid as not to know that cocoa-nuts are only
 
 cocoa-nuts and paper boats only made of paper. Americans are, on an
 
-average, rather more intelligent than Englishmen; and they are well
+average, rather more intelligent than Englishmen; and they are [[Well|well]]
 
 aware that Hercules is a myth and that Mrs. Asquith is something of a
 
@@ -13329,15 +13329,15 @@ people for being excited. An American so struggling for some
 
 disproportionate trifle (like one of my lectures) really feels in a
 
-mystical way that he is right, because it is his whole morality to be
+mystical way that he is right, because it is his whole [[morality]] to be
 
 keen. So long as he wants something very much, whatever it is, he feels
 
-he has his conscience behind him, and the common sentiment of society
+he has his [[Conscience|conscience]] behind him, and the common sentiment of society
 
 behind him, and God and the whole universe behind him. Wedged on one leg
 
-in a hot crowd at a trivial lecture, he has self-respect; his dignity
+in a hot crowd at a trivial lecture, he has [[Self|self]]-respect; his dignity
 
 is at rest. That is what he means when he says he is bound to come to
 
@@ -13351,7 +13351,7 @@ lark that he should think it a lark; that he should laugh at it even
 
 when he does it. Being English myself, I like it; but being English
 
-myself, I know it is connected with weaknesses as well as merits. In its
+myself, I know it is connected with weaknesses as [[Well|well]] as merits. In its
 
 irony there is condescension and therefore embarrassment. This patronage
 
@@ -13361,9 +13361,9 @@ tradition of society. The larks are a variant of laziness because of
 
 leisure; and the leisure is a variant of the security and even supremacy
 
-of the gentleman. When an undergraduate at Oxford smashes half a hundred
+of the gentleman. When an undergraduate at [[Oxford]] smashes half a hundred
 
-windows he is well aware that the incident is merely a trifle. He can be
+windows he is [[Well|well]] aware that the incident is merely a trifle. He can be
 
 trusted to explain to his parents and guardians that it was merely a
 
@@ -13383,11 +13383,11 @@ entirely commonplace; though the owners of the windows may possibly not
 
 think so. This rather indescribable element runs through a hundred
 
-English things, as in the love of bathos shown even in the sound of
+English things, as in the [[Love|love]] of bathos shown even in the sound of
 
-proper names; so that even the yearning lover in a lyric yearns for
+proper names; so that even the yearning [[Lover|lover]] in a [[Lyric|lyric]] yearns for
 
-somebody named Sally rather than Salome, and for a place called Wapping
+somebody named Sally rather than [[Salome]], and for a place called Wapping
 
 rather than a place called Westermain. Even in the relapse into
 
@@ -13415,9 +13415,9 @@ relaxation but a laxity. Finally, this is shown in the fact that he only
 
 smashes windows when he is in the mood to smash windows; when some
 
-fortunate conjunction of stars and all the tints and nuances of nature
+fortunate conjunction of [[Stars|stars]] and all the tints and nuances of [[Nature|nature]]
 
-whisper to him that it would be well to smash windows. But the American
+whisper to him that it would be [[Well|well]] to smash windows. But the American
 
 is always ready, at any moment, to waste his energies on the wilder and
 
@@ -13429,19 +13429,19 @@ connection, much of the English mystery would be clear to Americans if
 
 they understood the word 'mood.' Englishmen are very moody, especially
 
-when they smash windows. But I doubt if many Americans understand
+when they smash windows. But I [[Doubt|doubt]] if many Americans understand
 
 exactly what we mean by the mood; especially the passive mood.
 
 It is only by trying to get some notion of all this that an Englishman
 
-can enjoy the final crown and fruit of all international friendship;
+can enjoy the final [[Crown|crown]] and fruit of all international [[Friendship|friendship]];
 
 which is really liking an American to be American. If we only think that
 
 parts of him are excellent because parts of him are English, it would be
 
-far more sensible to stop at home and possibly enjoy the society of a
+far more sensible to stop at [[Home|home]] and possibly enjoy the society of a
 
 whole complete Englishman. But anybody who does understand this can take
 
@@ -13457,13 +13457,13 @@ the American uses his great practical powers upon very small
 
 provocation; but he can also see that there is a kind of sense of
 
-honour, like that of a duellist, in his readiness to be provoked.
+[[Honour|honour]], like that of a duellist, in his readiness to be provoked.
 
 Indeed, there is some parallel between the American man of action,
 
 however vulgar his aims, and the old feudal idea of the gentleman with a
 
-sword at his side. The gentleman may have been proud of being strong or
+[[Sword|sword]] at his side. The gentleman may have been proud of being strong or
 
 sturdy; he may too often have been proud of being thick-headed; but he
 
@@ -13483,7 +13483,7 @@ conception; which may be called the virtue of excitability. And it is
 
 really this, and not any rubbish about iron will-power and masterful
 
-mentality, that redeems with romance their clockwork cosmos and its
+mentality, that redeems with [[Romance|romance]] their clockwork cosmos and its
 
 industrial ideals. Being a live wire does not mean that the nerves
 
@@ -13491,7 +13491,7 @@ should be like wires; but rather that the very wires should be like
 
 nerves.
 
-Another approximation to the truth would be to say that an American is
+Another approximation to the [[Truth|truth]] would be to say that an American is
 
 really not ashamed of curiosity. It is not so simple as it looks. Men
 
@@ -13501,11 +13501,11 @@ just as they will carry off drunkenness or bankruptcy. But very few
 
 people are really proud of lying on a door-step, and very few people are
 
-really proud of longing to look through a key-hole. I do not speak of
+really proud of [[Longing|longing]] to look through a key-hole. I do not speak of
 
-looking through it, which involves questions of honour and self-control;
+looking through it, which involves questions of [[Honour|honour]] and [[Self|self]]-control;
 
-but few people feel that even the desire is dignified. Now I fancy the
+but few people feel that even the [[Desire|desire]] is dignified. Now I fancy the
 
 American, at least by comparison with the Englishman, does feel that his
 
@@ -13513,9 +13513,9 @@ curiosity is consistent with his dignity, because dignity is consistent
 
 with vivacity. He feels it is not merely the curiosity of Paul Pry, but
 
-the curiosity of Christopher Columbus. He is not a spy but an explorer;
+the curiosity of Christopher [[Columbus]]. He is not a spy but an explorer;
 
-and he feels his greatness rather grow with his refusal to turn back, as
+and he feels his [[Greatness|greatness]] rather grow with his refusal to turn back, as
 
 a traveller might feel taller and taller as he neared the source of the
 
@@ -13525,13 +13525,13 @@ about discoveries in dark continents; but he does not often have it
 
 about discoveries in daily life. The one type does believe in the
 
-indignity and the other in the dignity of the detective. It has nothing
+indignity and the other in the dignity of the [[Detective|detective]]. It has nothing
 
 to do with ethics in the merely external sense. It involves no
 
 particular comparison in practical morals and manners. It is something
 
-in the whole poise and posture of the self; of the way a man carries
+in the whole poise and posture of the [[Self|self]]; of the way a man carries
 
 himself. For men are not only affected by what they are; but still more,
 
@@ -13547,13 +13547,13 @@ use them, even when they stand for something more subtle. This point
 
 about curiosity is not the conventional complaint against the American
 
-interviewer. It is not the ordinary joke against the American child. And
+interviewer. It is not the ordinary joke against the American [[Child|child]]. And
 
 in the same way I feel the danger of it being identified with the cant
 
 about 'a young nation' if I say that it has some of the attractions, not
 
-of American childhood, but of real childhood. There is some truth in the
+of American [[Childhood|childhood]], but of real [[Childhood|childhood]]. There is some [[Truth|truth]] in the
 
 tradition that the children of wealthy Americans tend to be too
 
@@ -13561,7 +13561,7 @@ precocious and luxurious. But there is a sense in which we can really
 
 say that if the children are like adults, the adults are like children.
 
-And that sense is in the very best sense of childhood. It is something
+And that sense is in the very best sense of [[Childhood|childhood]]. It is something
 
 which the modern world does not understand. It is something that modern
 
@@ -13575,23 +13575,23 @@ which he now most commonly quotes is, 'The kingdom of heaven is within
 
 you.' That text has been the stay and support of more Pharisees and
 
-prigs and self-righteous spiritual bullies than all the dogmas in
+prigs and [[Self|self]]-righteous spiritual bullies than all the dogmas in
 
-creation; it has served to identify self-satisfaction with the peace
+creation; it has served to identify [[Self|self]]-satisfaction with the peace
 
 that passes all understanding. And the text to be quoted in answer to it
 
 is that which declares that no man can receive the kingdom except as a
 
-little child. What we are to have inside is the childlike spirit; but
+little [[Child|child]]. What we are to have inside is the childlike spirit; but
 
 the childlike spirit is not entirely concerned about what is inside. It
 
 is the first mark of possessing it that one is interested in what is
 
-outside. The most childlike thing about a child is his curiosity and his
+outside. The most childlike thing about a [[Child|child]] is his curiosity and his
 
-appetite and his power of wonder at the world. We might almost say that
+appetite and his power of [[Wonder|wonder]] at the world. We might almost say that
 
 the whole advantage of having the kingdom within is that we look for it
 
@@ -13619,21 +13619,21 @@ generalises. This is the fallacy in the many modern attempts at a
 
 creedless creed, at something variously described as essential
 
-Christianity or undenominational religion or a world faith to embrace
+[[Christianity]] or undenominational religion or a world [[Faith|faith]] to embrace
 
 all the faiths in the world. It is that every sectarian is more
 
 sectarian in his unsectarianism than he is in his sect. The emancipation
 
-of a Baptist is a very Baptist emancipation. The charity of a Buddhist
+of a Baptist is a very Baptist emancipation. The [[Charity|charity]] of a Buddhist
 
-is a very Buddhist charity, and very different from Christian charity.
+is a very Buddhist [[Charity|charity]], and very different from Christian [[Charity|charity]].
 
-When a philosophy embraces everything it generally squeezes everything,
+When a [[philosophy]] embraces everything it generally squeezes everything,
 
 and squeezes it out of shape; when it digests it necessarily
 
-assimilates. When a theosophist absorbs Christianity it is rather as a
+assimilates. When a theosophist absorbs [[Christianity]] it is rather as a
 
 cannibal absorbs Christian missionaries. In this sense it is even
 
@@ -13641,7 +13641,7 @@ possible for the larger thing to be swallowed by the smaller; and for
 
 men to move about not only in a Clapham sect but in a Clapham cosmos
 
-under Clapham moon and stars.
+under Clapham [[Moon|moon]] and [[Stars|stars]].
 
 But if this danger exists for all men, it exists especially for the
 
@@ -13693,7 +13693,7 @@ sympathies than Herbert Spencer for the same reason; that Huxley was a
 
 fighter. They both fought in many ways for the limitations of their own
 
-rationalistic epoch; but they were nearer the truth than the men who
+rationalistic epoch; but they were nearer the [[Truth|truth]] than the men who
 
 simply assumed those limitations as rational. The war of the
 
@@ -13703,9 +13703,9 @@ And in the same way the Englishman never cuts a less convincing figure
 
 before other nations than when he tries to arbitrate between them.
 
-I have by this time heard a great deal about the necessity of saving
+I have by this [[Time|time]] heard a great deal about the necessity of saving
 
-Anglo-American friendship, a necessity which I myself feel rather too
+Anglo-American [[Friendship|friendship]], a necessity which I myself feel rather too
 
 strongly to be satisfied with the ambassadorial and editorial style of
 
@@ -13717,7 +13717,7 @@ Anglo-Saxon. I am more and more convinced that the way for the
 
 Englishman to do it is to be English; but to know that he is English and
 
-not everything else as well. Thus the only sincere answer to Irish
+not everything else as [[Well|well]]. Thus the only sincere answer to Irish
 
 nationalism is English nationalism, which is a reality; and not English
 
@@ -13741,7 +13741,7 @@ ever in the attitude of a ruthless conqueror; not because he has
 
 conquered such people, but because he has not conquered them; but he is
 
-always trying to conquer them with a heroism worthy of a better cause.
+always trying to conquer them with a [[Heroism|heroism]] worthy of a better cause.
 
 For the really native and vigorous part of what is unfortunately called
 
@@ -13765,13 +13765,13 @@ different from him, so did he remain different from them. The adventurer
 
 saw a thousand strange things and remained a stranger. He was the
 
-Robinson Crusoe on a hundred desert islands; and on each he remained as
+Robinson Crusoe on a hundred [[Desert|desert]] islands; and on each he remained as
 
 insular as on his own island.
 
 What is wanted for the cause of England to-day is an Englishman with
 
-enough imagination to love his country from the outside as well as the
+enough [[Imagination|imagination]] to [[Love|love]] his country from the outside as [[Well|well]] as the
 
 inside. That is, we need somebody who will do for the English what has
 
@@ -13789,7 +13789,7 @@ but why we do not want her to die. For this purpose the official and
 
 conventional compliments or claims can never get any farther than
 
-pompous abstractions about Law and Justice and Truth; the ideals which
+pompous abstractions about Law and Justice and [[Truth]]; the ideals which
 
 England accepts as every civilised state accepts them, and violates as
 
@@ -13797,9 +13797,9 @@ every civilised state violates them. That is not the way in which the
 
 picture of any people has ever been painted on the sympathetic
 
-imagination of the world. Enthusiasts for old Japan did not tell us that
+[[Imagination|imagination]] of the world. Enthusiasts for old Japan did not tell us that
 
-the Japs recognised the existence of abstract morality; but that they
+the Japs recognised the existence of abstract [[morality]]; but that they
 
 lived in paper houses or wrote letters with paint-brushes. Men who
 
@@ -13809,11 +13809,11 @@ they are monotheists or moralists; they filled our romances with the
 
 rush of Arab steeds or the colours of strange tents or carpets. What we
 
-want is somebody who will do for the Englishman with his front garden
+want is somebody who will do for the Englishman with his front [[Garden|garden]]
 
-what was done for the Jap and his paper house; who shall understand the
+what was done for the Jap and his paper [[house]]; who shall understand the
 
-Englishman with his dog as well as the Arab with his horse. In a word,
+Englishman with his dog as [[Well|well]] as the Arab with his [[Horse|horse]]. In a word,
 
 what nobody has really tried to do is the one thing that really wants
 
@@ -13821,13 +13821,13 @@ doing. It is to make England attractive as a nationality, and even as a
 
 small nationality.
 
-For it is a wild folly to suppose that nations will love each other
+For it is a wild folly to suppose that nations will [[Love|love]] each other
 
 because they are alike. They will never really do that unless they are
 
-really alike; and then they will not be nations. Nations can love each
+really alike; and then they will not be nations. Nations can [[Love|love]] each
 
-other as men and women love each other, not because they are alike but
+other as men and women [[Love|love]] each other, not because they are alike but
 
 because they are different. It can easily be shown, I fancy, that in
 
@@ -13837,9 +13837,9 @@ foreign people, it has always been accompanied with a particular and
 
 positive interest in their most foreign customs and their most foreign
 
-externals. The man who made a romance of the Scotch High-lander made a
+externals. The man who made a [[Romance|romance]] of the Scotch High-lander made a
 
-romance of his kilt and even of his dirk; the friend of the Red Indians
+[[Romance|romance]] of his kilt and even of his dirk; the friend of the Red Indians
 
 was interested in picture writing and had some tendency to be
 
@@ -13847,7 +13847,7 @@ interested in scalping. To take a more serious example, such nations as
 
 Serbia had been largely commended to international consideration by the
 
-study of Serbian epics, or Serbian songs. The epoch of negro
+study of Serbian epics, or Serbian [[songs]]. The epoch of negro
 
 emancipation was also the epoch of negro melodies. Those who wept over
 
@@ -13879,7 +13879,7 @@ private life. In that sense there is no public life. In that sense there
 
 is no public opinion. There have never been those prairie fires of
 
-public opinion in England which often sweep over America. At any rate,
+public opinion in England which often sweep over [[America]]. At any rate,
 
 there have never been any such popular revolutions since the popular
 
@@ -13897,7 +13897,7 @@ mysterious people, to explain or suggest why they like tall hedges and
 
 heavy breakfasts and crooked roads and small gardens with large fences,
 
-and why they alone among Christians have kept quite consistently the
+and why they [[Alone|alone]] among Christians have kept quite consistently the
 
 great Christian glory of the open fireplace, here would be a strange and
 
@@ -13905,7 +13905,7 @@ stimulating opportunity for any of the artists in words, who study the
 
 souls of strange peoples. That would be the true way to create a
 
-friendship between England and America, or between England and anything
+[[Friendship|friendship]] between England and [[America]], or between England and anything
 
 else; yes, even between England and Ireland. For this justice at least
 
@@ -13917,9 +13917,9 @@ I have already noted the commonplace that in order to teach
 
 internationalism we must talk nationalism. We must make the nations as
 
-nations less odious or mysterious to each other. We do not make men love
+nations less odious or mysterious to each other. We do not make men [[Love|love]]
 
-each other by describing a monster with a million arms and legs, but by
+each other by describing a [[Monster|monster]] with a million arms and legs, but by
 
 describing the men as men, with their separate and even solitary
 
@@ -13927,7 +13927,7 @@ emotions. As this has a particular application to the emotions of the
 
 Englishman, I will return to the topic once more. Now Americans have a
 
-power that is the soul and success of democracy, the power of
+power that is the [[Soul|soul]] and [[success]] of [[democracy]], the power of
 
 spontaneous social organisation. Their high spirits, their humane ideals
 
@@ -13939,13 +13939,13 @@ of all the leagues and guilds and college clubs will deny that Whitman
 
 was national when he said he would build states and cities out of the
 
-love of comrades. When all this communal enthusiasm collides with the
+[[Love|love]] of comrades. When all this communal enthusiasm collides with the
 
 Englishman, it too often seems literally to leave him cold. They say he
 
 is reserved; they possibly think he is rude. And the Englishman, having
 
-been taught his own history all wrong, is only too likely to take the
+been taught his own [[history]] all wrong, is only too likely to take the
 
 criticism as a compliment. He admits that he is reserved because he is
 
@@ -13979,25 +13979,25 @@ all the more of a typical Englishman for being a man of moods. But it
 
 was because of this, almost entirely, that he had a misunderstanding
 
-with America.
+with [[America]].
 
-In America there are no moods, or there is only one mood. It is the same
+In [[America]] there are no moods, or there is only one mood. It is the same
 
 whether it is called hustle or uplift; whether we regard it as the
 
-heroic love of comrades or the last hysteria of the herd instinct. It
+heroic [[Love|love]] of comrades or the last hysteria of the herd instinct. It
 
-has been said of the typical English aristocrats of the Government
+has been said of the typical English aristocrats of the [[government|Government]]
 
 offices that they resemble certain ornamental fountains and play from
 
 ten till four; and it is true that an Englishman, even an English
 
-aristocrat, is not always inclined to play any more than to work. But
+[[aristocrat]], is not always inclined to play any more than to work. But
 
 American sociability is not like the Trafalgar fountains. It is like
 
-Niagara. It never stops, under the silent stars or the rolling storms.
+Niagara. It never stops, under the silent [[Stars|stars]] or the [[rolling]] storms.
 
 There seems always to be the same human heat and pressure behind it; it
 
@@ -14021,15 +14021,15 @@ strangers each announced by name and demanding formal salutation. There
 
 are several things to be noticed about this incident. To begin with, it
 
-did not happen to Martin Chuzzlewit; but it did happen to Charles
+did not happen to [[Martin Chuzzlewit]]; but it did happen to Charles
 
 Dickens. Dickens is incorporating almost without alteration a passage
 
 from a diary in the middle of a story; as he did when he included the
 
-admirable account of the prison petition of John Dickens as the prison
+admirable account of the [[Prison|prison]] petition of John Dickens as the [[Prison|prison]]
 
-petition of Wilkins Micawber. There is no particular reason why even the
+petition of [[Wilkins Micawber]]. There is no particular reason why even the
 
 gregarious Americans should so throng the portals of a perfectly obscure
 
@@ -14037,11 +14037,11 @@ steerage passenger like young Chuzzlewit. There was every reason why
 
 they should throng the portals of the author of _Pickwick_ and _Oliver
 
-Twist_. And no doubt they did. If I may be permitted the aleatory image,
+Twist_. And no [[Doubt|doubt]] they did. If I may be permitted the aleatory image,
 
 you bet they did. Similar troops of sociable human beings have visited
 
-much more insignificant English travellers in America, with some of whom
+much more insignificant English travellers in [[America]], with some of whom
 
 I am myself acquainted. I myself have the luck to be a little more
 
@@ -14063,7 +14063,7 @@ something very national in the very name of the old play of _Every Man
 
 in His Humour_. But the play more often acted in real life is 'Every Man
 
-Out of His Humour.' It is true, as Matthew Arnold said, that an
+Out of His [[Humour]].' It is true, as Matthew Arnold said, that an
 
 Englishman wants to do as he likes; but it is not always true even that
 
@@ -14073,15 +14073,15 @@ friendly. Or he can be friendly and yet not feel hospitable. Or he can
 
 feel hospitable and yet not welcome those whom he really loves. He can
 
-think, almost with tears of tenderness, about people at a distance who
+think, almost with [[Tears|tears]] of tenderness, about people at a distance who
 
 would be bores if they came in at the door.
 
 American sociability sweeps away any such subtlety. It cannot be
 
-expected to understand the paradox or perversity of the Englishman, who
+expected to understand the [[Paradox|paradox]] or perversity of the Englishman, who
 
-thus can feel friendly and avoid friends. That is the truth in the
+thus can feel friendly and avoid friends. That is the [[Truth|truth]] in the
 
 suggestion that Dickens was sentimental. It means that he probably felt
 
@@ -14093,9 +14093,9 @@ between the two peoples, I have tried to balance my words without the
 
 irrelevant bias of praise and blame. Both characteristics always cut
 
-both ways. On one side this comradeship makes possible a certain
+both ways. On one side this [[Comradeship|comradeship]] makes possible a certain
 
-communal courage, a democratic derision of rich men in high places,
+communal [[Courage|courage]], a democratic derision of rich men in high places,
 
 that is not easy in our smaller and more stratified society. On the
 
@@ -14103,39 +14103,39 @@ other hand the Englishman has certainly more liberty, if less equality
 
 and fraternity. But the richest compensation of the Englishman is not
 
-even in the word 'liberty,' but rather in the word 'poetry.' That humour
+even in the word 'liberty,' but rather in the word 'poetry.' That [[Humour|humour]]
 
 of escape or seclusion, that genial isolation, that healing of wounded
 
-friendship by what Christian Science would call absent treatment, that
+[[Friendship|friendship]] by what Christian Science would call absent treatment, that
 
 is the best atmosphere of all for the creation of great poetry; and out
 
-of that came 'bare ruined choirs where late the sweet birds sang' and
+of that came 'bare ruined choirs where late the sweet [[Birds|birds]] sang' and
 
-'Thou wast not made for death, immortal bird.' In this sense it is
+'Thou wast not made for [[Death|death]], immortal bird.' In this sense it is
 
 indeed true that poetry is emotion remembered in tranquillity; which may
 
-be extended to mean affection remembered in loneliness. There is in it a
+be extended to mean affection remembered in [[Loneliness|loneliness]]. There is in it a
 
 spirit not only of detachment but even of distance; a spirit which does
 
-desire, as in the old English rhyme, to be not only over the hills but
+[[Desire|desire]], as in the old English rhyme, to be not only over the hills but
 
 also far away. In other words, in so far as it is true that the
 
-Englishman is an exception to the great truth of Aristotle, it is
+Englishman is an exception to the great [[Truth|truth]] of Aristotle, it is
 
 because he is not so near to Aristotle as he is to Homer. In so far as
 
-he is not by nature a political animal, it is because he is a poetical
+he is not by [[Nature|nature]] a political animal, it is because he is a poetical
 
-animal. We see it in his relations to the other animals; his quaint and
+animal. We see it in his relations to the other [[Animals|animals]]; his quaint and
 
-almost illogical love of dogs and horses and dependants whose political
+almost illogical [[Love|love]] of [[dogs]] and horses and dependants whose political
 
-rights cannot possibly be defined in logic. Many forms of hunting or
+rights cannot possibly be defined in [[logic]]. Many forms of hunting or
 
 fishing are but an excuse for the same thing which the shameless
 
@@ -14143,13 +14143,13 @@ literary man does without any excuse. Sport is speechless poetry. It
 
 would be easy for a foreigner, by taking a few liberties with the facts,
 
-to make a satire about the sort of silent Shelley who decides ultimately
+to make a [[Satire|satire]] about the sort of silent Shelley who decides ultimately
 
 to shoot the skylark. It would be easy to answer these poetic
 
 suggestions by saying that he himself might be responsible for ruining
 
-the choirs where late the sweet birds sang, or that the immortal bird
+the choirs where late the sweet [[Birds|birds]] sang, or that the immortal bird
 
 was likely to be mortal when he was out with his gun. But these
 
@@ -14157,15 +14157,15 @@ international satires are never just; and the real relations of an
 
 Englishman and an English bird are far more delicate. It would be
 
-equally easy and equally unjust to suggest a similar satire against
+equally easy and equally unjust to suggest a similar [[Satire|satire]] against
 
-American democracy; and represent Americans merely as birds of a feather
+American [[democracy]]; and represent Americans merely as [[Birds|birds]] of a feather
 
 who can do nothing but flock together. But this would leave out the fact
 
-that at least it is not the white feather; that democracy is capable of
+that at least it is not the white feather; that [[democracy]] is capable of
 
-defiance and of death for an idea. Touching the souls of great nations,
+defiance and of [[Death|death]] for an idea. Touching the souls of great nations,
 
 these criticisms are generally false because they are critical.
 
@@ -14173,13 +14173,13 @@ But when we are quite sure that we rejoice in a nation's strength, then
 
 and not before we are justified in judging its weakness. I am quite sure
 
-that I rejoice in any democratic success without _arrière pensée_; and
+that I rejoice in any democratic [[success]] without _arrière pensée_; and
 
 nobody who knows me will credit me with a covert sneer at civic
 
 equality. And this being granted, I do think there is a danger in the
 
-gregariousness of American society. The danger of democracy is not
+gregariousness of American society. The danger of [[democracy]] is not
 
 anarchy; on the contrary, it is monotony. And it is touching this that
 
@@ -14193,17 +14193,17 @@ it was the females who were individual and criticised the conventions of
 
 the tribe. If the females become conventional also, there is a danger of
 
-individuality being lost. This indeed is not peculiar to America; it is
+individuality being lost. This indeed is not peculiar to [[America]]; it is
 
 common to the whole modern industrial world, and to everything which
 
 substitutes the impersonal atmosphere of the State for the personal
 
-atmosphere of the home. But it is emphasised in America by the curious
+atmosphere of the [[Home|home]]. But it is emphasised in [[America]] by the curious
 
 contradiction that Americans do in theory value and even venerate the
 
-individual. But individualism is still the foe of individuality. Where
+individual. But [[Individualism|individualism]] is still the foe of individuality. Where
 
 men are trying to compete with each other they are trying to copy each
 
@@ -14221,9 +14221,9 @@ hotels and none of the American houses are sometimes driven to the
 
 excess of saying that the Americans have no private life. But even if
 
-the exaggeration has a hint of truth, we must balance it with the
+the exaggeration has a hint of [[Truth|truth]], we must balance it with the
 
-corresponding truth; that the English have no public life. They on their
+corresponding [[Truth|truth]]; that the English have no public life. They on their
 
 side have still to learn the meaning of the public thing, the republic;
 
@@ -14235,7 +14235,7 @@ The English are patriotic; but patriotism is the unconscious form of
 
 nationalism. It is being national without understanding the meaning of a
 
-nation. The Americans are on the whole too self-conscious, kept moving
+nation. The Americans are on the whole too [[Self|self]]-conscious, kept moving
 
 too much in the pace of public life, with all its temptations to
 
@@ -14261,7 +14261,7 @@ is why I have suggested a note of nationalism rather than patriotism for
 
 the English; the power of seeing their nation as a nation and not as the
 
-nature of things. We say of some ballad from the Balkans or some peasant
+[[Nature|nature]] of things. We say of some ballad from the Balkans or some peasant
 
 costume in the Netherlands that it is unique; but the good things of
 
@@ -14269,9 +14269,9 @@ England really are unique. Our very isolation from continental wars and
 
 revolutionary reconstructions have kept them unique. The particular kind
 
-of beauty there is in an English village, the particular kind of humour
+of [[Beauty|beauty]] there is in an English village, the particular kind of [[Humour|humour]]
 
-there is in an English public-house, are things that cannot be found in
+there is in an English public-[[house]], are things that cannot be found in
 
 lands where the village is far more simply and equally governed, or
 
@@ -14293,7 +14293,7 @@ are; almost as one might fancy that a man would have to rise to the
 
 dizziest heights of the divine understanding before he saw, as from a
 
-peak far above a whirlpool, how precious is his perishing soul.
+peak far above a whirlpool, how precious is his perishing [[Soul|soul]].
 
 _The Future of Democracy_
 
@@ -14305,9 +14305,9 @@ in accordance with a ritual or custom in which I could see no particular
 
 harm, and which gives me a very interesting subject, but a custom which
 
-it would be not altogether easy to justify in logic. Everybody who goes
+it would be not altogether easy to justify in [[logic]]. Everybody who goes
 
-to America for a short time is expected to write a book; and nearly
+to [[America]] for a short [[Time|time]] is expected to write a book; and nearly
 
 everybody does. A man who takes a holiday at Trouville or Dieppe is not
 
@@ -14315,9 +14315,9 @@ confronted on his return with the question, 'When is your book on France
 
 going to appear?' A man who betakes himself to Switzerland for the
 
-winter sports is not instantly pinned by the statement, 'I suppose your
+[[Winter|winter]] sports is not instantly pinned by the statement, 'I suppose your
 
-History of the Helvetian Republic is coming out this spring?' Lecturing,
+[[history|History]] of the Helvetian Republic is coming out this [[Spring|spring]]?' Lecturing,
 
 at least my kind of lecturing, is not much more serious or meritorious
 
@@ -14325,45 +14325,45 @@ than ski-ing or sea-bathing; and it happens to afford the holiday-maker
 
 far less opportunity of seeing the daily life of the people. Of all this
 
-I am only too well aware; and my only defence is that I am at least
+I am only too [[Well|well]] aware; and my only defence is that I am at least
 
-sincere in my enjoyment and appreciation of America, and equally sincere
+sincere in my enjoyment and appreciation of [[America]], and equally sincere
 
 in my interest in its most serious problem, which I think a very serious
 
-problem indeed; the problem of democracy in the modern world. Democracy
+problem indeed; the problem of [[democracy]] in the modern world. [[democracy|Democracy]]
 
 may be a very obvious and facile affair for plutocrats and politicians
 
-who only have to use it as a rhetorical term. But democracy is a very
+who only have to use it as a rhetorical term. But [[democracy]] is a very
 
 serious problem for democrats. I certainly do not apologise for the word
 
-democracy; but I do apologise for the word future. I am no Futurist; and
+[[democracy]]; but I do apologise for the word future. I am no Futurist; and
 
 any conjectures I make must be taken with the grain of salt which is
 
-indeed the salt of the earth; the decent and moderate humility which
+indeed the salt of the earth; the decent and moderate [[Humility|humility]] which
 
-comes from a belief in free will. That faith is in itself a divine
+comes from a belief in free will. That [[Faith|faith]] is in itself a divine
 
-doubt. I do not believe in any of the scientific predictions about
+[[Doubt|doubt]]. I do not believe in any of the scientific predictions about
 
 mankind; I notice that they always fail to predict any of the purely
 
 human developments of men; I also notice that even their successes prove
 
-the same truth as their failures; for their successful predictions are
+the same [[Truth|truth]] as their failures; for their successful predictions are
 
 not about men but about machines. But there are two things which a man
 
 may reasonably do, in stating the probabilities of a problem, which do
 
-not involve any claim to be a prophet. The first is to tell the truth,
+not involve any claim to be a [[Prophet|prophet]]. The first is to tell the [[Truth|truth]],
 
-and especially the neglected truth, about the tendencies that have
+and especially the neglected [[Truth|truth]], about the tendencies that have
 
-already accumulated in human history; any miscalculation about which
+already accumulated in human [[history]]; any miscalculation about which
 
 must at least mislead us in any case. We cannot be certain of being
 
@@ -14373,25 +14373,25 @@ about the future, if we are wrong about the past. The other thing that
 
 he can do is to note what ideas necessarily go together by their own
 
-nature; what ideas will triumph together or fall together. Hence it
+[[Nature|nature]]; what ideas will triumph together or fall together. Hence it
 
 follows that this final chapter must consist of two things. The first is
 
-a summary of what has really happened to the idea of democracy in recent
+a summary of what has really happened to the idea of [[democracy]] in recent
 
 times; the second a suggestion of the fundamental doctrine which is
 
-necessary for its triumph at any time.
+necessary for its triumph at any [[Time|time]].
 
 The last hundred years has seen a general decline in the democratic
 
-idea. If there be anybody left to whom this historical truth appears a
+idea. If there be anybody left to whom this historical [[Truth|truth]] appears a
 
-paradox, it is only because during that period nobody has been taught
+[[Paradox|paradox]], it is only because during that period nobody has been taught
 
-history, least of all the history of ideas. If a sort of intellectual
+[[history]], least of all the [[history]] of ideas. If a sort of intellectual
 
-inquisition had been established, for the definition and differentiation
+[[Inquisition|inquisition]] had been established, for the definition and differentiation
 
 of heresies, it would have been found that the original republican
 
@@ -14411,13 +14411,13 @@ peoples instead of the arbitrary power of princes and privileged orders.
 
 These men encountered various difficulties and made various compromises
 
-in relation to the practical politics of their time; in England they
+in relation to the practical politics of their [[Time|time]]; in England they
 
-preserved aristocracy; in America they preserved slavery. But though
+preserved aristocracy; in [[America]] they preserved [[Slavery|slavery]]. But though
 
-they had more difficulties, they had less doubts. Since their time
+they had more difficulties, they had less doubts. Since their [[Time|time]]
 
-democracy has been steadily disintegrated by doubts; and these political
+[[democracy]] has been steadily disintegrated by doubts; and these political
 
 doubts have been contemporary with and often identical with religious
 
@@ -14425,7 +14425,7 @@ doubts. This fact could be followed over almost the whole field of the
 
 modern world; in this place it will be more appropriate to take the
 
-great American example of slavery. I have found traces in all sorts of
+great American example of [[Slavery|slavery]]. I have found traces in all sorts of
 
 intelligent quarters of an extraordinary idea that all the Fathers of
 
@@ -14447,7 +14447,7 @@ brotherhood, till we pass from embracing a black man to adoring a black
 
 beetle. Unfortunately it is quite inconsistent with the facts of
 
-American history. The facts show that, in this problem of the Old South,
+American [[history]]. The facts show that, in this problem of the Old South,
 
 the eighteenth century was _more_ liberal than the nineteenth century.
 
@@ -14455,23 +14455,23 @@ There was _more_ sympathy for the negro in the school of Jefferson than
 
 in the school of Jefferson Davis. Jefferson, in the dark estate of his
 
-simple Deism, said the sight of slavery in his country made him tremble,
+simple Deism, said the sight of [[Slavery|slavery]] in his country made him tremble,
 
 remembering that God is just. His fellow Southerners, after a century of
 
-the world's advance, said that slavery in itself was good, when they did
+the world's advance, said that [[Slavery|slavery]] in itself was good, when they did
 
 not go farther and say that negroes in themselves were bad. And they
 
 were supported in this by the great and growing modern suspicion that
 
-nature is unjust. Difficulties seemed inevitably to delay justice, to
+[[Nature|nature]] is unjust. Difficulties seemed inevitably to delay justice, to
 
-the mind of Jefferson; but so they did to the mind of Lincoln. But that
+the mind of Jefferson; but so they did to the mind of [[Lincoln]]. But that
 
 the slave was human and the servitude inhuman--that was, if anything,
 
-clearer to Jefferson than to Lincoln. The fact is that the utter
+clearer to Jefferson than to [[Lincoln]]. The fact is that the utter
 
 separation and subordination of the black like a beast was a _progress_;
 
@@ -14495,15 +14495,15 @@ really disputed. Gobineau, who began most of the modern talk about the
 
 superiority and inferiority of racial stocks, was seized upon eagerly by
 
-the less generous of the slave-owners and trumpeted as a new truth of
+the less generous of the slave-owners and trumpeted as a new [[Truth|truth]] of
 
-science and a new defence of slavery. It was not really until the dawn
+science and a new defence of [[Slavery|slavery]]. It was not really until the [[Dawn|dawn]]
 
 of Darwinism, when all our social relations began to smell of the
 
-monkey-house, that men thought of the barbarian as only a first and the
+monkey-[[house]], that men thought of the barbarian as only a first and the
 
-baboon as a second cousin. The full servile philosophy has been a modern
+baboon as a second cousin. The full servile [[philosophy]] has been a modern
 
 and even a recent thing; made in an age whose invisible deity was the
 
@@ -14511,7 +14511,7 @@ Missing Link. The Missing Link was a true metaphor in more ways than
 
 one; and most of all in its suggestion of a chain.
 
-By a symbolic coincidence, indeed, slavery grew more brazen and brutal
+By a symbolic coincidence, indeed, [[Slavery|slavery]] grew more brazen and brutal
 
 under the encouragement of more than one movement of the progressive
 
@@ -14521,7 +14521,7 @@ Lancashire; and under that influence it became a commercial and
 
 competitive instead of a patriarchal and customary thing. We may say
 
-with no exaggerative irony that the unconscious patrons of slavery were
+with no exaggerative irony that the unconscious patrons of [[Slavery|slavery]] were
 
 Huxley and Cobden. The machines of Manchester were manufacturing a great
 
@@ -14533,13 +14533,13 @@ the best quality of steel and iron. But this is a minor illustration of
 
 the modern tendency, as compared with the main stream of scepticism
 
-which was destroying democracy. Evolution became more and more a vision
+which was destroying [[democracy]]. Evolution became more and more a vision
 
 of the break-up of our brotherhood, till by the end of the nineteenth
 
 century the genius of its greatest scientific romancer saw it end in the
 
-anthropophagous antics of the Time Machine. So far from evolution
+anthropophagous antics of the [[Time]] [[Machine]]. So far from evolution
 
 lifting us above the idea of enslaving men, it was providing us at least
 
@@ -14567,7 +14567,7 @@ Anybody can test it by comparing the final phase, I will not say with
 
 the ideal of Jefferson, but with the ideal of Johnson. There was far
 
-more horror of slavery in an eighteenth-century Tory like Dr. Johnson
+more horror of [[Slavery|slavery]] in an eighteenth-century Tory like Dr. Johnson
 
 than in a nineteenth-century Democrat like Stephen Douglas. Stephen
 
@@ -14579,13 +14579,13 @@ Rhodes, human and hopeful in a truly American fashion, and as a
 
 consequence cold and careless rather than hostile in the matter of the
 
-old mystical doctrines of equality. He 'did not care whether slavery was
+old mystical doctrines of equality. He 'did not care whether [[Slavery|slavery]] was
 
-voted up or voted down.' His great opponent Lincoln did indeed care
+voted up or voted down.' His great opponent [[Lincoln]] did indeed care
 
-very much. But it was an intense individual conviction with Lincoln
+very much. But it was an intense individual conviction with [[Lincoln]]
 
-exactly as it was with Johnson. I doubt if the spirit of the age was not
+exactly as it was with Johnson. I [[Doubt|doubt]] if the spirit of the age was not
 
 much more behind Douglas and his westward expansion of the white race. I
 
@@ -14593,41 +14593,41 @@ am sure that more and more men were coming to be in the particular
 
 mental condition of Douglas; men in whom the old moral and mystical
 
-ideals had been undermined by doubt but only with a negative effect of
+ideals had been undermined by [[Doubt|doubt]] but only with a negative effect of
 
 indifference. Their positive convictions were all concerned with what
 
 some called progress and some imperialism. It is true that there was a
 
-sincere sectional enthusiasm against slavery in the North; and that the
+sincere sectional enthusiasm against [[Slavery|slavery]] in the North; and that the
 
-slaves were actually emancipated in the nineteenth century. But I doubt
+slaves were actually emancipated in the nineteenth century. But I [[Doubt|doubt]]
 
 whether the Abolitionists would ever have secured Abolition. Abolition
 
 was a by-product of the Civil War; which was fought for quite other
 
-reasons. Anyhow, if slavery had somehow survived to the age of Rhodes
+reasons. Anyhow, if [[Slavery|slavery]] had somehow survived to the age of Rhodes
 
-and Roosevelt and evolutionary imperialism, I doubt if the slaves would
+and Roosevelt and evolutionary imperialism, I [[Doubt|doubt]] if the slaves would
 
 ever have been emancipated at all. Certainly if it had survived till the
 
 modern movement for the Servile State, they would never have been
 
-emancipated at all. Why should the world take the chains off the black
+emancipated at all. Why should the world take the [[Chains|chains]] off the black
 
 man when it was just putting them on the white? And in so far as we owe
 
-the change to Lincoln, we owe it to Jefferson. Exactly what gives its
+the change to [[Lincoln]], we owe it to Jefferson. Exactly what gives its
 
-real dignity to the figure of Lincoln is that he stands invoking a
+real dignity to the figure of [[Lincoln]] is that he stands invoking a
 
-primitive first principle of the age of innocence, and holding up the
+primitive first principle of the age of [[innocence]], and holding up the
 
 tables of an ancient law, _against_ the trend of the nineteenth century;
 
-repeating, 'We hold these truths to be self-evident; that all men are
+repeating, 'We hold these truths to be [[Self|self]]-evident; that all men are
 
 created equal, that they are endowed by their Creator, etc.,' to a
 
@@ -14647,9 +14647,9 @@ have overthrown a slave state. What it did do, as I have said, was to
 
 produce some very wonderful literary and artistic flights of sceptical
 
-imagination. The world did have new visions, if they were visions of
+[[Imagination|imagination]]. The world did have new visions, if they were visions of
 
-monsters in the moon and Martians striding about like spiders as tall as
+monsters in the [[Moon|moon]] and Martians striding about like spiders as tall as
 
 the sky, and the workmen and capitalists becoming two separate species,
 
@@ -14659,37 +14659,37 @@ devours a bird. No one has done justice to the meaning of Mr. Wells and
 
 his original departure in fantastic fiction; to these nightmares that
 
-were the last apocalypse of the nineteenth century. They meant that the
+were the last [[Apocalypse|apocalypse]] of the nineteenth century. They meant that the
 
-bottom had fallen out of the mind at last, that the bridge of
+[[Bottom|bottom]] had fallen out of the mind at last, that the bridge of
 
 brotherhood had broken down in the modern brain, letting up from the
 
-chasms this infernal light like a dawn. All had grown dizzy with degree
+chasms this infernal light like a [[Dawn|dawn]]. All had grown dizzy with degree
 
 and relativity; so that there would not be so very much difference
 
 between eating dog and eating darkie, or between eating darkie and
 
-eating dago. There were different sorts of apes; but there was no doubt
+eating dago. There were different sorts of apes; but there was no [[Doubt|doubt]]
 
 that we were the superior sort.
 
 Against all this irresistible force stood one immovable post. Against
 
-all this dance of doubt and degree stood something that can best be
+all this [[Dance|dance]] of [[Doubt|doubt]] and degree stood something that can best be
 
 symbolised by a simple example. An ape cannot be a priest, but a negro
 
-can be a priest. The dogmatic type of Christianity, especially the
+can be a priest. The dogmatic type of [[Christianity]], especially the
 
-Catholic type of Christianity, had riveted itself irrevocably to the
+Catholic type of [[Christianity]], had riveted itself irrevocably to the
 
-manhood of all men. Where its faith was fixed by creeds and councils it
+manhood of all men. Where its [[Faith|faith]] was fixed by creeds and councils it
 
 could not save itself even by surrender. It could not gradually dilute
 
-democracy, as could a merely sceptical or secular democrat. There stood,
+[[democracy]], as could a merely sceptical or secular democrat. There stood,
 
 in fact or in possibility, the solid and smiling figure of a black
 
@@ -14699,19 +14699,19 @@ privileges of a man, or he was the mere buffoonery and blasphemy of a
 
 monkey in a mitre. That is the point about Christian and Catholic
 
-democracy; it is not that it is necessarily at any moment more
+[[democracy]]; it is not that it is necessarily at any moment more
 
-democratic, it is that its indestructible minimum of democracy really is
+democratic, it is that its indestructible minimum of [[democracy]] really is
 
-indestructible. And by the nature of things that mystical democracy was
+indestructible. And by the [[Nature|nature]] of things that mystical [[democracy]] was
 
-destined to survive, when every other sort of democracy was free to
+destined to survive, when every other sort of [[democracy]] was free to
 
-destroy itself. And whenever democracy destroying itself is suddenly
+destroy itself. And whenever [[democracy]] destroying itself is suddenly
 
 moved to save itself, it always grasps at rag or tag of that old
 
-tradition that alone is sure of itself. Hundreds have heard the story
+tradition that [[Alone|alone]] is sure of itself. Hundreds have heard the story
 
 about the mediaeval demagogue who went about repeating the rhyme
 
@@ -14723,7 +14723,7 @@ Many have doubtless offered the obvious answer to the question, 'The
 
 Serpent.' But few seem to have noticed what would be the more modern
 
-answer to the question, if that innocent agitator went about propounding
+answer to the question, if that [[Innocent|innocent]] agitator went about propounding
 
 it. 'Adam never delved and Eve never span, for the simple reason that
 
@@ -14737,7 +14737,7 @@ Species_.' And then the modern man would go on to justify plutocracy to
 
 the mediaeval man by talking about the Struggle for Life and the
 
-Survival of the Fittest; and how the strongest man seized authority by
+[[Survival]] of the Fittest; and how the strongest man seized authority by
 
 means of anarchy, and proved himself a gentleman by behaving like a cad.
 
@@ -14759,11 +14759,11 @@ to make the same appeal even in the very century of Science. Tennyson
 
 was, if ever there was one, an evolutionist in his vision and an
 
-aristocrat in his sympathies. He was always boasting that John Bull was
+[[aristocrat]] in his sympathies. He was always boasting that John Bull was
 
 evolutionary and not revolutionary, even as these Frenchmen. He did not
 
-pretend to have any creed beyond faintly trusting the larger hope. But
+pretend to have any creed beyond faintly trusting the larger [[Hope|hope]]. But
 
 when human dignity is really in danger, John Bull has to use the same
 
@@ -14775,7 +14775,7 @@ own descent being by no means long. Lady Clara might surely have scored
 
 off him pretty smartly by quoting from 'Maud' and 'In Memoriam' about
 
-evolution and the eft that was lord of valley and hill. But Tennyson has
+evolution and the eft that was lord of valley and [[Hill|hill]]. But Tennyson has
 
 evidently forgotten all about Darwin and the long descent of man. If
 
@@ -14789,7 +14789,7 @@ all men equal; and it is right; for if they were not created equal, they
 
 were certainly evolved unequal.
 
-There is no basis for democracy except in a dogma about the divine
+There is no basis for [[democracy]] except in a dogma about the divine
 
 origin of man. That is a perfectly simple fact which the modern world
 
@@ -14799,23 +14799,23 @@ sentimental confusion, full of merely verbal echoes of the older creeds.
 
 Those verbal associations are always vain for the vital purpose of
 
-constraining the tyrant. An idealist may say to a capitalist, 'Don't you
+constraining the [[Tyrant|tyrant]]. An idealist may say to a capitalist, 'Don't you
 
 sometimes feel in the rich twilight, when the lights twinkle from the
 
-distant hamlet in the hills, that all humanity is a holy family?' But it
+distant [[Hamlet|hamlet]] in the hills, that all humanity is a holy family?' But it
 
 is equally possible for the capitalist to reply with brevity and
 
 decision, 'No, I don't,' and there is no more disputing about it further
 
-than about the beauty of a fading cloud. And the modern world of moods
+than about the [[Beauty|beauty]] of a fading cloud. And the modern world of moods
 
 is a world of clouds, even if some of them are thunderclouds.
 
 For I have only taken here, as a convenient working model, the case of
 
-negro slavery; because it was long peculiar to America and is popularly
+negro [[Slavery|slavery]]; because it was long peculiar to [[America]] and is popularly
 
 associated with it. It is more and more obvious that the line is no
 
@@ -14823,11 +14823,11 @@ longer running between black and white but between rich and poor. As I
 
 have already noted in the case of Prohibition, the very same arguments
 
-of the inevitable suicide of the ignorant, of the impossibility of
+of the inevitable [[suicide]] of the ignorant, of the impossibility of
 
-freedom for the unfit, which were once applied to barbarians brought
+[[Freedom|freedom]] for the unfit, which were once applied to barbarians brought
 
-from Africa are now applied to citizens born in America. It is argued
+from Africa are now applied to citizens born in [[America]]. It is argued
 
 even by industrialists that industrialism has produced a class submerged
 
@@ -14841,9 +14841,9 @@ hypotheses about the feeble-minded and the criminal type will supply the
 
 masters of the modern world with more and more excuses for denying the
 
-dogma of equality in the case of white labour as well as black. And any
+dogma of equality in the case of white labour as [[Well|well]] as black. And any
 
-man who knows the world knows perfectly well that to tell the
+man who knows the world knows perfectly [[Well|well]] that to tell the
 
 millionaires, or their servants, that they are disappointing the
 
@@ -14859,7 +14859,7 @@ The world cannot keep its own ideals. The secular order cannot make
 
 secure any one of its own noble and natural conceptions of secular
 
-perfection. That will be found, as time goes on, the ultimate argument
+perfection. That will be found, as [[Time|time]] goes on, the ultimate argument
 
 for a Church independent of the world and the secular order. What has
 
@@ -14869,7 +14869,7 @@ democratic Deist of the eighteenth century? What has become of all that
 
 purely human hierarchy of chivalry, with its punctilious pattern of the
 
-good knight, its ardent ambition in the young squire? The very name of
+good knight, its ardent [[Ambition|ambition]] in the young squire? The very name of
 
 knight has come to represent the petty triumph of a profiteer, and the
 
@@ -14877,7 +14877,7 @@ very word squire the petty tyranny of a landlord. What has become of all
 
 that golden liberality of the Humanists, who found on the high
 
-tablelands of the culture of Hellas the very balance of repose in beauty
+tablelands of the culture of Hellas the very balance of repose in [[Beauty|beauty]]
 
 that is most lacking in the modern world? The very Greek language that
 
@@ -14885,7 +14885,7 @@ they loved has become a mere label for snuffy and snobbish dons, and a
 
 mere cock-shy for cheap and half-educated utilitarians, who make it a
 
-symbol of superstition and reaction. We have lived to see a time when
+symbol of superstition and reaction. We have lived to see a [[Time|time]] when
 
 the heroic legend of the Republic and the Citizen, which seemed to
 
@@ -14895,11 +14895,11 @@ turn. We cannot recover the earthly estate of knighthood, to which all
 
 the colours and complications of heraldry seemed as fresh and natural as
 
-flowers. We cannot re-enact the intellectual experiences of the
+[[Flowers|flowers]]. We cannot re-enact the intellectual experiences of the
 
-Humanists, for whom the Greek grammar was like the song of a bird in
+Humanists, for whom the Greek grammar was like the [[Song|song]] of a bird in
 
-spring. The more the matter is considered the clearer it will seem that
+[[Spring|spring]]. The more the matter is considered the clearer it will seem that
 
 these old experiences are now only alive, where they have found a
 
@@ -14917,19 +14917,19 @@ so hazy an outline of so great and majestic a matter as the American
 
 democratic experiment, without testifying my belief that to this also
 
-the same ultimate test will come. So far as that democracy becomes or
+the same ultimate test will come. So far as that [[democracy]] becomes or
 
-remains Catholic and Christian, that democracy will remain democratic.
+remains Catholic and Christian, that [[democracy]] will remain democratic.
 
 In so far as it does not, it will become wildly and wickedly
 
 undemocratic. Its rich will riot with a brutal indifference far beyond
 
-the feeble feudalism which retains some shadow of responsibility or at
+the feeble feudalism which retains some [[Shadow|shadow]] of responsibility or at
 
 least of patronage. Its wage-slaves will either sink into heathen
 
-slavery, or seek relief in theories that are destructive not merely in
+[[Slavery|slavery]], or seek relief in theories that are destructive not merely in
 
 method but in aim; since they are but the negations of the human
 
@@ -14943,15 +14943,15 @@ depended upon Deism; their real strength will survive in men who are
 
 still Deists; and the men who are still Deists are more than Deists. Men
 
-will more and more realise that there is no meaning in democracy if
+will more and more realise that there is no meaning in [[democracy]] if
 
 there is no meaning in anything; and that there is no meaning in
 
 anything if the universe has not a centre of significance and an
 
-authority that is the author of our rights. There is truth in every
+authority that is the author of our rights. There is [[Truth|truth]] in every
 
-ancient fable, and there is here even something of it in the fancy that
+ancient [[Fable|fable]], and there is here even something of it in the fancy that
 
 finds the symbol of the Republic in the bird that bore the bolts of
 
@@ -14965,11 +14965,11 @@ existence may have no origin and no end; but it was far back in the land
 
 of legends, where instincts find their true images, that the cry went
 
-forth that freedom is an eagle, whose glory is gazing at the sun.
+forth that [[Freedom|freedom]] is an eagle, whose glory is gazing at the sun.
 
-End of Project Gutenberg's What I Saw in America, by G. K. Chesterton
+End of Project Gutenberg's What I Saw in [[America]], by G. K. Chesterton
 
-*** END OF THIS PROJECT GUTENBERG EBOOK WHAT I SAW IN AMERICA ***
+*** END OF THIS PROJECT GUTENBERG EBOOK WHAT I SAW IN [[America|AMERICA]] ***
 
 ***** This file should be named 27250-8.txt or 27250-8.zip *****
 
@@ -15097,7 +15097,7 @@ copying, distributing, performing, displaying or creating derivative
 
 works based on the work as long as all references to Project Gutenberg
 
-are removed.  Of course, we hope that you will support the Project
+are removed.  Of course, we [[Hope|hope]] that you will support the Project
 
 Gutenberg-tm mission of promoting free access to electronic works by
 
@@ -15199,7 +15199,7 @@ active links or immediate access to the full terms of the Project
 
 Gutenberg-tm License.
 
-1.E.6.  You may convert to and distribute this work in any binary,
+1.E.6.  You may [[convert]] to and distribute this work in any binary,
 
 compressed, marked up, nonproprietary or proprietary form, including any
 
@@ -15289,7 +15289,7 @@ electronic work or group of works on different terms than are set
 
 forth in this agreement, you must obtain permission in writing from
 
-both the Project Gutenberg Literary Archive Foundation and Michael
+both the Project Gutenberg Literary Archive Foundation and [[Michael]]
 
 Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
@@ -15465,7 +15465,7 @@ Fairbanks, AK, 99712., but its volunteers and employees are scattered
 
 throughout numerous locations.  Its business office is located at
 
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+809 North 1500 West, Salt Lake [[City]], UT 84116, (801) 596-1887, email
 
 business@pglaf.org.  Email contact links and up to date contact
 
@@ -15491,7 +15491,7 @@ spread public support and donations to carry out its mission of
 
 increasing the number of public domain and licensed works that can be
 
-freely distributed in machine readable form accessible by the widest
+freely distributed in [[Machine|machine]] readable form accessible by the widest
 
 array of equipment including outdated equipment.  Many small donations
 
@@ -15527,7 +15527,7 @@ International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
-outside the United States.  U.S. laws alone swamp our small staff.
+outside the United States.  U.S. laws [[Alone|alone]] swamp our small staff.
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -15541,7 +15541,7 @@ Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
 
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+Professor [[Michael]] S. Hart is the originator of the Project Gutenberg-tm
 
 concept of a library of electronic works that could be freely shared
 

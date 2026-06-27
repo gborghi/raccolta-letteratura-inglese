@@ -17,12 +17,12 @@ tags:
 |---|---|
 | *(didascalia)* | Enter the Host of the Garter and Simple |
 | HOST | What wouldst thou have, boor? What, thick-skin? Speak, breathe, discuss. Brief, short, quick, snap. |
-| SIMPLE | Marry, sir, I come to speak with Sir John Falstaff, from Master Slender. |
-| HOST | There’s his chamber, his house, his castle, his standing-bed and truckle-bed. ’Tis painted about with the story of the Prodigal, fresh and new. Go knock and call. He’ll speak like an Anthropophaginian unto thee. Knock, I say. |
+| SIMPLE | Marry, sir, I come to speak with Sir John [[Falstaff]], from Master Slender. |
+| HOST | There’s his chamber, his [[house]], his [[Castle|castle]], his standing-bed and truckle-bed. ’Tis painted about with the story of the Prodigal, fresh and new. Go knock and call. He’ll speak like an Anthropophaginian unto thee. Knock, I say. |
 | SIMPLE | There’s an old woman, a fat woman, gone up into his chamber. I’ll be so bold as stay, sir, till she come down. I come to speak with her, indeed. |
 | HOST | Ha, a fat woman? The knight may be robbed. I’ll call.—Bully knight, bully Sir John! Speak from thy lungs military! Art thou there? It is thine Host, thine Ephesian, calls. |
 | SIR JOHN | (within) How now, mine Host? |
-| HOST | Here’s a Bohemian Tartar tarries the coming down of thy fat woman. Let her descend, bully, let her descend. My chambers are honourable. Fie, privacy! Fie! Enter Sir John Falstaff |
+| HOST | Here’s a Bohemian Tartar tarries the coming down of thy fat woman. Let her descend, bully, let her descend. My chambers are honourable. Fie, privacy! Fie! Enter Sir John [[Falstaff]] |
 | SIR JOHN | There was, mine Host, an old fat woman even now with me; but she’s gone. |
 | SIMPLE | Pray you, sir, was’t not the wise woman of Brentford? |
 | SIR JOHN | Ay, marry was it, mussel-shell. What would you with her? |
@@ -34,7 +34,7 @@ tags:
 | SIR JOHN | What are they? Let us know. |
 | HOST | Ay, come, quick. SIMPLE I may not conceal them, sir. |
 | HOST | Conceal them, or thou diest. |
-| SIMPLE | Why, sir, they were nothing but about Mistress Anne Page, to know if it were my master’s fortune to have her or no. |
+| SIMPLE | Why, sir, they were nothing but about Mistress [[Anne Page]], to know if it were my master’s fortune to have her or no. |
 | SIR JOHN | ’Tis, ’tis his fortune. |
 | SIMPLE | What, sir? |
 | SIR JOHN | To have her or no. Go say the woman told me SO. |
@@ -44,6 +44,6 @@ tags:
 | HOST | Thou art clerkly, thou art clerkly, Sir John. Was there a wise woman with thee? |
 | SIR JOHN | Ay, that there was, mine Host, one that hath taught me more wit than ever I learned before in my life. And I paid nothing for it, neither, but was paid for my learning. Enter Bardolph, muddy |
 | BARDOLPH | O Lord, sir, cozenage, mere cozenagel |
-| HOST | Where be my horses? Speak well of them, varletto. |
+| HOST | Where be my horses? Speak [[Well|well]] of them, varletto. |
 | BARDOLPH | Run away with the cozeners. For so soon as I came beyond Eton, they threw me off from behind one of them, in a slough of mire, and set spurs and away, like three German devils, three Doctor Faustuses. |
-| HOST | They are gone but to meet the Duke, villain. Do not say they be fled. Germans are honest men. Enter Sir Hugh Evans |
+| HOST | They are gone but to meet the Duke, [[Villain|villain]]. Do not say they be fled. Germans are honest men. Enter Sir Hugh Evans |

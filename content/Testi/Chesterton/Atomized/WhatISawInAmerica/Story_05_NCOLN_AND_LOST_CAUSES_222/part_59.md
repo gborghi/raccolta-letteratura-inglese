@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 59)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 59)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -34,7 +34,7 @@ are free from corruption; or by what mental and moral training certain
 
 millionaires were enabled to succeed by sheer force of character; in
 
-short, they will ask why plutocrats govern well and how it is that pigs
+short, they will ask why plutocrats govern [[Well|well]] and how it is that pigs
 
 fly, spreading their pink pinions to the breeze or delighting us as they
 
@@ -48,7 +48,7 @@ gentleman who was asked, 'When did you leave off beating your wife?' But
 
 there is something analogous to it in the present discussions about the
 
-forces drawing England and America together. It seems as if the
+forces drawing England and [[America]] together. It seems as if the
 
 reasoners hardly went far enough back in their argument, or took
 
@@ -64,21 +64,21 @@ to consider here.
 
 
 
-In other places I have ventured to express a doubt about whether nations
+In other places I have ventured to express a [[Doubt|doubt]] about whether nations
 
 can be drawn together by an ancient rumour about races; by a sort of
 
 prehistoric chit-chat or the gossip of the Stone Age. I have ventured
 
-farther; and even expressed a doubt about whether they ought to be drawn
+farther; and even expressed a [[Doubt|doubt]] about whether they ought to be drawn
 
 together, or rather dragged together, by the brute violence of the
 
-engines of science and speed. But there is yet another horrible doubt
+engines of science and [[Speed|speed]]. But there is yet another horrible [[Doubt|doubt]]
 
 haunting my morbid mind, which it will be better for my constitution to
 
-confess frankly. And that is the doubt about whether they are being
+confess frankly. And that is the [[Doubt|doubt]] about whether they are being
 
 drawn together at all.
 
@@ -96,7 +96,7 @@ barbaric past. There is something about these sayings that seems simple
 
 and familiar and entirely satisfactory when we say them; they are of
 
-that consoling sort which we can say without any of the mental pain of
+that consoling sort which we can say without any of the mental [[Pain|pain]] of
 
 thinking what we are saying. But if we turn our attention from the
 
@@ -106,7 +106,7 @@ least that there are a good many facts on the other side and examples
 
 pointing the other way. For instance, it does happen occasionally, from
 
-time to time, that people talk about Ireland. He would be a very
+[[Time|time]] to [[Time|time]], that people talk about Ireland. He would be a very
 
 hilarious humanitarian who should maintain that Ireland and England have
 
@@ -120,7 +120,7 @@ uttering the watchword of 'Repeal' in Gaelic than of uttering it in
 
 Zulu. Grattan could hardly have brought himself to believe that the real
 
-repeal of the Union would actually be signed in London in the strange
+repeal of the [[Union]] would actually be signed in [[London]] in the strange
 
 script as remote as the snaky ornament of the Celtic crosses. It would
 
@@ -190,8 +190,8 @@ so that it seemed to come to me by inheritance like _Gulliver's Travels_
 
 or _Tristram Shandy_. Its language was as English as Ruskin, and a great
 
-deal more English than Carlyle. Well, I have seen in later years an
+deal more English than Carlyle. [[Well]], I have seen in later years an
 
-almost equally wide and well-merited popularity of the stories of O.
+almost equally wide and [[Well|well]]-merited popularity of the stories of O.
 
 Henry. But never for one moment could I or any one else reading them

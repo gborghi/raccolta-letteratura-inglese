@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 35"
+title: "[[Sense and Sensibility]] — Chapter 35"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,17 +24,17 @@ Elinor’s curiosity to see Mrs. Ferrars was satisfied. She had found in
 
 her every thing that could tend to make a farther connection between
 
-the families undesirable. She had seen enough of her pride, her
+the families undesirable. She had seen enough of her [[Pride|pride]], her
 
 meanness, and her determined prejudice against herself, to comprehend
 
 all the difficulties that must have perplexed the engagement, and
 
-retarded the marriage, of Edward and herself, had he been otherwise
+retarded the [[Marriage|marriage]], of Edward and herself, had he been otherwise
 
 free; and she had seen almost enough to be thankful for her _own_ sake,
 
-that one greater obstacle preserved her from suffering under any other
+that one greater obstacle preserved her from [[Suffering|suffering]] under any other
 
 of Mrs. Ferrars’s creation, preserved her from all dependence upon her
 
@@ -50,7 +50,7 @@ have rejoiced.
 
 She wondered that Lucy’s spirits could be so very much elevated by the
 
-civility of Mrs. Ferrars;—that her interest and her vanity should so
+civility of Mrs. Ferrars;—that her interest and her [[Vanity|vanity]] should so
 
 very much blind her as to make the attention which seemed only paid her
 
@@ -60,13 +60,13 @@ allow her to derive encouragement from a preference only given her,
 
 because her real situation was unknown. But that it was so, had not
 
-only been declared by Lucy’s eyes at the time, but was declared over
+only been declared by Lucy’s eyes at the [[Time|time]], but was declared over
 
-again the next morning more openly, for at her particular desire, Lady
+again the next morning more openly, for at her particular [[Desire|desire]], Lady
 
 Middleton set her down in Berkeley Street on the chance of seeing
 
-Elinor alone, to tell her how happy she was.
+Elinor [[Alone|alone]], to tell her how happy she was.
 
 
 
@@ -100,7 +100,7 @@ with it?”
 
 “Civil!—Did you see nothing but only civility?—I saw a vast deal more.
 
-Such kindness as fell to the share of nobody but me!—No pride, no
+Such kindness as fell to the share of nobody but me!—No [[Pride|pride]], no
 
 hauteur, and your sister just the same—all sweetness and affability!”
 
@@ -128,13 +128,13 @@ reason in the world why Mrs. Ferrars should seem to like me, if she did
 
 not, and her liking me is every thing. You shan’t talk me out of my
 
-satisfaction. I am sure it will all end well, and there will be no
+satisfaction. I am sure it will all end [[Well|well]], and there will be no
 
 difficulties at all, to what I used to think. Mrs. Ferrars is a
 
 charming woman, and so is your sister. They are both delightful women,
 
-indeed!—I wonder I should never hear you say how agreeable Mrs.
+indeed!—I [[Wonder|wonder]] I should never hear you say how agreeable Mrs.
 
 Dashwood was!”
 
@@ -146,7 +146,7 @@ To this Elinor had no answer to make, and did not attempt any.
 
 “Are you ill, Miss Dashwood?—you seem low—you don’t speak;—sure you
 
-an’t well.”
+an’t [[Well|well]].”
 
 
 
@@ -160,11 +160,11 @@ should be sorry to have _you_ ill; you, that have been the greatest
 
 comfort to me in the world!—Heaven knows what I should have done
 
-without your friendship.”
+without your [[Friendship|friendship]].”
 
 
 
-Elinor tried to make a civil answer, though doubting her own success.
+Elinor tried to make a civil answer, though doubting her own [[success]].
 
 But it seemed to satisfy Lucy, for she directly replied,
 
@@ -172,7 +172,7 @@ But it seemed to satisfy Lucy, for she directly replied,
 
 “Indeed I am perfectly convinced of your regard for me, and next to
 
-Edward’s love, it is the greatest comfort I have. Poor Edward! But now
+Edward’s [[Love|love]], it is the greatest comfort I have. Poor Edward! But now
 
 there is one good thing, we shall be able to meet, and meet pretty
 
@@ -180,7 +180,7 @@ often, for Lady Middleton’s delighted with Mrs. Dashwood, so we shall
 
 be a good deal in Harley Street, I dare say, and Edward spends half his
 
-time with his sister—besides, Lady Middleton and Mrs. Ferrars will
+[[Time|time]] with his sister—besides, Lady Middleton and Mrs. Ferrars will
 
 visit now;—and Mrs. Ferrars and your sister were both so good to say
 
@@ -192,7 +192,7 @@ her, you cannot speak too high.”
 
 
 
-But Elinor would not give her any encouragement to hope that she
+But Elinor would not give her any encouragement to [[Hope|hope]] that she
 
 _should_ tell her sister. Lucy continued.
 
@@ -208,7 +208,7 @@ me, and never looked at me in a pleasant way—you know what I mean—if I
 
 had been treated in that forbidding sort of way, I should have gave it
 
-all up in despair. I could not have stood it. For where she _does_
+all up in [[Despair|despair]]. I could not have stood it. For where she _does_
 
 dislike, I know it is most violent.”
 
@@ -246,7 +246,7 @@ _look_ her tenderness, and after slightly addressing him, said no more.
 
 But Elinor had more to do; and so anxious was she, for his sake and her
 
-own, to do it well, that she forced herself, after a moment’s
+own, to do it [[Well|well]], that she forced herself, after a moment’s
 
 recollection, to welcome him, with a look and manner that were almost
 
@@ -258,7 +258,7 @@ consciousness of some injustice towards herself, to deter her from
 
 saying that she was happy to see him, and that she had very much
 
-regretted being from home, when he called before in Berkeley Street.
+regretted being from [[Home|home]], when he called before in Berkeley Street.
 
 She would not be frightened from paying him those attentions which, as
 
@@ -268,7 +268,7 @@ Lucy, though she soon perceived them to be narrowly watching her.
 
 
 
-Her manners gave some re-assurance to Edward, and he had courage enough
+Her manners gave some re-assurance to Edward, and he had [[Courage|courage]] enough
 
 to sit down; but his embarrassment still exceeded that of the ladies in
 
@@ -276,7 +276,7 @@ a proportion, which the case rendered reasonable, though his sex might
 
 make it rare; for his heart had not the indifference of Lucy’s, nor
 
-could his conscience have quite the ease of Elinor’s.
+could his [[Conscience|conscience]] have quite the ease of Elinor’s.
 
 
 
@@ -304,7 +304,7 @@ _that_ in the handsomest manner, for she loitered away several minutes
 
 on the landing-place, with the most high-minded fortitude, before she
 
-went to her sister. When that was once done, however, it was time for
+went to her sister. When that was once done, however, it was [[Time|time]] for
 
 the raptures of Edward to cease; for Marianne’s joy hurried her into
 
@@ -338,15 +338,15 @@ should be checked by Lucy’s unwelcome presence. Edward was the first to
 
 speak, and it was to notice Marianne’s altered looks, and express his
 
-fear of her not finding London agree with her.
+[[Fear|fear]] of her not finding [[London]] agree with her.
 
 
 
 “Oh, don’t think of me!” she replied with spirited earnestness, though
 
-her eyes were filled with tears as she spoke, “don’t think of _my_
+her eyes were filled with [[Tears|tears]] as she spoke, “don’t think of _my_
 
-health. Elinor is well, you see. That must be enough for us both.”
+health. Elinor is [[Well|well]], you see. That must be enough for us both.”
 
 
 
@@ -358,7 +358,7 @@ very benignant expression.
 
 
 
-“Do you like London?” said Edward, willing to say any thing that might
+“Do you like [[London]]?” said Edward, willing to say any thing that might
 
 introduce another subject.
 
@@ -426,11 +426,11 @@ private.
 
 
 
-“Perhaps, Miss Marianne,” cried Lucy, eager to take some revenge on
+“Perhaps, Miss Marianne,” cried Lucy, eager to take some [[Revenge|revenge]] on
 
 her, “you think young men never stand upon engagements, if they have no
 
-mind to keep them, little as well as great.”
+mind to keep them, little as [[Well|well]] as great.”
 
 
 
@@ -442,27 +442,27 @@ sting; for she calmly replied,
 
 “Not so, indeed; for, seriously speaking, I am very sure that
 
-conscience only kept Edward from Harley Street. And I really believe he
+[[Conscience|conscience]] only kept Edward from Harley Street. And I really believe he
 
-_has_ the most delicate conscience in the world; the most scrupulous in
+_has_ the most delicate [[Conscience|conscience]] in the world; the most scrupulous in
 
 performing every engagement, however minute, and however it may make
 
 against his interest or pleasure. He is the most fearful of giving
 
-pain, of wounding expectation, and the most incapable of being selfish,
+[[Pain|pain]], of wounding expectation, and the most incapable of being selfish,
 
-of any body I ever saw. Edward, it is so, and I will say it. What! are
+of any [[Body|body]] I ever saw. Edward, it is so, and I will say it. What! are
 
 you never to hear yourself praised!—Then you must be no friend of mine;
 
-for those who will accept of my love and esteem, must submit to my open
+for those who will accept of my [[Love|love]] and esteem, must submit to my open
 
 commendation.”
 
 
 
-The nature of her commendation, in the present case, however, happened
+The [[Nature|nature]] of her commendation, in the present case, however, happened
 
 to be particularly ill-suited to the feelings of two thirds of her
 
@@ -476,7 +476,7 @@ got up to go away.
 
 
 
-And drawing him a little aside, she whispered her persuasion that Lucy
+And drawing him a little aside, she whispered her [[Persuasion|persuasion]] that Lucy
 
 could not stay much longer. But even this encouragement failed, for he
 
@@ -494,7 +494,7 @@ two hours, soon afterwards went away.
 
 “Why so?—we were all his friends, and Lucy has been the longest known
 
-to him of any. It is but natural that he should like to see her as well
+to him of any. It is but natural that he should like to see her as [[Well|well]]
 
 as ourselves.”
 
@@ -502,7 +502,7 @@ as ourselves.”
 
 Marianne looked at her steadily, and said, “You know, Elinor, that this
 
-is a kind of talking which I cannot bear. If you only hope to have your
+is a kind of talking which I cannot bear. If you only [[Hope|hope]] to have your
 
 assertion contradicted, as I must suppose to be the case, you ought to
 
@@ -520,11 +520,11 @@ no information that would convince Marianne; and painful as the
 
 consequences of her still continuing in an error might be, she was
 
-obliged to submit to it. All that she could hope, was that Edward would
+obliged to submit to it. All that she could [[Hope|hope]], was that Edward would
 
 not often expose her or himself to the distress of hearing Marianne’s
 
-mistaken warmth, nor to the repetition of any other part of the pain
+mistaken warmth, nor to the repetition of any other part of the [[Pain|pain]]
 
 that had attended their recent meeting—and this she had every reason to
 

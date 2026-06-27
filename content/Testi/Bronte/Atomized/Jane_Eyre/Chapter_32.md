@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 32"
+title: "[[Jane Eyre]] — Chapter 32"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -18,9 +18,9 @@ CHAPTER XXXII
 
 
 I continued the labours of the village-school as actively and
-faithfully as I could. It was truly hard work at first. Some time
+faithfully as I could. It was truly hard work at first. Some [[Time|time]]
 elapsed before, with all my efforts, I could comprehend my scholars and
-their nature. Wholly untaught, with faculties quite torpid, they seemed
+their [[Nature|nature]]. Wholly untaught, with faculties quite torpid, they seemed
 to me hopelessly dull; and, at first sight, all dull alike: but I soon
 found I was mistaken. There was a difference amongst them as amongst
 the educated; and when I got to know them, and they me, this difference
@@ -28,16 +28,16 @@ rapidly developed itself. Their amazement at me, my language, my rules,
 and ways, once subsided, I found some of these heavy-looking, gaping
 rustics wake up into sharp-witted girls enough. Many showed themselves
 obliging, and amiable too; and I discovered amongst them not a few
-examples of natural politeness, and innate self-respect, as well as of
+examples of natural politeness, and innate [[Self|self]]-respect, as [[Well|well]] as of
 excellent capacity, that won both my goodwill and my admiration. These
-soon took a pleasure in doing their work well, in keeping their persons
+soon took a pleasure in doing their work [[Well|well]], in keeping their persons
 neat, in learning their tasks regularly, in acquiring quiet and orderly
 manners. The rapidity of their progress, in some instances, was even
-surprising; and an honest and happy pride I took in it: besides, I
+surprising; and an honest and happy [[Pride|pride]] I took in it: besides, I
 began personally to like some of the best girls; and they liked me. I
 had amongst my scholars several farmers’ daughters: young women grown,
 almost. These could already read, write, and sew; and to them I taught
-the elements of grammar, geography, history, and the finer kinds of
+the elements of grammar, geography, [[history]], and the finer kinds of
 needlework. I found estimable characters amongst them—characters
 desirous of information and disposed for improvement—with whom I passed
 many a pleasant evening hour in their own homes. Their parents then
@@ -57,22 +57,22 @@ period of my life, my heart far oftener swelled with thankfulness than
 sank with dejection: and yet, reader, to tell you all, in the midst of
 this calm, this useful existence—after a day passed in honourable
 exertion amongst my scholars, an evening spent in drawing or reading
-contentedly alone—I used to rush into strange dreams at night: dreams
+contentedly [[Alone|alone]]—I used to rush into strange [[Dreams|dreams]] at [[Night|night]]: [[Dreams|dreams]]
 many-coloured, agitated, full of the ideal, the stirring, the
-stormy—dreams where, amidst unusual scenes, charged with adventure,
+stormy—[[Dreams|dreams]] where, amidst unusual scenes, charged with adventure,
 with agitating risk and romantic chance, I still again and again met
 Mr. Rochester, always at some exciting crisis; and then the sense of
 being in his arms, hearing his voice, meeting his eye, touching his
-hand and cheek, loving him, being loved by him—the hope of passing a
+hand and cheek, loving him, being loved by him—the [[Hope|hope]] of passing a
 lifetime at his side, would be renewed, with all its first force and
-fire. Then I awoke. Then I recalled where I was, and how situated. Then
-I rose up on my curtainless bed, trembling and quivering; and then the
-still, dark night witnessed the convulsion of despair, and heard the
-burst of passion. By nine o’clock the next morning I was punctually
+[[Fire|fire]]. Then I awoke. Then I recalled where I was, and how situated. Then
+I [[Rose|rose]] up on my curtainless bed, trembling and quivering; and then the
+still, dark [[Night|night]] witnessed the convulsion of [[Despair|despair]], and heard the
+burst of passion. By nine o’[[Clock|clock]] the next morning I was punctually
 opening the school; tranquil, settled, prepared for the steady duties
 of the day.
 
-Rosamond Oliver kept her word in coming to visit me. Her call at the
+Rosamond [[Oliver]] kept her word in coming to visit me. Her call at the
 school was generally made in the course of her morning ride. She would
 canter up to the door on her pony, followed by a mounted livery
 servant. Anything more exquisite than her appearance, in her purple
@@ -81,7 +81,7 @@ the long curls that kissed her cheek and floated to her shoulders, can
 scarcely be imagined: and it was thus she would enter the rustic
 building, and glide through the dazzled ranks of the village children.
 She generally came at the hour when Mr. Rivers was engaged in giving
-his daily catechising lesson. Keenly, I fear, did the eye of the
+his daily catechising lesson. Keenly, I [[Fear|fear]], did the eye of the
 visitress pierce the young pastor’s heart. A sort of instinct seemed to
 warn him of her entrance, even when he did not see it; and when he was
 looking quite away from the door, if she appeared at it, his cheek
@@ -95,62 +95,62 @@ not, conceal it from her. In spite of his Christian stoicism, when she
 went up and addressed him, and smiled gaily, encouragingly, even fondly
 in his face, his hand would tremble and his eye burn. He seemed to say,
 with his sad and resolute look, if he did not say it with his lips, “I
-love you, and I know you prefer me. It is not despair of success that
+[[Love|love]] you, and I know you prefer me. It is not [[Despair|despair]] of [[success]] that
 keeps me dumb. If I offered my heart, I believe you would accept it.
-But that heart is already laid on a sacred altar: the fire is arranged
+But that heart is already laid on a sacred altar: the [[Fire|fire]] is arranged
 round it. It will soon be no more than a sacrifice consumed.”
 
-And then she would pout like a disappointed child; a pensive cloud
+And then she would pout like a disappointed [[Child|child]]; a pensive cloud
 would soften her radiant vivacity; she would withdraw her hand hastily
 from his, and turn in transient petulance from his aspect, at once so
-heroic and so martyr-like. St. John, no doubt, would have given the
+heroic and so martyr-like. St. John, no [[Doubt|doubt]], would have given the
 world to follow, recall, retain her, when she thus left him; but he
 would not give one chance of heaven, nor relinquish, for the elysium of
-her love, one hope of the true, eternal Paradise. Besides, he could not
-bind all that he had in his nature—the rover, the aspirant, the poet,
+her [[Love|love]], one [[Hope|hope]] of the true, eternal Paradise. Besides, he could not
+bind all that he had in his [[Nature|nature]]—the rover, the aspirant, the poet,
 the priest—in the limits of a single passion. He could not—he would
 not—renounce his wild field of mission warfare for the parlours and the
 peace of Vale Hall. I learnt so much from himself in an inroad I once,
 despite his reserve, had the daring to make on his confidence.
 
-Miss Oliver already honoured me with frequent visits to my cottage. I
+Miss [[Oliver]] already honoured me with frequent visits to my cottage. I
 had learnt her whole character, which was without mystery or disguise:
 she was coquettish but not heartless; exacting, but not worthlessly
 selfish. She had been indulged from her birth, but was not absolutely
 spoilt. She was hasty, but good-humoured; vain (she could not help it,
 when every glance in the glass showed her such a flush of loveliness),
-but not affected; liberal-handed; innocent of the pride of wealth;
+but not affected; liberal-handed; [[Innocent|innocent]] of the [[Pride|pride]] of wealth;
 ingenuous; sufficiently intelligent; gay, lively, and unthinking: she
 was very charming, in short, even to a cool observer of her own sex
 like me; but she was not profoundly interesting or thoroughly
 impressive. A very different sort of mind was hers from that, for
 instance, of the sisters of St. John. Still, I liked her almost as I
-liked my pupil Adèle; except that, for a child whom we have watched
+liked my pupil Adèle; except that, for a [[Child|child]] whom we have watched
 over and taught, a closer affection is engendered than we can give an
 equally attractive adult acquaintance.
 
 She had taken an amiable caprice to me. She said I was like Mr. Rivers,
 only, certainly, she allowed, “not one-tenth so handsome, though I was
-a nice neat little soul enough, but he was an angel.” I was, however,
+a nice neat little [[Soul|soul]] enough, but he was an angel.” I was, however,
 good, clever, composed, and firm, like him. I was a _lusus naturæ_, she
 affirmed, as a village schoolmistress: she was sure my previous
-history, if known, would make a delightful romance.
+[[history]], if known, would make a delightful [[Romance|romance]].
 
-One evening, while, with her usual child-like activity, and thoughtless
+One evening, while, with her usual [[Child|child]]-like activity, and thoughtless
 yet not offensive inquisitiveness, she was rummaging the cupboard and
 the table-drawer of my little kitchen, she discovered first two French
 books, a volume of Schiller, a German grammar and dictionary, and then
 my drawing-materials and some sketches, including a pencil-head of a
 pretty little cherub-like girl, one of my scholars, and sundry views
-from nature, taken in the Vale of Morton and on the surrounding moors.
+from [[Nature|nature]], taken in the Vale of Morton and on the surrounding moors.
 She was first transfixed with surprise, and then electrified with
 delight.
 
 “Had I done these pictures? Did I know French and German? What a
-love—what a miracle I was! I drew better than her master in the first
-school in S——. Would I sketch a portrait of her, to show to papa?”
+[[Love|love]]—what a miracle I was! I drew better than her master in the first
+school in S——. Would I [[Sketch|sketch]] a portrait of her, to show to papa?”
 
-“With pleasure,” I replied; and I felt a thrill of artist-delight at
+“With pleasure,” I replied; and I felt a thrill of [[artist]]-delight at
 the idea of copying from so perfect and radiant a model. She had then
 on a dark-blue silk dress; her arms and her neck were bare; her only
 ornament was her chestnut tresses, which waved over her shoulders with
@@ -159,18 +159,18 @@ and drew a careful outline. I promised myself the pleasure of colouring
 it; and, as it was getting late then, I told her she must come and sit
 another day.
 
-She made such a report of me to her father, that Mr. Oliver himself
+She made such a report of me to her father, that Mr. [[Oliver]] himself
 accompanied her next evening—a tall, massive-featured, middle-aged, and
 grey-headed man, at whose side his lovely daughter looked like a bright
 flower near a hoary turret. He appeared a taciturn, and perhaps a proud
-personage; but he was very kind to me. The sketch of Rosamond’s
+personage; but he was very kind to me. The [[Sketch|sketch]] of Rosamond’s
 portrait pleased him highly: he said I must make a finished picture of
 it. He insisted, too, on my coming the next day to spend the evening at
 Vale Hall.
 
 I went. I found it a large, handsome residence, showing abundant
 evidences of wealth in the proprietor. Rosamond was full of glee and
-pleasure all the time I stayed. Her father was affable; and when he
+pleasure all the [[Time|time]] I stayed. Her father was affable; and when he
 entered into conversation with me after tea, he expressed in strong
 terms his approbation of what I had done in Morton school, and said he
 only feared, from what he saw and heard, I was too good for the place,
@@ -180,42 +180,42 @@ and would soon quit it for one more suitable.
 high family, papa.”
 
 I thought I would far rather be where I am than in any high family in
-the land. Mr. Oliver spoke of Mr. Rivers—of the Rivers family—with
+the land. Mr. [[Oliver]] spoke of Mr. Rivers—of the Rivers family—with
 great respect. He said it was a very old name in that neighbourhood;
-that the ancestors of the house were wealthy; that all Morton had once
+that the ancestors of the [[house]] were wealthy; that all Morton had once
 belonged to them; that even now he considered the representative of
-that house might, if he liked, make an alliance with the best. He
+that [[house]] might, if he liked, make an alliance with the best. He
 accounted it a pity that so fine and talented a young man should have
 formed the design of going out as a missionary; it was quite throwing a
 valuable life away. It appeared, then, that her father would throw no
-obstacle in the way of Rosamond’s union with St. John. Mr. Oliver
+obstacle in the way of Rosamond’s [[Union|union]] with St. John. Mr. [[Oliver]]
 evidently regarded the young clergyman’s good birth, old name, and
 sacred profession as sufficient compensation for the want of fortune.
 
 It was the 5th of November, and a holiday. My little servant, after
-helping me to clean my house, was gone, well satisfied with the fee of
+helping me to clean my [[house]], was gone, [[Well|well]] satisfied with the fee of
 a penny for her aid. All about me was spotless and bright—scoured
-floor, polished grate, and well-rubbed chairs. I had also made myself
+floor, polished grate, and [[Well|well]]-rubbed chairs. I had also made myself
 neat, and had now the afternoon before me to spend as I would.
 
-The translation of a few pages of German occupied an hour; then I got
+The [[Translation|translation]] of a few pages of German occupied an hour; then I got
 my palette and pencils, and fell to the more soothing, because easier
-occupation, of completing Rosamond Oliver’s miniature. The head was
+occupation, of completing Rosamond [[Oliver]]’s miniature. The head was
 finished already: there was but the background to tint and the drapery
 to shade off; a touch of carmine, too, to add to the ripe lips—a soft
-curl here and there to the tresses—a deeper tinge to the shadow of the
+curl here and there to the tresses—a deeper tinge to the [[Shadow|shadow]] of the
 lash under the azured eyelid. I was absorbed in the execution of these
 nice details, when, after one rapid tap, my door unclosed, admitting
 St. John Rivers.
 
 “I am come to see how you are spending your holiday,” he said. “Not, I
-hope, in thought? No, that is well: while you draw you will not feel
+[[Hope|hope]], in thought? No, that is [[Well|well]]: while you draw you will not feel
 lonely. You see, I mistrust you still, though you have borne up
 wonderfully so far. I have brought you a book for evening solace,” and
 he laid on the table a new publication—a poem: one of those genuine
 productions so often vouchsafed to the fortunate public of those
-days—the golden age of modern literature. Alas! the readers of our era
-are less favoured. But courage! I will not pause either to accuse or
+days—the [[Golden Age|golden age]] of modern literature. Alas! the readers of our era
+are less favoured. But [[Courage|courage]]! I will not pause either to accuse or
 repine. I know poetry is not dead, nor genius lost; nor has Mammon
 gained power over either, to bind or slay: they will both assert their
 existence, their presence, their liberty and strength again one day.
@@ -229,22 +229,22 @@ of your own meanness.
 While I was eagerly glancing at the bright pages of “Marmion” (for
 “Marmion” it was), St. John stooped to examine my drawing. His tall
 figure sprang erect again with a start: he said nothing. I looked up at
-him: he shunned my eye. I knew his thoughts well, and could read his
+him: he shunned my eye. I knew his thoughts [[Well|well]], and could read his
 heart plainly; at the moment I felt calmer and cooler than he: I had
 then temporarily the advantage of him, and I conceived an inclination
 to do him some good, if I could.
 
-“With all his firmness and self-control,” thought I, “he tasks himself
+“With all his firmness and [[Self|self]]-control,” thought I, “he tasks himself
 too far: locks every feeling and pang within—expresses, confesses,
 imparts nothing. I am sure it would benefit him to talk a little about
 this sweet Rosamond, whom he thinks he ought not to marry: I will make
 him talk.”
 
 I said first, “Take a chair, Mr. Rivers.” But he answered, as he always
-did, that he could not stay. “Very well,” I responded, mentally, “stand
-if you like; but you shall not go just yet, I am determined: solitude
+did, that he could not stay. “Very [[Well|well]],” I responded, mentally, “stand
+if you like; but you shall not go just yet, I am determined: [[Solitude|solitude]]
 is at least as bad for you as it is for me. I’ll try if I cannot
-discover the secret spring of your confidence, and find an aperture in
+discover the secret [[Spring|spring]] of your confidence, and find an aperture in
 that marble breast through which I can shed one drop of the balm of
 sympathy.”
 
@@ -259,25 +259,25 @@ astonished. “Oh, that is nothing yet,” I muttered within. “I don’t mean
 to be baffled by a little stiffness on your part; I’m prepared to go to
 considerable lengths.” I continued, “You observed it closely and
 distinctly; but I have no objection to your looking at it again,” and I
-rose and placed it in his hand.
+[[Rose|rose]] and placed it in his hand.
 
-“A well-executed picture,” he said; “very soft, clear colouring; very
+“A [[Well|well]]-executed picture,” he said; “very soft, clear colouring; very
 graceful and correct drawing.”
 
 “Yes, yes; I know all that. But what of the resemblance? Who is it
 like?”
 
-Mastering some hesitation, he answered, “Miss Oliver, I presume.”
+Mastering some hesitation, he answered, “Miss [[Oliver]], I presume.”
 
 “Of course. And now, sir, to reward you for the accurate guess, I will
 promise to paint you a careful and faithful duplicate of this very
 picture, provided you admit that the gift would be acceptable to you. I
-don’t wish to throw away my time and trouble on an offering you would
+don’t wish to throw away my [[Time|time]] and trouble on an offering you would
 deem worthless.”
 
 He continued to gaze at the picture: the longer he looked, the firmer
 he held it, the more he seemed to covet it. “It is like!” he murmured;
-“the eye is well managed: the colour, light, expression, are perfect.
+“the eye is [[Well|well]] managed: the colour, light, expression, are perfect.
 It smiles!”
 
 “Would it comfort, or would it wound you to have a similar painting?
@@ -295,15 +295,15 @@ judicious or wise is another question.”
 Since I had ascertained that Rosamond really preferred him, and that
 her father was not likely to oppose the match, I—less exalted in my
 views than St. John—had been strongly disposed in my own heart to
-advocate their union. It seemed to me that, should he become the
-possessor of Mr. Oliver’s large fortune, he might do as much good with
+advocate their [[Union|union]]. It seemed to me that, should he become the
+possessor of Mr. [[Oliver]]’s large fortune, he might do as much good with
 it as if he went and laid his genius out to wither, and his strength to
-waste, under a tropical sun. With this persuasion I now answered—
+waste, under a tropical sun. With this [[Persuasion|persuasion]] I now answered—
 
 “As far as I can see, it would be wiser and more judicious if you were
 to take to yourself the original at once.”
 
-By this time he had sat down: he had laid the picture on the table
+By this [[Time|time]] he had sat down: he had laid the picture on the table
 before him, and with his brow supported on both hands, hung fondly over
 it. I discerned he was now neither angry nor shocked at my audacity. I
 saw even that to be thus frankly addressed on a subject he had deemed
@@ -327,44 +327,44 @@ often.”
 
 “It is very pleasant to hear this,” he said—“very: go on for another
 quarter of an hour.” And he actually took out his watch and laid it
-upon the table to measure the time.
+upon the table to measure the [[Time|time]].
 
 “But where is the use of going on,” I asked, “when you are probably
 preparing some iron blow of contradiction, or forging a fresh chain to
 fetter your heart?”
 
 “Don’t imagine such hard things. Fancy me yielding and melting, as I am
-doing: human love rising like a freshly opened fountain in my mind and
+doing: human [[Love|love]] rising like a freshly opened fountain in my mind and
 overflowing with sweet inundation all the field I have so carefully and
 with such labour prepared—so assiduously sown with the seeds of good
-intentions, of self-denying plans. And now it is deluged with a
-nectarous flood—the young germs swamped—delicious poison cankering
+intentions, of [[Self|self]]-denying plans. And now it is deluged with a
+nectarous flood—the young germs swamped—delicious [[Poison|poison]] cankering
 them: now I see myself stretched on an ottoman in the drawing-room at
-Vale Hall at my bride Rosamond Oliver’s feet: she is talking to me with
+Vale Hall at my bride Rosamond [[Oliver]]’s feet: she is talking to me with
 her sweet voice—gazing down on me with those eyes your skilful hand has
-copied so well—smiling at me with these coral lips. She is mine—I am
+copied so [[Well|well]]—smiling at me with these coral lips. She is mine—I am
 hers—this present life and passing world suffice to me. Hush! say
 nothing—my heart is full of delight—my senses are entranced—let the
-time I marked pass in peace.”
+[[Time|time]] I marked pass in peace.”
 
 I humoured him: the watch ticked on: he breathed fast and low: I stood
 silent. Amidst this hush the quartet sped; he replaced the watch, laid
-the picture down, rose, and stood on the hearth.
+the picture down, [[Rose|rose]], and stood on the hearth.
 
 “Now,” said he, “that little space was given to delirium and delusion.
-I rested my temples on the breast of temptation, and put my neck
-voluntarily under her yoke of flowers; I tasted her cup. The pillow was
+I rested my temples on the breast of [[Temptation|temptation]], and put my neck
+voluntarily under her yoke of [[Flowers|flowers]]; I tasted her cup. The pillow was
 burning: there is an asp in the garland: the wine has a bitter taste:
 her promises are hollow—her offers false: I see and know all this.”
 
-I gazed at him in wonder.
+I gazed at him in [[Wonder|wonder]].
 
-“It is strange,” pursued he, “that while I love Rosamond Oliver so
+“It is strange,” pursued he, “that while I [[Love|love]] Rosamond [[Oliver]] so
 wildly—with all the intensity, indeed, of a first passion, the object
 of which is exquisitely beautiful, graceful, fascinating—I experience
-at the same time a calm, unwarped consciousness that she would not make
+at the same [[Time|time]] a calm, unwarped consciousness that she would not make
 me a good wife; that she is not the partner suited to me; that I should
-discover this within a year after marriage; and that to twelve months’
+discover this within a year after [[Marriage|marriage]]; and that to twelve months’
 rapture would succeed a lifetime of regret. This I know.”
 
 “Strange indeed!” I could not help ejaculating.
@@ -381,15 +381,15 @@ apostle? Rosamond a missionary’s wife? No!”
 earth for a mansion in heaven? My hopes of being numbered in the band
 who have merged all ambitions in the glorious one of bettering their
 race—of carrying knowledge into the realms of ignorance—of substituting
-peace for war—freedom for bondage—religion for superstition—the hope of
-heaven for the fear of hell? Must I relinquish that? It is dearer than
-the blood in my veins. It is what I have to look forward to, and to
+peace for war—[[Freedom|freedom]] for bondage—religion for superstition—the [[Hope|hope]] of
+heaven for the [[Fear|fear]] of hell? Must I relinquish that? It is dearer than
+the [[Blood|blood]] in my veins. It is what I have to look forward to, and to
 live for.”
 
-After a considerable pause, I said—“And Miss Oliver? Are her
+After a considerable pause, I said—“And Miss [[Oliver]]? Are her
 disappointment and sorrow of no interest to you?”
 
-“Miss Oliver is ever surrounded by suitors and flatterers: in less than
+“Miss [[Oliver]] is ever surrounded by suitors and flatterers: in less than
 a month, my image will be effaced from her heart. She will forget me;
 and will marry, probably, some one who will make her far happier than I
 should do.”
@@ -403,35 +403,35 @@ I received intelligence that the successor, whose arrival I have been
 so long expecting, cannot be ready to replace me for three months to
 come yet; and perhaps the three months may extend to six.”
 
-“You tremble and become flushed whenever Miss Oliver enters the
+“You tremble and become flushed whenever Miss [[Oliver]] enters the
 schoolroom.”
 
 Again the surprised expression crossed his face. He had not imagined
-that a woman would dare to speak so to a man. For me, I felt at home in
+that a woman would dare to speak so to a man. For me, I felt at [[Home|home]] in
 this sort of discourse. I could never rest in communication with
 strong, discreet, and refined minds, whether male or female, till I had
 passed the outworks of conventional reserve, and crossed the threshold
 of confidence, and won a place by their heart’s very hearthstone.
 
 “You _are_ original,” said he, “and not timid. There is something brave
-in your spirit, as well as penetrating in your eye; but allow me to
+in your spirit, as [[Well|well]] as penetrating in your eye; but allow me to
 assure you that you partially misinterpret my emotions. You think them
 more profound and potent than they are. You give me a larger allowance
 of sympathy than I have a just claim to. When I colour, and when I
-shake before Miss Oliver, I do not pity myself. I scorn the weakness. I
+shake before Miss [[Oliver]], I do not pity myself. I scorn the weakness. I
 know it is ignoble: a mere fever of the flesh: not, I declare, the
-convulsion of the soul. _That_ is just as fixed as a rock, firm set in
+convulsion of the [[Soul|soul]]. _That_ is just as fixed as a rock, firm set in
 the depths of a restless sea. Know me to be what I am—a cold hard man.”
 
 I smiled incredulously.
 
-“You have taken my confidence by storm,” he continued, “and now it is
+“You have taken my confidence by [[Storm|storm]],” he continued, “and now it is
 much at your service. I am simply, in my original state—stripped of
-that blood-bleached robe with which Christianity covers human
+that [[Blood|blood]]-bleached robe with which [[Christianity]] covers human
 deformity—a cold, hard, ambitious man. Natural affection only, of all
 the sentiments, has permanent power over me. Reason, and not feeling,
-is my guide; my ambition is unlimited: my desire to rise higher, to do
-more than others, insatiable. I honour endurance, perseverance,
+is my guide; my [[Ambition|ambition]] is unlimited: my [[Desire|desire]] to rise higher, to do
+more than others, insatiable. I [[Honour|honour]] [[Endurance|endurance]], perseverance,
 industry, talent; because these are the means by which men achieve
 great ends and mount to lofty eminence. I watch your career with
 interest, because I consider you a specimen of a diligent, orderly,
@@ -448,18 +448,18 @@ advocate them: I am sworn to spread them. Won in youth to religion, she
 has cultivated my original qualities thus:—From the minute germ,
 natural affection, she has developed the overshadowing tree,
 philanthropy. From the wild stringy root of human uprightness, she has
-reared a due sense of the Divine justice. Of the ambition to win power
-and renown for my wretched self, she has formed the ambition to spread
+reared a due sense of the Divine justice. Of the [[Ambition|ambition]] to win power
+and renown for my wretched [[Self|self]], she has formed the [[Ambition|ambition]] to spread
 my Master’s kingdom; to achieve victories for the standard of the
-cross. So much has religion done for me; turning the original materials
-to the best account; pruning and training nature. But she could not
-eradicate nature: nor will it be eradicated ‘till this mortal shall put
-on immortality.’”
+[[Cross|cross]]. So much has religion done for me; turning the original materials
+to the best account; pruning and training [[Nature|nature]]. But she could not
+eradicate [[Nature|nature]]: nor will it be eradicated ‘till this mortal shall put
+on [[Immortality|immortality]].’”
 
 Having said this, he took his hat, which lay on the table beside my
 palette. Once more he looked at the portrait.
 
-“She _is_ lovely,” he murmured. “She is well named the Rose of the
+“She _is_ lovely,” he murmured. “She is [[Well|well]] named the [[Rose]] of the
 World, indeed!”
 
 “And may I not paint one like it for you?”
@@ -473,7 +473,7 @@ impossible for me to tell; but something had caught his eye. He took it
 up with a snatch; he looked at the edge; then shot a glance at me,
 inexpressibly peculiar, and quite incomprehensible: a glance that
 seemed to take and make note of every point in my shape, face, and
-dress; for it traversed all, quick, keen as lightning. His lips parted,
+dress; for it traversed all, quick, keen as [[Lightning|lightning]]. His lips parted,
 as if to speak: but he checked the coming sentence, whatever it was.
 
 “What is the matter?” I asked.
@@ -482,7 +482,7 @@ as if to speak: but he checked the coming sentence, whatever it was.
 him dexterously tear a narrow slip from the margin. It disappeared in
 his glove; and, with one hasty nod and “good-afternoon,” he vanished.
 
-“Well!” I exclaimed, using an expression of the district, “that caps
+“[[Well]]!” I exclaimed, using an expression of the district, “that caps
 the globe, however!”
 
 I, in my turn, scrutinised the paper; but saw nothing on it save a few

@@ -16,7 +16,7 @@ tags:
 
       the universe, a circle of analogies to that expression. I mean to
 
-      say that, subsequently to the period when Ligeia’s beauty passed
+      say that, subsequently to the period when Ligeia’s [[Beauty|beauty]] passed
 
       into my spirit, there dwelling as in a shrine, I derived, from
 
@@ -30,15 +30,15 @@ tags:
 
       the survey of a rapidly-growing vine—in the contemplation of a
 
-      moth, a butterfly, a chrysalis, a stream of running water. I have
+      moth, a butterfly, a chrysalis, a stream of running [[Water|water]]. I have
 
       felt it in the ocean—in the falling of a meteor. I have felt it
 
       in the glances of unusually aged people. And there are one or two
 
-      stars in heaven—(one especially, a star of the sixth magnitude,
+      [[Stars|stars]] in heaven—(one especially, a star of the sixth magnitude,
 
-      double and changeable, to be found near the large star in Lyra)
+      [[Double|double]] and changeable, to be found near the large star in Lyra)
 
       in a telescopic scrutiny of which I have been made aware of the
 
@@ -46,7 +46,7 @@ tags:
 
       stringed instruments, and not unfrequently by passages from
 
-      books. Among innumerable other instances, I well remember
+      books. Among innumerable other instances, I [[Well|well]] remember
 
       something in a volume of Joseph Glanvill, which (perhaps merely
 
@@ -56,9 +56,9 @@ tags:
 
       Who knoweth the mysteries of the will, with its vigor? For God is
 
-      but a great will pervading all things by nature of its
+      but a great will pervading all things by [[Nature|nature]] of its
 
-      intentness. Man doth not yield him to the angels, nor unto death
+      intentness. Man doth not yield him to the angels, nor unto [[Death|death]]
 
       utterly, save only through the weakness of his feeble will.”
 
@@ -112,7 +112,7 @@ tags:
 
       have I ever found Ligeia at fault? How singularly—how
 
-      thrillingly, this one point in the nature of my wife has forced
+      thrillingly, this one point in the [[Nature|nature]] of my wife has forced
 
       itself, at this late period only, upon my attention! I said her
 
@@ -128,15 +128,15 @@ tags:
 
       aware of her infinite supremacy to resign myself, with a
 
-      child-like confidence, to her guidance through the chaotic world
+      [[Child|child]]-like confidence, to her guidance through the chaotic world
 
       of metaphysical investigation at which I was most busily occupied
 
-      during the earlier years of our marriage. With how vast a
+      during the earlier years of our [[Marriage|marriage]]. With how vast a
 
       triumph—with how vivid a delight—with how much of all that is
 
-      ethereal in hope did I feel, as she bent over me in studies but
+      ethereal in [[Hope|hope]] did I feel, as she bent over me in studies but
 
       little sought—but less known—that delicious vista by slow degrees
 
@@ -150,11 +150,11 @@ tags:
 
       How poignant, then, must have been the grief with which, after
 
-      some years, I beheld my well-grounded expectations take wings to
+      some years, I beheld my [[Well|well]]-grounded expectations take wings to
 
-      themselves and fly away! Without Ligeia I was but as a child
+      themselves and fly away! Without Ligeia I was but as a [[Child|child]]
 
-      groping benighted. Her presence, her readings alone, rendered
+      groping benighted. Her presence, her readings [[Alone|alone]], rendered
 
       vividly luminous the many mysteries of the transcendentalism in
 
@@ -168,7 +168,7 @@ tags:
 
       too—too glorious effulgence; the pale fingers became of the
 
-      transparent waxen hue of the grave; and the blue veins upon the
+      transparent waxen hue of the [[Grave|grave]]; and the blue veins upon the
 
       lofty forehead swelled and sank impetuously with the tides of the
 
@@ -178,18 +178,18 @@ tags:
 
       the passionate wife were, to my astonishment, even more energetic
 
-      than my own. There had been much in her stern nature to impress
+      than my own. There had been much in her stern [[Nature|nature]] to impress
 
-      me with the belief that, to her, death would have come without
+      me with the belief that, to her, [[Death|death]] would have come without
 
       its terrors; but not so. Words are impotent to convey any just
 
       idea of the fierceness of resistance with which she wrestled with
 
-      the Shadow. I groaned in anguish at the pitiable spectacle. I
+      the [[Shadow]]. I groaned in anguish at the pitiable spectacle. I
 
       would have soothed—I would have reasoned; but, in the intensity
 
-      of her wild desire for life,—for life—but for life—solace and
+      of her wild [[Desire|desire]] for life,—for life—but for life—solace and
 
       reason were the uttermost folly. Yet not until the last instance,

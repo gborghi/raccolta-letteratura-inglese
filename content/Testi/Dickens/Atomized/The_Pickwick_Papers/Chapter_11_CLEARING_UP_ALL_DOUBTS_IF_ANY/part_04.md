@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 4)"
+title: "The [[Pickwick]] Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -44,7 +44,7 @@ with passion.
 table, ‘pray, consider--pray. Defamation of character: action for
 damages. Calm yourself, my dear sir, pray--’
 
-‘How dare you drag my sister from my house?’ said the old man.
+‘How dare you drag my sister from my [[house]]?’ said the old man.
 
 Ay--ay--very good,’ said the little gentleman, ‘you may ask that. How
 dare you, sir?--eh, sir?’
@@ -55,7 +55,7 @@ the little gentleman involuntarily fell back a step or two.
 ‘Who is he, you scoundrel,’ interposed Wardle. ‘He’s my lawyer, Mr.
 Perker, of Gray’s Inn. Perker, I’ll have this fellow prosecuted--
 indicted--I’ll--I’ll--I’ll ruin him. And you,’ continued Mr. Wardle,
-turning abruptly round to his sister--‘you, Rachael, at a time of life
+turning abruptly round to his sister--‘you, Rachael, at a [[Time|time]] of life
 when you ought to know better, what do you mean by running away with a
 vagabond, disgracing your family, and making yourself miserable? Get on
 your bonnet and come back. Call a hackney-coach there, directly, and
@@ -81,15 +81,15 @@ her determination to faint.
 
 Here the spinster aunt uttered a loud shriek, and became senseless.
 
-‘A glass of water,’ said the humane Mr. Pickwick, summoning the
+‘A glass of [[Water|water]],’ said the humane Mr. [[Pickwick]], summoning the
 landlady.
 
-‘A glass of water!’ said the passionate Wardle. ‘Bring a bucket, and
+‘A glass of [[Water|water]]!’ said the passionate Wardle. ‘Bring a bucket, and
 throw it all over her; it’ll do her good, and she richly deserves it.’
 
 ‘Ugh, you brute!’ ejaculated the kind-hearted landlady. ‘Poor dear.’ And
 with sundry ejaculations of ‘Come now, there’s a dear--drink a little of
-this--it’ll do you good--don’t give way so--there’s a love,’ etc. etc.,
+this--it’ll do you good--don’t give way so--there’s a [[Love|love]],’ etc. etc.,
 the landlady, assisted by a chambermaid, proceeded to vinegar the
 forehead, beat the hands, titillate the nose, and unlace the stays of
 the spinster aunt, and to administer such other restoratives as are
@@ -118,7 +118,7 @@ dares to take her away--unless she wishes it.’
 it.’ (Here there was a frightful relapse.)
 
 ‘My dear Sir,’ said the little man, in a low tone, taking Mr. Wardle and
-Mr. Pickwick apart--‘my dear Sir, we’re in a very awkward situation.
+Mr. [[Pickwick]] apart--‘my dear Sir, we’re in a very awkward situation.
 It’s a distressing case--very; I never knew one more so; but really, my
 dear sir, really we have no power to control this lady’s actions. I
 warned you before we came, my dear sir, that there was nothing to look
@@ -126,12 +126,12 @@ to but a compromise.’
 
 There was a short pause.
 
-‘What kind of compromise would you recommend?’ inquired Mr. Pickwick.
+‘What kind of compromise would you recommend?’ inquired Mr. [[Pickwick]].
 
 ‘Why, my dear Sir, our friend’s in an unpleasant position--very much so.
 We must be content to suffer some pecuniary loss.’
 
-‘I’ll suffer any, rather than submit to this disgrace, and let her, fool
+‘I’ll suffer any, rather than submit to this disgrace, and let her, [[Fool|fool]]
 as she is, be made miserable for life,’ said Wardle.
 
 ‘I rather think it can be done,’ said the bustling little man. ‘Mr.
@@ -141,11 +141,11 @@ Mr. Jingle assented, and the quartette walked into an empty apartment.
 
 ‘Now, sir,’ said the little man, as he carefully closed the door, ‘is
 there no way of accommodating this matter--step this way, sir, for a
-moment--into this window, Sir, where we can be alone--there, sir, there,
+moment--into this [[Window|window]], Sir, where we can be [[Alone|alone]]--there, sir, there,
 pray sit down, sir. Now, my dear Sir, between you and I, we know very
-well, my dear Sir, that you have run off with this lady for the sake of
+[[Well|well]], my dear Sir, that you have run off with this lady for the sake of
 her money. Don’t frown, Sir, don’t frown; I say, between you and I, _we_
-know it. We are both men of the world, and WE know very well that our
+know it. We are both men of the world, and WE know very [[Well|well]] that our
 friends here, are not--eh?’
 
 Mr. Jingle’s face gradually relaxed; and something distantly resembling
@@ -153,5 +153,5 @@ a wink quivered for an instant in his left eye.
 
 ‘Very good, very good,’ said the little man, observing the impression he
 had made. ‘Now, the fact is, that beyond a few hundreds, the lady has
-little or nothing till the death of her mother--fine old lady, my dear
+little or nothing till the [[Death|death]] of her mother--fine old lady, my dear
 Sir.’

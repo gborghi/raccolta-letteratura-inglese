@@ -1,5 +1,5 @@
 ---
-title: "Mystification"
+title: "[[Mystification]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/Mystification-(Poe)"
@@ -29,7 +29,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       some description—the majority for that species of _grotesquerie_
 
-      in conception of which Tieck, a scion of the house, has given a
+      in conception of which Tieck, a scion of the [[house]], has given a
 
       vivid, although by no means the most vivid exemplifications. My
 
@@ -37,7 +37,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       Jung, into which a train of droll adventures, not to be made
 
-      public, threw me during the summer months of the year 18—. Here
+      public, threw me during the [[Summer|summer]] months of the year 18—. Here
 
       it was that I obtained a place in his regard, and here, with
 
@@ -57,7 +57,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       I remember the buzz of curiosity which his advent excited within
 
-      the college precincts on the night of the twenty-fifth of June. I
+      the college precincts on the [[Night|night]] of the twenty-fifth of June. I
 
       remember still more distinctly, that while he was pronounced by
 
@@ -79,7 +79,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       surrounded him, an influence the most extensive and despotic, yet
 
-      at the same time the most indefinite and altogether
+      at the same [[Time|time]] the most indefinite and altogether
 
       unaccountable. Thus the brief period of his residence at the
 
@@ -123,11 +123,11 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
 
 
-      It will be perceived, no doubt, from what I have already said,
+      It will be perceived, no [[Doubt|doubt]], from what I have already said,
 
       that the Baron was one of those human anomalies now and then to
 
-      be found, who make the science of mystification the study and the
+      be found, who make the science of [[Mystification|mystification]] the study and the
 
       business of their lives. For this science a peculiar turn of mind
 
@@ -147,7 +147,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       be capable of a joke, verbal or practical:—the old bull-dog at
 
-      the garden-gate would sooner have been accused,—the ghost of
+      the [[Garden|garden]]-gate would sooner have been accused,—the [[Ghost|ghost]] of
 
       Heraclitus,—or the wig of the Emeritus Professor of Theology.
 
@@ -159,11 +159,11 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       plainly through his intermediate agency or connivance. The
 
-      beauty, if I may so call it, of his art mystifique, lay in that
+      [[Beauty|beauty]], if I may so call it, of his art mystifique, lay in that
 
       consummate ability (resulting from an almost intuitive knowledge
 
-      of human nature, and a most wonderful self-possession,) by means
+      of human [[Nature|nature]], and a most wonderful [[Self|self]]-possession,) by means
 
       of which he never failed to make it appear that the drolleries he
 
@@ -179,13 +179,13 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       endeavors, would suffuse every lineament of his countenance, left
 
-      not the slightest room for doubt of his sincerity in the bosoms
+      not the slightest room for [[Doubt|doubt]] of his sincerity in the bosoms
 
       of even his most skeptical companions. The adroitness, too, was
 
       no less worthy of observation by which he contrived to shift the
 
-      sense of the grotesque from the creator to the created—from his
+      sense of the [[Grotesque|grotesque]] from the creator to the created—from his
 
       own person to the absurdities to which he had given rise. In no
 
@@ -201,7 +201,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       his own household have for a moment associated other ideas than
 
-      those of the rigid and august with the memory of the Baron
+      those of the rigid and august with the [[Memory|memory]] of the Baron
 
       Ritzner von Jung.
 
@@ -215,7 +215,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       drinking and making merry. The apartments of the students were
 
-      converted into so many pot-houses, and there was no pot-house of
+      converted into so many pot-houses, and there was no pot-[[house]] of
 
       them all more famous or more frequented than that of the Baron.
 
@@ -233,7 +233,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       and myself. Most of these were young men of wealth, of high
 
-      connection, of great family pride, and all alive with an
+      connection, of great family [[Pride|pride]], and all alive with an
 
       exaggerated sense of honor. They abounded in the most ultra
 
@@ -245,7 +245,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       impulse; and thus the conversation, during the greater part of
 
-      the night, had run wild upon the all-engrossing topic of the
+      the [[Night|night]], had run wild upon the all-engrossing topic of the
 
       times. The Baron, who had been unusually silent and abstracted in
 
@@ -263,7 +263,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       from his hearers in general, and absolutely staggered even
 
-      myself, who well knew him to be at heart a ridiculer of those
+      myself, who [[Well|well]] knew him to be at heart a ridiculer of those
 
       very points for which he contended, and especially to hold the
 
@@ -287,7 +287,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       every respect—except, perhaps, in the single particular that he
 
-      was a very great fool. He contrived to bear, however, among a
+      was a very great [[Fool|fool]]. He contrived to bear, however, among a
 
       particular set at the university, a reputation for deep
 
@@ -297,7 +297,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       forget the precise number of victims who had fallen at his hands;
 
-      but they were many. He was a man of courage undoubtedly. But it
+      but they were many. He was a man of [[Courage|courage]] undoubtedly. But it
 
       was upon his minute acquaintance with the etiquette of the
 
@@ -305,15 +305,15 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       especially prided himself. These things were a hobby which he
 
-      rode to the death. To Ritzner, ever upon the lookout for the
+      rode to the [[Death|death]]. To Ritzner, ever upon the lookout for the
 
-      grotesque, his peculiarities had for a long time past afforded
+      [[Grotesque|grotesque]], his peculiarities had for a long [[Time|time]] past afforded
 
-      food for mystification. Of this, however, I was not aware;
+      food for [[Mystification|mystification]]. Of this, however, I was not aware;
 
       although, in the present instance, I saw clearly that something
 
-      of a whimsical nature was upon the tapis with my friend, and that
+      of a whimsical [[Nature|nature]] was upon the tapis with my friend, and that
 
       Hermann was its especial object.
 
@@ -345,7 +345,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       respects they are even unworthy of serious refutation. I would
 
-      say more than this, sir, were it not for the fear of giving you
+      say more than this, sir, were it not for the [[Fear|fear]] of giving you
 
       offence (here the speaker smiled blandly), I would say, sir, that
 
@@ -367,7 +367,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       quizzical expression which was its natural character, but which I
 
-      had never seen it assume except when we were alone together, and
+      had never seen it assume except when we were [[Alone|alone]] together, and
 
       when he unbent himself freely. In an instant afterward he stood
 
@@ -379,7 +379,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       he was in sober earnest. He appeared to be stifling with passion,
 
-      and his face was cadaverously white. For a short time he remained
+      and his face was cadaverously white. For a short [[Time|time]] he remained
 
       silent, apparently striving to master his emotion. Having at
 
@@ -391,7 +391,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       yourself to me, is objectionable in so many particulars, that I
 
-      have neither temper nor time for specification. That my opinions,
+      have neither temper nor [[Time|time]] for specification. That my opinions,
 
       however, are not the opinions to be expected from a gentleman, is
 
@@ -407,15 +407,15 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       similar cases of personal affront. You will forgive me for the
 
-      moderate tax I shall make upon your imagination, and endeavor to
+      moderate tax I shall make upon your [[Imagination|imagination]], and endeavor to
 
       consider, for an instant, the reflection of your person in yonder
 
-      mirror as the living Mynheer Hermann himself. This being done,
+      [[Mirror|mirror]] as the living Mynheer Hermann himself. This being done,
 
       there will be no difficulty whatever. I shall discharge this
 
-      decanter of wine at your image in yonder mirror, and thus fulfil
+      decanter of wine at your image in yonder [[Mirror|mirror]], and thus fulfil
 
       all the spirit, if not the exact letter, of resentment for your
 
@@ -427,7 +427,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       With these words he hurled the decanter, full of wine, against
 
-      the mirror which hung directly opposite Hermann; striking the
+      the [[Mirror|mirror]] which hung directly opposite Hermann; striking the
 
       reflection of his person with great precision, and of course
 
@@ -459,7 +459,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       shelves a number of musty volumes on the subject of the duello,
 
-      and entertained me for a long time with their contents; reading
+      and entertained me for a long [[Time|time]] with their contents; reading
 
       aloud, and commenting earnestly as he read. I can just remember
 
@@ -537,7 +537,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       Not knowing what better to do, I called upon Ritzner with this
 
-      epistle. He bowed as I presented it; then, with a grave
+      epistle. He bowed as I presented it; then, with a [[Grave|grave]]
 
       countenance, motioned me to a seat. Having perused the cartel, he
 
@@ -553,7 +553,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       still find great difficulty, (owing to the refinedly peculiar
 
-      nature of our disagreement, and of the personal affront offered
+      [[Nature|nature]] of our disagreement, and of the personal affront offered
 
       on my part,) in so wording what I have to say by way of apology,
 
@@ -607,7 +607,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       which, however, was converted into a smile of the most ludicrous
 
-      self-complacency as he came to the rigmarole about Injuriae per
+      [[Self|self]]-complacency as he came to the rigmarole about Injuriae per
 
       applicationem, per constructionem, et per se. Having finished
 
@@ -627,7 +627,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       the fullest, the most honorable, and the most unequivocally
 
-      satisfactory nature.
+      satisfactory [[Nature|nature]].
 
 
 
@@ -659,7 +659,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       present to the ear all the outward signs of intelligibility, and
 
-      even of profundity, while in fact not a shadow of meaning
+      even of profundity, while in fact not a [[Shadow|shadow]] of meaning
 
       existed. The key to the whole was found in leaving out every
 

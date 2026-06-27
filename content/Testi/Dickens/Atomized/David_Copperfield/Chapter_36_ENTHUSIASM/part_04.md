@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 36: ENTHUSIASM (part 4)"
+title: "[[David Copperfield]] — Chapter 36: ENTHUSIASM (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 ‘You see,’ said Mr. Dick, wistfully, ‘if I could exert myself, Mr.
 Traddles--if I could beat a drum--or blow anything!’
 
-Poor fellow! I have little doubt he would have preferred such an
+Poor fellow! I have little [[Doubt|doubt]] he would have preferred such an
 employment in his heart to all others. Traddles, who would not have
 smiled for the world, replied composedly:
 
@@ -33,7 +33,7 @@ Mr. Dick looked doubtfully at me. ‘Eh, Trotwood?’
 I shook my head. Mr. Dick shook his, and sighed. ‘Tell him about the
 Memorial,’ said Mr. Dick.
 
-I explained to Traddles that there was a difficulty in keeping King
+I explained to Traddles that there was a difficulty in keeping [[King]]
 Charles the First out of Mr. Dick’s manuscripts; Mr. Dick in the
 meanwhile looking very deferentially and seriously at Traddles, and
 sucking his thumb.
@@ -41,36 +41,36 @@ sucking his thumb.
 ‘But these writings, you know, that I speak of, are already drawn up
 and finished,’ said Traddles after a little consideration. ‘Mr. Dick has
 nothing to do with them. Wouldn’t that make a difference, Copperfield?
-At all events, wouldn’t it be well to try?’
+At all events, wouldn’t it be [[Well|well]] to try?’
 
-This gave us new hope. Traddles and I laying our heads together apart,
+This gave us new [[Hope|hope]]. Traddles and I laying our heads together apart,
 while Mr. Dick anxiously watched us from his chair, we concocted a
 scheme in virtue of which we got him to work next day, with triumphant
-success.
+[[success]].
 
-On a table by the window in Buckingham Street, we set out the work
+On a table by the [[Window|window]] in [[Buckingham]] Street, we set out the work
 Traddles procured for him--which was to make, I forget how many copies
 of a legal document about some right of way--and on another table
 we spread the last unfinished original of the great Memorial. Our
 instructions to Mr. Dick were that he should copy exactly what he had
 before him, without the least departure from the original; and that when
-he felt it necessary to make the slightest allusion to King Charles the
+he felt it necessary to make the slightest allusion to [[King]] Charles the
 First, he should fly to the Memorial. We exhorted him to be resolute
 in this, and left my aunt to observe him. My aunt reported to us,
 afterwards, that, at first, he was like a man playing the kettle-drums,
 and constantly divided his attentions between the two; but that, finding
 this confuse and fatigue him, and having his copy there, plainly before
 his eyes, he soon sat at it in an orderly business-like manner, and
-postponed the Memorial to a more convenient time. In a word, although we
+postponed the Memorial to a more convenient [[Time|time]]. In a word, although we
 took great care that he should have no more to do than was good for him,
 and although he did not begin with the beginning of a week, he earned
-by the following Saturday night ten shillings and nine-pence; and never,
+by the following Saturday [[Night|night]] ten shillings and nine-pence; and never,
 while I live, shall I forget his going about to all the shops in the
 neighbourhood to change this treasure into sixpences, or his bringing
 them to my aunt arranged in the form of a heart upon a waiter, with
-tears of joy and pride in his eyes. He was like one under the propitious
+[[Tears|tears]] of joy and [[Pride|pride]] in his eyes. He was like one under the propitious
 influence of a charm, from the moment of his being usefully employed;
-and if there were a happy man in the world, that Saturday night, it was
+and if there were a happy man in the world, that Saturday [[Night|night]], it was
 the grateful creature who thought my aunt the most wonderful woman in
 existence, and me the most wonderful young man.
 
@@ -116,15 +116,15 @@ confer a Boon
                          ‘Who
                               ‘Is
                                    ‘Ever yours,
-                                        ‘WILKINS MICAWBER.’
+                                        ‘[[Wilkins Micawber|WILKINS MICAWBER]].’
 
 
-I was glad to find that Mr. Micawber had got rid of his dust and ashes,
+I was glad to find that Mr. Micawber had got rid of his [[Dust|dust]] and ashes,
 and that something really had turned up at last. Learning from Traddles
 that the invitation referred to the evening then wearing away, I
-expressed my readiness to do honour to it; and we went off together to
+expressed my readiness to do [[Honour|honour]] to it; and we went off together to
 the lodging which Mr. Micawber occupied as Mr. Mortimer, and which was
-situated near the top of the Gray’s Inn Road.
+situated near the top of the Gray’s Inn [[Road]].
 
 The resources of this lodging were so limited, that we found the twins,
 now some eight or nine years old, reposing in a turn-up bedstead in

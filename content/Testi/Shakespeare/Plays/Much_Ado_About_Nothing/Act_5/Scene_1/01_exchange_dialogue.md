@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Leonato and Antonio his brother |
-| ANTONIO | If you go on thus, you will kill yourself, And ’tis not wisdom thus to second grief Against yourself. |
+| *(didascalia)* | Enter [[Leonato]] and [[Antonio]] his brother |
+| [[Antonio|ANTONIO]] | If you go on thus, you will kill yourself, And ’tis not wisdom thus to second grief Against yourself. |

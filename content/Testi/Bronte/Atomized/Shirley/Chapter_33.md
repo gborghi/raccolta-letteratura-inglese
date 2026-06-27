@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 33"
+title: "[[Shirley]] — Chapter 33"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -26,9 +26,9 @@ MARTIN'S TACTICS.
 
 It was necessary to the arrangement of Martin's plan that he should stay
 
-at home that day. Accordingly, he found no appetite for breakfast, and
+at [[Home|home]] that day. Accordingly, he found no appetite for breakfast, and
 
-just about school-time took a severe pain about his heart, which
+just about school-[[Time|time]] took a severe [[Pain|pain]] about his heart, which
 
 rendered it advisable that, instead of setting out to the grammar school
 
@@ -36,9 +36,9 @@ with Mark, he should succeed to his father's arm-chair by the fireside,
 
 and also to his morning paper. This point being satisfactorily settled,
 
-and Mark being gone to Mr. Summer's class, and Matthew and Mr. Yorke
+and Mark being gone to Mr. [[Summer]]'s class, and Matthew and Mr. Yorke
 
-withdrawn to the counting-house, three other exploits--nay,
+withdrawn to the counting-[[house]], three other exploits--nay,
 
 four--remained to be achieved.
 
@@ -50,7 +50,7 @@ and with which his appetite of fifteen could ill afford to dispense; the
 
 second, third, fourth, to get his mother, Miss Moore, and Mrs. Horsfall
 
-successfully out of the way before four o'clock that afternoon.
+successfully out of the way before four o'[[Clock|clock]] that afternoon.
 
 
 
@@ -110,7 +110,7 @@ equipage of horns, hoofs, and tail.
 
 Matthew, sceptic and scoffer, had already failed to subscribe a prompt
 
-belief in that pain about the heart. He had muttered some words, amongst
+belief in that [[Pain|pain]] about the heart. He had muttered some words, amongst
 
 which the phrase "shamming Abraham" had been very distinctly audible,
 
@@ -120,13 +120,13 @@ him with mental spasms. The spectacle now before him--the apples, the
 
 tarts, the tea-cakes, the fowl, ham, and pudding--offered evidence but
 
-too well calculated to inflate his opinion of his own sagacity.
+too [[Well|well]] calculated to inflate his opinion of his own sagacity.
 
 
 
 Martin paused _interdit_ one minute, one instant; the next he knew his
 
-ground, and pronounced all well. With the true perspicacity _des âmes
+ground, and pronounced all [[Well|well]]. With the true perspicacity _des âmes
 
 élites_, he at once saw how this at first sight untoward event might be
 
@@ -138,7 +138,7 @@ his mother. He knew that a collision between him and Matthew always
 
 suggested to Mrs. Yorke the propriety of a fit of hysterics. He further
 
-knew that, on the principle of calm succeeding to storm, after a morning
+knew that, on the principle of calm succeeding to [[Storm|storm]], after a morning
 
 of hysterics his mother was sure to indulge in an afternoon of bed. This
 
@@ -162,7 +162,7 @@ was summoned.
 
 "Sons," said he, "one of you must leave my roof if this occurs again. I
 
-will have no Cain and Abel strife here."
+will have no [[Cain]] and Abel strife here."
 
 
 
@@ -176,7 +176,7 @@ himself was over.
 
 
 
-Once he seemed to flag in the course of the morning.
+Once he seemed to [[Flag|flag]] in the course of the morning.
 
 
 
@@ -186,7 +186,7 @@ But a quarter of an hour afterwards he was again in the dining-room,
 
 looking at the head with dishevelled tresses, and eyes turbid with
 
-despair.
+[[Despair|despair]].
 
 
 
@@ -204,7 +204,7 @@ withdrawing to her chamber. Now for Hortense.
 
 
 
-That lady was just comfortably settled to stocking-mending in the back
+That lady was just comfortably settled to stocking-[[mending]] in the back
 
 parlour, when Martin--laying down a book which, stretched on the sofa
 
@@ -216,7 +216,7 @@ introduced some discourse about Sarah, the maid at the Hollow. In the
 
 course of much verbal meandering he insinuated information that this
 
-damsel was said to have three suitors--Frederic Murgatroyd, Jeremiah
+[[Damsel|damsel]] was said to have three suitors--Frederic Murgatroyd, Jeremiah
 
 Pighills, and John-of-Mally's-of-Hannah's-of-Deb's; and that Miss Mann
 
@@ -224,7 +224,7 @@ had affirmed she knew for a fact that, now the girl was left in sole
 
 charge of the cottage, she often had her swains to meals, and
 
-entertained them with the best the house afforded.
+entertained them with the best the [[house]] afforded.
 
 
 
@@ -242,7 +242,7 @@ a bunch of keys; with these he opened the sideboard cupboard, produced
 
 thence a black bottle and a small glass, placed them on the table,
 
-nimbly mounted the stairs, made for Mr. Moore's door, tapped; the nurse
+nimbly mounted the stairs, made for Mr. Moore's door, tapped; the [[Nurse|nurse]]
 
 opened.
 
@@ -268,9 +268,9 @@ away for the wood.
 
 It was yet but half-past three. It had been a fine morning, but the sky
 
-looked dark now. It was beginning to snow; the wind blew cold; the wood
+looked dark now. It was beginning to [[Snow|snow]]; the [[Wind|wind]] blew cold; the wood
 
-looked dismal, the old tree grim. Yet Martin approved the shadow on his
+looked dismal, the old tree grim. Yet Martin approved the [[Shadow|shadow]] on his
 
 path. He found a charm in the spectral aspect of the doddered oak.
 
@@ -278,13 +278,13 @@ path. He found a charm in the spectral aspect of the doddered oak.
 
 He had to wait. To and fro he walked, while the flakes fell faster; and
 
-the wind, which at first had but moaned, pitifully howled.
+the [[Wind|wind]], which at first had but moaned, pitifully howled.
 
 
 
 "She is long in coming," he muttered, as he glanced along the narrow
 
-track. "I wonder," he subjoined, "what I wish to see her so much for?
+track. "I [[Wonder|wonder]]," he subjoined, "what I wish to see her so much for?
 
 She is not coming for me. But I have power over her, and I want her to
 
@@ -302,25 +302,25 @@ come, I shall hate and scorn her."
 
 
 
-It struck four. He heard the church clock far away. A step so quick, so
+It struck four. He heard the church [[Clock|clock]] far away. A step so quick, so
 
-light, that, but for the rustling of leaves, it would scarcely have
+light, that, but for the rustling of [[Leaves|leaves]], it would scarcely have
 
-sounded on the wood-walk, checked his impatience. The wind blew fiercely
+sounded on the wood-walk, checked his impatience. The [[Wind|wind]] blew fiercely
 
-now, and the thickening white storm waxed bewildering; but on she came,
+now, and the thickening white [[Storm|storm]] waxed bewildering; but on she came,
 
 and not dismayed.
 
 
 
-"Well, Martin," she said eagerly, "how is he?"
+"[[Well]], Martin," she said eagerly, "how is he?"
 
 
 
 "It is queer how she thinks of _him_," reflected Martin. "The blinding
 
-snow and bitter cold are nothing to her, I believe; yet she is but a
+[[Snow|snow]] and bitter cold are nothing to her, I believe; yet she is but a
 
 'chitty-faced creature,' as my mother would say. I could find in my
 
@@ -354,7 +354,7 @@ see him?"
 
 him, and I am sick of waiting. Martin, _do_ see him, and give him
 
-Caroline Helstone's regards, and say she wished to know how he was, and
+[[Caroline Helstone]]'s regards, and say she wished to know how he was, and
 
 if anything could be done for his comfort."
 
@@ -364,7 +364,7 @@ if anything could be done for his comfort."
 
 
 
-"You are changed. You were so friendly last night."
+"You are changed. You were so friendly last [[Night|night]]."
 
 
 
@@ -378,13 +378,13 @@ if anything could be done for his comfort."
 
 "No such thing. I am much too delicate to make and keep such
 
-appointments in the winter season. If you knew what a pain I had in my
+appointments in the [[Winter|winter]] season. If you knew what a [[Pain|pain]] I had in my
 
 chest this morning, and how I went without breakfast, and was knocked
 
 down besides, you'd feel the impropriety of bringing me here in the
 
-snow. Come, I say."
+[[Snow|snow]]. Come, I say."
 
 
 
@@ -408,13 +408,13 @@ snow. Come, I say."
 
 
 
-"With me. I was a fool not to bring a cloak. I would have made you
+"With me. I was a [[Fool|fool]] not to bring a cloak. I would have made you
 
 cosy."
 
 
 
-"You are going home; my nearest road lies in the opposite direction."
+"You are going [[Home|home]]; my nearest [[Road|road]] lies in the opposite direction."
 
 
 
@@ -500,7 +500,7 @@ you--except to announce your arrival."
 
 "Martin, you are a strange boy, and this is a strange step; but all I
 
-feel _is_ and _has_ been, for a long time, strange. I will see him."
+feel _is_ and _has_ been, for a long [[Time|time]], strange. I will see him."
 
 
 
@@ -512,7 +512,7 @@ feel _is_ and _has_ been, for a long time, strange. I will see him."
 
 
 
-"Here we are, then. Do not be afraid of passing the parlour window; no
+"Here we are, then. Do not be afraid of passing the parlour [[Window|window]]; no
 
 one will see you. My father and Matthew are at the mill, Mark is at
 
@@ -522,7 +522,7 @@ cottage, my mother in her bed, and Mrs. Horsfall in paradise. Observe--I
 
 need not ring. I open the door; the hall is empty, the staircase quiet;
 
-so is the gallery. The whole house and all its inhabitants are under a
+so is the gallery. The whole [[house]] and all its inhabitants are under a
 
 spell, which I will not break till you are gone."
 
@@ -534,9 +534,9 @@ spell, which I will not break till you are gone."
 
 "You never said a better word. Let me take your shawl. I will shake off
 
-the snow and dry it for you. You are cold and wet. Never mind; there is
+the [[Snow|snow]] and dry it for you. You are cold and wet. Never mind; there is
 
-a fire upstairs. Are you ready?"
+a [[Fire|fire]] upstairs. Are you ready?"
 
 
 
@@ -566,7 +566,7 @@ The boy entered briskly.
 
 "Mr. Moore, a lady called to inquire after you. None of the women were
 
-about. It is washing-day, and the maids are over the crown of the head
+about. It is washing-day, and the maids are over the [[Crown|crown]] of the head
 
 in soap-suds in the back kitchen, so I asked her to step up."
 
@@ -614,7 +614,7 @@ want of filial affection."
 
 
 
-"Martin, you are an evil cross between an imp and a page. What is she
+"Martin, you are an evil [[Cross|cross]] between an imp and a page. What is she
 
 like?"
 
@@ -644,7 +644,7 @@ chamber by a tall, thin, wasted figure, who took both her hands.
 
 "I give you a quarter of an hour," said Martin, as he withdrew, "no
 
-more. Say what you have to say in that time. Till it is past I will wait
+more. Say what you have to say in that [[Time|time]]. Till it is past I will wait
 
 in the gallery; nothing shall approach; I'll see you safe away. Should
 
@@ -652,9 +652,9 @@ you persist in staying longer, I leave you to your fate."
 
 
 
-He shut the door. In the gallery he was as elate as a king. He had never
+He shut the door. In the gallery he was as elate as a [[King|king]]. He had never
 
-been engaged in an adventure he liked so well, for no adventure had ever
+been engaged in an adventure he liked so [[Well|well]], for no adventure had ever
 
 invested him with so much importance or inspired him with so much
 
@@ -674,7 +674,7 @@ with hollow eyes.
 
 "For a month, near two months, we have been very near; and I have been
 
-in sad pain, and danger, and misery, Cary."
+in sad [[Pain|pain]], and danger, and misery, Cary."
 
 
 
@@ -688,7 +688,7 @@ miles apart."
 
 
 
-There was pain and there was pleasure in the girl's face as she listened
+There was [[Pain|pain]] and there was pleasure in the girl's face as she listened
 
 to these implied reproaches. It was sweet, it was bitter to defend
 
@@ -726,7 +726,7 @@ down and talk about it."
 
 They sat down. Caroline drew her chair up to his. The air was now dark
 
-with snow; an Iceland blast was driving it wildly. This pair neither
+with [[Snow|snow]]; an Iceland blast was driving it wildly. This pair neither
 
 heard the long "wuthering" rush, nor saw the white burden it drifted.
 
@@ -740,15 +740,15 @@ Each seemed conscious but of one thing--the presence of the other.
 
 "And Mrs. Yorke did treat us strangely. We asked to see you. 'No,' said
 
-she, 'not in my house. I am at present responsible for his life; it
+she, 'not in my [[house]]. I am at present responsible for his life; it
 
 shall not be forfeited for half an hour's idle gossip.' But I must not
 
 tell you all she said; it was very disagreeable. However, we came yet
 
-again--mamma, Miss Keeldar, and I. This time we thought we should
+again--mamma, Miss Keeldar, and I. This [[Time|time]] we thought we should
 
-conquer, as we were three against one, and Shirley was on our side. But
+conquer, as we were three against one, and [[Shirley]] was on our side. But
 
 Mrs. Yorke opened such a battery."
 
@@ -758,13 +758,13 @@ Moore smiled. "What did she say?"
 
 
 
-"Things that astonished us. Shirley laughed at last; I cried; mamma was
+"Things that astonished us. [[Shirley]] laughed at last; I cried; mamma was
 
 seriously annoyed. We were all three driven from the field. Since that
 
-time I have only walked once a day past the house, just for the
+[[Time|time]] I have only walked once a day past the [[house]], just for the
 
-satisfaction of looking up at your window, which I could distinguish by
+satisfaction of looking up at your [[Window|window]], which I could distinguish by
 
 the drawn curtains. I really dared not come in."
 
@@ -784,29 +784,29 @@ If I had but most distantly imagined such a possibility----"
 
 
 
-"She would not. Stratagem should have been tried, if persuasion failed.
+"She would not. Stratagem should have been tried, if [[Persuasion|persuasion]] failed.
 
 I would have come to the kitchen door; the servants should have let me
 
 in, and I would have walked straight upstairs. In fact, it was far more
 
-the fear of intrusion--the fear of yourself--that baffled me than the
+the [[Fear|fear]] of intrusion--the [[Fear|fear]] of yourself--that baffled me than the
 
-fear of Mrs. Yorke."
+[[Fear|fear]] of Mrs. Yorke."
 
 
 
-"Only last night I despaired of ever seeing you again. Weakness has
+"Only last [[Night|night]] I despaired of ever seeing you again. Weakness has
 
 wrought terrible depression in me--terrible depression."
 
 
 
-"And you sit alone?"
+"And you sit [[Alone|alone]]?"
 
 
 
-"Worse than alone."
+"Worse than [[Alone|alone]]."
 
 
 
@@ -814,13 +814,13 @@ wrought terrible depression in me--terrible depression."
 
 
 
-"I doubt whether I shall live. I see nothing for it, after such
+"I [[Doubt|doubt]] whether I shall live. I see nothing for it, after such
 
 exhaustion, but decline."
 
 
 
-"You--you shall go home to the Hollow."
+"You--you shall go [[Home|home]] to the Hollow."
 
 
 
@@ -858,15 +858,15 @@ mamma."
 
 
 
-"Do you suffer pain, Robert?"
+"Do you suffer [[Pain|pain]], Robert?"
 
 
 
-"Not so much pain now; but I am hopelessly weak, and the state of my
+"Not so much [[Pain|pain]] now; but I am hopelessly weak, and the state of my
 
 mind is inexpressible--dark, barren, impotent. Do you not read it all in
 
-my face? I look a mere ghost."
+my face? I look a mere [[Ghost|ghost]]."
 
 
 
@@ -882,9 +882,9 @@ very ill."
 
 
 
-"I thought I should die. The tale of my life seemed told. Every night,
+"I thought I should die. The tale of my life seemed told. Every [[Night|night]],
 
-just at midnight, I used to wake from awful dreams; and the book lay
+just at midnight, I used to wake from awful [[Dreams|dreams]]; and the book lay
 
 open before me at the last page, where was written 'Finis.' I had
 
@@ -928,7 +928,7 @@ with his hand.
 
 
 
-Such was his prayer.
+Such was his [[prayer]].
 
 
 
@@ -970,7 +970,7 @@ head. I deserve it."
 
 
 
-"It is a coal of fire heaped on my head; and so is every word you
+"It is a coal of [[Fire|fire]] heaped on my head; and so is every word you
 
 address to me, and every look that lights your sweet face. Come still
 
@@ -1016,7 +1016,7 @@ twenty minutes instead of a quarter of an hour."
 
 "No, she can't," responded Martin. "The thing mustn't become customary.
 
-I can't be troubled. It's very well for once; I'll not have it
+I can't be troubled. It's very [[Well|well]] for once; I'll not have it
 
 repeated."
 
@@ -1068,7 +1068,7 @@ him back, he would have claimed his reward; he would have said, "Now,
 
 Miss Caroline, for all this give me one kiss." But ere the words had
 
-passed his lips she was across the snowy road, rather skimming than
+passed his lips she was across the snowy [[Road|road]], rather skimming than
 
 wading the drifts.
 
@@ -1080,6 +1080,6 @@ wading the drifts.
 
 He flattered himself that it was opportunity, not audacity, which had
 
-failed him. He misjudged the quality of his own nature, and held it for
+failed him. He misjudged the quality of his own [[Nature|nature]], and held it for
 
 something lower than it was.

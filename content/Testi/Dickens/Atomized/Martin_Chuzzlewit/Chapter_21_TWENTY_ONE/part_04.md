@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 21: TWENTY ONE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-Martin tried to look convinced, but he thought of New York, and found it
+Martin tried to look convinced, but he thought of [[New York]], and found it
 difficult.
 
 ‘What are the Great United States for, sir,’ pursued the General ‘if not
-for the regeneration of man? But it is nat’ral in you to make such an
+for the [[Regeneration|regeneration]] of man? But it is nat’ral in you to make such an
 enquerry, for you come from England, and you do not know my country.’
 
 ‘Then you think,’ said Martin, ‘that allowing for the hardships we are
@@ -43,11 +43,11 @@ the Watertoast Sympathisers were, of whom he had spoken in addressing Mr
 La Fayette Kettle, and on what grievances they bestowed their Sympathy.
 To which the General, looking very serious, made answer, that he might
 fully enlighten himself on those points to-morrow by attending a Great
-Meeting of the Body, which would then be held at the town to which
+Meeting of the [[Body]], which would then be held at the town to which
 they were travelling; ‘over which, sir,’ said the General, ‘my
 fellow-citizens have called on me to preside.’
 
-They came to their journey’s end late in the evening. Close to the
+They came to their [[Journey|journey]]’s end late in the evening. Close to the
 railway was an immense white edifice, like an ugly hospital, on which
 was painted ‘NATIONAL HOTEL.’ There was a wooden gallery or verandah
 in front, in which it was rather startling, when the train stopped, to
@@ -63,10 +63,10 @@ There was a great bar-room in this hotel, and a great public room
 in which the general table was being set out for supper. There were
 interminable whitewashed staircases, long whitewashed galleries upstairs
 and downstairs, scores of little whitewashed bedrooms, and a four-sided
-verandah to every story in the house, which formed a large brick square
+verandah to every story in the [[house]], which formed a large brick square
 with an uncomfortable courtyard in the centre, where some clothes were
 drying. Here and there, some yawning gentlemen lounged up and down with
-their hands in their pockets; but within the house and without, wherever
+their hands in their pockets; but within the [[house]] and without, wherever
 half a dozen people were collected together, there, in their looks,
 dress, morals, manners, habits, intellect, and conversation, were Mr
 Jefferson Brick, Colonel Diver, Major Pawkins, General Choke, and Mr
@@ -78,12 +78,12 @@ to comprehend their being the social, cheerful, winning, airy men they
 were.
 
 At the sounding of a dismal gong, this pleasant company went trooping
-down from all parts of the house to the public room; while from the
+down from all parts of the [[house]] to the public room; while from the
 neighbouring stores other guests came flocking in, in shoals; for half
-the town, married folks as well as single, resided at the National
+the town, married folks as [[Well|well]] as single, resided at the National
 Hotel. Tea, coffee, dried meats, tongue, ham, pickles, cake, toast,
 preserves, and bread and butter, were swallowed with the usual ravaging
-speed; and then, as before, the company dropped off by degrees, and
+[[Speed|speed]]; and then, as before, the company dropped off by degrees, and
 lounged away to the desk, the counter, or the bar-room. The ladies had a
 smaller ordinary of their own, to which their husbands and brothers
 were admitted if they chose; and in all other respects they enjoyed
@@ -119,8 +119,8 @@ empty finger--
 ‘--We raised, in English money, fourteen pounds. So, even with that,
 your share of the stock is still very much the larger of the two you
 see. Now, Mark,’ said Martin, in his old way, just as he might have
-spoken to Tom Pinch, ‘I have thought of a means of making this up
-to you--more than making it up to you, I hope--and very materially
+spoken to [[Tom Pinch]], ‘I have thought of a means of making this up
+to you--more than making it up to you, I [[Hope|hope]]--and very materially
 elevating your prospects in life.’
 
 ‘Oh! don’t talk of that, you know, sir,’ returned Mark. ‘I don’t want no

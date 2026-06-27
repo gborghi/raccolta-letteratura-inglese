@@ -1,5 +1,5 @@
 ---
-title: "The Oblong Box"
+title: "[[The Oblong Box]]"
 author: "Poe"
 unitType: work
 tags:
@@ -14,7 +14,7 @@ tags:
 
 Some years ago, I engaged passage from Charleston, S. C., to the
 
-      city of New York, in the fine packet-ship “Independence,” Captain
+      [[City|city]] of [[New York]], in the fine packet-[[Ship|ship]] “Independence,” Captain
 
       Hardy. We were to sail on the fifteenth of the month (June),
 
@@ -30,15 +30,15 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       acquaintances, and among other names, I was rejoiced to see that
 
-      of Mr. Cornelius Wyatt, a young artist, for whom I entertained
+      of Mr. Cornelius Wyatt, a young [[artist]], for whom I entertained
 
-      feelings of warm friendship. He had been with me a fellow-student
+      feelings of warm [[Friendship|friendship]]. He had been with me a fellow-student
 
       at C—— University, where we were very much together. He had the
 
       ordinary temperament of genius, and was a compound of
 
-      misanthropy, sensibility, and enthusiasm. To these qualities he
+      [[Misanthropy|misanthropy]], sensibility, and enthusiasm. To these qualities he
 
       united the warmest and truest heart which ever beat in a human
 
@@ -76,9 +76,9 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       enigma. At last I reached a conclusion which wrought in me great
 
-      wonder why I had not arrived at it before. “It is a servant of
+      [[Wonder|wonder]] why I had not arrived at it before. “It is a servant of
 
-      course,” I said; “what a fool I am, not sooner to have thought of
+      course,” I said; “what a [[Fool|fool]] I am, not sooner to have thought of
 
       so obvious a solution!” And then I again repaired to the list—but
 
@@ -102,7 +102,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
 
 
-      Wyatt’s two sisters I knew very well, and most amiable and clever
+      Wyatt’s two sisters I knew very [[Well|well]], and most amiable and clever
 
       girls they were. His wife he had newly married, and I had never
 
@@ -110,17 +110,17 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       however, and in his usual style of enthusiasm. He described her
 
-      as of surpassing beauty, wit, and accomplishment. I was,
+      as of surpassing [[Beauty|beauty]], wit, and accomplishment. I was,
 
       therefore, quite anxious to make her acquaintance.
 
 
 
-      On the day in which I visited the ship (the fourteenth), Wyatt
+      On the day in which I visited the [[Ship|ship]] (the fourteenth), Wyatt
 
       and party were also to visit it—so the captain informed me—and I
 
-      waited on board an hour longer than I had designed, in hope of
+      waited on board an hour longer than I had designed, in [[Hope|hope]] of
 
       being presented to the bride, but then an apology came. “Mrs. W.
 
@@ -146,7 +146,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       them with much perseverance, I had nothing to do but to return
 
-      home and digest my impatience at leisure.
+      [[Home|home]] and digest my impatience at leisure.
 
 
 
@@ -154,15 +154,15 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       nearly a week. It came at length, however, and I immediately went
 
-      on board. The ship was crowded with passengers, and every thing
+      on board. The [[Ship|ship]] was crowded with passengers, and every thing
 
       was in the bustle attendant upon making sail. Wyatt’s party
 
       arrived in about ten minutes after myself. There were the two
 
-      sisters, the bride, and the artist—the latter in one of his
+      sisters, the bride, and the [[artist]]—the latter in one of his
 
-      customary fits of moody misanthropy. I was too well used to
+      customary fits of moody [[Misanthropy|misanthropy]]. I was too [[Well|well]] used to
 
       these, however, to pay them any special attention. He did not
 
@@ -182,27 +182,27 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       long experience advised me not to trust, with too implicit a
 
-      reliance, the enthusiastic descriptions of my friend, the artist,
+      reliance, the enthusiastic descriptions of my friend, the [[artist]],
 
       when indulging in comments upon the loveliness of woman. When
 
-      beauty was the theme, I well knew with what facility he soared
+      [[Beauty|beauty]] was the theme, I [[Well|well]] knew with what facility he soared
 
       into the regions of the purely ideal.
 
 
 
-      The truth is, I could not help regarding Mrs. Wyatt as a
+      The [[Truth|truth]] is, I could not help regarding Mrs. Wyatt as a
 
       decidedly plain-looking woman. If not positively ugly, she was
 
       not, I think, very far from it. She was dressed, however, in
 
-      exquisite taste—and then I had no doubt that she had captivated
+      exquisite taste—and then I had no [[Doubt|doubt]] that she had captivated
 
       my friend’s heart by the more enduring graces of the intellect
 
-      and soul. She said very few words, and passed at once into her
+      and [[Soul|soul]]. She said very few words, and passed at once into her
 
       state-room with Mr. W.
 
@@ -216,7 +216,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       pine box, which was every thing that seemed to be expected.
 
-      Immediately upon its arrival we made sail, and in a short time
+      Immediately upon its arrival we made sail, and in a short [[Time|time]]
 
       were safely over the bar and standing out to sea.
 
@@ -232,7 +232,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       accuracy of my guessing. I had reached the conclusion, it will be
 
-      remembered, that the extra baggage of my friend, the artist,
+      remembered, that the extra baggage of my friend, the [[artist]],
 
       would prove to be pictures, or at least a picture; for I knew he
 
@@ -244,21 +244,21 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       a copy of this very “Last Supper,” done by Rubini the younger, at
 
-      Florence, I had known, for some time, to be in the possession of
+      Florence, I had known, for some [[Time|time]], to be in the possession of
 
       Nicolino. This point, therefore, I considered as sufficiently
 
       settled. I chuckled excessively when I thought of my acumen. It
 
-      was the first time I had ever known Wyatt to keep from me any of
+      was the first [[Time|time]] I had ever known Wyatt to keep from me any of
 
-      his artistical secrets; but here he evidently intended to steal a
+      his artistical [[Secrets|secrets]]; but here he evidently intended to steal a
 
-      march upon me, and smuggle a fine picture to New York, under my
+      march upon me, and smuggle a fine picture to [[New York]], under my
 
       very nose; expecting me to know nothing of the matter. I resolved
 
-      to quiz him well, now and hereafter.
+      to quiz him [[Well|well]], now and hereafter.
 
 
 
@@ -268,7 +268,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       there, too, it remained, occupying very nearly the whole of the
 
-      floor—no doubt to the exceeding discomfort of the artist and his
+      floor—no [[Doubt|doubt]] to the exceeding discomfort of the [[artist]] and his
 
       wife;—this the more especially as the tar or paint with which it
 
@@ -286,21 +286,21 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       Now, I was aware that Mrs. Adelaide Curtis, of Albany, was the
 
-      artist’s wife’s mother,—but then I looked upon the whole address
+      [[artist]]’s wife’s mother,—but then I looked upon the whole address
 
-      as a mystification, intended especially for myself. I made up my
+      as a [[Mystification|mystification]], intended especially for myself. I made up my
 
       mind, of course, that the box and contents would never get
 
       farther north than the studio of my misanthropic friend, in
 
-      Chambers Street, New York.
+      Chambers Street, [[New York]].
 
 
 
       For the first three or four days we had fine weather, although
 
-      the wind was dead ahead; having chopped round to the northward,
+      the [[Wind|wind]] was dead ahead; having chopped round to the northward,
 
       immediately upon our losing sight of the coast. The passengers
 
@@ -336,7 +336,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       coquet with the men. She amused us all very much. I say
 
-      “amused”—and scarcely know how to explain myself. The truth is, I
+      “amused”—and scarcely know how to explain myself. The [[Truth|truth]] is, I
 
       soon found that Mrs. W. was far oftener laughed at than with. The
 
@@ -346,7 +346,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       looking, totally uneducated, and decidedly vulgar.” The great
 
-      wonder was, how Wyatt had been entrapped into such a match.
+      [[Wonder|wonder]] was, how Wyatt had been entrapped into such a match.
 
       Wealth was the general solution—but this I knew to be no solution
 
@@ -354,9 +354,9 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       dollar nor had any expectations from any source whatever. “He had
 
-      married,” he said, “for love, and for love only; and his bride
+      married,” he said, “for [[Love|love]], and for [[Love|love]] only; and his bride
 
-      was far more than worthy of his love.” When I thought of these
+      was far more than worthy of his [[Love|love]].” When I thought of these
 
       expressions, on the part of my friend, I confess that I felt
 
@@ -382,7 +382,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       the most pointed manner, and, for the most part, shut himself up
 
-      alone in his state-room, where, in fact, he might have been said
+      [[Alone|alone]] in his state-room, where, in fact, he might have been said
 
       to live altogether, leaving his wife at full liberty to amuse
 
@@ -392,7 +392,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
 
 
-      My conclusion, from what I saw and heard, was, that, the artist,
+      My conclusion, from what I saw and heard, was, that, the [[artist]],
 
       by some unaccountable freak of fate, or perhaps in some fit of
 
@@ -402,11 +402,11 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       natural result, entire and speedy disgust, had ensued. I pitied
 
-      him from the bottom of my heart—but could not, for that reason,
+      him from the [[Bottom|bottom]] of my heart—but could not, for that reason,
 
       quite forgive his incommunicativeness in the matter of the “Last
 
-      Supper.” For this I resolved to have my revenge.
+      Supper.” For this I resolved to have my [[Revenge|revenge]].
 
 
 
@@ -426,11 +426,11 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       on even the semblance of mirth. I determined to commence a series
 
-      of covert insinuations, or innuendoes, about the oblong box—just
+      of covert insinuations, or innuendoes, about [[The Oblong Box|the oblong box]]—just
 
       to let him perceive, gradually, that I was not altogether the
 
-      butt, or victim, of his little bit of pleasant mystification. My
+      butt, or victim, of his little bit of pleasant [[Mystification|mystification]]. My
 
       first observation was by way of opening a masked battery. I said
 
@@ -468,7 +468,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       I called assistance, and, with much difficulty, we brought him to
 
-      himself. Upon reviving he spoke incoherently for some time. At
+      himself. Upon reviving he spoke incoherently for some [[Time|time]]. At
 
       length we bled him and put him to bed. The next morning he was
 
@@ -492,19 +492,19 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       nervous—drank too much strong green tea, and slept ill at
 
-      night—in fact, for two nights I could not be properly said to
+      [[Night|night]]—in fact, for two nights I could not be properly said to
 
-      sleep at all. Now, my state-room opened into the main cabin, or
+      [[Sleep|sleep]] at all. Now, my state-room opened into the main cabin, or
 
       dining-room, as did those of all the single men on board. Wyatt’s
 
       three rooms were in the after-cabin, which was separated from the
 
-      main one by a slight sliding door, never locked even at night. As
+      main one by a slight sliding door, never locked even at [[Night|night]]. As
 
-      we were almost constantly on a wind, and the breeze was not a
+      we were almost constantly on a [[Wind|wind]], and the breeze was not a
 
-      little stiff, the ship heeled to leeward very considerably; and
+      little stiff, the [[Ship|ship]] heeled to leeward very considerably; and
 
       whenever her starboard side was to leeward, the sliding door
 
@@ -512,7 +512,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       trouble to get up and shut it. But my berth was in such a
 
-      position, that when my own state-room door was open, as well as
+      position, that when my own state-room door was open, as [[Well|well]] as
 
       the sliding door in question (and my own door was always open on
 
@@ -520,11 +520,11 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       distinctly, and just at that portion of it, too, where were
 
-      situated the state-rooms of Mr. Wyatt. Well, during two nights
+      situated the state-rooms of Mr. Wyatt. [[Well]], during two nights
 
       (not consecutive) while I lay awake, I clearly saw Mrs. W., about
 
-      eleven o’clock upon each night, steal cautiously from the
+      eleven o’[[Clock|clock]] upon each [[Night|night]], steal cautiously from the
 
       state-room of Mr. W., and enter the extra room, where she
 
@@ -532,9 +532,9 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       went back. That they were virtually separated was clear. They had
 
-      separate apartments—no doubt in contemplation of a more permanent
+      separate apartments—no [[Doubt|doubt]] in contemplation of a more permanent
 
-      divorce; and here, after all I thought was the mystery of the
+      [[divorce]]; and here, after all I thought was the mystery of the
 
       extra state-room.
 
@@ -548,13 +548,13 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       attracted by certain singular cautious, subdued noises in that of
 
-      her husband. After listening to them for some time, with
+      her husband. After listening to them for some [[Time|time]], with
 
       thoughtful attention, I at length succeeded perfectly in
 
       translating their import. They were sounds occasioned by the
 
-      artist in prying open the oblong box, by means of a chisel and
+      [[artist]] in prying open [[The Oblong Box|the oblong box]], by means of a chisel and
 
       mallet—the latter being apparently muffled, or deadened, by some
 
@@ -584,13 +584,13 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       nearly inaudible—if, indeed, the whole of this latter noise were
 
-      not rather produced by my own imagination. I say it seemed to
+      not rather produced by my own [[Imagination|imagination]]. I say it seemed to
 
       resemble sobbing or sighing—but, of course, it could not have
 
       been either. I rather think it was a ringing in my own ears. Mr.
 
-      Wyatt, no doubt, according to custom, was merely giving the rein
+      Wyatt, no [[Doubt|doubt]], according to custom, was merely giving the rein
 
       to one of his hobbies—indulging in one of his fits of artistic
 
@@ -602,11 +602,11 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       been simply a freak of my own fancy, distempered by good Captain
 
-      Hardy’s green tea. Just before dawn, on each of the two nights of
+      Hardy’s green tea. Just before [[Dawn|dawn]], on each of the two nights of
 
       which I speak, I distinctly heard Mr. Wyatt replace the lid upon
 
-      the oblong box, and force the nails into their old places by
+      [[The Oblong Box|the oblong box]], and force the nails into their old places by
 
       means of the muffled mallet. Having done this, he issued from his
 
@@ -622,25 +622,25 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       were, in a measure, prepared for it, however, as the weather had
 
-      been holding out threats for some time. Every thing was made
+      been holding out threats for some [[Time|time]]. Every thing was made
 
-      snug, alow and aloft; and as the wind steadily freshened, we lay
+      snug, alow and aloft; and as the [[Wind|wind]] steadily freshened, we lay
 
-      to, at length, under spanker and foretopsail, both double-reefed.
+      to, at length, under spanker and foretopsail, both [[Double|double]]-reefed.
 
 
 
-      In this trim we rode safely enough for forty-eight hours—the ship
+      In this trim we rode safely enough for forty-eight hours—the [[Ship|ship]]
 
       proving herself an excellent sea-boat in many respects, and
 
-      shipping no water of any consequence. At the end of this period,
+      shipping no [[Water|water]] of any consequence. At the end of this period,
 
       however, the gale had freshened into a hurricane, and our
 
       after-sail split into ribbons, bringing us so much in the trough
 
-      of the water that we shipped several prodigious seas, one
+      of the [[Water|water]] that we shipped several prodigious seas, one
 
       immediately after the other. By this accident we lost three men
 
@@ -648,9 +648,9 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       bulwarks. Scarcely had we recovered our senses, before the
 
-      foretopsail went into shreds, when we got up a storm stay-sail
+      foretopsail went into shreds, when we got up a [[Storm|storm]] stay-sail
 
-      and with this did pretty well for some hours, the ship heading
+      and with this did pretty [[Well|well]] for some hours, the [[Ship|ship]] heading
 
       the sea much more steadily than before.
 
@@ -666,19 +666,19 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       the board. For an hour or more, we tried in vain to get rid of
 
-      it, on account of the prodigious rolling of the ship; and, before
+      it, on account of the prodigious [[rolling]] of the [[Ship|ship]]; and, before
 
       we had succeeded, the carpenter came aft and announced four feet
 
-      of water in the hold. To add to our dilemma, we found the pumps
+      of [[Water|water]] in the hold. To add to our dilemma, we found the pumps
 
       choked and nearly useless.
 
 
 
-      All was now confusion and despair—but an effort was made to
+      All was now confusion and [[Despair|despair]]—but an effort was made to
 
-      lighten the ship by throwing overboard as much of her cargo as
+      lighten the [[Ship|ship]] by throwing overboard as much of her cargo as
 
       could be reached, and by cutting away the two masts that
 
@@ -696,7 +696,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       saving ourselves in the boats. At eight P. M., the clouds broke
 
-      away to windward, and we had the advantage of a full moon—a piece
+      away to windward, and we had the advantage of a full [[Moon|moon]]—a piece
 
       of good fortune which served wonderfully to cheer our drooping
 
@@ -710,7 +710,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       we crowded the whole of the crew and most of the passengers. This
 
-      party made off immediately, and, after undergoing much suffering,
+      party made off immediately, and, after undergoing much [[Suffering|suffering]],
 
       finally arrived, in safety, at Ocracoke Inlet, on the third day
 
@@ -726,7 +726,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       miracle that we prevented it from swamping as it touched the
 
-      water. It contained, when afloat, the captain and his wife, Mr.
+      [[Water|water]]. It contained, when afloat, the captain and his wife, Mr.
 
       Wyatt and party, a Mexican officer, wife, four children, and
 
@@ -742,7 +742,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       more. What must have been the astonishment of all, then, when
 
-      having proceeded a few fathoms from the ship, Mr. Wyatt stood up
+      having proceeded a few fathoms from the [[Ship|ship]], Mr. Wyatt stood up
 
       in the stern-sheets, and coolly demanded of Captain Hardy that
 
@@ -756,7 +756,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       “you will capsize us if you do not sit quite still. Our gunwhale
 
-      is almost in the water now.”
+      is almost in the [[Water|water]] now.”
 
 
 
@@ -766,7 +766,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       will be but a trifle—it is nothing—mere nothing. By the mother
 
-      who bore you—for the love of Heaven—by your hope of salvation, I
+      who bore you—for the [[Love|love]] of Heaven—by your [[Hope|hope]] of salvation, I
 
       implore you to put back for the box!”
 
@@ -774,7 +774,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       The captain, for a moment, seemed touched by the earnest appeal
 
-      of the artist, but he regained his stern composure, and merely
+      of the [[artist]], but he regained his stern composure, and merely
 
       said:
 
@@ -784,7 +784,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       or you will swamp the boat. Stay—hold him—seize him!—he is about
 
-      to spring overboard! There—I knew it—he is over!”
+      to [[spring]] overboard! There—I knew it—he is over!”
 
 
 
@@ -794,15 +794,15 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       almost superhuman exertion, in getting hold of a rope which hung
 
-      from the fore-chains. In another moment he was on board, and
+      from the fore-[[Chains|chains]]. In another moment he was on board, and
 
       rushing frantically down into the cabin.
 
 
 
-      In the meantime, we had been swept astern of the ship, and being
+      In the meantime, we had been swept astern of the [[Ship|ship]], and being
 
-      quite out of her lee, were at the mercy of the tremendous sea
+      quite out of her lee, were at the [[Mercy|mercy]] of the tremendous sea
 
       which was still running. We made a determined effort to put back,
 
@@ -810,7 +810,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       tempest. We saw at a glance that the doom of the unfortunate
 
-      artist was sealed.
+      [[artist]] was sealed.
 
 
 
@@ -820,13 +820,13 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       companion—way, up which by dint of strength that appeared
 
-      gigantic, he dragged, bodily, the oblong box. While we gazed in
+      gigantic, he dragged, bodily, [[The Oblong Box|the oblong box]]. While we gazed in
 
       the extremity of astonishment, he passed, rapidly, several turns
 
       of a three-inch rope, first around the box and then around his
 
-      body. In another instant both body and box were in the
+      [[Body|body]]. In another instant both [[Body|body]] and box were in the
 
       sea—disappearing suddenly, at once and forever.
 
@@ -834,7 +834,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       We lingered awhile sadly upon our oars, with our eyes riveted
 
-      upon the spot. At length we pulled away. The silence remained
+      upon the spot. At length we pulled away. The [[Silence|silence]] remained
 
       unbroken for an hour. Finally, I hazarded a remark.
 
@@ -844,7 +844,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       an exceedingly singular thing? I confess that I entertained some
 
-      feeble hope of his final deliverance, when I saw him lash himself
+      feeble [[Hope|hope]] of his final deliverance, when I saw him lash himself
 
       to the box, and commit himself to the sea.”
 
@@ -866,13 +866,13 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       deceased. “We must talk of these things at some more appropriate
 
-      time.”
+      [[Time|time]].”
 
 
 
       We suffered much, and made a narrow escape; but fortune
 
-      befriended us, as well as our mates in the long-boat. We landed,
+      befriended us, as [[Well|well]] as our mates in the long-boat. We landed,
 
       in fine, more dead than alive, after four days of intense
 
@@ -880,7 +880,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       here a week, were not ill-treated by the wreckers, and at length
 
-      obtained a passage to New York.
+      obtained a passage to [[New York]].
 
 
 
@@ -894,27 +894,27 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
 
 
-      The artist had engaged passage for himself, wife, two sisters and
+      The [[artist]] had engaged passage for himself, wife, two sisters and
 
       a servant. His wife was, indeed, as she had been represented, a
 
       most lovely, and most accomplished woman. On the morning of the
 
-      fourteenth of June (the day in which I first visited the ship),
+      fourteenth of June (the day in which I first visited the [[Ship|ship]]),
 
       the lady suddenly sickened and died. The young husband was
 
       frantic with grief—but circumstances imperatively forbade the
 
-      deferring his voyage to New York. It was necessary to take to her
+      deferring his voyage to [[New York]]. It was necessary to take to her
 
       mother the corpse of his adored wife, and, on the other hand, the
 
       universal prejudice which would prevent his doing so openly was
 
-      well known. Nine-tenths of the passengers would have abandoned
+      [[Well|well]] known. Nine-tenths of the passengers would have abandoned
 
-      the ship rather than take passage with a dead body.
+      the [[Ship|ship]] rather than take passage with a dead [[Body|body]].
 
 
 
@@ -926,7 +926,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       board as merchandise. Nothing was to be said of the lady’s
 
-      decease; and, as it was well understood that Mr. Wyatt had
+      decease; and, as it was [[Well|well]] understood that Mr. Wyatt had
 
       engaged passage for his wife, it became necessary that some
 
@@ -938,7 +938,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       now merely retained. In this state-room the pseudo-wife, slept,
 
-      of course, every night. In the daytime she performed, to the best
+      of course, every [[Night|night]]. In the daytime she performed, to the best
 
       of her ability, the part of her mistress—whose person, it had
 
@@ -952,7 +952,7 @@ Some years ago, I engaged passage from Charleston, S. C., to the
 
       inquisitive, and too impulsive a temperament. But of late, it is
 
-      a rare thing that I sleep soundly at night. There is a
+      a rare thing that I [[Sleep|sleep]] soundly at [[Night|night]]. There is a
 
       countenance which haunts me, turn as I will. There is an
 

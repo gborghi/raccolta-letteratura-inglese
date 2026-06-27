@@ -22,7 +22,7 @@ Mr Collingwood has discharged his task in The Life of John Ruskin except,
 of course, Mr Ruskin himself, who would certainly have scored through
 all the eulogies in passionate red ink and declared that his dear friend
 had selected for admiration the very parts of his work which were vile,
-brainless and revolting.  That, however, was merely Ruskin's humour,
+brainless and revolting.  That, however, was merely Ruskin's [[Humour|humour]],
 and one of the deepest disappointments with Mr Collingwood is that he,
 like every one else, fails to appreciate Ruskin as a humorist.
 Yet he was a great humorist:  half the explosions which are
@@ -62,20 +62,20 @@ with what pathetic eagerness men pay prophetic honours even
 to those who disclaim the prophetic character.  Ibsen declares
 that he only depicts life, that as far as he is concerned
 there is nothing to be done, and still armies of `Ibsenites'
-rally to the flag and enthusiastically do nothing.  I have found
+rally to the [[Flag|flag]] and enthusiastically do nothing.  I have found
 traces of a school which avowedly follows Mr Henry James:
-an idea full of humour.  I like to think of a crowd with pikes
+an idea full of [[Humour|humour]].  I like to think of a crowd with pikes
 and torches shouting passages from The Awkward Age.  It is right
 and proper for a multitude to declare its readiness to follow
-a prophet to the end of the world, but if he himself explains,
+a [[Prophet|prophet]] to the end of the world, but if he himself explains,
 with pathetic gesticulations, that he is only going for a walk
 in the park, there is not much for the multitude to do.
 But the disciple of Ruskin had plenty to do.  He made roads;
 in his spare moments he studied the whole of geology and botany.
 He lifted up paving stones and got down into early
 Florentine cellars, where, by hanging upside down, he could
-catch a glimpse of a Cimabue unpraisable but by divine silence.
-He rushed from one end of a city to the other comparing ceilings.
+catch a glimpse of a Cimabue unpraisable but by divine [[Silence|silence]].
+He rushed from one end of a [[City|city]] to the other comparing ceilings.
 His limbs were weary, his clothes were torn, and in his eyes
 was that unfathomable joy of life which man will never know
 again until once more he takes himself seriously.
@@ -89,7 +89,7 @@ But if we return to that Raphaelism to which he was so unjust,
 let us not fall into the old error of intelligent reactionaries,
 that of ignoring our own debt to revolutions.  Ruskin could not destroy
 the market of Raphaelism, but he could and did destroy its monopoly.
-We may go back to the Renaissance, but let us remember that we
+We may go back to the [[Renaissance]], but let us remember that we
 go back free.  We can picnic now in the ruins of our dungeon
 and deride our deliverer.
 
@@ -104,6 +104,6 @@ of Chinese:  hardly a generation away from us, we read of a race
 who believed in the present with the same sort of servile
 optimism with which the Oriental believes in the past.
 It may be that banging his head against that roof for
-twenty years did not improve the temper of the prophet.
+twenty years did not improve the temper of the [[Prophet|prophet]].
 But he made what he praised in the old Italian pictures--'an
-opening into eternity'.
+opening into [[Eternity|eternity]]'.

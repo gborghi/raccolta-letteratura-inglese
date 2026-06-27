@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — R. PETER PRICE, the private inquiry agent, did not glow with that"
+title: "[[FourFaultlessFelons]] — R. PETER PRICE, the private inquiry agent, did not glow with that"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -20,7 +20,7 @@ historic appreciation of the type known as the English Lady which was
 
 such a credit to the heads and hearts of Mr. Geoffrey Chaucer and Mr.
 
-Alan Nadoway. The English Lady is a jewel of many facets, or even a
+Alan Nadoway. The English Lady is a [[Jewel|jewel]] of many facets, or even a
 
 flower including some botanical variations. And Mr. Price had seen, on
 
@@ -32,7 +32,7 @@ inappropriate times, and other manifest enemies of human society. And he
 
 was just recovering from an interview with a very pronounced specimen of
 
-the type, a certain Mrs. Milton-Mowbray, who had talked to him in clear
+the type, a certain Mrs. [[Milton]]-[[Mowbray]], who had talked to him in clear
 
 and decisive tones for about three-quarters of an hour, without telling
 
@@ -42,17 +42,17 @@ him anything of which he could make any sort of sense.
 
 So far as he could piece it out from his notes, it was something like
 
-this. She was sure there had been a burglary in Mr. Nadoway's house,
+this. She was sure there had been a burglary in Mr. Nadoway's [[house]],
 
 where she and her niece were staying, and that they were keeping it from
 
 her, so that she might not find out she had been robbed. She was sure the
 
-burglary was at the Nadoways' house, because property belonging to young
+burglary was at the Nadoways' [[house]], because property belonging to young
 
-Mr. Nadoway had been found after a burglary at another house. The other
+Mr. Nadoway had been found after a burglary at another [[house]]. The other
 
-house was Lady Crayle's house, and the burglar must have gone there from
+[[house]] was Lady Crayle's [[house]], and the burglar must have gone there from
 
 the Nadoways, taking the Nadoway things with him and then dropping them
 
@@ -64,7 +64,7 @@ thing, that nobody had seen before. But her niece wouldn't say anything
 
 about it; they were all keeping things from her-that is, from the
 
-indignant Mrs. Milton-Mowbray.
+indignant Mrs. [[Milton]]-[[Mowbray]].
 
 
 
@@ -72,11 +72,11 @@ indignant Mrs. Milton-Mowbray.
 
 at the ceiling, "and not what you might call fortunate in his profession.
 
-First he steals something from somebody and leaves it at Mr. Nadoway's.
+First he steals something from somebody and [[Leaves|leaves]] it at Mr. Nadoway's.
 
-Then he steals something from Mr. Nadoway and leaves it at Lady Crayle's.
+Then he steals something from Mr. Nadoway and [[Leaves|leaves]] it at Lady Crayle's.
 
-Did he actually steal anything from Lady Crayle? And at whose house did
+Did he actually steal anything from Lady Crayle? And at whose [[house]] did
 
 he leave that?"
 
@@ -106,7 +106,7 @@ robbed. But I really think I have a right to know."
 
 
 
-"Perhaps it would assist them a little," said the private detective, "if
+"Perhaps it would assist them a little," said the private [[Detective|detective]], "if
 
 you first of all told them whether you had been robbed. You see, this
 
@@ -118,7 +118,7 @@ sake of argument, that there were two robberies. And we'll grant, for the
 
 sake of argument, that there was only one robber. It's presumed he was a
 
-robber, because he leaves about in other people's houses, things you
+robber, because he [[Leaves|leaves]] about in other people's houses, things you
 
 think cannot have belonged to him. But none of these things, so far as I
 
@@ -130,13 +130,13 @@ robbing. None of these things, for instance, belonged to you."
 
 "How can I tell?" she said with a sweeping gesture of agnosticism.
 
-"Nobody will tell me the truth. I am--"
+"Nobody will tell me the [[Truth|truth]]. I am--"
 
 
 
 "My dear madam," said Mr. Price with belated firmness, "you cannot
 
-require anybody to tell you the truth about yourself. Have you lost
+require anybody to tell you the [[Truth|truth]] about yourself. Have you lost
 
 anything yourself? Have you missed anything yourself? For that matter,
 
@@ -146,7 +146,7 @@ has Lady Crayle missed anything herself?"
 
 "Lady Crayle wouldn't know whether she'd missed anything or not," said
 
-Mrs. Mowbray with sudden acrimony. "She's the very vaguest of the lot."
+Mrs. [[Mowbray]] with sudden acrimony. "She's the very vaguest of the lot."
 
 
 
@@ -172,13 +172,13 @@ the Victorian lady scornfully. "Talk about her League Against Tobacco or
 
 her controversy about defining drugs, and she's all there. But she never
 
-notices anything that's lying about in her own house."
+notices anything that's lying about in her own [[house]]."
 
 
 
 "Does she notice her husband, for instance?" inquired Mr. Price. "Is he
 
-left lying about in the house much? I always understood he was a very
+left lying about in the [[house]] much? I always understood he was a very
 
 distinguished man in his day, and, of course, it's an awfully old family.
 
@@ -194,23 +194,23 @@ they've lost anything of great value."
 
 He was silent for a moment, ruminating and then said as suddenly as a
 
-pistol-shot: "What was it exactly they picked up after the burglar
+[[Pistol|pistol]]-shot: "What was it exactly they picked up after the burglar
 
 bolted?"
 
 
 
-"I believe it was nothing but cigars," replied Mrs. Mowbray shortly. "A
+"I believe it was nothing but cigars," replied Mrs. [[Mowbray]] shortly. "A
 
 whole big case stuffed with them. But as it had a card of one of the
 
-Nadoways, we presume the burglar had stolen it from their house."
+Nadoways, we presume the burglar had stolen it from their [[house]]."
 
 
 
 "Quite so," he answered. "And now about the other things he had stolen
 
-from their house. I am sure you understand that, if I am to help you, I
+from their [[house]]. I am sure you understand that, if I am to help you, I
 
 must be excused for assuming a more or less confidential position. I
 
@@ -224,13 +224,13 @@ the necessity of working for her living."
 
 "I was against her going to work for such people at all," said Mrs.
 
-Mowbray. "But when all these Socialistic Governments have taken away all
+[[Mowbray]]. "But when all these Socialistic Governments have taken away all
 
 our money, what can we do?"
 
 
 
-"I know-I know," said the detective, nodding in an almost dreamy fashion;
+"I know-I know," said the [[Detective|detective]], nodding in an almost dreamy fashion;
 
 his eyes were again fixed on the ceiling and he seemed to be following a
 
@@ -250,7 +250,7 @@ mean old man without expecting anything like a windfall. And then there's
 
 another curious picture. A man who's been an ordinary man of the world
 
-but driven to live the simple life, partly by poverty and partly by
+but driven to live the simple life, partly by [[Poverty|poverty]] and partly by
 
 having a Puritanical wife with a fad against all his old luxuries and
 
@@ -258,21 +258,21 @@ especially against tobacco. . . . Does that suggest anything to you?"
 
 
 
-"No, it doesn't," said Mrs. Mowbray, rising and rustling. "I consider all
+"No, it doesn't," said Mrs. [[Mowbray]], rising and rustling. "I consider all
 
 this most unsatisfactory, and I don't know what you're talking about."
 
 
 
-"He was really a very absent-minded housebreaker," said the detective.
+"He was really a very absent-minded housebreaker," said the [[Detective|detective]].
 
 "If he had known what he was about, he would have dropped two brooches."
 
 
 
-Ten minutes later Mrs. Mowbray had shaken the dust of the very dusty
+Ten minutes later Mrs. [[Mowbray]] had shaken the [[Dust|dust]] of the very dusty
 
-detective office off her feet and gone on to pour out her woes elsewhere;
+[[Detective|detective]] office off her feet and gone on to pour out her woes elsewhere;
 
 and Mr. Peter Price went to the telephone with a smile that he seemed to
 
@@ -282,11 +282,11 @@ official police department, and their conversation was long and detailed.
 
 It largely concerned the prevalence of petty crime, especially larceny,
 
-in some of the very poorest districts of London. And yet, oddly enough,
+in some of the very poorest districts of [[London]]. And yet, oddly enough,
 
 Mr. Price added the notes of this telephone conversation to his notes of
 
-the conversation with the aristocratic Mrs. Milton-Mowbray.
+the conversation with the aristocratic Mrs. [[Milton]]-[[Mowbray]].
 
 
 
@@ -302,15 +302,15 @@ than met the eye.
 
 
 
-The truth was that Mr. Peter Price was awaiting another arrival, in
+The [[Truth|truth]] was that Mr. Peter Price was awaiting another arrival, in
 
 accordance with another appointment. The two were not unconnected, though
 
-it would have surprised Mrs. Mowbray very much if she had seen a figure
+it would have surprised Mrs. [[Mowbray]] very much if she had seen a figure
 
 so familiar as that of Mr. John Nadoway, of Nadoway and Son, enter the
 
-detective's office so soon after she had left. But many years before, the
+[[Detective|detective]]'s office so soon after she had left. But many years before, the
 
 Junior Partner had been put to considerable difficulties in covering up
 
@@ -338,7 +338,7 @@ far more ghastly and gigantic scale.
 
 For Alan Nadoway, no longer acting anonymously or even like a thief in
 
-the night, but announcing his name even more plainly than when he left
+the [[Night|night]], but announcing his name even more plainly than when he left
 
 his visiting-card, had declared that it was his intention to pick pockets
 
@@ -350,9 +350,9 @@ curious communication he had sent his brother, he gravely declared that
 
 while there was obviously nothing morally wrong about picking pockets, he
 
-could not reconcile it with his conscience (perhaps, he admitted, a too
+could not reconcile it with his [[Conscience|conscience]] (perhaps, he admitted, a too
 
-sensitive conscience) to deceive a kind policeman by giving a false name.
+sensitive [[Conscience|conscience]]) to deceive a kind policeman by giving a false name.
 
 He had tried three times, he pathetically declared, to call himself
 
@@ -372,7 +372,7 @@ parallel advertisements. Alan Nadoway, announcing himself as the eldest
 
 son of Sir Jacob Nadoway (for such was already the father's title),
 
-appeared in the police court, charged with picking pockets not only once
+appeared in the police [[Court|court]], charged with picking pockets not only once
 
 but regularly and successfully for several weeks.
 
@@ -398,7 +398,7 @@ man could be so wicked."
 
 "Yes," said Peter Price, a little sleepily; "it seems incredible." Then
 
-he got up with his hands in his pockets and looked out of the window and
+he got up with his hands in his pockets and looked out of the [[Window|window]] and
 
 remarked: "You know, when you come to think of it, that's just the word
 
@@ -426,7 +426,7 @@ I begin to have a large general sort of suspicion."
 
 
 
-Then after another silence he said abruptly: "Look here, I won't risk
+Then after another [[Silence|silence]] he said abruptly: "Look here, I won't risk
 
 raising hopes or suspicions yet, but if you'll let me see the solicitor
 
@@ -436,15 +436,15 @@ something to suggest to him."
 
 
 
-John Nadoway left the offices of the detective with a slow gait and a
+John Nadoway left the offices of the [[Detective|detective]] with a slow gait and a
 
 puzzled expression, which he continued to wear all the way down to his
 
-country house, which he reached that evening, driving his own car with
+country [[house]], which he reached that evening, driving his own car with
 
 his usual competence, but without any shedding of his unusual perplexity
 
-and gloom. Everything had grown so puzzling, as well as so painful, that
+and gloom. Everything had grown so puzzling, as [[Well|well]] as so painful, that
 
 he found himself forced against the edges of existence, in a manner rare
 
@@ -452,23 +452,23 @@ in the experience of men of his type. He would have said in all
 
 simplicity that he was not a thinker, and he would have seen nothing
 
-unnatural in the notion of a man walking through life to death, without
+unnatural in the notion of a man walking through life to [[Death|death]], without
 
 stopping anywhere to think. But everything, down to the demeanour of that
 
-practical little private detective, was so damned mysterious. Even the
+practical little private [[Detective|detective]], was so damned mysterious. Even the
 
-dark trees before his father's house seemed to stand up in serpentine
+dark trees before his father's [[house]] seemed to stand up in serpentine
 
-shapes like enormous notes of interrogation. The stars looked like those
+shapes like enormous notes of interrogation. The [[Stars|stars]] looked like those
 
-other stars called asterisks, which stand in the suppressed passages of a
+other [[Stars|stars]] called asterisks, which stand in the suppressed passages of a
 
-puzzle or a cipher. And the single window lighted in the dark bulk of the
+puzzle or a cipher. And the single [[Window|window]] lighted in the dark bulk of the
 
-house was like a leering eye. He knew only too well that a cloud of shame
+[[house]] was like a leering eye. He knew only too [[Well|well]] that a cloud of shame
 
-and doom was on that house, like a thunder-cloud about to burst. It was
+and doom was on that [[house]], like a thunder-cloud about to burst. It was
 
 the sort of doom he had tried to avert all his life, and now it had come
 
@@ -476,13 +476,13 @@ he could hardly even pretend it was not deserved.
 
 
 
-In the shadow of the veranda, with a sort of silent shock, he came upon
+In the [[Shadow|shadow]] of the veranda, with a sort of silent shock, he came upon
 
-Millicent, sitting in a garden chair and gazing out into the dark. And in
+Millicent, sitting in a [[Garden|garden]] chair and gazing out into the dark. And in
 
-all that black and tragic house of riddles, perhaps her face was the
+all that black and tragic [[house]] of riddles, perhaps her face was the
 
-darkest and most inscrutable riddle, for it was happy.
+darkest and most inscrutable [[Riddle|riddle]], for it was happy.
 
 
 
@@ -490,9 +490,9 @@ As she gazed, indeed, and became conscious of the sturdy figure of the
 
 businessman blackening the faint shimmer of light on the lawn, a sort of
 
-misty change came across her eyes, that was not pain but had in it
+misty change came across her eyes, that was not [[Pain|pain]] but had in it
 
-something of pathos. She felt a sort of sad friendship go out in a
+something of pathos. She felt a sort of sad [[Friendship|friendship]] go out in a
 
 sympathetic wave towards this strong, successful and unfortunate man-as
 
@@ -500,15 +500,15 @@ towards something deaf or blind. She could not analyse the softening,
 
 which was also a severing, until she remembered that she had nearly been
 
-in love with him when he was a boy in that garden. She did not know why
+in [[Love|love]] with him when he was a boy in that [[Garden|garden]]. She did not know why
 
-she should feel so sharply and almost tragically that she was not in love
+she should feel so sharply and almost tragically that she was not in [[Love|love]]
 
-with him now. That she could never, never, be in love with that kind of
+with him now. That she could never, never, be in [[Love|love]] with that kind of
 
-man now. That kind of man-well, he was the kind of thoroughly good man
+man now. That kind of man-[[Well|well]], he was the kind of thoroughly good man
 
-who thought that telling the truth was as right as cleaning the teeth. It
+who thought that telling the [[Truth|truth]] was as right as cleaning the teeth. It
 
 would be like loving somebody quite flat-only in two dimensions.
 
@@ -516,11 +516,11 @@ would be like loving somebody quite flat-only in two dimensions.
 
 For she felt that in herself a depth had opened like a new dimension,
 
-full of topsy-turvy stars and the inverted infinities of Einstein. She
+full of topsy-turvy [[Stars|stars]] and the inverted infinities of Einstein. She
 
 hardly looked into that abyss behind her, she hardly took in the positive
 
-novelty, but only the sharp negative, that she was not in love with John
+novelty, but only the sharp negative, that she was not in [[Love|love]] with John
 
 Nadoway.
 
@@ -528,13 +528,13 @@ Nadoway.
 
 All the more her cold compassion went out to him, without shyness, as to
 
-a brother. "I am so sorry," she cried, "for all you must be suffering
+a brother. "I am so sorry," she cried, "for all you must be [[Suffering|suffering]]
 
 just now. It must seem so dreadful to you."
 
 
 
-"Thank you," he said, not without emotion. "We are having a trying time,
+"Thank you," he said, not without emotion. "We are having a trying [[Time|time]],
 
 of course-and sympathy from old friends does not hurt."
 
@@ -594,6 +594,6 @@ too good to live."
 
 The Junior Partner resumed his plodding march with the new addition to
 
-his list of worries; that among the inmates of the house, was a lady who
+his list of worries; that among the inmates of the [[house]], was a lady who
 
 was a lunatic.

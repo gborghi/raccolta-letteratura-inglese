@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 12 (part 2)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 12 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-and stern nature of the business in which I was engaged (so different
+and stern [[Nature|nature]] of the business in which I was engaged (so different
 
-from the tumultuous dangers of the storm or the gradually approaching
+from the tumultuous dangers of the [[Storm|storm]] or the gradually approaching
 
 horrors of famine) allowed me to reflect on the few chances I had of
 
-escaping the most appalling of deaths--a death for the most appalling
+escaping the most appalling of deaths--a [[Death|death]] for the most appalling
 
 of purposes--every particle of that energy which had so long buoyed me
 
-up departed like feathers before the wind, leaving me a helpless prey
+up departed like feathers before the [[Wind|wind]], leaving me a helpless prey
 
 to the most abject and pitiable terror. I could not, at first, even
 
@@ -40,13 +40,13 @@ awful speculation. I thought of falling on my knees to my companions,
 
 and entreating them to let me escape this necessity; of suddenly
 
-rushing upon them, and, by putting one of them to death, of rendering
+rushing upon them, and, by putting one of them to [[Death|death]], of rendering
 
 the decision by lot useless--in short, of everything but of going
 
 through with the matter I had in hand. At last, after wasting a long
 
-time in this imbecile conduct, I was recalled to my senses by the voice
+[[Time|time]] in this imbecile conduct, I was recalled to my senses by the voice
 
 of Parker, who urged me to relieve them at once from the terrible
 
@@ -112,9 +112,9 @@ deck.
 
 
 
-I recovered from my swoon in time to behold the consummation of the
+I recovered from my swoon in [[Time|time]] to behold the consummation of the
 
-tragedy in the death of him who had been chiefly instrumental in
+[[Tragedy|tragedy]] in the [[Death|death]] of him who had been chiefly instrumental in
 
 bringing it about. He made no resistance whatever, and was stabbed in
 
@@ -128,11 +128,11 @@ exquisite horror of their reality. Let it suffice to say that, having
 
 in some measure appeased the raging thirst which consumed us by the
 
-blood of the victim, and having by common consent taken off the hands,
+[[Blood|blood]] of the victim, and having by common consent taken off the hands,
 
 feet, and head, throwing them, together with the entrails, into the
 
-sea, we devoured the rest of the body, piecemeal, during the four ever
+sea, we devoured the rest of the [[Body|body]], piecemeal, during the four ever
 
 memorable days of the seventeenth, eighteenth, nineteenth, and
 
@@ -142,7 +142,7 @@ twentieth of the month.
 
 On the nineteenth, there coming on a smart shower which lasted fifteen
 
-or twenty minutes, we contrived to catch some water by means of a sheet
+or twenty minutes, we contrived to catch some [[Water|water]] by means of a sheet
 
 which had been fished up from the cabin by our drag just after the
 
@@ -150,7 +150,7 @@ gale. The quantity we took in all did not amount to more than half a
 
 gallon; but even this scanty allowance supplied us with comparative
 
-strength and hope.
+strength and [[Hope|hope]].
 
 
 
@@ -168,9 +168,9 @@ gloomily revolving over our lamentable condition, there flashed through
 
 my mind all at once an idea which inspired me with a bright gleam of
 
-hope. I remembered that, when the foremast had been cut away, Peters,
+[[Hope|hope]]. I remembered that, when the foremast had been cut away, Peters,
 
-being in the windward chains, passed one of the axes into my hand,
+being in the windward [[Chains|chains]], passed one of the axes into my hand,
 
 requesting me to put it, if possible, in a place of security, and that
 
@@ -202,4 +202,4 @@ about three feet square, had remained uninjured. I did not hesitate,
 
 however, to attempt the descent; and, a rope being fastened round my
 
-body as before, I plunged boldly in, feet foremost, made my way quickly
+[[Body|body]] as before, I plunged boldly in, feet foremost, made my way quickly

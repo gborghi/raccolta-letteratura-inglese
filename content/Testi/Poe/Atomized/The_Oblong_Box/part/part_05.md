@@ -1,5 +1,5 @@
 ---
-title: "The Oblong Box (part 5)"
+title: "[[The Oblong Box]] (part 5)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -13,9 +13,9 @@ tags:
 </nav>
 
 
-      In the meantime, we had been swept astern of the ship, and being
+      In the meantime, we had been swept astern of the [[Ship|ship]], and being
 
-      quite out of her lee, were at the mercy of the tremendous sea
+      quite out of her lee, were at the [[Mercy|mercy]] of the tremendous sea
 
       which was still running. We made a determined effort to put back,
 
@@ -23,7 +23,7 @@ tags:
 
       tempest. We saw at a glance that the doom of the unfortunate
 
-      artist was sealed.
+      [[artist]] was sealed.
 
 
 
@@ -33,13 +33,13 @@ tags:
 
       companion—way, up which by dint of strength that appeared
 
-      gigantic, he dragged, bodily, the oblong box. While we gazed in
+      gigantic, he dragged, bodily, [[The Oblong Box|the oblong box]]. While we gazed in
 
       the extremity of astonishment, he passed, rapidly, several turns
 
       of a three-inch rope, first around the box and then around his
 
-      body. In another instant both body and box were in the
+      [[Body|body]]. In another instant both [[Body|body]] and box were in the
 
       sea—disappearing suddenly, at once and forever.
 
@@ -47,7 +47,7 @@ tags:
 
       We lingered awhile sadly upon our oars, with our eyes riveted
 
-      upon the spot. At length we pulled away. The silence remained
+      upon the spot. At length we pulled away. The [[Silence|silence]] remained
 
       unbroken for an hour. Finally, I hazarded a remark.
 
@@ -57,7 +57,7 @@ tags:
 
       an exceedingly singular thing? I confess that I entertained some
 
-      feeble hope of his final deliverance, when I saw him lash himself
+      feeble [[Hope|hope]] of his final deliverance, when I saw him lash himself
 
       to the box, and commit himself to the sea.”
 
@@ -79,13 +79,13 @@ tags:
 
       deceased. “We must talk of these things at some more appropriate
 
-      time.”
+      [[Time|time]].”
 
 
 
       We suffered much, and made a narrow escape; but fortune
 
-      befriended us, as well as our mates in the long-boat. We landed,
+      befriended us, as [[Well|well]] as our mates in the long-boat. We landed,
 
       in fine, more dead than alive, after four days of intense
 
@@ -93,7 +93,7 @@ tags:
 
       here a week, were not ill-treated by the wreckers, and at length
 
-      obtained a passage to New York.
+      obtained a passage to [[New York]].
 
 
 
@@ -107,27 +107,27 @@ tags:
 
 
 
-      The artist had engaged passage for himself, wife, two sisters and
+      The [[artist]] had engaged passage for himself, wife, two sisters and
 
       a servant. His wife was, indeed, as she had been represented, a
 
       most lovely, and most accomplished woman. On the morning of the
 
-      fourteenth of June (the day in which I first visited the ship),
+      fourteenth of June (the day in which I first visited the [[Ship|ship]]),
 
       the lady suddenly sickened and died. The young husband was
 
       frantic with grief—but circumstances imperatively forbade the
 
-      deferring his voyage to New York. It was necessary to take to her
+      deferring his voyage to [[New York]]. It was necessary to take to her
 
       mother the corpse of his adored wife, and, on the other hand, the
 
       universal prejudice which would prevent his doing so openly was
 
-      well known. Nine-tenths of the passengers would have abandoned
+      [[Well|well]] known. Nine-tenths of the passengers would have abandoned
 
-      the ship rather than take passage with a dead body.
+      the [[Ship|ship]] rather than take passage with a dead [[Body|body]].
 
 
 
@@ -139,7 +139,7 @@ tags:
 
       board as merchandise. Nothing was to be said of the lady’s
 
-      decease; and, as it was well understood that Mr. Wyatt had
+      decease; and, as it was [[Well|well]] understood that Mr. Wyatt had
 
       engaged passage for his wife, it became necessary that some
 
@@ -151,7 +151,7 @@ tags:
 
       now merely retained. In this state-room the pseudo-wife, slept,
 
-      of course, every night. In the daytime she performed, to the best
+      of course, every [[Night|night]]. In the daytime she performed, to the best
 
       of her ability, the part of her mistress—whose person, it had
 
@@ -165,7 +165,7 @@ tags:
 
       inquisitive, and too impulsive a temperament. But of late, it is
 
-      a rare thing that I sleep soundly at night. There is a
+      a rare thing that I [[Sleep|sleep]] soundly at [[Night|night]]. There is a
 
       countenance which haunts me, turn as I will. There is an
 

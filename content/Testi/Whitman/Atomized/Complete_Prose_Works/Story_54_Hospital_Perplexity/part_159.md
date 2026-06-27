@@ -16,7 +16,7 @@ tags:
 
 I can yet remember (for I always scann'd an audience as rigidly as
 a play) the faces of the leading authors, poets, editors, of those
-times--Fenimore Cooper, Bryant, Paulding, Irving, Charles King, Watson
+times--Fenimore Cooper, Bryant, Paulding, Irving, Charles [[King]], Watson
 Webb, N. P. Willis, Hoffman, Halleck, Mumford, Morris, Leggett, L. G.
 Clarke, R. A. Locke and others, occasionally peering from the first tier
 boxes; and even the great National Eminences, Presidents Adams, Jackson,
@@ -27,14 +27,14 @@ completely changed. Cheap prices and vulgar programmes came in. People
 who of after years saw the pandemonium of the pit and the doings on the
 boards must not gauge by them the times and characters I am describing.
 Not but what there was more or less rankness in the crowd even then. For
-types of sectional New York those days--the streets East of the Bowery,
+types of sectional [[New York]] those days--the streets East of the Bowery,
 that intersect Division, Grand, and up to Third avenue--types that
 never found their Dickens, or Hogarth, or Balzac, and have pass'd away
-unportraitured--the young ship-builders, cartmen, butchers, firemen (the
-old-time "soap-lock" or exaggerated "Mose" or "Sikesey," of Chanfrau's
+unportraitured--the young [[Ship|ship]]-builders, cartmen, butchers, firemen (the
+old-[[Time|time]] "soap-lock" or exaggerated "Mose" or "Sikesey," of Chanfrau's
 plays,) they, too, were always to be seen in these audiences, racy of
-the East river and the Dry Dock. Slang, wit, occasional shirt sleeves,
-and a picturesque freedom of looks and manners, with a rude good-nature
+the East [[River|river]] and the Dry Dock. Slang, wit, occasional shirt sleeves,
+and a picturesque [[Freedom|freedom]] of looks and manners, with a rude good-[[Nature|nature]]
 and restless movement, were generally noticeable. Yet there never were
 audiences that paid a good actor or an interesting play the compliment
 of more sustain'd attention or quicker rapport. Then at times came the
@@ -47,18 +47,18 @@ I happen'd to see what has been reckon'd by experts one of the most
 marvellous pieces of histrionism ever known. It must have been about
 1834 or '35. A favorite comedian and actress at the Bowery, Thomas Flynn
 and his wife, were to have a joint benefit, and, securing Booth for
-Richard, advertised the fact many days beforehand. The house fill'd
-early from top to bottom. There was some uneasiness behind the scenes,
+[[Richard]], advertised the fact many days beforehand. The [[house]] fill'd
+early from top to [[Bottom|bottom]]. There was some uneasiness behind the scenes,
 for the afternoon arrived, and Booth had not come from down in Maryland,
-where he lived. However, a few minutes before ringing-up time he made
+where he lived. However, a few minutes before ringing-up [[Time|time]] he made
 his appearance in lively condition.
 
 After a one-act farce over, as contrast and prelude, the curtain rising
-for the tragedy, I can, from my good seat in the pit, pretty well front,
+for the [[Tragedy|tragedy]], I can, from my good seat in the pit, pretty [[Well|well]] front,
 see again Booth's quiet entrance from the side, as, with head bent, he
-slowly and in silence, (amid the tempest of boisterous hand-clapping,)
+slowly and in [[Silence|silence]], (amid the tempest of boisterous hand-clapping,)
 walks down the stage to the footlights with that peculiar and abstracted
-gesture, musingly kicking his sword, which he holds off from him by its
+gesture, musingly kicking his [[Sword|sword]], which he holds off from him by its
 sash. Though fifty years have pass'd since then, I can hear the clank,
 and feel the perfect following hush of perhaps three thousand people
 waiting. (I never saw an actor who could make more of the said hush
@@ -66,9 +66,9 @@ or wait, and hold the audience in an indescribable, half-delicious,
 half-irritating suspense.) And so throughout the entire play, all parts,
 voice, atmosphere, magnetism, from
 
-    "Now is the winter of our discontent,"
+    "Now is the [[Winter|winter]] of our discontent,"
 
-to the closing death fight with Richmond, were of the finest and
+to the closing [[Death|death]] fight with Richmond, were of the finest and
 grandest. The latter character was play'd by a stalwart young fellow
 named Ingersoll. Indeed, all the renderings were wonderfully good.
 But the great spell cast upon the mass of hearers came from Booth.
@@ -85,7 +85,7 @@ To me, too, Booth stands for much else besides theatricals. I consider
 that my seeing the man those years glimps'd for me, beyond all else,
 that inner spirit and form--the unquestionable charm and vivacity, but
 intrinsic sophistication and artificiality--crystallizing rapidly upon
-the English stage and literature at and after Shakspere's time,
+the English stage and literature at and after Shakspere's [[Time|time]],
 and coming on accumulatively through the seventeenth and eighteenth
 centuries to the beginning, fifty or forty years ago, of those
 disintegrating, decomposing processes now authoritatively going on. Yes;
@@ -93,21 +93,21 @@ although Booth must be class'd in that antique, almost extinct school,
 inflated, stagy, rendering Shakspere (perhaps inevitably, appropriately)
 from the growth of arbitrary and often cockney conventions, his genius
 was to me one of the grandest revelations of my life, a lesson of
-artistic expression. The words fire, energy, _abandon_, found in him
+artistic expression. The words [[Fire|fire]], energy, _abandon_, found in him
 unprecedented meanings. I never heard a speaker or actor who could give
 such a sting to hauteur or the taunt. I never heard from any other the
 charm of unswervingly perfect vocalization without trenching at all on
 mere melody, the province of music.
 
-So much for a Thespian temple of New York fifty years since, where
-"sceptred tragedy went trailing by" under the gaze of the Dry Dock
+So much for a Thespian temple of [[New York]] fifty years since, where
+"sceptred [[Tragedy|tragedy]] went trailing by" under the gaze of the Dry Dock
 youth, and both players and auditors were of a character and like we
 shall never see again. And so much for the grandest histrion of modern
 times, as near as I can deliberately judge (and the phrenologists put
 my "caution" at 7)--grander, I believe, than Kean in the expression of
-electric passion, the prime eligibility of the tragic artist. For
+electric passion, the prime eligibility of the tragic [[Artist|artist]]. For
 though those brilliant years had many fine and even magnificent actors,
-undoubtedly at Booth's death (in 1852) went the last and by far the
+undoubtedly at Booth's [[Death|death]] (in 1852) went the last and by far the
 noblest Roman of them all.
 
 
@@ -117,4 +117,4 @@ NOTES TO LATE ENGLISH BOOKS
 
 
 PREFACE TO THE READER IN THE BRITISH ISLANDS--"Specimen Days in
-America"
+[[America]]"

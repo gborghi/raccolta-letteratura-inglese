@@ -40,9 +40,9 @@ that could be felt; it had a military edge to it, an _acies_; and there
 
 was a kind of swordsmanship about it. Thus all the circumstances led,
 
-not so much to the narrowing of Stevenson to the romance of the fighting
+not so much to the narrowing of Stevenson to the [[Romance|romance]] of the fighting
 
-spirit; but the narrowing of his influence to that romance. He had a
+spirit; but the narrowing of his influence to that [[Romance|romance]]. He had a
 
 great many other things to say; but this was what we were willing to
 
@@ -58,7 +58,7 @@ credit to his manhood in preaching a sane levity and pugnacious
 
 optimism. But it also forbade him full familiarity with the actualities
 
-of sport, war, or comradeship: and here and there his note is false in
+of sport, war, or [[Comradeship|comradeship]]: and here and there his note is false in
 
 these matters, and reminds one (though very remotely) of the mere
 
@@ -68,7 +68,7 @@ provincial bully that Henley sometimes sank to be.
 
 For Stevenson had at his elbow a friend, an invalid like himself, a man
 
-of courage and stoicism like himself; but a man in whom everything that
+of [[Courage|courage]] and stoicism like himself; but a man in whom everything that
 
 Stevenson made delicate and rational became unbalanced and blind. The
 
@@ -92,7 +92,7 @@ seemed to think that on the right side the wronger you were the better.
 
 There was much that was feminine in him; and he is most understandable
 
-when surprised in those little solitary poems which speak of emotions
+when surprised in those little solitary [[Poems|poems]] which speak of emotions
 
 mellowed, of sunset and a quiet end. Henley hurled himself into the new
 
@@ -136,7 +136,7 @@ that he is partial. I therefore confess that I think this last turn of
 
 the Victorian Age was an unfortunate turn; much on the other side can be
 
-said, and I hope will be said. But about the facts there can be no
+said, and I [[Hope|hope]] will be said. But about the facts there can be no
 
 question. The Imperialism of Kipling was equally remote from the
 
@@ -146,7 +146,7 @@ seriously end here. The world was full of the trampling of totally new
 
 forces, gold was sighted from far in a sort of cynical romanticism: the
 
-guns opened across Africa; and the great queen died.
+guns opened across Africa; and the great [[Queen|queen]] died.
 
 
 
@@ -168,7 +168,7 @@ country must extend peace: it has certainly often extended war. They
 
 thought that commerce inside a country must certainly promote
 
-prosperity; it has largely promoted poverty. But for them these were
+prosperity; it has largely promoted [[Poverty|poverty]]. But for them these were
 
 experiments; for us they ought to be lessons. If _we_ continue the
 
@@ -196,7 +196,7 @@ After having surveyed the immense field presented in such a volume as
 
 Mr. George Mair's _Modern English Literature_ in this series, or, more
 
-fully, in the _Cambridge History of Modern Literature_, the later volume
+fully, in the _Cambridge [[history|History]] of Modern Literature_, the later volume
 
 of Chambers' _English Literature_, Mr. Gosse's _History of Modern
 

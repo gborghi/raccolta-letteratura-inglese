@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 14 (part 3)"
+title: "Bleak [[house|House]] — Chapter 14 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -38,7 +38,7 @@ opening her eyes. “There’s no such person. He is a widower.”
 
 We were here interrupted by Peepy, whose leg had undergone so much on
 account of his sister’s unconsciously jerking it like a bell-rope
-whenever she was emphatic that the afflicted child now bemoaned his
+whenever she was emphatic that the afflicted [[Child|child]] now bemoaned his
 sufferings with a very low-spirited noise. As he appealed to me for
 compassion, and as I was only a listener, I undertook to hold him.
 Miss Jellyby proceeded, after begging Peepy’s pardon with a kiss and
@@ -67,17 +67,17 @@ there was one thing more she wished us to know, and felt we ought to
 know, and which she hoped would not offend us. It was that she had
 improved her acquaintance with Miss Flite, the little crazy old lady,
 and that she frequently went there early in the morning and met her
-lover for a few minutes before breakfast—only for a few minutes. “I
+[[Lover|lover]] for a few minutes before breakfast—only for a few minutes. “I
 go there at other times,” said Caddy, “but Prince does not come then.
 Young Mr. Turveydrop’s name is Prince; I wish it wasn’t, because it
 sounds like a dog, but of course he didn’t christen himself. Old Mr.
 Turveydrop had him christened Prince in remembrance of the Prince
 Regent. Old Mr. Turveydrop adored the Prince Regent on account of his
-deportment. I hope you won’t think the worse of me for having made
+deportment. I [[Hope|hope]] you won’t think the worse of me for having made
 these little appointments at Miss Flite’s, where I first went with
 you, because I like the poor thing for her own sake and I believe she
 likes me. If you could see young Mr. Turveydrop, I am sure you would
-think well of him—at least, I am sure you couldn’t possibly think
+think [[Well|well]] of him—at least, I am sure you couldn’t possibly think
 any ill of him. I am going there now for my lesson. I couldn’t ask
 you to go with me, Miss Summerson; but if you would,” said Caddy, who
 had said all this earnestly and tremblingly, “I should be very
@@ -91,26 +91,26 @@ sufficient influence with Miss Jellyby to prevent her taking any very
 rash step if I fully accepted the confidence she was so willing to
 place in me, poor girl, I proposed that she and I and Peepy should go
 to the academy and afterwards meet my guardian and Ada at Miss
-Flite’s, whose name I now learnt for the first time. This was on
+Flite’s, whose name I now learnt for the first [[Time|time]]. This was on
 condition that Miss Jellyby and Peepy should come back with us to
 dinner. The last article of the agreement being joyfully acceded to
 by both, we smartened Peepy up a little with the assistance of a few
-pins, some soap and water, and a hair-brush, and went out, bending
+pins, some soap and [[Water|water]], and a hair-brush, and went out, bending
 our steps towards Newman Street, which was very near.
 
-I found the academy established in a sufficiently dingy house at the
+I found the academy established in a sufficiently dingy [[house]] at the
 corner of an archway, with busts in all the staircase windows. In the
-same house there were also established, as I gathered from the plates
+same [[house]] there were also established, as I gathered from the plates
 on the door, a drawing-master, a coal-merchant (there was, certainly,
-no room for his coals), and a lithographic artist. On the plate
+no room for his coals), and a lithographic [[Artist|artist]]. On the plate
 which, in size and situation, took precedence of all the rest, I
 read, MR. TURVEYDROP. The door was open, and the hall was blocked up
 by a grand piano, a harp, and several other musical instruments in
 cases, all in progress of removal, and all looking rakish in the
 daylight. Miss Jellyby informed me that the academy had been lent,
-last night, for a concert.
+last [[Night|night]], for a concert.
 
-We went upstairs—it had been quite a fine house once, when it was
+We went upstairs—it had been quite a fine [[house]] once, when it was
 anybody’s business to keep it clean and fresh, and nobody’s business
 to smoke in it all day—and into Mr. Turveydrop’s great room, which
 was built out into a mews at the back and was lighted by a skylight.
@@ -118,7 +118,7 @@ It was a bare, resounding room smelling of stables, with cane forms
 along the walls, and the walls ornamented at regular intervals with
 painted lyres and little cut-glass branches for candles, which seemed
 to be shedding their old-fashioned drops as other branches might shed
-autumn leaves. Several young lady pupils, ranging from thirteen or
+[[Autumn|autumn]] [[Leaves|leaves]]. Several young lady pupils, ranging from thirteen or
 fourteen years of age to two or three and twenty, were assembled; and
 I was looking among them for their instructor when Caddy, pinching my
 arm, repeated the ceremony of introduction. “Miss Summerson, Mr.
@@ -129,7 +129,7 @@ flaxen hair parted in the middle and curling at the ends all round
 his head. He had a little fiddle, which we used to call at school a
 kit, under his left arm, and its little bow in the same hand. His
 little dancing-shoes were particularly diminutive, and he had a
-little innocent, feminine manner which not only appealed to me in an
+little [[Innocent|innocent]], feminine manner which not only appealed to me in an
 amiable way, but made this singular effect upon me, that I received
 the impression that he was like his mother and that his mother had
-not been much considered or well used.
+not been much considered or [[Well|well]] used.

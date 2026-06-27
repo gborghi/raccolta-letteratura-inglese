@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 3"
+title: "The Mystery of [[Edwin Drood]] — Chapter 3"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -15,67 +15,67 @@ tags:
 
 
 CHAPTER III.
-THE NUNS’ HOUSE
+THE NUNS’ [[house|HOUSE]]
 
 
 For sufficient reasons, which this narrative will itself unfold as it
-advances, a fictitious name must be bestowed upon the old Cathedral
+advances, a fictitious name must be bestowed upon the old [[Cathedral]]
 town. Let it stand in these pages as Cloisterham. It was once possibly
 known to the Druids by another name, and certainly to the Romans by
 another, and to the Saxons by another, and to the Normans by another;
 and a name more or less in the course of many centuries can be of
 little moment to its dusty chronicles.
 
-An ancient city, Cloisterham, and no meet dwelling-place for any one
-with hankerings after the noisy world. A monotonous, silent city,
-deriving an earthy flavour throughout from its Cathedral crypt, and so
+An ancient [[City|city]], Cloisterham, and no meet dwelling-place for any one
+with hankerings after the noisy world. A monotonous, silent [[City|city]],
+deriving an earthy flavour throughout from its [[Cathedral]] crypt, and so
 abounding in vestiges of monastic graves, that the Cloisterham children
-grow small salad in the dust of abbots and abbesses, and make dirt-pies
+grow small salad in the [[Dust|dust]] of abbots and abbesses, and make dirt-pies
 of nuns and friars; while every ploughman in its outlying fields
 renders to once puissant Lord Treasurers, Archbishops, Bishops, and
 such-like, the attention which the Ogre in the story-book desired to
 render to his unbidden visitor, and grinds their bones to make his
 bread.
 
-A drowsy city, Cloisterham, whose inhabitants seem to suppose, with an
+A drowsy [[City|city]], Cloisterham, whose inhabitants seem to suppose, with an
 inconsistency more strange than rare, that all its changes lie behind
 it, and that there are no more to come. A queer moral to derive from
 antiquity, yet older than any traceable antiquity. So silent are the
 streets of Cloisterham (though prone to echo on the smallest
-provocation), that of a summer-day the sunblinds of its shops scarce
-dare to flap in the south wind; while the sun-browned tramps, who pass
+provocation), that of a [[Summer|summer]]-day the sunblinds of its shops scarce
+dare to flap in the south [[Wind|wind]]; while the sun-browned tramps, who pass
 along and stare, quicken their limp a little, that they may the sooner
 get beyond the confines of its oppressive respectability. This is a
 feat not difficult of achievement, seeing that the streets of
-Cloisterham city are little more than one narrow street by which you
+Cloisterham [[City|city]] are little more than one narrow street by which you
 get into it and get out of it: the rest being mostly disappointing
 yards with pumps in them and no thoroughfare—exception made of the
-Cathedral-close, and a paved Quaker settlement, in colour and general
+[[Cathedral]]-close, and a paved Quaker settlement, in colour and general
 confirmation very like a Quakeress’s bonnet, up in a shady corner.
 
-In a word, a city of another and a bygone time is Cloisterham, with its
-hoarse Cathedral-bell, its hoarse rooks hovering about the Cathedral
+In a word, a [[City|city]] of another and a bygone [[Time|time]] is Cloisterham, with its
+hoarse [[Cathedral]]-bell, its hoarse rooks hovering about the [[Cathedral]]
 tower, its hoarser and less distinct rooks in the stalls far beneath.
-Fragments of old wall, saint’s chapel, chapter-house, convent and
+Fragments of old wall, saint’s chapel, chapter-[[house]], convent and
 monastery, have got incongruously or obstructively built into many of
 its houses and gardens, much as kindred jumbled notions have become
 incorporated into many of its citizens’ minds. All things in it are of
 the past. Even its single pawnbroker takes in no pledges, nor has he
-for a long time, but offers vainly an unredeemed stock for sale, of
+for a long [[Time|time]], but offers vainly an unredeemed stock for sale, of
 which the costlier articles are dim and pale old watches apparently in
 a slow perspiration, tarnished sugar-tongs with ineffectual legs, and
 odd volumes of dismal books. The most abundant and the most agreeable
 evidences of progressing life in Cloisterham are the evidences of
 vegetable life in many gardens; even its drooping and despondent little
-theatre has its poor strip of garden, receiving the foul fiend, when he
+theatre has its poor strip of [[Garden|garden]], receiving the foul fiend, when he
 ducks from its stage into the infernal regions, among scarlet-beans or
 oyster-shells, according to the season of the year.
 
-In the midst of Cloisterham stands the Nuns’ House: a venerable brick
+In the midst of Cloisterham stands the Nuns’ [[house|House]]: a venerable brick
 edifice, whose present appellation is doubtless derived from the legend
 of its conventual uses. On the trim gate enclosing its old courtyard is
 a resplendent brass plate flashing forth the legend: “Seminary for
-Young Ladies. Miss Twinkleton.” The house-front is so old and worn, and
+Young Ladies. Miss Twinkleton.” The [[house]]-front is so old and worn, and
 the brass plate is so shining and staring, that the general result has
 reminded imaginative strangers of a battered old beau with a large
 modern eye-glass stuck in his blind eye.
@@ -83,12 +83,12 @@ modern eye-glass stuck in his blind eye.
 Whether the nuns of yore, being of a submissive rather than a
 stiff-necked generation, habitually bent their contemplative heads to
 avoid collision with the beams in the low ceilings of the many chambers
-of their House; whether they sat in its long low windows telling their
+of their [[house|House]]; whether they sat in its long low windows telling their
 beads for their mortification, instead of making necklaces of them for
 their adornment; whether they were ever walled up alive in odd angles
 and jutting gables of the building for having some ineradicable leaven
-of busy mother Nature in them which has kept the fermenting world alive
-ever since; these may be matters of interest to its haunting ghosts (if
+of busy mother [[Nature]] in them which has kept the fermenting world alive
+ever since; these may be matters of interest to its haunting [[Ghosts|ghosts]] (if
 any), but constitute no item in Miss Twinkleton’s half-yearly accounts.
 They are neither of Miss Twinkleton’s inclusive regulars, nor of her
 extras. The lady who undertakes the poetical department of the
@@ -100,12 +100,12 @@ there are two states of consciousness which never clash, but each of
 which pursues its separate course as though it were continuous instead
 of broken (thus, if I hide my watch when I am drunk, I must be drunk
 again before I can remember where), so Miss Twinkleton has two distinct
-and separate phases of being. Every night, the moment the young ladies
+and separate phases of being. Every [[Night|night]], the moment the young ladies
 have retired to rest, does Miss Twinkleton smarten up her curls a
 little, brighten up her eyes a little, and become a sprightlier Miss
-Twinkleton than the young ladies have ever seen. Every night, at the
+Twinkleton than the young ladies have ever seen. Every [[Night|night]], at the
 same hour, does Miss Twinkleton resume the topics of the previous
-night, comprehending the tenderer scandal of Cloisterham, of which she
+[[Night|night]], comprehending the tenderer scandal of Cloisterham, of which she
 has no knowledge whatever by day, and references to a certain season at
 Tunbridge Wells (airily called by Miss Twinkleton in this state of her
 existence “The Wells”), notably the season wherein a certain finished
@@ -117,10 +117,10 @@ states of existence, and equally adaptable to either, is one Mrs.
 Tisher: a deferential widow with a weak back, a chronic sigh, and a
 suppressed voice, who looks after the young ladies’ wardrobes, and
 leads them to infer that she has seen better days. Perhaps this is the
-reason why it is an article of faith with the servants, handed down
+reason why it is an article of [[Faith|faith]] with the servants, handed down
 from race to race, that the departed Tisher was a hairdresser.
 
-The pet pupil of the Nuns’ House is Miss Rosa Bud, of course called
+The pet pupil of the Nuns’ [[house|House]] is Miss [[Rosa Bud]], of course called
 Rosebud; wonderfully pretty, wonderfully childish, wonderfully
 whimsical. An awkward interest (awkward because romantic) attaches to
 Miss Bud in the minds of the young ladies, on account of its being
@@ -135,28 +135,28 @@ Mr. Porters has undermined the endeavour—than to evoke from the young
 ladies an unanimous bedchamber cry of “O, what a pretending old thing
 Miss Twinkleton is, my dear!”
 
-The Nuns’ House is never in such a state of flutter as when this
+The Nuns’ [[house|House]] is never in such a state of flutter as when this
 allotted husband calls to see little Rosebud. (It is unanimously
 understood by the young ladies that he is lawfully entitled to this
 privilege, and that if Miss Twinkleton disputed it, she would be
 instantly taken up and transported.) When his ring at the gate-bell is
 expected, or takes place, every young lady who can, under any pretence,
-look out of window, looks out of window; while every young lady who is
-“practising,” practises out of time; and the French class becomes so
+look out of [[Window|window]], looks out of [[Window|window]]; while every young lady who is
+“practising,” practises out of [[Time|time]]; and the French class becomes so
 demoralised that the mark goes round as briskly as the bottle at a
 convivial party in the last century.
 
 On the afternoon of the day next after the dinner of two at the
 gatehouse, the bell is rung with the usual fluttering results.
 
-“Mr. Edwin Drood to see Miss Rosa.”
+“Mr. [[Edwin Drood]] to see Miss Rosa.”
 
 This is the announcement of the parlour-maid in chief. Miss Twinkleton,
-with an exemplary air of melancholy on her, turns to the sacrifice, and
+with an exemplary air of [[Melancholy|melancholy]] on her, turns to the sacrifice, and
 says, “You may go down, my dear.” Miss Bud goes down, followed by all
 eyes.
 
-Mr. Edwin Drood is waiting in Miss Twinkleton’s own parlour: a dainty
+Mr. [[Edwin Drood]] is waiting in Miss Twinkleton’s own parlour: a dainty
 room, with nothing more directly scholastic in it than a terrestrial
 and a celestial globe. These expressive machines imply (to parents and
 guardians) that even when Miss Twinkleton retires into the bosom of
@@ -180,7 +180,7 @@ shrinking. “Don’t, Eddy!”
 
 “What is absurd, Rosa?”
 
-“The whole thing is. It _is_ so absurd to be an engaged orphan and it
+“The whole thing is. It _is_ so absurd to be an engaged [[Orphan|orphan]] and it
 _is_ so absurd to have the girls and the servants scuttling about after
 one, like mice in the wainscot; and it _is_ so absurd to be called
 upon!”
@@ -190,7 +190,7 @@ making this complaint.
 
 “You give me an affectionate reception, Pussy, I must say.”
 
-“Well, I will in a minute, Eddy, but I can’t just yet. How are you?”
+“[[Well]], I will in a minute, Eddy, but I can’t just yet. How are you?”
 (very shortly.)
 
 “I am unable to reply that I am much the better for seeing you, Pussy,
@@ -230,14 +230,14 @@ Tweezers. Thank you!”
 “I got the gloves last evening, Eddy, and I like them very much. They
 are beauties.”
 
-“Well, that’s something,” the affianced replies, half grumbling. “The
+“[[Well]], that’s something,” the affianced replies, half grumbling. “The
 smallest encouragement thankfully received. And how did you pass your
 birthday, Pussy?”
 
 “Delightfully! Everybody gave me a present. And we had a feast. And we
-had a ball at night.”
+had a ball at [[Night|night]].”
 
-“A feast and a ball, eh? These occasions seem to go off tolerably well
+“A feast and a ball, eh? These occasions seem to go off tolerably [[Well|well]]
 without me, Pussy.”
 
 “De-lightfully!” cries Rosa, in a quite spontaneous manner, and without
@@ -257,9 +257,9 @@ game to be their brothers. It _was_ so droll!”
 “To be you? O dear yes!” cries Rosa, laughing with great enjoyment.
 “That was the first thing done.”
 
-“I hope she did it pretty well,” says Edwin rather doubtfully.
+“I [[Hope|hope]] she did it pretty [[Well|well]],” says Edwin rather doubtfully.
 
-“O, it was excellent!—I wouldn’t dance with you, you know.”
+“O, it was excellent!—I wouldn’t [[Dance|dance]] with you, you know.”
 
 Edwin scarcely seems to see the force of this; begs to know if he may
 take the liberty to ask why?
@@ -271,11 +271,11 @@ were just as tired of me, you know.”
 “Did I say so, Rosa?”
 
 “Say so! Do you ever say so? No, you only showed it. O, she did it so
-well!” cries Rosa, in a sudden ecstasy with her counterfeit betrothed.
+[[Well|well]]!” cries Rosa, in a sudden ecstasy with her counterfeit betrothed.
 
 “It strikes me that she must be a devilish impudent girl,” says Edwin
 Drood. “And so, Pussy, you have passed your last birthday in this old
-house.”
+[[house]].”
 
 “Ah, yes!” Rosa clasps her hands, looks down with a sigh, and shakes
 her head.
@@ -292,12 +292,12 @@ head, sighs, and looks down again.
 
 “That is to say, is it, Pussy, that we are both resigned?”
 
-She nods her head again, and after a short silence, quaintly bursts out
+She nods her head again, and after a short [[Silence|silence]], quaintly bursts out
 with: “You know we must be married, and married from here, Eddy, or the
 poor girls will be so dreadfully disappointed!”
 
 For the moment there is more of compassion, both for her and for
-himself, in her affianced husband’s face, than there is of love. He
+himself, in her affianced husband’s face, than there is of [[Love|love]]. He
 checks the look, and asks: “Shall I take you out for a walk, Rosa
 dear?”
 
@@ -309,18 +309,18 @@ anybody, and then we shan’t quarrel.”
 
 “Do you think that will prevent our falling out, Rosa?”
 
-“I know it will. Hush! Pretend to look out of window—Mrs. Tisher!”
+“I know it will. Hush! Pretend to look out of [[Window|window]]—Mrs. Tisher!”
 
 Through a fortuitous concourse of accidents, the matronly Tisher heaves
-in sight, says, in rustling through the room like the legendary ghost
-of a dowager in silken skirts: “I hope I see Mr. Drood well; though I
+in sight, says, in rustling through the room like the legendary [[Ghost|ghost]]
+of a dowager in silken skirts: “I [[Hope|hope]] I see Mr. Drood [[Well|well]]; though I
 needn’t ask, if I may judge from his complexion. I trust I disturb no
 one; but there _was_ a paper-knife—O, thank you, I am sure!” and
 disappears with her prize.
 
 “One other thing you must do, Eddy, to oblige me,” says Rosebud. “The
 moment we get into the street, you must put me outside, and keep close
-to the house yourself—squeeze and graze yourself against it.”
+to the [[house]] yourself—squeeze and graze yourself against it.”
 
 “By all means, Rosa, if you wish it. Might I ask why?”
 
@@ -337,7 +337,7 @@ distaste for them.
 
 “Nothing escapes their notice, sir. And then I know what would happen.
 Some of them would begin reflecting on me by saying (for _they_ are
-free) that they never will on any account engage themselves to lovers
+free) that they never will on any account engage themselves to [[lovers]]
 without polished leather boots. Hark! Miss Twinkleton. I’ll ask for
 leave.”
 
@@ -345,10 +345,10 @@ That discreet lady being indeed heard without, inquiring of nobody in a
 blandly conversational tone as she advances: “Eh? Indeed! Are you quite
 sure you saw my mother-of-pearl button-holder on the work-table in my
 room?” is at once solicited for walking leave, and graciously accords
-it. And soon the young couple go out of the Nuns’ House, taking all
+it. And soon the young couple go out of the Nuns’ [[house|House]], taking all
 precautions against the discovery of the so vitally defective boots of
-Mr. Edwin Drood: precautions, let us hope, effective for the peace of
-Mrs. Edwin Drood that is to be.
+Mr. [[Edwin Drood]]: precautions, let us [[Hope|hope]], effective for the peace of
+Mrs. [[Edwin Drood]] that is to be.
 
 “Which way shall we take, Rosa?”
 
@@ -367,9 +367,9 @@ pretend. No, you needn’t know anything about them; never mind.”
 So he is gloomily borne off to the Lumps-of-Delight shop, where Rosa
 makes her purchase, and, after offering some to him (which he rather
 indignantly declines), begins to partake of it with great zest:
-previously taking off and rolling up a pair of little pink gloves, like
-rose-leaves, and occasionally putting her little pink fingers to her
-rosy lips, to cleanse them from the Dust of Delight that comes off the
+previously taking off and [[rolling]] up a pair of little pink gloves, like
+[[Rose|rose]]-[[Leaves|leaves]], and occasionally putting her little pink fingers to her
+rosy lips, to cleanse them from the [[Dust]] of Delight that comes off the
 Lumps.
 
 “Now, be a good-tempered Eddy, and pretend. And so you are engaged?”
@@ -390,7 +390,7 @@ Lumps.
 
 “What is termed a fine woman; a splendid woman.”
 
-“Big nose, no doubt,” is the quiet commentary again.
+“Big nose, no [[Doubt|doubt]],” is the quiet commentary again.
 
 “Not a little one, certainly,” is the quick reply, (Rosa’s being a
 little one.)
@@ -420,14 +420,14 @@ After a pause, in which the whimsically wicked face has not been
 unobservant of him, Rosa says:
 
 “And this most sensible of creatures likes the idea of being carried
-off to Egypt; does she, Eddy?”
+off to [[Egypt]]; does she, Eddy?”
 
 “Yes. She takes a sensible interest in triumphs of engineering skill:
 especially when they are to change the whole condition of an
 undeveloped country.”
 
 “Lor!” says Rosa, shrugging her shoulders, with a little laugh of
-wonder.
+[[Wonder|wonder]].
 
 “Do you object,” Edwin inquires, with a majestic turn of his eyes
 downward upon the fairy figure: “do you object, Rosa, to her feeling
@@ -453,15 +453,15 @@ Pyramids, Rosa?”
 enjoying the Lumps, “bore about them, and then you wouldn’t ask.
 Tiresome old burying-grounds! Isises, and Ibises, and Cheopses, and
 Pharaohses; who cares about them? And then there was Belzoni, or
-somebody, dragged out by the legs, half-choked with bats and dust. All
-the girls say: Serve him right, and hope it hurt him, and wish he had
+somebody, dragged out by the legs, half-choked with bats and [[Dust|dust]]. All
+the girls say: Serve him right, and [[Hope|hope]] it hurt him, and wish he had
 been quite choked.”
 
 The two youthful figures, side by side, but not now arm-in-arm, wander
 discontentedly about the old Close; and each sometimes stops and slowly
-imprints a deeper footstep in the fallen leaves.
+imprints a deeper footstep in the fallen [[Leaves|leaves]].
 
-“Well!” says Edwin, after a lengthy silence. “According to custom. We
+“[[Well]]!” says Edwin, after a lengthy [[Silence|silence]]. “According to custom. We
 can’t get on, Rosa.”
 
 Rosa tosses her head, and says she don’t want to get on.
@@ -481,14 +481,14 @@ Rosa tosses her head, and says she don’t want to get on.
 “Now, Rosa, I put it to you. Who disparaged my profession, my
 destination—”
 
-“You are not going to be buried in the Pyramids, I hope?” she
+“You are not going to be buried in the Pyramids, I [[Hope|hope]]?” she
 interrupts, arching her delicate eyebrows. “You never said you were. If
 you are, why haven’t you mentioned it to me? I can’t find out your
 plans by instinct.”
 
-“Now, Rosa, you know very well what I mean, my dear.”
+“Now, Rosa, you know very [[Well|well]] what I mean, my dear.”
 
-“Well then, why did you begin with your detestable red-nosed
+“[[Well]] then, why did you begin with your detestable red-nosed
 giantesses? And she would, she would, she would, she would, she WOULD
 powder it!” cries Rosa, in a little burst of comical contradictory
 spleen.
@@ -497,10 +497,10 @@ spleen.
 Edwin, sighing and becoming resigned.
 
 “How is it possible, sir, that you ever can come right when you’re
-always wrong? And as to Belzoni, I suppose he’s dead;—I’m sure I hope
+always wrong? And as to Belzoni, I suppose he’s dead;—I’m sure I [[Hope|hope]]
 he is—and how can his legs or his chokes concern you?”
 
-“It is nearly time for your return, Rosa. We have not had a very happy
+“It is nearly [[Time|time]] for your return, Rosa. We have not had a very happy
 walk, have we?”
 
 “A happy walk? A detestably unhappy walk, sir. If I go up-stairs the
@@ -509,18 +509,18 @@ responsible, mind!”
 
 “Let us be friends, Rosa.”
 
-“Ah!” cries Rosa, shaking her head and bursting into real tears, “I
+“Ah!” cries Rosa, shaking her head and bursting into real [[Tears|tears]], “I
 wish we _could_ be friends! It’s because we can’t be friends, that we
 try one another so. I am a young little thing, Eddy, to have an old
 heartache; but I really, really have, sometimes. Don’t be angry. I know
 you have one yourself too often. We should both of us have done better,
 if What is to be had been left What might have been. I am quite a
 little serious thing now, and not teasing you. Let each of us forbear,
-this one time, on our own account, and on the other’s!”
+this one [[Time|time]], on our own account, and on the other’s!”
 
-Disarmed by this glimpse of a woman’s nature in the spoilt child,
+Disarmed by this glimpse of a woman’s [[Nature|nature]] in the spoilt [[Child|child]],
 though for an instant disposed to resent it as seeming to involve the
-enforced infliction of himself upon her, Edwin Drood stands watching
+enforced infliction of himself upon her, [[Edwin Drood]] stands watching
 her as she childishly cries and sobs, with both hands to the
 handkerchief at her eyes, and then—she becoming more composed, and
 indeed beginning in her young inconstancy to laugh at herself for

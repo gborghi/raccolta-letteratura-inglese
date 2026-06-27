@@ -1,5 +1,5 @@
 ---
-title: "The Assignation (part 3)"
+title: "[[The Assignation]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Assignation-(Poe)"
@@ -22,22 +22,22 @@ tags:
       blazed around.
 
       Although, as I say, the sun had arisen, yet the room was still
-      brilliantly lighted up. I judge from this circumstance, as well
+      brilliantly lighted up. I judge from this circumstance, as [[Well|well]]
       as from an air of exhaustion in the countenance of my friend,
       that he had not retired to bed during the whole of the preceding
-      night. In the architecture and embellishments of the chamber, the
+      [[Night|night]]. In the architecture and embellishments of the chamber, the
       evident design had been to dazzle and astound. Little attention
       had been paid to the _decora_ of what is technically called
       _keeping_, or to the proprieties of nationality. The eye wandered
       from object to object, and rested upon none—neither the
       _grotesques_ of the Greek painters, nor the sculptures of the
-      best Italian days, nor the huge carvings of untutored Egypt. Rich
+      best Italian days, nor the huge carvings of untutored [[Egypt]]. Rich
       draperies in every part of the room trembled to the vibration of
-      low, melancholy music, whose origin was not to be discovered. The
+      low, [[Melancholy|melancholy]] music, whose origin was not to be discovered. The
       senses were oppressed by mingled and conflicting perfumes,
       reeking up from strange convolute censers, together with
       multitudinous flaring and flickering tongues of emerald and
-      violet fire. The rays of the newly risen sun poured in upon the
+      violet [[Fire|fire]]. The rays of the newly risen sun poured in upon the
       whole, through windows, formed each of a single pane of
       crimson-tinted glass. Glancing to and fro, in a thousand
       reflections, from curtains which rolled from their cornices like
@@ -58,8 +58,8 @@ tags:
       uncharitable laughter. You appeared so _utterly_ astonished.
       Besides, some things are so completely ludicrous, that a man
       _must_ laugh or die. To die laughing, must be the most glorious
-      of all glorious deaths! Sir Thomas More—a very fine man was Sir
-      Thomas More—Sir Thomas More died laughing, you remember. Also in
+      of all glorious deaths! [[Sir Thomas More]]—a very fine man was Sir
+      Thomas More—[[Sir Thomas More]] died laughing, you remember. Also in
       the _Absurdities_ of Ravisius Textor, there is a long list of
       characters who came to the same magnificent end. Do you know,
       however,” continued he musingly, “that at Sparta (which is now
@@ -71,7 +71,7 @@ tags:
       strange that the altar of Laughter should have survived all the
       others! But in the present instance,” he resumed, with a singular
       alteration of voice and manner, “I have no right to be merry at
-      your expense. You might well have been amazed. Europe cannot
+      your expense. You might [[Well|well]] have been amazed. Europe cannot
       produce anything so fine as this, my little regal cabinet. My
       other apartments are by no means of the same order—mere _ultras_
       of fashionable insipidity. This is better than fashion—is it not?
@@ -95,25 +95,25 @@ tags:
       are all, however, fitting tapestry for a chamber such as this.
       Here, too, are some _chefs d’oeuvre_ of the unknown great; and
       here, unfinished designs by men, celebrated in their day, whose
-      very names the perspicacity of the academies has left to silence
+      very names the perspicacity of the academies has left to [[Silence|silence]]
       and to me. What think you,” said he, turning abruptly as he
       spoke—“what think you of this Madonna della Pieta?”
 
       “It is Guido’s own!” I said, with all the enthusiasm of my
-      nature, for I had been poring intently over its surpassing
+      [[Nature|nature]], for I had been poring intently over its surpassing
       loveliness. “It is Guido’s own!—how _could_ you have obtained
-      it?—she is undoubtedly in painting what the Venus is in
+      it?—she is undoubtedly in painting what the [[Venus]] is in
       sculpture.”
 
-      “Ha!” said he thoughtfully, “the Venus—the beautiful Venus?—the
-      Venus of the Medici?—she of the diminutive head and the gilded
+      “Ha!” said he thoughtfully, “the [[Venus]]—the beautiful [[Venus]]?—the
+      [[Venus]] of the Medici?—she of the diminutive head and the gilded
       hair? Part of the left arm (here his voice dropped so as to be
       heard with difficulty,) and all the right, are restorations; and
       in the coquetry of that right arm lies, I think, the quintessence
-      of all affectation. Give _me_ the Canova! The Apollo, too, is a
-      copy—there can be no doubt of it—blind fool that I am, who cannot
-      behold the boasted inspiration of the Apollo! I cannot help—pity
+      of all affectation. Give _me_ the Canova! The [[Apollo]], too, is a
+      copy—there can be no [[Doubt|doubt]] of it—blind [[Fool|fool]] that I am, who cannot
+      behold the boasted inspiration of the [[Apollo]]! I cannot help—pity
       me!—I cannot help preferring the Antinous. Was it not Socrates
       who said that the statuary found his statue in the block of
-      marble? Then Michael Angelo was by no means original in his
+      marble? Then [[Michael]] [[Angelo]] was by no means original in his
       couplet—

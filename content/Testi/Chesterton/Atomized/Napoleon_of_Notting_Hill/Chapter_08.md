@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting Hill — Book 3"
+title: "Napoleon of Notting [[Hill]] — Book 3"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/Napoleon-of-Notting-Hill-(Chesterton)"

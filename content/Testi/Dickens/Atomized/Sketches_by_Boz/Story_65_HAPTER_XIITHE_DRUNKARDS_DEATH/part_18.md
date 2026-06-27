@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 18)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 18)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -15,10 +15,10 @@ tags:
 
 
 We have seen a throwing-off young gentleman who, to our certain
-knowledge, was innocent of a note of music, and scarcely able to
+knowledge, was [[Innocent|innocent]] of a note of music, and scarcely able to
 recognise a tune by ear, volunteer a Spanish air upon the guitar when
 he had previously satisfied himself that there was not such an
-instrument within a mile of the house.
+instrument within a mile of the [[house]].
 
 We have heard another throwing-off young gentleman, after striking a
 note or two upon the piano, and accompanying it correctly (by dint of
@@ -28,10 +28,10 @@ out of tune, let him try as he would. We have lived to witness the
 unmasking of another throwing-off young gentleman, who went out a
 visiting in a military cap with a gold band and tassel, and who, after
 passing successfully for a captain and being lauded to the skies for
-his red whiskers, his bravery, his soldierly bearing and his pride,
+his red whiskers, his bravery, his soldierly bearing and his [[Pride|pride]],
 turned out to be the dishonest son of an honest linen-draper in a small
 country town, and whom, if it were not for this fortunate exposure, we
-should not yet despair of encountering as the fortunate husband of some
+should not yet [[Despair|despair]] of encountering as the fortunate husband of some
 rich heiress. Ladies, ladies, the throwing-off young gentlemen are
 often swindlers, and always fools. So pray you avoid them.
 
@@ -45,7 +45,7 @@ This young gentleman has several titles. Some young ladies consider him
 ‘a nice young man,’ others ‘a fine young man,’ others ‘quite a lady’s
 man,’ others ‘a handsome man,’ others ‘a remarkably good-looking young
 man.’ With some young ladies he is ‘a perfect angel,’ and with others
-‘quite a love.’ He is likewise a charming creature, a duck, and a dear.
+‘quite a [[Love|love]].’ He is likewise a charming creature, a duck, and a dear.
 
 The young ladies’ young gentleman has usually a fresh colour and very
 white teeth, which latter articles, of course, he displays on every
@@ -59,9 +59,9 @@ absolutely insisted on; but he must wear an under-waistcoat, and smile
 constantly.
 
 There was a great party got up by some party-loving friends of ours
-last summer, to go and dine in Epping Forest. As we hold that such wild
+last [[Summer|summer]], to go and dine in Epping Forest. As we hold that such wild
 expeditions should never be indulged in, save by people of the smallest
-means, who have no dinner at home, we should indubitably have excused
+means, who have no dinner at [[Home|home]], we should indubitably have excused
 ourself from attending, if we had not recollected that the projectors
 of the excursion were always accompanied on such occasions by a choice
 sample of the young ladies’ young gentleman, whom we were very anxious
@@ -71,7 +71,7 @@ We were to make for Chigwell in four glass coaches, each with a
 trifling company of six or eight inside, and a little boy belonging to
 the projectors on the box—and to start from the residence of the
 projectors, Woburn-place, Russell-square, at half-past ten precisely.
-We arrived at the place of rendezvous at the appointed time, and found
+We arrived at the place of rendezvous at the appointed [[Time|time]], and found
 the glass coaches and the little boys quite ready, and divers young
 ladies and young gentlemen looking anxiously over the breakfast-parlour
 blinds, who appeared by no means so much gratified by our approach as
@@ -88,11 +88,11 @@ emphatic manner which painfully announces that the speaker has not
 quite made up his or her mind what to say, but is determined to talk on
 nevertheless, the eldest daughter took up the subject, and hoped no
 accident had happened to Mr. Balim, upon which there was a general
-chorus of ‘Dear Mr. Balim!’ and one young lady, more adventurous than
+[[Chorus|chorus]] of ‘Dear Mr. Balim!’ and one young lady, more adventurous than
 the rest, proposed that an express should be straightway sent to dear
 Mr. Balim’s lodgings. This, however, the papa resolutely opposed,
 observing, in what a short young lady behind us termed ‘quite a bearish
-way,’ that if Mr. Balim didn’t choose to come, he might stop at home.
+way,’ that if Mr. Balim didn’t choose to come, he might stop at [[Home|home]].
 At this all the daughters raised a murmur of ‘Oh pa!’ except one
 sprightly little girl of eight or ten years old, who, taking advantage
 of a pause in the discourse, remarked, that perhaps Mr. Balim might
@@ -105,13 +105,13 @@ usually run who have an unlimited allowance of animal food in the
 holidays, and keep their hands constantly forced down to the bottoms of
 very deep trouser-pockets when they take exercise, joyfully announced
 that Mr. Balim was at that moment coming up the street in a
-hackney-cab; and the intelligence was confirmed beyond all doubt a
+hackney-cab; and the intelligence was confirmed beyond all [[Doubt|doubt]] a
 minute afterwards by the entry of Mr. Balim himself, who was received
 with repeated cries of ‘Where have you been, you naughty creature?’
 whereunto the naughty creature replied, that he had been in bed, in
-consequence of a late party the night before, and had only just risen.
+consequence of a late party the [[Night|night]] before, and had only just risen.
 The acknowledgment awakened a variety of agonizing fears that he had
-taken no breakfast; which appearing after a slight cross-examination to
+taken no breakfast; which appearing after a slight [[Cross|cross]]-examination to
 be the real state of the case, breakfast for one was immediately
 ordered, notwithstanding Mr. Balim’s repeated protestations that he
 couldn’t think of it. He did think of it though, and thought better of

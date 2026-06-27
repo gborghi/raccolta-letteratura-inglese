@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 15 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 15 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -18,13 +18,13 @@ protestations of attachment, without ever assigning a reason for the
 
 change. You should have told me all—no matter _how_ bitterly. It would
 
-have been better than this silence.”
+have been better than this [[Silence|silence]].”
 
 
 
 “To what end should I have done so? You could not have enlightened me
 
-further, on the subject which alone concerned me; nor could you have
+further, on the subject which [[Alone|alone]] concerned me; nor could you have
 
 made me discredit the evidence of my senses. I desired our intimacy to
 
@@ -56,11 +56,11 @@ I did, it was not for pleasure at the thoughts of the harm I had done
 
 you. Heaven knows I have had torment enough at the bare possibility of
 
-that; it was for joy to find that you had some depth of soul and
+that; it was for joy to find that you had some depth of [[Soul|soul]] and
 
-feeling after all, and to hope that I had not been utterly mistaken in
+feeling after all, and to [[Hope|hope]] that I had not been utterly mistaken in
 
-your worth. But smiles and tears are so alike with me, they are neither
+your worth. But smiles and [[Tears|tears]] are so alike with me, they are neither
 
 of them confined to any particular feelings: I often cry when I am
 
@@ -80,7 +80,7 @@ mistaken in your conclusions?”
 
 
 
-“How can you ask it, Helen?”
+“How can you ask it, [[Helen]]?”
 
 
 
@@ -106,19 +106,19 @@ whole frame trembled, now, with excess of agitation. She did not speak,
 
 but flew to her desk, and snatching thence what seemed a thick album or
 
-manuscript volume, hastily tore away a few leaves from the end, and
+manuscript volume, hastily tore away a few [[Leaves|leaves]] from the end, and
 
 thrust the rest into my hand, saying, “You needn’t read it all; but
 
-take it home with you,” and hurried from the room. But when I had left
+take it [[Home|home]] with you,” and hurried from the room. But when I had left
 
-the house, and was proceeding down the walk, she opened the window and
+the [[house]], and was proceeding down the walk, she opened the [[Window|window]] and
 
 called me back. It was only to say,—“Bring it back when you have read
 
 it; and don’t breathe a word of what it tells you to any living being.
 
-I trust to your honour.”
+I trust to your [[Honour|honour]].”
 
 
 
@@ -128,13 +128,13 @@ saw her cast herself back in the old oak chair, and cover her face with
 
 her hands. Her feelings had been wrought to a pitch that rendered it
 
-necessary to seek relief in tears.
+necessary to seek relief in [[Tears|tears]].
 
 
 
 Panting with eagerness, and struggling to suppress my hopes, I hurried
 
-home, and rushed up-stairs to my room, having first provided myself
+[[Home|home]], and rushed up-stairs to my room, having first provided myself
 
 with a candle, though it was scarcely twilight yet—then, shut and
 
@@ -142,7 +142,7 @@ bolted the door, determined to tolerate no interruption; and sitting
 
 down before the table, opened out my prize and delivered myself up to
 
-its perusal—first hastily turning over the leaves and snatching a
+its perusal—first hastily turning over the [[Leaves|leaves]] and snatching a
 
 sentence here and there, and then setting myself steadily to read it
 

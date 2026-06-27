@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 11 (part 3)"
+title: "[[Oliver Twist]] — Chapter 11 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -21,13 +21,13 @@ what have you got to say?”
 here: loitering on the opposite side of the way, when this gentleman
 was reading. The robbery was committed by another boy. I saw it done;
 and I saw that this boy was perfectly amazed and stupified by it.”
-Having by this time recovered a little breath, the worthy book-stall
+Having by this [[Time|time]] recovered a little breath, the worthy book-stall
 keeper proceeded to relate, in a more coherent manner the exact
 circumstances of the robbery.
 
 “Why didn’t you come here before?” said Fang, after a pause.
 
-“I hadn’t a soul to mind the shop,” replied the man. “Everybody who
+“I hadn’t a [[Soul|soul]] to mind the shop,” replied the man. “Everybody who
 could have helped me, had joined in the pursuit. I could get nobody
 till five minutes ago; and I’ve run here all the way.”
 
@@ -60,21 +60,21 @@ the office!”
 The mandate was obeyed; and the indignant Mr. Brownlow was conveyed
 out, with the book in one hand, and the bamboo cane in the other: in a
 perfect phrenzy of rage and defiance. He reached the yard; and his
-passion vanished in a moment. Little Oliver Twist lay on his back on
+passion vanished in a moment. Little [[Oliver Twist]] lay on his back on
 the pavement, with his shirt unbuttoned, and his temples bathed with
-water; his face a deadly white; and a cold tremble convulsing his whole
+[[Water|water]]; his face a deadly white; and a cold tremble convulsing his whole
 frame.
 
 “Poor boy, poor boy!” said Mr. Brownlow, bending over him. “Call a
 coach, somebody, pray. Directly!”
 
-A coach was obtained, and Oliver having been carefully laid on the
+A coach was obtained, and [[Oliver]] having been carefully laid on the
 seat, the old gentleman got in and sat himself on the other.
 
 “May I accompany you?” said the book-stall keeper, looking in.
 
 “Bless me, yes, my dear sir,” said Mr. Brownlow quickly. “I forgot you.
 Dear, dear! I have this unhappy book still! Jump in. Poor fellow!
-There’s no time to lose.”
+There’s no [[Time|time]] to lose.”
 
 The book-stall keeper got into the coach; and away they drove.

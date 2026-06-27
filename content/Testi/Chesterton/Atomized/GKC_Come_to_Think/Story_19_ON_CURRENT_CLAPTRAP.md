@@ -61,7 +61,7 @@ to occur in the idealistic document of which I have spoken.
 I mean the expression about being ready to welcome `men of every
 race and creed'.
 
-Now the modern tragedy of man is that he does not stop and
+Now the modern [[Tragedy|tragedy]] of man is that he does not stop and
 start when he has used those words, and gaze at them with a
 wild surmise, and cry distractedly, `My God! what am I saying?'
 For he really does not know what he is saying.  He is classing
@@ -110,8 +110,8 @@ in most relations quite irrelevant.  I rather fancy that `colour'
 and `creed' have come to be associated by mere alliteration
 and have no more rational relation than whiskers and wisdom.
 If a Chinaman and I discuss Proportional Representation
-(which God forbid!) it is in the hope that one or other will at least
-be intellectually influenced; but not in the hope that I shall turn
+(which God forbid!) it is in the [[Hope|hope]] that one or other will at least
+be intellectually influenced; but not in the [[Hope|hope]] that I shall turn
 yellow or he will turn pink.
 
 Now, if any one will pick up a paper or a page of modern writing,
@@ -119,15 +119,15 @@ and look at it carefully, he will find it is a pastiche or mosaic
 of meaningless combinations of that sort.  As a preliminary exercise,
 before the more subtle exercises of the French philosopher's manual,
 I recommend this experiment.  The catch words are generally, indeed,
-used more or less unconsciously, in the service of some false philosophy.
+used more or less unconsciously, in the service of some false [[philosophy]].
 In this case it is the base and servile creed that creeds are as
 inevitable and incurable as black faces or Eskimo skulls.  It is
 the theory that we must all reconcile ourselves to thinking differently,
 because no thinking is any good and it is better not to think at all.
-It is out of that unmanly despair that such unthinking expressions arise;
-the thoughtless phrase out of the thoughtless philosophy.
+It is out of that unmanly [[Despair|despair]] that such unthinking expressions arise;
+the thoughtless phrase out of the thoughtless [[philosophy]].
 But there is, after all, nothing but a contradiction in terms
-in a thoughtless philosophy; and especially in a philosophy directed
+in a thoughtless [[philosophy]]; and especially in a [[philosophy]] directed
 against thought.  Fortunately, we can all think, whether we
 are red, black, or yellow; and that is the only true beginning
 of Peace and Progress throughout the World.

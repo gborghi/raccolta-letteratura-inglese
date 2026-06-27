@@ -1,5 +1,5 @@
 ---
-title: "As I Was Saying — ABOUT EDUCATION"
+title: "As I Was Saying — ABOUT [[Education|EDUCATION]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/As-I-Was-Saying-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-   XXIX  ABOUT EDUCATION
+   XXIX  ABOUT [[Education|EDUCATION]]

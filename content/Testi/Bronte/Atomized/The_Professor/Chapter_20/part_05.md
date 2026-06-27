@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 19 (part 5)"
+title: "[[The Professor]] — Chapter 19 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,19 +18,19 @@ evening, just after I had got my aunt to bed; she went into her room
 
 to speak to her, and was extremely civil and affable, as she always is;
 
-afterwards she came and sat with me a long time, and just as she rose to
+afterwards she came and sat with me a long [[Time|time]], and just as she [[Rose|rose]] to
 
 go away, she said: “Mademoiselle, I shall not soon cease to regret your
 
 departure from my establishment, though indeed it is true that you have
 
-taught your class of pupils so well that they are all quite accomplished
+taught your class of pupils so [[Well|well]] that they are all quite accomplished
 
 in the little works you manage so skilfully, and have not the slightest
 
 need of further instruction; my second teacher must in future supply
 
-your place, with regard to the younger pupils, as well as she can,
+your place, with regard to the younger pupils, as [[Well|well]] as she can,
 
 though she is indeed an inferior artiste to you, and doubtless it will
 
@@ -40,7 +40,7 @@ you will everywhere find schools and families willing to profit by your
 
 talents.’ And then she paid me my last quarter’s salary. I asked, as
 
-mademoiselle would no doubt think, very bluntly, if she designed to
+mademoiselle would no [[Doubt|doubt]] think, very bluntly, if she designed to
 
 discharge me from the establishment. She smiled at my inelegance of
 
@@ -66,7 +66,7 @@ applied for Mdlle. Henri’s address,” forsooth; “Mdlle. Henri had always
 
 evaded giving it,” &c., &c., and here I found her a visitor at the very
 
-house of whose locality she had professed absolute ignorance!
+[[house]] of whose locality she had professed absolute ignorance!
 
 
 
@@ -74,11 +74,11 @@ Any comments I might have intended to make on my pupil’s communication,
 
 were checked by the plashing of large rain-drops on our faces and on the
 
-path, and by the muttering of a distant but coming storm. The warning
+path, and by the muttering of a distant but coming [[Storm|storm]]. The warning
 
 obvious in stagnant air and leaden sky had already induced me to take
 
-the road leading back to Brussels, and now I hastened my own steps and
+the [[Road|road]] leading back to Brussels, and now I hastened my own steps and
 
 those of my companion, and, as our way lay downhill, we got on rapidly.
 
@@ -86,11 +86,11 @@ There was an interval after the fall of the first broad drops before
 
 heavy rain came on; in the meantime we had passed through the Porte de
 
-Louvain, and were again in the city.
+Louvain, and were again in the [[City|city]].
 
 
 
-“Where do you live?” I asked; “I will see you safe home.”
+“Where do you live?” I asked; “I will see you safe [[Home|home]].”
 
 
 
@@ -100,19 +100,19 @@ Louvain, and were again in the city.
 
 It was not far from the Rue de Louvain, and we stood on the doorsteps
 
-of the house we sought ere the clouds, severing with loud peal and
+of the [[house]] we sought ere the clouds, severing with loud peal and
 
-shattered cataract of lightning, emptied their livid folds in a torrent,
+shattered cataract of [[Lightning|lightning]], emptied their livid folds in a torrent,
 
 heavy, prone, and broad.
 
 
 
-“Come in! come in!” said Frances, as, after putting her into the house,
+“Come in! come in!” said Frances, as, after putting her into the [[house]],
 
 I paused ere I followed: the word decided me; I stepped across the
 
-threshold, shut the door on the rushing, flashing, whitening storm, and
+threshold, shut the door on the rushing, flashing, whitening [[Storm|storm]], and
 
 followed her upstairs to her apartments. Neither she nor I were wet; a
 
@@ -132,29 +132,29 @@ articles of furniture were few, but all bright and exquisitely clean;
 
 order reigned through its narrow limits--such order as it soothed my
 
-punctilious soul to behold. And I had hesitated to enter the abode,
+punctilious [[Soul|soul]] to behold. And I had hesitated to enter the abode,
 
 because I apprehended after all that Mdlle. Reuter’s hint about its
 
-extreme poverty might be too well-founded, and I feared to embarrass the
+extreme [[Poverty|poverty]] might be too [[Well|well]]-founded, and I feared to embarrass the
 
 lace-mender by entering her lodgings unawares! Poor the place might be;
 
 poor truly it was; but its neatness was better than elegance, and had
 
-but a bright little fire shone on that clean hearth, I should have
+but a bright little [[Fire|fire]] shone on that clean hearth, I should have
 
-deemed it more attractive than a palace. No fire was there, however, and
+deemed it more attractive than a palace. No [[Fire|fire]] was there, however, and
 
 no fuel laid ready to light; the lace-mender was unable to allow herself
 
-that indulgence, especially now when, deprived by death of her sole
+that indulgence, especially now when, deprived by [[Death|death]] of her sole
 
 relative, she had only her own unaided exertions to rely on. Frances
 
 went into an inner room to take off her bonnet, and she came out a
 
-model of frugal neatness, with her well-fitting black stuff dress, so
+model of frugal neatness, with her [[Well|well]]-fitting black stuff dress, so
 
 accurately defining her elegant bust and taper waist, with her spotless
 
@@ -164,7 +164,7 @@ plenteous brown hair arranged in smooth bands on her temples, and in
 
 a large Grecian plait behind: ornaments she had none--neither brooch,
 
-ring, nor ribbon; she did well enough without them--perfection of fit,
+ring, nor ribbon; she did [[Well|well]] enough without them--perfection of fit,
 
 proportion of form, grace of carriage, agreeably supplied their place.
 
@@ -172,9 +172,9 @@ Her eye, as she re-entered the small sitting-room, instantly sought
 
 mine, which was just then lingering on the hearth; I knew she read at
 
-once the sort of inward ruth and pitying pain which the chill vacancy of
+once the sort of inward ruth and pitying [[Pain|pain]] which the chill vacancy of
 
-that hearth stirred in my soul: quick to penetrate, quick to determine,
+that hearth stirred in my [[Soul|soul]]: quick to penetrate, quick to determine,
 
 and quicker to put in practice, she had in a moment tied a holland apron
 
@@ -192,7 +192,7 @@ compactly she arranged them in the grate.
 
 
 
-“What are you going to do?” I asked: “not surely to light a fire this
+“What are you going to do?” I asked: “not surely to light a [[Fire|fire]] this
 
 hot evening? I shall be smothered.”
 
@@ -200,7 +200,7 @@ hot evening? I shall be smothered.”
 
 “Indeed, monsieur, I feel it very chilly since the rain began; besides,
 
-I must boil the water for my tea, for I take tea on Sundays; you will be
+I must boil the [[Water|water]] for my tea, for I take tea on Sundays; you will be
 
 obliged to try and bear the heat.”
 

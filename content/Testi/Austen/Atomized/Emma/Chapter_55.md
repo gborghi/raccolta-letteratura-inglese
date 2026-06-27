@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 17"
+title: "[[Emma]] — Chapter 17"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Emma-(Austen)"
@@ -18,17 +18,17 @@ CHAPTER XVII
 
 
 Mrs. Weston’s friends were all made happy by her safety; and if the
-satisfaction of her well-doing could be increased to Emma, it was by
+satisfaction of her [[Well|well]]-doing could be increased to [[Emma]], it was by
 knowing her to be the mother of a little girl. She had been decided in
 wishing for a Miss Weston. She would not acknowledge that it was with
 any view of making a match for her, hereafter, with either of
-Isabella’s sons; but she was convinced that a daughter would suit both
+[[Isabella]]’s sons; but she was convinced that a daughter would suit both
 father and mother best. It would be a great comfort to Mr. Weston, as
 he grew older—and even Mr. Weston might be growing older ten years
 hence—to have his fireside enlivened by the sports and the nonsense,
-the freaks and the fancies of a child never banished from home; and
-Mrs. Weston—no one could doubt that a daughter would be most to her;
-and it would be quite a pity that any one who so well knew how to
+the freaks and the fancies of a [[Child|child]] never banished from [[Home|home]]; and
+Mrs. Weston—no one could [[Doubt|doubt]] that a daughter would be most to her;
+and it would be quite a pity that any one who so [[Well|well]] knew how to
 teach, should not have their powers in exercise again.
 
 “She has had the advantage, you know, of practising on me,” she
@@ -40,34 +40,34 @@ Adelaide educated on a more perfect plan.”
 she did you, and believe that she does not indulge her at all. It will
 be the only difference.”
 
-“Poor child!” cried Emma; “at that rate, what will become of her?”
+“Poor [[Child|child]]!” cried [[Emma]]; “at that rate, what will become of her?”
 
 “Nothing very bad.—The fate of thousands. She will be disagreeable in
 infancy, and correct herself as she grows older. I am losing all my
-bitterness against spoilt children, my dearest Emma. I, who am owing
+bitterness against spoilt children, my dearest [[Emma]]. I, who am owing
 all my happiness to _you_, would not it be horrible ingratitude in me
 to be severe on them?”
 
-Emma laughed, and replied: “But I had the assistance of all your
-endeavours to counteract the indulgence of other people. I doubt
+[[Emma]] laughed, and replied: “But I had the assistance of all your
+endeavours to counteract the indulgence of other people. I [[Doubt|doubt]]
 whether my own sense would have corrected me without it.”
 
-“Do you?—I have no doubt. Nature gave you understanding:—Miss Taylor
-gave you principles. You must have done well. My interference was quite
+“Do you?—I have no [[Doubt|doubt]]. [[Nature]] gave you understanding:—Miss Taylor
+gave you principles. You must have done [[Well|well]]. My interference was quite
 as likely to do harm as good. It was very natural for you to say, what
 right has he to lecture me?—and I am afraid very natural for you to
 feel that it was done in a disagreeable manner. I do not believe I did
 you any good. The good was all to myself, by making you an object of
 the tenderest affection to me. I could not think about you so much
 without doating on you, faults and all; and by dint of fancying so many
-errors, have been in love with you ever since you were thirteen at
+errors, have been in [[Love|love]] with you ever since you were thirteen at
 least.”
 
-“I am sure you were of use to me,” cried Emma. “I was very often
-influenced rightly by you—oftener than I would own at the time. I am
+“I am sure you were of use to me,” cried [[Emma]]. “I was very often
+influenced rightly by you—oftener than I would own at the [[Time|time]]. I am
 very sure you did me good. And if poor little Anna Weston is to be
 spoiled, it will be the greatest humanity in you to do as much for her
-as you have done for me, except falling in love with her when she is
+as you have done for me, except falling in [[Love|love]] with her when she is
 thirteen.”
 
 “How often, when you were a girl, have you said to me, with one of your
@@ -76,7 +76,7 @@ may, or I have Miss Taylor’s leave’—something which, you knew, I did
 not approve. In such cases my interference was giving you two bad
 feelings instead of one.”
 
-“What an amiable creature I was!—No wonder you should hold my speeches
+“What an amiable creature I was!—No [[Wonder|wonder]] you should hold my speeches
 in such affectionate remembrance.”
 
 “‘Mr. Knightley.’—You always called me, ‘Mr. Knightley;’ and, from
@@ -96,29 +96,29 @@ and blushing—“I will promise to call you once by your Christian name. I
 do not say when, but perhaps you may guess where;—in the building in
 which N. takes M. for better, for worse.”
 
-Emma grieved that she could not be more openly just to one important
+[[Emma]] grieved that she could not be more openly just to one important
 service which his better sense would have rendered her, to the advice
 which would have saved her from the worst of all her womanly
-follies—her wilful intimacy with Harriet Smith; but it was too tender a
+follies—her wilful intimacy with [[Harriet Smith]]; but it was too tender a
 subject.—She could not enter on it.—Harriet was very seldom mentioned
 between them. This, on his side, might merely proceed from her not
-being thought of; but Emma was rather inclined to attribute it to
-delicacy, and a suspicion, from some appearances, that their friendship
+being thought of; but [[Emma]] was rather inclined to attribute it to
+delicacy, and a suspicion, from some appearances, that their [[Friendship|friendship]]
 were declining. She was aware herself, that, parting under any other
 circumstances, they certainly should have corresponded more, and that
 her intelligence would not have rested, as it now almost wholly did, on
-Isabella’s letters. He might observe that it was so. The pain of being
+[[Isabella]]’s letters. He might observe that it was so. The [[Pain|pain]] of being
 obliged to practise concealment towards him, was very little inferior
-to the pain of having made Harriet unhappy.
+to the [[Pain|pain]] of having made Harriet unhappy.
 
-Isabella sent quite as good an account of her visitor as could be
+[[Isabella]] sent quite as good an account of her visitor as could be
 expected; on her first arrival she had thought her out of spirits,
 which appeared perfectly natural, as there was a dentist to be
 consulted; but, since that business had been over, she did not appear
-to find Harriet different from what she had known her before.—Isabella,
+to find Harriet different from what she had known her before.—[[Isabella]],
 to be sure, was no very quick observer; yet if Harriet had not been
 equal to playing with the children, it would not have escaped her.
-Emma’s comforts and hopes were most agreeably carried on, by Harriet’s
+[[Emma]]’s comforts and hopes were most agreeably carried on, by Harriet’s
 being to stay longer; her fortnight was likely to be a month at least.
 Mr. and Mrs. John Knightley were to come down in August, and she was
 invited to remain till they could bring her back.
@@ -126,39 +126,39 @@ invited to remain till they could bring her back.
 “John does not even mention your friend,” said Mr. Knightley. “Here is
 his answer, if you like to see it.”
 
-It was the answer to the communication of his intended marriage. Emma
+It was the answer to the communication of his intended [[Marriage|marriage]]. [[Emma]]
 accepted it with a very eager hand, with an impatience all alive to
 know what he would say about it, and not at all checked by hearing that
 her friend was unmentioned.
 
 “John enters like a brother into my happiness,” continued Mr.
-Knightley, “but he is no complimenter; and though I well know him to
+Knightley, “but he is no complimenter; and though I [[Well|well]] know him to
 have, likewise, a most brotherly affection for you, he is so far from
 making flourishes, that any other young woman might think him rather
 cool in her praise. But I am not afraid of your seeing what he writes.”
 
-“He writes like a sensible man,” replied Emma, when she had read the
-letter. “I honour his sincerity. It is very plain that he considers the
+“He writes like a sensible man,” replied [[Emma]], when she had read the
+letter. “I [[Honour|honour]] his sincerity. It is very plain that he considers the
 good fortune of the engagement as all on my side, but that he is not
-without hope of my growing, in time, as worthy of your affection, as
+without [[Hope|hope]] of my growing, in [[Time|time]], as worthy of your affection, as
 you think me already. Had he said any thing to bear a different
 construction, I should not have believed him.”
 
-“My Emma, he means no such thing. He only means—”
+“My [[Emma]], he means no such thing. He only means—”
 
 “He and I should differ very little in our estimation of the two,”
 interrupted she, with a sort of serious smile—“much less, perhaps, than
 he is aware of, if we could enter without ceremony or reserve on the
 subject.”
 
-“Emma, my dear Emma—”
+“[[Emma]], my dear [[Emma]]—”
 
 “Oh!” she cried with more thorough gaiety, “if you fancy your brother
 does not do me justice, only wait till my dear father is in the secret,
 and hear his opinion. Depend upon it, he will be much farther from
 doing _you_ justice. He will think all the happiness, all the
 advantage, on your side of the question; all the merit on mine. I wish
-I may not sink into ‘poor Emma’ with him at once.—His tender compassion
+I may not sink into ‘poor [[Emma]]’ with him at once.—His tender compassion
 towards oppressed worth can go no farther.”
 
 “Ah!” he cried, “I wish your father might be half as easily convinced
@@ -175,23 +175,23 @@ unprepared for that.”
 “Yes, yes—but I am amused that he should have seen so far into my
 feelings. What has he been judging by?—I am not conscious of any
 difference in my spirits or conversation that could prepare him at this
-time for my marrying any more than at another.—But it was so, I
+[[Time|time]] for my marrying any more than at another.—But it was so, I
 suppose. I dare say there was a difference when I was staying with them
 the other day. I believe I did not play with the children quite so much
 as usual. I remember one evening the poor boys saying, ‘Uncle seems
 always tired now.’”
 
-The time was coming when the news must spread farther, and other
+The [[Time|time]] was coming when the news must spread farther, and other
 persons’ reception of it tried. As soon as Mrs. Weston was sufficiently
-recovered to admit Mr. Woodhouse’s visits, Emma having it in view that
+recovered to admit Mr. Woodhouse’s visits, [[Emma]] having it in view that
 her gentle reasonings should be employed in the cause, resolved first
-to announce it at home, and then at Randalls.—But how to break it to
+to announce it at [[Home|home]], and then at Randalls.—But how to break it to
 her father at last!—She had bound herself to do it, in such an hour of
 Mr. Knightley’s absence, or when it came to the point her heart would
 have failed her, and she must have put it off; but Mr. Knightley was to
-come at such a time, and follow up the beginning she was to make.—She
+come at such a [[Time|time]], and follow up the beginning she was to make.—She
 was forced to speak, and to speak cheerfully too. She must not make it
-a more decided subject of misery to him, by a melancholy tone herself.
+a more decided subject of misery to him, by a [[Melancholy|melancholy]] tone herself.
 She must not appear to think it a misfortune.—With all the spirits she
 could command, she prepared him first for something strange, and then,
 in a few words, said, that if his consent and approbation could be
@@ -205,15 +205,15 @@ Poor man!—it was at first a considerable shock to him, and he tried
 earnestly to dissuade her from it. She was reminded, more than once, of
 having always said she would never marry, and assured that it would be
 a great deal better for her to remain single; and told of poor
-Isabella, and poor Miss Taylor.—But it would not do. Emma hung about
+[[Isabella]], and poor Miss Taylor.—But it would not do. [[Emma]] hung about
 him affectionately, and smiled, and said it must be so; and that he
-must not class her with Isabella and Mrs. Weston, whose marriages
-taking them from Hartfield, had, indeed, made a melancholy change: but
+must not class her with [[Isabella]] and Mrs. Weston, whose marriages
+taking them from Hartfield, had, indeed, made a [[Melancholy|melancholy]] change: but
 she was not going from Hartfield; she should be always there; she was
 introducing no change in their numbers or their comforts but for the
 better; and she was very sure that he would be a great deal the happier
 for having Mr. Knightley always at hand, when he were once got used to
-the idea.—Did he not love Mr. Knightley very much?—He would not deny
+the idea.—Did he not [[Love|love]] Mr. Knightley very much?—He would not deny
 that he did, she was sure.—Whom did he ever want to consult on business
 but Mr. Knightley?—Who was so useful to him, who so ready to write his
 letters, who so glad to assist him?—Who so cheerful, so attentive, so
@@ -223,45 +223,45 @@ should be glad to see him every day;—but they did see him every day as
 it was.—Why could not they go on as they had done?
 
 Mr. Woodhouse could not be soon reconciled; but the worst was overcome,
-the idea was given; time and continual repetition must do the rest.—To
-Emma’s entreaties and assurances succeeded Mr. Knightley’s, whose fond
+the idea was given; [[Time|time]] and continual repetition must do the rest.—To
+[[Emma]]’s entreaties and assurances succeeded Mr. Knightley’s, whose fond
 praise of her gave the subject even a kind of welcome; and he was soon
 used to be talked to by each, on every fair occasion.—They had all the
-assistance which Isabella could give, by letters of the strongest
+assistance which [[Isabella]] could give, by letters of the strongest
 approbation; and Mrs. Weston was ready, on the first meeting, to
 consider the subject in the most serviceable light—first, as a settled,
-and, secondly, as a good one—well aware of the nearly equal importance
+and, secondly, as a good one—[[Well|well]] aware of the nearly equal importance
 of the two recommendations to Mr. Woodhouse’s mind.—It was agreed upon,
-as what was to be; and every body by whom he was used to be guided
+as what was to be; and every [[Body|body]] by whom he was used to be guided
 assuring him that it would be for his happiness; and having some
 feelings himself which almost admitted it, he began to think that some
-time or other—in another year or two, perhaps—it might not be so very
-bad if the marriage did take place.
+[[Time|time]] or other—in another year or two, perhaps—it might not be so very
+bad if the [[Marriage|marriage]] did take place.
 
 Mrs. Weston was acting no part, feigning no feelings in all that she
 said to him in favour of the event.—She had been extremely surprized,
-never more so, than when Emma first opened the affair to her; but she
+never more so, than when [[Emma]] first opened the affair to her; but she
 saw in it only increase of happiness to all, and had no scruple in
 urging him to the utmost.—She had such a regard for Mr. Knightley, as
-to think he deserved even her dearest Emma; and it was in every respect
+to think he deserved even her dearest [[Emma]]; and it was in every respect
 so proper, suitable, and unexceptionable a connexion, and in one
 respect, one point of the highest importance, so peculiarly eligible,
-so singularly fortunate, that now it seemed as if Emma could not safely
+so singularly fortunate, that now it seemed as if [[Emma]] could not safely
 have attached herself to any other creature, and that she had herself
 been the stupidest of beings in not having thought of it, and wished it
-long ago.—How very few of those men in a rank of life to address Emma
-would have renounced their own home for Hartfield! And who but Mr.
+long ago.—How very few of those men in a rank of life to address [[Emma]]
+would have renounced their own [[Home|home]] for Hartfield! And who but Mr.
 Knightley could know and bear with Mr. Woodhouse, so as to make such an
 arrangement desirable!—The difficulty of disposing of poor Mr.
 Woodhouse had been always felt in her husband’s plans and her own, for
-a marriage between Frank and Emma. How to settle the claims of Enscombe
+a [[Marriage|marriage]] between Frank and [[Emma]]. How to settle the claims of Enscombe
 and Hartfield had been a continual impediment—less acknowledged by Mr.
 Weston than by herself—but even he had never been able to finish the
 subject better than by saying—“Those matters will take care of
 themselves; the young people will find a way.” But here there was
 nothing to be shifted off in a wild speculation on the future. It was
 all right, all open, all equal. No sacrifice on any side worth the
-name. It was a union of the highest promise of felicity in itself, and
+name. It was a [[Union|union]] of the highest promise of felicity in itself, and
 without one real, rational difficulty to oppose or delay it.
 
 Mrs. Weston, with her baby on her knee, indulging in such reflections
@@ -273,41 +273,41 @@ The news was universally a surprize wherever it spread; and Mr. Weston
 had his five minutes share of it; but five minutes were enough to
 familiarise the idea to his quickness of mind.—He saw the advantages of
 the match, and rejoiced in them with all the constancy of his wife; but
-the wonder of it was very soon nothing; and by the end of an hour he
+the [[Wonder|wonder]] of it was very soon nothing; and by the end of an hour he
 was not far from believing that he had always foreseen it.
 
 “It is to be a secret, I conclude,” said he. “These matters are always
-a secret, till it is found out that every body knows them. Only let me
-be told when I may speak out.—I wonder whether Jane has any suspicion.”
+a secret, till it is found out that every [[Body|body]] knows them. Only let me
+be told when I may speak out.—I [[Wonder|wonder]] whether Jane has any suspicion.”
 
 He went to Highbury the next morning, and satisfied himself on that
 point. He told her the news. Was not she like a daughter, his eldest
-daughter?—he must tell her; and Miss Bates being present, it passed, of
+daughter?—he must tell her; and [[Miss Bates]] being present, it passed, of
 course, to Mrs. Cole, Mrs. Perry, and Mrs. Elton, immediately
 afterwards. It was no more than the principals were prepared for; they
-had calculated from the time of its being known at Randalls, how soon
+had calculated from the [[Time|time]] of its being known at Randalls, how soon
 it would be over Highbury; and were thinking of themselves, as the
-evening wonder in many a family circle, with great sagacity.
+evening [[Wonder|wonder]] in many a family circle, with great sagacity.
 
-In general, it was a very well approved match. Some might think him,
+In general, it was a very [[Well|well]] approved match. Some might think him,
 and others might think her, the most in luck. One set might recommend
 their all removing to Donwell, and leaving Hartfield for the John
 Knightleys; and another might predict disagreements among their
 servants; but yet, upon the whole, there was no serious objection
 raised, except in one habitation, the Vicarage.—There, the surprize was
 not softened by any satisfaction. Mr. Elton cared little about it,
-compared with his wife; he only hoped “the young lady’s pride would now
+compared with his wife; he only hoped “the young lady’s [[Pride|pride]] would now
 be contented;” and supposed “she had always meant to catch Knightley if
 she could;” and, on the point of living at Hartfield, could daringly
 exclaim, “Rather he than I!”—But Mrs. Elton was very much discomposed
 indeed.—“Poor Knightley! poor fellow!—sad business for him.”—She was
 extremely concerned; for, though very eccentric, he had a thousand good
 qualities.—How could he be so taken in?—Did not think him at all in
-love—not in the least.—Poor Knightley!—There would be an end of all
+[[Love|love]]—not in the least.—Poor Knightley!—There would be an end of all
 pleasant intercourse with him.—How happy he had been to come and dine
 with them whenever they asked him! But that would be all over now.—Poor
 fellow!—No more exploring parties to Donwell made for _her_. Oh! no;
-there would be a Mrs. Knightley to throw cold water on every
+there would be a Mrs. Knightley to throw cold [[Water|water]] on every
 thing.—Extremely disagreeable! But she was not at all sorry that she
 had abused the housekeeper the other day.—Shocking plan, living
 together. It would never do. She knew a family near Maple Grove who had

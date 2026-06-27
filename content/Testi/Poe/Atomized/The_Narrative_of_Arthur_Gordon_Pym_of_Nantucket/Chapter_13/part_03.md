@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 14 (part 3)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 14 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -16,7 +16,7 @@ tags:
 
 coming on land except for the purpose of breeding. Between this bird
 
-and the penguin the most singular friendship exists. Their nests are
+and the penguin the most singular [[Friendship|friendship]] exists. Their nests are
 
 constructed with great uniformity, upon a plan concerted between the
 
@@ -36,7 +36,7 @@ something here of their mode of building and living.
 
 
 
-When the season for incubation arrives, the birds assemble in vast
+When the season for incubation arrives, the [[Birds|birds]] assemble in vast
 
 numbers, and for some days appear to be deliberating upon the proper
 
@@ -50,21 +50,21 @@ beyond its reach. The spot is chosen with reference to its evenness of
 
 surface, and that is preferred which is the least encumbered with
 
-stones. This matter being arranged, the birds proceed, with one accord,
+stones. This matter being arranged, the [[Birds|birds]] proceed, with one accord,
 
 and actuated apparently by one mind, to trace out, with mathematical
 
 accuracy, either a square or other parallelogram, as may best suit the
 
-nature of the ground, and of just sufficient size to accommodate easily
+[[Nature|nature]] of the ground, and of just sufficient size to accommodate easily
 
-all the birds assembled, and no more--in this particular seeming
+all the [[Birds|birds]] assembled, and no more--in this particular seeming
 
 determined upon preventing the access of future stragglers who have not
 
 participated in the labour of the encampment. One side of the place
 
-thus marked out runs parallel with the water's edge, and is left open
+thus marked out runs parallel with the [[Water|water]]'s edge, and is left open
 
 for ingress or egress.
 
@@ -100,7 +100,7 @@ albatross by a like number of penguins. The penguin's nest consists of
 
 a hole in the earth, very shallow, being only just of sufficient depth
 
-to keep her single egg from rolling. The albatross is somewhat less
+to keep her single egg from [[rolling]]. The albatross is somewhat less
 
 simple in her arrangements, erecting a hillock about a foot high and
 
@@ -110,7 +110,7 @@ summit she builds her nest.
 
 
 
-The birds take especial care never to leave their nests unoccupied for
+The [[Birds|birds]] take especial care never to leave their nests unoccupied for
 
 an instant during the period of incubation, or, indeed, until the young
 
@@ -120,7 +120,7 @@ male is absent at sea in search of food, the female remains on duty,
 
 and it is only upon the return of her partner that she ventures abroad.
 
-The eggs are never left uncovered at all--while one bird leaves the
+The eggs are never left uncovered at all--while one bird [[Leaves|leaves]] the
 
 nest, the other nestling in by its side. This precaution is rendered
 
@@ -134,7 +134,7 @@ good opportunity.
 
 Although there are some rookeries in which the penguin and albatross
 
-are the sole population, yet in most of them a variety of oceanic birds
+are the sole population, yet in most of them a variety of oceanic [[Birds|birds]]
 
 are to be met with, enjoying all the privileges of citizenship, and
 
@@ -150,7 +150,7 @@ darkened with the immense number of the albatross (mingled with the
 
 smaller tribes) which are continually hovering over it, either going to
 
-the ocean or returning home. At the same time a crowd of penguins are
+the ocean or returning [[Home|home]]. At the same [[Time|time]] a crowd of penguins are
 
 to be observed, some passing to and fro in the narrow alleys, and some
 
@@ -162,7 +162,7 @@ it as we will, nothing can be more astonishing than the spirit of
 
 reflection evinced by these feathered beings, and nothing surely can be
 
-better calculated to elicit reflection in every well-regulated human
+better calculated to elicit reflection in every [[Well|well]]-regulated human
 
 intellect.
 
@@ -176,7 +176,7 @@ the season) went in search of seal, leaving the captain and a young
 
 relation of his on a point of barren land to the westward, they having
 
-some business, whose nature I could not ascertain, to transact in the
+some business, whose [[Nature|nature]] I could not ascertain, to transact in the
 
 interior of the island. Captain Guy took with him a bottle, in which
 
@@ -198,7 +198,7 @@ and corner, not only of Kerguelen's Land, but of the several small
 
 islands in the vicinity. Our labours, however, were not crowned with
 
-any important success. We saw a great many fur seal, but they were
+any important [[success]]. We saw a great many fur seal, but they were
 
 exceedingly shy, and, with the greatest exertions, we could only
 

@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Content perforce with this success for the time, Mr Lammle let Miss
+Content perforce with this [[success]] for the [[Time|time]], Mr Lammle let Miss
 Podsnap out of the room, as if he were opening her cage door, and Mrs
 Lammle followed. Coffee being presently served up stairs, he kept a
 watch on Fledgeby until Miss Podsnap’s cup was empty, and then directed
@@ -41,7 +41,7 @@ forward to address Mr Lammle to this purpose.
 ‘Alfred, my dear, Mr Fledgeby very justly says, apropos of the last
 scene, that true constancy would not require any such stimulant as the
 stage deems necessary.’ To which Mr Lammle would reply, ‘Ay, Sophronia,
-my love, but as Georgiana has observed to me, the lady had no sufficient
+my [[Love|love]], but as Georgiana has observed to me, the lady had no sufficient
 reason to know the state of the gentleman’s affections.’ To which Mrs
 Lammle would rejoin, ‘Very true, Alfred; but Mr Fledgeby points
 out,’ this. To which Alfred would demur: ‘Undoubtedly, Sophronia, but
@@ -51,19 +51,19 @@ of delicate sentiments, without having once opened their lips, save to
 say yes or no, and even that not to one another.
 
 Fledgeby took his leave of Miss Podsnap at the carriage door, and the
-Lammles dropped her at her own home, and on the way Mrs Lammle archly
+Lammles dropped her at her own [[Home|home]], and on the way Mrs Lammle archly
 rallied her, in her fond and protecting manner, by saying at intervals,
 ‘Oh little Georgiana, little Georgiana!’ Which was not much; but the
 tone added, ‘You have enslaved your Fledgeby.’
 
-And thus the Lammles got home at last, and the lady sat down moody and
+And thus the Lammles got [[Home|home]] at last, and the lady sat down moody and
 weary, looking at her dark lord engaged in a deed of violence with a
-bottle of soda-water as though he were wringing the neck of some unlucky
-creature and pouring its blood down his throat. As he wiped his dripping
+bottle of soda-[[Water|water]] as though he were wringing the neck of some unlucky
+creature and pouring its [[Blood|blood]] down his throat. As he wiped his dripping
 whiskers in an ogreish way, he met her eyes, and pausing, said, with no
 very gentle voice:
 
-‘Well?’
+‘[[Well]]?’
 
 ‘Was such an absolute Booby necessary to the purpose?’
 
@@ -73,7 +73,7 @@ very gentle voice:
 
 ‘You sneer, perhaps; and you take a lofty air upon yourself perhaps!
 But I tell you this:—when that young fellow’s interest is concerned,
-he holds as tight as a horse-leech. When money is in question with that
+he holds as tight as a [[Horse|horse]]-leech. When money is in question with that
 young fellow, he is a match for the Devil.’
 
 ‘Is he a match for you?’
@@ -81,11 +81,11 @@ young fellow, he is a match for the Devil.’
 ‘He is. Almost as good a one as you thought me for you. He has no
 quality of youth in him, but such as you have seen to-day. Touch him
 upon money, and you touch no booby then. He really is a dolt, I suppose,
-in other things; but it answers his one purpose very well.’
+in other things; but it answers his one purpose very [[Well|well]].’
 
 ‘Has she money in her own right in any case?’
 
-‘Ay! she has money in her own right in any case. You have done so well
+‘Ay! she has money in her own right in any case. You have done so [[Well|well]]
 to-day, Sophronia, that I answer the question, though you know I object
-to any such questions. You have done so well to-day, Sophronia, that you
+to any such questions. You have done so [[Well|well]] to-day, Sophronia, that you
 must be tired. Get to bed.’

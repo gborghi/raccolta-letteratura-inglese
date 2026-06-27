@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 48"
+title: "[[Sense and Sensibility]] — Chapter 48"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -26,7 +26,7 @@ unpleasant event, however certain the mind may be told to consider it,
 
 and certainty itself. She now found, that in spite of herself, she had
 
-always admitted a hope, while Edward remained single, that something
+always admitted a [[Hope|hope]], while Edward remained single, that something
 
 would occur to prevent his marrying Lucy; that some resolution of his
 
@@ -36,7 +36,7 @@ establishment for the lady, would arise to assist the happiness of all.
 
 But he was now married; and she condemned her heart for the lurking
 
-flattery, which so much heightened the pain of the intelligence.
+flattery, which so much heightened the [[Pain|pain]] of the intelligence.
 
 
 
@@ -46,7 +46,7 @@ orders, and consequently before he could be in possession of the
 
 living, surprised her a little at first. But she soon saw how likely it
 
-was that Lucy, in her self-provident care, in her haste to secure him,
+was that Lucy, in her [[Self|self]]-provident care, in her haste to secure him,
 
 should overlook every thing but the risk of delay. They were married,
 
@@ -64,25 +64,25 @@ place in which so much conspired to give her an interest; which she
 
 wished to be acquainted with, and yet desired to avoid. She saw them in
 
-an instant in their parsonage-house; saw in Lucy, the active,
+an instant in their parsonage-[[house]]; saw in Lucy, the active,
 
-contriving manager, uniting at once a desire of smart appearance with
+contriving manager, uniting at once a [[Desire|desire]] of smart appearance with
 
 the utmost frugality, and ashamed to be suspected of half her
 
 economical practices;—pursuing her own interest in every thought,
 
-courting the favour of Colonel Brandon, of Mrs. Jennings, and of every
+courting the favour of [[Colonel Brandon]], of Mrs. Jennings, and of every
 
 wealthy friend. In Edward—she knew not what she saw, nor what she
 
 wished to see;—happy or unhappy,—nothing pleased her; she turned away
 
-her head from every sketch of him.
+her head from every [[Sketch|sketch]] of him.
 
 
 
-Elinor flattered herself that some one of their connections in London
+Elinor flattered herself that some one of their connections in [[London]]
 
 would write to them to announce the event, and give farther
 
@@ -94,13 +94,13 @@ with every absent friend. They were all thoughtless or indolent.
 
 
 
-“When do you write to Colonel Brandon, ma’am?” was an inquiry which
+“When do you write to [[Colonel Brandon]], ma’am?” was an inquiry which
 
 sprung from the impatience of her mind to have something going on.
 
 
 
-“I wrote to him, my love, last week, and rather expect to see, than to
+“I wrote to him, my [[Love|love]], last week, and rather expect to see, than to
 
 hear from him again. I earnestly pressed his coming to us, and should
 
@@ -116,11 +116,11 @@ Brandon _must_ have some information to give.
 
 Scarcely had she so determined it, when the figure of a man on
 
-horseback drew her eyes to the window. He stopt at their gate. It was a
+horseback drew her eyes to the [[Window|window]]. He stopt at their gate. It was a
 
-gentleman, it was Colonel Brandon himself. Now she could hear more; and
+gentleman, it was [[Colonel Brandon]] himself. Now she could hear more; and
 
-she trembled in expectation of it. But it was _not_ Colonel Brandon;
+she trembled in expectation of it. But it was _not_ [[Colonel Brandon]];
 
 neither his air, nor his height. Were it possible, she must say it must
 
@@ -150,7 +150,7 @@ own discretion.
 
 
 
-Not a syllable passed aloud. They all waited in silence for the
+Not a syllable passed aloud. They all waited in [[Silence|silence]] for the
 
 appearance of their visitor. His footsteps were heard along the gravel
 
@@ -196,7 +196,7 @@ the case, thought it incumbent on her to be dignified, and therefore
 
 took a seat as far from him as she could, and maintained a strict
 
-silence.
+[[Silence|silence]].
 
 
 
@@ -204,7 +204,7 @@ When Elinor had ceased to rejoice in the dryness of the season, a very
 
 awful pause took place. It was put an end to by Mrs. Dashwood, who felt
 
-obliged to hope that he had left Mrs. Ferrars very well. In a hurried
+obliged to [[Hope|hope]] that he had left Mrs. Ferrars very [[Well|well]]. In a hurried
 
 manner, he replied in the affirmative.
 
@@ -252,9 +252,9 @@ after some hesitation, said,—
 
 accent of the utmost amazement; and though Elinor could not speak, even
 
-_her_ eyes were fixed on him with the same impatient wonder. He rose
+_her_ eyes were fixed on him with the same impatient [[Wonder|wonder]]. He [[Rose|rose]]
 
-from his seat, and walked to the window, apparently from not knowing
+from his seat, and walked to the [[Window|window]], apparently from not knowing
 
 what to do; took up a pair of scissors that lay there, and while
 
@@ -266,7 +266,7 @@ he spoke, said, in a hurried voice,—
 
 “Perhaps you do not know: you may not have heard that my brother is
 
-lately married to—to the youngest—to Miss Lucy Steele.”
+lately married to—to the youngest—to Miss [[Lucy Steele]].”
 
 
 
@@ -284,7 +284,7 @@ agitation as made her hardly know where she was.
 
 Elinor could sit it no longer. She almost ran out of the room, and as
 
-soon as the door was closed, burst into tears of joy, which at first
+soon as the door was closed, burst into [[Tears|tears]] of joy, which at first
 
 she thought would never cease. Edward, who had till then looked any
 

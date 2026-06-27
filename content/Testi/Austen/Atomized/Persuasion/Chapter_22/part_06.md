@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 22 (part 6)"
+title: "[[Persuasion]] — Chapter 22 (part 6)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -20,7 +20,7 @@ his hand after they were gone, as if deeply considering it.
 
 “Only think of Elizabeth’s including everybody!” whispered Mary very
 
-audibly. “I do not wonder Captain Wentworth is delighted! You see he
+audibly. “I do not [[Wonder|wonder]] [[Captain Wentworth]] is delighted! You see he
 
 cannot put the card out of his hand.”
 
@@ -42,7 +42,7 @@ belonged to them. She was earnestly begged to return and dine, and give
 
 them all the rest of the day, but her spirits had been so long exerted
 
-that at present she felt unequal to more, and fit only for home, where
+that at present she felt unequal to more, and fit only for [[Home|home]], where
 
 she might be sure of being as silent as she chose.
 
@@ -62,7 +62,7 @@ improving detail of all the embellishments which were to make it the
 
 most completely elegant of its kind in Bath, while harassing herself
 
-with the never-ending question, of whether Captain Wentworth would come
+with the never-ending question, of whether [[Captain Wentworth]] would come
 
 or not? They were reckoning him as certain, but with her it was a
 
@@ -86,7 +86,7 @@ after his being supposed to be out of Bath, for having watched in vain
 
 for some intimation of the interview from the lady herself, she
 
-determined to mention it, and it seemed to her there was guilt in Mrs
+determined to mention it, and it seemed to her there was [[Guilt|guilt]] in Mrs
 
 Clay’s face as she listened. It was transient: cleared away in an
 
@@ -98,7 +98,7 @@ authority of his, been obliged to attend (perhaps for half an hour) to
 
 his lectures and restrictions on her designs on Sir Walter. She
 
-exclaimed, however, with a very tolerable imitation of nature:—
+exclaimed, however, with a very tolerable [[Imitation|imitation]] of [[Nature|nature]]:—
 
 
 
@@ -118,6 +118,6 @@ he might be admitted to-morrow. He was full of ‘to-morrow,’ and it is
 
 very evident that I have been full of it too, ever since I entered the
 
-house, and learnt the extension of your plan and all that had happened,
+[[house]], and learnt the extension of your plan and all that had happened,
 
 or my seeing him could never have gone so entirely out of my head.”

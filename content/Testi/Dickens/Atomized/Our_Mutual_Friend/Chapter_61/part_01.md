@@ -21,7 +21,7 @@ THE GOLDEN DUSTMAN RISES A LITTLE
 
 Mr and Mrs Lammle had come to breakfast with Mr and Mrs Boffin. They
 were not absolutely uninvited, but had pressed themselves with so much
-urgency on the golden couple, that evasion of the honour and pleasure
+urgency on the golden couple, that evasion of the [[Honour|honour]] and pleasure
 of their company would have been difficult, if desired. They were in a
 charming state of mind, were Mr and Mrs Lammle, and almost as fond of Mr
 and Mrs Boffin as of one another.
@@ -33,7 +33,7 @@ force of character, such natural sagacity united to such amiability and
 gentleness—these are the distinguishing characteristics of both.’
 
 This being said aloud, gave Mr Lammle an opportunity, as he came with Mr
-Boffin from the window to the breakfast table, of taking up his dear and
+Boffin from the [[Window|window]] to the breakfast table, of taking up his dear and
 honoured wife.
 
 ‘My Sophronia,’ said that gentleman, ‘your too partial estimate of your
@@ -42,7 +42,7 @@ husband’s character—’
 ‘No! Not too partial, Alfred,’ urged the lady, tenderly moved; ‘never
 say that.’
 
-‘My child, your favourable opinion, then, of your husband—you don’t
+‘My [[Child|child]], your favourable opinion, then, of your husband—you don’t
 object to that phrase, darling?’
 
 ‘How can I, Alfred?’
@@ -61,7 +61,7 @@ than I could.’
 
 ‘Far more than you could for yourself, Alfred?’
 
-‘My love, that is not the question.’
+‘My [[Love|love]], that is not the question.’
 
 ‘Not the question, Lawyer?’ said Mrs Lammle, archly.
 
@@ -74,8 +74,8 @@ when I see them in action.’
 ‘Alfred!’
 
 ‘They rouse my indignation, my dear, against the unworthy persons,
-and give me a combative desire to stand between Mr Boffin and all such
-persons. Why? Because, in my lower nature I am more worldly and less
+and give me a combative [[Desire|desire]] to stand between Mr Boffin and all such
+persons. Why? Because, in my lower [[Nature|nature]] I am more worldly and less
 delicate. Not being so magnanimous as Mr Boffin, I feel his injuries
 more than he does himself, and feel more capable of opposing his
 injurers.’
@@ -84,7 +84,7 @@ It struck Mrs Lammle that it appeared rather difficult this morning
 to bring Mr and Mrs Boffin into agreeable conversation. Here had been
 several lures thrown out, and neither of them had uttered a word. Here
 were she, Mrs Lammle, and her husband discoursing at once affectingly
-and effectively, but discoursing alone. Assuming that the dear old
+and effectively, but discoursing [[Alone|alone]]. Assuming that the dear old
 creatures were impressed by what they heard, still one would like to be
 sure of it, the more so, as at least one of the dear old creatures
 was somewhat pointedly referred to. If the dear old creatures were too
@@ -93,15 +93,15 @@ why then it would seem desirable that the dear old creatures should be
 taken by their heads and shoulders and brought into it.
 
 ‘But is not my husband saying in effect,’ asked Mrs Lammle, therefore,
-with an innocent air, of Mr and Mrs Boffin, ‘that he becomes unmindful
+with an [[Innocent|innocent]] air, of Mr and Mrs Boffin, ‘that he becomes unmindful
 of his own temporary misfortunes in his admiration of another whom he is
-burning to serve? And is not that making an admission that his nature is
+burning to serve? And is not that making an admission that his [[Nature|nature]] is
 a generous one? I am wretched in argument, but surely this is so, dear
 Mr and Mrs Boffin?’
 
 Still, neither Mr and Mrs Boffin said a word. He sat with his eyes on
 his plate, eating his muffins and ham, and she sat shyly looking at the
-teapot. Mrs Lammle’s innocent appeal was merely thrown into the air, to
+teapot. Mrs Lammle’s [[Innocent|innocent]] appeal was merely thrown into the air, to
 mingle with the steam of the urn. Glancing towards Mr and Mrs Boffin,
 she very slightly raised her eyebrows, as though inquiring of her
 husband: ‘Do I notice anything wrong here?’
@@ -111,11 +111,11 @@ manoeuvred his capacious shirt front into the largest demonstration
 possible, and then smiling retorted on his wife, thus:
 
 ‘Sophronia, darling, Mr and Mrs Boffin will remind you of the old adage,
-that self-praise is no recommendation.’
+that [[Self|self]]-praise is no recommendation.’
 
-‘Self-praise, Alfred? Do you mean because we are one and the same?’
+‘[[Self]]-praise, Alfred? Do you mean because we are one and the same?’
 
-‘No, my dear child. I mean that you cannot fail to remember, if you
+‘No, my dear [[Child|child]]. I mean that you cannot fail to remember, if you
 reflect for a single moment, that what you are pleased to compliment me
 upon feeling in the case of Mr Boffin, you have yourself confided to me
 as your own feeling in the case of Mrs Boffin.’
@@ -133,28 +133,28 @@ again.
 tone.
 
 ‘Really, I think,’ said Mrs Lammle, still gaily, ‘I must throw myself
-on the protection of the Court. Am I bound to answer that question, my
+on the protection of the [[Court]]. Am I bound to answer that question, my
 Lord?’ To Mr Boffin.
 
 ‘You needn’t, if you don’t like, ma’am,’ was his answer. ‘It’s not of
 the least consequence.’
 
 Both husband and wife glanced at him, very doubtfully. His manner was
-grave, but not coarse, and derived some dignity from a certain repressed
+[[Grave|grave]], but not coarse, and derived some dignity from a certain repressed
 dislike of the tone of the conversation.
 
 Again Mrs Lammle raised her eyebrows for instruction from her husband.
 He replied in a slight nod, ‘Try ’em again.’
 
-‘To protect myself against the suspicion of covert self-laudation, my
+‘To protect myself against the suspicion of covert [[Self|self]]-laudation, my
 dear Mrs Boffin,’ said the airy Mrs Lammle therefore, ‘I must tell you
 how it was.’
 
 ‘No. Pray don’t,’ Mr Boffin interposed.
 
-Mrs Lammle turned to him laughingly. ‘The Court objects?’
+Mrs Lammle turned to him laughingly. ‘The [[Court]] objects?’
 
-‘Ma’am,’ said Mr Boffin, ‘the Court (if I am the Court) does object. The
-Court objects for two reasons. First, because the Court don’t think it
-fair. Secondly, because the dear old lady, Mrs Court (if I am Mr) gets
+‘Ma’am,’ said Mr Boffin, ‘the [[Court]] (if I am the [[Court]]) does object. The
+[[Court]] objects for two reasons. First, because the [[Court]] don’t think it
+fair. Secondly, because the dear old lady, Mrs [[Court]] (if I am Mr) gets
 distressed by it.’

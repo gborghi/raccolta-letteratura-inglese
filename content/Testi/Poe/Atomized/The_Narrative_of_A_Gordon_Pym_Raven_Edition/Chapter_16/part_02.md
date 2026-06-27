@@ -42,7 +42,7 @@ tags:
 
       15’, no fields, and only three islands of ice were visible. It is
 
-      somewhat remarkable that, although vast flocks of birds were
+      somewhat remarkable that, although vast flocks of [[Birds|birds]] were
 
       seen, and other usual indications of land, and although, south of
 
@@ -64,7 +64,7 @@ tags:
 
       degrees 27’ E. The following passage is extracted from his
 
-      journal of that date. “The wind soon freshened to an eleven-knot
+      journal of that date. “The [[Wind|wind]] soon freshened to an eleven-knot
 
       breeze, and we embraced this opportunity of making to the west;
 
@@ -86,9 +86,9 @@ tags:
 
       sea was now entirely free of field ice, and there were not more
 
-      than a dozen ice islands in sight. At the same time the
+      than a dozen ice islands in sight. At the same [[Time|time]] the
 
-      temperature of the air and water was at least thirteen degrees
+      temperature of the air and [[Water|water]] was at least thirteen degrees
 
       higher (more mild) than we had ever found it between the
 
@@ -96,7 +96,7 @@ tags:
 
       70 degrees 14’ S., and the temperature of the air was
 
-      forty-seven, and that of the water forty-four. In this situation
+      forty-seven, and that of the [[Water|water]] forty-four. In this situation
 
       I found the variation to be 14 degrees 27’ easterly, per
 
@@ -104,7 +104,7 @@ tags:
 
       circle, on different meridians, and have uniformly found the
 
-      temperature, both of the air and the water, to become more and
+      temperature, both of the air and the [[Water|water]], to become more and
 
       more mild the farther I advanced beyond the sixty-fifth degree of
 
@@ -120,11 +120,11 @@ tags:
 
       circumference, and more than five hundred feet above the surface
 
-      of the water.”
+      of the [[Water|water]].”
 
 
 
-      Being nearly destitute of fuel and water, and without proper
+      Being nearly destitute of fuel and [[Water|water]], and without proper
 
       instruments, it being also late in the season, Captain Morrell
 
@@ -150,7 +150,7 @@ tags:
 
       In 1831, Captain Briscoe, in the employ of the Messieurs Enderby,
 
-      whale-ship owners of London, sailed in the brig Lively for the
+      whale-[[Ship|ship]] owners of [[London]], sailed in the brig Lively for the
 
       South Seas, accompanied by the cutter Tula. On the twenty-eighth
 
@@ -158,7 +158,7 @@ tags:
 
       degrees 31’ E., he descried land, and “clearly discovered through
 
-      the snow the black peaks of a range of mountains running E. S.
+      the [[Snow|snow]] the black peaks of a range of [[Mountains|mountains]] running E. S.
 
       E.” He remained in this neighbourhood during the whole of the
 
@@ -168,7 +168,7 @@ tags:
 
       Finding it impossible to make further discovery during this
 
-      season, he returned northward to winter in Van Diemen’s Land.
+      season, he returned northward to [[Winter|winter]] in Van Diemen’s Land.
 
 
 
@@ -184,13 +184,13 @@ tags:
 
       landing on the latter, and took possession of it in the name of
 
-      William IV, calling it Adelaide’s Island, in honour of the
+      William IV, calling it Adelaide’s Island, in [[Honour|honour]] of the
 
-      English queen. These particulars being made known to the Royal
+      English [[Queen|queen]]. These particulars being made known to the Royal
 
-      Geographical Society of London, the conclusion was drawn by that
+      Geographical Society of [[London]], the conclusion was drawn by that
 
-      body “that there is a continuous tract of land extending from 47
+      [[Body|body]] “that there is a continuous tract of land extending from 47
 
       degrees 30’ E. to 69 degrees 29’ W. longitude, running the
 

@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Chapter 1: PAGE"
+title: "[[ApprAndCritOfChDickens]] — Chapter 1: PAGE"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -22,33 +22,33 @@ tags:
 
     II. SKETCHES BY BOZ                  1
 
-   III. PICKWICK PAPERS                 13
+   III. [[Pickwick|PICKWICK]] PAPERS                 13
 
-    IV. NICHOLAS NICKLEBY               26
+    IV. [[Nicholas Nickleby|NICHOLAS NICKLEBY]]               26
 
-     V. OLIVER TWIST                    38
+     V. [[Oliver Twist|OLIVER TWIST]]                    38
 
     VI. OLD CURIOSITY SHOP              50
 
-   VII. BARNABY RUDGE                   65
+   VII. [[Barnaby Rudge|BARNABY RUDGE]]                   65
 
   VIII. AMERICAN NOTES                  76
 
-    IX. PICTURES FROM ITALY             87
+    IX. PICTURES FROM [[Italy|ITALY]]             87
 
-     X. MARTIN CHUZZLEWIT               90
+     X. [[Martin Chuzzlewit|MARTIN CHUZZLEWIT]]               90
 
     XI. CHRISTMAS BOOKS                103
 
    XII. DOMBEY AND SON                 114
 
-  XIII. DAVID COPPERFIELD              129
+  XIII. [[David Copperfield|DAVID COPPERFIELD]]              129
 
    XIV. CHRISTMAS STORIES              140
 
-    XV. BLEAK HOUSE                    148
+    XV. BLEAK [[house|HOUSE]]                    148
 
-   XVI. CHILD'S HISTORY OF ENGLAND     160
+   XVI. [[Child|CHILD]]'S [[history|HISTORY]] OF ENGLAND     160
 
    XVII. HARD TIMES                    169
 
@@ -56,13 +56,13 @@ tags:
 
     XIX. A TALE OF TWO CITIES          188
 
-     XX. GREAT EXPECTATIONS            197
+     XX. [[Great Expectations|GREAT EXPECTATIONS]]            197
 
     XXI. OUR MUTUAL FRIEND             207
 
-   XXII. EDWIN DROOD                   218
+   XXII. [[Edwin Drood|EDWIN DROOD]]                   218
 
-  XXIII. MASTER HUMPHREY'S CLOCK       229
+  XXIII. MASTER HUMPHREY'S [[Clock|CLOCK]]       229
 
    XXIV. REPRINTED PIECES              239
 
@@ -94,7 +94,7 @@ ILLUSTRATIONS
 
     From a bust by H. Dexter, executed during Dickens's
 
-    first visit to America.
+    first visit to [[america|America]].
 
 
 
@@ -156,7 +156,7 @@ they were harmless, being diluted by, or rather drowned in Dickens. My
 
 scrap of theory was a mere dry biscuit to be taken with the grand tawny
 
-port of great English comedy; and by most people it was not taken at
+port of great English [[Comedy|comedy]]; and by most people it was not taken at
 
 all--like the biscuit. Nevertheless the essays were not in intention so
 
@@ -240,13 +240,13 @@ constitution. That world is rapidly ceasing to understand itself. It is
 
 vain to repeat the complaint of the old Quarterly Reviewers, that
 
-Dickens had not enjoyed a university education. What would the old
+Dickens had not enjoyed a university [[Education|education]]. What would the old
 
 Quarterly Reviewers themselves have thought of the Rhodes Scholarships?
 
 It is useless to repeat the old tag that Dickens could not describe a
 
-gentleman. A gentleman in our time has become something quite
+gentleman. A gentleman in our [[Time|time]] has become something quite
 
 indescribable.
 
@@ -262,13 +262,13 @@ educated and more pretentious contemporaries. I give but one example out
 
 of many. Thackeray was a good Victorian radical, who seems to have gone
 
-to his grave quite contented with the early Victorian radical
+to his [[Grave|grave]] quite contented with the early Victorian radical
 
 theory--the theory which Macaulay preached with unparalleled luminosity
 
 and completeness; the theory that true progress goes on so steadily
 
-through human history, that while reaction is indefensible, revolution
+through human [[history]], that while reaction is indefensible, revolution
 
 is unnecessary. Thackeray seems to have been quite content to think that
 
@@ -290,17 +290,17 @@ Dickens was a Socialist, but it is not absurd to say so. And it would
 
 be simply absurd to say it of any of the great Individualist novelists
 
-of the Victorian time. Dickens saw far enough ahead to know that the
+of the Victorian [[Time|time]]. Dickens saw far enough ahead to know that the
 
-time was coming when the people would be imploring the State to save
+[[Time|time]] was coming when the people would be imploring the State to save
 
-them from mere freedom, as from some frightful foreign oppressor. He
+them from mere [[Freedom|freedom]], as from some frightful foreign oppressor. He
 
 felt the society changing; and Thackeray never did.
 
 
 
-As talking about Socialism and Individualism is one of the greatest
+As talking about Socialism and [[Individualism]] is one of the greatest
 
 bores ever endured among men, I will take another instance to illustrate
 
@@ -316,23 +316,23 @@ there is an odd thing about which I cannot make up my mind; I do not
 
 know whether it is unconscious observation or fiendish irony. But it is
 
-this. In _Our Mutual Friend_ is an old patriarch named Aaron, who is a
+this. In _Our Mutual Friend_ is an old patriarch named [[Aaron]], who is a
 
 saintly Jew made to do the dirty work of an abominable Christian usurer.
 
-In an artistic sense I think the patriarch Aaron as much of a humbug as
+In an artistic sense I think the patriarch [[Aaron]] as much of a humbug as
 
-the patriarch Casby. In a moral sense there is no doubt at all that
+the patriarch Casby. In a moral sense there is no [[Doubt|doubt]] at all that
 
 Dickens introduced the Jew with a philanthropic idea of doing justice to
 
 Judaism, which he was told he had affronted by the great gargoyle of
 
-Fagin. If this was his motive, it was morally a most worthy one. But it
+[[Fagin]]. If this was his motive, it was morally a most worthy one. But it
 
 is certainly unfortunate for the Hebrew cause that the bad Jew should be
 
-so very much more convincing than the good one. Old Aaron is not an
+so very much more convincing than the good one. Old [[Aaron]] is not an
 
 exaggeration of Jewish virtues; he is simply not Jewish, because he is
 
@@ -370,7 +370,7 @@ furniture--of what stock was he? Mr. Lammle, with "too much nose in his
 
 face, too much ginger in his whiskers, too much sparkle in his studs and
 
-manners"--of what blood was he? Mr. Lammle's friends, coarse and
+manners"--of what [[Blood|blood]] was he? Mr. Lammle's friends, coarse and
 
 thick-lipped, with fingers so covered with rings that they could hardly
 
@@ -392,11 +392,11 @@ if he put in one good Jew whom nobody could believe in, and then
 
 balanced him with ten bad Jews whom nobody could fail to recognise. It
 
-seems as if he had avenged himself for the doubt about Fagin by
+seems as if he had avenged himself for the [[Doubt|doubt]] about [[Fagin]] by
 
 introducing five or six Fagins--triumphant Fagins, fashionable Fagins,
 
-Fagins who had changed their names. The impeccable old Aaron stands up
+Fagins who had changed their names. The impeccable old [[Aaron]] stands up
 
 in the middle of this ironic carnival with a peculiar solemnity and
 
@@ -410,13 +410,13 @@ be Englishmen.
 
 But this notion of a sneer is not admissible. Dickens was far too frank
 
-and generous a writer to employ such an elaborate plot of silence. His
+and generous a writer to employ such an elaborate plot of [[Silence|silence]]. His
 
-satire was always intended to attack, never to entrap; moreover, he was
+[[Satire|satire]] was always intended to attack, never to entrap; moreover, he was
 
-far too vain a man not to wish the crowd to see all his jokes. Vanity is
+far too vain a man not to wish the crowd to see all his jokes. [[Vanity]] is
 
-more divine than pride, because it is more democratic than pride. Third,
+more divine than [[Pride|pride]], because it is more democratic than [[Pride|pride]]. Third,
 
 and most important, Dickens was a good Liberal, and would have been
 
@@ -438,7 +438,7 @@ and cosmopolitan financier without even knowing that it was oriental or
 
 cosmopolitan. He had, in fact, fallen a victim to a very simple fallacy
 
-affecting this problem. Somebody said, with great wit and truth, that
+affecting this problem. Somebody said, with great wit and [[Truth|truth]], that
 
 treason cannot prosper, because when it prospers it cannot be called
 
@@ -464,7 +464,7 @@ though he did not know the millionaire's name. Nobody does. His was not
 
 a type of mind to disentangle either the abstract truths touching the
 
-Socialist, nor the highly personal truth about the millionaire. He was a
+Socialist, nor the highly personal [[Truth|truth]] about the millionaire. He was a
 
 man of impressions; he has never been equalled in the art of conveying
 
@@ -486,27 +486,27 @@ impressive because he did not understand them.
 
 Now for this reason Dickens must definitely be considered in the light
 
-of the changes which his soul foresaw. Thackeray has become classical;
+of the changes which his [[Soul|soul]] foresaw. Thackeray has become classical;
 
 but Dickens has done more: he has remained modern. The grand
 
-retrospective spirit of Thackeray is by its nature attached to places
+retrospective spirit of Thackeray is by its [[Nature|nature]] attached to places
 
-and times; he belongs to Queen Victoria as much as Addison belongs to
+and times; he belongs to [[Queen]] Victoria as much as Addison belongs to
 
-Queen Anne, and it is not only Queen Anne who is dead. But Dickens, in a
+[[Queen]] Anne, and it is not only [[Queen]] Anne who is dead. But Dickens, in a
 
 dark prophetic kind of way, belongs to the developments. He belongs to
 
-the times since his death when Hard Times grew harder, and when
+the times since his [[Death|death]] when Hard Times grew harder, and when
 
 Veneering became not only a Member of Parliament, but a Cabinet
 
-Minister; the times when the very soul and spirit of Fledgeby carried
+Minister; the times when the very [[Soul|soul]] and spirit of Fledgeby carried
 
 war into Africa. Dickens can be criticised as a contemporary of Bernard
 
-Shaw or Anatole France or C. F. G. Masterman. In talking of him one need
+[[Shaw]] or Anatole France or C. F. G. Masterman. In talking of him one need
 
 no longer talk merely of the Manchester School or Puseyism or the Charge
 

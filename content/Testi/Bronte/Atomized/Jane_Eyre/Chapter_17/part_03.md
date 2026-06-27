@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 17 (part 3)"
+title: "[[Jane Eyre]] — Chapter 17 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -19,7 +19,7 @@ each came out gaily and airily, with dress that gleamed lustrous
 through the dusk. For a moment they stood grouped together at the other
 extremity of the gallery, conversing in a key of sweet subdued
 vivacity: they then descended the staircase almost as noiselessly as a
-bright mist rolls down a hill. Their collective appearance had left on
+bright mist rolls down a [[Hill|hill]]. Their collective appearance had left on
 me an impression of high-born elegance, such as I had never before
 received.
 
@@ -29,17 +29,17 @@ to them! Do you think Mr. Rochester will send for us by-and-by, after
 dinner?”
 
 “No, indeed, I don’t; Mr. Rochester has something else to think about.
-Never mind the ladies to-night; perhaps you will see them to-morrow:
+Never mind the ladies to-[[Night|night]]; perhaps you will see them to-morrow:
 here is your dinner.”
 
 She was really hungry, so the chicken and tarts served to divert her
-attention for a time. It was well I secured this forage, or both she,
+attention for a [[Time|time]]. It was [[Well|well]] I secured this forage, or both she,
 I, and Sophie, to whom I conveyed a share of our repast, would have run
 a chance of getting no dinner at all: every one downstairs was too much
 engaged to think of us. The dessert was not carried out till after
 nine; and at ten footmen were still running to and fro with trays and
 coffee-cups. I allowed Adèle to sit up much later than usual; for she
-declared she could not possibly go to sleep while the doors kept
+declared she could not possibly go to [[Sleep|sleep]] while the doors kept
 opening and shutting below, and people bustling about. Besides, she
 added, a message might possibly come from Mr. Rochester when she was
 undressed; “et alors quel dommage!”
@@ -59,7 +59,7 @@ discriminate amidst the confusion of accents those of Mr. Rochester;
 and when it caught them, which it soon did, it found a further task in
 framing the tones, rendered by distance inarticulate, into words.
 
-The clock struck eleven. I looked at Adèle, whose head leant against my
+The [[Clock|clock]] struck eleven. I looked at Adèle, whose head leant against my
 shoulder; her eyes were waxing heavy, so I took her up in my arms and
 carried her off to bed. It was near one before the gentlemen and ladies
 sought their chambers.
@@ -70,13 +70,13 @@ early in the forenoon, some on horseback, the rest in carriages; I
 witnessed both the departure and the return. Miss Ingram, as before,
 was the only lady equestrian; and, as before, Mr. Rochester galloped at
 her side; the two rode a little apart from the rest. I pointed out this
-circumstance to Mrs. Fairfax, who was standing at the window with me—
+circumstance to Mrs. Fairfax, who was standing at the [[Window|window]] with me—
 
 “You said it was not likely they should think of being married,” said
 I, “but you see Mr. Rochester evidently prefers her to any of the other
 ladies.”
 
-“Yes, I daresay: no doubt he admires her.”
+“Yes, I daresay: no [[Doubt|doubt]] he admires her.”
 
 “And she him,” I added; “look how she leans her head towards him as if
 she were conversing confidentially; I wish I could see her face; I have
@@ -90,7 +90,7 @@ dinner; and request Miss Eyre to accompany her.’”
 “Yes; he said that from mere politeness: I need not go, I am sure,” I
 answered.
 
-“Well, I observed to him that as you were unused to company, I did not
+“[[Well]], I observed to him that as you were unused to company, I did not
 think you would like appearing before so gay a party—all strangers; and
 he replied, in his quick way—‘Nonsense! If she objects, tell her it is
 my particular wish; and if she resists, say I shall come and fetch her
@@ -120,12 +120,12 @@ was to repair with my charge to the drawing-room. Adèle had been in a
 state of ecstasy all day, after hearing she was to be presented to the
 ladies in the evening; and it was not till Sophie commenced the
 operation of dressing her that she sobered down. Then the importance of
-the process quickly steadied her, and by the time she had her curls
-arranged in well-smoothed, drooping clusters, her pink satin frock put
+the process quickly steadied her, and by the [[Time|time]] she had her curls
+arranged in [[Well|well]]-smoothed, drooping clusters, her pink satin frock put
 on, her long sash tied, and her lace mittens adjusted, she looked as
-grave as any judge. No need to warn her not to disarrange her attire:
+[[Grave|grave]] as any judge. No need to warn her not to disarrange her attire:
 when she was dressed, she sat demurely down in her little chair, taking
-care previously to lift up the satin skirt for fear she should crease
+care previously to lift up the satin skirt for [[Fear|fear]] she should crease
 it, and assured me she would not stir thence till I was ready. This I
 quickly was: my best dress (the silver-grey one, purchased for Miss
 Temple’s wedding, and never worn since) was soon put on; my hair was

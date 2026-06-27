@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — R. ASA LEE PINION, of the Chicago Comet, had crossed half of America, (part 4)"
+title: "[[FourFaultlessFelons]] — R. ASA LEE PINION, of the Chicago Comet, had crossed half of [[America]], (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -18,21 +18,21 @@ however," continued his friend. "We are all pretty jolly here,
 
 considering that our reputations have been blasted by black and revolting
 
-crimes. The truth is we have devoted ourselves to a new sort of detective
+crimes. The [[Truth|truth]] is we have devoted ourselves to a new sort of [[Detective|detective]]
 
-story--or detective service if you like. We do not hunt for crimes but
+story--or [[Detective|detective]] service if you like. We do not hunt for crimes but
 
 for concealed virtues. Sometimes, as in Marillac's case, they are very
 
 artfully concealed. As you will doubtless be justified in retorting, we
 
-conceal our own virtues with brilliant success."
+conceal our own virtues with brilliant [[success]]."
 
 
 
 The journalist's head began to go round a little, though he thought
 
-himself pretty well accustomed both to crazy and criminal surroundings.
+himself pretty [[Well|well]] accustomed both to crazy and criminal surroundings.
 
 "But I thought you said," he objected, "that your reputations were
 
@@ -40,7 +40,7 @@ blasted with crime. What sort of crime?"
 
 
 
-"Well, mine was murder," said the man next to him. "The people who
+"[[Well]], mine was murder," said the man next to him. "The people who
 
 blasted me did it because they disapproved of murder, apparently. It's
 
@@ -70,7 +70,7 @@ was actually arrested was petty larceny."
 
 
 
-There was a profound silence, which seemed to settle in a mysterious
+There was a profound [[Silence|silence]], which seemed to settle in a mysterious
 
 manner, like a gathering cloud, on the figure of the fourth member, who
 
@@ -80,7 +80,7 @@ foreign fashion; his wooden, handsome face was unchanged and his lips had
 
 never moved even for so much as a murmur. But now, when the sudden and
 
-deep silence seemed to challenge him, his face seemed to harden from wood
+deep [[Silence|silence]] seemed to challenge him, his face seemed to harden from wood
 
 to stone and when he spoke at last, his foreign accent seemed something
 
@@ -88,7 +88,7 @@ more than alien, as if it were almost inhuman.
 
 
 
-"I have committed the Unpardonable Sin," he said. "For what sin did Dante
+"I have committed the Unpardonable Sin," he said. "For what sin did [[Dante]]
 
 reserve the last and lowest hell; the Circle of Ice?" Still no one spoke;
 
@@ -96,13 +96,13 @@ and he answered his own question in the same hollow tone: "Treason. I
 
 betrayed the four companions of my party, and gave them up to the
 
-Government for a bribe."
+[[government|Government]] for a bribe."
 
 
 
 Something turned cold inside the sensitive stranger, and for the first
 
-time he really felt the air around him sinister and strange. The
+[[Time|time]] he really felt the air around him sinister and strange. The
 
 stillness continued for another half minute, and then all the four men
 

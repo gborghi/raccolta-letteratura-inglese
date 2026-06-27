@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 4 (part 1)"
+title: "[[longbow2]] — Chapter 4 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -23,7 +23,7 @@ In the scriptures and the chronicles of the League of the Long Bow,
 or fellowship of foolish persons doing impossible things,
 it is recorded that Owen Hood, the lawyer, and his friend Crane,
 the retired Colonel, were partaking one afternoon of a sort
-of picnic on the river-island that had been the first scene of a
+of picnic on the [[River|river]]-island that had been the first scene of a
 certain romantic incident in the life of the former, the burden
 of reading about which has fallen upon the readers in other days. 
 Suffice it to say that the island had been devoted by Mr. Hood to his
@@ -40,15 +40,15 @@ The two older men had eccentric tastes of their own; but there is always
 a difference between the eccentricity of an elderly man who defies
 the world and the enthusiasm of a younger man who hopes to alter it. 
 The old gentleman may be willing, in a sense, to stand on his head;
-but he does not hope, as the boy does, to stand the world on its head. 
+but he does not [[Hope|hope]], as the boy does, to stand the world on its head. 
 With a young man like Hilary Pierce it was the world itself that was
 to be turned upside-down; and that was a game at which his more
-grizzled companions could only look on, as at a child they loved
+grizzled companions could only look on, as at a [[Child|child]] they loved
 playing with a big coloured balloon.
 
-Perhaps it was this sense of a division by time, altering the tone,
-though not the fact, of friendship, which sent the mind of one of
-the older men back to the memory of an older friend.  He remembered
+Perhaps it was this sense of a division by [[Time|time]], altering the tone,
+though not the fact, of [[Friendship|friendship]], which sent the mind of one of
+the older men back to the [[Memory|memory]] of an older friend.  He remembered
 that he had had a letter that morning from the only contemporary
 of his who could fitly have made a fourth to their party. 
 Owen Hood drew the letter from his pocket with a smile that wrinkled
@@ -65,15 +65,15 @@ signs of a soundless chuckle.
 "Yes," replied the lawyer; "the hieroglyphic was attacked
 with fresh vigour after breakfast this morning, and the clouds
 and mysteries of yesterday's labours seemed to be rolled away. 
-Some portions of the cuneiform still await an expert translation;
+Some portions of the cuneiform still await an expert [[Translation|translation]];
 but the sentences themselves appear to be in the original English."
 
 "Very original English," snorted Colonel Crane.
 
 "Yes, our friend is an original character," replied Hood. 
-"Vanity tempts me to hint that he is our friend because he has an
+"[[Vanity]] tempts me to hint that he is our friend because he has an
 original taste in friends.  The habit of his of putting the pronoun
-on the first page and the noun on the next has brightened many winter
+on the first page and the noun on the next has brightened many [[Winter|winter]]
 evenings for me.  You haven't met our friend White, have you?"
 he added to Pierce.  "That is a shock that still threatens you."
 
@@ -118,14 +118,14 @@ about later; and even in these days I should be surprised to hear
 THAT sort of assistance could be anything but a man's own affair. 
 I defy you and all your parchments to maintain that IT comes under
 the Game Laws.  You won't mind me talking like this; I know jolly
-well you'd think you were acting as a friend; but I think the time
+[[Well|well]] you'd think you were acting as a friend; but I think the [[Time|time]]
 has come to speak plainly.'"
 
 
 "Quite right," said the Colonel.
 
 "Yes," said young Pierce, with a rather vague expression, "I'm glad
-he feels that the time has come to speak plainly."
+he feels that the [[Time|time]] has come to speak plainly."
 
 "Quite so," observed the lawyer dryly; "he continues as follows:"
 

@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 1)"
+title: "[[Martin Chuzzlewit]] — Chapter 29: TWENTY NINE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -36,7 +36,7 @@ I never see such a tight young dasher.’
 
 ‘Reether so, Polly. How’s our fair friend, Sairah?’
 
-‘Oh, she’s pretty well,’ said Poll. ‘She’s at home.’
+‘Oh, she’s pretty [[Well|well]],’ said Poll. ‘She’s at [[Home|home]].’
 
 ‘There’s the remains of a fine woman about Sairah, Poll,’ observed Mr
 Bailey, with genteel indifference.
@@ -44,9 +44,9 @@ Bailey, with genteel indifference.
 ‘Oh!’ thought Poll, ‘he’s old. He must be very old!’
 
 ‘Too much crumb, you know,’ said Mr Bailey; ‘too fat, Poll. But there’s
-many worse at her time of life.’
+many worse at her [[Time|time]] of life.’
 
-‘The very owl’s a-opening his eyes!’ thought Poll. ‘I don’t wonder at it
+‘The very owl’s a-opening his eyes!’ thought Poll. ‘I don’t [[Wonder|wonder]] at it
 in a bird of his opinions.’
 
 He happened to have been sharpening his razors, which were lying open
@@ -55,13 +55,13 @@ preparations, Mr Bailey stroked his chin, and a thought appeared to
 occur to him.
 
 ‘Poll,’ he said, ‘I ain’t as neat as I could wish about the gills. Being
-here, I may as well have a shave, and get trimmed close.’
+here, I may as [[Well|well]] have a shave, and get trimmed close.’
 
 The barber stood aghast; but Mr Bailey divested himself of his
 neck-cloth, and sat down in the easy shaving chair with all the dignity
 and confidence in life. There was no resisting his manner. The evidence
 of sight and touch became as nothing. His chin was as smooth as a
-new-laid egg or a scraped Dutch cheese; but Poll Sweedlepipe wouldn’t
+new-laid egg or a scraped Dutch [[cheese]]; but Poll Sweedlepipe wouldn’t
 have ventured to deny, on affidavit, that he had the beard of a Jewish
 rabbi.
 
@@ -73,7 +73,7 @@ The meek little barber stood gazing at him with the brush and soap-dish
 in his hand, stirring them round and round in a ludicrous uncertainty,
 as if he were disabled by some fascination from beginning. At last he
 made a dash at Mr Bailey’s cheek. Then he stopped again, as if the
-ghost of a beard had suddenly receded from his touch; but receiving mild
+[[Ghost|ghost]] of a beard had suddenly receded from his touch; but receiving mild
 encouragement from Mr Bailey, in the form of an adjuration to ‘Go in and
 win,’ he lathered him bountifully. Mr Bailey smiled through the suds in
 his satisfaction. ‘Gently over the stones, Poll. Go a tip-toe over the
@@ -92,12 +92,12 @@ He was in the act of tying his cravat at the glass, without his coat,
 and Poll had wiped his razor, ready for the next customer, when Mrs
 Gamp, coming downstairs, looked in at the shop-door to give the barber
 neighbourly good day. Feeling for her unfortunate situation, in having
-conceived a regard for himself which it was not in the nature of things
+conceived a regard for himself which it was not in the [[Nature|nature]] of things
 that he could return, Mr Bailey hastened to soothe her with words of
 kindness.
 
 ‘Hallo!’ he said, ‘Sairah! I needn’t ask you how you’ve been this long
-time, for you’re in full bloom. All a-blowin and a-growin; ain’t she,
+[[Time|time]], for you’re in full bloom. All a-blowin and a-growin; ain’t she,
 Polly?’
 
 ‘Why, drat the Bragian boldness of that boy!’ cried Mrs Gamp, though
@@ -121,7 +121,7 @@ high living on the part of the nurses.
 
 ‘Talk of constitooshun!’ Mrs Gamp observed. ‘A person’s constitooshun
 need be made of bricks to stand it. Mrs Harris jestly says to me, but
-t’other day, “Oh! Sairey Gamp,” she says, “how is it done?” “Mrs Harris,
+t’other day, “Oh! [[Sairey Gamp]],” she says, “how is it done?” “Mrs Harris,
 ma’am,” I says to her, “we gives no trust ourselves, and puts a deal
 o’trust elsevere; these is our religious feelins, and we finds ‘em
 answer.” “Sairey,” says Mrs Harris, “sech is life. Vich likeways is the
@@ -129,7 +129,7 @@ hend of all things!”’
 
 The barber gave a soft murmur, as much as to say that Mrs Harris’s
 remark, though perhaps not quite so intelligible as could be desired
-from such an authority, did equal honour to her head and to her heart.
+from such an authority, did equal [[Honour|honour]] to her head and to her heart.
 
 ‘And here,’ continued Mrs Gamp, ‘and here am I a-goin twenty mile in
 distant, on as wentersome a chance as ever any one as monthlied ever
@@ -142,7 +142,7 @@ Often and often have I heerd him say,” I says to Mrs Harris, meaning Mr
 Gill, “that he would back his wife agen Moore’s almanack, to name the
 very day and hour, for ninepence farden. IS it likely, ma’am,” I says,
 “as she will fail this once?” Says Mrs Harris “No, ma’am, not in the
-course of natur. But,” she says, the tears a-fillin in her eyes, “you
+course of natur. But,” she says, the [[Tears|tears]] a-fillin in her eyes, “you
 knows much betterer than me, with your experienge, how little puts us
 out. A Punch’s show,” she says, “a chimbley sweep, a newfundlan dog, or
 a drunkin man a-comin round the corner sharp may do it.” So it may, Mr

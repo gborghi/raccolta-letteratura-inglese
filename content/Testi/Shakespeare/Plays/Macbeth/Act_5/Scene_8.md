@@ -1,5 +1,5 @@
 ---
-title: "Macbeth — Act V, Scene 8"
+title: "[[Macbeth]] — Act V, Scene 8"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/MACBETH-(Shakespeare)"
@@ -16,6 +16,6 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Alarums. Enter Macduff |
-| MACDUFF | That way the noise is. Tyrant, show thy face!<br>If thou beest slain and with no stroke of mine,<br>My wife and children’s ghosts will haunt me still.<br>I cannot strike at wretched kerns, whose arms<br>Are hired to bear their staves. Either thou, Macbeth, 5<br>Or else my sword with an unbattered edge<br>I sheathe again undeeded. There thou shouldst be;<br>By this great clatter one of greatest note<br>Seems bruited. Let me find him, fortune,<br>And more I beg not. |
+| *(didascalia)* | Alarums. Enter [[Macduff]] |
+| [[Macduff|MACDUFF]] | That way the noise is. [[Tyrant]], show thy face!<br>If thou beest slain and with no stroke of mine,<br>My wife and children’s [[Ghosts|ghosts]] will haunt me still.<br>I cannot strike at wretched kerns, whose arms<br>Are hired to bear their staves. Either thou, [[Macbeth]], 5<br>Or else my [[Sword|sword]] with an unbattered edge<br>I sheathe again undeeded. There thou shouldst be;<br>By this great clatter one of greatest note<br>Seems bruited. Let me find him, fortune,<br>And more I beg not. |
 | *(didascalia)* | Exit. Alarums |

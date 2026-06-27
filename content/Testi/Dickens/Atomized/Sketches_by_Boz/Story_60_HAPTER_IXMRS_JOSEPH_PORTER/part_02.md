@@ -19,9 +19,9 @@ tags:
 ‘I’ll manage to put them a little out of conceit with the business,
 however,’ said Mrs. Porter; and out she went on her charitable errand.
 
-‘Well, my dear Mrs. Gattleton,’ said Mrs. Joseph Porter, after they had
-been closeted for some time, and when, by dint of indefatigable
-pumping, she had managed to extract all the news about the play, ‘well,
+‘[[Well]], my dear Mrs. Gattleton,’ said Mrs. Joseph Porter, after they had
+been closeted for some [[Time|time]], and when, by dint of indefatigable
+pumping, she had managed to extract all the news about the play, ‘[[Well|well]],
 my dear, people may say what they please; indeed we know they will, for
 some folks are _so_ ill-natured. Ah, my dear Miss Lucina, how d’ye do?
 I was just telling your mamma that I have heard it said, that—’
@@ -33,7 +33,7 @@ I was just telling your mamma that I have heard it said, that—’
 
 ‘Oh, now pray don’t mention it,’ interrupted Mrs. Porter; ‘it’s most
 absurd—quite as absurd as young What’s-his-name saying he wondered how
-Miss Caroline, with such a foot and ankle, could have the vanity to
+Miss Caroline, with such a foot and ankle, could have the [[Vanity|vanity]] to
 play _Fenella_.’
 
 ‘Highly impertinent, whoever said it,’ said Mrs. Gattleton, bridling
@@ -56,7 +56,7 @@ nieces: as a matter of course, therefore, he was an object of great
 importance in his own family. He was one of the best-hearted men in
 existence: always in a good temper, and always talking. It was his
 boast that he wore top-boots on all occasions, and had never worn a
-black silk neckerchief; and it was his pride that he remembered all the
+black silk neckerchief; and it was his [[Pride|pride]] that he remembered all the
 principal plays of Shakspeare from beginning to end—and so he did. The
 result of this parrot-like accomplishment was, that he was not only
 perpetually quoting himself, but that he could never sit by, and hear a
@@ -66,7 +66,7 @@ opportunity of saying what he considered a good thing, and invariably
 laughed until he cried at anything that appeared to him mirth-moving or
 ridiculous.
 
-‘Well, girls!’ said Uncle Tom, after the preparatory ceremony of
+‘[[Well]], girls!’ said Uncle Tom, after the preparatory ceremony of
 kissing and how-d’ye-do-ing had been gone through—‘how d’ye get on?
 Know your parts, eh?—Lucina, my dear, act II., scene I—place,
 left-cue—“Unknown fate,”—What’s next, eh?—Go on—“The Heavens—”’
@@ -86,10 +86,10 @@ loud again, “as our days do grow;” emphasis on _days_. That’s the way,
 my dear; trust to your uncle for emphasis. Ah! Sem, my boy, how are
 you?’
 
-‘Very well, thankee, uncle,’ returned Mr. Sempronius, who had just
+‘Very [[Well|well]], thankee, uncle,’ returned Mr. [[Sempronius]], who had just
 appeared, looking something like a ringdove, with a small circle round
 each eye: the result of his constant corking. ‘Of course we see you on
-Thursday.’
+[[thursday|Thursday]].’
 
 ‘Of course, of course, my dear boy.’
 
@@ -97,10 +97,10 @@ Thursday.’
 Balderstone!’ whispered Mrs. Joseph Porter; ‘you would have been
 invaluable.’
 
-‘Well, I flatter myself, I _should_ have been tolerably up to the
+‘[[Well]], I flatter myself, I _should_ have been tolerably up to the
 thing,’ responded Uncle Tom.
 
-‘I must bespeak sitting next you on the night,’ resumed Mrs. Porter;
+‘I must bespeak sitting next you on the [[Night|night]],’ resumed Mrs. Porter;
 ‘and then, if our dear young friends here, should be at all wrong, you
 will be able to enlighten me. I shall be so interested.’
 
@@ -112,36 +112,36 @@ power’
 ‘Certainly.’
 
 ‘I don’t know how it is,’ said Mrs. Gattleton to her daughters, as they
-were sitting round the fire in the evening, looking over their parts,
+were sitting round the [[Fire|fire]] in the evening, looking over their parts,
 ‘but I really very much wish Mrs. Joseph Porter wasn’t coming on
-Thursday. I am sure she’s scheming something.’
+[[thursday|Thursday]]. I am sure she’s scheming something.’
 
-‘She can’t make us ridiculous, however,’ observed Mr. Sempronius
+‘She can’t make us ridiculous, however,’ observed Mr. [[Sempronius]]
 Gattleton, haughtily.
 
-The long-looked-for Thursday arrived in due course, and brought with
+The long-looked-for [[thursday|Thursday]] arrived in due course, and brought with
 it, as Mr. Gattleton, senior, philosophically observed, ‘no
-disappointments, to speak of.’ True, it was yet a matter of doubt
+disappointments, to speak of.’ True, it was yet a matter of [[Doubt|doubt]]
 whether _Cassio_ would be enabled to get into the dress which had been
 sent for him from the masquerade warehouse. It was equally uncertain
 whether the principal female singer would be sufficiently recovered
 from the influenza to make her appearance; Mr. Harleigh, the
-_Masaniello_ of the night, was hoarse, and rather unwell, in
+_Masaniello_ of the [[Night|night]], was hoarse, and rather unwell, in
 consequence of the great quantity of lemon and sugar-candy he had eaten
 to improve his voice; and two flutes and a violoncello had pleaded
 severe colds. What of that? the audience were all coming. Everybody
 knew his part: the dresses were covered with tinsel and spangles; the
 white plumes looked beautiful; Mr. Evans had practised falling until he
 was bruised from head to foot and quite perfect; _Iago_ was sure that,
-in the stabbing-scene, he should make ‘a decided hit.’ A self-taught
+in the stabbing-scene, he should make ‘a decided hit.’ A [[Self|self]]-taught
 deaf gentleman, who had kindly offered to bring his flute, would be a
 most valuable addition to the orchestra; Miss Jenkins’s talent for the
-piano was too well known to be doubted for an instant; Mr. Cape had
+piano was too [[Well|well]] known to be doubted for an instant; Mr. Cape had
 practised the violin accompaniment with her frequently; and Mr. Brown,
 who had kindly undertaken, at a few hours’ notice, to bring his
-violoncello, would, no doubt, manage extremely well.
+violoncello, would, no [[Doubt|doubt]], manage extremely [[Well|well]].
 
-Seven o’clock came, and so did the audience; all the rank and fashion
+Seven o’[[Clock|clock]] came, and so did the audience; all the rank and fashion
 of Clapham and its vicinity was fast filling the theatre. There were
 the Smiths, the Gubbinses, the Nixons, the Dixons, the Hicksons, people
 with all sorts of names, two aldermen, a sheriff in perspective, Sir

@@ -1,5 +1,5 @@
 ---
-title: "Richard III — Act IV, Scene 4 — exchange (KING RICHARD) [10]"
+title: "[[Richard III]] — Act IV, Scene 4 — exchange ([[King|KING]] [[Richard|RICHARD]]) [10]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/RICHARD-III-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| KING RICHARD | Away, towards Salisbury! While we reason here, A royal battle might be won and lost. Someone take order Buckingham be brought To Salisbury. The rest march on with me. Flourish. Exeunt |
+| [[King|KING]] [[Richard|RICHARD]] | Away, towards Salisbury! While we reason here, A royal battle might be won and lost. Someone take order [[Buckingham]] be brought To Salisbury. The rest march on with me. Flourish. Exeunt |

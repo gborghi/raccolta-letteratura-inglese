@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 37"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 37"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -26,37 +26,37 @@ And yet I cannot wish to leave it: whatever afflictions assail me here,
 
 I cannot wish to go and leave my darling in this dark and wicked world
 
-alone, without a friend to guide him through its weary mazes, to warn
+[[Alone|alone]], without a friend to guide him through its weary mazes, to warn
 
 him of its thousand snares, and guard him from the perils that beset
 
-him on every hand. I am not well fitted to be his only companion, I
+him on every hand. I am not [[Well|well]] fitted to be his only companion, I
 
-know; but there is no other to supply my place. I am too grave to
+know; but there is no other to supply my place. I am too [[Grave|grave]] to
 
 minister to his amusements and enter into his infantile sports as a
 
-nurse or a mother ought to do, and often his bursts of gleeful
+[[Nurse|nurse]] or a mother ought to do, and often his bursts of gleeful
 
 merriment trouble and alarm me; I see in them his father’s spirit and
 
 temperament, and I tremble for the consequences; and too often damp the
 
-innocent mirth I ought to share. That father, on the contrary, has no
+[[Innocent|innocent]] mirth I ought to share. That father, on the contrary, has no
 
 weight of sadness on his mind; is troubled with no fears, no scruples
 
 concerning his son’s future welfare; and at evenings especially, the
 
-times when the child sees him the most and the oftenest, he is always
+times when the [[Child|child]] sees him the most and the oftenest, he is always
 
 particularly jocund and open-hearted: ready to laugh and to jest with
 
 anything or anybody but me, and I am particularly silent and sad:
 
-therefore, of course, the child dotes upon his seemingly joyous
+therefore, of course, the [[Child|child]] dotes upon his seemingly joyous
 
-amusing, ever-indulgent papa, and will at any time gladly exchange my
+amusing, ever-indulgent papa, and will at any [[Time|time]] gladly exchange my
 
 company for his. This disturbs me greatly; not so much for the sake of
 
@@ -70,11 +70,11 @@ purchase and retain, and which for very spite his father delights to
 
 rob me of, and, from motives of mere idle egotism, is pleased to win to
 
-himself; making no use of it but to torment me and ruin the child. My
+himself; making no use of it but to torment me and ruin the [[Child|child]]. My
 
-only consolation is, that he spends comparatively little of his time at
+only consolation is, that he spends comparatively little of his [[Time|time]] at
 
-home, and, during the months he passes in London or elsewhere, I have a
+[[Home|home]], and, during the months he passes in [[London]] or elsewhere, I have a
 
 chance of recovering the ground I had lost, and overcoming with good
 
@@ -82,19 +82,19 @@ the evil he has wrought by his wilful mismanagement. But then it is a
 
 bitter trial to behold him, on his return, doing his utmost to subvert
 
-my labours and transform my innocent, affectionate, tractable darling
+my labours and transform my [[Innocent|innocent]], affectionate, tractable darling
 
 into a selfish, disobedient, and mischievous boy; thereby preparing the
 
 soil for those vices he has so successfully cultivated in his own
 
-perverted nature.
+perverted [[Nature|nature]].
 
 
 
-Happily, there were none of Arthur’s “friends” invited to Grassdale
+Happily, there were none of [[arthur|Arthur]]’s “friends” invited to Grassdale
 
-last autumn: he took himself off to visit some of them instead. I wish
+last [[Autumn|autumn]]: he took himself off to visit some of them instead. I wish
 
 he would always do so, and I wish his friends were numerous and loving
 
@@ -106,7 +106,7 @@ done with that gentleman at last.
 
 
 
-For seven or eight months he behaved so remarkably well, and managed so
+For seven or eight months he behaved so remarkably [[Well|well]], and managed so
 
 skilfully too, that I was almost completely off my guard, and was
 
@@ -124,37 +124,37 @@ at the close of May: I was wandering in the park, and he, on seeing me
 
 there as he rode past, made bold to enter and approach me, dismounting
 
-and leaving his horse at the gate. This was the first time he had
+and leaving his [[Horse|horse]] at the gate. This was the first [[Time|time]] he had
 
-ventured to come within its inclosure since I had been left alone,
+ventured to come within its inclosure since I had been left [[Alone|alone]],
 
 without the sanction of his mother’s or sister’s company, or at least
 
 the excuse of a message from them. But he managed to appear so calm and
 
-easy, so respectful and self-possessed in his friendliness, that,
+easy, so respectful and [[Self|self]]-possessed in his friendliness, that,
 
 though a little surprised, I was neither alarmed nor offended at the
 
 unusual liberty, and he walked with me under the ash-trees and by the
 
-water-side, and talked, with considerable animation, good taste, and
+[[Water|water]]-side, and talked, with considerable animation, good taste, and
 
 intelligence, on many subjects, before I began to think about getting
 
 rid of him. Then, after a pause, during which we both stood gazing on
 
-the calm, blue water—I revolving in my mind the best means of politely
+the calm, blue [[Water|water]]—I revolving in my mind the best means of politely
 
-dismissing my companion, he, no doubt, pondering other matters equally
+dismissing my companion, he, no [[Doubt|doubt]], pondering other matters equally
 
-alien to the sweet sights and sounds that alone were present to his
+alien to the sweet sights and sounds that [[Alone|alone]] were present to his
 
 senses,—he suddenly electrified me by beginning, in a peculiar tone,
 
 low, soft, but perfectly distinct, to pour forth the most unequivocal
 
-expressions of earnest and passionate love; pleading his cause with all
+expressions of earnest and passionate [[Love|love]]; pleading his cause with all
 
 the bold yet artful eloquence he could summon to his aid. But I cut
 
@@ -166,7 +166,7 @@ dispassionate sorrow and pity for his benighted mind, that he withdrew,
 
 astonished, mortified, and discomforted; and, a few days after, I heard
 
-that he had departed for London. He returned, however, in eight or nine
+that he had departed for [[London]]. He returned, however, in eight or nine
 
 weeks, and did not entirely keep aloof from me, but comported himself
 
@@ -198,7 +198,7 @@ offended, he can best tell you himself what it is about.”
 
 “I’ll ask him,” cried the giddy girl, springing up and putting her head
 
-out of the window: “he’s only in the garden—Walter!”
+out of the [[Window|window]]: “he’s only in the [[Garden|garden]]—Walter!”
 
 
 
@@ -208,7 +208,7 @@ leave you immediately, and not come again for months—perhaps years.”
 
 
 
-“Did you call, Esther?” said her brother, approaching the window from
+“Did you call, Esther?” said her brother, approaching the [[Window|window]] from
 
 without.
 
@@ -224,7 +224,7 @@ squeeze.
 
 
 
-“To ask you,” continued she, “to get me a rose for Mrs. Huntingdon.” He
+“To ask you,” continued she, “to get me a [[Rose|rose]] for Mrs. Huntingdon.” He
 
 departed. “Mrs. Huntingdon,” she exclaimed, turning to me and still
 
@@ -244,7 +244,7 @@ conduct yourself like a lady!”
 
 
 
-“Well, mamma, you said yourself—” But the young lady was silenced by
+“[[Well]], mamma, you said yourself—” But the young lady was silenced by
 
 the uplifted finger of her mamma, accompanied with a very stern shake
 
@@ -252,15 +252,15 @@ of the head.
 
 
 
-“Isn’t she cross?” whispered she to me; but, before I could add my
+“Isn’t she [[Cross|cross]]?” whispered she to me; but, before I could add my
 
-share of reproof, Mr. Hargrave reappeared at the window with a
+share of reproof, Mr. Hargrave reappeared at the [[Window|window]] with a
 
-beautiful moss-rose in his hand.
+beautiful moss-[[Rose|rose]] in his hand.
 
 
 
-“Here, Esther, I’ve brought you the rose,” said he, extending it
+“Here, Esther, I’ve brought you the [[Rose|rose]],” said he, extending it
 
 towards her.
 
@@ -268,7 +268,7 @@ towards her.
 
 “Give it her yourself, you blockhead!” cried she, recoiling with a
 
-spring from between us.
+[[spring]] from between us.
 
 
 
@@ -276,7 +276,7 @@ spring from between us.
 
 very serious tone, but lowering his voice that his mother might not
 
-hear. His sister took the rose and gave it to me.
+hear. His sister took the [[Rose|rose]] and gave it to me.
 
 
 
@@ -286,9 +286,9 @@ will come to a better understanding by-and-by. Will that do, Walter?”
 
 added the saucy girl, turning to him and putting her arm round his
 
-neck, as he stood leaning upon the sill of the window—“or should I have
+neck, as he stood leaning upon the sill of the [[Window|window]]—“or should I have
 
-said that you are sorry you were so touchy? or that you hope she will
+said that you are sorry you were so touchy? or that you [[Hope|hope]] she will
 
 pardon your offence?”
 
@@ -322,33 +322,33 @@ About a week after Mr. Hargrave brought his sister to see me. He
 
 conducted himself, at first, with his usual cold, distant,
 
-half-stately, half-melancholy, altogether injured air; but Esther made
+half-stately, half-[[Melancholy|melancholy]], altogether injured air; but Esther made
 
-no remark upon it this time: she had evidently been schooled into
+no remark upon it this [[Time|time]]: she had evidently been schooled into
 
 better manners. She talked to me, and laughed and romped with little
 
-Arthur, her loved and loving playmate. He, somewhat to my discomfort,
+[[arthur|Arthur]], her loved and loving playmate. He, somewhat to my discomfort,
 
 enticed her from the room to have a run in the hall, and thence into
 
-the garden. I got up to stir the fire. Mr. Hargrave asked if I felt
+the [[Garden|garden]]. I got up to stir the [[Fire|fire]]. Mr. Hargrave asked if I felt
 
 cold, and shut the door—a very unseasonable piece of officiousness, for
 
 I had meditated following the noisy playfellows if they did not
 
-speedily return. He then took the liberty of walking up to the fire
+speedily return. He then took the liberty of walking up to the [[Fire|fire]]
 
 himself, and asking me if I were aware that Mr. Huntingdon was now at
 
-the seat of Lord Lowborough, and likely to continue there some time.
+the seat of [[Lord Lowborough]], and likely to continue there some [[Time|time]].
 
 
 
 “No; but it’s no matter,” I answered carelessly; and if my cheek glowed
 
-like fire, it was rather at the question than the information it
+like [[Fire|fire]], it was rather at the question than the information it
 
 conveyed.
 
@@ -358,11 +358,11 @@ conveyed.
 
 
 
-“Not at all, if Lord Lowborough likes his company.”
+“Not at all, if [[Lord Lowborough]] likes his company.”
 
 
 
-“You have no love left for him, then?”
+“You have no [[Love|love]] left for him, then?”
 
 
 
@@ -372,13 +372,13 @@ conveyed.
 
 “I knew that—I knew you were too high-minded and pure in your own
 
-nature to continue to regard one so utterly false and polluted with any
+[[Nature|nature]] to continue to regard one so utterly false and polluted with any
 
 feelings but those of indignation and scornful abhorrence!”
 
 
 
-“Is he not your friend?” said I, turning my eyes from the fire to his
+“Is he not your friend?” said I, turning my eyes from the [[Fire|fire]] to his
 
 face, with perhaps a slight touch of those feelings he assigned to
 
@@ -388,17 +388,17 @@ another.
 
 “He _was_,” replied he, with the same calm gravity as before; “but do
 
-not wrong me by supposing that I could continue my friendship and
+not wrong me by supposing that I could continue my [[Friendship|friendship]] and
 
 esteem to a man who could so infamously, so impiously forsake and
 
-injure one so transcendently—well, I won’t speak of it. But tell me, do
+injure one so transcendently—[[Well|well]], I won’t speak of it. But tell me, do
 
-you never think of revenge?”
+you never think of [[Revenge|revenge]]?”
 
 
 
-“Revenge! No—what good would that do?—it would make him no better, and
+“[[Revenge]]! No—what good would that do?—it would make him no better, and
 
 me no happier.”
 
@@ -406,13 +406,13 @@ me no happier.”
 
 “I don’t know how to talk to you, Mrs. Huntingdon,” said he, smiling;
 
-“you are only half a woman—your nature must be half human, half
+“you are only half a woman—your [[Nature|nature]] must be half human, half
 
 angelic. Such goodness overawes me; I don’t know what to make of it.”
 
 
 
-“Then, sir, I fear you must be very much worse than you should be, if
+“Then, sir, I [[Fear|fear]] you must be very much worse than you should be, if
 
 I, a mere ordinary mortal, am, by your own confession, so vastly your
 
@@ -420,7 +420,7 @@ superior; and since there exists so little sympathy between us, I think
 
 we had better each look out for some more congenial companion.” And
 
-forthwith moving to the window, I began to look out for my little son
+forthwith moving to the [[Window|window]], I began to look out for my little son
 
 and his gay young friend.
 
@@ -440,11 +440,11 @@ in a serious tone.
 
 
 
-“Are you as happy as you desire to be?”
+“Are you as happy as you [[Desire|desire]] to be?”
 
 
 
-“No one is so blest as that comes to on this side of eternity.”
+“No one is so blest as that comes to on this side of [[Eternity|eternity]].”
 
 
 
@@ -488,7 +488,7 @@ shall be happy also, for if you _are_ a woman I can make you so—and I
 
 _will_ do it in spite of yourself!” he muttered between his teeth; “and
 
-as for others, the question is between ourselves alone: you cannot
+as for others, the question is between ourselves [[Alone|alone]]: you cannot
 
 injure your husband, you know, and no one else has any concern in the
 
@@ -498,13 +498,13 @@ matter.”
 
 “I have a son, Mr. Hargrave, and you have a mother,” said I, retiring
 
-from the window, whither he had followed me.
+from the [[Window|window]], whither he had followed me.
 
 
 
 “They need not know,” he began; but before anything more could be said
 
-on either side, Esther and Arthur re-entered the room. The former
+on either side, Esther and [[arthur|Arthur]] re-entered the room. The former
 
 glanced at Walter’s flushed, excited countenance, and then at mine—a
 
@@ -520,7 +520,7 @@ She seated herself on the sofa, and putting back her bright, golden
 
 ringlets, that were scattered in wild profusion over her face, she
 
-immediately began to talk about the garden and her little playfellow,
+immediately began to talk about the [[Garden|garden]] and her little playfellow,
 
 and continued to chatter away in her usual strain till her brother
 
@@ -536,7 +536,7 @@ me: I merely bowed, and her countenance fell. She thought it a poor
 
 return for Walter’s generous concession, and was disappointed in her
 
-friend. Poor child, she little knows the world she lives in!
+friend. Poor [[Child|child]], she little knows the world she lives in!
 
 
 
@@ -544,7 +544,7 @@ Mr. Hargrave had not an opportunity of meeting me again in private for
 
 several weeks after this; but when he did meet me there was less of
 
-pride and more of touching melancholy in his manner than before. Oh,
+[[Pride|pride]] and more of touching [[Melancholy|melancholy]] in his manner than before. Oh,
 
 _how_ he annoyed me! I was obliged at last almost entirely to remit my
 
@@ -564,7 +564,7 @@ not, Rachel did. That sharp-sighted woman soon guessed how matters
 
 stood between us, and descrying the enemy’s movements from her
 
-elevation at the nursery-window, she would give me a quiet intimation
+elevation at the nursery-[[Window|window]], she would give me a quiet intimation
 
 if she saw me preparing for a walk when she had reason to believe he
 
@@ -582,9 +582,9 @@ afflicted, I would take Rachel with me, and then I was never molested.
 
 But one mild, sunshiny day, early in November, I had ventured forth
 
-alone to visit the village school and a few of the poor tenants, and on
+[[Alone|alone]] to visit the village school and a few of the poor tenants, and on
 
-my return I was alarmed at the clatter of a horse’s feet behind me,
+my return I was alarmed at the clatter of a [[Horse|horse]]’s feet behind me,
 
 approaching at a rapid, steady trot. There was no stile or gap at hand
 
@@ -592,7 +592,7 @@ by which I could escape into the fields, so I walked quietly on, saying
 
 to myself, “It may not be he after all; and if it is, and if he _do_
 
-annoy me, it shall be for the last time, I am determined, if there be
+annoy me, it shall be for the last [[Time|time]], I am determined, if there be
 
 power in words and looks against cool impudence and mawkish
 
@@ -600,23 +600,23 @@ sentimentality so inexhaustible as his.”
 
 
 
-The horse soon overtook me, and was reined up close beside me. It _was_
+The [[Horse|horse]] soon overtook me, and was reined up close beside me. It _was_
 
 Mr. Hargrave. He greeted me with a smile intended to be soft and
 
-melancholy, but his triumphant satisfaction at having caught me at last
+[[Melancholy|melancholy]], but his triumphant satisfaction at having caught me at last
 
 so shone through that it was quite a failure. After briefly answering
 
 his salutation and inquiring after the ladies at the Grove, I turned
 
-away and walked on; but he followed and kept his horse at my side: it
+away and walked on; but he followed and kept his [[Horse|horse]] at my side: it
 
 was evident he intended to be my companion all the way.
 
 
 
-“Well! I don’t much care. If you want another rebuff, take it—and
+“[[Well]]! I don’t much care. If you want another rebuff, take it—and
 
 welcome,” was my inward remark. “Now, sir, what next?”
 
@@ -634,13 +634,13 @@ tones the following appeal to my humanity:—
 
 Huntingdon—_you_ may have forgotten the circumstance, but _I_ never
 
-can. I admired you then most deeply, but I dared not love you. In the
+can. I admired you then most deeply, but I dared not [[Love|love]] you. In the
 
-following autumn I saw so much of your perfections that I could not
+following [[Autumn|autumn]] I saw so much of your perfections that I could not
 
-fail to love you, though I dared not show it. For upwards of three
+fail to [[Love|love]] you, though I dared not show it. For upwards of three
 
-years I have endured a perfect martyrdom. From the anguish of
+years I have endured a perfect [[Martyrdom|martyrdom]]. From the anguish of
 
 suppressed emotions, intense and fruitless longings, silent sorrow,
 
@@ -648,9 +648,9 @@ crushed hopes, and trampled affections, I have suffered more than I can
 
 tell, or you imagine—and you were the cause of it, and not altogether
 
-the innocent cause. My youth is wasting away; my prospects are
+the [[Innocent|innocent]] cause. My youth is wasting away; my prospects are
 
-darkened; my life is a desolate blank; I have no rest day or night: I
+darkened; my life is a desolate blank; I have no rest day or [[Night|night]]: I
 
 am become a burden to myself and others, and you might save me by a
 
@@ -660,13 +660,13 @@ word—a glance, and will not do it—is this right?”
 
 “In the first place, _I_ don’t believe _you_,” answered I; “in the
 
-second, if you will be such a fool, I can’t hinder it.”
+second, if you will be such a [[Fool|fool]], I can’t hinder it.”
 
 
 
 “If you affect,” replied he, earnestly, “to regard as folly the best,
 
-the strongest, the most godlike impulses of our nature, I don’t believe
+the strongest, the most godlike impulses of our [[Nature|nature]], I don’t believe
 
 you. I know you are not the heartless, icy being you pretend to be—you
 
@@ -676,19 +676,19 @@ utterly unworthy of the treasure, you reclaimed it; and you will not
 
 _pretend_ that you loved that sensual, earthly-minded profligate so
 
-deeply, so devotedly, that you can never love another? I know that
+deeply, so devotedly, that you can never [[Love|love]] another? I know that
 
-there are feelings in your nature that have never yet been called
+there are feelings in your [[Nature|nature]] that have never yet been called
 
 forth; I know, too, that in your present neglected lonely state you are
 
 and _must_ be miserable. You have it in your power to raise two human
 
-beings from a state of actual suffering to such unspeakable beatitude
+beings from a state of actual [[Suffering|suffering]] to such unspeakable beatitude
 
-as only generous, noble, self-forgetting love can give (for you _can_
+as only generous, noble, [[Self|self]]-forgetting [[Love|love]] can give (for you _can_
 
-love me if you will); you may tell me that you scorn and detest me,
+[[Love|love]] me if you will); you may tell me that you scorn and detest me,
 
 but, since you have set me the example of plain speaking, I will answer
 
@@ -698,13 +698,13 @@ to leave us miserable; and you coolly tell me it is the will of God
 
 that we should remain so. _You_ may call this religion, but _I_ call it
 
-wild fanaticism!”
+wild [[Fanaticism|fanaticism]]!”
 
 
 
 “There is another life both for you and for me,” said I. “If it be the
 
-will of God that we should sow in tears now, it is only that we may
+will of God that we should sow in [[Tears|tears]] now, it is only that we may
 
 reap in joy hereafter. It is His will that we should not injure others
 
@@ -716,9 +716,9 @@ disgrace; and I, too, have friends, whose peace of mind shall never be
 
 sacrificed to my enjoyment, or yours either, with my consent; and if I
 
-were alone in the world, I have still my God and my religion, and I
+were [[Alone|alone]] in the world, I have still my God and my religion, and I
 
-would sooner die than disgrace my calling and break my faith with
+would sooner die than disgrace my calling and break my [[Faith|faith]] with
 
 heaven to obtain a few brief years of false and fleeting
 
@@ -730,7 +730,7 @@ other!”
 
 “There need be no disgrace, no misery or sacrifice in any quarter,”
 
-persisted he. “I do not ask you to leave your home or defy the world’s
+persisted he. “I do not ask you to leave your [[Home|home]] or defy the world’s
 
 opinion.” But I need not repeat all his arguments. I refuted them to
 
@@ -752,13 +752,13 @@ coolness to prove, I changed my course and tried another plan.
 
 
 
-“Do you really love me?” said I, seriously, pausing and looking him
+“Do you really [[Love|love]] me?” said I, seriously, pausing and looking him
 
 calmly in the face.
 
 
 
-“Do I love you!” cried he.
+“Do I [[Love|love]] you!” cried he.
 
 
 
@@ -768,13 +768,13 @@ calmly in the face.
 
 His countenance brightened; he thought his triumph was at hand. He
 
-commenced a passionate protestation of the truth and fervour of his
+commenced a passionate protestation of the [[Truth|truth]] and fervour of his
 
 attachment, which I cut short by another question:—
 
 
 
-“But is it not a selfish love? Have you enough disinterested affection
+“But is it not a selfish [[Love|love]]? Have you enough disinterested affection
 
 to enable you to sacrifice your own pleasure to mine?”
 
@@ -802,7 +802,7 @@ it in any way without doubling the weight of those sufferings you so
 
 feelingly deplore. I have nothing left me but the solace of a good
 
-conscience and a hopeful trust in heaven, and you labour continually to
+[[Conscience|conscience]] and a hopeful trust in heaven, and you labour continually to
 
 rob me of these. If you persist, I must regard you as my deadliest
 
@@ -822,11 +822,11 @@ I say I mean. If you torment me in this way any more, I must conclude
 
 that your protestations are entirely false, and that you hate me in
 
-your heart as fervently as you profess to love me!”
+your heart as fervently as you profess to [[Love|love]] me!”
 
 
 
-He bit his lip, and bent his eyes upon the ground in silence for a
+He bit his lip, and bent his eyes upon the ground in [[Silence|silence]] for a
 
 while.
 
@@ -834,7 +834,7 @@ while.
 
 “Then I must leave you,” said he at length, looking steadily upon me,
 
-as if with the last hope of detecting some token of irrepressible
+as if with the last [[Hope|hope]] of detecting some token of irrepressible
 
 anguish or dismay awakened by those solemn words. “I must leave you. I
 
@@ -844,7 +844,7 @@ of my thoughts and wishes.”
 
 
 
-“Formerly, I believe, you spent but little of your time at home,” I
+“Formerly, I believe, you spent but little of your [[Time|time]] at [[Home|home]],” I
 
 answered; “it will do you no harm to absent yourself again, for a
 
@@ -864,21 +864,21 @@ have lately done, I would gladly say farewell and never see you more.”
 
 
 
-He made no answer, but, bending from his horse, held out his hand
+He made no answer, but, bending from his [[Horse|horse]], held out his hand
 
 towards me. I looked up at his face, and saw therein such a look of
 
-genuine agony of soul, that, whether bitter disappointment, or wounded
+genuine agony of [[Soul|soul]], that, whether bitter disappointment, or wounded
 
-pride, or lingering love, or burning wrath were uppermost, I could not
+[[Pride|pride]], or lingering [[Love|love]], or burning wrath were uppermost, I could not
 
 hesitate to put my hand in his as frankly as if I bade a friend
 
 farewell. He grasped it very hard, and immediately put spurs to his
 
-horse and galloped away. Very soon after, I learned that he was gone to
+[[Horse|horse]] and galloped away. Very soon after, I learned that he was gone to
 
-Paris, where he still is; and the longer he stays there the better for
+[[Paris]], where he still is; and the longer he stays there the better for
 
 me.
 

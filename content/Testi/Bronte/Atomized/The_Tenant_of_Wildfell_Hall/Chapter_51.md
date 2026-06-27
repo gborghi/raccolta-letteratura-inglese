@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 51"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 51"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,7 +22,7 @@ tags:
 
 We will now turn to a certain still, cold, cloudy afternoon about the
 
-commencement of December, when the first fall of snow lay thinly
+commencement of December, when the first fall of [[Snow|snow]] lay thinly
 
 scattered over the blighted fields and frozen roads, or stored more
 
@@ -30,7 +30,7 @@ thickly in the hollows of the deep cart-ruts and footsteps of men and
 
 horses impressed in the now petrified mire of last month’s drenching
 
-rains. I remember it well, for I was walking home from the vicarage
+rains. I remember it [[Well|well]], for I was walking [[Home|home]] from the vicarage
 
 with no less remarkable a personage than Miss Eliza Millward by my
 
@@ -38,7 +38,7 @@ side. I had been to call upon her father,—a sacrifice to civility
 
 undertaken entirely to please my mother, not myself, for I hated to go
 
-near the house; not merely on account of my antipathy to the once so
+near the [[house]]; not merely on account of my antipathy to the once so
 
 bewitching Eliza, but because I had not half forgiven the old gentleman
 
@@ -48,11 +48,11 @@ constrained to acknowledge himself mistaken in his former judgment, he
 
 still maintained that she had done wrong to leave her husband; it was a
 
-violation of her sacred duties as a wife, and a tempting of Providence
+violation of her sacred duties as a wife, and a tempting of [[Providence]]
 
-by laying herself open to temptation; and nothing short of bodily
+by laying herself open to [[Temptation|temptation]]; and nothing short of bodily
 
-ill-usage (and that of no trifling nature) could excuse such a step—nor
+ill-usage (and that of no trifling [[Nature|nature]]) could excuse such a step—nor
 
 even that, for in such a case she ought to appeal to the laws for
 
@@ -66,7 +66,7 @@ the room, ready equipped for a walk.
 
 “I was just coming to see your sister, Mr. Markham,” said she; “and so,
 
-if you have no objection, I’ll accompany you home. I like company when
+if you have no objection, I’ll accompany you [[Home|home]]. I like company when
 
 I’m walking out—don’t you?”
 
@@ -84,9 +84,9 @@ So we proceeded together.
 
 
 
-“Shall I find Rose at home, do you think?” said she, as we closed the
+“Shall I find [[Rose]] at [[Home|home]], do you think?” said she, as we closed the
 
-garden gate, and set our faces towards Linden-Car.
+[[Garden|garden]] gate, and set our faces towards Linden-Car.
 
 
 
@@ -130,7 +130,7 @@ befallen her.
 
 about it, I can tell you, for—alas, alas!—she’s going to be married
 
-next Thursday!”
+next [[thursday|Thursday]]!”
 
 
 
@@ -156,17 +156,17 @@ next Thursday!”
 
 “What makes you look so pale then?” said she, smiling with delight at
 
-my emotion. “Is it anger at poor me for telling such a fib? Well, I
+my emotion. “Is it anger at poor me for telling such a fib? [[Well]], I
 
-only ‘tell the tale as ’twas told to me:’ I don’t vouch for the truth
+only ‘tell the tale as ’twas told to me:’ I don’t vouch for the [[Truth|truth]]
 
-of it; but at the same time, I don’t see what reason Sarah should have
+of it; but at the same [[Time|time]], I don’t see what reason Sarah should have
 
 for deceiving me, or her informant for deceiving her; and that was what
 
 she told me the footman told her:—that Mrs. Huntingdon was going to be
 
-married on Thursday, and Mr. Lawrence was gone to the wedding. She did
+married on [[thursday|Thursday]], and Mr. Lawrence was gone to the wedding. She did
 
 tell me the name of the gentleman, but I’ve forgotten that. Perhaps you
 
@@ -190,7 +190,7 @@ her?—a Mr.—oh, dear! Mr.—”
 
 
 
-“Well, you know, that’s what they told me,” said she, composedly
+“[[Well]], you know, that’s what they told me,” said she, composedly
 
 staring me in the face. And then she broke out into a long shrill laugh
 
@@ -204,19 +204,19 @@ ha, ha!—did you think to marry her yourself? Dear, dear, what a
 
 pity!—ha, ha, ha! Gracious, Mr. Markham, are you going to faint? Oh,
 
-mercy! shall I call this man? Here, Jacob—” But checking the word on
+[[Mercy|mercy]]! shall I call this man? Here, Jacob—” But checking the word on
 
 her lips, I seized her arm and gave it, I think, a pretty severe
 
-squeeze, for she shrank into herself with a faint cry of pain or
+squeeze, for she shrank into herself with a faint cry of [[Pain|pain]] or
 
 terror; but the spirit within her was not subdued: instantly rallying,
 
-she continued, with well-feigned concern, “What can I do for you? Will
+she continued, with [[Well|well]]-feigned concern, “What can I do for you? Will
 
-you have some water—some brandy? I daresay they have some in the
+you have some [[Water|water]]—some brandy? I daresay they have some in the
 
-public-house down there, if you’ll let me run.”
+public-[[house]] down there, if you’ll let me run.”
 
 
 
@@ -242,7 +242,7 @@ since you are in such a merry mood, Miss Eliza, you must be good enough
 
 company for yourself; and therefore I shall leave you to finish your
 
-walk alone—for, now I think of it, I have business elsewhere; so
+walk [[Alone|alone]]—for, now I think of it, I have business elsewhere; so
 
 good-evening.”
 
@@ -252,7 +252,7 @@ With that I left her (smothering her malicious laughter) and turned
 
 aside into the fields, springing up the bank, and pushing through the
 
-nearest gap in the hedge. Determined at once to prove the truth—or
+nearest gap in the hedge. Determined at once to prove the [[Truth|truth]]—or
 
 rather the falsehood—of her story, I hastened to Woodford as fast as my
 
@@ -266,25 +266,25 @@ and stubble, and lane, clearing hedges and ditches and hurdles, till I
 
 came to the young squire’s gates. Never till now had I known the full
 
-fervour of my love—the full strength of my hopes, not wholly crushed
+fervour of my [[Love|love]]—the full strength of my hopes, not wholly crushed
 
 even in my hours of deepest despondency, always tenaciously clinging to
 
 the thought that one day she might be mine, or, if not that, at least
 
-that something of my memory, some slight remembrance of our friendship
+that something of my [[Memory|memory]], some slight remembrance of our [[Friendship|friendship]]
 
-and our love, would be for ever cherished in her heart. I marched up to
+and our [[Love|love]], would be for ever cherished in her heart. I marched up to
 
 the door, determined, if I saw the master, to question him boldly
 
 concerning his sister, to wait and hesitate no longer, but cast false
 
-delicacy and stupid pride behind my back, and know my fate at once.
+delicacy and stupid [[Pride|pride]] behind my back, and know my fate at once.
 
 
 
-“Is Mr. Lawrence at home?” I eagerly asked of the servant that opened
+“Is Mr. Lawrence at [[Home|home]]?” I eagerly asked of the servant that opened
 
 the door.
 
@@ -316,21 +316,21 @@ But what was to be done now? Could it be possible that she had left me
 
 for _that_ man? I could not believe it. Me she might forsake, but _not_
 
-to give herself to him! Well, I would know the truth; to no concerns of
+to give herself to him! [[Well]], I would know the [[Truth|truth]]; to no concerns of
 
-daily life could I attend while this tempest of doubt and dread, of
+daily life could I attend while this tempest of [[Doubt|doubt]] and dread, of
 
-jealousy and rage, distracted me. I would take the morning coach from
+[[Jealousy|jealousy]] and rage, distracted me. I would take the morning coach from
 
 L—— (the evening one would be already gone), and fly to Grassdale—I
 
-_must_ be there before the marriage. And why? Because a thought struck
+_must_ be there before the [[Marriage|marriage]]. And why? Because a thought struck
 
 me that _perhaps_ I might prevent it—that if I did not, she and I might
 
 both lament it to the latest moment of our lives. It struck me that
 
-someone might have belied me to her: perhaps her brother; yes, no doubt
+someone might have belied me to her: perhaps her brother; yes, no [[Doubt|doubt]]
 
 her brother had persuaded her that I was false and faithless, and
 
@@ -338,19 +338,19 @@ taking advantage of her natural indignation, and perhaps her desponding
 
 carelessness about her future life, had urged her, artfully, cruelly,
 
-on to this other marriage, in order to secure her from me. If this
+on to this other [[Marriage|marriage]], in order to secure her from me. If this
 
 _was_ the case, and if she should only discover her mistake when too
 
 late to repair it—to what a life of misery and vain regret might she be
 
-doomed as well as me; and what remorse for me to think my foolish
+doomed as [[Well|well]] as me; and what remorse for me to think my foolish
 
 scruples had induced it all! Oh, I _must_ see her—she must know my
 
-truth even if I told it at the church door! I might pass for a madman
+[[Truth|truth]] even if I told it at the church door! I might pass for a madman
 
-or an impertinent fool—even she might be offended at such an
+or an impertinent [[Fool|fool]]—even she might be offended at such an
 
 interruption, or at least might tell me it was now too late. But if I
 
@@ -360,7 +360,7 @@ thought!
 
 
 
-Winged by this hope, and goaded by these fears, I hurried homewards to
+Winged by this [[Hope|hope]], and goaded by these fears, I hurried homewards to
 
 prepare for my departure on the morrow. I told my mother that urgent
 
@@ -378,17 +378,17 @@ disastrous mystery.
 
 
 
-That night there came a heavy fall of snow, which so retarded the
+That [[Night|night]] there came a heavy fall of [[Snow|snow]], which so retarded the
 
 progress of the coaches on the following day that I was almost driven
 
-to distraction. I travelled all night, of course, for this was
+to distraction. I travelled all [[Night|night]], of course, for this was
 
-Wednesday: to-morrow morning, doubtless, the marriage would take place.
+Wednesday: to-morrow morning, doubtless, the [[Marriage|marriage]] would take place.
 
-But the night was long and dark: the snow heavily clogged the wheels
+But the [[Night|night]] was long and dark: the [[Snow|snow]] heavily clogged the wheels
 
-and balled the horses’ feet; the animals were consumedly lazy; the
+and balled the horses’ feet; the [[Animals|animals]] were consumedly lazy; the
 
 coachman most execrably cautious; the passengers confoundedly apathetic
 
@@ -400,47 +400,47 @@ merely stared and grinned at my impatience: one fellow even ventured to
 
 rally me upon it—but I silenced him with a look that quelled him for
 
-the rest of the journey; and when, at the last stage, I would have
+the rest of the [[Journey|journey]]; and when, at the last stage, I would have
 
 taken the reins into my own hand, they all with one accord opposed it.
 
 
 
-It was broad daylight when we entered M—— and drew up at the “Rose and
+It was broad daylight when we entered M—— and drew up at the “[[Rose]] and
 
-Crown.” I alighted and called aloud for a post-chaise to Grassdale.
+[[Crown]].” I alighted and called aloud for a post-chaise to Grassdale.
 
 There was none to be had: the only one in the town was under repair. “A
 
 gig, then—a fly—car—anything—only be quick!” There was a gig, but not a
 
-horse to spare. I sent into the town to seek one: but they were such an
+[[Horse|horse]] to spare. I sent into the town to seek one: but they were such an
 
-intolerable time about it that I could wait no longer—I thought my own
+intolerable [[Time|time]] about it that I could wait no longer—I thought my own
 
 feet could carry me sooner; and bidding them send the conveyance after
 
 me, if it were ready within an hour, I set off as fast as I could walk.
 
-The distance was little more than six miles, but the road was strange,
+The distance was little more than six miles, but the [[Road|road]] was strange,
 
 and I had to keep stopping to inquire my way; hallooing to carters and
 
 clodhoppers, and frequently invading the cottages, for there were few
 
-abroad that winter’s morning; sometimes knocking up the lazy people
+abroad that [[Winter|winter]]’s morning; sometimes knocking up the lazy people
 
 from their beds, for where so little work was to be done, perhaps so
 
-little food and fire to be had, they cared not to curtail their
+little food and [[Fire|fire]] to be had, they cared not to curtail their
 
-slumbers. I had no time to think of _them_, however; aching with
+slumbers. I had no [[Time|time]] to think of _them_, however; aching with
 
 weariness and desperation, I hurried on. The gig did not overtake me:
 
-and it was well I had not waited for it; vexatious rather, that I had
+and it was [[Well|well]] I had not waited for it; vexatious rather, that I had
 
-been fool enough to wait so long.
+been [[Fool|fool]] enough to wait so long.
 
 
 
@@ -460,9 +460,9 @@ the ceremony long commenced? They only gaped and stared. In my
 
 desperation, I pushed past them, and was about to enter the churchyard
 
-gate, when a group of ragged urchins, that had been hanging like bees
+gate, when a group of ragged urchins, that had been hanging like [[Bees|bees]]
 
-to the window, suddenly dropped off and made a rush for the porch,
+to the [[Window|window]], suddenly dropped off and made a rush for the porch,
 
 vociferating in the uncouth dialect of their country something which
 
@@ -474,7 +474,7 @@ If Eliza Millward had seen me then she might indeed have been
 
 delighted. I grasped the gate-post for support, and stood intently
 
-gazing towards the door to take my last look on my soul’s delight, my
+gazing towards the door to take my last look on my [[Soul|soul]]’s delight, my
 
 first on that detested mortal who had torn her from my heart, and
 
@@ -496,13 +496,13 @@ blush; but every feature was radiant with smiles, and gleaming through
 
 the misty whiteness of her veil were clusters of golden ringlets! Oh,
 
-heavens! it was _not_ my Helen! The first glimpse made me start—but my
+heavens! it was _not_ my [[Helen]]! The first glimpse made me start—but my
 
-eyes were darkened with exhaustion and despair. Dare I trust them?
+eyes were darkened with exhaustion and [[Despair|despair]]. Dare I trust them?
 
-“Yes—it _is_ not she! It was a younger, slighter, rosier beauty—lovely
+“Yes—it _is_ not she! It was a younger, slighter, rosier [[Beauty|beauty]]—lovely
 
-indeed, but with far less dignity and depth of soul—without that
+indeed, but with far less dignity and depth of [[Soul|soul]]—without that
 
 indefinable grace, that keenly _spiritual_ yet gentle charm, that
 
@@ -530,7 +530,7 @@ apparition—perhaps, too, at the wildness of my looks.
 
 He smiled and coloured, as if half-proud and half-ashamed of his
 
-identity; and if he had reason to be proud of the sweet lady on his
+[[Identity|identity]]; and if he had reason to be proud of the sweet lady on his
 
 arm, he had no less cause to be ashamed of having concealed his good
 
@@ -552,7 +552,7 @@ I bowed to the bride, and vehemently wrung the bridegroom’s hand.
 
 “Why did you not tell me of this?” I said, reproachfully, pretending a
 
-resentment I did not feel (for in truth I was almost wild with joy to
+resentment I did not feel (for in [[Truth|truth]] I was almost wild with joy to
 
 find myself so happily mistaken, and overflowing with affection to him
 
@@ -564,7 +564,7 @@ hated him like a demon for the last forty hours, the reaction from such
 
 a feeling was so great that I could pardon all offences for the
 
-moment—and love him in spite of them too).
+moment—and [[Love|love]] him in spite of them too).
 
 
 
@@ -578,7 +578,7 @@ received my letter?”
 
 
 
-“The one announcing my intended marriage.”
+“The one announcing my intended [[Marriage|marriage]].”
 
 
 
@@ -596,7 +596,7 @@ you here, then, if you received no information?”
 
 It was now _my_ turn to be confounded; but the young lady, who had been
 
-busily patting the snow with her foot during our short sotto-voce
+busily patting the [[Snow|snow]] with her foot during our short sotto-voce
 
 colloquy, very opportunely came to my assistance by pinching her
 
@@ -614,15 +614,15 @@ friends waiting into the bargain.
 
 drapery, and immediately handing her into the carriage. “Markham, will
 
-you come? We are going to Paris, but we can drop you anywhere between
+you come? We are going to [[Paris]], but we can drop you anywhere between
 
 this and Dover.”
 
 
 
-“No, thank you. Good-by—I needn’t wish you a pleasant journey; but I
+“No, thank you. Good-by—I needn’t wish you a pleasant [[Journey|journey]]; but I
 
-shall expect a very handsome apology, some time, mind, and scores of
+shall expect a very handsome apology, some [[Time|time]], mind, and scores of
 
 letters, before we meet again.”
 
@@ -630,17 +630,17 @@ letters, before we meet again.”
 
 He shook my hand, and hastened to take his place beside his lady. This
 
-was no time or place for explanation or discourse: we had already stood
+was no [[Time|time]] or place for explanation or discourse: we had already stood
 
-long enough to excite the wonder of the village sight-seers, and
+long enough to excite the [[Wonder|wonder]] of the village sight-seers, and
 
 perhaps the wrath of the attendant bridal party; though, of course, all
 
-this passed in a much shorter time than I have taken to relate, or even
+this passed in a much shorter [[Time|time]] than I have taken to relate, or even
 
 than you will take to read it. I stood beside the carriage, and, the
 
-window being down, I saw my happy friend fondly encircle his
+[[Window|window]] being down, I saw my happy friend fondly encircle his
 
 companion’s waist with his arm, while she rested her glowing cheek on
 
@@ -650,7 +650,7 @@ In the interval between the footman’s closing the door and taking his
 
 place behind she raised her smiling brown eyes to his face, observing,
 
-playfully,—“I fear you must think me very insensible, Frederick: I know
+playfully,—“I [[Fear|fear]] you must think me very insensible, Frederick: I know
 
 it is the custom for ladies to cry on these occasions, but I couldn’t
 
@@ -670,7 +670,7 @@ bosom.
 
 “Oh, it’s nothing—it’s only too much happiness—and the wish,” sobbed
 
-she, “that our dear Helen were as happy as ourselves.”
+she, “that our dear [[Helen]] were as happy as ourselves.”
 
 
 
@@ -688,9 +688,9 @@ sister and his friend as he now felt himself? At _such_ a moment it was
 
 impossible. The contrast between her fate and his _must_ darken his
 
-bliss for a time. Perhaps, too, he thought of me: perhaps he regretted
+bliss for a [[Time|time]]. Perhaps, too, he thought of me: perhaps he regretted
 
-the part he had had in preventing our union, by omitting to help us, if
+the part he had had in preventing our [[Union|union]], by omitting to help us, if
 
 not by actually plotting against us. I exonerated him from _that_
 
@@ -698,7 +698,7 @@ charge now, and deeply lamented my former ungenerous suspicions; but he
 
 _had_ wronged us, still—I hoped, I trusted that he had. He had not
 
-attempted to check the course of our love by actually damming up the
+attempted to check the course of our [[Love|love]] by actually damming up the
 
 streams in their passage, but he had passively watched the two currents
 
@@ -720,9 +720,9 @@ his three months’ sojourn at F——, for I now recollected that he had
 
 once casually let fall an intimation that his aunt and sister had a
 
-young friend staying with them at the time, and this accounted for at
+young friend staying with them at the [[Time|time]], and this accounted for at
 
-least one-half his silence about all transactions there. Now, too, I
+least one-half his [[Silence|silence]] about all transactions there. Now, too, I
 
 saw a reason for many little things that had slightly puzzled me
 
@@ -732,12 +732,12 @@ absences more or less prolonged, for which he never satisfactorily
 
 accounted, and concerning which he hated to be questioned on his
 
-return. Well might the servant say his master was “very close.” But why
+return. [[Well]] might the servant say his master was “very close.” But why
 
 this strange reserve to _me?_ Partly, from that remarkable idiosyncrasy
 
 to which I have before alluded; partly, perhaps, from tenderness to my
 
-feelings, or fear to disturb my philosophy by touching upon the
+feelings, or [[Fear|fear]] to disturb my [[philosophy]] by touching upon the
 
-infectious theme of love.
+infectious theme of [[Love|love]].

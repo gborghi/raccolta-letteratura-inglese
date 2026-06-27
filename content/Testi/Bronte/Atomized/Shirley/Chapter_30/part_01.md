@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 30 (part 1)"
+title: "[[Shirley]] — Chapter 30 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,7 +24,7 @@ RUSHEDGE--A CONFESSIONAL.
 
 
 
-Everybody said it was high time for Mr. Moore to return home. All
+Everybody said it was high [[Time|time]] for Mr. Moore to return [[Home|home]]. All
 
 Briarfield wondered at his strange absence, and Whinbury and Nunnely
 
@@ -52,7 +52,7 @@ This was known at Briarfield. The newspapers had reported it. The
 
 _Stilbro' Courier_ had given every particular, with amplifications. None
 
-applauded his perseverance or hailed his success, though the mill-owners
+applauded his perseverance or hailed his [[success]], though the mill-owners
 
 were glad of it, trusting that the terrors of law vindicated would
 
@@ -74,7 +74,7 @@ his life was not worth an hour's purchase if he did.
 
 "I'll tell him that," said Mr. Yorke, when his foreman mentioned the
 
-rumour; "and if _that_ does not bring him home full gallop, nothing
+rumour; "and if _that_ does not bring him [[Home|home]] full gallop, nothing
 
 will."
 
@@ -92,7 +92,7 @@ meet him.
 
 
 
-It was market-day. Moore arrived in time to take his usual place at the
+It was market-day. Moore arrived in [[Time|time]] to take his usual place at the
 
 market dinner. As something of a stranger, and as a man of note and
 
@@ -148,9 +148,9 @@ painful indeed is the panegyric of those we contemn. Often had Moore
 
 gazed with a brilliant countenance over howling crowds from a hostile
 
-hustings. He had breasted the storm of unpopularity with gallant bearing
+hustings. He had breasted the [[Storm|storm]] of unpopularity with gallant bearing
 
-and soul elate; but he drooped his head under the half-bred tradesmen's
+and [[Soul|soul]] elate; but he drooped his head under the half-bred tradesmen's
 
 praise, and shrank chagrined before their congratulations.
 
@@ -158,7 +158,7 @@ praise, and shrank chagrined before their congratulations.
 
 Yorke could not help asking him how he liked his supporters, and whether
 
-he did not think they did honour to his cause. "But it is a pity, lad,"
+he did not think they did [[Honour|honour]] to his cause. "But it is a pity, lad,"
 
 he added, "that you did not hang these four samples of the unwashed. If
 
@@ -170,7 +170,7 @@ like a conquering general."
 
 
 
-Moore soon forsook the wine, broke from the party, and took the road.
+Moore soon forsook the wine, broke from the party, and took the [[Road|road]].
 
 In less than five minutes Mr. Yorke followed him. They rode out of
 
@@ -178,11 +178,11 @@ Stilbro' together.
 
 
 
-It was early to go home, but yet it was late in the day. The last ray of
+It was early to go [[Home|home]], but yet it was late in the day. The last ray of
 
-the sun had already faded from the cloud-edges, and the October night
+the sun had already faded from the cloud-edges, and the October [[Night|night]]
 
-was casting over the moorlands the shadow of her approach.
+was casting over the moorlands the [[Shadow|shadow]] of her approach.
 
 
 
@@ -190,7 +190,7 @@ Mr. Yorke, moderately exhilarated with his moderate libations, and not
 
 displeased to see young Moore again in Yorkshire, and to have him for
 
-his comrade during the long ride home, took the discourse much to
+his comrade during the long ride [[Home|home]], took the discourse much to
 
 himself. He touched briefly, but scoffingly, on the trials and the
 
@@ -202,13 +202,13 @@ long he attacked Moore on his own personal concerns.
 
 "Bob, I believe you are worsted, and you deserve it. All was smooth.
 
-Fortune had fallen in love with you. She had decreed you the first prize
+Fortune had fallen in [[Love|love]] with you. She had decreed you the first prize
 
-in her wheel--twenty thousand pounds; she only required that you should
+in her [[Wheel|wheel]]--twenty thousand pounds; she only required that you should
 
 hold your hand out and take it. And what did you do? You called for a
 
-horse and rode a-hunting to Warwickshire. Your sweetheart--Fortune, I
+[[Horse|horse]] and rode a-hunting to Warwickshire. Your sweetheart--Fortune, I
 
 mean--was perfectly indulgent. She said, 'I'll excuse him; he's young.'
 
@@ -222,11 +222,11 @@ a good lad. You might still have had her first prize.
 
 "It capped her beyond expression, and me too, to find that, instead of
 
-thundering home in a breakneck gallop and laying your assize laurels at
+thundering [[Home|home]] in a breakneck gallop and laying your assize laurels at
 
-her feet, you coolly took coach up to London. What you have done there
+her feet, you coolly took coach up to [[London]]. What you have done there
 
-Satan knows; nothing in this world, I believe, but sat and sulked. Your
+[[Satan]] knows; nothing in this world, I believe, but sat and sulked. Your
 
 face was never lily fair, but it is olive green now. You're not as bonny
 

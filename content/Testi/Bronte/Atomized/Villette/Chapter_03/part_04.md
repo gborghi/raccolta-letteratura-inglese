@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 3 (part 4)"
+title: "[[Villette]] — Chapter 3 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -18,11 +18,11 @@ tags:
 the seven when he is otherwise than on the other six?”
 
 “To be sure! Can’t you see? Don’t you know? I find him the most
-excellent on a Sunday; then we have him the whole day, and he is quiet,
+excellent on a [[Sunday]]; then we have him the whole day, and he is quiet,
 and, in the evening, _so_ kind.”
 
 This observation was not altogether groundless: going to church, &c.,
-kept Graham quiet on the Sunday, and the evening he generally dedicated
+kept Graham quiet on the [[Sunday]], and the evening he generally dedicated
 to a serene, though rather indolent sort of enjoyment by the parlour
 fireside. He would take possession of the couch, and then he would call
 Polly.
@@ -37,7 +37,7 @@ it.
 
 Polly, being near him, kneeling on a little cushion or the carpet, a
 conversation would begin in murmurs, not inaudible, though subdued. I
-caught a snatch of their tenor now and then; and, in truth, some
+caught a snatch of their tenor now and then; and, in [[Truth|truth]], some
 influence better and finer than that of every day, seemed to soothe
 Graham at such times into no ungentle mood.
 
@@ -47,13 +47,13 @@ Graham at such times into no ungentle mood.
 
 “Speak nicely, then: don’t be in a hurry.”
 
-The hymn being rehearsed, or rather half-chanted, in a little singing
+The [[Hymn|hymn]] being rehearsed, or rather half-chanted, in a little singing
 voice, Graham would take exceptions at the manner, and proceed to give
 a lesson in recitation. She was quick in learning, apt in imitating;
 and, besides, her pleasure was to please Graham: she proved a ready
-scholar. To the hymn would succeed some reading—perhaps a chapter in
-the Bible; correction was seldom required here, for the child could
-read any simple narrative chapter very well; and, when the subject was
+scholar. To the [[Hymn|hymn]] would succeed some reading—perhaps a chapter in
+the [[Bible]]; correction was seldom required here, for the [[Child|child]] could
+read any simple narrative chapter very [[Well|well]]; and, when the subject was
 such as she could understand and take an interest in, her expression
 and emphasis were something remarkable. Joseph cast into the pit; the
 calling of Samuel; Daniel in the lions’ den;—these were favourite
@@ -62,46 +62,46 @@ pathos.
 
 “Poor Jacob!” she would sometimes say, with quivering lips. “How he
 loved his son Joseph! As much,” she once added—“as much, Graham, as I
-love you: if you were to die“ (and she re-opened the book, sought the
+[[Love|love]] you: if you were to die“ (and she re-opened the book, sought the
 verse, and read), “I should refuse to be comforted, and go down into
-the grave to you mourning.”
+the [[Grave|grave]] to you mourning.”
 
 With these words she gathered Graham in her little arms, drawing his
 long-tressed head towards her. The action, I remember, struck me as
 strangely rash; exciting the feeling one might experience on seeing an
-animal dangerous by nature, and but half-tamed by art, too heedlessly
+animal dangerous by [[Nature|nature]], and but half-tamed by art, too heedlessly
 fondled. Not that I feared Graham would hurt, or very roughly check
 her; but I thought she ran risk of incurring such a careless, impatient
 repulse, as would be worse almost to her than a blow. On the whole,
 however, these demonstrations were borne passively: sometimes even a
-sort of complacent wonder at her earnest partiality would smile not
-unkindly in his eyes. Once he said:—“You like me almost as well as if
+sort of complacent [[Wonder|wonder]] at her earnest partiality would smile not
+unkindly in his eyes. Once he said:—“You like me almost as [[Well|well]] as if
 you were my little sister, Polly.”
 
 “Oh! I _do_ like you,” said she; “I _do_ like you very much.”
 
 I was not long allowed the amusement of this study of character. She
 had scarcely been at Bretton two months, when a letter came from Mr.
-Home, signifying that he was now settled amongst his maternal kinsfolk
+[[Home]], signifying that he was now settled amongst his maternal kinsfolk
 on the Continent; that, as England was become wholly distasteful to
 him, he had no thoughts of returning hither, perhaps, for years; and
 that he wished his little girl to join him immediately.
 
-“I wonder how she will take this news?” said Mrs. Bretton, when she had
+“I [[Wonder|wonder]] how she will take this news?” said Mrs. Bretton, when she had
 read the letter. _I_ wondered, too, and I took upon myself to
 communicate it.
 
 Repairing to the drawing-room—in which calm and decorated apartment she
-was fond of being alone, and where she could be implicitly trusted, for
+was fond of being [[Alone|alone]], and where she could be implicitly trusted, for
 she fingered nothing, or rather soiled nothing she fingered—I found her
 seated, like a little Odalisque, on a couch, half shaded by the
-drooping draperies of the window near. She seemed happy; all her
+drooping draperies of the [[Window|window]] near. She seemed happy; all her
 appliances for occupation were about her; the white wood workbox, a
 shred or two of muslin, an end or two of ribbon collected for
-conversion into doll-millinery. The doll, duly night-capped and
-night-gowned, lay in its cradle; she was rocking it to sleep, with an
-air of the most perfect faith in its possession of sentient and
-somnolent faculties; her eyes, at the same time, being engaged with a
+[[conversion]] into doll-millinery. The doll, duly [[Night|night]]-capped and
+[[Night|night]]-gowned, lay in its cradle; she was rocking it to [[Sleep|sleep]], with an
+air of the most perfect [[Faith|faith]] in its possession of sentient and
+somnolent faculties; her eyes, at the same [[Time|time]], being engaged with a
 picture-book, which lay open on her lap.
 
 “Miss Snowe,” said she in a whisper, “this is a wonderful book.
@@ -120,8 +120,8 @@ under a palm-tree.” (She showed a little coloured cut to that effect.)
 “And here are pictures” (she went on) “more stranger” (grammar was
 occasionally forgotten) “than that. There is the wonderful Great Wall
 of China; here is a Chinese lady, with a foot littler than mine. There
-is a wild horse of Tartary; and here, most strange of all—is a land of
-ice and snow, without green fields, woods, or gardens. In this land,
+is a wild [[Horse|horse]] of Tartary; and here, most strange of all—is a land of
+ice and [[Snow|snow]], without green fields, woods, or gardens. In this land,
 they found some mammoth bones: there are no mammoths now. You don’t
 know what it was; but I can tell you, because Graham told me. A mighty,
 goblin creature, as high as this room, and as long as the hall; but not

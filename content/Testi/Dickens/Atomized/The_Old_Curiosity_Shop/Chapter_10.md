@@ -16,47 +16,47 @@ tags:
 
 CHAPTER 10
 
-Daniel Quilp neither entered nor left the old man’s house, unobserved.
-In the shadow of an archway nearly opposite, leading to one of the many
+[[Daniel Quilp]] neither entered nor left the old man’s [[house]], unobserved.
+In the [[Shadow|shadow]] of an archway nearly opposite, leading to one of the many
 passages which diverged from the main street, there lingered one, who,
 having taken up his position when the twilight first came on, still
 maintained it with undiminished patience, and leaning against the wall
-with the manner of a person who had a long time to wait, and being well
+with the manner of a person who had a long [[Time|time]] to wait, and being [[Well|well]]
 used to it was quite resigned, scarcely changed his attitude for the
 hour together.
 
 This patient lounger attracted little attention from any of those who
 passed, and bestowed as little upon them.  His eyes were constantly
-directed towards one object; the window at which the child was
+directed towards one object; the [[Window|window]] at which the [[Child|child]] was
 accustomed to sit.  If he withdrew them for a moment, it was only to
-glance at a clock in some neighbouring shop, and then to strain his
+glance at a [[Clock|clock]] in some neighbouring shop, and then to strain his
 sight once more in the old quarter with increased earnestness and
 attention.
 
 It had been remarked that this personage evinced no weariness in his
 place of concealment; nor did he, long as his waiting was.  But as the
-time went on, he manifested some anxiety and surprise, glancing at the
-clock more frequently and at the window less hopefully than before.  At
-length, the clock was hidden from his sight by some envious shutters,
-then the church steeples proclaimed eleven at night, then the quarter
+[[Time|time]] went on, he manifested some anxiety and surprise, glancing at the
+[[Clock|clock]] more frequently and at the [[Window|window]] less hopefully than before.  At
+length, the [[Clock|clock]] was hidden from his sight by some envious shutters,
+then the church steeples proclaimed eleven at [[Night|night]], then the quarter
 past, and then the conviction seemed to obtrude itself on his mind that
 it was no use tarrying there any longer.
 
 That the conviction was an unwelcome one, and that he was by no means
 willing to yield to it, was apparent from his reluctance to quit the
 spot; from the tardy steps with which he often left it, still looking
-over his shoulder at the same window; and from the precipitation with
+over his shoulder at the same [[Window|window]]; and from the precipitation with
 which he as often returned, when a fancied noise or the changing and
 imperfect light induced him to suppose it had been softly raised.  At
-length, he gave the matter up, as hopeless for that night, and suddenly
+length, he gave the matter up, as hopeless for that [[Night|night]], and suddenly
 breaking into a run as though to force himself away, scampered off at
-his utmost speed, nor once ventured to look behind him lest he should
+his utmost [[Speed|speed]], nor once ventured to look behind him lest he should
 be tempted back again.
 
 Without relaxing his pace, or stopping to take breath, this mysterious
 individual dashed on through a great many alleys and narrow ways until
-he at length arrived in a square paved court, when he subsided into a
-walk, and making for a small house from the window of which a light was
+he at length arrived in a square paved [[Court|court]], when he subsided into a
+walk, and making for a small [[house]] from the [[Window|window]] of which a light was
 shining, lifted the latch of the door and passed in.
 
 ‘Bless us!’ cried a woman turning sharply round, ‘who’s that?  Oh!
@@ -66,78 +66,78 @@ It’s you, Kit!’
 
 ‘Why, how tired you look, my dear!’
 
-‘Old master an’t gone out to-night,’ said Kit; ‘and so she hasn’t been
-at the window at all.’  With which words, he sat down by the fire and
+‘Old master an’t gone out to-[[Night|night]],’ said Kit; ‘and so she hasn’t been
+at the [[Window|window]] at all.’  With which words, he sat down by the [[Fire|fire]] and
 looked very mournful and discontented.
 
 The room in which Kit sat himself down, in this condition, was an
 extremely poor and homely place, but with that air of comfort about it,
 nevertheless, which--or the spot must be a wretched one
 indeed--cleanliness and order can always impart in some degree.  Late
-as the Dutch clock showed it to be, the poor woman was still hard at
-work at an ironing-table; a young child lay sleeping in a cradle near
-the fire; and another, a sturdy boy of two or three years old, very
-wide awake, with a very tight night-cap on his head, and a night-gown
-very much too small for him on his body, was sitting bolt upright in a
+as the Dutch [[Clock|clock]] showed it to be, the poor woman was still hard at
+work at an ironing-table; a young [[Child|child]] lay sleeping in a cradle near
+the [[Fire|fire]]; and another, a sturdy boy of two or three years old, very
+wide awake, with a very tight [[Night|night]]-cap on his head, and a [[Night|night]]-gown
+very much too small for him on his [[Body|body]], was sitting bolt upright in a
 clothes-basket, staring over the rim with his great round eyes, and
-looking as if he had thoroughly made up his mind never to go to sleep
+looking as if he had thoroughly made up his mind never to go to [[Sleep|sleep]]
 any more; which, as he had already declined to take his natural rest
 and had been brought out of bed in consequence, opened a cheerful
 prospect for his relations and friends.  It was rather a queer-looking
 family: Kit, his mother, and the children, being all strongly alike.
 
 Kit was disposed to be out of temper, as the best of us are too
-often--but he looked at the youngest child who was sleeping soundly,
+often--but he looked at the youngest [[Child|child]] who was sleeping soundly,
 and from him to his other brother in the clothes-basket, and from him
 to their mother, who had been at work without complaint since morning,
 and thought it would be a better and kinder thing to be good-humoured.
-So he rocked the cradle with his foot; made a face at the rebel in the
-clothes-basket, which put him in high good-humour directly; and stoutly
+So he rocked the cradle with his foot; made a face at the [[Rebel|rebel]] in the
+clothes-basket, which put him in high good-[[Humour|humour]] directly; and stoutly
 determined to be talkative and make himself agreeable.
 
 ‘Ah, mother!’ said Kit, taking out his clasp-knife, and falling upon a
 great piece of bread and meat which she had had ready for him, hours
 before, ‘what a one you are!  There an’t many such as you, I know.’
 
-‘I hope there are many a great deal better, Kit,’ said Mrs Nubbles;
+‘I [[Hope|hope]] there are many a great deal better, Kit,’ said Mrs Nubbles;
 ‘and that there are, or ought to be, accordin’ to what the parson at
 chapel says.’
 
 ‘Much he knows about it,’ returned Kit contemptuously.  ‘Wait till he’s
 a widder and works like you do, and gets as little, and does as much,
-and keeps his spirit up the same, and then I’ll ask him what’s o’clock
+and keeps his spirit up the same, and then I’ll ask him what’s o’[[Clock|clock]]
 and trust him for being right to half a second.’
 
-‘Well,’ said Mrs Nubbles, evading the point, ‘your beer’s down there by
+‘[[Well]],’ said Mrs Nubbles, evading the point, ‘your beer’s down there by
 the fender, Kit.’
 
-‘I see,’ replied her son, taking up the porter pot, ‘my love to you,
+‘I see,’ replied her son, taking up the porter pot, ‘my [[Love|love]] to you,
 mother.  And the parson’s health too if you like.  I don’t bear him any
 malice, not I!’
 
-‘Did you tell me, just now, that your master hadn’t gone out to-night?’
+‘Did you tell me, just now, that your master hadn’t gone out to-[[Night|night]]?’
 inquired Mrs Nubbles.
 
 ‘Yes,’ said Kit, ‘worse luck!’
 
 ‘You should say better luck, I think,’ returned his mother, ‘because
-Miss Nelly won’t have been left alone.’
+Miss Nelly won’t have been left [[Alone|alone]].’
 
 ‘Ah!’ said Kit, ‘I forgot that.  I said worse luck, because I’ve been
-watching ever since eight o’clock, and seen nothing of her.’
+watching ever since eight o’[[Clock|clock]], and seen nothing of her.’
 
-‘I wonder what she’d say,’ cried his mother, stopping in her work and
-looking round, ‘if she knew that every night, when she--poor thing--is
-sitting alone at that window, you are watching in the open street for
-fear any harm should come to her, and that you never leave the place or
-come home to your bed though you’re ever so tired, till such time as
+‘I [[Wonder|wonder]] what she’d say,’ cried his mother, stopping in her work and
+looking round, ‘if she knew that every [[Night|night]], when she--poor thing--is
+sitting [[Alone|alone]] at that [[Window|window]], you are watching in the open street for
+[[Fear|fear]] any harm should come to her, and that you never leave the place or
+come [[Home|home]] to your bed though you’re ever so tired, till such [[Time|time]] as
 you think she’s safe in hers.’
 
 ‘Never mind what she’d say,’ replied Kit, with something like a blush
 on his uncouth face; ‘she’ll never know nothing, and consequently,
 she’ll never say nothing.’
 
-Mrs Nubbles ironed away in silence for a minute or two, and coming to
+Mrs Nubbles ironed away in [[Silence|silence]] for a minute or two, and coming to
 the fireplace for another iron, glanced stealthily at Kit while she
 rubbed it on a board and dusted it with a duster, but said nothing
 until she had returned to her table again: when, holding the iron at an
@@ -150,7 +150,7 @@ looking round with a smile, she observed:
 follow.
 
 ‘No, but they would indeed.  Some people would say that you’d fallen in
-love with her, I know they would.’
+[[Love|love]] with her, I know they would.’
 
 To this, Kit only replied by bashfully bidding his mother ‘get out,’
 and forming sundry strange figures with his legs and arms, accompanied
@@ -161,11 +161,11 @@ artificial aids he choked himself and effected a diversion of the
 subject.
 
 ‘Speaking seriously though, Kit,’ said his mother, taking up the theme
-afresh, after a time, ‘for of course I was only in joke just now, it’s
+afresh, after a [[Time|time]], ‘for of course I was only in joke just now, it’s
 very good and thoughtful, and like you, to do this, and never let
-anybody know it, though some day I hope she may come to know it, for
+anybody know it, though some day I [[Hope|hope]] she may come to know it, for
 I’m sure she would be very grateful to you and feel it very much.  It’s
-a cruel thing to keep the dear child shut up there.  I don’t wonder
+a cruel thing to keep the dear [[Child|child]] shut up there.  I don’t [[Wonder|wonder]]
 that the old gentleman wants to keep it from you.’
 
 ‘He don’t think it’s cruel, bless you,’ said Kit, ‘and don’t mean it to
@@ -178,7 +178,7 @@ you?’ said Mrs Nubbles.
 
 ‘That I don’t know,’ returned her son.  ‘If he hadn’t tried to keep it
 so close though, I should never have found it out, for it was his
-getting me away at night and sending me off so much earlier than he
+getting me away at [[Night|night]] and sending me off so much earlier than he
 used to, that first made me curious to know what was going on.  Hark!
 what’s that?’
 
@@ -186,11 +186,11 @@ what’s that?’
 
 ‘It’s somebody crossing over here,’ said Kit, standing up to listen,
 ‘and coming very fast too.  He can’t have gone out after I left, and
-the house caught fire, mother!’
+the [[house]] caught [[Fire|fire]], mother!’
 
 The boy stood, for a moment, really bereft, by the apprehension he had
 conjured up, of the power to move.  The footsteps drew nearer, the door
-was opened with a hasty hand, and the child herself, pale and
+was opened with a hasty hand, and the [[Child|child]] herself, pale and
 breathless, and hastily wrapped in a few disordered garments, hurried
 into the room.
 
@@ -207,19 +207,19 @@ you--you--must never come near us any more!’
 
 ‘What!’ roared Kit.
 
-‘Never again,’ said the child.  ‘Don’t ask me why, for I don’t know.
+‘Never again,’ said the [[Child|child]].  ‘Don’t ask me why, for I don’t know.
 Pray don’t ask me why, pray don’t be sorry, pray don’t be vexed with
 me!  I have nothing to do with it indeed!’
 
 Kit looked at her with his eyes stretched wide; and opened and shut his
 mouth a great many times; but couldn’t get out one word.
 
-‘He complains and raves of you,’ said the child, ‘I don’t know what you
-have done, but I hope it’s nothing very bad.’
+‘He complains and raves of you,’ said the [[Child|child]], ‘I don’t know what you
+have done, but I [[Hope|hope]] it’s nothing very bad.’
 
 ‘I done!’ roared Kit.
 
-‘He cried that you’re the cause of all his misery,’ returned the child
+‘He cried that you’re the cause of all his misery,’ returned the [[Child|child]]
 with tearful eyes; ‘he screamed and called for you; they say you must
 not come near him or he will die.  You must not return to us any more.
 I came to tell you.  I thought it would be better that I should come
@@ -230,23 +230,23 @@ The unfortunate Kit looked at his young mistress harder and harder, and
 with eyes growing wider and wider, but was perfectly motionless and
 silent.
 
-‘I have brought his money for the week,’ said the child, looking to the
+‘I have brought his money for the week,’ said the [[Child|child]], looking to the
 woman and laying it on the table--‘and--and--a little more, for he was
-always good and kind to me.  I hope he will be sorry and do well
+always good and kind to me.  I [[Hope|hope]] he will be sorry and do [[Well|well]]
 somewhere else and not take this to heart too much.  It grieves me very
 much to part with him like this, but there is no help.  It must be
-done.  Good night!’
+done.  Good [[Night|night]]!’
 
-With the tears streaming down her face, and her slight figure trembling
+With the [[Tears|tears]] streaming down her face, and her slight figure trembling
 with the agitation of the scene she had left, the shock she had
 received, the errand she had just discharged, and a thousand painful
-and affectionate feelings, the child hastened to the door, and
+and affectionate feelings, the [[Child|child]] hastened to the door, and
 disappeared as rapidly as she had come.
 
-The poor woman, who had no cause to doubt her son, but every reason for
-relying on his honesty and truth, was staggered, notwithstanding, by
+The poor woman, who had no cause to [[Doubt|doubt]] her son, but every reason for
+relying on his honesty and [[Truth|truth]], was staggered, notwithstanding, by
 his not having advanced one word in his defence.  Visions of gallantry,
-knavery, robbery; and of the nightly absences from home for which he
+knavery, robbery; and of the nightly absences from [[Home|home]] for which he
 had accounted so strangely, having been occasioned by some unlawful
 pursuit; flocked into her brain and rendered her afraid to question
 him.  She rocked herself upon a chair, wringing her hands and weeping

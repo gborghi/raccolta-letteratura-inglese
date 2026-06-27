@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 14 (part 1)"
+title: "[[The Professor]] — Chapter 14 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -30,7 +30,7 @@ heard a rapid, gabbling sound, which warned me that the “priere du midi”
 
 been impious to intrude my heretical presence during its progress. How
 
-the repeater of the prayer did cackle and splutter! I never before or
+the repeater of the [[Prayer|prayer]] did cackle and splutter! I never before or
 
 since heard language enounced with such steam-engine haste. “Notre Pere
 
@@ -46,15 +46,15 @@ and striding in fast, as it was my wont to do now; for I had found
 
 that in entering with aplomb, and mounting the estrade with emphasis,
 
-consisted the grand secret of ensuring immediate silence. The
+consisted the grand secret of ensuring immediate [[Silence|silence]]. The
 
-folding-doors between the two classes, opened for the prayer, were
+folding-doors between the two classes, opened for the [[Prayer|prayer]], were
 
 instantly closed; a maitresse, work-box in hand, took her seat at her
 
 appropriate desk; the pupils sat still with their pens and books before
 
-them; my three beauties in the van, now well humbled by a demeanour of
+them; my three beauties in the van, now [[Well|well]] humbled by a demeanour of
 
 consistent coolness, sat erect with their hands folded quietly on their
 
@@ -72,7 +72,7 @@ orbs as interpreters, I do not think I could have refrained from giving
 
 a kind and encouraging, perhaps an ardent reply now and then; but as it
 
-was, I found pleasure in answering the glance of vanity with the gaze
+was, I found pleasure in answering the glance of [[Vanity|vanity]] with the gaze
 
 of stoicism. Youthful, fair, brilliant, as were many of my pupils, I can
 
@@ -80,9 +80,9 @@ truly say that in me they never saw any other bearing than such as an
 
 austere, though just guardian, might have observed towards them. If any
 
-doubt the accuracy of this assertion, as inferring more conscientious
+[[Doubt|doubt]] the accuracy of this assertion, as inferring more conscientious
 
-self-denial or Scipio-like self-control than they feel disposed to
+[[Self|self]]-denial or Scipio-like [[Self|self]]-control than they feel disposed to
 
 give me credit for, let them take into consideration the following
 
@@ -104,19 +104,19 @@ muslin, with hair perfumed and curled, neck scarcely shaded by aerial
 
 lace, round white arms circled with bracelets, feet dressed for the
 
-gliding dance. It is not his business to whirl her through the waltz,
+gliding [[Dance|dance]]. It is not his business to whirl her through the waltz,
 
-to feed her with compliments, to heighten her beauty by the flush of
+to feed her with compliments, to heighten her [[Beauty|beauty]] by the flush of
 
-gratified vanity. Neither does he encounter her on the smooth-rolled,
+gratified [[Vanity|vanity]]. Neither does he encounter her on the smooth-rolled,
 
 tree shaded Boulevard, in the green and sunny park, whither she repairs
 
 clad in her becoming walking dress, her scarf thrown with grace over her
 
-shoulders, her little bonnet scarcely screening her curls, the red rose
+shoulders, her little bonnet scarcely screening her curls, the red [[Rose|rose]]
 
-under its brim adding a new tint to the softer rose on her cheek; her
+under its brim adding a new tint to the softer [[Rose|rose]] on her cheek; her
 
 face and eyes, too, illumined with smiles, perhaps as transient as the
 
@@ -130,11 +130,11 @@ her Blenheim spaniel or Italian greyhound. No: he finds her in the
 
 schoolroom, plainly dressed, with books before her. Owing to her
 
-education or her nature books are to her a nuisance, and she opens them
+[[Education|education]] or her [[Nature|nature]] books are to her a nuisance, and she opens them
 
 with aversion, yet her teacher must instil into her mind the contents
 
-of these books; that mind resists the admission of grave information, it
+of these books; that mind resists the admission of [[Grave|grave]] information, it
 
 recoils, it grows restive, sullen tempers are shown, disfiguring frowns
 
@@ -156,9 +156,9 @@ tutor, female youth, female charms are like tapestry hangings, of which
 
 the wrong side is continually turned towards him; and even when he sees
 
-the smooth, neat external surface he so well knows what knots, long
+the smooth, neat external surface he so [[Well|well]] knows what knots, long
 
-stitches, and jagged ends are behind that he has scarce a temptation to
+stitches, and jagged ends are behind that he has scarce a [[Temptation|temptation]] to
 
 admire too fondly the seemly forms and bright colours exposed to general
 
@@ -166,7 +166,7 @@ view.
 
 
 
-Our likings are regulated by our circumstances. The artist prefers a
+Our likings are regulated by our circumstances. The [[artist]] prefers a
 
 hilly country because it is picturesque; the engineer a flat one because
 
@@ -176,9 +176,9 @@ woman”--she suits him; the fashionable young gentleman admires the
 
 fashionable young lady--she is of his kind; the toil-worn, fagged,
 
-probably irritable tutor, blind almost to beauty, insensible to airs and
+probably irritable tutor, blind almost to [[Beauty|beauty]], insensible to airs and
 
-graces, glories chiefly in certain mental qualities: application, love
+graces, glories chiefly in certain mental qualities: application, [[Love|love]]
 
 of knowledge, natural capacity, docility, truthfulness, gratefulness,
 
@@ -188,7 +188,7 @@ seeks, but seldom meets; these, if by chance he finds, he would fain
 
 retain for ever, and when separation deprives him of them he feels as if
 
-some ruthless hand had snatched from him his only ewe-lamb. Such being
+some ruthless hand had snatched from him his only ewe-[[Lamb|lamb]]. Such being
 
 the case, and the case it is, my readers will agree with me that there
 

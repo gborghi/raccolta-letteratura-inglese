@@ -1,5 +1,5 @@
 ---
-title: "Ms. Found in a Bottle (part 1)"
+title: "[[Ms. Found in a Bottle]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Ms.-Found-in-a-Bottle-(Poe)"
@@ -28,7 +28,7 @@ N’a plus rien a dissimuler.
 
       and length of years have driven me from the one, and estranged me
 
-      from the other. Hereditary wealth afforded me an education of no
+      from the other. Hereditary wealth afforded me an [[Education|education]] of no
 
       common order, and a contemplative turn of mind enabled me to
 
@@ -38,17 +38,17 @@ N’a plus rien a dissimuler.
 
       great delight; not from any ill-advised admiration of their
 
-      eloquent madness, but from the ease with which my habits of rigid
+      eloquent [[Madness|madness]], but from the ease with which my habits of rigid
 
       thought enabled me to detect their falsities. I have often been
 
       reproached with the aridity of my genius; a deficiency of
 
-      imagination has been imputed to me as a crime; and the Pyrrhonism
+      [[Imagination|imagination]] has been imputed to me as a crime; and the Pyrrhonism
 
       of my opinions has at all times rendered me notorious. Indeed, a
 
-      strong relish for physical philosophy has, I fear, tinctured my
+      strong relish for physical [[philosophy]] has, I [[Fear|fear]], tinctured my
 
       mind with a very common error of this age—I mean the habit of
 
@@ -58,13 +58,13 @@ N’a plus rien a dissimuler.
 
       person could be less liable than myself to be led away from the
 
-      severe precincts of truth by the ignes fatui of superstition. I
+      severe precincts of [[Truth|truth]] by the ignes fatui of superstition. I
 
       have thought proper to premise thus much, lest the incredible
 
       tale I have to tell should be considered rather the raving of a
 
-      crude imagination, than the positive experience of a mind to
+      crude [[Imagination|imagination]], than the positive experience of a mind to
 
       which the reveries of fancy have been a dead letter and a
 
@@ -84,7 +84,7 @@ N’a plus rien a dissimuler.
 
 
 
-      Our vessel was a beautiful ship of about four hundred tons,
+      Our vessel was a beautiful [[Ship|ship]] of about four hundred tons,
 
       copper-fastened, and built at Bombay of Malabar teak. She was
 
@@ -98,7 +98,7 @@ N’a plus rien a dissimuler.
 
 
 
-      We got under way with a mere breath of wind, and for many days
+      We got under way with a mere breath of [[Wind|wind]], and for many days
 
       stood along the eastern coast of Java, without any other incident
 
@@ -112,7 +112,7 @@ N’a plus rien a dissimuler.
 
       One evening, leaning over the taffrail, I observed a very
 
-      singular, isolated cloud, to the N.W. It was remarkable, as well
+      singular, isolated cloud, to the N.W. It was remarkable, as [[Well|well]]
 
       for its color, as from its being the first we had seen since our
 
@@ -124,19 +124,19 @@ N’a plus rien a dissimuler.
 
       long line of low beach. My notice was soon afterwards attracted
 
-      by the dusky-red appearance of the moon, and the peculiar
+      by the dusky-red appearance of the [[Moon|moon]], and the peculiar
 
       character of the sea. The latter was undergoing a rapid change,
 
-      and the water seemed more than usually transparent. Although I
+      and the [[Water|water]] seemed more than usually transparent. Although I
 
-      could distinctly see the bottom, yet, heaving the lead, I found
+      could distinctly see the [[Bottom|bottom]], yet, heaving the lead, I found
 
-      the ship in fifteen fathoms. The air now became intolerably hot,
+      the [[Ship|ship]] in fifteen fathoms. The air now became intolerably hot,
 
       and was loaded with spiral exhalations similar to those arising
 
-      from heat iron. As night came on, every breath of wind died away,
+      from heat iron. As [[Night|night]] came on, every breath of [[Wind|wind]] died away,
 
       an more entire calm it is impossible to conceive. The flame of a
 
@@ -170,9 +170,9 @@ N’a plus rien a dissimuler.
 
       noise, like that occasioned by the rapid revolution of a
 
-      mill-wheel, and before I could ascertain its meaning, I found the
+      mill-[[Wheel|wheel]], and before I could ascertain its meaning, I found the
 
-      ship quivering to its centre. In the next instant, a wilderness
+      [[Ship|ship]] quivering to its centre. In the next instant, a wilderness
 
       of foam hurled us upon our beam-ends, and, rushing over us fore
 
@@ -182,9 +182,9 @@ N’a plus rien a dissimuler.
 
       The extreme fury of the blast proved, in a great measure, the
 
-      salvation of the ship. Although completely water-logged, yet, as
+      salvation of the [[Ship|ship]]. Although completely [[Water|water]]-logged, yet, as
 
-      her masts had gone by the board, she rose, after a minute,
+      her masts had gone by the board, she [[Rose|rose]], after a minute,
 
       heavily from the sea, and, staggering awhile beneath the immense
 
@@ -194,7 +194,7 @@ N’a plus rien a dissimuler.
 
       By what miracle I escaped destruction, it is impossible to say.
 
-      Stunned by the shock of the water, I found myself, upon recovery,
+      Stunned by the shock of the [[Water|water]], I found myself, upon recovery,
 
       jammed in between the stern-post and rudder. With great
 
@@ -202,7 +202,7 @@ N’a plus rien a dissimuler.
 
       first, struck with the idea of our being among breakers; so
 
-      terrific, beyond the wildest imagination, was the whirlpool of
+      terrific, beyond the wildest [[Imagination|imagination]], was the whirlpool of
 
       mountainous and foaming ocean within which we were engulfed.
 

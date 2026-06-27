@@ -1,5 +1,5 @@
 ---
-title: "Maelzel's Chess-Player (part 7)"
+title: "[[Maelzel's Chess-Player]] (part 7)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Maelzel's-Chess-Player-(Poe)"
@@ -20,13 +20,13 @@ tags:
 
       I. The moves of the Turk are not made at regular intervals of
 
-      time, but accommodate themselves to the moves of the
+      [[Time|time]], but accommodate themselves to the moves of the
 
       antagonist—although this point (of regularity) so important in
 
       all kinds of mechanical contrivance, might have been readily
 
-      brought about by limiting the time allowed for the moves of the
+      brought about by limiting the [[Time|time]] allowed for the moves of the
 
       antagonist. For example, if this limit were three minutes, the
 
@@ -38,7 +38,7 @@ tags:
 
       regularity is unimportant to the action of the Automaton—in other
 
-      words, that the Automaton is not a _pure machine._
+      words, that the Automaton is not a _pure [[Machine|machine]]._
 
 
 
@@ -102,9 +102,9 @@ tags:
 
       3. The Automaton does not invariably win the game. Were the
 
-      machine a pure machine this would not be the case—it would always
+      [[Machine|machine]] a pure [[Machine|machine]] this would not be the case—it would always
 
-      win. The _principle _being discovered by which a machine can be
+      win. The _principle _being discovered by which a [[Machine|machine]] can be
 
       made to _play _a game of chess, an extension of the same
 
@@ -114,13 +114,13 @@ tags:
 
       of an antagonist. A little consideration will convince any one
 
-      that the difficulty of making a machine beat all games, Is not in
+      that the difficulty of making a [[Machine|machine]] beat all games, Is not in
 
       the least degree greater, as regards the principle of the
 
       operations necessary, than that of making it beat a single game.
 
-      If then we regard the Chess-Player as a machine, we must suppose,
+      If then we regard the Chess-Player as a [[Machine|machine]], we must suppose,
 
       (what is highly improbable,) that its inventor preferred leaving
 
@@ -130,7 +130,7 @@ tags:
 
       afford an argument against the possibility of its being a pure
 
-      machine—the very argument we now adduce.
+      [[Machine|machine]]—the very argument we now adduce.
 
 
 
@@ -148,7 +148,7 @@ tags:
 
       meditation, and the ingenious Baron Kempelen would have adapted
 
-      these movements (were the machine a pure machine) to occasions
+      these movements (were the [[Machine|machine]] a pure [[Machine|machine]]) to occasions
 
       proper for their display—that is, to occasions of complexity. But
 
@@ -156,19 +156,19 @@ tags:
 
       precisely to our supposition of a man in the interior. When
 
-      engaged in meditation about the game he has no time to think of
+      engaged in meditation about the game he has no [[Time|time]] to think of
 
       setting in motion the mechanism of the Automaton by which are
 
       moved the head and the eyes. When the game, however, is obvious,
 
-      he has time to look about him, and, accordingly, we see the head
+      he has [[Time|time]] to look about him, and, accordingly, we see the head
 
       shake and the eyes roll.
 
 
 
-      5. When the machine is rolled round to allow the spectators an
+      5. When the [[Machine|machine]] is rolled round to allow the spectators an
 
       examination of the back of the Turk, and when his drapery is
 
@@ -178,7 +178,7 @@ tags:
 
       scrutinizing this machinery while the Automaton was in motion,
 
-      that is to say while the whole machine was moving on the castors,
+      that is to say while the whole [[Machine|machine]] was moving on the castors,
 
       it appeared to us that certain portions of the mechanism changed
 

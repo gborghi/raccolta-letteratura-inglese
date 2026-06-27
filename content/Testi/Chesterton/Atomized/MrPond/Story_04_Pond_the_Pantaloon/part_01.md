@@ -1,5 +1,5 @@
 ---
-title: "MrPond — Pond the Pantaloon (part 1)"
+title: "[[MrPond]] — Pond the Pantaloon (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -22,7 +22,7 @@ POND THE PANTALOON
 
 "No, no, no," said Mr. Pond, with a gentle shrillness which he
 
-occasionally showed, when any doubt was thrown on the prosaic
+occasionally showed, when any [[Doubt|doubt]] was thrown on the prosaic
 
 precision of his statements or arguments.  "I did not say it was a
 
@@ -46,7 +46,7 @@ reported in that way, may be made to sound almost absurd."
 
 "Almost," said Captain Gahagan, nodding gravely and gazing at the
 
-little man opposite him, rather as if he were a mysterious monster
+little man opposite him, rather as if he were a mysterious [[Monster|monster]]
 
 in a tank.
 
@@ -54,7 +54,7 @@ in a tank.
 
 Mr. Pond was in his private tank, or private office, in a hive of
 
-Government offices, sitting at a desk and busy at the work of blue-
+[[government|Government]] offices, sitting at a desk and busy at the work of blue-
 
 pencilling the proofs of some official report; whence had arisen
 
@@ -70,27 +70,27 @@ watching other people work.
 
 
 
-"I may resemble Polonius," said Pond, modestly; and, indeed, his
+"I may resemble [[Polonius]]," said Pond, modestly; and, indeed, his
 
 old-fashioned beard, owlish expression and official courtliness
 
-made the comparison almost apt.  "I may be like Polonius; but I am
+made the comparison almost apt.  "I may be like [[Polonius]]; but I am
 
-not Polonius--which is just the point I wish to illustrate.  Hamlet
+not [[Polonius]]--which is just the point I wish to illustrate.  [[Hamlet]]
 
-told Polonius that a cloud in the sky was like a camel.  The effect
+told [[Polonius]] that a cloud in the sky was like a camel.  The effect
 
-would have been somewhat different if Hamlet had stated, seriously
+would have been somewhat different if [[Hamlet]] had stated, seriously
 
 and scientifically, that he had seen a camel in the sky.  In that
 
-case, Polonius might have been pardoned in regarding the Prince's
+case, [[Polonius]] might have been pardoned in regarding the Prince's
 
-madness as finally proved.  Touchy officials have been known to
+[[Madness|madness]] as finally proved.  Touchy officials have been known to
 
 express the view that you, my dear Gahagan, come into this office
 
-like a buffalo, and there 'lie wallowing through the long summer
+like a buffalo, and there 'lie wallowing through the long [[Summer|summer]]
 
 day,' as an outmoded poet puts it.  But if the authorities of the
 
@@ -102,7 +102,7 @@ inquiries."
 
 
 
-"No doubt you have my dossier," said Gahagan, "with official
+"No [[Doubt|doubt]] you have my dossier," said Gahagan, "with official
 
 calculations and statistics about the number of my legs, not to
 
@@ -110,7 +110,7 @@ mention my horns; all annotated with blue and red pencil--and most
 
 certainly with some very black marks against my name.  But that
 
-brings me back to the original subject of my simple wonder.  You
+brings me back to the original subject of my simple [[Wonder|wonder]].  You
 
 hardly seem to have noticed what was really peculiar in your own
 
@@ -126,7 +126,7 @@ faint smile.  "You would say, for instance, that my notes on this
 
 proof are in blue pencil; and yet--"  He held out a pencil with its
 
-red chalk point towards the other.  It looked like a mild conjuring
+red [[chalk]] point towards the other.  It looked like a mild conjuring
 
 trick, until he twiddled it so as to show it was one of those
 
@@ -152,7 +152,7 @@ impatience.  "I should say what I said before; that the queer thing
 
 about you is that you are quite blind to what was really mad in
 
-your statement.  You can't see the paradox in your own remark.  You
+your statement.  You can't see the [[Paradox|paradox]] in your own remark.  You
 
 can't see the point of your own remark."
 
@@ -184,7 +184,7 @@ breaking a crystal or shattering a perfectly rounded soap-bubble.
 
 To pierce the pure and spherical perfection of your maniacal calm
 
-would be like invading the innocence of a child.  If you really and
+would be like invading the [[innocence]] of a [[Child|child]].  If you really and
 
 truly do not know when you are talking nonsense, if you do not even
 
@@ -202,7 +202,7 @@ And he sauntered out of the room, swinging his stick, in the
 
 direction of the very important department presided over by Sir
 
-Hubert Wotton; that he might enjoy the inspiriting spectacle of
+[[Hubert]] Wotton; that he might enjoy the inspiriting spectacle of
 
 another friend doing his day's work and being interrupted by an
 
@@ -210,11 +210,11 @@ idle man.
 
 
 
-Sir Hubert Wotton, however, was of a type somewhat different from
+Sir [[Hubert]] Wotton, however, was of a type somewhat different from
 
 Mr. Pond; in that, even if he was busy, he was never fussy.  Mr.
 
-Pond was bent over the poised point of his blue pencil; Sir Hubert
+Pond was bent over the poised point of his blue pencil; Sir [[Hubert]]
 
 was first visible behind the red end of a cigar, which he was
 

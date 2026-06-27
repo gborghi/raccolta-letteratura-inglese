@@ -1,5 +1,5 @@
 ---
-title: "The Pit and the Pendulum (part 4)"
+title: "[[The Pit and the Pendulum]] (part 4)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -13,31 +13,31 @@ tags:
 </nav>
 
 
-      Looking upward, I surveyed the ceiling of my prison. It was some
+      Looking upward, I surveyed the ceiling of my [[Prison|prison]]. It was some
       thirty or forty feet overhead, and constructed much as the side
       walls. In one of its panels a very singular figure riveted my
-      whole attention. It was the painted figure of Time as he is
+      whole attention. It was the painted figure of [[Time]] as he is
       commonly represented, save that, in lieu of a scythe, he held
       what, at a casual glance, I supposed to be the pictured image of
       a huge pendulum such as we see on antique clocks. There was
-      something, however, in the appearance of this machine which
+      something, however, in the appearance of this [[Machine|machine]] which
       caused me to regard it more attentively. While I gazed directly
       upward at it (for its position was immediately over my own) I
       fancied that I saw it in motion. In an instant afterward the
       fancy was confirmed. Its sweep was brief, and of course slow. I
-      watched it for some minutes, somewhat in fear, but more in
-      wonder. Wearied at length with observing its dull movement, I
+      watched it for some minutes, somewhat in [[Fear|fear]], but more in
+      [[Wonder|wonder]]. Wearied at length with observing its dull movement, I
       turned my eyes upon the other objects in the cell.
 
       A slight noise attracted my notice, and, looking to the floor, I
       saw several enormous rats traversing it. They had issued from the
-      well, which lay just within view to my right. Even then, while I
+      [[Well|well]], which lay just within view to my right. Even then, while I
       gazed, they came up in troops, hurriedly, with ravenous eyes,
       allured by the scent of the meat. From this it required much
       effort and attention to scare them away.
 
       It might have been half an hour, perhaps even an hour, (for I
-      could take but imperfect note of time) before I again cast my
+      could take but imperfect note of [[Time|time]]) before I again cast my
       eyes upward. What I then saw confounded and amazed me. The sweep
       of the pendulum had increased in extent by nearly a yard. As a
       natural consequence, its velocity was also much greater. But what
@@ -50,7 +50,7 @@ tags:
       solid and broad structure above. It was appended to a weighty rod
       of brass, and the whole hissed as it swung through the air.
 
-      I could no longer doubt the doom prepared for me by monkish
+      I could no longer [[Doubt|doubt]] the doom prepared for me by monkish
       ingenuity in torture. My cognizance of the pit had become known
       to the inquisitorial agents—_the pit_, whose horrors had been
       destined for so bold a recusant as myself—the pit, typical of
@@ -71,10 +71,10 @@ tags:
       passed—it might have been that many days passed—ere it swept so
       closely over me as to fan me with its acrid breath. The odor of
       the sharp steel forced itself into my nostrils. I prayed—I
-      wearied heaven with my prayer for its more speedy descent. I grew
+      wearied heaven with my [[Prayer|prayer]] for its more speedy descent. I grew
       frantically mad, and struggled to force myself upward against the
       sweep of the fearful scimitar. And then I fell suddenly calm, and
-      lay smiling at the glittering death, as a child at some rare
+      lay smiling at the glittering [[Death|death]], as a [[Child|child]] at some rare
       bauble.
 
       There was another interval of utter insensibility; it was brief;
@@ -83,20 +83,20 @@ tags:
       there were demons who took note of my swoon, and who could have
       arrested the vibration at pleasure. Upon my recovery, too, I felt
       very—oh! inexpressibly—sick and weak, as if through long
-      inanition. Even amid the agonies of that period, the human nature
+      inanition. Even amid the agonies of that period, the human [[Nature|nature]]
       craved food. With painful effort I outstretched my left arm as
       far as my bonds permitted, and took possession of the small
       remnant which had been spared me by the rats. As I put a portion
       of it within my lips, there rushed to my mind a half formed
-      thought of joy—of hope. Yet what business had _I_ with hope? It
+      thought of joy—of [[Hope|hope]]. Yet what business had _I_ with [[Hope|hope]]? It
       was, as I say, a half formed thought—man has many such, which are
-      never completed. I felt that it was of joy—of hope; but felt also
+      never completed. I felt that it was of joy—of [[Hope|hope]]; but felt also
       that it had perished in its formation. In vain I struggled to
-      perfect—to regain it. Long suffering had nearly annihilated all
+      perfect—to regain it. Long [[Suffering|suffering]] had nearly annihilated all
       my ordinary powers of mind. I was an imbecile—an idiot.
 
       The vibration of the pendulum was at right angles to my length. I
-      saw that the crescent was designed to cross the region of the
+      saw that the crescent was designed to [[Cross|cross]] the region of the
       heart. It would fray the serge of my robe—it would return and
       repeat its operations—again—and again. Notwithstanding its
       terrifically wide sweep (some thirty feet or more) and the

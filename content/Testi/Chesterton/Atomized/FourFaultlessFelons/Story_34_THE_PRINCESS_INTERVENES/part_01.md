@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE PRINCESS INTERVENES (part 1)"
+title: "[[FourFaultlessFelons]] — THE PRINCESS INTERVENES (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -20,13 +20,13 @@ III THE PRINCESS INTERVENES
 
 THE moment that Colonel Grimm of the Pavonian Police saw that black face
 
-turned like a blue mask to the moon, he knew that the whole machinery of
+turned like a blue mask to the [[Moon|moon]], he knew that the whole machinery of
 
 the State must act together like one mantrap to catch one man. He wanted
 
 to catch the other three men who were his fellow-conspirators, of course,
 
-and he thanked his stars for the chance of catching them all together in
+and he thanked his [[Stars|stars]] for the chance of catching them all together in
 
 one room, but it was the fourth man whose presence made the huge and
 
@@ -44,7 +44,7 @@ For Grimm had a special score to settle with the great General Case. He
 
 had suspected months before that there might be movements on the frontier
 
-and attempts of the revolutionary foreign government to make signals to
+and attempts of the revolutionary foreign [[government]] to make signals to
 
 the discontented classes in Pavonia. He had repeatedly pressed diplomatic
 
@@ -54,7 +54,7 @@ representatives of Pavonian interests, and the answer had always been
 
 soothing and had always been the same. General Case gave his word of
 
-honour that he had not the faintest intention of meddling with the
+[[Honour|honour]] that he had not the faintest intention of meddling with the
 
 internal affairs of Pavonia. General Case was a plain soldier and no
 
@@ -66,21 +66,21 @@ was seriously ill, and had practically already retired. All these
 
 diplomatic reassurances had been dispatched one after another, lulling to
 
-a large extent the listless amiability of the King, favourably impressing
+a large extent the listless amiability of the [[King]], favourably impressing
 
-the fussy self-importance of the Prime Minister, and leaving only a very
+the fussy [[Self|self]]-importance of the Prime Minister, and leaving only a very
 
-vague and dying doubt even in the more cynical mind of the Chief of
+vague and dying [[Doubt|doubt]] even in the more cynical mind of the Chief of
 
 Police. And now this was the sequel, and the secret of what was really
 
 going on. This was how the aged and more or less dying African retired
 
-into private life. General Case was dangerously ill, but well enough to
+into private life. General Case was dangerously ill, but [[Well|well]] enough to
 
 go out to dinner. By a curious coincidence, he was dining with the three
 
-men vowed to destroy the Government with which he professed to be at
+men vowed to destroy the [[government|Government]] with which he professed to be at
 
 peace. The Chief of Police ground his teeth and looked down the street
 
@@ -90,23 +90,23 @@ it.
 
 
 
-It was likely enough that there was little time to lose. The presence of
+It was likely enough that there was little [[Time|time]] to lose. The presence of
 
 the foreign military leader might mean all sorts of things. It might mean
 
 tons of dynamite under the street where they stood; it might at least
 
-mean dumps of munitions in every dark corner of the city, accessible to
+mean dumps of munitions in every dark corner of the [[City|city]], accessible to
 
 the leaders of the mob. At the worst, there was one thing that might save
 
 them yet. And that was the instant, sudden and simultaneous arrest of all
 
-the four men in that house, leaving the whole revolution without leaders.
+the four men in that [[house]], leaving the whole revolution without leaders.
 
 Grimm waited till his little troop of armed men had drawn up before the
 
-house and then cautiously advanced up the steps to the door. He had
+[[house]] and then cautiously advanced up the steps to the door. He had
 
 already made certain that similar groups were posted behind and on all
 
@@ -122,9 +122,9 @@ and the light in the lighted dining-room instantly went out.
 
 
 
-For some time there was no other response; then he hammered on the door
+For some [[Time|time]] there was no other response; then he hammered on the door
 
-again, calling out in his strong voice in the King's name and threatening
+again, calling out in his strong voice in the [[King]]'s name and threatening
 
 that the door would be forced immediately. Then at last the door was
 
@@ -132,7 +132,7 @@ opened by the pale servant in livery, who had evidently received orders
 
 to delay the entrance of the police by every exhibition of stupidity and
 
-helplessness. With almost inconceivable absence of humour, he said that
+helplessness. With almost inconceivable absence of [[Humour|humour]], he said that
 
 his master and the company were engaged and could not see any visitors.
 
@@ -140,7 +140,7 @@ But Grimm paid no attention to what he guessed to be an order repeated by
 
 rote. Without further ceremony he pushed the servant aside, merely saying
 
-to his subordinate behind, "Keep hold of this fellow; we may as well bag
+to his subordinate behind, "Keep hold of this fellow; we may as [[Well|well]] bag
 
 him with the rest." Then he thrust his way down the dark passage and
 
@@ -186,7 +186,7 @@ as if the diner was not so easily to be detached from his dinner. But he
 
 and all the rest had vanished; suddenly, silently and completely, as the
 
-light had vanished from the window with the first blow upon the door.
+light had vanished from the [[Window|window]] with the first blow upon the door.
 
 
 
@@ -194,7 +194,7 @@ light had vanished from the window with the first blow upon the door.
 
 bolting for some other exit. Send the men down to the basement at once,
 
-and see that Hart is watching the house at the back. They can't be far
+and see that Hart is watching the [[house]] at the back. They can't be far
 
 off yet; this coffee is still quite hot and I think he was just going to
 

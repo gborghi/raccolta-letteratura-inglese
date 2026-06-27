@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — ORD KITCHENER (part 9)"
+title: "[[LordKitchener]] — ORD KITCHENER (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/LordKitchener-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 new for such adventurous men--the finding not of strange foes but of
 
-friends yet stranger. Many men of his blood and type--simple,
+friends yet stranger. Many men of his [[Blood|blood]] and type--simple,
 
 strenuous, somewhat prosaic--had threaded their way through some dark
 
@@ -28,7 +28,7 @@ continent--but which contains a much more noble treasure. The glory of
 
 a great people, long hidden from the English by accidents and by lies,
 
-lay before him at his journey's end. That journey was never ended. It
+lay before him at his [[Journey|journey]]'s end. That [[Journey|journey]] was never ended. It
 
 remains like a mighty bridge, the mightier for being broken, pointing
 
@@ -36,7 +36,7 @@ across a chasm, and promising a mightier thoroughfare between the east
 
 and west. In that waste of seas beyond the last northern islets where
 
-his ship went down one might fancy his spirit standing, a figure
+his [[Ship|ship]] went down one might fancy his spirit standing, a figure
 
 frustrated yet prophetic and pointing to the East, whence are the
 
@@ -46,9 +46,9 @@ light of the world and the reunion of Christian men.
 
 
 
-_Printed in Great Britain by_ THE FIELD & QUEEN (HORACE COX) LTD.,
+_Printed in Great Britain by_ THE FIELD & [[Queen|QUEEN]] (HORACE COX) LTD.,
 
-                 _Bream's Buildings, London, E.C. 4_.
+                 _Bream's Buildings, [[London]], E.C. 4_.
 
 
 

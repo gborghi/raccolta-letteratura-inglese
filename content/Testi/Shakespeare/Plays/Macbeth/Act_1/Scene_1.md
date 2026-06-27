@@ -1,5 +1,5 @@
 ---
-title: "Macbeth — Act I, Scene 1"
+title: "[[Macbeth]] — Act I, Scene 1"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/MACBETH-(Shakespeare)"
@@ -16,14 +16,14 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Thunder and lightning. Enter three Witches |
-| FIRST WITCH | When shall we three meet again?<br>In thunder, lightning, or in rain? |
-| SECOND WITCH | When the hurly-burly’s done,<br>When the battle’s lost and won. |
-| THIRD WITCH | That will be ere the set of sun. |
-| FIRST WITCH | Where the place? |
-| SECOND WITCH | Upon the heath. |
-| THIRD WITCH | There to meet with Macbeth. |
-| FIRST WITCH | I come, Grimalkin. |
-| SECOND WITCH | Paddock calls. |
-| THIRD WITCH | Anon. |
+| *(didascalia)* | Thunder and [[Lightning|lightning]]. Enter [[Three Witches|three Witches]] |
+| FIRST [[Witch|WITCH]] | When shall we three meet again?<br>In thunder, [[Lightning|lightning]], or in rain? |
+| SECOND [[Witch|WITCH]] | When the hurly-burly’s done,<br>When the battle’s lost and won. |
+| THIRD [[Witch|WITCH]] | That will be ere the set of sun. |
+| FIRST [[Witch|WITCH]] | Where the place? |
+| SECOND [[Witch|WITCH]] | Upon the heath. |
+| THIRD [[Witch|WITCH]] | There to meet with [[Macbeth]]. |
+| FIRST [[Witch|WITCH]] | I come, Grimalkin. |
+| SECOND [[Witch|WITCH]] | Paddock calls. |
+| THIRD [[Witch|WITCH]] | Anon. |
 | ALL | Fair is foul, and foul is fair,<br>Hover through the fog and filthy air. Exeunt |

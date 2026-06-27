@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 16"
+title: "[[Sense and Sensibility]] — Chapter 16"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -22,7 +22,7 @@ CHAPTER XVI.
 
 Marianne would have thought herself very inexcusable had she been able
 
-to sleep at all the first night after parting from Willoughby. She
+to [[Sleep|sleep]] at all the first [[Night|night]] after parting from Willoughby. She
 
 would have been ashamed to look her family in the face the next
 
@@ -32,11 +32,11 @@ when she lay down in it. But the feelings which made such composure a
 
 disgrace, left her in no danger of incurring it. She was awake the
 
-whole night, and she wept the greatest part of it. She got up with a
+whole [[Night|night]], and she wept the greatest part of it. She got up with a
 
 headache, was unable to talk, and unwilling to take any nourishment;
 
-giving pain every moment to her mother and sisters, and forbidding all
+giving [[Pain|pain]] every moment to her mother and sisters, and forbidding all
 
 attempt at consolation from either. Her sensibility was potent enough!
 
@@ -52,7 +52,7 @@ and crying over the present reverse for the chief of the morning.
 
 The evening passed off in the equal indulgence of feeling. She played
 
-over every favourite song that she had been used to play to Willoughby,
+over every favourite [[Song|song]] that she had been used to play to Willoughby,
 
 every air in which their voices had been oftenest joined, and sat at
 
@@ -64,7 +64,7 @@ gained; and this nourishment of grief was every day applied. She spent
 
 whole hours at the pianoforte alternately singing and crying; her voice
 
-often totally suspended by her tears. In books too, as well as in
+often totally suspended by her [[Tears|tears]]. In books too, as [[Well|well]] as in
 
 music, she courted the misery which a contrast between the past and
 
@@ -76,7 +76,7 @@ used to read together.
 
 Such violence of affliction indeed could not be supported for ever; it
 
-sunk within a few days into a calmer melancholy; but these employments,
+sunk within a few days into a calmer [[Melancholy|melancholy]]; but these employments,
 
 to which she daily recurred, her solitary walks and silent meditations,
 
@@ -106,9 +106,9 @@ Sir John’s hands.”
 
 
 
-Elinor could not deny the truth of this, and she tried to find in it a
+Elinor could not deny the [[Truth|truth]] of this, and she tried to find in it a
 
-motive sufficient for their silence. But there was one method so
+motive sufficient for their [[Silence|silence]]. But there was one method so
 
 direct, so simple, and in her opinion so eligible of knowing the real
 
@@ -146,7 +146,7 @@ be the last to whom the affair is made known, when circumstances make
 
 the revealment of it eligible. I would not attempt to force the
 
-confidence of any one; of a child much less; because a sense of duty
+confidence of any one; of a [[Child|child]] much less; because a sense of duty
 
 would prevent the denial which her wishes might direct.”
 
@@ -166,7 +166,7 @@ It was several days before Willoughby’s name was mentioned before
 
 Marianne by any of her family; Sir John and Mrs. Jennings, indeed, were
 
-not so nice; their witticisms added pain to many a painful hour;—but
+not so nice; their witticisms added [[Pain|pain]] to many a painful hour;—but
 
 one evening, Mrs. Dashwood, accidentally taking up a volume of
 
@@ -174,7 +174,7 @@ Shakespeare, exclaimed,
 
 
 
-“We have never finished Hamlet, Marianne; our dear Willoughby went away
+“We have never finished [[Hamlet]], Marianne; our dear Willoughby went away
 
 before we could get through it. We will put it by, that when he comes
 
@@ -210,7 +210,7 @@ found when the others set off. But at length she was secured by the
 
 exertions of Elinor, who greatly disapproved such continual seclusion.
 
-They walked along the road through the valley, and chiefly in silence,
+They walked along the [[Road|road]] through the valley, and chiefly in [[Silence|silence]],
 
 for Marianne’s _mind_ could not be controlled, and Elinor, satisfied
 
@@ -218,7 +218,7 @@ with gaining one point, would not then attempt more. Beyond the
 
 entrance of the valley, where the country, though still rich, was less
 
-wild and more open, a long stretch of the road which they had travelled
+wild and more open, a long stretch of the [[Road|road]] which they had travelled
 
 on first coming to Barton, lay before them; and on reaching that point,
 
@@ -254,7 +254,7 @@ person is not tall enough for him, and has not his air.”
 
 “He has, he has,” cried Marianne, “I am sure he has. His air, his coat,
 
-his horse. I knew how soon he would come.”
+his [[Horse|horse]]. I knew how soon he would come.”
 
 
 
@@ -268,11 +268,11 @@ yards of the gentleman. Marianne looked again; her heart sunk within
 
 her; and abruptly turning round, she was hurrying back, when the voices
 
-of both her sisters were raised to detain her; a third, almost as well
+of both her sisters were raised to detain her; a third, almost as [[Well|well]]
 
 known as Willoughby’s, joined them in begging her to stop, and she
 
-turned round with surprise to see and welcome Edward Ferrars.
+turned round with surprise to see and welcome [[Edward Ferrars]].
 
 
 
@@ -280,13 +280,13 @@ He was the only person in the world who could at that moment be
 
 forgiven for not being Willoughby; the only one who could have gained a
 
-smile from her; but she dispersed her tears to smile on _him_, and in
+smile from her; but she dispersed her [[Tears|tears]] to smile on _him_, and in
 
-her sister’s happiness forgot for a time her own disappointment.
+her sister’s happiness forgot for a [[Time|time]] her own disappointment.
 
 
 
-He dismounted, and giving his horse to his servant, walked back with
+He dismounted, and giving his [[Horse|horse]] to his servant, walked back with
 
 them to Barton, whither he was purposely coming to visit them.
 
@@ -304,7 +304,7 @@ which she had often observed at Norland in their mutual behaviour. On
 
 Edward’s side, more particularly, there was a deficiency of all that a
 
-lover ought to look and say on such an occasion. He was confused,
+[[Lover|lover]] ought to look and say on such an occasion. He was confused,
 
 seemed scarcely sensible of pleasure in seeing them, looked neither
 
@@ -322,9 +322,9 @@ contrast sufficiently striking to those of his brother elect.
 
 
 
-After a short silence which succeeded the first surprise and enquiries
+After a short [[Silence|silence]] which succeeded the first surprise and enquiries
 
-of meeting, Marianne asked Edward if he came directly from London. No,
+of meeting, Marianne asked Edward if he came directly from [[London]]. No,
 
 he had been in Devonshire a fortnight.
 
@@ -356,9 +356,9 @@ some friends near Plymouth.
 
 “Dear, dear Norland,” said Elinor, “probably looks much as it always
 
-does at this time of the year. The woods and walks thickly covered with
+does at this [[Time|time]] of the year. The woods and walks thickly covered with
 
-dead leaves.”
+dead [[Leaves|leaves]].”
 
 
 
@@ -366,7 +366,7 @@ dead leaves.”
 
 seen them fall! How have I delighted, as I walked, to see them driven
 
-in showers about me by the wind! What feelings have they, the season,
+in showers about me by the [[Wind|wind]]! What feelings have they, the season,
 
 the air altogether inspired! Now there is no one to regard them. They
 
@@ -378,7 +378,7 @@ possible from the sight.”
 
 “It is not every one,” said Elinor, “who has your passion for dead
 
-leaves.”
+[[Leaves|leaves]].”
 
 
 
@@ -394,15 +394,15 @@ to it, and be tranquil if you can. Look at those hills! Did you ever
 
 see their equals? To the left is Barton park, amongst those woods and
 
-plantations. You may see the end of the house. And there, beneath that
+plantations. You may see the end of the [[house]]. And there, beneath that
 
-farthest hill, which rises with such grandeur, is our cottage.”
+farthest [[Hill|hill]], which rises with such grandeur, is our cottage.”
 
 
 
 “It is a beautiful country,” he replied; “but these bottoms must be
 
-dirty in winter.”
+dirty in [[Winter|winter]].”
 
 
 

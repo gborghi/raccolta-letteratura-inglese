@@ -1,5 +1,5 @@
 ---
-title: "Troilus and Cressida — Act V, Scene 11 — exchange (SONNETS AND ‘A LOVER’S) [5]"
+title: "[[Troilus]] and [[Cressida]] — Act V, Scene 11 — exchange (SONNETS AND ‘A [[Lover|LOVER]]’S) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/TROILUS-AND-CRESSIDA-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| SONNETS AND | ‘A LOVER’S COMPLAINT’ |
+| SONNETS AND | ‘A [[Lover|LOVER]]’S COMPLAINT’ |

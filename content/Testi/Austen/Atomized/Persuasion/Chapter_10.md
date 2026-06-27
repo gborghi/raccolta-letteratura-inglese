@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 10"
+title: "[[Persuasion]] — Chapter 10"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Persuasion-(Austen)"
@@ -24,19 +24,19 @@ Other opportunities of making her observations could not fail to occur.
 
 Anne had soon been in company with all the four together often enough
 
-to have an opinion, though too wise to acknowledge as much at home,
+to have an opinion, though too wise to acknowledge as much at [[Home|home]],
 
 where she knew it would have satisfied neither husband nor wife; for
 
 while she considered Louisa to be rather the favourite, she could not
 
-but think, as far as she might dare to judge from memory and
+but think, as far as she might dare to judge from [[Memory|memory]] and
 
-experience, that Captain Wentworth was not in love with either. They
+experience, that [[Captain Wentworth]] was not in [[Love|love]] with either. They
 
-were more in love with him; yet there it was not love. It was a little
+were more in [[Love|love]] with him; yet there it was not [[Love|love]]. It was a little
 
-fever of admiration; but it might, probably must, end in love with
+fever of admiration; but it might, probably must, end in [[Love|love]] with
 
 some. Charles Hayter seemed aware of being slighted, and yet Henrietta
 
@@ -48,7 +48,7 @@ pointing out some of the evils they were exposing themselves to. She
 
 did not attribute guile to any. It was the highest satisfaction to her
 
-to believe Captain Wentworth not in the least aware of the pain he was
+to believe [[Captain Wentworth]] not in the least aware of the [[Pain|pain]] he was
 
 occasioning. There was no triumph, no pitiful triumph in his manner. He
 
@@ -70,9 +70,9 @@ dinner; and having been found on the occasion by Mr Musgrove with some
 
 large books before him, Mr and Mrs Musgrove were sure all could not be
 
-right, and talked, with grave faces, of his studying himself to death.
+right, and talked, with [[Grave|grave]] faces, of his studying himself to [[Death|death]].
 
-It was Mary’s hope and belief that he had received a positive dismissal
+It was Mary’s [[Hope|hope]] and belief that he had received a positive dismissal
 
 from Henrietta, and her husband lived under the constant dependence of
 
@@ -82,13 +82,13 @@ wise.
 
 
 
-One morning, about this time Charles Musgrove and Captain Wentworth
+One morning, about this [[Time|time]] Charles Musgrove and [[Captain Wentworth]]
 
 being gone a-shooting together, as the sisters in the Cottage were
 
-sitting quietly at work, they were visited at the window by the sisters
+sitting quietly at work, they were visited at the [[Window|window]] by the sisters
 
-from the Mansion-house.
+from the Mansion-[[house]].
 
 
 
@@ -100,7 +100,7 @@ they were going to take a _long_ walk, and, therefore, concluded Mary
 
 could not like to go with them; and when Mary immediately replied, with
 
-some jealousy at not being supposed a good walker, “Oh, yes, I should
+some [[Jealousy|jealousy]] at not being supposed a good walker, “Oh, yes, I should
 
 like to join you very much, I am very fond of a long walk;” Anne felt
 
@@ -140,11 +140,11 @@ Just as they were setting off, the gentlemen returned. They had taken
 
 out a young dog, who had spoilt their sport, and sent them back early.
 
-Their time and strength, and spirits, were, therefore, exactly ready
+Their [[Time|time]] and strength, and spirits, were, therefore, exactly ready
 
 for this walk, and they entered into it with pleasure. Could Anne have
 
-foreseen such a junction, she would have staid at home; but, from some
+foreseen such a junction, she would have staid at [[Home|home]]; but, from some
 
 feelings of interest and curiosity, she fancied now that it was too
 
@@ -164,11 +164,11 @@ with her brother and sister. Her _pleasure_ in the walk must arise from
 
 the exercise and the day, from the view of the last smiles of the year
 
-upon the tawny leaves, and withered hedges, and from repeating to
+upon the tawny [[Leaves|leaves]], and withered hedges, and from repeating to
 
 herself some few of the thousand poetical descriptions extant of
 
-autumn, that season of peculiar and inexhaustible influence on the mind
+[[Autumn|autumn]], that season of peculiar and inexhaustible influence on the mind
 
 of taste and tenderness, that season which had drawn from every poet,
 
@@ -178,7 +178,7 @@ feeling. She occupied her mind as much as possible in such like musings
 
 and quotations; but it was not possible, that when within reach of
 
-Captain Wentworth’s conversation with either of the Miss Musgroves, she
+[[Captain Wentworth]]’s conversation with either of the Miss Musgroves, she
 
 should not try to hear it; yet she caught little very remarkable. It
 
@@ -192,7 +192,7 @@ sister. This distinction appeared to increase, and there was one speech
 
 of Louisa’s which struck her. After one of the many praises of the day,
 
-which were continually bursting forth, Captain Wentworth added:—
+which were continually bursting forth, [[Captain Wentworth]] added:—
 
 
 
@@ -202,7 +202,7 @@ take a long drive this morning; perhaps we may hail them from some of
 
 these hills. They talked of coming into this side of the country. I
 
-wonder whereabouts they will upset to-day. Oh! it does happen very
+[[Wonder|wonder]] whereabouts they will upset to-day. Oh! it does happen very
 
 often, I assure you; but my sister makes nothing of it; she would as
 
@@ -226,21 +226,21 @@ It was spoken with enthusiasm.
 
 
 
-“Had you?” cried he, catching the same tone; “I honour you!” And there
+“Had you?” cried he, catching the same tone; “I [[Honour|honour]] you!” And there
 
-was silence between them for a little while.
+was [[Silence|silence]] between them for a little while.
 
 
 
 Anne could not immediately fall into a quotation again. The sweet
 
-scenes of autumn were for a while put by, unless some tender sonnet,
+scenes of [[Autumn|autumn]] were for a while put by, unless some tender [[Sonnet|sonnet]],
 
 fraught with the apt analogy of the declining year, with declining
 
-happiness, and the images of youth and hope, and spring, all gone
+happiness, and the images of youth and [[Hope|hope]], and [[spring]], all gone
 
-together, blessed her memory. She roused herself to say, as they struck
+together, blessed her [[Memory|memory]]. She roused herself to say, as they struck
 
 by order into another path, “Is not this one of the ways to Winthrop?”
 
@@ -250,25 +250,25 @@ But nobody heard, or, at least, nobody answered her.
 
 Winthrop, however, or its environs—for young men are, sometimes to be
 
-met with, strolling about near home—was their destination; and after
+met with, strolling about near [[Home|home]]—was their destination; and after
 
 another half mile of gradual ascent through large enclosures, where the
 
 ploughs at work, and the fresh made path spoke the farmer counteracting
 
-the sweets of poetical despondence, and meaning to have spring again,
+the sweets of poetical despondence, and meaning to have [[spring]] again,
 
-they gained the summit of the most considerable hill, which parted
+they gained the summit of the most considerable [[Hill|hill]], which parted
 
 Uppercross and Winthrop, and soon commanded a full view of the latter,
 
-at the foot of the hill on the other side.
+at the foot of the [[Hill|hill]] on the other side.
 
 
 
-Winthrop, without beauty and without dignity, was stretched before
+Winthrop, without [[Beauty|beauty]] and without dignity, was stretched before
 
-them; an indifferent house, standing low, and hemmed in by the barns
+them; an indifferent [[house]], standing low, and hemmed in by the barns
 
 and buildings of a farm-yard.
 
@@ -276,7 +276,7 @@ and buildings of a farm-yard.
 
 Mary exclaimed, “Bless me! here is Winthrop. I declare I had no idea!
 
-Well now, I think we had better turn back; I am excessively tired.”
+[[Well]] now, I think we had better turn back; I am excessively tired.”
 
 
 
@@ -304,7 +304,7 @@ he recommended the advantage of resting herself a quarter of an hour at
 
 Winthrop, as she felt so tired, she resolutely answered, “Oh! no,
 
-indeed! walking up that hill again would do her more harm than any
+indeed! walking up that [[Hill|hill]] again would do her more harm than any
 
 sitting down could do her good;” and, in short, her look and manner
 
@@ -320,19 +320,19 @@ Henrietta should just run down for a few minutes, to see their aunt and
 
 cousins, while the rest of the party waited for them at the top of the
 
-hill. Louisa seemed the principal arranger of the plan; and, as she
+[[Hill|hill]]. Louisa seemed the principal arranger of the plan; and, as she
 
-went a little way with them, down the hill, still talking to Henrietta,
+went a little way with them, down the [[Hill|hill]], still talking to Henrietta,
 
 Mary took the opportunity of looking scornfully around her, and saying
 
-to Captain Wentworth—
+to [[Captain Wentworth]]—
 
 
 
 “It is very unpleasant, having such connexions! But, I assure you, I
 
-have never been in the house above twice in my life.”
+have never been in the [[house]] above twice in my life.”
 
 
 
@@ -344,13 +344,13 @@ perfectly knew the meaning of.
 
 
 
-The brow of the hill, where they remained, was a cheerful spot: Louisa
+The brow of the [[Hill|hill]], where they remained, was a cheerful spot: Louisa
 
 returned; and Mary, finding a comfortable seat for herself on the step
 
-of a stile, was very well satisfied so long as the others all stood
+of a stile, was very [[Well|well]] satisfied so long as the others all stood
 
-about her; but when Louisa drew Captain Wentworth away, to try for a
+about her; but when Louisa drew [[Captain Wentworth]] away, to try for a
 
 gleaning of nuts in an adjoining hedge-row, and they were gone by
 
@@ -364,7 +364,7 @@ better also. She turned through the same gate, but could not see them.
 
 Anne found a nice seat for her, on a dry sunny bank, under the
 
-hedge-row, in which she had no doubt of their still being, in some spot
+hedge-row, in which she had no [[Doubt|doubt]] of their still being, in some spot
 
 or other. Mary sat down for a moment, but it would not do; she was sure
 
@@ -376,7 +376,7 @@ she overtook her.
 
 Anne, really tired herself, was glad to sit down; and she very soon
 
-heard Captain Wentworth and Louisa in the hedge-row, behind her, as if
+heard [[Captain Wentworth]] and Louisa in the hedge-row, behind her, as if
 
 making their way back along the rough, wild sort of channel, down the
 
@@ -418,7 +418,7 @@ up, out of nonsensical complaisance!”
 
 you gave just now, which did but confirm my own observations, the last
 
-time I was in company with him, I need not affect to have no
+[[Time|time]] I was in company with him, I need not affect to have no
 
 comprehension of what is going on. I see that more than a mere dutiful
 
@@ -436,7 +436,7 @@ decision and firmness, I see. If you value her conduct or happiness,
 
 infuse as much of your own spirit into her as you can. But this, no
 
-doubt, you have been always doing. It is the worst evil of too yielding
+[[Doubt|doubt]], you have been always doing. It is the worst evil of too yielding
 
 and indecisive a character, that no influence over it can be depended
 
@@ -448,7 +448,7 @@ he, catching one down from an upper bough, “to exemplify: a beautiful
 
 glossy nut, which, blessed with original strength, has outlived all the
 
-storms of autumn. Not a puncture, not a weak spot anywhere. This nut,”
+storms of [[Autumn|autumn]]. Not a puncture, not a weak spot anywhere. This nut,”
 
 he continued, with playful solemnity, “while so many of his brethren
 
@@ -484,9 +484,9 @@ Louisa spoke again.
 
 “Mary is good-natured enough in many respects,” said she; “but she does
 
-sometimes provoke me excessively, by her nonsense and pride—the Elliot
+sometimes provoke me excessively, by her nonsense and [[Pride|pride]]—the Elliot
 
-pride. She has a great deal too much of the Elliot pride. We do so wish
+[[Pride|pride]]. She has a great deal too much of the Elliot [[Pride|pride]]. We do so wish
 
 that Charles had married Anne instead. I suppose you know he wanted to
 
@@ -494,7 +494,7 @@ marry Anne?”
 
 
 
-After a moment’s pause, Captain Wentworth said—
+After a moment’s pause, [[Captain Wentworth]] said—
 
 
 
@@ -510,17 +510,17 @@ After a moment’s pause, Captain Wentworth said—
 
 
 
-“I do not exactly know, for Henrietta and I were at school at the time;
+“I do not exactly know, for Henrietta and I were at school at the [[Time|time]];
 
 but I believe about a year before he married Mary. I wish she had
 
 accepted him. We should all have liked her a great deal better; and
 
-papa and mamma always think it was her great friend Lady Russell’s
+papa and mamma always think it was her great friend [[Lady Russell]]’s
 
 doing, that she did not. They think Charles might not be learned and
 
-bookish enough to please Lady Russell, and that therefore, she
+bookish enough to please [[Lady Russell]], and that therefore, she
 
 persuaded Anne to refuse him.”
 
@@ -548,7 +548,7 @@ back with her to their former station, by the stile, felt some comfort
 
 in their whole party being immediately afterwards collected, and once
 
-more in motion together. Her spirits wanted the solitude and silence
+more in motion together. Her spirits wanted the [[Solitude|solitude]] and [[Silence|silence]]
 
 which only numbers could give.
 
@@ -558,15 +558,15 @@ Charles and Henrietta returned, bringing, as may be conjectured,
 
 Charles Hayter with them. The minutiae of the business Anne could not
 
-attempt to understand; even Captain Wentworth did not seem admitted to
+attempt to understand; even [[Captain Wentworth]] did not seem admitted to
 
 perfect confidence here; but that there had been a withdrawing on the
 
 gentleman’s side, and a relenting on the lady’s, and that they were now
 
-very glad to be together again, did not admit a doubt. Henrietta looked
+very glad to be together again, did not admit a [[Doubt|doubt]]. Henrietta looked
 
-a little ashamed, but very well pleased;—Charles Hayter exceedingly
+a little ashamed, but very [[Well|well]] pleased;—Charles Hayter exceedingly
 
 happy: and they were devoted to each other almost from the first
 
@@ -574,7 +574,7 @@ instant of their all setting forward for Uppercross.
 
 
 
-Everything now marked out Louisa for Captain Wentworth; nothing could
+Everything now marked out Louisa for [[Captain Wentworth]]; nothing could
 
 be plainer; and where many divisions were necessary, or even where they
 
@@ -590,7 +590,7 @@ necessarily belonged. She joined Charles and Mary, and was tired enough
 
 to be very glad of Charles’s other arm; but Charles, though in very
 
-good humour with her, was out of temper with his wife. Mary had shewn
+good [[Humour|humour]] with her, was out of temper with his wife. Mary had shewn
 
 herself disobliging to him, and was now to reap the consequence, which
 
@@ -610,13 +610,13 @@ a momentary glance of, and they could hardly get him along at all.
 
 This long meadow bordered a lane, which their footpath, at the end of
 
-it was to cross, and when the party had all reached the gate of exit,
+it was to [[Cross|cross]], and when the party had all reached the gate of exit,
 
-the carriage advancing in the same direction, which had been some time
+the carriage advancing in the same direction, which had been some [[Time|time]]
 
-heard, was just coming up, and proved to be Admiral Croft’s gig. He and
+heard, was just coming up, and proved to be [[Admiral Croft]]’s gig. He and
 
-his wife had taken their intended drive, and were returning home. Upon
+his wife had taken their intended drive, and were returning [[Home|home]]. Upon
 
 hearing how long a walk the young people had engaged in, they kindly
 
@@ -628,17 +628,17 @@ invitation was general, and generally declined. The Miss Musgroves were
 
 not at all tired, and Mary was either offended, by not being asked
 
-before any of the others, or what Louisa called the Elliot pride could
+before any of the others, or what Louisa called the Elliot [[Pride|pride]] could
 
-not endure to make a third in a one horse chaise.
+not endure to make a third in a one [[Horse|horse]] chaise.
 
 
 
 The walking party had crossed the lane, and were surmounting an
 
-opposite stile, and the Admiral was putting his horse in motion again,
+opposite stile, and the Admiral was putting his [[Horse|horse]] in motion again,
 
-when Captain Wentworth cleared the hedge in a moment to say something
+when [[Captain Wentworth]] cleared the hedge in a moment to say something
 
 to his sister. The something might be guessed by its effects.
 
@@ -646,7 +646,7 @@ to his sister. The something might be guessed by its effects.
 
 “Miss Elliot, I am sure _you_ are tired,” cried Mrs Croft. “Do let us
 
-have the pleasure of taking you home. Here is excellent room for three,
+have the pleasure of taking you [[Home|home]]. Here is excellent room for three,
 
 I assure you. If we were all like you, I believe we might sit four. You
 
@@ -662,7 +662,7 @@ came in support of his wife’s; they would not be refused; they
 
 compressed themselves into the smallest possible space to leave her a
 
-corner, and Captain Wentworth, without saying a word, turned to her,
+corner, and [[Captain Wentworth]], without saying a word, turned to her,
 
 and quietly obliged her to be assisted into the carriage.
 
@@ -688,13 +688,13 @@ high and unjust resentment, though perfectly careless of her, and
 
 though becoming attached to another, still he could not see her suffer,
 
-without the desire of giving her relief. It was a remainder of former
+without the [[Desire|desire]] of giving her relief. It was a remainder of former
 
-sentiment; it was an impulse of pure, though unacknowledged friendship;
+sentiment; it was an impulse of pure, though unacknowledged [[Friendship|friendship]];
 
 it was a proof of his own warm and amiable heart, which she could not
 
-contemplate without emotions so compounded of pleasure and pain, that
+contemplate without emotions so compounded of pleasure and [[Pain|pain]], that
 
 she knew not which prevailed.
 
@@ -720,9 +720,9 @@ this comes of the peace. If it were war now, he would have settled it
 
 long ago. We sailors, Miss Elliot, cannot afford to make long
 
-courtships in time of war. How many days was it, my dear, between the
+courtships in [[Time|time]] of war. How many days was it, my dear, between the
 
-first time of my seeing you and our sitting down together in our
+first [[Time|time]] of my seeing you and our sitting down together in our
 
 lodgings at North Yarmouth?”
 
@@ -738,11 +738,11 @@ together. I had known you by character, however, long before.”
 
 
 
-“Well, and I had heard of you as a very pretty girl, and what were we
+“[[Well]], and I had heard of you as a very pretty girl, and what were we
 
 to wait for besides? I do not like having such things so long in hand.
 
-I wish Frederick would spread a little more canvass, and bring us home
+I wish Frederick would spread a little more canvass, and bring us [[Home|home]]
 
 one of these young ladies to Kellynch. Then there would always be
 

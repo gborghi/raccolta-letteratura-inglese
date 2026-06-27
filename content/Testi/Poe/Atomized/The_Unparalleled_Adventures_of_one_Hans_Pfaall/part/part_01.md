@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 1)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-By late accounts from Rotterdam, that city seems to be in a high
+By late accounts from Rotterdam, that [[City|city]] seems to be in a high
 
       state of philosophical excitement. Indeed, phenomena have there
 
-      occurred of a nature so completely unexpected—so entirely
+      occurred of a [[Nature|nature]] so completely unexpected—so entirely
 
-      novel—so utterly at variance with preconceived opinions—as to
+      [[Novel|novel]]—so utterly at variance with preconceived opinions—as to
 
-      leave no doubt on my mind that long ere this all Europe is in an
+      leave no [[Doubt|doubt]] on my mind that long ere this all Europe is in an
 
       uproar, all physics in a ferment, all reason and astronomy
 
@@ -36,7 +36,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       mentioned, were assembled in the great square of the Exchange in
 
-      the well-conditioned city of Rotterdam. The day was
+      the [[Well|well]]-conditioned [[City|city]] of Rotterdam. The day was
 
       warm—unusually so for the season—there was hardly a breath of air
 
@@ -48,7 +48,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       fitful manner the blue vault of the firmament. Nevertheless,
 
-      about noon, a slight but remarkable agitation became apparent in
+      about [[Noon|noon]], a slight but remarkable agitation became apparent in
 
       the assembly: the clattering of ten thousand tongues succeeded;
 
@@ -102,7 +102,7 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       In the meantime, however, lower and still lower toward the goodly
 
-      city, came the object of so much curiosity, and the cause of so
+      [[City|city]], came the object of so much curiosity, and the cause of so
 
       much smoke. In a very few minutes it arrived near enough to be
 
@@ -136,15 +136,15 @@ By late accounts from Rotterdam, that city seems to be in a high
 
       apex, and, around the upper rim or base of the cone, a circle of
 
-      little instruments, resembling sheep-bells, which kept up a
+      little instruments, resembling sheep-[[Bells|bells]], which kept up a
 
       continual tinkling to the tune of Betty Martin. But still worse.
 
-      Suspended by blue ribbons to the end of this fantastic machine,
+      Suspended by blue ribbons to the end of this fantastic [[Machine|machine]],
 
       there hung, by way of car, an enormous drab beaver hat, with a
 
-      brim superlatively broad, and a hemispherical crown with a black
+      brim superlatively broad, and a hemispherical [[Crown|crown]] with a black
 
       band and a silver buckle. It is, however, somewhat remarkable
 
@@ -182,13 +182,13 @@ By late accounts from Rotterdam, that city seems to be in a high
 
 
 
-      The balloon (for such no doubt it was) had now descended to
+      The balloon (for such no [[Doubt|doubt]] it was) had now descended to
 
       within a hundred feet of the earth, allowing the crowd below a
 
       sufficiently distinct view of the person of its occupant. This
 
-      was in truth a very droll little somebody. He could not have been
+      was in [[Truth|truth]] a very droll little somebody. He could not have been
 
       more than two feet in height; but this altitude, little as it
 

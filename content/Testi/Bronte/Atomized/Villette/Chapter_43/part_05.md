@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 41 (part 5)"
+title: "[[Villette]] — Chapter 41 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -24,7 +24,7 @@ I scarce tried to hide it.
 “Nothing.”
 
 “Nothing! Your countenance changes: your colour and your very eyes
-fade. Nothing! You must be ill; you have some suffering; tell me what.”
+fade. Nothing! You must be ill; you have some [[Suffering|suffering]]; tell me what.”
 
 I had nothing to tell.
 
@@ -39,7 +39,7 @@ quick—but you will like her.”
 
 Such was my speech.
 
-“Do you wish to puzzle me? Do you know her? But, in truth, there _is_
+“Do you wish to puzzle me? Do you know her? But, in [[Truth|truth]], there _is_
 something. Again you are pale as that statue. Rely on Paul Carlos; tell
 him the grief.”
 
@@ -50,14 +50,14 @@ him.
 
 The name re-pronounced by his lips overcame me unaccountably. It did
 not prostrate—no, it stirred me up, running with haste and heat through
-my veins—recalling an hour of quick pain, many days and nights of
+my veins—recalling an hour of quick [[Pain|pain]], many days and nights of
 heart-sickness. Near me as he now sat, strongly and closely as he had
 long twined his life in mine—far as had progressed, and near as was
 achieved our minds’ and affections’ assimilation—the very suggestion of
 interference, of heart-separation, could be heard only with a
 fermenting excitement, an impetuous throe, a disdainful resolve, an
 ire, a resistance of which no human eye or cheek could hide the flame,
-nor any truth-accustomed human tongue curb the cry.
+nor any [[Truth|truth]]-accustomed human tongue curb the cry.
 
 “I want to tell you something,” I said: “I want to tell you all.”
 
@@ -66,15 +66,15 @@ your friend, if not Emanuel? Speak!”
 
 I spoke. All escaped from my lips. I lacked not words now; fast I
 narrated; fluent I told my tale; it streamed on my tongue. I went back
-to the night in the park; I mentioned the medicated draught—why it was
+to the [[Night|night]] in the park; I mentioned the medicated draught—why it was
 given—its goading effect—how it had torn rest from under my head,
 shaken me from my couch, carried me abroad with the lure of a vivid yet
-solemn fancy—a summer-night solitude on turf, under trees, near a deep,
+solemn fancy—a [[Summer|summer]]-[[Night|night]] [[Solitude|solitude]] on turf, under trees, near a deep,
 cool lakelet. I told the scene realized; the crowd, the masques, the
-music, the lamps, the splendours, the guns booming afar, the bells
+music, the lamps, the splendours, the guns booming afar, [[The Bells|the bells]]
 sounding on high. All I had encountered I detailed, all I had
 recognised, heard, and seen; how I had beheld and watched himself: how
-I listened, how much heard, what conjectured; the whole history, in
+I listened, how much heard, what conjectured; the whole [[history]], in
 brief, summoned to his confidence, rushed thither, truthful, literal,
 ardent, bitter.
 
@@ -85,18 +85,18 @@ glance: there was something in his face which tended neither to calm
 nor to put me down; he forgot his own doctrine, he forsook his own
 system of repression when I most challenged its exercise. I think I
 deserved strong reproof; but when have we our deserts? I merited
-severity; he looked indulgence. To my very self I seemed imperious and
+severity; he looked indulgence. To my very [[Self|self]] I seemed imperious and
 unreasonable, for I forbade Justine Marie my door and roof; he smiled,
 betraying delight. Warm, jealous, and haughty, I knew not till now that
-my nature had such a mood: he gathered me near his heart. I was full of
-faults; he took them and me all home. For the moment of utmost mutiny,
+my [[Nature|nature]] had such a mood: he gathered me near his heart. I was full of
+faults; he took them and me all [[Home|home]]. For the moment of utmost mutiny,
 he reserved the one deep spell of peace. These words caressed my ear:—
 
-“Lucy, take my love. One day share my life. Be my dearest, first on
+“Lucy, take my [[Love|love]]. One day share my life. Be my dearest, first on
 earth.”
 
 We walked back to the Rue Fossette by moonlight—such moonlight as fell
-on Eden—shining through the shades of the Great Garden, and haply
+on Eden—shining through the shades of the Great [[Garden]], and haply
 gilding a path glorious for a step divine—a Presence nameless. Once in
 their lives some men and women go back to these first fresh days of our
 great Sire and Mother—taste that grand morning’s dew—bathe in its
@@ -111,8 +111,8 @@ indeed, it seems, have liked him to marry her, with a view to securing
 her fortune in the family; but to himself the scheme was repugnant, and
 the idea totally inadmissible.
 
-We reached Madame Beck’s door. Jean Baptiste’s clock tolled nine. At
-this hour, in this house, eighteen months since, had this man at my
+We reached [[Madame Beck]]’s door. Jean Baptiste’s [[Clock|clock]] tolled nine. At
+this hour, in this [[house]], eighteen months since, had this man at my
 side bent before me, looked into my face and eyes, and arbitered my
 destiny. This very evening he had again stooped, gazed, and decreed.
 How different the look—how far otherwise the fate!

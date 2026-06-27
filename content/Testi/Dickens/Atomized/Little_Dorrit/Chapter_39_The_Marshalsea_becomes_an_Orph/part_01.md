@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 36: The Marshalsea becomes an Orphan (part 1)"
+title: "Little Dorrit — Chapter 36: The Marshalsea becomes an [[Orphan]] (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-CHAPTER 36. The Marshalsea becomes an Orphan
+CHAPTER 36. The Marshalsea becomes an [[Orphan]]
 
 
 And now the day arrived when Mr Dorrit and his family were to leave the
-prison for ever, and the stones of its much-trodden pavement were to
+[[Prison|prison]] for ever, and the stones of its much-trodden pavement were to
 know them no more.
 
 The interval had been short, but he had greatly complained of its
@@ -36,11 +36,11 @@ forgot whom he talked to.
 Towards the Marshal, who was a Marshal of many years’ standing, and
 with whom he had never had any previous difference, Mr Dorrit comported
 himself with severity. That officer, on personally tendering his
-congratulations, offered the free use of two rooms in his house for Mr
+congratulations, offered the free use of two rooms in his [[house]] for Mr
 Dorrit’s occupation until his departure. Mr Dorrit thanked him at the
 moment, and replied that he would think of it; but the Marshal was no
 sooner gone than he sat down and wrote him a cutting note, in which
-he remarked that he had never on any former occasion had the honour of
+he remarked that he had never on any former occasion had the [[Honour|honour]] of
 receiving his congratulations (which was true, though indeed there had
 not been anything particular to congratulate him upon), and that he
 begged, on behalf of himself and family, to repudiate the Marshal’s
@@ -56,9 +56,9 @@ Fanny and Mr Tip required no direction in making an appearance of great
 fashion and elegance; and the three passed this interval together at the
 best hotel in the neighbourhood--though truly, as Miss Fanny said, the
 best was very indifferent. In connection with that establishment, Mr
-Tip hired a cabriolet, horse, and groom, a very neat turn out, which
-was usually to be observed for two or three hours at a time gracing the
-Borough High Street, outside the Marshalsea court-yard. A modest
+Tip hired a cabriolet, [[Horse|horse]], and groom, a very neat turn out, which
+was usually to be observed for two or three hours at a [[Time|time]] gracing the
+Borough High Street, outside the Marshalsea [[Court|court]]-yard. A modest
 little hired chariot and pair was also frequently to be seen there;
 in alighting from and entering which vehicle, Miss Fanny fluttered the
 Marshal’s daughters by the display of inaccessible bonnets.
@@ -66,7 +66,7 @@ Marshal’s daughters by the display of inaccessible bonnets.
 A great deal of business was transacted in this short period. Among
 other items, Messrs Peddle and Pool, solicitors, of Monument Yard, were
 instructed by their client Edward Dorrit, Esquire, to address a letter
-to Mr Arthur Clennam, enclosing the sum of twenty-four pounds nine
+to Mr [[Arthur Clennam]], enclosing the sum of twenty-four pounds nine
 shillings and eightpence, being the amount of principal and interest
 computed at the rate of five per cent. per annum, in which their
 client believed himself to be indebted to Mr Clennam. In making this
@@ -80,7 +80,7 @@ be done, within the so-soon-to-be-orphaned Marshalsea, by Mr Dorrit
 so long its Father, chiefly arising out of applications made to him
 by Collegians for small sums of money. To these he responded with the
 greatest liberality, and with no lack of formality; always first writing
-to appoint a time at which the applicant might wait upon him in his
+to appoint a [[Time|time]] at which the applicant might wait upon him in his
 room, and then receiving him in the midst of a vast accumulation of
 documents, and accompanying his donation (for he said in every such
 case, ‘it is a donation, not a loan’) with a great deal of good counsel:
@@ -94,7 +94,7 @@ was creditable to the College, and made it famous in the newspapers.
 Perhaps more of them thought, too, than were quite aware of it, that the
 thing might in the lottery of chances have happened to themselves, or
 that something of the sort might yet happen to themselves some day or
-other. They took it very well. A few were low at the thought of being
+other. They took it very [[Well|well]]. A few were low at the thought of being
 left behind, and being left poor; but even these did not grudge the
 family their brilliant reverse. There might have been much more envy in
 politer places. It seems probable that mediocrity of fortune would have
@@ -108,8 +108,8 @@ answer. In that document he assured them, in a Royal manner, that he
 received the profession of their attachment with a full conviction
 of its sincerity; and again generally exhorted them to follow his
 example--which, at least in so far as coming into a great property was
-concerned, there is no doubt they would have gladly imitated. He took
+concerned, there is no [[Doubt|doubt]] they would have gladly imitated. He took
 the same occasion of inviting them to a comprehensive entertainment, to
 be given to the whole College in the yard, and at which he signified
-he would have the honour of taking a parting glass to the health and
+he would have the [[Honour|honour]] of taking a parting glass to the health and
 happiness of all those whom he was about to leave behind.

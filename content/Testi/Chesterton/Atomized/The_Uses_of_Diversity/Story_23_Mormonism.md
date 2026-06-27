@@ -1,5 +1,5 @@
 ---
-title: "The Uses of Diversity — Mormonism"
+title: "The Uses of Diversity — [[Mormonism]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/The-Uses-of-Diversity-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Mormonism
+[[Mormonism]]
 
 THERE is inevitably something comic (comic in the broad and vulgar style
 which all men ought to appreciate in its place) about the panic aroused
@@ -47,11 +47,11 @@ It might amount to little more than this, that the chief Elder
 may allow the hundred and fourteen wives to walk down the street
 like a girls' school, but he is not officially expected to take
 off his hat to each of them in turn.  Seriously speaking, however,
-I have little doubt that Elder Ward speaks the substantial truth,
+I have little [[Doubt|doubt]] that Elder Ward speaks the substantial [[Truth|truth]],
 and that polygamy is dying, or has died, among the Mormons.
 My reason for thinking this is simple:  it is that polygamy always
 tends to die out.  Even in the East I believe that, counting heads,
-it is by this time the exception rather than the rule.  Like slavery,
+it is by this [[Time|time]] the exception rather than the rule.  Like [[Slavery|slavery]],
 it is always being started, because of its obvious conveniences.
 It has only one small inconvenience, which is that it is intolerable.
 
@@ -67,26 +67,26 @@ But we are always saying to a Mormon or a Moslem--"Never mind about
 your religion, come to my arms."  To which he naturally replies--"But I
 do mind about my religion, and I advise you to mind your eye."
 
-About half the history now taught in schools and colleges
+About half the [[history]] now taught in schools and colleges
 is made windy and barren by this narrow notion of leaving
 out the theological theories.  The wars and Parliaments
 of the Puritans made absolutely no sense if we leave out
 the fact that Calvinism appeared to them to be the absolute
-metaphysical truth, unanswerable, unreplaceable, and the only
-thing worth having in the world.  The Crusades and dynastic
+metaphysical [[Truth|truth]], unanswerable, unreplaceable, and the only
+thing worth having in the world.  The [[Crusades]] and dynastic
 quarrels of the Norman and Angevin Kings make absolutely no sense
 if we leave out the fact that these men (with all their vices)
 were enthusiastic for the doctrine, discipline, and endowment
-of Catholicism.  Yet I have read a history of the Puritans
+of Catholicism.  Yet I have read a [[history]] of the Puritans
 by a modern Nonconformist in which the name of Calvin
-was not even mentioned, which is like writing a history
+was not even mentioned, which is like writing a [[history]]
 of the Jews without mentioning either Abraham or Moses.
-And I have never read any popular or educational history
+And I have never read any popular or educational [[history]]
 of England that gave the slightest hint of the motives in
 the human mind that covered England with abbeys and Palestine
 with banners.  Historians seem to have completely forgotten
 the two facts--first, that men act from ideas; and second,
-that it might, therefore, be as well to discover which ideas.
+that it might, therefore, be as [[Well|well]] to discover which ideas.
 The mediaevals did not believe primarily in "chivalry,"
 but in Catholicism, as producing chivalry among other things.
 The Puritans did not believe primarily in "righteousness,"
@@ -100,9 +100,9 @@ the banner above his own lances had been blessed by the Pope.
 Cromwell was in some ways a cynical and brutal soldier;
 but he did attach importance to the fact that he had
 gained assurance from on high in the Calvinistic scheme;
-that the Bible seemed to support him--in short, the most important
+that the [[Bible]] seemed to support him--in short, the most important
 moment in his own life, for him, was not when Charles I lost
-his head, but when Oliver Cromwell did not lose his soul.
+his head, but when [[Oliver]] Cromwell did not lose his [[Soul|soul]].
 If you leave these things out of the story, you are leaving
 out the story itself.  If William Rufus was only a red-haired
 man who liked hunting, why did he force Anselm's head under
@@ -110,27 +110,27 @@ a mitre, instead of forcing his head under a headsman's axe?
 If John Bunyan only cared for "righteousness," why was he in terror
 of being damned, when he knew he was rationally righteous?
 We shall never make anything of moral and religious movements
-in history until we begin to look at their theory as well as
+in [[history]] until we begin to look at their theory as [[Well|well]] as
 their practice.  For their practice (as in the case of the Mormons)
 is often so unfamiliar and frantic that it is quite unintelligible
 without their theory.
 
 I have not the space, even if I had the knowledge, to describe
-the fundamental theories of Mormonism about the universe.
+the fundamental theories of [[Mormonism]] about the universe.
 But they are extraordinarily interesting; and a proper
 understanding of them would certainly enable us to see daylight
 through the more perplexing or menacing customs of this community;
 and therefore to judge how far polygamy was in their scheme
-a permanent and self-renewing principle or (as is quite probable)
+a permanent and [[Self|self]]-renewing principle or (as is quite probable)
 a personal and unscrupulous accident.  The basic Mormon
 belief is one that comes out of the morning of the earth,
 from the most primitive and even infantile attitude.  Their chief
 dogma is that God is material, not that He was materialized once,
 as all Christians believe; nor that He is materialized specially,
 as all Catholics believe; but that He was materially embodied
-from all time; that He has a local habitation as well as a name.
+from all [[Time|time]]; that He has a local habitation as [[Well|well]] as a name.
 Under the influence of this barbaric but violently vivid conception,
-these people crossed a great desert with their guns and oxen,
+these people crossed a great [[Desert|desert]] with their guns and oxen,
 patiently, persistently, and courageously, as if they were following
 a vast and visible giant who was striding across the plains.
 In other words, this strange sect, by soaking itself solely

@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Man in the Passage (part 6)"
+title: "[[wifrb11]] — The Man in the Passage (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -14,28 +14,28 @@ tags:
 </nav>
 
 
-     "Oh! the devil with horns, no doubt," ejaculated Cowdray,
+     "Oh! the devil with horns, no [[Doubt|doubt]]," ejaculated Cowdray,
 sitting down in triumphant jocularity.  "It was the devil come
 to eat Protestants."
 
      "No," said the priest dispassionately; "I know who it was."
 
-     Those in court had been wrought up to an irrational,
+     Those in [[Court|court]] had been wrought up to an irrational,
 but real sense of some monstrosity.  They had forgotten the figure
 in the dock and thought only of the figure in the passage. 
 And the figure in the passage, described by three capable
-and respectable men who had all seen it, was a shifting nightmare:
+and respectable men who had all seen it, was a shifting [[nightmare]]:
 one called it a woman, and the other a beast, and the other a devil....
 
-     The judge was looking at Father Brown with level and piercing eyes. 
+     The judge was looking at [[Father Brown]] with level and piercing eyes. 
 "You are a most extraordinary witness," he said; "but there is something
-about you that makes me think you are trying to tell the truth. 
-Well, who was the man you saw in the passage?"
+about you that makes me think you are trying to tell the [[Truth|truth]]. 
+[[Well]], who was the man you saw in the passage?"
 
-     "He was myself," said Father Brown.
+     "He was myself," said [[Father Brown]].
 
      Butler, K.C., sprang to his feet in an extraordinary stillness,
-and said quite calmly:  "Your lordship will allow me to cross-examine?"
+and said quite calmly:  "Your lordship will allow me to [[Cross|cross]]-examine?"
 And then, without stopping, he shot at Brown the apparently
 disconnected question:  "You have heard about this dagger;
 you know the experts say the crime was committed with a short blade?"
@@ -56,7 +56,7 @@ just when she'd sent for me to settle their family troubles--
 and I came just too late, God forgive me!  But he died penitent--
 he just died of being penitent.  He couldn't bear what he'd done."
 
-     The general impression in court was that the little priest,
+     The general impression in [[Court|court]] was that the little priest,
 who was gobbling away, had literally gone mad in the box. 
 But the judge still looked at him with bright and steady eyes of interest;
 and the counsel for the defence went on with his questions unperturbed.
@@ -74,13 +74,13 @@ of the prisoner's room and lunged with the spear."
 
      "A panel?" repeated the barrister in a curious voice.
 
-     "It was a looking-glass on the other side," explained Father Brown. 
+     "It was a looking-glass on the other side," explained [[Father Brown]]. 
 "When I was in the dressing-room I noticed that some of them
 could probably be slid out into the passage."
 
-     There was another vast and unnatural silence, and this time
+     There was another vast and unnatural [[Silence|silence]], and this [[Time|time]]
 it was the judge who spoke.  "So you really mean that when you
-looked down that passage, the man you saw was yourself--in a mirror?"
+looked down that passage, the man you saw was yourself--in a [[Mirror|mirror]]?"
 
      "Yes, my lord; that was what I was trying to say," said Brown,
 "but they asked me for the shape; and our hats have corners
@@ -92,7 +92,7 @@ when Sir Wilson Seymour saw that wild what-you-call-him with curves
 and a woman's hair and a man's trousers, what he saw was
 Sir Wilson Seymour?"
 
-     "Yes, my lord," said Father Brown.
+     "Yes, my lord," said [[Father Brown]].
 
      "And you mean to say that when Captain Cutler saw that chimpanzee
 with humped shoulders and hog's bristles, he simply saw himself?"
@@ -104,7 +104,7 @@ it was hard to separate the cynicism and the admiration.
 "And can you tell us why," he asked, "you should know your own figure
 in a looking-glass, when two such distinguished men don't?"
 
-     Father Brown blinked even more painfully than before;
+     [[Father Brown]] blinked even more painfully than before;
 then he stammered:  "Really, my lord, I don't know unless it's because
 I don't look at it so often."
 

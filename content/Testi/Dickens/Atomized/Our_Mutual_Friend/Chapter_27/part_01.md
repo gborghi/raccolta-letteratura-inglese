@@ -34,36 +34,36 @@ conjuration and enchantment.
 
 The legal gentleman in Britannia’s confidence going straight from that
 lady to Veneering, thus commissioned, Veneering declares himself highly
-flattered, but requires breathing time to ascertain ‘whether his friends
+flattered, but requires breathing [[Time|time]] to ascertain ‘whether his friends
 will rally round him.’ Above all things, he says, it behoves him to be
 clear, at a crisis of this importance, ‘whether his friends will rally
 round him.’ The legal gentleman, in the interests of his client cannot
-allow much time for this purpose, as the lady rather thinks she knows
+allow much [[Time|time]] for this purpose, as the lady rather thinks she knows
 somebody prepared to put down six thousand pounds; but he says he will
 give Veneering four hours.
 
 Veneering then says to Mrs Veneering, ‘We must work,’ and throws himself
 into a Hansom cab. Mrs Veneering in the same moment relinquishes baby
-to Nurse; presses her aquiline hands upon her brow, to arrange the
+to [[Nurse]]; presses her aquiline hands upon her brow, to arrange the
 throbbing intellect within; orders out the carriage; and repeats in
-a distracted and devoted manner, compounded of Ophelia and any
-self-immolating female of antiquity you may prefer, ‘We must work.’
+a distracted and devoted manner, compounded of [[Ophelia]] and any
+[[Self|self]]-immolating female of antiquity you may prefer, ‘We must work.’
 
 Veneering having instructed his driver to charge at the Public in the
 streets, like the Life-Guards at Waterloo, is driven furiously to Duke
 Street, Saint James’s. There, he finds Twemlow in his lodgings, fresh
-from the hands of a secret artist who has been doing something to his
+from the hands of a secret [[artist]] who has been doing something to his
 hair with yolks of eggs. The process requiring that Twemlow shall, for
 two hours after the application, allow his hair to stick upright and dry
 gradually, he is in an appropriate state for the receipt of startling
-intelligence; looking equally like the Monument on Fish Street Hill, and
-King Priam on a certain incendiary occasion not wholly unknown as a neat
+intelligence; looking equally like the Monument on Fish Street [[Hill]], and
+[[King]] Priam on a certain incendiary occasion not wholly unknown as a neat
 point from the classics.
 
 ‘My dear Twemlow,’ says Veneering, grasping both his hands, ‘as the
 dearest and oldest of my friends—’
 
-(‘Then there can be no more doubt about it in future,’ thinks Twemlow,
+(‘Then there can be no more [[Doubt|doubt]] about it in future,’ thinks Twemlow,
 ‘and I AM!’)
 
 ‘—Are you of opinion that your cousin, Lord Snigsworth, would give his
@@ -92,7 +92,7 @@ heartily intending to keep his word.
 
 ‘Would you have any objection to write down to Snigsworthy Park, and ask
 this favour of Lord Snigsworth? Of course if it were granted I should
-know that I owed it solely to you; while at the same time you would put
+know that I owed it solely to you; while at the same [[Time|time]] you would put
 it to Lord Snigsworth entirely upon public grounds. Would you have any
 objection?’
 
@@ -130,7 +130,7 @@ for you.’
 Veneering blesses him again.
 
 ‘I’ll go,’ says Twemlow, in a rising hurry of spirits, ‘to the
-club;—let us see now; what o’clock is it?’
+club;—let us see now; what o’[[Clock|clock]] is it?’
 
 ‘Twenty minutes to eleven.’
 
@@ -139,7 +139,7 @@ never leave it all day.’
 
 Veneering feels that his friends are rallying round him, and says,
 ‘Thank you, thank you. I knew I could rely upon you. I said to Anastatia
-before leaving home just now to come to you—of course the first friend
+before leaving [[Home|home]] just now to come to you—of course the first friend
 I have seen on a subject so momentous to me, my dear Twemlow—I said to
 Anastatia, “We must work.”’
 

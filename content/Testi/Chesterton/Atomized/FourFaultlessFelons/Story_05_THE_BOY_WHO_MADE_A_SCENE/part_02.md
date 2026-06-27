@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE BOY WHO MADE A SCENE (part 2)"
+title: "[[FourFaultlessFelons]] — THE BOY WHO MADE A SCENE (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -30,7 +30,7 @@ them both. On the one hand, it is impossible entirely to repudiate our
 
 pledge. On the other hand, it is absurd to suppose that the recent
 
-atrocious crime does not necessarily modify the nature of that pledge. We
+atrocious crime does not necessarily modify the [[Nature|nature]] of that pledge. We
 
 can still make sure that our proclamation is a proclamation of a
 
@@ -74,7 +74,7 @@ now, but there are other things. The munitions are not--"
 
 
 
-"But in that case," came the mild but penetrating voice of Mr. Snow, "in
+"But in that case," came the mild but penetrating voice of Mr. [[Snow]], "in
 
 that case what becomes of the Shunamites?"
 
@@ -86,7 +86,7 @@ felt she could treat it as a rhetorical question. She forced herself to
 
 listen a little more closely to the views of the venerable mystic, and
 
-she only heard one more fragment of the political conversation.
+she only heard one more [[Fragment|fragment]] of the political conversation.
 
 
 
@@ -102,13 +102,13 @@ them when you publish your proclamation of reasonable liberty."
 
 
 
-Lord Tallboys made an abrupt movement in the garden chair, like one
+Lord Tallboys made an abrupt movement in the [[Garden|garden]] chair, like one
 
 breaking up a conference in some irritation; then he made a diversion by
 
 lifting a finger and signalling to his secretary Mr. Meade, who slid up
 
-to him and after a brief colloquy slid into the house. Released from the
+to him and after a brief colloquy slid into the [[house]]. Released from the
 
 strain of State affairs, Barbara fell once more under the spell of the
 
@@ -128,7 +128,7 @@ wilderness has been the playground of so many cranks. She softened a
 
 little towards the clerical crank and even accepted an invitation to his
 
-house on the day after the following, to see the documents and the
+[[house]] on the day after the following, to see the documents and the
 
 definite proof about the Shunamites. But she was still very vague about
 
@@ -138,7 +138,7 @@ what it was supposed to prove.
 
 He thanked her and said gravely: "If the prophecy is fulfilled now, there
 
-will be a grave calamity."
+will be a [[Grave|grave]] calamity."
 
 
 
@@ -148,11 +148,11 @@ were not fulfilled, it would be an even greater calamity."
 
 
 
-Even as she spoke there was a stir behind some of the garden palms and
+Even as she spoke there was a stir behind some of the [[Garden|garden]] palms and
 
 the pale and slightly gaping face of her brother appeared above the
 
-palm-leaves. The next moment she saw just behind him the secretary and
+palm-[[Leaves|leaves]]. The next moment she saw just behind him the secretary and
 
 the tutor; it was evident that his uncle had sent for him. Tom Traill had
 
@@ -172,7 +172,7 @@ shoulders were a little bowed like those of a drudge, though he was as
 
 yet hardly middle-aged. His plain and rugged face had a rather tired
 
-expression, as well it might. Teaching the defective is not always a
+expression, as [[Well|well]] it might. Teaching the defective is not always a
 
 hilarious parlour game.
 
@@ -182,7 +182,7 @@ Lord Tallboys had a brief and kindly conversation with the tutor. Lord
 
 Tallboys asked a few simple questions. Lord Tallboys gave a little
 
-lecture on education, still very kindly, but accompanied by the waving of
+lecture on [[Education|education]], still very kindly, but accompanied by the waving of
 
 the hands in rotation. On the one hand, the power to work was a necessity
 
@@ -210,17 +210,17 @@ the other hand. On the one hand. On the other hand. . . . Golly!"
 
 "Tom!" cried Olive on a sharp accent of agony and there was a ghastly
 
-silence over all the garden.
+[[Silence|silence]] over all the [[Garden|garden]].
 
 
 
-"Well," said the tutor in a reasonable undertone, which was as clear as a
+"[[Well]]," said the tutor in a reasonable undertone, which was as clear as a
 
 bell in that stillness, "you can't expect to have three hands, can you?"
 
 
 
-"Three hands?" repeated the boy, and then after a long silence, "Why, how
+"Three hands?" repeated the boy, and then after a long [[Silence|silence]], "Why, how
 
 could you?"
 
@@ -250,7 +250,7 @@ queer touch of exultation.
 
 Barbara stood staring as she listened to this extraordinary conversation
 
-in that deadly silence and that highly unsuitable social setting. The
+in that deadly [[Silence|silence]] and that highly unsuitable social setting. The
 
 most extraordinary thing about it was that the tutor said these crazy and
 
@@ -270,7 +270,7 @@ He was still quite dull and serious; but he had done the trick. The boy
 
 was distracted from his dislike of his uncle by the absurd image, just as
 
-a child in a temper is distracted by a new toy. Tom was now only looking
+a [[Child|child]] in a temper is distracted by a new toy. Tom was now only looking
 
 at the tutor and followed him everywhere with his eyes. Perhaps he was
 
@@ -286,13 +286,13 @@ political news on the next. On the following morning proclamations were
 
 posted everywhere announcing the just, reasonable and even generous
 
-compromise which His Majesty's Government was now offering as a fair and
+compromise which His Majesty's [[government|Government]] was now offering as a fair and
 
 final settlement of the serious social problems of Polybia and eastern
 
-Egypt. And on the following evening the news went through the town in one
+[[Egypt]]. And on the following evening the news went through the town in one
 
-blast, like the wind of the desert, that Viscount Tallboys, Governor of
+blast, like the [[Wind|wind]] of the [[Desert|desert]], that Viscount Tallboys, Governor of
 
 Polybia, had been shot down by the last of the line of olives, at the
 

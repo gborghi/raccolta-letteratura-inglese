@@ -1,5 +1,5 @@
 ---
-title: "The Man That Was Used Up (part 1)"
+title: "[[The Man That Was Used Up]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Man-That-Was-Used-Up-(Poe)"
@@ -32,19 +32,19 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       acquaintance of that truly fine-looking fellow, Brevet Brigadier
 
-      General John A. B. C. Smith. Some one _did_ introduce me to the
+      General John A. B. C. [[smith|Smith]]. Some one _did_ introduce me to the
 
       gentleman, I am sure—at some public meeting, I know very
 
-      well—held about something of great importance, no doubt—at some
+      [[Well|well]]—held about something of great importance, no [[Doubt|doubt]]—at some
 
       place or other, I feel convinced,—whose name I have unaccountably
 
-      forgotten. The truth is—that the introduction was attended, upon
+      forgotten. The [[Truth|truth]] is—that the introduction was attended, upon
 
       my part, with a degree of anxious embarrassment which operated to
 
-      prevent any definite impressions of either time or place. I am
+      prevent any definite impressions of either [[Time|time]] or place. I am
 
       constitutionally nervous—this, with me, is a family failing, and
 
@@ -68,11 +68,11 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       whole man, which spoke of high breeding, and hinted at high
 
-      birth. Upon this topic—the topic of Smith’s personal appearance—I
+      birth. Upon this topic—the topic of [[smith|Smith]]’s personal appearance—I
 
-      have a kind of melancholy satisfaction in being minute. His head
+      have a kind of [[Melancholy|melancholy]] satisfaction in being minute. His head
 
-      of hair would have done honor to a Brutus; nothing could be more
+      of hair would have done honor to a [[Brutus]]; nothing could be more
 
       richly flowing, or possess a brighter gloss. It was of a jetty
 
@@ -116,7 +116,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       of conscious inferiority into the countenance of the marble
 
-      Apollo. I have a passion for fine shoulders, and may say that I
+      [[Apollo]]. I have a passion for fine shoulders, and may say that I
 
       never beheld them in perfection before. The arms altogether were
 
@@ -138,7 +138,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       Chiponchipino, the sculptor, had but seen the legs of Brevet
 
-      Brigadier General John A. B. C. Smith.
+      Brigadier General John A. B. C. [[smith|Smith]].
 
 
 
@@ -176,7 +176,7 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
 
 
-      The kind friend who presented me to General Smith whispered in my
+      The kind friend who presented me to General [[smith|Smith]] whispered in my
 
       ear some few words of comment upon the man. He was a _remarkable_
 
@@ -184,13 +184,13 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
       men of the age. He was an especial favorite, too, with the
 
-      ladies—chiefly on account of his high reputation for courage.
+      ladies—chiefly on account of his high reputation for [[Courage|courage]].
 
 
 
       “In _that_ point he is unrivalled—indeed he is a perfect
 
-      desperado—a down-right fire-eater, and no mistake,” said my
+      desperado—a down-right [[Fire|fire]]-eater, and no mistake,” said my
 
       friend, here dropping his voice excessively low, and thrilling me
 
@@ -198,13 +198,13 @@ A TALE OF THE LATE BUGABOO AND KICKAPOO CAMPAIGN.
 
 
 
-      “A downright fire-eater, and _no_ mistake. Showed _that_, I
+      “A downright [[Fire|fire]]-eater, and _no_ mistake. Showed _that_, I
 
       should say, to some purpose, in the late tremendous swamp-fight
 
       away down South, with the Bugaboo and Kickapoo Indians.” [Here my
 
-      friend opened his eyes to some extent.] “Bless my soul!—blood and
+      friend opened his eyes to some extent.] “Bless my [[Soul|soul]]!—[[Blood|blood]] and
 
       thunder, and all that!—_prodigies_ of valor!—heard of him of
 

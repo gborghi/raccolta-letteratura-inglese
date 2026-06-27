@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 14 (part 1)"
+title: "[[Northanger Abbey]] — Chapter 14 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -30,15 +30,15 @@ victory itself was painful, and was heartily rejoiced therefore at
 
 neither seeing nor hearing anything of them. The Tilneys called for her
 
-at the appointed time; and no new difficulty arising, no sudden
+at the appointed [[Time|time]]; and no new difficulty arising, no sudden
 
 recollection, no unexpected summons, no impertinent intrusion to
 
 disconcert their measures, my heroine was most unnaturally able to
 
-fulfil her engagement, though it was made with the hero himself. They
+fulfil her engagement, though it was made with the [[Hero|hero]] himself. They
 
-determined on walking round Beechen Cliff, that noble hill whose
+determined on walking round Beechen Cliff, that noble [[Hill|hill]] whose
 
 beautiful verdure and hanging coppice render it so striking an object
 
@@ -48,7 +48,7 @@ from almost every opening in Bath.
 
 “I never look at it,” said Catherine, as they walked along the side of
 
-the river, “without thinking of the south of France.”
+the [[River|river]], “without thinking of the south of France.”
 
 
 
@@ -76,13 +76,13 @@ books.”
 
 “The person, be it gentleman or lady, who has not pleasure in a good
 
-novel, must be intolerably stupid. I have read all Mrs. Radcliffe’s
+[[Novel|novel]], must be intolerably stupid. I have read all Mrs. Radcliffe’s
 
 works, and most of them with great pleasure. The Mysteries of Udolpho,
 
 when I had once begun it, I could not lay down again; I remember
 
-finishing it in two days—my hair standing on end the whole time.”
+finishing it in two days—my hair standing on end the whole [[Time|time]].”
 
 
 
@@ -96,7 +96,7 @@ Hermitage Walk, and I was obliged to stay till you had finished it.”
 
 
 
-“Thank you, Eleanor—a most honourable testimony. You see, Miss Morland,
+“Thank you, [[Eleanor]]—a most honourable testimony. You see, Miss Morland,
 
 the injustice of your suspicions. Here was I, in my eagerness to get
 
@@ -120,7 +120,7 @@ novels amazingly.”
 
 
 
-“It is _amazingly;_ it may well suggest _amazement_ if they do—for they
+“It is _amazingly;_ it may [[Well|well]] suggest _amazement_ if they do—for they
 
 read nearly as many as women. I myself have read hundreds and hundreds.
 
@@ -134,11 +134,11 @@ leave you as far behind me as—what shall I say?—I want an appropriate
 
 simile.—as far as your friend Emily herself left poor Valancourt when
 
-she went with her aunt into Italy. Consider how many years I have had
+she went with her aunt into [[Italy]]. Consider how many years I have had
 
-the start of you. I had entered on my studies at Oxford, while you were
+the start of you. I had entered on my studies at [[Oxford]], while you were
 
-a good little girl working your sampler at home!”
+a good little girl working your sampler at [[Home|home]]!”
 
 
 
@@ -204,7 +204,7 @@ of reading?”
 
 
 
-“To say the truth, I do not much like any other.”
+“To say the [[Truth|truth]], I do not much like any other.”
 
 
 
@@ -214,13 +214,13 @@ of reading?”
 
 “That is, I can read poetry and plays, and things of that sort, and do
 
-not dislike travels. But history, real solemn history, I cannot be
+not dislike travels. But [[history]], real solemn [[history]], I cannot be
 
 interested in. Can you?”
 
 
 
-“Yes, I am fond of history.”
+“Yes, I am fond of [[history]].”
 
 
 
@@ -244,9 +244,9 @@ invention is what delights me in other books.”
 
 “Historians, you think,” said Miss Tilney, “are not happy in their
 
-flights of fancy. They display imagination without raising interest. I
+flights of fancy. They display [[Imagination|imagination]] without raising interest. I
 
-am fond of history—and am very well contented to take the false with
+am fond of [[history]]—and am very [[Well|well]] contented to take the false with
 
 the true. In the principal facts they have sources of intelligence in
 

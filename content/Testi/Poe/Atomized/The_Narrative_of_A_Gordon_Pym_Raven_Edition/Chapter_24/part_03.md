@@ -16,9 +16,9 @@ tags:
 
       ground, when I discovered the bows of two canoes projecting from
 
-      behind a large rock which ran out into the water. Toward these we
+      behind a large rock which ran out into the [[Water|water]]. Toward these we
 
-      now ran with all speed, and, reaching them, found them unguarded,
+      now ran with all [[Speed|speed]], and, reaching them, found them unguarded,
 
       and without any other freight than three of the large Gallipago
 
@@ -38,17 +38,17 @@ tags:
 
       oversight of which we had been guilty in leaving the other canoe
 
-      in the power of the savages, who, by this time, were not more
+      in the power of the savages, who, by this [[Time|time]], were not more
 
       than twice as far from the beach as ourselves, and were rapidly
 
-      advancing to the pursuit. No time was now to be lost. Our hope
+      advancing to the pursuit. No [[Time|time]] was now to be lost. Our [[Hope|hope]]
 
       was, at best, a forlorn one, but we had none other. It was very
 
       doubtful whether, with the utmost exertion, we could get back in
 
-      time to anticipate them in taking possession of the canoe; but
+      [[Time|time]] to anticipate them in taking possession of the canoe; but
 
       yet there was a chance that we could. We might save ourselves if
 
@@ -64,7 +64,7 @@ tags:
 
       paddling. As soon as the savages perceived this they redoubled
 
-      their yells, as well as their speed, and approached with
+      their yells, as [[Well|well]] as their [[Speed|speed]], and approached with
 
       inconceivable rapidity. We pulled, however, with all the energy
 
@@ -74,31 +74,31 @@ tags:
 
       his superior agility, Peters shooting him through the head with a
 
-      pistol as he approached the shore. The foremost among the rest of
+      [[Pistol|pistol]] as he approached the shore. The foremost among the rest of
 
       his party were probably some twenty or thirty paces distant as we
 
       seized upon the canoe. We at first endeavored to pull her into
 
-      the deep water, beyond the reach of the savages, but, finding her
+      the deep [[Water|water]], beyond the reach of the savages, but, finding her
 
-      too firmly aground, and there being no time to spare, Peters,
+      too firmly aground, and there being no [[Time|time]] to spare, Peters,
 
       with one or two heavy strokes from the butt of the musket,
 
       succeeded in dashing out a large portion of the bow and of one
 
-      side. We then pushed off. Two of the natives by this time had got
+      side. We then pushed off. Two of the natives by this [[Time|time]] had got
 
       hold of our boat, obstinately refusing to let go, until we were
 
       forced to despatch them with our knives. We were now clear off,
 
-      and making great way out to sea. The main body of the savages,
+      and making great way out to sea. The main [[Body|body]] of the savages,
 
       upon reaching the broken canoe, set up the most tremendous yell
 
-      of rage and disappointment conceivable. In truth, from everything
+      of rage and disappointment conceivable. In [[Truth|truth]], from everything
 
       I could see of these wretches, they appeared to be the most
 
@@ -106,7 +106,7 @@ tags:
 
       fiendish race of men upon the face of the globe. It is clear we
 
-      should have had no mercy had we fallen into their hands. They
+      should have had no [[Mercy|mercy]] had we fallen into their hands. They
 
       made a mad attempt at following us in the fractured canoe, but,
 
@@ -120,7 +120,7 @@ tags:
 
       was still sufficiently gloomy. We knew that four canoes of the
 
-      kind we had were at one time in the possession of the savages,
+      kind we had were at one [[Time|time]] in the possession of the savages,
 
       and were not aware of the fact (afterward ascertained from our
 
@@ -134,7 +134,7 @@ tags:
 
       Fearing this, we made every exertion to leave the island behind
 
-      us, and went rapidly through the water, forcing the prisoner to
+      us, and went rapidly through the [[Water|water]], forcing the prisoner to
 
       take a paddle. In about half an hour, when we had gained probably
 

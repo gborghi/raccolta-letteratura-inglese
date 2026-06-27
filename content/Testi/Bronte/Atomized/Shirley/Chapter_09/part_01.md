@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 9 (part 1)"
+title: "[[Shirley]] — Chapter 9 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -40,7 +40,7 @@ said to Sykes, whose senses were not acute enough to enable him to
 
 discover unassisted where his presence and conversation were a nuisance,
 
-"Come, sir; your road and mine lie partly together. Had we not better
+"Come, sir; your [[Road|road]] and mine lie partly together. Had we not better
 
 bear each other company? We'll bid Moore good-morning, and leave him to
 
@@ -56,11 +56,11 @@ the happy fancies he seems disposed to indulge."
 
 I've been helping you a little; I flatter myself not injudiciously. I
 
-thought it better not to lose time; so, while you were parleying with
+thought it better not to lose [[Time|time]]; so, while you were parleying with
 
 that down-looking gentleman--Farren I think his name is--I opened this
 
-back window, shouted to Murgatroyd, who was in the stable, to bring Mr.
+back [[Window|window]], shouted to Murgatroyd, who was in the stable, to bring Mr.
 
 Sykes's gig round; then I smuggled Sugden and brother Moses--wooden leg
 
@@ -90,9 +90,9 @@ only just what was absolutely necessary to the progress of business,
 
 but looked at him a good deal out of the corners of his eyes, frequently
 
-came to poke the counting-house fire for him, and once, as he was
+came to poke the counting-[[house]] [[Fire|fire]] for him, and once, as he was
 
-locking up for the day (the mill was then working short time, owing to
+locking up for the day (the mill was then working short [[Time|time]], owing to
 
 the slackness of trade), observed that it was a grand evening, and he
 
@@ -106,7 +106,7 @@ At this recommendation Mr. Moore burst into a short laugh, and after
 
 demanding of Joe what all this solicitude meant, and whether he took him
 
-for a woman or a child, seized the keys from his hand, and shoved him by
+for a woman or a [[Child|child]], seized the keys from his hand, and shoved him by
 
 the shoulders out of his presence. He called him back, however, ere he
 
@@ -114,15 +114,15 @@ had reached the yard-gate.
 
 
 
-"Joe, do you know those Farrens? They are not well off, I suppose?"
+"Joe, do you know those Farrens? They are not [[Well|well]] off, I suppose?"
 
 
 
-"They cannot be well off, sir, when they've not had work as a three
+"They cannot be [[Well|well]] off, sir, when they've not had work as a three
 
 month. Ye'd see yoursel' 'at William's sorely changed--fair paired.
 
-They've selled most o' t' stuff out o' th' house."
+They've selled most o' t' stuff out o' th' [[house]]."
 
 
 
@@ -138,9 +138,9 @@ They've selled most o' t' stuff out o' th' house."
 
 
 
-"Niver dacenter. Th' wife's a raight cant body, and as clean--ye mught
+"Niver dacenter. Th' wife's a raight cant [[Body|body]], and as clean--ye mught
 
-eat your porridge off th' house floor. They're sorely comed down. I wish
+eat your porridge off th' [[house]] floor. They're sorely comed down. I wish
 
 William could get a job as gardener or summat i' that way; he
 
@@ -170,29 +170,29 @@ Which Joe did accordingly.
 
 
 
-Spring evenings are often cold and raw, and though this had been a fine
+[[Spring]] evenings are often cold and raw, and though this had been a fine
 
 day, warm even in the morning and meridian sunshine, the air chilled at
 
-sunset, the ground crisped, and ere dusk a hoar frost was insidiously
+sunset, the ground crisped, and ere dusk a hoar [[Frost|frost]] was insidiously
 
 stealing over growing grass and unfolding bud. It whitened the pavement
 
 in front of Briarmains (Mr. Yorke's residence), and made silent havoc
 
-among the tender plants in his garden, and on the mossy level of his
+among the tender plants in his [[Garden|garden]], and on the mossy level of his
 
 lawn. As to that great tree, strong-trunked and broad-armed, which
 
-guarded the gable nearest the road, it seemed to defy a spring-night
+guarded the gable nearest the [[Road|road]], it seemed to defy a [[Spring|spring]]-[[Night|night]]
 
-frost to harm its still bare boughs; and so did the leafless grove of
+[[Frost|frost]] to harm its still bare boughs; and so did the leafless grove of
 
-walnut-trees rising tall behind the house.
+walnut-trees rising tall behind the [[house]].
 
 
 
-In the dusk of the moonless if starry night, lights from windows shone
+In the dusk of the moonless if starry [[Night|night]], lights from windows shone
 
 vividly. This was no dark or lonely scene, nor even a silent one.
 
@@ -204,21 +204,21 @@ fields was the only path conducting to it. Briarfield lay scarce a mile
 
 off; its hum was heard, its glare distinctly seen. Briar Chapel, a
 
-large, new, raw Wesleyan place of worship, rose but a hundred yards
+large, new, raw Wesleyan place of worship, [[Rose|rose]] but a hundred yards
 
-distant; and as there was even now a prayer-meeting being held within
+distant; and as there was even now a [[prayer]]-meeting being held within
 
 its walls, the illumination of its windows cast a bright reflection on
 
-the road, while a hymn of a most extraordinary description, such as a
+the [[Road|road]], while a [[Hymn|hymn]] of a most extraordinary description, such as a
 
-very Quaker might feel himself moved by the Spirit to dance to, roused
+very Quaker might feel himself moved by the Spirit to [[Dance|dance]] to, roused
 
 cheerily all the echoes of the vicinage. The words were distinctly
 
 audible by snatches. Here is a quotation or two from different strains;
 
-for the singers passed jauntily from hymn to hymn and from tune to tune,
+for the singers passed jauntily from [[Hymn|hymn]] to [[Hymn|hymn]] and from tune to tune,
 
 with an ease and buoyancy all their own:--
 
@@ -228,7 +228,7 @@ with an ease and buoyancy all their own:--
 
        This struggle for life,
 
-     This travail and pain,
+     This travail and [[Pain|pain]],
 
        This trembling and strife?
 
@@ -248,7 +248,7 @@ with an ease and buoyancy all their own:--
 
      The warrior's delight
 
-       Is slaughter and blood,
+       Is slaughter and [[Blood|blood]],
 
      His foes overturning,
 
@@ -256,11 +256,11 @@ with an ease and buoyancy all their own:--
 
      And this is with burning,
 
-       And fuel, and fire!"
+       And fuel, and [[Fire|fire]]!"
 
 
 
-Here followed an interval of clamorous prayer, accompanied by fearful
+Here followed an interval of clamorous [[prayer]], accompanied by fearful
 
 groans. A shout of "I've found liberty!" "Doad o' Bill's has fun'
 
@@ -268,6 +268,6 @@ liberty!" rang from the chapel, and out all the assembly broke again.
 
 
 
-    "What a mercy is this!
+    "What a [[Mercy|mercy]] is this!
 
       What a heaven of bliss!

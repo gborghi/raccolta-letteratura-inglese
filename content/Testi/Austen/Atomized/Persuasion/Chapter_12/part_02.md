@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 12 (part 2)"
+title: "[[Persuasion]] — Chapter 12 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -18,7 +18,7 @@ They had nearly done breakfast, when the sound of a carriage, (almost
 
 the first they had heard since entering Lyme) drew half the party to
 
-the window. It was a gentleman’s carriage, a curricle, but only coming
+the [[Window|window]]. It was a gentleman’s carriage, a curricle, but only coming
 
 round from the stable-yard to the front door; somebody must be going
 
@@ -30,7 +30,7 @@ The word curricle made Charles Musgrove jump up that he might compare
 
 it with his own; the servant in mourning roused Anne’s curiosity, and
 
-the whole six were collected to look, by the time the owner of the
+the whole six were collected to look, by the [[Time|time]] the owner of the
 
 curricle was to be seen issuing from the door amidst the bows and
 
@@ -38,7 +38,7 @@ civilities of the household, and taking his seat, to drive off.
 
 
 
-“Ah!” cried Captain Wentworth, instantly, and with half a glance at
+“Ah!” cried [[Captain Wentworth]], instantly, and with half a glance at
 
 Anne, “it is the very man we passed.”
 
@@ -46,13 +46,13 @@ Anne, “it is the very man we passed.”
 
 The Miss Musgroves agreed to it; and having all kindly watched him as
 
-far up the hill as they could, they returned to the breakfast table.
+far up the [[Hill|hill]] as they could, they returned to the breakfast table.
 
 The waiter came into the room soon afterwards.
 
 
 
-“Pray,” said Captain Wentworth, immediately, “can you tell us the name
+“Pray,” said [[Captain Wentworth]], immediately, “can you tell us the name
 
 of the gentleman who is just gone away?”
 
@@ -60,11 +60,11 @@ of the gentleman who is just gone away?”
 
 “Yes, Sir, a Mr Elliot, a gentleman of large fortune, came in last
 
-night from Sidmouth. Dare say you heard the carriage, sir, while you
+[[Night|night]] from Sidmouth. Dare say you heard the carriage, sir, while you
 
 were at dinner; and going on now for Crewkherne, in his way to Bath and
 
-London.”
+[[London]].”
 
 
 
@@ -98,13 +98,13 @@ master was a very rich gentleman, and would be a baronight some day.”
 
 “There! you see!” cried Mary in an ecstasy, “just as I said! Heir to
 
-Sir Walter Elliot! I was sure that would come out, if it was so. Depend
+[[Sir Walter Elliot]]! I was sure that would come out, if it was so. Depend
 
 upon it, that is a circumstance which his servants take care to
 
 publish, wherever he goes. But, Anne, only conceive how extraordinary!
 
-I wish I had looked at him more. I wish we had been aware in time, who
+I wish I had looked at him more. I wish we had been aware in [[Time|time]], who
 
 it was, that he might have been introduced to us. What a pity that we
 
@@ -114,7 +114,7 @@ Elliot countenance? I hardly looked at him, I was looking at the
 
 horses; but I think he had something of the Elliot countenance, I
 
-wonder the arms did not strike me! Oh! the great-coat was hanging over
+[[Wonder|wonder]] the arms did not strike me! Oh! the great-coat was hanging over
 
 the panel, and hid the arms, so it did; otherwise, I am sure, I should
 
@@ -126,9 +126,9 @@ mourning, one should have known him by the livery.”
 
 “Putting all these very extraordinary circumstances together,” said
 
-Captain Wentworth, “we must consider it to be the arrangement of
+[[Captain Wentworth]], “we must consider it to be the arrangement of
 
-Providence, that you should not be introduced to your cousin.”
+[[Providence]], that you should not be introduced to your cousin.”
 
 
 
@@ -142,13 +142,13 @@ desirable.
 
 
 
-At the same time, however, it was a secret gratification to herself to
+At the same [[Time|time]], however, it was a secret gratification to herself to
 
 have seen her cousin, and to know that the future owner of Kellynch was
 
 undoubtedly a gentleman, and had an air of good sense. She would not,
 
-upon any account, mention her having met with him the second time;
+upon any account, mention her having met with him the second [[Time|time]];
 
 luckily Mary did not much attend to their having passed close by him in
 
@@ -164,7 +164,7 @@ cousinly little interview must remain a perfect secret.
 
 “Of course,” said Mary, “you will mention our seeing Mr Elliot, the
 
-next time you write to Bath. I think my father certainly ought to hear
+next [[Time|time]] you write to Bath. I think my father certainly ought to hear
 
 of it; do mention all about him.”
 
@@ -180,7 +180,7 @@ many years back, she knew; Elizabeth’s particular share in it she
 
 suspected; and that Mr Elliot’s idea always produced irritation in both
 
-was beyond a doubt. Mary never wrote to Bath herself; all the toil of
+was beyond a [[Doubt|doubt]]. Mary never wrote to Bath herself; all the toil of
 
 keeping up a slow and unsatisfactory correspondence with Elizabeth fell
 
@@ -190,7 +190,7 @@ on Anne.
 
 Breakfast had not been long over, when they were joined by Captain and
 
-Mrs Harville and Captain Benwick; with whom they had appointed to take
+Mrs Harville and [[Captain Benwick]]; with whom they had appointed to take
 
 their last walk about Lyme. They ought to be setting off for Uppercross
 
@@ -200,11 +200,11 @@ as long as they could.
 
 
 
-Anne found Captain Benwick getting near her, as soon as they were all
+Anne found [[Captain Benwick]] getting near her, as soon as they were all
 
 fairly in the street. Their conversation the preceding evening did not
 
-disincline him to seek her again; and they walked together some time,
+disincline him to seek her again; and they walked together some [[Time|time]],
 
 talking as before of Mr Scott and Lord Byron, and still as unable as
 
@@ -212,7 +212,7 @@ before, and as unable as any other two readers, to think exactly alike
 
 of the merits of either, till something occasioned an almost general
 
-change amongst their party, and instead of Captain Benwick, she had
+change amongst their party, and instead of [[Captain Benwick]], she had
 
 Captain Harville by her side.
 
@@ -230,8 +230,8 @@ what can we do? We cannot part.”
 
 “No,” said Anne, “that I can easily believe to be impossible; but in
 
-time, perhaps—we know what time does in every case of affliction, and
+[[Time|time]], perhaps—we know what [[Time|time]] does in every case of affliction, and
 
 you must remember, Captain Harville, that your friend may yet be called
 
-a young mourner—only last summer, I understand.”
+a young mourner—only last [[Summer|summer]], I understand.”

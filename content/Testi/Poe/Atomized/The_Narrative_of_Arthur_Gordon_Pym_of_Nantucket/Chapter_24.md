@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 25"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 25"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -24,11 +24,11 @@ We now found ourselves in the wide and desolate Antarctic Ocean, in a
 
 latitude exceeding eighty-four degrees, in a frail canoe, and with no
 
-provision but the three turtles. The long Polar winter, too, could not
+provision but the three turtles. The long Polar [[Winter|winter]], too, could not
 
 be considered as far distant, and it became necessary that we should
 
-deliberate well upon the course to be pursued. There were six or seven
+deliberate [[Well|well]] upon the course to be pursued. There were six or seven
 
 islands in sight belonging to the same group, and distant from each
 
@@ -46,7 +46,7 @@ permit us to deny. To attempt, therefore, getting back, would be
 
 folly--especially at so late a period of the season. Only one course
 
-seemed to be left open for hope. We resolved to steer boldly to the
+seemed to be left open for [[Hope|hope]]. We resolved to steer boldly to the
 
 southward, where there was at least a probability of discovering other
 
@@ -56,17 +56,17 @@ lands, and more than a probability of finding a still milder climate.
 
 So far we had found the Antarctic, like the Arctic Ocean, peculiarly
 
-free from violent storms or immoderately rough water; but our canoe
+free from violent storms or immoderately rough [[Water|water]]; but our canoe
 
 was, at best, of frail structure, although large, and we set busily to
 
 work with a view of rendering her as safe as the limited means in our
 
-possession would admit. The body of the boat was of no better material
+possession would admit. The [[Body|body]] of the boat was of no better material
 
 than bark--the bark of a tree unknown. The ribs were of a tough osier,
 
-well adapted to the purpose for which it was used. We had fifty feet
+[[Well|well]] adapted to the purpose for which it was used. We had fifty feet
 
 room from stem to stern, from four to six in breadth, and in depth
 
@@ -126,23 +126,23 @@ done, we turned the bow full to the southward. The weather could by no
 
 means be considered disagreeable. We had a prevailing and very gentle
 
-wind from the northward, a smooth sea, and continual daylight. No ice
+[[Wind|wind]] from the northward, a smooth sea, and continual daylight. No ice
 
 whatever was to be seen; _nor did I ever see one particle of this after
 
 leaving the parallel of Bennet's Islet_. Indeed, the temperature of the
 
-water was here far too warm for its existence in any quantity. Having
+[[Water|water]] was here far too warm for its existence in any quantity. Having
 
 killed the largest of our tortoises, and obtained from him not only
 
-food, but a copious supply of water, we continued on our course,
+food, but a copious supply of [[Water|water]], we continued on our course,
 
 without any incident of moment, for perhaps seven or eight days, during
 
 which period we must have proceeded a vast distance to the southward,
 
-as the wind blew constantly with us, and a very strong current set
+as the [[Wind|wind]] blew constantly with us, and a very strong current set
 
 continually in the direction we were pursuing.
 
@@ -150,7 +150,7 @@ continually in the direction we were pursuing.
 
 _March 1._[7] Many unusual phenomena now indicated that we were
 
-entering upon a region of novelty and wonder. A high range of light
+entering upon a region of novelty and [[Wonder|wonder]]. A high range of light
 
 gray vapour appeared constantly in the southern horizon, flaring up
 
@@ -184,15 +184,15 @@ massacre, its inhabitants, and customs--but with these how can I _now_
 
 detain the reader? I may say, however, that we learned there were eight
 
-islands in the group--that they were governed by a common king, named
+islands in the group--that they were governed by a common [[King|king]], named
 
 _Tsalemon_ or _Psalemoun_, who resided in one of the smallest of the
 
 islands--that the black skins forming the dress of the warriors came
 
-from an animal of huge size to be found only in a valley near the court
+from an animal of huge size to be found only in a valley near the [[Court|court]]
 
-of the king--that the inhabitants of the group fabricated no other
+of the [[King|king]]--that the inhabitants of the group fabricated no other
 
 boats than the flat-bottomed rafts; the four canoes being all of the
 
@@ -210,11 +210,11 @@ sound, which we found it impossible to imitate, even after repeated
 
 endeavours, and which was precisely the same with the note of the black
 
-bittern we had eaten upon the summit of the hill.
+bittern we had eaten upon the summit of the [[Hill|hill]].
 
 
 
-_March 3._ The heat of the water was now truly remarkable, and its
+_March 3._ The heat of the [[Water|water]] was now truly remarkable, and its
 
 colour was undergoing a rapid change, being no longer transparent, but
 
@@ -246,7 +246,7 @@ murmurings of Tekeli-li! Tekeli-li!
 
 
 
-_March 5._ The wind had entirely ceased, but it was evident that we
+_March 5._ The [[Wind|wind]] had entirely ceased, but it was evident that we
 
 were still hurrying on to the southward, under the influence of a
 
@@ -254,13 +254,13 @@ powerful current. And now, indeed, it would seem reasonable that we
 
 should experience some alarm at the turn events were taking--but we
 
-felt none. The countenance of Peters indicated nothing of this nature,
+felt none. The countenance of Peters indicated nothing of this [[Nature|nature]],
 
 although it wore at times an expression I could not fathom. The Polar
 
-winter appeared to be coming on--but coming without its terrors. I felt
+[[Winter|winter]] appeared to be coming on--but coming without its terrors. I felt
 
-a _numbness_ of body and mind--a dreaminess of sensation--but this was
+a _numbness_ of [[Body|body]] and mind--a dreaminess of sensation--but this was
 
 all.
 
@@ -270,9 +270,9 @@ _March 6._ The gray vapour had now arisen many more degrees above the
 
 horizon, and was gradually losing its grayness of tint. The heat of the
 
-water was extreme, even unpleasant to the touch, and its milky hue was
+[[Water|water]] was extreme, even unpleasant to the touch, and its milky hue was
 
-more evident than ever. To-day a violent agitation of the water
+more evident than ever. To-day a violent agitation of the [[Water|water]]
 
 occurred very close to the canoe. It was attended, as usual, with a
 
@@ -280,11 +280,11 @@ wild flaring up of the vapour at its summit, and a momentary division
 
 at its base. A fine white powder, resembling ashes--but certainly not
 
-such--fell over the canoe and over a large surface of the water, as the
+such--fell over the canoe and over a large surface of the [[Water|water]], as the
 
 flickering died away among the vapour and the commotion subsided in the
 
-sea. Nu-Nu now threw himself on his face in the bottom of the boat, and
+sea. Nu-Nu now threw himself on his face in the [[Bottom|bottom]] of the boat, and
 
 no persuasions could induce him to arise.
 
@@ -296,7 +296,7 @@ countrymen in destroying our companions; but he appeared to be too
 
 utterly overcome by terror to afford us any rational reply. He still
 
-obstinately lay in the bottom of the boat; and, upon our reiterating
+obstinately lay in the [[Bottom|bottom]] of the boat; and, upon our reiterating
 
 the questions as to the motive, made use only of idiotic
 
@@ -308,13 +308,13 @@ never before seen the teeth of an inhabitant of Tsalal.
 
 
 
-_March 8._ To-day there floated by us one of the white animals whose
+_March 8._ To-day there floated by us one of the white [[Animals|animals]] whose
 
 appearance upon the beach at Tsalal had occasioned so wild a commotion
 
 among the savages. I would have picked it up, but there came over me a
 
-sudden listlessness, and I forbore. The heat of the water still
+sudden listlessness, and I forbore. The heat of the [[Water|water]] still
 
 increased, and the hand could no longer be endured within it. Peters
 
@@ -330,7 +330,7 @@ in vast quantities. The range of vapour to the southward had arisen
 
 prodigiously in the horizon, and began to assume more distinctness of
 
-form. I can liken it to nothing but a limitless cataract, rolling
+form. I can liken it to nothing but a limitless cataract, [[rolling]]
 
 silently into the sea from some immense and far-distant rampart in the
 
@@ -348,7 +348,7 @@ the bulwarks of the boat. We were nearly overwhelmed by the white ashy
 
 shower which settled upon us and upon the canoe, but melted into the
 
-water as it fell. The summit of the cataract was utterly lost in the
+[[Water|water]] as it fell. The summit of the cataract was utterly lost in the
 
 dimness and the distance. Yet we were evidently approaching it with a
 
@@ -364,13 +364,13 @@ soundless winds, tearing up the enkindled ocean in their course.
 
 _March 22._ The darkness had materially increased, relieved only by the
 
-glare of the water thrown back from the white curtain before us. Many
+glare of the [[Water|water]] thrown back from the white curtain before us. Many
 
-gigantic and pallidly white birds flew continuously now from beyond the
+gigantic and pallidly white [[Birds|birds]] flew continuously now from beyond the
 
 veil, and their scream was the eternal _Tekeli-li!_ as they retreated
 
-from our vision. Hereupon Nu-Nu stirred in the bottom of the boat; but,
+from our vision. Hereupon Nu-Nu stirred in the [[Bottom|bottom]] of the boat; but,
 
 upon touching him, we found his spirit departed. And now we rushed into
 
@@ -380,7 +380,7 @@ receive us. But there arose in our pathway a shrouded human figure,
 
 very far larger in its proportions than any dweller among men. And the
 
-hue of the skin of the figure was of the perfect whiteness of the snow.
+hue of the skin of the figure was of the perfect whiteness of the [[Snow|snow]].
 
 
 
@@ -396,9 +396,9 @@ NOTE.
 
 
 
-The circumstances connected with the late sudden and distressing death
+The circumstances connected with the late sudden and distressing [[Death|death]]
 
-of Mr. Pym are already well known to the public through the medium of
+of Mr. Pym are already [[Well|well]] known to the public through the medium of
 
 the daily press. It is feared that the few remaining chapters which
 
@@ -424,13 +424,13 @@ task--this for satisfactory reasons connected with the general
 
 inaccuracy of the details afforded him, and his disbelief in the entire
 
-truth of the latter portions of the narration. Peters, from whom some
+[[Truth|truth]] of the latter portions of the narration. Peters, from whom some
 
 information might be expected, is still alive, and a resident of
 
 Illinois, but cannot be met with at present. He may hereafter be found,
 
-and will, no doubt, afford material for a conclusion of Mr. Pym's
+and will, no [[Doubt|doubt]], afford material for a conclusion of Mr. Pym's
 
 account.
 
@@ -452,7 +452,7 @@ the Southern Ocean.
 
 
 
-On one point in the Narrative some remarks may be well offered; and it
+On one point in the Narrative some remarks may be [[Well|well]] offered; and it
 
 would afford the writer of this appendix much pleasure if what he may
 
@@ -478,7 +478,7 @@ This assertion is made in a manner so simple, and sustained by a
 
 species of demonstration so conclusive (viz., the fitting of the
 
-projections of the fragments found among the dust into the indentures
+projections of the fragments found among the [[Dust|dust]] into the indentures
 
 upon the wall), that we are forced to believe the writer in earnest;
 
@@ -486,11 +486,11 @@ and no reasonable reader should suppose otherwise. But as the facts in
 
 relation to _all_ the figures are most singular (especially when taken
 
-in connexion with statements made in the body of the narrative), it may
+in connexion with statements made in the [[Body|body]] of the narrative), it may
 
-be as well to say a word or two concerning them all--this, too, the
+be as [[Well|well]] to say a word or two concerning them all--this, too, the
 
-more especially as the facts in question have, beyond doubt, escaped
+more especially as the facts in question have, beyond [[Doubt|doubt]], escaped
 
 the attention of Mr. Poe.
 
@@ -508,7 +508,7 @@ main chambers, and were of totally distinct character), constitute an
 
 Ethiopian verbal root--the root [Illustration] "To be shady"--whence
 
-all the inflections of shadow or darkness.
+all the inflections of [[Shadow|shadow]] or darkness.
 
 
 
@@ -560,7 +560,7 @@ also was the shuddering exclamation of the captive Tsalalian upon
 
 encountering the _white_ materials in possession of Mr. Pym. This also
 
-was the shriek of the swift-flying, _white_, and gigantic birds which
+was the shriek of the swift-flying, _white_, and gigantic [[Birds|birds]] which
 
 issued from the vapoury _white_ curtain of the South. Nothing _white_
 
@@ -578,7 +578,7 @@ mysteriously written in their windings.
 
 
 
-_"I have graven it within the hills, and my vengeance upon the dust
+_"I have graven it within the hills, and my vengeance upon the [[Dust|dust]]
 
 within the rock."_
 

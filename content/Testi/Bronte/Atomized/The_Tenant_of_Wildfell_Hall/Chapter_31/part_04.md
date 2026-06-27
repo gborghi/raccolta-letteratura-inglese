@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 31 (part 4)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 31 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -16,19 +16,19 @@ tags:
 
 from the powerful madman that was striving to drag him from the room. I
 
-attempted to urge Arthur to interfere in behalf of his outraged guest,
+attempted to urge [[arthur|Arthur]] to interfere in behalf of his outraged guest,
 
 but he could do nothing but laugh.
 
 
 
-“Huntingdon, you fool, come and help me, can’t you!” cried Hattersley,
+“Huntingdon, you [[Fool|fool]], come and help me, can’t you!” cried Hattersley,
 
 himself somewhat weakened by his excesses.
 
 
 
-“I’m wishing you God-speed, Hattersley,” cried Arthur, “and aiding you
+“I’m wishing you God-[[Speed|speed]], Hattersley,” cried [[arthur|Arthur]], “and aiding you
 
 with my prayers: I can’t do anything else if my life depended on it!
 
@@ -48,7 +48,7 @@ door-post, to which he madly clung with all the energy of desperation.
 
 “_I_ shall take no part in your rude sports!” replied the lady coldly
 
-drawing back. “I wonder you can expect it.”
+drawing back. “I [[Wonder|wonder]] you can expect it.”
 
 
 
@@ -62,7 +62,7 @@ apartment, for nothing more was seen of him till the morning. Swearing
 
 and cursing like a maniac, Hattersley threw himself on to the ottoman
 
-beside the window. The door being now free, Milicent attempted to make
+beside the [[Window|window]]. The door being now free, Milicent attempted to make
 
 her escape from the scene of her husband’s disgrace; but he called her
 
@@ -76,7 +76,7 @@ back, and insisted upon her coming to him.
 
 “I want to know what’s the matter with you,” said he, pulling her on to
 
-his knee like a child. “What are you crying for, Milicent?—Tell me!”
+his knee like a [[Child|child]]. “What are you crying for, Milicent?—Tell me!”
 
 
 
@@ -100,7 +100,7 @@ for. Come, now, you _shall_ tell me!”
 
 
 
-“Do let me alone, Ralph! Remember, we are not at home.”
+“Do let me [[Alone|alone]], Ralph! Remember, we are not at [[Home|home]].”
 
 
 
@@ -120,7 +120,7 @@ fingers.
 
 “Come now, Hattersley, I can’t allow that,” said that gentleman,
 
-stepping up to the ill-assorted couple. “Let my sister alone, if you
+stepping up to the ill-assorted couple. “Let my sister [[Alone|alone]], if you
 
 please.”
 
@@ -150,13 +150,13 @@ me what you were crying for.”
 
 
 
-“I’ll tell you some other time,” murmured she, “when we are alone.”
+“I’ll tell you some other [[Time|time]],” murmured she, “when we are [[Alone|alone]].”
 
 
 
 “Tell me now!” said he, with another shake and a squeeze that made her
 
-draw in her breath and bite her lip to suppress a cry of pain.
+draw in her breath and bite her lip to suppress a cry of [[Pain|pain]].
 
 
 
@@ -178,7 +178,7 @@ She was silent.
 
 
 
-“Come, speak up, child!”
+“Come, speak up, [[Child|child]]!”
 
 
 
@@ -186,7 +186,7 @@ She was silent.
 
 
 
-“But you can say ‘yes’ or ‘no’ as well as ‘I can’t tell.’—Come!”
+“But you can say ‘yes’ or ‘no’ as [[Well|well]] as ‘I can’t tell.’—Come!”
 
 
 
@@ -204,13 +204,13 @@ before either I or her brother could come to her assistance, and made
 
 the best of her way out of the room, and, I suppose, up-stairs, without
 
-loss of time.
+loss of [[Time|time]].
 
 
 
-The next object of assault was Arthur, who sat opposite, and had, no
+The next object of assault was [[arthur|Arthur]], who sat opposite, and had, no
 
-doubt, richly enjoyed the whole scene.
+[[Doubt|doubt]], richly enjoyed the whole scene.
 
 
 
@@ -222,21 +222,21 @@ sitting there and laughing like an idiot!”
 
 “Oh, Hattersley,” cried he, wiping his swimming eyes—“you’ll be the
 
-death of me.”
+[[Death|death]] of me.”
 
 
 
 “Yes, I will, but not as you suppose: I’ll have the heart out of your
 
-body, man, if you irritate me with any more of that imbecile
+[[Body|body]], man, if you irritate me with any more of that imbecile
 
 laughter!—What! are you at it yet?—There! see if that’ll settle you!”
 
 cried Hattersley, snatching up a footstool and hurting it at the head
 
-of his host; but he as well as missed his aim, and the latter still sat
+of his host; but he as [[Well|well]] as missed his aim, and the latter still sat
 
-collapsed and quaking with feeble laughter, with tears running down his
+collapsed and quaking with feeble laughter, with [[Tears|tears]] running down his
 
 face: a deplorable spectacle indeed.
 
@@ -246,7 +246,7 @@ Hattersley tried cursing and swearing, but it would not do: he then
 
 took a number of books from the table beside him, and threw them, one
 
-by one, at the object of his wrath; but Arthur only laughed the more;
+by one, at the object of his wrath; but [[arthur|Arthur]] only laughed the more;
 
 and, finally, Hattersley rushed upon him in a frenzy and seizing him by
 
@@ -280,25 +280,25 @@ now, but sick and stupid. I will write no more about _that_.
 
 Such disgraceful scenes (or nearly such) have been repeated more than
 
-once. I don’t say much to Arthur about it, for, if I did, it would do
+once. I don’t say much to [[arthur|Arthur]] about it, for, if I did, it would do
 
 more harm than good; but I let him know that I intensely dislike such
 
-exhibitions; and each time he has promised they should never again be
+exhibitions; and each [[Time|time]] he has promised they should never again be
 
-repeated. But I fear he is losing the little self-command and
+repeated. But I [[Fear|fear]] he is losing the little [[Self|self]]-command and
 
-self-respect he once possessed: formerly, he would have been ashamed to
+[[Self|self]]-respect he once possessed: formerly, he would have been ashamed to
 
 act thus—at least, before any other witnesses than his boon companions,
 
 or such as they. His friend Hargrave, with a prudence and
 
-self-government that I envy for _him_, never disgraces himself by
+[[Self|self]]-[[government]] that I envy for _him_, never disgraces himself by
 
 taking more than sufficient to render him a little “elevated,” and is
 
-always the first to leave the table after Lord Lowborough, who, wiser
+always the first to leave the table after [[Lord Lowborough]], who, wiser
 
 still, perseveres in vacating the dining-room immediately after us: but
 
@@ -316,8 +316,8 @@ late she has comported herself with wonderful propriety towards him,
 
 treating him with more uniform kindness and consideration than ever I
 
-have observed her to do before. I date the time of this improvement
+have observed her to do before. I date the [[Time|time]] of this improvement
 
-from the period when she ceased to hope and strive for Arthur’s
+from the period when she ceased to [[Hope|hope]] and strive for [[arthur|Arthur]]’s
 
 admiration.

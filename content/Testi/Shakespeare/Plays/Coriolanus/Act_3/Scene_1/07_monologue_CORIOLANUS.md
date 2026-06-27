@@ -1,5 +1,5 @@
 ---
-title: "Coriolanus — Act III, Scene 1 — monologue (CORIOLANUS) [7]"
+title: "[[Coriolanus]] — Act III, Scene 1 — monologue ([[Coriolanus|CORIOLANUS]]) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/CORIOLANUS-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| CORIOLANUS | No, take more. What may be sworn by, both divine and human, Seal what I end withal! This double worship, Where one part does disdain with cause, the other Insult without all reason, where gentry, title, wisdom Cannot conclude but by the yea and no Of general ignorance, it must omit Real necessities, and give way the while To unstable slightness. Purpose so barred, it follows Nothing is done to purpose. Therefore beseech you— You that will be less fearful than discreet, That love the fundamental part of state More than you doubt the change on‘t, that prefer A noble life before a long, and wish To jump a body with a dangerous physic That’s sure of death without it—at once pluck out The multitudinous tongue; let them not lick The sweet which is their poison. Your dishonour Mangles true judgement, and bereaves the state Of that integrity which should become’t, Not having the power to do the good it would For th’ill which doth control’t. |
+| [[Coriolanus|CORIOLANUS]] | No, take more. What may be sworn by, both divine and human, Seal what I end withal! This [[Double|double]] worship, Where one part does disdain with cause, the other Insult without all reason, where gentry, title, wisdom Cannot conclude but by the yea and no Of general ignorance, it must omit Real necessities, and give way the while To unstable slightness. Purpose so barred, it follows Nothing is done to purpose. Therefore beseech you— You that will be less fearful than discreet, That [[Love|love]] the fundamental part of state More than you [[Doubt|doubt]] the change on‘t, that prefer A noble life before a long, and wish To jump a [[Body|body]] with a dangerous physic That’s sure of [[Death|death]] without it—at once pluck out The multitudinous tongue; let them not lick The sweet which is their [[Poison|poison]]. Your dishonour Mangles true judgement, and bereaves the state Of that integrity which should become’t, Not having the power to do the good it would For th’ill which doth control’t. |

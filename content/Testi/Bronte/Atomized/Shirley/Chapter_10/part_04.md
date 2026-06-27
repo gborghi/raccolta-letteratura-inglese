@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 10 (part 4)"
+title: "[[Shirley]] — Chapter 10 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -34,11 +34,11 @@ existence which is given away to others, for want of something of your
 
 own to bestow it on? I suspect there is. Does virtue lie in abnegation
 
-of self? I do not believe it. Undue humility makes tyranny; weak
+of [[Self|self]]? I do not believe it. Undue [[Humility|humility]] makes tyranny; weak
 
 concession creates selfishness. The Romish religion especially teaches
 
-renunciation of self, submission to others, and nowhere are found so
+[[Renunciation|renunciation]] of [[Self|self]], submission to others, and nowhere are found so
 
 many grasping tyrants as in the ranks of the Romish priesthood. Each
 
@@ -52,11 +52,11 @@ surge in my mind. Are they right thoughts? I am not certain.
 
 
 
-"Well, life is short at the best. Seventy years, they say, pass like a
+"[[Well]], life is short at the best. Seventy years, they say, pass like a
 
-vapour, like a dream when one awaketh; and every path trod by human feet
+vapour, like [[A Dream|a dream]] when one awaketh; and every path trod by human feet
 
-terminates in one bourne--the grave, the little chink in the surface of
+terminates in one bourne--the [[Grave|grave]], the little chink in the surface of
 
 this great globe, the furrow where the mighty husbandman with the scythe
 
@@ -64,9 +64,9 @@ deposits the seed he has shaken from the ripe stem; and there it falls,
 
 decays, and thence it springs again, when the world has rolled round a
 
-few times more. So much for the body. The soul meantime wings its long
+few times more. So much for the [[Body|body]]. The [[Soul|soul]] meantime wings its long
 
-flight upward, folds its wings on the brink of the sea of fire and
+flight upward, folds its wings on the brink of the sea of [[Fire|fire]] and
 
 glass, and gazing down through the burning clearness, finds there
 
@@ -76,21 +76,21 @@ Father, the mediating Son, the Creator Spirit. Such words, at least,
 
 have been chosen to express what is inexpressible, to describe what
 
-baffles description. The soul's real hereafter who shall guess?"
+baffles description. The [[Soul|soul]]'s real hereafter who shall guess?"
 
 
 
-Her fire was decayed to its last cinder; Malone had departed; and now
+Her [[Fire|fire]] was decayed to its last cinder; Malone had departed; and now
 
 the study bell rang for prayers.
 
 
 
-The next day Caroline had to spend altogether alone, her uncle being
+The next day Caroline had to spend altogether [[Alone|alone]], her uncle being
 
 gone to dine with his friend Dr. Boultby, vicar of Whinbury. The whole
 
-time she was talking inwardly in the same strain--looking forwards,
+[[Time|time]] she was talking inwardly in the same strain--looking forwards,
 
 asking what she was to do with life. Fanny, as she passed in and out of
 
@@ -122,7 +122,7 @@ amuse you."
 
 
 
-"It is solitary in this house, Fanny. Don't you think so?"
+"It is solitary in this [[house]], Fanny. Don't you think so?"
 
 
 
@@ -154,7 +154,7 @@ themselves. They are all selfish."
 
 devotedly kind she was to her step-mother as long as the old lady lived;
 
-and now when she is quite alone in the world, without brother or sister,
+and now when she is quite [[Alone|alone]] in the world, without brother or sister,
 
 or any one to care for her, how charitable she is to the poor, as far as
 
@@ -196,7 +196,7 @@ and shining curls; "there are no signs of an old maid about you."
 
 
 
-Caroline looked at the little mirror before her, and she thought there
+Caroline looked at the little [[Mirror|mirror]] before her, and she thought there
 
 were some signs. She could see that she was altered within the last
 

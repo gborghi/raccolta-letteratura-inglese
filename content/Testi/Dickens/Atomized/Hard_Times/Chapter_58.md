@@ -24,11 +24,11 @@ hypocrite; but it was certainly the case with Tom.  It was very strange
 that a young gentleman who had never been left to his own guidance for
 five consecutive minutes, should be incapable at last of governing
 himself; but so it was with Tom.  It was altogether unaccountable that a
-young gentleman whose imagination had been strangled in his cradle,
-should be still inconvenienced by its ghost in the form of grovelling
-sensualities; but such a monster, beyond all doubt, was Tom.
+young gentleman whose [[Imagination|imagination]] had been strangled in his cradle,
+should be still inconvenienced by its [[Ghost|ghost]] in the form of grovelling
+sensualities; but such a [[Monster|monster]], beyond all [[Doubt|doubt]], was Tom.
 
-‘Do you smoke?’ asked Mr. James Harthouse, when they came to the hotel.
+‘Do you smoke?’ asked Mr. [[James Harthouse]], when they came to the hotel.
 
 ‘I believe you!’ said Tom.
 
@@ -43,20 +43,20 @@ took an observation of his friend.  ‘He don’t seem to care about his
 dress,’ thought Tom, ‘and yet how capitally he does it.  What an easy
 swell he is!’
 
-Mr. James Harthouse, happening to catch Tom’s eye, remarked that he drank
+Mr. [[James Harthouse]], happening to catch Tom’s eye, remarked that he drank
 nothing, and filled his glass with his own negligent hand.
 
-‘Thank’ee,’ said Tom.  ‘Thank’ee.  Well, Mr. Harthouse, I hope you have
-had about a dose of old Bounderby to-night.’  Tom said this with one eye
+‘Thank’ee,’ said Tom.  ‘Thank’ee.  [[Well]], Mr. Harthouse, I [[Hope|hope]] you have
+had about a dose of old Bounderby to-[[Night|night]].’  Tom said this with one eye
 shut up again, and looking over his glass knowingly, at his entertainer.
 
-‘A very good fellow indeed!’ returned Mr. James Harthouse.
+‘A very good fellow indeed!’ returned Mr. [[James Harthouse]].
 
 ‘You think so, don’t you?’ said Tom.  And shut up his eye again.
 
-Mr. James Harthouse smiled; and rising from his end of the sofa, and
+Mr. [[James Harthouse]] smiled; and rising from his end of the sofa, and
 lounging with his back against the chimney-piece, so that he stood before
-the empty fire-grate as he smoked, in front of Tom and looking down at
+the empty [[Fire|fire]]-grate as he smoked, in front of Tom and looking down at
 him, observed:
 
 ‘What a comical brother-in-law you are!’
@@ -64,7 +64,7 @@ him, observed:
 ‘What a comical brother-in-law old Bounderby is, I think you mean,’ said
 Tom.
 
-‘You are a piece of caustic, Tom,’ retorted Mr. James Harthouse.
+‘You are a piece of caustic, Tom,’ retorted Mr. [[James Harthouse]].
 
 There was something so very agreeable in being so intimate with such a
 waistcoat; in being called Tom, in such an intimate way, by such a voice;
@@ -83,17 +83,17 @@ know.’
 ‘His wife?’ said Tom.  ‘My sister Loo?  O yes!’  And he laughed, and took
 a little more of the cooling drink.
 
-James Harthouse continued to lounge in the same place and attitude,
+[[James Harthouse]] continued to lounge in the same place and attitude,
 smoking his cigar in his own easy way, and looking pleasantly at the
 whelp, as if he knew himself to be a kind of agreeable demon who had only
-to hover over him, and he must give up his whole soul if required.  It
+to hover over him, and he must give up his whole [[Soul|soul]] if required.  It
 certainly did seem that the whelp yielded to this influence.  He looked
 at his companion sneakingly, he looked at him admiringly, he looked at
 him boldly, and put up one leg on the sofa.
 
 ‘My sister Loo?’ said Tom.  ‘_She_ never cared for old Bounderby.’
 
-‘That’s the past tense, Tom,’ returned Mr. James Harthouse, striking the
+‘That’s the past tense, Tom,’ returned Mr. [[James Harthouse]], striking the
 ash from his cigar with his little finger.  ‘We are in the present tense,
 now.’
 
@@ -103,14 +103,14 @@ third person singular, she does not care,’ returned Tom.
 
 ‘Good!  Very quaint!’ said his friend.  ‘Though you don’t mean it.’
 
-‘But I _do_ mean it,’ cried Tom.  ‘Upon my honour!  Why, you won’t tell
+‘But I _do_ mean it,’ cried Tom.  ‘Upon my [[Honour|honour]]!  Why, you won’t tell
 me, Mr. Harthouse, that you really suppose my sister Loo does care for
 old Bounderby.’
 
 ‘My dear fellow,’ returned the other, ‘what am I bound to suppose, when I
 find two married people living in harmony and happiness?’
 
-Tom had by this time got both his legs on the sofa.  If his second leg
+Tom had by this [[Time|time]] got both his legs on the sofa.  If his second leg
 had not been already there when he was called a dear fellow, he would
 have put it up at that great stage of the conversation.  Feeling it
 necessary to do something then, he stretched himself out at greater
@@ -121,9 +121,9 @@ carelessly yet so potently.
 
 ‘You know our governor, Mr. Harthouse,’ said Tom, ‘and therefore, you
 needn’t be surprised that Loo married old Bounderby.  She never had a
-lover, and the governor proposed old Bounderby, and she took him.’
+[[Lover|lover]], and the governor proposed old Bounderby, and she took him.’
 
-‘Very dutiful in your interesting sister,’ said Mr. James Harthouse.
+‘Very dutiful in your interesting sister,’ said Mr. [[James Harthouse]].
 
 ‘Yes, but she wouldn’t have been as dutiful, and it would not have come
 off as easily,’ returned the whelp, ‘if it hadn’t been for me.’
@@ -141,18 +141,18 @@ anything for me.  It was very game of her, wasn’t it?’
 
 ‘Not that it was altogether so important to her as it was to me,’
 continued Tom coolly, ‘because my liberty and comfort, and perhaps my
-getting on, depended on it; and she had no other lover, and staying at
-home was like staying in jail—especially when I was gone.  It wasn’t as
-if she gave up another lover for old Bounderby; but still it was a good
+getting on, depended on it; and she had no other [[Lover|lover]], and staying at
+[[Home|home]] was like staying in jail—especially when I was gone.  It wasn’t as
+if she gave up another [[Lover|lover]] for old Bounderby; but still it was a good
 thing in her.’
 
 ‘Perfectly delightful.  And she gets on so placidly.’
 
 ‘Oh,’ returned Tom, with contemptuous patronage, ‘she’s a regular girl.
 A girl can get on anywhere.  She has settled down to the life, and _she_
-don’t mind.  It does just as well as another.  Besides, though Loo is a
+don’t mind.  It does just as [[Well|well]] as another.  Besides, though Loo is a
 girl, she’s not a common sort of girl.  She can shut herself up within
-herself, and think—as I have often known her sit and watch the fire—for
+herself, and think—as I have often known her sit and watch the [[Fire|fire]]—for
 an hour at a stretch.’
 
 ‘Ay, ay?  Has resources of her own,’ said Harthouse, smoking quietly.
@@ -169,13 +169,13 @@ said Tom.
 ‘Impossible!’
 
 ‘He did, though,’ said Tom, shaking his head.  ‘I mean to say, Mr.
-Harthouse, that when I first left home and went to old Bounderby’s, I was
+Harthouse, that when I first left [[Home|home]] and went to old Bounderby’s, I was
 as flat as a warming-pan, and knew no more about life, than any oyster
 does.’
 
 ‘Come, Tom!  I can hardly believe that.  A joke’s a joke.’
 
-‘Upon my soul!’ said the whelp.  ‘I am serious; I am indeed!’  He smoked
+‘Upon my [[Soul|soul]]!’ said the whelp.  ‘I am serious; I am indeed!’  He smoked
 with great gravity and dignity for a little while, and then added, in a
 highly complacent tone, ‘Oh!  I have picked up a little since.  I don’t
 deny that.  But I have done it myself; no thanks to the governor.’
@@ -190,7 +190,7 @@ can always get on, somehow.’
 
 ‘Calling at the Bank yesterday evening, for Mr. Bounderby’s address, I
 found an ancient lady there, who seems to entertain great admiration for
-your sister,’ observed Mr. James Harthouse, throwing away the last small
+your sister,’ observed Mr. [[James Harthouse]], throwing away the last small
 remnant of the cigar he had now smoked out.
 
 ‘Mother Sparsit!’ said Tom.  ‘What! you have seen her already, have you?’
@@ -208,24 +208,24 @@ came upon him, followed by complete oblivion.  He was roused from the
 latter state by an uneasy dream of being stirred up with a boot, and also
 of a voice saying: ‘Come, it’s late.  Be off!’
 
-‘Well!’ he said, scrambling from the sofa.  ‘I must take my leave of you
+‘[[Well]]!’ he said, scrambling from the sofa.  ‘I must take my leave of you
 though.  I say.  Yours is very good tobacco.  But it’s too mild.’
 
 ‘Yes, it’s too mild,’ returned his entertainer.
 
 ‘It’s—it’s ridiculously mild,’ said Tom.  ‘Where’s the door!  Good
-night!’
+[[Night|night]]!’
 
 He had another odd dream of being taken by a waiter through a mist,
 which, after giving him some trouble and difficulty, resolved itself into
-the main street, in which he stood alone.  He then walked home pretty
+the main street, in which he stood [[Alone|alone]].  He then walked [[Home|home]] pretty
 easily, though not yet free from an impression of the presence and
 influence of his new friend—as if he were lounging somewhere in the air,
 in the same negligent attitude, regarding him with the same look.
 
-The whelp went home, and went to bed.  If he had had any sense of what he
-had done that night, and had been less of a whelp and more of a brother,
-he might have turned short on the road, might have gone down to the
-ill-smelling river that was dyed black, might have gone to bed in it for
+The whelp went [[Home|home]], and went to bed.  If he had had any sense of what he
+had done that [[Night|night]], and had been less of a whelp and more of a brother,
+he might have turned short on the [[Road|road]], might have gone down to the
+ill-smelling [[River|river]] that was dyed black, might have gone to bed in it for
 good and all, and have curtained his head for ever with its filthy
 waters.

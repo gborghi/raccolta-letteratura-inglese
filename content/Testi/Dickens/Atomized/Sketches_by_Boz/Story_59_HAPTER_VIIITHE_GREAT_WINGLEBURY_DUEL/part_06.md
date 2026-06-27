@@ -60,7 +60,7 @@ nothing till you come to the next stage—all right!’
 
 ‘Horses are paid, Tom,’ screamed Mrs. Williamson; and away went the
 chaise, at the rate of fourteen miles an hour, with Mr. Alexander Trott
-and Miss Julia Manners carefully shut up in the inside.
+and Miss [[Julia]] Manners carefully shut up in the inside.
 
 Mr. Alexander Trott remained coiled up in one corner of the chaise, and
 his mysterious companion in the other, for the first two or three
@@ -74,17 +74,17 @@ post-boys can neither see nor hear us.’
 
 ‘That’s not Hunter’s voice!’—thought Alexander, astonished.
 
-‘Dear Lord Peter!’ said Miss Julia, most winningly: putting her arm on
+‘Dear Lord Peter!’ said Miss [[Julia]], most winningly: putting her arm on
 Mr. Trott’s shoulder. ‘Dear Lord Peter. Not a word?’
 
 ‘Why, it’s a woman!’ exclaimed Mr. Trott, in a low tone of excessive
-wonder.
+[[Wonder|wonder]].
 
-‘Ah! Whose voice is that?’ said Julia; ‘’tis not Lord Peter’s.’
+‘Ah! Whose voice is that?’ said [[Julia]]; ‘’tis not Lord Peter’s.’
 
 ‘No,—it’s mine,’ replied Mr. Trott.
 
-‘Yours!’ ejaculated Miss Julia Manners; ‘a strange man! Gracious
+‘Yours!’ ejaculated Miss [[Julia]] Manners; ‘a strange man! Gracious
 heaven! How came you here!’
 
 ‘Whoever you are, you might have known that I came against my will,
@@ -93,7 +93,7 @@ ma’am,’ replied Alexander, ‘for I made noise enough when I got in.’
 ‘Do you come from Lord Peter?’ inquired Miss Manners.
 
 ‘Confound Lord Peter,’ replied Trott pettishly. ‘I don’t know any Lord
-Peter. I never heard of him before to-night, when I’ve been Lord
+Peter. I never heard of him before to-[[Night|night]], when I’ve been Lord
 Peter’d by one and Lord Peter’d by another, till I verily believe I’m
 mad, or dreaming—’
 
@@ -106,10 +106,10 @@ the events of the evening had completely hardened him.
 chaise.
 
 ‘Stay, my dear ma’am!’ said Mr. Trott, pulling the glasses up again
-with one hand, and gently squeezing Miss Julia’s waist with the other.
+with one hand, and gently squeezing Miss [[Julia]]’s waist with the other.
 ‘There is some mistake here; give me till the end of this stage to
 explain my share of it. We must go so far; you cannot be set down here
-alone, at this hour of the night.’
+[[Alone|alone]], at this hour of the [[Night|night]].’
 
 The lady consented; the mistake was mutually explained. Mr. Trott was a
 young man, had highly promising whiskers, an undeniable tailor, and an
@@ -118,17 +118,17 @@ with three thousand a-year? The lady had this, and more; she wanted a
 young husband, and the only course open to Mr. Trott to retrieve his
 disgrace was a rich wife. So, they came to the conclusion that it would
 be a pity to have all this trouble and expense for nothing; and that as
-they were so far on the road already, they had better go to Gretna
+they were so far on the [[Road|road]] already, they had better go to Gretna
 Green, and marry each other; and they did so. And the very next
-preceding entry in the Blacksmith’s book, was an entry of the marriage
-of Emily Brown with Horace Hunter. Mr. Hunter took his wife home, and
-begged pardon, and _was_ pardoned; and Mr. Trott took _his_ wife home,
+preceding entry in the Blacksmith’s book, was an entry of the [[Marriage|marriage]]
+of Emily Brown with Horace Hunter. Mr. Hunter took his wife [[Home|home]], and
+begged pardon, and _was_ pardoned; and Mr. Trott took _his_ wife [[Home|home]],
 begged pardon too, and was pardoned also. And Lord Peter, who had been
-detained beyond his time by drinking champagne and riding a
+detained beyond his [[Time|time]] by drinking champagne and riding a
 steeple-chase, went back to the Honourable Augustus Flair’s, and drank
 more champagne, and rode another steeple-chase, and was thrown and
 killed. And Horace Hunter took great credit to himself for practising
 on the cowardice of Alexander Trott; and all these circumstances were
-discovered in time, and carefully noted down; and if you ever stop a
+discovered in [[Time|time]], and carefully noted down; and if you ever stop a
 week at the Winglebury Arms, they will give you just this account of
 The Great Winglebury Duel.

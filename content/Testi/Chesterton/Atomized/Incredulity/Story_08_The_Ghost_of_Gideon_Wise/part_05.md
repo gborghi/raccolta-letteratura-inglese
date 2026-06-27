@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Ghost of Gideon Wise (part 5)"
+title: "[[Incredulity]] — The [[Ghost]] of Gideon Wise (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -22,7 +22,7 @@ a chair over.
 
 `Oh, this is all nonsense,' he said, `but we'd better go out and see.'
 
-`I won't go,' said Home with sudden violence.  `I'll never walk
+`I won't go,' said [[Home]] with sudden violence.  `I'll never walk
 by that path again.'
 
 `I think we must all walk by that path tonight,' said the priest gravely;
@@ -33,7 +33,7 @@ people than one.'
 began to roll in a strange fashion.  He had risen with the rest,
 hut he made no motion towards the door.
 
-`Mr Home,' said Nares firmly, `I am a police--officer, and this house,
+`Mr [[Home]],' said Nares firmly, `I am a police--officer, and this house,
 though you may not know it, is surrounded by the police.
 I have tried to investigate in a friendly fashion, but I must
 investigate everything, even anything so silly as a ghost.
@@ -43,12 +43,12 @@ There was another silence while Home stood heaving and panting
 as with indescribable fears.  Then he suddenly sat down on his chair
 again and said with an entirely new and much more composed voice:
 
-`I can't do it.  You may just as well know why.
+`I can't do it.  You may just as [[Well|well]] know why.
 You will know it sooner or later.  I killed him.'
 
-For an instant there was the stillness of a house struck by a
-thunderbolt and full of corpses.  Then the voice of Father Brown
-sounded in that enormous silence strangely small like the squeak
+For an instant there was the stillness of a [[house]] struck by a
+thunderbolt and full of corpses.  Then the voice of [[Father Brown]]
+sounded in that enormous [[Silence|silence]] strangely small like the squeak
 of a mouse.
 
 `Did you kill him deliberately?' he asked.
@@ -90,15 +90,15 @@ the rest across the moor to the cliff, when he was astonished to see
 young Potter, the secretary, coming back quickly towards them,
 his face in the moonlight looking white as a moon.
 
-`By God, sir,' he said, speaking for the first time that night,
+`By God, sir,' he said, speaking for the first [[Time|time]] that [[Night|night]],
 `there really is something there.  It--it's just like him.'
 
-`Why, you're raving,' gasped the detective.  `Everybody's raving.'
+`Why, you're raving,' gasped the [[Detective|detective]].  `Everybody's raving.'
 
 `Do you think I don't know him when I see him?' cried the secretary
 with singular bitterness.  `I have reason to.'
 
-`Perhaps,' said the detective sharply, `you are one of those who had
+`Perhaps,' said the [[Detective|detective]] sharply, `you are one of those who had
 reason to hate him, as Halket said.'
 
 `Perhaps,' said the secretary; `anyhow, I know him, and I tell you I can
@@ -123,7 +123,7 @@ as if he were going to consult a notice--board.
 `It don't seem to bother you much,' said Byrne to the priest;
 `and yet I thought you were the only one who believed in spooks.'
 
-`If it comes to that,' replied Father Brown, `I thought you were one
+`If it comes to that,' replied [[Father Brown]], `I thought you were one
 who didn't believe in them.  But believing in ghosts is one thing,
 and believing in a ghost is quite another.'
 
@@ -132,18 +132,18 @@ almost covertly at the crumbling headlands in the cold
 moonlight which were the haunts of the vision or delusion.
 `I didn't believe in it till I saw it,' he said.
 
-`And I did believe in it till I saw it,' said Father Brown.
+`And I did believe in it till I saw it,' said [[Father Brown]].
 The journalist stared after him as he went stumping across
-the great waste ground that rose towards the cloven
-headland like the sloping side of a hill cut in two.
-Under the discolouring moon the grass looked like long grey
-hair all combed one way by the wind, and seeming to point
+the great waste ground that [[Rose|rose]] towards the cloven
+headland like the sloping side of a [[Hill|hill]] cut in two.
+Under the discolouring [[Moon|moon]] the grass looked like long grey
+hair all combed one way by the [[Wind|wind]], and seeming to point
 towards the place where the breaking cliff showed pale gleams
-of chalk in the grey--green turf, and where stood the pale
+of [[chalk]] in the grey--green turf, and where stood the pale
 figure or shining shade that none could yet understand.
 As yet that pale figure dominated a desolate landscape
 that was empty except for the black square back and business--
-like figure of the priest advancing alone towards it.
-Then the prisoner Home broke suddenly from his captors with a
+like figure of the priest advancing [[Alone|alone]] towards it.
+Then the prisoner [[Home]] broke suddenly from his captors with a
 piercing cry and ran ahead of the priest, falling on his knees
 before the spectre.

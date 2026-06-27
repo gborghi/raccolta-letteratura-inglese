@@ -1,5 +1,5 @@
 ---
-title: "manalive — Chapter 4 (part 2)"
+title: "[[manalive]] — Chapter 4 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manalive-(Chesterton)"
@@ -22,14 +22,14 @@ The communication she has sent to us runs as follows:--
 
 
 "Lady Bullingdon recalls the painful incident to which reference
-is made, and has no desire to deal with it in detail.
+is made, and has no [[Desire|desire]] to deal with it in detail.
 The girl Polly Green was a perfectly adequate dressmaker,
 and lived in the village for about two years.  Her unattached
-condition was bad for her as well as for the general morality
+condition was bad for her as [[Well|well]] as for the general [[morality]]
 of the village.  Lady Bullingdon, therefore, allowed it to be
-understood that she favoured the marriage of the young woman.
+understood that she favoured the [[Marriage|marriage]] of the young woman.
 The villagers, naturally wishing to oblige Lady Bullingdon,
-came forward in several cases; and all would have been well had it
+came forward in several cases; and all would have been [[Well|well]] had it
 not been for the deplorable eccentricity or depravity of the girl
 Green herself.  Lady Bullingdon supposes that where there is
 a village there must be a village idiot, and in her village,
@@ -38,10 +38,10 @@ Lady Bullingdon only saw him once, and she is quite aware
 that it is really difficult to distinguish between actual
 idiots and the ordinary heavy type of the rural lower classes.
 She noticed, however, the startling smallness of his head
-in comparison to the rest of his body; and, indeed, the fact
+in comparison to the rest of his [[Body|body]]; and, indeed, the fact
 of his having appeared upon election day wearing the rosette
 of both the two opposing parties appears to Lady Bullingdon
-to put the matter quite beyond doubt.  Lady Bullingdon was
+to put the matter quite beyond [[Doubt|doubt]].  Lady Bullingdon was
 astounded to learn that this afflicted being had put himself
 forward as one of the suitors of the girl in question.
 Lady Bullingdon's nephew interviewed the wretch upon the point,

@@ -19,17 +19,17 @@ tags:
 ‘By a slight and not unnatural mistake, sir,’ said Dick, substituting
 another in its stead, ‘I had handed you the pass-ticket of a select
 convivial circle called the Glorious Apollers of which I have the
-honour to be Perpetual Grand.  That is the proper document, Sir.  Good
+[[Honour|honour]] to be Perpetual Grand.  That is the proper document, Sir.  Good
 morning.’
 
 Quilp bade him good day; the perpetual Grand Master of the Glorious
-Apollers, elevating his hat in honour of Mrs Quilp, dropped it
+Apollers, elevating his hat in [[Honour|honour]] of Mrs Quilp, dropped it
 carelessly on the side of his head again, and disappeared with a
 flourish.
 
-By this time, certain vans had arrived for the conveyance of the goods,
+By this [[Time|time]], certain vans had arrived for the conveyance of the goods,
 and divers strong men in caps were balancing chests of drawers and
-other trifles of that nature upon their heads, and performing muscular
+other trifles of that [[Nature|nature]] upon their heads, and performing muscular
 feats which heightened their complexions considerably.  Not to be
 behind-hand in the bustle, Mr Quilp went to work with surprising
 vigour; hustling and driving the people about, like an evil spirit;
@@ -40,17 +40,17 @@ with his loads, a great many sly bumps and blows on the shoulders of Mr
 Brass, as he stood upon the door-steps to answer all the inquiries of
 curious neighbours, which was his department.  His presence and example
 diffused such alacrity among the persons employed, that, in a few
-hours, the house was emptied of everything, but pieces of matting,
+hours, the [[house]] was emptied of everything, but pieces of matting,
 empty porter-pots, and scattered fragments of straw.
 
 Seated, like an African chief, on one of these pieces of matting, the
-dwarf was regaling himself in the parlour, with bread and cheese and
+[[Dwarf|dwarf]] was regaling himself in the parlour, with bread and [[cheese]] and
 beer, when he observed without appearing to do so, that a boy was
 prying in at the outer door.  Assured that it was Kit, though he saw
 little more than his nose, Mr Quilp hailed him by his name; whereupon
 Kit came in and demanded what he wanted.
 
-‘Come here, you sir,’ said the dwarf.  ‘Well, so your old master and
+‘Come here, you sir,’ said the [[Dwarf|dwarf]].  ‘[[Well]], so your old master and
 young mistress have gone?’
 
 ‘Where?’ rejoined Kit, looking round.
@@ -67,7 +67,7 @@ light this morning?’
 ‘No,’ said the boy, in evident surprise.
 
 ‘You don’t know that?’ cried Quilp.  ‘Don’t I know that you were
-hanging about the house the other night, like a thief, eh?  Weren’t you
+hanging about the [[house]] the other [[Night|night]], like a thief, eh?  Weren’t you
 told then?’
 
 ‘No,’ replied the boy.
@@ -79,12 +79,12 @@ Kit, who knew no particular reason why he should keep the matter secret
 now, related the purpose for which he had come on that occasion, and
 the proposal he had made.
 
-‘Oh!’ said the dwarf after a little consideration.  ‘Then, I think
+‘Oh!’ said the [[Dwarf|dwarf]] after a little consideration.  ‘Then, I think
 they’ll come to you yet.’
 
 ‘Do you think they will?’ cried Kit eagerly.
 
-‘Aye, I think they will,’ returned the dwarf.  ‘Now, when they do, let
+‘Aye, I think they will,’ returned the [[Dwarf|dwarf]].  ‘Now, when they do, let
 me know; d’ye hear?  Let me know, and I’ll give you something.  I want
 to do ‘em a kindness, and I can’t do ‘em a kindness unless I know where
 they are.  You hear what I say?’
@@ -100,23 +100,23 @@ be done with this?’
 ‘Oh no, don’t do that,’ said Kit, stepping forward.  ‘Give it to me.’
 
 ‘Oh yes, I dare say,’ cried the other boy.  ‘Come!  You let the cage
-alone, and let me wring its neck will you?  He said I was to do it.
-You let the cage alone will you.’
+[[Alone|alone]], and let me wring its neck will you?  He said I was to do it.
+You let the cage [[Alone|alone]] will you.’
 
-‘Give it here, give it to me, you dogs,’ roared Quilp.  ‘Fight for it,
-you dogs, or I’ll wring its neck myself!’
+‘Give it here, give it to me, you [[dogs]],’ roared Quilp.  ‘Fight for it,
+you [[dogs]], or I’ll wring its neck myself!’
 
-Without further persuasion, the two boys fell upon each other, tooth
+Without further [[Persuasion|persuasion]], the two boys fell upon each other, tooth
 and nail, while Quilp, holding up the cage in one hand, and chopping
 the ground with his knife in an ecstasy, urged them on by his taunts
 and cries to fight more fiercely.  They were a pretty equal match, and
-rolled about together, exchanging blows which were by no means child’s
-play, until at length Kit, planting a well-directed hit in his
+rolled about together, exchanging blows which were by no means [[Child|child]]’s
+play, until at length Kit, planting a [[Well|well]]-directed hit in his
 adversary’s chest, disengaged himself, sprung nimbly up, and snatching
 the cage from Quilp’s hands made off with his prize.
 
-He did not stop once until he reached home, where his bleeding face
-occasioned great consternation, and caused the elder child to howl
+He did not stop once until he reached [[Home|home]], where his bleeding face
+occasioned great consternation, and caused the elder [[Child|child]] to howl
 dreadfully.
 
 ‘Goodness gracious, Kit, what is the matter, what have you been doing?’
@@ -152,9 +152,9 @@ So, the scaffolding was made again, and Kit, climbing up with the poker
 for a hammer, knocked in the nail and hung up the cage, to the
 immeasurable delight of the whole family.  When it had been adjusted
 and straightened a great many times, and he had walked backwards into
-the fire-place in his admiration of it, the arrangement was pronounced
+the [[Fire|fire]]-place in his admiration of it, the arrangement was pronounced
 to be perfect.
 
 ‘And now, mother,’ said the boy, ‘before I rest any more, I’ll go out
-and see if I can find a horse to hold, and then I can buy some
+and see if I can find a [[Horse|horse]] to hold, and then I can buy some
 birdseed, and a bit of something nice for you, into the bargain.’

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 10"
+title: "[[Shirley]] — Chapter 10"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,7 +24,7 @@ OLD MAIDS.
 
 
 
-Time wore on, and spring matured. The surface of England began to look
+[[Time]] wore on, and [[Spring|spring]] matured. The surface of England began to look
 
 pleasant: her fields grew green, her hills fresh, her gardens blooming;
 
@@ -32,7 +32,7 @@ but at heart she was no better. Still her poor were wretched, still
 
 their employers were harassed. Commerce, in some of its branches, seemed
 
-threatened with paralysis, for the war continued; England's blood was
+threatened with paralysis, for the war continued; England's [[Blood|blood]] was
 
 shed and her wealth lavished--all, it seemed, to attain most inadequate
 
@@ -40,7 +40,7 @@ ends. Some tidings there were indeed occasionally of successes in the
 
 Peninsula, but these came in slowly; long intervals occurred between, in
 
-which no note was heard but the insolent self-felicitations of Bonaparte
+which no note was heard but the insolent [[Self|self]]-felicitations of Bonaparte
 
 on his continued triumphs. Those who suffered from the results of the
 
@@ -74,13 +74,13 @@ certainly think too exclusively of making money; they are too oblivious
 
 of every national consideration but that of extending England's--that
 
-is, their own--commerce. Chivalrous feeling, disinterestedness, pride in
+is, their own--commerce. Chivalrous feeling, disinterestedness, [[Pride|pride]] in
 
-honour, is too dead in their hearts. A land ruled by them alone would
+[[Honour|honour]], is too dead in their hearts. A land ruled by them [[Alone|alone]] would
 
 too often make ignominious submission--not at all from the motives
 
-Christ teaches, but rather from those Mammon instils. During the late
+[[Christ]] teaches, but rather from those Mammon instils. During the late
 
 war, the tradesmen of England would have endured buffets from the
 
@@ -132,13 +132,13 @@ Long may it be ere England really becomes a nation of shop-keepers!
 
 
 
-We have already said that Moore was no self-sacrificing patriot, and we
+We have already said that Moore was no [[Self|self]]-sacrificing patriot, and we
 
 have also explained what circumstances rendered him specially prone to
 
 confine his attention and efforts to the furtherance of his individual
 
-interest; accordingly, when he felt himself urged a second time to the
+interest; accordingly, when he felt himself urged a second [[Time|time]] to the
 
 brink of ruin, none struggled harder than he against the influences
 
@@ -150,11 +150,11 @@ whose money and connections gave them more power than he possessed.
 
 Sometimes, by flashes, he felt there was little reason in the demands
 
-his party made on Government. When he heard of all Europe threatened by
+his party made on [[government|Government]]. When he heard of all Europe threatened by
 
-Bonaparte, and of all Europe arming to resist him; when he saw Russia
+Bonaparte, and of all Europe arming to resist him; when he saw [[Russia]]
 
-menaced, and beheld Russia rising, incensed and stern, to defend her
+menaced, and beheld [[Russia]] rising, incensed and stern, to defend her
 
 frozen soil, her wild provinces of serfs, her dark native despotism,
 
@@ -164,17 +164,17 @@ England, a free realm, could not _then_ depute her sons to make
 
 concessions and propose terms to the unjust, grasping French leader.
 
-When news came from time to time of the movements of that MAN then
+When news came from [[Time|time]] to [[Time|time]] of the movements of that MAN then
 
-representing England in the Peninsula, of his advance from success to
+representing England in the Peninsula, of his advance from [[success]] to
 
-success--that advance so deliberate but so unswerving, so circumspect
+[[success]]--that advance so deliberate but so unswerving, so circumspect
 
 but so certain, so "unhasting" but so "unresting;" when he read Lord
 
 Wellington's own dispatches in the columns of the newspapers, documents
 
-written by modesty to the dictation of truth--Moore confessed at heart
+written by modesty to the dictation of [[Truth|truth]]--Moore confessed at heart
 
 that a power was with the troops of Britain, of that vigilant, enduring,
 
@@ -184,7 +184,7 @@ in the end. In the end! But that end, he thought, was yet far off; and
 
 meantime he, Moore, as an individual, would be crushed, his hopes ground
 
-to dust. It was himself he had to care for, his hopes he had to pursue;
+to [[Dust|dust]]. It was himself he had to care for, his hopes he had to pursue;
 
 and he would fulfil his destiny.
 
@@ -214,19 +214,19 @@ parenthetically) what noodle first made it the fashion to teach women
 
 French. Nothing was more improper for them. It was like feeding a
 
-rickety child on chalk and water gruel. Caroline must give it up, and
+rickety [[Child|child]] on [[chalk]] and [[Water|water]] gruel. Caroline must give it up, and
 
 give up her cousins too. They were dangerous people.
 
 
 
-Mr. Helstone quite expected opposition to this order; he expected tears.
+Mr. Helstone quite expected opposition to this order; he expected [[Tears|tears]].
 
 Seldom did he trouble himself about Caroline's movements, but a vague
 
 idea possessed him that she was fond of going to Hollow's Cottage; also
 
-he suspected that she liked Robert Moore's occasional presence at the
+he suspected that she liked [[Robert Moore]]'s occasional presence at the
 
 rectory. The Cossack had perceived that whereas if Malone stepped in of
 
@@ -236,7 +236,7 @@ of an aged black cat, which usually shared with Miss Helstone's feet the
 
 accommodation of her footstool, or by borrowing a fowling-piece, and
 
-banging away at a tool shed door in the garden while enough of daylight
+banging away at a tool shed door in the [[Garden|garden]] while enough of daylight
 
 remained to show that conspicuous mark, keeping the passage and
 
@@ -250,7 +250,7 @@ Caroline had a trick of disappearing, tripping noiselessly upstairs, and
 
 remaining invisible till called down to supper. On the other hand, when
 
-Robert Moore was the guest, though he elicited no vivacities from the
+[[Robert Moore]] was the guest, though he elicited no vivacities from the
 
 cat, did nothing to it, indeed, beyond occasionally coaxing it from the
 
@@ -276,13 +276,13 @@ those elderly gentlemen who are easily blinded--on the contrary, finding
 
 himself on all occasions extremely wide-awake--had watched them when
 
-they bade each other good-night. He had just seen their eyes meet
+they bade each other good-[[Night|night]]. He had just seen their eyes meet
 
 once--only once. Some natures would have taken pleasure in the glance
 
 then surprised, because there was no harm and some delight in it. It was
 
-by no means a glance of mutual intelligence, for mutual love secrets
+by no means a glance of mutual intelligence, for mutual [[Love|love]] [[Secrets|secrets]]
 
 existed not between them. There was nothing then of craft and
 
@@ -306,7 +306,7 @@ box on the ear; if you had further demanded the reason of such
 
 chastisements, he would have stormed against flirtation and
 
-love-making, and vowed he would have no such folly going on under his
+[[Love|love]]-making, and vowed he would have no such folly going on under his
 
 roof.
 
@@ -316,17 +316,17 @@ These private considerations, combined with political reasons, fixed his
 
 resolution of separating the cousins. He announced his will to Caroline
 
-one evening as she was sitting at work near the drawing-room window. Her
+one evening as she was sitting at work near the drawing-room [[Window|window]]. Her
 
 face was turned towards him, and the light fell full upon it. It had
 
 struck him a few minutes before that she was looking paler and quieter
 
-than she used to look. It had not escaped him either that Robert Moore's
+than she used to look. It had not escaped him either that [[Robert Moore]]'s
 
 name had never, for some three weeks past, dropped from her lips; nor
 
-during the same space of time had that personage made his appearance at
+during the same space of [[Time|time]] had that personage made his appearance at
 
 the rectory. Some suspicion of clandestine meetings haunted his mind.
 
@@ -366,9 +366,9 @@ They are Jacobinical."
 
 
 
-"Very well," said Caroline quietly. She acquiesced then. There was no
+"Very [[Well|well]]," said Caroline quietly. She acquiesced then. There was no
 
-vexed flushing of the face, no gathering tears; the shadowy
+vexed flushing of the face, no gathering [[Tears|tears]]; the shadowy
 
 thoughtfulness which had covered her features ere Mr. Helstone spoke
 
@@ -378,9 +378,9 @@ remained undisturbed; she was obedient.
 
 Yes, perfectly; because the mandate coincided with her own previous
 
-judgment; because it was now become pain to her to go to Hollow's
+judgment; because it was now become [[Pain|pain]] to her to go to Hollow's
 
-Cottage; nothing met her there but disappointment. Hope and love had
+Cottage; nothing met her there but disappointment. [[Hope]] and [[Love|love]] had
 
 quitted that little tenement, for Robert seemed to have deserted its
 
@@ -388,25 +388,25 @@ precincts. Whenever she asked after him--which she very seldom did,
 
 since the mere utterance of his name made her face grow hot--the answer
 
-was, he was from home, or he was quite taken up with business. Hortense
+was, he was from [[Home|home]], or he was quite taken up with business. Hortense
 
 feared he was killing himself by application. He scarcely ever took a
 
-meal in the house; he lived in the counting-house.
+meal in the [[house]]; he lived in the counting-[[house]].
 
 
 
 At church only Caroline had the chance of seeing him, and there she
 
-rarely looked at him. It was both too much pain and too much pleasure
+rarely looked at him. It was both too much [[Pain|pain]] and too much pleasure
 
 to look--it excited too much emotion; and that it was all wasted emotion
 
-she had learned well to comprehend.
+she had learned [[Well|well]] to comprehend.
 
 
 
-Once, on a dark, wet Sunday, when there were few people at church, and
+Once, on a dark, wet [[Sunday]], when there were few people at church, and
 
 when especially certain ladies were absent, of whose observant faculties
 
@@ -414,9 +414,9 @@ and tomahawk tongues Caroline stood in awe, she had allowed her eye to
 
 seek Robert's pew, and to rest awhile on its occupant. He was there
 
-alone. Hortense had been kept at home by prudent considerations relative
+[[Alone|alone]]. Hortense had been kept at [[Home|home]] by prudent considerations relative
 
-to the rain and a new spring _chapeau_. During the sermon he sat with
+to the rain and a new [[Spring|spring]] _chapeau_. During the sermon he sat with
 
 folded arms and eyes cast down, looking very sad and abstracted. When
 
@@ -454,7 +454,7 @@ enter into it, feel what he would feel, aspire to what he would aspire.
 
 Her earnest wish was to see things as they were, and not to be romantic.
 
-By dint of effort she contrived to get a glimpse of the light of truth
+By dint of effort she contrived to get a glimpse of the light of [[Truth|truth]]
 
 here and there, and hoped that scant ray might suffice to guide her.
 
@@ -464,7 +464,7 @@ here and there, and hoped that scant ray might suffice to guide her.
 
 mine. I think only of him; he has no room, no leisure, to think of me.
 
-The feeling called love is and has been for two years the predominant
+The feeling called [[Love|love]] is and has been for two years the predominant
 
 emotion of my heart--always there, always awake, always astir. Quite
 
@@ -484,11 +484,11 @@ to greet mine."
 
 
 
-That Sunday evening, Mr. Malone coming, as usual, to pass it with his
+That [[Sunday]] evening, Mr. Malone coming, as usual, to pass it with his
 
 rector, Caroline withdrew after tea to her chamber. Fanny, knowing her
 
-habits, had lit her a cheerful little fire, as the weather was so gusty
+habits, had lit her a cheerful little [[Fire|fire]], as the weather was so gusty
 
 and chill. Closeted there, silent and solitary, what could she do but
 
@@ -496,19 +496,19 @@ think? She noiselessly paced to and fro the carpeted floor, her head
 
 drooped, her hands folded. It was irksome to sit; the current of
 
-reflection ran rapidly through her mind; to-night she was mutely
+reflection ran rapidly through her mind; to-[[Night|night]] she was mutely
 
 excited.
 
 
 
-Mute was the room, mute the house. The double door of the study muffled
+Mute was the room, mute the [[house]]. The [[Double|double]] door of the study muffled
 
 the voices of the gentlemen. The servants were quiet in the kitchen,
 
 engaged with books their young mistress had lent them--books which she
 
-had told them were "fit for Sunday reading." And she herself had another
+had told them were "fit for [[Sunday]] reading." And she herself had another
 
 of the same sort open on the table, but she could not read it. Its
 
@@ -518,13 +518,13 @@ teeming, wandering, to listen to the language of another mind.
 
 
 
-Then, too, her imagination was full of pictures--images of Moore, scenes
+Then, too, her [[Imagination|imagination]] was full of pictures--images of Moore, scenes
 
-where he and she had been together; winter fireside sketches; a glowing
+where he and she had been together; [[Winter|winter]] fireside sketches; a glowing
 
-landscape of a hot summer afternoon passed with him in the bosom of
+landscape of a hot [[Summer|summer]] afternoon passed with him in the bosom of
 
-Nunnely Wood; divine vignettes of mild spring or mellow autumn moments,
+Nunnely Wood; divine vignettes of mild [[Spring|spring]] or mellow [[Autumn|autumn]] moments,
 
 when she had sat at his side in Hollow's Copse, listening to the call of
 
@@ -532,7 +532,7 @@ the May cuckoo, or sharing the September treasure of nuts and ripe
 
 blackberries--a wild dessert which it was her morning's pleasure to
 
-collect in a little basket, and cover with green leaves and fresh
+collect in a little basket, and cover with green [[Leaves|leaves]] and fresh
 
 blossoms, and her afternoon's delight to administer to Moore, berry by
 
@@ -554,13 +554,13 @@ if a sleety rain-drop had fallen. She returned from an enchanted region
 
 to the real world: for Nunnely Wood in June she saw her narrow chamber;
 
-for the songs of birds in alleys she heard the rain on her casement; for
+for the [[songs]] of [[Birds|birds]] in alleys she heard the rain on her casement; for
 
-the sigh of the south wind came the sob of the mournful east; and for
+the sigh of the south [[Wind|wind]] came the sob of the mournful east; and for
 
 Moore's manly companionship she had the thin illusion of her own dim
 
-shadow on the wall. Turning from the pale phantom which reflected
+[[Shadow|shadow]] on the wall. Turning from the pale [[Phantom|phantom]] which reflected
 
 herself in its outline, and her reverie in the drooped attitude of its
 
@@ -572,9 +572,9 @@ have to live, perhaps, till seventy years. As far as I know, I have good
 
 health; half a century of existence may lie before me. How am I to
 
-occupy it? What am I to do to fill the interval of time which spreads
+occupy it? What am I to do to fill the interval of [[Time|time]] which spreads
 
-between me and the grave?"
+between me and the [[Grave|grave]]?"
 
 
 
@@ -584,7 +584,7 @@ She reflected.
 
 "I shall not be married, it appears," she continued. "I suppose, as
 
-Robert does not care for me, I shall never have a husband to love, nor
+Robert does not care for me, I shall never have a husband to [[Love|love]], nor
 
 little children to take care of. Till lately I had reckoned securely on
 
@@ -598,7 +598,7 @@ perceive plainly I may have been mistaken. Probably I shall be an old
 
 maid. I shall live to see Robert married to some one else, some rich
 
-lady. I shall never marry. What was I created for, I wonder? Where is my
+lady. I shall never marry. What was I created for, I [[Wonder|wonder]]? Where is my
 
 place in the world?"
 
@@ -630,11 +630,11 @@ existence which is given away to others, for want of something of your
 
 own to bestow it on? I suspect there is. Does virtue lie in abnegation
 
-of self? I do not believe it. Undue humility makes tyranny; weak
+of [[Self|self]]? I do not believe it. Undue [[Humility|humility]] makes tyranny; weak
 
 concession creates selfishness. The Romish religion especially teaches
 
-renunciation of self, submission to others, and nowhere are found so
+[[Renunciation|renunciation]] of [[Self|self]], submission to others, and nowhere are found so
 
 many grasping tyrants as in the ranks of the Romish priesthood. Each
 
@@ -648,11 +648,11 @@ surge in my mind. Are they right thoughts? I am not certain.
 
 
 
-"Well, life is short at the best. Seventy years, they say, pass like a
+"[[Well]], life is short at the best. Seventy years, they say, pass like a
 
-vapour, like a dream when one awaketh; and every path trod by human feet
+vapour, like [[A Dream|a dream]] when one awaketh; and every path trod by human feet
 
-terminates in one bourne--the grave, the little chink in the surface of
+terminates in one bourne--the [[Grave|grave]], the little chink in the surface of
 
 this great globe, the furrow where the mighty husbandman with the scythe
 
@@ -660,9 +660,9 @@ deposits the seed he has shaken from the ripe stem; and there it falls,
 
 decays, and thence it springs again, when the world has rolled round a
 
-few times more. So much for the body. The soul meantime wings its long
+few times more. So much for the [[Body|body]]. The [[Soul|soul]] meantime wings its long
 
-flight upward, folds its wings on the brink of the sea of fire and
+flight upward, folds its wings on the brink of the sea of [[Fire|fire]] and
 
 glass, and gazing down through the burning clearness, finds there
 
@@ -672,21 +672,21 @@ Father, the mediating Son, the Creator Spirit. Such words, at least,
 
 have been chosen to express what is inexpressible, to describe what
 
-baffles description. The soul's real hereafter who shall guess?"
+baffles description. The [[Soul|soul]]'s real hereafter who shall guess?"
 
 
 
-Her fire was decayed to its last cinder; Malone had departed; and now
+Her [[Fire|fire]] was decayed to its last cinder; Malone had departed; and now
 
 the study bell rang for prayers.
 
 
 
-The next day Caroline had to spend altogether alone, her uncle being
+The next day Caroline had to spend altogether [[Alone|alone]], her uncle being
 
 gone to dine with his friend Dr. Boultby, vicar of Whinbury. The whole
 
-time she was talking inwardly in the same strain--looking forwards,
+[[Time|time]] she was talking inwardly in the same strain--looking forwards,
 
 asking what she was to do with life. Fanny, as she passed in and out of
 
@@ -718,7 +718,7 @@ amuse you."
 
 
 
-"It is solitary in this house, Fanny. Don't you think so?"
+"It is solitary in this [[house]], Fanny. Don't you think so?"
 
 
 
@@ -750,7 +750,7 @@ themselves. They are all selfish."
 
 devotedly kind she was to her step-mother as long as the old lady lived;
 
-and now when she is quite alone in the world, without brother or sister,
+and now when she is quite [[Alone|alone]] in the world, without brother or sister,
 
 or any one to care for her, how charitable she is to the poor, as far as
 
@@ -792,7 +792,7 @@ and shining curls; "there are no signs of an old maid about you."
 
 
 
-Caroline looked at the little mirror before her, and she thought there
+Caroline looked at the little [[Mirror|mirror]] before her, and she thought there
 
 were some signs. She could see that she was altered within the last
 
@@ -834,9 +834,9 @@ happened to be in the room when Miss Mann had made a call on his sister,
 
 and after listening to her conversation and viewing her features for a
 
-time, he had gone out into the garden where his little cousin was
+[[Time|time]], he had gone out into the [[Garden|garden]] where his little cousin was
 
-tending some of his favourite flowers, and while standing near and
+tending some of his favourite [[Flowers|flowers]], and while standing near and
 
 watching her he had amused himself with comparing fair youth, delicate
 
@@ -864,7 +864,7 @@ forehead, and those soft eyes. I suppose, too, you will keep your voice,
 
 which has another 'timbre' than that hard, deep organ of Miss Mann's.
 
-Courage, Cary! Even at fifty you will not be repulsive."
+[[Courage]], Cary! Even at fifty you will not be repulsive."
 
 
 
@@ -872,7 +872,7 @@ Courage, Cary! Even at fifty you will not be repulsive."
 
 
 
-"Nature made her in the mood in which she makes her briars and thorns;
+"[[Nature]] made her in the mood in which she makes her briars and thorns;
 
 whereas for the creation of some women she reserves the May morning
 
@@ -890,17 +890,17 @@ Ushered into Miss Mann's little parlour, Caroline found her, as she
 
 always found her, surrounded by perfect neatness, cleanliness, and
 
-comfort (after all, is it not a virtue in old maids that solitude rarely
+comfort (after all, is it not a virtue in old maids that [[Solitude|solitude]] rarely
 
-makes them negligent or disorderly?)--no dust on her polished furniture,
+makes them negligent or disorderly?)--no [[Dust|dust]] on her polished furniture,
 
-none on her carpet, fresh flowers in the vase on her table, a bright
+none on her carpet, fresh [[Flowers|flowers]] in the vase on her table, a bright
 
-fire in the grate. She herself sat primly and somewhat grimly-tidy in a
+[[Fire|fire]] in the grate. She herself sat primly and somewhat grimly-tidy in a
 
 cushioned rocking-chair, her hands busied with some knitting. This was
 
-her favourite work, as it required the least exertion. She scarcely rose
+her favourite work, as it required the least exertion. She scarcely [[Rose|rose]]
 
 as Caroline entered. To avoid excitement was one of Miss Mann's aims in
 
@@ -926,13 +926,13 @@ Moore had undergone it once, and had never forgotten the circumstance.
 
 He considered it quite equal to anything Medusa could do. He professed
 
-to doubt whether, since that infliction, his flesh had been quite what
+to [[Doubt|doubt]] whether, since that infliction, his flesh had been quite what
 
 it was before--whether there was not something stony in its texture. The
 
 gaze had had such an effect on him as to drive him promptly from the
 
-apartment and house; it had even sent him straightway up to the rectory,
+apartment and [[house]]; it had even sent him straightway up to the rectory,
 
 where he had appeared in Caroline's presence with a very queer face, and
 
@@ -964,9 +964,9 @@ duties in her day from whose severe anguish many a human Peri,
 
 gazelle-eyed, silken-tressed, and silver-tongued, would have shrunk
 
-appalled. She had passed alone through protracted scenes of suffering,
+appalled. She had passed [[Alone|alone]] through protracted scenes of [[Suffering|suffering]],
 
-exercised rigid self-denial, made large sacrifices of time, money,
+exercised rigid [[Self|self]]-denial, made large sacrifices of [[Time|time]], money,
 
 health for those who had repaid her only by ingratitude, and now her
 
@@ -1000,13 +1000,13 @@ temper that was wrong.
 
 
 
-Caroline made this discovery for the first time to-day, and moved
+Caroline made this discovery for the first [[Time|time]] to-day, and moved
 
 thereby to regret divers unjust judgments she had more than once passed
 
 on the crabbed old maid, she began to talk to her softly, not in
 
-sympathizing words, but with a sympathizing voice. The loneliness of her
+sympathizing words, but with a sympathizing voice. The [[Loneliness|loneliness]] of her
 
 condition struck her visitor in a new light, as did also the character
 
@@ -1028,11 +1028,11 @@ candidly. Communicative on her own affairs she usually was not, because
 
 no one cared to listen to her; but to-day she became so, and her
 
-confidante shed tears as she heard her speak, for she told of cruel,
+confidante shed [[Tears|tears]] as she heard her speak, for she told of cruel,
 
-slow-wasting, obstinate sufferings. Well might she be corpse-like; well
+slow-wasting, obstinate sufferings. [[Well]] might she be corpse-like; [[Well|well]]
 
-might she look grim, and never smile; well might she wish to avoid
+might she look grim, and never smile; [[Well|well]] might she wish to avoid
 
 excitement, to gain and retain composure! Caroline, when she knew all,
 
@@ -1058,13 +1058,13 @@ we may be, so long as our hearts preserve the feeblest spark of life,
 
 they preserve also, shivering near that pale ember, a starved, ghostly
 
-longing for appreciation and affection. To this extenuated spectre,
+[[Longing|longing]] for appreciation and affection. To this extenuated spectre,
 
 perhaps, a crumb is not thrown once a year, but when ahungered and
 
 athirst to famine--when all humanity has forgotten the dying tenant of a
 
-decaying house--Divine mercy remembers the mourner, and a shower of
+decaying [[house]]--Divine [[Mercy|mercy]] remembers the mourner, and a shower of
 
 manna falls for lips that earthly nutriment is to pass no more. Biblical
 
@@ -1074,9 +1074,9 @@ the couch of sickness; it is felt that a pitying God watches what all
 
 mankind have forsaken. The tender compassion of Jesus is recalled and
 
-relied on; the faded eye, gazing beyond time, sees a home, a friend, a
+relied on; the faded eye, gazing beyond [[Time|time]], sees a [[Home|home]], a friend, a
 
-refuge in eternity.
+refuge in [[Eternity|eternity]].
 
 
 
@@ -1084,7 +1084,7 @@ Miss Mann, drawn on by the still attention of her listener, proceeded to
 
 allude to circumstances in her past life. She spoke like one who tells
 
-the truth--simply, and with a certain reserve; she did not boast, nor
+the [[Truth|truth]]--simply, and with a certain reserve; she did not boast, nor
 
 did she exaggerate. Caroline found that the old maid had been a most
 
@@ -1096,7 +1096,7 @@ malady that now poisoned her own life owed its origin; that to one
 
 wretched relative she had been a support and succour in the depths of
 
-self-earned degradation, and that it was still her hand which kept him
+[[Self|self]]-earned degradation, and that it was still her hand which kept him
 
 from utter destitution. Miss Helstone stayed the whole evening, omitting
 
@@ -1138,7 +1138,7 @@ old maid. In her first youth she must have been ugly; now, at the age of
 
 fifty, she was _very_ ugly. At first sight, all but peculiarly
 
-well-disciplined minds were apt to turn from her with annoyance, to
+[[Well|well]]-disciplined minds were apt to turn from her with annoyance, to
 
 conceive against her a prejudice, simply on the ground of her
 
@@ -1162,11 +1162,11 @@ and inconsiderate old ones, who declared her hideous.
 
 
 
-Caroline was soon at home in that tiny parlour. A kind hand took from
+Caroline was soon at [[Home|home]] in that tiny parlour. A kind hand took from
 
 her her shawl and bonnet, and installed her in the most comfortable seat
 
-near the fire. The young and the antiquated woman were presently deep in
+near the [[Fire|fire]]. The young and the antiquated woman were presently deep in
 
 kindly conversation, and soon Caroline became aware of the power a most
 
@@ -1186,15 +1186,15 @@ those who possess a perception of the ridiculous, without owning the
 
 power of exactly testing and truly judging character, would certainly
 
-have esteemed a proper subject for satire, a matter for mimicry and
+have esteemed a proper subject for [[Satire|satire]], a matter for mimicry and
 
 laughter. They would have been hugely mistaken for their pains.
 
 Sincerity is never ludicrous; it is always respectable. Whether
 
-truth--be it religious or moral truth--speak eloquently and in
+[[Truth|truth]]--be it religious or moral [[Truth|truth]]--speak eloquently and in
 
-well-chosen language or not, its voice should be heard with reverence.
+[[Well|well]]-chosen language or not, its voice should be heard with reverence.
 
 Let those who cannot nicely, and with certainty, discern the difference
 
@@ -1218,11 +1218,11 @@ old maid was too poor to give much, though she straitened herself to
 
 privation that she might contribute her mite when needful. They were the
 
-works of a Sister of Charity--far more difficult to perform than those
+works of a Sister of [[Charity]]--far more difficult to perform than those
 
-of a Lady Bountiful. She would watch by any sick-bed; she seemed to fear
+of a Lady Bountiful. She would watch by any sick-bed; she seemed to [[Fear|fear]]
 
-no disease. She would nurse the poorest whom none else would nurse. She
+no disease. She would [[Nurse|nurse]] the poorest whom none else would [[Nurse|nurse]]. She
 
 was serene, humble, kind, and equable through everything.
 
@@ -1232,35 +1232,35 @@ For this goodness she got but little reward in this life. Many of the
 
 poor became so accustomed to her services that they hardly thanked her
 
-for them. The rich heard them mentioned with wonder, but were silent,
+for them. The rich heard them mentioned with [[Wonder|wonder]], but were silent,
 
 from a sense of shame at the difference between her sacrifices and their
 
 own. Many ladies, however, respected her deeply. They could not help it.
 
-One gentleman--one only--gave her his friendship and perfect confidence.
+One gentleman--one only--gave her his [[Friendship|friendship]] and perfect confidence.
 
 This was Mr. Hall, the vicar of Nunnely. He said, and said truly, that
 
-her life came nearer the life of Christ than that of any other human
+her life came nearer the life of [[Christ]] than that of any other human
 
 being he had ever met with. You must not think, reader, that in
 
-sketching Miss Ainley's character I depict a figment of imagination. No.
+sketching Miss Ainley's character I depict a figment of [[Imagination|imagination]]. No.
 
 We seek the originals of such portraits in real life only.
 
 
 
-Miss Helstone studied well the mind and heart now revealed to her. She
+Miss Helstone studied [[Well|well]] the mind and heart now revealed to her. She
 
 found no high intellect to admire--the old maid was merely sensible--but
 
 she discovered so much goodness, so much usefulness, so much mildness,
 
-patience, truth, that she bent her own mind before Miss Ainley's in
+patience, [[Truth|truth]], that she bent her own mind before Miss Ainley's in
 
-reverence. What was her love of nature, what was her sense of beauty,
+reverence. What was her [[Love|love]] of [[Nature|nature]], what was her sense of [[Beauty|beauty]],
 
 what were her more varied and fervent emotions, what was her deeper
 
@@ -1272,7 +1272,7 @@ beautiful forms of selfish delight; mentally, she trod them under foot.
 
 
 
-It is true she still felt with pain that the life which made Miss Ainley
+It is true she still felt with [[Pain|pain]] that the life which made Miss Ainley
 
 happy could not make her happy. Pure and active as it was, in her heart
 
@@ -1308,9 +1308,9 @@ in using the needle for themselves.
 
 
 
-Caroline went home, laid her plans, and took a resolve not to swerve
+Caroline went [[Home|home]], laid her plans, and took a resolve not to swerve
 
-from them. She allotted a certain portion of her time for her various
+from them. She allotted a certain portion of her [[Time|time]] for her various
 
 studies, and a certain portion for doing anything Miss Ainley might
 
@@ -1318,7 +1318,7 @@ direct her to do. The remainder was to be spent in exercise; not a
 
 moment was to be left for the indulgence of such fevered thoughts as had
 
-poisoned last Sunday evening.
+poisoned last [[Sunday]] evening.
 
 
 
@@ -1332,22 +1332,22 @@ to be employed; it forbade her to brood; and gleams of satisfaction
 
 chequered her gray life here and there when she found she had done good,
 
-imparted pleasure, or allayed suffering.
+imparted pleasure, or allayed [[Suffering|suffering]].
 
 
 
-Yet I must speak truth. These efforts brought her neither health of body
+Yet I must speak [[Truth|truth]]. These efforts brought her neither health of [[Body|body]]
 
 nor continued peace of mind. With them all she wasted, grew more joyless
 
-and more wan; with them all her memory kept harping on the name of
+and more wan; with them all her [[Memory|memory]] kept harping on the name of
 
-Robert Moore; an elegy over the past still rung constantly in her ear; a
+[[Robert Moore]]; an [[elegy]] over the past still rung constantly in her ear; a
 
 funereal inward cry haunted and harassed her; the heaviness of a broken
 
 spirit, and of pining and palsying faculties, settled slow on her
 
-buoyant youth. Winter seemed conquering her spring; the mind's soil and
+buoyant youth. [[Winter]] seemed conquering her [[Spring|spring]]; the mind's soil and
 
 its treasures were freezing gradually to barren stagnation.

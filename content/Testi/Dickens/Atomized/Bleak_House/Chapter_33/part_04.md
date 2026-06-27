@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 33 (part 4)"
+title: "Bleak [[house|House]] — Chapter 33 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -26,7 +26,7 @@ The two discoverers stare at the Smallweeds, who return the
 compliment.
 
 “My dear friends,” whines Grandfather Smallweed, putting out both his
-hands, “I owe you a thousand thanks for discharging the melancholy
+hands, “I owe you a thousand thanks for discharging the [[Melancholy|melancholy]]
 office of discovering the ashes of Mrs. Smallweed’s brother.”
 
 “Eh?” says Mr. Guppy.
@@ -58,7 +58,7 @@ know why I should introduce HIM, I am sure!”
 gentleman strikes in, “but I have come to look after the property—to
 look over the papers, and to look after the property. We shall make
 good our title. It is in the hands of my solicitor. Mr. Tulkinghorn,
-of Lincoln’s Inn Fields, over the way there, is so good as to act as
+of [[Lincoln]]’s Inn Fields, over the way there, is so good as to act as
 my solicitor; and grass don’t grow under HIS feet, I can tell ye.
 Krook was Mrs. Smallweed’s only brother; she had no relation but
 Krook, and Krook had no relation but Mrs. Smallweed. I am speaking of
@@ -83,7 +83,7 @@ into his chair in a heap.
 “Shake me up, somebody, if you’ll be so good,” says the voice from
 within the faintly struggling bundle into which he has collapsed. “I
 have come to look after the property. Shake me up, and call in the
-police on duty at the next house to be explained to about the
+police on duty at the next [[house]] to be explained to about the
 property. My solicitor will be here presently to protect the
 property. Transportation or the gallows for anybody who shall touch
 the property!” As his dutiful grandchildren set him up, panting, and
@@ -99,13 +99,13 @@ interest. Mr. Tulkinghorn’s clerk comes down from his official pew in
 the chambers to mention to the police that Mr. Tulkinghorn is
 answerable for its being all correct about the next of kin and that
 the papers and effects will be formally taken possession of in due
-time and course. Mr. Smallweed is at once permitted so far to assert
+[[Time|time]] and course. Mr. Smallweed is at once permitted so far to assert
 his supremacy as to be carried on a visit of sentiment into the next
-house and upstairs into Miss Flite’s deserted room, where he looks
+[[house]] and upstairs into Miss Flite’s deserted room, where he looks
 like a hideous bird of prey newly added to her aviary.
 
-The arrival of this unexpected heir soon taking wind in the court
-still makes good for the Sol and keeps the court upon its mettle.
+The arrival of this unexpected heir soon taking [[Wind|wind]] in the [[Court|court]]
+still makes good for the Sol and keeps the [[Court|court]] upon its mettle.
 Mrs. Piper and Mrs. Perkins think it hard upon the young man if there
 really is no will, and consider that a handsome present ought to be
 made him out of the estate. Young Piper and young Perkins, as members
@@ -115,17 +115,17 @@ and under the archway all day long, where wild yells and hootings
 take place over their remains. Little Swills and Miss M. Melvilleson
 enter into affable conversation with their patrons, feeling that
 these unusual occurrences level the barriers between professionals
-and non-professionals. Mr. Bogsby puts up “The popular song of King
-Death, with chorus by the whole strength of the company,” as the
+and non-professionals. Mr. Bogsby puts up “The popular [[Song|song]] of [[King]]
+[[Death]], with [[Chorus|chorus]] by the whole strength of the company,” as the
 great Harmonic feature of the week and announces in the bill that “J.
 G. B. is induced to do so at a considerable extra expense in
 consequence of a wish which has been very generally expressed at the
-bar by a large body of respectable individuals and in homage to a
-late melancholy event which has aroused so much sensation.” There is
-one point connected with the deceased upon which the court is
+bar by a large [[Body|body]] of respectable individuals and in homage to a
+late [[Melancholy|melancholy]] event which has aroused so much sensation.” There is
+one point connected with the deceased upon which the [[Court|court]] is
 particularly anxious, namely, that the fiction of a full-sized coffin
 should be preserved, though there is so little to put in it. Upon the
 undertaker’s stating in the Sol’s bar in the course of the day that
 he has received orders to construct “a six-footer,” the general
 solicitude is much relieved, and it is considered that Mr.
-Smallweed’s conduct does him great honour.
+Smallweed’s conduct does him great [[Honour|honour]].

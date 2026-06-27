@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Resurrection of Father Brown (part 5)"
+title: "[[Incredulity]] — The [[Resurrection]] of [[Father Brown]] (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -18,17 +18,17 @@ Behind the veranda a flight of stone steps scaled a very
 steep green bank, fenced by a cactus--hedge, and up this
 the coffin was laboriously lifted to the ground above,
 and placed temporarily at the foot of the great gaunt crucifix
-that dominated the road and guarded the consecrated ground.
-Below in the road were great seas of people lamenting and telling
-their beads--an orphan population that had lost a father.
+that dominated the [[Road|road]] and guarded the consecrated ground.
+Below in the [[Road|road]] were great seas of people lamenting and telling
+their beads--an [[Orphan|orphan]] population that had lost a father.
 Despite all these symbols that were provocative enough to him,
 Alvarez behaved with restraint and respect; and all would
-have gone well--as Race told himself--had the others only
-let him alone.
+have gone [[Well|well]]--as Race told himself--had the others only
+let him [[Alone|alone]].
 
 Race told himself bitterly that old Mendoza had always looked
-like an old fool and had now very conspicuously and completely
-behaved like an old fool.  By a custom common in simpler societies,
+like an old [[Fool|fool]] and had now very conspicuously and completely
+behaved like an old [[Fool|fool]].  By a custom common in simpler societies,
 the coffin was left open and the face uncovered, bringing the
 pathos to the point of agony for all those simple people.
 This, being consonant to tradition, need have done no harm;
@@ -46,11 +46,11 @@ In three minutes he had succeeded in making a scene,
 and a very extraordinary scene it was.
 
 `We may well ask,' he said, looking around him pompously;
-`we may well ask where such virtues can be found among
+`we may [[Well|well]] ask where such virtues can be found among
 those who have madly abandoned the creed of their fathers.
 It is when we have atheists among us, atheist leaders,
 nay sometimes even atheist rulers, that we find their
-infamous philosophy bearing fruit in crimes like this.
+infamous [[philosophy]] bearing fruit in crimes like this.
 If we ask who murdered this holy man, we shall assuredly find--`
 
 Africa of the forests looked out of the eyes of Alvarez
@@ -94,7 +94,7 @@ over his shoulder and made a signal with his finger
 to Dr Calderon, who hastened forward to confer with him.
 When the two men stepped away again from the coffin,
 all could see that the position of the head had altered.
-A roar of excitement rose from the crowd and seemed to stop suddenly,
+A roar of excitement [[Rose|rose]] from the crowd and seemed to stop suddenly,
 as if cut off in mid--air; for the priest in the coffin gave
 a groan and raised himself on one elbow, looking with bleared
 and blinking eyes at the crowd.
@@ -102,15 +102,15 @@ and blinking eyes at the crowd.
 John Adams Race, who had hitherto known only miracles of science,
 never found himself able in after--years to describe the topsy--
 turvydom of the next few days.  He seemed to have burst out of
-the world of time and space, and to be living in the impossible.
+the world of [[Time|time]] and space, and to be living in the impossible.
 In half an hour the whole of that town and district had been
 transformed into something never known for a thousand years;
-a medieval people turned to a mob of monks by a staggering miracle;
-a Greek city where the god had descended among men.
-Thousands prostrated themselves in the road; hundreds took vows
+a medieval people turned to a mob of [[Monks|monks]] by a staggering miracle;
+a Greek [[City|city]] where the god had descended among men.
+Thousands prostrated themselves in the [[Road|road]]; hundreds took vows
 on the spot; and even the outsiders, like the two Americans,
 were able to think and speak of nothing but the prodigy.
-Alvarez himself was shaken, as well he might be; and sat down,
+Alvarez himself was shaken, as [[Well|well]] he might be; and sat down,
 with his head upon his hands.
 
 And in the midst of all this tornado of beatitude was a little
@@ -120,7 +120,7 @@ that seemed more those of irritation than anything else.  He came
 to the edge of the parapet above the crowd, waving it to be quiet,
 with movements rather like the flap of the short wings of a penguin.
 There was something a little more like a lull in the noise;
-and then Father Brown for the first time reached the utmost stretch
+and then [[Father Brown]] for the first [[Time|time]] reached the utmost stretch
 of the indignation that he could launch against his children.
 
 `Oh, you silly people,' he said in a high and quavering voice;
@@ -132,6 +132,6 @@ the steps with his more normal gait, and began hurriedly to descend.
 `Where are you going, Father?' said Mendoza, with more than
 his usual veneration.
 
-`To the telegraph office,' said Father Brown hastily.  `What?  No; of
+`To the telegraph office,' said [[Father Brown]] hastily.  `What?  No; of
 course it's not a miracle.  Why should there be a miracle?
 Miracles are not so cheap as all that.'

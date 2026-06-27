@@ -17,8 +17,8 @@ tags:
 THE THREE GIFTS
 
 There were three things prefigured and promised by the gifts
-in the cave of Bethlehem concerning the Child who received them;
-that He should be crowned like a King:  that He should be
+in the [[Cave|cave]] of Bethlehem concerning the [[Child]] who received them;
+that He should be crowned like a [[King]]:  that He should be
 worshipped like a God; and that He should die like a man.
 And these things would sound like Eastern flattery, were it
 not for the third.

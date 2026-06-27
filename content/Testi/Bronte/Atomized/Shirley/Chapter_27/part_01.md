@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 27 (part 1)"
+title: "[[Shirley]] — Chapter 27 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -28,7 +28,7 @@ Miss Keeldar and her uncle had characters that would not harmonize, that
 
 never had harmonized. He was irritable, and she was spirited. He was
 
-despotic, and she liked freedom. He was worldly, and she, perhaps,
+despotic, and she liked [[Freedom|freedom]]. He was worldly, and she, perhaps,
 
 romantic.
 
@@ -46,7 +46,7 @@ ever.
 
 
 
-The misfortune was, from infancy upwards, Shirley and he had disagreed
+The misfortune was, from infancy upwards, [[Shirley]] and he had disagreed
 
 on the meaning of the words "suitable" and "proper." She never yet had
 
@@ -74,7 +74,7 @@ done!_"
 
 He sent for his niece to the oak parlour; he shut himself up there with
 
-her alone; he communicated the offer; he gave his opinion; he claimed
+her [[Alone|alone]]; he communicated the offer; he gave his opinion; he claimed
 
 her consent.
 
@@ -110,7 +110,7 @@ equal respectability."
 
 
 
-"Had he my money counted fivescore times I would take no vow to love
+"Had he my money counted fivescore times I would take no vow to [[Love|love]]
 
 him."
 
@@ -130,7 +130,7 @@ as the first reason why I spurn him."
 
 
 
-"That conduct alone sinks him in a gulf of immeasurable inferiority. His
+"That conduct [[Alone|alone]] sinks him in a gulf of immeasurable inferiority. His
 
 intellect reaches no standard I can esteem: there is a second
 
@@ -164,7 +164,7 @@ demand your hand?"
 
 
 
-"I doubt if the peer breathes on whom I would confer it."
+"I [[Doubt|doubt]] if the peer breathes on whom I would confer it."
 
 
 
@@ -206,7 +206,7 @@ alike.
 
 
 
-"Why? What shadow of power have _you_ over me? Why should I fear you?"
+"Why? What [[Shadow|shadow]] of power have _you_ over me? Why should I [[Fear|fear]] you?"
 
 
 
@@ -224,13 +224,13 @@ to esteem--to admire--to _love_."
 
 
 
-"To love with my whole heart. I know I speak in an unknown tongue; but I
+"To [[Love|love]] with my whole heart. I know I speak in an unknown tongue; but I
 
 feel indifferent whether I am comprehended or not."
 
 
 
-"And if this love of yours should fall on a beggar?"
+"And if this [[Love|love]] of yours should fall on a beggar?"
 
 
 
@@ -242,17 +242,17 @@ feel indifferent whether I am comprehended or not."
 
 
 
-"Take courage, Mr. Sympson! Or what?"
+"Take [[Courage|courage]], Mr. Sympson! Or what?"
 
 
 
-"Any literary scrub, or shabby, whining artist."
+"Any literary scrub, or shabby, whining [[Artist|artist]]."
 
 
 
 "For the scrubby, shabby, whining I have no taste; for literature and
 
-the arts I have. And there I wonder how your Fawthrop Wynne would suit
+the arts I have. And there I [[Wonder|wonder]] how your Fawthrop Wynne would suit
 
 me. He cannot write a note without orthographical errors; he reads only
 
@@ -294,7 +294,7 @@ the form of repeating again and again a similar stroke of luck in the
 
 same quarter. It appeared that Miss Keeldar--or her fortune--had by this
 
-time made a sensation in the district, and produced an impression in
+[[Time|time]] made a sensation in the district, and produced an impression in
 
 quarters by her unthought of. No less than three offers followed Mr.
 
@@ -302,7 +302,7 @@ Wynne's, all more or less eligible. All were in succession pressed on
 
 her by her uncle, and all in succession she refused. Yet amongst them
 
-was more than one gentleman of unexceptionable character as well as
+was more than one gentleman of unexceptionable character as [[Well|well]] as
 
 ample wealth. Many besides her uncle asked what she meant, and whom she
 
@@ -324,8 +324,8 @@ Fieldhead had of late been fast growing too hot to hold them both. The
 
 suave aunt could not reconcile them; the daughters froze at the view of
 
-their quarrels. Gertrude and Isabella whispered by the hour together in
+their quarrels. [[Gertrude]] and [[Isabella]] whispered by the hour together in
 
 their dressing-room, and became chilled with decorous dread if they
 
-chanced to be left alone with their audacious cousin. But, as I have
+chanced to be left [[Alone|alone]] with their audacious cousin. But, as I have

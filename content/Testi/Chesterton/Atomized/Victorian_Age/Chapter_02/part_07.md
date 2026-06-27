@@ -16,7 +16,7 @@ tags:
 
 Henceforth Thackeray can count on our seeing him from his wig to his
 
-well-blacked boots whenever he chooses to say "Major Pendennis paid a
+[[Well|well]]-blacked boots whenever he chooses to say "Major Pendennis paid a
 
 call." Dickens, on the other hand, had to keep up an incessant
 
@@ -28,7 +28,7 @@ kept it up.
 
 It may be said, in approximate summary, that Thackeray is the novelist
 
-of memory--of our memories as well as his own. Dickens seems to expect
+of [[Memory|memory]]--of our memories as [[Well|well]] as his own. Dickens seems to expect
 
 all his characters, like amusing strangers arriving at lunch: as if they
 
@@ -44,7 +44,7 @@ in some trivial grimace: we smell the strong smell of social cliques
 
 now quite incongruous to us; and there stir in all the little rooms at
 
-once the hundred ghosts of oneself.
+once the hundred [[Ghosts|ghosts]] of oneself.
 
 
 
@@ -72,7 +72,7 @@ such men is all the more effective; and there are passages in _Vanity
 
 Fair_ and still more in _The Book of Snobs_, where he does make the
 
-dance of wealth and fashion look stiff and monstrous, like a Babylonian
+[[Dance|dance]] of wealth and fashion look stiff and monstrous, like a Babylonian
 
 masquerade. But he never quite did it in such a way as to turn the
 
@@ -82,9 +82,9 @@ course of the Victorian Age.
 
 It may seem strange to say that Thackeray did not know enough of the
 
-world; yet this was the truth about him in large matters of the
+world; yet this was the [[Truth|truth]] about him in large matters of the
 
-philosophy of life, and especially of his own time. He did not know the
+[[philosophy]] of life, and especially of his own [[Time|time]]. He did not know the
 
 way things were going: he was too Victorian to understand the Victorian
 
@@ -94,17 +94,17 @@ one of his delightful asides he imagines two little clerks commenting
 
 erroneously on the appearance of Lady Kew or Sir Brian Newcome in the
 
-Park, and says: "How should Jones and Brown, who are not, _vous
+Park, and says: "How should [[Jones]] and Brown, who are not, _vous
 
 comprenez, du monde_, understand these mysteries?" But I think Thackeray
 
-knew quite as little about Jones and Brown as they knew about Newcome
+knew quite as little about [[Jones]] and Brown as they knew about Newcome
 
 and Kew; his world was _le monde_. Hence he seemed to take it for
 
 granted that the Victorian compromise would last; while Dickens (who
 
-knew his Jones and Brown) had already guessed that it would not.
+knew his [[Jones]] and Brown) had already guessed that it would not.
 
 Thackeray did not realise that the Victorian platform was a moving
 
@@ -112,19 +112,19 @@ platform. To take but one instance, he was a Radical like Dickens; all
 
 really representative Victorians, except perhaps Tennyson, were
 
-Radicals. But he seems to have thought of all reform as simple and
+Radicals. But he seems to have thought of all [[Reform|reform]] as simple and
 
 straightforward and all of a piece; as if Catholic Emancipation, the New
 
-Poor Law, Free Trade and the Factory Acts and Popular Education were all
+Poor Law, Free Trade and the Factory Acts and Popular [[Education]] were all
 
-parts of one almost self-evident evolution of enlightenment. Dickens,
+parts of one almost [[Self|self]]-evident evolution of enlightenment. Dickens,
 
-being in touch with the democracy, had already discovered that the
+being in touch with the [[Democracy|democracy]], had already discovered that the
 
 country had come to a dark place of divided ways and divided counsels.
 
-In _Hard Times_ he realised Democracy at war with Radicalism; and
+In _Hard Times_ he realised [[Democracy]] at war with Radicalism; and
 
 became, with so incompatible an ally as Ruskin, not indeed a Socialist,
 
@@ -138,7 +138,7 @@ Veneering had carried off Twemlow in triumph. He very nearly knew what
 
 we all know to-day: that, so far from it being possible to plod along
 
-the progressive road with more votes and more Free Trade, England must
+the progressive [[Road|road]] with more votes and more Free Trade, England must
 
 either sharply become very much more democratic or as rapidly become
 
@@ -148,23 +148,23 @@ very much less so.
 
 There gathers round these two great novelists a considerable group of
 
-good novelists, who more or less mirror their mid-Victorian mood. Wilkie
+good novelists, who more or less [[Mirror|mirror]] their mid-Victorian mood. Wilkie
 
 Collins may be said to be in this way a lesser Dickens and Anthony
 
 Trollope a lesser Thackeray. Wilkie Collins is chiefly typical of his
 
-time in this respect: that while his moral and religious conceptions
+[[Time|time]] in this respect: that while his moral and religious conceptions
 
 were as mechanical as his carefully constructed fictitious conspiracies,
 
 he nevertheless informed the latter with a sort of involuntary mysticism
 
-which dealt wholly with the darker side of the soul. For this was one
+which dealt wholly with the darker side of the [[Soul|soul]]. For this was one
 
 of the most peculiar of the problems of the Victorian mind. The idea of
 
-the supernatural was perhaps at as low an ebb as it had ever
+the [[Supernatural|supernatural]] was perhaps at as low an ebb as it had ever
 
 been--certainly much lower than it is now. But in spite of this, and in
 
@@ -174,13 +174,13 @@ strange fact remains that the only sort of supernaturalism the
 
 Victorians allowed to their imaginations was a sad supernaturalism. They
 
-might have ghost stories, but not saints' stories. They could trifle
+might have [[Ghost|ghost]] stories, but not saints' stories. They could trifle
 
-with the curse or unpardoning prophecy of a witch, but not with the
+with the curse or unpardoning prophecy of a [[Witch|witch]], but not with the
 
 pardon of a priest. They seem to have held (I believe erroneously) that
 
-the supernatural was safest when it came from below. When we think (for
+the [[Supernatural|supernatural]] was safest when it came from below. When we think (for
 
 example) of the uncountable riches of religious art, imagery, ritual and
 

@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 11)"
+title: "[[The Mystery of Marie Roget]] (part 11)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -18,9 +18,9 @@ tags:
 
       courts. I would here observe that very much of what is rejected
 
-      as evidence by a court, is the best of evidence to the intellect.
+      as evidence by a [[Court|court]], is the best of evidence to the intellect.
 
-      For the court, guiding itself by the general principles of
+      For the [[Court|court]], guiding itself by the general principles of
 
       evidence—the recognized and _booked_ principles—is averse from
 
@@ -28,9 +28,9 @@ tags:
 
       principle, with rigorous disregard of the conflicting exception,
 
-      is a sure mode of attaining the maximum of attainable truth, in
+      is a sure mode of attaining the maximum of attainable [[Truth|truth]], in
 
-      any long sequence of time. The practice, in mass, is therefore
+      any long sequence of [[Time|time]]. The practice, in mass, is therefore
 
       philosophical; but it is not the less certain that it engenders
 
@@ -42,9 +42,9 @@ tags:
 
       willing to dismiss them in a breath. You have already fathomed
 
-      the true character of this good gentleman. He is a busy-body,
+      the true character of this good gentleman. He is a busy-[[Body|body]],
 
-      with much of romance and little of wit. Any one so constituted
+      with much of [[Romance|romance]] and little of wit. Any one so constituted
 
       will readily so conduct himself, upon occasion of real
 
@@ -68,7 +68,7 @@ tags:
 
       that stronger evidence ‘to make others believe,’ could never have
 
-      been adduced, it may be remarked that a man may very well be
+      been adduced, it may be remarked that a man may very [[Well|well]] be
 
       understood to believe, in a case of this kind, without the
 
@@ -76,7 +76,7 @@ tags:
 
       party. Nothing is more vague than impressions of individual
 
-      identity. Each man recognizes his neighbor, yet there are few
+      [[Identity|identity]]. Each man recognizes his neighbor, yet there are few
 
       instances in which any one is prepared to give a reason for his
 
@@ -90,15 +90,15 @@ tags:
 
       tally much better with my hypothesis of romantic busy-bodyism,
 
-      than with the reasoner’s suggestion of guilt. Once adopting the
+      than with the reasoner’s suggestion of [[Guilt|guilt]]. Once adopting the
 
       more charitable interpretation, we shall find no difficulty in
 
-      comprehending the rose in the key-hole; the ‘Marie’ upon the
+      comprehending the [[Rose|rose]] in the key-hole; the ‘Marie’ upon the
 
       slate; the ‘elbowing the male relatives out of the way;’ the
 
-      ‘aversion to permitting them to see the body;’ the caution given
+      ‘aversion to permitting them to see the [[Body|body]];’ the caution given
 
       to Madame B——, that she must hold no conversation with the
 
@@ -122,7 +122,7 @@ tags:
 
       of their believing the corpse to be that of the perfumery-girl—we
 
-      shall now proceed as if the question of identity were settled to
+      shall now proceed as if the question of [[Identity|identity]] were settled to
 
       our perfect satisfaction.”
 
@@ -146,15 +146,15 @@ tags:
 
       of low ruffians not far from her mother’s door. ‘It is
 
-      impossible,’ it urges, ‘that a person so well known to thousands
+      impossible,’ it urges, ‘that a person so [[Well|well]] known to thousands
 
       as this young woman was, should have passed three blocks without
 
       some one having seen her.’ This is the idea of a man long
 
-      resident in Paris—a public man—and one whose walks to and fro in
+      resident in [[Paris]]—a public man—and one whose walks to and fro in
 
-      the city, have been mostly limited to the vicinity of the public
+      the [[City|city]], have been mostly limited to the vicinity of the public
 
       offices. He is aware that he seldom passes so far as a dozen
 
@@ -180,7 +180,7 @@ tags:
 
       who are led to observation of his person through interest in the
 
-      kindred nature of his occupation with their own. But the walks of
+      kindred [[Nature|nature]] of his occupation with their own. But the walks of
 
       Marie may, in general, be supposed discursive. In this particular
 
@@ -192,7 +192,7 @@ tags:
 
       the mind of Le Commerciel would only be sustained in the event of
 
-      the two individuals traversing the whole city. In this case,
+      the two individuals traversing the whole [[City|city]]. In this case,
 
       granting the personal acquaintances to be equal, the chances
 

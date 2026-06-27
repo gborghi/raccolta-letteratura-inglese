@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-‘I have been so habituated,’ returned Arthur, at a loss, ‘during
-the short time I have known her, to consider Little--I have been so
+‘I have been so habituated,’ returned [[arthur|Arthur]], at a loss, ‘during
+the short [[Time|time]] I have known her, to consider Little--I have been so
 habituated to consider Miss Dorrit in a light altogether removed from
 that in which you present her to me, that you quite take me by surprise.
 Does she know your son?’
@@ -25,8 +25,8 @@ Does she know your son?’
 ‘Does she know your son as her admirer?’
 
 ‘Oh! bless you, sir,’ said Mrs Chivery, with a sort of triumphant
-shiver, ‘she never could have seen him on a Sunday without knowing he
-was that. His cane alone would have told it long ago, if nothing else
+shiver, ‘she never could have seen him on a [[Sunday]] without knowing he
+was that. His cane [[Alone|alone]] would have told it long ago, if nothing else
 had. Young men like John don’t take to ivory hands a pinting, for
 nothing. How did I first know it myself? Similarly.’
 
@@ -36,9 +36,9 @@ nothing. How did I first know it myself? Similarly.’
 
 ‘Are you sure?’
 
-‘Sir,’ said Mrs Chivery, ‘sure and certain as in this house I am. I see
-my son go out with my own eyes when in this house I was, and I see my
-son come in with my own eyes when in this house I was, and I know he
+‘Sir,’ said Mrs Chivery, ‘sure and certain as in this [[house]] I am. I see
+my son go out with my own eyes when in this [[house]] I was, and I see my
+son come in with my own eyes when in this [[house]] I was, and I know he
 done it!’ Mrs Chivery derived a surprising force of emphasis from the
 foregoing circumstantiality and repetition.
 
@@ -46,19 +46,19 @@ foregoing circumstantiality and repetition.
 causes you so much uneasiness?’
 
 ‘That,’ said Mrs Chivery, ‘took place on that same day when to this
-house I see that John with these eyes return. Never been himself in this
-house since. Never was like what he has been since, not from the hour
-when to this house seven year ago me and his father, as tenants by the
-quarter, came!’ An effect in the nature of an affidavit was gained from
+[[house]] I see that John with these eyes return. Never been himself in this
+[[house]] since. Never was like what he has been since, not from the hour
+when to this [[house]] seven year ago me and his father, as tenants by the
+quarter, came!’ An effect in the [[Nature|nature]] of an affidavit was gained from
 this speech by Mrs Chivery’s peculiar power of construction.
 
 ‘May I venture to inquire what is your version of the matter?’
 
-‘You may,’ said Mrs Chivery, ‘and I will give it to you in honour and in
+‘You may,’ said Mrs Chivery, ‘and I will give it to you in [[Honour|honour]] and in
 word as true as in this shop I stand. Our John has every one’s good word
-and every one’s good wish. He played with her as a child when in that
-yard a child she played. He has known her ever since. He went out upon
-the Sunday afternoon when in this very parlour he had dined, and met
+and every one’s good wish. He played with her as a [[Child|child]] when in that
+yard a [[Child|child]] she played. He has known her ever since. He went out upon
+the [[Sunday]] afternoon when in this very parlour he had dined, and met
 her, with appointment or without appointment; which, I do not pretend to
 say. He made his offer to her. Her brother and sister is high in their
 views, and against Our John. Her father is all for himself in his views
@@ -71,8 +71,8 @@ constant slave to them that are not worthy that a constant slave she
 unto them should be. This is the way in which Our John has come to find
 no pleasure but in taking cold among the linen, and in showing in that
 yard, as in that yard I have myself shown you, a broken-down ruin that
-goes home to his mother’s heart!’ Here the good woman pointed to the
-little window, whence her son might be seen sitting disconsolate in
+goes [[Home|home]] to his mother’s heart!’ Here the good woman pointed to the
+little [[Window|window]], whence her son might be seen sitting disconsolate in
 the tuneless groves; and again shook her head and wiped her eyes, and
 besought him, for the united sakes of both the young people, to exercise
 his influence towards the bright reversal of these dismal events.
@@ -84,9 +84,9 @@ could not feel positive on the other side. He had come to attach to
 Little Dorrit an interest so peculiar--an interest that removed her
 from, while it grew out of, the common and coarse things surrounding
 her--that he found it disappointing, disagreeable, almost painful, to
-suppose her in love with young Mr Chivery in the back-yard, or any such
+suppose her in [[Love|love]] with young Mr Chivery in the back-yard, or any such
 person. On the other hand, he reasoned with himself that she was just
-as good and just as true in love with him, as not in love with him;
+as good and just as true in [[Love|love]] with him, as not in [[Love|love]] with him;
 and that to make a kind of domesticated fairy of her, on the penalty
 of isolation at heart from the only people she knew, would be but a
 weakness of his own fancy, and not a kind one. Still, her youthful and
@@ -101,17 +101,17 @@ mind--he did that, indeed, while she was yet speaking--that he might be
 relied upon to do his utmost at all times to promote the happiness of
 Miss Dorrit, and to further the wishes of her heart if it were in his
 power to do so, and if he could discover what they were. At the same
-time he cautioned her against assumptions and appearances; enjoined
-strict silence and secrecy, lest Miss Dorrit should be made unhappy; and
+[[Time|time]] he cautioned her against assumptions and appearances; enjoined
+strict [[Silence|silence]] and secrecy, lest Miss Dorrit should be made unhappy; and
 particularly advised her to endeavour to win her son’s confidence and so
 to make quite sure of the state of the case. Mrs Chivery considered the
 latter precaution superfluous, but said she would try. She shook her
 head as if she had not derived all the comfort she had fondly expected
 from this interview, but thanked him nevertheless for the trouble he had
-kindly taken. They then parted good friends, and Arthur walked away.
+kindly taken. They then parted good friends, and [[arthur|Arthur]] walked away.
 
 The crowd in the street jostling the crowd in his mind, and the two
-crowds making a confusion, he avoided London Bridge, and turned off in
+crowds making a confusion, he avoided [[London]] Bridge, and turned off in
 the quieter direction of the Iron Bridge. He had scarcely set foot upon
 it, when he saw Little Dorrit walking on before him. It was a pleasant
 day, with a light breeze blowing, and she seemed to have that minute

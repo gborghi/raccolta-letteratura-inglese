@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 12"
+title: "[[Wuthering Heights]] — Chapter 12"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -17,31 +17,31 @@ tags:
 CHAPTER XII
 
 
-While Miss Linton moped about the park and garden, always silent, and
-almost always in tears; and her brother shut himself up among books
+While Miss Linton moped about the park and [[Garden|garden]], always silent, and
+almost always in [[Tears|tears]]; and her brother shut himself up among books
 that he never opened—wearying, I guessed, with a continual vague
 expectation that Catherine, repenting her conduct, would come of her
-own accord to ask pardon, and seek a reconciliation—and _she_ fasted
-pertinaciously, under the idea, probably, that at every meal Edgar was
-ready to choke for her absence, and pride alone held him from running
+own accord to ask pardon, and seek a [[Reconciliation|reconciliation]]—and _she_ fasted
+pertinaciously, under the idea, probably, that at every meal [[Edgar]] was
+ready to choke for her absence, and [[Pride|pride]] [[Alone|alone]] held him from running
 to cast himself at her feet; I went about my household duties,
-convinced that the Grange had but one sensible soul in its walls, and
-that lodged in my body. I wasted no condolences on Miss, nor any
+convinced that the Grange had but one sensible [[Soul|soul]] in its walls, and
+that lodged in my [[Body|body]]. I wasted no condolences on Miss, nor any
 expostulations on my mistress; nor did I pay much attention to the
 sighs of my master, who yearned to hear his lady’s name, since he might
 not hear her voice. I determined they should come about as they pleased
 for me; and though it was a tiresomely slow process, I began to rejoice
-at length in a faint dawn of its progress: as I thought at first.
+at length in a faint [[Dawn|dawn]] of its progress: as I thought at first.
 
 Mrs. Linton, on the third day, unbarred her door, and having finished
-the water in her pitcher and decanter, desired a renewed supply, and a
+the [[Water|water]] in her pitcher and decanter, desired a renewed supply, and a
 basin of gruel, for she believed she was dying. That I set down as a
-speech meant for Edgar’s ears; I believed no such thing, so I kept it
+speech meant for [[Edgar]]’s ears; I believed no such thing, so I kept it
 to myself and brought her some tea and dry toast. She ate and drank
 eagerly, and sank back on her pillow again, clenching her hands and
 groaning. “Oh, I will die,” she exclaimed, “since no one cares anything
 about me. I wish I had not taken that.” Then a good while after I heard
-her murmur, “No, I’ll not die—he’d be glad—he does not love me at
+her murmur, “No, I’ll not die—he’d be glad—he does not [[Love|love]] me at
 all—he would never miss me!”
 
 “Did you want anything, ma’am?” I inquired, still preserving my
@@ -52,7 +52,7 @@ exaggerated manner.
 entangled locks from her wasted face. “Has he fallen into a lethargy,
 or is he dead?”
 
-“Neither,” replied I; “if you mean Mr. Linton. He’s tolerably well, I
+“Neither,” replied I; “if you mean Mr. Linton. He’s tolerably [[Well|well]], I
 think, though his studies occupy him rather more than they ought: he is
 continually among his books, since he has no other society.”
 
@@ -60,18 +60,18 @@ I should not have spoken so if I had known her true condition, but I
 could not get rid of the notion that she acted a part of her disorder.
 
 “Among his books!” she cried, confounded. “And I dying! I on the brink
-of the grave! My God! does he know how I’m altered?” continued she,
-staring at her reflection in a mirror hanging against the opposite
+of the [[Grave|grave]]! My God! does he know how I’m altered?” continued she,
+staring at her reflection in a [[Mirror|mirror]] hanging against the opposite
 wall. “Is that Catherine Linton? He imagines me in a pet—in play,
 perhaps. Cannot you inform him that it is frightful earnest? Nelly, if
 it be not too late, as soon as I learn how he feels, I’ll choose
 between these two: either to starve at once—that would be no punishment
 unless he had a heart—or to recover, and leave the country. Are you
-speaking the truth about him now? Take care. Is he actually so utterly
+speaking the [[Truth|truth]] about him now? Take care. Is he actually so utterly
 indifferent for my life?”
 
 “Why, ma’am,” I answered, “the master has no idea of your being
-deranged; and of course he does not fear that you will let yourself die
+deranged; and of course he does not [[Fear|fear]] that you will let yourself die
 of hunger.”
 
 “You think not? Cannot you tell him I will?” she returned. “Persuade
@@ -87,18 +87,18 @@ oh, I’ve been tormented! I’ve been haunted, Nelly! But I begin to fancy
 you don’t like me. How strange! I thought, though everybody hated and
 despised each other, they could not avoid loving me. And they have all
 turned to enemies in a few hours. _They_ have, I’m positive; the people
-_here_. How dreary to meet death, surrounded by their cold faces!
-Isabella, terrified and repelled, afraid to enter the room, it would be
-so dreadful to watch Catherine go. And Edgar standing solemnly by to
+_here_. How dreary to meet [[Death|death]], surrounded by their cold faces!
+[[Isabella]], terrified and repelled, afraid to enter the room, it would be
+so dreadful to watch Catherine go. And [[Edgar]] standing solemnly by to
 see it over; then offering prayers of thanks to God for restoring peace
-to his house, and going back to his _books_! What in the name of all
+to his [[house]], and going back to his _books_! What in the name of all
 that feels has he to do with _books_, when I am dying?”
 
 She could not bear the notion which I had put into her head of Mr.
-Linton’s philosophical resignation. Tossing about, she increased her
-feverish bewilderment to madness, and tore the pillow with her teeth;
+Linton’s philosophical [[Resignation|resignation]]. Tossing about, she increased her
+feverish bewilderment to [[Madness|madness]], and tore the pillow with her teeth;
 then raising herself up all burning, desired that I would open the
-window. We were in the middle of winter, the wind blew strong from the
+[[Window|window]]. We were in the middle of [[Winter|winter]], the [[Wind|wind]] blew strong from the
 north-east, and I objected. Both the expressions flitting over her
 face, and the changes of her moods, began to alarm me terribly; and
 brought to my recollection her former illness, and the doctor’s
@@ -110,13 +110,13 @@ their different species: her mind had strayed to other associations.
 
 “That’s a turkey’s,” she murmured to herself; “and this is a wild
 duck’s; and this is a pigeon’s. Ah, they put pigeons’ feathers in the
-pillows—no wonder I couldn’t die! Let me take care to throw it on the
+pillows—no [[Wonder|wonder]] I couldn’t die! Let me take care to throw it on the
 floor when I lie down. And here is a moor-cock’s; and this—I should
 know it among a thousand—it’s a lapwing’s. Bonny bird; wheeling over
 our heads in the middle of the moor. It wanted to get to its nest, for
 the clouds had touched the swells, and it felt rain coming. This
 feather was picked up from the heath, the bird was not shot: we saw its
-nest in the winter, full of little skeletons. Heathcliff set a trap
+nest in the [[Winter|winter]], full of little skeletons. [[Heathcliff]] set a trap
 over it, and the old ones dared not come. I made him promise he’d never
 shoot a lapwing after that, and he didn’t. Yes, here are more! Did he
 shoot my lapwings, Nelly? Are they red, any of them? Let me look.”
@@ -124,22 +124,22 @@ shoot my lapwings, Nelly? Are they red, any of them? Let me look.”
 “Give over with that baby-work!” I interrupted, dragging the pillow
 away, and turning the holes towards the mattress, for she was removing
 its contents by handfuls. “Lie down and shut your eyes: you’re
-wandering. There’s a mess! The down is flying about like snow.”
+wandering. There’s a mess! The down is flying about like [[Snow|snow]].”
 
 I went here and there collecting it.
 
 “I see in you, Nelly,” she continued dreamily, “an aged woman: you have
-grey hair and bent shoulders. This bed is the fairy cave under
+grey hair and bent shoulders. This bed is the fairy [[Cave|cave]] under
 Penistone Crags, and you are gathering elf-bolts to hurt our heifers;
 pretending, while I am near, that they are only locks of wool. That’s
 what you’ll come to fifty years hence: I know you are not so now. I’m
 not wandering: you’re mistaken, or else I should believe you really
 _were_ that withered hag, and I should think I _was_ under Penistone
-Crags; and I’m conscious it’s night, and there are two candles on the
+Crags; and I’m conscious it’s [[Night|night]], and there are two candles on the
 table making the black press shine like jet.”
 
 “The black press? where is that?” I asked. “You are talking in your
-sleep!”
+[[Sleep|sleep]]!”
 
 “It’s against the wall, as it always is,” she replied. “It _does_
 appear odd—I see a face in it!”
@@ -148,14 +148,14 @@ appear odd—I see a face in it!”
 seat, and looping up the curtain that I might watch her.
 
 “Don’t _you_ see that face?” she inquired, gazing earnestly at the
-mirror.
+[[Mirror|mirror]].
 
 And say what I could, I was incapable of making her comprehend it to be
-her own; so I rose and covered it with a shawl.
+her own; so I [[Rose|rose]] and covered it with a shawl.
 
 “It’s behind there still!” she pursued, anxiously. “And it stirred. Who
-is it? I hope it will not come out when you are gone! Oh! Nelly, the
-room is haunted! I’m afraid of being alone!”
+is it? I [[Hope|hope]] it will not come out when you are gone! Oh! Nelly, the
+room is haunted! I’m afraid of being [[Alone|alone]]!”
 
 I took her hand in mine, and bid her be composed; for a succession of
 shudders convulsed her frame, and she _would_ keep straining her gaze
@@ -164,7 +164,7 @@ towards the glass.
 “There’s nobody here!” I insisted. “It was _yourself_, Mrs. Linton: you
 knew it a while since.”
 
-“Myself!” she gasped, “and the clock is striking twelve! It’s true,
+“Myself!” she gasped, “and the [[Clock|clock]] is striking twelve! It’s true,
 then! that’s dreadful!”
 
 Her fingers clutched the clothes, and gathered them over her eyes. I
@@ -173,82 +173,82 @@ husband; but I was summoned back by a piercing shriek—the shawl had
 dropped from the frame.
 
 “Why, what _is_ the matter?” cried I. “Who is coward now? Wake up! That
-is the glass—the mirror, Mrs. Linton; and you see yourself in it, and
+is the glass—the [[Mirror|mirror]], Mrs. Linton; and you see yourself in it, and
 there am I too by your side.”
 
 Trembling and bewildered, she held me fast, but the horror gradually
 passed from her countenance; its paleness gave place to a glow of
 shame.
 
-“Oh, dear! I thought I was at home,” she sighed. “I thought I was lying
-in my chamber at Wuthering Heights. Because I’m weak, my brain got
+“Oh, dear! I thought I was at [[Home|home]],” she sighed. “I thought I was lying
+in my chamber at [[Wuthering Heights]]. Because I’m weak, my brain got
 confused, and I screamed unconsciously. Don’t say anything; but stay
-with me. I dread sleeping: my dreams appal me.”
+with me. I dread sleeping: my [[Dreams|dreams]] appal me.”
 
-“A sound sleep would do you good, ma’am,” I answered: “and I hope this
-suffering will prevent your trying starving again.”
+“A sound [[Sleep|sleep]] would do you good, ma’am,” I answered: “and I [[Hope|hope]] this
+[[Suffering|suffering]] will prevent your trying starving again.”
 
-“Oh, if I were but in my own bed in the old house!” she went on
-bitterly, wringing her hands. “And that wind sounding in the firs by
+“Oh, if I were but in my own bed in the old [[house]]!” she went on
+bitterly, wringing her hands. “And that [[Wind|wind]] sounding in the firs by
 the lattice. Do let me feel it—it comes straight down the moor—do let
 me have one breath!”
 
 To pacify her I held the casement ajar a few seconds. A cold blast
 rushed through; I closed it, and returned to my post. She lay still
-now, her face bathed in tears. Exhaustion of body had entirely subdued
-her spirit: our fiery Catherine was no better than a wailing child.
+now, her face bathed in [[Tears|tears]]. Exhaustion of [[Body|body]] had entirely subdued
+her spirit: our fiery Catherine was no better than a wailing [[Child|child]].
 
 “How long is it since I shut myself in here?” she asked, suddenly
 reviving.
 
-“It was Monday evening,” I replied, “and this is Thursday night, or
+“It was Monday evening,” I replied, “and this is [[thursday|Thursday]] [[Night|night]], or
 rather Friday morning, at present.”
 
-“What! of the same week?” she exclaimed. “Only that brief time?”
+“What! of the same week?” she exclaimed. “Only that brief [[Time|time]]?”
 
-“Long enough to live on nothing but cold water and ill-temper,”
+“Long enough to live on nothing but cold [[Water|water]] and ill-temper,”
 observed I.
 
-“Well, it seems a weary number of hours,” she muttered doubtfully: “it
+“[[Well]], it seems a weary number of hours,” she muttered doubtfully: “it
 must be more. I remember being in the parlour after they had
-quarrelled, and Edgar being cruelly provoking, and me running into this
+quarrelled, and [[Edgar]] being cruelly provoking, and me running into this
 room desperate. As soon as ever I had barred the door, utter blackness
-overwhelmed me, and I fell on the floor. I couldn’t explain to Edgar
+overwhelmed me, and I fell on the floor. I couldn’t explain to [[Edgar]]
 how certain I felt of having a fit, or going raging mad, if he
 persisted in teasing me! I had no command of tongue, or brain, and he
 did not guess my agony, perhaps: it barely left me sense to try to
 escape from him and his voice. Before I recovered sufficiently to see
-and hear, it began to be dawn, and, Nelly, I’ll tell you what I
+and hear, it began to be [[Dawn|dawn]], and, Nelly, I’ll tell you what I
 thought, and what has kept recurring and recurring till I feared for my
 reason. I thought as I lay there, with my head against that table leg,
-and my eyes dimly discerning the grey square of the window, that I was
-enclosed in the oak-panelled bed at home; and my heart ached with some
+and my eyes dimly discerning the grey square of the [[Window|window]], that I was
+enclosed in the oak-panelled bed at [[Home|home]]; and my heart ached with some
 great grief which, just waking, I could not recollect. I pondered, and
 worried myself to discover what it could be, and, most strangely, the
 whole last seven years of my life grew a blank! I did not recall that
-they had been at all. I was a child; my father was just buried, and my
+they had been at all. I was a [[Child|child]]; my father was just buried, and my
 misery arose from the separation that Hindley had ordered between me
-and Heathcliff. I was laid alone, for the first time; and, rousing from
-a dismal doze after a night of weeping, I lifted my hand to push the
+and [[Heathcliff]]. I was laid [[Alone|alone]], for the first [[Time|time]]; and, rousing from
+a dismal doze after a [[Night|night]] of weeping, I lifted my hand to push the
 panels aside: it struck the table-top! I swept it along the carpet, and
-then memory burst in: my late anguish was swallowed in a paroxysm of
-despair. I cannot say why I felt so wildly wretched: it must have been
+then [[Memory|memory]] burst in: my late anguish was swallowed in a paroxysm of
+[[Despair|despair]]. I cannot say why I felt so wildly wretched: it must have been
 temporary derangement; for there is scarcely cause. But, supposing at
 twelve years old I had been wrenched from the Heights, and every early
-association, and my all in all, as Heathcliff was at that time, and
+association, and my all in all, as [[Heathcliff]] was at that [[Time|time]], and
 been converted at a stroke into Mrs. Linton, the lady of Thrushcross
-Grange, and the wife of a stranger: an exile, and outcast, thenceforth,
+Grange, and the wife of a stranger: an [[Exile|exile]], and outcast, thenceforth,
 from what had been my world. You may fancy a glimpse of the abyss where
 I grovelled! Shake your head as you will, Nelly, _you_ have helped to
-unsettle me! You should have spoken to Edgar, indeed you should, and
+unsettle me! You should have spoken to [[Edgar]], indeed you should, and
 compelled him to leave me quiet! Oh, I’m burning! I wish I were out of
 doors! I wish I were a girl again, half savage and hardy, and free; and
 laughing at injuries, not maddening under them! Why am I so changed?
-why does my blood rush into a hell of tumult at a few words? I’m sure I
+why does my [[Blood|blood]] rush into a hell of tumult at a few words? I’m sure I
 should be myself were I once among the heather on those hills. Open the
-window again wide: fasten it open! Quick, why don’t you move?”
+[[Window|window]] again wide: fasten it open! Quick, why don’t you move?”
 
-“Because I won’t give you your death of cold,” I answered.
+“Because I won’t give you your [[Death|death]] of cold,” I answered.
 
 “You won’t give me a chance of life, you mean,” she said sullenly.
 “However, I’m not helpless yet; I’ll open it myself.”
@@ -259,19 +259,19 @@ of the frosty air that cut about her shoulders as keen as a knife. I
 entreated, and finally attempted to force her to retire. But I soon
 found her delirious strength much surpassed mine (she _was_ delirious,
 I became convinced by her subsequent actions and ravings). There was no
-moon, and everything beneath lay in misty darkness: not a light gleamed
-from any house, far or near; all had been extinguished long ago: and
-those at Wuthering Heights were never visible—still she asserted she
+[[Moon|moon]], and everything beneath lay in misty darkness: not a light gleamed
+from any [[house]], far or near; all had been extinguished long ago: and
+those at [[Wuthering Heights]] were never visible—still she asserted she
 caught their shining.
 
 “Look!” she cried eagerly, “that’s my room with the candle in it, and
 the trees swaying before it; and the other candle is in Joseph’s
-garret. Joseph sits up late, doesn’t he? He’s waiting till I come home
-that he may lock the gate. Well, he’ll wait a while yet. It’s a rough
-journey, and a sad heart to travel it; and we must pass by Gimmerton
-Kirk to go that journey! We’ve braved its ghosts often together, and
+garret. Joseph sits up late, doesn’t he? He’s waiting till I come [[Home|home]]
+that he may lock the gate. [[Well]], he’ll wait a while yet. It’s a rough
+[[Journey|journey]], and a sad heart to travel it; and we must pass by Gimmerton
+Kirk to go that [[Journey|journey]]! We’ve braved its [[Ghosts|ghosts]] often together, and
 dared each other to stand among the graves and ask them to come. But,
-Heathcliff, if I dare you now, will you venture? If you do, I’ll keep
+[[Heathcliff]], if I dare you now, will you venture? If you do, I’ll keep
 you. I’ll not lie there by myself: they may bury me twelve feet deep,
 and throw the church down over me, but I won’t rest till you are with
 me. I never will!”
@@ -282,11 +282,11 @@ You are slow! Be content, you always followed me!”
 
 Perceiving it vain to argue against her insanity, I was planning how I
 could reach something to wrap about her, without quitting my hold of
-herself (for I could not trust her alone by the gaping lattice), when,
+herself (for I could not trust her [[Alone|alone]] by the gaping lattice), when,
 to my consternation, I heard the rattle of the door-handle, and Mr.
 Linton entered. He had only then come from the library; and, in passing
 through the lobby, had noticed our talking and been attracted by
-curiosity, or fear, to examine what it signified, at that late hour.
+curiosity, or [[Fear|fear]], to examine what it signified, at that late hour.
 
 “Oh, sir!” I cried, checking the exclamation risen to his lips at the
 sight which met him, and the bleak atmosphere of the chamber. “My poor
@@ -294,7 +294,7 @@ mistress is ill, and she quite masters me: I cannot manage her at all;
 pray, come and persuade her to go to bed. Forget your anger, for she’s
 hard to guide any way but her own.”
 
-“Catherine ill?” he said, hastening to us. “Shut the window, Ellen!
+“Catherine ill?” he said, hastening to us. “Shut the [[Window|window]], Ellen!
 Catherine! why—”
 
 He was silent. The haggardness of Mrs. Linton’s appearance smote him
@@ -316,22 +316,22 @@ abstracted gaze. The delirium was not fixed, however; having weaned her
 eyes from contemplating the outer darkness, by degrees she centred her
 attention on him, and discovered who it was that held her.
 
-“Ah! you are come, are you, Edgar Linton?” she said, with angry
+“Ah! you are come, are you, [[Edgar Linton]]?” she said, with angry
 animation. “You are one of those things that are ever found when least
 wanted, and when you are wanted, never! I suppose we shall have plenty
 of lamentations now—I see we shall—but they can’t keep me from my
-narrow home out yonder: my resting-place, where I’m bound before spring
+narrow [[Home|home]] out yonder: my resting-place, where I’m bound before [[spring]]
 is over! There it is: not among the Lintons, mind, under the
 chapel-roof, but in the open air, with a head-stone; and you may please
 yourself whether you go to them or come to me!”
 
 “Catherine, what have you done?” commenced the master. “Am I nothing to
-you any more? Do you love that wretch Heath—”
+you any more? Do you [[Love|love]] that wretch Heath—”
 
 “Hush!” cried Mrs. Linton. “Hush, this moment! You mention that name
-and I end the matter instantly by a spring from the window! What you
-touch at present you may have; but my soul will be on that hill-top
-before you lay hands on me again. I don’t want you, Edgar: I’m past
+and I end the matter instantly by a [[spring]] from the [[Window|window]]! What you
+touch at present you may have; but my [[Soul|soul]] will be on that [[Hill|hill]]-top
+before you lay hands on me again. I don’t want you, [[Edgar]]: I’m past
 wanting you. Return to your books. I’m glad you possess a consolation,
 for all you had in me is gone.”
 
@@ -339,33 +339,33 @@ for all you had in me is gone.”
 the whole evening; but let her have quiet, and proper attendance, and
 she’ll rally. Hereafter, we must be cautious how we vex her.”
 
-“I desire no further advice from you,” answered Mr. Linton. “You knew
-your mistress’s nature, and you encouraged me to harass her. And not to
+“I [[Desire|desire]] no further advice from you,” answered Mr. Linton. “You knew
+your mistress’s [[Nature|nature]], and you encouraged me to harass her. And not to
 give me one hint of how she has been these three days! It was
 heartless! Months of sickness could not cause such a change!”
 
 I began to defend myself, thinking it too bad to be blamed for
-another’s wicked waywardness. “I knew Mrs. Linton’s nature to be
+another’s wicked waywardness. “I knew Mrs. Linton’s [[Nature|nature]] to be
 headstrong and domineering,” cried I: “but I didn’t know that you
-wished to foster her fierce temper! I didn’t know that, to humour her,
-I should wink at Mr. Heathcliff. I performed the duty of a faithful
+wished to foster her fierce temper! I didn’t know that, to [[Humour|humour]] her,
+I should wink at Mr. [[Heathcliff]]. I performed the duty of a faithful
 servant in telling you, and I have got a faithful servant’s wages!
-Well, it will teach me to be careful next time. Next time you may
+[[Well]], it will teach me to be careful next [[Time|time]]. Next [[Time|time]] you may
 gather intelligence for yourself!”
 
-“The next time you bring a tale to me you shall quit my service, Ellen
+“The next [[Time|time]] you bring a tale to me you shall quit my service, Ellen
 Dean,” he replied.
 
 “You’d rather hear nothing about it, I suppose, then, Mr. Linton?” said
-I. “Heathcliff has your permission to come a-courting to Miss, and to
-drop in at every opportunity your absence offers, on purpose to poison
+I. “[[Heathcliff]] has your permission to come a-courting to Miss, and to
+drop in at every opportunity your absence offers, on purpose to [[Poison|poison]]
 the mistress against you?”
 
 Confused as Catherine was, her wits were alert at applying our
 conversation.
 
 “Ah! Nelly has played traitor,” she exclaimed, passionately. “Nelly is
-my hidden enemy. You witch! So you do seek elf-bolts to hurt us! Let me
+my hidden enemy. You [[Witch|witch]]! So you do seek elf-bolts to hurt us! Let me
 go, and I’ll make her rue! I’ll make her howl a recantation!”
 
 A maniac’s fury kindled under her brows; she struggled desperately to
@@ -373,31 +373,31 @@ disengage herself from Linton’s arms. I felt no inclination to tarry
 the event; and, resolving to seek medical aid on my own responsibility,
 I quitted the chamber.
 
-In passing the garden to reach the road, at a place where a bridle hook
+In passing the [[Garden|garden]] to reach the [[Road|road]], at a place where a bridle hook
 is driven into the wall, I saw something white moved irregularly,
-evidently by another agent than the wind. Notwithstanding my hurry, I
+evidently by another agent than the [[Wind|wind]]. Notwithstanding my hurry, I
 stayed to examine it, lest ever after I should have the conviction
-impressed on my imagination that it was a creature of the other world.
+impressed on my [[Imagination|imagination]] that it was a creature of the other world.
 My surprise and perplexity were great on discovering, by touch more
-than vision, Miss Isabella’s springer, Fanny, suspended by a
+than vision, Miss [[Isabella]]’s springer, Fanny, suspended by a
 handkerchief, and nearly at its last gasp. I quickly released the
-animal, and lifted it into the garden. I had seen it follow its
+animal, and lifted it into the [[Garden|garden]]. I had seen it follow its
 mistress upstairs when she went to bed; and wondered much how it could
 have got out there, and what mischievous person had treated it so.
 While untying the knot round the hook, it seemed to me that I
 repeatedly caught the beat of horses’ feet galloping at some distance;
 but there were such a number of things to occupy my reflections that I
 hardly gave the circumstance a thought: though it was a strange sound,
-in that place, at two o’clock in the morning.
+in that place, at two o’[[Clock|clock]] in the morning.
 
-Mr. Kenneth was fortunately just issuing from his house to see a
+Mr. Kenneth was fortunately just issuing from his [[house]] to see a
 patient in the village as I came up the street; and my account of
 Catherine Linton’s malady induced him to accompany me back immediately.
 He was a plain rough man; and he made no scruple to speak his doubts of
 her surviving this second attack; unless she were more submissive to
 his directions than she had shown herself before.
 
-“Nelly Dean,” said he, “I can’t help fancying there’s an extra cause
+“[[Nelly Dean]],” said he, “I can’t help fancying there’s an extra cause
 for this. What has there been to do at the Grange? We’ve odd reports up
 here. A stout, hearty lass like Catherine does not fall ill for a
 trifle; and that sort of people should not either. It’s hard work
@@ -417,11 +417,11 @@ filled with all sorts of strange ideas and illusions.”
 “Sorry? he’ll break his heart should anything happen!” I replied.
 “Don’t alarm him more than necessary.”
 
-“Well, I told him to beware,” said my companion; “and he must bide the
+“[[Well]], I told him to beware,” said my companion; “and he must bide the
 consequences of neglecting my warning! Hasn’t he been intimate with Mr.
-Heathcliff lately?”
+[[Heathcliff]] lately?”
 
-“Heathcliff frequently visits at the Grange,” answered I, “though more
+“[[Heathcliff]] frequently visits at the Grange,” answered I, “though more
 on the strength of the mistress having known him when a boy, than
 because the master likes his company. At present he’s discharged from
 the trouble of calling; owing to some presumptuous aspirations after
@@ -435,21 +435,21 @@ next question.
 subject.
 
 “No, she’s a sly one,” he remarked, shaking his head. “She keeps her
-own counsel! But she’s a real little fool. I have it from good
-authority that last night (and a pretty night it was!) she and
-Heathcliff were walking in the plantation at the back of your house
+own counsel! But she’s a real little [[Fool|fool]]. I have it from good
+authority that last [[Night|night]] (and a pretty [[Night|night]] it was!) she and
+[[Heathcliff]] were walking in the plantation at the back of your [[house]]
 above two hours; and he pressed her not to go in again, but just mount
-his horse and away with him! My informant said she could only put him
-off by pledging her word of honour to be prepared on their first
+his [[Horse|horse]] and away with him! My informant said she could only put him
+off by pledging her word of [[Honour|honour]] to be prepared on their first
 meeting after that: when it was to be he didn’t hear; but you urge Mr.
 Linton to look sharp!”
 
 This news filled me with fresh fears; I outstripped Kenneth, and ran
-most of the way back. The little dog was yelping in the garden yet. I
+most of the way back. The little dog was yelping in the [[Garden|garden]] yet. I
 spared a minute to open the gate for it, but instead of going to the
-house door, it coursed up and down snuffing the grass, and would have
-escaped to the road, had I not seized it and conveyed it in with me. On
-ascending to Isabella’s room, my suspicions were confirmed: it was
+[[house]] door, it coursed up and down snuffing the grass, and would have
+escaped to the [[Road|road]], had I not seized it and conveyed it in with me. On
+ascending to [[Isabella]]’s room, my suspicions were confirmed: it was
 empty. Had I been a few hours sooner Mrs. Linton’s illness might have
 arrested her rash step. But what could be done now? There was a bare
 possibility of overtaking them if pursued instantly. _I_ could not
@@ -459,25 +459,25 @@ absorbed as he was in his present calamity, and having no heart to
 spare for a second grief! I saw nothing for it but to hold my tongue,
 and suffer matters to take their course; and Kenneth being arrived, I
 went with a badly composed countenance to announce him. Catherine lay
-in a troubled sleep: her husband had succeeded in soothing the excess
+in a troubled [[Sleep|sleep]]: her husband had succeeded in soothing the excess
 of frenzy; he now hung over her pillow, watching every shade and every
 change of her painfully expressive features.
 
 The doctor, on examining the case for himself, spoke hopefully to him
 of its having a favourable termination, if we could only preserve
 around her perfect and constant tranquillity. To me, he signified the
-threatening danger was not so much death, as permanent alienation of
+threatening danger was not so much [[Death|death]], as permanent [[Alienation|alienation]] of
 intellect.
 
-I did not close my eyes that night, nor did Mr. Linton: indeed, we
+I did not close my eyes that [[Night|night]], nor did Mr. Linton: indeed, we
 never went to bed; and the servants were all up long before the usual
-hour, moving through the house with stealthy tread, and exchanging
+hour, moving through the [[house]] with stealthy tread, and exchanging
 whispers as they encountered each other in their vocations. Every one
-was active but Miss Isabella; and they began to remark how sound she
+was active but Miss [[Isabella]]; and they began to remark how sound she
 slept: her brother, too, asked if she had risen, and seemed impatient
 for her presence, and hurt that she showed so little anxiety for her
 sister-in-law. I trembled lest he should send me to call her; but I was
-spared the pain of being the first proclaimant of her flight. One of
+spared the [[Pain|pain]] of being the first proclaimant of her flight. One of
 the maids, a thoughtless girl, who had been on an early errand to
 Gimmerton, came panting upstairs, open-mouthed, and dashed into the
 chamber, crying: “Oh, dear, dear! What mun we have next? Master,
@@ -488,7 +488,7 @@ master, our young lady—”
 “Speak lower, Mary—What is the matter?” said Mr. Linton. “What ails
 your young lady?”
 
-“She’s gone, she’s gone! Yon’ Heathcliff’s run off wi’ her!” gasped the
+“She’s gone, she’s gone! Yon’ [[Heathcliff]]’s run off wi’ her!” gasped the
 girl.
 
 “That is not true!” exclaimed Linton, rising in agitation. “It cannot
@@ -498,23 +498,23 @@ is incredible: it cannot be.”
 As he spoke he took the servant to the door, and then repeated his
 demand to know her reasons for such an assertion.
 
-“Why, I met on the road a lad that fetches milk here,” she stammered,
+“Why, I met on the [[Road|road]] a lad that fetches milk here,” she stammered,
 “and he asked whether we weren’t in trouble at the Grange. I thought he
 meant for missis’s sickness, so I answered, yes. Then says he, ‘There’s
 somebody gone after ’em, I guess?’ I stared. He saw I knew nought about
-it, and he told how a gentleman and lady had stopped to have a horse’s
+it, and he told how a gentleman and lady had stopped to have a [[Horse|horse]]’s
 shoe fastened at a blacksmith’s shop, two miles out of Gimmerton, not
 very long after midnight! and how the blacksmith’s lass had got up to
 spy who they were: she knew them both directly. And she noticed the
-man—Heathcliff it was, she felt certain: nob’dy could mistake him,
+man—[[Heathcliff]] it was, she felt certain: nob’dy could mistake him,
 besides—put a sovereign in her father’s hand for payment. The lady had
-a cloak about her face; but having desired a sup of water, while she
-drank it fell back, and she saw her very plain. Heathcliff held both
+a cloak about her face; but having desired a sup of [[Water|water]], while she
+drank it fell back, and she saw her very plain. [[Heathcliff]] held both
 bridles as they rode on, and they set their faces from the village, and
 went as fast as the rough roads would let them. The lass said nothing
 to her father, but she told it all over Gimmerton this morning.”
 
-I ran and peeped, for form’s sake, into Isabella’s room; confirming,
+I ran and peeped, for form’s sake, into [[Isabella]]’s room; confirming,
 when I returned, the servant’s statement. Mr. Linton had resumed his
 seat by the bed; on my re-entrance, he raised his eyes, read the
 meaning of my blank aspect, and dropped them without giving an order,
@@ -530,5 +530,5 @@ disowned me.”
 
 And that was all he said on the subject: he did not make a single inquiry
 further, or mention her in any way, except directing me to send what
-property she had in the house to her fresh home, wherever it was, when
+property she had in the [[house]] to her fresh [[Home|home]], wherever it was, when
 I knew it.

@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 38"
+title: "[[Nicholas Nickleby]] — Chapter 38"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -17,13 +17,13 @@ tags:
 CHAPTER 38
 
 Comprises certain Particulars arising out of a Visit of Condolence,
-which may prove important hereafter. Smike unexpectedly encounters a
-very old Friend, who invites him to his House, and will take no Denial
+which may prove important hereafter. [[Smike]] unexpectedly encounters a
+very old Friend, who invites him to his [[house|House]], and will take no Denial
 
 
 Quite unconscious of the demonstrations of their amorous neighbour, or
-their effects upon the susceptible bosom of her mama, Kate Nickleby
-had, by this time, begun to enjoy a settled feeling of tranquillity and
+their effects upon the susceptible bosom of her mama, [[Kate Nickleby]]
+had, by this [[Time|time]], begun to enjoy a settled feeling of tranquillity and
 happiness, to which, even in occasional and transitory glimpses, she
 had long been a stranger. Living under the same roof with the beloved
 brother from whom she had been so suddenly and hardly separated: with
@@ -31,18 +31,18 @@ a mind at ease, and free from any persecutions which could call a blush
 into her cheek, or a pang into her heart, she seemed to have passed into
 a new state of being. Her former cheerfulness was restored, her step
 regained its elasticity and lightness, the colour which had forsaken
-her cheek visited it once again, and Kate Nickleby looked more beautiful
+her cheek visited it once again, and [[Kate Nickleby]] looked more beautiful
 than ever.
 
 Such was the result to which Miss La Creevy’s ruminations and
 observations led her, when the cottage had been, as she emphatically
 said, ‘thoroughly got to rights, from the chimney-pots to the
 street-door scraper,’ and the busy little woman had at length a moment’s
-time to think about its inmates.
+[[Time|time]] to think about its inmates.
 
 ‘Which I declare I haven’t had since I first came down here,’ said
 Miss La Creevy; ‘for I have thought of nothing but hammers, nails,
-screwdrivers, and gimlets, morning, noon, and night.’
+screwdrivers, and gimlets, morning, [[Noon|noon]], and [[Night|night]].’
 
 ‘You never bestowed one thought upon yourself, I believe,’ returned
 Kate, smiling.
@@ -58,8 +58,8 @@ a great change in one of this family--a very extraordinary change?’
 the close of the sentence, ‘for he is always the same affectionate
 good-natured clever creature, with a spice of the--I won’t say who--in
 him when there’s any occasion, that he was when I first knew you. No.
-Smike, as he WILL be called, poor fellow! for he won’t hear of a MR
-before his name, is greatly altered, even in this short time.’
+[[Smike]], as he WILL be called, poor fellow! for he won’t hear of a MR
+before his name, is greatly altered, even in this short [[Time|time]].’
 
 ‘How?’ asked Kate. ‘Not in health?’
 
@@ -71,14 +71,14 @@ health.’
 ‘How then?’
 
 ‘I scarcely know,’ said the miniature painter. ‘But I have watched him,
-and he has brought the tears into my eyes many times. It is not a very
+and he has brought the [[Tears|tears]] into my eyes many times. It is not a very
 difficult matter to do that, certainly, for I am easily melted; still I
 think these came with good cause and reason. I am sure that since he has
 been here, he has grown, from some strong cause, more conscious of his
-weak intellect. He feels it more. It gives him greater pain to know that
+weak intellect. He feels it more. It gives him greater [[Pain|pain]] to know that
 he wanders sometimes, and cannot understand very simple things. I have
 watched him when you have not been by, my dear, sit brooding by himself,
-with such a look of pain as I could scarcely bear to see, and then get
+with such a look of [[Pain|pain]] as I could scarcely bear to see, and then get
 up and leave the room: so sorrowfully, and in such dejection, that
 I cannot tell you how it has hurt me. Not three weeks ago, he was a
 light-hearted busy creature, overjoyed to be in a bustle, and as
@@ -87,20 +87,20 @@ harmless, faithful, loving creature--but the same in nothing else.’
 
 ‘Surely this will all pass off,’ said Kate. ‘Poor fellow!’
 
-‘I hope,’ returned her little friend, with a gravity very unusual in
-her, ‘it may. I hope, for the sake of that poor lad, it may. However,’
+‘I [[Hope|hope]],’ returned her little friend, with a gravity very unusual in
+her, ‘it may. I [[Hope|hope]], for the sake of that poor lad, it may. However,’
 said Miss La Creevy, relapsing into the cheerful, chattering tone, which
 was habitual to her, ‘I have said my say, and a very long say it is, and
-a very wrong say too, I shouldn’t wonder at all. I shall cheer him up
+a very wrong say too, I shouldn’t [[Wonder|wonder]] at all. I shall cheer him up
 tonight, at all events, for if he is to be my squire all the way to the
 Strand, I shall talk on, and on, and on, and never leave off, till I
 have roused him into a laugh at something. So the sooner he goes, the
 better for him, and the sooner I go, the better for me, I am sure, or
 else I shall have my maid gallivanting with somebody who may rob the
-house--though what there is to take away, besides tables and chairs,
+[[house]]--though what there is to take away, besides tables and chairs,
 I don’t know, except the miniatures: and he is a clever thief who can
 dispose of them to any great advantage, for I can’t, I know, and that’s
-the honest truth.’
+the honest [[Truth|truth]].’
 
 So saying, little Miss La Creevy hid her face in a very flat bonnet, and
 herself in a very big shawl; and fixing herself tightly into the latter,
@@ -113,7 +113,7 @@ to, the occasion, the omnibus arrived. This put Miss La Creevy in a
 great bustle, in consequence whereof, as she secretly rewarded the
 servant girl with eighteen-pence behind the street-door, she pulled
 out of her reticule ten-pennyworth of halfpence, which rolled into all
-possible corners of the passage, and occupied some considerable time
+possible corners of the passage, and occupied some considerable [[Time|time]]
 in the picking up. This ceremony had, of course, to be succeeded by a
 second kissing of Kate and Mrs. Nickleby, and a gathering together of the
 little basket and the brown-paper parcel, during which proceedings, ‘the
@@ -122,28 +122,28 @@ quite awful to hear it.’ At length and at last, it made a feint of going
 away, and then Miss La Creevy darted out, and darted in, apologising
 with great volubility to all the passengers, and declaring that she
 wouldn’t purposely have kept them waiting on any account whatever. While
-she was looking about for a convenient seat, the conductor pushed Smike
+she was looking about for a convenient seat, the conductor pushed [[Smike]]
 in, and cried that it was all right--though it wasn’t--and away went the
 huge vehicle, with the noise of half-a-dozen brewers’ drays at least.
 
-Leaving it to pursue its journey at the pleasure of the conductor
+Leaving it to pursue its [[Journey|journey]] at the pleasure of the conductor
 aforementioned, who lounged gracefully on his little shelf behind,
 smoking an odoriferous cigar; and leaving it to stop, or go on, or
 gallop, or crawl, as that gentleman deemed expedient and advisable; this
 narrative may embrace the opportunity of ascertaining the condition of
-Sir Mulberry Hawk, and to what extent he had, by this time, recovered
+Sir Mulberry Hawk, and to what extent he had, by this [[Time|time]], recovered
 from the injuries consequent on being flung violently from his
 cabriolet, under the circumstances already detailed.
 
-With a shattered limb, a body severely bruised, a face disfigured by
-half-healed scars, and pallid from the exhaustion of recent pain and
+With a shattered limb, a [[Body|body]] severely bruised, a face disfigured by
+half-healed scars, and pallid from the exhaustion of recent [[Pain|pain]] and
 fever, Sir Mulberry Hawk lay stretched upon his back, on the couch to
 which he was doomed to be a prisoner for some weeks yet to come. Mr. Pyke
 and Mr. Pluck sat drinking hard in the next room, now and then varying
 the monotonous murmurs of their conversation with a half-smothered
 laugh, while the young lord--the only member of the party who was not
 thoroughly irredeemable, and who really had a kind heart--sat beside his
-Mentor, with a cigar in his mouth, and read to him, by the light of a
+[[Mentor]], with a cigar in his mouth, and read to him, by the light of a
 lamp, such scraps of intelligence from a paper of the day, as were most
 likely to yield him interest or amusement.
 
@@ -156,8 +156,8 @@ brim, as some recompense for the deprivation of speech.
 
 ‘Damn!’ muttered the sick man between his teeth, and writhing
 impatiently in his bed. ‘Isn’t this mattress hard enough, and the room
-dull enough, and pain bad enough, but THEY must torture me? What’s the
-time?’
+dull enough, and [[Pain|pain]] bad enough, but THEY must torture me? What’s the
+[[Time|time]]?’
 
 ‘Half-past eight,’ replied his friend.
 
@@ -174,7 +174,7 @@ with good cards, which was not often the case. Sir Mulberry won every
 game; and when his companion threw down the cards, and refused to play
 any longer, thrust forth his wasted arm and caught up the stakes with a
 boastful oath, and the same hoarse laugh, though considerably lowered in
-tone, that had resounded in Ralph Nickleby’s dining-room, months before.
+tone, that had resounded in [[Ralph Nickleby]]’s dining-room, months before.
 
 While he was thus occupied, his man appeared, to announce that Mr. Ralph
 Nickleby was below, and wished to know how he was, tonight.
@@ -196,7 +196,7 @@ master, more violently than before. ‘You know that, you blockhead.’
 ‘I am very sorry, sir,’ returned the man. ‘But Mr. Nickleby pressed so
 much, sir--’
 
-The fact was, that Ralph Nickleby had bribed the man, who, being anxious
+The fact was, that [[Ralph Nickleby]] had bribed the man, who, being anxious
 to earn his money with a view to future favours, held the door in his
 hand, and ventured to linger still.
 
@@ -208,7 +208,7 @@ said, sir.’
 
 ‘Tell him to come up. Here,’ cried Sir Mulberry, calling the man back,
 as he passed his hand over his disfigured face, ‘move that lamp, and
-put it on the stand behind me. Wheel that table away, and place a chair
+put it on the stand behind me. [[Wheel]] that table away, and place a chair
 there--further off. Leave it so.’
 
 The man obeyed these directions as if he quite comprehended the motive
@@ -216,23 +216,23 @@ with which they were dictated, and left the room. Lord Frederick
 Verisopht, remarking that he would look in presently, strolled into the
 adjoining apartment, and closed the folding door behind him.
 
-Then was heard a subdued footstep on the stairs; and Ralph Nickleby, hat
-in hand, crept softly into the room, with his body bent forward as if in
+Then was heard a subdued footstep on the stairs; and [[Ralph Nickleby]], hat
+in hand, crept softly into the room, with his [[Body|body]] bent forward as if in
 profound respect, and his eyes fixed upon the face of his worthy client.
 
-‘Well, Nickleby,’ said Sir Mulberry, motioning him to the chair by the
+‘[[Well]], Nickleby,’ said Sir Mulberry, motioning him to the chair by the
 couch side, and waving his hand in assumed carelessness, ‘I have had a
 bad accident, you see.’
 
 ‘I see,’ rejoined Ralph, with the same steady gaze. ‘Bad, indeed! I
 should not have known you, Sir Mulberry. Dear, dear! This IS bad.’
 
-Ralph’s manner was one of profound humility and respect; and the low
+Ralph’s manner was one of profound [[Humility|humility]] and respect; and the low
 tone of voice was that, which the gentlest consideration for a sick man
 would have taught a visitor to assume. But the expression of his face,
 Sir Mulberry’s being averted, was in extraordinary contrast; and as
 he stood, in his usual attitude, calmly looking on the prostrate form
-before him, all that part of his features which was not cast into shadow
+before him, all that part of his features which was not cast into [[Shadow|shadow]]
 by his protruding and contracted brows, bore the impress of a sarcastic
 smile.
 
@@ -241,7 +241,7 @@ violent effort. ‘Am I a sight, that you stand gazing there?’
 
 As he turned his face, Ralph recoiled a step or two, and making as
 though he were irresistibly impelled to express astonishment, but was
-determined not to do so, sat down with well-acted confusion.
+determined not to do so, sat down with [[Well|well]]-acted confusion.
 
 ‘I have inquired at the door, Sir Mulberry, every day,’ said Ralph,
 ‘twice a day, indeed, at first--and tonight, presuming upon old
@@ -265,7 +265,7 @@ that he could scarcely endure it.
 tonight?’ asked Sir Mulberry.
 
 ‘Nothing,’ replied Ralph. ‘There are some bills of my lord’s which need
-renewal; but let them be till you are well. I--I--came,’ said Ralph,
+renewal; but let them be till you are [[Well|well]]. I--I--came,’ said Ralph,
 speaking more slowly, and with harsher emphasis, ‘I came to say how
 grieved I am that any relative of mine, although disowned by me, should
 have inflicted such punishment on you as--’
@@ -283,7 +283,7 @@ interfere.’
 Sir Mulberry, clenching his hands and teeth.
 
 ‘Noised in all directions,’ replied Ralph. ‘Every club and gaming-room
-has rung with it. There has been a good song made about it, as I am
+has rung with it. There has been a good [[Song|song]] made about it, as I am
 told,’ said Ralph, looking eagerly at his questioner. ‘I have not heard
 it myself, not being in the way of such things, but I have been told
 it’s even printed--for private circulation--but that’s all over town, of
@@ -302,22 +302,22 @@ with his hand to his ear, and a face as calm as if its every line of
 sternness had been cast in iron.
 
 ‘When I am off this cursed bed,’ said the invalid, actually striking at
-his broken leg in the ecstasy of his passion, ‘I’ll have such revenge as
+his broken leg in the ecstasy of his passion, ‘I’ll have such [[Revenge|revenge]] as
 never man had yet. By God, I will. Accident favouring him, he has marked
 me for a week or two, but I’ll put a mark on him that he shall carry
-to his grave. I’ll slit his nose and ears, flog him, maim him for life.
+to his [[Grave|grave]]. I’ll slit his nose and ears, flog him, maim him for life.
 I’ll do more than that; I’ll drag that pattern of chastity, that pink of
 prudery, the delicate sister, through--’
 
-It might have been that even Ralph’s cold blood tingled in his cheeks
+It might have been that even Ralph’s cold [[Blood|blood]] tingled in his cheeks
 at that moment. It might have been that Sir Mulberry remembered, that,
-knave and usurer as he was, he must, in some early time of infancy, have
+knave and usurer as he was, he must, in some early [[Time|time]] of infancy, have
 twined his arm about her father’s neck. He stopped, and menacing with
 his hand, confirmed the unuttered threat with a tremendous oath.
 
-‘It is a galling thing,’ said Ralph, after a short term of silence,
+‘It is a galling thing,’ said Ralph, after a short term of [[Silence|silence]],
 during which he had eyed the sufferer keenly, ‘to think that the man
-about town, the rake, the ROUE, the rook of twenty seasons should be
+about town, the rake, the ROUE, the rook of twenty [[Seasons|seasons]] should be
 brought to this pass by a mere boy!’
 
 Sir Mulberry darted a wrathful look at him, but Ralph’s eyes were bent
@@ -337,17 +337,17 @@ pretty sure I couldn’t be mistaken. He is light and active, I suppose.
 But those were slight advantages compared with yours. Luck, luck! These
 hang-dog outcasts have it.’
 
-‘He’ll need the most he has, when I am well again,’ said Sir Mulberry
+‘He’ll need the most he has, when I am [[Well|well]] again,’ said Sir Mulberry
 Hawk, ‘let him fly where he will.’
 
 ‘Oh!’ returned Ralph quickly, ‘he doesn’t dream of that. He is here,
-good sir, waiting your pleasure, here in London, walking the streets
+good sir, waiting your pleasure, here in [[London]], walking the streets
 at noonday; carrying it off jauntily; looking for you, I swear,’ said
 Ralph, his face darkening, and his own hatred getting the upper hand
-of him, for the first time, as this gay picture of Nicholas presented
+of him, for the first [[Time|time]], as this gay picture of Nicholas presented
 itself; ‘if we were only citizens of a country where it could be safely
 done, I’d give good money to have him stabbed to the heart and rolled
-into the kennel for the dogs to tear.’
+into the kennel for the [[dogs]] to tear.’
 
 As Ralph, somewhat to the surprise of his old client, vented this
 little piece of sound family feeling, and took up his hat preparatory to
@@ -360,7 +360,7 @@ Croak, croak, croak. Bow, wow, wow. What has it all been about?’
 ‘Sir Mulberry has been angry, my Lord,’ said Ralph, looking towards the
 couch.
 
-‘Not about money, I hope? Nothing has gone wrong in business, has it,
+‘Not about money, I [[Hope|hope]]? Nothing has gone wrong in business, has it,
 Nickleby?’
 
 ‘No, my Lord, no,’ returned Ralph. ‘On that point we always agree. Sir
@@ -387,7 +387,7 @@ fellow.’
 ‘Ye-es,’ said the other, turning full upon him. ‘If you had told him
 who you were; if you had given him your card, and found out, afterwards,
 that his station or character prevented your fighting him, it would have
-been bad enough then; upon my soul it would have been bad enough then.
+been bad enough then; upon my [[Soul|soul]] it would have been bad enough then.
 As it is, you did wrong. I did wrong too, not to interfere, and I
 am sorry for it. What happened to you afterwards, was as much the
 consequence of accident as design, and more your fault than his; and it
@@ -399,14 +399,14 @@ turned upon his heel; but before he had reached the adjoining room he
 turned back again, and said, with even greater vehemence than he had
 displayed before,
 
-‘I do believe, now; upon my honour I do believe, that the sister is as
+‘I do believe, now; upon my [[Honour|honour]] I do believe, that the sister is as
 virtuous and modest a young lady as she is a handsome one; and of the
 brother, I say this, that he acted as her brother should, and in a manly
-and spirited manner. And I only wish, with all my heart and soul, that
-any one of us came out of this matter half as well as he does.’
+and spirited manner. And I only wish, with all my heart and [[Soul|soul]], that
+any one of us came out of this matter half as [[Well|well]] as he does.’
 
 So saying, Lord Frederick Verisopht walked out of the room, leaving
-Ralph Nickleby and Sir Mulberry in most unpleasant astonishment.
+[[Ralph Nickleby]] and Sir Mulberry in most unpleasant astonishment.
 
 ‘Is this your pupil?’ asked Ralph, softly, ‘or has he come fresh from
 some country parson?’
@@ -416,36 +416,36 @@ biting his lip, and pointing to the door. ‘Leave him to me.’
 
 Ralph exchanged a familiar look with his old acquaintance; for they had
 suddenly grown confidential again in this alarming surprise; and took
-his way home, thoughtfully and slowly.
+his way [[Home|home]], thoughtfully and slowly.
 
 While these things were being said and done, and long before they were
 concluded, the omnibus had disgorged Miss La Creevy and her escort, and
-they had arrived at her own door. Now, the good-nature of the little
-miniature painter would by no means allow of Smike’s walking back again,
+they had arrived at her own door. Now, the good-[[Nature|nature]] of the little
+miniature painter would by no means allow of [[Smike]]’s walking back again,
 until he had been previously refreshed with just a sip of something
-comfortable and a mixed biscuit or so; and Smike, entertaining no
+comfortable and a mixed biscuit or so; and [[Smike]], entertaining no
 objection either to the sip of something comfortable, or the mixed
 biscuit, but, considering on the contrary that they would be a very
 pleasant preparation for a walk to Bow, it fell out that he delayed much
 longer than he originally intended, and that it was some half-hour after
-dusk when he set forth on his journey home.
+dusk when he set forth on his [[Journey|journey]] [[Home|home]].
 
 There was no likelihood of his losing his way, for it lay quite straight
-before him, and he had walked into town with Nicholas, and back alone,
+before him, and he had walked into town with Nicholas, and back [[Alone|alone]],
 almost every day. So, Miss La Creevy and he shook hands with mutual
 confidence, and, being charged with more kind remembrances to Mrs. and
-Miss Nickleby, Smike started off.
+Miss Nickleby, [[Smike]] started off.
 
-At the foot of Ludgate Hill, he turned a little out of the road to
+At the foot of Ludgate [[Hill]], he turned a little out of the [[Road|road]] to
 satisfy his curiosity by having a look at Newgate. After staring up at
 the sombre walls, from the opposite side of the way, with great care
 and dread for some minutes, he turned back again into the old track, and
-walked briskly through the city; stopping now and then to gaze in at the
-window of some particularly attractive shop, then running for a little
+walked briskly through the [[City|city]]; stopping now and then to gaze in at the
+[[Window|window]] of some particularly attractive shop, then running for a little
 way, then stopping again, and so on, as any other country lad might do.
 
-He had been gazing for a long time through a jeweller’s window, wishing
-he could take some of the beautiful trinkets home as a present, and
+He had been gazing for a long [[Time|time]] through a jeweller’s [[Window|window]], wishing
+he could take some of the beautiful trinkets [[Home|home]] as a present, and
 imagining what delight they would afford if he could, when the clocks
 struck three-quarters past eight; roused by the sound, he hurried on at
 a very quick pace, and was crossing the corner of a by-street when he
@@ -454,7 +454,7 @@ obliged to cling to a lamp-post to save himself from falling. At the
 same moment, a small boy clung tight round his leg, and a shrill cry of
 ‘Here he is, father! Hooray!’ vibrated in his ears.
 
-Smike knew that voice too well. He cast his despairing eyes downward
+[[Smike]] knew that voice too [[Well|well]]. He cast his despairing eyes downward
 towards the form from which it had proceeded, and, shuddering from head
 to foot, looked round. Mr. Squeers had hooked him in the coat collar with
 the handle of his umbrella, and was hanging on at the other end with all
@@ -473,7 +473,7 @@ of them coaches.’
 ‘A coach, father!’ cried little Wackford.
 
 ‘Yes, a coach, sir,’ replied Squeers, feasting his eyes upon the
-countenance of Smike. ‘Damn the expense. Let’s have him in a coach.’
+countenance of [[Smike]]. ‘Damn the expense. Let’s have him in a coach.’
 
 ‘What’s he been a doing of?’ asked a labourer with a hod of bricks,
 against whom and a fellow-labourer Mr. Squeers had backed, on the first
@@ -484,7 +484,7 @@ a sort of rapturous trance. ‘Everything--running away, sir--joining in
 bloodthirsty attacks upon his master--there’s nothing that’s bad that he
 hasn’t done. Oh, what a delicious go is this here, good Lord!’
 
-The man looked from Squeers to Smike; but such mental faculties as the
+The man looked from Squeers to [[Smike]]; but such mental faculties as the
 poor fellow possessed, had utterly deserted him. The coach came up;
 Master Wackford entered; Squeers pushed in his prize, and following
 close at his heels, pulled up the glasses. The coachman mounted his
@@ -494,12 +494,12 @@ school, who had been the only witnesses of the scene, to meditate upon
 it at their leisure.
 
 Mr. Squeers sat himself down on the opposite seat to the unfortunate
-Smike, and, planting his hands firmly on his knees, looked at him for
+[[Smike]], and, planting his hands firmly on his knees, looked at him for
 some five minutes, when, seeming to recover from his trance, he uttered
 a loud laugh, and slapped his old pupil’s face several times--taking the
 right and left sides alternately.
 
-‘It isn’t a dream!’ said Squeers. ‘That’s real flesh and blood! I know
+‘It isn’t [[A Dream|a dream]]!’ said Squeers. ‘That’s real flesh and [[Blood|blood]]! I know
 the feel of it!’ and being quite assured of his good fortune by these
 experiments, Mr. Squeers administered a few boxes on the ear, lest the
 entertainments should seem to partake of sameness, and laughed louder
@@ -525,37 +525,37 @@ father do, and when you die you’ll go right slap to Heaven and no
 questions asked.’
 
 Improving the occasion in these words, Mr. Squeers patted his son’s head
-again, and then patted Smike’s--but harder; and inquired in a bantering
-tone how he found himself by this time.
+again, and then patted [[Smike]]’s--but harder; and inquired in a bantering
+tone how he found himself by this [[Time|time]].
 
-‘I must go home,’ replied Smike, looking wildly round.
+‘I must go [[Home|home]],’ replied [[Smike]], looking wildly round.
 
 ‘To be sure you must. You’re about right there,’ replied Mr. Squeers.
-‘You’ll go home very soon, you will. You’ll find yourself at the
+‘You’ll go [[Home|home]] very soon, you will. You’ll find yourself at the
 peaceful village of Dotheboys, in Yorkshire, in something under a week’s
-time, my young friend; and the next time you get away from there, I
+[[Time|time]], my young friend; and the next [[Time|time]] you get away from there, I
 give you leave to keep away. Where’s the clothes you run off in, you
 ungrateful robber?’ said Mr. Squeers, in a severe voice.
 
-Smike glanced at the neat attire which the care of Nicholas had provided
+[[Smike]] glanced at the neat attire which the care of Nicholas had provided
 for him; and wrung his hands.
 
 ‘Do you know that I could hang you up, outside of the Old Bailey, for
 making away with them articles of property?’ said Squeers. ‘Do you know
 that it’s a hanging matter--and I an’t quite certain whether it an’t
 an anatomy one besides--to walk off with up’ards of the valley of five
-pound from a dwelling-house? Eh? Do you know that? What do you suppose
+pound from a dwelling-[[house]]? Eh? Do you know that? What do you suppose
 was the worth of them clothes you had? Do you know that that Wellington
 boot you wore, cost eight-and-twenty shillings when it was a pair, and
-the shoe seven-and-six? But you came to the right shop for mercy when
-you came to me, and thank your stars that it IS me as has got to serve
+the shoe seven-and-six? But you came to the right shop for [[Mercy|mercy]] when
+you came to me, and thank your [[Stars|stars]] that it IS me as has got to serve
 you with the article.’
 
 Anybody not in Mr. Squeers’s confidence would have supposed that he was
 quite out of the article in question, instead of having a large stock
 on hand ready for all comers; nor would the opinion of sceptical persons
 have undergone much alteration when he followed up the remark by poking
-Smike in the chest with the ferrule of his umbrella, and dealing a smart
+[[Smike]] in the chest with the ferrule of his umbrella, and dealing a smart
 shower of blows, with the ribs of the same instrument, upon his head and
 shoulders.
 
@@ -563,7 +563,7 @@ shoulders.
 when he stopped to rest. ‘There’s inconveniency in it, but the novelty
 gives it a sort of relish, too!’
 
-Poor Smike! He warded off the blows, as well as he could, and now shrunk
+Poor [[Smike]]! He warded off the blows, as [[Well|well]] as he could, and now shrunk
 into a corner of the coach, with his head resting on his hands, and his
 elbows on his knees; he was stunned and stupefied, and had no more idea
 that any act of his, would enable him to escape from the all-powerful
@@ -571,23 +571,23 @@ Squeers, now that he had no friend to speak to or to advise with, than
 he had had in all the weary years of his Yorkshire life which preceded
 the arrival of Nicholas.
 
-The journey seemed endless; street after street was entered and left
+The [[Journey|journey]] seemed endless; street after street was entered and left
 behind; and still they went jolting on. At last Mr. Squeers began to
 thrust his head out of the widow every half-minute, and to bawl a
 variety of directions to the coachman; and after passing, with some
 difficulty, through several mean streets which the appearance of the
-houses and the bad state of the road denoted to have been recently
+houses and the bad state of the [[Road|road]] denoted to have been recently
 built, Mr. Squeers suddenly tugged at the check string with all his
 might, and cried, ‘Stop!’
 
 ‘What are you pulling a man’s arm off for?’ said the coachman looking
 angrily down.
 
-‘That’s the house,’ replied Squeers. ‘The second of them four little
+‘That’s the [[house]],’ replied Squeers. ‘The second of them four little
 houses, one story high, with the green shutters. There’s brass plate on
 the door, with the name of Snawley.’
 
-‘Couldn’t you say that without wrenching a man’s limbs off his body?’
+‘Couldn’t you say that without wrenching a man’s limbs off his [[Body|body]]?’
 inquired the coachman.
 
 ‘No!’ bawled Mr. Squeers. ‘Say another word, and I’ll summons you for
@@ -596,21 +596,21 @@ having a broken winder. Stop!’
 Obedient to this direction, the coach stopped at Mr. Snawley’s door.
 Mr. Snawley may be remembered as the sleek and sanctified gentleman
 who confided two sons (in law) to the parental care of Mr. Squeers, as
-narrated in the fourth chapter of this history. Mr. Snawley’s house was
+narrated in the fourth chapter of this [[history]]. Mr. Snawley’s [[house]] was
 on the extreme borders of some new settlements adjoining Somers Town,
-and Mr. Squeers had taken lodgings therein for a short time, as his stay
+and Mr. Squeers had taken lodgings therein for a short [[Time|time]], as his stay
 was longer than usual, and the Saracen, having experience of Master
 Wackford’s appetite, had declined to receive him on any other terms than
 as a full-grown customer.
 
-‘Here we are!’ said Squeers, hurrying Smike into the little parlour,
+‘Here we are!’ said Squeers, hurrying [[Smike]] into the little parlour,
 where Mr. Snawley and his wife were taking a lobster supper. ‘Here’s the
-vagrant--the felon--the rebel--the monster of unthankfulness.’
+vagrant--the felon--the [[Rebel|rebel]]--the [[Monster|monster]] of unthankfulness.’
 
 ‘What! The boy that run away!’ cried Snawley, resting his knife and fork
 upright on the table, and opening his eyes to their full width.
 
-‘The very boy’, said Squeers, putting his fist close to Smike’s nose,
+‘The very boy’, said Squeers, putting his fist close to [[Smike]]’s nose,
 and drawing it away again, and repeating the process several times, with
 a vicious aspect. ‘If there wasn’t a lady present, I’d fetch him such
 a--: never mind, I’ll owe it him.’
@@ -618,11 +618,11 @@ a--: never mind, I’ll owe it him.’
 And here Mr. Squeers related how, and in what manner, and when and where,
 he had picked up the runaway.
 
-‘It’s clear that there has been a Providence in it, sir,’ said Mr
-Snawley, casting down his eyes with an air of humility, and elevating
+‘It’s clear that there has been a [[Providence]] in it, sir,’ said Mr
+Snawley, casting down his eyes with an air of [[Humility|humility]], and elevating
 his fork, with a bit of lobster on the top of it, towards the ceiling.
 
-‘Providence is against him, no doubt,’ replied Mr. Squeers, scratching
+‘[[Providence]] is against him, no [[Doubt|doubt]],’ replied Mr. Squeers, scratching
 his nose. ‘Of course; that was to be expected. Anybody might have known
 that.’
 
@@ -643,17 +643,17 @@ yours, as she cottoned to this chap. What’s my return? What’s come of
 my milk of human kindness? It turns into curds and whey when I look at
 him.’
 
-‘Well it may, sir,’ said Mrs. Snawley. ‘Oh! Well it may, sir.’
+‘[[Well]] it may, sir,’ said Mrs. Snawley. ‘Oh! [[Well]] it may, sir.’
 
-‘Where has he been all this time?’ inquired Snawley. ‘Has he been living
+‘Where has he been all this [[Time|time]]?’ inquired Snawley. ‘Has he been living
 with--?’
 
 ‘Ah, sir!’ interposed Squeers, confronting him again. ‘Have you been a
 living with that there devilish Nickleby, sir?’
 
-But no threats or cuffs could elicit from Smike one word of reply to
+But no threats or cuffs could elicit from [[Smike]] one word of reply to
 this question; for he had internally resolved that he would rather
-perish in the wretched prison to which he was again about to be
+perish in the wretched [[Prison|prison]] to which he was again about to be
 consigned, than utter one syllable which could involve his first and
 true friend. He had already called to mind the strict injunctions of
 secrecy as to his past life, which Nicholas had laid upon him when they
@@ -665,25 +665,25 @@ apathy and terror.
 
 Such were the thoughts--if to visions so imperfect and undefined as
 those which wandered through his enfeebled brain, the term can be
-applied--which were present to the mind of Smike, and rendered him deaf
-alike to intimidation and persuasion. Finding every effort useless, Mr
+applied--which were present to the mind of [[Smike]], and rendered him deaf
+alike to intimidation and [[Persuasion|persuasion]]. Finding every effort useless, Mr
 Squeers conducted him to a little back room up-stairs, where he was to
-pass the night; and, taking the precaution of removing his shoes, and
+pass the [[Night|night]]; and, taking the precaution of removing his shoes, and
 coat and waistcoat, and also of locking the door on the outside, lest
 he should muster up sufficient energy to make an attempt at escape, that
 worthy gentleman left him to his meditations.
 
 What those meditations were, and how the poor creature’s heart sunk
 within him when he thought--when did he, for a moment, cease to
-think?--of his late home, and the dear friends and familiar faces with
+think?--of his late [[Home|home]], and the dear friends and familiar faces with
 which it was associated, cannot be told. To prepare the mind for such
-a heavy sleep, its growth must be stopped by rigour and cruelty in
-childhood; there must be years of misery and suffering, lightened by no
-ray of hope; the chords of the heart, which beat a quick response to the
+a heavy [[Sleep|sleep]], its growth must be stopped by rigour and cruelty in
+[[Childhood|childhood]]; there must be years of misery and [[Suffering|suffering]], lightened by no
+ray of [[Hope|hope]]; the chords of the heart, which beat a quick response to the
 voice of gentleness and affection, must have rusted and broken in their
-secret places, and bear the lingering echo of no old word of love or
+secret places, and bear the lingering echo of no old word of [[Love|love]] or
 kindness. Gloomy, indeed, must have been the short day, and dull the
-long, long twilight, preceding such a night of intellect as his.
+long, long twilight, preceding such a [[Night|night]] of intellect as his.
 
 There were voices which would have roused him, even then; but their
 welcome tones could not penetrate there; and he crept to bed the same

@@ -1,5 +1,5 @@
 ---
-title: "Macbeth — Act V, Scene 9"
+title: "[[Macbeth]] — Act V, Scene 9"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/MACBETH-(Shakespeare)"
@@ -16,8 +16,8 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Malcolm and Siward |
-| SIWARD | This way, my lord. The castle’s gently rendered.<br>The tyrant’s people on both sides do fight.<br>The noble thanes do bravely in the war.<br>The day almost itself professes yours,<br>And little is to do. |
-| MALCOLM | We have met with foes<br>That strike beside us. |
-| *(didascalia)* | Enter, sir, the castle. |
+| *(didascalia)* | Enter [[Malcolm]] and Siward |
+| SIWARD | This way, my lord. The [[Castle|castle]]’s gently rendered.<br>The [[Tyrant|tyrant]]’s people on both sides do fight.<br>The noble thanes do bravely in the war.<br>The day almost itself professes yours,<br>And little is to do. |
+| [[Malcolm|MALCOLM]] | We have met with foes<br>That strike beside us. |
+| *(didascalia)* | Enter, sir, the [[Castle|castle]]. |
 | *(didascalia)* | Exeunt. Alarum |

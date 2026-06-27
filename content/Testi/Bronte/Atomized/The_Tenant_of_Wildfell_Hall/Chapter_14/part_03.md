@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 14 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 14 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-the pony, as your horse is tired. Won’t you, Gilbert—as soon as you’ve
+the pony, as your [[Horse|horse]] is tired. Won’t you, Gilbert—as soon as you’ve
 
 had something to eat?”
 
@@ -34,15 +34,15 @@ him. That sounds far-fetched; but it isn’t so when you think of it.”
 
 
 
-“Well, but Lawrence is a good rider; it is not likely he would fall
+“[[Well]], but Lawrence is a good rider; it is not likely he would fall
 
-from his horse at all; and if he did, it is highly improbable he would
+from his [[Horse|horse]] at all; and if he did, it is highly improbable he would
 
 break his bones in that way. It must be a gross exaggeration at least.”
 
 
 
-“No; but the horse kicked him—or something.”
+“No; but the [[Horse|horse]] kicked him—or something.”
 
 
 
@@ -74,7 +74,7 @@ is.”
 
 
 
-“He has more time. I am busy just now.”
+“He has more [[Time|time]]. I am busy just now.”
 
 
 
@@ -82,7 +82,7 @@ is.”
 
 business for an hour or two in a case of this sort, when your friend is
 
-at the point of death.”
+at the point of [[Death|death]].”
 
 
 
@@ -112,11 +112,11 @@ carry your little differences to such a length as—”
 
 
 
-“Well, but only remember the occasion. Think how—”
+“[[Well]], but only remember the occasion. Think how—”
 
 
 
-“Well, well, don’t bother me now—I’ll see about it,” I replied.
+“[[Well]], [[Well|well]], don’t bother me now—I’ll see about it,” I replied.
 
 
 
@@ -132,7 +132,7 @@ complicated evils of a broken head and certain contusions (occasioned
 
 by a fall—of which he did not trouble himself to relate the
 
-particulars—and the subsequent misconduct of his horse), and a severe
+particulars—and the subsequent misconduct of his [[Horse|horse]]), and a severe
 
 cold, the consequence of lying on the wet ground in the rain; but there
 

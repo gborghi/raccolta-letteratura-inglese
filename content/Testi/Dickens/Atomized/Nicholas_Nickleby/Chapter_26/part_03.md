@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 26 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 26 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -17,8 +17,8 @@ tags:
 ‘Mrs. Nickleby!’ cried Sir Mulberry Hawk, as his friend looked back, and
 stared him in the face.
 
-It was, indeed, that well-intentioned lady, who, having received an
-offer for the empty house in the city directed to the landlord, had
+It was, indeed, that [[Well|well]]-intentioned lady, who, having received an
+offer for the empty [[house]] in the [[City|city]] directed to the landlord, had
 brought it post-haste to Mr. Nickleby without delay.
 
 ‘Nobody YOU know,’ said Ralph. ‘Step into the office, my--my--dear. I’ll
@@ -26,28 +26,28 @@ be with you directly.’
 
 ‘Nobody I know!’ cried Sir Mulberry Hawk, advancing to the astonished
 lady. ‘Is this Mrs. Nickleby--the mother of Miss Nickleby--the delightful
-creature that I had the happiness of meeting in this house the very last
-time I dined here? But no;’ said Sir Mulberry, stopping short. ‘No, it
+creature that I had the happiness of meeting in this [[house]] the very last
+[[Time|time]] I dined here? But no;’ said Sir Mulberry, stopping short. ‘No, it
 can’t be. There is the same cast of features, the same indescribable air
 of--But no; no. This lady is too young for that.’
 
 ‘I think you can tell the gentleman, brother-in-law, if it concerns
 him to know,’ said Mrs. Nickleby, acknowledging the compliment with a
-graceful bend, ‘that Kate Nickleby is my daughter.’
+graceful bend, ‘that [[Kate Nickleby]] is my daughter.’
 
 ‘Her daughter, my lord!’ cried Sir Mulberry, turning to his friend.
 ‘This lady’s daughter, my lord.’
 
-‘My lord!’ thought Mrs. Nickleby. ‘Well, I never did--’
+‘My lord!’ thought Mrs. Nickleby. ‘[[Well]], I never did--’
 
 ‘This, then, my lord,’ said Sir Mulberry, ‘is the lady to whose obliging
-marriage we owe so much happiness. This lady is the mother of sweet
+[[Marriage|marriage]] we owe so much happiness. This lady is the mother of sweet
 Miss Nickleby. Do you observe the extraordinary likeness, my lord?
 Nickleby--introduce us.’
 
 Ralph did so, in a kind of desperation.
 
-‘Upon my soul, it’s a most delightful thing,’ said Lord Frederick,
+‘Upon my [[Soul|soul]], it’s a most delightful thing,’ said Lord Frederick,
 pressing forward. ‘How de do?’
 
 Mrs. Nickleby was too much flurried by these uncommonly kind salutations,
@@ -55,15 +55,15 @@ and her regrets at not having on her other bonnet, to make any immediate
 reply, so she merely continued to bend and smile, and betray great
 agitation.
 
-‘A--and how is Miss Nickleby?’ said Lord Frederick. ‘Well, I hope?’
+‘A--and how is Miss Nickleby?’ said Lord Frederick. ‘[[Well]], I [[Hope|hope]]?’
 
-‘She is quite well, I’m obliged to you, my lord,’ returned Mrs. Nickleby,
-recovering. ‘Quite well. She wasn’t well for some days after that day
+‘She is quite [[Well|well]], I’m obliged to you, my lord,’ returned Mrs. Nickleby,
+recovering. ‘Quite [[Well|well]]. She wasn’t [[Well|well]] for some days after that day
 she dined here, and I can’t help thinking, that she caught cold in that
-hackney coach coming home. Hackney coaches, my lord, are such nasty
-things, that it’s almost better to walk at any time, for although I
+hackney coach coming [[Home|home]]. Hackney coaches, my lord, are such nasty
+things, that it’s almost better to walk at any [[Time|time]], for although I
 believe a hackney coachman can be transported for life, if he has a
-broken window, still they are so reckless, that they nearly all have
+broken [[Window|window]], still they are so reckless, that they nearly all have
 broken windows. I once had a swelled face for six weeks, my lord, from
 riding in a hackney coach--I think it was a hackney coach,’ said Mrs
 Nickleby reflecting, ‘though I’m not quite certain whether it wasn’t
@@ -72,19 +72,19 @@ number, beginning with a nought and ending with a nine--no, beginning
 with a nine, and ending with a nought, that was it, and of course the
 stamp-office people would know at once whether it was a coach or a
 chariot if any inquiries were made there--however that was, there it
-was with a broken window and there was I for six weeks with a swelled
+was with a broken [[Window|window]] and there was I for six weeks with a swelled
 face--I think that was the very same hackney coach, that we found out
-afterwards, had the top open all the time, and we should never even have
+afterwards, had the top open all the [[Time|time]], and we should never even have
 known it, if they hadn’t charged us a shilling an hour extra for having
 it open, which it seems is the law, or was then, and a most shameful law
 it appears to be--I don’t understand the subject, but I should say the
 Corn Laws could be nothing to THAT act of Parliament.’
 
-Having pretty well run herself out by this time, Mrs. Nickleby stopped as
-suddenly as she had started off; and repeated that Kate was quite well.
+Having pretty [[Well|well]] run herself out by this [[Time|time]], Mrs. Nickleby stopped as
+suddenly as she had started off; and repeated that Kate was quite [[Well|well]].
 ‘Indeed,’ said Mrs. Nickleby, ‘I don’t think she ever was better, since
 she had the hooping-cough, scarlet-fever, and measles, all at the same
-time, and that’s the fact.’
+[[Time|time]], and that’s the fact.’
 
 ‘Is that letter for me?’ growled Ralph, pointing to the little packet
 Mrs. Nickleby held in her hand.
@@ -139,7 +139,7 @@ We’ll see her safe to the omnibus?’
 But Sir Mulberry Hawk and Lord Verisopht were peremptory in their
 politeness, and leaving Ralph, who seemed to think, not unwisely, that
 he looked less ridiculous as a mere spectator, than he would have done
-if he had taken any part in these proceedings, they quitted the house
+if he had taken any part in these proceedings, they quitted the [[house]]
 with Mrs. Nickleby between them; that good lady in a perfect ecstasy
 of satisfaction, no less with the attentions shown her by two titled
 gentlemen, than with the conviction that Kate might now pick and choose,

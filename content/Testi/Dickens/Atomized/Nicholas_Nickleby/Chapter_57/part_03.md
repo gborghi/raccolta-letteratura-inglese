@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 57 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 57 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -19,7 +19,7 @@ he wasn’t married after all, wasn’t he. Not married after all?’
 
 ‘No,’ replied Squeers, ‘that he wasn’t!’
 
-‘And a young lover come and carried off the bride, eh?’ said Peg.
+‘And a young [[Lover|lover]] come and carried off the bride, eh?’ said Peg.
 
 ‘From under his very nose,’ replied Squeers; ‘and I’m told the young
 chap cut up rough besides, and broke the winders, and forced him to
@@ -29,16 +29,16 @@ swaller his wedding favour which nearly choked him.’
 old master’s defeat, which made her natural hideousness something quite
 fearful; ‘let’s hear it all again, beginning at the beginning now, as
 if you’d never told me. Let’s have it every word--now--now--beginning at
-the very first, you know, when he went to the house that morning!’
+the very first, you know, when he went to the [[house]] that morning!’
 
 Mr. Squeers, plying Mrs. Sliderskew freely with the liquor, and sustaining
 himself under the exertion of speaking so loud by frequent applications
 to it himself, complied with this request by describing the discomfiture
-of Arthur Gride, with such improvements on the truth as happened to
+of [[arthur|Arthur]] Gride, with such improvements on the [[Truth|truth]] as happened to
 occur to him, and the ingenious invention and application of which
 had been very instrumental in recommending him to her notice in the
 beginning of their acquaintance. Mrs. Sliderskew was in an ecstasy of
-delight, rolling her head about, drawing up her skinny shoulders, and
+delight, [[rolling]] her head about, drawing up her skinny shoulders, and
 wrinkling her cadaverous face into so many and such complicated forms of
 ugliness, as awakened the unbounded astonishment and disgust even of Mr
 Squeers.
@@ -52,12 +52,12 @@ him if he’d got married; but with the disappointment besides, you’re
 a long way ahead. Out of sight, Slider, quite out of sight. And that
 reminds me,’ he added, handing her the glass, ‘if you want me to give
 you my opinion of them deeds, and tell you what you’d better keep and
-what you’d better burn, why, now’s your time, Slider.’
+what you’d better burn, why, now’s your [[Time|time]], Slider.’
 
 ‘There an’t no hurry for that,’ said Peg, with several knowing looks and
 winks.
 
-‘Oh! very well!’ observed Squeers, ‘it don’t matter to me; you asked
+‘Oh! very [[Well|well]]!’ observed Squeers, ‘it don’t matter to me; you asked
 me, you know. I shouldn’t charge you nothing, being a friend. You’re the
 best judge of course. But you’re a bold woman, Slider.’
 
@@ -72,7 +72,7 @@ own affairs. All I say is, Slider, I wouldn’t do it.’
 ‘Come,’ said Peg, ‘then you shall see ‘em.’
 
 ‘I don’t want to see ‘em,’ replied Squeers, affecting to be out of
-humour; ‘don’t talk as if it was a treat. Show ‘em to somebody else, and
+[[Humour|humour]]; ‘don’t talk as if it was a treat. Show ‘em to somebody else, and
 take their advice.’
 
 Mr. Squeers would, very likely, have carried on the farce of being
@@ -83,19 +83,19 @@ by her caresses. Repressing, with as good a grace as possible, these
 little familiarities--for which, there is reason to believe, the black
 bottle was at least as much to blame as any constitutional infirmity on
 the part of Mrs. Sliderskew--he protested that he had only been joking:
-and, in proof of his unimpaired good-humour, that he was ready to
+and, in proof of his unimpaired good-[[Humour|humour]], that he was ready to
 examine the deeds at once, if, by so doing, he could afford any
 satisfaction or relief of mind to his fair friend.
 
-‘And now you’re up, my Slider,’ bawled Squeers, as she rose to fetch
+‘And now you’re up, my Slider,’ bawled Squeers, as she [[Rose|rose]] to fetch
 them, ‘bolt the door.’
 
 Peg trotted to the door, and after fumbling at the bolt, crept to the
 other end of the room, and from beneath the coals which filled the
-bottom of the cupboard, drew forth a small deal box. Having placed this
+[[Bottom|bottom]] of the cupboard, drew forth a small deal box. Having placed this
 on the floor at Squeers’s feet, she brought, from under the pillow of
 her bed, a small key, with which she signed to that gentleman to open
-it. Mr. Squeers, who had eagerly followed her every motion, lost no time
+it. Mr. Squeers, who had eagerly followed her every motion, lost no [[Time|time]]
 in obeying this hint: and, throwing back the lid, gazed with rapture on
 the documents which lay within.
 
@@ -116,10 +116,10 @@ wants to make me break a wessel, so that she may have the pleasure of
 nursing me. Some money, Slider, money!’
 
 ‘Why, what a man you are to ask!’ cried Peg, with some contempt. ‘If I
-had taken money from Arthur Gride, he’d have scoured the whole earth to
+had taken money from [[arthur|Arthur]] Gride, he’d have scoured the whole earth to
 find me--aye, and he’d have smelt it out, and raked it up, somehow, if
-I had buried it at the bottom of the deepest well in England. No, no!
-I knew better than that. I took what I thought his secrets were hid in:
+I had buried it at the [[Bottom|bottom]] of the deepest [[Well|well]] in England. No, no!
+I knew better than that. I took what I thought his [[Secrets|secrets]] were hid in:
 and them he couldn’t afford to make public, let’em be worth ever so much
 money. He’s an old dog; a sly, old, cunning, thankless dog! He first
 starved, and then tricked me; and if I could I’d kill him.’
@@ -131,7 +131,7 @@ can easily do, for it’s very old and rickety) and burn it in little
 bits, I’ll look over the papers and tell you what they are.’
 
 Peg, expressing her acquiescence in this arrangement, Mr. Squeers turned
-the box bottom upwards, and tumbling the contents upon the floor, handed
+the box [[Bottom|bottom]] upwards, and tumbling the contents upon the floor, handed
 it to her; the destruction of the box being an extemporary device for
 engaging her attention, in case it should prove desirable to distract it
 from his own proceedings.

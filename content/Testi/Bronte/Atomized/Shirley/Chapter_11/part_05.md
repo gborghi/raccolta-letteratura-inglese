@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 11 (part 5)"
+title: "[[Shirley]] — Chapter 11 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,11 +24,11 @@ you sound doctrine on both points."
 
 lady. "Mrs. Pryor, you know, was my governess, and is still my friend;
 
-and of all the high and rigid Tories she is queen; of all the stanch
+and of all the high and rigid Tories she is [[Queen|queen]]; of all the stanch
 
-churchwomen she is chief. I have been well drilled both in theology and
+churchwomen she is chief. I have been [[Well|well]] drilled both in theology and
 
-history, I assure you, Mr. Helstone."
+[[history]], I assure you, Mr. Helstone."
 
 
 
@@ -54,7 +54,7 @@ to take up new ideas closed her sentence.
 
 
 
-"Miss Keeldar thinks as you think, I hope, madam."
+"Miss Keeldar thinks as you think, I [[Hope|hope]], madam."
 
 
 
@@ -70,7 +70,7 @@ and young should hold the opinions of the cool and middle-aged."
 
 Helstone. "We are a little Jacobin, for anything I know--a little
 
-freethinker, in good earnest. Let us have a confession of faith on the
+freethinker, in good earnest. Let us have a confession of [[Faith|faith]] on the
 
 spot."
 
@@ -78,7 +78,7 @@ spot."
 
 And he took the heiress's two hands--causing her to let fall her whole
 
-cargo of flowers--and seated her by him on the sofa.
+cargo of [[Flowers|flowers]]--and seated her by him on the sofa.
 
 
 
@@ -94,7 +94,7 @@ cargo of flowers--and seated her by him on the sofa.
 
 
 
-She said it like a child.
+She said it like a [[Child|child]].
 
 
 
@@ -102,7 +102,7 @@ She said it like a child.
 
 
 
-"Let me gather up my flowers. Here is Tartar coming; he will tread upon
+"Let me gather up my [[Flowers|flowers]]. Here is Tartar coming; he will tread upon
 
 them."
 
@@ -114,7 +114,7 @@ being of a breed between mastiff and bulldog, who at this moment entered
 
 through the glass door, and posting directly to the rug, snuffed the
 
-fresh flowers scattered there. He seemed to scorn them as food; but
+fresh [[Flowers|flowers]] scattered there. He seemed to scorn them as food; but
 
 probably thinking their velvety petals might be convenient as litter, he
 
@@ -144,15 +144,15 @@ looked at her hostess.
 
 
 
-Shirley Keeldar (she had no Christian name but Shirley: her parents, who
+[[Shirley Keeldar]] (she had no Christian name but [[Shirley]]: her parents, who
 
-had wished to have a son, finding that, after eight years of marriage,
+had wished to have a son, finding that, after eight years of [[Marriage|marriage]],
 
-Providence had granted them only a daughter, bestowed on her the same
+[[Providence]] had granted them only a daughter, bestowed on her the same
 
 masculine family cognomen they would have bestowed on a boy, if with a
 
-boy they had been blessed)--Shirley Keeldar was no ugly heiress. She was
+boy they had been blessed)--[[Shirley Keeldar]] was no ugly heiress. She was
 
 agreeable to the eye. Her height and shape were not unlike Miss
 
@@ -160,7 +160,7 @@ Helstone's; perhaps in stature she might have the advantage by an inch
 
 or two. She was gracefully made, and her face, too, possessed a charm as
 
-well described by the word grace as any other. It was pale naturally,
+[[Well|well]] described by the word grace as any other. It was pale naturally,
 
 but intelligent, and of varied expression. She was not a blonde, like
 
@@ -206,7 +206,7 @@ solemn and simple.
 
 
 
-She said no more. She had now placed her flowers on the table, and was
+She said no more. She had now placed her [[Flowers|flowers]] on the table, and was
 
 busied in arranging them.
 
@@ -226,7 +226,7 @@ when I have given your niece one."
 
 She had selected a little bouquet of one brilliant and two or three
 
-delicate flowers, relieved by a spray of dark verdure. She tied it with
+delicate [[Flowers|flowers]], relieved by a spray of dark verdure. She tied it with
 
 silk from her work-box, and placed it on Caroline's lap; and then she
 
@@ -234,7 +234,7 @@ put her hands behind her, and stood bending slightly towards her guest,
 
 still regarding her, in the attitude and with something of the aspect of
 
-a grave but gallant little cavalier. This temporary expression of face
+a [[Grave|grave]] but gallant little cavalier. This temporary expression of face
 
 was aided by the style in which she wore her hair, parted on one temple,
 
@@ -258,7 +258,7 @@ rector.
 
 
 
-"She used to be as rosy as the reddest of your flowers."
+"She used to be as rosy as the reddest of your [[Flowers|flowers]]."
 
 
 
@@ -276,7 +276,7 @@ to the sea-coast."
 
 
 
-"I will, ere summer is over. Meantime, I intend her to make acquaintance
+"I will, ere [[Summer|summer]] is over. Meantime, I intend her to make acquaintance
 
 with you, if you have no objection."
 

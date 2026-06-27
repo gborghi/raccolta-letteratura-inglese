@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 7 (part 1)"
+title: "[[Northanger Abbey]] — Chapter 7 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -22,17 +22,17 @@ CHAPTER 7
 
 Half a minute conducted them through the pump-yard to the archway,
 
-opposite Union Passage; but here they were stopped. Everybody
+opposite [[Union]] Passage; but here they were stopped. Everybody
 
 acquainted with Bath may remember the difficulties of crossing Cheap
 
-Street at this point; it is indeed a street of so impertinent a nature,
+Street at this point; it is indeed a street of so impertinent a [[Nature|nature]],
 
-so unfortunately connected with the great London and Oxford roads, and
+so unfortunately connected with the great [[London]] and [[Oxford]] roads, and
 
-the principal inn of the city, that a day never passes in which parties
+the principal inn of the [[City|city]], that a day never passes in which parties
 
-of ladies, however important their business, whether in quest of
+of ladies, however important their business, whether in [[Quest|quest]] of
 
 pastry, millinery, or even (as in the present case) of young men, are
 
@@ -40,9 +40,9 @@ not detained on one side or other by carriages, horsemen, or carts.
 
 This evil had been felt and lamented, at least three times a day, by
 
-Isabella since her residence in Bath; and she was now fated to feel and
+[[Isabella]] since her residence in Bath; and she was now fated to feel and
 
-lament it once more, for at the very moment of coming opposite to Union
+lament it once more, for at the very moment of coming opposite to [[Union]]
 
 Passage, and within view of the two gentlemen who were proceeding
 
@@ -54,11 +54,11 @@ along on bad pavement by a most knowing-looking coachman with all the
 
 vehemence that could most fitly endanger the lives of himself, his
 
-companion, and his horse.
+companion, and his [[Horse|horse]].
 
 
 
-“Oh, these odious gigs!” said Isabella, looking up. “How I detest
+“Oh, these odious gigs!” said [[Isabella]], looking up. “How I detest
 
 them.” But this detestation, though so just, was of short duration, for
 
@@ -70,7 +70,7 @@ brother!”
 
 “Good heaven! ’Tis James!” was uttered at the same moment by Catherine;
 
-and, on catching the young men’s eyes, the horse was immediately
+and, on catching the young men’s eyes, the [[Horse|horse]] was immediately
 
 checked with a violence which almost threw him on his haunches, and the
 
@@ -102,13 +102,13 @@ pretty as she could do herself.
 
 
 
-John Thorpe, who in the meantime had been giving orders about the
+[[John Thorpe]], who in the meantime had been giving orders about the
 
 horses, soon joined them, and from him she directly received the amends
 
 which were her due; for while he slightly and carelessly touched the
 
-hand of Isabella, on her he bestowed a whole scrape and half a short
+hand of [[Isabella]], on her he bestowed a whole scrape and half a short
 
 bow. He was a stout young man of middling height, who, with a plain
 
@@ -132,37 +132,37 @@ twenty-three miles.
 
 “_Three_-and-twenty!” cried Thorpe, “five-and-twenty if it is an inch.”
 
-Morland remonstrated, pleaded the authority of road-books, innkeepers,
+Morland remonstrated, pleaded the authority of [[Road|road]]-books, innkeepers,
 
 and milestones; but his friend disregarded them all; he had a surer
 
 test of distance. “I know it must be five-and-twenty,” said he, “by the
 
-time we have been doing it. It is now half after one; we drove out of
+[[Time|time]] we have been doing it. It is now half after one; we drove out of
 
-the inn-yard at Tetbury as the town clock struck eleven; and I defy any
+the inn-yard at Tetbury as the town [[Clock|clock]] struck eleven; and I defy any
 
-man in England to make my horse go less than ten miles an hour in
+man in England to make my [[Horse|horse]] go less than ten miles an hour in
 
 harness; that makes it exactly twenty-five.”
 
 
 
-“You have lost an hour,” said Morland; “it was only ten o’clock when we
+“You have lost an hour,” said Morland; “it was only ten o’[[Clock|clock]] when we
 
 came from Tetbury.”
 
 
 
-“Ten o’clock! it was eleven, upon my soul! i counted every stroke. This
+“Ten o’[[Clock|clock]]! it was eleven, upon my [[Soul|soul]]! i counted every stroke. This
 
 brother of yours would persuade me out of my senses, Miss Morland; do
 
-but look at my horse; did you ever see an animal so made for speed in
+but look at my [[Horse|horse]]; did you ever see an animal so made for [[Speed|speed]] in
 
 your life?” (The servant had just mounted the carriage and was driving
 
-off.) “Such true blood! three hours and and a half indeed coming only
+off.) “Such true [[Blood|blood]]! three hours and and a half indeed coming only
 
 three and twenty miles! look at that creature, and suppose it possible
 
@@ -176,13 +176,13 @@ if you can.”
 
 “Hot! he had not turned a hair till we came to Walcot Church; but look
 
-at his forehand; look at his loins; only see how he moves; that horse
+at his forehand; look at his loins; only see how he moves; that [[Horse|horse]]
 
 _cannot_ go less than ten miles an hour: tie his legs and he will get
 
 on. What do you think of my gig, Miss Morland? A neat one, is not it?
 
-Well hung; town-built; I have not had it a month. It was built for a
+[[Well]] hung; town-built; I have not had it a month. It was built for a
 
 Christchurch man, a friend of mine, a very good sort of fellow; he ran
 
@@ -190,9 +190,9 @@ it a few weeks, till, I believe, it was convenient to have done with
 
 it. I happened just then to be looking out for some light thing of the
 
-kind, though I had pretty well determined on a curricle too; but I
+kind, though I had pretty [[Well|well]] determined on a curricle too; but I
 
-chanced to meet him on Magdalen Bridge, as he was driving into Oxford,
+chanced to meet him on Magdalen Bridge, as he was driving into [[Oxford]],
 
 last term: ‘Ah! thorpe,’ said he, ‘do you happen to want such a little
 
@@ -208,7 +208,7 @@ much do you think he did, Miss Morland?”
 
 
 
-“Curricle-hung, you see; seat, trunk, sword-case, splashing-board,
+“Curricle-hung, you see; seat, trunk, [[Sword|sword]]-case, splashing-board,
 
 lamps, silver moulding, all you see complete; the iron-work as good as
 

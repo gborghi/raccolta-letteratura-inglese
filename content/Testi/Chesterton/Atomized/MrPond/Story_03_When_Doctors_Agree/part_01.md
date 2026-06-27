@@ -1,5 +1,5 @@
 ---
-title: "MrPond — When Doctors Agree (part 1)"
+title: "[[MrPond]] — When Doctors Agree (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -22,11 +22,11 @@ WHEN DOCTORS AGREE
 
 Mr. Ponds paradoxes were of a very peculiar kind.  They were indeed
 
-paradoxical defiances even of the law of paradox.  Paradox has been
+paradoxical defiances even of the law of [[Paradox|paradox]].  [[Paradox]] has been
 
-defined as "Truth standing on her head to attract attention."
+defined as "[[Truth]] standing on her head to attract attention."
 
-Paradox has been defended; on the ground that so many fashionable
+[[Paradox]] has been defended; on the ground that so many fashionable
 
 fallacies still stand firmly on their feet, because they have no
 
@@ -38,11 +38,11 @@ attention.  They set out conspicuously, in a single line in a play,
 
 or at the head or tail of a paragraph, remarks of this challenging
 
-kind; as when Mr. Bernard Shaw wrote:  "The Golden Rule is that
+kind; as when Mr. Bernard [[Shaw]] wrote:  "The Golden Rule is that
 
 there is no Golden Rule"; or Oscar Wilde observed:  "I can resist
 
-everything except temptation"; or a duller scribe (not to be named
+everything except [[Temptation|temptation]]"; or a duller scribe (not to be named
 
 with these and now doing penance for his earlier vices in the
 
@@ -120,11 +120,11 @@ got tipsy at once."  Broadly speaking, two kinds of people stopped
 
 him with stares or questions: the very stupid and the very clever.
 
-The stupid because the absurdity alone stuck out from a level of
+The stupid because the absurdity [[Alone|alone]] stuck out from a level of
 
 intelligence that baffled them; it was indeed in itself an example
 
-of the truth in paradox.  The only part of his conversation they
+of the [[Truth|truth]] in [[Paradox|paradox]].  The only part of his conversation they
 
 could understand was the part they could not understand.  And the
 
@@ -164,7 +164,7 @@ It was at a little dinner given by old Wotton to Gahagan and Pond
 
 and others, that we first got a glimpse of the real meaning of
 
-these wild parentheses of so tame a talker.  The truth was, to
+these wild parentheses of so tame a talker.  The [[Truth|truth]] was, to
 
 begin with, that Mr. Pond, in spite of his French beard, was very
 
@@ -186,7 +186,7 @@ unintelligible.  In trying to explain the eccentricity, it is best
 
 to begin with the simplest example, like a diagram in a primer of
 
-logic.  And I will begin with the short story, which was concealed
+[[logic]].  And I will begin with the [[Short Story|short story]], which was concealed
 
 in the shorter phrase, which puzzled poor old Wotton so completely
 

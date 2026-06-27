@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 6"
+title: "[[The Professor]] — Chapter 6"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -24,13 +24,13 @@ seductively to my recollection; and it was with a quick step and sharp
 
 appetite I ascended the narrow street leading to my lodgings. It was
 
-dark when I opened the front door and walked into the house. I wondered
+dark when I opened the front door and walked into the [[house]]. I wondered
 
-how my fire would be; the night was cold, and I shuddered at the
+how my [[Fire|fire]] would be; the [[Night|night]] was cold, and I shuddered at the
 
 prospect of a grate full of sparkless cinders. To my joyful surprise,
 
-I found, on entering my sitting-room, a good fire and a clean hearth.
+I found, on entering my sitting-room, a good [[Fire|fire]] and a clean hearth.
 
 I had hardly noticed this phenomenon, when I became aware of another
 
@@ -46,9 +46,9 @@ recognize in this person my acquaintance, Mr. Hunsden. I could not of
 
 course be much pleased to see him, considering the manner in which I had
 
-parted from him the night before, and as I walked to the hearth, stirred
+parted from him the [[Night|night]] before, and as I walked to the hearth, stirred
 
-the fire, and said coolly, “Good evening,” my demeanour evinced as
+the [[Fire|fire]], and said coolly, “Good evening,” my demeanour evinced as
 
 little cordiality as I felt; yet I wondered in my own mind what had
 
@@ -70,7 +70,7 @@ one on his part; I thought he was entering upon it.
 
 
 
-“Do I?” said I; “I hope it is not a large one, for I am much too poor to
+“Do I?” said I; “I [[Hope|hope]] it is not a large one, for I am much too poor to
 
 charge myself with heavy liabilities of any kind.”
 
@@ -78,7 +78,7 @@ charge myself with heavy liabilities of any kind.”
 
 “Then declare yourself bankrupt at once, for this liability is a ton
 
-weight at least. When I came in I found your fire out, and I had it lit
+weight at least. When I came in I found your [[Fire|fire]] out, and I had it lit
 
 again, and made that sulky drab of a servant stay and blow at it with
 
@@ -130,7 +130,7 @@ by looking in my face and laughing.
 
 “Poor thing!” he whined, after a pause. “It has had no dinner, has it?
 
-What! I suppose its master would not let it come home. Did Crimsworth
+What! I suppose its master would not let it come [[Home|home]]. Did Crimsworth
 
 order you to fast by way of punishment, William!”
 
@@ -150,11 +150,11 @@ table and do as I did, if he liked.
 
 “But I don’t like in the least,” said he, and therewith he summoned the
 
-servant by a fresh pull of the bell-rope, and intimated a desire to
+servant by a fresh pull of the bell-rope, and intimated a [[Desire|desire]] to
 
-have a glass of toast-and-water. “And some more coal,” he added; “Mr.
+have a glass of toast-and-[[Water|water]]. “And some more coal,” he added; “Mr.
 
-Crimsworth shall keep a good fire while I stay.”
+Crimsworth shall keep a good [[Fire|fire]] while I stay.”
 
 
 
@@ -164,7 +164,7 @@ as to be opposite me.
 
 
 
-“Well,” he proceeded. “You are out of work, I suppose.”
+“[[Well]],” he proceeded. “You are out of work, I suppose.”
 
 
 
@@ -188,7 +188,7 @@ he? What had he to say about his friend Hunsden--anything sweet?”
 
 
 
-“He called you a treacherous villain.”
+“He called you a treacherous [[Villain|villain]].”
 
 
 
@@ -200,7 +200,7 @@ but he’ll find I’ve some good qualities--excellent ones! The Hunsdens
 
 were always unrivalled at tracking a rascal; a downright, dishonourable
 
-villain is their natural prey--they could not keep off him wherever
+[[Villain|villain]] is their natural prey--they could not keep off him wherever
 
 they met him; you used the word pragmatical just now--that word is the
 
@@ -220,7 +220,7 @@ violated your natural claim to equality)--I say it was impossible for
 
 me to be thus situated and not feel the angel or the demon of my race
 
-at work within me. I followed my instinct, opposed a tyrant, and broke a
+at work within me. I followed my instinct, opposed a [[Tyrant|tyrant]], and broke a
 
 chain.”
 
@@ -244,7 +244,7 @@ In fact I was grateful, or almost so, and I believe I half liked him at
 
 the moment, notwithstanding his proviso that what he had done was not
 
-out of regard for me. But human nature is perverse. Impossible to answer
+out of regard for me. But human [[Nature|nature]] is perverse. Impossible to answer
 
 his blunt question in the affirmative, so I disclaimed all tendency
 
@@ -262,11 +262,11 @@ my mouth.
 
 “Your bread was dirty, man!” cried Hunsden--“dirty and unwholesome!
 
-It came through the hands of a tyrant, for I tell you Crimsworth is a
+It came through the hands of a [[Tyrant|tyrant]], for I tell you Crimsworth is a
 
-tyrant,--a tyrant to his workpeople, a tyrant to his clerks, and will
+[[Tyrant|tyrant]],--a [[Tyrant|tyrant]] to his workpeople, a [[Tyrant|tyrant]] to his clerks, and will
 
-some day be a tyrant to his wife.”
+some day be a [[Tyrant|tyrant]] to his wife.”
 
 
 
@@ -366,7 +366,7 @@ countenance, he went on:
 
 “Yes, rejection and repulsion. Why do you ask me twice? How can hands
 
-stained with the ink of a counting-house, soiled with the grease of
+stained with the ink of a counting-[[house]], soiled with the grease of
 
 a wool-warehouse, ever again be permitted to come into contact with
 
@@ -374,9 +374,9 @@ aristocratic palms?”
 
 
 
-“There would be a difficulty, no doubt; still you are such a complete
+“There would be a difficulty, no [[Doubt|doubt]]; still you are such a complete
 
-Seacombe in appearance, feature, language, almost manner, I wonder they
+Seacombe in appearance, feature, language, almost manner, I [[Wonder|wonder]] they
 
 should disown you.”
 
@@ -440,19 +440,19 @@ devices at once?”
 
 “Exactly. I must follow my own devices--I must, till the day of my
 
-death; because I can neither comprehend, adopt, nor work out those of
+[[Death|death]]; because I can neither comprehend, adopt, nor work out those of
 
 other people.”
 
 
 
-Hunsden yawned. “Well,” said he, “in all this, I see but one thing
+Hunsden yawned. “[[Well]],” said he, “in all this, I see but one thing
 
 clearly-that is, that the whole affair is no business of mine.” He
 
-stretched himself and again yawned. “I wonder what time it is,” he went
+stretched himself and again yawned. “I [[Wonder|wonder]] what [[Time|time]] it is,” he went
 
-on: “I have an appointment for seven o’clock.”
+on: “I have an appointment for seven o’[[Clock|clock]].”
 
 
 
@@ -460,7 +460,7 @@ on: “I have an appointment for seven o’clock.”
 
 
 
-“Well, then I’ll go.” He got up. “You’ll not meddle with trade again?”
+“[[Well]], then I’ll go.” He got up. “You’ll not meddle with trade again?”
 
  said he, leaning his elbow on the mantelpiece.
 
@@ -470,13 +470,13 @@ on: “I have an appointment for seven o’clock.”
 
 
 
-“You would be a fool if you did. Probably, after all, you’ll think
+“You would be a [[Fool|fool]] if you did. Probably, after all, you’ll think
 
 better of your uncles’ proposal and go into the Church.”
 
 
 
-“A singular regeneration must take place in my whole inner and outer man
+“A singular [[Regeneration|regeneration]] must take place in my whole inner and outer man
 
 before I do that. A good clergyman is one of the best of men.”
 
@@ -490,7 +490,7 @@ before I do that. A good clergyman is one of the best of men.”
 
 make a good clergyman; and rather than adopt a profession for which I
 
-have no vocation, I would endure extremities of hardship from poverty.”
+have no vocation, I would endure extremities of hardship from [[Poverty|poverty]].”
 
 
 
@@ -508,7 +508,7 @@ you’ve no money. I’d recommend you to travel.”
 
 “You must travel in search of money, man. You can speak French--with
 
-a vile English accent, no doubt--still, you can speak it. Go on to the
+a vile English accent, no [[Doubt|doubt]]--still, you can speak it. Go on to the
 
 Continent, and see what will turn up for you there.”
 
@@ -530,9 +530,9 @@ for five or six pounds, if you know how to manage with economy.”
 
 “Go, then, and let your wits make a way for you when you get there. I
 
-know Brussels almost as well as I know X----, and I am sure it would
+know Brussels almost as [[Well|well]] as I know X----, and I am sure it would
 
-suit such a one as you better than London.”
+suit such a one as you better than [[London]].”
 
 
 
@@ -552,7 +552,7 @@ pen-and-ink?”
 
 
 
-“I hope so,” and I produced writing materials with alacrity; for I
+“I [[Hope|hope]] so,” and I produced writing materials with alacrity; for I
 
 guessed what he was going to do. He sat down, wrote a few lines, folded,
 
@@ -562,7 +562,7 @@ sealed, and addressed a letter, and held it out to me.
 
 “There, Prudence, there’s a pioneer to hew down the first rough
 
-difficulties of your path. I know well enough, lad, you are not one of
+difficulties of your path. I know [[Well|well]] enough, lad, you are not one of
 
 those who will run their neck into a noose without seeing how they
 
@@ -598,7 +598,7 @@ his recommendation.”
 
 
 
-“Well, and where’s your gratitude?” demanded Mr. Hunsden; “don’t you
+“[[Well]], and where’s your gratitude?” demanded Mr. Hunsden; “don’t you
 
 know how to say ‘Thank you?’”
 
@@ -618,7 +618,7 @@ being in Christendom.
 
 
 
-“I shall be off presently, Mr. Hunsden--to-morrow, if all be well: I’ll
+“I shall be off presently, Mr. Hunsden--to-morrow, if all be [[Well|well]]: I’ll
 
 not stay a day longer in X---- than I’m obliged.”
 
@@ -640,7 +640,7 @@ to bed.”
 
 
 
-The house clock struck seven.
+The [[house]] [[Clock|clock]] struck seven.
 
 
 

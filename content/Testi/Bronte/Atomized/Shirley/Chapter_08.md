@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 8"
+title: "[[Shirley]] — Chapter 8"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -32,7 +32,7 @@ tartines for his breakfast. What business he transacted there he kept to
 
 himself. Hortense asked no questions: it was not her wont to comment on
 
-his movements, nor his to render an account of them. The secrets of
+his movements, nor his to render an account of them. The [[Secrets|secrets]] of
 
 business--complicated and often dismal mysteries--were buried in his
 
@@ -42,11 +42,11 @@ Joe Scott, or give a start to some foreign correspondent. Indeed, a
 
 general habit of reserve on whatever was important seemed bred in his
 
-mercantile blood.
+mercantile [[Blood|blood]].
 
 
 
-Breakfast over, he went to his counting-house. Henry, Joe Scott's boy,
+Breakfast over, he went to his counting-[[house]]. Henry, Joe Scott's boy,
 
 brought in the letters and the daily papers; Moore seated himself at his
 
@@ -74,19 +74,19 @@ mill. On coming back he sat down to read his newspaper.
 
 The contents seemed not absorbingly interesting; he more than once laid
 
-it across his knee, folded his arms, and gazed into the fire; he
+it across his knee, folded his arms, and gazed into the [[Fire|fire]]; he
 
-occasionally turned his head towards the window; he looked at intervals
+occasionally turned his head towards the [[Window|window]]; he looked at intervals
 
 at his watch; in short, his mind appeared preoccupied. Perhaps he was
 
-thinking of the beauty of the weather--for it was a fine and mild
+thinking of the [[Beauty|beauty]] of the weather--for it was a fine and mild
 
 morning for the season--and wishing to be out in the fields enjoying
 
-it. The door of his counting-house stood wide open. The breeze and
+it. The door of his counting-[[house]] stood wide open. The breeze and
 
-sunshine entered freely; but the first visitant brought no spring
+sunshine entered freely; but the first visitant brought no [[Spring|spring]]
 
 perfume on its wings, only an occasional sulphur-puff from the
 
@@ -112,7 +112,7 @@ take a seat, which he did, making the remark, as he removed his hat (a
 
 very bad one), stowed it away under his chair, and wiped his forehead
 
-with a spotted cotton handkerchief extracted from the hat-crown, that it
+with a spotted cotton handkerchief extracted from the hat-[[Crown|crown]], that it
 
 was "raight dahn warm for Febewerry." Mr. Moore assented--at least he
 
@@ -148,11 +148,11 @@ guest,--
 
 
 
-"Help yourself; there's water in that jar in the corner."
+"Help yourself; there's [[Water|water]] in that jar in the corner."
 
 
 
-"I dunnut knaw that there's mich need, for all a body is dry (thirsty)
+"I dunnut knaw that there's mich need, for all a [[Body|body]] is dry (thirsty)
 
 in a morning," said the fustian gentleman, rising and doing as
 
@@ -194,7 +194,7 @@ talking, nob'dy knows how long. Ye'll need propping."
 
 "I seed him a hauf an hour--nay, happen a quarter of an hour sin', just
 
-afore I set off. He said he aimed to come here, and I sudn't wonder but
+afore I set off. He said he aimed to come here, and I sudn't [[Wonder|wonder]] but
 
 ye'll have old Helstone too. I seed 'em saddling his little nag as I
 
@@ -202,13 +202,13 @@ passed at back o' t' rectory."
 
 
 
-The speaker was a true prophet, for the trot of a little nag's hoofs
+The speaker was a true [[Prophet|prophet]], for the trot of a little nag's hoofs
 
-was, five minutes after, heard in the yard. It stopped, and a well-known
+was, five minutes after, heard in the yard. It stopped, and a [[Well|well]]-known
 
 nasal voice cried aloud, "Boy" (probably addressing Harry Scott, who
 
-usually hung about the premises from 9 a.m. to 5 p.m.), "take my horse
+usually hung about the premises from 9 a.m. to 5 p.m.), "take my [[Horse|horse]]
 
 and lead him into the stable."
 
@@ -224,7 +224,7 @@ livelier than usual.
 
 (turning to the personage with the staff). "Sugden! What! you're going
 
-to work directly? On my word, you lose no time. But I come to ask
+to work directly? On my word, you lose no [[Time|time]]. But I come to ask
 
 explanations. Your message was delivered to me. Are you sure you are on
 
@@ -252,7 +252,7 @@ now sitting in state waiting his arrival."
 
 
 
-Joe Scott had entered unobserved. He now stood, a most sinister phantom,
+Joe Scott had entered unobserved. He now stood, a most sinister [[Phantom|phantom]],
 
 half his person being dyed of the deepest tint of indigo, leaning on the
 
@@ -266,7 +266,7 @@ the word. Putting on a quiet but pawky look, he said,--
 
 
 
-"Indeed! His name, Joe? You look well this morning."
+"Indeed! His name, Joe? You look [[Well|well]] this morning."
 
 
 
@@ -320,13 +320,13 @@ his wooden leg or she'd some notion about his being a hypocrite. Happen
 
 none of 'em nigh) she'd have encouraged him, in spite of his leg and his
 
-deceit, just to pass time like. I've known some on 'em do as mich, and
+deceit, just to pass [[Time|time]] like. I've known some on 'em do as mich, and
 
 some o' t' bonniest and mimmest-looking, too--ay, I've seen clean, trim
 
-young things, that looked as denty and pure as daisies, and wi' time a
+young things, that looked as denty and pure as daisies, and wi' [[Time|time]] a
 
-body fun' 'em out to be nowt but stinging, venomed nettles."
+[[Body|body]] fun' 'em out to be nowt but stinging, venomed nettles."
 
 
 
@@ -334,25 +334,25 @@ body fun' 'em out to be nowt but stinging, venomed nettles."
 
 
 
-"Howsiver, Sarah had another string to her bow. Fred Murgatroyd, one of
+"Howsiver, Sarah had another string to her bow. [[Fred]] Murgatroyd, one of
 
-our lads, is for her; and as women judge men by their faces--and Fred
+our lads, is for her; and as women judge men by their faces--and [[Fred]]
 
 has a middling face, while Moses is none so handsome, as we all
 
-knaw--the lass took on wi' Fred. A two-three months sin', Murgatroyd and
+knaw--the lass took on wi' [[Fred]]. A two-three months sin', Murgatroyd and
 
-Moses chanced to meet one Sunday night; they'd both come lurking about
+Moses chanced to meet one [[Sunday]] [[Night|night]]; they'd both come lurking about
 
 these premises wi' the notion of counselling Sarah to tak a bit of a
 
-walk wi' them. They fell out, had a tussle, and Fred was worsted, for
+walk wi' them. They fell out, had a tussle, and [[Fred]] was worsted, for
 
 he's young and small, and Barraclough, for all he has only one leg, is
 
 almost as strong as Sugden there--indeed, anybody that hears him roaring
 
-at a revival or a love-feast may be sure he's no weakling."
+at a revival or a [[Love|love]]-feast may be sure he's no weakling."
 
 
 
@@ -360,7 +360,7 @@ at a revival or a love-feast may be sure he's no weakling."
 
 explanation as Moses spins out his sermons. The long and short of it is,
 
-Murgatroyd was jealous of Barraclough; and last night, as he and a
+Murgatroyd was jealous of Barraclough; and last [[Night|night]], as he and a
 
 friend took shelter in a barn from a shower, they heard and saw Moses
 
@@ -400,7 +400,7 @@ looked anxious.
 
 
 
-"They'll not come; it's near noon. Better give it up. It will excite bad
+"They'll not come; it's near [[Noon|noon]]. Better give it up. It will excite bad
 
 feeling--make a stir--cause perhaps fatal consequences."
 
@@ -420,19 +420,19 @@ Moore--a wife and family make a man cautious."
 
 Moore looked disgusted. "Give way, if you please," said he; "leave me to
 
-myself. I have no objection to act alone; only be assured you will not
+myself. I have no objection to act [[Alone|alone]]; only be assured you will not
 
 find safety in submission. Your partner Pearson gave way, and conceded,
 
-and forbore. Well, that did not prevent them from attempting to shoot
+and forbore. [[Well]], that did not prevent them from attempting to shoot
 
-him in his own house."
+him in his own [[house]]."
 
 
 
-"My dear sir, take a little wine and water," recommended Mr. Helstone.
+"My dear sir, take a little wine and [[Water|water]]," recommended Mr. Helstone.
 
-The wine and water was hollands and water, as Mr. Sykes discovered when
+The wine and [[Water|water]] was hollands and [[Water|water]], as Mr. Sykes discovered when
 
 he had compounded and swallowed a brimming tumbler thereof. It
 
@@ -498,9 +498,9 @@ manufacturers, living in the world, and always in turmoil, get quite
 
 belligerent. Really, there's an ardour excited by the thoughts of danger
 
-that makes my heart pant. When Mrs. Sykes is afraid of the house being
+that makes my heart pant. When Mrs. Sykes is afraid of the [[house]] being
 
-attacked and broke open--as she is every night--I get quite excited. I
+attacked and broke open--as she is every [[Night|night]]--I get quite excited. I
 
 couldn't describe to you, sir, my feelings. Really, if anybody was to
 
@@ -526,19 +526,19 @@ decorum, checked him.
 
 Sykes assented, and then sat and watched Joe Scott remove the bottle at
 
-a sign from Helstone, with a self-satisfied simper on his lips and a
+a sign from Helstone, with a [[Self|self]]-satisfied simper on his lips and a
 
 regretful glisten in his eye. Moore looked as if he should have liked to
 
-fool him to the top of his bent. What would a certain young kinswoman of
+[[Fool|fool]] him to the top of his bent. What would a certain young kinswoman of
 
 his have said could she have seen her dear, good, great Robert--her
 
-Coriolanus--just now? Would she have acknowledged in that mischievous,
+[[Coriolanus]]--just now? Would she have acknowledged in that mischievous,
 
-sardonic visage the same face to which she had looked up with such love,
+sardonic visage the same face to which she had looked up with such [[Love|love]],
 
-which had bent over her with such gentleness last night? Was that the
+which had bent over her with such gentleness last [[Night|night]]? Was that the
 
 man who had spent so quiet an evening with his sister and his cousin--so
 
@@ -552,17 +552,17 @@ Yes, it was the same man, only seen on a different side--a side Caroline
 
 had not yet fairly beheld, though perhaps she had enough sagacity
 
-faintly to suspect its existence. Well, Caroline had, doubtless, her
+faintly to suspect its existence. [[Well]], Caroline had, doubtless, her
 
 defective side too. She was human. She must, then, have been very
 
 imperfect; and had she seen Moore on his very worst side, she would
 
-probably have said this to herself and excused him. Love can excuse
+probably have said this to herself and excused him. [[Love]] can excuse
 
-anything except meanness; but meanness kills love, cripples even natural
+anything except meanness; but meanness kills [[Love|love]], cripples even natural
 
-affection; without esteem true love cannot exist. Moore, with all his
+affection; without esteem true [[Love|love]] cannot exist. Moore, with all his
 
 faults, might be esteemed; for he had no moral scrofula in his mind, no
 
@@ -590,7 +590,7 @@ looked and were superior beings to poor Sykes.
 
 A sort of gathering and trampling sound was heard in the yard, and then
 
-a pause. Moore walked to the window; Helstone followed. Both stood on
+a pause. Moore walked to the [[Window|window]]; Helstone followed. Both stood on
 
 one side, the tall junior behind the under-sized senior, looking forth
 
@@ -614,7 +614,7 @@ more freely.
 
 "Joseph Scott," began a snuffling voice--Scott was standing sentinel at
 
-the counting-house door--"might we inquire if your master be within, and
+the counting-[[house]] door--"might we inquire if your master be within, and
 
 is to be spoken to?"
 
@@ -632,7 +632,7 @@ goodness to tell _him_ that twelve gentlemen wants to see him."
 
 "He'd happen ax what for," suggested Joe. "I mught as weel tell him that
 
-at t' same time."
+at t' same [[Time|time]]."
 
 
 
@@ -718,7 +718,7 @@ to do with it."
 
 
 
-"I hadn't that duty on my mind, sir; but as Providence has led ye to
+"I hadn't that duty on my mind, sir; but as [[Providence]] has led ye to
 
 mention the subject, I'll make it i' my way to tak ony trifle ye may
 
@@ -728,7 +728,7 @@ have to spare; the smallest contribution will be acceptable."
 
 With that he doffed his hat, and held it out as a begging-box, a brazen
 
-grin at the same time crossing his countenance.
+grin at the same [[Time|time]] crossing his countenance.
 
 
 
@@ -744,11 +744,11 @@ evincing in the gesture a mere burlesque of hypocrisy.
 
 "You seem a fine fellow," said Moore, quite coolly and dryly; "you don't
 
-care for showing me that you are a double-dyed hypocrite, that your
+care for showing me that you are a [[Double|double]]-dyed hypocrite, that your
 
 trade is fraud. You expect indeed to make me laugh at the cleverness
 
-with which you play your coarsely farcical part, while at the same time
+with which you play your coarsely farcical part, while at the same [[Time|time]]
 
 you think you are deceiving the men behind you."
 
@@ -760,7 +760,7 @@ answer, when the second leader, impatient of being hitherto kept in the
 
 background, stepped forward. This man did not look like a traitor,
 
-though he had an exceedingly self-confident and conceited air.
+though he had an exceedingly [[Self|self]]-confident and conceited air.
 
 
 
@@ -768,7 +768,7 @@ though he had an exceedingly self-confident and conceited air.
 
 enunciating each word very slowly, as if with a view to giving his
 
-audience time to appreciate fully the uncommon elegance of the
+audience [[Time|time]] to appreciate fully the uncommon elegance of the
 
 phraseology, "it might, perhaps, justly be said that reason rather than
 
@@ -796,9 +796,9 @@ conduce to the benefit of the working-classes. If, to come at once to
 
 partic'lars, you'd consider to give up this here miln, and go without
 
-further protractions straight home to where you belong, it 'ud happen be
+further protractions straight [[Home|home]] to where you belong, it 'ud happen be
 
-as well. I can see naught ageean such a plan.--What hev ye to say
+as [[Well|well]]. I can see naught ageean such a plan.--What hev ye to say
 
 tull't, lads?" turning round to the other members of the deputation,
 
@@ -836,7 +836,7 @@ mischief-maker had ventured to introduce these here machines which is so
 
 pernicious. Now, I'm not a cloth-dresser myself, but by trade a tailor.
 
-Howsiver, my heart is of a softish nature. I'm a very feeling man, and
+Howsiver, my heart is of a softish [[Nature|nature]]. I'm a very feeling man, and
 
 when I see my brethren oppressed, like my great namesake of old, I stand
 
@@ -862,9 +862,9 @@ advises you to part wi' your infernal machinery, and tak on more hands."
 
 
 
-"Which in no respect prevents you from being at the same time a drunkard
+"Which in no respect prevents you from being at the same [[Time|time]] a drunkard
 
-and a swindler. I saw you one night a week ago laid dead-drunk by the
+and a swindler. I saw you one [[Night|night]] a week ago laid dead-drunk by the
 
 roadside, as I returned from Stilbro' market; and while you preach
 
@@ -878,7 +878,7 @@ does the individual called Noah of Tim's. You two are restless,
 
 meddling, impudent scoundrels, whose chief motive-principle is a selfish
 
-ambition, as dangerous as it is puerile. The persons behind you are some
+[[Ambition|ambition]], as dangerous as it is puerile. The persons behind you are some
 
 of them honest though misguided men; but you two I count altogether
 
@@ -890,11 +890,11 @@ Barraclough was going to speak.
 
 
 
-"Silence! You have had your say, and now I will have mine. As to being
+"[[Silence]]! You have had your say, and now I will have mine. As to being
 
 dictated to by you, or any Jack, Jem, or Jonathan on earth, I shall not
 
-suffer it for a moment. You desire me to quit the country; you request
+suffer it for a moment. You [[Desire|desire]] me to quit the country; you request
 
 me to part with my machinery. In case I refuse, you threaten me. I _do_
 
@@ -910,7 +910,7 @@ Suppose that building was a ruin and I was a corpse--what then, you lads
 
 behind these two scamps? Would that stop invention or exhaust science?
 
-Not for the fraction of a second of time! Another and better gig-mill
+Not for the fraction of a second of [[Time|time]]! Another and better gig-mill
 
 would rise on the ruins of this, and perhaps a more enterprising owner
 
@@ -944,7 +944,7 @@ Moses was captured. There was a cry and a rush to rescue, but the right
 
 hand which all this while had lain hidden in Moore's breast,
 
-reappearing, held out a pistol.
+reappearing, held out a [[Pistol|pistol]].
 
 
 
@@ -954,7 +954,7 @@ reappearing, held out a pistol.
 
 Stepping backwards, facing the foe as he went, he guarded his prey to
 
-the counting-house. He ordered Joe Scott to pass in with Sugden and the
+the counting-[[house]]. He ordered Joe Scott to pass in with Sugden and the
 
 prisoner, and to bolt the door inside. For himself, he walked backwards
 
@@ -962,7 +962,7 @@ and forwards along the front of the mill, looking meditatively on the
 
 ground, his hand hanging carelessly by his side, but still holding the
 
-pistol. The eleven remaining deputies watched him some time, talking
+[[Pistol|pistol]]. The eleven remaining deputies watched him some [[Time|time]], talking
 
 under their breath to each other. At length one of them approached. This
 
@@ -972,7 +972,7 @@ spoken; he was hard-favoured, but modest and manly-looking.
 
 
 
-"I've not much faith i' Moses Barraclough," said he, "and I would speak
+"I've not much [[Faith|faith]] i' Moses Barraclough," said he, "and I would speak
 
 a word to you myseln, Mr. Moore. It's out o' no ill-will that I'm here,
 
@@ -988,9 +988,9 @@ say, wisht! and lig us down and dee? Nay; I've no grand words at my
 
 tongue's end, Mr. Moore, but I feel that it wad be a low principle for a
 
-reasonable man to starve to death like a dumb cratur. I willn't do't.
+reasonable man to starve to [[Death|death]] like a dumb cratur. I willn't do't.
 
-I'm not for shedding blood: I'd neither kill a man nor hurt a man; and
+I'm not for shedding [[Blood|blood]]: I'd neither kill a man nor hurt a man; and
 
 I'm not for pulling down mills and breaking machines--for, as ye say,
 
@@ -1016,11 +1016,11 @@ worry the mill-owners is absurd, and I for one won't stand it."
 
 "Ye're a raight hard un!" returned the workman. "Willn't ye gie us a bit
 
-o' time? Willn't ye consent to mak your changes rather more slowly?"
+o' [[Time|time]]? Willn't ye consent to mak your changes rather more slowly?"
 
 
 
-"Am I the whole body of clothiers in Yorkshire? Answer me that."
+"Am I the whole [[Body|body]] of clothiers in Yorkshire? Answer me that."
 
 
 
@@ -1044,9 +1044,9 @@ If you broke these, I would still get more. _I'll never give in._"
 
 
 
-Here the mill-bell rang twelve o'clock. It was the dinner-hour. Moore
+Here the mill-bell rang twelve o'[[Clock|clock]]. It was the dinner-hour. Moore
 
-abruptly turned from the deputation and re-entered his counting-house.
+abruptly turned from the deputation and re-entered his counting-[[house]].
 
 
 
@@ -1076,11 +1076,11 @@ was worn, dejected, austere, but still patient. How could Moore leave
 
 him thus, with the words, "I'll never give in," and not a whisper of
 
-good-will, or hope, or aid?
+good-will, or [[Hope|hope]], or aid?
 
 
 
-Farren, as he went home to his cottage--once, in better times, a decent,
+Farren, as he went [[Home|home]] to his cottage--once, in better times, a decent,
 
 clean, pleasant place, but now, though still clean, very dreary, because
 
@@ -1104,7 +1104,7 @@ that. Some of the younger children asked for more when they had done
 
 their portion--an application which disturbed William much. While his
 
-wife quieted them as well as she could, he left his seat and went to the
+wife quieted them as [[Well|well]] as she could, he left his seat and went to the
 
 door. He whistled a cheery stave, which did not, however, prevent a
 
@@ -1120,7 +1120,7 @@ followed.
 
 
 
-He still stood brooding in silence, when a gentleman in black came up--a
+He still stood brooding in [[Silence|silence]], when a gentleman in black came up--a
 
 clergyman, it might be seen at once, but neither Helstone, nor Malone,
 
@@ -1158,7 +1158,7 @@ work), entered the cottage, and having greeted the good-wife and the
 
 children, sat down. He proceeded to talk very cheerfully about the
 
-length of time that had elapsed since the family quitted his parish, the
+length of [[Time|time]] that had elapsed since the family quitted his parish, the
 
 changes which had occurred since; he answered questions touching his
 
@@ -1218,9 +1218,9 @@ but they're pinched--they're pined----"
 
 
 
-"Well, my lad, and so are you; I see you are. These are grievous times;
+"[[Well]], my lad, and so are you; I see you are. These are grievous times;
 
-I see suffering wherever I turn. William, sit down. Grace, sit down. Let
+I see [[Suffering|suffering]] wherever I turn. William, sit down. Grace, sit down. Let
 
 us talk it over."
 
@@ -1254,7 +1254,7 @@ small sum?"
 
 
 
-"No. I've selled t' chest o' drawers, and t' clock, and t' bit of a
+"No. I've selled t' chest o' drawers, and t' [[Clock|clock]], and t' bit of a
 
 mahogany stand, and t' wife's bonny tea-tray and set o' cheeney 'at she
 
@@ -1298,7 +1298,7 @@ man i' England nor he is."
 
 
 
-"Well, I'll speak to one or two friends, and I think I can promise to
+"[[Well]], I'll speak to one or two friends, and I think I can promise to
 
 let him have £5 in a day or two--as a loan, ye mind, not a gift. He must
 

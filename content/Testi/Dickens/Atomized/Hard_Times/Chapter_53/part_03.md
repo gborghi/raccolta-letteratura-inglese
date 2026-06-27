@@ -24,17 +24,17 @@ attitude.
 this feat with some impatience, ‘allow me to present to you Mrs.
 Bounderby.’
 
-‘Oh!’ said Mrs. Gradgrind, ‘so you have settled it!  Well, I’m sure I
-hope your health may be good, Louisa; for if your head begins to split as
+‘Oh!’ said Mrs. Gradgrind, ‘so you have settled it!  [[Well]], I’m sure I
+[[Hope|hope]] your health may be good, Louisa; for if your head begins to split as
 soon as you are married, which was the case with mine, I cannot consider
-that you are to be envied, though I have no doubt you think you are, as
-all girls do.  However, I give you joy, my dear—and I hope you may now
+that you are to be envied, though I have no [[Doubt|doubt]] you think you are, as
+all girls do.  However, I give you joy, my dear—and I [[Hope|hope]] you may now
 turn all your ological studies to good account, I am sure I do!  I must
 give you a kiss of congratulation, Louisa; but don’t touch my right
 shoulder, for there’s something running down it all day long.  And now
 you see,’ whimpered Mrs. Gradgrind, adjusting her shawls after the
-affectionate ceremony, ‘I shall be worrying myself, morning, noon, and
-night, to know what I am to call him!’
+affectionate ceremony, ‘I shall be worrying myself, morning, [[Noon|noon]], and
+[[Night|night]], to know what I am to call him!’
 
 ‘Mrs. Gradgrind,’ said her husband, solemnly, ‘what do you mean?’
 
@@ -42,13 +42,13 @@ night, to know what I am to call him!’
 I must call him something.  It’s impossible,’ said Mrs. Gradgrind, with a
 mingled sense of politeness and injury, ‘to be constantly addressing him
 and never giving him a name.  I cannot call him Josiah, for the name is
-insupportable to me.  You yourself wouldn’t hear of Joe, you very well
+insupportable to me.  You yourself wouldn’t hear of Joe, you very [[Well|well]]
 know.  Am I to call my own son-in-law, Mister!  Not, I believe, unless
-the time has arrived when, as an invalid, I am to be trampled upon by my
+the [[Time|time]] has arrived when, as an invalid, I am to be trampled upon by my
 relations.  Then, what am I to call him!’
 
 Nobody present having any suggestion to offer in the remarkable
-emergency, Mrs. Gradgrind departed this life for the time being, after
+emergency, Mrs. Gradgrind departed this life for the [[Time|time]] being, after
 delivering the following codicil to her remarks already executed:
 
 ‘As to the wedding, all I ask, Louisa, is,—and I ask it with a fluttering
@@ -57,7 +57,7 @@ take place soon.  Otherwise, I know it is one of those subjects I shall
 never hear the last of.’
 
 When Mr. Gradgrind had presented Mrs. Bounderby, Sissy had suddenly
-turned her head, and looked, in wonder, in pity, in sorrow, in doubt, in
+turned her head, and looked, in [[Wonder|wonder]], in pity, in sorrow, in [[Doubt|doubt]], in
 a multitude of emotions, towards Louisa.  Louisa had known it, and seen
 it, without looking at her.  From that moment she was impassive, proud
 and cold—held Sissy at a distance—changed to her altogether.

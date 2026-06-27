@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 27: TOMMY TRADDLES"
+title: "[[David Copperfield]] — Chapter 27: TOMMY TRADDLES"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -20,7 +20,7 @@ CHAPTER 27. TOMMY TRADDLES
 It may have been in consequence of Mrs. Crupp’s advice, and, perhaps,
 for no better reason than because there was a certain similarity in the
 sound of the word skittles and Traddles, that it came into my head, next
-day, to go and look after Traddles. The time he had mentioned was more
+day, to go and look after Traddles. The [[Time|time]] he had mentioned was more
 than out, and he lived in a little street near the Veterinary College
 at Camden Town, which was principally tenanted, as one of our clerks who
 lived in that direction informed me, by gentlemen students, who bought
@@ -32,15 +32,15 @@ schoolfellow.
 I found that the street was not as desirable a one as I could have
 wished it to be, for the sake of Traddles. The inhabitants appeared to
 have a propensity to throw any little trifles they were not in want of,
-into the road: which not only made it rank and sloppy, but untidy too,
-on account of the cabbage-leaves. The refuse was not wholly vegetable
+into the [[Road|road]]: which not only made it rank and sloppy, but untidy too,
+on account of the cabbage-[[Leaves|leaves]]. The refuse was not wholly vegetable
 either, for I myself saw a shoe, a doubled-up saucepan, a black bonnet,
 and an umbrella, in various stages of decomposition, as I was looking
 out for the number I wanted.
 
 The general air of the place reminded me forcibly of the days when I
 lived with Mr. and Mrs. Micawber. An indescribable character of faded
-gentility that attached to the house I sought, and made it unlike
+gentility that attached to the [[house]] I sought, and made it unlike
 all the other houses in the street--though they were all built on one
 monotonous pattern, and looked like the early copies of a blundering boy
 who was learning to make houses, and had not yet got out of his cramped
@@ -56,12 +56,12 @@ little bill of mine been heerd on?’
 
 ‘Because,’ said the milkman, going on as if he had received no answer,
 and speaking, as I judged from his tone, rather for the edification of
-somebody within the house, than of the youthful servant--an
+somebody within the [[house]], than of the youthful servant--an
 impression which was strengthened by his manner of glaring down the
 passage--‘because that there little bill has been running so long, that
 I begin to believe it’s run away altogether, and never won’t be heerd
 of. Now, I’m not a going to stand it, you know!’ said the milkman, still
-throwing his voice into the house, and glaring down the passage.
+throwing his voice into the [[house]], and glaring down the passage.
 
 As to his dealing in the mild article of milk, by the by, there never
 was a greater anomaly. His deportment would have been fierce in a
@@ -72,10 +72,10 @@ from the action of her lips, again to murmur that it would be attended
 to immediate.
 
 ‘I tell you what,’ said the milkman, looking hard at her for the first
-time, and taking her by the chin, ‘are you fond of milk?’
+[[Time|time]], and taking her by the chin, ‘are you fond of milk?’
 
 ‘Yes, I likes it,’ she replied. ‘Good,’ said the milkman. ‘Then you
-won’t have none tomorrow. D’ye hear? Not a fragment of milk you won’t
+won’t have none tomorrow. D’ye hear? Not a [[Fragment|fragment]] of milk you won’t
 have tomorrow.’
 
 I thought she seemed, upon the whole, relieved by the prospect of having
@@ -90,7 +90,7 @@ shriek.
 A mysterious voice from the end of the passage replied ‘Yes.’ Upon which
 the youthful servant replied ‘Yes.’
 
-‘Is he at home?’ said I.
+‘Is he at [[Home|home]]?’ said I.
 
 Again the mysterious voice replied in the affirmative, and again the
 servant echoed it. Upon this, I walked in, and in pursuance of the
@@ -98,10 +98,10 @@ servant’s directions walked upstairs; conscious, as I passed the
 back parlour-door, that I was surveyed by a mysterious eye, probably
 belonging to the mysterious voice.
 
-When I got to the top of the stairs--the house was only a story high
+When I got to the top of the stairs--the [[house]] was only a story high
 above the ground floor--Traddles was on the landing to meet me. He was
 delighted to see me, and gave me welcome, with great heartiness, to
-his little room. It was in the front of the house, and extremely neat,
+his little room. It was in the front of the [[house]], and extremely neat,
 though sparely furnished. It was his only room, I saw; for there was a
 sofa-bedstead in it, and his blacking-brushes and blacking were among
 his books--on the top shelf, behind a dictionary. His table was covered
@@ -131,13 +131,13 @@ You have chambers?’ said I.
 ‘Why, I have the fourth of a room and a passage, and the fourth of a
 clerk,’ returned Traddles. ‘Three others and myself unite to have a
 set of chambers--to look business-like--and we quarter the clerk too.
-Half-a-crown a week he costs me.’
+Half-a-[[Crown|crown]] a week he costs me.’
 
 His old simple character and good temper, and something of his old
 unlucky fortune also, I thought, smiled at me in the smile with which he
 made this explanation.
 
-‘It’s not because I have the least pride, Copperfield, you understand,’
+‘It’s not because I have the least [[Pride|pride]], Copperfield, you understand,’
 said Traddles, ‘that I don’t usually give my address here. It’s only on
 account of those who come to me, who might not like to come here. For
 myself, I am fighting my way on in the world against difficulties, and
@@ -147,7 +147,7 @@ it would be ridiculous if I made a pretence of doing anything else.’
 
 ‘Why, yes,’ said Traddles, rubbing his hands slowly over one another. ‘I
 am reading for the bar. The fact is, I have just begun to keep my terms,
-after rather a long delay. It’s some time since I was articled, but the
+after rather a long delay. It’s some [[Time|time]] since I was articled, but the
 payment of that hundred pounds was a great pull. A great pull!’ said
 Traddles, with a wince, as if he had had a tooth out.
 
@@ -159,7 +159,7 @@ looking at you?’ I asked him.
 ‘That sky-blue suit you used to wear.’
 
 ‘Lord, to be sure!’ cried Traddles, laughing. ‘Tight in the arms and
-legs, you know? Dear me! Well! Those were happy times, weren’t they?’
+legs, you know? Dear me! [[Well]]! Those were happy times, weren’t they?’
 
 ‘I think our schoolmaster might have made them happier, without doing
 any harm to any of us, I acknowledge,’ I returned.
@@ -171,7 +171,7 @@ ha! And do you remember when I got caned for crying about Mr. Mell? Old
 Creakle! I should like to see him again, too!’
 
 ‘He was a brute to you, Traddles,’ said I, indignantly; for his good
-humour made me feel as if I had seen him beaten but yesterday.
+[[Humour|humour]] made me feel as if I had seen him beaten but yesterday.
 
 ‘Do you think so?’ returned Traddles. ‘Really? Perhaps he was rather.
 But it’s all over, a long while. Old Creakle!’
@@ -207,17 +207,17 @@ wasn’t provided for.’
 ‘Oh dear, yes!’ said Traddles. ‘I got fifty pounds. I had never been
 brought up to any profession, and at first I was at a loss what to
 do for myself. However, I began, with the assistance of the son of a
-professional man, who had been to Salem House--Yawler, with his nose on
+professional man, who had been to Salem [[house|House]]--Yawler, with his nose on
 one side. Do you recollect him?’
 
 No. He had not been there with me; all the noses were straight in my
 day.
 
 ‘It don’t matter,’ said Traddles. ‘I began, by means of his assistance,
-to copy law writings. That didn’t answer very well; and then I began to
+to copy law writings. That didn’t answer very [[Well|well]]; and then I began to
 state cases for them, and make abstracts, and that sort of work. For
 I am a plodding kind of fellow, Copperfield, and had learnt the way of
-doing such things pithily. Well! That put it in my head to enter myself
+doing such things pithily. [[Well]]! That put it in my head to enter myself
 as a law student; and that ran away with all that was left of the fifty
 pounds. Yawler recommended me to one or two other offices, however--Mr.
 Waterbrook’s for one--and I got a good many jobs. I was fortunate
@@ -237,7 +237,7 @@ can find no better expression--as before.
 the hundred pounds at last,’ said Traddles; ‘and thank Heaven that’s
 paid--though it was--though it certainly was,’ said Traddles, wincing
 again as if he had had another tooth out, ‘a pull. I am living by the
-sort of work I have mentioned, still, and I hope, one of these days, to
+sort of work I have mentioned, still, and I [[Hope|hope]], one of these days, to
 get connected with some newspaper: which would almost be the making of
 my fortune. Now, Copperfield, you are so exactly what you used to
 be, with that agreeable face, and it’s so pleasant to see you, that I
@@ -249,30 +249,30 @@ Engaged! Oh, Dora!
 Devonshire. Yes!’ For he saw me glance, involuntarily, at the prospect
 on the inkstand. ‘That’s the church! You come round here to the left,
 out of this gate,’ tracing his finger along the inkstand, ‘and exactly
-where I hold this pen, there stands the house--facing, you understand,
+where I hold this pen, there stands the [[house]]--facing, you understand,
 towards the church.’
 
 The delight with which he entered into these particulars, did not fully
 present itself to me until afterwards; for my selfish thoughts were
-making a ground-plan of Mr. Spenlow’s house and garden at the same
+making a ground-plan of Mr. Spenlow’s [[house]] and [[Garden|garden]] at the same
 moment.
 
 ‘She is such a dear girl!’ said Traddles; ‘a little older than me, but
 the dearest girl! I told you I was going out of town? I have been down
 there. I walked there, and I walked back, and I had the most delightful
-time! I dare say ours is likely to be a rather long engagement, but our
-motto is “Wait and hope!” We always say that. “Wait and hope,” we always
+[[Time|time]]! I dare say ours is likely to be a rather long engagement, but our
+motto is “Wait and [[Hope|hope]]!” We always say that. “Wait and [[Hope|hope]],” we always
 say. And she would wait, Copperfield, till she was sixty--any age you
 can mention--for me!’
 
-Traddles rose from his chair, and, with a triumphant smile, put his hand
+Traddles [[Rose|rose]] from his chair, and, with a triumphant smile, put his hand
 upon the white cloth I had observed.
 
 ‘However,’ he said, ‘it’s not that we haven’t made a beginning towards
 housekeeping. No, no; we have begun. We must get on by degrees, but we
-have begun. Here,’ drawing the cloth off with great pride and care, ‘are
+have begun. Here,’ drawing the cloth off with great [[Pride|pride]] and care, ‘are
 two pieces of furniture to commence with. This flower-pot and stand,
-she bought herself. You put that in a parlour window,’ said Traddles,
+she bought herself. You put that in a parlour [[Window|window]],’ said Traddles,
 falling a little back from it to survey it with the greater admiration,
 ‘with a plant in it, and--and there you are! This little round table
 with the marble top (it’s two feet ten in circumference), I bought. You
@@ -287,12 +287,12 @@ it’s something. The table-cloths, and pillow-cases, and articles of
 that kind, are what discourage me most, Copperfield. So does
 the ironmongery--candle-boxes, and gridirons, and that sort of
 necessaries--because those things tell, and mount up. However, “wait and
-hope!” And I assure you she’s the dearest girl!’
+[[Hope|hope]]!” And I assure you she’s the dearest girl!’
 
 ‘I am quite certain of it,’ said I.
 
 ‘In the meantime,’ said Traddles, coming back to his chair; ‘and this is
-the end of my prosing about myself, I get on as well as I can. I don’t
+the end of my prosing about myself, I get on as [[Well|well]] as I can. I don’t
 make much, but I don’t spend much. In general, I board with the people
 downstairs, who are very agreeable people indeed. Both Mr. and Mrs.
 Micawber have seen a good deal of life, and are excellent company.’
@@ -304,9 +304,9 @@ Traddles looked at me, as if he wondered what I was talking about.
 ‘Mr. and Mrs. Micawber!’ I repeated. ‘Why, I am intimately acquainted
 with them!’
 
-An opportune double knock at the door, which I knew well from old
+An opportune [[Double|double]] knock at the door, which I knew [[Well|well]] from old
 experience in Windsor Terrace, and which nobody but Mr. Micawber could
-ever have knocked at that door, resolved any doubt in my mind as to
+ever have knocked at that door, resolved any [[Doubt|doubt]] in my mind as to
 their being my old friends. I begged Traddles to ask his landlord
 to walk up. Traddles accordingly did so, over the banister; and Mr.
 Micawber, not a bit changed--his tights, his stick, his shirt-collar,
@@ -334,7 +334,7 @@ quo.’
 ‘Sir,’ said Mr. Micawber, ‘I rejoice to reply that they are, likewise,
 in the enjoyment of salubrity.’
 
-All this time, Mr. Micawber had not known me in the least, though he
+All this [[Time|time]], Mr. Micawber had not known me in the least, though he
 had stood face to face with me. But now, seeing me smile, he examined my
 features with more attention, fell back, cried, ‘Is it possible! Have I
 the pleasure of again beholding Copperfield!’ and shook me by both hands
@@ -345,7 +345,7 @@ find you acquainted with the friend of my youth, the companion of
 earlier days! My dear!’ calling over the banisters to Mrs. Micawber,
 while Traddles looked (with reason) not a little amazed at this
 description of me. ‘Here is a gentleman in Mr. Traddles’s apartment,
-whom he wishes to have the pleasure of presenting to you, my love!’
+whom he wishes to have the pleasure of presenting to you, my [[Love|love]]!’
 
 Mr. Micawber immediately reappeared, and shook hands with me again.
 
@@ -355,10 +355,10 @@ Mr. Micawber immediately reappeared, and shook hands with me again.
 ‘I have none but good accounts of them,’ said I.
 
 ‘I am most delighted to hear it,’ said Mr. Micawber. ‘It was at
-Canterbury where we last met. Within the shadow, I may figuratively say,
+Canterbury where we last met. Within the [[Shadow|shadow]], I may figuratively say,
 of that religious edifice immortalized by Chaucer, which was anciently
 the resort of Pilgrims from the remotest corners of--in short,’ said Mr.
-Micawber, ‘in the immediate neighbourhood of the Cathedral.’
+Micawber, ‘in the immediate neighbourhood of the [[Cathedral]].’
 
 I replied that it was. Mr. Micawber continued talking as volubly as he
 could; but not, I thought, without showing, by some marks of concern in
@@ -374,8 +374,8 @@ stranger to the fact, that there have been periods of my life, when it
 has been requisite that I should pause, until certain expected events
 should turn up; when it has been necessary that I should fall back,
 before making what I trust I shall not be accused of presumption in
-terming--a spring. The present is one of those momentous stages in the
-life of man. You find me, fallen back, FOR a spring; and I have every
+terming--a [[spring]]. The present is one of those momentous stages in the
+life of man. You find me, fallen back, FOR a [[spring]]; and I have every
 reason to believe that a vigorous leap will shortly be the result.’
 
 I was expressing my satisfaction, when Mrs. Micawber came in; a little
@@ -390,7 +390,7 @@ acquaintance with you.’
 It would have been better, as it turned out, to have led gently up
 to this announcement, for Mrs. Micawber, being in a delicate state of
 health, was overcome by it, and was taken so unwell, that Mr. Micawber
-was obliged, in great trepidation, to run down to the water-butt in
+was obliged, in great trepidation, to run down to the [[Water|water]]-butt in
 the backyard, and draw a basinful to lave her brow with. She
 presently revived, however, and was really pleased to see me. We had
 half-an-hour’s talk, all together; and I asked her about the twins,
@@ -402,7 +402,7 @@ Mr. Micawber was very anxious that I should stay to dinner. I should not
 have been averse to do so, but that I imagined I detected trouble, and
 calculation relative to the extent of the cold meat, in Mrs. Micawber’s
 eye. I therefore pleaded another engagement; and observing that Mrs.
-Micawber’s spirits were immediately lightened, I resisted all persuasion
+Micawber’s spirits were immediately lightened, I resisted all [[Persuasion|persuasion]]
 to forego it.
 
 But I told Traddles, and Mr. and Mrs. Micawber, that before I could
@@ -420,13 +420,13 @@ confidence.
 to have beneath our roof, under existing circumstances, a mind like that
 which gleams--if I may be allowed the expression--which gleams--in your
 friend Traddles, is an unspeakable comfort. With a washerwoman, who
-exposes hard-bake for sale in her parlour-window, dwelling next door,
+exposes hard-bake for sale in her parlour-[[Window|window]], dwelling next door,
 and a Bow-street officer residing over the way, you may imagine that his
 society is a source of consolation to myself and to Mrs. Micawber. I
 am at present, my dear Copperfield, engaged in the sale of corn upon
 commission. It is not an avocation of a remunerative description--in
 other words, it does not pay--and some temporary embarrassments of a
-pecuniary nature have been the consequence. I am, however, delighted to
+pecuniary [[Nature|nature]] have been the consequence. I am, however, delighted to
 add that I have now an immediate prospect of something turning up (I am
 not at liberty to say in what direction), which I trust will enable me
 to provide, permanently, both for myself and for your friend Traddles,

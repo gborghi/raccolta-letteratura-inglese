@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 14"
+title: "[[Pride and Prejudice]] — Chapter 14"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER XIV
 [Illustration]
 
 During dinner, Mr. Bennet scarcely spoke at all; but when the servants
-were withdrawn, he thought it time to have some conversation with his
+were withdrawn, he thought it [[Time|time]] to have some conversation with his
 guest, and therefore started a subject in which he expected him to
 shine, by observing that he seemed very fortunate in his patroness. Lady
 Catherine de Bourgh’s attention to his wishes, and consideration for his
@@ -30,7 +30,7 @@ to more than usual solemnity of manner; and with a most important aspect
 he protested that he had never in his life witnessed such behaviour in a
 person of rank--such affability and condescension, as he had himself
 experienced from Lady Catherine. She had been graciously pleased to
-approve of both the discourses which he had already had the honour of
+approve of both the discourses which he had already had the [[Honour|honour]] of
 preaching before her. She had also asked him twice to dine at Rosings,
 and had sent for him only the Saturday before, to make up her pool of
 quadrille in the evening. Lady Catherine was reckoned proud by many
@@ -48,7 +48,7 @@ to suggest some herself,--some shelves in the closets upstairs.
 dare say she is a very agreeable woman. It is a pity that great ladies
 in general are not more like her. Does she live near you, sir?”
 
-“The garden in which stands my humble abode is separated only by a lane
+“The [[Garden|garden]] in which stands my humble abode is separated only by a lane
 from Rosings Park, her Ladyship’s residence.”
 
 “I think you said she was a widow, sir? has she any family?”
@@ -60,21 +60,21 @@ extensive property.”
 many girls. And what sort of young lady is she? Is she handsome?”
 
 “She is a most charming young lady, indeed. Lady Catherine herself says
-that, in point of true beauty, Miss de Bourgh is far superior to the
+that, in point of true [[Beauty|beauty]], Miss de Bourgh is far superior to the
 handsomest of her sex; because there is that in her features which marks
 the young woman of distinguished birth. She is unfortunately of a sickly
 constitution, which has prevented her making that progress in many
 accomplishments which she could not otherwise have failed of, as I am
-informed by the lady who superintended her education, and who still
+informed by the lady who superintended her [[Education|education]], and who still
 resides with them. But she is perfectly amiable, and often condescends
 to drive by my humble abode in her little phaeton and ponies.”
 
 “Has she been presented? I do not remember her name among the ladies at
-court.”
+[[Court|court]].”
 
 “Her indifferent state of health unhappily prevents her being in town;
 and by that means, as I told Lady Catherine myself one day, has deprived
-the British Court of its brightest ornament. Her Ladyship seemed pleased
+the British [[Court]] of its brightest ornament. Her Ladyship seemed pleased
 with the idea; and you may imagine that I am happy on every occasion to
 offer those little delicate compliments which are always acceptable to
 ladies. I have more than once observed to Lady Catherine, that her
@@ -89,18 +89,18 @@ that you possess the talent of flattering with delicacy. May I ask
 whether these pleasing attentions proceed from the impulse of the
 moment, or are the result of previous study?”
 
-“They arise chiefly from what is passing at the time; and though I
+“They arise chiefly from what is passing at the [[Time|time]]; and though I
 sometimes amuse myself with suggesting and arranging such little elegant
 compliments as may be adapted to ordinary occasions, I always wish to
 give them as unstudied an air as possible.”
 
 Mr. Bennet’s expectations were fully answered. His cousin was as absurd
 as he had hoped; and he listened to him with the keenest enjoyment,
-maintaining at the same time the most resolute composure of countenance,
+maintaining at the same [[Time|time]] the most resolute composure of countenance,
 and, except in an occasional glance at Elizabeth, requiring no partner
 in his pleasure.
 
-By tea-time, however, the dose had been enough, and Mr. Bennet was glad
+By tea-[[Time|time]], however, the dose had been enough, and Mr. Bennet was glad
 to take his guest into the drawing-room again, and when tea was over,
 glad to invite him
 
@@ -120,7 +120,7 @@ before he had, with very monotonous solemnity, read three pages, she
 interrupted him with,--
 
 “Do you know, mamma, that my uncle Philips talks of turning away
-Richard? and if he does, Colonel Forster will hire him. My aunt told me
+[[Richard]]? and if he does, Colonel Forster will hire him. My aunt told me
 so herself on Saturday. I shall walk to Meryton to-morrow to hear more
 about it, and to ask when Mr. Denny comes back from town.”
 

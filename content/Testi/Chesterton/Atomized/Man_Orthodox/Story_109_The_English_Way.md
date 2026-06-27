@@ -16,12 +16,12 @@ tags:
 
 THE ENGLISH WAY
 
-No one can understand the nature of England or of English
+No one can understand the [[Nature|nature]] of England or of English
 politics who does not realize that this island of ours is
 and always has been covered with a kind of beautiful cloud.
 No one can be good critic of England who does not understand fogs.
 And no one can be a really patriotic Englishman who does not like fogs.
-Of all national histories, the history of England must be the hardest
+Of all national histories, the [[history]] of England must be the hardest
 to write, for the English, with all their great epochs, not only did
 not know what they were doing, but, so far as one can make out,
 did not want to know what they were doing.  They always did
@@ -41,7 +41,7 @@ picture of a rainy day.  The Code Napoleon is like a coloured
 photograph of Rome.
 
 The haphazard, hand-to-mouth quality both in our legislation and our
-judicature is partly, no doubt, the result of selfish aristocratic raids
+judicature is partly, no [[Doubt|doubt]], the result of selfish aristocratic raids
 and intrigues, but is still more the result of a certain dim kindliness,
 a sort of desperate kindliness, living in the heart of a confusion
 and never daring to trust itself to a general rule.  This quality
@@ -49,13 +49,13 @@ of a humane vagueness has made inexpressibly difficult the study of
 all the great European crises in their particular effect on England.
 It is grasped that what was in other countries a revolution was in
 England commonly a compromise.  But in England commonly it was more than
-a compromise; it was a riddle.  The Reformation came, for instance.
+a compromise; it was a [[Riddle|riddle]].  The [[Reformation]] came, for instance.
 Scotland went Protestant; Ireland went Catholic; England went something
 or other, but what no modern historian can perfectly demonstrate.
 Englishmen argued with each other, burnt each other, set up and pulled
 down kings, but all in such a manner as to leave it reasonably
 doubtful in the twentieth century whether anything happened at all.
 ... There is something wholly English and quite unexplainable about
-this innocent juggling; this calm and beneficent humbug.
+this [[Innocent|innocent]] juggling; this calm and beneficent humbug.
 
                                               Daily News, March 16th, 1905

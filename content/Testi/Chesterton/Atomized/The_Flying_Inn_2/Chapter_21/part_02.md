@@ -25,7 +25,7 @@ like cold marble than before.
 "I made all possible inquiries about their subsequent
 route," the Secretary was heard saying, "and the most
 serious feature is that they seem to have taken the
-road for London."
+[[Road|road]] for [[London]]."
 
 "Quite so," replied the statue, "they will be easier
 to capture here."
@@ -45,13 +45,13 @@ sudden appearance of that blameless diplomatist
 quickened the mental current to a cataract.  But as
 he could not insult Hibbs, whom socially he did not
 even know; and could not insult Ivywood, with whom
-he had just had a formal reconciliation, it was
+he had just had a formal [[Reconciliation|reconciliation]], it was
 absolutely necessary that he should insult something else
-instead.  All watchers for the Dawn will be deeply
+instead.  All watchers for the [[Dawn]] will be deeply
 distressed to know that the Post-Futurist School of
 Painting received the full effects of this perverted
-wrath.  In vain did Mr. Leveson affirm from time to
-time, "People always prejudiced against new ideas."
+wrath.  In vain did Mr. Leveson affirm from [[Time|time]] to
+[[Time|time]], "People always prejudiced against new ideas."
 Vainly did Mr. Hibbs say at the proper intervals,
 "After all, they said the same of Whistler."  Not by
 such decent formalities was the frenzy of Dorian to
@@ -61,22 +61,22 @@ be appeased.
 he said, "he passes it as a good wall-paper.  I should
 say it was a bad wall-paper; the sort of wall-paper
 that gives a sick man fever when he hasn't got it.  But
-to call it pictures--you might as well call it seats for
-the Lord Mayor's Show.  A seat isn't a seat if you
-can't see the Lord Mayor's Show.  A picture isn't a
+to call it pictures--you might as [[Well|well]] call it seats for
+the [[Lord Mayor]]'s Show.  A seat isn't a seat if you
+can't see the [[Lord Mayor]]'s Show.  A picture isn't a
 picture if you can't see any picture.  You can sit down
-at home more comfortably than you can at a procession.
-And you can walk about at home more comfortably
+at [[Home|home]] more comfortably than you can at a procession.
+And you can walk about at [[Home|home]] more comfortably
 than you can at a picture gallery.  There's only
 one thing to be said for a street show or a picture
 show--and that is whether there is anything to be
 shown.  Now, then!  Show me something!"
 
-"Well," said Lord Ivywood, good humouredly, motioning
+"[[Well]]," said Lord Ivywood, good humouredly, motioning
 toward the wall in front of him, "let me show
 you the 'Portrait of an Old Lady.'"
 
-"Well," said Dorian, stolidly, "which is it?"
+"[[Well]]," said Dorian, stolidly, "which is it?"
 
 Mr. Hibbs made a hasty gesture of identification,
 but was so unfortunate as to point to the picture of
@@ -94,10 +94,10 @@ stopped at one glass, and returned with a full
 diplomatic responsibility.
 
 He returned to find that Dorian Wimpole had forgotten
-all the facts of time, place, and personal pride,
+all the facts of [[Time|time]], place, and personal [[Pride|pride]],
 in an argument with Lord Ivywood, exactly as he had
 forgotten such facts in an argument with Patrick
-Dalroy, in a dark wood with a donkey-cart.  And Philip
+Dalroy, in a dark wood with a [[donkey]]-cart.  And Philip
 Ivywood was interested also; his cold eyes even shone;
 for though his pleasure was almost purely intellectual,
 it was utterly sincere.
@@ -105,7 +105,7 @@ it was utterly sincere.
 "And I do trust the untried; I do follow the
 inexperienced," he was saying quietly, with his fine
 inflections of voice.  "You say this is changing the very
-nature of Art.  I want to change the very nature of
+[[Nature|nature]] of Art.  I want to change the very [[Nature|nature]] of
 Art.  Everything lives by turning into something else.
 Exaggeration is growth."
 
@@ -119,19 +119,19 @@ I hardly think such jokes are in your line.  But don't
 you see, my good Philip, that even then the joke
 depends on its looking like a cow and not only like a
 thing with feathers.  Even then the joke depends on
-the whale as well as the legs.  You can combine up to
+the whale as [[Well|well]] as the legs.  You can combine up to
 a certain point; you can distort up to a certain point;
-after that you lose the identity; and with that you lose
+after that you lose the [[Identity|identity]]; and with that you lose
 everything.  A Centaur is so much of a man with so
-much of a horse.  The Centaur must not be hastily
-identified with the Horsy Man.  And the Mermaid
+much of a [[Horse|horse]].  The Centaur must not be hastily
+identified with the Horsy Man.  And the [[Mermaid]]
 must be maidenly; even if there is something fishy
 about her social conduct."
 
 "No," said Lord Ivywood, in the same quiet way, "I
 understand what you mean, and I don't agree.  I
 should like the Centaur to turn into something else,
-that is neither man nor horse."
+that is neither man nor [[Horse|horse]]."
 
 "But not something that has nothing of either?"
 asked the poet.
@@ -145,8 +145,8 @@ that has changed entirely has not changed at all.  It
 has no bridge of crisis.  It can remember no change.
 If you wake up tomorrow and you simply _are_ Mrs.
 Dope, an old woman who lets lodgings at Broadstairs
---well, I don't doubt Mrs. Dope is a saner and
+--[[Well|well]], I don't [[Doubt|doubt]] Mrs. Dope is a saner and
 happier person than you are.  But in what way have
 _you_ progressed?  What part of _you_ is better?  Don't
-you see this prime fact of identity is the limit set on
+you see this prime fact of [[Identity|identity]] is the limit set on
 all living things?"

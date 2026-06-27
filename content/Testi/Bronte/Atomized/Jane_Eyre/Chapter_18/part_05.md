@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 18 (part 5)"
+title: "[[Jane Eyre]] — Chapter 18 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -61,7 +61,7 @@ The footman still lingered. “She looks such a rough one,” said he.
 
 “Go!” ejaculated Miss Ingram, and the man went.
 
-Excitement instantly seized the whole party: a running fire of raillery
+Excitement instantly seized the whole party: a running [[Fire|fire]] of raillery
 and jests was proceeding when Sam returned.
 
 “She won’t come now,” said he. “She says it’s not her mission to appear
@@ -74,13 +74,13 @@ Be advised, my angel girl—and—”
 
 “Show her into the library, of course,” cut in the “angel girl.” “It is
 not my mission to listen to her before the vulgar herd either: I mean
-to have her all to myself. Is there a fire in the library?”
+to have her all to myself. Is there a [[Fire|fire]] in the library?”
 
 “Yes, ma’am—but she looks such a tinkler.”
 
 “Cease that chatter, blockhead! and do my bidding.”
 
-Again Sam vanished; and mystery, animation, expectation rose to full
+Again Sam vanished; and mystery, animation, expectation [[Rose|rose]] to full
 flow once more.
 
 “She’s ready now,” said the footman, as he reappeared. “She wishes to
@@ -100,15 +100,15 @@ single.”
 
 “By Jove, she has taste!” exclaimed Henry Lynn.
 
-Miss Ingram rose solemnly: “I go first,” she said, in a tone which
-might have befitted the leader of a forlorn hope, mounting a breach in
+Miss Ingram [[Rose|rose]] solemnly: “I go first,” she said, in a tone which
+might have befitted the leader of a forlorn [[Hope|hope]], mounting a breach in
 the van of his men.
 
 “Oh, my best! oh, my dearest! pause—reflect!” was her mama’s cry; but
-she swept past her in stately silence, passed through the door which
+she swept past her in stately [[Silence|silence]], passed through the door which
 Colonel Dent held open, and we heard her enter the library.
 
-A comparative silence ensued. Lady Ingram thought it “le cas” to wring
+A comparative [[Silence|silence]] ensued. Lady Ingram thought it “le cas” to wring
 her hands: which she did accordingly. Miss Mary declared she felt, for
 her part, she never dared venture. Amy and Louisa Eshton tittered under
 their breath, and looked a little frightened.
@@ -119,9 +119,9 @@ library-door again opened. Miss Ingram returned to us through the arch.
 Would she laugh? Would she take it as a joke? All eyes met her with a
 glance of eager curiosity, and she met all eyes with one of rebuff and
 coldness; she looked neither flurried nor merry: she walked stiffly to
-her seat, and took it in silence.
+her seat, and took it in [[Silence|silence]].
 
-“Well, Blanche?” said Lord Ingram.
+“[[Well]], Blanche?” said Lord Ingram.
 
 “What did she say, sister?” asked Mary.
 
@@ -129,18 +129,18 @@ her seat, and took it in silence.
 demanded the Misses Eshton.
 
 “Now, now, good people,” returned Miss Ingram, “don’t press upon me.
-Really your organs of wonder and credulity are easily excited: you
+Really your organs of [[Wonder|wonder]] and credulity are easily excited: you
 seem, by the importance of you all—my good mama included—ascribe to
-this matter, absolutely to believe we have a genuine witch in the
-house, who is in close alliance with the old gentleman. I have seen a
+this matter, absolutely to believe we have a genuine [[Witch|witch]] in the
+[[house]], who is in close alliance with the old gentleman. I have seen a
 gipsy vagabond; she has practised in hackneyed fashion the science of
 palmistry and told me what such people usually tell. My whim is
-gratified; and now I think Mr. Eshton will do well to put the hag in
+gratified; and now I think Mr. Eshton will do [[Well|well]] to put the hag in
 the stocks to-morrow morning, as he threatened.”
 
 Miss Ingram took a book, leant back in her chair, and so declined
 further conversation. I watched her for nearly half-an-hour: during all
-that time she never turned a page, and her face grew momently darker,
+that [[Time|time]] she never turned a page, and her face grew momently darker,
 more dissatisfied, and more sourly expressive of disappointment. She
 had obviously not heard anything to her advantage: and it seemed to me,
 from her prolonged fit of gloom and taciturnity, that she herself,
@@ -148,14 +148,14 @@ notwithstanding her professed indifference, attached undue importance
 to whatever revelations had been made her.
 
 
-During all that time she never turned a page
+During all that [[Time|time]] she never turned a page
 
 Meantime, Mary Ingram, Amy and Louisa Eshton, declared they dared not
-go alone; and yet they all wished to go. A negotiation was opened
+go [[Alone|alone]]; and yet they all wished to go. A negotiation was opened
 through the medium of the ambassador, Sam; and after much pacing to and
 fro, till, I think, the said Sam’s calves must have ached with the
 exercise, permission was at last, with great difficulty, extorted from
-the rigorous Sibyl, for the three to wait upon her in a body.
+the rigorous Sibyl, for the three to wait upon her in a [[Body|body]].
 
 Their visit was not so still as Miss Ingram’s had been: we heard
 hysterical giggling and little shrieks proceeding from the library; and
@@ -168,7 +168,7 @@ into the various seats the gentlemen hastened to bring them.
 
 Pressed for further explanation, they declared she had told them of
 things they had said and done when they were mere children; described
-books and ornaments they had in their boudoirs at home: keepsakes that
+books and ornaments they had in their boudoirs at [[Home|home]]: keepsakes that
 different relations had presented to them. They affirmed that she had
 even divined their thoughts, and had whispered in the ear of each the
 name of the person she liked best in the world, and informed them of
@@ -179,7 +179,7 @@ enlightened on these two last-named points; but they got only blushes,
 ejaculations, tremors, and titters, in return for their importunity.
 The matrons, meantime, offered vinaigrettes and wielded fans; and again
 and again reiterated the expression of their concern that their warning
-had not been taken in time; and the elder gentlemen laughed, and the
+had not been taken in [[Time|time]]; and the elder gentlemen laughed, and the
 younger urged their services on the agitated fair ones.
 
 In the midst of the tumult, and while my eyes and ears were fully

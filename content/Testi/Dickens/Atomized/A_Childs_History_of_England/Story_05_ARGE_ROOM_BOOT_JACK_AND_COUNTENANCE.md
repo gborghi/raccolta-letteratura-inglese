@@ -1,5 +1,5 @@
 ---
-title: "A Child's History of England — ARGE ROOM, BOOT-JACK AND COUNTENANCE."
+title: "A [[Child]]'s [[history|History]] of England — ARGE ROOM, BOOT-JACK AND COUNTENANCE."
 author: "Dickens"
 unitType: story
 parentWork: "Works/A-Child's-History-of-England-(Dickens)"
@@ -18,7 +18,7 @@ tags:
 
   _President_—Mr. Mallett.  _Vice-Presidents_—Messrs. Leaver and Scroo.
 
-‘MR. CRINKLES exhibited a most beautiful and delicate machine, of little
+‘MR. CRINKLES exhibited a most beautiful and delicate [[Machine|machine]], of little
 larger size than an ordinary snuff-box, manufactured entirely by himself,
 and composed exclusively of steel, by the aid of which more pockets could
 be picked in one hour than by the present slow and tedious process in
@@ -30,7 +30,7 @@ never been once known to fail.
 section buttoning their pockets,
 
 ‘THE PRESIDENT narrowly inspected the invention, and declared that he had
-never seen a machine of more beautiful or exquisite construction.  Would
+never seen a [[Machine|machine]] of more beautiful or exquisite construction.  Would
 the inventor be good enough to inform the section whether he had taken
 any and what means for bringing it into general operation?
 
@@ -53,16 +53,16 @@ stand in the way of such a great public improvement.
 swell mob persevered in their objection, nothing could be done.
 
 ‘PROFESSOR GRIME suggested, that surely, in that case, Her Majesty’s
-Government might be prevailed upon to take it up.
+[[government|Government]] might be prevailed upon to take it up.
 
 ‘MR. CRINKLES said, that if the objection were found to be insuperable he
 should apply to Parliament, which he thought could not fail to recognise
 the utility of the invention.
 
-‘THE PRESIDENT observed that, up to this time Parliament had certainly
-got on very well without it; but, as they did their business on a very
-large scale, he had no doubt they would gladly adopt the improvement.
-His only fear was that the machine might be worn out by constant working.
+‘THE PRESIDENT observed that, up to this [[Time|time]] Parliament had certainly
+got on very [[Well|well]] without it; but, as they did their business on a very
+large scale, he had no [[Doubt|doubt]] they would gladly adopt the improvement.
+His only [[Fear|fear]] was that the [[Machine|machine]] might be worn out by constant working.
 
 ‘MR. COPPERNOSE called the attention of the section to a proposition of
 great magnitude and interest, illustrated by a vast number of models, and
@@ -73,7 +73,7 @@ was, that a space of ground of not less than ten miles in length and four
 in breadth should be purchased by a new company, to be incorporated by
 Act of Parliament, and inclosed by a brick wall of not less than twelve
 feet in height.  He proposed that it should be laid out with highway
-roads, turnpikes, bridges, miniature villages, and every object that
+roads, [[turnpikes]], bridges, miniature villages, and every object that
 could conduce to the comfort and glory of Four-in-hand Clubs, so that
 they might be fairly presumed to require no drive beyond it.  This
 delightful retreat would be fitted up with most commodious and extensive
@@ -81,7 +81,7 @@ stables, for the convenience of such of the nobility and gentry as had a
 taste for ostlering, and with houses of entertainment furnished in the
 most expensive and handsome style.  It would be further provided with
 whole streets of door-knockers and bell-handles of extra size, so
-constructed that they could be easily wrenched off at night, and
+constructed that they could be easily wrenched off at [[Night|night]], and
 regularly screwed on again, by attendants provided for the purpose, every
 day.  There would also be gas lamps of real glass, which could be broken
 at a comparatively small expense per dozen, and a broad and handsome foot
@@ -93,7 +93,7 @@ the public, there would be no objection to gentlemen laying aside any
 article of their costume that was considered to interfere with a pleasant
 frolic, or, indeed, to their walking about without any costume at all, if
 they liked that better.  In short, every facility of enjoyment would be
-afforded that the most gentlemanly person could possibly desire.  But as
+afforded that the most gentlemanly person could possibly [[Desire|desire]].  But as
 even these advantages would be incomplete unless there were some means
 provided of enabling the nobility and gentry to display their prowess
 when they sallied forth after dinner, and as some inconvenience might be
@@ -106,16 +106,16 @@ making with such nicety, that a policeman, cab-driver, or old woman, made
 upon the principle of the models exhibited, would walk about until
 knocked down like any real man; nay, more, if set upon and beaten by six
 or eight noblemen or gentlemen, after it was down, the figure would utter
-divers groans, mingled with entreaties for mercy, thus rendering the
+divers groans, mingled with entreaties for [[Mercy|mercy]], thus rendering the
 illusion complete, and the enjoyment perfect.  But the invention did not
 stop even here; for station-houses would be built, containing good beds
-for noblemen and gentlemen during the night, and in the morning they
+for noblemen and gentlemen during the [[Night|night]], and in the morning they
 would repair to a commodious police office, where a pantomimic
 investigation would take place before the automaton magistrates,—quite
 equal to life,—who would fine them in so many counters, with which they
 would be previously provided for the purpose.  This office would be
 furnished with an inclined plane, for the convenience of any nobleman or
-gentleman who might wish to bring in his horse as a witness; and the
+gentleman who might wish to bring in his [[Horse|horse]] as a witness; and the
 prisoners would be at perfect liberty, as they were now, to interrupt the
 complainants as much as they pleased, and to make any remarks that they
 thought proper.  The charge for these amusements would amount to very
@@ -144,7 +144,7 @@ little difference in point of excitement whether the policeman or
 cab-driver were a man or a block.  The great advantage would be, that a
 policeman’s limbs might be all knocked off, and yet he would be in a
 condition to do duty next day.  He might even give his evidence next
-morning with his head in his hand, and give it equally well.
+morning with his head in his hand, and give it equally [[Well|well]].
 
 ‘PROFESSOR MUFF.—Will you allow me to ask you, sir, of what materials it
 is intended that the magistrates’ heads shall be composed?
@@ -159,10 +159,10 @@ possibly be obtained.
 the magistrates ought to talk.
 
 ‘MR. COPPERNOSE no sooner heard this suggestion than he touched a small
-spring in each of the two models of magistrates which were placed upon
+[[Spring|spring]] in each of the two models of magistrates which were placed upon
 the table; one of the figures immediately began to exclaim with great
 volubility that he was sorry to see gentlemen in such a situation, and
-the other to express a fear that the policeman was intoxicated.
+the other to express a [[Fear|fear]] that the policeman was intoxicated.
 
 ‘The section, as with one accord, declared with a shout of applause that
 the invention was complete; and the President, much excited, retired with
@@ -191,13 +191,13 @@ made.
 
 ‘MR. BLANK exhibited a model of a fashionable annual, composed of
 copper-plates, gold leaf, and silk boards, and worked entirely by milk
-and water.
+and [[Water|water]].
 
-‘MR. PROSEE, after examining the machine, declared it to be so
+‘MR. PROSEE, after examining the [[Machine|machine]], declared it to be so
 ingeniously composed, that he was wholly unable to discover how it went
 on at all.
 
-‘MR. BLANK.—Nobody can, and that is the beauty of it.
+‘MR. BLANK.—Nobody can, and that is the [[Beauty|beauty]] of it.
 
 
 
@@ -210,9 +210,9 @@ on at all.
 
 ‘DR. GRUMMIDGE stated to the section a most interesting case of
 monomania, and described the course of treatment he had pursued with
-perfect success.  The patient was a married lady in the middle rank of
+perfect [[success]].  The patient was a married lady in the middle rank of
 life, who, having seen another lady at an evening party in a full suit of
-pearls, was suddenly seized with a desire to possess a similar equipment,
+pearls, was suddenly seized with a [[Desire|desire]] to possess a similar equipment,
 although her husband’s finances were by no means equal to the necessary
 outlay.  Finding her wish ungratified, she fell sick, and the symptoms
 soon became so alarming, that he (Dr. Grummidge) was called in.  At this
@@ -220,12 +220,12 @@ period the prominent tokens of the disorder were sullenness, a total
 indisposition to perform domestic duties, great peevishness, and extreme
 languor, except when pearls were mentioned, at which times the pulse
 quickened, the eyes grew brighter, the pupils dilated, and the patient,
-after various incoherent exclamations, burst into a passion of tears, and
+after various incoherent exclamations, burst into a passion of [[Tears|tears]], and
 exclaimed that nobody cared for her, and that she wished herself dead.
 Finding that the patient’s appetite was affected in the presence of
 company, he began by ordering a total abstinence from all stimulants, and
 forbidding any sustenance but weak gruel; he then took twenty ounces of
-blood, applied a blister under each ear, one upon the chest, and another
+[[Blood|blood]], applied a blister under each ear, one upon the chest, and another
 on the back; having done which, and administered five grains of calomel,
 he left the patient to her repose.  The next day she was somewhat low,
 but decidedly better, and all appearances of irritation were removed.
@@ -249,9 +249,9 @@ was, that infinitesimal doses of any medicine which would occasion the
 disease under which the patient laboured, supposing him to be in a
 healthy state, would cure it.  Now, it was a remarkable
 circumstance—proved in the evidence—that the deceased Thorn employed a
-woman to follow him about all day with a pail of water, assuring her that
+woman to follow him about all day with a pail of [[Water|water]], assuring her that
 one drop (a purely homoeopathic remedy, the section would observe),
-placed upon his tongue, after death, would restore him.  What was the
+placed upon his tongue, after [[Death|death]], would restore him.  What was the
 obvious inference?  That Thorn, who was marching and countermarching in
 osier beds, and other swampy places, was impressed with a presentiment
 that he should be drowned; in which case, had his instructions been
@@ -268,14 +268,14 @@ gentleman had been sacrificed to the ignorance of the peasantry.
 ‘SECTION D.—STATISTICS.
 
 
-                  OUT-HOUSE, BLACK BOY AND STOMACH-ACHE.
+                  OUT-[[house|HOUSE]], BLACK BOY AND STOMACH-ACHE.
 
    _President_—Mr. Slug.  _Vice-Presidents_—Messrs. Noakes and Styles.
 
 ‘MR. KWAKLEY stated the result of some most ingenious statistical
 inquiries relative to the difference between the value of the
 qualification of several members of Parliament as published to the world,
-and its real nature and amount.  After reminding the section that every
+and its real [[Nature|nature]] and amount.  After reminding the section that every
 member of Parliament for a town or borough was supposed to possess a
 clear freehold estate of three hundred pounds per annum, the honourable
 gentleman excited great amusement and laughter by stating the exact
@@ -283,7 +283,7 @@ amount of freehold property possessed by a column of legislators, in
 which he had included himself.  It appeared from this table, that the
 amount of such income possessed by each was 0 pounds, 0 shillings, and 0
 pence, yielding an average of the same. (Great laughter.)  It was pretty
-well known that there were accommodating gentlemen in the habit of
+[[Well|well]] known that there were accommodating gentlemen in the habit of
 furnishing new members with temporary qualifications, to the ownership of
 which they swore solemnly—of course as a mere matter of form.  He argued
 from these _data_ that it was wholly unnecessary for members of
@@ -301,13 +301,13 @@ none the public could get them so much cheaper.
 eye, which had been seen by the author standing in a butcher’s cart at
 the corner of Newgate Market.  The communication described the author of
 the paper as having, in the prosecution of a mercantile pursuit, betaken
-himself one Saturday morning last summer from Somers Town to Cheapside;
+himself one Saturday morning last [[Summer|summer]] from Somers Town to Cheapside;
 in the course of which expedition he had beheld the extraordinary
 appearance above described.  The pony had one distinct eye, and it had
-been pointed out to him by his friend Captain Blunderbore, of the Horse
+been pointed out to him by his friend Captain Blunderbore, of the [[Horse]]
 Marines, who assisted the author in his search, that whenever he winked
 this eye he whisked his tail (possibly to drive the flies off), but that
-he always winked and whisked at the same time.  The animal was lean,
+he always winked and whisked at the same [[Time|time]].  The animal was lean,
 spavined, and tottering; and the author proposed to constitute it of the
 family of _Fitfordogsmeataurious_.  It certainly did occur to him that
 there was no case on record of a pony with one clearly-defined and
@@ -317,19 +317,19 @@ distinct organ of vision, winking and whisking at the same moment.
 likewise of a pony whisking his tail, but whether they were two ponies or
 the same pony he could not undertake positively to say.  At all events,
 he was acquainted with no authenticated instance of a simultaneous
-winking and whisking, and he really could not but doubt the existence of
+winking and whisking, and he really could not but [[Doubt|doubt]] the existence of
 such a marvellous pony in opposition to all those natural laws by which
 ponies were governed.  Referring, however, to the mere question of his
 one organ of vision, might he suggest the possibility of this pony having
-been literally half asleep at the time he was seen, and having closed
+been literally half asleep at the [[Time|time]] he was seen, and having closed
 only one eye.
 
 ‘THE PRESIDENT observed that, whether the pony was half asleep or fast
-asleep, there could be no doubt that the association was wide awake, and
+asleep, there could be no [[Doubt|doubt]] that the association was wide awake, and
 therefore that they had better get the business over, and go to dinner.
 He had certainly never seen anything analogous to this pony, but he was
-not prepared to doubt its existence; for he had seen many queerer ponies
-in his time, though he did not pretend to have seen any more remarkable
+not prepared to [[Doubt|doubt]] its existence; for he had seen many queerer ponies
+in his [[Time|time]], though he did not pretend to have seen any more remarkable
 donkeys than the other gentlemen around him.
 
 ‘PROFESSOR JOHN KETCH was then called upon to exhibit the skull of the
@@ -358,19 +358,19 @@ vile the ’sociation’s in the town.  Hand over, vill you?”
 ‘With these words, Professor Ketch hastily repossessed himself of the
 cocoa-nut, and drew forth the skull, in mistake for which he had
 exhibited it.  A most interesting conversation ensued; but as there
-appeared some doubt ultimately whether the skull was Mr. Greenacre’s, or
+appeared some [[Doubt|doubt]] ultimately whether the skull was Mr. Greenacre’s, or
 a hospital patient’s, or a pauper’s, or a man’s, or a woman’s, or a
 monkey’s, no particular result was obtained.’
 
                                 * * * * *
 
 ‘I cannot,’ says our talented correspondent in conclusion, ‘I cannot
-close my account of these gigantic researches and sublime and noble
+close my account of these gigantic researches and [[Sublime|sublime]] and noble
 triumphs without repeating a _bon mot_ of Professor Woodensconce’s, which
-shows how the greatest minds may occasionally unbend when truth can be
+shows how the greatest minds may occasionally unbend when [[Truth|truth]] can be
 presented to listening ears, clothed in an attractive and playful form.
 I was standing by, when, after a week of feasting and feeding, that
-learned gentleman, accompanied by the whole body of wonderful men,
+learned gentleman, accompanied by the whole [[Body|body]] of wonderful men,
 entered the hall yesterday, where a sumptuous dinner was prepared; where
 the richest wines sparkled on the board, and fat bucks—propitiatory
 sacrifices to learning—sent forth their savoury odours.  “Ah!” said
@@ -392,11 +392,11 @@ many-coloured as those actions are, and inconsistent though they
 occasionally be with those rigid and formal rules of propriety which
 regulate the proceedings of meaner and less comprehensive minds.  We
 revel in pantomimes—not because they dazzle one’s eyes with tinsel and
-gold leaf; not because they present to us, once again, the well-beloved
-chalked faces, and goggle eyes of our childhood; not even because, like
-Christmas-day, and Twelfth-night, and Shrove-Tuesday, and one’s own
+gold leaf; not because they present to us, once again, the [[Well|well]]-beloved
+chalked faces, and goggle eyes of our [[Childhood|childhood]]; not even because, like
+Christmas-day, and Twelfth-[[Night|night]], and Shrove-Tuesday, and one’s own
 birthday, they come to us but once a year;—our attachment is founded on a
-graver and a very different reason.  A pantomime is to us, a mirror of
+graver and a very different reason.  A pantomime is to us, a [[Mirror|mirror]] of
 life; nay, more, we maintain that it is so to audiences generally,
 although they are not aware of it, and that this very circumstance is the
 secret cause of their amusement and delight.
@@ -405,17 +405,17 @@ Let us take a slight example.  The scene is a street: an elderly
 gentleman, with a large face and strongly marked features, appears.  His
 countenance beams with a sunny smile, and a perpetual dimple is on his
 broad, red cheek.  He is evidently an opulent elderly gentleman,
-comfortable in circumstances, and well-to-do in the world.  He is not
+comfortable in circumstances, and [[Well|well]]-to-do in the world.  He is not
 unmindful of the adornment of his person, for he is richly, not to say
 gaudily, dressed; and that he indulges to a reasonable extent in the
 pleasures of the table may be inferred from the joyous and oily manner in
 which he rubs his stomach, by way of informing the audience that he is
-going home to dinner.  In the fulness of his heart, in the fancied
+going [[Home|home]] to dinner.  In the fulness of his heart, in the fancied
 security of wealth, in the possession and enjoyment of all the good
 things of life, the elderly gentleman suddenly loses his footing, and
 stumbles.  How the audience roar!  He is set upon by a noisy and
 officious crowd, who buffet and cuff him unmercifully.  They scream with
-delight!  Every time the elderly gentleman struggles to get up, his
+delight!  Every [[Time|time]] the elderly gentleman struggles to get up, his
 relentless persecutors knock him down again.  The spectators are
 convulsed with merriment!  And when at last the elderly gentleman does
 get up, and staggers away, despoiled of hat, wig, and clothing, himself
@@ -424,9 +424,9 @@ laughter, and express their merriment and admiration in rounds of
 applause.
 
 Is this like life?  Change the scene to any real street;—to the Stock
-Exchange, or the City banker’s; the merchant’s counting-house, or even
+Exchange, or the [[City]] banker’s; the merchant’s counting-[[house]], or even
 the tradesman’s shop.  See any one of these men fall,—the more suddenly,
-and the nearer the zenith of his pride and riches, the better.  What a
+and the nearer the zenith of his [[Pride|pride]] and riches, the better.  What a
 wild hallo is raised over his prostrate carcase by the shouting mob; how
 they whoop and yell as he lies humbled beneath them!  Mark how eagerly
 they set upon him when he is down; and how they mock and deride him as he
@@ -435,8 +435,8 @@ slinks away.  Why, it is the pantomime to the very letter.
 Of all the pantomimic _dramatis personæ_, we consider the pantaloon the
 most worthless and debauched.  Independent of the dislike one naturally
 feels at seeing a gentleman of his years engaged in pursuits highly
-unbecoming his gravity and time of life, we cannot conceal from ourselves
-the fact that he is a treacherous, worldly-minded old villain, constantly
+unbecoming his gravity and [[Time|time]] of life, we cannot conceal from ourselves
+the fact that he is a treacherous, worldly-minded old [[Villain|villain]], constantly
 enticing his younger companion, the clown, into acts of fraud or petty
 larceny, and generally standing aside to watch the result of the
 enterprise.  If it be successful, he never forgets to return for his
@@ -444,15 +444,15 @@ share of the spoil; but if it turn out a failure, he generally retires
 with remarkable caution and expedition, and keeps carefully aloof until
 the affair has blown over.  His amorous propensities, too, are eminently
 disagreeable; and his mode of addressing ladies in the open street at
-noon-day is down-right improper, being usually neither more nor less than
+[[Noon|noon]]-day is down-right improper, being usually neither more nor less than
 a perceptible tickling of the aforesaid ladies in the waist, after
-committing which, he starts back, manifestly ashamed (as well he may be)
+committing which, he starts back, manifestly ashamed (as [[Well|well]] he may be)
 of his own indecorum and temerity; continuing, nevertheless, to ogle and
 beckon to them from a distance in a very unpleasant and immoral manner.
 
 Is there any man who cannot count a dozen pantaloons in his own social
 circle?  Is there any man who has not seen them swarming at the west end
-of the town on a sunshiny day or a summer’s evening, going through the
+of the town on a sunshiny day or a [[Summer|summer]]’s evening, going through the
 last-named pantomimic feats with as much liquorish energy, and as total
 an absence of reserve, as if they were on the very stage itself?  We can
 tell upon our fingers a dozen pantaloons of our acquaintance at this
@@ -470,10 +470,10 @@ nod, the obvious recollection of the dinner, the savoury flavour of which
 still hangs upon his lips, are all characteristics of his great
 prototype.  He hobbles away humming an opera tune, and twirling his cane
 to and fro, with affected carelessness.  Suddenly he stops—’tis at the
-milliner’s window.  He peeps through one of the large panes of glass;
+milliner’s [[Window|window]].  He peeps through one of the large panes of glass;
 and, his view of the ladies within being obstructed by the India shawls,
 directs his attentions to the young girl with the band-box in her hand,
-who is gazing in at the window also.  See! he draws beside her.  He
+who is gazing in at the [[Window|window]] also.  See! he draws beside her.  He
 coughs; she turns away from him.  He draws near her again; she disregards
 him.  He gleefully chucks her under the chin, and, retreating a few
 steps, nods and beckons with fantastic grimaces, while the girl bestows a
@@ -491,54 +491,54 @@ them—more’s the pity!
 
 ‘I know who you mean,’ says some dirty-faced patron of Mr.
 Osbaldistone’s, laying down the Miscellany when he has got thus far, and
-bestowing upon vacancy a most knowing glance; ‘you mean C. J. Smith as
-did Guy Fawkes, and George Barnwell at the Garden.’  The dirty-faced
+bestowing upon vacancy a most knowing glance; ‘you mean C. J. [[smith|Smith]] as
+did Guy Fawkes, and George Barnwell at the [[Garden]].’  The dirty-faced
 gentleman has hardly uttered the words, when he is interrupted by a young
 gentleman in no shirt-collar and a Petersham coat.  ‘No, no,’ says the
-young gentleman; ‘he means Brown, King, and Gibson, at the ’Delphi.’
+young gentleman; ‘he means Brown, [[King]], and Gibson, at the ’Delphi.’
 Now, with great deference both to the first-named gentleman with the
 dirty face, and the last-named gentleman in the non-existing
 shirt-collar, we do _not_ mean either the performer who so grotesquely
 burlesqued the Popish conspirator, or the three unchangeables who have
-been dancing the same dance under different imposing titles, and doing
+been dancing the same [[Dance|dance]] under different imposing titles, and doing
 the same thing under various high-sounding names for some five or six
 years last past.  We have no sooner made this avowal, than the public,
 who have hitherto been silent witnesses of the dispute, inquire what on
 earth it is we _do_ mean; and, with becoming respect, we proceed to tell
 them.
 
-It is very well known to all playgoers and pantomime-seers, that the
+It is very [[Well|well]] known to all playgoers and pantomime-seers, that the
 scenes in which a theatrical clown is at the very height of his glory are
 those which are described in the play-bills as ‘Cheesemonger’s shop and
 Crockery warehouse,’ or ‘Tailor’s shop, and Mrs. Queertable’s
-boarding-house,’ or places bearing some such title, where the great fun
-of the thing consists in the hero’s taking lodgings which he has not the
+boarding-[[house]],’ or places bearing some such title, where the great fun
+of the thing consists in the [[Hero|hero]]’s taking lodgings which he has not the
 slightest intention of paying for, or obtaining goods under false
 pretences, or abstracting the stock-in-trade of the respectable
 shopkeeper next door, or robbing warehouse porters as they pass under his
-window, or, to shorten the catalogue, in his swindling everybody he
+[[Window|window]], or, to shorten the catalogue, in his swindling everybody he
 possibly can, it only remaining to be observed that, the more extensive
 the swindling is, and the more barefaced the impudence of the swindler,
 the greater the rapture and ecstasy of the audience.  Now it is a most
 remarkable fact that precisely this sort of thing occurs in real life day
-after day, and nobody sees the humour of it.  Let us illustrate our
+after day, and nobody sees the [[Humour|humour]] of it.  Let us illustrate our
 position by detailing the plot of this portion of the pantomime—not of
 the theatre, but of life.
 
 The Honourable Captain Fitz-Whisker Fiercy, attended by his livery
 servant Do’em—a most respectable servant to look at, who has grown grey
 in the service of the captain’s family—views, treats for, and ultimately
-obtains possession of, the unfurnished house, such a number, such a
+obtains possession of, the unfurnished [[house]], such a number, such a
 street.  All the tradesmen in the neighbourhood are in agonies of
 competition for the captain’s custom; the captain is a good-natured,
 kind-hearted, easy man, and, to avoid being the cause of disappointment
 to any, he most handsomely gives orders to all.  Hampers of wine, baskets
 of provisions, cart-loads of furniture, boxes of jewellery, supplies of
-luxuries of the costliest description, flock to the house of the
+luxuries of the costliest description, flock to the [[house]] of the
 Honourable Captain Fitz-Whisker Fiercy, where they are received with the
 utmost readiness by the highly respectable Do’em; while the captain
 himself struts and swaggers about with that compound air of conscious
-superiority and general blood-thirstiness which a military captain should
+superiority and general [[Blood|blood]]-thirstiness which a military captain should
 always, and does most times, wear, to the admiration and terror of
 plebeian men.  But the tradesmen’s backs are no sooner turned, than the
 captain, with all the eccentricity of a mighty mind, and assisted by the
@@ -555,13 +555,13 @@ portion of a theatrical pantomime—Fitz-Whisker Fiercy by the clown; Do’em
 by the pantaloon; and supernumeraries by the tradesmen?  The best of the
 joke, too, is, that the very coal-merchant who is loudest in his
 complaints against the person who defrauded him, is the identical man who
-sat in the centre of the very front row of the pit last night and laughed
-the most boisterously at this very same thing,—and not so well done
+sat in the centre of the very front row of the pit last [[Night|night]] and laughed
+the most boisterously at this very same thing,—and not so [[Well|well]] done
 either.  Talk of Grimaldi, we say again!  Did Grimaldi, in his best days,
 ever do anything in this way equal to Da Costa?
 
 The mention of this latter justly celebrated clown reminds us of his last
-piece of humour, the fraudulently obtaining certain stamped acceptances
+piece of [[Humour|humour]], the fraudulently obtaining certain stamped acceptances
 from a young gentleman in the army.  We had scarcely laid down our pen to
 contemplate for a few moments this admirable actor’s performance of that
 exquisite practical joke, than a new branch of our subject flashed
@@ -591,7 +591,7 @@ never occurred to us before!
 We will frankly own that we have been much troubled with the harlequin.
 We see harlequins of so many kinds in the real living pantomime, that we
 hardly know which to select as the proper fellow of him of the theatres.
-At one time we were disposed to think that the harlequin was neither more
+At one [[Time|time]] we were disposed to think that the harlequin was neither more
 nor less than a young man of family and independent property, who had run
 away with an opera-dancer, and was fooling his life and his means away in
 light and trivial amusements.  On reflection, however, we remembered that
@@ -601,11 +601,11 @@ property, generally speaking, of any such misdemeanours.  On a more
 mature consideration of the subject, we have arrived at the conclusion
 that the harlequins of life are just ordinary men, to be found in no
 particular walk or degree, on whom a certain station, or particular
-conjunction of circumstances, confers the magic wand.  And this brings us
+conjunction of circumstances, confers the [[Magic|magic]] wand.  And this brings us
 to a few words on the pantomime of public and political life, which we
 shall say at once, and then conclude—merely premising in this place that
 we decline any reference whatever to the columbine, being in no wise
-satisfied of the nature of her connection with her parti-coloured lover,
+satisfied of the [[Nature|nature]] of her connection with her parti-coloured [[Lover|lover]],
 and not feeling by any means clear that we should be justified in
 introducing her to the virtuous and respectable ladies who peruse our
 lucubrations.
@@ -621,7 +621,7 @@ this speech is made, immediately after _the change_ too, the parallel is
 quite perfect, and still more singular.
 
 Perhaps the cast of our political pantomime never was richer than at this
-day.  We are particularly strong in clowns.  At no former time, we should
+day.  We are particularly strong in clowns.  At no former [[Time|time]], we should
 say, have we had such astonishing tumblers, or performers so ready to go
 through the whole of their feats for the amusement of an admiring throng.
 Their extreme readiness to exhibit, indeed, has given rise to some
@@ -629,23 +629,23 @@ ill-natured reflections; it having been objected that by exhibiting
 gratuitously through the country when the theatre is closed, they reduce
 themselves to the level of mountebanks, and thereby tend to degrade the
 respectability of the profession.  Certainly Grimaldi never did this sort
-of thing; and though Brown, King, and Gibson have gone to the Surrey in
-vacation time, and Mr. C. J. Smith has ruralised at Sadler’s Wells, we
+of thing; and though Brown, [[King]], and Gibson have gone to the Surrey in
+vacation [[Time|time]], and Mr. C. J. [[smith|Smith]] has ruralised at Sadler’s Wells, we
 find no theatrical precedent for a general tumbling through the country,
 except in the gentleman, name unknown, who threw summersets on behalf of
 the late Mr. Richardson, and who is no authority either, because he had
 never been on the regular boards.
 
 But, laying aside this question, which after all is a mere matter of
-taste, we may reflect with pride and gratification of heart on the
-proficiency of our clowns as exhibited in the season.  Night after night
-will they twist and tumble about, till two, three, and four o’clock in
+taste, we may reflect with [[Pride|pride]] and gratification of heart on the
+proficiency of our clowns as exhibited in the season.  [[Night]] after [[Night|night]]
+will they twist and tumble about, till two, three, and four o’[[Clock|clock]] in
 the morning; playing the strangest antics, and giving each other the
 funniest slaps on the face that can possibly be imagined, without
 evincing the smallest tokens of fatigue.  The strange noises, the
 confusion, the shouting and roaring, amid which all this is done, too,
 would put to shame the most turbulent sixpenny gallery that ever yelled
-through a boxing-night.
+through a boxing-[[Night|night]].
 
 It is especially curious to behold one of these clowns compelled to go
 through the most surprising contortions by the irresistible influence of
@@ -655,13 +655,13 @@ moving neither hand, foot, nor finger, and will even lose the faculty of
 speech at an instant’s notice; or on the other hand, he will become all
 life and animation if required, pouring forth a torrent of words without
 sense or meaning, throwing himself into the wildest and most fantastic
-contortions, and even grovelling on the earth and licking up the dust.
+contortions, and even grovelling on the earth and licking up the [[Dust|dust]].
 These exhibitions are more curious than pleasing; indeed, they are rather
 disgusting than otherwise, except to the admirers of such things, with
 whom we confess we have no fellow-feeling.
 
 Strange tricks—very strange tricks—are also performed by the harlequin
-who holds for the time being the magic wand which we have just mentioned.
+who holds for the [[Time|time]] being the [[Magic|magic]] wand which we have just mentioned.
 The mere waving it before a man’s eyes will dispossess his brains of all
 the notions previously stored there, and fill it with an entirely new set
 of ideas; one gentle tap on the back will alter the colour of a man’s
@@ -678,7 +678,7 @@ We might have extended this chapter to a much greater length—we might
 have carried the comparison into the liberal professions—we might have
 shown, as was in fact our original purpose, that each is in itself a
 little pantomime with scenes and characters of its own, complete; but, as
-we fear we have been quite lengthy enough already, we shall leave this
+we [[Fear|fear]] we have been quite lengthy enough already, we shall leave this
 chapter just where it is.  A gentleman, not altogether unknown as a
 dramatic poet, wrote thus a year or two ago—
 
@@ -693,18 +693,18 @@ in The Pantomime of Life.
 
 
 
-SOME PARTICULARS CONCERNING A LION
+SOME PARTICULARS CONCERNING A [[Lion|LION]]
 
 
 WE have a great respect for lions in the abstract.  In common with most
 other people, we have heard and read of many instances of their bravery
-and generosity.  We have duly admired that heroic self-denial and
+and generosity.  We have duly admired that heroic [[Self|self]]-denial and
 charming philanthropy which prompts them never to eat people except when
 they are hungry, and we have been deeply impressed with a becoming sense
 of the politeness they are said to display towards unmarried ladies of a
 certain state.  All natural histories teem with anecdotes illustrative of
 their excellent qualities; and one old spelling-book in particular
-recounts a touching instance of an old lion, of high moral dignity and
+recounts a touching instance of an old [[Lion|lion]], of high moral dignity and
 stern principle, who felt it his imperative duty to devour a young man
 who had contracted a habit of swearing, as a striking example to the
 rising generation.
@@ -714,17 +714,17 @@ great deal in favour of lions as a mass.  We are bound to state, however,
 that such individual lions as we have happened to fall in with have not
 put forth any very striking characteristics, and have not acted up to the
 chivalrous character assigned them by their chroniclers.  We never saw a
-lion in what is called his natural state, certainly; that is to say, we
-have never met a lion out walking in a forest, or crouching in his lair
+[[Lion|lion]] in what is called his natural state, certainly; that is to say, we
+have never met a [[Lion|lion]] out walking in a forest, or crouching in his lair
 under a tropical sun, waiting till his dinner should happen to come by,
 hot from the baker’s.  But we have seen some under the influence of
 captivity, and the pressure of misfortune; and we must say that they
 appeared to us very apathetic, heavy-headed fellows.
 
-The lion at the Zoological Gardens, for instance.  He is all very well;
+The [[Lion|lion]] at the Zoological Gardens, for instance.  He is all very [[Well|well]];
 he has an undeniable mane, and looks very fierce; but, Lord bless us!
 what of that?  The lions of the fashionable world look just as ferocious,
-and are the most harmless creatures breathing.  A box-lobby lion or a
+and are the most harmless creatures breathing.  A box-lobby [[Lion|lion]] or a
 Regent-street animal will put on a most terrible aspect, and roar,
 fearfully, if you affront him; but he will never bite, and, if you offer
 to attack him manfully, will fairly turn tail and sneak off.  Doubtless
@@ -732,12 +732,12 @@ these creatures roam about sometimes in herds, and, if they meet any
 especially meek-looking and peaceably-disposed fellow, will endeavour to
 frighten him; but the faintest show of a vigorous resistance is
 sufficient to scare them even then.  These are pleasant characteristics,
-whereas we make it matter of distinct charge against the Zoological lion
+whereas we make it matter of distinct charge against the Zoological [[Lion|lion]]
 and his brethren at the fairs, that they are sleepy, dreamy, sluggish
 quadrupeds.
 
 We do not remember to have ever seen one of them perfectly awake, except
-at feeding-time.  In every respect we uphold the biped lions against
+at feeding-[[Time|time]].  In every respect we uphold the biped lions against
 their four-footed namesakes, and we boldly challenge controversy upon the
 subject.
 
@@ -745,24 +745,24 @@ With these opinions it may be easily imagined that our curiosity and
 interest were very much excited the other day, when a lady of our
 acquaintance called on us and resolutely declined to accept our refusal
 of her invitation to an evening party; ‘for,’ said she, ‘I have got a
-lion coming.’  We at once retracted our plea of a prior engagement, and
+[[Lion|lion]] coming.’  We at once retracted our plea of a prior engagement, and
 became as anxious to go, as we had previously been to stay away.
 
 We went early, and posted ourselves in an eligible part of the
-drawing-room, from whence we could hope to obtain a full view of the
+drawing-room, from whence we could [[Hope|hope]] to obtain a full view of the
 interesting animal.  Two or three hours passed, the quadrilles began, the
-room filled; but no lion appeared.  The lady of the house became
+room filled; but no [[Lion|lion]] appeared.  The lady of the [[house]] became
 inconsolable,—for it is one of the peculiar privileges of these lions to
 make solemn appointments and never keep them,—when all of a sudden there
-came a tremendous double rap at the street-door, and the master of the
-house, after gliding out (unobserved as he flattered himself) to peep
+came a tremendous [[Double|double]] rap at the street-door, and the master of the
+[[house]], after gliding out (unobserved as he flattered himself) to peep
 over the banisters, came into the room, rubbing his hands together with
 great glee, and cried out in a very important voice, ‘My dear, Mr. —
-(naming the lion) has this moment arrived.’
+(naming the [[Lion|lion]]) has this moment arrived.’
 
 Upon this, all eyes were turned towards the door, and we observed several
 young ladies, who had been laughing and conversing previously with great
-gaiety and good humour, grow extremely quiet and sentimental; while some
+gaiety and good [[Humour|humour]], grow extremely quiet and sentimental; while some
 young gentlemen, who had been cutting great figures in the facetious and
 small-talk way, suddenly sank very obviously in the estimation of the
 company, and were looked upon with great coldness and indifference.  Even
@@ -770,17 +770,17 @@ the young man who had been ordered from the music shop to play the
 pianoforte was visibly affected, and struck several false notes in the
 excess of his excitement.
 
-All this time there was a great talking outside, more than once
+All this [[Time|time]] there was a great talking outside, more than once
 accompanied by a loud laugh, and a cry of ‘Oh! capital! excellent!’ from
-which we inferred that the lion was jocose, and that these exclamations
+which we inferred that the [[Lion|lion]] was jocose, and that these exclamations
 were occasioned by the transports of his keeper and our host.  Nor were
-we deceived; for when the lion at last appeared, we overheard his keeper,
+we deceived; for when the [[Lion|lion]] at last appeared, we overheard his keeper,
 who was a little prim man, whisper to several gentlemen of his
 acquaintance, with uplifted hands, and every expression of
-half-suppressed admiration, that—(naming the lion again) was in _such_
-cue to-night!
+half-suppressed admiration, that—(naming the [[Lion|lion]] again) was in _such_
+cue to-[[Night|night]]!
 
-The lion was a literary one.  Of course, there were a vast number of
+The [[Lion|lion]] was a literary one.  Of course, there were a vast number of
 people present who had admired his roarings, and were anxious to be
 introduced to him; and very pleasant it was to see them brought up for
 the purpose, and to observe the patient dignity with which he received
@@ -790,38 +790,38 @@ compelled to go through as many forms of courtesy as they chance to be
 acquainted with, just as often as admiring parties happen to drop in upon
 them.
 
-While the lion was exhibiting in this way, his keeper was not idle, for
+While the [[Lion|lion]] was exhibiting in this way, his keeper was not idle, for
 he mingled among the crowd, and spread his praises most industriously.
 To one gentleman he whispered some very choice thing that the noble
 animal had said in the very act of coming up-stairs, which, of course,
 rendered the mental effort still more astonishing; to another he murmured
 a hasty account of a grand dinner that had taken place the day before,
 where twenty-seven gentlemen had got up all at once to demand an extra
-cheer for the lion; and to the ladies he made sundry promises of
+cheer for the [[Lion|lion]]; and to the ladies he made sundry promises of
 interceding to procure the majestic brute’s sign-manual for their albums.
 Then, there were little private consultations in different corners,
-relative to the personal appearance and stature of the lion; whether he
+relative to the personal appearance and stature of the [[Lion|lion]]; whether he
 was shorter than they had expected to see him, or taller, or thinner, or
 fatter, or younger, or older; whether he was like his portrait, or unlike
 it; and whether the particular shade of his eyes was black, or blue, or
 hazel, or green, or yellow, or mixture.  At all these consultations the
-keeper assisted; and, in short, the lion was the sole and single subject
+keeper assisted; and, in short, the [[Lion|lion]] was the sole and single subject
 of discussion till they sat him down to whist, and then the people
 relapsed into their old topics of conversation—themselves and each other.
 
 We must confess that we looked forward with no slight impatience to the
-announcement of supper; for if you wish to see a tame lion under
-particularly favourable circumstances, feeding-time is the period of all
+announcement of supper; for if you wish to see a tame [[Lion|lion]] under
+particularly favourable circumstances, feeding-[[Time|time]] is the period of all
 others to pitch upon.  We were therefore very much delighted to observe a
-sensation among the guests, which we well knew how to interpret, and
-immediately afterwards to behold the lion escorting the lady of the house
+sensation among the guests, which we [[Well|well]] knew how to interpret, and
+immediately afterwards to behold the [[Lion|lion]] escorting the lady of the [[house]]
 down-stairs.  We offered our arm to an elderly female of our
-acquaintance, who—dear old soul!—is the very best person that ever lived,
+acquaintance, who—dear old [[Soul|soul]]!—is the very best person that ever lived,
 to lead down to any meal; for, be the room ever so small, or the party
 ever so large, she is sure, by some intuitive perception of the eligible,
 to push and pull herself and conductor close to the best dishes on the
 table;—we say we offered our arm to this elderly female, and, descending
-the stairs shortly after the lion, were fortunate enough to obtain a seat
+the stairs shortly after the [[Lion|lion]], were fortunate enough to obtain a seat
 nearly opposite him.
 
 Of course the keeper was there already.  He had planted himself at
@@ -829,31 +829,31 @@ precisely that distance from his charge which afforded him a decent
 pretext for raising his voice, when he addressed him, to so loud a key,
 as could not fail to attract the attention of the whole company, and
 immediately began to apply himself seriously to the task of bringing the
-lion out, and putting him through the whole of his manœuvres.  Such
-flashes of wit as he elicited from the lion!  First of all, they began to
+[[Lion|lion]] out, and putting him through the whole of his manœuvres.  Such
+flashes of wit as he elicited from the [[Lion|lion]]!  First of all, they began to
 make puns upon a salt-cellar, and then upon the breast of a fowl, and
 then upon the trifle; but the best jokes of all were decidedly on the
-lobster salad, upon which latter subject the lion came out most
+lobster salad, upon which latter subject the [[Lion|lion]] came out most
 vigorously, and, in the opinion of the most competent authorities, quite
 outshone himself.  This is a very excellent mode of shining in society,
 and is founded, we humbly conceive, upon the classic model of the
 dialogues between Mr. Punch and his friend the proprietor, wherein the
-latter takes all the up-hill work, and is content to pioneer to the jokes
+latter takes all the up-[[Hill|hill]] work, and is content to pioneer to the jokes
 and repartees of Mr. P. himself, who never fails to gain great credit and
 excite much laughter thereby.  Whatever it be founded on, however, we
 recommend it to all lions, present and to come; for in this instance it
-succeeded to admiration, and perfectly dazzled the whole body of hearers.
+succeeded to admiration, and perfectly dazzled the whole [[Body|body]] of hearers.
 
 When the salt-cellar, and the fowl’s breast, and the trifle, and the
 lobster salad were all exhausted, and could not afford standing-room for
 another solitary witticism, the keeper performed that very dangerous feat
 which is still done with some of the caravan lions, although in one
 instance it terminated fatally, of putting his head in the animal’s
-mouth, and placing himself entirely at its mercy.  Boswell frequently
-presents a melancholy instance of the lamentable results of this
+mouth, and placing himself entirely at its [[Mercy|mercy]].  Boswell frequently
+presents a [[Melancholy|melancholy]] instance of the lamentable results of this
 achievement, and other keepers and jackals have been terribly lacerated
-for their daring.  It is due to our lion to state, that he condescended
-to be trifled with, in the most gentle manner, and finally went home with
+for their daring.  It is due to our [[Lion|lion]] to state, that he condescended
+to be trifled with, in the most gentle manner, and finally went [[Home|home]] with
 the showman in a hack cab: perfectly peaceable, but slightly fuddled.
 
 Being in a contemplative mood, we were led to make some reflections upon
@@ -863,15 +863,15 @@ impression in their favour was very much strengthened and confirmed by
 what we had recently seen.  While the other lions receive company and
 compliments in a sullen, moody, not to say snarling manner, these appear
 flattered by the attentions that are paid them; while those conceal
-themselves to the utmost of their power from the vulgar gaze, these court
+themselves to the utmost of their power from the vulgar gaze, these [[Court|court]]
 the popular eye, and, unlike their brethren, whom nothing short of
 compulsion will move to exertion, are ever ready to display their
 acquirements to the wondering throng.  We have known bears of undoubted
 ability who, when the expectations of a large audience have been wound up
-to the utmost pitch, have peremptorily refused to dance; well-taught
+to the utmost pitch, have peremptorily refused to [[Dance|dance]]; [[Well|well]]-taught
 monkeys, who have unaccountably objected to exhibit on the slack wire;
 and elephants of unquestioned genius, who have suddenly declined to turn
-the barrel-organ; but we never once knew or heard of a biped lion,
+the barrel-organ; but we never once knew or heard of a biped [[Lion|lion]],
 literary or otherwise,—and we state it as a fact which is highly
 creditable to the whole species,—who, occasion offering, did not seize
 with avidity on any opportunity which was afforded him, of performing to

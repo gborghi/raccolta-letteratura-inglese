@@ -1,5 +1,5 @@
 ---
-title: "The Glass Walking Stick — A Plea For The Heroic Couplet"
+title: "The Glass Walking Stick — A Plea For The [[Heroic Couplet]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-A PLEA FOR THE HEROIC COUPLET
+A PLEA FOR THE [[Heroic Couplet|HEROIC COUPLET]]
 
-I SHOULD like to see a real poet write again in the heroic couplet of
+I SHOULD like to see a real poet write again in the [[Heroic Couplet|heroic couplet]] of
 the didactic eighteenth century.  Of course (it may be added) we should
 all like to see a real poet write anything, if he would only do it.
 But the couplet in question has been under-valued. We have got so used
@@ -24,7 +24,7 @@ to considering it didactic that we forget that it could be heroic.
 When the Romantics raised their revolt against the school of Pope,
 they were probably justified in abandoning it; but they were not justified
 in representing it as merely neat, still less as merely mechanical.
-It did lend itself to mere neatness, to the epigram with the sting
+It did lend itself to mere neatness, to the [[Epigram|epigram]] with the sting
 in the tail.  But it was not fair to imply that it was like a Limerick,
 a thing that could have nothing but a neat ending--a creature that was
 all tail.  It did lend itself to flippancy, as in lines like--
@@ -38,13 +38,13 @@ And so obliging that he ne'er obliged.
 But the notion that it had never done anything but this sort
 of thing is a fallacy left behind by a forgotten quarrel.
 Things were written in that restrained metre that have
-a real epic sublimity.  They are not the less imaginative
-because they left much to the imagination.  I use the word
-epic in the sense that an epic is a sort of gigantic gesture--
-as when the old French epic was called a Chanson de Geste.
+a real [[Epic|epic]] sublimity.  They are not the less imaginative
+because they left much to the [[Imagination|imagination]].  I use the word
+[[Epic|epic]] in the sense that an [[Epic|epic]] is a sort of gigantic gesture--
+as when the old French [[Epic|epic]] was called a Chanson de Geste.
 It is a deed rather than a word; its very words suggest
 something beyond them, like a blessing or a blow.
-Let anyone who can feel the wind and shadow of that mighty
+Let anyone who can feel the [[Wind|wind]] and [[Shadow|shadow]] of that mighty
 movement say whether he does not feel it unmistakably in certain
 moments of these great poets of the Age of Reason--
 
@@ -115,9 +115,9 @@ take it entirely for granted that the older critics were wrong.
 When we are told, `We heard the same old-fashioned outcry at the beginning
 of the Romantic movement,' we shall take the liberty of answering `Yes;
 and we have not yet seen the end of the Romantic movement.'
-If the Romantic movement ends in a mad-house, people will say there was
+If the Romantic movement ends in a mad-[[house]], people will say there was
 a great deal to be said for those old family physicians, the original
-classical critics.  To most of us, born in the intervening time, it would
+classical critics.  To most of us, born in the intervening [[Time|time]], it would
 normally seem natural to prefer the romantic to the rationalistic.
 We find it difficult to believe that `Hernani' must be a bad play if it
 violates the unities of time and place as observed in `Hecuba'. But
@@ -138,9 +138,9 @@ and a difference which cannot apparently be made clear to those who talk
 the cant of novelty.  They tell me that they are not to be browbeaten
 by the established tyrannies of the past.  I answer that neither
 am I to be browbeaten by the successful revolutions of the past.
-The innovator boasts that he is free to show how time has justified
-the rebel; but I hold my self equally free to speculate on how a little
-more time may justify the rebuke to the rebel.  Indeed, the rebuke
+The innovator boasts that he is free to show how [[Time|time]] has justified
+the [[Rebel|rebel]]; but I hold my [[Self|self]] equally free to speculate on how a little
+more [[Time|time]] may justify the rebuke to the [[Rebel|rebel]].  Indeed, the rebuke
 may be justified even when it is not just.  I should heartily agree
 that Keats was a very great man and that Gifford was a very small man.
 But I might claim the right to defend a small man in the right
@@ -151,10 +151,10 @@ hack with a personal spite, such as may exist in any age or any school.
 But if a classical critic said that Keats' early work contained elements
 capable of dissolving the dignity and severity of poetry, was he wrong?
 I fancy the admirers of Keats who say so are rather admirers of Keats
-than readers of Keats.  I doubt whether most of them have a habit
-of reading steadily through `Endymion'.
+than readers of Keats.  I [[Doubt|doubt]] whether most of them have a habit
+of reading steadily through `[[Endymion]]'.
 
-When we really welcome the next poet, I doubt whether he will be
+When we really welcome the next poet, I [[Doubt|doubt]] whether he will be
 at all like our notion of the new poet.  It may be questioned
 whether he will really cover the page with sprawling,
 irregular rhythms or leave it spotted with isolated words

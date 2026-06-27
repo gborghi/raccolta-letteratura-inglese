@@ -16,13 +16,13 @@ tags:
 
 XXX.  On the Great God Namse
 
-AT last I have found the essentials of the true Faith of the Future;
+AT last I have found the essentials of the true [[Faith]] of the Future;
 the creed which all thoughtful men can accept; the creed that suits itself
 to the best thought of the age; the religion that is purely spiritual,
 as Dr. Barnes would say, being purely in the spirit of the times;
 the religion that appeals to something deeper than creed and dogma;
 the religion for the plain man, for the practical man, and especially
-for the business man; the vital appreciation of values in which we
+for [[The Business Man|the business man]]; the vital appreciation of values in which we
 can all agree; the formula that will unite all the Churches,
 reconcile all the conflicting parties in the Church of England,
 and finally unite, after two hundred years of civil war,
@@ -31,7 +31,7 @@ Need I say that I allude to that vivid religion, the worship of Namse,
 the God of Wealth?
 
 A worship so modern, so rational, so much in touch with the whole spirit
-of the time, cannot be long in extending its full and formal establishment
+of the [[Time|time]], cannot be long in extending its full and formal establishment
 from Tibet to Tooting.  I say its full and formal establishment,
 because it is obvious that the deeper, quieter, more truly spiritual
 influence of the god has long been prevalent in Tooting and elsewhere.
@@ -81,19 +81,19 @@ and when they worship the God of Wealth they say so.
 They do not serve God and Mammon, but serve Mammon as God;
 and at least get something out of it in the way of glitter and colour
 and painting the town red and gold.  They do not have to endure
-the worship of wealth, and then have to endure refinement as well.
+the worship of wealth, and then have to endure refinement as [[Well|well]].
 
-How much more melancholy is the condition of those, in modernized
+How much more [[Melancholy|melancholy]] is the condition of those, in modernized
 and rationalized Western communities, who have to go about conducting
 secretly the cult of the Great God Namse!  How much more uncomfortable
-it is to call on Namse morning, noon, and night, and yet never be
+it is to call on Namse morning, [[Noon|noon]], and [[Night|night]], and yet never be
 allowed to call him by his name!  How miserable is our condition
-in industrial Europe and America, who dare not call on Namse as Namse,
+in industrial Europe and [[America]], who dare not call on Namse as Namse,
 but have to call him National Welfare, or International Peace,
 or the British Empire or the New Republic, or Progress, or Humanity,
 or some ghastly thing!  Instead of the simple and heartfelt cry
 for More Money, which might come sincerely from so many of our hearts,
-there must be a mystification and a secret language, and the giving
+there must be a [[Mystification|mystification]] and a secret language, and the giving
 to the god of every other title except his own golden name.
 Yet even this particular Asiatic name might perhaps be useful
 to persons in this delicate position.  The mask must be transparent
@@ -105,7 +105,7 @@ Suppose a Member of Parliament asks as a supplementary question,
 a peerage on Mr. Bunk, formerly known as the Vanishing Book maker?'
 It would be healthy, but all too heroic, if the Cabinet Minister rose
 and said simply, `I did it for Money.'  But nobody could complain
-of unparliamentary language if he rose and said with great gravity,
+of unparliamentary language if he [[Rose|rose]] and said with great gravity,
 `I did it for Namse.'  It would never do, if, when the orator asks
 the rhetorical question, `What is it that drives our best and boldest
 Empire-builders forth to establish order in the ends of the earth,
@@ -120,5 +120,5 @@ sound a little crude, perhaps, to tell them to devote themselves
 entirely to raking in the shekels or getting hold of the dibs.
 Considering the strange way in which Christian traditions still
 linger about even in this enlightened age, it might often be safer
-to say that our reason and conscience required us to worship Namse,
+to say that our reason and [[Conscience|conscience]] required us to worship Namse,
 rather than that they required us to worship Mammon.

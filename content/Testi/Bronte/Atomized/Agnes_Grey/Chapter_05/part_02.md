@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 5 (part 2)"
+title: "[[Agnes Grey]] — Chapter 5 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -18,13 +18,13 @@ tags:
 
 “Humph!” replied he, and having honoured me with a broad stare—which,
 contrary to his expectations, I sustained without flinching—he turned
-away with an air of supreme contempt, and stalked into the house. Tom
+away with an air of supreme contempt, and stalked into the [[house]]. Tom
 next went to tell his mamma. It was not her way to say much on any
 subject; but, when she next saw me, her aspect and demeanour were
 doubly dark and chilled. After some casual remark about the weather,
 she observed—“I am sorry, Miss Grey, you should think it necessary to
 interfere with Master Bloomfield’s amusements; he was very much
-distressed about your destroying the birds.”
+distressed about your destroying the [[Birds|birds]].”
 
 “When Master Bloomfield’s amusements consist in injuring sentient
 creatures,” I answered, “I think it my duty to interfere.”
@@ -32,32 +32,32 @@ creatures,” I answered, “I think it my duty to interfere.”
 “You seemed to have forgotten,” said she, calmly, “that the creatures
 were all created for our convenience.”
 
-I thought that doctrine admitted some doubt, but merely replied—“If
+I thought that doctrine admitted some [[Doubt|doubt]], but merely replied—“If
 they were, we have no right to torment them for our amusement.”
 
-“I think,” said she, “a child’s amusement is scarcely to be weighed
+“I think,” said she, “a [[Child|child]]’s amusement is scarcely to be weighed
 against the welfare of a soulless brute.”
 
-“But, for the child’s own sake, it ought not to be encouraged to have
+“But, for the [[Child|child]]’s own sake, it ought not to be encouraged to have
 such amusements,” answered I, as meekly as I could, to make up for such
 unusual pertinacity. “‘Blessed are the merciful, for they shall obtain
-mercy.’”
+[[Mercy|mercy]].’”
 
 “Oh! of course; but that refers to our conduct towards each other.”
 
-“‘The merciful man shows mercy to his beast,’” I ventured to add.
+“‘The merciful man shows [[Mercy|mercy]] to his beast,’” I ventured to add.
 
-“I think _you_ have not shown much mercy,” replied she, with a short,
-bitter laugh; “killing the poor birds by wholesale in that shocking
+“I think _you_ have not shown much [[Mercy|mercy]],” replied she, with a short,
+bitter laugh; “killing the poor [[Birds|birds]] by wholesale in that shocking
 manner, and putting the dear boy to such misery for a mere whim.”
 
 I judged it prudent to say no more. This was the nearest approach to a
-quarrel I ever had with Mrs. Bloomfield; as well as the greatest number
-of words I ever exchanged with her at one time, since the day of my
+quarrel I ever had with Mrs. Bloomfield; as [[Well|well]] as the greatest number
+of words I ever exchanged with her at one [[Time|time]], since the day of my
 first arrival.
 
 But Mr. Robson and old Mrs. Bloomfield were not the only guests whose
-coming to Wellwood House annoyed me; every visitor disturbed me more or
+coming to Wellwood [[house|House]] annoyed me; every visitor disturbed me more or
 less; not so much because they neglected me (though I did feel their
 conduct strange and disagreeable in that respect), as because I found
 it impossible to keep my pupils away from them, as I was repeatedly
@@ -82,7 +82,7 @@ I dared to use, I tried to deter them from tormenting the guests; and
 by reproaching their unmannerly conduct, to make them ashamed to repeat
 it. But they knew no shame; they scorned authority which had no terrors
 to back it; and as for kindness and affection, either they had no
-hearts, or such as they had were so strongly guarded, and so well
+hearts, or such as they had were so strongly guarded, and so [[Well|well]]
 concealed, that I, with all my efforts, had not yet discovered how to
 reach them.
 
@@ -92,7 +92,7 @@ I was rejoicing in the near approach of the holidays, and
 congratulating myself upon having made some progress with my pupils (as
 far as their learning went, at least, for I _had_ instilled _something_
 into their heads, and I had, at length, brought them to be a little—a
-very little—more rational about getting their lessons done in time to
+very little—more rational about getting their lessons done in [[Time|time]] to
 leave some space for recreation, instead of tormenting themselves and
 me all day long to no purpose), Mrs. Bloomfield sent for me, and calmly
 told me that after Midsummer my services would be no longer required.
@@ -107,24 +107,24 @@ care on my part.
 
 Unshaken firmness, devoted diligence, unwearied perseverance, unceasing
 care, were the very qualifications on which I had secretly prided
-myself; and by which I had hoped in time to overcome all difficulties,
-and obtain success at last. I wished to say something in my own
+myself; and by which I had hoped in [[Time|time]] to overcome all difficulties,
+and obtain [[success]] at last. I wished to say something in my own
 justification; but in attempting to speak, I felt my voice falter; and
-rather than testify any emotion, or suffer the tears to overflow that
-were already gathering in my eyes, I chose to keep silence, and bear
-all like a self-convicted culprit.
+rather than testify any emotion, or suffer the [[Tears|tears]] to overflow that
+were already gathering in my eyes, I chose to keep [[Silence|silence]], and bear
+all like a [[Self|self]]-convicted culprit.
 
-Thus was I dismissed, and thus I sought my home. Alas! what would they
+Thus was I dismissed, and thus I sought my [[Home|home]]. Alas! what would they
 think of me? unable, after all my boasting, to keep my place, even for
 a single year, as governess to three small children, whose mother was
 asserted by my own aunt to be a “very nice woman.” Having been thus
-weighed in the balance and found wanting, I need not hope they would be
+weighed in the balance and found wanting, I need not [[Hope|hope]] they would be
 willing to try me again. And this was an unwelcome thought; for vexed,
 harassed, disappointed as I had been, and greatly as I had learned to
-love and value my home, I was not yet weary of adventure, nor willing
+[[Love|love]] and value my [[Home|home]], I was not yet weary of adventure, nor willing
 to relax my efforts. I knew that all parents were not like Mr. and Mrs.
 Bloomfield, and I was certain all children were not like theirs. The
 next family must be different, and any change must be for the better. I
 had been seasoned by adversity, and tutored by experience, and I longed
-to redeem my lost honour in the eyes of those whose opinion was more
+to redeem my lost [[Honour|honour]] in the eyes of those whose opinion was more
 than that of all the world to me.

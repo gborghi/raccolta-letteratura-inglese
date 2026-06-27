@@ -1,5 +1,5 @@
 ---
-title: "Othello — Act I, Scene 3 — exchange (OTHELLO) [3]"
+title: "[[Othello]] — Act I, Scene 3 — exchange ([[Othello|OTHELLO]]) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/OTHELLO-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| OTHELLO | Ensign, conduct them. You best know the place. Exit Iago with two or three officers And till she come, as truly as to heaven I do confess the vices of my blood, So justly to your grave ears I’ll present How I did thrive in this fair lady’s love And she in mine. |
-| DUKE | Say it, Othello. |
+| [[Othello|OTHELLO]] | Ensign, conduct them. You best know the place. Exit [[Iago]] with two or three officers And till she come, as truly as to heaven I do confess the vices of my [[Blood|blood]], So justly to your [[Grave|grave]] ears I’ll present How I did thrive in this fair lady’s [[Love|love]] And she in mine. |
+| DUKE | Say it, [[Othello]]. |

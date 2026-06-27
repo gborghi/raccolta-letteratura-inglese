@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Desert Island"
+title: "ball and [[Cross|cross]] — The [[Desert]] Island"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-XII.  THE DESERT ISLAND
+XII.  THE [[Desert|DESERT]] ISLAND
 
-Those who happen to hold the view (and Mr. Evan MacIan, now alive
-and comfortable, is among the number) that something supernatural,
+Those who happen to hold the view (and Mr. [[Evan MacIan]], now alive
+and comfortable, is among the number) that something [[Supernatural|supernatural]],
 some eccentric kindness from god or fairy had guided our adventurers
 through all their absurd perils, might have found his strongest argument
 perhaps in their management or mismanagement of Mr. Wilkinson's yacht.
@@ -31,11 +31,11 @@ either a boat, a rock, a quicksand, or a man-of-war. Apart from this
 negative description, their voyage would be difficult to describe.
 It took at least a fortnight, and MacIan, who was certainly the shrewder
 sailor of the two, realized that they were sailing west into
-the Atlantic and were probably by this time past the Scilly Isles.
+the Atlantic and were probably by this [[Time|time]] past the Scilly Isles.
 How much farther they stood out into the western sea it was
 impossible to conjecture.  But they felt certain, at least,
 that they were far enough into that awful gulf between us and
-America to make it unlikely that they would soon see land again.
+[[America]] to make it unlikely that they would soon see land again.
 It was therefore with legitimate excitement that one rainy morning
 after daybreak they saw that distinct shape of a solitary island
 standing up against the encircling strip of silver which ran round
@@ -64,7 +64,7 @@ except shoals of shellfish lying so thick as almost to make it
 look like one of those toy grottos that the children make.
 In one place, however, the coast offered a soft, smooth bay of sand,
 and even the rudimentary ingenuity of the two amateur mariners
-managed to run up the little ship with her prow well on shore
+managed to run up the little [[Ship|ship]] with her prow [[Well|well]] on shore
 and her bowsprit pointing upward, as in a sort of idiotic triumph.
 
 They tumbled on shore and began to unload the vessel, setting the stores
@@ -87,7 +87,7 @@ rather bare and the survivor----"
 for potted prawns."
 
 MacIan looked down at the rows of tins and bottles, and the cloud
-of doubt still lowered upon his face.
+of [[Doubt|doubt]] still lowered upon his face.
 
 "You will permit me two liberties, my dear sir," said Turnbull at last:
 "The first is to break open this box and light one of Mr. Wilkinson's
@@ -97,7 +97,7 @@ to convulse the already complex finances of this island by betting
 a penny that I know them."
 
 "What on earth are you talking about?" asked MacIan, listlessly,
-in the manner of an inattentive child.
+in the manner of an inattentive [[Child|child]].
 
 "I know what you are really thinking, MacIan," repeated Turnbull,
 laughing.  "I know what I am thinking, anyhow.  And I rather fancy
@@ -118,12 +118,12 @@ said Turnbull; "and that would be to die feasting like heroes."
 "You see, we are on an almost unknown rock, lost in the Atlantic.
 The police will never catch us; but then neither may the public
 ever hear of us; and that was one of the things we wanted."
-Then, after a pause, he said, drawing in the sand with his sword-point:
+Then, after a pause, he said, drawing in the sand with his [[Sword|sword]]-point:
 "She may never hear of it at all."
 
-"Well?" inquired the other, puffing at his cigar.
+"[[Well]]?" inquired the other, puffing at his cigar.
 
-"Well," said MacIan, "we might occupy a day or two in drawing up
+"[[Well]]," said MacIan, "we might occupy a day or two in drawing up
 a thorough and complete statement of what we did and why we did it,
 and all about both our points of view.  Then we could leave one copy
 on the island whatever happens to us and put another in an empty
@@ -133,13 +133,13 @@ bottle and send it out to sea, as they do in the books."
 
 As MacIan, a tall, almost ghostly figure, paced along the edge of sand
 that ran round the islet, the purple but cloudy poetry which was
-his native element was piled up at its thickest upon his soul.
+his native element was piled up at its thickest upon his [[Soul|soul]].
 The unique island and the endless sea emphasized the thing solely
-as an epic.  There were no ladies or policemen here to give him
-a hint either of its farce or its tragedy.
+as an [[Epic|epic]].  There were no ladies or policemen here to give him
+a hint either of its farce or its [[Tragedy|tragedy]].
 
-"Perhaps when the morning stars were made," he said to himself,
-"God built this island up from the bottom of the world to be a tower
+"Perhaps when the morning [[Stars|stars]] were made," he said to himself,
+"God built this island up from the [[Bottom|bottom]] of the world to be a tower
 and a theatre for the fight between yea and nay."
 
 Then he wandered up to the highest level of the rock, where there
@@ -147,8 +147,8 @@ was a roof or plateau of level stone.  Half an hour afterwards,
 Turnbull found him clearing away the loose sand from this table-land
 and making it smooth and even.
 
-"We will fight up here, Turnbull," said MacIan, "when the time comes.
-And till the time comes this place shall be sacred."
+"We will fight up here, Turnbull," said MacIan, "when the [[Time|time]] comes.
+And till the [[Time|time]] comes this place shall be sacred."
 
 "I thought of having lunch up here," said Turnbull, who had a bottle
 of champagne in his hand.
@@ -156,31 +156,31 @@ of champagne in his hand.
 "No, no--not up here," said MacIan, and came down from the height
 quite hastily.  Before he descended, however, he fixed the two
 swords upright, one at each end of the platform, as if they were
-human sentinels to guard it under the stars.
+human sentinels to guard it under the [[Stars|stars]].
 
 Then they came down and lunched plentifully in a nest of loose rocks.
-In the same place that night they supped more plentifully still.
+In the same place that [[Night|night]] they supped more plentifully still.
 The smoke of Mr. Wilkinson's cigars went up ceaseless and strong smelling,
 like a pagan sacrifice; the golden glories of Mr. Wilkinson's champagne
-rose to their heads and poured out of them in fancies and philosophies.
+[[Rose|rose]] to their heads and poured out of them in fancies and philosophies.
 And occasionally they would look up at the starlight and the rock
-and see the space guarded by the two cross-hilted swords,
-which looked like two black crosses at either end of a grave.
+and see the space guarded by the two [[Cross|cross]]-hilted swords,
+which looked like two black crosses at either end of a [[Grave|grave]].
 
 In this primitive and Homeric truce the week passed by;
 it consisted almost entirely of eating, drinking, smoking, talking,
 and occasionally singing.  They wrote their records and cast loose
 their bottle.  They never ascended to the ominous plateau; they had
 never stood there save for that single embarrassed minute when they
-had had no time to take stock of the seascape or the shape of the land.
+had had no [[Time|time]] to take stock of the seascape or the shape of the land.
 They did not even explore the island; for MacIan was partly
-concerned in prayer and Turnbull entirely concerned with tobacco;
+concerned in [[Prayer|prayer]] and Turnbull entirely concerned with tobacco;
 and both these forms of inspiration can be enjoyed by the secluded
 and even the sedentary.  It was on a golden afternoon, the sun sinking
-over the sea, rayed like the very head of Apollo, when Turnbull
+over the sea, rayed like the very head of [[Apollo]], when Turnbull
 tossed off the last half-pint from the emptied Wilkinsonian bottle,
 hurled the bottle into the sea with objectless energy, and went
-up to where his sword stood waiting for him on the hill.
+up to where his [[Sword|sword]] stood waiting for him on the [[Hill|hill]].
 MacIan was already standing heavily by his with bent head and eyes
 reading the ground.  He had not even troubled to throw a glance round
 the island or the horizon.  But Turnbull being of a more active
@@ -198,29 +198,29 @@ as the neck of the sea serpent, ran out into the sea and joined
 their rock to a line of low, billowing, and glistening sand-hills,
 which the sinking sea had just bared to the sun.  Whether they
 were firm sand or quicksand it was difficult to guess; but there
-was at least no doubt that they lay on the edge of some larger land;
+was at least no [[Doubt|doubt]] that they lay on the edge of some larger land;
 for colourless hills appeared faintly behind them and no sea could
 be seen beyond.
 
-"Sakes alive!" cried Turnbull, with rolling eyes; "this ain't an island
-in the Atlantic.  We've butted the bally continent of America."
+"Sakes alive!" cried Turnbull, with [[rolling]] eyes; "this ain't an island
+in the Atlantic.  We've butted the bally continent of [[America]]."
 
 MacIan turned his head, and his face, already pale, grew a shade paler.
-He was by this time walking in a world of omens and hieroglyphics,
+He was by this [[Time|time]] walking in a world of omens and hieroglyphics,
 and he could not read anything but what was baffling or menacing
 in this brown gigantic arm of the earth stretched out into the sea
 to seize him.
 
 "MacIan," said Turnbull, in his temperate way, "whatever our
 eternal interrupted tête-à-têtes have taught us or not taught us,
-at least we need not fear the charge of fear.  If it is essential
+at least we need not [[Fear|fear]] the charge of [[Fear|fear]].  If it is essential
 to your emotions, I will cheerfully finish the fight here and now;
 but I must confess that if you kill me here I shall die with my curiosity
 highly excited and unsatisfied upon a minor point of geography."
 
 "I do not want to stop now," said the other, in his elephantine
 simplicity, "but we must stop for a moment, because it is a sign--
-perhaps it is a miracle.  We must see what is at the end of the road
+perhaps it is a miracle.  We must see what is at the end of the [[Road|road]]
 of sand; it may be a bridge built across the gulf by God."
 
 "So long as you gratify my query," said Turnbull, laughing and letting
@@ -232,7 +232,7 @@ the sandy isthmus with the plodding resolution of men who seemed
 almost to have made up their minds to be wanderers on the face
 of the earth.  Despite Turnbull's air of scientific eagerness,
 he was really the less impatient of the two; and the Highlander
-went on well ahead of him with passionate strides.  By the time
+went on [[Well|well]] ahead of him with passionate strides.  By the [[Time|time]]
 they had walked for about half an hour in the ups and downs
 of those dreary sands, the distance between the two had lengthened
 and MacIan was only a tall figure silhouetted for an instant upon
@@ -245,8 +245,8 @@ that in his subconsciousness he expected an alligator.
 
 The first sign of life that he did see, however, was something
 more extraordinary than the largest alligator.  It was nothing less
-than the notorious Mr. Evan MacIan coming bounding back across
-the sand-heaps breathless, without his cap and keeping the sword
+than the notorious Mr. [[Evan MacIan]] coming bounding back across
+the sand-heaps breathless, without his cap and keeping the [[Sword|sword]]
 in his hand only by a habit now quite hardened.
 
 "Take care, Turnbull," he cried out from a good distance as he ran,
@@ -260,11 +260,11 @@ A black man."
 
 "Why, where did you see him?" asked the staring editor.
 
-"Over there--behind that hill," said the gasping MacIan.
+"Over there--behind that [[Hill|hill]]," said the gasping MacIan.
 "He put up his black head and grinned at me."
 
 Turnbull thrust his hands through his red hair like one who gives
-up the world as a bad riddle.  "Lord love a duck," said he,
+up the world as a bad [[Riddle|riddle]].  "Lord [[Love|love]] a duck," said he,
 "can it be Jamaica?"
 
 Then glancing at his companion with a small frown, as of one
@@ -276,9 +276,9 @@ Do you mind waiting here while I go and see for myself?"
 "you will find it as I say."
 
 Turnbull ran off ahead with a rapidity now far greater than
-his rival's, and soon vanished over the disputed sand-hill. Then
+his rival's, and soon vanished over the disputed sand-[[Hill|hill]]. Then
 five minutes passed, and then seven minutes; and MacIan bit
-his lip and swung his sword, and the other did not reappear.
+his lip and swung his [[Sword|sword]], and the other did not reappear.
 Finally, with a Gaelic oath, Evan started forward to the rescue,
 and almost at the same moment the small figure of the missing man
 appeared on the ridge against the sky.
@@ -289,10 +289,10 @@ It looked as if he were wounded; or, still more, as if he were ill.
 He wavered as he came down the slope and seemed flinging himself
 into peculiar postures.  But it was only when he came within
 three feet of MacIan's face, that that observer of mankind fully
-realized that Mr. James Turnbull was roaring with laughter.
+realized that Mr. [[James Turnbull]] was roaring with laughter.
 
 "You are quit right," sobbed that wholly demoralized journalist.
-"He's black, oh, there's no doubt the black's all right--
+"He's black, oh, there's no [[Doubt|doubt]] the black's all right--
 as far as it goes."  And he went off again into convulsions
 of his humorous ailment.
 
@@ -304,11 +304,11 @@ barbarian Chief.  I saw the Emperor of Ethiopia--oh, I saw him all right.
 The nigger's hands and face are a lovely colour--and the nigger----"
 And he was overtaken once more.
 
-"Well, well, well," said Evan, stamping each monosyllable on the sand,
+"[[Well]], [[Well|well]], [[Well|well]]," said Evan, stamping each monosyllable on the sand,
 "what about the nigger?"
 
-"Well, the truth is," said Turnbull, suddenly and startlingly,
-becoming quite grave and precise, "the truth is, the nigger is
+"[[Well]], the [[Truth|truth]] is," said Turnbull, suddenly and startlingly,
+becoming quite [[Grave|grave]] and precise, "the [[Truth|truth]] is, the nigger is
 a Margate nigger, and we are now on the edge of the Isle of Thanet,
 a few miles from Margate."
 
@@ -317,7 +317,7 @@ Then he had a momentary return of his hysteria and said:
 cruise in Wilkinson's yacht."
 
 MacIan had no smile in answer, but his eager lips opened as if parched
-for the truth.  "You mean to say," he began----
+for the [[Truth|truth]].  "You mean to say," he began----
 
 "Yes, I mean to say," said Turnbull, "and I mean to say something
 funnier still.  I have learnt everything I wanted to know from
@@ -326,12 +326,12 @@ in his war-paint to meet a friend in a quiet pub along the coast--
 the noble savage has told me all about it.  The bottle containing
 our declaration, doctrines, and dying sentiments was washed up
 on Margate beach yesterday in the presence of one alderman,
-two bathing-machine men, three policemen, seven doctors, and a hundred
-and thirteen London clerks on a holiday, to all of whom, whether directly
+two bathing-[[Machine|machine]] men, three policemen, seven doctors, and a hundred
+and thirteen [[London]] clerks on a holiday, to all of whom, whether directly
 or indirectly, our composition gave enormous literary pleasure.
 Buck up, old man, this story of ours is a switchback.
-I have begun to understand the pulse and the time of it;
-now we are up in a cathedral and then we are down in a theatre,
+I have begun to understand the pulse and the [[Time|time]] of it;
+now we are up in a [[Cathedral|cathedral]] and then we are down in a theatre,
 where they only play farces.  Come, I am quite reconciled--
 let us enjoy the farce."
 
@@ -341,5 +341,5 @@ This is not to be borne!"
 
 MacIan followed his eye along the sand-hills. He saw what looked
 like the momentary and waving figure of the nigger minstrel, and then
-he saw a heavy running policeman take the turn of the sand-hill
+he saw a heavy running policeman take the turn of the sand-[[Hill|hill]]
 with the smooth solemnity of a railway train.

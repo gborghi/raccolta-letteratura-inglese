@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Salad of Colonel Cray"
+title: "[[wifrb11]] — The Salad of Colonel Cray"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -17,32 +17,32 @@ tags:
                        The Salad of Colonel Cray
 
 
-FATHER BROWN was walking home from Mass on a white weird morning
+[[Father Brown|FATHER BROWN]] was walking [[Home|home]] from Mass on a white weird morning
 when the mists were slowly lifting--one of those mornings when
 the very element of light appears as something mysterious and new. 
 The scattered trees outlined themselves more and more out of the vapour,
-as if they were first drawn in grey chalk and then in charcoal. 
+as if they were first drawn in grey [[chalk]] and then in charcoal. 
 At yet more distant intervals appeared the houses upon the broken fringe
 of the suburb; their outlines became clearer and clearer until
 he recognized many in which he had chance acquaintances, and many more
 the names of whose owners he knew.  But all the windows and doors
 were sealed; none of the people were of the sort that would be up
-at such a time, or still less on such an errand.  But as he passed under
-the shadow of one handsome villa with verandas and wide ornate gardens,
+at such a [[Time|time]], or still less on such an errand.  But as he passed under
+the [[Shadow|shadow]] of one handsome villa with verandas and wide ornate gardens,
 he heard a noise that made him almost involuntarily stop. 
-It was the unmistakable noise of a pistol or carbine or some
+It was the unmistakable noise of a [[Pistol|pistol]] or carbine or some
 light firearm discharged; but it was not this that puzzled him most. 
 The first full noise was immediately followed by a series of fainter noises--
 as he counted them, about six.  He supposed it must be the echo;
 but the odd thing was that the echo was not in the least like
 the original sound.  It was not like anything else that he could think of;
 the three things nearest to it seemed to be the noise made by
-siphons of soda-water, one of the many noises made by an animal,
+siphons of soda-[[Water|water]], one of the many noises made by an animal,
 and the noise made by a person attempting to conceal laughter. 
 None of which seemed to make much sense.
 
-     Father Brown was made of two men.  There was a man of action,
-who was as modest as a primrose and as punctual as a clock;
+     [[Father Brown]] was made of two men.  There was a man of action,
+who was as modest as a primrose and as punctual as a [[Clock|clock]];
 who went his small round of duties and never dreamed of altering it. 
 There was also a man of reflection, who was much simpler but much stronger,
 who could not easily be stopped; whose thought was always (in the only
@@ -56,32 +56,32 @@ to resume his trudge in the twilight, telling himself it was no affair
 of his, but instinctively twisting and untwisting twenty theories
 about what the odd noises might mean.  Then the grey sky-line
 brightened into silver, and in the broadening light he realized
-that he had been to the house which belonged to an Anglo-Indian Major
+that he had been to the [[house]] which belonged to an Anglo-Indian Major
 named Putnam; and that the Major had a native cook from Malta who was
-of his communion.  He also began to remember that pistol-shots
+of his communion.  He also began to remember that [[Pistol|pistol]]-shots
 are sometimes serious things; accompanied with consequences with which
 he was legitimately concerned.  He turned back and went in
-at the garden gate, making for the front door.
+at the [[Garden|garden]] gate, making for the front door.
 
-     Half-way down one side of the house stood out a projection
+     Half-way down one side of the [[house]] stood out a projection
 like a very low shed; it was, as he afterwards discovered,
 a large dustbin.  Round the corner of this came a figure,
-at first a mere shadow in the haze, apparently bending and peering about. 
+at first a mere [[Shadow|shadow]] in the haze, apparently bending and peering about. 
 Then, coming nearer, it solidified into a figure that was, indeed,
 rather unusually solid.  Major Putnam was a bald-headed, bull-necked man,
 short and very broad, with one of those rather apoplectic faces
 that are produced by a prolonged attempt to combine the oriental climate
 with the occidental luxuries.  But the face was a good-humoured one,
 and even now, though evidently puzzled and inquisitive, wore a kind of
-innocent grin.  He had a large palm-leaf hat on the back of his head
+[[Innocent|innocent]] grin.  He had a large palm-leaf hat on the back of his head
 (suggesting a halo that was by no means appropriate to the face),
 but otherwise he was clad only in a very vivid suit of striped scarlet
 and yellow pyjamas; which, though glowing enough to behold, must have been,
 on a fresh morning, pretty chilly to wear.  He had evidently
-come out of his house in a hurry, and the priest was not surprised
+come out of his [[house]] in a hurry, and the priest was not surprised
 when he called out without further ceremony:  "Did you hear that noise?"
 
-     "Yes," answered Father Brown; "I thought I had better look in,
+     "Yes," answered [[Father Brown]]; "I thought I had better look in,
 in case anything was the matter."
 
      The Major looked at him rather queerly with his good-humoured
@@ -93,24 +93,24 @@ with some hesitation; "but it seemed to have a singular sort of echo."
      The Major was still looking at him quietly, but with protruding eyes,
 when the front door was flung open, releasing a flood of gaslight
 on the face of the fading mist; and another figure in pyjamas sprang
-or tumbled out into the garden.  The figure was much longer, leaner,
+or tumbled out into the [[Garden|garden]].  The figure was much longer, leaner,
 and more athletic; the pyjamas, though equally tropical, were
 comparatively tasteful, being of white with a light lemon-yellow stripe. 
 The man was haggard, but handsome, more sunburned than the other;
 he had an aquiline profile and rather deep-sunken eyes, and a slight air
 of oddity arising from the combination of coal-black hair with
-a much lighter moustache.  All this Father Brown absorbed in detail
+a much lighter moustache.  All this [[Father Brown]] absorbed in detail
 more at leisure.  For the moment he only saw one thing about the man;
 which was the revolver in his hand.
 
-     "Cray!" exclaimed the Major, staring at him; "did you fire that shot?"
+     "Cray!" exclaimed the Major, staring at him; "did you [[Fire|fire]] that shot?"
 
      "Yes, I did," retorted the black-haired gentleman hotly;
 "and so would you in my place.  If you were chased everywhere
 by devils and nearly--"
 
      The Major seemed to intervene rather hurriedly.  "This is my friend
-Father Brown," he said.  And then to Brown:  "I don't know whether
+[[Father Brown]]," he said.  And then to Brown:  "I don't know whether
 you've met Colonel Cray of the Royal Artillery."
 
      "I have heard of him, of course," said the priest innocently. 
@@ -124,52 +124,52 @@ or cry out, or anything?"
      Colonel Cray was regarding his host with a strange and steady stare. 
 "I'll tell you exactly what he did," he said.  "He sneezed."
 
-     Father Brown's hand went half-way to his head, with the gesture
+     [[Father Brown]]'s hand went half-way to his head, with the gesture
 of a man remembering somebody's name.  He knew now what it was
-that was neither soda-water nor the snorting of a dog.
+that was neither soda-[[Water|water]] nor the snorting of a dog.
 
-     "Well," ejaculated the staring Major, "I never heard before
+     "[[Well]]," ejaculated the staring Major, "I never heard before
 that a service revolver was a thing to be sneezed at."
 
-     "Nor I," said Father Brown faintly.  "It's lucky you didn't
+     "Nor I," said [[Father Brown]] faintly.  "It's lucky you didn't
 turn your artillery on him or you might have given him quite a bad cold." 
 Then, after a bewildered pause, he said:  "Was it a burglar?"
 
      "Let us go inside," said Major Putnam, rather sharply,
-and led the way into his house.
+and led the way into his [[house]].
 
-     The interior exhibited a paradox often to be marked in such
+     The interior exhibited a [[Paradox|paradox]] often to be marked in such
 morning hours:  that the rooms seemed brighter than the sky outside;
 even after the Major had turned out the one gaslight in the front hall. 
-Father Brown was surprised to see the whole dining-table set out
+[[Father Brown]] was surprised to see the whole dining-table set out
 as for a festive meal, with napkins in their rings, and wine-glasses
 of some six unnecessary shapes set beside every plate.  It was common enough,
-at that time of the morning, to find the remains of a banquet over-night;
+at that [[Time|time]] of the morning, to find the remains of a banquet over-[[Night|night]];
 but to find it freshly spread so early was unusual.
 
      While he stood wavering in the hall Major Putnam rushed past him
 and sent a raging eye over the whole oblong of the tablecloth. 
 At last he spoke, spluttering:  "All the silver gone!" he gasped. 
 "Fish-knives and forks gone.  Old cruet-stand gone.  Even the old silver
-cream-jug gone.  And now, Father Brown, I am ready to answer your question
+cream-jug gone.  And now, [[Father Brown]], I am ready to answer your question
 of whether it was a burglar."
 
      "They're simply a blind," said Cray stubbornly.  "I know better
-than you why people persecute this house; I know better than you why--"
+than you why people persecute this [[house]]; I know better than you why--"
 
      The Major patted him on the shoulder with a gesture almost peculiar
-to the soothing of a sick child, and said:  "It was a burglar. 
+to the soothing of a sick [[Child|child]], and said:  "It was a burglar. 
 Obviously it was a burglar."
 
-     "A burglar with a bad cold," observed Father Brown, "that might
+     "A burglar with a bad cold," observed [[Father Brown]], "that might
 assist you to trace him in the neighbourhood."
 
      The Major shook his head in a sombre manner.  "He must be far beyond
-trace now, I fear," he said.
+trace now, I [[Fear|fear]]," he said.
 
      Then, as the restless man with the revolver turned again towards
-the door in the garden, he added in a husky, confidential voice: 
-"I doubt whether I should send for the police, for fear my friend here
+the door in the [[Garden|garden]], he added in a husky, confidential voice: 
+"I [[Doubt|doubt]] whether I should send for the police, for [[Fear|fear]] my friend here
 has been a little too free with his bullets, and got on the wrong side
 of the law.  He's lived in very wild places; and, to be frank with you,
 I think he sometimes fancies things."
@@ -177,26 +177,26 @@ I think he sometimes fancies things."
      "I think you once told me," said Brown, "that he believes some
 Indian secret society is pursuing him."
 
-     Major Putnam nodded, but at the same time shrugged his shoulders. 
+     Major Putnam nodded, but at the same [[Time|time]] shrugged his shoulders. 
 "I suppose we'd better follow him outside," he said.  "I don't want
 any more--shall we say, sneezing?"
 
      They passed out into the morning light, which was now even tinged
-with sunshine, and saw Colonel Cray's tall figure bent almost double,
+with sunshine, and saw Colonel Cray's tall figure bent almost [[Double|double]],
 minutely examining the condition of gravel and grass.  While the Major
 strolled unobtrusively towards him, the priest took an equally
-indolent turn, which took him round the next corner of the house
+indolent turn, which took him round the next corner of the [[house]]
 to within a yard or two of the projecting dustbin.
 
      He stood regarding this dismal object for some minute and a half--,
 then he stepped towards it, lifted the lid and put his head inside. 
-Dust and other discolouring matter shook upwards as he did so;
-but Father Brown never observed his own appearance, whatever else
+[[Dust]] and other discolouring matter shook upwards as he did so;
+but [[Father Brown]] never observed his own appearance, whatever else
 he observed.  He remained thus for a measurable period, as if engaged
 in some mysterious prayers.  Then he came out again, with some ashes
 on his hair, and walked unconcernedly away.
 
-     By the time he came round to the garden door again he found
+     By the [[Time|time]] he came round to the [[Garden|garden]] door again he found
 a group there which seemed to roll away morbidities as the sunlight
 had already rolled away the mists.  It was in no way rationally reassuring;
 it was simply broadly comic, like a cluster of Dickens's characters. 
@@ -205,23 +205,23 @@ trousers, with a crimson cummerbund, and a light square jacket over all;
 thus normally set off, his red festive face seemed bursting with
 a commonplace cordiality.  He was indeed emphatic, but then he was talking
 to his cook--the swarthy son of Malta, whose lean, yellow and rather
-careworn face contrasted quaintly with his snow-white cap and costume. 
-The cook might well be careworn, for cookery was the Major's hobby. 
+careworn face contrasted quaintly with his [[Snow|snow]]-white cap and costume. 
+The cook might [[Well|well]] be careworn, for cookery was the Major's hobby. 
 He was one of those amateurs who always know more than the professional. 
 The only other person he even admitted to be a judge of an omelette
 was his friend Cray--and as Brown remembered this, he turned to look
 for the other officer.  In the new presence of daylight and people clothed
 and in their right mind, the sight of him was rather a shock. 
-The taller and more elegant man was still in his night-garb,
-with tousled black hair, and now crawling about the garden on his hands
+The taller and more elegant man was still in his [[Night|night]]-garb,
+with tousled black hair, and now crawling about the [[Garden|garden]] on his hands
 and knees, still looking for traces of the burglar; and now and again,
 to all appearance, striking the ground with his hand in anger at not
 finding him.  Seeing him thus quadrupedal in the grass, the priest
-raised his eyebrows rather sadly; and for the first time guessed that
+raised his eyebrows rather sadly; and for the first [[Time|time]] guessed that
 "fancies things" might be an euphemism.
 
      The third item in the group of the cook and the epicure was also
-known to Father Brown; it was Audrey Watson, the Major's ward
+known to [[Father Brown]]; it was Audrey Watson, the Major's ward
 and housekeeper; and at this moment, to judge by her apron,
 tucked-up sleeves and resolute manner, much more the housekeeper
 than the ward.
@@ -232,51 +232,51 @@ not to have that old-fashioned cruet-stand."
      "I prefer it," said Putnam, placably.  "I'm old-fashioned myself;
 and the things keep together."
 
-     "And vanish together, as you see," she retorted.  "Well, if you are
+     "And vanish together, as you see," she retorted.  "[[Well]], if you are
 not going to bother about the burglar, I shouldn't bother about the lunch. 
-It's Sunday, and we can't send for vinegar and all that in the town;
+It's [[Sunday]], and we can't send for vinegar and all that in the town;
 and you Indian gentlemen can't enjoy what you call a dinner without
 a lot of hot things.  I wish to goodness now you hadn't asked
-Cousin Oliver to take me to the musical service.  It isn't over
+Cousin [[Oliver]] to take me to the musical service.  It isn't over
 till half-past twelve, and the Colonel has to leave by then. 
-I don't believe you men can manage alone."
+I don't believe you men can manage [[Alone|alone]]."
 
      "Oh yes, we can, my dear," said the Major, looking at her
 very amiably.  "Marco has all the sauces, and we've often
-done ourselves well in very rough places, as you might know by now. 
-And it's time you had a treat, Audrey; you mustn't be a housekeeper
+done ourselves [[Well|well]] in very rough places, as you might know by now. 
+And it's [[Time|time]] you had a treat, Audrey; you mustn't be a housekeeper
 every hour of the day; and I know you want to hear the music."
 
      "I want to go to church," she said, with rather severe eyes.
 
      She was one of those handsome women who will always be handsome,
-because the beauty is not in an air or a tint, but in the very structure
+because the [[Beauty|beauty]] is not in an air or a tint, but in the very structure
 of the head and features.  But though she was not yet middle-aged
 and her auburn hair was of a Titianesque fullness in form and colour,
 there was a look in her mouth and around her eyes which suggested that
 some sorrows wasted her, as winds waste at last the edges of a Greek temple. 
 For indeed the little domestic difficulty of which she was now speaking
-so decisively was rather comic than tragic.  Father Brown gathered,
+so decisively was rather comic than tragic.  [[Father Brown]] gathered,
 from the course of the conversation, that Cray, the other gourmet,
-had to leave before the usual lunch-time; but that Putnam, his host,
+had to leave before the usual lunch-[[Time|time]]; but that Putnam, his host,
 not to be done out of a final feast with an old crony, had arranged
 for a special dejeuner to be set out and consumed in the course of
 the morning, while Audrey and other graver persons were at morning service. 
 She was going there under the escort of a relative and old friend of hers,
-Dr Oliver Oman, who, though a scientific man of a somewhat bitter type,
+Dr [[Oliver]] Oman, who, though a scientific man of a somewhat bitter type,
 was enthusiastic for music, and would go even to church to get it. 
 There was nothing in all this that could conceivably concern
-the tragedy in Miss Watson's face; and by a half conscious instinct,
-Father Brown turned again to the seeming lunatic grubbing about
+the [[Tragedy|tragedy]] in Miss Watson's face; and by a half conscious instinct,
+[[Father Brown]] turned again to the seeming lunatic grubbing about
 in the grass.
 
      When he strolled across to him, the black, unbrushed head was
 lifted abruptly, as if in some surprise at his continued presence. 
-And indeed, Father Brown, for reasons best known to himself,
+And indeed, [[Father Brown]], for reasons best known to himself,
 had lingered much longer than politeness required; or even,
 in the ordinary sense, permitted.
 
-     "Well!" cried Cray, with wild eyes.  "I suppose you think I'm mad,
+     "[[Well]]!" cried Cray, with wild eyes.  "I suppose you think I'm mad,
 like the rest?"
 
      "I have considered the thesis," answered the little man, composedly. 
@@ -284,7 +284,7 @@ like the rest?"
 
      "What do you mean?" snapped Cray quite savagely.
 
-     "Real madmen," explained Father Brown, "always encourage their
+     "Real madmen," explained [[Father Brown]], "always encourage their
 own morbidity.  They never strive against it.  But you are trying
 to find traces of the burglar; even when there aren't any. 
 You are struggling against it.  You want what no madman ever wants."
@@ -300,21 +300,21 @@ that the fellow was only after the silver--as if I shouldn't be
 only too pleased to think so!  She's been at me," and he tossed his tousled
 black head towards Audrey, but the other had no need of the direction,
 "she's been at me today about how cruel I was to shoot a poor harmless
-house-breaker, and how I have the devil in me against poor harmless natives. 
+[[house]]-breaker, and how I have the devil in me against poor harmless natives. 
 But I was a good-natured man once--as good-natured as Putnam."
 
      After a pause he said:  "Look here, I've never seen you before;
 but you shall judge of the whole story.  Old Putnam and I were friends
 in the same mess; but, owing to some accidents on the Afghan border,
 I got my command much sooner than most men; only we were both
-invalided home for a bit.  I was engaged to Audrey out there;
-and we all travelled back together.  But on the journey back
+invalided [[Home|home]] for a bit.  I was engaged to Audrey out there;
+and we all travelled back together.  But on the [[Journey|journey]] back
 things happened.  Curious things.  The result of them was
 that Putnam wants it broken off, and even Audrey keeps it hanging on--
 and I know what they mean.  I know what they think I am.  So do you.
 
-     "Well, these are the facts.  The last day we were in
-an Indian city I asked Putnam if I could get some Trichinopoli cigars,
+     "[[Well]], these are the facts.  The last day we were in
+an Indian [[City|city]] I asked Putnam if I could get some Trichinopoli cigars,
 he directed me to a little place opposite his lodgings. 
 I have since found he was quite right; but `opposite' is a dangerous word
 when one decent house stands opposite five or six squalid ones;
@@ -358,19 +358,19 @@ which I had struggled, automatically unlock itself:  and then,
 far down the dark passages I had passed, I heard the heavy street-door
 shifting its own bolts backwards.
 
-     "`It is vain to ask for mercy; you must go free,' said
-the smiling man.  `Henceforth a hair shall slay you like a sword,
+     "`It is vain to ask for [[Mercy|mercy]]; you must go free,' said
+the smiling man.  `Henceforth a hair shall slay you like a [[Sword|sword]],
 and a breath shall bite you like an adder; weapons shall come
 against you out of nowhere; and you shall die many times.'
 And with that he was swallowed once more in the wall behind;
 and I went out into the street."
 
-     Cray paused; and Father Brown unaffectedly sat down on the lawn
+     Cray paused; and [[Father Brown]] unaffectedly sat down on the lawn
 and began to pick daisies.
 
      Then the soldier continued:  "Putnam, of course, with his
-jolly common sense, pooh-poohed all my fears; and from that time
-dates his doubt of my mental balance.  Well, I'll simply tell you,
+jolly common sense, pooh-poohed all my fears; and from that [[Time|time]]
+dates his [[Doubt|doubt]] of my mental balance.  [[Well]], I'll simply tell you,
 in the fewest words, the three things that have happened since;
 and you shall judge which of us is right.
 
@@ -380,40 +380,40 @@ and customs where the curse had been put on me.  I woke in black midnight,
 and lay thinking of nothing in particular, when I felt a faint
 tickling thing, like a thread or a hair, trailed across my throat. 
 I shrank back out of its way, and could not help thinking of the words
-in the temple.  But when I got up and sought lights and a mirror,
-the line across my neck was a line of blood.
+in the temple.  But when I got up and sought lights and a [[Mirror|mirror]],
+the line across my neck was a line of [[Blood|blood]].
 
      "The second happened in a lodging in Port Said, later,
-on our journey home together.  It was a jumble of tavern
+on our [[Journey|journey]] [[Home|home]] together.  It was a jumble of tavern
 and curiosity-shop; and though there was nothing there remotely suggesting
 the cult of the Monkey, it is, of course, possible that some of its
 images or talismans were in such a place.  Its curse was there, anyhow. 
 I woke again in the dark with a sensation that could not be put
 in colder or more literal words than that a breath bit like an adder. 
 Existence was an agony of extinction; I dashed my head against walls
-until I dashed it against a window; and fell rather than jumped
-into the garden below.  Putnam, poor fellow, who had called the other thing
+until I dashed it against a [[Window|window]]; and fell rather than jumped
+into the [[Garden|garden]] below.  Putnam, poor fellow, who had called the other thing
 a chance scratch, was bound to take seriously the fact of finding me
-half insensible on the grass at dawn.  But I fear it was my mental state
+half insensible on the grass at [[Dawn|dawn]].  But I [[Fear|fear]] it was my mental state
 he took seriously; and not my story.
 
      "The third happened in Malta.  We were in a fortress there;
 and as it happened our bedrooms overlooked the open sea, which almost
-came up to our window-sills, save for a flat white outer wall
+came up to our [[Window|window]]-sills, save for a flat white outer wall
 as bare as the sea.  I woke up again; but it was not dark. 
-There was a full moon, as I walked to the window; I could have seen a bird
+There was a full [[Moon|moon]], as I walked to the [[Window|window]]; I could have seen a bird
 on the bare battlement, or a sail on the horizon.  What I did see
-was a sort of stick or branch circling, self-supported, in the empty sky. 
-It flew straight in at my window and smashed the lamp beside the pillow
+was a sort of stick or branch circling, [[Self|self]]-supported, in the empty sky. 
+It flew straight in at my [[Window|window]] and smashed the lamp beside the pillow
 I had just quitted.  It was one of those queer-shaped war-clubs
 some Eastern tribes use.  But it had come from no human hand."
 
-     Father Brown threw away a daisy-chain he was making,
-and rose with a wistful look.  "Has Major Putnam," he asked,
+     [[Father Brown]] threw away a daisy-chain he was making,
+and [[Rose|rose]] with a wistful look.  "Has Major Putnam," he asked,
 "got any Eastern curios, idols, weapons and so on, from which
 one might get a hint?"
 
-     "Plenty of those, though not much use, I fear," replied Cray;
+     "Plenty of those, though not much use, I [[Fear|fear]]," replied Cray;
 "but by all means come into his study."
 
      As they entered they passed Miss Watson buttoning her gloves for church,
@@ -426,14 +426,14 @@ rather guiltily, and turned.
      Cray introduced him civilly enough, as Dr Oman, but he showed
 such disfavour in his very face that Brown guessed the two men,
 whether Audrey knew it or not, were rivals.  Nor was the priest
-wholly unsympathetic with the prejudice.  Dr Oman was a very well-dressed
-gentleman indeed; well-featured, though almost dark enough for an Asiatic. 
-But Father Brown had to tell himself sharply that one should be in charity
+wholly unsympathetic with the prejudice.  Dr Oman was a very [[Well|well]]-dressed
+gentleman indeed; [[Well|well]]-featured, though almost dark enough for an Asiatic. 
+But [[Father Brown]] had to tell himself sharply that one should be in [[Charity|charity]]
 even with those who wax their pointed beards, who have small gloved hands,
 and who speak with perfectly modulated voices.
 
      Cray seemed to find something specially irritating in
-the small prayer-book in Oman's dark-gloved hand.  "I didn't know
+the small [[prayer]]-book in Oman's dark-gloved hand.  "I didn't know
 that was in your line," he said rather rudely.
 
      Oman laughed mildly, but without offence.  "This is more so, I know,"
@@ -449,25 +449,25 @@ again the faintest touch of hurry and embarrassment.
 and has been in Mexico and Australia, and the Cannibal Islands
 for all I know."
 
-     "I hope it was not in the Cannibal Islands," said Brown,
+     "I [[Hope|hope]] it was not in the Cannibal Islands," said Brown,
 "that he learnt the art of cookery." And he ran his eyes over
 the stew-pots or other strange utensils on the wall.
 
      At this moment the jolly subject of their conversation
 thrust his laughing, lobsterish face into the room.  "Come along, Cray,"
-he cried.  "Your lunch is just coming in.  And the bells are ringing
+he cried.  "Your lunch is just coming in.  And [[The Bells|the bells]] are ringing
 for those who want to go to church."
 
      Cray slipped upstairs to change; Dr Oman and Miss Watson betook
 themselves solemnly down the street, with a string of other churchgoers;
-but Father Brown noticed that the doctor twice looked back
-and scrutinized the house; and even came back to the corner of the street
+but [[Father Brown]] noticed that the doctor twice looked back
+and scrutinized the [[house]]; and even came back to the corner of the street
 to look at it again.
 
      The priest looked puzzled.  "He can't have been at the dustbin,"
 he muttered.  "Not in those clothes.  Or was he there earlier today?"
 
-     Father Brown, touching other people, was as sensitive as a barometer;
+     [[Father Brown]], touching other people, was as sensitive as a barometer;
 but today he seemed about as sensitive as a rhinoceros.  By no social law,
 rigid or implied, could he be supposed to linger round the lunch
 of the Anglo-Indian friends; but he lingered, covering his position
@@ -477,7 +477,7 @@ As one after another of the most exquisitely balanced kedgerees of curries,
 accompanied with their appropriate vintages, were laid before
 the other two, he only repeated that it was one of his fast-days,
 and munched a piece of bread and sipped and then left untasted
-a tumbler of cold water.  His talk, however, was exuberant.
+a tumbler of cold [[Water|water]].  His talk, however, was exuberant.
 
      "I'll tell you what I'll do for you," he cried--, "I'll mix you
 a salad!  I can't eat it, but I'll mix it like an angel! 
@@ -494,7 +494,7 @@ about with me.  I'm so fond of salads."
      And to the amazement of the two men he took a pepper-pot out of
 his waistcoat pocket and put it on the table.
 
-     "I wonder why the burglar wanted mustard, too," he went on,
+     "I [[Wonder|wonder]] why the burglar wanted mustard, too," he went on,
 taking a mustard-pot from another pocket.  "A mustard plaster,
 I suppose.  And vinegar"--and producing that condiment--
 "haven't I heard something about vinegar and brown paper?
@@ -509,21 +509,21 @@ quite recover himself Cray had cloven in.
 and hear your sermons, if they're as amusing as your manners." 
 His voice changed a little, and he leaned back in his chair.
 
-     "Oh, there are sermons in a cruet-stand, too," said Father Brown,
-quite gravely.  "Have you heard of faith like a grain of mustard-seed;
-or charity that anoints with oil?  And as for vinegar, can any soldiers
+     "Oh, there are sermons in a cruet-stand, too," said [[Father Brown]],
+quite gravely.  "Have you heard of [[Faith|faith]] like a grain of mustard-seed;
+or [[Charity|charity]] that anoints with oil?  And as for vinegar, can any soldiers
 forget that solitary soldier, who, when the sun was darkened--"
 
      Colonel Cray leaned forward a little and clutched the tablecloth.
 
-     Father Brown, who was making the salad, tipped two spoonfuls
-of the mustard into the tumbler of water beside him; stood up and said
+     [[Father Brown]], who was making the salad, tipped two spoonfuls
+of the mustard into the tumbler of [[Water|water]] beside him; stood up and said
 in a new, loud and sudden voice--"Drink that!"
 
-     At the same moment the motionless doctor in the garden came running,
-and bursting open a window cried:  "Am I wanted?  Has he been poisoned?"
+     At the same moment the motionless doctor in the [[Garden|garden]] came running,
+and bursting open a [[Window|window]] cried:  "Am I wanted?  Has he been poisoned?"
 
-     "Pretty near," said Brown, with the shadow of a smile; for
+     "Pretty near," said Brown, with the [[Shadow|shadow]] of a smile; for
 the emetic had very suddenly taken effect.  And Cray lay in a deck-chair,
 gasping as for life, but alive.
 
@@ -531,49 +531,49 @@ gasping as for life, but alive.
 he cried hoarsely.  "I will go for the police!"
 
      The priest could hear him dragging down his palm-leaf hat from the peg
-and tumbling out of the front door; he heard the garden gate slam. 
-But he only stood looking at Cray; and after a silence said quietly:
+and tumbling out of the front door; he heard the [[Garden|garden]] gate slam. 
+But he only stood looking at Cray; and after a [[Silence|silence]] said quietly:
 
      "I shall not talk to you much; but I will tell you what
 you want to know.  There is no curse on you.  The Temple of the Monkey
 was either a coincidence or a part of the trick; the trick was
-the trick of a white man.  There is only one weapon that will bring blood
+the trick of a white man.  There is only one weapon that will bring [[Blood|blood]]
 with that mere feathery touch:  a razor held by a white man. 
 There is one way of making a common room full of invisible,
-overpowering poison:  turning on the gas--the crime of a white man. 
-And there is only one kind of club that can be thrown out of a window,
-turn in mid-air and come back to the window next to it: 
+overpowering [[Poison|poison]]:  turning on the gas--the crime of a white man. 
+And there is only one kind of club that can be thrown out of a [[Window|window]],
+turn in mid-air and come back to the [[Window|window]] next to it: 
 the Australian boomerang.  You'll see some of them in the Major's study."
 
      With that he went outside and spoke for a moment to the doctor. 
-The moment after, Audrey Watson came rushing into the house and
+The moment after, Audrey Watson came rushing into the [[house]] and
 fell on her knees beside Cray's chair.  He could not hear what they said
 to each other; but their faces moved with amazement, not unhappiness. 
-The doctor and the priest walked slowly towards the garden gate.
+The doctor and the priest walked slowly towards the [[Garden|garden]] gate.
 
-     "I suppose the Major was in love with her, too," he said with a sigh;
+     "I suppose the Major was in [[Love|love]] with her, too," he said with a sigh;
 and when the other nodded, observed:  "You were very generous, doctor. 
 You did a fine thing.  But what made you suspect?"
 
      "A very small thing," said Oman; "but it kept me restless in church
-till I came back to see that all was well.  That book on his table
+till I came back to see that all was [[Well|well]].  That book on his table
 was a work on poisons; and was put down open at the place where it stated
-that a certain Indian poison, though deadly and difficult to trace,
+that a certain Indian [[Poison|poison]], though deadly and difficult to trace,
 was particularly easily reversible by the use of the commonest emetics. 
 I suppose he read that at the last moment--"
 
      "And remembered that there were emetics in the cruet-stand,"
-said Father Brown.  "Exactly.  He threw the cruet in the dustbin--
+said [[Father Brown]].  "Exactly.  He threw the cruet in the dustbin--
 where I found it, along with other silver--for the sake of
 a burglary blind.  But if you look at that pepper-pot I put on the table,
 you'll see a small hole.  That's where Cray's bullet struck,
 shaking up the pepper and making the criminal sneeze."
 
-     There was a silence.  Then Dr Oman said grimly:  "The Major is
-a long time looking for the police."
+     There was a [[Silence|silence]].  Then Dr Oman said grimly:  "The Major is
+a long [[Time|time]] looking for the police."
 
      "Or the police in looking for the Major?" said the priest. 
-"Well, good-bye."
+"[[Well]], good-bye."
 
 
 

@@ -24,7 +24,7 @@ When he mentioned him, he spoke of him casually as his old pensioner. He
 had a wonderful satisfaction in seeing him, and in commenting on his
 decayed condition after he was gone. It appeared to him amazing that he
 could hold up his head at all, poor creature. ‘In the Workhouse, sir,
-the Union; no privacy, no visitors, no station, no respect, no
+the [[Union]]; no privacy, no visitors, no station, no respect, no
 speciality. Most deplorable!’
 
 It was Old Nandy’s birthday, and they let him out. He said nothing about
@@ -38,14 +38,14 @@ to see how they all were.
 And such voice he’s in!’
 
 Little Dorrit gave him her hand, and smilingly said she had not seen him
-this long time.
+this long [[Time|time]].
 
 ‘No, they’re rather hard on poor Father,’ said Mrs Plornish with a
 lengthening face, ‘and don’t let him have half as much change and fresh
-air as would benefit him. But he’ll soon be home for good, now. Won’t
+air as would benefit him. But he’ll soon be [[Home|home]] for good, now. Won’t
 you, Father?’
 
-‘Yes, my dear, I hope so. In good time, please God.’
+‘Yes, my dear, I [[Hope|hope]] so. In good [[Time|time]], please God.’
 
 Here Mr Plornish delivered himself of an oration which he invariably
 made, word for word the same, on all such opportunities. It was couched
@@ -53,7 +53,7 @@ in the following terms:
 
 ‘John Edward Nandy. Sir. While there’s a ounce of wittles or drink of
 any sort in this present roof, you’re fully welcome to your share on
-it. While there’s a handful of fire or a mouthful of bed in this present
+it. While there’s a handful of [[Fire|fire]] or a mouthful of bed in this present
 roof, you’re fully welcome to your share on it. If so be as there should
 be nothing in this present roof, you should be as welcome to your share
 on it as if it was something, much or little. And this is what I mean
@@ -61,10 +61,10 @@ and so I don’t deceive you, and consequently which is to stand out is to
 entreat of you, and therefore why not do it?’
 
 To this lucid address, which Mr Plornish always delivered as if he had
-composed it (as no doubt he had) with enormous labour, Mrs Plornish’s
+composed it (as no [[Doubt|doubt]] he had) with enormous labour, Mrs Plornish’s
 father pipingly replied:
 
-‘I thank you kindly, Thomas, and I know your intentions well, which is
+‘I thank you kindly, Thomas, and I know your intentions [[Well|well]], which is
 the same I thank you kindly for. But no, Thomas. Until such times as
 it’s not to take it out of your children’s mouths, which take it is, and
 call it by what name you will it do remain and equally deprive, though
@@ -72,10 +72,10 @@ may they come, and too soon they can not come, no Thomas, no!’
 
 Mrs Plornish, who had been turning her face a little away with a corner
 of her apron in her hand, brought herself back to the conversation again
-by telling Miss Dorrit that Father was going over the water to pay his
+by telling Miss Dorrit that Father was going over the [[Water|water]] to pay his
 respects, unless she knew of any reason why it might not be agreeable.
 
-Her answer was, ‘I am going straight home, and if he will come with me
+Her answer was, ‘I am going straight [[Home|home]], and if he will come with me
 I shall be so glad to take care of him--so glad,’ said Little Dorrit,
 always thoughtful of the feelings of the weak, ‘of his company.’
 
@@ -85,14 +85,14 @@ neck-handkerchief into a regular good bow, for you’re a regular beau
 yourself, Father, if ever there was one.’
 
 With this filial joke his daughter smartened him up, and gave him a
-loving hug, and stood at the door with her weak child in her arms, and
-her strong child tumbling down the steps, looking after her little old
+loving hug, and stood at the door with her weak [[Child|child]] in her arms, and
+her strong [[Child|child]] tumbling down the steps, looking after her little old
 father as he toddled away with his arm under Little Dorrit’s.
 
 They walked at a slow pace, and Little Dorrit took him by the Iron
 Bridge and sat him down there for a rest, and they looked over at the
-water and talked about the shipping, and the old man mentioned what he
-would do if he had a ship full of gold coming home to him (his plan was
+[[Water|water]] and talked about the shipping, and the old man mentioned what he
+would do if he had a [[Ship|ship]] full of gold coming [[Home|home]] to him (his plan was
 to take a noble lodging for the Plornishes and himself at a Tea Gardens,
 and live there all the rest of their lives, attended on by the waiter),
 and it was a special birthday of the old man. They were within five
@@ -104,7 +104,7 @@ mean it!’
 
 ‘Mean what, Fanny dear?’
 
-‘Well! I could have believed a great deal of you,’ returned the young
+‘[[Well]]! I could have believed a great deal of you,’ returned the young
 lady with burning indignation, ‘but I don’t think even I could have
 believed this, of even you!’
 
@@ -133,8 +133,8 @@ unmolested.’
 
 With this, she bounced across to the opposite pavement. The old
 disgrace, who had been deferentially bowing a pace or two off (for
-Little Dorrit had let his arm go in her wonder, when Fanny began), and
+Little Dorrit had let his arm go in her [[Wonder|wonder]], when Fanny began), and
 who had been hustled and cursed by impatient passengers for stopping the
-way, rejoined his companion, rather giddy, and said, ‘I hope nothing’s
-wrong with your honoured father, Miss? I hope there’s nothing the matter
+way, rejoined his companion, rather giddy, and said, ‘I [[Hope|hope]] nothing’s
+wrong with your honoured father, Miss? I [[Hope|hope]] there’s nothing the matter
 in the honoured family?’

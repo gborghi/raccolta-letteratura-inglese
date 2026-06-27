@@ -1,5 +1,5 @@
 ---
-title: "Common Man — The Outline Of Liberty"
+title: "[[Common Man]] — The Outline Of Liberty"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Common-Man-(Chesterton)"
@@ -16,17 +16,17 @@ tags:
 
 THE OUTLINE OF LIBERTY
 
-There is a quality needed today for the spread of all truth,
-and especially religious truth, which is very simple and vivid,
+There is a quality needed today for the spread of all [[Truth|truth]],
+and especially religious [[Truth|truth]], which is very simple and vivid,
 but which I find it very difficult to fit with a word.
 So many words have become catchwords.
 
 I suppose that our critics, in their learned way, would have recourse
-to the little-known Greek word paradox, if I were simply to say
+to the little-known Greek word [[Paradox|paradox]], if I were simply to say
 that they are not quite broad-minded enough to be Catholics.
 In their own jargon, being broad-minded so often means being blank-minded.
 
-If I were to say that they suffer from a lack of imagination,
+If I were to say that they suffer from a lack of [[Imagination|imagination]],
 they might suppose (heaven help them) that I meant that what we
 believe is all imaginary.  Nor indeed do either of these two terms
 define the definite thing I intend.  It would be nearer the mark
@@ -45,7 +45,7 @@ close to Cork, may lean back for a moment and suddenly see Ireland.
 It is much more difficult to get such men to lean back for a moment
 and see Christendom.
 
-The Catholic Church is always being defined in terms of the particular
+The [[Catholic Church]] is always being defined in terms of the particular
 quarrel that she happens to have with particular people in a
 particular place.  Because the Protestant sects in Northern Europe,
 for one or two centuries, disapproved of rosaries and incense
@@ -59,7 +59,7 @@ Buddhists have incense; Moslems have something very like rosaries;
 and hardly any healthy heathen human being on earth could conceive
 why anybody should have any particular hatred of candles.
 Buddhists would say that Catholics were people who insisted
-on a personal God and personal immortality.  Moslems would say
+on a personal God and personal [[Immortality|immortality]].  Moslems would say
 that Catholics were people who believed that God had a Son
 who assumed human form, and who did not think it idolatrous
 that He should afterwards assume pictorial or sculptural form.
@@ -76,16 +76,16 @@ against the sea.
 
 Now the real background of all that human heathenry is rather a
 grey background.  There are particular patches, which happen to be close
-to us in place and time, which have been freshly painted in various ways.
+to us in place and [[Time|time]], which have been freshly painted in various ways.
 So freshly painted that nobody knows yet how long the colours
 will last.  As the Imperialists wanted to paint the map red,
 so the Internationalists and Idealists now want to paint the map pink.
 But none of them has painted half so much of the map anything as they,
 in their optimism, have sometimes supposed.  And even in the areas
-where a sort of official optimism prevails, as in parts of America,
-there is a great deal more of the old ordinary melancholy of men than
+where a sort of official optimism prevails, as in parts of [[america|America]],
+there is a great deal more of the old ordinary [[Melancholy|melancholy]] of men than
 anyone could gather from newspaper headlines or political programmes.
-And I believe that the most general philosophy of men left to themselves,
+And I believe that the most general [[philosophy]] of men left to themselves,
 and perhaps the most practical illustration of the Fall of Man,
 is a vague impression of Fate.
 
@@ -94,15 +94,15 @@ he will generally find that they are either Christians or fatalists.
 This fatalism is more or less varied or complicated, of course,
 in various places by various mythologies or philosophies.
 It will generally be found that the mythology is a sort of poetry,
-embodying a worship of the wild forces of nature; a nature-worship
+embodying a worship of the wild forces of [[Nature|nature]]; a [[Nature|nature]]-worship
 which, when broken up, is called polytheism, and, when united,
 is called pantheism.  But there is sometimes very little left
 of theism in pantheism.
 
 Then there are whole districts where there is true theism
 which is, nevertheless, permeated with a mood of fatalism.
-That, I suppose, is true at least of large areas of Islam.
-Then there are what may be called the philosophies of resignation,
+That, I suppose, is true at least of large areas of [[Islam]].
+Then there are what may be called the philosophies of [[Resignation|resignation]],
 which probably cover equally large areas of the ancient
 civilisation of Asia.
 
@@ -121,7 +121,7 @@ of antiquity.  It is a modern slander on pagans to represent paganism
 as almost identical with pleasure.  But anyhow, nobody acquainted
 with the great Greek and Latin literature, even in the smallest degree,
 will ever dream of identifying paganism with optimism.
-It would at least be a great deal nearer the truth to say that there,
+It would at least be a great deal nearer the [[Truth|truth]] to say that there,
 as everywhere else, the fundamental character of paganism is pessimism.
 But in any case, it can quite fairly be said that it is fatalism.
 
@@ -134,15 +134,15 @@ it tells a strange story, of which the very essence is that it
 is made up of Will, or of a free divergence of Wills.
 
 Will made the world; Will wounded the world; the same Divine Will gave
-to the world for the second time its chance; the same human Will can for
-the last time make its choice.  That is the real outstanding peculiarity,
+to the world for the second [[Time|time]] its chance; the same human Will can for
+the last [[Time|time]] make its choice.  That is the real outstanding peculiarity,
 or eccentricity, of the peculiar sect called Roman Catholics.
 And if anyone objects to my limiting so large a conception to
 Roman Catholics, I willingly agree that there are many who value
 it so much that they obviously ought to be Roman Catholics.
-But if anyone says that it is not in fact and history bound up
-with the Faith of Roman Catholicism, it is enough to refer him
-to the history and the facts.
+But if anyone says that it is not in fact and [[history]] bound up
+with the [[Faith]] of Roman Catholicism, it is enough to refer him
+to the [[history]] and the facts.
 
 Nobody especially emphasised this spiritual liberty until
 the Church was established.  People began instantly to question
@@ -150,7 +150,7 @@ this spiritual liberty, when the Church began to be broken up.
 The instant a breach, or even a crack, had been made in the dyke
 of Catholicism, there poured through it the bitter sea of Calvinism,
 or in other words, of a very cruel form of fatalism.
-Since that time, it has taken the much duller form of Determinism.
+Since that [[Time|time]], it has taken the much duller form of Determinism.
 This sadness and sense of bondage is so general to mankind that it
 immediately made its appearance, when the special spiritual message
 of liberty was silenced or interrupted anywhere.  Wherever that
@@ -164,10 +164,10 @@ the best or the worst of all possible worlds.  It is useless to tell
 him that he might be more at one with the universal life as a Buddhist
 or a pantheist; for he knows that, in that sense, he might be more
 at one with the universal life as a turnip or a tree.  It is his
-whole hope and glory that he is not at one with the universal life;
+whole [[Hope|hope]] and glory that he is not at one with the universal life;
 but stands out from it, an exception and even a miracle.
 
-There is a great passage in the "Paradiso" of Dante, which I wish I
+There is a great passage in the "Paradiso" of [[Dante]], which I wish I
 knew enough Italian to appreciate or enough English to translate.
 But I would commend it to those who may fancy that my emphasis
 on this exceptional quality is a mere modern whitewashing of a

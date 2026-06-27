@@ -21,23 +21,23 @@ William O'Connor says:
   They seem simply and rudely historical in their motive, as aiming
   to give in the rough a tableau of warring dynasties,--and carry to
   me a lurking sense of being in aid of some ulterior design, probably
-  well enough understood in that age, which perhaps time and criticism
+  [[Well|well]] enough understood in that age, which perhaps [[Time|time]] and criticism
   will reveal.... Their atmosphere is one of barbarous and tumultuous
-  gloom,--they do not make us love the times they limn,... and it is
+  gloom,--they do not make us [[Love|love]] the times they limn,... and it is
   impossible to believe that the greatest of the Elizabethan men could
-  have sought to indoctrinate the age with the love of feudalism which
+  have sought to indoctrinate the age with the [[Love|love]] of feudalism which
   his own drama in its entirety, if the view taken of it herein be true,
   certainly and subtly saps and mines.
 
 Reading the just-specified play in the light of Mr. O'Connor's
 suggestion, I defy any one to escape such new and deep
-utterance-meanings, like magic ink, warm' d by the fire, and previously
-invisible. Will it not indeed be strange if the author of "Othello" and
-"Hamlet" is destin'd to live in America, in a generation or two, less as
+utterance-meanings, like [[Magic|magic]] ink, warm' d by the [[Fire|fire]], and previously
+invisible. Will it not indeed be strange if the author of "[[Othello]]" and
+"[[Hamlet]]" is destin'd to live in [[America]], in a generation or two, less as
 the cunning draughtsman of the passions, and more as putting on record
 the first full expos�--and by far the most vivid one, immeasurably ahead
 of doctrinaires and economists--of the political theory and results, or
-the reason-why and necessity for them which America has come on earth to
+the reason-why and necessity for them which [[America]] has come on earth to
 abnegate and replace?
 
 The summary of my suggestion would be, therefore, that while the more
@@ -47,12 +47,12 @@ exploring student (who at last surmises everything, and remains certain
 of nothing,) it is possible a future age of criticism, diving deeper,
 mapping the land and lines freer, completer than hitherto, may discover
 in the plays named the scientific (Baconian?) inauguration of modern
-democracy--furnishing realistic and first-class artistic portraitures
+[[democracy]]--furnishing realistic and first-class artistic portraitures
 of the mediaeval world, the feudal personalities, institutes, in their
 morbid accumulations, deposits, upon politics and sociology,--may
 penetrate to that hard-pan, far down and back of the ostent of to-day,
 on which (and on which only) the progressism of the last two centuries
-has built this Democracy which now hold's secure lodgment over the whole
+has built this [[democracy|Democracy]] which now hold's secure lodgment over the whole
 civilized world.
 
 Whether such was the unconscious, or (as I think likely) the more
@@ -65,14 +65,14 @@ architectonics, is a secondary question.
 A THOUGHT ON SHAKSPERE
 
 
-The most distinctive poems--the most permanently rooted and with
+The most distinctive [[Poems|poems]]--the most permanently rooted and with
 heartiest reason for being--the copious cycle of Arthurian legends, or
-the almost equally copious Charlemagne cycle, or the poems of the Cid,
+the almost equally copious Charlemagne cycle, or the [[Poems|poems]] of the Cid,
 or Scandinavian Eddas, or Nibelungen, or Chaucer, or Spenser, or _bona
 fide_ Ossian, or Inferno--probably had their rise in the great historic
 perturbations, which they came in to sum up and confirm, indirectly
 embodying results to date. Then however precious to "culture," the
-grandest of those poems, it may be said, preserve and typify results
+grandest of those [[Poems|poems]], it may be said, preserve and typify results
 offensive to the modern spirit, and long past away. To state it briefly,
 and taking the strongest examples, in Homer lives the ruthless military
 prowess of Greece, and of its special god-descended dynastic houses;
@@ -82,15 +82,15 @@ caste.
 Poetry, largely consider'd, is an evolution, sending out improved
 and-ever-expanded types--in one sense, the past, even the best of it,
 necessarily giving place, and dying out. For our existing world,
-the bases on which all the grand old poems were built have become
+the bases on which all the grand old [[Poems|poems]] were built have become
 vacuums--and even those of many comparatively modern ones are broken and
 half-gone. For us to-day, not their own intrinsic value, vast as that
-is, backs and maintains those poems--but a mountain-high growth of
+is, backs and maintains those [[Poems|poems]]--but a mountain-high growth of
 associations, the layers of successive ages. Everywhere--their own lands
 included--(is there not something terrible in the tenacity with which
 the one book out of millions holds its grip?)--the Homeric and Virgilian
 works, the interminable ballad-romances of the middle ages, the
-utterances of Dante, Spenser, and others, are upheld by their
+utterances of [[Dante]], Spenser, and others, are upheld by their
 cumulus-entrenchment in scholarship, and as precious, always welcome,
 unspeakably valuable reminiscences.
 
@@ -107,7 +107,7 @@ adornment, real velvet and gems, not shoddy nor paste--but a good deal
 of bombast and fustian--(certainly some terrific mouthing in Shakspere!)
 
 Superb and inimitable as all is, it is mostly an objective and
-physiological kind of power and beauty the soul finds in Shakspere--a
+physiological kind of power and [[Beauty|beauty]] the [[Soul|soul]] finds in Shakspere--a
 style supremely grand of the sort, but in my opinion stopping short of
 the grandest sort, at any rate for fulfilling and satisfying modern and
 scientific and democratic American purposes. Think, not of growths as
@@ -122,6 +122,6 @@ low characters, mechanics, even the loyal henchmen--all in themselves
 nothing--serve as capital foils to the aristocracy. The comedies
 (exquisite as they certainly are) bringing in admirably portray'd common
 characters, have the unmistakable hue of plays, portraits, made for the
-divertisement only of the �lite of the castle, and from its point
-of view. The comedies are altogether non-acceptable to America and
-Democracy.
+divertisement only of the �lite of the [[Castle|castle]], and from its point
+of view. The comedies are altogether non-acceptable to [[America]] and
+[[democracy|Democracy]].

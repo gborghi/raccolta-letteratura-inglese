@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 17 (part 1)"
+title: "[[The Professor]] — Chapter 17 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -28,7 +28,7 @@ and Evans, in addition to her French surname, also whence she derived
 
 her good accent. I had forgotten both points, or, rather, our colloquy
 
-had been so brief that I had not had time to bring them forward;
+had been so brief that I had not had [[Time|time]] to bring them forward;
 
 moreover, I had not half tested her powers of speaking English; all I
 
@@ -54,7 +54,7 @@ approached her.
 
 “Your book an instant.” Such was the mode in which I often began these
 
-brief dialogues; the time was always just at the conclusion of the
+brief dialogues; the [[Time|time]] was always just at the conclusion of the
 
 lesson; and motioning to her to rise, I installed myself in her place,
 
@@ -66,7 +66,7 @@ use between master and pupil; the rather because I perceived that in
 
 proportion as my manner grew austere and magisterial, hers became easy
 
-and self-possessed--an odd contradiction, doubtless, to the ordinary
+and [[Self|self]]-possessed--an odd contradiction, doubtless, to the ordinary
 
 effect in such cases; but so it was.
 
@@ -74,7 +74,7 @@ effect in such cases; but so it was.
 
 “A pencil,” said I, holding out my hand without looking at her. (I am
 
-now about to sketch a brief report of the first of these conferences.)
+now about to [[Sketch|sketch]] a brief report of the first of these conferences.)
 
 She gave me one, and while I underlined some errors in a grammatical
 
@@ -184,7 +184,7 @@ more facility?”
 
 
 
-“And you do homage to her memory by forgetting her language. Have the
+“And you do homage to her [[Memory|memory]] by forgetting her language. Have the
 
 goodness to put French out of your mind so long as I converse with
 
@@ -202,7 +202,7 @@ tongue.”
 
 
 
-“Yes, sir, I spoke the English more than the French when I was a child.”
+“Yes, sir, I spoke the English more than the French when I was a [[Child|child]].”
 
 
 
@@ -230,7 +230,7 @@ tongue.”
 
 
 
-“Do you live alone?”
+“Do you live [[Alone|alone]]?”
 
 
 
@@ -254,7 +254,7 @@ tongue.”
 
 
 
-“For which, mademoiselle, if you were a child I should certainly devise
+“For which, mademoiselle, if you were a [[Child|child]] I should certainly devise
 
 some slight punishment; at your age--you must be two or three and
 
@@ -266,7 +266,7 @@ twenty, I should think?”
 
 
 
-“Well, nineteen is a mature age, and, having attained it, you ought to
+“[[Well]], nineteen is a mature age, and, having attained it, you ought to
 
 be so solicitous for your own improvement, that it should not be needful
 
@@ -304,11 +304,11 @@ An odd question, and bluntly put; it excited a second smile.
 
 
 
-“Why, monsieur, I am not inattentive--am I? I learn my lessons well--”
+“Why, monsieur, I am not inattentive--am I? I learn my lessons [[Well|well]]--”
 
 
 
-“Oh, a child can do that! and what more do you do?”
+“Oh, a [[Child|child]] can do that! and what more do you do?”
 
 
 
@@ -316,7 +316,7 @@ An odd question, and bluntly put; it excited a second smile.
 
 
 
-“Oh, certainly, not much; but you are a teacher, are you not, as well as
+“Oh, certainly, not much; but you are a teacher, are you not, as [[Well|well]] as
 
 a pupil?”
 
@@ -326,7 +326,7 @@ a pupil?”
 
 
 
-“You teach lace-mending?”
+“You teach lace-[[mending]]?”
 
 
 
@@ -342,7 +342,7 @@ a pupil?”
 
 
 
-“Why do you pursue it? Why do you not rather teach history, geography,
+“Why do you pursue it? Why do you not rather teach [[history]], geography,
 
 grammar, even arithmetic?”
 
@@ -388,6 +388,6 @@ dogmatical tone I had adopted:--
 
 “It is sad, however, that you should be brought up in ignorance of the
 
-most ordinary branches of education; had you known something of history
+most ordinary branches of [[Education|education]]; had you known something of [[history]]
 
-and grammar you might, by degrees, have relinquished your lace-mending
+and grammar you might, by degrees, have relinquished your lace-[[mending]]

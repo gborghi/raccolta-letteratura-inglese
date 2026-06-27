@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — T is not true that Lord Tallboys wore his top-hat in bed, during his (part 3)"
+title: "[[FourFaultlessFelons]] — T is not true that Lord Tallboys wore his top-hat in bed, during his (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -30,11 +30,11 @@ corner. I waited a moment and saw that people were coming out of the last
 
 houses to pick him up. I did the only thing I really regret. I had a
 
-vague idea the house by the sycamore was empty, so I threw the gun over
+vague idea the [[house]] by the sycamore was empty, so I threw the gun over
 
-the wall into the garden, and nearly got that poor old ass of a parson
+the wall into the [[Garden|garden]], and nearly got that poor old ass of a parson
 
-into trouble. Then I went home and waited till they summoned me to give
+into trouble. Then I went [[Home|home]] and waited till they summoned me to give
 
 evidence about Gregory."
 
@@ -86,15 +86,15 @@ Extremists.
 
 Believe me, the reactionary Extremists are quite as likely to go to
 
-extremes. The history of faction fights will show acts of violence by
+extremes. The [[history]] of faction fights will show acts of violence by
 
-Patricians as well as Plebeians, by Ghibellines as well as Guelphs, by
+Patricians as [[Well|well]] as Plebeians, by Ghibellines as [[Well|well]] as Guelphs, by
 
-Orangemen as well as Fenians, by Fascists as well as Bolshevists, by the
+Orangemen as [[Well|well]] as Fenians, by Fascists as [[Well|well]] as Bolshevists, by the
 
-Ku-Klux-Klan as well as the Black Hand. And when a politician comes from
+Ku-Klux-Klan as [[Well|well]] as the Black Hand. And when a politician comes from
 
-London with a compromise in his pocket-it is not only Nationalists who
+[[London]] with a compromise in his pocket-it is not only Nationalists who
 
 see their plans frustrated.
 
@@ -102,13 +102,13 @@ see their plans frustrated.
 
 "The other point is more personal, especially to you. You once told me
 
-you feared for the family sanity, merely because you had bad dreams and
+you feared for the family [[Sanity|sanity]], merely because you had bad [[Dreams|dreams]] and
 
-brooded over things of your own imagination. Believe me, it's not the
+brooded over things of your own [[Imagination|imagination]]. Believe me, it's not the
 
 imaginative people who become insane. It's not they who are mad, even
 
-when they are morbid. They can always be woken up from bad dreams by
+when they are morbid. They can always be woken up from bad [[Dreams|dreams]] by
 
 broader prospects and brighter visions-because they are imaginative. The
 
@@ -128,11 +128,11 @@ shorter, but they have to do with it. My uncle sent me here with an
 
 officer who has an order for your release . . and the Deputy-Governor is
 
-going home . . resignation on the grounds of ill-health."
+going [[Home|home]] . . [[Resignation|resignation]] on the grounds of ill-health."
 
 
 
-"Tallboys is no fool," said John Hume; "he has guessed."
+"Tallboys is no [[Fool|fool]]," said John Hume; "he has guessed."
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 39"
+title: "[[Great Expectations]] — Chapter 39"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -20,55 +20,55 @@ Chapter XXXIX.
 I was three-and-twenty years of age. Not another word had I heard to
 enlighten me on the subject of my expectations, and my twenty-third
 birthday was a week gone. We had left Barnard’s Inn more than a year,
-and lived in the Temple. Our chambers were in Garden-court, down by the
-river.
+and lived in the Temple. Our chambers were in [[Garden]]-[[Court|court]], down by the
+[[River|river]].
 
-Mr. Pocket and I had for some time parted company as to our original
+Mr. Pocket and I had for some [[Time|time]] parted company as to our original
 relations, though we continued on the best terms. Notwithstanding my
-inability to settle to anything,—which I hope arose out of the restless
+inability to settle to anything,—which I [[Hope|hope]] arose out of the restless
 and incomplete tenure on which I held my means,—I had a taste for
 reading, and read regularly so many hours a day. That matter of
 Herbert’s was still progressing, and everything with me was as I have
 brought it down to the close of the last preceding chapter.
 
-Business had taken Herbert on a journey to Marseilles. I was alone, and
-had a dull sense of being alone. Dispirited and anxious, long hoping
+Business had taken Herbert on a [[Journey|journey]] to Marseilles. I was [[Alone|alone]], and
+had a dull sense of being [[Alone|alone]]. Dispirited and anxious, long hoping
 that to-morrow or next week would clear my way, and long disappointed,
 I sadly missed the cheerful face and ready response of my friend.
 
 It was wretched weather; stormy and wet, stormy and wet; and mud, mud,
 mud, deep in all the streets. Day after day, a vast heavy veil had been
-driving over London from the East, and it drove still, as if in the
-East there were an eternity of cloud and wind. So furious had been the
+driving over [[London]] from the East, and it drove still, as if in the
+East there were an [[Eternity|eternity]] of cloud and [[Wind|wind]]. So furious had been the
 gusts, that high buildings in town had had the lead stripped off their
 roofs; and in the country, trees had been torn up, and sails of
 windmills carried away; and gloomy accounts had come in from the coast,
-of shipwreck and death. Violent blasts of rain had accompanied these
-rages of wind, and the day just closed as I sat down to read had been
+of shipwreck and [[Death|death]]. Violent blasts of rain had accompanied these
+rages of [[Wind|wind]], and the day just closed as I sat down to read had been
 the worst of all.
 
-Alterations have been made in that part of the Temple since that time,
+Alterations have been made in that part of the Temple since that [[Time|time]],
 and it has not now so lonely a character as it had then, nor is it so
-exposed to the river. We lived at the top of the last house, and the
-wind rushing up the river shook the house that night, like discharges
+exposed to the [[River|river]]. We lived at the top of the last [[house]], and the
+[[Wind|wind]] rushing up the [[River|river]] shook the [[house]] that [[Night|night]], like discharges
 of cannon, or breakings of a sea. When the rain came with it and dashed
 against the windows, I thought, raising my eyes to them as they rocked,
-that I might have fancied myself in a storm-beaten lighthouse.
-Occasionally, the smoke came rolling down the chimney as though it
-could not bear to go out into such a night; and when I set the doors
+that I might have fancied myself in a [[Storm|storm]]-beaten lighthouse.
+Occasionally, the smoke came [[rolling]] down the chimney as though it
+could not bear to go out into such a [[Night|night]]; and when I set the doors
 open and looked down the staircase, the staircase lamps were blown out;
 and when I shaded my face with my hands and looked through the black
 windows (opening them ever so little was out of the question in the
-teeth of such wind and rain), I saw that the lamps in the court were
+teeth of such [[Wind|wind]] and rain), I saw that the lamps in the [[Court|court]] were
 blown out, and that the lamps on the bridges and the shore were
-shuddering, and that the coal-fires in barges on the river were being
-carried away before the wind like red-hot splashes in the rain.
+shuddering, and that the coal-fires in barges on the [[River|river]] were being
+carried away before the [[Wind|wind]] like red-hot splashes in the rain.
 
 I read with my watch upon the table, purposing to close my book at
-eleven o’clock. As I shut it, Saint Paul’s, and all the many
-church-clocks in the City—some leading, some accompanying, some
-following—struck that hour. The sound was curiously flawed by the wind;
-and I was listening, and thinking how the wind assailed and tore it,
+eleven o’[[Clock|clock]]. As I shut it, Saint Paul’s, and all the many
+church-clocks in the [[City]]—some leading, some accompanying, some
+following—struck that hour. The sound was curiously flawed by the [[Wind|wind]];
+and I was listening, and thinking how the [[Wind|wind]] assailed and tore it,
 when I heard a footstep on the stair.
 
 What nervous folly made me start, and awfully connect it with the
@@ -138,14 +138,14 @@ voice, “arter having looked for’ard so distant, and come so fur; but
 you’re not to blame for that,—neither on us is to blame for that. I’ll
 speak in half a minute. Give me half a minute, please.”
 
-He sat down on a chair that stood before the fire, and covered his
+He sat down on a chair that stood before the [[Fire|fire]], and covered his
 forehead with his large brown veinous hands. I looked at him
 attentively then, and recoiled a little from him; but I did not know
 him.
 
 “There’s no one nigh,” said he, looking over his shoulder; “is there?”
 
-“Why do you, a stranger coming into my rooms at this time of the night,
+“Why do you, a stranger coming into my rooms at this [[Time|time]] of the [[Night|night]],
 ask that question?” said I.
 
 “You’re a game one,” he returned, shaking his head at me with a
@@ -154,21 +154,21 @@ exasperating; “I’m glad you’ve grow’d up, a game one! But don’t catch
 hold of me. You’d be sorry arterwards to have done it.”
 
 I relinquished the intention he had detected, for I knew him! Even yet
-I could not recall a single feature, but I knew him! If the wind and
+I could not recall a single feature, but I knew him! If the [[Wind|wind]] and
 the rain had driven away the intervening years, had scattered all the
 intervening objects, had swept us to the churchyard where we first
 stood face to face on such different levels, I could not have known my
 convict more distinctly than I knew him now as he sat in the chair
-before the fire. No need to take a file from his pocket and show it to
+before the [[Fire|fire]]. No need to take a file from his pocket and show it to
 me; no need to take the handkerchief from his neck and twist it round
 his head; no need to hug himself with both his arms, and take a
 shivering turn across the room, looking back at me for recognition. I
 knew him before he gave me one of those aids, though, a moment before,
-I had not been conscious of remotely suspecting his identity.
+I had not been conscious of remotely suspecting his [[Identity|identity]].
 
 He came back to where I stood, and again held out both his hands. Not
 knowing what to do,—for, in my astonishment I had lost my
-self-possession,—I reluctantly gave him my hands. He grasped them
+[[Self|self]]-possession,—I reluctantly gave him my hands. He grasped them
 heartily, raised them to his lips, kissed them, and still held them.
 
 “You acted noble, my boy,” said he. “Noble, Pip! And I have never
@@ -178,8 +178,8 @@ At a change in his manner as if he were even going to embrace me, I
 laid a hand upon his breast and put him away.
 
 “Stay!” said I. “Keep off! If you are grateful to me for what I did
-when I was a little child, I hope you have shown your gratitude by
-mending your way of life. If you have come here to thank me, it was not
+when I was a little [[Child|child]], I [[Hope|hope]] you have shown your gratitude by
+[[mending]] your way of life. If you have come here to thank me, it was not
 necessary. Still, however you have found me out, there must be
 something good in the feeling that has brought you here, and I will not
 repulse you; but surely you must understand that—I—”
@@ -188,7 +188,7 @@ My attention was so attracted by the singularity of his fixed look at
 me, that the words died away on my tongue.
 
 “You was a-saying,” he observed, when we had confronted one another in
-silence, “that surely I must understand. What, surely must I
+[[Silence|silence]], “that surely I must understand. What, surely must I
 understand?”
 
 “That I cannot wish to renew that chance intercourse with you of long
@@ -204,20 +204,20 @@ with the end at his mouth and still observant of me, “that I _will_
 drink (I thank you) afore I go.”
 
 There was a tray ready on a side-table. I brought it to the table near
-the fire, and asked him what he would have? He touched one of the
+the [[Fire|fire]], and asked him what he would have? He touched one of the
 bottles without looking at it or speaking, and I made him some hot rum
-and water. I tried to keep my hand steady while I did so, but his look
+and [[Water|water]]. I tried to keep my hand steady while I did so, but his look
 at me as he leaned back in his chair with the long draggled end of his
 neckerchief between his teeth—evidently forgotten—made my hand very
 difficult to master. When at last I put the glass to him, I saw with
-amazement that his eyes were full of tears.
+amazement that his eyes were full of [[Tears|tears]].
 
-Up to this time I had remained standing, not to disguise that I wished
+Up to this [[Time|time]] I had remained standing, not to disguise that I wished
 him gone. But I was softened by the softened aspect of the man, and
-felt a touch of reproach. “I hope,” said I, hurriedly putting something
+felt a touch of reproach. “I [[Hope|hope]],” said I, hurriedly putting something
 into a glass for myself, and drawing a chair to the table, “that you
 will not think I spoke harshly to you just now. I had no intention of
-doing it, and I am sorry for it if I did. I wish you well and happy!”
+doing it, and I am sorry for it if I did. I wish you [[Well|well]] and happy!”
 
 As I put my glass to my lips, he glanced with surprise at the end of
 his neckerchief, dropping from his mouth when he opened it, and
@@ -227,18 +227,18 @@ his sleeve across his eyes and forehead.
 “How are you living?” I asked him.
 
 “I’ve been a sheep-farmer, stock-breeder, other trades besides, away in
-the new world,” said he; “many a thousand mile of stormy water off from
+the new world,” said he; “many a thousand mile of stormy [[Water|water]] off from
 this.”
 
-“I hope you have done well?”
+“I [[Hope|hope]] you have done [[Well|well]]?”
 
-“I’ve done wonderfully well. There’s others went out alonger me as has
-done well too, but no man has done nigh as well as me. I’m famous for
+“I’ve done wonderfully [[Well|well]]. There’s others went out alonger me as has
+done [[Well|well]] too, but no man has done nigh as [[Well|well]] as me. I’m famous for
 it.”
 
 “I am glad to hear it.”
 
-“I hope to hear you say so, my dear boy.”
+“I [[Hope|hope]] to hear you say so, my dear boy.”
 
 Without stopping to try to understand those words or the tone in which
 they were spoken, I turned off to a point that had just come into my
@@ -251,7 +251,7 @@ mind.
 
 “He came faithfully, and he brought me the two one-pound notes. I was a
 poor boy then, as you know, and to a poor boy they were a little
-fortune. But, like you, I have done well since, and you must let me pay
+fortune. But, like you, I have done [[Well|well]] since, and you must let me pay
 them back. You can put them to some other poor boy’s use.” I took out
 my purse.
 
@@ -259,21 +259,21 @@ He watched me as I laid my purse upon the table and opened it, and he
 watched me as I separated two one-pound notes from its contents. They
 were clean and new, and I spread them out and handed them over to him.
 Still watching me, he laid them one upon the other, folded them
-long-wise, gave them a twist, set fire to them at the lamp, and dropped
+long-wise, gave them a twist, set [[Fire|fire]] to them at the lamp, and dropped
 the ashes into the tray.
 
 “May I make so bold,” he said then, with a smile that was like a frown,
 and with a frown that was like a smile, “as ask you _how_ you have done
-well, since you and me was out on them lone shivering marshes?”
+[[Well|well]], since you and me was out on them lone shivering marshes?”
 
 “How?”
 
 “Ah!”
 
-He emptied his glass, got up, and stood at the side of the fire, with
+He emptied his glass, got up, and stood at the side of the [[Fire|fire]], with
 his heavy brown hand on the mantel-shelf. He put a foot up to the bars,
 to dry and warm it, and the wet boot began to steam; but, he neither
-looked at it, nor at the fire, but steadily looked at me. It was only
+looked at it, nor at the [[Fire|fire]], but steadily looked at me. It was only
 now that I began to tremble.
 
 When my lips had parted, and had shaped some words that were without
@@ -288,10 +288,10 @@ I faltered, “I don’t know.”
 
 I faltered again, “I don’t know.”
 
-“Could I make a guess, I wonder,” said the Convict, “at your income
+“Could I make a guess, I [[Wonder|wonder]],” said the Convict, “at your income
 since you come of age! As to the first figure now. Five?”
 
-With my heart beating like a heavy hammer of disordered action, I rose
+With my heart beating like a heavy hammer of disordered action, I [[Rose|rose]]
 out of my chair, and stood with my hand upon the back of it, looking
 wildly at him.
 
@@ -299,7 +299,7 @@ wildly at him.
 guardian, or such-like, whiles you was a minor. Some lawyer, maybe. As
 to the first letter of that lawyer’s name now. Would it be J?”
 
-All the truth of my position came flashing on me; and its
+All the [[Truth|truth]] of my position came flashing on me; and its
 disappointments, dangers, disgraces, consequences of all kinds, rushed
 in in such a multitude that I was borne down by them and had to
 struggle for every breath I drew.
@@ -307,8 +307,8 @@ struggle for every breath I drew.
 “Put it,” he resumed, “as the employer of that lawyer whose name begun
 with a J, and might be Jaggers,—put it as he had come over sea to
 Portsmouth, and had landed there, and had wanted to come on to you.
-‘However, you have found me out,’ you says just now. Well! However, did
-I find you out? Why, I wrote from Portsmouth to a person in London, for
+‘However, you have found me out,’ you says just now. [[Well]]! However, did
+I find you out? Why, I wrote from Portsmouth to a person in [[London]], for
 particulars of your address. That person’s name? Why, Wemmick.”
 
 I could not have spoken one word, though it had been to save my life. I
@@ -316,11 +316,11 @@ stood, with a hand on the chair-back and a hand on my breast, where I
 seemed to be suffocating,—I stood so, looking wildly at him, until I
 grasped at the chair, when the room began to surge and turn. He caught
 me, drew me to the sofa, put me up against the cushions, and bent on
-one knee before me, bringing the face that I now well remembered, and
+one knee before me, bringing the face that I now [[Well|well]] remembered, and
 that I shuddered at, very near to mine.
 
 “Yes, Pip, dear boy, I’ve made a gentleman on you! It’s me wot has done
-it! I swore that time, sure as ever I earned a guinea, that guinea
+it! I swore that [[Time|time]], sure as ever I earned a guinea, that guinea
 should go to you. I swore arterwards, sure as ever I spec’lated and got
 rich, you should get rich. I lived rough, that you should live smooth;
 I worked hard, that you should be above work. What odds, dear boy? Do I
@@ -336,11 +336,11 @@ if he had been some terrible beast.
 nor any son. I’ve put away money, only for you to spend. When I was a
 hired-out shepherd in a solitary hut, not seeing no faces but faces of
 sheep till I half forgot wot men’s and women’s faces wos like, I see
-yourn. I drops my knife many a time in that hut when I was a-eating my
+yourn. I drops my knife many a [[Time|time]] in that hut when I was a-eating my
 dinner or my supper, and I says, ‘Here’s the boy again, a looking at me
 whiles I eats and drinks!’ I see you there a many times, as plain as
 ever I see you on them misty marshes. ‘Lord strike me dead!’ I says
-each time,—and I goes out in the air to say it under the open
+each [[Time|time]],—and I goes out in the air to say it under the open
 heavens,—‘but wot, if I gets liberty and money, I’ll make that boy a
 gentleman!’ And I done it. Why, look at you, dear boy! Look at these
 here lodgings of yourn, fit for a lord! A lord? Ah! You shall show
@@ -352,9 +352,9 @@ grain of relief I had.
 
 “Look’ee here!” he went on, taking my watch out of my pocket, and
 turning towards him a ring on my finger, while I recoiled from his
-touch as if he had been a snake, “a gold ’un and a beauty: _that’s_ a
-gentleman’s, I hope! A diamond all set round with rubies; _that’s_ a
-gentleman’s, I hope! Look at your linen; fine and beautiful! Look at
+touch as if he had been a snake, “a gold ’un and a [[Beauty|beauty]]: _that’s_ a
+gentleman’s, I [[Hope|hope]]! A diamond all set round with rubies; _that’s_ a
+gentleman’s, I [[Hope|hope]]! Look at your linen; fine and beautiful! Look at
 your clothes; better ain’t to be got! And your books too,” turning his
 eyes round the room, “mounting up, on their shelves, by hundreds! And
 you read ’em; don’t you? I see you’d been a reading of ’em when I come
@@ -362,32 +362,32 @@ in. Ha, ha, ha! You shall read ’em to me, dear boy! And if they’re in
 foreign languages wot I don’t understand, I shall be just as proud as
 if I did.”
 
-Again he took both my hands and put them to his lips, while my blood
+Again he took both my hands and put them to his lips, while my [[Blood|blood]]
 ran cold within me.
 
 “Don’t you mind talking, Pip,” said he, after again drawing his sleeve
 over his eyes and forehead, as the click came in his throat which I
-well remembered,—and he was all the more horrible to me that he was so
+[[Well|well]] remembered,—and he was all the more horrible to me that he was so
 much in earnest; “you can’t do better nor keep quiet, dear boy. You
 ain’t looked slowly forward to this as I have; you wosn’t prepared for
 this as I wos. But didn’t you never think it might be me?”
 
 “O no, no, no,” I returned, “Never, never!”
 
-“Well, you see it _wos_ me, and single-handed. Never a soul in it but
-my own self and Mr. Jaggers.”
+“[[Well]], you see it _wos_ me, and single-handed. Never a [[Soul|soul]] in it but
+my own [[Self|self]] and Mr. Jaggers.”
 
 “Was there no one else?” I asked.
 
 “No,” said he, with a glance of surprise: “who else should there be?
 And, dear boy, how good looking you have growed! There’s bright eyes
-somewheres—eh? Isn’t there bright eyes somewheres, wot you love the
+somewheres—eh? Isn’t there bright eyes somewheres, wot you [[Love|love]] the
 thoughts on?”
 
-O Estella, Estella!
+O [[Estella]], [[Estella]]!
 
 “They shall be yourn, dear boy, if money can buy ’em. Not that a
-gentleman like you, so well set up as you, can’t win ’em off of his own
+gentleman like you, so [[Well|well]] set up as you, can’t win ’em off of his own
 game; but money shall back you! Let me finish wot I was a telling you,
 dear boy. From that there hut and that there hiring-out, I got money
 left me by my master (which died, and had been the same as me), and got
@@ -395,7 +395,7 @@ my liberty and went for myself. In every single thing I went for, I
 went for you. ‘Lord strike a blight upon it,’ I says, wotever it was I
 went for, ‘if it ain’t for him!’ It all prospered wonderful. As I giv’
 you to understand just now, I’m famous for it. It was the money left
-me, and the gains of the first few year wot I sent home to Mr.
+me, and the gains of the first few year wot I sent [[Home|home]] to Mr.
 Jaggers—all for you—when he first come arter you, agreeable to my
 letter.”
 
@@ -403,20 +403,20 @@ O that he had never come! That he had left me at the forge,—far from
 contented, yet, by comparison happy!
 
 “And then, dear boy, it was a recompense to me, look’ee here, to know
-in secret that I was making a gentleman. The blood horses of them
-colonists might fling up the dust over me as I was walking; what do I
+in secret that I was making a gentleman. The [[Blood|blood]] horses of them
+colonists might fling up the [[Dust|dust]] over me as I was walking; what do I
 say? I says to myself, ‘I’m making a better gentleman nor ever _you_’ll
 be!’ When one of ’em says to another, ‘He was a convict, a few year
 ago, and is a ignorant common fellow now, for all he’s lucky,’ what do
 I say? I says to myself, ‘If I ain’t a gentleman, nor yet ain’t got no
 learning, I’m the owner of such. All on you owns stock and land; which
-on you owns a brought-up London gentleman?’ This way I kep myself
+on you owns a brought-up [[London]] gentleman?’ This way I kep myself
 a-going. And this way I held steady afore my mind that I would for
 certain come one day and see my boy, and make myself known to him, on
 his own ground.”
 
 He laid his hand on my shoulder. I shuddered at the thought that for
-anything I knew, his hand might be stained with blood.
+anything I knew, his hand might be stained with [[Blood|blood]].
 
 “It warn’t easy, Pip, for me to leave them parts, nor yet it warn’t
 safe. But I held to it, and the harder it was, the stronger I held, for
@@ -424,16 +424,16 @@ I was determined, and my mind firm made up. At last I done it. Dear
 boy, I done it!”
 
 I tried to collect my thoughts, but I was stunned. Throughout, I had
-seemed to myself to attend more to the wind and the rain than to him;
+seemed to myself to attend more to the [[Wind|wind]] and the rain than to him;
 even now, I could not separate his voice from those voices, though
 those were loud and his was silent.
 
 “Where will you put me?” he asked, presently. “I must be put
 somewheres, dear boy.”
 
-“To sleep?” said I.
+“To [[Sleep|sleep]]?” said I.
 
-“Yes. And to sleep long and sound,” he answered; “for I’ve been
+“Yes. And to [[Sleep|sleep]] long and sound,” he answered; “for I’ve been
 sea-tossed and sea-washed, months and months.”
 
 “My friend and companion,” said I, rising from the sofa, “is absent;
@@ -450,16 +450,16 @@ necessary.”
 
 “How do you mean? Caution?”
 
-“By G——, it’s Death!”
+“By G——, it’s [[Death]]!”
 
-“What’s death?”
+“What’s [[Death|death]]?”
 
-“I was sent for life. It’s death to come back. There’s been overmuch
+“I was sent for life. It’s [[Death|death]] to come back. There’s been overmuch
 coming back of late years, and I should of a certainty be hanged if
 took.”
 
 Nothing was needed but this; the wretched man, after loading wretched
-me with his gold and silver chains for years, had risked his life to
+me with his gold and silver [[Chains|chains]] for years, had risked his life to
 come to me, and I held it there in my keeping! If I had loved him
 instead of abhorring him; if I had been attracted to him by the
 strongest admiration and affection, instead of shrinking from him with
@@ -479,59 +479,59 @@ communication between it and the staircase than through the room in
 which our conversation had been held, I asked him if he would go to
 bed? He said yes, but asked me for some of my “gentleman’s linen” to
 put on in the morning. I brought it out, and laid it ready for him, and
-my blood again ran cold when he again took me by both hands to give me
-good-night.
+my [[Blood|blood]] again ran cold when he again took me by both hands to give me
+good-[[Night|night]].
 
-I got away from him, without knowing how I did it, and mended the fire
+I got away from him, without knowing how I did it, and mended the [[Fire|fire]]
 in the room where we had been together, and sat down by it, afraid to
 go to bed. For an hour or more, I remained too stunned to think; and it
 was not until I began to think, that I began fully to know how wrecked
-I was, and how the ship in which I had sailed was gone to pieces.
+I was, and how the [[Ship|ship]] in which I had sailed was gone to pieces.
 
-Miss Havisham’s intentions towards me, all a mere dream; Estella not
-designed for me; I only suffered in Satis House as a convenience, a
+[[Miss Havisham]]’s intentions towards me, all a mere dream; [[Estella]] not
+designed for me; I only suffered in Satis [[house|House]] as a convenience, a
 sting for the greedy relations, a model with a mechanical heart to
 practise on when no other practice was at hand; those were the first
-smarts I had. But, sharpest and deepest pain of all,—it was for the
+smarts I had. But, sharpest and deepest [[Pain|pain]] of all,—it was for the
 convict, guilty of I knew not what crimes, and liable to be taken out
 of those rooms where I sat thinking, and hanged at the Old Bailey door,
 that I had deserted Joe.
 
 I would not have gone back to Joe now, I would not have gone back to
-Biddy now, for any consideration; simply, I suppose, because my sense
+[[Biddy]] now, for any consideration; simply, I suppose, because my sense
 of my own worthless conduct to them was greater than every
 consideration. No wisdom on earth could have given me the comfort that
 I should have derived from their simplicity and fidelity; but I could
 never, never, undo what I had done.
 
-In every rage of wind and rush of rain, I heard pursuers. Twice, I
+In every rage of [[Wind|wind]] and rush of rain, I heard pursuers. Twice, I
 could have sworn there was a knocking and whispering at the outer door.
 With these fears upon me, I began either to imagine or recall that I
 had had mysterious warnings of this man’s approach. That, for weeks
 gone by, I had passed faces in the streets which I had thought like
 his. That these likenesses had grown more numerous, as he, coming over
 the sea, had drawn nearer. That his wicked spirit had somehow sent
-these messengers to mine, and that now on this stormy night he was as
+these messengers to mine, and that now on this stormy [[Night|night]] he was as
 good as his word, and with me.
 
 Crowding up with these reflections came the reflection that I had seen
 him with my childish eyes to be a desperately violent man; that I had
 heard that other convict reiterate that he had tried to murder him;
 that I had seen him down in the ditch tearing and fighting like a wild
-beast. Out of such remembrances I brought into the light of the fire a
+beast. Out of such remembrances I brought into the light of the [[Fire|fire]] a
 half-formed terror that it might not be safe to be shut up there with
-him in the dead of the wild solitary night. This dilated until it
+him in the dead of the wild solitary [[Night|night]]. This dilated until it
 filled the room, and impelled me to take a candle and go in and look at
 my dreadful burden.
 
 He had rolled a handkerchief round his head, and his face was set and
-lowering in his sleep. But he was asleep, and quietly too, though he
-had a pistol lying on the pillow. Assured of this, I softly removed the
+lowering in his [[Sleep|sleep]]. But he was asleep, and quietly too, though he
+had a [[Pistol|pistol]] lying on the pillow. Assured of this, I softly removed the
 key to the outside of his door, and turned it on him before I again sat
-down by the fire. Gradually I slipped from the chair and lay on the
-floor. When I awoke without having parted in my sleep with the
+down by the [[Fire|fire]]. Gradually I slipped from the chair and lay on the
+floor. When I awoke without having parted in my [[Sleep|sleep]] with the
 perception of my wretchedness, the clocks of the Eastward churches were
-striking five, the candles were wasted out, the fire was dead, and the
-wind and rain intensified the thick black darkness.
+striking five, the candles were wasted out, the [[Fire|fire]] was dead, and the
+[[Wind|wind]] and rain intensified the thick black darkness.
 
 THIS IS THE END OF THE SECOND STAGE OF PIP’S EXPECTATIONS.

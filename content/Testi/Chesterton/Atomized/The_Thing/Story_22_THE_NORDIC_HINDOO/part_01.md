@@ -37,7 +37,7 @@ It might run something like this:
 2.  To what provinces did it generally refer?
 
 3.  If Athens, Antioch, Rome and Jerusalem were provincial towns,
-what was their Metropolitan city?
+what was their Metropolitan [[City|city]]?
 
 4.  What reasons are there for supposing that Birmingham occupied
 this Metropolitan position from the earliest times?
@@ -45,7 +45,7 @@ this Metropolitan position from the earliest times?
 5.  Give a short account of the conquest of Southern Europe and
 the Near East by the Emperors of Birmingham.
 
-6.  At what date did the Papacy rebel against the Diocese of Birmingham?
+6.  At what date did the Papacy [[Rebel|rebel]] against the Diocese of Birmingham?
 
 7.  Explain the old proverb, "All roads lead to Birmingham."
 
@@ -57,7 +57,7 @@ than that of the Romans?
 
 10.  When will the Bishop of Birmingham go touring in the Provinces?
 
-Answers must be sent in before the time of the Disestablishment
+Answers must be sent in before the [[Time|time]] of the Disestablishment
 of the Church of England, and priests are forbidden to give their
 crafty assistance to the candidates.
 
@@ -67,7 +67,7 @@ It was rendered even more extraordinary, of course,
 by the further remarks on the subject of Chinamen and Hindoos.
 Now we know all about the Nordic Man, so far as anybody can know
 anything about a person who does not exist.  We know, for instance,
-that up to the autumn of 1914 he used to be called the Teutonic Man.
+that up to the [[Autumn|autumn]] of 1914 he used to be called the Teutonic Man.
 Dean Inge used to be frightfully fond of him in those days;
 even fonder than he is now.  He once quoted lavishly, and still
 quotes occasionally, from that great and glorious English patriot,
@@ -83,7 +83,7 @@ the sun, like the kings after Napoleon's fall in Mrs. Browning's poem.
 Like several other people, he changed his name during the War.
 He is now entirely Nordic and not at all Teutonic.  And, as it is,
 and always was, his whole profession in life to praise himself
-and exalt the virtue of pride, so much undervalued by Christians,
+and exalt the virtue of [[Pride|pride]], so much undervalued by Christians,
 it is perfectly natural that he should despise "Dagos"
 and talk about the lower culture of lesser breeds without the law.
 It is natural that he should insist that all Spaniards are cowardly
@@ -105,7 +105,7 @@ Why are we now told to learn from people who are even less
 light-haired and even further off from the Arctic Circle?  Are they
 not a lower race, conquered by the earth-shaking Imperialism
 of Birmingham?  Are they not a lesser breed without the law?
-Are we to go to Asia to escape from the folklore and magic?
+Are we to go to Asia to escape from the folklore and [[Magic|magic]]?
 Do the dear Indians never exhibit any of the errors that deface
 the deplorable Romans?  If the Latins are idolaters, do the Indians
 never have idols?  If Southern Europe is attached to mythology,
@@ -113,16 +113,16 @@ is Southern Asia a world of pure reason that has never been defaced
 by a myth?
 
 The explanation, the only explanation that I can suggest, is the one I
-have already suggested; and it is in a simple word; the word DESPAIR.
+have already suggested; and it is in a simple word; the word [[Despair|DESPAIR]].
 Everybody knows that when a military campaign begins to fail there
-is an inevitable and even pardonable temptation to every military
+is an inevitable and even pardonable [[Temptation|temptation]] to every military
 commander on the defeated side to lower the standard of military fitness
 and collect soldiers from anywhere, whatever be their military quality.
 This has happened again and again even among the white races;
 something similar is constantly happening in their relation to the
 other races.  So both the Dutch and the English in the South African
 quarrel have been continually tempted to make use of the natives
-for war as well as labour.  France has been blamed for relying on
+for war as [[Well|well]] as labour.  France has been blamed for relying on
 dark troops; though I never could see why she should be blamed by us,
 who drew dark troops from all over our own Empire.
 
@@ -133,4 +133,4 @@ to the Hindoos.  He has reached the position in which he will accept
 reinforcements from anywhere except Rome.  Rome must be provincial;
 even if it is the only place in the world that is provincial.
 Rome must be barbaric; if all the barbarians of the earth are called
-up to sack the city.
+up to sack the [[City|city]].

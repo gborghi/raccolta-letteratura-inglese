@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Sign of the Broken Sword (part 4)"
+title: "[[innocence]] — The Sign of the Broken [[Sword]] (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/innocence-(Chesterton)"
@@ -20,7 +20,7 @@ Then he continued in the same business-like tone:
 
 "Only a month or two ago a certain Brazilian official died
 in England, having quarrelled with Olivier and left his country.
-He was a well-known figure both here and on the Continent,
+He was a [[Well|well]]-known figure both here and on the Continent,
 a Spaniard named Espado; I knew him myself, a yellow-faced
 old dandy, with a hooked nose.  For various private reasons
 I had permission to see the documents he had left; he was
@@ -29,7 +29,7 @@ There was nothing of his that lit up any corner of the black
 St. Clare business, except five or six common exercise books
 filled with the diary of some English soldier.  I can only suppose
 that it was found by the Brazilians on one of those that fell.
-Anyhow, it stopped abruptly the night before the battle.
+Anyhow, it stopped abruptly the [[Night|night]] before the battle.
 
 "But the account of that last day in the poor fellow's life
 was certainly worth reading.  I have it on me; but it's too dark
@@ -48,20 +48,20 @@ jests about the contrast between this Ulsterman's austerity
 and the conviviality of Colonel Clancy.  There is also some joke
 about the Vulture wearing bright-coloured clothes.
 
-"But all these levities are scattered by what may well be
+"But all these levities are scattered by what may [[Well|well]] be
 called the note of a bugle.  Behind the English camp and
-almost parallel to the river ran one of the few great roads
-of that district.  Westward the road curved round towards
-the river, which it crossed by the bridge before mentioned.
-To the east the road swept backwards into the wilds,
+almost parallel to the [[River|river]] ran one of the few great roads
+of that district.  Westward the [[Road|road]] curved round towards
+the [[River|river]], which it crossed by the bridge before mentioned.
+To the east the [[Road|road]] swept backwards into the wilds,
 and some two miles along it was the next English outpost.
-From this direction there came along the road that evening a glitter
+From this direction there came along the [[Road|road]] that evening a glitter
 and clatter of light cavalry, in which even the simple diarist
 could recognise with astonishment the general with his staff.
-He rode the great white horse which you have seen so often
+He rode the great white [[Horse|horse]] which you have seen so often
 in illustrated papers and Academy pictures; and you may be sure
 that the salute they gave him was not merely ceremonial.
-He, at least, wasted no time on ceremony, but, springing from
+He, at least, wasted no [[Time|time]] on ceremony, but, springing from
 the saddle immediately, mixed with the group of officers,
 and fell into emphatic though confidential speech.
 What struck our friend the diarist most was his special disposition
@@ -71,54 +71,54 @@ The two men were made for sympathy; they were men who `read
 their Bibles'; they were both the old Evangelical type of officer.
 However this may be, it is certain that when the general mounted
 again he was still talking earnestly to Murray; and that as he walked
-his horse slowly down the road towards the river, the tall
-Ulsterman still walked by his bridle rein in earnest debate.
+his [[Horse|horse]] slowly down the [[Road|road]] towards the [[River|river]], the tall
+Ulsterman still walked by his bridle rein in earnest [[debate]].
 The soldiers watched the two until they vanished behind
-a clump of trees where the road turned towards the river.
+a clump of trees where the [[Road|road]] turned towards the [[River|river]].
 The colonel had gone back to his tent, and the men to their pickets;
 the man with the diary lingered for another four minutes,
 and saw a marvellous sight.
 
-"The great white horse which had marched slowly down the road,
+"The great white [[Horse|horse]] which had marched slowly down the [[Road|road]],
 as it had marched in so many processions, flew back, galloping up
-the road towards them as if it were mad to win a race.
+the [[Road|road]] towards them as if it were mad to win a race.
 At first they thought it had run away with the man on its back;
 but they soon saw that the general, a fine rider, was himself urging
-it to full speed.  Horse and man swept up to them like a whirlwind;
+it to full [[Speed|speed]].  [[Horse]] and man swept up to them like a whirlwind;
 and then, reining up the reeling charger, the general turned on them
 a face like flame, and called for the colonel like the trumpet
 that wakes the dead.
 
 "I conceive that all the earthquake events of that catastrophe tumbled
 on top of each other rather like lumber in the minds of men such
-as our friend with the diary.  With the dazed excitement of a dream,
+as our friend with the diary.  With the dazed excitement of [[A Dream|a dream]],
 they found themselves falling--literally falling--into their ranks,
-and learned that an attack was to be led at once across the river.
+and learned that an attack was to be led at once across the [[River|river]].
 The general and the major, it was said, had found out something at the bridge,
-and there was only just time to strike for life.  The major had gone
-back at once to call up the reserve along the road behind; it was
-doubtful if even with that prompt appeal help could reach them in time.
-But they must pass the stream that night, and seize the heights by morning.
+and there was only just [[Time|time]] to strike for life.  The major had gone
+back at once to call up the reserve along the [[Road|road]] behind; it was
+doubtful if even with that prompt appeal help could reach them in [[Time|time]].
+But they must pass the stream that [[Night|night]], and seize the heights by morning.
 It is with the very stir and throb of that romantic nocturnal march
 that the diary suddenly ends."
 
-Father Brown had mounted ahead; for the woodland path
+[[Father Brown]] had mounted ahead; for the woodland path
 grew smaller, steeper, and more twisted, till they felt as if they
 were ascending a winding staircase.  The priest's voice came
 from above out of the darkness.
 
 "There was one other little and enormous thing.  When the general urged
-them to their chivalric charge he half drew his sword from the scabbard;
-and then, as if ashamed of such melodrama, thrust it back again.
-The sword again, you see."
+them to their chivalric charge he half drew his [[Sword|sword]] from the scabbard;
+and then, as if ashamed of such [[Melodrama|melodrama]], thrust it back again.
+The [[Sword|sword]] again, you see."
 
 A half-light broke through the network of boughs above them,
-flinging the ghost of a net about their feet; for they were
-mounting again to the faint luminosity of the naked night.
-Flambeau felt truth all round him as an atmosphere,
+flinging the [[Ghost|ghost]] of a net about their feet; for they were
+mounting again to the faint luminosity of the naked [[Night|night]].
+[[Flambeau]] felt [[Truth|truth]] all round him as an atmosphere,
 but not as an idea.  He answered with bewildered brain:
-"Well, what's the matter with the sword?  Officers generally
+"[[Well]], what's the matter with the [[Sword|sword]]?  Officers generally
 have swords, don't they?"
 
 "They are not often mentioned in modern war," said the other dispassionately;
-"but in this affair one falls over the blessed sword everywhere."
+"but in this affair one falls over the blessed [[Sword|sword]] everywhere."

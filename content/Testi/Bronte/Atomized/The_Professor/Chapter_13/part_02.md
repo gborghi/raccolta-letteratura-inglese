@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 12 (part 2)"
+title: "[[The Professor]] — Chapter 12 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -32,13 +32,13 @@ Dronsart: this is a Belgian, rather low of stature, in form heavy,
 
 with broad waist, short neck and limbs, good red and white complexion,
 
-features well chiselled and regular, well-cut eyes of a clear brown
+features [[Well|well]] chiselled and regular, [[Well|well]]-cut eyes of a clear brown
 
 colour, light brown hair, good teeth, age not much above fifteen, but as
 
 full-grown as a stout young Englishwoman of twenty. This portrait gives
 
-the idea of a somewhat dumpy but good-looking damsel, does it not? Well,
+the idea of a somewhat dumpy but good-looking [[Damsel|damsel]], does it not? [[Well]],
 
 when I looked along the row of young heads, my eye generally stopped at
 
@@ -76,7 +76,7 @@ dead, her Catalonian father was a merchant residing in the ---- Isles,
 
 where Juanna had been born and whence she was sent to Europe to be
 
-educated. I wonder that any one, looking at that girl’s head and
+educated. I [[Wonder|wonder]] that any one, looking at that girl’s head and
 
 countenance, would have received her under their roof. She had precisely
 
@@ -84,7 +84,7 @@ the same shape of skull as Pope Alexander the Sixth; her organs
 
 of benevolence, veneration, conscientiousness, adhesiveness, were
 
-singularly small, those of self-esteem, firmness, destructiveness,
+singularly small, those of [[Self|self]]-esteem, firmness, destructiveness,
 
 combativeness, preposterously large; her head sloped up in the penthouse
 
@@ -110,7 +110,7 @@ cipher. Mdlle. Trista thought fit to trouble my first lessons with a
 
 coarse work-day sort of turbulence; she made noises with her mouth like
 
-a horse, she ejected her saliva, she uttered brutal expressions; behind
+a [[Horse|horse]], she ejected her saliva, she uttered brutal expressions; behind
 
 and below her were seated a band of very vulgar, inferior-looking
 
@@ -120,7 +120,7 @@ and imbecility of intellect whose frequency in the Low Countries would
 
 seem to furnish proof that the climate is such as to induce degeneracy
 
-of the human mind and body; these, I soon found, were completely under
+of the human mind and [[Body|body]]; these, I soon found, were completely under
 
 her influence, and with their aid she got up and sustained a swinish
 
@@ -164,7 +164,7 @@ Doubtless it will be thought that I ought now, by way of contrast, to
 
 show something charming; some gentle virgin head, circled with a halo,
 
-some sweet personification of innocence, clasping the dove of peace to
+some sweet personification of [[innocence]], clasping the dove of peace to
 
 her bosom. No: I saw nothing of the sort, and therefore cannot portray
 
@@ -172,9 +172,9 @@ it. The pupil in the school possessing the happiest disposition was
 
 a young girl from the country, Louise Path; she was sufficiently
 
-benevolent and obliging, but not well taught nor well mannered;
+benevolent and obliging, but not [[Well|well]] taught nor [[Well|well]] mannered;
 
-moreover, the plague-spot of dissimulation was in her also; honour and
+moreover, the plague-spot of dissimulation was in her also; [[Honour|honour]] and
 
 principle were unknown to her, she had scarcely heard their names. The
 
@@ -188,7 +188,7 @@ physical organization was defective; weak health stunted her growth and
 
 chilled her spirits, and then, destined as she was for the cloister,
 
-her whole soul was warped to a conventual bias, and in the tame, trained
+her whole [[Soul|soul]] was warped to a conventual bias, and in the tame, trained
 
 subjection of her manner, one read that she had already prepared herself
 

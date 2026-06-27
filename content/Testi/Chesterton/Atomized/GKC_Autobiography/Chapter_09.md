@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 9"
+title: "[[GKC-Autobiography]] — Chapter 9"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -32,8 +32,8 @@ More frequently still, perhaps, it was a case of there being
 simultaneously two orators and no audience.  We argued throughout our
 boyhood and youth until we became the pest of our whole social circle.
 We shouted at each other across the table, on the subject of Parnell
-or Puritanism or Charles the First's head, until our nearest
-and dearest fled at our approach, and we had a desert around us.
+or [[Puritanism]] or Charles the First's head, until our nearest
+and dearest fled at our approach, and we had a [[Desert|desert]] around us.
 And though it is not a matter of undiluted pleasure to recall having
 been so horrible a nuisance, I am rather glad in other ways that we
 did so early thrash out our own thoughts on almost all the subjects
@@ -55,20 +55,20 @@ But in fact, by a process of elimination, we came more and more to think
 that the same sort of non-Puritan religion was the more plausible
 and promising; and to end eventually, but quite independently,
 in the same Church.  I think it was a good thing that we had tested
-every link of logic by mutual hammering.  I will even add something
+every link of [[logic]] by mutual hammering.  I will even add something
 that sounds too like a boast; though it is meant to be a tribute.
 I will say that the man who had got used to arguing with Cecil Chesterton
-has never since had any reason to fear an argument with anybody.
+has never since had any reason to [[Fear|fear]] an argument with anybody.
 
 The editor of the New Statesman, an acute critic of quite a different
 school from ours, said to me a little while ago, "Your brother was
 the very finest debater I have ever heard or heard of", and such editors,
 of course, had known all the politicians and popular speakers.
-The qualities of his speaking were those of logic and lucidity combined
-with a sort of violent and startling courage.  Indeed, he illustrated
-what I think is a common error on the subject of logic.
+The qualities of his speaking were those of [[logic]] and lucidity combined
+with a sort of violent and startling [[Courage|courage]].  Indeed, he illustrated
+what I think is a common error on the subject of [[logic]].
 The logician is too often presented as a prig; as a thin and frigid
-person of a pallid complexion.  Both in experience and history,
+person of a pallid complexion.  Both in experience and [[history]],
 I have generally found that it was very full-blooded and warm-hearted
 people who had that gift of clear and connected thought.
 Charles Fox was like that; Danton was like that; and Cecil Chesterton
@@ -77,17 +77,17 @@ the Chesterton simplicity and steadiness in his personal relations;
 his affections were particularly fixed and tranquil; but in
 battle he had a sort of bull-necked pugnacity and intolerance.
 He did not seem to wish to live and leave a fallacy alive;
-he certainly could not leave a fallacy alone.  The development of his
-political ideas was for a time decidedly divergent from my own.
+he certainly could not leave a fallacy [[Alone|alone]].  The development of his
+political ideas was for a [[Time|time]] decidedly divergent from my own.
 When I went to work with the Pro-Boers of the Daily News, and generally
 upheld the Liberal cause, though rather more romantically than
-many Liberals, he gravitated to a sort of practical Tory Democracy,
+many Liberals, he gravitated to a sort of practical Tory [[democracy|Democracy]],
 which was more and more permeated by the Socialism of Sidney Webb
-and Bernard Shaw.  He eventually became an active and effective
+and Bernard [[Shaw]].  He eventually became an active and effective
 member of the Fabian Executive.  But what was much more important,
 he had within him a living and most menacing sort of intolerance;
 a hatred of the real corruptions and hypocrisies of modern politics
-and an extraordinary idea of telling the truth.
+and an extraordinary idea of telling the [[Truth|truth]].
 
 I have already indicated that I myself, though I believed
 in Liberalism, was finding it dimly difficult to believe in Liberals.
@@ -95,7 +95,7 @@ It would be truer, perhaps, to say that I was finding it
 difficult to believe in politics; because the reality seemed
 almost unreal, as compared with the reputation or the report.
 I could give twenty instances to indicate what I mean; but they would
-be no more than indications, because the doubt itself was doubtful.
+be no more than indications, because the [[Doubt|doubt]] itself was doubtful.
 I remember going to a great Liberal club, and walking about in a
 large crowded room, somewhere at the end of which a bald gentleman
 with a beard was reading something from a manuscript in a low voice.
@@ -123,7 +123,7 @@ to the people who heard him, and what he was to the thousands
 of newspaper readers who did not hear him, was so huge a hiatus
 and disproportion that I do not think I ever quite got over it.
 I knew henceforward what was meant, or what might be meant,
-by a Scene in the House, or a Challenge from the Platform,
+by a Scene in the [[house|House]], or a Challenge from the Platform,
 or any of those sensational events which take place in the newspapers
 and nowhere else.
 
@@ -132,8 +132,8 @@ upon me, grew much more swiftly on my brother and my friend Belloc;
 because they were by temperament of a more rapid and resolute sort.
 They entered into a sort of partnership for the study of the question;
 and the outcome of that partnership was a book which had a
-considerable effect; though at that time, of course, it was mostly
-an effect of irritation or incredulity.  They collaborated in a work
+considerable effect; though at that [[Time|time]], of course, it was mostly
+an effect of irritation or [[Incredulity|incredulity]].  They collaborated in a work
 called The Party System; of which the general thesis was that there
 were really no Parties, though there certainly was a system.
 The system, according to this view, was essentially one of rotation;
@@ -141,13 +141,13 @@ but of rotation revolving on a central group, which really
 consisted of the leading politicians on both sides; or, as they
 were called for convenience in the book, "The Front Benches."
 An unreal conflict was kept up for the benefit of the public,
-and to a certain extent with the innocent assistance of the rank
-and file; but the Leader of the House was more truly in partnership
+and to a certain extent with the [[Innocent|innocent]] assistance of the rank
+and file; but the Leader of the [[house|House]] was more truly in partnership
 with the Leader of the Opposition than either of them were
-with their own followers, let alone their own constituents.
+with their own followers, let [[Alone|alone]] their own constituents.
 This was the thesis maintained in the book; and for the moment
 its immediate importance in this narrative is not so much concerned
-with its truth or falsehood as with the personal results arising
+with its [[Truth|truth]] or falsehood as with the personal results arising
 from the alliance of its two authors.  For the point of view attracted
 sufficient attention to lead a few supporters to launch a weekly paper;
 of which Belloc was the editor and Cecil Chesterton the sub-editor;
@@ -155,14 +155,14 @@ and to which I contributed first an occasional and eventually
 a weekly article.
 
 There had never been anything like the Eye-Witness in England before;
-certainly not within the memory of the oldest men then living.
+certainly not within the [[Memory|memory]] of the oldest men then living.
 Nor indeed has there ever been anything like it in England since.
 But its novelty and originality cannot be measured by those who
 can only compare it with what has happened in England since.
-It is a paradox palpably true that an original thing cannot at once
+It is a [[Paradox|paradox]] palpably true that an original thing cannot at once
 be successful and still seem original.  We can never appreciate
 how startling it might sound to be told that the earth was round,
-if we had really and invariably thought it was flat.  By this time,
+if we had really and invariably thought it was flat.  By this [[Time|time]],
 so to speak, its roundness has become more flat than its flatness.  It has
 become a dull platitude and only the denial of it would disturb us.
 So it is with political revolutions; and so it was with the considerable
@@ -175,24 +175,24 @@ or the virtue of the Victorian Age.  It is enough to say that it rested
 solidly on some social convictions, that were not only conventions.
 One of them was the belief that English politics were not only
 free from political corruption, but almost entirely free from
-personal motives about money.  It was a point of patriotic pride
+personal motives about money.  It was a point of patriotic [[Pride|pride]]
 that set a limit to the fiercest movements of party anger.
 I can remember that old Tories like my grandfather would actually
 pause in the full sweep of their denunciations of the demoniac
 conduct of Mr. Gladstone, to wave away the faintest suggestion
 that there could be any fiends rending the souls of our statesmen
-less erected, as Milton says, than the fiends of ambition
-or jealousy; "Heaven forbid that I should suggest that any
+less erected, as [[Milton]] says, than the fiends of [[Ambition|ambition]]
+or [[Jealousy|jealousy]]; "Heaven forbid that I should suggest that any
 English Prime Minister ..." No; Frenchmen might have discovered
 the negotiable value of coins of the realm; Italians and Austrians
-might think it well worthwhile to double their income; the statesmen
+might think it [[Well|well]] worthwhile to [[Double|double]] their income; the statesmen
 of Bulgaria or Bolivia might have some notion of the meaning of money;
 but English politicians passed their lives in an absent-minded trance,
-like that of Mr. Skimpole; kept their eyes fixed on the fixed stars,
+like that of Mr. Skimpole; kept their eyes fixed on the fixed [[Stars|stars]],
 never enquired whether politics had made them richer or poorer;
 and received their salaries with a start of surprise.
 
-Well, for good or evil, that is all dead.  And what killed it
+[[Well]], for good or evil, that is all dead.  And what killed it
 was primarily the journalistic explosion called the Eye-Witness;
 and especially its dealing with the Marconi Case and the question
 of the Sale of Peerages.  In one sense indeed, as I shall
@@ -209,7 +209,7 @@ For that is the weak side of the ultimate result of the revelations.
 The object of the Eye-Witness was to make the English public
 know and care about the peril of political corruption.
 It is now certain that the public does know.  It is not so certain
-that the public does care.  And we may well warn the more cynical
+that the public does care.  And we may [[Well|well]] warn the more cynical
 and realistic generation around us not to be too confident in its
 superiority to the hoodwinked and humbug-ridden nineteenth century.
 I know that my Victorian uncles did not know how England is
@@ -218,26 +218,26 @@ uncles had known, they would have been horrified and not amused;
 and they would have put a stop to it somehow.  Nobody is trying
 to put a stop to it now.
 
-It is the fashion to divide recent history into Pre-War and
+It is the fashion to divide recent [[history]] into Pre-War and
 Post-War conditions.  I believe it is almost as essential to divide
 them into the Pre-Marconi and Post-Marconi days.  It was during
 the agitations upon that affair that the ordinary English citizen lost
-his invincible ignorance; or, in ordinary language, his innocence.
+his invincible ignorance; or, in ordinary language, his [[innocence]].
 And as I happened to play a part, secondary indeed, but definite,
 in the quarrel about this affair, and as in any case anything that my
 brother did was of considerable importance to me and my affairs,
-it will be well to pause for a moment upon this peculiar business;
-which was at the time, of course, systematically misrepresented and which
+it will be [[Well|well]] to pause for a moment upon this peculiar business;
+which was at the [[Time|time]], of course, systematically misrepresented and which
 is still very widely misunderstood.  I think it probable that centuries
 will pass before it is seen clearly and in its right perspective;
 and that then it will be seen as one of the turning-points in the whole
-history of England and the world.
+[[history]] of England and the world.
 
 There are various legends about it.  One is, for instance,
 the legend that we denounced certain Cabinet Ministers because they
 gambled on the Stock Exchange.  It is likely enough that we
 did make fun of a man like Mr. Lloyd George, who made himself
-the mouthpiece of the Nonconformist Conscience and called on
+the mouthpiece of the Nonconformist [[Conscience]] and called on
 all the chapels to show forth the old fighting Puritan spirit,
 when he appeared in a transaction uncommonly like a gamble;
 just as we should denounce a politician who drank champagne
@@ -250,23 +250,23 @@ indulging in a bet or a wager; though he might possibly have
 recommended him to do a flutter on the Derby or the Oaks rather
 than on the Stock Exchange.  But, as a fact, the whole notion
 that the question was one of merely doing a flutter is a fiction.
-It is a fiction, which was put up by the politicians at the time,
+It is a fiction, which was put up by the politicians at the [[Time|time]],
 as a mask for the fact.  The charge against the Marconi Ministers
 was that they received a tip, or were "let in on the ground-floor,"
-as the financial phrase goes, by a government contractor whose contract
-was at the time being considered or accepted by the Government.
+as the financial phrase goes, by a [[government]] contractor whose contract
+was at the [[Time|time]] being considered or accepted by the [[government|Government]].
 In fact, on the face of it at any rate, there were all the conditions
 that go to make up what is commonly called "a secret commission."
 Whether the acceptance of the tip did or did not affect the acceptance
 of the contract might be argued; but the question at issue
 was one of a contract and a tip, and not of an ordinary little
 flutter in stocks and shares.  The pivotal fact of the position,
-of course, was that the Government contractor was the brother
-of one of these members of the Government.  The very extraordinary
-monopoly which the Government then granted to the Marconi Company
+of course, was that the [[government|Government]] contractor was the brother
+of one of these members of the [[government|Government]].  The very extraordinary
+monopoly which the [[government|Government]] then granted to the Marconi Company
 was in fact granted to its managing director, Mr. Godfrey Isaacs,
 the brother of Sir Rufus Isaacs, then the Attorney General.
-These facts alone justified at least enquiry; and the first efforts
+These facts [[Alone|alone]] justified at least enquiry; and the first efforts
 of all the politicians were directed to preventing any enquiry at all.
 
 Until the editor of the Eye-Witness forced the politicians to
@@ -281,17 +281,17 @@ Sir Rufus Isaacs made the same distant denial in almost the same words;
 in fact he drew quite a quaint picture of the far-off,
 the almost frigid relations between himself and Mr. Godfrey Isaacs;
 and spoke of having once met his brother "at a family function,"
-and heard for the first time of the success of his government contract.
+and heard for the first [[Time|time]] of the [[success]] of his [[government]] contract.
 Meanwhile my brother, who had succeeded to the full editorship of the
 paper and renamed it the New Witness, continued a confessedly violent,
 not to say abusive attack on the Isaacses, but latterly and largely
 on the previous career of Mr. Godfrey Isaacs as a promoter of
-ephemeral companies.  Eventually, Mr. Godfrey Isaacs prosecuted my
+[[ephemeral]] companies.  Eventually, Mr. Godfrey Isaacs prosecuted my
 brother for the personal libel on himself; much to my brother's delight.
 It is a rather remarkable fact that on the very day that my brother's
 reply was received, announcing that he intended to justify or
 prove his statement, the politicians took the first step towards
-telling some of the truth.  The step may at first sight seem odd.
+telling some of the [[Truth|truth]].  The step may at first sight seem odd.
 It consisted of prosecuting for libel a French paper called Le Matin.
 
 It seems odd; because there were some very conspicuous English
@@ -319,8 +319,8 @@ diversion that I published some verses in the New Witness beginning:
   The anger of a gentleman
   Is boiling in my head.
 
-The actual method, of course, is by this time familiar enough.
-Some fool who has got the facts wrong is always prosecuted,
+The actual method, of course, is by this [[Time|time]] familiar enough.
+Some [[Fool|fool]] who has got the facts wrong is always prosecuted,
 instead of the serious critics who have got the facts right.
 And, in the case of Le Matin, the occasion was merely used as an
 opportunity for the Ministers involved to give their own version
@@ -334,49 +334,49 @@ Of course, the ordinary Tory press would have done exactly the same
 with an ordinary Tory scandal, of which there were quite as many.
 But I should like to name and record here, honoris causa and for
 the credit of himself and the true Radical creed, the name of the late
-H. W. Massingham, the editor of The Nation, who alone in such a
+H. W. Massingham, the editor of The Nation, who [[Alone|alone]] in such a
 crisis spoke and acted like a man.  He was as devoted to the Party
-of Peace, Retrenchment and Reform, as any of the others; but his
+of Peace, Retrenchment and [[Reform]], as any of the others; but his
 devotion took the form of an instant appreciation of its moral danger.
-He came home from the Matin explanation, shaken and horror-stricken,
+He came [[Home|home]] from the Matin explanation, shaken and horror-stricken,
 and he printed in his paper the words, "Political corruption is
-the Achilles heel of Liberalism."
+the [[Achilles]] heel of Liberalism."
 
 Attempts were made afterwards to justify all this inconsistency
 and contradiction, by explaining that the shares had been taken
 in the American branch of the enterprise and that the Parliamentary
 explanations had only referred to "this Company."  I must confess
-that I should feel very much more charity towards the fiction,
+that I should feel very much more [[Charity|charity]] towards the fiction,
 if it were not for the explanation.  I might easily forget and forgive,
 after all these years, if the politicians said they had lied
 as schoolboys lie, out of loyalty to their own class or club;
-and under certain conventions of Parliamentary self-defence;
+and under certain conventions of Parliamentary [[Self|self]]-defence;
 I might even think that this conventional fidelity was not
-so much merely dishonourable as a perverted form of honour.
+so much merely dishonourable as a perverted form of [[Honour|honour]].
 But if they say that a statement of that sort was not fiction,
 because the word "American" was suppressed, then (I grieve to say)
-I could only conclude that they did not know the meaning of truth.
+I could only conclude that they did not know the meaning of [[Truth|truth]].
 The test is perfectly simple.  Suppose they had got up and told
-the whole simple truth saying, "These Ministers have shares in American
+the whole simple [[Truth|truth]] saying, "These Ministers have shares in American
 but not in English Marconis," the result would have been a shock;
 which they meant to avoid and did avoid.  In other words, on their own
 theory of their own action, they meant to deceive and did deceive.
-That they deceived by a verbal equivocation of the double
+That they deceived by a verbal equivocation of the [[Double|double]]
 sense of "this Company" does not make it better, but worse.
 However, all their moral ideas were in such confusion that we need
 not necessarily even believe their explanation of their explanation.
 Their real reason may even have been better than their false excuse;
 and their lie may have been more loyal than they had the
-courage to confess.
+[[Courage|courage]] to confess.
 
 Another legend about the Marconi Case, floating about like a cloud
 and obscuring its true outline, is this notion that my brother being
 convicted and fined the rather nominal sum of £100 was a legal answer
 to the attack on the Marconi Ministers.  This is, as the lawyers say,
-a question of law as well as fact; and in both it is quite false.
+a question of law as [[Well|well]] as fact; and in both it is quite false.
 Mr. Justice Phillimore, who was opposed to our case in a degree rather
 beyond the limits of the judicial, was nevertheless a very lucid
-and precise lawyer; and he left no doubt on this point whatever.
+and precise lawyer; and he left no [[Doubt|doubt]] on this point whatever.
 In his summing up, he said most emphatically that the jury had
 nothing whatever to do with the question of whether the politicians
 had improperly dabbled in Marconis; that their verdict was not
@@ -398,7 +398,7 @@ while he undoubtedly used all the violent vocabulary of Cobbett
 in attacking Godfrey Isaacs and the rest, he had not in fact
 the faintest grain of malice, or even irritation.  He always spoke
 of the brothers Isaacs and their set, in private conversation,
-with perfect good-humour and charity; allowing for their Jewish
+with perfect good-[[Humour|humour]] and [[Charity|charity]]; allowing for their Jewish
 virtues of family loyalty and the rest, and even finding excuses
 for the other politicians; though it is extremely typical of the real
 attitude of our group, which was accused of fanatical Anti-Semitism,
@@ -410,19 +410,19 @@ to imagine.  And there is to be added to this a curious and ironic
 conclusion of the matter; for many years after my brother received
 the Last Sacraments and died in a hospital in France, his old enemy,
 Godfrey Isaacs, died very shortly after having been converted
-to the same universal Catholic Church.  No one would have rejoiced
+to the same universal [[Catholic Church]].  No one would have rejoiced
 more than my brother; or with less bitterness or with more simplicity.
-It is the only reconciliation; and it can reconcile anybody.
+It is the only [[Reconciliation|reconciliation]]; and it can reconcile anybody.
 Requiescat in pace.
 
 Finally, it may be worth noting that the last and least worthy of
 the legends about the Marconi Case was a notion, which I found floating
-about at one time, that my brother and Mr. Belloc had parted company on
+about at one [[Time|time]], that my brother and Mr. Belloc had parted company on
 the matter, because Mr. Belloc in his evidence had referred the examiners
 to my brother as responsible editor of the later issues of the paper.
 As one who was inside all the councils, and was naturally prejudiced
 if anything on my brother's side, I may testify that there was
-never a word of truth in this supposed division or desertion.
+never a word of [[Truth|truth]] in this supposed division or desertion.
 The policy of my brother, claiming to answer all questions himself,
 may have been wise or unwise; I myself had my doubts about its wisdom.
 But such as it was, it was adopted by him in consultation with Mr. Belloc,
@@ -438,9 +438,9 @@ But what makes me laugh is the thought of the poor puzzled,
 honest and indignant Tories, who read the Morning Post and imagined
 that a Tory chivalry was storming the fortress of corrupt Radicalism,
 when they read the Parliamentary Debates on the subject;
-and especially the passage in which Arthur Balfour said that they
-must judge men like Lloyd George (whom they knew so well and loved
-so much) more leniently than they would judge a common outsider.
+and especially the passage in which [[arthur|Arthur]] Balfour said that they
+must judge men like Lloyd George (whom they knew so [[Well|well]] and loved
+so much) more leniently than they would judge a common [[Outsider|outsider]].
 The poor Primrose League must have been horribly mystified
 by the problem of this mildness on the Front Benches.
 They would have found the answer to the problem in a book called
@@ -456,15 +456,15 @@ of the seriousness, I will not say of the Orangeman, but certainly of
 the seriousness with which the Englishman really regards the Orangeman.
 And that threat of civil war from Northern Ireland was very largely
 lashed into extravagance, as an expedient for proving that the
-Party System did mean something after all.  For a very long time past,
-the Irish Question had been the only life in the English Parliament.
+Party System did mean something after all.  For a very long [[Time|time]] past,
+the [[Irish Question]] had been the only life in the English Parliament.
 It was alive because it was concerned with religion, or with
-two religions; and when the Irish question was withdrawn,
+two religions; and when the [[Irish Question|Irish question]] was withdrawn,
 the English Parliamentary Party System visibly fell to pieces.
 But there were other ways in which the issue of corruption continued
 to affect the country in wartime; not least in the Dope Scandal and in
 the fact that firms did brazenly continue to trade with the enemy.
-But in truth, the evil connection went back further than that.
+But in [[Truth|truth]], the evil connection went back further than that.
 As a fact, it goes back to the very beginning of the War, though few
 people even began to understand it until long afterwards.
 
@@ -475,33 +475,33 @@ and almost certainly surprise the man himself.  I should not say
 the Kaiser; for that simplification was only one of the series of
 British bogeys like Kruger before or Mussolini afterwards; though I am
 quite certain the evil originally arose with the power of Prussia.
-Still less should I say the Czar of Russia or some Slavonic fanatic
+Still less should I say the Czar of [[Russia]] or some Slavonic fanatic
 who committed a crime at Sarajevo.  Long after the acts and attitudes
 of all these people were recognised, it would have been perfectly
 possible to avoid the war; and nearly everybody wanted to avoid it.
-I should say that the fire-eater, who precipitated it when others
+I should say that the [[Fire|fire]]-eater, who precipitated it when others
 might have prevented it, was some sort of worthy Quaker of the type
 of old Mr. Cadbury, whom I knew and served in my youth.
 
 And it all arose out of the existence of the Party System;
 or rather, in a sense, out of the non-existence of the Party System.
 When the public theory of a thing is different from the practical
-reality of that thing, there is always a convention of silence that
+reality of that thing, there is always a convention of [[Silence|silence]] that
 cannot be broken; there are things that must not be said in public.
 The fact concealed in this case exactly illustrated the thesis
 of the book called, The Party System; that there were not two real
 parties ruling alternately, but one real group, "the Front Benches,"
-ruling all the time.  The fact here was that the foreign policy of
+ruling all the [[Time|time]].  The fact here was that the foreign policy of
 Asquith and Grey did not vitally differ from that which would have been
 pursued by Balfour and Bonar Law.  All were patriots upon this point;
 all were, in my personal opinion, right; but anyhow, all thought that
-England would have to intervene if Germany threatened France.  They all
+England would have to intervene if [[Germany]] threatened France.  They all
 thought so; and if they had all said so, and said so months before,
-Germany would never have challenged the power of such an alliance.
+[[Germany]] would never have challenged the power of such an alliance.
 My brother and many millions more would be walking about alive.
 
-The Liberal leaders could not say so; not for fear of the Liberty Party,
-let alone the people; but for fear of the particular and powerful
+The Liberal leaders could not say so; not for [[Fear|fear]] of the Liberty Party,
+let [[Alone|alone]] the people; but for [[Fear|fear]] of the particular and powerful
 forces which supported the Liberal Party; and therefore supported
 the Party System.  And under the conditions of our party politics, a party
 is supported not so much by fighting as by funds.  They are called,
@@ -509,38 +509,38 @@ heaven knows why, in a most extraordinary metaphor, "the sinews of war."
 They are provided by the sale of peerages to rich men and all sorts
 of ignominious methods; but there is no question of such methods here.
 Many such party supporters, and certainly Mr. Cadbury,
-were in complete good faith, especially about supporting Peace.
+were in complete good [[Faith|faith]], especially about supporting Peace.
 But very many of them were Quakers, simply because the Quakers
 happened to possess a minority of millionaires, a group much
 smaller but much richer than the Liberal Party as a whole.
 And the very constitution of modern party politics is such that a
-government has to placate such supporters, and profess to represent
+[[government]] has to placate such supporters, and profess to represent
 their ideals or prejudices, or whatever we happen to think them.
 In short, the whole thing was and is a plutocracy; but it was not
 specially in this case the fault of this group of plutocrats.
 
 That increasing number of intellectuals, who are content to say
-that Democracy has been a failure, miss the point of the far
-more disastrous calamity that Plutocracy has been a success.
-I mean it has been the only sort of success it could be;
-for Plutocracy has no philosophy or morals or even meaning;
-it can only be a material success, that is, a base success.
-Plutocracy can only mean the success of plutocrats in being plutocrats.
-But this they enjoyed until a short time ago, when an economic judgment
-shook them like an earthquake.  With Democracy the cast is exactly
-the reverse.  We may say, with some truth, that Democracy has failed;
-but we shall only mean that Democracy has failed to exist.
+that [[democracy|Democracy]] has been a failure, miss the point of the far
+more disastrous calamity that Plutocracy has been a [[success]].
+I mean it has been the only sort of [[success]] it could be;
+for Plutocracy has no [[philosophy]] or morals or even meaning;
+it can only be a material [[success]], that is, a base [[success]].
+Plutocracy can only mean the [[success]] of plutocrats in being plutocrats.
+But this they enjoyed until a short [[Time|time]] ago, when an economic judgment
+shook them like an earthquake.  With [[democracy|Democracy]] the cast is exactly
+the reverse.  We may say, with some [[Truth|truth]], that [[democracy|Democracy]] has failed;
+but we shall only mean that [[democracy|Democracy]] has failed to exist.
 It is nonsense to say that the complicated but centralised
 Capitalist States of the last hundred years have suffered from an
 extravagant sense of the equality of men or the simplicity of manhood.
 At most we might say that the civic theory has provided a sort
 of legal fiction, behind which a rich man could rule a civilisation
-where he could once rule a city; or a usurer throw his net over
+where he could once rule a [[City|city]]; or a usurer throw his net over
 six nations, where he once threw it over one village.  But there
 is no stronger proof of the fact that it emphatically is plutocracy,
-and most emphatically is not democracy, that has caused popular
+and most emphatically is not [[democracy]], that has caused popular
 institutions to become unpopular, than this example of the pull of
-the Pacifists upon the Liberal Government just before the Great War.
+the Pacifists upon the Liberal [[government|Government]] just before the Great War.
 It is only necessary to ask exactly how much such extreme Pacifists
 counted in the Party Fund, and how much they counted in the Party.
 
@@ -550,7 +550,7 @@ He would have given them the normal attention that he would give
 to the votes of the Plymouth Brethren or the Peculiar People,
 who would very probably have the habit of voting Liberal.
 There are not enough individual Quakers to create a landslide
-of votes at a General Election.  By the nature of modern politics,
+of votes at a General Election.  By the [[Nature|nature]] of modern politics,
 and nobody's fault in particular, the whole point and pivot of
 the situation was not the large proportion of men who were Quakers,
 but the large proportion of Quakers who were millionaires.
@@ -561,11 +561,11 @@ of traitors could and did trade with the enemy throughout the War,
 that the worst sort of profiteers could and did blackmail their own
 country for bloodsucking profits in the worst hour of her peril,
 that the worst sort of politicians could play any game they liked
-with the honour of England and the happiness of Europe, if they
+with the [[Honour|honour]] of England and the happiness of Europe, if they
 were backed and boomed by some vulgar monopolist millionaire;
 and these insolent interests nearly brought us to a crash in the
-supreme crisis of our history; because Parliament had come to mean
-only a secret government by the rich.
+supreme crisis of our [[history]]; because Parliament had come to mean
+only a secret [[government]] by the rich.
 
 So ended the last considerable attempt to purge Parliament, or the ancient
 institution of the English.  Some years before a similar attempt had

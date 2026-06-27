@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Ghost of Gideon Wise"
+title: "[[Incredulity]] — The [[Ghost]] of Gideon Wise"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-EIGHT:  The Ghost of Gideon Wise
+EIGHT:  The [[Ghost]] of Gideon Wise
 
-FATHER BROWN always regarded the case as the queerest
+[[Father Brown|FATHER BROWN]] always regarded the case as the queerest
 example of the theory of an alibi:  the theory by which it
 is maintained, in defiance of the mythological Irish bird,
 that it is impossible for anybody to be in two places at once.
@@ -38,17 +38,17 @@ herald or the new ambassador.
 
 He found the three mining magnates hidden in a jungle of flowering
 plants and a forest of fluted and florid columns of gilded plaster;
-gilded birdcages hung high under the painted domes amid the highest leaves
-of the palms; and in them were birds of motley colours and varied cries.
+gilded birdcages hung high under the painted domes amid the highest [[Leaves|leaves]]
+of the palms; and in them were [[Birds|birds]] of motley colours and varied cries.
 No bird in the wilderness ever sang more unheeded, and no flower ever
-wasted its sweetness on the desert air more completely than the blossoms
+wasted its sweetness on the [[Desert|desert]] air more completely than the blossoms
 of those tall plants wasted theirs upon the brisk and breathless business
 men, mostly American, who talked and ran to and fro in that place.
 And there, amid a riot of rococo ornament that nobody ever looked at,
-and a chatter of expensive foreign birds that nobody ever heard, and a
+and a chatter of expensive foreign [[Birds|birds]] that nobody ever heard, and a
 mass of gorgeous upholstery and a labyrinth of luxurious architecture,
-the three men sat and talked of how success was founded on thought
-and thrift and a vigilance of economy and self--control.
+the three men sat and talked of how [[success]] was founded on thought
+and thrift and a vigilance of economy and [[Self|self]]--control.
 
 One of them indeed did not talk so much as the others; but he watched
 with very bright and motionless eyes, which seemed to be pinched
@@ -88,7 +88,7 @@ for us unofficially.  You know where these men meet; there are
 only two or three of them that count, John Elias and Jake Halket,
 who does all the spouting, and perhaps that poet fellow Home.'
 
-`Why Home used to be a friend of Gideon,' said the jeering Mr Gallup;
+`Why [[Home]] used to be a friend of Gideon,' said the jeering Mr Gallup;
 `used to be in his Sunday School class or something.'
 
 `He was a Christian, then,' said old Gideon solemnly; `but when a man
@@ -97,9 +97,9 @@ I was quite ready to back him against war and conscription and all that,
 of course, but when it comes to all the goddam bolshies in creation--`
 
 `Excuse me,' interposed Stein, `the matter is rather urgent,
-so I hope you will excuse me putting it before Mr Byrne at once.
+so I [[Hope|hope]] you will excuse me putting it before Mr Byrne at once.
 Mr Byrne, I may tell you in confidence that I hold information,
-or rather evidence that would land at least two of those men in prison
+or rather evidence that would land at least two of those men in [[Prison|prison]]
 for long terms, in connexion with conspiracies during the late war.
 I don't want to use that evidence.  But I want you to go to them
 quietly and tell them that I shall use it, and use it tomorrow,
@@ -170,9 +170,9 @@ enough to set Jake off with a torrent of profanity.
 `Heaven forbid! and that's about all it bally well does do,' he said.
 `Heaven never does anything but forbid this, that and the other;
 forbids us to strike, and forbids us to fight, and forbids us to shoot
-the damned usurers and blood--suckers where they sit.  Why doesn't
+the damned usurers and [[Blood|blood]]--suckers where they sit.  Why doesn't
 Heaven forbid them something for a bit?  Why don't the damned priests
-and parsons stand up and tell the truth about those brutes for a change?
+and parsons stand up and tell the [[Truth|truth]] about those brutes for a change?
 Why doesn't their precious God--`
 
 Elias allowed a gentle sigh, as of faint fatigue, to escape him.
@@ -183,7 +183,7 @@ of the problem.  The part once played by the priest is now played
 by the capitalist expert and--`
 
 `Yes,' interrupted the journalist, with his grim and ironic implacability,
-`and it's about time you knew that some of them are jolly expert in
+`and it's about [[Time|time]] you knew that some of them are jolly expert in
 playing it.'  And without moving his own eyes from the bright but dead
 eyes of Elias, he told him of the threat of Stein.
 
@@ -225,11 +225,11 @@ of it blocked by a strange though strangely familiar figure:
 short and sturdy, and looking rather quaint when seen in dark
 outline with its round head and wide hat.
 
-`Father Brown!' cried the astonished journalist.
+`[[Father Brown]]!' cried the astonished journalist.
 `I think you must have come into the wrong door.
 You're not likely to be in this little conspiracy.'
 
-`Mine is a rather older conspiracy,' replied Father Brown smiling,'
+`Mine is a rather older conspiracy,' replied [[Father Brown]] smiling,'
 but it is quite a widespread conspiracy.'
 
 `Well,' replied Byrne,' you can't imagine any of the people here being
@@ -268,7 +268,7 @@ the young man's sharp eyes shifted and he said quickly:
 So easy to say anvil when you mean ice--box.'
 
 With which the extraordinary young man disappeared down the steps
-and Byrne continued to mount them, more and more mystification
+and Byrne continued to mount them, more and more [[Mystification|mystification]]
 clouding his mind.
 
 He found the group of three augmented to four by the presence
@@ -279,15 +279,15 @@ His name was Nares, and the questions which he directed towards
 Byrne referred chiefly, for some reason or other, to the number
 of those probably enrolled in the revolutionary organization.
 Of this, as Byrne knew little, he said less; and the four men
-eventually rose from their seats, the last word being with the man
+eventually [[Rose|rose]] from their seats, the last word being with the man
 who had been most silent.
 
 `Thank you, Mr Byrne,' said Stein, folding up his eyeglasses.
 `It only remains to say that everything is ready; on that point
-I quite agree with Mr Elias.  Tomorrow, before noon, the police
+I quite agree with Mr Elias.  Tomorrow, before [[Noon|noon]], the police
 will have arrested Mr Elias, on evidence I shall by then
 have put before them, and those three at least will be in jail
-before night.  As you know, I attempted to avoid this course.
+before [[Night|night]].  As you know, I attempted to avoid this course.
 I think that is all, gentlemen.'
 
 But Mr Jacob P. Stein did not lay his formal information next day,
@@ -395,7 +395,7 @@ the whole war because I would not consent to kill a man.'
 With that they passed out, and the members of the group remaining
 looked grimly at each other.
 
-`I hardly think,' said Father Brown, `that we remain entirely victorious,
+`I hardly think,' said [[Father Brown]], `that we remain entirely victorious,
 in spite of the retreat.'
 
 `I don't mind anything,' said Nares, `except being
@@ -430,11 +430,11 @@ I have every reason to believe he will probably end as a Catholic.'
 from morning till night!'
 
 `I don't think you quite understand that kind of man,'
-said Father Brown mildly.  'He curses priests for failing
+said [[Father Brown]] mildly.  'He curses priests for failing
 (in his opinion) to defy the whole world for justice.
 Why should he expect them to defy the whole world for justice,
 unless he had already begun to assume they were--what they are?
-But we haven't met here to discuss the psychology of conversion.
+But we haven't met here to discuss the psychology of [[conversion]].
 I only mention this because it may simplify your task--
 perhaps narrow your search.'
 
@@ -459,7 +459,7 @@ down heavily in a chair.  Then he said, as in a sort of daze:
 better come back.'
 
 The remains of evening refreshments were on the table,
-and Henry Home, that lifelong Prohibitionist, poured himself
+and Henry [[Home]], that lifelong Prohibitionist, poured himself
 out a wine--glassful of liqueur brandy and drank it at a gulp.
 `You seem upset,' said Father Brown.
 
@@ -467,28 +467,28 @@ Home had put his hands to his forehead and spoke as from under
 the shadow of it:  he seemed to be speaking to the priest only,
 in a low voice.
 
-`I may as well tell you.  I have seen a ghost.'
+`I may as [[Well|well]] tell you.  I have seen a [[Ghost|ghost]].'
 
-`A ghost!' repeated Nares in astonishment.  `Whose ghost?'
+`A ghost!' repeated Nares in astonishment.  `Whose [[Ghost|ghost]]?'
 
 `The ghost of Gideon Wise, the master of this house,' answered Home
 more firmly, `standing over the abyss into which he fell.'
 
-`Oh, nonsense!' said Nares; `no sensible person believes in ghosts.'
+`Oh, nonsense!' said Nares; `no sensible person believes in [[Ghosts|ghosts]].'
 
 `That is hardly exact,' said Father Brown, smiling a little.
-`There is really quite as good evidence for many ghosts as there
+`There is really quite as good evidence for many [[Ghosts|ghosts]] as there
 is for most crimes.'
 
 `Well, it's my business to run after the criminals,' said Nares rather
-roughly, `and I will leave other people to run away from the ghosts.
-If anybody at this time of day chooses to be frightened of ghosts
+roughly, `and I will leave other people to run away from the [[Ghosts|ghosts]].
+If anybody at this [[Time|time]] of day chooses to be frightened of [[Ghosts|ghosts]]
 it's his affair.'
 
 `I didn't say I was frightened of them, though I dare say I
 might be,' said Father Brown.  `Nobody knows till he tries.
 I said I believed in them, at any rate, enough to want to hear
-more about this one.  What, exactly, did you see, Mr Home?'
+more about this one.  What, exactly, did you see, Mr [[Home]]?'
 
 `It was over there on the brink of those crumbling cliffs; you know
 there is a sort of gap or crevice just about the spot where he was
@@ -510,7 +510,7 @@ and terrible as the fixed lightning.'
 
 `And it was Gideon Wise, you say?'
 
-Home nodded without speech.  There was a silence broken abruptly
+[[Home]] nodded without speech.  There was a [[Silence|silence]] broken abruptly
 by Nares rising to his feet; so abruptly indeed that he knocked
 a chair over.
 
@@ -523,17 +523,17 @@ by that path again.'
 'though I will never deny it has been a perilous path ... to more
 people than one.'
 
-`I will not... God, how you all goad me,' cried Home, and his eyes
+`I will not... God, how you all goad me,' cried [[Home]], and his eyes
 began to roll in a strange fashion.  He had risen with the rest,
 hut he made no motion towards the door.
 
-`Mr Home,' said Nares firmly, `I am a police--officer, and this house,
+`Mr Home,' said Nares firmly, `I am a police--officer, and this [[house]],
 though you may not know it, is surrounded by the police.
 I have tried to investigate in a friendly fashion, but I must
-investigate everything, even anything so silly as a ghost.
+investigate everything, even anything so silly as a [[Ghost|ghost]].
 I must ask you to take me to the spot you speak of.'
 
-There was another silence while Home stood heaving and panting
+There was another [[Silence|silence]] while [[Home]] stood heaving and panting
 as with indescribable fears.  Then he suddenly sat down on his chair
 again and said with an entirely new and much more composed voice:
 
@@ -551,10 +551,10 @@ of a mouse.
 the chair, moodily gnawing his finger.  `I was mad, I suppose.
 He was intolerable and insolent, I know.  I was on his land and I
 believe he struck me; anyhow, we came to a grapple and he went
-over the cliff.  When I was well away from the scene it burst
+over the cliff.  When I was [[Well|well]] away from the scene it burst
 upon me that I had done a crime that cut me off from men;
-the brand of Cain throbbed on my brow and my very brain;
-I realized for the first time that I had indeed killed a man.
+the brand of [[Cain]] throbbed on my brow and my very brain;
+I realized for the first [[Time|time]] that I had indeed killed a man.
 I knew I should have to confess it sooner or later.'
 He sat suddenly erect in his chair.  `But I will say nothing
 against anybody else.  It is no use asking me about plots
@@ -564,7 +564,7 @@ or accomplices--I will say nothing.'
 to believe that the quarrel was quite so unpremeditated.
 Surely somebody sent you there?'
 
-`I will say nothing against anybody I worked with,' said Home proudly.
+`I will say nothing against anybody I worked with,' said [[Home]] proudly.
 `I am a murderer, but I will not be a traitor.'
 
 Nares stepped between the man and the door and called out in an official
@@ -578,11 +578,11 @@ was a very silly anti--climax after the confession of the murderer.
 But Nares, though the most sceptical and scornful of all,
 thought it his duty to leave no stone unturned; as one might say,
 no gravestone unturned.  For, after all, that crumbling cliff was
-the only gravestone over the watery grave of poor Gideon Wise.
-Nares locked the door, being the last out of the house, and followed
+the only gravestone over the watery [[Grave|grave]] of poor Gideon Wise.
+Nares locked the door, being the last out of the [[house]], and followed
 the rest across the moor to the cliff, when he was astonished to see
 young Potter, the secretary, coming back quickly towards them,
-his face in the moonlight looking white as a moon.
+his face in the moonlight looking white as a [[Moon|moon]].
 
 `By God, sir,' he said, speaking for the first time that night,
 `there really is something there.  It--it's just like him.'
@@ -596,7 +596,7 @@ with singular bitterness.  `I have reason to.'
 reason to hate him, as Halket said.'
 
 `Perhaps,' said the secretary; `anyhow, I know him, and I tell you I can
-see him standing there stark and staring under this hellish moon.'
+see him standing there stark and staring under this hellish [[Moon|moon]].'
 
 And he pointed towards the crack in the cliffs, where they could already
 see something that might have been a moonbeam or a streak of foam,
@@ -606,39 +606,39 @@ but it looked like a statue in silver.
 
 Nares himself looked a little pale and seemed to stand
 debating what to do.  Potter was frankly as much frightened
-as Home himself; and even Byrne, who was a hardened reporter,
+as [[Home]] himself; and even Byrne, who was a hardened reporter,
 was rather reluctant to go any nearer if he could help it.
 He could not help considering it a little quaint, therefore,
 that the only man who did not seem to be frightened of a
-ghost was the man who had said openly that he might be.
-For Father Brown was advancing as steadily, at his stumping pace,
+[[Ghost|ghost]] was the man who had said openly that he might be.
+For [[Father Brown]] was advancing as steadily, at his stumping pace,
 as if he were going to consult a notice--board.
 
 `It don't seem to bother you much,' said Byrne to the priest;
 `and yet I thought you were the only one who believed in spooks.'
 
 `If it comes to that,' replied Father Brown, `I thought you were one
-who didn't believe in them.  But believing in ghosts is one thing,
-and believing in a ghost is quite another.'
+who didn't believe in them.  But believing in [[Ghosts|ghosts]] is one thing,
+and believing in a [[Ghost|ghost]] is quite another.'
 
 Byrne looked rather ashamed of himself, and glanced
 almost covertly at the crumbling headlands in the cold
 moonlight which were the haunts of the vision or delusion.
 `I didn't believe in it till I saw it,' he said.
 
-`And I did believe in it till I saw it,' said Father Brown.
+`And I did believe in it till I saw it,' said [[Father Brown]].
 The journalist stared after him as he went stumping across
-the great waste ground that rose towards the cloven
-headland like the sloping side of a hill cut in two.
-Under the discolouring moon the grass looked like long grey
-hair all combed one way by the wind, and seeming to point
+the great waste ground that [[Rose|rose]] towards the cloven
+headland like the sloping side of a [[Hill|hill]] cut in two.
+Under the discolouring [[Moon|moon]] the grass looked like long grey
+hair all combed one way by the [[Wind|wind]], and seeming to point
 towards the place where the breaking cliff showed pale gleams
-of chalk in the grey--green turf, and where stood the pale
+of [[chalk]] in the grey--green turf, and where stood the pale
 figure or shining shade that none could yet understand.
 As yet that pale figure dominated a desolate landscape
 that was empty except for the black square back and business--
-like figure of the priest advancing alone towards it.
-Then the prisoner Home broke suddenly from his captors with a
+like figure of the priest advancing [[Alone|alone]] towards it.
+Then the prisoner [[Home]] broke suddenly from his captors with a
 piercing cry and ran ahead of the priest, falling on his knees
 before the spectre.
 
@@ -684,13 +684,13 @@ would probably be short, and his punishment, if any, trifling.
 It is not every murderer who can put the murdered man in the witness--
 box to give him a testimonial.
 
-`It's a strange case,' said Byrne, as the detective and the others
+`It's a strange case,' said Byrne, as the [[Detective|detective]] and the others
 hastened along the cliff path towards the town.
 
 `It is,' said Father Brown.  `It's no business of ours;
 but I wish you'd stop with me and talk it over.'
 
-There was a silence and then Byrne complied by saying suddenly:
+There was a [[Silence|silence]] and then Byrne complied by saying suddenly:
 `I suppose you were thinking of Home already, when you said somebody
 wasn't telling all he knew.'
 
@@ -698,12 +698,12 @@ wasn't telling all he knew.'
 silent Mr Potter, the secretary of the no longer late or (shall we say)
 lamented Mr Gideon Wise.'
 
-`Well, the only time Potter ever spoke to me I thought he was a lunatic,'
+`[[Well]], the only [[Time|time]] Potter ever spoke to me I thought he was a lunatic,'
 said Byrne, staring, `but I never thought of his being a criminal.
 He said something about it all having to do with an icebox.'
 
 `Yes, I thought he knew something about it,'
-said Father Brown reflectively.  `I never said he had anything
+said [[Father Brown]] reflectively.  `I never said he had anything
 to do with it ... I suppose old Wise really is strong enough
 to have climbed out of that chasm.'
 
@@ -711,7 +711,7 @@ to have climbed out of that chasm.'
 he got out of that chasm; for there he is.'
 
 The priest did not answer the question but asked abruptly:
-`What do you think of Home?'
+`What do you think of [[Home]]?'
 
 `Well, one can't call him a criminal exactly,' answered Byrne.
 `He never was at all like any criminal I ever knew, and I've
@@ -727,7 +727,7 @@ I've known quite a lot of them, and I know their little ways.'
 `Another class of people,' repeated Byrne, mystified.'  Why, what class
 do you know about?'
 
-`Penitents,' said Father Brown.
+`Penitents,' said [[Father Brown]].
 
 `I don't quite understand,' objected Byrne.  `Do you mean you
 don't believe in his crime?'
@@ -735,13 +735,13 @@ don't believe in his crime?'
 `I don't believe in his confession,' said Father Brown.
 `I've heard a good many confessions, and there was never a genuine
 one like that.  It was romantic; it was all out of books.
-Look how he talked about having the brand of Cain.  That's out of books.
+Look how he talked about having the brand of [[Cain]].  That's out of books.
 It's not what anyone would feel who had in his own person done a thing
 hitherto horrible to him.  Suppose you were an honest clerk or shop--
-boy shocked to feel that for the first time you'd stolen money.
+boy shocked to feel that for the first [[Time|time]] you'd stolen money.
 Would you immediately reflect that your action was the same as that
-of Barabbas?  Suppose you'd killed a child in some ghastly anger.
-Would you go back through history, till you could identify your
+of Barabbas?  Suppose you'd killed a [[Child|child]] in some ghastly anger.
+Would you go back through [[history]], till you could identify your
 action with that of an Idumean potentate named Herod?  Believe me,
 our own crimes are far too hideously private and prosaic to make
 our first thoughts turn towards historical parallels, however apt.
@@ -750,14 +750,14 @@ colleagues away?  Even in saying so, he was giving them away.
 Nobody had asked him so far to give away anything or anybody.
 No; I don't think he was genuine, and I wouldn't give him absolution.
 A nice state of things, if people started getting absolved for
-what they hadn't done.'  And Father Brown, his head turned away,
+what they hadn't done.'  And [[Father Brown]], his head turned away,
 looked steadily out to sea.
 
 `But I don't understand what you're driving at,' cried Byrne.
 `What's the good of buzzing round him with suspicions when he's pardoned?
 He's out of it anyhow.  He's quite safe.'
 
-Father Brown spun round like a teetotum and caught his friend
+[[Father Brown]] spun round like a teetotum and caught his friend
 by the coat with unexpected and inexplicable excitement.
 
 `That's it,' he cried emphatically.'  Freeze on to that!
@@ -806,7 +806,7 @@ for that and against that, as they do for and against Bolshevism.
 It has its ultimatums and its invasions and its executions.
 These trust magnates have their courts like kings; they have their
 bodyguard and bravos; they have their spies in the enemy camp.
-Home was one of old Gideon's spies in one of the enemy camps;
+[[Home]] was one of old Gideon's spies in one of the enemy camps;
 but he was used here against another enemy:  the rivals who were
 ruining him for standing out.'
 
@@ -828,9 +828,9 @@ of alibi, of course; improbable and therefore impenetrable.
 Most people would say a man who confesses a murder must
 be sincere; a man who forgives his murderer must be sincere.
 Nobody would think of the notion that the thing never happened,
-so that one man had nothing to forgive and the other nothing to fear.
-They were fixed here for that night by a story against themselves.
-But they were not here that night; for Home was murdering old Gallup
+so that one man had nothing to forgive and the other nothing to [[Fear|fear]].
+They were fixed here for that [[Night|night]] by a story against themselves.
+But they were not here that [[Night|night]]; for [[Home]] was murdering old Gallup
 in the Wood, while Wise was strangling that little Jew in his Roman bath.
 That's why I ask whether Wise was really strong enough for
 the climbing adventure.'
@@ -839,7 +839,7 @@ the climbing adventure.'
 `It fitted into the landscape, and was really very convincing.'
 
 `Too convincing to convince,' said Father Brown, shaking his head.
-`How very vivid was that moonlit foam flung up and turning to a ghost.
-And how very literary!  Home is a sneak and a skunk, but do
-not forget that, like many other sneaks and skunks in history,
+`How very vivid was that moonlit foam flung up and turning to a [[Ghost|ghost]].
+And how very literary!  [[Home]] is a sneak and a skunk, but do
+not forget that, like many other sneaks and skunks in [[history]],
 he is also a poet.'

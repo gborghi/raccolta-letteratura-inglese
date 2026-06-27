@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 12)"
+title: "[[The Mystery of Marie Roget]] (part 12)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -30,7 +30,7 @@ tags:
 
       personal acquaintances of even the most noted individual in
 
-      Paris, and the entire population of Paris itself.
+      [[Paris]], and the entire population of [[Paris]] itself.
 
 
 
@@ -42,13 +42,13 @@ tags:
 
       was when the streets were full of people,’ says Le Commerciel,
 
-      ‘that she went out.’ But not so. It was at nine o’clock in the
+      ‘that she went out.’ But not so. It was at nine o’[[Clock|clock]] in the
 
-      morning. Now at nine o’clock of every morning in the week, _with
+      morning. Now at nine o’[[Clock|clock]] of every morning in the week, _with
 
-      the exception of Sunday_, the streets of the city are, it is
+      the exception of Sunday_, the streets of the [[City|city]] are, it is
 
-      true, thronged with people. At nine on Sunday, the populace are
+      true, thronged with people. At nine on [[Sunday]], the populace are
 
       chiefly within doors _preparing for church_. No observing person
 
@@ -74,7 +74,7 @@ tags:
 
       fellows who had no pocket-handkerchiefs.’ Whether this idea is,
 
-      or is not well founded, we will endeavor to see hereafter; but by
+      or is not [[Well|well]] founded, we will endeavor to see hereafter; but by
 
       ‘fellows who have no pocket-handkerchiefs’ the editor intends the
 
@@ -124,15 +124,15 @@ tags:
 
       You cannot fail to have remarked the extreme laxity of the
 
-      examination of the corpse. To be sure, the question of identity
+      examination of the corpse. To be sure, the question of [[Identity|identity]]
 
       was readily determined, or should have been; but there were other
 
-      points to be ascertained. Had the body been in any respect
+      points to be ascertained. Had the [[Body|body]] been in any respect
 
       despoiled? Had the deceased any articles of jewelry about her
 
-      person upon leaving home? if so, had she any when found? These
+      person upon leaving [[Home|home]]? if so, had she any when found? These
 
       are important questions utterly untouched by the evidence; and
 
@@ -144,15 +144,15 @@ tags:
 
       suspicion of this person; but let us proceed methodically. We
 
-      will ascertain beyond a doubt the validity of the affidavits in
+      will ascertain beyond a [[Doubt|doubt]] the validity of the affidavits in
 
-      regard to his whereabouts on the Sunday. Affidavits of this
+      regard to his whereabouts on the [[Sunday]]. Affidavits of this
 
-      character are readily made matter of mystification. Should there
+      character are readily made matter of [[Mystification|mystification]]. Should there
 
       be nothing wrong here, however, we will dismiss St. Eustache from
 
-      our investigations. His suicide, however corroborative of
+      our investigations. His [[suicide]], however corroborative of
 
       suspicion, were there found to be deceit in the affidavits, is,
 
@@ -166,7 +166,7 @@ tags:
 
       “In that which I now propose, we will discard the interior points
 
-      of this tragedy, and concentrate our attention upon its
+      of this [[Tragedy|tragedy]], and concentrate our attention upon its
 
       outskirts. Not the least usual error, in investigations such as
 
@@ -178,15 +178,15 @@ tags:
 
       the bounds of apparent relevancy. Yet experience has shown, and a
 
-      true philosophy will always show, that a vast, perhaps the larger
+      true [[philosophy]] will always show, that a vast, perhaps the larger
 
-      portion of truth, arises from the seemingly irrelevant. It is
+      portion of [[Truth|truth]], arises from the seemingly irrelevant. It is
 
       through the spirit of this principle, if not precisely through
 
       its letter, that modern science has resolved to calculate upon
 
-      the unforeseen. But perhaps you do not comprehend me. The history
+      the unforeseen. But perhaps you do not comprehend me. The [[history]]
 
       of human knowledge has so uninterruptedly shown that to
 

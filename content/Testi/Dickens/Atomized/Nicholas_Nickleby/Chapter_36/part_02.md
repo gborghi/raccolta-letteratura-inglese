@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 36 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 36 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-‘Well, Mr. Kenwigs,’ said Dr Lumbey, ‘this makes six. You’ll have a fine
-family in time, sir.’
+‘[[Well]], Mr. Kenwigs,’ said Dr Lumbey, ‘this makes six. You’ll have a fine
+family in [[Time|time]], sir.’
 
 ‘I think six is almost enough, sir,’ returned Mr. Kenwigs.
 
@@ -23,7 +23,7 @@ family in time, sir.’
 
 With this, the doctor laughed; but he didn’t laugh half as much as a
 married friend of Mrs. Kenwigs’s, who had just come in from the sick
-chamber to report progress, and take a small sip of brandy-and-water:
+chamber to report progress, and take a small sip of brandy-and-[[Water|water]]:
 and who seemed to consider it one of the best jokes ever launched upon
 society.
 
@@ -38,7 +38,7 @@ lady.
 
 ‘Why, ma’am,’ said Mr. Kenwigs, ‘it’s not exactly for me to say what they
 may be, or what they may not be. It’s not for me to boast of any family
-with which I have the honour to be connected; at the same time, Mrs
+with which I have the [[Honour|honour]] to be connected; at the same [[Time|time]], Mrs
 Kenwigs’s is--I should say,’ said Mr. Kenwigs, abruptly, and raising
 his voice as he spoke, ‘that my children might come into a matter of a
 hundred pound apiece, perhaps. Perhaps more, but certainly that.’
@@ -54,7 +54,7 @@ ten people, and yet not go begging when they had done it.’
 
 ‘I made mention of no names, and I wish to make mention of no names,’
 said Mr. Kenwigs, with a portentous look. ‘Many of my friends have met a
-relation of Mrs. Kenwigs’s in this very room, as would do honour to any
+relation of Mrs. Kenwigs’s in this very room, as would do [[Honour|honour]] to any
 company; that’s all.’
 
 ‘I’ve met him,’ said the married lady, with a glance towards Dr Lumbey.
@@ -75,7 +75,7 @@ suddenly stricken with an enthusiastic admiration of Morleena.
 ‘There!’ rejoined the married lady. ‘What I always say; what I always
 did say! She’s the very picter of her.’ Having thus directed the general
 attention to the young lady in question, the married lady embraced the
-opportunity of taking another sip of the brandy-and-water--and a pretty
+opportunity of taking another sip of the brandy-and-[[Water|water]]--and a pretty
 long sip too.
 
 ‘Yes! there is a likeness,’ said Mr. Kenwigs, after some reflection. ‘But
@@ -88,8 +88,8 @@ he supposed she must have been rather a dazzler.
 ‘Talk of fairies!’ cried Mr. Kenwigs ‘I never see anybody so light to be
 alive, never. Such manners too; so playful, and yet so sewerely proper!
 As for her figure! It isn’t generally known,’ said Mr. Kenwigs, dropping
-his voice; ‘but her figure was such, at that time, that the sign of the
-Britannia, over in the Holloway Road, was painted from it!’
+his voice; ‘but her figure was such, at that [[Time|time]], that the sign of the
+Britannia, over in the Holloway [[Road]], was painted from it!’
 
 ‘But only see what it is now,’ urged the married lady. ‘Does SHE look
 like the mother of six?’
@@ -119,18 +119,18 @@ Mr. Johnson! How do you find yourself, sir?’
 Nicholas shook hands, kissed his old pupils all round, intrusted a large
 parcel of toys to the guardianship of Morleena, bowed to the doctor
 and the married ladies, and inquired after Mrs. Kenwigs in a tone of
-interest, which went to the very heart and soul of the nurse, who had
+interest, which went to the very heart and [[Soul|soul]] of the [[Nurse|nurse]], who had
 come in to warm some mysterious compound, in a little saucepan over the
-fire.
+[[Fire|fire]].
 
 ‘I ought to make a hundred apologies to you for calling at such a
 season,’ said Nicholas, ‘but I was not aware of it until I had rung the
-bell, and my time is so fully occupied now, that I feared it might be
+bell, and my [[Time|time]] is so fully occupied now, that I feared it might be
 some days before I could possibly come again.’
 
-‘No time like the present, sir,’ said Mr. Kenwigs. ‘The sitiwation of Mrs
+‘No [[Time|time]] like the present, sir,’ said Mr. Kenwigs. ‘The sitiwation of Mrs
 Kenwigs, sir, is no obstacle to a little conversation between you and
-me, I hope?’
+me, I [[Hope|hope]]?’
 
 ‘You are very good,’ said Nicholas.
 
@@ -140,7 +140,7 @@ ladies, already mentioned, rushed tumultuously into the bedroom to
 behold him in the act.
 
 ‘The fact is,’ resumed Nicholas, ‘that before I left the country, where
-I have been for some time past, I undertook to deliver a message to
+I have been for some [[Time|time]] past, I undertook to deliver a message to
 you.’
 
 ‘Ay, ay?’ said Mr. Kenwigs.

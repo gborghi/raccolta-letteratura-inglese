@@ -34,7 +34,7 @@ CHAPTER 15
 
 
 
-      This group, now so well known, and which consists of three
+      This group, now so [[Well|well]] known, and which consists of three
 
       circular islands, was first discovered by the Portuguese, and was
 
@@ -64,17 +64,17 @@ CHAPTER 15
 
       the upper region is barren rock, usually hidden among the clouds,
 
-      and covered with snow during the greater part of the year. There
+      and covered with [[Snow|snow]] during the greater part of the year. There
 
       are no shoals or other dangers about the island, the shores being
 
-      remarkably bold and the water deep. On the northwestern coast is
+      remarkably bold and the [[Water|water]] deep. On the northwestern coast is
 
       a bay, with a beach of black sand where a landing with boats can
 
-      be easily effected, provided there be a southerly wind. Plenty of
+      be easily effected, provided there be a southerly [[Wind|wind]]. Plenty of
 
-      excellent water may here be readily procured; also cod and other
+      excellent [[Water|water]] may here be readily procured; also cod and other
 
       fish may be taken with hook and line.
 
@@ -96,7 +96,7 @@ CHAPTER 15
 
 
 
-      Nightingale Island, the smallest and most southerly, is in
+      [[Nightingale]] Island, the smallest and most southerly, is in
 
       latitude 37 degrees 26’ S., longitude 12 degrees 12’ W. Off its
 
@@ -112,31 +112,31 @@ CHAPTER 15
 
       sea lions, sea elephants, the hair and fur seal, together with a
 
-      great variety of oceanic birds. Whales are also plenty in their
+      great variety of oceanic [[Birds|birds]]. Whales are also plenty in their
 
-      vicinity. Owing to the ease with which these various animals were
+      vicinity. Owing to the ease with which these various [[Animals|animals]] were
 
       here formerly taken, the group has been much visited since its
 
       discovery. The Dutch and French frequented it at a very early
 
-      period. In 1790, Captain Patten, of the ship Industry, of
+      period. In 1790, Captain Patten, of the [[Ship|ship]] Industry, of
 
       Philadelphia, made Tristan d’Acunha, where he remained seven
 
       months (from August, 1790, to April, 1791) for the purpose of
 
-      collecting sealskins. In this time he gathered no less than five
+      collecting sealskins. In this [[Time|time]] he gathered no less than five
 
       thousand six hundred, and says that he would have had no
 
-      difficulty in loading a large ship with oil in three weeks. Upon
+      difficulty in loading a large [[Ship|ship]] with oil in three weeks. Upon
 
       his arrival he found no quadrupeds, with the exception of a few
 
       wild goats; the island now abounds with all our most valuable
 
-      domestic animals, which have been introduced by subsequent
+      domestic [[Animals|animals]], which have been introduced by subsequent
 
       navigators.
 
@@ -172,17 +172,17 @@ CHAPTER 15
 
       1817 the islands were taken possession of by the British
 
-      Government, who sent a detachment for that purpose from the Cape
+      [[government|Government]], who sent a detachment for that purpose from the Cape
 
-      of Good Hope. They did not, however, retain them long; but, upon
+      of Good [[Hope]]. They did not, however, retain them long; but, upon
 
       the evacuation of the country as a British possession, two or
 
       three English families took up their residence there
 
-      independently of the Government. On the twenty-fifth of March,
+      independently of the [[government|Government]]. On the twenty-fifth of March,
 
-      1824, the Berwick, Captain Jeffrey, from London to Van Diemen’s
+      1824, the Berwick, Captain Jeffrey, from [[London]] to Van Diemen’s
 
       Land, arrived at the place, where they found an Englishman of the
 
@@ -198,7 +198,7 @@ CHAPTER 15
 
       collecting sealskins and sea elephant oil, with which they traded
 
-      to the Cape of Good Hope, Glass owning a small schooner. At the
+      to the Cape of Good [[Hope]], Glass owning a small schooner. At the
 
       period of our arrival the governor was still a resident, but his
 
@@ -206,7 +206,7 @@ CHAPTER 15
 
       upon Tristan, besides a smaller settlement of seven on
 
-      Nightingale Island. We had no difficulty in procuring almost
+      [[Nightingale]] Island. We had no difficulty in procuring almost
 
       every kind of refreshment which we required—sheep, hogs,
 
@@ -236,9 +236,9 @@ CHAPTER 15
 
       These islands are said to have been discovered as early as 1762,
 
-      by the commander of the ship Aurora. In 1790, Captain Manuel de
+      by the commander of the [[Ship|ship]] Aurora. In 1790, Captain Manuel de
 
-      Oyarvido, in the ship Princess, belonging to the Royal Philippine
+      Oyarvido, in the [[Ship|ship]] Princess, belonging to the Royal Philippine
 
       Company, sailed, as he asserts, directly among them. In 1794, the
 
@@ -326,9 +326,9 @@ CHAPTER 15
 
       far as the parallel of fifty-two degrees south, when we turned to
 
-      the eastward, and kept our parallel by double altitudes, morning
+      the eastward, and kept our parallel by [[Double|double]] altitudes, morning
 
-      and evening, and meridian altitudes of the planets and moon.
+      and evening, and meridian altitudes of the planets and [[Moon|moon]].
 
       Having thus gone eastwardly to the meridian of the western coast
 
@@ -350,7 +350,7 @@ CHAPTER 15
 
       no vestige of them remained at the present day. Since my return
 
-      home I find that the same ground was traced over, with equal
+      [[Home|home]] I find that the same ground was traced over, with equal
 
       care, in 1822, by Captain Johnson, of the American schooner
 

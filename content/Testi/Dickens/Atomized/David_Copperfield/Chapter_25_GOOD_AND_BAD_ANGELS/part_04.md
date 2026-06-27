@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 25: GOOD AND BAD ANGELS (part 4)"
+title: "[[David Copperfield]] — Chapter 25: GOOD AND BAD ANGELS (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 ‘Is he his own enemy?’ said I, sorry to hear this.
 
-‘Well,’ returned Mr. Waterbrook, pursing up his mouth, and playing with
+‘[[Well]],’ returned Mr. Waterbrook, pursing up his mouth, and playing with
 his watch-chain, in a comfortable, prosperous sort of way. ‘I should say
 he was one of those men who stand in their own light. Yes, I should say
 he would never, for example, be worth five hundred pound. Traddles was
@@ -35,60 +35,60 @@ the fortifications, with the eye of a philosopher and a patron, on the
 people down in the trenches.
 
 My reflections on this theme were still in progress when dinner was
-announced. Mr. Waterbrook went down with Hamlet’s aunt. Mr. Henry Spiker
+announced. Mr. Waterbrook went down with [[Hamlet]]’s aunt. Mr. Henry Spiker
 took Mrs. Waterbrook. Agnes, whom I should have liked to take myself,
 was given to a simpering fellow with weak legs. Uriah, Traddles, and I,
 as the junior part of the company, went down last, how we could. I was
 not so vexed at losing Agnes as I might have been, since it gave me
 an opportunity of making myself known to Traddles on the stairs, who
 greeted me with great fervour; while Uriah writhed with such obtrusive
-satisfaction and self-abasement, that I could gladly have pitched
+satisfaction and [[Self|self]]-abasement, that I could gladly have pitched
 him over the banisters. Traddles and I were separated at table, being
 billeted in two remote corners: he in the glare of a red velvet lady;
-I, in the gloom of Hamlet’s aunt. The dinner was very long, and the
-conversation was about the Aristocracy--and Blood. Mrs. Waterbrook
-repeatedly told us, that if she had a weakness, it was Blood.
+I, in the gloom of [[Hamlet]]’s aunt. The dinner was very long, and the
+conversation was about the Aristocracy--and [[Blood]]. Mrs. Waterbrook
+repeatedly told us, that if she had a weakness, it was [[Blood]].
 
 It occurred to me several times that we should have got on better, if we
 had not been quite so genteel. We were so exceedingly genteel, that our
 scope was very limited. A Mr. and Mrs. Gulpidge were of the party, who
 had something to do at second-hand (at least, Mr. Gulpidge had) with
 the law business of the Bank; and what with the Bank, and what with
-the Treasury, we were as exclusive as the Court Circular. To mend the
-matter, Hamlet’s aunt had the family failing of indulging in soliloquy,
+the Treasury, we were as exclusive as the [[Court]] Circular. To mend the
+matter, [[Hamlet]]’s aunt had the family failing of indulging in soliloquy,
 and held forth in a desultory manner, by herself, on every topic that
 was introduced. These were few enough, to be sure; but as we always fell
-back upon Blood, she had as wide a field for abstract speculation as her
+back upon [[Blood]], she had as wide a field for abstract speculation as her
 nephew himself.
 
 We might have been a party of Ogres, the conversation assumed such a
 sanguine complexion.
 
 ‘I confess I am of Mrs. Waterbrook’s opinion,’ said Mr. Waterbrook, with
-his wine-glass at his eye. ‘Other things are all very well in their way,
-but give me Blood!’
+his wine-glass at his eye. ‘Other things are all very [[Well|well]] in their way,
+but give me [[Blood]]!’
 
-‘Oh! There is nothing,’ observed Hamlet’s aunt, ‘so satisfactory to one!
+‘Oh! There is nothing,’ observed [[Hamlet]]’s aunt, ‘so satisfactory to one!
 There is nothing that is so much one’s beau-ideal of--of all that sort
 of thing, speaking generally. There are some low minds (not many, I am
 happy to believe, but there are some) that would prefer to do what I
 should call bow down before idols. Positively Idols! Before service,
-intellect, and so on. But these are intangible points. Blood is not so.
-We see Blood in a nose, and we know it. We meet with it in a chin, and
-we say, “There it is! That’s Blood!” It is an actual matter of fact. We
-point it out. It admits of no doubt.’
+intellect, and so on. But these are intangible points. [[Blood]] is not so.
+We see [[Blood]] in a nose, and we know it. We meet with it in a chin, and
+we say, “There it is! That’s [[Blood]]!” It is an actual matter of fact. We
+point it out. It admits of no [[Doubt|doubt]].’
 
 The simpering fellow with the weak legs, who had taken Agnes down,
 stated the question more decisively yet, I thought.
 
 ‘Oh, you know, deuce take it,’ said this gentleman, looking round the
-board with an imbecile smile, ‘we can’t forego Blood, you know. We must
-have Blood, you know. Some young fellows, you know, may be a little
-behind their station, perhaps, in point of education and behaviour, and
+board with an imbecile smile, ‘we can’t forego [[Blood]], you know. We must
+have [[Blood]], you know. Some young fellows, you know, may be a little
+behind their station, perhaps, in point of [[Education|education]] and behaviour, and
 may go a little wrong, you know, and get themselves and other people
 into a variety of fixes--and all that--but deuce take it, it’s
-delightful to reflect that they’ve got Blood in ‘em! Myself, I’d rather
-at any time be knocked down by a man who had got Blood in him, than I’d
+delightful to reflect that they’ve got [[Blood]] in ‘em! Myself, I’d rather
+at any [[Time|time]] be knocked down by a man who had got [[Blood]] in him, than I’d
 be picked up by a man who hadn’t!’
 
 This sentiment, as compressing the general question into a nutshell,
@@ -116,7 +116,7 @@ Gulpidge, checking himself--
 Mr. Gulpidge darkly nodded--‘was referred to him, his answer was,
 “Money, or no release.”’
 
-‘Lord bless my soul!’ cried Mr. Spiker.
+‘Lord bless my [[Soul|soul]]!’ cried Mr. Spiker.
 
 “‘Money, or no release,”’ repeated Mr. Gulpidge, firmly. ‘The next in
 reversion--you understand me?’
@@ -142,9 +142,9 @@ a confidence, naturally desired to favour his friend with a confidence
 of his own; therefore the foregoing dialogue was succeeded by another,
 in which it was Mr. Gulpidge’s turn to be surprised, and that by another
 in which the surprise came round to Mr. Spiker’s turn again, and so on,
-turn and turn about. All this time we, the outsiders, remained oppressed
+turn and turn about. All this [[Time|time]] we, the outsiders, remained oppressed
 by the tremendous interests involved in the conversation; and our
-host regarded us with pride, as the victims of a salutary awe and
+host regarded us with [[Pride|pride]], as the victims of a salutary awe and
 astonishment. I was very glad indeed to get upstairs to Agnes, and to
 talk with her in a corner, and to introduce Traddles to her, who was
 shy, but agreeable, and the same good-natured creature still. As he

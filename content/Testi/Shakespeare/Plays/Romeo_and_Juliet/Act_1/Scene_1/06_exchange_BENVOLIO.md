@@ -1,5 +1,5 @@
 ---
-title: "Romeo and Juliet — Act I, Scene 1 — exchange (BENVOLIO) [6]"
+title: "[[Romeo]] and [[Juliet]] — Act I, Scene 1 — exchange ([[Benvolio|BENVOLIO]]) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/ROMEO-AND-JULIET-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| BENVOLIO | I’ll pay that doctrine, or else die in debt. Exeunt |
+| [[Benvolio|BENVOLIO]] | I’ll pay that doctrine, or else die in debt. Exeunt |

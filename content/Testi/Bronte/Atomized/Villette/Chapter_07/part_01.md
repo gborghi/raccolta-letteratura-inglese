@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 7 (part 1)"
+title: "[[Villette]] — Chapter 7 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -15,10 +15,10 @@ tags:
 
 
 CHAPTER VII.
-VILLETTE.
+[[Villette|VILLETTE]].
 
 
-I awoke next morning with courage revived and spirits refreshed:
+I awoke next morning with [[Courage|courage]] revived and spirits refreshed:
 physical debility no longer enervated my judgment; my mind felt prompt
 and clear.
 
@@ -32,16 +32,16 @@ expecting the chambermaid, whereas a rough man walked in and said,—
 “Gif!” said he impatiently; and as he half-snatched them from my hand,
 he added, “All right! haf your tronc soon.”
 
-Fortunately it did turn out all right: he was from the custom-house.
+Fortunately it did turn out all right: he was from the custom-[[house]].
 Where to go to get some breakfast I could not tell; but I proceeded,
 not without hesitation, to descend.
 
 I now observed, what I had not noticed in my extreme weariness last
-night, viz. that this inn was, in fact, a large hotel; and as I slowly
+[[Night|night]], viz. that this inn was, in fact, a large hotel; and as I slowly
 descended the broad staircase, halting on each step (for I was in
 wonderfully little haste to get down), I gazed at the high ceiling
 above me, at the painted walls around, at the wide windows which filled
-the house with light, at the veined marble I trod (for the steps were
+the [[house]] with light, at the veined marble I trod (for the steps were
 all of marble, though uncarpeted and not very clean), and contrasting
 all this with the dimensions of the closet assigned to me as a chamber,
 with the extreme modesty of its appointments, I fell into a
@@ -49,13 +49,13 @@ philosophizing mood.
 
 Much I marvelled at the sagacity evinced by waiters and chamber-maids
 in proportioning the accommodation to the guest. How could inn-servants
-and ship-stewardesses everywhere tell at a glance that I, for instance,
+and [[Ship|ship]]-stewardesses everywhere tell at a glance that I, for instance,
 was an individual of no social significance, and little burdened by
-cash? They _did_ know it evidently: I saw quite well that they all, in
+cash? They _did_ know it evidently: I saw quite [[Well|well]] that they all, in
 a moment’s calculation, estimated me at about the same fractional
 value. The fact seemed to me curious and pregnant: I would not disguise
 from myself what it indicated, yet managed to keep up my spirits pretty
-well under its pressure.
+[[Well|well]] under its pressure.
 
 Having at last landed in a great hall, full of skylight glare, I made
 my way somehow to what proved to be the coffee-room. It cannot be
@@ -74,48 +74,48 @@ occasionally, but none stared obtrusively: I suppose if there was
 anything eccentric in the business, they accounted for it by this word
 “Anglaise!”
 
-Breakfast over, I must again move—in what direction? “Go to Villette,”
+Breakfast over, I must again move—in what direction? “Go to [[Villette]],”
 said an inward voice; prompted doubtless by the recollection of this
 slight sentence uttered carelessly and at random by Miss Fanshawe, as
-she bid me good-by: “I wish you would come to Madame Beck’s; she has
+she bid me good-by: “I wish you would come to [[Madame Beck]]’s; she has
 some marmots whom you might look after; she wants an English
 gouvernante, or was wanting one two months ago.”
 
-Who Madame Beck was, where she lived, I knew not; I had asked, but the
+Who [[Madame Beck]] was, where she lived, I knew not; I had asked, but the
 question passed unheard: Miss Fanshawe, hurried away by her friends,
-left it unanswered. I presumed Villette to be her residence—to Villette
+left it unanswered. I presumed [[Villette]] to be her residence—to [[Villette]]
 I would go. The distance was forty miles. I knew I was catching at
 straws; but in the wide and weltering deep where I found myself, I
 would have caught at cobwebs. Having inquired about the means of
-travelling to Villette, and secured a seat in the diligence, I departed
-on the strength of this outline—this shadow of a project. Before you
+travelling to [[Villette]], and secured a seat in the diligence, I departed
+on the strength of this outline—this [[Shadow|shadow]] of a project. Before you
 pronounce on the rashness of the proceeding, reader, look back to the
-point whence I started; consider the desert I had left, note how little
+point whence I started; consider the [[Desert|desert]] I had left, note how little
 I perilled: mine was the game where the player cannot lose and may win.
 
 Of an artistic temperament, I deny that I am; yet I must possess
-something of the artist’s faculty of making the most of present
+something of the [[Artist|artist]]’s faculty of making the most of present
 pleasure: that is to say, when it is of the kind to my taste. I enjoyed
 that day, though we travelled slowly, though it was cold, though it
 rained. Somewhat bare, flat, and treeless was the route along which our
-journey lay; and slimy canals crept, like half-torpid green snakes,
-beside the road; and formal pollard willows edged level fields, tilled
-like kitchen-garden beds. The sky, too, was monotonously gray; the
+[[Journey|journey]] lay; and slimy canals crept, like half-torpid green snakes,
+beside the [[Road|road]]; and formal pollard willows edged level fields, tilled
+like kitchen-[[Garden|garden]] beds. The sky, too, was monotonously gray; the
 atmosphere was stagnant and humid; yet amidst all these deadening
 influences, my fancy budded fresh and my heart basked in sunshine.
-These feelings, however, were well kept in check by the secret but
+These feelings, however, were [[Well|well]] kept in check by the secret but
 ceaseless consciousness of anxiety lying in wait on enjoyment, like a
 tiger crouched in a jungle. The breathing of that beast of prey was in
 my ear always; his fierce heart panted close against mine; he never
 stirred in his lair but I felt him: I knew he waited only for sun-down
 to bound ravenous from his ambush.
 
-I had hoped we might reach Villette ere night set in, and that thus I
+I had hoped we might reach [[Villette]] ere [[Night|night]] set in, and that thus I
 might escape the deeper embarrassment which obscurity seems to throw
 round a first arrival at an unknown bourne; but, what with our slow
 progress and long stoppages—what with a thick fog and small, dense
-rain—darkness, that might almost be felt, had settled on the city by
-the time we gained its suburbs.
+rain—darkness, that might almost be felt, had settled on the [[City|city]] by
+the [[Time|time]] we gained its suburbs.
 
 I know we passed through a gate where soldiers were stationed—so much I
 could see by lamplight; then, having left behind us the miry Chaussée,

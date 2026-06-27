@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 18 (part 2)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 18 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -18,7 +18,7 @@ fifty yards off. Twenty of the savages now got on board, and proceeded
 
 to ramble over every part of the deck, and scramble about among the
 
-rigging, making themselves much at home, and examining every article
+rigging, making themselves much at [[Home|home]], and examining every article
 
 with great inquisitiveness.
 
@@ -54,13 +54,13 @@ affected.
 
 
 
-When the visiters had satisfied, as well as they could, their curiosity
+When the visiters had satisfied, as [[Well|well]] as they could, their curiosity
 
 in regard to our upper works, they were admitted below, when their
 
 amazement exceeded all bounds. Their astonishment now appeared to be
 
-far too deep for words, for they roamed about in silence, broken only
+far too deep for words, for they roamed about in [[Silence|silence]], broken only
 
 by low ejaculations. The arms afforded them much food for speculation,
 
@@ -72,7 +72,7 @@ rather took them for idols, seeing the care we had of them, and the
 
 attention with which we watched their movements while handling them. At
 
-the great guns their wonder was redoubled. They approached them with
+the great guns their [[Wonder|wonder]] was redoubled. They approached them with
 
 every mark of the profoundest reverence and awe, but forbore to examine
 
@@ -84,11 +84,11 @@ and he had got in the middle of the cabin, with his face to one and his
 
 back to the other, before he fairly perceived them. Upon raising his
 
-eyes and seeing his reflected self in the glass, I thought the savage
+eyes and seeing his reflected [[Self|self]] in the glass, I thought the savage
 
 would go mad; but, upon turning short round to make a retreat, and
 
-beholding himself a second time in the opposite direction, I was afraid
+beholding himself a second [[Time|time]] in the opposite direction, I was afraid
 
 he would expire upon the spot. No persuasions could prevail upon him to
 
@@ -102,7 +102,7 @@ upon deck.
 
 The whole of the savages were admitted on board in this manner, twenty
 
-at a time, Too-wit being suffered to remain during the entire period.
+at a [[Time|time]], Too-wit being suffered to remain during the entire period.
 
 We saw no disposition to thievery among them, nor did we miss a single
 
@@ -134,7 +134,7 @@ anomalies, for they were such when considered in regard to the
 
 latitude, induced Captain Guy to wish for a thorough investigation of
 
-the country, in the hope of making a profitable speculation in his
+the country, in the [[Hope|hope]] of making a profitable speculation in his
 
 discovery. For my own part, anxious as I was to know something more of
 
@@ -146,7 +146,7 @@ there was no telling how long it would last; and being already in the
 
 eighty-fourth parallel, with an open sea before us, a current setting
 
-strongly to the southward, and the wind fair, I could not listen with
+strongly to the southward, and the [[Wind|wind]] fair, I could not listen with
 
 any patience to a proposition of stopping longer than was absolutely
 
@@ -154,7 +154,7 @@ necessary for the health of the crew and the taking on board a proper
 
 supply of fuel and fresh provisions. I represented to the captain that
 
-we might easily make this group on our return, and winter here in the
+we might easily make this group on our return, and [[Winter|winter]] here in the
 
 event of being blocked up by the ice. He at length came into my views
 
@@ -172,11 +172,11 @@ through the reef in safety, coming to anchor about a mile from the
 
 shore, in an excellent bay, completely landlocked, on the southeastern
 
-coast of the main island, and in ten fathoms of water, black sandy
+coast of the main island, and in ten fathoms of [[Water|water]], black sandy
 
-bottom. At the head of this bay there were three fine springs (we were
+[[Bottom|bottom]]. At the head of this bay there were three fine springs (we were
 
-told) of good water, and we saw abundance of wood in the vicinity. The
+told) of good [[Water|water]], and we saw abundance of wood in the vicinity. The
 
 four canoes followed us in, keeping, however, at a respectful distance.
 
@@ -188,7 +188,7 @@ interior. To this Captain Guy consented; and ten savages being left on
 
 board as hostages, a party of us, twelve in all, got in readiness to
 
-attend the chief. We took care to be well armed, yet without evincing
+attend the chief. We took care to be [[Well|well]] armed, yet without evincing
 
 any distrust. The schooner had her guns run out, her boarding-nettings
 

@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the \"Right"
+title: "[[WhatISawInAmerica]] — F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the \"Right"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"

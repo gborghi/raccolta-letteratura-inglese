@@ -25,8 +25,8 @@ Toots and the Chicken had gone into the Parlour.
 “Oh my own pretty darling sweet Miss Floy!” cried the Nipper, running
 into Florence’s room, “to think that it should come to this and I
 should find you here my own dear dove with nobody to wait upon you and
-no home to call your own but never never will I go away again Miss Floy
-for though I may not gather moss I’m not a rolling stone nor is my
+no [[Home|home]] to call your own but never never will I go away again Miss Floy
+for though I may not gather moss I’m not a [[rolling]] stone nor is my
 heart a stone or else it wouldn’t bust as it is busting now oh dear oh
 dear!”
 
@@ -34,14 +34,14 @@ Pouring out these words, without the faintest indication of a stop, of
 any sort, Miss Nipper, on her knees beside her mistress, hugged her
 close.
 
-“Oh love!” cried Susan, “I know all that’s past I know it all my tender
+“Oh [[Love|love]]!” cried Susan, “I know all that’s past I know it all my tender
 pet and I’m a choking give me air!”
 
 “Susan, dear good Susan!” said Florence.
 
-“Oh bless her! I that was her little maid when she was a little child!
+“Oh bless her! I that was her little maid when she was a little [[Child|child]]!
 and is she really, really truly going to be married?” exclaimed Susan,
-in a burst of pain and pleasure, pride and grief, and Heaven knows how
+in a burst of [[Pain|pain]] and pleasure, [[Pride|pride]] and grief, and Heaven knows how
 many other conflicting feelings.
 
 “Who told you so?” said Florence.
@@ -49,7 +49,7 @@ many other conflicting feelings.
 “Oh gracious me! that innocentest creetur Toots,” returned Susan
 hysterically. “I knew he must be right my dear, because he took on so.
 He’s the devotedest and innocentest infant! And is my darling,” pursued
-Susan, with another close embrace and burst of tears, “really really
+Susan, with another close embrace and burst of [[Tears|tears]], “really really
 going to be married!”
 
 The mixture of compassion, pleasure, tenderness, protection, and regret
@@ -88,7 +88,7 @@ he’ll go down into it now immediately and quite comfortable, but bless
 your heart my dear Miss Floy he won’t, he’s a great deal too happy in
 seeing other people happy for that, he may not be a Solomon,” pursued
 the Nipper, with her usual volubility, “nor do I say he is but this I
-do say a less selfish human creature human nature never knew!”
+do say a less selfish human creature human [[Nature|nature]] never knew!”
 
 Miss Nipper being still hysterical, laughed immoderately after making
 this energetic declaration, and then informed Florence that he was
@@ -105,11 +105,11 @@ least, not to gaze, but—I don’t exactly know what I was going to say,
 but it’s of no consequence.”
 
 “I have to thank you so often,” returned Florence, giving him both her
-hands, with all her innocent gratitude beaming in her face, “that I
+hands, with all her [[Innocent|innocent]] gratitude beaming in her face, “that I
 have no words left, and don’t know how to do it.”
 
 “Miss Dombey,” said Mr Toots, in an awful voice, “if it was possible
-that you could, consistently with your angelic nature, Curse me, you
+that you could, consistently with your angelic [[Nature|nature]], Curse me, you
 would—if I may be allowed to say so—floor me infinitely less, than by
 these undeserved expressions of kindness Their effect upon me—is—but,”
 said Mr Toots, abruptly, “this is a digression, and of no consequence
@@ -121,17 +121,17 @@ again, Florence thanked him again.
 “I could wish,” said Mr Toots, “to take this opportunity, Miss Dombey,
 if I might, of entering into a word of explanation. I should have had
 the pleasure of—of returning with Susan at an earlier period; but, in
-the first place, we didn’t know the name of the relation to whose house
+the first place, we didn’t know the name of the relation to whose [[house]]
 she had gone, and, in the second, as she had left that relation’s and
 gone to another at a distance, I think that scarcely anything short of
-the sagacity of the Chicken, would have found her out in the time.”
+the sagacity of the Chicken, would have found her out in the [[Time|time]].”
 
 Florence was sure of it.
 
 “This, however,” said Mr Toots, “is not the point. The company of Susan
 has been, I assure you, Miss Dombey, a consolation and satisfaction to
 me, in my state of mind, more easily conceived than described. The
-journey has been its own reward. That, however, still, is not the
+[[Journey|journey]] has been its own reward. That, however, still, is not the
 point. Miss Dombey, I have before observed that I know I am not what is
 considered a quick person. I am perfectly aware of that. I don’t think
 anybody could be better acquainted with his own—if it was not too
@@ -155,7 +155,7 @@ consider it at all unkind, and shall only be too delighted and happy to
 be honoured with your confidence.”
 
 “Mr Toots,” returned Florence, “if you, who are so old and true a
-friend of mine, were to stay away from this house now, you would make
+friend of mine, were to stay away from this [[house]] now, you would make
 me very unhappy. It can never, never, give me any feeling but pleasure
 to see you.
 
@@ -171,11 +171,11 @@ perplexity possible.
 “I mean,” said Mr Toots, “that I shall consider it my duty as a
 fellow-creature generally, until I am claimed by the silent tomb, to
 make the best of myself, and to—to have my boots as brightly polished,
-as—as—circumstances will admit of. This is the last time, Miss Dombey,
-of my intruding any observation of a private and personal nature. I
+as—as—circumstances will admit of. This is the last [[Time|time]], Miss Dombey,
+of my intruding any observation of a private and personal [[Nature|nature]]. I
 thank you very much indeed. If I am not, in a general way, as sensible
 as my friends could wish me to be, or as I could wish myself, I really
-am, upon my word and honour, particularly sensible of what is
+am, upon my word and [[Honour|honour]], particularly sensible of what is
 considerate and kind. I feel,” said Mr Toots, in an impassioned tone,
 “as if I could express my feelings, at the present moment, in a most
 remarkable manner, if—if—I could only get a start.”
@@ -197,8 +197,8 @@ Captain’s meaning. “Miss Dombey, I believe, Captain Gills, is to be
 shortly united to Lieutenant Walters?”
 
 “Why, ay, my lad. We’re all shipmets here,—Wal”r and sweet—heart will
-be jined together in the house of bondage, as soon as the askings is
-over,” whispered Captain Cuttle, in his ear.
+be jined together in the [[house]] of bondage, as soon as the askings is
+over,” whispered [[Captain Cuttle]], in his ear.
 
 “The askings, Captain Gills!” repeated Mr Toots.
 
@@ -215,23 +215,23 @@ roaring main with Wal”r on a woyage to China!”
 
 “Lord, Captain Gills!” said Mr Toots.
 
-“Ay!” nodded the Captain. “The ship as took him up, when he was wrecked
+“Ay!” nodded the Captain. “The [[Ship|ship]] as took him up, when he was wrecked
 in the hurricane that had drove her clean out of her course, was a
 China trader, and Wal”r made the woyage, and got into favour, aboard
 and ashore—being as smart and good a lad as ever stepped—and so, the
 supercargo dying at Canton, he got made (having acted as clerk afore),
-and now he’s supercargo aboard another ship, same owners. And so, you
+and now he’s supercargo aboard another [[Ship|ship]], same owners. And so, you
 see,” repeated the Captain, thoughtfully, “the pretty creetur goes away
 upon the roaring main with Wal”r, on a woyage to China.”
 
-Mr Toots and Captain Cuttle heaved a sigh in concert. “What then?” said
+Mr Toots and [[Captain Cuttle]] heaved a sigh in concert. “What then?” said
 the Captain. “She loves him true. He loves her true. Them as should
 have loved and tended of her, treated of her like the beasts as perish.
-When she, cast out of home, come here to me, and dropped upon them
+When she, cast out of [[Home|home]], come here to me, and dropped upon them
 planks, her wownded heart was broke. I know it. I, Ed’ard Cuttle, see
-it. There’s nowt but true, kind, steady love, as can ever piece it up
+it. There’s nowt but true, kind, steady [[Love|love]], as can ever piece it up
 again. If so be I didn’t know that, and didn’t know as Wal”r was her
-true love, brother, and she his, I’d have these here blue arms and legs
+true [[Love|love]], brother, and she his, I’d have these here blue arms and legs
 chopped off, afore I’d let her go. But I know it, and what then! Why,
 then, I say, Heaven go with ’em both, and so it will! Amen!”
 
@@ -258,33 +258,33 @@ watery eyes, “as to say that my presence is the reverse of disagreeable
 to her, and you and everybody here being no less forbearing and
 tolerant towards one who—who certainly,” said Mr Toots, with momentary
 dejection, “would appear to have been born by mistake, I shall come
-backwards and forwards of an evening, during the short time we can all
+backwards and forwards of an evening, during the short [[Time|time]] we can all
 be together. But what I ask is this. If, at any moment, I find that I
 cannot endure the contemplation of Lieutenant Walters’s bliss, and
-should rush out, I hope, Captain Gills, that you and he will both
+should rush out, I [[Hope|hope]], Captain Gills, that you and he will both
 consider it as my misfortune and not my fault, or the want of inward
 conflict. That you’ll feel convinced I bear no malice to any living
 creature-least of all to Lieutenant Walters himself—and that you’ll
 casually remark that I have gone out for a walk, or probably to see
-what o’clock it is by the Royal Exchange. Captain Gills, if you could
+what o’[[Clock|clock]] it is by the Royal Exchange. Captain Gills, if you could
 enter into this arrangement, and could answer for Lieutenant Walters,
 it would be a relief to my feelings that I should think cheap at the
 sacrifice of a considerable portion of my property.”
 
 “My lad,” returned the Captain, “say no more. There ain’t a colour you
-can run up, as won’t be made out, and answered to, by Wal”r and self.”
+can run up, as won’t be made out, and answered to, by Wal”r and [[Self|self]].”
 
 “Captain Gills,” said Mr Toots, “my mind is greatly relieved. I wish to
-preserve the good opinion of all here. I—I—mean well, upon my honour,
+preserve the good opinion of all here. I—I—mean [[Well|well]], upon my [[Honour|honour]],
 however badly I may show it. You know,” said Mr Toots, “it’s as exactly
 as Burgess and Co. wished to oblige a customer with a most
 extraordinary pair of trousers, and could not cut out what they had in
 their minds.”
 
 With this apposite illustration, of which he seemed a little Proud, Mr
-Toots gave Captain Cuttle his blessing and departed.
+Toots gave [[Captain Cuttle]] his blessing and departed.
 
-The honest Captain, with his Heart’s Delight in the house, and Susan
+The honest Captain, with his Heart’s Delight in the [[house]], and Susan
 tending her, was a beaming and a happy man. As the days flew by, he
 grew more beaming and more happy, every day. After some conferences
 with Susan (for whose wisdom the Captain had a profound respect, and
@@ -300,7 +300,7 @@ And Susan, setting off that very afternoon to the Toodle domicile, to
 sound Mrs Richards, returned in triumph the same evening, accompanied
 by the identical rosy-cheeked apple-faced Polly, whose demonstrations,
 when brought into Florence’s presence, were hardly less affectionate
-than those of Susan Nipper herself.
+than those of [[Susan Nipper]] herself.
 
 This piece of generalship accomplished; from which the Captain derived
 uncommon satisfaction, as he did, indeed, from everything else that was
@@ -312,18 +312,18 @@ any more.
 
 “As to wages dear Miss Floy,” she said, “you wouldn’t hint and wrong me
 so as think of naming them, for I’ve put money by and wouldn’t sell my
-love and duty at a time like this even if the Savings’ Banks and me
+[[Love|love]] and duty at a [[Time|time]] like this even if the Savings’ Banks and me
 were total strangers or the Banks were broke to pieces, but you’ve
-never been without me darling from the time your poor dear Ma was took
+never been without me darling from the [[Time|time]] your poor dear Ma was took
 away, and though I’m nothing to be boasted of you’re used to me and oh
 my own dear mistress through so many years don’t think of going
 anywhere without me, for it mustn’t and can’t be!”
 
 “Dear Susan, I am going on a long, long voyage.”
 
-“Well Miss Floy, and what of that? the more you’ll want me. Lengths of
+“[[Well]] Miss Floy, and what of that? the more you’ll want me. Lengths of
 voyages ain’t an object in my eyes, thank God!” said the impetuous
-Susan Nipper.
+[[Susan Nipper]].
 
 “But, Susan, I am going with Walter, and I would go with Walter
 anywhere—everywhere! Walter is poor, and I am very poor, and I must
@@ -332,10 +332,10 @@ learn, now, both to help myself, and help him.”
 “Dear Miss Floy!” cried Susan, bursting out afresh, and shaking her
 head violently, “it’s nothing new to you to help yourself and others
 too and be the patientest and truest of noble hearts, but let me talk
-to Mr Walter Gay and settle it with him, for suffer you to go away
-across the world alone I cannot, and I won’t.”
+to Mr [[Walter Gay]] and settle it with him, for suffer you to go away
+across the world [[Alone|alone]] I cannot, and I won’t.”
 
-“Alone, Susan?” returned Florence. “Alone? and Walter taking me with
+“[[Alone]], Susan?” returned Florence. “[[Alone]]? and Walter taking me with
 him!” Ah, what a bright, amazed, enraptured smile was on her face!—He
 should have seen it. “I am sure you will not speak to Walter if I ask
 you not,” she added tenderly; “and pray don’t, dear.”
@@ -346,7 +346,7 @@ Susan sobbed “Why not, Miss Floy?”
 whole heart, and to live with him and die with him. He might think, if
 you said to him what you have said to me, that I am afraid of what is
 before me, or that you have some cause to be afraid for me. Why, Susan,
-dear, I love him!”
+dear, I [[Love|love]] him!”
 
 Miss Nipper was so much affected by the quiet fervour of these words,
 and the simple, heartfelt, all-pervading earnestness expressed in them,
@@ -357,21 +357,21 @@ protecting her, as she had done before.
 
 But the Nipper, though susceptible of womanly weaknesses, was almost as
 capable of putting constraint upon herself as of attacking the
-redoubtable MacStinger. From that time, she never returned to the
+redoubtable MacStinger. From that [[Time|time]], she never returned to the
 subject, but was always cheerful, active, bustling, and hopeful. She
 did, indeed, inform Mr Toots privately, that she was only “keeping up”
-for the time, and that when it was all over, and Miss Dombey was gone,
+for the [[Time|time]], and that when it was all over, and Miss Dombey was gone,
 she might be expected to become a spectacle distressful; and Mr Toots
 did also express that it was his case too, and that they would mingle
-their tears together; but she never otherwise indulged her private
+their [[Tears|tears]] together; but she never otherwise indulged her private
 feelings in the presence of Florence or within the precincts of the
 Midshipman.
 
 Limited and plain as Florence’s wardrobe was—what a contrast to that
-prepared for the last marriage in which she had taken part!—there was a
-good deal to do in getting it ready, and Susan Nipper worked away at
+prepared for the last [[Marriage|marriage]] in which she had taken part!—there was a
+good deal to do in getting it ready, and [[Susan Nipper]] worked away at
 her side, all day, with the concentrated zeal of fifty sempstresses.
-The wonderful contributions Captain Cuttle would have made to this
+The wonderful contributions [[Captain Cuttle]] would have made to this
 branch of the outfit, if he had been permitted—as pink parasols, tinted
 silk stockings, blue shoes, and other articles no less necessary on
 shipboard—would occupy some space in the recital. He was induced,
@@ -392,35 +392,35 @@ chuckling, at the expiration of as many hours.
 Walter was busy and away all day, but came there every morning early to
 see Florence, and always passed the evening with her. Florence never
 left her high rooms but to steal downstairs to wait for him when it was
-his time to come, or, sheltered by his proud, encircling arm, to bear
+his [[Time|time]] to come, or, sheltered by his proud, encircling arm, to bear
 him company to the door again, and sometimes peep into the street. In
-the twilight they were always together. Oh blessed time! Oh wandering
-heart at rest! Oh deep, exhaustless, mighty well of love, in which so
+the twilight they were always together. Oh blessed [[Time|time]]! Oh wandering
+heart at rest! Oh deep, exhaustless, mighty [[Well|well]] of [[Love|love]], in which so
 much was sunk!
 
-The cruel mark was on her bosom yet. It rose against her father with
-the breath she drew, it lay between her and her lover when he pressed
+The cruel mark was on her bosom yet. It [[Rose|rose]] against her father with
+the breath she drew, it lay between her and her [[Lover|lover]] when he pressed
 her to his heart. But she forgot it. In the beating of that heart for
 her, and in the beating of her own for him, all harsher music was
 unheard, all stern unloving hearts forgotten. Fragile and delicate she
-was, but with a might of love within her that could, and did, create a
+was, but with a might of [[Love|love]] within her that could, and did, create a
 world to fly to, and to rest in, out of his one image.
 
-How often did the great house, and the old days, come before her in the
-twilight time, when she was sheltered by the arm, so proud, so fond,
+How often did the [[Great House|great house]], and the old days, come before her in the
+twilight [[Time|time]], when she was sheltered by the arm, so proud, so fond,
 and, creeping closer to him, shrunk within it at the recollection! How
-often, from remembering the night when she went down to that room and
+often, from remembering the [[Night|night]] when she went down to that room and
 met the never-to-be forgotten look, did she raise her eyes to those
 that watched her with such loving earnestness, and weep with happiness
 in such a refuge! The more she clung to it, the more the dear dead
-child was in her thoughts: but as if the last time she had seen her
+[[Child|child]] was in her thoughts: but as if the last [[Time|time]] she had seen her
 father, had been when he was sleeping and she kissed his face, she
 always left him so, and never, in her fancy, passed that hour.
 
 “Walter, dear,” said Florence, one evening, when it was almost dark.
 “Do you know what I have been thinking today?”
 
-“Thinking how the time is flying on, and how soon we shall be upon the
+“Thinking how the [[Time|time]] is flying on, and how soon we shall be upon the
 sea, sweet Florence?”
 
 “I don’t mean that, Walter, though I think of that too. I have been
@@ -447,7 +447,7 @@ purse presented to me, dearest, which had money in it.”
 “Ah!” returned Florence, laughing sorrowfully, “very little! very
 little, Walter! But, you must not think,” and here she laid her light
 hand on his shoulder, and looked into his face, “that I regret to be
-this burden on you. No, dear love, I am glad of it. I am happy in it. I
+this burden on you. No, dear [[Love|love]], I am glad of it. I am happy in it. I
 wouldn’t have it otherwise for all the world!”
 
 “Nor I, indeed, dear Florence.”
@@ -455,7 +455,7 @@ wouldn’t have it otherwise for all the world!”
 “Ay! but, Walter, you can never feel it as I do. I am so proud of you!
 It makes my heart swell with such delight to know that those who speak
 of you must say you married a poor disowned girl, who had taken shelter
-here; who had no other home, no other friends; who had nothing—nothing!
+here; who had no other [[Home|home]], no other friends; who had nothing—nothing!
 Oh, Walter, if I could have brought you millions, I never could have
 been so happy for your sake, as I am!”
 
@@ -463,10 +463,10 @@ been so happy for your sake, as I am!”
 
 “No, nothing, Walter. Nothing but your wife.” The light hand stole
 about his neck, and the voice came nearer—nearer. “I am nothing any
-more, that is not you. I have no earthly hope any more, that is not
+more, that is not you. I have no earthly [[Hope|hope]] any more, that is not
 you. I have nothing dear to me any more, that is not you.”
 
-Oh! well might Mr Toots leave the little company that evening, and
+Oh! [[Well|well]] might Mr Toots leave the little company that evening, and
 twice go out to correct his watch by the Royal Exchange, and once to
 keep an appointment with a banker which he suddenly remembered, and
 once to take a little turn to Aldgate Pump and back!
@@ -474,30 +474,30 @@ once to take a little turn to Aldgate Pump and back!
 But before he went upon these expeditions, or indeed before he came,
 and before lights were brought, Walter said:
 
-“Florence, love, the lading of our ship is nearly finished, and
-probably on the very day of our marriage she will drop down the river.
-Shall we go away that morning, and stay in Kent until we go on board at
+“Florence, [[Love|love]], the lading of our [[Ship|ship]] is nearly finished, and
+probably on the very day of our [[Marriage|marriage]] she will drop down the [[River|river]].
+Shall we go away that morning, and stay in [[Kent]] until we go on board at
 Gravesend within a week?”
 
 “If you please, Walter. I shall be happy anywhere. But—”
 
 “Yes, my life?”
 
-“You know,” said Florence, “that we shall have no marriage party, and
+“You know,” said Florence, “that we shall have no [[Marriage|marriage]] party, and
 that nobody will distinguish us by our dress from other people. As we
 leave the same day, will you—will you take me somewhere that morning,
 Walter—early—before we go to church?”
 
-Walter seemed to understand her, as so true a lover so truly loved
+Walter seemed to understand her, as so true a [[Lover|lover]] so truly loved
 should, and confirmed his ready promise with a kiss—with more than one
-perhaps, or two or three, or five or six; and in the grave, peaceful
+perhaps, or two or three, or five or six; and in the [[Grave|grave]], peaceful
 evening, Florence was very happy.
 
-Then into the quiet room came Susan Nipper and the candles; shortly
+Then into the quiet room came [[Susan Nipper]] and the candles; shortly
 afterwards, the tea, the Captain, and the excursive Mr Toots, who, as
 above mentioned, was frequently on the move afterwards, and passed but
 a restless evening. This, however, was not his habit: for he generally
-got on very well, by dint of playing at cribbage with the Captain under
+got on very [[Well|well]], by dint of playing at cribbage with the Captain under
 the advice and guidance of Miss Nipper, and distracting his mind with
 the calculations incidental to the game; which he found to be a very
 effectual means of utterly confounding himself.
@@ -505,18 +505,18 @@ effectual means of utterly confounding himself.
 The Captain’s visage on these occasions presented one of the finest
 examples of combination and succession of expression ever observed. His
 instinctive delicacy and his chivalrous feeling towards Florence,
-taught him that it was not a time for any boisterous jollity, or
+taught him that it was not a [[Time|time]] for any boisterous jollity, or
 violent display of satisfaction; floating reminiscences of Lovely Peg,
 on the other hand, were constantly struggling for a vent, and urging
 the Captain to commit himself by some irreparable demonstration. Anon,
-his admiration of Florence and Walter—well-matched, truly, and full of
-grace and interest in their youth, and love, and good looks, as they
+his admiration of Florence and Walter—[[Well|well]]-matched, truly, and full of
+grace and interest in their youth, and [[Love|love]], and good looks, as they
 sat apart—would take such complete possession of him, that he would lay
 down his cards, and beam upon them, dabbing his head all over with his
 pocket-handkerchief; until warned, perhaps, by the sudden rushing forth
 of Mr Toots, that he had unconsciously been very instrumental, indeed,
 in making that gentleman miserable. This reflection would make the
-Captain profoundly melancholy, until the return of Mr Toots; when he
+Captain profoundly [[Melancholy|melancholy]], until the return of Mr Toots; when he
 would fall to his cards again, with many side winks and nods, and
 polite waves of his hook at Miss Nipper, importing that he wasn’t going
 to do so any more. The state that ensued on this, was, perhaps, his
@@ -532,13 +532,13 @@ remonstrance to “Ed’ard Cuttle, my lad,” on the want of caution
 observable in his behaviour.
 
 One of Mr Toots’s hardest trials, however, was of his own seeking. On
-the approach of the Sunday which was to witness the last of those
+the approach of the [[Sunday]] which was to witness the last of those
 askings in church of which the Captain had spoken, Mr Toots thus stated
-his feelings to Susan Nipper.
+his feelings to [[Susan Nipper]].
 
 “Susan,” said Mr Toots, “I am drawn towards the building. The words
 which cut me off from Miss Dombey for ever, will strike upon my ears
-like a knell you know, but upon my word and honour, I feel that I must
+like a knell you know, but upon my word and [[Honour|honour]], I feel that I must
 hear them. Therefore,” said Mr Toots, “will you accompany me to-morrow,
 to the sacred edifice?”
 
@@ -555,10 +555,10 @@ consign her to Lieutenant Walters, and me to—to Gloom, you know,” said
 Mr Toots, after hesitating for a strong expression, “may be dreadful,
 will be dreadful; but I feel that I should wish to hear them spoken. I
 feel that I should wish to know that the ground was certainly cut from
-under me, and that I hadn’t a hope to cherish, or a—or a leg, in short,
+under me, and that I hadn’t a [[Hope|hope]] to cherish, or a—or a leg, in short,
 to—to go upon.”
 
-Susan Nipper could only commiserate Mr Toots’s unfortunate condition,
+[[Susan Nipper]] could only commiserate Mr Toots’s unfortunate condition,
 and agree, under these circumstances, to accompany him; which she did
 next morning.
 
@@ -567,36 +567,36 @@ in a yard, hemmed in by a labyrinth of back streets and courts, with a
 little burying-ground round it, and itself buried in a kind of vault,
 formed by the neighbouring houses, and paved with echoing stones. It
 was a great dim, shabby pile, with high old oaken pews, among which
-about a score of people lost themselves every Sunday; while the
+about a score of people lost themselves every [[Sunday]]; while the
 clergyman’s voice drowsily resounded through the emptiness, and the
 organ rumbled and rolled as if the church had got the colic, for want
-of a congregation to keep the wind and damp out. But so far was this
-city church from languishing for the company of other churches, that
+of a congregation to keep the [[Wind|wind]] and damp out. But so far was this
+[[City|city]] church from languishing for the company of other churches, that
 spires were clustered round it, as the masts of shipping cluster on the
-river. It would have been hard to count them from its steeple-top, they
+[[River|river]]. It would have been hard to count them from its steeple-top, they
 were so many. In almost every yard and blind-place near, there was a
-church. The confusion of bells when Susan and Mr Toots betook
-themselves towards it on the Sunday morning, was deafening. There were
+church. The confusion of [[Bells|bells]] when Susan and Mr Toots betook
+themselves towards it on the [[Sunday]] morning, was deafening. There were
 twenty churches close together, clamouring for people to come in.
 
 The two stray sheep in question were penned by a beadle in a commodious
-pew, and, being early, sat for some time counting the congregation,
+pew, and, being early, sat for some [[Time|time]] counting the congregation,
 listening to the disappointed bell high up in the tower, or looking at
 a shabby little old man in the porch behind the screen, who was ringing
 the same, like the Bull in Cock Robin, with his foot in a stirrup. Mr
 Toots, after a lengthened survey of the large books on the
 reading-desk, whispered Miss Nipper that he wondered where the banns
 were kept, but that young lady merely shook her head and frowned;
-repelling for the time all approaches of a temporal nature.
+repelling for the [[Time|time]] all approaches of a temporal [[Nature|nature]].
 
 Mr Toots, however, appearing unable to keep his thoughts from the
 banns, was evidently looking out for them during the whole preliminary
-portion of the service. As the time for reading them approached, the
+portion of the service. As the [[Time|time]] for reading them approached, the
 poor young gentleman manifested great anxiety and trepidation, which
 was not diminished by the unexpected apparition of the Captain in the
 front row of the gallery. When the clerk handed up a list to the
 clergyman, Mr Toots, being then seated, held on by the seat of the pew;
-but when the names of Walter Gay and Florence Dombey were read aloud as
+but when the names of [[Walter Gay]] and [[Florence Dombey]] were read aloud as
 being in the third and last stage of that association, he was so
 entirley conquered by his feelings as to rush from the church without
 his hat, followed by the beadle and pew-opener, and two gentlemen of
@@ -614,8 +614,8 @@ gallery, was in a state of unmitigated consciousness which could hardly
 fail to express to the congregation that he had some mysterious
 connection with it. But the extreme restlessness of Mr Toots painfully
 increased and protracted the delicacy of her situation. That young
-gentleman, incapable, in his state of mind, of remaining alone in the
-churchyard, a prey to solitary meditation, and also desirous, no doubt,
+gentleman, incapable, in his state of mind, of remaining [[Alone|alone]] in the
+churchyard, a prey to solitary meditation, and also desirous, no [[Doubt|doubt]],
 of testifying his respect for the offices he had in some measure
 interrupted, suddenly returned—not coming back to the pew, but
 stationing himself on a free seat in the aisle, between two elderly
@@ -626,10 +626,10 @@ felt it impossible to avoid looking at him, until his feelings overcame
 him again, when he departed silently and suddenly. Not venturing to
 trust himself in the church any more, and yet wishing to have some
 social participation in what was going on there, Mr Toots was, after
-this, seen from time to time, looking in, with a lorn aspect, at one or
+this, seen from [[Time|time]] to [[Time|time]], looking in, with a lorn aspect, at one or
 other of the windows; and as there were several windows accessible to
 him from without, and as his restlessness was very great, it not only
-became difficult to conceive at which window he would appear next, but
+became difficult to conceive at which [[Window|window]] he would appear next, but
 likewise became necessary, as it were, for the whole congregation to
 speculate upon the chances of the different windows, during the
 comparative leisure afforded them by the sermon. Mr Toots’s movements
@@ -637,7 +637,7 @@ in the churchyard were so eccentric, that he seemed generally to defeat
 all calculation, and to appear, like the conjuror’s figure, where he
 was least expected; and the effect of these mysterious presentations
 was much increased by its being difficult to him to see in, and easy to
-everybody else to see out: which occasioned his remaining, every time,
+everybody else to see out: which occasioned his remaining, every [[Time|time]],
 longer than might have been expected, with his face close to the glass,
 until he all at once became aware that all eyes were upon him, and
 vanished.
@@ -647,21 +647,21 @@ consciousness of them that was exhibited by the Captain, rendered Miss
 Nipper’s position so responsible a one, that she was mightily relieved
 by the conclusion of the service; and was hardly so affable to Mr Toots
 as usual, when he informed her and the Captain, on the way back, that
-now he was sure he had no hope, you know, he felt more comfortable—at
+now he was sure he had no [[Hope|hope]], you know, he felt more comfortable—at
 least not exactly more comfortable, but more comfortably and completely
 miserable.
 
-Swiftly now, indeed, the time flew by until it was the evening before
-the day appointed for the marriage. They were all assembled in the
-upper room at the Midshipman’s, and had no fear of interruption; for
-there were no lodgers in the house now, and the Midshipman had it all
-to himself. They were grave and quiet in the prospect of to-morrow, but
+Swiftly now, indeed, the [[Time|time]] flew by until it was the evening before
+the day appointed for the [[Marriage|marriage]]. They were all assembled in the
+upper room at the Midshipman’s, and had no [[Fear|fear]] of interruption; for
+there were no lodgers in the [[house]] now, and the Midshipman had it all
+to himself. They were [[Grave|grave]] and quiet in the prospect of to-morrow, but
 moderately cheerful too. Florence, with Walter close beside her, was
 finishing a little piece of work intended as a parting gift to the
 Captain. The Captain was playing cribbage with Mr Toots. Mr Toots was
-taking counsel as to his hand, of Susan Nipper. Miss Nipper was giving
+taking counsel as to his hand, of [[Susan Nipper]]. Miss Nipper was giving
 it, with all due secrecy and circumspection. Diogenes was listening,
-and occasionally breaking out into a gruff half-smothered fragment of a
+and occasionally breaking out into a gruff half-smothered [[Fragment|fragment]] of a
 bark, of which he afterwards seemed half-ashamed, as if he doubted
 having any reason for it.
 
@@ -669,7 +669,7 @@ having any reason for it.
 You don’t seem easy in your mind tonight, my boy!”
 
 Diogenes wagged his tail, but pricked up his ears immediately
-afterwards, and gave utterance to another fragment of a bark; for which
+afterwards, and gave utterance to another [[Fragment|fragment]] of a bark; for which
 he apologised to the Captain, by again wagging his tail.
 
 “It’s my opinion, Di,” said the Captain, looking thoughtfully at his
@@ -692,7 +692,7 @@ that had come with Polly into the room.
 
 In another moment, Walter was in the arms of the weather-beaten
 pea-coat. In another moment, Florence was in the arms of the
-weather-beaten pea-coat. In another moment, Captain Cuttle had embraced
+weather-beaten pea-coat. In another moment, [[Captain Cuttle]] had embraced
 Mrs Richards and Miss Nipper, and was violently shaking hands with Mr
 Toots, exclaiming, as he waved his hook above his head, “Hooroar, my
 lad, hooroar!” To which Mr Toots, wholly at a loss to account for these
@@ -704,7 +704,7 @@ comforter belonging to it, turned from the Captain and from Florence
 back to Walter, and sounds came from the weather-beaten pea-coat, cap,
 and comforter, as of an old man sobbing underneath them; while the
 shaggy sleeves clasped Walter tight. During this pause, there was an
-universal silence, and the Captain polished his nose with great
+universal [[Silence|silence]], and the Captain polished his nose with great
 diligence. But when the pea-coat, cap, and comforter lifted themselves
 up again, Florence gently moved towards them; and she and Walter taking
 them off, disclosed the old Instrument-maker, a little thinner and more
@@ -730,20 +730,20 @@ have woke me too soon, I must slumber again. Scatter his ene-mies, and
 make ’em fall!”
 
 The Captain sat down with the air of a man who had happily expressed
-the feeling of everybody present, and immediately rose again to present
+the feeling of everybody present, and immediately [[Rose|rose]] again to present
 Mr Toots, who was much disconcerted by the arrival of anybody,
 appearing to prefer a claim to the name of Gills.
 
 “Although,” stammered Mr Toots, “I had not the pleasure of your
 acquaintance, Sir, before you were—you were—”
 
-“Lost to sight, to memory dear,” suggested the Captain, in a low voice.
+“Lost to sight, to [[Memory|memory]] dear,” suggested the Captain, in a low voice.
 
 “Exactly so, Captain Gills!” assented Mr Toots. “Although I had not the
 pleasure of your acquaintance, Mr—Mr Sols,” said Toots, hitting on that
 name in the inspiration of a bright idea, “before that happened, I have
 the greatest pleasure, I assure you, in—you know, in knowing you. I
-hope,” said Mr Toots, “that you’re as well as can be expected.”
+[[Hope|hope]],” said Mr Toots, “that you’re as [[Well|well]] as can be expected.”
 
 With these courteous words, Mr Toots sat down blushing and chuckling.
 
@@ -753,7 +753,7 @@ delight, answered the Captain thus:
 
 “Ned Cuttle, my dear boy, although I have heard something of the
 changes of events here, from my pleasant friend there—what a pleasant
-face she has to be sure, to welcome a wanderer home!” said the old man,
+face she has to be sure, to welcome a wanderer [[Home|home]]!” said the old man,
 breaking off, and rubbing his hands in his old dreamy way.
 
 “Hear him!” cried the Captain gravely. “’Tis woman as seduces all
@@ -782,16 +782,16 @@ that was what I asked.”
 “What you asked, Sol Gills?” repeated the Captain.
 
 “Ay,” said the old man. “Don’t you know, Ned? Sure you have not
-forgotten? Every time I wrote to you.”
+forgotten? Every [[Time|time]] I wrote to you.”
 
 The Captain took off his glazed hat, hung it on his hook, and smoothing
 his hair from behind with his hand, sat gazing at the group around him:
-a perfect image of wondering resignation.
+a perfect image of wondering [[Resignation|resignation]].
 
 “You don’t appear to understand me, Ned!” observed old Sol.
 
 “Sol Gills,” returned the Captain, after staring at him and the rest
-for a long time, without speaking, “I’m gone about and adrift. Pay out
+for a long [[Time|time]], without speaking, “I’m gone about and adrift. Pay out
 a word or two respecting them adwenturs, will you! Can’t I bring up,
 nohows? Nohows?” said the Captain, ruminating, and staring all round.
 
@@ -803,12 +803,12 @@ packet, Ned?”
 “And read it?” said the old man.
 
 “And read it,” answered the Captain, eyeing him attentively, and
-proceeding to quote it from memory. “‘My dear Ned Cuttle, when I left
-home for the West Indies in forlorn search of intelligence of my dear-’
+proceeding to quote it from [[Memory|memory]]. “‘My dear Ned Cuttle, when I left
+[[Home|home]] for the West Indies in forlorn search of intelligence of my dear-’
 There he sits! There’s Wal”r!” said the Captain, as if he were relieved
 by getting hold of anything that was real and indisputable.
 
-“Well, Ned. Now attend a moment!” said the old man. “When I wrote
+“[[Well]], Ned. Now attend a moment!” said the old man. “When I wrote
 first—that was from Barbados—I said that though you would receive that
 letter long before the year was out, I should be glad if you would open
 the packet, as it explained the reason of my going away. Very good,
@@ -834,9 +834,9 @@ of my boy, until I died.”
 Captain, as before, and with great seriousness.
 
 “But when the news come one day, Ned,—that was to Barbados, after I got
-back there,—that a China trader home’ard bound had been spoke, that had
-my boy aboard, then, Ned, I took passage in the next ship and came
-home; arrived at home tonight to find it true, thank God!” said the
+back there,—that a China trader [[Home|home]]’ard bound had been spoke, that had
+my boy aboard, then, Ned, I took passage in the next [[Ship|ship]] and came
+[[Home|home]]; arrived at [[Home|home]] tonight to find it true, thank God!” said the
 old man, devoutly.
 
 The Captain, after bowing his head with great reverence, stared all
@@ -849,7 +849,7 @@ bolt-ropes, and bring you on your beam ends with a lurch. Not one of
 them letters was ever delivered to Ed’ard Cuttle. Not one o’ them
 letters,” repeated the Captain, to make his declaration the more solemn
 and impressive, “was ever delivered unto Ed’ard Cuttle, Mariner, of
-England, as lives at home at ease, and doth improve each shining hour!”
+England, as lives at [[Home|home]] at ease, and doth improve each shining hour!”
 
 “And posted by my own hand! And directed by my own hand, Number nine
 Brig Place!” exclaimed old Sol.
@@ -861,7 +861,7 @@ in a glow.
 inquired the Captain.
 
 “Mean? Your lodgings, Ned,” returned the old man. “Mrs What’s-her-name!
-I shall forget my own name next, but I am behind the present time—I
+I shall forget my own name next, but I am behind the present [[Time|time]]—I
 always was, you recollect—and very much confused. Mrs—”
 
 “Sol Gills!” said the Captain, as if he were putting the most
@@ -871,19 +871,19 @@ you’re a trying to remember?”
 “Of course it is!” exclaimed the Instrument-maker. “To be sure Ned. Mrs
 MacStinger!”
 
-Captain Cuttle, whose eyes were now as wide open as they would be, and
+[[Captain Cuttle]], whose eyes were now as wide open as they would be, and
 the knobs upon whose face were perfectly luminous, gave a long shrill
-whistle of a most melancholy sound, and stood gazing at everybody in a
+whistle of a most [[Melancholy|melancholy]] sound, and stood gazing at everybody in a
 state of speechlessness.
 
 “Overhaul that there again, Sol Gills, will you be so kind?” he said at
 last.
 
-“All these letters,” returned Uncle Sol, beating time with the
+“All these letters,” returned Uncle Sol, beating [[Time|time]] with the
 forefinger of his right hand upon the palm of his left, with a
-steadiness and distinctness that might have done honour, even to the
+steadiness and distinctness that might have done [[Honour|honour]], even to the
 infallible chronometer in his pocket, “I posted with my own hand, and
-directed with my own hand, to Captain Cuttle, at Mrs MacStinger’s,
+directed with my own hand, to [[Captain Cuttle]], at Mrs MacStinger’s,
 Number nine Brig Place.”
 
 The Captain took his glazed hat off his hook, looked into it, put it
@@ -892,26 +892,26 @@ on, and sat down.
 “Why, friends all,” said the Captain, staring round in the last state
 of discomfiture, “I cut and run from there!”
 
-“And no one knew where you were gone, Captain Cuttle?” cried Walter
+“And no one knew where you were gone, [[Captain Cuttle]]?” cried Walter
 hastily.
 
 “Bless your heart, Wal”r,” said the Captain, shaking his head, “she’d
 never have allowed o’ my coming to take charge o’ this here property.
-Nothing could be done but cut and run. Lord love you, Wal”r!” said the
+Nothing could be done but cut and run. Lord [[Love|love]] you, Wal”r!” said the
 Captain, “you’ve only seen her in a calm! But see her when her angry
 passions rise—and make a note on!”
 
 “I’d give it her!” remarked the Nipper, softly.
 
 “Would you, do you think, my dear?” returned the Captain, with feeble
-admiration. “Well, my dear, it does you credit. But there ain’t no wild
+admiration. “[[Well]], my dear, it does you credit. But there ain’t no wild
 animal I wouldn’t sooner face myself. I only got my chest away by means
 of a friend as nobody’s a match for. It was no good sending any letter
 there. She wouldn’t take in any letter, bless you,” said the Captain,
 “under them circumstances! Why, you could hardly make it worth a man’s
 while to be the postman!”
 
-“Then it’s pretty clear, Captain Cuttle, that all of us, and you and
+“Then it’s pretty clear, [[Captain Cuttle]], that all of us, and you and
 Uncle Sol especially,” said Walter, “may thank Mrs MacStinger for no
 small anxiety.”
 
@@ -938,27 +938,27 @@ satisfaction of Uncle Sol; and very sensible Mr Toots was of the
 delicacy with which Walter made his name and services important, and
 his presence necessary to their little council.
 
-“Mr Toots,” said Walter, on parting with him at the house door, “we
+“Mr Toots,” said Walter, on parting with him at the [[house]] door, “we
 shall see each other to-morrow morning?”
 
 “Lieutenant Walters,” returned Mr Toots, grasping his hand fervently,
 “I shall certainly be present.”
 
-“This is the last night we shall meet for a long time—the last night we
+“This is the last [[Night|night]] we shall meet for a long [[Time|time]]—the last [[Night|night]] we
 may ever meet,” said Walter. “Such a noble heart as yours, must feel, I
-think, when another heart is bound to it. I hope you know that I am
+think, when another heart is bound to it. I [[Hope|hope]] you know that I am
 very grateful to you?”
 
 “Walters,” replied Mr Toots, quite touched, “I should be glad to feel
 that you had reason to be so.”
 
-“Florence,” said Walter, “on this last night of her bearing her own
+“Florence,” said Walter, “on this last [[Night|night]] of her bearing her own
 name, has made me promise—it was only just now, when you left us
-together—that I would tell you—with her dear love—”
+together—that I would tell you—with her dear [[Love|love]]—”
 
 Mr Toots laid his hand upon the doorpost, and his eyes upon his hand.
 
-“—With her dear love,” said Walter, “that she can never have a friend
+“—With her dear [[Love|love]],” said Walter, “that she can never have a friend
 whom she will value above you. That the recollection of your true
 consideration for her always, can never be forgotten by her. That she
 remembers you in her prayers tonight, and hopes that you will think of
@@ -979,13 +979,13 @@ Mr Toots was accompanied by the Chicken, whom he had of late brought
 with him every evening, and left in the shop, with an idea that
 unforeseen circumstances might arise from without, in which the prowess
 of that distinguished character would be of service to the Midshipman.
-The Chicken did not appear to be in a particularly good humour on this
+The Chicken did not appear to be in a particularly good [[Humour|humour]] on this
 occasion. Either the gas-lamps were treacherous, or he cocked his eye
 in a hideous manner, and likewise distorted his nose, when Mr Toots,
-crossing the road, looked back over his shoulder at the room where
-Florence slept. On the road home, he was more demonstrative of
+crossing the [[Road|road]], looked back over his shoulder at the room where
+Florence slept. On the [[Road|road]] [[Home|home]], he was more demonstrative of
 aggressive intentions against the other foot-passengers, than comported
-with a professor of the peaceful art of self-defence. Arrived at home,
+with a professor of the peaceful art of [[Self|self]]-defence. Arrived at [[Home|home]],
 instead of leaving Mr Toots in his apartments when he had escorted him
 thither, he remained before him weighing his white hat in both hands by
 the brim, and twitching his head and nose (both of which had been many
@@ -993,7 +993,7 @@ times broken, and but indifferently repaired), with an air of decided
 disrespect.
 
 His patron being much engaged with his own thoughts, did not observe
-this for some time, nor indeed until the Chicken, determined not to be
+this for some [[Time|time]], nor indeed until the Chicken, determined not to be
 overlooked, had made divers clicking sounds with his tongue and teeth,
 to attract attention.
 
@@ -1025,8 +1025,8 @@ it is. It’s mean.”
 nose. “There! Now, Master! Wot! When you could go and blow on this here
 match to the stiff’un;” by which depreciatory appellation it has been
 since supposed that the Game One intended to signify Mr Dombey; “and
-when you could knock the winner and all the kit of ’em dead out o’ wind
-and time, are you going to give in? To give in?” said the Chicken, with
+when you could knock the winner and all the kit of ’em dead out o’ [[Wind|wind]]
+and [[Time|time]], are you going to give in? To give in?” said the Chicken, with
 contemptuous emphasis. “Wy, it’s mean!”
 
 “Chicken,” said Mr Toots, severely, “you’re a perfect Vulture! Your
@@ -1054,6 +1054,6 @@ seemed equally unable to get beyond that point, and to stop short of
 it. “That’s where it is; it’s mean!”
 
 So Mr Toots and the Chicken agreed to part on this incompatibility of
-moral perception; and Mr Toots lying down to sleep, dreamed happily of
-Florence, who had thought of him as her friend upon the last night of
-her maiden life, and who had sent him her dear love.
+moral perception; and Mr Toots lying down to [[Sleep|sleep]], dreamed happily of
+Florence, who had thought of him as her friend upon the last [[Night|night]] of
+her maiden life, and who had sent him her dear [[Love|love]].

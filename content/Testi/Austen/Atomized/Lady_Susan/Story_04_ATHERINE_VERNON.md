@@ -1,5 +1,5 @@
 ---
-title: "Lady Susan — ATHERINE VERNON"
+title: "[[Lady Susan]] — ATHERINE VERNON"
 author: "Austen"
 unitType: story
 parentWork: "Works/Lady-Susan-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-CATHERINE VERNON
+[[Catherine Vernon|CATHERINE VERNON]]
 
 
 
@@ -44,19 +44,19 @@ Churchhill.
 
 My dear Alicia,—You are very good in taking notice of Frederica, and I
 
-am grateful for it as a mark of your friendship; but as I cannot have
+am grateful for it as a mark of your [[Friendship|friendship]]; but as I cannot have
 
-any doubt of the warmth of your affection, I am far from exacting so
+any [[Doubt|doubt]] of the warmth of your affection, I am far from exacting so
 
 heavy a sacrifice. She is a stupid girl, and has nothing to recommend
 
 her. I would not, therefore, on my account, have you encumber one
 
-moment of your precious time by sending for her to Edward Street,
+moment of your precious [[Time|time]] by sending for her to Edward Street,
 
 especially as every visit is so much deducted from the grand affair of
 
-education, which I really wish to have attended to while she remains at
+[[Education|education]], which I really wish to have attended to while she remains at
 
 Miss Summers’s. I want her to play and sing with some portion of taste
 
@@ -70,23 +70,23 @@ accomplishments which are now necessary to finish a pretty woman. Not
 
 that I am an advocate for the prevailing fashion of acquiring a perfect
 
-knowledge of all languages, arts, and sciences. It is throwing time
+knowledge of all languages, arts, and sciences. It is throwing [[Time|time]]
 
 away to be mistress of French, Italian, and German: music, singing, and
 
 drawing, &c., will gain a woman some applause, but will not add one
 
-lover to her list—grace and manner, after all, are of the greatest
+[[Lover|lover]] to her list—grace and manner, after all, are of the greatest
 
 importance. I do not mean, therefore, that Frederica’s acquirements
 
 should be more than superficial, and I flatter myself that she will not
 
-remain long enough at school to understand anything thoroughly. I hope
+remain long enough at school to understand anything thoroughly. I [[Hope|hope]]
 
 to see her the wife of Sir James within a twelvemonth. You know on what
 
-I ground my hope, and it is certainly a good foundation, for school
+I ground my [[Hope|hope]], and it is certainly a good foundation, for school
 
 must be very humiliating to a girl of Frederica’s age. And, by-the-by,
 
@@ -94,11 +94,11 @@ you had better not invite her any more on that account, as I wish her
 
 to find her situation as unpleasant as possible. I am sure of Sir James
 
-at any time, and could make him renew his application by a line. I
+at any [[Time|time]], and could make him renew his application by a line. I
 
 shall trouble you meanwhile to prevent his forming any other attachment
 
-when he comes to town. Ask him to your house occasionally, and talk to
+when he comes to town. Ask him to your [[house]] occasionally, and talk to
 
 him of Frederica, that he may not forget her. Upon the whole, I commend
 
@@ -110,15 +110,15 @@ insisted on their daughter’s accepting so good an offer on the first
 
 overture; but I could not reconcile it to myself to force Frederica
 
-into a marriage from which her heart revolted, and instead of adopting
+into a [[Marriage|marriage]] from which her heart revolted, and instead of adopting
 
 so harsh a measure merely propose to make it her own choice, by
 
 rendering her thoroughly uncomfortable till she does accept him—but
 
-enough of this tiresome girl. You may well wonder how I contrive to
+enough of this tiresome girl. You may [[Well|well]] [[Wonder|wonder]] how I contrive to
 
-pass my time here, and for the first week it was insufferably dull.
+pass my [[Time|time]] here, and for the first week it was insufferably dull.
 
 Now, however, we begin to mend, our party is enlarged by Mrs. Vernon’s
 
@@ -138,7 +138,7 @@ person predetermined to dislike acknowledge one’s superiority. I have
 
 disconcerted him already by my calm reserve, and it shall be my
 
-endeavour to humble the pride of these self important De Courcys still
+endeavour to humble the [[Pride|pride]] of these [[Self|self]] important De Courcys still
 
 lower, to convince Mrs. Vernon that her sisterly cautions have been
 
@@ -148,7 +148,7 @@ belied me. This project will serve at least to amuse me, and prevent my
 
 feeling so acutely this dreadful separation from you and all whom I
 
-love.
+[[Love|love]].
 
 
 
@@ -182,7 +182,7 @@ Churchhill.
 
 
 
-My dear Mother,—You must not expect Reginald back again for some time.
+My dear Mother,—You must not expect Reginald back again for some [[Time|time]].
 
 He desires me to tell you that the present open weather induces him to
 
@@ -190,7 +190,7 @@ accept Mr. Vernon’s invitation to prolong his stay in Sussex, that they
 
 may have some hunting together. He means to send for his horses
 
-immediately, and it is impossible to say when you may see him in Kent.
+immediately, and it is impossible to say when you may see him in [[Kent]].
 
 I will not disguise my sentiments on this change from you, my dear
 
@@ -198,13 +198,13 @@ mother, though I think you had better not communicate them to my
 
 father, whose excessive anxiety about Reginald would subject him to an
 
-alarm which might seriously affect his health and spirits. Lady Susan
+alarm which might seriously affect his health and spirits. [[Lady Susan]]
 
 has certainly contrived, in the space of a fortnight, to make my
 
 brother like her. In short, I am persuaded that his continuing here
 
-beyond the time originally fixed for his return is occasioned as much
+beyond the [[Time|time]] originally fixed for his return is occasioned as much
 
 by a degree of fascination towards her, as by the wish of hunting with
 
@@ -216,13 +216,13 @@ I am, indeed, provoked at the artifice of this unprincipled woman; what
 
 stronger proof of her dangerous abilities can be given than this
 
-perversion of Reginald’s judgment, which when he entered the house was
+perversion of Reginald’s judgment, which when he entered the [[house]] was
 
 so decidedly against her! In his last letter he actually gave me some
 
 particulars of her behaviour at Langford, such as he received from a
 
-gentleman who knew her perfectly well, which, if true, must raise
+gentleman who knew her perfectly [[Well|well]], which, if true, must raise
 
 abhorrence against her, and which Reginald himself was entirely
 
@@ -238,19 +238,19 @@ inclined to flirt with her. Her behaviour, I confess, has been
 
 calculated to do away with such an idea; I have not detected the
 
-smallest impropriety in it—nothing of vanity, of pretension, of levity;
+smallest impropriety in it—nothing of [[Vanity|vanity]], of pretension, of levity;
 
-and she is altogether so attractive that I should not wonder at his
+and she is altogether so attractive that I should not [[Wonder|wonder]] at his
 
 being delighted with her, had he known nothing of her previous to this
 
 personal acquaintance; but, against reason, against conviction, to be
 
-so well pleased with her, as I am sure he is, does really astonish me.
+so [[Well|well]] pleased with her, as I am sure he is, does really astonish me.
 
 His admiration was at first very strong, but no more than was natural,
 
-and I did not wonder at his being much struck by the gentleness and
+and I did not [[Wonder|wonder]] at his being much struck by the gentleness and
 
 delicacy of her manners; but when he has mentioned her of late it has
 
@@ -262,19 +262,19 @@ of man by such loveliness and such abilities; and when I lamented, in
 
 reply, the badness of her disposition, he observed that whatever might
 
-have been her errors they were to be imputed to her neglected education
+have been her errors they were to be imputed to her neglected [[Education|education]]
 
-and early marriage, and that she was altogether a wonderful woman. This
+and early [[Marriage|marriage]], and that she was altogether a wonderful woman. This
 
 tendency to excuse her conduct or to forget it, in the warmth of
 
 admiration, vexes me; and if I did not know that Reginald is too much
 
-at home at Churchhill to need an invitation for lengthening his visit,
+at [[Home|home]] at Churchhill to need an invitation for lengthening his visit,
 
-I should regret Mr. Vernon’s giving him any. Lady Susan’s intentions
+I should regret Mr. Vernon’s giving him any. [[Lady Susan]]’s intentions
 
-are of course those of absolute coquetry, or a desire of universal
+are of course those of absolute coquetry, or a [[Desire|desire]] of universal
 
 admiration; I cannot for a moment imagine that she has anything more
 

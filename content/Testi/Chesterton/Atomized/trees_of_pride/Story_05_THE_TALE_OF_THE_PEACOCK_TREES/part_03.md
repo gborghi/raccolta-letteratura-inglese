@@ -1,5 +1,5 @@
 ---
-title: "trees of pride — THE TALE OF THE PEACOCK TREES (part 3)"
+title: "trees of [[Pride|pride]] — THE TALE OF THE PEACOCK TREES (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/trees-of-pride-(Chesterton)"
@@ -16,17 +16,17 @@ tags:
 
 When, however, they reached the little table under the tree,
 the apparently immovable young lady had moved away after all,
-and it was some time before they came upon the track of her.
+and it was some [[Time|time]] before they came upon the track of her.
 She had risen, though languidly, and wandered slowly along the upper
-path of the terraced garden looking down on the lower path where it
+path of the terraced [[Garden|garden]] looking down on the lower path where it
 ran closer to the main bulk of the little wood by the sea.
 
 Her languor was not a feebleness but rather a fullness of life,
-like that of a child half awake; she seemed to stretch herself and enjoy
+like that of a [[Child|child]] half awake; she seemed to stretch herself and enjoy
 everything without noticing anything.  She passed the wood, into the gray
 huddle of which a single white path vanished through a black hole.
 Along this part of the terrace ran something like a low rampart
-or balustrade, embowered with flowers at intervals; and she leaned
+or balustrade, embowered with [[Flowers|flowers]] at intervals; and she leaned
 over it, looking down at another glimpse of the glowing sea behind
 the clump of trees, and on another irregular path tumbling down
 to the pier and the boatman's cottage on the beach.
@@ -42,7 +42,7 @@ clothes common enough in texture, yet carried in an uncommon fashion.
 He wore what was presumably a light waterproof, perhaps through having
 come off the sea; but it was held at the throat by one button,
 and hung, sleeves and all, more like a cloak than a coat.
-He rested one bony hand on a black stick; under the shadow
+He rested one bony hand on a black stick; under the [[Shadow|shadow]]
 of his broad hat his black hair hung down in a tuft or two.
 His face, which was swarthy, but rather handsome in itself,
 wore something that may have been a slightly embarrassed smile,
@@ -68,7 +68,7 @@ so to speak, a jongleur."
 "A what?" asked Barbara.
 
 "A minstrel, shall we say?" answered the newcomer, and looked up
-at her more steadily.  During a rather odd silence their eyes
+at her more steadily.  During a rather odd [[Silence|silence]] their eyes
 rested on each other.  What she saw has been already noted,
 though by her, at any rate, not in the least understood.
 What he saw was a decidedly beautiful woman with a statuesque face
@@ -80,11 +80,11 @@ may really have looked over that wall and thrown him money?"
 
 "Do you want money?" she asked, all at sea.
 
-"Well," drawled the stranger, "in the sense of lacking it, perhaps, but I
-fear there is no place now for a minstrel, except nigger minstrel.
+"[[Well]]," drawled the stranger, "in the sense of lacking it, perhaps, but I
+[[Fear|fear]] there is no place now for a minstrel, except nigger minstrel.
 I must apologize for not blacking my face."
 
-She laughed a little in her bewilderment, and said:  "Well, I hardly
+She laughed a little in her bewilderment, and said:  "[[Well]], I hardly
 think you need do that."
 
 "You think the natives here are dark enough already, perhaps,"
@@ -97,13 +97,13 @@ and wondered what would happen next.
 "The prospect is certainly beautiful," he assented, in the same
 enigmatic manner.  "There is only one thing in it I am doubtful about."
 
-While she stood in silence he slowly lifted his black stick like a long
+While she stood in [[Silence|silence]] he slowly lifted his black stick like a long
 black finger and pointed it at the peacock trees above the wood.
 And a queer feeling of disquiet fell on the girl, as if he were,
 by that mere gesture, doing a destructive act and could send a blight
-upon the garden.
+upon the [[Garden|garden]].
 
-The strained and almost painful silence was broken by the voice
+The strained and almost painful [[Silence|silence]] was broken by the voice
 of Squire Vane, loud even while it was still distant.
 
 "We couldn't make out where you'd got to, Barbara," he said.
@@ -125,19 +125,19 @@ to the table under the tree.
 
 Cyprian Paynter followed, inwardly revolving a puzzle which had taken
 even his experience by surprise.  The American, if intellectually
-an aristocrat, was still socially and subconsciously a democrat.
+an [[aristocrat]], was still socially and subconsciously a democrat.
 It had never crossed his mind that the poet should be counted
 lucky to know the squire and not the squire to know the poet.
 The honest patronage in Vane's hospitality was something which made
-Paynter feel he was, after all, an exile in England.
+Paynter feel he was, after all, an [[Exile|exile]] in England.
 
 The Squire, anticipating the trial of luncheon with a strange
 literary man, had dealt with the case tactfully from his own standpoint.
-County society might have made the guest feel like a fish out of water;
+County society might have made the guest feel like a fish out of [[Water|water]];
 and, except for the American critic and the local lawyer and doctor,
 worthy middle-class people who fitted into the picture, he had kept it
 as a family party.  He was a widower, and when the meal had been laid
-out on the garden table, it was Barbara who presided as hostess.  She had
+out on the [[Garden|garden]] table, it was Barbara who presided as hostess.  She had
 the new poet on her right hand and it made her very uncomfortable.
 She had practically offered that fallacious jongleur money,
 and it did not make it easier to offer him lunch.

@@ -1,5 +1,5 @@
 ---
-title: "GKC Come to Think — ON ABRAHAM LINCOLN"
+title: "GKC Come to Think — ON [[Abraham Lincoln|ABRAHAM LINCOLN]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/GKC-Come-to-Think-(Chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-XXXIX.  On Abraham Lincoln
+XXXIX.  On [[Abraham Lincoln]]
 
-IT is recognized that Lincoln emerged from the lower grades of law
+IT is recognized that [[Lincoln]] emerged from the lower grades of law
 and politics through an atmosphere in which the lowest tricks were
 regarded as only tricks of the trade.  That queer, shabby figure,
 the `rail-splitter', with his stove-pipe hat and clumsy cotton umbrella,
@@ -101,8 +101,8 @@ his changes of trade and dwelling place--all these would have
 sufficed to make him seem from the first fated to failure.
 But, whatever his weaknesses or even his vices, they would not
 have been so fatal to his chances as his own supreme virtue.
-The one great virtue of Abraham Lincoln would have seemed alone sufficient
-to cut him off from all hope of success in modern civilization.
+The one great virtue of [[Abraham Lincoln]] would have seemed [[Alone|alone]] sufficient
+to cut him off from all [[Hope|hope]] of [[success]] in modern civilization.
 
 For this great man had one secret vice far more unpopular among his
 followers than the habit of drinking.  He had the habit of thinking.
@@ -114,22 +114,22 @@ having been nagged by his wife.  This habit of thinking was not
 the thoughtless thing commonly called free-thinking, though he may
 have picked up a little of that in his less enlightened days.
 It was real thinking, which means knowing exactly where to draw the line--
-a logic which is often mistaken for compromise.
+a [[logic]] which is often mistaken for compromise.
 
-The great glory of Lincoln is that, almost alone among politicians,
-he really knew what he thought about politics.  He really thought slavery
-was bad, but he really thought the disruption of America was worse.
+The great glory of [[Lincoln]] is that, almost [[Alone|alone]] among politicians,
+he really knew what he thought about politics.  He really thought [[Slavery|slavery]]
+was bad, but he really thought the disruption of [[America]] was worse.
 It is perfectly possible for an intelligent person to disagree with
 him on either or both of these points.  But he was an intelligent
 person when he stated them in that way, and put them in that order.
-In short, he had a native love of Truth; and, like every man
-with such a love, he had a natural hatred of mere Tendency.
+In short, he had a native [[Love|love]] of [[Truth]]; and, like every man
+with such a [[Love|love]], he had a natural hatred of mere Tendency.
 He had no use for progress, for evolution, for going with the stream,
 for letting the spirit of the age lead him onward.  He knew exactly
 what he thought, not only about the perfection, but the proportion
-of truth; not only about the direction, but the distance.
+of [[Truth|truth]]; not only about the direction, but the distance.
 He was not always right; but he always tried to be reasonable,
 and that in exactly the sense which his special admirers have never
 understood from that day to this.  He tried to be reasonable.
-It is not surprising that his life was a martyrdom, and that
+It is not surprising that his life was a [[Martyrdom|martyrdom]], and that
 he died murdered.

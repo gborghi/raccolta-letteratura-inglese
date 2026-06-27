@@ -18,7 +18,7 @@ tags:
 
       accordance with the terms of the mulct or sentence, which is in
 
-      its nature Median, and not to be altered or recalled. The
+      its [[Nature|nature]] Median, and not to be altered or recalled. The
 
       conditions we have imposed must be fulfilled to the letter, and
 
@@ -34,7 +34,7 @@ tags:
 
       glorious decree!—a most worthy and upright, and holy
 
-      condemnation!” shouted the Pest family altogether. The king
+      condemnation!” shouted the Pest family altogether. The [[King|king]]
 
       elevated his forehead into innumerable wrinkles; the gouty little
 
@@ -54,7 +54,7 @@ tags:
 
       excitation, “ugh! ugh! ugh!—ugh! ugh! ugh!—ugh! ugh! ugh!—I was
 
-      saying,” said he, “I was saying when Mr. King Pest poked in his
+      saying,” said he, “I was saying when Mr. [[King]] Pest poked in his
 
       marlin-spike, that as for the matter of two or three gallons more
 
@@ -64,7 +64,7 @@ tags:
 
       the Devil (whom God assoilzie) and going down upon my marrow
 
-      bones to his ill-favored majesty there, whom I know, as well as I
+      bones to his ill-favored majesty there, whom I know, as [[Well|well]] as I
 
       know myself to be a sinner, to be nobody in the whole world, but
 
@@ -84,7 +84,7 @@ tags:
 
 
 
-      “Treason!” shouted his Majesty King Pest the First.
+      “Treason!” shouted his Majesty [[King]] Pest the First.
 
 
 
@@ -126,13 +126,13 @@ tags:
 
       Not tamely, however, did the tall seaman behold the discomfiture
 
-      of his companion. Jostling King Pest through the open trap, the
+      of his companion. Jostling [[King]] Pest through the open trap, the
 
       valiant Legs slammed the door down upon him with an oath, and
 
       strode towards the centre of the room. Here tearing down the
 
-      skeleton which swung over the table, he laid it about him with so
+      [[skeleton]] which swung over the table, he laid it about him with so
 
       much energy and good will, that, as the last glimpses of light
 
@@ -144,15 +144,15 @@ tags:
 
       Hugh Tarpaulin, he rolled it over and over in an instant. Out
 
-      burst a deluge of liquor so fierce—so impetuous—so
+      burst a [[deluge]] of liquor so fierce—so impetuous—so
 
       overwhelming—that the room was flooded from wall to wall—the
 
       loaded table was overturned—the tressels were thrown upon their
 
-      backs—the tub of punch into the fire-place—and the ladies into
+      backs—the tub of punch into the [[Fire|fire]]-place—and the ladies into
 
-      hysterics. Piles of death-furniture floundered about. Jugs,
+      hysterics. Piles of [[Death|death]]-furniture floundered about. Jugs,
 
       pitchers, and carboys mingled promiscuously in the _mêlée_, and
 
@@ -190,15 +190,15 @@ THREE SUNDAYS IN A WEEK
 
       fusty, old savage!” said I, in fancy, one afternoon, to my grand
 
-      uncle Rumgudgeon—shaking my fist at him in imagination.
+      uncle Rumgudgeon—shaking my fist at him in [[Imagination|imagination]].
 
 
 
-      Only in imagination. The fact is, some trivial discrepancy _did_
+      Only in [[Imagination|imagination]]. The fact is, some trivial discrepancy _did_
 
       exist, just then, between what I said and what I had not the
 
-      courage to say—between what I did and what I had half a mind to
+      [[Courage|courage]] to say—between what I did and what I had half a mind to
 
       do.
 
@@ -238,7 +238,7 @@ THREE SUNDAYS IN A WEEK
 
       “I am sure, my dearest uncle (you confounded old rascal!), that
 
-      you have no design really, seriously, to oppose my union with
+      you have no design really, seriously, to oppose my [[Union|union]] with
 
       Kate. This is merely a joke of yours, I know—ha! ha! ha!—how very
 

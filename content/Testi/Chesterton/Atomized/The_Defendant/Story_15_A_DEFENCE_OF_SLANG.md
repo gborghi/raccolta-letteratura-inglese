@@ -23,7 +23,7 @@ but they flaunt unobtrusively, and their attempts at arrogance are
 depressing. Their chief duty hitherto has been the development of
 variety, vivacity, and fulness of life; oligarchy was the world's first
 experiment in liberty. But now they have adopted the opposite ideal of
-'good form,' which may be defined as Puritanism without religion. Good
+'good form,' which may be defined as [[Puritanism]] without religion. Good
 form has sent them all into black like the stroke of a funeral bell.
 They engage, like Mr. Gilbert's curates, in a war of mildness, a
 positive competition of obscurity. In old times the lords of the earth
@@ -31,9 +31,9 @@ sought above all things to be distinguished from each other; with that
 object they erected outrageous images on their helmets and painted
 preposterous colours on their shields. They wished to make it entirely
 clear that a Norfolk was as different, say, from an Argyll as a white
-lion from a black pig. But to-day their ideal is precisely the opposite
+[[Lion|lion]] from a black pig. But to-day their ideal is precisely the opposite
 one, and if a Norfolk and an Argyll were dressed so much alike that they
-were mistaken for each other they would both go home dancing with joy.
+were mistaken for each other they would both go [[Home|home]] dancing with joy.
 
 The consequences of this are inevitable. The aristocracy must lose their
 function of standing to the world for the idea of variety, experiment,
@@ -62,13 +62,13 @@ of Christian's dulness and lack of culture, the latter replies:
   'Bah! on trouve des mots quand on monte à l'assaut;
   Oui, j'ai un certain esprit facile et militaire;'
 
-and these two lines sum up a truth about the old oligarchs. They could
+and these two lines sum up a [[Truth|truth]] about the old oligarchs. They could
 not write three legible letters, but they could sometimes speak
 literature. Douglas, when he hurled the heart of Bruce in front of him
 in his last battle, cried out, 'Pass first, great heart, as thou wert
-ever wont.' A Spanish nobleman, when commanded by the King to receive a
+ever wont.' A Spanish nobleman, when commanded by the [[King]] to receive a
 high-placed and notorious traitor, said: 'I will receive him in all
-obedience, and burn down my house afterwards.' This is literature
+obedience, and burn down my [[house]] afterwards.' This is literature
 without culture; it is the speech of men convinced that they have to
 assert proudly the poetry of life.
 
@@ -83,8 +83,8 @@ rhetoric, that he was the Earl of Doncaster, he would be arrested as a
 lunatic; but if it were discovered that he really was the Earl of
 Doncaster, he would simply be cut as a cad. No poetical prose must be
 expected from Earls as a class. The fashionable slang is hardly even a
-language; it is like the formless cries of animals, dimly indicating
-certain broad, well-understood states of mind. 'Bored,' 'cut up,'
+language; it is like the formless cries of [[Animals|animals]], dimly indicating
+certain broad, [[Well|well]]-understood states of mind. 'Bored,' 'cut up,'
 'jolly,' 'rotten,' and so on, are like the words of some tribe of
 savages whose vocabulary has only twenty of them. If a man of fashion
 wished to protest against some solecism in another man of fashion, his
@@ -96,20 +96,20 @@ precious little of yer, and that's clothes...that's right, put yer cigar
 in yer mouth 'cos I can't see yer be'ind it...take it out again, do yer!
 you're young for smokin', but I've sent for yer mother.... Goin'? oh,
 don't run away: I won't 'arm yer. I've got a good 'art, I 'ave.... "Down
-with croolty to animals," I say,' and so on. It is evident that this
+with croolty to [[Animals|animals]]," I say,' and so on. It is evident that this
 mode of speech is not only literary, but literary in a very ornate and
-almost artificial sense. Keats never put into a sonnet so many remote
+almost artificial sense. Keats never put into a [[Sonnet|sonnet]] so many remote
 metaphors as a coster puts into a curse; his speech is one long
-allegory, like Spenser's 'Faerie Queen.'
+[[Allegory|allegory]], like Spenser's 'Faerie [[Queen]].'
 
 I do not imagine that it is necessary to demonstrate that this poetic
 allusiveness is the characteristic of true slang. Such an expression as
 'Keep your hair on' is positively Meredithian in its perverse and
-mysterious manner of expressing an idea. The Americans have a well-known
-expression about 'swelled-head' as a description of self-approval, and
+mysterious manner of expressing an idea. The Americans have a [[Well|well]]-known
+expression about 'swelled-head' as a description of [[Self|self]]-approval, and
 the other day I heard a remarkable fantasia upon this air. An American
 said that after the Chinese War the Japanese wanted 'to put on their
-hats with a shoe-horn.' This is a monument of the true nature of slang,
+hats with a shoe-horn.' This is a monument of the true [[Nature|nature]] of slang,
 which consists in getting further and further away from the original
 conception, in treating it more and more as an assumption. It is rather
 like the literary doctrine of the Symbolists.
@@ -117,13 +117,13 @@ like the literary doctrine of the Symbolists.
 The real reason of this great development of eloquence among the lower
 orders again brings us back to the case of the aristocracy in earlier
 times. The lower classes live in a state of war, a war of words. Their
-readiness is the product of the same fiery individualism as the
-readiness of the old fighting oligarchs. Any cabman has to be ready with
+readiness is the product of the same fiery [[Individualism|individualism]] as the
+readiness of the old fighting oligarchs. Any [[cabman]] has to be ready with
 his tongue, as any gentleman of the last century had to be ready with
-his sword. It is unfortunate that the poetry which is developed by this
-process should be purely a grotesque poetry. But as the higher orders of
+his [[Sword|sword]]. It is unfortunate that the poetry which is developed by this
+process should be purely a [[Grotesque|grotesque]] poetry. But as the higher orders of
 society have entirely abdicated their right to speak with a heroic
-eloquence, it is no wonder that the language should develop by itself in
+eloquence, it is no [[Wonder|wonder]] that the language should develop by itself in
 the direction of a rowdy eloquence. The essential point is that somebody
 must be at work adding new symbols and new circumlocutions to a
 language.
@@ -132,9 +132,9 @@ All slang is metaphor, and all metaphor is poetry. If we paused for a
 moment to examine the cheapest cant phrases that pass our lips every
 day, we should find that they were as rich and suggestive as so many
 sonnets. To take a single instance: we speak of a man in English social
-relations 'breaking the ice.' If this were expanded into a sonnet, we
-should have before us a dark and sublime picture of an ocean of
-everlasting ice, the sombre and baffling mirror of the Northern nature,
+relations 'breaking the ice.' If this were expanded into a [[Sonnet|sonnet]], we
+should have before us a dark and [[Sublime|sublime]] picture of an ocean of
+everlasting ice, the sombre and baffling [[Mirror|mirror]] of the Northern [[Nature|nature]],
 over which men walked and danced and skated easily, but under which the
 living waters roared and toiled fathoms below. The world of slang is a
 kind of topsy-turveydom of poetry, full of blue moons and white

@@ -1,5 +1,5 @@
 ---
-title: "Some Words with a Mummy (part 5)"
+title: "[[Some Words with a Mummy]] (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Some-Words-with-a-Mummy-(Poe)"
@@ -48,8 +48,8 @@ tags:
       explanation that the foreigner could be made to comprehend them. The
       latter at length said, hesitatingly:
 
-      “The ideas you have suggested are to me, I confess, utterly novel. During
-      my time I never knew any one to entertain so singular a fancy as that the
+      “The ideas you have suggested are to me, I confess, utterly [[Novel|novel]]. During
+      my [[Time|time]] I never knew any one to entertain so singular a fancy as that the
       universe (or this world if you will have it so) ever had a beginning at
       all. I remember once, and once only, hearing something remotely hinted, by
       a man of many speculations, concerning the origin _of the human race;_
@@ -62,11 +62,11 @@ tags:
 
 
       Here, in general, the company shrugged their shoulders, and one or two of
-      us touched our foreheads with a very significant air. Mr. Silk Buckingham,
+      us touched our foreheads with a very significant air. Mr. Silk [[Buckingham]],
       first glancing slightly at the occiput and then at the sinciput of
       Allamistakeo, spoke as follows:
 
-      “The long duration of human life in your time, together with the
+      “The long duration of human life in your [[Time|time]], together with the
       occasional practice of passing it, as you have explained, in installments,
       must have had, indeed, a strong tendency to the general development and
       conglomeration of knowledge. I presume, therefore, that we are to
@@ -85,7 +85,7 @@ tags:
 
       Having heard us to an end, the Count proceeded to relate a few anecdotes,
       which rendered it evident that prototypes of Gall and Spurzheim had
-      flourished and faded in Egypt so long ago as to have been nearly
+      flourished and faded in [[Egypt]] so long ago as to have been nearly
       forgotten, and that the manoeuvres of Mesmer were really very contemptible
       tricks when put in collation with the positive miracles of the Theban
       savans, who created lice and a great many other similar things.
@@ -96,7 +96,7 @@ tags:
       This put me a little out, but I began to make other inquiries in regard to
       his astronomical knowledge, when a member of the company, who had never as
       yet opened his mouth, whispered in my ear, that for information on this
-      head, I had better consult Ptolemy (whoever Ptolemy is), as well as one
+      head, I had better consult Ptolemy (whoever Ptolemy is), as [[Well|well]] as one
       Plutarch de facie lunae.
 
       I then questioned the Mummy about burning-glasses and lenses, and, in
@@ -116,12 +116,12 @@ tags:
       York! or if this be too vast a contemplation, regard for a moment the
       Capitol at Washington, D. C.!”—and the good little medical man went
       on to detail very minutely, the proportions of the fabric to which he
-      referred. He explained that the portico alone was adorned with no less
+      referred. He explained that the portico [[Alone|alone]] was adorned with no less
       than four and twenty columns, five feet in diameter, and ten feet apart.
 
       The Count said that he regretted not being able to remember, just at that
       moment, the precise dimensions of any one of the principal buildings of
-      the city of Aznac, whose foundations were laid in the night of Time, but
+      the [[City|city]] of Aznac, whose foundations were laid in the [[Night|night]] of [[Time]], but
       the ruins of which were still standing, at the epoch of his entombment, in
       a vast plain of sand to the westward of Thebes. He recollected, however,
       (talking of the porticoes,) that one affixed to an inferior palace in a
@@ -129,7 +129,7 @@ tags:
       columns, thirty-seven feet in circumference, and twenty-five feet apart.
       The approach to this portico, from the Nile, was through an avenue two
       miles long, composed of sphynxes, statues, and obelisks, twenty, sixty,
-      and a hundred feet in height. The palace itself (as well as he could
+      and a hundred feet in height. The palace itself (as [[Well|well]] as he could
       remember) was, in one direction, two miles long, and might have been
       altogether about seven in circuit. Its walls were richly painted all over,
       within and without, with hieroglyphics. He would not pretend to assert
@@ -140,4 +140,4 @@ tags:
       however, could not conscientiously refuse to admit the ingenuity,
       magnificence, and superiority of the Fountain at the Bowling Green, as
       described by the Doctor. Nothing like it, he was forced to allow, had ever
-      been seen in Egypt or elsewhere.
+      been seen in [[Egypt]] or elsewhere.

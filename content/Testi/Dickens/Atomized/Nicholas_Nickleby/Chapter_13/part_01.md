@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 13 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 13 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -20,7 +20,7 @@ Nicholas varies the Monotony of Dothebys Hall by a most vigorous and
 remarkable proceeding, which leads to Consequences of some Importance
 
 
-The cold, feeble dawn of a January morning was stealing in at the
+The cold, feeble [[Dawn|dawn]] of a January morning was stealing in at the
 windows of the common sleeping-room, when Nicholas, raising himself on
 his arm, looked among the prostrate forms which on every side surrounded
 him, as though in search of some particular object.
@@ -36,17 +36,17 @@ There were some who, lying on their backs with upturned faces and
 clenched hands, just visible in the leaden light, bore more the aspect
 of dead bodies than of living creatures; and there were others coiled up
 into strange and fantastic postures, such as might have been taken for
-the uneasy efforts of pain to gain some temporary relief, rather than
+the uneasy efforts of [[Pain|pain]] to gain some temporary relief, rather than
 the freaks of slumber. A few--and these were among the youngest of the
 children--slept peacefully on, with smiles upon their faces, dreaming
-perhaps of home; but ever and again a deep and heavy sigh, breaking the
+perhaps of [[Home|home]]; but ever and again a deep and heavy sigh, breaking the
 stillness of the room, announced that some new sleeper had awakened to
-the misery of another day; and, as morning took the place of night, the
+the misery of another day; and, as morning took the place of [[Night|night]], the
 smiles gradually faded away, with the friendly darkness which had given
 them birth.
 
-Dreams are the bright creatures of poem and legend, who sport on earth
-in the night season, and melt away in the first beam of the sun, which
+[[Dreams]] are the bright creatures of poem and legend, who sport on earth
+in the [[Night|night]] season, and melt away in the first beam of the sun, which
 lights grim care and stern reality on their daily pilgrimage through the
 world.
 
@@ -56,35 +56,35 @@ sorrowful effect in consequence; and, afterwards, with a more intense
 and searching scrutiny, as a man would who missed something his eye was
 accustomed to meet, and had expected to rest upon. He was still occupied
 in this search, and had half risen from his bed in the eagerness of his
-quest, when the voice of Squeers was heard, calling from the bottom of
+[[Quest|quest]], when the voice of Squeers was heard, calling from the [[Bottom|bottom]] of
 the stairs.
 
-‘Now then,’ cried that gentleman, ‘are you going to sleep all day, up
+‘Now then,’ cried that gentleman, ‘are you going to [[Sleep|sleep]] all day, up
 there--’
 
 ‘You lazy hounds?’ added Mrs. Squeers, finishing the sentence, and
-producing, at the same time, a sharp sound, like that which is
+producing, at the same [[Time|time]], a sharp sound, like that which is
 occasioned by the lacing of stays.
 
 ‘We shall be down directly, sir,’ replied Nicholas.
 
 ‘Down directly!’ said Squeers. ‘Ah! you had better be down directly, or
-I’ll be down upon some of you in less. Where’s that Smike?’
+I’ll be down upon some of you in less. Where’s that [[Smike]]?’
 
 Nicholas looked hurriedly round again, but made no answer.
 
-‘Smike!’ shouted Squeers.
+‘[[Smike]]!’ shouted Squeers.
 
-‘Do you want your head broke in a fresh place, Smike?’ demanded his
+‘Do you want your head broke in a fresh place, [[Smike]]?’ demanded his
 amiable lady in the same key.
 
 Still there was no reply, and still Nicholas stared about him, as did
-the greater part of the boys, who were by this time roused.
+the greater part of the boys, who were by this [[Time|time]] roused.
 
 ‘Confound his impudence!’ muttered Squeers, rapping the stair-rail
 impatiently with his cane. ‘Nickleby!’
 
-‘Well, sir.’
+‘[[Well]], sir.’
 
 ‘Send that obstinate scoundrel down; don’t you hear me calling?’
 
@@ -99,18 +99,18 @@ him, I warrant you.’
 
 With which assurance, Mr. Squeers bounced into the dormitory, and,
 swinging his cane in the air ready for a blow, darted into the corner
-where the lean body of the drudge was usually stretched at night. The
+where the lean [[Body|body]] of the drudge was usually stretched at [[Night|night]]. The
 cane descended harmlessly upon the ground. There was nobody there.
 
 ‘What does this mean?’ said Squeers, turning round with a very pale
 face. ‘Where have you hid him?’
 
-‘I have seen nothing of him since last night,’ replied Nicholas.
+‘I have seen nothing of him since last [[Night|night]],’ replied Nicholas.
 
 ‘Come,’ said Squeers, evidently frightened, though he endeavoured to
 look otherwise, ‘you won’t save him this way. Where is he?’
 
-‘At the bottom of the nearest pond for aught I know,’ rejoined Nicholas
+‘At the [[Bottom|bottom]] of the nearest pond for aught I know,’ rejoined Nicholas
 in a low voice, and fixing his eyes full on the master’s face.
 
 ‘Damn you, what do you mean by that?’ retorted Squeers in great
@@ -120,16 +120,16 @@ whether any one among them knew anything of their missing schoolmate.
 There was a general hum of anxious denial, in the midst of which, one
 shrill voice was heard to say (as, indeed, everybody thought):
 
-‘Please, sir, I think Smike’s run away, sir.’
+‘Please, sir, I think [[Smike]]’s run away, sir.’
 
 ‘Ha!’ cried Squeers, turning sharp round. ‘Who said that?’
 
-‘Tomkins, please sir,’ rejoined a chorus of voices. Mr. Squeers made
+‘Tomkins, please sir,’ rejoined a [[Chorus|chorus]] of voices. Mr. Squeers made
 a plunge into the crowd, and at one dive, caught a very little boy,
-habited still in his night-gear, and the perplexed expression of whose
+habited still in his [[Night|night]]-gear, and the perplexed expression of whose
 countenance, as he was brought forward, seemed to intimate that he was
 as yet uncertain whether he was about to be punished or rewarded for the
-suggestion. He was not long in doubt.
+suggestion. He was not long in [[Doubt|doubt]].
 
 ‘You think he has run away, do you, sir?’ demanded Squeers.
 
@@ -140,14 +140,14 @@ the arms and whisking up his drapery in a most dexterous manner, ‘what
 reason have you to suppose that any boy would want to run away from this
 establishment? Eh, sir?’
 
-The child raised a dismal cry, by way of answer, and Mr. Squeers,
+The [[Child|child]] raised a dismal cry, by way of answer, and Mr. Squeers,
 throwing himself into the most favourable attitude for exercising his
 strength, beat him until the little urchin in his writhings actually
 rolled out of his hands, when he mercifully allowed him to roll away, as
 he best could.
 
-‘There,’ said Squeers. ‘Now if any other boy thinks Smike has run away,
+‘There,’ said Squeers. ‘Now if any other boy thinks [[Smike]] has run away,
 I shall be glad to have a talk with him.’
 
-There was, of course, a profound silence, during which Nicholas showed
+There was, of course, a profound [[Silence|silence]], during which Nicholas showed
 his disgust as plainly as looks could show it.

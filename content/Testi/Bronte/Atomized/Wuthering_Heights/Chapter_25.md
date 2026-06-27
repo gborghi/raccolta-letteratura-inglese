@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 25"
+title: "[[Wuthering Heights]] — Chapter 25"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -17,18 +17,18 @@ tags:
 CHAPTER XXV
 
 
-“These things happened last winter, sir,” said Mrs. Dean; “hardly more
-than a year ago. Last winter, I did not think, at another twelve
+“These things happened last [[Winter|winter]], sir,” said Mrs. Dean; “hardly more
+than a year ago. Last [[Winter|winter]], I did not think, at another twelve
 months’ end, I should be amusing a stranger to the family with relating
 them! Yet, who knows how long you’ll be a stranger? You’re too young to
 rest always contented, living by yourself; and I some way fancy no one
-could see Catherine Linton and not love her. You smile; but why do you
+could see Catherine Linton and not [[Love|love]] her. You smile; but why do you
 look so lively and interested when I talk about her? and why have you
 asked me to hang her picture over your fireplace? and why—?”
 
 “Stop, my good friend!” I cried. “It may be very possible that _I_
-should love her; but would she love me? I doubt it too much to venture
-my tranquillity by running into temptation: and then my home is not
+should [[Love|love]] her; but would she [[Love|love]] me? I [[Doubt|doubt]] it too much to venture
+my tranquillity by running into [[Temptation|temptation]]: and then my [[Home|home]] is not
 here. I’m of the busy world, and to its arms I must return. Go on. Was
 Catherine obedient to her father’s commands?”
 
@@ -45,28 +45,28 @@ of improvement, as he grows a man?’
 manhood: but this I can say, he does not resemble his father; and if
 Miss Catherine had the misfortune to marry him, he would not be beyond
 her control: unless she were extremely and foolishly indulgent.
-However, master, you’ll have plenty of time to get acquainted with him
+However, master, you’ll have plenty of [[Time|time]] to get acquainted with him
 and see whether he would suit her: it wants four years and more to his
 being of age.’”
 
-Edgar sighed; and, walking to the window, looked out towards Gimmerton
+[[Edgar]] sighed; and, walking to the [[Window|window]], looked out towards Gimmerton
 Kirk. It was a misty afternoon, but the February sun shone dimly, and
 we could just distinguish the two fir-trees in the yard, and the
 sparely-scattered gravestones.
 
 “I’ve prayed often,” he half soliloquised, “for the approach of what is
-coming; and now I begin to shrink, and fear it. I thought the memory of
+coming; and now I begin to shrink, and [[Fear|fear]] it. I thought the [[Memory|memory]] of
 the hour I came down that glen a bridegroom would be less sweet than
 the anticipation that I was soon, in a few months, or, possibly, weeks,
 to be carried up, and laid in its lonely hollow! Ellen, I’ve been very
-happy with my little Cathy: through winter nights and summer days she
-was a living hope at my side. But I’ve been as happy musing by myself
+happy with my little Cathy: through [[Winter|winter]] nights and [[Summer|summer]] days she
+was a living [[Hope|hope]] at my side. But I’ve been as happy musing by myself
 among those stones, under that old church: lying, through the long June
-evenings, on the green mound of her mother’s grave, and
-wishing—yearning for the time when I might lie beneath it. What can I
+evenings, on the green mound of her mother’s [[Grave|grave]], and
+wishing—yearning for the [[Time|time]] when I might lie beneath it. What can I
 do for Cathy? How must I quit her? I’d not care one moment for Linton
-being Heathcliff’s son; nor for his taking her from me, if he could
-console her for my loss. I’d not care that Heathcliff gained his ends,
+being [[Heathcliff]]’s son; nor for his taking her from me, if he could
+console her for my loss. I’d not care that [[Heathcliff]] gained his ends,
 and triumphed in robbing me of my last blessing! But should Linton be
 unworthy—only a feeble tool to his father—I cannot abandon her to him!
 And, hard though it be to crush her buoyant spirit, I must persevere in
@@ -75,35 +75,35 @@ Darling! I’d rather resign her to God, and lay her in the earth before
 me.”
 
 “Resign her to God as it is, sir,” I answered, “and if we should lose
-you—which may He forbid—under His providence, I’ll stand her friend and
-counsellor to the last. Miss Catherine is a good girl: I don’t fear
+you—which may He forbid—under His [[Providence|providence]], I’ll stand her friend and
+counsellor to the last. Miss Catherine is a good girl: I don’t [[Fear|fear]]
 that she will go wilfully wrong; and people who do their duty are
 always finally rewarded.”
 
-Spring advanced; yet my master gathered no real strength, though he
+[[spring|Spring]] advanced; yet my master gathered no real strength, though he
 resumed his walks in the grounds with his daughter. To her
 inexperienced notions, this itself was a sign of convalescence; and
 then his cheek was often flushed, and his eyes were bright; she felt
 sure of his recovering. On her seventeenth birthday, he did not visit
 the churchyard: it was raining, and I observed—
 
-“You’ll surely not go out to-night, sir?”
+“You’ll surely not go out to-[[Night|night]], sir?”
 
 He answered,—“No, I’ll defer it this year a little longer.”
 
-He wrote again to Linton, expressing his great desire to see him; and,
-had the invalid been presentable, I’ve no doubt his father would have
+He wrote again to Linton, expressing his great [[Desire|desire]] to see him; and,
+had the invalid been presentable, I’ve no [[Doubt|doubt]] his father would have
 permitted him to come. As it was, being instructed, he returned an
-answer, intimating that Mr. Heathcliff objected to his calling at the
+answer, intimating that Mr. [[Heathcliff]] objected to his calling at the
 Grange; but his uncle’s kind remembrance delighted him, and he hoped to
 meet him sometimes in his rambles, and personally to petition that his
 cousin and he might not remain long so utterly divided.
 
-That part of his letter was simple, and probably his own. Heathcliff
+That part of his letter was simple, and probably his own. [[Heathcliff]]
 knew he could plead eloquently for Catherine’s company, then.
 
 “I do not ask,” he said, “that she may visit here; but am I never to
-see her, because my father forbids me to go to her home, and you forbid
+see her, because my father forbids me to go to her [[Home|home]], and you forbid
 her to come to mine? Do, now and then, ride with her towards the
 Heights; and let us exchange a few words, in your presence! We have
 done nothing to deserve this separation; and you are not angry with me:
@@ -114,39 +114,39 @@ that my father’s character is not mine: he affirms I am more your
 nephew than his son; and though I have faults which render me unworthy
 of Catherine, she has excused them, and for her sake, you should also.
 You inquire after my health—it is better; but while I remain cut off
-from all hope, and doomed to solitude, or the society of those who
-never did and never will like me, how can I be cheerful and well?”
+from all [[Hope|hope]], and doomed to [[Solitude|solitude]], or the society of those who
+never did and never will like me, how can I be cheerful and [[Well|well]]?”
 
-Edgar, though he felt for the boy, could not consent to grant his
-request; because he could not accompany Catherine. He said, in summer,
+[[Edgar]], though he felt for the boy, could not consent to grant his
+request; because he could not accompany Catherine. He said, in [[Summer|summer]],
 perhaps, they might meet: meantime, he wished him to continue writing
 at intervals, and engaged to give him what advice and comfort he was
-able by letter; being well aware of his hard position in his family.
+able by letter; being [[Well|well]] aware of his hard position in his family.
 Linton complied; and had he been unrestrained, would probably have
 spoiled all by filling his epistles with complaints and lamentations:
 but his father kept a sharp watch over him; and, of course, insisted on
 every line that my master sent being shown; so, instead of penning his
 peculiar personal sufferings and distresses, the themes constantly
 uppermost in his thoughts, he harped on the cruel obligation of being
-held asunder from his friend and love; and gently intimated that Mr.
-Linton must allow an interview soon, or he should fear he was purposely
+held asunder from his friend and [[Love|love]]; and gently intimated that Mr.
+Linton must allow an interview soon, or he should [[Fear|fear]] he was purposely
 deceiving him with empty promises.
 
-Cathy was a powerful ally at home; and between them they at length
+Cathy was a powerful ally at [[Home|home]]; and between them they at length
 persuaded my master to acquiesce in their having a ride or a walk
 together about once a week, under my guardianship, and on the moors
 nearest the Grange: for June found him still declining. Though he had
 set aside yearly a portion of his income for my young lady’s fortune,
-he had a natural desire that she might retain—or at least return in a
-short time to—the house of her ancestors; and he considered her only
-prospect of doing that was by a union with his heir; he had no idea
+he had a natural [[Desire|desire]] that she might retain—or at least return in a
+short [[Time|time]] to—the [[house]] of her ancestors; and he considered her only
+prospect of doing that was by a [[Union|union]] with his heir; he had no idea
 that the latter was failing almost as fast as himself; nor had any one,
 I believe: no doctor visited the Heights, and no one saw Master
-Heathcliff to make report of his condition among us. I, for my part,
+[[Heathcliff]] to make report of his condition among us. I, for my part,
 began to fancy my forebodings were false, and that he must be actually
 rallying, when he mentioned riding and walking on the moors, and seemed
 so earnest in pursuing his object. I could not picture a father
-treating a dying child as tyrannically and wickedly as I afterwards
-learned Heathcliff had treated him, to compel this apparent eagerness:
+treating a dying [[Child|child]] as tyrannically and wickedly as I afterwards
+learned [[Heathcliff]] had treated him, to compel this apparent eagerness:
 his efforts redoubling the more imminently his avaricious and unfeeling
-plans were threatened with defeat by death.
+plans were threatened with defeat by [[Death|death]].

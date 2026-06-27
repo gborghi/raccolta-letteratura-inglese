@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 21 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 21 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -38,13 +38,13 @@ used to much better-sized apartments at Mr. Allen’s?”
 
 dining-parlour was not more than half as large,” and she had never seen
 
-so large a room as this in her life. The General’s good humour
+so large a room as this in her life. The General’s good [[Humour|humour]]
 
 increased. Why, as he _had_ such rooms, he thought it would be simple
 
-not to make use of them; but, upon his honour, he believed there might
+not to make use of them; but, upon his [[Honour|honour]], he believed there might
 
-be more comfort in rooms of only half their size. Mr. Allen’s house, he
+be more comfort in rooms of only half their size. Mr. Allen’s [[house]], he
 
 was sure, must be exactly of the true size for rational happiness.
 
@@ -52,11 +52,11 @@ was sure, must be exactly of the true size for rational happiness.
 
 The evening passed without any further disturbance, and, in the
 
-occasional absence of General Tilney, with much positive cheerfulness.
+occasional absence of [[General Tilney]], with much positive cheerfulness.
 
 It was only in his presence that Catherine felt the smallest fatigue
 
-from her journey; and even then, even in moments of languor or
+from her [[Journey|journey]]; and even then, even in moments of languor or
 
 restraint, a sense of general happiness preponderated, and she could
 
@@ -64,9 +64,9 @@ think of her friends in Bath without one wish of being with them.
 
 
 
-The night was stormy; the wind had been rising at intervals the whole
+The [[Night|night]] was stormy; the [[Wind|wind]] had been rising at intervals the whole
 
-afternoon; and by the time the party broke up, it blew and rained
+afternoon; and by the [[Time|time]] the party broke up, it blew and rained
 
 violently. Catherine, as she crossed the hall, listened to the tempest
 
@@ -74,7 +74,7 @@ with sensations of awe; and, when she heard it rage round a corner of
 
 the ancient building and close with sudden fury a distant door, felt
 
-for the first time that she was really in an abbey. Yes, these were
+for the first [[Time|time]] that she was really in an abbey. Yes, these were
 
 characteristic sounds; they brought to her recollection a countless
 
@@ -88,7 +88,7 @@ walls so solemn! _She_ had nothing to dread from midnight assassins or
 
 drunken gallants. Henry had certainly been only in jest in what he had
 
-told her that morning. In a house so furnished, and so guarded, she
+told her that morning. In a [[house]] so furnished, and so guarded, she
 
 could have nothing to explore or to suffer, and might go to her bedroom
 
@@ -100,11 +100,11 @@ especially on perceiving that Miss Tilney slept only two doors from
 
 her, to enter her room with a tolerably stout heart; and her spirits
 
-were immediately assisted by the cheerful blaze of a wood fire. “How
+were immediately assisted by the cheerful blaze of a wood [[Fire|fire]]. “How
 
 much better is this,” said she, as she walked to the fender—“how much
 
-better to find a fire ready lit, than to have to wait shivering in the
+better to find a [[Fire|fire]] ready lit, than to have to wait shivering in the
 
 cold till all the family are in bed, as so many poor girls have been
 
@@ -114,39 +114,39 @@ by coming in with a faggot! how glad I am that Northanger is what it
 
 is! if it had been like some other places, I do not know that, in such
 
-a night as this, I could have answered for my courage: but now, to be
+a [[Night|night]] as this, I could have answered for my [[Courage|courage]]: but now, to be
 
 sure, there is nothing to alarm one.”
 
 
 
-She looked round the room. The window curtains seemed in motion. It
+She looked round the room. The [[Window|window]] curtains seemed in motion. It
 
-could be nothing but the violence of the wind penetrating through the
+could be nothing but the violence of the [[Wind|wind]] penetrating through the
 
 divisions of the shutters; and she stepped boldly forward, carelessly
 
 humming a tune, to assure herself of its being so, peeped courageously
 
-behind each curtain, saw nothing on either low window seat to scare
+behind each curtain, saw nothing on either low [[Window|window]] seat to scare
 
 her, and on placing a hand against the shutter, felt the strongest
 
-conviction of the wind’s force. A glance at the old chest, as she
+conviction of the [[Wind|wind]]’s force. A glance at the old chest, as she
 
 turned away from this examination, was not without its use; she scorned
 
 the causeless fears of an idle fancy, and began with a most happy
 
-indifference to prepare herself for bed. “She should take her time; she
+indifference to prepare herself for bed. “She should take her [[Time|time]]; she
 
 should not hurry herself; she did not care if she were the last person
 
-up in the house. But she would not make up her fire; _that_ would seem
+up in the [[house]]. But she would not make up her [[Fire|fire]]; _that_ would seem
 
 cowardly, as if she wished for the protection of light after she were
 
-in bed.” The fire therefore died away, and Catherine, having spent the
+in bed.” The [[Fire|fire]] therefore died away, and Catherine, having spent the
 
 best part of an hour in her arrangements, was beginning to think of
 
@@ -176,7 +176,7 @@ fancy to look into it; not, however, with the smallest expectation of
 
 finding anything, but it was so very odd, after what Henry had said. In
 
-short, she could not sleep till she had examined it. So, placing the
+short, she could not [[Sleep|sleep]] till she had examined it. So, placing the
 
 candle with great caution on a chair, she seized the key with a very
 
@@ -188,10 +188,10 @@ bolt flew, and she believed herself successful; but how strangely
 
 mysterious! the door was still immovable. She paused a moment in
 
-breathless wonder. The wind roared down the chimney, the rain beat in
+breathless [[Wonder|wonder]]. The [[Wind|wind]] roared down the chimney, the rain beat in
 
 torrents against the windows, and everything seemed to speak the
 
 awfulness of her situation. To retire to bed, however, unsatisfied on
 
-such a point, would be vain, since sleep must be impossible with the
+such a point, would be vain, since [[Sleep|sleep]] must be impossible with the

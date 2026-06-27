@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 33"
+title: "[[Jane Eyre]] — Chapter 33"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -17,42 +17,42 @@ tags:
 CHAPTER XXXIII
 
 
-When Mr. St. John went, it was beginning to snow; the whirling storm
-continued all night. The next day a keen wind brought fresh and
+When Mr. St. John went, it was beginning to [[Snow|snow]]; the whirling [[Storm|storm]]
+continued all [[Night|night]]. The next day a keen [[Wind|wind]] brought fresh and
 blinding falls; by twilight the valley was drifted up and almost
 impassable. I had closed my shutter, laid a mat to the door to prevent
-the snow from blowing in under it, trimmed my fire, and after sitting
+the [[Snow|snow]] from blowing in under it, trimmed my [[Fire|fire]], and after sitting
 nearly an hour on the hearth listening to the muffled fury of the
 tempest, I lit a candle, took down “Marmion,” and beginning—
 
 “Day set on Norham’s castled steep,
-And Tweed’s fair river broad and deep,
-    And Cheviot’s mountains lone;
+And Tweed’s fair [[River|river]] broad and deep,
+    And Cheviot’s [[Mountains|mountains]] lone;
 The massive towers, the donjon keep,
 The flanking walls that round them sweep,
     In yellow lustre shone”—
 
 
-I soon forgot storm in music.
+I soon forgot [[Storm|storm]] in music.
 
-I heard a noise: the wind, I thought, shook the door. No; it was St.
+I heard a noise: the [[Wind|wind]], I thought, shook the door. No; it was St.
 John Rivers, who, lifting the latch, came in out of the frozen
 hurricane—the howling darkness—and stood before me: the cloak that
 covered his tall figure all white as a glacier. I was almost in
 consternation, so little had I expected any guest from the blocked-up
-vale that night.
+vale that [[Night|night]].
 
 “Any ill news?” I demanded. “Has anything happened?”
 
 “No. How very easily alarmed you are!” he answered, removing his cloak
 and hanging it up against the door, towards which he again coolly
-pushed the mat which his entrance had deranged. He stamped the snow
+pushed the mat which his entrance had deranged. He stamped the [[Snow|snow]]
 from his boots.
 
 “I shall sully the purity of your floor,” said he, “but you must excuse
-me for once.” Then he approached the fire. “I have had hard work to get
+me for once.” Then he approached the [[Fire|fire]]. “I have had hard work to get
 here, I assure you,” he observed, as he warmed his hands over the
-flame. “One drift took me up to the waist; happily the snow is quite
+flame. “One drift took me up to the waist; happily the [[Snow|snow]] is quite
 soft yet.”
 
 “But why are you come?” I could not forbear saying.
@@ -64,10 +64,10 @@ the excitement of a person to whom a tale has been half-told, and who
 is impatient to hear the sequel.”
 
 He sat down. I recalled his singular conduct of yesterday, and really I
-began to fear his wits were touched. If he were insane, however, his
+began to [[Fear|fear]] his wits were touched. If he were insane, however, his
 was a very cool and collected insanity: I had never seen that
 handsome-featured face of his look more like chiselled marble than it
-did just now, as he put aside his snow-wet hair from his forehead and
+did just now, as he put aside his [[Snow|snow]]-wet hair from his forehead and
 let the firelight shine free on his pale brow and cheek as pale, where
 it grieved me to discover the hollow trace of care or sorrow now so
 plainly graved. I waited, expecting he would say something I could at
@@ -76,11 +76,11 @@ lip: he was thinking. It struck me that his hand looked wasted like his
 face. A perhaps uncalled-for gush of pity came over my heart: I was
 moved to say—
 
-“I wish Diana or Mary would come and live with you: it is too bad that
-you should be quite alone; and you are recklessly rash about your own
+“I wish [[Diana]] or Mary would come and live with you: it is too bad that
+you should be quite [[Alone|alone]]; and you are recklessly rash about your own
 health.”
 
-“Not at all,” said he: “I care for myself when necessary. I am well
+“Not at all,” said he: “I care for myself when necessary. I am [[Well|well]]
 now. What do you see amiss in me?”
 
 This was said with a careless, abstracted indifference, which showed
@@ -94,35 +94,35 @@ door, which was behind him.
 
 “No, no!” he responded shortly and somewhat testily.
 
-“Well,” I reflected, “if you won’t talk, you may be still; I’ll let you
-alone now, and return to my book.”
+“[[Well]],” I reflected, “if you won’t talk, you may be still; I’ll let you
+[[Alone|alone]] now, and return to my book.”
 
 So I snuffed the candle and resumed the perusal of “Marmion.” He soon
 stirred; my eye was instantly drawn to his movements; he only took out
 a morocco pocket-book, thence produced a letter, which he read in
-silence, folded it, put it back, relapsed into meditation. It was vain
+[[Silence|silence]], folded it, put it back, relapsed into meditation. It was vain
 to try to read with such an inscrutable fixture before me; nor could I,
 in impatience, consent to be dumb; he might rebuff me if he liked, but
 talk I would.
 
-“Have you heard from Diana and Mary lately?”
+“Have you heard from [[Diana]] and Mary lately?”
 
 “Not since the letter I showed you a week ago.”
 
 “There has not been any change made about your own arrangements? You
 will not be summoned to leave England sooner than you expected?”
 
-“I fear not, indeed: such chance is too good to befall me.” Baffled so
+“I [[Fear|fear]] not, indeed: such chance is too good to befall me.” Baffled so
 far, I changed my ground. I bethought myself to talk about the school
 and my scholars.
 
 “Mary Garrett’s mother is better, and Mary came back to the school this
 morning, and I shall have four new girls next week from the Foundry
-Close—they would have come to-day but for the snow.”
+Close—they would have come to-day but for the [[Snow|snow]].”
 
 “Indeed!”
 
-“Mr. Oliver pays for two.”
+“Mr. [[Oliver]] pays for two.”
 
 “Does he?”
 
@@ -142,12 +142,12 @@ Close—they would have come to-day but for the snow.”
 
 “Yes.”
 
-Again came the blank of a pause: the clock struck eight strokes. It
+Again came the blank of a pause: the [[Clock|clock]] struck eight strokes. It
 aroused him; he uncrossed his legs, sat erect, turned to me.
 
-“Leave your book a moment, and come a little nearer the fire,” he said.
+“Leave your book a moment, and come a little nearer the [[Fire|fire]],” he said.
 
-Wondering, and of my wonder finding no end, I complied.
+Wondering, and of my [[Wonder|wonder]] finding no end, I complied.
 
 “Half-an-hour ago,” he pursued, “I spoke of my impatience to hear the
 sequel of a tale: on reflection, I find the matter will be better
@@ -155,31 +155,31 @@ managed by my assuming the narrator’s part, and converting you into a
 listener. Before commencing, it is but fair to warn you that the story
 will sound somewhat hackneyed in your ears; but stale details often
 regain a degree of freshness when they pass through new lips. For the
-rest, whether trite or novel, it is short.
+rest, whether trite or [[Novel|novel]], it is short.
 
 “Twenty years ago, a poor curate—never mind his name at this
-moment—fell in love with a rich man’s daughter; she fell in love with
+moment—fell in [[Love|love]] with a rich man’s daughter; she fell in [[Love|love]] with
 him, and married him, against the advice of all her friends, who
 consequently disowned her immediately after the wedding. Before two
 years passed, the rash pair were both dead, and laid quietly side by
-side under one slab. (I have seen their grave; it formed part of the
+side under one slab. (I have seen their [[Grave|grave]]; it formed part of the
 pavement of a huge churchyard surrounding the grim, soot-black old
-cathedral of an overgrown manufacturing town in ——shire.) They left a
-daughter, which, at its very birth, Charity received in her lap—cold as
-that of the snow-drift I almost stuck fast in to-night. Charity carried
-the friendless thing to the house of its rich maternal relations; it
+[[Cathedral|cathedral]] of an overgrown manufacturing town in ——shire.) They left a
+daughter, which, at its very birth, [[Charity]] received in her lap—cold as
+that of the [[Snow|snow]]-drift I almost stuck fast in to-[[Night|night]]. [[Charity]] carried
+the friendless thing to the [[house]] of its rich maternal relations; it
 was reared by an aunt-in-law, called (I come to names now) Mrs. Reed of
 Gateshead. You start—did you hear a noise? I daresay it is only a rat
 scrambling along the rafters of the adjoining schoolroom: it was a barn
 before I had it repaired and altered, and barns are generally haunted
-by rats.—To proceed. Mrs. Reed kept the orphan ten years: whether it
+by rats.—To proceed. Mrs. Reed kept the [[Orphan|orphan]] ten years: whether it
 was happy or not with her, I cannot say, never having been told; but at
-the end of that time she transferred it to a place you know—being no
+the end of that [[Time|time]] she transferred it to a place you know—being no
 other than Lowood School, where you so long resided yourself. It seems
 her career there was very honourable: from a pupil, she became a
 teacher, like yourself—really it strikes me there are parallel points
-in her history and yours—she left it to be a governess: there, again,
-your fates were analogous; she undertook the education of the ward of a
+in her [[history]] and yours—she left it to be a governess: there, again,
+your fates were analogous; she undertook the [[Education|education]] of the ward of a
 certain Mr. Rochester.”
 
 “Mr. Rivers!” I interrupted.
@@ -187,12 +187,12 @@ certain Mr. Rochester.”
 “I can guess your feelings,” he said, “but restrain them for a while: I
 have nearly finished; hear me to the end. Of Mr. Rochester’s character
 I know nothing, but the one fact that he professed to offer honourable
-marriage to this young girl, and that at the very altar she discovered
+[[Marriage|marriage]] to this young girl, and that at the very altar she discovered
 he had a wife yet alive, though a lunatic. What his subsequent conduct
 and proposals were is a matter of pure conjecture; but when an event
 transpired which rendered inquiry after the governess necessary, it was
 discovered she was gone—no one could tell when, where, or how. She had
-left Thornfield Hall in the night; every research after her course had
+left Thornfield Hall in the [[Night|night]]; every research after her course had
 been vain: the country had been scoured far and wide; no vestige of
 information could be gathered respecting her. Yet that she should be
 found is become a matter of serious urgency: advertisements have been
@@ -202,11 +202,11 @@ it not an odd tale?”
 
 “Just tell me this,” said I, “and since you know so much, you surely
 _can_ tell it me—what of Mr. Rochester? How and where is he? What is he
-doing? Is he well?”
+doing? Is he [[Well|well]]?”
 
 “I am ignorant of all concerning Mr. Rochester: the letter never
 mentions him but to narrate the fraudulent and illegal attempt I have
-adverted to. You should rather ask the name of the governess—the nature
+adverted to. You should rather ask the name of the governess—the [[Nature|nature]]
 of the event which requires her appearance.”
 
 “Did no one go to Thornfield Hall, then? Did no one see Mr. Rochester?”
@@ -234,7 +234,7 @@ husband—whom I had often called “my dear Edward!”
 “You don’t know him—don’t pronounce an opinion upon him,” I said, with
 warmth.
 
-“Very well,” he answered quietly: “and indeed my head is otherwise
+“Very [[Well|well]],” he answered quietly: “and indeed my head is otherwise
 occupied than with him: I have my tale to finish. Since you won’t ask
 the governess’s name, I must tell it of my own accord. Stay! I have it
 here—it is always more satisfactory to see important points written
@@ -245,23 +245,23 @@ through; from one of its compartments was extracted a shabby slip of
 paper, hastily torn off: I recognised in its texture and its stains of
 ultra-marine, and lake, and vermillion, the ravished margin of the
 portrait-cover. He got up, held it close to my eyes: and I read, traced
-in Indian ink, in my own handwriting, the words “JANE EYRE”—the work
+in Indian ink, in my own handwriting, the words “[[Jane Eyre|JANE EYRE]]”—the work
 doubtless of some moment of abstraction.
 
-“Briggs wrote to me of a Jane Eyre:” he said, “the advertisements
-demanded a Jane Eyre: I knew a Jane Elliott.—I confess I had my
+“Briggs wrote to me of a [[Jane Eyre]]:” he said, “the advertisements
+demanded a [[Jane Eyre]]: I knew a Jane Elliott.—I confess I had my
 suspicions, but it was only yesterday afternoon they were at once
 resolved into certainty. You own the name and renounce the _alias_?”
 
 “Yes—yes; but where is Mr. Briggs? He perhaps knows more of Mr.
 Rochester than you do.”
 
-“Briggs is in London. I should doubt his knowing anything at all about
+“Briggs is in [[London]]. I should [[Doubt|doubt]] his knowing anything at all about
 Mr. Rochester; it is not in Mr. Rochester he is interested. Meantime,
 you forget essential points in pursuing trifles: you do not inquire why
 Mr. Briggs sought after you—what he wanted with you.”
 
-“Well, what did he want?”
+“[[Well]], what did he want?”
 
 “Merely to tell you that your uncle, Mr. Eyre of Madeira, is dead; that
 he has left you all his property, and that you are now rich—merely
@@ -271,9 +271,9 @@ that—nothing more.”
 
 “Yes, you, rich—quite an heiress.”
 
-Silence succeeded.
+[[Silence]] succeeded.
 
-“You must prove your identity of course,” resumed St. John presently:
+“You must prove your [[Identity|identity]] of course,” resumed St. John presently:
 “a step which will offer no difficulties; you can then enter on
 immediate possession. Your fortune is vested in the English funds;
 Briggs has the will and the necessary documents.”
@@ -284,17 +284,17 @@ matter one can comprehend, or consequently enjoy, all at once. And then
 there are other chances in life far more thrilling and rapture-giving:
 _this_ is solid, an affair of the actual world, nothing ideal about it:
 all its associations are solid and sober, and its manifestations are
-the same. One does not jump, and spring, and shout hurrah! at hearing
+the same. One does not jump, and [[Spring|spring]], and shout hurrah! at hearing
 one has got a fortune; one begins to consider responsibilities, and to
-ponder business; on a base of steady satisfaction rise certain grave
+ponder business; on a base of steady satisfaction rise certain [[Grave|grave]]
 cares, and we contain ourselves, and brood over our bliss with a solemn
 brow.
 
 Besides, the words Legacy, Bequest, go side by side with the words,
-Death, Funeral. My uncle I had heard was dead—my only relative; ever
-since being made aware of his existence, I had cherished the hope of
+[[Death]], Funeral. My uncle I had heard was dead—my only relative; ever
+since being made aware of his existence, I had cherished the [[Hope|hope]] of
 one day seeing him: now, I never should. And then this money came only
-to me: not to me and a rejoicing family, but to my isolated self. It
+to me: not to me and a rejoicing family, but to my isolated [[Self|self]]. It
 was a grand boon doubtless; and independence would be glorious—yes, I
 felt that—_that_ thought swelled my heart.
 
@@ -313,7 +313,7 @@ Here was a new stunner—I had been calculating on four or five thousand.
 This news actually took my breath for a moment: Mr. St. John, whom I
 had never heard laugh before, laughed now.
 
-“Well,” said he, “if you had committed a murder, and I had told you
+“[[Well]],” said he, “if you had committed a murder, and I had told you
 your crime was discovered, you could scarcely look more aghast.”
 
 “It is a large sum—don’t you think there is a mistake?”
@@ -325,20 +325,20 @@ your crime was discovered, you could scarcely look more aghast.”
 “It is written in letters, not figures,—twenty thousand.”
 
 I again felt rather like an individual of but average gastronomical
-powers sitting down to feast alone at a table spread with provisions
-for a hundred. Mr. Rivers rose now and put his cloak on.
+powers sitting down to feast [[Alone|alone]] at a table spread with provisions
+for a hundred. Mr. Rivers [[Rose|rose]] now and put his cloak on.
 
-“If it were not such a very wild night,” he said, “I would send Hannah
+“If it were not such a very wild [[Night|night]],” he said, “I would send Hannah
 down to keep you company: you look too desperately miserable to be left
-alone. But Hannah, poor woman! could not stride the drifts so well as
+[[Alone|alone]]. But Hannah, poor woman! could not stride the drifts so [[Well|well]] as
 I: her legs are not quite so long: so I must e’en leave you to your
-sorrows. Good-night.”
+sorrows. Good-[[Night|night]].”
 
 He was lifting the latch: a sudden thought occurred to me.
 
 “Stop one minute!” I cried.
 
-“Well?”
+“[[Well]]?”
 
 “It puzzles me to know why Mr. Briggs wrote to you about me; or how he
 knew you, or could fancy that you, living in such an out-of-the-way
@@ -354,9 +354,9 @@ allaying, piqued my curiosity more than ever.
 “It is a very strange piece of business,” I added; “I must know more
 about it.”
 
-“Another time.”
+“Another [[Time|time]].”
 
-“No; to-night!—to-night!” and as he turned from the door, I placed
+“No; to-[[Night|night]]!—to-[[Night|night]]!” and as he turned from the door, I placed
 myself between it and him. He looked rather embarrassed.
 
 “You certainly shall not go till you have told me all,” I said.
@@ -365,7 +365,7 @@ myself between it and him. He looked rather embarrassed.
 
 “You shall!—you must!”
 
-“I would rather Diana or Mary informed you.”
+“I would rather [[Diana]] or Mary informed you.”
 
 Of course these objections wrought my eagerness to a climax: gratified
 it must be, and that without delay; and I told him so.
@@ -380,15 +380,15 @@ And I am a hard woman,—impossible to put off
 
 “And then,” he pursued, “I am cold: no fervour infects me.”
 
-“Whereas I am hot, and fire dissolves ice. The blaze there has thawed
-all the snow from your cloak; by the same token, it has streamed on to
-my floor, and made it like a trampled street. As you hope ever to be
+“Whereas I am hot, and [[Fire|fire]] dissolves ice. The blaze there has thawed
+all the [[Snow|snow]] from your cloak; by the same token, it has streamed on to
+my floor, and made it like a trampled street. As you [[Hope|hope]] ever to be
 forgiven, Mr. Rivers, the high crime and misdemeanour of spoiling a
 sanded kitchen, tell me what I wish to know.”
 
-“Well, then,” he said, “I yield; if not to your earnestness, to your
+“[[Well]], then,” he said, “I yield; if not to your earnestness, to your
 perseverance: as stone is worn by continual dropping. Besides, you must
-know some day,—as well now as later. Your name is Jane Eyre?”
+know some day,—as [[Well|well]] now as later. Your name is [[Jane Eyre]]?”
 
 “Of course: that was all settled before.”
 
@@ -412,9 +412,9 @@ repeat his explanation.
 “My mother’s name was Eyre; she had two brothers; one a clergyman, who
 married Miss Jane Reed, of Gateshead; the other, John Eyre, Esq.,
 merchant, late of Funchal, Madeira. Mr. Briggs, being Mr. Eyre’s
-solicitor, wrote to us last August to inform us of our uncle’s death,
+solicitor, wrote to us last August to inform us of our uncle’s [[Death|death]],
 and to say that he had left his property to his brother the clergyman’s
-orphan daughter, overlooking us, in consequence of a quarrel, never
+[[Orphan|orphan]] daughter, overlooking us, in consequence of a quarrel, never
 forgiven, between him and my father. He wrote again a few weeks since,
 to intimate that the heiress was lost, and asking if we knew anything
 of her. A name casually written on a slip of paper has enabled me to
@@ -433,24 +433,24 @@ enough. I resumed—
 
 He bowed.
 
-“My uncle John was your uncle John? You, Diana, and Mary are his
-sister’s children, as I am his brother’s child?”
+“My uncle John was your uncle John? You, [[Diana]], and Mary are his
+sister’s children, as I am his brother’s [[Child|child]]?”
 
 “Undeniably.”
 
-“You three, then, are my cousins; half our blood on each side flows
+“You three, then, are my cousins; half our [[Blood|blood]] on each side flows
 from the same source?”
 
 “We are cousins; yes.”
 
 I surveyed him. It seemed I had found a brother: one I could be proud
-of,—one I could love; and two sisters, whose qualities were such, that,
+of,—one I could [[Love|love]]; and two sisters, whose qualities were such, that,
 when I knew them but as mere strangers, they had inspired me with
 genuine affection and admiration. The two girls, on whom, kneeling down
-on the wet ground, and looking through the low, latticed window of Moor
-House kitchen, I had gazed with so bitter a mixture of interest and
-despair, were my near kinswomen; and the young and stately gentleman
-who had found me almost dying at his threshold was my blood relation.
+on the wet ground, and looking through the low, latticed [[Window|window]] of Moor
+[[house|House]] kitchen, I had gazed with so bitter a mixture of interest and
+[[Despair|despair]], were my near kinswomen; and the young and stately gentleman
+who had found me almost dying at his threshold was my [[Blood|blood]] relation.
 Glorious discovery to a lonely wretch! This was wealth indeed!—wealth
 to the heart!—a mine of pure, genial affections. This was a blessing,
 bright, vivid, and exhilarating;—not like the ponderous gift of gold:
@@ -469,34 +469,34 @@ relations,—or two, if you don’t choose to be counted,—are born into my
 world full-grown. I say again, I am glad!”
 
 I walked fast through the room: I stopped, half suffocated with the
-thoughts that rose faster than I could receive, comprehend, settle
+thoughts that [[Rose|rose]] faster than I could receive, comprehend, settle
 them:—thoughts of what might, could, would, and should be, and that ere
 long. I looked at the blank wall: it seemed a sky thick with ascending
-stars,—every one lit me to a purpose or delight. Those who had saved my
+[[Stars|stars]],—every one lit me to a purpose or delight. Those who had saved my
 life, whom, till this hour, I had loved barrenly, I could now benefit.
 They were under a yoke,—I could free them: they were scattered,—I could
 reunite them: the independence, the affluence which was mine, might be
 theirs too. Were we not four? Twenty thousand pounds shared equally
 would be five thousand each, justice—enough and to spare: justice would
 be done,—mutual happiness secured. Now the wealth did not weigh on me:
-now it was not a mere bequest of coin,—it was a legacy of life, hope,
+now it was not a mere bequest of coin,—it was a legacy of life, [[Hope|hope]],
 enjoyment.
 
-How I looked while these ideas were taking my spirit by storm, I cannot
+How I looked while these ideas were taking my spirit by [[Storm|storm]], I cannot
 tell; but I perceived soon that Mr. Rivers had placed a chair behind
 me, and was gently attempting to make me sit down on it. He also
 advised me to be composed; I scorned the insinuation of helplessness
 and distraction, shook off his hand, and began to walk about again.
 
-“Write to Diana and Mary to-morrow,” I said, “and tell them to come
-home directly. Diana said they would both consider themselves rich with
-a thousand pounds, so with five thousand they will do very well.”
+“Write to [[Diana]] and Mary to-morrow,” I said, “and tell them to come
+[[Home|home]] directly. [[Diana]] said they would both consider themselves rich with
+a thousand pounds, so with five thousand they will do very [[Well|well]].”
 
-“Tell me where I can get you a glass of water,” said St. John; “you
+“Tell me where I can get you a glass of [[Water|water]],” said St. John; “you
 must really make an effort to tranquillise your feelings.”
 
 “Nonsense! and what sort of an effect will the bequest have on you?
-Will it keep you in England, induce you to marry Miss Oliver, and
+Will it keep you in England, induce you to marry Miss [[Oliver]], and
 settle down like an ordinary mortal?”
 
 “You wander: your head becomes confused. I have been too abrupt in
@@ -518,9 +518,9 @@ the fortune that has accrued to them.”
 
 “I have intimated my view of the case: I am incapable of taking any
 other. I am not brutally selfish, blindly unjust, or fiendishly
-ungrateful. Besides, I am resolved I will have a home and connections.
-I like Moor House, and I will live at Moor House; I like Diana and
-Mary, and I will attach myself for life to Diana and Mary. It would
+ungrateful. Besides, I am resolved I will have a [[Home|home]] and connections.
+I like Moor [[house|House]], and I will live at Moor [[house|House]]; I like [[Diana]] and
+Mary, and I will attach myself for life to [[Diana]] and Mary. It would
 please and benefit me to have five thousand pounds; it would torment
 and oppress me to have twenty thousand; which, moreover, could never be
 mine in justice, though it might in law. I abandon to you, then, what
@@ -531,17 +531,17 @@ point at once.”
 “This is acting on first impulses; you must take days to consider such
 a matter, ere your word can be regarded as valid.”
 
-“Oh! if all you doubt is my sincerity, I am easy: you see the justice
+“Oh! if all you [[Doubt|doubt]] is my sincerity, I am easy: you see the justice
 of the case?”
 
 “I _do_ see a certain justice; but it is contrary to all custom.
 Besides, the entire fortune is your right: my uncle gained it by his
 own efforts; he was free to leave it to whom he would: he left it to
 you. After all, justice permits you to keep it: you may, with a clear
-conscience, consider it absolutely your own.”
+[[Conscience|conscience]], consider it absolutely your own.”
 
 “With me,” said I, “it is fully as much a matter of feeling as of
-conscience: I must indulge my feelings; I so seldom have had an
+[[Conscience|conscience]]: I must indulge my feelings; I so seldom have had an
 opportunity of doing so. Were you to argue, object, and annoy me for a
 year, I could not forego the delicious pleasure of which I have caught
 a glimpse—that of repaying, in part, a mighty obligation, and winning
@@ -554,7 +554,7 @@ place it would enable you to take in society; of the prospects it would
 open to you: you cannot—”
 
 “And you,” I interrupted, “cannot at all imagine the craving I have for
-fraternal and sisterly love. I never had a home, I never had brothers
+fraternal and sisterly [[Love|love]]. I never had a [[Home|home]], I never had brothers
 or sisters; I must and will have them now: you are not reluctant to
 admit me and own me, are you?”
 
@@ -564,7 +564,7 @@ stipulating for this sacrifice of your just rights.”
 “Brother? Yes; at the distance of a thousand leagues! Sisters? Yes;
 slaving amongst strangers! I, wealthy—gorged with gold I never earned
 and do not merit! You, penniless! Famous equality and fraternisation!
-Close union! Intimate attachment!”
+Close [[Union|union]]! Intimate attachment!”
 
 “But, Jane, your aspirations after family ties and domestic happiness
 may be realised otherwise than by the means you contemplate: you may
@@ -576,8 +576,8 @@ marry.”
 the excitement under which you labour.”
 
 “It is not saying too much: I know what I feel, and how averse are my
-inclinations to the bare thought of marriage. No one would take me for
-love; and I will not be regarded in the light of a mere money
+inclinations to the bare thought of [[Marriage|marriage]]. No one would take me for
+[[Love|love]]; and I will not be regarded in the light of a mere money
 speculation. And I do not want a stranger—unsympathising, alien,
 different from me; I want my kindred: those with whom I have full
 fellow-feeling. Say again you will be my brother: when you uttered the
@@ -587,12 +587,12 @@ sincerely.”
 “I think I can. I know I have always loved my own sisters; and I know
 on what my affection for them is grounded,—respect for their worth and
 admiration of their talents. You too have principle and mind: your
-tastes and habits resemble Diana’s and Mary’s; your presence is always
-agreeable to me; in your conversation I have already for some time
+tastes and habits resemble [[Diana]]’s and Mary’s; your presence is always
+agreeable to me; in your conversation I have already for some [[Time|time]]
 found a salutary solace. I feel I can easily and naturally make room in
 my heart for you, as my third and youngest sister.”
 
-“Thank you: that contents me for to-night. Now you had better go; for
+“Thank you: that contents me for to-[[Night|night]]. Now you had better go; for
 if you stay longer, you will perhaps irritate me afresh by some
 mistrustful scruple.”
 
@@ -610,7 +610,7 @@ making a just division of the property—as they must in their own hearts
 have felt the equity of the intention; and must, besides, have been
 innately conscious that in my place they would have done precisely what
 I wished to do—they yielded at length so far as to consent to put the
-affair to arbitration. The judges chosen were Mr. Oliver and an able
+affair to arbitration. The judges chosen were Mr. [[Oliver]] and an able
 lawyer: both coincided in my opinion: I carried my point. The
-instruments of transfer were drawn out: St. John, Diana, Mary, and I,
+instruments of transfer were drawn out: St. John, [[Diana]], Mary, and I,
 each became possessed of a competency.

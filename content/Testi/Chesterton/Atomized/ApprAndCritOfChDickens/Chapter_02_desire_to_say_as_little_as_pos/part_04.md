@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 1: desire to say as little as possible; I will discuss any other (part 4)"
+title: "[[ApprAndCritOfChDickens]] — Book 1: [[Desire|desire]] to say as little as possible; I will discuss any other (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-sublime ascetics whose head offends them, and who cut it off. For him at
+[[Sublime|sublime]] ascetics whose head offends them, and who cut it off. For him at
 
-least it was better that the blood should flow in Paris than that the
+least it was better that the [[Blood|blood]] should flow in [[Paris]] than that the
 
-wine should flow any longer in London. And if I say that even now the
+wine should flow any longer in [[London]]. And if I say that even now the
 
-guillotine might be the best cure for many a London lawyer, I ask you to
+guillotine might be the best cure for many a [[London]] lawyer, I ask you to
 
 believe that I am not merely flippant. But you will not believe it.
 
@@ -28,15 +28,15 @@ believe that I am not merely flippant. But you will not believe it.
 
 
 
-BARNABY RUDGE
+[[Barnaby Rudge|BARNABY RUDGE]]
 
 
 
 It may be said that there is no comparison between that explosive
 
-opening of the intellect in Paris and an antiquated madman leading a
+opening of the intellect in [[Paris]] and an antiquated madman leading a
 
-knot of provincial Protestants. The Man of the Hill, says Victor Hugo
+knot of provincial Protestants. The Man of the [[Hill]], says Victor Hugo
 
 somewhere, fights for an idea; the Man of the Forest for a prejudice.
 
@@ -50,11 +50,11 @@ qualities of men, it was common among lords and lacqueys to attribute to
 
 them the stagey and piratical pretentiousness of urchins. The kings
 
-called Napoleon's pistol a toy pistol even while it was holding up their
+called Napoleon's [[Pistol|pistol]] a toy [[Pistol|pistol]] even while it was holding up their
 
-coach and mastering their money or their lives; they called his sword a
+coach and mastering their money or their lives; they called his [[Sword|sword]] a
 
-stage sword even while they ran away from it. Something of the same
+stage [[Sword|sword]] even while they ran away from it. Something of the same
 
 senile inconsistency can be found in an English and American habit
 
@@ -76,11 +76,11 @@ was a sort of answer to everything; and the young men were mocked as
 
 American republics to-day is symbolical and even menacing of many
 
-things; and it may be that the romance of riot will not be so much
+things; and it may be that the [[Romance|romance]] of riot will not be so much
 
-extinguished as extended; and nearer home we may have boys being boys
+extinguished as extended; and nearer [[Home|home]] we may have boys being boys
 
-again, and in London the cry of "clubs."
+again, and in [[London]] the cry of "clubs."
 
 
 
@@ -94,7 +94,7 @@ _The Uncommercial Traveller_ is a collection of Dickens's memories
 
 rather than of his literary purposes; but it is due to him to say that
 
-memory is often more startling in him than prophecy in anybody else.
+[[Memory|memory]] is often more startling in him than prophecy in anybody else.
 
 They have the character which belongs to all his vivid incidental
 
@@ -106,7 +106,7 @@ the Tree of Life than of the Tree of Knowledge--even of the knowledge of
 
 good and of evil. He was in this profoundest sense a realist. Critics
 
-have talked of an artist with his eye on the object. Dickens as an
+have talked of an [[artist]] with his eye on the object. Dickens as an
 
 essayist always had his eye on an object before he had the faintest
 
@@ -146,7 +146,7 @@ This riotous realism of Dickens has its disadvantage--a disadvantage
 
 that comes out more clearly in these casual sketches than in his
 
-constructed romances. One grave defect in his greatness is that he was
+constructed romances. One [[Grave|grave]] defect in his [[Greatness|greatness]] is that he was
 
 altogether too indifferent to theories. On large matters he went right
 
@@ -154,7 +154,7 @@ by the very largeness of his mind; but in small matters he suffered from
 
 the lack of any logical test and ready reckoner. Hence his comment upon
 
-the details of civilisation or reform are sometimes apt to be jerky and
+the details of civilisation or [[Reform|reform]] are sometimes apt to be jerky and
 
 jarring, and even grossly inconsistent. So long as a thing was heroic
 
@@ -162,7 +162,7 @@ enough to admire, Dickens admired it; whenever it was absurd enough to
 
 laugh at he laughed at it: so far he was on sure ground. But about all
 
-the small human projects that lie between the extremes of the sublime
+the small human projects that lie between the extremes of the [[Sublime|sublime]]
 
 and the ridiculous, his criticism was apt to have an accidental quality.
 
@@ -176,7 +176,7 @@ like other hasty travellers, to be criticising elements and institutions
 
 which he has quite inadequately understood; and once or twice the
 
-Uncommercial Traveller might almost as well be a Commercial Traveller
+Uncommercial Traveller might almost as [[Well|well]] be a Commercial Traveller
 
 for all he knows of the countryside.
 
@@ -186,7 +186,7 @@ An instance of what I mean may be found in the amusing article about the
 
 nightmares of the nursery. Superficially read it might almost be taken
 
-to mean that Dickens disapproved of ghost stories--disapproved of that
+to mean that Dickens disapproved of [[Ghost|ghost]] stories--disapproved of that
 
 old and genial horror which nurses can hardly supply fast enough for the
 
@@ -196,7 +196,7 @@ the last man in the world to object to horrible stories, having himself
 
 written some of the most horrible that exist in the world. The author of
 
-the Madman's Manuscript, of the disease of Monk and the death of Krook,
+the Madman's Manuscript, of the disease of Monk and the [[Death|death]] of Krook,
 
 cannot be considered fastidious in the matter of revolting realism or of
 

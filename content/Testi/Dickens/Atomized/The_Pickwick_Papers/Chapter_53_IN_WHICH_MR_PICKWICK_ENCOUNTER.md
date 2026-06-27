@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 51: IN WHICH MR. PICKWICK ENCOUNTERS AN OLD ACQUAINTANCE--TO"
+title: "The [[Pickwick]] Papers — Chapter 51: IN WHICH MR. [[Pickwick|PICKWICK]] ENCOUNTERS AN OLD ACQUAINTANCE--TO"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,37 +14,37 @@ tags:
 </nav>
 
 
-CHAPTER LI. IN WHICH MR. PICKWICK ENCOUNTERS AN OLD ACQUAINTANCE--TO
+CHAPTER LI. IN WHICH MR. [[Pickwick|PICKWICK]] ENCOUNTERS AN OLD ACQUAINTANCE--TO
 WHICH FORTUNATE CIRCUMSTANCE THE READER IS MAINLY INDEBTED FOR MATTER OF
 THRILLING INTEREST HEREIN SET DOWN, CONCERNING TWO GREAT PUBLIC MEN OF
 MIGHT AND POWER
 
-The morning which broke upon Mr. Pickwick’s sight at eight o’clock, was
+The morning which broke upon Mr. [[Pickwick]]’s sight at eight o’[[Clock|clock]], was
 not at all calculated to elevate his spirits, or to lessen the
 depression which the unlooked-for result of his embassy inspired. The
 sky was dark and gloomy, the air was damp and raw, the streets were wet
 and sloppy. The smoke hung sluggishly above the chimney-tops as if it
-lacked the courage to rise, and the rain came slowly and doggedly down,
+lacked the [[Courage|courage]] to rise, and the rain came slowly and doggedly down,
 as if it had not even the spirit to pour. A game-cock in the stableyard,
 deprived of every spark of his accustomed animation, balanced himself
-dismally on one leg in a corner; a donkey, moping with drooping head
+dismally on one leg in a corner; a [[donkey]], moping with drooping head
 under the narrow roof of an outhouse, appeared from his meditative and
-miserable countenance to be contemplating suicide. In the street,
+miserable countenance to be contemplating [[suicide]]. In the street,
 umbrellas were the only things to be seen, and the clicking of pattens
 and splashing of rain-drops were the only sounds to be heard.
 
 The breakfast was interrupted by very little conversation; even Mr. Bob
 Sawyer felt the influence of the weather, and the previous day’s
 excitement. In his own expressive language he was ‘floored.’ So was Mr.
-Ben Allen. So was Mr. Pickwick.
+Ben Allen. So was Mr. [[Pickwick]].
 
 In protracted expectation of the weather clearing up, the last evening
-paper from London was read and re-read with an intensity of interest
+paper from [[London]] was read and re-read with an intensity of interest
 only known in cases of extreme destitution; every inch of the carpet was
 walked over with similar perseverance; the windows were looked out of,
 often enough to justify the imposition of an additional duty upon them;
 all kinds of topics of conversation were started, and failed; and at
-length Mr. Pickwick, when noon had arrived, without a change for the
+length Mr. [[Pickwick]], when [[Noon|noon]] had arrived, without a change for the
 better, rang the bell resolutely, and ordered out the chaise.
 
 Although the roads were miry, and the drizzling rain came down harder
@@ -61,7 +61,7 @@ When they stopped to change at Coventry, the steam ascended from the
 horses in such clouds as wholly to obscure the hostler, whose voice was
 however heard to declare from the mist, that he expected the first gold
 medal from the Humane Society on their next distribution of rewards, for
-taking the postboy’s hat off; the water descending from the brim of
+taking the postboy’s hat off; the [[Water|water]] descending from the brim of
 which, the invisible gentleman declared, must have drowned him (the
 postboy), but for his great presence of mind in tearing it promptly from
 his head, and drying the gasping man’s countenance with a wisp of straw.
@@ -81,7 +81,7 @@ Sam.
 
 ‘Yes, sir,’ rejoined Mr. Weller. ‘Wotever is, is right, as the young
 nobleman sweetly remarked wen they put him down in the pension list ‘cos
-his mother’s uncle’s vife’s grandfather vunce lit the king’s pipe vith a
+his mother’s uncle’s vife’s grandfather vunce lit the [[King|king]]’s pipe vith a
 portable tinder-box.’
 
 Not a bad notion that, Sam,’ said Mr. Bob Sawyer approvingly.
@@ -90,14 +90,14 @@ Not a bad notion that, Sam,’ said Mr. Bob Sawyer approvingly.
 rest of his life,’ replied Mr. Weller.
 
 ‘Wos you ever called in,’ inquired Sam, glancing at the driver, after a
-short silence, and lowering his voice to a mysterious whisper--‘wos you
+short [[Silence|silence]], and lowering his voice to a mysterious whisper--‘wos you
 ever called in, when you wos ‘prentice to a sawbones, to wisit a
 postboy.’
 
 ‘I don’t remember that I ever was,’ replied Bob Sawyer.
 
 ‘You never see a postboy in that ‘ere hospital as you _walked _(as they
-says o’ the ghosts), did you?’ demanded Sam.
+says o’ the [[Ghosts|ghosts]]), did you?’ demanded Sam.
 
 ‘No,’ replied Bob Sawyer. ‘I don’t think I ever did.’
 
@@ -107,12 +107,12 @@ a dead postboy, did you?’ inquired Sam, pursuing his catechism.
 ‘No,’ rejoined Bob, ‘I never did.’
 
 ‘No!’ rejoined Sam triumphantly. ‘Nor never vill; and there’s another
-thing that no man never see, and that’s a dead donkey. No man never see
-a dead donkey ‘cept the gen’l’m’n in the black silk smalls as know’d the
-young ‘ooman as kep’ a goat; and that wos a French donkey, so wery
+thing that no man never see, and that’s a dead [[donkey]]. No man never see
+a dead [[donkey]] ‘cept the gen’l’m’n in the black silk smalls as know’d the
+young ‘ooman as kep’ a goat; and that wos a French [[donkey]], so wery
 likely he warn’t wun o’ the reg’lar breed.’
 
-‘Well, what has that got to do with the postboys?’ asked Bob Sawyer.
+‘[[Well]], what has that got to do with the postboys?’ asked Bob Sawyer.
 
 ‘This here,’ replied Sam. ‘Without goin’ so far as to as-sert, as some
 wery sensible people do, that postboys and donkeys is both immortal, wot
@@ -120,21 +120,21 @@ I say is this: that wenever they feels theirselves gettin’ stiff and
 past their work, they just rides off together, wun postboy to a pair in
 the usual way; wot becomes on ‘em nobody knows, but it’s wery probable
 as they starts avay to take their pleasure in some other vorld, for
-there ain’t a man alive as ever see either a donkey or a postboy a-
+there ain’t a man alive as ever see either a [[donkey]] or a postboy a-
 takin’ his pleasure in this!’
 
 Expatiating upon this learned and remarkable theory, and citing many
-curious statistical and other facts in its support, Sam Weller beguiled
-the time until they reached Dunchurch, where a dry postboy and fresh
+curious statistical and other facts in its support, [[Sam Weller]] beguiled
+the [[Time|time]] until they reached Dunchurch, where a dry postboy and fresh
 horses were procured; the next stage was Daventry, and the next
 Towcester; and at the end of each stage it rained harder than it had
 done at the beginning.
 
-‘I say,’ remonstrated Bob Sawyer, looking in at the coach window, as
+‘I say,’ remonstrated Bob Sawyer, looking in at the coach [[Window|window]], as
 they pulled up before the door of the Saracen’s Head, Towcester, ‘this
 won’t do, you know.’
 
-‘Bless me!’ said Mr. Pickwick, just awakening from a nap, ‘I’m afraid
+‘Bless me!’ said Mr. [[Pickwick]], just awakening from a nap, ‘I’m afraid
 you’re wet.’
 
 ‘Oh, you are, are you?’ returned Bob. ‘Yes, I am, a little that way,
@@ -147,12 +147,12 @@ oilskin.
 
 ‘I _am_ rather wet,’ said Bob, giving himself a shake and casting a
 little hydraulic shower around, like a Newfoundland dog just emerged
-from the water.
+from the [[Water|water]].
 
-‘I think it’s quite impossible to go on to-night,’ interposed Ben.
+‘I think it’s quite impossible to go on to-[[Night|night]],’ interposed Ben.
 
-‘Out of the question, sir,’ remarked Sam Weller, coming to assist in the
-conference; ‘it’s a cruelty to animals, sir, to ask ‘em to do it.
+‘Out of the question, sir,’ remarked [[Sam Weller]], coming to assist in the
+conference; ‘it’s a cruelty to [[Animals|animals]], sir, to ask ‘em to do it.
 There’s beds here, sir,’ said Sam, addressing his master, ‘everything
 clean and comfortable. Wery good little dinner, sir, they can get ready
 in half an hour--pair of fowls, sir, and a weal cutlet; French beans,
@@ -162,45 +162,45 @@ might recommend. Take adwice, sir, as the doctor said.’
 The host of the Saracen’s Head opportunely appeared at this moment, to
 confirm Mr. Weller’s statement relative to the accommodations of the
 establishment, and to back his entreaties with a variety of dismal
-conjectures regarding the state of the roads, the doubt of fresh horses
+conjectures regarding the state of the roads, the [[Doubt|doubt]] of fresh horses
 being to be had at the next stage, the dead certainty of its raining all
-night, the equally mortal certainty of its clearing up in the morning,
+[[Night|night]], the equally mortal certainty of its clearing up in the morning,
 and other topics of inducement familiar to innkeepers.
 
-‘Well,’ said Mr. Pickwick; ‘but I must send a letter to London by some
+‘[[Well]],’ said Mr. [[Pickwick]]; ‘but I must send a letter to [[London]] by some
 conveyance, so that it may be delivered the very first thing in the
 morning, or I must go forwards at all hazards.’
 
 The landlord smiled his delight. Nothing could be easier than for the
 gentleman to inclose a letter in a sheet of brown paper, and send it on,
-either by the mail or the night coach from Birmingham. If the gentleman
+either by the mail or the [[Night|night]] coach from Birmingham. If the gentleman
 were particularly anxious to have it left as soon as possible, he might
 write outside, ‘To be delivered immediately,’ which was sure to be
-attended to; or ‘Pay the bearer half-a-crown extra for instant
+attended to; or ‘Pay the bearer half-a-[[Crown|crown]] extra for instant
 delivery,’ which was surer still.
 
-‘Very well,’ said Mr. Pickwick, ‘then we will stop here.’
+‘Very [[Well|well]],’ said Mr. [[Pickwick]], ‘then we will stop here.’
 
-‘Lights in the Sun, John; make up the fire; the gentlemen are wet!’
+‘Lights in the Sun, John; make up the [[Fire|fire]]; the gentlemen are wet!’
 cried the landlord. ‘This way, gentlemen; don’t trouble yourselves about
 the postboy now, sir. I’ll send him to you when you ring for him, sir.
 Now, John, the candles.’
 
-The candles were brought, the fire was stirred up, and a fresh log of
-wood thrown on. In ten minutes’ time, a waiter was laying the cloth for
-dinner, the curtains were drawn, the fire was blazing brightly, and
+The candles were brought, the [[Fire|fire]] was stirred up, and a fresh log of
+wood thrown on. In ten minutes’ [[Time|time]], a waiter was laying the cloth for
+dinner, the curtains were drawn, the [[Fire|fire]] was blazing brightly, and
 everything looked (as everything always does, in all decent English
 inns) as if the travellers had been expected, and their comforts
 prepared, for days beforehand.
 
-Mr. Pickwick sat down at a side table, and hastily indited a note to Mr.
+Mr. [[Pickwick]] sat down at a side table, and hastily indited a note to Mr.
 Winkle, merely informing him that he was detained by stress of weather,
-but would certainly be in London next day; until when he deferred any
+but would certainly be in [[London]] next day; until when he deferred any
 account of his proceedings. This note was hastily made into a parcel,
 and despatched to the bar per Mr. Samuel Weller.
 
 Sam left it with the landlady, and was returning to pull his master’s
-boots off, after drying himself by the kitchen fire, when glancing
+boots off, after drying himself by the kitchen [[Fire|fire]], when glancing
 casually through a half-opened door, he was arrested by the sight of a
 gentleman with a sandy head who had a large bundle of newspapers lying
 on the table before him, and was perusing the leading article of one
@@ -234,26 +234,26 @@ to pieces.’
 ‘I should be the victim of their fury,’ replied Pott. ‘Now young man,
 what of your master?’
 
-‘He’s a-stopping here to-night on his vay to town, with a couple of
+‘He’s a-stopping here to-[[Night|night]] on his vay to town, with a couple of
 friends,’ replied Sam.
 
 ‘Is Mr. Winkle one of them?’ inquired Pott, with a slight frown.
 
-‘No, Sir. Mr. Vinkle stops at home now,’ rejoined Sam. ‘He’s married.’
+‘No, Sir. Mr. Vinkle stops at [[Home|home]] now,’ rejoined Sam. ‘He’s married.’
 
 ‘Married!’ exclaimed Pott, with frightful vehemence. He stopped, smiled
 darkly, and added, in a low, vindictive tone, ‘It serves him right!’
 
 Having given vent to this cruel ebullition of deadly malice and cold-
 blooded triumph over a fallen enemy, Mr. Pott inquired whether Mr.
-Pickwick’s friends were ‘blue?’ Receiving a most satisfactory answer in
+[[Pickwick]]’s friends were ‘blue?’ Receiving a most satisfactory answer in
 the affirmative from Sam, who knew as much about the matter as Pott
-himself, he consented to accompany him to Mr. Pickwick’s room, where a
+himself, he consented to accompany him to Mr. [[Pickwick]]’s room, where a
 hearty welcome awaited him, and an agreement to club their dinners
 together was at once made and ratified.
 
-‘And how are matters going on in Eatanswill?’ inquired Mr. Pickwick,
-when Pott had taken a seat near the fire, and the whole party had got
+‘And how are matters going on in Eatanswill?’ inquired Mr. [[Pickwick]],
+when Pott had taken a seat near the [[Fire|fire]], and the whole party had got
 their wet boots off, and dry slippers on. ‘Is the _Independent_ still in
 being?’
 
@@ -285,7 +285,7 @@ support and to maintain?’ suggested Pott.
 
 ‘Why, I don’t exactly know about that,’ replied Bob Sawyer. ‘I am--’
 
-‘Not buff, Mr. Pickwick,’ interrupted Pott, drawing back his chair,
+‘Not buff, Mr. [[Pickwick]],’ interrupted Pott, drawing back his chair,
 ‘your friend is not buff, sir?’
 
 ‘No, no,’ rejoined Bob, ‘I’m a kind of plaid at present; a compound of
@@ -300,70 +300,70 @@ I dare say I should turn very blue, long before I got to the end of
 them,’ responded Bob.
 
 Mr. Pott looked dubiously at Bob Sawyer for some seconds, and, turning
-to Mr. Pickwick, said--
+to Mr. [[Pickwick]], said--
 
 ‘You have seen the literary articles which have appeared at intervals in
 the Eatanswill _Gazette_ in the course of the last three months, and
 which have excited such general--I may say such universal--attention and
 admiration?’
 
-‘Why,’ replied Mr. Pickwick, slightly embarrassed by the question, ‘the
+‘Why,’ replied Mr. [[Pickwick]], slightly embarrassed by the question, ‘the
 fact is, I have been so much engaged in other ways, that I really have
 not had an opportunity of perusing them.’
 
 ‘You should do so, Sir,’ said Pott, with a severe countenance.
 
-‘I will,’ said Mr. Pickwick.
+‘I will,’ said Mr. [[Pickwick]].
 
 ‘They appeared in the form of a copious review of a work on Chinese
 metaphysics, Sir,’ said Pott.
 
-‘Oh,’ observed Mr. Pickwick; ‘from your pen, I hope?’
+‘Oh,’ observed Mr. [[Pickwick]]; ‘from your pen, I [[Hope|hope]]?’
 
 ‘From the pen of my critic, Sir,’ rejoined Pott, with dignity.
 
-‘An abstruse subject, I should conceive,’ said Mr. Pickwick.
+‘An abstruse subject, I should conceive,’ said Mr. [[Pickwick]].
 
 ‘Very, Sir,’ responded Pott, looking intensely sage. ‘He _crammed _for
 it, to use a technical but expressive term; he read up for the subject,
-at my desire, in the “Encyclopaedia Britannica.”’
+at my [[Desire|desire]], in the “Encyclopaedia Britannica.”’
 
-‘Indeed!’ said Mr. Pickwick; ‘I was not aware that that valuable work
+‘Indeed!’ said Mr. [[Pickwick]]; ‘I was not aware that that valuable work
 contained any information respecting Chinese metaphysics.’
 
-‘He read, Sir,’ rejoined Pott, laying his hand on Mr. Pickwick’s knee,
+‘He read, Sir,’ rejoined Pott, laying his hand on Mr. [[Pickwick]]’s knee,
 and looking round with a smile of intellectual superiority--‘he read for
 metaphysics under the letter M, and for China under the letter C, and
 combined his information, Sir!’
 
 Mr. Pott’s features assumed so much additional grandeur at the
 recollection of the power and research displayed in the learned
-effusions in question, that some minutes elapsed before Mr. Pickwick
+effusions in question, that some minutes elapsed before Mr. [[Pickwick]]
 felt emboldened to renew the conversation; at length, as the editor’s
 countenance gradually relaxed into its customary expression of moral
 supremacy, he ventured to resume the discourse by asking--
 
 ‘Is it fair to inquire what great object has brought you so far from
-home?’
+[[Home|home]]?’
 
 ‘That object which actuates and animates me in all my gigantic labours,
 Sir,’ replied Pott, with a calm smile: ‘my country’s good.’
 
-I supposed it was some public mission,’ observed Mr. Pickwick.
+I supposed it was some public mission,’ observed Mr. [[Pickwick]].
 
-‘Yes, Sir,’ resumed Pott, ‘it is.’ Here, bending towards Mr. Pickwick,
+‘Yes, Sir,’ resumed Pott, ‘it is.’ Here, bending towards Mr. [[Pickwick]],
 he whispered in a deep, hollow voice, ‘A Buff ball, Sir, will take place
 in Birmingham to-morrow evening.’
 
-‘God bless me!’ exclaimed Mr. Pickwick.
+‘God bless me!’ exclaimed Mr. [[Pickwick]].
 
 ‘Yes, Sir, and supper,’ added Pott.
 
-‘You don’t say so!’ ejaculated Mr. Pickwick.
+‘You don’t say so!’ ejaculated Mr. [[Pickwick]].
 
 Pott nodded portentously.
 
-Now, although Mr. Pickwick feigned to stand aghast at this disclosure,
+Now, although Mr. [[Pickwick]] feigned to stand aghast at this disclosure,
 he was so little versed in local politics that he was unable to form an
 adequate comprehension of the importance of the dire conspiracy it
 referred to; observing which, Mr. Pott, drawing forth the last number of
@@ -378,8 +378,8 @@ the vain and hopeless attempt of sullying the fair name of our
 distinguished and excellent representative, the Honourable Mr. Slumkey--
 that Slumkey whom we, long before he gained his present noble and
 exalted position, predicted would one day be, as he now is, at once his
-country’s brightest honour, and her proudest boast: alike her bold
-defender and her honest pride--our reptile contemporary, we say, has
+country’s brightest [[Honour|honour]], and her proudest boast: alike her bold
+defender and her honest [[Pride|pride]]--our reptile contemporary, we say, has
 made himself merry, at the expense of a superbly embossed plated coal-
 scuttle, which has been presented to that glorious man by his enraptured
 constituents, and towards the purchase of which, the nameless wretch
@@ -388,8 +388,8 @@ confidential friend of his butler’s, more than three-fourths of the
 whole sum subscribed. Why, does not the crawling creature see, that even
 if this be the fact, the Honourable Mr. Slumkey only appears in a still
 more amiable and radiant light than before, if that be possible? Does
-not even his obtuseness perceive that this amiable and touching desire
-to carry out the wishes of the constituent body, must for ever endear
+not even his obtuseness perceive that this amiable and touching [[Desire|desire]]
+to carry out the wishes of the constituent [[Body|body]], must for ever endear
 him to the hearts and souls of such of his fellow townsmen as are not
 worse than swine; or, in other words, who are not as debased as our
 contemporary himself? But such is the wretched trickery of hole-and-
@@ -409,7 +409,7 @@ the state of the case!’
 
 The landlord and waiter entering at the moment with dinner, caused Mr.
 Pott to lay his finger on his lips, in token that he considered his life
-in Mr. Pickwick’s hands, and depended on his secrecy. Messrs. Bob Sawyer
+in Mr. [[Pickwick]]’s hands, and depended on his secrecy. Messrs. Bob Sawyer
 and Benjamin Allen, who had irreverently fallen asleep during the
 reading of the quotation from the Eatanswill _Gazette_, and the
 discussion which followed it, were roused by the mere whispering of the
@@ -418,7 +418,7 @@ good digestion waiting on appetite, and health on both, and a waiter on
 all three.
 
 In the course of the dinner and the sitting which succeeded it, Mr. Pott
-descending, for a few moments, to domestic topics, informed Mr. Pickwick
+descending, for a few moments, to domestic topics, informed Mr. [[Pickwick]]
 that the air of Eatanswill not agreeing with his lady, she was then
 engaged in making a tour of different fashionable watering-places with a
 view to the recovery of her wonted health and spirits; this was a
@@ -430,11 +430,11 @@ part of the annual income and profits arising from the editorship and
 sale of the Eatanswill _Gazette_.
 
 While the great Mr. Pott was dwelling upon this and other matters,
-enlivening the conversation from time to time with various extracts from
-his own lucubrations, a stern stranger, calling from the window of a
+enlivening the conversation from [[Time|time]] to [[Time|time]] with various extracts from
+his own lucubrations, a stern stranger, calling from the [[Window|window]] of a
 stage-coach, outward bound, which halted at the inn to deliver packages,
-requested to know whether if he stopped short on his journey and
-remained there for the night, he could be furnished with the necessary
+requested to know whether if he stopped short on his [[Journey|journey]] and
+remained there for the [[Night|night]], he could be furnished with the necessary
 accommodation of a bed and bedstead.
 
 ‘Certainly, sir,’ replied the landlord.
@@ -442,12 +442,12 @@ accommodation of a bed and bedstead.
 ‘I can, can I?’ inquired the stranger, who seemed habitually suspicious
 in look and manner.
 
-‘No doubt of it, Sir,’ replied the landlord.
+‘No [[Doubt|doubt]] of it, Sir,’ replied the landlord.
 
 ‘Good,’ said the stranger. ‘Coachman, I get down here. Guard, my carpet-
 bag!’
 
-Bidding the other passengers good-night, in a rather snappish manner,
+Bidding the other passengers good-[[Night|night]], in a rather snappish manner,
 the stranger alighted. He was a shortish gentleman, with very stiff
 black hair cut in the porcupine or blacking-brush style, and standing
 stiff and straight all over his head; his aspect was pompous and
@@ -493,7 +493,7 @@ stranger, and smiled feebly.
 
 ‘Do you know me, man?’ inquired the stranger angrily.
 
-The landlord made a strong effort, and at length replied, ‘Well, Sir, I
+The landlord made a strong effort, and at length replied, ‘[[Well]], Sir, I
 do _not_ know you.’
 
 ‘Great Heaven!’ said the stranger, dashing his clenched fist upon the
@@ -504,27 +504,27 @@ his eyes upon him, resumed.
 
 ‘This,’ said the stranger--‘this is gratitude for years of labour and
 study in behalf of the masses. I alight wet and weary; no enthusiastic
-crowds press forward to greet their champion; the church bells are
+crowds press forward to greet their champion; the church [[Bells|bells]] are
 silent; the very name elicits no responsive feeling in their torpid
 bosoms. It is enough,’ said the agitated Mr. Slurk, pacing to and fro,
 ‘to curdle the ink in one’s pen, and induce one to abandon their cause
 for ever.’
 
-‘Did you say brandy-and-water, Sir?’ said the landlord, venturing a
+‘Did you say brandy-and-[[Water|water]], Sir?’ said the landlord, venturing a
 hint.
 
-‘Rum,’ said Mr. Slurk, turning fiercely upon him. ‘Have you got a fire
+‘Rum,’ said Mr. Slurk, turning fiercely upon him. ‘Have you got a [[Fire|fire]]
 anywhere?’
 
 ‘We can light one directly, Sir,’ said the landlord.
 
-‘Which will throw out no heat until it is bed-time,’ interrupted Mr.
+‘Which will throw out no heat until it is bed-[[Time|time]],’ interrupted Mr.
 Slurk. ‘Is there anybody in the kitchen?’
 
-Not a soul. There was a beautiful fire. Everybody had gone, and the
-house door was closed for the night.
+Not a [[Soul|soul]]. There was a beautiful [[Fire|fire]]. Everybody had gone, and the
+[[house]] door was closed for the [[Night|night]].
 
-‘I will drink my rum-and-water,’ said Mr. Slurk, ‘by the kitchen fire.’
+‘I will drink my rum-and-[[Water|water]],’ said Mr. Slurk, ‘by the kitchen [[Fire|fire]].’
 So, gathering up his hat and newspaper, he stalked solemnly behind the
 landlord to that humble apartment, and throwing himself on a settle by
 the fireside, resumed his countenance of scorn, and began to read and
@@ -532,21 +532,21 @@ drink in silent dignity.
 
 Now, some demon of discord, flying over the Saracen’s Head at that
 moment, on casting down his eyes in mere idle curiosity, happened to
-behold Slurk established comfortably by the kitchen fire, and Pott
+behold Slurk established comfortably by the kitchen [[Fire|fire]], and Pott
 slightly elevated with wine in another room; upon which the malicious
 demon, darting down into the last-mentioned apartment with inconceivable
 rapidity, passed at once into the head of Mr. Bob Sawyer, and prompted
 him for his (the demon’s) own evil purpose to speak as follows:--
 
-‘I say, we’ve let the fire out. It’s uncommonly cold after the rain,
+‘I say, we’ve let the [[Fire|fire]] out. It’s uncommonly cold after the rain,
 isn’t it?’
 
-‘It really is,’ replied Mr. Pickwick, shivering.
+‘It really is,’ replied Mr. [[Pickwick]], shivering.
 
-‘It wouldn’t be a bad notion to have a cigar by the kitchen fire, would
+‘It wouldn’t be a bad notion to have a cigar by the kitchen [[Fire|fire]], would
 it?’ said Bob Sawyer, still prompted by the demon aforesaid.
 
-‘It would be particularly comfortable, I think,’ replied Mr. Pickwick.
+‘It would be particularly comfortable, I think,’ replied Mr. [[Pickwick]].
 ‘Mr. Pott, what do you say?’
 
 Mr. Pott yielded a ready assent; and all four travellers, each with his
@@ -556,20 +556,20 @@ Weller heading the procession to show them the way.
 The stranger was still reading; he looked up and started. Mr. Pott
 started.
 
-‘What’s the matter?’ whispered Mr. Pickwick.
+‘What’s the matter?’ whispered Mr. [[Pickwick]].
 
 ‘That reptile!’ replied Pott.
 
-‘What reptile?’ said Mr. Pickwick, looking about him for fear he should
+‘What reptile?’ said Mr. [[Pickwick]], looking about him for [[Fear|fear]] he should
 tread on some overgrown black beetle, or dropsical spider.
 
-‘That reptile,’ whispered Pott, catching Mr. Pickwick by the arm, and
+‘That reptile,’ whispered Pott, catching Mr. [[Pickwick]] by the arm, and
 pointing towards the stranger. ‘That reptile Slurk, of the
 _Independent_!’
 
-‘Perhaps we had better retire,’ whispered Mr. Pickwick.
+‘Perhaps we had better retire,’ whispered Mr. [[Pickwick]].
 
-‘Never, Sir,’ rejoined Pott, pot-valiant in a double sense--‘never.’
+‘Never, Sir,’ rejoined Pott, pot-valiant in a [[Double|double]] sense--‘never.’
 With these words, Mr. Pott took up his position on an opposite settle,
 and selecting one from a little bundle of newspapers, began to read
 against his enemy.
@@ -579,12 +579,12 @@ read the _Gazette_; and each gentleman audibly expressed his contempt at
 the other’s compositions by bitter laughs and sarcastic sniffs; whence
 they proceeded to more open expressions of opinion, such as ‘absurd,’
 ‘wretched,’ ‘atrocity,’ ‘humbug,’ ‘knavery’, ‘dirt,’ ‘filth,’ ‘slime,’
-‘ditch-water,’ and other critical remarks of the like nature.
+‘ditch-[[Water|water]],’ and other critical remarks of the like [[Nature|nature]].
 
 Both Mr. Bob Sawyer and Mr. Ben Allen had beheld these symptoms of
 rivalry and hatred, with a degree of delight which imparted great
 additional relish to the cigars at which they were puffing most
-vigorously. The moment they began to flag, the mischievous Mr. Bob
+vigorously. The moment they began to [[Flag|flag]], the mischievous Mr. Bob
 Sawyer, addressing Slurk with great politeness, said--
 
 ‘Will you allow me to look at your paper, Sir, when you have quite done
@@ -639,7 +639,7 @@ that better; ha! ha!’
 Mr. Pott retorted not a word at this jocose insult, but deliberately
 folded up his copy of the _Independent_, flattened it carefully down,
 crushed it beneath his boot, spat upon it with great ceremony, and flung
-it into the fire.
+it into the [[Fire|fire]].
 
 ‘There, sir,’ said Pott, retreating from the stove, ‘and that’s the way
 I would serve the viper who produces it, if I were not, fortunately for
@@ -671,7 +671,7 @@ abominable public conduct. I view you, sir, personally and politically,
 in no other light than as a most unparalleled and unmitigated viper.’
 
 The indignant Independent did not wait to hear the end of this personal
-denunciation; for, catching up his carpet-bag, which was well stuffed
+denunciation; for, catching up his carpet-bag, which was [[Well|well]] stuffed
 with movables, he swung it in the air as Pott turned away, and, letting
 it fall with a circular sweep on his head, just at that particular angle
 of the bag where a good thick hairbrush happened to be packed, caused a
@@ -679,19 +679,19 @@ sharp crash to be heard throughout the kitchen, and brought him at once
 to the ground.
 
 
-‘Gentlemen,’ cried Mr. Pickwick, as Pott started up and seized the fire-
+‘Gentlemen,’ cried Mr. [[Pickwick]], as Pott started up and seized the [[Fire|fire]]-
 shovel--‘gentlemen! Consider, for Heaven’s sake--help--Sam--here--pray,
 gentlemen--interfere, somebody.’
 
-Uttering these incoherent exclamations, Mr. Pickwick rushed between the
-infuriated combatants just in time to receive the carpet-bag on one side
-of his body, and the fire-shovel on the other. Whether the
+Uttering these incoherent exclamations, Mr. [[Pickwick]] rushed between the
+infuriated combatants just in [[Time|time]] to receive the carpet-bag on one side
+of his [[Body|body]], and the [[Fire|fire]]-shovel on the other. Whether the
 representatives of the public feeling of Eatanswill were blinded by
 animosity, or (being both acute reasoners) saw the advantage of having a
 third party between them to bear all the blows, certain it is that they
-paid not the slightest attention to Mr. Pickwick, but defying each other
-with great spirit, plied the carpet-bag and the fire-shovel most
-fearlessly. Mr. Pickwick would unquestionably have suffered severely for
+paid not the slightest attention to Mr. [[Pickwick]], but defying each other
+with great spirit, plied the carpet-bag and the [[Fire|fire]]-shovel most
+fearlessly. Mr. [[Pickwick]] would unquestionably have suffered severely for
 his humane interference, if Mr. Weller, attracted by his master’s cries,
 had not rushed in at the moment, and, snatching up a meal-sack,
 effectually stopped the conflict by drawing it over the head and
@@ -725,4 +725,4 @@ Eatanswill rung with their boldness--on paper.
 They had taken themselves off in separate coaches, early next morning,
 before the other travellers were stirring; and the weather having now
 cleared up, the chaise companions once more turned their faces to
-London.
+[[London]].

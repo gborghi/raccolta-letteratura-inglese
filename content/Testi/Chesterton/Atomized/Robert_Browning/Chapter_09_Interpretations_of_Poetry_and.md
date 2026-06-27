@@ -31,11 +31,11 @@ a feather wrong in their head-gear, and who generally have very few
 feelings and think very little about those they have. It is when we
 have grown to a greater and more civilised stature that we begin to
 realise and put to ourselves intellectually the great feelings that
-sleep in the depths of us. Thus it is that the literature of our day
+[[Sleep|sleep]] in the depths of us. Thus it is that the literature of our day
 has steadily advanced towards a passionate simplicity, and we become
 more primeval as the world grows older, until Whitman writes huge and
 chaotic psalms to express the sensations of a schoolboy out fishing,
-and Maeterlinck embodies in symbolic dramas the feelings of a child in
+and Maeterlinck embodies in symbolic dramas the feelings of a [[Child|child]] in
 the dark.
 
 Thus, Mr. Santayana is, perhaps, the most valuable of all the Browning
@@ -50,7 +50,7 @@ does the whole of every one else's poetry. Poetry deals entirely with
 those great eternal and mainly forgotten wishes which are the ultimate
 despots of existence. Poetry presents things as they are to our
 emotions, not as they are to any theory, however plausible, or any
-argument, however conclusive. If love is in truth a glorious vision,
+argument, however conclusive. If [[Love|love]] is in [[Truth|truth]] a glorious vision,
 poetry will say that it is a glorious vision, and no philosophers will
 persuade poetry to say that it is the exaggeration of the instinct of
 sex. If bereavement is a bitter and continually aching thing, poetry
@@ -65,7 +65,7 @@ the science of motives. Some actions are ugly, and therefore some
 parts of ethics are ugly. But all motives are beautiful, or present
 themselves for the moment as beautiful, and therefore all poetry is
 beautiful. If poetry deals with the basest matter, with the shedding
-of blood for gold, it ought to suggest the gold as well as the blood.
+of [[Blood|blood]] for gold, it ought to suggest the gold as [[Well|well]] as the [[Blood|blood]].
 Only poetry can realise motives, because motives are all pictures of
 happiness. And the supreme and most practical value of poetry is this,
 that in poetry, as in music, a note is struck which expresses beyond
@@ -73,21 +73,21 @@ the power of rational statement a condition of mind, and all actions
 arise from a condition of mind. Prose can only use a large and clumsy
 notation; it can only say that a man is miserable, or that a man is
 happy; it is forced to ignore that there are a million diverse kinds
-of misery and a million diverse kinds of happiness. Poetry alone, with
+of misery and a million diverse kinds of happiness. Poetry [[Alone|alone]], with
 the first throb of its metre, can tell us whether the depression is
-the kind of depression that drives a man to suicide, or the kind of
+the kind of depression that drives a man to [[suicide]], or the kind of
 depression that drives him to the Tivoli. Poetry can tell us whether
 the happiness is the happiness that sends a man to a restaurant, or
 the much richer and fuller happiness that sends him to church.
 
 Now the supreme value of Browning as an optimist lies in this that we
 have been examining, that beyond all his conclusions, and deeper than
-all his arguments, he was passionately interested in and in love with
+all his arguments, he was passionately interested in and in [[Love|love]] with
 existence. If the heavens had fallen, and all the waters of the earth
-run with blood, he would still have been interested in existence, if
+run with [[Blood|blood]], he would still have been interested in existence, if
 possible a little more so. He is a great poet of human joy for
 precisely the reason of which Mr. Santayana complains: that his
-happiness is primal, and beyond the reach of philosophy. He is
+happiness is primal, and beyond the reach of [[philosophy]]. He is
 something far more convincing, far more comforting, far more
 religiously significant than an optimist: he is a happy man.
 
@@ -95,10 +95,10 @@ This happiness he finds, as every man must find happiness, in his own
 way. He does not find the great part of his joy in those matters in
 which most poets find felicity. He finds much of it in those matters
 in which most poets find ugliness and vulgarity. He is to a
-considerable extent the poet of towns. "Do you care for nature much?"
+considerable extent the poet of towns. "Do you care for [[Nature|nature]] much?"
 a friend of his asked him. "Yes, a great deal," he said, "but for
-human beings a great deal more." Nature, with its splendid and
-soothing sanity, has the power of convincing most poets of the
+human beings a great deal more." [[Nature]], with its splendid and
+soothing [[Sanity|sanity]], has the power of convincing most poets of the
 essential worthiness of things. There are few poets who, if they
 escaped from the rowdiest waggonette of trippers, could not be quieted
 again and exalted by dropping into a small wayside field. The
@@ -107,14 +107,14 @@ exalted by the waggonette.
 
 To Browning, probably the beginning and end of all optimism was to be
 found in the faces in the street. To him they were all the masks of a
-deity, the heads of a hundred-headed Indian god of nature. Each one of
+deity, the heads of a hundred-headed Indian god of [[Nature|nature]]. Each one of
 them looked towards some quarter of the heavens, not looked upon by
 any other eyes. Each one of them wore some expression, some blend of
 eternal joy and eternal sorrow, not to be found in any other
 countenance. The sense of the absolute sanctity of human difference
 was the deepest of all his senses. He was hungrily interested in all
 human things, but it would have been quite impossible to have said of
-him that he loved humanity. He did not love humanity but men. His
+him that he loved humanity. He did not [[Love|love]] humanity but men. His
 sense of the difference between one man and another would have made
 the thought of melting them into a lump called humanity simply
 loathsome and prosaic. It would have been to him like playing four
@@ -132,17 +132,17 @@ Gavan Duffy, there is an extremely significant and interesting
 anecdote about Browning, the point of which appears to have attracted
 very little attention. Duffy was dining with Browning and John
 Forster, and happened to make some chance allusion to his own
-adherence to the Roman Catholic faith, when Forster remarked, half
+adherence to the Roman Catholic [[Faith|faith]], when Forster remarked, half
 jestingly, that he did not suppose that Browning would like him any
 the better for that. Browning would seem to have opened his eyes with
 some astonishment. He immediately asked why Forster should suppose
 him hostile to the Roman Church. Forster and Duffy replied almost
 simultaneously, by referring to "Bishop Blougram's Apology," which had
 just appeared, and asking whether the portrait of the sophistical and
-self-indulgent priest had not been intended for a satire on Cardinal
+[[Self|self]]-indulgent priest had not been intended for a [[Satire|satire]] on Cardinal
 Wiseman. "Certainly," replied Browning cheerfully, "I intended it for
-Cardinal Wiseman, but I don't consider it a satire, there is nothing
-hostile about it." This is the real truth which lies at the heart of
+Cardinal Wiseman, but I don't consider it a [[Satire|satire]], there is nothing
+hostile about it." This is the real [[Truth|truth]] which lies at the heart of
 what may be called the great sophistical monologues which Browning
 wrote in later years. They are not satires or attacks upon their
 subjects, they are not even harsh and unfeeling exposures of them.
@@ -163,23 +163,23 @@ fighting politician, who, for the good of his party and his country,
 acceded to measures of which he disapproved; but we cannot, because we
 are not allowed to admit that he ever acceded to measures of which he
 disapproved. We might touch the life of many dissolute public men with
-pathos, and a kind of defeated courage, by telling the truth about the
-history of their sins. But we should throw the world into an uproar if
+pathos, and a kind of defeated [[Courage|courage]], by telling the [[Truth|truth]] about the
+[[history]] of their sins. But we should throw the world into an uproar if
 we hinted that they had any. Thus the decencies of civilisation do not
 merely make it impossible to revile a man, they make it impossible to
 praise him.
 
-Browning, in such poems as "Bishop Blougram's Apology," breaks this
+Browning, in such [[Poems|poems]] as "Bishop Blougram's Apology," breaks this
 first mask of goodness in order to break the second mask of evil, and
 gets to the real goodness at last; he dethrones a saint in order to
 humanise a scoundrel. This is one typical side of the real optimism of
 Browning. And there is indeed little danger that such optimism will
 become weak and sentimental and popular, the refuge of every idler,
-the excuse of every ne'er-do-well. There is little danger that men
-will desire to excuse their souls before God by presenting themselves
+the excuse of every ne'er-do-[[Well|well]]. There is little danger that men
+will [[Desire|desire]] to excuse their souls before God by presenting themselves
 before men as such snobs as Bishop Blougram, or such dastards as
 Sludge the Medium. There is no pessimism, however stern, that is so
-stern as this optimism, it is as merciless as the mercy of God.
+stern as this optimism, it is as merciless as the [[Mercy|mercy]] of God.
 
 It is true that in this, as in almost everything else connected with
 Browning's character, the matter cannot be altogether exhausted by
@@ -188,7 +188,7 @@ and therefore very difficult to understand, since it was impulsive,
 unconscious, and kept no reckoning of its moods. Probably in a great
 many cases, the original impulse which led Browning to plan a
 soliloquy was a kind of anger mixed with curiosity; possibly the first
-charcoal sketch of Blougram was a caricature of a priest. Browning,
+charcoal [[Sketch|sketch]] of Blougram was a caricature of a priest. Browning,
 as we have said, had prejudices, and had a capacity for anger, and two
 of his angriest prejudices were against a certain kind of worldly
 clericalism, and against almost every kind of spiritualism. But as he
@@ -201,7 +201,7 @@ worth while to notice one very curious error that has arisen in
 connection with one of the most famous of these monologues.
 
 When Robert Browning was engaged in that somewhat obscure quarrel with
-the spiritualist Home, it is generally and correctly stated that he
+the spiritualist [[Home]], it is generally and correctly stated that he
 gained a great number of the impressions which he afterwards embodied
 in "Mr. Sludge the Medium." The statement so often made, particularly
 in the spiritualist accounts of the matter, that Browning himself is
@@ -210,14 +210,14 @@ merely an example of that reckless reading from which no one has
 suffered more than Browning despite his students and societies. The
 man to whom Sludge addresses his confession is a Mr. Hiram H.
 Horsfall, an American, a patron of spiritualists, and, as it is more
-than once suggested, something of a fool. Nor is there the smallest
+than once suggested, something of a [[Fool|fool]]. Nor is there the smallest
 reason to suppose that Sludge considered as an individual bears any
-particular resemblance to Home considered as an individual. But
-without doubt "Mr. Sludge the Medium" is a general statement of the
+particular resemblance to [[Home]] considered as an individual. But
+without [[Doubt|doubt]] "Mr. Sludge the Medium" is a general statement of the
 view of spiritualism at which Browning had arrived from his
-acquaintance with Home and Home's circle. And about that view of
+acquaintance with [[Home]] and [[Home]]'s circle. And about that view of
 spiritualism there is something rather peculiar to notice. The poem,
-appearing as it did at the time when the intellectual public had just
+appearing as it did at the [[Time|time]] when the intellectual public had just
 become conscious of the existence of spiritualism, attracted a great
 deal of attention, and aroused a great deal of controversy. The
 spiritualists called down thunder upon the head of the poet, whom they
@@ -227,12 +227,12 @@ but the more unpardonable profanity of sneering at the convictions of
 his own wife. The sceptics, on the other hand, hailed the poem with
 delight as a blasting exposure of spiritualism, and congratulated the
 poet on making himself the champion of the sane and scientific view of
-magic. Which of these two parties was right about the question of
+[[Magic|magic]]. Which of these two parties was right about the question of
 attacking the reality of spiritualism it is neither easy nor necessary
-to discuss. For the simple truth, which neither of the two parties and
+to discuss. For the simple [[Truth|truth]], which neither of the two parties and
 none of the students of Browning seem to have noticed, is that "Mr.
 Sludge the Medium" is not an attack upon spiritualism. It would be a
-great deal nearer the truth, though not entirely the truth, to call it
+great deal nearer the [[Truth|truth]], though not entirely the [[Truth|truth]], to call it
 a justification of spiritualism. The whole essence of Browning's
 method is involved in this matter, and the whole essence of Browning's
 method is so vitally misunderstood that to say that "Mr. Sludge the
@@ -250,7 +250,7 @@ this deduction as sound is to misunderstand Browning at the very start
 of every poem that he ever wrote. There is nothing that the man loved
 more, nothing that deserves more emphatically to be called a
 speciality of Browning, than the utterance of large and noble truths
-by the lips of mean and grotesque human beings. In his poetry praise
+by the lips of mean and [[Grotesque|grotesque]] human beings. In his poetry praise
 and wisdom were perfected not only out of the mouths of babes and
 sucklings, but out of the mouths of swindlers and snobs. Now what, as
 a matter of fact, is the outline and development of the poem of
@@ -262,16 +262,16 @@ a piece of trickery for which there is no conceivable explanation or
 palliation which will leave his moral character intact. He is
 therefore seized with a sudden resolution, partly angry, partly
 frightened, and partly humorous, to become absolutely frank, and to
-tell the whole truth about himself for the first time not only to his
+tell the whole [[Truth|truth]] about himself for the first [[Time|time]] not only to his
 dupe, but to himself. He excuses himself for the earlier stages of the
-trickster's life by a survey of the border-land between truth and
+[[Trickster|trickster]]'s life by a survey of the border-land between [[Truth|truth]] and
 fiction, not by any means a piece of sophistry or cynicism, but a
 perfectly fair statement of an ethical difficulty which does exist.
 There are some people who think that it must be immoral to admit that
-there are any doubtful cases of morality, as if a man should refrain
+there are any doubtful cases of [[morality]], as if a man should refrain
 from discussing the precise boundary at the upper end of the Isthmus
-of Panama, for fear the inquiry should shake his belief in the
-existence of North America. People of this kind quite consistently
+of Panama, for [[Fear|fear]] the inquiry should shake his belief in the
+existence of North [[America]]. People of this kind quite consistently
 think Sludge to be merely a scoundrel talking nonsense. It may be
 remembered that they thought the same thing of Newman. It is actually
 supposed, apparently in the current use of words, that casuistry is
@@ -284,9 +284,9 @@ and analytical thing, but a very warm and sympathetic thing. To know
 what combination of excuse might justify a man in manslaughter or
 bigamy, is not to have a callous indifference to virtue; it is rather
 to have so ardent an admiration for virtue as to seek it in the
-remotest desert and the darkest incognito.
+remotest [[Desert|desert]] and the darkest incognito.
 
-This is emphatically the case with the question of truth and falsehood
+This is emphatically the case with the question of [[Truth|truth]] and falsehood
 raised in "Sludge the Medium." To say that it is sometimes difficult
 to tell at what point the romancer turns into the liar is not to state
 a cynicism, but a perfectly honest piece of human observation. To
@@ -299,7 +299,7 @@ is the case of the fairy-tales. We think a father entirely pure and
 benevolent when he tells his children that a beanstalk grew up into
 heaven, and a pumpkin turned into a coach. We should consider that he
 lapsed from purity and benevolence if he told his children that in
-walking home that evening he had seen a beanstalk grow half-way up the
+walking [[Home|home]] that evening he had seen a beanstalk grow half-way up the
 church, or a pumpkin grow as large as a wheelbarrow. Again, few people
 would object to that general privilege whereby it is permitted to a
 person in narrating even a true anecdote to work up the climax by any
@@ -316,11 +316,11 @@ and ending with a gross abuse, it certainly is not possible to deny
 his right to be heard.
 
 We must recur, however, to the question of the main development of the
-Sludge self-analysis. He begins, as we have said, by urging a general
+Sludge [[Self|self]]-analysis. He begins, as we have said, by urging a general
 excuse by the fact that in the heat of social life, in the course of
 telling tales in the intoxicating presence of sympathisers and
 believers, he has slid into falsehood almost before he is aware of it.
-So far as this goes, there is truth in his plea. Sludge might indeed
+So far as this goes, there is [[Truth|truth]] in his plea. Sludge might indeed
 find himself unexpectedly justified if we had only an exact record of
 how true were the tales told about Conservatives in an exclusive
 circle of Radicals, or the stories told about Radicals in a circle of
@@ -332,37 +332,37 @@ He professes to know how to lay the foundations for every species of
 personal acquaintanceship, and how to remedy the slight and trivial
 slips of making Plato write Greek in naughts and crosses.
 
-    "As I fear, sir, he sometimes used to do
+    "As I [[Fear|fear]], sir, he sometimes used to do
     Before I found the useful book that knows."
 
 It would be difficult to imagine any figure more indecently
 confessional, more entirely devoid of not only any of the restraints
-of conscience, but of any of the restraints even of a wholesome
+of [[Conscience|conscience]], but of any of the restraints even of a wholesome
 personal conceit, than Sludge the Medium. He confesses not only fraud,
 but things which are to the natural man more difficult to confess even
 than fraud--effeminacy, futility, physical cowardice. And then, when
-the last of his loathsome secrets has been told, when he has nothing
+the last of his loathsome [[Secrets|secrets]] has been told, when he has nothing
 left either to gain or to conceal, then he rises up into a perfect
 bankrupt sublimity and makes the great avowal which is the whole pivot
 and meaning of the poem. He says in effect: "Now that my interest in
 deceit is utterly gone, now that I have admitted, to my own final
 infamy, the frauds that I have practised, now that I stand before you
 in a patent and open villainy which has something of the
-disinterestedness and independence of the innocent, now I tell you
-with the full and impartial authority of a lost soul that I believe
+disinterestedness and independence of the [[Innocent|innocent]], now I tell you
+with the full and impartial authority of a lost [[Soul|soul]] that I believe
 that there is something in spiritualism. In the course of a thousand
 conspiracies, by the labour of a thousand lies, I have discovered that
 there is really something in this matter that neither I nor any other
 man understands. I am a thief, an adventurer, a deceiver of mankind,
 but I am not a disbeliever in spiritualism. I have seen too much for
-that." This is the confession of faith of Mr. Sludge the Medium. It
-would be difficult to imagine a confession of faith framed and
+that." This is the confession of [[Faith|faith]] of Mr. Sludge the Medium. It
+would be difficult to imagine a confession of [[Faith|faith]] framed and
 presented in a more impressive manner. Sludge is a witness to his
-faith as the old martyrs were witnesses to their faith, but even more
+[[Faith|faith]] as the old martyrs were witnesses to their [[Faith|faith]], but even more
 impressively. They testified to their religion even after they had
 lost their liberty, and their eyesight, and their right hands. Sludge
 testifies to his religion even after he has lost his dignity and his
-honour.
+[[Honour|honour]].
 
 It may be repeated that it is truly extraordinary that any one should
 have failed to notice that this avowal on behalf of spiritualism is
@@ -379,7 +379,7 @@ clearly, but prepared and delivered with admirable rhetorical force:--
     By the same token, though it seem to set
     The crooked straight again, unsay the said,
     Stick up what I've knocked down; I can't help that,
-    It's truth! I somehow vomit truth to-day.
+    It's [[Truth|truth]]! I somehow vomit [[Truth|truth]] to-day.
     This trade of mine--I don't know, can't be sure
     But there was something in it, tricks and all!"
 
@@ -397,7 +397,7 @@ Sludge must be intended for a pure and conscious impostor, because
 after his confession, and on the personal withdrawal of Mr. Horsfall,
 he bursts out into horrible curses against that gentleman and cynical
 boasts of his future triumphs in a similar line of business. Surely
-this is to have a very feeble notion either of nature or art. A man
+this is to have a very feeble notion either of [[Nature|nature]] or art. A man
 driven absolutely into a corner might humiliate himself, and gain a
 certain sensation almost of luxury in that humiliation, in pouring out
 all his imprisoned thoughts and obscure victories. For let it never be
@@ -406,28 +406,28 @@ devoted himself to a most delicate and arduous intellectual art in
 which he may achieve masterpieces which he must keep secret, fight
 thrilling battles, and win hair's-breadth victories for which he
 cannot have a whisper of praise. A really accomplished impostor is the
-most wretched of geniuses; he is a Napoleon on a desert island. A man
+most wretched of geniuses; he is a Napoleon on a [[Desert|desert]] island. A man
 might surely, therefore, when he was certain that his credit was gone,
 take a certain pleasure in revealing the tricks of his unique trade,
 and gaining not indeed credit, but at least a kind of glory. And in
-the course of this self-revelation he would come at last upon that
+the course of this [[Self|self]]-revelation he would come at last upon that
 part of himself which exists in every man--that part which does
 believe in, and value, and worship something. This he would fling in
-his hearer's face with even greater pride, and take a delight in
+his hearer's face with even greater [[Pride|pride]], and take a delight in
 giving a kind of testimony to his religion which no man had ever given
-before--the testimony of a martyr who could not hope to be a saint.
+before--the testimony of a martyr who could not [[Hope|hope]] to be a saint.
 But surely all this sudden tempest of candour in the man would not
-mean that he would burst into tears and become an exemplary ratepayer,
-like a villain in the worst parts of Dickens. The moment the danger
+mean that he would burst into [[Tears|tears]] and become an exemplary ratepayer,
+like a [[Villain|villain]] in the worst parts of Dickens. The moment the danger
 was withdrawn, the sense of having given himself away, of having
 betrayed the secret of his infamous freemasonry, would add an
 indescribable violence and foulness to his reaction of rage. A man in
 such a case would do exactly as Sludge does. He would declare his own
-shame, declare the truth of his creed, and then, when he realised what
+shame, declare the [[Truth|truth]] of his creed, and then, when he realised what
 he had done, say something like this:--
 
     "R-r-r, you brute-beast and blackguard! Cowardly scamp!
-    I only wish I dared burn down the house
+    I only wish I dared burn down the [[house]]
     And spoil your sniggering!"
 
 and so on, and so on.
@@ -437,7 +437,7 @@ Browning. But it does not prove that he was a hypocrite about
 spiritualism, or that he was speaking more truthfully in the second
 outburst than in the first. Whence came this extraordinary theory that
 a man is always speaking most truly when he is speaking most coarsely?
-The truth about oneself is a very difficult thing to express, and
+The [[Truth|truth]] about oneself is a very difficult thing to express, and
 coarse speaking will seldom do it.
 
 When we have grasped this point about "Sludge the Medium," we have
@@ -453,51 +453,51 @@ found side by side in the same eloquent and sustained utterance.
 
     "For Blougram, he believed, say, half he spoke."
 
-Or, to put the matter in another way, the general idea of these poems
-is, that a man cannot help telling some truth even when he sets out to
+Or, to put the matter in another way, the general idea of these [[Poems|poems]]
+is, that a man cannot help telling some [[Truth|truth]] even when he sets out to
 tell lies. If a man comes to tell us that he has discovered perpetual
 motion, or been swallowed by the sea-serpent, there will yet be some
 point in the story where he will tell us about himself almost all that
 we require to know.
 
-If any one wishes to test the truth, or to see the best examples of
+If any one wishes to test the [[Truth|truth]], or to see the best examples of
 this general idea in Browning's monologues, he may be recommended to
-notice one peculiarity of these poems which is rather striking. As a
+notice one peculiarity of these [[Poems|poems]] which is rather striking. As a
 whole, these apologies are written in a particularly burly and even
-brutal English. Browning's love of what is called the ugly is nowhere
+brutal English. Browning's [[Love|love]] of what is called the ugly is nowhere
 else so fully and extravagantly indulged. This, like a great many
-other things for which Browning as an artist is blamed, is perfectly
+other things for which Browning as an [[artist]] is blamed, is perfectly
 appropriate to the theme. A vain, ill-mannered, and untrustworthy
 egotist, defending his own sordid doings with his own cheap and
-weather-beaten philosophy, is very likely to express himself best in a
+weather-beaten [[philosophy]], is very likely to express himself best in a
 language flexible and pungent, but indelicate and without dignity. But
 the peculiarity of these loose and almost slangy soliloquies is that
 every now and then in them there occur bursts of pure poetry which are
-like a burst of birds singing. Browning does not hesitate to put some
+like a burst of [[Birds|birds]] singing. Browning does not hesitate to put some
 of the most perfect lines that he or anyone else have ever written in
 the English language into the mouths of such slaves as Sludge and
 Guido Franceschini. Take, for the sake of example, "Bishop Blougram's
-Apology." The poem is one of the most grotesque in the poet's works.
+Apology." The poem is one of the most [[Grotesque|grotesque]] in the poet's works.
 It is intentionally redolent of the solemn materialism and patrician
 grossness of a grand dinner-party _à deux_. It has many touches of an
 almost wild bathos, such as the young man who bears the impossible
 name of Gigadibs. The Bishop, in pursuing his worldly argument for
-conformity, points out with truth that a condition of doubt is a
+conformity, points out with [[Truth|truth]] that a condition of [[Doubt|doubt]] is a
 condition that cuts both ways, and that if we cannot be sure of the
 religious theory of life, neither can we be sure of the material
 theory of life, and that in turn is capable of becoming an uncertainty
 continually shaken by a tormenting suggestion. We cannot establish
-ourselves on rationalism, and make it bear fruit to us. Faith itself
+ourselves on rationalism, and make it bear fruit to us. [[Faith]] itself
 is capable of becoming the darkest and most revolutionary of doubts.
 Then comes the passage:--
 
     "Just when we are safest, there's a sunset-touch,
-    A fancy from a flower-bell, some one's death,
-    A chorus ending from Euripides,--
+    A fancy from a flower-bell, some one's [[Death|death]],
+    A [[Chorus|chorus]] ending from Euripides,--
     And that's enough for fifty hopes and fears
-    As old and new at once as Nature's self,
-    To rap and knock and enter in our soul,
-    Take hands and dance there, a fantastic ring,
+    As old and new at once as [[Nature]]'s [[Self|self]],
+    To rap and knock and enter in our [[Soul|soul]],
+    Take hands and [[Dance|dance]] there, a fantastic ring,
     Round the ancient idol, on his base again,--
     The grand Perhaps!"
 
@@ -524,16 +524,16 @@ been the true means of realising what he believes to be the will of
 God. Every one of these meagre swindlers, while admitting a failure in
 all things relative, claims an awful alliance with the Absolute. To
 many it will at first sight appear a dangerous doctrine indeed. But,
-in truth, it is a most solid and noble and salutary doctrine, far less
+in [[Truth|truth]], it is a most solid and noble and salutary doctrine, far less
 dangerous than its opposite. Every one on this earth should believe,
-amid whatever madness or moral failure, that his life and temperament
+amid whatever [[Madness|madness]] or moral failure, that his life and temperament
 have some object on the earth. Every one on the earth should believe
 that he has something to give to the world which cannot otherwise be
 given. Every one should, for the good of men and the saving of his own
-soul, believe that it is possible, even if we are the enemies of the
+[[Soul|soul]], believe that it is possible, even if we are the enemies of the
 human race, to be the friends of God. The evil wrought by this
-mystical pride, great as it often is, is like a straw to the evil
-wrought by a materialistic self-abandonment. The crimes of the devil
+mystical [[Pride|pride]], great as it often is, is like a straw to the evil
+wrought by a materialistic [[Self|self]]-abandonment. The crimes of the devil
 who thinks himself of immeasurable value are as nothing to the crimes
 of the devil who thinks himself of no value. With Browning's knaves we
 have always this eternal interest, that they are real somewhere, and
@@ -560,15 +560,15 @@ Arnold, Matthew, 41, 55, 56.
 
 _Asolando_, 132.
 
-Asolo (Italy), 42, 131.
+Asolo ([[Italy]]), 42, 131.
 
-"At the Mermaid," 117.
+"At the [[Mermaid]]," 117.
 
 Austria, 88, 89.
 
 B
 
-"Bad Dreams," 138.
+"Bad [[Dreams]]," 138.
 
 _Balaustion's Adventure_, 119-120.
 
@@ -592,20 +592,20 @@ _Blot on the 'Scutcheon, A_, 53.
 
 Boyd, Mr., 62.
 
-Browning, Robert: birth and family history, 3;
+Browning, Robert: birth and family [[history]], 3;
   theories as to his descent, 4-8;
   a typical Englishman of the middle class, 9;
   his immediate ancestors, 10 _seq._;
-  education, 12;
+  [[Education|education]], 12;
   boyhood and youth, 17;
-  first poems, _Incondita_, 17;
+  first [[Poems|poems]], _Incondita_, 17;
   romantic spirit, 18;
   publication of _Pauline_, 20;
-  friendship with literary men, 21;
+  [[Friendship|friendship]] with literary men, 21;
   _Paracelsus_, 22;
   introduction to literary world, 25;
   his earliest admirers, 26;
-  friendship with Carlyle, 26;
+  [[Friendship|friendship]] with Carlyle, 26;
   _Strafford_, 27;
   _Sordello_, 34;
   _Pippa Passes_, 43;
@@ -614,12 +614,12 @@ Browning, Robert: birth and family history, 3;
   _A Blot on the 'Scutcheon_, 53;
   correspondence with Elizabeth Barrett, 62 _seq._;
   their first meeting, 70;
-  marriage and elopement, 78, 79;
-  life in Italy, 81 _seq._;
-  love of Italy, 82, 85 _seq._;
+  [[Marriage|marriage]] and elopement, 78, 79;
+  life in [[Italy]], 81 _seq._;
+  [[Love|love]] of [[Italy]], 82, 85 _seq._;
   sympathy with Italian Revolution, 90;
   attitude towards spiritualism, 91 _seq._, 113, 190-199;
-  death of his wife, 103;
+  [[Death|death]] of his wife, 103;
   returns to England, 105;
   _The Ring and the Book_, 110;
   culmination of his literary fame, 110, 117;
@@ -628,9 +628,9 @@ Browning, Robert: birth and family history, 3;
   honoured by the great Universities, 118;
   _Balaustion's Adventure_, 119-120;
   _Aristophanes' Apology_, 120;
-  _The Agamemnon of Aeschylus_, 120;
+  _The [[Agamemnon]] of Aeschylus_, 120;
   _Prince Hohenstiel-Schwangau_, 121;
-  _Red-Cotton Night-Cap Country_, 122;
+  _Red-Cotton [[Night]]-Cap Country_, 122;
   _Fifine at the Fair_, 124;
   _The Inn Album_, 125;
   _Pacchiarotto, and How He Worked in Distemper_, 125;
@@ -642,11 +642,11 @@ Browning, Robert: birth and family history, 3;
   _Parleyings with Certain People of Importance in their Day_, 128;
   accepts post of Foreign Correspondent to the Royal Academy, 129;
   goes to Llangollen with his sister, 130;
-  last journey to Italy, 130;
-  death at Venice, 132;
+  last [[Journey|journey]] to [[Italy]], 130;
+  [[Death|death]] at [[Venice]], 132;
   publication of _Asolando_, 132;
   his conversation, 36;
-  vanity, 33, 36;
+  [[Vanity|vanity]], 33, 36;
   faults and virtues, 40, 55;
   his interest in Art, 82 _seq._;
   his varied accomplishments, 84-85;
@@ -656,8 +656,8 @@ Browning, Robert: birth and family history, 3;
   politics, 86 _seq._;
   Browning as a father, 105;
   as dramatist, 52;
-  as a literary artist, 133 _seq._;
-  his use of the grotesque, 48, 140, 143, 148 _seq._;
+  as a literary [[artist]], 133 _seq._;
+  his use of the [[Grotesque|grotesque]], 48, 140, 143, 148 _seq._;
   his failures, 141;
   artistic originality, 136, 143, 158;
   keen sense of melody and rhythm, 145 _seq._;
@@ -665,9 +665,9 @@ Browning, Robert: birth and family history, 3;
   his buffoonery, 154;
   obscurity, 154 _seq._;
   his conception of the Universe, 175;
-  philosophy, 177 _seq._;
+  [[philosophy]], 177 _seq._;
   optimism, 179 _seq._;
-  his love poetry, 49;
+  his [[Love|love]] poetry, 49;
   his knaves, 51, 201-202;
   the key to his casuistical monologues, 199.
 
@@ -693,9 +693,9 @@ Byronism, 19, 117.
 
 C
 
-"Caliban," 9, 120.
+"[[Caliban]]," 9, 120.
 
-"Caliban upon Setebos," 93, 135, 138.
+"[[Caliban]] upon Setebos," 93, 135, 138.
 
 Camberwell, 3, 8, 19.
 
@@ -717,17 +717,17 @@ Chaucer, 117.
 
 _Christmas Eve_, 105.
 
-Church in Italy, The, 88.
+Church in [[Italy]], The, 88.
 
 "Clive," 127.
 
-Clough, Arthur Hugh, 56.
+Clough, [[arthur|Arthur]] Hugh, 56.
 
 _Colombe's Birthday_, 32.
 
 Corelli, Miss Marie, 38.
 
-Cromwell, Oliver, 73.
+Cromwell, [[Oliver]], 73.
 
 D
 
@@ -753,7 +753,7 @@ E
 
 _Edinburgh Review_, 122.
 
-"Englishman in Italy, The," 150.
+"Englishman in [[Italy]], The," 150.
 
 F
 
@@ -781,13 +781,13 @@ Fox, Mrs. Bridell, 33.
 
 _Fra Lippo Lippi_, 83, 199.
 
-French Revolution, 87.
+[[French Revolution]], 87.
 
 Furnivall, Dr., 7, 129.
 
 G
 
-"Garden Fancies," 46.
+"[[Garden]] Fancies," 46.
 
 Garibaldi, 86, 89.
 
@@ -809,21 +809,21 @@ H
 
 Henley, Mr., 148.
 
-"Heretic's Tragedy, The," 137.
+"Heretic's [[Tragedy]], The," 137.
 
 Hickey, Miss E.H., 129.
 
-"Holy Cross Day," 153.
+"Holy [[Cross]] Day," 153.
 
-Home, David (spiritualist), 93-97, 113, 190, 191.
+[[Home]], David (spiritualist), 93-97, 113, 190, 191.
 
-Home, David, _Memoirs_ of, 93 _seq._
+[[Home]], David, _Memoirs_ of, 93 _seq._
 
 Horne, 26.
 
 Houghton, Lord, 129.
 
-"House," 138.
+"[[house|House]]," 138.
 
 "Householder, The," 138.
 
@@ -843,7 +843,7 @@ _Inn Album, The_, 125.
 
 _Instans Tyrannus_, 9.
 
-Italy, 85 _seq._
+[[Italy]], 85 _seq._
 
 Italian Revolution, 88 _seq._
 
@@ -869,7 +869,7 @@ Keats, 15, 16, 19, 137, 142.
 
 Kenyon, Mr., 22, 58, 69-70, 74, 76.
 
-_King Victor and King Charles_, 32.
+_King Victor and [[King]] Charles_, 32.
 
 Kipling, Rudyard, 142.
 
@@ -897,7 +897,7 @@ Lockhart, 112.
 
 "Lost Leader, The," 46.
 
-"Lover's Quarrel, A," 50.
+"[[Lover]]'s Quarrel, A," 50.
 
 "Luigi," 45.
 
@@ -911,11 +911,11 @@ Maeterlinck, 164, 184.
 
 Manning, Cardinal, 91.
 
-Mary Queen of Scots, 29.
+Mary [[Queen]] of Scots, 29.
 
 "Master Hugues of Saxe-Gotha," 147.
 
-"May and Death." 21.
+"May and [[Death]]." 21.
 
 Mazzini, 89.
 
@@ -926,7 +926,7 @@ Mill, John Stuart, 26, 56.
 
 Milsand, 119.
 
-Milton, 137.
+[[Milton]], 137.
 
 Monckton-Milnes, 26, 100.
 
@@ -944,7 +944,7 @@ Napoleon, 42, 89.
 
 Napoleon III., 56, 92, 121.
 
-"Never the Time and the Place," 127.
+"Never the [[Time]] and the Place," 127.
 
 Newman, Cardinal, 193.
 
@@ -952,7 +952,7 @@ Norwood, 18.
 
 O
 
-"Ode on the Intimations of Immortality" (Wordsworth), 136.
+"Ode on the Intimations of [[Immortality]]" (Wordsworth), 136.
 
 "Ode on a Grecian Urn" (Keats), 137.
 
@@ -970,11 +970,11 @@ _Paracelsus_, 22, 25, 26, 41, 47, 158.
 
 "Paracelsus," 24, 25.
 
-Painting, Poems on, 83.
+Painting, [[Poems]] on, 83.
 
 Palgrave, Francis, 117.
 
-Paris, 94.
+[[Paris]], 94.
 
 _Parleyings with certain Persons of Importance in their Day_, 22, 128, 158.
 
@@ -998,7 +998,7 @@ Pius IX., Church under, 88.
 
 Plato, 21, 23.
 
-Poe, Edgar Allan, 144.
+Poe, [[Edgar]] Allan, 144.
 
 Poetry, Pessimistic school of, 130.
 
@@ -1012,7 +1012,7 @@ _Prince Hohenstiel-Schwangau_, 121-122.
 
 _Princess, The_ (Tennyson), 148.
 
-"Prometheus Unbound" (Shelley), 137.
+"[[Prometheus]] Unbound" (Shelley), 137.
 
 Prussia, 88, 89.
 
@@ -1024,7 +1024,7 @@ R
 
 "Rabbi Ben Ezra," 201.
 
-_Red-Cotton Night-Cap Country_, 122-124.
+_Red-Cotton [[Night]]-Cap Country_, 122-124.
 
 _Return of the Druses, The_, 51-53.
 
@@ -1044,7 +1044,7 @@ Royalists, 30.
 
 Ruskin, 16, 55, 56, 91, 115.
 
-Russia, 88.
+[[Russia]], 88.
 
 S
 
@@ -1060,7 +1060,7 @@ Shakespeare Society, 129.
 
 Sharp, Mr. William, 133.
 
-Shaw, Mr. Bernard, 165.
+[[Shaw]], Mr. Bernard, 165.
 
 Shelley, 15, 16, 17,19, 56, 136, 141, 143.
 
@@ -1072,7 +1072,7 @@ Silverthorne (Browning's cousin), 21.
 
 "Sludge," 51, 52, 150, 189, 200.
 
-Smith, Elder (publishers), 110.
+[[smith|Smith]], Elder (publishers), 110.
 
 "Soliloquy of the Spanish Cloister, The," 47.
 
@@ -1126,9 +1126,9 @@ University College, 14.
 
 V
 
-Venice, 131.
+[[Venice]], 131.
 
-Victor of Sardinia, King, 23.
+Victor of Sardinia, [[King]], 23.
 
 Vogler, Abt, 23.
 
@@ -1140,7 +1140,7 @@ Watts, Mr. G.F., 112.
 
 Whitman, Walt, 21, 43, 49, 114, 165, 184.
 
-"Why I am a Liberal" (sonnet), 86.
+"Why I am a Liberal" ([[Sonnet|sonnet]]), 86.
 
 Wiedermann, William, 12.
 
@@ -1178,13 +1178,13 @@ _Crown 8vo. Gilt tops. Flat backs. 2s. net each._
     CRABBE. By the Rev. Canon AINGER.
     JANE AUSTEN. By the Rev. Canon BEECHING.
     HOBBES. By Sir LESLIE STEPHEN, K.C.B.
-    ADAM SMITH. By FRANCIS W. HIRST.
-    SYDNEY SMITH. By GEORGE W.E. RUSSELL.
+    ADAM [[smith|SMITH]]. By FRANCIS W. HIRST.
+    SYDNEY [[smith|SMITH]]. By GEORGE W.E. RUSSELL.
     FANNY BURNEY. By AUSTIN DOBSON.
-    JEREMY TAYLOR. By EDMUND GOSSE.
+    JEREMY TAYLOR. By [[Edmund|EDMUND]] GOSSE.
     ANDREW MARVELL. By AUGUSTINE BIRRELL, K.C.
-    DANTE GABRIEL ROSSETTI. By A.C. BENSON.
-    MARIA EDGEWORTH. By the Hon. EMILY LAWLESS.
+    [[Dante|DANTE]] GABRIEL ROSSETTI. By A.C. BENSON.
+    [[Maria|MARIA]] EDGEWORTH. By the Hon. EMILY LAWLESS.
     MRS. GASKELL. By CLEMENT SHORTER.
     THOMAS MOORE. By STEPHEN GWYNN.
 
@@ -1194,7 +1194,7 @@ _Library Edition. Uniform with the above. 2s. net each._
 
     ADDISON. By W.J. COURTHOPE.
     BACON. By Dean CHURCH.
-    BENTLEY. By Sir RICHARD JEBB.
+    BENTLEY. By Sir [[Richard|RICHARD]] JEBB.
     BUNYAN. By J.A. FROUDE.
     BURKE. By JOHN MORLEY.
     BURNS. By Principal SHAIRP.
@@ -1202,7 +1202,7 @@ _Library Edition. Uniform with the above. 2s. net each._
     CARLYLE. By Professor NICHOL.
     CHAUCER. By Dr. A.W. WARD.
     COLERIDGE. By H.D. TRAILL.
-    COWPER. By GOLDWIN SMITH.
+    COWPER. By GOLDWIN [[smith|SMITH]].
     DEFOE. By W. MINTO.
     DEQUINCEY. By Prof. MASSON.
     DICKENS. By Dr. A.W. WARD.
@@ -1210,16 +1210,16 @@ _Library Edition. Uniform with the above. 2s. net each._
     FIELDING. By AUSTIN DOBSON.
     GIBBON. By J.C. MORISON.
     GOLDSMITH. By W. BLACK.
-    GRAY. By EDMUND GOSSE.
+    GRAY. By [[Edmund|EDMUND]] GOSSE.
     HAWTHORNE. By HENRY JAMES.
     HUME. By Prof. HUXLEY, F.R.S.
     JOHNSON. By Sir LESLIE STEPHEN, K.C.B.
     KEATS. By SIDNEY COLVIN.
-    LAMB, CHARLES. By Canon AINGER.
+    [[Lamb|LAMB]], CHARLES. By Canon AINGER.
     LANDOR. By SIDNEY COLVIN.
     LOCKE. By THOMAS FOWLER.
     MACAULAY. By J.C. MORISON.
-    MILTON. By MARK PATTISON.
+    [[Milton|MILTON]]. By MARK PATTISON.
     POPE. By Sir LESLIE STEPHEN, K.C.B.
     SCOTT. By R.H. HUTTON.
     SHELLEY. By J.A. SYMONDS.
@@ -1232,13 +1232,13 @@ _Library Edition. Uniform with the above. 2s. net each._
     THACKERAY. By ANTHONY TROLLOPE.
     WORDSWORTH. By F.W.H. MYERS.
 
-  MACMILLAN AND CO., LTD., LONDON.
+  MACMILLAN AND CO., LTD., [[London|LONDON]].
 
        *       *       *       *       *
 
 ENGLISH MEN OF ACTION SERIES.
 
-Crown 8vo. Cloth. With Portraits. 2s. 6d. each.
+[[Crown]] 8vo. Cloth. With Portraits. 2s. 6d. each.
 
     CAMPBELL (COLIN). By ARCHIBALD FORBES.
     CLIVE. By Sir CHARLES WILSON.
@@ -1247,19 +1247,19 @@ Crown 8vo. Cloth. With Portraits. 2s. 6d. each.
     DRAKE. By JULIAN CORBETT.
     DUNDONALD. By the Hon. J.W. FORTESCUE.
     GORDON (General). By Sir W. BUTLER.
-    HASTINGS (Warren). By Sir A. LYALL.
+    [[Hastings|HASTINGS]] (Warren). By Sir A. LYALL.
     HAVELOCK (Sir Henry). By A. FORBES.
-    HENRY V. By the Rev. A.J. CHURCH.
-    LAWRENCE (Lord). By Sir RICHARD TEMPLE.
+    [[Henry V|HENRY V]]. By the Rev. A.J. CHURCH.
+    LAWRENCE (Lord). By Sir [[Richard|RICHARD]] TEMPLE.
     LIVINGSTONE. By THOMAS HUGHES.
     MONK. By JULIAN CORBETT.
-    MONTROSE. By MOWBRAY MORRIS.
+    MONTROSE. By [[Mowbray|MOWBRAY]] MORRIS.
     NAPIER (Sir Charles). By Colonel Sir W. BUTLER.
     NELSON. By Prof. J.K. LAUGHTON.
     PETERBOROUGH. By W. STEBBING.
     RODNEY. By DAVID HANNAY.
     STRAFFORD. By H.D. TRAILL.
-    WARWICK, the King-Maker By C.W. OMAN.
+    WARWICK, the [[King]]-Maker By C.W. OMAN.
     WELLINGTON. By GEORGE HOOPER.
     WOLFE. By A.G. BRADLEY.
 
@@ -1267,7 +1267,7 @@ Crown 8vo. Cloth. With Portraits. 2s. 6d. each.
 
 TWELVE ENGLISHMEN STATESMEN.
 
-Crown 8vo. 2s. 6d. each.
+[[Crown]] 8vo. 2s. 6d. each.
 
 * *
  * _A Series of Short Biographies, not designed to be a complete roll
@@ -1277,21 +1277,21 @@ influence have left an abiding mark on the policy, the institutions,
 and the position of Great Britain among States_.
 
 WILLIAM THE CONQUEROR. By EDWARD A. FREEMAN, D.C.L., LL.D., late
-Regius Professor of Modern History in the University of Oxford.
+Regius Professor of Modern [[history|History]] in the University of [[Oxford]].
 
 HENRY II. By Mrs. J.R. GREEN.
 
-EDWARD I. By T.F. TOUT, M.A., Professor of History, The Owens
+EDWARD I. By T.F. TOUT, M.A., Professor of [[history|History]], The Owens
 College, Manchester.
 
-HENRY VII. By JAMES GAIRDNER. CARDINAL WOLSEY. By Bishop
-CREIGHTON, D.D., late Dixie Professor of Ecclesiastical History in the
+HENRY VII. By JAMES GAIRDNER. [[Cardinal Wolsey|CARDINAL WOLSEY]]. By Bishop
+CREIGHTON, D.D., late Dixie Professor of Ecclesiastical [[history|History]] in the
 University of Cambridge.
 
-ELIZABETH. By E.S. BEESLY, M.A., Professor of Modern History,
-University College, London.
+ELIZABETH. By E.S. BEESLY, M.A., Professor of Modern [[history|History]],
+University College, [[London]].
 
-OLIVER CROMWELL. By FREDERIC HARRISON.
+[[Oliver|OLIVER]] CROMWELL. By FREDERIC HARRISON.
 
 WILLIAM III. By H.D. TRAILL.
 
@@ -1302,7 +1302,7 @@ CHATHAM. By JOHN MORLEY. [_In preparation_
 PITT. By Lord ROSEBERY.
 
 PEEL. By J.R. THURSFIELD, M.A., late Fellow of Jesus College,
-Oxford.
+[[Oxford]].
 
 End of the Project Gutenberg EBook of Robert Browning, by G. K. Chesterton
 
@@ -1379,7 +1379,7 @@ individual work is in the public domain in the United States and you are
 located in the United States, we do not claim a right to prevent you from
 copying, distributing, performing, displaying or creating derivative
 works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
+are removed.  Of course, we [[Hope|hope]] that you will support the Project
 Gutenberg-tm mission of promoting free access to electronic works by
 freely sharing Project Gutenberg-tm works in compliance with the terms of
 this agreement for keeping the Project Gutenberg-tm name associated with
@@ -1439,7 +1439,7 @@ prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 Gutenberg-tm License.
 
-1.E.6.  You may convert to and distribute this work in any binary,
+1.E.6.  You may [[convert]] to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including any
 word processing or hypertext form.  However, if you provide access to or
 distribute copies of a Project Gutenberg-tm work in a format other than
@@ -1491,7 +1491,7 @@ that
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 electronic work or group of works on different terms than are set
 forth in this agreement, you must obtain permission in writing from
-both the Project Gutenberg Literary Archive Foundation and Michael
+both the Project Gutenberg Literary Archive Foundation and [[Michael]]
 Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 Foundation as set forth in Section 3 below.
 
@@ -1592,7 +1592,7 @@ permitted by U.S. federal laws and your state's laws.
 The Foundation's principal office is located at 4557 Melan Dr. S.
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
 throughout numerous locations.  Its business office is located at
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+809 North 1500 West, Salt Lake [[City]], UT 84116, (801) 596-1887, email
 business@pglaf.org.  Email contact links and up to date contact
 information can be found at the Foundation's web site and official
 page at http://pglaf.org
@@ -1608,7 +1608,7 @@ Literary Archive Foundation
 Project Gutenberg-tm depends upon and cannot survive without wide
 spread public support and donations to carry out its mission of
 increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
+freely distributed in [[Machine|machine]] readable form accessible by the widest
 array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 status with the IRS.
@@ -1629,7 +1629,7 @@ approach us with offers to donate.
 
 International donations are gratefully accepted, but we cannot make
 any statements concerning tax treatment of donations received from
-outside the United States.  U.S. laws alone swamp our small staff.
+outside the United States.  U.S. laws [[Alone|alone]] swamp our small staff.
 
 Please check the Project Gutenberg Web pages for current donation
 methods and addresses.  Donations are accepted in a number of other
@@ -1639,7 +1639,7 @@ donations.  To donate, please visit: http://pglaf.org/donate
 Section 5.  General Information About Project Gutenberg-tm electronic
 works.
 
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+Professor [[Michael]] S. Hart is the originator of the Project Gutenberg-tm
 concept of a library of electronic works that could be freely shared
 with anyone.  For thirty years, he produced and distributed Project
 Gutenberg-tm eBooks with only a loose network of volunteer support.

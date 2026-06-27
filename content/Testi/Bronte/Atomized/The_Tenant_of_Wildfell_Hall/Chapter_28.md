@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 28"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 28"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -30,13 +30,13 @@ but not destroyed; my hopes diminished, but not departed; my fears
 
 increased, but not yet thoroughly confirmed; and, thank heaven, I am a
 
-mother too. God has sent me a soul to educate for heaven, and give me a
+mother too. God has sent me a [[Soul|soul]] to educate for heaven, and give me a
 
 new and calmer bliss, and stronger hopes to comfort me.
 
 
 
-Dec. 25th, 1823.—Another year is gone. My little Arthur lives and
+Dec. 25th, 1823.—Another year is gone. My little [[arthur|Arthur]] lives and
 
 thrives. He is healthy, but not robust, full of gentle playfulness and
 
@@ -50,15 +50,15 @@ should be ruined by that father’s thoughtless indulgence. But I must
 
 beware of my own weakness too, for I never knew till now how strong are
 
-a parent’s temptations to spoil an only child.
+a parent’s temptations to spoil an only [[Child|child]].
 
 
 
 I have need of consolation in my son, for (to this silent paper I may
 
-confess it) I have but little in my husband. I love him still; and he
+confess it) I have but little in my husband. I [[Love|love]] him still; and he
 
-loves me, in his own way—but oh, how different from the love I could
+loves me, in his own way—but oh, how different from the [[Love|love]] I could
 
 have given, and once had hoped to receive! How little real sympathy
 
@@ -66,43 +66,43 @@ there exists between us; how many of my thoughts and feelings are
 
 gloomily cloistered within my own mind; how much of my higher and
 
-better self is indeed unmarried—doomed either to harden and sour in the
+better [[Self|self]] is indeed unmarried—doomed either to harden and sour in the
 
-sunless shade of solitude, or to quite degenerate and fall away for
+sunless shade of [[Solitude|solitude]], or to quite degenerate and fall away for
 
 lack of nutriment in this unwholesome soil! But, I repeat, I have no
 
-right to complain; only let me state the truth—some of the truth, at
+right to complain; only let me state the [[Truth|truth]]—some of the [[Truth|truth]], at
 
 least,—and see hereafter if any darker truths will blot these pages. We
 
-have now been full two years united; the “romance” of our attachment
+have now been full two years united; the “[[Romance|romance]]” of our attachment
 
 must be worn away. Surely I have now got down to the lowest gradation
 
-in Arthur’s affection, and discovered all the evils of his nature: if
+in [[arthur|Arthur]]’s affection, and discovered all the evils of his [[Nature|nature]]: if
 
 there be any further change, it must be for the better, as we become
 
 still more accustomed to each other; surely we shall find no lower
 
-depth than this. And, if so, I can bear it well—as well, at least, as I
+depth than this. And, if so, I can bear it [[Well|well]]—as [[Well|well]], at least, as I
 
 have borne it hitherto.
 
 
 
-Arthur is not what is commonly called a _bad_ man: he has many good
+[[arthur|Arthur]] is not what is commonly called a _bad_ man: he has many good
 
-qualities; but he is a man without self-restraint or lofty aspirations,
+qualities; but he is a man without [[Self|self]]-restraint or lofty aspirations,
 
-a lover of pleasure, given up to animal enjoyments: he is not a bad
+a [[Lover|lover]] of pleasure, given up to animal enjoyments: he is not a bad
 
 husband, but his notions of matrimonial duties and comforts are not my
 
 notions. Judging from appearances, his idea of a wife is a thing to
 
-love one devotedly, and to stay at home to wait upon her husband, and
+[[Love|love]] one devotedly, and to stay at [[Home|home]] to wait upon her husband, and
 
 amuse him and minister to his comfort in every possible way, while he
 
@@ -114,7 +114,7 @@ matter how he may be occupied in the meantime.
 
 
 
-Early in spring he announced his intention of going to London: his
+Early in [[spring]] he announced his intention of going to [[London]]: his
 
 affairs there demanded his attendance, he said, and he could refuse it
 
@@ -126,11 +126,11 @@ would amuse myself with the baby till he returned.
 
 “But why leave me?” I said. “I can go with you: I can be ready at any
 
-time.”
+[[Time|time]].”
 
 
 
-“You would not take that child to town?”
+“You would not take that [[Child|child]] to town?”
 
 
 
@@ -140,17 +140,17 @@ time.”
 
 The thing was absurd: the air of the town would be certain to disagree
 
-with him, and with me as a nurse; the late hours and London habits
+with him, and with me as a [[Nurse|nurse]]; the late hours and [[London]] habits
 
 would not suit me under such circumstances; and altogether he assured
 
 me that it would be excessively troublesome, injurious, and unsafe. I
 
-over-ruled his objections as well as I could, for I trembled at the
+over-ruled his objections as [[Well|well]] as I could, for I trembled at the
 
-thoughts of his going alone, and would sacrifice almost anything for
+thoughts of his going [[Alone|alone]], and would sacrifice almost anything for
 
-myself, much even for my child, to prevent it; but at length he told
+myself, much even for my [[Child|child]], to prevent it; but at length he told
 
 me, plainly, and somewhat testily, that he could not do with me: he was
 
@@ -160,9 +160,9 @@ proposed separate apartments; but it would not do.
 
 
 
-“The truth is, Arthur,” I said at last, “you are weary of my company,
+“The [[Truth|truth]] is, [[arthur|Arthur]],” I said at last, “you are weary of my company,
 
-and determined not to have me with you. You might as well have said so
+and determined not to have me with you. You might as [[Well|well]] have said so
 
 at once.”
 
@@ -184,7 +184,7 @@ affairs during his absence, till the day before he went, when I
 
 earnestly exhorted him to take care of himself and keep out of the way
 
-of temptation. He laughed at my anxiety, but assured me there was no
+of [[Temptation|temptation]]. He laughed at my anxiety, but assured me there was no
 
 cause for it, and promised to attend to my advice.
 
@@ -196,13 +196,13 @@ I.
 
 
 
-“Why, no; I hardly can, under the circumstances; but be assured, love,
+“Why, no; I hardly can, under the circumstances; but be assured, [[Love|love]],
 
 I shall not be long away.”
 
 
 
-“I don’t wish to keep you a prisoner at home,” I replied; “I should not
+“I don’t wish to keep you a prisoner at [[Home|home]],” I replied; “I should not
 
 grumble at your staying whole months away—if you can be happy so long
 
@@ -216,19 +216,19 @@ your being there among your friends, as you call them.”
 
 
 
-“You didn’t last time. But THIS time, Arthur,” I added, earnestly,
+“You didn’t last [[Time|time]]. But THIS [[Time|time]], [[arthur|Arthur]],” I added, earnestly,
 
-“show me that you can, and teach me that I need not fear to trust you!”
+“show me that you can, and teach me that I need not [[Fear|fear]] to trust you!”
 
 
 
-He promised fair, but in such a manner as we seek to soothe a child.
+He promised fair, but in such a manner as we seek to soothe a [[Child|child]].
 
 And did he keep his promise? No; and henceforth _I can never trust his
 
-word_. Bitter, bitter confession! Tears blind me while I write. It was
+word_. Bitter, bitter confession! [[Tears]] blind me while I write. It was
 
-early in March that he went, and he did not return till July. This time
+early in March that he went, and he did not return till July. This [[Time|time]]
 
 he did not trouble himself to make excuses as before, and his letters
 
@@ -236,13 +236,13 @@ were less frequent, and shorter and less affectionate, especially after
 
 the first few weeks: they came slower and slower, and more terse and
 
-careless every time. But still, when _I_ omitted writing, he complained
+careless every [[Time|time]]. But still, when _I_ omitted writing, he complained
 
 of my neglect. When I wrote sternly and coldly, as I confess I
 
 frequently did at the last, he blamed my harshness, and said it was
 
-enough to scare him from his home: when I tried mild persuasion, he was
+enough to scare him from his [[Home|home]]: when I tried mild [[Persuasion|persuasion]], he was
 
 a little more gentle in his replies, and promised to return; but I had
 

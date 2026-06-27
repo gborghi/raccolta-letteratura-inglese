@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 25: TWENTY FIVE (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 25: TWENTY FIVE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -20,18 +20,18 @@ to speak to you.’
 ‘Tell Mrs Gamp to come upstairs,’ said Mould. ‘Now Mrs Gamp, what’s YOUR
 news?’
 
-The lady in question was by this time in the doorway, curtseying to
+The lady in question was by this [[Time|time]] in the doorway, curtseying to
 Mrs Mould. At the same moment a peculiar fragrance was borne upon the
 breeze, as if a passing fairy had hiccoughed, and had previously been to
 a wine-vaults.
 
 Mrs Gamp made no response to Mr Mould, but curtseyed to Mrs Mould again,
 and held up her hands and eyes, as in a devout thanksgiving that she
-looked so well. She was neatly, but not gaudily attired, in the
+looked so [[Well|well]]. She was neatly, but not gaudily attired, in the
 weeds she had worn when Mr Pecksniff had the pleasure of making her
 acquaintance; and was perhaps the turning of a scale more snuffy.
 
-‘There are some happy creeturs,’ Mrs Gamp observed, ‘as time runs
+‘There are some happy creeturs,’ Mrs Gamp observed, ‘as [[Time|time]] runs
 back’ards with, and you are one, Mrs Mould; not that he need do nothing
 except use you in his most owldacious way for years to come, I’m
 sure; for young you are and will be. I says to Mrs Harris,’ Mrs Gamp
@@ -45,8 +45,8 @@ one of them that goes agen the obserwation straight; and never, Mrs
 Harris, whilst I’ve a drop of breath to draw, will I set by, and not
 stand up, don’t think it.”--“I ast your pardon, ma’am,” says Mrs Harris,
 “and I humbly grant your grace; for if ever a woman lived as would see
-her feller creeturs into fits to serve her friends, well do I know that
-woman’s name is Sairey Gamp.”’
+her feller creeturs into fits to serve her friends, [[Well|well]] do I know that
+woman’s name is [[Sairey Gamp]].”’
 
 At this point she was fain to stop for breath; and advantage may be
 taken of the circumstance, to state that a fearful mystery surrounded
@@ -54,17 +54,17 @@ this lady of the name of Harris, whom no one in the circle of Mrs Gamp’s
 acquaintance had ever seen; neither did any human being know her place
 of residence, though Mrs Gamp appeared on her own showing to be in
 constant communication with her. There were conflicting rumours on the
-subject; but the prevalent opinion was that she was a phantom of Mrs
+subject; but the prevalent opinion was that she was a [[Phantom|phantom]] of Mrs
 Gamp’s brain--as Messrs. Doe and Roe are fictions of the law--created
 for the express purpose of holding visionary dialogues with her on all
 manner of subjects, and invariably winding up with a compliment to the
-excellence of her nature.
+excellence of her [[Nature|nature]].
 
 ‘And likeways what a pleasure,’ said Mrs Gamp, turning with a tearful
 smile towards the daughters, ‘to see them two young ladies as I know’d
 afore a tooth in their pretty heads was cut, and have many a day
 seen--ah, the sweet creeturs!--playing at berryins down in the shop, and
-follerin’ the order-book to its long home in the iron safe! But that’s
+follerin’ the order-book to its long [[Home|home]] in the iron safe! But that’s
 all past and over, Mr Mould;’ as she thus got in a carefully regulated
 routine to that gentleman, she shook her head waggishly; ‘That’s all
 past and over now, sir, an’t it?’
@@ -82,24 +82,24 @@ in Mrs Gamp, my dear?’
 your ‘ansome pardner too, sir; and so do I, although the blessing of a
 daughter was deniged me; which, if we had had one, Gamp would certainly
 have drunk its little shoes right off its feet, as with our precious boy
-he did, and arterward send the child a errand to sell his wooden leg for
-any money it would fetch as matches in the rough, and bring it home
+he did, and arterward send the [[Child|child]] a errand to sell his wooden leg for
+any money it would fetch as matches in the rough, and bring it [[Home|home]]
 in liquor; which was truly done beyond his years, for ev’ry individgle
-penny that child lost at toss or buy for kidney ones; and come home
+penny that [[Child|child]] lost at toss or buy for kidney ones; and come [[Home|home]]
 arterwards quite bold, to break the news, and offering to drown himself
 if sech would be a satisfaction to his parents.--Oh yes, you do know,
 sir,’ said Mrs Gamp, wiping her eye with her shawl, and resuming the
 thread of her discourse. ‘There’s something besides births and berryins
 in the newspapers, an’t there, Mr Mould?’
 
-Mr Mould winked at Mrs Mould, whom he had by this time taken on his
-knee, and said: ‘No doubt. A good deal more, Mrs Gamp. Upon my life, Mrs
+Mr Mould winked at Mrs Mould, whom he had by this [[Time|time]] taken on his
+knee, and said: ‘No [[Doubt|doubt]]. A good deal more, Mrs Gamp. Upon my life, Mrs
 Gamp is very far from bad, my dear!’
 
 ‘There’s marryings, an’t there, sir?’ said Mrs Gamp, while both the
-daughters blushed and tittered. ‘Bless their precious hearts, and well
-they knows it! Well you know’d it too, and well did Mrs Mould, when you
-was at their time of life! But my opinion is, you’re all of one age now.
+daughters blushed and tittered. ‘Bless their precious hearts, and [[Well|well]]
+they knows it! [[Well]] you know’d it too, and [[Well|well]] did Mrs Mould, when you
+was at their [[Time|time]] of life! But my opinion is, you’re all of one age now.
 For as to you and Mrs Mould, sir, ever having grandchildren--’
 
 ‘Oh! Fie, fie! Nonsense, Mrs Gamp,’ replied the undertaker. ‘Devilish
@@ -116,14 +116,14 @@ one of the young ladies, when she exhibited the greatest surprise.
 it is when I am indispoged, and find my half a pint of porter settling
 heavy on the chest. Mrs Harris often and often says to me, “Sairey
 Gamp,” she says, “you raly do amaze me!” “Mrs Harris,” I says to her,
-“why so? Give it a name, I beg.” “Telling the truth then, ma’am,” says
+“why so? Give it a name, I beg.” “Telling the [[Truth|truth]] then, ma’am,” says
 Mrs Harris, “and shaming him as shall be nameless betwixt you and me,
-never did I think till I know’d you, as any woman could sick-nurse and
+never did I think till I know’d you, as any woman could sick-[[Nurse|nurse]] and
 monthly likeways, on the little that you takes to drink.” “Mrs Harris,”
  I says to her, “none on us knows what we can do till we tries; and
 wunst, when me and Gamp kept ‘ouse, I thought so too. But now,” I says,
 “my half a pint of porter fully satisfies; perwisin’, Mrs Harris, that
 it is brought reg’lar, and draw’d mild. Whether I sicks or monthlies,
-ma’am, I hope I does my duty, but I am but a poor woman, and I earns my
+ma’am, I [[Hope|hope]] I does my duty, but I am but a poor woman, and I earns my
 living hard; therefore I DO require it, which I makes confession, to be
 brought reg’lar and draw’d mild.”’

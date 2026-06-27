@@ -1,5 +1,5 @@
 ---
-title: "Ms. Found in a Bottle"
+title: "[[Ms. Found in a Bottle]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/Ms.-Found-in-a-Bottle-(Poe)"
@@ -27,7 +27,7 @@ N’a plus rien a dissimuler.
 
       and length of years have driven me from the one, and estranged me
 
-      from the other. Hereditary wealth afforded me an education of no
+      from the other. Hereditary wealth afforded me an [[Education|education]] of no
 
       common order, and a contemplative turn of mind enabled me to
 
@@ -37,17 +37,17 @@ N’a plus rien a dissimuler.
 
       great delight; not from any ill-advised admiration of their
 
-      eloquent madness, but from the ease with which my habits of rigid
+      eloquent [[Madness|madness]], but from the ease with which my habits of rigid
 
       thought enabled me to detect their falsities. I have often been
 
       reproached with the aridity of my genius; a deficiency of
 
-      imagination has been imputed to me as a crime; and the Pyrrhonism
+      [[Imagination|imagination]] has been imputed to me as a crime; and the Pyrrhonism
 
       of my opinions has at all times rendered me notorious. Indeed, a
 
-      strong relish for physical philosophy has, I fear, tinctured my
+      strong relish for physical [[philosophy]] has, I [[Fear|fear]], tinctured my
 
       mind with a very common error of this age—I mean the habit of
 
@@ -57,13 +57,13 @@ N’a plus rien a dissimuler.
 
       person could be less liable than myself to be led away from the
 
-      severe precincts of truth by the ignes fatui of superstition. I
+      severe precincts of [[Truth|truth]] by the ignes fatui of superstition. I
 
       have thought proper to premise thus much, lest the incredible
 
       tale I have to tell should be considered rather the raving of a
 
-      crude imagination, than the positive experience of a mind to
+      crude [[Imagination|imagination]], than the positive experience of a mind to
 
       which the reveries of fancy have been a dead letter and a
 
@@ -83,7 +83,7 @@ N’a plus rien a dissimuler.
 
 
 
-      Our vessel was a beautiful ship of about four hundred tons,
+      Our vessel was a beautiful [[Ship|ship]] of about four hundred tons,
 
       copper-fastened, and built at Bombay of Malabar teak. She was
 
@@ -97,7 +97,7 @@ N’a plus rien a dissimuler.
 
 
 
-      We got under way with a mere breath of wind, and for many days
+      We got under way with a mere breath of [[Wind|wind]], and for many days
 
       stood along the eastern coast of Java, without any other incident
 
@@ -111,7 +111,7 @@ N’a plus rien a dissimuler.
 
       One evening, leaning over the taffrail, I observed a very
 
-      singular, isolated cloud, to the N.W. It was remarkable, as well
+      singular, isolated cloud, to the N.W. It was remarkable, as [[Well|well]]
 
       for its color, as from its being the first we had seen since our
 
@@ -123,19 +123,19 @@ N’a plus rien a dissimuler.
 
       long line of low beach. My notice was soon afterwards attracted
 
-      by the dusky-red appearance of the moon, and the peculiar
+      by the dusky-red appearance of the [[Moon|moon]], and the peculiar
 
       character of the sea. The latter was undergoing a rapid change,
 
-      and the water seemed more than usually transparent. Although I
+      and the [[Water|water]] seemed more than usually transparent. Although I
 
-      could distinctly see the bottom, yet, heaving the lead, I found
+      could distinctly see the [[Bottom|bottom]], yet, heaving the lead, I found
 
-      the ship in fifteen fathoms. The air now became intolerably hot,
+      the [[Ship|ship]] in fifteen fathoms. The air now became intolerably hot,
 
       and was loaded with spiral exhalations similar to those arising
 
-      from heat iron. As night came on, every breath of wind died away,
+      from heat iron. As [[Night|night]] came on, every breath of [[Wind|wind]] died away,
 
       an more entire calm it is impossible to conceive. The flame of a
 
@@ -169,9 +169,9 @@ N’a plus rien a dissimuler.
 
       noise, like that occasioned by the rapid revolution of a
 
-      mill-wheel, and before I could ascertain its meaning, I found the
+      mill-[[Wheel|wheel]], and before I could ascertain its meaning, I found the
 
-      ship quivering to its centre. In the next instant, a wilderness
+      [[Ship|ship]] quivering to its centre. In the next instant, a wilderness
 
       of foam hurled us upon our beam-ends, and, rushing over us fore
 
@@ -181,9 +181,9 @@ N’a plus rien a dissimuler.
 
       The extreme fury of the blast proved, in a great measure, the
 
-      salvation of the ship. Although completely water-logged, yet, as
+      salvation of the [[Ship|ship]]. Although completely [[Water|water]]-logged, yet, as
 
-      her masts had gone by the board, she rose, after a minute,
+      her masts had gone by the board, she [[Rose|rose]], after a minute,
 
       heavily from the sea, and, staggering awhile beneath the immense
 
@@ -193,7 +193,7 @@ N’a plus rien a dissimuler.
 
       By what miracle I escaped destruction, it is impossible to say.
 
-      Stunned by the shock of the water, I found myself, upon recovery,
+      Stunned by the shock of the [[Water|water]], I found myself, upon recovery,
 
       jammed in between the stern-post and rudder. With great
 
@@ -201,7 +201,7 @@ N’a plus rien a dissimuler.
 
       first, struck with the idea of our being among breakers; so
 
-      terrific, beyond the wildest imagination, was the whirlpool of
+      terrific, beyond the wildest [[Imagination|imagination]], was the whirlpool of
 
       mountainous and foaming ocean within which we were engulfed.
 
@@ -217,11 +217,11 @@ N’a plus rien a dissimuler.
 
       overboard;—the captain and mates must have perished as they
 
-      slept, for the cabins were deluged with water. Without
+      slept, for the cabins were deluged with [[Water|water]]. Without
 
       assistance, we could expect to do little for the security of the
 
-      ship, and our exertions were at first paralyzed by the momentary
+      [[Ship|ship]], and our exertions were at first paralyzed by the momentary
 
       expectation of going down. Our cable had, of course, parted like
 
@@ -229,7 +229,7 @@ N’a plus rien a dissimuler.
 
       have been instantaneously overwhelmed. We scudded with frightful
 
-      velocity before the sea, and the water made clear breaches over
+      velocity before the sea, and the [[Water|water]] made clear breaches over
 
       us. The frame-work of our stern was shattered excessively, and,
 
@@ -241,9 +241,9 @@ N’a plus rien a dissimuler.
 
       had already blown over, and we apprehended little danger from the
 
-      violence of the wind; but we looked forward to its total
+      violence of the [[Wind|wind]]; but we looked forward to its total
 
-      cessation with dismay; well believing, that, in our shattered
+      cessation with dismay; [[Well|well]] believing, that, in our shattered
 
       condition, we should inevitably perish in the tremendous swell
 
@@ -257,7 +257,7 @@ N’a plus rien a dissimuler.
 
       hulk flew at a rate defying computation, before rapidly
 
-      succeeding flaws of wind, which, without equalling the first
+      succeeding flaws of [[Wind|wind]], which, without equalling the first
 
       violence of the Simoom, were still more terrific than any tempest
 
@@ -267,17 +267,17 @@ N’a plus rien a dissimuler.
 
       down the coast of New Holland. On the fifth day the cold became
 
-      extreme, although the wind had hauled round a point more to the
+      extreme, although the [[Wind|wind]] had hauled round a point more to the
 
       northward. The sun arose with a sickly yellow lustre, and
 
       clambered a very few degrees above the horizon—emitting no
 
-      decisive light. There were no clouds apparent, yet the wind was
+      decisive light. There were no clouds apparent, yet the [[Wind|wind]] was
 
       upon the increase, and blew with a fitful and unsteady fury.
 
-      About noon, as nearly as we could guess, our attention was again
+      About [[Noon|noon]], as nearly as we could guess, our attention was again
 
       arrested by the appearance of the sun. It gave out no light,
 
@@ -289,7 +289,7 @@ N’a plus rien a dissimuler.
 
       out, as if hurriedly extinguished by some unaccountable power. It
 
-      was a dim, sliver-like rim, alone, as it rushed down the
+      was a dim, sliver-like rim, [[Alone|alone]], as it rushed down the
 
       unfathomable ocean.
 
@@ -301,7 +301,7 @@ N’a plus rien a dissimuler.
 
       we were enshrouded in patchy darkness, so that we could not have
 
-      seen an object at twenty paces from the ship. Eternal night
+      seen an object at twenty paces from the [[Ship|ship]]. Eternal [[Night|night]]
 
       continued to envelop us, all unrelieved by the phosphoric
 
@@ -315,19 +315,19 @@ N’a plus rien a dissimuler.
 
       around were horror, and thick gloom, and a black sweltering
 
-      desert of ebony. Superstitious terror crept by degrees into the
+      [[Desert|desert]] of ebony. Superstitious terror crept by degrees into the
 
-      spirit of the old Swede, and my own soul was wrapped up in silent
+      spirit of the old Swede, and my own [[Soul|soul]] was wrapped up in silent
 
-      wonder. We neglected all care of the ship, as worse than useless,
+      [[Wonder|wonder]]. We neglected all care of the [[Ship|ship]], as worse than useless,
 
-      and securing ourselves, as well as possible, to the stump of the
+      and securing ourselves, as [[Well|well]] as possible, to the stump of the
 
       mizen-mast, looked out bitterly into the world of ocean. We had
 
-      no means of calculating time, nor could we form any guess of our
+      no means of calculating [[Time|time]], nor could we form any guess of our
 
-      situation. We were, however, well aware of having made farther to
+      situation. We were, however, [[Well|well]] aware of having made farther to
 
       the southward than any previous navigators, and felt great
 
@@ -341,15 +341,15 @@ N’a plus rien a dissimuler.
 
       buried is a miracle. My companion spoke of the lightness of our
 
-      cargo, and reminded me of the excellent qualities of our ship;
+      cargo, and reminded me of the excellent qualities of our [[Ship|ship]];
 
-      but I could not help feeling the utter hopelessness of hope
+      but I could not help feeling the utter hopelessness of [[Hope|hope]]
 
-      itself, and prepared myself gloomily for that death which I
+      itself, and prepared myself gloomily for that [[Death|death]] which I
 
       thought nothing could defer beyond an hour, as, with every knot
 
-      of way the ship made, the swelling of the black stupendous seas
+      of way the [[Ship|ship]] made, the swelling of the black stupendous seas
 
       became more dismally appalling. At times we gasped for breath at
 
@@ -361,9 +361,9 @@ N’a plus rien a dissimuler.
 
 
 
-      We were at the bottom of one of these abysses, when a quick
+      We were at the [[Bottom|bottom]] of one of these abysses, when a quick
 
-      scream from my companion broke fearfully upon the night. “See!
+      scream from my companion broke fearfully upon the [[Night|night]]. “See!
 
       see!” cried he, shrieking in my ears, “Almighty God! see! see!”
 
@@ -373,21 +373,21 @@ N’a plus rien a dissimuler.
 
       threw a fitful brilliancy upon our deck. Casting my eyes upwards,
 
-      I beheld a spectacle which froze the current of my blood. At a
+      I beheld a spectacle which froze the current of my [[Blood|blood]]. At a
 
       terrific height directly above us, and upon the very verge of the
 
-      precipitous descent, hovered a gigantic ship of, perhaps, four
+      precipitous descent, hovered a gigantic [[Ship|ship]] of, perhaps, four
 
       thousand tons. Although upreared upon the summit of a wave more
 
       than a hundred times her own altitude, her apparent size exceeded
 
-      that of any ship of the line or East Indiaman in existence. Her
+      that of any [[Ship|ship]] of the line or East Indiaman in existence. Her
 
       huge hull was of a deep dingy black, unrelieved by any of the
 
-      customary carvings of a ship. A single row of brass cannon
+      customary carvings of a [[Ship|ship]]. A single row of brass cannon
 
       protruded from her open ports, and dashed from their polished
 
@@ -397,11 +397,11 @@ N’a plus rien a dissimuler.
 
       horror and astonishment, was that she bore up under a press of
 
-      sail in the very teeth of that supernatural sea, and of that
+      sail in the very teeth of that [[Supernatural|supernatural]] sea, and of that
 
       ungovernable hurricane. When we first discovered her, her bows
 
-      were alone to be seen, as she rose slowly from the dim and
+      were [[Alone|alone]] to be seen, as she [[Rose|rose]] slowly from the dim and
 
       horrible gulf beyond her. For a moment of intense terror she
 
@@ -411,7 +411,7 @@ N’a plus rien a dissimuler.
 
 
 
-      At this instant, I know not what sudden self-possession came over
+      At this instant, I know not what sudden [[Self|self]]-possession came over
 
       my spirit. Staggering as far aft as I could, I awaited fearlessly
 
@@ -421,7 +421,7 @@ N’a plus rien a dissimuler.
 
       The shock of the descending mass struck her, consequently, in
 
-      that portion of her frame which was already under water, and the
+      that portion of her frame which was already under [[Water|water]], and the
 
       inevitable result was to hurl me, with irresistible violence,
 
@@ -429,7 +429,7 @@ N’a plus rien a dissimuler.
 
 
 
-      As I fell, the ship hove in stays, and went about; and to the
+      As I fell, the [[Ship|ship]] hove in stays, and went about; and to the
 
       confusion ensuing I attributed my escape from the notice of the
 
@@ -441,13 +441,13 @@ N’a plus rien a dissimuler.
 
       hardly tell. An indefinite sense of awe, which at first sight of
 
-      the navigators of the ship had taken hold of my mind, was perhaps
+      the navigators of the [[Ship|ship]] had taken hold of my mind, was perhaps
 
       the principle of my concealment. I was unwilling to trust myself
 
       with a race of people who had offered, to the cursory glance I
 
-      had taken, so many points of vague novelty, doubt, and
+      had taken, so many points of vague novelty, [[Doubt|doubt]], and
 
       apprehension. I therefore thought proper to contrive a
 
@@ -455,7 +455,7 @@ N’a plus rien a dissimuler.
 
       of the shifting-boards, in such a manner as to afford me a
 
-      convenient retreat between the huge timbers of the ship.
+      convenient retreat between the huge timbers of the [[Ship|ship]].
 
 
 
@@ -481,7 +481,7 @@ N’a plus rien a dissimuler.
 
       His manner was a wild mixture of the peevishness of second
 
-      childhood, and the solemn dignity of a God. He at length went on
+      [[Childhood|childhood]], and the solemn dignity of a God. He at length went on
 
       deck, and I saw him no more.
 
@@ -491,27 +491,27 @@ N’a plus rien a dissimuler.
 
       A feeling, for which I have no name, has taken possession of my
 
-      soul —a sensation which will admit of no analysis, to which the
+      [[Soul|soul]] —a sensation which will admit of no analysis, to which the
 
-      lessons of bygone times are inadequate, and for which I fear
+      lessons of bygone times are inadequate, and for which I [[Fear|fear]]
 
       futurity itself will offer me no key. To a mind constituted like
 
       my own, the latter consideration is an evil. I shall never—I know
 
-      that I shall never—be satisfied with regard to the nature of my
+      that I shall never—be satisfied with regard to the [[Nature|nature]] of my
 
       conceptions. Yet it is not wonderful that these conceptions are
 
       indefinite, since they have their origin in sources so utterly
 
-      novel. A new sense—a new entity is added to my soul.
+      [[Novel|novel]]. A new sense—a new entity is added to my [[Soul|soul]].
 
 
 
 
 
-      It is long since I first trod the deck of this terrible ship, and
+      It is long since I first trod the deck of this terrible [[Ship|ship]], and
 
       the rays of my destiny are, I think, gathering to a focus.
 
@@ -527,7 +527,7 @@ N’a plus rien a dissimuler.
 
       cabin, and took thence the materials with which I write, and have
 
-      written. I shall from time to time continue this journal. It is
+      written. I shall from [[Time|time]] to [[Time|time]] continue this journal. It is
 
       true that I may not find an opportunity of transmitting it to the
 
@@ -549,13 +549,13 @@ N’a plus rien a dissimuler.
 
       any notice, among a pile of ratlin-stuff and old sails in the
 
-      bottom of the yawl. While musing upon the singularity of my fate,
+      [[Bottom|bottom]] of the yawl. While musing upon the singularity of my fate,
 
       I unwittingly daubed with a tar-brush the edges of a
 
       neatly-folded studding-sail which lay near me on a barrel. The
 
-      studding-sail is now bent upon the ship, and the thoughtless
+      studding-sail is now bent upon the [[Ship|ship]], and the thoughtless
 
       touches of the brush are spread out into the word DISCOVERY.
 
@@ -563,13 +563,13 @@ N’a plus rien a dissimuler.
 
       I have made many observations lately upon the structure of the
 
-      vessel. Although well armed, she is not, I think, a ship of war.
+      vessel. Although [[Well|well]] armed, she is not, I think, a [[Ship|ship]] of war.
 
       Her rigging, build, and general equipment, all negative a
 
       supposition of this kind. What she is not, I can easily
 
-      perceive—what she is I fear it is impossible to say. I know not
+      perceive—what she is I [[Fear|fear]] it is impossible to say. I know not
 
       how it is, but in scrutinizing her strange model and singular
 
@@ -581,13 +581,13 @@ N’a plus rien a dissimuler.
 
       always mixed up with such indistinct shadows of recollection, an
 
-      unaccountable memory of old foreign chronicles and ages long ago.
+      unaccountable [[Memory|memory]] of old foreign chronicles and ages long ago.
 
 
 
 
 
-      I have been looking at the timbers of the ship. She is built of a
+      I have been looking at the timbers of the [[Ship|ship]]. She is built of a
 
       material to which I am a stranger. There is a peculiar character
 
@@ -613,11 +613,11 @@ N’a plus rien a dissimuler.
 
       weather-beaten Dutch navigator comes full upon my recollection.
 
-      “It is as sure,” he was wont to say, when any doubt was
+      “It is as sure,” he was wont to say, when any [[Doubt|doubt]] was
 
       entertained of his veracity, “as sure as there is a sea where the
 
-      ship itself will grow in bulk like the living body of the
+      [[Ship|ship]] itself will grow in bulk like the living [[Body|body]] of the
 
       seaman.”
 
@@ -635,9 +635,9 @@ N’a plus rien a dissimuler.
 
       they all bore about them the marks of a hoary old age. Their
 
-      knees trembled with infirmity; their shoulders were bent double
+      knees trembled with infirmity; their shoulders were bent [[Double|double]]
 
-      with decrepitude; their shrivelled skins rattled in the wind;
+      with decrepitude; their shrivelled skins rattled in the [[Wind|wind]];
 
       their voices were low, tremulous and broken; their eyes glistened
 
@@ -653,17 +653,17 @@ N’a plus rien a dissimuler.
 
 
 
-      I mentioned some time ago the bending of a studding-sail. From
+      I mentioned some [[Time|time]] ago the bending of a studding-sail. From
 
-      that period the ship, being thrown dead off the wind, has
+      that period the [[Ship|ship]], being thrown dead off the [[Wind|wind]], has
 
       continued her terrific course due south, with every rag of canvas
 
       packed upon her, from her trucks to her lower studding-sail
 
-      booms, and rolling every moment her top-gallant yard-arms into
+      booms, and [[rolling]] every moment her top-gallant yard-arms into
 
-      the most appalling hell of water which it can enter into the mind
+      the most appalling hell of [[Water|water]] which it can enter into the mind
 
       of a man to imagine. I have just left the deck, where I find it
 
@@ -675,7 +675,7 @@ N’a plus rien a dissimuler.
 
       forever. We are surely doomed to hover continually upon the brink
 
-      of eternity, without taking a final plunge into the abyss. From
+      of [[Eternity|eternity]], without taking a final plunge into the abyss. From
 
       billows a thousand times more stupendous than any I have ever
 
@@ -689,7 +689,7 @@ N’a plus rien a dissimuler.
 
       natural cause which can account for such effect. I must suppose
 
-      the ship to be within the influence of some strong current, or
+      the [[Ship|ship]] to be within the influence of some strong current, or
 
       impetuous under-tow.
 
@@ -707,11 +707,11 @@ N’a plus rien a dissimuler.
 
       irrepressible reverence and awe mingled with the sensation of
 
-      wonder with which I regarded him. In stature he is nearly my own
+      [[Wonder|wonder]] with which I regarded him. In stature he is nearly my own
 
       height; that is, about five feet eight inches. He is of a
 
-      well-knit and compact frame of body, neither robust nor
+      [[Well|well]]-knit and compact frame of [[Body|body]], neither robust nor
 
       remarkably otherwise. But it is the singularity of the expression
 
@@ -749,9 +749,9 @@ N’a plus rien a dissimuler.
 
 
 
-      The ship and all in it are imbued with the spirit of Eld. The
+      The [[Ship|ship]] and all in it are imbued with the spirit of Eld. The
 
-      crew glide to and fro like the ghosts of buried centuries; their
+      crew glide to and fro like the [[Ghosts|ghosts]] of buried centuries; their
 
       eyes have an eager and uneasy meaning; and when their fingers
 
@@ -763,7 +763,7 @@ N’a plus rien a dissimuler.
 
       fallen columns at Balbec, and Tadmor, and Persepolis, until my
 
-      very soul has become a ruin.
+      very [[Soul|soul]] has become a ruin.
 
 
 
@@ -773,13 +773,13 @@ N’a plus rien a dissimuler.
 
       If I trembled at the blast which has hitherto attended us, shall
 
-      I not stand aghast at a warring of wind and ocean, to convey any
+      I not stand aghast at a warring of [[Wind|wind]] and ocean, to convey any
 
       idea of which the words tornado and simoom are trivial and
 
-      ineffective? All in the immediate vicinity of the ship is the
+      ineffective? All in the immediate vicinity of the [[Ship|ship]] is the
 
-      blackness of eternal night, and a chaos of foamless water; but,
+      blackness of eternal [[Night|night]], and a chaos of foamless [[Water|water]]; but,
 
       about a league on either side of us, may be seen, indistinctly
 
@@ -791,7 +791,7 @@ N’a plus rien a dissimuler.
 
 
 
-      As I imagined, the ship proves to be in a current—if that
+      As I imagined, the [[Ship|ship]] proves to be in a current—if that
 
       appellation can properly be given to a tide which, howling and
 
@@ -807,9 +807,9 @@ N’a plus rien a dissimuler.
 
       impossible; yet a curiosity to penetrate the mysteries of these
 
-      awful regions, predominates even over my despair, and will
+      awful regions, predominates even over my [[Despair|despair]], and will
 
-      reconcile me to the most hideous aspect of death. It is evident
+      reconcile me to the most hideous aspect of [[Death|death]]. It is evident
 
       that we are hurrying onwards to some exciting knowledge—some
 
@@ -829,13 +829,13 @@ N’a plus rien a dissimuler.
 
       is upon their countenances an expression more of the eagerness of
 
-      hope than of the apathy of despair.
+      [[Hope|hope]] than of the apathy of [[Despair|despair]].
 
 
 
-      In the meantime the wind is still in our poop, and, as we carry a
+      In the meantime the [[Wind|wind]] is still in our poop, and, as we carry a
 
-      crowd of canvas, the ship is at times lifted bodily from out the
+      crowd of canvas, the [[Ship|ship]] is at times lifted bodily from out the
 
       sea! Oh, horror upon horror!—the ice opens suddenly to the right,
 
@@ -845,19 +845,19 @@ N’a plus rien a dissimuler.
 
       amphitheatre, the summit of whose walls is lost in the darkness
 
-      and the distance. But little time will be left me to ponder upon
+      and the distance. But little [[Time|time]] will be left me to ponder upon
 
       my destiny! The circles rapidly grow small—we are plunging madly
 
       within the grasp of the whirlpool—and amid a roaring, and
 
-      bellowing, and thundering of ocean and of tempest, the ship is
+      bellowing, and thundering of ocean and of tempest, the [[Ship|ship]] is
 
       quivering—oh God! and—going down.
 
 
 
-      NOTE.—The “MS. Found in a Bottle,” was originally published in
+      NOTE.—The “[[Ms. Found in a Bottle|MS. Found in a Bottle]],” was originally published in
 
       1831, and it was not until many years afterwards that I became
 

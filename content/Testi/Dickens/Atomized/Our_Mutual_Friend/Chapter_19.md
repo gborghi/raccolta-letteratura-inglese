@@ -29,9 +29,9 @@ Riderhood in his boat.
 Riderhood, staring disconsolate.
 
 As if with one accord, they all turned their eyes towards the light of
-the fire shining through the window. It was fainter and duller. Perhaps
-fire, like the higher animal and vegetable life it helps to sustain, has
-its greatest tendency towards death, when the night is dying and the day
+the [[Fire|fire]] shining through the [[Window|window]]. It was fainter and duller. Perhaps
+[[Fire|fire]], like the higher animal and vegetable life it helps to sustain, has
+its greatest tendency towards [[Death|death]], when the [[Night|night]] is dying and the day
 is not yet born.
 
 ‘If it was me that had the law of this here job in hand,’ growled
@@ -39,11 +39,11 @@ Riderhood with a threatening shake of his head, ‘blest if I wouldn’t lay
 hold of HER, at any rate!’
 
 ‘Ay, but it is not you,’ said Eugene. With something so suddenly fierce
-in him that the informer returned submissively; ‘Well, well, well,
+in him that the informer returned submissively; ‘[[Well]], [[Well|well]], [[Well|well]],
 t’other governor, I didn’t say it was. A man may speak.’
 
 ‘And vermin may be silent,’ said Eugene. ‘Hold your tongue, you
-water-rat!’
+[[Water|water]]-rat!’
 
 Astonished by his friend’s unusual heat, Lightwood stared too, and then
 said: ‘What can have become of this man?’
@@ -60,7 +60,7 @@ than she is. Come aboard of mine, and see for your own-selves.’
 There was a little backwardness in complying, for the freight looked too
 much for the boat; but on Riderhood’s protesting ‘that he had had half a
 dozen, dead and alive, in her afore now, and she was nothing deep in the
-water nor down in the stern even then, to speak of;’ they carefully took
+[[Water|water]] nor down in the stern even then, to speak of;’ they carefully took
 their places, and trimmed the crazy thing. While they were doing so,
 Riderhood still sat staring disconsolate.
 
@@ -77,7 +77,7 @@ a thing, nor carrying it out like a man!’
 embarking), as they bumped heavily against a pile; and then in a lower
 voice reversed his late apostrophe by remarking (‘I wish the boat of my
 honourable and gallant friend may be endowed with philanthropy enough
-not to turn bottom-upward and extinguish us!) Steady, steady! Sit close,
+not to turn [[Bottom|bottom]]-upward and extinguish us!) Steady, steady! Sit close,
 Mortimer. Here’s the hail again. See how it flies, like a troop of wild
 cats, at Mr Riderhood’s eyes!’
 
@@ -89,7 +89,7 @@ before the morning; there followed in its wake a ragged tear of light
 which ripped the dark clouds until they showed a great grey hole of day.
 
 They were all shivering, and everything about them seemed to be
-shivering; the river itself; craft, rigging, sails, such early smoke as
+shivering; the [[River|river]] itself; craft, rigging, sails, such early smoke as
 there yet was on the shore. Black with wet, and altered to the eye by
 white patches of hail and sleet, the huddled buildings looked lower
 than usual, as if they were cowering, and had shrunk with the cold. Very
@@ -99,37 +99,37 @@ and the staring black and white letters upon wharves and warehouses
 dead businesses.’
 
 As they glided slowly on, keeping under the shore and sneaking in and
-out among the shipping by back-alleys of water, in a pilfering way
+out among the shipping by back-alleys of [[Water|water]], in a pilfering way
 that seemed to be their boatman’s normal manner of progression, all
 the objects among which they crept were so huge in contrast with their
-wretched boat, as to threaten to crush it. Not a ship’s hull, with its
+wretched boat, as to threaten to crush it. Not a [[Ship|ship]]’s hull, with its
 rusty iron links of cable run out of hawse-holes long discoloured with
-the iron’s rusty tears, but seemed to be there with a fell intention.
+the iron’s rusty [[Tears|tears]], but seemed to be there with a fell intention.
 Not a figure-head but had the menacing look of bursting forward to run
 them down. Not a sluice gate, or a painted scale upon a post or wall,
-showing the depth of water, but seemed to hint, like the dreadfully
+showing the depth of [[Water|water]], but seemed to hint, like the dreadfully
 facetious Wolf in bed in Grandmamma’s cottage, ‘That’s to drown YOU in,
 my dears!’ Not a lumbering black barge, with its cracked and blistered
-side impending over them, but seemed to suck at the river with a
+side impending over them, but seemed to suck at the [[River|river]] with a
 thirst for sucking them under. And everything so vaunted the spoiling
-influences of water—discoloured copper, rotten wood, honey-combed
+influences of [[Water|water]]—discoloured copper, rotten wood, honey-combed
 stone, green dank deposit—that the after-consequences of being crushed,
-sucked under, and drawn down, looked as ugly to the imagination as the
+sucked under, and drawn down, looked as ugly to the [[Imagination|imagination]] as the
 main event.
 
 Some half-hour of this work, and Riderhood unshipped his sculls, stood
 holding on to a barge, and hand over hand long-wise along the barge’s
 side gradually worked his boat under her head into a secret little
-nook of scummy water. And driven into that nook, and wedged as he had
+nook of scummy [[Water|water]]. And driven into that nook, and wedged as he had
 described, was Gaffer’s boat; that boat with the stain still in it,
 bearing some resemblance to a muffled human form.
 
 ‘Now tell me I’m a liar!’ said the honest man.
 
 (‘With a morbid expectation,’ murmured Eugene to Lightwood, ‘that
-somebody is always going to tell him the truth.’)
+somebody is always going to tell him the [[Truth|truth]].’)
 
-‘This is Hexam’s boat,’ said Mr Inspector. ‘I know her well.’
+‘This is Hexam’s boat,’ said Mr Inspector. ‘I know her [[Well|well]].’
 
 ‘Look at the broken scull. Look at the t’other scull gone. NOW tell me I
 am a liar!’ said the honest man.
@@ -143,7 +143,7 @@ luck again?’
 ‘Haul in,’ said Mr Inspector.
 
 ‘Easy to say haul in,’ answered Riderhood. ‘Not so easy done. His luck’s
-got fouled under the keels of the barges. I tried to haul in last time,
+got fouled under the keels of the barges. I tried to haul in last [[Time|time]],
 but I couldn’t. See how taut the line is!’
 
 ‘I must have it up,’ said Mr Inspector. ‘I am going to take this boat
@@ -161,7 +161,7 @@ perhaps.’
 
 ‘I am not going to do either, not even to your Grandmother,’ said Mr
 Inspector; ‘but I mean to have it. Come!’ he added, at once persuasively
-and with authority to the hidden object in the water, as he played the
+and with authority to the hidden object in the [[Water|water]], as he played the
 line again; ‘it’s no good this sort of game, you know. You MUST come up.
 I mean to have you.’
 
@@ -169,11 +169,11 @@ There was so much virtue in this distinctly and decidedly meaning to
 have it, that it yielded a little, even while the line was played.
 
 ‘I told you so,’ quoth Mr Inspector, pulling off his outer coat, and
-leaning well over the stern with a will. ‘Come!’
+leaning [[Well|well]] over the stern with a will. ‘Come!’
 
 It was an awful sort of fishing, but it no more disconcerted Mr
-Inspector than if he had been fishing in a punt on a summer evening by
-some soothing weir high up the peaceful river. After certain minutes,
+Inspector than if he had been fishing in a punt on a [[Summer|summer]] evening by
+some soothing weir high up the peaceful [[River|river]]. After certain minutes,
 and a few directions to the rest to ‘ease her a little for’ard,’ and
 ‘now ease her a trifle aft,’ and the like, he said composedly, ‘All
 clear!’ and the line and the boat came free together.
@@ -181,7 +181,7 @@ clear!’ and the line and the boat came free together.
 Accepting Lightwood’s proffered hand to help him up, he then put on his
 coat, and said to Riderhood, ‘Hand me over those spare sculls of yours,
 and I’ll pull this in to the nearest stairs. Go ahead you, and keep out
-in pretty open water, that I mayn’t get fouled again.’
+in pretty open [[Water|water]], that I mayn’t get fouled again.’
 
 His directions were obeyed, and they pulled ashore directly; two in one
 boat, two in the other.
@@ -192,7 +192,7 @@ ought to be a better workman at it. Undo the tow-rope, and we’ll help
 you haul in.’
 
 Riderhood got into the boat accordingly. It appeared as if he had
-scarcely had a moment’s time to touch the rope or look over the stern,
+scarcely had a moment’s [[Time|time]] to touch the rope or look over the stern,
 when he came scrambling back, as pale as the morning, and gasped out:
 
 ‘By the Lord, he’s done me!’
@@ -210,23 +210,23 @@ blast storming at it and clotting the wet hair with hail-stones.
 
 Father, was that you calling me? Father! I thought I heard you call me
 twice before! Words never to be answered, those, upon the earth-side
-of the grave. The wind sweeps jeeringly over Father, whips him with the
+of the [[Grave|grave]]. The [[Wind|wind]] sweeps jeeringly over Father, whips him with the
 frayed ends of his dress and his jagged hair, tries to turn him where he
 lies stark on his back, and force his face towards the rising sun, that
-he may be shamed the more. A lull, and the wind is secret and prying
+he may be shamed the more. A lull, and the [[Wind|wind]] is secret and prying
 with him; lifts and lets falls a rag; hides palpitating under another
 rag; runs nimbly through his hair and beard. Then, in a rush, it cruelly
 taunts him. Father, was that you calling me? Was it you, the voiceless
 and the dead? Was it you, thus buffeted as you lie here in a heap? Was
-it you, thus baptized unto Death, with these flying impurities now flung
+it you, thus baptized unto [[Death]], with these flying impurities now flung
 upon your face? Why not speak, Father? Soaking into this filthy ground
 as you lie here, is your own shape. Did you never see such a shape
 soaked into your boat? Speak, Father. Speak to us, the winds, the only
 listeners left you!
 
 ‘Now see,’ said Mr Inspector, after mature deliberation: kneeling on one
-knee beside the body, when they had stood looking down on the drowned
-man, as he had many a time looked down on many another man: ‘the way of
+knee beside the [[Body|body]], when they had stood looking down on the drowned
+man, as he had many a [[Time|time]] looked down on many another man: ‘the way of
 it was this. Of course you gentlemen hardly failed to observe that he
 was towing by the neck and arms.’
 
@@ -248,10 +248,10 @@ and bound.
 wild tempestuous evening when this man that was,’ stooping to wipe
 some hailstones out of his hair with an end of his own drowned jacket,
 ‘—there! Now he’s more like himself; though he’s badly bruised,—when
-this man that was, rows out upon the river on his usual lay. He carries
+this man that was, rows out upon the [[River|river]] on his usual lay. He carries
 with him this coil of rope. He always carries with him this coil of
-rope. It’s as well known to me as he was himself. Sometimes it lay in
-the bottom of his boat. Sometimes he hung it loose round his neck.
+rope. It’s as [[Well|well]] known to me as he was himself. Sometimes it lay in
+the [[Bottom|bottom]] of his boat. Sometimes he hung it loose round his neck.
 He was a light-dresser was this man;—you see?’ lifting the loose
 neckerchief over his breast, and taking the opportunity of wiping the
 dead lips with it—‘and when it was wet, or freezing, or blew cold, he
@@ -266,12 +266,12 @@ secure, as it happens. He is a little longer about this than usual, his
 hands being numbed. His object drifts up, before he is quite ready for
 it. He catches at it, thinks he’ll make sure of the contents of the
 pockets anyhow, in case he should be parted from it, bends right over
-the stern, and in one of these heavy squalls, or in the cross-swell of
+the stern, and in one of these heavy squalls, or in the [[Cross|cross]]-swell of
 two steamers, or in not being quite prepared, or through all or most or
 some, gets a lurch, overbalances and goes head-foremost overboard. Now
 see! He can swim, can this man, and instantly he strikes out. But in
 such striking-out he tangles his arms, pulls strong on the slip-knot,
-and it runs home. The object he had expected to take in tow, floats by,
+and it runs [[Home|home]]. The object he had expected to take in tow, floats by,
 and his own boat tows him dead, to where we found him, all entangled
 in his own line. You’ll ask me how I make out about the pockets? First,
 I’ll tell you more; there was silver in ’em. How do I make that out?
@@ -301,21 +301,21 @@ that he was restless.
 ‘Singular and entertaining combination, sir, your friend.’
 
 ‘I wish it had not been a part of his singular entertaining combination
-to give me the slip under these dreary circumstances at this time of the
+to give me the slip under these dreary circumstances at this [[Time|time]] of the
 morning,’ said Lightwood. ‘Can we get anything hot to drink?’
 
-We could, and we did. In a public-house kitchen with a large fire. We
-got hot brandy and water, and it revived us wonderfully. Mr Inspector
+We could, and we did. In a public-[[house]] kitchen with a large [[Fire|fire]]. We
+got hot brandy and [[Water|water]], and it revived us wonderfully. Mr Inspector
 having to Mr Riderhood announced his official intention of ‘keeping
 his eye upon him’, stood him in a corner of the fireplace, like a wet
 umbrella, and took no further outward and visible notice of that honest
-man, except ordering a separate service of brandy and water for him:
+man, except ordering a separate service of brandy and [[Water|water]] for him:
 apparently out of the public funds.
 
-As Mortimer Lightwood sat before the blazing fire, conscious of drinking
-brandy and water then and there in his sleep, and yet at one and the
-same time drinking burnt sherry at the Six Jolly Fellowships, and
-lying under the boat on the river shore, and sitting in the boat that
+As Mortimer Lightwood sat before the blazing [[Fire|fire]], conscious of drinking
+brandy and [[Water|water]] then and there in his [[Sleep|sleep]], and yet at one and the
+same [[Time|time]] drinking burnt sherry at the Six Jolly Fellowships, and
+lying under the boat on the [[River|river]] shore, and sitting in the boat that
 Riderhood rowed, and listening to the lecture recently concluded, and
 having to dine in the Temple with an unknown man, who described himself
 as M. H. F. Eugene Gaffer Harmon, and said he lived at Hailstorm,—as
@@ -331,7 +331,7 @@ wandered in his attention.
 
 ‘I see,’ said Lightwood, with dignity.
 
-‘And had hot brandy and water too, you see,’ said Mr Inspector, ‘and
+‘And had hot brandy and [[Water|water]] too, you see,’ said Mr Inspector, ‘and
 then cut off at a great rate.’
 
 ‘Who?’ said Lightwood.
@@ -342,14 +342,14 @@ then cut off at a great rate.’
 
 After hearing, in a mist through which Mr Inspector loomed vague and
 large, that the officer took upon himself to prepare the dead man’s
-daughter for what had befallen in the night, and generally that he took
-everything upon himself, Mortimer Lightwood stumbled in his sleep to
+daughter for what had befallen in the [[Night|night]], and generally that he took
+everything upon himself, Mortimer Lightwood stumbled in his [[Sleep|sleep]] to
 a cab-stand, called a cab, and had entered the army and committed a
-capital military offence and been tried by court martial and found
+capital military offence and been tried by [[Court|court]] martial and found
 guilty and had arranged his affairs and been marched out to be shot,
 before the door banged.
 
-Hard work rowing the cab through the City to the Temple, for a cup of
+Hard work rowing the cab through the [[City]] to the Temple, for a cup of
 from five to ten thousand pounds value, given by Mr Boffin; and hard
 work holding forth at that immeasurable length to Eugene (when he had
 been rescued with a rope from the running pavement) for making off in
@@ -358,27 +358,27 @@ so very penitent, that when Lightwood got out of the cab, he gave
 the driver a particular charge to be careful of him. Which the driver
 (knowing there was no other fare left inside) stared at prodigiously.
 
-In short, the night’s work had so exhausted and worn out this actor in
+In short, the [[Night|night]]’s work had so exhausted and worn out this actor in
 it, that he had become a mere somnambulist. He was too tired to rest in
-his sleep, until he was even tired out of being too tired, and dropped
+his [[Sleep|sleep]], until he was even tired out of being too tired, and dropped
 into oblivion. Late in the afternoon he awoke, and in some anxiety sent
 round to Eugene’s lodging hard by, to inquire if he were up yet?
 
 Oh yes, he was up. In fact, he had not been to bed. He had just come
-home. And here he was, close following on the heels of the message.
+[[Home|home]]. And here he was, close following on the heels of the message.
 
 ‘Why what bloodshot, draggled, dishevelled spectacle is this!’ cried
 Mortimer.
 
 ‘Are my feathers so very much rumpled?’ said Eugene, coolly going up to
 the looking-glass. They ARE rather out of sorts. But consider. Such a
-night for plumage!’
+[[Night|night]] for plumage!’
 
-‘Such a night?’ repeated Mortimer. ‘What became of you in the morning?’
+‘Such a [[Night|night]]?’ repeated Mortimer. ‘What became of you in the morning?’
 
 ‘My dear fellow,’ said Eugene, sitting on his bed, ‘I felt that we
 had bored one another so long, that an unbroken continuance of those
 relations must inevitably terminate in our flying to opposite points of
 the earth. I also felt that I had committed every crime in the Newgate
-Calendar. So, for mingled considerations of friendship and felony, I
+Calendar. So, for mingled considerations of [[Friendship|friendship]] and felony, I
 took a walk.’

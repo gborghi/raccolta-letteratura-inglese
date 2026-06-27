@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 31"
+title: "[[Shirley]] — Chapter 31"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,7 +24,7 @@ UNCLE AND NIECE.
 
 
 
-The die was cast. Sir Philip Nunnely knew it; Shirley knew it; Mr.
+The die was cast. Sir Philip Nunnely knew it; [[Shirley]] knew it; Mr.
 
 Sympson knew it. That evening, when all the Fieldhead family dined at
 
@@ -38,9 +38,9 @@ observed that Miss Keeldar looked pensive and delicate. This new phase
 
 in her demeanour smote him on his weak or poetic side. A spontaneous
 
-sonnet brewed in his brain; and while it was still working there, one of
+[[Sonnet|sonnet]] brewed in his brain; and while it was still working there, one of
 
-his sisters persuaded his lady-love to sit down to the piano and sing a
+his sisters persuaded his lady-[[Love|love]] to sit down to the piano and sing a
 
 ballad--one of Sir Philip's own ballads. It was the least elaborate, the
 
@@ -48,9 +48,9 @@ least affected--out of all comparison the best of his numerous efforts.
 
 
 
-It chanced that Shirley, the moment before, had been gazing from a
+It chanced that [[Shirley]], the moment before, had been gazing from a
 
-window down on the park. She had seen that stormy moonlight which "le
+[[Window|window]] down on the park. She had seen that stormy moonlight which "le
 
 Professeur Louis" was perhaps at the same instant contemplating from her
 
@@ -60,7 +60,7 @@ domain--broad, strong, spreading oaks, and high-towering heroic
 
 beeches--wrestling with the gale. Her ear had caught the full roar of
 
-the forest lower down; the swift rushing of clouds, the moon, to the
+the forest lower down; the swift rushing of clouds, the [[Moon|moon]], to the
 
 eye, hasting swifter still, had crossed her vision. She turned from
 
@@ -68,17 +68,17 @@ sight and sound--touched, if not rapt; wakened, if not inspired.
 
 
 
-She sang, as requested. There was much about love in the
+She sang, as requested. There was much about [[Love|love]] in the
 
-ballad--faithful love that refused to abandon its object; love that
+ballad--faithful [[Love|love]] that refused to abandon its object; [[Love|love]] that
 
-disaster could not shake; love that in calamity waxed fonder, in poverty
+disaster could not shake; [[Love|love]] that in calamity waxed fonder, in [[Poverty|poverty]]
 
 clung closer. The words were set to a fine old air; in themselves they
 
 were simple and sweet. Perhaps, when read, they wanted force; when
 
-_well_ sung, they wanted nothing. Shirley sang them well. She breathed
+_well_ sung, they wanted nothing. [[Shirley]] sang them [[Well|well]]. She breathed
 
 into the feeling softness; she poured round the passion force. Her voice
 
@@ -88,7 +88,7 @@ charmed one.
 
 
 
-On leaving the instrument she went to the fire, and sat down on a
+On leaving the instrument she went to the [[Fire|fire]], and sat down on a
 
 seat--semi-stool, semi-cushion. The ladies were round her; none of them
 
@@ -104,7 +104,7 @@ school-girl? Decidedly not. It was strange, it was unusual. What was
 
 _strange_ must be _wrong_; what was _unusual_ must be _improper_.
 
-Shirley was judged.
+[[Shirley]] was judged.
 
 
 
@@ -126,7 +126,7 @@ The room they were in had once been a picture-gallery. Sir Philip's
 
 father--Sir Monckton--had converted it into a saloon; but still it had a
 
-shadowy, long-withdrawing look. A deep recess with a window--a recess
+shadowy, long-withdrawing look. A deep recess with a [[Window|window]]--a recess
 
 that held one couch, one table, and a fairy cabinet--formed a room
 
@@ -140,11 +140,11 @@ Sir Philip induced two of his sisters to perpetrate a duet. He gave
 
 occupation to the Misses Sympson. The elder ladies were conversing
 
-together. He was pleased to remark that meantime Shirley rose to look at
+together. He was pleased to remark that meantime [[Shirley]] [[Rose|rose]] to look at
 
 the pictures. He had a tale to tell about one ancestress, whose dark
 
-beauty seemed as that of a flower of the south. He joined her, and began
+[[Beauty|beauty]] seemed as that of a flower of the south. He joined her, and began
 
 to tell it.
 
@@ -152,7 +152,7 @@ to tell it.
 
 There were mementoes of the same lady in the cabinet adorning the
 
-recess; and while Shirley was stooping to examine the missal and the
+recess; and while [[Shirley]] was stooping to examine the missal and the
 
 rosary on the inlaid shelf, and while the Misses Nunnely indulged in a
 
@@ -166,7 +166,7 @@ so still you might have fancied that whisper a charm which had changed
 
 her to a statue; but she presently looked up and answered. They parted.
 
-Miss Keeldar returned to the fire, and resumed her seat. The baronet
+Miss Keeldar returned to the [[Fire|fire]], and resumed her seat. The baronet
 
 gazed after her, then went and stood behind his sisters. Mr.
 
@@ -180,11 +180,11 @@ meddling, as profound as he was prying, he might have found that in Sir
 
 Philip's face whereby to correct his inference. Ever shallow, hasty, and
 
-positive, he went home quite cock-a-hoop.
+positive, he went [[Home|home]] quite cock-a-hoop.
 
 
 
-He was not a man that kept secrets well. When elate on a subject, he
+He was not a man that kept [[Secrets|secrets]] [[Well|well]]. When elate on a subject, he
 
 could not avoid talking about it. The next morning, having occasion to
 
@@ -200,13 +200,13 @@ in Yorkshire was now on the eve of fortunate completion. His anxious and
 
 laborious efforts were likely, at last, to be crowned with the happiest
 
-success. A truly eligible addition was about to be made to the family
+[[success]]. A truly eligible addition was about to be made to the family
 
 connections.
 
 
 
-"In Sir Philip Nunnely?" Louis Moore conjectured.
+"In Sir Philip Nunnely?" [[Louis Moore]] conjectured.
 
 
 
@@ -222,7 +222,7 @@ For a day or two Mr. Sympson continued as bland as oil, but also he
 
 seemed to sit on pins, and his gait, when he walked, emulated that of a
 
-hen treading a hot girdle. He was for ever looking out of the window and
+hen treading a hot girdle. He was for ever looking out of the [[Window|window]] and
 
 listening for chariot-wheels. Bluebeard's wife--Sisera's mother--were
 
@@ -240,7 +240,7 @@ At last there came a letter. He himself handed it to Miss Keeldar out of
 
 the bag. He knew the handwriting; he knew the crest on the seal. He did
 
-not see it opened and read, for Shirley took it to her own room; nor did
+not see it opened and read, for [[Shirley]] took it to her own room; nor did
 
 he see it answered, for she wrote her reply shut up, and was very long
 
@@ -250,19 +250,19 @@ answered; she responded, "Yes."
 
 
 
-Again he waited--waited in silence, absolutely not daring to speak, kept
+Again he waited--waited in [[Silence|silence]], absolutely not daring to speak, kept
 
-mute by something in Shirley's face--a very awful something--inscrutable
+mute by something in [[Shirley]]'s face--a very awful something--inscrutable
 
 to him as the writing on the wall to Belshazzar. He was moved more than
 
-once to call Daniel, in the person of Louis Moore, and to ask an
+once to call Daniel, in the person of [[Louis Moore]], and to ask an
 
 interpretation; but his dignity forbade the familiarity. Daniel himself,
 
 perhaps, had his own private difficulties connected with that baffling
 
-bit of translation; he looked like a student for whom grammars are blank
+bit of [[Translation|translation]]; he looked like a student for whom grammars are blank
 
 and dictionaries dumb.
 
@@ -284,17 +284,17 @@ room. He wished to have with her a "_strictly_ private interview."
 
 
 
-She rose, asking no questions and professing no surprise.
+She [[Rose|rose]], asking no questions and professing no surprise.
 
 
 
-"Very well, sir," she said, in the tone of a determined person who is
+"Very [[Well|well]], sir," she said, in the tone of a determined person who is
 
-informed that the dentist is come to extract that large double tooth of
+informed that the dentist is come to extract that large [[Double|double]] tooth of
 
 his, from which he has suffered such a purgatory this month past. She
 
-left her sewing and her thimble in the window-seat, and followed her
+left her sewing and her thimble in the [[Window|window]]-seat, and followed her
 
 uncle where he led.
 
@@ -336,7 +336,7 @@ sisters."
 
 
 
-"Indeed!" said Shirley.
+"Indeed!" said [[Shirley]].
 
 
 
@@ -368,7 +368,7 @@ _insist_ on being heard, and on--on having my own way. My questions
 
 _must_ be answered. I will have clear, satisfactory replies. I am not to
 
-be trifled with. (Silence.)
+be trifled with. ([[Silence]].)
 
 
 
@@ -388,7 +388,7 @@ gone!"
 
 
 
-Shirley raised her brows. "_Bon voyage!_" said she.
+[[Shirley]] raised her brows. "_Bon voyage!_" said she.
 
 
 
@@ -402,7 +402,7 @@ incensed, and perfectly helpless.
 
 
 
-"Come, come now, uncle," expostulated Shirley, "do not begin to fret and
+"Come, come now, uncle," expostulated [[Shirley]], "do not begin to fret and
 
 fume, or we shall make no sense of the business. Ask me what you want to
 
@@ -430,7 +430,7 @@ an offer?"
 
 
 
-"He made you an offer that night we dined at the priory?"
+"He made you an offer that [[Night|night]] we dined at the priory?"
 
 
 
@@ -452,7 +452,7 @@ No answer.
 
 fault--it never is. Subsequently you received a letter from him. On what
 
-subject--of what nature were the contents?"
+subject--of what [[Nature|nature]] were the contents?"
 
 
 
@@ -464,7 +464,7 @@ subject--of what nature were the contents?"
 
 
 
-Shirley's foot tapped quick on the carpet.
+[[Shirley]]'s foot tapped quick on the carpet.
 
 
 
@@ -510,7 +510,7 @@ next?"
 
 
 
-"I desire to know whether you accepted or refused him, and know it I
+"I [[Desire|desire]] to know whether you accepted or refused him, and know it I
 
 will."
 
@@ -520,7 +520,7 @@ will."
 
 
 
-"Refused him! You--_you_, Shirley Keeldar, _refused_ Sir Philip
+"Refused him! You--_you_, [[Shirley Keeldar]], _refused_ Sir Philip
 
 Nunnely?"
 
@@ -714,7 +714,7 @@ I have no taste whatever for the office."
 
 
 
-"There _is_ a slight difference--that is certain. And I know full well
+"There _is_ a slight difference--that is certain. And I know full [[Well|well]]
 
 any man who wishes to live in decent comfort with me as a husband must
 
@@ -722,19 +722,19 @@ be able to control me."
 
 
 
-"I wish you had a real tyrant."
+"I wish you had a real [[Tyrant|tyrant]]."
 
 
 
-"A tyrant would not hold me for a day, not for an hour. I would
+"A [[Tyrant|tyrant]] would not hold me for a day, not for an hour. I would
 
-rebel--break from him--defy him."
+[[Rebel|rebel]]--break from him--defy him."
 
 
 
 "Are you not enough to bewilder one's brain with your
 
-self-contradiction?"
+[[Self|self]]-contradiction?"
 
 
 
@@ -760,7 +760,7 @@ swain."
 
 
 
-"You could lead some doting fool; you might pin him to your apron."
+"You could lead some doting [[Fool|fool]]; you might pin him to your apron."
 
 
 
@@ -772,9 +772,9 @@ disposed to be good; one whose control my impatient temper must
 
 acknowledge; a man whose approbation can reward, whose displeasure
 
-punish me; a man I shall feel it impossible not to love, and very
+punish me; a man I shall feel it impossible not to [[Love|love]], and very
 
-possible to fear?"
+possible to [[Fear|fear]]?"
 
 
 
@@ -798,7 +798,7 @@ better stead with me."
 
 
 
-"You and Henry rave about poetry! You used to catch fire like tinder on
+"You and Henry rave about poetry! You used to catch [[Fire|fire]] like tinder on
 
 the subject when you were a girl."
 
@@ -872,7 +872,7 @@ Job."
 
 resolved to probe thoroughly, convinced that there is mischief at the
 
-bottom. You described just now, with far too much freedom for your years
+[[Bottom|bottom]]. You described just now, with far too much [[Freedom|freedom]] for your years
 
 and sex, the sort of individual you would prefer as a husband. Pray, did
 
@@ -880,15 +880,15 @@ you paint from the life?"
 
 
 
-Shirley opened her lips, but instead of speaking she only glowed
+[[Shirley]] opened her lips, but instead of speaking she only glowed
 
-rose-red.
+[[Rose|rose]]-red.
 
 
 
 "I shall have an answer to that question," affirmed Mr. Sympson,
 
-assuming vast courage and consequence on the strength of this symptom of
+assuming vast [[Courage|courage]] and consequence on the strength of this symptom of
 
 confusion.
 
@@ -902,7 +902,7 @@ confusion.
 
 
 
-"I have been in love several times."
+"I have been in [[Love|love]] several times."
 
 
 
@@ -970,11 +970,11 @@ him; but to speak of the actual present----"
 
 "To avow before what altar I now kneel--to reveal the present idol of my
 
-soul----"
+[[Soul|soul]]----"
 
 
 
-"You will make haste about it, if you please. It is near luncheon time,
+"You will make haste about it, if you please. It is near luncheon [[Time|time]],
 
 and confess _you shall_."
 
@@ -1006,7 +1006,7 @@ sympathy and sentiment, and so on. Did you say it was Mr. Helstone?"
 
 dissimilar--a pair of human falcons--and dry, direct, decided both. But
 
-my hero is the mightier of the two. His mind has the clearness of the
+my [[Hero|hero]] is the mightier of the two. His mind has the clearness of the
 
 deep sea, the patience of its rocks, the force of its billows."
 
@@ -1032,7 +1032,7 @@ deep sea, the patience of its rocks, the force of its billows."
 
 
 
-"That was well said, uncle. 'Speak, girl!' It is quite tragic. England
+"That was [[Well|well]] said, uncle. 'Speak, girl!' It is quite tragic. England
 
 has howled savagely against this man, uncle, and she will one day roar
 
@@ -1058,11 +1058,11 @@ tell you his name."
 
 
 
-"Listen! Arthur Wellesley, Lord Wellington."
+"Listen! [[arthur|Arthur]] Wellesley, Lord Wellington."
 
 
 
-Mr. Sympson rose up furious. He bounced out of the room, but immediately
+Mr. Sympson [[Rose|rose]] up furious. He bounced out of the room, but immediately
 
 bounced back again, shut the door, and resumed his seat.
 
@@ -1140,7 +1140,7 @@ I _only_ esteem him."
 
 
 
-"What do you mean? There are certain phrases potent to make my blood
+"What do you mean? There are certain phrases potent to make my [[Blood|blood]]
 
 boil. Improper influence! What old woman's cackle is that?"
 
@@ -1204,13 +1204,13 @@ ruler in his bearing."
 
 
 
-"She glories in it! She conceals nothing! No shame, no fear!"
+"She glories in it! She conceals nothing! No shame, no [[Fear|fear]]!"
 
 
 
-"When we speak the name of Moore, shame should be forgotten and fear
+"When we speak the name of Moore, shame should be forgotten and [[Fear|fear]]
 
-discarded. The Moores know only honour and courage."
+discarded. The Moores know only [[Honour|honour]] and [[Courage|courage]]."
 
 
 
@@ -1218,7 +1218,7 @@ discarded. The Moores know only honour and courage."
 
 
 
-"You have taunted me till my blood is up; you have worried me till I
+"You have taunted me till my [[Blood|blood]] is up; you have worried me till I
 
 turn again."
 
@@ -1230,7 +1230,7 @@ call you sister?"
 
 
 
-Bright and broad shone Shirley's eye as she fixed it on her questioner
+Bright and broad shone [[Shirley]]'s eye as she fixed it on her questioner
 
 now.
 
@@ -1248,7 +1248,7 @@ now.
 
 
 
-"Mr. Louis Moore's sister you will be."
+"Mr. [[Louis Moore]]'s sister you will be."
 
 
 
@@ -1266,7 +1266,7 @@ tongue. Let us part."
 
 "It is not," she resumed, much excited--"it is not that I hate you; you
 
-are a good sort of man. Perhaps you mean well in your way. But we cannot
+are a good sort of man. Perhaps you mean [[Well|well]] in your way. But we cannot
 
 suit; we are ever at variance. You annoy me with small meddling, with
 
@@ -1278,7 +1278,7 @@ prejudices, aversions, dogmas, bundle them off. Mr. Sympson, go, offer
 
 them a sacrifice to the deity you worship; I'll none of them. I wash my
 
-hands of the lot. I walk by another creed, light, faith, and hope than
+hands of the lot. I walk by another creed, light, [[Faith|faith]], and [[Hope|hope]] than
 
 you."
 
@@ -1304,7 +1304,7 @@ appear to me too superstitious. Sir, your god, your great Bel, your
 
 fish-tailed Dagon, rises before me as a demon. You, and such as you,
 
-have raised him to a throne, put on him a crown, given him a sceptre.
+have raised him to a throne, put on him a [[Crown|crown]], given him a sceptre.
 
 Behold how hideously he governs! See him busied at the work he likes
 
@@ -1320,19 +1320,19 @@ is vice--deep, deadly domestic vice. In his dominions children grow
 
 unloving between parents who have never loved; infants are nursed on
 
-deception from their very birth; they are reared in an atmosphere
+[[Deception|deception]] from their very birth; they are reared in an atmosphere
 
 corrupt with lies. Your god rules at the bridal of kings; look at your
 
 royal dynasties! Your deity is the deity of foreign aristocracies;
 
-analyze the blue blood of Spain! Your god is the Hymen of France; what
+analyze the blue [[Blood|blood]] of Spain! Your god is the Hymen of France; what
 
-is French domestic life? All that surrounds him hastens to decay; all
+is French domestic life? All that surrounds him hastens to [[Decay|decay]]; all
 
 declines and degenerates under his sceptre. _Your_ god is a masked
 
-Death."
+[[Death]]."
 
 
 
@@ -1348,11 +1348,11 @@ have believed----"
 
 "Now, sir, do you begin to be aware that it is useless to scheme for me;
 
-that in doing so you but sow the wind to reap the whirlwind? I sweep
+that in doing so you but sow the [[Wind|wind]] to reap the whirlwind? I sweep
 
 your cobweb projects from my path, that I may pass on unsullied. I am
 
-anchored on a resolve you cannot shake. My heart, my conscience shall
+anchored on a resolve you cannot shake. My heart, my [[Conscience|conscience]] shall
 
 dispose of my hand--_they only_. Know this at last."
 
@@ -1372,11 +1372,11 @@ addressed in my life--never was so used!"
 
 
 
-He rose hastily. "We must leave this place; they must pack up at once."
+He [[Rose|rose]] hastily. "We must leave this place; they must pack up at once."
 
 
 
-"Do not hurry my aunt and cousins; give them time."
+"Do not hurry my aunt and cousins; give them [[Time|time]]."
 
 
 
@@ -1396,7 +1396,7 @@ and a coarse epithet at his mistress.
 
 
 
-"Poor Mr. Sympson! he is both feeble and vulgar," said Shirley to
+"Poor Mr. Sympson! he is both feeble and vulgar," said [[Shirley]] to
 
 herself. "My head aches, and I am tired," she added; and leaning her
 
@@ -1404,7 +1404,7 @@ head upon a cushion, she softly subsided from excitement to repose. One,
 
 entering the room a quarter of an hour afterwards, found her asleep.
 
-When Shirley had been agitated, she generally took this natural
+When [[Shirley]] had been agitated, she generally took this natural
 
 refreshment; it would come at her call.
 
@@ -1426,23 +1426,23 @@ hidden by her arm, became visible. She looked rosy, happy, half smiling,
 
 but her eyelashes were wet. She had wept in slumber; or perhaps, before
 
-dropping asleep, a few natural tears had fallen after she had heard that
+dropping asleep, a few natural [[Tears|tears]] had fallen after she had heard that
 
 epithet. No man--no woman--is always strong, always able to bear up
 
 against the unjust opinion, the vilifying word. Calumny, even from the
 
-mouth of a fool, will sometimes cut into unguarded feelings. Shirley
+mouth of a [[Fool|fool]], will sometimes cut into unguarded feelings. [[Shirley]]
 
-looked like a child that had been naughty and punished, but was now
+looked like a [[Child|child]] that had been naughty and punished, but was now
 
 forgiven and at rest.
 
 
 
-"Miss Keeldar," again said the voice. This time it woke her. She looked
+"Miss Keeldar," again said the voice. This [[Time|time]] it woke her. She looked
 
-up, and saw at her side Louis Moore--not close at her side, but
+up, and saw at her side [[Louis Moore]]--not close at her side, but
 
 standing, with arrested step, two or three yards from her.
 
@@ -1454,7 +1454,7 @@ have quarrelled."
 
 
 
-"Mr. Sympson should let you alone," was the reply. "Can he not see that
+"Mr. Sympson should let you [[Alone|alone]]," was the reply. "Can he not see that
 
 you are as yet far from strong?"
 
@@ -1484,11 +1484,11 @@ scarcely intelligible directions; but he may change all to-morrow. He is
 
 just in that mood when you cannot depend on his consistency for two
 
-consecutive hours. I doubt whether he will leave you for weeks yet. To
+consecutive hours. I [[Doubt|doubt]] whether he will leave you for weeks yet. To
 
 myself he addressed some words which will require a little attention and
 
-comment by-and-by, when I have time to bestow on them. At the moment he
+comment by-and-by, when I have [[Time|time]] to bestow on them. At the moment he
 
 came in I was busied with a note I had got from Mr. Yorke--so fully
 
@@ -1496,11 +1496,11 @@ busied that I cut short the interview with him somewhat abruptly. I left
 
 him raving. Here is the note. I wish you to see it. It refers to my
 
-brother Robert." And he looked at Shirley.
+brother Robert." And he looked at [[Shirley]].
 
 
 
-"I shall be glad to hear news of him. Is he coming home?"
+"I shall be glad to hear news of him. Is he coming [[Home|home]]?"
 
 
 
@@ -1538,7 +1538,7 @@ worse. Robert is not dead, but much hurt."
 
 
 
-Miss Keeldar read the note. It briefly signified that last night Robert
+Miss Keeldar read the note. It briefly signified that last [[Night|night]] Robert
 
 Moore had been shot at from behind the wall of Milldean plantation, at
 
@@ -1546,13 +1546,13 @@ the foot of the Brow; that he was wounded severely, but it was hoped not
 
 fatally. Of the assassin, or assassins, nothing was known; they had
 
-escaped. "No doubt," Mr. Yorke observed, "it was done in revenge. It was
+escaped. "No [[Doubt|doubt]]," Mr. Yorke observed, "it was done in [[Revenge|revenge]]. It was
 
 a pity ill-will had ever been raised; but that could not be helped now."
 
 
 
-"He is my only brother," said Louis, as Shirley returned the note. "I
+"He is my only brother," said Louis, as [[Shirley]] returned the note. "I
 
 cannot hear unmoved that ruffians have laid in wait for him, and shot
 
@@ -1564,13 +1564,13 @@ him down, like some wild beast from behind a wall."
 
 
 
-Shirley, solicitous to soothe, held her hand over Mr. Moore's as it lay
+[[Shirley]], solicitous to soothe, held her hand over Mr. Moore's as it lay
 
 on the arm of the chair. She just touched it lightly, scarce palpably.
 
 
 
-"Well, give me your hand," he said. "It will be for the first time; it
+"[[Well]], give me your hand," he said. "It will be for the first [[Time|time]]; it
 
 is in a moment of calamity. Give it me."
 
@@ -1582,13 +1582,13 @@ Awaiting neither consent nor refusal, he took what he asked.
 
 "I am going to Briarmains now," he went on. "I want you to step over to
 
-the rectory and tell Caroline Helstone what has happened. Will you do
+the rectory and tell [[Caroline Helstone]] what has happened. Will you do
 
 this? She will hear it best from you."
 
 
 
-"Immediately," said Shirley, with docile promptitude. "Ought I to say
+"Immediately," said [[Shirley]], with docile promptitude. "Ought I to say
 
 that there is no danger?"
 
@@ -1624,7 +1624,7 @@ sister too; but doubtless she is already with Robert?"
 
 
 
-Shirley's fingers were obliged to withdraw from the tutor's. Louis was
+[[Shirley]]'s fingers were obliged to withdraw from the tutor's. Louis was
 
 obliged to relinquish that hand folded, clasped, hidden in his own.
 
@@ -1636,7 +1636,7 @@ towards Briarmains, "and it is she who has made me strong. That look of
 
 pity, that gentle touch! No down was ever softer, no elixir more potent!
 
-It lay like a snowflake; it thrilled like lightning. A thousand times I
+It lay like a snowflake; it thrilled like [[Lightning|lightning]]. A thousand times I
 
 have longed to possess that hand--to have it in mine. I _have_ possessed
 

@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 39 (part 3)"
+title: "[[Barnaby Rudge]] — Chapter 39 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -20,7 +20,7 @@ breath. ‘Another stave!’
 Mr Tappertit, nothing loath, began again; and so the three went
 staggering on, arm-in-arm, shouting like madmen, and defying the watch
 with great valour. Indeed this did not require any unusual bravery or
-boldness, as the watchmen of that time, being selected for the office
+boldness, as the watchmen of that [[Time|time]], being selected for the office
 on account of excessive age and extraordinary infirmity, had a custom
 of shutting themselves up tight in their boxes on the first symptoms
 of disturbance, and remaining there until they disappeared. In these
@@ -35,7 +35,7 @@ sly and close. Why don’t you ever tell what trade you’re of?’
 head; ‘why don’t you ever tell what trade you’re of?’
 
 ‘I’m of as gen-teel a calling, brother, as any man in England--as light
-a business as any gentleman could desire.’
+a business as any gentleman could [[Desire|desire]].’
 
 ‘Was you ‘prenticed to it?’ asked Mr Tappertit.
 
@@ -51,11 +51,11 @@ He heaved a deep sigh as he indulged in these reflections, and putting
 his fingers with an absent air on Hugh’s throat, and particularly under
 his left ear, as if he were studying the anatomical development of that
 part of his frame, shook his head in a despondent manner and actually
-shed tears.
+shed [[Tears|tears]].
 
-‘You’re a kind of artist, I suppose--eh!’ said Mr Tappertit.
+‘You’re a kind of [[Artist|artist]], I suppose--eh!’ said Mr Tappertit.
 
-‘Yes,’ rejoined Dennis; ‘yes--I may call myself a artist--a fancy
+‘Yes,’ rejoined Dennis; ‘yes--I may call myself a [[Artist|artist]]--a fancy
 workman--art improves natur’--that’s my motto.’
 
 ‘And what do you call this?’ said Mr Tappertit taking his stick out of
@@ -67,7 +67,7 @@ his hand.
 
 ‘I!’ repeated Dennis, gazing fondly on his image. ‘I wish I had the
 talent. That was carved by a friend of mine, as is now no more. The very
-day afore he died, he cut that with his pocket-knife from memory! “I’ll
+day afore he died, he cut that with his pocket-knife from [[Memory|memory]]! “I’ll
 die game,” says my friend, “and my last moments shall be dewoted to
 making Dennis’s picter.” That’s it.’
 
@@ -79,7 +79,7 @@ subject altogether--a kind of gipsy--one of the finest, stand-up men,
 you ever see. Ah! He told me some things that would startle you a bit,
 did that friend of mine, on the morning when he died.’
 
-‘You were with him at the time, were you?’ said Mr Tappertit.
+‘You were with him at the [[Time|time]], were you?’ said Mr Tappertit.
 
 ‘Yes,’ he answered with a curious look, ‘I was there. Oh! yes certainly,
 I was there. He wouldn’t have gone off half as comfortable without me. I
@@ -109,7 +109,7 @@ times at least: and as to my hat,’ he said, taking it off, and whirling
 it round upon his fist--‘Lord! I’ve seen this hat go up Holborn on the
 box of a hackney-coach--ah, many and many a day!’
 
-‘You don’t mean to say their old wearers are ALL dead, I hope?’ said Mr
+‘You don’t mean to say their old wearers are ALL dead, I [[Hope|hope]]?’ said Mr
 Tappertit, falling a little distance from him as he spoke.
 
 ‘Every one of ‘em,’ replied Dennis. ‘Every man Jack!’
@@ -118,14 +118,14 @@ There was something so very ghastly in this circumstance, and it
 appeared to account, in such a very strange and dismal manner, for his
 faded dress--which, in this new aspect, seemed discoloured by the earth
 from graves--that Mr Tappertit abruptly found he was going another way,
-and, stopping short, bade him good night with the utmost heartiness. As
+and, stopping short, bade him good [[Night|night]] with the utmost heartiness. As
 they happened to be near the Old Bailey, and Mr Dennis knew there were
-turnkeys in the lodge with whom he could pass the night, and discuss
+turnkeys in the lodge with whom he could pass the [[Night|night]], and discuss
 professional subjects of common interest among them before a rousing
-fire, and over a social glass, he separated from his companions without
+[[Fire|fire]], and over a social glass, he separated from his companions without
 any great regret, and warmly shaking hands with Hugh, and making an
 early appointment for their meeting at The Boot, left them to pursue
-their road.
+their [[Road|road]].
 
 ‘That’s a strange sort of man,’ said Mr Tappertit, watching the
 hackney-coachman’s hat as it went bobbing down the street. ‘I don’t know
@@ -135,33 +135,33 @@ live clothes at any rate?’
 ‘He’s a lucky man, captain,’ cried Hugh. ‘I should like to have such
 friends as his.’
 
-‘I hope he don’t get ‘em to make their wills, and then knock ‘em on the
+‘I [[Hope|hope]] he don’t get ‘em to make their wills, and then knock ‘em on the
 head,’ said Mr Tappertit, musing. ‘But come. The United B.’s expect me.
 On!--What’s the matter?’
 
 ‘I quite forgot,’ said Hugh, who had started at the striking of a
-neighbouring clock. ‘I have somebody to see to-night--I must turn back
-directly. The drinking and singing put it out of my head. It’s well I
+neighbouring [[Clock|clock]]. ‘I have somebody to see to-[[Night|night]]--I must turn back
+directly. The drinking and singing put it out of my head. It’s [[Well|well]] I
 remembered it!’
 
 Mr Tappertit looked at him as though he were about to give utterance to
 some very majestic sentiments in reference to this act of desertion, but
 as it was clear, from Hugh’s hasty manner, that the engagement was one
-of a pressing nature, he graciously forbore, and gave him his permission
+of a pressing [[Nature|nature]], he graciously forbore, and gave him his permission
 to depart immediately, which Hugh acknowledged with a roar of laughter.
 
-‘Good night, captain!’ he cried. ‘I am yours to the death, remember!’
+‘Good [[Night|night]], captain!’ he cried. ‘I am yours to the [[Death|death]], remember!’
 
 ‘Farewell!’ said Mr Tappertit, waving his hand. ‘Be bold and vigilant!’
 
 ‘No Popery, captain!’ roared Hugh.
 
-‘England in blood first!’ cried his desperate leader. Whereat Hugh
+‘England in [[Blood|blood]] first!’ cried his desperate leader. Whereat Hugh
 cheered and laughed, and ran off like a greyhound.
 
 ‘That man will prove a credit to my corps,’ said Simon, turning
 thoughtfully upon his heel. ‘And let me see. In an altered state of
 society--which must ensue if we break out and are victorious--when the
-locksmith’s child is mine, Miggs must be got rid of somehow, or she’ll
-poison the tea-kettle one evening when I’m out. He might marry Miggs, if
+locksmith’s [[Child|child]] is mine, Miggs must be got rid of somehow, or she’ll
+[[Poison|poison]] the tea-kettle one evening when I’m out. He might marry Miggs, if
 he was drunk enough. It shall be done. I’ll make a note of it.’

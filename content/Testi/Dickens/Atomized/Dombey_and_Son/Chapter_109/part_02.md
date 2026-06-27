@@ -16,14 +16,14 @@ tags:
 
 Mr Perch resorted to his breast pocket, as if to produce the paragraph
 but receiving no encouragement, pulled out his beaver gloves, picked up
-his hat, and took his leave; and before it was high noon, Mr Perch had
-related to several select audiences at the King’s Arms and elsewhere,
-how Miss Carker, bursting into tears, had caught him by both hands, and
+his hat, and took his leave; and before it was high [[Noon|noon]], Mr Perch had
+related to several select audiences at the [[King]]’s Arms and elsewhere,
+how Miss Carker, bursting into [[Tears|tears]], had caught him by both hands, and
 said, “Oh! dear dear Perch, the sight of you is all the comfort I have
 left!” and how Mr John Carker had said, in an awful voice, “Perch, I
 disown him. Never let me hear him mentioned as a brother more!”
 
-“Dear John,” said Harriet, when they were left alone, and had remained
+“Dear John,” said Harriet, when they were left [[Alone|alone]], and had remained
 silent for some few moments. “There are bad tidings in that letter.”
 
 “Yes. But nothing unexpected,” he replied. “I saw the writer
@@ -31,9 +31,9 @@ yesterday.”
 
 “The writer?”
 
-“Mr Dombey. He passed twice through the Counting House while I was
+“Mr Dombey. He passed twice through the Counting [[house|House]] while I was
 there. I had been able to avoid him before, but of course could not
-hope to do that long. I know how natural it was that he should regard
+[[Hope|hope]] to do that long. I know how natural it was that he should regard
 my presence as something offensive; I felt it must be so, myself.”
 
 “He did not say so?”
@@ -60,20 +60,20 @@ misdeed of another,” she replied gently, “yes.”
 
 “We have been an ill-omened race to him,” said John Carker. “He has
 reason to shrink from the sound of our name, and to think that there is
-something cursed and wicked in our blood. I should almost think it too,
+something cursed and wicked in our [[Blood|blood]]. I should almost think it too,
 Harriet, but for you.”
 
 “Brother, don’t speak like this. If you have any special reason, as you
-say you have, and think you have—though I say, No!—to love me, spare me
+say you have, and think you have—though I say, No!—to [[Love|love]] me, spare me
 the hearing of such wild mad words!”
 
 He covered his face with both his hands; but soon permitted her, coming
 near him, to take one in her own.
 
-“After so many years, this parting is a melancholy thing, I know,” said
+“After so many years, this parting is a [[Melancholy|melancholy]] thing, I know,” said
 his sister, “and the cause of it is dreadful to us both. We have to
-live, too, and must look about us for the means. Well, well! We can do
-so, undismayed. It is our pride, not our trouble, to strive, John, and
+live, too, and must look about us for the means. [[Well]], [[Well|well]]! We can do
+so, undismayed. It is our [[Pride|pride]], not our trouble, to strive, John, and
 to strive together!”
 
 A smile played on her lips, as she kissed his cheek, and entreated him
@@ -87,7 +87,7 @@ every friend of yours away!”
 remembrance of our long companionship!” He was silent “Now, let me tell
 you, dear,” quietly sitting by his side, “I have, as you have, expected
 this; and when I have been thinking of it, and fearing that it would
-happen, and preparing myself for it, as well as I could, I have
+happen, and preparing myself for it, as [[Well|well]] as I could, I have
 resolved to tell you, if it should be so, that I have kept a secret
 from you, and that we have a friend.”
 
@@ -95,14 +95,14 @@ from you, and that we have a friend.”
 smile.
 
 “Indeed, I don’t know, but he once made a very earnest protestation to
-me of his friendship and his wish to serve us: and to this day I
+me of his [[Friendship|friendship]] and his wish to serve us: and to this day I
 believe him.”
 
 “Harriet!” exclaimed her wondering brother, “where does this friend
 live?”
 
 “Neither do I know that,” she returned. “But he knows us both, and our
-history—all our little history, John. That is the reason why, at his
+[[history]]—all our little [[history]], John. That is the reason why, at his
 own suggestion, I have kept the secret of his coming, here, from you,
 lest his acquaintance with it should distress you.”
 
@@ -120,7 +120,7 @@ generous, and frank, and good, I am sure.”
 “In this room only once,” said his sister, with the slightest and most
 transient glow upon her cheek; “but when here, he entreated me to
 suffer him to see me once a week as he passed by, in token of our being
-well, and continuing to need nothing at his hands. For I told him, when
+[[Well|well]], and continuing to need nothing at his hands. For I told him, when
 he proffered us any service he could render—which was the object of his
 visit—that we needed nothing.”
 
@@ -128,7 +128,7 @@ visit—that we needed nothing.”
 
 “Once every week since then, and always on the same day, and at the
 same hour, he his gone past; always on foot; always going in the same
-direction—towards London; and never pausing longer than to bow to me,
+direction—towards [[London]]; and never pausing longer than to bow to me,
 and wave his hand cheerfully, as a kind guardian might. He made that
 promise when he proposed these curious interviews, and has kept it so
 faithfully and pleasantly, that if I ever felt any trifling uneasiness

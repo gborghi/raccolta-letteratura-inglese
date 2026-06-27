@@ -29,7 +29,7 @@ knocker of equal powers been made to produce more deafening sounds than
 this particular engine on the occasion in question.  Having rendered
 these voluntary services, the throng modestly retired a little,
 preferring that the single gentleman should bear their consequences
-alone.
+[[Alone|alone]].
 
 ‘Now, sir, what do you want!’ said a man with a large white bow at his
 button-hole, opening the door, and confronting him with a very stoical
@@ -48,7 +48,7 @@ top to toe.
 mother more tightly through his own, for that good woman evidently had
 it in contemplation to run away.  ‘A right you little dream of.  Mind,
 good people, if this fellow has been marrying a minor--tut, tut, that
-can’t be.  Where is the child you have here, my good fellow.  You call
+can’t be.  Where is the [[Child|child]] you have here, my good fellow.  You call
 her Nell.  Where is she?’
 
 As he propounded this question, which Kit’s mother echoed, somebody in
@@ -61,8 +61,8 @@ has become of her?’
 
 The single gentleman started back, and gazed upon the face of the late
 Mrs Jarley (that morning wedded to the philosophic George, to the
-eternal wrath and despair of Mr Slum the poet), with looks of
-conflicting apprehension, disappointment, and incredulity.  At length
+eternal wrath and [[Despair|despair]] of Mr Slum the poet), with looks of
+conflicting apprehension, disappointment, and [[Incredulity|incredulity]].  At length
 he stammered out,
 
 ‘I ask YOU where she is?  What do you mean?’
@@ -84,41 +84,41 @@ couple, ‘one to whom life itself is not dearer than the two persons
 whom I seek.  They would not know me.  My features are strange to them,
 but if they or either of them are here, take this good woman with you,
 and let them see her first, for her they both know.  If you deny them
-from any mistaken regard or fear for them, judge of my intentions by
+from any mistaken regard or [[Fear|fear]] for them, judge of my intentions by
 their recognition of this person as their old humble friend.’
 
 ‘I always said it!’ cried the bride, ‘I knew she was not a common
-child!  Alas, sir! we have no power to help you, for all that we could
+[[Child|child]]!  Alas, sir! we have no power to help you, for all that we could
 do, has been tried in vain.’
 
 With that, they related to him, without disguise or concealment, all
 that they knew of Nell and her grandfather, from their first meeting
-with them, down to the time of their sudden disappearance; adding
+with them, down to the [[Time|time]] of their sudden disappearance; adding
 (which was quite true) that they had made every possible effort to
-trace them, but without success; having been at first in great alarm
-for their safety, as well as on account of the suspicions to which they
+trace them, but without [[success]]; having been at first in great alarm
+for their safety, as [[Well|well]] as on account of the suspicions to which they
 themselves might one day be exposed in consequence of their abrupt
 departure.  They dwelt upon the old man’s imbecility of mind, upon the
-uneasiness the child had always testified when he was absent, upon the
+uneasiness the [[Child|child]] had always testified when he was absent, upon the
 company he had been supposed to keep, and upon the increased depression
 which had gradually crept over her and changed her both in health and
-spirits.  Whether she had missed the old man in the night, and knowing
+spirits.  Whether she had missed the old man in the [[Night|night]], and knowing
 or conjecturing whither he had bent his steps, had gone in pursuit, or
-whether they had left the house together, they had no means of
+whether they had left the [[house]] together, they had no means of
 determining.  Certain they considered it, that there was but slender
 prospect left of hearing of them again, and that whether their flight
-originated with the old man, or with the child, there was now no hope
+originated with the old man, or with the [[Child|child]], there was now no [[Hope|hope]]
 of their return.  To all this, the single gentleman listened with the
 air of a man quite borne down by grief and disappointment.  He shed
-tears when they spoke of the grandfather, and appeared in deep
+[[Tears|tears]] when they spoke of the grandfather, and appeared in deep
 affliction.
 
 Not to protract this portion of our narrative, and to make short work
 of a long story, let it be briefly written that before the interview
 came to a close, the single gentleman deemed he had sufficient evidence
-of having been told the truth, and that he endeavoured to force upon
+of having been told the [[Truth|truth]], and that he endeavoured to force upon
 the bride and bridegroom an acknowledgment of their kindness to the
-unfriended child, which, however, they steadily declined accepting.  In
+unfriended [[Child|child]], which, however, they steadily declined accepting.  In
 the end, the happy couple jolted away in the caravan to spend their
 honeymoon in a country excursion; and the single gentleman and Kit’s
 mother stood ruefully before their carriage-door.
@@ -130,15 +130,15 @@ going to add ‘inn,’ but he added it for the sake of Kit’s mother; and
 to the inn they went.
 
 Rumours had already got abroad that the little girl who used to show
-the wax-work, was the child of great people who had been stolen from
+the wax-work, was the [[Child|child]] of great people who had been stolen from
 her parents in infancy, and had only just been traced.  Opinion was
 divided whether she was the daughter of a prince, a duke, an earl, a
 viscount, or a baron, but all agreed upon the main fact, and that the
 single gentleman was her father; and all bent forward to catch a
 glimpse, though it were only of the tip of his noble nose, as he rode
-away, desponding, in his four-horse chaise.
+away, desponding, in his four-[[Horse|horse]] chaise.
 
 What would he have given to know, and what sorrow would have been saved
-if he had only known, that at that moment both child and grandfather
+if he had only known, that at that moment both [[Child|child]] and grandfather
 were seated in the old church porch, patiently awaiting the
 schoolmaster’s return!

@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 56 (part 2)"
+title: "[[Pride and Prejudice]] — Chapter 56 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -18,7 +18,7 @@ tags:
 may ask questions which _I_ shall not choose to answer.”
 
 “This is not to be borne. Miss Bennet, I insist on being satisfied. Has
-he, has my nephew, made you an offer of marriage?”
+he, has my nephew, made you an offer of [[Marriage|marriage]]?”
 
 “Your Ladyship has declared it to be impossible.”
 
@@ -47,9 +47,9 @@ Lady Catherine hesitated for a moment, and then replied,--
 
 “The engagement between them is of a peculiar kind. From their infancy,
 they have been intended for each other. It was the favourite wish of
-_his_ mother, as well as of hers. While in their cradles we planned the
-union; and now, at the moment when the wishes of both sisters would be
-accomplished, is their marriage to be prevented by a young woman of
+_his_ mother, as [[Well|well]] as of hers. While in their cradles we planned the
+[[Union|union]]; and now, at the moment when the wishes of both sisters would be
+accomplished, is their [[Marriage|marriage]] to be prevented by a young woman of
 inferior birth, of no importance in the world, and wholly unallied to
 the family? Do you pay no regard to the wishes of his friends--to his
 tacit engagement with Miss de Bourgh? Are you lost to every feeling of
@@ -60,11 +60,11 @@ earliest hours he was destined for his cousin?”
 other objection to my marrying your nephew, I shall certainly not be
 kept from it by knowing that his mother and aunt wished him to marry
 Miss de Bourgh. You both did as much as you could in planning the
-marriage. Its completion depended on others. If Mr. Darcy is neither by
-honour nor inclination confined to his cousin, why is not he to make
+[[Marriage|marriage]]. Its completion depended on others. If Mr. Darcy is neither by
+[[Honour|honour]] nor inclination confined to his cousin, why is not he to make
 another choice? And if I am that choice, why may not I accept him?”
 
-“Because honour, decorum, prudence--nay, interest--forbid it. Yes, Miss
+“Because [[Honour|honour]], decorum, prudence--nay, interest--forbid it. Yes, Miss
 Bennet, interest; for do not expect to be noticed by his family or
 friends, if you wilfully act against the inclinations of all. You will
 be censured, slighted, and despised, by everyone connected with him.
@@ -77,7 +77,7 @@ attached to her situation, that she could, upon the whole, have no cause
 to repine.”
 
 “Obstinate, headstrong girl! I am ashamed of you! Is this your gratitude
-for my attentions to you last spring? Is nothing due to me on that
+for my attentions to you last [[spring]]? Is nothing due to me on that
 score? Let us sit down. You are to understand, Miss Bennet, that I came
 here with the determined resolution of carrying my purpose; nor will I
 be dissuaded from it. I have not been used to submit to any person’s
@@ -86,7 +86,7 @@ whims. I have not been in the habit of brooking disappointment.”
 “_That_ will make your Ladyship’s situation at present more pitiable;
 but it will have no effect on _me_.”
 
-“I will not be interrupted! Hear me in silence. My daughter and my
+“I will not be interrupted! Hear me in [[Silence|silence]]. My daughter and my
 nephew are formed for each other. They are descended, on the maternal
 side, from the same noble line; and, on the father’s, from respectable,
 honourable, and ancient, though untitled, families. Their fortune on
@@ -130,7 +130,7 @@ assurance I require.”
 “And I certainly _never_ shall give it. I am not to be intimidated into
 anything so wholly unreasonable. Your Ladyship wants Mr. Darcy to marry
 your daughter; but would my giving you the wished-for promise make
-_their_ marriage at all more probable? Supposing him to be attached to
+_their_ [[Marriage|marriage]] at all more probable? Supposing him to be attached to
 me, would _my_ refusing to accept his hand make him wish to bestow it on
 his cousin? Allow me to say, Lady Catherine, that the arguments with
 which you have supported this extraordinary application have been as

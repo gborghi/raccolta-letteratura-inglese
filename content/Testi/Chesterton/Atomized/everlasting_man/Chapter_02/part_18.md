@@ -14,40 +14,40 @@ tags:
 </nav>
 
 
-One fact does certainly fall across us like its shadow.
+One fact does certainly fall across us like its [[Shadow|shadow]].
 Our glimpses of both these early empires show that the first domestic
 relation had been complicated by something which was less human,
 but was often regarded as equally domestic.  The dark giant called
-Slavery had been called up like a genii and was labouring on gigantic
+[[Slavery]] had been called up like a genii and was labouring on gigantic
 works of brick and stone.  Here again we must not too easily assume
 that what was backward was barbaric; in the matter of manumission
 the earlier servitude seems in some ways more liberal than the later;
 perhaps more liberal than the servitude of the future.
 To insure food for humanity by forcing part of it to work was after all
 a very human expedient; which is why it will probably be tried again.
-But in one sense there is a significance in the old slavery.
+But in one sense there is a significance in the old [[Slavery|slavery]].
 It stands for one fundamental fact about all antiquity
-before Christ; something to be assumed from first to last.
+before [[Christ]]; something to be assumed from first to last.
 It is the insignificance of the individual before the State.
-It was as true of the most democratic City State in Hellas as of any
+It was as true of the most democratic [[City]] State in Hellas as of any
 despotism in Babylon.  It is one of the signs of this spirit that a
 whole class of individuals could be insignificant or even invisible.
 It must be normal because it was needed for what would now be
 called 'social service.'  Somebody said, 'The Man is nothing and
 the Work is all,' meaning it for a breezy Carlylean commonplace.
 It was the sinister motto of the heathen Servile State.
-In that sense there is truth in the traditional vision of vast
+In that sense there is [[Truth|truth]] in the traditional vision of vast
 pillars and pyramids going up under those everlasting skies for ever
 by the labour of numberless and nameless men, toiling like ants
 and dying like flies, wiped out by the work of their own hands.
 
 But there are two other reasons for beginning with the two fixed points
-of Egypt and Babylon.  For one thing they are fixed in tradition
-as the types of antiquity; and history without tradition is dead.
-Babylon is still the burden of a nursery rhyme, and Egypt
+of [[Egypt]] and Babylon.  For one thing they are fixed in tradition
+as the types of antiquity; and [[history]] without tradition is dead.
+Babylon is still the burden of a nursery rhyme, and [[Egypt]]
 (with its enormous population of princesses awaiting reincarnation)
 is still the topic of an unnecessary number of novels.
-But a tradition is generally a truth; so long as the tradition
+But a tradition is generally a [[Truth|truth]]; so long as the tradition
 is sufficiently popular; even if it is almost vulgar.  And there
 is a significance in this Babylonian and Egyptian element in nursery
 rhymes and novels; even the news papers, normally so much behind
@@ -70,7 +70,7 @@ to fall, even those who are most intelligent and perhaps especially
 those who are most imaginative.  It is the fallacy of suppositing
 that because an idea is greater in the sense of larger, therefore it
 is greater in the sense of more fundamental and fixed and certain.
-If a man lives alone in a straw hut in the middle of Thibet, he may be
+If a man lives [[Alone|alone]] in a straw hut in the middle of Thibet, he may be
 told that he is living in the Chinese Empire; and the Chinese Empire
 is certainly a splendid and spacious and impressive thing.
 Or alternatively he may be told that he is living in the British Empire,
@@ -93,14 +93,14 @@ is a deduction, and doubtless a true deduction; but the point is that it
 is a very vast and far-reaching deduction and therefore he forgets
 that it is a deduction at all and treats it as a first principle.
 He might discover that the whole calculation is a mis-calculation;
-and the sun and stars and street-lamps would look exactly the same.
+and the sun and [[Stars|stars]] and street-lamps would look exactly the same.
 But he has forgotten that it is a calculation, and is almost ready
 to contradict the sun if it does not fit into the solar system.
-If this is a fallacy even in the case of facts pretty well ascertained,
+If this is a fallacy even in the case of facts pretty [[Well|well]] ascertained,
 such as the Solar System and the Chinese Empire, it is an even
 more devastating fallacy in connection with theories and other
-things that are not really ascertained at all.  Thus history,
-especially prehistoric history, has a horrible habit of beginning
+things that are not really ascertained at all.  Thus [[history]],
+especially prehistoric [[history]], has a horrible habit of beginning
 with certain generalisations about races.  I will not describe
 the disorder and misery this inversion has produced in modern politics.
 Because the race is vaguely supposed to have produced the nation,
@@ -135,8 +135,8 @@ theories have shifted a great deal in their shape and scope;
 but this habit of a rapid hardening of a hypothesis into a theory,
 and of a theory into an assumption, has hardly yet gone out of fashion.
 People cannot easily get rid of the mental confusion of feeling
-that the foundations of history must surely be secure; that the first
+that the foundations of [[history]] must surely be secure; that the first
 steps must be safe; that the biggest generalisation must be obvious.
-But though the contradiction may seem to them a paradox, this is
-the very contrary of the truth.  It is the large thing that is secret
+But though the contradiction may seem to them a [[Paradox|paradox]], this is
+the very contrary of the [[Truth|truth]].  It is the large thing that is secret
 and invisible; it is the small thing that is evident and enormous.

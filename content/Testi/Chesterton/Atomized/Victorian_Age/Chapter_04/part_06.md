@@ -28,17 +28,17 @@ liked.
 
 
 
-Thus the Anarchists and Socialists fought a battle over the death-bed of
+Thus the Anarchists and Socialists fought a battle over the [[Death|death]]-bed of
 
 Victorian Industrialism; in which the Socialists (that is, those who
 
-stood for increasing instead of diminishing the power of Government) won
+stood for increasing instead of diminishing the power of [[government|Government]]) won
 
 a complete victory and have almost exterminated their enemy. The
 
 Anarchist one meets here and there nowadays is a sad sight; he is
 
-disappointed with the future, as well as with the past.
+disappointed with the future, as [[Well|well]] as with the past.
 
 
 
@@ -56,11 +56,11 @@ to which he had been bred, came out as the champion of Socialism not as
 
 a matter of sentiment, but as a matter of common sense. The primary
 
-position of Bernard Shaw towards the Victorian Age may be roughly
+position of Bernard [[Shaw]] towards the Victorian Age may be roughly
 
 summarised thus: the typical Victorian said coolly: "Our system may not
 
-be a perfect system, but it works." Bernard Shaw replied, even more
+be a perfect system, but it works." Bernard [[Shaw]] replied, even more
 
 coolly: "It may be a perfect system, for all I know or care. But it does
 
@@ -74,23 +74,23 @@ concentrate on its clumsiness, its ludicrous incapacity to do its own
 
 work. This campaign succeeded, in the sense that while (in the educated
 
-world) it was the Socialist who looked the fool at the beginning of that
+world) it was the Socialist who looked the [[Fool|fool]] at the beginning of that
 
-campaign, it is the Anti-Socialist who looks the fool at the end of it.
+campaign, it is the Anti-Socialist who looks the [[Fool|fool]] at the end of it.
 
 But while it won the educated classes it lost the populace for ever. It
 
-dried up those springs of blood and tears out of which all revolt must
+dried up those springs of [[Blood|blood]] and [[Tears|tears]] out of which all revolt must
 
 come if it is to be anything but bureaucratic readjustment. We began
 
-this book with the fires of the French Revolution still burning, but
+this book with the fires of the [[French Revolution]] still burning, but
 
-burning low. Bernard Shaw was honestly in revolt in his own way: but it
+burning low. Bernard [[Shaw]] was honestly in revolt in his own way: but it
 
-was Bernard Shaw who trod out the last ember of the Great Revolution.
+was Bernard [[Shaw]] who trod out the last ember of the Great Revolution.
 
-Bernard Shaw proceeded to apply to many other things the same sort of
+Bernard [[Shaw]] proceeded to apply to many other things the same sort of
 
 hilarious realism which he thus successfully applied to the industrial
 
@@ -100,31 +100,31 @@ of his mind was a more appetising and less raw-looking object than a
 
 piece of Hardy's. There were many modes of revolt growing all around
 
-him; Shaw supported them--and supplanted them. Many were pitting the
+him; [[Shaw]] supported them--and supplanted them. Many were pitting the
 
-realism of war against the romance of war: they succeeded in making the
+realism of war against the [[Romance|romance]] of war: they succeeded in making the
 
-fight dreary and repulsive, but the book dreary and repulsive too. Shaw,
+fight dreary and repulsive, but the book dreary and repulsive too. [[Shaw]],
 
-in _Arms and the Man_, did manage to make war funny as well as
+in _Arms and the Man_, did manage to make war funny as [[Well|well]] as
 
-frightful. Many were questioning the right of revenge or punishment; but
+frightful. Many were questioning the right of [[Revenge|revenge]] or punishment; but
 
 they wrote their books in such a way that the reader was ready to
 
-release all mankind if he might revenge himself on the author. Shaw, in
+release all mankind if he might [[Revenge|revenge]] himself on the author. [[Shaw]], in
 
 _Captain Brassbound's Conversion_, really showed at its best the merry
 
-mercy of the pagan; that beautiful human nature that can neither rise to
+[[Mercy|mercy]] of the pagan; that beautiful human [[Nature|nature]] that can neither rise to
 
-penance nor sink to revenge. Many had proved that even the most
+penance nor sink to [[Revenge|revenge]]. Many had proved that even the most
 
-independent incomes drank blood out of the veins of the oppressed: but
+independent incomes drank [[Blood|blood]] out of the veins of the oppressed: but
 
 they wrote it in such a style that their readers knew more about
 
-depression than oppression. In _Widowers' Houses_ Shaw very nearly (but
+depression than oppression. In _Widowers' Houses_ [[Shaw]] very nearly (but
 
 not quite) succeeded in making a farce out of statistics. And the
 
@@ -136,7 +136,7 @@ said "widows' houses," it suddenly occurs to him to say "but what about
 
 widowers' houses?" There is a sort of insane equity about it which was
 
-what Bernard Shaw had the power to give, and gave.
+what Bernard [[Shaw]] had the power to give, and gave.
 
 
 
@@ -146,19 +146,19 @@ genius, Mr. H. G. Wells. His first importance was that he wrote great
 
 adventure stories in the new world the men of science had discovered. He
 
-walked on a round slippery world as boldly as Ulysses or Tom Jones had
+walked on a round slippery world as boldly as [[Ulysses]] or Tom [[Jones]] had
 
 worked on a flat one. Cyrano de Bergerac or Baron Munchausen, or other
 
-typical men of science, had treated the moon as a mere flat silver
+typical men of science, had treated the [[Moon|moon]] as a mere flat silver
 
-mirror in which Man saw his own image--the Man in the Moon. Wells
+[[Mirror|mirror]] in which Man saw his own image--the Man in the [[Moon]]. Wells
 
-treated the moon as a globe, like our own; bringing forth monsters as
+treated the [[Moon|moon]] as a globe, like our own; bringing forth monsters as
 
 moonish as we are earthy. The exquisitely penetrating political and
 
-social satire he afterwards wrote belongs to an age later than the
+social [[Satire|satire]] he afterwards wrote belongs to an age later than the
 
 Victorian. But because, even from the beginning, his whole trend was
 
@@ -168,25 +168,25 @@ Socialist, it is right to place him here.
 
 While the old Victorian ideas were being disturbed by an increasing
 
-torture at home, they were also intoxicated by a new romance from
+torture at [[Home|home]], they were also intoxicated by a new [[Romance|romance]] from
 
-abroad. It did not come from Italy with Rossetti and Browning, or from
+abroad. It did not come from [[Italy]] with Rossetti and Browning, or from
 
 Persia with Fitzgerald: but it came from countries as remote, countries
 
 which were (as the simple phrase of that period ran) "painted red" on
 
-the map. It was an attempt to reform England through the newer nations;
+the map. It was an attempt to [[Reform|reform]] England through the newer nations;
 
 by the criticism of the forgotten colonies, rather than of the forgotten
 
 classes. Both Socialism and Imperialism were utterly alien to the
 
-Victorian idea. From the point of view of a Victorian aristocrat like
+Victorian idea. From the point of view of a Victorian [[aristocrat]] like
 
 Palmerston, Socialism would be the cheek of gutter snipes; Imperialism
 
-would be the intrusion of cads. But cads are not alone concerned.
+would be the intrusion of cads. But cads are not [[Alone|alone]] concerned.
 
 
 
@@ -194,6 +194,6 @@ Broadly, the phase in which the Victorian epoch closed was what can only
 
 be called the Imperialist phase. Between that and us stands a very
 
-individual artist who must nevertheless be connected with that phase. As
+individual [[artist]] who must nevertheless be connected with that phase. As
 
 I said at the beginning, Macaulay (or, rather, the mind Macaulay shared

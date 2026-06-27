@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 16 (part 3)"
+title: "Bleak [[house|House]] — Chapter 16 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -20,7 +20,7 @@ crossing where Jo plies with his broom. He crosses with her and begs.
 Still, she does not turn her head until she has landed on the other
 side. Then she slightly beckons to him and says, “Come here!”
 
-Jo follows her a pace or two into a quiet court.
+Jo follows her a pace or two into a quiet [[Court|court]].
 
 “Are you the boy I’ve read of in the papers?” she asked behind her
 veil.
@@ -53,7 +53,7 @@ know him, did you?”
 
 “How dare you ask me if I knew him?”
 
-“No offence, my lady,” says Jo with much humility, for even he has
+“No offence, my lady,” says Jo with much [[Humility|humility]], for even he has
 got at the suspicion of her being a lady.
 
 “I am not a lady. I am a servant.”
@@ -72,7 +72,7 @@ mentioned.
 
 “Go before me and show me all those dreadful places. Stop opposite to
 each, and don’t speak to me unless I speak to you. Don’t look back.
-Do what I want, and I will pay you well.”
+Do what I want, and I will pay you [[Well|well]].”
 
 Jo attends closely while the words are being spoken; tells them off
 on his broom-handle, finding them rather hard; pauses to consider
@@ -92,7 +92,7 @@ Jo screws up his mouth into a whistle, gives his ragged head a rub,
 takes his broom under his arm, and leads the way, passing deftly with
 his bare feet over the hard stones and through the mud and mire.
 
-Cook’s Court. Jo stops. A pause.
+Cook’s [[Court]]. Jo stops. A pause.
 
 “Who lives here?”
 
@@ -101,13 +101,13 @@ whisper without looking over his shoulder.
 
 “Go on to the next.”
 
-Krook’s house. Jo stops again. A longer pause.
+Krook’s [[house]]. Jo stops again. A longer pause.
 
 “Who lives here?”
 
 “HE lived here,” Jo answers as before.
 
-After a silence he is asked, “In which room?”
+After a [[Silence|silence]] he is asked, “In which room?”
 
 “In the back room up there. You can see the winder from this corner.
 Up there! That’s where I see him stritched out. This is the
@@ -118,7 +118,7 @@ public-ouse where I was took to.”
 It is a longer walk to the next, but Jo, relieved of his first
 suspicions, sticks to the forms imposed upon him and does not look
 round. By many devious ways, reeking with offence of many kinds, they
-come to the little tunnel of a court, and to the gas-lamp (lighted
+come to the little tunnel of a [[Court|court]], and to the gas-lamp (lighted
 now), and to the iron gate.
 
 “He was put there,” says Jo, holding to the bars and looking in.
@@ -168,18 +168,18 @@ spot again!”
 Jo thrusts the handle of his broom between the bars of the gate, and
 with his utmost power of elaboration, points it out. At length,
 looking aside to see if he has made himself intelligible, he finds
-that he is alone.
+that he is [[Alone|alone]].
 
 His first proceeding is to hold the piece of money to the gas-light
 and to be overpowered at finding that it is yellow—gold. His next is
 to give it a one-sided bite at the edge as a test of its quality.
 His next, to put it in his mouth for safety and to sweep the
 step and passage with great care. His job done, he sets off for
-Tom-all-Alone’s, stopping in the light of innumerable gas-lamps to
+Tom-all-[[Alone]]’s, stopping in the light of innumerable gas-lamps to
 produce the piece of gold and give it another one-sided bite as a
 reassurance of its being genuine.
 
-The Mercury in powder is in no want of society to-night, for my Lady
+The Mercury in powder is in no want of society to-[[Night|night]], for my Lady
 goes to a grand dinner and three or four balls. Sir Leicester is
 fidgety down at Chesney Wold, with no better company than the gout;
 he complains to Mrs. Rouncewell that the rain makes such a monotonous
@@ -187,6 +187,6 @@ pattering on the terrace that he can’t read the paper even by the
 fireside in his own snug dressing-room.
 
 “Sir Leicester would have done better to try the other side of the
-house, my dear,” says Mrs. Rouncewell to Rosa. “His dressing-room is
+[[house]], my dear,” says Mrs. Rouncewell to Rosa. “His dressing-room is
 on my Lady’s side. And in all these years I never heard the step upon
-the Ghost’s Walk more distinct than it is to-night!”
+the [[Ghost]]’s Walk more distinct than it is to-[[Night|night]]!”

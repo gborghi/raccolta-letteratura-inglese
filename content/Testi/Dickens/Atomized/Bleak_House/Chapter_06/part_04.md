@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 6 (part 4)"
+title: "Bleak [[house|House]] — Chapter 6 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -17,36 +17,36 @@ tags:
 I gathered from the conversation that Mr. Skimpole had been educated
 for the medical profession and had once lived, in his professional
 capacity, in the household of a German prince. He told us, however,
-that as he had always been a mere child in point of weights and
+that as he had always been a mere [[Child|child]] in point of weights and
 measures and had never known anything about them (except that they
 disgusted him), he had never been able to prescribe with the
 requisite accuracy of detail. In fact, he said, he had no head for
-detail. And he told us, with great humour, that when he was wanted to
+detail. And he told us, with great [[Humour|humour]], that when he was wanted to
 bleed the prince or physic any of his people, he was generally found
 lying on his back in bed, reading the newspapers or making
 fancy-sketches in pencil, and couldn’t come. The prince, at last,
 objecting to this, “in which,” said Mr. Skimpole, in the frankest
 manner, “he was perfectly right,” the engagement terminated, and Mr.
 Skimpole having (as he added with delightful gaiety) “nothing to live
-upon but love, fell in love, and married, and surrounded himself with
+upon but [[Love|love]], fell in [[Love|love]], and married, and surrounded himself with
 rosy cheeks.” His good friend Jarndyce and some other of his good
 friends then helped him, in quicker or slower succession, to several
 openings in life, but to no purpose, for he must confess to two of
 the oldest infirmities in the world: one was that he had no idea of
-time, the other that he had no idea of money. In consequence of which
+[[Time|time]], the other that he had no idea of money. In consequence of which
 he never kept an appointment, never could transact any business, and
-never knew the value of anything! Well! So he had got on in life, and
+never knew the value of anything! [[Well]]! So he had got on in life, and
 here he was! He was very fond of reading the papers, very fond of
-making fancy-sketches with a pencil, very fond of nature, very fond
+making fancy-sketches with a pencil, very fond of [[Nature|nature]], very fond
 of art. All he asked of society was to let him live. THAT wasn’t
 much. His wants were few. Give him the papers, conversation, music,
 mutton, coffee, landscape, fruit in the season, a few sheets of
 Bristol-board, and a little claret, and he asked no more. He was a
-mere child in the world, but he didn’t cry for the moon. He said to
+mere [[Child|child]] in the world, but he didn’t cry for the [[Moon|moon]]. He said to
 the world, “Go your several ways in peace! Wear red coats, blue
 coats, lawn sleeves; put pens behind your ears, wear aprons; go after
 glory, holiness, commerce, trade, any object you prefer; only—let
-Harold Skimpole live!”
+[[Harold Skimpole]] live!”
 
 All this and a great deal more he told us, not only with the
 utmost brilliancy and enjoyment, but with a certain vivacious
@@ -54,7 +54,7 @@ candour—speaking of himself as if he were not at all his own affair,
 as if Skimpole were a third person, as if he knew that Skimpole had
 his singularities but still had his claims too, which were the
 general business of the community and must not be slighted. He was
-quite enchanting. If I felt at all confused at that early time in
+quite enchanting. If I felt at all confused at that early [[Time|time]] in
 endeavouring to reconcile anything he said with anything I had
 thought about the duties and accountabilities of life (which I am far
 from sure of), I was confused by not exactly understanding why he was
@@ -63,7 +63,7 @@ very clear about it himself.
 
 “I covet nothing,” said Mr. Skimpole in the same light way.
 “Possession is nothing to me. Here is my friend Jarndyce’s excellent
-house. I feel obliged to him for possessing it. I can sketch it and
+[[house]]. I feel obliged to him for possessing it. I can [[Sketch|sketch]] it and
 alter it. I can set it to music. When I am here, I have sufficient
 possession of it and have neither trouble, cost, nor responsibility.
 My steward’s name, in short, is Jarndyce, and he can’t cheat me. We
@@ -73,15 +73,15 @@ into objects with surprising ardour! I don’t regret that I have not a
 strong will and an immense power of business detail to throw myself
 into objects with surprising ardour. I can admire her without envy. I
 can sympathize with the objects. I can dream of them. I can lie down
-on the grass—in fine weather—and float along an African river,
-embracing all the natives I meet, as sensible of the deep silence and
+on the grass—in fine weather—and float along an African [[River|river]],
+embracing all the natives I meet, as sensible of the deep [[Silence|silence]] and
 sketching the dense overhanging tropical growth as accurately as if I
 were there. I don’t know that it’s of any direct use my doing so, but
 it’s all I can do, and I do it thoroughly. Then, for heaven’s sake,
-having Harold Skimpole, a confiding child, petitioning you, the
+having [[Harold Skimpole]], a confiding [[Child|child]], petitioning you, the
 world, an agglomeration of practical people of business habits, to
 let him live and admire the human family, do it somehow or other,
-like good souls, and suffer him to ride his rocking-horse!”
+like good souls, and suffer him to ride his rocking-[[Horse|horse]]!”
 
 It was plain enough that Mr. Jarndyce had not been neglectful of the
 adjuration. Mr. Skimpole’s general position there would have rendered
@@ -102,21 +102,21 @@ consequences? I don’t regret it therefore.”
 
 Of all his playful speeches (playful, yet always fully meaning what
 they expressed) none seemed to be more to the taste of Mr. Jarndyce
-than this. I had often new temptations, afterwards, to wonder whether
+than this. I had often new temptations, afterwards, to [[Wonder|wonder]] whether
 it was really singular, or only singular to me, that he, who was
 probably the most grateful of mankind upon the least occasion, should
-so desire to escape the gratitude of others.
+so [[Desire|desire]] to escape the gratitude of others.
 
 We were all enchanted. I felt it a merited tribute to the engaging
-qualities of Ada and Richard that Mr. Skimpole, seeing them for the
-first time, should be so unreserved and should lay himself out to be
-so exquisitely agreeable. They (and especially Richard) were
+qualities of Ada and [[Richard]] that Mr. Skimpole, seeing them for the
+first [[Time|time]], should be so unreserved and should lay himself out to be
+so exquisitely agreeable. They (and especially [[Richard]]) were
 naturally pleased, for similar reasons, and considered it no common
 privilege to be so freely confided in by such an attractive man. The
 more we listened, the more gaily Mr. Skimpole talked. And what with
 his fine hilarious manner and his engaging candour and his genial way
 of lightly tossing his own weaknesses about, as if he had said, “I am
-a child, you know! You are designing people compared with me” (he
+a [[Child|child]], you know! You are designing people compared with me” (he
 really made me consider myself in that light) “but I am gay and
-innocent; forget your worldly arts and play with me!” the effect was
+[[Innocent|innocent]]; forget your worldly arts and play with me!” the effect was
 absolutely dazzling.

@@ -1,5 +1,5 @@
 ---
-title: "A Christmas Carol — Stave 2: THE FIRST OF THE THREE SPIRITS (part 4)"
+title: "A Christmas [[carol|Carol]] — Stave 2: THE FIRST OF THE THREE SPIRITS (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Christmas-Carol-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-"Yo ho, my boys!" said Fezziwig. "No more work to-night.
+"Yo ho, my boys!" said Fezziwig. "No more work to-[[Night|night]].
 Christmas Eve, Dick. Christmas, Ebenezer! Let's
 have the shutters up," cried old Fezziwig, with a sharp clap
 of his hands, "before a man can say Jack Robinson!"
@@ -35,9 +35,9 @@ away, or couldn't have cleared away, with old Fezziwig looking
 on. It was done in a minute. Every movable was packed off, as if
 it were dismissed from public life for evermore; the floor was
 swept and watered, the lamps were trimmed, fuel was heaped upon
-the fire; and the warehouse was as snug, and warm, and dry, and
-bright a ball-room, as you would desire to see upon a winter's
-night.
+the [[Fire|fire]]; and the warehouse was as snug, and warm, and dry, and
+bright a ball-room, as you would [[Desire|desire]] to see upon a [[Winter|winter]]'s
+[[Night|night]].
 
 In came a fiddler with a music-book, and went up to the
 lofty desk, and made an orchestra of it, and tuned like fifty
@@ -59,13 +59,13 @@ the other way; down the middle and up again; round
 and round in various stages of affectionate grouping; old
 top couple always turning up in the wrong place; new top
 couple starting off again, as soon as they got there; all top
-couples at last, and not a bottom one to help them! When
+couples at last, and not a [[Bottom|bottom]] one to help them! When
 this result was brought about, old Fezziwig, clapping his
-hands to stop the dance, cried out, "Well done!" and the
+hands to stop the [[Dance|dance]], cried out, "[[Well]] done!" and the
 fiddler plunged his hot face into a pot of porter, especially
 provided for that purpose. But scorning rest, upon his
 reappearance, he instantly began again, though there were no
-dancers yet, as if the other fiddler had been carried home,
+dancers yet, as if the other fiddler had been carried [[Home|home]],
 exhausted, on a shutter, and he were a bran-new man
 resolved to beat him out of sight, or perish.
 
@@ -77,10 +77,10 @@ But the great effect of the evening came after the Roast
 and Boiled, when the fiddler (an artful dog, mind! The sort
 of man who knew his business better than you or I could
 have told it him!) struck up "Sir Roger de Coverley."  Then
-old Fezziwig stood out to dance with Mrs. Fezziwig. Top
+old Fezziwig stood out to [[Dance|dance]] with Mrs. Fezziwig. Top
 couple, too; with a good stiff piece of work cut out for them;
 three or four and twenty pair of partners; people who were
-not to be trifled with; people who would dance, and had no
+not to be trifled with; people who would [[Dance|dance]], and had no
 notion of walking.
 
 But if they had been twice as many--ah, four times--old
@@ -89,16 +89,16 @@ Mrs. Fezziwig. As to her, she was worthy to be his partner
 in every sense of the term. If that's not high praise, tell me
 higher, and I'll use it. A positive light appeared to issue
 from Fezziwig's calves. They shone in every part of the
-dance like moons. You couldn't have predicted, at any given
-time, what would have become of them next. And when old
-Fezziwig and Mrs. Fezziwig had gone all through the dance;
+[[Dance|dance]] like moons. You couldn't have predicted, at any given
+[[Time|time]], what would have become of them next. And when old
+Fezziwig and Mrs. Fezziwig had gone all through the [[Dance|dance]];
 advance and retire, both hands to your partner, bow and
 curtsey, corkscrew, thread-the-needle, and back again to
 your place; Fezziwig "cut"--cut so deftly, that he appeared
 to wink with his legs, and came upon his feet again without
 a stagger.
 
-When the clock struck eleven, this domestic ball broke up.
+When the [[Clock|clock]] struck eleven, this domestic ball broke up.
 Mr. and Mrs. Fezziwig took their stations, one on either side
 of the door, and shaking hands with every person individually
 as he or she went out, wished him or her a Merry Christmas.
@@ -107,17 +107,17 @@ the same to them; and thus the cheerful voices died away,
 and the lads were left to their beds; which were under a
 counter in the back-shop.
 
-During the whole of this time, Scrooge had acted like a
-man out of his wits. His heart and soul were in the scene,
-and with his former self. He corroborated everything,
+During the whole of this [[Time|time]], Scrooge had acted like a
+man out of his wits. His heart and [[Soul|soul]] were in the scene,
+and with his former [[Self|self]]. He corroborated everything,
 remembered everything, enjoyed everything, and underwent
 the strangest agitation. It was not until now, when the
-bright faces of his former self and Dick were turned from
-them, that he remembered the Ghost, and became conscious
+bright faces of his former [[Self|self]] and Dick were turned from
+them, that he remembered the [[Ghost]], and became conscious
 that it was looking full upon him, while the light upon its
 head burnt very clear.
 
-"A small matter," said the Ghost, "to make these silly
+"A small matter," said the [[Ghost]], "to make these silly
 folks so full of gratitude."
 
 "Small!" echoed Scrooge.
@@ -131,7 +131,7 @@ your mortal money: three or four perhaps. Is that so
 much that he deserves this praise?"
 
 "It isn't that," said Scrooge, heated by the remark, and
-speaking unconsciously like his former, not his latter, self.
+speaking unconsciously like his former, not his latter, [[Self|self]].
 "It isn't that, Spirit. He has the power to render us happy
 or unhappy; to make our service light or burdensome; a
 pleasure or a toil. Say that his power lies in words and

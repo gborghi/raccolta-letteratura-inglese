@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 8 (part 3)"
+title: "Bleak [[house|House]] — Chapter 8 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“I hope, sir—” said I.
+“I [[Hope|hope]], sir—” said I.
 
 “I think you had better call me guardian, my dear.”
 
@@ -25,21 +25,21 @@ housekeeping keys the least shake in the world as a reminder to
 myself, and folding my hands in a still more determined manner on the
 basket, looked at him quietly.
 
-“I hope, guardian,” said I, “that you may not trust too much to my
-discretion. I hope you may not mistake me. I am afraid it will be a
+“I [[Hope|hope]], guardian,” said I, “that you may not trust too much to my
+discretion. I [[Hope|hope]] you may not mistake me. I am afraid it will be a
 disappointment to you to know that I am not clever, but it really is
-the truth, and you would soon find it out if I had not the honesty to
+the [[Truth|truth]], and you would soon find it out if I had not the honesty to
 confess it.”
 
 He did not seem at all disappointed; quite the contrary. He told me,
-with a smile all over his face, that he knew me very well indeed and
+with a smile all over his face, that he knew me very [[Well|well]] indeed and
 that I was quite clever enough for him.
 
-“I hope I may turn out so,” said I, “but I am much afraid of it,
+“I [[Hope|hope]] I may turn out so,” said I, “but I am much afraid of it,
 guardian.”
 
 “You are clever enough to be the good little woman of our lives here,
-my dear,” he returned playfully; “the little old woman of the child’s
+my dear,” he returned playfully; “the little old woman of the [[Child|child]]’s
 (I don’t mean Skimpole’s) rhyme:
 
 
@@ -72,7 +72,7 @@ world more wiglomeration about it, I suppose, but it must be done.”
 thing. He is a ward in Chancery, my dear. Kenge and Carboy will have
 something to say about it; Master Somebody—a sort of ridiculous
 sexton, digging graves for the merits of causes in a back room at the
-end of Quality Court, Chancery Lane—will have something to say about
+end of Quality [[Court]], Chancery Lane—will have something to say about
 it; counsel will have something to say about it; the Chancellor will
 have something to say about it; the satellites will have something to
 say about it; they will all have to be handsomely fee’d, all round,
@@ -82,14 +82,14 @@ wiglomeration. How mankind ever came to be afflicted with
 Wiglomeration, or for whose sins these young people ever fell into a
 pit of it, I don’t know; so it is.”
 
-He began to rub his head again and to hint that he felt the wind. But
+He began to rub his head again and to hint that he felt the [[Wind|wind]]. But
 it was a delightful instance of his kindness towards me that whether
 he rubbed his head, or walked about, or did both, his face was sure
 to recover its benignant expression as it looked at mine; and he was
 sure to turn comfortable again and put his hands in his pockets and
 stretch out his legs.
 
-“Perhaps it would be best, first of all,” said I, “to ask Mr. Richard
+“Perhaps it would be best, first of all,” said I, “to ask Mr. [[Richard]]
 what he inclines to himself.”
 
 “Exactly so,” he returned. “That’s what I mean! You know, just
@@ -100,7 +100,7 @@ to come at the heart of the matter by your means, little woman.”
 I really was frightened at the thought of the importance I was
 attaining and the number of things that were being confided to me. I
 had not meant this at all; I had meant that he should speak to
-Richard. But of course I said nothing in reply except that I would do
+[[Richard]]. But of course I said nothing in reply except that I would do
 my best, though I feared (I really felt it necessary to repeat this)
 that he thought me much more sagacious than I was. At which my
 guardian only laughed the pleasantest laugh I ever heard.
@@ -127,7 +127,7 @@ He drew my hand through his arm and we went away to look for Ada.
 From that hour I felt quite easy with him, quite unreserved, quite
 content to know no more, quite happy.
 
-We lived, at first, rather a busy life at Bleak House, for we had to
+We lived, at first, rather a busy life at Bleak [[house|House]], for we had to
 become acquainted with many residents in and out of the neighbourhood
 who knew Mr. Jarndyce. It seemed to Ada and me that everybody knew
 him who wanted to do anything with anybody else’s money. It amazed us
@@ -140,7 +140,7 @@ even more so. They threw themselves into committees in the most
 impassioned manner and collected subscriptions with a vehemence quite
 extraordinary. It appeared to us that some of them must pass their
 whole lives in dealing out subscription-cards to the whole
-post-office directory—shilling cards, half-crown cards,
+post-office directory—shilling cards, half-[[Crown|crown]] cards,
 half-sovereign cards, penny cards. They wanted everything. They
 wanted wearing apparel, they wanted linen rags, they wanted money,
 they wanted coals, they wanted soup, they wanted interest, they
@@ -152,12 +152,12 @@ picturesque building (engraving of proposed west elevation attached)
 the Sisterhood of Mediaeval Marys, they were going to give a
 testimonial to Mrs. Jellyby, they were going to have their
 secretary’s portrait painted and presented to his mother-in-law,
-whose deep devotion to him was well known, they were going to get up
+whose deep devotion to him was [[Well|well]] known, they were going to get up
 everything, I really believe, from five hundred thousand tracts to an
 annuity and from a marble monument to a silver tea-pot. They took a
 multitude of titles. They were the Women of England, the Daughters of
 Britain, the Sisters of all the cardinal virtues separately, the
-Females of America, the Ladies of a hundred denominations. They
+Females of [[america|America]], the Ladies of a hundred denominations. They
 appeared to be always excited about canvassing and electing. They
 seemed to our poor wits, and according to their own accounts, to be
 constantly polling people by tens of thousands, yet never bringing

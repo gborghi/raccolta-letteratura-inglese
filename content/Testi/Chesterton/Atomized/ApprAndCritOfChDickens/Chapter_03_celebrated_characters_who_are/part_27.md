@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 27)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 27)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -14,41 +14,41 @@ tags:
 </nav>
 
 
-mean that it is a novel without a _jeune premier_, a young man to make
+mean that it is a [[Novel|novel]] without a _jeune premier_, a young man to make
 
-love; _Pickwick_ is that and _Oliver Twist_, and, perhaps, _The Old
+[[Love|love]]; _Pickwick_ is that and _Oliver Twist_, and, perhaps, _The Old
 
-Curiosity Shop_. I mean that it is a novel without a hero in the same
+Curiosity Shop_. I mean that it is a [[Novel|novel]] without a [[Hero|hero]] in the same
 
-far deeper and more deadly sense in which _Pendennis_ is also a novel
+far deeper and more deadly sense in which _Pendennis_ is also a [[Novel|novel]]
 
-without a hero. I mean that it is a novel which aims chiefly at showing
+without a [[Hero|hero]]. I mean that it is a [[Novel|novel]] which aims chiefly at showing
 
-that the hero is unheroic.
+that the [[Hero|hero]] is unheroic.
 
 
 
 All such phrases as these must appear of course to overstate the case.
 
-Pip is a much more delightful person than Nicholas Nickleby. Or to take
+Pip is a much more delightful person than [[Nicholas Nickleby]]. Or to take
 
 a stronger case for the purpose of our argument, Pip is a much more
 
-delightful person than Sydney Carton. Still the fact remains. Most of
+delightful person than [[Sydney Carton]]. Still the fact remains. Most of
 
-Nicholas Nickleby's personal actions are meant to show that he is
+[[Nicholas Nickleby]]'s personal actions are meant to show that he is
 
 heroic. Most of Pip's actions are meant to show that he is not heroic.
 
-The study of Sydney Carton is meant to indicate that with all his vices
+The study of [[Sydney Carton]] is meant to indicate that with all his vices
 
-Sydney Carton was a hero. The study of Pip is meant to indicate that
+[[Sydney Carton]] was a [[Hero|hero]]. The study of Pip is meant to indicate that
 
 with all his virtues Pip was a snob. The motive of the literary
 
 explanation is different. Pip and Pendennis are meant to show how
 
-circumstances can corrupt men. Sam Weller and Hercules are meant to show
+circumstances can corrupt men. [[Sam Weller]] and Hercules are meant to show
 
 how heroes can subdue circumstances.
 
@@ -58,9 +58,9 @@ This is the preliminary view of the book which is necessary if we are
 
 to regard it as a real and separate fact in the life of Dickens. Dickens
 
-had many moods because he was an artist; but he had one great mood,
+had many moods because he was an [[artist]]; but he had one great mood,
 
-because he was a great artist. Any real difference therefore from the
+because he was a great [[artist]]. Any real difference therefore from the
 
 general drift, or rather (I apologise to Dickens) the general drive of
 
@@ -84,11 +84,11 @@ weakness of Pendennis. When he sets out to describe Pip's great
 
 expectation he does not set out, as in a fairytale, with the idea that
 
-these great expectations will be fulfilled; he sets out from the first
+these [[Great Expectations|great expectations]] will be fulfilled; he sets out from the first
 
-with the idea that these great expectations will be disappointing. We
+with the idea that these [[Great Expectations|great expectations]] will be disappointing. We
 
-might very well, as I have remarked elsewhere, apply to all Dickens's
+might very [[Well|well]], as I have remarked elsewhere, apply to all Dickens's
 
 books the title _Great Expectations_. All his books are full of an airy
 
@@ -148,7 +148,7 @@ the clothes of which he is so proud and so ashamed. Nothing could be so
 
 exquisitely human, nothing especially could be so exquisitely masculine
 
-as that combination of self-love and self-assertion and even insolence
+as that combination of [[Self|self]]-[[Love|love]] and [[Self|self]]-assertion and even insolence
 
 with a naked and helpless sensibility to the slightest breath of
 
@@ -160,9 +160,9 @@ gentleman. Dickens has described perfectly this quivering and
 
 defenceless dignity. Dickens has described perfectly how ill-armed it is
 
-against the coarse humour of real humanity--the real humanity which
+against the coarse [[Humour|humour]] of real humanity--the real humanity which
 
-Dickens loved, but which idealists and philanthropists do not love, the
+Dickens loved, but which idealists and philanthropists do not [[Love|love]], the
 
 humanity of cabmen and costermongers and men singing in a third-class
 
@@ -180,16 +180,16 @@ described the weakness of Pip. Exactly what George Eliot and Thackeray
 
 could not have described was the vigour of Trabb's boy. There would have
 
-been admirable humour and observation in their accounts of that
+been admirable [[Humour|humour]] and observation in their accounts of that
 
 intolerable urchin. Thackeray would have given us little light touches
 
-of Trabb's boy, absolutely true to the quality and colour of the humour,
+of Trabb's boy, absolutely true to the quality and colour of the [[Humour|humour]],
 
 just as in his novels of the eighteenth century, the glimpses of Steele
 
 or Bolingbroke or Doctor Johnson are exactly and perfectly true to the
 
-colour and quality of their humour. George Eliot in her earlier books
+colour and quality of their [[Humour|humour]]. George Eliot in her earlier books
 
 would have given us shrewd authentic scraps of the real dialect of

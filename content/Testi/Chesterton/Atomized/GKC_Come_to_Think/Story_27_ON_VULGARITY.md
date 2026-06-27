@@ -43,17 +43,17 @@ But I really do not know any other word for it.  I could easily
 give examples of it from the Press, but this would be a rather
 cheap and unfair way of filling the pages in this book.
 So, with a full sense of the rashness of the experiment, I will make
-an attempt to state the real nature of the thing I call Vulgarity;
+an attempt to state the real [[Nature|nature]] of the thing I call Vulgarity;
 and I wish I knew a worse name for it.
 
 What I mean by Vulgarity is this.  When six men stand up and we
-suddenly see that one of them is a dwarf, we are startled to find
+suddenly see that one of them is a [[Dwarf|dwarf]], we are startled to find
 him so stunted.  We only realize that he is stunted because he is
 standing up; because he is stretching himself to his full height.
 Similarly, when the mind of man stretches itself, in order to show off,
 and is still stunted, that is the revelation that I mean.
 It is by the showing off that we see how little there is to show.
-When some body tries to impress us, either with his wit or assurance,
+When some [[Body|body]] tries to impress us, either with his wit or assurance,
 or knowledge of the world, or power, or grace, or even poetry
 and ideality, and in the very act of doing so shows he has low
 ideas of all these things--that is Vulgarity.  In other words,
@@ -64,12 +64,12 @@ vulgar at all.  The red-nosed comedian, the man who sits on his hat,
 the joke about the drunken man, these are not the sort of thing
 of which I am thinking; indeed, they are the very reverse.
 For the man who sits on his hat is not standing up.  The drunkard is not
-stretching him self; he is (as he will explain) enjoying relaxation.
+stretching him [[Self|self]]; he is (as he will explain) enjoying relaxation.
 The red-nosed comedian is not pretending to be at his best.
 These things may have dangers or weaknesses of their own,
 but they do not indicate that a man is base even at his best.
 The man who sits on his hat on the stage may be perfectly dignified
-when he sits on his chair at home, or takes off his hat in church.
+when he sits on his chair at [[Home|home]], or takes off his hat in church.
 The red-nosed comedian, when he has hung up his red nose along with his
 little hat, may be in private life a blend of Bayard and Socrates.
 We can appeal from Philip drunk to Philip sober.  But we can appeal
@@ -93,7 +93,7 @@ from the worst.
 There are any number of lesser and often more excusable examples,
 but this is the touch that makes the difference.  There is the man
 who is always being tactful without tact.  There is the man who jokes
-loudly and laughs heartily, and so proves that he has no sense of humour.
+loudly and laughs heartily, and so proves that he has no sense of [[Humour|humour]].
 There is the man who talks a great deal about understanding women,
 and with every word helps us with a ghastly clarity to understand him.
 There is the man who tells stories of the wonderful affability

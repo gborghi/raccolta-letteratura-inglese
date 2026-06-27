@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 20: TWENTY (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 20: TWENTY (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Mr Pinch was not at home, so they had it all to themselves, and were
+Mr Pinch was not at [[Home|home]], so they had it all to themselves, and were
 very snug and talkative, Jonas sitting between the two sisters, and
 displaying his gallantry in that engaging manner which was peculiar
 to him. It was a hard thing, Mr Pecksniff said, when tea was done,
@@ -22,7 +22,7 @@ and cleared away, to leave so pleasant a little party, but having some
 important papers to examine in his own apartment, he must beg them to
 excuse him for half an hour. With this apology he withdrew, singing
 a careless strain as he went. He had not been gone five minutes, when
-Merry, who had been sitting in the window, apart from Jonas and her
+Merry, who had been sitting in the [[Window|window]], apart from Jonas and her
 sister, burst into a half-smothered laugh, and skipped towards the door.
 
 ‘Hallo!’ cried Jonas. ‘Don’t go.’
@@ -35,14 +35,14 @@ But as she left the room notwithstanding, he ran out after her,
 and brought her back, after a short struggle in the passage which
 scandalized Miss Cherry very much.
 
-‘Upon my word, Merry,’ urged that young lady, ‘I wonder at you! There
+‘Upon my word, Merry,’ urged that young lady, ‘I [[Wonder|wonder]] at you! There
 are bounds even to absurdity, my dear.’
 
 ‘Thank you, my sweet,’ said Merry, pursing up her rosy Lips. ‘Much
-obliged to it for its advice. Oh! do leave me alone, you monster, do!’
+obliged to it for its advice. Oh! do leave me [[Alone|alone]], you [[Monster|monster]], do!’
 This entreaty was wrung from her by a new proceeding on the part of
 Mr Jonas, who pulled her down, all breathless as she was, into a seat
-beside him on the sofa, having at the same time Miss Cherry upon the
+beside him on the sofa, having at the same [[Time|time]] Miss Cherry upon the
 other side.
 
 ‘Now,’ said Jonas, clasping the waist of each; ‘I have got both arms
@@ -53,13 +53,13 @@ cried the playful Merry.
 
 ‘Ah! I don’t mind YOUR pinching,’ grinned Jonas, ‘a bit.’
 
-‘Pinch him for me, Cherry, pray,’ said Mercy. ‘I never did hate anybody
+‘Pinch him for me, Cherry, pray,’ said [[Mercy]]. ‘I never did hate anybody
 so much as I hate this creature, I declare!’
 
 ‘No, no, don’t say that,’ urged Jonas, ‘and don’t pinch either, because
-I want to be serious. I say--Cousin Charity--’
+I want to be serious. I say--Cousin [[Charity]]--’
 
-‘Well! what?’ she answered sharply.
+‘[[Well]]! what?’ she answered sharply.
 
 ‘I want to have some sober talk,’ said Jonas; ‘I want to prevent any
 mistakes, you know, and to put everything upon a pleasant understanding.
@@ -69,7 +69,7 @@ Neither of the sisters spoke a word. Mr Jonas paused and cleared his
 throat, which was very dry.
 
 ‘She’ll not believe what I am going to say, will she, cousin?’ said
-Jonas, timidly squeezing Miss Charity.
+Jonas, timidly squeezing Miss [[Charity]].
 
 ‘Really, Mr Jonas, I don’t know, until I hear what it is. It’s quite
 impossible!’
@@ -82,9 +82,9 @@ know, won’t you? You’ll be honourable, I’m sure,’ he added persuasively.
 No answer. His throat seemed to grow hotter and hotter, and to be more
 and more difficult of control.
 
-‘You see, Cousin Charity,’ said Jonas, ‘nobody but you can tell her
+‘You see, Cousin [[Charity]],’ said Jonas, ‘nobody but you can tell her
 what pains I took to get into her company when you were both at the
-boarding-house in the city, because nobody’s so well aware of it, you
+boarding-[[house]] in the [[City|city]], because nobody’s so [[Well|well]] aware of it, you
 know. Nobody else can tell her how hard I tried to get to know you
 better, in order that I might get to know her without seeming to wish
 it; can they? I always asked you about her, and said where had she gone,
@@ -102,17 +102,17 @@ the least effect.
 ‘it don’t much matter, because you’ll bear honest witness now; won’t
 you? We’ve been very good friends from the first; haven’t we? and of
 course we shall be quite friends in future, and so I don’t mind speaking
-before you a bit. Cousin Mercy, you’ve heard what I’ve been saying.
+before you a bit. Cousin [[Mercy]], you’ve heard what I’ve been saying.
 She’ll confirm it, every word; she must. Will you have me for your
 husband? Eh?’
 
-As he released his hold of Charity, to put this question with better
+As he released his hold of [[Charity]], to put this question with better
 effect, she started up and hurried away to her own room, marking her
 progress as she went by such a train of passionate and incoherent sound,
 as nothing but a slighted woman in her anger could produce.
 
 ‘Let me go away. Let me go after her,’ said Merry, pushing him off,
-and giving him--to tell the truth--more than one sounding slap upon his
+and giving him--to tell the [[Truth|truth]]--more than one sounding slap upon his
 outstretched face.
 
 ‘Not till you say yes. You haven’t told me. Will you have me for your
@@ -126,7 +126,7 @@ sister best. We all thought so.’
 
 ‘Yes it was; you know it was.’
 
-‘Any trick is fair in love,’ said Jonas. ‘She may have thought I liked
+‘Any trick is fair in [[Love|love]],’ said Jonas. ‘She may have thought I liked
 her best, but you didn’t.’
 
 ‘I did!’
@@ -153,9 +153,9 @@ Now whether Mr Pecksniff had been listening--which in one of his
 character appears impossible; or divined almost by inspiration what the
 matter was--which, in a man of his sagacity is far more probable; or
 happened by sheer good fortune to find himself in exactly the
-right place, at precisely the right time--which, under the special
+right place, at precisely the right [[Time|time]]--which, under the special
 guardianship in which he lived might very reasonably happen; it is quite
 certain that at the moment when the sisters came together in their own
 room, he appeared at the chamber door. And a marvellous contrast it
-was--they so heated, noisy, and vehement; he so calm, so self-possessed,
+was--they so heated, noisy, and vehement; he so calm, so [[Self|self]]-possessed,
 so cool and full of peace, that not a hair upon his head was stirred.

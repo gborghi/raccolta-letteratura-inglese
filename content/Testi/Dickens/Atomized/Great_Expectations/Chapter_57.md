@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 57"
+title: "[[Great Expectations]] — Chapter 57"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -23,7 +23,7 @@ determine, and in the meanwhile to underlet them. At once I put bills
 up in the windows; for, I was in debt, and had scarcely any money, and
 began to be seriously alarmed by the state of my affairs. I ought
 rather to write that I should have been alarmed if I had had energy and
-concentration enough to help me to the clear perception of any truth
+concentration enough to help me to the clear perception of any [[Truth|truth]]
 beyond the fact that I was falling very ill. The late stress upon me
 had enabled me to put off illness, but not to put it away; I knew that
 it was coming on me now, and I knew very little else, and was even
@@ -31,13 +31,13 @@ careless as to that.
 
 For a day or two, I lay on the sofa, or on the floor,—anywhere,
 according as I happened to sink down,—with a heavy head and aching
-limbs, and no purpose, and no power. Then there came, one night which
+limbs, and no purpose, and no power. Then there came, one [[Night|night]] which
 appeared of great duration, and which teemed with anxiety and horror;
 and when in the morning I tried to sit up in my bed and think of it, I
 found I could not do so.
 
-Whether I really had been down in Garden Court in the dead of the
-night, groping about for the boat that I supposed to be there; whether
+Whether I really had been down in [[Garden]] [[Court]] in the dead of the
+[[Night|night]], groping about for the boat that I supposed to be there; whether
 I had two or three times come to myself on the staircase with great
 terror, not knowing how I had got out of bed; whether I had found
 myself lighting the lamp, possessed by the idea that he was coming up
@@ -46,7 +46,7 @@ inexpressibly harassed by the distracted talking, laughing, and
 groaning of some one, and had half suspected those sounds to be of my
 own making; whether there had been a closed iron furnace in a dark
 corner of the room, and a voice had called out, over and over again,
-that Miss Havisham was consuming within it,—these were things that I
+that [[Miss Havisham]] was consuming within it,—these were things that I
 tried to settle with myself and get into some order, as I lay that
 morning on my bed. But the vapour of a limekiln would come between me
 and them, disordering them all, and it was through the vapour at last
@@ -54,7 +54,7 @@ that I saw two men looking at me.
 
 “What do you want?” I asked, starting; “I don’t know you.”
 
-“Well, sir,” returned one of them, bending down and touching me on the
+“[[Well]], sir,” returned one of them, bending down and touching me on the
 shoulder, “this is a matter that you’ll soon arrange, I dare say, but
 you’re arrested.”
 
@@ -65,8 +65,8 @@ think.”
 
 “What is to be done?”
 
-“You had better come to my house,” said the man. “I keep a very nice
-house.”
+“You had better come to my [[house]],” said the man. “I keep a very nice
+[[house]].”
 
 I made some attempt to get up and dress myself. When I next attended to
 them, they were standing a little off from the bed, looking at me. I
@@ -78,22 +78,22 @@ by the way.”
 
 Perhaps they replied, or argued the point, or tried to encourage me to
 believe that I was better than I thought. Forasmuch as they hang in my
-memory by only this one slender thread, I don’t know what they did,
+[[Memory|memory]] by only this one slender thread, I don’t know what they did,
 except that they forbore to remove me.
 
 That I had a fever and was avoided, that I suffered greatly, that I
-often lost my reason, that the time seemed interminable, that I
-confounded impossible existences with my own identity; that I was a
-brick in the house-wall, and yet entreating to be released from the
+often lost my reason, that the [[Time|time]] seemed interminable, that I
+confounded impossible existences with my own [[Identity|identity]]; that I was a
+brick in the [[house]]-wall, and yet entreating to be released from the
 giddy place where the builders had set me; that I was a steel beam of a
 vast engine, clashing and whirling over a gulf, and yet that I implored
 in my own person to have the engine stopped, and my part in it hammered
 off; that I passed through these phases of disease, I know of my own
-remembrance, and did in some sort know at the time. That I sometimes
+remembrance, and did in some sort know at the [[Time|time]]. That I sometimes
 struggled with real people, in the belief that they were murderers, and
 that I would all at once comprehend that they meant to do me good, and
 would then sink exhausted in their arms, and suffer them to lay me
-down, I also knew at the time. But, above all, I knew that there was a
+down, I also knew at the [[Time|time]]. But, above all, I knew that there was a
 constant tendency in all these people,—who, when I was very ill, would
 present all kinds of extraordinary transformations of the human face,
 and would be much dilated in size,—above all, I say, I knew that there
@@ -103,16 +103,16 @@ settle down into the likeness of Joe.
 After I had turned the worst point of my illness, I began to notice
 that while all its other features changed, this one consistent feature
 did not change. Whoever came about me, still settled down into Joe. I
-opened my eyes in the night, and I saw, in the great chair at the
+opened my eyes in the [[Night|night]], and I saw, in the great chair at the
 bedside, Joe. I opened my eyes in the day, and, sitting on the
-window-seat, smoking his pipe in the shaded open window, still I saw
+[[Window|window]]-seat, smoking his pipe in the shaded open [[Window|window]], still I saw
 Joe. I asked for cooling drink, and the dear hand that gave it me was
 Joe’s. I sank back on my pillow after drinking, and the face that
 looked so hopefully and tenderly upon me was the face of Joe.
 
-At last, one day, I took courage, and said, “_Is_ it Joe?”
+At last, one day, I took [[Courage|courage]], and said, “_Is_ it Joe?”
 
-And the dear old home-voice answered, “Which it air, old chap.”
+And the dear old [[Home|home]]-voice answered, “Which it air, old chap.”
 
 “O Joe, you break my heart! Look angry at me, Joe. Strike me, Joe. Tell
 me of my ingratitude. Don’t be so good to me!”
@@ -121,9 +121,9 @@ For Joe had actually laid his head down on the pillow at my side, and
 put his arm round my neck, in his joy that I knew him.
 
 “Which dear old Pip, old chap,” said Joe, “you and me was ever friends.
-And when you’re well enough to go out for a ride—what larks!”
+And when you’re [[Well|well]] enough to go out for a ride—what larks!”
 
-After which, Joe withdrew to the window, and stood with his back
+After which, Joe withdrew to the [[Window|window]], and stood with his back
 towards me, wiping his eyes. And as my extreme weakness prevented me
 from getting up and going to him, I lay there, penitently whispering,
 “O God bless him! O God bless this gentle Christian man!”
@@ -140,59 +140,59 @@ chap?”
 
 “It’s the end of May, Pip. To-morrow is the first of June.”
 
-“And have you been here all that time, dear Joe?”
+“And have you been here all that [[Time|time]], dear Joe?”
 
-“Pretty nigh, old chap. For, as I says to Biddy when the news of your
+“Pretty nigh, old chap. For, as I says to [[Biddy]] when the news of your
 being ill were brought by letter, which it were brought by the post,
 and being formerly single he is now married though underpaid for a deal
 of walking and shoe-leather, but wealth were not a object on his part,
-and marriage were the great wish of his hart—”
+and [[Marriage|marriage]] were the great wish of his hart—”
 
 “It is so delightful to hear you, Joe! But I interrupt you in what you
-said to Biddy.”
+said to [[Biddy]].”
 
 “Which it were,” said Joe, “that how you might be amongst strangers,
 and that how you and me having been ever friends, a wisit at such a
-moment might not prove unacceptabobble. And Biddy, her word were, ‘Go
-to him, without loss of time.’ That,” said Joe, summing up with his
-judicial air, “were the word of Biddy. ‘Go to him,’ Biddy say, ‘without
-loss of time.’ In short, I shouldn’t greatly deceive you,” Joe added,
-after a little grave reflection, “if I represented to you that the word
-of that young woman were, ‘without a minute’s loss of time.’”
+moment might not prove unacceptabobble. And [[Biddy]], her word were, ‘Go
+to him, without loss of [[Time|time]].’ That,” said Joe, summing up with his
+judicial air, “were the word of [[Biddy]]. ‘Go to him,’ [[Biddy]] say, ‘without
+loss of [[Time|time]].’ In short, I shouldn’t greatly deceive you,” Joe added,
+after a little [[Grave|grave]] reflection, “if I represented to you that the word
+of that young woman were, ‘without a minute’s loss of [[Time|time]].’”
 
 There Joe cut himself short, and informed me that I was to be talked to
 in great moderation, and that I was to take a little nourishment at
 stated frequent times, whether I felt inclined for it or not, and that
 I was to submit myself to all his orders. So I kissed his hand, and lay
-quiet, while he proceeded to indite a note to Biddy, with my love in
+quiet, while he proceeded to indite a note to [[Biddy]], with my [[Love|love]] in
 it.
 
-Evidently Biddy had taught Joe to write. As I lay in bed looking at
+Evidently [[Biddy]] had taught Joe to write. As I lay in bed looking at
 him, it made me, in my weak state, cry again with pleasure to see the
-pride with which he set about his letter. My bedstead, divested of its
+[[Pride|pride]] with which he set about his letter. My bedstead, divested of its
 curtains, had been removed, with me upon it, into the sitting-room, as
 the airiest and largest, and the carpet had been taken away, and the
-room kept always fresh and wholesome night and day. At my own
+room kept always fresh and wholesome [[Night|night]] and day. At my own
 writing-table, pushed into a corner and cumbered with little bottles,
 Joe now sat down to his great work, first choosing a pen from the
 pen-tray as if it were a chest of large tools, and tucking up his
 sleeves as if he were going to wield a crow-bar or sledgehammer. It was
 necessary for Joe to hold on heavily to the table with his left elbow,
-and to get his right leg well out behind him, before he could begin;
+and to get his right leg [[Well|well]] out behind him, before he could begin;
 and when he did begin he made every downstroke so slowly that it might
 have been six feet long, while at every upstroke I could hear his pen
 spluttering extensively. He had a curious idea that the inkstand was on
 the side of him where it was not, and constantly dipped his pen into
 space, and seemed quite satisfied with the result. Occasionally, he was
 tripped up by some orthographical stumbling-block; but on the whole he
-got on very well indeed; and when he had signed his name, and had
-removed a finishing blot from the paper to the crown of his head with
+got on very [[Well|well]] indeed; and when he had signed his name, and had
+removed a finishing blot from the paper to the [[Crown|crown]] of his head with
 his two forefingers, he got up and hovered about the table, trying the
 effect of his performance from various points of view, as it lay there,
 with unbounded satisfaction.
 
 Not to make Joe uneasy by talking too much, even if I had been able to
-talk much, I deferred asking him about Miss Havisham until next day. He
+talk much, I deferred asking him about [[Miss Havisham]] until next day. He
 shook his head when I then asked him if she had recovered.
 
 “Is she dead, Joe?”
@@ -213,13 +213,13 @@ come at everything by degrees.
 
 “Dear Joe, have you heard what becomes of her property?”
 
-“Well, old chap,” said Joe, “it do appear that she had settled the most
-of it, which I meantersay tied it up, on Miss Estella. But she had
+“[[Well]], old chap,” said Joe, “it do appear that she had settled the most
+of it, which I meantersay tied it up, on Miss [[Estella]]. But she had
 wrote out a little coddleshell in her own hand a day or two afore the
 accident, leaving a cool four thousand to Mr. Matthew Pocket. And why,
 do you suppose, above all things, Pip, she left that cool four thousand
 unto him? ‘Because of Pip’s account of him, the said Matthew.’ I am
-told by Biddy, that air the writing,” said Joe, repeating the legal
+told by [[Biddy]], that air the writing,” said Joe, repeating the legal
 turn as if it did him infinite good, “‘account of him the said
 Matthew.’ And a cool four thousand, Pip!”
 
@@ -241,7 +241,7 @@ chap?”
 
 Joe nodded. “Mrs. Camels,” by which I presently understood he meant
 Camilla, “she have five pound fur to buy rushlights to put her in
-spirits when she wake up in the night.”
+spirits when she wake up in the [[Night|night]].”
 
 The accuracy of these recitals was sufficiently obvious to me, to give
 me great confidence in Joe’s information. “And now,” said Joe, “you
@@ -252,11 +252,11 @@ dwelling-ouse.”
 “Whose?” said I.
 
 “Not, I grant you, but what his manners is given to blusterous,” said
-Joe, apologetically; “still, a Englishman’s ouse is his Castle, and
-castles must not be busted ’cept when done in war time. And wotsume’er
+Joe, apologetically; “still, a Englishman’s ouse is his [[Castle]], and
+castles must not be busted ’cept when done in war [[Time|time]]. And wotsume’er
 the failings on his part, he were a corn and seedsman in his hart.”
 
-“Is it Pumblechook’s house that has been broken into, then?”
+“Is it Pumblechook’s [[house]] that has been broken into, then?”
 
 “That’s it, Pip,” said Joe; “and they took his till, and they took his
 cash-box, and they drinked his wine, and they partook of his wittles,
@@ -270,7 +270,7 @@ to gain strength, but I did slowly and surely become less weak, and Joe
 stayed with me, and I fancied I was little Pip again.
 
 For the tenderness of Joe was so beautifully proportioned to my need,
-that I was like a child in his hands. He would sit and talk to me in
+that I was like a [[Child|child]] in his hands. He would sit and talk to me in
 the old confidence, and with the old simplicity, and in the old
 unassertive protecting way, so that I would half believe that all my
 life since the days of the old kitchen was one of the mental troubles
@@ -289,18 +289,18 @@ once looked forward to the day of my apprenticeship. And when the day
 came, and an open carriage was got into the Lane, Joe wrapped me up,
 took me in his arms, carried me down to it, and put me in, as if I were
 still the small helpless creature to whom he had so abundantly given of
-the wealth of his great nature.
+the wealth of his great [[Nature|nature]].
 
 And Joe got in beside me, and we drove away together into the country,
-where the rich summer growth was already on the trees and on the grass,
-and sweet summer scents filled all the air. The day happened to be
-Sunday, and when I looked on the loveliness around me, and thought how
-it had grown and changed, and how the little wild-flowers had been
-forming, and the voices of the birds had been strengthening, by day and
-by night, under the sun and under the stars, while poor I lay burning
+where the rich [[Summer|summer]] growth was already on the trees and on the grass,
+and sweet [[Summer|summer]] scents filled all the air. The day happened to be
+[[Sunday]], and when I looked on the loveliness around me, and thought how
+it had grown and changed, and how the little wild-[[Flowers|flowers]] had been
+forming, and the voices of the [[Birds|birds]] had been strengthening, by day and
+by [[Night|night]], under the sun and under the [[Stars|stars]], while poor I lay burning
 and tossing on my bed, the mere remembrance of having burned and tossed
-there came like a check upon my peace. But when I heard the Sunday
-bells, and looked around a little more upon the outspread beauty, I
+there came like a check upon my peace. But when I heard the [[Sunday]]
+[[Bells|bells]], and looked around a little more upon the outspread [[Beauty|beauty]], I
 felt that I was not nearly thankful enough,—that I was too weak yet to
 be even that,—and I laid my head on Joe’s shoulder, as I had laid it
 long ago when he had taken me to the Fair or where not, and it was too
@@ -312,22 +312,22 @@ whatever in Joe. Exactly what he had been in my eyes then, he was in my
 eyes still; just as simply faithful, and as simply right.
 
 When we got back again, and he lifted me out, and carried me—so
-easily!—across the court and up the stairs, I thought of that eventful
+easily!—across the [[Court|court]] and up the stairs, I thought of that eventful
 Christmas Day when he had carried me over the marshes. We had not yet
 made any allusion to my change of fortune, nor did I know how much of
-my late history he was acquainted with. I was so doubtful of myself
+my late [[history]] he was acquainted with. I was so doubtful of myself
 now, and put so much trust in him, that I could not satisfy myself
 whether I ought to refer to it when he did not.
 
 “Have you heard, Joe,” I asked him that evening, upon further
-consideration, as he smoked his pipe at the window, “who my patron
+consideration, as he smoked his pipe at the [[Window|window]], “who my patron
 was?”
 
-“I heerd,” returned Joe, “as it were not Miss Havisham, old chap.”
+“I heerd,” returned Joe, “as it were not [[Miss Havisham]], old chap.”
 
 “Did you hear who it was, Joe?”
 
-“Well! I heerd as it were a person what sent the person what giv’ you
+“[[Well]]! I heerd as it were a person what sent the person what giv’ you
 the bank-notes at the Jolly Bargemen, Pip.”
 
 “So it was.”
@@ -341,8 +341,8 @@ increasing diffidence.
 
 “Yes.”
 
-“I think,” said Joe, after meditating a long time, and looking rather
-evasively at the window-seat, “as I _did_ hear tell that how he were
+“I think,” said Joe, after meditating a long [[Time|time]], and looking rather
+evasively at the [[Window|window]]-seat, “as I _did_ hear tell that how he were
 something or another in a general way in that direction.”
 
 “Did you hear anything of his circumstances, Joe?”
@@ -373,7 +373,7 @@ she dropped into me too, if I put myself in opposition to her, but that
 she dropped into you always heavier for it. I noticed that. It ain’t a
 grab at a man’s whisker, not yet a shake or two of a man (to which your
 sister was quite welcome), that ’ud put a man off from getting a little
-child out of punishment. But when that little child is dropped into
+[[Child|child]] out of punishment. But when that little [[Child|child]] is dropped into
 heavier for that grab of whisker or shaking, then that man naterally up
 and says to himself, ‘Where is the good as you are a-doing? I grant you
 I see the ’arm,’ says the man, ‘but I don’t see the good. I call upon
@@ -385,25 +385,25 @@ you, sir, therefore, to pint out the good.’”
 
 “Dear Joe, he is always right.”
 
-“Well, old chap,” said Joe, “then abide by your words. If he’s always
+“[[Well]], old chap,” said Joe, “then abide by your words. If he’s always
 right (which in general he’s more likely wrong), he’s right when he
 says this: Supposing ever you kep any little matter to yourself, when
-you was a little child, you kep it mostly because you know’d as J.
+you was a little [[Child|child]], you kep it mostly because you know’d as J.
 Gargery’s power to part you and Tickler in sunders were not fully equal
 to his inclinations. Theerfore, think no more of it as betwixt two
-sech, and do not let us pass remarks upon onnecessary subjects. Biddy
+sech, and do not let us pass remarks upon onnecessary subjects. [[Biddy]]
 giv’ herself a deal o’ trouble with me afore I left (for I am almost
 awful dull), as I should view it in this light, and, viewing it in this
 light, as I should so put it. Both of which,” said Joe, quite charmed
 with his logical arrangement, “being done, now this to you a true
 friend, say. Namely. You mustn’t go a overdoing on it, but you must
-have your supper and your wine and water, and you must be put betwixt
+have your supper and your wine and [[Water|water]], and you must be put betwixt
 the sheets.”
 
 The delicacy with which Joe dismissed this theme, and the sweet tact
-and kindness with which Biddy—who with her woman’s wit had found me out
+and kindness with which [[Biddy]]—who with her woman’s wit had found me out
 so soon—had prepared him for it, made a deep impression on my mind. But
-whether Joe knew how poor I was, and how my great expectations had all
+whether Joe knew how poor I was, and how my [[Great Expectations|great expectations]] had all
 dissolved, like our own marsh mists before the sun, I could not
 understand.
 
@@ -419,16 +419,16 @@ to slacken; and whereas I wondered at this, at first, I soon began to
 understand that the cause of it was in me, and that the fault of it was
 all mine.
 
-Ah! Had I given Joe no reason to doubt my constancy, and to think that
+Ah! Had I given Joe no reason to [[Doubt|doubt]] my constancy, and to think that
 in prosperity I should grow cold to him and cast him off? Had I given
-Joe’s innocent heart no cause to feel instinctively that as I got
+Joe’s [[Innocent|innocent]] heart no cause to feel instinctively that as I got
 stronger, his hold upon me would be weaker, and that he had better
-loosen it in time and let me go, before I plucked myself away?
+loosen it in [[Time|time]] and let me go, before I plucked myself away?
 
 It was on the third or fourth occasion of my going out walking in the
 Temple Gardens leaning on Joe’s arm, that I saw this change in him very
 plainly. We had been sitting in the bright warm sunlight, looking at
-the river, and I chanced to say as we got up,—
+the [[River|river]], and I chanced to say as we got up,—
 
 “See, Joe! I can walk quite strongly. Now, you shall see me walk back
 by myself.”
@@ -444,14 +444,14 @@ thoughtful.
 I, for my part, was thoughtful too; for, how best to check this growing
 change in Joe was a great perplexity to my remorseful thoughts. That I
 was ashamed to tell him exactly how I was placed, and what I had come
-down to, I do not seek to conceal; but I hope my reluctance was not
+down to, I do not seek to conceal; but I [[Hope|hope]] my reluctance was not
 quite an unworthy one. He would want to help me out of his little
 savings, I knew, and I knew that he ought not to help me, and that I
 must not suffer him to do it.
 
 It was a thoughtful evening with both of us. But, before we went to
 bed, I had resolved that I would wait over to-morrow,—to-morrow being
-Sunday,—and would begin my new course with the new week. On Monday
+[[Sunday]],—and would begin my new course with the new week. On Monday
 morning I would speak to Joe about this change, I would lay aside this
 last vestige of reserve, I would tell him what I had in my thoughts
 (that Secondly, not yet arrived at), and why I had not decided to go
@@ -459,26 +459,26 @@ out to Herbert, and then the change would be conquered for ever. As I
 cleared, Joe cleared, and it seemed as though he had sympathetically
 arrived at a resolution too.
 
-We had a quiet day on the Sunday, and we rode out into the country, and
+We had a quiet day on the [[Sunday]], and we rode out into the country, and
 then walked in the fields.
 
 “I feel thankful that I have been ill, Joe,” I said.
 
 “Dear old Pip, old chap, you’re a’most come round, sir.”
 
-“It has been a memorable time for me, Joe.”
+“It has been a memorable [[Time|time]] for me, Joe.”
 
 “Likeways for myself, sir,” Joe returned.
 
-“We have had a time together, Joe, that I can never forget. There were
+“We have had a [[Time|time]] together, Joe, that I can never forget. There were
 days once, I know, that I did for a while forget; but I never shall
 forget these.”
 
 “Pip,” said Joe, appearing a little hurried and troubled, “there has
 been larks. And, dear sir, what have been betwixt us—have been.”
 
-At night, when I had gone to bed, Joe came into my room, as he had done
-all through my recovery. He asked me if I felt sure that I was as well
+At [[Night|night]], when I had gone to bed, Joe came into my room, as he had done
+all through my recovery. He asked me if I felt sure that I was as [[Well|well]]
 as in the morning?
 
 “Yes, dear Joe, quite.”
@@ -488,7 +488,7 @@ as in the morning?
 “Yes, dear Joe, steadily.”
 
 Joe patted the coverlet on my shoulder with his great good hand, and
-said, in what I thought a husky voice, “Good night!”
+said, in what I thought a husky voice, “Good [[Night|night]]!”
 
 When I got up in the morning, refreshed and stronger yet, I was full of
 my resolution to tell Joe all, without delay. I would tell him before
@@ -499,7 +499,7 @@ he was not there. Not only was he not there, but his box was gone.
 I hurried then to the breakfast-table, and on it found a letter. These
 were its brief contents:—
 
-“Not wishful to intrude I have departured fur you are well again dear
+“Not wishful to intrude I have departured fur you are [[Well|well]] again dear
 Pip and will do better without
 
 
@@ -521,22 +521,22 @@ with him, and there to relieve my mind and heart of that reserved
 Secondly, which had begun as a vague something lingering in my
 thoughts, and had formed into a settled purpose?
 
-The purpose was, that I would go to Biddy, that I would show her how
+The purpose was, that I would go to [[Biddy]], that I would show her how
 humbled and repentant I came back, that I would tell her how I had lost
 all I once hoped for, that I would remind her of our old confidences in
-my first unhappy time. Then I would say to her, “Biddy, I think you
-once liked me very well, when my errant heart, even while it strayed
+my first unhappy [[Time|time]]. Then I would say to her, “[[Biddy]], I think you
+once liked me very [[Well|well]], when my errant heart, even while it strayed
 away from you, was quieter and better with you than it ever has been
-since. If you can like me only half as well once more, if you can take
+since. If you can like me only half as [[Well|well]] once more, if you can take
 me with all my faults and disappointments on my head, if you can
-receive me like a forgiven child (and indeed I am as sorry, Biddy, and
-have as much need of a hushing voice and a soothing hand), I hope I am
+receive me like a forgiven [[Child|child]] (and indeed I am as sorry, [[Biddy]], and
+have as much need of a hushing voice and a soothing hand), I [[Hope|hope]] I am
 a little worthier of you that I was,—not much, but a little. And,
-Biddy, it shall rest with you to say whether I shall work at the forge
+[[Biddy]], it shall rest with you to say whether I shall work at the forge
 with Joe, or whether I shall try for any different occupation down in
 this country, or whether we shall go away to a distant place where an
 opportunity awaits me which I set aside, when it was offered, until I
-knew your answer. And now, dear Biddy, if you can tell me that you will
+knew your answer. And now, dear [[Biddy]], if you can tell me that you will
 go through the world with me, you will surely make it a better world
 for me, and me a better man for it, and I will try hard to make it a
 better world for you.”

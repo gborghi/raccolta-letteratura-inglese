@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 14"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 14"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,27 +22,27 @@ tags:
 
 Next morning, I bethought me, I, too, had business at L——; so I mounted
 
-my horse, and set forth on the expedition soon after breakfast. It was
+my [[Horse|horse]], and set forth on the expedition soon after breakfast. It was
 
 a dull, drizzly day; but that was no matter: it was all the more
 
-suitable to my frame of mind. It was likely to be a lonely journey; for
+suitable to my frame of mind. It was likely to be a lonely [[Journey|journey]]; for
 
-it was no market-day, and the road I traversed was little frequented at
+it was no market-day, and the [[Road|road]] I traversed was little frequented at
 
-any other time; but that suited me all the better too.
+any other [[Time|time]]; but that suited me all the better too.
 
 
 
 As I trotted along, however, chewing the cud of—_bitter_ fancies, I
 
-heard another horse at no great distance behind me; but I never
+heard another [[Horse|horse]] at no great distance behind me; but I never
 
 conjectured who the rider might be, or troubled my head about him,
 
 till, on slackening my pace to ascend a gentle acclivity, or rather,
 
-suffering my horse to slacken his pace into a lazy walk—for, rapt in my
+[[Suffering|suffering]] my [[Horse|horse]] to slacken his pace into a lazy walk—for, rapt in my
 
 own reflections, I was letting it jog on as leisurely as it thought
 
@@ -60,7 +60,7 @@ me, and began to talk about the weather and the crops. I gave the
 
 briefest possible answers to his queries and observations, and fell
 
-back. He fell back too, and asked if my horse was lame. I replied with
+back. He fell back too, and asked if my [[Horse|horse]] was lame. I replied with
 
 a _look_, at which he placidly smiled.
 
@@ -84,13 +84,13 @@ him: now, positive rudeness could not drive him away. Had he heard of
 
 my disappointment; and was he come to witness the result, and triumph
 
-in my despair? I grasped my whip with more determined energy than
+in my [[Despair|despair]]? I grasped my whip with more determined energy than
 
-before—but still forbore to raise it, and rode on in silence, waiting
+before—but still forbore to raise it, and rode on in [[Silence|silence]], waiting
 
 for some more tangible cause of offence, before I opened the floodgates
 
-of my soul and poured out the dammed-up fury that was foaming and
+of my [[Soul|soul]] and poured out the dammed-up fury that was foaming and
 
 swelling within.
 
@@ -110,7 +110,7 @@ He said no more; for, impelled by some fiend at my elbow, I had seized
 
 my whip by the small end, and—swift and sudden as a flash of
 
-lightning—brought the other down upon his head. It was not without a
+[[Lightning|lightning]]—brought the other down upon his head. It was not without a
 
 feeling of savage satisfaction that I beheld the instant, deadly pallor
 
@@ -122,7 +122,7 @@ backward to the ground. The pony, surprised to be so strangely relieved
 
 of its burden, started and capered, and kicked a little, and then made
 
-use of its freedom to go and crop the grass of the hedge-bank: while
+use of its [[Freedom|freedom]] to go and crop the grass of the hedge-bank: while
 
 its master lay as still and silent as a corpse. Had I killed him?—an
 
@@ -136,19 +136,19 @@ breathed again—he was only stunned by the fall. It served him right—it
 
 would teach him better manners in future. Should I help him to his
 
-horse? No. For any other combination of offences I would; but his were
+[[Horse|horse]]? No. For any other combination of offences I would; but his were
 
 too unpardonable. He might mount it himself, if he liked—in a while:
 
 already he was beginning to stir and look about him—and there it was
 
-for him, quietly browsing on the road-side.
+for him, quietly browsing on the [[Road|road]]-side.
 
 
 
 So with a muttered execration I left the fellow to his fate, and
 
-clapping spurs to my own horse, galloped away, excited by a combination
+clapping spurs to my own [[Horse|horse]], galloped away, excited by a combination
 
 of feelings it would not be easy to analyse; and perhaps, if I did so,
 
@@ -166,13 +166,13 @@ minutes elapsed before I had turned and gone back to look after the
 
 fate of my victim. It was no generous impulse—no kind relentings that
 
-led me to this—nor even the fear of what might be the consequences to
+led me to this—nor even the [[Fear|fear]] of what might be the consequences to
 
 myself, if I finished my assault upon the squire by leaving him thus
 
 neglected, and exposed to further injury; it was, simply, the voice of
 
-conscience; and I took great credit to myself for attending so promptly
+[[Conscience|conscience]]; and I took great credit to myself for attending so promptly
 
 to its dictates—and judging the merit of the deed by the sacrifice it
 
@@ -184,7 +184,7 @@ Mr. Lawrence and his pony had both altered their positions in some
 
 degree. The pony had wandered eight or ten yards further away; and he
 
-had managed, somehow, to remove himself from the middle of the road: I
+had managed, somehow, to remove himself from the middle of the [[Road|road]]: I
 
 found him seated in a recumbent position on the bank,—looking very
 
@@ -194,15 +194,15 @@ red than white) to his head. It must have been a powerful blow; but
 
 half the credit—or the blame of it (which you please) must be
 
-attributed to the whip, which was garnished with a massive horse’s head
+attributed to the whip, which was garnished with a massive [[Horse|horse]]’s head
 
 of plated metal. The grass, being sodden with rain, afforded the young
 
 gentleman a rather inhospitable couch; his clothes were considerably
 
-bemired; and his hat was rolling in the mud on the other side of the
+bemired; and his hat was [[rolling]] in the mud on the other side of the
 
-road. But his thoughts seemed chiefly bent upon his pony, on which he
+[[Road|road]]. But his thoughts seemed chiefly bent upon his pony, on which he
 
 was wistfully gazing—half in helpless anxiety, and half in hopeless
 
@@ -248,15 +248,15 @@ He shrank away as if there had been contamination in my touch.
 
 
 
-“What, you won’t! Well! you may sit there till doomsday, for what I
+“What, you won’t! [[Well]]! you may sit there till doomsday, for what I
 
-care. But I suppose you don’t want to lose all the blood in your
+care. But I suppose you don’t want to lose all the [[Blood|blood]] in your
 
-body—I’ll just condescend to bind that up for you.”
+[[Body|body]]—I’ll just condescend to bind that up for you.”
 
 
 
-“Let me alone, if you please.”
+“Let me [[Alone|alone]], if you please.”
 
 
 
@@ -270,13 +270,13 @@ But before I abandoned him to his fate I flung his pony’s bridle over a
 
 stake in the hedge, and threw him my handkerchief, as his own was now
 
-saturated with blood. He took it and cast it back to me in abhorrence
+saturated with [[Blood|blood]]. He took it and cast it back to me in abhorrence
 
 and contempt, with all the strength he could muster. It wanted but this
 
 to fill the measure of his offences. With execrations not loud but deep
 
-I left him to live or die as he could, well satisfied that I had done
+I left him to live or die as he could, [[Well|well]] satisfied that I had done
 
 _my_ duty in attempting to save him—but forgetting how I had erred in
 
@@ -292,7 +292,7 @@ by such spiteful motives in so perseveringly refusing my assistance.
 
 
 
-Having remounted my horse, I just looked back to see how he was getting
+Having remounted my [[Horse|horse]], I just looked back to see how he was getting
 
 on, before I rode away. He had risen from the ground, and grasping his
 
@@ -308,7 +308,7 @@ proving ineffectual, he sank back on the bank, where I left him,
 
 reposing his head on the oozy turf, and to all appearance, as calmly
 
-reclining as if he had been taking his rest on his sofa at home.
+reclining as if he had been taking his rest on his sofa at [[Home|home]].
 
 
 
@@ -316,7 +316,7 @@ I ought to have helped him in spite of himself—to have bound up the
 
 wound he was unable to staunch, and insisted upon getting him on his
 
-horse and seeing him safe home; but, besides my bitter indignation
+[[Horse|horse]] and seeing him safe [[Home|home]]; but, besides my bitter indignation
 
 against himself, there was the question what to say to his servants—and
 
@@ -328,9 +328,9 @@ too—and that seemed impossible—or I must get up a lie, which seemed
 
 equally out of the question—especially as Mr. Lawrence would probably
 
-reveal the whole truth, and thereby bring me to tenfold disgrace—unless
+reveal the whole [[Truth|truth]], and thereby bring me to tenfold disgrace—unless
 
-I were villain enough, presuming on the absence of witnesses, to
+I were [[Villain|villain]] enough, presuming on the absence of witnesses, to
 
 persist in my own version of the case, and make him out a still greater
 
@@ -342,17 +342,17 @@ that could not kill him if he lay there half the day; and, if he could
 
 not help himself, surely some one would be coming by: it would be
 
-impossible that a whole day should pass and no one traverse the road
+impossible that a whole day should pass and no one traverse the [[Road|road]]
 
 but ourselves. As for what he might choose to say hereafter, I would
 
 take my chance about it: if he told lies, I would contradict him; if he
 
-told the truth, I would bear it as best I could. I was not _obliged_ to
+told the [[Truth|truth]], I would bear it as best I could. I was not _obliged_ to
 
 enter into explanations further than I thought proper. Perhaps he might
 
-choose to be silent on the subject, for fear of raising inquiries as to
+choose to be silent on the subject, for [[Fear|fear]] of raising inquiries as to
 
 the cause of the quarrel, and drawing the public attention to his
 
@@ -366,9 +366,9 @@ Thus reasoning, I trotted away to the town, where I duly transacted my
 
 business, and performed various little commissions for my mother and
 
-Rose, with very laudable exactitude, considering the different
+[[Rose]], with very laudable exactitude, considering the different
 
-circumstances of the case. In returning home, I was troubled with
+circumstances of the case. In returning [[Home|home]], I was troubled with
 
 sundry misgivings about the unfortunate Lawrence. The question, What if
 
@@ -378,9 +378,9 @@ and exhaustion—or already stark and chill? thrust itself most
 
 unpleasantly upon my mind, and the appalling possibility pictured
 
-itself with painful vividness to my imagination as I approached the
+itself with painful vividness to my [[Imagination|imagination]] as I approached the
 
-spot where I had left him. But no, thank heaven, both man and horse
+spot where I had left him. But no, thank heaven, both man and [[Horse|horse]]
 
 were gone, and nothing was left to witness against me but two
 
@@ -392,19 +392,19 @@ saturated with rain and coated with mud, indented and broken above the
 
 brim by that villainous whip-handle; in another, the crimson
 
-handkerchief, soaking in a deeply tinctured pool of water—for much rain
+handkerchief, soaking in a deeply tinctured pool of [[Water|water]]—for much rain
 
 had fallen in the interim.
 
 
 
-Bad news flies fast: it was hardly four o’clock when I got home, but my
+Bad news flies fast: it was hardly four o’[[Clock|clock]] when I got [[Home|home]], but my
 
-mother gravely accosted me with—“Oh, Gilbert!—_Such_ an accident! Rose
+mother gravely accosted me with—“Oh, Gilbert!—_Such_ an accident! [[Rose]]
 
 has been shopping in the village, and she’s heard that Mr. Lawrence has
 
-been thrown from his horse and brought home dying!”
+been thrown from his [[Horse|horse]] and brought [[Home|home]] dying!”
 
 
 
@@ -428,9 +428,9 @@ knew them.
 
 
 
-“Or to-day,” suggested Rose: “there’s plenty of time; and you can have
+“Or to-day,” suggested [[Rose]]: “there’s plenty of [[Time|time]]; and you can have
 
-the pony, as your horse is tired. Won’t you, Gilbert—as soon as you’ve
+the pony, as your [[Horse|horse]] is tired. Won’t you, Gilbert—as soon as you’ve
 
 had something to eat?”
 
@@ -450,15 +450,15 @@ him. That sounds far-fetched; but it isn’t so when you think of it.”
 
 
 
-“Well, but Lawrence is a good rider; it is not likely he would fall
+“[[Well]], but Lawrence is a good rider; it is not likely he would fall
 
-from his horse at all; and if he did, it is highly improbable he would
+from his [[Horse|horse]] at all; and if he did, it is highly improbable he would
 
 break his bones in that way. It must be a gross exaggeration at least.”
 
 
 
-“No; but the horse kicked him—or something.”
+“No; but the [[Horse|horse]] kicked him—or something.”
 
 
 
@@ -490,7 +490,7 @@ is.”
 
 
 
-“He has more time. I am busy just now.”
+“He has more [[Time|time]]. I am busy just now.”
 
 
 
@@ -498,7 +498,7 @@ is.”
 
 business for an hour or two in a case of this sort, when your friend is
 
-at the point of death.”
+at the point of [[Death|death]].”
 
 
 
@@ -528,11 +528,11 @@ carry your little differences to such a length as—”
 
 
 
-“Well, but only remember the occasion. Think how—”
+“[[Well]], but only remember the occasion. Think how—”
 
 
 
-“Well, well, don’t bother me now—I’ll see about it,” I replied.
+“[[Well]], [[Well|well]], don’t bother me now—I’ll see about it,” I replied.
 
 
 
@@ -548,7 +548,7 @@ complicated evils of a broken head and certain contusions (occasioned
 
 by a fall—of which he did not trouble himself to relate the
 
-particulars—and the subsequent misconduct of his horse), and a severe
+particulars—and the subsequent misconduct of his [[Horse|horse]]), and a severe
 
 cold, the consequence of lying on the wet ground in the rain; but there
 

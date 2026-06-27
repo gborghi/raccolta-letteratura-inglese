@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Mask of Socialism (part 12)"
+title: "[[UtopiaUsurers]] — The Mask of Socialism (part 12)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-best we deserve or can expect is a Fool who shall be free; and who shall
+best we deserve or can expect is a [[Fool]] who shall be free; and who shall
 
 deliver us with laughter.
 
@@ -50,9 +50,9 @@ is, if anything, rather more logical and free from cant than most other
 
 documents of the sort it is an excellent example of missing the point.
 
-The candidate has to go boring on about Free Trade and Land Reform and
+The candidate has to go boring on about Free Trade and Land [[Reform]] and
 
-Education; and nobody reading it could possibly imagine that in the town
+[[Education]]; and nobody reading it could possibly imagine that in the town
 
 of Wycombe, where the poll will be declared, the capital of the Wycombe
 
@@ -62,13 +62,13 @@ important and vital trade on which it has thriven, a savage struggle
 
 about justice has been raging for months past between the poor and rich,
 
-as real as the French Revolution. The man offering himself at Wycombe as
+as real as the [[French Revolution]]. The man offering himself at Wycombe as
 
 representative of the Wycombe division simply says nothing about it at
 
 all. It is as if a man at the crisis of the French Terror had offered
 
-himself as a deputy for the town of Paris, and had said nothing about
+himself as a deputy for the town of [[Paris]], and had said nothing about
 
 the Monarchy, nothing about the Republic, nothing about the massacres,
 
@@ -80,9 +80,9 @@ the suitability of Turenae for the post of commander-in-chief, and the
 
 religious reflections of Madame de Maintenon. For, at their best, the
 
-candidate's topics are not topical. Home Rule is a very good thing, and
+candidate's topics are not topical. [[Home]] Rule is a very good thing, and
 
-modern education is a very bad thing; but neither of them are things
+modern [[Education|education]] is a very bad thing; but neither of them are things
 
 that anybody is talking about in High Wycombe. This is the first and
 
@@ -104,7 +104,7 @@ candidate, but issue a perfectly frank and cynical Election Address.
 
 Mr. Mosley's address begins, "Gentlemen,--Sir Alfred Cripps having been
 
-chosen for a high judicial position and a seat in the House of Lords, a
+chosen for a high judicial position and a seat in the [[house|House]] of Lords, a
 
 by-election now becomes necessary, and the electors of South Bucks are
 
@@ -112,11 +112,11 @@ charged with the responsible duty of electing, etc., etc." But suppose
 
 there were another candidate whose election address opened in a plain,
 
-manly style, like this: "Gentlemen,--In the sincere hope of being myself
+manly style, like this: "Gentlemen,--In the sincere [[Hope|hope]] of being myself
 
-chosen for a high judicial position or a seat in the House of Lords,
+chosen for a high judicial position or a seat in the [[house|House]] of Lords,
 
-or considerably increasing my private fortune by some Government
+or considerably increasing my private fortune by some [[government|Government]]
 
 appointment, or, at least, inside information about the financial
 
@@ -124,7 +124,7 @@ prospects, I have decided that it is worth my while to disburse large
 
 sums of money to you on various pretexts, and, with even more reluctance
 
-to endure the bad speaking and bad ventilation of the Commons' House
+to endure the bad speaking and bad ventilation of the Commons' [[house|House]]
 
 of Parliament, so help me God. I have very pronounced convictions on
 
@@ -146,9 +146,9 @@ will have no conceivable kind of effect on anything or anybody except
 
 myself; so I ask, as man to man, the Electors of the Southern or Wycombe
 
-Division of the County of Buckingham to accept a ride in one of my
+Division of the County of [[Buckingham]] to accept a ride in one of my
 
-motor-cars; and poll early to please a pal--God Save the King." I do not
+motor-cars; and poll early to please a pal--God Save the [[King]]." I do not
 
 know whether you or I would be elected if we presented ourselves with
 
@@ -172,23 +172,23 @@ Tyranny and Head-Dress
 
 But there is another and more subtle way in which we may miss the point;
 
-and that is, not by keeping a dead silence about it, but by being just
+and that is, not by keeping a dead [[Silence|silence]] about it, but by being just
 
 witty enough to state it wrong. Thus, some of the Liberal official
 
-papers have almost screwed up their courage to the sticking-point about
+papers have almost screwed up their [[Courage|courage]] to the sticking-point about
 
 the bestial coup d'etat in South Africa. They have screwed up their
 
-courage to the sticking-point; and it has stuck. It cannot get any
+[[Courage|courage]] to the sticking-point; and it has stuck. It cannot get any
 
 further; because it has missed the main point. The modern Liberals make
 
-their feeble attempts to attack the introduction of slavery into South
+their feeble attempts to attack the introduction of [[Slavery|slavery]] into South
 
 Africa by the Dutch and the Jews, by a very typical evasion of the vital
 
-fact. The vital fact is simply slavery. Most of these Dutchmen have
+fact. The vital fact is simply [[Slavery|slavery]]. Most of these Dutchmen have
 
 always felt like slave-owners. Most of these Jews have always felt like
 
@@ -204,7 +204,7 @@ something specially wicked about men doing an act of cruelty in khaki
 
 or in vermilion, but not if it is done in dark blue with pewter buttons.
 
-The tyrant who wears a busby or a forage cap is abominable; the tyrant
+The [[Tyrant|tyrant]] who wears a busby or a forage cap is abominable; the [[Tyrant|tyrant]]
 
 who wears a horsehair wig is excusable. To be judged by soldiers is
 

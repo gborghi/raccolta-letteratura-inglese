@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 38 (part 1)"
+title: "Bleak [[house|House]] — Chapter 38 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,7 +19,7 @@ CHAPTER XXXVIII
 A Struggle
 
 
-When our time came for returning to Bleak House again, we were
+When our [[Time|time]] came for returning to Bleak [[house|House]] again, we were
 punctual to the day and were received with an overpowering welcome. I
 was perfectly restored to health and strength, and finding my
 housekeeping keys laid ready for me in my room, rang myself in as if
@@ -30,29 +30,29 @@ ought to be. That’s all I have to say to you, my dear!”
 
 The first few mornings were mornings of so much bustle and business,
 devoted to such settlements of accounts, such repeated journeys to
-and fro between the growlery and all other parts of the house, so
+and fro between the growlery and all other parts of the [[house]], so
 many rearrangements of drawers and presses, and such a general new
 beginning altogether, that I had not a moment’s leisure. But when
 these arrangements were completed and everything was in order, I paid
-a visit of a few hours to London, which something in the letter I had
+a visit of a few hours to [[London]], which something in the letter I had
 destroyed at Chesney Wold had induced me to decide upon in my own
 mind.
 
 I made Caddy Jellyby—her maiden name was so natural to me that I
 always called her by it—the pretext for this visit and wrote her a
 note previously asking the favour of her company on a little business
-expedition. Leaving home very early in the morning, I got to London
-by stage-coach in such good time that I got to Newman Street with the
+expedition. Leaving [[Home|home]] very early in the morning, I got to [[London]]
+by stage-coach in such good [[Time|time]] that I got to Newman Street with the
 day before me.
 
 Caddy, who had not seen me since her wedding-day, was so glad and so
-affectionate that I was half inclined to fear I should make her
+affectionate that I was half inclined to [[Fear|fear]] I should make her
 husband jealous. But he was, in his way, just as bad—I mean as good;
 and in short it was the old story, and nobody would leave me any
 possibility of doing anything meritorious.
 
 The elder Mr. Turveydrop was in bed, I found, and Caddy was
-milling his chocolate, which a melancholy little boy who was an
+milling his chocolate, which a [[Melancholy|melancholy]] little boy who was an
 apprentice—it seemed such a curious thing to be apprenticed to the
 trade of dancing—was waiting to carry upstairs. Her father-in-law
 was extremely kind and considerate, Caddy told me, and they lived
@@ -85,7 +85,7 @@ such a resting-place for it.
 
 “And you, Caddy,” said I, “you are always busy, I’ll be bound?”
 
-“Well, my dear,” returned Caddy, “I am indeed, for to tell you a
+“[[Well]], my dear,” returned Caddy, “I am indeed, for to tell you a
 grand secret, I am qualifying myself to give lessons. Prince’s health
 is not strong, and I want to be able to assist him. What with
 schools, and classes here, and private pupils, AND the apprentices,
@@ -98,20 +98,20 @@ Caddy if there were many of them.
 very good children; only when they get together they WILL
 play—children-like—instead of attending to their work. So the
 little boy you saw just now waltzes by himself in the empty kitchen,
-and we distribute the others over the house as well as we can.”
+and we distribute the others over the [[house]] as [[Well|well]] as we can.”
 
 “That is only for their steps, of course?” said I.
 
 “Only for their steps,” said Caddy. “In that way they practise, so
-many hours at a time, whatever steps they happen to be upon. They
-dance in the academy, and at this time of year we do figures at five
+many hours at a [[Time|time]], whatever steps they happen to be upon. They
+[[Dance|dance]] in the academy, and at this [[Time|time]] of year we do figures at five
 every morning.”
 
 “Why, what a laborious life!” I exclaimed.
 
 “I assure you, my dear,” returned Caddy, smiling, “when the out-door
 apprentices ring us up in the morning (the bell rings into our room,
-not to disturb old Mr. Turveydrop), and when I put up the window and
+not to disturb old Mr. Turveydrop), and when I put up the [[Window|window]] and
 see them standing on the door-step with their little pumps under
 their arms, I am actually reminded of the Sweeps.”
 
@@ -121,7 +121,7 @@ recounted the particulars of her own studies.
 
 “You see, my dear, to save expense I ought to know something of the
 piano, and I ought to know something of the kit too, and consequently
-I have to practise those two instruments as well as the details of
+I have to practise those two instruments as [[Well|well]] as the details of
 our profession. If Ma had been like anybody else, I might have had
 some little musical knowledge to begin upon. However, I hadn’t any;
 and that part of the work is, at first, a little discouraging, I must
@@ -136,6 +136,6 @@ said, “Don’t laugh at me, please; that’s a dear girl!”
 I would sooner have cried, but I did neither. I encouraged her and
 praised her with all my heart. For I conscientiously believed,
 dancing-master’s wife though she was, and dancing-mistress though in
-her limited ambition she aspired to be, she had struck out a natural,
+her limited [[Ambition|ambition]] she aspired to be, she had struck out a natural,
 wholesome, loving course of industry and perseverance that was quite
 as good as a mission.

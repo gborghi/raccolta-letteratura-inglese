@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 36: ENTHUSIASM"
+title: "[[David Copperfield]] — Chapter 36: ENTHUSIASM"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -28,7 +28,7 @@ axe in my hand, and clear my own way through the forest of difficulty,
 by cutting down the trees until I came to Dora. And I went on at a
 mighty rate, as if it could be done by walking.
 
-When I found myself on the familiar Highgate road, pursuing such a
+When I found myself on the familiar Highgate [[Road|road]], pursuing such a
 different errand from that old one of pleasure, with which it was
 associated, it seemed as if a complete change had come on my whole life.
 But that did not discourage me. With the new life, came new purpose,
@@ -39,14 +39,14 @@ I got into such a transport, that I felt quite sorry my coat was not
 a little shabby already. I wanted to be cutting at those trees in the
 forest of difficulty, under circumstances that should prove my strength.
 I had a good mind to ask an old man, in wire spectacles, who was
-breaking stones upon the road, to lend me his hammer for a little while,
+breaking stones upon the [[Road|road]], to lend me his hammer for a little while,
 and let me begin to beat a path to Dora out of granite. I stimulated
 myself into such a heat, and got so out of breath, that I felt as if I
 had been earning I don’t know how much.
 
 In this state, I went into a cottage that I saw was to let, and examined
 it narrowly,--for I felt it necessary to be practical. It would do for
-me and Dora admirably: with a little front garden for Jip to run about
+me and Dora admirably: with a little front [[Garden|garden]] for Jip to run about
 in, and bark at the tradespeople through the railings, and a capital
 room upstairs for my aunt. I came out again, hotter and faster than
 ever, and dashed up to Highgate, at such a rate that I was there an
@@ -54,11 +54,11 @@ hour too early; and, though I had not been, should have been obliged to
 stroll about to cool myself, before I was at all presentable.
 
 My first care, after putting myself under this necessary course of
-preparation, was to find the Doctor’s house. It was not in that part of
+preparation, was to find the Doctor’s [[house]]. It was not in that part of
 Highgate where Mrs. Steerforth lived, but quite on the opposite side
 of the little town. When I had made this discovery, I went back, in
 an attraction I could not resist, to a lane by Mrs. Steerforth’s, and
-looked over the corner of the garden wall. His room was shut up close.
+looked over the corner of the [[Garden|garden]] wall. His room was shut up close.
 The conservatory doors were standing open, and Rosa Dartle was walking,
 bareheaded, with a quick, impetuous step, up and down a gravel walk on
 one side of the lawn. She gave me the idea of some fierce thing, that
@@ -67,15 +67,15 @@ wearing its heart out.
 
 I came softly away from my place of observation, and avoiding that part
 of the neighbourhood, and wishing I had not gone near it, strolled about
-until it was ten o’clock. The church with the slender spire, that stands
-on the top of the hill now, was not there then to tell me the time. An
+until it was ten o’[[Clock|clock]]. The church with the slender spire, that stands
+on the top of the [[Hill|hill]] now, was not there then to tell me the [[Time|time]]. An
 old red-brick mansion, used as a school, was in its place; and a fine
-old house it must have been to go to school at, as I recollect it.
+old [[house]] it must have been to go to school at, as I recollect it.
 
 When I approached the Doctor’s cottage--a pretty old place, on which
 he seemed to have expended some money, if I might judge from the
 embellishments and repairs that had the look of being just completed--I
-saw him walking in the garden at the side, gaiters and all, as if he
+saw him walking in the [[Garden|garden]] at the side, gaiters and all, as if he
 had never left off walking since the days of my pupilage. He had his old
 companions about him, too; for there were plenty of high trees in the
 neighbourhood, and two or three rooks were on the grass, looking after
@@ -93,30 +93,30 @@ pleasure, and he took me by both hands.
 do? I am delighted to see you. My dear Copperfield, how very much you
 have improved! You are quite--yes--dear me!’
 
-I hoped he was well, and Mrs. Strong too.
+I hoped he was [[Well|well]], and Mrs. Strong too.
 
-‘Oh dear, yes!’ said the Doctor; ‘Annie’s quite well, and she’ll be
+‘Oh dear, yes!’ said the Doctor; ‘Annie’s quite [[Well|well]], and she’ll be
 delighted to see you. You were always her favourite. She said so,
-last night, when I showed her your letter. And--yes, to be sure--you
+last [[Night|night]], when I showed her your letter. And--yes, to be sure--you
 recollect Mr. Jack Maldon, Copperfield?’
 
 ‘Perfectly, sir.’
 
-‘Of course,’ said the Doctor. ‘To be sure. He’s pretty well, too.’
+‘Of course,’ said the Doctor. ‘To be sure. He’s pretty [[Well|well]], too.’
 
-‘Has he come home, sir?’ I inquired.
+‘Has he come [[Home|home]], sir?’ I inquired.
 
 ‘From India?’ said the Doctor. ‘Yes. Mr. Jack Maldon couldn’t bear
 the climate, my dear. Mrs. Markleham--you have not forgotten Mrs.
 Markleham?’
 
-Forgotten the Old Soldier! And in that short time!
+Forgotten the Old Soldier! And in that short [[Time|time]]!
 
 ‘Mrs. Markleham,’ said the Doctor, ‘was quite vexed about him, poor
-thing; so we have got him at home again; and we have bought him a little
+thing; so we have got him at [[Home|home]] again; and we have bought him a little
 Patent place, which agrees with him much better.’ I knew enough of Mr.
 Jack Maldon to suspect from this account that it was a place where there
-was not much to do, and which was pretty well paid. The Doctor, walking
+was not much to do, and which was pretty [[Well|well]] paid. The Doctor, walking
 up and down with his hand on my shoulder, and his kind face turned
 encouragingly to mine, went on:
 
@@ -125,14 +125,14 @@ very gratifying and agreeable to me, I am sure; but don’t you think you
 could do better? You achieved distinction, you know, when you were with
 us. You are qualified for many good things. You have laid a foundation
 that any edifice may be raised upon; and is it not a pity that you
-should devote the spring-time of your life to such a poor pursuit as I
+should devote the [[spring]]-[[Time|time]] of your life to such a poor pursuit as I
 can offer?’
 
 I became very glowing again, and, expressing myself in a rhapsodical
 style, I am afraid, urged my request strongly; reminding the Doctor that
 I had already a profession.
 
-‘Well, well,’ said the Doctor, ‘that’s true. Certainly, your having
+‘[[Well]], [[Well|well]],’ said the Doctor, ‘that’s true. Certainly, your having
 a profession, and being actually engaged in studying it, makes a
 difference. But, my good young friend, what’s seventy pounds a year?’
 
@@ -150,14 +150,14 @@ owe more obligations already than I ever can acknowledge--’
 
 ‘No, no,’ interposed the Doctor. ‘Pardon me!’
 
-‘If you will take such time as I have, and that is my mornings and
+‘If you will take such [[Time|time]] as I have, and that is my mornings and
 evenings, and can think it worth seventy pounds a year, you will do me
 such a service as I cannot express.’
 
 ‘Dear me!’ said the Doctor, innocently. ‘To think that so little should
 go for so much! Dear, dear! And when you can do better, you will? On
-your word, now?’ said the Doctor,--which he had always made a very grave
-appeal to the honour of us boys.
+your word, now?’ said the Doctor,--which he had always made a very [[Grave|grave]]
+appeal to the [[Honour|honour]] of us boys.
 
 ‘On my word, sir!’ I returned, answering in our old school manner.
 
@@ -165,7 +165,7 @@ appeal to the honour of us boys.
 keeping his hand there, as we still walked up and down.
 
 ‘And I shall be twenty times happier, sir,’ said I, with a little--I
-hope innocent--flattery, ‘if my employment is to be on the Dictionary.’
+[[Hope|hope]] [[Innocent|innocent]]--flattery, ‘if my employment is to be on the Dictionary.’
 
 The Doctor stopped, smilingly clapped me on the shoulder again, and
 exclaimed, with a triumph most delightful to behold, as if I had
@@ -190,21 +190,21 @@ obscurity.
 
 The Doctor was quite happy in the prospect of our going to work together
 on that wonderful performance, and we settled to begin next morning at
-seven o’clock. We were to work two hours every morning, and two or three
-hours every night, except on Saturdays, when I was to rest. On Sundays,
+seven o’[[Clock|clock]]. We were to work two hours every morning, and two or three
+hours every [[Night|night]], except on Saturdays, when I was to rest. On Sundays,
 of course, I was to rest also, and I considered these very easy terms.
 
 Our plans being thus arranged to our mutual satisfaction, the Doctor
-took me into the house to present me to Mrs. Strong, whom we found in
-the Doctor’s new study, dusting his books,--a freedom which he never
+took me into the [[house]] to present me to Mrs. Strong, whom we found in
+the Doctor’s new study, dusting his books,--a [[Freedom|freedom]] which he never
 permitted anybody else to take with those sacred favourites.
 
 They had postponed their breakfast on my account, and we sat down to
 table together. We had not been seated long, when I saw an approaching
 arrival in Mrs. Strong’s face, before I heard any sound of it. A
-gentleman on horseback came to the gate, and leading his horse into the
-little court, with the bridle over his arm, as if he were quite at home,
-tied him to a ring in the empty coach-house wall, and came into the
+gentleman on horseback came to the gate, and leading his [[Horse|horse]] into the
+little [[Court|court]], with the bridle over his arm, as if he were quite at [[Home|home]],
+tied him to a ring in the empty coach-[[house]] wall, and came into the
 breakfast parlour, whip in hand. It was Mr. Jack Maldon; and Mr. Jack
 Maldon was not at all improved by India, I thought. I was in a state
 of ferocious virtue, however, as to young men who were not cutting down
@@ -228,7 +228,7 @@ back in an easy-chair. ‘I find it bores me.’
 the people being hungry and discontented down in the North, but they are
 always being hungry and discontented somewhere.’
 
-The Doctor looked grave, and said, as though he wished to change the
+The Doctor looked [[Grave|grave]], and said, as though he wished to change the
 subject, ‘Then there’s no news at all; and no news, they say, is good
 news.’
 
@@ -237,16 +237,16 @@ Mr. Maldon. ‘But somebody is always being murdered, and I didn’t read
 it.’
 
 A display of indifference to all the actions and passions of mankind was
-not supposed to be such a distinguished quality at that time, I think,
+not supposed to be such a distinguished quality at that [[Time|time]], I think,
 as I have observed it to be considered since. I have known it very
-fashionable indeed. I have seen it displayed with such success, that I
-have encountered some fine ladies and gentlemen who might as well have
+fashionable indeed. I have seen it displayed with such [[success]], that I
+have encountered some fine ladies and gentlemen who might as [[Well|well]] have
 been born caterpillars. Perhaps it impressed me the more then, because
 it was new to me, but it certainly did not tend to exalt my opinion of,
 or to strengthen my confidence in, Mr. Jack Maldon.
 
 ‘I came out to inquire whether Annie would like to go to the opera
-tonight,’ said Mr. Maldon, turning to her. ‘It’s the last good night
+tonight,’ said Mr. Maldon, turning to her. ‘It’s the last good [[Night|night]]
 there will be, this season; and there’s a singer there, whom she really
 ought to hear. She is perfectly exquisite. Besides which, she is so
 charmingly ugly,’ relapsing into languor.
@@ -257,7 +257,7 @@ turned to her and said:
 ‘You must go, Annie. You must go.’
 
 ‘I would rather not,’ she said to the Doctor. ‘I prefer to remain at
-home. I would much rather remain at home.’
+[[Home|home]]. I would much rather remain at [[Home|home]].’
 
 Without looking at her cousin, she then addressed me, and asked me about
 Agnes, and whether she should see her, and whether she was not likely to
@@ -267,32 +267,32 @@ Doctor, buttering his toast, could be blind to what was so obvious.
 But he saw nothing. He told her, good-naturedly, that she was young and
 ought to be amused and entertained, and must not allow herself to be
 made dull by a dull old fellow. Moreover, he said, he wanted to hear her
-sing all the new singer’s songs to him; and how could she do that well,
+sing all the new singer’s [[songs]] to him; and how could she do that [[Well|well]],
 unless she went? So the Doctor persisted in making the engagement for
 her, and Mr. Jack Maldon was to come back to dinner. This concluded, he
 went to his Patent place, I suppose; but at all events went away on his
-horse, looking very idle.
+[[Horse|horse]], looking very idle.
 
 I was curious to find out next morning, whether she had been. She had
-not, but had sent into London to put her cousin off; and had gone out in
+not, but had sent into [[London]] to put her cousin off; and had gone out in
 the afternoon to see Agnes, and had prevailed upon the Doctor to go with
-her; and they had walked home by the fields, the Doctor told me, the
+her; and they had walked [[Home|home]] by the fields, the Doctor told me, the
 evening being delightful. I wondered then, whether she would have gone
 if Agnes had not been in town, and whether Agnes had some good influence
 over her too!
 
 She did not look very happy, I thought; but it was a good face, or a
-very false one. I often glanced at it, for she sat in the window all the
-time we were at work; and made our breakfast, which we took by snatches
-as we were employed. When I left, at nine o’clock, she was kneeling on
+very false one. I often glanced at it, for she sat in the [[Window|window]] all the
+[[Time|time]] we were at work; and made our breakfast, which we took by snatches
+as we were employed. When I left, at nine o’[[Clock|clock]], she was kneeling on
 the ground at the Doctor’s feet, putting on his shoes and gaiters for
 him. There was a softened shade upon her face, thrown from some green
-leaves overhanging the open window of the low room; and I thought all
-the way to Doctors’ Commons, of the night when I had seen it looking at
+[[Leaves|leaves]] overhanging the open [[Window|window]] of the low room; and I thought all
+the way to Doctors’ Commons, of the [[Night|night]] when I had seen it looking at
 him as he read.
 
-I was pretty busy now; up at five in the morning, and home at nine
-or ten at night. But I had infinite satisfaction in being so
+I was pretty busy now; up at five in the morning, and [[Home|home]] at nine
+or ten at [[Night|night]]. But I had infinite satisfaction in being so
 closely engaged, and never walked slowly on any account, and felt
 enthusiastically that the more I tired myself, the more I was doing to
 deserve Dora. I had not revealed myself in my altered character to
@@ -301,12 +301,12 @@ I deferred all I had to tell her until then; merely informing her in
 my letters (all our communications were secretly forwarded through Miss
 Mills), that I had much to tell her. In the meantime, I put myself on
 a short allowance of bear’s grease, wholly abandoned scented soap and
-lavender water, and sold off three waistcoats at a prodigious sacrifice,
+lavender [[Water|water]], and sold off three waistcoats at a prodigious sacrifice,
 as being too luxurious for my stern career.
 
 Not satisfied with all these proceedings, but burning with impatience
 to do something more, I went to see Traddles, now lodging up behind the
-parapet of a house in Castle Street, Holborn. Mr. Dick, who had been
+parapet of a [[house]] in [[Castle]] Street, Holborn. Mr. Dick, who had been
 with me to Highgate twice already, and had resumed his companionship
 with the Doctor, I took with me.
 
@@ -315,14 +315,14 @@ reverses, and sincerely believing that no galley-slave or convict worked
 as I did, he had begun to fret and worry himself out of spirits and
 appetite, as having nothing useful to do. In this condition, he felt
 more incapable of finishing the Memorial than ever; and the harder he
-worked at it, the oftener that unlucky head of King Charles the First
+worked at it, the oftener that unlucky head of [[King]] Charles the First
 got into it. Seriously apprehending that his malady would increase,
-unless we put some innocent deception upon him and caused him to believe
+unless we put some [[Innocent|innocent]] [[Deception|deception]] upon him and caused him to believe
 that he was useful, or unless we could put him in the way of being
 really useful (which would be better), I made up my mind to try
 if Traddles could help us. Before we went, I wrote Traddles a full
 statement of all that had happened, and Traddles wrote me back a capital
-answer, expressive of his sympathy and friendship.
+answer, expressive of his sympathy and [[Friendship|friendship]].
 
 We found him hard at work with his inkstand and papers, refreshed by the
 sight of the flower-pot stand and the little round table in a corner of
@@ -349,12 +349,12 @@ Dora through this thicket, axe in hand.
 ‘I am very much obliged to you, my dear Traddles!’ said I. ‘I’ll begin
 tomorrow.’
 
-Traddles looked astonished, as he well might; but he had no notion as
+Traddles looked astonished, as he [[Well|well]] might; but he had no notion as
 yet of my rapturous condition.
 
 ‘I’ll buy a book,’ said I, ‘with a good scheme of this art in it; I’ll
 work at it at the Commons, where I haven’t half enough to do; I’ll take
-down the speeches in our court for practice--Traddles, my dear fellow,
+down the speeches in our [[Court|court]] for practice--Traddles, my dear fellow,
 I’ll master it!’
 
 ‘Dear me,’ said Traddles, opening his eyes, ‘I had no idea you were such
@@ -366,7 +366,7 @@ passed that off, and brought Mr. Dick on the carpet.
 ‘You see,’ said Mr. Dick, wistfully, ‘if I could exert myself, Mr.
 Traddles--if I could beat a drum--or blow anything!’
 
-Poor fellow! I have little doubt he would have preferred such an
+Poor fellow! I have little [[Doubt|doubt]] he would have preferred such an
 employment in his heart to all others. Traddles, who would not have
 smiled for the world, replied composedly:
 
@@ -382,7 +382,7 @@ Mr. Dick looked doubtfully at me. ‘Eh, Trotwood?’
 I shook my head. Mr. Dick shook his, and sighed. ‘Tell him about the
 Memorial,’ said Mr. Dick.
 
-I explained to Traddles that there was a difficulty in keeping King
+I explained to Traddles that there was a difficulty in keeping [[King]]
 Charles the First out of Mr. Dick’s manuscripts; Mr. Dick in the
 meanwhile looking very deferentially and seriously at Traddles, and
 sucking his thumb.
@@ -390,36 +390,36 @@ sucking his thumb.
 ‘But these writings, you know, that I speak of, are already drawn up
 and finished,’ said Traddles after a little consideration. ‘Mr. Dick has
 nothing to do with them. Wouldn’t that make a difference, Copperfield?
-At all events, wouldn’t it be well to try?’
+At all events, wouldn’t it be [[Well|well]] to try?’
 
-This gave us new hope. Traddles and I laying our heads together apart,
+This gave us new [[Hope|hope]]. Traddles and I laying our heads together apart,
 while Mr. Dick anxiously watched us from his chair, we concocted a
 scheme in virtue of which we got him to work next day, with triumphant
-success.
+[[success]].
 
-On a table by the window in Buckingham Street, we set out the work
+On a table by the [[Window|window]] in [[Buckingham]] Street, we set out the work
 Traddles procured for him--which was to make, I forget how many copies
 of a legal document about some right of way--and on another table
 we spread the last unfinished original of the great Memorial. Our
 instructions to Mr. Dick were that he should copy exactly what he had
 before him, without the least departure from the original; and that when
-he felt it necessary to make the slightest allusion to King Charles the
+he felt it necessary to make the slightest allusion to [[King]] Charles the
 First, he should fly to the Memorial. We exhorted him to be resolute
 in this, and left my aunt to observe him. My aunt reported to us,
 afterwards, that, at first, he was like a man playing the kettle-drums,
 and constantly divided his attentions between the two; but that, finding
 this confuse and fatigue him, and having his copy there, plainly before
 his eyes, he soon sat at it in an orderly business-like manner, and
-postponed the Memorial to a more convenient time. In a word, although we
+postponed the Memorial to a more convenient [[Time|time]]. In a word, although we
 took great care that he should have no more to do than was good for him,
 and although he did not begin with the beginning of a week, he earned
-by the following Saturday night ten shillings and nine-pence; and never,
+by the following Saturday [[Night|night]] ten shillings and nine-pence; and never,
 while I live, shall I forget his going about to all the shops in the
 neighbourhood to change this treasure into sixpences, or his bringing
 them to my aunt arranged in the form of a heart upon a waiter, with
-tears of joy and pride in his eyes. He was like one under the propitious
+[[Tears|tears]] of joy and [[Pride|pride]] in his eyes. He was like one under the propitious
 influence of a charm, from the moment of his being usefully employed;
-and if there were a happy man in the world, that Saturday night, it was
+and if there were a happy man in the world, that Saturday [[Night|night]], it was
 the grateful creature who thought my aunt the most wonderful woman in
 existence, and me the most wonderful young man.
 
@@ -465,15 +465,15 @@ confer a Boon
                          ‘Who
                               ‘Is
                                    ‘Ever yours,
-                                        ‘WILKINS MICAWBER.’
+                                        ‘[[Wilkins Micawber|WILKINS MICAWBER]].’
 
 
-I was glad to find that Mr. Micawber had got rid of his dust and ashes,
+I was glad to find that Mr. Micawber had got rid of his [[Dust|dust]] and ashes,
 and that something really had turned up at last. Learning from Traddles
 that the invitation referred to the evening then wearing away, I
-expressed my readiness to do honour to it; and we went off together to
+expressed my readiness to do [[Honour|honour]] to it; and we went off together to
 the lodging which Mr. Micawber occupied as Mr. Mortimer, and which was
-situated near the top of the Gray’s Inn Road.
+situated near the top of the Gray’s Inn [[Road]].
 
 The resources of this lodging were so limited, that we found the twins,
 now some eight or nine years old, reposing in a turn-up bedstead in
@@ -496,17 +496,17 @@ means overwhelming. I congratulated Mrs. Micawber on the approaching
 change.
 
 ‘My dear Mr. Copperfield,’ said Mrs. Micawber, ‘of your friendly
-interest in all our affairs, I am well assured. My family may consider
+interest in all our affairs, I am [[Well|well]] assured. My family may consider
 it banishment, if they please; but I am a wife and mother, and I never
-will desert Mr. Micawber.’
+will [[Desert|desert]] Mr. Micawber.’
 
 Traddles, appealed to by Mrs. Micawber’s eye, feelingly acquiesced.
 
 ‘That,’ said Mrs. Micawber, ‘that, at least, is my view, my dear Mr.
 Copperfield and Mr. Traddles, of the obligation which I took upon myself
-when I repeated the irrevocable words, “I, Emma, take thee, Wilkins.” I
-read the service over with a flat-candle on the previous night, and
-the conclusion I derived from it was, that I never could desert Mr.
+when I repeated the irrevocable words, “I, [[Emma]], take thee, Wilkins.” I
+read the service over with a flat-candle on the previous [[Night|night]], and
+the conclusion I derived from it was, that I never could [[Desert|desert]] Mr.
 Micawber. And,’ said Mrs. Micawber, ‘though it is possible I may be
 mistaken in my view of the ceremony, I never will!’
 
@@ -520,17 +520,17 @@ most gentlemanly terms, announcing that fact, have not taken the least
 notice of Mr. Micawber’s communication. Indeed I may be superstitious,’
 said Mrs. Micawber, ‘but it appears to me that Mr. Micawber is destined
 never to receive any answers whatever to the great majority of the
-communications he writes. I may augur, from the silence of my family,
+communications he writes. I may augur, from the [[Silence|silence]] of my family,
 that they object to the resolution I have taken; but I should not allow
 myself to be swerved from the path of duty, Mr. Copperfield, even by my
 papa and mama, were they still living.’
 
 I expressed my opinion that this was going in the right direction. ‘It
-may be a sacrifice,’ said Mrs. Micawber, ‘to immure one’s-self in a
-Cathedral town; but surely, Mr. Copperfield, if it is a sacrifice in me,
+may be a sacrifice,’ said Mrs. Micawber, ‘to immure one’s-[[Self|self]] in a
+[[Cathedral]] town; but surely, Mr. Copperfield, if it is a sacrifice in me,
 it is much more a sacrifice in a man of Mr. Micawber’s abilities.’
 
-‘Oh! You are going to a Cathedral town?’ said I.
+‘Oh! You are going to a [[Cathedral]] town?’ said I.
 
 Mr. Micawber, who had been helping us all, out of the wash-hand-stand
 jug, replied:
@@ -548,11 +548,11 @@ in a great measure conduced to this result. The gauntlet, to which Mrs.
 Micawber referred upon a former occasion, being thrown down in the form
 of an advertisement, was taken up by my friend Heep, and led to a mutual
 recognition. Of my friend Heep,’ said Mr. Micawber, ‘who is a man of
-remarkable shrewdness, I desire to speak with all possible respect.
+remarkable shrewdness, I [[Desire|desire]] to speak with all possible respect.
 My friend Heep has not fixed the positive remuneration at too high a
 figure, but he has made a great deal, in the way of extrication from
 the pressure of pecuniary difficulties, contingent on the value of
-my services; and on the value of those services I pin my faith. Such
+my services; and on the value of those services I pin my [[Faith|faith]]. Such
 address and intelligence as I chance to possess,’ said Mr. Micawber,
 boastfully disparaging himself, with the old genteel air, ‘will be
 devoted to my friend Heep’s service. I have already some acquaintance
@@ -566,7 +566,7 @@ made that evening, were interrupted by Mrs. Micawber’s discovering that
 Master Micawber was sitting on his boots, or holding his head on with
 both arms as if he felt it loose, or accidentally kicking Traddles under
 the table, or shuffling his feet over one another, or producing them
-at distances from himself apparently outrageous to nature, or lying
+at distances from himself apparently outrageous to [[Nature|nature]], or lying
 sideways with his hair among the wine-glasses, or developing his
 restlessness of limb in some other form incompatible with the general
 interests of society; and by Master Micawber’s receiving those
@@ -586,7 +586,7 @@ the pale of those preferments by entering on such an office as Mr.
 Micawber has accepted?’
 
 ‘My dear,’ observed Mr. Micawber--but glancing inquisitively at
-Traddles, too; ‘we have time enough before us, for the consideration of
+Traddles, too; ‘we have [[Time|time]] enough before us, for the consideration of
 those questions.’
 
 ‘Micawber,’ she returned, ‘no! Your mistake in life is, that you do not
@@ -599,7 +599,7 @@ satisfaction--still glancing at Traddles, as if he desired to have his
 opinion.
 
 ‘Why, the plain state of the case, Mrs. Micawber,’ said Traddles, mildly
-breaking the truth to her. ‘I mean the real prosaic fact, you know--’
+breaking the [[Truth|truth]] to her. ‘I mean the real prosaic fact, you know--’
 
 ‘Just so,’ said Mrs. Micawber, ‘my dear Mr. Traddles, I wish to be as
 prosaic and literal as possible on a subject of so much importance.’
@@ -612,7 +612,7 @@ will not be able to get your eyes back.’)
 
 ‘--Has nothing,’ pursued Traddles, ‘to do with that. Only a barrister
 is eligible for such preferments; and Mr. Micawber could not be a
-barrister, without being entered at an inn of court as a student, for
+barrister, without being entered at an inn of [[Court|court]] as a student, for
 five years.’
 
 ‘Do I follow you?’ said Mrs. Micawber, with her most affable air
@@ -627,13 +627,13 @@ that word.
 the case, and Mr. Micawber forfeits no privilege by entering on these
 duties, my anxiety is set at rest. I speak,’ said Mrs. Micawber, ‘as a
 female, necessarily; but I have always been of opinion that Mr. Micawber
-possesses what I have heard my papa call, when I lived at home, the
-judicial mind; and I hope Mr. Micawber is now entering on a field where
+possesses what I have heard my papa call, when I lived at [[Home|home]], the
+judicial mind; and I [[Hope|hope]] Mr. Micawber is now entering on a field where
 that mind will develop itself, and take a commanding station.’
 
 I quite believe that Mr. Micawber saw himself, in his judicial mind’s
 eye, on the woolsack. He passed his hand complacently over his bald
-head, and said with ostentatious resignation:
+head, and said with ostentatious [[Resignation|resignation]]:
 
 ‘My dear, we will not anticipate the decrees of fortune. If I am
 reserved to wear a wig, I am at least prepared, externally,’ in allusion
@@ -648,8 +648,8 @@ Heep.
 
 ‘Yes,’ said Mr. Micawber. ‘He has a remarkable head-voice, and will
 commence as a chorister. Our residence at Canterbury, and our local
-connexion, will, no doubt, enable him to take advantage of any vacancy
-that may arise in the Cathedral corps.’
+connexion, will, no [[Doubt|doubt]], enable him to take advantage of any vacancy
+that may arise in the [[Cathedral]] corps.’
 
 On looking at Master Micawber again, I saw that he had a certain
 expression of face, as if his voice were behind his eyebrows; where it
@@ -663,7 +663,7 @@ difficulties; and how comfortable and friendly it made them.
 
 When we were nearly come to the last round of the punch, I addressed
 myself to Traddles, and reminded him that we must not separate, without
-wishing our friends health, happiness, and success in their new career.
+wishing our friends health, happiness, and [[success]] in their new career.
 I begged Mr. Micawber to fill us bumpers, and proposed the toast in
 due form: shaking hands with him across the table, and kissing Mrs.
 Micawber, to commemorate that eventful occasion. Traddles imitated me
@@ -691,11 +691,11 @@ recoil--I allude to spectacles--and possessing myself of a cognomen, to
 which I can establish no legitimate pretensions. All I have to say on
 that score is, that the cloud has passed from the dreary scene, and the
 God of Day is once more high upon the mountain tops. On Monday next, on
-the arrival of the four o’clock afternoon coach at Canterbury, my foot
+the arrival of the four o’[[Clock|clock]] afternoon coach at Canterbury, my foot
 will be on my native heath--my name, Micawber!’
 
 Mr. Micawber resumed his seat on the close of these remarks, and
-drank two glasses of punch in grave succession. He then said with much
+drank two glasses of punch in [[Grave|grave]] succession. He then said with much
 solemnity:
 
 ‘One thing more I have to do, before this separation is complete, and
@@ -723,17 +723,17 @@ eleven and a half, and I am happy to recover my moral dignity, and to
 know that I can once more walk erect before my fellow man!’
 
 With this introduction (which greatly affected him), Mr. Micawber placed
-his I.O.U. in the hands of Traddles, and said he wished him well in
+his I.O.U. in the hands of Traddles, and said he wished him [[Well|well]] in
 every relation of life. I am persuaded, not only that this was quite
 the same to Mr. Micawber as paying the money, but that Traddles himself
-hardly knew the difference until he had had time to think about it. Mr.
+hardly knew the difference until he had had [[Time|time]] to think about it. Mr.
 Micawber walked so erect before his fellow man, on the strength of
 this virtuous action, that his chest looked half as broad again when he
 lighted us downstairs. We parted with great heartiness on both sides;
-and when I had seen Traddles to his own door, and was going home alone,
+and when I had seen Traddles to his own door, and was going [[Home|home]] [[Alone|alone]],
 I thought, among the other odd and contradictory things I mused upon,
 that, slippery as Mr. Micawber was, I was probably indebted to some
 compassionate recollection he retained of me as his boy-lodger, for
 never having been asked by him for money. I certainly should not have
-had the moral courage to refuse it; and I have no doubt he knew that (to
-his credit be it written), quite as well as I did.
+had the moral [[Courage|courage]] to refuse it; and I have no [[Doubt|doubt]] he knew that (to
+his credit be it written), quite as [[Well|well]] as I did.

@@ -15,7 +15,7 @@ tags:
 
 
 It is worthy of remark, too, as illustrating a little feature in the
-character of Miss Sally Brass, that, although on her own account she
+character of Miss [[Sally Brass]], that, although on her own account she
 would have borne the discomforts of the Wilderness with a very ill
 grace, and would probably, indeed, have walked off before the tea
 appeared, she no sooner beheld the latent uneasiness and misery of her
@@ -31,12 +31,12 @@ Brass, with the rain plashing down into his tea-cup, made a dismal
 attempt to pluck up his spirits and appear at his ease; and Tom Scott,
 who was in waiting at the door under an old umbrella, exulted in his
 agonies, and bade fair to split his sides with laughing; while all this
-was passing, Miss Sally Brass, unmindful of the wet which dripped down
+was passing, Miss [[Sally Brass]], unmindful of the wet which dripped down
 upon her own feminine person and fair apparel, sat placidly behind the
 tea-board, erect and grizzly, contemplating the unhappiness of her
 brother with a mind at ease, and content, in her amiable disregard of
-self, to sit there all night, witnessing the torments which his
-avaricious and grovelling nature compelled him to endure and forbade
+[[Self|self]], to sit there all [[Night|night]], witnessing the torments which his
+avaricious and grovelling [[Nature|nature]] compelled him to endure and forbade
 him to resent.  And this, it must be observed, or the illustration
 would be incomplete, although in a business point of view she had the
 strongest sympathy with Mr Sampson, and would have been beyond measure
@@ -47,13 +47,13 @@ pretence dismissed his attendant sprite for the moment, resumed his
 usual manner all at once, dismounted from his cask, and laid his hand
 upon the lawyer’s sleeve.
 
-‘A word,’ said the dwarf, ‘before we go farther.  Sally, hark’ee for a
+‘A word,’ said the [[Dwarf|dwarf]], ‘before we go farther.  Sally, hark’ee for a
 minute.’
 
 Miss Sally drew closer, as if accustomed to business conferences with
 their host which were the better for not having air.
 
-‘Business,’ said the dwarf, glancing from brother to sister.  ‘Very
+‘Business,’ said the [[Dwarf|dwarf]], glancing from brother to sister.  ‘Very
 private business.  Lay your heads together when you’re by yourselves.’
 
 ‘Certainly, sir,’ returned Brass, taking out his pocket-book and
@@ -75,19 +75,19 @@ don’t exactly call to mind--I don’t exactly--’
 rhinoceros,’ returned his obliging client with an impatient gesture.
 
 ‘He’s extremely pleasant!’ cried the obsequious Sampson.  ‘His
-acquaintance with Natural History too is surprising.  Quite a Buffoon,
+acquaintance with Natural [[history|History]] too is surprising.  Quite a Buffoon,
 quite!’
 
-There is no doubt that Mr Brass intended some compliment or other; and
+There is no [[Doubt|doubt]] that Mr Brass intended some compliment or other; and
 it has been argued with show of reason that he would have said Buffon,
 but made use of a superfluous vowel.  Be this as it may, Quilp gave him
-no time for correction, as he performed that office himself by more
+no [[Time|time]] for correction, as he performed that office himself by more
 than tapping him on the head with the handle of his umbrella.
 
 ‘Don’t let’s have any wrangling,’ said Miss Sally, staying his hand.
 ‘I’ve showed you that I know him, and that’s enough.’
 
-‘She’s always foremost!’ said the dwarf, patting her on the back and
+‘She’s always foremost!’ said the [[Dwarf|dwarf]], patting her on the back and
 looking contemptuously at Sampson.  ‘I don’t like Kit, Sally.’
 
 ‘Nor I,’ rejoined Miss Brass.
@@ -96,7 +96,7 @@ looking contemptuously at Sampson.  ‘I don’t like Kit, Sally.’
 
 ‘Why, that’s right!’ cried Quilp.  ‘Half our work is done already.
 This Kit is one of your honest people; one of your fair characters; a
-prowling prying hound; a hypocrite; a double-faced, white-livered,
+prowling prying hound; a hypocrite; a [[Double|double]]-faced, white-livered,
 sneaking spy; a crouching cur to those that feed and coax him, and a
 barking yelping dog to all besides.’
 
@@ -113,7 +113,7 @@ to all besides, and most of all, to me.  In short, I owe him a grudge.’
 Besides that I owe him a grudge on that account, he thwarts me at this
 minute, and stands between me and an end which might otherwise prove a
 golden one to us all.  Apart from that, I repeat that he crosses my
-humour, and I hate him.  Now, you know the lad, and can guess the rest.
+[[Humour|humour]], and I hate him.  Now, you know the lad, and can guess the rest.
 Devise your own means of putting him out of my way, and execute them.
 Shall it be done?’
 
@@ -121,24 +121,24 @@ Shall it be done?’
 
 ‘Then give me your hand,’ retorted Quilp.  ‘Sally, girl, yours.  I rely
 as much, or more, on you than him.  Tom Scott comes back.  Lantern,
-pipes, more grog, and a jolly night of it!’
+pipes, more grog, and a jolly [[Night|night]] of it!’
 
 No other word was spoken, no other look exchanged, which had the
 slightest reference to this, the real occasion of their meeting.  The
-trio were well accustomed to act together, and were linked to each
+trio were [[Well|well]] accustomed to act together, and were linked to each
 other by ties of mutual interest and advantage, and nothing more was
 needed.  Resuming his boisterous manner with the same ease with which
 he had thrown it off, Quilp was in an instant the same uproarious,
 reckless little savage he had been a few seconds before.  It was ten
-o’clock at night before the amiable Sally supported her beloved and
-loving brother from the Wilderness, by which time he needed the utmost
+o’[[Clock|clock]] at [[Night|night]] before the amiable Sally supported her beloved and
+loving brother from the Wilderness, by which [[Time|time]] he needed the utmost
 support her tender frame could render; his walk being from some unknown
 reason anything but steady, and his legs constantly doubling up in
 unexpected places.
 
 Overpowered, notwithstanding his late prolonged slumbers, by the
-fatigues of the last few days, the dwarf lost no time in creeping to
-his dainty house, and was soon dreaming in his hammock.  Leaving him to
+fatigues of the last few days, the [[Dwarf|dwarf]] lost no [[Time|time]] in creeping to
+his dainty [[house]], and was soon dreaming in his hammock.  Leaving him to
 visions, in which perhaps the quiet figures we quitted in the old
 church porch were not without their share, be it our task to rejoin
 them as they sat and watched.

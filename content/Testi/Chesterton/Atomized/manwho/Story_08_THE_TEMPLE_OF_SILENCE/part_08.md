@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE TEMPLE OF  SILENCE (part 8)"
+title: "[[manwho]] — THE TEMPLE OF  [[Silence|SILENCE]] (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -26,11 +26,11 @@ rapidly as it happened, it did not happen before Fisher had done
 
 something that he wanted to to. Unable to rise from his sprawling
 
-attitude in that flash of time, he had shot out one of his long legs
+attitude in that flash of [[Time|time]], he had shot out one of his long legs
 
 and hooked it round the ankle of the last man disappearing through
 
-the door. The man swayed and toppled over inside the prison chamber,
+the door. The man swayed and toppled over inside the [[Prison|prison]] chamber,
 
 and the door closed between him and his fleeing companions. Clearly
 
@@ -48,13 +48,13 @@ struggle and he sat up on his sofa with something of his native
 
 nonchalance. But as he listened to the captive captor beating on the
 
-door of the prison, a new and curious reflection came to him.
+door of the [[Prison|prison]], a new and curious reflection came to him.
 
 
 
 The natural course for a man thus wishing to attract his friends'
 
-attention would be to call out, to shout as well as kick. This man
+attention would be to call out, to shout as [[Well|well]] as kick. This man
 
 was making as much noise as he could with his feet and hands, but
 
@@ -66,7 +66,7 @@ his fancy fell back on the ugly idea that the man was dumb. He
 
 hardly knew why it was so ugly an idea, but it affected his
 
-imagination in a dark and disproportionate fashion. There seemed to
+[[Imagination|imagination]] in a dark and disproportionate fashion. There seemed to
 
 be something creepy about the idea of being left in a dark room with
 
@@ -80,7 +80,7 @@ should not see the sun.
 
 
 
-Then he had a flash of sanity and also of insight. The explanation
+Then he had a flash of [[Sanity|sanity]] and also of insight. The explanation
 
 was very simple, but rather interesting. Obviously the man did not
 
@@ -96,11 +96,11 @@ these parts, and in the development of that strange story.
 
 
 
-"Now I wonder who you are," he said, aloud, with all his old lazy
+"Now I [[Wonder|wonder]] who you are," he said, aloud, with all his old lazy
 
 urbanity. "I suppose it's no use trying to throttle you in order to
 
-find out; it would be displeasing to pass the night with a corpse.
+find out; it would be displeasing to pass the [[Night|night]] with a corpse.
 
 Besides I might be the corpse. I've got no matches and I've smashed
 
@@ -122,11 +122,11 @@ address him in a flowing monologue.
 
 he's a landed proprietor; but he will permit me to inform him that,
 
-whatever he is, he's a fool. What hope can there ever be of a free
+whatever he is, he's a [[Fool|fool]]. What [[Hope|hope]] can there ever be of a free
 
 peasantry in England if the peasants themselves are such snobs as to
 
-want to be gentlemen? How can we make a democracy with no democrats?
+want to be gentlemen? How can we make a [[Democracy|democracy]] with no democrats?
 
 As it is, you want to be a landlord and so you consent to be a
 
@@ -136,9 +136,9 @@ And, now I think of it, perhaps you are somebody else."
 
 
 
-There was a silence broken by breathing from the corner and the
+There was a [[Silence|silence]] broken by breathing from the corner and the
 
-murmur of the rising storm, that came in through the small grating
+murmur of the rising [[Storm|storm]], that came in through the small grating
 
 above the man's head. Horne Fisher continued:
 
@@ -186,13 +186,13 @@ extraordinary things in these paltry feuds of politics. Or if not
 
 the servant, is it the . . . No, I can't believe it . . . not the
 
-red blood of manhood and liberty . . . not the democratic ideal . . ."
+red [[Blood|blood]] of manhood and liberty . . . not the democratic ideal . . ."
 
 
 
 He sprang up in excitement, and at the same moment a growl of
 
-thunder came through the grating beyond. The storm had broken, and
+thunder came through the grating beyond. The [[Storm|storm]] had broken, and
 
 with it a new light broke on his mind. There was something else that
 
@@ -222,12 +222,12 @@ other was the face in the corner. It was the face of his brother.
 
 Nothing came from Horne Fisher's lips except a Christian name, which
 
-was followed by a silence more dreadful than the dark. At last the
+was followed by a [[Silence|silence]] more dreadful than the dark. At last the
 
 other figure stirred and sprang up, and the voice of Harry Fisher
 
-was heard for the first time in that horrible room.
+was heard for the first [[Time|time]] in that horrible room.
 
 
 
-"You've seen me, I suppose," he said, "and we may as well have a
+"You've seen me, I suppose," he said, "and we may as [[Well|well]] have a

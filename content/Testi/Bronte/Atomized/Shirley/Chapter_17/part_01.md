@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 17 (part 1)"
+title: "[[Shirley]] — Chapter 17 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -30,7 +30,7 @@ woman-officered company; yet their music played martial tunes, and, to
 
 judge by the eyes and carriage of some--Miss Keeldar, for
 
-instance--these sounds awoke, if not a martial, yet a longing spirit.
+instance--these sounds awoke, if not a martial, yet a [[Longing|longing]] spirit.
 
 Old Helstone, turning by chance, looked into her face; and he laughed,
 
@@ -40,23 +40,23 @@ and she laughed at him.
 
 "There is no battle in prospect," he said; "our country does not want us
 
-to fight for it. No foe or tyrant is questioning or threatening our
+to fight for it. No foe or [[Tyrant|tyrant]] is questioning or threatening our
 
 liberty. There is nothing to be done. We are only taking a walk. Keep
 
-your hand on the reins, captain, and slack the fire of that spirit. It
+your hand on the reins, captain, and slack the [[Fire|fire]] of that spirit. It
 
 is not wanted, the more's the pity."
 
 
 
-"Take your own advice, doctor," was Shirley's response. To Caroline she
+"Take your own advice, doctor," was [[Shirley]]'s response. To Caroline she
 
-murmured, "I'll borrow of imagination what reality will not give me. We
+murmured, "I'll borrow of [[Imagination|imagination]] what reality will not give me. We
 
-are not soldiers--bloodshed is not my desire--or if we are, we are
+are not soldiers--bloodshed is not my [[Desire|desire]]--or if we are, we are
 
-soldiers of the Cross. Time has rolled back some hundreds of years, and
+soldiers of the [[Cross]]. [[Time]] has rolled back some hundreds of years, and
 
 we are bound on a pilgrimage to Palestine. But no; that is too
 
@@ -66,21 +66,21 @@ following a Covenanting captain up into the hills to hold a meeting out
 
 of the reach of persecuting troopers. We know that battle may follow
 
-prayer; and as we believe that in the worst issue of battle heaven must
+[[prayer]]; and as we believe that in the worst issue of battle heaven must
 
 be our reward, we are ready and willing to redden the peat-moss with our
 
-blood. That music stirs my soul; it wakens all my life; it makes my
+[[Blood|blood]]. That music stirs my [[Soul|soul]]; it wakens all my life; it makes my
 
 heart beat--not with its temperate daily pulse, but with a new,
 
-thrilling vigour. I almost long for danger--for a faith, a land, or at
+thrilling vigour. I almost long for danger--for a [[Faith|faith]], a land, or at
 
-least a lover to defend."
+least a [[Lover|lover]] to defend."
 
 
 
-"Look, Shirley!" interrupted Caroline. "What is that red speck above
+"Look, [[Shirley]]!" interrupted Caroline. "What is that red speck above
 
 Stilbro' Brow? You have keener sight than I. Just turn your eagle eye to
 
@@ -146,7 +146,7 @@ music.
 
 
 
-"Is it our double?" asked Shirley, "our manifold wraith? Here is a card
+"Is it our [[Double|double]]?" asked [[Shirley]], "our manifold wraith? Here is a card
 
 turned up."
 
@@ -170,7 +170,7 @@ giving way? You, boys, mind what you are about. The ladies, I know, will
 
 be firm. I can trust them. There is not a churchwoman here but will
 
-stand her ground against these folks, for the honour of the
+stand her ground against these folks, for the [[Honour|honour]] of the
 
 Establishment.--What does Miss Keeldar say?"
 
@@ -188,7 +188,7 @@ lane with the intention of obstructing our march and driving us back."
 
 
 
-"Bad manners!" said Shirley, "and I hate bad manners. Of course, they
+"Bad manners!" said [[Shirley]], "and I hate bad manners. Of course, they
 
 must have a lesson."
 
@@ -208,7 +208,7 @@ when he who appeared to act as the hostile commander-in-chief--a large,
 
 greasy man, with black hair combed flat on his forehead--called a halt.
 
-The procession paused. He drew forth a hymn book, gave out a verse, set
+The procession paused. He drew forth a [[Hymn|hymn]] book, gave out a verse, set
 
 a tune, and they all struck up the most dolorous of canticles.
 
@@ -228,7 +228,7 @@ went, he was conquered.
 
 "Now, follow me!" exclaimed Helstone; "not at a run, but at a firm,
 
-smart pace. Be steady, every child and woman of you. Keep together. Hold
+smart pace. Be steady, every [[Child|child]] and woman of you. Keep together. Hold
 
 on by each other's skirts, if necessary."
 
@@ -236,7 +236,7 @@ on by each other's skirts, if necessary."
 
 And he strode on with such a determined and deliberate gait, and was,
 
-besides, so well seconded by his scholars and teachers, who did exactly
+besides, so [[Well|well]] seconded by his scholars and teachers, who did exactly
 
 as he told them, neither running nor faltering, but marching with cool,
 
@@ -248,7 +248,7 @@ any deviation with lynx-eyed vigilance, and were ready, the one with his
 
 cane, the other with her parasol, to rebuke the slightest breach of
 
-orders, the least independent or irregular demonstration--that the body
+orders, the least independent or irregular demonstration--that the [[Body|body]]
 
 of Dissenters were first amazed, then alarmed, then borne down and
 
@@ -258,10 +258,10 @@ Royd Lane free. Boultby suffered in the onslaught, but Helstone and
 
 Malone, between them, held him up, and brought him through the business,
 
-whole in limb, though sorely tried in wind.
+whole in limb, though sorely tried in [[Wind|wind]].
 
 
 
-The fat Dissenter who had given out the hymn was left sitting in the
+The fat Dissenter who had given out the [[Hymn|hymn]] was left sitting in the
 
 ditch. He was a spirit merchant by trade, a leader of the

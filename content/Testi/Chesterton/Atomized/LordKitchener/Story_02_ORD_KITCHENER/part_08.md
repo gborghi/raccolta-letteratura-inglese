@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — ORD KITCHENER (part 8)"
+title: "[[LordKitchener]] — ORD KITCHENER (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/LordKitchener-(Chesterton)"
@@ -36,7 +36,7 @@ Understanding his countrymen by instinct, he did not make a parade of
 
 efficiency; for the English dislike the symbols of dictatorship much
 
-more than dictatorship. They hate the crown and sceptre of the tyrant
+more than dictatorship. They hate the [[Crown|crown]] and sceptre of the [[Tyrant|tyrant]]
 
 much more than his tyranny. They have a national tradition which
 
@@ -68,9 +68,9 @@ closeness of grain and ruggedness of outline--when he was uprooted
 
 from the Arabian sands and replanted in the remote western island. Yet
 
-the oak not only grew green again and put forth new leaves; it was
+the oak not only grew green again and put forth new [[Leaves|leaves]]; it was
 
-almost as if, as in a legend, it could put forth a new kind of leaves.
+almost as if, as in a legend, it could put forth a new kind of [[Leaves|leaves]].
 
 Kitchener, with all his taciturnity, really began to put forth a new
 
@@ -78,19 +78,19 @@ order of ideas. If a change of opinions is unusual in an elderly man,
 
 it is almost unknown in an elderly military man. If the hardening of
 
-time was felt even by the poetic and emotional Grattan, it would not
+[[Time|time]] was felt even by the poetic and emotional Grattan, it would not
 
 have been strange if the hardening had been quite hopeless in the
 
 rigid and reticent Kitchener. Yet it was not hopeless; and the fact
 
-became the spring of much of the national hope. The grizzled martinet
+became the [[Spring|spring]] of much of the national [[Hope|hope]]. The grizzled martinet
 
-from India and Egypt showed a certain power which is in nearly all
+from India and [[Egypt]] showed a certain power which is in nearly all
 
 great men, but of which St. Paul has become the traditional type--the
 
-power of being a great convert as well as a great crusader. It is the
+power of being a great [[convert]] as [[Well|well]] as a great crusader. It is the
 
 real power of re-forming an opinion, which is the very opposite of
 
@@ -108,23 +108,23 @@ almost be called the discovery of Christendom. It can be called with
 
 greater precision, and indeed with almost complete precision, the
 
-discovery of Russia.
+discovery of [[Russia]].
 
 
 
 Military bureaucratic systems everywhere have too much tendency to
 
-work upon one idea, and there was a time when the military and
+work upon one idea, and there was a [[Time|time]] when the military and
 
 bureaucratic system of the British in the East worked on the idea of
 
-the fear of Russia. It is needless here to explain that sentiment, and
+the [[Fear|fear]] of [[Russia]]. It is needless here to explain that sentiment, and
 
 useless to explain it away. It was partly a mere tradition from the
 
 natural jingoism of the Crimean War; it was partly in itself a tribute
 
-to the epic majesty of the Russian march across mysterious Asia to the
+to the [[Epic|epic]] majesty of the Russian march across mysterious Asia to the
 
 legendary Chinese Wall. The point here is that it existed; and where
 
@@ -146,7 +146,7 @@ supreme importance of munitioning the magnificent Russian defence. He
 
 mystified all the English pessimists, in what seemed to them the
 
-blackest hour of pessimism, by announcing that Germany had "shot her
+blackest hour of pessimism, by announcing that [[Germany]] had "shot her
 
 bolt"; that she had already lost her chance, not by any of the Allied
 
@@ -156,7 +156,7 @@ retreat, which was more triumphant than any attack. It is this
 
 discovery that marks an epoch; for that great deliverance was not only
 
-the victory of Russia, but very specially the victory of the Russians.
+the victory of [[Russia]], but very specially the victory of the Russians.
 
 Never before was there such a war of men against guns--as awful and
 
@@ -166,11 +166,11 @@ a man with a modern gun is more like that between a man and an
 
 enormous dragon; nor is there anything on the weaker side save the
 
-ultimate and almost metaphysical truth, that a man can make a gun and
+ultimate and almost metaphysical [[Truth|truth]], that a man can make a gun and
 
 a gun cannot make a man. It is the man--the Russian soldier and
 
-peasant himself--who has emerged like the hero of an epic, and who is
+peasant himself--who has emerged like the [[Hero|hero]] of an [[Epic|epic]], and who is
 
 now secure for ever from the sophisticated scandal-mongering and the
 
@@ -178,15 +178,15 @@ cultured ignorance of the West.
 
 
 
-And it is this that lends an epic and almost primeval symbolism to the
+And it is this that lends an [[Epic|epic]] and almost primeval symbolism to the
 
-tragedy of Kitchener's end. Somehow the very fact that it was
+[[Tragedy|tragedy]] of Kitchener's end. Somehow the very fact that it was
 
-incomplete as an action makes it more complete as an allegory. English
+incomplete as an action makes it more complete as an [[Allegory|allegory]]. English
 
 in his very limitations, English in his late emancipation from them,
 
-he was setting forth on an eastward journey different indeed from the
+he was setting forth on an eastward [[Journey|journey]] different indeed from the
 
 many eastward journeys of his life. There are many such noble
 
@@ -194,4 +194,4 @@ tragedies of travel in the records of his country; it was so, silently
 
 without a trace, that the track of Franklin faded in the polar snows
 
-or the track of Gordon in the desert sands. But this was an adventure
+or the track of Gordon in the [[Desert|desert]] sands. But this was an adventure

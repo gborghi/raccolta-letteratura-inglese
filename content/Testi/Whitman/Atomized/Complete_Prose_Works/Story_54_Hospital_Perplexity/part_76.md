@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-In short, and to sum up, America, betaking herself to formative
-action, (as it is about time for more solid achievement, and less
+In short, and to sum up, [[america|America]], betaking herself to formative
+action, (as it is about [[Time|time]] for more solid achievement, and less
 windy promise,) must, for her purposes, cease to recognize a theory of
 character grown of feudal aristocracies, or form'd by merely literary
 standards, or from any ultramarine, full-dress formulas of culture,
@@ -24,11 +24,11 @@ yet old enough, and accepting the old, the perennial elements, and
 combining them into groups, unities, appropriate to the modern, the
 democratic, the west, and to the practical occasions and needs of our
 own cities, and of the agricultural regions. Ever the most precious in
-the common. Ever the fresh breeze of field, or hill, or lake, is
+the common. Ever the fresh breeze of field, or [[Hill|hill]], or lake, is
 more than any palpitation of fans, though of ivory, and redolent with
 perfume; and the air is more than the costliest perfumes.
 
-And now, for fear of mistake, we may not intermit to beg our absolution
+And now, for [[Fear|fear]] of mistake, we may not intermit to beg our absolution
 from all that genuinely is, or goes along with, even Culture. Pardon us,
 venerable shade! if we have seem'd to speak lightly of your office. The
 whole civilization of the earth, we know, is yours, with all the glory
@@ -40,7 +40,7 @@ them, as you, at your best, we too evoke the last, the needed help, to
 vitalize our country and our days. Thus we pronounce not so much against
 the principle of culture; we only supervise it, and promulge along with
 it, as deep, perhaps a deeper, principle. As we have shown the New World
-including in itself the all-leveling aggregate of democracy, we show
+including in itself the all-leveling aggregate of [[democracy]], we show
 it also including the all-varied, all-permitting, all-free theorem of
 individuality, and erecting therefor a lofty and hitherto unoccupied
 framework or platform, broad enough for all, eligible to every farmer
@@ -48,7 +48,7 @@ and mechanic--to the female equally with the male--a towering selfhood,
 not physically perfect only--not satisfied with the mere mind's and
 learning's stores, but religious, possessing the idea of the infinite,
 (rudder and compass sure amid this troublous voyage, o'er darkest,
-wildest wave, through stormiest wind, of man's or nation's
+wildest wave, through stormiest [[Wind|wind]], of man's or nation's
 progress)--realizing, above the rest, that known humanity, in deepest
 sense, is fair adhesion to itself, for purposes beyond--and that,
 finally, the personality of mortal life is most important with reference
@@ -61,18 +61,18 @@ on these topics, but others quite unwritten. Indeed, we could talk the
 matter, and expand it, through lifetime. But it is necessary to return
 to our original premises. In view of them, we have again pointedly
 to confess that all the objective grandeurs of the world, for highest
-purposes, yield themselves up, and depend on mentality alone. Here, and
-here only, all balances, all rests. For the mind, which alone builds
+purposes, yield themselves up, and depend on mentality [[Alone|alone]]. Here, and
+here only, all balances, all rests. For the mind, which [[Alone|alone]] builds
 the permanent edifice, haughtily builds it to itself. By it, with
 what follows it, are convey'd to mortal sense the culminations of
 the materialistic, the known, and a prophecy of the unknown. To
 take expression, to incarnate, to endow a literature with grand and
-archetypal models--to fill with pride and love the utmost capacity, and
+archetypal models--to fill with [[Pride|pride]] and [[Love|love]] the utmost capacity, and
 to achieve spiritual meanings, and suggest the future--these, and these
-only, satisfy the soul. We must not say one word against real materials;
+only, satisfy the [[Soul|soul]]. We must not say one word against real materials;
 but the wise know that they do not become real till touched by emotions,
 the mind. Did we call the latter imponderable? Ah, let us rather
-proclaim that the slightest song-tune, the countless ephemera of
+proclaim that the slightest [[Song|song]]-tune, the countless ephemera of
 passions arous'd by orators and tale-tellers, are more dense, more
 weighty than the engines there in the great factories, or the granite
 blocks in their foundations.
@@ -83,7 +83,7 @@ imaginative literature, through the medium-light of what we have already
 broach'd, it will at once be appreciated that a vast gulf of difference
 separates the present accepted condition of these spaces, inclusive of
 what is floating in them, from any condition adjusted to, or fit for,
-the world, the America, there sought to be indicated, and the copious
+the world, the [[america|America]], there sought to be indicated, and the copious
 races of complete men and women, along these Vistas crudely outlined.
 It is, in some sort, no less a difference than lies between that
 long-continued nebular state and vagueness of the astronomical worlds,
@@ -94,13 +94,13 @@ lights, serving for ground of all substantial foothold, all vulgar
 uses--yet serving still more as an undying chain and echelon of
 spiritual proofs and shows. A boundless field to fill! A new creation,
 with needed orbic works launch'd forth, to revolve in free and lawful
-circuits--to move, self-poised, through the ether, and shine like
+circuits--to move, [[Self|self]]-poised, through the ether, and shine like
 heaven's own suns! With such, and nothing less, we suggest that New
-World literature, fit to rise upon, cohere, and signalize in time, these
+World literature, fit to rise upon, cohere, and signalize in [[Time|time]], these
 States.
 
 What, however, do we more definitely mean by New World literature? Are
-we not doing well enough here already? Are not the United States this
+we not doing [[Well|well]] enough here already? Are not the United States this
 day busily using, working, more printer's type, more presses, than any
 other country? uttering and absorbing more publications than any other?
 Do not our publishers fatten quicker and deeper? (helping themselves,

@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 44)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 44)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -16,21 +16,21 @@ tags:
 
 Declaration of Independence. But without going deep into my reasons for
 
-believing in natural rights, or rather in supernatural rights (and
+believing in natural rights, or rather in [[Supernatural|supernatural]] rights (and
 
-Jefferson certainly states them as supernatural), I am content here to
+Jefferson certainly states them as [[Supernatural|supernatural]]), I am content here to
 
-note that a man's treatment of his own body, in relation to traditional
+note that a man's treatment of his own [[Body|body]], in relation to traditional
 
 and ordinary opportunities for bodily excess, is as near to his
 
-self-respect as social coercion can possibly go; and that when that is
+[[Self|self]]-respect as social coercion can possibly go; and that when that is
 
 gone there is nothing left. If coercion applies to that, it applies to
 
 everything; and in the future of this controversy it obviously will
 
-apply to everything. When I was in America, people were already applying
+apply to everything. When I was in [[America]], people were already applying
 
 it to tobacco. I never can see why they should not apply it to talking.
 
@@ -52,13 +52,13 @@ blue devils. He should gag all gay deceivers and plausible cynics; he
 
 should cut off all flattering lips and the tongue that speaketh proud
 
-things. Nobody can doubt that nine-tenths of the harm in the world is
+things. Nobody can [[Doubt|doubt]] that nine-tenths of the harm in the world is
 
 done simply by talking. Jefferson and the old democrats allowed people
 
 to talk, not because they were unaware of this fact, but because they
 
-were fettered by this old fancy of theirs about freedom and the rights
+were fettered by this old fancy of theirs about [[Freedom|freedom]] and the rights
 
 of man. But since we have already abandoned that doctrine in a final
 
@@ -86,17 +86,17 @@ policeman would remove at stated hours; and their mouths would be opened
 
 from one to three, as now in England even the public-houses are from
 
-time to time accessible to the public. To some this will sound
+[[Time|time]] to [[Time|time]] accessible to the public. To some this will sound
 
 fantastic; but not so fantastic as Jefferson would have thought
 
 Prohibition. But there is one sense in which it is indeed fantastic, for
 
-by hypothesis it leaves out the favouritism that is the fundamental of
+by hypothesis it [[Leaves|leaves]] out the favouritism that is the fundamental of
 
-the whole matter. The only sense in which we can say that logic will
+the whole matter. The only sense in which we can say that [[logic]] will
 
-never go so far as this is that logic will never go the length of
+never go so far as this is that [[logic]] will never go the length of
 
 equality. It is perfectly possible that the same forces that have
 
@@ -104,7 +104,7 @@ forbidden beer may go on to forbid tobacco. But they will in a special
 
 and limited sense forbid tobacco--but not cigars. Or at any rate not
 
-expensive cigars. In America, where large numbers of ordinary men smoke
+expensive cigars. In [[America]], where large numbers of ordinary men smoke
 
 rather ordinary cigars, there would be doubtless a good opportunity of
 
@@ -112,7 +112,7 @@ penalising a very ordinary pleasure. But the Havanas of the millionaire
 
 will be all right. So it will be if ever the Puritans bring back the
 
-Scold's Bridle and the statutory silence of the populace. It will only
+Scold's Bridle and the statutory [[Silence|silence]] of the populace. It will only
 
 be the populace that is silent. The politicians will go on talking.
 
@@ -126,19 +126,19 @@ which, if not defences, are at least excuses. The first is that
 
 Prohibition was largely passed in a sort of fervour or fever of
 
-self-sacrifice, which was a part of the passionate patriotism of America
+[[Self-Sacrifice|self-sacrifice]], which was a part of the passionate patriotism of [[America]]
 
 in the war. As I have remarked elsewhere, those who have any notion of
 
-what that national unanimity was like will smile when they see America
+what that national unanimity was like will smile when they see [[America]]
 
 made a model of mere international idealism. Prohibition was partly a
 
-sort of patriotic renunciation; for the popular instinct, like every
+sort of patriotic [[Renunciation|renunciation]]; for the popular instinct, like every
 
 poetic instinct, always tends at great crises to great gestures of
 
-renunciation. But this very fact, while it makes the inhumanity far more
+[[Renunciation|renunciation]]. But this very fact, while it makes the inhumanity far more
 
 human, makes it far less final and convincing. Men cannot remain
 
@@ -146,7 +146,7 @@ standing stiffly in such symbolical attitudes; nor can a permanent
 
 policy be founded on something analogous to flinging a gauntlet or
 
-uttering a battle-cry. We might as well expect all the Yale students to
+uttering a battle-cry. We might as [[Well|well]] expect all the Yale students to
 
 remain through life with their mouths open, exactly as they were when
 
@@ -154,7 +154,7 @@ they uttered the college yell. It would be as reasonable as to expect
 
 them to remain through life with their mouths shut, while the wine-cup
 
-which has been the sacrament of all poets and lovers passed round among
+which has been the sacrament of all poets and [[lovers]] passed round among
 
 all the youth of the world. This point appeared very plainly in a
 
@@ -166,19 +166,19 @@ of these healthier Prohibitionists, which had so much to do with the
 
 passing of Prohibition, by asking, 'May not a man who is asked to give
 
-up his blood for his country be asked to give up his beer for his
+up his [[Blood|blood]] for his country be asked to give up his beer for his
 
 country?' And this phrase clearly illuminates all the limitations of the
 
 case. I have never denied, in principle, that it might in some abnormal
 
-crisis be lawful for a government to lock up the beer, or to lock up the
+crisis be lawful for a [[government]] to lock up the beer, or to lock up the
 
 bread. In that sense I am quite prepared to treat the sacrifice of beer
 
-in the same way as the sacrifice of blood. But is my American critic
+in the same way as the sacrifice of [[Blood|blood]]. But is my American critic
 
-really ready to treat the sacrifice of blood in the same way as the
+really ready to treat the sacrifice of [[Blood|blood]] in the same way as the
 
 sacrifice of beer? Is bloodshed to be as prolonged and protracted as
 

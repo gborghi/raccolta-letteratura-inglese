@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-For a City man, John certainly did appear to care as little as might be
-for the looking up or looking down of things, as well as for the gold
+For a [[City]] man, John certainly did appear to care as little as might be
+for the looking up or looking down of things, as [[Well|well]] as for the gold
 that got taken to the Bank. But he cared, beyond all expression, for his
 wife, as a most precious and sweet commodity that was always looking up,
 and that never was worth less than all the gold in the world. And she,
@@ -26,7 +26,7 @@ husband’s verdict, and he justified it by telling her that she had begun
 her married life as the most endearing creature that could possibly be.
 
 ‘And you have such a cheerful spirit!’ he said, fondly. ‘You are like a
-bright light in the house.’
+bright light in the [[house]].’
 
 ‘Am I truly, John?’
 
@@ -39,9 +39,9 @@ Nothing should induce John to do it, when she asked him not to do it.
 
 ‘—That I sometimes think, John, I feel a little serious.’
 
-‘Are you too much alone, my darling?’
+‘Are you too much [[Alone|alone]], my darling?’
 
-‘O dear, no, John! The time is so short that I have not a moment too
+‘O dear, no, John! The [[Time|time]] is so short that I have not a moment too
 much in the week.’
 
 ‘Why serious, my life, then? When serious?’
@@ -54,7 +54,7 @@ do.’ And she laughed again, and something glistened in her eyes.
 
 ‘Rich, John! How CAN you ask such goose’s questions?’
 
-‘Do you regret anything, my love?’
+‘Do you regret anything, my [[Love|love]]?’
 
 ‘Regret anything? No!’ Bella confidently answered. But then, suddenly
 changing, she said, between laughing and glistening: ‘Oh yes, I do
@@ -77,19 +77,19 @@ more than usually fantastic with him.
 as soon as you could get out of school. And how have they used you at
 school to-day, you dear?’
 
-‘Well, my pet,’ replied the cherub, smiling and rubbing his hands as she
+‘[[Well]], my pet,’ replied the cherub, smiling and rubbing his hands as she
 sat him down in his chair, ‘I attend two schools. There’s the Mincing
 Lane establishment, and there’s your mother’s Academy. Which might you
 mean, my dear?’
 
 ‘Both,’ said Bella.
 
-‘Both, eh? Why, to say the truth, both have taken a little out of me
-to-day, my dear, but that was to be expected. There’s no royal road to
+‘Both, eh? Why, to say the [[Truth|truth]], both have taken a little out of me
+to-day, my dear, but that was to be expected. There’s no royal [[Road|road]] to
 learning; and what is life but learning!’
 
 ‘And what do you do with yourself when you have got your learning by
-heart, you silly child?’
+heart, you silly [[Child|child]]?’
 
 ‘Why then, my dear,’ said the cherub, after a little consideration, ‘I
 suppose I die.’
@@ -108,7 +108,7 @@ little fellow his supper, you know.’
 
 ‘He has been grubbing and grubbing at school,’ said Bella, looking at
 her father’s hand and lightly slapping it, ‘till he’s not fit to be
-seen. O what a grubby child!’
+seen. O what a grubby [[Child|child]]!’
 
 ‘Indeed, my dear,’ said her father, ‘I was going to ask to be allowed to
 wash my hands, only you find me out so soon.’
@@ -137,15 +137,15 @@ waiting to be finished.
 and have your supper.’
 
 The cherub investing himself with his coat was led back to his
-corner—where, but for having no egotism in his pleasant nature, he
-would have answered well enough for that radiant though self-sufficient
+corner—where, but for having no egotism in his pleasant [[Nature|nature]], he
+would have answered [[Well|well]] enough for that radiant though [[Self|self]]-sufficient
 boy, Jack Horner—Bella with her own hands laid a cloth for him, and
 brought him his supper on a tray. ‘Stop a moment,’ said she, ‘we must
 keep his little clothes clean;’ and tied a napkin under his chin, in a
 very methodical manner.
 
 While he took his supper, Bella sat by him, sometimes admonishing him
-to hold his fork by the handle, like a polite child, and at other times
+to hold his fork by the handle, like a polite [[Child|child]], and at other times
 carving for him, or pouring out his drink. Fantastic as it all was, and
 accustomed as she ever had been to make a plaything of her good father,
 ever delighted that she should put him to that account, still there was

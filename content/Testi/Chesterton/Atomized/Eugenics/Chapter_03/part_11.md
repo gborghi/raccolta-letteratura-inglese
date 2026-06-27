@@ -1,5 +1,5 @@
 ---
-title: "Eugenics — Part 2 (part 11)"
+title: "[[Eugenics]] — Part 2 (part 11)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Eugenics-(Chesterton)"
@@ -15,7 +15,7 @@ tags:
 
 
 This is the first evidence of motive:  the ubiquitous assumption
-that life and love must fit into a fixed framework of employment, even
+that life and [[Love|love]] must fit into a fixed framework of employment, even
 (as in this case) of bad employment.  The second evidence is the tacit
 and total neglect of the scientific question in all the departments
 in which it is not an employment question; as, for instance,
@@ -25,7 +25,7 @@ rigidly tackled these, though I do not recall any cases.
 But I am not talking of the merits of individual men of science,
 but of the push and power behind this movement, the thing that is
 able to make it fashionable and politically important.  I say,
-if this power were an interest in truth, or even in humanity, the first
+if this power were an interest in [[Truth|truth]], or even in humanity, the first
 field in which to study would be in the weddings of the wealthy.
 Not only would the records be more lucid, and the examples more
 in evidence, but the cases would be more interesting and more decisive.
@@ -40,23 +40,23 @@ marry princesses.  And (for the other extreme) housemaids seldom
 marry Red Indians.  It may be because there are none to marry.
 But to the millionaires the continents are flying railway stations,
 and the most remote races can be rapidly linked together.
-A marriage in London or Paris may chain Ravenna to Chicago,
+A [[Marriage|marriage]] in [[London]] or [[Paris]] may chain Ravenna to Chicago,
 or Ben Cruachan to Bagdad.  Many European aristocrats
 marry Americans, notoriously the most mixed stock in the world;
 so that the disinterested Eugenist, with a little trouble, might reveal
-rich stores of negro or Asiatic blood to his delighted employer.
+rich stores of negro or Asiatic [[Blood|blood]] to his delighted employer.
 Instead of which he dulls our ears and distresses our refinement
 by tedious denunciations of the monochrome marriages of the poor.
 
 For there is something really pathetic about the Eugenist's
-neglect of the aristocrat and his family affairs.  People still
-talk about the pride of pedigree; but it strikes me as the one
+neglect of the [[aristocrat]] and his family affairs.  People still
+talk about the [[Pride|pride]] of pedigree; but it strikes me as the one
 point on which the aristocrats are almost morbidly modest.
 We should be learned Eugenists if we were allowed to know half
 as much of their heredity as we are of their hairdressing.
-We see the modern aristocrat in the most human poses in the
+We see the modern [[aristocrat]] in the most human poses in the
 illustrated papers, playing with his dog or parrot --- nay, we see
-him playing with his child, or with his grandchild.  But there is
+him playing with his [[Child|child]], or with his grandchild.  But there is
 something heartrending in his refusal to play with his grandfather.
 There is often something vague and even fantastic about the antecedents
 of our most established families, which would afford the Eugenist
@@ -74,10 +74,10 @@ half consciously knows it is no part of his job; what he is
 really wanted for is to get the grip of the governing classes
 on to the unmanageable output of poor people.  It would not matter
 in the least if all Lord Cowdray's descendants grew up too weak
-to hold a tool or turn a wheel.  It would matter very much,
+to hold a tool or turn a [[Wheel|wheel]].  It would matter very much,
 especially to Lord Cowdray, if all his employees grew up like that.
 The oligarch can be unemployable because he will not be employed.
-Thus the practical and popular exponent of Eugenics has his face always
+Thus the practical and popular exponent of [[Eugenics]] has his face always
 turned towards the slums, and instinctively thinks in terms of them.
 If he talks of segregating some incurably vicious type of the sexual sort,
 he is thinking of a ruffian who assaults girls in lanes.
@@ -91,8 +91,8 @@ is the degeneration of the useful classes; because he knows
 that White would never have been a millionaire if all his workers
 had spent themselves on women as White did, that Thaw would
 never have been a millionaire if all his servants had been Thaws.
-The ornaments may be allowed to decay, but the machinery must be mended.
-That is the second proof of the plutocratic impulse behind all Eugenics:
+The ornaments may be allowed to [[Decay|decay]], but the machinery must be mended.
+That is the second proof of the plutocratic impulse behind all [[Eugenics]]:
 that no one thinks of applying it to the prominent classes.
 No one thinks of applying it where it could most easily be applied.
 
@@ -100,18 +100,18 @@ A third proof is the strange new disposition to regard the poor
 as a race; as if they were a colony of Japs or Chinese coolies.
 It can be most clearly seen by comparing it with the old,
 more individual, charitable, and (as the Eugenists might say)
-sentimental view of poverty.  In Goldsmith or Dickens or Hood
+sentimental view of [[Poverty|poverty]].  In Goldsmith or Dickens or Hood
 there is a basic idea that the particular poor person ought not
-to be so poor:  it is some accident or some wrong.  Oliver Twist
-or Tiny Tim are fairy princes waiting for their fairy godmother.
-They are held as slaves, but rather as the hero and heroine
-of a Spanish or Italian romance were held as slaves by the Moors.
+to be so poor:  it is some accident or some wrong.  [[Oliver Twist]]
+or [[Tiny Tim]] are fairy princes waiting for their fairy godmother.
+They are held as slaves, but rather as the [[Hero|hero]] and heroine
+of a Spanish or Italian [[Romance|romance]] were held as slaves by the Moors.
 The modern poor are getting to be regarded as slaves in the
 separate and sweeping sense of the negroes in the plantations.
-The bondage of the white hero to the black master was regarded
+The bondage of the white [[Hero|hero]] to the black master was regarded
 as abnormal; the bondage of the black to the white master as normal.
 The Eugenist, for all I know, would regard the mere existence
-of Tiny Tim as a sufficient reason for massacring the whole family
+of [[Tiny Tim]] as a sufficient reason for massacring the whole family
 of Cratchit; but, as a matter of fact, we have here a very good
 instance of how much more practically true to life is sentiment
 than cynicism.  The poor are not a race or even a type.
@@ -119,7 +119,7 @@ It is senseless to talk about breeding them; for they are not
 a breed.  They are, in cold fact, what Dickens describes:
 "a dustbin of individual accidents," of damaged dignity, and often
 of damaged gentility.  The class very largely consists of perfectly
-promising children, lost like Oliver Twist, or crippled like Tiny Tim.
+promising children, lost like [[Oliver Twist]], or crippled like [[Tiny Tim]].
 It contains very valuable things, like most dustbins.
 But the Eugenist delusion of the barbaric breed in the abyss affects
 even those more gracious philanthropists who almost certainly
@@ -128,8 +128,8 @@ It seems to affect not only their minds, but their very eyesight.
 Thus, for instance, Mrs. Alec Tweedie almost scornfully asks,
 "When we go through the slums, do we see beautiful children?"
 The answer is, "Yes, very often indeed."  I have seen children
-in the slums quite pretty enough to be Little Nell or the outcast
-whom Hood called "young and so fair."  Nor has the beauty anything
+in the slums quite pretty enough to be [[Little Nell]] or the outcast
+whom Hood called "young and so fair."  Nor has the [[Beauty|beauty]] anything
 necessarily to do with health, there are beautiful healthy children,
 beautiful dying children, ugly dying children, ugly uproarious
 children in Petticoat Lane or Park Lane.  There are people of every

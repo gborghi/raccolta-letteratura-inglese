@@ -34,22 +34,22 @@ was a most respectable and reliable apothecary, or he
 would not have had the custom of families, especially
 among the upper classes; but he enjoyed as a hobby,
 the study of the dark days and lands where his science
-had lain sometimes on the borders of magic and
+had lain sometimes on the borders of [[Magic|magic]] and
 sometimes upon the borders of murder.  Hence it often
 happened that persons, who in their serious senses
-were well aware of his harmless and useful habits,
-would leave his shop on some murky and foggy night,
+were [[Well|well]] aware of his harmless and useful habits,
+would leave his shop on some murky and foggy [[Night|night]],
 with their heads so full of wild tales of the eating
 of hemp or the poisoning of roses, they could hardly
-help fancying that the shop, with its glowing moon
-of crimson or saffron, like bowls of blood and sulphur,
-was really a house of the Black Art.
+help fancying that the shop, with its glowing [[Moon|moon]]
+of crimson or saffron, like bowls of [[Blood|blood]] and sulphur,
+was really a [[house]] of the Black Art.
 
 It was doubtless for such conversational pleasures,
-in part, that Hibbs However entered the shop; as well
+in part, that Hibbs However entered the shop; as [[Well|well]]
 as for a small glass of the same restorative medicine
 which he had been taking when Leveson found him by
-the open window.  But this did not prevent Hibbs
+the open [[Window|window]].  But this did not prevent Hibbs
 from expressing considerable surprise and some
 embarrassment when Leveson entered the same chemist's
 and asked for the same chemical.  Indeed, Leveson
@@ -63,27 +63,27 @@ sick of it.  Where are you going?"
 
 "I thought," said Mr. Hibbs, "of dropping in at
 this Post-Futurist exhibition.  I believe Lord Ivywood
-will be there; he is showing it to the Prophet.
+will be there; he is showing it to the [[Prophet]].
 I don't pretend to know much about art, but I hear it's
 very fine."
 
-There was a long silence and Mr. Leveson said,
+There was a long [[Silence|silence]] and Mr. Leveson said,
 "People always prejudiced against new ideas."
 
-Then there was another long silence and Mr. Hibbs
+Then there was another long [[Silence|silence]] and Mr. Hibbs
 said, "After all, they said the same of Whistler."
 
 Refreshed by this ritual, Mr. Leveson became
 conscious of the existence of Crooke, and said to him,
 cheerfully, "That's so in your department, too, isn't it?
 I suppose the greatest pioneers in chemistry were
-unpopular in their own time."
+unpopular in their own [[Time|time]]."
 
 "Look at the Borgias," said Mr. Crooke.  "They
 got themselves quite disliked."
 
 "You're very flippant, you know," said Leveson, in
-a fatigued way.  "Well, so long.  Are you coming,
+a fatigued way.  "[[Well]], so long.  Are you coming,
 Hibbs?"
 
 And the two gentlemen, who were both attired in
@@ -92,7 +92,7 @@ themselves down the street.  It was a fine, sunny day, the
 twin of the day before that had shone so brightly on
 the white town of Peaceways; and their walk was a
 pleasant one, along a handsome street with high houses
-and small trees that overlooked the river all the way.
+and small trees that overlooked the [[River|river]] all the way.
 For the pictures were exhibited in a small but famous
 gallery, a rather rococo building of which the entrance
 steps almost descended upon the Thames.  The building
@@ -104,7 +104,7 @@ costume.  But even the sight of that fragrant
 eastern flower did not seem to revive altogether the
 spirits of the drooping Secretary.
 
-"You have coome," said the beaming Prophet, "to
+"You have coome," said the beaming [[Prophet]], "to
 see the decoration?  It is approo-ooved.  I haf
 approo-ooved it."
 
@@ -123,7 +123,7 @@ frames.  Every one I have approo-ooved.  No trace
 of ze Man form.  No trace of ze Animal form.  All
 decoration as goo-ood as the goo-oodest of carpets;
 it harms not.  Lord Ivywood smile of happiness; for
-I tell him Islam indeed progresses.  Ze old Moslems
+I tell him [[Islam]] indeed progresses.  Ze old Moslems
 allow to draw the picture of the vegetable.  Here I
 hunt even for the vegetable.  And there is no
 vegetable."
@@ -131,8 +131,8 @@ vegetable."
 Hibbs, whose trade was tact, naturally did not
 think it wise that the eminent Misysra should go on
 lecturing from a tall flight of steps to the whole street
-and river, so he had slipped past with a general proposal
-to go in and see.  The Prophet and the Secretary
+and [[River|river]], so he had slipped past with a general proposal
+to go in and see.  The [[Prophet]] and the Secretary
 followed; and all entered the outer hall where Lord
 Ivywood stood with the white face of a statue.  He
 was the only statue the New Moslems were allowed
@@ -152,5 +152,5 @@ figures or groups of that world drifted through the
 Exhibition of the Post-Futurists.  It is a very small
 world, but it is just big enough and just small enough
 to govern a country--that is, a country with no
-religion.  And it has all the vanity of a mob; and all
+religion.  And it has all the [[Vanity|vanity]] of a mob; and all
 the reticence of a secret society.

@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 20 (part 2)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 20 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-which they are dried, either by the fire or the sun. Those cured by the
+which they are dried, either by the [[Fire|fire]] or the sun. Those cured by the
 
 sun are worth the most; but where one picul (133-1/3 lbs.) can be cured
 
-that way, I can cure thirty piculs by the fire. When once properly
+that way, I can cure thirty piculs by the [[Fire|fire]]. When once properly
 
 cured, they can be kept in a dry place for two or three years without
 
@@ -54,7 +54,7 @@ land everything necessary for preparing the buildings and clearing the
 
 ground. A large flat space near the eastern shore of the bay was
 
-selected, where there was plenty both of wood and water, and within a
+selected, where there was plenty both of wood and [[Water|water]], and within a
 
 convenient distance of the principal reefs on which the _biche de mer_
 
@@ -70,7 +70,7 @@ way that we could safely trust the rest of the work to the three men
 
 whom we intended to leave behind. These were John Carson, Alfred
 
-Harris, and ---- Peterson (all natives of London, I believe), who
+Harris, and ---- Peterson (all natives of [[London]], I believe), who
 
 volunteered their services in this respect.
 
@@ -86,7 +86,7 @@ promise, that we did not think it advisable to run the risk of
 
 offending him by a final refusal. I believe that not one of us had at
 
-this time the slightest suspicion of the good faith of the savages.
+this [[Time|time]] the slightest suspicion of the good [[Faith|faith]] of the savages.
 
 They had uniformly behaved with the greatest decorum, aiding us with
 
@@ -104,7 +104,7 @@ respect, and, upon the whole, we should have been the most suspicious
 
 of human beings had we entertained a single thought of perfidy on the
 
-part of a people who treated us so well. A very short while sufficed to
+part of a people who treated us so [[Well|well]]. A very short while sufficed to
 
 prove that this apparent kindness of disposition was only the result of
 
@@ -130,13 +130,13 @@ savages to approach the vessel during our absence, under any pretence
 
 whatever, and to remain constantly on deck. The boarding-nettings were
 
-up, the guns double-shotted with grape and canister, and the swivels
+up, the guns [[Double|double]]-shotted with grape and canister, and the swivels
 
 loaded with canisters of musket-balls. She lay, with her anchor apeak,
 
 about a mile from the shore, and no canoe could approach her in any
 
-direction without being distinctly seen and exposed to the full fire of
+direction without being distinctly seen and exposed to the full [[Fire|fire]] of
 
 our swivels immediately.
 
@@ -166,7 +166,7 @@ good part, and proceeded.
 
 
 
-We had passed the spring and rivulet of which I before spoke, and were
+We had passed the [[spring]] and rivulet of which I before spoke, and were
 
 now entering upon a narrow gorge leading through the chain of soapstone
 
@@ -214,11 +214,11 @@ this ravine. Yet such was the order we blindly took up, trusting
 
 foolishly to the force of our party, the unarmed condition of Too-wit
 
-and his men, the certain efficacy of our fire-arms (whose effect was
+and his men, the certain efficacy of our [[Fire|fire]]-arms (whose effect was
 
 yet a secret to the natives), and, more than all, to the long-sustained
 
-pretension of friendship kept up by these infamous wretches. Five or
+pretension of [[Friendship|friendship]] kept up by these infamous wretches. Five or
 
 six of them went on before, as if to lead the way, ostentatiously
 
@@ -226,7 +226,7 @@ busying themselves in removing the larger stones and rubbish from the
 
 path. Next came our own party. We walked closely together, taking care
 
-only to prevent separation. Behind followed the main body of the
+only to prevent separation. Behind followed the main [[Body|body]] of the
 
 savages, observing unusual order and decorum.
 
@@ -240,7 +240,7 @@ stratification of the precipice which overhung us. A fissure in the
 
 soft rock attracted our attention. It was about wide enough for one
 
-person to enter without squeezing, and extended back into the hill some
+person to enter without squeezing, and extended back into the [[Hill|hill]] some
 
 eighteen or twenty feet in a straight course, sloping afterward to the
 

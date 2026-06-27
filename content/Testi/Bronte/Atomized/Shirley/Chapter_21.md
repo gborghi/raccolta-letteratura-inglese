@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 21"
+title: "[[Shirley]] — Chapter 21"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,13 +24,13 @@ MRS. PRYOR.
 
 
 
-While Shirley was talking with Moore, Caroline rejoined Mrs. Pryor
+While [[Shirley]] was talking with Moore, Caroline rejoined Mrs. Pryor
 
 upstairs. She found that lady deeply depressed. She would not say that
 
 Miss Keeldar's hastiness had hurt her feelings, but it was evident an
 
-inward wound galled her. To any but a congenial nature she would have
+inward wound galled her. To any but a congenial [[Nature|nature]] she would have
 
 seemed insensible to the quiet, tender attentions by which Miss Helstone
 
@@ -40,17 +40,17 @@ moved as she looked, she felt, valued, and was healed by them.
 
 
 
-"I am deficient in self-confidence and decision," she said at last. "I
+"I am deficient in [[Self|self]]-confidence and decision," she said at last. "I
 
 always have been deficient in those qualities. Yet I think Miss Keeldar
 
-should have known my character well enough by this time to be aware that
+should have known my character [[Well|well]] enough by this [[Time|time]] to be aware that
 
 I always feel an even painful solicitude to do right, to act for the
 
-best. The unusual nature of the demand on my judgment puzzled me,
+best. The unusual [[Nature|nature]] of the demand on my judgment puzzled me,
 
-especially following the alarms of the night. I could not venture to act
+especially following the alarms of the [[Night|night]]. I could not venture to act
 
 promptly for another; but I trust no serious harm will result from my
 
@@ -66,9 +66,9 @@ A gentle knock was here heard at the door. It was half opened.
 
 
 
-Miss Helstone went out. There stood Shirley in the gallery, looking
+Miss Helstone went out. There stood [[Shirley]] in the gallery, looking
 
-contrite, ashamed, sorry as any repentant child.
+contrite, ashamed, sorry as any repentant [[Child|child]].
 
 
 
@@ -82,7 +82,7 @@ contrite, ashamed, sorry as any repentant child.
 
 "I have behaved very shamefully, very ungenerously, very ungratefully to
 
-her," said Shirley. "How insolent in me to turn on her thus for what,
+her," said [[Shirley]]. "How insolent in me to turn on her thus for what,
 
 after all, was no fault--only an excess of conscientiousness on her
 
@@ -92,7 +92,7 @@ will forgive me."
 
 
 
-Caroline discharged the errand with heartfelt pleasure. Mrs. Pryor rose,
+Caroline discharged the errand with heartfelt pleasure. Mrs. Pryor [[Rose|rose]],
 
 came to the door. She did not like scenes; she dreaded them as all
 
@@ -100,7 +100,7 @@ timid people do. She said falteringly, "Come in, my dear."
 
 
 
-Shirley did come in with some impetuosity. She threw her arms round her
+[[Shirley]] did come in with some impetuosity. She threw her arms round her
 
 governess, and while she kissed her heartily she said, "You know you
 
@@ -120,9 +120,9 @@ plainly than ever how unequal I am to certain crises."
 
 And that was the painful feeling which _would_ remain on Mrs. Pryor's
 
-mind. No effort of Shirley's or Caroline's could efface it thence. She
+mind. No effort of [[Shirley]]'s or Caroline's could efface it thence. She
 
-could forgive her offending pupil, not her innocent self.
+could forgive her offending pupil, not her [[Innocent|innocent]] [[Self|self]].
 
 
 
@@ -162,11 +162,11 @@ determined. Besides, the man has shown sound judgment and good
 
 sense--first, in being thoroughly prepared for the event which has taken
 
-place; and subsequently, when his well-concerted plans had secured him
+place; and subsequently, when his [[Well|well]]-concerted plans had secured him
 
-success, in knowing how to use without abusing his victory. Some of the
+[[success]], in knowing how to use without abusing his victory. Some of the
 
-magistrates are now well frightened, and, like all cowards, show a
+magistrates are now [[Well|well]] frightened, and, like all cowards, show a
 
 tendency to be cruel. Moore restrains them with admirable prudence. He
 
@@ -206,7 +206,7 @@ her guest took an abrupt leave.
 
 Mr. Yorke was in no mild mood, and in no measured terms did he express
 
-his opinion on the transaction of the night. Moore, the magistrates, the
+his opinion on the transaction of the [[Night|night]]. Moore, the magistrates, the
 
 soldiers, the mob leaders, each and all came in for a share of his
 
@@ -216,11 +216,11 @@ Yorkshire Doric adjectives they were--for the benefit of the fighting
 
 parsons, the "sanguinary, demoniac" rector and curate. According to him,
 
-the cup of ecclesiastical guilt was now full indeed.
+the cup of ecclesiastical [[Guilt|guilt]] was now full indeed.
 
 
 
-"The church," he said, "was in a bonny pickle now. It was time it came
+"The church," he said, "was in a bonny pickle now. It was [[Time|time]] it came
 
 down when parsons took to swaggering amang soldiers, blazing away wi'
 
@@ -230,7 +230,7 @@ themselves."
 
 
 
-"What would Moore have done if nobody had helped him?" asked Shirley.
+"What would Moore have done if nobody had helped him?" asked [[Shirley]].
 
 
 
@@ -240,13 +240,13 @@ themselves."
 
 "Which means you would have left him by himself to face that mob. Good!
 
-He has plenty of courage, but the greatest amount of gallantry that ever
+He has plenty of [[Courage|courage]], but the greatest amount of gallantry that ever
 
 garrisoned one human breast could scarce avail against two hundred."
 
 
 
-"He had the soldiers, those poor slaves who hire out their own blood and
+"He had the soldiers, those poor slaves who hire out their own [[Blood|blood]] and
 
 spill other folk's for money."
 
@@ -292,13 +292,13 @@ indeed, for _you_ to act so as to avoid offending them. But Mr. Moore
 
 came a stranger into the district; he came here poor and friendless,
 
-with nothing but his own energies to back him, nothing but his honour,
+with nothing but his own energies to back him, nothing but his [[Honour|honour]],
 
 his talent, and his industry to make his way for him. A monstrous crime
 
 indeed that, under such circumstances, he could not popularize his
 
-naturally grave, quiet manners all at once; could not be jocular, and
+naturally [[Grave|grave]], quiet manners all at once; could not be jocular, and
 
 free, and cordial with a strange peasantry, as you are with your
 
@@ -324,13 +324,13 @@ one against two hundred?"
 
 "Come, come now, be cool," said Mr. Yorke, smiling at the earnestness
 
-with which Shirley multiplied her rapid questions.
+with which [[Shirley]] multiplied her rapid questions.
 
 
 
 "Cool! Must I listen coolly to downright nonsense--to dangerous
 
-nonsense? No. I like you very well, Mr. Yorke, as you know, but I
+nonsense? No. I like you very [[Well|well]], Mr. Yorke, as you know, but I
 
 thoroughly dislike some of your principles. All that cant--excuse me,
 
@@ -338,7 +338,7 @@ but I repeat the word--all that _cant_ about soldiers and parsons is
 
 most offensive in my ears. All ridiculous, irrational crying up of one
 
-class, whether the same be aristocrat or democrat--all howling down of
+class, whether the same be [[aristocrat]] or democrat--all howling down of
 
 another class, whether clerical or military--all exacting injustice to
 
@@ -352,25 +352,25 @@ are a philanthropist; _you_ think you are an advocate of liberty; but I
 
 will tell you this--Mr. Hall, the parson of Nunnely, is a better friend
 
-both of man and freedom than Hiram Yorke, the reformer of Briarfield."
+both of man and [[Freedom|freedom]] than Hiram Yorke, the reformer of Briarfield."
 
 
 
 From a man Mr. Yorke would not have borne this language very patiently,
 
-nor would he have endured it from some women; but he accounted Shirley
+nor would he have endured it from some women; but he accounted [[Shirley]]
 
 both honest and pretty, and her plain-spoken ire amused him. Besides, he
 
 took a secret pleasure in hearing her defend her tenant, for we have
 
-already intimated he had Robert Moore's interest very much at heart.
+already intimated he had [[Robert Moore]]'s interest very much at heart.
 
 Moreover, if he wished to avenge himself for her severity, he knew the
 
 means lay in his power: a word, he believed, would suffice to tame and
 
-silence her, to cover her frank forehead with the rosy shadow of shame,
+[[Silence|silence]] her, to cover her frank forehead with the rosy [[Shadow|shadow]] of shame,
 
 and veil the glow of her eye under down-drooped lid and lash.
 
@@ -400,7 +400,7 @@ intended to be acted on. Make you Prime Minister of England to-morrow,
 
 and you would have to abandon them. You abuse Moore for defending his
 
-mill. Had you been in Moore's place you could not with honour or sense
+mill. Had you been in Moore's place you could not with [[Honour|honour]] or sense
 
 have acted otherwise than he acted. You abuse Mr. Helstone for
 
@@ -412,7 +412,7 @@ would find it no easy task to sustain all the active schemes for the
 
 benefit of the parish planned and persevered in by your predecessor. I
 
-wonder people cannot judge more fairly of each other and themselves.
+[[Wonder|wonder]] people cannot judge more fairly of each other and themselves.
 
 When I hear Messrs. Malone and Donne chatter about the authority of the
 
@@ -430,7 +430,7 @@ carriage to the poor, their often base servility to the rich--I think
 
 the Establishment is indeed in a poor way, and both she and her sons
 
-appear in the utmost need of reformation. Turning away distressed from
+appear in the utmost need of [[Reformation|reformation]]. Turning away distressed from
 
 minster tower and village spire--ay, as distressed as a churchwarden who
 
@@ -444,15 +444,15 @@ on all who differ from you, your sweeping condemnation of classes and
 
 individuals, without the slightest allowance made for circumstances or
 
-temptations; and then, Mr. Yorke, doubt clutches my inmost heart as to
+temptations; and then, Mr. Yorke, [[Doubt|doubt]] clutches my inmost heart as to
 
 whether men exist clement, reasonable, and just enough to be entrusted
 
-with the task of reform. I don't believe _you_ are of the number."
+with the task of [[Reform|reform]]. I don't believe _you_ are of the number."
 
 
 
-"You have an ill opinion of me, Miss Shirley. You never told me so much
+"You have an ill opinion of me, Miss [[Shirley]]. You never told me so much
 
 of your mind before."
 
@@ -492,9 +492,9 @@ Helstone also is proud and prejudiced. Moore, though juster and more
 
 considerate than either you or the rector, is still haughty, stern, and,
 
-in a public sense, selfish. It is well there are such men as Mr. Hall to
+in a public sense, selfish. It is [[Well|well]] there are such men as Mr. Hall to
 
-be found occasionally--men of large and kind hearts, who can love their
+be found occasionally--men of large and kind hearts, who can [[Love|love]] their
 
 whole race, who can forgive others for being richer, more prosperous, or
 
@@ -522,31 +522,31 @@ force of character than you, but they are better friends to mankind."
 
 "Only that of Robert Gérard Moore, Esq., of Hollow's Cottage, with Miss
 
-Keeldar, daughter and heiress of the late Charles Cave Keeldar of
+Keeldar, daughter and heiress of the late Charles [[Cave]] Keeldar of
 
 Fieldhead Hall."
 
 
 
-Shirley gazed at the questioner with rising colour. But the light in her
+[[Shirley]] gazed at the questioner with rising colour. But the light in her
 
 eye was not faltering; it shone steadily--yes, it burned deeply.
 
 
 
-"That is your revenge," she said slowly; then added, "Would it be a bad
+"That is your [[Revenge|revenge]]," she said slowly; then added, "Would it be a bad
 
-match, unworthy of the late Charles Cave Keeldar's representative?"
+match, unworthy of the late Charles [[Cave]] Keeldar's representative?"
 
 
 
-"My lass, Moore is a gentleman; his blood is pure and ancient as mine or
+"My lass, Moore is a gentleman; his [[Blood|blood]] is pure and ancient as mine or
 
 thine."
 
 
 
-"And we two set store by ancient blood? We have family pride, though one
+"And we two set store by ancient [[Blood|blood]]? We have family [[Pride|pride]], though one
 
 of us at least is a republican?"
 
@@ -554,13 +554,13 @@ of us at least is a republican?"
 
 Yorke bowed as he stood before her. His lips were mute, but his eye
 
-confessed the impeachment. Yes, he had family pride; you saw it in his
+confessed the impeachment. Yes, he had family [[Pride|pride]]; you saw it in his
 
 whole bearing.
 
 
 
-"Moore _is_ a gentleman," echoed Shirley, lifting her head with glad
+"Moore _is_ a gentleman," echoed [[Shirley]], lifting her head with glad
 
 grace. She checked herself. Words seemed crowding to her tongue. She
 
@@ -568,15 +568,15 @@ would not give them utterance; but her look spoke much at the moment.
 
 What, Yorke tried to read, but could not. The language was there,
 
-visible, but untranslatable--a poem, a fervid lyric, in an unknown
+visible, but untranslatable--a poem, a fervid [[Lyric|lyric]], in an unknown
 
 tongue. It was not a plain story, however, no simple gush of feeling, no
 
-ordinary love-confession--that was obvious. It was something other,
+ordinary [[Love|love]]-confession--that was obvious. It was something other,
 
-deeper, more intricate than he guessed at. He felt his revenge had not
+deeper, more intricate than he guessed at. He felt his [[Revenge|revenge]] had not
 
-struck home. He felt that Shirley triumphed. She held him at fault,
+struck [[Home|home]]. He felt that [[Shirley]] triumphed. She held him at fault,
 
 baffled, puzzled. _She_ enjoyed the moment, not _he_.
 
@@ -586,7 +586,7 @@ baffled, puzzled. _She_ enjoyed the moment, not _he_.
 
 
 
-"Therefore there would be no inequality in our union."
+"Therefore there would be no inequality in our [[Union|union]]."
 
 
 
@@ -614,7 +614,7 @@ her mobile lineaments.
 
 
 
-She laughed. "Take courage, sir; you are not singular in your ignorance.
+She laughed. "Take [[Courage|courage]], sir; you are not singular in your ignorance.
 
 But I suppose if Moore understands me that will do, will it not?"
 
@@ -650,9 +650,9 @@ The day being fine, or at least fair--for soft clouds curtained the sun,
 
 and a dim but not chill or waterish haze slept blue on the
 
-hills--Caroline, while Shirley was engaged with her callers, had
+hills--Caroline, while [[Shirley]] was engaged with her callers, had
 
-persuaded Mrs. Pryor to assume her bonnet and summer shawl, and to take
+persuaded Mrs. Pryor to assume her bonnet and [[Summer|summer]] shawl, and to take
 
 a walk with her up towards the narrow end of the Hollow.
 
@@ -662,7 +662,7 @@ Here the opposing sides of the glen, approaching each other and becoming
 
 clothed with brushwood and stunted oaks, formed a wooded ravine, at the
 
-bottom of which ran the mill-stream, in broken, unquiet course,
+[[Bottom|bottom]] of which ran the mill-stream, in broken, unquiet course,
 
 struggling with many stones, chafing against rugged banks, fretting with
 
@@ -670,17 +670,17 @@ gnarled tree-roots, foaming, gurgling, battling as it went. Here, when
 
 you had wandered half a mile from the mill, you found a sense of deep
 
-solitude--found it in the shade of unmolested trees, received it in the
+[[Solitude|solitude]]--found it in the shade of unmolested trees, received it in the
 
-singing of many birds, for which that shade made a home. This was no
+singing of many [[Birds|birds]], for which that shade made a [[Home|home]]. This was no
 
-trodden way. The freshness of the wood flowers attested that foot of man
+trodden way. The freshness of the wood [[Flowers|flowers]] attested that foot of man
 
 seldom pressed them; the abounding wild roses looked as if they budded,
 
-bloomed, and faded under the watch of solitude, as if in a sultan's
+bloomed, and faded under the watch of [[Solitude|solitude]], as if in a sultan's
 
-harem. Here you saw the sweet azure of blue-bells, and recognized in
+harem. Here you saw the sweet azure of blue-[[Bells|bells]], and recognized in
 
 pearl-white blossoms, spangling the grass, a humble type of some starlit
 
@@ -690,15 +690,15 @@ spot in space.
 
 Mrs. Pryor liked a quiet walk. She ever shunned high-roads, and sought
 
-byways and lonely lanes. One companion she preferred to total solitude,
+byways and lonely lanes. One companion she preferred to total [[Solitude|solitude]],
 
-for in solitude she was nervous; a vague fear of annoying encounters
+for in [[Solitude|solitude]] she was nervous; a vague [[Fear|fear]] of annoying encounters
 
 broke the enjoyment of quite lonely rambles. But she feared nothing with
 
 Caroline. When once she got away from human habitations, and entered
 
-the still demesne of nature accompanied by this one youthful friend, a
+the still demesne of [[Nature|nature]] accompanied by this one youthful friend, a
 
 propitious change seemed to steal over her mind and beam in her
 
@@ -722,11 +722,11 @@ vulnerable.
 
 To-day, for instance, as they walked along, Mrs. Pryor talked to her
 
-companion about the various birds singing in the trees, discriminated
+companion about the various [[Birds|birds]] singing in the trees, discriminated
 
 their species, and said something about their habits and peculiarities.
 
-English natural history seemed familiar to her. All the wild flowers
+English natural [[history]] seemed familiar to her. All the wild [[Flowers|flowers]]
 
 round their path were recognized by her; tiny plants springing near
 
@@ -740,7 +740,7 @@ English fields and woods. Having reached the head of the ravine, they
 
 sat down together on a ledge of gray and mossy rock jutting from the
 
-base of a steep green hill which towered above them. She looked round
+base of a steep green [[Hill|hill]] which towered above them. She looked round
 
 her, and spoke of the neighbourhood as she had once before seen it long
 
@@ -766,7 +766,7 @@ animation. Rarely, probably, had she, with her chill, repellent outside,
 
 her diffident mien, and incommunicative habits, known what it was to
 
-excite in one whom she herself could love feelings of earnest affection
+excite in one whom she herself could [[Love|love]] feelings of earnest affection
 
 and admiring esteem. Delightful, doubtless, was the consciousness that a
 
@@ -782,7 +782,7 @@ to use, she said, as she bent towards her youthful companion, and put
 
 aside from her forehead a pale brown curl which had strayed from the
 
-confining comb, "I do hope this sweet air blowing from the hill will do
+confining comb, "I do [[Hope|hope]] this sweet air blowing from the [[Hill|hill]] will do
 
 you good, my dear Caroline. I wish I could see something more of colour
 
@@ -802,7 +802,7 @@ lives easy."
 
 
 
-"Do you," continued Mrs. Pryor, mastering by an effort that tyrant
+"Do you," continued Mrs. Pryor, mastering by an effort that [[Tyrant|tyrant]]
 
 timidity which made it difficult for her, even under present
 
@@ -834,7 +834,7 @@ But Caroline comprehended.
 
 
 
-"Oh, that is nothing," she replied. "My uncle and I get on very well. We
+"Oh, that is nothing," she replied. "My uncle and I get on very [[Well|well]]. We
 
 never quarrel--I don't call him harsh--he never scolds me. Sometimes I
 
@@ -842,7 +842,7 @@ wish somebody in the world loved me, but I cannot say that I
 
 particularly wish him to have more affection for me than he has. As a
 
-child, I should perhaps have felt the want of attention, only the
+[[Child|child]], I should perhaps have felt the want of attention, only the
 
 servants were very kind to me; but when people are long indifferent to
 
@@ -856,7 +856,7 @@ far as I am concerned. I believe it would merely annoy and frighten me
 
 were he to be affectionate towards me now. But you know, Mrs. Pryor, it
 
-is scarcely _living_ to measure time as I do at the rectory. The hours
+is scarcely _living_ to measure [[Time|time]] as I do at the rectory. The hours
 
 pass, and I get them over somehow, but I do not _live_. I endure
 
@@ -870,7 +870,7 @@ been--I was going to say happier, but that would be untrue." She paused.
 
 
 
-"Very fond of Shirley. I both like and admire her. But I am painfully
+"Very fond of [[Shirley]]. I both like and admire her. But I am painfully
 
 circumstanced. For a reason I cannot explain I want to go away from this
 
@@ -916,15 +916,15 @@ that they thought me 'a bore.' The servants, it was signified, 'detested
 
 me;' _why_, I could never clearly comprehend. My pupils, I was told,
 
-'however much they might love me, and how deep soever the interest I
+'however much they might [[Love|love]] me, and how deep soever the interest I
 
 might take in them, could not be my friends.' It was intimated that I
 
-must 'live alone, and never transgress the invisible but rigid line
+must 'live [[Alone|alone]], and never transgress the invisible but rigid line
 
 which established the difference between me and my employers.' My life
 
-in this house was sedentary, solitary, constrained, joyless, toilsome.
+in this [[house]] was sedentary, solitary, constrained, joyless, toilsome.
 
 The dreadful crushing of the animal spirits, the ever-prevailing sense
 
@@ -932,17 +932,17 @@ of friendlessness and homelessness consequent on this state of things
 
 began ere long to produce mortal effects on my constitution. I sickened.
 
-The lady of the house told me coolly I was the victim of 'wounded
+The lady of the [[house]] told me coolly I was the victim of 'wounded
 
-vanity.' She hinted that if I did not make an effort to quell my
+[[Vanity|vanity]].' She hinted that if I did not make an effort to quell my
 
 'ungodly discontent,' to cease 'murmuring against God's appointment,'
 
-and to cultivate the profound humility befitting my station, my mind
+and to cultivate the profound [[Humility|humility]] befitting my station, my mind
 
 would very likely 'go to pieces' on the rock that wrecked most of my
 
-sisterhood--morbid self-esteem--and that I should die an inmate of a
+sisterhood--morbid [[Self|self]]-esteem--and that I should die an inmate of a
 
 lunatic asylum.
 
@@ -958,7 +958,7 @@ governess. 'Doubtless they had their trials; but,' she averred, with a
 
 manner it makes me smile now to recall--'but it must be so. _She_' (Miss
 
-H.) 'had neither view, hope, nor _wish_ to see these things remedied;
+H.) 'had neither view, [[Hope|hope]], nor _wish_ to see these things remedied;
 
 for in the inherent constitution of English habits, feelings, and
 
@@ -974,21 +974,21 @@ and the decorum of English families exact.'
 
 "I remember I sighed as Miss Hardman quitted my bedside. She caught the
 
-sound, and turning, said severely, 'I fear, Miss Grey, you have
+sound, and turning, said severely, 'I [[Fear|fear]], Miss Grey, you have
 
-inherited in fullest measure the worst sin of our fallen nature--the sin
+inherited in fullest measure the worst sin of our fallen [[Nature|nature]]--the sin
 
-of pride. You are proud, and therefore you are ungrateful too. Mamma
+of [[Pride|pride]]. You are proud, and therefore you are ungrateful too. Mamma
 
 pays you a handsome salary, and if you had average sense you would
 
 thankfully put up with much that is fatiguing to do and irksome to bear,
 
-since it is so well made worth your while.'
+since it is so [[Well|well]] made worth your while.'
 
 
 
-"Miss Hardman, my love, was a very strong-minded young lady, of most
+"Miss Hardman, my [[Love|love]], was a very strong-minded young lady, of most
 
 distinguished talents. The aristocracy are decidedly a very superior
 
@@ -996,7 +996,7 @@ class, you know, both physically, and morally, and mentally; as a high
 
 Tory I acknowledge that. I could not describe the dignity of her voice
 
-and mien as she addressed me thus; still, I fear she was selfish, my
+and mien as she addressed me thus; still, I [[Fear|fear]] she was selfish, my
 
 dear. I would never wish to speak ill of my superiors in rank, but I
 
@@ -1012,7 +1012,7 @@ would say--'WE need the imprudences, extravagances, mistakes, and crimes
 
 of a certain number of fathers to sow the seed from which WE reap the
 
-harvest of governesses. The daughters of trades-people, however well
+harvest of governesses. The daughters of trades-people, however [[Well|well]]
 
 educated, must necessarily be underbred, and as such unfit to be
 
@@ -1048,7 +1048,7 @@ superiors. Implicit submission to authorities, scrupulous deference to
 
 our betters (under which term I, of course, include the higher classes
 
-of society), are, in my opinion, indispensable to the well-being of
+of society), are, in my opinion, indispensable to the [[Well|well]]-being of
 
 every community. All I mean to say, my dear, is that you had better not
 
@@ -1062,21 +1062,21 @@ I cannot but feel that, were you to fall under auspices such as theirs,
 
 you would contend a while courageously with your doom, then you would
 
-pine and grow too weak for your work; you would come home--if you still
+pine and grow too weak for your work; you would come [[Home|home]]--if you still
 
-had a home--broken down. Those languishing years would follow of which
+had a [[Home|home]]--broken down. Those languishing years would follow of which
 
 none but the invalid and her immediate friends feel the heart-sickness
 
 and know the burden. Consumption or decline would close the chapter.
 
-Such is the history of many a life. I would not have it yours. My dear,
+Such is the [[history]] of many a life. I would not have it yours. My dear,
 
 we will now walk about a little, if you please."
 
 
 
-They both rose, and slowly paced a green natural terrace bordering the
+They both [[Rose|rose]], and slowly paced a green natural terrace bordering the
 
 chasm.
 
@@ -1086,15 +1086,15 @@ chasm.
 
 abruptness marking her manner as she spoke, "the young, especially those
 
-to whom nature has been favourable, often--frequently--anticipate--look
+to whom [[Nature|nature]] has been favourable, often--frequently--anticipate--look
 
-forward to--to marriage as the end, the goal of their hopes."
+forward to--to [[Marriage|marriage]] as the end, the goal of their hopes."
 
 
 
 And she stopped. Caroline came to her relief with promptitude, showing a
 
-great deal more self-possession and courage than herself on the
+great deal more [[Self|self]]-possession and [[Courage|courage]] than herself on the
 
 formidable topic now broached.
 
@@ -1102,9 +1102,9 @@ formidable topic now broached.
 
 "They do, and naturally," she replied, with a calm emphasis that
 
-startled Mrs. Pryor. "They look forward to marriage with some one they
+startled Mrs. Pryor. "They look forward to [[Marriage|marriage]] with some one they
 
-love as the brightest, the only bright destiny that can await them. Are
+[[Love|love]] as the brightest, the only bright destiny that can await them. Are
 
 they wrong?"
 
@@ -1120,45 +1120,45 @@ an illusion."
 
 
 
-"But not love! Love is real--the most real, the most lasting, the
+"But not [[Love|love]]! [[Love]] is real--the most real, the most lasting, the
 
 sweetest and yet the bitterest thing we know."
 
 
 
-"My dear, it is very bitter. It is said to be strong--strong as death!
+"My dear, it is very bitter. It is said to be strong--strong as [[Death|death]]!
 
 Most of the cheats of existence are strong. As to their sweetness,
 
 nothing is so transitory; its date is a moment, the twinkling of an eye.
 
-The sting remains for ever. It may perish with the dawn of eternity, but
+The sting remains for ever. It may perish with the [[Dawn|dawn]] of [[Eternity|eternity]], but
 
-it tortures through time into its deepest night."
-
-
-
-"Yes, it tortures through time," agreed Caroline, "except when it is
-
-mutual love."
+it tortures through [[Time|time]] into its deepest [[Night|night]]."
 
 
 
-"Mutual love! My dear, romances are pernicious. You do not read them, I
+"Yes, it tortures through [[Time|time]]," agreed Caroline, "except when it is
 
-hope?"
+mutual [[Love|love]]."
 
 
 
-"Sometimes--whenever I can get them, indeed. But romance-writers might
+"Mutual [[Love|love]]! My dear, romances are pernicious. You do not read them, I
 
-know nothing of love, judging by the way in which they treat of it."
+[[Hope|hope]]?"
+
+
+
+"Sometimes--whenever I can get them, indeed. But [[Romance|romance]]-writers might
+
+know nothing of [[Love|love]], judging by the way in which they treat of it."
 
 
 
 "Nothing whatever, my dear," assented Mrs. Pryor eagerly, "nor of
 
-marriage; and the false pictures they give of those subjects cannot be
+[[Marriage|marriage]]; and the false pictures they give of those subjects cannot be
 
 too strongly condemned. They are not like reality. They show you only
 
@@ -1172,7 +1172,7 @@ truthful hint of the slough underneath."
 
 marriages. Where affection is reciprocal and sincere, and minds are
 
-harmonious, marriage _must_ be happy."
+harmonious, [[Marriage|marriage]] _must_ be happy."
 
 
 
@@ -1180,11 +1180,11 @@ harmonious, marriage _must_ be happy."
 
 There is, perhaps, a possibility of content under peculiar
 
-circumstances, such as are seldom combined; but it is as well not to run
+circumstances, such as are seldom combined; but it is as [[Well|well]] not to run
 
 the risk--you may make fatal mistakes. Be satisfied, my dear. Let all
 
-the single be satisfied with their freedom."
+the single be satisfied with their [[Freedom|freedom]]."
 
 
 
@@ -1198,13 +1198,13 @@ terrible!"
 
 
 
-"No, it is only true. O child, you have only lived the pleasant morning
+"No, it is only true. O [[Child|child]], you have only lived the pleasant morning
 
-time of life; the hot, weary noon, the sad evening, the sunless night,
+[[Time|time]] of life; the hot, weary [[Noon|noon]], the sad evening, the sunless [[Night|night]],
 
 are yet to come for you. Mr. Helstone, you say, talks as I talk; and I
 
-wonder how Mrs. Matthewson Helstone would have talked had she been
+[[Wonder|wonder]] how Mrs. Matthewson Helstone would have talked had she been
 
 living. She died! she died!"
 
@@ -1236,7 +1236,7 @@ a sombre recollection.
 
 
 
-"In this case there ought to be no such thing as marriage."
+"In this case there ought to be no such thing as [[Marriage|marriage]]."
 
 
 
@@ -1248,7 +1248,7 @@ vouchsafed."
 
 
 
-"But your own marriage, Mrs. Pryor?"
+"But your own [[Marriage|marriage]], Mrs. Pryor?"
 
 
 
@@ -1260,7 +1260,7 @@ contact.
 
 
 
-"My marriage was unhappy," said the lady, summoning courage at last;
+"My [[Marriage|marriage]] was unhappy," said the lady, summoning [[Courage|courage]] at last;
 
 "but yet----" She hesitated.
 
@@ -1272,7 +1272,7 @@ contact.
 
 "Not in its results, at least. No," she added, in a softer tone; "God
 
-mingles something of the balm of mercy even in vials of the most
+mingles something of the balm of [[Mercy|mercy]] even in vials of the most
 
 corrosive woe. He can so turn events that from the very same blind, rash
 
@@ -1282,7 +1282,7 @@ the remainder. Then I am of a peculiar disposition--I own that--far from
 
 facile, without address, in some points eccentric. I ought never to have
 
-married. Mine is not the nature easily to find a duplicate or likely to
+married. Mine is not the [[Nature|nature]] easily to find a duplicate or likely to
 
 assimilate with a contrast. I was quite aware of my own ineligibility;
 
@@ -1294,7 +1294,7 @@ married; and then----"
 
 Caroline's eyes asked her to proceed. They entreated her to break the
 
-thick cloud of despair which her previous words had seemed to spread
+thick cloud of [[Despair|despair]] which her previous words had seemed to spread
 
 over life.
 
@@ -1302,13 +1302,13 @@ over life.
 
 "And then, my dear, Mr.--that is, the gentleman I married--was, perhaps,
 
-rather an exceptional than an average character. I hope, at least, the
+rather an exceptional than an average character. I [[Hope|hope]], at least, the
 
 experience of few has been such as mine was, or that few have felt their
 
 sufferings as I felt mine. They nearly shook my mind; relief was so
 
-hopeless, redress so unattainable. But, my dear, I do not wish to
+hopeless, redress so [[Unattainable|unattainable]]. But, my dear, I do not wish to
 
 dishearten; I only wish to warn you, and to prove that the single should
 
@@ -1320,9 +1320,9 @@ worse."
 
 "Thank you, my dear madam. I quite understand your kind intentions, but
 
-there is no fear of my falling into the error to which you allude. I, at
+there is no [[Fear|fear]] of my falling into the error to which you allude. I, at
 
-least, have no thoughts of marriage, and for that reason I want to make
+least, have no thoughts of [[Marriage|marriage]], and for that reason I want to make
 
 myself a position by some other means."
 
@@ -1344,9 +1344,9 @@ I must tell you that I possess a small independency, arising partly from
 
 my own savings, and partly from a legacy left me some years since.
 
-Whenever I leave Fieldhead I shall take a house of my own. I could not
+Whenever I leave Fieldhead I shall take a [[house]] of my own. I could not
 
-endure to live in solitude. I have no relations whom I care to invite to
+endure to live in [[Solitude|solitude]]. I have no relations whom I care to invite to
 
 close intimacy; for, as you must have observed, and as I have already
 
@@ -1360,7 +1360,7 @@ society I should esteem a very dear privilege--an inestimable privilege,
 
 a comfort, a blessing. You shall come to me, then. Caroline, do you
 
-refuse me? I hope you can love me?"
+refuse me? I [[Hope|hope]] you can [[Love|love]] me?"
 
 
 
@@ -1368,7 +1368,7 @@ And with these two abrupt questions she stopped.
 
 
 
-"Indeed, I _do_ love you," was the reply. "I should like to live with
+"Indeed, I _do_ [[Love|love]] you," was the reply. "I should like to live with
 
 you. But you are too kind."
 
@@ -1378,7 +1378,7 @@ you. But you are too kind."
 
 provided for. But never again say I am _too kind_. You pierce my heart,
 
-child!"
+[[Child|child]]!"
 
 
 
@@ -1396,11 +1396,11 @@ yet be mine."
 
 
 
-Mrs. Pryor seemed deeply agitated. Large tears trembled in her eyes and
+Mrs. Pryor seemed deeply agitated. Large [[Tears|tears]] trembled in her eyes and
 
 rolled down her cheeks. Caroline kissed her, in her gentle, caressing
 
-way, saying softly, "I love you dearly. Don't cry."
+way, saying softly, "I [[Love|love]] you dearly. Don't cry."
 
 
 
@@ -1408,13 +1408,13 @@ But the lady's whole frame seemed shaken. She sat down, bent her head to
 
 her knee, and wept aloud. Nothing could console her till the inward
 
-storm had had its way. At last the agony subsided of itself.
+[[Storm|storm]] had had its way. At last the agony subsided of itself.
 
 
 
 "Poor thing!" she murmured, returning Caroline's kiss, "poor lonely
 
-lamb! But come," she added abruptly--"come; we must go home."
+[[Lamb|lamb]]! But come," she added abruptly--"come; we must go [[Home|home]]."
 
 
 
@@ -1422,7 +1422,7 @@ For a short distance Mrs. Pryor walked very fast. By degrees, however,
 
 she calmed down to her wonted manner, fell into her usual characteristic
 
-pace--a peculiar one, like all her movements--and by the time they
+pace--a peculiar one, like all her movements--and by the [[Time|time]] they
 
 reached Fieldhead she had re-entered into herself. The outside was, as
 

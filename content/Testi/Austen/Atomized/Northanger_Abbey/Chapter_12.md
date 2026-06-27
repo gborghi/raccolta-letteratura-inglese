@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 11"
+title: "[[Northanger Abbey]] — Chapter 11"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -36,13 +36,13 @@ barometer about him, declined giving any absolute promise of sunshine.
 
 She applied to Mrs. Allen, and Mrs. Allen’s opinion was more positive.
 
-“She had no doubt in the world of its being a very fine day, if the
+“She had no [[Doubt|doubt]] in the world of its being a very fine day, if the
 
 clouds would only go off, and the sun keep out.”
 
 
 
-At about eleven o’clock, however, a few specks of small rain upon the
+At about eleven o’[[Clock|clock]], however, a few specks of small rain upon the
 
 windows caught Catherine’s watchful eye, and “Oh! dear, I do believe it
 
@@ -74,7 +74,7 @@ nothing, or it may hold up before twelve.”
 
 After a short pause, “It comes on faster and faster!” said Catherine,
 
-as she stood watching at a window.
+as she stood watching at a [[Window|window]].
 
 
 
@@ -90,7 +90,7 @@ umbrella!”
 
 “They are disagreeable things to carry. I would much rather take a
 
-chair at any time.”
+chair at any [[Time|time]].”
 
 
 
@@ -102,11 +102,11 @@ dry!”
 
 “Anybody would have thought so indeed. There will be very few people in
 
-the pump-room, if it rains all the morning. I hope Mr. Allen will put
+the pump-room, if it rains all the morning. I [[Hope|hope]] Mr. Allen will put
 
 on his greatcoat when he goes, but I dare say he will not, for he had
 
-rather do anything in the world than walk out in a greatcoat; I wonder
+rather do anything in the world than walk out in a greatcoat; I [[Wonder|wonder]]
 
 he should dislike it, it must be so comfortable.”
 
@@ -114,19 +114,19 @@ he should dislike it, it must be so comfortable.”
 
 The rain continued—fast, though not heavy. Catherine went every five
 
-minutes to the clock, threatening on each return that, if it still kept
+minutes to the [[Clock|clock]], threatening on each return that, if it still kept
 
 on raining another five minutes, she would give up the matter as
 
-hopeless. The clock struck twelve, and it still rained. “You will not
+hopeless. The [[Clock|clock]] struck twelve, and it still rained. “You will not
 
 be able to go, my dear.”
 
 
 
-“I do not quite despair yet. I shall not give it up till a quarter
+“I do not quite [[Despair|despair]] yet. I shall not give it up till a quarter
 
-after twelve. This is just the time of day for it to clear up, and I do
+after twelve. This is just the [[Time|time]] of day for it to clear up, and I do
 
 think it looks a little lighter. There, it is twenty minutes after
 
@@ -134,7 +134,7 @@ twelve, and now I _shall_ give it up entirely. Oh! that we had such
 
 weather here as they had at Udolpho, or at least in Tuscany and the
 
-south of France!—the night that poor St. Aubin died!—such beautiful
+south of France!—the [[Night|night]] that poor St. Aubin died!—such beautiful
 
 weather!”
 
@@ -148,7 +148,7 @@ the sky began voluntarily to clear. A gleam of sunshine took her quite
 
 by surprise; she looked round; the clouds were parting, and she
 
-instantly returned to the window to watch over and encourage the happy
+instantly returned to the [[Window|window]] to watch over and encourage the happy
 
 appearance. Ten minutes more made it certain that a bright afternoon
 
@@ -174,11 +174,11 @@ had surprised her so much a few mornings back.
 
 
 
-“Isabella, my brother, and Mr. Thorpe, I declare! they are coming for
+“[[Isabella]], my brother, and Mr. Thorpe, I declare! they are coming for
 
 me perhaps—but I shall not go—I cannot go indeed, for you know Miss
 
-Tilney may still call.” Mrs. Allen agreed to it. John Thorpe was soon
+Tilney may still call.” Mrs. Allen agreed to it. [[John Thorpe]] was soon
 
 with them, and his voice was with them yet sooner, for on the stairs he
 
@@ -186,7 +186,7 @@ was calling out to Miss Morland to be quick. “Make haste! make haste!”
 
 as he threw open the door. “Put on your hat this moment—there is no
 
-time to be lost—we are going to Bristol. How d’ye do, Mrs. Allen?”
+[[Time|time]] to be lost—we are going to Bristol. How d’ye do, Mrs. Allen?”
 
 
 
@@ -204,7 +204,7 @@ delightful? We shall have a most heavenly drive. You are to thank your
 
 brother and me for the scheme; it darted into our heads at
 
-breakfast-time, I verily believe at the same instant; and we should
+breakfast-[[Time|time]], I verily believe at the same instant; and we should
 
 have been off two hours ago if it had not been for this detestable
 
@@ -216,33 +216,33 @@ country air and quiet! so much better than going to the Lower Rooms. We
 
 shall drive directly to Clifton and dine there; and, as soon as dinner
 
-is over, if there is time for it, go on to Kingsweston.”
+is over, if there is [[Time|time]] for it, go on to Kingsweston.”
 
 
 
-“I doubt our being able to do so much,” said Morland.
+“I [[Doubt|doubt]] our being able to do so much,” said Morland.
 
 
 
 “You croaking fellow!” cried Thorpe. “We shall be able to do ten times
 
-more. Kingsweston! aye, and Blaize Castle too, and anything else we can
+more. Kingsweston! aye, and Blaize [[Castle]] too, and anything else we can
 
 hear of; but here is your sister says she will not go.”
 
 
 
-“Blaize Castle!” cried Catherine. “What is that?”
+“Blaize [[Castle]]!” cried Catherine. “What is that?”
 
 
 
-“The finest place in England—worth going fifty miles at any time to
+“The finest place in England—worth going fifty miles at any [[Time|time]] to
 
 see.”
 
 
 
-“What, is it really a castle, an old castle?”
+“What, is it really a [[Castle|castle]], an old [[Castle|castle]]?”
 
 
 
@@ -274,7 +274,7 @@ see.”
 
 
 
-“I cannot go, because”—looking down as she spoke, fearful of Isabella’s
+“I cannot go, because”—looking down as she spoke, fearful of [[Isabella]]’s
 
 smile—“I expect Miss Tilney and her brother to call on me to take a
 
@@ -296,7 +296,7 @@ I saw them—does he not drive a phaeton with bright chestnuts?”
 
 “Yes, I know he does; I saw him. You are talking of the man you danced
 
-with last night, are not you?”
+with last [[Night|night]], are not you?”
 
 
 
@@ -304,7 +304,7 @@ with last night, are not you?”
 
 
 
-“Well, I saw him at that moment turn up the Lansdown Road, driving a
+“[[Well]], I saw him at that moment turn up the Lansdown [[Road]], driving a
 
 smart-looking girl.”
 
@@ -314,7 +314,7 @@ smart-looking girl.”
 
 
 
-“Did upon my soul; knew him again directly, and he seemed to have got
+“Did upon my [[Soul|soul]]; knew him again directly, and he seemed to have got
 
 some very pretty cattle too.”
 
@@ -326,21 +326,21 @@ walk.”
 
 
 
-“And well they might, for I never saw so much dirt in my life. Walk!
+“And [[Well|well]] they might, for I never saw so much dirt in my life. Walk!
 
 You could no more walk than you could fly! it has not been so dirty the
 
-whole winter; it is ankle-deep everywhere.”
+whole [[Winter|winter]]; it is ankle-deep everywhere.”
 
 
 
-Isabella corroborated it: “My dearest Catherine, you cannot form an
+[[Isabella]] corroborated it: “My dearest Catherine, you cannot form an
 
 idea of the dirt; come, you must go; you cannot refuse going now.”
 
 
 
-“I should like to see the castle; but may we go all over it? May we go
+“I should like to see the [[Castle|castle]]; but may we go all over it? May we go
 
 up every staircase, and into every suite of rooms?”
 
@@ -374,7 +374,7 @@ going as far as Wick Rocks.”
 
 “Mrs. Allen, you must persuade her to go,” was the general cry. Mrs.
 
-Allen was not inattentive to it: “Well, my dear,” said she, “suppose
+Allen was not inattentive to it: “[[Well]], my dear,” said she, “suppose
 
 you go.” And in two minutes they were off.
 
@@ -384,15 +384,15 @@ Catherine’s feelings, as she got into the carriage, were in a very
 
 unsettled state; divided between regret for the loss of one great
 
-pleasure, and the hope of soon enjoying another, almost its equal in
+pleasure, and the [[Hope|hope]] of soon enjoying another, almost its equal in
 
 degree, however unlike in kind. She could not think the Tilneys had
 
-acted quite well by her, in so readily giving up their engagement,
+acted quite [[Well|well]] by her, in so readily giving up their engagement,
 
 without sending her any message of excuse. It was now but an hour later
 
-than the time fixed on for the beginning of their walk; and, in spite
+than the [[Time|time]] fixed on for the beginning of their walk; and, in spite
 
 of what she had heard of the prodigious accumulation of dirt in the
 
@@ -404,7 +404,7 @@ feel herself slighted by them was very painful. On the other hand, the
 
 delight of exploring an edifice like Udolpho, as her fancy represented
 
-Blaize Castle to be, was such a counterpoise of good as might console
+Blaize [[Castle]] to be, was such a counterpoise of good as might console
 
 her for almost anything.
 
@@ -412,7 +412,7 @@ her for almost anything.
 
 They passed briskly down Pulteney Street, and through Laura Place,
 
-without the exchange of many words. Thorpe talked to his horse, and she
+without the exchange of many words. Thorpe talked to his [[Horse|horse]], and she
 
 meditated, by turns, on broken promises and broken arches, phaetons and
 
@@ -440,7 +440,7 @@ Tilney; it is indeed. How could you tell me they were gone? Stop, stop,
 
 I will get out this moment and go to them.” But to what purpose did she
 
-speak? Thorpe only lashed his horse into a brisker trot; the Tilneys,
+speak? Thorpe only lashed his [[Horse|horse]] into a brisker trot; the Tilneys,
 
 who had soon ceased to look after her, were in a moment out of sight
 
@@ -454,7 +454,7 @@ Thorpe. I cannot go on. I will not go on. I must go back to Miss
 
 Tilney.” But Mr. Thorpe only laughed, smacked his whip, encouraged his
 
-horse, made odd noises, and drove on; and Catherine, angry and vexed as
+[[Horse|horse]], made odd noises, and drove on; and Catherine, angry and vexed as
 
 she was, having no power of getting away, was obliged to give up the
 
@@ -462,7 +462,7 @@ point and submit. Her reproaches, however, were not spared. “How could
 
 you deceive me so, Mr. Thorpe? How could you say that you saw them
 
-driving up the Lansdown Road? I would not have had it happen so for the
+driving up the Lansdown [[Road]]? I would not have had it happen so for the
 
 world. They must think it so strange, so rude of me! to go by them,
 
@@ -488,7 +488,7 @@ agreeable. Catherine’s complaisance was no longer what it had been in
 
 their former airing. She listened reluctantly, and her replies were
 
-short. Blaize Castle remained her only comfort; towards _that_, she
+short. Blaize [[Castle]] remained her only comfort; towards _that_, she
 
 still looked at intervals with pleasure; though rather than be
 
@@ -506,9 +506,9 @@ of being stopped in their way along narrow, winding vaults, by a low,
 
 grated door; or even of having their lamp, their only lamp,
 
-extinguished by a sudden gust of wind, and of being left in total
+extinguished by a sudden gust of [[Wind|wind]], and of being left in total
 
-darkness. In the meanwhile, they proceeded on their journey without any
+darkness. In the meanwhile, they proceeded on their [[Journey|journey]] without any
 
 mischance, and were within view of the town of Keynsham, when a halloo
 
@@ -518,7 +518,7 @@ what was the matter. The others then came close enough for
 
 conversation, and Morland said, “We had better go back, Thorpe; it is
 
-too late to go on to-day; your sister thinks so as well as I. We have
+too late to go on to-day; your sister thinks so as [[Well|well]] as I. We have
 
 been exactly an hour coming from Pulteney Street, very little more than
 
@@ -532,19 +532,19 @@ off till another day, and turn round.”
 
 “It is all one to me,” replied Thorpe rather angrily; and instantly
 
-turning his horse, they were on their way back to Bath.
+turning his [[Horse|horse]], they were on their way back to Bath.
 
 
 
 “If your brother had not got such a d—— beast to drive,” said he soon
 
-afterwards, “we might have done it very well. My horse would have
+afterwards, “we might have done it very [[Well|well]]. My [[Horse|horse]] would have
 
 trotted to Clifton within the hour, if left to himself, and I have
 
 almost broke my arm with pulling him in to that cursed broken-winded
 
-jade’s pace. Morland is a fool for not keeping a horse and gig of his
+jade’s pace. Morland is a [[Fool|fool]] for not keeping a [[Horse|horse]] and gig of his
 
 own.”
 
@@ -586,7 +586,7 @@ and they returned to Pulteney Street without her speaking twenty words.
 
 
 
-As she entered the house, the footman told her that a gentleman and
+As she entered the [[house]], the footman told her that a gentleman and
 
 lady had called and inquired for her a few minutes after her setting
 
@@ -610,7 +610,7 @@ strange, wild scheme.”
 
 They all spent the evening together at Thorpe’s. Catherine was
 
-disturbed and out of spirits; but Isabella seemed to find a pool of
+disturbed and out of spirits; but [[Isabella]] seemed to find a pool of
 
 commerce, in the fate of which she shared, by private partnership with
 
@@ -620,7 +620,7 @@ at Clifton. Her satisfaction, too, in not being at the Lower Rooms was
 
 spoken more than once. “How I pity the poor creatures that are going
 
-there! how glad I am that I am not amongst them! i wonder whether it
+there! how glad I am that I am not amongst them! i [[Wonder|wonder]] whether it
 
 will be a full ball or not! they have not begun dancing yet. I would
 
@@ -632,15 +632,15 @@ know the Mitchells will not be there. I am sure I pity everybody that
 
 is. But I dare say, Mr. Morland, you long to be at it, do not you? I am
 
-sure you do. Well, pray do not let anybody here be a restraint on you.
+sure you do. [[Well]], pray do not let anybody here be a restraint on you.
 
-I dare say we could do very well without you; but you men think
+I dare say we could do very [[Well|well]] without you; but you men think
 
 yourselves of such consequence.”
 
 
 
-Catherine could almost have accused Isabella of being wanting in
+Catherine could almost have accused [[Isabella]] of being wanting in
 
 tenderness towards herself and her sorrows, so very little did they
 
@@ -670,6 +670,6 @@ And now I may dismiss my heroine to the sleepless couch, which is the
 
 true heroine’s portion; to a pillow strewed with thorns and wet with
 
-tears. And lucky may she think herself, if she get another good night’s
+[[Tears|tears]]. And lucky may she think herself, if she get another good [[Night|night]]’s
 
 rest in the course of the next three months.

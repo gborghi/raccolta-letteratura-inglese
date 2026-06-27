@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 40 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 40 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -20,11 +20,11 @@ CHAPTER XL.
 
 
 
-“Well, Miss Dashwood,” said Mrs. Jennings, sagaciously smiling, as soon
+“[[Well]], Miss Dashwood,” said Mrs. Jennings, sagaciously smiling, as soon
 
 as the gentleman had withdrawn, “I do not ask you what the Colonel has
 
-been saying to you; for though, upon my honour, I _tried_ to keep out
+been saying to you; for though, upon my [[Honour|honour]], I _tried_ to keep out
 
 of hearing, I could not help catching enough to understand his
 
@@ -36,7 +36,7 @@ wish you joy of it with all my heart.”
 
 “Thank you, ma’am,” said Elinor. “It _is_ a matter of great joy to me;
 
-and I feel the goodness of Colonel Brandon most sensibly. There are not
+and I feel the goodness of [[Colonel Brandon]] most sensibly. There are not
 
 many men who would act as he has done. Few people who have so
 
@@ -64,7 +64,7 @@ soon occur.”
 
 once made up his mind to such a thing, somehow or other he will soon
 
-find an opportunity. Well, my dear, I wish you joy of it again and
+find an opportunity. [[Well]], my dear, I wish you joy of it again and
 
 again; and if ever there was a happy couple in the world, I think I
 
@@ -78,7 +78,7 @@ faint smile.
 
 
 
-“Aye, my dear, that I do, indeed. And as to the house being a bad one,
+“Aye, my dear, that I do, indeed. And as to the [[house]] being a bad one,
 
 I do not know what the Colonel would be at, for it is as good a one as
 
@@ -90,7 +90,7 @@ ever I saw.”
 
 
 
-“Well, and whose fault is that? why don’t he repair it?—who should do
+“[[Well]], and whose fault is that? why don’t he repair it?—who should do
 
 it but himself?”
 
@@ -104,11 +104,11 @@ go, said,—
 
 
 
-“Well, my dear, I must be gone before I have had half my talk out. But,
+“[[Well]], my dear, I must be gone before I have had half my talk out. But,
 
 however, we may have it all over in the evening; for we shall be quite
 
-alone. I do not ask you to go with me, for I dare say your mind is too
+[[Alone|alone]]. I do not ask you to go with me, for I dare say your mind is too
 
 full of the matter to care for company; and besides, you must long to
 
@@ -122,11 +122,11 @@ Marianne had left the room before the conversation began.
 
 “Certainly, ma’am, I shall tell Marianne of it; but I shall not mention
 
-it at present to any body else.”
+it at present to any [[Body|body]] else.”
 
 
 
-“Oh! very well,” said Mrs. Jennings rather disappointed. “Then you
+“Oh! very [[Well|well]],” said Mrs. Jennings rather disappointed. “Then you
 
 would not have me tell it to Lucy, for I think of going as far as
 
@@ -138,9 +138,9 @@ Holborn to-day.”
 
 very material; and till I have written to Mr. Ferrars, I think it ought
 
-not to be mentioned to any body else. I shall do _that_ directly. It is
+not to be mentioned to any [[Body|body]] else. I shall do _that_ directly. It is
 
-of importance that no time should be lost with him, for he will of
+of importance that no [[Time|time]] should be lost with him, for he will of
 
 course have much to do relative to his ordination.”
 
@@ -156,7 +156,7 @@ very happy idea, and she exclaimed;—
 
 
 
-“Oh, ho!—I understand you. Mr. Ferrars is to be the man. Well, so much
+“Oh, ho!—I understand you. Mr. Ferrars is to be the man. [[Well]], so much
 
 the better for him. Ay, to be sure, he must be ordained in readiness;
 
@@ -176,19 +176,19 @@ only replied to its conclusion.
 
 
 
-“Colonel Brandon is so delicate a man, that he rather wished any one to
+“[[Colonel Brandon]] is so delicate a man, that he rather wished any one to
 
 announce his intentions to Mr. Ferrars than himself.”
 
 
 
-“And so _you_ are forced to do it. Well _that_ is an odd kind of
+“And so _you_ are forced to do it. [[Well]] _that_ is an odd kind of
 
 delicacy! However, I will not disturb you (seeing her preparing to
 
 write.) You know your own concerns best. So goodby, my dear. I have not
 
-heard of any thing to please me so well since Charlotte was brought to
+heard of any thing to please me so [[Well|well]] since Charlotte was brought to
 
 bed.”
 
@@ -204,7 +204,7 @@ glad to get her so good a mistress. But whether she would do for a
 
 lady’s maid, I am sure I can’t tell. She is an excellent housemaid, and
 
-works very well at her needle. However, you will think of all that at
+works very [[Well|well]] at her needle. However, you will think of all that at
 
 your leisure.”
 
@@ -212,7 +212,7 @@ your leisure.”
 
 “Certainly, ma’am,” replied Elinor, not hearing much of what she said,
 
-and more anxious to be alone, than to be mistress of the subject.
+and more anxious to be [[Alone|alone]], than to be mistress of the subject.
 
 
 

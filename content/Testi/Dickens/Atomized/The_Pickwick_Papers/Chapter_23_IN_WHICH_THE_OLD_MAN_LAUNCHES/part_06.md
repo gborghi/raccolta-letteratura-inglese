@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 6)"
+title: "The [[Pickwick]] Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -15,13 +15,13 @@ tags:
 
 
 ‘Three years had elapsed, when a gentleman alighted from a private
-carriage at the door of a London attorney, then well known as a man of
+carriage at the door of a [[London]] attorney, then [[Well|well]] known as a man of
 no great nicety in his professional dealings, and requested a private
 interview on business of importance. Although evidently not past the
 prime of life, his face was pale, haggard, and dejected; and it did not
 require the acute perception of the man of business, to discern at a
-glance, that disease or suffering had done more to work a change in his
-appearance, than the mere hand of time could have accomplished in twice
+glance, that disease or [[Suffering|suffering]] had done more to work a change in his
+appearance, than the mere hand of [[Time|time]] could have accomplished in twice
 the period of his whole life.
 
 ‘“I wish you to undertake some legal business for me,” said the
@@ -43,7 +43,7 @@ has raised, as you will see, large sums of money, for years past. There
 was a tacit understanding between him and the men into whose hands they
 originally went--and from whom I have by degrees purchased the whole,
 for treble and quadruple their nominal value--that these loans should be
-from time to time renewed, until a given period had elapsed. Such an
+from [[Time|time]] to [[Time|time]] renewed, until a given period had elapsed. Such an
 understanding is nowhere expressed. He has sustained many losses of
 late; and these obligations accumulating upon him at once, would crush
 him to the earth.”
@@ -59,8 +59,8 @@ looking over the papers.
 the law in force, every trick that ingenuity can devise and rascality
 execute; fair means and foul; the open oppression of the law, aided by
 all the craft of its most ingenious practitioners. I would have him die
-a harassing and lingering death. Ruin him, seize and sell his lands and
-goods, drive him from house and home, and drag him forth a beggar in his
+a harassing and lingering [[Death|death]]. Ruin him, seize and sell his lands and
+goods, drive him from [[house]] and [[Home|home]], and drag him forth a beggar in his
 old age, to die in a common jail.”
 
 ‘“But the costs, my dear Sir, the costs of all this,” reasoned the
@@ -87,24 +87,24 @@ remonstrance, the prayers for a little delay, the representations of the
 certain ruin in which the opposite party must be involved, which poured
 in, as suit after suit, and process after process, was commenced. To all
 applications for a brief indulgence, there was but one reply--the money
-must be paid. Land, house, furniture, each in its turn, was taken under
+must be paid. Land, [[house]], furniture, each in its turn, was taken under
 some one of the numerous executions which were issued; and the old man
-himself would have been immured in prison had he not escaped the
+himself would have been immured in [[Prison|prison]] had he not escaped the
 vigilance of the officers, and fled.
 
 ‘The implacable animosity of Heyling, so far from being satiated by the
-success of his persecution, increased a hundredfold with the ruin he
+[[success]] of his persecution, increased a hundredfold with the ruin he
 inflicted. On being informed of the old man’s flight, his fury was
 unbounded. He gnashed his teeth with rage, tore the hair from his head,
 and assailed with horrid imprecations the men who had been intrusted
 with the writ. He was only restored to comparative calmness by repeated
 assurances of the certainty of discovering the fugitive. Agents were
-sent in quest of him, in all directions; every stratagem that could be
+sent in [[Quest|quest]] of him, in all directions; every stratagem that could be
 invented was resorted to, for the purpose of discovering his place of
 retreat; but it was all in vain. Half a year had passed over, and he was
 still undiscovered.
 
-‘At length late one night, Heyling, of whom nothing had been seen for
+‘At length late one [[Night|night]], Heyling, of whom nothing had been seen for
 many weeks before, appeared at his attorney’s private residence, and
 sent up word that a gentleman wished to see him instantly. Before the
 attorney, who had recognised his voice from above stairs, could order
@@ -114,11 +114,11 @@ being overheard, he sank into a chair, and said, in a low voice--
 
 ‘“Hush! I have found him at last.”
 
-‘“No!” said the attorney. “Well done, my dear sir, well done.”
+‘“No!” said the attorney. “[[Well]] done, my dear sir, [[Well|well]] done.”
 
 ‘“He lies concealed in a wretched lodging in Camden Town,” said Heyling.
-“Perhaps it is as well we _did _lose sight of him, for he has been
-living alone there, in the most abject misery, all the time, and he is
+“Perhaps it is as [[Well|well]] we _did _lose sight of him, for he has been
+living [[Alone|alone]] there, in the most abject misery, all the [[Time|time]], and he is
 poor--very poor.”
 
 ‘“Very good,” said the attorney. “You will have the caption made to-

@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Queer Feet (part 5)"
+title: "[[innocence]] — The Queer Feet (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/innocence-(Chesterton)"
@@ -40,8 +40,8 @@ The proprietor turned upon him, quaking in a kind of palsy of surprise.
 For one of zem is dead upstairs."
 
 There was a shocking stillness for an instant in that room.  It may be
-(so supernatural is the word death) that each of those idle men looked
-for a second at his soul, and saw it as a small dried pea.  One of them--
+(so [[Supernatural|supernatural]] is the word [[Death|death]]) that each of those idle men looked
+for a second at his [[Soul|soul]], and saw it as a small dried pea.  One of them--
 the duke, I think--even said with the idiotic kindness of wealth:
 "Is there anything we can do?"
 
@@ -49,8 +49,8 @@ the duke, I think--even said with the idiotic kindness of wealth:
 
 Then, as to the clang of doom, they awoke to their own position.
 For a few weird seconds they had really felt as if the fifteenth
-waiter might be the ghost of the dead man upstairs.  They had been
-dumb under that oppression, for ghosts were to them an embarrassment,
+waiter might be the [[Ghost|ghost]] of the dead man upstairs.  They had been
+dumb under that oppression, for [[Ghosts|ghosts]] were to them an embarrassment,
 like beggars.  But the remembrance of the silver broke the spell
 of the miraculous; broke it abruptly and with a brutal reaction.
 The colonel flung over his chair and strode to the door.
@@ -75,7 +75,7 @@ and one or two others darted down the corridor leading to
 the servants' quarters, as the more likely line of escape.
 As they did so they passed the dim alcove or cavern of the cloak room,
 and saw a short, black-coated figure, presumably an attendant,
-standing a little way back in the shadow of it.
+standing a little way back in the [[Shadow|shadow]] of it.
 
 "Hallo, there!" called out the duke.  "Have you seen anyone pass?"
 
@@ -90,7 +90,7 @@ It took the form of a dozen quaintly shaped forks and knives.
 "You--you--" began the colonel, quite thrown off his balance at last.
 Then he peered into the dim little room and saw two things:
 first, that the short, black-clad man was dressed like
-a clergyman; and, second, that the window of the room behind
+a clergyman; and, second, that the [[Window|window]] of the room behind
 him was burst, as if someone had passed violently through.
 "Valuable things to deposit in a cloak room, aren't they?"
 remarked the clergyman, with cheerful composure.
@@ -101,9 +101,9 @@ with staring eyes.
 "If I did," said the cleric pleasantly, "at least I am bringing
 them back again."
 
-"But you didn't," said Colonel Pound, still staring at the broken window.
+"But you didn't," said Colonel Pound, still staring at the broken [[Window|window]].
 
-"To make a clean breast of it, I didn't," said the other, with some humour.
+"To make a clean breast of it, I didn't," said the other, with some [[Humour|humour]].
 And he seated himself quite gravely on a stool.  "But you know who did,"
 said the, colonel.
 
@@ -114,23 +114,23 @@ and the moral estimate when he repented."
 
 "Oh, I say--repented!" cried young Chester, with a sort of crow of laughter.
 
-Father Brown got to his feet, putting his hands behind him.
+[[Father Brown]] got to his feet, putting his hands behind him.
 "Odd, isn't it," he said, "that a thief and a vagabond should repent,
 when so many who are rich and secure remain hard and frivolous,
 and without fruit for God or man?  But there, if you will excuse me,
-you trespass a little upon my province.  If you doubt the penitence
+you trespass a little upon my province.  If you [[Doubt|doubt]] the penitence
 as a practical fact, there are your knives and forks.
 You are The Twelve True Fishers, and there are all your silver fish.
 But He has made me a fisher of men."
 
 "Did you catch this man?" asked the colonel, frowning.
 
-Father Brown looked him full in his frowning face.  "Yes," he said,
+[[Father Brown]] looked him full in his frowning face.  "Yes," he said,
 "I caught him, with an unseen hook and an invisible line which is long
 enough to let him wander to the ends of the world, and still to bring
 him back with a twitch upon the thread."
 
-There was a long silence.  All the other men present drifted
+There was a long [[Silence|silence]].  All the other men present drifted
 away to carry the recovered silver to their comrades, or to
 consult the proprietor about the queer condition of affairs.
 But the grim-faced colonel still sat sideways on the counter,

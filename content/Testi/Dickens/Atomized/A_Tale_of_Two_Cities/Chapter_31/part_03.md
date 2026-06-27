@@ -21,16 +21,16 @@ said: “You may not understand the gentleman.”
 Stryver, “and I’ll do it. If this fellow is a gentleman, I _don’t_
 understand him. You may tell him so, with my compliments. You may also
 tell him, from me, that after abandoning his worldly goods and position
-to this butcherly mob, I wonder he is not at the head of them. But, no,
+to this butcherly mob, I [[Wonder|wonder]] he is not at the head of them. But, no,
 gentlemen,” said Stryver, looking all round, and snapping his fingers,
-“I know something of human nature, and I tell you that you’ll never
+“I know something of human [[Nature|nature]], and I tell you that you’ll never
 find a fellow like this fellow, trusting himself to the mercies of such
 precious _protégés_. No, gentlemen; he’ll always show ’em a clean pair
 of heels very early in the scuffle, and sneak away.”
 
 With those words, and a final snap of his fingers, Mr. Stryver
 shouldered himself into Fleet-street, amidst the general approbation of
-his hearers. Mr. Lorry and Charles Darnay were left alone at the desk,
+his hearers. Mr. Lorry and [[Charles Darnay]] were left [[Alone|alone]] at the desk,
 in the general departure from the Bank.
 
 “Will you take charge of the letter?” said Mr. Lorry. “You know where to
@@ -40,9 +40,9 @@ deliver it?”
 
 “Will you undertake to explain, that we suppose it to have been
 addressed here, on the chance of our knowing where to forward it, and
-that it has been here some time?”
+that it has been here some [[Time|time]]?”
 
-“I will do so. Do you start for Paris from here?”
+“I will do so. Do you start for [[Paris]] from here?”
 
 “From here, at eight.”
 
@@ -53,14 +53,14 @@ Darnay made the best of his way into the quiet of the Temple, opened the
 letter, and read it. These were its contents:
 
 
-“Prison of the Abbaye, Paris.
+“[[Prison]] of the Abbaye, [[Paris]].
 
 “June 21, 1792. “MONSIEUR HERETOFORE THE MARQUIS.
 
 “After having long been in danger of my life at the hands of the
 village, I have been seized, with great violence and indignity, and
-brought a long journey on foot to Paris. On the road I have suffered a
-great deal. Nor is that all; my house has been destroyed--razed to the
+brought a long [[Journey|journey]] on foot to [[Paris]]. On the [[Road|road]] I have suffered a
+great deal. Nor is that all; my [[house]] has been destroyed--razed to the
 ground.
 
 “The crime for which I am imprisoned, Monsieur heretofore the Marquis,
@@ -75,17 +75,17 @@ had recourse to no process. The only response is, that I have acted for
 an emigrant, and where is that emigrant?
 
 “Ah! most gracious Monsieur heretofore the Marquis, where is that
-emigrant? I cry in my sleep where is he? I demand of Heaven, will he
+emigrant? I cry in my [[Sleep|sleep]] where is he? I demand of Heaven, will he
 not come to deliver me? No answer. Ah Monsieur heretofore the Marquis,
 I send my desolate cry across the sea, hoping it may perhaps reach your
-ears through the great bank of Tilson known at Paris!
+ears through the great bank of Tilson known at [[Paris]]!
 
-“For the love of Heaven, of justice, of generosity, of the honour of
+“For the [[Love|love]] of Heaven, of justice, of generosity, of the [[Honour|honour]] of
 your noble name, I supplicate you, Monsieur heretofore the Marquis, to
 succour and release me. My fault is, that I have been true to you. Oh
 Monsieur heretofore the Marquis, I pray you be you true to me!
 
-“From this prison here of horror, whence I every hour tend nearer and
+“From this [[Prison|prison]] here of horror, whence I every hour tend nearer and
 nearer to destruction, I send you, Monsieur heretofore the Marquis, the
 assurance of my dolorous and unhappy service.
 
@@ -100,28 +100,28 @@ only crime was fidelity to himself and his family, stared him so
 reproachfully in the face, that, as he walked to and fro in the Temple
 considering what to do, he almost hid his face from the passersby.
 
-He knew very well, that in his horror of the deed which had culminated
-the bad deeds and bad reputation of the old family house, in his
+He knew very [[Well|well]], that in his horror of the deed which had culminated
+the bad deeds and bad reputation of the old family [[house]], in his
 resentful suspicions of his uncle, and in the aversion with which his
-conscience regarded the crumbling fabric that he was supposed to uphold,
-he had acted imperfectly. He knew very well, that in his love for Lucie,
-his renunciation of his social place, though by no means new to his own
+[[Conscience|conscience]] regarded the crumbling fabric that he was supposed to uphold,
+he had acted imperfectly. He knew very [[Well|well]], that in his [[Love|love]] for Lucie,
+his [[Renunciation|renunciation]] of his social place, though by no means new to his own
 mind, had been hurried and incomplete. He knew that he ought to have
 systematically worked it out and supervised it, and that he had meant to
 do it, and that it had never been done.
 
-The happiness of his own chosen English home, the necessity of being
-always actively employed, the swift changes and troubles of the time
+The happiness of his own chosen English [[Home|home]], the necessity of being
+always actively employed, the swift changes and troubles of the [[Time|time]]
 which had followed on one another so fast, that the events of this week
 annihilated the immature plans of last week, and the events of the week
-following made all new again; he knew very well, that to the force of
+following made all new again; he knew very [[Well|well]], that to the force of
 these circumstances he had yielded:--not without disquiet, but still
 without continuous and accumulating resistance. That he had watched
-the times for a time of action, and that they had shifted and struggled
-until the time had gone by, and the nobility were trooping from
+the times for a [[Time|time]] of action, and that they had shifted and struggled
+until the [[Time|time]] had gone by, and the nobility were trooping from
 France by every highway and byway, and their property was in course of
 confiscation and destruction, and their very names were blotting out,
-was as well known to himself as it could be to any new authority in
+was as [[Well|well]] known to himself as it could be to any new authority in
 France that might impeach him for it.
 
 But, he had oppressed no man, he had imprisoned no man; he was so
@@ -131,9 +131,9 @@ favour in it, won his own private place there, and earned his own
 bread. Monsieur Gabelle had held the impoverished and involved estate
 on written instructions, to spare the people, to give them what little
 there was to give--such fuel as the heavy creditors would let them have
-in the winter, and such produce as could be saved from the same grip in
-the summer--and no doubt he had put the fact in plea and proof, for his
+in the [[Winter|winter]], and such produce as could be saved from the same grip in
+the [[Summer|summer]]--and no [[Doubt|doubt]] he had put the fact in plea and proof, for his
 own safety, so that it could not but appear now.
 
-This favoured the desperate resolution Charles Darnay had begun to make,
-that he would go to Paris.
+This favoured the desperate resolution [[Charles Darnay]] had begun to make,
+that he would go to [[Paris]].

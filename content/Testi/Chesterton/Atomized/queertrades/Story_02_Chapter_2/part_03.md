@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 2 (part 3)"
+title: "[[queertrades]] — Chapter 2 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/queertrades-(Chesterton)"
@@ -15,18 +15,18 @@ tags:
 
 
 "My good fellow," I said firmly, striking my foot on the pavement,
-"the truth of this affair is very simple.  To use your own eloquent
+"the [[Truth|truth]] of this affair is very simple.  To use your own eloquent
 language, you have the `slight disadvantage' of being off your head.
 You see a total stranger in a public street; you choose to start
 certain theories about his eyebrows.  You then treat him as a burglar
 because he enters an honest man's door.  The thing is too monstrous.
-Admit that it is, Basil, and come home with me.  Though these
+Admit that it is, Basil, and come [[Home|home]] with me.  Though these
 people are still having tea, yet with the distance we have to go,
 we shall be late for dinner."
 
 Basil's eyes were shining in the twilight like lamps.
 
-"I thought," he said, "that I had outlived vanity."
+"I thought," he said, "that I had outlived [[Vanity|vanity]]."
 
 "What do you want now?"  I cried.
 
@@ -46,7 +46,7 @@ up the dark stone steps and rang at the bell.
 
 A severe servant in black and white opened the door to us:
 on receiving my friend's name his manner passed in a flash from
-astonishment to respect.  We were ushered into the house very quickly,
+astonishment to respect.  We were ushered into the [[house]] very quickly,
 but not so quickly but that our host, a white-haired man with a
 fiery face, came out quickly to meet us.
 
@@ -54,9 +54,9 @@ fiery face, came out quickly to meet us.
 "I have not seen you for years.  Have you been--er--" he said,
 rather wildly, "have you been in the country?"
 
-"Not for all that time," answered Basil, smiling.  "I have long
+"Not for all that [[Time|time]]," answered Basil, smiling.  "I have long
 given up my official position, my dear Philip, and have been
-living in a deliberate retirement.  I hope I do not come at
+living in a deliberate retirement.  I [[Hope|hope]] I do not come at
 an inopportune moment."
 
 "An inopportune moment," cried the ardent gentleman.
@@ -71,25 +71,25 @@ of laughter came from the inner room.
 "And who is Wimpole?"
 
 "Basil," cried the other, "you must have been in the country.
-You must have been in the antipodes.  You must have been in the moon.
+You must have been in the antipodes.  You must have been in the [[Moon|moon]].
 Who is Wimpole?  Who was Shakespeare?"
 
 "As to who Shakespeare was," answered my friend placidly,
 "my views go no further than thinking that he was not Bacon.
-More probably he was Mary Queen of Scots.  But as to who Wimpole is--"
+More probably he was Mary [[Queen]] of Scots.  But as to who Wimpole is--"
 and his speech also was cloven with a roar of laughter from within.
 
 "Wimpole!" cried Lord Beaumont, in a sort of ecstasy.
 "Haven't you heard of the great modern wit?  My dear fellow,
 he has turned conversation, I do not say into an art--
 for that, perhaps, it always was but into a great art,
-like the statuary of Michael Angelo--an art of masterpieces.
+like the statuary of [[Michael]] [[Angelo]]--an art of masterpieces.
 His repartees, my good friend, startle one like a man shot dead.
 They are final; they are--"
 
 Again there came the hilarious roar from the room, and almost
 with the very noise of it, a big, panting apoplectic old gentleman
-came out of the inner house into the hall where we were standing.
+came out of the inner [[house]] into the hall where we were standing.
 
 "Now, my dear chap," began Lord Beaumont hastily.
 
@@ -104,16 +104,16 @@ have heard of Sir Walter Cholmondeliegh."
 "Who has not?" asked Grant, and bowed to the worthy old baronet,
 eyeing him with some curiosity.  He was hot and heavy in his
 momentary anger, but even that could not conceal the noble though
-opulent outline of his face and body, the florid white hair,
-the Roman nose, the body stalwart though corpulent, the chin
-aristocratic though double.  He was a magnificent courtly gentleman;
+opulent outline of his face and [[Body|body]], the florid white hair,
+the Roman nose, the [[Body|body]] stalwart though corpulent, the chin
+aristocratic though [[Double|double]].  He was a magnificent courtly gentleman;
 so much of a gentleman that he could show an unquestionable weakness
 of anger without altogether losing dignity; so much of a gentleman
-that even his faux pas were well-bred.
+that even his faux pas were [[Well|well]]-bred.
 
 "I am distressed beyond expression, Beaumont," he said gruffly,
 "to fail in respect to these gentlemen, and even more especially
-to fail in it in your house.  But it is not you or they that are
+to fail in it in your [[house]].  But it is not you or they that are
 in any way concerned, but that flashy half-caste jackanapes--"
 
 At this moment a young man with a twist of red moustache and a sombre
@@ -128,7 +128,7 @@ him as a schoolboy."
 and respectfully, but the cloud was still on his brow.
 Turning to Sir Walter Cholmondeliegh, he said:
 
-"I was sent by Lady Beaumont to express her hope that you
+"I was sent by Lady Beaumont to express her [[Hope|hope]] that you
 were not going yet, Sir Walter.  She says she has scarcely seen
 anything of you."
 

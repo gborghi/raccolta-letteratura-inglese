@@ -1,5 +1,5 @@
 ---
-title: "The Comedy of Errors — Act V, Scene 1 — exchange (THE PERSONS OF THE PLAY) [11]"
+title: "The [[Comedy]] of Errors — Act V, Scene 1 — exchange (THE PERSONS OF THE PLAY) [11]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/THE-COMEDY-OF-ERRORS-(Shakespeare)"
@@ -15,8 +15,8 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| THE PERSONS OF THE | PLAY Ferdinand, KING of Navarre Don Adriano de ARMADO, an affected Spanish braggart MOTE, his page |
-| PRINCESS | of France COSTARD, a Clown JAQUENETTA, a country wench |
+| THE PERSONS OF THE | PLAY [[Ferdinand]], [[King|KING]] of Navarre Don Adriano de ARMADO, an affected Spanish braggart MOTE, his page |
+| PRINCESS | of France [[Costard|COSTARD]], a Clown JAQUENETTA, a country wench |
 | PRINCESS | Sir NATHANIEL, a curate HOLOFERNES, a schoolmaster Anthony DULL, a constable |
 | PRINCESS | MERCADE, a messenger |
 | *(didascalia)* | A |

@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 4 (part 3)"
+title: "[[Agnes Grey]] — Chapter 4 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 “All very quiet here! What are you doing?” said he. “No harm _to-day_,
 at least,” thought I. But he was of a different opinion. Advancing to
-the window, and seeing the children’s occupations, he testily
+the [[Window|window]], and seeing the children’s occupations, he testily
 exclaimed—“What in the world are you about?”
 
 “We’re grinding egg-shells, papa!” cried Tom.
@@ -37,21 +37,21 @@ without a word of reproof!”
 “I didn’t think they were doing any harm.”
 
 “Any harm! Why, look there! Just look at that carpet, and see—was there
-ever anything like it in a Christian house before? No wonder your room
-is not fit for a pigsty—no wonder your pupils are worse than a litter
-of pigs!—no wonder—oh! I declare, it puts me quite past my patience”
+ever anything like it in a Christian [[house]] before? No [[Wonder|wonder]] your room
+is not fit for a pigsty—no [[Wonder|wonder]] your pupils are worse than a litter
+of pigs!—no [[Wonder|wonder]]—oh! I declare, it puts me quite past my patience”
 and he departed, shutting the door after him with a bang that made the
 children laugh.
 
 “It puts me quite past my patience too!” muttered I, getting up; and,
 seizing the poker, I dashed it repeatedly into the cinders, and stirred
 them up with unwonted energy; thus easing my irritation under pretence
-of mending the fire.
+of [[mending]] the [[Fire|fire]].
 
 After this, Mr. Bloomfield was continually looking in to see if the
 schoolroom was in order; and, as the children were continually
 littering the floor with fragments of toys, sticks, stones, stubble,
-leaves, and other rubbish, which I could not prevent their bringing, or
+[[Leaves|leaves]], and other rubbish, which I could not prevent their bringing, or
 oblige them to gather up, and which the servants refused to “clean
 after them,” I had to spend a considerable portion of my valuable
 leisure moments on my knees upon the floor, in painfully reducing
@@ -79,8 +79,8 @@ his mouth almost too full for speech. “There now, Miss Grey! you see
 I’ve got my supper in spite of you: and I haven’t picked up a single
 thing!”
 
-The only person in the house who had any real sympathy for me was the
-nurse; for she had suffered like afflictions, though in a smaller
+The only person in the [[house]] who had any real sympathy for me was the
+[[Nurse|nurse]]; for she had suffered like afflictions, though in a smaller
 degree; as she had not the task of teaching, nor was she so responsible
 for the conduct of her charge.
 

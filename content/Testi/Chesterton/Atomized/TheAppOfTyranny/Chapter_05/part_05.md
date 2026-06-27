@@ -1,5 +1,5 @@
 ---
-title: "TheAppOfTyranny — Chapter 4 (part 5)"
+title: "[[TheAppOfTyranny]] — Chapter 4 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheAppOfTyranny-(Chesterton)"
@@ -16,23 +16,23 @@ tags:
 
 able to "buy him up." If the Italians were really great, why--they were
 
-really Germans; and if they weren't really Germans, well then, they weren't
+really Germans; and if they weren't really Germans, [[Well|well]] then, they weren't
 
 really great. It is an occupation for an old maid.
 
 
 
-Three or four hundred years ago, in the sad silence that had followed the
+Three or four hundred years ago, in the sad [[Silence|silence]] that had followed the
 
 comparative failure of the noble effort of the Middle Ages, there came upon
 
-all Europe a storm out of the south. Its tumult is of many tongues; one can
+all Europe a [[Storm|storm]] out of the south. Its tumult is of many tongues; one can
 
 hear in it the laughter of Rabelais, or, for that matter, the lyrics of
 
-Shakespeare; but the dark heart of the storm was indeed more austral and
+Shakespeare; but the dark heart of the [[Storm|storm]] was indeed more austral and
 
-volcanic; a noise of thunderous wings and the name of Michael the
+volcanic; a noise of thunderous wings and the name of [[Michael]] the
 
 Archangel. And when it had shocked and purified the world and passed, a
 
@@ -80,29 +80,29 @@ be doubted by people like you. One of the German papers pathetically said
 
 that, though the mangling of Malines and Rheims was very sad, it was a
 
-comfort to think that yet nobler works of art would spring up wherever the
+comfort to think that yet nobler works of art would [[spring]] up wherever the
 
-German culture had passed in triumph. From the point of view of humour, it
+German culture had passed in triumph. From the point of view of [[Humour|humour]], it
 
 is really rather sad that they never will. The German Emperor's idea of a
 
-Gothic cathedral is as provocative to the fancy as Mrs. Todgers' idea of a
+Gothic [[Cathedral|cathedral]] is as provocative to the fancy as Mrs. Todgers' idea of a
 
 wooden leg. But I think it perfectly probable that they really intended to
 
 set up such beautiful buildings as they could. Having been blasphemous
 
-enough to ruin such things, they might well be blasphemous enough to
+enough to ruin such things, they might [[Well|well]] be blasphemous enough to
 
-replace them. Even if the Prussian attempt on Paris had not wholly
+replace them. Even if the Prussian attempt on [[Paris]] had not wholly
 
-collapsed as it has, I doubt whether the Prussians would have destroyed
+collapsed as it has, I [[Doubt|doubt]] whether the Prussians would have destroyed
 
-everything. I doubt whether they would even have destroyed the Venus de
+everything. I [[Doubt|doubt]] whether they would even have destroyed the [[Venus]] de
 
 Milo. More probably they would have put a pair of arms on it, designed by
 
-some rising German artist--the Emperor or somebody. And the two arms thus
+some rising German [[artist]]--the Emperor or somebody. And the two arms thus
 
 added would look at once like the arms of a woman at a wash-tub. The
 
@@ -114,7 +114,7 @@ it. And if they put on a spire, what a spire it would be! What an
 
 extinguisher for that clear and almost transparent Christian candle! Have
 
-you read some of the German explanations of Hamlet? Did I tell you that
+you read some of the German explanations of [[Hamlet]]? Did I tell you that
 
 Leonardo's hair must have been German hair, because so many of his
 
@@ -148,13 +148,13 @@ with two enemies extra and one ally the less. If the Germans, instead of
 
 sending spies to study the Belgian soil, had sent spies to consider the
 
-Belgian soul, they would have been saved hard work for a week or two. They
+Belgian [[Soul|soul]], they would have been saved hard work for a week or two. They
 
 have failed in controversy. I suppose it might be called a failure in
 
 controversy to say that England may be keeping her word for some wicked
 
-purpose; while Germany may be breaking her word for some noble purpose. And
+purpose; while [[Germany]] may be breaking her word for some noble purpose. And
 
 that is practically all that the Germans can manage to say. They say that
 
@@ -164,7 +164,7 @@ whirled us into the mad course of respecting a treaty we had signed. They
 
 can find in us no treason except that we keep our treaties: failing to do
 
-this I call failing in controversy. They have failed in popular persuasion.
+this I call failing in controversy. They have failed in popular [[Persuasion|persuasion]].
 
 They have had a very good opportunity. The British Empire does contain many
 
@@ -184,7 +184,7 @@ nations are neutral, Prussia can hardly bear them to be patriotic. Even
 
 when they are courting every one else they can praise no one but
 
-themselves. They fail in diplomacy, they fail in debate, they fail even in
+themselves. They fail in diplomacy, they fail in [[debate]], they fail even in
 
 demagogy. They have stupid plots, stupid explanations, and even stupid
 
@@ -196,7 +196,7 @@ fail in finding people stupid enough to carry them out.
 
 Now, it is this question I would ask you to consider; you, as a good middle
 
-type of the Latins, a Liberal but a Catholic, an artist but a soldier. The
+type of the Latins, a Liberal but a Catholic, an [[artist]] but a soldier. The
 
 danger to the whole civilisation of which Rome was the fountain lies in
 

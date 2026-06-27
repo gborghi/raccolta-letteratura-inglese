@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 17)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 17)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -14,33 +14,33 @@ tags:
 </nav>
 
 
-that age. When subtler views of our history, some more false and some
+that age. When subtler views of our [[history]], some more false and some
 
-more true than his, have become popular, or at least well known, when in
+more true than his, have become popular, or at least [[Well|well]] known, when in
 
-the near future Carlylean or Catholic or Marxian views of history have
+the near future Carlylean or Catholic or Marxian views of [[history]] have
 
 spread themselves among the reading public, this book will always remain
 
 as a bright and brisk summary of the cock-sure, healthy-minded,
 
-essentially manly and essentially ungentlemanly view of history which
+essentially manly and essentially ungentlemanly view of [[history]] which
 
-characterised the Radicals of that particular Radical era. The history
+characterised the Radicals of that particular Radical era. The [[history]]
 
 tells us nothing about the periods that it talks about; but it tells us
 
 a great deal about the period that it does not talk about; the period in
 
-which it was written. It is in no sense a history of England from the
+which it was written. It is in no sense a [[history]] of England from the
 
 Roman invasion; but it is certainly one of the documents which will
 
-contribute to a history of England in the nineteenth century.
+contribute to a [[history]] of England in the nineteenth century.
 
 
 
-Of the actual nature of its philosophical and technical limitations it
+Of the actual [[Nature|nature]] of its philosophical and technical limitations it
 
 is, I suppose, unnecessary to speak. They all resolve themselves into
 
@@ -62,7 +62,7 @@ unmeaning, often accidental, and nearly always unfair. Thus, for
 
 instance, a fierce and fighting penal code, which had been perfectly
 
-natural when the robbers were as strong as the Government, had become in
+natural when the robbers were as strong as the [[government|Government]], had become in
 
 more ordered times nothing but a base and bloody habit. Thus again
 
@@ -78,7 +78,7 @@ and needful work; but it was so difficult that to the men engaged in it
 
 it blocked up the perspective and filled the sky, so that they slid into
 
-a very natural mental mistake which coloured all their views of history.
+a very natural mental mistake which coloured all their views of [[history]].
 
 They supposed that this particular problem on which they were engaged
 
@@ -86,17 +86,17 @@ was the one problem upon which all mankind had always been engaged. They
 
 got it into their heads that breaking away from a dead past was the
 
-perpetual process of humanity. The truth is obviously that humanity has
+perpetual process of humanity. The [[Truth|truth]] is obviously that humanity has
 
 found itself in many difficulties very different from that. Sometimes
 
 the best business of an age is to resist some alien invasion; sometimes
 
-to preach practical self-control in a world too self-indulgent and
+to preach practical [[Self|self]]-control in a world too [[Self|self]]-indulgent and
 
 diffused; sometimes to prevent the growth in the State of great new
 
-private enterprises that would poison or oppress it. Above all it may
+private enterprises that would [[Poison|poison]] or oppress it. Above all it may
 
 sometimes happen that the highest task of a thinking citizen may be to
 
@@ -112,7 +112,7 @@ exactly the position of all thinking men in what we call the dark ages,
 
 say from the sixth to the tenth century. The cheap progressive view of
 
-history can never make head or tail of that epoch; it was an epoch
+[[history]] can never make head or tail of that epoch; it was an epoch
 
 upside down. We think of the old things as barbaric and the new things
 
@@ -122,21 +122,21 @@ the barbaric and brutally ignorant things were new and up to date.
 
 Republicanism was a fading legend; despotism was a new and successful
 
-experiment. Christianity was not only better than the clans that
+experiment. [[Christianity]] was not only better than the clans that
 
-rebelled against it; Christianity was more rationalistic than they were.
+rebelled against it; [[Christianity]] was more rationalistic than they were.
 
 When men looked back they saw progress and reason; when they looked
 
 forward they saw shapeless tradition and tribal terror. Touching such
 
-an age it is obvious that all our modern terms describing reform or
+an age it is obvious that all our modern terms describing [[Reform|reform]] or
 
 conservation are foolish and beside the mark. The Conservative was then
 
 the only possible reformer. If a man did not strengthen the remains of
 
-Roman order and the root of Roman Christianity, he was simply helping
+Roman order and the root of Roman [[Christianity]], he was simply helping
 
 the world to roll downhill into ruin and idiotcy. Remember all these
 
@@ -174,7 +174,7 @@ call St. Anthony of Padua a good man, we must mean what we mean when we
 
 call Huxley a good man, or else there is no sense in using the word
 
-"good." The fault of the Dickens school of popular history lies, not in
+"good." The fault of the Dickens school of popular [[history]] lies, not in
 
 the application of a plain rule of right and wrong to all circumstances,
 
@@ -182,10 +182,10 @@ but in ignorance of the circumstances to which it was applied. It is not
 
 that they wrongly enforce the fixed principle that life should be saved;
 
-it is that they take a fire-engine to a shipwreck and a lifeboat to a
+it is that they take a [[Fire|fire]]-engine to a shipwreck and a lifeboat to a
 
-house on fire. The business of a good man in Dickens's time was to bring
+[[house]] on [[Fire|fire]]. The business of a good man in Dickens's [[Time|time]] was to bring
 
-justice up to date. The business of a good man in Dunstan's time was to
+justice up to date. The business of a good man in Dunstan's [[Time|time]] was to
 
-toil to ensure the survival of any justice at all.
+toil to ensure the [[Survival|survival]] of any justice at all.

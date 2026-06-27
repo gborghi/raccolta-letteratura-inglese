@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 3)"
+title: "The [[Pickwick]] Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-Having given this direction, and settled with the coachman, Mr. Pickwick
+Having given this direction, and settled with the coachman, Mr. [[Pickwick]]
 and his three friends struck into the footpath across the fields, and
 walked briskly away, leaving Mr. Weller and the fat boy confronted
-together for the first time. Sam looked at the fat boy with great
+together for the first [[Time|time]]. Sam looked at the fat boy with great
 astonishment, but without saying a word; and began to stow the luggage
 rapidly away in the cart, while the fat boy stood quietly by, and seemed
 to think it a very interesting sort of thing to see Mr. Weller working
@@ -55,7 +55,7 @@ it’s good.’
 
 ‘Oh, you do, do you?’ said Sam, ‘come this way, then!’
 
-The Blue Lion tap was soon gained, and the fat boy swallowed a glass of
+The Blue [[Lion]] tap was soon gained, and the fat boy swallowed a glass of
 liquor without so much as winking--a feat which considerably advanced
 him in Mr. Weller’s good opinion. Mr. Weller having transacted a similar
 piece of business on his own account, they got into the cart.
@@ -71,14 +71,14 @@ With these words, the fat boy laid himself affectionately down by the
 side of the cod-fish, and, placing an oyster-barrel under his head for a
 pillow, fell asleep instantaneously.
 
-‘Well,’ said Sam, ‘of all the cool boys ever I set my eyes on, this here
+‘[[Well]],’ said Sam, ‘of all the cool boys ever I set my eyes on, this here
 young gen’l’m’n is the coolest. Come, wake up, young dropsy!’
 
 But as young dropsy evinced no symptoms of returning animation, Sam
-Weller sat himself down in front of the cart, and starting the old horse
+Weller sat himself down in front of the cart, and starting the old [[Horse|horse]]
 with a jerk of the rein, jogged steadily on, towards the Manor Farm.
 
-Meanwhile, Mr. Pickwick and his friends having walked their blood into
+Meanwhile, Mr. [[Pickwick]] and his friends having walked their [[Blood|blood]] into
 active circulation, proceeded cheerfully on. The paths were hard; the
 grass was crisp and frosty; the air had a fine, dry, bracing coldness;
 and the rapid approach of the gray twilight (slate-coloured is a better
@@ -88,12 +88,12 @@ entertainer’s. It was the sort of afternoon that might induce a couple
 of elderly gentlemen, in a lonely field, to take off their greatcoats
 and play at leap-frog in pure lightness of heart and gaiety; and we
 firmly believe that had Mr. Tupman at that moment proffered ‘a back,’
-Mr. Pickwick would have accepted his offer with the utmost avidity.
+Mr. [[Pickwick]] would have accepted his offer with the utmost avidity.
 
 However, Mr. Tupman did not volunteer any such accommodation, and the
 friends walked on, conversing merrily. As they turned into a lane they
-had to cross, the sound of many voices burst upon their ears; and before
-they had even had time to form a guess to whom they belonged, they
+had to [[Cross|cross]], the sound of many voices burst upon their ears; and before
+they had even had [[Time|time]] to form a guess to whom they belonged, they
 walked into the very centre of the party who were expecting their
 arrival--a fact which was first notified to the Pickwickians, by the
 loud ‘Hurrah,’ which burst from old Wardle’s lips, when they appeared in
@@ -109,7 +109,7 @@ and lanes, far and wide, with their frolic and laughter.
 
 The ceremony of introduction, under such circumstances, was very soon
 performed, or we should rather say that the introduction was soon over,
-without any ceremony at all. In two minutes thereafter, Mr. Pickwick was
+without any ceremony at all. In two minutes thereafter, Mr. [[Pickwick]] was
 joking with the young ladies who wouldn’t come over the stile while he
 looked--or who, having pretty feet and unexceptionable ankles, preferred
 standing on the top rail for five minutes or so, declaring that they
@@ -124,16 +124,16 @@ help her over.
 
 All this was very snug and pleasant. And when the difficulties of the
 stile were at last surmounted, and they once more entered on the open
-field, old Wardle informed Mr. Pickwick how they had all been down in a
-body to inspect the furniture and fittings-up of the house, which the
+field, old Wardle informed Mr. [[Pickwick]] how they had all been down in a
+[[Body|body]] to inspect the furniture and fittings-up of the [[house]], which the
 young couple were to tenant, after the Christmas holidays; at which
 communication Bella and Trundle both coloured up, as red as the fat boy
-after the taproom fire; and the young lady with the black eyes and the
+after the taproom [[Fire|fire]]; and the young lady with the black eyes and the
 fur round the boots, whispered something in Emily’s ear, and then
 glanced archly at Mr. Snodgrass; to which Emily responded that she was a
 foolish girl, but turned very red, notwithstanding; and Mr. Snodgrass,
 who was as modest as all great geniuses usually are, felt the crimson
-rising to the crown of his head, and devoutly wished, in the inmost
+rising to the [[Crown|crown]] of his head, and devoutly wished, in the inmost
 recesses of his own heart, that the young lady aforesaid, with her black
 eyes, and her archness, and her boots with the fur round the top, were
 all comfortably deposited in the adjacent county.

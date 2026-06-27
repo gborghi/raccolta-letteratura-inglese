@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 35"
+title: "[[Great Expectations]] — Chapter 35"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,15 +17,15 @@ tags:
 Chapter XXXV.
 
 
-It was the first time that a grave had opened in my road of life, and
+It was the first [[Time|time]] that a [[Grave|grave]] had opened in my [[Road|road]] of life, and
 the gap it made in the smooth ground was wonderful. The figure of my
-sister in her chair by the kitchen fire, haunted me night and day. That
+sister in her chair by the kitchen [[Fire|fire]], haunted me [[Night|night]] and day. That
 the place could possibly be, without her, was something my mind seemed
 unable to compass; and whereas she had seldom or never been in my
 thoughts of late, I had now the strangest ideas that she was coming
 towards me in the street, or that she would presently knock at the
 door. In my rooms too, with which she had never been at all associated,
-there was at once the blankness of death and a perpetual suggestion of
+there was at once the blankness of [[Death|death]] and a perpetual suggestion of
 the sound of her voice or the turn of her face or figure, as if she
 were still alive and had been often there.
 
@@ -40,34 +40,34 @@ revengefully pursued Orlick, or any one else, to the last extremity.
 Having written to Joe, to offer him consolation, and to assure him that
 I would come to the funeral, I passed the intermediate days in the
 curious state of mind I have glanced at. I went down early in the
-morning, and alighted at the Blue Boar in good time to walk over to the
+morning, and alighted at the Blue Boar in good [[Time|time]] to walk over to the
 forge.
 
-It was fine summer weather again, and, as I walked along, the times
+It was fine [[Summer|summer]] weather again, and, as I walked along, the times
 when I was a little helpless creature, and my sister did not spare me,
 vividly returned. But they returned with a gentle tone upon them that
 softened even the edge of Tickler. For now, the very breath of the
 beans and clover whispered to my heart that the day must come when it
-would be well for my memory that others walking in the sunshine should
+would be [[Well|well]] for my [[Memory|memory]] that others walking in the sunshine should
 be softened as they thought of me.
 
-At last I came within sight of the house, and saw that Trabb and Co.
+At last I came within sight of the [[house]], and saw that Trabb and Co.
 had put in a funereal execution and taken possession. Two dismally
 absurd persons, each ostentatiously exhibiting a crutch done up in a
 black bandage,—as if that instrument could possibly communicate any
 comfort to anybody,—were posted at the front door; and in one of them I
 recognised a postboy discharged from the Boar for turning a young
 couple into a sawpit on their bridal morning, in consequence of
-intoxication rendering it necessary for him to ride his horse clasped
+intoxication rendering it necessary for him to ride his [[Horse|horse]] clasped
 round the neck with both arms. All the children of the village, and
 most of the women, were admiring these sable warders and the closed
-windows of the house and forge; and as I came up, one of the two
+windows of the [[house]] and forge; and as I came up, one of the two
 warders (the postboy) knocked at the door,—implying that I was far too
 much exhausted by grief to have strength remaining to knock for myself.
 
 Another sable warder (a carpenter, who had once eaten two geese for a
 wager) opened the door, and showed me into the best parlour. Here, Mr.
-Trabb had taken unto himself the best table, and had got all the leaves
+Trabb had taken unto himself the best table, and had got all the [[Leaves|leaves]]
 up, and was holding a kind of black Bazaar, with the aid of a quantity
 of black pins. At the moment of my arrival, he had just finished
 putting somebody’s hat into black long-clothes, like an African baby;
@@ -82,15 +82,15 @@ down and said to him, “Dear Joe, how are you?” he said, “Pip, old chap,
 you knowed her when she were a fine figure of a—” and clasped my hand
 and said no more.
 
-Biddy, looking very neat and modest in her black dress, went quietly
-here and there, and was very helpful. When I had spoken to Biddy, as I
-thought it not a time for talking I went and sat down near Joe, and
-there began to wonder in what part of the house it—she—my sister—was.
+[[Biddy]], looking very neat and modest in her black dress, went quietly
+here and there, and was very helpful. When I had spoken to [[Biddy]], as I
+thought it not a [[Time|time]] for talking I went and sat down near Joe, and
+there began to [[Wonder|wonder]] in what part of the [[house]] it—she—my sister—was.
 The air of the parlour being faint with the smell of sweet-cake, I
 looked about for the table of refreshments; it was scarcely visible
 until one had got accustomed to the gloom, but there was a cut-up plum
 cake upon it, and there were cut-up oranges, and sandwiches, and
-biscuits, and two decanters that I knew very well as ornaments, but had
+biscuits, and two decanters that I knew very [[Well|well]] as ornaments, but had
 never seen used in all my life; one full of port, and one of sherry.
 Standing at this table, I became conscious of the servile Pumblechook
 in a black cloak and several yards of hatband, who was alternately
@@ -104,7 +104,7 @@ ridiculous bundles.
 
 “Which I meantersay, Pip,” Joe whispered me, as we were being what Mr.
 Trabb called “formed” in the parlour, two and two,—and it was
-dreadfully like a preparation for some grim kind of dance; “which I
+dreadfully like a preparation for some grim kind of [[Dance|dance]]; “which I
 meantersay, sir, as I would in preference have carried her to the
 church myself, along with three or four friendly ones wot come to it
 with willing harts and arms, but it were considered wot the neighbours
@@ -116,12 +116,12 @@ depressed business-like voice. “Pocket-handkerchiefs out! We are
 ready!”
 
 So we all put our pocket-handkerchiefs to our faces, as if our noses
-were bleeding, and filed out two and two; Joe and I; Biddy and
+were bleeding, and filed out two and two; Joe and I; [[Biddy]] and
 Pumblechook; Mr. and Mrs. Hubble. The remains of my poor sister had
 been brought round by the kitchen door, and, it being a point of
 Undertaking ceremony that the six bearers must be stifled and blinded
 under a horrible black velvet housing with a white border, the whole
-looked like a blind monster with twelve human legs, shuffling and
+looked like a blind [[Monster|monster]] with twelve human legs, shuffling and
 blundering along, under the guidance of two keepers,—the postboy and
 his comrade.
 
@@ -135,26 +135,26 @@ our emergence round some corner of expectancy, “_Here_ they come!”
 much annoyed by the abject Pumblechook, who, being behind me, persisted
 all the way as a delicate attention in arranging my streaming hatband,
 and smoothing my cloak. My thoughts were further distracted by the
-excessive pride of Mr. and Mrs. Hubble, who were surpassingly conceited
+excessive [[Pride|pride]] of Mr. and Mrs. Hubble, who were surpassingly conceited
 and vainglorious in being members of so distinguished a procession.
 
 And now the range of marshes lay clear before us, with the sails of the
-ships on the river growing out of it; and we went into the churchyard,
+ships on the [[River|river]] growing out of it; and we went into the churchyard,
 close to the graves of my unknown parents, Philip Pirrip, late of this
 parish, and Also Georgiana, Wife of the Above. And there, my sister was
 laid quietly in the earth, while the larks sang high above it, and the
-light wind strewed it with beautiful shadows of clouds and trees.
+light [[Wind|wind]] strewed it with beautiful shadows of clouds and trees.
 
 Of the conduct of the worldly minded Pumblechook while this was doing,
-I desire to say no more than it was all addressed to me; and that even
+I [[Desire|desire]] to say no more than it was all addressed to me; and that even
 when those noble passages were read which remind humanity how it
 brought nothing into the world and can take nothing out, and how it
-fleeth like a shadow and never continueth long in one stay, I heard him
+fleeth like a [[Shadow|shadow]] and never continueth long in one stay, I heard him
 cough a reservation of the case of a young gentleman who came
 unexpectedly into large property. When we got back, he had the
 hardihood to tell me that he wished my sister could have known I had
-done her so much honour, and to hint that she would have considered it
-reasonably purchased at the price of her death. After that, he drank
+done her so much [[Honour|honour]], and to hint that she would have considered it
+reasonably purchased at the price of her [[Death|death]]. After that, he drank
 all the rest of the sherry, and Mr. Hubble drank the port, and the two
 talked (which I have since observed to be customary in such cases) as
 if they were of quite another race from the deceased, and were
@@ -165,7 +165,7 @@ benefactor.
 
 When they were all gone, and when Trabb and his men—but not his Boy; I
 looked for him—had crammed their mummery into bags, and were gone too,
-the house felt wholesomer. Soon afterwards, Biddy, Joe, and I, had a
+the [[house]] felt wholesomer. Soon afterwards, [[Biddy]], Joe, and I, had a
 cold dinner together; but we dined in the best parlour, not in the old
 kitchen, and Joe was so exceedingly particular what he did with his
 knife and fork and the saltcellar and what not, that there was great
@@ -173,22 +173,22 @@ restraint upon us. But after dinner, when I made him take his pipe, and
 when I had loitered with him about the forge, and when we sat down
 together on the great block of stone outside it, we got on better. I
 noticed that after the funeral Joe changed his clothes so far, as to
-make a compromise between his Sunday dress and working dress; in which
+make a compromise between his [[Sunday]] dress and working dress; in which
 the dear fellow looked natural, and like the Man he was.
 
-He was very much pleased by my asking if I might sleep in my own little
+He was very much pleased by my asking if I might [[Sleep|sleep]] in my own little
 room, and I was pleased too; for I felt that I had done rather a great
 thing in making the request. When the shadows of evening were closing
-in, I took an opportunity of getting into the garden with Biddy for a
+in, I took an opportunity of getting into the [[Garden|garden]] with [[Biddy]] for a
 little talk.
 
-“Biddy,” said I, “I think you might have written to me about these sad
+“[[Biddy]],” said I, “I think you might have written to me about these sad
 matters.”
 
-“Do you, Mr. Pip?” said Biddy. “I should have written if I had thought
+“Do you, Mr. Pip?” said [[Biddy]]. “I should have written if I had thought
 that.”
 
-“Don’t suppose that I mean to be unkind, Biddy, when I say I consider
+“Don’t suppose that I mean to be unkind, [[Biddy]], when I say I consider
 that you ought to have thought that.”
 
 “Do you, Mr. Pip?”
@@ -198,38 +198,38 @@ her, that I did not like the thought of making her cry again. After
 looking a little at her downcast eyes as she walked beside me, I gave
 up that point.
 
-“I suppose it will be difficult for you to remain here now, Biddy
+“I suppose it will be difficult for you to remain here now, [[Biddy]]
 dear?”
 
-“Oh! I can’t do so, Mr. Pip,” said Biddy, in a tone of regret but still
+“Oh! I can’t do so, Mr. Pip,” said [[Biddy]], in a tone of regret but still
 of quiet conviction. “I have been speaking to Mrs. Hubble, and I am
-going to her to-morrow. I hope we shall be able to take some care of
+going to her to-morrow. I [[Hope|hope]] we shall be able to take some care of
 Mr. Gargery, together, until he settles down.”
 
-“How are you going to live, Biddy? If you want any mo—”
+“How are you going to live, [[Biddy]]? If you want any mo—”
 
-“How am I going to live?” repeated Biddy, striking in, with a momentary
+“How am I going to live?” repeated [[Biddy]], striking in, with a momentary
 flush upon her face. “I’ll tell you, Mr. Pip. I am going to try to get
 the place of mistress in the new school nearly finished here. I can be
-well recommended by all the neighbours, and I hope I can be industrious
+[[Well|well]] recommended by all the neighbours, and I [[Hope|hope]] I can be industrious
 and patient, and teach myself while I teach others. You know, Mr. Pip,”
-pursued Biddy, with a smile, as she raised her eyes to my face, “the
+pursued [[Biddy]], with a smile, as she raised her eyes to my face, “the
 new schools are not like the old, but I learnt a good deal from you
-after that time, and have had time since then to improve.”
+after that [[Time|time]], and have had [[Time|time]] since then to improve.”
 
-“I think you would always improve, Biddy, under any circumstances.”
+“I think you would always improve, [[Biddy]], under any circumstances.”
 
-“Ah! Except in my bad side of human nature,” murmured Biddy.
+“Ah! Except in my bad side of human [[Nature|nature]],” murmured [[Biddy]].
 
-It was not so much a reproach as an irresistible thinking aloud. Well!
+It was not so much a reproach as an irresistible thinking aloud. [[Well]]!
 I thought I would give up that point too. So, I walked a little further
-with Biddy, looking silently at her downcast eyes.
+with [[Biddy]], looking silently at her downcast eyes.
 
-“I have not heard the particulars of my sister’s death, Biddy.”
+“I have not heard the particulars of my sister’s [[Death|death]], [[Biddy]].”
 
 “They are very slight, poor thing. She had been in one of her bad
 states—though they had got better of late, rather than worse—for four
-days, when she came out of it in the evening, just at tea-time, and
+days, when she came out of it in the evening, just at tea-[[Time|time]], and
 said quite plainly, ‘Joe.’ As she had never said any word for a long
 while, I ran and fetched in Mr. Gargery from the forge. She made signs
 to me that she wanted him to sit down close to her, and wanted me to
@@ -239,10 +239,10 @@ presently said ‘Joe’ again, and once ‘Pardon,’ and once ‘Pip.’ And s
 she never lifted her head up any more, and it was just an hour later
 when we laid it down on her own bed, because we found she was gone.”
 
-Biddy cried; the darkening garden, and the lane, and the stars that
+[[Biddy]] cried; the darkening [[Garden|garden]], and the lane, and the [[Stars|stars]] that
 were coming out, were blurred in my own sight.
 
-“Nothing was ever discovered, Biddy?”
+“Nothing was ever discovered, [[Biddy]]?”
 
 “Nothing.”
 
@@ -254,12 +254,12 @@ the quarries.”
 “Of course you have seen him then?—Why are you looking at that dark
 tree in the lane?”
 
-“I saw him there, on the night she died.”
+“I saw him there, on the [[Night|night]] she died.”
 
-“That was not the last time either, Biddy?”
+“That was not the last [[Time|time]] either, [[Biddy]]?”
 
 “No; I have seen him there, since we have been walking here.—It is of
-no use,” said Biddy, laying her hand upon my arm, as I was for running
+no use,” said [[Biddy]], laying her hand upon my arm, as I was for running
 out, “you know I would not deceive you; he was not there a minute, and
 he is gone.”
 
@@ -272,51 +272,51 @@ didn’t say, of me; she had no need; I knew what she meant,—but ever did
 his duty in his way of life, with a strong hand, a quiet tongue, and a
 gentle heart.
 
-“Indeed, it would be hard to say too much for him,” said I; “and Biddy,
+“Indeed, it would be hard to say too much for him,” said I; “and [[Biddy]],
 we must often speak of these things, for of course I shall be often
-down here now. I am not going to leave poor Joe alone.”
+down here now. I am not going to leave poor Joe [[Alone|alone]].”
 
-Biddy said never a single word.
+[[Biddy]] said never a single word.
 
-“Biddy, don’t you hear me?”
+“[[Biddy]], don’t you hear me?”
 
 “Yes, Mr. Pip.”
 
 “Not to mention your calling me Mr. Pip,—which appears to me to be in
-bad taste, Biddy,—what do you mean?”
+bad taste, [[Biddy]],—what do you mean?”
 
-“What do I mean?” asked Biddy, timidly.
+“What do I mean?” asked [[Biddy]], timidly.
 
-“Biddy,” said I, in a virtuously self-asserting manner, “I must request
+“[[Biddy]],” said I, in a virtuously [[Self|self]]-asserting manner, “I must request
 to know what you mean by this?”
 
-“By this?” said Biddy.
+“By this?” said [[Biddy]].
 
-“Now, don’t echo,” I retorted. “You used not to echo, Biddy.”
+“Now, don’t echo,” I retorted. “You used not to echo, [[Biddy]].”
 
-“Used not!” said Biddy. “O Mr. Pip! Used!”
+“Used not!” said [[Biddy]]. “O Mr. Pip! Used!”
 
-Well! I rather thought I would give up that point too. After another
-silent turn in the garden, I fell back on the main position.
+[[Well]]! I rather thought I would give up that point too. After another
+silent turn in the [[Garden|garden]], I fell back on the main position.
 
-“Biddy,” said I, “I made a remark respecting my coming down here often,
-to see Joe, which you received with a marked silence. Have the
-goodness, Biddy, to tell me why.”
+“[[Biddy]],” said I, “I made a remark respecting my coming down here often,
+to see Joe, which you received with a marked [[Silence|silence]]. Have the
+goodness, [[Biddy]], to tell me why.”
 
 “Are you quite sure, then, that you WILL come to see him often?” asked
-Biddy, stopping in the narrow garden walk, and looking at me under the
-stars with a clear and honest eye.
+[[Biddy]], stopping in the narrow [[Garden|garden]] walk, and looking at me under the
+[[Stars|stars]] with a clear and honest eye.
 
-“O dear me!” said I, as if I found myself compelled to give up Biddy in
-despair. “This really is a very bad side of human nature! Don’t say any
-more, if you please, Biddy. This shocks me very much.”
+“O dear me!” said I, as if I found myself compelled to give up [[Biddy]] in
+[[Despair|despair]]. “This really is a very bad side of human [[Nature|nature]]! Don’t say any
+more, if you please, [[Biddy]]. This shocks me very much.”
 
-For which cogent reason I kept Biddy at a distance during supper, and
+For which cogent reason I kept [[Biddy]] at a distance during supper, and
 when I went up to my own old little room, took as stately a leave of
-her as I could, in my murmuring soul, deem reconcilable with the
+her as I could, in my murmuring [[Soul|soul]], deem reconcilable with the
 churchyard and the event of the day. As often as I was restless in the
-night, and that was every quarter of an hour, I reflected what an
-unkindness, what an injury, what an injustice, Biddy had done me.
+[[Night|night]], and that was every quarter of an hour, I reflected what an
+unkindness, what an injury, what an injustice, [[Biddy]] had done me.
 
 Early in the morning I was to go. Early in the morning I was out, and
 looking in, unseen, at one of the wooden windows of the forge. There I
@@ -331,8 +331,8 @@ blackened hand!—I shall be down soon and often.”
 
 “Never too soon, sir,” said Joe, “and never too often, Pip!”
 
-Biddy was waiting for me at the kitchen door, with a mug of new milk
-and a crust of bread. “Biddy,” said I, when I gave her my hand at
+[[Biddy]] was waiting for me at the kitchen door, with a mug of new milk
+and a crust of bread. “[[Biddy]],” said I, when I gave her my hand at
 parting, “I am not angry, but I am hurt.”
 
 “No, don’t be hurt,” she pleaded quite pathetically; “let only me be
@@ -340,4 +340,4 @@ hurt, if I have been ungenerous.”
 
 Once more, the mists were rising as I walked away. If they disclosed to
 me, as I suspect they did, that I should _not_ come back, and that
-Biddy was quite right, all I can say is,—they were quite right too.
+[[Biddy]] was quite right, all I can say is,—they were quite right too.

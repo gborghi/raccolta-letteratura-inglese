@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 44"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 44"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,7 +20,7 @@ tags:
 
 
 
-October 24th.—Thank Heaven, I am free and safe at last. Early we rose,
+October 24th.—Thank Heaven, I am free and safe at last. Early we [[Rose|rose]],
 
 swiftly and quietly dressed, slowly and stealthily descended to the
 
@@ -28,7 +28,7 @@ hall, where Benson stood ready with a light, to open the door and
 
 fasten it after us. We were obliged to let one man into our secret on
 
-account of the boxes, &c. All the servants were but too well acquainted
+account of the boxes, &c. All the servants were but too [[Well|well]] acquainted
 
 with their master’s conduct, and either Benson or John would have been
 
@@ -38,7 +38,7 @@ a crony of Rachel’s besides, I of course directed her to make choice of
 
 him as her assistant and confidant on the occasion, as far as necessity
 
-demanded, I only hope he may not be brought into trouble thereby, and
+demanded, I only [[Hope|hope]] he may not be brought into trouble thereby, and
 
 only wish I could reward him for the perilous service he was so ready
 
@@ -52,7 +52,7 @@ wishes depicted on his solemn countenance. Alas! I could offer no more:
 
 I had barely sufficient remaining for the probable expenses of the
 
-journey.
+[[Journey|journey]].
 
 
 
@@ -62,19 +62,19 @@ we issued from the park! Then, for one moment, I paused, to inhale one
 
 draught of that cool, bracing air, and venture one look back upon the
 
-house. All was dark and still: no light glimmered in the windows, no
+[[house]]. All was dark and still: no light glimmered in the windows, no
 
-wreath of smoke obscured the stars that sparkled above it in the frosty
+wreath of smoke obscured the [[Stars|stars]] that sparkled above it in the frosty
 
 sky. As I bade farewell for ever to that place, the scene of so much
 
-guilt and misery, I felt glad that I had not left it before, for now
+[[Guilt|guilt]] and misery, I felt glad that I had not left it before, for now
 
-there was no doubt about the propriety of such a step—no shadow of
+there was no [[Doubt|doubt]] about the propriety of such a step—no [[Shadow|shadow]] of
 
 remorse for him I left behind. There was nothing to disturb my joy but
 
-the fear of detection; and every step removed us further from the
+the [[Fear|fear]] of detection; and every step removed us further from the
 
 chance of that.
 
@@ -86,7 +86,7 @@ arose to welcome our deliverance; and if any inhabitant of its vicinity
 
 had chanced to see us then, as we bowled along on the top of the coach,
 
-I scarcely think they would have suspected our identity. As I intend to
+I scarcely think they would have suspected our [[Identity|identity]]. As I intend to
 
 be taken for a widow, I thought it advisable to enter my new abode in
 
@@ -94,13 +94,13 @@ mourning: I was, therefore, attired in a plain black silk dress and
 
 mantle, a black veil (which I kept carefully over my face for the first
 
-twenty or thirty miles of the journey), and a black silk bonnet, which
+twenty or thirty miles of the [[Journey|journey]]), and a black silk bonnet, which
 
 I had been constrained to borrow of Rachel, for want of such an article
 
 myself. It was not in the newest fashion, of course; but none the worse
 
-for that, under present circumstances. Arthur was clad in his plainest
+for that, under present circumstances. [[arthur|Arthur]] was clad in his plainest
 
 clothes, and wrapped in a coarse woollen shawl; and Rachel was muffled
 
@@ -114,17 +114,17 @@ lady’s-maid.
 
 Oh, what delight it was to be thus seated aloft, rumbling along the
 
-broad, sunshiny road, with the fresh morning breeze in my face,
+broad, sunshiny [[Road|road]], with the fresh morning breeze in my face,
 
 surrounded by an unknown country, all smiling—cheerfully, gloriously
 
 smiling in the yellow lustre of those early beams; with my darling
 
-child in my arms, almost as happy as myself, and my faithful friend
+[[Child|child]] in my arms, almost as happy as myself, and my faithful friend
 
-beside me: a prison and despair behind me, receding further, further
+beside me: a [[Prison|prison]] and [[Despair|despair]] behind me, receding further, further
 
-back at every clatter of the horses’ feet; and liberty and hope before!
+back at every clatter of the horses’ feet; and liberty and [[Hope|hope]] before!
 
 I could hardly refrain from praising God aloud for my deliverance, or
 
@@ -134,11 +134,11 @@ hilarity.
 
 
 
-But the journey was a very long one, and we were all weary enough
+But the [[Journey|journey]] was a very long one, and we were all weary enough
 
-before the close of it. It was far into the night when we reached the
+before the close of it. It was far into the [[Night|night]] when we reached the
 
-town of L——, and still we were seven miles from our journey’s end; and
+town of L——, and still we were seven miles from our [[Journey|journey]]’s end; and
 
 there was no more coaching, nor any conveyance to be had, except a
 
@@ -146,13 +146,13 @@ common cart, and that with the greatest difficulty, for half the town
 
 was in bed. And a dreary ride we had of it, that last stage of the
 
-journey, cold and weary as we were; sitting on our boxes, with nothing
+[[Journey|journey]], cold and weary as we were; sitting on our boxes, with nothing
 
 to cling to, nothing to lean against, slowly dragged and cruelly shaken
 
-over the rough, hilly roads. But Arthur was asleep in Rachel’s lap, and
+over the rough, hilly roads. But [[arthur|Arthur]] was asleep in Rachel’s lap, and
 
-between us we managed pretty well to shield him from the cold night
+between us we managed pretty [[Well|well]] to shield him from the cold [[Night|night]]
 
 air.
 
@@ -160,21 +160,21 @@ air.
 
 At last we began to ascend a terribly steep and stony lane, which, in
 
-spite of the darkness, Rachel said she remembered well: she had often
+spite of the darkness, Rachel said she remembered [[Well|well]]: she had often
 
 walked there with me in her arms, and little thought to come again so
 
-many years after, under such circumstances as the present. Arthur being
+many years after, under such circumstances as the present. [[arthur|Arthur]] being
 
 now awakened by the jolting and the stoppages, we all got out and
 
 walked. We had not far to go; but what if Frederick should not have
 
-received my letter? or if he should not have had time to prepare the
+received my letter? or if he should not have had [[Time|time]] to prepare the
 
 rooms for our reception, and we should find them all dark, damp, and
 
-comfortless, destitute of food, fire, and furniture, after all our
+comfortless, destitute of food, [[Fire|fire]], and furniture, after all our
 
 toil?
 
@@ -182,23 +182,23 @@ toil?
 
 At length the grim, dark pile appeared before us. The lane conducted us
 
-round by the back way. We entered the desolate court, and in breathless
+round by the back way. We entered the desolate [[Court|court]], and in breathless
 
 anxiety surveyed the ruinous mass. Was it all blackness and desolation?
 
-No; one faint red glimmer cheered us from a window where the lattice
+No; one faint red glimmer cheered us from a [[Window|window]] where the lattice
 
 was in good repair. The door was fastened, but after due knocking and
 
-waiting, and some parleying with a voice from an upper window, we were
+waiting, and some parleying with a voice from an upper [[Window|window]], we were
 
 admitted by an old woman who had been commissioned to air and keep the
 
-house till our arrival, into a tolerably snug little apartment,
+[[house]] till our arrival, into a tolerably snug little apartment,
 
 formerly the scullery of the mansion, which Frederick had now fitted up
 
-as a kitchen. Here she procured us a light, roused the fire to a
+as a kitchen. Here she procured us a light, roused the [[Fire|fire]] to a
 
 cheerful blaze, and soon prepared a simple repast for our refreshment;
 
@@ -208,7 +208,7 @@ hasty survey of our new abode. Besides the kitchen, there were two
 
 bedrooms, a good-sized parlour, and another smaller one, which I
 
-destined for my studio, all well aired and seemingly in good repair,
+destined for my studio, all [[Well|well]] aired and seemingly in good repair,
 
 but only partly furnished with a few old articles, chiefly of ponderous
 
@@ -220,11 +220,11 @@ now, in all haste, transported back again.
 
 
 
-The old woman brought my supper and Arthur’s into the parlour, and told
+The old woman brought my supper and [[arthur|Arthur]]’s into the parlour, and told
 
 me, with all due formality, that “the master desired his compliments to
 
-Mrs. Graham, and he had prepared the rooms as well as he could upon so
+Mrs. Graham, and he had prepared the rooms as [[Well|well]] as he could upon so
 
 short a notice; but he would do himself the pleasure of calling upon
 
@@ -234,15 +234,15 @@ her to-morrow, to receive her further commands.”
 
 I was glad to ascend the stern-looking stone staircase, and lie down in
 
-the gloomy, old-fashioned bed, beside my little Arthur. He was asleep
+the gloomy, old-fashioned bed, beside my little [[arthur|Arthur]]. He was asleep
 
 in a minute; but, weary as I was, my excited feelings and restless
 
-cogitations kept me awake till dawn began to struggle with the
+cogitations kept me awake till [[Dawn|dawn]] began to struggle with the
 
-darkness; but sleep was sweet and refreshing when it came, and the
+darkness; but [[Sleep|sleep]] was sweet and refreshing when it came, and the
 
-waking was delightful beyond expression. It was little Arthur that
+waking was delightful beyond expression. It was little [[arthur|Arthur]] that
 
 roused me, with his gentle kisses. He was here, then, safely clasped in
 
@@ -250,7 +250,7 @@ my arms, and many leagues away from his unworthy father! Broad daylight
 
 illumined the apartment, for the sun was high in heaven, though
 
-obscured by rolling masses of autumnal vapour.
+obscured by [[rolling]] masses of autumnal vapour.
 
 
 
@@ -264,15 +264,15 @@ desolate wilderness below, where the dark stone walls and iron gate,
 
 the rank growth of grass and weeds, and the hardy evergreens of
 
-preternatural forms, alone remained to tell that there had been once a
+preternatural forms, [[Alone|alone]] remained to tell that there had been once a
 
-garden,—and the bleak and barren fields beyond might have struck me as
+[[Garden|garden]],—and the bleak and barren fields beyond might have struck me as
 
-gloomy enough at another time; but now, each separate object seemed to
+gloomy enough at another [[Time|time]]; but now, each separate object seemed to
 
-echo back my own exhilarating sense of hope and freedom: indefinite
+echo back my own exhilarating sense of [[Hope|hope]] and [[Freedom|freedom]]: indefinite
 
-dreams of the far past and bright anticipations of the future seemed to
+[[Dreams|dreams]] of the far past and bright anticipations of the future seemed to
 
 greet me at every turn. I should rejoice with more security, to be
 
@@ -280,7 +280,7 @@ sure, had the broad sea rolled between my present and my former homes;
 
 but surely in this lonely spot I might remain unknown; and then I had
 
-my brother here to cheer my solitude with his occasional visits.
+my brother here to cheer my [[Solitude|solitude]] with his occasional visits.
 
 
 
@@ -294,7 +294,7 @@ Wildfell—except on such occasions as a landlord might be expected to
 
 call upon a stranger tenant—lest suspicion should be excited against
 
-me, whether of the truth or of some slanderous falsehood.
+me, whether of the [[Truth|truth]] or of some slanderous falsehood.
 
 
 
@@ -302,13 +302,13 @@ I have now been here nearly a fortnight, and, but for one disturbing
 
 care, the haunting dread of discovery, I am comfortably settled in my
 
-new home: Frederick has supplied me with all requisite furniture and
+new [[Home|home]]: Frederick has supplied me with all requisite furniture and
 
 painting materials: Rachel has sold most of my clothes for me, in a
 
 distant town, and procured me a wardrobe more suitable to my present
 
-position: I have a second-hand piano, and a tolerably well-stocked
+position: I have a second-hand piano, and a tolerably [[Well|well]]-stocked
 
 bookcase in my parlour; and my other room has assumed quite a
 
@@ -332,9 +332,9 @@ it without offending him too deeply. I have a few pictures already
 
 done, for I told Rachel to pack up all I had; and she executed her
 
-commission but too well—for among the rest, she put up a portrait of
+commission but too [[Well|well]]—for among the rest, she put up a portrait of
 
-Mr. Huntingdon that I had painted in the first year of my marriage. It
+Mr. Huntingdon that I had painted in the first year of my [[Marriage|marriage]]. It
 
 struck me with dismay, at the moment, when I took it from the box and
 
@@ -356,7 +356,7 @@ pleasure and dissatisfaction I had had in the result of my
 
 labours!—pleasure for the likeness I had caught; dissatisfaction,
 
-because I had not made it handsome enough. Now, I see no beauty in
+because I had not made it handsome enough. Now, I see no [[Beauty|beauty]] in
 
 it—nothing pleasing in any part of its expression; and yet it is far
 
@@ -370,7 +370,7 @@ however, is handsome enough; it will serve for another painting. The
 
 picture itself I have not destroyed, as I had first intended; I have
 
-put it aside; not, I think, from any lurking tenderness for the memory
+put it aside; not, I think, from any lurking tenderness for the [[Memory|memory]]
 
 of past affection, nor yet to remind me of my former folly, but chiefly
 
@@ -398,13 +398,13 @@ that my uncle more than half believes him, and strongly advocates my
 
 going back to him and being friends again. But my aunt knows better:
 
-she is too cool and cautious, and too well acquainted with both my
+she is too cool and cautious, and too [[Well|well]] acquainted with both my
 
 husband’s character and my own to be imposed upon by any specious
 
 falsehoods the former could invent. But he does not _want_ me back; he
 
-wants my child; and gives my friends to understand that if I prefer
+wants my [[Child|child]]; and gives my friends to understand that if I prefer
 
 living apart from him, he will indulge the whim and let me do so
 
@@ -412,7 +412,7 @@ unmolested, and even settle a reasonable allowance on me, provided I
 
 will immediately deliver up his son. But heaven help me! I am not going
 
-to sell my child for gold, though it were to save both him and me from
+to sell my [[Child|child]] for gold, though it were to save both him and me from
 
 starving: it would be better that he should die with me than that he
 
@@ -438,13 +438,13 @@ for information on the subject, as it appeared I had been driven to
 
 such extremity that I had concealed my retreat even from my best
 
-friends; but that if he _had_ known it, or should at any time be made
+friends; but that if he _had_ known it, or should at any [[Time|time]] be made
 
 aware of it, most certainly Mr. Huntingdon would be the last person to
 
 whom he should communicate the intelligence; and that he need not
 
-trouble himself to bargain for the child, for he (Frederick) fancied he
+trouble himself to bargain for the [[Child|child]], for he (Frederick) fancied he
 
 knew enough of his sister to enable him to declare, that wherever she
 
@@ -454,13 +454,13 @@ deliver him up.
 
 
 
-30th.—Alas! my kind neighbours will not let me alone. By some means
+30th.—Alas! my kind neighbours will not let me [[Alone|alone]]. By some means
 
 they have ferreted me out, and I have had to sustain visits from three
 
 different families, all more or less bent upon discovering who and what
 
-I am, whence I came, and why I have chosen such a home as this. Their
+I am, whence I came, and why I have chosen such a [[Home|home]] as this. Their
 
 society is unnecessary to me, to say the least, and their curiosity
 
@@ -478,7 +478,7 @@ ears of some one who will carry it to the Lord of Grassdale Manor.
 
 I shall be expected to return their calls, but if, upon inquiry, I find
 
-that any of them live too far away for Arthur to accompany me, they
+that any of them live too far away for [[arthur|Arthur]] to accompany me, they
 
 must expect in vain for a while, for I cannot bear to leave him, unless
 
@@ -488,11 +488,11 @@ be foolish weakness, but I am under such constant dread of his being
 
 snatched away, that I am never easy when he is not by my side; and I
 
-fear these nervous terrors would so entirely disturb my devotions, that
+[[Fear|fear]] these nervous terrors would so entirely disturb my devotions, that
 
 I should obtain no benefit from the attendance. I mean, however, to
 
-make the experiment next Sunday, and oblige myself to leave him in
+make the experiment next [[Sunday]], and oblige myself to leave him in
 
 charge of Rachel for a few hours. It will be a hard task, but surely no
 
@@ -500,21 +500,21 @@ imprudence; and the vicar has been to scold me for my neglect of the
 
 ordinances of religion. I had no sufficient excuse to offer, and I
 
-promised, if all were well, he should see me in my pew next Sunday; for
+promised, if all were [[Well|well]], he should see me in my pew next [[Sunday]]; for
 
 I do not wish to be set down as an infidel; and, besides, I know I
 
 should derive great comfort and benefit from an occasional attendance
 
-at public worship, if I could only have faith and fortitude to compose
+at public worship, if I could only have [[Faith|faith]] and fortitude to compose
 
 my thoughts in conformity with the solemn occasion, and forbid them to
 
-be for ever dwelling on my absent child, and on the dreadful
+be for ever dwelling on my absent [[Child|child]], and on the dreadful
 
 possibility of finding him gone when I return; and surely God in His
 
-mercy will preserve me from so severe a trial: for my child’s own sake,
+[[Mercy|mercy]] will preserve me from so severe a trial: for my [[Child|child]]’s own sake,
 
 if not for mine, He will not suffer him to be torn away.
 
@@ -536,15 +536,15 @@ estimation, at least) is a young . . . .
 
 Here it ended. The rest was torn away. How cruel, just when she was
 
-going to mention me! for I could not doubt it _was_ your humble servant
+going to mention me! for I could not [[Doubt|doubt]] it _was_ your humble servant
 
 she was about to mention, though not very favourably, of course. I
 
-could tell that, as well by those few words as by the recollection of
+could tell that, as [[Well|well]] by those few words as by the recollection of
 
 her whole aspect and demeanour towards me in the commencement of our
 
-acquaintance. Well! I could readily forgive her prejudice against me,
+acquaintance. [[Well]]! I could readily forgive her prejudice against me,
 
 and her hard thoughts of our sex in general, when I saw to what
 
@@ -562,18 +562,18 @@ my deserts were lower than her opinion; and if the former part of this
 
 continuation had been torn away to avoid wounding my feelings, perhaps
 
-the latter portion had been removed for fear of ministering too much to
+the latter portion had been removed for [[Fear|fear]] of ministering too much to
 
-my self-conceit. At any rate, I would have given much to have seen it
+my [[Self|self]]-conceit. At any rate, I would have given much to have seen it
 
 all—to have witnessed the gradual change, and watched the progress of
 
-her esteem and friendship for me, and whatever warmer feeling she might
+her esteem and [[Friendship|friendship]] for me, and whatever warmer feeling she might
 
-have; to have seen how much of love there was in her regard, and how it
+have; to have seen how much of [[Love|love]] there was in her regard, and how it
 
 had grown upon her in spite of her virtuous resolutions and strenuous
 
 exertions to—but no, I had no right to see it: all this was too sacred
 
-for any eyes but her own, and she had done well to keep it from me.
+for any eyes but her own, and she had done [[Well|well]] to keep it from me.

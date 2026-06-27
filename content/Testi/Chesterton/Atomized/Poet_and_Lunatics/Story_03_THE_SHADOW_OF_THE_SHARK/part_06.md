@@ -1,5 +1,5 @@
 ---
-title: "Poet and Lunatics — THE SHADOW OF THE SHARK (part 6)"
+title: "Poet and Lunatics — THE [[Shadow|SHADOW]] OF THE SHARK (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Poet-and-Lunatics-(Chesterton)"
@@ -19,8 +19,8 @@ tags:
 "It is too general to be called a theory yet," replied the doctor;
 "but, honestly, I do not think it at all impossible that Boon
 might have killed a man on the sands from the top of a cliff,
-without falling back on any supernatural stuff.  You've got to consider
-it like this:  Boon has been very deep in the secrets of savages,
+without falling back on any [[Supernatural|supernatural]] stuff.  You've got to consider
+it like this:  Boon has been very deep in the [[Secrets|secrets]] of savages,
 especially in that litter of islands that lie away towards Australia.
 Now, we know that such savages, for all they are called ignorant,
 have developed many dexterities and many unique tools.
@@ -36,10 +36,10 @@ not only curved upwards, but even slightly outwards, as if the curve
 were returning on itself.  Does not that suggest to you some outlandish
 weapon of a strange shape, and possibly with strange properties?
 And always remember that such an explanation would explain
-something else as well, which is generally regarded as the riddle.
-It would explain why the murderer left no foot-prints round the body."
+something else as [[Well|well]], which is generally regarded as the [[Riddle|riddle]].
+It would explain why the murderer left no foot-prints round the [[Body|body]]."
 
-Gale gazed out to sea in silence, as if considering; then he said simply:
+Gale gazed out to sea in [[Silence|silence]], as if considering; then he said simply:
 
 "An extremely shrewd argument.  But I know why he left no foot-prints.
 It is a much simpler explanation than that."
@@ -49,12 +49,12 @@ Garth stared at him for a few moments; and then observed gravely:
 "May I then ask, in return, what is your theory?"
 
 "My theory will seem a maze of theories, and nothing else," said Gale.
-"It is, as many would say, of such stuff as dreams are made of.
+"It is, as many would say, of such stuff as [[Dreams|dreams]] are made of.
 Most modern people have a curious contradiction; they abound in theories,
 yet they never see the part that theories play in practical life.
 They are always talking about temperament and circumstances
 and accident; but most men are what their theories make them;
-most men go in for murder or marriage, or mere lounging because of
+most men go in for murder or [[Marriage|marriage]], or mere lounging because of
 some theory of life, asserted or assumed.  So I can never manage
 to begin my explanations in that brisk, pointed, practical way
 that you doctors and detectives do.  I see a man's mind first,
@@ -63,7 +63,7 @@ I could only begin this business by describing a mental state...
 which can't be described.  Our murderer or maniac, or whatever you
 call him, is certainly affected by some of the elements attributed
 to him.  His view has reached an insane degree of simplicity,
-and in that sense of savagery.  But I doubt whether he would
+and in that sense of savagery.  But I [[Doubt|doubt]] whether he would
 necessarily transfer the savagery from the end to the means.
 In one sense, indeed, his view might be compared to the barbaric.
 He saw every creature and even every object naked.  He did not
@@ -73,13 +73,13 @@ part of it.  Have you ever noticed how true is that old phrase,
 when he is not clothed with the symbols of his social dignity.
 Humanity is not even human when it is naked.  But in a lower
 sense it is so of lesser things, even of lifeless things.
-A lot of nonsense is talked about auras; but this is the truth
+A lot of nonsense is talked about auras; but this is the [[Truth|truth]]
 behind it.  Everything has a halo.  Everything has a sort
 of atmosphere of what it signifies, which makes it sacred.
 Even the little creatures he studied had each of them its halo;
 but he would not see it."
 
-"But what little creatures did Boon study?" asked Garth in some wonder.
+"But what little creatures did Boon study?" asked Garth in some [[Wonder|wonder]].
 "Do you mean the cannibals?"
 
 "I was not thinking about Boon," replied Gabriel Gale.
@@ -97,9 +97,9 @@ a trifle cracked, by now, about sharks and other things; but that's
 only because his travels have been too much for his intellect.
 They say travel broadens the mind; but you must have the mind.
 He had a mind for a suburban chapel, and there passed before it
-all the panorama of gilded nature-worship and purple sacrifice.
+all the panorama of gilded [[Nature|nature]]-worship and purple sacrifice.
 He doesn't know if he's on his head or his heels, any more than
-a good many others.  But I shouldn't wonder if heaven is largely
+a good many others.  But I shouldn't [[Wonder|wonder]] if heaven is largely
 populated with atheists of that sort, scratching their heads
 and wondering where they are.
 
@@ -114,16 +114,16 @@ the tea-cups and he said he saw nothing pretty in a flower."
 "My dear fellow!" remonstrated Dr. Garth.
 
 "I don't mean that a man merely dissecting a daisy must be on
-the road to the gallows," conceded the poet, magnanimously, "but I
+the [[Road|road]] to the gallows," conceded the poet, magnanimously, "but I
 do say that to mean it as he meant it is to be on a straight
-road of logic that leads there if he chooses to follow it.
+[[Road|road]] of [[logic]] that leads there if he chooses to follow it.
 God is inside everything.  But this man wanted to be outside everything;
-to see everything hung in a vacuum, simply its own dead self.
+to see everything hung in a vacuum, simply its own dead [[Self|self]].
 It's not only not the same, it's almost the opposite of scepticism
 in the sense of Boon or the Book of Job.  That's a man overwhelmed
 by the mysteries; but this man denies that there are any mysteries.
 It's not, in the ordinary sense, a matter of theology, but psychology.
-Most good pagans and pantheists might talk of the miracles of nature;
+Most good pagans and pantheists might talk of the miracles of [[Nature|nature]];
 but this man denies that there are any miracles, even in the sense
 of marvels.  Don't you see that dreadful dry light shed on
 things must at last wither up the moral mysteries as illusions,

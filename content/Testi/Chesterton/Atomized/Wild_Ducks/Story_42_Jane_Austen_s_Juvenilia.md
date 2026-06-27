@@ -22,12 +22,12 @@ sameness of all the human generations previous to our own, somebody said
 that in the world of Jane Austen a lady was expected to faint when she
 received a proposal.  To those who happen to have read any of the works
 of Jane Austen, the connection of ideas will appear slightly comic.
-Elizabeth Bennet, for instance, received two proposals from two very
+[[Elizabeth Bennet]], for instance, received two proposals from two very
 confident and even masterful admirers; and she certainly did not faint.
-It would be nearer the truth to say that they did.  But in any case it
+It would be nearer the [[Truth|truth]] to say that they did.  But in any case it
 may be amusing to those who are thus amused, and perhaps even instructive
 to those who thus need to be instructed, to know that the earliest work of
-Jane Austen might be called a satire on the fable of the fainting lady.
+Jane Austen might be called a [[Satire|satire]] on the [[Fable|fable]] of the fainting lady.
 `Beware of fainting fits . . . though at times they may be refreshing
 and agreeable yet believe me they will in the end, if too often repeated
 and at improper seasons, prove destructive to your Constitution.'
@@ -115,9 +115,9 @@ really desire that to disappear into the waste-paper basket?
 `She was nothing more than a mere good-tempered, civil and
 obliging young woman; as such we could scarcely dislike her--
 she was only an object of contempt.'  Is not that something like
-the first faint line in the figure of Fanny Price?  When a loud
+the first faint line in the figure of [[Fanny Price]]?  When a loud
 knocking is heard on the door of the Rustic Cot by the Uske,
-the heroine's father enquires the nature of the noise, and by cautious
+the heroine's father enquires the [[Nature|nature]] of the noise, and by cautious
 steps of inference they are enabled to define it as somebody
 outside striking the door.  `"Yes" (exclaimed I) "I cannot
 help thinking it must be somebody who knocks for admittance."
@@ -217,9 +217,9 @@ so much admired them; as for their glorification of ingratitude
 to parents and their easy assumption that the old are
 always wrong.  'No!' says the noble Youth in Love and Friendship,
 `never shall it be said that I obliged my father.'
-And the other is that there is not a shadow of indication
+And the other is that there is not a [[Shadow|shadow]] of indication
 anywhere that this independent intellect and laughing spirit
 was other than contented with a narrow domestic routine,
 in which she wrote a story as domestic as a diary in the intervals
-of pies and puddings, without so much as looking out of the window
-to notice the French Revolution.
+of pies and puddings, without so much as looking out of the [[Window|window]]
+to notice the [[French Revolution]].

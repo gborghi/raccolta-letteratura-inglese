@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Temple of Silence (part 2)"
+title: "The Man Who Knew Too Much — The Temple of [[Silence]] (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/The-Man-Who-Knew-Too-Much-(Chesterton)"
@@ -18,7 +18,7 @@ attached. The personality of Hughes was substantially summed up in
 
 the fact that he talked eloquently and earnestly through the whole
 
-dinner, but left immediately after to be in time for an appointment.
+dinner, but left immediately after to be in [[Time|time]] for an appointment.
 
 All his actions had something at once ambitious and conscientious;
 
@@ -34,53 +34,53 @@ the powerful speech against squirarchy which he had just delivered;
 
 even in the Fisher circle everybody talked about it except Horne
 
-Fisher himself who sat in a corner, lowering over the fire.
-"We jolly well have to thank him for putting some new life into the
+Fisher himself who sat in a corner, lowering over the [[Fire|fire]].
+"We jolly [[Well|well]] have to thank him for putting some new life into the
 
 old party," Ashton Fisher was saying. "This campaign against the old
 
-squires just hits the degree of democracy there is in this county.
+squires just hits the degree of [[democracy]] there is in this county.
 
 This act for extending county council control is practically his
 
-bill; so you may say he's in the government even before he's in the
+bill; so you may say he's in the [[government]] even before he's in the
 
-House."
+[[house|House]]."
 "One's easier than the other," said Harry, carelessly. "I bet the
 
 squire's a bigger pot than the county council in that county. Verner
 
-is pretty well rooted; all these rural places are what you call
+is pretty [[Well|well]] rooted; all these rural places are what you call
 
 reactionary. Damning aristocrats won't alter it."
-"He damns them rather well," observed Ashton. "We never had a
+"He damns them rather [[Well|well]]," observed Ashton. "We never had a
 
 better meeting than the one in Barkington, which generally goes
 
 Constitutional. And when he said, 'Sir Francis may boast of blue
 
-blood; let us show we have red blood,' and went on to talk about
+[[Blood|blood]]; let us show we have red [[Blood|blood]],' and went on to talk about
 
-manhood and liberty, the room simply rose at him."
-"Speaks very well," said Lord Saltoun, gruffly, making his only
+manhood and liberty, the room simply [[Rose|rose]] at him."
+"Speaks very [[Well|well]]," said Lord Saltoun, gruffly, making his only
 
 contribution to the conversation so far.
 Then the almost equally silent Horne Fisher suddenly spoke, without
 
-taking his brooding eyes off the fire.
+taking his brooding eyes off the [[Fire|fire]].
 "What I can't understand," he said, "is why nobody is ever slanged
 
 for the real reason."
 "Hullo!" remarked Harry, humorously, "you beginning to take notice?"
-"Well, take Verner," continued Horne Fisher. "If we want to attack
+"[[Well]], take Verner," continued Horne Fisher. "If we want to attack
 
 Verner, why not attack him? Why compliment him on being a romantic
 
-reactionary aristocrat? Who is Verner? Where does he come from? His
+reactionary [[aristocrat]]? Who is Verner? Where does he come from? His
 
 name sounds old, but I never heard of it before, as the man said of
 
-the Crucifixion. Why talk about his blue blood? His blood may be
+the Crucifixion. Why talk about his blue [[Blood|blood]]? His [[Blood|blood]] may be
 
 gamboge yellow with green spots, for all anybody knows. All we know
 
@@ -132,18 +132,18 @@ American oil trust?"
 
 and his merry men, with their bows and bills, marching down to
 
-Somerset all in Lincoln green instead of Lincoln and Bennet hats?"
+Somerset all in [[Lincoln]] green instead of [[Lincoln]] and Bennet hats?"
 "No," answered Old Saltoun, "I don't think it would be a joke. I
 
 think it would be an exceedingly serious and sensible idea."
-"Well, I'm jiggered!" cried Harry Fisher, staring at him. "I said
+"[[Well]], I'm jiggered!" cried Harry Fisher, staring at him. "I said
 
 just now it was the first fact you didn't know, and I should say
 
 this is the first joke you didn't see."
-"I've seen a good many things in my time," said the old man, in his
+"I've seen a good many things in my [[Time|time]]," said the old man, in his
 
-rather sour fashion. "I've told a good many lies in my time, too,
+rather sour fashion. "I've told a good many lies in my [[Time|time]], too,
 
 and perhaps I've got rather sick of them. But there are lies and
 
@@ -160,7 +160,7 @@ they're simply crowding us out. If a man like your brother likes to
 go into Parliament as a yeoman or a gentleman or a Jacobite or an
 
 Ancient Briton, I should say it would be a jolly good thing."
-In the rather startled silence that followed Horne Fisher sprang to
+In the rather startled [[Silence|silence]] that followed Horne Fisher sprang to
 
 his feet and all his dreary manner dropped off him.
 "I'm ready to do it to-morrow," he cried. "I suppose none of you
@@ -186,6 +186,6 @@ accompanied by a light suitcase and a lively brother. It must not be
 
 supposed, however, that the brother's cheerful tone consisted
 
-entirely of chaff. He supported the new candidate with hope as well
+entirely of chaff. He supported the new candidate with [[Hope|hope]] as [[Well|well]]
 
 as hilarity; and at the back of his boisterous partnership there was

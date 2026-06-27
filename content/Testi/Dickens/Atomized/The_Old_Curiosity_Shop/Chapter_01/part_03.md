@@ -23,20 +23,20 @@ sorrows before they are capable of entering into our enjoyments.’
 
 ‘It will never check hers,’ said the old man looking steadily at me,
 ‘the springs are too deep. Besides, the children of the poor know but
-few pleasures. Even the cheap delights of childhood must be bought and
+few pleasures. Even the cheap delights of [[Childhood|childhood]] must be bought and
 paid for.’
 
 ‘But--forgive me for saying this--you are surely not so very
 poor’--said I.
 
-‘She is not my child, sir,’ returned the old man. ‘Her mother was, and
+‘She is not my [[Child|child]], sir,’ returned the old man. ‘Her mother was, and
 she was poor. I save nothing--not a penny--though I live as you see,
 but’--he laid his hand upon my arm and leant forward to whisper--‘she
 shall be rich one of these days, and a fine lady. Don’t you think ill
 of me because I use her help. She gives it cheerfully as you see, and
 it would break her heart if she knew that I suffered anybody else to do
 for me what her little hands could undertake. I don’t consider!’--he
-cried with sudden querulousness, ‘why, God knows that this one child is
+cried with sudden querulousness, ‘why, God knows that this one [[Child|child]] is
 the thought and object of my life, and yet he never prospers me--no,
 never!’
 
@@ -47,12 +47,12 @@ no more.
 We had scarcely begun our repast when there was a knock at the door by
 which I had entered, and Nell bursting into a hearty laugh, which I was
 rejoiced to hear, for it was childlike and full of hilarity, said it
-was no doubt dear old Kit coming back at last.
+was no [[Doubt|doubt]] dear old Kit coming back at last.
 
 ‘Foolish Nell!’ said the old man fondling with her hair. ‘She always
 laughs at poor Kit.’
 
-The child laughed again more heartily than before, and I could not help
+The [[Child|child]] laughed again more heartily than before, and I could not help
 smiling from pure sympathy. The little old man took up a candle and
 went to open the door. When he came back, Kit was at his heels.
 
@@ -64,7 +64,7 @@ without any vestige of a brim, and resting himself now on one leg and
 now on the other and changing them constantly, stood in the doorway,
 looking into the parlour with the most extraordinary leer I ever
 beheld. I entertained a grateful feeling towards the boy from that
-minute, for I felt that he was the comedy of the child’s life.
+minute, for I felt that he was the [[Comedy|comedy]] of the [[Child|child]]’s life.
 
 ‘A long way, wasn’t it, Kit?’ said the little old man.
 
@@ -77,7 +77,7 @@ minute, for I felt that he was the comedy of the child’s life.
 The lad had a remarkable manner of standing sideways as he spoke, and
 thrusting his head forward over his shoulder, as if he could not get at
 his voice without that accompanying action. I think he would have
-amused one anywhere, but the child’s exquisite enjoyment of his oddity,
+amused one anywhere, but the [[Child|child]]’s exquisite enjoyment of his oddity,
 and the relief it was to find that there was something she associated
 with merriment in a place that appeared so unsuited to her, were quite
 irresistible. It was a great point too that Kit himself was flattered
@@ -87,10 +87,10 @@ and his eyes nearly shut, laughing violently.
 
 The old man had again relapsed into his former abstraction and took no
 notice of what passed, but I remarked that when her laugh was over, the
-child’s bright eyes were dimmed with tears, called forth by the
+[[Child|child]]’s bright eyes were dimmed with [[Tears|tears]], called forth by the
 fullness of heart with which she welcomed her uncouth favourite after
-the little anxiety of the night. As for Kit himself (whose laugh had
-been all the time one of that sort which very little would change into
+the little anxiety of the [[Night|night]]. As for Kit himself (whose laugh had
+been all the [[Time|time]] one of that sort which very little would change into
 a cry) he carried a large slice of bread and meat and a mug of beer
 into a corner, and applied himself to disposing of them with great
 voracity.
@@ -106,38 +106,38 @@ appearances, my friend,’ said I.
 
 The little girl hastened from her seat, and put her arm about his neck.
 
-‘Do I love thee, Nell?’ said he. ‘Say--do I love thee, Nell, or no?’
+‘Do I [[Love|love]] thee, Nell?’ said he. ‘Say--do I [[Love|love]] thee, Nell, or no?’
 
-The child only answered by her caresses, and laid her head upon his
+The [[Child|child]] only answered by her caresses, and laid her head upon his
 breast.
 
 ‘Why dost thou sob?’ said the grandfather, pressing her closer to him
-and glancing towards me. ‘Is it because thou know’st I love thee, and
-dost not like that I should seem to doubt it by my question? Well,
-well--then let us say I love thee dearly.’
+and glancing towards me. ‘Is it because thou know’st I [[Love|love]] thee, and
+dost not like that I should seem to [[Doubt|doubt]] it by my question? [[Well]],
+[[Well|well]]--then let us say I [[Love|love]] thee dearly.’
 
-‘Indeed, indeed you do,’ replied the child with great earnestness, ‘Kit
+‘Indeed, indeed you do,’ replied the [[Child|child]] with great earnestness, ‘Kit
 knows you do.’
 
 Kit, who in despatching his bread and meat had been swallowing
 two-thirds of his knife at every mouthful with the coolness of a
 juggler, stopped short in his operations on being thus appealed to, and
-bawled ‘Nobody isn’t such a fool as to say he doosn’t,’ after which he
+bawled ‘Nobody isn’t such a [[Fool|fool]] as to say he doosn’t,’ after which he
 incapacitated himself for further conversation by taking a most
 prodigious sandwich at one bite.
 
-‘She is poor now’--said the old man, patting the child’s cheek, ‘but I
-say again that the time is coming when she shall be rich. It has been a
-long time coming, but it must come at last; a very long time, but it
+‘She is poor now’--said the old man, patting the [[Child|child]]’s cheek, ‘but I
+say again that the [[Time|time]] is coming when she shall be rich. It has been a
+long [[Time|time]] coming, but it must come at last; a very long [[Time|time]], but it
 surely must come. It has come to other men who do nothing but waste and
 riot. When WILL it come to me!’
 
-‘I am very happy as I am, grandfather,’ said the child.
+‘I am very happy as I am, grandfather,’ said the [[Child|child]].
 
 ‘Tush, tush!’ returned the old man, ‘thou dost not know--how should’st
-thou!’ then he muttered again between his teeth, ‘The time must come, I
+thou!’ then he muttered again between his teeth, ‘The [[Time|time]] must come, I
 am very sure it must. It will be all the better for coming late’; and
 then he sighed and fell into his former musing state, and still holding
-the child between his knees appeared to be insensible to everything
-around him. By this time it wanted but a few minutes of midnight and I
-rose to go, which recalled him to himself.
+the [[Child|child]] between his knees appeared to be insensible to everything
+around him. By this [[Time|time]] it wanted but a few minutes of midnight and I
+[[Rose|rose]] to go, which recalled him to himself.

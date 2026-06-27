@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 26 (part 1)"
+title: "[[Shirley]] — Chapter 26 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,21 +24,21 @@ OLD COPY-BOOKS.
 
 
 
-By the time the Fieldhead party returned to Briarfield Caroline was
+By the [[Time|time]] the Fieldhead party returned to Briarfield Caroline was
 
-nearly well. Miss Keeldar, who had received news by post of her friend's
+nearly [[Well|well]]. Miss Keeldar, who had received news by post of her friend's
 
 convalescence, hardly suffered an hour to elapse between her arrival at
 
-home and her first call at the rectory.
+[[Home|home]] and her first call at the rectory.
 
 
 
-A shower of rain was falling gently, yet fast, on the late flowers and
+A shower of rain was falling gently, yet fast, on the late [[Flowers|flowers]] and
 
-russet autumn shrubs, when the garden wicket was heard to swing open,
+russet [[Autumn|autumn]] shrubs, when the [[Garden|garden]] wicket was heard to swing open,
 
-and Shirley's well-known form passed the window. On her entrance her
+and [[Shirley]]'s [[Well|well]]-known form passed the [[Window|window]]. On her entrance her
 
 feelings were evinced in her own peculiar fashion. When deeply moved by
 
@@ -58,7 +58,7 @@ your health may be called on to sustain no more shocks!"
 
 
 
-She proceeded to talk fluently about the journey. In the midst of
+She proceeded to talk fluently about the [[Journey|journey]]. In the midst of
 
 vivacious discourse her eye still wandered to Caroline. There spoke in
 
@@ -82,7 +82,7 @@ Suddenly her glance reverted to Mrs. Pryor. It pierced her through.
 
 "May I tell her all?" demanded Caroline of her mother. Leave being
 
-signified by a gesture, Shirley was presently enlightened on what had
+signified by a gesture, [[Shirley]] was presently enlightened on what had
 
 happened in her absence.
 
@@ -98,7 +98,7 @@ happened in her absence.
 
 "I guessed long since the whole business. I have heard somewhat of Mrs.
 
-Pryor's history--not from herself, but from others. With every detail of
+Pryor's [[history]]--not from herself, but from others. With every detail of
 
 Mr. James Helstone's career and character I was acquainted. An
 
@@ -106,15 +106,15 @@ afternoon's sitting and conversation with Miss Mann had rendered me
 
 familiar therewith; also he is one of Mrs. Yorke's warning examples--one
 
-of the blood-red lights she hangs out to scare young ladies from
+of the [[Blood|blood]]-red lights she hangs out to scare young ladies from
 
-matrimony. I believe I should have been sceptical about the truth of the
+matrimony. I believe I should have been sceptical about the [[Truth|truth]] of the
 
 portrait traced by such fingers--both these ladies take a dark pleasure
 
 in offering to view the dark side of life--but I questioned Mr. Yorke on
 
-the subject, and he said, 'Shirley, my woman, if you want to know aught
+the subject, and he said, '[[Shirley]], my woman, if you want to know aught
 
 about yond' James Helstone, I can only say he was a man-tiger. He was
 
@@ -124,11 +124,11 @@ Cary; we'll say no more about it."
 
 
 
-"I am not crying, Shirley; or if I am, it is nothing. Go on; you are no
+"I am not crying, [[Shirley]]; or if I am, it is nothing. Go on; you are no
 
-friend if you withhold from me the truth. I hate that false plan of
+friend if you withhold from me the [[Truth|truth]]. I hate that false plan of
 
-disguising, mutilating the truth."
+disguising, mutilating the [[Truth|truth]]."
 
 
 
@@ -142,21 +142,21 @@ shabbier than lies."
 
 
 
-"But papa is dead; they should let him alone now."
+"But papa is dead; they should let him [[Alone|alone]] now."
 
 
 
-"They should; and we _will_ let him alone. Cry away, Cary; it will do
+"They should; and we _will_ let him [[Alone|alone]]. Cry away, Cary; it will do
 
-you good. It is wrong to check natural tears. Besides, I choose to
+you good. It is wrong to check natural [[Tears|tears]]. Besides, I choose to
 
 please myself by sharing an idea that at this moment beams in your
 
 mother's eye while she looks at you. Every drop blots out a sin. Weep!
 
-your tears have the virtue which the rivers of Damascus lacked. Like
+your [[Tears|tears]] have the virtue which the rivers of Damascus lacked. Like
 
-Jordan, they can cleanse a leprous memory."
+Jordan, they can cleanse a leprous [[Memory|memory]]."
 
 
 
@@ -168,7 +168,7 @@ your marvellous similarity in many points, observing (pardon me) your
 
 irrepressible emotions in the presence and still more in the absence of
 
-your child--and not form my own conjectures? I formed them, and they are
+your [[Child|child]]--and not form my own conjectures? I formed them, and they are
 
 literally correct. I shall begin to think myself shrewd."
 
@@ -216,7 +216,7 @@ Good-day."
 
 
 
-Caroline thus seemed to get a view of Shirley's character under a novel
+Caroline thus seemed to get a view of [[Shirley]]'s character under a [[Novel|novel]]
 
 aspect. Ere long the prospect was renewed; it opened upon her.
 
@@ -226,7 +226,7 @@ No sooner had she regained sufficient strength to bear a change of
 
 scene--the excitement of a little society--than Miss Keeldar sued daily
 
-for her presence at Fieldhead. Whether Shirley had become wearied of her
+for her presence at Fieldhead. Whether [[Shirley]] had become wearied of her
 
 honoured relatives is not known. She did not say she was; but she
 
@@ -242,7 +242,7 @@ received by them with courtesy. Mr. Sympson proved to be a man of
 
 spotless respectability, worrying temper, pious principles, and worldly
 
-views; his lady was a very good woman--patient, kind, well-bred. She had
+views; his lady was a very good woman--patient, kind, [[Well|well]]-bred. She had
 
 been brought up on a narrow system of views, starved on a few
 
@@ -260,8 +260,8 @@ of this diet or to ask for a crumb beyond it.
 
 The daughters were an example to their sex. They were tall, with a Roman
 
-nose apiece. They had been educated faultlessly. All they did was well
+nose apiece. They had been educated faultlessly. All they did was [[Well|well]]
 
-done. History and the most solid books had cultivated their minds.
+done. [[history|History]] and the most solid books had cultivated their minds.
 
 Principles and opinions they possessed which could not be mended. More

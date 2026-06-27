@@ -19,7 +19,7 @@ Dalroy’s spirit seemed to revive at the sight, with the customary accompanimen
 
 
 
-“Been making any poems lately?” he asked of Wimpole.
+“Been making any [[Poems|poems]] lately?” he asked of Wimpole.
 
 
 
@@ -29,7 +29,7 @@ Dalroy’s spirit seemed to revive at the sight, with the customary accompanimen
 
 
 
-“Then,” said the Captain, portentously, clearing his throat, “you shall listen to one of mine, whether you like it or not–nay, the more you dislike it the longer and longer it will be. I begin to understand why soldiers want to sing when on the march; and also why they put up with such rotten songs.
+“Then,” said the Captain, portentously, clearing his throat, “you shall listen to one of mine, whether you like it or not–nay, the more you dislike it the longer and longer it will be. I begin to understand why soldiers want to sing when on the march; and also why they put up with such rotten [[songs]].
 
 
 
@@ -74,7 +74,7 @@ They cut not down the tree,
 
 
 
-And from the blood the saplings sprang
+And from the [[Blood|blood]] the saplings sprang
 
 
 
@@ -105,7 +105,7 @@ About the sacred tree.
 
 
 
-“King Charles he fled from Worcester fight
+“[[King]] Charles he fled from Worcester fight
 
 
 
@@ -196,12 +196,12 @@ As oaken as the beams above
 
 
 
-When the great Lover sailors love
+When the great [[Lover]] sailors [[Love|love]]
 
 
 
 
-Was kissed by Death at sea.
+Was kissed by [[Death]] at sea.
 
 
 
@@ -245,12 +245,12 @@ That has us in his grips.”
 
 
 
-They were ascending a sloping road, walled in on both sides by solemn woods, which somehow seemed as watchful as owls awake. Though daybreak was going over them with banners, scrolls of scarlet and gold, and with a wind like trumpets of triumph, the dark woods seemed to hold their secret like dark, cool cellars; nor was the strong sunlight seen in them, save in one or two brilliant shafts, that looked like splintered emeralds.
+They were ascending a sloping [[Road|road]], walled in on both sides by solemn woods, which somehow seemed as watchful as owls awake. Though daybreak was going over them with banners, scrolls of scarlet and gold, and with a [[Wind|wind]] like trumpets of triumph, the dark woods seemed to hold their secret like dark, cool cellars; nor was the strong sunlight seen in them, save in one or two brilliant shafts, that looked like splintered emeralds.
 
 
 
 
-“I should not wonder,” said Dorian, “if the ivy does not find the tree knows a thing or two also.”
+“I should not [[Wonder|wonder]],” said Dorian, “if the ivy does not find the tree knows a thing or two also.”
 
 
 
@@ -260,12 +260,12 @@ They were ascending a sloping road, walled in on both sides by solemn woods, whi
 
 
 
-There was a silence; and as they went up the incline grew steeper and steeper, and the tall trees seemed more and more to be guarding something from sight, as with the grey shields of giants.
+There was a [[Silence|silence]]; and as they went up the incline grew steeper and steeper, and the tall trees seemed more and more to be guarding something from sight, as with the grey shields of giants.
 
 
 
 
-“Do you remember this road, Hump?” asked Dalroy of the innkeeper.
+“Do you remember this [[Road|road]], Hump?” asked Dalroy of the innkeeper.
 
 
 
@@ -275,22 +275,22 @@ There was a silence; and as they went up the incline grew steeper and steeper, a
 
 
 
-They marched on in silence and about two hours afterward, toward eleven o’clock, Dalroy called a halt in the forest, and said that everybody had better have a few hours’ sleep. The impenetrable quality in the woods and the comparative softness of the carpet of beech-mast, made the spot as appropriate as the time was inappropriate. And if anyone thinks that common people, casually picked up in a street, could not follow a random leader on such a journey or sleep at his command in such a spot, given the state of the soul, then someone knows no history.
+They marched on in [[Silence|silence]] and about two hours afterward, toward eleven o’[[Clock|clock]], Dalroy called a halt in the forest, and said that everybody had better have a few hours’ [[Sleep|sleep]]. The impenetrable quality in the woods and the comparative softness of the carpet of beech-mast, made the spot as appropriate as the [[Time|time]] was inappropriate. And if anyone thinks that common people, casually picked up in a street, could not follow a random leader on such a [[Journey|journey]] or [[Sleep|sleep]] at his command in such a spot, given the state of the [[Soul|soul]], then someone knows no [[history]].
 
 
 
 
-“I’m afraid,” said Dalroy, “you’ll have to have your supper for breakfast. I know an excellent place for having breakfast, but it’s too exposed for sleep. And sleep you must have; so we won’t unpack the stores just now. We’ll lie down like Babes in the Wood, and any bird of an industrious disposition is free to start covering me with leaves. Really, there are things coming, before which you will want sleep.”
+“I’m afraid,” said Dalroy, “you’ll have to have your supper for breakfast. I know an excellent place for having breakfast, but it’s too exposed for [[Sleep|sleep]]. And [[Sleep|sleep]] you must have; so we won’t unpack the stores just now. We’ll lie down like Babes in the Wood, and any bird of an industrious disposition is free to start covering me with [[Leaves|leaves]]. Really, there are things coming, before which you will want [[Sleep|sleep]].”
 
 
 
 
-When they resumed the march it was nearly the middle of the afternoon; and the meal which Dalroy insisted buoyantly on describing as breakfast was taken about that mysterious hour when ladies die without tea. The steep road had consistently grown steeper and steeper; and steeper; and at last, Dalroy said to Dorian Wimpole,
+When they resumed the march it was nearly the middle of the afternoon; and the meal which Dalroy insisted buoyantly on describing as breakfast was taken about that mysterious hour when ladies die without tea. The steep [[Road|road]] had consistently grown steeper and steeper; and steeper; and at last, Dalroy said to Dorian Wimpole,
 
 
 
 
-“Don’t drop that cheese again just here, or it will roll right away down into the woods. I know it will. No scientific calculations of grades and angles are necessary; because I have seen it do so myself. In fact, I have run after it.”
+“Don’t drop that [[cheese]] again just here, or it will roll right away down into the woods. I know it will. No scientific calculations of grades and angles are necessary; because I have seen it do so myself. In fact, I have run after it.”
 
 
 
@@ -310,12 +310,12 @@ They had been walking along a swelling, woodland path beside the sea. On a parti
 
 
 
-Some of his audience began to laugh, but somehow suddenly ceased doing so, as Dalroy strode forward and planted the sign of “The Old Ship” on the desolate sea-shore.
+Some of his audience began to laugh, but somehow suddenly ceased doing so, as Dalroy strode forward and planted the sign of “The Old [[Ship]]” on the desolate sea-shore.
 
 
 
 
-“And now,” he said, “you have charge of the stores we brought, Hump, and we will picnic. As it said in a song I once sang,
+“And now,” he said, “you have charge of the stores we brought, Hump, and we will picnic. As it said in a [[Song|song]] I once sang,
 
 
 
@@ -325,7 +325,7 @@ Some of his audience began to laugh, but somehow suddenly ceased doing so, as Da
 
 
 
-King Richard riding in arms like flame,
+[[King]] [[Richard]] riding in arms like flame,
 
 
 
@@ -339,7 +339,7 @@ He set up his spear, and the Saracen’s Head.”
 
 
 
-It was nearly dusk before the mob, much swelled by the many discontented on the Ivywood estates, reached the gates of Ivywood House. Strategically, and for the purposes of a night surprise, this might have done credit to the Captain’s military capacity. But the use to which he put it actually was what some might call eccentric. When he had disposed his forces, with strict injunctions of silence for the first few minutes, he turned to Pump, and said,
+It was nearly dusk before the mob, much swelled by the many discontented on the Ivywood estates, reached the gates of Ivywood [[house|House]]. Strategically, and for the purposes of a [[Night|night]] surprise, this might have done credit to the Captain’s military capacity. But the use to which he put it actually was what some might call eccentric. When he had disposed his forces, with strict injunctions of [[Silence|silence]] for the first few minutes, he turned to Pump, and said,
 
 
 

@@ -27,7 +27,7 @@ hoarsely as she waited for the opening of the door.
 “Now, Paul,” said Mr Dombey, exultingly. “This is the way indeed to be
 Dombey and Son, and have money. You are almost a man already.”
 
-“Almost,” returned the child.
+“Almost,” returned the [[Child|child]].
 
 Even his childish agitation could not master the sly and quaint yet
 touching look, with which he accompanied the reply.
@@ -35,11 +35,11 @@ touching look, with which he accompanied the reply.
 It brought a vague expression of dissatisfaction into Mr Dombey’s face;
 but the door being opened, it was quickly gone.
 
-“Doctor Blimber is at home, I believe?” said Mr Dombey.
+“Doctor Blimber is at [[Home|home]], I believe?” said Mr Dombey.
 
 The man said yes; and as they passed in, looked at Paul as if he were a
-little mouse, and the house were a trap. He was a weak-eyed young man,
-with the first faint streaks or early dawn of a grin on his
+little mouse, and the [[house]] were a trap. He was a weak-eyed young man,
+with the first faint streaks or early [[Dawn|dawn]] of a grin on his
 countenance. It was mere imbecility; but Mrs Pipchin took it into her
 head that it was impudence, and made a snap at him directly.
 
@@ -49,7 +49,7 @@ head that it was impudence, and made a snap at him directly.
 “I ain’t a laughing at nobody, and I’m sure I don’t take you for
 nothing, Ma’am,” returned the young man, in consternation.
 
-“A pack of idle dogs!” said Mrs Pipchin, “only fit to be turnspits. Go
+“A pack of idle [[dogs]]!” said Mrs Pipchin, “only fit to be turnspits. Go
 and tell your master that Mr Dombey’s here, or it’ll be worse for you!”
 
 The weak-eyed young man went, very meekly, to discharge himself of this
@@ -66,15 +66,15 @@ such a thing as this!”
 
 Mrs Pipchin, in her deference, merely muttered at the young man as she
 passed on, and said, “Oh! he was a precious fellow”—leaving the young
-man, who was all meekness and incapacity, affected even to tears by the
+man, who was all meekness and incapacity, affected even to [[Tears|tears]] by the
 incident. But Mrs Pipchin had a way of falling foul of all meek people;
-and her friends said who could wonder at it, after the Peruvian mines!
+and her friends said who could [[Wonder|wonder]] at it, after the Peruvian mines!
 
 The Doctor was sitting in his portentous study, with a globe at each
 knee, books all round him, Homer over the door, and Minerva on the
 mantel-shelf. “And how do you do, Sir?” he said to Mr Dombey, “and how
-is my little friend?” Grave as an organ was the Doctor’s speech; and
-when he ceased, the great clock in the hall seemed (to Paul at least)
+is my little friend?” [[Grave]] as an organ was the Doctor’s speech; and
+when he ceased, the great [[Clock|clock]] in the hall seemed (to Paul at least)
 to take him up, and to go on saying, “how, is, my, lit, tle, friend?
 how, is, my, lit, tle, friend?” over and over and over again.
 
@@ -88,11 +88,11 @@ against the Doctor, in the middle of the room.
 “Ha!” said the Doctor, leaning back in his chair with his hand in his
 breast. “Now I see my little friend. How do you do, my little friend?”
 
-The clock in the hall wouldn’t subscribe to this alteration in the form
+The [[Clock|clock]] in the hall wouldn’t subscribe to this alteration in the form
 of words, but continued to repeat how, is, my, lit, tle, friend? how,
 is, my, lit, tle, friend?”
 
-“Very well, I thank you, Sir,” returned Paul, answering the clock quite
+“Very [[Well|well]], I thank you, Sir,” returned Paul, answering the [[Clock|clock]] quite
 as much as the Doctor.
 
 “Ha!” said Doctor Blimber. “Shall we make a man of him?”
@@ -101,17 +101,17 @@ as much as the Doctor.
 
 “Shall we make a man of him?” repeated the Doctor.
 
-“I had rather be a child,” replied Paul.
+“I had rather be a [[Child|child]],” replied Paul.
 
 “Indeed!” said the Doctor. “Why?”
 
-The child sat on the table looking at him, with a curious expression of
+The [[Child|child]] sat on the table looking at him, with a curious expression of
 suppressed emotion in his face, and beating one hand proudly on his
-knee as if he had the rising tears beneath it, and crushed them. But
+knee as if he had the rising [[Tears|tears]] beneath it, and crushed them. But
 his other hand strayed a little way the while, a little farther—farther
 from him yet—until it lighted on the neck of Florence. “This is why,”
 it seemed to say, and then the steady look was broken up and gone; the
-working lip was loosened; and the tears came streaming forth.
+working lip was loosened; and the [[Tears|tears]] came streaming forth.
 
 “Mrs Pipchin,” said his father, in a querulous manner, “I am really
 very sorry to see this.”
@@ -132,7 +132,7 @@ exactly. Ha! We shall impart a great variety of information to our
 little friend, and bring him quickly forward, I daresay. I daresay.
 Quite a virgin soil, I believe you said, Mr Dombey?”
 
-“Except some ordinary preparation at home, and from this lady,” replied
+“Except some ordinary preparation at [[Home|home]], and from this lady,” replied
 Mr Dombey, introducing Mrs Pipchin, who instantly communicated a
 rigidity to her whole muscular system, and snorted defiance beforehand,
 in case the Doctor should disparage her; “except so far, Paul has, as
@@ -147,5 +147,5 @@ have liked to tackle him with the Greek alphabet, on the spot.
 “That circumstance, indeed, Doctor Blimber,” pursued Mr Dombey,
 glancing at his little son, “and the interview I have already had the
 pleasure of holding with you, renders any further explanation, and
-consequently, any further intrusion on your valuable time, so
+consequently, any further intrusion on your valuable [[Time|time]], so
 unnecessary, that—”

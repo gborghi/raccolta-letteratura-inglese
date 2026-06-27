@@ -28,7 +28,7 @@ tags:
 
       nervous irritation of her temperament, and in her excitability by
 
-      trivial causes of fear. She spoke again, and now more frequently
+      trivial causes of [[Fear|fear]]. She spoke again, and now more frequently
 
       and pertinaciously, of the sounds—of the slight sounds—and of the
 
@@ -38,7 +38,7 @@ tags:
 
 
 
-      One night, near the closing in of September, she pressed this
+      One [[Night|night]], near the closing in of September, she pressed this
 
       distressing subject with more than usual emphasis upon my
 
@@ -54,7 +54,7 @@ tags:
 
       which she then heard, but which I could not hear—of motions which
 
-      she then saw, but which I could not perceive. The wind was
+      she then saw, but which I could not perceive. The [[Wind|wind]] was
 
       rushing hurriedly behind the tapestries, and I wished to show her
 
@@ -64,7 +64,7 @@ tags:
 
       of the figures upon the wall, were but the natural effects of
 
-      that customary rushing of the wind. But a deadly pallor,
+      that customary rushing of the [[Wind|wind]]. But a deadly pallor,
 
       overspreading her face, had proved to me that my exertions to
 
@@ -78,17 +78,17 @@ tags:
 
       as I stepped beneath the light of the censer, two circumstances
 
-      of a startling nature attracted my attention. I had felt that
+      of a startling [[Nature|nature]] attracted my attention. I had felt that
 
       some palpable although invisible object had passed lightly by my
 
       person; and I saw that there lay upon the golden carpet, in the
 
-      very middle of the rich lustre thrown from the censer, a shadow—a
+      very middle of the rich lustre thrown from the censer, a [[Shadow|shadow]]—a
 
-      faint, indefinite shadow of angelic aspect—such as might be
+      faint, indefinite [[Shadow|shadow]] of angelic aspect—such as might be
 
-      fancied for the shadow of a shade. But I was wild with the
+      fancied for the [[Shadow|shadow]] of a shade. But I was wild with the
 
       excitement of an immoderate dose of opium, and heeded these
 
@@ -110,7 +110,7 @@ tags:
 
       or may have dreamed that I saw, fall within the goblet, as if
 
-      from some invisible spring in the atmosphere of the room, three
+      from some invisible [[spring]] in the atmosphere of the room, three
 
       or four large drops of a brilliant and ruby colored fluid. If
 
@@ -120,7 +120,7 @@ tags:
 
       all, I considered, have been but the suggestion of a vivid
 
-      imagination, rendered morbidly active by the terror of the lady,
+      [[Imagination|imagination]], rendered morbidly active by the terror of the lady,
 
       by the opium, and by the hour.
 
@@ -132,13 +132,13 @@ tags:
 
       worse took place in the disorder of my wife; so that, on the
 
-      third subsequent night, the hands of her menials prepared her for
+      third subsequent [[Night|night]], the hands of her menials prepared her for
 
-      the tomb, and on the fourth, I sat alone, with her shrouded body,
+      the tomb, and on the fourth, I sat [[Alone|alone]], with her shrouded [[Body|body]],
 
       in that fantastic chamber which had received her as my bride.
 
-      Wild visions, opium-engendered, flitted, shadow-like, before me.
+      Wild visions, opium-engendered, flitted, [[Shadow|shadow]]-like, before me.
 
       I gazed with unquiet eye upon the sarcophagi in the angles of the
 
@@ -148,11 +148,11 @@ tags:
 
       eyes then fell, as I called to mind the circumstances of a former
 
-      night, to the spot beneath the glare of the censer where I had
+      [[Night|night]], to the spot beneath the glare of the censer where I had
 
-      seen the faint traces of the shadow. It was there, however, no
+      seen the faint traces of the [[Shadow|shadow]]. It was there, however, no
 
-      longer; and breathing with greater freedom, I turned my glances
+      longer; and breathing with greater [[Freedom|freedom]], I turned my glances
 
       to the pallid and rigid figure upon the bed. Then rushed upon me
 
@@ -162,21 +162,21 @@ tags:
 
       unutterable woe with which I had regarded her thus enshrouded.
 
-      The night waned; and still, with a bosom full of bitter thoughts
+      The [[Night|night]] waned; and still, with a bosom full of bitter thoughts
 
       of the one only and supremely beloved, I remained gazing upon the
 
-      body of Rowena.
+      [[Body|body]] of Rowena.
 
 
 
       It might have been midnight, or perhaps earlier, or later, for I
 
-      had taken no note of time, when a sob, low, gentle, but very
+      had taken no note of [[Time|time]], when a sob, low, gentle, but very
 
       distinct, startled me from my revery. I _felt_ that it came from
 
-      the bed of ebony—the bed of death. I listened in an agony of
+      the bed of ebony—the bed of [[Death|death]]. I listened in an agony of
 
       superstitious terror—but there was no repetition of the sound. I
 
@@ -184,11 +184,11 @@ tags:
 
       was not the slightest perceptible. Yet I could not have been
 
-      deceived. I had heard the noise, however faint, and my soul was
+      deceived. I had heard the noise, however faint, and my [[Soul|soul]] was
 
       awakened within me. I resolutely and perseveringly kept my
 
-      attention riveted upon the body. Many minutes elapsed before any
+      attention riveted upon the [[Body|body]]. Many minutes elapsed before any
 
       circumstance occurred tending to throw light upon the mystery. At
 

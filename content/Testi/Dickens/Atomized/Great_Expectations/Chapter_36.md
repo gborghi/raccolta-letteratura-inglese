@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 36"
+title: "[[Great Expectations]] — Chapter 36"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -19,7 +19,7 @@ Chapter XXXVI.
 
 Herbert and I went on from bad to worse, in the way of increasing our
 debts, looking into our affairs, leaving Margins, and the like
-exemplary transactions; and Time went on, whether or no, as he has a
+exemplary transactions; and [[Time]] went on, whether or no, as he has a
 way of doing; and I came of age,—in fulfilment of Herbert’s prediction,
 that I should do so before I knew where I was.
 
@@ -30,7 +30,7 @@ one-and-twentieth birthday, with a crowd of speculations and
 anticipations, for we had both considered that my guardian could hardly
 help saying something definite on that occasion.
 
-I had taken care to have it well understood in Little Britain when my
+I had taken care to have it [[Well|well]] understood in Little Britain when my
 birthday was. On the day before it, I received an official note from
 Wemmick, informing me that Mr. Jaggers would be glad if I would call
 upon him at five in the afternoon of the auspicious day. This convinced
@@ -42,10 +42,10 @@ In the outer office Wemmick offered me his congratulations, and
 incidentally rubbed the side of his nose with a folded piece of
 tissue-paper that I liked the look of. But he said nothing respecting
 it, and motioned me with a nod into my guardian’s room. It was
-November, and my guardian was standing before his fire leaning his back
+November, and my guardian was standing before his [[Fire|fire]] leaning his back
 against the chimney-piece, with his hands under his coattails.
 
-“Well, Pip,” said he, “I must call you Mr. Pip to-day. Congratulations,
+“[[Well]], Pip,” said he, “I must call you Mr. Pip to-day. Congratulations,
 Mr. Pip.”
 
 We shook hands,—he was always a remarkably short shaker,—and I thanked
@@ -54,7 +54,7 @@ him.
 “Take a chair, Mr. Pip,” said my guardian.
 
 As I sat down, and he preserved his attitude and bent his brows at his
-boots, I felt at a disadvantage, which reminded me of that old time
+boots, I felt at a disadvantage, which reminded me of that old [[Time|time]]
 when I had been put upon a tombstone. The two ghastly casts on the
 shelf were not far from him, and their expression was as if they were
 making a stupid apoplectic attempt to attend to the conversation.
@@ -153,7 +153,7 @@ him.
 After a pause, I hinted,—
 
 “There was a question just now, Mr. Jaggers, which you desired me to
-waive for a moment. I hope I am doing nothing wrong in asking it
+waive for a moment. I [[Hope|hope]] I am doing nothing wrong in asking it
 again?”
 
 “What is it?” said he.
@@ -167,10 +167,10 @@ delicately stopped.
 “Will soon what?” asked Mr. Jaggers. “That’s no question as it stands,
 you know.”
 
-“Will soon come to London,” said I, after casting about for a precise
+“Will soon come to [[London]],” said I, after casting about for a precise
 form of words, “or summon me anywhere else?”
 
-“Now, here,” replied Mr. Jaggers, fixing me for the first time with his
+“Now, here,” replied Mr. Jaggers, fixing me for the first [[Time|time]] with his
 dark deep-set eyes, “we must revert to the evening when we first
 encountered one another in your village. What did I tell you then,
 Pip?”
@@ -181,7 +181,7 @@ person appeared.”
 “Just so,” said Mr. Jaggers, “that’s my answer.”
 
 As we looked full at one another, I felt my breath come quicker in my
-strong desire to get something out of him. And as I felt that it came
+strong [[Desire|desire]] to get something out of him. And as I felt that it came
 quicker, and as I felt that he saw that it came quicker, I felt that I
 had less chance than ever of getting anything out of him.
 
@@ -210,12 +210,12 @@ about it. And that’s all I have got to say.”
 
 We looked at one another until I withdrew my eyes, and looked
 thoughtfully at the floor. From this last speech I derived the notion
-that Miss Havisham, for some reason or no reason, had not taken him
-into her confidence as to her designing me for Estella; that he
-resented this, and felt a jealousy about it; or that he really did
+that [[Miss Havisham]], for some reason or no reason, had not taken him
+into her confidence as to her designing me for [[Estella]]; that he
+resented this, and felt a [[Jealousy|jealousy]] about it; or that he really did
 object to that scheme, and would have nothing to do with it. When I
 raised my eyes again, I found that he had been shrewdly looking at me
-all the time, and was doing so still.
+all the [[Time|time]], and was doing so still.
 
 “If that is all you have to say, sir,” I remarked, “there can be
 nothing left for me to say.”
@@ -224,7 +224,7 @@ He nodded assent, and pulled out his thief-dreaded watch, and asked me
 where I was going to dine? I replied at my own chambers, with Herbert.
 As a necessary sequence, I asked him if he would favour us with his
 company, and he promptly accepted the invitation. But he insisted on
-walking home with me, in order that I might make no extra preparation
+walking [[Home|home]] with me, in order that I might make no extra preparation
 for him, and first he had a letter or two to write, and (of course) had
 his hands to wash. So I said I would go into the outer office and talk
 to Wemmick.
@@ -235,9 +235,9 @@ before; and it appeared to me that Wemmick was a good person to advise
 with concerning such thought.
 
 He had already locked up his safe, and made preparations for going
-home. He had left his desk, brought out his two greasy office
+[[Home|home]]. He had left his desk, brought out his two greasy office
 candlesticks and stood them in line with the snuffers on a slab near
-the door, ready to be extinguished; he had raked his fire low, put his
+the door, ready to be extinguished; he had raked his [[Fire|fire]] low, put his
 hat and great-coat ready, and was beating himself all over the chest
 with his safe-key, as an athletic exercise after business.
 
@@ -254,12 +254,12 @@ beginning. Now I want somehow to help him to a beginning.”
 “With money down?” said Wemmick, in a tone drier than any sawdust.
 
 “With _some_ money down,” I replied, for an uneasy remembrance shot
-across me of that symmetrical bundle of papers at home—“with _some_
+across me of that symmetrical bundle of papers at [[Home|home]]—“with _some_
 money down, and perhaps some anticipation of my expectations.”
 
 “Mr. Pip,” said Wemmick, “I should like just to run over with you on my
 fingers, if you please, the names of the various bridges up as high as
-Chelsea Reach. Let’s see; there’s London, one; Southwark, two;
+Chelsea Reach. Let’s see; there’s [[London]], one; Southwark, two;
 Blackfriars, three; Waterloo, four; Westminster, five; Vauxhall, six.”
 He had checked off each bridge in its turn, with the handle of his
 safe-key on the palm of his hand. “There’s as many as six, you see, to
@@ -301,13 +301,13 @@ another. They must not be confounded together. My Walworth sentiments
 must be taken at Walworth; none but my official sentiments can be taken
 in this office.”
 
-“Very well,” said I, much relieved, “then I shall look you up at
+“Very [[Well|well]],” said I, much relieved, “then I shall look you up at
 Walworth, you may depend upon it.”
 
 “Mr. Pip,” he returned, “you will be welcome there, in a private and
 personal capacity.”
 
-We had held this conversation in a low voice, well knowing my
+We had held this conversation in a low voice, [[Well|well]] knowing my
 guardian’s ears to be the sharpest of the sharp. As he now appeared in
 his doorway, towelling his hands, Wemmick got on his great-coat and
 stood by to snuff out the candles. We all three went into the street
@@ -321,7 +321,7 @@ consideration on a twenty-first birthday, that coming of age at all
 seemed hardly worth while in such a guarded and suspicious world as he
 made of it. He was a thousand times better informed and cleverer than
 Wemmick, and yet I would a thousand times rather have had Wemmick to
-dinner. And Mr. Jaggers made not me alone intensely melancholy,
+dinner. And Mr. Jaggers made not me [[Alone|alone]] intensely [[Melancholy|melancholy]],
 because, after he was gone, Herbert said of himself, with his eyes
-fixed on the fire, that he thought he must have committed a felony and
+fixed on the [[Fire|fire]], that he thought he must have committed a felony and
 forgotten the details of it, he felt so dejected and guilty.

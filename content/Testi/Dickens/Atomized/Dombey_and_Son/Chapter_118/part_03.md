@@ -20,16 +20,16 @@ He only answers, “Little Florence! little Florence!” and smooths away
 the curls that shade her earnest eyes.
 
 The voices in the waves speak low to him of Florence, day and
-night—plainest when he, his blooming daughter, and her husband, beside
-them in the evening, or sit at an open window, listening to their roar.
+[[Night|night]]—plainest when he, his blooming daughter, and her husband, beside
+them in the evening, or sit at an open [[Window|window]], listening to their roar.
 They speak to him of Florence and his altered heart; of Florence and
-their ceaseless murmuring to her of the love, eternal and illimitable,
+their ceaseless murmuring to her of the [[Love|love]], eternal and illimitable,
 extending still, beyond the sea, beyond the sky, to the invisible
 country far away.
 
 Never from the mighty sea may voices rise too late, to come between us
 and the unseen region on the other shore! Better, far better, that they
-whispered of that region in our childish ears, and the swift river
+whispered of that region in our childish ears, and the swift [[River|river]]
 hurried us away!
 
 
@@ -40,11 +40,11 @@ PREFACE OF 1848
 
 I cannot forego my usual opportunity of saying farewell to my readers
 in this greeting-place, though I have only to acknowledge the unbounded
-warmth and earnestness of their sympathy in every stage of the journey
+warmth and earnestness of their sympathy in every stage of the [[Journey|journey]]
 we have just concluded.
 
 If any of them have felt a sorrow in one of the principal incidents on
-which this fiction turns, I hope it may be a sorrow of that sort which
+which this fiction turns, I [[Hope|hope]] it may be a sorrow of that sort which
 endears the sharers in it, one to another. This is not unselfish in me.
 I may claim to have felt it, at least as much as anybody else; and I
 would fain be remembered kindly for my part in the experience.
@@ -64,7 +64,7 @@ correctly observing so much as the faces of men, is a general one by
 any means. The two commonest mistakes in judgement that I suppose to
 arise from the former default, are, the confounding of shyness with
 arrogance—a very common mistake indeed—and the not understanding that
-an obstinate nature exists in a perpetual struggle with itself.
+an obstinate [[Nature|nature]] exists in a perpetual struggle with itself.
 
 Mr Dombey undergoes no violent change, either in this book, or in real
 life. A sense of his injustice is within him, all along. The more he
@@ -77,12 +77,12 @@ I began this book by the Lake of Geneva, and went on with it for some
 months in France, before pursuing it in England. The association
 between the writing and the place of writing is so curiously strong in
 my mind, that at this day, although I know, in my fancy, every stair in
-the little midshipman’s house, and could swear to every pew in the
+the little midshipman’s [[house]], and could swear to every pew in the
 church in which Florence was married, or to every young gentleman’s
 bedstead in Doctor Blimber’s establishment, I yet confusedly imagine
-Captain Cuttle as secluding himself from Mrs MacStinger among the
-mountains of Switzerland. Similarly, when I am reminded by any chance
+[[Captain Cuttle]] as secluding himself from Mrs MacStinger among the
+[[Mountains|mountains]] of Switzerland. Similarly, when I am reminded by any chance
 of what it was that the waves were always saying, my remembrance
-wanders for a whole winter night about the streets of Paris—as I
-restlessly did with a heavy heart, on the night when I had written the
+wanders for a whole [[Winter|winter]] [[Night|night]] about the streets of [[Paris]]—as I
+restlessly did with a heavy heart, on the [[Night|night]] when I had written the
 chapter in which my little friend and I parted company.

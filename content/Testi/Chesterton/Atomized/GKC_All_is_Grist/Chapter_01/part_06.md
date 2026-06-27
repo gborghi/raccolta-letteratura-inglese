@@ -107,7 +107,7 @@ But, when all is said, there is no comparison between the two cases.
 Any number of people did really attack the study of biology, in order
 to agree or disagree with Darwin.  Hardly one person in a thousand thought
 of attacking the higher mathematics in order to agree with Einstein.
-People did talk about Darwinism as well as about Darwin.
+People did talk about Darwinism as [[Well|well]] as about Darwin.
 Most of those who talk about Einstein talk about Einstein.
 They know nothing but the name and the notion that something very
 important has happened in connexion with the name.  The talk about Darwin

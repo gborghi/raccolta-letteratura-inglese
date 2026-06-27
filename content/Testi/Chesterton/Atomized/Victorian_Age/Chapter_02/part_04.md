@@ -50,13 +50,13 @@ can easily be seen by comparing her with a greater woman who died before
 
 the beginning of our present problem. Jane Austen was born before those
 
-bonds which (we are told) protected woman from truth, were burst by the
+bonds which (we are told) protected woman from [[Truth|truth]], were burst by the
 
 Brontës or elaborately untied by George Eliot. Yet the fact remains that
 
 Jane Austen knew much more about men than either of them. Jane Austen
 
-may have been protected from truth: but it was precious little of truth
+may have been protected from [[Truth|truth]]: but it was precious little of [[Truth|truth]]
 
 that was protected from her. When Darcy, in finally confessing his
 
@@ -78,11 +78,11 @@ nationalities.
 
 The Brontës suggest themselves here; because their superficial
 
-qualities, the qualities that can be seized upon in satire, were in this
+qualities, the qualities that can be seized upon in [[Satire|satire]], were in this
 
 an exaggeration of what was, in George Eliot, hardly more than an
 
-omission. There was perhaps a time when Mr. Rawjester was more widely
+omission. There was perhaps a [[Time|time]] when Mr. Rawjester was more widely
 
 known than Mr. Rochester. And certainly Mr. Rochester (to adopt the
 
@@ -104,9 +104,9 @@ novelists make the men bully the women?" It is, I think, unquestionably
 
 true that the Brontës treated the male as an almost anarchic thing
 
-coming in from outside nature; much as people on this planet regard a
+coming in from outside [[Nature|nature]]; much as people on this planet regard a
 
-comet. Even the really delicate and sustained comedy of Paul Emanuel is
+comet. Even the really delicate and sustained [[Comedy|comedy]] of [[Paul Emanuel]] is
 
 not quite free from this air of studying something alien. The reply may
 
@@ -118,9 +118,9 @@ is probably just.
 
 What the Brontës really brought into fiction was exactly what Carlyle
 
-brought into history; the blast of the mysticism of the North. They were
+brought into [[history]]; the blast of the mysticism of the North. They were
 
-of Irish blood settled on the windy heights of Yorkshire; in that
+of Irish [[Blood|blood]] settled on the windy heights of Yorkshire; in that
 
 country where Catholicism lingered latest, but in a superstitious form;
 
@@ -146,11 +146,11 @@ rather as the Late Victorian Imperialism would have been to Mrs. Humphry
 
 Ward in the centre of the empire and to Miss Olive Schreiner at the edge
 
-of it. The real strength there is in characters like Robert Moore, when
+of it. The real strength there is in characters like [[Robert Moore]], when
 
-he is dealing with anything except women, is the romance of industry in
+he is dealing with anything except women, is the [[Romance|romance]] of industry in
 
-its first advance: a romance that has not remained. On such fighting
+its first advance: a [[Romance|romance]] that has not remained. On such fighting
 
 frontiers people always exaggerate the strong qualities the masculine
 
@@ -174,13 +174,13 @@ than an original person; perhaps an origin. But so far as her written
 
 works go she enters English letters only as an original person--and
 
-rather a narrow one. Her imagination was sometimes superhuman--always
+rather a narrow one. Her [[Imagination|imagination]] was sometimes superhuman--always
 
 inhuman. _Wuthering Heights_ might have been written by an eagle. She is
 
 the strongest instance of these strong imaginations that made the other
 
-sex a monster: for Heathcliffe fails as a man as catastrophically as he
+sex a [[Monster|monster]]: for Heathcliffe fails as a man as catastrophically as he
 
 succeeds as a demon. I think Emily Brontë was further narrowed by the
 
@@ -194,4 +194,4 @@ In any case, it is Charlotte Brontë who enters Victorian literature. The
 
 shortest way of stating her strong contribution is, I think, this: that
 
-she reached the highest romance through the lowest realism. She did not
+she reached the highest [[Romance|romance]] through the lowest realism. She did not

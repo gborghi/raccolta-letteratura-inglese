@@ -24,7 +24,7 @@ the common objection our worthy enemies make
 against our polygamy?  That it is disdainful of the
 womanhood.  But how can this be so, my friends,
 when it allows the womanhood to be present in so
-large numbers?  When in your House of Commons
+large numbers?  When in your [[house|House]] of Commons
 you put a hundred English members and joost one little
 Welsh member, you do not say 'The Welshman is on
 top; he is our Sultan; may he live for ever!'  If your
@@ -44,23 +44,23 @@ The door of the hall stood open, and occasional
 sounds came even from that deserted end of the town.
 Two men seemed to be passing along the distant
 parade; one of them was singing.  It was common enough
-for workmen to sing going home at night, and the
+for workmen to sing going [[Home|home]] at [[Night|night]], and the
 voice, though a loud one, would have been too far off
 for Joan to hear the words.  Only Joan happened to
 know the words.  She could almost see them before
 her, written in a round swaggering hand on the pink
-page of an old school-girl album at home.  She knew
+page of an old school-girl album at [[Home|home]].  She knew
 the words and the voice.
 
 "I come from Castlepatrick and my heart is on my sleeve,
- And any sword or pistol boy can hit ut with me leave,
+ And any [[Sword|sword]] or [[Pistol|pistol]] boy can hit ut with me leave,
  It shines there for an epaulette, as golden as a flame,
  As naked as me ancestors, as noble as me name.
  For I come from Castlepatrick and my heart is on my
     sleeve,
  But a lady stole it from me on St. Gallowglass's Eve."
 
-Startlingly and with strong pain there sprang up
+Startlingly and with strong [[Pain|pain]] there sprang up
 before Joan's eyes a patch of broken heath with a very
 deep hollow of white sand, blinding in the sun.  No
 words, no name, only the place.
@@ -68,7 +68,7 @@ words, no name, only the place.
 "The folks that live in Liverpool, their heart is in their boots;
  They go to Hell like lambs, they do, because the hooter hoots.
  Where men may not be dancin', though the wheels may
-    dance all day;
+    [[Dance|dance]] all day;
  And men may not be smokin', but only chimneys may.
  But I come from Castlepatrick and my heart is on my
     sleeve,
@@ -99,7 +99,7 @@ will not refu-use either this great social experiment,
 this great polygamical method which also arose out
 of the East, and always returns.  For this is that
 Higher Polygamy which always comes, like the sun
-itself, out of the orient, but is only at its noontide
+itself, out of the [[Orient|orient]], but is only at its noontide
 splendour when the sun is high in heaven."
 
 She was but vaguely conscious of Mr. Leveson, the
@@ -108,9 +108,9 @@ the entrancing lecture in suitable terms, and
 calling on any of the Simple Souls who might have
 questions to ask, to ask them.  It was only when the
 Simple Souls had displayed their simplicity with the
-usual parade of well-bred reluctance and fussy self-effacement, that anyone addressed the chair.  And it
+usual parade of [[Well|well]]-bred reluctance and fussy [[Self|self]]-effacement, that anyone addressed the chair.  And it
 was only after somebody had been addressing the
-chair for some time that Joan gradually awoke to the
+chair for some [[Time|time]] that Joan gradually awoke to the
 fact that the address was somewhat unusual.
 
 * * *

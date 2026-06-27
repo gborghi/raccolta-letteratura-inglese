@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 26 (part 3)"
+title: "[[Great Expectations]] — Chapter 26 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -24,7 +24,7 @@ being a lively, bright young fellow, and Drummle being the exact
 opposite, the latter was always disposed to resent him as a direct
 personal affront. He now retorted in a coarse, lumpish way, and Startop
 tried to turn the discussion aside with some small pleasantry that made
-us all laugh. Resenting this little success more than anything,
+us all laugh. Resenting this little [[success]] more than anything,
 Drummle, without any threat or warning, pulled his hands out of his
 pockets, dropped his round shoulders, swore, took up a large glass, and
 would have flung it at his adversary’s head, but for our entertainer’s
@@ -35,12 +35,12 @@ purpose.
 hauling out his gold repeater by its massive chain, “I am exceedingly
 sorry to announce that it’s half past nine.”
 
-On this hint we all rose to depart. Before we got to the street door,
+On this hint we all [[Rose|rose]] to depart. Before we got to the street door,
 Startop was cheerily calling Drummle “old boy,” as if nothing had
 happened. But the old boy was so far from responding, that he would not
 even walk to Hammersmith on the same side of the way; so Herbert and I,
 who remained in town, saw them going down the street on opposite sides;
-Startop leading, and Drummle lagging behind in the shadow of the
+Startop leading, and Drummle lagging behind in the [[Shadow|shadow]] of the
 houses, much as he was wont to follow in his boat.
 
 As the door was not yet shut, I thought I would leave Herbert there for
@@ -53,7 +53,7 @@ disagreeable should have occurred, and that I hoped he would not blame
 me much.
 
 “Pooh!” said he, sluicing his face, and speaking through the
-water-drops; “it’s nothing, Pip. I like that Spider though.”
+[[Water|water]]-drops; “it’s nothing, Pip. I like that Spider though.”
 
 He had turned towards me now, and was shaking his head, and blowing,
 and towelling himself.
@@ -68,10 +68,10 @@ Looking out of the towel, he caught my eye.
 
 “But I am not a fortune-teller,” he said, letting his head drop into a
 festoon of towel, and towelling away at his two ears. “You know what I
-am, don’t you? Good night, Pip.”
+am, don’t you? Good [[Night|night]], Pip.”
 
-“Good night, sir.”
+“Good [[Night|night]], sir.”
 
-In about a month after that, the Spider’s time with Mr. Pocket was up
-for good, and, to the great relief of all the house but Mrs. Pocket, he
-went home to the family hole.
+In about a month after that, the Spider’s [[Time|time]] with Mr. Pocket was up
+for good, and, to the great relief of all the [[house]] but Mrs. Pocket, he
+went [[Home|home]] to the family hole.

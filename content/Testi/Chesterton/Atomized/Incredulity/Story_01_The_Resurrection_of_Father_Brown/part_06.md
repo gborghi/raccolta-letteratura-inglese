@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Resurrection of Father Brown (part 6)"
+title: "[[Incredulity]] — The [[Resurrection]] of [[Father Brown]] (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -28,7 +28,7 @@ Nothing in it.'
 As he turned away from his effort, he tottered a little with the reaction,
 and John Race caught him by the arm.
 
-`Let me see you home,' he said; `you deserve more than these people
+`Let me see you [[Home|home]],' he said; `you deserve more than these people
 are giving you.'
 
 John Race and the priest were seated in the presbytery; the table
@@ -36,14 +36,14 @@ was still piled up with the papers with which the latter had been
 wrestling the day before; the bottle of wine and the emptied wine--
 glass still stood where he had left them.
 
-`And now,' said Father Brown almost grimly, `I can begin to think.'
+`And now,' said [[Father Brown]] almost grimly, `I can begin to think.'
 
 `I shouldn't think too hard just yet,' said the American.
 `You must be wanting a rest.  Besides, what are you going
 to think about?'
 
 `I have pretty often had the task of investigating murders,
-as it happens,' said Father Brown.  `Now I have got to investigate
+as it happens,' said [[Father Brown]].  `Now I have got to investigate
 my own murder.'
 
 `If I were you,' said Race, `I should take a little wine first.'
@@ -58,7 +58,7 @@ but my feeling was one of overwhelming astonishment.'
 `Well,' answered Race, `I suppose you were astonished at being
 knocked on the head.'
 
-Father Brown leaned over to him and said in a low voice,
+[[Father Brown]] leaned over to him and said in a low voice,
 `I was astonished at not being knocked on the head.'
 
 Race looked at him for a moment as if he thought the knock
@@ -85,8 +85,8 @@ Race picked up the wine--glass and looked at it and smelt it.
 `I think you are right,' he said.  `I began as a druggist and
 studied chemistry.  I couldn't say for certain without an analysis;
 but I think there's something very unusual in this stuff.
-There are drugs by which the Asiatics produce a temporary sleep
-that looks like death.'
+There are drugs by which the Asiatics produce a temporary [[Sleep|sleep]]
+that looks like [[Death|death]].'
 
 `Quite so,' said the priest calmly.'  The whole of this miracle was faked,
 for some reason or other.  That funeral scene was staged--and timed.
@@ -102,7 +102,7 @@ towards the door.
 
 `Where are you going?' asked the other in some wonder.
 
-`If you ask me,' said Father Brown, who was quite white,
+`If you ask me,' said [[Father Brown]], who was quite white,
 `I was going to pray.  Or rather, to praise.'
 
 `I'm not sure I understand.  What is the matter with you?'
@@ -118,14 +118,14 @@ Of course, you would thank God for saving you from death.'
 
 The other sat staring; and the priest's next words broke out of
 him with a sort of cry.  `And if it had only been my disgrace!
-But it was the disgrace of all I stand for; the disgrace of the Faith
+But it was the disgrace of all I stand for; the disgrace of the [[Faith]]
 that they went about to encompass.  What it might have been!
 The most huge and horrible scandal ever launched against us
 since the last lie was choked in the throat of Titus Oates.'
 
 `What on earth are you talking about?' demanded his companion.
 
-`Well, I had better tell you at once,' said the priest;
+`[[Well]], I had better tell you at once,' said the priest;
 and sitting down, he went on more composedly:  `It came to me
 in a flash when I happened to mention Snaith and Sherlock Holmes.
 Now I happen to remember what I wrote about his absurd scheme;
@@ -136,7 +136,7 @@ again like Sherlock Holmes, if that is the best way.'
 And the moment I thought of that, I realized that I
 had been made to write all sorts of things of that kind,
 all pointing to the same idea.  I wrote, as if to an accomplice,
-saying that I would drink the drugged wine at a particular time.
+saying that I would drink the drugged wine at a particular [[Time|time]].
 Now, don't you see?'
 
 Race sprang to his feet still staring:  `Yes,' he said,
@@ -180,6 +180,6 @@ would have the sanity and the simplicity and the humility
 to--` He was much surprised to find himself moved, and his
 level voice wavering.
 
-Father Brown was gazing abstractedly, and in a rather cockeyed fashion,
+[[Father Brown]] was gazing abstractedly, and in a rather cockeyed fashion,
 at the bottle on the table.  `Look here,' he said, ` what about a bottle
 of real wine?'

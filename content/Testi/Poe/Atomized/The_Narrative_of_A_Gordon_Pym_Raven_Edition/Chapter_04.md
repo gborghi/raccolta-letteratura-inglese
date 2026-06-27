@@ -34,7 +34,7 @@ CHAPTER 4
 
       risk of having the secret of the trap discovered. When at length
 
-      he did come, I had assured him that I was doing as well as
+      he did come, I had assured him that I was doing as [[Well|well]] as
 
       possible; and, therefore, for the two next days he felt but
 
@@ -68,7 +68,7 @@ CHAPTER 4
 
       watch, and the seventh since I had first entered the hold. He
 
-      then went down without taking with him any water or provisions,
+      then went down without taking with him any [[Water|water]] or provisions,
 
       intending in the first place merely to call my attention, and get
 
@@ -98,7 +98,7 @@ CHAPTER 4
 
       long period during which the brig had been used as a whaling
 
-      vessel, I am more inclined to wonder that I awoke at all, after
+      vessel, I am more inclined to [[Wonder|wonder]] that I awoke at all, after
 
       once falling asleep, than that I should have slept
 
@@ -114,7 +114,7 @@ CHAPTER 4
 
       continued to snore. He was now at a loss what to do. It would
 
-      take him some time to make his way through the lumber to my box,
+      take him some [[Time|time]] to make his way through the lumber to my box,
 
       and in the meanwhile his absence would be noticed by Captain
 
@@ -128,7 +128,7 @@ CHAPTER 4
 
       induced to this resolve, as my slumber appeared to be of the most
 
-      tranquil nature, and he could not suppose that I had undergone
+      tranquil [[Nature|nature]], and he could not suppose that I had undergone
 
       any inconvenience from my incarceration. He had just made up his
 
@@ -140,7 +140,7 @@ CHAPTER 4
 
       it, and threw open the door of his stateroom. No sooner had he
 
-      put his foot over the threshold than a pistol flashed in his
+      put his foot over the threshold than a [[Pistol|pistol]] flashed in his
 
       face, and he was knocked down, at the same moment, by a blow from
 
@@ -156,7 +156,7 @@ CHAPTER 4
 
       the steps of the companion-way, with his head down, and a deep
 
-      wound in the forehead, from which the blood was flowing in a
+      wound in the forehead, from which the [[Blood|blood]] was flowing in a
 
       continued stream. He spoke not a word, and was apparently dying.
 
@@ -198,11 +198,11 @@ CHAPTER 4
 
       axe. The poor fellow fell to the deck without a groan, and the
 
-      black cook lifted him up in his arms as he would a child, and
+      black cook lifted him up in his arms as he would a [[Child|child]], and
 
       tossed him deliberately into the sea. Hearing the blow and the
 
-      plunge of the body, the men below could now be induced to venture
+      plunge of the [[Body|body]], the men below could now be induced to venture
 
       on deck neither by threats nor promises, until a proposition was
 
@@ -218,7 +218,7 @@ CHAPTER 4
 
       arms, submitted after a brief struggle. The mate gave them fair
 
-      words—no doubt with a view of inducing those below to yield, for
+      words—no [[Doubt|doubt]] with a view of inducing those below to yield, for
 
       they had no difficulty in hearing all that was said on deck. The
 
@@ -274,7 +274,7 @@ CHAPTER 4
 
       who seemed to exert as much influence, if not more, than the mate
 
-      himself), would listen to no proposition of the kind, and rose
+      himself), would listen to no proposition of the kind, and [[Rose|rose]]
 
       repeatedly for the purpose of resuming his work at the gangway.
 
@@ -292,7 +292,7 @@ CHAPTER 4
 
       believe, or at least connected in some manner with the Indian
 
-      trading-posts on Lewis river. Peters himself was one of the most
+      trading-posts on Lewis [[River|river]]. Peters himself was one of the most
 
       ferocious-looking men I ever beheld. He was short in stature, not
 
@@ -300,13 +300,13 @@ CHAPTER 4
 
       Herculean mould. His hands, especially, were so enormously thick
 
-      and broad as hardly to retain a human shape. His arms, as well as
+      and broad as hardly to retain a human shape. His arms, as [[Well|well]] as
 
       legs, were bowed in the most singular manner, and appeared to
 
       possess no flexibility whatever. His head was equally deformed,
 
-      being of immense size, with an indentation on the crown (like
+      being of immense size, with an indentation on the [[Crown|crown]] (like
 
       that on the head of most negroes), and entirely bald. To conceal
 
@@ -316,7 +316,7 @@ CHAPTER 4
 
       presented itself—occasionally the skin of a Spanish dog or
 
-      American grizzly bear. At the time spoken of, he had on a portion
+      American grizzly bear. At the [[Time|time]] spoken of, he had on a portion
 
       of one of these bearskins; and it added no little to the natural
 
@@ -350,9 +350,9 @@ CHAPTER 4
 
       strength when under excitement, and some of them had given rise
 
-      to a doubt of his sanity. But on board the Grampus, it seems, he
+      to a [[Doubt|doubt]] of his [[Sanity|sanity]]. But on board the Grampus, it seems, he
 
-      was regarded, at the time of the mutiny, with feelings more of
+      was regarded, at the [[Time|time]] of the mutiny, with feelings more of
 
       derision than of anything else. I have been thus particular in
 
@@ -366,7 +366,7 @@ CHAPTER 4
 
       say, which, in its latter portions, will be found to include
 
-      incidents of a nature so entirely out of the range of human
+      incidents of a [[Nature|nature]] so entirely out of the range of human
 
       experience, and for this reason so far beyond the limits of human
 
@@ -374,7 +374,7 @@ CHAPTER 4
 
       credence for all that I shall tell, yet confidently trusting in
 
-      time and progressing science to verify some of the most important
+      [[Time|time]] and progressing science to verify some of the most important
 
       and most improbable of my statements.
 
@@ -394,7 +394,7 @@ CHAPTER 4
 
       below when the mutineers came up. Presently the two made their
 
-      appearance, the captain pale as death, but somewhat recovered
+      appearance, the captain pale as [[Death|death]], but somewhat recovered
 
       from the effects of his wound. He spoke to the men in a voice
 
@@ -404,7 +404,7 @@ CHAPTER 4
 
       chose, and to take no steps for bringing them to justice. He
 
-      might as well have spoken to the winds. Two of the ruffians
+      might as [[Well|well]] have spoken to the winds. Two of the ruffians
 
       seized him by the arms and hurled him over the brig’s side into
 
@@ -420,19 +420,19 @@ CHAPTER 4
 
       of being permitted to bid his father farewell. A handful of
 
-      sea-biscuit and a jug of water were now handed down; but neither
+      sea-biscuit and a jug of [[Water|water]] were now handed down; but neither
 
       mast, sail, oar, nor compass. The boat was towed astern for a few
 
       minutes, during which the mutineers held another consultation—it
 
-      was then finally cut adrift. By this time night had come on—there
+      was then finally cut adrift. By this [[Time|time]] [[Night|night]] had come on—there
 
-      were neither moon nor stars visible—and a short and ugly sea was
+      were neither [[Moon|moon]] nor [[Stars|stars]] visible—and a short and ugly sea was
 
-      running, although there was no great deal of wind. The boat was
+      running, although there was no great deal of [[Wind|wind]]. The boat was
 
-      instantly out of sight, and little hope could be entertained for
+      instantly out of sight, and little [[Hope|hope]] could be entertained for
 
       the unfortunate sufferers who were in it. This event happened,
 
@@ -456,7 +456,7 @@ CHAPTER 4
 
       some piratical expedition, in which, from all that could be
 
-      understood, a ship was to be intercepted on her way from the Cape
+      understood, a [[Ship|ship]] was to be intercepted on her way from the Cape
 
       Verd Islands to Porto Rico. No attention was paid to Augustus,
 
@@ -476,7 +476,7 @@ CHAPTER 4
 
       distressing result of his condition; and, indeed, I had never
 
-      reason to doubt the sincerity of his friendship. More than once
+      reason to [[Doubt|doubt]] the sincerity of his [[Friendship|friendship]]. More than once
 
       he had resolved to acquaint the mutineers with the secret of my
 
@@ -484,7 +484,7 @@ CHAPTER 4
 
       recollection of the atrocities he had already beheld, and partly
 
-      through a hope of being able soon to bring me relief. For the
+      through a [[Hope|hope]] of being able soon to bring me relief. For the
 
       latter purpose he was constantly on the watch; but, in spite of
 
@@ -492,7 +492,7 @@ CHAPTER 4
 
       was cut adrift before any chance occurred. At length, on the
 
-      night of the third day, there came on a heavy blow from the
+      [[Night|night]] of the third day, there came on a heavy blow from the
 
       eastward, and all hands were called up to take in sail. During
 
@@ -502,7 +502,7 @@ CHAPTER 4
 
       that the latter had been rendered a place of deposit for a
 
-      variety of sea-stores and ship-furniture, and that several
+      variety of sea-stores and [[Ship|ship]]-furniture, and that several
 
       fathoms of old chain-cable, which had been stowed away beneath
 

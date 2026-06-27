@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 22 (part 1)"
+title: "[[Northanger Abbey]] — Chapter 22 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -20,15 +20,15 @@ CHAPTER 22
 
 
 
-The housemaid’s folding back her window-shutters at eight o’clock the
+The housemaid’s folding back her [[Window|window]]-shutters at eight o’[[Clock|clock]] the
 
 next day was the sound which first roused Catherine; and she opened her
 
 eyes, wondering that they could ever have been closed, on objects of
 
-cheerfulness; her fire was already burning, and a bright morning had
+cheerfulness; her [[Fire|fire]] was already burning, and a bright morning had
 
-succeeded the tempest of the night. Instantaneously, with the
+succeeded the tempest of the [[Night|night]]. Instantaneously, with the
 
 consciousness of existence, returned her recollection of the
 
@@ -78,7 +78,7 @@ then suppose, by the negligence of a servant in the place whence she
 
 had taken them) which had filled her with expectation and alarm, and
 
-robbed her of half her night’s rest! she felt humbled to the dust.
+robbed her of half her [[Night|night]]’s rest! she felt humbled to the [[Dust|dust]].
 
 Could not the adventure of the chest have taught her wisdom? A corner
 
@@ -108,7 +108,7 @@ smallest curiosity about it. This was the only comfort that occurred.
 
 Impatient to get rid of those hateful evidences of her folly, those
 
-detestable papers then scattered over the bed, she rose directly, and
+detestable papers then scattered over the bed, she [[Rose|rose]] directly, and
 
 folding them up as nearly as possible in the same shape as before,
 
@@ -136,13 +136,13 @@ fastener, darted into her head, and cost her another blush.
 
 She got away as soon as she could from a room in which her conduct
 
-produced such unpleasant reflections, and found her way with all speed
+produced such unpleasant reflections, and found her way with all [[Speed|speed]]
 
 to the breakfast-parlour, as it had been pointed out to her by Miss
 
-Tilney the evening before. Henry was alone in it; and his immediate
+Tilney the evening before. Henry was [[Alone|alone]] in it; and his immediate
 
-hope of her having been undisturbed by the tempest, with an arch
+[[Hope|hope]] of her having been undisturbed by the tempest, with an arch
 
 reference to the character of the building they inhabited, was rather
 
@@ -150,13 +150,13 @@ distressing. For the world would she not have her weakness suspected,
 
 and yet, unequal to an absolute falsehood, was constrained to
 
-acknowledge that the wind had kept her awake a little. “But we have a
+acknowledge that the [[Wind|wind]] had kept her awake a little. “But we have a
 
 charming morning after it,” she added, desiring to get rid of the
 
 subject; “and storms and sleeplessness are nothing when they are over.
 
-What beautiful hyacinths! i have just learnt to love a hyacinth.”
+What beautiful hyacinths! i have just learnt to [[Love|love]] a hyacinth.”
 
 
 
@@ -170,23 +170,23 @@ pains, year after year, to make me like them; but I never could, till I
 
 saw them the other day in Milsom Street; I am naturally indifferent
 
-about flowers.”
+about [[Flowers|flowers]].”
 
 
 
-“But now you love a hyacinth. So much the better. You have gained a new
+“But now you [[Love|love]] a hyacinth. So much the better. You have gained a new
 
-source of enjoyment, and it is well to have as many holds upon
+source of enjoyment, and it is [[Well|well]] to have as many holds upon
 
-happiness as possible. Besides, a taste for flowers is always desirable
+happiness as possible. Besides, a taste for [[Flowers|flowers]] is always desirable
 
 in your sex, as a means of getting you out of doors, and tempting you
 
 to more frequent exercise than you would otherwise take. And though the
 
-love of a hyacinth may be rather domestic, who can tell, the sentiment
+[[Love|love]] of a hyacinth may be rather domestic, who can tell, the sentiment
 
-once raised, but you may in time come to love a rose?”
+once raised, but you may in [[Time|time]] come to [[Love|love]] a [[Rose|rose]]?”
 
 
 
@@ -194,15 +194,15 @@ once raised, but you may in time come to love a rose?”
 
 pleasure of walking and breathing fresh air is enough for me, and in
 
-fine weather I am out more than half my time. Mamma says I am never
+fine weather I am out more than half my [[Time|time]]. Mamma says I am never
 
 within.”
 
 
 
-“At any rate, however, I am pleased that you have learnt to love a
+“At any rate, however, I am pleased that you have learnt to [[Love|love]] a
 
-hyacinth. The mere habit of learning to love is the thing; and a
+hyacinth. The mere habit of learning to [[Love|love]] is the thing; and a
 
 teachableness of disposition in a young lady is a great blessing. Has
 

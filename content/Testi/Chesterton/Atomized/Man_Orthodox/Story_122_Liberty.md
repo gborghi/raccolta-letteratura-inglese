@@ -21,7 +21,7 @@ only learned in extreme old age is this; that the life
 of a commonwealth is its liberty.  This very word liberty
 is old-fashioned. You have hardly heard it seriously mentioned
 as an ideal since the days of Byron and Miss Jane Porter.
-Now the reason why people in that time talked about liberty
+Now the reason why people in that [[Time|time]] talked about liberty
 was quite simple; it was that they had some.  They had tasted,
 they had even drunk, the dreadful wine.  ...
 
@@ -30,8 +30,8 @@ I am more and more convinced that we have to ask again the old question,
 it will always, I think, be a great country; it is everywhere
 a humorous and in some patches a happy country; and anyhow, it is my
 country and that is enough for me.  But it is not a free country.
-For some time past it has been losing, first slowly but now rapidly,
-the last vestiges of that particular thing called freedom.
+For some [[Time|time]] past it has been losing, first slowly but now rapidly,
+the last vestiges of that particular thing called [[Freedom|freedom]].
 
 Loyalty is the heart of the commonwealth; but liberty is its lungs.
 You find out the necessity of liberty as you find out the necessity

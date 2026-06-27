@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 13"
+title: "[[thursday]] — Chapter 13"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/thursday-(Chesterton)"
@@ -34,46 +34,46 @@ enemy as fellow-conspirators.
 
 Syme had to explain how they had fled with such swiftness
 through a civilised country.  But above all these matters
-of detail which could be explained, rose the central mountain
+of detail which could be explained, [[Rose|rose]] the central mountain
 of the matter that they could not explain.  What did it all mean?
-If they were all harmless officers, what was Sunday?  If he had
+If they were all harmless officers, what was [[Sunday]]?  If he had
 not seized the world, what on earth had he been up to?
 Inspector Ratcliffe was still gloomy about this.
 
-"I can't make head or tail of old Sunday's little game any more than you can,"
-he said.  "But whatever else Sunday is, he isn't a blameless citizen.
+"I can't make head or tail of old [[Sunday]]'s little game any more than you can,"
+he said.  "But whatever else [[Sunday]] is, he isn't a blameless citizen.
 Damn it! do you remember his face?"
 
 "I grant you," answered Syme, "that I have never been able to forget it."
 
-"Well," said the Secretary, "I suppose we can find out soon,
+"[[Well]]," said the Secretary, "I suppose we can find out soon,
 for to-morrow we have our next general meeting.  You will excuse me,"
-he said, with a rather ghastly smile, "for being well acquainted
+he said, with a rather ghastly smile, "for being [[Well|well]] acquainted
 with my secretarial duties."
 
-"I suppose you are right," said the Professor reflectively.
+"I suppose you are right," said [[The Professor|the Professor]] reflectively.
 "I suppose we might find it out from him; but I confess that I
-should feel a bit afraid of asking Sunday who he really is."
+should feel a bit afraid of asking [[Sunday]] who he really is."
 
-"Why," asked the Secretary, "for fear of bombs?"
+"Why," asked the Secretary, "for [[Fear|fear]] of bombs?"
 
-"No," said the Professor, "for fear he might tell me."
+"No," said [[The Professor|the Professor]], "for [[Fear|fear]] he might tell me."
 
-"Let us have some drinks," said Dr. Bull, after a silence.
+"Let us have some drinks," said Dr. Bull, after a [[Silence|silence]].
 
-Throughout their whole journey by boat and train they were
+Throughout their whole [[Journey|journey]] by boat and train they were
 highly convivial, but they instinctively kept together.
 Dr. Bull, who had always been the optimist of the party,
 endeavoured to persuade the other four that the whole
 company could take the same hansom cab from Victoria;
 but this was over-ruled, and they went in a four-wheeler,
-with Dr. Bull on the box, singing.  They finished their journey
+with Dr. Bull on the box, singing.  They finished their [[Journey|journey]]
 at an hotel in Piccadilly Circus, so as to be close to the early
 breakfast next morning in Leicester Square.  Yet even
 then the adventures of the day were not entirely over.
 Dr. Bull, discontented with the general proposal to go to bed,
 had strolled out of the hotel at about eleven to see and taste
-some of the beauties of London.  Twenty minutes afterwards,
+some of the beauties of [[London]].  Twenty minutes afterwards,
 however, he came back and made quite a clamour in the hall.
 Syme, who tried at first to soothe him, was forced at last
 to listen to his communication with quite new attention.
@@ -108,10 +108,10 @@ to ask one man what he means."
 "I think it is a bit queerer than that," said Syme.  "I think
 it is six men going to ask one man what they mean."
 
-They turned in silence into the Square, and though
+They turned in [[Silence|silence]] into the Square, and though
 the hotel was in the opposite corner, they saw at once
 the little balcony and a figure that looked too big for it.
-He was sitting alone with bent head, poring over a newspaper.
+He was sitting [[Alone|alone]] with bent head, poring over a newspaper.
 But all his councillors, who had come to vote him down,
 crossed that Square as if they were watched out of heaven
 by a hundred eyes.
@@ -121,14 +121,14 @@ should leave the unmasked Gogol without and begin diplomatically,
 or whether they should bring him in and blow up the gunpowder at once.
 The influence of Syme and Bull prevailed for the latter course,
 though the Secretary to the last asked them why they attacked
-Sunday so rashly.
+[[Sunday]] so rashly.
 
 "My reason is quite simple," said Syme.  "I attack him rashly
 because I am afraid of him."
 
-They followed Syme up the dark stair in silence, and they all came
+They followed Syme up the dark stair in [[Silence|silence]], and they all came
 out simultaneously into the broad sunlight of the morning and the broad
-sunlight of Sunday's smile.
+sunlight of [[Sunday]]'s smile.
 
 "Delightful!" he said.  "So pleased to see you all.
 What an exquisite day it is.  Is the Czar dead?"
@@ -157,36 +157,36 @@ Look at my face."
 "in fact, it grows on you; and who am I to quarrel with the wild fruits
 upon the Tree of Life?  I dare say it will grow on me some day."
 
-"We have no time for tomfoolery," said the Secretary, breaking in savagely.
+"We have no [[Time|time]] for tomfoolery," said the Secretary, breaking in savagely.
 "We have come to know what all this means.  Who are you?  What are you?
 Why did you get us all here?  Do you know who and what we are?
 Are you a half-witted man playing the conspirator, or are you a clever
-man playing the fool?  Answer me, I tell you."
+man playing the [[Fool|fool]]?  Answer me, I tell you."
 
-"Candidates," murmured Sunday, "are only required to answer
+"Candidates," murmured [[Sunday]], "are only required to answer
 eight out of the seventeen questions on the paper.
 As far as I can make out, you want me to tell you what I am,
 and what you are, and what this table is, and what this
 Council is, and what this world is for all I know.
-Well, I will go so far as to rend the veil of one mystery.
+[[Well]], I will go so far as to rend the veil of one mystery.
 If you want to know what you are, you are a set of highly
-well-intentioned young jackasses."
+[[Well|well]]-intentioned young jackasses."
 
 "And you," said Syme, leaning forward, "what are you?"
 
-"I?  What am I?" roared the President, and he rose slowly to an incredible
+"I?  What am I?" roared the President, and he [[Rose|rose]] slowly to an incredible
 height, like some enormous wave about to arch above them and break.
 "You want to know what I am, do you?  Bull, you are a man of science.
-Grub in the roots of those trees and find out the truth about them.
+Grub in the roots of those trees and find out the [[Truth|truth]] about them.
 Syme, you are a poet.  Stare at those morning clouds.
-But I tell you this, that you will have found out the truth of
-the last tree and the top-most cloud before the truth about me.
-You will understand the sea, and I shall be still a riddle;
-you shall know what the stars are, and not know what I am.
+But I tell you this, that you will have found out the [[Truth|truth]] of
+the last tree and the top-most cloud before the [[Truth|truth]] about me.
+You will understand the sea, and I shall be still a [[Riddle|riddle]];
+you shall know what the [[Stars|stars]] are, and not know what I am.
 Since the beginning of the world all men have hunted me like a wolf--
 kings and sages, and poets and lawgivers, all the churches,
 and all the philosophies.  But I have never been caught yet,
-and the skies will fall in the time I turn to bay.
+and the skies will fall in the [[Time|time]] I turn to bay.
 I have given them a good run for their money, and I will now."
 
 Before one of them could move, the monstrous man had swung himself
@@ -205,33 +205,33 @@ the light of his last assertion; but when he disappeared into the cab,
 Syme's practical senses returned to him, and leaping over the balcony
 so recklessly as almost to break his legs, he called another cab.
 
-He and Bull sprang into the cab together, the Professor and
+He and Bull sprang into the cab together, [[The Professor|the Professor]] and
 the Inspector into another, while the Secretary and the late Gogol
-scrambled into a third just in time to pursue the flying Syme,
-who was pursuing the flying President.  Sunday led them a wild chase
-towards the north-west, his cabman, evidently under the influence
-of more than common inducements, urging the horse at breakneck speed.
+scrambled into a third just in [[Time|time]] to pursue the flying Syme,
+who was pursuing the flying President.  [[Sunday]] led them a wild chase
+towards the north-west, his [[cabman]], evidently under the influence
+of more than common inducements, urging the [[Horse|horse]] at breakneck [[Speed|speed]].
 But Syme was in no mood for delicacies, and he stood up
 in his own cab shouting, "Stop thief!" until crowds ran along
 beside his cab, and policemen began to stop and ask questions.
-All this had its influence upon the President's cabman,
+All this had its influence upon the President's [[cabman]],
 who began to look dubious, and to slow down to a trot.
 He opened the trap to talk reasonably to his fare, and in so
 doing let the long whip droop over the front of the cab.
-Sunday leant forward, seized it, and jerked it violently out
+[[Sunday]] leant forward, seized it, and jerked it violently out
 of the man's hand.  Then standing up in front of the cab himself,
-he lashed the horse and roared aloud, so that they went down
-the streets like a flying storm.  Through street after street
+he lashed the [[Horse|horse]] and roared aloud, so that they went down
+the streets like a flying [[Storm|storm]].  Through street after street
 and square after square went whirling this preposterous vehicle,
-in which the fare was urging the horse and the driver trying
+in which the fare was urging the [[Horse|horse]] and the driver trying
 desperately to stop it.  The other three cabs came after it
 (if the phrase be permissible of a cab) like panting hounds.
 Shops and streets shot by like rattling arrows.
 
-At the highest ecstacy of speed, Sunday turned round
+At the highest ecstacy of [[Speed|speed]], [[Sunday]] turned round
 on the splashboard where he stood, and sticking his great
 grinning head out of the cab, with white hair whistling
-in the wind, he made a horrible face at his pursuers,
+in the [[Wind|wind]], he made a horrible face at his pursuers,
 like some colossal urchin.  Then raising his right hand swiftly,
 he flung a ball of paper in Syme's face and vanished.
 Syme caught the thing while instinctively warding it off,
@@ -251,25 +251,25 @@ for the communication consisted entirely of the words:--
 
 Syme's message was, at any rate, longer, and ran as follows:--
 
-"No one would regret anything in the nature of an interference
+"No one would regret anything in the [[Nature|nature]] of an interference
 by the Archdeacon more than I. I trust it will not come
-to that.  But, for the last time, where are your goloshes?
+to that.  But, for the last [[Time|time]], where are your goloshes?
 The thing is too bad, especially after what uncle said."
 
-The President's cabman seemed to be regaining some control
-over his horse, and the pursuers gained a little as they swept
-round into the Edgware Road.  And here there occurred what seemed
+The President's [[cabman]] seemed to be regaining some control
+over his [[Horse|horse]], and the pursuers gained a little as they swept
+round into the Edgware [[Road]].  And here there occurred what seemed
 to the allies a providential stoppage.  Traffic of every kind
-was swerving to right or left or stopping, for down the long road
-was coming the unmistakable roar announcing the fire-engine,
+was swerving to right or left or stopping, for down the long [[Road|road]]
+was coming the unmistakable roar announcing the [[Fire|fire]]-engine,
 which in a few seconds went by like a brazen thunderbolt.
-But quick as it went by, Sunday had bounded out of his cab,
-sprung at the fire-engine, caught it, slung himself on to it,
+But quick as it went by, [[Sunday]] had bounded out of his cab,
+sprung at the [[Fire|fire]]-engine, caught it, slung himself on to it,
 and was seen as he disappeared in the noisy distance talking
 to the astonished fireman with explanatory gestures.
 
 "After him!" howled Syme.  "He can't go astray now.
-There's no mistaking a fire-engine."
+There's no mistaking a [[Fire|fire]]-engine."
 
 The three cabmen, who had been stunned for a moment, whipped up
 their horses and slightly decreased the distance between themselves
@@ -279,35 +279,35 @@ kissing his hand, and finally flinging a neatly-folded note into
 the bosom of Inspector Ratcliffe.  When that gentleman opened it,
 not without impatience, he found it contained the words:--
 
-"Fly at once.  The truth about your trouser-stretchers is known.
+"Fly at once.  The [[Truth|truth]] about your trouser-stretchers is known.
 --A FRIEND."
 
-The fire-engine had struck still farther to the north,
+The [[Fire|fire]]-engine had struck still farther to the north,
 into a region that they did not recognise; and as it ran
 by a line of high railings shadowed with trees, the six friends
 were startled, but somewhat relieved, to see the President
-leap from the fire-engine, though whether through another whim
+leap from the [[Fire|fire]]-engine, though whether through another whim
 or the increasing protest of his entertainers they could not see.
 Before the three cabs, however, could reach up to the spot,
 he had gone up the high railings like a huge grey cat,
-tossed himself over, and vanished in a darkness of leaves.
+tossed himself over, and vanished in a darkness of [[Leaves|leaves]].
 
 Syme with a furious gesture stopped his cab, jumped out,
 and sprang also to the escalade.  When he had one leg over
 the fence and his friends were following, he turned a face
-on them which shone quite pale in the shadow.
+on them which shone quite pale in the [[Shadow|shadow]].
 
-"What place can this be?" he asked.  "Can it be the old devil's house?
-I've heard he has a house in North London."
+"What place can this be?" he asked.  "Can it be the old devil's [[house]]?
+I've heard he has a [[house]] in North [[London]]."
 
 "All the better," said the Secretary grimly, planting a foot in a foothold,
-"we shall find him at home."
+"we shall find him at [[Home|home]]."
 
 "No, but it isn't that," said Syme, knitting his brows.
 "I hear the most horrible noises, like devils laughing and sneezing
 and blowing their devilish noses!"
 
-"His dogs barking, of course," said the Secretary.
+"His [[dogs]] barking, of course," said the Secretary.
 
 "Why not say his black-beetles barking!" said Syme furiously,
 "snails barking! geraniums barking!  Did you ever hear a dog
@@ -317,18 +317,18 @@ He held up his hand, and there came out of the thicket a long
 growling roar that seemed to get under the skin and freeze the flesh--
 a low thrilling roar that made a throbbing in the air all about them.
 
-"The dogs of Sunday would be no ordinary dogs," said Gogol, and shuddered.
+"The [[dogs]] of [[Sunday]] would be no ordinary [[dogs]]," said Gogol, and shuddered.
 
 Syme had jumped down on the other side, but he still
 stood listening impatiently.
 
-"Well, listen to that," he said, "is that a dog--anybody's dog?"
+"[[Well]], listen to that," he said, "is that a dog--anybody's dog?"
 
 There broke upon their ear a hoarse screaming as of things protesting
-and clamouring in sudden pain; and then, far off like an echo,
+and clamouring in sudden [[Pain|pain]]; and then, far off like an echo,
 what sounded like a long nasal trumpet.
 
-"Well, his house ought to be hell!" said the Secretary;
+"[[Well]], his [[house]] ought to be hell!" said the Secretary;
 "and if it is hell, I'm going in!" and he sprang over the tall
 railings almost with one swing.
 
@@ -356,19 +356,19 @@ and run away!"
 "A very large and fat old gentleman in light grey clothes,"
 said the keeper eagerly.
 
-"Well," said Syme, "if he's that particular kind of old gentleman,
+"[[Well]]," said Syme, "if he's that particular kind of old gentleman,
 if you're quite sure that he's a large and fat old gentleman in grey clothes,
 you may take my word for it that the elephant has not run away with him.
 He has run away with the elephant.  The elephant is not made by God
 that could run away with him if he did not consent to the elopement.
 And, by thunder, there he is!"
 
-There was no doubt about it this time.  Clean across the space of grass,
+There was no [[Doubt|doubt]] about it this [[Time|time]].  Clean across the space of grass,
 about two hundred yards away, with a crowd screaming and scampering vainly at
 his heels, went a huge grey elephant at an awful stride, with his trunk thrown
-out as rigid as a ship's bowsprit, and trumpeting like the trumpet of doom.
-On the back of the bellowing and plunging animal sat President Sunday with
-all the placidity of a sultan, but goading the animal to a furious speed
+out as rigid as a [[Ship|ship]]'s bowsprit, and trumpeting like the trumpet of doom.
+On the back of the bellowing and plunging animal sat President [[Sunday]] with
+all the placidity of a sultan, but goading the animal to a furious [[Speed|speed]]
 with some sharp object in his hand.
 
 "Stop him!" screamed the populace.  "He'll be out of the gate!"
@@ -380,31 +380,31 @@ great grey elephant had broken out of the gates of the Zoological Gardens,
 and was careening down Albany Street like a new and swift sort of omnibus.
 
 "Great Lord!" cried Bull, "I never knew an elephant could go so fast.
-Well, it must be hansom-cabs again if we are to keep him in sight."
+[[Well]], it must be hansom-cabs again if we are to keep him in sight."
 
 As they raced along to the gate out of which the elephant
-had vanished, Syme felt a glaring panorama of the strange animals
+had vanished, Syme felt a glaring panorama of the strange [[Animals|animals]]
 in the cages which they passed.  Afterwards he thought it queer
 that he should have seen them so clearly.  He remembered especially
 seeing pelicans, with their preposterous, pendant throats.
-He wondered why the pelican was the symbol of charity, except it
-was that it wanted a good deal of charity to admire a pelican.
+He wondered why the pelican was the symbol of [[Charity|charity]], except it
+was that it wanted a good deal of [[Charity|charity]] to admire a pelican.
 He remembered a hornbill, which was simply a huge yellow beak with
 a small bird tied on behind it.  The whole gave him a sensation,
-the vividness of which he could not explain, that Nature was always
-making quite mysterious jokes.  Sunday had told them that they
-would understand him when they had understood the stars.
+the vividness of which he could not explain, that [[Nature]] was always
+making quite mysterious jokes.  [[Sunday]] had told them that they
+would understand him when they had understood the [[Stars|stars]].
 He wondered whether even the archangels understood the hornbill.
 
 The six unhappy detectives flung themselves into cabs and followed
 the elephant sharing the terror which he spread through the long
-stretch of the streets.  This time Sunday did not turn round,
+stretch of the streets.  This [[Time|time]] [[Sunday]] did not turn round,
 but offered them the solid stretch of his unconscious back,
 which maddened them, if possible, more than his previous mockeries.
 Just before they came to Baker Street, however, he was seen to
 throw something far up into the air, as a boy does a ball meaning
 to catch it again.  But at their rate of racing it fell far behind,
-just by the cab containing Gogol; and in faint hope of a clue or for
+just by the cab containing Gogol; and in faint [[Hope|hope]] of a clue or for
 some impulse unexplainable, he stopped his cab so as to pick it up.
 It was addressed to himself, and was quite a bulky parcel.
 On examination, however, its bulk was found to consist of thirty-three
@@ -417,11 +417,11 @@ slip of paper, on which was written:--
 
 
 The man once known as Gogol said nothing, but the movements of his hands
-and feet were like those of a man urging a horse to renewed efforts.
+and feet were like those of a man urging a [[Horse|horse]] to renewed efforts.
 
 Through street after street, through district after district,
 went the prodigy of the flying elephant, calling crowds
-to every window, and driving the traffic left and right.
+to every [[Window|window]], and driving the traffic left and right.
 And still through all this insane publicity the three cabs toiled
 after it, until they came to be regarded as part of a procession,
 and perhaps the advertisement of a circus.  They went at such
@@ -430,12 +430,12 @@ the Albert Hall in Kensington when he thought that he was still
 in Paddington.  The animal's pace was even more fast and free
 through the empty, aristocratic streets of South Kensington,
 and he finally headed towards that part of the sky-line
-where the enormous Wheel of Earl's Court stood up in the sky.
-The wheel grew larger and larger, till it filled heaven like
-the wheel of stars.
+where the enormous [[Wheel]] of Earl's [[Court]] stood up in the sky.
+The [[Wheel|wheel]] grew larger and larger, till it filled heaven like
+the [[Wheel|wheel]] of [[Stars|stars]].
 
 The beast outstripped the cabs.  They lost him round several corners,
-and when they came to one of the gates of the Earl's Court Exhibition they
+and when they came to one of the gates of the Earl's [[Court]] Exhibition they
 found themselves finally blocked.  In front of them was an enormous crowd;
 in the midst of it was an enormous elephant, heaving and shuddering as such
 shapeless creatures do.  But the President had disappeared.
@@ -444,7 +444,7 @@ shapeless creatures do.  But the President had disappeared.
 
 "Gentleman rushed into the Exhibition, sir!" said an official
 in a dazed manner.  Then he added in an injured voice:
-"Funny gentleman, sir.  Asked me to hold his horse,
+"Funny gentleman, sir.  Asked me to hold his [[Horse|horse]],
 and gave me this."
 
 He held out with distaste a piece of folded paper, addressed:
@@ -474,30 +474,30 @@ a captive balloon?"
 "Nothing," said Syme, "except that it isn't captive!"
 
 They all turned their eyes to where the balloon swung and swelled
-above the Exhibition on a string, like a child's balloon.
+above the Exhibition on a string, like a [[Child|child]]'s balloon.
 A second afterwards the string came in two just under the car,
-and the balloon, broken loose, floated away with the freedom
+and the balloon, broken loose, floated away with the [[Freedom|freedom]]
 of a soap bubble.
 
 "Ten thousand devils!" shrieked the Secretary.  "He's got into it!"
 and he shook his fists at the sky.
 
-The balloon, borne by some chance wind, came right above them,
+The balloon, borne by some chance [[Wind|wind]], came right above them,
 and they could see the great white head of the President peering
 over the side and looking benevolently down on them.
 
-"God bless my soul!" said the Professor with the elderly manner that
+"God bless my [[Soul|soul]]!" said [[The Professor|the Professor]] with the elderly manner that
 he could never disconnect from his bleached beard and parchment face.
-"God bless my soul!  I seemed to fancy that something fell on the top
+"God bless my [[Soul|soul]]!  I seemed to fancy that something fell on the top
 of my hat!"
 
 He put up a trembling hand and took from that shelf a piece of twisted paper,
-which he opened absently only to find it inscribed with a true lover's
+which he opened absently only to find it inscribed with a true [[Lover|lover]]'s
 knot and, the words:--
 
-"Your beauty has not left me indifferent.--From LITTLE SNOWDROP."
+"Your [[Beauty|beauty]] has not left me indifferent.--From LITTLE SNOWDROP."
 
-There was a short silence, and then Syme said, biting his beard--
+There was a short [[Silence|silence]], and then Syme said, biting his beard--
 
 "I'm not beaten yet.  The blasted thing must come down somewhere.
 Let's follow it!"

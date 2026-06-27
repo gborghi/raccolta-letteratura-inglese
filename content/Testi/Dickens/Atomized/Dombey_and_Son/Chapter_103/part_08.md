@@ -24,13 +24,13 @@ powerlessness; and hiding in one of the great rooms that had been made
 gorgeous for this, felt as if her heart would burst with grief.
 
 Compassion for her father was the first distinct emotion that made head
-against the flood of sorrow which overwhelmed her. Her constant nature
+against the flood of sorrow which overwhelmed her. Her constant [[Nature|nature]]
 turned to him in his distress, as fervently and faithfully, as if, in
 his prosperity, he had been the embodiment of that idea which had
 gradually become so faint and dim. Although she did not know, otherwise
-than through the suggestions of a shapeless fear, the full extent of
+than through the suggestions of a shapeless [[Fear|fear]], the full extent of
 his calamity, he stood before her, wronged and deserted; and again her
-yearning love impelled her to his side.
+yearning [[Love|love]] impelled her to his side.
 
 He was not long away; for Florence was yet weeping in the great room
 and nourishing these thoughts, when she heard him come back. He ordered
@@ -39,7 +39,7 @@ own apartment, where he trod so heavily that she could hear him walking
 up and down from end to end.
 
 Yielding at once to the impulse of her affection, timid at all other
-times, but bold in its truth to him in his adversity, and undaunted by
+times, but bold in its [[Truth|truth]] to him in his adversity, and undaunted by
 past repulse, Florence, dressed as she was, hurried downstairs. As she
 set her light foot in the hall, he came out of his room. She hastened
 towards him unchecked, with her arms stretched out, and crying “Oh
@@ -56,12 +56,12 @@ word of reproach. But she looked at him, and a cry of desolation issued
 from her heart. For as she looked, she saw him murdering that fond idea
 to which she had held in spite of him. She saw his cruelty, neglect,
 and hatred dominant above it, and stamping it down. She saw she had no
-father upon earth, and ran out, orphaned, from his house.
+father upon earth, and ran out, orphaned, from his [[house]].
 
-Ran out of his house. A moment, and her hand was on the lock, the cry
+Ran out of his [[house]]. A moment, and her hand was on the lock, the cry
 was on her lips, his face was there, made paler by the yellow candles
 hastily put down and guttering away, and by the daylight coming in
 above the door. Another moment, and the close darkness of the shut-up
-house (forgotten to be opened, though it was long since day) yielded to
-the unexpected glare and freedom of the morning; and Florence, with her
-head bent down to hide her agony of tears, was in the streets.
+[[house]] (forgotten to be opened, though it was long since day) yielded to
+the unexpected glare and [[Freedom|freedom]] of the morning; and Florence, with her
+head bent down to hide her agony of [[Tears|tears]], was in the streets.

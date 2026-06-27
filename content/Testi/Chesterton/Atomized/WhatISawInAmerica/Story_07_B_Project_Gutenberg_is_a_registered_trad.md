@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — B.  \"Project Gutenberg\" is a registered trademark.  It may only be"
+title: "[[WhatISawInAmerica]] — B.  \"Project Gutenberg\" is a registered trademark.  It may only be"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"

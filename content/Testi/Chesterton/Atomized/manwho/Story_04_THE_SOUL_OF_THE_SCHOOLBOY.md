@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE SOUL OF THE SCHOOLBOY"
+title: "[[manwho]] — THE [[Soul|SOUL]] OF THE SCHOOLBOY"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/manwho-(Chesterton)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-III. THE SOUL OF THE SCHOOLBOY
+III. THE [[Soul|SOUL]] OF THE SCHOOLBOY
 
 
 
-A large map of London would be needed to display the wild and zigzag
+A large map of [[London]] would be needed to display the wild and zigzag
 
-course of one day's journey undertaken by an uncle and his nephew;
+course of one day's [[Journey|journey]] undertaken by an uncle and his nephew;
 
 or, to speak more truly, of a nephew and his uncle. For the nephew,
 
@@ -46,7 +46,7 @@ the Rev. Thomas Twyford, a lean and lively old gentleman with a red,
 
 eager face and white hair. He was in the ordinary way a country
 
-clergyman, but he was one of those who achieve the paradox of being
+clergyman, but he was one of those who achieve the [[Paradox|paradox]] of being
 
 famous in an obscure way, because they are famous in an obscure
 
@@ -56,7 +56,7 @@ the only people who could even understand one another's discoveries,
 
 he occupied a recognized and respectable place. And a critic might
 
-have found even in that day's journey at least as much of the
+have found even in that day's [[Journey|journey]] at least as much of the
 
 uncle's hobby as of the nephew's holiday.
 
@@ -68,11 +68,11 @@ like many other intelligent people, he was not above the weakness of
 
 playing with a toy to amuse himself, on the theory that it would
 
-amuse a child. His toys were crowns and miters and croziers and
+amuse a [[Child|child]]. His toys were crowns and miters and croziers and
 
 swords of state; and he had lingered over them, telling himself that
 
-the boy ought to see all the sights of London. And at the end of the
+the boy ought to see all the sights of [[London]]. And at the end of the
 
 day, after a tremendous tea, he rather gave the game away by winding
 
@@ -106,23 +106,23 @@ ignorance and startling knowledge--knowledge of some special
 
 classification in which he can generally correct and confound his
 
-elders. He considered himself entitled, at Hampton Court on a
+elders. He considered himself entitled, at Hampton [[Court]] on a
 
-holiday, to forget the very names of Cardinal Wolsey or William of
+holiday, to forget the very names of [[Cardinal Wolsey]] or William of
 
 Orange; but he could hardly be dragged from some details about the
 
-arrangement of the electric bells in the neighboring hotel. He was
+arrangement of the electric [[Bells|bells]] in the neighboring hotel. He was
 
 solidly dazed by Westminster Abbey, which is not so unnatural since
 
 that church became the lumber room of the larger and less successful
 
-statuary of the eighteenth century. But he had a magic and minute
+statuary of the eighteenth century. But he had a [[Magic|magic]] and minute
 
 knowledge of the Westminster omnibuses, and indeed of the whole
 
-omnibus system of London, the colors and numbers of which he knew as
+omnibus system of [[London]], the colors and numbers of which he knew as
 
 a herald knows heraldry. He would cry out against a momentary
 
@@ -154,13 +154,13 @@ thousand things. There hardly seems to be a career in it, unless you
 
 could be permanently on the pavement to prevent old ladies getting
 
-into the wrong bus. Well, we must get out of this one, for this is
+into the wrong bus. [[Well]], we must get out of this one, for this is
 
 our place. I want to show you what they call St. Paul's Penny."
 
 
 
-"Is it like St. Paul's Cathedral?" asked the youth with resignation,
+"Is it like St. Paul's [[Cathedral]]?" asked the youth with [[Resignation|resignation]],
 
 as they alighted.
 
@@ -206,9 +206,9 @@ extraordinary precautions. I have compared the silver coin to the
 
 Koh-i-noor, and in one sense it was even conventionally comparable,
 
-since by a historical accident it was at one time almost counted
+since by a historical accident it was at one [[Time|time]] almost counted
 
-among the Crown jewels, or at least the Crown relics, until one of
+among the [[Crown]] jewels, or at least the [[Crown]] relics, until one of
 
 the royal princes publicly restored it to the shrine to which it was
 
@@ -240,15 +240,15 @@ them.
 
 admitted in answer to some antiquarian openings from the clergyman
 
-who was slightly acquainted with him, "but I wear the King's coat,
+who was slightly acquainted with him, "but I wear the [[King]]'s coat,
 
-you know, and it's a serious thing when the King's uncle leaves a
+you know, and it's a serious thing when the [[King]]'s uncle [[Leaves|leaves]] a
 
 thing here with his own hands under my charge. But as for saints and
 
-relics and things, I fear I'm a bit of a Voltairian; what you would
+relics and things, I [[Fear|fear]] I'm a bit of a Voltairian; what you would
 
-call a skeptic."
+call a [[skeptic]]."
 
 
 
@@ -284,9 +284,9 @@ seemed disposed to linger, pointing out that it included a pair of
 
 nippers, a tool for punching holes in wood, and, above all, an
 
-instrument for taking stones out of a horse's hoof. The comparative
+instrument for taking stones out of a [[Horse|horse]]'s hoof. The comparative
 
-absence of any horse he appeared to regard as irrelevant, as if it
+absence of any [[Horse|horse]] he appeared to regard as irrelevant, as if it
 
 were a mere appendage easily supplied. But when the turn came of the
 
@@ -330,19 +330,19 @@ perhaps? I am a magician."
 
 "But I was once a monk," went on the other.  "I am what you would
 
-call an escaped monk. Yes, I have escaped into eternity. But the
+call an escaped monk. Yes, I have escaped into [[Eternity|eternity]]. But the
 
-monks held one truth at least, that the highest life should be
+[[Monks|monks]] held one [[Truth|truth]] at least, that the highest life should be
 
 without possessions. I have no pocket money and no pockets, and all
 
-the stars are my trinkets."
+the [[Stars|stars]] are my trinkets."
 
 
 
 "They are out of reach, anyhow," observed Colonel Morris, in a tone
 
-which suggested that it was well for them. "I've known a good many
+which suggested that it was [[Well|well]] for them. "I've known a good many
 
 magicians myself in India--mango plant and all. But the Indian ones
 
@@ -358,13 +358,13 @@ downstairs."
 
 Mr. Symon, the official guardian and guide, was a young man,
 
-prematurely gray, with a grave mouth which contrasted curiously with
+prematurely gray, with a [[Grave|grave]] mouth which contrasted curiously with
 
 a very small, dark mustache with waxed points, that seemed somehow,
 
 separate from it, as if a black fly had settled on his face. He
 
-spoke with the accent of Oxford and the permanent official, but in
+spoke with the accent of [[Oxford]] and the permanent official, but in
 
 as dead a fashion as the most indifferent hired guide. They
 
@@ -378,7 +378,7 @@ iron door swung open an almost blinding blaze of electric lights
 
 filled the whole interior. The fitful enthusiasm of Stinks at once
 
-caught fire, and he eagerly asked if the lights and the door worked
+caught [[Fire|fire]], and he eagerly asked if the lights and the door worked
 
 together.
 
@@ -402,7 +402,7 @@ and the wooden roof above; there was now no possibility of reopening
 
 the case without elaborate labor, except by breaking the glass,
 
-which would probably arouse the night watchman who was always within
+which would probably arouse the [[Night|night]] watchman who was always within
 
 a few feet of it, even if he had fallen asleep. A close examination
 
@@ -424,7 +424,7 @@ century," Symon was saying in his clear but colorless voice. "In the
 
 ninth century it is supposed to have been carried away by the
 
-barbarians, and it reappears, after the conversion of the northern
+barbarians, and it reappears, after the [[Conversion|conversion]] of the northern
 
 Goths, in the possession of the royal family of Gothland. His Royal
 
@@ -460,17 +460,17 @@ the closing door.
 
 
 
-"Well, you've done it now," said Symon, in his tranquil fashion.
+"[[Well]], you've done it now," said Symon, in his tranquil fashion.
 
 Then after a pause he added, "I suppose they'll miss us sooner or
 
-later, and no doubt they can get it open; but it may take some
+later, and no [[Doubt|doubt]] they can get it open; but it may take some
 
-little time."
+little [[Time|time]]."
 
 
 
-There was a silence, and then the unconquerable Stinks observed:
+There was a [[Silence|silence]], and then the unconquerable Stinks observed:
 
 
 
@@ -500,11 +500,11 @@ the man who called himself a magician. It was a very musical voice,
 
 and rather in contrast with his sinister and swarthy visage, which
 
-was now invisible. "Perhaps you don't know how terrible a truth that
+was now invisible. "Perhaps you don't know how terrible a [[Truth|truth]] that
 
 is. All you see are pictures made by the sun, faces and furniture
 
-and flowers and trees. The things themselves may be quite strange to
+and [[Flowers|flowers]] and trees. The things themselves may be quite strange to
 
 you. Something else may be standing now where you saw a table or a
 
@@ -520,11 +520,11 @@ for a second, and then said, sharply:
 
 "Really, I don't think it's a suitable occasion for trying to
 
-frighten a child."
+frighten a [[Child|child]]."
 
 
 
-"Who's a child?" cried the indignant Summers, with a voice that had
+"Who's a [[Child|child]]?" cried the indignant Summers, with a voice that had
 
 a crow, but also something of a crack in it. "And who's a funk,
 
@@ -534,11 +534,11 @@ either? Not me."
 
 "I will be silent, then," said the other voice out of the darkness.
 
-"But silence also makes and unmakes."
+"But [[Silence|silence]] also makes and unmakes."
 
 
 
-The required silence remained unbroken for a long time until at last
+The required [[Silence|silence]] remained unbroken for a long [[Time|time]] until at last
 
 the clergyman said to Symon in a low voice:
 
@@ -620,7 +620,7 @@ fair, rather languid-looking man with a bald brow and a high-bridged
 
 nose; his companion was a younger man with light, curly hair and
 
-frank, and even innocent, eyes. Symon scarcely seemed to hear the
+frank, and even [[Innocent|innocent]], eyes. Symon scarcely seemed to hear the
 
 newcomers; it seemed almost as if he had not realized that the
 
@@ -660,11 +660,11 @@ robe had spoken again.
 
 "You!" said the colonel, sharply.  "And how do you propose to play
 
-the detective?"
+the [[Detective|detective]]?"
 
 
 
-"I do not propose to play the detective," answered the other, in a
+"I do not propose to play the [[Detective|detective]]," answered the other, in a
 
 clear voice like a bell. "I propose to play the magician. One of the
 
@@ -674,7 +674,7 @@ magicians you show up in India, Colonel."
 
 No one spoke for a moment, and then Horne Fisher surprised everybody
 
-by saying, "Well, let's go upstairs, and this gentleman can have a
+by saying, "[[Well]], let's go upstairs, and this gentleman can have a
 
 try."
 
@@ -702,7 +702,7 @@ reassured him. On the floor above lay one of those large paper darts
 
 which boys throw at each other when the schoolmaster is out of the
 
-room. It had evidently been thrown in at the window, and on being
+room. It had evidently been thrown in at the [[Window|window]], and on being
 
 unfolded displayed a scrawl of bad handwriting which ran: "Dear
 
@@ -802,11 +802,11 @@ Heavy clouds of sunset were closing round the wooden hut, enormous
 
 clouds, of which only the corners could be seen in the little
 
-window, like purple horns and tails, almost as if some huge monsters
+[[Window|window]], like purple horns and tails, almost as if some huge monsters
 
 were prowling round the place. But the purple was already deepening
 
-to dark gray; it would soon be night.
+to dark gray; it would soon be [[Night|night]].
 
 
 
@@ -822,9 +822,9 @@ How such a topsy-turvy scene ever came to be tolerated in the
 
 colonel's office, of all places, was afterward a puzzle in the
 
-memory of many, including the colonel. They recalled it like a sort
+[[Memory|memory]] of many, including the colonel. They recalled it like a sort
 
-of nightmare, like something they could not control. Perhaps there
+of [[nightmare]], like something they could not control. Perhaps there
 
 was really a magnetism about the mesmerist; perhaps there was even
 
@@ -886,7 +886,7 @@ of the relic itself?"
 
 
 
-"I see something shining on the floor, like the shadow or the ghost
+"I see something shining on the floor, like the [[Shadow|shadow]] or the [[Ghost|ghost]]
 
 of it. It is over there in the corner beyond the desk."
 
@@ -906,9 +906,9 @@ light in the room. The cigar had gone out.
 
 pointing the way to penitence, and urging the thief to restitution.
 
-I can see nothing more." His voice trailed off into a silence that
+I can see nothing more." His voice trailed off into a [[Silence|silence]] that
 
-lasted solidly for many minutes, like the long silence below when
+lasted solidly for many minutes, like the long [[Silence|silence]] below when
 
 the theft had been committed. Then it was broken by the ring of
 
@@ -950,9 +950,9 @@ always the suspect. I don't think he was necessarily a thief in the
 
 vulgar sense. The police always seem to think that silver is stolen
 
-for the sake of silver, but a thing like that might well be stolen
+for the sake of silver, but a thing like that might [[Well|well]] be stolen
 
-out of some religious mania. A runaway monk turned mystic might well
+out of some religious mania. A runaway monk turned mystic might [[Well|well]]
 
 want it for some mystical purpose."
 
@@ -962,7 +962,7 @@ want it for some mystical purpose."
 
 he is not the thief. And he's not altogether a liar, either. He said
 
-one true thing at least that night."
+one true thing at least that [[Night|night]]."
 
 
 
@@ -986,7 +986,7 @@ schoolboy's magnet, I suppose it was done by the schoolboy."
 
 
 
-"Well," replied Fisher, reflectively, "it rather depends which
+"[[Well]]," replied Fisher, reflectively, "it rather depends which
 
 schoolboy."
 
@@ -996,21 +996,21 @@ schoolboy."
 
 
 
-"The soul of a schoolboy is a curious thing," Fisher continued, in a
+"The [[Soul|soul]] of a schoolboy is a curious thing," Fisher continued, in a
 
 meditative manner. "It can survive a great many things besides
 
 climbing out of a chimney. A man can grow gray in great campaigns,
 
-and still have the soul of a schoolboy. A man can return with a
+and still have the [[Soul|soul]] of a schoolboy. A man can return with a
 
 great reputation from India and be put in charge of a great public
 
-treasure, and still have the soul of a schoolboy, waiting to be
+treasure, and still have the [[Soul|soul]] of a schoolboy, waiting to be
 
 awakened by an accident. And it is ten times more so when to the
 
-schoolboy you add the skeptic, who is generally a sort of stunted
+schoolboy you add the [[skeptic]], who is generally a sort of stunted
 
 schoolboy. You said just now that things might be done by religious
 
@@ -1018,9 +1018,9 @@ mania. Have you ever heard of irreligious mania? I assure you it
 
 exists very violently, especially in men who like showing up
 
-magicians in India. But here the skeptic had the temptation of
+magicians in India. But here the [[skeptic]] had the [[Temptation|temptation]] of
 
-showing up a much more tremendous sham nearer home."
+showing up a much more tremendous sham nearer [[Home|home]]."
 
 
 
@@ -1028,7 +1028,7 @@ A light came into Harold March's eyes as he suddenly saw, as if afar
 
 off, the wider implication of the suggestion. But Twyford was still
 
-wrestling with one problem at a time.
+wrestling with one problem at a [[Time|time]].
 
 
 
@@ -1074,7 +1074,7 @@ silver a little."
 
 
 
-There was a heavy silence, and at last Harold March said, "But where
+There was a heavy [[Silence|silence]], and at last Harold March said, "But where
 
 is the real relic?"
 
@@ -1100,7 +1100,7 @@ actually done; according to that, Morris just made a hole and fished
 
 it up with a magnet at the end of a string. Such a monkey trick
 
-looks like mere madness, but I suppose he was mad, partly with the
+looks like mere [[Madness|madness]], but I suppose he was mad, partly with the
 
 boredom of watching over what he felt was a fraud, though he
 
@@ -1142,7 +1142,7 @@ head.
 
 
 
-"Oh, very well," replied Fisher, with a sigh; "the plain truth is,
+"Oh, very [[Well|well]]," replied Fisher, with a sigh; "the plain [[Truth|truth]] is,
 
 of course, that it's a bad business. Everybody knows it's a bad
 
@@ -1158,7 +1158,7 @@ In this case it was a pretty big fling."
 
 The face of the Rev. Thomas Twyford certainly suggested that he was
 
-a little out of his depth in the seas of truth, but as the other
+a little out of his depth in the seas of [[Truth|truth]], but as the other
 
 went on speaking vaguely the old gentleman's features sharpened and
 
@@ -1168,7 +1168,7 @@ set.
 
 "If it were some decent morganatic affair I wouldn't say; but he
 
-must have been a fool to throw away thousands on a woman like that.
+must have been a [[Fool|fool]] to throw away thousands on a woman like that.
 
 At the end it was sheer blackmail; but it's something that the old
 
@@ -1182,15 +1182,15 @@ The Rev. Thomas Twyford had risen to his feet.
 
 
 
-"Well, I'm glad my nephew had nothing to do with it," he said. "And
+"[[Well]], I'm glad my nephew had nothing to do with it," he said. "And
 
-if that's what the world is like, I hope he will never have anything
+if that's what the world is like, I [[Hope|hope]] he will never have anything
 
 to do with it."
 
 
 
-"I hope not," answered Horne Fisher.  "No one knows so well as I do
+"I [[Hope|hope]] not," answered Horne Fisher.  "No one knows so [[Well|well]] as I do
 
 that one can have far too much to do with it."
 
@@ -1214,4 +1214,4 @@ might see a new bird or a botanist a new flower. And he had been
 
 sufficiently enraptured in rushing after it, and riding away upon
 
-that fairy ship.
+that fairy [[Ship|ship]].

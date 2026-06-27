@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — T is not true that Lord Tallboys wore his top-hat in bed, during his (part 1)"
+title: "[[FourFaultlessFelons]] — T is not true that Lord Tallboys wore his top-hat in bed, during his (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -28,13 +28,13 @@ official duties at the earliest possible opportunity; rather to the
 
 annoyance, it was said, of his subordinate the Deputy-Governor, who found
 
-himself for the second time checked in some of those vigorous military
+himself for the second [[Time|time]] checked in some of those vigorous military
 
 measures which are always more easily effected after the shock of a
 
 political outrage. In plain words, the Deputy-Governor was rather sulky.
 
-He had relapsed into a red-faced and irritable silence, and when he broke
+He had relapsed into a red-faced and irritable [[Silence|silence]], and when he broke
 
 it his friends rather wished he would relapse into it again. At the
 
@@ -56,7 +56,7 @@ swine!"
 
 "He's not a mouldy swine," said Barbara Traill emphatically, as if it
 
-were an exact point of natural history. "I don't believe a word of what
+were an exact point of natural [[history]]. "I don't believe a word of what
 
 you people are saying against him."
 
@@ -76,13 +76,13 @@ had apparently arrested the oratorical rotation of his hands. His family
 
 felt that they had never liked him so much before. It seemed almost as if
 
-there were some truth in the theory of the Moderate Murderer.
+there were some [[Truth|truth]] in the theory of the Moderate Murderer.
 
 
 
 On the other hand, Sir Harry Smythe, usually so much more good-humoured
 
-with his family, seemed to be in an increasingly bad humour. The dark red
+with his family, seemed to be in an increasingly bad [[Humour|humour]]. The dark red
 
 of his complexion deepened, until by contrast there was something almost
 
@@ -138,11 +138,11 @@ out too much, or that he had gained a new subtlety of perception.
 
 Meanwhile John Hume was sitting in his place of detention, staring at a
 
-blank wall with an equally blank face. Accustomed as he was to solitude,
+blank wall with an equally blank face. Accustomed as he was to [[Solitude|solitude]],
 
 he soon found something of a strain in two or three days and nights of
 
-the dehumanized solitude of imprisonment. Perhaps the fact most vivid to
+the dehumanized [[Solitude|solitude]] of [[Imprisonment|imprisonment]]. Perhaps the fact most vivid to
 
 his immediate senses was being deprived of tobacco. But he had other and
 
@@ -168,7 +168,7 @@ country with coercion acts and punitive expeditions, until his impulsive
 
 militarism had been a little moderated by the arrival of Tallboys with a
 
-compromise from the home Government. Tallboys was still alive and even,
+compromise from the [[Home|home]] [[government|Government]]. Tallboys was still alive and even,
 
 in a modified manner, kicking. But he was probably still under doctor's
 
@@ -176,13 +176,13 @@ orders and could hardly be judge in his own cause; so that the autocratic
 
 Smythe would probably have another chance of riding the whirlwind and
 
-directing the storm. But the truth is that there was at the back of the
+directing the [[Storm|storm]]. But the [[Truth|truth]] is that there was at the back of the
 
-prisoner's mind something that he feared much more than prison. The tiny
+prisoner's mind something that he feared much more than [[Prison|prison]]. The tiny
 
 point of panic, which had begun to worry and eat away even his rocky
 
-stolidity of mind and body, was the fear that his fantastic explanation
+stolidity of mind and [[Body|body]], was the [[Fear|fear]] that his fantastic explanation
 
 had given his enemies another sort of opportunity. What he really feared
 
@@ -204,12 +204,12 @@ seemed to himself that, like a hermit in his cell, he was seeing visions.
 
 
 
-"Well, I suppose I am, after all," he said aloud in a dead and distinct
+"[[Well]], I suppose I am, after all," he said aloud in a dead and distinct
 
-voice. "Didn't St. Paul say something? . . . Wherefore, O King Agrippa, I
+voice. "Didn't St. Paul say something? . . . Wherefore, O [[King]] Agrippa, I
 
 was not disobedient to the heavenly vision. ... I have seen that heavenly
 
 one coming in at the door like that several times, and rather hoped it
 
-was real. But real people can't come through prison doors like that. . .
+was real. But real people can't come through [[Prison|prison]] doors like that. . .

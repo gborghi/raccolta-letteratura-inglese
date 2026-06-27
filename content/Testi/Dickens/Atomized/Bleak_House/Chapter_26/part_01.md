@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 26 (part 1)"
+title: "Bleak [[house|House]] — Chapter 26 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -22,14 +22,14 @@ Sharpshooters
 Wintry morning, looking with dull eyes and sallow face upon the
 neighbourhood of Leicester Square, finds its inhabitants unwilling to
 get out of bed. Many of them are not early risers at the brightest of
-times, being birds of night who roost when the sun is high and are
-wide awake and keen for prey when the stars shine out. Behind dingy
+times, being [[Birds|birds]] of [[Night|night]] who roost when the sun is high and are
+wide awake and keen for prey when the [[Stars|stars]] shine out. Behind dingy
 blind and curtain, in upper story and garret, skulking more or less
 under false names, false hair, false titles, false jewellery, and
-false histories, a colony of brigands lie in their first sleep.
-Gentlemen of the green-baize road who could discourse from personal
-experience of foreign galleys and home treadmills; spies of strong
-governments that eternally quake with weakness and miserable fear,
+false histories, a colony of brigands lie in their first [[Sleep|sleep]].
+Gentlemen of the green-baize [[Road|road]] who could discourse from personal
+experience of foreign galleys and [[Home|home]] treadmills; spies of strong
+governments that eternally quake with weakness and miserable [[Fear|fear]],
 broken traitors, cowards, bullies, gamesters, shufflers, swindlers,
 and false witnesses; some not unmarked by the branding-iron beneath
 their dirty braid; all with more cruelty in them than was in Nero,
@@ -48,15 +48,15 @@ and stow away their mattresses. Mr. George, having shaved himself
 before a looking-glass of minute proportions, then marches out,
 bare-headed and bare-chested, to the pump in the little yard and anon
 comes back shining with yellow soap, friction, drifting rain, and
-exceedingly cold water. As he rubs himself upon a large jack-towel,
+exceedingly cold [[Water|water]]. As he rubs himself upon a large jack-towel,
 blowing like a military sort of diver just come up, his hair curling
 tighter and tighter on his sunburnt temples the more he rubs it so
 that it looks as if it never could be loosened by any less coercive
 instrument than an iron rake or a curry-comb—as he rubs, and puffs,
 and polishes, and blows, turning his head from side to side the more
-conveniently to excoriate his throat, and standing with his body well
+conveniently to excoriate his throat, and standing with his [[Body|body]] [[Well|well]]
 bent forward to keep the wet from his martial legs, Phil, on his
-knees lighting a fire, looks round as if it were enough washing for
+knees lighting a [[Fire|fire]], looks round as if it were enough washing for
 him to see all that done, and sufficient renovation for one day to
 take in the superfluous health his master throws off.
 
@@ -67,11 +67,11 @@ winks with sympathy. This chafing over, the ornamental part of Mr.
 George’s toilet is soon performed. He fills his pipe, lights it, and
 marches up and down smoking, as his custom is, while Phil, raising a
 powerful odour of hot rolls and coffee, prepares breakfast. He smokes
-gravely and marches in slow time. Perhaps this morning’s pipe is
-devoted to the memory of Gridley in his grave.
+gravely and marches in slow [[Time|time]]. Perhaps this morning’s pipe is
+devoted to the [[Memory|memory]] of Gridley in his [[Grave|grave]].
 
 “And so, Phil,” says George of the shooting gallery after several
-turns in silence, “you were dreaming of the country last night?”
+turns in [[Silence|silence]], “you were dreaming of the country last [[Night|night]]?”
 
 Phil, by the by, said as much in a tone of surprise as he scrambled
 out of bed.
@@ -94,15 +94,15 @@ after further consideration.
 The master resumes his march, and the man resumes his preparation of
 breakfast. It is not necessarily a lengthened preparation, being
 limited to the setting forth of very simple breakfast requisites for
-two and the broiling of a rasher of bacon at the fire in the rusty
+two and the broiling of a rasher of bacon at the [[Fire|fire]] in the rusty
 grate; but as Phil has to sidle round a considerable part of the
 gallery for every object he wants, and never brings two objects at
-once, it takes time under the circumstances. At length the breakfast
+once, it takes [[Time|time]] under the circumstances. At length the breakfast
 is ready. Phil announcing it, Mr. George knocks the ashes out of his
 pipe on the hob, stands his pipe itself in the chimney corner, and
 sits down to the meal. When he has helped himself, Phil follows suit,
 sitting at the extreme end of the little oblong table and taking his
-plate on his knees. Either in humility, or to hide his blackened
+plate on his knees. Either in [[Humility|humility]], or to hide his blackened
 hands, or because it is his natural manner of eating.
 
 “The country,” says Mr. George, plying his knife and fork; “why, I
@@ -150,4 +150,4 @@ as me, and near as broad across the shoulders.”
 “No. Bosh! Let her rest in peace, God bless her!” says the
 trooper. “What set me on about country boys, and runaways, and
 good-for-nothings? You, to be sure! So you never clapped your eyes
-upon the country—marshes and dreams excepted. Eh?”
+upon the country—marshes and [[Dreams|dreams]] excepted. Eh?”

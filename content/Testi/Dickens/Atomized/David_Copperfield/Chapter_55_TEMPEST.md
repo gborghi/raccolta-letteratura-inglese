@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 55: TEMPEST"
+title: "[[David Copperfield]] — Chapter 55: TEMPEST"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -21,23 +21,23 @@ I now approach an event in my life, so indelible, so awful, so bound by
 an infinite variety of ties to all that has preceded it, in these pages,
 that, from the beginning of my narrative, I have seen it growing larger
 and larger as I advanced, like a great tower in a plain, and throwing
-its fore-cast shadow even on the incidents of my childish days.
+its fore-cast [[Shadow|shadow]] even on the incidents of my childish days.
 
 For years after it occurred, I dreamed of it often. I have started up so
 vividly impressed by it, that its fury has yet seemed raging in my quiet
-room, in the still night. I dream of it sometimes, though at lengthened
+room, in the still [[Night|night]]. I dream of it sometimes, though at lengthened
 and uncertain intervals, to this hour. I have an association between it
-and a stormy wind, or the lightest mention of a sea-shore, as strong as
+and a stormy [[Wind|wind]], or the lightest mention of a sea-shore, as strong as
 any of which my mind is conscious. As plainly as I behold what happened,
 I will try to write it down. I do not recall it, but see it done; for it
 happens again before me.
 
-The time drawing on rapidly for the sailing of the emigrant-ship, my
-good old nurse (almost broken-hearted for me, when we first met) came up
-to London. I was constantly with her, and her brother, and the Micawbers
+The [[Time|time]] drawing on rapidly for the sailing of the emigrant-[[Ship|ship]], my
+good old [[Nurse|nurse]] (almost broken-hearted for me, when we first met) came up
+to [[London]]. I was constantly with her, and her brother, and the Micawbers
 (they being very much together); but Emily I never saw.
 
-One evening when the time was close at hand, I was alone with Peggotty
+One evening when the [[Time|time]] was close at hand, I was [[Alone|alone]] with Peggotty
 and her brother. Our conversation turned on Ham. She described to us how
 tenderly he had taken leave of her, and how manfully and quietly he
 had borne himself. Most of all, of late, when she believed he was most
@@ -45,15 +45,15 @@ tried. It was a subject of which the affectionate creature never tired;
 and our interest in hearing the many examples which she, who was so much
 with him, had to relate, was equal to hers in relating them.
 
-My aunt and I were at that time vacating the two cottages at Highgate; I
-intending to go abroad, and she to return to her house at Dover. We had
-a temporary lodging in Covent Garden. As I walked home to it, after this
+My aunt and I were at that [[Time|time]] vacating the two cottages at Highgate; I
+intending to go abroad, and she to return to her [[house]] at Dover. We had
+a temporary lodging in Covent [[Garden]]. As I walked [[Home|home]] to it, after this
 evening’s conversation, reflecting on what had passed between Ham and
 myself when I was last at Yarmouth, I wavered in the original purpose
 I had formed, of leaving a letter for Emily when I should take leave of
-her uncle on board the ship, and thought it would be better to write to
-her now. She might desire, I thought, after receiving my communication,
-to send some parting word by me to her unhappy lover. I ought to give
+her uncle on board the [[Ship|ship]], and thought it would be better to write to
+her now. She might [[Desire|desire]], I thought, after receiving my communication,
+to send some parting word by me to her unhappy [[Lover|lover]]. I ought to give
 her the opportunity.
 
 I therefore sat down in my room, before going to bed, and wrote to her.
@@ -66,7 +66,7 @@ Peggotty, requesting him to give it to her; and went to bed at daybreak.
 
 I was weaker than I knew then; and, not falling asleep until the sun
 was up, lay late, and unrefreshed, next day. I was roused by the silent
-presence of my aunt at my bedside. I felt it in my sleep, as I suppose
+presence of my aunt at my bedside. I felt it in my [[Sleep|sleep]], as I suppose
 we all do feel such things.
 
 ‘Trot, my dear,’ she said, when I opened my eyes, ‘I couldn’t make up my
@@ -93,11 +93,11 @@ them, oh, I have prayed so much. When I find what you are, and what
 uncle is, I think what God must be, and can cry to him.
 
 ‘Good-bye for ever. Now, my dear, my friend, good-bye for ever in this
-world. In another world, if I am forgiven, I may wake a child and come
+world. In another world, if I am forgiven, I may wake a [[Child|child]] and come
 to you. All thanks and blessings. Farewell, evermore.’
 
 
-This, blotted with tears, was the letter.
+This, blotted with [[Tears|tears]], was the letter.
 
 ‘May I tell her as you doen’t see no hurt in’t, and as you’ll be so kind
 as take charge on’t, Mas’r Davy?’ said Mr. Peggotty, when I had read it.
@@ -106,46 +106,46 @@ as take charge on’t, Mas’r Davy?’ said Mr. Peggotty, when I had read it.
 ‘Yes, Mas’r Davy?’
 
 ‘I am thinking,’ said I, ‘that I’ll go down again to Yarmouth. There’s
-time, and to spare, for me to go and come back before the ship sails. My
-mind is constantly running on him, in his solitude; to put this letter
-of her writing in his hand at this time, and to enable you to tell her,
+[[Time|time]], and to spare, for me to go and come back before the [[Ship|ship]] sails. My
+mind is constantly running on him, in his [[Solitude|solitude]]; to put this letter
+of her writing in his hand at this [[Time|time]], and to enable you to tell her,
 in the moment of parting, that he has got it, will be a kindness to
 both of them. I solemnly accepted his commission, dear good fellow, and
-cannot discharge it too completely. The journey is nothing to me. I am
+cannot discharge it too completely. The [[Journey|journey]] is nothing to me. I am
 restless, and shall be better in motion. I’ll go down tonight.’
 
 Though he anxiously endeavoured to dissuade me, I saw that he was of my
 mind; and this, if I had required to be confirmed in my intention, would
 have had the effect. He went round to the coach office, at my request,
 and took the box-seat for me on the mail. In the evening I started,
-by that conveyance, down the road I had traversed under so many
+by that conveyance, down the [[Road|road]] I had traversed under so many
 vicissitudes.
 
 ‘Don’t you think that,’ I asked the coachman, in the first stage out of
-London, ‘a very remarkable sky? I don’t remember to have seen one like
+[[London]], ‘a very remarkable sky? I don’t remember to have seen one like
 it.’
 
-‘Nor I--not equal to it,’ he replied. ‘That’s wind, sir. There’ll be
+‘Nor I--not equal to it,’ he replied. ‘That’s [[Wind|wind]], sir. There’ll be
 mischief done at sea, I expect, before long.’
 
 It was a murky confusion--here and there blotted with a colour like the
 colour of the smoke from damp fuel--of flying clouds, tossed up into
 most remarkable heaps, suggesting greater heights in the clouds than
-there were depths below them to the bottom of the deepest hollows in the
-earth, through which the wild moon seemed to plunge headlong, as if, in
-a dread disturbance of the laws of nature, she had lost her way and were
-frightened. There had been a wind all day; and it was rising then, with
+there were depths below them to the [[Bottom|bottom]] of the deepest hollows in the
+earth, through which the wild [[Moon|moon]] seemed to plunge headlong, as if, in
+a dread disturbance of the laws of [[Nature|nature]], she had lost her way and were
+frightened. There had been a [[Wind|wind]] all day; and it was rising then, with
 an extraordinary great sound. In another hour it had much increased, and
 the sky was more overcast, and blew hard.
 
-But, as the night advanced, the clouds closing in and densely
+But, as the [[Night|night]] advanced, the clouds closing in and densely
 over-spreading the whole sky, then very dark, it came on to blow, harder
 and harder. It still increased, until our horses could scarcely face
-the wind. Many times, in the dark part of the night (it was then late in
+the [[Wind|wind]]. Many times, in the dark part of the [[Night|night]] (it was then late in
 September, when the nights were not short), the leaders turned about, or
 came to a dead stop; and we were often in serious apprehension that the
 coach would be blown over. Sweeping gusts of rain came up before this
-storm, like showers of steel; and, at those times, when there was any
+[[Storm|storm]], like showers of steel; and, at those times, when there was any
 shelter of trees or lee walls to be got, we were fain to stop, in a
 sheer impossibility of continuing the struggle.
 
@@ -153,34 +153,34 @@ When the day broke, it blew harder and harder. I had been in Yarmouth
 when the seamen said it blew great guns, but I had never known the like
 of this, or anything approaching to it. We came to Ipswich--very late,
 having had to fight every inch of ground since we were ten miles out of
-London; and found a cluster of people in the market-place, who had
-risen from their beds in the night, fearful of falling chimneys. Some of
+[[London]]; and found a cluster of people in the market-place, who had
+risen from their beds in the [[Night|night]], fearful of falling chimneys. Some of
 these, congregating about the inn-yard while we changed horses, told us
 of great sheets of lead having been ripped off a high church-tower, and
 flung into a by-street, which they then blocked up. Others had to tell
 of country people, coming in from neighbouring villages, who had seen
 great trees lying torn out of the earth, and whole ricks scattered about
-the roads and fields. Still, there was no abatement in the storm, but it
+the roads and fields. Still, there was no abatement in the [[Storm|storm]], but it
 blew harder.
 
 As we struggled on, nearer and nearer to the sea, from which this mighty
-wind was blowing dead on shore, its force became more and more terrific.
+[[Wind|wind]] was blowing dead on shore, its force became more and more terrific.
 Long before we saw the sea, its spray was on our lips, and showered
-salt rain upon us. The water was out, over miles and miles of the flat
+salt rain upon us. The [[Water|water]] was out, over miles and miles of the flat
 country adjacent to Yarmouth; and every sheet and puddle lashed its
 banks, and had its stress of little breakers setting heavily towards us.
 When we came within sight of the sea, the waves on the horizon, caught
-at intervals above the rolling abyss, were like glimpses of another
+at intervals above the [[rolling]] abyss, were like glimpses of another
 shore with towers and buildings. When at last we got into the town, the
 people came out to their doors, all aslant, and with streaming hair,
-making a wonder of the mail that had come through such a night.
+making a [[Wonder|wonder]] of the mail that had come through such a [[Night|night]].
 
 I put up at the old inn, and went down to look at the sea; staggering
 along the street, which was strewn with sand and seaweed, and with
 flying blotches of sea-foam; afraid of falling slates and tiles; and
 holding by people I met, at angry corners. Coming near the beach, I saw,
 not only the boatmen, but half the people of the town, lurking behind
-buildings; some, now and then braving the fury of the storm to look
+buildings; some, now and then braving the fury of the [[Storm|storm]] to look
 away to sea, and blown sheer out of their course in trying to get zigzag
 back.
 
@@ -188,57 +188,57 @@ Joining these groups, I found bewailing women whose husbands were away
 in herring or oyster boats, which there was too much reason to think
 might have foundered before they could run in anywhere for safety.
 Grizzled old sailors were among the people, shaking their heads, as they
-looked from water to sky, and muttering to one another; ship-owners,
+looked from [[Water|water]] to sky, and muttering to one another; [[Ship|ship]]-owners,
 excited and uneasy; children, huddling together, and peering into older
 faces; even stout mariners, disturbed and anxious, levelling their
 glasses at the sea from behind places of shelter, as if they were
 surveying an enemy.
 
 The tremendous sea itself, when I could find sufficient pause to look at
-it, in the agitation of the blinding wind, the flying stones and sand,
+it, in the agitation of the blinding [[Wind|wind]], the flying stones and sand,
 and the awful noise, confounded me. As the high watery walls came
-rolling in, and, at their highest, tumbled into surf, they looked as if
+[[rolling]] in, and, at their highest, tumbled into surf, they looked as if
 the least would engulf the town. As the receding wave swept back with a
 hoarse roar, it seemed to scoop out deep caves in the beach, as if its
 purpose were to undermine the earth. When some white-headed billows
 thundered on, and dashed themselves to pieces before they reached the
-land, every fragment of the late whole seemed possessed by the full
+land, every [[Fragment|fragment]] of the late whole seemed possessed by the full
 might of its wrath, rushing to be gathered to the composition of another
-monster. Undulating hills were changed to valleys, undulating valleys
-(with a solitary storm-bird sometimes skimming through them) were lifted
-up to hills; masses of water shivered and shook the beach with a booming
+[[Monster|monster]]. Undulating hills were changed to valleys, undulating valleys
+(with a solitary [[Storm|storm]]-bird sometimes skimming through them) were lifted
+up to hills; masses of [[Water|water]] shivered and shook the beach with a booming
 sound; every shape tumultuously rolled on, as soon as made, to change
 its shape and place, and beat another shape and place away; the ideal
-shore on the horizon, with its towers and buildings, rose and fell; the
+shore on the horizon, with its towers and buildings, [[Rose|rose]] and fell; the
 clouds fell fast and thick; I seemed to see a rending and upheaving of
-all nature.
+all [[Nature|nature]].
 
-Not finding Ham among the people whom this memorable wind--for it is
+Not finding Ham among the people whom this memorable [[Wind|wind]]--for it is
 still remembered down there, as the greatest ever known to blow upon
-that coast--had brought together, I made my way to his house. It was
+that coast--had brought together, I made my way to his [[house]]. It was
 shut; and as no one answered to my knocking, I went, by back ways and
 by-lanes, to the yard where he worked. I learned, there, that he had
-gone to Lowestoft, to meet some sudden exigency of ship-repairing
+gone to Lowestoft, to meet some sudden exigency of [[Ship|ship]]-repairing
 in which his skill was required; but that he would be back tomorrow
-morning, in good time.
+morning, in good [[Time|time]].
 
 I went back to the inn; and when I had washed and dressed, and tried to
-sleep, but in vain, it was five o’clock in the afternoon. I had not sat
-five minutes by the coffee-room fire, when the waiter, coming to stir
+[[Sleep|sleep]], but in vain, it was five o’[[Clock|clock]] in the afternoon. I had not sat
+five minutes by the coffee-room [[Fire|fire]], when the waiter, coming to stir
 it, as an excuse for talking, told me that two colliers had gone down,
 with all hands, a few miles away; and that some other ships had been
 seen labouring hard in the Roads, and trying, in great distress, to keep
-off shore. Mercy on them, and on all poor sailors, said he, if we had
-another night like the last!
+off shore. [[Mercy]] on them, and on all poor sailors, said he, if we had
+another [[Night|night]] like the last!
 
 I was very much depressed in spirits; very solitary; and felt an
 uneasiness in Ham’s not being there, disproportionate to the occasion. I
 was seriously affected, without knowing how much, by late events; and my
-long exposure to the fierce wind had confused me. There was that jumble
+long exposure to the fierce [[Wind|wind]] had confused me. There was that jumble
 in my thoughts and recollections, that I had lost the clear arrangement
-of time and distance. Thus, if I had gone out into the town, I should
+of [[Time|time]] and distance. Thus, if I had gone out into the town, I should
 not have been surprised, I think, to encounter someone who I knew must
-be then in London. So to speak, there was in these respects a curious
+be then in [[London]]. So to speak, there was in these respects a curious
 inattention in my mind. Yet it was busy, too, with all the remembrances
 the place naturally awakened; and they were particularly distinct and
 vivid.
@@ -255,50 +255,50 @@ over to Lowestoft and prevent it by bringing him with me.
 I hastily ordered my dinner, and went back to the yard. I was none too
 soon; for the boat-builder, with a lantern in his hand, was locking
 the yard-gate. He quite laughed when I asked him the question, and said
-there was no fear; no man in his senses, or out of them, would put off
-in such a gale of wind, least of all Ham Peggotty, who had been born to
+there was no [[Fear|fear]]; no man in his senses, or out of them, would put off
+in such a gale of [[Wind|wind]], least of all Ham Peggotty, who had been born to
 seafaring.
 
 So sensible of this, beforehand, that I had really felt ashamed of doing
 what I was nevertheless impelled to do, I went back to the inn. If
-such a wind could rise, I think it was rising. The howl and roar, the
+such a [[Wind|wind]] could rise, I think it was rising. The howl and roar, the
 rattling of the doors and windows, the rumbling in the chimneys, the
-apparent rocking of the very house that sheltered me, and the prodigious
+apparent rocking of the very [[house]] that sheltered me, and the prodigious
 tumult of the sea, were more fearful than in the morning. But there
-was now a great darkness besides; and that invested the storm with new
+was now a great darkness besides; and that invested the [[Storm|storm]] with new
 terrors, real and fanciful.
 
 I could not eat, I could not sit still, I could not continue steadfast
-to anything. Something within me, faintly answering to the storm
-without, tossed up the depths of my memory and made a tumult in them.
+to anything. Something within me, faintly answering to the [[Storm|storm]]
+without, tossed up the depths of my [[Memory|memory]] and made a tumult in them.
 Yet, in all the hurry of my thoughts, wild running with the thundering
-sea,--the storm, and my uneasiness regarding Ham were always in the
+sea,--the [[Storm|storm]], and my uneasiness regarding Ham were always in the
 fore-ground.
 
 My dinner went away almost untasted, and I tried to refresh myself with
 a glass or two of wine. In vain. I fell into a dull slumber before
-the fire, without losing my consciousness, either of the uproar out of
+the [[Fire|fire]], without losing my consciousness, either of the uproar out of
 doors, or of the place in which I was. Both became overshadowed by a new
 and indefinable horror; and when I awoke--or rather when I shook off
 the lethargy that bound me in my chair--my whole frame thrilled with
-objectless and unintelligible fear.
+objectless and unintelligible [[Fear|fear]].
 
 I walked to and fro, tried to read an old gazetteer, listened to the
-awful noises: looked at faces, scenes, and figures in the fire.
-At length, the steady ticking of the undisturbed clock on the wall
+awful noises: looked at faces, scenes, and figures in the [[Fire|fire]].
+At length, the steady ticking of the undisturbed [[Clock|clock]] on the wall
 tormented me to that degree that I resolved to go to bed.
 
-It was reassuring, on such a night, to be told that some of the
+It was reassuring, on such a [[Night|night]], to be told that some of the
 inn-servants had agreed together to sit up until morning. I went to bed,
 exceedingly weary and heavy; but, on my lying down, all such sensations
-vanished, as if by magic, and I was broad awake, with every sense
+vanished, as if by [[Magic|magic]], and I was broad awake, with every sense
 refined.
 
-For hours I lay there, listening to the wind and water; imagining, now,
+For hours I lay there, listening to the [[Wind|wind]] and [[Water|water]]; imagining, now,
 that I heard shrieks out at sea; now, that I distinctly heard the firing
 of signal guns; and now, the fall of houses in the town. I got up,
 several times, and looked out; but could see nothing, except the
-reflection in the window-panes of the faint candle I had left burning,
+reflection in the [[Window|window]]-panes of the faint candle I had left burning,
 and of my own haggard face looking in at me from the black void.
 
 At length, my restlessness attained to such a pitch, that I hurried on
@@ -311,17 +311,17 @@ screamed when I appeared, supposing me to be a spirit; but the others
 had more presence of mind, and were glad of an addition to their
 company. One man, referring to the topic they had been discussing, asked
 me whether I thought the souls of the collier-crews who had gone down,
-were out in the storm?
+were out in the [[Storm|storm]]?
 
 I remained there, I dare say, two hours. Once, I opened the yard-gate,
 and looked into the empty street. The sand, the sea-weed, and the flakes
 of foam, were driving by; and I was obliged to call for assistance
-before I could shut the gate again, and make it fast against the wind.
+before I could shut the gate again, and make it fast against the [[Wind|wind]].
 
 There was a dark gloom in my solitary chamber, when I at length returned
 to it; but I was tired now, and, getting into bed again, fell--off
-a tower and down a precipice--into the depths of sleep. I have an
-impression that for a long time, though I dreamed of being elsewhere and
+a tower and down a precipice--into the depths of [[Sleep|sleep]]. I have an
+impression that for a long [[Time|time]], though I dreamed of being elsewhere and
 in a variety of scenes, it was always blowing in my dream. At length,
 I lost that feeble hold upon reality, and was engaged with two dear
 friends, but who they were I don’t know, at the siege of some town in a
@@ -329,7 +329,7 @@ roar of cannonading.
 
 The thunder of the cannon was so loud and incessant, that I could not
 hear something I much desired to hear, until I made a great exertion
-and awoke. It was broad day--eight or nine o’clock; the storm raging, in
+and awoke. It was broad day--eight or nine o’[[Clock|clock]]; the [[Storm|storm]] raging, in
 lieu of the batteries; and someone knocking and calling at my door.
 
 ‘What is the matter?’ I cried.
@@ -349,15 +349,15 @@ Numbers of people were there before me, all running in one direction, to
 the beach. I ran the same way, outstripping a good many, and soon came
 facing the wild sea.
 
-The wind might by this time have lulled a little, though not more
+The [[Wind|wind]] might by this [[Time|time]] have lulled a little, though not more
 sensibly than if the cannonading I had dreamed of, had been diminished
 by the silencing of half-a-dozen guns out of hundreds. But the sea,
-having upon it the additional agitation of the whole night, was
+having upon it the additional agitation of the whole [[Night|night]], was
 infinitely more terrific than when I had seen it last. Every appearance
 it had then presented, bore the expression of being swelled; and the
-height to which the breakers rose, and, looking over one another,
+height to which the breakers [[Rose|rose]], and, looking over one another,
 bore one another down, and rolled in, in interminable hosts, was most
-appalling. In the difficulty of hearing anything but wind and waves,
+appalling. In the difficulty of hearing anything but [[Wind|wind]] and waves,
 and in the crowd, and the unspeakable confusion, and my first breathless
 efforts to stand against the weather, I was so confused that I looked
 out to sea for the wreck, and saw nothing but the foaming heads of the
@@ -367,34 +367,34 @@ left. Then, O great Heaven, I saw it, close in upon us!
 
 One mast was broken short off, six or eight feet from the deck, and lay
 over the side, entangled in a maze of sail and rigging; and all that
-ruin, as the ship rolled and beat--which she did without a moment’s
+ruin, as the [[Ship|ship]] rolled and beat--which she did without a moment’s
 pause, and with a violence quite inconceivable--beat the side as if it
 would stave it in. Some efforts were even then being made, to cut this
-portion of the wreck away; for, as the ship, which was broadside on,
-turned towards us in her rolling, I plainly descried her people at
+portion of the wreck away; for, as the [[Ship|ship]], which was broadside on,
+turned towards us in her [[rolling]], I plainly descried her people at
 work with axes, especially one active figure with long curling hair,
 conspicuous among the rest. But a great cry, which was audible even
-above the wind and water, rose from the shore at this moment; the sea,
-sweeping over the rolling wreck, made a clean breach, and carried men,
+above the [[Wind|wind]] and [[Water|water]], [[Rose|rose]] from the shore at this moment; the sea,
+sweeping over the [[rolling]] wreck, made a clean breach, and carried men,
 spars, casks, planks, bulwarks, heaps of such toys, into the boiling
 surge.
 
 The second mast was yet standing, with the rags of a rent sail, and
-a wild confusion of broken cordage flapping to and fro. The ship had
+a wild confusion of broken cordage flapping to and fro. The [[Ship|ship]] had
 struck once, the same boatman hoarsely said in my ear, and then lifted
 in and struck again. I understood him to add that she was parting
-amidships, and I could readily suppose so, for the rolling and beating
+amidships, and I could readily suppose so, for the [[rolling]] and beating
 were too tremendous for any human work to suffer long. As he spoke,
 there was another great cry of pity from the beach; four men arose with
 the wreck out of the deep, clinging to the rigging of the remaining
 mast; uppermost, the active figure with the curling hair.
 
-There was a bell on board; and as the ship rolled and dashed, like a
+There was a bell on board; and as the [[Ship|ship]] rolled and dashed, like a
 desperate creature driven mad, now showing us the whole sweep of her
 deck, as she turned on her beam-ends towards the shore, now nothing but
 her keel, as she sprung wildly over and turned towards the sea, the bell
 rang; and its sound, the knell of those unhappy men, was borne towards
-us on the wind. Again we lost her, and again she rose. Two men were
+us on the [[Wind|wind]]. Again we lost her, and again she [[Rose|rose]]. Two men were
 gone. The agony on the shore increased. Men groaned, and clasped their
 hands; women shrieked, and turned away their faces. Some ran wildly
 up and down along the beach, crying for help where no help could be. I
@@ -410,7 +410,7 @@ there was nothing left to try; when I noticed that some new sensation
 moved the people on the beach, and saw them part, and Ham come breaking
 through them to the front.
 
-I ran to him--as well as I know, to repeat my appeal for help. But,
+I ran to him--as [[Well|well]] as I know, to repeat my appeal for help. But,
 distracted though I was, by a sight so new to me and terrible, the
 determination in his face, and his look out to sea--exactly the same
 look as I remembered in connexion with the morning after Emily’s
@@ -420,12 +420,12 @@ to him, not to do murder, not to let him stir from off that sand!
 
 Another cry arose on shore; and looking to the wreck, we saw the cruel
 sail, with blow on blow, beat off the lower of the two men, and fly up
-in triumph round the active figure left alone upon the mast.
+in triumph round the active figure left [[Alone|alone]] upon the mast.
 
 Against such a sight, and against such determination as that of the
 calmly desperate man who was already accustomed to lead half the people
-present, I might as hopefully have entreated the wind. ‘Mas’r Davy,’
-he said, cheerily grasping me by both hands, ‘if my time is come, ‘tis
+present, I might as hopefully have entreated the [[Wind|wind]]. ‘Mas’r Davy,’
+he said, cheerily grasping me by both hands, ‘if my [[Time|time]] is come, ‘tis
 come. If ‘tan’t, I’ll bide it. Lord above bless you, and bless all!
 Mates, make me ready! I’m a-going off!’
 
@@ -436,8 +436,8 @@ precautions for his safety by troubling those with whom they rested. I
 don’t know what I answered, or what they rejoined; but I saw hurry on
 the beach, and men running with ropes from a capstan that was there, and
 penetrating into a circle of figures that hid him from me. Then, I saw
-him standing alone, in a seaman’s frock and trousers: a rope in his
-hand, or slung to his wrist: another round his body: and several of the
+him standing [[Alone|alone]], in a seaman’s frock and trousers: a rope in his
+hand, or slung to his wrist: another round his [[Body|body]]: and several of the
 best men holding, at a little distance, to the latter, which he laid out
 himself, slack upon the shore, at his feet.
 
@@ -446,52 +446,52 @@ was parting in the middle, and that the life of the solitary man upon
 the mast hung by a thread. Still, he clung to it. He had a singular red
 cap on,--not like a sailor’s cap, but of a finer colour; and as the few
 yielding planks between him and destruction rolled and bulged, and his
-anticipative death-knell rung, he was seen by all of us to wave it. I
+anticipative [[Death|death]]-knell rung, he was seen by all of us to wave it. I
 saw him do it now, and thought I was going distracted, when his action
 brought an old remembrance to my mind of a once dear friend.
 
-Ham watched the sea, standing alone, with the silence of suspended
-breath behind him, and the storm before, until there was a great
+Ham watched the sea, standing [[Alone|alone]], with the [[Silence|silence]] of suspended
+breath behind him, and the [[Storm|storm]] before, until there was a great
 retiring wave, when, with a backward glance at those who held the rope
-which was made fast round his body, he dashed in after it, and in a
-moment was buffeting with the water; rising with the hills, falling
+which was made fast round his [[Body|body]], he dashed in after it, and in a
+moment was buffeting with the [[Water|water]]; rising with the hills, falling
 with the valleys, lost beneath the foam; then drawn again to land. They
 hauled in hastily.
 
-He was hurt. I saw blood on his face, from where I stood; but he took
+He was hurt. I saw [[Blood|blood]] on his face, from where I stood; but he took
 no thought of that. He seemed hurriedly to give them some directions for
 leaving him more free--or so I judged from the motion of his arm--and
 was gone as before.
 
 And now he made for the wreck, rising with the hills, falling with the
 valleys, lost beneath the rugged foam, borne in towards the shore,
-borne on towards the ship, striving hard and valiantly. The distance was
-nothing, but the power of the sea and wind made the strife deadly. At
+borne on towards the [[Ship|ship]], striving hard and valiantly. The distance was
+nothing, but the power of the sea and [[Wind|wind]] made the strife deadly. At
 length he neared the wreck. He was so near, that with one more of his
 vigorous strokes he would be clinging to it,--when a high, green, vast
-hill-side of water, moving on shoreward, from beyond the ship, he seemed
-to leap up into it with a mighty bound, and the ship was gone!
+[[Hill|hill]]-side of [[Water|water]], moving on shoreward, from beyond the [[Ship|ship]], he seemed
+to leap up into it with a mighty bound, and the [[Ship|ship]] was gone!
 
 Some eddying fragments I saw in the sea, as if a mere cask had been
 broken, in running to the spot where they were hauling in. Consternation
 was in every face. They drew him to my very feet--insensible--dead.
-He was carried to the nearest house; and, no one preventing me now, I
+He was carried to the nearest [[house]]; and, no one preventing me now, I
 remained near him, busy, while every means of restoration were tried;
-but he had been beaten to death by the great wave, and his generous
+but he had been beaten to [[Death|death]] by the great wave, and his generous
 heart was stilled for ever.
 
-As I sat beside the bed, when hope was abandoned and all was done, a
+As I sat beside the bed, when [[Hope|hope]] was abandoned and all was done, a
 fisherman, who had known me when Emily and I were children, and ever
 since, whispered my name at the door.
 
-‘Sir,’ said he, with tears starting to his weather-beaten face, which,
+‘Sir,’ said he, with [[Tears|tears]] starting to his weather-beaten face, which,
 with his trembling lips, was ashy pale, ‘will you come over yonder?’
 
 The old remembrance that had been recalled to me, was in his look. I
 asked him, terror-stricken, leaning on the arm he held out to support
 me:
 
-‘Has a body come ashore?’
+‘Has a [[Body|body]] come ashore?’
 
 He said, ‘Yes.’
 
@@ -501,6 +501,6 @@ He answered nothing.
 
 But he led me to the shore. And on that part of it where she and I had
 looked for shells, two children--on that part of it where some lighter
-fragments of the old boat, blown down last night, had been scattered by
-the wind--among the ruins of the home he had wronged--I saw him lying
+fragments of the old boat, blown down last [[Night|night]], had been scattered by
+the [[Wind|wind]]--among the ruins of the [[Home|home]] he had wronged--I saw him lying
 with his head upon his arm, as I had often seen him lie at school.

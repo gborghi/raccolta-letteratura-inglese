@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 51: THE BEGINNING OF A LONGER JOURNEY (part 6)"
+title: "[[David Copperfield]] — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY]] (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 It was easy to come in his way, as I knew where he worked. I met him
-at a retired part of the sands, which I knew he would cross, and turned
+at a retired part of the sands, which I knew he would [[Cross|cross]], and turned
 back with him, that he might have leisure to speak to me if he really
 wished. I had not mistaken the expression of his face. We had walked but
 a little way together, when he said, without looking at me:
@@ -42,7 +42,7 @@ could wish said or wrote.’
 
 ‘What is it?’
 
-We walked a little farther in silence, and then he spoke.
+We walked a little farther in [[Silence|silence]], and then he spoke.
 
 ‘’Tan’t that I forgive her. ‘Tan’t that so much. ‘Tis more as I beg of
 her to forgive me, for having pressed my affections upon her. Odd times,
@@ -58,8 +58,8 @@ We walked on, farther than we had walked yet, before he spoke again. He
 was not crying when he made the pauses I shall express by lines. He was
 merely collecting himself to speak very plainly.
 
-‘I loved her--and I love the mem’ry of her--too deep--to be able to
-lead her to believe of my own self as I’m a happy man. I could only be
+‘I loved her--and I [[Love|love]] the mem’ry of her--too deep--to be able to
+lead her to believe of my own [[Self|self]] as I’m a happy man. I could only be
 happy--by forgetting of her--and I’m afeerd I couldn’t hardly bear as
 she should be told I done that. But if you, being so full of learning,
 Mas’r Davy, could think of anything to say as might bring her to believe
@@ -72,15 +72,15 @@ sorrowful mind, and yet not make her think as I could ever marry, or as
 ask of you to say that--with my prayers for her--that was so dear.’
 
 I pressed his manly hand again, and told him I would charge myself to do
-this as well as I could.
+this as [[Well|well]] as I could.
 
 ‘I thankee, sir,’ he answered. ‘’Twas kind of you to meet me. ‘Twas kind
-of you to bear him company down. Mas’r Davy, I unnerstan’ very well,
+of you to bear him company down. Mas’r Davy, I unnerstan’ very [[Well|well]],
 though my aunt will come to Lon’on afore they sail, and they’ll unite
 once more, that I am not like to see him agen. I fare to feel sure on’t.
 We doen’t say so, but so ‘twill be, and better so. The last you see on
 him--the very last--will you give him the lovingest duty and thanks of
-the orphan, as he was ever more than a father to?’
+the [[Orphan|orphan]], as he was ever more than a father to?’
 
 This I also promised, faithfully.
 
@@ -91,9 +91,9 @@ With a slight wave of his hand, as though to explain to me that he could
 not enter the old place, he turned away. As I looked after his figure,
 crossing the waste in the moonlight, I saw him turn his face towards a
 strip of silvery light upon the sea, and pass on, looking at it, until
-he was a shadow in the distance.
+he was a [[Shadow|shadow]] in the distance.
 
-The door of the boat-house stood open when I approached; and, on
+The door of the boat-[[house]] stood open when I approached; and, on
 entering, I found it emptied of all its furniture, saving one of the old
 lockers, on which Mrs. Gummidge, with a basket on her knee, was seated,
 looking at Mr. Peggotty. He leaned his elbow on the rough chimney-piece,
@@ -102,7 +102,7 @@ head, hopefully, on my coming in, and spoke in a cheery manner.
 
 ‘Come, according to promise, to bid farewell to ‘t, eh, Mas’r Davy?’
 he said, taking up the candle. ‘Bare enough, now, an’t it?’ ‘Indeed you
-have made good use of the time,’ said I.
+have made good use of the [[Time|time]],’ said I.
 
 ‘Why, we have not been idle, sir. Missis Gummidge has worked like a--I
 doen’t know what Missis Gummidge an’t worked like,’ said Mr. Peggotty,
@@ -115,11 +115,11 @@ said Mr. Peggotty, in a whisper. ‘I’m a-going to carry it away with me,
 last of all. And heer’s your old little bedroom, see, Mas’r Davy! A’most
 as bleak tonight, as ‘art could wish!’
 
-In truth, the wind, though it was low, had a solemn sound, and crept
-around the deserted house with a whispered wailing that was very
-mournful. Everything was gone, down to the little mirror with the
+In [[Truth|truth]], the [[Wind|wind]], though it was low, had a solemn sound, and crept
+around the deserted [[house]] with a whispered wailing that was very
+mournful. Everything was gone, down to the little [[Mirror|mirror]] with the
 oyster-shell frame. I thought of myself, lying here, when that first
-great change was being wrought at home. I thought of the blue-eyed child
+great change was being wrought at [[Home|home]]. I thought of the blue-eyed [[Child|child]]
 who had enchanted me. I thought of Steerforth: and a foolish, fearful
 fancy came upon me of his being near at hand, and liable to be met at
 any turn.
@@ -139,12 +139,12 @@ chimney-piece, requested to rise, that he might carry it outside the
 door before extinguishing the candle.
 
 ‘Dan’l,’ said Mrs. Gummidge, suddenly deserting her basket, and clinging
-to his arm ‘my dear Dan’l, the parting words I speak in this house is, I
+to his arm ‘my dear Dan’l, the parting words I speak in this [[house]] is, I
 mustn’t be left behind. Doen’t ye think of leaving me behind, Dan’l! Oh,
 doen’t ye ever do it!’
 
 Mr. Peggotty, taken aback, looked from Mrs. Gummidge to me, and from me
-to Mrs. Gummidge, as if he had been awakened from a sleep.
+to Mrs. Gummidge, as if he had been awakened from a [[Sleep|sleep]].
 
 ‘Doen’t ye, dearest Dan’l, doen’t ye!’ cried Mrs. Gummidge, fervently.
 ‘Take me ‘long with you, Dan’l, take me ‘long with you and Em’ly! I’ll
@@ -152,15 +152,15 @@ be your servant, constant and trew. If there’s slaves in them parts
 where you’re a-going, I’ll be bound to you for one, and happy, but
 doen’t ye leave me behind, Dan’l, that’s a deary dear!’
 
-‘My good soul,’ said Mr. Peggotty, shaking his head, ‘you doen’t know
+‘My good [[Soul|soul]],’ said Mr. Peggotty, shaking his head, ‘you doen’t know
 what a long voyage, and what a hard life ‘tis!’ ‘Yes, I do, Dan’l! I can
 guess!’ cried Mrs. Gummidge. ‘But my parting words under this roof is,
-I shall go into the house and die, if I am not took. I can dig, Dan’l.
+I shall go into the [[house]] and die, if I am not took. I can dig, Dan’l.
 I can work. I can live hard. I can be loving and patient now--more than
 you think, Dan’l, if you’ll on’y try me. I wouldn’t touch the ‘lowance,
 not if I was dying of want, Dan’l Peggotty; but I’ll go with you and
 Em’ly, if you’ll on’y let me, to the world’s end! I know how ‘tis; I
-know you think that I am lone and lorn; but, deary love, ‘tan’t so no
+know you think that I am lone and lorn; but, deary [[Love|love]], ‘tan’t so no
 more! I ain’t sat here, so long, a-watching, and a-thinking of your
 trials, without some good being done me. Mas’r Davy, speak to him for
 me! I knows his ways, and Em’ly’s, and I knows their sorrows, and can be
@@ -168,11 +168,11 @@ a comfort to ‘em, some odd times, and labour for ‘em allus! Dan’l, deary
 Dan’l, let me go ‘long with you!’
 
 And Mrs. Gummidge took his hand, and kissed it with a homely pathos and
-affection, in a homely rapture of devotion and gratitude, that he well
+affection, in a homely rapture of devotion and gratitude, that he [[Well|well]]
 deserved.
 
 We brought the locker out, extinguished the candle, fastened the door
 on the outside, and left the old boat close shut up, a dark speck in
-the cloudy night. Next day, when we were returning to London outside the
+the cloudy [[Night|night]]. Next day, when we were returning to [[London]] outside the
 coach, Mrs. Gummidge and her basket were on the seat behind, and Mrs.
 Gummidge was happy.

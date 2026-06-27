@@ -19,13 +19,13 @@ Chapter 2
 STILL EDUCATIONAL
 
 
-The person of the house, doll’s dressmaker and manufacturer of
+The person of the [[house]], doll’s dressmaker and manufacturer of
 ornamental pincushions and pen-wipers, sat in her quaint little low
 arm-chair, singing in the dark, until Lizzie came back. The person
-of the house had attained that dignity while yet of very tender years
-indeed, through being the only trustworthy person IN the house.
+of the [[house]] had attained that dignity while yet of very tender years
+indeed, through being the only trustworthy person IN the [[house]].
 
-‘Well Lizzie-Mizzie-Wizzie,’ said she, breaking off in her song, ‘what’s
+‘[[Well]] Lizzie-Mizzie-Wizzie,’ said she, breaking off in her [[Song|song]], ‘what’s
 the news out of doors?’
 
 ‘What’s the news in doors?’ returned Lizzie, playfully smoothing the
@@ -47,29 +47,29 @@ Lizzie finished putting the hair carefully back over the misshapen
 shoulders, and then lighted a candle. It showed the little parlour to
 be dingy, but orderly and clean. She stood it on the mantelshelf, remote
 from the dressmaker’s eyes, and then put the room door open, and the
-house door open, and turned the little low chair and its occupant
-towards the outer air. It was a sultry night, and this was a
+[[house]] door open, and turned the little low chair and its occupant
+towards the outer air. It was a sultry [[Night|night]], and this was a
 fine-weather arrangement when the day’s work was done. To complete
 it, she seated herself in a chair by the side of the little chair, and
 protectingly drew under her arm the spare hand that crept up to her.
 
-‘This is what your loving Jenny Wren calls the best time in the day and
-night,’ said the person of the house. Her real name was Fanny Cleaver;
+‘This is what your loving [[Jenny Wren]] calls the best [[Time|time]] in the day and
+[[Night|night]],’ said the person of the [[house]]. Her real name was Fanny Cleaver;
 but she had long ago chosen to bestow upon herself the appellation of
-Miss Jenny Wren.
+Miss [[Jenny Wren]].
 
 ‘I have been thinking,’ Jenny went on, ‘as I sat at work to-day, what
 a thing it would be, if I should be able to have your company till I am
 married, or at least courted. Because when I am courted, I shall make
 Him do some of the things that you do for me. He couldn’t brush my hair
 like you do, or help me up and down stairs like you do, and he couldn’t
-do anything like you do; but he could take my work home, and he could
+do anything like you do; but he could take my work [[Home|home]], and he could
 call for orders in his clumsy way. And he shall too. I’LL trot him
 about, I can tell him!’
 
-Jenny Wren had her personal vanities—happily for her—and no intentions
+[[Jenny Wren]] had her personal vanities—happily for her—and no intentions
 were stronger in her breast than the various trials and torments that
-were, in the fulness of time, to be inflicted upon ‘him.’
+were, in the fulness of [[Time|time]], to be inflicted upon ‘him.’
 
 ‘Wherever he may happen to be just at present, or whoever he may happen
 to be,’ said Miss Wren, ‘I know his tricks and his manners, and I give
@@ -109,15 +109,15 @@ Wrayburn, ain’t it?’ said Miss Wren.
 
 ‘I am not good,’ said Eugene, ‘but I’ll come in.’
 
-He gave his hand to Jenny Wren, and he gave his hand to Lizzie, and he
+He gave his hand to [[Jenny Wren]], and he gave his hand to Lizzie, and he
 stood leaning by the door at Lizzie’s side. He had been strolling with
-his cigar, he said, (it was smoked out and gone by this time,) and he
+his cigar, he said, (it was smoked out and gone by this [[Time|time]],) and he
 had strolled round to return in that direction that he might look in as
-he passed. Had she not seen her brother to-night?
+he passed. Had she not seen her brother to-[[Night|night]]?
 
 ‘Yes,’ said Lizzie, whose manner was a little troubled.
 
-Gracious condescension on our brother’s part! Mr Eugene Wrayburn thought
+Gracious condescension on our brother’s part! Mr [[Eugene Wrayburn]] thought
 he had passed my young gentleman on the bridge yonder. Who was his
 friend with him?
 
@@ -130,7 +130,7 @@ her manner being troubled was expressed; and yet one could not have
 doubted it. Eugene was as easy as ever; but perhaps, as she sat with
 her eyes cast down, it might have been rather more perceptible that
 his attention was concentrated upon her for certain moments, than its
-concentration upon any subject for any short time ever was, elsewhere.
+concentration upon any subject for any short [[Time|time]] ever was, elsewhere.
 
 ‘I have nothing to report, Lizzie,’ said Eugene. ‘But, having promised
 you that an eye should be always kept on Mr Riderhood through my friend
@@ -146,40 +146,40 @@ coolly, ‘for all that.’
 
 ‘Because, my dear,’ said the airy Eugene, ‘I am a bad idle dog.’
 
-‘Then why don’t you reform and be a good dog?’ inquired Miss Wren.
+‘Then why don’t you [[Reform|reform]] and be a good dog?’ inquired Miss Wren.
 
 ‘Because, my dear,’ returned Eugene, ‘there’s nobody who makes it worth
 my while. Have you considered my suggestion, Lizzie?’ This in a lower
 voice, but only as if it were a graver matter; not at all to the
-exclusion of the person of the house.
+exclusion of the person of the [[house]].
 
 ‘I have thought of it, Mr Wrayburn, but I have not been able to make up
 my mind to accept it.’
 
-‘False pride!’ said Eugene.
+‘False [[Pride|pride]]!’ said Eugene.
 
-‘I think not, Mr Wrayburn. I hope not.’
+‘I think not, Mr Wrayburn. I [[Hope|hope]] not.’
 
-‘False pride!’ repeated Eugene. ‘Why, what else is it? The thing is
+‘False [[Pride|pride]]!’ repeated Eugene. ‘Why, what else is it? The thing is
 worth nothing in itself. The thing is worth nothing to me. What can it
 be worth to me? You know the most I make of it. I propose to be of some
 use to somebody—which I never was in this world, and never shall be on
 any other occasion—by paying some qualified person of your own sex and
 age, so many (or rather so few) contemptible shillings, to come here,
 certain nights in the week, and give you certain instruction which you
-wouldn’t want if you hadn’t been a self-denying daughter and sister.
+wouldn’t want if you hadn’t been a [[Self|self]]-denying daughter and sister.
 You know that it’s good to have it, or you would never have so devoted
 yourself to your brother’s having it. Then why not have it: especially
 when our friend Miss Jenny here would profit by it too? If I proposed to
 be the teacher, or to attend the lessons—obviously incongruous!—but
-as to that, I might as well be on the other side of the globe, or not
-on the globe at all. False pride, Lizzie. Because true pride wouldn’t
-shame, or be shamed by, your thankless brother. True pride wouldn’t have
+as to that, I might as [[Well|well]] be on the other side of the globe, or not
+on the globe at all. False [[Pride|pride]], Lizzie. Because true [[Pride|pride]] wouldn’t
+shame, or be shamed by, your thankless brother. True [[Pride|pride]] wouldn’t have
 schoolmasters brought here, like doctors, to look at a bad case. True
-pride would go to work and do it. You know that, well enough, for you
-know that your own true pride would do it to-morrow, if you had the ways
-and means which false pride won’t let me supply. Very well. I add no
-more than this. Your false pride does wrong to yourself and does wrong
+[[Pride|pride]] would go to work and do it. You know that, [[Well|well]] enough, for you
+know that your own true [[Pride|pride]] would do it to-morrow, if you had the ways
+and means which false [[Pride|pride]] won’t let me supply. Very [[Well|well]]. I add no
+more than this. Your false [[Pride|pride]] does wrong to yourself and does wrong
 to your dead father.’
 
 ‘How to my father, Mr Wrayburn?’ she asked, with an anxious face.
@@ -202,9 +202,9 @@ misgiving that he sought her out, or heeded any personal attractions
 that he might descry in her? The poor girl, pure of heart and purpose,
 could not bear to think it. Sinking before her own eyes, as she
 suspected herself of it, she drooped her head as though she had done him
-some wicked and grievous injury, and broke into silent tears.
+some wicked and grievous injury, and broke into silent [[Tears|tears]].
 
-‘Don’t be distressed,’ said Eugene, very, very kindly. ‘I hope it is not
+‘Don’t be distressed,’ said Eugene, very, very kindly. ‘I [[Hope|hope]] it is not
 I who have distressed you. I meant no more than to put the matter in its
 true light before you; though I acknowledge I did it selfishly enough,
 for I am disappointed.’
@@ -217,10 +217,10 @@ fancy on doing this little thing for you and for our friend Miss Jenny.
 The novelty of my doing anything in the least useful, had its charms. I
 see, now, that I might have managed it better. I might have affected to
 do it wholly for our friend Miss J. I might have got myself up, morally,
-as Sir Eugene Bountiful. But upon my soul I can’t make flourishes, and I
+as Sir Eugene Bountiful. But upon my [[Soul|soul]] I can’t make flourishes, and I
 would rather be disappointed than try.’
 
-If he meant to follow home what was in Lizzie’s thoughts, it was
+If he meant to follow [[Home|home]] what was in Lizzie’s thoughts, it was
 skilfully done. If he followed it by mere fortuitous coincidence, it was
 done by an evil chance.
 
@@ -236,9 +236,9 @@ noted down with my own hand, and that you may be always sure of my best
 help, and incidentally of Lightwood’s too, in your efforts to clear
 your father. So, it gradually takes my fancy that I may help you—so
 easily!—to clear your father of that other blame which I mentioned
-a few minutes ago, and which is a just and real one. I hope I have
+a few minutes ago, and which is a just and real one. I [[Hope|hope]] I have
 explained myself; for I am heartily sorry to have distressed you. I hate
-to claim to mean well, but I really did mean honestly and simply well,
+to claim to mean [[Well|well]], but I really did mean honestly and simply [[Well|well]],
 and I want you to know it.’
 
 ‘I have never doubted that, Mr Wrayburn,’ said Lizzie; the more
@@ -250,23 +250,23 @@ would?’
 
 ‘I—don’t know that I should, Mr Wrayburn.’
 
-‘Well! Then why refuse now you do understand it?’
+‘[[Well]]! Then why refuse now you do understand it?’
 
 ‘It’s not easy for me to talk to you,’ returned Lizzie, in some
 confusion, ‘for you see all the consequences of what I say, as soon as I
 say it.’
 
 ‘Take all the consequences,’ laughed Eugene, ‘and take away my
-disappointment. Lizzie Hexam, as I truly respect you, and as I am your
+disappointment. [[Lizzie Hexam]], as I truly respect you, and as I am your
 friend and a poor devil of a gentleman, I protest I don’t even now
 understand why you hesitate.’
 
 There was an appearance of openness, trustfulness, unsuspecting
 generosity, in his words and manner, that won the poor girl over; and
 not only won her over, but again caused her to feel as though she had
-been influenced by the opposite qualities, with vanity at their head.
+been influenced by the opposite qualities, with [[Vanity|vanity]] at their head.
 
-‘I will not hesitate any longer, Mr Wrayburn. I hope you will not
+‘I will not hesitate any longer, Mr Wrayburn. I [[Hope|hope]] you will not
 think the worse of me for having hesitated at all. For myself and for
 Jenny—you let me answer for you, Jenny dear?’
 
@@ -278,10 +278,10 @@ seemed as if she had chopped the monosyllable than spoken it.
 ‘For myself and for Jenny, I thankfully accept your kind offer.’
 
 ‘Agreed! Dismissed!’ said Eugene, giving Lizzie his hand before lightly
-waving it, as if he waved the whole subject away. ‘I hope it may not be
+waving it, as if he waved the whole subject away. ‘I [[Hope|hope]] it may not be
 often that so much is made of so little!’
 
-Then he fell to talking playfully with Jenny Wren. ‘I think of setting
+Then he fell to talking playfully with [[Jenny Wren]]. ‘I think of setting
 up a doll, Miss Jenny,’ he said.
 
 ‘You had better not,’ replied the dressmaker.
@@ -297,7 +297,7 @@ sorts, makes good for MY trade.’
 ‘I don’t know about that,’ Miss Wren retorted; ‘but you had better by
 half set up a pen-wiper, and turn industrious, and use it.’
 
-‘Why, if we were all as industrious as you, little Busy-Body, we should
+‘Why, if we were all as industrious as you, little Busy-[[Body]], we should
 begin to work as soon as we could crawl, and there would be a bad
 thing!’
 
@@ -312,28 +312,28 @@ with the dolls’ dressmakers.’
 ‘There’s something in that,’ replied Miss Wren; ‘you have a sort of an
 idea in your noddle sometimes.’ Then, in a changed tone; ‘Talking of
 ideas, my Lizzie,’ they were sitting side by side as they had sat at
-first, ‘I wonder how it happens that when I am work, work, working here,
-all alone in the summer-time, I smell flowers.’
+first, ‘I [[Wonder|wonder]] how it happens that when I am work, work, working here,
+all [[Alone|alone]] in the [[Summer|summer]]-[[Time|time]], I smell [[Flowers|flowers]].’
 
 ‘As a commonplace individual, I should say,’ Eugene suggested
-languidly—for he was growing weary of the person of the house—‘that
-you smell flowers because you DO smell flowers.’
+languidly—for he was growing weary of the person of the [[house]]—‘that
+you smell [[Flowers|flowers]] because you DO smell [[Flowers|flowers]].’
 
 ‘No I don’t,’ said the little creature, resting one arm upon the elbow
 of her chair, resting her chin upon that hand, and looking vacantly
 before her; ‘this is not a flowery neighbourhood. It’s anything but
-that. And yet as I sit at work, I smell miles of flowers. I smell roses,
-till I think I see the rose-leaves lying in heaps, bushels, on the
-floor. I smell fallen leaves, till I put down my hand—so—and expect to
+that. And yet as I sit at work, I smell miles of [[Flowers|flowers]]. I smell roses,
+till I think I see the [[Rose|rose]]-[[Leaves|leaves]] lying in heaps, bushels, on the
+floor. I smell fallen [[Leaves|leaves]], till I put down my hand—so—and expect to
 make them rustle. I smell the white and the pink May in the hedges, and
-all sorts of flowers that I never was among. For I have seen very few
-flowers indeed, in my life.’
+all sorts of [[Flowers|flowers]] that I never was among. For I have seen very few
+[[Flowers|flowers]] indeed, in my life.’
 
 ‘Pleasant fancies to have, Jenny dear!’ said her friend: with a glance
 towards Eugene as if she would have asked him whether they were given
-the child in compensation for her losses.
+the [[Child|child]] in compensation for her losses.
 
-‘So I think, Lizzie, when they come to me. And the birds I hear! Oh!’
+‘So I think, Lizzie, when they come to me. And the [[Birds|birds]] I hear! Oh!’
 cried the little creature, holding out her hand and looking upward, ‘how
 they sing!’
 
@@ -341,25 +341,25 @@ There was something in the face and action for the moment, quite
 inspired and beautiful. Then the chin dropped musingly upon the hand
 again.
 
-‘I dare say my birds sing better than other birds, and my flowers smell
-better than other flowers. For when I was a little child,’ in a tone as
+‘I dare say my [[Birds|birds]] sing better than other [[Birds|birds]], and my [[Flowers|flowers]] smell
+better than other [[Flowers|flowers]]. For when I was a little [[Child|child]],’ in a tone as
 though it were ages ago, ‘the children that I used to see early in the
 morning were very different from any others that I ever saw. They were
 not like me; they were not chilled, anxious, ragged, or beaten; they
-were never in pain. They were not like the children of the neighbours;
+were never in [[Pain|pain]]. They were not like the children of the neighbours;
 they never made me tremble all over, by setting up shrill noises, and
 they never mocked me. Such numbers of them too! All in white dresses,
 and with something shining on the borders, and on their heads, that I
 have never been able to imitate with my work, though I know it so
-well. They used to come down in long bright slanting rows, and say all
-together, “Who is this in pain! Who is this in pain!” When I told them
+[[Well|well]]. They used to come down in long bright slanting rows, and say all
+together, “Who is this in [[Pain|pain]]! Who is this in [[Pain|pain]]!” When I told them
 who it was, they answered, “Come and play with us!” When I said “I never
 play! I can’t play!” they swept about me and took me up, and made me
 light. Then it was all delicious ease and rest till they laid me
 down, and said, all together, “Have patience, and we will come again.”
  Whenever they came back, I used to know they were coming before I saw
 the long bright rows, by hearing them ask, all together a long way off,
-“Who is this in pain! Who is this in pain!” And I used to cry out, “O my
+“Who is this in [[Pain|pain]]! Who is this in [[Pain|pain]]!” And I used to cry out, “O my
 blessed children, it’s poor me. Have pity on me. Take me up and make me
 light!”’
 
@@ -368,15 +368,15 @@ the late ecstatic look returned, and she became quite beautiful. Having
 so paused for a moment, silent, with a listening smile upon her face,
 she looked round and recalled herself.
 
-‘What poor fun you think me; don’t you, Mr Wrayburn? You may well look
-tired of me. But it’s Saturday night, and I won’t detain you.’
+‘What poor fun you think me; don’t you, Mr Wrayburn? You may [[Well|well]] look
+tired of me. But it’s Saturday [[Night|night]], and I won’t detain you.’
 
 ‘That is to say, Miss Wren,’ observed Eugene, quite ready to profit by
 the hint, ‘you wish me to go?’
 
-‘Well, it’s Saturday night,’ she returned, ‘and my child’s coming
-home. And my child is a troublesome bad child, and costs me a world of
-scolding. I would rather you didn’t see my child.’
+‘[[Well]], it’s Saturday [[Night|night]],’ she returned, ‘and my [[Child|child]]’s coming
+[[Home|home]]. And my [[Child|child]] is a troublesome bad [[Child|child]], and costs me a world of
+scolding. I would rather you didn’t see my [[Child|child]].’
 
 ‘A doll?’ said Eugene, not understanding, and looking for an
 explanation.
@@ -391,40 +391,40 @@ A man stumbled against him as he turned away, who mumbled some maudlin
 apology. Looking after this man, Eugene saw him go in at the door by
 which he himself had just come out.
 
-On the man’s stumbling into the room, Lizzie rose to leave it.
+On the man’s stumbling into the room, Lizzie [[Rose|rose]] to leave it.
 
 ‘Don’t go away, Miss Hexam,’ he said in a submissive manner, speaking
 thickly and with difficulty. ‘Don’t fly from unfortunate man in
-shattered state of health. Give poor invalid honour of your company. It
+shattered state of health. Give poor invalid [[Honour|honour]] of your company. It
 ain’t—ain’t catching.’
 
 Lizzie murmured that she had something to do in her own room, and went
 away upstairs.
 
-‘How’s my Jenny?’ said the man, timidly. ‘How’s my Jenny Wren, best of
+‘How’s my Jenny?’ said the man, timidly. ‘How’s my [[Jenny Wren]], best of
 children, object dearest affections broken-hearted invalid?’
 
-To which the person of the house, stretching out her arm in an attitude
+To which the person of the [[house]], stretching out her arm in an attitude
 of command, replied with irresponsive asperity: ‘Go along with you! Go
 along into your corner! Get into your corner directly!’
 
 The wretched spectacle made as if he would have offered some
-remonstrance; but not venturing to resist the person of the house,
+remonstrance; but not venturing to resist the person of the [[house]],
 thought better of it, and went and sat down on a particular chair of
 disgrace.
 
-‘Oh-h-h!’ cried the person of the house, pointing her little finger,
+‘Oh-h-h!’ cried the person of the [[house]], pointing her little finger,
 ‘You bad old boy! Oh-h-h you naughty, wicked creature! WHAT do you mean
 by it?’
 
 The shaking figure, unnerved and disjointed from head to foot, put
 out its two hands a little way, as making overtures of peace and
-reconciliation. Abject tears stood in its eyes, and stained the blotched
+[[Reconciliation|reconciliation]]. Abject [[Tears|tears]] stood in its eyes, and stained the blotched
 red of its cheeks. The swollen lead-coloured under lip trembled with a
 shameful whine. The whole indecorous threadbare ruin, from the broken
 shoes to the prematurely-grey scanty hair, grovelled. Not with any sense
 worthy to be called a sense, of this dire reversal of the places of
-parent and child, but in a pitiful expostulation to be let off from a
+parent and [[Child|child]], but in a pitiful expostulation to be let off from a
 scolding.
 
 ‘I know your tricks and your manners,’ cried Miss Wren. ‘I know where
@@ -432,25 +432,25 @@ you’ve been to!’ (which indeed it did not require discernment to
 discover). ‘Oh, you disgraceful old chap!’
 
 The very breathing of the figure was contemptible, as it laboured and
-rattled in that operation, like a blundering clock.
+rattled in that operation, like a blundering [[Clock|clock]].
 
-‘Slave, slave, slave, from morning to night,’ pursued the person of the
-house, ‘and all for this! WHAT do you mean by it?’
+‘Slave, slave, slave, from morning to [[Night|night]],’ pursued the person of the
+[[house]], ‘and all for this! WHAT do you mean by it?’
 
 There was something in that emphasized ‘What,’ which absurdly frightened
-the figure. As often as the person of the house worked her way round to
+the figure. As often as the person of the [[house]] worked her way round to
 it—even as soon as he saw that it was coming—he collapsed in an extra
 degree.
 
 ‘I wish you had been taken up, and locked up,’ said the person of the
-house. ‘I wish you had been poked into cells and black holes, and run
+[[house]]. ‘I wish you had been poked into cells and black holes, and run
 over by rats and spiders and beetles. I know their tricks and their
 manners, and they’d have tickled you nicely. Ain’t you ashamed of
 yourself?’
 
 ‘Yes, my dear,’ stammered the father.
 
-‘Then,’ said the person of the house, terrifying him by a grand muster
+‘Then,’ said the person of the [[house]], terrifying him by a grand muster
 of her spirits and forces before recurring to the emphatic word, ‘WHAT
 do you mean by it?’
 
@@ -458,7 +458,7 @@ do you mean by it?’
 plea in extenuation.
 
 ‘I’LL circumstance you and control you too,’ retorted the person of the
-house, speaking with vehement sharpness, ‘if you talk in that way. I’ll
+[[house]], speaking with vehement sharpness, ‘if you talk in that way. I’ll
 give you in charge to the police, and have you fined five shillings when
 you can’t pay, and then I won’t pay the money for you, and you’ll be
 transported for life. How should you like to be transported for life?’
@@ -466,28 +466,28 @@ transported for life. How should you like to be transported for life?’
 ‘Shouldn’t like it. Poor shattered invalid. Trouble nobody long,’ cried
 the wretched figure.
 
-‘Come, come!’ said the person of the house, tapping the table near her
+‘Come, come!’ said the person of the [[house]], tapping the table near her
 in a business-like manner, and shaking her head and her chin; ‘you know
 what you’ve got to do. Put down your money this instant.’
 
 The obedient figure began to rummage in its pockets.
 
 ‘Spent a fortune out of your wages, I’ll be bound!’ said the person of
-the house. ‘Put it here! All you’ve got left! Every farthing!’
+the [[house]]. ‘Put it here! All you’ve got left! Every farthing!’
 
-Such a business as he made of collecting it from his dogs’-eared
+Such a business as he made of collecting it from his [[dogs]]’-eared
 pockets; of expecting it in this pocket, and not finding it; of not
 expecting it in that pocket, and passing it over; of finding no pocket
 where that other pocket ought to be!
 
-‘Is this all?’ demanded the person of the house, when a confused heap of
+‘Is this all?’ demanded the person of the [[house]], when a confused heap of
 pence and shillings lay on the table.
 
 ‘Got no more,’ was the rueful answer, with an accordant shake of the
 head.
 
 ‘Let me make sure. You know what you’ve got to do. Turn all your pockets
-inside out, and leave ’em so!’ cried the person of the house.
+inside out, and leave ’em so!’ cried the person of the [[house]].
 
 He obeyed. And if anything could have made him look more abject or more
 dismally ridiculous than before, it would have been his so displaying
@@ -519,7 +519,7 @@ himself on his bed. Within a little while afterwards, Lizzie came down.
 returned Miss Jenny, shrugging her shoulders.
 
 Lizzie laid a cloth upon the little bench (more handy for the person of
-the house than an ordinary table), and put upon it such plain fare as
+the [[house]] than an ordinary table), and put upon it such plain fare as
 they were accustomed to have, and drew up a stool for herself.
 
 ‘Now for supper! What are you thinking of, Jenny darling?’
@@ -535,27 +535,27 @@ deceive!’ With the little fist in full action. ‘And if so, I tell you
 what I think I’d do. When he was asleep, I’d make a spoon red hot, and
 I’d have some boiling liquor bubbling in a saucepan, and I’d take it
 out hissing, and I’d open his mouth with the other hand—or perhaps he’d
-sleep with his mouth ready open—and I’d pour it down his throat, and
+[[Sleep|sleep]] with his mouth ready open—and I’d pour it down his throat, and
 blister it and choke him.’
 
 ‘I am sure you would do no such horrible thing,’ said Lizzie.
 
-‘Shouldn’t I? Well; perhaps I shouldn’t. But I should like to!’
+‘Shouldn’t I? [[Well]]; perhaps I shouldn’t. But I should like to!’
 
 ‘I am equally sure you would not.’
 
-‘Not even like to? Well, you generally know best. Only you haven’t
+‘Not even like to? [[Well]], you generally know best. Only you haven’t
 always lived among it as I have lived—and your back isn’t bad and your
 legs are not queer.’
 
 As they went on with their supper, Lizzie tried to bring her round to
 that prettier and better state. But, the charm was broken. The person
-of the house was the person of a house full of sordid shames and cares,
+of the [[house]] was the person of a [[house]] full of sordid shames and cares,
 with an upper room in which that abased figure was infecting even
-innocent sleep with sensual brutality and degradation. The doll’s
+[[Innocent|innocent]] [[Sleep|sleep]] with sensual brutality and degradation. The doll’s
 dressmaker had become a little quaint shrew; of the world, worldly; of
 the earth, earthy.
 
 Poor doll’s dressmaker! How often so dragged down by hands that should
 have raised her up; how often so misdirected when losing her way on the
-eternal road, and asking guidance! Poor, poor little doll’s dressmaker!
+eternal [[Road|road]], and asking guidance! Poor, poor little doll’s dressmaker!

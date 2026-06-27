@@ -21,8 +21,8 @@ Chiefly Matrimonial
 The grand half-yearly festival holden by Doctor and Mrs Blimber, on
 which occasion they requested the pleasure of the company of every
 young gentleman pursuing his studies in that genteel establishment, at
-an early party, when the hour was half-past seven o’clock, and when the
-object was quadrilles, had duly taken place, about this time; and the
+an early party, when the hour was half-past seven o’[[Clock|clock]], and when the
+object was quadrilles, had duly taken place, about this [[Time|time]]; and the
 young gentlemen, with no unbecoming demonstrations of levity, had
 betaken themselves, in a state of scholastic repletion, to their own
 homes. Mr Skettles had repaired abroad, permanently to grace the
@@ -65,24 +65,24 @@ behalf of the rest, instantly presented the Doctor with a silver
 inkstand, in a speech containing very little of the mother-tongue, but
 fifteen quotations from the Latin, and seven from the Greek, which
 moved the younger of the young gentlemen to discontent and envy: they
-remarking, “Oh, ah. It was all very well for old Tozer, but they didn’t
+remarking, “Oh, ah. It was all very [[Well|well]] for old Tozer, but they didn’t
 subscribe money for old Tozer to show off with, they supposed; did
 they? What business was it of old Tozer’s more than anybody else’s? It
-wasn’t his inkstand. Why couldn’t he leave the boys’ property alone?”
+wasn’t his inkstand. Why couldn’t he leave the boys’ property [[Alone|alone]]?”
 and murmuring other expressions of their dissatisfaction, which seemed
 to find a greater relief in calling him old Tozer, than in any other
 available vent.
 
 Not a word had been said to the young gentlemen, nor a hint dropped, of
-anything like a contemplated marriage between Mr Feeder, B.A., and the
+anything like a contemplated [[Marriage|marriage]] between Mr Feeder, B.A., and the
 fair Cornelia Blimber. Doctor Blimber, especially, seemed to take pains
 to look as if nothing would surprise him more; but it was perfectly
-well known to all the young gentlemen nevertheless, and when they
+[[Well|well]] known to all the young gentlemen nevertheless, and when they
 departed for the society of their relations and friends, they took
 leave of Mr Feeder with awe.
 
 Mr Feeder’s most romantic visions were fulfilled. The Doctor had
-determined to paint the house outside, and put it in thorough repair;
+determined to paint the [[house]] outside, and put it in thorough repair;
 and to give up the business, and to give up Cornelia. The painting and
 repairing began upon the very day of the young gentlemen’s departure,
 and now behold! the wedding morning was come, and Cornelia, in a new
@@ -92,7 +92,7 @@ The Doctor with his learned legs, and Mrs Blimber in a lilac bonnet,
 and Mr Feeder, B.A., with his long knuckles and his bristly head of
 hair, and Mr Feeder’s brother, the Reverend Alfred Feeder, M.A., who
 was to perform the ceremony, were all assembled in the drawing-room,
-and Cornelia with her orange-flowers and bridesmaids had just come
+and Cornelia with her orange-[[Flowers|flowers]] and bridesmaids had just come
 down, and looked, as of old, a little squeezed in appearance, but very
 charming, when the door opened, and the weak-eyed young man, in a loud
 voice, made the following proclamation:
@@ -109,53 +109,53 @@ black eyes.
 Mrs Blimber was delighted to receive her. Mrs Blimber was a little
 condescending, but extremely kind.
 
-“And as you’ve known me for a long time, you know,” said Mr Toots, “let
+“And as you’ve known me for a long [[Time|time]], you know,” said Mr Toots, “let
 me assure you that she is one of the most remarkable women that ever
 lived.”
 
 “My dear!” remonstrated Mrs Toots.
 
-“Upon my word and honour she is,” said Mr Toots. “I—I assure you, Mrs
+“Upon my word and [[Honour|honour]] she is,” said Mr Toots. “I—I assure you, Mrs
 Blimber, she’s a most extraordinary woman.”
 
 Mrs Toots laughed merrily, and Mrs Blimber led her to Cornelia. Mr
 Toots having paid his respects in that direction and having saluted his
-old preceptor, who said, in allusion to his conjugal state, “Well,
-Toots, well, Toots! So you are one of us, are you, Toots?”—retired with
-Mr Feeder, B.A., into a window.
+old preceptor, who said, in allusion to his conjugal state, “[[Well]],
+Toots, [[Well|well]], Toots! So you are one of us, are you, Toots?”—retired with
+Mr Feeder, B.A., into a [[Window|window]].
 
 Mr Feeder, B.A., being in great spirits, made a spar at Mr Toots, and
 tapped him skilfully with the back of his hand on the breastbone.
 
-“Well, old Buck!” said Mr Feeder with a laugh. “Well! Here we are!
+“[[Well]], old Buck!” said Mr Feeder with a laugh. “[[Well]]! Here we are!
 Taken in and done for. Eh?”
 
 “Feeder,” returned Mr Toots. “I give you joy. If you’re as—as—as
 perfectly blissful in a matrimonial life, as I am myself, you’ll have
-nothing to desire.”
+nothing to [[Desire|desire]].”
 
 “I don’t forget my old friends, you see,” said Mr Feeder. “I ask em to
 my wedding, Toots.”
 
 “Feeder,” replied Mr Toots gravely, “the fact is, that there were
 several circumstances which prevented me from communicating with you
-until after my marriage had been solemnised. In the first place, I had
+until after my [[Marriage|marriage]] had been solemnised. In the first place, I had
 made a perfect brute of myself to you, on the subject of Miss Dombey;
 and I felt that if you were asked to any wedding of mine, you would
 naturally expect that it was with Miss Dombey, which involved
-explanations, that upon my word and honour, at that crisis, would have
+explanations, that upon my word and [[Honour|honour]], at that crisis, would have
 knocked me completely over. In the second place, our wedding was
 strictly private; there being nobody present but one friend of myself
 and Mrs Toots’s, who is a Captain in—I don’t exactly know in what,”
-said Mr Toots, “but it’s of no consequence. I hope, Feeder, that in
+said Mr Toots, “but it’s of no consequence. I [[Hope|hope]], Feeder, that in
 writing a statement of what had occurred before Mrs Toots and myself
 went abroad upon our foreign tour, I fully discharged the offices of
-friendship.”
+[[Friendship|friendship]].”
 
 “Toots, my boy,” said Mr Feeder, shaking his hands, “I was joking.”
 
 “And now, Feeder,” said Mr Toots, “I should be glad to know what you
-think of my union.”
+think of my [[Union|union]].”
 
 “Capital!” returned Mr Feeder.
 
@@ -190,7 +190,7 @@ windows “pray do not exert yourself!”
 
 “My dear,” said Mrs Toots, “I was only talking.”
 
-“But, my love,” said Mr Toots, “pray do not exert yourself. You really
+“But, my [[Love|love]],” said Mr Toots, “pray do not exert yourself. You really
 must be careful. Do not, my dear Susan, exert yourself. She’s so easily
 excited,” said Mr Toots, apart to Mrs Blimber, “and then she forgets
 the medical man altogether.”
@@ -208,7 +208,7 @@ crisp little curls, “went in,” as the Chicken might have said, with
 great composure; and Doctor Blimber gave her away, like a man who had
 quite made up his mind to it. The gauzy little bridesmaids appeared to
 suffer most. Mrs Blimber was affected, but gently so; and told the
-Reverend Mr Alfred Feeder, M.A., on the way home, that if she could
+Reverend Mr Alfred Feeder, M.A., on the way [[Home|home]], that if she could
 only have seen Cicero in his retirement at Tusculum, she would not have
 had a wish, now, ungratified.
 
@@ -218,10 +218,10 @@ communicated themselves to Mrs Toots that Mr Toots was several times
 heard to observe, across the table, “My dear Susan, don’t exert
 yourself!” The best of it was, that Mr Toots felt it incumbent on him
 to make a speech; and in spite of a whole code of telegraphic
-dissuasions from Mrs Toots, appeared on his legs for the first time in
+dissuasions from Mrs Toots, appeared on his legs for the first [[Time|time]] in
 his life.
 
-“I really,” said Mr Toots, “in this house, where whatever was done to
+“I really,” said Mr Toots, “in this [[house]], where whatever was done to
 me in the way of—of any mental confusion sometimes—which is of no
 consequence and I impute to nobody—I was always treated like one of
 Doctor Blimber’s family, and had a desk to myself for a considerable
@@ -236,32 +236,32 @@ than myself—allow my friend Feeder to be married—especially to—”
 
 Mrs Toots suggested “to Miss Blimber.”
 
-“To Mrs Feeder, my love!” said Mr Toots, in a subdued tone of private
+“To Mrs Feeder, my [[Love|love]]!” said Mr Toots, in a subdued tone of private
 discussion: ‘“whom God hath joined,’ you know, ‘let no man’—don’t you
 know? I cannot allow my friend Feeder to be married—especially to Mrs
 Feeder—without proposing their—their—Toasts; and may,” said Mr Toots,
 fixing his eyes on his wife, as if for inspiration in a high flight,
-“may the torch of Hymen be the beacon of joy, and may the flowers we
+“may the torch of Hymen be the beacon of joy, and may the [[Flowers|flowers]] we
 have this day strewed in their path, be the—the banishers of—of gloom!”
 
 Doctor Blimber, who had a taste for metaphor, was pleased with this,
-and said, “Very good, Toots! Very well said, indeed, Toots!” and nodded
+and said, “Very good, Toots! Very [[Well|well]] said, indeed, Toots!” and nodded
 his head and patted his hands. Mr Feeder made in reply, a comic speech
 chequered with sentiment. Mr Alfred Feeder, M.A., was afterwards very
 happy on Doctor and Mrs Blimber; Mr Feeder, B.A., scarcely less so, on
 the gauzy little bridesmaids. Doctor Blimber then, in a sonorous voice,
-delivered a few thoughts in the pastoral style, relative to the rushes
+delivered a few thoughts in the [[Pastoral|pastoral]] style, relative to the rushes
 among which it was the intention of himself and Mrs Blimber to dwell,
 and the bee that would hum around their cot. Shortly after which, as
 the Doctor’s eyes were twinkling in a remarkable manner, and his
-son-in-law had already observed that time was made for slaves, and had
+son-in-law had already observed that [[Time|time]] was made for slaves, and had
 inquired whether Mrs Toots sang, the discreet Mrs Blimber dissolved the
 sitting, and sent Cornelia away, very cool and comfortable, in a
 post-chaise, with the man of her heart.
 
 Mr and Mrs Toots withdrew to the Bedford (Mrs Toots had been there
 before in old times, under her maiden name of Nipper), and there found
-a letter, which it took Mr Toots such an enormous time to read, that
+a letter, which it took Mr Toots such an enormous [[Time|time]] to read, that
 Mrs Toots was frightened.
 
 “My dear Susan,” said Mr Toots, “fright is worse than exertion. Pray be
@@ -269,15 +269,15 @@ calm!”
 
 “Who is it from?” asked Mrs Toots.
 
-“Why, my love,” said Mr Toots, “it’s from Captain Gills. Do not excite
-yourself. Walters and Miss Dombey are expected home!”
+“Why, my [[Love|love]],” said Mr Toots, “it’s from Captain Gills. Do not excite
+yourself. Walters and Miss Dombey are expected [[Home|home]]!”
 
 “My dear,” said Mrs Toots, raising herself quickly from the sofa, very
-pale, “don’t try to deceive me, for it’s no use, they’re come home—I
+pale, “don’t try to deceive me, for it’s no use, they’re come [[Home|home]]—I
 see it plainly in your face!”
 
 “She’s a most extraordinary woman!” exclaimed Mr Toots, in rapturous
-admiration. “You’re perfectly right, my love, they have come home. Miss
+admiration. “You’re perfectly right, my [[Love|love]], they have come [[Home|home]]. Miss
 Dombey has seen her father, and they are reconciled!”
 
 “Reconciled!” cried Mrs Toots, clapping her hands.
@@ -285,9 +285,9 @@ Dombey has seen her father, and they are reconciled!”
 “My dear,” said Mr Toots; “pray do not exert yourself. Do remember the
 medical man! Captain Gills says—at least he don’t say, but I imagine,
 from what I can make out, he means—that Miss Dombey has brought her
-unfortunate father away from his old house, to one where she and
+unfortunate father away from his old [[house]], to one where she and
 Walters are living; that he is lying very ill there—supposed to be
-dying; and that she attends upon him night and day.”
+dying; and that she attends upon him [[Night|night]] and day.”
 
 Mrs Toots began to cry quite bitterly.
 
@@ -312,7 +312,7 @@ unbounded content, and having had a long talk with Walter, turned out
 for a walk; feeling it necessary to have some solitary meditation on
 the changes of human affairs, and to shake his glazed hat profoundly
 over the fall of Mr Dombey, for whom the generosity and simplicity of
-his nature were awakened in a lively manner. The Captain would have
+his [[Nature|nature]] were awakened in a lively manner. The Captain would have
 been very low, indeed, on the unhappy gentleman’s account, but for the
 recollection of the baby; which afforded him such intense satisfaction
 whenever it arose, that he laughed aloud as he went along the street,
@@ -323,7 +323,7 @@ two conflicting subjects of reflection exposed the Captain, were so
 very trying to his spirits, that he felt a long walk necessary to his
 composure; and as there is a great deal in the influence of harmonious
 associations, he chose, for the scene of this walk, his old
-neighbourhood, down among the mast, oar, and block makers, ship-biscuit
+neighbourhood, down among the mast, oar, and block makers, [[Ship|ship]]-biscuit
 bakers, coal-whippers, pitch-kettles, sailors, canals, docks,
 swing-bridges, and other soothing objects.
 
@@ -339,9 +339,9 @@ MacStinger, who, preserving a countenance of inexorable resolution, and
 wearing conspicuously attached to her obdurate bosom a stupendous watch
 and appendages, which the Captain recognised at a glance as the
 property of Bunsby, conducted under her arm no other than that
-sagacious mariner; he, with the distraught and melancholy visage of a
+sagacious mariner; he, with the distraught and [[Melancholy|melancholy]] visage of a
 captive borne into a foreign land, meekly resigning himself to her
-will. Behind them appeared the young MacStingers, in a body, exulting.
+will. Behind them appeared the young MacStingers, in a [[Body|body]], exulting.
 Behind them, two ladies of a terrible and steadfast aspect, leading
 between them a short gentleman in a tall hat, who likewise exulted. In
 the wake, appeared Bunsby’s boy, bearing umbrellas. The whole were in
@@ -358,9 +358,9 @@ proved. But a cry of recognition proceeding from the party, and
 Alexander MacStinger running up to the Captain with open arms, the
 Captain struck.
 
-“Well, Cap’en Cuttle!” said Mrs MacStinger. “This is indeed a meeting!
-I bear no malice now, Cap’en Cuttle—you needn’t fear that I’m a going
-to cast any reflections. I hope to go to the altar in another spirit.”
+“[[Well]], Cap’en Cuttle!” said Mrs MacStinger. “This is indeed a meeting!
+I bear no malice now, Cap’en Cuttle—you needn’t [[Fear|fear]] that I’m a going
+to cast any reflections. I [[Hope|hope]] to go to the altar in another spirit.”
 Here Mrs MacStinger paused, and drawing herself up, and inflating her
 bosom with a long breath, said, in allusion to the victim, “My “usband,
 Cap’en Cuttle!”
@@ -380,8 +380,8 @@ Cuttle.”
 The short gentleman in the tall hat, who it appeared was the husband of
 the other lady, and who evidently exulted at the reduction of a fellow
 creature to his own condition, gave place at this, and resigned the
-lady to Captain Cuttle. The lady immediately seized him, and, observing
-that there was no time to lose, gave the word, in a strong voice, to
+lady to [[Captain Cuttle]]. The lady immediately seized him, and, observing
+that there was no [[Time|time]] to lose, gave the word, in a strong voice, to
 advance.
 
 The Captain’s concern for his friend, not unmingled, at first, with
@@ -390,25 +390,25 @@ by violence, possessed him, until his knowledge of the service came to
 his relief, and remembering the legal obligation of saying, “I will,”
 he felt himself personally safe so long as he resolved, if asked any
 question, distinctly to reply “I won’t”—threw him into a profuse
-perspiration; and rendered him, for a time, insensible to the movements
+perspiration; and rendered him, for a [[Time|time]], insensible to the movements
 of the procession, of which he now formed a feature, and to the
 conversation of his fair companion. But as he became less agitated, he
 learnt from this lady that she was the widow of a Mr Bokum, who had
-held an employment in the Custom House; that she was the dearest friend
+held an employment in the Custom [[house|House]]; that she was the dearest friend
 of Mrs MacStinger, whom she considered a pattern for her sex; that she
 had often heard of the Captain, and now hoped he had repented of his
 past life; that she trusted Mr Bunsby knew what a blessing he had
 gained, but that she feared men seldom did know what such blessings
 were, until they had lost them; with more to the same purpose.
 
-All this time, the Captain could not but observe that Mrs Bokum kept
+All this [[Time|time]], the Captain could not but observe that Mrs Bokum kept
 her eyes steadily on the bridegroom, and that whenever they came near a
-court or other narrow turning which appeared favourable for flight, she
+[[Court|court]] or other narrow turning which appeared favourable for flight, she
 was on the alert to cut him off if he attempted escape. The other lady,
-too, as well as her husband, the short gentleman with the tall hat,
+too, as [[Well|well]] as her husband, the short gentleman with the tall hat,
 were plainly on guard, according to a preconcerted plan; and the
 wretched man was so secured by Mrs MacStinger, that any effort at
-self-preservation by flight was rendered futile. This, indeed, was
+[[Self|self]]-preservation by flight was rendered futile. This, indeed, was
 apparent to the mere populace, who expressed their perception of the
 fact by jeers and cries; to all of which, the dread MacStinger was
 inflexibly indifferent, while Bunsby himself appeared in a state of
@@ -448,20 +448,20 @@ Bunsby, still looking, and always looking with an immovable
 countenance, at the opposite side of the world, made no reply.
 
 “Why not sheer off?” said the Captain. “Eh?” whispered Bunsby, with a
-momentary gleam of hope.
+momentary gleam of [[Hope|hope]].
 
 “Sheer off,” said the Captain.
 
 “Where’s the good?” retorted the forlorn sage. “She’d capter me agen.”
 
-“Try!” replied the Captain. “Cheer up! Come! Now’s your time. Sheer
+“Try!” replied the Captain. “Cheer up! Come! Now’s your [[Time|time]]. Sheer
 off, Jack Bunsby!”
 
 Jack Bunsby, however, instead of profiting by the advice, said in a
 doleful whisper:
 
 “It all began in that there chest o’ yourn. Why did I ever conwoy her
-into port that night?”
+into port that [[Night|night]]?”
 
 “My lad,” faltered the Captain, “I thought as you had come over her;
 not as she had come over you. A man as has got such opinions as you
@@ -469,8 +469,8 @@ have!”
 
 Mr Bunsby merely uttered a suppressed groan.
 
-“Come!” said the Captain, nudging him with his elbow, “now’s your time!
-Sheer off! I’ll cover your retreat. The time’s a flying. Bunsby! It’s
+“Come!” said the Captain, nudging him with his elbow, “now’s your [[Time|time]]!
+Sheer off! I’ll cover your retreat. The [[Time|time]]’s a flying. Bunsby! It’s
 for liberty. Will you once?”
 
 Bunsby was immovable.
@@ -488,7 +488,7 @@ afterwards married him.
 One of the most frightful circumstances of the ceremony to the Captain,
 was the deadly interest exhibited therein by Juliana MacStinger; and
 the fatal concentration of her faculties, with which that promising
-child, already the image of her parent, observed the whole proceedings.
+[[Child|child]], already the image of her parent, observed the whole proceedings.
 The Captain saw in this a succession of man-traps stretching out
 infinitely; a series of ages of oppression and coercion, through which
 the seafaring line was doomed. It was a more memorable sight than the
@@ -499,14 +499,14 @@ going on, and cared less; being chiefly engaged, during the ceremony,
 in treading on one another’s half-boots; but the contrast afforded by
 those wretched infants only set off and adorned the precocious woman in
 Juliana. Another year or two, the Captain thought, and to lodge where
-that child was, would be destruction.
+that [[Child|child]] was, would be destruction.
 
-The ceremony was concluded by a general spring of the young family on
+The ceremony was concluded by a general [[Spring|spring]] of the young family on
 Mr Bunsby, whom they hailed by the endearing name of father, and from
 whom they solicited half-pence. These gushes of affection over, the
 procession was about to issue forth again, when it was delayed for some
-little time by an unexpected transport on the part of Alexander
-MacStinger. That dear child, it seemed, connecting a chapel with
+little [[Time|time]] by an unexpected transport on the part of Alexander
+MacStinger. That dear [[Child|child]], it seemed, connecting a chapel with
 tombstones, when it was entered for any purpose apart from the ordinary
 religious exercises, could not be persuaded but that his mother was now
 to be decently interred, and lost to him for ever. In the anguish of
@@ -516,16 +516,16 @@ to his mother, it was not in the character of that remarkable woman to
 permit her recognition of them to degenerate into weakness. Therefore,
 after vainly endeavouring to convince his reason by shakes, pokes,
 bawlings-out, and similar applications to his head, she led him into
-the air, and tried another method; which was manifested to the marriage
+the air, and tried another method; which was manifested to the [[Marriage|marriage]]
 party by a quick succession of sharp sounds, resembling applause, and
 subsequently, by their seeing Alexander in contact with the coolest
-paving-stone in the court, greatly flushed, and loudly lamenting.
+paving-stone in the [[Court|court]], greatly flushed, and loudly lamenting.
 
 The procession being then in a condition to form itself once more, and
-repair to Brig Place, where a marriage feast was in readiness, returned
+repair to Brig Place, where a [[Marriage|marriage]] feast was in readiness, returned
 as it had come; not without the receipt, by Bunsby, of many humorous
 congratulations from the populace on his recently-acquired happiness.
-The Captain accompanied it as far as the house-door, but, being made
+The Captain accompanied it as far as the [[house]]-door, but, being made
 uneasy by the gentler manner of Mrs Bokum, who, now that she was
 relieved from her engrossing duty—for the watchfulness and alacrity of
 the ladies sensibly diminished when the bridegroom was safely
@@ -534,15 +534,15 @@ left it and the captive; faintly pleading an appointment, and promising
 to return presently. The Captain had another cause for uneasiness, in
 remorsefully reflecting that he had been the first means of Bunsby’s
 entrapment, though certainly without intending it, and through his
-unbounded faith in the resources of that philosopher.
+unbounded [[Faith|faith]] in the resources of that philosopher.
 
 To go back to old Sol Gills at the wooden Midshipman’s, and not first
-go round to ask how Mr Dombey was—albeit the house where he lay was out
-of London, and away on the borders of a fresh heath—was quite out of
+go round to ask how Mr Dombey was—albeit the [[house]] where he lay was out
+of [[London]], and away on the borders of a fresh heath—was quite out of
 the Captain’s course. So he got a lift when he was tired, and made out
-the journey gaily.
+the [[Journey|journey]] gaily.
 
-The blinds were pulled down, and the house so quiet, that the Captain
+The blinds were pulled down, and the [[house]] so quiet, that the Captain
 was almost afraid to knock; but listening at the door, he heard low
 voices within, very near it, and, knocking softly, was admitted by Mr
 Toots. Mr Toots and his wife had, in fact, just arrived there; having
@@ -553,9 +553,9 @@ They were not so recently arrived, but that Mrs Toots had caught the
 baby from somebody, taken it in her arms, and sat down on the stairs,
 hugging and fondling it. Florence was stooping down beside her; and no
 one could have said which Mrs Toots was hugging and fondling most, the
-mother or the child, or which was the tenderer, Florence of Mrs Toots,
+mother or the [[Child|child]], or which was the tenderer, Florence of Mrs Toots,
 or Mrs Toots of her, or both of the baby; it was such a little group of
-love and agitation.
+[[Love|love]] and agitation.
 
 “And is your Pa very ill, my darling dear Miss Floy?” asked Susan.
 
@@ -564,17 +564,17 @@ speak to me as you used to speak. And what’s this?” said Florence,
 touching her clothes, in amazement. “Your old dress, dear? Your old
 cap, curls, and all?”
 
-Susan burst into tears, and showered kisses on the little hand that had
+Susan burst into [[Tears|tears]], and showered kisses on the little hand that had
 touched her so wonderingly.
 
 “My dear Miss Dombey,” said Mr Toots, stepping forward, “I’ll explain.
 She’s the most extraordinary woman. There are not many to equal her!
 She has always said—she said before we were married, and has said to
-this day—that whenever you came home, she’d come to you in no dress but
-the dress she used to serve you in, for fear she might seem strange to
+this day—that whenever you came [[Home|home]], she’d come to you in no dress but
+the dress she used to serve you in, for [[Fear|fear]] she might seem strange to
 you, and you might like her less. I admire the dress myself,” said Mr
 Toots, “of all things. I adore her in it! My dear Miss Dombey, she’ll
-be your maid again, your nurse, all that she ever was, and more.
+be your maid again, your [[Nurse|nurse]], all that she ever was, and more.
 There’s no change in her. But, Susan, my dear,” said Mr Toots, who had
 spoken with great feeling and high admiration, “all I ask is, that
 you’ll remember the medical man, and not exert yourself too much!”

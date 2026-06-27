@@ -50,7 +50,7 @@ tags:
 
 
 
-      When the visitors had satisfied, as well as they could, their
+      When the visitors had satisfied, as [[Well|well]] as they could, their
 
       curiosity in regard to our upper works, they were admitted below,
 
@@ -58,7 +58,7 @@ tags:
 
       appeared to be far too deep for words, for they roamed about in
 
-      silence, broken only by low ejaculations. The arms afforded them
+      [[Silence|silence]], broken only by low ejaculations. The arms afforded them
 
       much food for speculation, and they were suffered to handle and
 
@@ -70,7 +70,7 @@ tags:
 
       watched their movements while handling them. At the great guns
 
-      their wonder was redoubled. They approached them with every mark
+      their [[Wonder|wonder]] was redoubled. They approached them with every mark
 
       of the profoundest reverence and awe, but forbore to examine them
 
@@ -82,15 +82,15 @@ tags:
 
       one and his back to the other, before he fairly perceived them.
 
-      Upon raising his eyes and seeing his reflected self in the glass,
+      Upon raising his eyes and seeing his reflected [[Self|self]] in the glass,
 
       I thought the savage would go mad; but, upon turning short round
 
-      to make a retreat, and beholding himself a second time in the
+      to make a retreat, and beholding himself a second [[Time|time]] in the
 
       opposite direction, I was afraid he would expire upon the spot.
 
-      No persuasion could prevail upon him to take another look;
+      No [[Persuasion|persuasion]] could prevail upon him to take another look;
 
       throwing himself upon the floor, with his face buried in his
 
@@ -102,7 +102,7 @@ tags:
 
       The whole of the savages were admitted on board in this manner,
 
-      twenty at a time, Too-wit being suffered to remain during the
+      twenty at a [[Time|time]], Too-wit being suffered to remain during the
 
       entire period. We saw no disposition to thievery among them, nor
 
@@ -136,7 +136,7 @@ tags:
 
       in regard to the latitude—induced Captain Guy to wish for a
 
-      thorough investigation of the country, in the hope of making a
+      thorough investigation of the country, in the [[Hope|hope]] of making a
 
       profitable speculation in his discovery. For my own part, anxious
 
@@ -150,7 +150,7 @@ tags:
 
       parallel, with an open sea before us, a current setting strongly
 
-      to the southward, and the wind fair, I could not listen with any
+      to the southward, and the [[Wind|wind]] fair, I could not listen with any
 
       patience to a proposition of stopping longer than was absolutely
 
@@ -160,7 +160,7 @@ tags:
 
       captain that we might easily make this group on our return, and
 
-      winter here in the event of being blocked up by the ice. He at
+      [[Winter|winter]] here in the event of being blocked up by the ice. He at
 
       length came into my views (for in some way, hardly known to
 
@@ -180,9 +180,9 @@ tags:
 
       on the southeastern coast of the main island, and in ten fathoms
 
-      of water, black sandy bottom. At the head of this bay there were
+      of [[Water|water]], black sandy [[Bottom|bottom]]. At the head of this bay there were
 
-      three fine springs (we were told) of good water, and we saw
+      three fine springs (we were told) of good [[Water|water]], and we saw
 
       abundance of wood in the vicinity. The four canoes followed us
 

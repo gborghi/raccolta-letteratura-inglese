@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 6 (part 3)"
+title: "[[Don Quixote]] — Chapter 6 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-"Well, well," Murrel had said, for he was a universal peace-maker,
-"perhaps it's as well the work is left to you.  You are so practical.
+"[[Well]], [[Well|well]]," Murrel had said, for he was a universal peace-maker,
+"perhaps it's as [[Well|well]] the work is left to you.  You are so practical.
 You are a Man of Action."
 
 And Rosamund was somewhat soothed and admitted she had often
@@ -27,7 +27,7 @@ Indeed it was not quite true to say, as Rosamund said,
 that they had given her her old medieval play.
 It would be truer to say that they had taken it away from her.
 They had improved it immensely; they seemed to be quite
-confident of that, and no doubt they ought to know.
+confident of that, and no [[Doubt|doubt]] they ought to know.
 They paid every possible tribute to it, as a thing that could
 be worked up most successfully for the stage.  A little adapted,
 it afforded some admirable entrances and exits for Mr. Julian Archer.
@@ -52,22 +52,22 @@ they were her own jokes; and they were not at all practical.
 The camel could not pass through the eye of the needle;
 and the pantomime elephant could not pass through the
 key-hole of the door that guarded her chamber of imagery.
-That divine dolls'-house in which she played with pigmy saints
+That divine dolls'-[[house]] in which she played with pigmy saints
 and pigmy angels was too small for these people, like big
 clumsy brothers and sisters, to come blundering into it.
-So she fell back on her own old amusement, amid general wonder.
+So she fell back on her own old amusement, amid general [[Wonder|wonder]].
 Nevertheless on this particular morning she was a little
 less mildly monomaniac than usual.  After working for about
-ten minutes, she rose to her feet, staring out on to the garden.
+ten minutes, she [[Rose|rose]] to her feet, staring out on to the [[Garden|garden]].
 Then she passed out almost like an automaton, the paint-brush still
-in her hand.  She stood looking for a little time at the great
-Gothic fragment on the pedestal, in the shadow of which she
+in her hand.  She stood looking for a little [[Time|time]] at the great
+Gothic [[Fragment|fragment]] on the pedestal, in the [[Shadow|shadow]] of which she
 and Murrel had debated the terrible problem of John Braintree.
 Then she looked across at the doors and windows in the opposite
-wing of the house; and saw that in the doorway of the library
+wing of the [[house]]; and saw that in the doorway of the library
 the librarian was standing, with Douglas Murrel beside him.
 
-The sight of these two early birds seemed to awaken the third
+The sight of these two early [[Birds|birds]] seemed to awaken the third
 early bird to a more practical contact with the waking world.
 It seemed as if she suddenly took a resolution, or became aware
 of a resolution she had already taken.  She walked a little
@@ -86,22 +86,22 @@ as delicate in its tint as a clear space in the sunset.
 Now I can't get a colour like that anywhere."
 
 "Oh, I don't know about that," said Murrel in his easy-going way.
-"I reckon you can get pretty well anything nowadays if you know
+"I reckon you can get pretty [[Well|well]] anything nowadays if you know
 where to go."
 
 "You mean," said Olive somewhat bitterly, "that you can get anything
 nowadays if you know how to pay for it."
 
-"I wonder," said the librarian musing, "if I were to offer
-to pay for a Palaeo-Hittite _palumon,_ now, I wonder whether
+"I [[Wonder|wonder]]," said the librarian musing, "if I were to offer
+to pay for a Palaeo-Hittite _palumon,_ now, I [[Wonder|wonder]] whether
 it would be easy to obtain."
 
-"I don't say that Selfridge actually puts it in the shop-window,"
+"I don't say that Selfridge actually puts it in the shop-[[Window|window]],"
 said Murrel, "but you'd probably find some other American
 millionaire somewhere, willing to do what he would call
 a trade with it."
 
-"Now look here, Douglas," cried Olive with a certain fire,
+"Now look here, Douglas," cried Olive with a certain [[Fire|fire]],
 "I know you're fond of bets and wagers and that sort of thing.
 I'll show you the red colour I mean in the book, and you shall
 compare it yourself with the colours in my paint-box. And

@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 64 (part 3)"
+title: "[[Barnaby Rudge]] — Chapter 64 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -15,22 +15,22 @@ tags:
 
 
 It was remarkable that these cries began in that quarter of the jail
-which fronted Newgate Street, where, it was well known, the men who were
-to suffer death on Thursday were confined. And not only were these four
-who had so short a time to live, the first to whom the dread of being
+which fronted Newgate Street, where, it was [[Well|well]] known, the men who were
+to suffer [[Death|death]] on [[thursday|Thursday]] were confined. And not only were these four
+who had so short a [[Time|time]] to live, the first to whom the dread of being
 burnt occurred, but they were, throughout, the most importunate of all:
 for they could be plainly heard, notwithstanding the great thickness of
-the walls, crying that the wind set that way, and that the flames would
+the walls, crying that the [[Wind|wind]] set that way, and that the flames would
 shortly reach them; and calling to the officers of the jail to come
-and quench the fire from a cistern which was in their yard, and full
-of water. Judging from what the crowd outside the walls could hear from
-time to time, these four doomed wretches never ceased to call for
+and quench the [[Fire|fire]] from a cistern which was in their yard, and full
+of [[Water|water]]. Judging from what the crowd outside the walls could hear from
+[[Time|time]] to [[Time|time]], these four doomed wretches never ceased to call for
 help; and that with as much distraction, and in as great a frenzy of
 attachment to existence, as though each had an honoured, happy life
-before him, instead of eight-and-forty hours of miserable imprisonment,
-and then a violent and shameful death.
+before him, instead of eight-and-forty hours of miserable [[Imprisonment|imprisonment]],
+and then a violent and shameful [[Death|death]].
 
-But the anguish and suffering of the two sons of one of these men, when
+But the anguish and [[Suffering|suffering]] of the two sons of one of these men, when
 they heard, or fancied that they heard, their father’s voice, is past
 description. After wringing their hands and rushing to and fro as if
 they were stark mad, one mounted on the shoulders of his brother, and
@@ -41,10 +41,10 @@ he found the feat impossible, began to beat the stones and tear them
 with his hands, as if he could that way make a breach in the strong
 building, and force a passage in. At last, they cleft their way among
 the mob about the door, though many men, a dozen times their match, had
-tried in vain to do so, and were seen, in--yes, in--the fire, striving
+tried in vain to do so, and were seen, in--yes, in--the [[Fire|fire]], striving
 to prize it down, with crowbars.
 
-Nor were they alone affected by the outcry from within the prison. The
+Nor were they [[Alone|alone]] affected by the outcry from within the [[Prison|prison]]. The
 women who were looking on, shrieked loudly, beat their hands together,
 stopped their ears; and many fainted: the men who were not near the
 walls and active in the siege, rather than do nothing, tore up the
@@ -59,25 +59,25 @@ topmost hinge. It hung on that side by but one, but it was upright
 still, because of the bar, and its having sunk, of its own weight, into
 the heap of ashes at its foot. There was now a gap at the top of the
 doorway, through which could be descried a gloomy passage, cavernous and
-dark. Pile up the fire!
+dark. Pile up the [[Fire|fire]]!
 
 It burnt fiercely. The door was red-hot, and the gap wider. They vainly
 tried to shield their faces with their hands, and standing as if in
-readiness for a spring, watched the place. Dark figures, some crawling
+readiness for a [[Spring|spring]], watched the place. Dark figures, some crawling
 on their hands and knees, some carried in the arms of others, were seen
 to pass along the roof. It was plain the jail could hold out no longer.
 The keeper, and his officers, and their wives and children, were
-escaping. Pile up the fire!
+escaping. Pile up the [[Fire|fire]]!
 
 The door sank down again: it settled deeper in the
 cinders--tottered--yielded--was down!
 
 As they shouted again, they fell back, for a moment, and left a clear
-space about the fire that lay between them and the jail entry. Hugh
+space about the [[Fire|fire]] that lay between them and the jail entry. Hugh
 leapt upon the blazing heap, and scattering a train of sparks into the
 air, and making the dark lobby glitter with those that hung upon his
 dress, dashed into the jail.
 
 The hangman followed. And then so many rushed upon their track, that the
-fire got trodden down and thinly strewn about the street; but there was
-no need of it now, for, inside and out, the prison was in flames.
+[[Fire|fire]] got trodden down and thinly strewn about the street; but there was
+no need of it now, for, inside and out, the [[Prison|prison]] was in flames.

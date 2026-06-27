@@ -1,5 +1,5 @@
 ---
-title: "Troilus and Cressida — Act V, Scene 11 — exchange (TO.THE. ONLY.BEGETTER.OF.) [7]"
+title: "[[Troilus]] and [[Cressida]] — Act V, Scene 11 — exchange (TO.THE. ONLY.BEGETTER.OF.) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/TROILUS-AND-CRESSIDA-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| TO.THE. ONLY.BEGETTER.OF. THESE.ENSUING.SONNETS. | M r .W.H. ALL.HAPPINESS. AND.THAT.ETERNITY. PROMISED. BY. OUR.EVER-LIVING.POET. WISHETH. THE. WELL-WISHING. ADVENTURER.IN. SETTING. FORTH. |
+| TO.THE. ONLY.BEGETTER.OF. THESE.ENSUING.SONNETS. | M r .W.H. ALL.HAPPINESS. AND.THAT.[[Eternity|ETERNITY]]. PROMISED. BY. OUR.EVER-LIVING.POET. WISHETH. THE. [[Well|WELL]]-WISHING. ADVENTURER.IN. SETTING. FORTH. |

@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE FACE IN THE TARGET (part 7)"
+title: "[[manwho]] — THE FACE IN THE TARGET (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -34,19 +34,19 @@ supposed to stamp him as an upstart. Now, as a matter of fact,
 
 upstarts generally don't do this. God knows there's enough of 'em in
 
-society; and one knows 'em well enough. And this is the very last
+society; and one knows 'em [[Well|well]] enough. And this is the very last
 
 thing they do. They're generally only too keen to know the right
 
-thing and do it; and they instantly put themselves body and soul
+thing and do it; and they instantly put themselves [[Body|body]] and [[Soul|soul]]
 
 into the hands of art decorators and art experts, who do the whole
 
 thing for them. There's hardly another millionaire alive who has the
 
-moral courage to have a gilt monogram on a chair like that one in
+moral [[Courage|courage]] to have a gilt monogram on a chair like that one in
 
-the gun-room. For that matter, there's the name as well as the
+the gun-room. For that matter, there's the name as [[Well|well]] as the
 
 monogram. Names like Tompkins and Jenkins and Jinks are funny
 
@@ -80,7 +80,7 @@ be a new kind of hypocrite hiding a talent in a new kind of napkin.
 
 This man has chosen his hypocrisy very ingeniously; it was really a
 
-new one. A subtle villain has dressed up as a dashing gentleman and
+new one. A subtle [[Villain|villain]] has dressed up as a dashing gentleman and
 
 a worthy business man and a philanthropist and a saint; but the loud
 
@@ -120,7 +120,7 @@ dabbled a little in drawing myself, and I assure you that to put one
 
 dot where you want it is a marvel with a pen close to a piece of
 
-paper. It was a miracle to do it across a garden with a gun. But a
+paper. It was a miracle to do it across a [[Garden|garden]] with a gun. But a
 
 man who can work those miracles will always itch to work them, if
 
@@ -146,17 +146,17 @@ for a little way, and then concluded he'd made a mistake."
 
 
 
-There was another silence, during which Fisher sat on a great stone
+There was another [[Silence|silence]], during which Fisher sat on a great stone
 
 as motionless as on their first meeting, and watched the gray and
 
-silver river eddying past under the bushes. Then March said,
+silver [[River|river]] eddying past under the bushes. Then March said,
 
-abruptly, "Of course he knows the truth now."
+abruptly, "Of course he knows the [[Truth|truth]] now."
 
 
 
-"Nobody knows the truth but you and I," answered Fisher, with a
+"Nobody knows the [[Truth|truth]] but you and I," answered Fisher, with a
 
 certain softening in his voice. "And I don't think you and I will
 
@@ -182,7 +182,7 @@ last he said, "The police have proved it was a motor accident."
 
 "I told you that I know too much," replied Fisher, with his eye on
 
-the river. "I know that, and I know a great many other things. I
+the [[River|river]]. "I know that, and I know a great many other things. I
 
 know the atmosphere and the way the whole thing works. I know this
 
@@ -194,11 +194,11 @@ Toole or Little Tich. If I were to tell Hoggs or Halkett that old
 
 Jink was an assassin, they would almost die of laughter before my
 
-eyes. Oh, I don't say their laughter's quite innocent, though it's
+eyes. Oh, I don't say their laughter's quite [[Innocent|innocent]], though it's
 
 genuine in its way. They want old Jink, and they couldn't do without
 
-him. I don't say I'm quite innocent. I like Hoggs; I don't want him
+him. I don't say I'm quite [[Innocent|innocent]]. I like Hoggs; I don't want him
 
 to be down and out; and he'd be done for if Jink can't pay for his
 
@@ -224,7 +224,7 @@ dynamite, I don't know that the human race will be much the worse.
 
 But don't be too hard on me merely because I know what society is.
 
-That's why I moon away my time over things like stinking fish."
+That's why I [[Moon|moon]] away my [[Time|time]] over things like stinking fish."
 
 
 

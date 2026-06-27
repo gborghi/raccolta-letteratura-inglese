@@ -15,13 +15,13 @@ tags:
 
 
 One of Mr Toots’s hardest trials, however, was of his own seeking. On
-the approach of the Sunday which was to witness the last of those
+the approach of the [[Sunday]] which was to witness the last of those
 askings in church of which the Captain had spoken, Mr Toots thus stated
-his feelings to Susan Nipper.
+his feelings to [[Susan Nipper]].
 
 “Susan,” said Mr Toots, “I am drawn towards the building. The words
 which cut me off from Miss Dombey for ever, will strike upon my ears
-like a knell you know, but upon my word and honour, I feel that I must
+like a knell you know, but upon my word and [[Honour|honour]], I feel that I must
 hear them. Therefore,” said Mr Toots, “will you accompany me to-morrow,
 to the sacred edifice?”
 
@@ -38,10 +38,10 @@ consign her to Lieutenant Walters, and me to—to Gloom, you know,” said
 Mr Toots, after hesitating for a strong expression, “may be dreadful,
 will be dreadful; but I feel that I should wish to hear them spoken. I
 feel that I should wish to know that the ground was certainly cut from
-under me, and that I hadn’t a hope to cherish, or a—or a leg, in short,
+under me, and that I hadn’t a [[Hope|hope]] to cherish, or a—or a leg, in short,
 to—to go upon.”
 
-Susan Nipper could only commiserate Mr Toots’s unfortunate condition,
+[[Susan Nipper]] could only commiserate Mr Toots’s unfortunate condition,
 and agree, under these circumstances, to accompany him; which she did
 next morning.
 
@@ -50,36 +50,36 @@ in a yard, hemmed in by a labyrinth of back streets and courts, with a
 little burying-ground round it, and itself buried in a kind of vault,
 formed by the neighbouring houses, and paved with echoing stones. It
 was a great dim, shabby pile, with high old oaken pews, among which
-about a score of people lost themselves every Sunday; while the
+about a score of people lost themselves every [[Sunday]]; while the
 clergyman’s voice drowsily resounded through the emptiness, and the
 organ rumbled and rolled as if the church had got the colic, for want
-of a congregation to keep the wind and damp out. But so far was this
-city church from languishing for the company of other churches, that
+of a congregation to keep the [[Wind|wind]] and damp out. But so far was this
+[[City|city]] church from languishing for the company of other churches, that
 spires were clustered round it, as the masts of shipping cluster on the
-river. It would have been hard to count them from its steeple-top, they
+[[River|river]]. It would have been hard to count them from its steeple-top, they
 were so many. In almost every yard and blind-place near, there was a
-church. The confusion of bells when Susan and Mr Toots betook
-themselves towards it on the Sunday morning, was deafening. There were
+church. The confusion of [[Bells|bells]] when Susan and Mr Toots betook
+themselves towards it on the [[Sunday]] morning, was deafening. There were
 twenty churches close together, clamouring for people to come in.
 
 The two stray sheep in question were penned by a beadle in a commodious
-pew, and, being early, sat for some time counting the congregation,
+pew, and, being early, sat for some [[Time|time]] counting the congregation,
 listening to the disappointed bell high up in the tower, or looking at
 a shabby little old man in the porch behind the screen, who was ringing
 the same, like the Bull in Cock Robin, with his foot in a stirrup. Mr
 Toots, after a lengthened survey of the large books on the
 reading-desk, whispered Miss Nipper that he wondered where the banns
 were kept, but that young lady merely shook her head and frowned;
-repelling for the time all approaches of a temporal nature.
+repelling for the [[Time|time]] all approaches of a temporal [[Nature|nature]].
 
 Mr Toots, however, appearing unable to keep his thoughts from the
 banns, was evidently looking out for them during the whole preliminary
-portion of the service. As the time for reading them approached, the
+portion of the service. As the [[Time|time]] for reading them approached, the
 poor young gentleman manifested great anxiety and trepidation, which
 was not diminished by the unexpected apparition of the Captain in the
 front row of the gallery. When the clerk handed up a list to the
 clergyman, Mr Toots, being then seated, held on by the seat of the pew;
-but when the names of Walter Gay and Florence Dombey were read aloud as
+but when the names of [[Walter Gay]] and [[Florence Dombey]] were read aloud as
 being in the third and last stage of that association, he was so
 entirley conquered by his feelings as to rush from the church without
 his hat, followed by the beadle and pew-opener, and two gentlemen of
@@ -97,8 +97,8 @@ gallery, was in a state of unmitigated consciousness which could hardly
 fail to express to the congregation that he had some mysterious
 connection with it. But the extreme restlessness of Mr Toots painfully
 increased and protracted the delicacy of her situation. That young
-gentleman, incapable, in his state of mind, of remaining alone in the
-churchyard, a prey to solitary meditation, and also desirous, no doubt,
+gentleman, incapable, in his state of mind, of remaining [[Alone|alone]] in the
+churchyard, a prey to solitary meditation, and also desirous, no [[Doubt|doubt]],
 of testifying his respect for the offices he had in some measure
 interrupted, suddenly returned—not coming back to the pew, but
 stationing himself on a free seat in the aisle, between two elderly
@@ -109,10 +109,10 @@ felt it impossible to avoid looking at him, until his feelings overcame
 him again, when he departed silently and suddenly. Not venturing to
 trust himself in the church any more, and yet wishing to have some
 social participation in what was going on there, Mr Toots was, after
-this, seen from time to time, looking in, with a lorn aspect, at one or
+this, seen from [[Time|time]] to [[Time|time]], looking in, with a lorn aspect, at one or
 other of the windows; and as there were several windows accessible to
 him from without, and as his restlessness was very great, it not only
-became difficult to conceive at which window he would appear next, but
+became difficult to conceive at which [[Window|window]] he would appear next, but
 likewise became necessary, as it were, for the whole congregation to
 speculate upon the chances of the different windows, during the
 comparative leisure afforded them by the sermon. Mr Toots’s movements
@@ -120,7 +120,7 @@ in the churchyard were so eccentric, that he seemed generally to defeat
 all calculation, and to appear, like the conjuror’s figure, where he
 was least expected; and the effect of these mysterious presentations
 was much increased by its being difficult to him to see in, and easy to
-everybody else to see out: which occasioned his remaining, every time,
+everybody else to see out: which occasioned his remaining, every [[Time|time]],
 longer than might have been expected, with his face close to the glass,
 until he all at once became aware that all eyes were upon him, and
 vanished.

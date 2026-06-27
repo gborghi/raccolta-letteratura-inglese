@@ -14,14 +14,14 @@ tags:
 </nav>
 
 
-There is the drearier and more detached sort of pride of the other
+There is the drearier and more detached sort of [[Pride|pride]] of the other
 sort of man, who may be said to turn his nose down at everything.
 For that also is only a more depressing way of turning everything down.
 It is not a mark of purity of taste, but of absence of taste, to think
 that cocoa is as good as claret; and in the field of morals it may
-well have the ultimate Nemesis of thinking cocaine as good as cocoa.
+[[Well|well]] have the ultimate Nemesis of thinking cocaine as good as cocoa.
 Even the mere senses, in the merely sensual sense, attest to this
-truth about vivacity going with differentiation.  It is no answer,
+[[Truth|truth]] about vivacity going with differentiation.  It is no answer,
 therefore, to say that you have persuaded a whole crowd of hygienic
 hikers to be content with cocoa any more than to say that you have
 persuaded a whole crowd of drug-fiends to be content with cocaine.
@@ -40,13 +40,13 @@ and that you are a paralytic.
 We are constantly told, for instance, by the very prosaic
 paralytics who call themselves Nudists, that people "soon get used"
 to being degraded, in that particular, to the habits of the beasts
-of the field.  I have no doubt they do; just as they soon get
-used to being drunkards or drug-fiends or jail-birds or people
+of the field.  I have no [[Doubt|doubt]] they do; just as they soon get
+used to being drunkards or drug-fiends or jail-[[Birds|birds]] or people
 talking Cockney instead of talking English.  Where the argument
 of the apologist entirely fails is in showing that it is _better_
 to get used to an inferior status after losing a superior one.
 In a hundred ways, recent legislation has ridden roughshod over
-the instincts of innocent and simple and yet very sensible people.
+the instincts of [[Innocent|innocent]] and simple and yet very sensible people.
 There was a feeling, strangely enough, that men and women might not
 feel very comfortable when they met as total strangers to discuss some
 depraved and perhaps disgusting aspect of their natural sex relation.
@@ -66,7 +66,7 @@ The question is whether the blunting of the sentiment really is a
 victory for human culture, and not rather a defeat for human culture.
 Just as the question is not whether millions of little boys,
 in different districts with different dialects, can all be taught
-the same dialect of the Whitechapel Road, but whether that dialect
+the same dialect of the Whitechapel [[Road]], but whether that dialect
 is better than others; and whether it is a good thing to lose
 the sense of difference between dialects.
 
@@ -76,7 +76,7 @@ from which the freethinking haddock is entirely emancipated,
 and by which the latitudinarian turnip is never troubled.
 To lose the sense of repugnance from one thing, or regard for another,
 is exactly so far as it goes to relapse into the vegetation
-or to return to the dust.  But for about fifty or sixty years
+or to return to the [[Dust|dust]].  But for about fifty or sixty years
 nearly all our culture and controversial trend has been conducted
 on the assumption that, as long as we could get used to any sort
 of caddishness, we could be perfectly contented in being cads.

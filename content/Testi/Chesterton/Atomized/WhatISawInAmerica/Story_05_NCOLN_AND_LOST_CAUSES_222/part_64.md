@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 64)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 64)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Lincoln's attitude towards slavery. That is, he will manage to endure
+[[Lincoln]]'s attitude towards [[Slavery|slavery]]. That is, he will manage to endure
 
 capitalism; but he will not endure a defence of capitalism. He will
 
@@ -26,27 +26,27 @@ having a thing clearly labelled in his own mind as bad, long before the
 
 opportunity comes to abolish it. He may recognise the risk of even worse
 
-things in immediate abolition, as Lincoln did in abolitionism. He will
+things in immediate abolition, as [[Lincoln]] did in abolitionism. He will
 
-not call all business men brutes, any more than Lincoln would call all
+not call all business men brutes, any more than [[Lincoln]] would call all
 
 planters demons; because he knows they are not. He will regard many
 
-alternatives to capitalism as crude and inhuman, as Lincoln regarded
+alternatives to capitalism as crude and inhuman, as [[Lincoln]] regarded
 
 John Brown's raid; because they are. But he will clear his _mind_ from
 
-cant about capitalism; he will have no doubt of what is the truth about
+cant about capitalism; he will have no [[Doubt|doubt]] of what is the [[Truth|truth]] about
 
 Trusts and Trade Combines and the concentration of capital; and it is
 
-the truth that they endure under one of the ironic silences of heaven,
+the [[Truth|truth]] that they endure under one of the ironic silences of heaven,
 
 over the pageants and the passing triumphs of hell.
 
 
 
-But the name of Lincoln has a more immediate reference to the
+But the name of [[Lincoln]] has a more immediate reference to the
 
 international matters I am considering here. His name has been much
 
@@ -58,7 +58,7 @@ the tact and sagacity of those journalists and politicians.
 
 
 
-History is an eternal tangle of cross-purposes; and we could not take a
+[[history|History]] is an eternal tangle of [[Cross|cross]]-purposes; and we could not take a
 
 clearer case, or rather a more complicated case, of such a tangle, than
 
@@ -68,13 +68,13 @@ politicians. I mean the parallel between the movement for Irish
 
 independence and the attempted secession of the Southern Confederacy in
 
-America. Superficially any one might say that the comparison is natural
+[[America]]. Superficially any one might say that the comparison is natural
 
 enough; and that there is much in common between the quarrel of the
 
 North and South in Ireland and the quarrel of the North and South in
 
-America. In both cases the South was on the whole agricultural, the
+[[America]]. In both cases the South was on the whole agricultural, the
 
 North on the whole industrial. True, the parallel exaggerates the
 
@@ -84,17 +84,17 @@ system to have consisted of Pittsburg. In both the side that was more
 
 successful was felt by many to be less attractive. In both the same
 
-political terms were used, such as the term 'Union' and 'Unionism.' An
+political terms were used, such as the term '[[Union]]' and 'Unionism.' An
 
-ordinary Englishman comes to America, knowing these main lines of
+ordinary Englishman comes to [[America]], knowing these main lines of
 
-American history, and knowing that the American knows the similar main
+American [[history]], and knowing that the American knows the similar main
 
-lines of Irish history. He knows that there are strong champions of
+lines of Irish [[history]]. He knows that there are strong champions of
 
-Ireland in America; possibly he also knows that there are very genuine
+Ireland in [[America]]; possibly he also knows that there are very genuine
 
-champions of England in America. By every possible historical analogy,
+champions of England in [[America]]. By every possible historical analogy,
 
 he would naturally expect to find the pro-Irish in the South and the
 
@@ -104,7 +104,7 @@ the opposite. He finds Boston governed by Irishmen, and Nashville
 
 containing people more pro-English than Englishmen. He finds Virginians
 
-not only of British blood, like George Washington, but of British
+not only of British [[Blood|blood]], like George Washington, but of British
 
 opinions almost worthy of George the Third.
 
@@ -128,7 +128,7 @@ Americans of the Southern States. As I have already hinted, some of them
 
 are so loyal to the English humanities, that they think it their duty to
 
-defend even the English inhumanities. New England is turning into New
+defend even the English inhumanities. [[New England]] is turning into New
 
 Ireland. But Old England can still be faintly traced in Old Dixie. It
 
@@ -142,11 +142,11 @@ places whose historic memories and family traditions really hold them to
 
 us, not by alliance but by affection. Indeed, they have the affection in
 
-spite of the alliance. They love us in spite of our compliments and
+spite of the alliance. They [[Love|love]] us in spite of our compliments and
 
 courtesies and hands across the sea; all our ambassadorial salutations
 
-and speeches cannot kill their love. They manage even to respect us in
+and speeches cannot kill their [[Love|love]]. They manage even to respect us in
 
 spite of the shady Jew stockbrokers we send them as English envoys, or
 
@@ -178,13 +178,13 @@ English politicians eagerly point out that we shall be justified in
 
 crushing Ireland exactly as Sumner and Stevens crushed the most English
 
-part of America. It does not seem to occur to them that this comparison
+part of [[America]]. It does not seem to occur to them that this comparison
 
-between the Unionist triumph in America and a Unionist triumph in
+between the Unionist triumph in [[America]] and a Unionist triumph in
 
 Britain is rather hard upon our particular sympathisers, who did not
 
-triumph. When England exults in Lincoln's victory over his foes, she is
+triumph. When England exults in [[Lincoln]]'s victory over his foes, she is
 
 exulting in his victory over her own friends. If her diplomacy continues
 

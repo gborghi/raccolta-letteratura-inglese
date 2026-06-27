@@ -1,5 +1,5 @@
 ---
-title: "The Colloquy of Monos and Una (part 3)"
+title: "[[The Colloquy of Monos and Una]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Colloquy-of-Monos-and-Una-(Poe)"
@@ -22,7 +22,7 @@ tags:
 
       shade—curved or angular in outline. The hearing, at the same
 
-      time, although excited in degree, was not irregular in
+      [[Time|time]], although excited in degree, was not irregular in
 
       action—estimating real sounds with an extravagance of precision,
 
@@ -44,9 +44,9 @@ tags:
 
       passive brain by the senses were not in the least degree wrought
 
-      into shape by the deceased understanding. Of pain there was some
+      into shape by the deceased understanding. Of [[Pain|pain]] there was some
 
-      little; of pleasure there was much; but of moral pain or pleasure
+      little; of pleasure there was much; but of moral [[Pain|pain]] or pleasure
 
       none at all. Thus your wild sobs floated into my ear with all
 
@@ -56,13 +56,13 @@ tags:
 
       more; they conveyed to the extinct reason no intimation of the
 
-      sorrows which gave them birth; while the large and constant tears
+      sorrows which gave them birth; while the large and constant [[Tears|tears]]
 
       which fell upon my face, telling the bystanders of a heart which
 
-      broke, thrilled every fibre of my frame with ecstasy alone. And
+      broke, thrilled every fibre of my frame with ecstasy [[Alone|alone]]. And
 
-      this was in truth the Death of which these bystanders spoke
+      this was in [[Truth|truth]] the [[Death]] of which these bystanders spoke
 
       reverently, in low whispers—you, sweet Una, gaspingly, with loud
 
@@ -80,7 +80,7 @@ tags:
 
       other dismal expressions of terror, of horror, or of wo. You
 
-      alone, habited in a white robe, passed in all directions
+      [[Alone|alone]], habited in a white robe, passed in all directions
 
       musically about me.
 
@@ -88,13 +88,13 @@ tags:
 
       The day waned; and, as its light faded away, I became possessed
 
-      by a vague uneasiness—an anxiety such as the sleeper feels when
+      by a vague uneasiness—an anxiety such as [[The Sleeper|the sleeper]] feels when
 
       sad real sounds fall continuously within his ear—low distant
 
       bell-tones, solemn, at long but equal intervals, and mingling
 
-      with melancholy dreams. Night arrived; and with its shadows a
+      with [[Melancholy|melancholy]] [[Dreams|dreams]]. [[Night]] arrived; and with its shadows a
 
       heavy discomfort. It oppressed my limbs with the oppression of
 
@@ -128,11 +128,11 @@ tags:
 
       forth, a something akin to sentiment itself—a feeling that, half
 
-      appreciating, half responded to your earnest love and sorrow; but
+      appreciating, half responded to your earnest [[Love|love]] and sorrow; but
 
       this feeling took no root in the pulseless heart, and seemed
 
-      indeed rather a shadow than a reality, and faded quickly away,
+      indeed rather a [[Shadow|shadow]] than a reality, and faded quickly away,
 
       first into extreme quiescence, and then into a purely sensual
 
@@ -158,13 +158,13 @@ tags:
 
       a mental pendulous pulsation. It was the moral embodiment of
 
-      man’s abstract idea of Time. By the absolute equalization of this
+      man’s abstract idea of [[Time]]. By the absolute equalization of this
 
       movement—or of such as this—had the cycles of the firmamental
 
       orbs themselves, been adjusted. By its aid I measured the
 
-      irregularities of the clock upon the mantel, and of the watches
+      irregularities of the [[Clock|clock]] upon the mantel, and of the watches
 
       of the attendants. Their tickings came sonorously to my ears. The
 
@@ -172,9 +172,9 @@ tags:
 
       deviations were omni-prevalent—affected me just as violations of
 
-      abstract truth were wont, on earth, to affect the moral sense.
+      abstract [[Truth|truth]] were wont, on earth, to affect the moral sense.
 
-      Although no two of the time-pieces in the chamber struck the
+      Although no two of the [[Time|time]]-pieces in the chamber struck the
 
       individual seconds accurately together, yet I had no difficulty
 
@@ -182,7 +182,7 @@ tags:
 
       momentary errors of each. And this—this keen, perfect,
 
-      self-existing sentiment of duration—this sentiment existing (as
+      [[Self|self]]-existing sentiment of duration—this sentiment existing (as
 
       man could not possibly have conceived it to exist) independently
 
@@ -190,12 +190,12 @@ tags:
 
       upspringing from the ashes of the rest, was the first obvious and
 
-      certain step of the intemporal soul upon the threshold of the
+      certain step of the intemporal [[Soul|soul]] upon the threshold of the
 
-      temporal Eternity.
+      temporal [[Eternity]].
 
 
 
       It was midnight; and you still sat by my side. All others had
 
-      departed from the chamber of Death. They had deposited me in the
+      departed from the chamber of [[Death]]. They had deposited me in the

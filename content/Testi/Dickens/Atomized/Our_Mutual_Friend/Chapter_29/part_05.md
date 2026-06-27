@@ -20,7 +20,7 @@ tags:
 his eyes on Riah’s beard as he felt for his own; ‘having company on my
 premises, you know!’
 
-‘Come up and see the guests, sir. I hope for your admission that they
+‘Come up and see the guests, sir. I [[Hope|hope]] for your admission that they
 can do no harm.’
 
 Passing him with a courteous reverence, specially unlike any action that
@@ -28,30 +28,30 @@ Mr Fledgeby could for his life have imparted to his own head and hands,
 the old man began to ascend the stairs. As he toiled on before, with his
 palm upon the stair-rail, and his long black skirt, a very gaberdine,
 overhanging each successive step, he might have been the leader in some
-pilgrimage of devotional ascent to a prophet’s tomb. Not troubled by any
-such weak imagining, Fascination Fledgeby merely speculated on the time
+pilgrimage of devotional ascent to a [[Prophet|prophet]]’s tomb. Not troubled by any
+such weak imagining, Fascination Fledgeby merely speculated on the [[Time|time]]
 of life at which his beard had begun, and thought once more what a good
 ’un he was for the part.
 
 Some final wooden steps conducted them, stooping under a low penthouse
-roof, to the house-top. Riah stood still, and, turning to his master,
+roof, to the [[house]]-top. Riah stood still, and, turning to his master,
 pointed out his guests.
 
-Lizzie Hexam and Jenny Wren. For whom, perhaps with some old instinct of
+[[Lizzie Hexam]] and [[Jenny Wren]]. For whom, perhaps with some old instinct of
 his race, the gentle Jew had spread a carpet. Seated on it, against
 no more romantic object than a blackened chimney-stack over which some
 bumble creeper had been trained, they both pored over one book; both
 with attentive faces; Jenny with the sharper; Lizzie with the more
 perplexed. Another little book or two were lying near, and a common
 basket of common fruit, and another basket full of strings of beads and
-tinsel scraps. A few boxes of humble flowers and evergreens completed
-the garden; and the encompassing wilderness of dowager old chimneys
+tinsel scraps. A few boxes of humble [[Flowers|flowers]] and evergreens completed
+the [[Garden|garden]]; and the encompassing wilderness of dowager old chimneys
 twirled their cowls and fluttered their smoke, rather as if they were
 bridling, and fanning themselves, and looking on in a state of airy
 surprise.
 
-Taking her eyes off the book, to test her memory of something in it,
-Lizzie was the first to see herself observed. As she rose, Miss Wren
+Taking her eyes off the book, to test her [[Memory|memory]] of something in it,
+Lizzie was the first to see herself observed. As she [[Rose|rose]], Miss Wren
 likewise became conscious, and said, irreverently addressing the great
 chief of the premises: ‘Whoever you are, I can’t get up, because my
 back’s bad and my legs are queer.’
@@ -82,7 +82,7 @@ evident purpose of drawing out the dressmaker, ‘through their coming
 here to buy of our damage and waste for Miss Jenny’s millinery. Our
 waste goes into the best of company, sir, on her rosy-cheeked little
 customers. They wear it in their hair, and on their ball-dresses, and
-even (so she tells me) are presented at Court with it.’
+even (so she tells me) are presented at [[Court]] with it.’
 
 ‘Ah!’ said Fledgeby, on whose intelligence this doll-fancy made rather
 strong demands; ‘she’s been buying that basketful to-day, I suppose?’
@@ -98,7 +98,7 @@ him. ‘How much for this now?’
 Riah confirmed her with two nods, as Fledgeby looked to him. A nod for
 each shilling.
 
-‘Well,’ said Fledgeby, poking into the contents of the basket with his
+‘[[Well]],’ said Fledgeby, poking into the contents of the basket with his
 forefinger, ‘the price is not so bad. You have got good measure, Miss
 What-is-it.’
 
@@ -123,11 +123,11 @@ don’t know what the rest of this place is to us; does he, Lizzie? It’s
 the quiet, and the air.’
 
 ‘The quiet!’ repeated Fledgeby, with a contemptuous turn of his head
-towards the City’s roar. ‘And the air!’ with a ‘Poof!’ at the smoke.
+towards the [[City]]’s roar. ‘And the air!’ with a ‘Poof!’ at the smoke.
 
 ‘Ah!’ said Jenny. ‘But it’s so high. And you see the clouds rushing
 on above the narrow streets, not minding them, and you see the golden
-arrows pointing at the mountains in the sky from which the wind comes,
+arrows pointing at the [[Mountains|mountains]] in the sky from which the [[Wind|wind]] comes,
 and you feel as if you were dead.’
 
 The little creature looked above her, holding up her slight transparent
@@ -145,16 +145,16 @@ Her eyes fell on the old man, who, with his hands folded, quietly looked
 on.
 
 ‘Why it was only just now,’ said the little creature, pointing at him,
-‘that I fancied I saw him come out of his grave! He toiled out at
+‘that I fancied I saw him come out of his [[Grave|grave]]! He toiled out at
 that low door so bent and worn, and then he took his breath and stood
-upright, and looked all round him at the sky, and the wind blew upon
+upright, and looked all round him at the sky, and the [[Wind|wind]] blew upon
 him, and his life down in the dark was over!—Till he was called back
 to life,’ she added, looking round at Fledgeby with that lower look of
 sharpness. ‘Why did you call him back?’
 
 ‘He was long enough coming, anyhow,’ grumbled Fledgeby.
 
-‘But you are not dead, you know,’ said Jenny Wren. ‘Get down to life!’
+‘But you are not dead, you know,’ said [[Jenny Wren]]. ‘Get down to life!’
 
 Mr Fledgeby seemed to think it rather a good suggestion, and with a nod
 turned round. As Riah followed to attend him down the stairs, the little
@@ -163,7 +163,7 @@ Come back, and be dead!’ And still as they went down they heard the
 little sweet voice, more and more faintly, half calling and half
 singing, ‘Come back and be dead, Come back and be dead!’
 
-When they got down into the entry, Fledgeby, pausing under the shadow of
+When they got down into the entry, Fledgeby, pausing under the [[Shadow|shadow]] of
 the broad old hat, and mechanically poising the staff, said to the old
 man:
 
@@ -171,7 +171,7 @@ man:
 
 ‘And as good as handsome,’ answered Riah.
 
-‘At all events,’ observed Fledgeby, with a dry whistle, ‘I hope she
+‘At all events,’ observed Fledgeby, with a dry whistle, ‘I [[Hope|hope]] she
 ain’t bad enough to put any chap up to the fastenings, and get the
 premises broken open. You look out. Keep your weather eye awake and
 don’t make any more acquaintances, however handsome. Of course you
@@ -188,7 +188,7 @@ to his lips: though so lightly that the wearer knew nothing of it.
 
 Thus, Fascination Fledgeby went his way, exulting in the artful
 cleverness with which he had turned his thumb down on a Jew, and the old
-man went his different way up-stairs. As he mounted, the call or song
+man went his different way up-stairs. As he mounted, the call or [[Song|song]]
 began to sound in his ears again, and, looking above, he saw the face
 of the little creature looking down out of a Glory of her long bright
 radiant hair, and musically repeating to him, like a vision:

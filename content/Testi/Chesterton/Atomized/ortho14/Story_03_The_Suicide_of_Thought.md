@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — The Suicide of Thought"
+title: "[[ortho14]] — The [[suicide|Suicide]] of Thought"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/ortho14-(Chesterton)"
@@ -14,101 +14,101 @@ tags:
 </nav>
 
 
-III THE SUICIDE OF THOUGHT
+III THE [[suicide|SUICIDE]] OF THOUGHT
 
 
      The phrases of the street are not only forcible but subtle: 
 for a figure of speech can often get into a crack too small for
 a definition.  Phrases like "put out" or "off colour" might
 have been coined by Mr. Henry James in an agony of verbal
-precision.  And there is no more subtle truth than that of the
+precision.  And there is no more subtle [[Truth|truth]] than that of the
 everyday phrase about a man having "his heart in the right place."
 It involves the idea of normal proportion; not only does a certain
 function exist, but it is rightly related to other functions. 
 Indeed, the negation of this phrase would describe with peculiar
-accuracy the somewhat morbid mercy and perverse tenderness of
+accuracy the somewhat morbid [[Mercy|mercy]] and perverse tenderness of
 the most representative moderns.  If, for instance, I had to
-describe with fairness the character of Mr. Bernard Shaw,
+describe with fairness the character of Mr. Bernard [[Shaw]],
 I could not express myself more exactly than by saying that he
 has a heroically large and generous heart; but not a heart in
-the right place.  And this is so of the typical society of our time.
+the right place.  And this is so of the typical society of our [[Time|time]].
 
      The modern world is not evil; in some ways the modern
 world is far too good.  It is full of wild and wasted virtues.
-When a religious scheme is shattered (as Christianity was
-shattered at the Reformation), it is not merely the vices that
+When a religious scheme is shattered (as [[Christianity]] was
+shattered at the [[Reformation]]), it is not merely the vices that
 are let loose.  The vices are, indeed, let loose, and they
 wander and do damage.  But the virtues are let loose also;
 and the virtues wander more wildly, and the virtues do more
 terrible damage.  The modern world is full of the old Christian
 virtues gone mad.  The virtues have gone mad because they have
-been isolated from each other and are wandering alone.
-Thus some scientists care for truth; and their truth is pitiless.
+been isolated from each other and are wandering [[Alone|alone]].
+Thus some scientists care for [[Truth|truth]]; and their [[Truth|truth]] is pitiless.
 Thus some humanitarians only care for pity; and their pity (I am
 sorry to say) is often untruthful.  For example, Mr. Blatchford
-attacks Christianity because he is mad on one Christian virtue: 
-the merely mystical and almost irrational virtue of charity. 
+attacks [[Christianity]] because he is mad on one Christian virtue: 
+the merely mystical and almost irrational virtue of [[Charity|charity]]. 
 He has a strange idea that he will make it easier to forgive
 sins by saying that there are no sins to forgive.  Mr. Blatchford
 is not only an early Christian, he is the only early Christian
 who ought really to have been eaten by lions.  For in his case
-the pagan accusation is really true: his mercy would mean mere anarchy. 
+the pagan accusation is really true: his [[Mercy|mercy]] would mean mere anarchy. 
 He really is the enemy of the human race--because he is so human. 
 As the other extreme, we may take the acrid realist, who has
 deliberately killed in himself all human pleasure in happy tales
 or in the healing of the heart.  Torquemada tortured people
-physically for the sake of moral truth.  Zola tortured people
-morally for the sake of physical truth.  But in Torquemada's
-time there was at least a system that could to some extent make
+physically for the sake of moral [[Truth|truth]].  Zola tortured people
+morally for the sake of physical [[Truth|truth]].  But in Torquemada's
+[[Time|time]] there was at least a system that could to some extent make
 righteousness and peace kiss each other.  Now they do not even bow. 
-But a much stronger case than these two of truth and pity can be
-found in the remarkable case of the dislocation of humility.
+But a much stronger case than these two of [[Truth|truth]] and pity can be
+found in the remarkable case of the dislocation of [[Humility|humility]].
 
-     It is only with one aspect of humility that we are here concerned. 
-Humility was largely meant as a restraint upon the arrogance and
+     It is only with one aspect of [[Humility|humility]] that we are here concerned. 
+[[Humility]] was largely meant as a restraint upon the arrogance and
 infinity of the appetite of man.  He was always outstripping
 his mercies with his own newly invented needs. His very power of
 enjoyment destroyed half his joys.  By asking for pleasure,
 he lost the chief pleasure; for the chief pleasure is surprise. 
 Hence it became evident that if a man would make his world large,
 he must be always making himself small.  Even the haughty visions,
-the tall cities, and the toppling pinnacles are the creations of humility. 
-Giants that tread down forests like grass are the creations of humility.
+the tall cities, and the toppling pinnacles are the creations of [[Humility|humility]]. 
+Giants that tread down forests like grass are the creations of [[Humility|humility]].
 Towers that vanish upwards above the loneliest star are the creations
-of humility.  For towers are not tall unless we look up at them;
+of [[Humility|humility]].  For towers are not tall unless we look up at them;
 and giants are not giants unless they are larger than we.  All this
-gigantesque imagination, which is, perhaps, the mightiest of the pleasures
-of man, is at bottom entirely humble.  It is impossible without
-humility to enjoy anything--even pride.
+gigantesque [[Imagination|imagination]], which is, perhaps, the mightiest of the pleasures
+of man, is at [[Bottom|bottom]] entirely humble.  It is impossible without
+[[Humility|humility]] to enjoy anything--even [[Pride|pride]].
 
-     But what we suffer from to-day is humility in the wrong
-place.  Modesty has moved from the organ of ambition.  Modesty
+     But what we suffer from to-day is [[Humility|humility]] in the wrong
+place.  Modesty has moved from the organ of [[Ambition|ambition]].  Modesty
 has settled upon the organ of conviction; where it was never
 meant to be.  A man was meant to be doubtful about himself, but
-undoubting about the truth; this has been exactly reversed.
+undoubting about the [[Truth|truth]]; this has been exactly reversed.
 Nowadays the part of a man that a man does assert is exactly
 the part he ought not to assert--himself.  The part he doubts is
-exactly the part he ought not to doubt--the Divine Reason.
-Huxley preached a humility content to learn from Nature.
+exactly the part he ought not to [[Doubt|doubt]]--the Divine Reason.
+Huxley preached a [[Humility|humility]] content to learn from [[Nature]].
 But the new sceptic is so humble that he doubts if he can even learn. 
 Thus we should be wrong if we had said hastily that there is no
-humility typical of our time.  The truth is that there is a real
-humility typical of our time; but it so happens that it is practically
-a more poisonous humility than the wildest prostrations of the ascetic. 
-The old humility was a spur that prevented a man from stopping;
+[[Humility|humility]] typical of our [[Time|time]].  The [[Truth|truth]] is that there is a real
+[[Humility|humility]] typical of our [[Time|time]]; but it so happens that it is practically
+a more poisonous [[Humility|humility]] than the wildest prostrations of the [[ascetic]]. 
+The old [[Humility|humility]] was a spur that prevented a man from stopping;
 not a nail in his boot that prevented him from going on.  For
-the old humility made a man doubtful about his efforts, which
-might make him work harder.  But the new humility makes a man
+the old [[Humility|humility]] made a man doubtful about his efforts, which
+might make him work harder.  But the new [[Humility|humility]] makes a man
 doubtful about his aims, which will make him stop working altogether.
 
      At any street corner we may meet a man who utters the frantic
 and blasphemous statement that he may be wrong.  Every day one
 comes across somebody who says that of course his view may not
 be the right one.  Of course his view must be the right one, or
-it is not his view.  We are on the road to producing a race of
+it is not his view.  We are on the [[Road|road]] to producing a race of
 men too mentally modest to believe in the multiplication table. 
-We are in danger of seeing philosophers who doubt the law of gravity
-as being a mere fancy of their own.  Scoffers of old time were
+We are in danger of seeing philosophers who [[Doubt|doubt]] the law of gravity
+as being a mere fancy of their own.  Scoffers of old [[Time|time]] were
 too proud to be convinced; but these are too humble to be convinced. 
 The meek do inherit the earth; but the modern sceptics are too
 meek even to claim their inheritance.  It is exactly this
@@ -116,14 +116,14 @@ intellectual helplessness which is our second problem.
 
      The last chapter has been concerned only with a fact of
 observation:  that what peril of morbidity there is for man
-comes rather from his reason than his imagination.  It was not
+comes rather from his reason than his [[Imagination|imagination]].  It was not
 meant to attack the authority of reason; rather it is the
 ultimate purpose to defend it.  For it needs defence.  The whole
 modern world is at war with reason; and the tower already reels.
 
-     The sages, it is often said, can see no answer to the riddle
+     The sages, it is often said, can see no answer to the [[Riddle|riddle]]
 of religion.  But the trouble with our sages is not that they
-cannot see the answer; it is that they cannot even see the riddle.
+cannot see the answer; it is that they cannot even see the [[Riddle|riddle]].
 They are like children so stupid as to notice nothing paradoxical
 in the playful assertion that a door is not a door.  The modern
 latitudinarians speak, for instance, about authority in religion
@@ -147,12 +147,12 @@ next generation, by all entering a monastery or jumping into the sea,
 so one set of thinkers can in some degree prevent further thinking
 by teaching the next generation that there is no validity in any
 human thought.  It is idle to talk always of the alternative of
-reason and faith.  Reason is itself a matter of faith.  It is
-an act of faith to assert that our thoughts have any relation to
+reason and [[Faith|faith]].  Reason is itself a matter of [[Faith|faith]].  It is
+an act of [[Faith|faith]] to assert that our thoughts have any relation to
 reality at all.  If you are merely a sceptic, you must sooner
 or later ask yourself the question, "Why should ANYTHING go right;
-even observation and deduction?  Why should not good logic be as
-misleading as bad logic?  They are both movements in the brain of a
+even observation and deduction?  Why should not good [[logic]] be as
+misleading as bad [[logic]]?  They are both movements in the brain of a
 bewildered ape?"  The young sceptic says, "I have a right to think
 for myself."  But the old sceptic, the complete sceptic, says,
 "I have no right to think for myself.  I have no right to think at all."
@@ -167,7 +167,7 @@ In this he questions the brain itself, and endeavours to remove
 all reality from all his own assertions, past, present, and to come. 
 But it was against this remote ruin that all the military
 systems in religion were originally ranked and ruled.  The creeds
-and the crusades, the hierarchies and the horrible persecutions
+and the [[Crusades|crusades]], the hierarchies and the horrible persecutions
 were not organized, as is ignorantly said, for the suppression
 of reason.  They were organized for the difficult defence of
 reason.  Man, by a blind instinct, knew that if once things
@@ -175,7 +175,7 @@ were wildly questioned, reason could be questioned first.
 The authority of priests to absolve, the authority of popes
 to define the authority, even of inquisitors to terrify: 
 these were all only dark defences erected round one central
-authority, more undemonstrable, more supernatural than all--
+authority, more undemonstrable, more [[Supernatural|supernatural]] than all--
 the authority of a man to think.  We know now that this is so;
 we have no excuse for not knowing it.  For we can hear scepticism
 crashing through the old ring of authorities, and at the same
@@ -201,24 +201,24 @@ called evolution.
 
      Evolution is a good example of that modern intelligence which,
 if it destroys anything, destroys itself.  Evolution is either
-an innocent scientific description of how certain earthly things
+an [[Innocent|innocent]] scientific description of how certain earthly things
 came about; or, if it is anything more than this, it is an attack
 upon thought itself.  If evolution destroys anything, it does
 not destroy religion but rationalism.  If evolution simply
 means that a positive thing called an ape turned very slowly
 into a positive thing called a man, then it is stingless for the
-most orthodox; for a personal God might just as well do things
+most orthodox; for a personal God might just as [[Well|well]] do things
 slowly as quickly, especially if, like the Christian God, he were
-outside time.  But if it means anything more, it means that
+outside [[Time|time]].  But if it means anything more, it means that
 there is no such thing as an ape to change, and no such thing as
 a man for him to change into.  It means that there is no such
 thing as a thing.  At best, there is only one thing, and that
 is a flux of everything and anything.  This is an attack not
-upon the faith, but upon the mind; you cannot think if there are
+upon the [[Faith|faith]], but upon the mind; you cannot think if there are
 no things to think about.  You cannot think if you are not
 separate from the subject of thought.  Descartes said, "I think;
 therefore I am."  The philosophic evolutionist reverses and
-negatives the epigram.  He says, "I am not; therefore I
+negatives the [[Epigram|epigram]].  He says, "I am not; therefore I
 cannot think."
 
      Then there is the opposite attack on thought:  that urged
@@ -238,19 +238,19 @@ that we alter the test instead of trying to pass the test.  We often
 hear it said, for instance, "What is right in one age is wrong
 in another."  This is quite reasonable, if it means that there is
 a fixed aim, and that certain methods attain at certain times
-and not at other times.  If women, say, desire to be elegant,
-it may be that they are improved at one time by growing fatter
-and at another time by growing thinner. But you cannot say that
+and not at other times.  If women, say, [[Desire|desire]] to be elegant,
+it may be that they are improved at one [[Time|time]] by growing fatter
+and at another [[Time|time]] by growing thinner. But you cannot say that
 they are improved by ceasing to wish to be elegant and beginning
 to wish to be oblong.  If the standard changes, how can there
 be improvement, which implies a standard?  Nietzsche started
 a nonsensical idea that men had once sought as good what we now
 call evil; if it were so, we could not talk of surpassing or
-even falling short of them. How can you overtake Jones if you
+even falling short of them. How can you overtake [[Jones]] if you
 walk in the other direction? You cannot discuss whether one
 people has succeeded more in being miserable than another
 succeeded in being happy.  It would be like discussing whether
-Milton was more puritanical than a pig is fat.
+[[Milton]] was more puritanical than a pig is fat.
 
      It is true that a man (a silly man) might make change
 itself his object or ideal.  But as an ideal, change itself
@@ -272,25 +272,25 @@ can get into.
      The main point here, however, is that this idea of a
 fundamental alteration in the standard is one of the things that
 make thought about the past or future simply impossible. The theory
-of a complete change of standards in human history does not
+of a complete change of standards in human [[history]] does not
 merely deprive us of the pleasure of honouring our fathers;
 it deprives us even of the more modern and aristocratic pleasure
 of despising them.
 
      This bald summary of the thought-destroying forces of our
-time would not be complete without some reference to pragmatism;
+[[Time|time]] would not be complete without some reference to pragmatism;
 for though I have here used and should everywhere defend the
-pragmatist method as a preliminary guide to truth, there is an
+pragmatist method as a preliminary guide to [[Truth|truth]], there is an
 extreme application of it which involves the absence of all
-truth whatever.  My meaning can be put shortly thus.  I agree
-with the pragmatists that apparent objective truth is not the
+[[Truth|truth]] whatever.  My meaning can be put shortly thus.  I agree
+with the pragmatists that apparent objective [[Truth|truth]] is not the
 whole matter; that there is an authoritative need to believe
 the things that are necessary to the human mind.  But I say
-that one of those necessities precisely is a belief in objective truth.
+that one of those necessities precisely is a belief in objective [[Truth|truth]].
 The pragmatist tells a man to think what he must think and never
 mind the Absolute.  But precisely one of the things that he
-must think is the Absolute.  This philosophy, indeed, is a kind
-of verbal paradox.  Pragmatism is a matter of human needs; and
+must think is the Absolute.  This [[philosophy]], indeed, is a kind
+of verbal [[Paradox|paradox]].  Pragmatism is a matter of human needs; and
 one of the first of human needs is to be something more than
 a pragmatist.  Extreme pragmatism is just as inhuman as
 the determinism it so powerfully attacks. The determinist (who,
@@ -312,9 +312,9 @@ will happen if wild scepticism runs its course.  It has run its course.
 It is vain for eloquent atheists to talk of the great truths
 that will be revealed if once we see free thought begin. 
 We have seen it end.  It has no more questions to ask; it has
-questioned itself.  You cannot call up any wilder vision than a city
+questioned itself.  You cannot call up any wilder vision than a [[City|city]]
 in which men ask themselves if they have any selves.  You cannot
-fancy a more sceptical world than that in which men doubt if
+fancy a more sceptical world than that in which men [[Doubt|doubt]] if
 there is a world.  It might certainly have reached its bankruptcy
 more quickly and cleanly if it had not been feebly hampered by
 the application of indefensible laws of blasphemy or by the
@@ -322,23 +322,23 @@ absurd pretence that modern England is Christian. But it would
 have reached the bankruptcy anyhow.  Militant atheists are
 still unjustly persecuted; but rather because they are an old
 minority than because they are a new one.  Free thought has
-exhausted its own freedom.  It is weary of its own success.
-If any eager freethinker now hails philosophic freedom as the dawn,
+exhausted its own [[Freedom|freedom]].  It is weary of its own [[success]].
+If any eager freethinker now hails philosophic [[Freedom|freedom]] as the [[Dawn|dawn]],
 he is only like the man in Mark Twain who came out wrapped in
-blankets to see the sun rise and was just in time to see it set. 
+blankets to see the sun rise and was just in [[Time|time]] to see it set. 
 If any frightened curate still says that it will be awful if the
 darkness of free thought should spread, we can only answer him
 in the high and powerful words of Mr. Belloc, "Do not, I beseech
 you, be troubled about the increase of forces already in dissolution. 
-You have mistaken the hour of the night:  it is already morning."
+You have mistaken the hour of the [[Night|night]]:  it is already morning."
 We have no more questions left to ask.  We have looked for
 questions in the darkest corners and on the wildest peaks.  We
-have found all the questions that can be found.  It is time we
+have found all the questions that can be found.  It is [[Time|time]] we
 gave up looking for questions and began looking for answers.
 
      But one more word must be added.  At the beginning of this
-preliminary negative sketch I said that our mental ruin has
-been wrought by wild reason, not by wild imagination.  A man
+preliminary negative [[Sketch|sketch]] I said that our mental ruin has
+been wrought by wild reason, not by wild [[Imagination|imagination]].  A man
 does not go mad because he makes a statue a mile high, but he
 may go mad by thinking it out in square inches.  Now, one school
 of thinkers has seen this and jumped at it as a way of renewing
@@ -346,42 +346,42 @@ the pagan health of the world.  They see that reason destroys;
 but Will, they say, creates.  The ultimate authority, they say,
 is in will, not in reason.  The supreme point is not why a man
 demands a thing, but the fact that he does demand it.  I have
-no space to trace or expound this philosophy of Will.  It came,
+no space to trace or expound this [[philosophy]] of Will.  It came,
 I suppose, through Nietzsche, who preached something that is
 called egoism.  That, indeed, was simpleminded enough; for Nietzsche
 denied egoism simply by preaching it.  To preach anything is to
-give it away.  First, the egoist calls life a war without mercy,
+give it away.  First, the egoist calls life a war without [[Mercy|mercy]],
 and then he takes the greatest possible trouble to drill his
 enemies in war.  To preach egoism is to practise altruism. 
 But however it began, the view is common enough in current literature.
 The main defence of these thinkers is that they are not thinkers;
 they are makers.  They say that choice is itself the divine thing.
-Thus Mr. Bernard Shaw has attacked the old idea that men's acts
-are to be judged by the standard of the desire of happiness.
+Thus Mr. Bernard [[Shaw]] has attacked the old idea that men's acts
+are to be judged by the standard of the [[Desire|desire]] of happiness.
 He says that a man does not act for his happiness, but from his will. 
 He does not say, "Jam will make me happy," but "I want jam."
 And in all this others follow him with yet greater enthusiasm. 
 Mr. John Davidson, a remarkable poet, is so passionately excited
 about it that he is obliged to write prose.  He publishes
 a short play with several long prefaces. This is natural enough
-in Mr. Shaw, for all his plays are prefaces:  Mr. Shaw is
+in Mr. [[Shaw]], for all his plays are prefaces:  Mr. [[Shaw]] is
 (I suspect) the only man on earth who has never written any poetry.
 But that Mr. Davidson (who can write excellent poetry) should
 write instead laborious metaphysics in defence of this doctrine
 of will, does show that the doctrine of will has taken hold of men. 
 Even Mr. H.G.Wells has half spoken in its language; saying that
-one should test acts not like a thinker, but like an artist,
+one should test acts not like a thinker, but like an [[artist]],
 saying, "I FEEL this curve is right," or "that line SHALL go thus."
-They are all excited; and well they may be.  For by this
+They are all excited; and [[Well|well]] they may be.  For by this
 doctrine of the divine authority of will, they think they can
 break out of the doomed fortress of rationalism.  They think
 they can escape.
 
      But they cannot escape.  This pure praise of volition ends
-in the same break up and blank as the mere pursuit of logic.
+in the same break up and blank as the mere pursuit of [[logic]].
 Exactly as complete free thought involves the doubting of
 thought itself, so the acceptation of mere "willing" really
-paralyzes the will.  Mr. Bernard Shaw has not perceived the
+paralyzes the will.  Mr. Bernard [[Shaw]] has not perceived the
 real difference between the old utilitarian test of pleasure
 (clumsy, of course, and easily misstated) and that which he propounds. 
 The real difference between the test of happiness and the test of will
@@ -389,8 +389,8 @@ is simply that the test of happiness is a test and the other isn't.
 You can discuss whether a man's act in jumping over a cliff was
 directed towards happiness; you cannot discuss whether it was
 derived from will.  Of course it was.  You can praise an action
-by saying that it is calculated to bring pleasure or pain to
-discover truth or to save the soul.  But you cannot praise an
+by saying that it is calculated to bring pleasure or [[Pain|pain]] to
+discover [[Truth|truth]] or to save the [[Soul|soul]].  But you cannot praise an
 action because it shows will; for to say that is merely to say
 that it is an action.  By this praise of will you cannot really
 choose one course as better than another.  And yet choosing one
@@ -398,15 +398,15 @@ course as better than another is the very definition of the will
 you are praising.
 
      The worship of will is the negation of will.  To admire
-mere choice is to refuse to choose.  If Mr. Bernard Shaw comes
+mere choice is to refuse to choose.  If Mr. Bernard [[Shaw]] comes
 up to me and says, "Will something," that is tantamount to
 saying, "I do not mind what you will," and that is tantamount
 to saying, "I have no will in the matter."  You cannot admire
 will in general, because the essence of will is that it is particular. 
 A brilliant anarchist like Mr. John Davidson feels an irritation
-against ordinary morality, and therefore he invokes will
+against ordinary [[morality]], and therefore he invokes will
 --will to anything.  He only wants humanity to want something. 
-But humanity does want something.  It wants ordinary morality. 
+But humanity does want something.  It wants ordinary [[morality]]. 
 He rebels against the law and tells us to will something or anything. 
 But we have willed something.  We have willed the law against
 which he rebels.
@@ -416,51 +416,51 @@ are really quite empty of volition.  They cannot will, they can
 hardly wish.  And if any one wants a proof of this, it can be found
 quite easily.  It can be found in this fact:  that they always talk
 of will as something that expands and breaks out. But it is
-quite the opposite.  Every act of will is an act of self-limitation. 
-To desire action is to desire limitation.  In that sense every act
-is an act of self-sacrifice.  When you choose anything, you reject
+quite the opposite.  Every act of will is an act of [[Self|self]]-limitation. 
+To [[Desire|desire]] action is to [[Desire|desire]] limitation.  In that sense every act
+is an act of [[Self-Sacrifice|self-sacrifice]].  When you choose anything, you reject
 everything else.  That objection, which men of this school used
-to make to the act of marriage, is really an objection to every act. 
+to make to the act of [[Marriage|marriage]], is really an objection to every act. 
 Every act is an irrevocable selection and exclusion.  Just as when
 you marry one woman you give up all the others, so when you take
 one course of action you give up all the other courses. 
-If you become King of England, you give up the post of Beadle in Brompton.
+If you become [[King]] of England, you give up the post of Beadle in Brompton.
 If you go to Rome, you sacrifice a rich suggestive life in Wimbledon. 
 It is the existence of this negative or limiting side of will
 that makes most of the talk of the anarchic will-worshippers
 little better than nonsense.  For instance, Mr. John Davidson tells us
 to have nothing to do with "Thou shalt not"; but it is surely obvious
 that "Thou shalt not" is only one of the necessary corollaries of "I will." 
-"I will go to the Lord Mayor's Show, and thou shalt not stop me."
+"I will go to the [[Lord Mayor]]'s Show, and thou shalt not stop me."
 Anarchism adjures us to be bold creative artists, and care for
-no laws or limits.  But it is impossible to be an artist and not
+no laws or limits.  But it is impossible to be an [[artist]] and not
 care for laws and limits.  Art is limitation; the essence of every picture
 is the frame.  If you draw a giraffe, you must draw him with a long neck. 
 If, in your bold creative way, you hold yourself free to draw a giraffe
 with a short neck, you will really find that you are not free
 to draw a giraffe.  The moment you step into the world of facts,
 you step into a world of limits.  You can free things from alien or
-accidental laws, but not from the laws of their own nature.  You may,
+accidental laws, but not from the laws of their own [[Nature|nature]].  You may,
 if you like, free a tiger from his bars; but do not free him from
 his stripes.  Do not free a camel of the burden of his hump: 
 you may be freeing him from being a camel.  Do not go about as a demagogue,
-encouraging triangles to break out of the prison of their three sides. 
+encouraging triangles to break out of the [[Prison|prison]] of their three sides. 
 If a triangle breaks out of its three sides, its life comes to a
 lamentable end.  Somebody wrote a work called "The Loves of the Triangles";
 I never read it, but I am sure that if triangles ever were loved,
 they were loved for being triangular.  This is certainly the case
 with all artistic creation, which is in some ways the most
-decisive example of pure will.  The artist loves his limitations: 
+decisive example of pure will.  The [[artist]] loves his limitations: 
 they constitute the THING he is doing.  The painter is glad
 that the canvas is flat.  The sculptor is glad that the clay is
 colourless.
 
      In case the point is not clear, an historic example may illustrate it. 
-The French Revolution was really an heroic and decisive thing,
+The [[French Revolution]] was really an heroic and decisive thing,
 because the Jacobins willed something definite and limited. 
-They desired the freedoms of democracy, but also all the vetoes
-of democracy.  They wished to have votes and NOT to have titles. 
-Republicanism had an ascetic side in Franklin or Robespierre as well as
+They desired the freedoms of [[Democracy|democracy]], but also all the vetoes
+of [[Democracy|democracy]].  They wished to have votes and NOT to have titles. 
+Republicanism had an [[ascetic]] side in Franklin or Robespierre as [[Well|well]] as
 an expansive side in Danton or Wilkes.  Therefore they have created
 something with a solid substance and shape, the square social equality
 and peasant wealth of France.  But since then the revolutionary
@@ -468,9 +468,9 @@ or speculative mind of Europe has been weakened by shrinking
 from any proposal because of the limits of that proposal. 
 Liberalism has been degraded into liberality.  Men have tried to turn
 "revolutionise" from a transitive to an intransitive verb. 
-The Jacobin could tell you not only the system he would rebel against,
-but (what was more important) the system he would NOT rebel against,
-the system he would trust.  But the new rebel is a Sceptic,
+The Jacobin could tell you not only the system he would [[Rebel|rebel]] against,
+but (what was more important) the system he would NOT [[Rebel|rebel]] against,
+the system he would trust.  But the new [[Rebel|rebel]] is a Sceptic,
 and will not entirely trust anything. He has no loyalty;
 therefore he can never be really a revolutionist.  And the fact that he
 doubts everything really gets in his way when he wants to denounce anything. 
@@ -482,51 +482,51 @@ and then he writes another book (about the sex problem) in which
 he insults it himself.  He curses the Sultan because Christian girls
 lose their virginity, and then curses Mrs. Grundy because they keep it. 
 As a politician, he will cry out that war is a waste of life,
-and then, as a philosopher, that all life is waste of time. 
+and then, as a philosopher, that all life is waste of [[Time|time]]. 
 A Russian pessimist will denounce a policeman for killing a peasant,
 and then prove by the highest philosophical principles that the peasant
-ought to have killed himself.  A man denounces marriage as a lie,
+ought to have killed himself.  A man denounces [[Marriage|marriage]] as a lie,
 and then denounces aristocratic profligates for treating it as a lie. 
-He calls a flag a bauble, and then blames the oppressors of Poland
+He calls a [[Flag|flag]] a bauble, and then blames the oppressors of Poland
 or Ireland because they take away that bauble.  The man of this school
 goes first to a political meeting, where he complains that savages
 are treated as if they were beasts; then he takes his hat and umbrella
 and goes on to a scientific meeting, where he proves that they
 practically are beasts.  In short, the modern revolutionist,
 being an infinite sceptic, is always engaged in undermining his own mines. 
-In his book on politics he attacks men for trampling on morality;
-in his book on ethics he attacks morality for trampling on men. 
+In his book on politics he attacks men for trampling on [[morality]];
+in his book on ethics he attacks [[morality]] for trampling on men. 
 Therefore the modern man in revolt has become practically useless
 for all purposes of revolt.  By rebelling against everything he has
-lost his right to rebel against anything.
+lost his right to [[Rebel|rebel]] against anything.
 
      It may be added that the same blank and bankruptcy can be
 observed in all fierce and terrible types of literature,
-especially in satire.  Satire may be mad and anarchic, but it
+especially in [[Satire|satire]].  [[Satire]] may be mad and anarchic, but it
 presupposes an admitted superiority in certain things over others;
 it presupposes a standard.  When little boys in the street
 laugh at the fatness of some distinguished journalist, they are
 unconsciously assuming a standard of Greek sculpture. They are
-appealing to the marble Apollo.  And the curious disappearance
-of satire from our literature is an instance of the fierce things
+appealing to the marble [[Apollo]].  And the curious disappearance
+of [[Satire|satire]] from our literature is an instance of the fierce things
 fading for want of any principle to be fierce about.  Nietzsche
 had some natural talent for sarcasm:  he could sneer, though he
 could not laugh; but there is always something bodiless and
-without weight in his satire, simply because it has not any mass
-of common morality behind it.  He is himself more preposterous
+without weight in his [[Satire|satire]], simply because it has not any mass
+of common [[morality]] behind it.  He is himself more preposterous
 than anything he denounces.  But, indeed, Nietzsche will stand
-very well as the type of the whole of this failure of abstract violence. 
+very [[Well|well]] as the type of the whole of this failure of abstract violence. 
 The softening of the brain which ultimately overtook him was not
 a physical accident.  If Nietzsche had not ended in imbecility,
 Nietzscheism would end in imbecility.  Thinking in isolation
-and with pride ends in being an idiot.  Every man who will not
+and with [[Pride|pride]] ends in being an idiot.  Every man who will not
 have softening of the heart must at last have softening of the brain.
 
      This last attempt to evade intellectualism ends in intellectualism,
-and therefore in death.  The sortie has failed.  The wild worship
+and therefore in [[Death|death]].  The sortie has failed.  The wild worship
 of lawlessness and the materialist worship of law end in the same void. 
-Nietzsche scales staggering mountains, but he turns up ultimately
-in Tibet.  He sits down beside Tolstoy in the land of nothing
+Nietzsche scales staggering [[Mountains|mountains]], but he turns up ultimately
+in Tibet.  He sits down beside [[tolstoy|Tolstoy]] in the land of nothing
 and Nirvana. They are both helpless--one because he must not
 grasp anything, and the other because he must not let go of anything. 
 The Tolstoyan's will is frozen by a Buddhist instinct that all
@@ -534,19 +534,19 @@ special actions are evil.  But the Nietzscheite's will is quite equally
 frozen by his view that all special actions are good; for if all
 special actions are good, none of them are special.  They stand
 at the crossroads, and one hates all the roads and the other
-likes all the roads. The result is--well, some things are not
-hard to calculate. They stand at the cross-roads.
+likes all the roads. The result is--[[Well|well]], some things are not
+hard to calculate. They stand at the [[Cross|cross]]-roads.
 
      Here I end (thank God) the first and dullest business of
 this book--the rough review of recent thought.  After this I begin
-to sketch a view of life which may not interest my reader, but which,
+to [[Sketch|sketch]] a view of life which may not interest my reader, but which,
 at any rate, interests me.  In front of me, as I close this page,
 is a pile of modern books that I have been turning over for the purpose
 --a pile of ingenuity, a pile of futility.  By the accident of
 my present detachment, I can see the inevitable smash of the
-philosophies of Schopenhauer and Tolstoy, Nietzsche and Shaw,
+philosophies of Schopenhauer and [[tolstoy|Tolstoy]], Nietzsche and [[Shaw]],
 as clearly as an inevitable railway smash could be seen from a balloon. 
-They are all on the road to the emptiness of the asylum.  For madness
+They are all on the [[Road|road]] to the emptiness of the asylum.  For [[Madness|madness]]
 may be defined as using mental activity so as to reach mental helplessness;
 and they have nearly reached it.  He who thinks he is made of glass,
 thinks to the destruction of thought; for glass cannot think. 
@@ -557,57 +557,57 @@ wonderful, tiresome, and useless modern books, the title of one
 of them rivets my eye.  It is called "Jeanne d'Arc," by Anatole France. 
 I have only glanced at it, but a glance was enough to remind me
 of Renan's "Vie de Jesus."  It has the same strange method of the
-reverent sceptic.  It discredits supernatural stories that have
+reverent sceptic.  It discredits [[Supernatural|supernatural]] stories that have
 some foundation, simply by telling natural stories that have no foundation. 
 Because we cannot believe in what a saint did, we are to pretend
 that we know exactly what he felt.  But I do not mention either
 book in order to criticise it, but because the accidental
-combination of the names called up two startling images of Sanity
+combination of the names called up two startling images of [[Sanity]]
 which blasted all the books before me.  Joan of Arc was not
-stuck at the cross-roads, either by rejecting all the paths like Tolstoy,
+stuck at the [[Cross|cross]]-roads, either by rejecting all the paths like [[tolstoy|Tolstoy]],
 or by accepting them all like Nietzsche.  She chose a path, and
 went down it like a thunderbolt.  Yet Joan, when I came to
-think of her, had in her all that was true either in Tolstoy or
+think of her, had in her all that was true either in [[tolstoy|Tolstoy]] or
 Nietzsche, all that was even tolerable in either of them.
-I thought of all that is noble in Tolstoy, the pleasure in
+I thought of all that is noble in [[tolstoy|Tolstoy]], the pleasure in
 plain things, especially in plain pity, the actualities of the earth,
 the reverence for the poor, the dignity of the bowed back.
 Joan of Arc had all that and with this great addition, that she
-endured poverty as well as admiring it; whereas Tolstoy is only
-a typical aristocrat trying to find out its secret.  And then I
+endured [[Poverty|poverty]] as [[Well|well]] as admiring it; whereas [[tolstoy|Tolstoy]] is only
+a typical [[aristocrat]] trying to find out its secret.  And then I
 thought of all that was brave and proud and pathetic in poor Nietzsche,
-and his mutiny against the emptiness and timidity of our time. 
+and his mutiny against the emptiness and timidity of our [[Time|time]]. 
 I thought of his cry for the ecstatic equilibrium of danger,
 his hunger for the rush of great horses, his cry to arms. 
-Well, Joan of Arc had all that, and again with this difference,
+[[Well]], Joan of Arc had all that, and again with this difference,
 that she did not praise fighting, but fought.  We KNOW that she
 was not afraid of an army, while Nietzsche, for all we know,
-was afraid of a cow.  Tolstoy only praised the peasant; she was
+was afraid of a cow.  [[tolstoy|Tolstoy]] only praised the peasant; she was
 the peasant.  Nietzsche only praised the warrior; she was the warrior. 
 She beat them both at their own antagonistic ideals; she was
 more gentle than the one, more violent than the other.  Yet she
 was a perfectly practical person who did something, while they
 are wild speculators who do nothing.  It was impossible that
-the thought should not cross my mind that she and her faith had
-perhaps some secret of moral unity and utility that has been lost. 
+the thought should not [[Cross|cross]] my mind that she and her [[Faith|faith]] had
+perhaps some secret of moral [[unity]] and utility that has been lost. 
 And with that thought came a larger one, and the colossal figure
 of her Master had also crossed the theatre of my thoughts.
 The same modern difficulty which darkened the subject-matter of
 Anatole France also darkened that of Ernest Renan.  Renan also
-divided his hero's pity from his hero's pugnacity.  Renan even
+divided his [[Hero|hero]]'s pity from his [[Hero|hero]]'s pugnacity.  Renan even
 represented the righteous anger at Jerusalem as a mere nervous
 breakdown after the idyllic expectations of Galilee.  As if
-there were any inconsistency between having a love for humanity
+there were any inconsistency between having a [[Love|love]] for humanity
 and having a hatred for inhumanity!  Altruists, with thin,
-weak voices, denounce Christ as an egoist.  Egoists (with even
+weak voices, denounce [[Christ]] as an egoist.  Egoists (with even
 thinner and weaker voices) denounce Him as an altruist.  In our
 present atmosphere such cavils are comprehensible enough. 
-The love of a hero is more terrible than the hatred of a tyrant.
-The hatred of a hero is more generous than the love of a philanthropist. 
-There is a huge and heroic sanity of which moderns can only
+The [[Love|love]] of a [[Hero|hero]] is more terrible than the hatred of a [[Tyrant|tyrant]].
+The hatred of a [[Hero|hero]] is more generous than the [[Love|love]] of a philanthropist. 
+There is a huge and heroic [[Sanity|sanity]] of which moderns can only
 collect the fragments.  There is a giant of whom we see only
-the lopped arms and legs walking about.  They have torn the soul
-of Christ into silly strips, labelled egoism and altruism,
+the lopped arms and legs walking about.  They have torn the [[Soul|soul]]
+of [[Christ]] into silly strips, labelled egoism and altruism,
 and they are equally puzzled by His insane magnificence and His
 insane meekness.  They have parted His garments among them,
 and for His vesture they have cast lots; though the coat was

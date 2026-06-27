@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 29: I VISIT STEERFORTH AT HIS HOME, AGAIN (part 3)"
+title: "[[David Copperfield]] — Chapter 29: I VISIT STEERFORTH AT HIS [[Home|HOME]], AGAIN (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 ‘Much!’ said Steerforth. ‘Much more than for any other. Here is Daisy,
-too, loves music from his soul. Sing us an Irish song, Rosa! and let me
+too, loves music from his [[Soul|soul]]. Sing us an Irish [[Song|song]], Rosa! and let me
 sit and listen as I used to do.’
 
 He did not touch her, or the chair from which she had risen, but sat
@@ -24,7 +24,7 @@ curious way, going through the motion of playing it with her right hand,
 but not sounding it. At length she sat down, and drew it to her with one
 sudden action, and played and sang.
 
-I don’t know what it was, in her touch or voice, that made that song the
+I don’t know what it was, in her touch or voice, that made that [[Song|song]] the
 most unearthly I have ever heard in my life, or can imagine. There was
 something fearful in the reality of it. It was as if it had never been
 written, or set to music, but sprung out of passion within her; which
@@ -34,7 +34,7 @@ again, playing it, but not sounding it, with her right hand.
 
 A minute more, and this had roused me from my trance:--Steerforth had
 left his seat, and gone to her, and had put his arm laughingly about
-her, and had said, ‘Come, Rosa, for the future we will love each other
+her, and had said, ‘Come, Rosa, for the future we will [[Love|love]] each other
 very much!’ And she had struck him, and had thrown him off with the fury
 of a wild cat, and had burst out of the room.
 
@@ -48,7 +48,7 @@ compensation.’
 soured, remember, and ought not to be tried.’
 
 Rosa did not come back; and no other mention was made of her, until I
-went with Steerforth into his room to say Good night. Then he laughed
+went with Steerforth into his room to say Good [[Night|night]]. Then he laughed
 about her, and asked me if I had ever seen such a fierce little piece of
 incomprehensibility.
 
@@ -59,10 +59,10 @@ so much amiss, so suddenly.
 ‘Oh, Heaven knows,’ said Steerforth. ‘Anything you like--or nothing!
 I told you she took everything, herself included, to a grindstone, and
 sharpened it. She is an edge-tool, and requires great care in dealing
-with. She is always dangerous. Good night!’
+with. She is always dangerous. Good [[Night|night]]!’
 
-‘Good night!’ said I, ‘my dear Steerforth! I shall be gone before you
-wake in the morning. Good night!’
+‘Good [[Night|night]]!’ said I, ‘my dear Steerforth! I shall be gone before you
+wake in the morning. Good [[Night|night]]!’
 
 He was unwilling to let me go; and stood, holding me out, with a hand on
 each of my shoulders, as he had done in my own room.
@@ -85,16 +85,16 @@ thought, did I feel within me, that the confession of having done so was
 rising to my lips. But for the reluctance I had to betray the confidence
 of Agnes, but for my uncertainty how to approach the subject with no
 risk of doing so, it would have reached them before he said, ‘God bless
-you, Daisy, and good night!’ In my doubt, it did NOT reach them; and we
+you, Daisy, and good [[Night|night]]!’ In my [[Doubt|doubt]], it did NOT reach them; and we
 shook hands, and we parted.
 
-I was up with the dull dawn, and, having dressed as quietly as I could,
+I was up with the dull [[Dawn|dawn]], and, having dressed as quietly as I could,
 looked into his room. He was fast asleep; lying, easily, with his head
 upon his arm, as I had often seen him lie at school.
 
-The time came in its season, and that was very soon, when I almost
+The [[Time|time]] came in its season, and that was very soon, when I almost
 wondered that nothing troubled his repose, as I looked at him. But he
-slept--let me think of him so again--as I had often seen him sleep at
+slept--let me think of him so again--as I had often seen him [[Sleep|sleep]] at
 school; and thus, in this silent hour, I left him. --Never more, oh
-God forgive you, Steerforth! to touch that passive hand in love and
-friendship. Never, never more!
+God forgive you, Steerforth! to touch that passive hand in [[Love|love]] and
+[[Friendship|friendship]]. Never, never more!

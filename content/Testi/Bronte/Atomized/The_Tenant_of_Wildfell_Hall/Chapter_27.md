@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 27"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 27"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,17 +20,17 @@ tags:
 
 
 
-October 9th.—It was on the night of the 4th, a little after tea, that
+October 9th.—It was on the [[Night|night]] of the 4th, a little after tea, that
 
-Annabella had been singing and playing, with Arthur as usual at her
+Annabella had been singing and playing, with [[arthur|Arthur]] as usual at her
 
-side: she had ended her song, but still she sat at the instrument; and
+side: she had ended her [[Song|song]], but still she sat at the instrument; and
 
 he stood leaning on the back of her chair, conversing in scarcely
 
 audible tones, with his face in very close proximity with hers. I
 
-looked at Lord Lowborough. He was at the other end of the room, talking
+looked at [[Lord Lowborough]]. He was at the other end of the room, talking
 
 with Messrs. Hargrave and Grimsby; but I saw him dart towards his lady
 
@@ -38,7 +38,7 @@ and his host a quick, impatient glance, expressive of intense
 
 disquietude, at which Grimsby smiled. Determined to interrupt the
 
-_tête-à-tête_, I rose, and, selecting a piece of music from the music
+_tête-à-tête_, I [[Rose|rose]], and, selecting a piece of music from the music
 
 stand, stepped up to the piano, intending to ask the lady to play it;
 
@@ -48,7 +48,7 @@ listening, with what seemed an exultant smile on her flushed face to
 
 his soft murmurings, with her hand quietly surrendered to his clasp.
 
-The blood rushed first to my heart, and then to my head; for there was
+The [[Blood|blood]] rushed first to my heart, and then to my head; for there was
 
 more than this: almost at the moment of my approach, he cast a hurried
 
@@ -68,11 +68,11 @@ the company dispersed.
 
 
 
-I went to the fire, and leant my head against the chimney-piece. In a
+I went to the [[Fire|fire]], and leant my head against the chimney-piece. In a
 
 minute or two, some one asked me if I felt unwell. I did not answer;
 
-indeed, at the time, I knew not what was said; but I mechanically
+indeed, at the [[Time|time]], I knew not what was said; but I mechanically
 
 looked up, and saw Mr. Hargrave standing beside me on the rug.
 
@@ -88,23 +88,23 @@ Lowborough was beside her husband, bending over him as he sat, with her
 
 hand on his shoulder, softly talking and smiling in his face; and
 
-Arthur was at the table, turning over a book of engravings. I seated
+[[arthur|Arthur]] was at the table, turning over a book of engravings. I seated
 
 myself in the nearest chair; and Mr. Hargrave, finding his services
 
 were not desired, judiciously withdrew. Shortly after, the company
 
-broke up, and, as the guests were retiring to their rooms, Arthur
+broke up, and, as the guests were retiring to their rooms, [[arthur|Arthur]]
 
 approached me, smiling with the utmost assurance.
 
 
 
-“Are you _very_ angry, Helen?” murmured he.
+“Are you _very_ angry, [[Helen]]?” murmured he.
 
 
 
-“This is no jest, Arthur,” said I, seriously, but as calmly as I
+“This is no jest, [[arthur|Arthur]],” said I, seriously, but as calmly as I
 
 could—“unless you think it a jest to lose my affection for ever.”
 
@@ -122,7 +122,7 @@ he was obviously affected with wine.
 
 with clasped hands, uplifted in mock humiliation, he continued
 
-imploringly—“Forgive me, Helen—dear Helen, forgive me, and I’ll _never_
+imploringly—“Forgive me, [[Helen]]—dear [[Helen]], forgive me, and I’ll _never_
 
 do it again!” and, burying his face in his handkerchief, he affected to
 
@@ -152,7 +152,7 @@ telling me I was white in the face, and should kill myself if I did so.
 
 “Let me go, then,” I murmured; and immediately he released me—and it
 
-was well he did, for I was really in a passion. I sank into the
+was [[Well|well]] he did, for I was really in a passion. I sank into the
 
 easy-chair and endeavoured to compose myself, for I wanted to speak to
 
@@ -160,27 +160,27 @@ him calmly. He stood beside me, but did not venture to touch me or to
 
 speak for a few seconds; then, approaching a little nearer, he dropped
 
-on one knee—not in mock humility, but to bring himself nearer my level,
+on one knee—not in mock [[Humility|humility]], but to bring himself nearer my level,
 
 and leaning his hand on the arm of the chair, he began in a low voice:
 
-“It is all nonsense, Helen—a jest, a mere nothing—not worth a thought.
+“It is all nonsense, [[Helen]]—a jest, a mere nothing—not worth a thought.
 
 Will you _never_ learn,” he continued more boldly, “that you have
 
-nothing to fear from me? that I love you wholly and entirely?—or if,”
+nothing to [[Fear|fear]] from me? that I [[Love|love]] you wholly and entirely?—or if,”
 
 he added with a lurking smile, “I ever give a thought to another, you
 
-may well spare it, for those fancies are here and gone like a flash of
+may [[Well|well]] spare it, for those fancies are here and gone like a flash of
 
-lightning, while my love for you burns on steadily, and for ever, like
+[[Lightning|lightning]], while my [[Love|love]] for you burns on steadily, and for ever, like
 
-the sun. You little exorbitant tyrant, will not _that_—”
+the sun. You little exorbitant [[Tyrant|tyrant]], will not _that_—”
 
 
 
-“Be quiet a moment, will you, Arthur?” said I, “and listen to me—and
+“Be quiet a moment, will you, [[arthur|Arthur]]?” said I, “and listen to me—and
 
 don’t think I’m in a jealous fury: I am perfectly calm. Feel my hand.”
 
@@ -194,19 +194,19 @@ steadfastly on him till he almost quailed before me. “You may think it
 
 all very fine, Mr. Huntingdon, to amuse yourself with rousing my
 
-jealousy; but take care you don’t rouse my hate instead. And when you
+[[Jealousy|jealousy]]; but take care you don’t rouse my hate instead. And when you
 
-have once extinguished my love, you will find it no easy matter to
+have once extinguished my [[Love|love]], you will find it no easy matter to
 
 kindle it again.”
 
 
 
-“Well, Helen, I won’t repeat the offence. But I meant nothing by it, I
+“[[Well]], [[Helen]], I won’t repeat the offence. But I meant nothing by it, I
 
 assure you. I had taken too much wine, and I was scarcely myself at the
 
-time.”
+[[Time|time]].”
 
 
 
@@ -218,23 +218,23 @@ mentioned it before, because I was ashamed to do so; but now I’ll tell
 
 you that it distresses me, and may disgust me, if you go on and suffer
 
-the habit to grow upon you, as it will if you don’t check it in time.
+the habit to grow upon you, as it will if you don’t check it in [[Time|time]].
 
 But the whole system of your conduct to Lady Lowborough is not
 
-referable to wine; and this night you knew perfectly well what you were
+referable to wine; and this [[Night|night]] you knew perfectly [[Well|well]] what you were
 
 doing.”
 
 
 
-“Well, I’m sorry for it,” replied he, with more of sulkiness than
+“[[Well]], I’m sorry for it,” replied he, with more of sulkiness than
 
 contrition: “what more would you have?”
 
 
 
-“You are sorry that I saw you, no doubt,” I answered coldly.
+“You are sorry that I saw you, no [[Doubt|doubt]],” I answered coldly.
 
 
 
@@ -262,7 +262,7 @@ distress.”
 
 
 
-“What would Lord Lowborough, your _friend_, think, if he knew all? or
+“What would [[Lord Lowborough]], your _friend_, think, if he knew all? or
 
 what would you yourself think, if he or any other had acted the same
 
@@ -274,7 +274,7 @@ part to me, throughout, as you have to Annabella?”
 
 
 
-“Well, then, Arthur, how can you call it nothing—an offence for which
+“[[Well]], then, [[arthur|Arthur]], how can you call it nothing—an offence for which
 
 you would think yourself justified in blowing another man’s brains out?
 
@@ -284,21 +284,21 @@ endeavour to steal a woman’s affections from her husband—what he values
 
 more than his gold, and therefore what it is more dishonest to take?
 
-Are the marriage vows a jest; and is it nothing to make it your sport
+Are the [[Marriage|marriage]] vows a jest; and is it nothing to make it your sport
 
-to break them, and to tempt another to do the same? Can I love a man
+to break them, and to tempt another to do the same? Can I [[Love|love]] a man
 
 that does such things, and coolly maintains it is nothing?”
 
 
 
-“You are breaking your marriage vows yourself,” said he, indignantly
+“You are breaking your [[Marriage|marriage]] vows yourself,” said he, indignantly
 
-rising and pacing to and fro. “You promised to honour and obey me, and
+rising and pacing to and fro. “You promised to [[Honour|honour]] and obey me, and
 
-now you attempt to hector over me, and threaten and accuse me, and call
+now you attempt to [[Hector|hector]] over me, and threaten and accuse me, and call
 
-me worse than a highwayman. If it were not for your situation, Helen, I
+me worse than a highwayman. If it were not for your situation, [[Helen]], I
 
 would not submit to it so tamely. I won’t be dictated to by a woman,
 
@@ -316,27 +316,27 @@ He was silent a moment, and then replied: “You never will hate me.”
 
 Returning and resuming his former position at my feet, he repeated more
 
-vehemently—“You cannot hate me as long as I love you.”
+vehemently—“You cannot hate me as long as I [[Love|love]] you.”
 
 
 
-“But how can I believe that you love me, if you continue to act in this
+“But how can I believe that you [[Love|love]] me, if you continue to act in this
 
 way? Just imagine yourself in my place: would _you_ think I loved
 
-_you_, if _I_ did so? Would you believe my protestations, and honour
+_you_, if _I_ did so? Would you believe my protestations, and [[Honour|honour]]
 
 and trust me under such circumstances?”
 
 
 
-“The cases are different,” he replied. “It is a woman’s nature to be
+“The cases are different,” he replied. “It is a woman’s [[Nature|nature]] to be
 
-constant—to love one and one only, blindly, tenderly, and for
+constant—to [[Love|love]] one and one only, blindly, tenderly, and for
 
 ever—bless them, dear creatures! and you above them all; but you must
 
-have some commiseration for us, Helen; you must give us a little more
+have some commiseration for us, [[Helen]]; you must give us a little more
 
 licence, for, as Shakespeare has it—
 
@@ -346,7 +346,7 @@ However we do praise ourselves,
 
 Our fancies are more giddy and unfirm,
 
-More longing, wavering, sooner lost and won
+More [[Longing|longing]], wavering, sooner lost and won
 
 Than women’s are.”
 
@@ -360,7 +360,7 @@ Lowborough?”
 
 
 
-“No! heaven is my witness that I think her mere dust and ashes in
+“No! heaven is my witness that I think her mere [[Dust|dust]] and ashes in
 
 comparison with you, and shall continue to think so, unless you drive
 
@@ -368,11 +368,11 @@ me from you by too much severity. She is a daughter of earth; you are
 
 an angel of heaven; only be not too austere in your divinity, and
 
-remember that I am a poor, fallible mortal. Come now, Helen; won’t you
+remember that I am a poor, fallible mortal. Come now, [[Helen]]; won’t you
 
 forgive me?” he said, gently taking my hand, and looking up with an
 
-innocent smile.
+[[Innocent|innocent]] smile.
 
 
 
@@ -384,13 +384,13 @@ innocent smile.
 
 
 
-“Don’t swear; I’ll believe your word as well as your oath. I wish I
+“Don’t swear; I’ll believe your word as [[Well|well]] as your oath. I wish I
 
 could have confidence in either.”
 
 
 
-“Try me, then, Helen: only trust and pardon me this once, and you shall
+“Try me, then, [[Helen]]: only trust and pardon me this once, and you shall
 
 see! Come, I am in hell’s torments till you speak the word.”
 
@@ -398,31 +398,31 @@ see! Come, I am in hell’s torments till you speak the word.”
 
 I did not speak it, but I put my hand on his shoulder and kissed his
 
-forehead, and then burst into tears. He embraced me tenderly; and we
+forehead, and then burst into [[Tears|tears]]. He embraced me tenderly; and we
 
 have been good friends ever since. He has been decently temperate at
 
-table, and well-conducted towards Lady Lowborough. The first day he
+table, and [[Well|well]]-conducted towards Lady Lowborough. The first day he
 
 held himself aloof from her, as far as he could without any flagrant
 
 breach of hospitality: since that he has been friendly and civil, but
 
-nothing more—in my presence, at least, nor, I think, at any other time;
+nothing more—in my presence, at least, nor, I think, at any other [[Time|time]];
 
-for she seems haughty and displeased, and Lord Lowborough is manifestly
+for she seems haughty and displeased, and [[Lord Lowborough]] is manifestly
 
 more cheerful, and more cordial towards his host than before. But I
 
-shall be glad when they are gone, for I have so little love for
+shall be glad when they are gone, for I have so little [[Love|love]] for
 
 Annabella that it is quite a task to be civil to her, and as she is the
 
 only woman here besides myself, we are necessarily thrown so much
 
-together. Next time Mrs. Hargrave calls I shall hail her advent as
+together. Next [[Time|time]] Mrs. Hargrave calls I shall hail her advent as
 
-quite a relief. I have a good mind to ask Arthur’s leave to invite the
+quite a relief. I have a good mind to ask [[arthur|Arthur]]’s leave to invite the
 
 old lady to stay with us till our guests depart. I think I will. She
 
@@ -434,11 +434,11 @@ Lowborough and me.
 
 
 
-The first time the latter and I were alone together, after that unhappy
+The first [[Time|time]] the latter and I were [[Alone|alone]] together, after that unhappy
 
 evening, was an hour or two after breakfast on the following day, when
 
-the gentlemen were gone out, after the usual time spent in the writing
+the gentlemen were gone out, after the usual [[Time|time]] spent in the writing
 
 of letters, the reading of newspapers, and desultory conversation. We
 
@@ -456,11 +456,11 @@ smiling with the coolest assurance, she began,—
 
 
 
-“Your husband was merry last night, Helen: is he often so?”
+“Your husband was merry last [[Night|night]], [[Helen]]: is he often so?”
 
 
 
-My blood boiled in my face; but it was better she should seem to
+My [[Blood|blood]] boiled in my face; but it was better she should seem to
 
 attribute his conduct to this than to anything else.
 
@@ -482,7 +482,7 @@ repeat it.”
 
 “I _thought_ he looked rather subdued this morning,” she continued;
 
-“and you, Helen? you’ve been weeping, I see—that’s our grand resource,
+“and you, [[Helen]]? you’ve been weeping, I see—that’s our grand resource,
 
 you know. But doesn’t it make your eyes smart? and do you always find
 
@@ -494,11 +494,11 @@ it to answer?”
 
 
 
-“Well, I don’t know: I never had occasion to try it; but I think if
+“[[Well]], I don’t know: I never had occasion to try it; but I think if
 
 Lowborough were to commit such improprieties, I’d make _him_ cry. I
 
-don’t wonder at your being angry, for I’m sure I’d give my husband a
+don’t [[Wonder|wonder]] at your being angry, for I’m sure I’d give my husband a
 
 lesson he would not soon forget for a lighter offence than that. But
 
@@ -510,9 +510,9 @@ good order for that.”
 
 “Are you sure you don’t arrogate too much of the credit to yourself.
 
-Lord Lowborough was quite as remarkable for his abstemiousness for some
+[[Lord Lowborough]] was quite as remarkable for his abstemiousness for some
 
-time before you married him, as he is now, I have heard.”
+[[Time|time]] before you married him, as he is now, I have heard.”
 
 
 
@@ -530,9 +530,9 @@ while I live, for he worships the very ground I tread on.”
 
 “Why, as to that, I can’t say: you know we’re all fallible creatures,
 
-Helen; we none of us deserve to be worshipped. But are _you_ sure your
+[[Helen]]; we none of us deserve to be worshipped. But are _you_ sure your
 
-darling Huntingdon deserves all the love you give to _him?_”
+darling Huntingdon deserves all the [[Love|love]] you give to _him?_”
 
 
 
@@ -546,7 +546,7 @@ pretended to arrange my work.
 
 “At any rate,” resumed she, pursuing her advantage, “you can console
 
-yourself with the assurance that _you_ are worthy of all the love he
+yourself with the assurance that _you_ are worthy of all the [[Love|love]] he
 
 gives to you.”
 

@@ -38,7 +38,7 @@ earnestness; “when we first began to mention such subjects, I explained
 that I was what you may call a Blighted Flower, you know.”
 
 The Captain approves of this figure greatly; and murmurs that no flower
-as blows, is like the rose.
+as blows, is like the [[Rose|rose]].
 
 “But Lord bless me,” pursues Mr Toots, “she was as entirely conscious
 of the state of my feelings as I was myself. There was nothing I could
@@ -58,8 +58,8 @@ I think so too.’”
 “Then,” resumes Mr Toots, after some contemplative pulling at his pipe,
 during which his visage has expressed the most contented reflection,
 “what an observant woman my wife is! What sagacity she possesses! What
-remarks she makes! It was only last night, when we were sitting in the
-enjoyment of connubial bliss—which, upon my word and honour, is a
+remarks she makes! It was only last [[Night|night]], when we were sitting in the
+enjoyment of connubial bliss—which, upon my word and [[Honour|honour]], is a
 feeble term to express my feelings in the society of my wife—that she
 said how remarkable it was to consider the present position of our
 friend Walters. ‘Here,’ observes my wife, ‘he is, released from
@@ -70,13 +70,13 @@ know he was, Mr Sols.”
 
 “‘Here he is,’ says my wife, ‘released from that, immediately;
 appointed by the same establishment to a post of great trust and
-confidence at home; showing himself again worthy; mounting up the
+confidence at [[Home|home]]; showing himself again worthy; mounting up the
 ladder with the greatest expedition; beloved by everybody; assisted by
-his uncle at the very best possible time of his fortunes’—which I think
+his uncle at the very best possible [[Time|time]] of his fortunes’—which I think
 is the case, Mr Sols? My wife is always correct.”
 
 “Why yes, yes—some of our lost ships, freighted with gold, have come
-home, truly,” returns old Sol, laughing. “Small craft, Mr Toots, but
+[[Home|home]], truly,” returns old Sol, laughing. “Small craft, Mr Toots, but
 serviceable to my boy!”
 
 “Exactly so,” says Mr Toots. “You’ll never find my wife wrong. ‘Here he
@@ -87,7 +87,7 @@ eye of Mr Dombey, there is a foundation going on, upon which a—an
 Edifice;’ that was Mrs Toots’s word,” says Mr Toots exultingly, ‘“is
 gradually rising, perhaps to equal, perhaps excel, that of which he was
 once the head, and the small beginnings of which (a common fault, but a
-bad one, Mrs Toots said) escaped his memory. Thus,’ said my wife, ‘from
+bad one, Mrs Toots said) escaped his [[Memory|memory]]. Thus,’ said my wife, ‘from
 his daughter, after all, another Dombey and Son will ascend’—no ‘rise;’
 that was Mrs Toots’s word—‘triumphant!’”
 
@@ -98,31 +98,31 @@ sentence of his wife’s, that the Captain, throwing away his glazed hat
 in a state of the greatest excitement, cries:
 
 “Sol Gills, you man of science and my ould pardner, what did I tell
-Wal”r to overhaul on that there night when he first took to business?
-Was it this here quotation, ‘Turn again Whittington, Lord Mayor of
-London, and when you are old you will never depart from it.’ Was it
+Wal”r to overhaul on that there [[Night|night]] when he first took to business?
+Was it this here quotation, ‘Turn again Whittington, [[Lord Mayor]] of
+[[London]], and when you are old you will never depart from it.’ Was it
 them words, Sol Gills?”
 
 “It certainly was, Ned,” replied the old Instrument-maker. “I remember
-well.”
+[[Well|well]].”
 
 “Then I tell you what,” says the Captain, leaning back in his chair,
 and composing his chest for a prodigious roar. “I’ll give you Lovely
-Peg right through; and stand by, both on you, for the chorus!”
+Peg right through; and stand by, both on you, for the [[Chorus|chorus]]!”
 
-Buried wine grows older, as the old Madeira did, in its time; and dust
+Buried wine grows older, as the old Madeira did, in its [[Time|time]]; and [[Dust|dust]]
 and cobwebs thicken on the bottles.
 
-Autumn days are shining, and on the sea-beach there are often a young
+[[Autumn]] days are shining, and on the sea-beach there are often a young
 lady, and a white-haired gentleman. With them, or near them, are two
 children: boy and girl. And an old dog is generally in their company.
 
 The white-haired gentleman walks with the little boy, talks with him,
 helps him in his play, attends upon him, watches him as if he were the
 object of his life. If he be thoughtful, the white-haired gentleman is
-thoughtful too; and sometimes when the child is sitting by his side,
+thoughtful too; and sometimes when the [[Child|child]] is sitting by his side,
 and looks up in his face, asking him questions, he takes the tiny hand
-in his, and holding it, forgets to answer. Then the child says:
+in his, and holding it, forgets to answer. Then the [[Child|child]] says:
 
 “What, grandpa! Am I so like my poor little Uncle again?”
 
@@ -133,16 +133,16 @@ in his, and holding it, forgets to answer. Then the child says:
 “And he lay on a little bed beside the sea, and you can run about.”
 
 And so they range away again, busily, for the white-haired gentleman
-likes best to see the child free and stirring; and as they go about
+likes best to see the [[Child|child]] free and stirring; and as they go about
 together, the story of the bond between them goes about, and follows
 them.
 
 But no one, except Florence, knows the measure of the white-haired
 gentleman’s affection for the girl. That story never goes about. The
-child herself almost wonders at a certain secrecy he keeps in it. He
+[[Child|child]] herself almost wonders at a certain secrecy he keeps in it. He
 hoards her in his heart. He cannot bear to see a cloud upon her face.
 He cannot bear to see her sit apart. He fancies that she feels a
 slight, when there is none. He steals away to look at her, in her
-sleep. It pleases him to have her come, and wake him in the morning. He
+[[Sleep|sleep]]. It pleases him to have her come, and wake him in the morning. He
 is fondest of her and most loving to her, when there is no creature by.
-The child says then, sometimes:
+The [[Child|child]] says then, sometimes:

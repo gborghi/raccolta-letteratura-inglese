@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 21 (part 5)"
+title: "[[Wuthering Heights]] — Chapter 21 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -20,9 +20,9 @@ grounds, and the whole day passed as usual: but in the evening, when
 she had retired to her room, and I went to help her to undress, I found
 her crying, on her knees by the bedside.
 
-“Oh, fie, silly child!” I exclaimed. “If you had any real griefs you’d
+“Oh, fie, silly [[Child|child]]!” I exclaimed. “If you had any real griefs you’d
 be ashamed to waste a tear on this little contrariety. You never had
-one shadow of substantial sorrow, Miss Catherine. Suppose, for a
+one [[Shadow|shadow]] of substantial sorrow, Miss Catherine. Suppose, for a
 minute, that master and I were dead, and you were by yourself in the
 world: how would you feel, then? Compare the present occasion with such
 an affliction as that, and be thankful for the friends you have,
@@ -52,11 +52,11 @@ that it is done.”
 “But how can one little note—?” she recommenced, putting on an
 imploring countenance.
 
-“Silence!” I interrupted. “We’ll not begin with your little notes. Get
+“[[Silence]]!” I interrupted. “We’ll not begin with your little notes. Get
 into bed.”
 
 She threw at me a very naughty look, so naughty that I would not kiss
-her good-night at first: I covered her up, and shut her door, in great
+her good-[[Night|night]] at first: I covered her up, and shut her door, in great
 displeasure; but, repenting half-way, I returned softly, and lo! there
 was Miss standing at the table with a bit of blank paper before her and
 a pencil in her hand, which she guiltily slipped out of sight on my
@@ -66,15 +66,15 @@ entrance.
 and at present I shall put out your candle.”
 
 I set the extinguisher on the flame, receiving as I did so a slap on my
-hand and a petulant “cross thing!” I then quitted her again, and she
+hand and a petulant “[[Cross|cross]] thing!” I then quitted her again, and she
 drew the bolt in one of her worst, most peevish humours. The letter was
 finished and forwarded to its destination by a milk-fetcher who came
-from the village; but that I didn’t learn till some time afterwards.
+from the village; but that I didn’t learn till some [[Time|time]] afterwards.
 Weeks passed on, and Cathy recovered her temper; though she grew
 wondrous fond of stealing off to corners by herself; and often, if I
 came near her suddenly while reading, she would start and bend over the
 book, evidently desirous to hide it; and I detected edges of loose
-paper sticking out beyond the leaves. She also got a trick of coming
+paper sticking out beyond the [[Leaves|leaves]]. She also got a trick of coming
 down early in the morning and lingering about the kitchen, as if she
 were expecting the arrival of something; and she had a small drawer in
 a cabinet in the library, which she would trifle over for hours, and
@@ -83,16 +83,16 @@ whose key she took special care to remove when she left it.
 One day, as she inspected this drawer, I observed that the playthings
 and trinkets which recently formed its contents were transmuted into
 bits of folded paper. My curiosity and suspicions were roused; I
-determined to take a peep at her mysterious treasures; so, at night, as
+determined to take a peep at her mysterious treasures; so, at [[Night|night]], as
 soon as she and my master were safe upstairs, I searched, and readily
-found among my house keys one that would fit the lock. Having opened, I
+found among my [[house]] keys one that would fit the lock. Having opened, I
 emptied the whole contents into my apron, and took them with me to
 examine at leisure in my own chamber. Though I could not but suspect, I
 was still surprised to discover that they were a mass of
-correspondence—daily almost, it must have been—from Linton Heathcliff:
+correspondence—daily almost, it must have been—from [[Linton Heathcliff]]:
 answers to documents forwarded by her. The earlier dated were
 embarrassed and short; gradually, however, they expanded into copious
-love-letters, foolish, as the age of the writer rendered natural, yet
+[[Love|love]]-letters, foolish, as the age of the writer rendered natural, yet
 with touches here and there which I thought were borrowed from a more
 experienced source. Some of them struck me as singularly odd compounds
 of ardour and flatness; commencing in strong feeling, and concluding in
@@ -106,19 +106,19 @@ Following her habit, my young lady descended early, and visited the
 kitchen: I watched her go to the door, on the arrival of a certain
 little boy; and, while the dairymaid filled his can, she tucked
 something into his jacket pocket, and plucked something out. I went
-round by the garden, and laid wait for the messenger; who fought
+round by the [[Garden|garden]], and laid wait for the messenger; who fought
 valorously to defend his trust, and we spilt the milk between us; but I
 succeeded in abstracting the epistle; and, threatening serious
-consequences if he did not look sharp home, I remained under the wall
+consequences if he did not look sharp [[Home|home]], I remained under the wall
 and perused Miss Cathy’s affectionate composition. It was more simple
 and more eloquent than her cousin’s: very pretty and very silly. I
-shook my head, and went meditating into the house. The day being wet,
+shook my head, and went meditating into the [[house]]. The day being wet,
 she could not divert herself with rambling about the park; so, at the
 conclusion of her morning studies, she resorted to the solace of the
 drawer. Her father sat reading at the table; and I, on purpose, had
-sought a bit of work in some unripped fringes of the window-curtain,
+sought a bit of work in some unripped fringes of the [[Window|window]]-curtain,
 keeping my eye steadily fixed on her proceedings. Never did any bird
 flying back to a plundered nest, which it had left brimful of chirping
-young ones, express more complete despair, in its anguished cries and
+young ones, express more complete [[Despair|despair]], in its anguished cries and
 flutterings, than she by her single “Oh!” and the change that
 transfigured her late happy countenance. Mr. Linton looked up.

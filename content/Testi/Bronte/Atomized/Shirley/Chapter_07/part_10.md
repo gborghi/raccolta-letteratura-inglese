@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 7 (part 10)"
+title: "[[Shirley]] — Chapter 7 (part 10)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -42,13 +42,13 @@ perpetrating further mischief."
 
 
 
-"But his accomplices will take revenge on you. You do not know how the
+"But his accomplices will take [[Revenge|revenge]] on you. You do not know how the
 
 people of this country bear malice. It is the boast of some of them that
 
 they can keep a stone in their pocket seven years, turn it at the end of
 
-that time, keep it seven years longer, and hurl it and hit their mark
+that [[Time|time]], keep it seven years longer, and hurl it and hit their mark
 
 'at last.'"
 
@@ -60,9 +60,9 @@ Moore laughed.
 
 "A most pithy vaunt," said he--"one that redounds vastly to the credit
 
-of your dear Yorkshire friends. But don't fear for me, Lina. I am on my
+of your dear Yorkshire friends. But don't [[Fear|fear]] for me, Lina. I am on my
 
-guard against these lamb-like compatriots of yours. Don't make yourself
+guard against these [[Lamb|lamb]]-like compatriots of yours. Don't make yourself
 
 uneasy about me."
 
@@ -76,7 +76,7 @@ stopped.
 
 "Nothing will happen, Lina. To speak in your own language, there is a
 
-Providence above all--is there not?"
+[[Providence]] above all--is there not?"
 
 
 
@@ -100,17 +100,17 @@ remembered."
 
 I have myself gone to bed like a heathen, that another had asked
 
-forgiveness for my day, and safety for my night. I don't suppose such
+[[Forgiveness|forgiveness]] for my day, and safety for my [[Night|night]]. I don't suppose such
 
 vicarial piety will avail much, but the petitions come out of a sincere
 
-breast, from innocent lips. They should be acceptable as Abel's
+breast, from [[Innocent|innocent]] lips. They should be acceptable as Abel's
 
 offering; and doubtless would be, if the object deserved them."
 
 
 
-"Annihilate that doubt. It is groundless."
+"Annihilate that [[Doubt|doubt]]. It is groundless."
 
 
 
@@ -118,7 +118,7 @@ offering; and doubtless would be, if the object deserved them."
 
 it, and for nothing else, and scarcely breathes any other air than that
 
-of mills and markets, it seems odd to utter his name in a prayer, or to
+of mills and markets, it seems odd to utter his name in a [[prayer]], or to
 
 mix his idea with anything divine; and very strange it seems that a
 
@@ -174,7 +174,7 @@ seem friendly. You misunderstood me this morning, did you not?"
 
 "Yet I am the same, except that I have left the tradesman behind me in
 
-the Hollow. Your kinsman alone stands before you."
+the Hollow. Your kinsman [[Alone|alone]] stands before you."
 
 
 
@@ -202,10 +202,10 @@ Mr. Helstone called for his niece.
 
 than meet all that host in the passage, will take my departure through
 
-the window. Luckily it opens like a door. One minute only--put down the
+the [[Window|window]]. Luckily it opens like a door. One minute only--put down the
 
-candle an instant--good-night. I kiss you because we are cousins, and,
+candle an instant--good-[[Night|night]]. I kiss you because we are cousins, and,
 
 being cousins, one--two--three kisses are allowable. Caroline,
 
-good-night."
+good-[[Night|night]]."

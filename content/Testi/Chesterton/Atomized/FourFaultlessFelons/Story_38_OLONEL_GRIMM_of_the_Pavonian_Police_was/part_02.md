@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — OLONEL GRIMM of the Pavonian Police was very exactly described as a (part 2)"
+title: "[[FourFaultlessFelons]] — OLONEL GRIMM of the Pavonian Police was very exactly described as a (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -20,7 +20,7 @@ world."
 
 "I do not think it will destroy the world," answered Conrad gravely. "I
 
-hope it will rather recreate it."
+[[Hope|hope]] it will rather recreate it."
 
 
 
@@ -48,7 +48,7 @@ already."
 
 "You heard it only ten minutes ago. We have shouted and bellowed The Word
 
-at you all the time, and made it as plain as a placard on the wall. The
+at you all the [[Time|time]], and made it as plain as a placard on the wall. The
 
 whole secret of this conspiracy is really in one word; only that we've
 
@@ -62,13 +62,13 @@ something like a suspicion was creeping into his face. Conrad repeated
 
 very seriously, with a slow and heavy enunciation the words: "As all
 
-stars shrivel in the single sun . . ."
+[[Stars|stars]] shrivel in the single sun . . ."
 
 
 
 Grimm leapt to his feet with an oath and suddenly made a dash at the door
 
-labelled "Sebastian".
+labelled "[[Sebastian]]".
 
 
 
@@ -96,7 +96,7 @@ peacock colours and all the externals of the popular poet.
 
 
 
-"All the history of the great revolution," went on John Conrad, in the
+"All the [[history]] of the great revolution," went on John Conrad, in the
 
 calm tone of a lecturer, "the whole method by which it was enabled to
 
@@ -110,7 +110,7 @@ you never guessed. It is the word One."
 
 He stepped from the table to the door at right angles to the open one;
 
-the door inscribed with the name of the Professor, and throwing it open,
+the door inscribed with the name of [[The Professor|the Professor]], and throwing it open,
 
 revealed another cupboard, with a hat-peg supporting an unnaturally
 
@@ -124,7 +124,7 @@ a pair of green spectacles.
 
 he said. "Need I explain to you that there never was any Professor
 
-Phocus?-except myself, of course, who professed to be the Professor. In
+Phocus?-except myself, of course, who professed to be [[The Professor|the Professor]]. In
 
 the case of Loeb and Case I ran rather a greater risk, for they were, or
 
@@ -160,7 +160,7 @@ painted and artificial in his purple whiskers. And that would have told
 
 you the whole story, if you'd only listened to her. Then everybody said,
 
-even the King himself, that old Loeb the pawnbroker was dead, and so he
+even the [[King]] himself, that old Loeb the pawnbroker was dead, and so he
 
 was. He died years before I began to impersonate him with these trifling
 
@@ -174,7 +174,7 @@ as if with cobwebs with the grey whiskers and shabby grey garments
 
 attributed to the miser. "That was the beginning of the whole business.
 
-Old Loeb really did take this house privately, but for very private
+Old Loeb really did take this [[house]] privately, but for very private
 
 reasons; not exactly out of pure public spirit; no. I really was his
 
@@ -186,7 +186,7 @@ myself, was the underground passage, which he had constructed for
 
 himself. As I say, there were no political ideals involved in that; odd
 
-sort of ladies used it and so on. He was not a nice old gentleman. Well,
+sort of ladies used it and so on. He was not a nice old gentleman. [[Well]],
 
 I don't know whether you will enter into the fine shade of my feelings,
 
@@ -202,7 +202,7 @@ So I decided to have a revolution. Or rather, I decided to be a
 
 revolution. It was all very easy, really, if one did it slowly and with a
 
-little tact and imagination. I built up the characters of four quite
+little tact and [[Imagination|imagination]]. I built up the characters of four quite
 
 different public men, two of them quite imaginary. You never saw any two
 
@@ -226,6 +226,6 @@ learned letters to the papers, with half the alphabet after his name,
 
 nobody was going to admit they had never heard of the famous Professor
 
-Phocus. When Sebastian said he was the greatest poet in modern Europe,
+Phocus. When [[Sebastian]] said he was the greatest poet in modern Europe,
 
 everybody felt that he ought to know. And if you get three or four names

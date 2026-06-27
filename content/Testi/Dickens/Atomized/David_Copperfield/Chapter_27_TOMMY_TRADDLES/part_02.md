@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 27: TOMMY TRADDLES (part 2)"
+title: "[[David Copperfield]] — Chapter 27: TOMMY TRADDLES (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -18,7 +18,7 @@ His old simple character and good temper, and something of his old
 unlucky fortune also, I thought, smiled at me in the smile with which he
 made this explanation.
 
-‘It’s not because I have the least pride, Copperfield, you understand,’
+‘It’s not because I have the least [[Pride|pride]], Copperfield, you understand,’
 said Traddles, ‘that I don’t usually give my address here. It’s only on
 account of those who come to me, who might not like to come here. For
 myself, I am fighting my way on in the world against difficulties, and
@@ -28,7 +28,7 @@ it would be ridiculous if I made a pretence of doing anything else.’
 
 ‘Why, yes,’ said Traddles, rubbing his hands slowly over one another. ‘I
 am reading for the bar. The fact is, I have just begun to keep my terms,
-after rather a long delay. It’s some time since I was articled, but the
+after rather a long delay. It’s some [[Time|time]] since I was articled, but the
 payment of that hundred pounds was a great pull. A great pull!’ said
 Traddles, with a wince, as if he had had a tooth out.
 
@@ -40,7 +40,7 @@ looking at you?’ I asked him.
 ‘That sky-blue suit you used to wear.’
 
 ‘Lord, to be sure!’ cried Traddles, laughing. ‘Tight in the arms and
-legs, you know? Dear me! Well! Those were happy times, weren’t they?’
+legs, you know? Dear me! [[Well]]! Those were happy times, weren’t they?’
 
 ‘I think our schoolmaster might have made them happier, without doing
 any harm to any of us, I acknowledge,’ I returned.
@@ -52,7 +52,7 @@ ha! And do you remember when I got caned for crying about Mr. Mell? Old
 Creakle! I should like to see him again, too!’
 
 ‘He was a brute to you, Traddles,’ said I, indignantly; for his good
-humour made me feel as if I had seen him beaten but yesterday.
+[[Humour|humour]] made me feel as if I had seen him beaten but yesterday.
 
 ‘Do you think so?’ returned Traddles. ‘Really? Perhaps he was rather.
 But it’s all over, a long while. Old Creakle!’
@@ -88,17 +88,17 @@ wasn’t provided for.’
 ‘Oh dear, yes!’ said Traddles. ‘I got fifty pounds. I had never been
 brought up to any profession, and at first I was at a loss what to
 do for myself. However, I began, with the assistance of the son of a
-professional man, who had been to Salem House--Yawler, with his nose on
+professional man, who had been to Salem [[house|House]]--Yawler, with his nose on
 one side. Do you recollect him?’
 
 No. He had not been there with me; all the noses were straight in my
 day.
 
 ‘It don’t matter,’ said Traddles. ‘I began, by means of his assistance,
-to copy law writings. That didn’t answer very well; and then I began to
+to copy law writings. That didn’t answer very [[Well|well]]; and then I began to
 state cases for them, and make abstracts, and that sort of work. For
 I am a plodding kind of fellow, Copperfield, and had learnt the way of
-doing such things pithily. Well! That put it in my head to enter myself
+doing such things pithily. [[Well]]! That put it in my head to enter myself
 as a law student; and that ran away with all that was left of the fifty
 pounds. Yawler recommended me to one or two other offices, however--Mr.
 Waterbrook’s for one--and I got a good many jobs. I was fortunate
@@ -118,7 +118,7 @@ can find no better expression--as before.
 the hundred pounds at last,’ said Traddles; ‘and thank Heaven that’s
 paid--though it was--though it certainly was,’ said Traddles, wincing
 again as if he had had another tooth out, ‘a pull. I am living by the
-sort of work I have mentioned, still, and I hope, one of these days, to
+sort of work I have mentioned, still, and I [[Hope|hope]], one of these days, to
 get connected with some newspaper: which would almost be the making of
 my fortune. Now, Copperfield, you are so exactly what you used to
 be, with that agreeable face, and it’s so pleasant to see you, that I
@@ -130,18 +130,18 @@ Engaged! Oh, Dora!
 Devonshire. Yes!’ For he saw me glance, involuntarily, at the prospect
 on the inkstand. ‘That’s the church! You come round here to the left,
 out of this gate,’ tracing his finger along the inkstand, ‘and exactly
-where I hold this pen, there stands the house--facing, you understand,
+where I hold this pen, there stands the [[house]]--facing, you understand,
 towards the church.’
 
 The delight with which he entered into these particulars, did not fully
 present itself to me until afterwards; for my selfish thoughts were
-making a ground-plan of Mr. Spenlow’s house and garden at the same
+making a ground-plan of Mr. Spenlow’s [[house]] and [[Garden|garden]] at the same
 moment.
 
 ‘She is such a dear girl!’ said Traddles; ‘a little older than me, but
 the dearest girl! I told you I was going out of town? I have been down
 there. I walked there, and I walked back, and I had the most delightful
-time! I dare say ours is likely to be a rather long engagement, but our
-motto is “Wait and hope!” We always say that. “Wait and hope,” we always
+[[Time|time]]! I dare say ours is likely to be a rather long engagement, but our
+motto is “Wait and [[Hope|hope]]!” We always say that. “Wait and [[Hope|hope]],” we always
 say. And she would wait, Copperfield, till she was sixty--any age you
 can mention--for me!’

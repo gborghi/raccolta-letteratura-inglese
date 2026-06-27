@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — A Discussion at Dawn"
+title: "ball and [[Cross|cross]] — A Discussion at [[Dawn]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -14,18 +14,18 @@ tags:
 </nav>
 
 
-IV.  A DISCUSSION AT DAWN
+IV.  A DISCUSSION AT [[Dawn|DAWN]]
 
 The duellists had from their own point of view escaped or conquered
 the chief powers of the modern world.  They had satisfied
 the magistrate, they had tied the tradesman neck and heels,
 and they had left the police behind.  As far as their own feelings
 went they had melted into a monstrous sea; they were but the fare
-and driver of one of the million hansoms that fill London streets.
+and driver of one of the million hansoms that fill [[London]] streets.
 But they had forgotten something; they had forgotten journalism.
 They had forgotten that there exists in the modern world,
-perhaps for the first time in history, a class of people whose
-interest is not that things should happen well or happen badly,
+perhaps for the first [[Time|time]] in [[history]], a class of people whose
+interest is not that things should happen [[Well|well]] or happen badly,
 should happen successfully or happen unsuccessfully, should happen
 to the advantage of this party or the advantage of that party,
 but whose interest simply is that things should happen.
@@ -41,7 +41,7 @@ fallen off a scaffolding is really more sensational; and it
 is also some thousand times more common.  But journalism cannot
 reasonably be expected thus to insist upon the permanent miracles.
 Busy editors cannot be expected to put on their posters,
-"Mr. Wilkinson Still Safe," or "Mr. Jones, of Worthing, Not Dead Yet."
+"Mr. Wilkinson Still Safe," or "Mr. [[Jones]], of Worthing, Not Dead Yet."
 They cannot announce the happiness of mankind at all.
 They cannot describe all the forks that are not stolen,
 or all the marriages that are not judiciously dissolved.
@@ -49,10 +49,10 @@ Hence the complete picture they give of life is of necessity fallacious;
 they can only represent what is unusual.  However democratic they
 may be, they are only concerned with the minority.
 
-The incident of the religious fanatic who broke a window on Ludgate Hill
-was alone enough to set them up in good copy for the night.
+The incident of the religious fanatic who broke a [[Window|window]] on Ludgate [[Hill]]
+was [[Alone|alone]] enough to set them up in good copy for the [[Night|night]].
 But when the same man was brought before a magistrate and defied
-his enemy to mortal combat in the open court, then the columns
+his enemy to mortal combat in the open [[Court|court]], then the columns
 would hardly hold the excruciating information, and the headlines
 were so large that there was hardly room for any of the text.
 The _Daily Telegraph_ headed a column, "A Duel on Divinity,"
@@ -66,17 +66,17 @@ and Duellist."  The _Daily News_ inserted a colourless account
 of the matter, but was pursued and eaten up for some weeks,
 with letters from outlying ministers, headed "Murder and Mariolatry."
 But the journalistic temperature was steadily and consistently
-heated by all these influences; the journalists had tasted blood,
+heated by all these influences; the journalists had tasted [[Blood|blood]],
 prospectively, and were in the mood for more; everything in the
 matter prepared them for further outbursts of moral indignation.
 And when a gasping reporter rushed in in the last hours of the evening
-with the announcement that the two heroes of the Police Court
-had literally been found fighting in a London back garden,
-with a shopkeeper bound and gagged in the front of the house,
+with the announcement that the two heroes of the Police [[Court]]
+had literally been found fighting in a [[London]] back [[Garden|garden]],
+with a shopkeeper bound and gagged in the front of the [[house]],
 the editors and sub-editors were stricken still as men are
 by great beatitudes.
 
-The next morning, five or six of the great London dailies burst
+The next morning, five or six of the great [[London]] dailies burst
 out simultaneously into great blossoms of eloquent leader-writing.
 Towards the end all the leaders tended to be the same, but they
 all began differently.  The _Daily Telegraph_, for instance began,
@@ -95,63 +95,63 @@ And the morning after that, the editors and the newspapers were
 in such a state, that, as the phrase is, there was no holding them.
 Whatever secret and elvish thing it is that broods over editors
 and suddenly turns their brains, that thing had seized on
-the story of the broken glass and the duel in the garden.
-It became monstrous and omnipresent, as do in our time the unimportant
+the story of the broken glass and the duel in the [[Garden|garden]].
+It became monstrous and omnipresent, as do in our [[Time|time]] the unimportant
 doings of the sect of the Agapemonites, or as did at an earlier
-time the dreary dishonesties of the Rhodesian financiers.
-Questions were asked about it, and even answered, in the House
-of Commons.  The Government was solemnly denounced in the papers
+[[Time|time]] the dreary dishonesties of the Rhodesian financiers.
+Questions were asked about it, and even answered, in the [[house|House]]
+of Commons.  The [[government|Government]] was solemnly denounced in the papers
 for not having done something, nobody knew what, to prevent
-the window being broken.  An enormous subscription was started
+the [[Window|window]] being broken.  An enormous subscription was started
 to reimburse Mr. Gordon, the man who had been gagged in the shop.
 Mr. MacIan, one of the combatants, became for some mysterious reason,
 singly and hugely popular as a comic figure in the comic papers
 and on the stage of the music hall.  He was always represented
 (in defiance of fact), with red whiskers, and a very red nose,
-and in full Highland costume.  And a song, consisting of an
+and in full Highland costume.  And a [[Song|song]], consisting of an
 unimaginable number of verses, in which his name was rhymed with
-flat iron, the British Lion, sly 'un, dandelion, Spion (With Kop
-in the next line), was sung to crowded houses every night.
+flat iron, the British [[Lion]], sly 'un, dandelion, Spion (With Kop
+in the next line), was sung to crowded houses every [[Night|night]].
 The papers developed a devouring thirst for the capture of the fugitives;
 and when they had not been caught for forty-eight hours,
-they suddenly turned the whole matter into a detective mystery.
+they suddenly turned the whole matter into a [[Detective|detective]] mystery.
 Letters under the heading, "Where are They," poured in to every paper,
 with every conceivable kind of explanation, running them to earth
 in the Monument, the Twopenny Tube, Epping Forest, Westminster Abbey,
 rolled up in carpets at Shoolbreds, locked up in safes in Chancery Lane.
 Yes, the papers were very interesting, and Mr. Turnbull unrolled
 a whole bundle of them for the amusement of Mr. MacIan as they
-sat on a high common to the north of London, in the coming of
-the white dawn.
+sat on a high common to the north of [[London]], in the coming of
+the white [[Dawn|dawn]].
 
 The darkness in the east had been broken with a bar of grey;
-the bar of grey was split with a sword of silver and morning lifted
-itself laboriously over London.  From the spot where Turnbull and
+the bar of grey was split with a [[Sword|sword]] of silver and morning lifted
+itself laboriously over [[London]].  From the spot where Turnbull and
 MacIan were sitting on one of the barren steeps behind Hampstead,
-they could see the whole of London shaping itself vaguely and largely
+they could see the whole of [[London]] shaping itself vaguely and largely
 in the grey and growing light, until the white sun stood over it
 and it lay at their feet, the splendid monstrosity that it is.
 Its bewildering squares and parallelograms were compact and perfect
 as a Chinese puzzle; an enormous hieroglyphic which man must
 decipher or die.  There fell upon both of them, but upon Turnbull
 more than the other, because he know more what the scene signified,
-that quite indescribable sense as of a sublime and passionate
+that quite indescribable sense as of a [[Sublime|sublime]] and passionate
 and heart-moving futility, which is never evoked by deserts or dead
 men or men neglected and barbarous, which can only be invoked
 by the sight of the enormous genius of man applied to anything other
 than the best.  Turnbull, the old idealistic democrat, had so often
-reviled the democracy and reviled them justly for their supineness,
+reviled the [[Democracy|democracy]] and reviled them justly for their supineness,
 their snobbishness, their evil reverence for idle things.
-He was right enough; for our democracy has only one great fault;
+He was right enough; for our [[Democracy|democracy]] has only one great fault;
 it is not democratic.  And after denouncing so justly average
 modern men for so many years as sophists and as slaves, he looked
 down from an empty slope in Hampstead and saw what gods they are.
 Their achievement seemed all the more heroic and divine,
 because it seemed doubtful whether it was worth doing at all.
 There seemed to be something greater than mere accuracy in making
-such a mistake as London.  And what was to be the end of it
+such a mistake as [[London]].  And what was to be the end of it
 all? what was to be the ultimate transformation of this common
-and incredible London man, this workman on a tram in Battersea,
+and incredible [[London]] man, this workman on a tram in Battersea,
 his clerk on an omnibus in Cheapside?  Turnbull, as he stared drearily,
 murmured to himself the words of the old atheistic and revolutionary
 Swinburne who had intoxicated his youth:
@@ -165,36 +165,36 @@ Swinburne who had intoxicated his youth:
 
 Turnbull shivered slightly as if behind the earthly morning
 he felt the evening of the world, the sunset of so many hopes.
-Those words were from "Songs before Sunrise".  But Turnbull's songs at
-their best were songs after sunrise, and sunrise had been no such great
+Those words were from "[[songs|Songs]] before Sunrise".  But Turnbull's [[songs]] at
+their best were [[songs]] after sunrise, and sunrise had been no such great
 thing after all.  Turnbull shivered again in the sharp morning air.
-MacIan was also gazing with his face towards the city, but there was
+MacIan was also gazing with his face towards the [[City|city]], but there was
 that about his blind and mystical stare that told one, so to speak,
 that his eyes were turned inwards.  When Turnbull said something
-to him about London, they seemed to move as at a summons and come
+to him about [[London]], they seemed to move as at a summons and come
 out like two householders coming out into their doorways.
 
 "Yes," he said, with a sort of stupidity.  "It's a very big place."
 
-There was a somewhat unmeaning silence, and then MacIan said again:
+There was a somewhat unmeaning [[Silence|silence]], and then MacIan said again:
 
 "It's a very big place.  When I first came into it I was frightened
 of it.  Frightened exactly as one would be frightened at the sight
 of a man forty feet high.  I am used to big things where I come from,
-big mountains that seem to fill God's infinity, and the big sea
+big [[Mountains|mountains]] that seem to fill God's infinity, and the big sea
 that goes to the end of the world.  But then these things are all
 shapeless and confused things, not made in any familiar form.
 But to see the plain, square, human things as large as that,
 houses so large and streets so large, and the town itself so large,
 was like having screwed some devil's magnifying glass into one's eye.
-It was like seeing a porridge bowl as big as a house, or a mouse-trap
+It was like seeing a porridge bowl as big as a [[house]], or a mouse-trap
 made to catch elephants."
 
 "Like the land of the Brobdingnagians," said Turnbull, smiling.
 
 "Oh!  Where is that?" said MacIan.
 
-Turnbull said bitterly, "In a book," and the silence fell suddenly
+Turnbull said bitterly, "In a book," and the [[Silence|silence]] fell suddenly
 between them again.
 
 They were sitting in a sort of litter on the hillside;
@@ -202,8 +202,8 @@ all the things they had hurriedly collected, in various places,
 for their flight, were strewn indiscriminately round them.
 The two swords with which they had lately sought each other's
 lives were flung down on the grass at random, like two idle
-walking-sticks. Some provisions they had bought last night,
-at a low public house, in case of undefined contingencies,
+walking-sticks. Some provisions they had bought last [[Night|night]],
+at a low public [[house]], in case of undefined contingencies,
 were tossed about like the materials of an ordinary picnic,
 here a basket of chocolate, and there a bottle of wine.  And to add
 to the disorder finally, there were strewn on top of everything,
@@ -221,7 +221,7 @@ great clouds out of it.
 
 "Yes," he resumed.  "The matter on which you and I are engaged is
 at this moment really the best copy in England.  I am a journalist,
-and I know.  For the first time, perhaps, for many generations,
+and I know.  For the first [[Time|time]], perhaps, for many generations,
 the English are really more angry about a wrong thing done in England
 than they are about a wrong thing done in France."
 
@@ -239,8 +239,8 @@ anyhow, into his bursting side pocket, he said casually:
 "I only meant that you and I are the most prominent people in
 the English papers."
 
-"Well, what did you expect?" asked MacIan, opening his great
-grave blue eyes.
+"[[Well]], what did you expect?" asked MacIan, opening his great
+[[Grave|grave]] blue eyes.
 
 "The papers are full of us," said Turnbull, stooping to pick up
 one of the swords.
@@ -252,7 +252,7 @@ But they don't seem to understand the point."
 
 "The point of what?" asked Turnbull.
 
-"The point of the sword," said MacIan, violently, and planted
+"The point of the [[Sword|sword]]," said MacIan, violently, and planted
 the steel point in the soil like a man planting a tree.
 
 "That is a point," said Turnbull, grimly, "that we will discuss later.
@@ -266,7 +266,7 @@ short and sharp.
 not merely because I know the country, which you might learn
 by looking at a map, but because I know the people of the country,
 whom you could not know by living here thirty years.
-That infernal city down there is awake; and it is awake against us.
+That infernal [[City|city]] down there is awake; and it is awake against us.
 All those endless rows of windows and windows are all eyes staring at us.
 All those forests of chimneys are fingers pointing at us,
 as we stand here on the hillside.  This thing has caught on.
@@ -277,18 +277,18 @@ who don't want to die, drop by the score without looking round.
 But because two gentlemen, from private feelings of delicacy,
 do want to die, they will mobilize the army and navy to prevent them.
 For half a year or more, you and I, Mr. MacIan, will be an obstacle
-to every reform in the British Empire.  We shall prevent the Chinese being
+to every [[Reform|reform]] in the British Empire.  We shall prevent the Chinese being
 sent out of the Transvaal and the blocks being stopped in the Strand.
 We shall be the conversational substitute when anyone recommends
-Home Rule, or complains of sky signs.  Therefore, do not imagine,
-in your innocence, that we have only to melt away among those
+[[Home]] Rule, or complains of sky signs.  Therefore, do not imagine,
+in your [[innocence]], that we have only to melt away among those
 English hills as a Highland cateran might into your god-forsaken
-Highland mountains.  We must be eternally on our guard; we must live
+Highland [[Mountains|mountains]].  We must be eternally on our guard; we must live
 the hunted life of two distinguished criminals.  We must expect
 to be recognized as much as if we were Napoleon escaping from Elba.
 We must be prepared for our descriptions being sent to every tiny village,
 and for our faces being recognized by every ambitious policeman.
-We must often sleep under the stars as if we were in Africa.
+We must often [[Sleep|sleep]] under the [[Stars|stars]] as if we were in Africa.
 Last and most important we must not dream of effecting our--
 our final settlement, which will be a thing as famous as
 the Phoenix Park murders, unless we have made real and precise
@@ -306,13 +306,13 @@ It makes me feel I was right to----"
 
 "Yes?" said Turnbull.
 
-"To smash your window," said MacIan.  "I have woken up the world."
+"To smash your [[Window|window]]," said MacIan.  "I have woken up the world."
 
-"Very well, then," said Turnbull, stolidly.  "Let us look at a few
-final facts.  Beyond that hill there is comparatively clear country.
-Fortunately, I know the part well, and if you will follow
+"Very [[Well|well]], then," said Turnbull, stolidly.  "Let us look at a few
+final facts.  Beyond that [[Hill|hill]] there is comparatively clear country.
+Fortunately, I know the part [[Well|well]], and if you will follow
 me exactly, and, when necessary, on your stomach, we may be able
-to get ten miles out of London, literally without meeting anyone
+to get ten miles out of [[London]], literally without meeting anyone
 at all, which will be the best possible beginning, at any rate.
 We have provisions for at least two days and two nights, three days
 if we do it carefully.  We may be able to get fifty or sixty miles
@@ -322,12 +322,12 @@ And the brandy?"
 
 "Yes," said MacIan, like a soldier taking orders.
 
-"Very well, then, come on.  March.  We turn under that third bush
+"Very [[Well|well]], then, come on.  March.  We turn under that third bush
 and so down into the valley."  And he set off ahead at a swinging walk.
 
 Then he stopped suddenly; for he realized that the other was
-not following.  Evan MacIan was leaning on his sword with a lowering face,
-like a man suddenly smitten still with doubt.
+not following.  [[Evan MacIan]] was leaning on his [[Sword|sword]] with a lowering face,
+like a man suddenly smitten still with [[Doubt|doubt]].
 
 "What on earth is the matter?" asked Turnbull, staring in some anger.
 
@@ -335,15 +335,15 @@ Evan made no reply.
 
 "What the deuce is the matter with you?" demanded the leader,
 again, his face slowly growing as red as his beard; then he said,
-suddenly, and in a more human voice, "Are you in pain, MacIan?"
+suddenly, and in a more human voice, "Are you in [[Pain|pain]], MacIan?"
 
 "Yes," replied the Highlander, without lifting his face.
 
 "Take some brandy," cried Turnbull, walking forward hurriedly
 towards him.  "You've got it."
 
-"It's not in the body," said MacIan, in his dull, strange way.
-"The pain has come into my mind.  A very dreadful thing has just
+"It's not in the [[Body|body]]," said MacIan, in his dull, strange way.
+"The [[Pain|pain]] has come into my mind.  A very dreadful thing has just
 come into my thoughts."
 
 "What the devil are you talking about?" asked Turnbull.
@@ -361,22 +361,22 @@ impossible to describe.  "Here, here, upon this blessed grass."
 soon be gone.  Quick!"
 
 And he flung the scabbard from him furiously, and stood with
-the sunlight sparkling along his sword.
+the sunlight sparkling along his [[Sword|sword]].
 
-"You confounded fool," repeated Turnbull.  "Put that thing up again,
-you ass; people will come out of that house at the first clash
+"You confounded [[Fool|fool]]," repeated Turnbull.  "Put that thing up again,
+you ass; people will come out of that [[house]] at the first clash
 of the steel."
 
 "One of us will be dead before they come," said the other, hoarsely,
 "for this is the hour God meant."
 
-"Well, I never thought much of God," said the editor of _The Atheist_,
+"[[Well]], I never thought much of God," said the editor of _The Atheist_,
 losing all patience.  "And I think less now.  Never mind what God meant.
 Kindly enlighten my pagan darkness as to what the devil _you_ mean."
 
 "The hour will soon be gone.  In a moment it will be gone,"
 said the madman.  "It is now, now, now that I must nail your
-blaspheming body to the earth--now, now that I must avenge Our Lady
+blaspheming [[Body|body]] to the earth--now, now that I must avenge Our Lady
 on her vile slanderer.  Now or never.  For the dreadful thought
 is in my mind."
 
@@ -385,7 +385,7 @@ is in my mind."
 
 "I must kill you now," said the fanatic, "because----"
 
-"Well, because," said Turnbull, patiently.
+"[[Well]], because," said Turnbull, patiently.
 
 "Because I have begun to like you."
 
@@ -393,12 +393,12 @@ Turnbull's face had a sudden spasm in the sunlight, a change
 so instantaneous that it left no trace behind it; and his features
 seemed still carved into a cold stare.  But when he spoke again
 he seemed like a man who was placidly pretending to misunderstand
-something that he understood perfectly well.
+something that he understood perfectly [[Well|well]].
 
 "Your affection expresses itself in an abrupt form," he began,
 but MacIan broke the brittle and frivolous speech to pieces with
 a violent voice.  "Do not trouble to talk like that," he said.
-"You know what I mean as well as I know it.  Come on and fight, I say.
+"You know what I mean as [[Well|well]] as I know it.  Come on and fight, I say.
 Perhaps you are feeling just as I do."
 
 Turnbull's face flinched again in the fierce sunlight, but his
@@ -408,7 +408,7 @@ attitude kept its contemptuous ease.
 permitted in my heavy Lowland way to understand this new development.
 My dear Mr. MacIan, what do you really mean?"
 
-MacIan still kept the shining sword-point towards the other's breast.
+MacIan still kept the shining [[Sword|sword]]-point towards the other's breast.
 
 "You know what I mean.  You mean the same yourself.  We must fight
 now or else----"
@@ -419,7 +419,7 @@ blinding gravity.
 "Or else we may not want to fight at all," answered Evan, and the end
 of his speech was like a despairing cry.
 
-Turnbull took out his own sword suddenly as if to engage;
+Turnbull took out his own [[Sword|sword]] suddenly as if to engage;
 then planting it point downwards for a moment, he said, "Before we begin,
 may I ask you a question?"
 
@@ -430,7 +430,7 @@ did not fight now, we might not want to fight at all.  How would
 you feel about the matter if we came not to want to fight at all?"
 
 "I should feel," answered the other, "just as I should feel
-if you had drawn your sword, and I had run away from it.
+if you had drawn your [[Sword|sword]], and I had run away from it.
 I should feel that because I had been weak, justice had not been done."
 
 "Justice," answered Turnbull, with a thoughtful smile, "but we
@@ -473,21 +473,21 @@ my temperament, my own temperament, which can be turned upside
 down by two bottles of claret or an attack of the jaundice.
 You ask me to trust that when it softens towards you and not to trust
 the thing which I believe to be outside myself and more real than
-the blood in my body."
+the [[Blood|blood]] in my [[Body|body]]."
 
 "Stop a moment," said Turnbull, in the same easy tone, "Even in
 the very act of saying that you believe this or that, you imply
 that there is a part of yourself that you trust even if there are
 many parts which you mistrust.  If it is only you that like me,
-surely, also, it is only you that believe in the Catholic Church."
+surely, also, it is only you that believe in the [[Catholic Church]]."
 
-Evan remained in an unmoved and grave attitude.  "There is a part
+Evan remained in an unmoved and [[Grave|grave]] attitude.  "There is a part
 of me which is divine," he answered, "a part that can be trusted,
 but there are also affections which are entirely animal and idle."
 
 "And you are quite certain, I suppose," continued Turnbull, "that if
 even you esteem me the esteem would be wholly animal and idle?"
-For the first time MacIan started as if he had not expected the thing
+For the first [[Time|time]] MacIan started as if he had not expected the thing
 that was said to him.  At last he said:
 
 "Whatever in earth or heaven it is that has joined us two together,
@@ -495,7 +495,7 @@ it seems to be something which makes it impossible to lie.  No, I do
 not think that the movement in me towards you was...was that surface
 sort of thing.  It may have been something deeper...something strange.
 I cannot understand the thing at all.  But understand this and
-understand it thoroughly, if I loved you my love might be divine.
+understand it thoroughly, if I loved you my [[Love|love]] might be divine.
 No, it is not some trifle that we are fighting about.  It is not
 some superstition or some symbol.  When you wrote those words about
 Our Lady, you were in that act a wicked man doing a wicked thing.
@@ -504,7 +504,7 @@ And if I like you...it is because you are good."
 
 Turnbull's face wore an indecipherable expression.
 
-"Well, shall we fight now?" he said.
+"[[Well]], shall we fight now?" he said.
 
 "Yes," said MacIan, with a sudden contraction of his black brows,
 "yes, it must be now."
@@ -513,10 +513,10 @@ The bright swords crossed, and the first touch of them,
 travelling down blade and arm, told each combatant that the heart
 of the other was awakened.  It was not in that way that the swords
 rang together when they had rushed on each other in the little
-garden behind the dealer's shop.
+[[Garden|garden]] behind the dealer's shop.
 
 There was a pause, and then MacIan made a movement as if to thrust,
 and almost at the same moment Turnbull suddenly and calmly
-dropped his sword.  Evan stared round in an unusual bewilderment,
+dropped his [[Sword|sword]].  Evan stared round in an unusual bewilderment,
 and then realized that a large man in pale clothes and a Panama
 hat was strolling serenely towards them.

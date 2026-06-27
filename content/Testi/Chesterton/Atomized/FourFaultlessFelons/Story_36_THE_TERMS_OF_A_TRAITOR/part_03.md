@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE TERMS OF A TRAITOR (part 3)"
+title: "[[FourFaultlessFelons]] — THE TERMS OF A TRAITOR (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -14,27 +14,27 @@ tags:
 </nav>
 
 
-coincidence, it was once more a night of broad moonshine and the pale
+coincidence, it was once more a [[Night|night]] of broad moonshine and the pale
 
 facade of that terrace struck once more into him a certain chill of
 
 mystery, as of one looking at a marble mask. But it was not to the line
 
-of the familiar houses, or to the door of the familiar house, that
+of the familiar houses, or to the door of the familiar [[house]], that
 
-Colonel Grimm was conducted by his guide. It was across the road to the
+Colonel Grimm was conducted by his guide. It was across the [[Road|road]] to the
 
 little plot or shrubbery, with the railing round it; and, passing through
 
 the gate in the railing, they walked in the deep, dim grass and under the
 
-shadow of the large shrubs. In a place where the grass was shorter and
+[[Shadow|shadow]] of the large shrubs. In a place where the grass was shorter and
 
-smoother, immediately under the shadow of one of the bushes, Conrad
+smoother, immediately under the [[Shadow|shadow]] of one of the bushes, Conrad
 
 stooped down and seemed to be moving his finger like one writing in the
 
-dust.
+[[Dust|dust]].
 
 
 
@@ -62,7 +62,7 @@ seemed to be in reality a board with grass growing on top of it, like a
 
 large flat cap covered with green feathers. But when he held up the green
 
-lid so that it was black against the moon, the other could perceive that
+lid so that it was black against the [[Moon|moon]], the other could perceive that
 
 it was of a very elaborate outline, indented and diversified as if with
 
@@ -90,21 +90,21 @@ newly-uncovered abyss, and saying cheerily: "Come along down. There's
 
 quite an easy ladder. Just follow me, and you shall see the last of the
 
-men you fear."
+men you [[Fear|fear]]."
 
 
 
 Colonel Grimm stood for a moment like a statue in the moonlight. Then he
 
-plunged into the black well before him. And indeed, in doing so, he
+plunged into the black [[Well|well]] before him. And indeed, in doing so, he
 
 rather deserved to have a statue, not merely in the moonlight, but in the
 
 sun and the sight of men; like the statue of Pavonia Victrix. For he had
 
-seldom done a braver thing in a life and profession of no little courage.
+seldom done a braver thing in a life and profession of no little [[Courage|courage]].
 
-He was unarmed; he was alone; he had really very inadequate reasons, when
+He was unarmed; he was [[Alone|alone]]; he had really very inadequate reasons, when
 
 reasonably reviewed, for trusting this mysterious mountebank and
 
@@ -114,7 +114,7 @@ if he did keep his promise, what after all, was his promise? That through
 
 this dark entry the solitary officer should be led into the very lair of
 
-the lion; into the presence of the invincible Case, with his triumvirate
+the [[Lion|lion]]; into the presence of the invincible Case, with his triumvirate
 
 of anarchs and the devil knew what array of military violence; all
 
@@ -136,7 +136,7 @@ were falling through all-annihilating space, and Pavonia were a distant
 
 star. And indeed, when he came to look back on the unnatural wanderings
 
-of that night, he was haunted by a sort of contradiction in time and
+of that [[Night|night]], he was haunted by a sort of contradiction in [[Time|time]] and
 
 especially in space; by a sense that he had in fact travelled thousands
 
@@ -158,7 +158,7 @@ understand the dazed and almost drugged spirit of discipline in which he
 
 took the final phases of the affair. He had left something behind him in
 
-the upper air of the little garden, and he sometimes fancied afterwards
+the upper air of the little [[Garden|garden]], and he sometimes fancied afterwards
 
 that it was the power to laugh.
 

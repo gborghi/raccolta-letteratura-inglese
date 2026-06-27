@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 53: FIFTY TWO (part 7)"
+title: "[[Martin Chuzzlewit]] — Chapter 53: FIFTY TWO (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,14 +14,14 @@ tags:
 </nav>
 
 
-With this sublime address, Mr Pecksniff departed. But the effect of
+With this [[Sublime|sublime]] address, Mr Pecksniff departed. But the effect of
 his departure was much impaired by his being immediately afterwards run
 against, and nearly knocked down, by a monstrously excited little man in
 velveteen shorts and a very tall hat; who came bursting up the stairs,
 and straight into the chambers of Mr Chuzzlewit, as if he were deranged.
 
 ‘Is there anybody here that knows him?’ cried the little man. ‘Is there
-anybody here that knows him? Oh, my stars, is there anybody here that
+anybody here that knows him? Oh, my [[Stars|stars]], is there anybody here that
 knows him?’
 
 They looked at each other for an explanation; but nobody knew anything
@@ -33,18 +33,18 @@ repeating in a shrill voice, ‘IS there anybody here that knows him?’
 ‘If your brains is not turned topjy turjey, Mr Sweedlepipes!’ exclaimed
 another voice, ‘hold that there nige of yourn, I beg you, sir.’
 
-At the same time Mrs Gamp was seen in the doorway; out of breath from
+At the same [[Time|time]] Mrs Gamp was seen in the doorway; out of breath from
 coming up so many stairs, and panting fearfully; but dropping curtseys
 to the last.
 
 ‘Excuge the weakness of the man,’ said Mrs Gamp, eyeing Mr Sweedlepipe
-with great indignation; ‘and well I might expect it, as I should have
+with great indignation; ‘and [[Well|well]] I might expect it, as I should have
 know’d, and wishin’ he was drownded in the Thames afore I had brought
 him here, which not a blessed hour ago he nearly shaved the noge off
 from the father of as lovely a family as ever, Mr Chuzzlewit, was born
 three sets of twins, and would have done it, only he see it a-goin’ in
 the glass, and dodged the rager. And never, Mr Sweedlepipes, I do assure
-you, sir, did I so well know what a misfortun it was to be acquainted
+you, sir, did I so [[Well|well]] know what a misfortun it was to be acquainted
 with you, as now I do, which so I say, sir, and I don’t deceive you!’
 
 ‘I ask your pardon, ladies and gentlemen all,’ cried the little barber,
@@ -75,36 +75,36 @@ over him. ‘I never see sech a boy! It’s all his fun. He’s full of it.
 He shall go into the business along with me. I am determined he shall.
 We’ll make it Sweedlepipe and Bailey. He shall have the sporting branch
 (what a one he’ll be for the matches!) and me the shavin’. I’ll make
-over the birds to him as soon as ever he’s well enough. He shall have
+over the [[Birds|birds]] to him as soon as ever he’s [[Well|well]] enough. He shall have
 the little bullfinch in the shop, and all. He’s sech a boy! I ask your
 pardon, ladies and gentlemen, but I thought there might be some one here
 that know’d him!’
 
-Mrs Gamp had observed, not without jealousy and scorn, that a favourable
+Mrs Gamp had observed, not without [[Jealousy|jealousy]] and scorn, that a favourable
 impression appeared to exist in behalf of Mr Sweedlepipe and his
 young friend; and that she had fallen rather into the background in
 consequence. She now struggled to the front, therefore, and stated her
 business.
 
-‘Which, Mr Chuzzlewit,’ she said, ‘is well beknown to Mrs Harris as has
+‘Which, Mr Chuzzlewit,’ she said, ‘is [[Well|well]] beknown to Mrs Harris as has
 one sweet infant (though she DO not wish it known) in her own family by
 the mother’s side, kep in spirits in a bottle; and that sweet babe she
 see at Greenwich Fair, a-travelling in company with a pink-eyed lady,
-Prooshan dwarf, and livin’ skelinton, which judge her feelings when the
-barrel organ played, and she was showed her own dear sister’s child, the
+Prooshan [[Dwarf|dwarf]], and livin’ skelinton, which judge her feelings when the
+barrel organ played, and she was showed her own dear sister’s [[Child|child]], the
 same not bein’ expected from the outside picter, where it was painted
 quite contrairy in a livin’ state, a many sizes larger, and performing
-beautiful upon the Arp, which never did that dear child know or do;
+beautiful upon the Arp, which never did that dear [[Child|child]] know or do;
 since breathe it never did, to speak on in this wale! And Mrs Harris, Mr
 Chuzzlewit, has knowed me many year, and can give you information that
 the lady which is widdered can’t do better and may do worse, than let me
-wait upon her, which I hope to do. Permittin’ the sweet faces as I see
+wait upon her, which I [[Hope|hope]] to do. Permittin’ the sweet faces as I see
 afore me.’
 
 ‘Oh!’ said Mr Chuzzlewit. ‘Is that your business? Was this good person
 paid for the trouble we gave her?’
 
-‘I paid her, sir,’ returned Mark Tapley; ‘liberal.’
+‘I paid her, sir,’ returned [[Mark Tapley]]; ‘liberal.’
 
 ‘The young man’s words is true,’ said Mrs Gamp, ‘and thank you kindly.’
 
@@ -120,7 +120,7 @@ Martin, looking gravely at the astonished Mrs Gamp, ‘as hinting at the
 expediency of a little less liquor, and a little more humanity, and
 a little less regard for herself, and a little more regard for her
 patients, and perhaps a trifle of additional honesty. Or when Mrs Gamp
-gets into trouble, Mr Sweedlepipe, it had better not be at a time when I
+gets into trouble, Mr Sweedlepipe, it had better not be at a [[Time|time]] when I
 am near enough to the Old Bailey to volunteer myself as a witness to her
 character. Endeavour to impress that upon her at your leisure, if you
 please.’
@@ -138,19 +138,19 @@ The old man looked about him, with a smile, until his eyes rested on Tom
 Pinch’s sister; when he smiled the more.
 
 ‘We will all dine here together,’ he said; ‘and as you and Mary have
-enough to talk of, Martin, you shall keep house for us until the
+enough to talk of, Martin, you shall keep [[house]] for us until the
 afternoon, with Mr and Mrs Tapley. I must see your lodgings in the
 meanwhile, Tom.’
 
 Tom was quite delighted. So was Ruth. She would go with them.
 
-‘Thank you, my love,’ said Mr Chuzzlewit. ‘But I am afraid I must take
+‘Thank you, my [[Love|love]],’ said Mr Chuzzlewit. ‘But I am afraid I must take
 Tom a little out of the way, on business. Suppose you go on first, my
 dear?’
 
 Pretty little Ruth was equally delighted to do that.
 
-‘But not alone,’ said Martin, ‘not alone. Mr Westlock, I dare say, will
+‘But not [[Alone|alone]],’ said Martin, ‘not [[Alone|alone]]. Mr Westlock, I dare say, will
 escort you.’
 
 Why, of course he would: what else had Mr Westlock in his mind? How dull

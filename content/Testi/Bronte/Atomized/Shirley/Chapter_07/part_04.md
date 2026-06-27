@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 7 (part 4)"
+title: "[[Shirley]] — Chapter 7 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 Half-bitter! Is that wrong? No; it should be bitter: bitterness is
 
-strength--it is a tonic. Sweet, mild force following acute suffering you
+strength--it is a tonic. Sweet, mild force following acute [[Suffering|suffering]] you
 
 find nowhere; to talk of it is delusion. There may be apathetic
 
@@ -30,9 +30,9 @@ Who has read the ballad of "Puir Mary Lee"--that old Scotch ballad,
 
 written I know not in what generation nor by what hand? Mary had been
 
-ill-used--probably in being made to believe that truth which was
+ill-used--probably in being made to believe that [[Truth|truth]] which was
 
-falsehood. She is not complaining, but she is sitting alone in the
+falsehood. She is not complaining, but she is sitting [[Alone|alone]] in the
 
 snowstorm, and you hear her thoughts. They are not the thoughts of a
 
@@ -40,11 +40,11 @@ model heroine under her circumstances, but they are those of a
 
 deeply-feeling, strongly-resentful peasant-girl. Anguish has driven her
 
-from the ingle-nook of home to the white-shrouded and icy hills.
+from the ingle-nook of [[Home|home]] to the white-shrouded and icy hills.
 
 Crouched under the "cauld drift," she recalls every image of
 
-horror--"the yellow-wymed ask," "the hairy adder," "the auld moon-bowing
+horror--"the yellow-wymed ask," "the hairy adder," "the auld [[Moon|moon]]-bowing
 
 tyke," "the ghaist at e'en,", "the sour bullister," "the milk on the
 
@@ -54,7 +54,7 @@ taed's back." She hates these, but "waur she hates Robin-a-Ree."
 
     "Oh, ance I lived happily by yon bonny burn--
 
-       The warld was in love wi' me;
+       The warld was in [[Love|love]] wi' me;
 
      But now I maun sit 'neath the cauld drift and mourn,
 
@@ -84,15 +84,15 @@ taed's back." She hates these, but "waur she hates Robin-a-Ree."
 
 But what has been said in the last page or two is not germane to
 
-Caroline Helstone's feelings, or to the state of things between her and
+[[Caroline Helstone]]'s feelings, or to the state of things between her and
 
-Robert Moore. Robert had done her no wrong; he had told her no lie; it
+[[Robert Moore]]. Robert had done her no wrong; he had told her no lie; it
 
 was she that was to blame, if any one was. What bitterness her mind
 
 distilled should and would be poured on her own head. She had loved
 
-without being asked to love--a natural, sometimes an inevitable chance,
+without being asked to [[Love|love]]--a natural, sometimes an inevitable chance,
 
 but big with misery.
 
@@ -110,7 +110,7 @@ intimate communication with her, because he did not choose to have his
 
 affections inextricably entangled, nor to be drawn, despite his reason,
 
-into a marriage he believed imprudent. Now, what was she to do? To give
+into a [[Marriage|marriage]] he believed imprudent. Now, what was she to do? To give
 
 way to her feelings, or to vanquish them? To pursue him, or to turn
 
@@ -134,11 +134,11 @@ without complaint or question, without the alteration of a muscle or the
 
 shedding of a tear, betook herself to her studies under Hortense as
 
-usual, and at dinner-time went home without lingering.
+usual, and at dinner-[[Time|time]] went [[Home|home]] without lingering.
 
 
 
-When she had dined, and found herself in the rectory drawing-room alone,
+When she had dined, and found herself in the rectory drawing-room [[Alone|alone]],
 
 having left her uncle over his temperate glass of port wine, the
 
@@ -148,7 +148,7 @@ through this day?"
 
 
 
-Last night she had hoped it would be spent as yesterday was, that the
+Last [[Night|night]] she had hoped it would be spent as yesterday was, that the
 
 evening would be again passed with happiness and Robert. She had learned
 
@@ -174,9 +174,9 @@ her relentingly as he sat opposite her work-table during his stay. The
 
 few words he had spoken to her were comforting; his manner on bidding
 
-her good-night was genial. Now, he might come this evening, said False
+her good-[[Night|night]] was genial. Now, he might come this evening, said False
 
-Hope. She almost knew it was False Hope which breathed the whisper, and
+[[Hope]]. She almost knew it was False [[Hope]] which breathed the whisper, and
 
 yet she listened.
 
@@ -210,7 +210,7 @@ doubtless, he speedily helped his rector to empty the decanters.
 
 
 
-It was a fact to be noted, that at whatever house in Briarfield,
+It was a fact to be noted, that at whatever [[house]] in Briarfield,
 
 Whinbury, or Nunnely one curate dropped in to a meal--dinner or tea, as,
 
@@ -218,11 +218,11 @@ the case might be--another presently followed, often two more. Not that
 
 they gave each other the rendezvous, but they were usually all on the
 
-run at the same time; and when Donne, for instance, sought Malone at his
+run at the same [[Time|time]]; and when Donne, for instance, sought Malone at his
 
 lodgings and found him not, he inquired whither he had posted, and
 
-having learned of the landlady his destination, hastened with all speed
+having learned of the landlady his destination, hastened with all [[Speed|speed]]
 
 after him. The same causes operated in the same way with Sweeting. Thus
 

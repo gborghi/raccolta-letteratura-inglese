@@ -17,19 +17,19 @@ tags:
 CHAPTER 5. Something Wrong Somewhere
 
 
-The family had been a month or two at Venice, when Mr Dorrit, who was
+The family had been a month or two at [[Venice]], when Mr Dorrit, who was
 much among Counts and Marquises, and had but scant leisure, set an hour
 of one day apart, beforehand, for the purpose of holding some conference
 with Mrs General.
 
-The time he had reserved in his mind arriving, he sent Mr Tinkler, his
+The [[Time|time]] he had reserved in his mind arriving, he sent Mr Tinkler, his
 valet, to Mrs General’s apartment (which would have absorbed about a
 third of the area of the Marshalsea), to present his compliments to that
 lady, and represent him as desiring the favour of an interview. It being
 that period of the forenoon when the various members of the family had
 coffee in their own chambers, some couple of hours before assembling at
 breakfast in a faded hall which had once been sumptuous, but was now
-the prey of watery vapours and a settled melancholy, Mrs General was
+the prey of watery vapours and a settled [[Melancholy|melancholy]], Mrs General was
 accessible to the valet. That envoy found her on a little square of
 carpet, so extremely diminutive in reference to the size of her stone
 and marble floor that she looked as if she might have had it spread for
@@ -48,16 +48,16 @@ staircases and corridors, from Mrs General’s apartment,--hoodwinked by
 a narrow side street with a low gloomy bridge in it, and dungeon-like
 opposite tenements, their walls besmeared with a thousand downward
 stains and streaks, as if every crazy aperture in them had been weeping
-tears of rust into the Adriatic for centuries--to Mr Dorrit’s apartment:
-with a whole English house-front of window, a prospect of beautiful
-church-domes rising into the blue sky sheer out of the water which
+[[Tears|tears]] of rust into the Adriatic for centuries--to Mr Dorrit’s apartment:
+with a whole English [[house]]-front of [[Window|window]], a prospect of beautiful
+church-domes rising into the blue sky sheer out of the [[Water|water]] which
 reflected them, and a hushed murmur of the Grand Canal laving the
 doorways below, where his gondolas and gondoliers attended his pleasure,
 drowsily swinging in a little forest of piles.
 
 Mr Dorrit, in a resplendent dressing-gown and cap--the dormant grub that
-had so long bided its time among the Collegians had burst into a rare
-butterfly--rose to receive Mrs General. A chair to Mrs General. An
+had so long bided its [[Time|time]] among the Collegians had burst into a rare
+butterfly--[[Rose|rose]] to receive Mrs General. A chair to Mrs General. An
 easier chair, sir; what are you doing, what are you about, what do you
 mean? Now, leave us!
 
@@ -80,13 +80,13 @@ great difference.’
 deference not incompatible with majestic serenity.
 
 ‘Fanny,’ returned Mrs General, ‘has force of character and
-self-reliance. Amy, none.’
+[[Self-Reliance|self-reliance]]. Amy, none.’
 
 None? O Mrs General, ask the Marshalsea stones and bars. O Mrs General,
 ask the milliner who taught her to work, and the dancing-master who
-taught her sister to dance. O Mrs General, Mrs General, ask me, her
+taught her sister to [[Dance|dance]]. O Mrs General, Mrs General, ask me, her
 father, what I owe her; and hear my testimony touching the life of this
-slighted little creature from her childhood up!
+slighted little creature from her [[Childhood|childhood]] up!
 
 No such adjuration entered Mr. Dorrit’s head. He looked at Mrs
 General, seated in her usual erect attitude on her coach-box behind the
@@ -139,9 +139,9 @@ touch of varnish, ‘that something is referable to the novelty of the
 position?’
 
 ‘Excuse me, madam,’ observed Mr Dorrit, rather quickly. ‘The daughter
-of a gentleman, though--ha--himself at one time comparatively far from
+of a gentleman, though--ha--himself at one [[Time|time]] comparatively far from
 affluent--comparatively--and herself reared in--hum--retirement, need
-not of necessity find this position so very novel.’
+not of necessity find this position so very [[Novel|novel]].’
 
 ‘True,’ said Mrs General, ‘true.’
 
@@ -154,12 +154,12 @@ topic to you, and inquire how you would advise me?’
 ‘Mr Dorrit,’ returned Mrs General, ‘I have conversed with Amy several
 times since we have been residing here, on the general subject of the
 formation of a demeanour. She has expressed herself to me as wondering
-exceedingly at Venice. I have mentioned to her that it is better not to
-wonder. I have pointed out to her that the celebrated Mr Eustace, the
+exceedingly at [[Venice]]. I have mentioned to her that it is better not to
+[[Wonder|wonder]]. I have pointed out to her that the celebrated Mr Eustace, the
 classical tourist, did not think much of it; and that he compared the
 Rialto, greatly to its disadvantage, with Westminster and Blackfriars
 Bridges. I need not add, after what you have said, that I have not yet
-found my arguments successful. You do me the honour to ask me what to
+found my arguments successful. You do me the [[Honour|honour]] to ask me what to
 advise. It always appears to me (if this should prove to be a baseless
 assumption, I shall be pardoned), that Mr Dorrit has been accustomed to
 exercise influence over the minds of others.’
@@ -171,7 +171,7 @@ unaccustomed to--an influential position.’
 ‘I am happy,’ returned Mrs General, ‘to be so corroborated. I would
 therefore the more confidently recommend that Mr Dorrit should speak to
 Amy himself, and make his observations and wishes known to her. Being
-his favourite, besides, and no doubt attached to him, she is all the
+his favourite, besides, and no [[Doubt|doubt]] attached to him, she is all the
 more likely to yield to his influence.’
 
 ‘I had anticipated your suggestion, madam,’ said Mr Dorrit,
@@ -195,26 +195,26 @@ request that subordinate to inform Miss Amy that Mr Dorrit wished to
 see her in his own room. In delivering this charge to Tinkler, Mr Dorrit
 looked severely at him, and also kept a jealous eye upon him until he
 went out at the door, mistrusting that he might have something in his
-mind prejudicial to the family dignity; that he might have even got wind
+mind prejudicial to the family dignity; that he might have even got [[Wind|wind]]
 of some Collegiate joke before he came into the service, and might be
 derisively reviving its remembrance at the present moment. If Tinkler
 had happened to smile, however faintly and innocently, nothing would
-have persuaded Mr Dorrit, to the hour of his death, but that this was
+have persuaded Mr Dorrit, to the hour of his [[Death|death]], but that this was
 the case. As Tinkler happened, however, very fortunately for himself, to
 be of a serious and composed countenance, he escaped the secret danger
 that threatened him. And as on his return--when Mr Dorrit eyed him
 again--he announced Miss Amy as if she had come to a funeral, he left a
-vague impression on Mr Dorrit’s mind that he was a well-conducted young
+vague impression on Mr Dorrit’s mind that he was a [[Well|well]]-conducted young
 fellow, who had been brought up in the study of his Catechism by a
 widowed mother.
 
 ‘Amy,’ said Mr Dorrit, ‘you have just now been the subject of some
 conversation between myself and Mrs General. We agree that you scarcely
-seem at home here. Ha--how is this?’
+seem at [[Home|home]] here. Ha--how is this?’
 
 A pause.
 
-‘I think, father, I require a little time.’
+‘I think, father, I require a little [[Time|time]].’
 
 ‘Papa is a preferable mode of address,’ observed Mrs General. ‘Father is
 rather vulgar, my dear. The word Papa, besides, gives a pretty form to
@@ -224,37 +224,37 @@ serviceable, in the formation of a demeanour, if you sometimes say to
 yourself in company--on entering a room, for instance--Papa, potatoes,
 poultry, prunes and prism, prunes and prism.’
 
-‘Pray, my child,’ said Mr Dorrit, ‘attend to the--hum--precepts of Mrs
+‘Pray, my [[Child|child]],’ said Mr Dorrit, ‘attend to the--hum--precepts of Mrs
 General.’
 
 Poor Little Dorrit, with a rather forlorn glance at that eminent
 varnisher, promised to try.
 
-‘You say, Amy,’ pursued Mr Dorrit, ‘that you think you require time.
-Time for what?’
+‘You say, Amy,’ pursued Mr Dorrit, ‘that you think you require [[Time|time]].
+[[Time]] for what?’
 
 Another pause.
 
 ‘To become accustomed to the novelty of my life, was all I meant,’ said
 Little Dorrit, with her loving eyes upon her father; whom she had very
-nearly addressed as poultry, if not prunes and prism too, in her desire
+nearly addressed as poultry, if not prunes and prism too, in her [[Desire|desire]]
 to submit herself to Mrs General and please him.
 
 Mr Dorrit frowned, and looked anything but pleased. ‘Amy,’ he returned,
-‘it appears to me, I must say, that you have had abundance of time for
+‘it appears to me, I must say, that you have had abundance of [[Time|time]] for
 that. Ha--you surprise me. You disappoint me. Fanny has conquered any
 such little difficulties, and--hum--why not you?’
 
-‘I hope I shall do better soon,’ said Little Dorrit.
+‘I [[Hope|hope]] I shall do better soon,’ said Little Dorrit.
 
-‘I hope so,’ returned her father. ‘I--ha--I most devoutly hope so, Amy.
+‘I [[Hope|hope]] so,’ returned her father. ‘I--ha--I most devoutly [[Hope|hope]] so, Amy.
 I sent for you, in order that I might say--hum--impressively say, in
 the presence of Mrs General, to whom we are all so much indebted
 for obligingly being present among us, on--ha--on this or any other
 occasion,’ Mrs General shut her eyes, ‘that I--ha hum--am not pleased
 with you. You make Mrs General’s a thankless task. You--ha--embarrass
 me very much. You have always (as I have informed Mrs General) been my
-favourite child; I have always made you a--hum--a friend and companion;
+favourite [[Child|child]]; I have always made you a--hum--a friend and companion;
 in return, I beg--I--ha--I _do_ beg, that you accommodate yourself
 better to--hum--circumstances, and dutifully do what becomes your--your
 station.’
@@ -264,13 +264,13 @@ on the subject and anxious to make himself particularly emphatic.
 
 ‘I do beg,’ he repeated, ‘that this may be attended to, and that you
 will seriously take pains and try to conduct yourself in a manner both
-becoming your position as--ha--Miss Amy Dorrit, and satisfactory to
+becoming your position as--ha--Miss [[Amy Dorrit]], and satisfactory to
 myself and Mrs General.’
 
 That lady shut her eyes again, on being again referred to; then, slowly
 opening them and rising, added these words:
 
-‘If Miss Amy Dorrit will direct her own attention to, and will accept of
+‘If Miss [[Amy Dorrit]] will direct her own attention to, and will accept of
 my poor assistance in, the formation of a surface, Mr. Dorrit will have
 no further cause of anxiety. May I take this opportunity of remarking,
 as an instance in point, that it is scarcely delicate to look at
@@ -286,7 +286,7 @@ retired with an expression of mouth indicative of Prunes and Prism.
 
 Little Dorrit, whether speaking or silent, had preserved her quiet
 earnestness and her loving look. It had not been clouded, except for a
-passing moment, until now. But now that she was left alone with him
+passing moment, until now. But now that she was left [[Alone|alone]] with him
 the fingers of her lightly folded hands were agitated, and there was
 repressed emotion in her face.
 
@@ -294,19 +294,19 @@ Not for herself. She might feel a little wounded, but her care was not
 for herself. Her thoughts still turned, as they always had turned, to
 him. A faint misgiving, which had hung about her since their accession
 to fortune, that even now she could never see him as he used to be
-before the prison days, had gradually begun to assume form in her mind.
+before the [[Prison|prison]] days, had gradually begun to assume form in her mind.
 She felt that, in what he had just now said to her and in his whole
-bearing towards her, there was the well-known shadow of the Marshalsea
-wall. It took a new shape, but it was the old sad shadow. She began
+bearing towards her, there was the [[Well|well]]-known [[Shadow|shadow]] of the Marshalsea
+wall. It took a new shape, but it was the old sad [[Shadow|shadow]]. She began
 with sorrowful unwillingness to acknowledge to herself that she was
-not strong enough to keep off the fear that no space in the life of man
-could overcome that quarter of a century behind the prison bars. She had
+not strong enough to keep off the [[Fear|fear]] that no space in the life of man
+could overcome that quarter of a century behind the [[Prison|prison]] bars. She had
 no blame to bestow upon him, therefore: nothing to reproach him with,
 no emotions in her faithful heart but great compassion and unbounded
 tenderness.
 
 This is why it was, that, even as he sat before her on his sofa, in the
-brilliant light of a bright Italian day, the wonderful city without and
+brilliant light of a bright Italian day, the wonderful [[City|city]] without and
 the splendours of an old palace within, she saw him at the moment in the
 long-familiar gloom of his Marshalsea lodging, and wished to take her
 seat beside him, and comfort him, and be again full of confidence with
@@ -318,7 +318,7 @@ he got up and walked about, looking very much dissatisfied.
 
 ‘No, no. Nothing else.’
 
-‘I am sorry you have not been pleased with me, dear. I hope you will not
+‘I am sorry you have not been pleased with me, dear. I [[Hope|hope]] you will not
 think of me with displeasure now. I am going to try, more than ever, to
 adapt myself as you wish to what surrounds me--for indeed I have tried
 all along, though I have failed, I know.’
@@ -335,7 +335,7 @@ to obliterate. This is understood by your sister, who has already
 remonstrated with you in my presence; it is understood by your brother;
 it is understood by--ha hum--by every one of delicacy and sensitiveness
 except yourself--ha--I am sorry to say, except yourself. You,
-Amy--hum--you alone and only you--constantly revive the topic, though
+Amy--hum--you [[Alone|alone]] and only you--constantly revive the topic, though
 not in words.’
 
 She laid her hand on his arm. She did nothing more. She gently touched
@@ -368,8 +368,8 @@ In spite of his flustered state, he made all these exclamations in a
 carefully suppressed voice, lest the valet should overhear anything.
 
 ‘Accordingly, they do it. Your sister does it. Your brother does it. You
-alone, my favourite child, whom I made the friend and companion of my
-life when you were a mere--hum--Baby, do not do it. You alone say you
+[[Alone|alone]], my favourite [[Child|child]], whom I made the friend and companion of my
+life when you were a mere--hum--Baby, do not do it. You [[Alone|alone]] say you
 can’t do it. I provide you with valuable assistance to do it. I attach
 an accomplished and highly bred lady--ha--Mrs General, to you, for the
 purpose of doing it. Is it surprising that I should be displeased? Is it
@@ -382,7 +382,7 @@ abatement of his flushed mood.
 ‘I am careful to appeal to that lady for confirmation, before I express
 any displeasure at all. I--hum--I necessarily make that appeal within
 limited bounds, or I--ha--should render legible, by that lady, what I
-desire to be blotted out. Am I selfish? Do I complain for my own sake?
+[[Desire|desire]] to be blotted out. Am I selfish? Do I complain for my own sake?
 No. No. Principally for--ha hum--your sake, Amy.’
 
 This last consideration plainly appeared, from his manner of pursuing
@@ -408,17 +408,17 @@ sort of ill-adjusted alarum. The touch was still upon his arm. He fell
 silent; and after looking about the ceiling again for a little while,
 looked down at her. Her head drooped, and he could not see her face; but
 her touch was tender and quiet, and in the expression of her dejected
-figure there was no blame--nothing but love. He began to whimper, just
-as he had done that night in the prison when she afterwards sat at
+figure there was no blame--nothing but [[Love|love]]. He began to whimper, just
+as he had done that [[Night|night]] in the [[Prison|prison]] when she afterwards sat at
 his bedside till morning; exclaimed that he was a poor ruin and a poor
 wretch in the midst of his wealth; and clasped her in his arms. ‘Hush,
-hush, my own dear! Kiss me!’ was all she said to him. His tears
+hush, my own dear! Kiss me!’ was all she said to him. His [[Tears|tears]]
 were soon dried, much sooner than on the former occasion; and he was
 presently afterwards very high with his valet, as a way of righting
 himself for having shed any.
 
 With one remarkable exception, to be recorded in its place, this was
-the only time, in his life of freedom and fortune, when he spoke to his
+the only [[Time|time]], in his life of [[Freedom|freedom]] and fortune, when he spoke to his
 daughter Amy of the old days.
 
 But, now, the breakfast hour arrived; and with it Miss Fanny from her
@@ -429,16 +429,16 @@ she had become the victim of an insatiate mania for what she called
 times between sunset and sunrise, if so many opportunities had been at
 her disposal. As to Mr Edward, he, too, had a large acquaintance, and
 was generally engaged (for the most part, in diceing circles, or others
-of a kindred nature), during the greater part of every night. For this
+of a kindred [[Nature|nature]]), during the greater part of every [[Night|night]]. For this
 gentleman, when his fortunes changed, had stood at the great advantage
 of being already prepared for the highest associates, and having little
 to learn: so much was he indebted to the happy accidents which had made
-him acquainted with horse-dealing and billiard-marking.
+him acquainted with [[Horse|horse]]-dealing and billiard-marking.
 
 At breakfast, Mr Frederick Dorrit likewise appeared. As the old
 gentleman inhabited the highest story of the palace, where he might have
-practised pistol-shooting without much chance of discovery by the other
-inmates, his younger niece had taken courage to propose the restoration
+practised [[Pistol|pistol]]-shooting without much chance of discovery by the other
+inmates, his younger niece had taken [[Courage|courage]] to propose the restoration
 to him of his clarionet, which Mr Dorrit had ordered to be confiscated,
 but which she had ventured to preserve. Notwithstanding some objections
 from Miss Fanny, that it was a low instrument, and that she detested the
@@ -453,7 +453,7 @@ bought); and of passing hours and hours before the portraits of renowned
 Venetians. It was never made out what his dazed eyes saw in them;
 whether he had an interest in them merely as pictures, or whether he
 confusedly identified them with a glory that was departed, like the
-strength of his own mind. But he paid his court to them with great
+strength of his own mind. But he paid his [[Court|court]] to them with great
 exactness, and clearly derived pleasure from the pursuit. After the
 first few days, Little Dorrit happened one morning to assist at these
 attentions. It so evidently heightened his gratification that she often
@@ -468,7 +468,7 @@ seen in a gallery, on the previous day, the lady and gentleman whom they
 had encountered on the Great Saint Bernard, ‘I forget the name,’ said
 he. ‘I dare say you remember them, William? I dare say you do, Edward?’
 
-‘_I_ remember ‘em well enough,’ said the latter.
+‘_I_ remember ‘em [[Well|well]] enough,’ said the latter.
 
 ‘I should think so,’ observed Miss Fanny, with a toss of her head and
 a glance at her sister. ‘But they would not have been recalled to our
@@ -482,7 +482,7 @@ think not. On the whole I prefer my own expression.’
 
 This was always Miss Fanny’s way of receiving a suggestion from Mrs
 General. But she always stored it up in her mind, and adopted it at
-another time.
+another [[Time|time]].
 
 ‘I should have mentioned our having met Mr and Mrs Gowan, Fanny,’ said
 Little Dorrit, ‘even if Uncle had not. I have scarcely seen you since,
@@ -490,14 +490,14 @@ you know. I meant to have spoken of it at breakfast; because I should
 like to pay a visit to Mrs Gowan, and to become better acquainted with
 her, if Papa and Mrs General do not object.’
 
-‘Well, Amy,’ said Fanny, ‘I am sure I am glad to find you at last
-expressing a wish to become better acquainted with anybody in Venice.
+‘[[Well]], Amy,’ said Fanny, ‘I am sure I am glad to find you at last
+expressing a wish to become better acquainted with anybody in [[Venice]].
 Though whether Mr and Mrs Gowan are desirable acquaintances, remains to
 be determined.’
 
 ‘Mrs Gowan I spoke of, dear.’
 
-‘No doubt,’ said Fanny. ‘But you can’t separate her from her husband, I
+‘No [[Doubt|doubt]],’ said Fanny. ‘But you can’t separate her from her husband, I
 believe, without an Act of Parliament.’
 
 ‘Do you think, Papa,’ inquired Little Dorrit, with diffidence and
@@ -505,7 +505,7 @@ hesitation, ‘there is any objection to my making this visit?’
 
 ‘Really,’ he replied, ‘I--ha--what is Mrs General’s view?’
 
-Mrs General’s view was, that not having the honour of any acquaintance
+Mrs General’s view was, that not having the [[Honour|honour]] of any acquaintance
 with the lady and gentleman referred to, she was not in a position
 to varnish the present article. She could only remark, as a general
 principle observed in the varnishing trade, that much depended on the
@@ -567,15 +567,15 @@ reddened.
 name of the gentleman with whom you conferred was--ha--Sparkler. Indeed,
 you showed me his card. Hum. Sparkler.’
 
-‘No doubt of it, father; but it doesn’t follow that his mother’s name
+‘No [[Doubt|doubt]] of it, father; but it doesn’t follow that his mother’s name
 must be the same. Mrs Merdle was married before, and he is her son. She
 is in Rome now; where probably we shall know more of her, as you decide
-to winter there. Sparkler is just come here. I passed last evening in
+to [[Winter|winter]] there. Sparkler is just come here. I passed last evening in
 company with Sparkler. Sparkler is a very good fellow on the
 whole, though rather a bore on one subject, in consequence of being
 tremendously smitten with a certain young lady.’ Here Edward Dorrit,
 Esquire, eyed Miss Fanny through his glass across the table. ‘We
-happened last night to compare notes about our travels, and I had the
+happened last [[Night|night]] to compare notes about our travels, and I had the
 information I have given you from Sparkler himself.’ Here he ceased;
 continuing to eye Miss Fanny through his glass, with a face much
 twisted, and not ornamentally so, in part by the action of keeping his
@@ -584,40 +584,40 @@ glass in his eye, and in part by the great subtlety of his smile.
 ‘Under these circumstances,’ said Mr Dorrit, ‘I believe I express the
 sentiments of--ha--Mrs General, no less than my own, when I say
 that there is no objection, but--ha hum--quite the contrary--to your
-gratifying your desire, Amy. I trust I may--ha--hail--this desire,’ said
+gratifying your [[Desire|desire]], Amy. I trust I may--ha--hail--this [[Desire|desire]],’ said
 Mr Dorrit, in an encouraging and forgiving manner, ‘as an auspicious
 omen. It is quite right to know these people. It is a very proper
-thing. Mr Merdle’s is a name of--ha--world-wide repute. Mr Merdle’s
+thing. [[Mr Merdle]]’s is a name of--ha--world-wide repute. [[Mr Merdle]]’s
 undertakings are immense. They bring him in such vast sums of money that
-they are regarded as--hum--national benefits. Mr Merdle is the man of
-this time. The name of Merdle is the name of the age. Pray do everything
+they are regarded as--hum--national benefits. [[Mr Merdle]] is the man of
+this [[Time|time]]. The name of Merdle is the name of the age. Pray do everything
 on my behalf that is civil to Mr and Mrs Gowan, for we will--ha--we will
 certainly notice them.’
 
 This magnificent accordance of Mr Dorrit’s recognition settled the
 matter. It was not observed that Uncle had pushed away his plate, and
-forgotten his breakfast; but he was not much observed at any time,
+forgotten his breakfast; but he was not much observed at any [[Time|time]],
 except by Little Dorrit. The servants were recalled, and the meal
-proceeded to its conclusion. Mrs General rose and left the table.
-Little Dorrit rose and left the table. When Edward and Fanny remained
+proceeded to its conclusion. Mrs General [[Rose|rose]] and left the table.
+Little Dorrit [[Rose|rose]] and left the table. When Edward and Fanny remained
 whispering together across it, and when Mr Dorrit remained eating figs
 and reading a French newspaper, Uncle suddenly fixed the attention of
 all three by rising out of his chair, striking his hand upon the table,
 and saying, ‘Brother! I protest against it!’
 
 If he had made a proclamation in an unknown tongue, and given up the
-ghost immediately afterwards, he could not have astounded his audience
+[[Ghost|ghost]] immediately afterwards, he could not have astounded his audience
 more. The paper fell from Mr Dorrit’s hand, and he sat petrified, with a
 fig half way to his mouth.
 
 ‘Brother!’ said the old man, conveying a surprising energy into his
-trembling voice, ‘I protest against it! I love you; you know I love you
+trembling voice, ‘I protest against it! I [[Love|love]] you; you know I [[Love|love]] you
 dearly. In these many years I have never been untrue to you in a single
-thought. Weak as I am, I would at any time have struck any man who spoke
+thought. Weak as I am, I would at any [[Time|time]] have struck any man who spoke
 ill of you. But, brother, brother, brother, I protest against it!’
 
 It was extraordinary to see of what a burst of earnestness such a
-decrepit man was capable. His eyes became bright, his grey hair rose on
+decrepit man was capable. His eyes became bright, his grey hair [[Rose|rose]] on
 his head, markings of purpose on his brow and face which had faded from
 them for five-and-twenty years, started out again, and there was an
 energy in his hand that made its action nervous once more.
@@ -626,9 +626,9 @@ energy in his hand that made its action nervous once more.
 is the matter?’
 
 ‘How dare you,’ said the old man, turning round on Fanny, ‘how dare you
-do it? Have you no memory? Have you no heart?’
+do it? Have you no [[Memory|memory]]? Have you no heart?’
 
-‘Uncle?’ cried Fanny, affrighted and bursting into tears, ‘why do you
+‘Uncle?’ cried Fanny, affrighted and bursting into [[Tears|tears]], ‘why do you
 attack me in this cruel manner? What have I done?’
 
 ‘Done?’ returned the old man, pointing to her sister’s place, ‘where’s
@@ -637,30 +637,30 @@ Where’s your more than mother? How dare you set up superiorities against
 all these characters combined in your sister? For shame, you false girl,
 for shame!’
 
-‘I love Amy,’ cried Miss Fanny, sobbing and weeping, ‘as well as I love
-my life--better than I love my life. I don’t deserve to be so treated. I
+‘I [[Love|love]] Amy,’ cried Miss Fanny, sobbing and weeping, ‘as [[Well|well]] as I [[Love|love]]
+my life--better than I [[Love|love]] my life. I don’t deserve to be so treated. I
 am as grateful to Amy, and as fond of Amy, as it’s possible for any
 human being to be. I wish I was dead. I never was so wickedly wronged.
 And only because I am anxious for the family credit.’
 
 ‘To the winds with the family credit!’ cried the old man, with great
-scorn and indignation. ‘Brother, I protest against pride. I protest
+scorn and indignation. ‘Brother, I protest against [[Pride|pride]]. I protest
 against ingratitude. I protest against any one of us here who have known
 what we have known, and have seen what we have seen, setting up any
 pretension that puts Amy at a moment’s disadvantage, or to the cost of
-a moment’s pain. We may know that it’s a base pretension by its having
+a moment’s [[Pain|pain]]. We may know that it’s a base pretension by its having
 that effect. It ought to bring a judgment on us. Brother, I protest
 against it in the sight of God!’
 
 As his hand went up above his head and came down on the table, it might
-have been a blacksmith’s. After a few moments’ silence, it had relaxed
+have been a blacksmith’s. After a few moments’ [[Silence|silence]], it had relaxed
 into its usual weak condition. He went round to his brother with his
 ordinary shuffling step, put the hand on his shoulder, and said, in a
 softened voice, ‘William, my dear, I felt obliged to say it; forgive me,
 for I felt obliged to say it!’ and then went, in his bowed way, out of
 the palace hall, just as he might have gone out of the Marshalsea room.
 
-All this time Fanny had been sobbing and crying, and still continued to
+All this [[Time|time]] Fanny had been sobbing and crying, and still continued to
 do so. Edward, beyond opening his mouth in amazement, had not opened his
 lips, and had done nothing but stare. Mr Dorrit also had been utterly
 discomfited, and quite unable to assert himself in any way. Fanny was
@@ -672,11 +672,11 @@ Dear, kind, quiet little Amy, too, what would she feel if she could know
 that she had been innocently the means of exposing me to such treatment!
 But I’ll never tell her! No, good darling, I’ll never tell her!’
 
-This helped Mr Dorrit to break his silence.
+This helped Mr Dorrit to break his [[Silence|silence]].
 
 ‘My dear,’ said he, ‘I--ha--approve of your resolution. It will be--ha
 hum--much better not to speak of this to Amy. It might--hum--it
-might distress her. Ha. No doubt it would distress her greatly. It
+might distress her. Ha. No [[Doubt|doubt]] it would distress her greatly. It
 is considerate and right to avoid doing so. We will--ha--keep this to
 ourselves.’
 

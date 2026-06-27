@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 30 (part 5)"
+title: "Bleak [[house|House]] — Chapter 30 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -15,14 +15,14 @@ tags:
 
 
 I thought Mrs. Jellyby never would have left off serenely looking
-over her papers and drinking coffee that night. It was twelve o’clock
+over her papers and drinking coffee that [[Night|night]]. It was twelve o’[[Clock|clock]]
 before we could obtain possession of the room, and the clearance it
 required then was so discouraging that Caddy, who was almost tired
-out, sat down in the middle of the dust and cried. But she soon
+out, sat down in the middle of the [[Dust|dust]] and cried. But she soon
 cheered up, and we did wonders with it before we went to bed.
 
-In the morning it looked, by the aid of a few flowers and a quantity
-of soap and water and a little arrangement, quite gay. The plain
+In the morning it looked, by the aid of a few [[Flowers|flowers]] and a quantity
+of soap and [[Water|water]] and a little arrangement, quite gay. The plain
 breakfast made a cheerful show, and Caddy was perfectly charming. But
 when my darling came, I thought—and I think now—that I never had
 seen such a dear face as my beautiful pet’s.
@@ -37,7 +37,7 @@ a state of deportment not to be expressed, benignly blessing Caddy
 and giving my guardian to understand that his son’s happiness was his
 own parental work and that he sacrificed personal considerations to
 ensure it. “My dear sir,” said Mr. Turveydrop, “these young people
-will live with me; my house is large enough for their accommodation,
+will live with me; my [[house]] is large enough for their accommodation,
 and they shall not want the shelter of my roof. I could have
 wished—you will understand the allusion, Mr. Jarndyce, for you
 remember my illustrious patron the Prince Regent—I could have
@@ -49,7 +49,7 @@ obstinate-looking man with a large waistcoat and stubbly hair, who
 was always talking in a loud bass voice about his mite, or Mrs.
 Pardiggle’s mite, or their five boys’ mites. Mr. Quale, with his hair
 brushed back as usual and his knobs of temples shining very much, was
-also there, not in the character of a disappointed lover, but as the
+also there, not in the character of a disappointed [[Lover|lover]], but as the
 accepted of a young—at least, an unmarried—lady, a Miss Wisk, who
 was also there. Miss Wisk’s mission, my guardian said, was to show
 the world that woman’s mission was man’s mission and that the only
@@ -59,7 +59,7 @@ The guests were few, but were, as one might expect at Mrs. Jellyby’s,
 all devoted to public objects only. Besides those I have mentioned,
 there was an extremely dirty lady with her bonnet all awry and the
 ticketed price of her dress still sticking on it, whose neglected
-home, Caddy told me, was like a filthy wilderness, but whose church
+[[Home|home]], Caddy told me, was like a filthy wilderness, but whose church
 was like a fancy fair. A very contentious gentleman, who said it was
 his mission to be everybody’s brother but who appeared to be on terms
 of coolness with the whole of his large family, completed the party.
@@ -69,20 +69,20 @@ have been got together by any ingenuity. Such a mean mission as the
 domestic mission was the very last thing to be endured among them;
 indeed, Miss Wisk informed us, with great indignation, before we sat
 down to breakfast, that the idea of woman’s mission lying chiefly in
-the narrow sphere of home was an outrageous slander on the part of
-her tyrant, man. One other singularity was that nobody with a
+the narrow sphere of [[Home|home]] was an outrageous slander on the part of
+her [[Tyrant|tyrant]], man. One other singularity was that nobody with a
 mission—except Mr. Quale, whose mission, as I think I have formerly
 said, was to be in ecstasies with everybody’s mission—cared at all
 for anybody’s mission. Mrs. Pardiggle being as clear that the only
 one infallible course was her course of pouncing upon the poor and
 applying benevolence to them like a strait-waistcoat; as Miss Wisk
 was that the only practical thing for the world was the emancipation
-of woman from the thraldom of her tyrant, man. Mrs. Jellyby, all the
+of woman from the thraldom of her [[Tyrant|tyrant]], man. Mrs. Jellyby, all the
 while, sat smiling at the limited vision that could see anything but
 Borrioboola-Gha.
 
 But I am anticipating now the purport of our conversation on the ride
-home instead of first marrying Caddy. We all went to church, and Mr.
+[[Home|home]] instead of first marrying Caddy. We all went to church, and Mr.
 Jellyby gave her away. Of the air with which old Mr. Turveydrop, with
 his hat under his left arm (the inside presented at the clergyman
 like a cannon) and his eyes creasing themselves up into his wig,
@@ -114,7 +114,7 @@ company. None of them seemed able to talk about anything but his, or
 her, own one subject, and none of them seemed able to talk about even
 that as part of a world in which there was anything else; but my
 guardian turned it all to the merry encouragement of Caddy and the
-honour of the occasion, and brought us through the breakfast nobly.
+[[Honour|honour]] of the occasion, and brought us through the breakfast nobly.
 What we should have done without him, I am afraid to think, for all
 the company despising the bride and bridegroom and old Mr.
 Turveydrop—and old Mr. Thurveydrop, in virtue of his deportment,

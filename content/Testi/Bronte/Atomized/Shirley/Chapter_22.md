@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 22"
+title: "[[Shirley]] — Chapter 22"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -32,19 +32,19 @@ was) in the indefatigable, the relentless assiduity with which he
 
 pursued the leaders of the riot. The mob, the mere followers, he let
 
-alone. Perhaps an innate sense of justice told him that men misled by
+[[Alone|alone]]. Perhaps an innate sense of justice told him that men misled by
 
 false counsel and goaded by privations are not fit objects of vengeance,
 
 and that he who would visit an even violent act on the bent head of
 
-suffering is a tyrant, not a judge. At all events, though he knew many
+[[Suffering|suffering]] is a [[Tyrant|tyrant]], not a judge. At all events, though he knew many
 
 of the number, having recognized them during the latter part of the
 
-attack when day began to dawn, he let them daily pass him on street and
+attack when day began to [[Dawn|dawn]], he let them daily pass him on street and
 
-road without notice or threat.
+[[Road|road]] without notice or threat.
 
 
 
@@ -58,33 +58,33 @@ drink, men who had nothing to lose, and much, in the way of character,
 
 cash, and cleanliness, to gain. These persons Moore hunted like any
 
-sleuth-hound, and well he liked the occupation. Its excitement was of a
+sleuth-hound, and [[Well|well]] he liked the occupation. Its excitement was of a
 
-kind pleasant to his nature. He liked it better than making cloth.
+kind pleasant to his [[Nature|nature]]. He liked it better than making cloth.
 
 
 
-His horse must have hated these times, for it was ridden both hard and
+His [[Horse|horse]] must have hated these times, for it was ridden both hard and
 
-often. He almost lived on the road, and the fresh air was as welcome to
+often. He almost lived on the [[Road|road]], and the fresh air was as welcome to
 
-his lungs as the policeman's quest to his mood; he preferred it to the
+his lungs as the policeman's [[Quest|quest]] to his mood; he preferred it to the
 
 steam of dye-houses. The magistrates of the district must have dreaded
 
 him. They were slow, timid men; he liked both to frighten and to rouse
 
-them. He liked to force them to betray a certain fear, which made them
+them. He liked to force them to betray a certain [[Fear|fear]], which made them
 
-alike falter in resolve and recoil in action--the fear, simply, of
+alike falter in resolve and recoil in action--the [[Fear|fear]], simply, of
 
 assassination. This, indeed, was the dread which had hitherto hampered
 
 every manufacturer and almost every public man in the district. Helstone
 
-alone had ever repelled it. The old Cossack knew well he might be shot.
+[[Alone|alone]] had ever repelled it. The old Cossack knew [[Well|well]] he might be shot.
 
-He knew there was risk; but such death had for his nerves no terrors. It
+He knew there was risk; but such [[Death|death]] had for his nerves no terrors. It
 
 would have been his chosen, might he have had a choice.
 
@@ -96,15 +96,15 @@ the quarter whence such danger was to be apprehended. The consciousness
 
 that he hunted assassins was the spur in his high-mettled temper's
 
-flank. As for fear, he was too proud, too hard-natured (if you will),
+flank. As for [[Fear|fear]], he was too proud, too hard-natured (if you will),
 
-too phlegmatic a man to fear. Many a time he rode belated over the
+too phlegmatic a man to [[Fear|fear]]. Many a [[Time|time]] he rode belated over the
 
 moors, moonlit or moonless as the case might be, with feelings far more
 
 elate, faculties far better refreshed, than when safety and stagnation
 
-environed him in the counting-house. Four was the number of the leaders
+environed him in the counting-[[house]]. Four was the number of the leaders
 
 to be accounted for. Two, in the course of a fortnight, were brought to
 
@@ -116,7 +116,7 @@ off. Their haunts were supposed to lie near Birmingham.
 
 Meantime the clothier did not neglect his battered mill. Its reparation
 
-was esteemed a light task, carpenters' and glaziers' work alone being
+was esteemed a light task, carpenters' and glaziers' work [[Alone|alone]] being
 
 needed. The rioters not having succeeded in effecting an entrance, his
 
@@ -138,13 +138,13 @@ brief. If he called at the rectory, it was only to hold conferences with
 
 the rector in his study. He maintained his rigid course very steadily.
 
-Meantime the history of the year continued troubled. There was no lull
+Meantime the [[history]] of the year continued troubled. There was no lull
 
 in the tempest of war; her long hurricane still swept the Continent.
 
 There was not the faintest sign of serene weather, no opening amid "the
 
-clouds of battle-dust and smoke," no fall of pure dews genial to the
+clouds of battle-[[Dust|dust]] and smoke," no fall of pure dews genial to the
 
 olive, no cessation of the red rain which nourishes the baleful and
 
@@ -152,17 +152,17 @@ glorious laurel. Meantime, Ruin had her sappers and miners at work under
 
 Moore's feet, and whether he rode or walked, whether he only crossed his
 
-counting-house hearth or galloped over sullen Rushedge, he was aware of
+counting-[[house]] hearth or galloped over sullen Rushedge, he was aware of
 
 a hollow echo, and felt the ground shake to his tread.
 
 
 
-While the summer thus passed with Moore, how did it lapse with Shirley
+While the [[Summer|summer]] thus passed with Moore, how did it lapse with [[Shirley]]
 
 and Caroline? Let us first visit the heiress. How does she look? Like a
 
-love-lorn maiden, pale and pining for a neglectful swain? Does she sit
+[[Love|love]]-lorn maiden, pale and pining for a neglectful swain? Does she sit
 
 the day long bent over some sedentary task? Has she for ever a book in
 
@@ -172,25 +172,25 @@ nothing, and thoughts unspoken?
 
 
 
-By no means. Shirley is all right. If her wistful cast of physiognomy is
+By no means. [[Shirley]] is all right. If her wistful cast of physiognomy is
 
 not gone, no more is her careless smile. She keeps her dark old
 
-manor-house light and bright with her cheery presence. The gallery and
+manor-[[house]] light and bright with her cheery presence. The gallery and
 
 the low-ceiled chambers that open into it have learned lively echoes
 
-from her voice; the dim entrance-hall, with its one window, has grown
+from her voice; the dim entrance-hall, with its one [[Window|window]], has grown
 
 pleasantly accustomed to the frequent rustle of a silk dress, as its
 
-wearer sweeps across from room to room, now carrying flowers to the
+wearer sweeps across from room to room, now carrying [[Flowers|flowers]] to the
 
 barbarous peach-bloom salon, now entering the dining-room to open its
 
 casements and let in the scent of mignonette and sweet-briar, anon
 
-bringing plants from the staircase window to place in the sun at the
+bringing plants from the staircase [[Window|window]] to place in the sun at the
 
 open porch door.
 
@@ -198,7 +198,7 @@ open porch door.
 
 She takes her sewing occasionally; but, by some fatality, she is doomed
 
-never to sit steadily at it for above five minutes at a time. Her
+never to sit steadily at it for above five minutes at a [[Time|time]]. Her
 
 thimble is scarcely fitted on, her needle scarce threaded, when a sudden
 
@@ -212,7 +212,7 @@ perhaps to arrange her hair, or a drawer which she recollects to have
 
 seen that morning in a state of curious confusion; perhaps only to take
 
-a peep from a particular window at a particular view, whence Briarfield
+a peep from a particular [[Window|window]] at a particular view, whence Briarfield
 
 church and rectory are visible, pleasantly bowered in trees. She has
 
@@ -224,15 +224,15 @@ heard at the porch door, and she must run to open it for him. It is a
 
 hot day; he comes in panting; she must convoy him to the kitchen, and
 
-see with her own eyes that his water-bowl is replenished. Through the
+see with her own eyes that his [[Water|water]]-bowl is replenished. Through the
 
-open kitchen door the court is visible, all sunny and gay, and peopled
+open kitchen door the [[Court|court]] is visible, all sunny and gay, and peopled
 
 with turkeys and their poults, peahens and their chicks, pearl-flecked
 
 Guinea-fowls, and a bright variety of pure white, and purple-necked, and
 
-blue and cinnamon plumed pigeons. Irresistible spectacle to Shirley! She
+blue and cinnamon plumed pigeons. Irresistible spectacle to [[Shirley]]! She
 
 runs to the pantry for a roll, and she stands on the door step
 
@@ -242,7 +242,7 @@ vassals. John is about the stables, and John must be talked to, and her
 
 mare looked at. She is still petting and patting it when the cows come
 
-in to be milked. This is important; Shirley must stay and take a review
+in to be milked. This is important; [[Shirley]] must stay and take a review
 
 of them all. There are perhaps some little calves, some little
 
@@ -256,7 +256,7 @@ careful foreman. Meantime John moots doubtful questions about the
 
 farming of certain "crofts," and "ings," and "holmes," and his mistress
 
-is necessitated to fetch her garden-hat--a gipsy straw--and accompany
+is necessitated to fetch her [[Garden|garden]]-hat--a gipsy straw--and accompany
 
 him, over stile and along hedgerow, to hear the conclusion of the whole
 
@@ -264,17 +264,17 @@ agricultural matter on the spot, and with the said "crofts," "ings," and
 
 "holms" under her eye. Bright afternoon thus wears into soft evening,
 
-and she comes home to a late tea, and after tea she never sews.
+and she comes [[Home|home]] to a late tea, and after tea she never sews.
 
 
 
-After tea Shirley reads, and she is just about as tenacious of her book
+After tea [[Shirley]] reads, and she is just about as tenacious of her book
 
 as she is lax of her needle. Her study is the rug, her seat a footstool,
 
 or perhaps only the carpet at Mrs. Pryor's feet: there she always
 
-learned her lessons when a child, and old habits have a strong power
+learned her lessons when a [[Child|child]], and old habits have a strong power
 
 over her. The tawny and lionlike bulk of Tartar is ever stretched beside
 
@@ -284,7 +284,7 @@ shapely as the limbs of an Alpine wolf. One hand of the mistress
 
 generally reposes on the loving serf's rude head, because if she takes
 
-it away he groans and is discontented. Shirley's mind is given to her
+it away he groans and is discontented. [[Shirley]]'s mind is given to her
 
 book. She lifts not her eyes; she neither stirs nor speaks--unless,
 
@@ -310,7 +310,7 @@ you read."
 
 
 
-"I will try, ma'am, some time; but it is so comfortable to do as one has
+"I will try, ma'am, some [[Time|time]]; but it is so comfortable to do as one has
 
 always been accustomed to do."
 
@@ -326,19 +326,19 @@ eyes by the doubtful firelight."
 
 
 
-At last, however, a pale light falls on the page from the window. She
+At last, however, a pale light falls on the page from the [[Window|window]]. She
 
-looks; the moon is up. She closes the volume, rises, and walks through
+looks; the [[Moon|moon]] is up. She closes the volume, rises, and walks through
 
 the room. Her book has perhaps been a good one; it has refreshed,
 
 refilled, rewarmed her heart; it has set her brain astir, furnished her
 
-mind with pictures. The still parlour, the clean hearth, the window
+mind with pictures. The still parlour, the clean hearth, the [[Window|window]]
 
 opening on the twilight sky, and showing its "sweet regent," new throned
 
-and glorious, suffice to make earth an Eden, life a poem, for Shirley. A
+and glorious, suffice to make earth an Eden, life a poem, for [[Shirley]]. A
 
 still, deep, inborn delight glows in her young veins, unmingled,
 
@@ -346,21 +346,21 @@ untroubled, not to be reached or ravished by human agency, because by no
 
 human agency bestowed--the pure gift of God to His creature, the free
 
-dower of Nature to her child. This joy gives her experience of a
+dower of [[Nature]] to her [[Child|child]]. This joy gives her experience of a
 
 genii-life. Buoyant, by green steps, by glad hills, all verdure and
 
 light, she reaches a station scarcely lower than that whence angels
 
-looked down on the dreamer of Bethel, and her eye seeks, and her soul
+looked down on the dreamer of Bethel, and her eye seeks, and her [[Soul|soul]]
 
 possesses, the vision of life as she wishes it. No, not as she wishes
 
-it; she has not time to wish. The swift glory spreads out, sweeping and
+it; she has not [[Time|time]] to wish. The swift glory spreads out, sweeping and
 
 kindling, and multiplies its splendours faster than Thought can effect
 
-his combinations, faster than Aspiration can utter her longings. Shirley
+his combinations, faster than [[Aspiration]] can utter her longings. [[Shirley]]
 
 says nothing while the trance is upon her--she is quite mute; but if
 
@@ -370,7 +370,7 @@ walk upstairs in the dim gallery.
 
 
 
-If Shirley were not an indolent, a reckless, an ignorant being, she
+If [[Shirley]] were not an indolent, a reckless, an ignorant being, she
 
 would take a pen at such moments, or at least while the recollection of
 
@@ -378,33 +378,33 @@ such moments was yet fresh on her spirit. She would seize, she would fix
 
 the apparition, tell the vision revealed. Had she a little more of the
 
-organ of acquisitiveness in her head, a little more of the love of
+organ of acquisitiveness in her head, a little more of the [[Love|love]] of
 
-property in her nature, she would take a good-sized sheet of paper and
+property in her [[Nature|nature]], she would take a good-sized sheet of paper and
 
 write plainly out, in her own queer but clear and legible hand, the
 
-story that has been narrated, the song that has been sung to her, and
+story that has been narrated, the [[Song|song]] that has been sung to her, and
 
 thus possess what she was enabled to create. But indolent she is,
 
-reckless she is, and most ignorant; for she does not know her dreams are
+reckless she is, and most ignorant; for she does not know her [[Dreams|dreams]] are
 
 rare, her feelings peculiar. She does not know, has never known, and
 
-will die without knowing, the full value of that spring whose bright
+will die without knowing, the full value of that [[Spring|spring]] whose bright
 
 fresh bubbling in her heart keeps it green.
 
 
 
-Shirley takes life easily. Is not that fact written in her eye? In her
+[[Shirley]] takes life easily. Is not that fact written in her eye? In her
 
 good-tempered moments is it not as full of lazy softness as in her brief
 
-fits of anger it is fulgent with quick-flashing fire? Her nature is in
+fits of anger it is fulgent with quick-flashing [[Fire|fire]]? Her [[Nature|nature]] is in
 
-her eye. So long as she is calm, indolence, indulgence, humour, and
+her eye. So long as she is calm, [[Indolence|indolence]], indulgence, [[Humour|humour]], and
 
 tenderness possess that large gray sphere; incense her, a red ray
 
@@ -418,7 +418,7 @@ with Caroline on that northern tour they had planned; but just at that
 
 epoch an invasion befell Fieldhead. A genteel foraging party besieged
 
-Shirley in her castle, and compelled her to surrender at discretion. An
+[[Shirley]] in her [[Castle|castle]], and compelled her to surrender at discretion. An
 
 uncle, an aunt, and two cousins from the south--a Mr., Mrs., and two
 
@@ -452,7 +452,7 @@ least not yet.
 
 
 
-The next Sunday the Fieldhead pew in Briarfield Church appeared peopled
+The next [[Sunday]] the Fieldhead pew in Briarfield Church appeared peopled
 
 with a prim, trim, fidgety, elderly gentleman, who shifted his
 
@@ -460,7 +460,7 @@ spectacles, and changed his position every three minutes; a patient,
 
 placid-looking elderly lady in brown satin; and two pattern young
 
-ladies, in pattern attire, with pattern deportment. Shirley had the air
+ladies, in pattern attire, with pattern deportment. [[Shirley]] had the air
 
 of a black swan or a white crow in the midst of this party, and very
 
@@ -480,15 +480,15 @@ neighbourhood, Caroline was limited once more to the gray rectory, the
 
 solitary morning walk in remote by-paths, the long, lonely afternoon
 
-sitting in a quiet parlour which the sun forsook at noon, or in the
+sitting in a quiet parlour which the sun forsook at [[Noon|noon]], or in the
 
-garden alcove where it shone bright, yet sad, on the ripening red
+[[Garden|garden]] alcove where it shone bright, yet sad, on the ripening red
 
 currants trained over the trellis, and on the fair monthly roses
 
 entwined between, and through them fell chequered on Caroline sitting in
 
-her white summer dress, still as a garden statue. There she read old
+her white [[Summer|summer]] dress, still as a [[Garden|garden]] statue. There she read old
 
 books, taken from her uncle's library. The Greek and Latin were of no
 
@@ -498,27 +498,27 @@ on a shelf which had belonged to her aunt Mary--some venerable Lady's
 
 Magazines, that had once performed a sea-voyage with their owner, and
 
-undergone a storm, and whose pages were stained with salt water; some
+undergone a [[Storm|storm]], and whose pages were stained with salt [[Water|water]]; some
 
 mad Methodist Magazines, full of miracles and apparitions, of
 
-preternatural warnings, ominous dreams, and frenzied fanaticism; the
+preternatural warnings, ominous [[Dreams|dreams]], and frenzied [[Fanaticism|fanaticism]]; the
 
 equally mad letters of Mrs. Elizabeth Rowe from the Dead to the Living;
 
-a few old English classics. From these faded flowers Caroline had in her
+a few old English classics. From these faded [[Flowers|flowers]] Caroline had in her
 
-childhood extracted the honey; they were tasteless to her now. By way of
+[[Childhood|childhood]] extracted the honey; they were tasteless to her now. By way of
 
 change, and also of doing good, she would sew--make garments for the
 
 poor, according to good Miss Ainley's direction. Sometimes, as she felt
 
-and saw her tears fall slowly on her work, she would wonder how the
+and saw her [[Tears|tears]] fall slowly on her work, she would [[Wonder|wonder]] how the
 
 excellent woman who had cut it out and arranged it for her managed to be
 
-so equably serene in _her_ solitude.
+so equably serene in _her_ [[Solitude|solitude]].
 
 
 
@@ -526,7 +526,7 @@ so equably serene in _her_ solitude.
 
 she thought; "yet her cottage is a still, dim little place, and she is
 
-without a bright hope or near friend in the world. I remember, though,
+without a bright [[Hope|hope]] or near friend in the world. I remember, though,
 
 she told me once she had tutored her thoughts to tend upwards to heaven.
 
@@ -536,17 +536,17 @@ for her, and she looks, I suppose, to the bliss of the world to come. So
 
 do nuns, with their close cell, their iron lamp, their robe strait as a
 
-shroud, their bed narrow as a coffin. She says often she has no fear of
+shroud, their bed narrow as a coffin. She says often she has no [[Fear|fear]] of
 
-death--no dread of the grave; no more, doubtless, had St. Simeon
+[[Death|death]]--no dread of the [[Grave|grave]]; no more, doubtless, had St. Simeon
 
 Stylites, lifted up terrible on his wild column in the wilderness; no
 
 more has the Hindu votary stretched on his couch of iron spikes. Both
 
-these having violated nature, their natural likings and antipathies are
+these having violated [[Nature|nature]], their natural likings and antipathies are
 
-reversed; they grow altogether morbid. I do fear death as yet, but I
+reversed; they grow altogether morbid. I do [[Fear|fear]] [[Death|death]] as yet, but I
 
 believe it is because I am young. Poor Miss Ainley would cling closer to
 
@@ -586,7 +586,7 @@ against, or frowns on with impotent contempt. I say _impotent_, for I
 
 observe that to such grievances as society cannot readily cure it
 
-usually forbids utterance, on pain of its scorn, this scorn being only a
+usually forbids utterance, on [[Pain|pain]] of its scorn, this scorn being only a
 
 sort of tinselled cloak to its deformed weakness. People hate to be
 
@@ -596,7 +596,7 @@ in forcing on them a sense of their own incapacity, or a more painful
 
 sense of an obligation to make some unpleasant effort, troubles their
 
-ease and shakes their self-complacency. Old maids, like the houseless
+ease and shakes their [[Self|self]]-complacency. Old maids, like the houseless
 
 and unemployed poor, should not ask for a place and an occupation in the
 
@@ -610,11 +610,11 @@ in business or in professions; they have something to do. Their sisters
 
 have no earthly employment but household work and sewing, no earthly
 
-pleasure but an unprofitable visiting, and no hope, in all their life to
+pleasure but an unprofitable visiting, and no [[Hope|hope]], in all their life to
 
 come, of anything better. This stagnant state of things makes them
 
-decline in health. They are never well, and their minds and views shrink
+decline in health. They are never [[Well|well]], and their minds and views shrink
 
 to wondrous narrowness. The great wish, the sole aim of every one of
 
@@ -626,13 +626,13 @@ husbands. The gentlemen turn them into ridicule; they don't want them;
 
 they hold them very cheap. They say--I have heard them say it with
 
-sneering laughs many a time--the matrimonial market is overstocked.
+sneering laughs many a [[Time|time]]--the matrimonial market is overstocked.
 
 Fathers say so likewise, and are angry with their daughters when they
 
-observe their manœuvres--they order them to stay at home. What do they
+observe their manœuvres--they order them to stay at [[Home|home]]. What do they
 
-expect them to do at home? If you ask, they would answer, sew and cook.
+expect them to do at [[Home|home]]? If you ask, they would answer, sew and cook.
 
 They expect them to do this, and this only, contentedly, regularly,
 
@@ -648,7 +648,7 @@ themselves? Would they not be very weary? And when there came no relief
 
 to their weariness, but only reproaches at its slightest manifestation,
 
-would not their weariness ferment in time to frenzy? Lucretia, spinning
+would not their weariness ferment in [[Time|time]] to frenzy? Lucretia, spinning
 
 at midnight in the midst of her maidens, and Solomon's virtuous woman
 
@@ -664,9 +664,9 @@ maidens. Hortense would just work me and Sarah in that fashion, if she
 
 could, and neither of us would bear it. The 'virtuous woman,' again, had
 
-her household up in the very middle of the night; she 'got breakfast
+her household up in the very middle of the [[Night|night]]; she 'got breakfast
 
-over,' as Mrs. Sykes says, before one o'clock a.m.; but _she_ had
+over,' as Mrs. Sykes says, before one o'[[Clock|clock]] a.m.; but _she_ had
 
 something more to do than spin and give out portions. She was a
 
@@ -680,15 +680,15 @@ woman.' On the whole, I like her a good deal better than Lucretia; but I
 
 don't believe either Mr. Armitage or Mr. Sykes could have got the
 
-advantage of her in a bargain. Yet I like her. 'Strength and honour were
+advantage of her in a bargain. Yet I like her. 'Strength and [[Honour|honour]] were
 
 her clothing; the heart of her husband safely trusted in her. She opened
 
 her mouth with wisdom; in her tongue was the law of kindness; her
 
-children rose up and called her blessed; her husband also praised her.'
+children [[Rose|rose]] up and called her blessed; her husband also praised her.'
 
-King of Israel! your model of a woman is a worthy model! But are we, in
+[[King]] of Israel! your model of a woman is a worthy model! But are we, in
 
 these days, brought up to be like her? Men of Yorkshire! do your
 
@@ -702,15 +702,15 @@ them fading around you, dropping off in consumption or decline; or, what
 
 is worse, degenerating to sour old maids--envious, back-biting,
 
-wretched, because life is a desert to them; or, what is worst of all,
+wretched, because life is a [[Desert|desert]] to them; or, what is worst of all,
 
 reduced to strive, by scarce modest coquetry and debasing artifice, to
 
-gain that position and consideration by marriage which to celibacy is
+gain that position and consideration by [[Marriage|marriage]] which to celibacy is
 
 denied. Fathers! cannot you alter these things? Perhaps not all at once;
 
-but consider the matter well when it is brought before you, receive it
+but consider the matter [[Well|well]] when it is brought before you, receive it
 
 as a theme worthy of thought; do not dismiss it with an idle jest or an
 

@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 5)"
+title: "The [[Pickwick]] Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -26,7 +26,7 @@ is of you, Mr. Weller, to be sure!’
 
 ‘Ain’t he?’ replied Mr. Muzzle.
 
-‘So much humour,’ said Sam.
+‘So much [[Humour|humour]],’ said Sam.
 
 ‘And such a man to speak,’ said Mr. Muzzle. ‘How his ideas flow, don’t
 they?’
@@ -37,10 +37,10 @@ know what he’s arter, do you?’
 
 That’s the great merit of his style of speaking,’ rejoined Mr. Muzzle.
 ‘Take care of the last step, Mr. Weller. Would you like to wash your
-hands, sir, before we join the ladies? Here’s a sink, with the water
+hands, sir, before we join the ladies? Here’s a sink, with the [[Water|water]]
 laid on, Sir, and a clean jack towel behind the door.’
 
-‘Ah! perhaps I may as well have a rinse,’ replied Mr. Weller, applying
+‘Ah! perhaps I may as [[Well|well]] have a rinse,’ replied Mr. Weller, applying
 plenty of yellow soap to the towel, and rubbing away till his face shone
 again. ‘How many ladies are there?’
 
@@ -70,18 +70,18 @@ possible.’
 
 ‘And your master’s a knowin’ hand, and has just sent me to the right
 place,’ said Mr. Weller, with a glance of admiration at Mary. ‘If I wos
-master o’ this here house, I should alvays find the materials for
+master o’ this here [[house]], I should alvays find the materials for
 comfort vere Mary wos.’
 
 Lor, Mr. Weller!’ said Mary blushing.
 
-‘Well, I never!’ ejaculated the cook.
+‘[[Well]], I never!’ ejaculated the cook.
 
 ‘Bless me, cook, I forgot you,’ said Mr. Muzzle. ‘Mr. Weller, let me
 introduce you.’
 
 ‘How are you, ma’am?’ said Mr. Weller. ‘Wery glad to see you, indeed,
-and hope our acquaintance may be a long ‘un, as the gen’l’m’n said to
+and [[Hope|hope]] our acquaintance may be a long ‘un, as the gen’l’m’n said to
 the fi’ pun’ note.’
 
 When this ceremony of introduction had been gone through, the cook and
@@ -129,9 +129,9 @@ she was only recovered by sundry pats on the back, and other necessary
 attentions, most delicately administered by Mr. Samuel Weller.
 
 In the midst of all this jollity and conviviality, a loud ring was heard
-at the garden gate, to which the young gentleman who took his meals in
-the wash-house, immediately responded. Mr. Weller was in the height of
-his attentions to the pretty house-maid; Mr. Muzzle was busy doing the
+at the [[Garden|garden]] gate, to which the young gentleman who took his meals in
+the wash-[[house]], immediately responded. Mr. Weller was in the height of
+his attentions to the pretty [[house]]-maid; Mr. Muzzle was busy doing the
 honours of the table; and the cook had just paused to laugh, in the very
 act of raising a huge morsel to her lips; when the kitchen door opened,
 and in walked Mr. Job Trotter.
@@ -151,10 +151,10 @@ Laying his hand on the mulberry collar of the unresisting Job, Mr.
 Weller dragged him into the kitchen; and, locking the door, handed the
 key to Mr. Muzzle, who very coolly buttoned it up in a side pocket.
 
-‘Well, here’s a game!’ cried Sam. ‘Only think o’ my master havin’ the
+‘[[Well]], here’s a game!’ cried Sam. ‘Only think o’ my master havin’ the
 pleasure o’ meeting yourn upstairs, and me havin’ the joy o’ meetin’ you
 down here. How are you gettin’ on, and how is the chandlery bis’ness
-likely to do? Well, I am so glad to see you. How happy you look. It’s
+likely to do? [[Well]], I am so glad to see you. How happy you look. It’s
 quite a treat to see you; ain’t it, Mr. Muzzle?’
 
 ‘Quite,’ said Mr. Muzzle.

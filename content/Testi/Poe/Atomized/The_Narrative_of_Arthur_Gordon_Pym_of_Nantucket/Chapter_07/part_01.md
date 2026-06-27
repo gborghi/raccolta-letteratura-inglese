@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 8 (part 1)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 8 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -20,7 +20,7 @@ CHAPTER VIII.
 
 
 
-As I viewed myself in a fragment of looking-glass which hung up in the
+As I viewed myself in a [[Fragment|fragment]] of looking-glass which hung up in the
 
 cabin, and by the dim light of a kind of battle-lantern, I was so
 
@@ -70,7 +70,7 @@ muskets were lying in a berth close at hand.
 
 
 
-We listened to their conversation for some time before we could make up
+We listened to their conversation for some [[Time|time]] before we could make up
 
 our minds how to act, having as yet resolved on nothing determinate,
 
@@ -100,9 +100,9 @@ the captain's brat in the forecastle, and he thought the sooner both of
 
 them were overboard the better." To this no answer was made, but we
 
-could easily perceive that the hint was well received by the whole
+could easily perceive that the hint was [[Well|well]] received by the whole
 
-party, and more particularly by Jones. At this period I was excessively
+party, and more particularly by [[Jones]]. At this period I was excessively
 
 agitated, the more so as I could see that neither Augustus nor Peters
 
@@ -114,7 +114,7 @@ feelings of trepidation.
 
 
 
-The tremendous noise made by the roaring of the wind in the rigging and
+The tremendous noise made by the roaring of the [[Wind|wind]] in the rigging and
 
 the washing of the sea over the deck prevented us from hearing what was
 
@@ -124,7 +124,7 @@ heard the mate tell one of the men to "go forward, and order the d----d
 
 lubbers to come into the cabin, where he could have an eye upon them,
 
-for he wanted no such secret doings on board the brig." It was well for
+for he wanted no such secret doings on board the brig." It was [[Well|well]] for
 
 us that the pitching of the vessel at this moment was so violent as to
 
@@ -138,7 +138,7 @@ the larboard stateroom doors, bursting it open, and creating a good
 
 deal of other confusion. Luckily, neither of our party was thrown from
 
-his position, and we had time to make a precipitate retreat to the
+his position, and we had [[Time|time]] to make a precipitate retreat to the
 
 forecastle, and arrange a hurried plan of action before the messenger
 
@@ -162,7 +162,7 @@ Peters closing the door after him in the same manner he had found it.
 
 The mate received them with feigned cordiality, and told Augustus that,
 
-since he had behaved himself so well of late, he might take up his
+since he had behaved himself so [[Well|well]] of late, he might take up his
 
 quarters in the cabin, and be one of them for the future. He then
 
@@ -178,7 +178,7 @@ companion-way, to be ready for use when required.
 
 
 
-I now steadied myself as well as possible so as to have a good view of
+I now steadied myself as [[Well|well]] as possible so as to have a good view of
 
 all that was passing within, and endeavoured to nerve myself to the
 
@@ -200,8 +200,8 @@ when some one mentioned the terrific appearance of Rogers's corpse, I
 
 thought he was upon the point of swooning. Peters now asked him if he
 
-did not think it would be better to have the body thrown overboard at
+did not think it would be better to have the [[Body|body]] thrown overboard at
 
 once, as it was too horrible a sight to see it floundering about in the
 
-scuppers. At this the villain absolutely gasped for breath, and turned
+scuppers. At this the [[Villain|villain]] absolutely gasped for breath, and turned

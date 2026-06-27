@@ -21,9 +21,9 @@ the wall, jumped down on the other side, and stood panting in the old
 orchard.
 
 There was a frosty rime upon the trees, which, in the faint light of the
-clouded moon, hung upon the smaller branches like dead garlands.
-Withered leaves crackled and snapped beneath his feet, as he crept softly
-on towards the house.  The desolation of a winter night sat brooding on
+clouded [[Moon|moon]], hung upon the smaller branches like dead garlands.
+Withered [[Leaves|leaves]] crackled and snapped beneath his feet, as he crept softly
+on towards the [[house]].  The desolation of a [[Winter|winter]] [[Night|night]] sat brooding on
 the earth, and in the sky.  But, the red light came cheerily towards him
 from the windows; figures passed and repassed there; and the hum and
 murmur of voices greeted his ear sweetly.
@@ -42,7 +42,7 @@ why.  Don’t come in.’
 
 ‘I don’t know.  I—I am afraid to think.  Go back.  Hark!’
 
-There was a sudden tumult in the house.  She put her hands upon her ears.
+There was a sudden tumult in the [[house]].  She put her hands upon her ears.
 A wild scream, such as no hands could shut out, was heard; and
 Grace—distraction in her looks and manner—rushed out at the door.
 
@@ -51,7 +51,7 @@ Grace—distraction in her looks and manner—rushed out at the door.
 She disengaged herself, as if to recognise his face, and fell down at his
 feet.
 
-A crowd of figures came about them from the house.  Among them was her
+A crowd of figures came about them from the [[house]].  Among them was her
 father, with a paper in his hand.
 
 ‘What is it!’ cried Alfred, grasping his hair with his hands, and looking
@@ -65,8 +65,8 @@ There was a murmur among them.  ‘She is gone.’
 ‘Gone!’ he echoed.
 
 ‘Fled, my dear Alfred!’ said the Doctor, in a broken voice, and with his
-hands before his face.  ‘Gone from her home and us.  To-night!  She
-writes that she has made her innocent and blameless choice—entreats that
+hands before his face.  ‘Gone from her [[Home|home]] and us.  To-[[Night|night]]!  She
+writes that she has made her [[Innocent|innocent]] and blameless choice—entreats that
 we will forgive her—prays that we will not forget her—and is gone.’
 
 ‘With whom?  Where?’
@@ -77,15 +77,15 @@ his former attitude, clasping one of Grace’s cold hands in his own.
 
 There was a hurried running to and fro, confusion, noise, disorder, and
 no purpose.  Some proceeded to disperse themselves about the roads, and
-some took horse, and some got lights, and some conversed together, urging
+some took [[Horse|horse]], and some got lights, and some conversed together, urging
 that there was no trace or track to follow.  Some approached him kindly,
 with the view of offering consolation; some admonished him that Grace
-must be removed into the house, and that he prevented it.  He never heard
+must be removed into the [[house]], and that he prevented it.  He never heard
 them, and he never moved.
 
-The snow fell fast and thick.  He looked up for a moment in the air, and
+The [[Snow|snow]] fell fast and thick.  He looked up for a moment in the air, and
 thought that those white ashes strewn upon his hopes and misery, were
-suited to them well.  He looked round on the whitening ground, and
+suited to them [[Well|well]].  He looked round on the whitening ground, and
 thought how Marion’s foot-prints would be hushed and covered up, as soon
 as made, and even that remembrance of her blotted out.  But he never felt
 the weather and he never stirred.

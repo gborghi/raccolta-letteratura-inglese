@@ -27,8 +27,8 @@ to the ego than it is to other people.  The precept `know thyself'
 did not fall from heaven; it fell upstairs from the other place.
 I decline to know myself; he is not in my set.  He is an
 unknown benefactor of mine, who prefers to remain anonymous.
-Nor do I mention it out of any pride in the walking tour; for, to tell
-the truth, my walking tour chiefly consisted of sitting under opulent
+Nor do I mention it out of any [[Pride|pride]] in the walking tour; for, to tell
+the [[Truth|truth]], my walking tour chiefly consisted of sitting under opulent
 beech-trees for very long periods and at very short intervals.
 I state the circumstances under which the article was written
 because I am convinced that this is the only moral thing to do.
@@ -47,14 +47,14 @@ by an Eyewitness.  Latest'.  Then in the usual place would be the note,
 `A.B.C. shop, Strand'.  The title, `Should Spinsters Marry Widowers?'
 would be annotated with `Swan and Elephant, 12.15', and so on.
 Perhaps, as rather longer descriptions would often be required,
-it might be as well to confine the matter to a system of easily
+it might be as [[Well|well]] to confine the matter to a system of easily
 recognised initials.  Thus, for instance, `How England
 could be Invaded.  L.S.R.D.' (Lodgings at the Seaside.
 Rainy Day); or `Buddhism and the German Pessimists:
 a Parallel.  C.W.P.P.S.' (Cottage. Wallpaper with Pink Spots).
 The thing would throw a kind of flush of colour into our articles.
-Nature would creep into them as she creeps into the colour
-of flowers and wine.
+[[Nature]] would creep into them as she creeps into the colour
+of [[Flowers|flowers]] and wine.
 
 Of course I am for righteousness, and all that.  But, as I say,
 I think this plan of talking about the way the thing is done
@@ -65,7 +65,7 @@ honest really want it to be solemn.  But honesty is
 never solemn; it is only hypocrisy that can be that.
 Honesty always laughs, because things are so laughable.
 It remembers what a queer thing is man--a creature that picks up
-objects lying all round him (eggs, water-melons, sheep, and so on),
+objects lying all round him (eggs, [[Water|water]]-melons, sheep, and so on),
 and packs them into himself as if he were a carpetbag.
 It remembers that the very bones of our heads are grinning.
 And so you will always find in every age that very sincere men
@@ -75,35 +75,35 @@ The people who can be consistently and entirely solemn are
 the people who have no convictions at all.  Look at them,
 as they walk down Band Street, in their burnished hats.
 No belief on any earthly subject has ever broken into
-the perfection of that innocent and colossal gravity.
-It is the same, I fear, with most of the great bigwigs of
+the perfection of that [[Innocent|innocent]] and colossal gravity.
+It is the same, I [[Fear|fear]], with most of the great bigwigs of
 our trade, with the men who write leading articles especially.
 They are not sincere enough to take anything lightly.
 If the leader-writer on The Times were sincere
 (intellectually sincere, I mean), if he became in his own mind
 serious and real for a second, the consequences would be awful.
 The terrified sub-editors would peer into his room and see him
-rolling about on the floor in an agony of laughter, curled up,
+[[rolling]] about on the floor in an agony of laughter, curled up,
 screaming and kicking--a new problem in the office.
 
 The first step in the making and keeping of journalism an
 honest thing, is to confess that it is journalism and nothing more.
 It is a thing produced in a violent hurry, generally in the middle
-of the night, by men who (terrible as it may sound to say so)
+of the [[Night|night]], by men who (terrible as it may sound to say so)
 are commonly of the average human intelligence.  It cannot be accurate.
 It can be honest; and if it is honest it will own--nay, vaunt--
 its ingrained and necessary inaccuracy.  Its object is not to tell
-the absolute truth about Russian gunnery or Canadian finance.
-But its object is, or ought to be, to tell the absolute truth
+the absolute [[Truth|truth]] about Russian gunnery or Canadian finance.
+But its object is, or ought to be, to tell the absolute [[Truth|truth]]
 about the minds and convictions of the men who write it.
 
 The real journalistic sin is not that the leading article
-should misrepresent history (for who will ever be certain what
-represents history?); the real sin is that the articles should
-misrepresent the journalist's own soul.  This is vile and by no
+should misrepresent [[history]] (for who will ever be certain what
+represents [[history]]?); the real sin is that the articles should
+misrepresent the journalist's own [[Soul|soul]].  This is vile and by no
 means uncommon.  But it is less likely, obviously, to happen
 when a man writes hastily than when he writes carefully.
-The slap-dash style is all on the side of morality.
+The slap-dash style is all on the side of [[morality]].
 
 A paper ought not to be an encyclopaedia--nor, perhaps, to puff one.
 Both the paper and the encyclopaedia have, of course, eventually the

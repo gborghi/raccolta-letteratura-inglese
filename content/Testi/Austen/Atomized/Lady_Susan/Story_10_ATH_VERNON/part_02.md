@@ -1,5 +1,5 @@
 ---
-title: "Lady Susan — ATH. VERNON. (part 2)"
+title: "[[Lady Susan]] — ATH. VERNON. (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Lady-Susan-(Austen)"
@@ -24,13 +24,13 @@ have wished in my daughter, or had I even known her to possess as much
 
 as she does, I should not have been anxious for the match.” “It is odd
 
-that you should alone be ignorant of your daughter’s sense!” “Frederica
+that you should [[Alone|alone]] be ignorant of your daughter’s sense!” “Frederica
 
 never does justice to herself; her manners are shy and childish, and
 
 besides she is afraid of me. During her poor father’s life she was a
 
-spoilt child; the severity which it has since been necessary for me to
+spoilt [[Child|child]]; the severity which it has since been necessary for me to
 
 show has alienated her affection; neither has she any of that
 
@@ -38,11 +38,11 @@ brilliancy of intellect, that genius or vigour of mind which will force
 
 itself forward.” “Say rather that she has been unfortunate in her
 
-education!” “Heaven knows, my dearest Mrs. Vernon, how fully I am aware
+[[Education|education]]!” “Heaven knows, my dearest Mrs. Vernon, how fully I am aware
 
 of that; but I would wish to forget every circumstance that might throw
 
-blame on the memory of one whose name is sacred with me.” Here she
+blame on the [[Memory|memory]] of one whose name is sacred with me.” Here she
 
 pretended to cry; I was out of patience with her. “But what,” said I,
 
@@ -62,9 +62,9 @@ God!” she exclaimed, “what an opinion you must have of me! Can you
 
 possibly suppose that I was aware of her unhappiness! that it was my
 
-object to make my own child miserable, and that I had forbidden her
+object to make my own [[Child|child]] miserable, and that I had forbidden her
 
-speaking to you on the subject from a fear of your interrupting the
+speaking to you on the subject from a [[Fear|fear]] of your interrupting the
 
 diabolical scheme? Do you think me destitute of every honest, every
 
@@ -74,7 +74,7 @@ whose welfare it is my first earthly duty to promote? The idea is
 
 horrible!” “What, then, was your intention when you insisted on her
 
-silence?” “Of what use, my dear sister, could be any application to
+[[Silence|silence]]?” “Of what use, my dear sister, could be any application to
 
 you, however the affair might stand? Why should I subject you to
 
@@ -116,7 +116,7 @@ of his folly; and why should your ladyship, at any rate, quarrel with
 
 my brother for an interference which, you must know, it is not in his
 
-nature to refuse when urged in such a manner?”
+[[Nature|nature]] to refuse when urged in such a manner?”
 
 
 
@@ -136,7 +136,7 @@ and of course both to blame. His resolution of leaving Churchhill is
 
 consistent with his general eagerness. When I understood his intention,
 
-however, and at the same time began to think that we had been perhaps
+however, and at the same [[Time|time]] began to think that we had been perhaps
 
 equally mistaken in each other’s meaning, I resolved to have an
 
@@ -150,7 +150,7 @@ gloomily. I have now only to say further, that as I am convinced of
 
 Frederica’s having a reasonable dislike to Sir James, I shall instantly
 
-inform him that he must give up all hope of her. I reproach myself for
+inform him that he must give up all [[Hope|hope]] of her. I reproach myself for
 
 having, even though innocently, made her unhappy on that score. She
 
@@ -160,13 +160,13 @@ own happiness as much as I do, if she judge wisely, and command herself
 
 as she ought, she may now be easy. Excuse me, my dearest sister, for
 
-thus trespassing on your time, but I owe it to my own character; and
+thus trespassing on your [[Time|time]], but I owe it to my own character; and
 
 after this explanation I trust I am in no danger of sinking in your
 
 opinion.” I could have said, “Not much, indeed!” but I left her almost
 
-in silence. It was the greatest stretch of forbearance I could
+in [[Silence|silence]]. It was the greatest stretch of forbearance I could
 
 practise. I could not have stopped myself had I begun. Her assurance!
 
@@ -178,7 +178,7 @@ tolerably composed I returned to the parlour. Sir James’s carriage was
 
 at the door, and he, merry as usual, soon afterwards took his leave.
 
-How easily does her ladyship encourage or dismiss a lover! In spite of
+How easily does her ladyship encourage or dismiss a [[Lover|lover]]! In spite of
 
 this release, Frederica still looks unhappy: still fearful, perhaps, of
 
@@ -186,13 +186,13 @@ her mother’s anger; and though dreading my brother’s departure,
 
 jealous, it may be, of his staying. I see how closely she observes him
 
-and Lady Susan, poor girl! I have now no hope for her. There is not a
+and [[Lady Susan]], poor girl! I have now no [[Hope|hope]] for her. There is not a
 
 chance of her affection being returned. He thinks very differently of
 
 her from what he used to do; he does her some justice, but his
 
-reconciliation with her mother precludes every dearer hope. Prepare, my
+[[Reconciliation|reconciliation]] with her mother precludes every dearer [[Hope|hope]]. Prepare, my
 
 dear mother, for the worst! The probability of their marrying is surely
 

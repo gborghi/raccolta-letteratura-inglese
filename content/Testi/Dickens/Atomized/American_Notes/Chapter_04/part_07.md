@@ -17,29 +17,29 @@ tags:
 ‘In her intellectual character it is pleasing to observe an insatiable
 thirst for knowledge, and a quick perception of the relations of things.
 In her moral character, it is beautiful to behold her continual gladness,
-her keen enjoyment of existence, her expansive love, her unhesitating
-confidence, her sympathy with suffering, her conscientiousness,
+her keen enjoyment of existence, her expansive [[Love|love]], her unhesitating
+confidence, her sympathy with [[Suffering|suffering]], her conscientiousness,
 truthfulness, and hopefulness.’
 
 Such are a few fragments from the simple but most interesting and
-instructive history of Laura Bridgman.  The name of her great benefactor
+instructive [[history]] of Laura Bridgman.  The name of her great benefactor
 and friend, who writes it, is Dr. Howe.  There are not many persons, I
-hope and believe, who, after reading these passages, can ever hear that
+[[Hope|hope]] and believe, who, after reading these passages, can ever hear that
 name with indifference.
 
 A further account has been published by Dr. Howe, since the report from
 which I have just quoted.  It describes her rapid mental growth and
-improvement during twelve months more, and brings her little history down
+improvement during twelve months more, and brings her little [[history]] down
 to the end of last year.  It is very remarkable, that as we dream in
 words, and carry on imaginary conversations, in which we speak both for
 ourselves and for the shadows who appear to us in those visions of the
-night, so she, having no words, uses her finger alphabet in her sleep.
+[[Night|night]], so she, having no words, uses her finger alphabet in her [[Sleep|sleep]].
 And it has been ascertained that when her slumber is broken, and is much
-disturbed by dreams, she expresses her thoughts in an irregular and
+disturbed by [[Dreams|dreams]], she expresses her thoughts in an irregular and
 confused manner on her fingers: just as we should murmur and mutter them
 indistinctly, in the like circumstances.
 
-I turned over the leaves of her Diary, and found it written in a fair
+I turned over the [[Leaves|leaves]] of her Diary, and found it written in a fair
 legible square hand, and expressed in terms which were quite intelligible
 without any explanation.  On my saying that I should like to see her
 write again, the teacher who sat beside her, bade her, in their language,
@@ -59,7 +59,7 @@ once, as she does that of any man who is a stranger to her.  But she
 retained my wife’s with evident pleasure, kissed her, and examined her
 dress with a girl’s curiosity and interest.
 
-She was merry and cheerful, and showed much innocent playfulness in her
+She was merry and cheerful, and showed much [[Innocent|innocent]] playfulness in her
 intercourse with her teacher.  Her delight on recognising a favourite
 playfellow and companion—herself a blind girl—who silently, and with an
 equal enjoyment of the coming surprise, took a seat beside her, was
@@ -77,12 +77,12 @@ little feats of agility should be _seen_.  Among them was a small
 laughing fellow, who stood aloof, entertaining himself with a gymnastic
 exercise for bringing the arms and chest into play; which he enjoyed
 mightily; especially when, in thrusting out his right arm, he brought it
-into contact with another boy.  Like Laura Bridgman, this young child was
+into contact with another boy.  Like Laura Bridgman, this young [[Child|child]] was
 deaf, and dumb, and blind.
 
 Dr. Howe’s account of this pupil’s first instruction is so very striking,
 and so intimately connected with Laura herself, that I cannot refrain
-from a short extract.  I may premise that the poor boy’s name is Oliver
+from a short extract.  I may premise that the poor boy’s name is [[Oliver]]
 Caswell; that he is thirteen years of age; and that he was in full
 possession of all his faculties, until three years and four months old.
 He was then attacked by scarlet fever; in four weeks became deaf; in a
@@ -92,7 +92,7 @@ they were talking, and then putting his hand upon his own, as if to
 assure himself that he had them in the right position.
 
 ‘His thirst for knowledge,’ says Dr. Howe, ‘proclaimed itself as soon as
-he entered the house, by his eager examination of everything he could
+he entered the [[house]], by his eager examination of everything he could
 feel or smell in his new location.  For instance, treading upon the
 register of a furnace, he instantly stooped down, and began to feel it,
 and soon discovered the way in which the upper plate moved upon the lower
@@ -103,9 +103,9 @@ discover that they were of different kinds of metal.
 ‘His signs were expressive: and the strictly natural language, laughing,
 crying, sighing, kissing, embracing, &c., was perfect.
 
-‘Some of the analogical signs which (guided by his faculty of imitation)
+‘Some of the analogical signs which (guided by his faculty of [[Imitation|imitation]])
 he had contrived, were comprehensible; such as the waving motion of his
-hand for the motion of a boat, the circular one for a wheel, &c.
+hand for the motion of a boat, the circular one for a [[Wheel|wheel]], &c.
 
 ‘The first object was to break up the use of these signs and to
 substitute for them the use of purely arbitrary ones.
@@ -123,7 +123,7 @@ imitate them, laughing most heartily when he succeeded.  Laura was by,
 interested even to agitation; and the two presented a singular sight: her
 face was flushed and anxious, and her fingers twining in among ours so
 closely as to follow every motion, but so slightly as not to embarrass
-them; while Oliver stood attentive, his head a little aside, his face
+them; while [[Oliver]] stood attentive, his head a little aside, his face
 turned up, his left hand grasping mine, and his right held out: at every
 motion of my fingers his countenance betokened keen attention; there was
 an expression of anxiety as he tried to imitate the motions; then a smile

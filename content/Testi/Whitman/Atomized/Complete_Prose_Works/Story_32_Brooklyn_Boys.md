@@ -17,9 +17,9 @@ tags:
 TWO BROOKLYN BOYS
 
 Here in this same ward are two young men from Brooklyn, members of the
-51st New York. I had known both the two as young lads at home, so they
+51st [[New York]]. I had known both the two as young lads at [[Home|home]], so they
 seem near to me. One of them, J. L., lies there with an amputated
-arm, the stump healing pretty well. (I saw him lying on the ground at
+arm, the stump healing pretty [[Well|well]]. (I saw him lying on the ground at
 Fredericksburgh last December, all bloody, just after the arm was taken
 off. He was very phlegmatic about it, munching away at a cracker in the
 remaining hand--made no fuss.) He will recover, and thinks and talks yet

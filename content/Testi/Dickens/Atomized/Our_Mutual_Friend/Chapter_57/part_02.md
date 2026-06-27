@@ -26,8 +26,8 @@ younger than I am, and they’re playful. What does it matter? It might
 be Surly, or Sulky, or fifty disagreeable things that I really shouldn’t
 like to be considered. But Rumty! Lor, why not Rumty?’
 
-To inflict a heavy disappointment on this sweet nature, which had been,
-through all her caprices, the object of her recognition, love, and
+To inflict a heavy disappointment on this sweet [[Nature|nature]], which had been,
+through all her caprices, the object of her recognition, [[Love|love]], and
 admiration from infancy, Bella felt to be the hardest task of her hard
 day. ‘I should have done better,’ she thought, ‘to tell him at first;
 I should have done better to tell him just now, when he had some slight
@@ -35,7 +35,7 @@ misgiving; he is quite happy again, and I shall make him wretched.’
 
 He was falling back on his loaf and milk, with the pleasantest
 composure, and Bella stealing her arm a little closer about him, and at
-the same time sticking up his hair with an irresistible propensity
+the same [[Time|time]] sticking up his hair with an irresistible propensity
 to play with him founded on the habit of her whole life, had prepared
 herself to say: ‘Pa dear, don’t be cast down, but I must tell you
 something disagreeable!’ when he interrupted her in an unlooked-for
@@ -52,9 +52,9 @@ before. ‘This is very extraordinary!’
 
 ‘Yes there is! Look here!’
 
-Sooth to say, Mr Rokesmith not only passed the window, but came into the
-counting-house. And not only came into the counting-house, but, finding
-himself alone there with Bella and her father, rushed at Bella and
+Sooth to say, Mr Rokesmith not only passed the [[Window|window]], but came into the
+counting-[[house]]. And not only came into the counting-[[house]], but, finding
+himself [[Alone|alone]] there with Bella and her father, rushed at Bella and
 caught her in his arms, with the rapturous words ‘My dear, dear girl; my
 gallant, generous, disinterested, courageous, noble girl!’ And not only
 that even, (which one might have thought astonishment enough for one
@@ -63,7 +63,7 @@ laid it on his breast, as if that were her head’s chosen and lasting
 resting-place!
 
 ‘I knew you would come to him, and I followed you,’ said Rokesmith. ‘My
-love, my life! You ARE mine?’
+[[Love|love]], my life! You ARE mine?’
 
 To which Bella responded, ‘Yes, I AM yours if you think me worth
 taking!’ And after that, seemed to shrink to next to nothing in the
@@ -72,7 +72,7 @@ and partly because there was such a yielding to it on hers.
 
 The cherub, whose hair would have done for itself under the influence of
 this amazing spectacle, what Bella had just now done for it, staggered
-back into the window-seat from which he had risen, and surveyed the pair
+back into the [[Window|window]]-seat from which he had risen, and surveyed the pair
 with his eyes dilated to their utmost.
 
 ‘But we must think of dear Pa,’ said Bella; ‘I haven’t told dear Pa; let
@@ -118,7 +118,7 @@ dear John Rokesmith, if you will allow me so to call you—’
 Isn’t it—dear John Rokesmith?’
 
 There was an engaging shyness in Bella, coupled with an engaging
-tenderness of love and confidence and pride, in thus first calling him
+tenderness of [[Love|love]] and confidence and [[Pride|pride]], in thus first calling him
 by name, which made it quite excusable in John Rokesmith to do what he
 did. What he did was, once more to give her the appearance of vanishing
 as aforesaid.
@@ -139,7 +139,7 @@ Boffin?’
 ‘Yes, Pa. And so—’
 
 ‘Stop a bit, my dear. I wish to lead up to it by degrees. And that Mr
-Boffin has not treated him well?’
+Boffin has not treated him [[Well|well]]?’
 
 ‘Has treated him most shamefully, dear Pa!’ cried Bella with a flashing
 face.

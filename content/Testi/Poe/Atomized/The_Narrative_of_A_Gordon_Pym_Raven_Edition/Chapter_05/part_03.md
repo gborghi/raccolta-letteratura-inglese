@@ -44,7 +44,7 @@ tags:
 
       no reply, and his apprehensions seemed thus to be confirmed. The
 
-      brig was rolling violently, and there was so much noise in
+      brig was [[rolling]] violently, and there was so much noise in
 
       consequence, that it was useless to listen for any weak sound,
 
@@ -56,13 +56,13 @@ tags:
 
       alive, be aware that succor was approaching. Still nothing was
 
-      heard from me, and the supposition of my death began to assume
+      heard from me, and the supposition of my [[Death|death]] began to assume
 
       the character of certainty. He determined, nevertheless, to force
 
       a passage, if possible, to the box, and at least ascertain beyond
 
-      a doubt the truth of his surmises. He pushed on for some time in
+      a [[Doubt|doubt]] the [[Truth|truth]] of his surmises. He pushed on for some [[Time|time]] in
 
       a most pitiable state of anxiety, until, at length, he found the
 
@@ -72,7 +72,7 @@ tags:
 
       Overcome now by his feelings, he threw himself among the lumber
 
-      in despair, and wept like a child. It was at this period that he
+      in [[Despair|despair]], and wept like a [[Child|child]]. It was at this period that he
 
       heard the crash occasioned by the bottle which I had thrown down.
 
@@ -98,7 +98,7 @@ tags:
 
       circumstances which embarrassed him should be taken into
 
-      consideration. The night was fast wearing away, and his absence
+      consideration. The [[Night|night]] was fast wearing away, and his absence
 
       from the forecastle might be discovered; and indeed would
 
@@ -118,7 +118,7 @@ tags:
 
       and I had made him no answer. I had been now eleven days and
 
-      nights with no more water than that contained in the jug which he
+      nights with no more [[Water|water]] than that contained in the jug which he
 
       had left with me—a supply which it was not at all probable I had
 
@@ -128,11 +128,11 @@ tags:
 
       have appeared to him, coming from the comparatively open air of
 
-      the steerage, of a nature absolutely poisonous, and by far more
+      the steerage, of a [[Nature|nature]] absolutely poisonous, and by far more
 
       intolerable than it had seemed to me upon my first taking up my
 
-      quarters in the box—the hatchways at that time having been
+      quarters in the box—the hatchways at that [[Time|time]] having been
 
       constantly open for many months previous. Add to these
 
@@ -140,15 +140,15 @@ tags:
 
       lately witnessed by my friend; his confinement, privations, and
 
-      narrow escapes from death, together with the frail and equivocal
+      narrow escapes from [[Death|death]], together with the frail and equivocal
 
-      tenure by which he still existed—circumstances all so well
+      tenure by which he still existed—circumstances all so [[Well|well]]
 
       calculated to prostrate every energy of mind—and the reader will
 
       be easily brought, as I have been, to regard his apparent falling
 
-      off in friendship and in faith with sentiments rather of sorrow
+      off in [[Friendship|friendship]] and in [[Faith|faith]] with sentiments rather of sorrow
 
       than of anger.
 
@@ -156,7 +156,7 @@ tags:
 
       The crash of the bottle was distinctly heard, yet Augustus was
 
-      not sure that it proceeded from the hold. The doubt, however, was
+      not sure that it proceeded from the hold. The [[Doubt|doubt]], however, was
 
       sufficient inducement to persevere. He clambered up nearly to the
 
@@ -172,11 +172,11 @@ tags:
 
       violent agitation as to be incapable of reply. Confident, now,
 
-      that his worst apprehensions were well founded, he descended,
+      that his worst apprehensions were [[Well|well]] founded, he descended,
 
       with a view of getting back to the forecastle without loss of
 
-      time. In his haste some small boxes were thrown down, the noise
+      [[Time|time]]. In his haste some small boxes were thrown down, the noise
 
       occasioned by which I heard, as will be recollected. He had made
 
@@ -184,9 +184,9 @@ tags:
 
       again caused him to hesitate. He retraced his steps immediately,
 
-      and, clambering up the stowage a second time, called out my name,
+      and, clambering up the stowage a second [[Time|time]], called out my name,
 
-      loudly as before, having watched for a lull. This time I found
+      loudly as before, having watched for a lull. This [[Time|time]] I found
 
       voice to answer. Overjoyed at discovering me to be still alive,
 

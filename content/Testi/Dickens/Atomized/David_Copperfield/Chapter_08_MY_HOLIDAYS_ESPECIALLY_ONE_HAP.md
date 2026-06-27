@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON"
+title: "[[David Copperfield]] — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -20,21 +20,21 @@ CHAPTER 8. MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON
 When we arrived before day at the inn where the mail stopped, which was
 not the inn where my friend the waiter lived, I was shown up to a nice
 little bedroom, with DOLPHIN painted on the door. Very cold I was, I
-know, notwithstanding the hot tea they had given me before a large fire
+know, notwithstanding the hot tea they had given me before a large [[Fire|fire]]
 downstairs; and very glad I was to turn into the Dolphin’s bed, pull the
-Dolphin’s blankets round my head, and go to sleep.
+Dolphin’s blankets round my head, and go to [[Sleep|sleep]].
 
 Mr. Barkis the carrier was to call for me in the morning at nine
-o’clock. I got up at eight, a little giddy from the shortness of my
-night’s rest, and was ready for him before the appointed time. He
+o’[[Clock|clock]]. I got up at eight, a little giddy from the shortness of my
+[[Night|night]]’s rest, and was ready for him before the appointed [[Time|time]]. He
 received me exactly as if not five minutes had elapsed since we were
 last together, and I had only been into the hotel to get change for
 sixpence, or something of that sort.
 
 As soon as I and my box were in the cart, and the carrier seated, the
-lazy horse walked away with us all at his accustomed pace.
+lazy [[Horse|horse]] walked away with us all at his accustomed pace.
 
-‘You look very well, Mr. Barkis,’ I said, thinking he would like to know
+‘You look very [[Well|well]], Mr. Barkis,’ I said, thinking he would like to know
 it.
 
 Mr. Barkis rubbed his cheek with his cuff, and then looked at his cuff
@@ -68,9 +68,9 @@ my eyes. For this was a new light to me.
 slowly on me again, ‘it’s as much as to say, that man’s a-waitin’ for a
 answer.’
 
-‘Well, Mr. Barkis?’
+‘[[Well]], Mr. Barkis?’
 
-‘Well,’ said Mr. Barkis, carrying his eyes back to his horse’s ears;
+‘[[Well]],’ said Mr. Barkis, carrying his eyes back to his [[Horse|horse]]’s ears;
 ‘that man’s been a-waitin’ for a answer ever since.’
 
 ‘Have you told her so, Mr. Barkis?’
@@ -96,38 +96,38 @@ tell her, if you would,’ said Mr. Barkis, with another slow look at me,
 ‘Is it though?’ said Mr. Barkis.
 
 He seemed to find an immense fund of reflection in this circumstance,
-and sat pondering and inwardly whistling for some time.
+and sat pondering and inwardly whistling for some [[Time|time]].
 
-‘Well!’ he resumed at length. ‘Says you, “Peggotty! Barkis is waitin’
+‘[[Well]]!’ he resumed at length. ‘Says you, “Peggotty! Barkis is waitin’
 for a answer.” Says she, perhaps, “Answer to what?” Says you, “To what I
 told you.” “What is that?” says she. “Barkis is willin’,” says you.’
 
 This extremely artful suggestion Mr. Barkis accompanied with a nudge
 of his elbow that gave me quite a stitch in my side. After that, he
-slouched over his horse in his usual manner; and made no other reference
-to the subject except, half an hour afterwards, taking a piece of chalk
+slouched over his [[Horse|horse]] in his usual manner; and made no other reference
+to the subject except, half an hour afterwards, taking a piece of [[chalk]]
 from his pocket, and writing up, inside the tilt of the cart, ‘Clara
 Peggotty’--apparently as a private memorandum.
 
-Ah, what a strange feeling it was to be going home when it was not home,
+Ah, what a strange feeling it was to be going [[Home|home]] when it was not [[Home|home]],
 and to find that every object I looked at, reminded me of the happy old
-home, which was like a dream I could never dream again! The days when my
+[[Home|home]], which was like [[A Dream|a dream]] I could never dream again! The days when my
 mother and I and Peggotty were all in all to one another, and there was
-no one to come between us, rose up before me so sorrowfully on the road,
+no one to come between us, [[Rose|rose]] up before me so sorrowfully on the [[Road|road]],
 that I am not sure I was glad to be there--not sure but that I would
 rather have remained away, and forgotten it in Steerforth’s company. But
-there I was; and soon I was at our house, where the bare old elm-trees
+there I was; and soon I was at our [[house]], where the bare old elm-trees
 wrung their many hands in the bleak wintry air, and shreds of the old
-rooks’-nests drifted away upon the wind.
+rooks’-nests drifted away upon the [[Wind|wind]].
 
-The carrier put my box down at the garden-gate, and left me. I walked
-along the path towards the house, glancing at the windows, and fearing
+The carrier put my box down at the [[Garden|garden]]-gate, and left me. I walked
+along the path towards the [[house]], glancing at the windows, and fearing
 at every step to see Mr. Murdstone or Miss Murdstone lowering out of
-one of them. No face appeared, however; and being come to the house, and
+one of them. No face appeared, however; and being come to the [[house]], and
 knowing how to open the door, before dark, without knocking, I went in
 with a quiet, timid step.
 
-God knows how infantine the memory may have been, that was awakened
+God knows how infantine the [[Memory|memory]] may have been, that was awakened
 within me by the sound of my mother’s voice in the old parlour, when I
 set foot in the hall. She was singing in a low tone. I think I must have
 lain in her arms, and heard her singing so to me when I was but a baby.
@@ -135,8 +135,8 @@ The strain was new to me, and yet it was so old that it filled my heart
 brim-full; like a friend come back from a long absence.
 
 I believed, from the solitary and thoughtful way in which my mother
-murmured her song, that she was alone. And I went softly into the room.
-She was sitting by the fire, suckling an infant, whose tiny hand she
+murmured her [[Song|song]], that she was [[Alone|alone]]. And I went softly into the room.
+She was sitting by the [[Fire|fire]], suckling an infant, whose tiny hand she
 held against her neck. Her eyes were looking down upon its face, and she
 sat singing to it. I was so far right, that she had no other companion.
 
@@ -151,22 +151,22 @@ heart! I should have been more fit for Heaven than I ever have been
 since.
 
 ‘He is your brother,’ said my mother, fondling me. ‘Davy, my pretty boy!
-My poor child!’ Then she kissed me more and more, and clasped me round
+My poor [[Child|child]]!’ Then she kissed me more and more, and clasped me round
 the neck. This she was doing when Peggotty came running in, and bounced
 down on the ground beside us, and went mad about us both for a quarter
 of an hour.
 
 It seemed that I had not been expected so soon, the carrier being much
-before his usual time. It seemed, too, that Mr. and Miss Murdstone had
+before his usual [[Time|time]]. It seemed, too, that Mr. and Miss Murdstone had
 gone out upon a visit in the neighbourhood, and would not return before
-night. I had never hoped for this. I had never thought it possible that
+[[Night|night]]. I had never hoped for this. I had never thought it possible that
 we three could be together undisturbed, once more; and I felt, for the
-time, as if the old days were come back.
+[[Time|time]], as if the old days were come back.
 
 We dined together by the fireside. Peggotty was in attendance to wait
 upon us, but my mother wouldn’t let her do it, and made her dine with
 us. I had my own old plate, with a brown view of a man-of-war in full
-sail upon it, which Peggotty had hoarded somewhere all the time I
+sail upon it, which Peggotty had hoarded somewhere all the [[Time|time]] I
 had been away, and would not have had broken, she said, for a hundred
 pounds. I had my own old mug with David on it, and my own old little
 knife and fork that wouldn’t cut.
@@ -197,7 +197,7 @@ never said a word to me about it. He knows better. If he was to make so
 bold as say a word to me, I should slap his face.’
 
 Her own was as red as ever I saw it, or any other face, I think; but she
-only covered it again, for a few moments at a time, when she was taken
+only covered it again, for a few moments at a [[Time|time]], when she was taken
 with a violent fit of laughter; and after two or three of those attacks,
 went on with her dinner.
 
@@ -225,7 +225,7 @@ perhaps. What should I ever do without you!’
 
 ‘Me leave you, my precious!’ cried Peggotty. ‘Not for all the world and
 his wife. Why, what’s put that in your silly little head?’--For Peggotty
-had been used of old to talk to my mother sometimes like a child.
+had been used of old to talk to my mother sometimes like a [[Child|child]].
 
 But my mother made no answer, except to thank her, and Peggotty went
 running on in her own fashion.
@@ -233,15 +233,15 @@ running on in her own fashion.
 ‘Me leave you? I think I see myself. Peggotty go away from you? I should
 like to catch her at it! No, no, no,’ said Peggotty, shaking her head,
 and folding her arms; ‘not she, my dear. It isn’t that there ain’t some
-Cats that would be well enough pleased if she did, but they sha’n’t be
-pleased. They shall be aggravated. I’ll stay with you till I am a cross
+Cats that would be [[Well|well]] enough pleased if she did, but they sha’n’t be
+pleased. They shall be aggravated. I’ll stay with you till I am a [[Cross|cross]]
 cranky old woman. And when I’m too deaf, and too lame, and too blind,
 and too mumbly for want of teeth, to be of any use at all, even to be
 found fault with, than I shall go to my Davy, and ask him to take me
 in.’
 
 ‘And, Peggotty,’ says I, ‘I shall be glad to see you, and I’ll make you
-as welcome as a queen.’
+as welcome as a [[Queen|queen]].’
 
 ‘Bless your dear heart!’ cried Peggotty. ‘I know you will!’ And she
 kissed me beforehand, in grateful acknowledgement of my hospitality.
@@ -251,20 +251,20 @@ cradle, and nursed it. After that, she cleared the dinner table;
 after that, came in with another cap on, and her work-box, and the
 yard-measure, and the bit of wax-candle, all just the same as ever.
 
-We sat round the fire, and talked delightfully. I told them what a hard
+We sat round the [[Fire|fire]], and talked delightfully. I told them what a hard
 master Mr. Creakle was, and they pitied me very much. I told them what a
 fine fellow Steerforth was, and what a patron of mine, and Peggotty said
 she would walk a score of miles to see him. I took the little baby in
 my arms when it was awake, and nursed it lovingly. When it was asleep
 again, I crept close to my mother’s side according to my old custom,
-broken now a long time, and sat with my arms embracing her waist, and my
+broken now a long [[Time|time]], and sat with my arms embracing her waist, and my
 little red cheek on her shoulder, and once more felt her beautiful
 hair drooping over me--like an angel’s wing as I used to think, I
 recollect--and was very happy indeed.
 
-While I sat thus, looking at the fire, and seeing pictures in the
+While I sat thus, looking at the [[Fire|fire]], and seeing pictures in the
 red-hot coals, I almost believed that I had never been away; that Mr.
-and Miss Murdstone were such pictures, and would vanish when the fire
+and Miss Murdstone were such pictures, and would vanish when the [[Fire|fire]]
 got low; and that there was nothing real in all that I remembered, save
 my mother, Peggotty, and I.
 
@@ -277,12 +277,12 @@ darning can have come from. From my earliest infancy she seems to have
 been always employed in that class of needlework, and never by any
 chance in any other.
 
-‘I wonder,’ said Peggotty, who was sometimes seized with a fit of
+‘I [[Wonder|wonder]],’ said Peggotty, who was sometimes seized with a fit of
 wondering on some most unexpected topic, ‘what’s become of Davy’s
 great-aunt?’ ‘Lor, Peggotty!’ observed my mother, rousing herself from a
 reverie, ‘what nonsense you talk!’
 
-‘Well, but I really do wonder, ma’am,’ said Peggotty.
+‘[[Well]], but I really do [[Wonder|wonder]], ma’am,’ said Peggotty.
 
 ‘What can have put such a person in your head?’ inquired my mother. ‘Is
 there nobody else in the world to come there?’
@@ -290,19 +290,19 @@ there nobody else in the world to come there?’
 ‘I don’t know how it is,’ said Peggotty, ‘unless it’s on account of
 being stupid, but my head never can pick and choose its people. They
 come and they go, and they don’t come and they don’t go, just as they
-like. I wonder what’s become of her?’
+like. I [[Wonder|wonder]] what’s become of her?’
 
 ‘How absurd you are, Peggotty!’ returned my mother. ‘One would suppose
 you wanted a second visit from her.’
 
 ‘Lord forbid!’ cried Peggotty.
 
-‘Well then, don’t talk about such uncomfortable things, there’s a good
-soul,’ said my mother. ‘Miss Betsey is shut up in her cottage by the
-sea, no doubt, and will remain there. At all events, she is not likely
+‘[[Well]] then, don’t talk about such uncomfortable things, there’s a good
+[[Soul|soul]],’ said my mother. ‘Miss Betsey is shut up in her cottage by the
+sea, no [[Doubt|doubt]], and will remain there. At all events, she is not likely
 ever to trouble us again.’
 
-‘No!’ mused Peggotty. ‘No, that ain’t likely at all.---I wonder, if she
+‘No!’ mused Peggotty. ‘No, that ain’t likely at all.---I [[Wonder|wonder]], if she
 was to die, whether she’d leave Davy anything?’
 
 ‘Good gracious me, Peggotty,’ returned my mother, ‘what a nonsensical
@@ -320,7 +320,7 @@ sharply.
 My mother immediately began to cry, and wondered how Peggotty dared to
 say such a thing.
 
-‘As if this poor little innocent in its cradle had ever done any harm to
+‘As if this poor little [[Innocent|innocent]] in its cradle had ever done any harm to
 you or anybody else, you jealous thing!’ said she. ‘You had much better
 go and marry Mr. Barkis, the carrier. Why don’t you?’
 
@@ -331,27 +331,27 @@ are as jealous of Miss Murdstone as it is possible for a ridiculous
 creature to be. You want to keep the keys yourself, and give out all the
 things, I suppose? I shouldn’t be surprised if you did. When you know
 that she only does it out of kindness and the best intentions! You know
-she does, Peggotty--you know it well.’
+she does, Peggotty--you know it [[Well|well]].’
 
 Peggotty muttered something to the effect of ‘Bother the best
 intentions!’ and something else to the effect that there was a little
 too much of the best intentions going on.
 
-‘I know what you mean, you cross thing,’ said my mother. ‘I understand
-you, Peggotty, perfectly. You know I do, and I wonder you don’t colour
-up like fire. But one point at a time. Miss Murdstone is the point now,
+‘I know what you mean, you [[Cross|cross]] thing,’ said my mother. ‘I understand
+you, Peggotty, perfectly. You know I do, and I [[Wonder|wonder]] you don’t colour
+up like [[Fire|fire]]. But one point at a [[Time|time]]. Miss Murdstone is the point now,
 Peggotty, and you sha’n’t escape from it. Haven’t you heard her
 say, over and over again, that she thinks I am too thoughtless and
 too--a--a--’
 
 ‘Pretty,’ suggested Peggotty.
 
-‘Well,’ returned my mother, half laughing, ‘and if she is so silly as to
+‘[[Well]],’ returned my mother, half laughing, ‘and if she is so silly as to
 say so, can I be blamed for it?’
 
 ‘No one says you can,’ said Peggotty.
 
-‘No, I should hope not, indeed!’ returned my mother. ‘Haven’t you heard
+‘No, I should [[Hope|hope]] not, indeed!’ returned my mother. ‘Haven’t you heard
 her say, over and over again, that on this account she wished to spare
 me a great deal of trouble, which she thinks I am not suited for, and
 which I really don’t know myself that I AM suited for; and isn’t she up
@@ -373,35 +373,35 @@ told you just now. That’s the worst of you. You WILL insinuate. I said,
 at the moment, that I understood you, and you see I did. When you talk
 of Mr. Murdstone’s good intentions, and pretend to slight them (for I
 don’t believe you really do, in your heart, Peggotty), you must be as
-well convinced as I am how good they are, and how they actuate him in
+[[Well|well]] convinced as I am how good they are, and how they actuate him in
 everything. If he seems to have been at all stern with a certain person,
 Peggotty--you understand, and so I am sure does Davy, that I am not
 alluding to anybody present--it is solely because he is satisfied that
 it is for a certain person’s benefit. He naturally loves a certain
 person, on my account; and acts solely for a certain person’s good. He
-is better able to judge of it than I am; for I very well know that I am
-a weak, light, girlish creature, and that he is a firm, grave, serious
-man. And he takes,’ said my mother, with the tears which were engendered
-in her affectionate nature, stealing down her face, ‘he takes great
+is better able to judge of it than I am; for I very [[Well|well]] know that I am
+a weak, light, girlish creature, and that he is a firm, [[Grave|grave]], serious
+man. And he takes,’ said my mother, with the [[Tears|tears]] which were engendered
+in her affectionate [[Nature|nature]], stealing down her face, ‘he takes great
 pains with me; and I ought to be very thankful to him, and very
 submissive to him even in my thoughts; and when I am not, Peggotty, I
 worry and condemn myself, and feel doubtful of my own heart, and don’t
 know what to do.’
 
 Peggotty sat with her chin on the foot of the stocking, looking silently
-at the fire.
+at the [[Fire|fire]].
 
 ‘There, Peggotty,’ said my mother, changing her tone, ‘don’t let us fall
 out with one another, for I couldn’t bear it. You are my true friend, I
 know, if I have any in the world. When I call you a ridiculous creature,
 or a vexatious thing, or anything of that sort, Peggotty, I only mean
-that you are my true friend, and always have been, ever since the night
-when Mr. Copperfield first brought me home here, and you came out to the
+that you are my true friend, and always have been, ever since the [[Night|night]]
+when Mr. Copperfield first brought me [[Home|home]] here, and you came out to the
 gate to meet me.’
 
-Peggotty was not slow to respond, and ratify the treaty of friendship by
+Peggotty was not slow to respond, and ratify the treaty of [[Friendship|friendship]] by
 giving me one of her best hugs. I think I had some glimpses of the real
-character of this conversation at the time; but I am sure, now, that
+character of this conversation at the [[Time|time]]; but I am sure, now, that
 the good creature originated it, and took her part in it, merely that
 my mother might comfort herself with the little contradictory summary in
 which she had indulged. The design was efficacious; for I remember that
@@ -412,18 +412,18 @@ When we had had our tea, and the ashes were thrown up, and the candles
 snuffed, I read Peggotty a chapter out of the Crocodile Book, in
 remembrance of old times--she took it out of her pocket: I don’t know
 whether she had kept it there ever since--and then we talked about Salem
-House, which brought me round again to Steerforth, who was my great
+[[house|House]], which brought me round again to Steerforth, who was my great
 subject. We were very happy; and that evening, as the last of its race,
 and destined evermore to close that volume of my life, will never pass
-out of my memory.
+out of my [[Memory|memory]].
 
-It was almost ten o’clock before we heard the sound of wheels. We all
+It was almost ten o’[[Clock|clock]] before we heard the sound of wheels. We all
 got up then; and my mother said hurriedly that, as it was so late, and
 Mr. and Miss Murdstone approved of early hours for young people, perhaps
 I had better go to bed. I kissed her, and went upstairs with my candle
 directly, before they came in. It appeared to my childish fancy, as I
 ascended to the bedroom where I had been imprisoned, that they brought
-a cold blast of air into the house which blew away the old familiar
+a cold blast of air into the [[house]] which blew away the old familiar
 feeling like a feather.
 
 I felt uncomfortable about going down to breakfast in the morning, as
@@ -432,11 +432,11 @@ memorable offence. However, as it must be done, I went down, after two
 or three false starts half-way, and as many runs back on tiptoe to my
 own room, and presented myself in the parlour.
 
-He was standing before the fire with his back to it, while Miss
+He was standing before the [[Fire|fire]] with his back to it, while Miss
 Murdstone made the tea. He looked at me steadily as I entered, but made
 no sign of recognition whatever. I went up to him, after a moment of
 confusion, and said: ‘I beg your pardon, sir. I am very sorry for what I
-did, and I hope you will forgive me.’
+did, and I [[Hope|hope]] you will forgive me.’
 
 ‘I am glad to hear you are sorry, David,’ he replied.
 
@@ -460,7 +460,7 @@ instead of her fingers. ‘How long are the holidays?’
 She kept a calendar of the holidays in this way, and every morning
 checked a day off in exactly the same manner. She did it gloomily until
 she came to ten, but when she got into two figures she became more
-hopeful, and, as the time advanced, even jocular.
+hopeful, and, as the [[Time|time]] advanced, even jocular.
 
 It was on this very first day that I had the misfortune to throw her,
 though she was not subject to such weakness in general, into a state of
@@ -482,11 +482,11 @@ and take it out of my arms. Then, she turned faint; and was so very
 ill that they were obliged to give her cherry brandy. I was solemnly
 interdicted by her, on her recovery, from touching my brother any more
 on any pretence whatever; and my poor mother, who, I could see, wished
-otherwise, meekly confirmed the interdict, by saying: ‘No doubt you are
+otherwise, meekly confirmed the interdict, by saying: ‘No [[Doubt|doubt]] you are
 right, my dear Jane.’
 
 On another occasion, when we three were together, this same dear
-baby--it was truly dear to me, for our mother’s sake--was the innocent
+baby--it was truly dear to me, for our mother’s sake--was the [[Innocent|innocent]]
 occasion of Miss Murdstone’s going into a passion. My mother, who had
 been looking at its eyes as it lay upon her lap, said:
 
@@ -504,14 +504,14 @@ wonderfully alike.’
 of this inquiry, ‘I find that the baby’s eyes and Davy’s are exactly
 alike.’
 
-‘Clara!’ said Miss Murdstone, rising angrily, ‘you are a positive fool
+‘Clara!’ said Miss Murdstone, rising angrily, ‘you are a positive [[Fool|fool]]
 sometimes.’
 
 ‘My dear Jane,’ remonstrated my mother.
 
-‘A positive fool,’ said Miss Murdstone. ‘Who else could compare my
+‘A positive [[Fool|fool]],’ said Miss Murdstone. ‘Who else could compare my
 brother’s baby with your boy? They are not at all alike. They are
-exactly unlike. They are utterly dissimilar in all respects. I hope
+exactly unlike. They are utterly dissimilar in all respects. I [[Hope|hope]]
 they will ever remain so. I will not sit here, and hear such comparisons
 made.’ With that she stalked out, and made the door bang after her.
 
@@ -524,7 +524,7 @@ boorish, and dull.
 I felt that I made them as uncomfortable as they made me. If I came into
 the room where they were, and they were talking together and my mother
 seemed cheerful, an anxious cloud would steal over her face from the
-moment of my entrance. If Mr. Murdstone were in his best humour, I
+moment of my entrance. If Mr. Murdstone were in his best [[Humour|humour]], I
 checked him. If Miss Murdstone were in her worst, I intensified it. I
 had perception enough to know that my mother was the victim always; that
 she was afraid to speak to me or to be kind to me, lest she should
@@ -532,13 +532,13 @@ give them some offence by her manner of doing so, and receive a
 lecture afterwards; that she was not only ceaselessly afraid of her own
 offending, but of my offending, and uneasily watched their looks if I
 only moved. Therefore I resolved to keep myself as much out of their way
-as I could; and many a wintry hour did I hear the church clock strike,
+as I could; and many a wintry hour did I hear the church [[Clock|clock]] strike,
 when I was sitting in my cheerless bedroom, wrapped in my little
 great-coat, poring over a book.
 
 In the evening, sometimes, I went and sat with Peggotty in the kitchen.
 There I was comfortable, and not afraid of being myself. But neither of
-these resources was approved of in the parlour. The tormenting humour
+these resources was approved of in the parlour. The tormenting [[Humour|humour]]
 which was dominant there stopped them both. I was still held to be
 necessary to my poor mother’s training, and, as one of her trials, could
 not be suffered to absent myself.
@@ -566,7 +566,7 @@ Davy?’
 Murdstone, ‘if I could not understand the boy, or any boy. I don’t
 profess to be profound; but I do lay claim to common sense.’
 
-‘No doubt, my dear Jane,’ returned my mother, ‘your understanding is
+‘No [[Doubt|doubt]], my dear Jane,’ returned my mother, ‘your understanding is
 very vigorous--’
 
 ‘Oh dear, no! Pray don’t say that, Clara,’ interposed Miss Murdstone,
@@ -584,7 +584,7 @@ perhaps my brother’s penetration may enable him to have some insight
 into his character. And I believe my brother was speaking on the subject
 when we--not very decently--interrupted him.’
 
-‘I think, Clara,’ said Mr. Murdstone, in a low grave voice, ‘that there
+‘I think, Clara,’ said Mr. Murdstone, in a low [[Grave|grave]] voice, ‘that there
 may be better and more dispassionate judges of such a question than
 you.’
 
@@ -619,7 +619,7 @@ Miss Murdstone gave a hoarse chuckle.
 ‘I will have a respectful, prompt, and ready bearing towards myself,’ he
 continued, ‘and towards Jane Murdstone, and towards your mother. I will
 not have this room shunned as if it were infected, at the pleasure of a
-child. Sit down.’
+[[Child|child]]. Sit down.’
 
 He ordered me like a dog, and I obeyed like a dog.
 
@@ -638,30 +638,30 @@ preferring such company as Mistress Peggotty, and that it is to be
 abandoned. Now, David, you understand me, and you know what will be the
 consequence if you fail to obey me to the letter.’
 
-I knew well--better perhaps than he thought, as far as my poor mother
+I knew [[Well|well]]--better perhaps than he thought, as far as my poor mother
 was concerned--and I obeyed him to the letter. I retreated to my own
 room no more; I took refuge with Peggotty no more; but sat wearily in
-the parlour day after day, looking forward to night, and bedtime.
+the parlour day after day, looking forward to [[Night|night]], and bedtime.
 
 What irksome constraint I underwent, sitting in the same attitude hours
 upon hours, afraid to move an arm or a leg lest Miss Murdstone should
 complain (as she did on the least pretence) of my restlessness, and
 afraid to move an eye lest she should light on some look of dislike
 or scrutiny that would find new cause for complaint in mine! What
-intolerable dulness to sit listening to the ticking of the clock; and
+intolerable dulness to sit listening to the ticking of the [[Clock|clock]]; and
 watching Miss Murdstone’s little shiny steel beads as she strung them;
 and wondering whether she would ever be married, and if so, to what
 sort of unhappy man; and counting the divisions in the moulding of the
 chimney-piece; and wandering away, with my eyes, to the ceiling, among
 the curls and corkscrews in the paper on the wall!
 
-What walks I took alone, down muddy lanes, in the bad winter weather,
+What walks I took [[Alone|alone]], down muddy lanes, in the bad [[Winter|winter]] weather,
 carrying that parlour, and Mr. and Miss Murdstone in it, everywhere: a
 monstrous load that I was obliged to bear, a daymare that there was
 no possibility of breaking in, a weight that brooded on my wits, and
 blunted them!
 
-What meals I had in silence and embarrassment, always feeling that there
+What meals I had in [[Silence|silence]] and embarrassment, always feeling that there
 were a knife and fork too many, and that mine; an appetite too many, and
 that mine; a plate and chair too many, and those mine; a somebody too
 many, and that I!
@@ -670,14 +670,14 @@ What evenings, when the candles came, and I was expected to employ
 myself, but, not daring to read an entertaining book, pored over some
 hard-headed, harder-hearted treatise on arithmetic; when the tables of
 weights and measures set themselves to tunes, as ‘Rule Britannia’, or
-‘Away with Melancholy’; when they wouldn’t stand still to be learnt, but
+‘Away with [[Melancholy]]’; when they wouldn’t stand still to be learnt, but
 would go threading my grandmother’s needle through my unfortunate head,
 in at one ear and out at the other! What yawns and dozes I lapsed into,
 in spite of all my care; what starts I came out of concealed sleeps
 with; what answers I never got, to little observations that I rarely
 made; what a blank space I seemed, which everybody overlooked, and
 yet was in everybody’s way; what a heavy relief it was to hear Miss
-Murdstone hail the first stroke of nine at night, and order me to bed!
+Murdstone hail the first stroke of nine at [[Night|night]], and order me to bed!
 
 Thus the holidays lagged away, until the morning came when Miss
 Murdstone said: ‘Here’s the last day off!’ and gave me the closing cup
@@ -696,11 +696,11 @@ lives in my mind, though it was as fervent as could be, as what followed
 the embrace.
 
 I was in the carrier’s cart when I heard her calling to me. I looked
-out, and she stood at the garden-gate alone, holding her baby up in her
+out, and she stood at the [[Garden|garden]]-gate [[Alone|alone]], holding her baby up in her
 arms for me to see. It was cold still weather; and not a hair of her
 head, nor a fold of her dress, was stirred, as she looked intently at
-me, holding up her child.
+me, holding up her [[Child|child]].
 
-So I lost her. So I saw her afterwards, in my sleep at school--a silent
+So I lost her. So I saw her afterwards, in my [[Sleep|sleep]] at school--a silent
 presence near my bed--looking at me with the same intent face--holding
 up her baby in her arms.

@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 49)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 49)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -34,23 +34,23 @@ candelabra of the ideals of the happy virtues. Sometimes it came over
 
 me, in a wordless wave, that I should like to see a sulky woman. How she
 
-would walk in beauty like the night, and reveal more silent spaces full
+would walk in [[Beauty|beauty]] like the [[Night|night]], and reveal more silent spaces full
 
-of older stars! These things cannot be conveyed in their delicate
+of older [[Stars|stars]]! These things cannot be conveyed in their delicate
 
 proportion even in the most detached description. But the same thing
 
-was in the mind of a white-bearded old man I met in New York, an Irish
+was in the mind of a white-bearded old man I met in [[New York]], an Irish
 
-exile and a wonderful talker, who stared up at the tower of gilded
+[[Exile|exile]] and a wonderful talker, who stared up at the tower of gilded
 
 galleries of the great hotel, and said with that spontaneous movement of
 
 style which is hardly heard except from Irish talkers: 'And I have been
 
-in a village in the mountains where the people could hardly read or
+in a village in the [[Mountains|mountains]] where the people could hardly read or
 
-write; but all the men were like soldiers, and all the women had pride.'
+write; but all the men were like soldiers, and all the women had [[Pride|pride]].'
 
 
 
@@ -60,11 +60,11 @@ the old women can be more beautiful than the young. Indeed, I think Walt
 
 Whitman, the national poet, has a line somewhere almost precisely to
 
-that effect. It sounds like a parody upon Utopia, and the image of the
+that effect. It sounds like a [[Parody|parody]] upon Utopia, and the image of the
 
-lion lying down with the lamb, to say it is a place where a man might
+[[Lion|lion]] lying down with the [[Lamb|lamb]], to say it is a place where a man might
 
-almost fall in love with his mother-in-law. But there is nothing in
+almost fall in [[Love|love]] with his mother-in-law. But there is nothing in
 
 which the finer side of American gravity and good feeling does more
 
@@ -74,7 +74,7 @@ women. It is not a cant phrase to say that they grow old gracefully; for
 
 they do really grow old. In this the national optimism really has in it
 
-the national courage. The old women do not dress like young women; they
+the national [[Courage|courage]]. The old women do not dress like young women; they
 
 only dress better. There is another side to this feminine dignity in the
 
@@ -86,7 +86,7 @@ vision of the beautiful old women suffers a little from that bewildering
 
 multiplicity and recurrence that is indeed the whole theme of Whitman.
 
-It is like the green eternity of Leaves of Grass. When I think of the
+It is like the green [[Eternity|eternity]] of [[Leaves]] of Grass. When I think of the
 
 eccentric spinsters and incorrigible grandmothers of my own country, I
 
@@ -104,19 +104,19 @@ only the inevitable effect of visiting any country in a swift and
 
 superficial fashion; and that the grey and pink cloud is probably an
 
-illusion, like the spinning prairies scattered by the wheel of the
+illusion, like the spinning prairies scattered by the [[Wheel|wheel]] of the
 
 train.
 
 
 
-Anyhow there is enough of this equality, and of a certain social unity
+Anyhow there is enough of this equality, and of a certain social [[unity]]
 
-favourable to sanity, to make the next point about America very much of
+favourable to [[Sanity|sanity]], to make the next point about [[America]] very much of
 
 a puzzle. It seems to me a very real problem, to which I have never seen
 
-an answer even such as I shall attempt here, why a democracy should
+an answer even such as I shall attempt here, why a [[democracy]] should
 
 produce fads; and why, where there is so genuine a sense of human
 
@@ -128,7 +128,7 @@ elsewhere. Prohibition is at least a superstition, and therefore next
 
 door to a religion; it has some imaginable connection with moral
 
-questions, as have slavery or human sacrifice. But those who ask us to
+questions, as have [[Slavery|slavery]] or human sacrifice. But those who ask us to
 
 model ourselves on the States which punish the sin of drink forget that
 
@@ -152,7 +152,7 @@ hanged for writing a post-card.
 
 As for the sort of thing to which I refer, the American newspapers are
 
-full of it and there is no name for it but mere madness. Indeed it is
+full of it and there is no name for it but mere [[Madness|madness]]. Indeed it is
 
 not only mad, but it calls itself mad. To mention but one example out of
 
@@ -172,17 +172,17 @@ say that the modern world is too ridiculous to be ridiculed. You cannot
 
 caricature a caricature. Imagine what a satirist of saner days would
 
-have made of the daily life of a child of six, who was actually admitted
+have made of the daily life of a [[Child|child]] of six, who was actually admitted
 
 to be mad on the subject of his own health. These are not days in which
 
 that great extravaganza could be written; but I dimly see some of its
 
-episodes like uncompleted dreams. I see the child pausing in the middle
+episodes like uncompleted [[Dreams|dreams]]. I see the [[Child|child]] pausing in the middle
 
-of a cart-wheel, or when he has performed three-quarters of a
+of a cart-[[Wheel|wheel]], or when he has performed three-quarters of a
 
-cart-wheel, and consulting a little note-book about the amount of
+cart-[[Wheel|wheel]], and consulting a little note-book about the amount of
 
 exercise per diem. I see him pausing half-way up a tree, or when he has
 
@@ -190,4 +190,4 @@ climbed exactly one-third of a tree; and then producing a clinical
 
 thermometer to take his own temperature. But what would be the good of
 
-imaginative logic to prove the madness of such people, when they
+imaginative [[logic]] to prove the [[Madness|madness]] of such people, when they

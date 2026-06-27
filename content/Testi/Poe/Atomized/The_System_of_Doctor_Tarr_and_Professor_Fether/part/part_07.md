@@ -1,5 +1,5 @@
 ---
-title: "The System of Doctor Tarr and Professor Fether (part 7)"
+title: "[[The System of Doctor Tarr and Professor Fether]] (part 7)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-System-of-Doctor-Tarr-and-Professor-Fether-(Poe)"
@@ -16,9 +16,9 @@ tags:
 
       lunatic—who, by some means, had taken it into his head that he
 
-      had invented a better system of government than any ever heard of
+      had invented a better system of [[government]] than any ever heard of
 
-      before—of lunatic government, I mean. He wished to give his
+      before—of lunatic [[government]], I mean. He wished to give his
 
       invention a trial, I suppose, and so he persuaded the rest of the
 
@@ -32,7 +32,7 @@ tags:
 
 
 
-      “No doubt of it. The keepers and kept were soon made to exchange
+      “No [[Doubt|doubt]] of it. The keepers and kept were soon made to exchange
 
       places. Not that exactly either—for the madmen had been free, but
 
@@ -52,7 +52,7 @@ tags:
 
 
 
-      “There you are out. The head rebel was too cunning for that. He
+      “There you are out. The head [[Rebel|rebel]] was too cunning for that. He
 
       admitted no visitors at all—with the exception, one day, of a
 
@@ -72,7 +72,7 @@ tags:
 
 
 
-      “Oh, a very long time, indeed—a month certainly—how much longer I
+      “Oh, a very long [[Time|time]], indeed—a month certainly—how much longer I
 
       can’t precisely say. In the meantime, the lunatics had a jolly
 
@@ -80,11 +80,11 @@ tags:
 
       clothes, and made free with the family wardrobe and jewels. The
 
-      cellars of the château were well stocked with wine; and these
+      cellars of the château were [[Well|well]] stocked with wine; and these
 
       madmen are just the devils that know how to drink it. They lived
 
-      well, I can tell you.”
+      [[Well|well]], I can tell you.”
 
 
 
@@ -94,7 +94,7 @@ tags:
 
 
 
-      “Why, as for that, a madman is not necessarily a fool, as I have
+      “Why, as for that, a madman is not necessarily a [[Fool|fool]], as I have
 
       already observed; and it is my honest opinion that his treatment
 
@@ -110,7 +110,7 @@ tags:
 
       yells, of the same character as those which had previously
 
-      disconcerted us. This time, however, they seemed to proceed from
+      disconcerted us. This [[Time|time]], however, they seemed to proceed from
 
       persons rapidly approaching.
 
@@ -122,7 +122,7 @@ tags:
 
 
 
-      “I very much fear it is so,” replied Monsieur Maillard, now
+      “I very much [[Fear|fear]] it is so,” replied Monsieur Maillard, now
 
       becoming excessively pale. He had scarcely finished the sentence,
 
@@ -164,7 +164,7 @@ tags:
 
       restrained from leaping there before. As soon as he fairly
 
-      settled himself, he commenced an oration, which, no doubt, was a
+      settled himself, he commenced an oration, which, no [[Doubt|doubt]], was a
 
       very capital one, if it could only have been heard. At the same
 
@@ -172,7 +172,7 @@ tags:
 
       spinning around the apartment, with immense energy, and with arms
 
-      outstretched at right angles with his body; so that he had all
+      outstretched at right angles with his [[Body|body]]; so that he had all
 
       the air of a tee-totum in fact, and knocked everybody down that
 
@@ -184,11 +184,11 @@ tags:
 
       delicate drink during dinner. And then, again, the frog-man
 
-      croaked away as if the salvation of his soul depended upon every
+      croaked away as if the salvation of his [[Soul|soul]] depended upon every
 
       note that he uttered. And, in the midst of all this, the
 
-      continuous braying of a donkey arose over all. As for my old
+      continuous braying of a [[donkey]] arose over all. As for my old
 
       friend, Madame Joyeuse, I really could have wept for the poor
 
@@ -208,7 +208,7 @@ tags:
 
       windows were very speedily, and almost simultaneously, broken in.
 
-      But I shall never forget the emotions of wonder and horror with
+      But I shall never forget the emotions of [[Wonder|wonder]] and horror with
 
       which I gazed, when, leaping through these windows, and down
 
@@ -218,7 +218,7 @@ tags:
 
       chimpanzees, ourang-outangs, or big black baboons of the Cape of
 
-      Good Hope.
+      Good [[Hope]].
 
 
 
@@ -226,11 +226,11 @@ tags:
 
       and lay still. After lying there some fifteen minutes, during
 
-      which time I listened with all my ears to what was going on in
+      which [[Time|time]] I listened with all my ears to what was going on in
 
       the room, I came to same satisfactory _dénouement_ of this
 
-      tragedy. Monsieur Maillard, it appeared, in giving me the account
+      [[Tragedy|tragedy]]. Monsieur Maillard, it appeared, in giving me the account
 
       of the lunatic who had excited his fellows to rebellion, had been
 
@@ -244,7 +244,7 @@ tags:
 
       me. The keepers, ten in number, having been suddenly overpowered,
 
-      were first well tarred, then carefully feathered, and then shut
+      were first [[Well|well]] tarred, then carefully feathered, and then shut
 
       up in underground cells. They had been so imprisoned for more
 
@@ -252,11 +252,11 @@ tags:
 
       generously allowed them not only the tar and feathers (which
 
-      constituted his “system”), but some bread and abundance of water.
+      constituted his “system”), but some bread and abundance of [[Water|water]].
 
       The latter was pumped on them daily. At length, one escaping
 
-      through a sewer, gave freedom to all the rest.
+      through a sewer, gave [[Freedom|freedom]] to all the rest.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Idiot (part 3)"
+title: "ball and [[Cross|cross]] — The Idiot (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -15,9 +15,9 @@ tags:
 
 
 But in all his moods, sane or insane, intolerant or stoical,
-he never really doubted this:  that the machine held him as light
+he never really doubted this:  that the [[Machine|machine]] held him as light
 and as hopelessly as he had from his birth been held by the hopeless
-cosmos of his own creed.  He knew well the ruthless and inexhaustible
+cosmos of his own creed.  He knew [[Well|well]] the ruthless and inexhaustible
 resources of our scientific civilization.  He no more expected rescue
 from a medical certificate than rescue from the solar system.
 In many of his Robinson Crusoe moods he thought kindly of MacIan
@@ -29,18 +29,18 @@ Then he remembered the Beauchamp Tower, and tried to write his
 blazing scepticism on the wall, and discovered that it was all
 shiny tiles on which nothing could be either drawn or carved.
 Then for an instant there hung and broke above him like a high wave
-the whole horror of scientific imprisonment, which manages to deny a man
+the whole horror of scientific [[Imprisonment|imprisonment]], which manages to deny a man
 not only liberty, but every accidental comfort of bondage.  In the old
 filthy dungeons men could carve their prayers or protests in the rock.
 Here the white and slippery walls escaped even from bearing witness.
 The old prisoners could make a pet of a mouse or a beetle strayed
 out of a hole.  Here the unpierceable walls were washed every
 morning by an automatic sluice.  There was no natural corruption
-and no merciful decay by which a living thing could enter in.
-Then James Turnbull looked up and saw the high invincible hatefulness
+and no merciful [[Decay|decay]] by which a living thing could enter in.
+Then [[James Turnbull]] looked up and saw the high invincible hatefulness
 of the society in which he lived, and saw the hatefulness of something
 else also, which he told himself again and again was not the cosmos
-in which he believed.  But all the time he had never once doubted
+in which he believed.  But all the [[Time|time]] he had never once doubted
 that the five sides of his cell were for him the wall of the world
 henceforward, and it gave him a shock of surprise even to discover
 the faint light through the aperture in the ventilation tube.
@@ -50,7 +50,7 @@ together and how easily, therefore, a pipe here or there may leak.
 Turnbull thrust his first finger down the aperture, and at last
 managed to make a slight further fissure in the piping.  The light
 that came up from beyond was very faint, and apparently indirect;
-it seemed to fall from some hole or window higher up.  As he was
+it seemed to fall from some hole or [[Window|window]] higher up.  As he was
 screwing his eye to peer at this grey and greasy twilight he was
 astonished to see another human finger very long and lean come down
 from above towards the broken pipe and hook it up to something higher.
@@ -72,19 +72,19 @@ space just long enough to be painful.  Then he said with his old gaiety:
 I have met for ten million years."
 
 "I know what you mean," answered the other.  "It has been awful.
-For a mortal month I have been alone with God."
+For a mortal month I have been [[Alone|alone]] with God."
 
 Turnbull started, and it was on the tip of his tongue to answer:
-"Alone with God!  Then you do not know what loneliness is."
+"[[Alone]] with God!  Then you do not know what [[Loneliness|loneliness]] is."
 
 But he answered, after all, in his old defiant style:
-"Alone with God, were you?  And I suppose you found his Majesty's
+"[[Alone]] with God, were you?  And I suppose you found his Majesty's
 society rather monotonous?"
 
 "Oh, no," said MacIan, and his voice shuddered; "it was a great
 deal too exciting."
 
-After a very long silence the voice of MacIan said:  "What do you
+After a very long [[Silence|silence]] the voice of MacIan said:  "What do you
 really hate most in your place?"
 
 "You'd think I was really mad if I told you," answered Turnbull, bitterly.
@@ -115,9 +115,9 @@ a long sight funnier."
 "I have found out where A is," said the other.
 
 Three weeks afterwards MacIan had managed to open up communications
-which made his meaning plain.  By that time the two captives
+which made his meaning plain.  By that [[Time|time]] the two captives
 had fully discovered and demonstrated that weakness in the very
-nature of modern machinery to which we have already referred.
+[[Nature|nature]] of modern machinery to which we have already referred.
 The very fact that they were isolated from all companions meant
 that they were free from all spies, and as there were no gaolers
 to be bribed, so there were none to be baffled.  Machinery brought them

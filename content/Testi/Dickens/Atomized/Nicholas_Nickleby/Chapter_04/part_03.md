@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 4 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 4 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -27,7 +27,7 @@ remarkable.
 length.
 
 ‘Just as long as their friends make the quarterly payments to my agent
-in town, or until such time as they run away,’ replied Squeers. ‘Let
+in town, or until such [[Time|time]] as they run away,’ replied Squeers. ‘Let
 us understand each other; I see we may safely do so. What are these
 boys;--natural children?’
 
@@ -55,7 +55,7 @@ was wondering what the devil you were going to send them to Yorkshire
 for. Ha! ha! Oh, I understand now.’
 
 ‘You see I have married the mother,’ pursued Snawley; ‘it’s expensive
-keeping boys at home, and as she has a little money in her own right, I
+keeping boys at [[Home|home]], and as she has a little money in her own right, I
 am afraid (women are so very foolish, Mr. Squeers) that she might be led
 to squander it on them, which would be their ruin, you know.’
 
@@ -64,7 +64,7 @@ waving his hand.
 
 ‘And this,’ resumed Snawley, ‘has made me anxious to put them to some
 school a good distance off, where there are no holidays--none of those
-ill-judged coming home twice a year that unsettle children’s minds
+ill-judged coming [[Home|home]] twice a year that unsettle children’s minds
 so--and where they may rough it a little--you comprehend?’
 
 ‘The payments regular, and no questions asked,’ said Squeers, nodding
@@ -75,17 +75,17 @@ though.’
 
 ‘Strictly,’ said Squeers.
 
-‘Not too much writing home allowed, I suppose?’ said the father-in-law,
+‘Not too much writing [[Home|home]] allowed, I suppose?’ said the father-in-law,
 hesitating.
 
 ‘None, except a circular at Christmas, to say they never were so happy,
-and hope they may never be sent for,’ rejoined Squeers.
+and [[Hope|hope]] they may never be sent for,’ rejoined Squeers.
 
 ‘Nothing could be better,’ said the father-in-law, rubbing his hands.
 
 ‘Then, as we understand each other,’ said Squeers, ‘will you allow me
 to ask you whether you consider me a highly virtuous, exemplary, and
-well-conducted man in private life; and whether, as a person whose
+[[Well|well]]-conducted man in private life; and whether, as a person whose
 business it is to take charge of youth, you place the strongest
 confidence in my unimpeachable integrity, liberality, religious
 principles, and ability?’
@@ -107,20 +107,20 @@ when another voice was heard inquiring for Mr. Squeers.
 
 ‘Here he is,’ replied the schoolmaster; ‘what is it?’
 
-‘Only a matter of business, sir,’ said Ralph Nickleby, presenting
+‘Only a matter of business, sir,’ said [[Ralph Nickleby]], presenting
 himself, closely followed by Nicholas. ‘There was an advertisement of
 yours in the papers this morning?’
 
 ‘There was, sir. This way, if you please,’ said Squeers, who had by this
-time got back to the box by the fire-place. ‘Won’t you be seated?’
+[[Time|time]] got back to the box by the [[Fire|fire]]-place. ‘Won’t you be seated?’
 
 ‘Why, I think I will,’ replied Ralph, suiting the action to the word,
 and placing his hat on the table before him. ‘This is my nephew, sir, Mr
-Nicholas Nickleby.’
+[[Nicholas Nickleby]].’
 
 ‘How do you do, sir?’ said Squeers.
 
-Nicholas bowed, said he was very well, and seemed very much astonished
+Nicholas bowed, said he was very [[Well|well]], and seemed very much astonished
 at the outward appearance of the proprietor of Dotheboys Hall: as indeed
 he was.
 
@@ -137,11 +137,11 @@ for some years, I think, sir,’ replied Squeers.
 ‘--unfortunately died at Dotheboys Hall,’ said Ralph, finishing the
 sentence.
 
-‘I remember very well, sir,’ rejoined Squeers. ‘Ah! Mrs. Squeers, sir,
+‘I remember very [[Well|well]], sir,’ rejoined Squeers. ‘Ah! Mrs. Squeers, sir,
 was as partial to that lad as if he had been her own; the attention,
 sir, that was bestowed upon that boy in his illness! Dry toast and
-warm tea offered him every night and morning when he couldn’t swallow
-anything--a candle in his bedroom on the very night he died--the best
+warm tea offered him every [[Night|night]] and morning when he couldn’t [[Swallow|swallow]]
+anything--a candle in his bedroom on the very [[Night|night]] he died--the best
 dictionary sent up for him to lay his head upon--I don’t regret it
 though. It is a pleasant thing to reflect that one did one’s duty by
 him.’
@@ -149,13 +149,13 @@ him.’
 Ralph smiled, as if he meant anything but smiling, and looked round at
 the strangers present.
 
-‘These are only some pupils of mine,’ said Wackford Squeers, pointing
+‘These are only some pupils of mine,’ said [[Wackford Squeers]], pointing
 to the little boy on the trunk and the two little boys on the floor,
 who had been staring at each other without uttering a word, and writhing
 their bodies into most remarkable contortions, according to the custom
 of little boys when they first become acquainted. ‘This gentleman,
 sir, is a parent who is kind enough to compliment me upon the course
-of education adopted at Dotheboys Hall, which is situated, sir, at the
+of [[Education|education]] adopted at Dotheboys Hall, which is situated, sir, at the
 delightful village of Dotheboys, near Greta Bridge in Yorkshire,
 where youth are boarded, clothed, booked, washed, furnished with
 pocket-money--’

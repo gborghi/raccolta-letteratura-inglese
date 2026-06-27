@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 7)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -30,7 +30,7 @@ words.
 
 
 
-This was the first act of the tragedy, and with it we may leave
+This was the first act of the [[Tragedy|tragedy]], and with it we may leave
 
 Frederick, for we are done with the fellow though not with his work. It
 
@@ -38,7 +38,7 @@ is enough to add that if we call all his after actions satanic, it is
 
 not a term of abuse, but of theology. He was a Tempter. He dragged the
 
-other kings to "partake of the body of Poland," and learn the meaning of
+other kings to "partake of the [[Body|body]] of Poland," and learn the meaning of
 
 the Black Mass. Poland lay prostrate before three giants in armour, and
 
@@ -48,11 +48,11 @@ fine magnanimity, gave lectures on the hereditary maladies of the man
 
 they had murdered. They could not conceive of life in those limbs; and
 
-the time was far off when they should be undeceived. In that day five
+the [[Time|time]] was far off when they should be undeceived. In that day five
 
-nations were to partake not of the body, but of the spirit of Poland;
+nations were to partake not of the [[Body|body]], but of the spirit of Poland;
 
-and the trumpet of the resurrection of the peoples should be blown from
+and the trumpet of the [[Resurrection|resurrection]] of the peoples should be blown from
 
 Warsaw to the western isles.
 
@@ -70,15 +70,15 @@ III--_The Enigma of Waterloo_
 
 That great Englishman Charles Fox, who was as national as Nelson, went
 
-to his death with the firm conviction that England had made Napoleon. He
+to his [[Death|death]] with the firm conviction that England had made Napoleon. He
 
 did not mean, of course, that any other Italian gunner would have done
 
-just as well; but he did mean that by forcing the French back on their
+just as [[Well|well]]; but he did mean that by forcing the French back on their
 
 guns, as it were, we had made their chief gunner necessarily their chief
 
-citizen. Had the French Republic been left alone, it would probably have
+citizen. Had the French Republic been left [[Alone|alone]], it would probably have
 
 followed the example of most other ideal experiments; and praised peace
 
@@ -90,7 +90,7 @@ substitute his personality for the pure impersonality of the Sovereign
 
 People; and would have considered it the very flower of republican
 
-chastity to provide a Brutus for such a Caesar. But if it was
+chastity to provide a [[Brutus]] for such a Caesar. But if it was
 
 undesirable that equality should be threatened by a citizen, it was
 
@@ -104,7 +104,7 @@ to rely on soldiering, she had hampered the best French soldier even on the
 
 ground that he was not French. So that whether we regard Napoleon as a
 
-hero rushing to the country's help, or a tyrant profiting by the
+[[Hero|hero]] rushing to the country's help, or a [[Tyrant|tyrant]] profiting by the
 
 country's extremity, it is equally clear that those who made the war
 
@@ -114,7 +114,7 @@ those who created the Empire. So, at least, Fox argued against that much
 
 less English prig who would have called him unpatriotic; and he threw
 
-the blame upon Pitt's Government for having joined the anti-French
+the blame upon Pitt's [[government|Government]] for having joined the anti-French
 
 alliance, and so tipped up the scale in favour of a military France. But
 
@@ -130,9 +130,9 @@ Napoleon? There is only one possible answer: the Germans. This is the
 
 second act of our drama of the degradation of England to the level of
 
-Germany. And it has this very important development; that Germany means
+[[Germany]]. And it has this very important development; that [[Germany]] means
 
-by this time _all_ the Germans, just as it does to-day. The savagery of
+by this [[Time|time]] _all_ the Germans, just as it does to-day. The savagery of
 
 Prussia and the stupidity of Austria are now combined. Mercilessness and
 
@@ -140,11 +140,11 @@ muddleheadedness are met together; unrighteousness and unreasonableness
 
 have kissed each other; and the tempter and the tempted are agreed. The
 
-great and good Maria Theresa was already old. She had a son who was a
+great and good [[Maria]] Theresa was already old. She had a son who was a
 
 philosopher of the school of Frederick; also a daughter who was more
 
-fortunate, for she was guillotined. It was natural, no doubt, that her
+fortunate, for she was guillotined. It was natural, no [[Doubt|doubt]], that her
 
 brother and relatives should disapprove of the incident; but it occurred
 
@@ -158,7 +158,7 @@ trend of the French emancipation should be reversed. It is impossible to
 
 deny, therefore, that what the united Germanics were resolved to destroy
 
-was the reform and not even the Revolution. The part which Joseph of
+was the [[Reform|reform]] and not even the Revolution. The part which Joseph of
 
 Austria played in the matter is symbolic. For he was what is called an
 
@@ -166,13 +166,13 @@ enlightened despot, which is the worst kind of despot. He was as
 
 irreligious as Frederick the Great, but not so disgusting or amusing.
 
-The old and kindly Austrian family, of which Maria Theresa was the
+The old and kindly Austrian family, of which [[Maria]] Theresa was the
 
 affectionate mother, and Marie Antoinette the rather uneducated
 
 daughter, was already superseded and summed up by a rather dried-up
 
-young man self-schooled to a Prussian efficiency. The needle is already
+young man [[Self|self]]-schooled to a Prussian efficiency. The needle is already
 
 veering northward. Prussia is already beginning to be the captain of the
 

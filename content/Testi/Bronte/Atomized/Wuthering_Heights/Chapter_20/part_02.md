@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 20 (part 2)"
+title: "[[Wuthering Heights]] — Chapter 20 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -18,38 +18,38 @@ He got up and strode to the door: Hareton and Joseph followed in gaping
 curiosity. Poor Linton ran a frightened eye over the faces of the
 three.
 
-“Sure-ly,” said Joseph after a grave inspection, “he’s swopped wi’ ye,
+“Sure-ly,” said Joseph after a [[Grave|grave]] inspection, “he’s swopped wi’ ye,
 Maister, an’ yon’s his lass!”
 
-Heathcliff, having stared his son into an ague of confusion, uttered a
+[[Heathcliff]], having stared his son into an ague of confusion, uttered a
 scornful laugh.
 
-“God! what a beauty! what a lovely, charming thing!” he exclaimed.
+“God! what a [[Beauty|beauty]]! what a lovely, charming thing!” he exclaimed.
 “Hav’n’t they reared it on snails and sour milk, Nelly? Oh, damn my
-soul! but that’s worse than I expected—and the devil knows I was not
+[[Soul|soul]]! but that’s worse than I expected—and the devil knows I was not
 sanguine!”
 
-I bid the trembling and bewildered child get down, and enter. He did
+I bid the trembling and bewildered [[Child|child]] get down, and enter. He did
 not thoroughly comprehend the meaning of his father’s speech, or
 whether it were intended for him: indeed, he was not yet certain that
 the grim, sneering stranger was his father. But he clung to me with
-growing trepidation; and on Mr. Heathcliff’s taking a seat and bidding
+growing trepidation; and on Mr. [[Heathcliff]]’s taking a seat and bidding
 him “come hither” he hid his face on my shoulder and wept.
 
-“Tut, tut!” said Heathcliff, stretching out a hand and dragging him
+“Tut, tut!” said [[Heathcliff]], stretching out a hand and dragging him
 roughly between his knees, and then holding up his head by the chin.
 “None of that nonsense! We’re not going to hurt thee, Linton—isn’t that
-thy name? Thou art thy mother’s child, entirely! Where is _my_ share in
+thy name? Thou art thy mother’s [[Child|child]], entirely! Where is _my_ share in
 thee, puling chicken?”
 
 He took off the boy’s cap and pushed back his thick flaxen curls, felt
 his slender arms and his small fingers; during which examination Linton
 ceased crying, and lifted his great blue eyes to inspect the inspector.
 
-“Do you know me?” asked Heathcliff, having satisfied himself that the
+“Do you know me?” asked [[Heathcliff]], having satisfied himself that the
 limbs were all equally frail and feeble.
 
-“No,” said Linton, with a gaze of vacant fear.
+“No,” said Linton, with a gaze of vacant [[Fear|fear]].
 
 “You’ve heard of me, I daresay?”
 
@@ -59,23 +59,23 @@ limbs were all equally frail and feeble.
 me! You are my son, then, I’ll tell you; and your mother was a wicked
 slut to leave you in ignorance of the sort of father you possessed.
 Now, don’t wince, and colour up! Though it _is_ something to see you
-have not white blood. Be a good lad; and I’ll do for you. Nelly, if you
-be tired you may sit down; if not, get home again. I guess you’ll
+have not white [[Blood|blood]]. Be a good lad; and I’ll do for you. Nelly, if you
+be tired you may sit down; if not, get [[Home|home]] again. I guess you’ll
 report what you hear and see to the cipher at the Grange; and this
 thing won’t be settled while you linger about it.”
 
-“Well,” replied I, “I hope you’ll be kind to the boy, Mr. Heathcliff,
+“[[Well]],” replied I, “I [[Hope|hope]] you’ll be kind to the boy, Mr. [[Heathcliff]],
 or you’ll not keep him long; and he’s all you have akin in the wide
 world, that you will ever know—remember.”
 
-“I’ll be _very_ kind to him, you needn’t fear,” he said, laughing.
+“I’ll be _very_ kind to him, you needn’t [[Fear|fear]],” he said, laughing.
 “Only nobody else must be kind to him: I’m jealous of monopolising his
 affection. And, to begin my kindness, Joseph, bring the lad some
 breakfast. Hareton, you infernal calf, begone to your work. Yes, Nell,”
 he added, when they had departed, “my son is prospective owner of your
 place, and I should not wish him to die till I was certain of being his
 successor. Besides, he’s _mine_, and I want the triumph of seeing _my_
-descendant fairly lord of their estates; my child hiring their children
+descendant fairly lord of their estates; my [[Child|child]] hiring their children
 to till their fathers’ lands for wages. That is the sole consideration
 which can make me endure the whelp: I despise him for himself, and hate
 him for the memories he revives! But that consideration is sufficient:
@@ -87,18 +87,18 @@ ordered Hareton to obey him: and in fact I’ve arranged everything with
 a view to preserve the superior and the gentleman in him, above his
 associates. I do regret, however, that he so little deserves the
 trouble: if I wished any blessing in the world, it was to find him a
-worthy object of pride; and I’m bitterly disappointed with the
+worthy object of [[Pride|pride]]; and I’m bitterly disappointed with the
 whey-faced, whining wretch!”
 
 While he was speaking, Joseph returned bearing a basin of
 milk-porridge, and placed it before Linton: who stirred round the
 homely mess with a look of aversion, and affirmed he could not eat it.
 I saw the old man-servant shared largely in his master’s scorn of the
-child; though he was compelled to retain the sentiment in his heart,
-because Heathcliff plainly meant his underlings to hold him in honour.
+[[Child|child]]; though he was compelled to retain the sentiment in his heart,
+because [[Heathcliff]] plainly meant his underlings to hold him in [[Honour|honour]].
 
 “Cannot ate it?” repeated he, peering in Linton’s face, and subduing
-his voice to a whisper, for fear of being overheard. “But Maister
+his voice to a whisper, for [[Fear|fear]] of being overheard. “But Maister
 Hareton nivir ate naught else, when he wer a little ’un; and what wer
 gooid eneugh for him’s gooid eneugh for ye, I’s rayther think!”
 
@@ -107,7 +107,7 @@ gooid eneugh for him’s gooid eneugh for ye, I’s rayther think!”
 Joseph snatched up the food indignantly, and brought it to us.
 
 “Is there aught ails th’ victuals?” he asked, thrusting the tray under
-Heathcliff’s nose.
+[[Heathcliff]]’s nose.
 
 “What should ail them?” he said.
 
@@ -122,7 +122,7 @@ I suggested boiled milk or tea; and the housekeeper received
 instructions to prepare some. Come, I reflected, his father’s
 selfishness may contribute to his comfort. He perceives his delicate
 constitution, and the necessity of treating him tolerably. I’ll console
-Mr. Edgar by acquainting him with the turn Heathcliff’s humour has
+Mr. [[Edgar]] by acquainting him with the turn [[Heathcliff]]’s [[Humour|humour]] has
 taken. Having no excuse for lingering longer, I slipped out, while
 Linton was engaged in timidly rebuffing the advances of a friendly
 sheep-dog. But he was too much on the alert to be cheated: as I closed

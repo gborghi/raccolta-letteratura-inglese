@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 3 (part 1)"
+title: "[[longbow2]] — Chapter 3 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -22,7 +22,7 @@ The Unobtrusive Traffic of Captain Pierce
 Those acquainted with Colonel Crane and Mr. Owen Hood, the lawyer,
 may or may not be concerned to know that they partook of an early lunch
 of eggs and bacon and beer at the inn called the Blue Boar, which stands
-at the turn of a steep road scaling a wooded ridge in the West Country. 
+at the turn of a steep [[Road|road]] scaling a wooded ridge in the West Country. 
 Those unacquainted with them may be content to know that the Colonel
 was a sunburnt, neatly-dressed gentleman, who looked taciturn and was;
 while the lawyer was a more rusty red-haired gentleman with a long
@@ -32,8 +32,8 @@ inn was better than that of a Soho restaurant and immeasurably
 better than that of a fashionable restaurant.  Hood was fond
 of the legends and less-known aspects of the English country-side;
 and that valley had a quality of repose with a stir of refreshment,
-as if the west wind had been snared in it and tamed into a summer air. 
-Both had a healthy admiration for beauty, in ladies as well
+as if the west [[Wind|wind]] had been snared in it and tamed into a [[Summer|summer]] air. 
+Both had a healthy admiration for [[Beauty|beauty]], in ladies as [[Well|well]]
 as landscapes; although (or more probably because) both were quite
 romantically attached to the wives they had married under rather
 romantic circumstances, which are related elsewhere for such as can
@@ -43,14 +43,14 @@ to look at; she was of a slim and quiet sort with a head that moved
 like a brown bird, brightly and as it were unexpectedly.  Her manners
 were full of unconscious dignity, for her father, old John Hardy,
 was the type of old innkeeper who had the status, if not of a gentleman,
-at least of a yeoman.  He was not without education and ability;
+at least of a yeoman.  He was not without [[Education|education]] and ability;
 a grizzled man with a keen, stubborn face that might have belonged
-to Cobbett, whose _Register_ he still read on winter's nights. 
-Hardy was well known to Hood, who had the same sort of antiquarian
+to Cobbett, whose _Register_ he still read on [[Winter|winter]]'s nights. 
+Hardy was [[Well|well]] known to Hood, who had the same sort of antiquarian
 taste in revolutions.
 
 There was little sound in the valley or the brilliant void of sky;
-the notes of birds fell only intermittently; a faint sound of tapping
+the notes of [[Birds|birds]] fell only intermittently; a faint sound of tapping
 came from the hills opposite where the wooded slope was broken here
 and there by the bare face of a quarry, and a distant aeroplane
 passed and re-passed, leaving a trail of faint thunder.  The two men
@@ -69,7 +69,7 @@ and eggs to boast of.  They ought to be quartered on the Royal Arms:
 three pigs passant and three poached eggs on a chevron.  It was bacon
 and eggs that gave all that morning glory to the English poets;
 it must have been a man who had a breakfast like this who could
-rise with that giant gesture:  `Night's candles are burnt out;
+rise with that giant gesture:  `[[Night]]'s candles are burnt out;
 and jocund day--'"
 
 "Bacon did write Shakespeare, in fact," said the Colonel.
@@ -77,13 +77,13 @@ and jocund day--'"
 "This sort of bacon did," answered the other laughing; then, noticing the girl
 within earshot, he added:  "We are saying how good your bacon is, Miss Hardy."
 
-"It is supposed to be very good," she said with legitimate pride,
+"It is supposed to be very good," she said with legitimate [[Pride|pride]],
 "but I am afraid you won't get much more of it.  People aren't going
 to be allowed to keep pigs much longer."
 
 "Not allowed to keep pigs!" ejaculated the Colonel in astonishment.
 
-"By the old regulations they had to be away from the house,
+"By the old regulations they had to be away from the [[house]],
 and we've got ground enough for that, though most of the cottagers
 hadn't. But now they say the law is evaded, and the county council
 are going to stop pig-keeping altogether."
@@ -103,19 +103,19 @@ in a correct voice, as she unobtrusively withdrew.
 Her tone might have indicated that the gentleman was upstairs, but her
 momentary glance had been towards the blue emptiness of the sky. 
 Long after she was gone, Owen Hood remained staring up into it,
-until he saw the aeroplane darting and wheeling like a swallow.
+until he saw the aeroplane darting and wheeling like a [[Swallow|swallow]].
 
 "Showing off," said the Colonel shortly, and drained his pewter mug.
 
 "But why should he show off to us?" asked Hood.
 
-"He jolly well wouldn't," replied the Colonel.  "Showing off
+"He jolly [[Well|well]] wouldn't," replied the Colonel.  "Showing off
 to the girl, of course."
 
 "A very good girl," said Owen Hood gravely.  "If there's anything
 going on, you may be sure it's all straight and serious."
 
-The Colonel blinked a little.  "Well, times change," he said. 
+The Colonel blinked a little.  "[[Well]], times change," he said. 
 "I suppose I'm old-fashioned myself; but speaking as an old Tory,
 I must confess he might do worse."
 

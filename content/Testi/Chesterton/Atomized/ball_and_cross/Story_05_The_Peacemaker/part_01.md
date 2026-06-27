@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Peacemaker (part 1)"
+title: "ball and [[Cross|cross]] — The Peacemaker (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -18,28 +18,28 @@ V. THE PEACEMAKER
 
 When the combatants, with crossed swords, became suddenly
 conscious of a third party, they each made the same movement.
-It was as quick as the snap of a pistol, and they altered it
+It was as quick as the snap of a [[Pistol|pistol]], and they altered it
 instantaneously and recovered their original pose, but they had both
 made it, they had both seen it, and they both knew what it was.
 It was not a movement of anger at being interrupted.
 Say or think what they would, it was a movement of relief.
 A force within them, and yet quite beyond them, seemed slowly
 and pitilessly washing away the adamant of their oath.
-As mistaken lovers might watch the inevitable sunset of first love,
+As mistaken [[lovers]] might watch the inevitable sunset of first [[Love|love]],
 these men watched the sunset of their first hatred.
 
 Their hearts were growing weaker and weaker against each other.
-When their weapons rang and riposted in the little London garden,
+When their weapons rang and riposted in the little [[London]] [[Garden|garden]],
 they could have been very certain that if a third party had
 interrupted them something at least would have happened.
 They would have killed each other or they would have killed him.
 But now nothing could undo or deny that flash of fact, that for a second
 they had been glad to be interrupted.  Some new and strange thing was
-rising higher and higher in their hearts like a high sea at night.
+rising higher and higher in their hearts like a high sea at [[Night|night]].
 It was something that seemed all the more merciless, because it
-might turn out an enormous mercy.  Was there, perhaps, some such
-fatalism in friendship as all lovers talk about in love?
-Did God make men love each other against their will?
+might turn out an enormous [[Mercy|mercy]].  Was there, perhaps, some such
+fatalism in [[Friendship|friendship]] as all [[lovers]] talk about in [[Love|love]]?
+Did God make men [[Love|love]] each other against their will?
 
 "I'm sure you'll excuse my speaking to you," said the stranger,
 in a voice at once eager and deprecating.
@@ -70,30 +70,30 @@ coming out of so heavy and hearty a type of man was, as I have said,
 startlingly shrill and deferential.
 
 "I'm sure you'll excuse my speaking to you," he said.
-"Now, I wonder if you are in some little difficulty which, after all,
+"Now, I [[Wonder|wonder]] if you are in some little difficulty which, after all,
 we could settle very comfortably together?  Now, you don't mind
 my saying this, do you?"
 
 The face of both combatants remained somewhat solid under this appeal.
-But the stranger, probably taking their silence for a gathering shame,
+But the stranger, probably taking their [[Silence|silence]] for a gathering shame,
 continued with a kind of gaiety:
 
 "So you are the young men I have read about in the papers.
-Well, of course, when one is young, one is rather romantic.
+[[Well]], of course, when one is young, one is rather romantic.
 Do you know what I always say to young people?"
 
-A blank silence followed this gay inquiry.  Then Turnbull said
+A blank [[Silence|silence]] followed this gay inquiry.  Then Turnbull said
 in a colourless voice:
 
 "As I was forty-seven last birthday, I probably came into the world
 too soon for the experience."
 
-"Very good, very good," said the friendly person.  "Dry Scotch humour.
-Dry Scotch humour.  Well now.  I understand that you two people want
+"Very good, very good," said the friendly person.  "Dry Scotch [[Humour|humour]].
+Dry Scotch [[Humour|humour]].  [[Well]] now.  I understand that you two people want
 to fight a duel.  I suppose you aren't much up in the modern world.
-We've quite outgrown duelling, you know.  In fact, Tolstoy tells
+We've quite outgrown duelling, you know.  In fact, [[tolstoy|Tolstoy]] tells
 us that we shall soon outgrow war, which he says is simply a duel
-between nations.  A duel between nations.  But there is no doubt
+between nations.  A duel between nations.  But there is no [[Doubt|doubt]]
 about our having outgrown duelling."
 
 Waiting for some effect upon his wooden auditors, the stranger
@@ -114,19 +114,19 @@ and he assumed a good-humoured gravity.
 "But you know this is a serious matter," he said, eyeing Turnbull
 and MacIan, as if they had just been keeping the table in a roar
 with their frivolities.  "I am sure that if I appealed to your higher
-natures...your higher natures.  Every man has a higher nature
-and a lower nature.  Now, let us put the matter very plainly,
-and without any romantic nonsense about honour or anything of that sort.
+natures...your higher natures.  Every man has a higher [[Nature|nature]]
+and a lower [[Nature|nature]].  Now, let us put the matter very plainly,
+and without any romantic nonsense about [[Honour|honour]] or anything of that sort.
 Is not bloodshed a great sin?"
 
-"No," said MacIan, speaking for the first time.
+"No," said MacIan, speaking for the first [[Time|time]].
 
-"Well, really, really!" said the peacemaker.
+"[[Well]], really, really!" said the peacemaker.
 
 "Murder is a sin," said the immovable Highlander.  "There is no
 sin of bloodshed."
 
-"Well, we won't quarrel about a word," said the other, pleasantly.
+"[[Well]], we won't quarrel about a word," said the other, pleasantly.
 
 "Why on earth not?" said MacIan, with a sudden asperity.
 "Why shouldn't we quarrel about a word?  What is the good

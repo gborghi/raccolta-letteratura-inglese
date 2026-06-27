@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 3 (part 6)"
+title: "Bleak [[house|House]] — Chapter 3 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-Everything was so strange—the stranger from its being night in the
-day-time, the candles burning with a white flame, and looking raw and
+Everything was so strange—the stranger from its being [[Night|night]] in the
+day-[[Time|time]], the candles burning with a white flame, and looking raw and
 cold—that I read the words in the newspaper without knowing what
 they meant and found myself reading the same words repeatedly. As it
 was of no use going on in that way, I put the paper down, took a peep
@@ -24,14 +24,14 @@ room, which was not half lighted, and at the shabby, dusty tables,
 and at the piles of writings, and at a bookcase full of the most
 inexpressive-looking books that ever had anything to say for
 themselves. Then I went on, thinking, thinking, thinking; and the
-fire went on, burning, burning, burning; and the candles went on
+[[Fire|fire]] went on, burning, burning, burning; and the candles went on
 flickering and guttering, and there were no snuffers—until the young
 gentleman by and by brought a very dirty pair—for two hours.
 
 At last Mr. Kenge came. HE was not altered, but he was surprised to
 see how altered I was and appeared quite pleased. “As you are going
 to be the companion of the young lady who is now in the Chancellor’s
-private room, Miss Summerson,” he said, “we thought it well that you
+private room, Miss Summerson,” he said, “we thought it [[Well|well]] that you
 should be in attendance also. You will not be discomposed by the Lord
 Chancellor, I dare say?”
 
@@ -41,13 +41,13 @@ consideration why I should be.
 So Mr. Kenge gave me his arm and we went round the corner, under a
 colonnade, and in at a side door. And so we came, along a passage,
 into a comfortable sort of room where a young lady and a young
-gentleman were standing near a great, loud-roaring fire. A screen was
+gentleman were standing near a great, loud-roaring [[Fire|fire]]. A screen was
 interposed between them and it, and they were leaning on the screen,
 talking.
 
 They both looked up when I came in, and I saw in the young lady, with
-the fire shining upon her, such a beautiful girl! With such rich
-golden hair, such soft blue eyes, and such a bright, innocent,
+the [[Fire|fire]] shining upon her, such a beautiful girl! With such rich
+golden hair, such soft blue eyes, and such a bright, [[Innocent|innocent]],
 trusting face!
 
 “Miss Ada,” said Mr. Kenge, “this is Miss Summerson.”
@@ -55,89 +55,89 @@ trusting face!
 She came to meet me with a smile of welcome and her hand extended,
 but seemed to change her mind in a moment and kissed me. In short,
 she had such a natural, captivating, winning manner that in a few
-minutes we were sitting in the window-seat, with the light of the
-fire upon us, talking together as free and happy as could be.
+minutes we were sitting in the [[Window|window]]-seat, with the light of the
+[[Fire|fire]] upon us, talking together as free and happy as could be.
 
 What a load off my mind! It was so delightful to know that she could
 confide in me and like me! It was so good of her, and so encouraging
 to me!
 
 The young gentleman was her distant cousin, she told me, and his name
-Richard Carstone. He was a handsome youth with an ingenuous face and
+[[Richard Carstone]]. He was a handsome youth with an ingenuous face and
 a most engaging laugh; and after she had called him up to where we
-sat, he stood by us, in the light of the fire, talking gaily, like a
+sat, he stood by us, in the light of the [[Fire|fire]], talking gaily, like a
 light-hearted boy. He was very young, not more than nineteen then, if
 quite so much, but nearly two years older than she was. They were
 both orphans and (what was very unexpected and curious to me) had
 never met before that day. Our all three coming together for the
-first time in such an unusual place was a thing to talk about, and we
-talked about it; and the fire, which had left off roaring, winked its
-red eyes at us—as Richard said—like a drowsy old Chancery lion.
+first [[Time|time]] in such an unusual place was a thing to talk about, and we
+talked about it; and the [[Fire|fire]], which had left off roaring, winked its
+red eyes at us—as [[Richard]] said—like a drowsy old Chancery [[Lion|lion]].
 
 We conversed in a low tone because a full-dressed gentleman in a bag
 wig frequently came in and out, and when he did so, we could hear a
 drawling sound in the distance, which he said was one of the counsel
 in our case addressing the Lord Chancellor. He told Mr. Kenge that
 the Chancellor would be up in five minutes; and presently we heard a
-bustle and a tread of feet, and Mr. Kenge said that the Court had
+bustle and a tread of feet, and Mr. Kenge said that the [[Court]] had
 risen and his lordship was in the next room.
 
 The gentleman in the bag wig opened the door almost directly and
 requested Mr. Kenge to come in. Upon that, we all went into the next
 room, Mr. Kenge first, with my darling—it is so natural to me now
 that I can’t help writing it; and there, plainly dressed in black and
-sitting in an arm-chair at a table near the fire, was his lordship,
+sitting in an arm-chair at a table near the [[Fire|fire]], was his lordship,
 whose robe, trimmed with beautiful gold lace, was thrown upon another
 chair. He gave us a searching look as we entered, but his manner was
 both courtly and kind.
 
 The gentleman in the bag wig laid bundles of papers on his lordship’s
 table, and his lordship silently selected one and turned over the
-leaves.
+[[Leaves|leaves]].
 
-“Miss Clare,” said the Lord Chancellor. “Miss Ada Clare?”
+“Miss Clare,” said the Lord Chancellor. “Miss [[Ada Clare]]?”
 
 Mr. Kenge presented her, and his lordship begged her to sit down near
 him. That he admired her and was interested by her even I could see
-in a moment. It touched me that the home of such a beautiful young
+in a moment. It touched me that the [[Home|home]] of such a beautiful young
 creature should be represented by that dry, official place. The Lord
 High Chancellor, at his best, appeared so poor a substitute for the
-love and pride of parents.
+[[Love|love]] and [[Pride|pride]] of parents.
 
 “The Jarndyce in question,” said the Lord Chancellor, still turning
-over leaves, “is Jarndyce of Bleak House.”
+over [[Leaves|leaves]], “is Jarndyce of Bleak [[house|House]].”
 
-“Jarndyce of Bleak House, my lord,” said Mr. Kenge.
+“Jarndyce of Bleak [[house|House]], my lord,” said Mr. Kenge.
 
 “A dreary name,” said the Lord Chancellor.
 
 “But not a dreary place at present, my lord,” said Mr. Kenge.
 
-“And Bleak House,” said his lordship, “is in—”
+“And Bleak [[house|House]],” said his lordship, “is in—”
 
 “Hertfordshire, my lord.”
 
-“Mr. Jarndyce of Bleak House is not married?” said his lordship.
+“Mr. Jarndyce of Bleak [[house|House]] is not married?” said his lordship.
 
 “He is not, my lord,” said Mr. Kenge.
 
 A pause.
 
-“Young Mr. Richard Carstone is present?” said the Lord Chancellor,
+“Young Mr. [[Richard Carstone]] is present?” said the Lord Chancellor,
 glancing towards him.
 
-Richard bowed and stepped forward.
+[[Richard]] bowed and stepped forward.
 
-“Hum!” said the Lord Chancellor, turning over more leaves.
+“Hum!” said the Lord Chancellor, turning over more [[Leaves|leaves]].
 
-“Mr. Jarndyce of Bleak House, my lord,” Mr. Kenge observed in a low
+“Mr. Jarndyce of Bleak [[house|House]], my lord,” Mr. Kenge observed in a low
 voice, “if I may venture to remind your lordship, provides a suitable
 companion for—”
 
-“For Mr. Richard Carstone?” I thought (but I am not quite sure) I
+“For Mr. [[Richard Carstone]]?” I thought (but I am not quite sure) I
 heard his lordship say in an equally low voice and with a smile.
 
-“For Miss Ada Clare. This is the young lady. Miss Summerson.”
+“For Miss [[Ada Clare]]. This is the young lady. Miss Summerson.”
 
 His lordship gave me an indulgent look and acknowledged my curtsy
 very graciously.
@@ -148,5 +148,5 @@ very graciously.
 
 Mr. Kenge leant over before it was quite said and whispered. His
 lordship, with his eyes upon his papers, listened, nodded twice or
-thrice, turned over more leaves, and did not look towards me again
+thrice, turned over more [[Leaves|leaves]], and did not look towards me again
 until we were going away.

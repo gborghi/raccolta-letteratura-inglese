@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 36: ENTHUSIASM (part 5)"
+title: "[[David Copperfield]] — Chapter 36: ENTHUSIASM (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -24,17 +24,17 @@ means overwhelming. I congratulated Mrs. Micawber on the approaching
 change.
 
 ‘My dear Mr. Copperfield,’ said Mrs. Micawber, ‘of your friendly
-interest in all our affairs, I am well assured. My family may consider
+interest in all our affairs, I am [[Well|well]] assured. My family may consider
 it banishment, if they please; but I am a wife and mother, and I never
-will desert Mr. Micawber.’
+will [[Desert|desert]] Mr. Micawber.’
 
 Traddles, appealed to by Mrs. Micawber’s eye, feelingly acquiesced.
 
 ‘That,’ said Mrs. Micawber, ‘that, at least, is my view, my dear Mr.
 Copperfield and Mr. Traddles, of the obligation which I took upon myself
-when I repeated the irrevocable words, “I, Emma, take thee, Wilkins.” I
-read the service over with a flat-candle on the previous night, and
-the conclusion I derived from it was, that I never could desert Mr.
+when I repeated the irrevocable words, “I, [[Emma]], take thee, Wilkins.” I
+read the service over with a flat-candle on the previous [[Night|night]], and
+the conclusion I derived from it was, that I never could [[Desert|desert]] Mr.
 Micawber. And,’ said Mrs. Micawber, ‘though it is possible I may be
 mistaken in my view of the ceremony, I never will!’
 
@@ -48,17 +48,17 @@ most gentlemanly terms, announcing that fact, have not taken the least
 notice of Mr. Micawber’s communication. Indeed I may be superstitious,’
 said Mrs. Micawber, ‘but it appears to me that Mr. Micawber is destined
 never to receive any answers whatever to the great majority of the
-communications he writes. I may augur, from the silence of my family,
+communications he writes. I may augur, from the [[Silence|silence]] of my family,
 that they object to the resolution I have taken; but I should not allow
 myself to be swerved from the path of duty, Mr. Copperfield, even by my
 papa and mama, were they still living.’
 
 I expressed my opinion that this was going in the right direction. ‘It
-may be a sacrifice,’ said Mrs. Micawber, ‘to immure one’s-self in a
-Cathedral town; but surely, Mr. Copperfield, if it is a sacrifice in me,
+may be a sacrifice,’ said Mrs. Micawber, ‘to immure one’s-[[Self|self]] in a
+[[Cathedral]] town; but surely, Mr. Copperfield, if it is a sacrifice in me,
 it is much more a sacrifice in a man of Mr. Micawber’s abilities.’
 
-‘Oh! You are going to a Cathedral town?’ said I.
+‘Oh! You are going to a [[Cathedral]] town?’ said I.
 
 Mr. Micawber, who had been helping us all, out of the wash-hand-stand
 jug, replied:
@@ -76,11 +76,11 @@ in a great measure conduced to this result. The gauntlet, to which Mrs.
 Micawber referred upon a former occasion, being thrown down in the form
 of an advertisement, was taken up by my friend Heep, and led to a mutual
 recognition. Of my friend Heep,’ said Mr. Micawber, ‘who is a man of
-remarkable shrewdness, I desire to speak with all possible respect.
+remarkable shrewdness, I [[Desire|desire]] to speak with all possible respect.
 My friend Heep has not fixed the positive remuneration at too high a
 figure, but he has made a great deal, in the way of extrication from
 the pressure of pecuniary difficulties, contingent on the value of
-my services; and on the value of those services I pin my faith. Such
+my services; and on the value of those services I pin my [[Faith|faith]]. Such
 address and intelligence as I chance to possess,’ said Mr. Micawber,
 boastfully disparaging himself, with the old genteel air, ‘will be
 devoted to my friend Heep’s service. I have already some acquaintance
@@ -94,7 +94,7 @@ made that evening, were interrupted by Mrs. Micawber’s discovering that
 Master Micawber was sitting on his boots, or holding his head on with
 both arms as if he felt it loose, or accidentally kicking Traddles under
 the table, or shuffling his feet over one another, or producing them
-at distances from himself apparently outrageous to nature, or lying
+at distances from himself apparently outrageous to [[Nature|nature]], or lying
 sideways with his hair among the wine-glasses, or developing his
 restlessness of limb in some other form incompatible with the general
 interests of society; and by Master Micawber’s receiving those
@@ -114,7 +114,7 @@ the pale of those preferments by entering on such an office as Mr.
 Micawber has accepted?’
 
 ‘My dear,’ observed Mr. Micawber--but glancing inquisitively at
-Traddles, too; ‘we have time enough before us, for the consideration of
+Traddles, too; ‘we have [[Time|time]] enough before us, for the consideration of
 those questions.’
 
 ‘Micawber,’ she returned, ‘no! Your mistake in life is, that you do not

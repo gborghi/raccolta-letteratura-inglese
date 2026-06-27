@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 8 (part 4)"
+title: "[[thursday]] — Chapter 8 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -33,9 +33,9 @@ all that up in Pinckwerts; the notion that involution functioned
 eugenically was exposed long ago by Glumpe.'  It is unnecessary
 for me to say that there never were such people as Pinckwerts
 and Glumpe.  But the people all round (rather to my surprise)
-seemed to remember them quite well, and the Professor,
+seemed to remember them quite [[Well|well]], and [[The Professor|the Professor]],
 finding that the learned and mysterious method left him rather
-at the mercy of an enemy slightly deficient in scruples,
+at the [[Mercy|mercy]] of an enemy slightly deficient in scruples,
 fell back upon a more popular form of wit.  'I see,' he sneered,
 'you prevail like the false pig in Aesop.'  'And you fail,'
 I answered, smiling, 'like the hedgehog in Montaigne.'  Need I
@@ -50,8 +50,8 @@ He is now, I believe, received everywhere in Europe as a
 delightful impostor.  His apparent earnestness and anger,
 you see, make him all the more entertaining."
 
-"Well," said Syme, "I can understand your putting on his dirty
-old beard for a night's practical joke, but I don't understand
+"[[Well]]," said Syme, "I can understand your putting on his dirty
+old beard for a [[Night|night]]'s practical joke, but I don't understand
 your never taking it off again."
 
 "That is the rest of the story," said the impersonator.
@@ -60,7 +60,7 @@ I went limping down the dark street, hoping that I should soon
 be far enough away to be able to walk like a human being.
 To my astonishment, as I was turning the corner, I felt
 a touch on the shoulder, and turning, found myself under
-the shadow of an enormous policeman.  He told me I was wanted.
+the [[Shadow|shadow]] of an enormous policeman.  He told me I was wanted.
 I struck a sort of paralytic attitude, and cried in a high
 German accent, 'Yes, I am wanted--by the oppressed of the world.
 You are arresting me on the charge of being the great anarchist,
@@ -76,7 +76,7 @@ campaign had been opened against the centres of anarchy,
 and that this, my successful masquerade, might be of considerable
 value to the public safety.  He offered me a good salary
 and this little blue card.  Though our conversation was short,
-he struck me as a man of very massive common sense and humour;
+he struck me as a man of very massive common sense and [[Humour|humour]];
 but I cannot tell you much about him personally, because--"
 
 Syme laid down his knife and fork.

@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 11 (part 5)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 11 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -29,7 +29,7 @@ accuse him of having been asleep.
 
 “I follow you, sir,” said Bazzard, “and I have been following you.”
 
-“In discharge of a trust, I have handed Mr. Edwin Drood a ring of
+“In discharge of a trust, I have handed Mr. [[Edwin Drood]] a ring of
 diamonds and rubies. You see?”
 
 Edwin reproduced the little case, and opened it; and Bazzard looked
@@ -38,16 +38,16 @@ into it.
 “I follow you both, sir,” returned Bazzard, “and I witness the
 transaction.”
 
-Evidently anxious to get away and be alone, Edwin Drood now resumed his
-outer clothing, muttering something about time and appointments. The
+Evidently anxious to get away and be [[Alone|alone]], [[Edwin Drood]] now resumed his
+outer clothing, muttering something about [[Time|time]] and appointments. The
 fog was reported no clearer (by the flying waiter, who alighted from a
 speculative flight in the coffee interest), but he went out into it;
 and Bazzard, after his manner, “followed” him.
 
-Mr. Grewgious, left alone, walked softly and slowly to and fro, for an
-hour and more. He was restless to-night, and seemed dispirited.
+Mr. Grewgious, left [[Alone|alone]], walked softly and slowly to and fro, for an
+hour and more. He was restless to-[[Night|night]], and seemed dispirited.
 
-“I hope I have done right,” he said. “The appeal to him seemed
+“I [[Hope|hope]] I have done right,” he said. “The appeal to him seemed
 necessary. It was hard to lose the ring, and yet it must have gone from
 me very soon.”
 
@@ -55,24 +55,24 @@ He closed the empty little drawer with a sigh, and shut and locked the
 escritoire, and came back to the solitary fireside.
 
 “Her ring,” he went on. “Will it come back to me? My mind hangs about
-her ring very uneasily to-night. But that is explainable. I have had it
-so long, and I have prized it so much! I wonder—”
+her ring very uneasily to-[[Night|night]]. But that is explainable. I have had it
+so long, and I have prized it so much! I [[Wonder|wonder]]—”
 
-He was in a wondering mood as well as a restless; for, though he
+He was in a wondering mood as [[Well|well]] as a restless; for, though he
 checked himself at that point, and took another walk, he resumed his
 wondering when he sat down again.
 
-“I wonder (for the ten-thousandth time, and what a weak fool I, for
+“I [[Wonder|wonder]] (for the ten-thousandth [[Time|time]], and what a weak [[Fool|fool]] I, for
 what can it signify now!) whether he confided the charge of their
-orphan child to me, because he knew—Good God, how like her mother she
+[[Orphan|orphan]] [[Child|child]] to me, because he knew—Good God, how like her mother she
 has become!”
 
-“I wonder whether he ever so much as suspected that some one doted on
+“I [[Wonder|wonder]] whether he ever so much as suspected that some one doted on
 her, at a hopeless, speechless distance, when he struck in and won her.
-I wonder whether it ever crept into his mind who that unfortunate some
+I [[Wonder|wonder]] whether it ever crept into his mind who that unfortunate some
 one was!”
 
-“I wonder whether I shall sleep to-night! At all events, I will shut
+“I [[Wonder|wonder]] whether I shall [[Sleep|sleep]] to-[[Night|night]]! At all events, I will shut
 out the world with the bedclothes, and try.”
 
 Mr. Grewgious crossed the staircase to his raw and foggy bedroom, and

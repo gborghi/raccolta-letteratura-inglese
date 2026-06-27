@@ -39,7 +39,7 @@ that there does not seem to be a principle, but only principles,
 and these conflicting principles, of Progress.
 There is not a stream, but a sort of eddy or whirlpool.
 There could not be a stronger case than this particular ideal
-of Independence.  It is not made the principle of social reform.
+of Independence.  It is not made the principle of social [[Reform|reform]].
 Even the social reformers would be the first to say that they
 depend on dependence; on the mutual dependence of comrades
 and fellow-citizens, as distinct from the individualistic
@@ -48,18 +48,18 @@ It is not made the ideal of the proletarian or wage-earner,
 either by the Communist or the Capitalist system.
 Both the Communist and the Capitalist are alike in _not_
 thinking of the individual worker as independent.
-They will discuss whether he is well paid, whether he is
-well treated, whether he works under good or bad conditions,
+They will discuss whether he is [[Well|well]] paid, whether he is
+[[Well|well]] treated, whether he works under good or bad conditions,
 whether he is dependent on a good or bad business or a good
-or bad government; but _not_ whether he is independent.
+or bad [[government]]; but _not_ whether he is independent.
 Independence is not made the ideal of the normal man.
 It is only suddenly and abruptly introduced, in one
 particular relation, in the case of the exceptional woman.
 She is only independent of her husband; not independent
 in any other real relation of life.  She is only independent
-of the home--and not of the workshop or the world.
+of the [[Home|home]]--and not of the workshop or the world.
 And it is supremely characteristic of this confusion that one
-well-meaning individual should make a yet finer distinction,
+[[Well|well]]-meaning individual should make a yet finer distinction,
 and resolve to be independent in the dressing-room, but not
 in the dining-room.
 
@@ -70,7 +70,7 @@ In one case somebody will make an excuse of the ideal of Service,
 even if it means servility.  In another case somebody will
 make an excuse of the ideal of Individuality, even if it
 means insanity.  People will make attempts at despotism,
-or demands for freedom, successively or even simultaneously,
+or demands for [[Freedom|freedom]], successively or even simultaneously,
 according to a quite arbitrary program of opportunism.
 And we feel that they are not submitting a variety of actions
 to one test; they are applying a variety of tests to one action,
@@ -82,19 +82,19 @@ that prevents a man from finding in it any sort of guide,
 even a guide to progress.  Thus, in the present case, we could
 at least settle down to discussing seriously the Independence
 of Woman, if it were regarded by anybody as part of a real
-philosophy of the Independence of Man.  What we find,
+[[philosophy]] of the Independence of Man.  What we find,
 as in the case mentioned, is that one woman has made one claim
 to one curious and rather capricious form of independence.
 She is independent of the breadwinner, but not of the bank
 or the employer--not to mention the moneylender.
 
-Thus, to begin with, it would be well to note what economic
+Thus, to begin with, it would be [[Well|well]] to note what economic
 independence means:  as distinct, that is, from what it ought to mean.
 It might mean that the lady went out into a primeval forest to slay
-lions and leopards and clothe herself with their skins, like Diana.
-It might mean that she sewed together the leaves of the forest and made
+lions and leopards and clothe herself with their skins, like [[Diana]].
+It might mean that she sewed together the [[Leaves|leaves]] of the forest and made
 herself a green garment, like Eve.  It might mean that she held
-herself independent in owning her own spinning-wheel and her own store
+herself independent in owning her own spinning-[[Wheel|wheel]] and her own store
 of thread, and weaving strips of simple drapery, like Mr. Gandhi.
 In a word, she might be really independent of the dress allowance,
 in the sense of being independent of the dressmaker.  It is not
@@ -104,8 +104,8 @@ It is the fact that modern woman, in the condition of modern society,
 will herself have to work, if not for a dressmaker, then probably
 for somebody else who is primarily the money-maker. And the question is,
 why is it any better to be a proletarian in the shop than to be a
-Communist in the home?  For the only truly and legitimately Communist
-institution is the home.  "With all my worldly goods I thee endow"
+Communist in the [[Home|home]]?  For the only truly and legitimately Communist
+institution is the [[Home|home]].  "With all my worldly goods I thee endow"
 is the only satisfactory Bolshevist proclamation that has ever
 been made about property.  It is, therefore, of course, the one
 proclamation which Bolshevists would be the first to attack.
@@ -130,7 +130,7 @@ The whole of the rest of the world in which she lives, whether for
 good or evil, is one network of necessitarian dependence.
 People have left off even talking the language of independence;
 the old language about the thrift that leads to independence
-or the self-respect that comes from independence.
+or the [[Self|self]]-respect that comes from independence.
 Anybody may find himself almost abjectly dependent upon anybody;
 any woman may do the same.  And apparently it does not matter, so long
 as it is not her own husband and not concerned with her own hats.
@@ -140,7 +140,7 @@ of a social structure, and of the necessary commandments of society.
 The newspapers talk about the danger of Bolshevism, and the Red Peril.
 But I am afraid of the Patchwork Peril, which is all colours
 and none; I am afraid of bits of Bolshevism and bits of insane
-individualism and bits of independence in the wrong place,
+[[Individualism|individualism]] and bits of independence in the wrong place,
 floating hither and thither and colliding with they know not what;
 the icebergs whose very shapelessness, or incalculable shape,
 has always been the cause of shipwreck.

@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 17 (part 1)"
+title: "[[Persuasion]] — Chapter 17 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -32,21 +32,21 @@ She had called on her former governess, and had heard from her of there
 
 being an old schoolfellow in Bath, who had the two strong claims on
 
-her attention of past kindness and present suffering. Miss Hamilton,
+her attention of past kindness and present [[Suffering|suffering]]. Miss Hamilton,
 
-now Mrs Smith, had shewn her kindness in one of those periods of her
+now Mrs [[smith|Smith]], had shewn her kindness in one of those periods of her
 
 life when it had been most valuable. Anne had gone unhappy to school,
 
 grieving for the loss of a mother whom she had dearly loved, feeling
 
-her separation from home, and suffering as a girl of fourteen, of
+her separation from [[Home|home]], and [[Suffering|suffering]] as a girl of fourteen, of
 
-strong sensibility and not high spirits, must suffer at such a time;
+strong sensibility and not high spirits, must suffer at such a [[Time|time]];
 
 and Miss Hamilton, three years older than herself, but still from the
 
-want of near relations and a settled home, remaining another year at
+want of near relations and a settled [[Home|home]], remaining another year at
 
 school, had been useful and good to her in a way which had considerably
 
@@ -66,7 +66,7 @@ situation forward in a more decided but very different form.
 
 She was a widow and poor. Her husband had been extravagant; and at his
 
-death, about two years before, had left his affairs dreadfully
+[[Death|death]], about two years before, had left his affairs dreadfully
 
 involved. She had had difficulties of every sort to contend with, and
 
@@ -86,15 +86,15 @@ excluded from society.
 
 Their mutual friend answered for the satisfaction which a visit from
 
-Miss Elliot would give Mrs Smith, and Anne therefore lost no time in
+Miss Elliot would give Mrs [[smith|Smith]], and Anne therefore lost no [[Time|time]] in
 
 going. She mentioned nothing of what she had heard, or what she
 
-intended, at home. It would excite no proper interest there. She only
+intended, at [[Home|home]]. It would excite no proper interest there. She only
 
-consulted Lady Russell, who entered thoroughly into her sentiments, and
+consulted [[Lady Russell]], who entered thoroughly into her sentiments, and
 
-was most happy to convey her as near to Mrs Smith’s lodgings in
+was most happy to convey her as near to Mrs [[smith|Smith]]’s lodgings in
 
 Westgate Buildings, as Anne chose to be taken.
 
@@ -112,11 +112,11 @@ other had imagined. Twelve years had changed Anne from the blooming,
 
 silent, unformed girl of fifteen, to the elegant little woman of
 
-seven-and-twenty, with every beauty except bloom, and with manners as
+seven-and-twenty, with every [[Beauty|beauty]] except bloom, and with manners as
 
 consciously right as they were invariably gentle; and twelve years had
 
-transformed the fine-looking, well-grown Miss Hamilton, in all the glow
+transformed the fine-looking, [[Well|well]]-grown Miss Hamilton, in all the glow
 
 of health and confidence of superiority, into a poor, infirm, helpless
 
@@ -130,7 +130,7 @@ talking over old times.
 
 
 
-Anne found in Mrs Smith the good sense and agreeable manners which she
+Anne found in Mrs [[smith|Smith]] the good sense and agreeable manners which she
 
 had almost ventured to depend on, and a disposition to converse and be
 
@@ -148,11 +148,11 @@ In the course of a second visit she talked with great openness, and
 
 Anne’s astonishment increased. She could scarcely imagine a more
 
-cheerless situation in itself than Mrs Smith’s. She had been very fond
+cheerless situation in itself than Mrs [[smith|Smith]]’s. She had been very fond
 
 of her husband: she had buried him. She had been used to affluence: it
 
-was gone. She had no child to connect her with life and happiness
+was gone. She had no [[Child|child]] to connect her with life and happiness
 
 again, no relations to assist in the arrangement of perplexed affairs,
 
@@ -162,9 +162,9 @@ limited to a noisy parlour, and a dark bedroom behind, with no
 
 possibility of moving from one to the other without assistance, which
 
-there was only one servant in the house to afford, and she never
+there was only one servant in the [[house]] to afford, and she never
 
-quitted the house but to be conveyed into the warm bath. Yet, in spite
+quitted the [[house]] but to be conveyed into the warm bath. Yet, in spite
 
 of all this, Anne had reason to believe that she had moments only of
 
@@ -172,7 +172,7 @@ languor and depression, to hours of occupation and enjoyment. How could
 
 it be? She watched, observed, reflected, and finally determined that
 
-this was not a case of fortitude or of resignation only. A submissive
+this was not a case of fortitude or of [[Resignation|resignation]] only. A submissive
 
 spirit might be patient, a strong understanding would supply
 
@@ -182,7 +182,7 @@ mind, that disposition to be comforted, that power of turning readily
 
 from evil to good, and of finding employment which carried her out of
 
-herself, which was from nature alone. It was the choicest gift of
+herself, which was from [[Nature|nature]] [[Alone|alone]]. It was the choicest gift of
 
 Heaven; and Anne viewed her friend as one of those instances in which,
 
@@ -192,19 +192,19 @@ every other want.
 
 
 
-There had been a time, Mrs Smith told her, when her spirits had nearly
+There had been a [[Time|time]], Mrs [[smith|Smith]] told her, when her spirits had nearly
 
 failed. She could not call herself an invalid now, compared with her
 
 state on first reaching Bath. Then she had, indeed, been a pitiable
 
-object; for she had caught cold on the journey, and had hardly taken
+object; for she had caught cold on the [[Journey|journey]], and had hardly taken
 
 possession of her lodgings before she was again confined to her bed and
 
-suffering under severe and constant pain; and all this among strangers,
+[[Suffering|suffering]] under severe and constant [[Pain|pain]]; and all this among strangers,
 
-with the absolute necessity of having a regular nurse, and finances at
+with the absolute necessity of having a regular [[Nurse|nurse]], and finances at
 
 that moment particularly unfit to meet any extraordinary expense. She
 

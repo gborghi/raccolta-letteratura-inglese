@@ -1,5 +1,5 @@
 ---
-title: "history — Chapter 6 (part 2)"
+title: "[[history]] — Chapter 6 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/history-(Chesterton)"
@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-It was an element in this sublime and yet sinister simplicity
-of Islam that it knew no boundaries.  Its very home was homeless.
+It was an element in this [[Sublime|sublime]] and yet sinister simplicity
+of [[Islam]] that it knew no boundaries.  Its very [[Home|home]] was homeless.
 For it was born in a sandy waste among nomads, and it went
 everywhere because it came from nowhere.  But in the Saracens
-of the early Middle Ages this nomadic quality in Islam
+of the early Middle Ages this nomadic quality in [[Islam]]
 was masked by a high civilization, more scientific if less
 creatively artistic than that of contemporary Christendom.
 The Moslem monotheism was, or appeared to be, the more
 rationalist religion of the two.  This rootless refinement
 was characteristically advanced in abstract things, of which
-a memory remains in the very name of algebra.  In comparison
+a [[Memory|memory]] remains in the very name of algebra.  In comparison
 the Christian civilization was still largely instinctive,
 but its instincts were very strong and very much the other way.
 It was full of local affections, which found form in
@@ -44,7 +44,7 @@ not a whole; its charter for it came from something else.
 There is a joke about a Benedictine monk who used the common
 grace of Benedictus benedicat, whereupon the unlettered
 Franciscan triumphantly retorted Franciscus Franciscat.
-It is something of a parable of mediaeval history; for if there
+It is something of a [[Parable|parable]] of mediaeval [[history]]; for if there
 were a verb Franciscare it would be an approximate description
 of what St. Francis afterwards did.  But that more individual
 mysticism was only approaching its birth, and Benedictus benedicat
@@ -52,14 +52,14 @@ is very precisely the motto of the earliest mediaevalism.
 I mean that everything is blessed from beyond, by something
 which has in its turn been blessed from beyond again;
 only the blessed bless.  But the point which is the clue
-to the Crusades is this:  that for them the beyond was not
+to the [[Crusades]] is this:  that for them the beyond was not
 the infinite, as in a modern religion.  Every beyond was a place.
 The mystery of locality, with all its hold on the human heart,
 was as much present in the most ethereal things of Christendom
-as it was absent from the most practical things of Islam.
-England would derive a thing from France, France from Italy, Italy
+as it was absent from the most practical things of [[Islam]].
+England would derive a thing from France, France from [[Italy]], [[Italy]]
 from Greece, Greece from Palestine, Palestine from Paradise.
-It was not merely that a yeoman of Kent would have his house
+It was not merely that a yeoman of [[Kent]] would have his [[house]]
 hallowed by the priest of the parish church, which was
 confirmed by Canterbury, which was confirmed by Rome.
 Rome herself did not worship herself, as in the pagan age.
@@ -73,7 +73,7 @@ were the same.
 It has been necessary thus to pause upon the inner emotions of
 the Crusade, because the modern English reader is widely cut off
 from these particular feelings of his fathers; and the real quarrel
-of Christendom and Islam, the fire-baptism of the young nations,
+of Christendom and [[Islam]], the [[Fire|fire]]-baptism of the young nations,
 could not otherwise be seized in its unique character.
 It was nothing so simple as a quarrel between two men who both
 wanted Jerusalem.  It was the much deadlier quarrel between one man
@@ -103,29 +103,29 @@ as an impersonal glamour, certainly stimulated the Western mind,
 but stimulated it rather to break the Moslem commandment than to keep it.
 It was as if the Christian were impelled, like a caricaturist,
 to cover all that faceless ornament with faces; to give heads to all
-those headless serpents and birds to all those lifeless trees.
+those headless serpents and [[Birds|birds]] to all those lifeless trees.
 Statuary quickened and came to life under the veto of the enemy
 as under a benediction.  The image, merely because it was called
 an idol, became not only an ensign but a weapon.  A hundredfold host
 of stone sprang up all over the shrines and streets of Europe.
 The Iconoclasts made more statues than they destroyed.
 
-The place of Coeur de Lion in popular fable and gossip is far
-more like his place in true history than the place of the mere
+The place of Coeur de [[Lion]] in popular [[Fable|fable]] and gossip is far
+more like his place in true [[history]] than the place of the mere
 denationalized ne'er-do-weel given him in our utilitarian school books.
 Indeed the vulgar rumour is nearly always much nearer the historical
-truth than the "educated" opinion of to-day; for tradition
-is truer than fashion.  King Richard, as the typical Crusader,
+[[Truth|truth]] than the "educated" opinion of to-day; for tradition
+is truer than fashion.  [[King]] [[Richard]], as the typical Crusader,
 did make a momentous difference to England by gaining glory
 in the East, instead of devoting himself conscientiously
-to domestic politics in the exemplary manner of King John.
+to domestic politics in the exemplary manner of [[King John]].
 The accident of his military genius and prestige gave
 England something which it kept for four hundred years,
 and without which it is incomprehensible throughout that period--
 the reputation of being in the very vanguard of chivalry.
 The great romances of the Round Table, the attachment of
-knighthood to the name of a British king, belong to this period.
-Richard was not only a knight but a troubadour; and culture
+knighthood to the name of a British [[King|king]], belong to this period.
+[[Richard]] was not only a knight but a troubadour; and culture
 and courtesy were linked up with the idea of English valour.
 The mediaeval Englishman was even proud of being polite;
 which is at least no worse than being proud of money and bad manners,

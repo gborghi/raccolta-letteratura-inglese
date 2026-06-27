@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 44"
+title: "[[Sense and Sensibility]] — Chapter 44"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -42,7 +42,7 @@ stay.”
 
 business cannot be with _me_. The servants, I suppose, forgot to tell
 
-you that Mr. Palmer was not in the house.”
+you that Mr. Palmer was not in the [[house]].”
 
 
 
@@ -54,7 +54,7 @@ door. My business is with you, and only you.”
 
 
 
-“With me!”—in the utmost amazement—“well, sir,—be quick—and if you
+“With me!”—in the utmost amazement—“[[Well|well]], sir,—be quick—and if you
 
 can—less violent.”
 
@@ -82,7 +82,7 @@ either.
 
 
 
-“Pray be quick, sir,”—said Elinor, impatiently;—“I have no time to
+“Pray be quick, sir,”—said Elinor, impatiently;—“I have no [[Time|time]] to
 
 spare.”
 
@@ -112,11 +112,11 @@ eagerness.
 
 
 
-“We hope she is.”
+“We [[Hope|hope]] she is.”
 
 
 
-He rose up, and walked across the room.
+He [[Rose|rose]] up, and walked across the room.
 
 
 
@@ -124,13 +124,13 @@ He rose up, and walked across the room.
 
 with a forced vivacity as he returned to his seat,—“what does it
 
-signify? For once, Miss Dashwood—it will be the last time, perhaps—let
+signify? For once, Miss Dashwood—it will be the last [[Time|time]], perhaps—let
 
 us be cheerful together. I am in a fine mood for gaiety. Tell me
 
 honestly” a deeper glow overspreading his cheeks, “do you think me most
 
-a knave or a fool?”
+a knave or a [[Fool|fool]]?”
 
 
 
@@ -140,7 +140,7 @@ think that he must be in liquor;—the strangeness of such a visit, and
 
 of such manners, seemed no otherwise intelligible; and with this
 
-impression she immediately rose, saying,
+impression she immediately [[Rose|rose]], saying,
 
 
 
@@ -166,9 +166,9 @@ what he would be at.
 
 
 
-“Yes,—I left London this morning at eight o’clock, and the only ten
+“Yes,—I left [[London]] this morning at eight o’[[Clock|clock]], and the only ten
 
-minutes I have spent out of my chaise since that time procured me a
+minutes I have spent out of my chaise since that [[Time|time]] procured me a
 
 nuncheon at Marlborough.”
 
@@ -204,7 +204,7 @@ to you, and by convincing you, that though I have been always a
 
 blockhead, I have not been always a rascal, to obtain something like
 
-forgiveness from Ma— from your sister.”
+[[Forgiveness|forgiveness]] from Ma— from your sister.”
 
 
 
@@ -212,7 +212,7 @@ forgiveness from Ma— from your sister.”
 
 
 
-“Upon my soul it is,”—was his answer, with a warmth which brought all
+“Upon my [[Soul|soul]] it is,”—was his answer, with a warmth which brought all
 
 the former Willoughby to her remembrance, and in spite of herself made
 
@@ -250,7 +250,7 @@ worth the trial however, and you shall hear every thing. When I first
 
 became intimate in your family, I had no other intention, no other view
 
-in the acquaintance than to pass my time pleasantly while I was obliged
+in the acquaintance than to pass my [[Time|time]] pleasantly while I was obliged
 
 to remain in Devonshire, more pleasantly than I had ever done before.
 
@@ -262,7 +262,7 @@ kind—it is astonishing, when I reflect on what it was, and what _she_
 
 was, that my heart should have been so insensible! But at first I must
 
-confess, my vanity only was elevated by it. Careless of her happiness,
+confess, my [[Vanity|vanity]] only was elevated by it. Careless of her happiness,
 
 thinking only of my own amusement, giving way to feelings which I had
 
@@ -298,11 +298,11 @@ associating with people of better income than myself. Every year since
 
 my coming of age, or even before, I believe, had added to my debts; and
 
-though the death of my old cousin, Mrs. Smith, was to set me free; yet
+though the [[Death|death]] of my old cousin, Mrs. [[smith|Smith]], was to set me free; yet
 
 that event being uncertain, and possibly far distant, it had been for
 
-some time my intention to re-establish my circumstances by marrying a
+some [[Time|time]] my intention to re-establish my circumstances by marrying a
 
 woman of fortune. To attach myself to your sister, therefore, was not a
 
@@ -314,17 +314,17 @@ can ever reprobate too much,—I was acting in this manner, trying to
 
 engage her regard, without a thought of returning it. But one thing may
 
-be said for me: even in that horrid state of selfish vanity, I did not
+be said for me: even in that horrid state of selfish [[Vanity|vanity]], I did not
 
 know the extent of the injury I meditated, because I did not _then_
 
-know what it was to love. But have I ever known it? Well may it be
+know what it was to [[Love|love]]. But have I ever known it? [[Well]] may it be
 
 doubted; for, had I really loved, could I have sacrificed my feelings
 
-to vanity, to avarice? or, what is more, could I have sacrificed hers?
+to [[Vanity|vanity]], to avarice? or, what is more, could I have sacrificed hers?
 
-But I have done it. To avoid a comparative poverty, which her affection
+But I have done it. To avoid a comparative [[Poverty|poverty]], which her affection
 
 and her society would have deprived of all its horrors, I have, by
 
@@ -336,7 +336,7 @@ blessing.”
 
 “You did then,” said Elinor, a little softened, “believe yourself at
 
-one time attached to her?”
+one [[Time|time]] attached to her?”
 
 
 
@@ -360,15 +360,15 @@ so greatly embarrassed. I will not reason here—nor will I stop for
 
 _you_ to expatiate on the absurdity, and the worse than absurdity, of
 
-scrupling to engage my faith where my honour was already bound. The
+scrupling to engage my [[Faith|faith]] where my [[Honour|honour]] was already bound. The
 
-event has proved, that I was a cunning fool, providing with great
+event has proved, that I was a cunning [[Fool|fool]], providing with great
 
 circumspection for a possible opportunity of making myself contemptible
 
 and wretched for ever. At last, however, my resolution was taken, and I
 
-had determined, as soon as I could engage her alone, to justify the
+had determined, as soon as I could engage her [[Alone|alone]], to justify the
 
 attentions I had so invariably paid her, and openly assure her of an
 
@@ -382,7 +382,7 @@ circumstance occurred—an unlucky circumstance, to ruin all my
 
 resolution, and with it all my comfort. A discovery took place,”—here
 
-he hesitated and looked down. “Mrs. Smith had somehow or other been
+he hesitated and looked down. “Mrs. [[smith|Smith]] had somehow or other been
 
 informed, I imagine by some distant relation, whose interest it was to
 
@@ -400,7 +400,7 @@ probably heard the whole story long ago.”
 
 anew against any compassion for him, “I have heard it all. And how you
 
-will explain away any part of your guilt in that dreadful business, I
+will explain away any part of your [[Guilt|guilt]] in that dreadful business, I
 
 confess is beyond my comprehension.”
 
@@ -412,7 +412,7 @@ Could it be an impartial one? I acknowledge that her situation and her
 
 character ought to have been respected by me. I do not mean to justify
 
-myself, but at the same time cannot leave you to suppose that I have
+myself, but at the same [[Time|time]] cannot leave you to suppose that I have
 
 nothing to urge—that because she was injured she was irreproachable,
 
@@ -422,9 +422,9 @@ of her passions, the weakness of her understanding—I do not mean,
 
 however, to defend myself. Her affection for me deserved better
 
-treatment, and I often, with great self-reproach, recall the tenderness
+treatment, and I often, with great [[Self|self]]-reproach, recall the tenderness
 
-which, for a very short time, had the power of creating any return. I
+which, for a very short [[Time|time]], had the power of creating any return. I
 
 wish—I heartily wish it had never been. But I have injured more than
 
@@ -438,7 +438,7 @@ superior!”
 
 “Your indifference, however, towards that unfortunate girl—I must say
 
-it, unpleasant to me as the discussion of such a subject may well
+it, unpleasant to me as the discussion of such a subject may [[Well|well]]
 
 be—your indifference is no apology for your cruel neglect of her. Do
 
@@ -454,7 +454,7 @@ reduced to the extremest indigence.”
 
 
 
-“But, upon my soul, I did _not_ know it,” he warmly replied; “I did not
+“But, upon my [[Soul|soul]], I did _not_ know it,” he warmly replied; “I did not
 
 recollect that I had omitted to give her my direction; and common sense
 
@@ -462,7 +462,7 @@ might have told her how to find it out.”
 
 
 
-“Well, sir, and what said Mrs. Smith?”
+“[[Well]], sir, and what said Mrs. [[smith|Smith]]?”
 
 
 
@@ -474,21 +474,21 @@ ignorance of the world—every thing was against me. The matter itself I
 
 could not deny, and vain was every endeavour to soften it. She was
 
-previously disposed, I believe, to doubt the morality of my conduct in
+previously disposed, I believe, to [[Doubt|doubt]] the [[morality]] of my conduct in
 
 general, and was moreover discontented with the very little attention,
 
-the very little portion of my time that I had bestowed on her, in my
+the very little portion of my [[Time|time]] that I had bestowed on her, in my
 
 present visit. In short, it ended in a total breach. By one measure I
 
-might have saved myself. In the height of her morality, good woman! she
+might have saved myself. In the height of her [[morality]], good woman! she
 
 offered to forgive the past, if I would marry Eliza. That could not
 
-be—and I was formally dismissed from her favour and her house. The
+be—and I was formally dismissed from her favour and her [[house]]. The
 
-night following this affair—I was to go the next morning—was spent by
+[[Night|night]] following this affair—I was to go the next morning—was spent by
 
 me in deliberating on what my future conduct should be. The struggle
 
@@ -496,7 +496,7 @@ was great—but it ended too soon. My affection for Marianne, my thorough
 
 conviction of her attachment to me—it was all insufficient to outweigh
 
-that dread of poverty, or get the better of those false ideas of the
+that dread of [[Poverty|poverty]], or get the better of those false ideas of the
 
 necessity of riches, which I was naturally inclined to feel, and
 
@@ -512,7 +512,7 @@ engaged to dine with you on that very day; some apology was therefore
 
 necessary for my breaking this engagement. But whether I should write
 
-this apology, or deliver it in person, was a point of long debate. To
+this apology, or deliver it in person, was a point of long [[debate]]. To
 
 see Marianne, I felt, would be dreadful, and I even doubted whether I
 
@@ -532,31 +532,31 @@ would have answered every purpose. Why was it necessary to call?”
 
 
 
-“It was necessary to my own pride. I could not bear to leave the
+“It was necessary to my own [[Pride|pride]]. I could not bear to leave the
 
 country in a manner that might lead you, or the rest of the
 
 neighbourhood, to suspect any part of what had really passed between
 
-Mrs. Smith and myself—and I resolved therefore on calling at the
+Mrs. [[smith|Smith]] and myself—and I resolved therefore on calling at the
 
 cottage, in my way to Honiton. The sight of your dear sister, however,
 
-was really dreadful; and, to heighten the matter, I found her alone.
+was really dreadful; and, to heighten the matter, I found her [[Alone|alone]].
 
 You were all gone I do not know where. I had left her only the evening
 
-before, so fully, so firmly resolved within my self on doing right! A
+before, so fully, so firmly resolved within my [[Self|self]] on doing right! A
 
 few hours were to have engaged her to me for ever; and I remember how
 
 happy, how gay were my spirits, as I walked from the cottage to
 
-Allenham, satisfied with myself, delighted with every body! But in
+Allenham, satisfied with myself, delighted with every [[Body|body]]! But in
 
-this, our last interview of friendship, I approached her with a sense
+this, our last interview of [[Friendship|friendship]], I approached her with a sense
 
-of guilt that almost took from me the power of dissembling. Her sorrow,
+of [[Guilt|guilt]] that almost took from me the power of dissembling. Her sorrow,
 
 her disappointment, her deep regret, when I told her that I was obliged
 
@@ -578,7 +578,7 @@ They were both silent for a few moments. Elinor first spoke.
 
 “I do not know what I told her,” he replied, impatiently; “less than
 
-was due to the past, beyond a doubt, and in all likelihood much more
+was due to the past, beyond a [[Doubt|doubt]], and in all likelihood much more
 
 than was justified by the future. I cannot think of it.—It won’t
 
@@ -592,17 +592,17 @@ gives me to look back on my own misery. I owe such a grudge to myself
 
 for the stupid, rascally folly of my own heart, that all my past
 
-sufferings under it are only triumph and exultation to me now. Well, I
+sufferings under it are only triumph and exultation to me now. [[Well]], I
 
 went, left all that I loved, and went to those to whom, at best, I was
 
-only indifferent. My journey to town—travelling with my own horses, and
+only indifferent. My [[Journey|journey]] to town—travelling with my own horses, and
 
 therefore so tediously—no creature to speak to—my own reflections so
 
 cheerful—when I looked forward every thing so inviting!—when I looked
 
-back at Barton, the picture so soothing!—oh, it was a blessed journey!”
+back at Barton, the picture so soothing!—oh, it was a blessed [[Journey|journey]]!”
 
 
 
@@ -610,7 +610,7 @@ He stopped.
 
 
 
-“Well, sir,” said Elinor, who, though pitying him, grew impatient for
+“[[Well]], sir,” said Elinor, who, though pitying him, grew impatient for
 
 his departure, “and this is all?”
 
@@ -628,7 +628,7 @@ Did she show it you?”
 
 “When the first of hers reached me (as it immediately did, for I was in
 
-town the whole time,) what I felt is—in the common phrase, not to be
+town the whole [[Time|time]],) what I felt is—in the common phrase, not to be
 
 expressed; in a more simple one—perhaps too simple to raise any
 
@@ -658,7 +658,7 @@ duty to check such ideas in her companion as the last.
 
 “This is not right, Mr. Willoughby.—Remember that you are married.
 
-Relate only what in your conscience you think necessary for me to
+Relate only what in your [[Conscience|conscience]] you think necessary for me to
 
 hear.”
 
@@ -670,13 +670,13 @@ former days,—that in spite of the many, many weeks we had been
 
 separated, she was as constant in her own feelings, and as full of
 
-faith in the constancy of mine as ever,—awakened all my remorse. I say
+[[Faith|faith]] in the constancy of mine as ever,—awakened all my remorse. I say
 
-awakened, because time and London, business and dissipation, had in
+awakened, because [[Time|time]] and [[London]], business and dissipation, had in
 
 some measure quieted it, and I had been growing a fine hardened
 
-villain, fancying myself indifferent to her, and chusing to fancy that
+[[Villain|villain]], fancying myself indifferent to her, and chusing to fancy that
 
 she too must have become indifferent to me; talking to myself of our
 
@@ -686,7 +686,7 @@ shoulders in proof of its being so, and silencing every reproach,
 
 overcoming every scruple, by secretly saying now and then, ‘I shall be
 
-heartily glad to hear she is well married.’ But this note made me know
+heartily glad to hear she is [[Well|well]] married.’ But this note made me know
 
 myself better. I felt that she was infinitely dearer to me than any
 
@@ -698,17 +698,17 @@ was impossible. All that I had to do, was to avoid you both. I sent no
 
 answer to Marianne, intending by that to preserve myself from her
 
-farther notice; and for some time I was even determined not to call in
+farther notice; and for some [[Time|time]] I was even determined not to call in
 
 Berkeley Street;—but at last, judging it wiser to affect the air of a
 
 cool, common acquaintance than anything else, I watched you all safely
 
-out of the house one morning, and left my name.”
+out of the [[house]] one morning, and left my name.”
 
 
 
-“Watched us out of the house!”
+“Watched us out of the [[house]]!”
 
 
 
@@ -722,11 +722,11 @@ Bond Street, there was hardly a day in which I did not catch a glimpse
 
 of one or other of you; and nothing but the most constant watchfulness
 
-on my side, a most invariably prevailing desire to keep out of your
+on my side, a most invariably prevailing [[Desire|desire]] to keep out of your
 
 sight, could have separated us so long. I avoided the Middletons as
 
-much as possible, as well as everybody else who was likely to prove an
+much as possible, as [[Well|well]] as everybody else who was likely to prove an
 
 acquaintance in common. Not aware of their being in town, however, I
 
@@ -734,7 +734,7 @@ blundered on Sir John, I believe, the first day of his coming, and the
 
 day after I had called at Mrs. Jennings’s. He asked me to a party, a
 
-dance at his house in the evening. Had he _not_ told me as an
+[[Dance|dance]] at his [[house]] in the evening. Had he _not_ told me as an
 
 inducement that you and your sister were to be there, I should have
 
@@ -752,9 +752,9 @@ pity me, Miss Dashwood, pity my situation as it was _then_. With my
 
 head and heart full of your sister, I was forced to play the happy
 
-lover to another woman! Those three or four weeks were worse than all.
+[[Lover|lover]] to another woman! Those three or four weeks were worse than all.
 
-Well, at last, as I need not tell you, you were forced on me; and what
+[[Well]], at last, as I need not tell you, you were forced on me; and what
 
 a sweet figure I cut! what an evening of agony it was! Marianne,
 
@@ -766,11 +766,11 @@ explanation, with those bewitching eyes fixed in such speaking
 
 solicitude on my face! and Sophia, jealous as the devil on the other
 
-hand, looking all that was—Well, it does not signify; it is over now.
+hand, looking all that was—[[Well]], it does not signify; it is over now.
 
 Such an evening! I ran away from you all as soon as I could; but not
 
-before I had seen Marianne’s sweet face as white as death. _That_ was
+before I had seen Marianne’s sweet face as white as [[Death|death]]. _That_ was
 
 the last, last look I ever had of her; the last manner in which she
 
@@ -792,7 +792,7 @@ rousing himself, broke it thus:
 
 
 
-“Well, let me make haste and be gone. Your sister is certainly better,
+“[[Well]], let me make haste and be gone. Your sister is certainly better,
 
 certainly out of danger?”
 
@@ -834,7 +834,7 @@ Affecting that air of playfulness, therefore, which is delightful in a
 
 woman one loves, she opened the letter directly, and read its contents.
 
-She was well paid for her impudence. She read what made her wretched.
+She was [[Well|well]] paid for her impudence. She read what made her wretched.
 
 Her wretchedness I could have borne, but her passion—her malice—At all
 
@@ -858,7 +858,7 @@ happy thoughts and gentle diction. But what could I do!—we were
 
 engaged, every thing in preparation, the day almost fixed—But I am
 
-talking like a fool. Preparation! Day! In honest words, her money was
+talking like a [[Fool|fool]]. Preparation! Day! In honest words, her money was
 
 necessary to me, and in a situation like mine, any thing was to be done
 
@@ -910,7 +910,7 @@ must be attached to you, or she would not have married you. To treat
 
 her with unkindness, to speak of her slightingly is no atonement to
 
-Marianne—nor can I suppose it a relief to your own conscience.”
+Marianne—nor can I suppose it a relief to your own [[Conscience|conscience]].”
 
 
 
@@ -918,7 +918,7 @@ Marianne—nor can I suppose it a relief to your own conscience.”
 
 not deserve your compassion. She knew I had no regard for her when we
 
-married. Well, married we were, and came down to Combe Magna to be
+married. [[Well]], married we were, and came down to Combe Magna to be
 
 happy, and afterwards returned to town to be gay. And now do you pity
 
@@ -928,7 +928,7 @@ only one degree,—am I less guilty in your opinion than I was before? My
 
 intentions were not always wrong. Have I explained away any part of my
 
-guilt?”
+[[Guilt|guilt]]?”
 
 
 
@@ -946,7 +946,7 @@ worse.”
 
 “Will you repeat to your sister when she is recovered, what I have been
 
-telling you?—Let me be a little lightened too in her opinion as well as
+telling you?—Let me be a little lightened too in her opinion as [[Well|well]] as
 
 in yours. You tell me that she has forgiven me already. Let me be able
 
@@ -954,7 +954,7 @@ to fancy that a better knowledge of my heart, and of my present
 
 feelings, will draw from her a more spontaneous, more natural, more
 
-gentle, less dignified, forgiveness. Tell her of my misery and my
+gentle, less dignified, [[Forgiveness|forgiveness]]. Tell her of my misery and my
 
 penitence—tell her that my heart was never inconstant to her, and if
 
@@ -972,17 +972,17 @@ illness.”
 
 
 
-“Last night, in Drury Lane lobby, I ran against Sir John Middleton, and
+“Last [[Night|night]], in Drury Lane lobby, I ran against Sir John Middleton, and
 
-when he saw who I was, for the first time these two months, he spoke to
+when he saw who I was, for the first [[Time|time]] these two months, he spoke to
 
-me. That he had cut me ever since my marriage, I had seen without
+me. That he had cut me ever since my [[Marriage|marriage]], I had seen without
 
 surprise or resentment. Now, however, his good-natured, honest, stupid
 
-soul, full of indignation against me, and concern for your sister,
+[[Soul|soul]], full of indignation against me, and concern for your sister,
 
-could not resist the temptation of telling me what he knew ought to,
+could not resist the [[Temptation|temptation]] of telling me what he knew ought to,
 
 though probably he did not think it _would_, vex me horridly. As
 
@@ -1004,7 +1004,7 @@ hand while he reminded me of an old promise about a pointer puppy. What
 
 I felt on hearing that your sister was dying, and dying too, believing
 
-me the greatest villain upon earth, scorning, hating me in her latest
+me the greatest [[Villain|villain]] upon earth, scorning, hating me in her latest
 
 moments—for how could I tell what horrid projects might not have been
 
@@ -1012,7 +1012,7 @@ imputed? _One_ person I was sure would represent me as capable of
 
 anything—What I felt was dreadful! My resolution was soon made, and at
 
-eight o’clock this morning I was in my carriage. Now you know all.”
+eight o’[[Clock|clock]] this morning I was in my carriage. Now you know all.”
 
 
 
@@ -1028,9 +1028,9 @@ and talents, united a disposition naturally open and honest, and a
 
 feeling, affectionate temper. The world had made him extravagant and
 
-vain—Extravagance and vanity had made him cold-hearted and selfish.
+vain—Extravagance and [[Vanity|vanity]] had made him cold-hearted and selfish.
 
-Vanity, while seeking its own guilty triumph at the expense of another,
+[[Vanity]], while seeking its own guilty triumph at the expense of another,
 
 had involved him in a real attachment, which extravagance, or at least
 
@@ -1038,7 +1038,7 @@ its offspring, necessity, had required to be sacrificed. Each faulty
 
 propensity in leading him to evil, had led him likewise to punishment.
 
-The attachment, from which against honour, against feeling, against
+The attachment, from which against [[Honour|honour]], against feeling, against
 
 every better interest he had outwardly torn himself, now, when no
 
@@ -1048,7 +1048,7 @@ sake of which he had, with little scruple, left her sister to misery,
 
 was likely to prove a source of unhappiness to himself of a far more
 
-incurable nature. From a reverie of this kind she was recalled at the
+incurable [[Nature|nature]]. From a reverie of this kind she was recalled at the
 
 end of some minutes by Willoughby, who, rousing himself from a reverie
 
@@ -1088,7 +1088,7 @@ he was to go.
 
 Elinor assured him that she did;—that she forgave, pitied, wished him
 
-well—was even interested in his happiness—and added some gentle counsel
+[[Well|well]]—was even interested in his happiness—and added some gentle counsel
 
 as to the behaviour most likely to promote it. His answer was not very
 
@@ -1096,7 +1096,7 @@ encouraging.
 
 
 
-“As to that,” said he, “I must rub through the world as well as I can.
+“As to that,” said he, “I must rub through the world as [[Well|well]] as I can.
 
 Domestic happiness is out of the question. If, however, I am allowed to
 
@@ -1114,7 +1114,7 @@ Elinor stopped him with a reproof.
 
 
 
-“Well,”—he replied—“once more good bye. I shall now go away and live in
+“[[Well]],”—he replied—“once more good bye. I shall now go away and live in
 
 dread of one event.”
 
@@ -1124,7 +1124,7 @@ dread of one event.”
 
 
 
-“Your sister’s marriage.”
+“Your sister’s [[Marriage|marriage]].”
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 34 (part 2)"
+title: "[[Villette]] — Chapter 34 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -15,8 +15,8 @@ tags:
 
 
 The room was large, and had a fine old ceiling, and almost church-like
-windows of coloured-glass; but it was desolate, and in the shadow of a
-coming storm, looked strangely lowering. Within—opened a smaller room;
+windows of coloured-glass; but it was desolate, and in the [[Shadow|shadow]] of a
+coming [[Storm|storm]], looked strangely lowering. Within—opened a smaller room;
 there, however, the blind of the single casement was closed; through
 the deep gloom few details of furniture were apparent. These few I
 amused myself by puzzling to make out; and, in particular, I was
@@ -27,14 +27,14 @@ it sunk, it rolled back into nothing; its vanishing left an opening
 arched, leading into an arched passage, with a mystic winding stair;
 both passage and stair were of cold stone, uncarpeted and unpainted.
 Down this donjon stair descended a tap, tap, like a stick; soon there
-fell on the steps a shadow, and last of all, I was aware of a
+fell on the steps a [[Shadow|shadow]], and last of all, I was aware of a
 substance.
 
 Yet, was it actual substance, this appearance approaching me? this
 obstruction, partially darkening the arch?
 
-It drew near, and I saw it well. I began to comprehend where I was.
-Well might this old square be named quarter of the Magi—well might the
+It drew near, and I saw it [[Well|well]]. I began to comprehend where I was.
+[[Well]] might this old square be named quarter of the Magi—[[Well|well]] might the
 three towers, overlooking it, own for godfathers three mystic sages of
 a dead and dark art. Hoar enchantment here prevailed; a spell had
 opened for me elf-land—that cell-like room, that vanishing picture,
@@ -56,9 +56,9 @@ over the gown a costly shawl, gorgeously bordered, and so large for
 her, that its many-coloured fringe swept the floor. But her chief
 points were her jewels: she had long, clear earrings, blazing with a
 lustre which could not be borrowed or false; she had rings on her
-skeleton hands, with thick gold hoops, and stones—purple, green, and
-blood-red. Hunchbacked, dwarfish, and doting, she was adorned like a
-barbarian queen.
+[[skeleton]] hands, with thick gold hoops, and stones—purple, green, and
+[[Blood|blood]]-red. Hunchbacked, dwarfish, and doting, she was adorned like a
+barbarian [[Queen|queen]].
 
 “Que me voulez-vous?” said she, hoarsely, with the voice rather of male
 than of female old age; and, indeed, a silver beard bristled her chin.
@@ -69,17 +69,17 @@ I delivered my basket and my message.
 
 “It is all,” said I.
 
-“Truly, it was well worth while,” she answered. “Return to Madame Beck,
+“Truly, it was [[Well|well]] worth while,” she answered. “Return to [[Madame Beck]],
 and tell her I can buy fruit when I want it, et quant à ses
 félicitations, je m’en moque!” And this courteous dame turned her back.
 
-Just as she turned, a peal of thunder broke, and a flash of lightning
-blazed broad over salon and boudoir. The tale of magic seemed to
+Just as she turned, a peal of thunder broke, and a flash of [[Lightning|lightning]]
+blazed broad over salon and boudoir. The tale of [[Magic|magic]] seemed to
 proceed with due accompaniment of the elements. The wanderer, decoyed
-into the enchanted castle, heard rising, outside, the spell-wakened
+into the enchanted [[Castle|castle]], heard rising, outside, the spell-wakened
 tempest.
 
-What, in all this, was I to think of Madame Beck? She owned strange
+What, in all this, was I to think of [[Madame Beck]]? She owned strange
 acquaintance; she offered messages and gifts at an unique shrine, and
 inauspicious seemed the bearing of the uncouth thing she worshipped.
 There went that sullen Sidonia, tottering and trembling like palsy
@@ -90,8 +90,8 @@ Down washed the rain, deep lowered the welkin; the clouds, ruddy a
 while ago, had now, through all their blackness, turned deadly pale, as
 if in terror. Notwithstanding my late boast about not fearing a shower,
 I hardly liked to go out under this waterspout. Then the gleams of
-lightning were very fierce, the thunder crashed very near; this storm
-had gathered immediately above Villette; it seemed to have burst at the
+[[Lightning|lightning]] were very fierce, the thunder crashed very near; this [[Storm|storm]]
+had gathered immediately above [[Villette]]; it seemed to have burst at the
 zenith; it rushed down prone; the forked, slant bolts pierced athwart
 vertical torrents; red zigzags interlaced a descent blanched as white
 metal: and all broke from a sky heavily black in its swollen abundance.
@@ -103,7 +103,7 @@ priest.
 
 “Indeed Mademoiselle shall not sit there,” said he. “It would
 displeasure our benefactor if he knew a stranger was so treated in this
-house.”
+[[house]].”
 
 And he begged me so earnestly to return to the salon, that, without
 discourtesy, I could not but comply. The smaller room was better
@@ -115,16 +115,16 @@ for present use and comfort.
 
 The good father sat down, as if to keep me company; but instead of
 conversing, he took out a book, fastened on the page his eyes, and
-employed his lips in whispering—what sounded like a prayer or litany. A
+employed his lips in whispering—what sounded like a [[Prayer|prayer]] or [[litany]]. A
 yellow electric light from the sky gilded his bald head; his figure
 remained in shade—deep and purple; he sat still as sculpture; he seemed
 to forget me for his prayers; he only looked up when a fiercer bolt, or
 a harsher, closer rattle told of nearing danger; even then, it was not
-in fear, but in seeming awe, he raised his eyes. I too was awe-struck;
+in [[Fear|fear]], but in seeming awe, he raised his eyes. I too was awe-struck;
 being, however, under no pressure of slavish terror, my thoughts and
 observations were free.
 
-To speak truth, I was beginning to fancy that the old priest resembled
+To speak [[Truth|truth]], I was beginning to fancy that the old priest resembled
 that Père Silas, before whom I had kneeled in the church of the
 Béguinage. The idea was vague, for I had seen my confessor only in dusk
 and in profile, yet still I seemed to trace a likeness: I thought also

@@ -1,5 +1,5 @@
 ---
-title: "The Angel of the Odd (part 1)"
+title: "[[The Angel of the Odd]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Angel-of-the-Odd-(Poe)"
@@ -24,11 +24,11 @@ AN EXTRAVAGANZA.
 
       unusually hearty dinner, of which the dyspeptic _truffe_ formed
 
-      not the least important item, and was sitting alone in the
+      not the least important item, and was sitting [[Alone|alone]] in the
 
       dining-room, with my feet upon the fender, and at my elbow a
 
-      small table which I had rolled up to the fire, and upon which
+      small table which I had rolled up to the [[Fire|fire]], and upon which
 
       were some apologies for dessert, with some miscellaneous bottles
 
@@ -44,9 +44,9 @@ AN EXTRAVAGANZA.
 
       by aid of frequent Lafitte, and, all failing, I betook myself to
 
-      a stray newspaper in despair. Having carefully perused the column
+      a stray newspaper in [[Despair|despair]]. Having carefully perused the column
 
-      of “houses to let,” and the column of “dogs lost,” and then the
+      of “houses to let,” and the column of “[[dogs]] lost,” and then the
 
       two columns of “wives and apprentices runaway,” I attacked with
 
@@ -74,7 +74,7 @@ AN EXTRAVAGANZA.
 
 
 
-      “The avenues to death are numerous and strange. A London paper
+      “The avenues to [[Death|death]] are numerous and strange. A [[London]] paper
 
       mentions the decease of a person from a singular cause. He was
 
@@ -102,7 +102,7 @@ AN EXTRAVAGANZA.
 
       Cocaigne. These fellows, knowing the extravagant gullibility of
 
-      the age, set their wits to work in the imagination of improbable
+      the age, set their wits to work in the [[Imagination|imagination]] of improbable
 
       possibilities—-of odd accidents, as they term them; but to a
 
@@ -122,7 +122,7 @@ AN EXTRAVAGANZA.
 
 
 
-      “Mein Gott, den, vat a vool you bees for dat!” replied one of the
+      “Mein Gott, den, vat a vool you [[Bees|bees]] for dat!” replied one of the
 
       most remarkable voices I ever heard. At first I took it for a
 
@@ -164,7 +164,7 @@ AN EXTRAVAGANZA.
 
       personage nondescript, although not altogether indescribable. His
 
-      body was a wine-pipe, or a rum-puncheon, or something of that
+      [[Body|body]] was a wine-pipe, or a rum-puncheon, or something of that
 
       character, and had a truly Falstaffian air. In its nether
 
@@ -174,7 +174,7 @@ AN EXTRAVAGANZA.
 
       of the carcass two tolerably long bottles, with the necks outward
 
-      for hands. All the head that I saw the monster possessed of was
+      for hands. All the head that I saw the [[Monster|monster]] possessed of was
 
       one of those Hessian canteens which resemble a large snuff-box
 

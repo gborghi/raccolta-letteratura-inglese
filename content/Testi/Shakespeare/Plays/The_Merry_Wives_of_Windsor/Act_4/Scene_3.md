@@ -17,7 +17,7 @@ tags:
 | Chi parla | Battuta |
 |---|---|
 | *(didascalia)* | Enter the Host of the Garter and Bardolph |
-| BARDOLPH | Sir, the Germans desire to have three of your horses. The Duke himself will be tomorrow at court, and they are going to meet him. |
-| HOST | What duke should that be comes so secretly? I hear not of him in the court. Let me speak with the gentlemen. They speak English? |
+| BARDOLPH | Sir, the Germans [[Desire|desire]] to have three of your horses. The Duke himself will be tomorrow at [[Court|court]], and they are going to meet him. |
+| HOST | What duke should that be comes so secretly? I hear not of him in the [[Court|court]]. Let me speak with the gentlemen. They speak English? |
 | BARDOLPH | Ay, sir. I’ll call them to you. |
-| HOST | They shall have my horses, but I’ll make them pay; I’ll sauce them. They have had my house a week at command; I have turned away my other guests. They must come off: I’ll sauce them. Come. Exeunt |
+| HOST | They shall have my horses, but I’ll make them pay; I’ll sauce them. They have had my [[house]] a week at command; I have turned away my other guests. They must come off: I’ll sauce them. Come. Exeunt |

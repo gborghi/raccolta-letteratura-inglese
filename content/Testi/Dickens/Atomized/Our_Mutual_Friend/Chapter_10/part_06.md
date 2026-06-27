@@ -67,7 +67,7 @@ And now, Mr Wegg at length pushed away his plate and put on his
 spectacles, and Mr Boffin lighted his pipe and looked with beaming
 eyes into the opening world before him, and Mrs Boffin reclined in a
 fashionable manner on her sofa: as one who would be part of the audience
-if she found she could, and would go to sleep if she found she couldn’t.
+if she found she could, and would go to [[Sleep|sleep]] if she found she couldn’t.
 
 ‘Hem!’ began Wegg, ‘This, Mr Boffin and Lady, is the first chapter of
 the first wollume of the Decline and Fall off—’ here he looked hard at
@@ -91,7 +91,7 @@ Rooshan Empire, sir?’
 down, when a bright thought flashed upon him. ‘The difference, sir?
 There you place me in a difficulty, Mr Boffin. Suffice it to observe,
 that the difference is best postponed to some other occasion when Mrs
-Boffin does not honour us with her company. In Mrs Boffin’s presence,
+Boffin does not [[Honour|honour]] us with her company. In Mrs Boffin’s presence,
 sir, we had better drop it.’
 
 Mr Wegg thus came out of his disadvantage with quite a chivalrous air,
@@ -107,31 +107,31 @@ Hadrian, Trajan, and the Antonines; stumbling at Polybius (pronounced
 Polly Beeious, and supposed by Mr Boffin to be a Roman virgin, and by
 Mrs Boffin to be responsible for that necessity of dropping it); heavily
 unseated by Titus Antoninus Pius; up again and galloping smoothly with
-Augustus; finally, getting over the ground well with Commodus: who,
+Augustus; finally, getting over the ground [[Well|well]] with Commodus: who,
 under the appellation of Commodious, was held by Mr Boffin to have been
 quite unworthy of his English origin, and ‘not to have acted up to his
-name’ in his government of the Roman people. With the death of this
+name’ in his [[government]] of the Roman people. With the [[Death|death]] of this
 personage, Mr Wegg terminated his first reading; long before which
 consummation several total eclipses of Mrs Boffin’s candle behind
 her black velvet disc, would have been very alarming, but for being
 regularly accompanied by a potent smell of burnt pens when her feathers
-took fire, which acted as a restorative and woke her. Mr Wegg, having
+took [[Fire|fire]], which acted as a restorative and woke her. Mr Wegg, having
 read on by rote and attached as few ideas as possible to the text, came
 out of the encounter fresh; but, Mr Boffin, who had soon laid down his
 unfinished pipe, and had ever since sat intently staring with his eyes
 and mind at the confounding enormities of the Romans, was so severely
-punished that he could hardly wish his literary friend Good-night, and
+punished that he could hardly wish his literary friend Good-[[Night|night]], and
 articulate ‘Tomorrow.’
 
-‘Commodious,’ gasped Mr Boffin, staring at the moon, after letting
+‘Commodious,’ gasped Mr Boffin, staring at the [[Moon|moon]], after letting
 Wegg out at the gate and fastening it: ‘Commodious fights in that
 wild-beast-show, seven hundred and thirty-five times, in one character
 only! As if that wasn’t stunning enough, a hundred lions is turned into
 the same wild-beast-show all at once! As if that wasn’t stunning enough,
 Commodious, in another character, kills ’em all off in a hundred goes!
-As if that wasn’t stunning enough, Vittle-us (and well named too) eats
+As if that wasn’t stunning enough, Vittle-us (and [[Well|well]] named too) eats
 six millions’ worth, English money, in seven months! Wegg takes it easy,
-but upon-my-soul to a old bird like myself these are scarers. And even
+but upon-my-[[Soul|soul]] to a old bird like myself these are scarers. And even
 now that Commodious is strangled, I don’t see a way to our bettering
 ourselves.’ Mr Boffin added as he turned his pensive steps towards the
 Bower and shook his head, ‘I didn’t think this morning there was half so

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 37 (part 5)"
+title: "[[Shirley]] — Chapter 37 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -18,17 +18,17 @@ will be in no haste. Ere he has been master of Fieldhead a year all the
 
 district will feel his quiet influence, and acknowledge his unassuming
 
-superiority. A magistrate is wanted; they will, in time, invest him with
+superiority. A magistrate is wanted; they will, in [[Time|time]], invest him with
 
 the office voluntarily and unreluctantly. Everybody admires his future
 
-wife, and everybody will, in time, like him. He is of the _pâte_
+wife, and everybody will, in [[Time|time]], like him. He is of the _pâte_
 
 generally approved, _bon comme le pain_--daily bread for the most
 
 fastidious, good for the infant and the aged, nourishing for the poor,
 
-wholesome for the rich. Shirley, in spite of her whims and oddities, her
+wholesome for the rich. [[Shirley]], in spite of her whims and oddities, her
 
 dodges and delays, has an infatuated fondness for him. She will one day
 
@@ -40,9 +40,9 @@ His advice will be always judicious, his help always good-natured. Ere
 
 long both will be in inconvenient request. He will have to impose
 
-restrictions. As for me, if I succeed as I intend to do, my success will
+restrictions. As for me, if I succeed as I intend to do, my [[success]] will
 
-add to his and Shirley's income. I can double the value of their mill
+add to his and [[Shirley]]'s income. I can [[Double|double]] the value of their mill
 
 property. I can line yonder barren Hollow with lines of cottages and
 
@@ -62,13 +62,13 @@ paved street. There shall be cottages in the dark ravine, and cottages
 
 on the lonely slopes. The rough pebbled track shall be an even, firm,
 
-broad, black, sooty road, bedded with the cinders from my mill; and my
+broad, black, sooty [[Road|road]], bedded with the cinders from my mill; and my
 
 mill, Caroline--my mill shall fill its present yard."
 
 
 
-"Horrible! You will change our blue hill-country air into the Stilbro'
+"Horrible! You will change our blue [[Hill|hill]]-country air into the Stilbro'
 
 smoke atmosphere."
 
@@ -98,7 +98,7 @@ Bilberry Moss? What will flourish on Rushedge?"
 
 Hollow's Mill from far and near; and Joe Scott shall give them work, and
 
-Louis Moore, Esq., shall let them a tenement, and Mrs. Gill shall mete
+[[Louis Moore]], Esq., shall let them a tenement, and Mrs. Gill shall mete
 
 them a portion till the first pay-day."
 
@@ -108,9 +108,9 @@ She smiled up in his face.
 
 
 
-"Such a Sunday school as you will have, Cary! such collections as you
+"Such a [[Sunday]] school as you will have, Cary! such collections as you
 
-will get! such a day school as you and Shirley and Miss Ainley will have
+will get! such a day school as you and [[Shirley]] and Miss Ainley will have
 
 to manage between you! The mill shall find salaries for a master and
 
@@ -126,7 +126,7 @@ extortion of about a hundred kisses.
 
 
 
-"Extravagant day-dreams," said Moore, with a sigh and smile, "yet
+"Extravagant day-[[Dreams|dreams]]," said Moore, with a sigh and smile, "yet
 
 perhaps we may realize some of them. Meantime, the dew is falling. Mrs.
 
@@ -138,11 +138,11 @@ Moore, I shall take you in."
 
 
 
-It is August. The bells clash out again, not only through Yorkshire, but
+It is August. [[The Bells|The bells]] clash out again, not only through Yorkshire, but
 
 through England. From Spain the voice of a trumpet has sounded long; it
 
-now waxes louder and louder; it proclaims Salamanca won. This night is
+now waxes louder and louder; it proclaims Salamanca won. This [[Night|night]] is
 
 Briarfield to be illuminated. On this day the Fieldhead tenantry dine
 
@@ -152,7 +152,7 @@ festal purpose; the schools have a grand treat. This morning there were
 
 two marriages solemnized in Briarfield church--Louis Gérard Moore, Esq.,
 
-late of Antwerp, to Shirley, daughter of the late Charles Cave Keeldar,
+late of Antwerp, to [[Shirley]], daughter of the late Charles [[Cave]] Keeldar,
 
 Esq., of Fieldhead; Robert Gérard Moore, Esq., of Hollow's Mill, to
 
@@ -174,11 +174,11 @@ Henry Sympson and Martin Yorke.
 
 
 
-I suppose Robert Moore's prophecies were, partially at least, fulfilled.
+I suppose [[Robert Moore]]'s prophecies were, partially at least, fulfilled.
 
 The other day I passed up the Hollow, which tradition says was once
 
-green, and lone, and wild; and there I saw the manufacturer's day-dreams
+green, and lone, and wild; and there I saw the manufacturer's day-[[Dreams|dreams]]
 
 embodied in substantial stone and brick and ashes--the cinder-black
 
@@ -186,7 +186,7 @@ highway, the cottages, and the cottage gardens; there I saw a mighty
 
 mill, and a chimney ambitious as the tower of Babel. I told my old
 
-housekeeper when I came home where I had been.
+housekeeper when I came [[Home|home]] where I had been.
 
 
 
@@ -208,7 +208,7 @@ dresses. Mrs. Robert was quieter like. Mrs. Louis smiled when she
 
 talked. She had a real, happy, glad, good-natured look; but she had een
 
-that pierced a body through. There is no such ladies nowadays."
+that pierced a [[Body|body]] through. There is no such ladies nowadays."
 
 
 
@@ -220,7 +220,7 @@ that pierced a body through. There is no such ladies nowadays."
 
 again, when there was neither mill, nor cot, nor hall, except Fieldhead,
 
-within two miles of it. I can tell, one summer evening, fifty years
+within two miles of it. I can tell, one [[Summer|summer]] evening, fifty years
 
 syne, my mother coming running in just at the edge of dark, almost
 
@@ -240,4 +240,4 @@ The story is told. I think I now see the judicious reader putting on his
 
 spectacles to look for the moral. It would be an insult to his sagacity
 
-to offer directions. I only say, God speed him in the quest!
+to offer directions. I only say, God [[Speed|speed]] him in the [[Quest|quest]]!

@@ -16,27 +16,27 @@ tags:
 
 The living travellers thought little or nothing of the dead just then.
 They thought much more of alighting at the convent door, and warming
-themselves at the convent fire. Disengaged from the turmoil, which was
+themselves at the convent [[Fire|fire]]. Disengaged from the turmoil, which was
 already calming down as the crowd of mules began to be bestowed in the
 stable, they hurried shivering up the steps and into the building. There
 was a smell within, coming up from the floor, of tethered beasts, like
-the smell of a menagerie of wild animals. There were strong arched
+the smell of a menagerie of wild [[Animals|animals]]. There were strong arched
 galleries within, huge stone piers, great staircases, and thick walls
 pierced with small sunken windows--fortifications against the mountain
 storms, as if they had been human enemies. There were gloomy vaulted
 sleeping-rooms within, intensely cold, but clean and hospitably prepared
 for guests. Finally, there was a parlour for guests to sit in and sup
-in, where a table was already laid, and where a blazing fire shone red
+in, where a table was already laid, and where a blazing [[Fire|fire]] shone red
 and high.
 
-In this room, after having had their quarters for the night allotted
+In this room, after having had their quarters for the [[Night|night]] allotted
 to them by two young Fathers, the travellers presently drew round the
 hearth. They were in three parties; of whom the first, as the most
 numerous and important, was the slowest, and had been overtaken by
 one of the others on the way up. It consisted of an elderly lady, two
 grey-haired gentlemen, two young ladies, and their brother. These were
 attended (not to mention four guides), by a courier, two footmen, and
-two waiting-maids: which strong body of inconvenience was accommodated
+two waiting-maids: which strong [[Body|body]] of inconvenience was accommodated
 elsewhere under the same roof. The party that had overtaken them, and
 followed in their train, consisted of only three members: one lady and
 two gentlemen. The third party, which had ascended from the valley
@@ -45,7 +45,7 @@ number: a plethoric, hungry, and silent German tutor in spectacles, on
 a tour with three young men, his pupils, all plethoric, hungry, and
 silent, and all in spectacles.
 
-These three groups sat round the fire eyeing each other drily, and
+These three groups sat round the [[Fire|fire]] eyeing each other drily, and
 waiting for supper. Only one among them, one of the gentlemen belonging
 to the party of three, made advances towards conversation. Throwing out
 his lines for the Chief of the important tribe, while addressing himself
@@ -55,20 +55,20 @@ day, and that he felt for the ladies. That he feared one of the
 young ladies was not a strong or accustomed traveller, and had been
 over-fatigued two or three hours ago. That he had observed, from his
 station in the rear, that she sat her mule as if she were exhausted.
-That he had, twice or thrice afterwards, done himself the honour of
+That he had, twice or thrice afterwards, done himself the [[Honour|honour]] of
 inquiring of one of the guides, when he fell behind, how the lady did.
 That he had been enchanted to learn that she had recovered her spirits,
 and that it had been but a passing discomfort. That he trusted (by this
-time he had secured the eyes of the Chief, and addressed him) he might
-be permitted to express his hope that she was now none the worse, and
-that she would not regret having made the journey.
+[[Time|time]] he had secured the eyes of the Chief, and addressed him) he might
+be permitted to express his [[Hope|hope]] that she was now none the worse, and
+that she would not regret having made the [[Journey|journey]].
 
 ‘My daughter, I am obliged to you, sir,’ returned the Chief, ‘is quite
 restored, and has been greatly interested.’
 
-‘New to mountains, perhaps?’ said the insinuating traveller.
+‘New to [[Mountains|mountains]], perhaps?’ said the insinuating traveller.
 
-‘New to--ha--to mountains,’ said the Chief.
+‘New to--ha--to [[Mountains|mountains]],’ said the Chief.
 
 ‘But you are familiar with them, sir?’ the insinuating traveller
 assumed.
@@ -113,19 +113,19 @@ before?’
 
 ‘Yes,’ returned Mrs General. ‘I have been here before. Let me
 commend you, my dear,’ to the former young lady, ‘to shade your face
-from the hot wood, after exposure to the mountain air and snow. You,
+from the hot wood, after exposure to the mountain air and [[Snow|snow]]. You,
 too, my dear,’ to the other and younger lady, who immediately did so;
 while the former merely said, ‘Thank you, Mrs General, I am Perfectly
 comfortable, and prefer remaining as I am.’
 
 The brother, who had left his chair to open a piano that stood in
 the room, and who had whistled into it and shut it up again, now came
-strolling back to the fire with his glass in his eye. He was dressed in
+strolling back to the [[Fire|fire]] with his glass in his eye. He was dressed in
 the very fullest and completest travelling trim. The world seemed hardly
 large enough to yield him an amount of travel proportionate to his
 equipment.
 
-‘These fellows are an immense time with supper,’ he drawled. ‘I wonder
+‘These fellows are an immense [[Time|time]] with supper,’ he drawled. ‘I [[Wonder|wonder]]
 what they’ll give us! Has anybody any idea?’
 
 ‘Not roast man, I believe,’ replied the voice of the second gentleman of
@@ -134,5 +134,5 @@ the party of three.
 ‘I suppose not. What d’ye mean?’ he inquired.
 
 ‘That, as you are not to be served for the general supper, perhaps you
-will do us the favour of not cooking yourself at the general fire,’
+will do us the favour of not cooking yourself at the general [[Fire|fire]],’
 returned the other.

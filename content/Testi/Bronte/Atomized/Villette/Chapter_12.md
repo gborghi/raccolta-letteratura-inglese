@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 12"
+title: "[[Villette]] — Chapter 12"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -18,85 +18,85 @@ CHAPTER XII.
 THE CASKET.
 
 
-Behind the house at the Rue Fossette there was a garden—large,
-considering that it lay in the heart of a city, and to my recollection
-at this day it seems pleasant: but time, like distance, lends to
+Behind the [[house]] at the Rue Fossette there was a [[Garden|garden]]—large,
+considering that it lay in the heart of a [[City|city]], and to my recollection
+at this day it seems pleasant: but [[Time|time]], like distance, lends to
 certain scenes an influence so softening; and where all is stone
 around, blank wall and hot pavement, how precious seems one shrub, how
 lovely an enclosed and planted spot of ground!
 
-There went a tradition that Madame Beck’s house had in old days been a
+There went a tradition that [[Madame Beck]]’s [[house]] had in old days been a
 convent. That in years gone by—how long gone by I cannot tell, but I
-think some centuries—before the city had over-spread this quarter, and
+think some centuries—before the [[City|city]] had over-spread this quarter, and
 when it was tilled ground and avenue, and such deep and leafy seclusion
-as ought to embosom a religious house—that something had happened on
-this site which, rousing fear and inflicting horror, had left to the
-place the inheritance of a ghost-story. A vague tale went of a black
-and white nun, sometimes, on some night or nights of the year, seen in
-some part of this vicinage. The ghost must have been built out some
+as ought to embosom a religious [[house]]—that something had happened on
+this site which, rousing [[Fear|fear]] and inflicting horror, had left to the
+place the inheritance of a [[Ghost|ghost]]-story. A vague tale went of a black
+and white nun, sometimes, on some [[Night|night]] or nights of the year, seen in
+some part of this vicinage. The [[Ghost|ghost]] must have been built out some
 ages ago, for there were houses all round now; but certain
 convent-relics, in the shape of old and huge fruit-trees, yet
 consecrated the spot; and, at the foot of one—a Methuselah of a
 pear-tree, dead, all but a few boughs which still faithfully renewed
-their perfumed snow in spring, and their honey-sweet pendants in
-autumn—you saw, in scraping away the mossy earth between the half-bared
+their perfumed [[Snow|snow]] in [[spring]], and their honey-sweet pendants in
+[[Autumn|autumn]]—you saw, in scraping away the mossy earth between the half-bared
 roots, a glimpse of slab, smooth, hard, and black. The legend went,
 unconfirmed and unaccredited, but still propagated, that this was the
 portal of a vault, imprisoning deep beneath that ground, on whose
-surface grass grew and flowers bloomed, the bones of a girl whom a
+surface grass grew and [[Flowers|flowers]] bloomed, the bones of a girl whom a
 monkish conclave of the drear middle ages had here buried alive for
-some sin against her vow. Her shadow it was that tremblers had feared,
-through long generations after her poor frame was dust; her black robe
+some sin against her vow. Her [[Shadow|shadow]] it was that tremblers had feared,
+through long generations after her poor frame was [[Dust|dust]]; her black robe
 and white veil that, for timid eyes, moonlight and shade had mocked, as
-they fluctuated in the night-wind through the garden-thicket.
+they fluctuated in the [[Night|night]]-[[Wind|wind]] through the [[Garden|garden]]-thicket.
 
-Independently of romantic rubbish, however, that old garden had its
-charms. On summer mornings I used to rise early, to enjoy them alone;
-on summer evenings, to linger solitary, to keep tryste with the rising
-moon, or taste one kiss of the evening breeze, or fancy rather than
+Independently of romantic rubbish, however, that old [[Garden|garden]] had its
+charms. On [[Summer|summer]] mornings I used to rise early, to enjoy them [[Alone|alone]];
+on [[Summer|summer]] evenings, to linger solitary, to keep tryste with the rising
+[[Moon|moon]], or taste one kiss of the evening breeze, or fancy rather than
 feel the freshness of dew descending. The turf was verdant, the
 gravelled walks were white; sun-bright nasturtiums clustered beautiful
 about the roots of the doddered orchard giants. There was a large
 berceau, above which spread the shade of an acacia; there was a
 smaller, more sequestered bower, nestled in the vines which ran all
 along a high and grey wall, and gathered their tendrils in a knot of
-beauty, and hung their clusters in loving profusion about the favoured
+[[Beauty|beauty]], and hung their clusters in loving profusion about the favoured
 spot where jasmine and ivy met and married them.
 
-Doubtless at high noon, in the broad, vulgar middle of the day, when
-Madame Beck’s large school turned out rampant, and externes and
+Doubtless at high [[Noon|noon]], in the broad, vulgar middle of the day, when
+[[Madame Beck]]’s large school turned out rampant, and externes and
 pensionnaires were spread abroad, vying with the denizens of the boys’
 college close at hand, in the brazen exercise of their lungs and
-limbs—doubtless _then_ the garden was a trite, trodden-down place
+limbs—doubtless _then_ the [[Garden|garden]] was a trite, trodden-down place
 enough. But at sunset or the hour of _salut_, when the externes were
-gone home, and the boarders quiet at their studies; pleasant was it
-then to stray down the peaceful alleys, and hear the bells of St. Jean
+gone [[Home|home]], and the boarders quiet at their studies; pleasant was it
+then to stray down the peaceful alleys, and hear [[The Bells|the bells]] of St. Jean
 Baptiste peal out with their sweet, soft, exalted sound.
 
 I was walking thus one evening, and had been detained farther within
 the verge of twilight than usual, by the still-deepening calm, the
-mellow coolness, the fragrant breathing with which flowers no sunshine
-could win now answered the persuasion of the dew. I saw by a light in
-the oratory window that the Catholic household were then gathered to
-evening prayer—a rite, from attendance on which, I now and then, as a
+mellow coolness, the fragrant breathing with which [[Flowers|flowers]] no sunshine
+could win now answered the [[Persuasion|persuasion]] of the dew. I saw by a light in
+the oratory [[Window|window]] that the Catholic household were then gathered to
+evening [[prayer]]—a rite, from attendance on which, I now and then, as a
 Protestant, exempted myself.
 
-“One moment longer,” whispered solitude and the summer moon, “stay with
+“One moment longer,” whispered [[Solitude|solitude]] and the [[Summer|summer]] [[Moon|moon]], “stay with
 us: all is truly quiet now; for another quarter of an hour your
 presence will not be missed: the day’s heat and bustle have tired you;
 enjoy these precious minutes.”
 
-The windowless backs of houses built in this garden, and in particular
+The windowless backs of houses built in this [[Garden|garden]], and in particular
 the whole of one side, was skirted by the rear of a long line of
 premises—being the boarding-houses of the neighbouring college. This
 rear, however, was all blank stone, with the exception of certain attic
 loopholes high up, opening from the sleeping-rooms of the
 women-servants, and also one casement in a lower story said to mark the
 chamber or study of a master. But, though thus secure, an alley, which
-ran parallel with the very high wall on that side the garden, was
+ran parallel with the very high wall on that side the [[Garden|garden]], was
 forbidden to be entered by the pupils. It was called indeed “l’allée
 défendue,” and any girl setting foot there would have rendered herself
-liable to as severe a penalty as the mild rules of Madame Beck’s
+liable to as severe a penalty as the mild rules of [[Madame Beck]]’s
 establishment permitted. Teachers might indeed go there with impunity;
 but as the walk was narrow, and the neglected shrubs were grown very
 thick and close on each side, weaving overhead a roof of branch and
@@ -106,16 +106,16 @@ shunned.
 
 From the first I was tempted to make an exception to this rule of
 avoidance: the seclusion, the very gloom of the walk attracted me. For
-a long time the fear of seeming singular scared me away; but by
+a long [[Time|time]] the [[Fear|fear]] of seeming singular scared me away; but by
 degrees, as people became accustomed to me and my habits, and to such
-shades of peculiarity as were engrained in my nature—shades, certainly
+shades of peculiarity as were engrained in my [[Nature|nature]]—shades, certainly
 not striking enough to interest, and perhaps not prominent enough to
 offend, but born in and with me, and no more to be parted with than my
-identity—by slow degrees I became a frequenter of this strait and
-narrow path. I made myself gardener of some tintless flowers that grew
+[[Identity|identity]]—by slow degrees I became a frequenter of this strait and
+narrow path. I made myself gardener of some tintless [[Flowers|flowers]] that grew
 between its closely-ranked shrubs; I cleared away the relics of past
 autumns, choking up a rustic seat at the far end. Borrowing of Goton,
-the cuisinière, a pail of water and a scrubbing-brush, I made this seat
+the cuisinière, a pail of [[Water|water]] and a scrubbing-brush, I made this seat
 clean. Madame saw me at work and smiled approbation: whether sincerely
 or not I don’t know; but she _seemed_ sincere.
 
@@ -130,48 +130,48 @@ as I was not charged with the surveillance, I need not trouble myself
 to walk with the pupils: only I might permit her children to come
 there, to talk English with me.
 
-On the night in question, I was sitting on the hidden seat reclaimed
+On the [[Night|night]] in question, I was sitting on the hidden seat reclaimed
 from fungi and mould, listening to what seemed the far-off sounds of
-the city. Far off, in truth, they were not: this school was in the
-city’s centre; hence, it was but five minutes’ walk to the park, scarce
+the [[City|city]]. Far off, in [[Truth|truth]], they were not: this school was in the
+[[City|city]]’s centre; hence, it was but five minutes’ walk to the park, scarce
 ten to buildings of palatial splendour. Quite near were wide streets
-brightly lit, teeming at this moment with life: carriages were rolling
+brightly lit, teeming at this moment with life: carriages were [[rolling]]
 through them to balls or to the opera. The same hour which tolled
 curfew for our convent, which extinguished each lamp, and dropped the
-curtain round each couch, rang for the gay city about us the summons to
+curtain round each couch, rang for the gay [[City|city]] about us the summons to
 festal enjoyment. Of this contrast I thought not, however: gay
-instincts my nature had few; ball or opera I had never seen; and though
+instincts my [[Nature|nature]] had few; ball or opera I had never seen; and though
 often I had heard them described, and even wished to see them, it was
 not the wish of one who hopes to partake a pleasure if she could only
 reach it—who feels fitted to shine in some bright distant sphere, could
 she but thither win her way; it was no yearning to attain, no hunger to
-taste; only the calm desire to look on a new thing.
+taste; only the calm [[Desire|desire]] to look on a new thing.
 
-A moon was in the sky, not a full moon, but a young crescent. I saw her
-through a space in the boughs overhead. She and the stars, visible
-beside her, were no strangers where all else was strange: my childhood
+A [[Moon|moon]] was in the sky, not a full [[Moon|moon]], but a young crescent. I saw her
+through a space in the boughs overhead. She and the [[Stars|stars]], visible
+beside her, were no strangers where all else was strange: my [[Childhood|childhood]]
 knew them. I had seen that golden sign with the dark globe in its curve
 leaning back on azure, beside an old thorn at the top of an old field,
 in Old England, in long past days, just as it now leaned back beside a
 stately spire in this continental capital.
 
-Oh, my childhood! I had feelings: passive as I lived, little as I
+Oh, my [[Childhood|childhood]]! I had feelings: passive as I lived, little as I
 spoke, cold as I looked, when I thought of past days, I _could_ feel.
 About the present, it was better to be stoical; about the future—such a
 future as mine—to be dead. And in catalepsy and a dead trance, I
-studiously held the quick of my nature.
+studiously held the quick of my [[Nature|nature]].
 
-At that time, I well remember whatever could excite—certain accidents
+At that [[Time|time]], I [[Well|well]] remember whatever could excite—certain accidents
 of the weather, for instance, were almost dreaded by me, because they
 woke the being I was always lulling, and stirred up a craving cry I
-could not satisfy. One night a thunder-storm broke; a sort of hurricane
-shook us in our beds: the Catholics rose in panic and prayed to their
+could not satisfy. One [[Night|night]] a thunder-[[Storm|storm]] broke; a sort of hurricane
+shook us in our beds: the Catholics [[Rose|rose]] in panic and prayed to their
 saints. As for me, the tempest took hold of me with tyranny: I was
 roughly roused and obliged to live. I got up and dressed myself, and
 creeping outside the casement close by my bed, sat on its ledge, with
 my feet on the roof of a lower adjoining building. It was wet, it was
 wild, it was pitch-dark. Within the dormitory they gathered round the
-night-lamp in consternation, praying loud. I could not go in: too
+[[Night|night]]-lamp in consternation, praying loud. I could not go in: too
 resistless was the delight of staying with the wild hour, black and
 full of thunder, pealing out such an ode as language never delivered to
 man—too terribly glorious, the spectacle of clouds, split and pierced
@@ -179,24 +179,24 @@ by white and blinding bolts.
 
 I did long, achingly, then and for four and twenty hours afterwards,
 for something to fetch me out of my present existence, and lead me
-upwards and onwards. This longing, and all of a similar kind, it was
+upwards and onwards. This [[Longing|longing]], and all of a similar kind, it was
 necessary to knock on the head; which I did, figuratively, after the
 manner of Jael to Sisera, driving a nail through their temples. Unlike
 Sisera, they did not die: they were but transiently stunned, and at
 intervals would turn on the nail with a rebellious wrench: then did the
 temples bleed, and the brain thrill to its core.
 
-To-night, I was not so mutinous, nor so miserable. My Sisera lay quiet
-in the tent, slumbering; and if his pain ached through his slumbers,
+To-[[Night|night]], I was not so mutinous, nor so miserable. My Sisera lay quiet
+in the tent, slumbering; and if his [[Pain|pain]] ached through his slumbers,
 something like an angel—the ideal—knelt near, dropping balm on the
-soothed temples, holding before the sealed eyes a magic glass, of which
-the sweet, solemn visions were repeated in dreams, and shedding a
+soothed temples, holding before the sealed eyes a [[Magic|magic]] glass, of which
+the sweet, solemn visions were repeated in [[Dreams|dreams]], and shedding a
 reflex from her moonlight wings and robe over the transfixed sleeper,
 over the tent threshold, over all the landscape lying without. Jael,
 the stern woman; sat apart, relenting somewhat over her captive; but
-more prone to dwell on the faithful expectation of Heber coming home.
+more prone to dwell on the faithful expectation of Heber coming [[Home|home]].
 By which words I mean that the cool peace and dewy sweetness of the
-night filled me with a mood of hope: not hope on any definite point,
+[[Night|night]] filled me with a mood of [[Hope|hope]]: not [[Hope|hope]] on any definite point,
 but a general sense of encouragement and heart-ease.
 
 Should not such a mood, so sweet, so tranquil, so unwonted, have been
@@ -206,14 +206,14 @@ often is.
 
 Amid the intense stillness of that pile of stone overlooking the walk,
 the trees, the high wall, I heard a sound; a casement [all the windows
-here are casements, opening on hinges] creaked. Ere I had time to look
+here are casements, opening on hinges] creaked. Ere I had [[Time|time]] to look
 up and mark where, in which story, or by whom unclosed, a tree overhead
 shook, as if struck by a missile; some object dropped prone at my feet.
 
-Nine was striking by St. Jean Baptiste’s clock; day was fading, but it
-was not dark: the crescent moon aided little, but the deep gilding of
+Nine was striking by St. Jean Baptiste’s [[Clock|clock]]; day was fading, but it
+was not dark: the crescent [[Moon|moon]] aided little, but the deep gilding of
 that point in heaven where the sun beamed last, and the crystalline
-clearness of a wide space above, sustained the summer twilight; even in
+clearness of a wide space above, sustained the [[Summer|summer]] twilight; even in
 my dark walk I could, by approaching an opening, have managed to read
 print of a small type. Easy was it to see then that the missile was a
 box, a small box of white and coloured ivory; its loose lid opened in
@@ -222,15 +222,15 @@ pink paper, a note, superscribed, “Pour la robe grise.” I wore indeed a
 dress of French grey.
 
 Good. Was this a billet-doux? A thing I had heard of, but hitherto had
-not had the honour of seeing or handling. Was it this sort of commodity
+not had the [[Honour|honour]] of seeing or handling. Was it this sort of commodity
 I held between my finger and thumb at this moment?
 
 Scarcely: I did not dream it for a moment. Suitor or admirer my very
-thoughts had not conceived. All the teachers had dreams of some lover;
+thoughts had not conceived. All the teachers had [[Dreams|dreams]] of some [[Lover|lover]];
 one (but she was naturally of a credulous turn) believed in a future
 husband. All the pupils above fourteen knew of some prospective
 bridegroom; two or three were already affianced by their parents, and
-had been so from childhood: but into the realm of feelings and hopes
+had been so from [[Childhood|childhood]]: but into the realm of feelings and hopes
 which such prospects open, my speculations, far less my presumptions,
 had never once had warrant to intrude. If the other teachers went into
 town, or took a walk on the boulevards, or only attended mass, they
@@ -238,34 +238,34 @@ were very certain (according to the accounts brought back) to meet with
 some individual of the “opposite sex,” whose rapt, earnest gaze assured
 them of their power to strike and to attract. I can’t say that my
 experience tallied with theirs, in this respect. I went to church and I
-took walks, and am very well convinced that nobody minded me. There was
+took walks, and am very [[Well|well]] convinced that nobody minded me. There was
 not a girl or woman in the Rue Fossette who could not, and did not
 testify to having received an admiring beam from our young doctor’s
-blue eyes at one time or other. I am obliged, however humbling it may
+blue eyes at one [[Time|time]] or other. I am obliged, however humbling it may
 sound, to except myself: as far as I was concerned, those blue eyes
 were guiltless, and calm as the sky, to whose tint theirs seemed akin.
 So it came to pass that I heard the others talk, wondered often at
-their gaiety, security, and self-satisfaction, but did not trouble
+their gaiety, security, and [[Self|self]]-satisfaction, but did not trouble
 myself to look up and gaze along the path they seemed so certain of
 treading. This then was no billet-doux; and it was in settled
 conviction to the contrary that I quietly opened it. Thus it ran—I
 translate:—
 
-“Angel of my dreams! A thousand, thousand thanks for the promise kept:
-scarcely did I venture to hope its fulfilment. I believed you, indeed,
+“Angel of my [[Dreams|dreams]]! A thousand, thousand thanks for the promise kept:
+scarcely did I venture to [[Hope|hope]] its fulfilment. I believed you, indeed,
 to be half in jest; and then you seemed to think the enterprise beset
 with such danger—the hour so untimely, the alley so strictly
 secluded—often, you said, haunted by that dragon, the English
 teacher—une véritable bégueule Britannique à ce que vous dites—espèce
 de monstre, brusque et rude comme un vieux caporal de grenadiers, et
 revêche comme une religieuse” (the reader will excuse my modesty in
-allowing this flattering sketch of my amiable self to retain the slight
+allowing this flattering [[Sketch|sketch]] of my amiable [[Self|self]] to retain the slight
 veil of the original tongue). “You are aware,” went on this precious
 effusion, “that little Gustave, on account of his illness, has been
 removed to a master’s chamber—that favoured chamber, whose lattice
-overlooks your prison-ground. There, I, the best uncle in the world, am
-admitted to visit him. How tremblingly I approached the window and
-glanced into your Eden—an Eden for me, though a desert for you!—how I
+overlooks your [[Prison|prison]]-ground. There, I, the best uncle in the world, am
+admitted to visit him. How tremblingly I approached the [[Window|window]] and
+glanced into your Eden—an Eden for me, though a [[Desert|desert]] for you!—how I
 feared to behold vacancy, or the dragon aforesaid! How my heart
 palpitated with delight when, through apertures in the envious boughs,
 I at once caught the gleam of your graceful straw-hat, and the waving
@@ -274,8 +274,8 @@ But why, my angel, will you not look up? Cruel, to deny me one ray of
 those adorable eyes!—how a single glance would have revived me! I write
 this in fiery haste; while the physician examines Gustave, I snatch an
 opportunity to enclose it in a small casket, together with a bouquet of
-flowers, the sweetest that blow—yet less sweet than thee, my Peri—my
-all-charming! ever thine-thou well knowest whom!”
+[[Flowers|flowers]], the sweetest that blow—yet less sweet than thee, my Peri—my
+all-charming! ever thine-thou [[Well|well]] knowest whom!”
 
 “I wish I did know whom,” was my comment; and the wish bore even closer
 reference to the person addressed in this choice document, than to the
@@ -284,18 +284,18 @@ pupils; and, in that case, there was no great harm done or
 intended—only a small irregularity. Several of the girls, the majority,
 indeed, had brothers or cousins at the neighbouring college. But “la
 robe grise, le chapeau de paille,” here surely was a clue—a very
-confusing one. The straw-hat was an ordinary garden head-screen, common
+confusing one. The straw-hat was an ordinary [[Garden|garden]] head-screen, common
 to a score besides myself. The grey dress hardly gave more definite
-indication. Madame Beck herself ordinarily wore a grey dress just now;
+indication. [[Madame Beck]] herself ordinarily wore a grey dress just now;
 another teacher, and three of the pensionnaires, had had grey dresses
 purchased of the same shade and fabric as mine: it was a sort of
-every-day wear which happened at that time to be in vogue.
+every-day wear which happened at that [[Time|time]] to be in vogue.
 
 Meanwhile, as I pondered, I knew I must go in. Lights, moving in the
 dormitory, announced that prayers were over, and the pupils going to
 bed. Another half-hour and all doors would be locked—all lights
 extinguished. The front door yet stood open, to admit into the heated
-house the coolness of the summer night; from the portress’s cabinet
+[[house]] the coolness of the [[Summer|summer]] [[Night|night]]; from the portress’s cabinet
 close by shone a lamp, showing the long vestibule with the two-leaved
 drawing-room doors on one side, the great street-door closing the
 vista.
@@ -303,7 +303,7 @@ vista.
 All at once, quick rang the bell—quick, but not loud—a cautious
 tinkle—a sort of warning metal whisper. Rosine darted from her cabinet
 and ran to open. The person she admitted stood with her two minutes in
-parley: there seemed a demur, a delay. Rosine came to the garden door,
+parley: there seemed a demur, a delay. Rosine came to the [[Garden|garden]] door,
 lamp in hand; she stood on the steps, lifting her lamp, looking round
 vaguely.
 
@@ -311,13 +311,13 @@ vaguely.
 
 “Let me pass,” pleaded a voice I knew: “I ask but five minutes;” and a
 familiar shape, tall and grand (as we of the Rue Fossette all thought
-it), issued from the house, and strode down amongst the beds and walks.
+it), issued from the [[house]], and strode down amongst the beds and walks.
 It was sacrilege—the intrusion of a man into that spot, at that hour;
 but he knew himself privileged, and perhaps he trusted to the friendly
-night. He wandered down the alleys, looking on this side and on that—he
-was lost in the shrubs, trampling flowers and breaking branches in his
+[[Night|night]]. He wandered down the alleys, looking on this side and on that—he
+was lost in the shrubs, trampling [[Flowers|flowers]] and breaking branches in his
 search—he penetrated at last the “forbidden walk.” There I met him,
-like some ghost, I suppose.
+like some [[Ghost|ghost]], I suppose.
 
 “Dr. John! it is found.”
 
@@ -333,7 +333,7 @@ reveals.”
 
 “Perhaps you have read it,” I thought to myself; and yet I could not
 believe he wrote it: that could hardly be his style: besides, I was
-fool enough to think there would be a degree of hardship in his calling
+[[Fool|fool]] enough to think there would be a degree of hardship in his calling
 me such names. His own look vindicated him; he grew hot, and coloured
 as he read.
 
@@ -361,26 +361,26 @@ see her: her dress was grey, like mine. This circumstance, taken in
 connection with prior transactions, suggested to me that perhaps the
 case, however deplorable, was one in which I was under no obligation
 whatever to concern myself. Accordingly, I said,—“If you can assure me
-that none of Madame Beck’s pupils are implicated in this business, I
+that none of [[Madame Beck]]’s pupils are implicated in this business, I
 shall be very happy to stand aloof from all interference. Take the
 casket, the bouquet, and the billet; for my part, I gladly forget the
 whole affair.”
 
 “Look there!” he whispered suddenly, as his hand closed on what I
-offered, and at the same time he pointed through the boughs.
+offered, and at the same [[Time|time]] he pointed through the boughs.
 
 I looked. Behold Madame, in shawl, wrapping-gown, and slippers, softly
-descending the steps, and stealing like a cat round the garden: in two
+descending the steps, and stealing like a cat round the [[Garden|garden]]: in two
 minutes she would have been upon Dr. John. If _she_ were like a cat,
 however, _he_, quite as much, resembled a leopard: nothing could be
 lighter than his tread when he chose. He watched, and as she turned a
-corner, he took the garden at two noiseless bounds. She reappeared, and
+corner, he took the [[Garden|garden]] at two noiseless bounds. She reappeared, and
 he was gone. Rosine helped him, instantly interposing the door between
 him and his huntress. I, too, might have got away, but I preferred to
 meet Madame openly.
 
-Though it was my frequent and well-known custom to spend twilight in
-the garden, yet, never till now, had I remained so late. Full sure was
+Though it was my frequent and [[Well|well]]-known custom to spend twilight in
+the [[Garden|garden]], yet, never till now, had I remained so late. Full sure was
 I that Madame had missed—was come in search of me, and designed now to
 pounce on the defaulter unawares. I expected a reprimand. No. Madame
 was all goodness. She tendered not even a remonstrance; she testified
@@ -388,7 +388,7 @@ no shade of surprise. With that consummate tact of hers, in which I
 believe she was never surpassed by living thing, she even professed
 merely to have issued forth to taste “la brise du soir.”
 
-“Quelle belle nuit!” cried she, looking up at the stars—the moon was
+“Quelle belle nuit!” cried she, looking up at the [[Stars|stars]]—the [[Moon|moon]] was
 now gone down behind the broad tower of Jean Baptiste. “Qu’il fait bon?
 que l’air est frais!”
 
@@ -397,23 +397,23 @@ her down the principal alley. When at last we both re-entered, she
 leaned affably on my shoulder by way of support in mounting the
 front-door steps; at parting, her cheek was presented to my lips, and
 “Bon soir, my bonne amie; dormez bien!” was her kindly adieu for the
-night.
+[[Night|night]].
 
 I caught myself smiling as I lay awake and thoughtful on my
 couch—smiling at Madame. The unction, the suavity of her behaviour
 offered, for one who knew her, a sure token that suspicion of some kind
 was busy in her brain. From some aperture or summit of observation,
-through parted bough or open window, she had doubtless caught a
-glimpse, remote or near, deceptive or instructive, of that night’s
+through parted bough or open [[Window|window]], she had doubtless caught a
+glimpse, remote or near, deceptive or instructive, of that [[Night|night]]’s
 transactions. Finely accomplished as she was in the art of
 surveillance, it was next to impossible that a casket could be thrown
-into her garden, or an interloper could cross her walks to seek it,
+into her [[Garden|garden]], or an interloper could [[Cross|cross]] her walks to seek it,
 without that she, in shaken branch, passing shade, unwonted footfall,
 or stilly murmur (and though Dr. John had spoken very low in the few
 words he dropped me, yet the hum of his man’s voice pervaded, I
 thought, the whole conventual ground)—without, I say, that she should
 have caught intimation of things extraordinary transpiring on her
-premises. _What_ things, she might by no means see, or at that time be
+premises. _What_ things, she might by no means see, or at that [[Time|time]] be
 able to discover; but a delicious little ravelled plot lay tempting her
 to disentanglement; and in the midst, folded round and round in
 cobwebs, had she not secured “Meess Lucie” clumsily involved, like the

@@ -29,7 +29,7 @@ Hence Mrs. Flora Drummond actually cries aloud that she is being
 robbed of her precious vote; and says dramatically, "We women are
 being disenfranchised"--apparently by "Soviets." It is as if somebody
 who had just spent half a million on a sham diamond, that ought
-never to have deceived anybody, should shriek from the window
+never to have deceived anybody, should shriek from the [[Window|window]]
 that thieves had stolen the real diamond that never existed at all.
 
 Whether or no there are Soviets, there are undoubtedly Strikes;
@@ -50,7 +50,7 @@ it was Parliament itself.  It was not a mad Bolshevist addressing
 a mob who said that the men of the parliamentary group have
 to treat charges of corruption among themselves differently
 from those outside; it was the greatest living parliamentarian
-in a great parliamentary debate.  Miners had no more to be with it
+in a great parliamentary [[debate]].  Miners had no more to be with it
 than missionaries in the Cannibal Islands; it was not because men
 could not get coal that they wanted to get coronets; and the empty
 coal-scuttle did not fill the party chest.  But in any case the policy
@@ -68,7 +68,7 @@ not be true.  But she explains the demand by the old disdainful
 allusion to agitators; or Labour leaders who "have to beat the big
 drum or lose their jobs."  Nobody of course could possibly connect
 Mrs. Flora Drummond with the idea of a big drum; any more than
-with a big horse or a uniform or a self-created military rank.
+with a big [[Horse|horse]] or a uniform or a [[Self|self]]-created military rank.
 But this particular school of Feminists must not be too fastidious
 in the present case.  The miners are poor and rudely instructed men;
 and cannot be expected to have that touch of quiet persuasiveness
@@ -80,9 +80,9 @@ or that tender lute which Miss Pankhurst touched at twilight.
 But under all the disadvantages of the coarser sex, the advocates
 of Nationalization have not yet used all the methods that precedent
 might suggest to them.  Mr. Smillie has not cut up any Raphaels
-or Rembrandts at the National Gallery; nor even set fire to any
+or Rembrandts at the National Gallery; nor even set [[Fire|fire]] to any
 of the theatres he may happen to pass when he is out for a walk.
-Mr. Bonar Law, on returning home at evening, does not find
+Mr. Bonar Law, on returning [[Home|home]] at evening, does not find
 Mr. Sidney Webb, a solitary figure chained to his railings.
 One of the Suffragettes distinguished herself by getting inside
 a grand piano; but it is seldom that we open our own private piano
@@ -91,7 +91,7 @@ may be better at the big drum than the grand piano; but he remains
 on the outside of both; and his drum is really smaller than some.
 The big drum, however, is rather a convenient metaphor for something
 obvious and loud and hollow; and the true moral in the matter
-is that recent English history was a procession led far too much
+is that recent English [[history]] was a procession led far too much
 by the big drum; and the agitation about mere Parliamentary votes
 was one of the most recent and most remarkable examples of it.
 
@@ -105,14 +105,14 @@ one of the changes came which now complicate our position.
 The very industrialism which makes us dependent on coal,
 and therefore on coal-miners and coal-owners, was forced on us by
 fussy inefficient fools, for whom anything fresh seemed to be free.
-Neither miners nor mine-owners could have put out the fire by
-which Shakespeare told his Winter's Tale.  The unequal ownership,
+Neither miners nor mine-owners could have put out the [[Fire|fire]] by
+which Shakespeare told his [[Winter]]'s Tale.  The unequal ownership,
 which has justly alienated the workers, was hurried happily through
 because the owners were new, and it did not matter that they were few.
 The blind hypocrisy with which our press and publicists hardened
 their hearts in the great strikes before the war, was made
 possible by loud evasions about political progress and especially
-by the big drum of Votes for Women.  I have begun this essay
+by the big drum of Votes for Women.  I have begun this [[Essay|essay]]
 on a controversial note, with the echo of an old controversy;
 and yet I do not mean to be merely provocative.  The Suffragettes
 are only doing what we all do; and I have only put them first as an

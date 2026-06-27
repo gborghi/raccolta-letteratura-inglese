@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 8 (part 2)"
+title: "[[Emma]] — Chapter 8 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-“So very kind!” replied Miss Bates. “But you are always kind.”
+“So very kind!” replied [[Miss Bates]]. “But you are always kind.”
 
 There was no bearing such an “always;” and to break through her
-dreadful gratitude, Emma made the direct inquiry of—
+dreadful gratitude, [[Emma]] made the direct inquiry of—
 
 “Where—may I ask?—is Miss Fairfax going?”
 
@@ -40,7 +40,7 @@ Colonel Campbell’s return, and nothing should induce her to enter into
 any engagement at present—and so she told Mrs. Elton over and over
 again—and I am sure I had no more idea that she would change her
 mind!—but that good Mrs. Elton, whose judgment never fails her, saw
-farther than I did. It is not every body that would have stood out in
+farther than I did. It is not every [[Body|body]] that would have stood out in
 such a kind way as she did, and refuse to take Jane’s answer; but she
 positively declared she would _not_ write any such denial yesterday, as
 Jane wished her; she would wait—and, sure enough, yesterday evening it
@@ -53,7 +53,7 @@ till it was all settled.”
 “You spent the evening with Mrs. Elton?”
 
 “Yes, all of us; Mrs. Elton would have us come. It was settled so, upon
-the hill, while we were walking about with Mr. Knightley. ‘You _must_
+the [[Hill|hill]], while we were walking about with Mr. Knightley. ‘You _must_
 _all_ spend your evening with us,’ said she—‘I positively must have you
 _all_ come.’”
 
@@ -63,7 +63,7 @@ _all_ come.’”
 thought he would come, because Mrs. Elton declared she would not let
 him off, he did not;—but my mother, and Jane, and I, were all there,
 and a very agreeable evening we had. Such kind friends, you know, Miss
-Woodhouse, one must always find agreeable, though every body seemed
+Woodhouse, one must always find agreeable, though every [[Body|body]] seemed
 rather fagged after the morning’s party. Even pleasure, you know, is
 fatiguing—and I cannot say that any of them seemed very much to have
 enjoyed it. However, _I_ shall always think it a very pleasant party,
@@ -74,8 +74,8 @@ making up her mind the whole day?”
 
 “I dare say she had.”
 
-“Whenever the time may come, it must be unwelcome to her and all her
-friends—but I hope her engagement will have every alleviation that is
+“Whenever the [[Time|time]] may come, it must be unwelcome to her and all her
+friends—but I [[Hope|hope]] her engagement will have every alleviation that is
 possible—I mean, as to the character and manners of the family.”
 
 “Thank you, dear Miss Woodhouse. Yes, indeed, there is every thing in
@@ -91,7 +91,7 @@ you, Miss Woodhouse. Even you, used as you are to great sums, would
 hardly believe that so much could be given to a young person like
 Jane.”
 
-“Ah! madam,” cried Emma, “if other children are at all like what I
+“Ah! madam,” cried [[Emma]], “if other children are at all like what I
 remember to have been myself, I should think five times the amount of
 what I have ever yet heard named as a salary on such occasions, dearly
 earned.”
@@ -123,39 +123,39 @@ twenty-seven years; and now, poor old man, he is bed-ridden, and very
 poorly with the rheumatic gout in his joints—I must go and see him
 to-day; and so will Jane, I am sure, if she gets out at all. And poor
 John’s son came to talk to Mr. Elton about relief from the parish; he
-is very well to do himself, you know, being head man at the Crown,
+is very [[Well|well]] to do himself, you know, being head man at the [[Crown]],
 ostler, and every thing of that sort, but still he cannot keep his
 father without some help; and so, when Mr. Elton came back, he told us
 what John ostler had been telling him, and then it came out about the
-chaise having been sent to Randalls to take Mr. Frank Churchill to
+chaise having been sent to Randalls to take Mr. [[Frank Churchill]] to
 Richmond. That was what happened before tea. It was after tea that Jane
 spoke to Mrs. Elton.”
 
-Miss Bates would hardly give Emma time to say how perfectly new this
+[[Miss Bates]] would hardly give [[Emma]] [[Time|time]] to say how perfectly new this
 circumstance was to her; but as without supposing it possible that she
-could be ignorant of any of the particulars of Mr. Frank Churchill’s
+could be ignorant of any of the particulars of Mr. [[Frank Churchill]]’s
 going, she proceeded to give them all, it was of no consequence.
 
 What Mr. Elton had learned from the ostler on the subject, being the
 accumulation of the ostler’s own knowledge, and the knowledge of the
 servants at Randalls, was, that a messenger had come over from Richmond
-soon after the return of the party from Box Hill—which messenger,
+soon after the return of the party from Box [[Hill]]—which messenger,
 however, had been no more than was expected; and that Mr. Churchill had
 sent his nephew a few lines, containing, upon the whole, a tolerable
 account of Mrs. Churchill, and only wishing him not to delay coming
-back beyond the next morning early; but that Mr. Frank Churchill having
-resolved to go home directly, without waiting at all, and his horse
+back beyond the next morning early; but that Mr. [[Frank Churchill]] having
+resolved to go [[Home|home]] directly, without waiting at all, and his [[Horse|horse]]
 seeming to have got a cold, Tom had been sent off immediately for the
-Crown chaise, and the ostler had stood out and seen it pass by, the boy
+[[Crown]] chaise, and the ostler had stood out and seen it pass by, the boy
 going a good pace, and driving very steady.
 
 There was nothing in all this either to astonish or interest, and it
-caught Emma’s attention only as it united with the subject which
+caught [[Emma]]’s attention only as it united with the subject which
 already engaged her mind. The contrast between Mrs. Churchill’s
-importance in the world, and Jane Fairfax’s, struck her; one was every
+importance in the world, and [[Jane Fairfax]]’s, struck her; one was every
 thing, the other nothing—and she sat musing on the difference of
 woman’s destiny, and quite unconscious on what her eyes were fixed,
-till roused by Miss Bates’s saying,
+till roused by [[Miss Bates]]’s saying,
 
 “Aye, I see what you are thinking of, the pianoforte. What is to become
 of that?—Very true. Poor dear Jane was talking of it just now.—‘You
@@ -165,7 +165,7 @@ Campbell comes back. I shall talk about it to him; he will settle for
 me; he will help me out of all my difficulties.’—And to this day, I do
 believe, she knows not whether it was his present or his daughter’s.”
 
-Now Emma was obliged to think of the pianoforte; and the remembrance of
+Now [[Emma]] was obliged to think of the pianoforte; and the remembrance of
 all her former fanciful and unfair conjectures was so little pleasing,
 that she soon allowed herself to believe her visit had been long
 enough; and, with a repetition of every thing that she could venture to

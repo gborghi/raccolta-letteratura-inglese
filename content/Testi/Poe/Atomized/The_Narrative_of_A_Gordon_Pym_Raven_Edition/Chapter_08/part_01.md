@@ -20,7 +20,7 @@ CHAPTER 8
 
 
 
-      As I viewed myself in a fragment of looking-glass which hung up
+      As I viewed myself in a [[Fragment|fragment]] of looking-glass which hung up
 
       in the cabin, and by the dim light of a kind of battle-lantern, I
 
@@ -76,7 +76,7 @@ CHAPTER 8
 
 
 
-      We listened to their conversation for some time before we could
+      We listened to their conversation for some [[Time|time]] before we could
 
       make up our minds how to act, having as yet resolved on nothing
 
@@ -110,7 +110,7 @@ CHAPTER 8
 
       answer was made, but we could easily perceive that the hint was
 
-      well received by the whole party, and more particularly by Jones.
+      [[Well|well]] received by the whole party, and more particularly by [[Jones]].
 
       At this period I was excessively agitated, the more so as I could
 
@@ -124,7 +124,7 @@ CHAPTER 8
 
 
 
-      The tremendous noise made by the roaring of the wind in the
+      The tremendous noise made by the roaring of the [[Wind|wind]] in the
 
       rigging, and the washing of the sea over the deck, prevented us
 
@@ -134,7 +134,7 @@ CHAPTER 8
 
       “go forward, have an eye upon them, for he wanted no such secret
 
-      doings on board the brig.” It was well for us that the pitching
+      doings on board the brig.” It was [[Well|well]] for us that the pitching
 
       of the vessel at this moment was so violent as to prevent this
 
@@ -148,7 +148,7 @@ CHAPTER 8
 
       creating a good deal of other confusion. Luckily, neither of our
 
-      party was thrown from his position, and we had time to make a
+      party was thrown from his position, and we had [[Time|time]] to make a
 
       precipitate retreat to the forecastle, and arrange a hurried plan
 
@@ -174,7 +174,7 @@ CHAPTER 8
 
       had found it. The mate received them with feigned cordiality, and
 
-      told Augustus that, since he had behaved himself so well of late,
+      told Augustus that, since he had behaved himself so [[Well|well]] of late,
 
       he might take up his quarters in the cabin and be one of them for
 
@@ -192,7 +192,7 @@ CHAPTER 8
 
 
 
-      I now steadied myself as well as possible so as to have a good
+      I now steadied myself as [[Well|well]] as possible so as to have a good
 
       view of all that was passing within, and endeavoured to nerve
 

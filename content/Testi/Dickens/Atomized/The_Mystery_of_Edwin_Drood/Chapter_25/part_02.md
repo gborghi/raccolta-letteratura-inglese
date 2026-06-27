@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 23 (part 2)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 23 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -24,7 +24,7 @@ dead, and gone to Heaven.”
 “Why?”
 
 “I didn’t suppose you could have kept away, alive, so long, from the
-poor old soul with the real receipt for mixing it. And you are in
+poor old [[Soul|soul]] with the real receipt for mixing it. And you are in
 mourning too! Why didn’t you come and have a pipe or two of comfort?
 Did they leave you money, perhaps, and so you didn’t want comfort?”
 
@@ -36,9 +36,9 @@ Did they leave you money, perhaps, and so you didn’t want comfort?”
 
 “Died of what, lovey?”
 
-“Probably, Death.”
+“Probably, [[Death]].”
 
-“We are short to-night!” cries the woman, with a propitiatory laugh.
+“We are short to-[[Night|night]]!” cries the woman, with a propitiatory laugh.
 “Short and snappish we are! But we’re out of sorts for want of a smoke.
 We’ve got the all-overs, haven’t us, deary? But this is the place to
 cure ’em in; this is the place where the all-overs is smoked off.”
@@ -50,7 +50,7 @@ the foot of the squalid bed, with his head resting on his left hand.
 
 “Now you begin to look like yourself,” says the woman approvingly. “Now
 I begin to know my old customer indeed! Been trying to mix for yourself
-this long time, poppet?”
+this long [[Time|time]], poppet?”
 
 “I have been taking it now and then in my own way.”
 
@@ -60,8 +60,8 @@ little spoon? He’s going to take it in a artful form now, my deary
 dear!”
 
 Entering on her process, and beginning to bubble and blow at the faint
-spark enclosed in the hollow of her hands, she speaks from time to
-time, in a tone of snuffling satisfaction, without leaving off. When he
+spark enclosed in the hollow of her hands, she speaks from [[Time|time]] to
+[[Time|time]], in a tone of snuffling satisfaction, without leaving off. When he
 speaks, he does so without looking at her, and as if his thoughts were
 already roaming away by anticipation.
 
@@ -86,7 +86,7 @@ ready for you now, deary.”
 He takes it from her with great care, and puts the mouthpiece to his
 lips. She seats herself beside him, ready to refill the pipe.
 
-After inhaling a few whiffs in silence, he doubtingly accosts her with:
+After inhaling a few whiffs in [[Silence|silence]], he doubtingly accosts her with:
 
 “Is it as potent as it used to be?”
 
@@ -131,15 +131,15 @@ thousands of times in this room.”
 
 “It _was_ pleasant to do!”
 
-He says this with a savage air, and a spring or start at her. Quite
+He says this with a savage air, and a [[spring]] or start at her. Quite
 unmoved she retouches and replenishes the contents of the bowl with her
 little spatula. Seeing her intent upon the occupation, he sinks into
 his former attitude.
 
-“It was a journey, a difficult and dangerous journey. That was the
-subject in my mind. A hazardous and perilous journey, over abysses
+“It was a [[Journey|journey]], a difficult and dangerous [[Journey|journey]]. That was the
+subject in my mind. A hazardous and perilous [[Journey|journey]], over abysses
 where a slip would be destruction. Look down, look down! You see what
-lies at the bottom there?”
+lies at the [[Bottom|bottom]] there?”
 
 He has darted forward to say it, and to point at the ground, as though
 at some imaginary object far beneath. The woman looks at him, as his
@@ -147,24 +147,24 @@ spasmodic face approaches close to hers, and not at his pointing. She
 seems to know what the influence of her perfect quietude would be; if
 so, she has not miscalculated it, for he subsides again.
 
-“Well; I have told you I did it here hundreds of thousands of times.
+“[[Well]]; I have told you I did it here hundreds of thousands of times.
 What do I say? I did it millions and billions of times. I did it so
-often, and through such vast expanses of time, that when it was really
+often, and through such vast expanses of [[Time|time]], that when it was really
 done, it seemed not worth the doing, it was done so soon.”
 
-“That’s the journey you have been away upon,” she quietly remarks.
+“That’s the [[Journey|journey]] you have been away upon,” she quietly remarks.
 
 He glares at her as he smokes; and then, his eyes becoming filmy,
-answers: “That’s the journey.”
+answers: “That’s the [[Journey|journey]].”
 
-Silence ensues. His eyes are sometimes closed and sometimes open. The
+[[Silence]] ensues. His eyes are sometimes closed and sometimes open. The
 woman sits beside him, very attentive to the pipe, which is all the
 while at his lips.
 
 “I’ll warrant,” she observes, when he has been looking fixedly at her
 for some consecutive moments, with a singular appearance in his eyes of
 seeming to see her a long way off, instead of so near him: “I’ll
-warrant you made the journey in a many ways, when you made it so
+warrant you made the [[Journey|journey]] in a many ways, when you made it so
 often?”
 
 “No, always in one way.”
@@ -181,7 +181,7 @@ often?”
 
 “Ay.”
 
-For the time he appears unequal to any other reply than this lazy
+For the [[Time|time]] he appears unequal to any other reply than this lazy
 monosyllabic assent. Probably to assure herself that it is not the
 assent of a mere automaton, she reverses the form of her next sentence.
 
@@ -192,5 +192,5 @@ He struggles into a sitting posture, and retorts upon her: “What do you
 mean? What did I want? What did I come for?”
 
 She gently lays him back again, and before returning him the instrument
-he has dropped, revives the fire in it with her own breath; then says
+he has dropped, revives the [[Fire|fire]] in it with her own breath; then says
 to him, coaxingly:

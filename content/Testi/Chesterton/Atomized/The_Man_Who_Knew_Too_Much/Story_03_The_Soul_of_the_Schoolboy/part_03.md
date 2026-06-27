@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Soul of the Schoolboy (part 3)"
+title: "The Man Who Knew Too Much — The [[Soul]] of the Schoolboy (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/The-Man-Who-Knew-Too-Much-(Chesterton)"
@@ -19,14 +19,14 @@ it a twitch than the whole room went black, as if they had all been
 struck blind, and an instant afterward they heard the dull crash of
 
 the closing door.
-"Well, you've done it now," said Symon, in his tranquil fashion.
+"[[Well]], you've done it now," said Symon, in his tranquil fashion.
 
 Then after a pause he added, "I suppose they'll miss us sooner or
 
-later, and no doubt they can get it open; but it may take some
+later, and no [[Doubt|doubt]] they can get it open; but it may take some
 
-little time."
-There was a silence, and then the unconquerable Stinks observed:
+little [[Time|time]]."
+There was a [[Silence|silence]], and then the unconquerable Stinks observed:
 "Rotten that I had to leave my electric torch."
 "I think," said his uncle, with restraint, "that we are sufficiently
 
@@ -44,11 +44,11 @@ the man who called himself a magician. It was a very musical voice,
 
 and rather in contrast with his sinister and swarthy visage, which
 
-was now invisible. "Perhaps you don't know how terrible a truth that
+was now invisible. "Perhaps you don't know how terrible a [[Truth|truth]] that
 
 is. All you see are pictures made by the sun, faces and furniture
 
-and flowers and trees. The things themselves may be quite strange to
+and [[Flowers|flowers]] and trees. The things themselves may be quite strange to
 
 you. Something else may be standing now where you saw a table or a
 
@@ -58,16 +58,16 @@ A short, indescribable noise broke the stillness. Twyford started
 for a second, and then said, sharply:
 "Really, I don't think it's a suitable occasion for trying to
 
-frighten a child."
-"Who's a child?" cried the indignant Summers, with a voice that had
+frighten a [[Child|child]]."
+"Who's a [[Child|child]]?" cried the indignant Summers, with a voice that had
 
 a crow, but also something of a crack in it. "And who's a funk,
 
 either? Not me."
 "I will be silent, then," said the other voice out of the darkness.
 
-"But silence also makes and unmakes."
-The required silence remained unbroken for a long time until at last
+"But [[Silence|silence]] also makes and unmakes."
+The required [[Silence|silence]] remained unbroken for a long [[Time|time]] until at last
 
 the clergyman said to Symon in a low voice:
 "I suppose it's all right about air?"
@@ -122,7 +122,7 @@ fair, rather languid-looking man with a bald brow and a high-bridged
 
 nose; his companion was a younger man with light, curly hair and
 
-frank, and even innocent, eyes. Symon scarcely seemed to hear the
+frank, and even [[Innocent|innocent]], eyes. Symon scarcely seemed to hear the
 
 newcomers; it seemed almost as if he had not realized that the
 
@@ -147,15 +147,15 @@ and they turned in surprise to realize that the man in the black
 robe had spoken again.
 "You!" said the colonel, sharply. "And how do you propose to play
 
-the detective?"
-"I do not propose to play the detective," answered the other, in a
+the [[Detective|detective]]?"
+"I do not propose to play the [[Detective|detective]]," answered the other, in a
 
 clear voice like a bell. "I propose to play the magician. One of the
 
 magicians you show up in India, Colonel."
 No one spoke for a moment, and then Horne Fisher surprised everybody
 
-by saying, "Well, let's go upstairs, and this gentleman can have a
+by saying, "[[Well]], let's go upstairs, and this gentleman can have a
 
 try."
 He stopped Symon, who had an automatic finger on the button, saying:
@@ -171,7 +171,7 @@ reassured him. On the floor above lay one of those large paper darts
 
 which boys throw at each other when the schoolmaster is out of the
 
-room. It had evidently been thrown in at the window, and on being
+room. It had evidently been thrown in at the [[Window|window]], and on being
 
 unfolded displayed a scrawl of bad handwriting which ran: "Dear
 

@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 56 (part 1)"
+title: "[[Pride and Prejudice]] — Chapter 56 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -21,7 +21,7 @@ CHAPTER LVI.
 
 One morning, about a week after Bingley’s engagement with Jane had been
 formed, as he and the females of the family were sitting together in the
-dining-room, their attention was suddenly drawn to the window by the
+dining-room, their attention was suddenly drawn to the [[Window|window]] by the
 sound of a carriage; and they perceived a chaise and four driving up the
 lawn. It was too early in the morning for visitors; and besides, the
 equipage did not answer to that of any of their neighbours. The horses
@@ -31,7 +31,7 @@ somebody was coming, Bingley instantly prevailed on Miss Bennet to avoid
 the confinement of such an intrusion, and walk away with him into the
 shrubbery. They both set off; and the conjectures of the remaining three
 continued, though with little satisfaction, till the door was thrown
-open, and their visitor entered. It was Lady Catherine de Bourgh.
+open, and their visitor entered. It was [[Lady Catherine de Bourgh]].
 
 They were of course all intending to be surprised: but their
 astonishment was beyond their expectation; and on the part of Mrs.
@@ -46,9 +46,9 @@ introduction had been made.
 
 Mrs. Bennet, all amazement, though flattered by having a guest of such
 high importance, received her with the utmost politeness. After sitting
-for a moment in silence, she said, very stiffly, to Elizabeth,--
+for a moment in [[Silence|silence]], she said, very stiffly, to Elizabeth,--
 
-“I hope you are well, Miss Bennet. That lady, I suppose, is your
+“I [[Hope|hope]] you are [[Well|well]], Miss Bennet. That lady, I suppose, is your
 mother?”
 
 Elizabeth replied very concisely that she was.
@@ -61,21 +61,21 @@ and my eldest is somewhere about the ground, walking with a young man,
 who, I believe, will soon become a part of the family.”
 
 “You have a very small park here,” returned Lady Catherine, after a
-short silence.
+short [[Silence|silence]].
 
 “It is nothing in comparison of Rosings, my Lady, I dare say; but, I
 assure you, it is much larger than Sir William Lucas’s.”
 
 “This must be a most inconvenient sitting-room for the evening in
-summer: the windows are full west.”
+[[Summer|summer]]: the windows are full west.”
 
 Mrs. Bennet assured her that they never sat there after dinner; and then
 added,--
 
 “May I take the liberty of asking your Ladyship whether you left Mr. and
-Mrs. Collins well?”
+Mrs. Collins [[Well|well]]?”
 
-“Yes, very well. I saw them the night before last.”
+“Yes, very [[Well|well]]. I saw them the [[Night|night]] before last.”
 
 Elizabeth now expected that she would produce a letter for her from
 Charlotte, as it seemed the only probable motive for her calling. But no
@@ -99,7 +99,7 @@ drawing-room, and pronouncing them, after a short survey, to be
 decent-looking rooms, walked on.
 
 Her carriage remained at the door, and Elizabeth saw that her
-waiting-woman was in it. They proceeded in silence along the gravel walk
+waiting-woman was in it. They proceeded in [[Silence|silence]] along the gravel walk
 that led to the copse; Elizabeth was determined to make no effort for
 conversation with a woman who was now more than usually insolent and
 disagreeable.
@@ -117,30 +117,30 @@ As soon as they entered the copse, Lady Catherine began in the following
 manner:--
 
 “You can be at no loss, Miss Bennet, to understand the reason of my
-journey hither. Your own heart, your own conscience, must tell you why I
+[[Journey|journey]] hither. Your own heart, your own [[Conscience|conscience]], must tell you why I
 come.”
 
 Elizabeth looked with unaffected astonishment.
 
 “Indeed, you are mistaken, madam; I have not been at all able to account
-for the honour of seeing you here.”
+for the [[Honour|honour]] of seeing you here.”
 
 “Miss Bennet,” replied her Ladyship, in an angry tone, “you ought to
 know that I am not to be trifled with. But however insincere _you_ may
 choose to be, you shall not find _me_ so. My character has ever been
 celebrated for its sincerity and frankness; and in a cause of such
 moment as this, I shall certainly not depart from it. A report of a most
-alarming nature reached me two days ago. I was told, that not only your
+alarming [[Nature|nature]] reached me two days ago. I was told, that not only your
 sister was on the point of being most advantageously married, but that
-_you_--that Miss Elizabeth Bennet would, in all likelihood, be soon
+_you_--that Miss [[Elizabeth Bennet]] would, in all likelihood, be soon
 afterwards united to my nephew--my own nephew, Mr. Darcy. Though I
 _know_ it must be a scandalous falsehood, though I would not injure him
-so much as to suppose the truth of it possible, I instantly resolved on
+so much as to suppose the [[Truth|truth]] of it possible, I instantly resolved on
 setting off for this place, that I might make my sentiments known to
 you.”
 
 “If you believed it impossible to be true,” said Elizabeth, colouring
-with astonishment and disdain, “I wonder you took the trouble of coming
+with astonishment and disdain, “I [[Wonder|wonder]] you took the trouble of coming
 so far. What could your Ladyship propose by it?”
 
 “At once to insist upon having such a report universally contradicted.”

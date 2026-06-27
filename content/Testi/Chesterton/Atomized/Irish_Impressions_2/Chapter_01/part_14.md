@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-Many of the most extreme Nationalists knew this well;
+Many of the most extreme Nationalists knew this [[Well|well]];
 it was what Kettle probably meant when he suggested an Anglo-Irish
-history called "The Two Fools"; and of course I do not mean that.
+[[history]] called "The Two Fools"; and of course I do not mean that.
 I said all this in my very casual and rambling speech.  But it was
 based on this idea, that men had missed the joke against England,
 and that now unfortunately the joke was rather against Ireland.
 It was Ireland that was now missing a great historical opportunity
-for lack of humour and imagination, as England had missed it
+for lack of [[Humour|humour]] and [[Imagination|imagination]], as England had missed it
 a moment before.  If the Irish would laugh at the English
 and help the English, they would win all along the line.
-In the real history of the German problem, they would inherit
+In the real [[history]] of the German problem, they would inherit
 all the advantages of having been right from the first.
 It was now not so much a question of Ireland consenting to follow
 England's lead as of England being obliged to follow Ireland's lead.
@@ -32,19 +32,19 @@ These are the principles, which I thought, and still think, the only
 possible principles to form the basis of a recruiting appeal in Ireland.
 But on the particular occasion in question I naturally took the matter
 much more lightly; hoping that the two jokes might, as it were,
-cancel out, and leave the two countries quits and in a better humour.
+cancel out, and leave the two countries quits and in a better [[Humour|humour]].
 And I devoted nearly all my remarks to testifying that the English
 had really, in the mass, shed the cruder Teutonism that had
 excused the cruelties of the past.  I said that Englishmen
-were anything but proud of the past government of Ireland;
+were anything but proud of the past [[government]] of Ireland;
 that the mass of men of all parties were far more modest and humane
 in their view of Ireland than most Irishmen seem to suppose.
-And I ended with words which I only quote here from memory, because they
+And I ended with words which I only quote here from [[Memory|memory]], because they
 happen to be the text of the curious incident which followed:
 "This is no place for us to boast.  We stand here in the valley
-of our humiliation, where the flag we love has done very little that
+of our humiliation, where the [[Flag|flag]] we [[Love|love]] has done very little that
 was not evil; and where its victories have been far more disastrous
-than defeats;" and I concluded with some general expression of the hope
+than defeats;" and I concluded with some general expression of the [[Hope|hope]]
 (which I still entertain) that two lands so much loved, by those
 who know them best, are not meant to hate each other for ever.
 
@@ -63,17 +63,17 @@ I had not said there what I have said here, about the anomaly
 and absurdity of England in Ireland; I had only said that Ireland
 had suffered rather from the Teutonic theory than the English temper;
 and that the English temper, experienced at close quarters,
-was really quite ready for a reconciliation with Ireland.
+was really quite ready for a [[Reconciliation|reconciliation]] with Ireland.
 Nor indeed did Mr. Alison Phillips really complain especially of my
 denouncing the English, but rather of my way of defending them.
 He did not so much mind being charged with the vice of arrogance.
-What he could not bear was being charged with the virtue of humility.
+What he could not bear was being charged with the virtue of [[Humility|humility]].
 What worried him was not so much the supposition of our doing wrong,
 as that anybody should conceive it possible that we were sorry
 for doing wrong.  After all, he probably reasoned, it may not be easy
 for an eminent historical scholar actually to deny that certain
 tortures have taken place, or certain perjuries been proved;
-but there is really no reason why he should admit that the memory
+but there is really no reason why he should admit that the [[Memory|memory]]
 of using torture or perjury has so morbid an effect on the mind.
 Therefore he naturally desired to correct any impression that might arise,
 to the effect that he had been seen in the valley of humiliation,
@@ -96,14 +96,14 @@ always rushed forward to prove that the English were not so white
 as they were painted on the present occasion.  And after all it
 was only Englishman against Englishman, one word against another;
 and there were many superiorities on the side which refused
-to believe in English sympathy or self-criticism. And very few
-of the Irish, I fear, understood the simple fact of the matter,
-or the real spiritual excuses of the party thus praising spiritual pride.
+to believe in English sympathy or [[Self|self]]-criticism. And very few
+of the Irish, I [[Fear|fear]], understood the simple fact of the matter,
+or the real spiritual excuses of the party thus praising spiritual [[Pride|pride]].
 Few understood that I represented large numbers of amiable Englishmen
 in England, while Mr. Phillips necessarily represented a small
 number of naturally irritable Englishmen in Ireland.  Few, I fancy,
-sympathised with him so much as I do; for I know very well that
-he was not merely feeling as an Englishman, but as an exile.
+sympathised with him so much as I do; for I know very [[Well|well]] that
+he was not merely feeling as an Englishman, but as an [[Exile|exile]].
 
 ~||~
 
@@ -112,28 +112,28 @@ _VI--The Mistake of England_
 I MET one hearty Unionist, not to say Coercionist in Ireland,
 in such a manner as to talk to him at some length;
 one quite genial and genuine Irish gentleman, who was solidly
-on the side of the system of British government in Ireland.
-This gentleman had been shot through the body by the British
+on the side of the system of British [[government]] in Ireland.
+This gentleman had been shot through the [[Body|body]] by the British
 troops in their efforts to suppress the Easter Rebellion.
 The matter just missed being tragic; but since it did, I cannot help
 feeling it as slightly comic.  He assured me with great earnestness
 that the rebels had been guilty of the most calculated cruelties;
-and that they must have done their bloody deeds in the coldest blood.
+and that they must have done their bloody deeds in the coldest [[Blood|blood]].
 But since he is himself a solid and (I am happy to say)
 a living demonstration that the firing even on his own side
 must have been rather wild, I am inclined to give the benefit
-of the doubt also to the less elaborately educated marksmen.
+of the [[Doubt|doubt]] also to the less elaborately educated marksmen.
 When disciplined troops destroy people so much at random,
 it would seem unreasonable to deny that rioters may possibly have
 been riotous.  I hardly think he was, or even professed to be,
-a person of judicial impartiality; and it is entirely to his honour
+a person of judicial impartiality; and it is entirely to his [[Honour|honour]]
 that he was, on principle, so much more indignant with the rioters
 who did not shoot him than with the other rioters who did.
 But I venture to introduce him here not so much as an individual
-as an allegory.  The incident seems to me to set forth,
+as an [[Allegory|allegory]].  The incident seems to me to set forth,
 in a pointed, lucid, and picturesque form, exactly what the British
-military government really succeeded in doing in Ireland.
+military [[government]] really succeeded in doing in Ireland.
 It succeeded in half-killing its friends, and affording an
 intelligent but somewhat inhumane amusement to all its enemies.
-The fire-eater held his fire-arm in so contorted a posture as to give
-the wondering spectator a simple impression of suicide.
+The [[Fire|fire]]-eater held his [[Fire|fire]]-arm in so contorted a posture as to give
+the wondering spectator a simple impression of [[suicide]].

@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 35: IN WHICH MR. PICKWICK THINKS HE HAD BETTER GO TO BATH; AND (part 3)"
+title: "The [[Pickwick]] Papers — Chapter 35: IN WHICH MR. [[Pickwick|PICKWICK]] THINKS HE HAD BETTER GO TO BATH; AND (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,34 +14,34 @@ tags:
 </nav>
 
 
-Nothing worthy of special mention occurred during the journey. Mr.
+Nothing worthy of special mention occurred during the [[Journey|journey]]. Mr.
 Dowler related a variety of anecdotes, all illustrative of his own
 personal prowess and desperation, and appealed to Mrs. Dowler in
 corroboration thereof; when Mrs. Dowler invariably brought in, in the
 form of an appendix, some remarkable fact or circumstance which Mr.
 Dowler had forgotten, or had perhaps through modesty, omitted; for the
 addenda in every instance went to show that Mr. Dowler was even a more
-wonderful fellow than he made himself out to be. Mr. Pickwick and Mr.
+wonderful fellow than he made himself out to be. Mr. [[Pickwick]] and Mr.
 Winkle listened with great admiration, and at intervals conversed with
 Mrs. Dowler, who was a very agreeable and fascinating person. So, what
 between Mr. Dowler’s stories, and Mrs. Dowler’s charms, and Mr.
-Pickwick’s good-humour, and Mr. Winkle’s good listening, the insides
+[[Pickwick]]’s good-[[Humour|humour]], and Mr. Winkle’s good listening, the insides
 contrived to be very companionable all the way.
 
 The outsides did as outsides always do. They were very cheerful and
 talkative at the beginning of every stage, and very dismal and sleepy in
 the middle, and very bright and wakeful again towards the end. There was
 one young gentleman in an India-rubber cloak, who smoked cigars all day;
-and there was another young gentleman in a parody upon a greatcoat, who
+and there was another young gentleman in a [[Parody|parody]] upon a greatcoat, who
 lighted a good many, and feeling obviously unsettled after the second
 whiff, threw them away when he thought nobody was looking at him. There
 was a third young man on the box who wished to be learned in cattle; and
 an old one behind, who was familiar with farming. There was a constant
 succession of Christian names in smock-frocks and white coats, who were
-invited to have a ‘lift’ by the guard, and who knew every horse and
-hostler on the road and off it; and there was a dinner which would have
-been cheap at half-a-crown a mouth, if any moderate number of mouths
-could have eaten it in the time. And at seven o’clock P.M. Mr. Pickwick
+invited to have a ‘lift’ by the guard, and who knew every [[Horse|horse]] and
+hostler on the [[Road|road]] and off it; and there was a dinner which would have
+been cheap at half-a-[[Crown|crown]] a mouth, if any moderate number of mouths
+could have eaten it in the [[Time|time]]. And at seven o’[[Clock|clock]] P.M. Mr. [[Pickwick]]
 and his friends, and Mr. Dowler and his wife, respectively retired to
 their private sitting-rooms at the White Hart Hotel, opposite the Great
 Pump Room, Bath, where the waiters, from their costume, might be
@@ -67,67 +67,67 @@ scent _bouquet du roi_. His features were contracted into a perpetual
 smile; and his teeth were in such perfect order that it was difficult at
 a small distance to tell the real from the false.
 
-‘Mr. Pickwick,’ said Mr. Dowler; ‘my friend, Angelo Cyrus Bantam,
-Esquire, M.C.; Bantam; Mr. Pickwick. Know each other.’
+‘Mr. [[Pickwick]],’ said Mr. Dowler; ‘my friend, [[Angelo]] Cyrus Bantam,
+Esquire, M.C.; Bantam; Mr. [[Pickwick]]. Know each other.’
 
 ‘Welcome to Ba--ath, Sir. This is indeed an acquisition. Most welcome to
-Ba--ath, sir. It is long--very long, Mr. Pickwick, since you drank the
-waters. It appears an age, Mr. Pickwick. Re-markable!’
+Ba--ath, sir. It is long--very long, Mr. [[Pickwick]], since you drank the
+waters. It appears an age, Mr. [[Pickwick]]. Re-markable!’
 
-Such were the expressions with which Angelo Cyrus Bantam, Esquire, M.C.,
-took Mr. Pickwick’s hand; retaining it in his, meantime, and shrugging
+Such were the expressions with which [[Angelo]] Cyrus Bantam, Esquire, M.C.,
+took Mr. [[Pickwick]]’s hand; retaining it in his, meantime, and shrugging
 up his shoulders with a constant succession of bows, as if he really
 could not make up his mind to the trial of letting it go again.
 
-‘It is a very long time since I drank the waters, certainly,’ replied
-Mr. Pickwick; ‘for, to the best of my knowledge, I was never here
+‘It is a very long [[Time|time]] since I drank the waters, certainly,’ replied
+Mr. [[Pickwick]]; ‘for, to the best of my knowledge, I was never here
 before.’
 
-‘Never in Ba--ath, Mr. Pickwick!’ exclaimed the Grand Master, letting
-the hand fall in astonishment. ‘Never in Ba--ath! He! he! Mr. Pickwick,
+‘Never in Ba--ath, Mr. [[Pickwick]]!’ exclaimed the Grand Master, letting
+the hand fall in astonishment. ‘Never in Ba--ath! He! he! Mr. [[Pickwick]],
 you are a wag. Not bad, not bad. Good, good. He! he! he! Re-markable!’
 
 ‘To my shame, I must say that I am perfectly serious,’ rejoined Mr.
-Pickwick. ‘I really never was here before.’
+[[Pickwick]]. ‘I really never was here before.’
 
 ‘Oh, I see,’ exclaimed the Grand Master, looking extremely pleased;
 ‘yes, yes--good, good--better and better. You are the gentleman of whom
-we have heard. Yes; we know you, Mr. Pickwick; we know you.’
+we have heard. Yes; we know you, Mr. [[Pickwick]]; we know you.’
 
 ‘The reports of the trial in those confounded papers,’ thought Mr.
-Pickwick. ‘They have heard all about me.’
+[[Pickwick]]. ‘They have heard all about me.’
 
 You are the gentleman residing on Clapham Green,’ resumed Bantam, ‘who
 lost the use of his limbs from imprudently taking cold after port wine;
-who could not be moved in consequence of acute suffering, and who had
-the water from the king’s bath bottled at one hundred and three degrees,
+who could not be moved in consequence of acute [[Suffering|suffering]], and who had
+the [[Water|water]] from the [[King|king]]’s bath bottled at one hundred and three degrees,
 and sent by wagon to his bedroom in town, where he bathed, sneezed, and
 the same day recovered. Very remarkable!’
 
-Mr. Pickwick acknowledged the compliment which the supposition implied,
-but had the self-denial to repudiate it, notwithstanding; and taking
-advantage of a moment’s silence on the part of the M.C., begged to
+Mr. [[Pickwick]] acknowledged the compliment which the supposition implied,
+but had the [[Self|self]]-denial to repudiate it, notwithstanding; and taking
+advantage of a moment’s [[Silence|silence]] on the part of the M.C., begged to
 introduce his friends, Mr. Tupman, Mr. Winkle, and Mr. Snodgrass. An
-introduction which overwhelmed the M.C. with delight and honour.
+introduction which overwhelmed the M.C. with delight and [[Honour|honour]].
 
-‘Bantam,’ said Mr. Dowler, ‘Mr. Pickwick and his friends are strangers.
+‘Bantam,’ said Mr. Dowler, ‘Mr. [[Pickwick]] and his friends are strangers.
 They must put their names down. Where’s the book?’
 
 ‘The register of the distinguished visitors in Ba--ath will be at the
-Pump Room this morning at two o’clock,’ replied the M.C. ‘Will you guide
+Pump Room this morning at two o’[[Clock|clock]],’ replied the M.C. ‘Will you guide
 our friends to that splendid building, and enable me to procure their
 autographs?’
 
-‘I will,’ rejoined Dowler. ‘This is a long call. It’s time to go. I
+‘I will,’ rejoined Dowler. ‘This is a long call. It’s [[Time|time]] to go. I
 shall be here again in an hour. Come.’
 
-‘This is a ball-night,’ said the M.C., again taking Mr. Pickwick’s hand,
-as he rose to go. ‘The ball-nights in Ba--ath are moments snatched from
-paradise; rendered bewitching by music, beauty, elegance, fashion,
+‘This is a ball-[[Night|night]],’ said the M.C., again taking Mr. [[Pickwick]]’s hand,
+as he [[Rose|rose]] to go. ‘The ball-nights in Ba--ath are moments snatched from
+paradise; rendered bewitching by music, [[Beauty|beauty]], elegance, fashion,
 etiquette, and--and--above all, by the absence of tradespeople, who are
 quite inconsistent with paradise, and who have an amalgamation of
 themselves at the Guildhall every fortnight, which is, to say the least,
 remarkable. Good-bye, good-bye!’ and protesting all the way downstairs
 that he was most satisfied, and most delighted, and most overpowered,
-and most flattered, Angelo Cyrus Bantam, Esquire, M.C., stepped into a
+and most flattered, [[Angelo]] Cyrus Bantam, Esquire, M.C., stepped into a
 very elegant chariot that waited at the door, and rattled off.

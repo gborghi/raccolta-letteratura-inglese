@@ -1,5 +1,5 @@
 ---
-title: "The System of Doctor Tarr and Professor Fether (part 5)"
+title: "[[The System of Doctor Tarr and Professor Fether]] (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-System-of-Doctor-Tarr-and-Professor-Fether-(Poe)"
@@ -86,7 +86,7 @@ tags:
 
 
 
-      “Oh, Madame Joyeuse was a fool!” she exclaimed, “but there was
+      “Oh, Madame Joyeuse was a [[Fool|fool]]!” she exclaimed, “but there was
 
       really much sound sense, after all, in the opinion of Eugénie
 
@@ -114,11 +114,11 @@ tags:
 
       Salsafette from putting herself upon a par with the Medicean
 
-      Venus, when the point was very effectually and suddenly
+      [[Venus]], when the point was very effectually and suddenly
 
       accomplished by a series of loud screams, or yells, from some
 
-      portion of the main body of the _château_.
+      portion of the main [[Body|body]] of the _château_.
 
 
 
@@ -134,7 +134,7 @@ tags:
 
       a repetition of the sound. It came again—louder and seemingly
 
-      nearer—and then a third time very loud, and then a fourth time
+      nearer—and then a third [[Time|time]] very loud, and then a fourth [[Time|time]]
 
       with a vigor evidently diminished. At this apparent dying away of
 
@@ -152,9 +152,9 @@ tags:
 
       lunatics, every now and then, get up a howl in concert; one
 
-      starting another, as is sometimes the case with a bevy of dogs at
+      starting another, as is sometimes the case with a bevy of [[dogs]] at
 
-      night. It occasionally happens, however, that the _concerto_
+      [[Night|night]]. It occasionally happens, however, that the _concerto_
 
       yells are succeeded by a simultaneous effort at breaking loose;
 
@@ -186,7 +186,7 @@ tags:
 
 
 
-      “It is generally so, but not always. Some time ago, there were
+      “It is generally so, but not always. Some [[Time|time]] ago, there were
 
       about twenty-seven patients here; and, of that number, no less
 
@@ -210,7 +210,7 @@ tags:
 
       “Hold your tongues, every one of you!” said my host, in a great
 
-      rage. Whereupon the whole company maintained a dead silence for
+      rage. Whereupon the whole company maintained a dead [[Silence|silence]] for
 
       nearly a minute. As for one lady, she obeyed Monsieur Maillard to
 

@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 10 (part 1)"
+title: "[[thursday]] — Chapter 10 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -23,7 +23,7 @@ SYME sat down at a cafe table with his companions, his blue eyes
 sparkling like the bright sea below, and ordered a bottle of Saumur
 with a pleased impatience.  He was for some reason in a condition
 of curious hilarity.  His spirits were already unnaturally high;
-they rose as the Saumur sank, and in half an hour his talk was
+they [[Rose|rose]] as the Saumur sank, and in half an hour his talk was
 a torrent of nonsense.  He professed to be making out a plan
 of the conversation which was going to ensue between himself
 and the deadly Marquis.  He jotted it down wildly with a pencil.
@@ -49,7 +49,7 @@ I like to be just to my enemy."
 "It leads up to my challenge, don't you see," said Syme, beaming.
 "When the Marquis has given the thirty-ninth reply, which runs--"
 
-"Has it by any chance occurred to you," asked the Professor,
+"Has it by any chance occurred to you," asked [[The Professor|the Professor]],
 with a ponderous simplicity, "that the Marquis may not say
 all the forty-three things you have put down for him?
 In that case, I understand, your own epigrams may appear
@@ -66,7 +66,7 @@ You will make a name."
 "It only remains," continued Syme quite unperturbed, "to adopt
 some other method of breaking the ice (if I may so express it)
 between myself and the man I wish to kill.  And since the course
-of a dialogue cannot be predicted by one of its parties alone
+of a dialogue cannot be predicted by one of its parties [[Alone|alone]]
 (as you have pointed out with such recondite acumen),
 the only thing to be done, I suppose, is for the one party,
 as far as possible, to do all the dialogue by himself.
@@ -80,19 +80,19 @@ in Leicester Square, to the tune of which he had once stood up to die.
 He looked across to the little table where the Marquis sat.
 The man had two companions now, solemn Frenchmen in frock-coats
 and silk hats, one of them with the red rosette of the Legion
-of Honour, evidently people of a solid social position.
+of [[Honour]], evidently people of a solid social position.
 Besides these black, cylindrical costumes, the Marquis, in his loose
-straw hat and light spring clothes, looked Bohemian and even barbaric;
+straw hat and light [[spring]] clothes, looked Bohemian and even barbaric;
 but he looked the Marquis.  Indeed, one might say that he looked
-the king, with his animal elegance, his scornful eyes, and his proud
-head lifted against the purple sea.  But he was no Christian king,
+the [[King|king]], with his animal elegance, his scornful eyes, and his proud
+head lifted against the purple sea.  But he was no Christian [[King|king]],
 at any rate; he was, rather, some swarthy despot, half Greek,
-half Asiatic, who in the days when slavery seemed natural looked
+half Asiatic, who in the days when [[Slavery|slavery]] seemed natural looked
 down on the Mediterranean, on his galley and his groaning slaves.
-Just so, Syme thought, would the brown-gold face of such a tyrant
+Just so, Syme thought, would the brown-gold face of such a [[Tyrant|tyrant]]
 have shown against the dark green olives and the burning blue.
 
-"Are you going to address the meeting?" asked the Professor peevishly,
+"Are you going to address the meeting?" asked [[The Professor|the Professor]] peevishly,
 seeing that Syme still stood up without moving.
 
 Syme drained his last glass of sparkling wine.
@@ -124,16 +124,16 @@ by the shoulders.
 
 "Insulted your mother!" exclaimed the gentleman incredulously.
 
-"Well, anyhow," said Syme, conceding a point, "my aunt."
+"[[Well]], anyhow," said Syme, conceding a point, "my aunt."
 
 "But how can the Marquis have insulted your aunt just now?"
-said the second gentleman with some legitimate wonder.
-"He has been sitting here all the time."
+said the second gentleman with some legitimate [[Wonder|wonder]].
+"He has been sitting here all the [[Time|time]]."
 
 "Ah, it was what he said!" said Syme darkly.
 
 "I said nothing at all," said the Marquis, "except something about the band.
-I only said that I liked Wagner played well."
+I only said that I liked Wagner played [[Well|well]]."
 
 "It was an allusion to my family," said Syme firmly.
 "My aunt played Wagner badly.  It was a painful subject.
@@ -149,7 +149,7 @@ was simply packed with sinister allusions to my aunt's weaknesses."
 nothing for half an hour except that I liked the singing of that girl
 with black hair."
 
-"Well, there you are again!" said Syme indignantly.
+"[[Well]], there you are again!" said Syme indignantly.
 "My aunt's was red."
 
 "It seems to me," said the other, "that you are simply seeking

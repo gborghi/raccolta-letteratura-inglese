@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 25 (part 3)"
+title: "[[Villette]] — Chapter 25 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -14,31 +14,31 @@ tags:
 </nav>
 
 
-By nature he was a feeler and a thinker; over his emotions and his
-reflections spread a mellowing of melancholy; more than a mellowing: in
+By [[Nature|nature]] he was a feeler and a thinker; over his emotions and his
+reflections spread a mellowing of [[Melancholy|melancholy]]; more than a mellowing: in
 trouble and bereavement it became a cloud. He did not know much about
-Lucy Snowe; what he knew, he did not very accurately comprehend: indeed
+[[Lucy Snowe]]; what he knew, he did not very accurately comprehend: indeed
 his misconceptions of my character often made me smile; but he saw my
-walk in life lay rather on the shady side of the hill: he gave me
+walk in life lay rather on the shady side of the [[Hill|hill]]: he gave me
 credit for doing my endeavour to keep the course honestly straight; he
 would have helped me if he could: having no opportunity of helping, he
-still wished me well. When he did look at me, his eye was kind; when he
+still wished me [[Well|well]]. When he did look at me, his eye was kind; when he
 did speak, his voice was benevolent.
 
 “Yours,” said he, “is an arduous calling. I wish you health and
-strength to win in it—success.”
+strength to win in it—[[success]].”
 
 His fair little daughter did not take the information quite so
-composedly: she fixed on me a pair of eyes wide with wonder—almost with
+composedly: she fixed on me a pair of eyes wide with [[Wonder|wonder]]—almost with
 dismay.
 
 “Are you a teacher?” cried she. Then, having paused on the unpalatable
-idea, “Well, I never knew what you were, nor ever thought of asking:
-for me, you were always Lucy Snowe.”
+idea, “[[Well]], I never knew what you were, nor ever thought of asking:
+for me, you were always [[Lucy Snowe]].”
 
 “And what am I now?” I could not forbear inquiring.
 
-“Yourself, of course. But do you really teach here, in Villette?”
+“Yourself, of course. But do you really teach here, in [[Villette]]?”
 
 “I really do.”
 
@@ -53,10 +53,10 @@ only said, “Proceed, Polly, proceed with that catechism—prove yourself
 the little wiseacre you are. If Miss Snowe were to blush and look
 confused, I should have to bid you hold your tongue; and you and I
 would sit out the present meal in some disgrace; but she only smiles,
-so push her hard, multiply the cross-questions. Well, Miss Snowe, why
+so push her hard, multiply the [[Cross|cross]]-questions. [[Well]], Miss Snowe, why
 do you go on with it?”
 
-“Chiefly, I fear, for the sake of the money I get.”
+“Chiefly, I [[Fear|fear]], for the sake of the money I get.”
 
 “Not then from motives of pure philanthropy? Polly and I were clinging
 to that hypothesis as the most lenient way of accounting for your
@@ -64,7 +64,7 @@ eccentricity.”
 
 “No—no, sir. Rather for the roof of shelter I am thus enabled to keep
 over my head; and for the comfort of mind it gives me to think that
-while I can work for myself, I am spared the pain of being a burden to
+while I can work for myself, I am spared the [[Pain|pain]] of being a burden to
 anybody.”
 
 “Papa, say what you will, I pity Lucy.”
@@ -73,7 +73,7 @@ anybody.”
 you might a little callow gosling squattering out of bounds without
 leave; put it back in the warm nest of a heart whence it issued, and
 receive in your ear this whisper. If my Polly ever came to know by
-experience the uncertain nature of this world’s goods, I should like
+experience the uncertain [[Nature|nature]] of this world’s goods, I should like
 her to act as Lucy acts: to work for herself, that she might burden
 neither kith nor kin.”
 
@@ -81,12 +81,12 @@ neither kith nor kin.”
 thought she was a rich lady, and had rich friends.”
 
 “You thought like a little simpleton. _I_ never thought so. When I had
-time to consider Lucy’s manner and aspect, which was not often, I saw
+[[Time|time]] to consider Lucy’s manner and aspect, which was not often, I saw
 she was one who had to guard and not be guarded; to act and not be
 served: and this lot has, I imagine, helped her to an experience for
 which, if she live long enough to realize its full benefit, she may yet
-bless Providence. But this school,” he pursued, changing his tone from
-grave to gay: “would Madame Beck admit my Polly, do you think, Miss
+bless [[Providence]]. But this school,” he pursued, changing his tone from
+[[Grave|grave]] to gay: “would [[Madame Beck]] admit my Polly, do you think, Miss
 Lucy?”
 
 I said, there needed but to try Madame; it would soon be seen: she was
@@ -96,27 +96,27 @@ for it that Rosine, the portress, will not be very slow in answering
 your ring; and Madame, I am sure, will put on her best pair of gloves
 to come into the salon to receive you.”
 
-“In that case,” responded Mr. Home, “I see no sort of necessity there
+“In that case,” responded Mr. [[Home]], “I see no sort of necessity there
 is for delay. Mrs. Hurst can send what she calls her young lady’s
 ‘things’ after her; Polly can settle down to her horn-book before
-night; and you, Miss Lucy, I trust, will not disdain to cast an
-occasional eye upon her, and let me know, from time to time, how she
-gets on. I hope you approve of the arrangement, Countess de
+[[Night|night]]; and you, Miss Lucy, I trust, will not disdain to cast an
+occasional eye upon her, and let me know, from [[Time|time]] to [[Time|time]], how she
+gets on. I [[Hope|hope]] you approve of the arrangement, Countess de
 Bassompierre?”
 
 The Countess hemmed and hesitated. “I thought,” said she, “I thought I
-had finished my education—”
+had finished my [[Education|education]]—”
 
 “That only proves how much we may be mistaken in our thoughts. I hold a
 far different opinion, as most of these will who have been auditors of
 your profound knowledge of life this morning. Ah, my little girl, thou
 hast much to learn; and papa ought to have taught thee more than he has
-done! Come, there is nothing for it but to try Madame Beck; and the
+done! Come, there is nothing for it but to try [[Madame Beck]]; and the
 weather seems settling, and I have finished my breakfast—”
 
 “But, papa!”
 
-“Well?”
+“[[Well]]?”
 
 “I see an obstacle.”
 
@@ -127,8 +127,8 @@ in your greatcoat, and the snowdrift on the top.”
 
 “And, like that snowdrift, capable of melting?”
 
-“No! it is of too—too solid flesh: it is just your own self. Miss Lucy,
-warn Madame Beck not to listen to any overtures about taking me,
+“No! it is of too—too solid flesh: it is just your own [[Self|self]]. Miss Lucy,
+warn [[Madame Beck]] not to listen to any overtures about taking me,
 because, in the end, it would turn out that she would have to take papa
 too: as he is so teasing, I will just tell tales about him. Mrs.
 Bretton and all of you listen: About five years ago, when I was twelve
@@ -143,15 +143,15 @@ papa and I were both, in a manner, expelled. Lucy can just tell Madame
 Beck this little trait: it is only fair to let her know what she has to
 expect.”
 
-Mrs. Bretton asked Mr. Home what he had to say in answer to this
+Mrs. Bretton asked Mr. [[Home]] what he had to say in answer to this
 statement. As he made no defence, judgment was given against him, and
-Paulina triumphed.
+[[Paulina]] triumphed.
 
 But she had other moods besides the arch and naïve. After breakfast;
 when the two elders withdrew—I suppose to talk over certain of Mrs.
 Bretton’s business matters—and the Countess, Dr. Bretton, and I, were
-for a short time alone together—all the child left her; with us, more
-nearly her companions in age, she rose at once to the little lady: her
+for a short [[Time|time]] [[Alone|alone]] together—all the [[Child|child]] left her; with us, more
+nearly her companions in age, she [[Rose|rose]] at once to the little lady: her
 very face seemed to alter; that play of feature, and candour of look,
 which, when she spoke to her father, made it quite dimpled and round,
 yielded to an aspect more thoughtful, and lines distincter and less

@@ -1,5 +1,5 @@
 ---
-title: "Eugenics — Part 2 (part 13)"
+title: "[[Eugenics]] — Part 2 (part 13)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Eugenics-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Those who reply to any plea for freedom invariably fall into
+Those who reply to any plea for [[Freedom|freedom]] invariably fall into
 a certain trap.  I have debated with numberless different people
 on these matters, and I confess I find it amusing to see them
 tumbling into it one after another.  I remember discussing it
@@ -37,8 +37,8 @@ In trying to rebut the smaller accusation, they plead guilty
 to the larger one.
 
 This distinction is very important, as can be seen from any
-practical parallel.  Suppose we wake up in the middle of the night
-and find that a neighbor has entered the house not by the front-door
+practical parallel.  Suppose we wake up in the middle of the [[Night|night]]
+and find that a neighbor has entered the [[house]] not by the front-door
 but by the skylight; we may suspect that he has come after the fine
 old family jewellery.  We may be reassured if he can refer it
 to a really exceptional event; as that he fell on to the roof out
@@ -50,8 +50,8 @@ and wistful fashion and says, "After all, what is property?
 Why should material objects be thus artificially attached, etc., etc.?"
 We shall merely realize that his attitude allows of his taking
 the jewellery and everything else.  Or if the neighbour approaches
-us carrying a large knife dripping with blood, we may be convinced
-by his story that he killed another neighbour in self-defence,
+us carrying a large knife dripping with [[Blood|blood]], we may be convinced
+by his story that he killed another neighbour in [[Self|self]]-defence,
 that the quiet gentleman next door was really a homicidal maniac.
 We shall know that homicidal mania is exceptional and that we
 ourselves are so happy as not to suffer from it, and being free
@@ -63,7 +63,7 @@ from which, etc., etc."  We shall perceive that the sceptic is in a
 mood not only to murder us but to massacre everybody in the street.
 Exactly the same effect which would be produced by the questions
 of "What is property?" and "What is life?" is produced by the question
-of "What is liberty?"  It leaves the questioner free to disregard
+of "What is liberty?"  It [[Leaves|leaves]] the questioner free to disregard
 any liberty, or in other words to take any liberties.  The very thing
 he says is an anticipatory excuse for anything he may choose to do.
 If he gags a man to prevent him from indulging in profane swearing,
@@ -79,16 +79,16 @@ If the men who had denied one liberty had taken the opportunity
 to affirm other liberties, there might be some defence for them.
 But it never occurs to them to admit any liberties at all.
 It never so much as crosses their minds.  Hence the excuse for the last
-oppression will always serve as well as for the next oppression;
+oppression will always serve as [[Well|well]] as for the next oppression;
 and to that tyranny there can be no end.
 
 Hence the tyranny has taken but a single stride to reach the secret
-and sacred place of personal freedom, where no sane man ever
+and sacred place of personal [[Freedom|freedom]], where no sane man ever
 dreamed of seeing it; and especially the sanctuary of sex.
 It is as easy to take away a man's wife or baby as to take away his beer
 when you can say "What is liberty?"; just as it is easy to cut off
 his head as to cut off his hair if you are free to say "What is life?"
-There is no rational philosophy of human rights generally disseminated
+There is no rational [[philosophy]] of human rights generally disseminated
 among the populace, to which we can appeal in defence even of
 the most intimate or individual things that anybody can imagine.
 For so far as there was a vague principle in these things,
@@ -103,9 +103,9 @@ that the spinster is seldom moved by excess of tea to throw the tea-pot
 at anybody's head.  But the whole ground of argument is now changed.
 For people do not consider what the drunkard does to others by
 throwing the pot, but what he does to himself by drinking the beer.
-The argument is based on health; and it is said that the Government must
+The argument is based on health; and it is said that the [[government|Government]] must
 safeguard the health of the community.  And the moment that is said,
-there ceases to be the shadow of a difference between beer and tea.
+there ceases to be the [[Shadow|shadow]] of a difference between beer and tea.
 People can certainly spoil their health with tea or with tobacco
 or with twenty other things.  And there is no escape for the
 hygienic logician except to restrain and regulate them all.

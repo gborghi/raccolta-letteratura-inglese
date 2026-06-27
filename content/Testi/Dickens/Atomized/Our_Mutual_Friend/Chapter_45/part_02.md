@@ -15,7 +15,7 @@ tags:
 
 
 ‘YOU cook?’ said Mrs Wilfer. ‘YOU, who never cooked when you were at
-home?’
+[[Home|home]]?’
 
 ‘Yes, Ma,’ returned Bella; ‘that is precisely the state of the case.’
 
@@ -32,7 +32,7 @@ you arrived—’
 
 (‘Which I do, Ma.’)
 
-‘First, then, you put the fowls down to the fire.’
+‘First, then, you put the fowls down to the [[Fire|fire]].’
 
 ‘To—be—sure!’ cried Bella; ‘and flour them, and twirl them round, and
 there they go!’ sending them spinning at a great rate. ‘What’s next,
@@ -40,7 +40,7 @@ Ma?’
 
 ‘Next,’ said Mrs Wilfer with a wave of her gloves, expressive of
 abdication under protest from the culinary throne, ‘I would recommend
-examination of the bacon in the saucepan on the fire, and also of the
+examination of the bacon in the saucepan on the [[Fire|fire]], and also of the
 potatoes by the application of a fork. Preparation of the greens will
 further become necessary if you persist in this unseemly demeanour.’
 
@@ -51,17 +51,17 @@ other, and gave her attention to the other and forgot the third, and
 remembering the third was distracted by the fourth, and made amends
 whenever she went wrong by giving the unfortunate fowls an extra spin,
 which made their chance of ever getting cooked exceedingly doubtful. But
-it was pleasant cookery too. Meantime Miss Lavinia, oscillating between
+it was pleasant cookery too. Meantime Miss [[Lavinia]], oscillating between
 the kitchen and the opposite room, prepared the dining-table in the
 latter chamber. This office she (always doing her household spiriting
 with unwillingness) performed in a startling series of whisks and bumps;
-laying the table-cloth as if she were raising the wind, putting down
+laying the table-cloth as if she were raising the [[Wind|wind]], putting down
 the glasses and salt-cellars as if she were knocking at the door, and
 clashing the knives and forks in a skirmishing manner suggestive of
 hand-to-hand conflict.
 
-‘Look at Ma,’ whispered Lavinia to Bella when this was done, and they
-stood over the roasting fowls. ‘If one was the most dutiful child in
+‘Look at Ma,’ whispered [[Lavinia]] to Bella when this was done, and they
+stood over the roasting fowls. ‘If one was the most dutiful [[Child|child]] in
 existence (of course on the whole one hopes one is), isn’t she enough
 to make one want to poke her with something wooden, sitting there bolt
 upright in a corner?’
@@ -72,20 +72,20 @@ another corner.’
 ‘My dear, he couldn’t do it,’ said Lavvy. ‘Pa would loll directly. But
 indeed I do not believe there ever was any human creature who could keep
 so bolt upright as Ma, ‘or put such an amount of aggravation into one
-back! What’s the matter, Ma? Ain’t you well, Ma?’
+back! What’s the matter, Ma? Ain’t you [[Well|well]], Ma?’
 
-‘Doubtless I am very well,’ returned Mrs Wilfer, turning her eyes upon
+‘Doubtless I am very [[Well|well]],’ returned Mrs Wilfer, turning her eyes upon
 her youngest born, with scornful fortitude. ‘What should be the matter
 with Me?’
 
 ‘You don’t seem very brisk, Ma,’ retorted Lavvy the bold.
 
 ‘Brisk?’ repeated her parent, ‘Brisk? Whence the low expression,
-Lavinia? If I am uncomplaining, if I am silently contented with my lot,
+[[Lavinia]]? If I am uncomplaining, if I am silently contented with my lot,
 let that suffice for my family.’
 
-‘Well, Ma,’ returned Lavvy, ‘since you will force it out of me, I must
-respectfully take leave to say that your family are no doubt under
+‘[[Well]], Ma,’ returned Lavvy, ‘since you will force it out of me, I must
+respectfully take leave to say that your family are no [[Doubt|doubt]] under
 the greatest obligations to you for having an annual toothache on your
 wedding day, and that it’s very disinterested in you, and an immense
 blessing to them. Still, on the whole, it is possible to be too boastful
@@ -97,15 +97,15 @@ would have become of you, if I had not bestowed my hand upon R. W., your
 father, on this day?’
 
 ‘No, Ma,’ replied Lavvy, ‘I really do not; and, with the greatest
-respect for your abilities and information, I very much doubt if you do
+respect for your abilities and information, I very much [[Doubt|doubt]] if you do
 either.’
 
 Whether or no the sharp vigour of this sally on a weak point of Mrs
-Wilfer’s entrenchments might have routed that heroine for the time, is
-rendered uncertain by the arrival of a flag of truce in the person of
+Wilfer’s entrenchments might have routed that heroine for the [[Time|time]], is
+rendered uncertain by the arrival of a [[Flag|flag]] of truce in the person of
 Mr George Sampson: bidden to the feast as a friend of the family, whose
 affections were now understood to be in course of transference from
-Bella to Lavinia, and whom Lavinia kept—possibly in remembrance of his
+Bella to [[Lavinia]], and whom [[Lavinia]] kept—possibly in remembrance of his
 bad taste in having overlooked her in the first instance—under a course
 of stinging discipline.
 
@@ -117,20 +117,20 @@ prey to that inscrutable toothache.
 ‘I am surprised,’ said Mr Sampson feebly, ‘that Miss Bella condescends
 to cook.’
 
-Here Miss Lavinia descended on the ill-starred young gentleman with a
+Here Miss [[Lavinia]] descended on the ill-starred young gentleman with a
 crushing supposition that at all events it was no business of his. This
-disposed of Mr Sampson in a melancholy retirement of spirit, until the
+disposed of Mr Sampson in a [[Melancholy|melancholy]] retirement of spirit, until the
 cherub arrived, whose amazement at the lovely woman’s occupation was
 great.
 
-However, she persisted in dishing the dinner as well as cooking it, and
+However, she persisted in dishing the dinner as [[Well|well]] as cooking it, and
 then sat down, bibless and apronless, to partake of it as an illustrious
 guest: Mrs Wilfer first responding to her husband’s cheerful ‘For what
 we are about to receive—’ with a sepulchral Amen, calculated to cast a
 damp upon the stoutest appetite.
 
 ‘But what,’ said Bella, as she watched the carving of the fowls, ‘makes
-them pink inside, I wonder, Pa! Is it the breed?’
+them pink inside, I [[Wonder|wonder]], Pa! Is it the breed?’
 
 ‘No, I don’t think it’s the breed, my dear,’ returned Pa. ‘I rather
 think it is because they are not done.’
@@ -147,7 +147,7 @@ the fowls. Indeed, except in respect of staring about him (a branch of
 the public service to which the pictorial cherub is much addicted), this
 domestic cherub discharged as many odd functions as his prototype; with
 the difference, say, that he performed with a blacking-brush on the
-family’s boots, instead of performing on enormous wind instruments and
-double-basses, and that he conducted himself with cheerful alacrity to
+family’s boots, instead of performing on enormous [[Wind|wind]] instruments and
+[[Double|double]]-basses, and that he conducted himself with cheerful alacrity to
 much useful purpose, instead of foreshortening himself in the air with
 the vaguest intentions.

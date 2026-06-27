@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 8 (part 2)"
+title: "[[Shirley]] — Chapter 8 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-"Indeed! His name, Joe? You look well this morning."
+"Indeed! His name, Joe? You look [[Well|well]] this morning."
 
 
 
@@ -68,13 +68,13 @@ his wooden leg or she'd some notion about his being a hypocrite. Happen
 
 none of 'em nigh) she'd have encouraged him, in spite of his leg and his
 
-deceit, just to pass time like. I've known some on 'em do as mich, and
+deceit, just to pass [[Time|time]] like. I've known some on 'em do as mich, and
 
 some o' t' bonniest and mimmest-looking, too--ay, I've seen clean, trim
 
-young things, that looked as denty and pure as daisies, and wi' time a
+young things, that looked as denty and pure as daisies, and wi' [[Time|time]] a
 
-body fun' 'em out to be nowt but stinging, venomed nettles."
+[[Body|body]] fun' 'em out to be nowt but stinging, venomed nettles."
 
 
 
@@ -82,25 +82,25 @@ body fun' 'em out to be nowt but stinging, venomed nettles."
 
 
 
-"Howsiver, Sarah had another string to her bow. Fred Murgatroyd, one of
+"Howsiver, Sarah had another string to her bow. [[Fred]] Murgatroyd, one of
 
-our lads, is for her; and as women judge men by their faces--and Fred
+our lads, is for her; and as women judge men by their faces--and [[Fred]]
 
 has a middling face, while Moses is none so handsome, as we all
 
-knaw--the lass took on wi' Fred. A two-three months sin', Murgatroyd and
+knaw--the lass took on wi' [[Fred]]. A two-three months sin', Murgatroyd and
 
-Moses chanced to meet one Sunday night; they'd both come lurking about
+Moses chanced to meet one [[Sunday]] [[Night|night]]; they'd both come lurking about
 
 these premises wi' the notion of counselling Sarah to tak a bit of a
 
-walk wi' them. They fell out, had a tussle, and Fred was worsted, for
+walk wi' them. They fell out, had a tussle, and [[Fred]] was worsted, for
 
 he's young and small, and Barraclough, for all he has only one leg, is
 
 almost as strong as Sugden there--indeed, anybody that hears him roaring
 
-at a revival or a love-feast may be sure he's no weakling."
+at a revival or a [[Love|love]]-feast may be sure he's no weakling."
 
 
 
@@ -108,7 +108,7 @@ at a revival or a love-feast may be sure he's no weakling."
 
 explanation as Moses spins out his sermons. The long and short of it is,
 
-Murgatroyd was jealous of Barraclough; and last night, as he and a
+Murgatroyd was jealous of Barraclough; and last [[Night|night]], as he and a
 
 friend took shelter in a barn from a shower, they heard and saw Moses
 
@@ -148,7 +148,7 @@ looked anxious.
 
 
 
-"They'll not come; it's near noon. Better give it up. It will excite bad
+"They'll not come; it's near [[Noon|noon]]. Better give it up. It will excite bad
 
 feeling--make a stir--cause perhaps fatal consequences."
 
@@ -168,19 +168,19 @@ Moore--a wife and family make a man cautious."
 
 Moore looked disgusted. "Give way, if you please," said he; "leave me to
 
-myself. I have no objection to act alone; only be assured you will not
+myself. I have no objection to act [[Alone|alone]]; only be assured you will not
 
 find safety in submission. Your partner Pearson gave way, and conceded,
 
-and forbore. Well, that did not prevent them from attempting to shoot
+and forbore. [[Well]], that did not prevent them from attempting to shoot
 
-him in his own house."
+him in his own [[house]]."
 
 
 
-"My dear sir, take a little wine and water," recommended Mr. Helstone.
+"My dear sir, take a little wine and [[Water|water]]," recommended Mr. Helstone.
 
-The wine and water was hollands and water, as Mr. Sykes discovered when
+The wine and [[Water|water]] was hollands and [[Water|water]], as Mr. Sykes discovered when
 
 he had compounded and swallowed a brimming tumbler thereof. It
 

@@ -18,11 +18,11 @@ tags:
 
 ‘On my way to—where I am going.’
 
-‘Church Street, Smith Square, by Mill Bank,’ repeated Miss Peecher, in
+‘Church Street, [[smith|Smith]] Square, by Mill Bank,’ repeated Miss Peecher, in
 her own thoughts.
 
 ‘Charley Hexam has gone to get a book or two he wants, and will probably
-be back before me. As we leave my house empty, I took the liberty of
+be back before me. As we leave my [[house]] empty, I took the liberty of
 telling him I would leave the key here. Would you kindly allow me to do
 so?’
 
@@ -30,7 +30,7 @@ so?’
 
 ‘Partly for a walk, and partly for—on business.’
 
-‘Business in Church Street, Smith Square, by Mill Bank,’ repeated Miss
+‘Business in Church Street, [[smith|Smith]] Square, by Mill Bank,’ repeated Miss
 Peecher to herself.
 
 ‘Having said which,’ pursued Bradley, laying his door-key on the table,
@@ -51,18 +51,18 @@ ME!’ And for all her quiet manner, and her quiet smile, she was full of
 trouble as he went his way.
 
 She was right touching his destination. He held as straight a course
-for the house of the dolls’ dressmaker as the wisdom of his ancestors,
+for the [[house]] of the dolls’ dressmaker as the wisdom of his ancestors,
 exemplified in the construction of the intervening streets, would let
 him, and walked with a bent head hammering at one fixed idea. It had
 been an immoveable idea since he first set eyes upon her. It seemed to
 him as if all that he could suppress in himself he had suppressed, as
-if all that he could restrain in himself he had restrained, and the time
-had come—in a rush, in a moment—when the power of self-command had
-departed from him. Love at first sight is a trite expression quite
+if all that he could restrain in himself he had restrained, and the [[Time|time]]
+had come—in a rush, in a moment—when the power of [[Self|self]]-command had
+departed from him. [[Love]] at first sight is a trite expression quite
 sufficiently discussed; enough that in certain smouldering natures like
-this man’s, that passion leaps into a blaze, and makes such head as fire
-does in a rage of wind, when other passions, but for its mastery, could
-be held in chains. As a multitude of weak, imitative natures are
+this man’s, that passion leaps into a blaze, and makes such head as [[Fire|fire]]
+does in a rage of [[Wind|wind]], when other passions, but for its mastery, could
+be held in [[Chains|chains]]. As a multitude of weak, imitative natures are
 always lying by, ready to go mad upon the next wrong idea that may be
 broached—in these times, generally some form of tribute to Somebody
 for something that never was done, or, if ever done, that was done by
@@ -73,24 +73,24 @@ The schoolmaster went his way, brooding and brooding, and a sense of
 being vanquished in a struggle might have been pieced out of his worried
 face. Truly, in his breast there lingered a resentful shame to find
 himself defeated by this passion for Charley Hexam’s sister, though in
-the very self-same moments he was concentrating himself upon the object
+the very [[Self|self]]-same moments he was concentrating himself upon the object
 of bringing the passion to a successful issue.
 
-He appeared before the dolls’ dressmaker, sitting alone at her work.
+He appeared before the dolls’ dressmaker, sitting [[Alone|alone]] at her work.
 ‘Oho!’ thought that sharp young personage, ‘it’s you, is it? I know your
 tricks and your manners, my friend!’
 
-‘Hexam’s sister,’ said Bradley Headstone, ‘is not come home yet?’
+‘Hexam’s sister,’ said [[Bradley Headstone]], ‘is not come [[Home|home]] yet?’
 
 ‘You are quite a conjuror,’ returned Miss Wren.
 
 ‘I will wait, if you please, for I want to speak to her.’
 
-‘Do you?’ returned Miss Wren. ‘Sit down. I hope it’s mutual.’ Bradley
+‘Do you?’ returned Miss Wren. ‘Sit down. I [[Hope|hope]] it’s mutual.’ Bradley
 glanced distrustfully at the shrewd face again bending over the work,
-and said, trying to conquer doubt and hesitation:
+and said, trying to conquer [[Doubt|doubt]] and hesitation:
 
-‘I hope you don’t imply that my visit will be unacceptable to Hexam’s
+‘I [[Hope|hope]] you don’t imply that my visit will be unacceptable to Hexam’s
 sister?’
 
 ‘There! Don’t call her that. I can’t bear you to call her that,’
@@ -112,7 +112,7 @@ returning to the accusation, a little injured. ‘Won’t you say, some of
 us?’
 
 ‘Meaning,’ returned the little creature, ‘every one of you, but you.
-Hah! Now look this lady in the face. This is Mrs Truth. The Honourable.
+Hah! Now look this lady in the face. This is Mrs [[Truth]]. The Honourable.
 Full-dressed.’
 
 Bradley glanced at the doll she held up for his observation—which had
@@ -144,8 +144,8 @@ and as a perfectly disinterested person.’
 
 ‘Really, Mrs T.,’ remarked the dressmaker, ‘since it comes to this, we
 must positively turn you with your face to the wall.’ She had hardly
-done so, when Lizzie Hexam arrived, and showed some surprise on seeing
-Bradley Headstone there, and Jenny shaking her little fist at him close
+done so, when [[Lizzie Hexam]] arrived, and showed some surprise on seeing
+[[Bradley Headstone]] there, and Jenny shaking her little fist at him close
 before her eyes, and the Honourable Mrs T. with her face to the wall.
 
 ‘Here’s a perfectly disinterested person, Lizzie dear,’ said the knowing

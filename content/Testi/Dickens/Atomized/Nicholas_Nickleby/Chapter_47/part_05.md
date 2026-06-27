@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 47 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 47 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -19,13 +19,13 @@ up, would be a rich recompense for the largest fortune that a man could
 bestow in exchange for her hand.’
 
 ‘Precisely what I told you,’ said the artful Ralph, turning to his
-friend, old Arthur. ‘Precisely what made me consider the thing so fair
+friend, old [[arthur|Arthur]]. ‘Precisely what made me consider the thing so fair
 and easy. There is no obligation on either side. You have money, and
-Miss Madeline has beauty and worth. She has youth, you have money.
+Miss [[Madeline]] has [[Beauty|beauty]] and worth. She has youth, you have money.
 She has not money, you have not youth. Tit for tat, quits, a match of
 Heaven’s own making!’
 
-‘Matches are made in Heaven, they say,’ added Arthur Gride, leering
+‘Matches are made in Heaven, they say,’ added [[arthur|Arthur]] Gride, leering
 hideously at the father-in-law he wanted. ‘If we are married, it will be
 destiny, according to that.’
 
@@ -50,9 +50,9 @@ unfortunate is a sufficient reason why our relative positions should
 be changed, and that she should command and I should obey? Hint a wish,
 too! Perhaps you think, because you see me in this place and
 scarcely able to leave this chair without assistance, that I am some
-broken-spirited dependent creature, without the courage or power to do
-what I may think best for my own child. Still the power to hint a wish!
-I hope so!’
+broken-spirited dependent creature, without the [[Courage|courage]] or power to do
+what I may think best for my own [[Child|child]]. Still the power to hint a wish!
+I [[Hope|hope]] so!’
 
 ‘Pardon me,’ returned Ralph, who thoroughly knew his man, and had taken
 his ground accordingly; ‘you do not hear me out. I was about to say that
@@ -60,16 +60,16 @@ your hinting a wish, even hinting a wish, would surely be equivalent to
 commanding.’
 
 ‘Why, of course it would,’ retorted Mr. Bray, in an exasperated tone. ‘If
-you don’t happen to have heard of the time, sir, I tell you that there
-was a time, when I carried every point in triumph against her mother’s
+you don’t happen to have heard of the [[Time|time]], sir, I tell you that there
+was a [[Time|time]], when I carried every point in triumph against her mother’s
 whole family, although they had power and wealth on their side, by my
-will alone.’
+will [[Alone|alone]].’
 
-‘Still,’ rejoined Ralph, as mildly as his nature would allow him, ‘you
+‘Still,’ rejoined Ralph, as mildly as his [[Nature|nature]] would allow him, ‘you
 have not heard me out. You are a man yet qualified to shine in society,
 with many years of life before you; that is, if you lived in freer air,
 and under brighter skies, and chose your own companions. Gaiety is
-your element, you have shone in it before. Fashion and freedom for you.
+your element, you have shone in it before. Fashion and [[Freedom|freedom]] for you.
 France, and an annuity that would support you there in luxury, would
 give you a new lease of life, would transfer you to a new existence. The
 town rang with your expensive pleasures once, and you could blaze up
@@ -87,7 +87,7 @@ strongly. It’s my interest that you should marry your daughter to my
 friend Gride, because then he sees me paid--in part, that is. I don’t
 disguise it. I acknowledge it openly. But what interest have you in
 recommending her to such a step? Keep that in view. She might object,
-remonstrate, shed tears, talk of his being too old, and plead that her
+remonstrate, shed [[Tears|tears]], talk of his being too old, and plead that her
 life would be rendered miserable. But what is it now?’
 
 Several slight gestures on the part of the invalid showed that these
@@ -101,28 +101,28 @@ happy. But can you bear the thought of that?’
 ‘No!’ returned Bray, urged by a vindictive impulse he could not repress.
 
 ‘I should imagine not, indeed!’ said Ralph, quietly. ‘If she profits
-by anybody’s death,’ this was said in a lower tone, ‘let it be by her
+by anybody’s [[Death|death]],’ this was said in a lower tone, ‘let it be by her
 husband’s. Don’t let her have to look back to yours, as the event from
 which to date a happier life. Where is the objection? Let me hear it
 stated. What is it? That her suitor is an old man? Why, how often do men
 of family and fortune, who haven’t your excuse, but have all the means
 and superfluities of life within their reach, how often do they marry
 their daughters to old men, or (worse still) to young men without heads
-or hearts, to tickle some idle vanity, strengthen some family interest,
+or hearts, to tickle some idle [[Vanity|vanity]], strengthen some family interest,
 or secure some seat in Parliament! Judge for her, sir, judge for her.
 You must know best, and she will live to thank you.’
 
 ‘Hush! hush!’ cried Mr. Bray, suddenly starting up, and covering Ralph’s
 mouth with his trembling hand. ‘I hear her at the door!’
 
-There was a gleam of conscience in the shame and terror of this hasty
+There was a gleam of [[Conscience|conscience]] in the shame and terror of this hasty
 action, which, in one short moment, tore the thin covering of sophistry
 from the cruel design, and laid it bare in all its meanness and
 heartless deformity. The father fell into his chair pale and trembling;
-Arthur Gride plucked and fumbled at his hat, and durst not raise his
+[[arthur|Arthur]] Gride plucked and fumbled at his hat, and durst not raise his
 eyes from the floor; even Ralph crouched for the moment like a beaten
-hound, cowed by the presence of one young innocent girl!
+hound, cowed by the presence of one young [[Innocent|innocent]] girl!
 
 The effect was almost as brief as sudden. Ralph was the first to recover
-himself, and observing Madeline’s looks of alarm, entreated the poor
-girl to be composed, assuring her that there was no cause for fear.
+himself, and observing [[Madeline]]’s looks of alarm, entreated the poor
+girl to be composed, assuring her that there was no cause for [[Fear|fear]].

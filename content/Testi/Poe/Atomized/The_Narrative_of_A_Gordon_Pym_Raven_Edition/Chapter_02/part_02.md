@@ -18,7 +18,7 @@ tags:
 
       matured. The note was written and delivered, and on a Monday
 
-      morning I left the house for the New Bedford packet, as supposed.
+      morning I left the [[house]] for the New Bedford packet, as supposed.
 
       I went, however, straight to Augustus, who was waiting for me at
 
@@ -28,7 +28,7 @@ tags:
 
       brig; but, as there was now a thick fog in our favor, it was
 
-      agreed to lose no time in secreting me. Augustus led the way to
+      agreed to lose no [[Time|time]] in secreting me. Augustus led the way to
 
       the wharf, and I followed at a little distance, enveloped in a
 
@@ -36,15 +36,15 @@ tags:
 
       person might not be easily recognized. Just as we turned the
 
-      second corner, after passing Mr. Edmund’s well, who should
+      second corner, after passing Mr. [[Edmund]]’s [[Well|well]], who should
 
       appear, standing right in front of me, and looking me full in the
 
-      face, but old Mr. Peterson, my grandfather. “Why, bless my soul,
+      face, but old Mr. Peterson, my grandfather. “Why, bless my [[Soul|soul]],
 
       Gordon,” said he, after a long pause, “why, why,—whose dirty
 
-      cloak is that you have on?” “Sir!” I replied, assuming, as well
+      cloak is that you have on?” “Sir!” I replied, assuming, as [[Well|well]]
 
       as I could, in the exigency of the moment, an air of offended
 
@@ -74,7 +74,7 @@ tags:
 
       muttering between his teeth: “Won’t do—new glasses—thought it was
 
-      Gordon—d—d good-for-nothing salt water Long Tom.”
+      Gordon—d—d good-for-nothing salt [[Water|water]] Long Tom.”
 
 
 
@@ -86,7 +86,7 @@ tags:
 
       doing something to the forecastle combings. Captain Barnard, we
 
-      knew very well, was engaged at Lloyd and Vredenburgh’s, and would
+      knew very [[Well|well]], was engaged at Lloyd and Vredenburgh’s, and would
 
       remain there until late in the evening, so we had little to
 
@@ -108,11 +108,11 @@ tags:
 
       and staterooms. The ceiling was full seven feet high, and, in
 
-      short, every thing appeared of a more roomy and agreeable nature
+      short, every thing appeared of a more roomy and agreeable [[Nature|nature]]
 
       than I had anticipated. Augustus, however, would allow me but
 
-      little time for observation, insisting upon the necessity of my
+      little [[Time|time]] for observation, insisting upon the necessity of my
 
       concealing myself as soon as possible. He led the way into his
 
@@ -150,7 +150,7 @@ tags:
 
       been neatly cut out and again adjusted. As he pressed, this
 
-      portion rose up at one end sufficiently to allow the passage of
+      portion [[Rose|rose]] up at one end sufficiently to allow the passage of
 
       his finger beneath. In this manner he raised the mouth of the
 

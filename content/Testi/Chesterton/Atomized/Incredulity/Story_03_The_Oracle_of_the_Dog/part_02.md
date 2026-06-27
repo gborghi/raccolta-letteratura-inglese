@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Oracle of the Dog (part 2)"
+title: "[[Incredulity]] — The Oracle of the Dog (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -17,7 +17,7 @@ tags:
 `So Colonel Druce wore a white coat, did he?' said Father Brown
 as he put down the paper.
 
-`Trick he learnt in the tropics,' replied Fiennes, with some wonder.
+`Trick he learnt in the tropics,' replied Fiennes, with some [[Wonder|wonder]].
 `He'd had some queer adventures there, by his own account;
 and I fancy his dislike of Valentine was connected with the doctor
 coming from the tropics, too.  But it's all an infernal puzzle.
@@ -45,7 +45,7 @@ a silence and then Fiennes spoke quite slowly for him.
 he was almost foppish, yet you can hardly call him fashionable.
 For he wore a pair of long, luxuriant black whiskers
 such as haven't been seen since Victorian times.
-He had rather a fine grave face and a fine grave manner,
+He had rather a fine [[Grave|grave]] face and a fine [[Grave|grave]] manner,
 but every now and then he seemed to remember to smile.
 And when he showed his white teeth he seemed to lose a little
 of his dignity, and there was something faintly fawning about him.
@@ -57,7 +57,7 @@ Nobody knows who did it.  Nobody knows how it could be done.
 At least there's only one exception I'd make, and that's why
 I really mentioned the whole thing.  The dog knows.'
 
-Father Brown sighed and then said absently:
+[[Father Brown]] sighed and then said absently:
 `You were there as a friend of young Donald, weren't you?
 He didn't go on your walk with you?'
 
@@ -79,8 +79,8 @@ The dog was the only mystic in our company.'
 started me off on the story, your saying you didn't believe
 in believing in a dog.  He's a big black retriever, named Nox,
 and a suggestive name, too; for I think what he did
-a darker mystery than the murder.  You know Druce's house
-and garden are by the sea; we walked about a mile from it
+a darker mystery than the murder.  You know Druce's [[house]]
+and [[Garden|garden]] are by the sea; we walked about a mile from it
 along the sands and then turned back, going the other way.
 We passed a rather curious rock called the Rock of Fortune,
 famous in the neighbourhood because it's one of those examples
@@ -90,9 +90,9 @@ outline of it makes it look a little wild and sinister;
 at least it made it look so to me, for I don't imagine my
 jolly young companions were afflicted with the picturesque.
 But it may be that I was beginning to feel an atmosphere;
-for just then the question arose of whether it was time
+for just then the question arose of whether it was [[Time|time]]
 to go back to tea, and even then I think I had a premonition
-that time counted for a good deal in the business.
+that [[Time|time]] counted for a good deal in the business.
 Neither Herbert Druce nor I had a watch, so we called out to
 his brother, who was some paces behind, having stopped to light
 his pipe under the hedge.  Hence it happened that he shouted
@@ -101,8 +101,8 @@ through the growing twilight; and somehow the loudness of it
 made it sound like the proclamation of something tremendous.
 His unconsciousness seemed to make it all the more so;
 but that was always the way with omens; and particular ticks
-of the clock were really very ominous things that afternoon.
-According to Dr Valentine's testimony, poor Druce had actually
+of the [[Clock|clock]] were really very ominous things that afternoon.
+According to Dr [[Valentine]]'s testimony, poor Druce had actually
 died just about half past four.
 
 `Well, they said we needn't go home for ten minutes, and we walked
@@ -120,13 +120,13 @@ Then he suddenly threw up his head and sent up a howl or wail
 of woe--if ever I heard one in the world.
 
 ``What the devil's the matter with the dog?` asked Herbert;
-but none of us could answer.  There was a long silence
+but none of us could answer.  There was a long [[Silence|silence]]
 after the brute's wailing and whining died away on
-the desolate shore; and then the silence was broken.
+the desolate shore; and then the [[Silence|silence]] was broken.
 As I live, it was broken by a faint and far--off shriek,
 like the shriek of a woman from beyond the hedges inland.
 We didn't know what it was then; but we knew afterwards.
-It was the cry the girl gave when she first saw the body
+It was the cry the girl gave when she first saw the [[Body|body]]
 of her father.'
 
 `You went back, I suppose,' said Father Brown patiently.

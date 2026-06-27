@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 7 (part 2)"
+title: "[[The Professor]] — Chapter 7 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 opened like doors, with such broad, clear panes of glass; such a great
 
-looking-glass stood on my dressing-table--such a fine mirror glittered
+looking-glass stood on my dressing-table--such a fine [[Mirror|mirror]] glittered
 
 over the mantelpiece--the painted floor looked so clean and glossy;
 
@@ -64,7 +64,7 @@ mouths of Frenchmen, or Belgians (I was not then sensible of the horrors
 
 of the Belgian accent) was as music to my ears. One of these gentlemen
 
-presently discerned me to be an Englishman--no doubt from the fashion in
+presently discerned me to be an Englishman--no [[Doubt|doubt]] from the fashion in
 
 which I addressed the waiter; for I would persist in speaking French in
 
@@ -74,9 +74,9 @@ The gentleman, after looking towards me once or twice, politely accosted
 
 me in very good English; I remember I wished to God that I could speak
 
-French as well; his fluency and correct pronunciation impressed me for
+French as [[Well|well]]; his fluency and correct pronunciation impressed me for
 
-the first time with a due notion of the cosmopolitan character of the
+the first [[Time|time]] with a due notion of the cosmopolitan character of the
 
 capital I was in; it was my first experience of that skill in living
 
@@ -102,9 +102,9 @@ without a master when duty issued her stern mandate: “Go forth and seek
 
 another service.” I never linger over a painful and necessary task; I
 
-never take pleasure before business, it is not in my nature to do so;
+never take pleasure before business, it is not in my [[Nature|nature]] to do so;
 
-impossible to enjoy a leisurely walk over the city, though I perceived
+impossible to enjoy a leisurely walk over the [[City|city]], though I perceived
 
 the morning was very fine, until I had first presented Mr. Hunsden’s
 
@@ -112,7 +112,7 @@ letter of introduction, and got fairly on to the track of a new
 
 situation. Wrenching my mind from liberty and delight, I seized my hat,
 
-and forced my reluctant body out of the Hotel de ---- into the foreign
+and forced my reluctant [[Body|body]] out of the Hotel de ---- into the foreign
 
 street.
 
@@ -132,7 +132,7 @@ asked for Mr. Brown, and was admitted.
 
 Being shown into a small breakfast-room, I found myself in the
 
-presence of an elderly gentleman--very grave, business-like, and
+presence of an elderly gentleman--very [[Grave|grave]], business-like, and
 
 respectable-looking. I presented Mr. Hunsden’s letter; he received me
 
@@ -142,15 +142,15 @@ was anything in which his advice or experience could be of use. I said,
 
 “Yes,” and then proceeded to tell him that I was not a gentleman of
 
-fortune, travelling for pleasure, but an ex-counting-house clerk, who
+fortune, travelling for pleasure, but an ex-counting-[[house]] clerk, who
 
 wanted employment of some kind, and that immediately too. He replied
 
 that as a friend of Mr. Hunsden’s he would be willing to assist me as
 
-well as he could. After some meditation he named a place in a mercantile
+[[Well|well]] as he could. After some meditation he named a place in a mercantile
 
-house at Liege, and another in a bookseller’s shop at Louvain.
+[[house]] at Liege, and another in a bookseller’s shop at Louvain.
 
 
 
@@ -182,7 +182,7 @@ I thought two minutes, then I seized the idea eagerly.
 
 
 
-“But,” asked he, “do you understand French well enough to teach Belgian
+“But,” asked he, “do you understand French [[Well|well]] enough to teach Belgian
 
 boys English?”
 
@@ -192,7 +192,7 @@ Fortunately I could answer this question in the affirmative;
 
 having studied French under a Frenchman, I could speak the language
 
-intelligibly though not fluently. I could also read it well, and write
+intelligibly though not fluently. I could also read it [[Well|well]], and write
 
 it decently.
 
@@ -200,9 +200,9 @@ it decently.
 
 “Then,” pursued Mr. Brown, “I think I can promise you the place, for
 
-Monsieur Pelet will not refuse a professor recommended by me; but come
+[[Monsieur Pelet]] will not refuse a professor recommended by me; but come
 
-here again at five o’clock this afternoon, and I will introduce you to
+here again at five o’[[Clock|clock]] this afternoon, and I will introduce you to
 
 him.”
 
@@ -218,10 +218,10 @@ that is all.”
 
 
 
-My conscience thus quieted, I thanked Mr. Brown, and, for the present,
+My [[Conscience|conscience]] thus quieted, I thanked Mr. Brown, and, for the present,
 
-withdrew. This time I stepped out into the street with a relieved heart;
+withdrew. This [[Time|time]] I stepped out into the street with a relieved heart;
 
 the task I had imposed on myself for that day was executed. I might now
 
-take some hours of holiday. I felt free to look up. For the first time
+take some hours of holiday. I felt free to look up. For the first [[Time|time]]

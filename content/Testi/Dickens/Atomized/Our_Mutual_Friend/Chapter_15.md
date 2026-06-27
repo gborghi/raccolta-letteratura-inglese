@@ -16,34 +16,34 @@ tags:
 
 Chapter 10
 
-A MARRIAGE CONTRACT
+A [[Marriage|MARRIAGE]] CONTRACT
 
 
 There is excitement in the Veneering mansion. The mature young lady is
 going to be married (powder and all) to the mature young gentleman, and
-she is to be married from the Veneering house, and the Veneerings are to
+she is to be married from the Veneering [[house]], and the Veneerings are to
 give the breakfast. The Analytical, who objects as a matter of principle
 to everything that occurs on the premises, necessarily objects to the
-match; but his consent has been dispensed with, and a spring-van is
+match; but his consent has been dispensed with, and a [[Spring|spring]]-van is
 delivering its load of greenhouse plants at the door, in order that
-to-morrow’s feast may be crowned with flowers.
+to-morrow’s feast may be crowned with [[Flowers|flowers]].
 
 The mature young lady is a lady of property. The mature young gentleman
 is a gentleman of property. He invests his property. He goes, in
-a condescending amateurish way, into the City, attends meetings of
-Directors, and has to do with traffic in Shares. As is well known to the
+a condescending amateurish way, into the [[City]], attends meetings of
+Directors, and has to do with traffic in Shares. As is [[Well|well]] known to the
 wise in their generation, traffic in Shares is the one thing to have to
 do with in this world. Have no antecedents, no established character, no
 cultivation, no ideas, no manners; have Shares. Have Shares enough to
 be on Boards of Direction in capital letters, oscillate on mysterious
-business between London and Paris, and be great. Where does he come
+business between [[London]] and [[Paris]], and be great. Where does he come
 from? Shares. Where is he going to? Shares. What are his tastes? Shares.
 Has he any principles? Shares. What squeezes him into Parliament?
-Shares. Perhaps he never of himself achieved success in anything, never
+Shares. Perhaps he never of himself achieved [[success]] in anything, never
 originated anything, never produced anything? Sufficient answer to all;
 Shares. O mighty Shares! To set those blaring images so high, and to
 cause us smaller vermin, as under the influence of henbane or opium, to
-cry out, night and day, ‘Relieve us of our money, scatter it for us, buy
+cry out, [[Night|night]] and day, ‘Relieve us of our money, scatter it for us, buy
 us and sell us, ruin us, only we beseech ye take rank among the powers
 of the earth, and fatten on us’!
 
@@ -66,7 +66,7 @@ But, two or three weeks ago, Twemlow, sitting over his newspaper,
 and over his dry-toast and weak tea, and over the stable-yard in Duke
 Street, St James’s, received a highly-perfumed cocked-hat and monogram
 from Mrs Veneering, entreating her dearest Mr T., if not particularly
-engaged that day, to come like a charming soul and make a fourth at
+engaged that day, to come like a charming [[Soul|soul]] and make a fourth at
 dinner with dear Mr Podsnap, for the discussion of an interesting family
 topic; the last three words doubly underlined and pointed with a note
 of admiration. And Twemlow replying, ‘Not engaged, and more than
@@ -78,16 +78,16 @@ know our dear friend Podsnap?’
 
 Twemlow ought to know the dear friend Podsnap who covered him with so
 much confusion, and he says he does know him, and Podsnap reciprocates.
-Apparently, Podsnap has been so wrought upon in a short time, as to
-believe that he has been intimate in the house many, many, many years.
-In the friendliest manner he is making himself quite at home with his
-back to the fire, executing a statuette of the Colossus at Rhodes.
+Apparently, Podsnap has been so wrought upon in a short [[Time|time]], as to
+believe that he has been intimate in the [[house]] many, many, many years.
+In the friendliest manner he is making himself quite at [[Home|home]] with his
+back to the [[Fire|fire]], executing a statuette of the Colossus at Rhodes.
 Twemlow has before noticed in his feeble way how soon the Veneering
 guests become infected with the Veneering fiction. Not, however, that he
 has the least notion of its being his own case.
 
 ‘Our friends, Alfred and Sophronia,’ pursues Veneering the veiled
-prophet: ‘our friends Alfred and Sophronia, you will be glad to hear, my
+[[Prophet|prophet]]: ‘our friends Alfred and Sophronia, you will be glad to hear, my
 dear fellows, are going to be married. As my wife and I make it a family
 affair the entire direction of which we take upon ourselves, of course
 our first step is to communicate the fact to our family friends.’
@@ -95,7 +95,7 @@ our first step is to communicate the fact to our family friends.’
 (‘Oh!’ thinks Twemlow, with his eyes on Podsnap, ‘then there are only
 two of us, and he’s the other.’)
 
-‘I did hope,’ Veneering goes on, ‘to have had Lady Tippins to meet you;
+‘I did [[Hope|hope]],’ Veneering goes on, ‘to have had Lady Tippins to meet you;
 but she is always in request, and is unfortunately engaged.’
 
 (‘Oh!’ thinks Twemlow, with his eyes wandering, ‘then there are three of
@@ -106,7 +106,7 @@ town; but he writes, in his whimsical manner, that as we ask him to be
 bridegroom’s best man when the ceremony takes place, he will not refuse,
 though he doesn’t see what he has to do with it.’
 
-(‘Oh!’ thinks Twemlow, with his eyes rolling, ‘then there are four of
+(‘Oh!’ thinks Twemlow, with his eyes [[rolling]], ‘then there are four of
 us, and HE’S the other.’)
 
 ‘Boots and Brewer,’ observes Veneering, ‘whom you also know, I have not
@@ -139,7 +139,7 @@ her one aquiline nose that the bran-new jewels on them seem necessary
 for distinction’s sake.
 
 ‘But, my dear Podsnap,’ quoth Veneering, ‘there IS a tried friend of
-our family who, I think and hope you will agree with me, Podsnap, is
+our family who, I think and [[Hope|hope]] you will agree with me, Podsnap, is
 the friend on whom this agreeable duty almost naturally devolves. That
 friend,’ saying the words as if the company were about a hundred and
 fifty in number, ‘is now among us. That friend is Twemlow.’
@@ -154,9 +154,9 @@ who stands in the proud position—I mean who proudly stands in the
 position—or I ought rather to say, who places Anastatia and myself in
 the proud position of himself standing in the simple position—of baby’s
 godfather.’ And, indeed, Veneering is much relieved in mind to find that
-Podsnap betrays no jealousy of Twemlow’s elevation.
+Podsnap betrays no [[Jealousy|jealousy]] of Twemlow’s elevation.
 
-So, it has come to pass that the spring-van is strewing flowers on
+So, it has come to pass that the [[Spring|spring]]-van is strewing [[Flowers|flowers]] on
 the rosy hours and on the staircase, and that Twemlow is surveying the
 ground on which he is to play his distinguished part to-morrow. He has
 already been to the church, and taken note of the various impediments in
@@ -171,8 +171,8 @@ flourish he has prepared for the trumpets of fashion, describing how
 that on the seventeenth instant, at St James’s Church, the Reverend
 Blank Blank, assisted by the Reverend Dash Dash, united in the bonds of
 matrimony, Alfred Lammle Esquire, of Sackville Street, Piccadilly,
-to Sophronia, only daughter of the late Horatio Akershem, Esquire,
-of Yorkshire. Also how the fair bride was married from the house of
+to Sophronia, only daughter of the late [[Horatio]] Akershem, Esquire,
+of Yorkshire. Also how the fair bride was married from the [[house]] of
 Hamilton Veneering, Esquire, of Stucconia, and was given away by Melvin
 Twemlow, Esquire, of Duke Street, St James’s, second cousin to Lord
 Snigsworth, of Snigsworthy Park. While perusing which composition,
@@ -182,7 +182,7 @@ become enrolled in the list of Veneering’s dearest and oldest friends,
 they will have none but themselves to thank for it.
 
 After which, appears Sophronia (whom Twemlow has seen twice in his
-lifetime), to thank Twemlow for counterfeiting the late Horatio Akershem
+lifetime), to thank Twemlow for counterfeiting the late [[Horatio]] Akershem
 Esquire, broadly of Yorkshire. And after her, appears Alfred (whom
 Twemlow has seen once in his lifetime), to do the same and to make a
 pasty sort of glitter, as if he were constructed for candle-light only,
@@ -192,12 +192,12 @@ and with transparent little knobs on her temper, like the little
 transparent knob on the bridge of her nose, ‘Worn out by worry and
 excitement,’ as she tells her dear Mr Twemlow, and reluctantly revived
 with curacoa by the Analytical. And after that, the bridesmaids begin
-to come by rail-road from various parts of the country, and to come like
+to come by rail-[[Road|road]] from various parts of the country, and to come like
 adorable recruits enlisted by a sergeant not present; for, on arriving
 at the Veneering depot, they are in a barrack of strangers.
 
-So, Twemlow goes home to Duke Street, St James’s, to take a plate of
-mutton broth with a chop in it, and a look at the marriage-service, in
+So, Twemlow goes [[Home|home]] to Duke Street, St James’s, to take a plate of
+mutton broth with a chop in it, and a look at the [[Marriage|marriage]]-service, in
 order that he may cut in at the right place to-morrow; and he is low,
 and feels it dull over the livery stable-yard, and is distinctly aware
 of a dint in his heart, made by the most adorable of the adorable
@@ -205,36 +205,36 @@ bridesmaids. For, the poor little harmless gentleman once had his fancy,
 like the rest of us, and she didn’t answer (as she often does not),
 and he thinks the adorable bridesmaid is like the fancy as she was then
 (which she is not at all), and that if the fancy had not married some
-one else for money, but had married him for love, he and she would
+one else for money, but had married him for [[Love|love]], he and she would
 have been happy (which they wouldn’t have been), and that she has a
 tenderness for him still (whereas her toughness is a proverb). Brooding
-over the fire, with his dried little head in his dried little hands,
+over the [[Fire|fire]], with his dried little head in his dried little hands,
 and his dried little elbows on his dried little knees, Twemlow is
-melancholy. ‘No Adorable to bear me company here!’ thinks he. ‘No
+[[Melancholy|melancholy]]. ‘No Adorable to bear me company here!’ thinks he. ‘No
 Adorable at the club! A waste, a waste, a waste, my Twemlow!’ And so
 drops asleep, and has galvanic starts all over him.
 
 Betimes next morning, that horrible old Lady Tippins (relict of the late
 Sir Thomas Tippins, knighted in mistake for somebody else by His
-Majesty King George the Third, who, while performing the ceremony, was
+Majesty [[King]] George the Third, who, while performing the ceremony, was
 graciously pleased to observe, ‘What, what, what? Who, who, who?
 Why, why, why?’) begins to be dyed and varnished for the interesting
 occasion. She has a reputation for giving smart accounts of things, and
 she must be at these people’s early, my dear, to lose nothing of the
 fun. Whereabout in the bonnet and drapery announced by her name, any
-fragment of the real woman may be concealed, is perhaps known to her
+[[Fragment|fragment]] of the real woman may be concealed, is perhaps known to her
 maid; but you could easily buy all you see of her, in Bond Street; or
 you might scalp her, and peel her, and scrape her, and make two Lady
 Tippinses out of her, and yet not penetrate to the genuine article. She
 has a large gold eye-glass, has Lady Tippins, to survey the proceedings
 with. If she had one in each eye, it might keep that other drooping
 lid up, and look more uniform. But perennial youth is in her artificial
-flowers, and her list of lovers is full.
+[[Flowers|flowers]], and her list of [[lovers]] is full.
 
 ‘Mortimer, you wretch,’ says Lady Tippins, turning the eyeglass about
 and about, ‘where is your charge, the bridegroom?’
 
-‘Give you my honour,’ returns Mortimer, ‘I don’t know, and I don’t
+‘Give you my [[Honour|honour]],’ returns Mortimer, ‘I don’t know, and I don’t
 care.’
 
 ‘Miserable! Is that the way you do your duty?’
@@ -257,20 +257,20 @@ fellow, confound him!’ More carriages at the gate, and lo the rest of
 the characters. Whom Lady Tippins, standing on a cushion, surveying
 through the eye-glass, thus checks off. ‘Bride; five-and-forty if a
 day, thirty shillings a yard, veil fifteen pound, pocket-handkerchief
-a present. Bridesmaids; kept down for fear of outshining bride,
-consequently not girls, twelve and sixpence a yard, Veneering’s flowers,
+a present. Bridesmaids; kept down for [[Fear|fear]] of outshining bride,
+consequently not girls, twelve and sixpence a yard, Veneering’s [[Flowers|flowers]],
 snub-nosed one rather pretty but too conscious of her stockings, bonnets
 three pound ten. Twemlow; blessed release for the dear man if she really
-was his daughter, nervous even under the pretence that she is, well he
+was his daughter, nervous even under the pretence that she is, [[Well|well]] he
 may be. Mrs Veneering; never saw such velvet, say two thousand pounds
-as she stands, absolute jeweller’s window, father must have been a
+as she stands, absolute jeweller’s [[Window|window]], father must have been a
 pawnbroker, or how could these people do it? Attendant unknowns; pokey.’
 
 Ceremony performed, register signed, Lady Tippins escorted out of sacred
-edifice by Veneering, carriages rolling back to Stucconia, servants
-with favours and flowers, Veneering’s house reached, drawing-rooms most
+edifice by Veneering, carriages [[rolling]] back to Stucconia, servants
+with favours and [[Flowers|flowers]], Veneering’s [[house]] reached, drawing-rooms most
 magnificent. Here, the Podsnaps await the happy party; Mr Podsnap, with
-his hair-brushes made the most of; that imperial rocking-horse, Mrs
+his hair-brushes made the most of; that imperial rocking-[[Horse|horse]], Mrs
 Podsnap, majestically skittish. Here, too, are Boots and Brewer, and
 the two other Buffers; each Buffer with a flower in his button-hole, his
 hair curled, and his gloves buttoned on tight, apparently come prepared,
@@ -286,16 +286,16 @@ co-trustee, and that they are arranging about the fortune. Buffers are
 even overheard to whisper Thir-ty Thou-sand Pou-nds! with a smack and a
 relish suggestive of the very finest oysters. Pokey unknowns, amazed
 to find how intimately they know Veneering, pluck up spirit, fold
-their arms, and begin to contradict him before breakfast. What time Mrs
+their arms, and begin to contradict him before breakfast. What [[Time|time]] Mrs
 Veneering, carrying baby dressed as a bridesmaid, flits about among
-the company, emitting flashes of many-coloured lightning from diamonds,
+the company, emitting flashes of many-coloured [[Lightning|lightning]] from diamonds,
 emeralds, and rubies.
 
-The Analytical, in course of time achieving what he feels to be due to
+The Analytical, in course of [[Time|time]] achieving what he feels to be due to
 himself in bringing to a dignified conclusion several quarrels he has on
 hand with the pastrycook’s men, announces breakfast. Dining-room no less
 magnificent than drawing-room; tables superb; all the camels out, and
-all laden. Splendid cake, covered with Cupids, silver, and true-lovers’
+all laden. Splendid cake, covered with Cupids, silver, and true-[[lovers]]’
 knots. Splendid bracelet, produced by Veneering before going down, and
 clasped upon the arm of bride. Yet nobody seems to think much more of
 the Veneerings than if they were a tolerable landlord and landlady
@@ -343,15 +343,15 @@ has ever done; the difference between him and his friend Eugene, being,
 that the latter, in the back of HIS chair, appears to be contemplating
 all the wrong he would like to do—particularly to the present company.
 
-In which state of affairs, the usual ceremonies rather droop and flag,
+In which state of affairs, the usual ceremonies rather droop and [[Flag|flag]],
 and the splendid cake when cut by the fair hand of the bride has but
 an indigestible appearance. However, all the things indispensable to
 be said are said, and all the things indispensable to be done are
 done (including Lady Tippins’s yawning, falling asleep, and waking
-insensible), and there is hurried preparation for the nuptial journey
+insensible), and there is hurried preparation for the nuptial [[Journey|journey]]
 to the Isle of Wight, and the outer air teems with brass bands and
 spectators. In full sight of whom, the malignant star of the Analytical
-has pre-ordained that pain and ridicule shall befall him. For he,
+has pre-ordained that [[Pain|pain]] and ridicule shall befall him. For he,
 standing on the doorsteps to grace the departure, is suddenly caught a
 most prodigious thump on the side of his head with a heavy shoe, which
 a Buffer in the hall, champagne-flushed and wild of aim, has borrowed on
@@ -368,21 +368,21 @@ Mortimer Lightwood and Eugene fade away, and Twemlow fades away, and
 the stoney aunt goes away—she declines to fade, proving rock to the
 last—and even the unknowns are slowly strained off, and it is all over.
 
-All over, that is to say, for the time being. But, there is another time
+All over, that is to say, for the [[Time|time]] being. But, there is another [[Time|time]]
 to come, and it comes in about a fortnight, and it comes to Mr and Mrs
 Lammle on the sands at Shanklin, in the Isle of Wight.
 
-Mr and Mrs Lammle have walked for some time on the Shanklin sands, and
+Mr and Mrs Lammle have walked for some [[Time|time]] on the Shanklin sands, and
 one may see by their footprints that they have not walked arm in arm,
 and that they have not walked in a straight track, and that they have
-walked in a moody humour; for, the lady has prodded little spirting
+walked in a moody [[Humour|humour]]; for, the lady has prodded little spirting
 holes in the damp sand before her with her parasol, and the gentleman
 has trailed his stick after him. As if he were of the Mephistopheles
 family indeed, and had walked with a drooping tail.
 
 ‘Do you mean to tell me, then, Sophronia—’
 
-Thus he begins after a long silence, when Sophronia flashes fiercely,
+Thus he begins after a long [[Silence|silence]], when Sophronia flashes fiercely,
 and turns upon him.
 
 ‘Don’t put it upon ME, sir. I ask you, do YOU mean to tell me?’
@@ -392,7 +392,7 @@ her nostrils and bites her under-lip; Mr Lammle takes his gingerous
 whiskers in his left hand, and, bringing them together, frowns furtively
 at his beloved, out of a thick gingerous bush.
 
-‘Do I mean to say!’ Mrs Lammle after a time repeats, with indignation.
+‘Do I mean to say!’ Mrs Lammle after a [[Time|time]] repeats, with indignation.
 ‘Putting it on me! The unmanly disingenuousness!’
 
 Mr Lammle stops, releases his whiskers, and looks at her. ‘The what?’
@@ -420,7 +420,7 @@ me?’
 As this happens to be true, Mrs Lammle is thrown on the feminine
 resource of saying, ‘I don’t care what you uttered or did not utter.’
 
-After a little more walking and a little more silence, Mr Lammle breaks
+After a little more walking and a little more [[Silence|silence]], Mr Lammle breaks
 the latter.
 
 ‘You shall proceed in your own way. You claim a right to ask me do I
@@ -499,7 +499,7 @@ pretend to believe?’
 ‘So you first deceive me and then insult me!’ cries the lady, with a
 heaving bosom.
 
-‘Not at all. I have originated nothing. The double-edged question was
+‘Not at all. I have originated nothing. The [[Double|double]]-edged question was
 yours.’
 
 ‘Was mine!’ the bride repeats, and her parasol breaks in her angry hand.
@@ -512,14 +512,14 @@ repressive power, and she has none.
 ‘Throw it away,’ he coolly recommends as to the parasol; ‘you have made
 it useless; you look ridiculous with it.’
 
-Whereupon she calls him in her rage, ‘A deliberate villain,’ and so
+Whereupon she calls him in her rage, ‘A deliberate [[Villain|villain]],’ and so
 casts the broken thing from her as that it strikes him in falling. The
 finger-marks are something whiter for the instant, but he walks on at
 her side.
 
-She bursts into tears, declaring herself the wretchedest, the most
+She bursts into [[Tears|tears]], declaring herself the wretchedest, the most
 deceived, the worst-used, of women. Then she says that if she had
-the courage to kill herself, she would do it. Then she calls him vile
+the [[Courage|courage]] to kill herself, she would do it. Then she calls him vile
 impostor. Then she asks him, why, in the disappointment of his base
 speculation, he does not take her life with his own hand, under the
 present favourable circumstances. Then she cries again. Then she is
@@ -545,7 +545,7 @@ her head again; but her whole figure reveals that she knows it uneasily.
 
 ‘Enough of this. Come! Do you hear? Get up.’
 
-Yielding to his hand, she rises, and they walk again; but this time with
+Yielding to his hand, she rises, and they walk again; but this [[Time|time]] with
 their faces turned towards their place of residence.
 
 ‘Mrs Lammle, we have both been deceiving, and we have both been
@@ -554,7 +554,7 @@ nut-shell, there’s the state of the case.’
 
 ‘You sought me out—’
 
-‘Tut! Let us have done with that. WE know very well how it was. Why
+‘Tut! Let us have done with that. WE know very [[Well|well]] how it was. Why
 should you and I talk about it, when you and I can’t disguise it? To
 proceed. I am disappointed and cut a poor figure.’
 
@@ -567,17 +567,17 @@ too, are disappointed and cut a poor figure.’
 
 ‘You are now cool enough, Sophronia, to see that you can’t be injured
 without my being equally injured; and that therefore the mere word is
-not to the purpose. When I look back, I wonder how I can have been such
-a fool as to take you to so great an extent upon trust.’
+not to the purpose. When I look back, I [[Wonder|wonder]] how I can have been such
+a [[Fool|fool]] as to take you to so great an extent upon trust.’
 
 ‘And when I look back—’ the bride cries, interrupting.
 
-‘And when you look back, you wonder how you can have been—you’ll excuse
+‘And when you look back, you [[Wonder|wonder]] how you can have been—you’ll excuse
 the word?’
 
 ‘Most certainly, with so much reason.’
 
-‘—Such a fool as to take ME to so great an extent upon trust. But the
+‘—Such a [[Fool|fool]] as to take ME to so great an extent upon trust. But the
 folly is committed on both sides. I cannot get rid of you; you cannot
 get rid of me. What follows?’
 
@@ -591,7 +591,7 @@ done. So we agree to keep the fact to ourselves. You agree?’
 
 ‘If it is possible, I do.’
 
-‘Possible! We have pretended well enough to one another. Can’t we,
+‘Possible! We have pretended [[Well|well]] enough to one another. Can’t we,
 united, pretend to the world? Agreed. Secondly, we owe the Veneerings
 a grudge, and we owe all other people the grudge of wishing them to be
 taken in, as we ourselves have been taken in. Agreed?’
@@ -615,16 +615,16 @@ We know one another perfectly. Don’t be tempted into twitting me with
 the past knowledge that you have of me, because it is identical with
 the past knowledge that I have of you, and in twitting me, you
 twit yourself, and I don’t want to hear you do it. With this good
-understanding established between us, it is better never done. To wind
+understanding established between us, it is better never done. To [[Wind|wind]]
 up all:—You have shown temper today, Sophronia. Don’t be betrayed into
 doing so again, because I have a Devil of a temper myself.’
 
-So, the happy pair, with this hopeful marriage contract thus signed,
+So, the happy pair, with this hopeful [[Marriage|marriage]] contract thus signed,
 sealed, and delivered, repair homeward. If, when those infernal
 finger-marks were on the white and breathless countenance of Alfred
 Lammle, Esquire, they denoted that he conceived the purpose of subduing
 his dear wife Mrs Alfred Lammle, by at once divesting her of any
-lingering reality or pretence of self-respect, the purpose would seem
+lingering reality or pretence of [[Self|self]]-respect, the purpose would seem
 to have been presently executed. The mature young lady has mighty little
 need of powder, now, for her downcast face, as he escorts her in the
 light of the setting sun to their abode of bliss.

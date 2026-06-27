@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 49 (part 4)"
+title: "[[Barnaby Rudge]] — Chapter 49 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 After an ineffectual attempt to make himself heard, the magistrate gave
-the word and the Horse Guards came riding in among the crowd. But, even
+the word and the [[Horse]] Guards came riding in among the crowd. But, even
 then, he galloped here and there, exhorting the people to disperse; and,
 although heavy stones were thrown at the men, and some were desperately
 cut and bruised, they had no orders but to make prisoners of such of the
@@ -24,7 +24,7 @@ flat of their sabres. As the horses came in among them, the throng gave
 way at many points, and the Guards, following up their advantage, were
 rapidly clearing the ground, when two or three of the foremost, who were
 in a manner cut off from the rest by the people closing round them, made
-straight towards Barnaby and Hugh, who had no doubt been pointed out as
+straight towards Barnaby and Hugh, who had no [[Doubt|doubt]] been pointed out as
 the two men who dropped into the lobby: laying about them now with some
 effect, and inflicting on the more turbulent of their opponents, a few
 slight flesh wounds, under the influence of which a man dropped,
@@ -37,7 +37,7 @@ he stood his ground, and grasping his pole more firmly yet, kept his
 eye fixed upon the nearest soldier--nodding his head meanwhile, as Hugh,
 with a scowling visage, whispered in his ear.
 
-The soldier came spurring on, making his horse rear as the people
+The soldier came spurring on, making his [[Horse|horse]] rear as the people
 pressed about him, cutting at the hands of those who would have grasped
 his rein and forced his charger back, and waving to his comrades to
 follow--and still Barnaby, without retreating an inch, waited for his
@@ -52,7 +52,7 @@ they had taken. Panting for breath, hot, dusty, and exhausted with
 fatigue, they reached the riverside in safety, and getting into a boat
 with all despatch were soon out of any immediate danger.
 
-As they glided down the river, they plainly heard the people cheering;
+As they glided down the [[River|river]], they plainly heard the people cheering;
 and supposing they might have forced the soldiers to retreat, lay upon
 their oars for a few minutes, uncertain whether to return or not. But
 the crowd passing along Westminster Bridge, soon assured them that the
@@ -66,12 +66,12 @@ entertainment and safe lodging, but where they would certainly be joined
 by many of their late companions. Barnaby assenting, they decided on
 this course of action, and pulled for Blackfriars accordingly.
 
-They landed at a critical time, and fortunately for themselves at the
+They landed at a critical [[Time|time]], and fortunately for themselves at the
 right moment. For, coming into Fleet Street, they found it in an unusual
-stir; and inquiring the cause, were told that a body of Horse Guards had
+stir; and inquiring the cause, were told that a [[Body|body]] of [[Horse]] Guards had
 just galloped past, and that they were escorting some rioters whom they
 had made prisoners, to Newgate for safety. Not at all ill-pleased to
-have so narrowly escaped the cavalcade, they lost no more time in asking
-questions, but hurried to The Boot with as much speed as Hugh considered
+have so narrowly escaped the cavalcade, they lost no more [[Time|time]] in asking
+questions, but hurried to The Boot with as much [[Speed|speed]] as Hugh considered
 it prudent to make, without appearing singular or attracting an
 inconvenient share of public notice.

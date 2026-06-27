@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 2 (part 2)"
+title: "[[Agnes Grey]] — Chapter 2 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-I talked to my little pupils as well as I could, and tried to render
-myself agreeable; but with little success I fear, for their mother’s
+I talked to my little pupils as [[Well|well]] as I could, and tried to render
+myself agreeable; but with little [[success]] I [[Fear|fear]], for their mother’s
 presence kept me under an unpleasant restraint. They, however, were
 remarkably free from shyness. They seemed bold, lively children, and I
 hoped I should soon be on friendly terms with them—the little boy
 especially, of whom I had heard such a favourable character from his
 mamma. In Mary Ann there was a certain affected simper, and a craving
 for notice, that I was sorry to observe. But her brother claimed all my
-attention to himself; he stood bolt upright between me and the fire,
+attention to himself; he stood bolt upright between me and the [[Fire|fire]],
 with his hands behind his back, talking away like an orator,
 occasionally interrupting his discourse with a sharp reproof to his
 sisters when they made too much noise.
@@ -45,7 +45,7 @@ the brother and sister that I did my utmost to appease or mitigate,
 Mary Ann brought me her doll, and began to be very loquacious on the
 subject of its fine clothes, its bed, its chest of drawers, and other
 appurtenances; but Tom told her to hold her clamour, that Miss Grey
-might see his rocking-horse, which, with a most important bustle, he
+might see his rocking-[[Horse|horse]], which, with a most important bustle, he
 dragged forth from its corner into the middle of the room, loudly
 calling on me to attend to it. Then, ordering his sister to hold the
 reins, he mounted, and made me stand for ten minutes, watching how
@@ -57,18 +57,18 @@ much when he rode a real pony.
 “Oh, yes, I will!” said he, laying on with redoubled ardour. “I’ll cut
 into him like smoke! Eeh! my word! but he shall sweat for it.”
 
-This was very shocking; but I hoped in time to be able to work a
-reformation.
+This was very shocking; but I hoped in [[Time|time]] to be able to work a
+[[Reformation|reformation]].
 
-“Now you must put on your bonnet and shawl,” said the little hero, “and
-I’ll show you my garden.”
+“Now you must put on your bonnet and shawl,” said the little [[Hero|hero]], “and
+I’ll show you my [[Garden|garden]].”
 
 “And _mine_,” said Mary Ann.
 
 Tom lifted his fist with a menacing gesture; she uttered a loud, shrill
 scream, ran to the other side of me, and made a face at him.
 
-“Surely, Tom, you would not strike your sister! I hope I shall _never_
+“Surely, Tom, you would not strike your sister! I [[Hope|hope]] I shall _never_
 see you do that.”
 
 “You will sometimes: I’m obliged to do it now and then to keep her in
@@ -77,36 +77,36 @@ order.”
 “But it is not your business to keep her in order, you know—that is
 for—”
 
-“Well, now go and put on your bonnet.”
+“[[Well]], now go and put on your bonnet.”
 
 “I don’t know—it is so very cloudy and cold, it seems likely to
 rain;—and you know I have had a long drive.”
 
 “No matter—you _must_ come; I shall allow of no excuses,” replied the
 consequential little gentleman. And, as it was the first day of our
-acquaintance, I thought I might as well indulge him. It was too cold
+acquaintance, I thought I might as [[Well|well]] indulge him. It was too cold
 for Mary Ann to venture, so she stayed with her mamma, to the great
 relief of her brother, who liked to have me all to himself.
 
-The garden was a large one, and tastefully laid out; besides several
-splendid dahlias, there were some other fine flowers still in bloom:
-but my companion would not give me time to examine them: I must go with
+The [[Garden|garden]] was a large one, and tastefully laid out; besides several
+splendid dahlias, there were some other fine [[Flowers|flowers]] still in bloom:
+but my companion would not give me [[Time|time]] to examine them: I must go with
 him, across the wet grass, to a remote sequestered corner, the most
-important place in the grounds, because it contained _his_ garden.
+important place in the grounds, because it contained _his_ [[Garden|garden]].
 There were two round beds, stocked with a variety of plants. In one
-there was a pretty little rose-tree. I paused to admire its lovely
+there was a pretty little [[Rose|rose]]-tree. I paused to admire its lovely
 blossoms.
 
 “Oh, never mind that!” said he, contemptuously. “That’s only _Mary
-Ann’s_ garden; look, THIS is mine.”
+Ann’s_ [[Garden|garden]]; look, THIS is mine.”
 
 After I had observed every flower, and listened to a disquisition on
 every plant, I was permitted to depart; but first, with great pomp, he
 plucked a polyanthus and presented it to me, as one conferring a
-prodigious favour. I observed, on the grass about his garden, certain
+prodigious favour. I observed, on the grass about his [[Garden|garden]], certain
 apparatus of sticks and corn, and asked what they were.
 
-“Traps for birds.”
+“Traps for [[Birds|birds]].”
 
 “Why do you catch them?”
 
@@ -123,20 +123,20 @@ them in pieces with my penknife; but the next, I mean to roast alive.”
 what it will taste like.”
 
 “But don’t you know it is extremely wicked to do such things? Remember,
-the birds can feel as well as you; and think, how would you like it
+the [[Birds|birds]] can feel as [[Well|well]] as you; and think, how would you like it
 yourself?”
 
 “Oh, that’s nothing! I’m not a bird, and I can’t feel what I do to
 them.”
 
-“But you will have to feel it some time, Tom: you have heard where
+“But you will have to feel it some [[Time|time]], Tom: you have heard where
 wicked people go to when they die; and if you don’t leave off torturing
-innocent birds, remember, you will have to go there, and suffer just
+[[Innocent|innocent]] [[Birds|birds]], remember, you will have to go there, and suffer just
 what you have made them suffer.”
 
 “Oh, pooh! I shan’t. Papa knows how I treat them, and he never blames
 me for it: he says it is just what _he_ used to do when _he_ was a boy.
-Last summer, he gave me a nest full of young sparrows, and he saw me
+Last [[Summer|summer]], he gave me a nest full of young sparrows, and he saw me
 pulling off their legs and wings, and heads, and never said anything;
 except that they were nasty things, and I must not let them soil my
 trousers: and Uncle Robson was there too, and he laughed, and said I
@@ -145,7 +145,7 @@ was a fine boy.”
 “But what would your mamma say?”
 
 “Oh, she doesn’t care! she says it’s a pity to kill the pretty singing
-birds, but the naughty sparrows, and mice, and rats, I may do what I
+[[Birds|birds]], but the naughty sparrows, and mice, and rats, I may do what I
 like with. So now, Miss Grey, you see it is _not_ wicked.”
 
 “I still think it is, Tom; and perhaps your papa and mamma would think
@@ -160,16 +160,16 @@ carriage-horses, but a little rough colt, which he informed me had been
 bred on purpose for him, and he was to ride it as soon as it was
 properly trained. I tried to amuse the little fellow, and listened to
 all his chatter as complacently as I could; for I thought if he had any
-affections at all, I would endeavour to win them; and then, in time, I
+affections at all, I would endeavour to win them; and then, in [[Time|time]], I
 might be able to show him the error of his ways: but I looked in vain
 for that generous, noble spirit his mother talked of; though I could
 see he was not without a certain degree of quickness and penetration,
 when he chose to exert it.
 
-When we re-entered the house it was nearly tea-time. Master Tom told me
-that, as papa was from home, he and I and Mary Ann were to have tea
+When we re-entered the [[house]] it was nearly tea-[[Time|time]]. Master Tom told me
+that, as papa was from [[Home|home]], he and I and Mary Ann were to have tea
 with mamma, for a treat; for, on such occasions, she always dined at
-luncheon-time with them, instead of at six o’clock. Soon after tea,
+luncheon-[[Time|time]] with them, instead of at six o’[[Clock|clock]]. Soon after tea,
 Mary Ann went to bed, but Tom favoured us with his company and
 conversation till eight. After he was gone, Mrs. Bloomfield further
 enlightened me on the subject of her children’s dispositions and
@@ -177,11 +177,11 @@ acquirements, and on what they were to learn, and how they were to be
 managed, and cautioned me to mention their defects to no one but
 herself. My mother had warned me before to mention them as little as
 possible to _her_, for people did not like to be told of their
-children’s faults, and so I concluded I was to keep silence on them
+children’s faults, and so I concluded I was to keep [[Silence|silence]] on them
 altogether. About half-past nine, Mrs. Bloomfield invited me to partake
 of a frugal supper of cold meat and bread. I was glad when that was
 over, and she took her bedroom candlestick and retired to rest; for
 though I wished to be pleased with her, her company was extremely
-irksome to me; and I could not help feeling that she was cold, grave,
+irksome to me; and I could not help feeling that she was cold, [[Grave|grave]],
 and forbidding—the very opposite of the kind, warm-hearted matron my
 hopes had depicted her to be.

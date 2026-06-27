@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 43 (part 2)"
+title: "[[Pride and Prejudice]] — Chapter 43 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -24,10 +24,10 @@ good enough for him.”
 Mr. and Mrs. Gardiner smiled. Elizabeth could not help saying, “It is
 very much to his credit, I am sure, that you should think so.”
 
-“I say no more than the truth, and what everybody will say that knows
+“I say no more than the [[Truth|truth]], and what everybody will say that knows
 him,” replied the other. Elizabeth thought this was going pretty far;
 and she listened with increasing astonishment as the housekeeper added,
-“I have never had a cross word from him in my life, and I have known him
+“I have never had a [[Cross|cross]] word from him in my life, and I have known him
 ever since he was four years old.”
 
 This was praise of all others most extraordinary, most opposite to her
@@ -97,7 +97,7 @@ Darcy’s, in crayons, whose subjects were usually more interesting, and
 also more intelligible.
 
 In the gallery there were many family portraits, but they could have
-little to fix the attention of a stranger. Elizabeth walked on in quest
+little to fix the attention of a stranger. Elizabeth walked on in [[Quest|quest]]
 of the only face whose features would be known to her. At last it
 arrested her--and she beheld a striking resemblance of Mr. Darcy, with
 such a smile over the face, as she remembered to have sometimes seen,
@@ -109,10 +109,10 @@ father’s lifetime.
 There was certainly at this moment, in Elizabeth’s mind, a more gentle
 sensation towards the original than she had ever felt in the height of
 their acquaintance. The commendation bestowed on him by Mrs. Reynolds
-was of no trifling nature. What praise is more valuable than the praise
+was of no trifling [[Nature|nature]]. What praise is more valuable than the praise
 of an intelligent servant? As a brother, a landlord, a master, she
 considered how many people’s happiness were in his guardianship! How
-much of pleasure or pain it was in his power to bestow! How much of good
+much of pleasure or [[Pain|pain]] it was in his power to bestow! How much of good
 or evil must be done by him! Every idea that had been brought forward by
 the housekeeper was favourable to his character; and as she stood before
 the canvas, on which he was represented, and fixed his eyes upon
@@ -120,14 +120,14 @@ herself, she thought of his regard with a deeper sentiment of gratitude
 than it had ever raised before: she remembered its warmth, and softened
 its impropriety of expression.
 
-When all of the house that was open to general inspection had been seen,
+When all of the [[house]] that was open to general inspection had been seen,
 they returned down stairs; and, taking leave of the housekeeper, were
 consigned over to the gardener, who met them at the hall door.
 
-As they walked across the lawn towards the river, Elizabeth turned back
+As they walked across the lawn towards the [[River|river]], Elizabeth turned back
 to look again; her uncle and aunt stopped also; and while the former was
 conjecturing as to the date of the building, the owner of it himself
-suddenly came forward from the road which led behind it to the stables.
+suddenly came forward from the [[Road|road]] which led behind it to the stables.
 
 They were within twenty yards of each other; and so abrupt was his
 appearance, that it was impossible to avoid his sight. Their eyes

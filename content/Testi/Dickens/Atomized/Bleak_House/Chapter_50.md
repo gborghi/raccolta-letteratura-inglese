@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 50"
+title: "Bleak [[house|House]] — Chapter 50"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,9 +19,9 @@ CHAPTER L
 Esther’s Narrative
 
 
-It happened that when I came home from Deal I found a note from Caddy
+It happened that when I came [[Home|home]] from Deal I found a note from Caddy
 Jellyby (as we always continued to call her), informing me that her
-health, which had been for some time very delicate, was worse and
+health, which had been for some [[Time|time]] very delicate, was worse and
 that she would be more glad than she could tell me if I would go to
 see her. It was a note of a few lines, written from the couch on
 which she lay and enclosed to me in another from her husband, in
@@ -33,22 +33,22 @@ always clenched under its chin. It would lie in this attitude all
 day, with its bright specks of eyes open, wondering (as I used to
 imagine) how it came to be so small and weak. Whenever it was moved
 it cried, but at all other times it was so patient that the sole
-desire of its life appeared to be to lie quiet and think. It had
+[[Desire|desire]] of its life appeared to be to lie quiet and think. It had
 curious little dark veins in its face and curious little dark marks
 under its eyes like faint remembrances of poor Caddy’s inky days, and
 altogether, to those who were not used to it, it was quite a piteous
 little sight.
 
 But it was enough for Caddy that SHE was used to it. The projects
-with which she beguiled her illness, for little Esther’s education,
-and little Esther’s marriage, and even for her own old age as the
+with which she beguiled her illness, for little Esther’s [[Education|education]],
+and little Esther’s [[Marriage|marriage]], and even for her own old age as the
 grandmother of little Esther’s little Esthers, was so prettily
-expressive of devotion to this pride of her life that I should be
+expressive of devotion to this [[Pride|pride]] of her life that I should be
 tempted to recall some of them but for the timely remembrance that I
 am getting on irregularly as it is.
 
 To return to the letter. Caddy had a superstition about me which had
-been strengthening in her mind ever since that night long ago when
+been strengthening in her mind ever since that [[Night|night]] long ago when
 she had lain asleep with her head in my lap. She almost—I think I
 must say quite—believed that I did her good whenever I was near her.
 Now although this was such a fancy of the affectionate girl’s that I
@@ -58,14 +58,14 @@ guardian’s consent, post-haste; and she and Prince made so much of me
 that there never was anything like it.
 
 Next day I went again to sit with her, and next day I went again. It
-was a very easy journey, for I had only to rise a little earlier in
+was a very easy [[Journey|journey]], for I had only to rise a little earlier in
 the morning, and keep my accounts, and attend to housekeeping matters
-before leaving home.
+before leaving [[Home|home]].
 
 But when I had made these three visits, my guardian said to me, on my
-return at night, “Now, little woman, little woman, this will never
+return at [[Night|night]], “Now, little woman, little woman, this will never
 do. Constant dropping will wear away a stone, and constant coaching
-will wear out a Dame Durden. We will go to London for a while and
+will wear out a Dame Durden. We will go to [[London]] for a while and
 take possession of our old lodgings.”
 
 “Not for me, dear guardian,” said I, “for I never feel tired,” which
@@ -77,29 +77,29 @@ It is somebody’s birthday to-morrow, I think.”
 “Truly I think it is,” said I, kissing my darling, who would be
 twenty-one to-morrow.
 
-“Well,” observed my guardian, half pleasantly, half seriously,
+“[[Well]],” observed my guardian, half pleasantly, half seriously,
 “that’s a great occasion and will give my fair cousin some necessary
 business to transact in assertion of her independence, and will make
-London a more convenient place for all of us. So to London we will
+[[London]] a more convenient place for all of us. So to [[London]] we will
 go. That being settled, there is another thing—how have you left
 Caddy?”
 
-“Very unwell, guardian. I fear it will be some time before she
+“Very unwell, guardian. I [[Fear|fear]] it will be some [[Time|time]] before she
 regains her health and strength.”
 
-“What do you call some time, now?” asked my guardian thoughtfully.
+“What do you call some [[Time|time]], now?” asked my guardian thoughtfully.
 
 “Some weeks, I am afraid.”
 
 “Ah!” He began to walk about the room with his hands in his pockets,
 showing that he had been thinking as much. “Now, what do you say
-about her doctor? Is he a good doctor, my love?”
+about her doctor? Is he a good doctor, my [[Love|love]]?”
 
 I felt obliged to confess that I knew nothing to the contrary but
 that Prince and I had agreed only that evening that we would like his
 opinion to be confirmed by some one.
 
-“Well, you know,” returned my guardian quickly, “there’s Woodcourt.”
+“[[Well]], you know,” returned my guardian quickly, “there’s Woodcourt.”
 
 I had not meant that, and was rather taken by surprise. For a moment
 all that I had had in my mind in connexion with Mr. Woodcourt seemed
@@ -111,7 +111,7 @@ to come back and confuse me.
 
 “And you don’t think the patient would object to him?”
 
-So far from that, I had no doubt of her being prepared to have a
+So far from that, I had no [[Doubt|doubt]] of her being prepared to have a
 great reliance on him and to like him very much. I said that he was
 no stranger to her personally, for she had seen him often in his kind
 attendance on Miss Flite.
@@ -120,41 +120,41 @@ attendance on Miss Flite.
 I will see him about it to-morrow.”
 
 I felt in this short conversation—though I did not know how, for she
-was quiet, and we interchanged no look—that my dear girl well
+was quiet, and we interchanged no look—that my dear girl [[Well|well]]
 remembered how merrily she had clasped me round the waist when no
 other hands than Caddy’s had brought me the little parting token.
 This caused me to feel that I ought to tell her, and Caddy too, that
-I was going to be the mistress of Bleak House and that if I avoided
+I was going to be the mistress of Bleak [[house|House]] and that if I avoided
 that disclosure any longer I might become less worthy in my own eyes
-of its master’s love. Therefore, when we went upstairs and had waited
-listening until the clock struck twelve in order that only I might be
+of its master’s [[Love|love]]. Therefore, when we went upstairs and had waited
+listening until the [[Clock|clock]] struck twelve in order that only I might be
 the first to wish my darling all good wishes on her birthday and to
 take her to my heart, I set before her, just as I had set before
-myself, the goodness and honour of her cousin John and the happy life
+myself, the goodness and [[Honour|honour]] of her cousin John and the happy life
 that was in store for me. If ever my darling were fonder of me at
-one time than another in all our intercourse, she was surely fondest
-of me that night. And I was so rejoiced to know it and so comforted
+one [[Time|time]] than another in all our intercourse, she was surely fondest
+of me that [[Night|night]]. And I was so rejoiced to know it and so comforted
 by the sense of having done right in casting this last idle
 reservation away that I was ten times happier than I had been before.
 I had scarcely thought it a reservation a few hours ago, but now that
-it was gone I felt as if I understood its nature better.
+it was gone I felt as if I understood its [[Nature|nature]] better.
 
-Next day we went to London. We found our old lodging vacant, and in
+Next day we went to [[London]]. We found our old lodging vacant, and in
 half an hour were quietly established there, as if we had never gone
 away. Mr. Woodcourt dined with us to celebrate my darling’s birthday,
 and we were as pleasant as we could be with the great blank among us
-that Richard’s absence naturally made on such an occasion. After that
+that [[Richard]]’s absence naturally made on such an occasion. After that
 day I was for some weeks—eight or nine as I remember—very much with
-Caddy, and thus it fell out that I saw less of Ada at this time than
-any other since we had first come together, except the time of my own
+Caddy, and thus it fell out that I saw less of Ada at this [[Time|time]] than
+any other since we had first come together, except the [[Time|time]] of my own
 illness. She often came to Caddy’s, but our function there was to
 amuse and cheer her, and we did not talk in our usual confidential
-manner. Whenever I went home at night we were together, but Caddy’s
-rest was broken by pain, and I often remained to nurse her.
+manner. Whenever I went [[Home|home]] at [[Night|night]] we were together, but Caddy’s
+rest was broken by [[Pain|pain]], and I often remained to [[Nurse|nurse]] her.
 
-With her husband and her poor little mite of a baby to love and their
-home to strive for, what a good creature Caddy was! So self-denying,
-so uncomplaining, so anxious to get well on their account, so afraid
+With her husband and her poor little mite of a baby to [[Love|love]] and their
+[[Home|home]] to strive for, what a good creature Caddy was! So [[Self|self]]-denying,
+so uncomplaining, so anxious to get [[Well|well]] on their account, so afraid
 of giving trouble, and so thoughtful of the unassisted labours of her
 husband and the comforts of old Mr. Turveydrop; I had never known the
 best of her until now. And it seemed so curious that her pale face
@@ -169,13 +169,13 @@ airy and more cheerful corner than she had yet occupied; then, every
 day, when we were in our neatest array, I used to lay my small small
 namesake in her arms and sit down to chat or work or read to her. It
 was at one of the first of these quiet times that I told Caddy about
-Bleak House.
+Bleak [[house|House]].
 
 We had other visitors besides Ada. First of all we had Prince, who in
 his hurried intervals of teaching used to come softly in and sit
 softly down, with a face of loving anxiety for Caddy and the very
-little child. Whatever Caddy’s condition really was, she never failed
-to declare to Prince that she was all but well—which I, heaven
+little [[Child|child]]. Whatever Caddy’s condition really was, she never failed
+to declare to Prince that she was all but [[Well|well]]—which I, heaven
 forgive me, never failed to confirm. This would put Prince in such
 good spirits that he would sometimes take the kit from his pocket and
 play a chord or two to astonish the baby, which I never knew it to do
@@ -185,7 +185,7 @@ Then there was Mrs. Jellyby. She would come occasionally, with her
 usual distraught manner, and sit calmly looking miles beyond her
 grandchild as if her attention were absorbed by a young Borrioboolan
 on its native shores. As bright-eyed as ever, as serene, and as
-untidy, she would say, “Well, Caddy, child, and how do you do
+untidy, she would say, “[[Well]], Caddy, [[Child|child]], and how do you do
 to-day?” And then would sit amiably smiling and taking no notice of
 the reply or would sweetly glide off into a calculation of the number
 of letters she had lately received and answered or of the
@@ -193,12 +193,12 @@ coffee-bearing power of Borrioboola-Gha. This she would always do
 with a serene contempt for our limited sphere of action, not to be
 disguised.
 
-Then there was old Mr. Turveydrop, who was from morning to night and
-from night to morning the subject of innumerable precautions. If the
+Then there was old Mr. Turveydrop, who was from morning to [[Night|night]] and
+from [[Night|night]] to morning the subject of innumerable precautions. If the
 baby cried, it was nearly stifled lest the noise should make him
-uncomfortable. If the fire wanted stirring in the night, it was
+uncomfortable. If the [[Fire|fire]] wanted stirring in the [[Night|night]], it was
 surreptitiously done lest his rest should be broken. If Caddy
-required any little comfort that the house contained, she first
+required any little comfort that the [[house]] contained, she first
 carefully discussed whether he was likely to require it too. In
 return for this consideration he would come into the room once a day,
 all but blessing it—showing a condescension, and a patronage, and a
@@ -221,17 +221,17 @@ particular in his attentions since I had been so altered.
 “Charming! We must take care of our dear Caroline, Miss Summerson. We
 must spare nothing that will restore her. We must nourish her. My
 dear Caroline”—he would turn to his daughter-in-law with infinite
-generosity and protection—“want for nothing, my love. Frame a wish
-and gratify it, my daughter. Everything this house contains,
+generosity and protection—“want for nothing, my [[Love|love]]. Frame a wish
+and gratify it, my daughter. Everything this [[house]] contains,
 everything my room contains, is at your service, my dear. Do not,” he
 would sometimes add in a burst of deportment, “even allow my simple
-requirements to be considered if they should at any time interfere
+requirements to be considered if they should at any [[Time|time]] interfere
 with your own, my Caroline. Your necessities are greater than mine.”
 
 He had established such a long prescriptive right to this deportment
 (his son’s inheritance from his mother) that I several times knew
-both Caddy and her husband to be melted to tears by these
-affectionate self-sacrifices.
+both Caddy and her husband to be melted to [[Tears|tears]] by these
+affectionate [[Self|self]]-sacrifices.
 
 “Nay, my dears,” he would remonstrate; and when I saw Caddy’s thin
 arm about his fat neck as he said it, I would be melted too, though
@@ -240,14 +240,14 @@ ye. Be dutiful and affectionate towards me, and I ask no other
 return. Now, bless ye! I am going to the Park.”
 
 He would take the air there presently and get an appetite for his
-hotel dinner. I hope I do old Mr. Turveydrop no wrong, but I never
+hotel dinner. I [[Hope|hope]] I do old Mr. Turveydrop no wrong, but I never
 saw any better traits in him than these I faithfully record, except
 that he certainly conceived a liking for Peepy and would take the
-child out walking with great pomp, always on those occasions sending
-him home before he went to dinner himself, and occasionally with a
+[[Child|child]] out walking with great pomp, always on those occasions sending
+him [[Home|home]] before he went to dinner himself, and occasionally with a
 halfpenny in his pocket. But even this disinterestedness was attended
 with no inconsiderable cost, to my knowledge, for before Peepy was
-sufficiently decorated to walk hand in hand with the professor of
+sufficiently decorated to walk hand in hand with [[The Professor|the professor]] of
 deportment, he had to be newly dressed, at the expense of Caddy and
 her husband, from top to toe.
 
@@ -265,9 +265,9 @@ I have not counted Mr. Woodcourt among our visitors because he was
 now Caddy’s regular attendant. She soon began to improve under his
 care, but he was so gentle, so skilful, so unwearying in the pains he
 took that it is not to be wondered at, I am sure. I saw a good deal
-of Mr. Woodcourt during this time, though not so much as might be
+of Mr. Woodcourt during this [[Time|time]], though not so much as might be
 supposed, for knowing Caddy to be safe in his hands, I often slipped
-home at about the hours when he was expected. We frequently met,
+[[Home|home]] at about the hours when he was expected. We frequently met,
 notwithstanding. I was quite reconciled to myself now, but I still
 felt glad to think that he was sorry for me, and he still WAS sorry
 for me I believed. He helped Mr. Badger in his professional
@@ -280,7 +280,7 @@ because I observed it in many slight particulars which were nothing
 in themselves and only became something when they were pieced
 together. But I made it out, by putting them together, that Ada was
 not so frankly cheerful with me as she used to be. Her tenderness for
-me was as loving and true as ever; I did not for a moment doubt that;
+me was as loving and true as ever; I did not for a moment [[Doubt|doubt]] that;
 but there was a quiet sorrow about her which she did not confide to
 me, and in which I traced some hidden regret.
 
@@ -289,7 +289,7 @@ happiness of my own pet that it caused me some uneasiness and set me
 thinking often. At length, feeling sure that Ada suppressed this
 something from me lest it should make me unhappy too, it came into my
 head that she was a little grieved—for me—by what I had told her
-about Bleak House.
+about Bleak [[house|House]].
 
 How I persuaded myself that this was likely, I don’t know. I had no
 idea that there was any selfish reference in my doing so. I was not
@@ -299,20 +299,20 @@ thoughts—of what once was, but was now all changed, seemed so easy
 to believe that I believed it.
 
 What could I do to reassure my darling (I considered then) and show
-her that I had no such feelings? Well! I could only be as brisk and
+her that I had no such feelings? [[Well]]! I could only be as brisk and
 busy as possible, and that I had tried to be all along. However, as
-Caddy’s illness had certainly interfered, more or less, with my home
+Caddy’s illness had certainly interfered, more or less, with my [[Home|home]]
 duties—though I had always been there in the morning to make my
 guardian’s breakfast, and he had a hundred times laughed and said
 there must be two little women, for his little woman was never
 missing—I resolved to be doubly diligent and gay. So I went about
-the house humming all the tunes I knew, and I sat working and working
-in a desperate manner, and I talked and talked, morning, noon, and
-night.
+the [[house]] humming all the tunes I knew, and I sat working and working
+in a desperate manner, and I talked and talked, morning, [[Noon|noon]], and
+[[Night|night]].
 
 And still there was the same shade between me and my darling.
 
-“So, Dame Trot,” observed my guardian, shutting up his book one night
+“So, Dame Trot,” observed my guardian, shutting up his book one [[Night|night]]
 when we were all three together, “so Woodcourt has restored Caddy
 Jellyby to the full enjoyment of life again?”
 
@@ -333,7 +333,7 @@ many others.
 
 “True,” said my guardian. “I had forgotten that. But we would agree
 to make him rich enough to live, I suppose? Rich enough to work with
-tolerable peace of mind? Rich enough to have his own happy home and
+tolerable peace of mind? Rich enough to have his own happy [[Home|home]] and
 his own household gods—and household goddess, too, perhaps?”
 
 That was quite another thing, I said. We must all agree in that.
@@ -341,14 +341,14 @@ That was quite another thing, I said. We must all agree in that.
 “To be sure,” said my guardian. “All of us. I have a great regard for
 Woodcourt, a high esteem for him; and I have been sounding him
 delicately about his plans. It is difficult to offer aid to an
-independent man with that just kind of pride which he possesses. And
+independent man with that just kind of [[Pride|pride]] which he possesses. And
 yet I would be glad to do it if I might or if I knew how. He seems
 half inclined for another voyage. But that appears like casting such
 a man away.”
 
 “It might open a new world to him,” said I.
 
-“So it might, little woman,” my guardian assented. “I doubt if he
+“So it might, little woman,” my guardian assented. “I [[Doubt|doubt]] if he
 expects much of the old world. Do you know I have fancied that he
 sometimes feels some particular disappointment or misfortune
 encountered in it. You never heard of anything of that sort?”
@@ -375,13 +375,13 @@ never be the poorer for them, guardian, at least.”
 I was sitting in my usual place, which was now beside my guardian’s
 chair. That had not been my usual place before the letter, but it was
 now. I looked up to Ada, who was sitting opposite, and I saw, as she
-looked at me, that her eyes were filled with tears and that tears
+looked at me, that her eyes were filled with [[Tears|tears]] and that [[Tears|tears]]
 were falling down her face. I felt that I had only to be placid and
 merry once for all to undeceive my dear and set her loving heart at
 rest. I really was so, and I had nothing to do but to be myself.
 
 So I made my sweet girl lean upon my shoulder—how little thinking
-what was heavy on her mind!—and I said she was not quite well, and
+what was heavy on her mind!—and I said she was not quite [[Well|well]], and
 put my arm about her, and took her upstairs. When we were in our own
 room, and when she might perhaps have told me what I was so
 unprepared to hear, I gave her no encouragement to confide in me; I
@@ -390,12 +390,12 @@ never thought she stood in need of it.
 “Oh, my dear good Esther,” said Ada, “if I could only make up my mind
 to speak to you and my cousin John when you are together!”
 
-“Why, my love!” I remonstrated. “Ada, why should you not speak to
+“Why, my [[Love|love]]!” I remonstrated. “Ada, why should you not speak to
 us!”
 
 Ada only dropped her head and pressed me closer to her heart.
 
-“You surely don’t forget, my beauty,” said I, smiling, “what quiet,
+“You surely don’t forget, my [[Beauty|beauty]],” said I, smiling, “what quiet,
 old-fashioned people we are and how I have settled down to be the
 discreetest of dames? You don’t forget how happily and peacefully my
 life is all marked out for me, and by whom? I am certain that you
@@ -410,22 +410,22 @@ should you not speak to us?”
 years, and of his fatherly care and kindness, and of the old
 relations among us, and of you, what shall I do, what shall I do!”
 
-I looked at my child in some wonder, but I thought it better not to
+I looked at my [[Child|child]] in some [[Wonder|wonder]], but I thought it better not to
 answer otherwise than by cheering her, and so I turned off into many
 little recollections of our life together and prevented her from
-saying more. When she lay down to sleep, and not before, I returned
-to my guardian to say good night, and then I came back to Ada and sat
+saying more. When she lay down to [[Sleep|sleep]], and not before, I returned
+to my guardian to say good [[Night|night]], and then I came back to Ada and sat
 near her for a little while.
 
 She was asleep, and I thought as I looked at her that she was a
 little changed. I had thought so more than once lately. I could not
 decide, even looking at her while she was unconscious, how she was
-changed, but something in the familiar beauty of her face looked
-different to me. My guardian’s old hopes of her and Richard arose
+changed, but something in the familiar [[Beauty|beauty]] of her face looked
+different to me. My guardian’s old hopes of her and [[Richard]] arose
 sorrowfully in my mind, and I said to myself, “She has been anxious
-about him,” and I wondered how that love would end.
+about him,” and I wondered how that [[Love|love]] would end.
 
-When I had come home from Caddy’s while she was ill, I had often
+When I had come [[Home|home]] from Caddy’s while she was ill, I had often
 found Ada at work, and she had always put her work away, and I had
 never known what it was. Some of it now lay in a drawer near her,
 which was not quite closed. I did not open the drawer, but I still
@@ -440,6 +440,6 @@ less amiable than I thought myself, to be so preoccupied with my own
 cheerfulness and contentment as to think that it only rested with me
 to put my dear girl right and set her mind at peace!
 
-But I lay down, self-deceived, in that belief. And I awoke in it next
+But I lay down, [[Self|self]]-deceived, in that belief. And I awoke in it next
 day to find that there was still the same shade between me and my
 darling.

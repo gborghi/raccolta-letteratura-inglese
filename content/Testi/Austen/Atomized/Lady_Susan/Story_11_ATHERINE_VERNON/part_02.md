@@ -1,5 +1,5 @@
 ---
-title: "Lady Susan — ATHERINE VERNON. (part 2)"
+title: "[[Lady Susan]] — ATHERINE VERNON. (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Lady-Susan-(Austen)"
@@ -32,7 +32,7 @@ XXVI
 
 
 
-_Mrs. Johnson to Lady Susan._
+_Mrs. Johnson to [[Lady Susan]]._
 
 
 
@@ -46,11 +46,11 @@ Edward Street.
 
 I am gratified by your reference, and this is my advice: that you come
 
-to town yourself, without loss of time, but that you leave Frederica
+to town yourself, without loss of [[Time|time]], but that you leave Frederica
 
 behind. It would surely be much more to the purpose to get yourself
 
-well established by marrying Mr. De Courcy, than to irritate him and
+[[Well|well]] established by marrying Mr. De Courcy, than to irritate him and
 
 the rest of his family by making her marry Sir James. You should think
 
@@ -66,7 +66,7 @@ punish herself for the plague she has given you, by indulging that
 
 romantic tender-heartedness which will always ensure her misery enough,
 
-and come to London as soon as you can. I have another reason for urging
+and come to [[London]] as soon as you can. I have another reason for urging
 
 this: Mainwaring came to town last week, and has contrived, in spite of
 
@@ -88,7 +88,7 @@ to get Mainwaring out of the way; and you only can have influence
 
 enough to send him back to his wife. I have still another motive for
 
-your coming: Mr. Johnson leaves London next Tuesday; he is going for
+your coming: Mr. Johnson [[Leaves|leaves]] [[London]] next Tuesday; he is going for
 
 his health to Bath, where, if the waters are favourable to his
 
@@ -100,7 +100,7 @@ and to have true enjoyment. I would ask you to Edward Street, but that
 
 once he forced from me a kind of promise never to invite you to my
 
-house; nothing but my being in the utmost distress for money should
+[[house]]; nothing but my being in the utmost distress for money should
 
 have extorted it from me. I can get you, however, a nice drawing-room
 
@@ -108,9 +108,9 @@ apartment in Upper Seymour Street, and we may be always together there
 
 or here; for I consider my promise to Mr. Johnson as comprehending only
 
-(at least in his absence) your not sleeping in the house. Poor
+(at least in his absence) your not sleeping in the [[house]]. Poor
 
-Mainwaring gives me such histories of his wife’s jealousy. Silly woman
+Mainwaring gives me such histories of his wife’s [[Jealousy|jealousy]]. Silly woman
 
 to expect constancy from so charming a man! but she always was
 
@@ -158,9 +158,9 @@ Churchhill.
 
 This letter, my dear Mother, will be brought you by Reginald. His long
 
-visit is about to be concluded at last, but I fear the separation takes
+visit is about to be concluded at last, but I [[Fear|fear]] the separation takes
 
-place too late to do us any good. She is going to London to see her
+place too late to do us any good. She is going to [[London]] to see her
 
 particular friend, Mrs. Johnson. It was at first her intention that
 
@@ -168,9 +168,9 @@ Frederica should accompany her, for the benefit of masters, but we
 
 overruled her there. Frederica was wretched in the idea of going, and I
 
-could not bear to have her at the mercy of her mother; not all the
+could not bear to have her at the [[Mercy|mercy]] of her mother; not all the
 
-masters in London could compensate for the ruin of her comfort. I
+masters in [[London]] could compensate for the ruin of her comfort. I
 
 should have feared, too, for her health, and for everything but her
 
@@ -178,13 +178,13 @@ principles—there I believe she is not to be injured by her mother, or
 
 her mother’s friends; but with those friends she must have mixed (a
 
-very bad set, I doubt not), or have been left in total solitude, and I
+very bad set, I [[Doubt|doubt]] not), or have been left in total [[Solitude|solitude]], and I
 
 can hardly tell which would have been worse for her. If she is with her
 
 mother, moreover, she must, alas! in all probability be with Reginald,
 
-and that would be the greatest evil of all. Here we shall in time be in
+and that would be the greatest evil of all. Here we shall in [[Time|time]] be in
 
 peace, and our regular employments, our books and conversations, with
 
@@ -192,9 +192,9 @@ exercise, the children, and every domestic pleasure in my power to
 
 procure her, will, I trust, gradually overcome this youthful
 
-attachment. I should not have a doubt of it were she slighted for any
+attachment. I should not have a [[Doubt|doubt]] of it were she slighted for any
 
-other woman in the world than her own mother. How long Lady Susan will
+other woman in the world than her own mother. How long [[Lady Susan]] will
 
 be in town, or whether she returns here again, I know not. I could not
 
@@ -202,7 +202,7 @@ be cordial in my invitation, but if she chuses to come no want of
 
 cordiality on my part will keep her away. I could not help asking
 
-Reginald if he intended being in London this winter, as soon as I found
+Reginald if he intended being in [[London]] this [[Winter|winter]], as soon as I found
 
 her ladyship’s steps would be bent thither; and though he professed
 
@@ -212,7 +212,7 @@ as he spoke which contradicted his words. I have done with lamentation;
 
 I look upon the event as so far decided that I resign myself to it in
 
-despair. If he leaves you soon for London everything will be concluded.
+[[Despair|despair]]. If he [[Leaves|leaves]] you soon for [[London]] everything will be concluded.
 
 
 
@@ -234,7 +234,7 @@ XXVIII
 
 
 
-_Mrs. Johnson to Lady Susan._
+_Mrs. Johnson to [[Lady Susan]]._
 
 
 
@@ -252,11 +252,11 @@ unfortunate event has just taken place. Mr. Johnson has hit on the most
 
 effectual manner of plaguing us all. He had heard, I imagine, by some
 
-means or other, that you were soon to be in London, and immediately
+means or other, that you were soon to be in [[London]], and immediately
 
 contrived to have such an attack of the gout as must at least delay his
 
-journey to Bath, if not wholly prevent it. I am persuaded the gout is
+[[Journey|journey]] to Bath, if not wholly prevent it. I am persuaded the gout is
 
 brought on or kept off at pleasure; it was the same when I wanted to
 

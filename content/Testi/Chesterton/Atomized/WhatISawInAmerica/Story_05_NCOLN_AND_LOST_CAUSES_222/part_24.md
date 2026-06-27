@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 24)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 24)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -28,7 +28,7 @@ I do not say this in any sense as a criticism. As it happens, I am
 
 particularly fond of wood. Of all the superstitions which our fathers
 
-took lightly enough to love, the most natural seems to me the notion it
+took lightly enough to [[Love|love]], the most natural seems to me the notion it
 
 is lucky to touch wood. Some of them affect me the less as
 
@@ -48,11 +48,11 @@ those ideas which are truly popular, because they are truly poetic. It
 
 is probable enough that the conception came originally from the healing
 
-of the wood of the Cross; but that only clinches the divine coincidence.
+of the wood of the [[Cross]]; but that only clinches the divine coincidence.
 
 It is like that other divine coincidence that the Victim was a
 
-carpenter, who might almost have made His own cross. Whether we take the
+carpenter, who might almost have made His own [[Cross|cross]]. Whether we take the
 
 mystical or the mythical explanation, there is obviously a very deep
 
@@ -62,11 +62,11 @@ mysticism. It gives something like a touch of the holy childishness to
 
 the tale, as if that terrible engine could be a toy. In the same fashion
 
-a child fancies that mysterious and sinister horse, which was the
+a [[Child|child]] fancies that mysterious and sinister [[Horse|horse]], which was the
 
 downfall of Troy, as something plain and staring, and perhaps spotted,
 
-like his own rocking-horse in the nursery.
+like his own rocking-[[Horse|horse]] in the nursery.
 
 
 
@@ -82,29 +82,29 @@ Something of this restlessness in the race may really be involved in the
 
 matter; but I think the deeper significance of the rocking-chair may
 
-still be found in the deeper symbolism of the rocking-horse. I think
+still be found in the deeper symbolism of the rocking-[[Horse|horse]]. I think
 
 there is behind all this fresh and facile use of wood a certain spirit
 
 that is childish in the good sense of the word; something that is
 
-innocent, and easily pleased. It is not altogether untrue, still less is
+[[Innocent|innocent]], and easily pleased. It is not altogether untrue, still less is
 
 it unfriendly, to say that the landscape seems to be dotted with dolls'
 
-houses. It is the true tragedy of every fallen son of Adam that he has
+houses. It is the true [[Tragedy|tragedy]] of every fallen son of Adam that he has
 
-grown too big to live in a doll's house. These things seem somehow to
+grown too big to live in a doll's [[house]]. These things seem somehow to
 
-escape the irony of time by not even challenging it; they are too
+escape the irony of [[Time|time]] by not even challenging it; they are too
 
 temporary even to be merely temporal. These people are not building
 
 tombs; they are not, as in the fine image of Mrs. Meynell's poem, merely
 
-building ruins. It is not easy to imagine the ruins of a doll's house;
+building ruins. It is not easy to imagine the ruins of a doll's [[house]];
 
-and that is why a doll's house is an everlasting habitation. How far it
+and that is why a doll's [[house]] is an everlasting habitation. How far it
 
 promises a political permanence is a matter for further discussion; I am
 
@@ -126,7 +126,7 @@ have been educated on American literature. It is true, and it is
 
 inevitable, that they can only be educated on rather old-fashioned
 
-American literature. Mr. Bernard Shaw, in one of his plays, noted truly
+American literature. Mr. Bernard [[Shaw]], in one of his plays, noted truly
 
 the limitations of the young American millionaire, and especially the
 
@@ -140,7 +140,7 @@ staleness is necessarily a disadvantage is, of course, a different
 
 question. But, in any case, it is true that the old American books were
 
-often the books of our childhood, even in the literal sense of the books
+often the books of our [[Childhood|childhood]], even in the literal sense of the books
 
 of our nursery. I know few men in England who have not left their
 
@@ -150,7 +150,7 @@ Finn_. I know few women in England, from the most revolutionary
 
 Suffragette to the most carefully preserved Early Victorian, who will
 
-not confess to having passed a happy childhood with the Little Women of
+not confess to having passed a happy [[Childhood|childhood]] with the Little Women of
 
 Miss Alcott. _Helen's Babies_ was the first and by far the best book in
 
@@ -162,7 +162,7 @@ even fed, our growing minds. Perhaps it was the smell of growing things;
 
 but I am far from certain that it was not simply the smell of wood. Now
 
-that all the memory comes back to me, it seems to come back heavy in a
+that all the [[Memory|memory]] comes back to me, it seems to come back heavy in a
 
 hundred forms with the fragrance and the touch of timber. There was the
 
@@ -178,9 +178,9 @@ wood, which could only be expressed in symbol and even in fantasy. I
 
 will not go so far as to say that it shortened the transition from Log
 
-Cabin to White House; as if the White House were itself made of white
+Cabin to White [[house|House]]; as if the White [[house|House]] were itself made of white
 
-wood (as Oliver Wendell Holmes said), 'that cuts like cheese, but lasts
+wood (as [[Oliver]] Wendell Holmes said), 'that cuts like [[cheese]], but lasts
 
 like iron for things like these.' But I will say that the experience
 

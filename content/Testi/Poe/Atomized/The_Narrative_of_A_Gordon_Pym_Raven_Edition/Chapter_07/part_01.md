@@ -22,7 +22,7 @@ CHAPTER 7
 
       July 10. Spoke a brig from Rio, bound to Norfolk. Weather hazy,
 
-      with a light baffling wind from the eastward. To-day Hartman
+      with a light baffling [[Wind|wind]] from the eastward. To-day Hartman
 
       Rogers died, having been attacked on the eighth with spasms after
 
@@ -34,27 +34,27 @@ CHAPTER 7
 
       if he did not be on the look-out, his own turn would come
 
-      shortly. There were now only himself, Jones, and the cook
+      shortly. There were now only himself, [[Jones]], and the cook
 
       belonging to his own gang—on the other side there were five. He
 
-      had spoken to Jones about taking the command from the mate; but
+      had spoken to [[Jones]] about taking the command from the mate; but
 
       the project having been coolly received, he had been deterred
 
       from pressing the matter any further, or from saying any thing to
 
-      the cook. It was well, as it happened, that he was so prudent,
+      the cook. It was [[Well|well]], as it happened, that he was so prudent,
 
       for in the afternoon the cook expressed his determination of
 
       siding with the mate, and went over formally to that party; while
 
-      Jones took an opportunity of quarrelling with Peters, and hinted
+      [[Jones]] took an opportunity of quarrelling with Peters, and hinted
 
       that he would let the mate know of the plan in agitation. There
 
-      was now, evidently, no time to be lost, and Peters expressed his
+      was now, evidently, no [[Time|time]] to be lost, and Peters expressed his
 
       determination of attempting to take the vessel at all hazards,
 
@@ -68,7 +68,7 @@ CHAPTER 7
 
       more astonished than delighted, as he had no reliance whatever
 
-      upon Jones, whom he already considered as belonging to the party
+      upon [[Jones]], whom he already considered as belonging to the party
 
       of the mate. They went below immediately, when Augustus called to
 
@@ -76,9 +76,9 @@ CHAPTER 7
 
       was agreed that we should attempt to retake the vessel upon the
 
-      first good opportunity, leaving Jones altogether out of our
+      first good opportunity, leaving [[Jones]] altogether out of our
 
-      councils. In the event of success, we were to run the brig into
+      councils. In the event of [[success]], we were to run the brig into
 
       the first port that offered, and deliver her up. The desertion of
 
@@ -108,19 +108,19 @@ CHAPTER 7
 
       beam-ends. By keeping her away, however, she righted, having
 
-      shipped a good deal of water. Scarcely was everything secure,
+      shipped a good deal of [[Water|water]]. Scarcely was everything secure,
 
       when another squall took the vessel, and immediately afterward
 
       another—no damage being done. There was every appearance of a
 
-      gale of wind, which, indeed, shortly came on, with great fury,
+      gale of [[Wind|wind]], which, indeed, shortly came on, with great fury,
 
       from the northward and westward. All was made as snug as
 
       possible, and we laid-to, as usual, under a close-reefed
 
-      foresail. As night drew on, the wind increased in violence, with
+      foresail. As [[Night|night]] drew on, the [[Wind|wind]] increased in violence, with
 
       a remarkably heavy sea. Peters now came into the forecastle with
 
@@ -156,7 +156,7 @@ CHAPTER 7
 
       as an axe or a handspike lying in their customary places—we began
 
-      to fear that the mate had his suspicions, at least in regard to
+      to [[Fear|fear]] that the mate had his suspicions, at least in regard to
 
       Peters, and that he would let slip no opportunity of getting rid
 
@@ -196,6 +196,6 @@ CHAPTER 7
 
       discipline is most rigidly enforced, to station a watch on deck
 
-      when a vessel is lying-to in a gale of wind. As I address myself
+      when a vessel is lying-to in a gale of [[Wind|wind]]. As I address myself
 
       principally, if not altogether, to persons who have never been to

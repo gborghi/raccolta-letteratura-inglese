@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Three Horsemen of Apocalypse (part 2)"
+title: "[[MrPond]] — The Three Horsemen of [[Apocalypse]] (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -82,17 +82,17 @@ sad and even a little anxious.
 
 Mr. Pond, interrupting his monologue, was almost in a twitter of
 
-apologies:  "I'm afraid I'm talking too much, as usual; the truth
+apologies:  "I'm afraid I'm talking too much, as usual; the [[Truth|truth]]
 
 is I was talking about that poet, Petrowski, who was nearly
 
-executed in Poznan--quite a long time ago.  The military
+executed in Poznan--quite a long [[Time|time]] ago.  The military
 
 authorities on the spot hesitated and were going to let him go,
 
 unless they had direct orders from Marshal Von Grock or higher; but
 
-Marshal Von Grock was quite determined on the poet's death; and
+Marshal Von Grock was quite determined on the poet's [[Death|death]]; and
 
 sent orders for his execution that very evening.  A reprieve was
 
@@ -126,7 +126,7 @@ us another of those stories, Grandpapa."
 
 "It's a perfectly true story," protested Pond, "and it happened
 
-exactly as I say.  It isn't any paradox or anything like that.
+exactly as I say.  It isn't any [[Paradox|paradox]] or anything like that.
 
 Only, of course, you have to know the story to see how simple it
 
@@ -158,9 +158,9 @@ fact that he was a national poet but an international singer.  That
 
 is, he happened to have a very fine and powerful voice, with which
 
-he sang his own patriotic songs in half the concert halls of the
+he sang his own patriotic [[songs]] in half the concert halls of the
 
-world.  At home, of course, he was a torch and trumpet of
+world.  At [[Home|home]], of course, he was a torch and trumpet of
 
 revolutionary hopes, especially then, in the sort of international
 
@@ -168,7 +168,7 @@ crisis in which practical politicians disappear, and their place is
 
 taken by men either more or less practical than themselves.  For
 
-the true idealist and the real realist have at least the love of
+the true idealist and the real realist have at least the [[Love|love]] of
 
 action in common.  And the practical politician thrives by offering
 
@@ -180,7 +180,7 @@ but in neither trade can a man win a reputation by doing nothing.
 
 It is odd that these two extreme types stood at the two extreme
 
-ends of that one ridge and road among the marshes--the Polish poet
+ends of that one ridge and [[Road|road]] among the marshes--the Polish poet
 
 a prisoner in the town at one end, the Prussian soldier a commander
 
@@ -192,13 +192,13 @@ For Marshal Von Grock was a true Prussian, not only entirely
 
 practical but entirely prosaic.  He had never read a line of poetry
 
-himself; but he was no fool.  He had the sense of reality which
+himself; but he was no [[Fool|fool]].  He had the sense of reality which
 
 belongs to soldiers; and it prevented him from falling into the
 
 asinine error of the practical politician.  He did not scoff at
 
-visions; he only hated them.  He knew that a poet or a prophet
+visions; he only hated them.  He knew that a poet or a [[Prophet|prophet]]
 
 could be as dangerous as an army.  And he was resolved that the
 
@@ -216,7 +216,7 @@ his massive head looked quite bald, though it was only closely
 
 shaven.  His whole face was also shaven; and had no covering but a
 
-pair of very strong spectacles, which alone gave an enigmatic look
+pair of very strong spectacles, which [[Alone|alone]] gave an enigmatic look
 
 to his heavy and sagging visage.  He turned to a Lieutenant
 
@@ -228,7 +228,7 @@ variety, whose blue saucer-eyes were staring vacantly.
 
 "Lieutenant Von Hocheimer," he said, "did you say His Highness
 
-would reach the camp to-night?"
+would reach the camp to-[[Night|night]]?"
 
 
 
@@ -240,7 +240,7 @@ new trick of talking.
 
 
 
-"Then there is just time," said Grock, "to send you with that order
+"Then there is just [[Time|time]]," said Grock, "to send you with that order
 
 for execution, before he arrives.  We must serve His Highness in
 

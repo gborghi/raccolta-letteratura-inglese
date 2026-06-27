@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE"
+title: "[[David Copperfield]] — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -19,41 +19,41 @@ CHAPTER 22. SOME OLD SCENES, AND SOME NEW PEOPLE
 
 Steerforth and I stayed for more than a fortnight in that part of the
 country. We were very much together, I need not say; but occasionally we
-were asunder for some hours at a time. He was a good sailor, and I was
+were asunder for some hours at a [[Time|time]]. He was a good sailor, and I was
 but an indifferent one; and when he went out boating with Mr. Peggotty,
 which was a favourite amusement of his, I generally remained ashore. My
 occupation of Peggotty’s spare-room put a constraint upon me, from which
 he was free: for, knowing how assiduously she attended on Mr. Barkis
-all day, I did not like to remain out late at night; whereas Steerforth,
-lying at the Inn, had nothing to consult but his own humour. Thus it
+all day, I did not like to remain out late at [[Night|night]]; whereas Steerforth,
+lying at the Inn, had nothing to consult but his own [[Humour|humour]]. Thus it
 came about, that I heard of his making little treats for the fishermen
-at Mr. Peggotty’s house of call, ‘The Willing Mind’, after I was in bed,
+at Mr. Peggotty’s [[house]] of call, ‘The Willing Mind’, after I was in bed,
 and of his being afloat, wrapped in fishermen’s clothes, whole moonlight
 nights, and coming back when the morning tide was at flood. By this
-time, however, I knew that his restless nature and bold spirits
+[[Time|time]], however, I knew that his restless [[Nature|nature]] and bold spirits
 delighted to find a vent in rough toil and hard weather, as in any other
 means of excitement that presented itself freshly to him; so none of his
 proceedings surprised me.
 
 Another cause of our being sometimes apart, was, that I had naturally an
 interest in going over to Blunderstone, and revisiting the old familiar
-scenes of my childhood; while Steerforth, after being there once, had
+scenes of my [[Childhood|childhood]]; while Steerforth, after being there once, had
 naturally no great interest in going there again. Hence, on three or
 four days that I can at once recall, we went our several ways after an
 early breakfast, and met again at a late dinner. I had no idea how he
-employed his time in the interval, beyond a general knowledge that
+employed his [[Time|time]] in the interval, beyond a general knowledge that
 he was very popular in the place, and had twenty means of actively
 diverting himself where another man might not have found one.
 
 For my own part, my occupation in my solitary pilgrimages was to recall
-every yard of the old road as I went along it, and to haunt the old
-spots, of which I never tired. I haunted them, as my memory had often
+every yard of the old [[Road|road]] as I went along it, and to haunt the old
+spots, of which I never tired. I haunted them, as my [[Memory|memory]] had often
 done, and lingered among them as my younger thoughts had lingered when I
-was far away. The grave beneath the tree, where both my parents lay--on
+was far away. The [[Grave|grave]] beneath the tree, where both my parents lay--on
 which I had looked out, when it was my father’s only, with such curious
 feelings of compassion, and by which I had stood, so desolate, when it
-was opened to receive my pretty mother and her baby--the grave which
-Peggotty’s own faithful care had ever since kept neat, and made a garden
+was opened to receive my pretty mother and her baby--the [[Grave|grave]] which
+Peggotty’s own faithful care had ever since kept neat, and made a [[Garden|garden]]
 of, I walked near, by the hour. It lay a little off the churchyard path,
 in a quiet corner, not so far removed but I could read the names
 upon the stone as I walked to and fro, startled by the sound of the
@@ -61,34 +61,34 @@ church-bell when it struck the hour, for it was like a departed voice to
 me. My reflections at these times were always associated with the figure
 I was to make in life, and the distinguished things I was to do. My
 echoing footsteps went to no other tune, but were as constant to that as
-if I had come home to build my castles in the air at a living mother’s
+if I had come [[Home|home]] to build my castles in the air at a living mother’s
 side.
 
-There were great changes in my old home. The ragged nests, so long
+There were great changes in my old [[Home|home]]. The ragged nests, so long
 deserted by the rooks, were gone; and the trees were lopped and topped
-out of their remembered shapes. The garden had run wild, and half the
-windows of the house were shut up. It was occupied, but only by a poor
+out of their remembered shapes. The [[Garden|garden]] had run wild, and half the
+windows of the [[house]] were shut up. It was occupied, but only by a poor
 lunatic gentleman, and the people who took care of him. He was always
-sitting at my little window, looking out into the churchyard; and I
+sitting at my little [[Window|window]], looking out into the churchyard; and I
 wondered whether his rambling thoughts ever went upon any of the fancies
 that used to occupy mine, on the rosy mornings when I peeped out of
-that same little window in my night-clothes, and saw the sheep quietly
+that same little [[Window|window]] in my [[Night|night]]-clothes, and saw the sheep quietly
 feeding in the light of the rising sun.
 
-Our old neighbours, Mr. and Mrs. Grayper, were gone to South America,
-and the rain had made its way through the roof of their empty house,
+Our old neighbours, Mr. and Mrs. Grayper, were gone to South [[America]],
+and the rain had made its way through the roof of their empty [[house]],
 and stained the outer walls. Mr. Chillip was married again to a tall,
 raw-boned, high-nosed wife; and they had a weazen little baby, with a
 heavy head that it couldn’t hold up, and two weak staring eyes, with
 which it seemed to be always wondering why it had ever been born.
 
 It was with a singular jumble of sadness and pleasure that I used to
-linger about my native place, until the reddening winter sun admonished
-me that it was time to start on my returning walk. But, when the place
+linger about my native place, until the reddening [[Winter|winter]] sun admonished
+me that it was [[Time|time]] to start on my returning walk. But, when the place
 was left behind, and especially when Steerforth and I were happily
-seated over our dinner by a blazing fire, it was delicious to think of
+seated over our dinner by a blazing [[Fire|fire]], it was delicious to think of
 having been there. So it was, though in a softened degree, when I
-went to my neat room at night; and, turning over the leaves of the
+went to my neat room at [[Night|night]]; and, turning over the [[Leaves|leaves]] of the
 crocodile-book (which was always there, upon a little table), remembered
 with a grateful heart how blest I was in having such a friend as
 Steerforth, such a friend as Peggotty, and such a substitute for what I
@@ -97,7 +97,7 @@ had lost as my excellent and generous aunt.
 My nearest way to Yarmouth, in coming back from these long walks, was by
 a ferry. It landed me on the flat between the town and the sea, which I
 could make straight across, and so save myself a considerable circuit by
-the high road. Mr. Peggotty’s house being on that waste-place, and not
+the high [[Road|road]]. Mr. Peggotty’s [[house]] being on that waste-place, and not
 a hundred yards out of my track, I always looked in as I went by.
 Steerforth was pretty sure to be there expecting me, and we went on
 together through the frosty air and gathering fog towards the twinkling
@@ -105,8 +105,8 @@ lights of the town.
 
 One dark evening, when I was later than usual--for I had, that day, been
 making my parting visit to Blunderstone, as we were now about to return
-home--I found him alone in Mr. Peggotty’s house, sitting thoughtfully
-before the fire. He was so intent upon his own reflections that he was
+[[Home|home]]--I found him [[Alone|alone]] in Mr. Peggotty’s [[house]], sitting thoughtfully
+before the [[Fire|fire]]. He was so intent upon his own reflections that he was
 quite unconscious of my approach. This, indeed, he might easily have
 been if he had been less absorbed, for footsteps fell noiselessly on the
 sandy ground outside; but even my entrance failed to rouse him. I was
@@ -116,16 +116,16 @@ was lost in his meditations.
 He gave such a start when I put my hand upon his shoulder, that he made
 me start too.
 
-‘You come upon me,’ he said, almost angrily, ‘like a reproachful ghost!’
+‘You come upon me,’ he said, almost angrily, ‘like a reproachful [[Ghost|ghost]]!’
 
 ‘I was obliged to announce myself, somehow,’ I replied. ‘Have I called
-you down from the stars?’
+you down from the [[Stars|stars]]?’
 
 ‘No,’ he answered. ‘No.’
 
 ‘Up from anywhere, then?’ said I, taking my seat near him.
 
-‘I was looking at the pictures in the fire,’ he returned.
+‘I was looking at the pictures in the [[Fire|fire]],’ he returned.
 
 ‘But you are spoiling them for me,’ said I, as he stirred it quickly
 with a piece of burning wood, striking out of it a train of red-hot
@@ -133,74 +133,74 @@ sparks that went careering up the little chimney, and roaring out into
 the air.
 
 ‘You would not have seen them,’ he returned. ‘I detest this mongrel
-time, neither day nor night. How late you are! Where have you been?’
+[[Time|time]], neither day nor [[Night|night]]. How late you are! Where have you been?’
 
 ‘I have been taking leave of my usual walk,’ said I.
 
 ‘And I have been sitting here,’ said Steerforth, glancing round the
-room, ‘thinking that all the people we found so glad on the night of
+room, ‘thinking that all the people we found so glad on the [[Night|night]] of
 our coming down, might--to judge from the present wasted air of the
 place--be dispersed, or dead, or come to I don’t know what harm. David,
 I wish to God I had had a judicious father these last twenty years!’
 
 ‘My dear Steerforth, what is the matter?’
 
-‘I wish with all my soul I had been better guided!’ he exclaimed. ‘I
-wish with all my soul I could guide myself better!’
+‘I wish with all my [[Soul|soul]] I had been better guided!’ he exclaimed. ‘I
+wish with all my [[Soul|soul]] I could guide myself better!’
 
 There was a passionate dejection in his manner that quite amazed me. He
 was more unlike himself than I could have supposed possible.
 
 ‘It would be better to be this poor Peggotty, or his lout of a nephew,’
 he said, getting up and leaning moodily against the chimney-piece, with
-his face towards the fire, ‘than to be myself, twenty times richer and
+his face towards the [[Fire|fire]], ‘than to be myself, twenty times richer and
 twenty times wiser, and be the torment to myself that I have been, in
 this Devil’s bark of a boat, within the last half-hour!’
 
 I was so confounded by the alteration in him, that at first I could only
-observe him in silence, as he stood leaning his head upon his hand, and
-looking gloomily down at the fire. At length I begged him, with all
-the earnestness I felt, to tell me what had occurred to cross him so
-unusually, and to let me sympathize with him, if I could not hope to
-advise him. Before I had well concluded, he began to laugh--fretfully at
+observe him in [[Silence|silence]], as he stood leaning his head upon his hand, and
+looking gloomily down at the [[Fire|fire]]. At length I begged him, with all
+the earnestness I felt, to tell me what had occurred to [[Cross|cross]] him so
+unusually, and to let me sympathize with him, if I could not [[Hope|hope]] to
+advise him. Before I had [[Well|well]] concluded, he began to laugh--fretfully at
 first, but soon with returning gaiety.
 
 ‘Tut, it’s nothing, Daisy! nothing!’ he replied. ‘I told you at the
-inn in London, I am heavy company for myself, sometimes. I have been a
-nightmare to myself, just now--must have had one, I think. At odd dull
-times, nursery tales come up into the memory, unrecognized for what
+inn in [[London]], I am heavy company for myself, sometimes. I have been a
+[[nightmare]] to myself, just now--must have had one, I think. At odd dull
+times, nursery tales come up into the [[Memory|memory]], unrecognized for what
 they are. I believe I have been confounding myself with the bad boy who
 “didn’t care”, and became food for lions--a grander kind of going to
-the dogs, I suppose. What old women call the horrors, have been creeping
+the [[dogs]], I suppose. What old women call the horrors, have been creeping
 over me from head to foot. I have been afraid of myself.’
 
 ‘You are afraid of nothing else, I think,’ said I.
 
 ‘Perhaps not, and yet may have enough to be afraid of too,’ he answered.
-‘Well! So it goes by! I am not about to be hipped again, David; but I
-tell you, my good fellow, once more, that it would have been well for me
+‘[[Well]]! So it goes by! I am not about to be hipped again, David; but I
+tell you, my good fellow, once more, that it would have been [[Well|well]] for me
 (and for more than me) if I had had a steadfast and judicious father!’
 
 His face was always full of expression, but I never saw it express such
 a dark kind of earnestness as when he said these words, with his glance
-bent on the fire.
+bent on the [[Fire|fire]].
 
 ‘So much for that!’ he said, making as if he tossed something light
 into the air, with his hand. “‘Why, being gone, I am a man again,” like
-Macbeth. And now for dinner! If I have not (Macbeth-like) broken up the
+[[Macbeth]]. And now for dinner! If I have not ([[Macbeth]]-like) broken up the
 feast with most admired disorder, Daisy.’
 
-‘But where are they all, I wonder!’ said I.
+‘But where are they all, I [[Wonder|wonder]]!’ said I.
 
 ‘God knows,’ said Steerforth. ‘After strolling to the ferry looking
 for you, I strolled in here and found the place deserted. That set me
 thinking, and you found me thinking.’
 
-The advent of Mrs. Gummidge with a basket, explained how the house had
+The advent of Mrs. Gummidge with a basket, explained how the [[house]] had
 happened to be empty. She had hurried out to buy something that was
 needed, against Mr. Peggotty’s return with the tide; and had left the
 door open in the meanwhile, lest Ham and little Em’ly, with whom it was
-an early night, should come home while she was gone. Steerforth, after
+an early [[Night|night]], should come [[Home|home]] while she was gone. Steerforth, after
 very much improving Mrs. Gummidge’s spirits by a cheerful salutation and
 a jocose embrace, took my arm, and hurried me away.
 
@@ -221,13 +221,13 @@ tossing on the sea here. I wish there was not.’
 ‘As long as the novelty should last,’ said I, laughing.
 
 ‘Like enough,’ he returned; ‘though there’s a sarcastic meaning in that
-observation for an amiable piece of innocence like my young friend.
-Well! I dare say I am a capricious fellow, David. I know I am; but
+observation for an amiable piece of [[innocence]] like my young friend.
+[[Well]]! I dare say I am a capricious fellow, David. I know I am; but
 while the iron is hot, I can strike it vigorously too. I could pass
 a reasonably good examination already, as a pilot in these waters, I
 think.’
 
-‘Mr. Peggotty says you are a wonder,’ I returned.
+‘Mr. Peggotty says you are a [[Wonder|wonder]],’ I returned.
 
 ‘A nautical phenomenon, eh?’ laughed Steerforth.
 
@@ -304,17 +304,17 @@ showing in my face how much it pleased me, but I said little, and he
 resumed his usual smile, and seemed relieved.
 
 ‘But see here,’ he said, looking before us, ‘where the original little
-Em’ly comes! And that fellow with her, eh? Upon my soul, he’s a true
-knight. He never leaves her!’
+Em’ly comes! And that fellow with her, eh? Upon my [[Soul|soul]], he’s a true
+knight. He never [[Leaves|leaves]] her!’
 
 Ham was a boat-builder in these days, having improved a natural
 ingenuity in that handicraft, until he had become a skilled workman. He
 was in his working-dress, and looked rugged enough, but manly withal,
 and a very fit protector for the blooming little creature at his
 side. Indeed, there was a frankness in his face, an honesty, and an
-undisguised show of his pride in her, and his love for her, which were,
+undisguised show of his [[Pride|pride]] in her, and his [[Love|love]] for her, which were,
 to me, the best of good looks. I thought, as they came towards us, that
-they were well matched even in that particular.
+they were [[Well|well]] matched even in that particular.
 
 She withdrew her hand timidly from his arm as we stopped to speak to
 them, and blushed as she gave it to Steerforth and to me. When they
@@ -322,19 +322,19 @@ passed on, after we had exchanged a few words, she did not like to
 replace that hand, but, still appearing timid and constrained, walked
 by herself. I thought all this very pretty and engaging, and Steerforth
 seemed to think so too, as we looked after them fading away in the light
-of a young moon.
+of a young [[Moon|moon]].
 
 Suddenly there passed us--evidently following them--a young woman whose
 approach we had not observed, but whose face I saw as she went by, and
 thought I had a faint remembrance of. She was lightly dressed; looked
-bold, and haggard, and flaunting, and poor; but seemed, for the time, to
-have given all that to the wind which was blowing, and to have nothing
+bold, and haggard, and flaunting, and poor; but seemed, for the [[Time|time]], to
+have given all that to the [[Wind|wind]] which was blowing, and to have nothing
 in her mind but going after them. As the dark distant level, absorbing
 their figures into itself, left but itself visible between us and the
 sea and clouds, her figure disappeared in like manner, still no nearer
 to them than before.
 
-‘That is a black shadow to be following the girl,’ said Steerforth,
+‘That is a black [[Shadow|shadow]] to be following the girl,’ said Steerforth,
 standing still; ‘what does it mean?’
 
 He spoke in a low voice that sounded almost strange to Me.
@@ -348,10 +348,10 @@ thing that the beggar should take that shape tonight.’
 
 ‘For no better reason, truly, than because I was thinking,’ he said,
 after a pause, ‘of something like it, when it came by. Where the Devil
-did it come from, I wonder!’
+did it come from, I [[Wonder|wonder]]!’
 
-‘From the shadow of this wall, I think,’ said I, as we emerged upon a
-road on which a wall abutted.
+‘From the [[Shadow|shadow]] of this wall, I think,’ said I, as we emerged upon a
+[[Road|road]] on which a wall abutted.
 
 ‘It’s gone!’ he returned, looking over his shoulder. ‘And all ill go
 with it. Now for our dinner!’
@@ -359,12 +359,12 @@ with it. Now for our dinner!’
 But he looked again over his shoulder towards the sea-line glimmering
 afar off, and yet again. And he wondered about it, in some broken
 expressions, several times, in the short remainder of our walk; and only
-seemed to forget it when the light of fire and candle shone upon us,
+seemed to forget it when the light of [[Fire|fire]] and candle shone upon us,
 seated warm and merry, at table.
 
 Littimer was there, and had his usual effect upon me. When I said to
-him that I hoped Mrs. Steerforth and Miss Dartle were well, he answered
-respectfully (and of course respectably), that they were tolerably well,
+him that I hoped Mrs. Steerforth and Miss Dartle were [[Well|well]], he answered
+respectfully (and of course respectably), that they were tolerably [[Well|well]],
 he thanked me, and had sent their compliments. This was all, and yet he
 seemed to me to say as plainly as a man could say: ‘You are very young,
 sir; you are exceedingly young.’
@@ -384,7 +384,7 @@ as I felt, he said to his master:
 ‘It appears to be her native part of the country, sir. She informs me
 that she makes one of her professional visits here, every year, sir.
 I met her in the street this afternoon, and she wished to know if she
-might have the honour of waiting on you after dinner, sir.’
+might have the [[Honour|honour]] of waiting on you after dinner, sir.’
 
 ‘Do you know the Giantess in question, Daisy?’ inquired Steerforth.
 
@@ -400,7 +400,7 @@ Steerforth burst into a fit of laughing when I referred to her, and
 positively refused to answer any question of which I made her the
 subject. I remained, therefore, in a state of considerable expectation
 until the cloth had been removed some half an hour, and we were sitting
-over our decanter of wine before the fire, when the door opened, and
+over our decanter of wine before the [[Fire|fire]], when the door opened, and
 Littimer, with his habitual serenity quite undisturbed, announced:
 
 ‘Miss Mowcher!’
@@ -408,12 +408,12 @@ Littimer, with his habitual serenity quite undisturbed, announced:
 I looked at the doorway and saw nothing. I was still looking at
 the doorway, thinking that Miss Mowcher was a long while making her
 appearance, when, to my infinite astonishment, there came waddling round
-a sofa which stood between me and it, a pursy dwarf, of about forty
+a sofa which stood between me and it, a pursy [[Dwarf|dwarf]], of about forty
 or forty-five, with a very large head and face, a pair of roguish grey
 eyes, and such extremely little arms, that, to enable herself to lay a
 finger archly against her snub nose, as she ogled Steerforth, she was
 obliged to meet the finger half-way, and lay her nose against it.
-Her chin, which was what is called a double chin, was so fat that it
+Her chin, which was what is called a [[Double|double]] chin, was so fat that it
 entirely swallowed up the strings of her bonnet, bow and all. Throat she
 had none; waist she had none; legs she had none, worth mentioning; for
 though she was more than full-sized down to where her waist would have
@@ -428,32 +428,32 @@ moments, broke into a torrent of words.
 
 ‘What! My flower!’ she pleasantly began, shaking her large head at him.
 ‘You’re there, are you! Oh, you naughty boy, fie for shame, what do you
-do so far away from home? Up to mischief, I’ll be bound. Oh, you’re a
+do so far away from [[Home|home]]? Up to mischief, I’ll be bound. Oh, you’re a
 downy fellow, Steerforth, so you are, and I’m another, ain’t I? Ha, ha,
 ha! You’d have betted a hundred pound to five, now, that you wouldn’t
 have seen me here, wouldn’t you? Bless you, man alive, I’m everywhere.
-I’m here and there, and where not, like the conjurer’s half-crown in the
+I’m here and there, and where not, like the conjurer’s half-[[Crown|crown]] in the
 lady’s handkercher. Talking of handkerchers--and talking of ladies--what
 a comfort you are to your blessed mother, ain’t you, my dear boy, over
 one of my shoulders, and I don’t say which!’
 
 Miss Mowcher untied her bonnet, at this passage of her discourse, threw
 back the strings, and sat down, panting, on a footstool in front of
-the fire--making a kind of arbour of the dining table, which spread its
+the [[Fire|fire]]--making a kind of arbour of the dining table, which spread its
 mahogany shelter above her head.
 
-‘Oh my stars and what’s-their-names!’ she went on, clapping a hand on
+‘Oh my [[Stars|stars]] and what’s-their-names!’ she went on, clapping a hand on
 each of her little knees, and glancing shrewdly at me, ‘I’m of too full
 a habit, that’s the fact, Steerforth. After a flight of stairs, it gives
 me as much trouble to draw every breath I want, as if it was a bucket of
-water. If you saw me looking out of an upper window, you’d think I was a
+[[Water|water]]. If you saw me looking out of an upper [[Window|window]], you’d think I was a
 fine woman, wouldn’t you?’
 
 ‘I should think that, wherever I saw you,’ replied Steerforth.
 
 ‘Go along, you dog, do!’ cried the little creature, making a whisk at
 him with the handkerchief with which she was wiping her face, ‘and don’t
-be impudent! But I give you my word and honour I was at Lady Mithers’s
+be impudent! But I give you my word and [[Honour|honour]] I was at Lady Mithers’s
 last week--THERE’S a woman! How SHE wears!--and Mithers himself came
 into the room where I was waiting for her--THERE’S a man! How HE wears!
 and his wig too, for he’s had it these ten years--and he went on at
@@ -465,7 +465,7 @@ wants principle.’
 
 ‘That’s tellings, my blessed infant,’ she retorted, tapping her nose
 again, screwing up her face, and twinkling her eyes like an imp of
-supernatural intelligence. ‘Never YOU mind! You’d like to know whether
+[[Supernatural|supernatural]] intelligence. ‘Never YOU mind! You’d like to know whether
 I stop her hair from falling off, or dye it, or touch up her
 complexion, or improve her eyebrows, wouldn’t you? And so you shall, my
 darling--when I tell you! Do you know what my great grandfather’s name
@@ -477,14 +477,14 @@ was?’
 long line of Walkers, that I inherit all the Hookey estates from.’
 
 I never beheld anything approaching to Miss Mowcher’s wink except Miss
-Mowcher’s self-possession. She had a wonderful way too, when listening
+Mowcher’s [[Self|self]]-possession. She had a wonderful way too, when listening
 to what was said to her, or when waiting for an answer to what she had
 said herself, of pausing with her head cunningly on one side, and one
 eye turned up like a magpie’s. Altogether I was lost in amazement,
 and sat staring at her, quite oblivious, I am afraid, of the laws of
 politeness.
 
-She had by this time drawn the chair to her side, and was busily engaged
+She had by this [[Time|time]] drawn the chair to her side, and was busily engaged
 in producing from the bag (plunging in her short arm to the shoulder, at
 every dive) a number of small bottles, sponges, combs, brushes, bits of
 flannel, little pairs of curling-irons, and other instruments, which
@@ -495,13 +495,13 @@ desisted, and said to Steerforth, much to my confusion:
 
 ‘Mr. Copperfield,’ said Steerforth; ‘he wants to know you.’
 
-‘Well, then, he shall! I thought he looked as if he did!’ returned Miss
+‘[[Well]], then, he shall! I thought he looked as if he did!’ returned Miss
 Mowcher, waddling up to me, bag in hand, and laughing on me as she came.
 ‘Face like a peach!’ standing on tiptoe to pinch my cheek as I
 sat. ‘Quite tempting! I’m very fond of peaches. Happy to make your
 acquaintance, Mr. Copperfield, I’m sure.’
 
-I said that I congratulated myself on having the honour to make hers,
+I said that I congratulated myself on having the [[Honour|honour]] to make hers,
 and that the happiness was mutual.
 
 ‘Oh, my goodness, how polite we are!’ exclaimed Miss Mowcher, making a
@@ -515,7 +515,7 @@ again.
 ‘What do you mean, Miss Mowcher?’ said Steerforth.
 
 ‘Ha! ha! ha! What a refreshing set of humbugs we are, to be sure, ain’t
-we, my sweet child?’ replied that morsel of a woman, feeling in the bag
+we, my sweet [[Child|child]]?’ replied that morsel of a woman, feeling in the bag
 with her head on one side and her eye in the air. ‘Look here!’ taking
 something out. ‘Scraps of the Russian Prince’s nails. Prince Alphabet
 turned topsy-turvy, I call him, for his name’s got all the letters in
@@ -526,16 +526,16 @@ it, higgledy-piggledy.’
 ‘I believe you, my pet,’ replied Miss Mowcher. ‘I keep his nails in
 order for him. Twice a week! Fingers and toes.’
 
-‘He pays well, I hope?’ said Steerforth.
+‘He pays [[Well|well]], I [[Hope|hope]]?’ said Steerforth.
 
-‘Pays, as he speaks, my dear child--through the nose,’ replied Miss
+‘Pays, as he speaks, my dear [[Child|child]]--through the nose,’ replied Miss
 Mowcher. ‘None of your close shavers the Prince ain’t. You’d say so, if
-you saw his moustachios. Red by nature, black by art.’
+you saw his moustachios. Red by [[Nature|nature]], black by art.’
 
 ‘By your art, of course,’ said Steerforth.
 
 Miss Mowcher winked assent. ‘Forced to send for me. Couldn’t help it.
-The climate affected his dye; it did very well in Russia, but it was no
+The climate affected his dye; it did very [[Well|well]] in [[Russia]], but it was no
 go here. You never saw such a rusty Prince in all your born days as he
 was. Like old iron!’ ‘Is that why you called him a humbug, just now?’
 inquired Steerforth.
@@ -553,10 +553,10 @@ Prince’s nails!’ said this least of women, trying to fold her short
 arms, and nodding her large head.
 
 Steerforth laughed heartily, and I laughed too. Miss Mowcher continuing
-all the time to shake her head (which was very much on one side), and to
+all the [[Time|time]] to shake her head (which was very much on one side), and to
 look into the air with one eye, and to wink with the other.
 
-‘Well, well!’ she said, smiting her small knees, and rising, ‘this is
+‘[[Well]], [[Well|well]]!’ she said, smiting her small knees, and rising, ‘this is
 not business. Come, Steerforth, let’s explore the polar regions, and
 have it over.’
 
@@ -567,13 +567,13 @@ and begging the assistance of my hand, mounted up, pretty nimbly, to the
 top, as if it were a stage.
 
 ‘If either of you saw my ankles,’ she said, when she was safely
-elevated, ‘say so, and I’ll go home and destroy myself!’
+elevated, ‘say so, and I’ll go [[Home|home]] and destroy myself!’
 
 ‘I did not,’ said Steerforth.
 
 ‘I did not,’ said I.
 
-‘Well then,’ cried Miss Mowcher, ‘I’ll consent to live. Now, ducky,
+‘[[Well]] then,’ cried Miss Mowcher, ‘I’ll consent to live. Now, ducky,
 ducky, ducky, come to Mrs. Bond and be killed.’
 
 This was an invitation to Steerforth to place himself under her hands;
@@ -592,8 +592,8 @@ polishing that shall keep your curls on for the next ten years!’
 With this, she tilted some of the contents of the little bottle on to
 one of the little bits of flannel, and, again imparting some of the
 virtues of that preparation to one of the little brushes, began rubbing
-and scraping away with both on the crown of Steerforth’s head in the
-busiest manner I ever witnessed, talking all the time.
+and scraping away with both on the [[Crown|crown]] of Steerforth’s head in the
+busiest manner I ever witnessed, talking all the [[Time|time]].
 
 ‘There’s Charley Pyegrave, the duke’s son,’ she said. ‘You know
 Charley?’ peeping round into his face.
@@ -623,8 +623,8 @@ by name. “Begging pardon, sir,” said the Griffin to Charley, “it’s
 not--not--not ROUGE, is it?” “Rouge,” said Charley to the Griffin. “What
 the unmentionable to ears polite, do you think I want with rouge?” “No
 offence, sir,” said the Griffin; “we have it asked for by so many names,
-I thought it might be.” Now that, my child,’ continued Miss Mowcher,
-rubbing all the time as busily as ever, ‘is another instance of
+I thought it might be.” Now that, my [[Child|child]],’ continued Miss Mowcher,
+rubbing all the [[Time|time]] as busily as ever, ‘is another instance of
 the refreshing humbug I was speaking of. I do something in that way
 myself--perhaps a good deal--perhaps a little--sharp’s the word, my dear
 boy--never mind!’
@@ -632,7 +632,7 @@ boy--never mind!’
 ‘In what way do you mean? In the rouge way?’ said Steerforth.
 
 ‘Put this and that together, my tender pupil,’ returned the wary
-Mowcher, touching her nose, ‘work it by the rule of Secrets in all
+Mowcher, touching her nose, ‘work it by the rule of [[Secrets]] in all
 trades, and the product will give you the desired result. I say I do a
 little in that way myself. One Dowager, SHE calls it lip-salve. Another,
 SHE calls it gloves. Another, SHE calls it tucker-edging. Another, SHE
@@ -654,7 +654,7 @@ jemmy.’
 
 ‘No?’ said Steerforth.
 
-‘Not the ghost of one,’ replied Miss Mowcher.
+‘Not the [[Ghost|ghost]] of one,’ replied Miss Mowcher.
 
 ‘We could show her the substance of one, I think?’ said Steerforth,
 addressing his eyes to mine. ‘Eh, Daisy?’
@@ -696,7 +696,7 @@ to be married to a most worthy and deserving man in her own station of
 life. I esteem her for her good sense, as much as I admire her for her
 good looks.’
 
-‘Well said!’ cried Steerforth. ‘Hear, hear, hear! Now I’ll quench the
+‘[[Well]] said!’ cried Steerforth. ‘Hear, hear, hear! Now I’ll quench the
 curiosity of this little Fatima, my dear Daisy, by leaving her nothing
 to guess at. She is at present apprenticed, Miss Mowcher, or articled,
 or whatever it may be, to Omer and Joram, Haberdashers, Milliners, and
@@ -718,9 +718,9 @@ brisk again in an instant, and rattled away with surprising volubility.
 
 ‘Oh! And that’s all about it, is it?’ she exclaimed, trimming his
 whiskers with a little restless pair of scissors, that went glancing
-round his head in all directions. ‘Very well: very well! Quite a long
+round his head in all directions. ‘Very [[Well|well]]: very [[Well|well]]! Quite a long
 story. Ought to end “and they lived happy ever afterwards”; oughtn’t
-it? Ah! What’s that game at forfeits? I love my love with an E, because
+it? Ah! What’s that game at forfeits? I [[Love|love]] my [[Love|love]] with an E, because
 she’s enticing; I hate her with an E, because she’s engaged. I took her
 to the sign of the exquisite, and treated her with an elopement, her
 name’s Emily, and she lives in the east? Ha! ha! ha! Mr. Copperfield,
@@ -733,7 +733,7 @@ reply, she continued, without drawing breath:
 you are, Steerforth. If I understand any noddle in the world, I
 understand yours. Do you hear me when I tell you that, my darling? I
 understand yours,’ peeping down into his face. ‘Now you may mizzle,
-jemmy (as we say at Court), and if Mr. Copperfield will take the chair
+jemmy (as we say at [[Court]]), and if Mr. Copperfield will take the chair
 I’ll operate on him.’
 
 ‘What do you say, Daisy?’ inquired Steerforth, laughing, and resigning
@@ -744,7 +744,7 @@ his seat. ‘Will you be improved?’
 ‘Don’t say no,’ returned the little woman, looking at me with the aspect
 of a connoisseur; ‘a little bit more eyebrow?’
 
-‘Thank you,’ I returned, ‘some other time.’
+‘Thank you,’ I returned, ‘some other [[Time|time]].’
 
 ‘Have it carried half a quarter of an inch towards the temple,’ said
 Miss Mowcher. ‘We can do it in a fortnight.’
@@ -757,11 +757,11 @@ for a pair of whiskers. Come!’
 I could not help blushing as I declined, for I felt we were on my weak
 point, now. But Miss Mowcher, finding that I was not at present disposed
 for any decoration within the range of her art, and that I was, for the
-time being, proof against the blandishments of the small bottle which
+[[Time|time]] being, proof against the blandishments of the small bottle which
 she held up before one eye to enforce her persuasions, said we would
 make a beginning on an early day, and requested the aid of my hand to
 descend from her elevated station. Thus assisted, she skipped down with
-much agility, and began to tie her double chin into her bonnet.
+much agility, and began to tie her [[Double|double]] chin into her bonnet.
 
 ‘The fee,’ said Steerforth, ‘is--’
 
@@ -782,7 +782,7 @@ your hearts, but I am forced to leave you. You must call up all your
 fortitude, and try to bear it. Good-bye, Mr. Copperfield! Take care of
 yourself, jockey of Norfolk! How I have been rattling on! It’s all
 the fault of you two wretches. I forgive you! “Bob swore!”--as the
-Englishman said for “Good night”, when he first learnt French, and
+Englishman said for “Good [[Night|night]]”, when he first learnt French, and
 thought it so like English. “Bob swore,” my ducks!’
 
 With the bag slung over her arm, and rattling as she waddled away, she
@@ -793,7 +793,7 @@ this offer, and, with her finger on her nose, departed.
 Steerforth laughed to that degree, that it was impossible for me to help
 laughing too; though I am not sure I should have done so, but for this
 inducement. When we had had our laugh quite out, which was after some
-time, he told me that Miss Mowcher had quite an extensive connexion, and
+[[Time|time]], he told me that Miss Mowcher had quite an extensive connexion, and
 made herself useful to a variety of people in a variety of ways. Some
 people trifled with her as a mere oddity, he said; but she was as
 shrewdly and sharply observant as anyone he knew, and as long-headed as
@@ -809,10 +809,10 @@ skill, and her profits; and about her being a scientific cupper, if I
 should ever have occasion for her service in that capacity.
 
 She was the principal theme of our conversation during the evening:
-and when we parted for the night Steerforth called after me over the
+and when we parted for the [[Night|night]] Steerforth called after me over the
 banisters, ‘Bob swore!’ as I went downstairs.
 
-I was surprised, when I came to Mr. Barkis’s house, to find Ham walking
+I was surprised, when I came to Mr. Barkis’s [[house]], to find Ham walking
 up and down in front of it, and still more surprised to learn from him
 that little Em’ly was inside. I naturally inquired why he was not there
 too, instead of pacing the streets by himself?
@@ -823,7 +823,7 @@ she’s talking to some ‘un in here.’
 ‘I should have thought,’ said I, smiling, ‘that that was a reason for
 your being in here too, Ham.’
 
-‘Well, Mas’r Davy, in a general way, so ‘t would be,’ he returned;
+‘[[Well]], Mas’r Davy, in a general way, so ‘t would be,’ he returned;
 ‘but look’ee here, Mas’r Davy,’ lowering his voice, and speaking very
 gravely. ‘It’s a young woman, sir--a young woman, that Em’ly knowed
 once, and doen’t ought to know no more.’
@@ -840,7 +840,7 @@ hold any that the folk shrink away from, more.’
 ‘Keeping us in sight?’ said Ham. ‘It’s like you did, Mas’r Davy. Not
 that I know’d then, she was theer, sir, but along of her creeping soon
 arterwards under Em’ly’s little winder, when she see the light come,
-and whispering “Em’ly, Em’ly, for Christ’s sake, have a woman’s heart
+and whispering “Em’ly, Em’ly, for [[Christ]]’s sake, have a woman’s heart
 towards me. I was once like you!” Those was solemn words, Mas’r Davy,
 fur to hear!’
 
@@ -849,7 +849,7 @@ it you? Oh, Martha, can it be you?”--for they had sat at work together,
 many a day, at Mr. Omer’s.’
 
 ‘I recollect her now!’ cried I, recalling one of the two girls I had
-seen when I first went there. ‘I recollect her quite well!’
+seen when I first went there. ‘I recollect her quite [[Well|well]]!’
 
 ‘Martha Endell,’ said Ham. ‘Two or three year older than Em’ly, but was
 at the school with her.’
@@ -857,28 +857,28 @@ at the school with her.’
 ‘I never heard her name,’ said I. ‘I didn’t mean to interrupt you.’
 
 ‘For the matter o’ that, Mas’r Davy,’ replied Ham, ‘all’s told a’most
-in them words, “Em’ly, Em’ly, for Christ’s sake, have a woman’s heart
+in them words, “Em’ly, Em’ly, for [[Christ]]’s sake, have a woman’s heart
 towards me. I was once like you!” She wanted to speak to Em’ly. Em’ly
-couldn’t speak to her theer, for her loving uncle was come home, and
+couldn’t speak to her theer, for her loving uncle was come [[Home|home]], and
 he wouldn’t--no, Mas’r Davy,’ said Ham, with great earnestness, ‘he
 couldn’t, kind-natur’d, tender-hearted as he is, see them two together,
 side by side, for all the treasures that’s wrecked in the sea.’
 
-I felt how true this was. I knew it, on the instant, quite as well as
+I felt how true this was. I knew it, on the instant, quite as [[Well|well]] as
 Ham.
 
 ‘So Em’ly writes in pencil on a bit of paper,’ he pursued, ‘and gives it
 to her out o’ winder to bring here. “Show that,” she says, “to my aunt,
-Mrs. Barkis, and she’ll set you down by her fire, for the love of me,
+Mrs. Barkis, and she’ll set you down by her [[Fire|fire]], for the [[Love|love]] of me,
 till uncle is gone out, and I can come.” By and by she tells me what
 I tell you, Mas’r Davy, and asks me to bring her. What can I do? She
-doen’t ought to know any such, but I can’t deny her, when the tears is
+doen’t ought to know any such, but I can’t deny her, when the [[Tears|tears]] is
 on her face.’
 
 He put his hand into the breast of his shaggy jacket, and took out with
 great care a pretty little purse.
 
-‘And if I could deny her when the tears was on her face, Mas’r Davy,’
+‘And if I could deny her when the [[Tears|tears]] was on her face, Mas’r Davy,’
 said Ham, tenderly adjusting it on the rough palm of his hand, ‘how
 could I deny her when she give me this to carry for her--knowing what
 she brought it for? Such a toy as it is!’ said Ham, thoughtfully looking
@@ -886,7 +886,7 @@ on it. ‘With such a little money in it, Em’ly my dear.’
 
 I shook him warmly by the hand when he had put it away again--for that
 was more satisfactory to me than saying anything--and we walked up
-and down, for a minute or two, in silence. The door opened then, and
+and down, for a minute or two, in [[Silence|silence]]. The door opened then, and
 Peggotty appeared, beckoning to Ham to come in. I would have kept away,
 but she came after me, entreating me to come in too. Even then, I
 would have avoided the room where they all were, but for its being the
@@ -894,7 +894,7 @@ neat-tiled kitchen I have mentioned more than once. The door opening
 immediately into it, I found myself among them before I considered
 whither I was going.
 
-The girl--the same I had seen upon the sands--was near the fire. She
+The girl--the same I had seen upon the sands--was near the [[Fire|fire]]. She
 was sitting on the ground, with her head and one arm lying on a chair.
 I fancied, from the disposition of her figure, that Em’ly had but newly
 risen from the chair, and that the forlorn head might perhaps have been
@@ -902,18 +902,18 @@ lying on her lap. I saw but little of the girl’s face, over which her
 hair fell loose and scattered, as if she had been disordering it with
 her own hands; but I saw that she was young, and of a fair complexion.
 Peggotty had been crying. So had little Em’ly. Not a word was spoken
-when we first went in; and the Dutch clock by the dresser seemed, in the
-silence, to tick twice as loud as usual. Em’ly spoke first.
+when we first went in; and the Dutch [[Clock|clock]] by the dresser seemed, in the
+[[Silence|silence]], to tick twice as loud as usual. Em’ly spoke first.
 
-‘Martha wants,’ she said to Ham, ‘to go to London.’
+‘Martha wants,’ she said to Ham, ‘to go to [[London]].’
 
-‘Why to London?’ returned Ham.
+‘Why to [[London]]?’ returned Ham.
 
 He stood between them, looking on the prostrate girl with a mixture of
-compassion for her, and of jealousy of her holding any companionship
-with her whom he loved so well, which I have always remembered
+compassion for her, and of [[Jealousy|jealousy]] of her holding any companionship
+with her whom he loved so [[Well|well]], which I have always remembered
 distinctly. They both spoke as if she were ill; in a soft, suppressed
-tone that was plainly heard, although it hardly rose above a whisper.
+tone that was plainly heard, although it hardly [[Rose|rose]] above a whisper.
 
 ‘Better there than here,’ said a third voice aloud--Martha’s, though she
 did not move. ‘No one knows me there. Everybody knows me here.’
@@ -922,10 +922,10 @@ did not move. ‘No one knows me there. Everybody knows me here.’
 
 She lifted up her head, and looked darkly round at him for a moment;
 then laid it down again, and curved her right arm about her neck, as
-a woman in a fever, or in an agony of pain from a shot, might twist
+a woman in a fever, or in an agony of [[Pain|pain]] from a shot, might twist
 herself.
 
-‘She will try to do well,’ said little Em’ly. ‘You don’t know what she
+‘She will try to do [[Well|well]],’ said little Em’ly. ‘You don’t know what she
 has said to us. Does he--do they--aunt?’
 
 Peggotty shook her head compassionately.
@@ -933,7 +933,7 @@ Peggotty shook her head compassionately.
 ‘I’ll try,’ said Martha, ‘if you’ll help me away. I never can do worse
 than I have done here. I may do better. Oh!’ with a dreadful shiver,
 ‘take me out of these streets, where the whole town knows me from a
-child!’
+[[Child|child]]!’
 
 As Em’ly held out her hand to Ham, I saw him put in it a little canvas
 bag. She took it, as if she thought it were her purse, and made a step
@@ -944,7 +944,7 @@ retired near me, and showed it to him.
 the wureld that ain’t yourn, my dear. It ain’t of no delight to me,
 except for you!’
 
-The tears rose freshly in her eyes, but she turned away and went to
+The [[Tears|tears]] [[Rose|rose]] freshly in her eyes, but she turned away and went to
 Martha. What she gave her, I don’t know. I saw her stooping over her,
 and putting money in her bosom. She whispered something, as she asked
 was that enough? ‘More than enough,’ the other said, and took her hand
@@ -972,7 +972,7 @@ I ought to have!’
 not as good a girl as I ought to be. Not near! not near!’ And still she
 cried, as if her heart would break.
 
-‘I try your love too much. I know I do!’ she sobbed. ‘I’m often cross to
+‘I try your [[Love|love]] too much. I know I do!’ she sobbed. ‘I’m often [[Cross|cross]] to
 you, and changeable with you, when I ought to be far different. You are
 never so to me. Why am I ever so to you, when I should think of nothing
 but how to be grateful, and to make you happy!’
@@ -993,7 +993,7 @@ overset her, altogether.’
 you. Oh, I am very miserable tonight, aunt! Oh, I am not as good a girl
 as I ought to be. I am not, I know!’
 
-Peggotty had hastened to the chair before the fire. Em’ly, with her
+Peggotty had hastened to the chair before the [[Fire|fire]]. Em’ly, with her
 arms around her neck, kneeled by her, looking up most earnestly into her
 face.
 
@@ -1004,21 +1004,21 @@ I do. I want to feel more, what a blessed thing it is to be the wife of
 a good man, and to lead a peaceful life. Oh me, oh me! Oh my heart, my
 heart!’
 
-She dropped her face on my old nurse’s breast, and, ceasing this
+She dropped her face on my old [[Nurse|nurse]]’s breast, and, ceasing this
 supplication, which in its agony and grief was half a woman’s, half a
-child’s, as all her manner was (being, in that, more natural, and better
-suited to her beauty, as I thought, than any other manner could have
-been), wept silently, while my old nurse hushed her like an infant.
+[[Child|child]]’s, as all her manner was (being, in that, more natural, and better
+suited to her [[Beauty|beauty]], as I thought, than any other manner could have
+been), wept silently, while my old [[Nurse|nurse]] hushed her like an infant.
 
 She got calmer by degrees, and then we soothed her; now talking
 encouragingly, and now jesting a little with her, until she began to
 raise her head and speak to us. So we got on, until she was able to
 smile, and then to laugh, and then to sit up, half ashamed; while
 Peggotty recalled her stray ringlets, dried her eyes, and made her neat
-again, lest her uncle should wonder, when she got home, why his darling
+again, lest her uncle should [[Wonder|wonder]], when she got [[Home|home]], why his darling
 had been crying.
 
-I saw her do, that night, what I had never seen her do before. I saw her
+I saw her do, that [[Night|night]], what I had never seen her do before. I saw her
 innocently kiss her chosen husband on the cheek, and creep close to his
 bluff form as if it were her best support. When they went away together,
 in the waning moonlight, and I looked after them, comparing their

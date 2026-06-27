@@ -1,5 +1,5 @@
 ---
-title: "VariedTypes — Published September, 1905"
+title: "[[VariedTypes]] — Published September, 1905"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/VariedTypes-(Chesterton)"

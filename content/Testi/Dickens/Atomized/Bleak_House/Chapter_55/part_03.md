@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 55 (part 3)"
+title: "Bleak [[house|House]] — Chapter 55 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -18,7 +18,7 @@ The old lady sorrowfully shakes her head, and taking one of his
 powerful hands, lays it lovingly upon her shoulder.
 
 “No, I don’t say that it was so, mother, but that I made it out to be
-so. I said just now, what good could come of it? Well, my dear
+so. I said just now, what good could come of it? [[Well]], my dear
 mother, some good might have come of it to myself—and there was the
 meanness of it. You would have sought me out; you would have
 purchased my discharge; you would have taken me down to Chesney Wold;
@@ -30,13 +30,13 @@ How could you help regarding as an incumbrance and a discredit to you
 an idle dragooning chap who was an incumbrance and a discredit to
 himself, excepting under discipline? How could I look my brother’s
 children in the face and pretend to set them an example—I, the
-vagabond boy who had run away from home and been the grief and
+vagabond boy who had run away from [[Home|home]] and been the grief and
 unhappiness of my mother’s life? ‘No, George.’ Such were my words,
 mother, when I passed this in review before me: ‘You have made your
 bed. Now, lie upon it.’”
 
 Mrs. Rouncewell, drawing up her stately form, shakes her head at the
-old girl with a swelling pride upon her, as much as to say, “I told
+old girl with a swelling [[Pride|pride]] upon her, as much as to say, “I told
 you so!” The old girl relieves her feelings and testifies her
 interest in the conversation by giving the trooper a great poke
 between the shoulders with her umbrella; this action she afterwards
@@ -55,13 +55,13 @@ might.”
 To which Mrs. Bagnet responds with two pokes.
 
 And now the old lady impresses upon her son George, her own dear
-recovered boy, her joy and pride, the light of her eyes, the happy
+recovered boy, her joy and [[Pride|pride]], the light of her eyes, the happy
 close of her life, and every fond name she can think of, that he must
 be governed by the best advice obtainable by money and influence,
 that he must yield up his case to the greatest lawyers that can be
 got, that he must act in this serious plight as he shall be advised
-to act and must not be self-willed, however right, but must promise
-to think only of his poor old mother’s anxiety and suffering until he
+to act and must not be [[Self|self]]-willed, however right, but must promise
+to think only of his poor old mother’s anxiety and [[Suffering|suffering]] until he
 is released, or he will break her heart.
 
 “Mother, ’tis little enough to consent to,” returns the trooper,
@@ -111,25 +111,25 @@ of it is recognized in Mrs. Bagnet’s face, his mother yields her
 implicit assent to what he asks. For this he thanks her kindly.
 
 “In all other respects, my dear mother, I’ll be as tractable and
-obedient as you can wish; on this one alone, I stand out. So now I am
+obedient as you can wish; on this one [[Alone|alone]], I stand out. So now I am
 ready even for the lawyers. I have been drawing up,” he glances at
 his writing on the table, “an exact account of what I knew of the
 deceased and how I came to be involved in this unfortunate affair.
 It’s entered, plain and regular, like an orderly-book; not a word in
 it but what’s wanted for the facts. I did intend to read it, straight
 on end, whensoever I was called upon to say anything in my defence. I
-hope I may be let to do it still; but I have no longer a will of my
+[[Hope|hope]] I may be let to do it still; but I have no longer a will of my
 own in this case, and whatever is said or done, I give my promise not
 to have any.”
 
-Matters being brought to this so far satisfactory pass, and time
+Matters being brought to this so far satisfactory pass, and [[Time|time]]
 being on the wane, Mrs. Bagnet proposes a departure. Again and again
 the old lady hangs upon her son’s neck, and again and again the
 trooper holds her to his broad chest.
 
 “Where are you going to take my mother, Mrs. Bagnet?”
 
-“I am going to the town house, my dear, the family house. I have some
+“I am going to the town [[house]], my dear, the family [[house]]. I have some
 business there that must be looked to directly,” Mrs. Rouncewell
 answers.
 

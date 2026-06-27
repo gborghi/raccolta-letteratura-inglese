@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 17)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 17)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -18,9 +18,9 @@ tags:
 
       point of perigee—in other words, holding the direct course which
 
-      would bring it immediately to the moon in that part of its orbit
+      would bring it immediately to the [[Moon|moon]] in that part of its orbit
 
-      the nearest to the earth. The moon itself was directly overhead,
+      the nearest to the earth. The [[Moon|moon]] itself was directly overhead,
 
       and consequently hidden from my view. Great and long-continued
 
@@ -32,9 +32,9 @@ tags:
 
       now be traced upon the earth with anything approaching
 
-      distinctness. About twelve o’clock I became aware, for the third
+      distinctness. About twelve o’[[Clock|clock]] I became aware, for the third
 
-      time, of that appalling sound which had so astonished me before.
+      [[Time|time]], of that appalling sound which had so astonished me before.
 
       It now, however, continued for some moments, and gathered
 
@@ -52,7 +52,7 @@ tags:
 
       astonishment had in some degree subsided, I had little difficulty
 
-      in supposing it to be some mighty volcanic fragment ejected from
+      in supposing it to be some mighty volcanic [[Fragment|fragment]] ejected from
 
       that world to which I was so rapidly approaching, and, in all
 
@@ -64,27 +64,27 @@ tags:
 
 
 
-      “April 16th. To-day, looking upward as well as I could, through
+      “April 16th. To-day, looking upward as [[Well|well]] as I could, through
 
       each of the side windows alternately, I beheld, to my great
 
-      delight, a very small portion of the moon’s disk protruding, as
+      delight, a very small portion of the [[Moon|moon]]’s disk protruding, as
 
       it were, on all sides beyond the huge circumference of the
 
-      balloon. My agitation was extreme; for I had now little doubt of
+      balloon. My agitation was extreme; for I had now little [[Doubt|doubt]] of
 
       soon reaching the end of my perilous voyage. Indeed, the labor
 
       now required by the condenser had increased to a most oppressive
 
-      degree, and allowed me scarcely any respite from exertion. Sleep
+      degree, and allowed me scarcely any respite from exertion. [[Sleep]]
 
       was a matter nearly out of the question. I became quite ill, and
 
       my frame trembled with exhaustion. It was impossible that human
 
-      nature could endure this state of intense suffering much longer.
+      [[Nature|nature]] could endure this state of intense [[Suffering|suffering]] much longer.
 
       During the now brief interval of darkness a meteoric stone again
 
@@ -102,7 +102,7 @@ tags:
 
       had greatly diminished; on the fifteenth a still more remarkable
 
-      decrease was observable; and, on retiring on the night of the
+      decrease was observable; and, on retiring on the [[Night|night]] of the
 
       sixteenth, I had noticed an angle of no more than about seven
 
@@ -140,11 +140,11 @@ tags:
 
       length reflection came to my relief. I paused; I considered; and
 
-      I began to doubt. The matter was impossible. I could not in any
+      I began to [[Doubt|doubt]]. The matter was impossible. I could not in any
 
       reason have so rapidly come down. Besides, although I was
 
-      evidently approaching the surface below me, it was with a speed
+      evidently approaching the surface below me, it was with a [[Speed|speed]]
 
       by no means commensurate with the velocity I had at first so
 
@@ -160,9 +160,9 @@ tags:
 
       the surface of my mother earth. The latter was indeed over my
 
-      head, and completely hidden by the balloon, while the moon—the
+      head, and completely hidden by the balloon, while the [[Moon|moon]]—the
 
-      moon itself in all its glory—lay beneath me, and at my feet.
+      [[Moon|moon]] itself in all its glory—lay beneath me, and at my feet.
 
 
 
@@ -184,7 +184,7 @@ tags:
 
       precisely, where the gravitation of the balloon toward the earth
 
-      should be less powerful than its gravitation toward the moon. To
+      should be less powerful than its gravitation toward the [[Moon|moon]]. To
 
       be sure I arose from a sound slumber, with all my senses in
 

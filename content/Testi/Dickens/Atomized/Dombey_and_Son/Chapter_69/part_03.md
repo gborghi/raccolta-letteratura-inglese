@@ -20,7 +20,7 @@ He crushed the letter in his hand; and having watched Walter out at the
 door, put it in his pocket without breaking the seal.
 
 “These continual references to Mr Carker the Junior,” Mr Carker the
-Manager began, as soon as they were alone, “are, to a man in my
+Manager began, as soon as they were [[Alone|alone]], “are, to a man in my
 position, uttered before one in yours, so unspeakably distressing—”
 
 “Nonsense, Carker,” Mr Dombey interrupted. “You are too sensitive.”
@@ -54,8 +54,8 @@ shoulder. “Here is a—”
 “An opening,” said Mr Carker, with his mouth stretched to the utmost.
 
 “In the West Indies. At Barbados. I am going to send you,” said Mr
-Dombey, scorning to embellish the bare truth, “to fill a junior
-situation in the counting-house at Barbados. Let your Uncle know from
+Dombey, scorning to embellish the bare [[Truth|truth]], “to fill a junior
+situation in the counting-[[house]] at Barbados. Let your Uncle know from
 me, that I have chosen you to go to the West Indies.”
 
 Walter’s breath was so completely taken away by his astonishment, that
@@ -79,7 +79,7 @@ round towards him. “What do you mean? What does he mean, Carker?”
 Walter bowed.
 
 “That’s all,” said Mr Dombey, resuming his letters. “You will explain
-to him in good time about the usual outfit and so forth, Carker, of
+to him in good [[Time|time]] about the usual outfit and so forth, Carker, of
 course. He needn’t wait, Carker.”
 
 “You needn’t wait, Gay,” observed Mr Carker: bare to the gums.
@@ -89,7 +89,7 @@ the letter, and seeming to listen. “Unless he has anything to say.”
 
 “No, Sir,” returned Walter, agitated and confused, and almost stunned,
 as an infinite variety of pictures presented themselves to his mind;
-among which Captain Cuttle, in his glazed hat, transfixed with
+among which [[Captain Cuttle]], in his glazed hat, transfixed with
 astonishment at Mrs MacStinger’s, and his uncle bemoaning his loss in
 the little back parlour, held prominent places. “I hardly know—I—I am
 much obliged, Sir.”
@@ -102,7 +102,7 @@ would be an unpardonable intrusion—especially as he had nothing to
 say—and therefore walked out quite confounded.
 
 Going along the passage, with the mingled consciousness and
-helplessness of a dream, he heard Mr Dombey’s door shut again, as Mr
+helplessness of [[A Dream|a dream]], he heard Mr Dombey’s door shut again, as Mr
 Carker came out: and immediately afterwards that gentleman called to
 him.
 
@@ -111,10 +111,10 @@ please.”
 
 Walter went to the outer office and apprised Mr Carker the Junior of
 his errand, who accordingly came out from behind a partition where he
-sat alone in one corner, and returned with him to the room of Mr Carker
+sat [[Alone|alone]] in one corner, and returned with him to the room of Mr Carker
 the Manager.
 
-That gentleman was standing with his back to the fire, and his hands
+That gentleman was standing with his back to the [[Fire|fire]], and his hands
 under his coat-tails, looking over his white cravat, as unpromisingly
 as Mr Dombey himself could have looked. He received them without any
 change in his attitude or softening of his harsh and black expression:
@@ -133,7 +133,7 @@ disgrace.”
 
 “From that disgrace,” assented his brother with keen emphasis, “but is
 the fact to be blurted out and trumpeted, and proclaimed continually in
-the presence of the very House! In moments of confidence too? Do you
+the presence of the very [[house|House]]! In moments of confidence too? Do you
 think your name is calculated to harmonise in this place with trust and
 confidence, John Carker?”
 
@@ -152,13 +152,13 @@ yourself in my way? Haven’t you injured me enough already?”
 “I wish you could and would.”
 
 During this conversation, Walter had looked from one brother to the
-other, with pain and amazement. He who was the Senior in years, and
-Junior in the House, stood, with his eyes cast upon the ground, and his
+other, with [[Pain|pain]] and amazement. He who was the Senior in years, and
+Junior in the [[house|House]], stood, with his eyes cast upon the ground, and his
 head bowed, humbly listening to the reproaches of the other. Though
 these were rendered very bitter by the tone and look with which they
 were accompanied, and by the presence of Walter whom they so much
 surprised and shocked, he entered no other protest against them than by
 slightly raising his right hand in a deprecatory manner, as if he would
 have said, “Spare me!” So, had they been blows, and he a brave man,
-under strong constraint, and weakened by bodily suffering, he might
+under strong constraint, and weakened by bodily [[Suffering|suffering]], he might
 have stood before the executioner.

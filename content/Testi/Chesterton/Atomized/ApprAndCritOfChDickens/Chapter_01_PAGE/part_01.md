@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Chapter 1: PAGE (part 1)"
+title: "[[ApprAndCritOfChDickens]] — Chapter 1: PAGE (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -22,33 +22,33 @@ tags:
 
     II. SKETCHES BY BOZ                  1
 
-   III. PICKWICK PAPERS                 13
+   III. [[Pickwick|PICKWICK]] PAPERS                 13
 
-    IV. NICHOLAS NICKLEBY               26
+    IV. [[Nicholas Nickleby|NICHOLAS NICKLEBY]]               26
 
-     V. OLIVER TWIST                    38
+     V. [[Oliver Twist|OLIVER TWIST]]                    38
 
     VI. OLD CURIOSITY SHOP              50
 
-   VII. BARNABY RUDGE                   65
+   VII. [[Barnaby Rudge|BARNABY RUDGE]]                   65
 
   VIII. AMERICAN NOTES                  76
 
-    IX. PICTURES FROM ITALY             87
+    IX. PICTURES FROM [[Italy|ITALY]]             87
 
-     X. MARTIN CHUZZLEWIT               90
+     X. [[Martin Chuzzlewit|MARTIN CHUZZLEWIT]]               90
 
     XI. CHRISTMAS BOOKS                103
 
    XII. DOMBEY AND SON                 114
 
-  XIII. DAVID COPPERFIELD              129
+  XIII. [[David Copperfield|DAVID COPPERFIELD]]              129
 
    XIV. CHRISTMAS STORIES              140
 
-    XV. BLEAK HOUSE                    148
+    XV. BLEAK [[house|HOUSE]]                    148
 
-   XVI. CHILD'S HISTORY OF ENGLAND     160
+   XVI. [[Child|CHILD]]'S [[history|HISTORY]] OF ENGLAND     160
 
    XVII. HARD TIMES                    169
 
@@ -56,13 +56,13 @@ tags:
 
     XIX. A TALE OF TWO CITIES          188
 
-     XX. GREAT EXPECTATIONS            197
+     XX. [[Great Expectations|GREAT EXPECTATIONS]]            197
 
     XXI. OUR MUTUAL FRIEND             207
 
-   XXII. EDWIN DROOD                   218
+   XXII. [[Edwin Drood|EDWIN DROOD]]                   218
 
-  XXIII. MASTER HUMPHREY'S CLOCK       229
+  XXIII. MASTER HUMPHREY'S [[Clock|CLOCK]]       229
 
    XXIV. REPRINTED PIECES              239
 
@@ -94,7 +94,7 @@ ILLUSTRATIONS
 
     From a bust by H. Dexter, executed during Dickens's
 
-    first visit to America.
+    first visit to [[america|America]].
 
 
 
@@ -156,7 +156,7 @@ they were harmless, being diluted by, or rather drowned in Dickens. My
 
 scrap of theory was a mere dry biscuit to be taken with the grand tawny
 
-port of great English comedy; and by most people it was not taken at
+port of great English [[Comedy|comedy]]; and by most people it was not taken at
 
 all--like the biscuit. Nevertheless the essays were not in intention so
 
@@ -240,13 +240,13 @@ constitution. That world is rapidly ceasing to understand itself. It is
 
 vain to repeat the complaint of the old Quarterly Reviewers, that
 
-Dickens had not enjoyed a university education. What would the old
+Dickens had not enjoyed a university [[Education|education]]. What would the old
 
 Quarterly Reviewers themselves have thought of the Rhodes Scholarships?
 
 It is useless to repeat the old tag that Dickens could not describe a
 
-gentleman. A gentleman in our time has become something quite
+gentleman. A gentleman in our [[Time|time]] has become something quite
 
 indescribable.
 
@@ -262,7 +262,7 @@ educated and more pretentious contemporaries. I give but one example out
 
 of many. Thackeray was a good Victorian radical, who seems to have gone
 
-to his grave quite contented with the early Victorian radical
+to his [[Grave|grave]] quite contented with the early Victorian radical
 
 theory--the theory which Macaulay preached with unparalleled luminosity
 

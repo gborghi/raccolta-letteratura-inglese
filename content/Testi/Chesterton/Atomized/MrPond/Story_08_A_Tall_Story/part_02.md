@@ -1,5 +1,5 @@
 ---
-title: "MrPond — A Tall Story (part 2)"
+title: "[[MrPond]] — A Tall Story (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -18,11 +18,11 @@ famous seaport, and, therefore, naturally a place of concentration
 
 for all the vigilance against spies, whether official or amateur.
 
-Sir Hubert Wotton was in general charge of the district, but Mr.
+Sir [[Hubert]] Wotton was in general charge of the district, but Mr.
 
 Pond was in more practical though private occupation of the town,
 
-watching events from a narrow house in a back street, an upper room
+watching events from a narrow [[house]] in a back street, an upper room
 
 of which had been unobtrusively turned into an office; and he had
 
@@ -30,13 +30,13 @@ two assistants under him; a sturdy and very silent young man named
 
 Butt, bull-necked and broad-shouldered, but quite short; and a much
 
-taller and more talkative and elegant government-office clerk named
+taller and more talkative and elegant [[government]]-office clerk named
 
-Travers, but referred to by nearly everybody as Arthur.  The
+Travers, but referred to by nearly everybody as [[arthur|Arthur]].  The
 
 stalwart Butt commonly occupied a desk on the ground floor,
 
-watching the door and anyone who entered it; while Arthur Travers
+watching the door and anyone who entered it; while [[arthur|Arthur]] Travers
 
 worked in the office upstairs, where there were some very valuable
 
@@ -54,9 +54,9 @@ neighbourhood; indeed, it consisted of a few genteel, old-fashioned
 
 houses, now mostly shuttered and empty, standing on the very edge
 
-of a sort of slum of small houses, at that time riddled with what
+of a sort of slum of small houses, at that [[Time|time]] riddled with what
 
-is called Unrest in a degree very dangerous, especially in time of
+is called Unrest in a degree very dangerous, especially in [[Time|time]] of
 
 war.  Immediately outside his door, he found but few things that
 
@@ -84,7 +84,7 @@ passionately patriotic, not to say militaristic.  And, indeed, it
 
 is often true that those two extremes lend themselves to the same
 
-sort of fluent fanaticism.  Poor Mr. Pond had reason to remember
+sort of fluent [[Fanaticism|fanaticism]].  Poor Mr. Pond had reason to remember
 
 the woeful day when he first saw her angular and agitated figure
 
@@ -100,7 +100,7 @@ removed sufficiently promptly from her path: was, in fact, as she
 
 declared, removed reluctantly and in a grumbling spirit by the
 
-workmen employed on the job; and by the time she had reached the
+workmen employed on the job; and by the [[Time|time]] she had reached the
 
 responsible official, a theory had fully formed and hardened in her
 
@@ -112,7 +112,7 @@ mind.
 
 that unfortunate functionary.  "I heard him with my own ears mutter
 
-something about what his Trade Union would say.  What is he doing
+something about what his Trade [[Union]] would say.  What is he doing
 
 so near to your office?"
 
@@ -158,7 +158,7 @@ was Peterson: it was possible that it was really Petersen.  But
 
 that was not all.  Mr. Pond had learned the last lesson of the wise
 
-man: that the fool is sometimes right.
+man: that the [[Fool|fool]] is sometimes right.
 
 
 
@@ -168,17 +168,17 @@ day it was with a start that he looked up from his desk, or rather
 
 from Mr. Butt's desk which he was using at the moment, and saw once
 
-again the patriotic lady hovering like an avenging shadow in the
+again the patriotic lady hovering like an avenging [[Shadow|shadow]] in the
 
-doorway.  This time she glided swiftly in, unchecked by any
+doorway.  This [[Time|time]] she glided swiftly in, unchecked by any
 
 Socialist barricade, and warned him that she had news of the most
 
 terrible kind.  She seemed to have forgotten all about her last
 
-suspicions; and, in truth, her new ones were naturally more
+suspicions; and, in [[Truth|truth]], her new ones were naturally more
 
-important to her.  This time she had warmed the viper on her own
+important to her.  This [[Time|time]] she had warmed the viper on her own
 
 hearth.  She had suddenly become conscious of the existence of her
 
@@ -208,7 +208,7 @@ the lady; and saw no reason to move in the matter.
 
 Mrs. Hartog-Haggard was already breathing hoarsely in his ear.  "Do
 
-you think she is signalling, or does she climb down the fire-
+you think she is signalling, or does she climb down the [[Fire|fire]]-
 
 escape?  What do you think it means, Mr. Pond?"
 
@@ -216,7 +216,7 @@ escape?  What do you think it means, Mr. Pond?"
 
 "Hysterics," said Mr. Pond.  "What, do you think the poor lady
 
-cannot be hysterical, because she does not scream the house down?
+cannot be hysterical, because she does not scream the [[house]] down?
 
 But any doctor will tell you that hysteria is mostly secretive and
 

@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — The Maniac (part 5)"
+title: "[[ortho14]] — The Maniac (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ortho14-(Chesterton)"
@@ -16,14 +16,14 @@ tags:
 
      In passing from this subject I may note that there is
 a queer fallacy to the effect that materialistic fatalism is in
-some way favourable to mercy, to the abolition of cruel punishments
+some way favourable to [[Mercy|mercy]], to the abolition of cruel punishments
 or punishments of any kind.  This is startlingly the reverse of
-the truth.  It is quite tenable that the doctrine of necessity
-makes no difference at all; that it leaves the flogger flogging
+the [[Truth|truth]].  It is quite tenable that the doctrine of necessity
+makes no difference at all; that it [[Leaves|leaves]] the flogger flogging
 and the kind friend exhorting as before.  But obviously if it
 stops either of them it stops the kind exhortation.  That the sins
 are inevitable does not prevent punishment; if it prevents
-anything it prevents persuasion.  Determinism is quite as
+anything it prevents [[Persuasion|persuasion]].  Determinism is quite as
 likely to lead to cruelty as it is certain to lead to cowardice. 
 Determinism is not inconsistent with the cruel treatment of criminals. 
 What it is (perhaps) inconsistent with is the generous treatment
@@ -39,7 +39,7 @@ at once unanswerable and intolerable.
 
      Of course it is not only of the materialist that all this
 is true.  The same would apply to the other extreme of
-speculative logic.  There is a sceptic far more terrible than
+speculative [[logic]].  There is a sceptic far more terrible than
 he who believes that everything began in matter.  It is possible
 to meet the sceptic who believes that everything began in himself. 
 He doubts not the existence of angels or devils, but the existence
@@ -53,26 +53,26 @@ in the looking-glass, those writers who talk about impressing
 their personalities instead of creating life for the world,
 all these people have really only an inch between them and this
 awful emptiness.  Then when this kindly world all round the man
-has been blackened out like a lie; when friends fade into ghosts,
+has been blackened out like a lie; when friends fade into [[Ghosts|ghosts]],
 and the foundations of the world fail; then when the man,
-believing in nothing and in no man, is alone in his own nightmare,
+believing in nothing and in no man, is [[Alone|alone]] in his own [[nightmare]],
 then the great individualistic motto shall be written over him
-in avenging irony.  The stars will be only dots in the blackness
-of his own brain; his mother's face will be only a sketch from
+in avenging irony.  The [[Stars|stars]] will be only dots in the blackness
+of his own brain; his mother's face will be only a [[Sketch|sketch]] from
 his own insane pencil on the walls of his cell.  But over his
-cell shall be written, with dreadful truth, "He believes in
+cell shall be written, with dreadful [[Truth|truth]], "He believes in
 himself."
 
 
      All that concerns us here, however, is to note that this
-panegoistic extreme of thought exhibits the same paradox as
+panegoistic extreme of thought exhibits the same [[Paradox|paradox]] as
 the other extreme of materialism.  It is equally complete in theory
 and equally crippling in practice.  For the sake of simplicity,
 it is easier to state the notion by saying that a man can believe
-that he is always in a dream.  Now, obviously there can be
-no positive proof given to him that he is not in a dream,
+that he is always in [[A Dream|a dream]].  Now, obviously there can be
+no positive proof given to him that he is not in [[A Dream|a dream]],
 for the simple reason that no proof can be offered that might
-not be offered in a dream.  But if the man began to burn down London
+not be offered in [[A Dream|a dream]].  But if the man began to burn down [[London]]
 and say that his housekeeper would soon call him to breakfast,
 we should take him and put him with other logicians in a place
 which has often been alluded to in the course of this chapter. 
@@ -80,21 +80,21 @@ The man who cannot believe his senses, and the man who cannot believe
 anything else, are both insane, but their insanity is proved not
 by any error in their argument, but by the manifest mistake of
 their whole lives.  They have both locked themselves up in two boxes,
-painted inside with the sun and stars; they are both unable to get out,
+painted inside with the sun and [[Stars|stars]]; they are both unable to get out,
 the one into the health and happiness of heaven, the other even
 into the health and happiness of the earth.  Their position is
 quite reasonable; nay, in a sense it is infinitely reasonable,
 just as a threepenny bit is infinitely circular.  But there is
-such a thing as a mean infinity, a base and slavish eternity. 
+such a thing as a mean infinity, a base and slavish [[Eternity|eternity]]. 
 It is amusing to notice that many of the moderns, whether sceptics
 or mystics, have taken as their sign a certain eastern symbol,
 which is the very symbol of this ultimate nullity.  When they wish
-to represent eternity, they represent it by a serpent with his tail
+to represent [[Eternity|eternity]], they represent it by a serpent with his tail
 in his mouth.  There is a startling sarcasm in the image of
-that very unsatisfactory meal.  The eternity of the material fatalists,
-the eternity of the eastern pessimists, the eternity of the
+that very unsatisfactory meal.  The [[Eternity|eternity]] of the material fatalists,
+the [[Eternity|eternity]] of the eastern pessimists, the [[Eternity|eternity]] of the
 supercilious theosophists and higher scientists of to-day is,
-indeed, very well presented by a serpent eating his tail,
+indeed, very [[Well|well]] presented by a serpent eating his tail,
 a degraded animal who destroys even himself.
 
      This chapter is purely practical and is concerned with
@@ -105,17 +105,17 @@ principles goes mad; he begins to think at the wrong end.  And for
 the rest of these pages we have to try and discover what is the
 right end.  But we may ask in conclusion, if this be what
 drives men mad, what is it that keeps them sane?  By the end of
-this book I hope to give a definite, some will think a far too
+this book I [[Hope|hope]] to give a definite, some will think a far too
 definite, answer.  But for the moment it is possible in the
 same solely practical manner to give a general answer touching
-what in actual human history keeps men sane.  Mysticism keeps
+what in actual human [[history]] keeps men sane.  Mysticism keeps
 men sane.  As long as you have mystery you have health; when you
 destroy mystery you create morbidity.  The ordinary man has always
 been sane because the ordinary man has always been a mystic. 
 He has permitted the twilight.  He has always had one foot in
 earth and the other in fairyland.  He has always left himself
-free to doubt his gods; but (unlike the agnostic of to-day) free
-also to believe in them.  He has always cared more for truth
+free to [[Doubt|doubt]] his gods; but (unlike the agnostic of to-day) free
+also to believe in them.  He has always cared more for [[Truth|truth]]
 than for consistency.  If he saw two truths that seemed to
 contradict each other, he would take the two truths and the
 contradiction along with them.  His spiritual sight is stereoscopic,
@@ -139,21 +139,21 @@ but because of this his relations with the housemaid become of a
 sparkling and crystal clearness.  He puts the seed of dogma in
 a central darkness; but it branches forth in all directions with
 abounding natural health.  As we have taken the circle as the symbol
-of reason and madness, we may very well take the cross as the
+of reason and [[Madness|madness]], we may very [[Well|well]] take the [[Cross|cross]] as the
 symbol at once of mystery and of health.  Buddhism is centripetal,
-but Christianity is centrifugal:  it breaks out.  For the
-circle is perfect and infinite in its nature; but it is fixed
+but [[Christianity]] is centrifugal:  it breaks out.  For the
+circle is perfect and infinite in its [[Nature|nature]]; but it is fixed
 for ever in its size; it can never be larger or smaller. 
-But the cross, though it has at its heart a collision and a
+But the [[Cross|cross]], though it has at its heart a collision and a
 contradiction, can extend its four arms for ever without
-altering its shape. Because it has a paradox in its centre it
+altering its shape. Because it has a [[Paradox|paradox]] in its centre it
 can grow without changing.  The circle returns upon itself and
-is bound.  The cross opens its arms to the four winds; it is a
+is bound.  The [[Cross|cross]] opens its arms to the four winds; it is a
 signpost for free travellers.
 
-     Symbols alone are of even a cloudy value in speaking of
-this deep matter; and another symbol from physical nature will
-express sufficiently well the real place of mysticism before mankind. 
+     Symbols [[Alone|alone]] are of even a cloudy value in speaking of
+this deep matter; and another symbol from physical [[Nature|nature]] will
+express sufficiently [[Well|well]] the real place of mysticism before mankind. 
 The one created thing which we cannot look at is the one thing
 in the light of which we look at everything.  Like the sun at noonday,
 mysticism explains everything else by the blaze of its own
@@ -161,14 +161,14 @@ victorious invisibility.  Detached intellectualism is
 (in the exact sense of a popular phrase) all moonshine;
 for it is light without heat, and it is secondary light,
 reflected from a dead world.  But the Greeks were right when
-they made Apollo the god both of imagination and of sanity;
+they made [[Apollo]] the god both of [[Imagination|imagination]] and of [[Sanity|sanity]];
 for he was both the patron of poetry and the patron of healing. 
 Of necessary dogmas and a special creed I shall speak later. 
 But that transcendentalism by which all men live has primarily
 much the position of the sun in the sky.  We are conscious of it
 as of a kind of splendid confusion; it is something both shining
-and shapeless, at once a blaze and a blur.  But the circle of the moon
+and shapeless, at once a blaze and a blur.  But the circle of the [[Moon|moon]]
 is as clear and unmistakable, as recurrent and inevitable,
-as the circle of Euclid on a blackboard.  For the moon is
-utterly reasonable; and the moon is the mother of lunatics
+as the circle of Euclid on a blackboard.  For the [[Moon|moon]] is
+utterly reasonable; and the [[Moon|moon]] is the mother of lunatics
 and has given to them all her name.

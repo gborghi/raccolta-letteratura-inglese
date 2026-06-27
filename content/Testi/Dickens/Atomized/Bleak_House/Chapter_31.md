@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 31"
+title: "Bleak [[house|House]] — Chapter 31"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -16,21 +16,21 @@ tags:
 
 CHAPTER XXXI
 
-Nurse and Patient
+[[Nurse]] and Patient
 
 
-I had not been at home again many days when one evening I went
+I had not been at [[Home|home]] again many days when one evening I went
 upstairs into my own room to take a peep over Charley’s shoulder and
 see how she was getting on with her copy-book. Writing was a trying
 business to Charley, who seemed to have no natural power over a pen,
 but in whose hand every pen appeared to become perversely animated,
 and to go wrong and crooked, and to stop, and splash, and sidle into
-corners like a saddle-donkey. It was very odd to see what old letters
+corners like a saddle-[[donkey]]. It was very odd to see what old letters
 Charley’s young hand had made, they so wrinkled, and shrivelled, and
 tottering, it so plump and round. Yet Charley was uncommonly expert
 at other things and had as nimble little fingers as I ever watched.
 
-“Well, Charley,” said I, looking over a copy of the letter O in which
+“[[Well]], Charley,” said I, looking over a copy of the letter O in which
 it was represented as square, triangular, pear-shaped, and collapsed
 in all kinds of ways, “we are improving. If we only get to make it
 round, we shall be perfect, Charley.”
@@ -38,11 +38,11 @@ round, we shall be perfect, Charley.”
 Then I made one, and Charley made one, and the pen wouldn’t join
 Charley’s neatly, but twisted it up into a knot.
 
-“Never mind, Charley. We shall do it in time.”
+“Never mind, Charley. We shall do it in [[Time|time]].”
 
 Charley laid down her pen, the copy being finished, opened and shut
-her cramped little hand, looked gravely at the page, half in pride
-and half in doubt, and got up, and dropped me a curtsy.
+her cramped little hand, looked gravely at the page, half in [[Pride|pride]]
+and half in [[Doubt|doubt]], and got up, and dropped me a curtsy.
 
 “Thank you, miss. If you please, miss, did you know a poor person of
 the name of Jenny?”
@@ -68,11 +68,11 @@ miss, and have been tramping high and low.”
 
 “Yes, miss.” If Charley could only have made the letters in her copy
 as round as the eyes with which she looked into my face, they would
-have been excellent. “And this poor person came about the house three
+have been excellent. “And this poor person came about the [[house]] three
 or four days, hoping to get a glimpse of you, miss—all she wanted,
 she said—but you were away. That was when she saw me. She saw me
 a-going about, miss,” said Charley with a short laugh of the greatest
-delight and pride, “and she thought I looked like your maid!”
+delight and [[Pride|pride]], “and she thought I looked like your maid!”
 
 “Did she though, really, Charley?”
 
@@ -93,8 +93,8 @@ I asked if the brickmaker’s wife were ill, but Charley said no. It
 was some one else. Some one in her cottage who had tramped down to
 Saint Albans and was tramping he didn’t know where. A poor boy,
 Charley said. No father, no mother, no any one. “Like as Tom might
-have been, miss, if Emma and me had died after father,” said Charley,
-her round eyes filling with tears.
+have been, miss, if [[Emma]] and me had died after father,” said Charley,
+her round eyes filling with [[Tears|tears]].
 
 “And she was getting medicine for him, Charley?”
 
@@ -103,7 +103,7 @@ much for her.”
 
 My little maid’s face was so eager and her quiet hands were folded so
 closely in one another as she stood looking at me that I had no great
-difficulty in reading her thoughts. “Well, Charley,” said I, “it
+difficulty in reading her thoughts. “[[Well]], Charley,” said I, “it
 appears to me that you and I can do no better than go round to
 Jenny’s and see what’s the matter.”
 
@@ -113,42 +113,42 @@ made herself look like a little old woman, sufficiently expressed her
 readiness. So Charley and I, without saying anything to any one, went
 out.
 
-It was a cold, wild night, and the trees shuddered in the wind. The
+It was a cold, wild [[Night|night]], and the trees shuddered in the [[Wind|wind]]. The
 rain had been thick and heavy all day, and with little intermission
 for many days. None was falling just then, however. The sky had
-partly cleared, but was very gloomy—even above us, where a few stars
+partly cleared, but was very gloomy—even above us, where a few [[Stars|stars]]
 were shining. In the north and north-west, where the sun had set
 three hours before, there was a pale dead light both beautiful and
 awful; and into it long sullen lines of cloud waved up like a sea
-stricken immovable as it was heaving. Towards London a lurid glare
+stricken immovable as it was heaving. Towards [[London]] a lurid glare
 overhung the whole dark waste, and the contrast between these two
 lights, and the fancy which the redder light engendered of an
-unearthly fire, gleaming on all the unseen buildings of the city and
+unearthly [[Fire|fire]], gleaming on all the unseen buildings of the [[City|city]] and
 on all the faces of its many thousands of wondering inhabitants, was
 as solemn as might be.
 
-I had no thought that night—none, I am quite sure—of what was soon
+I had no thought that [[Night|night]]—none, I am quite sure—of what was soon
 to happen to me. But I have always remembered since that when we had
-stopped at the garden-gate to look up at the sky, and when we went
+stopped at the [[Garden|garden]]-gate to look up at the sky, and when we went
 upon our way, I had for a moment an undefinable impression of myself
 as being something different from what I then was. I know it was then
 and there that I had it. I have ever since connected the feeling with
-that spot and time and with everything associated with that spot and
-time, to the distant voices in the town, the barking of a dog, and
-the sound of wheels coming down the miry hill.
+that spot and [[Time|time]] and with everything associated with that spot and
+[[Time|time]], to the distant voices in the town, the barking of a dog, and
+the sound of wheels coming down the miry [[Hill|hill]].
 
-It was Saturday night, and most of the people belonging to the place
+It was Saturday [[Night|night]], and most of the people belonging to the place
 where we were going were drinking elsewhere. We found it quieter than
 I had previously seen it, though quite as miserable. The kilns were
 burning, and a stifling vapour set towards us with a pale-blue glare.
 
 We came to the cottage, where there was a feeble candle in the
-patched window. We tapped at the door and went in. The mother of the
-little child who had died was sitting in a chair on one side of the
-poor fire by the bed; and opposite to her, a wretched boy, supported
+patched [[Window|window]]. We tapped at the door and went in. The mother of the
+little [[Child|child]] who had died was sitting in a chair on one side of the
+poor [[Fire|fire]] by the bed; and opposite to her, a wretched boy, supported
 by the chimney-piece, was cowering on the floor. He held under his
-arm, like a little bundle, a fragment of a fur cap; and as he tried
-to warm himself, he shook until the crazy door and window shook. The
+arm, like a little bundle, a [[Fragment|fragment]] of a fur cap; and as he tried
+to warm himself, he shook until the crazy door and [[Window|window]] shook. The
 place was closer than before and had an unhealthy and a very peculiar
 smell.
 
@@ -185,7 +185,7 @@ t’other one.”
 
 My little Charley, with her premature experience of illness and
 trouble, had pulled off her bonnet and shawl and now went quietly up
-to him with a chair and sat him down in it like an old sick nurse.
+to him with a chair and sat him down in it like an old sick [[Nurse|nurse]].
 Except that no such attendant could have shown him Charley’s youthful
 face, which seemed to engage his confidence.
 
@@ -204,22 +204,22 @@ matter with you?”
 wandering about me, “and then burnt up, and then froze, and then
 burnt up, ever so many times in a hour. And my head’s all sleepy, and
 all a-going mad-like—and I’m so dry—and my bones isn’t half so much
-bones as pain.”
+bones as [[Pain|pain]].”
 
 “When did he come here?” I asked the woman.
 
 “This morning, ma’am, I found him at the corner of the town. I had
-known him up in London yonder. Hadn’t I, Jo?”
+known him up in [[London]] yonder. Hadn’t I, Jo?”
 
-“Tom-all-Alone’s,” the boy replied.
+“Tom-all-[[Alone]]’s,” the boy replied.
 
 Whenever he fixed his attention or his eyes, it was only for a very
 little while. He soon began to droop his head again, and roll it
 heavily, and speak as if he were half awake.
 
-“When did he come from London?” I asked.
+“When did he come from [[London]]?” I asked.
 
-“I come from London yes’day,” said the boy himself, now flushed and
+“I come from [[London]] yes’day,” said the boy himself, now flushed and
 hot. “I’m a-going somewheres.”
 
 “Where is he going?” I asked.
@@ -228,11 +228,11 @@ hot. “I’m a-going somewheres.”
 on, and moved on, more nor ever I was afore, since the t’other one
 give me the sov’ring. Mrs. Snagsby, she’s always a-watching, and
 a-driving of me—what have I done to her?—and they’re all a-watching
-and a-driving of me. Every one of ’em’s doing of it, from the time
-when I don’t get up, to the time when I don’t go to bed. And I’m
+and a-driving of me. Every one of ’em’s doing of it, from the [[Time|time]]
+when I don’t get up, to the [[Time|time]] when I don’t go to bed. And I’m
 a-going somewheres. That’s where I’m a-going. She told me, down in
-Tom-all-Alone’s, as she came from Stolbuns, and so I took the
-Stolbuns Road. It’s as good as another.”
+Tom-all-[[Alone]]’s, as she came from Stolbuns, and so I took the
+Stolbuns [[Road]]. It’s as good as another.”
 
 He always concluded by addressing Charley.
 
@@ -244,17 +244,17 @@ where he was going!”
 compassionately at him. “Perhaps the dead know better, if they could
 only tell us. I’ve kept him here all day for pity’s sake, and I’ve
 given him broth and physic, and Liz has gone to try if any one will
-take him in (here’s my pretty in the bed—her child, but I call it
-mine); but I can’t keep him long, for if my husband was to come home
+take him in (here’s my pretty in the bed—her [[Child|child]], but I call it
+mine); but I can’t keep him long, for if my husband was to come [[Home|home]]
 and find him here, he’d be rough in putting him out and might do him
 a hurt. Hark! Here comes Liz back!”
 
 The other woman came hurriedly in as she spoke, and the boy got up
 with a half-obscured sense that he was expected to be going. When the
-little child awoke, and when and how Charley got at it, took it out
+little [[Child|child]] awoke, and when and how Charley got at it, took it out
 of bed, and began to walk about hushing it, I don’t know. There she
 was, doing all this in a quiet motherly manner as if she were living
-in Mrs. Blinder’s attic with Tom and Emma again.
+in Mrs. Blinder’s attic with Tom and [[Emma]] again.
 
 The friend had been here and there, and had been played about from
 hand to hand, and had come back as she went. At first it was too
@@ -264,18 +264,18 @@ her back again to the first, and so backward and forward, until it
 appeared to me as if both must have been appointed for their skill in
 evading their duties instead of performing them. And now, after all,
 she said, breathing quickly, for she had been running and was
-frightened too, “Jenny, your master’s on the road home, and mine’s
+frightened too, “Jenny, your master’s on the [[Road|road]] [[Home|home]], and mine’s
 not far behind, and the Lord help the boy, for we can do no more for
 him!” They put a few halfpence together and hurried them into his
 hand, and so, in an oblivious, half-thankful, half-insensible way, he
-shuffled out of the house.
+shuffled out of the [[house]].
 
-“Give me the child, my dear,” said its mother to Charley, “and thank
-you kindly too! Jenny, woman dear, good night! Young lady, if my
+“Give me the [[Child|child]], my dear,” said its mother to Charley, “and thank
+you kindly too! Jenny, woman dear, good [[Night|night]]! Young lady, if my
 master don’t fall out with me, I’ll look down by the kiln by and by,
 where the boy will be most like, and again in the morning!” She
 hurried off, and presently we passed her hushing and singing to her
-child at her own door and looking anxiously along the road for her
+[[Child|child]] at her own door and looking anxiously along the [[Road|road]] for her
 drunken husband.
 
 I was afraid of staying then to speak to either woman, lest I should
@@ -284,16 +284,16 @@ the boy to die. Charley, who knew what to do much better than I did,
 and whose quickness equalled her presence of mind, glided on before
 me, and presently we came up with Jo, just short of the brick-kiln.
 
-I think he must have begun his journey with some small bundle under
+I think he must have begun his [[Journey|journey]] with some small bundle under
 his arm and must have had it stolen or lost it. For he still carried
-his wretched fragment of fur cap like a bundle, though he went
+his wretched [[Fragment|fragment]] of fur cap like a bundle, though he went
 bare-headed through the rain, which now fell fast. He stopped when we
 called to him and again showed a dread of me when I came up, standing
 with his lustrous eyes fixed upon me, and even arrested in his
 shivering fit.
 
 I asked him to come with us, and we would take care that he had some
-shelter for the night.
+shelter for the [[Night|night]].
 
 “I don’t want no shelter,” he said; “I can lay amongst the warm
 bricks.”
@@ -302,7 +302,7 @@ bricks.”
 
 “They dies everywheres,” said the boy. “They dies in their
 lodgings—she knows where; I showed her—and they dies down in
-Tom-all-Alone’s in heaps. They dies more than they lives, according
+Tom-all-[[Alone]]’s in heaps. They dies more than they lives, according
 to what I see.” Then he hoarsely whispered Charley, “If she ain’t the
 t’other one, she ain’t the forrenner. Is there THREE of ’em then?”
 
@@ -310,23 +310,23 @@ Charley looked at me a little frightened. I felt half frightened at
 myself when the boy glared on me so.
 
 But he turned and followed when I beckoned to him, and finding that
-he acknowledged that influence in me, I led the way straight home. It
-was not far, only at the summit of the hill. We passed but one man. I
-doubted if we should have got home without assistance, the boy’s
+he acknowledged that influence in me, I led the way straight [[Home|home]]. It
+was not far, only at the summit of the [[Hill|hill]]. We passed but one man. I
+doubted if we should have got [[Home|home]] without assistance, the boy’s
 steps were so uncertain and tremulous. He made no complaint, however,
 and was strangely unconcerned about himself, if I may say so strange
 a thing.
 
 Leaving him in the hall for a moment, shrunk into the corner of the
-window-seat and staring with an indifference that scarcely could be
-called wonder at the comfort and brightness about him, I went into
+[[Window|window]]-seat and staring with an indifference that scarcely could be
+called [[Wonder|wonder]] at the comfort and brightness about him, I went into
 the drawing-room to speak to my guardian. There I found Mr. Skimpole,
 who had come down by the coach, as he frequently did without notice,
 and never bringing any clothes with him, but always borrowing
 everything he wanted.
 
 They came out with me directly to look at the boy. The servants had
-gathered in the hall too, and he shivered in the window-seat with
+gathered in the hall too, and he shivered in the [[Window|window]]-seat with
 Charley standing by him, like some wounded animal that had been found
 in a ditch.
 
@@ -339,7 +339,7 @@ say, Harold?”
 “What do you mean?” inquired my guardian, almost sternly.
 
 “My dear Jarndyce,” said Mr. Skimpole, “you know what I am: I am a
-child. Be cross to me if I deserve it. But I have a constitutional
+[[Child|child]]. Be [[Cross|cross]] to me if I deserve it. But I have a constitutional
 objection to this sort of thing. I always had, when I was a medical
 man. He’s not safe, you know. There’s a very bad sort of fever about
 him.”
@@ -349,8 +349,8 @@ and said this in his airy way, seated on the music-stool as we stood
 by.
 
 “You’ll say it’s childish,” observed Mr. Skimpole, looking gaily at
-us. “Well, I dare say it may be; but I AM a child, and I never
-pretend to be anything else. If you put him out in the road, you only
+us. “[[Well]], I dare say it may be; but I AM a [[Child|child]], and I never
+pretend to be anything else. If you put him out in the [[Road|road]], you only
 put him where he was before. He will be no worse off than he was, you
 know. Even make him better off, if you like. Give him sixpence, or
 five shillings, or five pound ten—you are arithmeticians, and I am
@@ -360,13 +360,13 @@ not—and get rid of him!”
 
 “Upon my life,” said Mr. Skimpole, shrugging his shoulders with his
 engaging smile, “I have not the least idea what he is to do then. But
-I have no doubt he’ll do it.”
+I have no [[Doubt|doubt]] he’ll do it.”
 
 “Now, is it not a horrible reflection,” said my guardian, to whom I
 had hastily explained the unavailing efforts of the two women, “is it
 not a horrible reflection,” walking up and down and rumpling his
 hair, “that if this wretched creature were a convicted prisoner, his
-hospital would be wide open to him, and he would be as well taken
+hospital would be wide open to him, and he would be as [[Well|well]] taken
 care of as any sick boy in the kingdom?”
 
 “My dear Jarndyce,” returned Mr. Skimpole, “you’ll pardon the
@@ -379,20 +379,20 @@ amusement and indignation in his face.
 
 “Our young friend is not to be suspected of any delicacy, I should
 imagine,” said Mr. Skimpole, unabashed and candid. “It seems to me
-that it would be wiser, as well as in a certain kind of way more
+that it would be wiser, as [[Well|well]] as in a certain kind of way more
 respectable, if he showed some misdirected energy that got him into
-prison. There would be more of an adventurous spirit in it, and
+[[Prison|prison]]. There would be more of an adventurous spirit in it, and
 consequently more of a certain sort of poetry.”
 
 “I believe,” returned my guardian, resuming his uneasy walk, “that
-there is not such another child on earth as yourself.”
+there is not such another [[Child|child]] on earth as yourself.”
 
 “Do you really?” said Mr. Skimpole. “I dare say! But I confess I
 don’t see why our young friend, in his degree, should not seek to
-invest himself with such poetry as is open to him. He is no doubt
+invest himself with such poetry as is open to him. He is no [[Doubt|doubt]]
 born with an appetite—probably, when he is in a safer state of
-health, he has an excellent appetite. Very well. At our young
-friend’s natural dinner hour, most likely about noon, our young
+health, he has an excellent appetite. Very [[Well|well]]. At our young
+friend’s natural dinner hour, most likely about [[Noon|noon]], our young
 friend says in effect to society, ‘I am hungry; will you have the
 goodness to produce your spoon and feed me?’ Society, which has taken
 upon itself the general arrangement of the whole system of spoons and
@@ -400,7 +400,7 @@ professes to have a spoon for our young friend, does NOT produce that
 spoon; and our young friend, therefore, says ‘You really must excuse
 me if I seize it.’ Now, this appears to me a case of misdirected
 energy, which has a certain amount of reason in it and a certain
-amount of romance; and I don’t know but what I should be more
+amount of [[Romance|romance]]; and I don’t know but what I should be more
 interested in our young friend, as an illustration of such a case,
 than merely as a poor vagabond—which any one can be.”
 
@@ -417,7 +417,7 @@ The amiable face with which he said it, I think I shall never forget.
 can ensure his admission into the proper place by merely going there
 to enforce it, though it’s a bad state of things when, in his
 condition, that is necessary. But it’s growing late, and is a very
-bad night, and the boy is worn out already. There is a bed in the
+bad [[Night|night]], and the boy is worn out already. There is a bed in the
 wholesome loft-room by the stable; we had better keep him there till
 morning, when he can be wrapped up and removed. We’ll do that.”
 
@@ -450,23 +450,23 @@ do, which Charley explained to him again and which he received with
 the languid unconcern I had already noticed, wearily looking on at
 what was done as if it were for somebody else. The servants
 compassionating his miserable state and being very anxious to help,
-we soon got the loft-room ready; and some of the men about the house
-carried him across the wet yard, well wrapped up. It was pleasant to
+we soon got the loft-room ready; and some of the men about the [[house]]
+carried him across the wet yard, [[Well|well]] wrapped up. It was pleasant to
 observe how kind they were to him and how there appeared to be a
 general impression among them that frequently calling him “Old Chap”
 was likely to revive his spirits. Charley directed the operations and
-went to and fro between the loft-room and the house with such little
+went to and fro between the loft-room and the [[house]] with such little
 stimulants and comforts as we thought it safe to give him. My
-guardian himself saw him before he was left for the night and
+guardian himself saw him before he was left for the [[Night|night]] and
 reported to me when he returned to the growlery to write a letter on
 the boy’s behalf, which a messenger was charged to deliver at
 day-light in the morning, that he seemed easier and inclined to
-sleep. They had fastened his door on the outside, he said, in case of
+[[Sleep|sleep]]. They had fastened his door on the outside, he said, in case of
 his being delirious, but had so arranged that he could not make any
 noise without being heard.
 
-Ada being in our room with a cold, Mr. Skimpole was left alone all
-this time and entertained himself by playing snatches of pathetic
+Ada being in our room with a cold, Mr. Skimpole was left [[Alone|alone]] all
+this [[Time|time]] and entertained himself by playing snatches of pathetic
 airs and sometimes singing to them (as we heard at a distance) with
 great expression and feeling. When we rejoined him in the
 drawing-room he said he would give us a little ballad which had come
@@ -474,9 +474,9 @@ into his head “apropos of our young friend,” and he sang one about a
 peasant boy,
 
    “Thrown on the wide world, doomed to wander and roam,
-    Bereft of his parents, bereft of a home.”
+    Bereft of his parents, bereft of a [[Home|home]].”
 
-quite exquisitely. It was a song that always made him cry, he told
+quite exquisitely. It was a [[Song|song]] that always made him cry, he told
 us.
 
 He was extremely gay all the rest of the evening, for he absolutely
@@ -484,25 +484,25 @@ chirped—those were his delighted words—when he thought by what a
 happy talent for business he was surrounded. He gave us, in his glass
 of negus, “Better health to our young friend!” and supposed and gaily
 pursued the case of his being reserved like Whittington to become
-Lord Mayor of London. In that event, no doubt, he would establish the
+[[Lord Mayor]] of [[London]]. In that event, no [[Doubt|doubt]], he would establish the
 Jarndyce Institution and the Summerson Almshouses, and a little
-annual Corporation Pilgrimage to St. Albans. He had no doubt, he
+annual Corporation Pilgrimage to St. Albans. He had no [[Doubt|doubt]], he
 said, that our young friend was an excellent boy in his way, but his
-way was not the Harold Skimpole way; what Harold Skimpole was, Harold
+way was not the [[Harold Skimpole]] way; what [[Harold Skimpole]] was, Harold
 Skimpole had found himself, to his considerable surprise, when he
 first made his own acquaintance; he had accepted himself with all his
-failings and had thought it sound philosophy to make the best of the
+failings and had thought it sound [[philosophy]] to make the best of the
 bargain; and he hoped we would do the same.
 
 Charley’s last report was that the boy was quiet. I could see, from
-my window, the lantern they had left him burning quietly; and I went
+my [[Window|window]], the lantern they had left him burning quietly; and I went
 to bed very happy to think that he was sheltered.
 
 There was more movement and more talking than usual a little before
 daybreak, and it awoke me. As I was dressing, I looked out of my
-window and asked one of our men who had been among the active
-sympathizers last night whether there was anything wrong about the
-house. The lantern was still burning in the loft-window.
+[[Window|window]] and asked one of our men who had been among the active
+sympathizers last [[Night|night]] whether there was anything wrong about the
+[[house]]. The lantern was still burning in the loft-[[Window|window]].
 
 “It’s the boy, miss,” said he.
 
@@ -514,14 +514,14 @@ house. The lantern was still burning in the loft-window.
 
 “Dead, miss? No. Gone clean off.”
 
-At what time of the night he had gone, or how, or why, it seemed
+At what [[Time|time]] of the [[Night|night]] he had gone, or how, or why, it seemed
 hopeless ever to divine. The door remaining as it had been left, and
-the lantern standing in the window, it could only be supposed that he
+the lantern standing in the [[Window|window]], it could only be supposed that he
 had got out by a trap in the floor which communicated with an empty
-cart-house below. But he had shut it down again, if that were so; and
+cart-[[house]] below. But he had shut it down again, if that were so; and
 it looked as if it had not been raised. Nothing of any kind was
 missing. On this fact being clearly ascertained, we all yielded to
-the painful belief that delirium had come upon him in the night and
+the painful belief that delirium had come upon him in the [[Night|night]] and
 that, allured by some imaginary object or pursued by some imaginary
 horror, he had strayed away in that worse than helpless state; all of
 us, that is to say, but Mr. Skimpole, who repeatedly suggested, in
@@ -532,12 +532,12 @@ and that he had with great natural politeness taken himself off.
 Every possible inquiry was made, and every place was searched. The
 brick-kilns were examined, the cottages were visited, the two women
 were particularly questioned, but they knew nothing of him, and
-nobody could doubt that their wonder was genuine. The weather had for
-some time been too wet and the night itself had been too wet to admit
+nobody could [[Doubt|doubt]] that their [[Wonder|wonder]] was genuine. The weather had for
+some [[Time|time]] been too wet and the [[Night|night]] itself had been too wet to admit
 of any tracing by footsteps. Hedge and ditch, and wall, and rick and
 stack, were examined by our men for a long distance round, lest the
 boy should be lying in such a place insensible or dead; but nothing
-was seen to indicate that he had ever been near. From the time when
+was seen to indicate that he had ever been near. From the [[Time|time]] when
 he was left in the loft-room, he vanished.
 
 The search continued for five days. I do not mean that it ceased even
@@ -551,49 +551,49 @@ I saw my little maid shivering from head to foot.
 “Charley,” said I, “are you so cold?”
 
 “I think I am, miss,” she replied. “I don’t know what it is. I can’t
-hold myself still. I felt so yesterday at about this same time, miss.
+hold myself still. I felt so yesterday at about this same [[Time|time]], miss.
 Don’t be uneasy, I think I’m ill.”
 
 I heard Ada’s voice outside, and I hurried to the door of
 communication between my room and our pretty sitting-room, and locked
-it. Just in time, for she tapped at it while my hand was yet upon the
+it. Just in [[Time|time]], for she tapped at it while my hand was yet upon the
 key.
 
 Ada called to me to let her in, but I said, “Not now, my dearest. Go
 away. There’s nothing the matter; I will come to you presently.” Ah!
-It was a long, long time before my darling girl and I were companions
+It was a long, long [[Time|time]] before my darling girl and I were companions
 again.
 
 Charley fell ill. In twelve hours she was very ill. I moved her to my
-room, and laid her in my bed, and sat down quietly to nurse her. I
+room, and laid her in my bed, and sat down quietly to [[Nurse|nurse]] her. I
 told my guardian all about it, and why I felt it was necessary that I
 should seclude myself, and my reason for not seeing my darling above
 all. At first she came very often to the door, and called to me, and
-even reproached me with sobs and tears; but I wrote her a long letter
+even reproached me with sobs and [[Tears|tears]]; but I wrote her a long letter
 saying that she made me anxious and unhappy and imploring her, as she
 loved me and wished my mind to be at peace, to come no nearer than
-the garden. After that she came beneath the window even oftener than
-she had come to the door, and if I had learnt to love her dear sweet
-voice before when we were hardly ever apart, how did I learn to love
-it then, when I stood behind the window-curtain listening and
-replying, but not so much as looking out! How did I learn to love it
-afterwards, when the harder time came!
+the [[Garden|garden]]. After that she came beneath the [[Window|window]] even oftener than
+she had come to the door, and if I had learnt to [[Love|love]] her dear sweet
+voice before when we were hardly ever apart, how did I learn to [[Love|love]]
+it then, when I stood behind the [[Window|window]]-curtain listening and
+replying, but not so much as looking out! How did I learn to [[Love|love]] it
+afterwards, when the harder [[Time|time]] came!
 
 They put a bed for me in our sitting-room; and by keeping the door
 wide open, I turned the two rooms into one, now that Ada had vacated
-that part of the house, and kept them always fresh and airy. There
-was not a servant in or about the house but was so good that they
-would all most gladly have come to me at any hour of the day or night
-without the least fear or unwillingness, but I thought it best to
+that part of the [[house]], and kept them always fresh and airy. There
+was not a servant in or about the [[house]] but was so good that they
+would all most gladly have come to me at any hour of the day or [[Night|night]]
+without the least [[Fear|fear]] or unwillingness, but I thought it best to
 choose one worthy woman who was never to see Ada and whom I could
 trust to come and go with all precaution. Through her means I got out
-to take the air with my guardian when there was no fear of meeting
+to take the air with my guardian when there was no [[Fear|fear]] of meeting
 Ada, and wanted for nothing in the way of attendance, any more than
 in any other respect.
 
 And thus poor Charley sickened and grew worse, and fell into heavy
-danger of death, and lay severely ill for many a long round of day
-and night. So patient she was, so uncomplaining, and inspired by such
+danger of [[Death|death]], and lay severely ill for many a long round of day
+and [[Night|night]]. So patient she was, so uncomplaining, and inspired by such
 a gentle fortitude that very often as I sat by Charley holding her
 head in my arms—repose would come to her, so, when it would come to
 her in no other attitude—I silently prayed to our Father in heaven
@@ -601,7 +601,7 @@ that I might not forget the lesson which this little sister taught
 me.
 
 I was very sorrowful to think that Charley’s pretty looks would
-change and be disfigured, even if she recovered—she was such a child
+change and be disfigured, even if she recovered—she was such a [[Child|child]]
 with her dimpled face—but that thought was, for the greater part,
 lost in her greater peril. When she was at the worst, and her mind
 rambled again to the cares of her father’s sick bed and the little
@@ -612,49 +612,49 @@ think, how should I ever tell the two remaining babies that the baby
 who had learned of her faithful heart to be a mother to them in their
 need was dead!
 
-There were other times when Charley knew me well and talked to me,
-telling me that she sent her love to Tom and Emma and that she was
+There were other times when Charley knew me [[Well|well]] and talked to me,
+telling me that she sent her [[Love|love]] to Tom and [[Emma]] and that she was
 sure Tom would grow up to be a good man. At those times Charley would
-speak to me of what she had read to her father as well as she could
+speak to me of what she had read to her father as [[Well|well]] as she could
 to comfort him, of that young man carried out to be buried who was
 the only son of his mother and she was a widow, of the ruler’s
-daughter raised up by the gracious hand upon her bed of death. And
+daughter raised up by the gracious hand upon her bed of [[Death|death]]. And
 Charley told me that when her father died she had kneeled down and
 prayed in her first sorrow that he likewise might be raised up and
 given back to his poor children, and that if she should never get
 better and should die too, she thought it likely that it might come
-into Tom’s mind to offer the same prayer for her. Then would I show
+into Tom’s mind to offer the same [[prayer]] for her. Then would I show
 Tom how these people of old days had been brought back to life on
-earth, only that we might know our hope to be restored to heaven!
+earth, only that we might know our [[Hope|hope]] to be restored to heaven!
 
 But of all the various times there were in Charley’s illness, there
 was not one when she lost the gentle qualities I have spoken of. And
-there were many, many when I thought in the night of the last high
+there were many, many when I thought in the [[Night|night]] of the last high
 belief in the watching angel, and the last higher trust in God, on
 the part of her poor despised father.
 
 And Charley did not die. She flutteringly and slowly turned the
 dangerous point, after long lingering there, and then began to mend.
-The hope that never had been given, from the first, of Charley being
+The [[Hope|hope]] that never had been given, from the first, of Charley being
 in outward appearance Charley any more soon began to be encouraged;
 and even that prospered, and I saw her growing into her old childish
 likeness again.
 
 It was a great morning when I could tell Ada all this as she stood
-out in the garden; and it was a great evening when Charley and I at
+out in the [[Garden|garden]]; and it was a great evening when Charley and I at
 last took tea together in the next room. But on that same evening, I
 felt that I was stricken cold.
 
 Happily for both of us, it was not until Charley was safe in bed
 again and placidly asleep that I began to think the contagion of her
 illness was upon me. I had been able easily to hide what I felt at
-tea-time, but I was past that already now, and I knew that I was
+tea-[[Time|time]], but I was past that already now, and I knew that I was
 rapidly following in Charley’s steps.
 
-I was well enough, however, to be up early in the morning, and to
-return my darling’s cheerful blessing from the garden, and to talk
+I was [[Well|well]] enough, however, to be up early in the morning, and to
+return my darling’s cheerful blessing from the [[Garden|garden]], and to talk
 with her as long as usual. But I was not free from an impression that
-I had been walking about the two rooms in the night, a little beside
+I had been walking about the two rooms in the [[Night|night]], a little beside
 myself, though knowing where I was; and I felt confused at
 times—with a curious sense of fullness, as if I were becoming too
 large altogether.
@@ -681,7 +681,7 @@ yourself, you can never fulfil it, Charley.”
 “If you’ll let me cry a little longer, miss,” said Charley. “Oh, my
 dear, my dear! If you’ll only let me cry a little longer. Oh, my
 dear!”—how affectionately and devotedly she poured this out as she
-clung to my neck, I never can remember without tears—“I’ll be good.”
+clung to my neck, I never can remember without [[Tears|tears]]—“I’ll be good.”
 
 So I let Charley cry a little longer, and it did us both good.
 
@@ -689,36 +689,36 @@ So I let Charley cry a little longer, and it did us both good.
 listening to everything you say.”
 
 “It’s very little at present, Charley. I shall tell your doctor
-to-night that I don’t think I am well and that you are going to nurse
+to-[[Night|night]] that I don’t think I am [[Well|well]] and that you are going to [[Nurse|nurse]]
 me.”
 
-For that the poor child thanked me with her whole heart. “And in the
-morning, when you hear Miss Ada in the garden, if I should not be
-quite able to go to the window-curtain as usual, do you go, Charley,
+For that the poor [[Child|child]] thanked me with her whole heart. “And in the
+morning, when you hear Miss Ada in the [[Garden|garden]], if I should not be
+quite able to go to the [[Window|window]]-curtain as usual, do you go, Charley,
 and say I am asleep—that I have rather tired myself, and am asleep.
 At all times keep the room as I have kept it, Charley, and let no one
 come.”
 
 Charley promised, and I lay down, for I was very heavy. I saw the
-doctor that night and asked the favour of him that I wished to ask
-relative to his saying nothing of my illness in the house as yet. I
-have a very indistinct remembrance of that night melting into day,
-and of day melting into night again; but I was just able on the first
-morning to get to the window and speak to my darling.
+doctor that [[Night|night]] and asked the favour of him that I wished to ask
+relative to his saying nothing of my illness in the [[house]] as yet. I
+have a very indistinct remembrance of that [[Night|night]] melting into day,
+and of day melting into [[Night|night]] again; but I was just able on the first
+morning to get to the [[Window|window]] and speak to my darling.
 
 On the second morning I heard her dear voice—Oh, how dear
 now!—outside; and I asked Charley, with some difficulty (speech
 being painful to me), to go and say I was asleep. I heard her answer
 softly, “Don’t disturb her, Charley, for the world!”
 
-“How does my own Pride look, Charley?” I inquired.
+“How does my own [[Pride]] look, Charley?” I inquired.
 
 “Disappointed, miss,” said Charley, peeping through the curtain.
 
 “But I know she is very beautiful this morning.”
 
 “She is indeed, miss,” answered Charley, peeping. “Still looking up
-at the window.”
+at the [[Window|window]].”
 
 With her blue clear eyes, God bless them, always loveliest when
 raised like that!
@@ -726,7 +726,7 @@ raised like that!
 I called Charley to me and gave her her last charge.
 
 “Now, Charley, when she knows I am ill, she will try to make her way
-into the room. Keep her out, Charley, if you love me truly, to the
+into the room. Keep her out, Charley, if you [[Love|love]] me truly, to the
 last! Charley, if you let her in but once, only to look upon me for
 one moment as I lie here, I shall die.”
 

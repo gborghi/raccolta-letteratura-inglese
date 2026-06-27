@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — A Museum of Souls (part 4)"
+title: "ball and [[Cross|cross]] — A Museum of Souls (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -18,13 +18,13 @@ The doctor with the pointed beard was already slanting it
 forward at a more than usually acute angle, with the smile
 that expressed expectancy.
 
-"I hope I do not hurry you, gentlemen," he said, with the faintest
+"I [[Hope|hope]] I do not hurry you, gentlemen," he said, with the faintest
 suggestion of a sneer at their hurried consultation, "but I believe
 you wanted to see me at half-past eleven."
 
 "I am most awfully sorry, Doctor," said Turnbull, with ready amiability;
 "I never meant to keep you waiting; but the silly accident that has
-landed us in your garden may have some rather serious consequences
+landed us in your [[Garden|garden]] may have some rather serious consequences
 to our friends elsewhere, and my friend here was just drawing
 my attention to some of them."
 
@@ -46,7 +46,7 @@ MacIan remained standing, but Turnbull threw himself almost with
 luxury into a hard wooden arm-chair.
 
 "This is a most absurd business, Doctor," he said, "and I am ashamed to
-take up the time of busy professional men with such pranks from outside.
+take up the [[Time|time]] of busy professional men with such pranks from outside.
 The plain fact is, that he and I and a pack of silly men and girls have
 organized a game across this part of the country--a sort of combination
 of hare and hounds and hide and seek--I dare say you've heard of it.
@@ -62,7 +62,7 @@ of the new exhilarating game, and who were the male and female
 enthusiasts who had brought it to such perfection; in fact,
 Turnbull was busy making up these personal and topographical particulars.
 As the doctor did not ask the question, he grew slightly uneasy,
-and risked the question:  "I hope you will accept my assurance
+and risked the question:  "I [[Hope|hope]] you will accept my assurance
 that the thing was an accident and that no intrusion was meant."
 
 "Oh, yes, sir," replied the doctor, smiling, "I accept everything
@@ -81,9 +81,9 @@ to let us out?"
 that would be in a place like this."
 
 "Then, how the devil are we to get out?" cried Turnbull, losing his
-manners for the first time.
+manners for the first [[Time|time]].
 
-"It is a question of time, of receptivity, and treatment,"
+"It is a question of [[Time|time]], of receptivity, and treatment,"
 said the doctor, arching his eyebrows indifferently.
 "I do not regard either of your cases as incurable."
 
@@ -128,9 +128,9 @@ my mother was."
 
 Then he compressed his temples with his hands, as if to crush them.
 And then lifted suddenly a face that looked fresh and young,
-as if he had dipped and washed it in some holy well.
+as if he had dipped and washed it in some holy [[Well|well]].
 
-"Very well," he cried; "I will take the sour with the sweet.
+"Very [[Well|well]]," he cried; "I will take the sour with the sweet.
 I will pay the penalty of having enjoyed God in this
 monstrous modern earth that cannot enjoy man or beast.
 I will die happy in your madhouse, only because I know what I know.
@@ -151,7 +151,7 @@ large letters:  "Turnbull, James."
 
 Hitherto Turnbull himself had somewhat scornfully surrendered his part
 in the whole business; but he was too honest and unaffected not to start
-at his own name.  After the name, the inscription appeared to run:
+at his own name.  After the name, the [[Inscription|inscription]] appeared to run:
 "Unique case of Eleutheromania.  Parentage, as so often in such cases,
 prosaic and healthy.  Eleutheromaniac signs occurred early, however,
 leading him to attach himself to the individualist Bradlaugh.
@@ -163,18 +163,18 @@ even about getting out of the madhouse, if only we get out of
 this room.  You were right enough, MacIan, when you spoke about--
 about mad doctors."
 
-Somehow they found themselves outside in the cool, green garden,
-and then, after a stunned silence, Turnbull said:  "There is one
-thing that was puzzling me all the time, and I understand it now."
+Somehow they found themselves outside in the cool, green [[Garden|garden]],
+and then, after a stunned [[Silence|silence]], Turnbull said:  "There is one
+thing that was puzzling me all the [[Time|time]], and I understand it now."
 
 "What do you mean?" asked Evan.
 
-"No man by will or wit," answered Turnbull, "can get out of this garden;
-and yet we got into it merely by jumping over a garden wall.
+"No man by will or wit," answered Turnbull, "can get out of this [[Garden|garden]];
+and yet we got into it merely by jumping over a [[Garden|garden]] wall.
 The whole thing explains itself easily enough.  That undefended wall
 was an open trap.  It was a trap laid for two celebrated lunatics.
 They saw us get in right enough.  And they will see that we do
 not get out."
 
-Evan gazed at the garden wall, gravely for more than a minute,
+Evan gazed at the [[Garden|garden]] wall, gravely for more than a minute,
 and then he nodded without a word.

@@ -15,10 +15,10 @@ tags:
 
 
 The procession being then in a condition to form itself once more, and
-repair to Brig Place, where a marriage feast was in readiness, returned
+repair to Brig Place, where a [[Marriage|marriage]] feast was in readiness, returned
 as it had come; not without the receipt, by Bunsby, of many humorous
 congratulations from the populace on his recently-acquired happiness.
-The Captain accompanied it as far as the house-door, but, being made
+The Captain accompanied it as far as the [[house]]-door, but, being made
 uneasy by the gentler manner of Mrs Bokum, who, now that she was
 relieved from her engrossing duty—for the watchfulness and alacrity of
 the ladies sensibly diminished when the bridegroom was safely
@@ -27,15 +27,15 @@ left it and the captive; faintly pleading an appointment, and promising
 to return presently. The Captain had another cause for uneasiness, in
 remorsefully reflecting that he had been the first means of Bunsby’s
 entrapment, though certainly without intending it, and through his
-unbounded faith in the resources of that philosopher.
+unbounded [[Faith|faith]] in the resources of that philosopher.
 
 To go back to old Sol Gills at the wooden Midshipman’s, and not first
-go round to ask how Mr Dombey was—albeit the house where he lay was out
-of London, and away on the borders of a fresh heath—was quite out of
+go round to ask how Mr Dombey was—albeit the [[house]] where he lay was out
+of [[London]], and away on the borders of a fresh heath—was quite out of
 the Captain’s course. So he got a lift when he was tired, and made out
-the journey gaily.
+the [[Journey|journey]] gaily.
 
-The blinds were pulled down, and the house so quiet, that the Captain
+The blinds were pulled down, and the [[house]] so quiet, that the Captain
 was almost afraid to knock; but listening at the door, he heard low
 voices within, very near it, and, knocking softly, was admitted by Mr
 Toots. Mr Toots and his wife had, in fact, just arrived there; having
@@ -46,9 +46,9 @@ They were not so recently arrived, but that Mrs Toots had caught the
 baby from somebody, taken it in her arms, and sat down on the stairs,
 hugging and fondling it. Florence was stooping down beside her; and no
 one could have said which Mrs Toots was hugging and fondling most, the
-mother or the child, or which was the tenderer, Florence of Mrs Toots,
+mother or the [[Child|child]], or which was the tenderer, Florence of Mrs Toots,
 or Mrs Toots of her, or both of the baby; it was such a little group of
-love and agitation.
+[[Love|love]] and agitation.
 
 “And is your Pa very ill, my darling dear Miss Floy?” asked Susan.
 
@@ -57,17 +57,17 @@ speak to me as you used to speak. And what’s this?” said Florence,
 touching her clothes, in amazement. “Your old dress, dear? Your old
 cap, curls, and all?”
 
-Susan burst into tears, and showered kisses on the little hand that had
+Susan burst into [[Tears|tears]], and showered kisses on the little hand that had
 touched her so wonderingly.
 
 “My dear Miss Dombey,” said Mr Toots, stepping forward, “I’ll explain.
 She’s the most extraordinary woman. There are not many to equal her!
 She has always said—she said before we were married, and has said to
-this day—that whenever you came home, she’d come to you in no dress but
-the dress she used to serve you in, for fear she might seem strange to
+this day—that whenever you came [[Home|home]], she’d come to you in no dress but
+the dress she used to serve you in, for [[Fear|fear]] she might seem strange to
 you, and you might like her less. I admire the dress myself,” said Mr
 Toots, “of all things. I adore her in it! My dear Miss Dombey, she’ll
-be your maid again, your nurse, all that she ever was, and more.
+be your maid again, your [[Nurse|nurse]], all that she ever was, and more.
 There’s no change in her. But, Susan, my dear,” said Mr Toots, who had
 spoken with great feeling and high admiration, “all I ask is, that
 you’ll remember the medical man, and not exert yourself too much!”

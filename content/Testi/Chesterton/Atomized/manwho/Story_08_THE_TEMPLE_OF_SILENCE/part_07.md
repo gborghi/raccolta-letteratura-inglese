@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE TEMPLE OF  SILENCE (part 7)"
+title: "[[manwho]] — THE TEMPLE OF  [[Silence|SILENCE]] (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -32,9 +32,9 @@ retire from the election at once."
 
 "My psychology may be a little abnormal," replied Horne Fisher, in a
 
-rather hazy manner. "I am subject to dreams, especially day-dreams.
+rather hazy manner. "I am subject to [[Dreams|dreams]], especially day-[[Dreams|dreams]].
 
-Sometimes what is happening to me grows vivid in a curious double
+Sometimes what is happening to me grows vivid in a curious [[Double|double]]
 
 way, as if it had happened before. Have you ever had that mystical
 
@@ -42,7 +42,7 @@ feeling that things have happened before?"
 
 
 
-"I hope you are a harmless lunatic," said Verner.
+"I [[Hope|hope]] you are a harmless lunatic," said Verner.
 
 
 
@@ -54,7 +54,7 @@ the walls; then he looked again at Verner and resumed: "I have a
 
 feeling that this interview has happened before, here in this
 
-tapestried room, and we are two ghosts revisiting a haunted chamber.
+tapestried room, and we are two [[Ghosts|ghosts]] revisiting a haunted chamber.
 
 But it was Squire Hawker who sat where you sit and it was you who
 
@@ -96,15 +96,15 @@ the bell ropes of the old-fashioned, curtained room.
 
 
 
-"And who is Usher?" said Fisher, softly.  "I wonder how much Usher
+"And who is Usher?" said Fisher, softly.  "I [[Wonder|wonder]] how much Usher
 
-knows of the truth."
+knows of the [[Truth|truth]]."
 
 
 
 Verner's hand fell from the bell rope and, after standing for a
 
-moment with rolling eyes, he strode abruptly from the room. Fisher
+moment with [[rolling]] eyes, he strode abruptly from the room. Fisher
 
 went but by the other door, by which he had entered, and, seeing no
 
@@ -114,13 +114,13 @@ town.
 
 
 
-That night he put an electric torch in his pocket and set out alone
+That [[Night|night]] he put an electric torch in his pocket and set out [[Alone|alone]]
 
 in the darkness to add the last links to his argument. There was
 
 much that he did not know yet; but he thought he knew where he could
 
-find the knowledge. The night closed dark and stormy and the black
+find the knowledge. The [[Night|night]] closed dark and stormy and the black
 
 gap in the wall looked blacker than ever; the wood seemed to have
 
@@ -128,13 +128,13 @@ grown thicker and darker in a day. If the deserted lake with its
 
 black woods and gray urns and images looked desolate even by
 
-daylight, under the night and the growing storm it seemed still more
+daylight, under the [[Night|night]] and the growing [[Storm|storm]] it seemed still more
 
 like the pool of Acheron in the land of lost souls. As he stepped
 
 carefully along the jetty stones he seemed to be traveling farther
 
-and farther into the abyss of night, and to have left behind him the
+and farther into the abyss of [[Night|night]], and to have left behind him the
 
 last points from which it would be possible to signal to the land of
 
@@ -144,11 +144,11 @@ sea of black and slimy waters that slept with abominable serenity,
 
 as if they had washed out the world. There was so much of this
 
-nightmare sense of extension and expansion that he was strangely
+[[nightmare]] sense of extension and expansion that he was strangely
 
-surprised to come to his desert island so soon. But he knew it for a
+surprised to come to his [[Desert|desert]] island so soon. But he knew it for a
 
-place of inhuman silence and solitude; and he felt as if he had been
+place of inhuman [[Silence|silence]] and [[Solitude|solitude]]; and he felt as if he had been
 
 walking for years.
 
@@ -228,6 +228,6 @@ violence had in it a great element of haste, and before he could
 
 rise they had all rushed for the door to escape. Whatever bandits
 
-they were that infested this desert island, they were obviously
+they were that infested this [[Desert|desert]] island, they were obviously
 
 uneasy about their job and very anxious to be quit of it. He had the

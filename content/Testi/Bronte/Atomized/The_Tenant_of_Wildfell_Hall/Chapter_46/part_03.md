@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 46 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 46 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -38,7 +38,7 @@ cold-hearted, ambitious, artful, shallow-minded—”
 
 
 
-“No; let me finish:—you don’t know that, if you married her, your home
+“No; let me finish:—you don’t know that, if you married her, your [[Home|home]]
 
 would be rayless and comfortless; and it would break your heart at last
 
@@ -46,7 +46,7 @@ to find yourself united to one so wholly incapable of sharing your
 
 tastes, feelings, and ideas—so utterly destitute of sensibility, good
 
-feeling, and true nobility of soul.”
+feeling, and true nobility of [[Soul|soul]].”
 
 
 
@@ -60,7 +60,7 @@ only conduces to preserve you from that fatal mistake.”
 
 
 
-“Well!” returned he, with a rather wintry smile—“I’m glad you have
+“[[Well]]!” returned he, with a rather wintry smile—“I’m glad you have
 
 overcome or forgotten your own afflictions so far as to be able to
 
@@ -74,9 +74,9 @@ life.”
 
 We parted—somewhat coldly again: but still we did not cease to be
 
-friends; and my well-meant warning, though it might have been more
+friends; and my [[Well|well]]-meant warning, though it might have been more
 
-judiciously delivered, as well as more thankfully received, was not
+judiciously delivered, as [[Well|well]] as more thankfully received, was not
 
 wholly unproductive of the desired effect: his visit to the Wilsons was
 
@@ -114,6 +114,6 @@ the sudden cold neglect and ultimate desertion of her former admirer.
 
 Had I done wrong to blight her cherished hopes? I think not; and
 
-certainly my conscience has never accused me, from that day to this, of
+certainly my [[Conscience|conscience]] has never accused me, from that day to this, of
 
 any evil design in the matter.

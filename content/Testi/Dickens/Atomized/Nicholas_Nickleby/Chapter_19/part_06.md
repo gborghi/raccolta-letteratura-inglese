@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 19 (part 6)"
+title: "[[Nicholas Nickleby]] — Chapter 19 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘You would sell your flesh and blood for money; yourself, if you have
+‘You would sell your flesh and [[Blood|blood]] for money; yourself, if you have
 not already made a bargain with the devil,’ retorted the other. ‘Do you
 mean to tell me that your pretty niece was not brought here as a decoy
 for the drunken boy downstairs?’
@@ -62,11 +62,11 @@ had flung herself heavily upon the couch, and with her head drooping
 over the cushion, and her face hidden in her hands, seemed to be still
 weeping in an agony of shame and grief.
 
-Ralph would have walked into any poverty-stricken debtor’s house, and
-pointed him out to a bailiff, though in attendance upon a young child’s
-death-bed, without the smallest concern, because it would have been a
+Ralph would have walked into any [[Poverty|poverty]]-stricken debtor’s [[house]], and
+pointed him out to a bailiff, though in attendance upon a young [[Child|child]]’s
+[[Death|death]]-bed, without the smallest concern, because it would have been a
 matter quite in the ordinary course of business, and the man would have
-been an offender against his only code of morality. But, here was a
+been an offender against his only code of [[morality]]. But, here was a
 young girl, who had done no wrong save that of coming into the world
 alive; who had patiently yielded to all his wishes; who had tried hard
 to please him--above all, who didn’t owe him money--and he felt awkward
@@ -79,8 +79,8 @@ finally sat himself on the same sofa, and laid his hand on Kate’s arm.
 ‘Hush, my dear!’ he said, as she drew it back, and her sobs burst out
 afresh. ‘Hush, hush! Don’t mind it, now; don’t think of it.’
 
-‘Oh, for pity’s sake, let me go home,’ cried Kate. ‘Let me leave this
-house, and go home.’
+‘Oh, for pity’s sake, let me go [[Home|home]],’ cried Kate. ‘Let me leave this
+[[house]], and go [[Home|home]].’
 
 ‘Yes, yes,’ said Ralph. ‘You shall. But you must dry your eyes first,
 and compose yourself. Let me raise your head. There--there.’
@@ -88,7 +88,7 @@ and compose yourself. Let me raise your head. There--there.’
 ‘Oh, uncle!’ exclaimed Kate, clasping her hands. ‘What have I done--what
 have I done--that you should subject me to this? If I had wronged you in
 thought, or word, or deed, it would have been most cruel to me, and the
-memory of one you must have loved in some old time; but--’
+[[Memory|memory]] of one you must have loved in some old [[Time|time]]; but--’
 
 ‘Only listen to me for a moment,’ interrupted Ralph, seriously alarmed
 by the violence of her emotions. ‘I didn’t know it would be so; it was
@@ -96,19 +96,19 @@ impossible for me to foresee it. I did all I could.--Come, let us walk
 about. You are faint with the closeness of the room, and the heat of
 these lamps. You will be better now, if you make the slightest effort.’
 
-‘I will do anything,’ replied Kate, ‘if you will only send me home.’
+‘I will do anything,’ replied Kate, ‘if you will only send me [[Home|home]].’
 
-‘Well, well, I will,’ said Ralph; ‘but you must get back your own looks;
+‘[[Well]], [[Well|well]], I will,’ said Ralph; ‘but you must get back your own looks;
 for those you have, will frighten them, and nobody must know of this but
 you and I. Now let us walk the other way. There. You look better even
 now.’
 
-With such encouragements as these, Ralph Nickleby walked to and fro,
+With such encouragements as these, [[Ralph Nickleby]] walked to and fro,
 with his niece leaning on his arm; actually trembling beneath her touch.
 
 In the same manner, when he judged it prudent to allow her to depart, he
 supported her downstairs, after adjusting her shawl and performing such
-little offices, most probably for the first time in his life. Across
+little offices, most probably for the first [[Time|time]] in his life. Across
 the hall, and down the steps, Ralph led her too; nor did he withdraw his
 hand until she was seated in the coach.
 
@@ -116,14 +116,14 @@ As the door of the vehicle was roughly closed, a comb fell from Kate’s
 hair, close at her uncle’s feet; and as he picked it up, and returned it
 into her hand, the light from a neighbouring lamp shone upon her face.
 The lock of hair that had escaped and curled loosely over her brow, the
-traces of tears yet scarcely dry, the flushed cheek, the look of sorrow,
+traces of [[Tears|tears]] yet scarcely dry, the flushed cheek, the look of sorrow,
 all fired some dormant train of recollection in the old man’s breast;
 and the face of his dead brother seemed present before him, with the
 very look it bore on some occasion of boyish grief, of which every
 minutest circumstance flashed upon his mind, with the distinctness of a
 scene of yesterday.
 
-Ralph Nickleby, who was proof against all appeals of blood
+[[Ralph Nickleby]], who was proof against all appeals of [[Blood|blood]]
 and kindred--who was steeled against every tale of sorrow and
-distress--staggered while he looked, and went back into his house, as a
-man who had seen a spirit from some world beyond the grave.
+distress--staggered while he looked, and went back into his [[house]], as a
+man who had seen a spirit from some world beyond the [[Grave|grave]].

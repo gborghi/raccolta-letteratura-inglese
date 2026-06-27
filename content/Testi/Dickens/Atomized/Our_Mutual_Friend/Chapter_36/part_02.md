@@ -18,12 +18,12 @@ Taking notice of Pleasant Riderhood at the door, the man crossed so
 quickly that she was still winding herself up, when he stood close
 before her.
 
-‘Is your father at home?’ said he.
+‘Is your father at [[Home|home]]?’ said he.
 
 ‘I think he is,’ returned Pleasant, dropping her arms; ‘come in.’
 
 It was a tentative reply, the man having a seafaring appearance. Her
-father was not at home, and Pleasant knew it. ‘Take a seat by the fire,’
+father was not at [[Home|home]], and Pleasant knew it. ‘Take a seat by the [[Fire|fire]],’
 were her hospitable words when she had got him in; ‘men of your calling
 are always welcome here.’
 
@@ -38,8 +38,8 @@ thrown across his left leg a little above the knee, and the right arm
 as carelessly thrown over the elbow of the wooden chair, with the hand
 curved, half open and half shut, as if it had just let go a rope.
 
-‘Might you be looking for a Boarding-House?’ Pleasant inquired, taking
-her observant stand on one side of the fire.
+‘Might you be looking for a Boarding-[[house|House]]?’ Pleasant inquired, taking
+her observant stand on one side of the [[Fire|fire]].
 
 ‘I don’t rightly know my plans yet,’ returned the man.
 
@@ -66,8 +66,8 @@ a view to principal and interest.
 don’t remember you.’
 
 ‘It’s not at all likely you should. I only stood at the door, one
-night—on the lower step there—while a shipmate of mine looked in to
-speak to your father. I remember the place well.’ Looking very curiously
+[[Night|night]]—on the lower step there—while a shipmate of mine looked in to
+speak to your father. I remember the place [[Well|well]].’ Looking very curiously
 round it.
 
 ‘Might that have been long ago?’
@@ -93,15 +93,15 @@ threatening.
 
 ‘I don’t know. I can’t say.’
 
-‘As you supposed he was at home, it would seem that he has just gone
+‘As you supposed he was at [[Home|home]], it would seem that he has just gone
 out? How’s that?’
 
-‘I supposed he had come home,’ Pleasant explained.
+‘I supposed he had come [[Home|home]],’ Pleasant explained.
 
-‘Oh! You supposed he had come home? Then he has been some time out?
+‘Oh! You supposed he had come [[Home|home]]? Then he has been some [[Time|time]] out?
 How’s that?’
 
-‘I don’t want to deceive you. Father’s on the river in his boat.’
+‘I don’t want to deceive you. Father’s on the [[River|river]] in his boat.’
 
 ‘At the old work?’ asked the man.
 
@@ -110,9 +110,9 @@ How’s that?’
 
 ‘I don’t want to hurt your father. I don’t want to say I might, if I
 chose. I want to speak to him. Not much in that, is there? There shall
-be no secrets from you; you shall be by. And plainly, Miss Riderhood,
+be no [[Secrets|secrets]] from you; you shall be by. And plainly, Miss Riderhood,
 there’s nothing to be got out of me, or made of me. I am not good for
-the Leaving Shop, I am not good for the Boarding-House, I am not good
+the Leaving Shop, I am not good for the Boarding-[[house|House]], I am not good
 for anything in your way to the extent of sixpenn’orth of halfpence. Put
 the idea aside, and we shall get on together.’
 
@@ -138,11 +138,11 @@ appearance.
 
 Pleasant answered with a short dumb nod. He rejoined with another short
 dumb nod. Then he got up and stood with his arms folded, in front of
-the fire, looking down into it occasionally, as she stood with her arms
+the [[Fire|fire]], looking down into it occasionally, as she stood with her arms
 folded, leaning against the side of the chimney-piece.
 
-‘To wile away the time till your father comes,’ he said,—‘pray is there
-much robbing and murdering of seamen about the water-side now?’
+‘To wile away the [[Time|time]] till your father comes,’ he said,—‘pray is there
+much robbing and murdering of seamen about the [[Water|water]]-side now?’
 
 ‘No,’ said Pleasant.
 
@@ -160,13 +160,13 @@ without it.’
 ‘You’re right. Their money may be soon got out of them, without
 violence,’ said the man.
 
-‘Of course it may,’ said Pleasant; ‘and then they ship again and get
-more. And the best thing for ’em, too, to ship again as soon as ever
-they can be brought to it. They’re never so well off as when they’re
+‘Of course it may,’ said Pleasant; ‘and then they [[Ship|ship]] again and get
+more. And the best thing for ’em, too, to [[Ship|ship]] again as soon as ever
+they can be brought to it. They’re never so [[Well|well]] off as when they’re
 afloat.’
 
 ‘I’ll tell you why I ask,’ pursued the visitor, looking up from the
-fire. ‘I was once beset that way myself, and left for dead.’
+[[Fire|fire]]. ‘I was once beset that way myself, and left for dead.’
 
 ‘No?’ said Pleasant. ‘Where did it happen?’
 

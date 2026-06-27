@@ -22,8 +22,8 @@ There was an empty room above-stairs at the wooden Midshipman’s, which,
 in days of yore, had been Walter’s bedroom. Walter, rousing up the
 Captain betimes in the morning, proposed that they should carry thither
 such furniture out of the little parlour as would grace it best, so
-that Florence might take possession of it when she rose. As nothing
-could be more agreeable to Captain Cuttle than making himself very red
+that Florence might take possession of it when she [[Rose|rose]]. As nothing
+could be more agreeable to [[Captain Cuttle]] than making himself very red
 and short of breath in such a cause, he turned to (as he himself said)
 with a will; and, in a couple of hours, this garret was transformed
 into a species of land-cabin, adorned with all the choicest moveables
@@ -32,7 +32,7 @@ Captain hung up over the chimney-piece with such extreme delight, that
 he could do nothing for half-an-hour afterwards but walk backward from
 it, lost in admiration.
 
-The Captain could be induced by no persuasion of Walter’s to wind up
+The Captain could be induced by no [[Persuasion|persuasion]] of Walter’s to [[Wind|wind]] up
 the big watch, or to take back the canister, or to touch the
 sugar-tongs and teaspoons. “No, no, my lad;” was the Captain’s
 invariable reply to any solicitation of the kind, “I’ve made that there
@@ -49,13 +49,13 @@ shutters being taken down. The latter ceremony, however little
 importance the unconscious Captain attached to it, was not wholly
 superfluous; for, on the previous day, so much excitement had been
 occasioned in the neighbourhood, by the shutters remaining unopened,
-that the Instrument-maker’s house had been honoured with an unusual
+that the Instrument-maker’s [[house]] had been honoured with an unusual
 share of public observation, and had been intently stared at from the
-opposite side of the way, by groups of hungry gazers, at any time
+opposite side of the way, by groups of hungry gazers, at any [[Time|time]]
 between sunrise and sunset. The idlers and vagabonds had been
 particularly interested in the Captain’s fate; constantly grovelling in
 the mud to apply their eyes to the cellar-grating, under the
-shop-window, and delighting their imaginations with the fancy that they
+shop-[[Window|window]], and delighting their imaginations with the fancy that they
 could see a piece of his coat as he hung in a corner; though this
 settlement of him was stoutly disputed by an opposite faction, who were
 of opinion that he lay murdered with a hammer, on the stairs. It was
@@ -69,10 +69,10 @@ say to an opposite neighbour, that the chap in the glazed hat had
 better not try it on there—without more particularly mentioning
 what—and further, that he, the beadle, would keep his eye upon him.
 
-“Captain Cuttle,” said Walter, musing, when they stood resting from
+“[[Captain Cuttle]],” said Walter, musing, when they stood resting from
 their labours at the shop-door, looking down the old familiar street;
 it being still early in the morning; “nothing at all of Uncle Sol, in
-all that time!”
+all that [[Time|time]]!”
 
 “Nothing at all, my lad,” replied the Captain, shaking his head.
 
@@ -82,30 +82,30 @@ gave me,” taking the paper from his pocket, which had been opened in
 the presence of the enlightened Bunsby, “that if you never hear from
 him before opening it, you may believe him dead. Heaven forbid! But you
 would have heard of him, even if he were dead! Someone would have
-written, surely, by his desire, if he could not; and have said, ‘on
-such a day, there died in my house,’ or ‘under my care,’ or so forth,
-‘Mr Solomon Gills of London, who left this last remembrance and this
+written, surely, by his [[Desire|desire]], if he could not; and have said, ‘on
+such a day, there died in my [[house]],’ or ‘under my care,’ or so forth,
+‘Mr [[Solomon Gills]] of [[London]], who left this last remembrance and this
 last request to you’.”
 
 The Captain, who had never climbed to such a clear height of
 probability before, was greatly impressed by the wide prospect it
-opened, and answered, with a thoughtful shake of his head, “Well said,
-my lad; wery well said.”
+opened, and answered, with a thoughtful shake of his head, “[[Well]] said,
+my lad; wery [[Well|well]] said.”
 
 “I have been thinking of this, or, at least,” said Walter, colouring,
 “I have been thinking of one thing and another, all through a sleepless
-night, and I cannot believe, Captain Cuttle, but that my Uncle Sol
-(Lord bless him!) is alive, and will return. I don’t so much wonder at
+[[Night|night]], and I cannot believe, [[Captain Cuttle]], but that my Uncle Sol
+(Lord bless him!) is alive, and will return. I don’t so much [[Wonder|wonder]] at
 his going away, because, leaving out of consideration that spice of the
 marvellous which was always in his character, and his great affection
 for me, before which every other consideration of his life became
-nothing, as no one ought to know so well as I who had the best of
+nothing, as no one ought to know so [[Well|well]] as I who had the best of
 fathers in him,”—Walter’s voice was indistinct and husky here, and he
 looked away, along the street,—“leaving that out of consideration, I
 say, I have often read and heard of people who, having some near and
 dear relative, who was supposed to be shipwrecked at sea, have gone
 down to live on that part of the sea-shore where any tidings of the
-missing ship might be expected to arrive, though only an hour or two
+missing [[Ship|ship]] might be expected to arrive, though only an hour or two
 sooner than elsewhere, or have even gone upon her track to the place
 whither she was bound, as if their going would create intelligence. I
 think I should do such a thing myself, as soon as another, or sooner
@@ -113,7 +113,7 @@ than many, perhaps. But why my Uncle shouldn’t write to you, when he so
 clearly intended to do so, or how he should die abroad, and you not
 know it through some other hand, I cannot make out.”
 
-Captain Cuttle observed, with a shake of his head, that Jack Bunsby
+[[Captain Cuttle]] observed, with a shake of his head, that Jack Bunsby
 himself hadn’t made it out, and that he was a man as could give a
 pretty taut opinion too.
 
@@ -122,14 +122,14 @@ jovial company to some drinking-place, where he was to be got rid of
 for the sake of what money he might have about him,” said Walter; “or
 if he had been a reckless sailor, going ashore with two or three
 months’ pay in his pocket, I could understand his disappearing, and
-leaving no trace behind. But, being what he was—and is, I hope—I can’t
+leaving no trace behind. But, being what he was—and is, I [[Hope|hope]]—I can’t
 believe it.”
 
 “Wal”r, my lad,” inquired the Captain, wistfully eyeing him as he
 pondered and pondered, “what do you make of it, then?”
 
-“Captain Cuttle,” returned Walter, “I don’t know what to make of it. I
-suppose he never has written! There is no doubt about that?”
+“[[Captain Cuttle]],” returned Walter, “I don’t know what to make of it. I
+suppose he never has written! There is no [[Doubt|doubt]] about that?”
 
 “If so be as Sol Gills wrote, my lad,” replied the Captain,
 argumentatively, “where’s his dispatch?”
@@ -137,28 +137,28 @@ argumentatively, “where’s his dispatch?”
 “Say that he entrusted it to some private hand,” suggested Walter, “and
 that it has been forgotten, or carelessly thrown aside, or lost. Even
 that is more probable to me, than the other event. In short, I not only
-cannot bear to contemplate that other event, Captain Cuttle, but I
+cannot bear to contemplate that other event, [[Captain Cuttle]], but I
 can’t, and won’t.”
 
-“Hope, you see, Wal”r,” said the Captain, sagely, “Hope. It’s that as
-animates you. Hope is a buoy, for which you overhaul your Little
+“[[Hope]], you see, Wal”r,” said the Captain, sagely, “[[Hope]]. It’s that as
+animates you. [[Hope]] is a buoy, for which you overhaul your Little
 Warbler, sentimental diwision, but Lord, my lad, like any other buoy,
 it only floats; it can’t be steered nowhere. Along with the figure-head
-of Hope,” said the Captain, “there’s a anchor; but what’s the good of
-my having a anchor, if I can’t find no bottom to let it go in?”
+of [[Hope]],” said the Captain, “there’s a anchor; but what’s the good of
+my having a anchor, if I can’t find no [[Bottom|bottom]] to let it go in?”
 
-Captain Cuttle said this rather in his character of a sagacious citizen
+[[Captain Cuttle]] said this rather in his character of a sagacious citizen
 and householder, bound to impart a morsel from his stores of wisdom to
 an inexperienced youth, than in his own proper person. Indeed, his face
-was quite luminous as he spoke, with new hope, caught from Walter; and
+was quite luminous as he spoke, with new [[Hope|hope]], caught from Walter; and
 he appropriately concluded by slapping him on the back; and saying,
 with enthusiasm, “Hooroar, my lad! Indiwidually, I’m o’ your opinion.”
 
 Walter, with his cheerful laugh, returned the salutation, and said:
 
-“Only one word more about my Uncle at present, Captain Cuttle. I
+“Only one word more about my Uncle at present, [[Captain Cuttle]]. I
 suppose it is impossible that he can have written in the ordinary
-course—by mail packet, or ship letter, you understand—”
+course—by mail packet, or [[Ship|ship]] letter, you understand—”
 
 “Ay, ay, my lad,” said the Captain approvingly.
 
@@ -167,14 +167,14 @@ course—by mail packet, or ship letter, you understand—”
 “Why, Wal”r,” said the Captain, turning his eyes upon him with a faint
 approach to a severe expression, “ain’t I been on the look-out for any
 tidings of that man o’ science, old Sol Gills, your Uncle, day and
-night, ever since I lost him? Ain’t my heart been heavy and watchful
+[[Night|night]], ever since I lost him? Ain’t my heart been heavy and watchful
 always, along of him and you? Sleeping and waking, ain’t I been upon my
 post, and wouldn’t I scorn to quit it while this here Midshipman held
 together!”
 
-“Yes, Captain Cuttle,” replied Walter, grasping his hand, “I know you
+“Yes, [[Captain Cuttle]],” replied Walter, grasping his hand, “I know you
 would, and I know how faithful and earnest all you say and feel is. I
-am sure of it. You don’t doubt that I am as sure of it as I am that my
+am sure of it. You don’t [[Doubt|doubt]] that I am as sure of it as I am that my
 foot is again upon this door-step, or that I again have hold of this
 true hand. Do you?”
 
@@ -183,7 +183,7 @@ true hand. Do you?”
 “I’ll hazard no more conjectures,” said Walter, fervently shaking the
 hard hand of the Captain, who shook his with no less goodwill. “All I
 will add is, Heaven forbid that I should touch my Uncle’s possessions,
-Captain Cuttle! Everything that he left here, shall remain in the care
+[[Captain Cuttle]]! Everything that he left here, shall remain in the care
 of the truest of stewards and kindest of men—and if his name is not
 Cuttle, he has no name! Now, best of friends, about—Miss Dombey.”
 
@@ -192,13 +192,13 @@ and when he uttered them, all his confidence and cheerfulness appeared
 to have deserted him.
 
 “I thought, before Miss Dombey stopped me when I spoke of her father
-last night,” said Walter, “—you remember how?”
+last [[Night|night]],” said Walter, “—you remember how?”
 
-The Captain well remembered, and shook his head.
+The Captain [[Well|well]] remembered, and shook his head.
 
 “I thought,” said Walter, “before that, that we had but one hard duty
 to perform, and that it was, to prevail upon her to communicate with
-her friends, and to return home.”
+her friends, and to return [[Home|home]].”
 
 The Captain muttered a feeble “Awast!” or a “Stand by!” or something or
 other, equally pertinent to the occasion; but it was rendered so
@@ -207,7 +207,7 @@ announcement, that what it was, is mere matter of conjecture.
 
 “But,” said Walter, “that is over. I think so, no longer. I would
 sooner be put back again upon that piece of wreck, on which I have so
-often floated, since my preservation, in my dreams, and there left to
+often floated, since my preservation, in my [[Dreams|dreams]], and there left to
 drift, and drive, and die!”
 
 “Hooroar, my lad!” exclaimed the Captain, in a burst of uncontrollable
@@ -219,22 +219,22 @@ strive with the rough world! But we have seen the gulf that cuts off
 all behind her, though no one but herself can know how deep it is; and
 there is no return.”
 
-Captain Cuttle, without quite understanding this, greatly approved of
-it, and observed in a tone of strong corroboration, that the wind was
+[[Captain Cuttle]], without quite understanding this, greatly approved of
+it, and observed in a tone of strong corroboration, that the [[Wind|wind]] was
 quite abaft.
 
-“She ought not to be alone here; ought she, Captain Cuttle?” said
+“She ought not to be [[Alone|alone]] here; ought she, [[Captain Cuttle]]?” said
 Walter, anxiously.
 
-“Well, my lad,” replied the Captain, after a little sagacious
+“[[Well]], my lad,” replied the Captain, after a little sagacious
 consideration. “I don’t know. You being here to keep her company, you
 see, and you two being jintly—”
 
-“Dear Captain Cuttle!” remonstrated Walter. “I being here! Miss Dombey,
-in her guileless innocent heart, regards me as her adopted brother; but
-what would the guile and guilt of my heart be, if I pretended to
+“Dear [[Captain Cuttle]]!” remonstrated Walter. “I being here! Miss Dombey,
+in her guileless [[Innocent|innocent]] heart, regards me as her adopted brother; but
+what would the guile and [[Guilt|guilt]] of my heart be, if I pretended to
 believe that I had any right to approach her, familiarly, in that
-character—if I pretended to forget that I am bound, in honour, not to
+character—if I pretended to forget that I am bound, in [[Honour|honour]], not to
 do it?”
 
 “Wal”r, my lad,” hinted the Captain, with some revival of his
@@ -243,28 +243,28 @@ discomfiture, “ain’t there no other character as—”
 “Oh!” returned Walter, “would you have me die in her esteem—in such
 esteem as hers—and put a veil between myself and her angel’s face for
 ever, by taking advantage of her being here for refuge, so trusting and
-so unprotected, to endeavour to exalt myself into her lover? What do I
+so unprotected, to endeavour to exalt myself into her [[Lover|lover]]? What do I
 say? There is no one in the world who would be more opposed to me if I
 could do so, than you.”
 
 “Wal”r, my lad,” said the Captain, drooping more and more, “prowiding
 as there is any just cause or impediment why two persons should not be
-jined together in the house of bondage, for which you’ll overhaul the
-place and make a note, I hope I should declare it as promised and wowed
+jined together in the [[house]] of bondage, for which you’ll overhaul the
+place and make a note, I [[Hope|hope]] I should declare it as promised and wowed
 in the banns. So there ain’t no other character; ain’t there, my lad?”
 
 Walter briskly waved his hand in the negative.
 
-“Well, my lad,” growled the Captain slowly, “I won’t deny but what I
+“[[Well]], my lad,” growled the Captain slowly, “I won’t deny but what I
 find myself wery much down by the head, along o’ this here, or but what
 I’ve gone clean about. But as to Lady lass, Wal”r, mind you, wot’s
 respect and duty to her, is respect and duty in my articles, howsumever
 disapinting; and therefore I follows in your wake, my lad, and feel as
-you are, no doubt, acting up to yourself. And there ain’t no other
+you are, no [[Doubt|doubt]], acting up to yourself. And there ain’t no other
 character, ain’t there?” said the Captain, musing over the ruins of his
-fallen castle, with a very despondent face.
+fallen [[Castle|castle]], with a very despondent face.
 
-“Now, Captain Cuttle,” said Walter, starting a fresh point with a gayer
+“Now, [[Captain Cuttle]],” said Walter, starting a fresh point with a gayer
 air, to cheer the Captain up—but nothing could do that; he was too much
 concerned—“I think we should exert ourselves to find someone who would
 be a proper attendant for Miss Dombey while she remains here, and who
@@ -274,7 +274,7 @@ that they are all subservient to her father. What has become of Susan?”
 “The young woman?” returned the Captain. “It’s my belief as she was
 sent away again the will of Heart’s Delight. I made a signal for her
 when Lady lass first come, and she rated of her wery high, and said she
-had been gone a long time.”
+had been gone a long [[Time|time]].”
 
 “Then,” said Walter, “do you ask Miss Dombey where she’s gone, and
 we’ll try to find her. The morning’s getting on, and Miss Dombey will
@@ -288,14 +288,14 @@ her old friend Susan. But Florence could not say where Susan was gone,
 except that it was in Essex, and no one could say, she remembered,
 unless it were Mr Toots.
 
-With this information the melancholy Captain returned to Walter, and
+With this information the [[Melancholy|melancholy]] Captain returned to Walter, and
 gave him to understand that Mr Toots was the young gentleman whom he
 had encountered on the door-step, and that he was a friend of his, and
 that he was a young gentleman of property, and that he hopelessly
 adored Miss Dombey. The Captain also related how the intelligence of
 Walter’s supposed fate had first made him acquainted with Mr Toots, and
 how there was solemn treaty and compact between them, that Mr Toots
-should be mute upon the subject of his love.
+should be mute upon the subject of his [[Love|love]].
 
 The question then was, whether Florence could trust Mr Toots; and
 Florence saying, with a smile, “Oh, yes, with her whole heart!” it
@@ -346,7 +346,7 @@ that he and Miss Dombey were made for one another?”
 “Why, ay, my lad,” replied the disconsolate Captain; “I was of that
 mind once.”
 
-“And at this time!” exclaimed Mr Toots, with his hand to his forehead
+“And at this [[Time|time]]!” exclaimed Mr Toots, with his hand to his forehead
 again. “Of all others!—a hated rival! At least, he ain’t a hated
 rival,” said Mr Toots, stopping short, on second thoughts, and taking
 away his hand; “what should I hate him for? No. If my affection has
@@ -355,18 +355,18 @@ been truly disinterested, Captain Gills, let me prove it now!”
 Mr Toots shot back abruptly into the parlour, and said, wringing Walter
 by the hand:
 
-“How-de-do? I hope you didn’t take any cold. I—I shall be very glad if
+“How-de-do? I [[Hope|hope]] you didn’t take any cold. I—I shall be very glad if
 you’ll give me the pleasure of your acquaintance. I wish you many happy
-returns of the day. Upon my word and honour,” said Mr Toots, warming as
+returns of the day. Upon my word and [[Honour|honour]],” said Mr Toots, warming as
 he became better acquainted with Walter’s face and figure, “I’m very
 glad to see you!”
 
-“Thank you, heartily,” said Walter. “I couldn’t desire a more genuine
+“Thank you, heartily,” said Walter. “I couldn’t [[Desire|desire]] a more genuine
 and genial welcome.”
 
 “Couldn’t you, though?” said Mr Toots, still shaking his hand. “It’s
-very kind of you. I’m much obliged to you. How-de-do? I hope you left
-everybody quite well over the—that is, upon the—I mean wherever you
+very kind of you. I’m much obliged to you. How-de-do? I [[Hope|hope]] you left
+everybody quite [[Well|well]] over the—that is, upon the—I mean wherever you
 came from last, you know.”
 
 All these good wishes, and better intentions, Walter responded to
@@ -380,7 +380,7 @@ subject that—”
 
 “Then, Captain Gills,” said Mr Toots, “and Lieutenant Walters—are you
 aware that the most dreadful circumstances have been happening at Mr
-Dombey’s house, and that Miss Dombey herself has left her father, who,
+Dombey’s [[house]], and that Miss Dombey herself has left her father, who,
 in my opinion,” said Mr Toots, with great excitement, “is a Brute, that
 it would be a flattery to call a—a marble monument, or a bird of
 prey,—and that she is not to be found, and has gone no one knows
@@ -395,40 +395,40 @@ relationship between him and the Captain, which would extend, as a
 matter of course, to their titles; “Lieutenant Walters, I can have no
 objection to make a straightforward reply. The fact is, that feeling
 extremely interested in everything that relates to Miss Dombey—not for
-any selfish reason, Lieutenant Walters, for I am well aware that the
+any selfish reason, Lieutenant Walters, for I am [[Well|well]] aware that the
 most able thing I could do for all parties would be to put an end to my
 existence, which can only be regarded as an inconvenience—I have been
 in the habit of bestowing a trifle now and then upon a footman; a most
 respectable young man, of the name of Towlinson, who has lived in the
-family some time; and Towlinson informed me, yesterday evening, that
+family some [[Time|time]]; and Towlinson informed me, yesterday evening, that
 this was the state of things. Since which, Captain Gills—and Lieutenant
 Walters—I have been perfectly frantic, and have been lying down on the
-sofa all night, the Ruin you behold.”
+sofa all [[Night|night]], the Ruin you behold.”
 
 “Mr Toots,” said Walter, “I am happy to be able to relieve your mind.
-Pray calm yourself. Miss Dombey is safe and well.”
+Pray calm yourself. Miss Dombey is safe and [[Well|well]].”
 
 “Sir!” cried Mr Toots, starting from his chair and shaking hands with
 him anew, “the relief is so excessive, and unspeakable, that if you
 were to tell me now that Miss Dombey was married even, I could smile.
-Yes, Captain Gills,” said Mr Toots, appealing to him, “upon my soul and
-body, I really think, whatever I might do to myself immediately
+Yes, Captain Gills,” said Mr Toots, appealing to him, “upon my [[Soul|soul]] and
+[[Body|body]], I really think, whatever I might do to myself immediately
 afterwards, that I could smile, I am so relieved.”
 
 “It will be a greater relief and delight still, to such a generous mind
 as yours,” said Walter, not at all slow in returning his greeting, “to
-find that you can render service to Miss Dombey. Captain Cuttle, will
+find that you can render service to Miss Dombey. [[Captain Cuttle]], will
 you have the kindness to take Mr Toots upstairs?”
 
 The Captain beckoned to Mr Toots, who followed him with a bewildered
-countenance, and, ascending to the top of the house, was introduced,
+countenance, and, ascending to the top of the [[house]], was introduced,
 without a word of preparation from his conductor, into Florence’s new
 retreat.
 
 Poor Mr Toots’s amazement and pleasure at sight of her were such, that
 they could find a vent in nothing but extravagance. He ran up to her,
 seized her hand, kissed it, dropped it, seized it again, fell upon one
-knee, shed tears, chuckled, and was quite regardless of his danger of
+knee, shed [[Tears|tears]], chuckled, and was quite regardless of his danger of
 being pinned by Diogenes, who, inspired by the belief that there was
 something hostile to his mistress in these demonstrations, worked round
 and round him, as if only undecided at what particular point to go in
@@ -437,19 +437,19 @@ for the assault, but quite resolved to do him a fearful mischief.
 “Oh Di, you bad, forgetful dog! Dear Mr Toots, I am so rejoiced to see
 you!”
 
-“Thankee,” said Mr Toots, “I am pretty well, I’m much obliged to you,
-Miss Dombey. I hope all the family are the same.”
+“Thankee,” said Mr Toots, “I am pretty [[Well|well]], I’m much obliged to you,
+Miss Dombey. I [[Hope|hope]] all the family are the same.”
 
 Mr Toots said this without the least notion of what he was talking
 about, and sat down on a chair, staring at Florence with the liveliest
-contention of delight and despair going on in his face that any face
+contention of delight and [[Despair|despair]] going on in his face that any face
 could exhibit.
 
 “Captain Gills and Lieutenant Walters have mentioned, Miss Dombey,”
 gasped Mr Toots, “that I can do you some service. If I could by any
 means wash out the remembrance of that day at Brighton, when I
 conducted myself—much more like a Parricide than a person of
-independent property,” said Mr Toots, with severe self-accusation, “I
+independent property,” said Mr Toots, with severe [[Self|self]]-accusation, “I
 should sink into the silent tomb with a gleam of joy.”
 
 “Pray, Mr Toots,” said Florence, “do not wish me to forget anything in
@@ -480,7 +480,7 @@ though she did not forbear to overpower him with thanks; and Mr Toots
 proudly took the commission upon himself for immediate execution.
 
 “Miss Dombey,” said Mr Toots, touching her proffered hand, with a pang
-of hopeless love visibly shooting through him, and flashing out in his
+of hopeless [[Love|love]] visibly shooting through him, and flashing out in his
 face, “Good-bye! Allow me to take the liberty of saying, that your
 misfortunes make me perfectly wretched, and that you may trust me, next
 to Captain Gills himself. I am quite aware, Miss Dombey, of my own
@@ -493,8 +493,8 @@ arm and arranging his scattered locks with his hook, had been a not
 uninterested witness of what passed. And when the door closed behind
 them, the light of Mr Toots’s life was darkly clouded again.
 
-“Captain Gills,” said that gentleman, stopping near the bottom of the
-stairs, and turning round, “to tell you the truth, I am not in a frame
+“Captain Gills,” said that gentleman, stopping near the [[Bottom|bottom]] of the
+stairs, and turning round, “to tell you the [[Truth|truth]], I am not in a frame
 of mind at the present moment, in which I could see Lieutenant Walters
 with that entirely friendly feeling towards him that I should wish to
 harbour in my breast. We cannot always command our feelings, Captain
@@ -506,7 +506,7 @@ Wotever course you take, is plain and seamanlike, I’m wery sure.”
 
 “Captain Gills,” said Mr Toots, “you’re extremely kind. Your good
 opinion is a consolation to me. There is one thing,” said Mr Toots,
-standing in the passage, behind the half-opened door, “that I hope
+standing in the passage, behind the half-opened door, “that I [[Hope|hope]]
 you’ll bear in mind, Captain Gills, and that I should wish Lieutenant
 Walters to be made acquainted with. I have quite come into my property
 now, you know, and—and I don’t know what to do with it. If I could be
@@ -517,25 +517,25 @@ Mr Toots said no more, but slipped out quietly and shut the door upon
 himself, to cut the Captain off from any reply.
 
 Florence thought of this good creature, long after he had left her,
-with mingled emotions of pain and pleasure. He was so honest and
-warm-hearted, that to see him again and be assured of his truth to her
+with mingled emotions of [[Pain|pain]] and pleasure. He was so honest and
+warm-hearted, that to see him again and be assured of his [[Truth|truth]] to her
 in her distress, was a joy and comfort beyond all price; but for that
 very reason, it was so affecting to think that she caused him a
 moment’s unhappiness, or ruffled, by a breath, the harmless current of
-his life, that her eyes filled with tears, and her bosom overflowed
-with pity. Captain Cuttle, in his different way, thought much of Mr
+his life, that her eyes filled with [[Tears|tears]], and her bosom overflowed
+with pity. [[Captain Cuttle]], in his different way, thought much of Mr
 Toots too; and so did Walter; and when the evening came, and they were
 all sitting together in Florence’s new room, Walter praised him in a
 most impassioned manner, and told Florence what he had said on leaving
-the house, with every graceful setting-off in the way of comment and
+the [[house]], with every graceful setting-off in the way of comment and
 appreciation that his own honesty and sympathy could surround it with.
 
 Mr Toots did not return upon the next day, or the next, or for several
 days; and in the meanwhile Florence, without any new alarm, lived like
-a quiet bird in a cage, at the top of the old Instrument-maker’s house.
+a quiet bird in a cage, at the top of the old Instrument-maker’s [[house]].
 But Florence drooped and hung her head more and more plainly, as the
 days went on; and the expression that had been seen in the face of the
-dead child, was often turned to the sky from her high window, as if it
+dead [[Child|child]], was often turned to the sky from her high [[Window|window]], as if it
 sought his angel out, on the bright shore of which he had spoken: lying
 on his little bed.
 
@@ -549,21 +549,21 @@ showing all this with the enthusiasm and ardour of his character,
 Florence saw that he avoided her. All the long day through, he seldom
 approached her room. If she asked for him, he came, again for the
 moment as earnest and as bright as she remembered him when she was a
-lost child in the staring streets; but he soon became constrained—her
+lost [[Child|child]] in the staring streets; but he soon became constrained—her
 quick affection was too watchful not to know it—and uneasy, and soon
 left her. Unsought, he never came, all day, between the morning and the
-night. When the evening closed in, he was always there, and that was
-her happiest time, for then she half believed that the old Walter of
-her childhood was not changed. But, even then, some trivial word, look,
+[[Night|night]]. When the evening closed in, he was always there, and that was
+her happiest [[Time|time]], for then she half believed that the old Walter of
+her [[Childhood|childhood]] was not changed. But, even then, some trivial word, look,
 or circumstance would show her that there was an indefinable division
 between them which could not be passed.
 
 And she could not but see that these revealings of a great alteration
 in Walter manifested themselves in despite of his utmost efforts to
 hide them. In his consideration for her, she thought, and in the
-earnestness of his desire to spare her any wound from his kind hand, he
+earnestness of his [[Desire|desire]] to spare her any wound from his kind hand, he
 resorted to innumerable little artifices and disguises. So much the
-more did Florence feel the greatness of the alteration in him; so much
+more did Florence feel the [[Greatness|greatness]] of the alteration in him; so much
 the oftener did she weep at this estrangement of her brother.
 
 The good Captain—her untiring, tender, ever zealous friend—saw it, too,
@@ -578,7 +578,7 @@ a relief to her full heart, and would set him more at ease, if she told
 him she had found it out, and quite submitted to it, and did not
 reproach him.
 
-It was on a certain Sunday afternoon, that Florence took this
+It was on a certain [[Sunday]] afternoon, that Florence took this
 resolution. The faithful Captain, in an amazing shirt-collar, was
 sitting by her, reading with his spectacles on, and she asked him where
 Walter was.
@@ -588,32 +588,32 @@ Walter was.
 “I should like to speak to him,” said Florence, rising hurriedly as if
 to go downstairs.
 
-“I’ll rouse him up here, Beauty,” said the Captain, “in a trice.”
+“I’ll rouse him up here, [[Beauty]],” said the Captain, “in a trice.”
 
 Thereupon the Captain, with much alacrity, shouldered his book—for he
-made it a point of duty to read none but very large books on a Sunday,
+made it a point of duty to read none but very large books on a [[Sunday]],
 as having a more staid appearance: and had bargained, years ago, for a
 prodigious volume at a book-stall, five lines of which utterly
-confounded him at any time, insomuch that he had not yet ascertained of
+confounded him at any [[Time|time]], insomuch that he had not yet ascertained of
 what subject it treated—and withdrew. Walter soon appeared.
 
-“Captain Cuttle tells me, Miss Dombey,” he eagerly began on coming
+“[[Captain Cuttle]] tells me, Miss Dombey,” he eagerly began on coming
 in—but stopped when he saw her face.
 
-“You are not so well today. You look distressed. You have been
+“You are not so [[Well|well]] today. You look distressed. You have been
 weeping.”
 
 He spoke so kindly, and with such a fervent tremor in his voice, that
-the tears gushed into her eyes at the sound of his words.
+the [[Tears|tears]] gushed into her eyes at the sound of his words.
 
-“Walter,” said Florence, gently, “I am not quite well, and I have been
+“Walter,” said Florence, gently, “I am not quite [[Well|well]], and I have been
 weeping. I want to speak to you.”
 
-He sat down opposite to her, looking at her beautiful and innocent
+He sat down opposite to her, looking at her beautiful and [[Innocent|innocent]]
 face; and his own turned pale, and his lips trembled.
 
-“You said, upon the night when I knew that you were saved—and oh! dear
-Walter, what I felt that night, and what I hoped!—”
+“You said, upon the [[Night|night]] when I knew that you were saved—and oh! dear
+Walter, what I felt that [[Night|night]], and what I hoped!—”
 
 He put his trembling hand upon the table between them, and sat looking
 at her.
@@ -622,16 +622,16 @@ at her.
 understand, now, that I am. Don’t be angry with me, Walter. I was too
 much overjoyed to think of it, then.”
 
-She seemed a child to him again. It was the ingenuous, confiding,
-loving child he saw and heard. Not the dear woman, at whose feet he
+She seemed a [[Child|child]] to him again. It was the ingenuous, confiding,
+loving [[Child|child]] he saw and heard. Not the dear woman, at whose feet he
 would have laid the riches of the earth.
 
-“You remember the last time I saw you, Walter, before you went away?”
+“You remember the last [[Time|time]] I saw you, Walter, before you went away?”
 
 He put his hand into his breast, and took out a little purse.
 
 “I have always worn it round my neck! If I had gone down in the deep,
-it would have been with me at the bottom of the sea.”
+it would have been with me at the [[Bottom|bottom]] of the sea.”
 
 “And you will wear it still, Walter, for my old sake?”
 
@@ -642,7 +642,7 @@ intervened since she gave him the little token of remembrance.
 
 “I am glad of that. I shall be always glad to think so, Walter. Do you
 recollect that a thought of this change seemed to come into our minds
-at the same time that evening, when we were talking together?”
+at the same [[Time|time]] that evening, when we were talking together?”
 
 “No!” he answered, in a wondering tone.
 
@@ -652,31 +652,31 @@ able, then, in your generosity, to hide from me that you knew it too,
 you cannot do so now, although you try as generously as before. You do.
 I thank you for it, Walter, deeply, truly; but you cannot succeed. You
 have suffered too much in your own hardships, and in those of your
-dearest relation, quite to overlook the innocent cause of all the peril
+dearest relation, quite to overlook the [[Innocent|innocent]] cause of all the peril
 and affliction that has befallen you. You cannot quite forget me in
 that character, and we can be brother and sister no longer. But, dear
 Walter, do not think that I complain of you in this. I might have known
-it—ought to have known it—but forgot it in my joy. All I hope is that
+it—ought to have known it—but forgot it in my joy. All I [[Hope|hope]] is that
 you may think of me less irksomely when this feeling is no more a
-secret one; and all I ask is, Walter, in the name of the poor child who
+secret one; and all I ask is, Walter, in the name of the poor [[Child|child]] who
 was your sister once, that you will not struggle with yourself, and
-pain yourself, for my sake, now that I know all!”
+[[Pain|pain]] yourself, for my sake, now that I know all!”
 
 Walter had looked upon her while she said this, with a face so full of
-wonder and amazement, that it had room for nothing else. Now he caught
+[[Wonder|wonder]] and amazement, that it had room for nothing else. Now he caught
 up the hand that touched his, so entreatingly, and held it between his
 own.
 
 “Oh, Miss Dombey,” he said, “is it possible that while I have been
-suffering so much, in striving with my sense of what is due to you, and
+[[Suffering|suffering]] so much, in striving with my sense of what is due to you, and
 must be rendered to you, I have made you suffer what your words
 disclose to me? Never, never, before Heaven, have I thought of you but
 as the single, bright, pure, blessed recollection of my boyhood and my
 youth. Never have I from the first, and never shall I to the last,
 regard your part in my life, but as something sacred, never to be
-lightly thought of, never to be esteemed enough, never, until death, to
+lightly thought of, never to be esteemed enough, never, until [[Death|death]], to
 be forgotten. Again to see you look, and hear you speak, as you did on
-that night when we parted, is happiness to me that there are no words
+that [[Night|night]] when we parted, is happiness to me that there are no words
 to utter; and to be loved and trusted as your brother, is the next gift
 I could receive and prize!”
 
@@ -690,12 +690,12 @@ The colour dawned in her face, and she timidly and thoughtfully
 withdrew her hand; still looking at him with unabated earnestness.
 
 “I have not a brother’s right,” said Walter. “I have not a brother’s
-claim. I left a child. I find a woman.”
+claim. I left a [[Child|child]]. I find a woman.”
 
 The colour overspread her face. She made a gesture as if of entreaty
 that he would say no more, and her face dropped upon her hands.
 
-They were both silent for a time; she weeping.
+They were both silent for a [[Time|time]]; she weeping.
 
 “I owe it to a heart so trusting, pure, and good,” said Walter, “even
 to tear myself from it, though I rend my own. How dare I say it is my
@@ -708,35 +708,35 @@ admiring friends, and by all that makes the station you were born to
 enviable,” said Walter; “and if you had called me brother, then, in
 your affectionate remembrance of the past, I could have answered to the
 name from my distant place, with no inward assurance that I wronged
-your spotless truth by doing so. But here—and now!”
+your spotless [[Truth|truth]] by doing so. But here—and now!”
 
 “Oh thank you, thank you, Walter! Forgive my having wronged you so
-much. I had no one to advise me. I am quite alone.”
+much. I had no one to advise me. I am quite [[Alone|alone]].”
 
 “Florence!” said Walter, passionately. “I am hurried on to say, what I
 thought, but a few moments ago, nothing could have forced from my lips.
-If I had been prosperous; if I had any means or hope of being one day
+If I had been prosperous; if I had any means or [[Hope|hope]] of being one day
 able to restore you to a station near your own; I would have told you
 that there was one name you might bestow upon—me—a right above all
 others, to protect and cherish you—that I was worthy of in nothing but
-the love and honour that I bore you, and in my whole heart being yours.
+the [[Love|love]] and [[Honour|honour]] that I bore you, and in my whole heart being yours.
 I would have told you that it was the only claim that you could give me
 to defend and guard you, which I dare accept and dare assert; but that
 if I had that right, I would regard it as a trust so precious and so
-priceless, that the undivided truth and fervour of my life would poorly
+priceless, that the undivided [[Truth|truth]] and fervour of my life would poorly
 acknowledge its worth.”
 
-The head was still bent down, the tears still falling, and the bosom
+The head was still bent down, the [[Tears|tears]] still falling, and the bosom
 swelling with its sobs.
 
 “Dear Florence! Dearest Florence! whom I called so in my thoughts
-before I could consider how presumptuous and wild it was. One last time
+before I could consider how presumptuous and wild it was. One last [[Time|time]]
 let me call you by your own dear name, and touch this gentle hand in
 token of your sisterly forgetfulness of what I have said.”
 
 She raised her head, and spoke to him with such a solemn sweetness in
 her eyes; with such a calm, bright, placid smile shining on him through
-her tears; with such a low, soft tremble in her frame and voice; that
+her [[Tears|tears]]; with such a low, soft tremble in her frame and voice; that
 the innermost chords of his heart were touched, and his sight was dim
 as he listened.
 
@@ -753,38 +753,38 @@ sea. That is my calling now.”
 She sat looking at him for a moment; then timidly put her trembling
 hand in his.
 
-“If you will take me for your wife, Walter, I will love you dearly. If
+“If you will take me for your wife, Walter, I will [[Love|love]] you dearly. If
 you will let me go with you, Walter, I will go to the world’s end
-without fear. I can give up nothing for you—I have nothing to resign,
-and no one to forsake; but all my love and life shall be devoted to
+without [[Fear|fear]]. I can give up nothing for you—I have nothing to resign,
+and no one to forsake; but all my [[Love|love]] and life shall be devoted to
 you, and with my last breath I will breathe your name to God if I have
-sense and memory left.”
+sense and [[Memory|memory]] left.”
 
 He caught her to his heart, and laid her cheek against his own, and
 now, no more repulsed, no more forlorn, she wept indeed, upon the
-breast of her dear lover.
+breast of her dear [[Lover|lover]].
 
-Blessed Sunday Bells, ringing so tranquilly in their entranced and
-happy ears! Blessed Sunday peace and quiet, harmonising with the
+Blessed [[Sunday]] [[Bells]], ringing so tranquilly in their entranced and
+happy ears! Blessed [[Sunday]] peace and quiet, harmonising with the
 calmness in their souls, and making holy air around them! Blessed
 twilight stealing on, and shading her so soothingly and gravely, as she
-falls asleep, like a hushed child, upon the bosom she has clung to!
+falls asleep, like a hushed [[Child|child]], upon the bosom she has clung to!
 
-Oh load of love and trustfulness that lies to lightly there! Ay, look
+Oh load of [[Love|love]] and trustfulness that lies to lightly there! Ay, look
 down on the closed eyes, Walter, with a proudly tender gaze; for in all
 the wide wide world they seek but thee now—only thee!
 
 The Captain remained in the little parlour until it was quite dark. He
 took the chair on which Walter had been sitting, and looked up at the
 skylight, until the day, by little and little, faded away, and the
-stars peeped down. He lighted a candle, lighted a pipe, smoked it out,
+[[Stars|stars]] peeped down. He lighted a candle, lighted a pipe, smoked it out,
 and wondered what on earth was going on upstairs, and why they didn’t
 call him to tea.
 
 Florence came to his side while he was in the height of his wonderment.
 
 “Ay! lady lass!” cried the Captain. “Why, you and Wal”r have had a long
-spell o’ talk, my beauty.”
+spell o’ talk, my [[Beauty|beauty]].”
 
 Florence put her little hand round one of the great buttons of his
 coat, and said, looking down into his face:

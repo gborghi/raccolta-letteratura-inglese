@@ -19,7 +19,7 @@ Chapter 10
 THE DOLLS’ DRESSMAKER DISCOVERS A WORD
 
 
-A darkened and hushed room; the river outside the windows flowing on
+A darkened and hushed room; the [[River|river]] outside the windows flowing on
 to the vast ocean; a figure on the bed, swathed and bandaged and bound,
 lying helpless on its back, with its two useless arms in splints at its
 sides. Only two days of usage so familiarized the little dressmaker
@@ -40,7 +40,7 @@ little table placed at the foot of his bed. Sitting there, with her rich
 shower of hair falling over the chair-back, they hoped she might attract
 his notice. With the same object, she would sing, just above her breath,
 when he opened his eyes, or she saw his brow knit into that faint
-expression, so evanescent that it was like a shape made in water. But
+expression, so evanescent that it was like a shape made in [[Water|water]]. But
 as yet he had not heeded. The ‘they’ here mentioned were the medical
 attendant; Lizzie, who was there in all her intervals of rest; and
 Lightwood, who never left him.
@@ -61,7 +61,7 @@ quite unexpectedly, he said something in a whisper.
 Quite unconscious of the long blank, he supposed that they were still
 speaking together.
 
-The little dressmaker stood up at the foot of the bed, humming her song,
+The little dressmaker stood up at the foot of the bed, humming her [[Song|song]],
 and nodded to him brightly. ‘I can’t shake hands, Jenny,’ said Eugene,
 with something of his old look; ‘but I am very glad to see you.’
 
@@ -74,7 +74,7 @@ he added:
 Mortimer could not understand this, neither could Jenny herself, until
 he added:
 
-‘Ask her if she has smelt the flowers.’
+‘Ask her if she has smelt the [[Flowers|flowers]].’
 
 ‘Oh! I know!’ cried Jenny. ‘I understand him now!’ Then, Lightwood
 yielded his place to her quick approach, and she said, bending over the
@@ -85,21 +85,21 @@ used to take me up, and make me light?’
 Eugene smiled, ‘Yes.’
 
 ‘I have not seen them since I saw you. I never see them now, but I am
-hardly ever in pain now.’
+hardly ever in [[Pain|pain]] now.’
 
 ‘It was a pretty fancy,’ said Eugene.
 
-‘But I have heard my birds sing,’ cried the little creature, ‘and I have
-smelt my flowers. Yes, indeed I have! And both were most beautiful and
+‘But I have heard my [[Birds|birds]] sing,’ cried the little creature, ‘and I have
+smelt my [[Flowers|flowers]]. Yes, indeed I have! And both were most beautiful and
 most Divine!’
 
-‘Stay and help to nurse me,’ said Eugene, quietly. ‘I should like you to
+‘Stay and help to [[Nurse|nurse]] me,’ said Eugene, quietly. ‘I should like you to
 have the fancy here, before I die.’
 
 She touched his lips with her hand, and shaded her eyes with that same
-hand as she went back to her work and her little low song. He heard the
-song with evident pleasure, until she allowed it gradually to sink away
-into silence.
+hand as she went back to her work and her little low [[Song|song]]. He heard the
+[[Song|song]] with evident pleasure, until she allowed it gradually to sink away
+into [[Silence|silence]].
 
 ‘Mortimer.’
 
@@ -145,7 +145,7 @@ justice.’
 
 ‘Eugene?’
 
-‘Her innocent reputation would be ruined, my friend. She would be
+‘Her [[Innocent|innocent]] reputation would be ruined, my friend. She would be
 punished, not he. I have wronged her enough in fact; I have wronged her
 still more in intention. You recollect what pavement is said to be made
 of good intentions. It is made of bad intentions too. Mortimer, I am
@@ -158,9 +158,9 @@ pursued. If he should be accused, you must keep him silent and save
 him. Don’t think of avenging me; think only of hushing the story
 and protecting her. You can confuse the case, and turn aside the
 circumstances. Listen to what I say to you. It was not the schoolmaster,
-Bradley Headstone. Do you hear me? Twice; it was not the schoolmaster,
-Bradley Headstone. Do you hear me? Three times; it was not the
-schoolmaster, Bradley Headstone.’
+[[Bradley Headstone]]. Do you hear me? Twice; it was not the schoolmaster,
+[[Bradley Headstone]]. Do you hear me? Three times; it was not the
+schoolmaster, [[Bradley Headstone]].’
 
 He stopped, exhausted. His speech had been whispered, broken, and
 indistinct; but by a great effort he had made it plain enough to be
@@ -178,7 +178,7 @@ No matter. There is inquiry on foot, and pursuit. Say! Is there not?’
 ‘Yes.’
 
 ‘Check it; divert it! Don’t let her be brought in question. Shield
-her. The guilty man, brought to justice, would poison her name. Let the
+her. The guilty man, brought to justice, would [[Poison|poison]] her name. Let the
 guilty man go unpunished. Lizzie and my reparation before all! Promise
 me!’
 
@@ -197,7 +197,7 @@ The dolls’ dressmaker, all softened compassion now, watched him with an
 earnestness that never relaxed. She would regularly change the ice, or
 the cooling spirit, on his head, and would keep her ear at the pillow
 betweenwhiles, listening for any faint words that fell from him in his
-wanderings. It was amazing through how many hours at a time she would
+wanderings. It was amazing through how many hours at a [[Time|time]] she would
 remain beside him, in a crouching attitude, attentive to his slightest
 moan. As he could not move a hand, he could make no sign of distress;
 but, through this close watching (if through no secret sympathy or
@@ -208,29 +208,29 @@ and she would change the dressing of a wound, or ease a ligature, or
 turn his face, or alter the pressure of the bedclothes on him, with an
 absolute certainty of doing right. The natural lightness and delicacy of
 touch which had become very refined by practice in her miniature work,
-no doubt was involved in this; but her perception was at least as fine.
+no [[Doubt|doubt]] was involved in this; but her perception was at least as fine.
 
 The one word, Lizzie, he muttered millions of times. In a certain phase
 of his distressful state, which was the worst to those who tended him,
 he would roll his head upon the pillow, incessantly repeating the name
 in a hurried and impatient manner, with the misery of a disturbed mind,
-and the monotony of a machine. Equally, when he lay still and staring,
+and the monotony of a [[Machine|machine]]. Equally, when he lay still and staring,
 he would repeat it for hours without cessation, but then, always in a
 tone of subdued warning and horror. Her presence and her touch upon his
 breast or face would often stop this, and then they learned to expect
-that he would for some time remain still, with his eyes closed, and that
+that he would for some [[Time|time]] remain still, with his eyes closed, and that
 he would be conscious on opening them. But, the heavy disappointment of
-their hope—revived by the welcome silence of the room—was, that his
+their [[Hope|hope]]—revived by the welcome [[Silence|silence]] of the room—was, that his
 spirit would glide away again and be lost, in the moment of their joy
 that it was there.
 
 This frequent rising of a drowning man from the deep, to sink again, was
 dreadful to the beholders. But, gradually the change stole upon him that
-it became dreadful to himself. His desire to impart something that was
+it became dreadful to himself. His [[Desire|desire]] to impart something that was
 on his mind, his unspeakable yearning to have speech with his friend
 and make a communication to him, so troubled him when he recovered
 consciousness, that its term was thereby shortened. As the man rising
-from the deep would disappear the sooner for fighting with the water, so
+from the deep would disappear the sooner for fighting with the [[Water|water]], so
 he in his desperate struggle went down again.
 
 One afternoon when he had been lying still, and Lizzie, unrecognized,
@@ -244,7 +244,7 @@ Lightwood’s name.
 Lightwood shook his head. ‘Still, Eugene, you are no worse than you
 were.’
 
-‘But I know there’s no hope. Yet I pray it may last long enough for you
+‘But I know there’s no [[Hope|hope]]. Yet I pray it may last long enough for you
 to do me one last service, and for me to do one last action. Keep me
 here a few moments, Mortimer. Try, try!’
 
@@ -298,7 +298,7 @@ He stooped, and she whispered in his ear. She whispered in his ear one
 short word of a single syllable. Lightwood started, and looked at her.
 
 ‘Try it,’ said the little creature, with an excited and exultant face.
-She then bent over the unconscious man, and, for the first time, kissed
+She then bent over the unconscious man, and, for the first [[Time|time]], kissed
 him on the cheek, and kissed the poor maimed hand that was nearest to
 her. Then, she withdrew to the foot of the bed.
 
@@ -340,16 +340,16 @@ her.
 Eugene; while I am away you will know that I have discharged my trust
 with Lizzie, by finding her here, in my present place at your bedside,
 to leave you no more. A final word before I go. This is the right course
-of a true man, Eugene. And I solemnly believe, with all my soul, that if
-Providence should mercifully restore you to us, you will be blessed with
-a noble wife in the preserver of your life, whom you will dearly love.’
+of a true man, Eugene. And I solemnly believe, with all my [[Soul|soul]], that if
+[[Providence]] should mercifully restore you to us, you will be blessed with
+a noble wife in the preserver of your life, whom you will dearly [[Love|love]].’
 
 ‘Amen. I am sure of that. But I shall not come through it, Mortimer.’
 
 ‘You will not be the less hopeful or less strong, for this, Eugene.’
 
 ‘No. Touch my face with yours, in case I should not hold out till you
-come back. I love you, Mortimer. Don’t be uneasy for me while you are
+come back. I [[Love|love]] you, Mortimer. Don’t be uneasy for me while you are
 gone. If my dear brave girl will take me, I feel persuaded that I shall
 live long enough to be married, dear fellow.’
 
@@ -357,7 +357,7 @@ Miss Jenny gave up altogether on this parting taking place between the
 friends, and sitting with her back towards the bed in the bower made by
 her bright hair, wept heartily, though noiselessly. Mortimer Lightwood
 was soon gone. As the evening light lengthened the heavy reflections of
-the trees in the river, another figure came with a soft step into the
+the trees in the [[River|river]], another figure came with a soft step into the
 sick room.
 
 ‘Is he conscious?’ asked the little dressmaker, as the figure took its

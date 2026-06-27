@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered-8 — THE BOY (part 1)"
+title: "[[AllThingsConsidered-8]] — THE BOY (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
@@ -30,7 +30,7 @@ off his friend's hat; but he does not annex his friend's hat.
 For this reason (as Mr. Belloc has pointed out somewhere), the very
 militant French people have always returned after their immense raids--
 the raids of Godfrey the Crusader, the raids of Napoleon;
-"they are sucked back, having accomplished nothing but an epic."
+"they are sucked back, having accomplished nothing but an [[Epic|epic]]."
 
 Sometimes I see small fragments of information in the newspapers
 which make my heart leap with an irrational patriotic sympathy.
@@ -47,31 +47,31 @@ austere simplicity with which the affair is set forth--
 "The English schoolboy Allen, who was arrested at Lausanne railway
 station on Saturday, for having painted red the statue of General Jomini
 of Payerne, was liberated yesterday, after paying a fine of £24.
-Allen has proceeded to Germany, where he will continue his studies.
+Allen has proceeded to [[Germany]], where he will continue his studies.
 The people of Payerne are indignant, and clamoured for his
-detention in prison."
+detention in [[Prison|prison]]."
 
-Now I have no doubt that ethics and social necessity require
+Now I have no [[Doubt|doubt]] that ethics and social necessity require
 a contrary attitude, but I will freely confess that my first
 emotions on reading of this exploit were those of profound
 and elemental pleasure.  There is something so large and simple
 about the operation of painting a whole stone General a bright red.
 Of course I can understand that the people of Payerne were indignant.
 They had passed to their homes at twilight through the streets
-of that beautiful city (or is it a province?), and they had seen
+of that beautiful [[City|city]] (or is it a province?), and they had seen
 against the silver ending of the sunset the grand grey figure of
-the hero of that land remaining to guard the town under the stars.
+the [[Hero|hero]] of that land remaining to guard the town under the [[Stars|stars]].
 It certainly must have been a shock to come out in the broad white morning
 and find a large vermilion General staring under the staring sun.
 I do not blame them at all for clamouring for the schoolboy's
-detention in prison; I dare say a little detention in prison would
+detention in [[Prison|prison]]; I dare say a little detention in [[Prison|prison]] would
 do him no harm.  Still, I think the immense act has something about
 it human and excusable; and when I endeavour to analyse the reason
 of this feeling I find it to lie, not in the fact that the thing
 was big or bold or successful, but in the fact that the thing was
 perfectly useless to everybody, including the person who did it.
 The raid ends in itself; and so Master Allen is sucked back again,
-having accomplished nothing but an epic.
+having accomplished nothing but an [[Epic|epic]].
 
 There is one thing which, in the presence of average modern journalism,
 is perhaps worth saying in connection with such an idle matter as this.
@@ -80,7 +80,7 @@ of anything else; they are concerned with mutual contract, or with
 the rights of independent human lives.  But the whole modern world,
 or at any rate the whole modern Press, has a perpetual and consuming
 terror of plain morals.  Men always attempt to avoid condemning
-a thing upon merely moral grounds.  If I beat my grandmother to death
+a thing upon merely moral grounds.  If I beat my grandmother to [[Death|death]]
 to-morrow in the middle of Battersea Park, you may be perfectly
 certain that people will say everything about it except the simple
 and fairly obvious fact that it is wrong.  Some will call it insane;
@@ -92,25 +92,25 @@ they will accuse it of a lack of manners.  Perhaps it does show a lack
 of manners; but this is scarcely its most serious disadvantage.
 Others will talk about the loathsome spectacle and the revolting scene;
 that is, they will accuse it of a deficiency of art,
-or æsthetic beauty.  This again depends on the circumstances:
+or æsthetic [[Beauty|beauty]].  This again depends on the circumstances:
 in order to be quite certain that the appearance of the old
 lady has definitely deteriorated under the process of being
-beaten to death, it is necessary for the philosophical critic
+beaten to [[Death|death]], it is necessary for the philosophical critic
 to be quite certain how ugly she was before.  Another school
 of thinkers will say that the action is lacking in efficiency:
 that it is an uneconomic waste of a good grandmother.  But that could
 only depend on the value, which is again an individual matter.
 The only real point that is worth mentioning is that the action is wicked,
-because your grandmother has a right not to be beaten to death.
+because your grandmother has a right not to be beaten to [[Death|death]].
 But of this simple moral explanation modern journalism has,
-as I say, a standing fear.  It will call the action anything else--
+as I say, a standing [[Fear|fear]].  It will call the action anything else--
 mad, bestial, vulgar, idiotic, rather than call it sinful.
 
 One example can be found in such cases as that of the prank of
 the boy and the statue.  When some trick of this sort is played,
 the newspapers opposed to it always describe it as "a senseless joke."
 What is the good of saying that?  Every joke is a senseless joke.
-A joke is by its nature a protest against sense.  It is no
+A joke is by its [[Nature|nature]] a protest against sense.  It is no
 good attacking nonsense for being successfully nonsensical.
 Of course it is nonsensical to paint a celebrated Italian General
 a bright red; it is as nonsensical as "Alice in Wonderland."
@@ -120,7 +120,7 @@ or even to say that it is not funny, but to point out that it
 is wrong to spoil statues which belong to other people.
 If the modern world will not insist on having some sharp and definite
 moral law, capable of resisting the counter-attractions of art
-and humour, the modern world will simply be given over as a spoil
+and [[Humour|humour]], the modern world will simply be given over as a spoil
 to anybody who can manage to do a nasty thing in a nice way.
 Every murderer who can murder entertainingly will be allowed to murder.
 Every burglar who burgles in really humorous attitudes will burgle

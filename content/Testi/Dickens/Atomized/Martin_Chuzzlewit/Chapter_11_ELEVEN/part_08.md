@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 11: ELEVEN (part 8)"
+title: "[[Martin Chuzzlewit]] — Chapter 11: ELEVEN (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Anthony glanced at his son as he sat beside Miss Charity, and then at Mr
+Anthony glanced at his son as he sat beside Miss [[Charity]], and then at Mr
 Pecksniff, and then at his son again, very many times. It happened that
 Mr Pecksniff’s glances took a similar direction; but when he became
 aware of it, he first cast down his eyes, and then closed them; as if he
@@ -27,7 +27,7 @@ very shrewd.’
 
 ‘And careful,’ said the old man.
 
-‘And careful, I have no doubt,’ returned Mr Pecksniff.
+‘And careful, I have no [[Doubt|doubt]],’ returned Mr Pecksniff.
 
 ‘Look ye!’ said Anthony in his ear. ‘I think he is sweet upon you
 daughter.’
@@ -44,7 +44,7 @@ surprise me.’
 
 ‘Yes, I know that,’ said the old man, drily. ‘It may last; I mean the
 sweetness, not the surprise; and it may die off. Supposing it should
-last, perhaps (you having feathered your nest pretty well, and I having
+last, perhaps (you having feathered your nest pretty [[Well|well]], and I having
 done the same), we might have a mutual interest in the matter.’
 
 Mr Pecksniff, smiling gently, was about to speak, but Anthony stopped
@@ -52,24 +52,24 @@ him.
 
 ‘I know what you are going to say. It’s quite unnecessary. You have
 never thought of this for a moment; and in a point so nearly affecting
-the happiness of your dear child, you couldn’t, as a tender father,
+the happiness of your dear [[Child|child]], you couldn’t, as a tender father,
 express an opinion; and so forth. Yes, quite right. And like you! But it
 seems to me, my dear Pecksniff,’ added Anthony, laying his hand upon
 his sleeve, ‘that if you and I kept up the joke of pretending not to see
 this, one of us might possibly be placed in a position of disadvantage;
 and as I am very unwilling to be that party myself, you will excuse my
-taking the liberty of putting the matter beyond a doubt thus early; and
+taking the liberty of putting the matter beyond a [[Doubt|doubt]] thus early; and
 having it distinctly understood, as it is now, that we do see it, and do
 know it. Thank you for your attention. We are now upon an equal footing;
 which is agreeable to us both, I am sure.’
 
-He rose as he spoke; and giving Mr Pecksniff a nod of intelligence,
+He [[Rose|rose]] as he spoke; and giving Mr Pecksniff a nod of intelligence,
 moved away from him to where the young people were sitting; leaving that
 good man somewhat puzzled and discomfited by such very plain dealing,
 and not quite free from a sense of having been foiled in the exercise of
 his familiar weapons.
 
-But the night-coach had a punctual character, and it was time to join
+But the [[Night|night]]-coach had a punctual character, and it was [[Time|time]] to join
 it at the office; which was so near at hand that they had already sent
 their luggage and arranged to walk. Thither the whole party repaired,
 therefore, after no more delay than sufficed for the equipment of the
@@ -96,12 +96,12 @@ contend and strive perpetually with heavy baggage. This false
 position, combined with his nervous excitement, brought about the very
 consummation and catastrophe of his miseries; for when in the moment of
 parting he aimed a flower, a hothouse flower that had cost money, at the
-fair hand of Mercy, it reached, instead, the coachman on the box, who
+fair hand of [[Mercy]], it reached, instead, the coachman on the box, who
 thanked him kindly, and stuck it in his buttonhole.
 
-They were off now; and Todgers’s was alone again. The two young ladies,
+They were off now; and Todgers’s was [[Alone|alone]] again. The two young ladies,
 leaning back in their separate corners, resigned themselves to their
-own regretful thoughts. But Mr Pecksniff, dismissing all ephemeral
+own regretful thoughts. But Mr Pecksniff, dismissing all [[ephemeral]]
 considerations of social pleasure and enjoyment, concentrated his
 meditations on the one great virtuous purpose before him, of casting
 out that ingrate and deceiver, whose presence yet troubled his domestic

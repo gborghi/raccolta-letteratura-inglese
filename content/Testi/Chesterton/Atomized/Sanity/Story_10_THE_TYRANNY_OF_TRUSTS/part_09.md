@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE TYRANNY OF TRUSTS (part 9)"
+title: "[[Sanity]] — THE TYRANNY OF TRUSTS (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -49,7 +49,7 @@ out of a shop to the more ceremonial one of hanging a man on a gallows.
 If we mean that we do not want to help it, that may be very true,
 and even in some cases very right.  But arresting a forestaller
 is as easy as falling off a log or walking out of a shop.
-Putting the log-roller in prison is no more impossible than walking
+Putting the log-roller in [[Prison|prison]] is no more impossible than walking
 out of the shop is impossible; and it is highly desirable for the health
 of this discussion that we should realize the fact from the first.
 Practically about half of the recognized expedients by which a big
@@ -57,7 +57,7 @@ business is now made have been marked down as a crime in some community
 of the past; and could be so marked in a community of the future.
 I can only refer to them here in the most cursory fashion.
 One of them is the process against which the statesmen of the most
-respectable party rave day and night so long as they can pretend
+respectable party rave day and [[Night|night]] so long as they can pretend
 that it is only done by foreigners.  It is called Dumping.
 There is a policy of deliberately selling at a loss to destroy
 another man's market.  Another is:  a process against which
@@ -69,15 +69,15 @@ of obligations that he cannot ultimately discharge, except by
 selling his shop or business.  It is done in one form by giving
 to the desperate things on the instalment plan or on long credit.
 All these conspiracies I would have tried as we try a conspiracy
-to overthrow the State or to shoot the King.  We do not expect
-the man to write the King a post-card, telling him he is to be shot,
+to overthrow the State or to shoot the [[King]].  We do not expect
+the man to write the [[King]] a post-card, telling him he is to be shot,
 or to give warning in the newspapers of the Day of Revolution.
 Such plots have always been judged in the only way in which they
 can be judged:  by the use of common sense as to the existence
 of a purpose and the apparent existence of a plan.  But we
 shall never have a real civic sense until it is once more felt
 that the plot of three citizens against one citizen is a crime,
-as well as the plot of one citizen against three.  In other words,
+as [[Well|well]] as the plot of one citizen against three.  In other words,
 private property ought to be protected against private crime,
 just as public order is protected against private judgment.
 But private property ought to be protected against much bigger
@@ -95,8 +95,8 @@ If they chose to take half as much risk to achieve justice as they
 have already taken to achieve degradation, if they toiled half
 as laboriously to make anything beautiful as they toiled to make
 everything ugly, if they had served their God as they have served
-their Pork King and their Petrol King, the success of our whole
-Distributive democracy would stare at the world like one of their
+their Pork [[King]] and their Petrol [[King]], the [[success]] of our whole
+Distributive [[Democracy|democracy]] would stare at the world like one of their
 flaming sky-signs and scrape the sky like one of their crazy towers.
 
 = = = = = = = = = = = = = = = =

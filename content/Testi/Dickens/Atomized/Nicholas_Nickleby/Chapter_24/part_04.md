@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 24 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 24 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -18,13 +18,13 @@ But the most interesting object of all was, perhaps, the open scrapbook,
 displayed in the midst of some theatrical duodecimos that were strewn
 upon the table; and pasted into which scrapbook were various critical
 notices of Miss Snevellicci’s acting, extracted from different
-provincial journals, together with one poetic address in her honour,
+provincial journals, together with one poetic address in her [[Honour|honour]],
 commencing--
 
-     Sing, God of Love, and tell me in what dearth
+     Sing, God of [[Love]], and tell me in what dearth
      Thrice-gifted SNEVELLICCI came on earth,
      To thrill us with her smile, her tear, her eye,
-     Sing, God of Love, and tell me quickly why.
+     Sing, God of [[Love]], and tell me quickly why.
 
 Besides this effusion, there were innumerable complimentary allusions,
 also extracted from newspapers, such as--‘We observe from an
@@ -39,26 +39,26 @@ with a bumper.’ ‘To Correspondents.--J.S. is misinformed when he
 supposes that the highly-gifted and beautiful Miss Snevellicci, nightly
 captivating all hearts at our pretty and commodious little theatre,
 is NOT the same lady to whom the young gentleman of immense fortune,
-residing within a hundred miles of the good city of York, lately made
+residing within a hundred miles of the good [[City|city]] of York, lately made
 honourable proposals. We have reason to know that Miss Snevellicci IS
 the lady who was implicated in that mysterious and romantic affair, and
-whose conduct on that occasion did no less honour to her head and heart,
+whose conduct on that occasion did no less [[Honour|honour]] to her head and heart,
 than do her histrionic triumphs to her brilliant genius.’ A copious
 assortment of such paragraphs as these, with long bills of benefits
 all ending with ‘Come Early’, in large capitals, formed the principal
 contents of Miss Snevellicci’s scrapbook.
 
 Nicholas had read a great many of these scraps, and was absorbed in a
-circumstantial and melancholy account of the train of events which had
+circumstantial and [[Melancholy|melancholy]] account of the train of events which had
 led to Miss Snevellicci’s spraining her ankle by slipping on a piece of
-orange-peel flung by a monster in human form, (so the paper said,) upon
+orange-peel flung by a [[Monster|monster]] in human form, (so the paper said,) upon
 the stage at Winchester,--when that young lady herself, attired in the
 coal-scuttle bonnet and walking-dress complete, tripped into the room,
 with a thousand apologies for having detained him so long after the
-appointed time.
+appointed [[Time|time]].
 
 ‘But really,’ said Miss Snevellicci, ‘my darling Led, who lives with me
-here, was taken so very ill in the night that I thought she would have
+here, was taken so very ill in the [[Night|night]] that I thought she would have
 expired in my arms.’
 
 ‘Such a fate is almost to be envied,’ returned Nicholas, ‘but I am very
@@ -96,13 +96,13 @@ longer than the other; besides these accidents, the green parasol
 was dropped down an iron grating, and only fished up again with great
 difficulty and by dint of much exertion. However, it was impossible to
 scold her, as she was the manager’s daughter, so Nicholas took it all in
-perfect good humour, and walked on, with Miss Snevellicci, arm-in-arm on
+perfect good [[Humour|humour]], and walked on, with Miss Snevellicci, arm-in-arm on
 one side, and the offending infant on the other.
 
-The first house to which they bent their steps, was situated in
+The first [[house]] to which they bent their steps, was situated in
 a terrace of respectable appearance. Miss Snevellicci’s modest
-double-knock was answered by a foot-boy, who, in reply to her inquiry
-whether Mrs. Curdle was at home, opened his eyes very wide, grinned very
+[[Double|double]]-knock was answered by a foot-boy, who, in reply to her inquiry
+whether Mrs. Curdle was at [[Home|home]], opened his eyes very wide, grinned very
 much, and said he didn’t know, but he’d inquire. With this he
 showed them into a parlour where he kept them waiting, until the two
 women-servants had repaired thither, under false pretences, to see the
@@ -111,10 +111,10 @@ joined in a vast quantity of whispering and giggling, he at length went
 upstairs with Miss Snevellicci’s name.
 
 Now, Mrs. Curdle was supposed, by those who were best informed on
-such points, to possess quite the London taste in matters relating to
+such points, to possess quite the [[London]] taste in matters relating to
 literature and the drama; and as to Mr. Curdle, he had written a pamphlet
-of sixty-four pages, post octavo, on the character of the Nurse’s
-deceased husband in Romeo and Juliet, with an inquiry whether he really
+of sixty-four pages, post octavo, on the character of the [[Nurse]]’s
+deceased husband in [[Romeo]] and [[Juliet]], with an inquiry whether he really
 had been a ‘merry man’ in his lifetime, or whether it was merely his
 widow’s affectionate partiality that induced her so to report him. He
 had likewise proved, that by altering the received mode of punctuation,
@@ -122,5 +122,5 @@ any one of Shakespeare’s plays could be made quite different, and the
 sense completely changed; it is needless to say, therefore, that he was
 a great critic, and a very profound and most original thinker.
 
-‘Well, Miss Snevellicci,’ said Mrs. Curdle, entering the parlour, ‘and
+‘[[Well]], Miss Snevellicci,’ said Mrs. Curdle, entering the parlour, ‘and
 how do YOU do?’

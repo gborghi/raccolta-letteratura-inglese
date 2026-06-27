@@ -1,5 +1,5 @@
 ---
-title: "William Wilson (part 2)"
+title: "[[William Wilson]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/William-Wilson-(Poe)"
@@ -25,19 +25,19 @@ tags:
       The extensive enclosure was irregular in form, having many
       capacious recesses. Of these, three or four of the largest
       constituted the play-ground. It was level, and covered with fine
-      hard gravel. I well remember it had no trees, nor benches, nor
+      hard gravel. I [[Well|well]] remember it had no trees, nor benches, nor
       anything similar within it. Of course it was in the rear of the
-      house. In front lay a small parterre, planted with box and other
+      [[house]]. In front lay a small parterre, planted with box and other
       shrubs, but through this sacred division we passed only upon rare
       occasions indeed—such as a first advent to school or final
       departure thence, or perhaps, when a parent or friend having
-      called for us, we joyfully took our way home for the Christmas or
+      called for us, we joyfully took our way [[Home|home]] for the Christmas or
       Midsummer holidays.
 
-      But the house!—how quaint an old building was this!—to me how
+      But the [[house]]!—how quaint an old building was this!—to me how
       veritably a palace of enchantment! There was really no end to its
       windings—to its incomprehensible subdivisions. It was difficult,
-      at any given time, to say with certainty upon which of its two
+      at any given [[Time|time]], to say with certainty upon which of its two
       stories one happened to be. From each room to every other there
       were sure to be found three or four steps either in ascent or
       descent. Then the lateral branches were
@@ -49,7 +49,7 @@ tags:
       little sleeping apartment assigned to myself and some eighteen or
       twenty other scholars.
 
-      The school-room was the largest in the house—I could not help
+      The school-room was the largest in the [[house]]—I could not help
       thinking, in the world. It was very long, narrow, and dismally
       low, with pointed Gothic windows and a ceiling of oak. In a
       remote and terror-inspiring angle was a square enclosure of eight
@@ -62,17 +62,17 @@ tags:
       these was the pulpit of the “classical” usher, one of the
       “English and mathematical.” Interspersed about the room, crossing
       and recrossing in endless irregularity, were innumerable benches
-      and desks, black, ancient, and time-worn, piled desperately with
+      and desks, black, ancient, and [[Time|time]]-worn, piled desperately with
       much-bethumbed books, and so beseamed with initial letters, names
-      at full length, grotesque figures, and other multiplied efforts
+      at full length, [[Grotesque|grotesque]] figures, and other multiplied efforts
       of the knife, as to have entirely lost what little of original
       form might have been their portion in days long departed. A huge
-      bucket with water stood at one extremity of the room, and a clock
+      bucket with [[Water|water]] stood at one extremity of the room, and a [[Clock|clock]]
       of stupendous dimensions at the other.
 
       Encompassed by the massy walls of this venerable academy, I
       passed, yet not in tedium or disgust, the years of the third
-      lustrum of my life. The teeming brain of childhood requires no
+      lustrum of my life. The teeming brain of [[Childhood|childhood]] requires no
       external world of incident to occupy or amuse it; and the
       apparently dismal monotony of a school was replete with more
       intense excitement than my riper youth has derived from luxury,
@@ -80,10 +80,10 @@ tags:
       mental development had in it much of the uncommon—even much of
       the _outré_. Upon mankind at large the events of very early
       existence rarely leave in mature age any definite impression. All
-      is gray shadow—a weak and irregular remembrance—an indistinct
+      is gray [[Shadow|shadow]]—a weak and irregular remembrance—an indistinct
       regathering of feeble pleasures and phantasmagoric pains. With me
-      this is not so. In childhood I must have felt with the energy of
-      a man what I now find stamped upon memory in lines as vivid, as
+      this is not so. In [[Childhood|childhood]] I must have felt with the energy of
+      a man what I now find stamped upon [[Memory|memory]] in lines as vivid, as
       deep, and as durable as the _exergues_ of the Carthaginian
       medals.
 
@@ -97,7 +97,7 @@ tags:
       passionate and spirit-stirring. “_Oh, le bon temps, que ce siècle
       de fer!_”
 
-      In truth, the ardor, the enthusiasm, and the imperiousness of my
+      In [[Truth|truth]], the ardor, the enthusiasm, and the imperiousness of my
       disposition, soon rendered me a marked character among my
       schoolmates, and by slow, but natural gradations, gave me an
       ascendancy over all not greatly older than myself;—over all with
@@ -106,10 +106,10 @@ tags:
       surname as myself;—a circumstance, in fact, little remarkable;
       for, notwithstanding a noble descent, mine was one of those
       everyday appellations which seem, by prescriptive right, to have
-      been, time out of mind, the common property of the mob. In this
-      narrative I have therefore designated myself as William Wilson,—a
+      been, [[Time|time]] out of mind, the common property of the mob. In this
+      narrative I have therefore designated myself as [[William Wilson]],—a
       fictitious title not very dissimilar to the real. My namesake
-      alone, of those who in school phraseology constituted “our set,”
+      [[Alone|alone]], of those who in school phraseology constituted “our set,”
       presumed to compete with me in the studies of the class—in the
       sports and broils of the play-ground—to refuse implicit belief in
       my assertions, and submission to my will—indeed, to interfere

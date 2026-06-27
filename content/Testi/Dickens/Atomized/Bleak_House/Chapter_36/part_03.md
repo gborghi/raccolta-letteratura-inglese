@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 36 (part 3)"
+title: "Bleak [[house|House]] — Chapter 36 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -30,19 +30,19 @@ say what was in my whirling thoughts.
 
 “You are recovering again?” she asked kindly.
 
-“I was quite well but a moment ago, Lady Dedlock.”
+“I was quite [[Well|well]] but a moment ago, [[Lady Dedlock]].”
 
 “Is this your young attendant?”
 
 “Yes.”
 
-“Will you send her on before and walk towards your house with me?”
+“Will you send her on before and walk towards your [[house]] with me?”
 
-“Charley,” said I, “take your flowers home, and I will follow you
+“Charley,” said I, “take your [[Flowers|flowers]] [[Home|home]], and I will follow you
 directly.”
 
 Charley, with her best curtsy, blushingly tied on her bonnet and went
-her way. When she was gone, Lady Dedlock sat down on the seat beside
+her way. When she was gone, [[Lady Dedlock]] sat down on the seat beside
 me.
 
 I cannot tell in any words what the state of my mind was when I saw
@@ -53,10 +53,10 @@ could not draw my breath. The beating of my heart was so violent and
 wild that I felt as if my life were breaking from me. But when she
 caught me to her breast, kissed me, wept over me, compassionated me,
 and called me back to myself; when she fell down on her knees and
-cried to me, “Oh, my child, my child, I am your wicked and unhappy
+cried to me, “Oh, my [[Child|child]], my [[Child|child]], I am your wicked and unhappy
 mother! Oh, try to forgive me!”—when I saw her at my feet on the
 bare earth in her great agony of mind, I felt, through all my tumult
-of emotion, a burst of gratitude to the providence of God that I was
+of emotion, a burst of gratitude to the [[Providence|providence]] of God that I was
 so changed as that I never could disgrace her by any trace of
 likeness, as that nobody could ever now look at me and look at her
 and remotely think of any near tie between us.
@@ -65,25 +65,25 @@ I raised my mother up, praying and beseeching her not to stoop before
 me in such affliction and humiliation. I did so in broken, incoherent
 words, for besides the trouble I was in, it frightened me to see her
 at MY feet. I told her—or I tried to tell her—that if it were for
-me, her child, under any circumstances to take upon me to forgive
+me, her [[Child|child]], under any circumstances to take upon me to forgive
 her, I did it, and had done it, many, many years. I told her that my
-heart overflowed with love for her, that it was natural love which
+heart overflowed with [[Love|love]] for her, that it was natural [[Love|love]] which
 nothing in the past had changed or could change. That it was not for
-me, then resting for the first time on my mother’s bosom, to take her
+me, then resting for the first [[Time|time]] on my mother’s bosom, to take her
 to account for having given me life, but that my duty was to bless
 her and receive her, though the whole world turned from her, and that
 I only asked her leave to do it. I held my mother in my embrace, and
-she held me in hers, and among the still woods in the silence of the
-summer day there seemed to be nothing but our two troubled minds that
+she held me in hers, and among the still woods in the [[Silence|silence]] of the
+[[Summer|summer]] day there seemed to be nothing but our two troubled minds that
 was not at peace.
 
 “To bless and receive me,” groaned my mother, “it is far too late. I
-must travel my dark road alone, and it will lead me where it will.
+must travel my dark [[Road|road]] [[Alone|alone]], and it will lead me where it will.
 From day to day, sometimes from hour to hour, I do not see the way
 before my guilty feet. This is the earthly punishment I have brought
 upon myself. I bear it, and I hide it.”
 
-Even in the thinking of her endurance, she drew her habitual air of
+Even in the thinking of her [[Endurance|endurance]], she drew her habitual air of
 proud indifference about her like a veil, though she soon cast it off
 again.
 
@@ -91,7 +91,7 @@ again.
 for myself. I have a husband, wretched and dishonouring creature that
 I am!”
 
-These words she uttered with a suppressed cry of despair, more
+These words she uttered with a suppressed cry of [[Despair|despair]], more
 terrible in its sound than any shriek. Covering her face with her
 hands, she shrank down in my embrace as if she were unwilling that I
 should touch her; nor could I, by my utmost persuasions or by any
@@ -101,19 +101,19 @@ everywhere else; she would be humbled and ashamed there, in the only
 natural moments of her life.
 
 My unhappy mother told me that in my illness she had been nearly
-frantic. She had but then known that her child was living. She could
-not have suspected me to be that child before. She had followed me
+frantic. She had but then known that her [[Child|child]] was living. She could
+not have suspected me to be that [[Child|child]] before. She had followed me
 down here to speak to me but once in all her life. We never could
-associate, never could communicate, never probably from that time
+associate, never could communicate, never probably from that [[Time|time]]
 forth could interchange another word on earth. She put into my hands
 a letter she had written for my reading only and said when I had read
 it and destroyed it—but not so much for her sake, since she asked
 nothing, as for her husband’s and my own—I must evermore consider
 her as dead. If I could believe that she loved me, in this agony in
-which I saw her, with a mother’s love, she asked me to do that, for
+which I saw her, with a mother’s [[Love|love]], she asked me to do that, for
 then I might think of her with a greater pity, imagining what she
-suffered. She had put herself beyond all hope and beyond all help.
-Whether she preserved her secret until death or it came to be
+suffered. She had put herself beyond all [[Hope|hope]] and beyond all help.
+Whether she preserved her secret until [[Death|death]] or it came to be
 discovered and she brought dishonour and disgrace upon the name she
 had taken, it was her solitary struggle always; and no affection
 could come near her, and no human creature could render her any aid.
@@ -128,7 +128,7 @@ any day.”
 “Do you dread a particular person?”
 
 “Hush! Do not tremble and cry so much for me. I am not worthy of
-these tears,” said my mother, kissing my hands. “I dread one person
+these [[Tears|tears]],” said my mother, kissing my hands. “I dread one person
 very much.”
 
 “An enemy?”

@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 9 (part 2)"
+title: "[[Villette]] — Chapter 9 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -36,15 +36,15 @@ vive ici-bas.”
 
 I laughed, as, indeed, it was impossible to do otherwise.
 
-Has the reader forgotten Miss Ginevra Fanshawe? If so, I must be
+Has the reader forgotten Miss [[Ginevra Fanshawe]]? If so, I must be
 allowed to re-introduce that young lady as a thriving pupil of Madame
 Beck’s; for such she was. On her arrival in the Rue Fossette, two or
 three days after my sudden settlement there, she encountered me with
-very little surprise. She must have had good blood in her veins, for
+very little surprise. She must have had good [[Blood|blood]] in her veins, for
 never was any duchess more perfectly, radically, unaffectedly
 _nonchalante_ than she: a weak, transient amaze was all she knew of the
-sensation of wonder. Most of her other faculties seemed to be in the
-same flimsy condition: her liking and disliking, her love and hate,
+sensation of [[Wonder|wonder]]. Most of her other faculties seemed to be in the
+same flimsy condition: her liking and disliking, her [[Love|love]] and hate,
 were mere cobweb and gossamer; but she had one thing about her that
 seemed strong and durable enough, and that was—her selfishness.
 
@@ -55,12 +55,12 @@ the cookery was not to her taste; the people about her, teachers and
 pupils, she held to be despicable, because they were foreigners. I bore
 with her abuse of the Friday’s salt fish and hard eggs—with her
 invective against the soup, the bread, the coffee—with some patience
-for a time; but at last, wearied by iteration, I turned crusty, and put
+for a [[Time|time]]; but at last, wearied by iteration, I turned crusty, and put
 her to rights: a thing I ought to have done in the very beginning, for
 a salutary setting down always agreed with her.
 
 Much longer had I to endure her demands on me in the way of work. Her
-wardrobe, so far as concerned articles of external wear, was well and
+wardrobe, so far as concerned articles of external wear, was [[Well|well]] and
 elegantly supplied; but there were other habiliments not so carefully
 provided: what she had, needed frequent repair. She hated
 needle-drudgery herself, and she would bring her hose, &c. to me in
@@ -73,14 +73,14 @@ could.
 
 Notwithstanding these foibles, and various others needless to
 mention—but by no means of a refined or elevating character—how pretty
-she was! How charming she looked, when she came down on a sunny Sunday
-morning, well-dressed and well-humoured, robed in pale lilac silk, and
-with her fair long curls reposing on her white shoulders. Sunday was a
+she was! How charming she looked, when she came down on a sunny [[Sunday]]
+morning, [[Well|well]]-dressed and [[Well|well]]-humoured, robed in pale lilac silk, and
+with her fair long curls reposing on her white shoulders. [[Sunday]] was a
 holiday which she always passed with friends resident in town; and
 amongst these friends she speedily gave me to understand was one who
 would fain become something more. By glimpses and hints it was shown
 me, and by the general buoyancy of her look and manner it was ere long
-proved, that ardent admiration—perhaps genuine love—was at her command.
+proved, that ardent admiration—perhaps genuine [[Love|love]]—was at her command.
 She called her suitor “Isidore:” this, however, she intimated was not
 his real name, but one by which it pleased her to baptize him—his own,
 she hinted, not being “very pretty.” Once, when she had been bragging
@@ -88,7 +88,7 @@ about the vehemence of “Isidore’s” attachment, I asked if she loved him
 in return.
 
 “Comme cela,” said she: “he is handsome, and he loves me to
-distraction, so that I am well amused. Ca suffit.”
+distraction, so that I am [[Well|well]] amused. Ca suffit.”
 
 Finding that she carried the thing on longer than, from her very fickle
 tastes, I had anticipated, I one day took it upon me to make serious
@@ -111,20 +111,20 @@ the end, he will be made miserable.”
 “Of course he will break his heart. I should be shocked and,
 disappointed if he didn’t.”
 
-“I wonder whether this M. Isidore is a fool?” said I.
+“I [[Wonder|wonder]] whether this M. Isidore is a [[Fool|fool]]?” said I.
 
 “He is, about me; but he is wise in other things, à ce qu’on dit. Mrs.
 Cholmondeley considers him extremely clever: she says he will push his
 way by his talents; all I know is, that he does little more than sigh
-in my presence, and that I can wind him round my little finger.”
+in my presence, and that I can [[Wind|wind]] him round my little finger.”
 
-Wishing to get a more definite idea of this love-stricken M. Isidore;
+Wishing to get a more definite idea of this [[Love|love]]-stricken M. Isidore;
 whose position seemed to me of the least secure, I requested her to
 favour me with a personal description; but she could not describe: she
 had neither words nor the power of putting them together so as to make
 graphic phrases. She even seemed not properly to have noticed him:
 nothing of his looks, of the changes in his countenance, had touched
-her heart or dwelt in her memory—that he was “beau, mais plutôt bel
+her heart or dwelt in her [[Memory|memory]]—that he was “beau, mais plutôt bel
 homme que joli garçon,” was all she could assert. My patience would
 often have failed, and my interest flagged, in listening to her, but
 for one thing. All the hints she dropped, all the details she gave,

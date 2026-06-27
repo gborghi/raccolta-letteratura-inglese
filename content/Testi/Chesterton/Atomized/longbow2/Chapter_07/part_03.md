@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 7 (part 3)"
+title: "[[longbow2]] — Chapter 7 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -18,19 +18,19 @@ Little Lord Normantowers was staring, with his stiff hair all
 standing on end; but a new look was dawning in his shrewd though
 small-featured face.
 
-"The case of Warbridge Castle is different," said the Prime Minister. 
+"The case of Warbridge [[Castle]] is different," said the Prime Minister. 
 "It happens unfortunately to stand in a district desolated
 by all the recent troubles about swine-fever, touching which the
 Health Comptroller" (here he bowed to Sir Horace Hunter) "has shown
 such admirable activity.  It has been necessary to place the whole
 of this district in the hands of the Health Comptroller, that he
-may study any traces of swine-fever that may be found in the Castle,
-the Cathedral, the Vicarage, and so on.  So much for that case,
+may study any traces of swine-fever that may be found in the [[Castle]],
+the [[Cathedral]], the Vicarage, and so on.  So much for that case,
 which stands somewhat apart; the others are mostly normal. 
-Rosenbaum Castle--I should say Rosewood Castle--being of a later date,
+Rosenbaum [[Castle]]--I should say Rosewood [[Castle]]--being of a later date,
 comes under Section Five, and the appointment of a permanent
-Castle Custodian is left to the discretion of the Government. 
-In this case the Government has decided to appoint Mr. Rosewood Low
+[[Castle]] Custodian is left to the discretion of the [[government|Government]]. 
+In this case the [[government|Government]] has decided to appoint Mr. Rosewood Low
 to the post, in recognition of his local services to social science
 and economics.  In all these cases, of course, due compensation
 will be paid to the present owners of the estates, and ample
@@ -39,11 +39,11 @@ that the places may be kept up in a manner worthy of their historical
 and national character."
 
 He paused, as if for cheers, and Sir Horace was vaguely irritated
-into saying:  "But look here, my castle--"
+into saying:  "But look here, my [[Castle|castle]]--"
 
 "Damn it all!" said the Prime Minister, with his first flash of
 impatience and sincerity.  "Can't you see you'll get twice as much
-as before?  First you'll be compensated for losing your castle,
+as before?  First you'll be compensated for losing your [[Castle|castle]],
 and then you'll be paid for keeping it."
 
 "My lord," said Lord Normantowers humbly, "I apologize for anything
@@ -52,7 +52,7 @@ in the presence of a great English statesman."
 
 "Oh, it's easy enough," said Lord Eden frankly.  "Look how easily
 we remained in the saddle, in spite of democratic elections; how we
-managed to dominate the Commons as well as the Lords.  It'll be
+managed to dominate the Commons as [[Well|well]] as the Lords.  It'll be
 the same with what they call Socialism.  We shall still be there;
 only we shall be called bureaucrats instead of aristocrats."
 
@@ -78,24 +78,24 @@ as any part of his paper paraphernalia.
 come with your letters this morning."
 
 "It didn't come by post at all," said Lord Eden; "and none of the
-servants brought it in.  How the devil did it get out here in the garden?"
+servants brought it in.  How the devil did it get out here in the [[Garden|garden]]?"
 
-He ripped it open with his finger and remained for some time staring
-in mystification at its contents.
+He ripped it open with his finger and remained for some [[Time|time]] staring
+in [[Mystification|mystification]] at its contents.
 
-                                             "Welkin Castle,
+                                             "Welkin [[Castle]],
                                             Sept. 4th, 19--.
 
 "Dear Lord Eden,--As I understand you are making public provision
 for the future disposal of our historic national castles,
-such as Warbridge Castle, I should much appreciate any information
-about your intentions touching Welkin Castle, my own estate,
+such as Warbridge [[Castle]], I should much appreciate any information
+about your intentions touching Welkin [[Castle]], my own estate,
 as it would enable me to make my own arrangements.--Yours very truly,
                                          "Welkyn of Welkin."
 
 
 "Who is Welkyn?" asked the puzzled politician; "he writes as if he knew me;
-but I can't recall him at the moment.  And where is Welkin Castle? 
+but I can't recall him at the moment.  And where is Welkin [[Castle]]? 
 We must look at the maps again."
 
 But though they looked at the maps for hours, and searched Burke,
@@ -111,39 +111,39 @@ eccentric should be left out or offended.  But although he was worried
 to that extent, it is probable that his worry would soon have faded
 from his mind if it had not been for something that happened some days later.
 
-Going out into the same garden to the same table, with the more agreeable
+Going out into the same [[Garden|garden]] to the same table, with the more agreeable
 purpose of taking tea there, he was amazed to find another letter,
 though this was lying not on the table but on the turf just beside it. 
 It was unstamped like the other and addressed in the same handwriting;
 but its tone was more stern.
 
-                                             "Welkin Castle,
+                                             "Welkin [[Castle]],
                                              Oct. 6th, 19--.
 
 "My Lord,--As you seem to have decided to continue your sweeping
-scheme of confiscation, as in the case of Warbridge Castle,
+scheme of confiscation, as in the case of Warbridge [[Castle]],
 without the slightest reference to the historic and even heroic
-claims of Welkin Castle, I can only inform you that I shall defend
-the fortress of my fathers to the death.  Moreover, I have decided
+claims of Welkin [[Castle]], I can only inform you that I shall defend
+the fortress of my fathers to the [[Death|death]].  Moreover, I have decided
 to make a protest of a more public kind; and when you next hear
 from me it will be in the form of a general appeal to the justice
 of the English people.--Yours truly,
                                           Welkyn of Welkin."
 
 
-The historic and even heroic traditions of Welkin Castle kept a
+The historic and even heroic traditions of Welkin [[Castle]] kept a
 dozen of the Prime Minister's private secretaries busy for a week,
-looking up encyclopaedias and chronicles and books of history. 
+looking up encyclopaedias and chronicles and books of [[history]]. 
 But the Prime Minister himself was more worried about another problem. 
-How did these mysterious letters get into the house, or rather into
-the garden?  None of them came by post and none of the servants knew
+How did these mysterious letters get into the [[house]], or rather into
+the [[Garden|garden]]?  None of them came by post and none of the servants knew
 anything about them.  Moreover, the Prime Minister, in an unobtrusive
 way, was very carefully guarded.  Prime Ministers always are. 
 But he had been especially protected ever since the Vegetarians
 a few years before had gone about killing everybody who believed
-in killing animals.  There were always plain-clothes policemen at
-every entrance of his house and garden.  And from their testimony
+in killing [[Animals|animals]].  There were always plain-clothes policemen at
+every entrance of his [[house]] and [[Garden|garden]].  And from their testimony
 it would appear certain that the letter could not have got into
-the garden; but for the trifling fact that it was lying there on
-the garden-table. Lord Eden cogitated in a grim fashion for some time;
-then he said as he rose from his chair:
+the [[Garden|garden]]; but for the trifling fact that it was lying there on
+the [[Garden|garden]]-table. Lord Eden cogitated in a grim fashion for some [[Time|time]];
+then he said as he [[Rose|rose]] from his chair:

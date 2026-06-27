@@ -1,5 +1,5 @@
 ---
-title: "Lady Susan — ATHERINE VERNON. (part 5)"
+title: "[[Lady Susan]] — ATHERINE VERNON. (part 5)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Lady-Susan-(Austen)"
@@ -18,7 +18,7 @@ perverted abilities, had made me resolved to disallow, have been
 
 unanswerably proved to me; nay more, I am assured that a connection, of
 
-which I had never before entertained a thought, has for some time
+which I had never before entertained a thought, has for some [[Time|time]]
 
 existed, and still continues to exist, between you and the man whose
 
@@ -30,7 +30,7 @@ since your leaving Langford; not with his wife, but with him, and that
 
 he now visits you every day. Can you, dare you deny it? and all this at
 
-the time when I was an encouraged, an accepted lover! From what have I
+the [[Time|time]] when I was an encouraged, an accepted [[Lover|lover]]! From what have I
 
 not escaped! I have only to be grateful. Far from me be all complaint,
 
@@ -42,7 +42,7 @@ Mainwaring, whose agonies while she related the past seemed to threaten
 
 her reason, how is _she_ to be consoled! After such a discovery as
 
-this, you will scarcely affect further wonder at my meaning in bidding
+this, you will scarcely affect further [[Wonder|wonder]] at my meaning in bidding
 
 you adieu. My understanding is at length restored, and teaches no less
 
@@ -88,9 +88,9 @@ is no longer compatible with your views, and I rejoice to find that the
 
 prudent advice of your parents has not been given in vain. Your
 
-restoration to peace will, I doubt not, speedily follow this act of
+restoration to peace will, I [[Doubt|doubt]] not, speedily follow this act of
 
-filial obedience, and I flatter myself with the hope of surviving my
+filial obedience, and I flatter myself with the [[Hope|hope]] of surviving my
 
 share in this disappointment.
 
@@ -112,7 +112,7 @@ XXXVIII
 
 
 
-_Mrs. Johnson to Lady Susan Vernon._
+_Mrs. Johnson to [[Lady Susan Vernon]]._
 
 
 
@@ -126,9 +126,9 @@ Edward Street
 
 I am grieved, though I cannot be astonished at your rupture with Mr. De
 
-Courcy; he has just informed Mr. Johnson of it by letter. He leaves
+Courcy; he has just informed Mr. Johnson of it by letter. He [[Leaves|leaves]]
 
-London, he says, to-day. Be assured that I partake in all your
+[[London]], he says, to-day. Be assured that I partake in all your
 
 feelings, and do not be angry if I say that our intercourse, even by
 
@@ -142,13 +142,13 @@ such an extremity while any other alternative remains. You have heard
 
 of course that the Mainwarings are to part, and I am afraid Mrs. M.
 
-will come home to us again; but she is still so fond of her husband,
+will come [[Home|home]] to us again; but she is still so fond of her husband,
 
 and frets so much about him, that perhaps she may not live long. Miss
 
 Mainwaring is just come to town to be with her aunt, and they say that
 
-she declares she will have Sir James Martin before she leaves London
+she declares she will have Sir James Martin before she [[Leaves|leaves]] [[London]]
 
 again. If I were you, I would certainly get him myself. I had almost
 
@@ -200,7 +200,7 @@ Upper Seymour Street.
 
 My dear Alicia,—I yield to the necessity which parts us. Under such
 
-circumstances you could not act otherwise. Our friendship cannot be
+circumstances you could not act otherwise. Our [[Friendship|friendship]] cannot be
 
 impaired by it, and in happier times, when your situation is as
 
@@ -216,7 +216,7 @@ abhor, Reginald I despise, and I am secure of never seeing either
 
 again. Have I not reason to rejoice? Mainwaring is more devoted to me
 
-than ever; and were we at liberty, I doubt if I could resist even
+than ever; and were we at liberty, I [[Doubt|doubt]] if I could resist even
 
 matrimony offered by _him_. This event, if his wife live with you, it
 
@@ -224,17 +224,17 @@ may be in your power to hasten. The violence of her feelings, which
 
 must wear her out, may be easily kept in irritation. I rely on your
 
-friendship for this. I am now satisfied that I never could have brought
+[[Friendship|friendship]] for this. I am now satisfied that I never could have brought
 
 myself to marry Reginald, and am equally determined that Frederica
 
 never _shall_. To-morrow, I shall fetch her from Churchhill, and let
 
-Maria Mainwaring tremble for the consequence. Frederica shall be Sir
+[[Maria]] Mainwaring tremble for the consequence. Frederica shall be Sir
 
-James’s wife before she quits my house, and _she_ may whimper, and the
+James’s wife before she quits my [[house]], and _she_ may whimper, and the
 
-Vernons may storm, I regard them not. I am tired of submitting my will
+Vernons may [[Storm|storm]], I regard them not. I am tired of submitting my will
 
 to the caprices of others; of resigning my own judgment in deference to
 
@@ -276,29 +276,29 @@ My dear Catherine,—I have charming news for you, and if I had not sent
 
 off my letter this morning you might have been spared the vexation of
 
-knowing of Reginald’s being gone to London, for he is returned.
+knowing of Reginald’s being gone to [[London]], for he is returned.
 
 Reginald is returned, not to ask our consent to his marrying Lady
 
 Susan, but to tell us they are parted for ever. He has been only an
 
-hour in the house, and I have not been able to learn particulars, for
+hour in the [[house]], and I have not been able to learn particulars, for
 
 he is so very low that I have not the heart to ask questions, but I
 
-hope we shall soon know all. This is the most joyful hour he has ever
+[[Hope|hope]] we shall soon know all. This is the most joyful hour he has ever
 
 given us since the day of his birth. Nothing is wanting but to have you
 
 here, and it is our particular wish and entreaty that you would come to
 
-us as soon as you can. You have owed us a visit many long weeks; I hope
+us as soon as you can. You have owed us a visit many long weeks; I [[Hope|hope]]
 
 nothing will make it inconvenient to Mr. Vernon; and pray bring all my
 
 grand-children; and your dear niece is included, of course; I long to
 
-see her. It has been a sad, heavy winter hitherto, without Reginald,
+see her. It has been a sad, heavy [[Winter|winter]] hitherto, without Reginald,
 
 and seeing nobody from Churchhill. I never found the season so dreary
 

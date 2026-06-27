@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Perishing of the Pendragons (part 7)"
+title: "[[wifrb11]] — The Perishing of the Pendragons (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -14,47 +14,47 @@ tags:
 </nav>
 
 
-     "You can do no more, I fear," said Brown in a voice cold with pain. 
+     "You can do no more, I [[Fear|fear]]," said Brown in a voice cold with [[Pain|pain]]. 
 "He has been washed down to the rocks by now, where he has sent
 so many others.  He knew the use of a family legend."
 
-     "Oh, don't talk in these parables," cried Flambeau impatiently. 
+     "Oh, don't talk in these parables," cried [[Flambeau]] impatiently. 
 "Can't you put it simply in words of one syllable?"
 
      "Yes," answered Brown, with his eye on the hose.  "`Both eyes bright,
 she's all right; one eye blinks, down she sinks.'"
 
-     The fire hissed and shrieked more and more, like a strangled thing,
+     The [[Fire|fire]] hissed and shrieked more and more, like a strangled thing,
 as it grew narrower and narrower under the flood from the pipe and buckets,
-but Father Brown still kept his eye on it as he went on speaking:
+but [[Father Brown]] still kept his eye on it as he went on speaking:
 
      "I thought of asking this young lady, if it were morning yet,
-to look through that telescope at the river mouth and the river. 
-She might have seen something to interest her:  the sign of the ship,
-or Mr Walter Pendragon coming home, and perhaps even the sign of
-the half-man, for though he is certainly safe by now, he may very well
+to look through that telescope at the [[River|river]] mouth and the [[River|river]]. 
+She might have seen something to interest her:  the sign of the [[Ship|ship]],
+or Mr Walter Pendragon coming [[Home|home]], and perhaps even the sign of
+the half-man, for though he is certainly safe by now, he may very [[Well|well]]
 have waded ashore.  He has been within a shave of another shipwreck;
 and would never have escaped it, if the lady hadn't had the sense
 to suspect the old Admiral's telegram and come down to watch him. 
 Don't let's talk about the old Admiral.  Don't let's talk about anything. 
 It's enough to say that whenever this tower, with its pitch and resin-wood,
-really caught fire, the spark on the horizon always looked like
-the twin light to the coast light-house."
+really caught [[Fire|fire]], the spark on the horizon always looked like
+the twin light to the coast light-[[house]]."
 
-     "And that," said Flambeau, "is how the father and brother died. 
+     "And that," said [[Flambeau]], "is how the father and brother died. 
 The wicked uncle of the legends very nearly got his estate after all."
 
-     Father Brown did not answer; indeed, he did not speak again,
+     [[Father Brown]] did not answer; indeed, he did not speak again,
 save for civilities, till they were all safe round a cigar-box in
-the cabin of the yacht.  He saw that the frustrated fire was extinguished;
+the cabin of the yacht.  He saw that the frustrated [[Fire|fire]] was extinguished;
 and then refused to linger, though he actually heard young Pendragon,
-escorted by an enthusiastic crowd, come tramping up the river bank;
+escorted by an enthusiastic crowd, come tramping up the [[River|river]] bank;
 and might (had he been moved by romantic curiosities) have received
-the combined thanks of the man from the ship and the girl from the canoe. 
+the combined thanks of the man from the [[Ship|ship]] and the girl from the canoe. 
 But his fatigue had fallen on him once more, and he only started once,
-when Flambeau abruptly told him he had dropped cigar-ash on his trousers.
+when [[Flambeau]] abruptly told him he had dropped cigar-ash on his trousers.
 
-     "That's no cigar-ash," he said rather wearily.  "That's from the fire,
+     "That's no cigar-ash," he said rather wearily.  "That's from the [[Fire|fire]],
 but you don't think so because you're all smoking cigars. 
 That's just the way I got my first faint suspicion about the chart."
 
@@ -66,8 +66,8 @@ think it's a specimen.  Put the same feather with a ribbon and
 an artificial flower and everyone will think it's for a lady's hat. 
 Put the same feather with an ink-bottle, a book and a stack
 of writing-paper, and most men will swear they've seen a quill pen. 
-So you saw that map among tropic birds and shells and thought it was
-a map of Pacific Islands.  It was the map of this river."
+So you saw that map among tropic [[Birds|birds]] and shells and thought it was
+a map of Pacific Islands.  It was the map of this [[River|river]]."
 
      "But how do you know?" asked Fanshaw.
 
@@ -77,12 +77,12 @@ like Merlin, and--"
      "You seem to have noticed a lot as we came in," cried Fanshaw. 
 "We thought you were rather abstracted."
 
-     "I was sea-sick," said Father Brown simply.  "I felt simply horrible. 
+     "I was sea-sick," said [[Father Brown]] simply.  "I felt simply horrible. 
 But feeling horrible has nothing to do with not seeing things." 
 And he closed his eyes.
 
-     "Do you think most men would have seen that?" asked Flambeau. 
-He received no answer:  Father Brown was asleep.
+     "Do you think most men would have seen that?" asked [[Flambeau]]. 
+He received no answer:  [[Father Brown]] was asleep.
 
 
 

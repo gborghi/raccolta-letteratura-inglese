@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 71 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 71 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -17,8 +17,8 @@ tags:
 Chapter 71
 
 
-All next day, Emma Haredale, Dolly, and Miggs, remained cooped up
-together in what had now been their prison for so many days, without
+All next day, [[Emma Haredale]], Dolly, and Miggs, remained cooped up
+together in what had now been their [[Prison|prison]] for so many days, without
 seeing any person, or hearing any sound but the murmured conversation,
 in an outer room, of the men who kept watch over them. There appeared to
 be more of these fellows than there had been hitherto; and they could
@@ -36,15 +36,15 @@ the trembling captives.
 Whether this change was occasioned by the presence among them of some
 person of authority in their ranks, or by any other cause, they were
 unable to decide. Sometimes they thought it was in part attributable to
-there being a sick man in the chamber, for last night there had been a
+there being a sick man in the chamber, for last [[Night|night]] there had been a
 shuffling of feet, as though a burden were brought in, and afterwards a
-moaning noise. But they had no means of ascertaining the truth: for
-any question or entreaty on their parts only provoked a storm of
+moaning noise. But they had no means of ascertaining the [[Truth|truth]]: for
+any question or entreaty on their parts only provoked a [[Storm|storm]] of
 execrations, or something worse; and they were too happy to be left
-alone, unassailed by threats or admiration, to risk even that comfort,
+[[Alone|alone]], unassailed by threats or admiration, to risk even that comfort,
 by any voluntary communication with those who held them in durance.
 
-It was sufficiently evident, both to Emma and to the locksmith’s poor
+It was sufficiently evident, both to [[Emma]] and to the locksmith’s poor
 little daughter herself, that she, Dolly, was the great object of
 attraction; and that so soon as they should have leisure to indulge in
 the softer passion, Hugh and Mr Tappertit would certainly fall to blows
@@ -52,28 +52,28 @@ for her sake; in which latter case, it was not very difficult to see
 whose prize she would become. With all her old horror of that man
 revived, and deepened into a degree of aversion and abhorrence which no
 language can describe; with a thousand old recollections and regrets,
-and causes of distress, anxiety, and fear, besetting her on all sides;
-poor Dolly Varden--sweet, blooming, buxom Dolly--began to hang her head,
+and causes of distress, anxiety, and [[Fear|fear]], besetting her on all sides;
+poor [[Dolly Varden]]--sweet, blooming, buxom Dolly--began to hang her head,
 and fade, and droop, like a beautiful flower. The colour fled from her
-cheeks, her courage forsook her, her gentle heart failed. Unmindful
+cheeks, her [[Courage|courage]] forsook her, her gentle heart failed. Unmindful
 of all her provoking caprices, forgetful of all her conquests and
 inconstancy, with all her winning little vanities quite gone, she
-nestled all the livelong day in Emma Haredale’s bosom; and, sometimes
+nestled all the livelong day in [[Emma Haredale]]’s bosom; and, sometimes
 calling on her dear old grey-haired father, sometimes on her mother, and
-sometimes even on her old home, pined slowly away, like a poor bird in
+sometimes even on her old [[Home|home]], pined slowly away, like a poor bird in
 its cage.
 
 Light hearts, light hearts, that float so gaily on a smooth stream, that
 are so sparkling and buoyant in the sunshine--down upon fruit, bloom
-upon flowers, blush in summer air, life of the winged insect, whose
-whole existence is a day--how soon ye sink in troubled water! Poor
+upon [[Flowers|flowers]], blush in [[Summer|summer]] air, life of the winged insect, whose
+whole existence is a day--how soon ye sink in troubled [[Water|water]]! Poor
 Dolly’s heart--a little, gentle, idle, fickle thing; giddy, restless,
 fluttering; constant to nothing but bright looks, and smiles and
 laughter--Dolly’s heart was breaking.
 
-Emma had known grief, and could bear it better. She had little comfort
+[[Emma]] had known grief, and could bear it better. She had little comfort
 to impart, but she could soothe and tend her, and she did so; and Dolly
-clung to her like a child to its nurse. In endeavouring to inspire her
+clung to her like a [[Child|child]] to its [[Nurse|nurse]]. In endeavouring to inspire her
 with some fortitude, she increased her own; and though the nights
 were long, and the days dismal, and she felt the wasting influence
 of watching and fatigue, and had perhaps a more defined and clear
@@ -88,32 +88,32 @@ prepared to use it.
 Such was their condition when they were joined by Miss Miggs, who gave
 them to understand that she too had been taken prisoner because of her
 charms, and detailed such feats of resistance she had performed (her
-virtue having given her supernatural strength), that they felt it quite
+virtue having given her [[Supernatural|supernatural]] strength), that they felt it quite
 a happiness to have her for a champion. Nor was this the only comfort
 they derived at first from Miggs’s presence and society: for that young
-lady displayed such resignation and long-suffering, and so much meek
-endurance, under her trials, and breathed in all her chaste discourse a
-spirit of such holy confidence and resignation, and devout belief that
-all would happen for the best, that Emma felt her courage strengthened
+lady displayed such [[Resignation|resignation]] and long-[[Suffering|suffering]], and so much meek
+[[Endurance|endurance]], under her trials, and breathed in all her chaste discourse a
+spirit of such holy confidence and [[Resignation|resignation]], and devout belief that
+all would happen for the best, that [[Emma]] felt her [[Courage|courage]] strengthened
 by the bright example; never doubting but that everything she said was
 true, and that she, like them, was torn from all she loved, and agonised
-by doubt and apprehension. As to poor Dolly, she was roused, at
-first, by seeing one who came from home; but when she heard under what
+by [[Doubt|doubt]] and apprehension. As to poor Dolly, she was roused, at
+first, by seeing one who came from [[Home|home]]; but when she heard under what
 circumstances she had left it, and into whose hands her father had
 fallen, she wept more bitterly than ever, and refused all comfort.
 
 Miss Miggs was at some trouble to reprove her for this state of mind,
 and to entreat her to take example by herself, who, she said, was now
 receiving back, with interest, tenfold the amount of her subscriptions
-to the red-brick dwelling-house, in the articles of peace of mind and a
-quiet conscience. And, while on serious topics, Miss Miggs considered it
-her duty to try her hand at the conversion of Miss Haredale; for whose
+to the red-brick dwelling-[[house]], in the articles of peace of mind and a
+quiet [[Conscience|conscience]]. And, while on serious topics, Miss Miggs considered it
+her duty to try her hand at the [[conversion]] of Miss Haredale; for whose
 improvement she launched into a polemical address of some length, in the
 course whereof, she likened herself unto a chosen missionary, and that
 young lady to a cannibal in darkness. Indeed, she returned so often to
 these subjects, and so frequently called upon them to take a lesson from
-her,--at the same time vaunting and, as it were, rioting in, her huge
+her,--at the same [[Time|time]] vaunting and, as it were, rioting in, her huge
 unworthiness, and abundant excess of sin,--that, in the course of a
-short time, she became, in that small chamber, rather a nuisance than a
+short [[Time|time]], she became, in that small chamber, rather a nuisance than a
 comfort, and rendered them, if possible, even more unhappy than they had
 been before.

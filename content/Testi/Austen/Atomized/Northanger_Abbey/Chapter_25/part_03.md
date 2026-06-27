@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 24 (part 3)"
+title: "[[Northanger Abbey]] — Chapter 24 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-deceive and pain you. My mother’s room is very commodious, is it not?
+deceive and [[Pain|pain]] you. My mother’s room is very commodious, is it not?
 
-Large and cheerful-looking, and the dressing-closets so well disposed!
+Large and cheerful-looking, and the dressing-closets so [[Well|well]] disposed!
 
-It always strikes me as the most comfortable apartment in the house,
+It always strikes me as the most comfortable apartment in the [[house]],
 
-and I rather wonder that Eleanor should not take it for her own. She
+and I rather [[Wonder|wonder]] that [[Eleanor]] should not take it for her own. She
 
 sent you to look at it, I suppose?”
 
@@ -32,13 +32,13 @@ sent you to look at it, I suppose?”
 
 “It has been your own doing entirely?” Catherine said nothing. After a
 
-short silence, during which he had closely observed her, he added, “As
+short [[Silence|silence]], during which he had closely observed her, he added, “As
 
 there is nothing in the room in itself to raise curiosity, this must
 
 have proceeded from a sentiment of respect for my mother’s character,
 
-as described by Eleanor, which does honour to her memory. The world, I
+as described by [[Eleanor]], which does [[Honour|honour]] to her [[Memory|memory]]. The world, I
 
 believe, never saw a better woman. But it is not often that virtue can
 
@@ -46,7 +46,7 @@ boast an interest such as this. The domestic, unpretending merits of a
 
 person never known do not often create that kind of fervent, venerating
 
-tenderness which would prompt a visit like yours. Eleanor, I suppose,
+tenderness which would prompt a visit like yours. [[Eleanor]], I suppose,
 
 has talked of her a great deal?”
 
@@ -56,7 +56,7 @@ has talked of her a great deal?”
 
 interesting. Her dying so suddenly” (slowly, and with hesitation it was
 
-spoken), “and you—none of you being at home—and your father, I
+spoken), “and you—none of you being at [[Home|home]]—and your father, I
 
 thought—perhaps had not been very fond of her.”
 
@@ -72,7 +72,7 @@ something still less pardonable.” She raised her eyes towards him more
 
 fully than she had ever done before. “My mother’s illness,” he
 
-continued, “the seizure which ended in her death, _was_ sudden. The
+continued, “the seizure which ended in her [[Death|death]], _was_ sudden. The
 
 malady itself, one from which she had often suffered, a bilious
 
@@ -88,13 +88,13 @@ the next day, and remained in almost constant attendance for four and
 
 twenty hours. On the fifth day she died. During the progress of her
 
-disorder, Frederick and I (_we_ were both at home) saw her repeatedly;
+disorder, Frederick and I (_we_ were both at [[Home|home]]) saw her repeatedly;
 
 and from our own observation can bear witness to her having received
 
-every possible attention which could spring from the affection of those
+every possible attention which could [[spring]] from the affection of those
 
-about her, or which her situation in life could command. Poor Eleanor
+about her, or which her situation in life could command. Poor [[Eleanor]]
 
 was absent, and at such a distance as to return only to see her mother
 
@@ -106,9 +106,9 @@ in her coffin.”
 
 
 
-“For a time, greatly so. You have erred in supposing him not attached
+“For a [[Time|time]], greatly so. You have erred in supposing him not attached
 
-to her. He loved her, I am persuaded, as well as it was possible for
+to her. He loved her, I am persuaded, as [[Well|well]] as it was possible for
 
 him to—we have not all, you know, the same tenderness of
 
@@ -118,7 +118,7 @@ might not often have had much to bear, but though his temper injured
 
 her, his judgment never did. His value of her was sincere; and, if not
 
-permanently, he was truly afflicted by her death.”
+permanently, he was truly afflicted by her [[Death|death]].”
 
 
 
@@ -132,7 +132,7 @@ shocking!”
 
 as I have hardly words to—Dear Miss Morland, consider the dreadful
 
-nature of the suspicions you have entertained. What have you been
+[[Nature|nature]] of the suspicions you have entertained. What have you been
 
 judging from? Remember the country and the age in which we live.
 
@@ -140,7 +140,7 @@ Remember that we are English, that we are Christians. Consult your own
 
 understanding, your own sense of the probable, your own observation of
 
-what is passing around you. Does our education prepare us for such
+what is passing around you. Does our [[Education|education]] prepare us for such
 
 atrocities? Do our laws connive at them? Could they be perpetrated
 
@@ -156,6 +156,6 @@ admitting?”
 
 
 
-They had reached the end of the gallery, and with tears of shame she
+They had reached the end of the gallery, and with [[Tears|tears]] of shame she
 
 ran off to her own room.

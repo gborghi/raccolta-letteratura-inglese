@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — Original Sin"
+title: "Man Orthodox — [[Original Sin]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-ORIGINAL SIN
+[[Original Sin|ORIGINAL SIN]]
 
-The true doctrine of original sin may be stated in a million ways,
-like every very central and solid truth.  You may put it this way:
+The true doctrine of [[Original Sin|original sin]] may be stated in a million ways,
+like every very central and solid [[Truth|truth]].  You may put it this way:
 that moral health is not a thing which will fulfil itself
 automatically in any complete man like physical health.
 Or this way:  that we all start in a state of war.  Or this way:

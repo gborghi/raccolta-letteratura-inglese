@@ -25,7 +25,7 @@ of all the enemies of the State.  And I call it the best
 verse because, in a work that no one particularly praises or
 preserves for literary reasons, it is the most quaintly national,
 the most unique, the most sincere and vigorous, and by far
-the most democratic.  One does not hold up `God Save the King'
+the most democratic.  One does not hold up `God Save the [[King]]'
 as a poem like the `Mariners of England', any more than one
 holds up the picture of John Bull as something beautiful
 and well-proportioned, like the St George of Donatello.
@@ -55,7 +55,7 @@ will not see is that, if you are loyal to anything and wish
 to preserve it, you must recognize that it has or might
 have enemies; and you must hope that the enemies will fail.
 The real insolence, if there were any, would lie in saying,
-`God save the King'--in calling the Universal and Eternal to take
+`God save the [[King]]'--in calling the Universal and Eternal to take
 care of a particular tribal chief on a trivial little island.
 But undoubtedly, if you have a right to ask God to save him,
 you have a right to ask God to frustrate those who seek
@@ -66,14 +66,14 @@ perilous today, whether it takes its Jingo or its Pacifist form.
 Not only is the army the chief business of our processions;
 but processions seem to be considered the chief business of the army.
 From no point of view ought armaments to be ornaments.
-I have no respect for that chronic war-fever, or love of conquest, which
-(as the phrase goes) draws the sword and throws away the scabbard.
+I have no respect for that chronic war-fever, or [[Love|love]] of conquest, which
+(as the phrase goes) draws the [[Sword|sword]] and throws away the scabbard.
 But I have even less respect for that arrogant etiquette
-that keeps the scabbard when it has thrown away the sword.
+that keeps the scabbard when it has thrown away the [[Sword|sword]].
 And among the results of this masquerade style of militarism is
 a neglect of the most naked and structural principles of fighting.
 
-Nothing is baser in our time than the idea that we can have
+Nothing is baser in our [[Time|time]] than the idea that we can have
 special enthusiasms for things, so long as they are secure,
 without pledging ourselves to uphold them if they are ever
 in peril.  You cannot have a devotion that is not a boundary.
@@ -94,9 +94,9 @@ seem to think that there is something unpleasant and profane about making
 a war religious.  I should say that there ought to be no war except
 religious war.  If war is irreligious, it is immoral.  No man ought ever
 to fight at all unless he is prepared to put his quarrel before that
-invisible Court of Arbitration with which all religion is concerned.
+invisible [[Court]] of Arbitration with which all religion is concerned.
 Unless he thinks he is vitally, eternally, cosmically in the right,
-he is wrong to fire off a pocket-pistol. If he does think he is in
+he is wrong to [[Fire|fire]] off a pocket-[[Pistol|pistol]]. If he does think he is in
 the right, he is surely justified in praying that the right may prevail.
 The separation between war and the Church, like the separation
 between business and the Chapel, would only mean that the religion
@@ -105,9 +105,9 @@ It would be a good thing if religion thought a little more about
 this world--and if politics thought a little more about the other.
 
 And lastly, no one seems to notice that this verse of the National Anthem
-(if my memory serves me right) is the only one that contains the popular
-note of comradeship as well as the popular note of conflict.
-I quote from memory, but I think the verse runs--
+(if my [[Memory|memory]] serves me right) is the only one that contains the popular
+note of [[Comradeship|comradeship]] as [[Well|well]] as the popular note of conflict.
+I quote from [[Memory|memory]], but I think the verse runs--
 
     O Lord, our God, arise,
     Scatter his enemies,
@@ -120,4 +120,4 @@ I quote from memory, but I think the verse runs--
 It is the only verse that begins with something like fine
 Biblical diction, as of a whirlwind rising.  It is the only
 verse that ends with a universal and democratic benediction.
-I do not wonder that the Moderns want it removed.
+I do not [[Wonder|wonder]] that the Moderns want it removed.

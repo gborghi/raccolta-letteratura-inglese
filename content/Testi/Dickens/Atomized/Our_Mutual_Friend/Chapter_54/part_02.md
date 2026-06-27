@@ -19,9 +19,9 @@ tags:
 The dried gentleman seemed much surprised.
 
 ‘Had the pleasure of dining with you at Lammle’s,’ said Fledgeby. ‘Even
-have the honour of being a connexion of yours. An unexpected sort of
-place this to meet in; but one never knows, when one gets into the City,
-what people one may knock up against. I hope you have your health, and
+have the [[Honour|honour]] of being a connexion of yours. An unexpected sort of
+place this to meet in; but one never knows, when one gets into the [[City]],
+what people one may knock up against. I [[Hope|hope]] you have your health, and
 are enjoying yourself.’
 
 There might have been a touch of impertinence in the last words; on the
@@ -30,7 +30,7 @@ manner. Mr Fledgeby sat on a stool with a foot on the rail of another
 stool, and his hat on. Mr Twemlow had uncovered on looking in at the
 door, and remained so. Now the conscientious Twemlow, knowing what he
 had done to thwart the gracious Fledgeby, was particularly disconcerted
-by this encounter. He was as ill at ease as a gentleman well could be.
+by this encounter. He was as ill at ease as a gentleman [[Well|well]] could be.
 He felt himself bound to conduct himself stiffly towards Fledgeby,
 and he made him a distant bow. Fledgeby made his small eyes smaller
 in taking special note of his manner. The dolls’ dressmaker sat in her
@@ -38,12 +38,12 @@ corner behind the door, with her eyes on the ground and her hands folded
 on her basket, holding her crutch-stick between them, and appearing to
 take no heed of anything.
 
-‘He’s a long time,’ muttered Mr Fledgeby, looking at his watch. ‘What
-time may you make it, Mr Twemlow?’
+‘He’s a long [[Time|time]],’ muttered Mr Fledgeby, looking at his watch. ‘What
+[[Time|time]] may you make it, Mr Twemlow?’
 
 Mr Twemlow made it ten minutes past twelve, sir.
 
-‘As near as a toucher,’ assented Fledgeby. ‘I hope, Mr Twemlow, your
+‘As near as a toucher,’ assented Fledgeby. ‘I [[Hope|hope]], Mr Twemlow, your
 business here may be of a more agreeable character than mine.’
 
 ‘Thank you, sir,’ said Mr Twemlow.
@@ -55,7 +55,7 @@ folded letter.
 ‘What I know of Mr Riah,’ said Fledgeby, with a very disparaging
 utterance of his name, ‘leads me to believe that this is about the shop
 for disagreeable business. I have always found him the bitingest and
-tightest screw in London.’
+tightest screw in [[London]].’
 
 Mr Twemlow acknowledged the remark with a little distant bow. It
 evidently made him nervous.
@@ -72,15 +72,15 @@ rejoined with spirit. ‘You indicate the generous and manly course.’
 ‘Glad to have your approbation,’ returned Fledgeby. ‘It’s a coincidence,
 Mr Twemlow;’ here he descended from his perch, and sauntered towards
 him; ‘that the friends I am standing by to-day are the friends at whose
-house I met you! The Lammles. She’s a very taking and agreeable woman?’
+[[house]] I met you! The Lammles. She’s a very taking and agreeable woman?’
 
-Conscience smote the gentle Twemlow pale. ‘Yes,’ he said. ‘She is.’
+[[Conscience]] smote the gentle Twemlow pale. ‘Yes,’ he said. ‘She is.’
 
 ‘And when she appealed to me this morning, to come and try what I could
 do to pacify their creditor, this Mr Riah—that I certainly have gained
 some little influence with in transacting business for another friend,
 but nothing like so much as she supposes—and when a woman like that
-spoke to me as her dearest Mr Fledgeby, and shed tears—why what could I
+spoke to me as her dearest Mr Fledgeby, and shed [[Tears|tears]]—why what could I
 do, you know?’
 
 Twemlow gasped ‘Nothing but come.’
@@ -90,19 +90,19 @@ his hands in his pockets and counterfeiting deep meditation, ‘why Riah
 should have started up, when I told him that the Lammles entreated him
 to hold over a Bill of Sale he has on all their effects; and why he
 should have cut out, saying he would be back directly; and why he should
-have left me here alone so long; I cannot understand.’
+have left me here [[Alone|alone]] so long; I cannot understand.’
 
 The chivalrous Twemlow, Knight of the Simple Heart, was not in a
 condition to offer any suggestion. He was too penitent, too remorseful.
-For the first time in his life he had done an underhanded action, and he
+For the first [[Time|time]] in his life he had done an underhanded action, and he
 had done wrong. He had secretly interposed against this confiding young
 man, for no better real reason than because the young man’s ways were
 not his ways.
 
-But, the confiding young man proceeded to heap coals of fire on his
+But, the confiding young man proceeded to heap coals of [[Fire|fire]] on his
 sensitive head.
 
-‘I beg your pardon, Mr Twemlow; you see I am acquainted with the nature
+‘I beg your pardon, Mr Twemlow; you see I am acquainted with the [[Nature|nature]]
 of the affairs that are transacted here. Is there anything I can do for
 you here? You have always been brought up as a gentleman, and never as a
 man of business;’ another touch of possible impertinence in this place;
@@ -118,15 +118,15 @@ disinclined to profit by it. I don’t deserve it.’
 
 Good childish creature! Condemned to a passage through the world by such
 narrow little dimly-lighted ways, and picking up so few specks or spots
-on the road!
+on the [[Road|road]]!
 
 ‘Perhaps,’ said Fledgeby, ‘you may be a little proud of entering on the
 topic,—having been brought up as a gentleman.’
 
-‘It’s not that, sir,’ returned Twemlow, ‘it’s not that. I hope I
-distinguish between true pride and false pride.’
+‘It’s not that, sir,’ returned Twemlow, ‘it’s not that. I [[Hope|hope]] I
+distinguish between true [[Pride|pride]] and false [[Pride|pride]].’
 
-‘I have no pride at all, myself,’ said Fledgeby, ‘and perhaps I don’t
+‘I have no [[Pride|pride]] at all, myself,’ said Fledgeby, ‘and perhaps I don’t
 cut things so fine as to know one from t’other. But I know this is a
 place where even a man of business needs his wits about him; and if mine
 can be of any use to you here, you’re welcome to them.’
@@ -135,7 +135,7 @@ can be of any use to you here, you’re welcome to them.’
 unwilling—’
 
 ‘I don’t, you know,’ proceeded Fledgeby with an ill-favoured glance,
-‘entertain the vanity of supposing that my wits could be of any use
+‘entertain the [[Vanity|vanity]] of supposing that my wits could be of any use
 to you in society, but they might be here. You cultivate society and
 society cultivates you, but Mr Riah’s not society. In society, Mr Riah
 is kept dark; eh, Mr Twemlow?’

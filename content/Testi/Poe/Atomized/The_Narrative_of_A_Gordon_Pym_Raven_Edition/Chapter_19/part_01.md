@@ -32,7 +32,7 @@ CHAPTER 19
 
       which joined us, as if by accident, at different turns of the
 
-      road. There appeared so much of system in this that I could not
+      [[Road|road]]. There appeared so much of system in this that I could not
 
       help feeling distrust, and I spoke to Captain Guy of my
 
@@ -40,7 +40,7 @@ CHAPTER 19
 
       concluded that our best security lay in evincing a perfect
 
-      confidence in the good faith of Too-wit. We accordingly went on,
+      confidence in the good [[Faith|faith]] of Too-wit. We accordingly went on,
 
       keeping a wary eye upon the manoeuvres of the savages, and not
 
@@ -120,23 +120,23 @@ CHAPTER 19
 
       access in other directions. Through the middle of the valley ran
 
-      a brawling stream of the same magical-looking water which has
+      a brawling stream of the same magical-looking [[Water|water]] which has
 
-      been described. We saw several strange animals about the
+      been described. We saw several strange [[Animals|animals]] about the
 
       dwellings, all appearing to be thoroughly domesticated. The
 
       largest of these creatures resembled our common hog in the
 
-      structure of the body and snout; the tail, however, was bushy,
+      structure of the [[Body|body]] and snout; the tail, however, was bushy,
 
       and the legs slender as those of the antelope. Its motion was
 
       exceedingly awkward and indecisive, and we never saw it attempt
 
-      to run. We noticed also several animals very similar in
+      to run. We noticed also several [[Animals|animals]] very similar in
 
-      appearance, but of a greater length of body, and covered with a
+      appearance, but of a greater length of [[Body|body]], and covered with a
 
       black wool. There were a great variety of tame fowls running
 
@@ -144,11 +144,11 @@ CHAPTER 19
 
       natives. To our astonishment we saw black albatross among these
 
-      birds in a state of entire domestication, going to sea
+      [[Birds|birds]] in a state of entire domestication, going to sea
 
       periodically for food, but always returning to the village as a
 
-      home, and using the southern shore in the vicinity as a place of
+      [[Home|home]], and using the southern shore in the vicinity as a place of
 
       incubation. There they were joined by their friends the pelicans
 
@@ -178,7 +178,7 @@ CHAPTER 19
 
       Gallipago tortoise was also very plentiful. We saw but few wild
 
-      animals, and none of a large size, or of a species with which we
+      [[Animals|animals]], and none of a large size, or of a species with which we
 
       were familiar. One or two serpents of a formidable aspect crossed
 

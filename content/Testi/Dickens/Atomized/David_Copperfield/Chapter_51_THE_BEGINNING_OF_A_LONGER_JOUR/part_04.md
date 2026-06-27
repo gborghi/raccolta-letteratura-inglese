@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 51: THE BEGINNING OF A LONGER JOURNEY (part 4)"
+title: "[[David Copperfield]] — Chapter 51: THE BEGINNING OF A LONGER [[Journey|JOURNEY]] (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-My aunt nodded confirmation of this hope, and imparted great
+My aunt nodded confirmation of this [[Hope|hope]], and imparted great
 satisfaction to Mr. Peggotty.
 
 ‘Theer’s one thing furder, Mas’r Davy,’ said he, putting his hand in his
@@ -36,10 +36,10 @@ price on; and that I’m gone, and past receiving of it back.’
 I told him that I thought it would be right to do so--that I was
 thoroughly convinced it would be, since he felt it to be right.
 
-‘I said that theer was on’y one thing furder,’ he proceeded with a grave
+‘I said that theer was on’y one thing furder,’ he proceeded with a [[Grave|grave]]
 smile, when he had made up his little bundle again, and put it in his
 pocket; ‘but theer was two. I warn’t sure in my mind, wen I come out
-this morning, as I could go and break to Ham, of my own self, what had
+this morning, as I could go and break to Ham, of my own [[Self|self]], what had
 so thankfully happened. So I writ a letter while I was out, and put
 it in the post-office, telling of ‘em how all was as ‘tis; and that I
 should come down tomorrow to unload my mind of what little needs a-doing
@@ -56,18 +56,18 @@ go--as I found on talking it over with her--I readily pledged myself to
 accompany him in accordance with his wish. Next morning, consequently,
 we were on the Yarmouth coach, and again travelling over the old ground.
 
-As we passed along the familiar street at night--Mr. Peggotty, in
+As we passed along the familiar street at [[Night|night]]--Mr. Peggotty, in
 despite of all my remonstrances, carrying my bag--I glanced into Omer
 and Joram’s shop, and saw my old friend Mr. Omer there, smoking his
 pipe. I felt reluctant to be present, when Mr. Peggotty first met his
 sister and Ham; and made Mr. Omer my excuse for lingering behind.
 
-‘How is Mr. Omer, after this long time?’ said I, going in.
+‘How is Mr. Omer, after this long [[Time|time]]?’ said I, going in.
 
 He fanned away the smoke of his pipe, that he might get a better view of
 me, and soon recognized me with great delight.
 
-‘I should get up, sir, to acknowledge such an honour as this visit,’
+‘I should get up, sir, to acknowledge such an [[Honour|honour]] as this visit,’
 said he, ‘only my limbs are rather out of sorts, and I am wheeled about.
 With the exception of my limbs and my breath, howsoever, I am as hearty
 as a man can be, I’m thankful to say.’
@@ -78,7 +78,7 @@ saw, now, that his easy-chair went on wheels.
 ‘It’s an ingenious thing, ain’t it?’ he inquired, following the
 direction of my glance, and polishing the elbow with his arm. ‘It runs
 as light as a feather, and tracks as true as a mail-coach. Bless you,
-my little Minnie--my grand-daughter you know, Minnie’s child--puts her
+my little Minnie--my grand-daughter you know, Minnie’s [[Child|child]]--puts her
 little strength against the back, gives it a shove, and away we go, as
 clever and merry as ever you see anything! And I tell you what--it’s a
 most uncommon chair to smoke a pipe in.’
@@ -99,7 +99,7 @@ done? Being my limbs, what does it signify? Why, my limbs only made my
 breath shorter when I used ‘em. And now, if I want to go out into
 the street or down to the sands, I’ve only got to call Dick, Joram’s
 youngest ‘prentice, and away I go in my own carriage, like the Lord
-Mayor of London.’
+Mayor of [[London]].’
 
 He half suffocated himself with laughing here.
 
@@ -123,11 +123,11 @@ word. And as to feeling sleepy! Not at all!’
 I laughingly expressed my satisfaction, but I must confess that I
 thought this association of ideas significant.
 
-‘I give you my word and honour, sir,’ said Mr. Omer, ‘that when I lay
+‘I give you my word and [[Honour|honour]], sir,’ said Mr. Omer, ‘that when I lay
 that book upon the table, and look at it outside; compact in three
 separate and indiwidual wollumes--one, two, three; I am as proud as
-Punch to think that I once had the honour of being connected with
-your family. And dear me, it’s a long time ago, now, ain’t it? Over
+Punch to think that I once had the [[Honour|honour]] of being connected with
+your family. And dear me, it’s a long [[Time|time]] ago, now, ain’t it? Over
 at Blunderstone. With a pretty little party laid along with the other
 party. And you quite a small party then, yourself. Dear, dear!’
 

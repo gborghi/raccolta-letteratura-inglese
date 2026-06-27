@@ -31,7 +31,7 @@ shopkeeper for some distance round.  Mr. Crooke still
 served in his shop, however; and politely hastened
 to serve his customer with the medicine that was
 customary.  Unfortunately, for some reason or other,
-history was, in connection with this shop, only too
+[[history]] was, in connection with this shop, only too
 prone to repeat itself.  And after a vague but soothing
 conversation with the chemist (on the subject of
 vitriol and its effects on human happiness), Mr. Hibbs
@@ -41,7 +41,7 @@ enter the same fashionable emporium.  But, indeed,
 Leveson's own annoyance was much too acute for him
 to notice any on the part of Hibbs.
 
-"Well," he said, stopping dead in the middle of
+"[[Well]]," he said, stopping dead in the middle of
 the shop, "here is a fine confounded kettle of fish!"
 
 It is one of the tragedies of the diplomatic that they
@@ -52,7 +52,7 @@ pursing his lips, "you mean the _general_ situation."
 "I mean the situation about this everlasting
 business of the inn-signs," said Leveson, impatiently.
 "Lord Ivywood went up specially, when his leg was
-really bad, to get it settled in the House in a small
+really bad, to get it settled in the [[house|House]] in a small
 non-contentious bill, providing that the sign shouldn't be
 enough if the liquor hadn't been on the spot three
 days."
@@ -72,7 +72,7 @@ kept too quiet to be obeyed.  It's not so easy to hush
 it up from a big politician without running the risk
 of hushing it up even from a common policeman."
 
-"But surely that can't happen, by the nature of
+"But surely that can't happen, by the [[Nature|nature]] of
 things?"
 
 "Can't it, by God," said J. Leveson, appealing to a
@@ -93,7 +93,7 @@ asserted to be a sign-board within the meaning of the act.
 There, you see, they haven't even heard of the new
 act!  What do you think of this, from the _Clapton
 Conservator_.  'The contempt of Socialists for the law
-was well illustrated yesterday, when a crowd, collected
+was [[Well|well]] illustrated yesterday, when a crowd, collected
 round some wooden ensign of Socialism set up before
 Mr. Dugdale's Drapery Stores, refused to disperse,
 though told that their action was contrary to the law.
@@ -102,16 +102,16 @@ following the wooden emblem.'  And what do you say
 to this?  'Stop-press news.  A chemist in Pimlico has
 been invaded by a huge crowd, demanding beer; and
 asserting the provision of it to be among his duties.
-The chemist is, of course, well acquainted with his
+The chemist is, of course, [[Well|well]] acquainted with his
 immunities in the matter, especially under the new
 act; but the old notion of the importance of the sign
 seems still to possess the populace and even, to a
 certain extent, to paralyze the police.'  What do you say
 to that?  Isn't it as plain as Monday morning that
 this Flying Inn has flown a day in front of us, as all
-such lies do?"  There was a diplomatic silence.
+such lies do?"  There was a diplomatic [[Silence|silence]].
 
-"Well," asked the still angry Leveson of the still
+"[[Well]]," asked the still angry Leveson of the still
 dubious Hibbs, "what do you make of all that?"
 
 One ill-acquainted with that relativity essential to
@@ -126,7 +126,7 @@ Crooke.
 with an expression which they both thought baffling
 and even a little disconcerting.  "Good morning, Mr.
 Crooke.  I have a celebrated visitor for you."  And
-he introduced the smiling Misysra.  The Prophet had
+he introduced the smiling Misysra.  The [[Prophet]] had
 fallen back on a comparatively quiet costume this
 morning, a mere matter of purple and orange or what
 not; but his aged face was now perennially festive.
@@ -138,7 +138,7 @@ beau-uti-ful speech?"
 "I have heard many," said Hibbs, gracefully, "that
 can be so described."
 
-"The Prophet means what I was saying about the
+"The [[Prophet]] means what I was saying about the
 Ballot Paper Amendment Act," said Ivywood, casually.
 "It seems to be the alphabet of statesmanship
 to recognise now that the great oriental British
@@ -147,23 +147,23 @@ occidental one.  Look at our universities, with their
 Mohammedan students; soon they may be a majority.
 Now are we," he went on, still more quietly, "are
 we to rule this country under the forms of representative
-government?  I do not pretend to believe in
-democracy, as you know, but I think it would be
+[[government]]?  I do not pretend to believe in
+[[democracy]], as you know, but I think it would be
 extremely unsettling and incalculable to destroy
-representative government.  If we are to give Moslem
-Britain representative government, we must not make
+representative [[government]].  If we are to give Moslem
+Britain representative [[government]], we must not make
 the mistake we made about the Hindoos and military
 organization--which led to the Mutiny.  We must not
-ask them to make a cross on their ballot papers; for
+ask them to make a [[Cross|cross]] on their ballot papers; for
 though it seems a small thing, it may offend them.
 So I brought in a little bill to make it optional between
-the old-fashioned cross and an upward curved mark
+the old-fashioned [[Cross|cross]] and an upward curved mark
 that might stand for a crescent--and as it's rather
 easier to make, I believe it will be generally adopted."
 
 "And so," said the radiant old Turk, "the little,
 light, easily made, curly mark is substituted for the
-hard, difficult, double-made, cutting both ways mark.
+hard, difficult, [[Double|double]]-made, cutting both ways mark.
 It is the more good for hygi-e-ene.  For you must
 know, and indeed our good and wise Chemist will tell
 you, that the Saracenic and the Arabian and the Turkish
@@ -176,21 +176,21 @@ origin."
 "Yes, that is quite true," said Crooke, in his rather
 cryptic and unsympathetic way, "the powder called
 Arenine, lately popularised by Mr. Boze, now Lord
-Helvellyn, who tried it first on birds, is made of plain
-desert sand.  And what you see in prescriptions as
+Helvellyn, who tried it first on [[Birds|birds]], is made of plain
+[[Desert|desert]] sand.  And what you see in prescriptions as
 _Cannabis Indiensis_ is what our lively neighbours of
 Asia describe more energetically as bhang."
 
 "And so-o--in the sa-ame way," said Misysra, making
 soothing passes with his brown hand like a mesmerist,
 "in the sa-ame way the making of the crescent
-is hy-gienic; the making of the cross is non-hy-gienic.
+is hy-gienic; the making of the [[Cross|cross]] is non-hy-gienic.
 The crescent was a little wave, as a leaf, as
 a little curling feather," and he waved his hand with
 real artistic enthusiasm toward the capering curves of
 the new Turkish decoration which Ivywood had made
 fashionable in many of the fashionable shops.  "But
-when you make the cross you must make the one line
+when you make the [[Cross|cross]] you must make the one line
 _so-o_," and he swept the horizon with the brown hand,
 "and then you must go back and make the other line
 so-o," and he made an upward gesture suggestive of
@@ -198,9 +198,9 @@ one constrained to lift a pine-tree.  "And then you
 become very ill."
 
 "As a matter of fact, Mr. Crooke," said Ivywood,
-in his polite manner, "I brought the Prophet here to
+in his polite manner, "I brought the [[Prophet]] here to
 consult you as the best authority on the very point you
-have just mentioned--the use of hashish or the hemp-plant.  I have it on my conscience to decide whether
+have just mentioned--the use of hashish or the hemp-plant.  I have it on my [[Conscience|conscience]] to decide whether
 these oriental stimulants or sedatives shall come under
 the general veto we are attempting to impose on the
 vulgar intoxicants.  Of course one has heard of the
@@ -208,20 +208,20 @@ horrible and voluptuous visions, and a kind of insanity
 attributed to the Assassins and the Old Man of the
 Mountain.  But, on the one hand, we must clearly
 discount much for the illimitable pro-Christian bias
-with which the history of these eastern tribes is told
+with which the [[history]] of these eastern tribes is told
 in this country.  Would you say the effect of hashish
 was extremely bad?"  And he turned first to the
-Prophet.
+[[Prophet]].
 
 "You will see mosques," said that seer with candour,
 "many mosques--more mosques--taller and taller
-mosques till they reach the moon and you bear a
+mosques till they reach the [[Moon|moon]] and you bear a
 dreadful voice in the very high mosque calling the
 muezzin; and you will think it is Allah.  Then you
 will see wives--many, many wives--more wives than
 you yet have.  Then you will be rolled over and over
 in a great pink and purple sea--which is still wives.
-Then you will go to sleep.  I have only done it once,"
+Then you will go to [[Sleep|sleep]].  I have only done it once,"
 he concluded mildly.
 
 "And what do you think about hashish, Mr.
@@ -229,7 +229,7 @@ Crooke?" asked Ivywood, thoughtfully.
 
 "I think it's hemp at both ends," said the Chemist.
 
-"I fear," said Lord Ivywood, "I don't quite
+"I [[Fear|fear]]," said Lord Ivywood, "I don't quite
 understand you."
 
 "A hempen drink, a murder, and a hempen rope.
@@ -242,7 +242,7 @@ And, of course," he added, with a simplicity that had
 something noble about it, "their connection with St.
 Louis discredits them rather."
 
-After a space of silence, he said suddenly, looking
+After a space of [[Silence|silence]], he said suddenly, looking
 at Crooke, "So it isn't the sort of thing you chiefly
 sell?"
 
@@ -280,7 +280,7 @@ Hibbs coughed considerately and said, "Of course
 all our things came from the East, and"--and he
 paused, being suddenly unable to remember anything
 but curry; to which he was very rightly attached.  He
-then remembered Christianity, and mentioned that
+then remembered [[Christianity]], and mentioned that
 too.  "Everything from the East is good, of course,"
 he ended, with an air of light omniscience.
 
@@ -296,16 +296,16 @@ illogical compliment.
 
 "You are in error," he said, solemnly, to Hibbs,
 "because you say all things from the East are good.
-There is the east wind.  I do not like him.  He is not
+There is the east [[Wind|wind]].  I do not like him.  He is not
 good.  And I think very much that all the warmth and
-all the wealthiness and the colours and the poems and
+all the wealthiness and the colours and the [[Poems|poems]] and
 the religiousness that the East was meant to give you
 have been much poisoned by this accident, this east
-wind.  When you see the green flag of the Prophet,
-you do not think of a green field in Summer, you think
-of a green wave in your seas of Winter; for you think
-it blown by the east wind.  When you read of the
-moon-faced houris you think not of our moons like
+[[Wind|wind]].  When you see the green [[Flag|flag]] of the [[Prophet]],
+you do not think of a green field in [[Summer]], you think
+of a green wave in your seas of [[Winter]]; for you think
+it blown by the east [[Wind|wind]].  When you read of the
+[[Moon|moon]]-faced houris you think not of our moons like
 oranges but of your moons like snowballs--"
 
 Here a new voice contributed to the conversation.
@@ -323,12 +323,12 @@ and seemed honestly abashed that she was not present.
 Ivywood looked at the man with that expression
 of one turned to stone, which his physique made so
 effective in him.  But J. Leveson, Secretary, could
-summon no such powers of self-petrification.  Upon
-his soul the slaughter red of that unhallowed eve arose
-when first the Ship and he were foes; when he
+summon no such powers of [[Self|self]]-petrification.  Upon
+his [[Soul|soul]] the slaughter red of that unhallowed eve arose
+when first the [[Ship]] and he were foes; when he
 discovered that the poor are human beings, and
 therefore are polite and brutal within a comparatively short
-space of time.  He saw that two other men were
+space of [[Time|time]].  He saw that two other men were
 standing behind the plastering person, one of them
 apparently urging him to counsels of moderation; which
 was an ominous sign.  And then he lifted his eyes and
@@ -336,7 +336,7 @@ saw something worse than any omen.
 
 All the glass frontage of the shop was a cloud of
 crowding faces.  They could not be clearly seen, since
-night was closing in on the street; and the dazzling
+[[Night|night]] was closing in on the street; and the dazzling
 fires of ruby and amethyst which the lighted shop
 gave to its great globes of liquid, rather veiled than
 revealed them.  But the foremost actually flattened
@@ -347,11 +347,11 @@ of an upright staff and a square board.  He could not
 see what was on the board.  He did not need to see.
 
 Those who saw Lord Ivywood at such moments
-understood why he stood out so strongly in the history
-of his time, in spite of his frozen face and his fanciful
+understood why he stood out so strongly in the [[history]]
+of his [[Time|time]], in spite of his frozen face and his fanciful
 dogmas.  He had all the negative nobility that is
 possible to man.  Unlike Nelson and most of the great
-heroes, he knew not fear.  Thus he was never conquered
+heroes, he knew not [[Fear|fear]].  Thus he was never conquered
 by a surprise, but was cold and collected when
 other men had lost their heads even if they had not
 lost their nerve.
@@ -359,7 +359,7 @@ lost their nerve.
 "I will not conceal from you, gentlemen," said Lord
 Ivywood, "that I have been expecting this.  I will not
 even conceal from you that I have been occupying Mr.
-Crooke's time until it occurred.  So far from excluding
+Crooke's [[Time|time]] until it occurred.  So far from excluding
 the crowd, I suggest it would be an excellent thing
 if Mr. Crooke could accommodate them all in this shop.
 I want to tell, as soon as possible, as large a crowd as
@@ -370,7 +370,7 @@ Come in and listen!"
 "Thank yer," said a man connected in some way
 with motor buses, who lurched in behind the plasterer.
 
-"Thanky, sir," said a bright little clock-mender
+"Thanky, sir," said a bright little [[Clock|clock]]-mender
 from Croydon, who immediately followed him.
 
 "Thanks," said a rather bewildered clerk from
@@ -378,23 +378,23 @@ Camberwell, who came next in the rather bewildered
 procession.
 
 "Thank you," said Mr. Dorian Wimpole, who
-entered, carrying a large round cheese.
+entered, carrying a large round [[cheese]].
 
 "Thank you," said Captain Dalroy, who entered
 carrying a large cask of rum.
 
 "Thank you very much," said Mr. Humphrey
 Pump, who entered the shop carrying the sign of
-"The Old Ship."
+"The Old [[Ship]]."
 
-I fear it must be recorded that the crowd which
+I [[Fear|fear]] it must be recorded that the crowd which
 followed them dispensed with all expressions of
 gratitude.  But though the crowd filled the shop so that
 there was no standing room to spare, Leveson still
 lifted his gloomy eyes and beheld his gloomy omen.
 For, though there were very many more people standing
 in the shop, there seemed to be no less people
-looking in at the window.
+looking in at the [[Window|window]].
 
 "Gentlemen," said Ivywood, "all jokes come to an
 end.  This one has gone so far as to be serious; and it
@@ -414,16 +414,16 @@ with a sigh, "And as you truly say, my jest has come
 to an end."
 
 "That wooden sign," said Ivywood, pointing at the
-queer blue ship, "can be cut up for firewood.  It shall
-lead decent citizens a devil's dance no more.  Understand
+queer blue [[Ship|ship]], "can be cut up for firewood.  It shall
+lead decent citizens a devil's [[Dance|dance]] no more.  Understand
 it once and for all, before you learn it from
-policemen or prison warders.  You are under a new
+policemen or [[Prison|prison]] warders.  You are under a new
 law.  That sign is the sign of nothing.  You can no
 more buy and sell alcohol by having that outside your
-house, than if it were a lamp-post."
+[[house]], than if it were a lamp-post."
 
 "D'you meanter say, guv'ner," said the plasterer,
-with a dawn of intelligence on his large face which
+with a [[Dawn|dawn]] of intelligence on his large face which
 was almost awful to watch, "that I ain't to 'ave a glass
 o' bitter?"
 
@@ -431,7 +431,7 @@ o' bitter?"
 
 "Captain Dalroy," said Lord Ivywood, "if you
 give one drop from that cask to that man, you are
-breaking the law and you shall sleep in jail."
+breaking the law and you shall [[Sleep|sleep]] in jail."
 
 "Are you quite sure?" asked Dalroy, with a strange
 sort of anxiety.  "I might escape."
@@ -447,7 +447,7 @@ necktie, I will," said the plasterer.  "Why ain't people
 allowed to know the law?"
 
 "They ain't got no right to alter the law in the dark
-like that," said the clock-mender.  "Damn the new
+like that," said the [[Clock|clock]]-mender.  "Damn the new
 law."
 
 "What is the new law?" asked the clerk.
@@ -461,7 +461,7 @@ that cask of yours has not, I think, been three
 days on these premises.  I command you to seal it up
 and take it away."
 
-"Surely," said Patrick, with an innocent air, "the
+"Surely," said Patrick, with an [[Innocent|innocent]] air, "the
 best remedy would be to wait till it _has been three days_
 on the premises.  We might all get to know each other
 better."  And he looked round at the ever-increasing
@@ -470,9 +470,9 @@ multitude with hazy benevolence.
 "You shall do nothing of the kind," said his lordship,
 with sudden fierceness.
 
-"Well," answered Patrick, wearily, "now I come
+"[[Well]]," answered Patrick, wearily, "now I come
 to think of it, perhaps I won't.  I'll have one drink
-here and go home to bed like a good little boy."
+here and go [[Home|home]] to bed like a good little boy."
 
 "And the constables shall arrest you," thundered
 Ivywood.
@@ -504,7 +504,7 @@ on the counter by Hibbs and Leveson.
 "What is that man drinking?" he demanded.
 
 Hibbs put out his hand hastily for his glass, but
-the indignant clock-mender had snatched it first and
+the indignant [[Clock|clock]]-mender had snatched it first and
 drained it at a gulp.
 
 "Scortch," he said, and dashed the glass to atoms
@@ -517,7 +517,7 @@ port.  Fetch it down, Bill."
 Ivywood turned to Crooke and said, scarcely moving
 his lips of marble, "This is a lie."
 
-"It is the truth," answered Crooke, looking back at
+"It is the [[Truth|truth]]," answered Crooke, looking back at
 him with equal steadiness.  "Do you think you made
 the world, that you should make it over again so
 easily?"
@@ -539,16 +539,16 @@ glass was crashing amid the cries of a crowd.  Rivers
 of gold and purple wines sprawled about the pavement.
 
 "Out in the open!" shouted Dalroy, rushing out of
-the shop, sign-board in hand, the dog Quoodle barking
-furiously at his heels, while Dorian with the cheese
+the shop, sign-board in hand, the dog [[quoodle|Quoodle]] barking
+furiously at his heels, while Dorian with the [[cheese]]
 and Humphrey with the keg followed as rapidly as
 they could.  "Goodnight, my lord.
 
     "Perhaps our meeting next may fall,
-     At Tomworth in your castle hall.
+     At Tomworth in your [[Castle|castle]] hall.
 
 "Come along, friends, and form up.  Don't waste
-time destroying property.  We're all to start now."
+[[Time|time]] destroying property.  We're all to start now."
 
 "Where are we all going to?" asked the plasterer.
 
@@ -561,14 +561,14 @@ Wimpole, who was toward the tail of the procession, saw
 again the grey Cyclops tower of St. Stephens, with
 its one great golden eye, as he had seen it against that
 pale green sunset that was at once quiet and volcanic
-on the night he was betrayed by sleep and by a friend.
+on the [[Night|night]] he was betrayed by [[Sleep|sleep]] and by a friend.
 Almost as far off, at the head of the procession, he
-could see the sign with the ship and the cross going
+could see the sign with the [[Ship|ship]] and the [[Cross|cross]] going
 before them like an ensign, and hear a great voice
 singing--
-    "Men that are men again, Who goes home?
-     Tocsin and trumpeter!  Who goes home?
+    "Men that are men again, Who goes [[Home|home]]?
+     Tocsin and trumpeter!  Who goes [[Home|home]]?
      The voice valedictory--who is for Victory?
-     Who is for Liberty?  Who goes home?"
+     Who is for Liberty?  Who goes [[Home|home]]?"
 
 * * *

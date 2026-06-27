@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — R. ASA LEE PINION, of the Chicago Comet, had crossed half of America, (part 2)"
+title: "[[FourFaultlessFelons]] — R. ASA LEE PINION, of the Chicago Comet, had crossed half of [[America]], (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -18,7 +18,7 @@ and his dark hair and rather ragged beard could, at the best, be only
 
 excused as Bohemian. He had very remarkable eyes, sunk very deep in his
 
-head and yet, by a paradox, standing out like signals. The visitor found
+head and yet, by a [[Paradox|paradox]], standing out like signals. The visitor found
 
 himself continually drawn to them, as if they were magnets.
 
@@ -46,7 +46,7 @@ banquets of their friend the Count de Marillac.
 
 For however seriously Marillac might or might not be taking the serious
 
-drama of Sex and Science, there was no doubt that he would take the
+drama of Sex and Science, there was no [[Doubt|doubt]] that he would take the
 
 dinner even more seriously. He was famous as an epicure of almost the
 
@@ -54,7 +54,7 @@ classic and legendary sort, and all the gourmets of Europe reverenced his
 
 reputation. The little man with the spectacles glanced at this fact,
 
-indeed, as they sat down to dinner: "Hope you can put up with our simple
+indeed, as they sat down to dinner: "[[Hope]] you can put up with our simple
 
 fare, Mr. Pinion," he said. "You'd have had a much more carefully
 
@@ -90,7 +90,7 @@ Pinion could not keep his eyes off the magnetic eyes of the man with the
 
 shabby clothes and shaggy hair. Just now the man was gazing across the
 
-table with a curious intentness, and in the ensuing silence, he suddenly
+table with a curious intentness, and in the ensuing [[Silence|silence]], he suddenly
 
 intervened.
 
@@ -112,7 +112,7 @@ The man opposite looked at him steadily and rather strangely for a
 
 moment, and then said: "I have half a mind.... Look here, have you any
 
-human curiosity as well as journalistic curiosity? I mean, would the one
+human curiosity as [[Well|well]] as journalistic curiosity? I mean, would the one
 
 man like to know, even if the million never knew?"
 
@@ -128,7 +128,7 @@ confidential."
 
 
 
-"Well," answered the other gravely, "why do you think he chooses them?"
+"[[Well]]," answered the other gravely, "why do you think he chooses them?"
 
 
 
@@ -146,7 +146,7 @@ boat."
 
 The man with the peculiar eyes broke off from his flippant speech,
 
-plunged for a few moments into profound silence, and then resumed in so
+plunged for a few moments into profound [[Silence|silence]], and then resumed in so
 
 different a tone that it was like another man suddenly speaking at the
 
@@ -156,9 +156,9 @@ table.
 
 "Every age has its bigotry, which is blind to some particular need of
 
-human nature; the Puritans to the need for merriment, the Manchester
+human [[Nature|nature]]; the Puritans to the need for merriment, the Manchester
 
-School to the need for beauty, and so on. There is a need in man, or at
+School to the need for [[Beauty|beauty]], and so on. There is a need in man, or at
 
 least in many men, which it is not fashionable to admit or allow for in
 
@@ -166,7 +166,7 @@ these days. Most people have had a touch of it in the more serious
 
 emotions of youth; in a few men it burns like a flame to the last, as it
 
-does here. Christianity, especially Catholic Christianity, has been
+does here. [[Christianity]], especially Catholic [[Christianity]], has been
 
 blamed for imposing it, but in fact, it rather regulated and even
 
@@ -188,7 +188,7 @@ appetite for what one does not like. Marillac has it."
 
 mistakes is not allowing for its real existence in rare but quite real
 
-people. To live a life of incessant austerity and self-denial, as
+people. To live a life of incessant austerity and [[Self|self]]-denial, as
 
 Marillac does, is surrounded with extraordinary difficulties and
 
@@ -214,7 +214,7 @@ to tell me candidly whether I have."
 
 "Most people," replied the other, "would answer that it is Marillac who
 
-has gone mad. Perhaps he has; anyhow, if the truth were known, he would
+has gone mad. Perhaps he has; anyhow, if the [[Truth|truth]] were known, he would
 
 certainly be thought so. But it isn't only to avoid being put in a
 

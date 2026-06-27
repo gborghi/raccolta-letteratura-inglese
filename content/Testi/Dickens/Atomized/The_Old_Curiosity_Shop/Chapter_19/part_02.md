@@ -14,22 +14,22 @@ tags:
 </nav>
 
 
-‘Say so where--and when?’ inquired the child innocently.
+‘Say so where--and when?’ inquired the [[Child|child]] innocently.
 
 ‘O, nowhere in particular,’ replied Codlin, a little put out as it
 seemed by the question; ‘I’m only anxious that you should think me so,
 and do me justice.  You can’t think what an interest I have in you.
-Why didn’t you tell me your little history--that about you and the poor
+Why didn’t you tell me your little [[history]]--that about you and the poor
 old gentleman?  I’m the best adviser that ever was, and so interested
 in you--so much more interested than Short.  I think they’re breaking
 up down stairs; you needn’t tell Short, you know, that we’ve had this
 little talk together.  God bless you.  Recollect the friend.  Codlin’s
-the friend, not Short.  Short’s very well as far as he goes, but the
+the friend, not Short.  Short’s very [[Well|well]] as far as he goes, but the
 real friend is Codlin--not Short.’
 
 Eking out these professions with a number of benevolent and protecting
 looks and great fervour of manner, Thomas Codlin stole away on tiptoe,
-leaving the child in a state of extreme surprise.  She was still
+leaving the [[Child|child]] in a state of extreme surprise.  She was still
 ruminating upon his curious behaviour, when the floor of the crazy
 stairs and landing cracked beneath the tread of the other travellers
 who were passing to their beds.  When they had all passed, and the
@@ -37,28 +37,28 @@ sound of their footsteps had died away, one of them returned, and after
 a little hesitation and rustling in the passage, as if he were doubtful
 what door to knock at, knocked at hers.
 
-‘Yes,’ said the child from within.
+‘Yes,’ said the [[Child|child]] from within.
 
 ‘It’s me--Short’--a voice called through the keyhole.  ‘I only wanted
 to say that we must be off early to-morrow morning, my dear, because
-unless we get the start of the dogs and the conjuror, the villages
+unless we get the start of the [[dogs]] and the conjuror, the villages
 won’t be worth a penny.  You’ll be sure to be stirring early and go
 with us?  I’ll call you.’
 
-The child answered in the affirmative, and returning his ‘good night’
+The [[Child|child]] answered in the affirmative, and returning his ‘good [[Night|night]]’
 heard him creep away.  She felt some uneasiness at the anxiety of these
 men, increased by the recollection of their whispering together down
 stairs and their slight confusion when she awoke, nor was she quite
 free from a misgiving that they were not the fittest companions she
 could have stumbled on.  Her uneasiness, however, was nothing, weighed
-against her fatigue; and she soon forgot it in sleep.
+against her fatigue; and she soon forgot it in [[Sleep|sleep]].
 
 Very early next morning, Short fulfilled his promise, and knocking
 softly at her door, entreated that she would get up directly, as the
-proprietor of the dogs was still snoring, and if they lost no time they
+proprietor of the [[dogs]] was still snoring, and if they lost no [[Time|time]] they
 might get a good deal in advance both of him and the conjuror, who was
-talking in his sleep, and from what he could be heard to say, appeared
-to be balancing a donkey in his dreams.  She started from her bed
+talking in his [[Sleep|sleep]], and from what he could be heard to say, appeared
+to be balancing a [[donkey]] in his [[Dreams|dreams]].  She started from her bed
 without delay, and roused the old man with so much expedition that they
 were both ready as soon as Short himself, to that gentleman’s
 unspeakable gratification and relief.
@@ -71,7 +71,7 @@ rain, the hedges gayer and more green, the air clear, and everything
 fresh and healthful.  Surrounded by these influences, they walked on
 pleasantly enough.
 
-They had not gone very far, when the child was again struck by the
+They had not gone very far, when the [[Child|child]] was again struck by the
 altered behaviour of Mr Thomas Codlin, who instead of plodding on
 sulkily by himself as he had heretofore done, kept close to her, and
 when he had an opportunity of looking at her unseen by his companion,
@@ -80,50 +80,50 @@ trust in Short, but to reserve all confidences for Codlin.  Neither did
 he confine himself to looks and gestures, for when she and her
 grandfather were walking on beside the aforesaid Short, and that little
 man was talking with his accustomed cheerfulness on a variety of
-indifferent subjects, Thomas Codlin testified his jealousy and distrust
+indifferent subjects, Thomas Codlin testified his [[Jealousy|jealousy]] and distrust
 by following close at her heels, and occasionally admonishing her
 ankles with the legs of the theatre in a very abrupt and painful manner.
 
-All these proceedings naturally made the child more watchful and
+All these proceedings naturally made the [[Child|child]] more watchful and
 suspicious, and she soon observed that whenever they halted to perform
 outside a village alehouse or other place, Mr Codlin while he went
 through his share of the entertainments kept his eye steadily upon her
-and the old man, or with a show of great friendship and consideration
+and the old man, or with a show of great [[Friendship|friendship]] and consideration
 invited the latter to lean upon his arm, and so held him tight until
 the representation was over and they again went forward.  Even Short
-seemed to change in this respect, and to mingle with his good-nature
-something of a desire to keep them in safe custody.  This increased the
-child’s misgivings, and made her yet more anxious and uneasy.
+seemed to change in this respect, and to mingle with his good-[[Nature|nature]]
+something of a [[Desire|desire]] to keep them in safe custody.  This increased the
+[[Child|child]]’s misgivings, and made her yet more anxious and uneasy.
 
 Meanwhile, they were drawing near the town where the races were to
 begin next day; for, from passing numerous groups of gipsies and
-trampers on the road, wending their way towards it, and straggling out
-from every by-way and cross-country lane, they gradually fell into a
+trampers on the [[Road|road]], wending their way towards it, and straggling out
+from every by-way and [[Cross|cross]]-country lane, they gradually fell into a
 stream of people, some walking by the side of covered carts, others
 with horses, others with donkeys, others toiling on with heavy loads
 upon their backs, but all tending to the same point.  The public-houses
 by the wayside, from being empty and noiseless as those in the remoter
 parts had been, now sent out boisterous shouts and clouds of smoke;
 and, from the misty windows, clusters of broad red faces looked down
-upon the road.  On every piece of waste or common ground, some small
+upon the [[Road|road]].  On every piece of waste or common ground, some small
 gambler drove his noisy trade, and bellowed to the idle passersby to
 stop and try their chance; the crowd grew thicker and more noisy; gilt
-gingerbread in blanket-stalls exposed its glories to the dust; and
-often a four-horse carriage, dashing by, obscured all objects in the
+gingerbread in blanket-stalls exposed its glories to the [[Dust|dust]]; and
+often a four-[[Horse|horse]] carriage, dashing by, obscured all objects in the
 gritty cloud it raised, and left them, stunned and blinded, far behind.
 
 It was dark before they reached the town itself, and long indeed the
 few last miles had been.  Here all was tumult and confusion; the
 streets were filled with throngs of people--many strangers were there,
-it seemed, by the looks they cast about--the church-bells rang out
-their noisy peals, and flags streamed from windows and house-tops.  In
+it seemed, by the looks they cast about--the church-[[Bells|bells]] rang out
+their noisy peals, and flags streamed from windows and [[house]]-tops.  In
 the large inn-yards waiters flitted to and fro and ran against each
 other, horses clattered on the uneven stones, carriage steps fell
 rattling down, and sickening smells from many dinners came in a heavy
 lukewarm breath upon the sense.  In the smaller public-houses, fiddles
 with all their might and main were squeaking out the tune to staggering
-feet; drunken men, oblivious of the burden of their song, joined in a
+feet; drunken men, oblivious of the burden of their [[Song|song]], joined in a
 senseless howl, which drowned the tinkling of the feeble bell and made
 them savage for their drink; vagabond groups assembled round the doors
-to see the stroller woman dance, and add their uproar to the shrill
+to see the stroller woman [[Dance|dance]], and add their uproar to the shrill
 flageolet and deafening drum.

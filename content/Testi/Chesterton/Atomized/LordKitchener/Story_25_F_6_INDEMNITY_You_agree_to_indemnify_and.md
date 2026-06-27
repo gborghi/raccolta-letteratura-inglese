@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the"
+title: "[[LordKitchener]] — F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/LordKitchener-(Chesterton)"
@@ -90,7 +90,7 @@ Fairbanks, AK, 99712., but its volunteers and employees are scattered
 
 throughout numerous locations.  Its business office is located at
 
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+809 North 1500 West, Salt Lake [[City]], UT 84116, (801) 596-1887, email
 
 business@pglaf.org.  Email contact links and up to date contact
 
@@ -116,7 +116,7 @@ spread public support and donations to carry out its mission of
 
 increasing the number of public domain and licensed works that can be
 
-freely distributed in machine readable form accessible by the widest
+freely distributed in [[Machine|machine]] readable form accessible by the widest
 
 array of equipment including outdated equipment.  Many small donations
 
@@ -152,7 +152,7 @@ International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
-outside the United States.  U.S. laws alone swamp our small staff.
+outside the United States.  U.S. laws [[Alone|alone]] swamp our small staff.
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -166,7 +166,7 @@ Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
 
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+Professor [[Michael]] S. Hart is the originator of the Project Gutenberg-tm
 
 concept of a library of electronic works that could be freely shared
 

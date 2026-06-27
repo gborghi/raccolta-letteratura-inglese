@@ -1,5 +1,5 @@
 ---
-title: "Loss of Breath (part 5)"
+title: "[[Loss of Breath]] (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Loss-of-Breath-(Poe)"
@@ -38,7 +38,7 @@ cetera—et cetera—et cetera—et cetera—”
 
       identical expiration mislaid by myself in the conversation with
 
-      my wife. Time, place, and circumstances rendered it a matter
+      my wife. [[Time]], place, and circumstances rendered it a matter
 
       beyond question. I did not, however, immediately release my hold
 
@@ -78,7 +78,7 @@ cetera—et cetera—et cetera—et cetera—”
 
       opportunities with even a next door neighbor, and (this remark is
 
-      from Epictetus) it is precisely at that time when men are most
+      from Epictetus) it is precisely at that [[Time|time]] when men are most
 
       anxious to throw off the burden of their own calamities that they
 
@@ -94,9 +94,9 @@ cetera—et cetera—et cetera—et cetera—”
 
 
 
-      “Monster!” I began in a tone of the deepest indignation—“monster
+      “[[Monster]]!” I began in a tone of the deepest indignation—“[[Monster|monster]]
 
-      and double-winded idiot!—dost thou, whom for thine iniquities it
+      and [[Double|double]]-winded idiot!—dost thou, whom for thine iniquities it
 
       has pleased heaven to accurse with a two-fold respimtion—dost
 
@@ -114,7 +114,7 @@ cetera—et cetera—et cetera—et cetera—”
 
 
 
-      Like Brutus, I paused for a reply—with which, like a tornado, Mr.
+      Like [[Brutus]], I paused for a reply—with which, like a tornado, Mr.
 
       Windenough immediately overwhelmed me. Protestation followed upon
 
@@ -144,7 +144,7 @@ cetera—et cetera—et cetera—et cetera—”
 
       light might be thrown upon a highly interesting branch of
 
-      physical philosophy.
+      physical [[philosophy]].
 
 
 
@@ -156,9 +156,9 @@ cetera—et cetera—et cetera—et cetera—”
 
       possible about an affair so delicate—so delicate, I repeat, and
 
-      at the time involving the interests of a third party whose
+      at the [[Time|time]] involving the interests of a third party whose
 
-      sulphurous resentment I have not the least desire, at this
+      sulphurous resentment I have not the least [[Desire|desire]], at this
 
       moment, of incurring.
 
@@ -170,7 +170,7 @@ cetera—et cetera—et cetera—et cetera—”
 
       our resuscitated voices was soon sufficiently apparent. Scissors,
 
-      the Whig editor, republished a treatise upon “the nature and
+      the Whig editor, republished a treatise upon “the [[Nature|nature]] and
 
       origin of subterranean noises.” A reply—rejoinder—confutation—and
 
@@ -190,7 +190,7 @@ cetera—et cetera—et cetera—et cetera—”
 
       recalling to the attention of the reader the merits of that
 
-      indiscriminate philosophy which is a sure and ready shield
+      indiscriminate [[philosophy]] which is a sure and ready shield
 
       against those shafts of calamity which can neither be seen, felt
 

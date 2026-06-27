@@ -15,8 +15,8 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Benedick |
-| BENEDICK | Boy! Enter Boy |
+| *(didascalia)* | Enter [[Benedick]] |
+| [[Benedick|BENEDICK]] | Boy! Enter Boy |
 | BOY | Signor? |
-| BENEDICK | In my chamber window lies a book. Bring it hither to me in the orchard. |
+| [[Benedick|BENEDICK]] | In my chamber [[Window|window]] lies a book. Bring it hither to me in the orchard. |
 | BOY | I am here already, sir. |

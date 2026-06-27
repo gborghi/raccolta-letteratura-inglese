@@ -1,5 +1,5 @@
 ---
-title: "Coriolanus — Act IV, Scene 5 — exchange (CORIOLANUS) [2]"
+title: "[[Coriolanus]] — Act IV, Scene 5 — exchange ([[Coriolanus|CORIOLANUS]]) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/CORIOLANUS-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| CORIOLANUS | Prepare thy brow to frown. Know’st thou me yet? |
-| AUFIDIUS | I know thee not. Thy name? |
+| [[Coriolanus|CORIOLANUS]] | Prepare thy brow to frown. Know’st thou me yet? |
+| [[Aufidius|AUFIDIUS]] | I know thee not. Thy name? |

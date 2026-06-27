@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 4 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 4 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 ‘What’s that?’ inquired Noggs, pointing to the parcel.
 
 ‘Papers from my uncle,’ replied Nicholas; ‘and you’re to have the
-goodness to wait till he comes home, if you please.’
+goodness to wait till he comes [[Home|home]], if you please.’
 
 ‘Uncle!’ cried Noggs.
 
@@ -39,7 +39,7 @@ forward so as to obtain a nearer view of Nicholas’s face, scanned his
 features closely.
 
 ‘No answer,’ said Nicholas, speaking very loud, under the impression
-that Newman Noggs was deaf.
+that [[Newman Noggs]] was deaf.
 
 Newman placed his hands upon his knees, and, without uttering a
 syllable, continued the same close scrutiny of his companion’s face.
@@ -50,10 +50,10 @@ who had a sufficiently keen sense of the ridiculous, could not refrain
 from breaking into a smile as he inquired whether Mr. Noggs had any
 commands for him.
 
-Noggs shook his head and sighed; upon which Nicholas rose, and remarking
+Noggs shook his head and sighed; upon which Nicholas [[Rose|rose]], and remarking
 that he required no rest, bade him good-morning.
 
-It was a great exertion for Newman Noggs, and nobody knows to this day
+It was a great exertion for [[Newman Noggs]], and nobody knows to this day
 how he ever came to make it, the other party being wholly unknown to
 him, but he drew a long breath and actually said, out loud, without once
 stopping, that if the young gentleman did not object to tell, he should
@@ -62,7 +62,7 @@ like to know what his uncle was going to do for him.
 Nicholas had not the least objection in the world, but on the contrary
 was rather pleased to have an opportunity of talking on the subject
 which occupied his thoughts; so, he sat down again, and (his sanguine
-imagination warming as he spoke) entered into a fervent and glowing
+[[Imagination|imagination]] warming as he spoke) entered into a fervent and glowing
 description of all the honours and advantages to be derived from his
 appointment at that seat of learning, Dotheboys Hall.
 
@@ -71,14 +71,14 @@ off, as his companion, after throwing himself into a variety of
 uncouth attitudes, thrust his hands under the stool, and cracked his
 finger-joints as if he were snapping all the bones in his hands.
 
-Newman Noggs made no reply, but went on shrugging his shoulders and
-cracking his finger-joints; smiling horribly all the time, and looking
+[[Newman Noggs]] made no reply, but went on shrugging his shoulders and
+cracking his finger-joints; smiling horribly all the [[Time|time]], and looking
 steadfastly at nothing, out of the tops of his eyes, in a most ghastly
 manner.
 
 At first, Nicholas thought the mysterious man was in a fit, but, on
 further consideration, decided that he was in liquor, under which
 circumstances he deemed it prudent to make off at once. He looked back
-when he had got the street-door open. Newman Noggs was still indulging
+when he had got the street-door open. [[Newman Noggs]] was still indulging
 in the same extraordinary gestures, and the cracking of his fingers
 sounded louder that ever.

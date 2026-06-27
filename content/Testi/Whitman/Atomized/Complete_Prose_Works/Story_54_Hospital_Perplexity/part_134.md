@@ -19,10 +19,10 @@ individual, seated on one of the benches opposite, who, though evidently
 enjoying the spree as much as if he were an old hand at such business,
 seem' d in every other particular to be far out of his element. His
 appearance was youthful. He might have been twenty-one or two years
-old. His countenance was intelligent, and had the air of city life and
+old. His countenance was intelligent, and had the air of [[City|city]] life and
 society. He was dress'd not gaudily, but in every respect fashionably;
 his coat being of the finest broadcloth, his linen delicate and spotless
-as snow, and his whole aspect that of one whose counterpart may now and
+as [[Snow|snow]], and his whole aspect that of one whose counterpart may now and
 then be seen upon the pave in Broadway of a fine afternoon. He laugh'd
 and talk'd with the rest, and it must be confess'd his jokes--like the
 most of those that pass'd current there--were by no means distinguish'd
@@ -45,12 +45,12 @@ was spill'd upon the floor. This piece of extravagance excited the ire
 of the personage who gave the "treat;" and that ire was still further
 increas'd when he discover'd two or three loiterers who seem'd disposed
 to slight his request to drink. Charles, as we have before mention'd,
-was looking in at the window.
+was looking in at the [[Window|window]].
 
 "Walk up, boys! walk up! If there be any skulker among us, blast my eyes
 if he shan't go down on his marrow bones and taste the liquor we have
 spilt! Hallo!" he exclaim'd as he spied Charles; "hallo, you chap in the
-window, come here and take a sup."
+[[Window|window]], come here and take a sup."
 
 As he spoke he stepp'd to the open casement, put his brawny hands under
 the boy's arms, and lifted him into the room bodily.
@@ -83,17 +83,17 @@ to make the lad go through the same operation.
 drink,_ and I promised to obey her."
 
 A little irritated by his continued refusal, the sailor, with a loud
-oath, declared that Charles should swallow the brandy, whether he would
+oath, declared that Charles should [[Swallow|swallow]] the brandy, whether he would
 or no. Placing one of his tremendous paws on the back of the boy's head,
 with the other he thrust the edge of the glass to his lips, swearing
-at the same time, that if he shook it so as to spill its contents the
-consequences would be of a nature by no means agreeable to his back and
+at the same [[Time|time]], that if he shook it so as to spill its contents the
+consequences would be of a [[Nature|nature]] by no means agreeable to his back and
 shoulders. Disliking the liquor, and angry at the attempt to overbear
-him, the undaunted child lifted his hand and struck the arm of the
+him, the undaunted [[Child|child]] lifted his hand and struck the arm of the
 sailor with a blow so sudden that the glass fell and was smash'd to
 pieces on the floor; while the brandy was about equally divided between
 the face of Charles, the clothes of the sailor, and the sand. By this
-time the whole of the company had their attention drawn to the scene.
+[[Time|time]] the whole of the company had their attention drawn to the scene.
 Some of them laugh'd when they saw Charles's undisguised antipathy to
 the drink; but they laugh'd still more heartily when he discomfited
 the sailor. All of them, however, were content to let the matter go as
@@ -102,21 +102,21 @@ been spoken of.
 
 What was there in the words which Charles had spoken that carried the
 mind of the young man back to former times--to a period when he was
-more pure and innocent than now? "_My mother has often pray'd me not to
+more pure and [[Innocent|innocent]] than now? "_My mother has often pray'd me not to
 drink!_" Ah, how the mist of months roll'd aside, and presented to his
-soul's eye the picture of _his_ mother, and a prayer of exactly similar
+[[Soul|soul]]'s eye the picture of _his_ mother, and a [[prayer]] of exactly similar
 purport! Why was it, too, that the young man's heart moved with a
-feeling of kindness toward the harshly treated child?
+feeling of kindness toward the harshly treated [[Child|child]]?
 
 Charles stood, his cheek flush'd and his heart throbbing, wiping the
 trickling drops from his face with a handkerchief. At first the sailor,
 between his drunkenness and his surprise, was much in the condition
-of one suddenly awaken'd out of a deep sleep, who cannot call his
+of one suddenly awaken'd out of a deep [[Sleep|sleep]], who cannot call his
 consciousness about him. When he saw the state of things, however, and
 heard the jeering laugh of his companions, his dull eye lighting up with
 anger, fell upon the boy who had withstood him. He seized Charles with
 a grip of iron, and with the side of his heavy boot gave him a sharp and
-solid kick. He was about repeating the performance--for the child
+solid kick. He was about repeating the performance--for the [[Child|child]]
 hung like a rag in his grasp--but all of a sudden his ears rang, as if
 pistols were snapp'd close to them; lights of various hues flicker'd
 in his eye, (he had but one, it will be remember'd,) and a strong

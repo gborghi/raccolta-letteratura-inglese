@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 5 (part 1)"
+title: "[[Shirley]] — Chapter 5 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,9 +24,9 @@ HOLLOW'S COTTAGE.
 
 
 
-Moore's good spirits were still with him when he rose next morning. He
+Moore's good spirits were still with him when he [[Rose|rose]] next morning. He
 
-and Joe Scott had both spent the night in the mill, availing themselves
+and Joe Scott had both spent the [[Night|night]] in the mill, availing themselves
 
 of certain sleeping accommodations producible from recesses in the front
 
@@ -34,7 +34,7 @@ and back counting-houses. The master, always an early riser, was up
 
 somewhat sooner even than usual. He awoke his man by singing a French
 
-song as he made his toilet.
+[[Song|song]] as he made his toilet.
 
 
 
@@ -52,7 +52,7 @@ Bruce, perhaps?"
 
 
 
-"And th' arrand (spider)? Yes, but I hev. I've read th' history o'
+"And th' arrand (spider)? Yes, but I hev. I've read th' [[history]] o'
 
 Scotland, and happen knaw as mich on't as ye; and I understand ye to
 
@@ -100,7 +100,7 @@ where I was born, does not make me a Frenchman."
 
 clumsy nose standing out, the mean forehead falling back, the pale blue
 
-eyes 'à fleur de tête'? Am I all body and no legs, like a Flamand? But
+eyes 'à fleur de tête'? Am I all [[Body|body]] and no legs, like a Flamand? But
 
 you don't know what they are like, those Netherlanders. Joe, I'm an
 
@@ -132,7 +132,7 @@ perhaps, when properly translated, should be _roughly_."
 
 "We allus speak our minds i' this country; and them young parsons and
 
-grand folk fro' London is shocked at wer 'incivility;' and we like weel
+grand folk fro' [[London]] is shocked at wer 'incivility;' and we like weel
 
 enough to gi'e 'em summat to be shocked at, 'cause it's sport to us to
 
@@ -170,7 +170,7 @@ there's many a one amang them greasy chaps 'at smells o' oil, and amang
 
 them dyers wi' blue and black skins, that has a long head, and that can
 
-tell what a fooil of a law is, as well as ye or old Yorke, and a deal
+tell what a fooil of a law is, as [[Well|well]] as ye or old Yorke, and a deal
 
 better nor soft uns like Christopher Sykes o' Whinbury, and greet
 
@@ -182,7 +182,7 @@ hectoring nowts like yond' Irish Peter, Helstone's curate."
 
 
 
-"Ay! I'm fairish. I can tell cheese fro' chalk, and I'm varry weel aware
+"Ay! I'm fairish. I can tell [[cheese]] fro' [[chalk]], and I'm varry weel aware
 
 that I've improved sich opportunities as I have had, a deal better nor
 
@@ -192,7 +192,7 @@ that's as good as me, and a two-three that's better."
 
 
 
-"You're a great man--you're a sublime fellow; but you're a prig, a
+"You're a great man--you're a [[Sublime|sublime]] fellow; but you're a prig, a
 
 conceited noodle with it all, Joe! You need not to think that because
 
@@ -200,7 +200,7 @@ you've picked up a little knowledge of practical mathematics, and
 
 because you have found some scantling of the elements of chemistry at
 
-the bottom of a dyeing vat, that therefore you're a neglected man of
+the [[Bottom|bottom]] of a dyeing vat, that therefore you're a neglected man of
 
 science; and you need not to suppose that because the course of trade
 
@@ -208,17 +208,17 @@ does not always run smooth, and you, and such as you, are sometimes
 
 short of work and of bread, that therefore your class are martyrs, and
 
-that the whole form of government under which you live is wrong. And,
+that the whole form of [[government]] under which you live is wrong. And,
 
 moreover, you need not for a moment to insinuate that the virtues have
 
 taken refuge in cottages and wholly abandoned slated houses. Let me tell
 
-you, I particularly abominate that sort of trash, because I know so well
+you, I particularly abominate that sort of trash, because I know so [[Well|well]]
 
-that human nature is human nature everywhere, whether under tile or
+that human [[Nature|nature]] is human [[Nature|nature]] everywhere, whether under tile or
 
-thatch, and that in every specimen of human nature that breathes, vice
+thatch, and that in every specimen of human [[Nature|nature]] that breathes, vice
 
 and virtue are ever found blended, in smaller or greater proportions,
 
@@ -228,15 +228,15 @@ villains who were rich, and I have seen villains who were poor, and I
 
 have seen villains who were neither rich nor poor, but who had realized
 
-Agar's wish, and lived in fair and modest competency. The clock is going
+Agar's wish, and lived in fair and modest competency. The [[Clock|clock]] is going
 
 to strike six. Away with you, Joe, and ring the mill bell."
 
 
 
-It was now the middle of the month of February; by six o'clock therefore
+It was now the middle of the month of February; by six o'[[Clock|clock]] therefore
 
-dawn was just beginning to steal on night, to penetrate with a pale ray
+[[Dawn|dawn]] was just beginning to steal on [[Night|night]], to penetrate with a pale ray
 
 its brown obscurity, and give a demi-translucence to its opaque shadows.
 
@@ -246,8 +246,8 @@ the east, no flush warmed it. To see what a heavy lid day slowly lifted,
 
 what a wan glance she flung along the hills, you would have thought the
 
-sun's fire quenched in last night's floods. The breath of this morning
+sun's [[Fire|fire]] quenched in last [[Night|night]]'s floods. The breath of this morning
 
-was chill as its aspect; a raw wind stirred the mass of night-cloud, and
+was chill as its aspect; a raw [[Wind|wind]] stirred the mass of [[Night|night]]-cloud, and
 
-showed, as it slowly rose, leaving a colourless, silver-gleaming ring
+showed, as it slowly [[Rose|rose]], leaving a colourless, silver-gleaming ring

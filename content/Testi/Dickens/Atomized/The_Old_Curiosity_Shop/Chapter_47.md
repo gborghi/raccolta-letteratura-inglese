@@ -17,23 +17,23 @@ tags:
 CHAPTER 47
 
 Kit’s mother and the single gentleman--upon whose track it is expedient
-to follow with hurried steps, lest this history should be chargeable
+to follow with hurried steps, lest this [[history]] should be chargeable
 with inconstancy, and the offence of leaving its characters in
-situations of uncertainty and doubt--Kit’s mother and the single
+situations of uncertainty and [[Doubt|doubt]]--Kit’s mother and the single
 gentleman, speeding onward in the post-chaise-and-four whose departure
 from the Notary’s door we have already witnessed, soon left the town
-behind them, and struck fire from the flints of the broad highway.
+behind them, and struck [[Fire|fire]] from the flints of the broad highway.
 
 The good woman, being not a little embarrassed by the novelty of her
-situation, and certain material apprehensions that perhaps by this time
-little Jacob, or the baby, or both, had fallen into the fire, or
+situation, and certain material apprehensions that perhaps by this [[Time|time]]
+little Jacob, or the baby, or both, had fallen into the [[Fire|fire]], or
 tumbled down stairs, or had been squeezed behind doors, or had scalded
 their windpipes in endeavouring to allay their thirst at the spouts of
-tea-kettles, preserved an uneasy silence; and meeting from the window
+tea-kettles, preserved an uneasy [[Silence|silence]]; and meeting from the [[Window|window]]
 the eyes of turnpike-men, omnibus-drivers, and others, felt in the new
 dignity of her position like a mourner at a funeral, who, not being
 greatly afflicted by the loss of the departed, recognizes his every-day
-acquaintance from the window of the mourning coach, but is constrained
+acquaintance from the [[Window|window]] of the mourning coach, but is constrained
 to preserve a decent solemnity, and the appearance of being indifferent
 to all external objects.
 
@@ -42,12 +42,12 @@ would have been tantamount to being gifted with nerves of steel.  Never
 did chaise inclose, or horses draw, such a restless gentleman as he.
 He never sat in the same position for two minutes together, but was
 perpetually tossing his arms and legs about, pulling up the sashes and
-letting them violently down, or thrusting his head out of one window to
+letting them violently down, or thrusting his head out of one [[Window|window]] to
 draw it in again and thrust it out of another.  He carried in his
-pocket, too, a fire-box of mysterious and unknown construction; and as
+pocket, too, a [[Fire|fire]]-box of mysterious and unknown construction; and as
 sure as ever Kit’s mother closed her eyes, so surely--whisk, rattle,
 fizz--there was the single gentleman consulting his watch by a flame of
-fire, and letting the sparks fall down among the straw as if there were
+[[Fire|fire]], and letting the sparks fall down among the straw as if there were
 no such thing as a possibility of himself and Kit’s mother being
 roasted alive before the boys could stop their horses.  Whenever they
 halted to change, there he was--out of the carriage without letting
@@ -56,8 +56,8 @@ pulling out his watch by lamp-light and forgetting to look at it before
 he put it up again, and in short committing so many extravagances that
 Kit’s mother was quite afraid of him.  Then, when the horses were to,
 in he came like a Harlequin, and before they had gone a mile, out came
-the watch and the fire-box together, and Kit’s mother as wide awake
-again, with no hope of a wink of sleep for that stage.
+the watch and the [[Fire|fire]]-box together, and Kit’s mother as wide awake
+again, with no [[Hope|hope]] of a wink of [[Sleep|sleep]] for that stage.
 
 ‘Are you comfortable?’ the single gentleman would say after one of
 these exploits, turning sharply round.
@@ -69,18 +69,18 @@ these exploits, turning sharply round.
 ‘It is a little chilly, Sir,’ Kit’s mother would reply.
 
 ‘I knew it!’ cried the single gentleman, letting down one of the front
-glasses.  ‘She wants some brandy and water!  Of course she does.  How
+glasses.  ‘She wants some brandy and [[Water|water]]!  Of course she does.  How
 could I forget it?  Hallo!  Stop at the next inn, and call out for a
-glass of hot brandy and water.’
+glass of hot brandy and [[Water|water]].’
 
 It was in vain for Kit’s mother to protest that she stood in need of
 nothing of the kind.  The single gentleman was inexorable; and whenever
 he had exhausted all other modes and fashions of restlessness, it
-invariably occurred to him that Kit’s mother wanted brandy and water.
+invariably occurred to him that Kit’s mother wanted brandy and [[Water|water]].
 
 In this way they travelled on until near midnight, when they stopped to
 supper, for which meal the single gentleman ordered everything eatable
-that the house contained; and because Kit’s mother didn’t eat
+that the [[house]] contained; and because Kit’s mother didn’t eat
 everything at once, and eat it all, he took it into his head that she
 must be ill.
 
@@ -116,19 +116,19 @@ have thought of it before.’
 Immediately flying to the bell, and calling for mulled wine as
 impetuously as if it had been wanted for instant use in the recovery of
 some person apparently drowned, the single gentleman made Kit’s mother
-swallow a bumper of it at such a high temperature that the tears ran
+[[Swallow|swallow]] a bumper of it at such a high temperature that the [[Tears|tears]] ran
 down her face, and then hustled her off to the chaise again, where--not
 impossibly from the effects of this agreeable sedative--she soon became
 insensible to his restlessness, and fell fast asleep.  Nor were the
-happy effects of this prescription of a transitory nature, as,
-notwithstanding that the distance was greater, and the journey longer,
+happy effects of this prescription of a transitory [[Nature|nature]], as,
+notwithstanding that the distance was greater, and the [[Journey|journey]] longer,
 than the single gentleman had anticipated, she did not awake until it
 was broad day, and they were clattering over the pavement of a town.
 
 ‘This is the place!’ cried her companion, letting down all the glasses.
 ‘Drive to the wax-work!’
 
-The boy on the wheeler touched his hat, and setting spurs to his horse,
+The boy on the wheeler touched his hat, and setting spurs to his [[Horse|horse]],
 to the end that they might go in brilliantly, all four broke into a
 smart canter, and dashed through the streets with a noise that brought
 the good folks wondering to their doors and windows, and drowned the
@@ -156,7 +156,7 @@ knocker of equal powers been made to produce more deafening sounds than
 this particular engine on the occasion in question.  Having rendered
 these voluntary services, the throng modestly retired a little,
 preferring that the single gentleman should bear their consequences
-alone.
+[[Alone|alone]].
 
 ‘Now, sir, what do you want!’ said a man with a large white bow at his
 button-hole, opening the door, and confronting him with a very stoical
@@ -175,7 +175,7 @@ top to toe.
 mother more tightly through his own, for that good woman evidently had
 it in contemplation to run away.  ‘A right you little dream of.  Mind,
 good people, if this fellow has been marrying a minor--tut, tut, that
-can’t be.  Where is the child you have here, my good fellow.  You call
+can’t be.  Where is the [[Child|child]] you have here, my good fellow.  You call
 her Nell.  Where is she?’
 
 As he propounded this question, which Kit’s mother echoed, somebody in
@@ -188,8 +188,8 @@ has become of her?’
 
 The single gentleman started back, and gazed upon the face of the late
 Mrs Jarley (that morning wedded to the philosophic George, to the
-eternal wrath and despair of Mr Slum the poet), with looks of
-conflicting apprehension, disappointment, and incredulity.  At length
+eternal wrath and [[Despair|despair]] of Mr Slum the poet), with looks of
+conflicting apprehension, disappointment, and [[Incredulity|incredulity]].  At length
 he stammered out,
 
 ‘I ask YOU where she is?  What do you mean?’
@@ -211,41 +211,41 @@ couple, ‘one to whom life itself is not dearer than the two persons
 whom I seek.  They would not know me.  My features are strange to them,
 but if they or either of them are here, take this good woman with you,
 and let them see her first, for her they both know.  If you deny them
-from any mistaken regard or fear for them, judge of my intentions by
+from any mistaken regard or [[Fear|fear]] for them, judge of my intentions by
 their recognition of this person as their old humble friend.’
 
 ‘I always said it!’ cried the bride, ‘I knew she was not a common
-child!  Alas, sir! we have no power to help you, for all that we could
+[[Child|child]]!  Alas, sir! we have no power to help you, for all that we could
 do, has been tried in vain.’
 
 With that, they related to him, without disguise or concealment, all
 that they knew of Nell and her grandfather, from their first meeting
-with them, down to the time of their sudden disappearance; adding
+with them, down to the [[Time|time]] of their sudden disappearance; adding
 (which was quite true) that they had made every possible effort to
-trace them, but without success; having been at first in great alarm
-for their safety, as well as on account of the suspicions to which they
+trace them, but without [[success]]; having been at first in great alarm
+for their safety, as [[Well|well]] as on account of the suspicions to which they
 themselves might one day be exposed in consequence of their abrupt
 departure.  They dwelt upon the old man’s imbecility of mind, upon the
-uneasiness the child had always testified when he was absent, upon the
+uneasiness the [[Child|child]] had always testified when he was absent, upon the
 company he had been supposed to keep, and upon the increased depression
 which had gradually crept over her and changed her both in health and
-spirits.  Whether she had missed the old man in the night, and knowing
+spirits.  Whether she had missed the old man in the [[Night|night]], and knowing
 or conjecturing whither he had bent his steps, had gone in pursuit, or
-whether they had left the house together, they had no means of
+whether they had left the [[house]] together, they had no means of
 determining.  Certain they considered it, that there was but slender
 prospect left of hearing of them again, and that whether their flight
-originated with the old man, or with the child, there was now no hope
+originated with the old man, or with the [[Child|child]], there was now no [[Hope|hope]]
 of their return.  To all this, the single gentleman listened with the
 air of a man quite borne down by grief and disappointment.  He shed
-tears when they spoke of the grandfather, and appeared in deep
+[[Tears|tears]] when they spoke of the grandfather, and appeared in deep
 affliction.
 
 Not to protract this portion of our narrative, and to make short work
 of a long story, let it be briefly written that before the interview
 came to a close, the single gentleman deemed he had sufficient evidence
-of having been told the truth, and that he endeavoured to force upon
+of having been told the [[Truth|truth]], and that he endeavoured to force upon
 the bride and bridegroom an acknowledgment of their kindness to the
-unfriended child, which, however, they steadily declined accepting.  In
+unfriended [[Child|child]], which, however, they steadily declined accepting.  In
 the end, the happy couple jolted away in the caravan to spend their
 honeymoon in a country excursion; and the single gentleman and Kit’s
 mother stood ruefully before their carriage-door.
@@ -257,15 +257,15 @@ going to add ‘inn,’ but he added it for the sake of Kit’s mother; and
 to the inn they went.
 
 Rumours had already got abroad that the little girl who used to show
-the wax-work, was the child of great people who had been stolen from
+the wax-work, was the [[Child|child]] of great people who had been stolen from
 her parents in infancy, and had only just been traced.  Opinion was
 divided whether she was the daughter of a prince, a duke, an earl, a
 viscount, or a baron, but all agreed upon the main fact, and that the
 single gentleman was her father; and all bent forward to catch a
 glimpse, though it were only of the tip of his noble nose, as he rode
-away, desponding, in his four-horse chaise.
+away, desponding, in his four-[[Horse|horse]] chaise.
 
 What would he have given to know, and what sorrow would have been saved
-if he had only known, that at that moment both child and grandfather
+if he had only known, that at that moment both [[Child|child]] and grandfather
 were seated in the old church porch, patiently awaiting the
 schoolmaster’s return!

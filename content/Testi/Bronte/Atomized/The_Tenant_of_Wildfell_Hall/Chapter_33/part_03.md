@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 33 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 33 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -54,7 +54,7 @@ beaten me in that game.”
 
 
 
-I rose to resume my work.
+I [[Rose|rose]] to resume my work.
 
 
 
@@ -64,7 +64,7 @@ room.
 
 
 
-“Gone out with Lord Lowborough,” answered I, for he looked at me for a
+“Gone out with [[Lord Lowborough]],” answered I, for he looked at me for a
 
 reply.
 
@@ -90,7 +90,7 @@ laugh? Why did Hargrave connect them thus together? Was it true, then?
 
 And was this the dreadful secret he had wished to reveal to me? I must
 
-know, and that quickly. I instantly rose and left the room to go in
+know, and that quickly. I instantly [[Rose|rose]] and left the room to go in
 
 search of Rachel and demand an explanation of her words; but Mr.
 
@@ -136,7 +136,7 @@ Grimsby?”
 
 
 
-“Well?”
+“[[Well]]?”
 
 
 
@@ -152,13 +152,13 @@ so—”
 
 He bowed submissively, and continued: “I heard him say,—‘I shall manage
 
-it, you’ll see! They’re gone down by the water; I shall meet them
+it, you’ll see! They’re gone down by the [[Water|water]]; I shall meet them
 
 there, and tell him I want a bit of talk with him about some things
 
 that we needn’t trouble the lady with; and she’ll say she can be
 
-walking back to the house; and then I shall apologise, you know, and
+walking back to the [[house]]; and then I shall apologise, you know, and
 
 all that, and tip her a wink to take the way of the shrubbery. I’ll
 
@@ -172,17 +172,17 @@ I can find to discourse of.’” Mr. Hargrave paused, and looked at me.
 
 
 
-Without a word of comment or further questioning, I rose, and darted
+Without a word of comment or further questioning, I [[Rose|rose]], and darted
 
-from the room and out of the house. The torment of suspense was not to
+from the room and out of the [[house]]. The torment of suspense was not to
 
 be endured: I would not suspect my husband falsely, on this man’s
 
-accusation, and I would not trust him unworthily—I must know the truth
+accusation, and I would not trust him unworthily—I must know the [[Truth|truth]]
 
 at once. I flew to the shrubbery. Scarcely had I reached it, when a
 
-sound of voices arrested my breathless speed.
+sound of voices arrested my breathless [[Speed|speed]].
 
 
 
@@ -208,7 +208,7 @@ the trunk of a tree to let her pass.
 
 “Ah, Huntingdon!” said she reproachfully, pausing where I had stood
 
-with him the night before—“it was here you kissed that woman!” she
+with him the [[Night|night]] before—“it was here you kissed that woman!” she
 
 looked back into the leafy shade. Advancing thence, he answered, with a
 
@@ -216,7 +216,7 @@ careless laugh,—
 
 
 
-“Well, dearest, I couldn’t help it. You know I must keep straight with
+“[[Well]], dearest, I couldn’t help it. You know I must keep straight with
 
 her as long as I can. Haven’t I seen you kiss your dolt of a husband
 
@@ -224,11 +224,11 @@ scores of times?—and do _I_ ever complain?”
 
 
 
-“But tell me, don’t you love her still—a _little?_” said she, placing
+“But tell me, don’t you [[Love|love]] her still—a _little?_” said she, placing
 
 her hand on his arm, looking earnestly in his face—for I could see
 
-them, plainly, the moon shining full upon them from between the
+them, plainly, the [[Moon|moon]] shining full upon them from between the
 
 branches of the tree that sheltered me.
 
@@ -248,19 +248,19 @@ him, and away she flew.
 
 There he stood before me; but I had not strength to confront him now:
 
-my tongue cleaved to the roof of my mouth; I was well-nigh sinking to
+my tongue cleaved to the roof of my mouth; I was [[Well|well]]-nigh sinking to
 
 the earth, and I almost wondered he did not hear the beating of my
 
-heart above the low sighing of the wind and the fitful rustle of the
+heart above the low sighing of the [[Wind|wind]] and the fitful rustle of the
 
-falling leaves. My senses seemed to fail me, but still I saw his
+falling [[Leaves|leaves]]. My senses seemed to fail me, but still I saw his
 
 shadowy form pass before me, and through the rushing sound in my ears I
 
 distinctly heard him say, as he stood looking up the lawn,—“There goes
 
-the fool! Run, Annabella, run! There—in with you! Ah,—he didn’t see!
+the [[Fool|fool]]! Run, Annabella, run! There—in with you! Ah,—he didn’t see!
 
 That’s right, Grimsby, keep him back!” And even his low laugh reached
 
@@ -276,13 +276,13 @@ through the scant foliage above. It seemed all dim and quivering now to
 
 my darkened sight. My burning, bursting heart strove to pour forth its
 
-agony to God, but could not frame its anguish into prayer; until a gust
+agony to God, but could not frame its anguish into [[Prayer|prayer]]; until a gust
 
-of wind swept over me, which, while it scattered the dead leaves, like
+of [[Wind|wind]] swept over me, which, while it scattered the dead [[Leaves|leaves]], like
 
 blighted hopes, around, cooled my forehead, and seemed a little to
 
-revive my sinking frame. Then, while I lifted up my soul in speechless,
+revive my sinking frame. Then, while I lifted up my [[Soul|soul]] in speechless,
 
 earnest supplication, some heavenly influence seemed to strengthen me
 

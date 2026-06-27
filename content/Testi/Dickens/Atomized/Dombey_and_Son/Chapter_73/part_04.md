@@ -15,7 +15,7 @@ tags:
 
 
 “There’s a general indraught that way,” observed the happy Captain.
-“Wind and water sets in that direction, you see. Look at his being
+“[[Wind]] and [[Water|water]] sets in that direction, you see. Look at his being
 present t’other day!”
 
 “Most favourable to his hopes,” said Mr Carker.
@@ -46,17 +46,17 @@ his nose in a state of violent inflammation from the same cause.
 
 “Am I right?” said the Captain.
 
-“Captain Cuttle,” said Mr Carker, bending down at the knees, for a
+“[[Captain Cuttle]],” said Mr Carker, bending down at the knees, for a
 moment, in an odd manner, as if he were falling together to hug the
-whole of himself at once, “your views in reference to Walter Gay are
+whole of himself at once, “your views in reference to [[Walter Gay]] are
 thoroughly and accurately right. I understand that we speak together in
 confidence.
 
-“Honour!” interposed the Captain. “Not a word.”
+“[[Honour]]!” interposed the Captain. “Not a word.”
 
 “To him or anyone?” pursued the Manager.
 
-Captain Cuttle frowned and shook his head.
+[[Captain Cuttle]] frowned and shook his head.
 
 “But merely for your own satisfaction and guidance—and guidance, of
 course,” repeated Mr Carker, “with a view to your future proceedings.”
@@ -68,10 +68,10 @@ attention.
 probabilities exactly.”
 
 “And with regard to your head Governor,” said the Captain, “why an
-interview had better come about nat’ral between us. There’s time
+interview had better come about nat’ral between us. There’s [[Time|time]]
 enough.”
 
-Mr Carker, with his mouth from ear to ear, repeated, “Time enough.” Not
+Mr Carker, with his mouth from ear to ear, repeated, “[[Time]] enough.” Not
 articulating the words, but bowing his head affably, and forming them
 with his tongue and lips.
 
@@ -107,7 +107,7 @@ me if I’ve been at all intruding, will you?” said the Captain.
 
 “Thank’ee. My berth ain’t very roomy,” said the Captain, turning back
 again, “but it’s tolerably snug; and if you was to find yourself near
-Brig Place, number nine, at any time—will you make a note of it?—and
+Brig Place, number nine, at any [[Time|time]]—will you make a note of it?—and
 would come upstairs, without minding what was said by the person at the
 door, I should be proud to see you.
 
@@ -119,17 +119,17 @@ very whiskers; even in whose silent passing of his soft hand over his
 white linen and his smooth face; there was something desperately
 cat-like.
 
-The unconscious Captain walked out in a state of self-glorification
+The unconscious Captain walked out in a state of [[Self|self]]-glorification
 that imparted quite a new cut to the broad blue suit. “Stand by, Ned!”
 said the Captain to himself. “You’ve done a little business for the
 youngsters today, my lad!”
 
 In his exultation, and in his familiarity, present and prospective,
-with the House, the Captain, when he reached the outer office, could
+with the [[house|House]], the Captain, when he reached the outer office, could
 not refrain from rallying Mr Perch a little, and asking him whether he
 thought everybody was still engaged. But not to be bitter on a man who
 had done his duty, the Captain whispered in his ear, that if he felt
-disposed for a glass of rum-and-water, and would follow, he would be
+disposed for a glass of rum-and-[[Water|water]], and would follow, he would be
 happy to bestow the same upon him.
 
 Before leaving the premises, the Captain, somewhat to the astonishment
@@ -138,10 +138,10 @@ general survey of the officers part and parcel of a project in which
 his young friend was nearly interested. The strong-room excited his
 especial admiration; but, that he might not appear too particular, he
 limited himself to an approving glance, and, with a graceful
-recognition of the clerks as a body, that was full of politeness and
-patronage, passed out into the court. Being promptly joined by Mr
+recognition of the clerks as a [[Body|body]], that was full of politeness and
+patronage, passed out into the [[Court|court]]. Being promptly joined by Mr
 Perch, he conveyed that gentleman to the tavern, and fulfilled his
-pledge—hastily, for Perch’s time was precious.
+pledge—hastily, for Perch’s [[Time|time]] was precious.
 
 “I’ll give you for a toast,” said the Captain, “Wal”r!”
 
@@ -151,7 +151,7 @@ pledge—hastily, for Perch’s time was precious.
 
 Mr Perch, who seemed to remember having heard in infancy that there was
 once a poet of that name, made no objection; but he was much astonished
-at the Captain’s coming into the City to propose a poet; indeed, if he
+at the Captain’s coming into the [[City]] to propose a poet; indeed, if he
 had proposed to put a poet’s statue up—say Shakespeare’s for example—in
 a civic thoroughfare, he could hardly have done a greater outrage to Mr
 Perch’s experience. On the whole, he was such a mysterious and
@@ -163,10 +163,10 @@ Mysterious and incomprehensible, the Captain, with that lively sense
 upon him of having done a little business for the youngsters, remained
 all day, even to his most intimate friends; and but that Walter
 attributed his winks and grins, and other such pantomimic reliefs of
-himself, to his satisfaction in the success of their innocent deception
+himself, to his satisfaction in the [[success]] of their [[Innocent|innocent]] [[Deception|deception]]
 upon old Sol Gills, he would assuredly have betrayed himself before
-night. As it was, however, he kept his own secret; and went home late
-from the Instrument-maker’s house, wearing the glazed hat so much on
+[[Night|night]]. As it was, however, he kept his own secret; and went [[Home|home]] late
+from the Instrument-maker’s [[house]], wearing the glazed hat so much on
 one side, and carrying such a beaming expression in his eyes, that Mrs
 MacStinger (who might have been brought up at Doctor Blimber’s, she was
 such a Roman matron) fortified herself, at the first glimpse of him,

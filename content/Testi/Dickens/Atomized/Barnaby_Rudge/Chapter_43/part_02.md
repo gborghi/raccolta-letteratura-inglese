@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 43 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 43 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 In the abstract there was nothing very remarkable in this pair, for
 servility waiting on a handsome suit of clothes and a cane--not to speak
 of gold and silver sticks, or wands of office--is common enough. But
-there was that about the well-dressed man, yes, and about the other
+there was that about the [[Well|well]]-dressed man, yes, and about the other
 likewise, which struck Mr Haredale with no pleasant feeling. He
 hesitated, stopped, and would have stepped aside and turned out of his
 path, but at the moment, the other two faced about quickly, and stumbled
@@ -30,11 +30,11 @@ strange indeed!’
 
 ‘It is,’ he returned impatiently; ‘yes--a--’
 
-‘My dear friend,’ cried the other, detaining him, ‘why such great speed?
+‘My dear friend,’ cried the other, detaining him, ‘why such great [[Speed|speed]]?
 One minute, Haredale, for the sake of old acquaintance.’
 
 ‘I am in haste,’ he said. ‘Neither of us has sought this meeting. Let it
-be a brief one. Good night!’
+be a brief one. Good [[Night|night]]!’
 
 ‘Fie, fie!’ replied Sir John (for it was he), ‘how very churlish! We
 were speaking of you. Your name was on my lips--perhaps you heard me
@@ -57,19 +57,19 @@ by its contemptuous rejection.
 ‘Mr Gashford!’ said Haredale, coldly. ‘It is as I have heard then. You
 have left the darkness for the light, sir, and hate those whose opinions
 you formerly held, with all the bitterness of a renegade. You are an
-honour, sir, to any cause. I wish the one you espouse at present, much
+[[Honour|honour]], sir, to any cause. I wish the one you espouse at present, much
 joy of the acquisition it has made.’
 
 The secretary rubbed his hands and bowed, as though he would disarm
-his adversary by humbling himself before him. Sir John Chester again
+his adversary by humbling himself before him. [[Sir John Chester]] again
 exclaimed, with an air of great gaiety, ‘Now, really, this is a
 most remarkable meeting!’ and took a pinch of snuff with his usual
-self-possession.
+[[Self|self]]-possession.
 
 ‘Mr Haredale,’ said Gashford, stealthily raising his eyes, and
 letting them drop again when they met the other’s steady gaze, ‘is too
 conscientious, too honourable, too manly, I am sure, to attach unworthy
-motives to an honest change of opinions, even though it implies a doubt
+motives to an honest change of opinions, even though it implies a [[Doubt|doubt]]
 of those he holds himself. Mr Haredale is too just, too generous, too
 clear-sighted in his moral vision, to--’
 
@@ -87,14 +87,14 @@ previous appointment or arrangement, three old schoolfellows, in
 Westminster Hall; three old boarders in a remarkably dull and shady
 seminary at Saint Omer’s, where you, being Catholics and of necessity
 educated out of England, were brought up; and where I, being a promising
-young Protestant at that time, was sent to learn the French tongue from
-a native of Paris!’
+young Protestant at that [[Time|time]], was sent to learn the French tongue from
+a native of [[Paris]]!’
 
 ‘Add to the singularity, Sir John,’ said Mr Haredale, ‘that some of you
 Protestants of promise are at this moment leagued in yonder building, to
 prevent our having the surpassing and unheard-of privilege of teaching
 our children to read and write--here--in this land, where thousands of
-us enter your service every year, and to preserve the freedom of which,
+us enter your service every year, and to preserve the [[Freedom|freedom]] of which,
 we die in bloody battles abroad, in heaps: and that others of you, to
 the number of some thousands as I learn, are led on to look on all men
 of my creed as wolves and beasts of prey, by this man Gashford. Add
@@ -118,7 +118,7 @@ Association, in yourselves.’
 ‘Now, there you mistake,’ said Sir John, in his most benignant way.
 ‘There--which is a most remarkable circumstance for a man of your
 punctuality and exactness, Haredale--you fall into error. I don’t belong
-to the body; I have an immense respect for its members, but I don’t
+to the [[Body|body]]; I have an immense respect for its members, but I don’t
 belong to it; although I am, it is certainly true, the conscientious
 opponent of your being relieved. I feel it my duty to be so; it is a
 most unfortunate necessity; and cost me a bitter struggle.--Will you try

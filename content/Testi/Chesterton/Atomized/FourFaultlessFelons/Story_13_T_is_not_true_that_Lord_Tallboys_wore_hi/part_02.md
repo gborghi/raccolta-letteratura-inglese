@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — T is not true that Lord Tallboys wore his top-hat in bed, during his (part 2)"
+title: "[[FourFaultlessFelons]] — T is not true that Lord Tallboys wore his top-hat in bed, during his (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -16,13 +16,13 @@ tags:
 
 . Once it came so that the room might have been full of trumpets and once
 
-with a cry like the wind and there was a fight and I found out that I
+with a cry like the [[Wind|wind]] and there was a fight and I found out that I
 
-could hate and that I could love. Two miracles on one night. Don't you
+could hate and that I could [[Love|love]]. Two miracles on one [[Night|night]]. Don't you
 
-think that must have been a dream-that is supposing you weren't a dream
+think that must have been [[A Dream|a dream]]-that is supposing you weren't [[A Dream|a dream]]
 
-and could think anything? But I did rather hope you were real then."
+and could think anything? But I did rather [[Hope|hope]] you were real then."
 
 
 
@@ -30,7 +30,7 @@ and could think anything? But I did rather hope you were real then."
 
 
 
-"Do you mean to tell me in cold blood that I am not mad," asked Hume,
+"Do you mean to tell me in cold [[Blood|blood]] that I am not mad," asked Hume,
 
 still staring at her, "and you are here?"
 
@@ -64,7 +64,7 @@ have to hold one's tongue for the sake of someone you would care about."
 
 
 
-"Well," she said steadily, "I have been brought into it for the sake of
+"[[Well]]," she said steadily, "I have been brought into it for the sake of
 
 someone I care about."
 
@@ -84,7 +84,7 @@ before. I don't want to talk to anybody else now."
 
 He sprang to his feet; something like an earthquake had shaken him at
 
-last out of his long petrified incredulity about happiness. He caught her
+last out of his long petrified [[Incredulity|incredulity]] about happiness. He caught her
 
 by both hands and words came out of him he had never dreamed were within.
 
@@ -120,9 +120,9 @@ extraordinarily ordinary story."
 
 He paused a moment reflectively and then went on: "It's really a
 
-particularly plain and simple story. I wonder it hasn't happened hundreds
+particularly plain and simple story. I [[Wonder|wonder]] it hasn't happened hundreds
 
-of times before. I wonder it hasn't been told in hundreds of stories
+of times before. I [[Wonder|wonder]] it hasn't been told in hundreds of stories
 
 before. It might so easily happen anywhere, given certain conditions.
 
@@ -132,7 +132,7 @@ before. It might so easily happen anywhere, given certain conditions.
 
 balcony that runs round my bungalow, and how one looks down from it and
 
-sees the whole landscape like a map. Well, I was looking down and saw all
+sees the whole landscape like a map. [[Well]], I was looking down and saw all
 
 that flat plan of the place; the row of villas and the wall and path
 
@@ -144,7 +144,7 @@ all the rest. But I saw what surprised me; that the rifle-range was
 
 already set up. It must have been a rush order; people must have worked
 
-all night. And even as I stared, I saw in the distance a dot that was a
+all [[Night|night]]. And even as I stared, I saw in the distance a dot that was a
 
 man standing by the nearest target, as if adding the last touches. Then
 
@@ -156,9 +156,9 @@ gesture told me something; he was quite obviously clearing out just
 
 before the firing at the target was to begin. And almost at the same
 
-moment I saw something else. Well, I saw one thing, anyhow. I saw why
+moment I saw something else. [[Well]], I saw one thing, anyhow. I saw why
 
-Lady Smythe is worried, and wandered distracted in the garden."
+Lady Smythe is worried, and wandered distracted in the [[Garden|garden]]."
 
 
 
@@ -166,7 +166,7 @@ Barbara stared, but he went on: "Travelling along the path from the
 
 Governorate and towards the sycamore was a familiar shape. It just showed
 
-above the long garden wall in sharp outline like a shape in a shadow
+above the long [[Garden|garden]] wall in sharp outline like a shape in a [[Shadow|shadow]]
 
 pantomime. It was the top-hat of Lord Tallboys. Then I remembered that he
 
@@ -176,9 +176,9 @@ beyond; and I felt an overwhelming suspicion that he did not know that
 
 the space beyond was already a firing-ground. You know he is very deaf,
 
-and I sometimes doubt whether he hears all the things officially told to
+and I sometimes [[Doubt|doubt]] whether he hears all the things officially told to
 
-him; sometimes I fear they are told so that he cannot hear. Anyhow, he
+him; sometimes I [[Fear|fear]] they are told so that he cannot hear. Anyhow, he
 
 had every appearance of marching straight across as usual, and there came
 
@@ -202,7 +202,7 @@ and dashed down the slope towards the path, waving wildly and trying to
 
 hail or head him off. He didn't see me and couldn't hear me. I pounded
 
-along after him along the path, but he had too long a start. By the time
+along after him along the path, but he had too long a start. By the [[Time|time]]
 
 I reached the sycamore, I knew I was too late. He was already half-way
 
@@ -212,16 +212,16 @@ came to the corner.
 
 
 
-"I felt a rage against the fool which a man looks against the background
+"I felt a rage against the [[Fool|fool]] which a man looks against the background
 
 of fate. I saw his lean, pompous figure with the absurd top-hat riding on
 
 top of it; and the large ears standing out from his head . . the large,
 
-useless ears. There was something agonizingly grotesque about that
+useless ears. There was something agonizingly [[Grotesque|grotesque]] about that
 
-unconscious back outlined against the plains of death. For I was certain
+unconscious back outlined against the plains of [[Death|death]]. For I was certain
 
 that the moment he passed the corner that field would be swept by the
 
-fire, which would cut across at right angles to his progress. I could
+[[Fire|fire]], which would cut across at right angles to his progress. I could

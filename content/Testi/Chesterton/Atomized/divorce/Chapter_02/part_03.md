@@ -1,5 +1,5 @@
 ---
-title: "divorce — Chapter 2 (part 3)"
+title: "[[divorce]] — Chapter 2 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/divorce-(Chesterton)"
@@ -17,8 +17,8 @@ tags:
 The answer is, I regret to say, that this social campaign,
 in most though by no means all of its most prominent campaigners,
 relies in this matter on a very smug and pestilent piece of cant.
-There are some advocates of democratic divorce who are really
-advocates of general democratic freedom; but they are the exceptions;
+There are some advocates of democratic [[divorce]] who are really
+advocates of general democratic [[Freedom|freedom]]; but they are the exceptions;
 I might say, with all respect, that they are the dupes.
 The omnipresence of the thing in the press and in political society
 is due to a motive precisely opposite to the motive professed.
@@ -26,13 +26,13 @@ The modern rulers, who are simply the rich men, are really quite
 consistent in their attitude to the poor man.  It is the same spirit
 which takes away his children under the pretence of order, which takes
 away his wife under the pretence of liberty.  That which wishes,
-in the words of the comic song, to break up the happy home,
+in the words of the comic [[Song|song]], to break up the happy [[Home|home]],
 is primarily anxious not to break up the much more unhappy factory.
 Capitalism, of course, is at war with the family, for the same
-reason which has led to its being at war with the Trade Union.
+reason which has led to its being at war with the Trade [[Union]].
 This indeed is the only sense in which it is true that capitalism
-is connected with individualism.  Capitalism believes in
-collectivism for itself and individualism for its enemies.
+is connected with [[Individualism|individualism]].  Capitalism believes in
+collectivism for itself and [[Individualism|individualism]] for its enemies.
 It desires its victims to be individuals, or (in other words)
 to be atoms.  For the word atom, in its clearest meaning
 (which is none too clear) might be translated as "individual."
@@ -51,12 +51,12 @@ Without the family we are helpless before the State, which in our modern
 case is the Servile State.  To use a military metaphor, the family
 is the only formation in which the charge of the rich can be repulsed.
 It is a force that forms twos as soldiers form fours; and, in every
-peasant country, has stood in the square house or the square
+peasant country, has stood in the square [[house]] or the square
 plot of land as infantry have stood in squares against cavalry.
 How this force operates this, and why, I will try to explain in
 the last of these articles.  But it is when it is most nearly ridden
-down by the horsemen of pride and privilege, as in Poland or Ireland,
-when the battle grows most desperate and the hope most dark,
+down by the horsemen of [[Pride|pride]] and privilege, as in Poland or Ireland,
+when the battle grows most desperate and the [[Hope|hope]] most dark,
 that men begin to understand why that wild oath in its beginnings
 was flung beyond the bonds of the world; and what would seem
 as passing as a vision is made permanent as a vow.

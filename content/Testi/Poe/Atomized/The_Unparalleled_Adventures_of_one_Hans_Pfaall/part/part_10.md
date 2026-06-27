@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 10)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 10)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -18,11 +18,11 @@ tags:
 
       was, my hair stood on end, while I gazed afar down within the
 
-      yawning abysses, letting imagination descend, as it were, and
+      yawning abysses, letting [[Imagination|imagination]] descend, as it were, and
 
       stalk about in the strange vaulted halls, and ruddy gulfs, and
 
-      red ghastly chasms of the hideous and unfathomable fire. I had
+      red ghastly chasms of the hideous and unfathomable [[Fire|fire]]. I had
 
       indeed made a narrow escape. Had the balloon remained a very
 
@@ -34,7 +34,7 @@ tags:
 
       perils, although little considered, are perhaps the greatest
 
-      which must be encountered in balloons. I had by this time,
+      which must be encountered in balloons. I had by this [[Time|time]],
 
       however, attained too great an elevation to be any longer uneasy
 
@@ -42,15 +42,15 @@ tags:
 
 
 
-      “I was now rising rapidly, and by seven o’clock the barometer
+      “I was now rising rapidly, and by seven o’[[Clock|clock]] the barometer
 
       indicated an altitude of no less than nine miles and a half. I
 
       began to find great difficulty in drawing my breath. My head,
 
-      too, was excessively painful; and, having felt for some time a
+      too, was excessively painful; and, having felt for some [[Time|time]] a
 
-      moisture about my cheeks, I at length discovered it to be blood,
+      moisture about my cheeks, I at length discovered it to be [[Blood|blood]],
 
       which was oozing quite fast from the drums of my ears. My eyes,
 
@@ -90,19 +90,19 @@ tags:
 
       of her mouth, staggered to and fro in the car as if under the
 
-      influence of poison. I now too late discovered the great rashness
+      influence of [[Poison|poison]]. I now too late discovered the great rashness
 
       of which I had been guilty in discharging the ballast, and my
 
-      agitation was excessive. I anticipated nothing less than death,
+      agitation was excessive. I anticipated nothing less than [[Death|death]],
 
-      and death in a few minutes. The physical suffering I underwent
+      and [[Death|death]] in a few minutes. The physical [[Suffering|suffering]] I underwent
 
       contributed also to render me nearly incapable of making any
 
       exertion for the preservation of my life. I had, indeed, little
 
-      power of reflection left, and the violence of the pain in my head
+      power of reflection left, and the violence of the [[Pain|pain]] in my head
 
       seemed to be greatly on the increase. Thus I found that my senses
 
@@ -114,11 +114,11 @@ tags:
 
       and the possible consequences to myself, should I return,
 
-      operated to deter me for the moment. I lay down in the bottom of
+      operated to deter me for the moment. I lay down in the [[Bottom|bottom]] of
 
       the car, and endeavored to collect my faculties. In this I so far
 
-      succeeded as to determine upon the experiment of losing blood.
+      succeeded as to determine upon the experiment of losing [[Blood|blood]].
 
       Having no lancet, however, I was constrained to perform the
 
@@ -126,19 +126,19 @@ tags:
 
       opening a vein in my right arm, with the blade of my penknife.
 
-      The blood had hardly commenced flowing when I experienced a
+      The [[Blood|blood]] had hardly commenced flowing when I experienced a
 
-      sensible relief, and by the time I had lost about half a moderate
+      sensible relief, and by the [[Time|time]] I had lost about half a moderate
 
       basin full, most of the worst symptoms had abandoned me entirely.
 
       I nevertheless did not think it expedient to attempt getting on
 
-      my feet immediately; but, having tied up my arm as well as I
+      my feet immediately; but, having tied up my arm as [[Well|well]] as I
 
       could, I lay still for about a quarter of an hour. At the end of
 
-      this time I arose, and found myself freer from absolute pain of
+      this [[Time|time]] I arose, and found myself freer from absolute [[Pain|pain]] of
 
       any kind than I had been during the last hour and a quarter of my
 
@@ -160,15 +160,15 @@ tags:
 
       pleased at the occurrence. It would afford me a chance of
 
-      bringing to a kind of test the truth of a surmise, which, more
+      bringing to a kind of test the [[Truth|truth]] of a surmise, which, more
 
       than anything else, had influenced me in attempting this
 
-      ascension. I had imagined that the habitual endurance of the
+      ascension. I had imagined that the habitual [[Endurance|endurance]] of the
 
       atmospheric pressure at the surface of the earth was the cause,
 
-      or nearly so, of the pain attending animal existence at a
+      or nearly so, of the [[Pain|pain]] attending animal existence at a
 
       distance above the surface. Should the kittens be found to suffer
 
@@ -180,7 +180,7 @@ tags:
 
 
 
-      “By eight o’clock I had actually attained an elevation of
+      “By eight o’[[Clock|clock]] I had actually attained an elevation of
 
       seventeen miles above the surface of the earth. Thus it seemed to
 

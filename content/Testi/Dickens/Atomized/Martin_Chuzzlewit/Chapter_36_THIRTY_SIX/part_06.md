@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 36: THIRTY SIX (part 6)"
+title: "[[Martin Chuzzlewit]] — Chapter 36: THIRTY SIX (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -37,14 +37,14 @@ as a nameless and obscure individual.
 ‘Brother,’ repeated Tom, slightly raising his voice. ‘And if you will
 say, in the first instance, a gentleman, and then say her brother,
 I shall be obliged to you, as she does not expect me or know I am in
-London, and I do not wish to startle her.’
+[[London]], and I do not wish to startle her.’
 
 The young man’s interest in Tom’s observations had ceased long before
-this time, but he kindly waited until now; when, shutting the door, he
+this [[Time|time]], but he kindly waited until now; when, shutting the door, he
 withdrew.
 
 ‘Dear me!’ said Tom. ‘This is very disrespectful and uncivil behaviour.
-I hope these are new servants here, and that Ruth is very differently
+I [[Hope|hope]] these are new servants here, and that Ruth is very differently
 treated.’
 
 His cogitations were interrupted by the sound of voices in the adjoining
@@ -52,14 +52,14 @@ room. They seemed to be engaged in high dispute, or in indignant
 reprimand of some offender; and gathering strength occasionally, broke
 out into a perfect whirlwind. It was in one of these gusts, as it
 appeared to Tom, that the footman announced him; for an abrupt and
-unnatural calm took place, and then a dead silence. He was standing
-before the window, wondering what domestic quarrel might have caused
+unnatural calm took place, and then a dead [[Silence|silence]]. He was standing
+before the [[Window|window]], wondering what domestic quarrel might have caused
 these sounds, and hoping Ruth had nothing to do with it, when the door
 opened, and his sister ran into his arms.
 
-‘Why, bless my soul!’ said Tom, looking at her with great pride, when
+‘Why, bless my [[Soul|soul]]!’ said Tom, looking at her with great [[Pride|pride]], when
 they had tenderly embraced each other, ‘how altered you are Ruth! I
-should scarcely have known you, my love, if I had seen you anywhere
+should scarcely have known you, my [[Love|love]], if I had seen you anywhere
 else, I declare! You are so improved,’ said Tom, with inexpressible
 delight; ‘you are so womanly; you are so--positively, you know, you are
 so handsome!’
@@ -75,15 +75,15 @@ and you have been crying.’
 
 ‘Nonsense,’ said her brother stoutly. ‘That’s a story. Don’t tell me! I
 know better. What is it, dear? I’m not with Mr Pecksniff now. I am going
-to try and settle myself in London; and if you are not happy here (as I
-very much fear you are not, for I begin to think you have been deceiving
+to try and settle myself in [[London]]; and if you are not happy here (as I
+very much [[Fear|fear]] you are not, for I begin to think you have been deceiving
 me with the kindest and most affectionate intention) you shall not
 remain here.’
 
-Oh! Tom’s blood was rising; mind that! Perhaps the Boar’s Head had
+Oh! Tom’s [[Blood|blood]] was rising; mind that! Perhaps the Boar’s Head had
 something to do with it, but certainly the footman had. So had the sight
 of his pretty sister--a great deal to do with it. Tom could bear a good
-deal himself, but he was proud of her, and pride is a sensitive thing.
+deal himself, but he was proud of her, and [[Pride|pride]] is a sensitive thing.
 He began to think, ‘there are more Pecksniffs than one, perhaps,’ and by
 all the pins and needles that run up and down in angry veins, Tom was in
 a most unusual tingle all at once!
@@ -91,8 +91,8 @@ a most unusual tingle all at once!
 ‘We will talk about it, Tom,’ said Ruth, giving him another kiss to
 pacify him. ‘I am afraid I cannot stay here.’
 
-‘Cannot!’ replied Tom. ‘Why then, you shall not, my love. Heyday! You
-are not an object of charity! Upon my word!’
+‘Cannot!’ replied Tom. ‘Why then, you shall not, my [[Love|love]]. Heyday! You
+are not an object of [[Charity|charity]]! Upon my word!’
 
 Tom was stopped in these exclamations by the footman, who brought a
 message from his master, importing that he wished to speak with him
@@ -117,7 +117,7 @@ observe any resemblance.’
 ‘Miss Pinch has a brother, I know,’ observed the lady.
 
 ‘Miss Pinch is always talking about her brother, when she ought to be
-engaged upon my education,’ sobbed the pupil.
+engaged upon my [[Education|education]],’ sobbed the pupil.
 
 ‘Sophia! Hold your tongue!’ observed the gentleman. ‘Sit down, if you
 please,’ addressing Tom.
@@ -133,13 +133,13 @@ Having done which he sat down again.
 ‘I am glad you chance to have called to see your sister to-day, sir,’
 resumed the brass-and-copper founder. ‘For although I do not approve, as
 a principle, of any young person engaged in my family in the capacity
-of a governess, receiving visitors, it happens in this case to be well
+of a governess, receiving visitors, it happens in this case to be [[Well|well]]
 timed. I am sorry to inform you that we are not at all satisfied with
 your sister.’
 
 ‘We are very much DISsatisfied with her,’ observed the lady.
 
-‘I’d never say another lesson to Miss Pinch if I was to be beat to death
+‘I’d never say another lesson to Miss Pinch if I was to be beat to [[Death|death]]
 for it!’ sobbed the pupil.
 
 ‘Sophia!’ cried her father. ‘Hold your tongue!’
@@ -150,7 +150,7 @@ asked Tom.
 ‘Yes,’ said the gentleman, ‘I will. I don’t recognize it as a right;
 but I will. Your sister has not the slightest innate power of commanding
 respect. It has been a constant source of difference between us.
-Although she has been in this family for some time, and although the
+Although she has been in this family for some [[Time|time]], and although the
 young lady who is now present has almost, as it were, grown up under
 her tuition, that young lady has no respect for her. Miss Pinch has
 been perfectly unable to command my daughter’s respect, or to win my

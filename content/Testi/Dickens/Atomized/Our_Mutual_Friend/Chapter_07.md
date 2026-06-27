@@ -19,44 +19,44 @@ Chapter 2
 THE MAN FROM SOMEWHERE
 
 
-Mr and Mrs Veneering were bran-new people in a bran-new house in a
-bran-new quarter of London. Everything about the Veneerings was spick
+Mr and Mrs Veneering were bran-new people in a bran-new [[house]] in a
+bran-new quarter of [[London]]. Everything about the Veneerings was spick
 and span new. All their furniture was new, all their friends were new,
 all their servants were new, their plate was new, their carriage was
 new, their harness was new, their horses were new, their pictures
 were new, they themselves were new, they were as newly married as was
 lawfully compatible with their having a bran-new baby, and if they had
-set up a great-grandfather, he would have come home in matting from the
-Pantechnicon, without a scratch upon him, French polished to the crown
+set up a great-grandfather, he would have come [[Home|home]] in matting from the
+Pantechnicon, without a scratch upon him, French polished to the [[Crown|crown]]
 of his head.
 
 For, in the Veneering establishment, from the hall-chairs with the new
 coat of arms, to the grand pianoforte with the new action, and upstairs
-again to the new fire-escape, all things were in a state of high varnish
+again to the new [[Fire|fire]]-escape, all things were in a state of high varnish
 and polish. And what was observable in the furniture, was observable in
 the Veneerings—the surface smelt a little too much of the workshop and
 was a trifle sticky.
 
-There was an innocent piece of dinner-furniture that went upon easy
+There was an [[Innocent|innocent]] piece of dinner-furniture that went upon easy
 castors and was kept over a livery stable-yard in Duke Street, Saint
 James’s, when not in use, to whom the Veneerings were a source of blind
 confusion. The name of this article was Twemlow. Being first cousin
 to Lord Snigsworth, he was in frequent requisition, and at many houses
 might be said to represent the dining-table in its normal state. Mr and
 Mrs Veneering, for example, arranging a dinner, habitually started with
-Twemlow, and then put leaves in him, or added guests to him. Sometimes,
-the table consisted of Twemlow and half a dozen leaves; sometimes, of
-Twemlow and a dozen leaves; sometimes, Twemlow was pulled out to his
-utmost extent of twenty leaves. Mr and Mrs Veneering on occasions of
+Twemlow, and then put [[Leaves|leaves]] in him, or added guests to him. Sometimes,
+the table consisted of Twemlow and half a dozen [[Leaves|leaves]]; sometimes, of
+Twemlow and a dozen [[Leaves|leaves]]; sometimes, Twemlow was pulled out to his
+utmost extent of twenty [[Leaves|leaves]]. Mr and Mrs Veneering on occasions of
 ceremony faced each other in the centre of the board, and thus the
 parallel still held; for, it always happened that the more Twemlow was
 pulled out, the further he found himself from the center, and nearer
-to the sideboard at one end of the room, or the window-curtains at the
+to the sideboard at one end of the room, or the [[Window|window]]-curtains at the
 other.
 
-But, it was not this which steeped the feeble soul of Twemlow in
+But, it was not this which steeped the feeble [[Soul|soul]] of Twemlow in
 confusion. This he was used to, and could take soundings of. The abyss
-to which he could find no bottom, and from which started forth the
+to which he could find no [[Bottom|bottom]], and from which started forth the
 engrossing and ever-swelling difficulty of his life, was the insoluble
 question whether he was Veneering’s oldest friend, or newest friend.
 To the excogitation of this problem, the harmless gentleman had devoted
@@ -65,7 +65,7 @@ and in the cold gloom, favourable to meditation, of Saint James’s
 Square. Thus. Twemlow had first known Veneering at his club, where
 Veneering then knew nobody but the man who made them known to one
 another, who seemed to be the most intimate friend he had in the world,
-and whom he had known two days—the bond of union between their souls,
+and whom he had known two days—the bond of [[Union|union]] between their souls,
 the nefarious conduct of the committee respecting the cookery of
 a fillet of veal, having been accidentally cemented at that date.
 Immediately upon this, Twemlow received an invitation to dine with
@@ -87,7 +87,7 @@ lodgings, with his hand to his forehead: ‘I must not think of this. This
 is enough to soften any man’s brain,’—and yet was always thinking of
 it, and could never form a conclusion.
 
-This evening the Veneerings give a banquet. Eleven leaves in the
+This evening the Veneerings give a banquet. Eleven [[Leaves|leaves]] in the
 Twemlow; fourteen in company all told. Four pigeon-breasted retainers in
 plain clothes stand in line in the hall. A fifth retainer, proceeding up
 the staircase with a mournful air—as who should say, ‘Here is another
@@ -96,7 +96,7 @@ Twemlow!’
 
 Mrs Veneering welcomes her sweet Mr Twemlow. Mr Veneering welcomes
 his dear Twemlow. Mrs Veneering does not expect that Mr Twemlow can in
-nature care much for such insipid things as babies, but so old a friend
+[[Nature|nature]] care much for such insipid things as babies, but so old a friend
 must please to look at baby. ‘Ah! You will know the friend of your
 family better, Tootleums,’ says Mr Veneering, nodding emotionally at
 that new article, ‘when you begin to take notice.’ He then begs to make
@@ -113,8 +113,8 @@ friendly interest, while the door stands open, ‘the Podsnaps.’
 A too, too smiling large man, with a fatal freshness on him, appearing
 with his wife, instantly deserts his wife and darts at Twemlow with:
 
-‘How do you do? So glad to know you. Charming house you have here. I
-hope we are not late. So glad of the opportunity, I am sure!’
+‘How do you do? So glad to know you. Charming [[house]] you have here. I
+[[Hope|hope]] we are not late. So glad of the opportunity, I am sure!’
 
 When the first shock fell upon him, Twemlow twice skipped back in
 his neat little shoes and his neat little silk stockings of a bygone
@@ -137,7 +137,7 @@ like him.
 
 It is questionable whether any man quite relishes being mistaken for
 any other man; but, Mr Veneering having this very evening set up the
-shirt-front of the young Antinous in new worked cambric just come home,
+shirt-front of the young Antinous in new worked cambric just come [[Home|home]],
 is not at all complimented by being supposed to be Twemlow, who is dry
 and weazen and some thirty years older. Mrs Veneering equally resents
 the imputation of being the wife of Twemlow. As to Twemlow, he is
@@ -174,7 +174,7 @@ that the same large man is to be baby’s godfather.
 
 ‘Dinner is on the table!’
 
-Thus the melancholy retainer, as who should say, ‘Come down and be
+Thus the [[Melancholy|melancholy]] retainer, as who should say, ‘Come down and be
 poisoned, ye unhappy children of men!’
 
 Twemlow, having no lady assigned him, goes down in the rear, with
@@ -182,7 +182,7 @@ his hand to his forehead. Boots and Brewer, thinking him indisposed,
 whisper, ‘Man faint. Had no lunch.’ But he is only stunned by the
 unvanquishable difficulty of his existence.
 
-Revived by soup, Twemlow discourses mildly of the Court Circular with
+Revived by soup, Twemlow discourses mildly of the [[Court]] Circular with
 Boots and Brewer. Is appealed to, at the fish stage of the banquet, by
 Veneering, on the disputed question whether his cousin Lord Snigsworth
 is in or out of town? Gives it that his cousin is out of town. ‘At
@@ -198,10 +198,10 @@ company. Reflects the new Veneering crest, in gold and eke in silver,
 frosted and also thawed, a camel of all work. The Heralds’ College found
 out a Crusading ancestor for Veneering who bore a camel on his shield
 (or might have done it if he had thought of it), and a caravan of camels
-take charge of the fruits and flowers and candles, and kneel down to be
+take charge of the fruits and [[Flowers|flowers]] and candles, and kneel down to be
 loaded with the salt. Reflects Veneering; forty, wavy-haired, dark,
 tending to corpulence, sly, mysterious, filmy—a kind of sufficiently
-well-looking veiled-prophet, not prophesying. Reflects Mrs Veneering;
+[[Well|well]]-looking veiled-[[Prophet|prophet]], not prophesying. Reflects Mrs Veneering;
 fair, aquiline-nosed and fingered, not so much light hair as she might
 have, gorgeous in raiment and jewels, enthusiastic, propitiatory,
 conscious that a corner of her husband’s veil is over herself. Reflects
@@ -210,12 +210,12 @@ on either side of his else bald head, looking as like his hairbrushes as
 his hair, dissolving view of red beads on his forehead, large allowance
 of crumpled shirt-collar up behind. Reflects Mrs Podsnap; fine woman
 for Professor Owen, quantity of bone, neck and nostrils like a
-rocking-horse, hard features, majestic head-dress in which Podsnap has
+rocking-[[Horse|horse]], hard features, majestic head-dress in which Podsnap has
 hung golden offerings. Reflects Twemlow; grey, dry, polite, susceptible
-to east wind, First-Gentleman-in-Europe collar and cravat, cheeks drawn
+to east [[Wind|wind]], First-Gentleman-in-Europe collar and cravat, cheeks drawn
 in as if he had made a great effort to retire into himself some years
 ago, and had got so far and had never got any farther. Reflects mature
-young lady; raven locks, and complexion that lights up well when well
+young lady; raven locks, and complexion that lights up [[Well|well]] when [[Well|well]]
 powdered—as it is—carrying on considerably in the captivation of
 mature young gentleman; with too much nose in his face, too much ginger
 in his whiskers, too much torso in his waistcoat, too much sparkle in
@@ -225,7 +225,7 @@ drab oblong face, like a face in a tablespoon, and a dyed Long Walk up
 the top of her head, as a convenient public approach to the bunch of
 false hair behind, pleased to patronize Mrs Veneering opposite, who
 is pleased to be patronized. Reflects a certain ‘Mortimer’, another
-of Veneering’s oldest friends; who never was in the house before,
+of Veneering’s oldest friends; who never was in the [[house]] before,
 and appears not to want to come again, who sits disconsolate on Mrs
 Veneering’s left, and who was inveigled by Lady Tippins (a friend of
 his boyhood) to come to these people’s and talk, and who won’t talk.
@@ -237,7 +237,7 @@ Boots and Brewer, and two other stuffed Buffers interposed between the
 rest of the company and possible accidents.
 
 The Veneering dinners are excellent dinners—or new people wouldn’t
-come—and all goes well. Notably, Lady Tippins has made a series of
+come—and all goes [[Well|well]]. Notably, Lady Tippins has made a series of
 experiments on her digestive functions, so extremely complicated and
 daring, that if they could be published with their results it might
 benefit the human race. Having taken in provisions from all parts of the
@@ -263,7 +263,7 @@ green fan upon the knuckles of her left hand—which is particularly rich
 in knuckles, ‘I insist upon your telling all that is to be told about
 the man from Jamaica.’
 
-‘Give you my honour I never heard of any man from Jamaica, except the
+‘Give you my [[Honour|honour]] I never heard of any man from Jamaica, except the
 man who was a brother,’ replies Mortimer.
 
 ‘Tobago, then.’
@@ -281,27 +281,27 @@ unfulfilled impression, for he goes in again.
 
 ‘Now, my dear Mrs Veneering,’ quoth Lady Tippins, I appeal to you
 whether this is not the basest conduct ever known in this world? I carry
-my lovers about, two or three at a time, on condition that they are very
-obedient and devoted; and here is my oldest lover-in-chief, the head of
+my [[lovers]] about, two or three at a [[Time|time]], on condition that they are very
+obedient and devoted; and here is my oldest [[Lover|lover]]-in-chief, the head of
 all my slaves, throwing off his allegiance before company! And here is
-another of my lovers, a rough Cymon at present certainly, but of whom
-I had most hopeful expectations as to his turning out well in course of
-time, pretending that he can’t remember his nursery rhymes! On purpose
+another of my [[lovers]], a rough Cymon at present certainly, but of whom
+I had most hopeful expectations as to his turning out [[Well|well]] in course of
+[[Time|time]], pretending that he can’t remember his nursery rhymes! On purpose
 to annoy me, for he knows how I doat upon them!’
 
-A grisly little fiction concerning her lovers is Lady Tippins’s point.
-She is always attended by a lover or two, and she keeps a little list
-of her lovers, and she is always booking a new lover, or striking out an
-old lover, or putting a lover in her black list, or promoting a lover to
-her blue list, or adding up her lovers, or otherwise posting her book.
-Mrs Veneering is charmed by the humour, and so is Veneering. Perhaps it
+A grisly little fiction concerning her [[lovers]] is Lady Tippins’s point.
+She is always attended by a [[Lover|lover]] or two, and she keeps a little list
+of her [[lovers]], and she is always booking a new [[Lover|lover]], or striking out an
+old [[Lover|lover]], or putting a [[Lover|lover]] in her black list, or promoting a [[Lover|lover]] to
+her blue list, or adding up her [[lovers]], or otherwise posting her book.
+Mrs Veneering is charmed by the [[Humour|humour]], and so is Veneering. Perhaps it
 is enhanced by a certain yellow play in Lady Tippins’s throat, like the
 legs of scratching poultry.
 
 ‘I banish the false wretch from this moment, and I strike him out of
-my Cupidon (my name for my Ledger, my dear,) this very night. But I am
+my Cupidon (my name for my Ledger, my dear,) this very [[Night|night]]. But I am
 resolved to have the account of the man from Somewhere, and I beg you
-to elicit it for me, my love,’ to Mrs Veneering, ‘as I have lost my own
+to elicit it for me, my [[Love|love]],’ to Mrs Veneering, ‘as I have lost my own
 influence. Oh, you perjured man!’ This to Mortimer, with a rattle of her
 fan.
 
@@ -319,7 +319,7 @@ Then the four Buffers, taking heart of grace all four at once, say:
 ‘Man from Nowhere, perhaps!’
 
 And then Mrs Veneering—for the Lady Tippins’s winning wiles are
-contagious—folds her hands in the manner of a supplicating child, turns
+contagious—folds her hands in the manner of a supplicating [[Child|child]], turns
 to her left neighbour, and says, ‘Tease! Pay! Man from Tumwhere!’ At
 which the four Buffers, again mysteriously moved all four at once,
 explain, ‘You can’t resist!’
@@ -328,7 +328,7 @@ explain, ‘You can’t resist!’
 embarrassing to have the eyes of Europe upon me to this extent, and my
 only consolation is that you will all of you execrate Lady Tippins in
 your secret hearts when you find, as you inevitably will, the man from
-Somewhere a bore. Sorry to destroy romance by fixing him with a local
+Somewhere a bore. Sorry to destroy [[Romance|romance]] by fixing him with a local
 habitation, but he comes from the place, the name of which escapes me,
 but will suggest itself to everybody else here, where they make the
 wine.’
@@ -346,16 +346,16 @@ one who has anything to tell, generally tells it to anybody else in
 preference.
 
 ‘The man,’ Mortimer goes on, addressing Eugene, ‘whose name is Harmon,
-was only son of a tremendous old rascal who made his money by Dust.’
+was only son of a tremendous old rascal who made his money by [[Dust]].’
 
 ‘Red velveteens and a bell?’ the gloomy Eugene inquires.
 
 ‘And a ladder and basket if you like. By which means, or by others, he
-grew rich as a Dust Contractor, and lived in a hollow in a hilly country
-entirely composed of Dust. On his own small estate the growling old
+grew rich as a [[Dust]] Contractor, and lived in a hollow in a hilly country
+entirely composed of [[Dust]]. On his own small estate the growling old
 vagabond threw up his own mountain range, like an old volcano, and its
-geological formation was Dust. Coal-dust, vegetable-dust, bone-dust,
-crockery dust, rough dust and sifted dust,—all manner of Dust.’
+geological formation was [[Dust]]. Coal-[[Dust|dust]], vegetable-[[Dust|dust]], bone-[[Dust|dust]],
+crockery [[Dust|dust]], rough [[Dust|dust]] and sifted [[Dust|dust]],—all manner of [[Dust]].’
 
 A passing remembrance of Mrs Veneering, here induces Mortimer to address
 his next half-dozen words to her; after which he wanders away again,
@@ -369,28 +369,28 @@ was natural) by rendering these attentions to the wife of his bosom,
 he next found himself at leisure to bestow a similar recognition on the
 claims of his daughter. He chose a husband for her, entirely to his own
 satisfaction and not in the least to hers, and proceeded to settle upon
-her, as her marriage portion, I don’t know how much Dust, but something
+her, as her [[Marriage|marriage]] portion, I don’t know how much [[Dust]], but something
 immense. At this stage of the affair the poor girl respectfully
 intimated that she was secretly engaged to that popular character whom
-the novelists and versifiers call Another, and that such a marriage
-would make Dust of her heart and Dust of her life—in short, would
+the novelists and versifiers call Another, and that such a [[Marriage|marriage]]
+would make [[Dust]] of her heart and [[Dust]] of her life—in short, would
 set her up, on a very extensive scale, in her father’s business.
-Immediately, the venerable parent—on a cold winter’s night, it is
+Immediately, the venerable parent—on a cold [[Winter|winter]]’s [[Night|night]], it is
 said—anathematized and turned her out.’
 
 Here, the Analytical Chemist (who has evidently formed a very low
 opinion of Mortimer’s story) concedes a little claret to the Buffers;
 who, again mysteriously moved all four at once, screw it slowly into
-themselves with a peculiar twist of enjoyment, as they cry in chorus,
+themselves with a peculiar twist of enjoyment, as they cry in [[Chorus|chorus]],
 ‘Pray go on.’
 
 ‘The pecuniary resources of Another were, as they usually are, of a very
-limited nature. I believe I am not using too strong an expression when
+limited [[Nature|nature]]. I believe I am not using too strong an expression when
 I say that Another was hard up. However, he married the young lady, and
 they lived in a humble dwelling, probably possessing a porch ornamented
 with honeysuckle and woodbine twining, until she died. I must refer
 you to the Registrar of the District in which the humble dwelling was
-situated, for the certified cause of death; but early sorrow and anxiety
+situated, for the certified cause of [[Death|death]]; but early sorrow and anxiety
 may have had to do with it, though they may not appear in the ruled
 pages and printed forms. Indisputably this was the case with Another,
 for he was so cut up by the loss of his young wife that if he outlived
@@ -402,7 +402,7 @@ good society, might have the weakness to be impressed by what he here
 relates. It is hidden with great pains, but it is in him. The gloomy
 Eugene too, is not without some kindred touch; for, when that appalling
 Lady Tippins declares that if Another had survived, he should have gone
-down at the head of her list of lovers—and also when the mature young
+down at the head of her list of [[lovers]]—and also when the mature young
 lady shrugs her epaulettes, and laughs at some private and confidential
 comment from the mature young gentleman—his gloom deepens to that
 degree that he trifles quite ferociously with his dessert-knife.
@@ -411,14 +411,14 @@ Mortimer proceeds.
 
 ‘We must now return, as novelists say, and as we all wish they wouldn’t,
 to the man from Somewhere. Being a boy of fourteen, cheaply educated
-at Brussels when his sister’s expulsion befell, it was some little time
+at Brussels when his sister’s expulsion befell, it was some little [[Time|time]]
 before he heard of it—probably from herself, for the mother was dead;
 but that I don’t know. Instantly, he absconded, and came over here. He
 must have been a boy of spirit and resource, to get here on a stopped
 allowance of five sous a week; but he did it somehow, and he burst in
 on his father, and pleaded his sister’s cause. Venerable parent promptly
 resorts to anathematization, and turns him out. Shocked and terrified
-boy takes flight, seeks his fortune, gets aboard ship, ultimately
+boy takes flight, seeks his fortune, gets aboard [[Ship|ship]], ultimately
 turns up on dry land among the Cape wine: small proprietor, farmer,
 grower—whatever you like to call it.’
 
@@ -435,16 +435,16 @@ asserting individuality, inquires: ‘How discovered, and why?’
 
 ‘Ah! To be sure. Thank you for reminding me. Venerable parent dies.’
 
-Same Buffer, emboldened by success, says: ‘When?’
+Same Buffer, emboldened by [[success]], says: ‘When?’
 
 ‘The other day. Ten or twelve months ago.’
 
 Same Buffer inquires with smartness, ‘What of?’ But herein perishes a
-melancholy example; being regarded by the three other Buffers with a
+[[Melancholy|melancholy]] example; being regarded by the three other Buffers with a
 stony stare, and attracting no further attention from any mortal.
 
 ‘Venerable parent,’ Mortimer repeats with a passing remembrance that
-there is a Veneering at table, and for the first time addressing
+there is a Veneering at table, and for the first [[Time|time]] addressing
 him—‘dies.’
 
 The gratified Veneering repeats, gravely, ‘dies’; and folds his arms,
@@ -452,31 +452,31 @@ and composes his brow to hear it out in a judicial manner, when he finds
 himself again deserted in the bleak world.
 
 ‘His will is found,’ said Mortimer, catching Mrs Podsnap’s
-rocking-horse’s eye. ‘It is dated very soon after the son’s flight. It
-leaves the lowest of the range of dust-mountains, with some sort of a
-dwelling-house at its foot, to an old servant who is sole executor, and
+rocking-[[Horse|horse]]’s eye. ‘It is dated very soon after the son’s flight. It
+[[Leaves|leaves]] the lowest of the range of [[Dust|dust]]-[[Mountains|mountains]], with some sort of a
+dwelling-[[house]] at its foot, to an old servant who is sole executor, and
 all the rest of the property—which is very considerable—to the son.
 He directs himself to be buried with certain eccentric ceremonies and
 precautions against his coming to life, with which I need not bore you,
 and that’s all—except—’ and this ends the story.
 
 The Analytical Chemist returning, everybody looks at him. Not because
-anybody wants to see him, but because of that subtle influence in nature
+anybody wants to see him, but because of that subtle influence in [[Nature|nature]]
 which impels humanity to embrace the slightest opportunity of looking at
 anything, rather than the person who addresses it.
 
 ‘—Except that the son’s inheriting is made conditional on his marrying
-a girl, who at the date of the will, was a child of four or five years
+a girl, who at the date of the will, was a [[Child|child]] of four or five years
 old, and who is now a marriageable young woman. Advertisement and
 inquiry discovered the son in the man from Somewhere, and at the present
-moment, he is on his way home from there—no doubt, in a state of great
+moment, he is on his way [[Home|home]] from there—no [[Doubt|doubt]], in a state of great
 astonishment—to succeed to a very large fortune, and to take a wife.’
 
 Mrs Podsnap inquires whether the young person is a young person of
 personal charms? Mortimer is unable to report.
 
 Mr Podsnap inquires what would become of the very large fortune, in the
-event of the marriage condition not being fulfilled? Mortimer replies,
+event of the [[Marriage|marriage]] condition not being fulfilled? Mortimer replies,
 that by special testamentary clause it would then go to the old servant
 above mentioned, passing over and excluding the son; also, that if
 the son had not been living, the same old servant would have been sole
@@ -506,7 +506,7 @@ Analytical Chemist bends and whispers.
 Analytical Chemist again bends and whispers.
 
 Mortimer stares at him, and unfolds the paper. Reads it, reads it twice,
-turns it over to look at the blank outside, reads it a third time.
+turns it over to look at the blank outside, reads it a third [[Time|time]].
 
 ‘This arrives in an extraordinarily opportune manner,’ says Mortimer
 then, looking with an altered face round the table: ‘this is the
@@ -516,7 +516,7 @@ conclusion of the story of the identical man.’
 
 ‘Declines to marry?’ another guesses.
 
-‘Codicil among the dust?’ another guesses.
+‘Codicil among the [[Dust|dust]]?’ another guesses.
 
 ‘Why, no,’ says Mortimer; ‘remarkable thing, you are all wrong. The
 story is completer and rather more exciting than I supposed. Man’s

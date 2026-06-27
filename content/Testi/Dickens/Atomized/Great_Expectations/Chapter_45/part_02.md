@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 45 (part 2)"
+title: "[[Great Expectations]] — Chapter 45 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -19,7 +19,7 @@ the Aged’s sausage like a torch, and been obliged to blow it out.
 
 “I accidentally heard, yesterday morning,” said Wemmick, “being in a
 certain place where I once took you,—even between you and me, it’s as
-well not to mention names when avoidable—”
+[[Well|well]] not to mention names when avoidable—”
 
 “Much better not,” said I. “I understand you.”
 
@@ -32,7 +32,7 @@ won’t name this person—”
 
 “—Had made some little stir in a certain part of the world where a good
 many people go, not always in gratification of their own inclinations,
-and not quite irrespective of the government expense—”
+and not quite irrespective of the [[government]] expense—”
 
 In watching his face, I made quite a firework of the Aged’s sausage,
 and greatly discomposed both my own attention and Wemmick’s; for which
@@ -40,13 +40,13 @@ I apologised.
 
 “—By disappearing from such place, and being no more heard of
 thereabouts. From which,” said Wemmick, “conjectures had been raised
-and theories formed. I also heard that you at your chambers in Garden
-Court, Temple, had been watched, and might be watched again.”
+and theories formed. I also heard that you at your chambers in [[Garden]]
+[[Court]], Temple, had been watched, and might be watched again.”
 
 “By whom?” said I.
 
 “I wouldn’t go into that,” said Wemmick, evasively, “it might clash
-with official responsibilities. I heard it, as I have in my time heard
+with official responsibilities. I heard it, as I have in my [[Time|time]] heard
 other curious things in the same place. I don’t tell it you on
 information received. I heard it.”
 
@@ -73,7 +73,7 @@ it either is, or it will be, or it’s in great danger of being.”
 As I saw that he was restrained by fealty to Little Britain from saying
 as much as he could, and as I knew with thankfulness to him how far out
 of his way he went to say what he did, I could not press him. But I
-told him, after a little meditation over the fire, that I would like to
+told him, after a little meditation over the [[Fire|fire]], that I would like to
 ask him a question, subject to his answering or not answering, as he
 deemed right, and sure that his course would be right. He paused in his
 breakfast, and crossing his arms, and pinching his shirt-sleeves (his
@@ -89,30 +89,30 @@ He answered with one other nod.
 
 One other nod.
 
-“Is he in London?”
+“Is he in [[London]]?”
 
 He gave me one other nod, compressed the post-office exceedingly, gave
 me one last nod, and went on with his breakfast.
 
 “Now,” said Wemmick, “questioning being over,” which he emphasised and
 repeated for my guidance, “I come to what I did, after hearing what I
-heard. I went to Garden Court to find you; not finding you, I went to
+heard. I went to [[Garden]] [[Court]] to find you; not finding you, I went to
 Clarriker’s to find Mr. Herbert.”
 
 “And him you found?” said I, with great anxiety.
 
 “And him I found. Without mentioning any names or going into any
 details, I gave him to understand that if he was aware of anybody—Tom,
-Jack, or Richard—being about the chambers, or about the immediate
-neighbourhood, he had better get Tom, Jack, or Richard out of the way
+Jack, or [[Richard]]—being about the chambers, or about the immediate
+neighbourhood, he had better get Tom, Jack, or [[Richard]] out of the way
 while you were out of the way.”
 
 “He would be greatly puzzled what to do?”
 
 “He _was_ puzzled what to do; not the less, because I gave him my
-opinion that it was not safe to try to get Tom, Jack, or Richard too
+opinion that it was not safe to try to get Tom, Jack, or [[Richard]] too
 far out of the way at present. Mr. Pip, I’ll tell you something. Under
-existing circumstances, there is no place like a great city when you
+existing circumstances, there is no place like a great [[City|city]] when you
 are once in it. Don’t break cover too soon. Lie close. Wait till things
 slacken, before you try the open, even for foreign air.”
 
@@ -121,36 +121,36 @@ done?
 
 “Mr. Herbert,” said Wemmick, “after being all of a heap for half an
 hour, struck out a plan. He mentioned to me as a secret, that he is
-courting a young lady who has, as no doubt you are aware, a bedridden
+courting a young lady who has, as no [[Doubt|doubt]] you are aware, a bedridden
 Pa. Which Pa, having been in the Purser line of life, lies a-bed in a
-bow-window where he can see the ships sail up and down the river. You
+bow-[[Window|window]] where he can see the ships sail up and down the [[River|river]]. You
 are acquainted with the young lady, most probably?”
 
 “Not personally,” said I.
 
-The truth was, that she had objected to me as an expensive companion
+The [[Truth|truth]] was, that she had objected to me as an expensive companion
 who did Herbert no good, and that, when Herbert had first proposed to
 present me to her, she had received the proposal with such very
 moderate warmth, that Herbert had felt himself obliged to confide the
-state of the case to me, with a view to the lapse of a little time
+state of the case to me, with a view to the lapse of a little [[Time|time]]
 before I made her acquaintance. When I had begun to advance Herbert’s
 prospects by stealth, I had been able to bear this with cheerful
-philosophy: he and his affianced, for their part, had naturally not
+[[philosophy]]: he and his affianced, for their part, had naturally not
 been very anxious to introduce a third person into their interviews;
 and thus, although I was assured that I had risen in Clara’s esteem,
 and although the young lady and I had long regularly interchanged
 messages and remembrances by Herbert, I had never seen her. However, I
 did not trouble Wemmick with these particulars.
 
-“The house with the bow-window,” said Wemmick, “being by the
-river-side, down the Pool there between Limehouse and Greenwich, and
+“The [[house]] with the bow-[[Window|window]],” said Wemmick, “being by the
+[[River|river]]-side, down the Pool there between Limehouse and Greenwich, and
 being kept, it seems, by a very respectable widow who has a furnished
 upper floor to let, Mr. Herbert put it to me, what did I think of that
-as a temporary tenement for Tom, Jack, or Richard? Now, I thought very
-well of it, for three reasons I’ll give you. That is to say: _Firstly_.
-It’s altogether out of all your beats, and is well away from the usual
+as a temporary tenement for Tom, Jack, or [[Richard]]? Now, I thought very
+[[Well|well]] of it, for three reasons I’ll give you. That is to say: _Firstly_.
+It’s altogether out of all your beats, and is [[Well|well]] away from the usual
 heap of streets great and small. _Secondly_. Without going near it
-yourself, you could always hear of the safety of Tom, Jack, or Richard,
+yourself, you could always hear of the safety of Tom, Jack, or [[Richard]],
 through Mr. Herbert. _Thirdly_. After a while and when it might be
-prudent, if you should want to slip Tom, Jack, or Richard on board a
+prudent, if you should want to slip Tom, Jack, or [[Richard]] on board a
 foreign packet-boat, there he is—ready.”

@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 27 (part 4)"
+title: "[[Villette]] — Chapter 27 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“Lucy,” began Dr. Bretton, breaking silence and smiling, as Ginevra
+“Lucy,” began Dr. Bretton, breaking [[Silence|silence]] and smiling, as Ginevra
 glided before him, casting a glance as she passed by, “Miss Fanshawe is
 certainly a fine girl.”
 
@@ -45,9 +45,9 @@ a soon-depressed, an easily-deranged temperament—it fell if a cloud
 crossed the sun. Perhaps before the eye of severe equity I should stand
 more at fault than you.
 
-Trying, then, to keep down the unreasonable pain which thrilled my
+Trying, then, to keep down the unreasonable [[Pain|pain]] which thrilled my
 heart, on thus being made to feel that while Graham could devote to
-others the most grave and earnest, the manliest interest, he had no
+others the most [[Grave|grave]] and earnest, the manliest interest, he had no
 more than light raillery for Lucy, the friend of lang syne, I inquired
 calmly,—“On what points are we so closely in accordance?”
 
@@ -70,27 +70,27 @@ A—— and Z——.”
 “I think she is, as you say, a pale little lady—pale, certainly, just
 now, when she is fatigued with over-excitement.”
 
-“You don’t remember her as a child?”
+“You don’t remember her as a [[Child|child]]?”
 
-“I wonder, sometimes, whether you do.”
+“I [[Wonder|wonder]], sometimes, whether you do.”
 
 “I had forgotten her; but it is noticeable, that circumstances,
-persons, even words and looks, that had slipped your memory, may, under
+persons, even words and looks, that had slipped your [[Memory|memory]], may, under
 certain conditions, certain aspects of your own or another’s mind,
 revive.”
 
 “That is possible enough.”
 
 “Yet,” he continued, “the revival is imperfect—needs confirmation,
-partakes so much of the dim character of a dream, or of the airy one of
+partakes so much of the dim character of [[A Dream|a dream]], or of the airy one of
 a fancy, that the testimony of a witness becomes necessary for
 corroboration. Were you not a guest at Bretton ten years ago, when Mr.
-Home brought his little girl, whom we then called ‘little Polly,’ to
+[[Home]] brought his little girl, whom we then called ‘little Polly,’ to
 stay with mamma?”
 
-“I was there the night she came, and also the morning she went away.”
+“I was there the [[Night|night]] she came, and also the morning she went away.”
 
-“Rather a peculiar child, was she not? I wonder how I treated her. Was
+“Rather a peculiar [[Child|child]], was she not? I [[Wonder|wonder]] how I treated her. Was
 I fond of children in those days? Was there anything gracious or kindly
 about me—great, reckless, schoolboy as I was? But you don’t recollect
 me, of course?”
@@ -108,17 +108,17 @@ instance.”
 
 “A brute! No, Graham: I should never have patiently endured brutality.”
 
-“_This_, however, I _do_ remember: quiet Lucy Snowe tasted nothing of
+“_This_, however, I _do_ remember: quiet [[Lucy Snowe]] tasted nothing of
 my grace.”
 
 “As little of your cruelty.”
 
 “Why, had I been Nero himself, I could not have tormented a being
-inoffensive as a shadow.”
+inoffensive as a [[Shadow|shadow]].”
 
 I smiled; but I also hushed a groan. Oh!—I just wished he would let me
-alone—cease allusion to me. These epithets—these attributes I put from
-me. His “quiet Lucy Snowe,” his “inoffensive shadow,” I gave him back;
+[[Alone|alone]]—cease allusion to me. These epithets—these attributes I put from
+me. His “quiet [[Lucy Snowe]],” his “inoffensive [[Shadow|shadow]],” I gave him back;
 not with scorn, but with extreme weariness: theirs was the coldness and
 the pressure of lead; let him whelm me with no such weight. Happily, he
 was soon on another theme.
@@ -126,19 +126,19 @@ was soon on another theme.
 “On what terms were ‘little Polly’ and I? Unless my recollections
 deceive me, we were not foes—”
 
-“You speak very vaguely. Do you think little Polly’s memory, not more
+“You speak very vaguely. Do you think little Polly’s [[Memory|memory]], not more
 definite?”
 
 “Oh! we don’t talk of ‘little Polly’ _now_. Pray say, Miss de
 Bassompierre; and, of course, such a stately personage remembers
 nothing of Bretton. Look at her large eyes, Lucy; can they read a word
-in the page of memory? Are they the same which I used to direct to a
+in the page of [[Memory|memory]]? Are they the same which I used to direct to a
 horn-book? She does not know that I partly taught her to read.”
 
-“In the Bible on Sunday nights?”
+“In the [[Bible]] on [[Sunday]] nights?”
 
 “She has a calm, delicate, rather fine profile now: once what a little
-restless, anxious countenance was hers! What a thing is a child’s
+restless, anxious countenance was hers! What a thing is a [[Child|child]]’s
 preference—what a bubble! Would you believe it? that lady was fond of
 me!”
 
@@ -149,7 +149,7 @@ liked me the best of whatever there was at Bretton.”
 
 “You thought so.”
 
-“I quite well recall it. I wish I could tell her all I recall; or
+“I quite [[Well|well]] recall it. I wish I could tell her all I recall; or
 rather, I wish some one, you for instance, would go behind and whisper
 it all in her ear, and I could have the delight—here, as I sit—of
 watching her look under the intelligence. Could you manage that, think
@@ -157,10 +157,10 @@ you, Lucy, and make me ever grateful?”
 
 “Could I manage to make you ever grateful?” said I. “No, _I could
 not_.” And I felt my fingers work and my hands interlock: I felt, too,
-an inward courage, warm and resistant. In this matter I was not
+an inward [[Courage|courage]], warm and resistant. In this matter I was not
 disposed to gratify Dr. John: not at all. With now welcome force, I
-realized his entire misapprehension of my character and nature. He
-wanted always to give me a role not mine. Nature and I opposed him. He
+realized his entire misapprehension of my character and [[Nature|nature]]. He
+wanted always to give me a role not mine. [[Nature]] and I opposed him. He
 did not at all guess what I felt: he did not read my eyes, or face, or
-gestures; though, I doubt not, all spoke. Leaning towards me coaxingly,
+gestures; though, I [[Doubt|doubt]] not, all spoke. Leaning towards me coaxingly,
 he said, softly, “_Do_ content me, Lucy.”

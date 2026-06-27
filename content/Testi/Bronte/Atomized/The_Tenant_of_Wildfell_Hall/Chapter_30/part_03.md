@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 30 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 30 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -42,7 +42,7 @@ you from them.”
 
 
 
-“Well, well! don’t worry me about them: you’ll never effect any good by
+“[[Well]], [[Well|well]]! don’t worry me about them: you’ll never effect any good by
 
 that. Have patience with me, and bear with my languor and crossness a
 
@@ -50,7 +50,7 @@ little while, till I get this cursed low fever out of my veins, and
 
 then you’ll find me cheerful and kind as ever. Why can’t you be gentle
 
-and good, as you were last time?—I’m sure I was very grateful for it.”
+and good, as you were last [[Time|time]]?—I’m sure I was very grateful for it.”
 
 
 
@@ -58,41 +58,41 @@ and good, as you were last time?—I’m sure I was very grateful for it.”
 
 that you were ashamed of your transgressions, and hoped you would never
 
-repeat them again; but now you have left me nothing to hope!”
+repeat them again; but now you have left me nothing to [[Hope|hope]]!”
 
 
 
 “My case is quite desperate, is it? A very blessed consideration, if it
 
-will only secure me from the pain and worry of my dear anxious wife’s
+will only secure me from the [[Pain|pain]] and worry of my dear anxious wife’s
 
-efforts to convert me, and her from the toil and trouble of such
+efforts to [[convert]] me, and her from the toil and trouble of such
 
 exertions, and her sweet face and silver accents from the ruinous
 
 effects of the same. A burst of passion is a fine rousing thing upon
 
-occasion, Helen, and a flood of tears is marvellously affecting, but,
+occasion, [[Helen]], and a flood of [[Tears|tears]] is marvellously affecting, but,
 
 when indulged too often, they are both deuced plaguy things for
 
-spoiling one’s beauty and tiring out one’s friends.”
+spoiling one’s [[Beauty|beauty]] and tiring out one’s friends.”
 
 
 
-Thenceforth I restrained my tears and passions as much as I could. I
+Thenceforth I restrained my [[Tears|tears]] and passions as much as I could. I
 
-spared him my exhortations and fruitless efforts at conversion too, for
+spared him my exhortations and fruitless efforts at [[conversion]] too, for
 
 I saw it was all in vain: God might awaken that heart, supine and
 
-stupefied with self-indulgence, and remove the film of sensual darkness
+stupefied with [[Self|self]]-indulgence, and remove the film of sensual darkness
 
-from his eyes, but I could not. His injustice and ill-humour towards
+from his eyes, but I could not. His injustice and ill-[[Humour|humour]] towards
 
 his inferiors, who could not defend themselves, I still resented and
 
-withstood; but when I alone was their object, as was frequently the
+withstood; but when I [[Alone|alone]] was their object, as was frequently the
 
 case, I endured it with calm forbearance, except at times, when my
 
@@ -106,7 +106,7 @@ attended carefully to his wants and amusements, but not, I own, with
 
 the same devoted fondness as before, because I could not feel it;
 
-besides, I had now another claimant on my time and care—my ailing
+besides, I had now another claimant on my [[Time|time]] and care—my ailing
 
 infant, for whose sake I frequently braved and suffered the reproaches
 
@@ -114,7 +114,7 @@ and complaints of his unreasonably exacting father.
 
 
 
-But Arthur is not naturally a peevish or irritable man; so far from it,
+But [[arthur|Arthur]] is not naturally a peevish or irritable man; so far from it,
 
 that there was something almost ludicrous in the incongruity of this
 
@@ -130,15 +130,15 @@ was much sooner than would have been the case but for my strenuous
 
 exertions; for there was still one thing about him that I did not give
 
-up in despair, and one effort for his preservation that I would not
+up in [[Despair|despair]], and one effort for his preservation that I would not
 
 remit. His appetite for the stimulus of wine had increased upon him, as
 
-I had too well foreseen. It was now something more to him than an
+I had too [[Well|well]] foreseen. It was now something more to him than an
 
 accessory to social enjoyment: it was an important source of enjoyment
 
-in itself. In this time of weakness and depression he would have made
+in itself. In this [[Time|time]] of weakness and depression he would have made
 
 it his medicine and support, his comforter, his recreation, and his
 
@@ -164,17 +164,17 @@ effects.
 
 And here I must not forget that I am not a little indebted to his
 
-friend Mr. Hargrave. About that time he frequently called at Grassdale,
+friend Mr. Hargrave. About that [[Time|time]] he frequently called at Grassdale,
 
-and often dined with us, on which occasions I fear Arthur would
+and often dined with us, on which occasions I [[Fear|fear]] [[arthur|Arthur]] would
 
 willingly have cast prudence and decorum to the winds, and made “a
 
-night of it,” as often as his friend would have consented to join him
+[[Night|night]] of it,” as often as his friend would have consented to join him
 
 in that exalted pastime; and if the latter had chosen to comply, he
 
-might, in a night or two, have ruined the labour of weeks, and
+might, in a [[Night|night]] or two, have ruined the labour of weeks, and
 
 overthrown with a touch the frail bulwark it had cost me such trouble
 
@@ -182,7 +182,7 @@ and toil to construct. I was so fearful of this at first, that I
 
 humbled myself to intimate to him, in private, my apprehensions of
 
-Arthur’s proneness to these excesses, and to express a hope that he
+[[arthur|Arthur]]’s proneness to these excesses, and to express a [[Hope|hope]] that he
 
 would not encourage it. He was pleased with this mark of confidence,
 
@@ -192,13 +192,13 @@ his presence served rather as a check upon his host, than an incitement
 
 to further acts of intemperance; and he always succeeded in bringing
 
-him from the dining-room in good time, and in tolerably good condition;
+him from the dining-room in good [[Time|time]], and in tolerably good condition;
 
-for if Arthur disregarded such intimations as “Well, I must not detain
+for if [[arthur|Arthur]] disregarded such intimations as “[[Well]], I must not detain
 
 you from your lady,” or “We must not forget that Mrs. Huntingdon is
 
-alone,” he would insist upon leaving the table himself, to join me, and
+[[Alone|alone]],” he would insist upon leaving the table himself, to join me, and
 
 his host, however unwillingly, was obliged to follow.
 
@@ -206,6 +206,6 @@ his host, however unwillingly, was obliged to follow.
 
 Hence I learned to welcome Mr. Hargrave as a real friend to the family,
 
-a harmless companion for Arthur, to cheer his spirits and preserve him
+a harmless companion for [[arthur|Arthur]], to cheer his spirits and preserve him
 
 from the tedium of absolute idleness and a total isolation from all

@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 29 (part 2)"
+title: "[[Jane Eyre]] — Chapter 29 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -43,15 +43,15 @@ dress, “lest,” as she said, “I should mucky it.”
 remarked. “Happen ye’ve been a dressmaker?”
 
 “No, you are wrong. And now, never mind what I have been: don’t trouble
-your head further about me; but tell me the name of the house where we
+your head further about me; but tell me the name of the [[house]] where we
 are.”
 
-“Some calls it Marsh End, and some calls it Moor House.”
+“Some calls it Marsh End, and some calls it Moor [[house|House]].”
 
 “And the gentleman who lives here is called Mr. St. John?”
 
 “Nay; he doesn’t live here: he is only staying a while. When he is at
-home, he is in his own parish at Morton.”
+[[Home|home]], he is in his own parish at Morton.”
 
 “That village a few miles off?
 
@@ -72,7 +72,7 @@ gurt (great) grandfather afore him.”
 
 “Aye; St. John is like his kirstened name.”
 
-“And his sisters are called Diana and Mary Rivers?”
+“And his sisters are called [[Diana]] and Mary Rivers?”
 
 “Yes.”
 
@@ -97,22 +97,22 @@ was quite mista’en in my thoughts of you: but there is so mony cheats
 goes about, you mun forgie me.”
 
 “And though,” I continued, rather severely, “you wished to turn me from
-the door, on a night when you should not have shut out a dog.”
+the door, on a [[Night|night]] when you should not have shut out a dog.”
 
-“Well, it was hard: but what can a body do? I thought more o’ th’
+“[[Well]], it was hard: but what can a [[Body|body]] do? I thought more o’ th’
 childer nor of mysel: poor things! They’ve like nobody to tak’ care on
 ’em but me. I’m like to look sharpish.”
 
-I maintained a grave silence for some minutes.
+I maintained a [[Grave|grave]] [[Silence|silence]] for some minutes.
 
 “You munnut think too hardly of me,” she again remarked.
 
 “But I do think hardly of you,” I said; “and I’ll tell you why—not so
 much because you refused to give me shelter, or regarded me as an
 impostor, as because you just now made it a species of reproach that I
-had no ‘brass’ and no house. Some of the best people that ever lived
+had no ‘brass’ and no [[house]]. Some of the best people that ever lived
 have been as destitute as I am; and if you are a Christian, you ought
-not to consider poverty a crime.”
+not to consider [[Poverty|poverty]] a crime.”
 
 “No more I ought,” said she: “Mr. St. John tells me so too; and I see I
 wor wrang—but I’ve clear a different notion on you now to what I had.
@@ -130,10 +130,10 @@ called the young people.
 
 Old Mr. Rivers, she said, was a plain man enough, but a gentleman, and
 of as ancient a family as could be found. Marsh End had belonged to the
-Rivers ever since it was a house: and it was, she affirmed, “aboon two
+Rivers ever since it was a [[house]]: and it was, she affirmed, “aboon two
 hundred year old—for all it looked but a small, humble place, naught to
-compare wi’ Mr. Oliver’s grand hall down i’ Morton Vale. But she could
-remember Bill Oliver’s father a journeyman needlemaker; and th’ Rivers
+compare wi’ Mr. [[Oliver]]’s grand hall down i’ Morton Vale. But she could
+remember Bill [[Oliver]]’s father a journeyman needlemaker; and th’ Rivers
 wor gentry i’ th’ owd days o’ th’ Henrys, as onybody might see by
 looking into th’ registers i’ Morton Church vestry.” Still, she
 allowed, “the owd maister was like other folk—naught mich out o’ t’
@@ -141,17 +141,17 @@ common way: stark mad o’ shooting, and farming, and sich like.” The
 mistress was different. She was a great reader, and studied a deal; and
 the “bairns” had taken after her. There was nothing like them in these
 parts, nor ever had been; they had liked learning, all three, almost
-from the time they could speak; and they had always been “of a mak’ of
+from the [[Time|time]] they could speak; and they had always been “of a mak’ of
 their own.” Mr. St. John, when he grew up, would go to college and be a
 parson; and the girls, as soon as they left school, would seek places
 as governesses: for they had told her their father had some years ago
 lost a great deal of money by a man he had trusted turning bankrupt;
 and as he was now not rich enough to give them fortunes, they must
-provide for themselves. They had lived very little at home for a long
+provide for themselves. They had lived very little at [[Home|home]] for a long
 while, and were only come now to stay a few weeks on account of their
-father’s death; but they did so like Marsh End and Morton, and all
-these moors and hills about. They had been in London, and many other
-grand towns; but they always said there was no place like home; and
+father’s [[Death|death]]; but they did so like Marsh End and Morton, and all
+these moors and hills about. They had been in [[London]], and many other
+grand towns; but they always said there was no place like [[Home|home]]; and
 then they were so agreeable with each other—never fell out nor
 “threaped.” She did not know where there was such a family for being
 united.
@@ -162,11 +162,11 @@ ladies and their brother were now.
 “Gone over to Morton for a walk; but they would be back in half-an-hour
 to tea.”
 
-They returned within the time Hannah had allotted them: they entered by
+They returned within the [[Time|time]] Hannah had allotted them: they entered by
 the kitchen door. Mr. St. John, when he saw me, merely bowed and passed
 through; the two ladies stopped: Mary, in a few words, kindly and
-calmly expressed the pleasure she felt in seeing me well enough to be
-able to come down; Diana took my hand: she shook her head at me.
+calmly expressed the pleasure she felt in seeing me [[Well|well]] enough to be
+able to come down; [[Diana]] took my hand: she shook her head at me.
 
 “You should have waited for my leave to descend,” she said. “You still
-look very pale—and so thin! Poor child!—poor girl!”
+look very pale—and so thin! Poor [[Child|child]]!—poor girl!”

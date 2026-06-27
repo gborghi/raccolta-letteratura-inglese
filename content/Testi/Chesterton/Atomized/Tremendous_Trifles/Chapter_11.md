@@ -34,13 +34,13 @@ it is the only use I think of a white ceiling being put to.
 
 But for the beautiful experiment of lying in bed I might
 never have discovered it.  For years I have been looking
-for some blank spaces in a modern house to draw on.
+for some blank spaces in a modern [[house]] to draw on.
 Paper is much too small for any really allegorical design;
 as Cyrano de Bergerac says, "Il me faut des géants."
 But when I tried to find these fine clear spaces in the modern
 rooms such as we all live in I was continually disappointed.
 I found an endless pattern and complication of small objects
-hung like a curtain of fine links between me and my desire.
+hung like a curtain of fine links between me and my [[Desire|desire]].
 I examined the walls; I found them to my surprise to be
 already covered with wallpaper, and I found the wallpaper
 to be already covered with uninteresting images, all bearing
@@ -48,7 +48,7 @@ a ridiculous resemblance to each other.  I could not understand
 why one arbitrary symbol (a symbol apparently entirely
 devoid of any religious or philosophical significance)
 should thus be sprinkled all over my nice walls like a sort
-of small-pox. The Bible must be referring to wallpapers, I think,
+of small-pox. The [[Bible]] must be referring to wallpapers, I think,
 when it says, "Use not vain repetitions, as the Gentiles do."
 I found the Turkey carpet a mass of unmeaning colours,
 rather like the Turkish Empire, or like the sweetmeat called
@@ -65,21 +65,21 @@ Nowhere did I find a really clear space for sketching until this occasion
 when I prolonged beyond the proper limit the process of lying on my back
 in bed.  Then the light of that white heaven broke upon my vision,
 that breadth of mere white which is indeed almost the definition
-of Paradise, since it means purity and also means freedom.
+of Paradise, since it means purity and also means [[Freedom|freedom]].
 But alas! like all heavens, now that it is seen it is found
-to be unattainable; it looks more austere and more distant
-than the blue sky outside the window.  For my proposal to paint
+to be [[Unattainable|unattainable]]; it looks more austere and more distant
+than the blue sky outside the [[Window|window]].  For my proposal to paint
 on it with the bristly end of a broom has been discouraged--
 never mind by whom; by a person debarred from all political rights--
 and even my minor proposal to put the other end of the broom into
-the kitchen fire and turn it to charcoal has not been conceded.
+the kitchen [[Fire|fire]] and turn it to charcoal has not been conceded.
 Yet I am certain that it was from persons in my position that all
 the original inspiration came for covering the ceilings of palaces
 and cathedrals with a riot of fallen angels or victorious gods.
-I am sure that it was only because Michael Angelo was engaged
+I am sure that it was only because [[Michael]] [[Angelo]] was engaged
 in the ancient and honourable occupation of lying in bed that
 he ever realized how the roof of the Sistine Chapel might be made
-into an awful imitation of a divine drama that could only be acted
+into an awful [[Imitation|imitation]] of a divine drama that could only be acted
 in the heavens.
 
 The tone now commonly taken toward the practice of lying in bed
@@ -87,13 +87,13 @@ is hypocritical and unhealthy.  Of all the marks of modernity
 that seem to mean a kind of decadence, there is none more menacing
 and dangerous than the exultation of very small and secondary
 matters of conduct at the expense of very great and primary ones,
-at the expense of eternal ties and tragic human morality.
+at the expense of eternal ties and tragic human [[morality]].
 If there is one thing worse than the modern weakening of major morals,
 it is the modern strengthening of minor morals.  Thus it is considered
 more withering to accuse a man of bad taste than of bad ethics.
 Cleanliness is not next to godliness nowadays, for cleanliness
 is made essential and godliness is regarded as an offence.
-A playwright can attack the institution of marriage so long
+A playwright can attack the institution of [[Marriage|marriage]] so long
 as he does not misrepresent the manners of society, and I have met
 Ibsenite pessimists who thought it wrong to take beer but right
 to take prussic acid.  Especially this is so in matters of hygiene;
@@ -107,14 +107,14 @@ good about it or bad about its opposite.
 . . . . .
 
 Misers get up early in the morning; and burglars, I am informed,
-get up the night before.  It is the great peril of our society
+get up the [[Night|night]] before.  It is the great peril of our society
 that all its mechanisms may grow more fixed while its spirit grows
 more fickle.  A man's minor actions and arrangements ought to
 be free, flexible, creative; the things that should be unchangeable
 are his principles, his ideals.  But with us the reverse is true;
 our views change constantly; but our lunch does not change.
 Now, I should like men to have strong and rooted conceptions,
-but as for their lunch, let them have it sometimes in the garden,
+but as for their lunch, let them have it sometimes in the [[Garden|garden]],
 sometimes in bed, sometimes on the roof, sometimes in the top
 of a tree.  Let them argue from the same first principles,
 but let them do it in a bed, or a boat, or a balloon.
@@ -123,8 +123,8 @@ on those virtues which mere custom can ensure, it means too little
 emphasis on those virtues which custom can never quite ensure,
 sudden and splendid virtues of inspired pity or of inspired candour.
 If ever that abrupt appeal is made to us we may fail.
-A man can get use to getting up at five o'clock in the morning.
-A man cannot very well get used to being burnt for his opinions;
+A man can get use to getting up at five o'[[Clock|clock]] in the morning.
+A man cannot very [[Well|well]] get used to being burnt for his opinions;
 the first experiment is commonly fatal.  Let us pay a little more
 attention to these possibilities of the heroic and unexpected.
 I dare say that when I get out of this bed I shall do some deed

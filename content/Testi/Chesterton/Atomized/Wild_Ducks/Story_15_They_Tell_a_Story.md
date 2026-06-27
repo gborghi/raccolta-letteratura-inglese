@@ -18,8 +18,8 @@ They Tell a Story
 
 
 The statement that the work of the Old Masters can be effective for
-popular education is not such a platitude as it will at first appear.
-It is both more disputable and more true than it seems.  For the truth is
+popular [[Education|education]] is not such a platitude as it will at first appear.
+It is both more disputable and more true than it seems.  For the [[Truth|truth]] is
 that the great art of the past can be used for this purpose where a great
 many other methods now generally adapted are quite clumsy and futile.
 Something of this utility is shared by the plays of Shakespeare;
@@ -27,9 +27,9 @@ and by no other agency I know except the paintings of such men as
 Titian and Leonardo.
 
 To explain this peculiar kind of public value one must understand
-one of the deepest differences, and perhaps diseases, of our time.
+one of the deepest differences, and perhaps diseases, of our [[Time|time]].
 It was the mark of the art of the past, especially the art of the
-Renaissance, that the great man was a man.  He was an extraordinary man,
+[[Renaissance]], that the great man was a man.  He was an extraordinary man,
 but only in the sense of being an ordinary man with something extra.
 Shakespeare or Rubens went with the plain man as far as the plain
 man went; they ate and drank, and desired and died as he did.
@@ -89,7 +89,7 @@ We talk somewhat lightly about 'schools' of art.  Whether or no the art
 of Raphael be better as an art it is certainly better as a school.
 Impressionism, Post-Impressionism, Post-post-Impressionism and
 the rest, are developments which may be credited or
-criticised according to every man's aesthetic philosophy.
+criticised according to every man's aesthetic [[philosophy]].
 It may be the end of art, in the sense of the object of art.
 It may be the end of art in the sense of the abolition of art.
 But anyhow it is not the beginning of art; it is not the initiation,
@@ -109,14 +109,14 @@ The first and most important question is, what story?
 Most medieval and Renaissance pictures tell the story; the story
 on which all our European civilisation is founded, and is founded
 as finally if the thing is a fairy tale or if the thing is a truth.
-The objection to pictures which `tell a story' only began in our time,
+The objection to pictures which `tell a story' only began in our [[Time|time]],
 for the very simple reason that the story was a dull story.
 I will not discuss here whether the great story of God made Man
 has been destroyed.  I will confine myself to saying that it has
 certainly not been replaced.
 
 There are other qualities in which the Old Masters are
-demagogues as well as demi-gods. I mean there are other
+demagogues as [[Well|well]] as demi-gods. I mean there are other
 elements in which they eternally appeal to a popular instinct
 which was in them and in their patrons and in their populace.
 I should select the two examples of clarity and solidity.
@@ -130,12 +130,12 @@ It will be much more credible than an impressionist portrait
 of a real person or a post-impressionist picture of a real place.
 
 I should therefore urge the re-publication of old and good pictures
-as a real part of that grossly neglected thing--public education.
+as a real part of that grossly neglected thing--public [[Education|education]].
 Our historians lie much more than our journalists;
 our fashionable conceptions of the past change with every fashion;
 and like most fashions, are fantastic and hideous.
 But the old colours and the old canvases do not lie;
-they were really achieved in the ages which we parody or pervert;
+they were really achieved in the ages which we [[Parody|parody]] or pervert;
 and the squareness of their drawing, the brightness of
 their colours, the substantial sincerity of their subject,
 will still tell us something of the fathers we have forgotten.

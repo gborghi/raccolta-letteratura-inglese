@@ -1,5 +1,5 @@
 ---
-title: "Wild Ducks — The Aesthetes in the Kitchen Garden"
+title: "Wild Ducks — The Aesthetes in the Kitchen [[Garden]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Wild-Ducks-(Chesterton)"
@@ -14,24 +14,24 @@ tags:
 </nav>
 
 
-The Aesthetes in the Kitchen Garden
+The Aesthetes in the Kitchen [[Garden]]
 
 When, a week or two ago, I came down among the hills
-of Kent, the country looked ancient and innocent enough.
-Save for birds and old men lapping hedges the visitor seemed
-to be in solitude.  But all this was a mask--a delusion.
+of [[Kent]], the country looked ancient and [[Innocent|innocent]] enough.
+Save for [[Birds|birds]] and old men lapping hedges the visitor seemed
+to be in [[Solitude|solitude]].  But all this was a mask--a delusion.
 This green England of ours is really bursting with literary men.
-Short story writers leap from behind hedges, minor poets
+[[Short Story|Short story]] writers leap from behind hedges, minor poets
 drop from the trees like ripe fruit; you cannot walk
 through deep grass without stumbling over Sociologists.
-On dark, windy nights wild voices mingle with the wind,
+On dark, windy nights wild voices mingle with the [[Wind|wind]],
 and the words 'reactionary', `superman', `the Philistines',
 and `raise the drama' echo desolately from hill to hill.
 We see the vision of Fitz-James in `The Lady of the Lake'
-which Scott describes in words (which I quote from memory):
+which Scott describes in words (which I quote from [[Memory|memory]]):
 
   At once from copse and heath arose
-  Roundels and fugues and lyric prose,
+  Roundels and fugues and [[Lyric|lyric]] prose,
   From shingles grey their nocturnes start,
   The bracken bush cries, `Art is Art',
   And every tuft of broom is rife
@@ -52,13 +52,13 @@ they dwell rather than live in it.
 Now this is very false.  Go into the country for your health;
 go into the country for your children; go into the country
 because the police are after you; go into the country because you
-like painting in water-colours, or because you like keeping chickens,
+like painting in [[Water|water]]-colours, or because you like keeping chickens,
 or because you like spearing otters, or because you want
-beauty or contentment or the continual presence of cows.
+[[Beauty|beauty]] or contentment or the continual presence of cows.
 But do not go into the country because you like liberty, for there
 is of necessity less liberty in the country than anywhere else.
 The pressure of society on the individual must be much greater
-in a village than in a city.  Public opinion must be much stronger;
+in a village than in a [[City|city]].  Public opinion must be much stronger;
 personal eccentricity much more difficult.  And if the aesthetic
 people in the flannel shirts do not feel this pressure it is
 because they are not really living in the life of the village--
@@ -66,21 +66,21 @@ that is to say, not really living in the life of the country.
 Liberty is a thing of the town; any Roman or Greek would have
 understood that.  It is in the places where men live an intense
 and complicated life that they find the necessity for liberty,
-and that which is almost the same as liberty--loneliness.  The routine
+and that which is almost the same as liberty--[[Loneliness|loneliness]].  The routine
 of rural life, happy, dignified, sensible, but not inventive,
 and not free, has been going on almost unchanged from the beginning
 of the world.
 
 Amid all these philosophers and artists who run like rabbits
-about the woods of Kent I met one who really loved the country.
+about the woods of [[Kent]] I met one who really loved the country.
 He was driving a sort of wagonette which was plastered
 all over with little bills and placards announcing that
-now for the first time people could go from Westerham
+now for the first [[Time|time]] people could go from Westerham
 or Limpsfield to various places that I have never heard
 of for some singularly small price which I did not read.
 He was trotting his coach up and down the country roads by way
 of a preliminary pageant or advertisement, giving free lifts
-to highly amused pedestrians, or proclaiming the nature and glories
+to highly amused pedestrians, or proclaiming the [[Nature|nature]] and glories
 of the route to dazed stonebreakers or wild-eyed gypsies.
 Something led me to make the acquaintance of this individual,
 and I discovered that driving a coach was by no means the first
@@ -98,28 +98,28 @@ He stretched out his whip towards it, and said in what I can
 only call an awestruck voice, `If this were all kitchen gardens!
 Then you'd have people--people--people.'  Three times he said
 the sacred word of the republic.  This article, you will perceive,
-is also written in a kitchen garden, and a witchery of onions
+is also written in a kitchen [[Garden|garden]], and a witchery of onions
 is wafted with it.
 
-While standing in this kitchen garden I perceived what many
+While standing in this kitchen [[Garden|garden]] I perceived what many
 of my readers must have perceived long ago, that of all things
-on earth the one perfectly beautiful thing is a kitchen garden.
-It has a hundred kinds of beauty richly blent into a solemn harmony.
-It has the beauty of an embroidery, for all the colours are
-quiet and yet varied infinitely.  It has the beauty of an army,
+on earth the one perfectly beautiful thing is a kitchen [[Garden|garden]].
+It has a hundred kinds of [[Beauty|beauty]] richly blent into a solemn harmony.
+It has the [[Beauty|beauty]] of an embroidery, for all the colours are
+quiet and yet varied infinitely.  It has the [[Beauty|beauty]] of an army,
 for all the vegetable regiments are set in ranks as if they
 had been drilled by God for the great battle against Nonentity.
-It has the beauty of a sepulchre, because so many of the shapes
+It has the [[Beauty|beauty]] of a sepulchre, because so many of the shapes
 and colours that are seen are but the coloured crests
 or monuments upon the more precious bodies underground.
-It has the beauty of a store-cupboard, the beauty of a fairy tale.
-Cabbages alone have all the colours of the sea.  I am forced,
+It has the [[Beauty|beauty]] of a store-cupboard, the [[Beauty|beauty]] of a fairy tale.
+Cabbages [[Alone|alone]] have all the colours of the sea.  I am forced,
 I find, to conclude these reflections for the moment.
 But I trust that before I resume my reflections on kitchen
-gardens someone will have brought out a book of amatory poems
+gardens someone will have brought out a book of amatory [[Poems|poems]]
 in which all the similes shall have been drawn from this nobler
 and more fruitful Eden.  I do not see why he should not say that
 in a lady's cheek the turnip and the carrot fought for supremacy.
 Such a description is far truer to the mellow and tawny quality in
-the human complexion than the violent similes of the rose and the lily.
+the human complexion than the violent similes of the [[Rose|rose]] and the lily.
 These latter, I may be fastidious, offend me as fantastic.

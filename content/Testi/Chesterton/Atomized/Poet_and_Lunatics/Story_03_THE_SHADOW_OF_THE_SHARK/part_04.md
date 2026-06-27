@@ -1,5 +1,5 @@
 ---
-title: "Poet and Lunatics — THE SHADOW OF THE SHARK (part 4)"
+title: "Poet and Lunatics — THE [[Shadow|SHADOW]] OF THE SHARK (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Poet-and-Lunatics-(Chesterton)"
@@ -15,17 +15,17 @@ tags:
 
 
 Gabriel Gale was scaling the splendid swell of turf that
-terminated in the great chalk cliff above the shore, in a mood
+terminated in the great [[chalk]] cliff above the shore, in a mood
 consonant to the sunrise that was storming the skies above him.
 Clouds haloed with sunshine were already sailing over his head
-as if sent flying from a flaming wheel; and when he came to the brow
+as if sent flying from a flaming [[Wheel|wheel]]; and when he came to the brow
 of the cliff he saw one of those rare revelations when the sun does
 not seem to be merely the most luminous object in a luminous landscape,
 but itself the solitary focus and streaming fountain of all light.
 The tide was at the ebb, and the sea was only a strip of
-delicate turquoise over which rose the tremendous irradiation.
+delicate turquoise over which [[Rose|rose]] the tremendous irradiation.
 Next to the strip of turquoise was a strip of orange sand,
-still wet, and nearer the sand was a desert of a more dead
+still wet, and nearer the sand was a [[Desert|desert]] of a more dead
 yellow or brown, growing paler in the increasing light.
 And as he looked down from the precipice upon that plain of
 pale gold, he saw two black objects lying in the middle of it.
@@ -34,17 +34,17 @@ beside it; the other was the flat and sprawling figure of a man.
 
 The figure did not move, but as he stared he became conscious that
 another human figure was moving, was walking over the flat sands
-towards it from under the shadow of the cliff.  Looking at it steadily,
+towards it from under the [[Shadow|shadow]] of the cliff.  Looking at it steadily,
 he saw that it was the man called Simon; and in an instant he seemed
 to realize that the motionless figure was that of Sir Owen Cram.
 He hastened to the stairway down the cliff and so to the sands;
 and soon stood face to face with Simon; for they both looked at
-each other for a moment before they both looked down at the body.
-The conviction was already cold in his heart that it was a dead body.
+each other for a moment before they both looked down at the [[Body|body]].
+The conviction was already cold in his heart that it was a dead [[Body|body]].
 Nevertheless, he said sharply:  "We must have a doctor;
 where is Dr. Wilkes?"
 
-"It is no good, I fear," said Simon, looking away at the sea.
+"It is no good, I [[Fear|fear]]," said Simon, looking away at the sea.
 
 "Wilkes may only confirm our fears that he is dead," said Gale,
 "but he may have something to say about how he died."
@@ -58,22 +58,22 @@ and the tracks of Simon's coming and going; and the third rather more
 rambling track of the unmistakable boots of the unfortunate Sir Owen,
 leading up to the spot where his easel was planted.  And that was all.
 The sand was soft, so that the lightest foot would disturb it;
-it was well above the tides; and there was not the faintest
-trace of any other human being having been near the body.
-Yet the body had a deep wound under the angle of the jaw;
-and there was no sign of any weapon of suicide.
+it was [[Well|well]] above the tides; and there was not the faintest
+trace of any other human being having been near the [[Body|body]].
+Yet the [[Body|body]] had a deep wound under the angle of the jaw;
+and there was no sign of any weapon of [[suicide]].
 
 Gabriel Gale was a believer in commonsense, in theory if not always
 in practice.  He told himself repeatedly that these things were
 the practical clues in such a case; the wound, the weapon or absence
 of weapon, the foot-prints or absence of foot-prints. But there was
 also a part of his mind which was always escaping from his control
-and playing tricks; fixing on his memory meaningless things as if
+and playing tricks; fixing on his [[Memory|memory]] meaningless things as if
 they were symbols, and then haunting him with them as mysteries.
-He made no point of it; it was rather sub-conscious than self-conscious;
+He made no point of it; it was rather sub-conscious than [[Self|self]]-conscious;
 but the parts of any living picture that he saw were seldom
 those that others saw, or that it seemed sensible to see.
-And there were one or two details in the tragedy before him
+And there were one or two details in the [[Tragedy|tragedy]] before him
 that haunted him then and long afterwards.  Cram had fallen
 backwards in a rather twisted fashion, with his feet towards
 the shore; and a few inches from the left foot lay a starfish.
@@ -94,8 +94,8 @@ he was an old friend of Gale's but the poet's greeting was rather
 _distrait._ Garth and his colleague, however, got to work on
 a preliminary examination, which made further talk needless.
 It could not be a full examination till the arrival of the police,
-but it was sufficient to extinguish any hope of life, if any such
-had lingered.  Garth, who was bent over the body in a crouching posture,
+but it was sufficient to extinguish any [[Hope|hope]] of life, if any such
+had lingered.  Garth, who was bent over the [[Body|body]] in a crouching posture,
 spoke to his fellow physician without raising his head.
 
 "There seems to be something rather odd about this wound.
@@ -108,17 +108,17 @@ Gale's sub-consciousness exploded with a strange note of harsh mockery.
 "What," he cried, "you don't think the starfish jumped up
 and killed him?"
 
-"No, of course not," said Garth, with his gruff good humour.
+"No, of course not," said Garth, with his gruff good [[Humour|humour]].
 "What on earth is the matter with you?"
 
 "Lunacy, I think," said the poet, and began to walk slowly
 towards the shore.
 
-As time went on he almost felt disposed to fancy that he had
+As [[Time|time]] went on he almost felt disposed to fancy that he had
 correctly diagnosed his own complaint.  The image began to figure
-even in his dreams, but not merely as a natural nightmare about
-the body on the sea-shore. The significant sea creature seemed
-more vivid even than the body.  As he had originally seen the corpse
+even in his [[Dreams|dreams]], but not merely as a natural [[nightmare]] about
+the [[Body|body]] on the sea-shore. The significant sea creature seemed
+more vivid even than the [[Body|body]].  As he had originally seen the corpse
 from above, spread flat out beneath him, he saw it in his visions
 as something standing, as if propped against a wall or even merely
 drawn or graven on a wall.  Sometimes the sandy ground had become

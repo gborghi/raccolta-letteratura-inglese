@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 23"
+title: "[[Great Expectations]] — Chapter 23"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -26,10 +26,10 @@ there was something comic in his distraught way, as though it would
 have been downright ludicrous but for his own perception that it was
 very near being so. When he had talked with me a little, he said to
 Mrs. Pocket, with a rather anxious contraction of his eyebrows, which
-were black and handsome, “Belinda, I hope you have welcomed Mr. Pip?”
+were black and handsome, “Belinda, I [[Hope|hope]] you have welcomed Mr. Pip?”
 And she looked up from her book, and said, “Yes.” She then smiled upon
 me in an absent state of mind, and asked me if I liked the taste of
-orange-flower water? As the question had no bearing, near or remote, on
+orange-flower [[Water|water]]? As the question had no bearing, near or remote, on
 any foregone or subsequent transaction, I consider it to have been
 thrown out, like her previous approaches, in general conversational
 condescension.
@@ -47,7 +47,7 @@ storming the English grammar at the point of the pen, in a desperate
 address engrossed on vellum, on the occasion of the laying of the first
 stone of some building or other, and for handing some Royal Personage
 either the trowel or the mortar. Be that as it may, he had directed
-Mrs. Pocket to be brought up from her cradle as one who in the nature
+Mrs. Pocket to be brought up from her cradle as one who in the [[Nature|nature]]
 of things must marry a title, and who was to be guarded from the
 acquisition of plebeian domestic knowledge.
 
@@ -57,8 +57,8 @@ perfectly helpless and useless. With her character thus happily formed,
 in the first bloom of her youth she had encountered Mr. Pocket: who was
 also in the first bloom of youth, and not quite decided whether to
 mount to the Woolsack, or to roof himself in with a mitre. As his doing
-the one or the other was a mere question of time, he and Mrs. Pocket
-had taken Time by the forelock (when, to judge from its length, it
+the one or the other was a mere question of [[Time|time]], he and Mrs. Pocket
+had taken [[Time]] by the forelock (when, to judge from its length, it
 would seem to have wanted cutting), and had married without the
 knowledge of the judicious parent. The judicious parent, having nothing
 to bestow or withhold but his blessing, had handsomely settled that
@@ -70,7 +70,7 @@ Pocket was in general the object of a queer sort of respectful pity,
 because she had not married a title; while Mr. Pocket was the object of
 a queer sort of forgiving reproach, because he had never got one.
 
-Mr. Pocket took me into the house and showed me my room: which was a
+Mr. Pocket took me into the [[house]] and showed me my room: which was a
 pleasant one, and so furnished as that I could use it with comfort for
 my own private sitting-room. He then knocked at the doors of two other
 similar rooms, and introduced me to their occupants, by name Drummle
@@ -80,19 +80,19 @@ was reading and holding his head, as if he thought himself in danger of
 exploding it with too strong a charge of knowledge.
 
 Both Mr. and Mrs. Pocket had such a noticeable air of being in somebody
-else’s hands, that I wondered who really was in possession of the house
+else’s hands, that I wondered who really was in possession of the [[house]]
 and let them live there, until I found this unknown power to be the
 servants. It was a smooth way of going on, perhaps, in respect of
 saving trouble; but it had the appearance of being expensive, for the
 servants felt it a duty they owed to themselves to be nice in their
 eating and drinking, and to keep a deal of company downstairs. They
 allowed a very liberal table to Mr. and Mrs. Pocket, yet it always
-appeared to me that by far the best part of the house to have boarded
+appeared to me that by far the best part of the [[house]] to have boarded
 in would have been the kitchen,—always supposing the boarder capable of
-self-defence, for, before I had been there a week, a neighbouring lady
+[[Self|self]]-defence, for, before I had been there a week, a neighbouring lady
 with whom the family were personally unacquainted, wrote in to say that
 she had seen Millers slapping the baby. This greatly distressed Mrs.
-Pocket, who burst into tears on receiving the note, and said that it
+Pocket, who burst into [[Tears|tears]] on receiving the note, and said that it
 was an extraordinary thing that the neighbours couldn’t mind their own
 business.
 
@@ -104,22 +104,22 @@ calling of a Grinder. After grinding a number of dull blades,—of whom
 it was remarkable that their fathers, when influential, were always
 going to help him to preferment, but always forgot to do it when the
 blades had left the Grindstone,—he had wearied of that poor work and
-had come to London. Here, after gradually failing in loftier hopes, he
+had come to [[London]]. Here, after gradually failing in loftier hopes, he
 had “read” with divers who had lacked opportunities or neglected them,
 and had refurbished divers others for special occasions, and had turned
 his acquirements to the account of literary compilation and correction,
 and on such means, added to some very moderate private resources, still
-maintained the house I saw.
+maintained the [[house]] I saw.
 
 Mr. and Mrs. Pocket had a toady neighbour; a widow lady of that highly
-sympathetic nature that she agreed with everybody, blessed everybody,
-and shed smiles and tears on everybody, according to circumstances.
-This lady’s name was Mrs. Coiler, and I had the honour of taking her
+sympathetic [[Nature|nature]] that she agreed with everybody, blessed everybody,
+and shed smiles and [[Tears|tears]] on everybody, according to circumstances.
+This lady’s name was Mrs. Coiler, and I had the [[Honour|honour]] of taking her
 down to dinner on the day of my installation. She gave me to understand
 on the stairs, that it was a blow to dear Mrs. Pocket that dear Mr.
 Pocket should be under the necessity of receiving gentlemen to read
-with him. That did not extend to me, she told me in a gush of love and
-confidence (at that time, I had known her something less than five
+with him. That did not extend to me, she told me in a gush of [[Love|love]] and
+confidence (at that [[Time|time]], I had known her something less than five
 minutes); if they were all like Me, it would be quite another thing.
 
 “But dear Mrs. Pocket,” said Mrs. Coiler, “after her early
@@ -133,30 +133,30 @@ cry.
 
 “Yes, ma’am,” I said again, with the same object as before.
 
-“—That it _is_ hard,” said Mrs. Coiler, “to have dear Mr. Pocket’s time
+“—That it _is_ hard,” said Mrs. Coiler, “to have dear Mr. Pocket’s [[Time|time]]
 and attention diverted from dear Mrs. Pocket.”
 
-I could not help thinking that it might be harder if the butcher’s time
+I could not help thinking that it might be harder if the butcher’s [[Time|time]]
 and attention were diverted from dear Mrs. Pocket; but I said nothing,
 and indeed had enough to do in keeping a bashful watch upon my company
 manners.
 
 It came to my knowledge, through what passed between Mrs. Pocket and
 Drummle while I was attentive to my knife and fork, spoon, glasses, and
-other instruments of self-destruction, that Drummle, whose Christian
+other instruments of [[Self|self]]-destruction, that Drummle, whose Christian
 name was Bentley, was actually the next heir but one to a baronetcy. It
 further appeared that the book I had seen Mrs. Pocket reading in the
-garden was all about titles, and that she knew the exact date at which
+[[Garden|garden]] was all about titles, and that she knew the exact date at which
 her grandpapa would have come into the book, if he ever had come at
 all. Drummle didn’t say much, but in his limited way (he struck me as a
 sulky kind of fellow) he spoke as one of the elect, and recognised Mrs.
 Pocket as a woman and a sister. No one but themselves and Mrs. Coiler
 the toady neighbour showed any interest in this part of the
 conversation, and it appeared to me that it was painful to Herbert; but
-it promised to last a long time, when the page came in with the
+it promised to last a long [[Time|time]], when the page came in with the
 announcement of a domestic affliction. It was, in effect, that the cook
 had mislaid the beef. To my unutterable amazement, I now, for the first
-time, saw Mr. Pocket relieve his mind by going through a performance
+[[Time|time]], saw Mr. Pocket relieve his mind by going through a performance
 that struck me as very extraordinary, but which made no impression on
 anybody else, and with which I soon became as familiar as the rest. He
 laid down the carving-knife and fork,—being engaged in carving, at the
@@ -193,7 +193,7 @@ the table; which was announced to all present by a prodigious
 concussion.
 
 “Dear, dear! Give it me back, Mum,” said Flopson; “and Miss Jane, come
-and dance to baby, do!”
+and [[Dance|dance]] to baby, do!”
 
 One of the little girls, a mere mite who seemed to have prematurely
 taken upon herself some charge of the others, stepped out of her place
@@ -204,7 +204,7 @@ and we all laughed and were glad.
 
 Flopson, by dint of doubling the baby at the joints like a Dutch doll,
 then got it safely into Mrs. Pocket’s lap, and gave it the nut-crackers
-to play with; at the same time recommending Mrs. Pocket to take notice
+to play with; at the same [[Time|time]] recommending Mrs. Pocket to take notice
 that the handles of that instrument were not likely to agree with its
 eyes, and sharply charging Miss Jane to look after the same. Then, the
 two nurses left the room, and had a lively scuffle on the staircase
@@ -218,9 +218,9 @@ baby on her lap, who did most appalling things with the nut-crackers.
 At length little Jane, perceiving its young brains to be imperilled,
 softly left her place, and with many small artifices coaxed the
 dangerous weapon away. Mrs. Pocket finishing her orange at about the
-same time, and not approving of this, said to Jane,—
+same [[Time|time]], and not approving of this, said to Jane,—
 
-“You naughty child, how dare you? Go and sit down this instant!”
+“You naughty [[Child|child]], how dare you? Go and sit down this instant!”
 
 “Mamma dear,” lisped the little girl, “baby ood have put hith eyeth
 out.”
@@ -244,10 +244,10 @@ interference.”
 save them?”
 
 “I will not be interfered with by Jane,” said Mrs. Pocket, with a
-majestic glance at that innocent little offender. “I hope I know my
+majestic glance at that [[Innocent|innocent]] little offender. “I [[Hope|hope]] I know my
 poor grandpapa’s position. Jane, indeed!”
 
-Mr. Pocket got his hands in his hair again, and this time really did
+Mr. Pocket got his hands in his hair again, and this [[Time|time]] really did
 lift himself some inches out of his chair. “Hear this!” he helplessly
 exclaimed to the elements. “Babies are to be nut-crackered dead, for
 people’s poor grandpapa’s positions!” Then he let himself down again,
@@ -263,11 +263,11 @@ any decided acquaintance.
 undutiful little thing, go and lie down. Now, baby darling, come with
 ma!”
 
-The baby was the soul of honour, and protested with all its might. It
+The baby was the [[Soul|soul]] of [[Honour|honour]], and protested with all its might. It
 doubled itself up the wrong way over Mrs. Pocket’s arm, exhibited a
 pair of knitted shoes and dimpled ankles to the company in lieu of its
 soft face, and was carried out in the highest state of mutiny. And it
-gained its point after all, for I saw it through the window within a
+gained its point after all, for I saw it through the [[Window|window]] within a
 few minutes, being nursed by little Jane.
 
 It happened that the other five children were left behind at the
@@ -277,17 +277,17 @@ mutual relations between them and Mr. Pocket, which were exemplified in
 the following manner. Mr. Pocket, with the normal perplexity of his
 face heightened and his hair rumpled, looked at them for some minutes,
 as if he couldn’t make out how they came to be boarding and lodging in
-that establishment, and why they hadn’t been billeted by Nature on
+that establishment, and why they hadn’t been billeted by [[Nature]] on
 somebody else. Then, in a distant Missionary way he asked them certain
 questions,—as why little Joe had that hole in his frill, who said, Pa,
-Flopson was going to mend it when she had time,—and how little Fanny
+Flopson was going to mend it when she had [[Time|time]],—and how little Fanny
 came by that whitlow, who said, Pa, Millers was going to poultice it
 when she didn’t forget. Then, he melted into parental tenderness, and
 gave them a shilling apiece and told them to go and play; and then as
 they went out, with one very strong effort to lift himself up by the
 hair he dismissed the hopeless subject.
 
-In the evening there was rowing on the river. As Drummle and Startop
+In the evening there was rowing on the [[River|river]]. As Drummle and Startop
 had each a boat, I resolved to set up mine, and to cut them both out. I
 was pretty good at most exercises in which country boys are adepts, but
 as I was conscious of wanting elegance of style for the Thames,—not to
@@ -295,17 +295,17 @@ say for other waters,—I at once engaged to place myself under the
 tuition of the winner of a prize-wherry who plied at our stairs, and to
 whom I was introduced by my new allies. This practical authority
 confused me very much by saying I had the arm of a blacksmith. If he
-could have known how nearly the compliment lost him his pupil, I doubt
+could have known how nearly the compliment lost him his pupil, I [[Doubt|doubt]]
 if he would have paid it.
 
-There was a supper-tray after we got home at night, and I think we
+There was a supper-tray after we got [[Home|home]] at [[Night|night]], and I think we
 should all have enjoyed ourselves, but for a rather disagreeable
 domestic occurrence. Mr. Pocket was in good spirits, when a housemaid
 came in, and said, “If you please, sir, I should wish to speak to you.”
 
 “Speak to your master?” said Mrs. Pocket, whose dignity was roused
 again. “How can you think of such a thing? Go and speak to Flopson. Or
-speak to me—at some other time.”
+speak to me—at some other [[Time|time]].”
 
 “Begging your pardon, ma’am,” returned the housemaid, “I should wish to
 speak at once, and to speak to master.”
@@ -314,7 +314,7 @@ Hereupon, Mr. Pocket went out of the room, and we made the best of
 ourselves until he came back.
 
 “This is a pretty thing, Belinda!” said Mr. Pocket, returning with a
-countenance expressive of grief and despair. “Here’s the cook lying
+countenance expressive of grief and [[Despair|despair]]. “Here’s the cook lying
 insensibly drunk on the kitchen floor, with a large bundle of fresh
 butter made up in the cupboard ready to sell for grease!”
 
@@ -335,12 +335,12 @@ mischief?”
 
 Mr. Pocket uttered a dismal groan.
 
-“Am I, grandpapa’s granddaughter, to be nothing in the house?” said
+“Am I, grandpapa’s granddaughter, to be nothing in the [[house]]?” said
 Mrs. Pocket. “Besides, the cook has always been a very nice respectful
 woman, and said in the most natural manner when she came to look after
 the situation, that she felt I was born to be a Duchess.”
 
 There was a sofa where Mr. Pocket stood, and he dropped upon it in the
 attitude of the Dying Gladiator. Still in that attitude he said, with a
-hollow voice, “Good night, Mr. Pip,” when I deemed it advisable to go
+hollow voice, “Good [[Night|night]], Mr. Pip,” when I deemed it advisable to go
 to bed and leave him.

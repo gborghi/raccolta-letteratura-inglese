@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Mask of Socialism (part 16)"
+title: "[[UtopiaUsurers]] — The Mask of Socialism (part 16)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -16,15 +16,15 @@ tags:
 
 they wear were stitched by wretched women who could hardly see; or
 
-because their boots were made by harassed helots, who never had time to
+because their boots were made by harassed helots, who never had [[Time|time]] to
 
-think. In war-time it is very widely confessed that Capitalism is not a
+think. In war-[[Time|time]] it is very widely confessed that Capitalism is not a
 
-good way of ruling a patriotic or self-respecting people, and all sorts
+good way of ruling a patriotic or [[Self|self]]-respecting people, and all sorts
 
 of other things, from strict State organisation to quite casual personal
 
-charity, are hastily substituted for it. It is recognised that the
+[[Charity|charity]], are hastily substituted for it. It is recognised that the
 
 "great employer," nine times out of ten, is no more than the schoolboy
 
@@ -62,9 +62,9 @@ produced under the equally infernal conditions of the modern factory
 
 and the urban and proletarian civilisation. That is why the victory of
 
-Germany would be simply the victory of Krupp, and the victory of Krupp
+[[Germany]] would be simply the victory of Krupp, and the victory of Krupp
 
-would be simply the victory of Capitalism. There, and there alone,
+would be simply the victory of Capitalism. There, and there [[Alone|alone]],
 
 Capitalism would be able to point to something done successfully for a
 
@@ -84,11 +84,11 @@ will be the only intelligent answer that any capitalist has yet given
 
 against our case that Capitalism is as wasteful and as weak as it is
 
-certainly wicked. I do not fear any such finality, for I happen to
+certainly wicked. I do not [[Fear|fear]] any such finality, for I happen to
 
 believe in the kind of men who fight best with bayonets and whose
 
-fathers hammered their own pikes for the French Revolution.
+fathers hammered their own pikes for the [[French Revolution]].
 
 
 
@@ -102,7 +102,7 @@ THE TOWER OF BEBEL
 
 
 
-Among the cloudy and symbolic stories in the beginning of the Bible
+Among the cloudy and symbolic stories in the beginning of the [[Bible]]
 
 there is one about a tower built with such vertical energy as to take a
 
@@ -126,7 +126,7 @@ less intelligent Professor Harnack as a final proof that all prehistoric
 
 humanity talked German. But when all was said, the symbol would remain
 
-that a plain tower, as straight as a sword, as simple as a lily, did
+that a plain tower, as straight as a [[Sword|sword]], as simple as a lily, did
 
 nevertheless produce the deepest divisions that have been known among
 
@@ -134,7 +134,7 @@ men. In any case we of the world in revolt--Syndicalists, Socialists,
 
 Guild Socialists, or whatever we call ourselves--have no need to worry
 
-about the scripture or the allegory. We have the reality. For whatever
+about the scripture or the [[Allegory|allegory]]. We have the reality. For whatever
 
 reason, what is said to have happened to the people of Shinak has
 
@@ -146,7 +146,7 @@ None of us who have known Socialists (or rather, to speak more
 
 truthfully, none of us who have been Socialists) can entertain the
 
-faintest doubt that a fine intellectual sincerity lay behind what
+faintest [[Doubt|doubt]] that a fine intellectual sincerity lay behind what
 
 was called "L'Internationale." It was really felt that Socialism was
 
@@ -178,25 +178,25 @@ nursery speech, but I am quite certain he will know more of it after
 
 this struggle than he knew before. In short, whether or no there be a
 
-new union of hearts, there has really and truly been a new division of
+new [[Union|union]] of hearts, there has really and truly been a new division of
 
 tongues.
 
 
 
-How are we to explain this singular truth, even if we deplore it? I
+How are we to explain this singular [[Truth|truth]], even if we deplore it? I
 
 dismiss with fitting disdain the notion that it is a mere result of
 
 military terrorism or snobbish social pressure. The Socialist leaders
 
-of modern Europe are among the most sincere men in history; and their
+of modern Europe are among the most sincere men in [[history]]; and their
 
 Nationalist note in this affair has had the ring of their sincerity. I
 
-will not waste time on the speculation that Vandervelde is bullied by
+will not waste [[Time|time]] on the speculation that Vandervelde is bullied by
 
-Belgian priests; or that Blatchford is frightened of the horse-guards
+Belgian priests; or that Blatchford is frightened of the [[Horse|horse]]-guards
 
 outside Whitehall. These great men support the enthusiasm of their
 
@@ -204,7 +204,7 @@ conventional countrymen because they share it; and they share it because
 
 there is (though perhaps only at certain great moments) such a thing as
 
-pure democracy.
+pure [[Democracy|democracy]].
 
 
 

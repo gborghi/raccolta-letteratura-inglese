@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 34: THIRTY FOUR (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -25,18 +25,18 @@ rooted in the British mind!’
 
 ‘Good Heaven, sir,’ cried Martin. ‘Is the Eden Land Corporation, with Mr
 Scadder at its head, and all the misery it has worked, at its door, an
-Institution of America? A part of any form of government that ever was
+Institution of [[America]]? A part of any form of [[government]] that ever was
 known or heard of?’
 
 ‘I con-sider the cause of this to be,’ said Pogram, looking round again
-and taking himself up where Martin had interrupted him, ‘partly jealousy
+and taking himself up where Martin had interrupted him, ‘partly [[Jealousy|jealousy]]
 and pre-judice, and partly the nat’ral unfitness of the British people
 to appreciate the ex-alted Institutions of our native land. I expect,
 sir,’ turning to Martin again, ‘that a gentleman named Chollop happened
 in upon you during your lo-cation in the town of Eden?’
 
 ‘Yes,’ answered Martin; ‘but my friend can answer this better than I
-can, for I was very ill at the time. Mark! The gentleman is speaking of
+can, for I was very ill at the [[Time|time]]. Mark! The gentleman is speaking of
 Mr Chollop.’
 
 ‘Oh. Yes, sir. Yes. I see him,’ observed Mark.
@@ -51,17 +51,17 @@ have said, ‘Observe this! See what follows!’ and they rendered tribute
 to the Pogram genius by a gentle murmur.
 
 ‘Our fellow-countryman is a model of a man, quite fresh from Natur’s
-mould!’ said Pogram, with enthusiasm. ‘He is a true-born child of this
-free hemisphere! Verdant as the mountains of our country; bright and
+mould!’ said Pogram, with enthusiasm. ‘He is a true-born [[Child|child]] of this
+free hemisphere! Verdant as the [[Mountains|mountains]] of our country; bright and
 flowing as our mineral Licks; unspiled by withering conventionalities
 as air our broad and boundless Perearers! Rough he may be. So air
-our Barrs. Wild he may be. So air our Buffalers. But he is a child of
-Natur’, and a child of Freedom; and his boastful answer to the Despot
-and the Tyrant is, that his bright home is in the Settin Sun.’
+our Barrs. Wild he may be. So air our Buffalers. But he is a [[Child|child]] of
+Natur’, and a [[Child|child]] of [[Freedom]]; and his boastful answer to the Despot
+and the [[Tyrant]] is, that his bright [[Home|home]] is in the Settin Sun.’
 
 Part of this referred to Chollop, and part to a Western postmaster, who,
 being a public defaulter not very long before (a character not at all
-uncommon in America), had been removed from office; and on whose behalf
+uncommon in [[America]]), had been removed from office; and on whose behalf
 Mr Pogram (he voted for Pogram) had thundered the last sentence from
 his seat in Congress, at the head of an unpopular President. It told
 brilliantly; for the bystanders were delighted, and one of them said to
@@ -73,7 +73,7 @@ Mark:
 
 ‘You do not seem to coincide, sir?’
 
-‘Why,’ said Mark, ‘I didn’t like him much; and that’s the truth, sir. I
+‘Why,’ said Mark, ‘I didn’t like him much; and that’s the [[Truth|truth]], sir. I
 thought he was a bully; and I didn’t admire his carryin’ them murderous
 little persuaders, and being so ready to use ‘em.’
 
@@ -83,8 +83,8 @@ opposition to our Institutions which pervades the British mind!’
 
 ‘What an extraordinary people you are!’ cried Martin. ‘Are Mr Chollop
 and the class he represents, an Institution here? Are pistols with
-revolving barrels, sword-sticks, bowie-knives, and such things,
-Institutions on which you pride yourselves? Are bloody duels, brutal
+revolving barrels, [[Sword|sword]]-sticks, bowie-knives, and such things,
+Institutions on which you [[Pride|pride]] yourselves? Are bloody duels, brutal
 combats, savage assaults, shooting down and stabbing in the streets,
 your Institutions! Why, I shall hear next that Dishonour and Fraud are
 among the Institutions of the great republic!’
@@ -106,23 +106,23 @@ precipitation that he forgot his umbrella was up, and fixed it so
 tightly in the cabin door that it could neither be let down nor got out.
 For a minute or so this accident created a perfect rebellion among the
 hungry passengers behind, who, seeing the dishes, and hearing the knives
-and forks at work, well knew what would happen unless they got there
+and forks at work, [[Well|well]] knew what would happen unless they got there
 instantly, and were nearly mad; while several virtuous citizens at the
 table were in deadly peril of choking themselves in their unnatural
 efforts to get rid of all the meat before these others came.
 
-They carried the umbrella by storm, however, and rushed in at the
+They carried the umbrella by [[Storm|storm]], however, and rushed in at the
 breach. The Honourable Elijah Pogram and Martin found themselves, after
 a severe struggle, side by side, as they might have come together in the
-pit of a London theatre; and for four whole minutes afterwards, Pogram
+pit of a [[London]] theatre; and for four whole minutes afterwards, Pogram
 was snapping up great blocks of everything he could get hold of, like a
 raven. When he had taken this unusually protracted dinner, he began
 to talk to Martin; and begged him not to have the least delicacy in
-speaking with perfect freedom to him, for he was a calm philosopher.
+speaking with perfect [[Freedom|freedom]] to him, for he was a calm philosopher.
 Which Martin was extremely glad to hear; for he had begun to speculate
 on Elijah being a disciple of that other school of republican
-philosophy, whose noble sentiments are carved with knives upon a pupil’s
-body, and written, not with pen and ink, but tar and feathers.
+[[philosophy]], whose noble sentiments are carved with knives upon a pupil’s
+[[Body|body]], and written, not with pen and ink, but tar and feathers.
 
 ‘What do you think of my countrymen who are present, sir?’ inquired
 Elijah Pogram.

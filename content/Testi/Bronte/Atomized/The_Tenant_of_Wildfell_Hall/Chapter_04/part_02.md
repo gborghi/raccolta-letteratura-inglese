@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 4 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 4 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -16,9 +16,9 @@ tags:
 
 all he had ever known, I (judging by the results) was the companion
 
-most agreeable to his taste. I liked the man well enough, but he was
+most agreeable to his taste. I liked the man [[Well|well]] enough, but he was
 
-too cold, and shy, and self-contained, to obtain my cordial sympathies.
+too cold, and shy, and [[Self|self]]-contained, to obtain my cordial sympathies.
 
 A spirit of candour and frankness, when wholly unaccompanied with
 
@@ -28,7 +28,7 @@ His excessive reserve upon all his own concerns was, indeed, provoking
 
 and chilly enough; but I forgave it, from a conviction that it
 
-originated less in pride and want of confidence in his friends, than in
+originated less in [[Pride|pride]] and want of confidence in his friends, than in
 
 a certain morbid feeling of delicacy, and a peculiar diffidence, that
 
@@ -38,23 +38,23 @@ sensitive plant, that opens for a moment in the sunshine, but curls up
 
 and shrinks into itself at the slightest touch of the finger, or the
 
-lightest breath of wind. And, upon the whole, our intimacy was rather a
+lightest breath of [[Wind|wind]]. And, upon the whole, our intimacy was rather a
 
-mutual predilection than a deep and solid friendship, such as has since
+mutual predilection than a deep and solid [[Friendship|friendship]], such as has since
 
 arisen between myself and you, Halford, whom, in spite of your
 
-occasional crustiness, I can liken to nothing so well as an old coat,
+occasional crustiness, I can liken to nothing so [[Well|well]] as an old coat,
 
 unimpeachable in texture, but easy and loose—that has conformed itself
 
 to the shape of the wearer, and which he may use as he pleases, without
 
-being bothered with the fear of spoiling it;—whereas Mr. Lawrence was
+being bothered with the [[Fear|fear]] of spoiling it;—whereas Mr. Lawrence was
 
 like a new garment, all very neat and trim to look at, but so tight in
 
-the elbows, that you would fear to split the seams by the unrestricted
+the elbows, that you would [[Fear|fear]] to split the seams by the unrestricted
 
 motion of your arms, and so smooth and fine in surface that you scruple
 
@@ -72,7 +72,7 @@ return their calls, hoping they would excuse her, as she was sure she
 
 did not mean to be uncivil, and would be glad to see them at any
 
-time.—“But she is a very singular lady, Mr. Lawrence,” added she; “we
+[[Time|time]].—“But she is a very singular lady, Mr. Lawrence,” added she; “we
 
 don’t know what to make of her—but I daresay you can tell us something
 
@@ -96,9 +96,9 @@ information respecting Mrs. Graham.”
 
 
 
-He then immediately turned to Rose, and asked her to favour the company
+He then immediately turned to [[Rose]], and asked her to favour the company
 
-with a song, or a tune on the piano.
+with a [[Song|song]], or a tune on the piano.
 
 
 
@@ -114,7 +114,7 @@ Miss Wilson demurred.
 
 “_She’ll_ sing readily enough,” said Fergus, “if you’ll undertake to
 
-stand by her, Mr. Lawrence, and turn over the leaves for her.”
+stand by her, Mr. Lawrence, and turn over the [[Leaves|leaves]] for her.”
 
 
 
@@ -128,7 +128,7 @@ the instrument, where she played and sang, in her very best style, one
 
 piece after another; while he stood patiently by, leaning one hand on
 
-the back of her chair, and turning over the leaves of her book with the
+the back of her chair, and turning over the [[Leaves|leaves]] of her book with the
 
 other. Perhaps he was as much charmed with her performance as she was.
 
@@ -146,9 +146,9 @@ But we had not done with Mrs. Graham yet.
 
 “I don’t take wine, Mrs. Markham,” said Mr. Millward, upon the
 
-introduction of that beverage; “I’ll take a little of your home-brewed
+introduction of that beverage; “I’ll take a little of your [[Home|home]]-brewed
 
-ale. I always prefer your home-brewed to anything else.”
+ale. I always prefer your [[Home|home]]-brewed to anything else.”
 
 
 
@@ -156,7 +156,7 @@ Flattered at this compliment, my mother rang the bell, and a china jug
 
 of our best ale was presently brought and set before the worthy
 
-gentleman who so well knew how to appreciate its excellences.
+gentleman who so [[Well|well]] knew how to appreciate its excellences.
 
 
 
@@ -176,13 +176,13 @@ on with the greatest satisfaction.
 
 “There’s nothing like this, Mrs. Markham!” said he. “I always maintain
 
-that there’s nothing to compare with your home-brewed ale.”
+that there’s nothing to compare with your [[Home|home]]-brewed ale.”
 
 
 
 “I’m sure I’m glad you like it, sir. I always look after the brewing
 
-myself, as well as the cheese and the butter—I like to have things well
+myself, as [[Well|well]] as the [[cheese]] and the butter—I like to have things [[Well|well]]
 
 done, while we’re about it.”
 
@@ -196,7 +196,7 @@ done, while we’re about it.”
 
 wine now and then—or a little spirits either!” said my mother, as she
 
-handed a smoking tumbler of gin-and-water to Mrs. Wilson, who affirmed
+handed a smoking tumbler of gin-and-[[Water|water]] to Mrs. Wilson, who affirmed
 
 that wine sat heavy on her stomach, and whose son Robert was at that
 
@@ -228,9 +228,9 @@ concluding with, “Now, don’t you think it is wrong?”
 
 “Wrong!” repeated the vicar, with more than common solemnity—“criminal,
 
-I should say—criminal! Not only is it making a fool of the boy, but it
+I should say—criminal! Not only is it making a [[Fool|fool]] of the boy, but it
 
-is despising the gifts of Providence, and teaching him to trample them
+is despising the gifts of [[Providence]], and teaching him to trample them
 
 under his feet.”
 
@@ -242,8 +242,8 @@ the folly and impiety of such a proceeding. My mother heard him with
 
 profoundest reverence; and even Mrs. Wilson vouchsafed to rest her
 
-tongue for a moment, and listen in silence, while she complacently
+tongue for a moment, and listen in [[Silence|silence]], while she complacently
 
-sipped her gin-and-water. Mr. Lawrence sat with his elbow on the table,
+sipped her gin-and-[[Water|water]]. Mr. Lawrence sat with his elbow on the table,
 
 carelessly playing with his half-empty wine-glass, and covertly smiling

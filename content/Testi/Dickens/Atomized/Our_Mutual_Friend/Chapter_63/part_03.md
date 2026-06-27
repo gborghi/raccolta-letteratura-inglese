@@ -17,22 +17,22 @@ tags:
 It was a pleasant sight, in the midst of the golden bloom, to see this
 salt old Gruff and Glum, waving his shovel hat at Bella, while his thin
 white hair flowed free, as if she had once more launched him into blue
-water again. ‘You are a charming old pensioner,’ said Bella, ‘and I am
+[[Water|water]] again. ‘You are a charming old pensioner,’ said Bella, ‘and I am
 so happy that I wish I could make you happy, too.’ Answered Gruff and
 Glum, ‘Give me leave to kiss your hand, my Lovely, and it’s done!’ So it
 was done to the general contentment; and if Gruff and Glum didn’t in the
 course of the afternoon splice the main brace, it was not for want of
 the means of inflicting that outrage on the feelings of the Infant Bands
-of Hope.
+of [[Hope]].
 
-But, the marriage dinner was the crowning success, for what had bride
+But, the [[Marriage|marriage]] dinner was the crowning [[success]], for what had bride
 and bridegroom plotted to do, but to have and to hold that dinner in the
 very room of the very hotel where Pa and the lovely woman had once dined
 together! Bella sat between Pa and John, and divided her attentions
 pretty equally, but felt it necessary (in the waiter’s absence before
 dinner) to remind Pa that she was HIS lovely woman no longer.
 
-‘I am well aware of it, my dear,’ returned the cherub, ‘and I resign you
+‘I am [[Well|well]] aware of it, my dear,’ returned the cherub, ‘and I resign you
 willingly.’
 
 ‘Willingly, sir? You ought to be brokenhearted.’
@@ -65,28 +65,28 @@ frying-pan, were not to be recognized, it was only because they had all
 become of one hue by being cooked in batter among the whitebait. And the
 dishes being seasoned with Bliss—an article which they are sometimes
 out of, at Greenwich—were of perfect flavour, and the golden drinks
-had been bottled in the golden age and hoarding up their sparkles ever
+had been bottled in the [[Golden Age|golden age]] and hoarding up their sparkles ever
 since.
 
 The best of it was, that Bella and John and the cherub had made a
 covenant that they would not reveal to mortal eyes any appearance
 whatever of being a wedding party. Now, the supervising dignitary, the
-Archbishop of Greenwich, knew this as well as if he had performed the
+Archbishop of Greenwich, knew this as [[Well|well]] as if he had performed the
 nuptial ceremony. And the loftiness with which his Grace entered into
 their confidence without being invited, and insisted on a show
 of keeping the waiters out of it, was the crowning glory of the
 entertainment.
 
-There was an innocent young waiter of a slender form and with weakish
+There was an [[Innocent|innocent]] young waiter of a slender form and with weakish
 legs, as yet unversed in the wiles of waiterhood, and but too evidently
 of a romantic temperament, and deeply (it were not too much to add
-hopelessly) in love with some young female not aware of his merit.
+hopelessly) in [[Love|love]] with some young female not aware of his merit.
 This guileless youth, descrying the position of affairs, which even
-his innocence could not mistake, limited his waiting to languishing
+his [[innocence]] could not mistake, limited his waiting to languishing
 admiringly against the sideboard when Bella didn’t want anything, and
 swooping at her when she did. Him, his Grace the Archbishop perpetually
-obstructed, cutting him out with his elbow in the moment of success,
-despatching him in degrading quest of melted butter, and, when by any
+obstructed, cutting him out with his elbow in the moment of [[success]],
+despatching him in degrading [[Quest|quest]] of melted butter, and, when by any
 chance he got hold of any dish worth having, bereaving him of it, and
 ordering him to stand back.
 
@@ -94,7 +94,7 @@ ordering him to stand back.
 ‘he is a very young man on liking, and we DON’T like him.’
 
 This induced John Rokesmith to observe—by way of making the thing more
-natural—‘Bella, my love, this is so much more successful than any
+natural—‘Bella, my [[Love|love]], this is so much more successful than any
 of our past anniversaries, that I think we must keep our future
 anniversaries here.’
 
@@ -115,7 +115,7 @@ approached undetected with the same in a finger-glass, and placed it on
 Bella’s right hand. The Archbishop instantly ejected and excommunicated
 him; but the thing was done.
 
-‘I trust, madam,’ said his Grace, returning alone, ‘that you will have
+‘I trust, madam,’ said his Grace, returning [[Alone|alone]], ‘that you will have
 the kindness to overlook it, in consideration of its being the act of a
 very young man who is merely here on liking, and who will never answer.’
 

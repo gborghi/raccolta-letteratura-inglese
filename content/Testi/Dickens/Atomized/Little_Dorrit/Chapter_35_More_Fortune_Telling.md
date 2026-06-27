@@ -19,28 +19,28 @@ CHAPTER 32. More Fortune-Telling
 
 Maggy sat at her work in her great white cap with its quantity of opaque
 frilling hiding what profile she had (she had none to spare), and her
-serviceable eye brought to bear upon her occupation, on the window side
+serviceable eye brought to bear upon her occupation, on the [[Window|window]] side
 of the room. What with her flapping cap, and what with her unserviceable
 eye, she was quite partitioned off from her Little Mother, whose seat
-was opposite the window. The tread and shuffle of feet on the pavement
+was opposite the [[Window|window]]. The tread and shuffle of feet on the pavement
 of the yard had much diminished since the taking of the Chair, the tide
 of Collegians having set strongly in the direction of Harmony. Some few
 who had no music in their souls, or no money in their pockets, dawdled
 about; and the old spectacle of the visitor-wife and the depressed
 unseasoned prisoner still lingered in corners, as broken cobwebs and
 such unsightly discomforts draggle in corners of other places. It was
-the quietest time the College knew, saving the night hours when the
-Collegians took the benefit of the act of sleep. The occasional rattle
+the quietest [[Time|time]] the College knew, saving the [[Night|night]] hours when the
+Collegians took the benefit of the act of [[Sleep|sleep]]. The occasional rattle
 of applause upon the tables of the Snuggery, denoted the successful
 termination of a morsel of Harmony; or the responsive acceptance, by
 the united children, of some toast or sentiment offered to them by their
 Father. Occasionally, a vocal strain more sonorous than the generality
-informed the listener that some boastful bass was in blue water, or in
+informed the listener that some boastful bass was in blue [[Water|water]], or in
 the hunting field, or with the reindeer, or on the mountain, or among
 the heather; but the Marshal of the Marshalsea knew better, and had got
 him hard and fast.
 
-As Arthur Clennam moved to sit down by the side of Little Dorrit, she
+As [[Arthur Clennam]] moved to sit down by the side of Little Dorrit, she
 trembled so that she had much ado to hold her needle. Clennam gently
 put his hand upon her work, and said, ‘Dear Little Dorrit, let me lay it
 down.’
@@ -63,7 +63,7 @@ He saw her trembling little form and her downcast face, and the eyes
 that drooped the moment they were raised to his--he saw them almost with
 as much concern as tenderness.
 
-‘My child, your manner is so changed!’
+‘My [[Child|child]], your manner is so changed!’
 
 The trembling was now quite beyond her control. Softly withdrawing her
 hand, and laying it in her other hand, she sat before him with her head
@@ -71,23 +71,23 @@ bent and her whole form trembling.
 
 ‘My own Little Dorrit,’ said Clennam, compassionately.
 
-She burst into tears. Maggy looked round of a sudden, and stared for at
+She burst into [[Tears|tears]]. Maggy looked round of a sudden, and stared for at
 least a minute; but did not interpose. Clennam waited some little while
 before he spoke again.
 
-‘I cannot bear,’ he said then, ‘to see you weep; but I hope this is a
+‘I cannot bear,’ he said then, ‘to see you weep; but I [[Hope|hope]] this is a
 relief to an overcharged heart.’
 
 ‘Yes it is, sir. Nothing but that.’
 
-‘Well, well! I feared you would think too much of what passed here just
+‘[[Well]], [[Well|well]]! I feared you would think too much of what passed here just
 now. It is of no moment; not the least. I am only unfortunate to have
-come in the way. Let it go by with these tears. It is not worth one of
+come in the way. Let it go by with these [[Tears|tears]]. It is not worth one of
 them. One of them? Such an idle thing should be repeated, with my glad
 consent, fifty times a day, to save you a moment’s heart-ache, Little
 Dorrit.’
 
-She had taken courage now, and answered, far more in her usual manner,
+She had taken [[Courage|courage]] now, and answered, far more in her usual manner,
 ‘You are so good! But even if there was nothing else in it to be sorry
 for and ashamed of, it is such a bad return to you--’
 
@@ -111,8 +111,8 @@ ill, Mr Clennam?’
 It fell to Clennam now, to be not quite certain how to answer. He said
 in reply:
 
-‘To speak the truth, I have been a little troubled, but it is over.
-Do I show it so plainly? I ought to have more fortitude and self-command
+‘To speak the [[Truth|truth]], I have been a little troubled, but it is over.
+Do I show it so plainly? I ought to have more fortitude and [[Self|self]]-command
 than that. I thought I had. I must learn them of you. Who could teach me
 better!’
 
@@ -124,32 +124,32 @@ looked upon him with the same light and strength as hers.
 therefore I will not quarrel even with my own face for telling tales
 and being unfaithful to me. Besides, it is a privilege and pleasure to
 confide in my Little Dorrit. Let me confess then, that, forgetting how
-grave I was, and how old I was, and how the time for such things had
+[[Grave|grave]] I was, and how old I was, and how the [[Time|time]] for such things had
 gone by me with the many years of sameness and little happiness that
 made up my long life far away, without marking it--that, forgetting all
 this, I fancied I loved some one.’
 
 ‘Do I know her, sir?’ asked Little Dorrit.
 
-‘No, my child.’
+‘No, my [[Child|child]].’
 
 ‘Not the lady who has been kind to me for your sake?’
 
 ‘Flora. No, no. Do you think--’
 
 ‘I never quite thought so,’ said Little Dorrit, more to herself than
-him. ‘I did wonder at it a little.’
+him. ‘I did [[Wonder|wonder]] at it a little.’
 
-‘Well!’ said Clennam, abiding by the feeling that had fallen on him in
-the avenue on the night of the roses, the feeling that he was an
+‘[[Well]]!’ said Clennam, abiding by the feeling that had fallen on him in
+the avenue on the [[Night|night]] of the roses, the feeling that he was an
 older man, who had done with that tender part of life, ‘I found out my
 mistake, and I thought about it a little--in short, a good deal--and got
 wiser. Being wiser, I counted up my years and considered what I am, and
 looked back, and looked forward, and found that I should soon be grey. I
-found that I had climbed the hill, and passed the level ground upon the
+found that I had climbed the [[Hill|hill]], and passed the level ground upon the
 top, and was descending quickly.’
 
-If he had known the sharpness of the pain he caused the patient heart,
+If he had known the sharpness of the [[Pain|pain]] he caused the patient heart,
 in speaking thus! While doing it, too, with the purpose of easing and
 serving her.
 
@@ -162,21 +162,21 @@ his hand, and the cruel wounds it struck in the faithful bleeding breast
 of his Little Dorrit!
 
 ‘All that is over, and I have turned my face from it. Why do I speak of
-this to Little Dorrit? Why do I show you, my child, the space of years
+this to Little Dorrit? Why do I show you, my [[Child|child]], the space of years
 that there is between us, and recall to you that I have passed, by the
-amount of your whole life, the time that is present to you?’
+amount of your whole life, the [[Time|time]] that is present to you?’
 
-‘Because you trust me, I hope. Because you know that nothing can touch
+‘Because you trust me, I [[Hope|hope]]. Because you know that nothing can touch
 you without touching me; that nothing can make you happy or unhappy, but
 it must make me, who am so grateful to you, the same.’
 
 He heard the thrill in her voice, he saw her earnest face, he saw her
 clear true eyes, he saw the quickened bosom that would have joyfully
 thrown itself before him to receive a mortal wound directed at his
-breast, with the dying cry, ‘I love him!’ and the remotest suspicion
-of the truth never dawned upon his mind. No. He saw the devoted little
-creature with her worn shoes, in her common dress, in her jail-home; a
-slender child in body, a strong heroine in soul; and the light of her
+breast, with the dying cry, ‘I [[Love|love]] him!’ and the remotest suspicion
+of the [[Truth|truth]] never dawned upon his mind. No. He saw the devoted little
+creature with her worn shoes, in her common dress, in her jail-[[Home|home]]; a
+slender [[Child|child]] in [[Body|body]], a strong heroine in [[Soul|soul]]; and the light of her
 domestic story made all else dark to him.
 
 ‘For those reasons assuredly, Little Dorrit, but for another too. So
@@ -189,14 +189,14 @@ before me. Why have you kept so retired from me? Tell me.’
 said Little Dorrit, faintly.
 
 ‘So you said that day upon the bridge. I thought of it much afterwards.
-Have you no secret you could entrust to me, with hope and comfort, if
+Have you no secret you could entrust to me, with [[Hope|hope]] and comfort, if
 you would!’
 
 ‘Secret? No, I have no secret,’ said Little Dorrit in some trouble.
 
 They had been speaking in low voices; more because it was natural to
 what they said to adopt that tone, than with any care to reserve it from
-Maggy at her work. All of a sudden Maggy stared again, and this time
+Maggy at her work. All of a sudden Maggy stared again, and this [[Time|time]]
 spoke:
 
 ‘I say! Little Mother!’
@@ -217,14 +217,14 @@ never said so.’
 
 ‘No, I didn’t. How could I, when it was her as wanted to find it out? It
 was the little woman as had the secret, and she was always a spinning at
-her wheel. And so she says to her, why do you keep it there? And so the
+her [[Wheel|wheel]]. And so she says to her, why do you keep it there? And so the
 t’other one says to her, no I don’t; and so the t’other one says to her,
 yes you do; and then they both goes to the cupboard, and there it is.
 And she wouldn’t go into the Hospital, and so she died. _You_ know, Little
 Mother; tell him that. For it was a reg’lar good secret, that was!’ cried
 Maggy, hugging herself.
 
-Arthur looked at Little Dorrit for help to comprehend this, and was
+[[arthur|Arthur]] looked at Little Dorrit for help to comprehend this, and was
 struck by seeing her so timid and red. But, when she told him that it
 was only a Fairy Tale she had one day made up for Maggy, and that there
 was nothing in it which she wouldn’t be ashamed to tell again to anybody
@@ -233,7 +233,7 @@ else, even if she could remember it, he left the subject where it was.
 However, he returned to his own subject by first entreating her to see
 him oftener, and to remember that it was impossible to have a stronger
 interest in her welfare than he had, or to be more set upon promoting it
-than he was. When she answered fervently, she well knew that, she never
+than he was. When she answered fervently, she [[Well|well]] knew that, she never
 forgot it, he touched upon his second and more delicate point--the
 suspicion he had formed.
 
@@ -247,7 +247,7 @@ that nothing to the last will ever tempt you away from the duties you
 discharge here. If I were not sure of it, I should, before now, have
 implored you, and implored your father, to let me make some provision
 for you in a more suitable place. But you may have an interest--I will
-not say, now, though even that might be--may have, at another time,
+not say, now, though even that might be--may have, at another [[Time|time]],
 an interest in some one else; an interest not incompatible with your
 affection here.’
 
@@ -257,12 +257,12 @@ She was very, very pale, and silently shook her head.
 
 ‘No. No. No.’ She shook her head, after each slow repetition of
 the word, with an air of quiet desolation that he remembered long
-afterwards. The time came when he remembered it well, long afterwards,
-within those prison walls; within that very room.
+afterwards. The [[Time|time]] came when he remembered it [[Well|well]], long afterwards,
+within those [[Prison|prison]] walls; within that very room.
 
-‘But, if it ever should be, tell me so, my dear child. Entrust the truth
+‘But, if it ever should be, tell me so, my dear [[Child|child]]. Entrust the [[Truth|truth]]
 to me, point out the object of such an interest to me, and I will try
-with all the zeal, and honour, and friendship and respect that I feel
+with all the zeal, and [[Honour|honour]], and [[Friendship|friendship]] and respect that I feel
 for you, good Little Dorrit of my heart, to do you a lasting service.’
 
 ‘O thank you, thank you! But, O no, O no, O no!’ She said this, looking
@@ -283,8 +283,8 @@ anxiety, concealed from me?’
 
 She shook her head. But she was very pale.
 
-‘When I lie down to-night, and my thoughts come back--as they will, for
-they do every night, even when I have not seen you--to this sad place, I
+‘When I lie down to-[[Night|night]], and my thoughts come back--as they will, for
+they do every [[Night|night]], even when I have not seen you--to this sad place, I
 may believe that there is no grief beyond this room, now, and its usual
 occupants, which preys on Little Dorrit’s mind?’
 
@@ -299,7 +299,7 @@ which it did very rapidly, it laboured with increased energy; and,
 after knocking at the door, it sounded as if it were stooping down and
 snorting in at the keyhole.
 
-Before Maggy could open the door, Mr Pancks, opening it from without,
+Before Maggy could open the door, [[Mr Pancks]], opening it from without,
 stood without a hat and with his bare head in the wildest condition,
 looking at Clennam and Little Dorrit, over her shoulder. He had a
 lighted cigar in his hand, and brought with him airs of ale and tobacco
@@ -310,7 +310,7 @@ smoke.
 He stood dingily smiling, and breathing hard at them, with a most
 curious air; as if, instead of being his proprietor’s grubber, he were
 the triumphant proprietor of the Marshalsea, the Marshal, all the
-turnkeys, and all the Collegians. In his great self-satisfaction he put
+turnkeys, and all the Collegians. In his great [[Self|self]]-satisfaction he put
 his cigar to his lips (being evidently no smoker), and took such a pull
 at it, with his right eye shut up tight for the purpose, that he
 underwent a convulsion of shuddering and choking. But even in the midst
@@ -375,7 +375,7 @@ looks between the two.
 property, that’s the fact. I can afford to be liberal. I think I’ll give
 ‘em a treat here. Tables laid in the yard. Bread in stacks. Pipes in
 faggots. Tobacco in hayloads. Roast beef and plum-pudding for every one.
-Quart of double stout a head. Pint of wine too, if they like it, and the
+Quart of [[Double|double]] stout a head. Pint of wine too, if they like it, and the
 authorities give permission.--Eh, Miss Dorrit?’
 
 She was thrown into such a confusion by his manner, or rather by
@@ -396,14 +396,14 @@ wonderful mystery.
 ‘But I shall be missed;’ he came back to that; ‘and I don’t want ‘em to
 miss me. Mr Clennam, you and I made a bargain. I said you should find me
 stick to it. You shall find me stick to it now, sir, if you’ll step out
-of the room a moment. Miss Dorrit, I wish you good night. Miss Dorrit, I
+of the room a moment. Miss Dorrit, I wish you good [[Night|night]]. Miss Dorrit, I
 wish you good fortune.’
 
-He rapidly shook her by both hands, and puffed down stairs. Arthur
+He rapidly shook her by both hands, and puffed down stairs. [[arthur|Arthur]]
 followed him with such a hurried step, that he had very nearly tumbled
 over him on the last landing, and rolled him down into the yard.
 
-‘What is it, for Heaven’s sake!’ Arthur demanded, when they burst out
+‘What is it, for Heaven’s sake!’ [[arthur|Arthur]] demanded, when they burst out
 there both together.
 
 ‘Stop a moment, sir. Mr Rugg. Let me introduce him.’
@@ -412,23 +412,23 @@ With those words he presented another man without a hat, and also with a
 cigar, and also surrounded with a halo of ale and tobacco smoke, which
 man, though not so excited as himself, was in a state which would have
 been akin to lunacy but for its fading into sober method when compared
-with the rampancy of Mr Pancks.
+with the rampancy of [[Mr Pancks]].
 
 ‘Mr Clennam, Mr Rugg,’ said Pancks. ‘Stop a moment. Come to the pump.’
 
-They adjourned to the pump. Mr Pancks, instantly putting his head under
+They adjourned to the pump. [[Mr Pancks]], instantly putting his head under
 the spout, requested Mr Rugg to take a good strong turn at the handle.
-Mr Rugg complying to the letter, Mr Pancks came forth snorting and
+Mr Rugg complying to the letter, [[Mr Pancks]] came forth snorting and
 blowing to some purpose, and dried himself on his handkerchief.
 
 ‘I am the clearer for that,’ he gasped to Clennam standing astonished.
-‘But upon my soul, to hear her father making speeches in that chair,
+‘But upon my [[Soul|soul]], to hear her father making speeches in that chair,
 knowing what we know, and to see her up in that room in that dress,
 knowing what we know, is enough to--give me a back, Mr Rugg--a little
 higher, sir,--that’ll do!’
 
 Then and there, on that Marshalsea pavement, in the shades of evening,
-did Mr Pancks, of all mankind, fly over the head and shoulders of Mr
+did [[Mr Pancks]], of all mankind, fly over the head and shoulders of Mr
 Rugg of Pentonville, General Agent, Accountant, and Recoverer of Debts.
 Alighting on his feet, he took Clennam by the button-hole, led him
 behind the pump, and pantingly produced from his pocket a bundle of
@@ -438,7 +438,7 @@ Mr Rugg, also, pantingly produced from his pocket a bundle of papers.
 
 ‘Stay!’ said Clennam in a whisper.’You have made a discovery.’
 
-Mr Pancks answered, with an unction which there is no language to
+[[Mr Pancks]] answered, with an unction which there is no language to
 convey, ‘We rather think so.’
 
 ‘Does it implicate any one?’
@@ -456,7 +456,7 @@ and speaking in short high-pressure blasts of sentences, ‘Where’s the
 Pedigree? Where’s Schedule number four, Mr Rugg? Oh! all right! Here we
 are.--You are to understand that we are this very day virtually
 complete. We shan’t be legally for a day or two. Call it at the outside
-a week. We’ve been at it night and day for I don’t know how long. Mr
+a week. We’ve been at it [[Night|night]] and day for I don’t know how long. Mr
 Rugg, you know how long? Never mind. Don’t say. You’ll only confuse me.
 You shall tell her, Mr Clennam. Not till we give you leave. Where’s that
 rough total, Mr Rugg? Oh! Here we are! There sir! That’s what you’ll

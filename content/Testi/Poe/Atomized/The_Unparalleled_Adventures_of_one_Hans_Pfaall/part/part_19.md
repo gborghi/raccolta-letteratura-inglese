@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 19)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 19)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -44,7 +44,7 @@ tags:
 
       terrible impetuosity. I lost not a moment, accordingly, in
 
-      throwing overboard first my ballast, then my water-kegs, then my
+      throwing overboard first my ballast, then my [[Water|water]]-kegs, then my
 
       condensing apparatus and gum-elastic chamber, and finally every
 
@@ -58,7 +58,7 @@ tags:
 
       car itself, which was of no inconsiderable weight, and thus,
 
-      clinging with both hands to the net-work, I had barely time to
+      clinging with both hands to the net-work, I had barely [[Time|time]] to
 
       observe that the whole country, as far as the eye could reach,
 
@@ -66,7 +66,7 @@ tags:
 
       tumbled headlong into the very heart of a fantastical-looking
 
-      city, and into the middle of a vast crowd of ugly little people,
+      [[City|city]], and into the middle of a vast crowd of ugly little people,
 
       who none of them uttered a single syllable, or gave themselves
 
@@ -84,7 +84,7 @@ tags:
 
       heavens overhead, and tipped on one of its edges with a crescent
 
-      border of the most brilliant gold. No traces of land or water
+      border of the most brilliant gold. No traces of land or [[Water|water]]
 
       could be discovered, and the whole was clouded with variable
 
@@ -106,7 +106,7 @@ tags:
 
       adventures yet remain to be related. And indeed your Excellencies
 
-      may well imagine that, after a residence of five years upon a
+      may [[Well|well]] imagine that, after a residence of five years upon a
 
       planet not only deeply interesting in its own peculiar character,
 
@@ -134,7 +134,7 @@ tags:
 
       the point beneath the sun to the point the farthest from it; of a
 
-      variable zone of running water; of the people themselves; of
+      variable zone of running [[Water|water]]; of the people themselves; of
 
       their manners, customs, and political institutions; of their
 
@@ -148,7 +148,7 @@ tags:
 
       inter-communication; of the incomprehensible connection between
 
-      each particular individual in the moon with some particular
+      each particular individual in the [[Moon|moon]] with some particular
 
       individual on the earth—a connection analogous with, and
 
@@ -162,13 +162,13 @@ tags:
 
       so please your Excellencies—above all, of those dark and hideous
 
-      mysteries which lie in the outer regions of the moon—regions
+      mysteries which lie in the outer regions of the [[Moon|moon]]—regions
 
       which, owing to the almost miraculous accordance of the
 
       satellite’s rotation on its own axis with its sidereal revolution
 
-      about the earth, have never yet been turned, and, by God’s mercy,
+      about the earth, have never yet been turned, and, by God’s [[Mercy|mercy]],
 
       never shall be turned, to the scrutiny of the telescopes of man.
 
@@ -176,7 +176,7 @@ tags:
 
       to be brief, I must have my reward. I am pining for a return to
 
-      my family and to my home; and as the price of any farther
+      my family and to my [[Home|home]]; and as the price of any farther
 
       communication on my part—in consideration of the light which I
 
@@ -184,8 +184,8 @@ tags:
 
       physical and metaphysical science—I must solicit, through the
 
-      influence of your honorable body, a pardon for the crime of which
+      influence of your honorable [[Body|body]], a pardon for the crime of which
 
-      I have been guilty in the death of the creditors upon my
+      I have been guilty in the [[Death|death]] of the creditors upon my
 
       departure from Rotterdam. This, then, is the object of the

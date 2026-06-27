@@ -1,5 +1,5 @@
 ---
-title: "Maelzel's Chess-Player (part 10)"
+title: "[[Maelzel's Chess-Player]] (part 10)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Maelzel's-Chess-Player-(Poe)"
@@ -70,7 +70,7 @@ tags:
 
       This Italian professed a _total _ignorance of the game of chess,
 
-      although all others of the suite played well. Similar
+      although all others of the suite played [[Well|well]]. Similar
 
       observations have been made since the Automaton has been
 
@@ -92,13 +92,13 @@ tags:
 
       exhibition. Moreover, some years ago Maelzel visited Richmond
 
-      with his automata, and exhibited them, we believe, in the house
+      with his automata, and exhibited them, we believe, in the [[house]]
 
       now occupied by M. Bossieux as a Dancing Academy. _Schlumberg_er
 
       was suddenly taken ill, and during his illness there was no
 
-      exhibition of the Chess-Player. These facts are well known to
+      exhibition of the Chess-Player. These facts are [[Well|well]] known to
 
       many of our citizens. The reason assigned for the suspension of
 
@@ -128,13 +128,13 @@ tags:
 
       this that deductions are to be made (if made at all) which shall
 
-      lead us to the truth.
+      lead us to the [[Truth|truth]].
 
 
 
       The circumstance of the Automaton’s playing with his left hand
 
-      cannot have connexion with the operations of the machine,
+      cannot have connexion with the operations of the [[Machine|machine]],
 
       considered merely as such. Any mechanical arrangement which would
 
@@ -176,9 +176,9 @@ tags:
 
       within either to use his right arm in an exceedingly painful and
 
-      awkward position, (viz. brought up close to his body and tightly
+      awkward position, (viz. brought up close to his [[Body|body]] and tightly
 
-      compressed between his body and the side of the Automaton,) or
+      compressed between his [[Body|body]] and the side of the Automaton,) or
 
       else to use his left arm brought across his breast. In neither
 

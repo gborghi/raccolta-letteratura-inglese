@@ -1,5 +1,5 @@
 ---
-title: "Some Words with a Mummy (part 2)"
+title: "[[Some Words with a Mummy]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Some-Words-with-a-Mummy-(Poe)"
@@ -28,7 +28,7 @@ tags:
 
       Mr. Gliddon was of opinion, from the redness of the epidermis, that the
       embalmment had been effected altogether by asphaltum; but, on scraping the
-      surface with a steel instrument, and throwing into the fire some of the
+      surface with a steel instrument, and throwing into the [[Fire|fire]] some of the
       powder thus obtained, the flavor of camphor and other sweet-scented gums
       became apparent.
 
@@ -36,13 +36,13 @@ tags:
       the entrails are extracted, but, to our surprise, we could discover none.
       No member of the party was at that period aware that entire or unopened
       mummies are not infrequently met. The brain it was customary to withdraw
-      through the nose; the intestines through an incision in the side; the body
+      through the nose; the intestines through an incision in the side; the [[Body|body]]
       was then shaved, washed, and salted; then laid aside for several weeks,
       when the operation of embalming, properly so called, began.
 
       As no trace of an opening could be found, Doctor Ponnonner was preparing
       his instruments for dissection, when I observed that it was then past two
-      o’clock. Hereupon it was agreed to postpone the internal examination until
+      o’[[Clock|clock]]. Hereupon it was agreed to postpone the internal examination until
       the next evening; and we were about to separate for the present, when some
       one suggested an experiment or two with the Voltaic pile.
 
@@ -57,7 +57,7 @@ tags:
       other parts of the frame, but which, as we had anticipated, of course,
       gave no indication of galvanic susceptibility when brought in contact with
       the wire. This, the first trial, indeed, seemed decisive, and, with a
-      hearty laugh at our own absurdity, we were bidding each other good night,
+      hearty laugh at our own absurdity, we were bidding each other good [[Night|night]],
       when my eyes, happening to fall upon those of the Mummy, were there
       immediately riveted in amazement. My brief glance, in fact, had sufficed
       to assure me that the orbs which we had all supposed to be glass, and
@@ -74,7 +74,7 @@ tags:
       the company, they really made no attempt at concealing the downright
       fright which possessed them. Doctor Ponnonner was a man to be pitied. Mr.
       Gliddon, by some peculiar process, rendered himself invisible. Mr. Silk
-      Buckingham, I fancy, will scarcely be so bold as to deny that he made his
+      [[Buckingham]], I fancy, will scarcely be so bold as to deny that he made his
       way, upon all fours, under the table.
 
       After the first shock of astonishment, however, we resolved, as a matter
@@ -87,11 +87,11 @@ tags:
       bring it nearly in contact with the abdomen, and then, straightening the
       limb with inconceivable force, bestowed a kick upon Doctor Ponnonner,
       which had the effect of discharging that gentleman, like an arrow from a
-      catapult, through a window into the street below.
+      catapult, through a [[Window|window]] into the street below.
 
       We rushed out _en masse_ to bring in the mangled remains of the
       victim, but had the happiness to meet him upon the staircase, coming up in
-      an unaccountable hurry, brimful of the most ardent philosophy, and more
+      an unaccountable hurry, brimful of the most ardent [[philosophy]], and more
       than ever impressed with the necessity of prosecuting our experiment with
       vigor and with zeal.
 
@@ -105,15 +105,15 @@ tags:
       very rapidly for several minutes, as does Mr. Barnes in the pantomime; in
       the second place, it sneezed; in the third, it sat upon end; in the
       fourth, it shook its fist in Doctor Ponnonner’s face; in the fifth,
-      turning to Messieurs Gliddon and Buckingham, it addressed them, in very
+      turning to Messieurs Gliddon and [[Buckingham]], it addressed them, in very
       capital Egyptian, thus:
 
       “I must say, gentlemen, that I am as much surprised as I am mortified at
       your behavior. Of Doctor Ponnonner nothing better was to be expected. He
-      is a poor little fat fool who knows no better. I pity and forgive him. But
+      is a poor little fat [[Fool|fool]] who knows no better. I pity and forgive him. But
       you, Mr. Gliddon—and you, Silk—who have travelled and resided
-      in Egypt until one might imagine you to the manor born—you, I say
-      who have been so much among us that you speak Egyptian fully as well, I
+      in [[Egypt]] until one might imagine you to the manor born—you, I say
+      who have been so much among us that you speak Egyptian fully as [[Well|well]], I
       think, as you write your mother tongue—you, whom I have always been
       led to regard as the firm friend of the mummies—I really did
       anticipate more gentlemanly conduct from you. What am I to think of your
@@ -121,4 +121,4 @@ tags:
       suppose by your permitting Tom, Dick, and Harry to strip me of my coffins,
       and my clothes, in this wretchedly cold climate? In what light (to come to
       the point) am I to regard your aiding and abetting that miserable little
-      villain, Doctor Ponnonner, in pulling me by the nose?”
+      [[Villain|villain]], Doctor Ponnonner, in pulling me by the nose?”

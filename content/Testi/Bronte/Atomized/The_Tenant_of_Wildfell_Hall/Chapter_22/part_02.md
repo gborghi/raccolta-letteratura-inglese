@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 22 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 22 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 “‘Not you,’ said I. ‘You’ll find a man can live without his money as
 
-merrily as a tortoise without its head, or a wasp without its body.’
+merrily as a tortoise without its head, or a wasp without its [[Body|body]].’
 
 
 
@@ -26,9 +26,9 @@ out of it.’
 
 
 
-“‘Well, what of that? Many a better man than you has lived and died in
+“‘[[Well]], what of that? Many a better man than you has lived and died in
 
-debt; and they can’t put you in prison, you know, because you’re a
+debt; and they can’t put you in [[Prison|prison]], you know, because you’re a
 
 peer.’ And I handed him his fourth tumbler.
 
@@ -60,7 +60,7 @@ one.’
 
 “‘There’s only one for me,’ he replied, with a dolorous sigh. ‘And if
 
-there were fifty more, who’s to get them, I wonder, without money?’
+there were fifty more, who’s to get them, I [[Wonder|wonder]], without money?’
 
 
 
@@ -116,7 +116,7 @@ tempt him.”
 
 
 
-“Well, what could we do?” replied he, deprecatingly.—“We meant it in
+“[[Well]], what could we do?” replied he, deprecatingly.—“We meant it in
 
 kindness—we couldn’t bear to see the poor fellow so miserable:—and
 
@@ -126,7 +126,7 @@ when he was under the threefold influence—of the loss of his
 
 sweetheart, the loss of his fortune, and the reaction of the lost
 
-night’s debauch; whereas, when he had something in him, if he was not
+[[Night|night]]’s debauch; whereas, when he had something in him, if he was not
 
 merry himself, he was an unfailing source of merriment to us. Even
 
@@ -138,13 +138,13 @@ when we were sitting over our wine, after one of our club dinners, and
 
 all had been hearty together,—Lowborough giving us mad toasts, and
 
-hearing our wild songs, and bearing a hand in the applause, if he did
+hearing our wild [[songs]], and bearing a hand in the applause, if he did
 
-not help us to sing them himself,—he suddenly relapsed into silence,
+not help us to sing them himself,—he suddenly relapsed into [[Silence|silence]],
 
 sinking his head on his hand, and never lifting his glass to his
 
-lips;—but this was nothing new; so we let him alone, and went on with
+lips;—but this was nothing new; so we let him [[Alone|alone]], and went on with
 
 our jollification, till, suddenly raising his head, he interrupted us
 
@@ -154,7 +154,7 @@ in the middle of a roar of laughter by exclaiming,—
 
 “Gentlemen, where is all this to end?—Will you just tell me _that_
 
-now?—Where is it all to end?” He rose.
+now?—Where is it all to end?” He [[Rose|rose]].
 
 
 
@@ -210,11 +210,11 @@ threw it out into the middle of the table.
 
 “‘Fill again!’ said I, handing him the bottle—‘and let us drink to your
 
-renunciation.’
+[[Renunciation|renunciation]].’
 
 
 
-“‘It’s rank poison,’ said he, grasping the bottle by the neck, ‘and I
+“‘It’s rank [[Poison|poison]],’ said he, grasping the bottle by the neck, ‘and I
 
 forswear it! I’ve given up gambling, and I’ll give up this too.’ He was
 
@@ -238,21 +238,21 @@ really began to think he was going to keep his word. At last, one
 
 evening, when we were most of us assembled together again, he entered,
 
-silent and grim as a ghost, and would have quietly slipped into his
+silent and grim as a [[Ghost|ghost]], and would have quietly slipped into his
 
-usual seat at my elbow, but we all rose to welcome him, and several
+usual seat at my elbow, but we all [[Rose|rose]] to welcome him, and several
 
 voices were raised to ask what he would have, and several hands were
 
 busy with bottle and glass to serve him; but I knew a smoking tumbler
 
-of brandy-and-water would comfort him best, and had nearly prepared it,
+of brandy-and-[[Water|water]] would comfort him best, and had nearly prepared it,
 
 when he peevishly pushed it away, saying,—
 
 
 
-“‘Do let me alone, Huntingdon! Do be quiet, all of you! I’m not come to
+“‘Do let me [[Alone|alone]], Huntingdon! Do be quiet, all of you! I’m not come to
 
 join you: I’m only come to be with you awhile, because I can’t bear my
 
@@ -262,7 +262,7 @@ we let him be. But I left the glass by him; and, after awhile, Grimsby
 
 directed my attention towards it, by a significant wink; and, on
 
-turning my head, I saw it was drained to the bottom. He made me a sign
+turning my head, I saw it was drained to the [[Bottom|bottom]]. He made me a sign
 
 to replenish, and quietly pushed up the bottle. I willingly complied;
 

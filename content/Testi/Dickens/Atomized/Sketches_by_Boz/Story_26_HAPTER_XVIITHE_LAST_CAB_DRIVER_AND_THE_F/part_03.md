@@ -15,26 +15,26 @@ tags:
 
 
 If Mr. Barker can be fairly said to have had any weakness in his
-earlier years, it was an amiable one—love; love in its most
-comprehensive form—a love of ladies, liquids, and pocket-handkerchiefs.
+earlier years, it was an amiable one—[[Love|love]]; [[Love|love]] in its most
+comprehensive form—a [[Love|love]] of ladies, liquids, and pocket-handkerchiefs.
 It was no selfish feeling; it was not confined to his own possessions,
 which but too many men regard with exclusive complacency. No; it was a
-nobler love—a general principle. It extended itself with equal force to
+nobler [[Love|love]]—a general principle. It extended itself with equal force to
 the property of other people.
 
 There is something very affecting in this. It is still more affecting
 to know, that such philanthropy is but imperfectly rewarded.
 Bow-street, Newgate, and Millbank, are a poor return for general
-benevolence, evincing itself in an irrepressible love for all created
+benevolence, evincing itself in an irrepressible [[Love|love]] for all created
 objects. Mr. Barker felt it so. After a lengthened interview with the
 highest legal authorities, he quitted his ungrateful country, with the
-consent, and at the expense, of its Government; proceeded to a distant
+consent, and at the expense, of its [[government|Government]]; proceeded to a distant
 shore; and there employed himself, like another Cincinnatus, in
 clearing and cultivating the soil—a peaceful pursuit, in which a term
 of seven years glided almost imperceptibly away.
 
 Whether, at the expiration of the period we have just mentioned, the
-British Government required Mr. Barker’s presence here, or did not
+British [[government|Government]] required Mr. Barker’s presence here, or did not
 require his residence abroad, we have no distinct means of
 ascertaining. We should be inclined, however, to favour the latter
 position, inasmuch as we do not find that he was advanced to any other
@@ -43,7 +43,7 @@ Haymarket, where he officiated as assistant-waterman to the
 hackney-coach stand. Seated, in this capacity, on a couple of tubs near
 the curbstone, with a brass plate and number suspended round his neck
 by a massive chain, and his ankles curiously enveloped in haybands, he
-is supposed to have made those observations on human nature which
+is supposed to have made those observations on human [[Nature|nature]] which
 exercised so material an influence over all his proceedings in later
 life.
 
@@ -57,19 +57,19 @@ progress of the system of which the first omnibus was a part. He saw,
 too, the necessity of adopting some more profitable profession; and his
 active mind at once perceived how much might be done in the way of
 enticing the youthful and unwary, and shoving the old and helpless,
-into the wrong buss, and carrying them off, until, reduced to despair,
+into the wrong buss, and carrying them off, until, reduced to [[Despair|despair]],
 they ransomed themselves by the payment of sixpence a-head, or, to
-adopt his own figurative expression in all its native beauty, ‘till
+adopt his own figurative expression in all its native [[Beauty|beauty]], ‘till
 they was rig’larly done over, and forked out the stumpy.’
 
 An opportunity for realising his fondest anticipations, soon presented
 itself. Rumours were rife on the hackney-coach stands, that a buss was
-building, to run from Lisson-grove to the Bank, down Oxford-street and
-Holborn; and the rapid increase of busses on the Paddington-road,
+building, to run from Lisson-grove to the Bank, down [[Oxford]]-street and
+Holborn; and the rapid increase of busses on the Paddington-[[Road|road]],
 encouraged the idea. Mr. Barker secretly and cautiously inquired in the
 proper quarters. The report was correct; the ‘Royal William’ was to
-make its first journey on the following Monday. It was a crack affair
-altogether. An enterprising young cabman, of established reputation as
+make its first [[Journey|journey]] on the following Monday. It was a crack affair
+altogether. An enterprising young [[cabman]], of established reputation as
 a dashing whip—for he had compromised with the parents of three
 scrunched children, and just ‘worked out’ his fine for knocking down an
 old lady—was the driver; and the spirited proprietor, knowing Mr.
@@ -83,8 +83,8 @@ a far greater space than we are enabled to devote to this imperfect
 memoir. To him is universally assigned the original suggestion of the
 practice which afterwards became so general—of the driver of a second
 buss keeping constantly behind the first one, and driving the pole of
-his vehicle either into the door of the other, every time it was
-opened, or through the body of any lady or gentleman who might make an
+his vehicle either into the door of the other, every [[Time|time]] it was
+opened, or through the [[Body|body]] of any lady or gentleman who might make an
 attempt to get into it; a humorous and pleasant invention, exhibiting
 all that originality of idea, and fine, bold flow of spirits, so
 conspicuous in every action of this great man.
@@ -93,30 +93,30 @@ Mr. Barker had opponents of course; what man in public life has not?
 But even his worst enemies cannot deny that he has taken more old
 ladies and gentlemen to Paddington who wanted to go to the Bank, and
 more old ladies and gentlemen to the Bank who wanted to go to
-Paddington, than any six men on the road; and however much malevolent
-spirits may pretend to doubt the accuracy of the statement, they well
+Paddington, than any six men on the [[Road|road]]; and however much malevolent
+spirits may pretend to [[Doubt|doubt]] the accuracy of the statement, they [[Well|well]]
 know it to be an established fact, that he has forcibly conveyed a
 variety of ancient persons of either sex, to both places, who had not
 the slightest or most distant intention of going anywhere at all.
 
 Mr. Barker was the identical cad who nobly distinguished himself, some
-time since, by keeping a tradesman on the step—the omnibus going at
-full speed all the time—till he had thrashed him to his entire
+[[Time|time]] since, by keeping a tradesman on the step—the omnibus going at
+full [[Speed|speed]] all the [[Time|time]]—till he had thrashed him to his entire
 satisfaction, and finally throwing him away, when he had quite done
 with him. Mr. Barker it _ought_ to have been, who honestly indignant at
-being ignominiously ejected from a house of public entertainment,
-kicked the landlord in the knee, and thereby caused his death. We say
+being ignominiously ejected from a [[house]] of public entertainment,
+kicked the landlord in the knee, and thereby caused his [[Death|death]]. We say
 it _ought_ to have been Mr. Barker, because the action was not a common
 one, and could have emanated from no ordinary mind.
 
-It has now become matter of history; it is recorded in the Newgate
-Calendar; and we wish we could attribute this piece of daring heroism
+It has now become matter of [[history]]; it is recorded in the Newgate
+Calendar; and we wish we could attribute this piece of daring [[Heroism|heroism]]
 to Mr. Barker. We regret being compelled to state that it was not
 performed by him. Would, for the family credit we could add, that it
 was achieved by his brother!
 
 It was in the exercise of the nicer details of his profession, that Mr.
-Barker’s knowledge of human nature was beautifully displayed. He could
+Barker’s knowledge of human [[Nature|nature]] was beautifully displayed. He could
 tell at a glance where a passenger wanted to go to, and would shout the
 name of the place accordingly, without the slightest reference to the
 real destination of the vehicle. He knew exactly the kind of old lady
@@ -131,8 +131,8 @@ way.
 Human judgment is never infallible, and it would occasionally happen
 that Mr. Barker experimentalised with the timidity or forbearance of
 the wrong person, in which case a summons to a Police-office, was, on
-more than one occasion, followed by a committal to prison. It was not
-in the power of trifles such as these, however, to subdue the freedom
+more than one occasion, followed by a committal to [[Prison|prison]]. It was not
+in the power of trifles such as these, however, to subdue the [[Freedom|freedom]]
 of his spirit. As soon as they passed away, he resumed the duties of
 his profession with unabated ardour.
 
@@ -143,5 +143,5 @@ peered beneath the aprons of our cabs, and penetrated to the very
 innermost recesses of our omnibuses. Dirt and fustian will vanish
 before cleanliness and livery. Slang will be forgotten when civility
 becomes general: and that enlightened, eloquent, sage, and profound
-body, the Magistracy of London, will be deprived of half their
+[[Body|body]], the Magistracy of [[London]], will be deprived of half their
 amusement, and half their occupation.

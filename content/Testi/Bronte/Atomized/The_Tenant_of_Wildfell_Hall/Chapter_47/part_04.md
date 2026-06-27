@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 47 (part 4)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 47 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -18,13 +18,13 @@ bitterly. The instant he began I sent our son out of the room; and when
 
 he paused to breathe, I calmly assured him that he was entirely
 
-mistaken; I had never once attempted to prejudice his child against
+mistaken; I had never once attempted to prejudice his [[Child|child]] against
 
 him.
 
 
 
-“I did indeed desire him to _forget_ you,” I said, “and especially to
+“I did indeed [[Desire|desire]] him to _forget_ you,” I said, “and especially to
 
 forget the lessons you taught him; and for that cause, and to lessen
 
@@ -36,7 +36,7 @@ think.”
 
 
 
-The invalid only replied by groaning aloud, and rolling his head on a
+The invalid only replied by groaning aloud, and [[rolling]] his head on a
 
 pillow in a paroxysm of impatience.
 
@@ -54,7 +54,7 @@ acidulated, cooling drink that was on the table, and brought it to him.
 
 He drank it greedily, but muttered, as I took away the glass,—“I
 
-suppose you’re heaping coals of fire on my head, you think?”
+suppose you’re heaping coals of [[Fire|fire]] on my head, you think?”
 
 
 
@@ -80,7 +80,7 @@ opportunity?”
 
 “Now, shall I stay with you?” said I, as I replaced the glass on the
 
-table: “or will you be more quiet if I go and send the nurse?”
+table: “or will you be more quiet if I go and send the [[Nurse|nurse]]?”
 
 
 
@@ -92,7 +92,7 @@ with it all!” responded he, with an impatient toss.
 
 “I’ll leave you, then,” said I; and I withdrew, and did not trouble him
 
-with my presence again that day, except for a minute or two at a time,
+with my presence again that day, except for a minute or two at a [[Time|time]],
 
 just to see how he was and what he wanted.
 
@@ -112,25 +112,25 @@ wants, and hardly then. But on the morrow, that is to say, in
 
 proportion as he recovered from the state of exhaustion and
 
-stupefaction, his ill-nature appeared to revive.
+stupefaction, his ill-[[Nature|nature]] appeared to revive.
 
 
 
-“Oh, this sweet revenge!” cried he, when I had been doing all I could
+“Oh, this sweet [[Revenge|revenge]]!” cried he, when I had been doing all I could
 
-to make him comfortable and to remedy the carelessness of his nurse.
+to make him comfortable and to remedy the carelessness of his [[Nurse|nurse]].
 
-“And you can enjoy it with such a quiet conscience too, because it’s
+“And you can enjoy it with such a quiet [[Conscience|conscience]] too, because it’s
 
 all in the way of duty.”
 
 
 
-“It is well for me that I _am_ doing my duty,” said I, with a
+“It is [[Well|well]] for me that I _am_ doing my duty,” said I, with a
 
 bitterness I could not repress, “for it is the only comfort I have; and
 
-the satisfaction of my own conscience, it seems, is the only reward I
+the satisfaction of my own [[Conscience|conscience]], it seems, is the only reward I
 
 need look for!”
 
@@ -144,9 +144,9 @@ He looked rather surprised at the earnestness of my manner.
 
 
 
-“You will think me a liar if I tell you; but I _did_ hope to benefit
+“You will think me a liar if I tell you; but I _did_ [[Hope|hope]] to benefit
 
-you: as well to better your mind as to alleviate your present
+you: as [[Well|well]] to better your mind as to alleviate your present
 
 sufferings; but it appears I am to do neither; your own bad spirit will
 
@@ -156,13 +156,13 @@ feelings, and all the little earthly comfort that was left me, to no
 
 purpose; and every little thing I do for you is ascribed to
 
-self-righteous malice and refined revenge!”
+[[Self|self]]-righteous malice and refined [[Revenge|revenge]]!”
 
 
 
 “It’s all very fine, I daresay,” said he, eyeing me with stupid
 
-amazement; “and of course I ought to be melted to tears of penitence
+amazement; “and of course I ought to be melted to [[Tears|tears]] of penitence
 
 and admiration at the sight of so much generosity and superhuman
 
@@ -176,7 +176,7 @@ Since you came, I confess, I have had better attendance than before,
 
 for these wretches neglected me shamefully, and all my old friends seem
 
-to have fairly forsaken me. I’ve had a dreadful time of it, I assure
+to have fairly forsaken me. I’ve had a dreadful [[Time|time]] of it, I assure
 
 you: I sometimes thought I should have died: do you think there’s any
 
@@ -184,7 +184,7 @@ chance?”
 
 
 
-“There’s always a chance of death; and it is always well to live with
+“There’s always a chance of [[Death|death]]; and it is always [[Well|well]] to live with
 
 such a chance in view.”
 
@@ -208,7 +208,7 @@ get better if I stuck to his regimen and prescriptions.”
 
 
 
-“I hope you may, Arthur; but neither the doctor nor I can speak with
+“I [[Hope|hope]] you may, [[arthur|Arthur]]; but neither the doctor nor I can speak with
 
 certainty in such a case; there is internal injury, and it is difficult
 
@@ -216,7 +216,7 @@ to know to what extent.”
 
 
 
-“There now! you want to scare me to death.”
+“There now! you want to scare me to [[Death|death]].”
 
 
 
@@ -226,7 +226,7 @@ of the uncertainty of life can dispose you to serious and useful
 
 thoughts, I would not deprive you of the benefit of such reflections,
 
-whether you do eventually recover or not. Does the idea of death appal
+whether you do eventually recover or not. Does the idea of [[Death|death]] appal
 
 you very much?”
 
@@ -236,9 +236,9 @@ you very much?”
 
 
 
-“But it must come some time,” interrupted I, “and if it be years hence,
+“But it must come some [[Time|time]],” interrupted I, “and if it be years hence,
 
-it will as certainly overtake you as if it came to-day,—and no doubt be
+it will as certainly overtake you as if it came to-day,—and no [[Doubt|doubt]] be
 
 as unwelcome then as now, unless you—”
 
@@ -264,4 +264,4 @@ future prospects. Let me hear from you soon, and I will write again to
 
 tell you how we get on; but now that my presence is tolerated, and even
 
-required, in the sick-room, I shall have but little time to spare
+required, in the sick-room, I shall have but little [[Time|time]] to spare

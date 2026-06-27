@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 4 (part 3)"
+title: "[[Emma]] — Chapter 4 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -26,7 +26,7 @@ as real gentlemen.”
 “I think, Harriet, since your acquaintance with us, you have been
 repeatedly in the company of some such very real gentlemen, that you
 must yourself be struck with the difference in Mr. Martin. At
-Hartfield, you have had very good specimens of well educated, well bred
+Hartfield, you have had very good specimens of [[Well|well]] educated, [[Well|well]] bred
 men. I should be surprized if, after seeing them, you could be in
 company with Mr. Martin again without perceiving him to be a very
 inferior creature—and rather wondering at yourself for having ever
@@ -55,7 +55,7 @@ grows, Harriet, the more important it is that their manners should not
 be bad; the more glaring and disgusting any loudness, or coarseness, or
 awkwardness becomes. What is passable in youth is detestable in later
 age. Mr. Martin is now awkward and abrupt; what will he be at Mr.
-Weston’s time of life?”
+Weston’s [[Time|time]] of life?”
 
 “There is no saying, indeed,” replied Harriet rather solemnly.
 
@@ -69,22 +69,22 @@ nothing but profit and loss.”
 circumstance of his forgetting to inquire for the book you recommended.
 He was a great deal too full of the market to think of any thing
 else—which is just as it should be, for a thriving man. What has he to
-do with books? And I have no doubt that he _will_ thrive, and be a very
-rich man in time—and his being illiterate and coarse need not disturb
+do with books? And I have no [[Doubt|doubt]] that he _will_ thrive, and be a very
+rich man in [[Time|time]]—and his being illiterate and coarse need not disturb
 _us_.”
 
-“I wonder he did not remember the book”—was all Harriet’s answer, and
-spoken with a degree of grave displeasure which Emma thought might be
-safely left to itself. She, therefore, said no more for some time. Her
+“I [[Wonder|wonder]] he did not remember the book”—was all Harriet’s answer, and
+spoken with a degree of [[Grave|grave]] displeasure which [[Emma]] thought might be
+safely left to itself. She, therefore, said no more for some [[Time|time]]. Her
 next beginning was,
 
 “In one respect, perhaps, Mr. Elton’s manners are superior to Mr.
 Knightley’s or Mr. Weston’s. They have more gentleness. They might be
 more safely held up as a pattern. There is an openness, a quickness,
-almost a bluntness in Mr. Weston, which every body likes in _him_,
-because there is so much good-humour with it—but that would not do to
+almost a bluntness in Mr. Weston, which every [[Body|body]] likes in _him_,
+because there is so much good-[[Humour|humour]] with it—but that would not do to
 be copied. Neither would Mr. Knightley’s downright, decided, commanding
-sort of manner, though it suits _him_ very well; his figure, and look,
+sort of manner, though it suits _him_ very [[Well|well]]; his figure, and look,
 and situation in life seem to allow it; but if any young man were to
 set about copying him, he would not be sufferable. On the contrary, I
 think a young man might be very safely recommended to take Mr. Elton as
@@ -99,31 +99,31 @@ She then repeated some warm personal praise which she had drawn from
 Mr. Elton, and now did full justice to; and Harriet blushed and smiled,
 and said she had always thought Mr. Elton very agreeable.
 
-Mr. Elton was the very person fixed on by Emma for driving the young
+Mr. Elton was the very person fixed on by [[Emma]] for driving the young
 farmer out of Harriet’s head. She thought it would be an excellent
 match; and only too palpably desirable, natural, and probable, for her
-to have much merit in planning it. She feared it was what every body
+to have much merit in planning it. She feared it was what every [[Body|body]]
 else must think of and predict. It was not likely, however, that any
-body should have equalled her in the date of the plan, as it had
+[[Body|body]] should have equalled her in the date of the plan, as it had
 entered her brain during the very first evening of Harriet’s coming to
 Hartfield. The longer she considered it, the greater was her sense of
 its expediency. Mr. Elton’s situation was most suitable, quite the
-gentleman himself, and without low connexions; at the same time, not of
+gentleman himself, and without low connexions; at the same [[Time|time]], not of
 any family that could fairly object to the doubtful birth of Harriet.
-He had a comfortable home for her, and Emma imagined a very sufficient
+He had a comfortable [[Home|home]] for her, and [[Emma]] imagined a very sufficient
 income; for though the vicarage of Highbury was not large, he was known
 to have some independent property; and she thought very highly of him
-as a good-humoured, well-meaning, respectable young man, without any
+as a good-humoured, [[Well|well]]-meaning, respectable young man, without any
 deficiency of useful understanding or knowledge of the world.
 
 She had already satisfied herself that he thought Harriet a beautiful
 girl, which she trusted, with such frequent meetings at Hartfield, was
 foundation enough on his side; and on Harriet’s there could be little
-doubt that the idea of being preferred by him would have all the usual
+[[Doubt|doubt]] that the idea of being preferred by him would have all the usual
 weight and efficacy. And he was really a very pleasing young man, a
 young man whom any woman not fastidious might like. He was reckoned
 very handsome; his person much admired in general, though not by her,
 there being a want of elegance of feature which she could not dispense
-with:—but the girl who could be gratified by a Robert Martin’s riding
-about the country to get walnuts for her might very well be conquered
+with:—but the girl who could be gratified by a [[Robert Martin]]’s riding
+about the country to get walnuts for her might very [[Well|well]] be conquered
 by Mr. Elton’s admiration.

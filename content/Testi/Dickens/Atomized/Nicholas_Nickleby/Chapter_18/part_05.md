@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 18 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 18 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -22,13 +22,13 @@ sportiveness ensued.
 ‘You will see that those little alterations are made, Madame Mantalini,’
 said the lady. ‘Nay, you bad man, you positively shall go first; I
 wouldn’t leave you behind with that pretty girl, not for half a second.
-I know you too well. Jane, my dear, let him go first, and we shall be
+I know you too [[Well|well]]. Jane, my dear, let him go first, and we shall be
 quite sure of him.’
 
 The old lord, evidently much flattered by this suspicion, bestowed a
-grotesque leer upon Kate as he passed; and, receiving another tap with
+[[Grotesque|grotesque]] leer upon Kate as he passed; and, receiving another tap with
 the parasol for his wickedness, tottered downstairs to the door, where
-his sprightly body was hoisted into the carriage by two stout footmen.
+his sprightly [[Body|body]] was hoisted into the carriage by two stout footmen.
 
 ‘Foh!’ said Madame Mantalini, ‘how he ever gets into a carriage without
 thinking of a hearse, I can’t think. There, take the things away, my
@@ -42,8 +42,8 @@ dominion.
 The circumstances of the little kingdom had greatly changed, however,
 during the short period of her absence. In place of Miss Knag being
 stationed in her accustomed seat, preserving all the dignity and
-greatness of Madame Mantalini’s representative, that worthy soul was
-reposing on a large box, bathed in tears, while three or four of the
+[[Greatness|greatness]] of Madame Mantalini’s representative, that worthy [[Soul|soul]] was
+reposing on a large box, bathed in [[Tears|tears]], while three or four of the
 young ladies in close attendance upon her, together with the presence
 of hartshorn, vinegar, and other restoratives, would have borne ample
 testimony, even without the derangement of the head-dress and front row
@@ -66,7 +66,7 @@ nasty creature!’
 adjective had been jerked out from between Miss Knag’s closed teeth;
 ‘have I offended you?’
 
-‘YOU offended me!’ retorted Miss Knag, ‘YOU! a chit, a child, an upstart
+‘YOU offended me!’ retorted Miss Knag, ‘YOU! a chit, a [[Child|child]], an upstart
 nobody! Oh, indeed! Ha, ha!’
 
 Now, it was evident, as Miss Knag laughed, that something struck her as
@@ -78,7 +78,7 @@ sarcastically to each other, as much as to say how very good that was!
 ‘Here she is,’ continued Miss Knag, getting off the box, and introducing
 Kate with much ceremony and many low curtseys to the delighted throng;
 ‘here she is--everybody is talking about her--the belle, ladies--the
-beauty, the--oh, you bold-faced thing!’
+[[Beauty|beauty]], the--oh, you bold-faced thing!’
 
 At this crisis, Miss Knag was unable to repress a virtuous shudder,
 which immediately communicated itself to all the young ladies; after
@@ -88,7 +88,7 @@ which, Miss Knag laughed, and after that, cried.
 manner, ‘for fifteen years have I been the credit and ornament of this
 room and the one upstairs. Thank God,’ said Miss Knag, stamping first
 her right foot and then her left with remarkable energy, ‘I have never
-in all that time, till now, been exposed to the arts, the vile arts, of
+in all that [[Time|time]], till now, been exposed to the arts, the vile arts, of
 a creature, who disgraces us with all her proceedings, and makes proper
 people blush for themselves. But I feel it, I do feel it, although I am
 disgusted.’
@@ -104,19 +104,19 @@ they hardly knew what to do with themselves.
 suddenly becoming convulsive, and making an effort to tear her front
 off.
 
-‘Oh no, no,’ replied the chorus, ‘pray don’t say so; don’t now!’
+‘Oh no, no,’ replied the [[Chorus|chorus]], ‘pray don’t say so; don’t now!’
 
 ‘Have I deserved to be called an elderly person?’ screamed Miss Knag,
 wrestling with the supernumeraries.
 
-‘Don’t think of such things, dear,’ answered the chorus.
+‘Don’t think of such things, dear,’ answered the [[Chorus|chorus]].
 
 ‘I hate her,’ cried Miss Knag; ‘I detest and hate her. Never let her
 speak to me again; never let anybody who is a friend of mine speak to
 her; a slut, a hussy, an impudent artful hussy!’ Having denounced the
 object of her wrath, in these terms, Miss Knag screamed once, hiccuped
 thrice, gurgled in her throat several times, slumbered, shivered, woke,
-came to, composed her head-dress, and declared herself quite well again.
+came to, composed her head-dress, and declared herself quite [[Well|well]] again.
 
 Poor Kate had regarded these proceedings, at first, in perfect
 bewilderment. She had then turned red and pale by turns, and once
@@ -125,6 +125,6 @@ behaviour developed themselves, she retired a few paces, and looked
 calmly on without deigning a reply. Nevertheless, although she walked
 proudly to her seat, and turned her back upon the group of little
 satellites who clustered round their ruling planet in the remotest
-corner of the room, she gave way, in secret, to some such bitter tears
-as would have gladdened Miss Knag’s inmost soul, if she could have seen
+corner of the room, she gave way, in secret, to some such bitter [[Tears|tears]]
+as would have gladdened Miss Knag’s inmost [[Soul|soul]], if she could have seen
 them fall.

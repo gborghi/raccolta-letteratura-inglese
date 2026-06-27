@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 2"
+title: "[[Jane Eyre]] — Chapter 2"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -22,7 +22,7 @@ greatly strengthened the bad opinion Bessie and Miss Abbot were
 disposed to entertain of me. The fact is, I was a trifle beside myself;
 or rather _out_ of myself, as the French would say: I was conscious
 that a moment’s mutiny had already rendered me liable to strange
-penalties, and, like any other rebel slave, I felt resolved, in my
+penalties, and, like any other [[Rebel|rebel]] slave, I felt resolved, in my
 desperation, to go all lengths.
 
 “Hold her arms, Miss Abbot: she’s like a mad cat.”
@@ -36,9 +36,9 @@ young master.”
 “No; you are less than a servant, for you do nothing for your keep.
 There, sit down, and think over your wickedness.”
 
-They had got me by this time into the apartment indicated by Mrs. Reed,
+They had got me by this [[Time|time]] into the apartment indicated by Mrs. Reed,
 and had thrust me upon a stool: my impulse was to rise from it like a
-spring; their two pair of hands arrested me instantly.
+[[Spring|spring]]; their two pair of hands arrested me instantly.
 
 “If you don’t sit still, you must be tied down,” said Bessie. “Miss
 Abbot, lend me your garters; she would break mine directly.”
@@ -54,12 +54,12 @@ In guarantee whereof, I attached myself to my seat by my hands.
 “Mind you don’t,” said Bessie; and when she had ascertained that I was
 really subsiding, she loosened her hold of me; then she and Miss Abbot
 stood with folded arms, looking darkly and doubtfully on my face, as
-incredulous of my sanity.
+incredulous of my [[Sanity|sanity]].
 
 “She never did so before,” at last said Bessie, turning to the Abigail.
 
 “But it was always in her,” was the reply. “I’ve told Missis often my
-opinion about the child, and Missis agreed with me. She’s an underhand
+opinion about the [[Child|child]], and Missis agreed with me. She’s an underhand
 little thing: I never saw a girl of her age with so much cover.”
 
 Bessie answered not; but ere long, addressing me, she said—
@@ -70,7 +70,7 @@ to the poorhouse.”
 
 I had nothing to say to these words: they were not new to me: my very
 first recollections of existence included hints of the same kind. This
-reproach of my dependence had become a vague sing-song in my ear: very
+reproach of my dependence had become a vague sing-[[Song|song]] in my ear: very
 painful and crushing, but only half intelligible. Miss Abbot joined in—
 
 “And you ought not to think yourself on an equality with the Misses
@@ -81,7 +81,7 @@ agreeable to them.”
 
 “What we tell you is for your good,” added Bessie, in no harsh voice,
 “you should try to be useful and pleasant, then, perhaps, you would
-have a home here; but if you become passionate and rude, Missis will
+have a [[Home|home]] here; but if you become passionate and rude, Missis will
 send you away, I am sure.”
 
 “Besides,” said Miss Abbot, “God will punish her: He might strike her
@@ -104,19 +104,19 @@ shrouded in festoons and falls of similar drapery; the carpet was red;
 the table at the foot of the bed was covered with a crimson cloth; the
 walls were a soft fawn colour with a blush of pink in it; the wardrobe,
 the toilet-table, the chairs were of darkly polished old mahogany. Out
-of these deep surrounding shades rose high, and glared white, the
+of these deep surrounding shades [[Rose|rose]] high, and glared white, the
 piled-up mattresses and pillows of the bed, spread with a snowy
 Marseilles counterpane. Scarcely less prominent was an ample cushioned
 easy-chair near the head of the bed, also white, with a footstool
 before it; and looking, as I thought, like a pale throne.
 
-This room was chill, because it seldom had a fire; it was silent,
+This room was chill, because it seldom had a [[Fire|fire]]; it was silent,
 because remote from the nursery and kitchen; solemn, because it was
-known to be so seldom entered. The house-maid alone came here on
+known to be so seldom entered. The [[house]]-maid [[Alone|alone]] came here on
 Saturdays, to wipe from the mirrors and the furniture a week’s quiet
-dust: and Mrs. Reed herself, at far intervals, visited it to review the
+[[Dust|dust]]: and Mrs. Reed herself, at far intervals, visited it to review the
 contents of a certain secret drawer in the wardrobe, where were stored
-divers parchments, her jewel-casket, and a miniature of her deceased
+divers parchments, her [[Jewel|jewel]]-casket, and a miniature of her deceased
 husband; and in those last words lies the secret of the red-room—the
 spell which kept it so lonely in spite of its grandeur.
 
@@ -126,17 +126,17 @@ undertaker’s men; and, since that day, a sense of dreary consecration
 had guarded it from frequent intrusion.
 
 My seat, to which Bessie and the bitter Miss Abbot had left me riveted,
-was a low ottoman near the marble chimney-piece; the bed rose before
+was a low ottoman near the marble chimney-piece; the bed [[Rose|rose]] before
 me; to my right hand there was the high, dark wardrobe, with subdued,
 broken reflections varying the gloss of its panels; to my left were the
 muffled windows; a great looking-glass between them repeated the vacant
 majesty of the bed and room. I was not quite sure whether they had
 locked the door; and when I dared move, I got up and went to see. Alas!
-yes: no jail was ever more secure. Returning, I had to cross before the
+yes: no jail was ever more secure. Returning, I had to [[Cross|cross]] before the
 looking-glass; my fascinated glance involuntarily explored the depth it
 revealed. All looked colder and darker in that visionary hollow than in
 reality: and the strange little figure there gazing at me, with a white
-face and arms specking the gloom, and glittering eyes of fear moving
+face and arms specking the gloom, and glittering eyes of [[Fear|fear]] moving
 where all else was still, had the effect of a real spirit: I thought it
 like one of the tiny phantoms, half fairy, half imp, Bessie’s evening
 stories represented as coming out of lone, ferny dells in moors, and
@@ -144,30 +144,30 @@ appearing before the eyes of belated travellers. I returned to my
 stool.
 
 Superstition was with me at that moment; but it was not yet her hour
-for complete victory: my blood was still warm; the mood of the revolted
+for complete victory: my [[Blood|blood]] was still warm; the mood of the revolted
 slave was still bracing me with its bitter vigour; I had to stem a
 rapid rush of retrospective thought before I quailed to the dismal
 present.
 
 All John Reed’s violent tyrannies, all his sisters’ proud indifference,
 all his mother’s aversion, all the servants’ partiality, turned up in
-my disturbed mind like a dark deposit in a turbid well. Why was I
-always suffering, always browbeaten, always accused, for ever
+my disturbed mind like a dark deposit in a turbid [[Well|well]]. Why was I
+always [[Suffering|suffering]], always browbeaten, always accused, for ever
 condemned? Why could I never please? Why was it useless to try to win
 any one’s favour? Eliza, who was headstrong and selfish, was respected.
 Georgiana, who had a spoiled temper, a very acrid spite, a captious and
-insolent carriage, was universally indulged. Her beauty, her pink
+insolent carriage, was universally indulged. Her [[Beauty|beauty]], her pink
 cheeks and golden curls, seemed to give delight to all who looked at
 her, and to purchase indemnity for every fault. John no one thwarted,
 much less punished; though he twisted the necks of the pigeons, killed
-the little pea-chicks, set the dogs at the sheep, stripped the hothouse
+the little pea-chicks, set the [[dogs]] at the sheep, stripped the hothouse
 vines of their fruit, and broke the buds off the choicest plants in the
 conservatory: he called his mother “old girl,” too; sometimes reviled
 her for her dark skin, similar to his own; bluntly disregarded her
 wishes; not unfrequently tore and spoiled her silk attire; and he was
 still “her own darling.” I dared commit no fault: I strove to fulfil
 every duty; and I was termed naughty and tiresome, sullen and sneaking,
-from morning to noon, and from noon to night.
+from morning to [[Noon|noon]], and from [[Noon|noon]] to [[Night|night]].
 
 My head still ached and bled with the blow and fall I had received: no
 one had reproved John for wantonly striking me; and because I had
@@ -180,7 +180,7 @@ instigated some strange expedient to achieve escape from insupportable
 oppression—as running away, or, if that could not be effected, never
 eating or drinking more, and letting myself die.
 
-What a consternation of soul was mine that dreary afternoon! How all my
+What a consternation of [[Soul|soul]] was mine that dreary afternoon! How all my
 brain was in tumult, and all my heart in insurrection! Yet in what
 darkness, what dense ignorance, was the mental battle fought! I could
 not answer the ceaseless inward question—_why_ I thus suffered; now, at
@@ -188,53 +188,53 @@ the distance of—I will not say how many years, I see it clearly.
 
 I was a discord in Gateshead Hall: I was like nobody there; I had
 nothing in harmony with Mrs. Reed or her children, or her chosen
-vassalage. If they did not love me, in fact, as little did I love them.
+vassalage. If they did not [[Love|love]] me, in fact, as little did I [[Love|love]] them.
 They were not bound to regard with affection a thing that could not
 sympathise with one amongst them; a heterogeneous thing, opposed to
 them in temperament, in capacity, in propensities; a useless thing,
 incapable of serving their interest, or adding to their pleasure; a
 noxious thing, cherishing the germs of indignation at their treatment,
 of contempt of their judgment. I know that had I been a sanguine,
-brilliant, careless, exacting, handsome, romping child—though equally
+brilliant, careless, exacting, handsome, romping [[Child|child]]—though equally
 dependent and friendless—Mrs. Reed would have endured my presence more
 complacently; her children would have entertained for me more of the
 cordiality of fellow-feeling; the servants would have been less prone
-to make me the scapegoat of the nursery.
+to make me the [[Scapegoat|scapegoat]] of the nursery.
 
-Daylight began to forsake the red-room; it was past four o’clock, and
+Daylight began to forsake the red-room; it was past four o’[[Clock|clock]], and
 the beclouded afternoon was tending to drear twilight. I heard the rain
-still beating continuously on the staircase window, and the wind
+still beating continuously on the staircase [[Window|window]], and the [[Wind|wind]]
 howling in the grove behind the hall; I grew by degrees cold as a
-stone, and then my courage sank. My habitual mood of humiliation,
-self-doubt, forlorn depression, fell damp on the embers of my decaying
+stone, and then my [[Courage|courage]] sank. My habitual mood of humiliation,
+[[Self|self]]-[[Doubt|doubt]], forlorn depression, fell damp on the embers of my decaying
 ire. All said I was wicked, and perhaps I might be so; what thought had
-I been but just conceiving of starving myself to death? That certainly
+I been but just conceiving of starving myself to [[Death|death]]? That certainly
 was a crime: and was I fit to die? Or was the vault under the chancel
 of Gateshead Church an inviting bourne? In such vault I had been told
 did Mr. Reed lie buried; and led by this thought to recall his idea, I
 dwelt on it with gathering dread. I could not remember him; but I knew
 that he was my own uncle—my mother’s brother—that he had taken me when
-a parentless infant to his house; and that in his last moments he had
+a parentless infant to his [[house]]; and that in his last moments he had
 required a promise of Mrs. Reed that she would rear and maintain me as
 one of her own children. Mrs. Reed probably considered she had kept
-this promise; and so she had, I dare say, as well as her nature would
+this promise; and so she had, I dare say, as [[Well|well]] as her [[Nature|nature]] would
 permit her; but how could she really like an interloper not of her
-race, and unconnected with her, after her husband’s death, by any tie?
+race, and unconnected with her, after her husband’s [[Death|death]], by any tie?
 It must have been most irksome to find herself bound by a hard-wrung
-pledge to stand in the stead of a parent to a strange child she could
-not love, and to see an uncongenial alien permanently intruded on her
+pledge to stand in the stead of a parent to a strange [[Child|child]] she could
+not [[Love|love]], and to see an uncongenial alien permanently intruded on her
 own family group.
 
 A singular notion dawned upon me. I doubted not—never doubted—that if
 Mr. Reed had been alive he would have treated me kindly; and now, as I
 sat looking at the white bed and overshadowed walls—occasionally also
-turning a fascinated eye towards the dimly gleaming mirror—I began to
+turning a fascinated eye towards the dimly gleaming [[Mirror|mirror]]—I began to
 recall what I had heard of dead men, troubled in their graves by the
 violation of their last wishes, revisiting the earth to punish the
 perjured and avenge the oppressed; and I thought Mr. Reed’s spirit,
-harassed by the wrongs of his sister’s child, might quit its
+harassed by the wrongs of his sister’s [[Child|child]], might quit its
 abode—whether in the church vault or in the unknown world of the
-departed—and rise before me in this chamber. I wiped my tears and
+departed—and rise before me in this chamber. I wiped my [[Tears|tears]] and
 hushed my sobs, fearful lest any sign of violent grief might waken a
 preternatural voice to comfort me, or elicit from the gloom some haloed
 face, bending over me with strange pity. This idea, consolatory in
@@ -242,7 +242,7 @@ theory, I felt would be terrible if realised: with all my might I
 endeavoured to stifle it—I endeavoured to be firm. Shaking my hair from
 my eyes, I lifted my head and tried to look boldly round the dark room;
 at this moment a light gleamed on the wall. Was it, I asked myself, a
-ray from the moon penetrating some aperture in the blind? No; moonlight
+ray from the [[Moon|moon]] penetrating some aperture in the blind? No; moonlight
 was still, and this stirred; while I gazed, it glided up to the ceiling
 and quivered over my head. I can now conjecture readily that this
 streak of light was, in all likelihood, a gleam from a lantern carried
@@ -251,7 +251,7 @@ horror, shaken as my nerves were by agitation, I thought the swift
 darting beam was a herald of some coming vision from another world. My
 heart beat thick, my head grew hot; a sound filled my ears, which I
 deemed the rushing of wings; something seemed near me; I was oppressed,
-suffocated: endurance broke down; I rushed to the door and shook the
+suffocated: [[Endurance|endurance]] broke down; I rushed to the door and shook the
 lock in desperate effort. Steps came running along the outer passage;
 the key turned, Bessie and Abbot entered.
 
@@ -264,22 +264,22 @@ the key turned, Bessie and Abbot entered.
 “What for? Are you hurt? Have you seen something?” again demanded
 Bessie.
 
-“Oh! I saw a light, and I thought a ghost would come.” I had now got
+“Oh! I saw a light, and I thought a [[Ghost|ghost]] would come.” I had now got
 hold of Bessie’s hand, and she did not snatch it from me.
 
 “She has screamed out on purpose,” declared Abbot, in some disgust.
-“And what a scream! If she had been in great pain one would have
+“And what a scream! If she had been in great [[Pain|pain]] one would have
 excused it, but she only wanted to bring us all here: I know her
 naughty tricks.”
 
 “What is all this?” demanded another voice peremptorily; and Mrs. Reed
 came along the corridor, her cap flying wide, her gown rustling
-stormily. “Abbot and Bessie, I believe I gave orders that Jane Eyre
+stormily. “Abbot and Bessie, I believe I gave orders that [[Jane Eyre]]
 should be left in the red-room till I came to her myself.”
 
 “Miss Jane screamed so loud, ma’am,” pleaded Bessie.
 
-“Let her go,” was the only answer. “Loose Bessie’s hand, child: you
+“Let her go,” was the only answer. “Loose Bessie’s hand, [[Child|child]]: you
 cannot succeed in getting out by these means, be assured. I abhor
 artifice, particularly in children; it is my duty to show you that
 tricks will not answer: you will now stay here an hour longer, and it
@@ -289,7 +289,7 @@ liberate you then.”
 “O aunt! have pity! Forgive me! I cannot endure it—let me be punished
 some other way! I shall be killed if—”
 
-“Silence! This violence is all most repulsive:” and so, no doubt, she
+“[[Silence]]! This violence is all most repulsive:” and so, no [[Doubt|doubt]], she
 felt it. I was a precocious actress in her eyes; she sincerely looked
 on me as a compound of virulent passions, mean spirit, and dangerous
 duplicity.

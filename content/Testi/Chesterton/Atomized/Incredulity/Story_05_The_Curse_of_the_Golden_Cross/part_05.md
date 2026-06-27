@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Curse of the Golden Cross (part 5)"
+title: "[[Incredulity]] — The Curse of the Golden [[Cross]] (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -27,12 +27,12 @@ Something rather like a wrangle followed on this collision between
 the impatience of the lady and the suspicions of the archaeologist;
 but the latter's insistence on the official rights of the Vicar
 and the local investigation ultimately prevailed; the little
-man with the moustaches came reluctantly out of his grave
+man with the moustaches came reluctantly out of his [[Grave|grave]]
 again and silently acquiesced in a less impetuous descent.
 Fortunately, the clergyman himself appeared at this stage--
 a grey--haired, good--looking gentleman with a droop accentuated
 by doublet eyeglasses; and while rapidly establishing sympathetic
-relations with the Professor as a fellow--antiquarian, he did
+relations with [[The Professor|the Professor]] as a fellow--antiquarian, he did
 not seem to regard his rather motley group of companions with
 anything more hostile than amusement.
 
@@ -40,10 +40,10 @@ anything more hostile than amusement.
 `I ought to tell you, to start with, that there are supposed
 to be all sorts of bad omens and curses hanging over our devoted
 heads in this business.  I have just been deciphering a Latin
-inscription which was found over the entrance to the chapel;
+[[Inscription|inscription]] which was found over the entrance to the chapel;
 and it would seem that there are no less than three
 curses involved; a curse for entering the sealed chamber,
-a double curse for opening the coffin, and a triple and most
+a [[Double|double]] curse for opening the coffin, and a triple and most
 terrible curse for touching the gold relic found inside it.
 The two first maledictions I have already incurred myself,'
 he added with a smile; `but I fear that even you will have to incur
@@ -104,7 +104,7 @@ had just emerged from his investigations underground.
 Here the descent was by a fairly gradual slope with no difficulties
 save the increasing darkness; for they soon found themselves moving
 in single file down a tunnel as black as pitch, and it was some
-little time before they saw a glimmer of light ahead of them.
+little [[Time|time]] before they saw a glimmer of light ahead of them.
 Once during that silent march there was a sound like a catch
 in somebody's breath, it was impossible to say whose;
 and once there was an oath like a dull explosion, and it was

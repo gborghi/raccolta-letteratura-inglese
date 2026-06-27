@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 37: THIRTY SEVEN (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-After a little while she thanked him, through her tears and sobs, and
+After a little while she thanked him, through her [[Tears|tears]] and sobs, and
 told him she had never been at once so sorry and so comforted, since she
-left home. Still she wept bitterly; and it was the greater pain to Tom
+left [[Home|home]]. Still she wept bitterly; and it was the greater [[Pain|pain]] to Tom
 to see her weeping, from her standing in especial need, just then, of
 sympathy and tenderness.
 
@@ -28,10 +28,10 @@ long.’
 ‘And will be again,’ said Tom.
 
 ‘No, never more. No, never, never more. If you should talk with old Mr
-Chuzzlewit, at any time,’ she added, looking hurriedly into his face--‘I
+Chuzzlewit, at any [[Time|time]],’ she added, looking hurriedly into his face--‘I
 sometimes thought he liked you, but suppressed it--will you promise me
 to tell him that you saw me here, and that I said I bore in mind the
-time we talked together in the churchyard?’
+[[Time|time]] we talked together in the churchyard?’
 
 Tom promised that he would.
 
@@ -45,9 +45,9 @@ it was that he and the old man would ever meet again, because he thought
 it might disturb her more.
 
 ‘If he should ever know this, through your means, dear Mr Pinch,’ said
-Mercy, ‘tell him that I sent the message, not for myself, but that he
+[[Mercy]], ‘tell him that I sent the message, not for myself, but that he
 might be more forbearing and more patient, and more trustful to some
-other person, in some other time of need. Tell him that if he could know
+other person, in some other [[Time|time]] of need. Tell him that if he could know
 how my heart trembled in the balance that day, and what a very little
 would have turned the scale, his own would bleed with pity for me.’
 
@@ -60,9 +60,9 @@ if he had thrown himself in my way for but one other quarter of an hour;
 if he had extended his compassion for a vain, unthinking, miserable
 girl, in but the least degree; he might, and I believe he would, have
 saved her! Tell him that I don’t blame him, but am grateful for the
-effort that he made; but ask him for the love of God, and youth, and
+effort that he made; but ask him for the [[Love|love]] of God, and youth, and
 in merciful consideration for the struggle which an ill-advised and
-unwakened nature makes to hide the strength it thinks its weakness--ask
+unwakened [[Nature|nature]] makes to hide the strength it thinks its weakness--ask
 him never, never, to forget this, when he deals with one again!’
 
 Although Tom did not hold the clue to her full meaning, he could guess
@@ -71,10 +71,10 @@ meant to say, some words of consolation. She felt and understood them,
 whether they were spoken or no. He was not quite certain, afterwards,
 but that she had tried to kneel down at his feet, and bless him.
 
-He found that he was not alone in the room when she had left it. Mrs
+He found that he was not [[Alone|alone]] in the room when she had left it. Mrs
 Todgers was there, shaking her head. Tom had never seen Mrs Todgers, it
 is needless to say, but he had a perception of her being the lady of the
-house; and he saw some genuine compassion in her eyes, that won his good
+[[house]]; and he saw some genuine compassion in her eyes, that won his good
 opinion.
 
 ‘Ah, sir! You are an old friend, I see,’ said Mrs Todgers.
@@ -109,27 +109,27 @@ very small one in her case, that she might have been excused for looking
 sharp after it, lest it should entirely vanish from her sight--had taken
 a firm hold on Mrs Todgers’s attention. But in some odd nook in Mrs
 Todgers’s breast, up a great many steps, and in a corner easy to be
-overlooked, there was a secret door, with ‘Woman’ written on the spring,
-which, at a touch from Mercy’s hand, had flown wide open, and admitted
+overlooked, there was a secret door, with ‘Woman’ written on the [[Spring|spring]],
+which, at a touch from [[Mercy]]’s hand, had flown wide open, and admitted
 her for shelter.
 
-When boarding-house accounts are balanced with all other ledgers, and
+When boarding-[[house]] accounts are balanced with all other ledgers, and
 the books of the Recording Angel are made up for ever, perhaps there may
 be seen an entry to thy credit, lean Mrs Todgers, which shall make thee
 beautiful!
 
 She was growing beautiful so rapidly in Tom’s eyes; for he saw that she
 was poor, and that this good had sprung up in her from among the sordid
-strivings of her life; that she might have been a very Venus in a minute
+strivings of her life; that she might have been a very [[Venus]] in a minute
 more, if Miss Pecksniff had not entered with her friend.
 
-‘Mr Thomas Pinch!’ said Charity, performing the ceremony of introduction
-with evident pride. ‘Mr Moddle. Where’s my sister?’
+‘Mr Thomas Pinch!’ said [[Charity]], performing the ceremony of introduction
+with evident [[Pride|pride]]. ‘Mr Moddle. Where’s my sister?’
 
 ‘Gone, Miss Pecksniff,’ Mrs Todgers answered. ‘She had appointed to be
-home.’
+[[Home|home]].’
 
-‘Ah!’ said Charity, looking at Tom. ‘Oh, dear me!’
+‘Ah!’ said [[Charity]], looking at Tom. ‘Oh, dear me!’
 
 ‘She’s greatly altered since she’s been Anoth--since she’s been married,
 Mrs Todgers!’ observed Moddle.
@@ -138,8 +138,8 @@ Mrs Todgers!’ observed Moddle.
 believe you have said that fifty thousand times, in my hearing. What a
 Prose you are!’
 
-This was succeeded by some trifling love passages, which appeared to
+This was succeeded by some trifling [[Love|love]] passages, which appeared to
 originate with, if not to be wholly carried on by Miss Pecksniff. At any
 rate, Mr Moddle was much slower in his responses than is customary
-with young lovers, and exhibited a lowness of spirits which was quite
+with young [[lovers]], and exhibited a lowness of spirits which was quite
 oppressive.

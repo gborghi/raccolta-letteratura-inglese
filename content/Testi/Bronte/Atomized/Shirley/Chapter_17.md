@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 17"
+title: "[[Shirley]] — Chapter 17"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -30,7 +30,7 @@ woman-officered company; yet their music played martial tunes, and, to
 
 judge by the eyes and carriage of some--Miss Keeldar, for
 
-instance--these sounds awoke, if not a martial, yet a longing spirit.
+instance--these sounds awoke, if not a martial, yet a [[Longing|longing]] spirit.
 
 Old Helstone, turning by chance, looked into her face; and he laughed,
 
@@ -40,23 +40,23 @@ and she laughed at him.
 
 "There is no battle in prospect," he said; "our country does not want us
 
-to fight for it. No foe or tyrant is questioning or threatening our
+to fight for it. No foe or [[Tyrant|tyrant]] is questioning or threatening our
 
 liberty. There is nothing to be done. We are only taking a walk. Keep
 
-your hand on the reins, captain, and slack the fire of that spirit. It
+your hand on the reins, captain, and slack the [[Fire|fire]] of that spirit. It
 
 is not wanted, the more's the pity."
 
 
 
-"Take your own advice, doctor," was Shirley's response. To Caroline she
+"Take your own advice, doctor," was [[Shirley]]'s response. To Caroline she
 
-murmured, "I'll borrow of imagination what reality will not give me. We
+murmured, "I'll borrow of [[Imagination|imagination]] what reality will not give me. We
 
-are not soldiers--bloodshed is not my desire--or if we are, we are
+are not soldiers--bloodshed is not my [[Desire|desire]]--or if we are, we are
 
-soldiers of the Cross. Time has rolled back some hundreds of years, and
+soldiers of the [[Cross]]. [[Time]] has rolled back some hundreds of years, and
 
 we are bound on a pilgrimage to Palestine. But no; that is too
 
@@ -66,21 +66,21 @@ following a Covenanting captain up into the hills to hold a meeting out
 
 of the reach of persecuting troopers. We know that battle may follow
 
-prayer; and as we believe that in the worst issue of battle heaven must
+[[prayer]]; and as we believe that in the worst issue of battle heaven must
 
 be our reward, we are ready and willing to redden the peat-moss with our
 
-blood. That music stirs my soul; it wakens all my life; it makes my
+[[Blood|blood]]. That music stirs my [[Soul|soul]]; it wakens all my life; it makes my
 
 heart beat--not with its temperate daily pulse, but with a new,
 
-thrilling vigour. I almost long for danger--for a faith, a land, or at
+thrilling vigour. I almost long for danger--for a [[Faith|faith]], a land, or at
 
-least a lover to defend."
+least a [[Lover|lover]] to defend."
 
 
 
-"Look, Shirley!" interrupted Caroline. "What is that red speck above
+"Look, [[Shirley]]!" interrupted Caroline. "What is that red speck above
 
 Stilbro' Brow? You have keener sight than I. Just turn your eagle eye to
 
@@ -146,7 +146,7 @@ music.
 
 
 
-"Is it our double?" asked Shirley, "our manifold wraith? Here is a card
+"Is it our [[Double|double]]?" asked [[Shirley]], "our manifold wraith? Here is a card
 
 turned up."
 
@@ -170,7 +170,7 @@ giving way? You, boys, mind what you are about. The ladies, I know, will
 
 be firm. I can trust them. There is not a churchwoman here but will
 
-stand her ground against these folks, for the honour of the
+stand her ground against these folks, for the [[Honour|honour]] of the
 
 Establishment.--What does Miss Keeldar say?"
 
@@ -188,7 +188,7 @@ lane with the intention of obstructing our march and driving us back."
 
 
 
-"Bad manners!" said Shirley, "and I hate bad manners. Of course, they
+"Bad manners!" said [[Shirley]], "and I hate bad manners. Of course, they
 
 must have a lesson."
 
@@ -208,7 +208,7 @@ when he who appeared to act as the hostile commander-in-chief--a large,
 
 greasy man, with black hair combed flat on his forehead--called a halt.
 
-The procession paused. He drew forth a hymn book, gave out a verse, set
+The procession paused. He drew forth a [[Hymn|hymn]] book, gave out a verse, set
 
 a tune, and they all struck up the most dolorous of canticles.
 
@@ -228,7 +228,7 @@ went, he was conquered.
 
 "Now, follow me!" exclaimed Helstone; "not at a run, but at a firm,
 
-smart pace. Be steady, every child and woman of you. Keep together. Hold
+smart pace. Be steady, every [[Child|child]] and woman of you. Keep together. Hold
 
 on by each other's skirts, if necessary."
 
@@ -236,7 +236,7 @@ on by each other's skirts, if necessary."
 
 And he strode on with such a determined and deliberate gait, and was,
 
-besides, so well seconded by his scholars and teachers, who did exactly
+besides, so [[Well|well]] seconded by his scholars and teachers, who did exactly
 
 as he told them, neither running nor faltering, but marching with cool,
 
@@ -248,7 +248,7 @@ any deviation with lynx-eyed vigilance, and were ready, the one with his
 
 cane, the other with her parasol, to rebuke the slightest breach of
 
-orders, the least independent or irregular demonstration--that the body
+orders, the least independent or irregular demonstration--that the [[Body|body]]
 
 of Dissenters were first amazed, then alarmed, then borne down and
 
@@ -258,15 +258,15 @@ Royd Lane free. Boultby suffered in the onslaught, but Helstone and
 
 Malone, between them, held him up, and brought him through the business,
 
-whole in limb, though sorely tried in wind.
+whole in limb, though sorely tried in [[Wind|wind]].
 
 
 
-The fat Dissenter who had given out the hymn was left sitting in the
+The fat Dissenter who had given out the [[Hymn|hymn]] was left sitting in the
 
 ditch. He was a spirit merchant by trade, a leader of the
 
-Nonconformists, and, it was said, drank more water in that one afternoon
+Nonconformists, and, it was said, drank more [[Water|water]] in that one afternoon
 
 than he had swallowed for a twelvemonth before. Mr. Hall had taken care
 
@@ -278,7 +278,7 @@ and Mr. Helstone shook hands heartily when they had fairly got the whole
 
 party through the lane. The curates began to exult, but Mr. Helstone
 
-presently put the curb on their innocent spirits. He remarked that they
+presently put the curb on their [[Innocent|innocent]] spirits. He remarked that they
 
 never had sense to know what to say, and had better hold their tongues;
 
@@ -300,15 +300,15 @@ a brief grace was pronounced by Mr. Hall and sung by the children. Their
 
 young voices sounded melodious, even touching, in the open air. Large
 
-currant buns and hot, well-sweetened tea were then administered in the
+currant buns and hot, [[Well|well]]-sweetened tea were then administered in the
 
 proper spirit of liberality. No stinting was permitted on this day, at
 
-least; the rule for each child's allowance being that it was to have
+least; the rule for each [[Child|child]]'s allowance being that it was to have
 
 about twice as much as it could possibly eat, thus leaving a reserve to
 
-be carried home for such as age, sickness, or other impediment prevented
+be carried [[Home|home]] for such as age, sickness, or other impediment prevented
 
 from coming to the feast. Buns and beer circulated, meantime, amongst
 
@@ -334,9 +334,9 @@ smartness and daintiness of dress, and many handsome forms were seen
 
 amongst the younger ones. About half a score were cutting bread and
 
-butter, another half-score supplying hot water, brought from the coppers
+butter, another half-score supplying hot [[Water|water]], brought from the coppers
 
-of the rector's kitchen. The profusion of flowers and evergreens
+of the rector's kitchen. The profusion of [[Flowers|flowers]] and evergreens
 
 decorating the white walls, the show of silver teapots and bright
 
@@ -346,7 +346,7 @@ flitting about everywhere, formed altogether a refreshing and lively
 
 spectacle. Everybody talked, not very loudly, but merrily, and the
 
-canary birds sang shrill in their high-hung cages.
+canary [[Birds|birds]] sang shrill in their high-hung cages.
 
 
 
@@ -376,9 +376,9 @@ now, as she rearranged the cups and spoons before her, whispered to him
 
 in a low voice remarks on the events of the day. He looked a little
 
-grave about what had taken place in Royd Lane, and she tried to smile
+[[Grave|grave]] about what had taken place in Royd Lane, and she tried to smile
 
-him out of his seriousness. Miss Keeldar sat near--for a wonder, neither
+him out of his seriousness. Miss Keeldar sat near--for a [[Wonder|wonder]], neither
 
 laughing nor talking; on the contrary, very still, and gazing round her
 
@@ -390,7 +390,7 @@ satin dress over an undue portion of the bench, or laid her gloves or
 
 her embroidered handkerchief upon it. Caroline noticed this _manège_ at
 
-last, and asked her what friend she expected. Shirley bent towards her,
+last, and asked her what friend she expected. [[Shirley]] bent towards her,
 
 almost touched her ear with her rosy lips, and whispered with a musical
 
@@ -398,7 +398,7 @@ softness that often characterized her tones when what she said tended
 
 even remotely to stir some sweet secret source of feeling in her heart,
 
-"I expect Mr. Moore. I saw him last night, and I made him promise to
+"I expect Mr. Moore. I saw him last [[Night|night]], and I made him promise to
 
 come with his sister, and to sit at our table. He won't fail me, I feel
 
@@ -430,7 +430,7 @@ old gentleman, too, had publicly declared that the Fieldhead estate and
 
 the De Walden estate were delightfully _contagious_--a malapropism which
 
-rumour had not failed to repeat to Shirley.
+rumour had not failed to repeat to [[Shirley]].
 
 
 
@@ -440,7 +440,7 @@ Moore," her heart yet beat and her cheek yet glowed with it, when a note
 
 from the organ pealed above the confused hum of the place. Dr. Boultby,
 
-Mr. Helstone, and Mr. Hall rose, so did all present, and grace was sung
+Mr. Helstone, and Mr. Hall [[Rose|rose]], so did all present, and grace was sung
 
 to the accompaniment of the music; and then tea began. She was kept too
 
@@ -454,11 +454,11 @@ unaccommodated with seats. Amidst a group she recognized her spinster
 
 friend, Miss Mann, whom the fine weather had tempted, or some urgent
 
-friend had persuaded, to leave her drear solitude for one hour of social
+friend had persuaded, to leave her drear [[Solitude|solitude]] for one hour of social
 
 enjoyment. Miss Mann looked tired of standing; a lady in a yellow bonnet
 
-brought her a chair. Caroline knew well that _chapeau en satin jaune_;
+brought her a chair. Caroline knew [[Well|well]] that _chapeau en satin jaune_;
 
 she knew the black hair, and the kindly though rather opinionated and
 
@@ -468,7 +468,7 @@ knew even that _schall gris de lin_; she knew, in short, Hortense Moore,
 
 and she wanted to jump up and run to her and kiss her--to give her one
 
-embrace for her own sake and two for her brother's. She half rose,
+embrace for her own sake and two for her brother's. She half [[Rose|rose]],
 
 indeed, with a smothered exclamation, and perhaps--for the impulse was
 
@@ -490,19 +490,19 @@ she dared not trust herself to hazard a second glance; for his image
 
 struck on her vision with painful brightness, and pictured itself on her
 
-memory as vividly as if there daguerreotyped by a pencil of keen
+[[Memory|memory]] as vividly as if there daguerreotyped by a pencil of keen
 
-lightning.
+[[Lightning|lightning]].
 
 
 
-He moved on, and spoke to Miss Keeldar. Shirley, irritated by some
+He moved on, and spoke to Miss Keeldar. [[Shirley]], irritated by some
 
 unwelcome attentions from Sam Wynne, and by the fact of that gentleman
 
 being still seated on her gloves and handkerchief--and probably, also,
 
-by Moore's want of punctuality--was by no means in good humour. She
+by Moore's want of punctuality--was by no means in good [[Humour|humour]]. She
 
 first shrugged her shoulders at him, and then she said a bitter word or
 
@@ -522,7 +522,7 @@ gentle pressure indicated the latter.
 
 
 
-"You may sit where you can now, Mr. Moore," said Shirley, also smiling.
+"You may sit where you can now, Mr. Moore," said [[Shirley]], also smiling.
 
 "You see there is not an inch of room for you here; but I discern plenty
 
@@ -540,7 +540,7 @@ took a turn down the long room, pausing in his walk to interchange
 
 greetings with other gentlemen in his own placeless predicament; but
 
-still he came back to the magnet, Shirley, bringing with him, each time
+still he came back to the magnet, [[Shirley]], bringing with him, each [[Time|time]]
 
 he returned, observations it was necessary to whisper in her ear.
 
@@ -560,7 +560,7 @@ the tables, and announced distinctly that she expected to faint if the
 
 present state of things continued. Mr. Sam offered to accompany her into
 
-the open air; just the way to give her her death of cold, she alleged.
+the open air; just the way to give her her [[Death|death]] of cold, she alleged.
 
 In short, his post became untenable; and having swallowed his quantum of
 
@@ -576,7 +576,7 @@ large corn-factor, Timothy Ramsden, Esq., happened to be nearer; and
 
 feeling himself tired of standing, he advanced to fill the vacant seat.
 
-Shirley's expedients did not fail her. A sweep of her scarf upset her
+[[Shirley]]'s expedients did not fail her. A sweep of her scarf upset her
 
 teacup: its contents were shared between the bench and her own satin
 
@@ -584,7 +584,7 @@ dress. Of course, it became necessary to call a waiter to remedy the
 
 mischief. Mr. Ramsden, a stout, puffy gentleman, as large in person as
 
-he was in property, held aloof from the consequent commotion. Shirley,
+he was in property, held aloof from the consequent commotion. [[Shirley]],
 
 usually almost culpably indifferent to slight accidents affecting dress,
 
@@ -600,9 +600,9 @@ the spot, he turned on his heel, and beat a heavy retreat.
 
 Moore at last returned. Calmly surveying the bustle, and somewhat
 
-quizzically scanning Shirley's enigmatical-looking countenance, he
+quizzically scanning [[Shirley]]'s enigmatical-looking countenance, he
 
-remarked that in truth this was the hottest end of the room, that he
+remarked that in [[Truth|truth]] this was the hottest end of the room, that he
 
 found a climate there calculated to agree with none but cool
 
@@ -610,7 +610,7 @@ temperaments like his own; and putting the waiters, the napkins, the
 
 satin robe--the whole turmoil, in short--to one side, he installed
 
-himself where destiny evidently decreed he should sit. Shirley subsided;
+himself where destiny evidently decreed he should sit. [[Shirley]] subsided;
 
 her features altered their lines; the raised knit brow and inexplicable
 
@@ -618,7 +618,7 @@ curve of the mouth became straight again; wilfulness and roguery gave
 
 place to other expressions; and all the angular movements with which she
 
-had vexed the soul of Sam Wynne were conjured to rest as by a charm.
+had vexed the [[Soul|soul]] of Sam Wynne were conjured to rest as by a charm.
 
 Still no gracious glance was cast on Moore. On the contrary, he was
 
@@ -626,7 +626,7 @@ accused of giving her a world of trouble, and roundly charged with being
 
 the cause of depriving her of the esteem of Mr. Ramsden and the
 
-invaluable friendship of Mr. Samuel Wynne.
+invaluable [[Friendship|friendship]] of Mr. Samuel Wynne.
 
 
 
@@ -648,7 +648,7 @@ oatcake to give to Mr. Sam's favourite pointers."
 
 
 
-"You know the surest path to the heart of each swain, I doubt not," said
+"You know the surest path to the heart of each swain, I [[Doubt|doubt]] not," said
 
 Moore quietly. He looked very content to have at last secured his
 
@@ -664,7 +664,7 @@ thought, to look at him, that he was a poor, struggling man seated
 
 beside a rich woman; the calm of equality stilled his aspect; perhaps
 
-that calm, too, reigned in his soul. Now and then, from the way in which
+that calm, too, reigned in his [[Soul|soul]]. Now and then, from the way in which
 
 he looked down on Miss Keeldar as he addressed her, you would have
 
@@ -698,7 +698,7 @@ moment thanks were returned she quitted the table, and hastened to
 
 follow her cousin Hortense, who, with Miss Mann, had already sought the
 
-open air. Robert Moore had risen when she did--perhaps he meant to speak
+open air. [[Robert Moore]] had risen when she did--perhaps he meant to speak
 
 to her; but there was yet a parting word to exchange with Miss Keeldar,
 
@@ -718,29 +718,29 @@ literally.
 
 "You are a very great stranger," she said austerely, as her pupil held
 
-and pressed her hand. The pupil knew her too well to remonstrate or
+and pressed her hand. The pupil knew her too [[Well|well]] to remonstrate or
 
 complain of coldness. She let the punctilious whim pass, sure that her
 
 natural _bonté_ (I use this French word because it expresses just what I
 
-mean--neither goodness nor good-nature, but something between the two)
+mean--neither goodness nor good-[[Nature|nature]], but something between the two)
 
 would presently get the upper hand. It did. Hortense had no sooner
 
-examined her face well, and observed the change its somewhat wasted
+examined her face [[Well|well]], and observed the change its somewhat wasted
 
 features betrayed, than her mien softened. Kissing her on both cheeks,
 
 she asked anxiously after her health. Caroline answered gaily. It would,
 
-however, have been her lot to undergo a long cross-examination, followed
+however, have been her lot to undergo a long [[Cross|cross]]-examination, followed
 
 by an endless lecture on this head, had not Miss Mann called off the
 
-attention of the questioner by requesting to be conducted home. The poor
+attention of the questioner by requesting to be conducted [[Home|home]]. The poor
 
-invalid was already fatigued. Her weariness made her cross--too cross
+invalid was already fatigued. Her weariness made her [[Cross|cross]]--too [[Cross|cross]]
 
 almost to speak to Caroline; and besides, that young person's white
 
@@ -748,25 +748,25 @@ dress and lively look were displeasing in the eyes of Miss Mann. The
 
 everyday garb of brown stuff or gray gingham, and the everyday air of
 
-melancholy, suited the solitary spinster better; she would hardly know
+[[Melancholy|melancholy]], suited the solitary spinster better; she would hardly know
 
-her young friend to-night, and quitted her with a cool nod. Hortense
+her young friend to-[[Night|night]], and quitted her with a cool nod. Hortense
 
-having promised to accompany her home, they departed together.
+having promised to accompany her [[Home|home]], they departed together.
 
 
 
-Caroline now looked round for Shirley. She saw the rainbow scarf and
+Caroline now looked round for [[Shirley]]. She saw the rainbow scarf and
 
-purple dress in the centre of a throng of ladies, all well known to
+purple dress in the centre of a throng of ladies, all [[Well|well]] known to
 
 herself, but all of the order whom she systematically avoided whenever
 
 avoidance was possible. Shyer at some moments than at others, she felt
 
-just now no courage at all to join this company. She could not, however,
+just now no [[Courage|courage]] at all to join this company. She could not, however,
 
-stand alone where all others went in pairs or parties; so she approached
+stand [[Alone|alone]] where all others went in pairs or parties; so she approached
 
 a group of her own scholars, great girls, or rather young women, who
 
@@ -808,9 +808,9 @@ soon set her at her ease.
 
 Mr. Sam Wynne coming up with great haste, to insist on the elder girls
 
-joining in the game as well as the younger ones, Caroline was again left
+joining in the game as [[Well|well]] as the younger ones, Caroline was again left
 
-alone. She was meditating a quiet retreat to the house, when Shirley,
+[[Alone|alone]]. She was meditating a quiet retreat to the [[house]], when [[Shirley]],
 
 perceiving from afar her isolation, hastened to her side.
 
@@ -822,9 +822,9 @@ crowds, Caroline."
 
 
 
-"But it will be depriving you of a pleasure, Shirley, to take you from
+"But it will be depriving you of a pleasure, [[Shirley]], to take you from
 
-all these fine people, who court your society so assiduously, and to
+all these fine people, who [[Court|court]] your society so assiduously, and to
 
 whom you can, without art or effort, make yourself so pleasant."
 
@@ -836,13 +836,13 @@ insipid, barren work, talking and laughing with the good gentlefolks of
 
 Briarfield. I have been looking out for your white dress for the last
 
-ten minutes. I like to watch those I love in a crowd, and to compare
+ten minutes. I like to watch those I [[Love|love]] in a crowd, and to compare
 
 them with others. I have thus compared you. You resemble none of the
 
 rest, Lina. There are some prettier faces than yours here. You are not a
 
-model beauty like Harriet Sykes, for instance--beside her your person
+model [[Beauty|beauty]] like Harriet Sykes, for instance--beside her your person
 
 appears almost insignificant--but you look agreeable, you look
 
@@ -850,15 +850,15 @@ reflective, you look what I call interesting."
 
 
 
-"Hush, Shirley! you flatter me."
+"Hush, [[Shirley]]! you flatter me."
 
 
 
-"I don't wonder that your scholars like you."
+"I don't [[Wonder|wonder]] that your scholars like you."
 
 
 
-"Nonsense, Shirley! Talk of something else."
+"Nonsense, [[Shirley]]! Talk of something else."
 
 
 
@@ -870,7 +870,7 @@ now."
 
 "Where?" And as Caroline asked the question she looked not over the
 
-fields, but into Miss Keeldar's eyes, as was her wont whenever Shirley
+fields, but into Miss Keeldar's eyes, as was her wont whenever [[Shirley]]
 
 mentioned any object she descried afar. Her friend had quicker vision
 
@@ -884,7 +884,7 @@ brilliant spheres.
 
 
 
-"There is Moore," said Shirley, pointing right across the wide field
+"There is Moore," said [[Shirley]], pointing right across the wide field
 
 where a thousand children were playing, and now nearly a thousand adult
 
@@ -898,7 +898,7 @@ it is, if I am not mistaken."
 
 
 
-"Why so, Shirley?" asked Caroline, whose eye had at last caught the
+"Why so, [[Shirley]]?" asked Caroline, whose eye had at last caught the
 
 object it sought. "Robert is just now speaking to my uncle, and they are
 
@@ -918,7 +918,7 @@ be sure a strong arm is needed."
 
 
 
-Shirley, as she watched, grew restless; her eyes flashed.
+[[Shirley]], as she watched, grew restless; her eyes flashed.
 
 
 
@@ -940,7 +940,7 @@ Moore's manner this evening. He was excited, yet hard."
 
 
 
-"Hard to _you_, Shirley?"
+"Hard to _you_, [[Shirley]]?"
 
 
 
@@ -990,7 +990,7 @@ we are watching them."
 
 
 
-"If we keep on the alert, Shirley, we shall perhaps find the clue to
+"If we keep on the alert, [[Shirley]], we shall perhaps find the clue to
 
 their secret."
 
@@ -998,7 +998,7 @@ their secret."
 
 "There will be some unusual movements ere long--perhaps to-morrow,
 
-possibly to-night. But my eyes and ears are wide open. Mr. Moore, you
+possibly to-[[Night|night]]. But my eyes and ears are wide open. Mr. Moore, you
 
 shall be under surveillance. Be you vigilant also, Lina."
 
@@ -1010,7 +1010,7 @@ are shaking hands."
 
 
 
-"Shaking hands, with emphasis," added Shirley, "as if they were
+"Shaking hands, with emphasis," added [[Shirley]], "as if they were
 
 ratifying some solemn league and covenant."
 
@@ -1032,7 +1032,7 @@ suffusion for one moment both softened and brightened her eyes.
 
 
 
-"Oh, that is soon remedied!" exclaimed Shirley: "we'll _make_ him bid us
+"Oh, that is soon remedied!" exclaimed [[Shirley]]: "we'll _make_ him bid us
 
 good-bye."
 
@@ -1054,13 +1054,13 @@ good-bye."
 
 
 
-"But, Shirley, I would rather not go."
+"But, [[Shirley]], I would rather not go."
 
 
 
 Caroline said this as Miss Keeldar seized her arm and hurried her down
 
-the fields. It was vain to contend. Nothing was so wilful as Shirley
+the fields. It was vain to contend. Nothing was so wilful as [[Shirley]]
 
 when she took a whim into her head. Caroline found herself out of sight
 
@@ -1082,11 +1082,11 @@ glance Caroline perceived that his social hilarity was gone; he had left
 
 it behind him in the joy-echoing fields round the school. What remained
 
-now was his dark, quiet, business countenance. As Shirley had said, a
+now was his dark, quiet, business countenance. As [[Shirley]] had said, a
 
 certain hardness characterized his air, while his eye was excited, but
 
-austere. So much the worse timed was the present freak of Shirley's. If
+austere. So much the worse timed was the present freak of [[Shirley]]'s. If
 
 he had looked disposed for holiday mirth, it would not have mattered
 
@@ -1120,7 +1120,7 @@ of a bank, four fields off, but a minute ago."
 
 shall watch you still. You must be questioned one day, but not now. At
 
-present all you have to do is to say good-night, and then pass."
+present all you have to do is to say good-[[Night|night]], and then pass."
 
 
 
@@ -1132,17 +1132,17 @@ gravely.
 
 
 
-"Come, don't moralize. Say good-night, and pass," urged Shirley.
+"Come, don't moralize. Say good-[[Night|night]], and pass," urged [[Shirley]].
 
 
 
-"Must I say good-night to you, Miss Keeldar?"
+"Must I say good-[[Night|night]] to you, Miss Keeldar?"
 
 
 
-"Yes, and to Caroline likewise. It is nothing new, I hope. You have bid
+"Yes, and to Caroline likewise. It is nothing new, I [[Hope|hope]]. You have bid
 
-us both good-night before."
+us both good-[[Night|night]] before."
 
 
 
@@ -1156,13 +1156,13 @@ there was no servility, hardly homage; but there were interest and
 
 affection, heightened by another feeling. Something in his tone when he
 
-spoke, as well as in his words, marked that last sentiment to be
+spoke, as [[Well|well]] as in his words, marked that last sentiment to be
 
 gratitude.
 
 
 
-"Your debtor bids you good-night! May you rest safely and serenely till
+"Your debtor bids you good-[[Night|night]]! May you rest safely and serenely till
 
 morning."
 
@@ -1184,17 +1184,17 @@ relate, you shall hear it."
 
 
 
-"Just now," pleaded Shirley; "don't procrastinate."
+"Just now," pleaded [[Shirley]]; "don't procrastinate."
 
 
 
-"But I could only tell half a tale. And my time is limited; I have not a
+"But I could only tell half a tale. And my [[Time|time]] is limited; I have not a
 
 moment to spare. Hereafter I will make amends for delay by candour."
 
 
 
-"But are you going home?"
+"But are you going [[Home|home]]?"
 
 
 
@@ -1202,7 +1202,7 @@ moment to spare. Hereafter I will make amends for delay by candour."
 
 
 
-"Not to leave it any more to-night?"
+"Not to leave it any more to-[[Night|night]]?"
 
 
 
@@ -1212,7 +1212,7 @@ moment to spare. Hereafter I will make amends for delay by candour."
 
 He would have taken Caroline's hand and joined it in the same clasp in
 
-which he held Shirley's, but somehow it was not ready for him. She had
+which he held [[Shirley]]'s, but somehow it was not ready for him. She had
 
 withdrawn a few steps apart. Her answer to Moore's adieu was only a
 
@@ -1222,15 +1222,15 @@ cordial token. Again he said "Farewell," and quitted them both.
 
 
 
-"There! it is over," said Shirley when he was gone. "We have made him
+"There! it is over," said [[Shirley]] when he was gone. "We have made him
 
-bid us good-night, and yet not lost ground in his esteem, I think,
+bid us good-[[Night|night]], and yet not lost ground in his esteem, I think,
 
 Cary."
 
 
 
-"I hope not," was the brief reply.
+"I [[Hope|hope]] not," was the brief reply.
 
 
 
@@ -1250,37 +1250,37 @@ feeling."
 
 
 
-"You are laconic; you would be stoical if you could. Is love, in your
+"You are laconic; you would be stoical if you could. Is [[Love|love]], in your
 
 eyes, a crime, Caroline?"
 
 
 
-"Love a crime! No, Shirley; love is a divine virtue. But why drag that
+"[[Love]] a crime! No, [[Shirley]]; [[Love|love]] is a divine virtue. But why drag that
 
 word into the conversation? It is singularly irrelevant."
 
 
 
-"Good!" pronounced Shirley.
+"Good!" pronounced [[Shirley]].
 
 
 
-The two girls paced the green lane in silence. Caroline first resumed.
+The two girls paced the green lane in [[Silence|silence]]. Caroline first resumed.
 
 
 
 "Obtrusiveness is a crime, forwardness is a crime, and both disgust; but
 
-love! no purest angel need blush to love. And when I see or hear either
+[[Love|love]]! no purest angel need blush to [[Love|love]]. And when I see or hear either
 
-man or woman couple shame with love, I know their minds are coarse,
+man or woman couple shame with [[Love|love]], I know their minds are coarse,
 
 their associations debased. Many who think themselves refined ladies and
 
 gentlemen, and on whose lips the word 'vulgarity' is for ever hovering,
 
-cannot mention 'love' without betraying their own innate and imbecile
+cannot mention '[[Love|love]]' without betraying their own innate and imbecile
 
 degradation. It is a low feeling in their estimation, connected only
 
@@ -1294,13 +1294,13 @@ with low ideas for them."
 
 "They are cold--they are cowardly--they are stupid on the subject,
 
-Shirley! They never loved--they never were loved!"
+[[Shirley]]! They never loved--they never were loved!"
 
 
 
 "Thou art right, Lina. And in their dense ignorance they blaspheme
 
-living fire, seraph-brought from a divine altar."
+living [[Fire|fire]], seraph-brought from a divine altar."
 
 
 
@@ -1308,6 +1308,6 @@ living fire, seraph-brought from a divine altar."
 
 
 
-The sudden and joyous clash of bells here stopped the dialogue by
+The sudden and joyous clash of [[Bells|bells]] here stopped the dialogue by
 
 summoning all to the church.

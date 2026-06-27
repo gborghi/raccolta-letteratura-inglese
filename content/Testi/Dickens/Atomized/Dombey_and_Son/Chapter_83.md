@@ -18,20 +18,20 @@ CHAPTER XXVII.
 Deeper Shadows
 
 
-Mr Carker the Manager rose with the lark, and went out, walking in the
-summer day. His meditations—and he meditated with contracted brows
+Mr Carker the Manager [[Rose|rose]] with the lark, and went out, walking in the
+[[Summer|summer]] day. His meditations—and he meditated with contracted brows
 while he strolled along—hardly seemed to soar as high as the lark, or
 to mount in that direction; rather they kept close to their nest upon
-the earth, and looked about, among the dust and worms. But there was
+the earth, and looked about, among the [[Dust|dust]] and worms. But there was
 not a bird in the air, singing unseen, farther beyond the reach of
 human eye than Mr Carker’s thoughts. He had his face so perfectly under
 control, that few could say more, in distinct terms, of its expression,
 than that it smiled or that it pondered. It pondered now, intently. As
-the lark rose higher, he sank deeper in thought. As the lark poured out
+the lark [[Rose|rose]] higher, he sank deeper in thought. As the lark poured out
 her melody clearer and stronger, he fell into a graver and profounder
-silence. At length, when the lark came headlong down, with an
-accumulating stream of song, and dropped among the green wheat near
-him, rippling in the breath of the morning like a river, he sprang up
+[[Silence|silence]]. At length, when the lark came headlong down, with an
+accumulating stream of [[Song|song]], and dropped among the green wheat near
+him, rippling in the breath of the morning like a [[River|river]], he sprang up
 from his reverie, and looked round with a sudden smile, as courteous
 and as soft as if he had had numerous observers to propitiate; nor did
 he relapse, after being thus awakened; but clearing his face, like one
@@ -40,7 +40,7 @@ went smiling on, as if for practice.
 
 Perhaps with an eye to first impressions, Mr Carker was very carefully
 and trimly dressed, that morning. Though always somewhat formal, in his
-dress, in imitation of the great man whom he served, he stopped short
+dress, in [[Imitation|imitation]] of the great man whom he served, he stopped short
 of the extent of Mr Dombey’s stiffness: at once perhaps because he knew
 it to be ludicrous, and because in doing so he found another means of
 expressing his sense of the difference and distance between them. Some
@@ -52,14 +52,14 @@ propensity.
 Clean and florid: with his light complexion, fading as it were, in the
 sun, and his dainty step enhancing the softness of the turf: Mr Carker
 the Manager strolled about meadows, and green lanes, and glided among
-avenues of trees, until it was time to return to breakfast. Taking a
+avenues of trees, until it was [[Time|time]] to return to breakfast. Taking a
 nearer way back, Mr Carker pursued it, airing his teeth, and said aloud
 as he did so, “Now to see the second Mrs Dombey!”
 
 He had strolled beyond the town, and re-entered it by a pleasant walk,
 where there was a deep shade of leafy trees, and where there were a few
 benches here and there for those who chose to rest. It not being a
-place of general resort at any hour, and wearing at that time of the
+place of general resort at any hour, and wearing at that [[Time|time]] of the
 still morning the air of being quite deserted and retired, Mr Carker
 had it, or thought he had it, all to himself. So, with the whim of an
 idle man, to whom there yet remained twenty minutes for reaching a
@@ -70,7 +70,7 @@ that, weaving a chain of footsteps on the dewy ground.
 But he found he was mistaken in supposing there was no one in the
 grove, for as he softly rounded the trunk of one large tree, on which
 the obdurate bark was knotted and overlapped like the hide of a
-rhinoceros or some kindred monster of the ancient days before the
+rhinoceros or some kindred [[Monster|monster]] of the ancient days before the
 Flood, he saw an unexpected figure sitting on a bench near at hand,
 about which, in another moment, he would have wound the chain he was
 making.
@@ -79,22 +79,22 @@ It was that of a lady, elegantly dressed and very handsome, whose dark
 proud eyes were fixed upon the ground, and in whom some passion or
 struggle was raging. For as she sat looking down, she held a corner of
 her under lip within her mouth, her bosom heaved, her nostril quivered,
-her head trembled, indignant tears were on her cheek, and her foot was
+her head trembled, indignant [[Tears|tears]] were on her cheek, and her foot was
 set upon the moss as though she would have crushed it into nothing. And
-yet almost the self-same glance that showed him this, showed him the
-self-same lady rising with a scornful air of weariness and lassitude,
+yet almost the [[Self|self]]-same glance that showed him this, showed him the
+[[Self|self]]-same lady rising with a scornful air of weariness and lassitude,
 and turning away with nothing expressed in face or figure but careless
-beauty and imperious disdain.
+[[Beauty|beauty]] and imperious disdain.
 
 A withered and very ugly old woman, dressed not so much like a gipsy as
 like any of that medley race of vagabonds who tramp about the country,
 begging, and stealing, and tinkering, and weaving rushes, by turns, or
-all together, had been observing the lady, too; for, as she rose, this
+all together, had been observing the lady, too; for, as she [[Rose|rose]], this
 second figure strangely confronting the first, scrambled up from the
 ground—out of it, it almost appeared—and stood in the way.
 
 “Let me tell your fortune, my pretty lady,” said the old woman,
-munching with her jaws, as if the Death’s Head beneath her yellow skin
+munching with her jaws, as if the [[Death]]’s Head beneath her yellow skin
 were impatient to get out.
 
 “I can tell it for myself,” was the reply.
@@ -134,17 +134,17 @@ shrivelled hand. “I know!”
 know who the handsome lady is?”
 
 Munching like that sailor’s wife of yore, who had chestnuts in her lap,
-and scowling like the witch who asked for some in vain, the old woman
+and scowling like the [[Witch|witch]] who asked for some in vain, the old woman
 picked the shilling up, and going backwards, like a crab, or like a
 heap of crabs: for her alternately expanding and contracting hands
 might have represented two of that species, and her creeping face, some
 half-a-dozen more: crouched on the veinous root of an old tree, pulled
-out a short black pipe from within the crown of her bonnet, lighted it
-with a match, and smoked in silence, looking fixedly at her questioner.
+out a short black pipe from within the [[Crown|crown]] of her bonnet, lighted it
+with a match, and smoked in [[Silence|silence]], looking fixedly at her questioner.
 
 Mr Carker laughed, and turned upon his heel.
 
-“Good!” said the old woman. “One child dead, and one child living: one
+“Good!” said the old woman. “One [[Child|child]] dead, and one [[Child|child]] living: one
 wife dead, and one wife coming. Go and meet her!”
 
 In spite of himself, the Manager looked round again, and stopped. The
@@ -164,7 +164,7 @@ woman screaming, “Go and meet her!”
 Preparations for a choice repast were completed, he found, at the
 hotel; and Mr Dombey, and the Major, and the breakfast, were awaiting
 the ladies. Individual constitution has much to do with the development
-of such facts, no doubt; but in this case, appetite carried it hollow
+of such facts, no [[Doubt|doubt]]; but in this case, appetite carried it hollow
 over the tender passion; Mr Dombey being very cool and collected, and
 the Major fretting and fuming in a state of violent heat and
 irritation. At length the door was thrown open by the Native, and,
@@ -173,7 +173,7 @@ blooming, but not very youthful lady, appeared.
 
 “My dear Mr Dombey,” said the lady, “I am afraid we are late, but Edith
 has been out already looking for a favourable point of view for a
-sketch, and kept me waiting for her. Falsest of Majors,” giving him her
+[[Sketch|sketch]], and kept me waiting for her. Falsest of Majors,” giving him her
 little finger, “how do you do?”
 
 “Mrs Skewton,” said Mr Dombey, “let me gratify my friend Carker:” Mr
@@ -217,28 +217,28 @@ inspecting Mr Carker through her glass, and satisfying herself (as she
 lisped audibly to the Major) that he was all heart; “really now, this
 is one of the most enchanting coincidences that I ever heard of. The
 idea! My dearest Edith, there is such an obvious destiny in it, that
-really one might almost be induced to cross one’s arms upon one’s
+really one might almost be induced to [[Cross|cross]] one’s arms upon one’s
 frock, and say, like those wicked Turks, there is no What’s-his-name
-but Thingummy, and What-you-may-call-it is his prophet!”
+but Thingummy, and What-you-may-call-it is his [[Prophet|prophet]]!”
 
 Edith designed no revision of this extraordinary quotation from the
 Koran, but Mr Dombey felt it necessary to offer a few polite remarks.
 
 “It gives me great pleasure,” said Mr Dombey, with cumbrous gallantry,
 “that a gentleman so nearly connected with myself as Carker is, should
-have had the honour and happiness of rendering the least assistance to
-Mrs Granger.” Mr Dombey bowed to her. “But it gives me some pain, and
+have had the [[Honour|honour]] and happiness of rendering the least assistance to
+Mrs Granger.” Mr Dombey bowed to her. “But it gives me some [[Pain|pain]], and
 it occasions me to be really envious of Carker;” he unconsciously laid
 stress on these words, as sensible that they must appear to involve a
 very surprising proposition; “envious of Carker, that I had not that
-honour and that happiness myself.” Mr Dombey bowed again. Edith, saving
+[[Honour|honour]] and that happiness myself.” Mr Dombey bowed again. Edith, saving
 for a curl of her lip, was motionless.
 
 “By the Lord, Sir,” cried the Major, bursting into speech at sight of
 the waiter, who was come to announce breakfast, “it’s an extraordinary
-thing to me that no one can have the honour and happiness of shooting
+thing to me that no one can have the [[Honour|honour]] and happiness of shooting
 all such beggars through the head without being brought to book for it.
-But here’s an arm for Mrs Granger if she’ll do J. B. the honour to
+But here’s an arm for Mrs Granger if she’ll do J. B. the [[Honour|honour]] to
 accept it; and the greatest service Joe can render you, Ma’am, just
 now, is, to lead you into table!”
 
@@ -254,51 +254,51 @@ enchanting expedition!”
 “but I believe it is, in itself, full of interest.”
 
 “Oh!” cried Mrs Skewton, with a faded little scream of rapture, “the
-Castle is charming!—associations of the Middle Ages—and all that—which
+[[Castle]] is charming!—associations of the Middle Ages—and all that—which
 is so truly exquisite. Don’t you dote upon the Middle Ages, Mr Carker?”
 
 “Very much, indeed,” said Mr Carker.
 
-“Such charming times!” cried Cleopatra. “So full of faith! So vigorous
+“Such charming times!” cried [[Cleopatra]]. “So full of [[Faith|faith]]! So vigorous
 and forcible! So picturesque! So perfectly removed from commonplace! Oh
 dear! If they would only leave us a little more of the poetry of
 existence in these terrible days!”
 
-Mrs Skewton was looking sharp after Mr Dombey all the time she said
+Mrs Skewton was looking sharp after Mr Dombey all the [[Time|time]] she said
 this, who was looking at Edith: who was listening, but who never lifted
 up her eyes.
 
 “We are dreadfully real, Mr Carker,” said Mrs Skewton; “are we not?”
 
-Few people had less reason to complain of their reality than Cleopatra,
-who had as much that was false about her as could well go to the
+Few people had less reason to complain of their reality than [[Cleopatra]],
+who had as much that was false about her as could [[Well|well]] go to the
 composition of anybody with a real individual existence. But Mr Carker
 commiserated our reality nevertheless, and agreed that we were very
 hardly used in that regard.
 
-“Pictures at the Castle, quite divine!” said Cleopatra. “I hope you
+“Pictures at the [[Castle]], quite divine!” said [[Cleopatra]]. “I [[Hope|hope]] you
 dote upon pictures?”
 
 “I assure you, Mrs Skewton,” said Mr Dombey, with solemn encouragement
 of his Manager, “that Carker has a very good taste for pictures; quite
-a natural power of appreciating them. He is a very creditable artist
+a natural power of appreciating them. He is a very creditable [[artist]]
 himself. He will be delighted, I am sure, with Mrs Granger’s taste and
 skill.”
 
-“Damme, Sir!” cried Major Bagstock, “my opinion is, that you’re the
+“Damme, Sir!” cried [[Major Bagstock]], “my opinion is, that you’re the
 admirable Carker, and can do anything.”
 
-“Oh!” smiled Carker, with humility, “you are much too sanguine, Major
+“Oh!” smiled Carker, with [[Humility|humility]], “you are much too sanguine, Major
 Bagstock. I can do very little. But Mr Dombey is so generous in his
 estimation of any trivial accomplishment a man like myself may find it
 almost necessary to acquire, and to which, in his very different
 sphere, he is far superior, that—” Mr Carker shrugged his shoulders,
 deprecating further praise, and said no more.
 
-All this time, Edith never raised her eyes, unless to glance towards
+All this [[Time|time]], Edith never raised her eyes, unless to glance towards
 her mother when that lady’s fervent spirit shone forth in words. But as
 Carker ceased, she looked at Mr Dombey for a moment. For a moment only;
-but with a transient gleam of scornful wonder on her face, not lost on
+but with a transient gleam of scornful [[Wonder|wonder]] on her face, not lost on
 one observer, who was smiling round the board.
 
 Mr Dombey caught the dark eyelash in its descent, and took the
@@ -313,7 +313,7 @@ opportunity of arresting it.
 “Oh no; not at all.”
 
 “Ah! You are like your cousin Feenix, my dearest Edith,” said Mrs
-Skewton. “He has been to Warwick Castle fifty times, if he has been
+Skewton. “He has been to Warwick [[Castle]] fifty times, if he has been
 there once; yet if he came to Leamington to-morrow—I wish he would,
 dear angel!—he would make his fifty-second visit next day.”
 
@@ -322,17 +322,17 @@ smile.
 
 “Too much so, for our peace, perhaps, my dear,” returned her mother;
 “but we won’t complain. Our own emotions are our recompense. If, as
-your cousin Feenix says, the sword wears out the what’s-its-name—”
+your cousin Feenix says, the [[Sword|sword]] wears out the what’s-its-name—”
 
 “The scabbard, perhaps,” said Edith.
 
 “Exactly—a little too fast, it is because it is bright and glowing, you
-know, my dearest love.”
+know, my dearest [[Love|love]].”
 
-Mrs Skewton heaved a gentle sigh, supposed to cast a shadow on the
+Mrs Skewton heaved a gentle sigh, supposed to cast a [[Shadow|shadow]] on the
 surface of that dagger of lath, whereof her susceptible bosom was the
-sheath: and leaning her head on one side, in the Cleopatra manner,
-looked with pensive affection on her darling child.
+sheath: and leaning her head on one side, in the [[Cleopatra]] manner,
+looked with pensive affection on her darling [[Child|child]].
 
 Edith had turned her face towards Mr Dombey when he first addressed
 her, and had remained in that attitude, while speaking to her mother,
@@ -342,7 +342,7 @@ manner of this simple courtesy: almost defiant, and giving it the
 character of being rendered on compulsion, or as a matter of traffic to
 which she was a reluctant party again not lost upon that same observer
 who was smiling round the board. It set him thinking of her as he had
-first seen her, when she had believed herself to be alone among the
+first seen her, when she had believed herself to be [[Alone|alone]] among the
 trees.
 
 Mr Dombey having nothing else to say, proposed—the breakfast being now
@@ -355,35 +355,35 @@ left behind; and Mr Carker, on horseback, brought up the rear.
 Mr Carker cantered behind the carriage at the distance of a hundred
 yards or so, and watched it, during all the ride, as if he were a cat,
 indeed, and its four occupants, mice. Whether he looked to one side of
-the road, or to the other—over distant landscape, with its smooth
-undulations, wind-mills, corn, grass, bean fields, wild-flowers,
+the [[Road|road]], or to the other—over distant landscape, with its smooth
+undulations, [[Wind|wind]]-mills, corn, grass, bean fields, wild-[[Flowers|flowers]],
 farm-yards, hayricks, and the spire among the wood—or upwards in the
-sunny air, where butterflies were sporting round his head, and birds
-were pouring out their songs—or downward, where the shadows of the
-branches interlaced, and made a trembling carpet on the road—or onward,
+sunny air, where butterflies were sporting round his head, and [[Birds|birds]]
+were pouring out their [[songs]]—or downward, where the shadows of the
+branches interlaced, and made a trembling carpet on the [[Road|road]]—or onward,
 where the overhanging trees formed aisles and arches, dim with the
-softened light that steeped through leaves—one corner of his eye was
+softened light that steeped through [[Leaves|leaves]]—one corner of his eye was
 ever on the formal head of Mr Dombey, addressed towards him, and the
 feather in the bonnet, drooping so neglectfully and scornfully between
 them; much as he had seen the haughty eyelids droop; not least so, when
 the face met that now fronting it. Once, and once only, did his wary
 glance release these objects; and that was, when a leap over a low
 hedge, and a gallop across a field, enabled him to anticipate the
-carriage coming by the road, and to be standing ready, at the journey’s
+carriage coming by the [[Road|road]], and to be standing ready, at the [[Journey|journey]]’s
 end, to hand the ladies out. Then, and but then, he met her glance for
 an instant in her first surprise; but when he touched her, in
 alighting, with his soft white hand, it overlooked him altogether as
 before.
 
 Mrs Skewton was bent on taking charge of Mr Carker herself, and showing
-him the beauties of the Castle. She was determined to have his arm, and
+him the beauties of the [[Castle]]. She was determined to have his arm, and
 the Major’s too. It would do that incorrigible creature: who was the
 most barbarous infidel in point of poetry: good to be in such company.
 This chance arrangement left Mr Dombey at liberty to escort Edith:
 which he did: stalking before them through the apartments with a
 gentlemanly solemnity.
 
-“Those darling byegone times, Mr Carker,” said Cleopatra, “with their
+“Those darling byegone times, Mr Carker,” said [[Cleopatra]], “with their
 delicious fortresses, and their dear old dungeons, and their delightful
 places of torture, and their romantic vengeances, and their picturesque
 assaults and sieges, and everything that makes life truly charming! How
@@ -397,13 +397,13 @@ intent on watching Mr Dombey and Edith. With all their conversational
 endowments, they spoke somewhat distractedly, and at random, in
 consequence.
 
-“We have no Faith left, positively,” said Mrs Skewton, advancing her
+“We have no [[Faith]] left, positively,” said Mrs Skewton, advancing her
 shrivelled ear; for Mr Dombey was saying something to Edith. “We have
-no Faith in the dear old Barons, who were the most delightful
+no [[Faith]] in the dear old Barons, who were the most delightful
 creatures—or in the dear old Priests, who were the most warlike of
-men—or even in the days of that inestimable Queen Bess, upon the wall
+men—or even in the days of that inestimable [[Queen]] Bess, upon the wall
 there, which were so extremely golden. Dear creature! She was all Heart
-And that charming father of hers! I hope you dote on Harry the Eighth!”
+And that charming father of hers! I [[Hope|hope]] you dote on Harry the Eighth!”
 
 “I admire him very much,” said Carker.
 
@@ -416,15 +416,15 @@ pictures, there’s a composition! What gallery in the world can produce
 the counterpart of that?”
 
 As the smiling gentleman thus spake, he pointed through a doorway to
-where Mr Dombey and Edith were standing alone in the centre of another
+where Mr Dombey and Edith were standing [[Alone|alone]] in the centre of another
 room.
 
 They were not interchanging a word or a look. Standing together, arm in
 arm, they had the appearance of being more divided than if seas had
-rolled between them. There was a difference even in the pride of the
+rolled between them. There was a difference even in the [[Pride|pride]] of the
 two, that removed them farther from each other, than if one had been
 the proudest and the other the humblest specimen of humanity in all
-creation. He, self-important, unbending, formal, austere. She, lovely
+creation. He, [[Self|self]]-important, unbending, formal, austere. She, lovely
 and graceful, in an uncommon degree, but totally regardless of herself
 and him and everything around, and spurning her own attractions with
 her haughty brow and lip, as if they were a badge or livery she hated.
@@ -437,17 +437,17 @@ churchman, with his hand upraised, denounced the mockery of such a
 couple coming to God’s altar. Quiet waters in landscapes, with the sun
 reflected in their depths, asked, if better means of escape were not at
 hand, was there no drowning left? Ruins cried, “Look here, and see what
-We are, wedded to uncongenial Time!” Animals, opposed by nature,
+We are, wedded to uncongenial [[Time]]!” [[Animals]], opposed by [[Nature|nature]],
 worried one another, as a moral to them. Loves and Cupids took to
-flight afraid, and Martyrdom had no such torment in its painted history
-of suffering.
+flight afraid, and [[Martyrdom]] had no such torment in its painted [[history]]
+of [[Suffering|suffering]].
 
 Nevertheless, Mrs Skewton was so charmed by the sight to which Mr
 Carker invoked her attention, that she could not refrain from saying,
-half aloud, how sweet, how very full of soul it was! Edith,
+half aloud, how sweet, how very full of [[Soul|soul]] it was! Edith,
 overhearing, looked round, and flushed indignant scarlet to her hair.
 
-“My dearest Edith knows I was admiring her!” said Cleopatra, tapping
+“My dearest Edith knows I was admiring her!” said [[Cleopatra]], tapping
 her, almost timidly, on the back with her parasol. “Sweet pet!”
 
 Again Mr Carker saw the strife he had witnessed so unexpectedly among
@@ -457,15 +457,15 @@ it, and hide it like a cloud.
 She did not raise her eyes to him; but with a slight peremptory motion
 of them, seemed to bid her mother come near. Mrs Skewton thought it
 expedient to understand the hint, and advancing quickly, with her two
-cavaliers, kept near her daughter from that time.
+cavaliers, kept near her daughter from that [[Time|time]].
 
 Mr Carker now, having nothing to distract his attention, began to
 discourse upon the pictures and to select the best, and point them out
 to Mr Dombey: speaking with his usual familiar recognition of Mr
-Dombey’s greatness, and rendering homage by adjusting his eye-glass for
+Dombey’s [[Greatness|greatness]], and rendering homage by adjusting his eye-glass for
 him, or finding out the right place in his catalogue, or holding his
 stick, or the like. These services did not so much originate with Mr
-Carker, in truth, as with Mr Dombey himself, who was apt to assert his
+Carker, in [[Truth|truth]], as with Mr Dombey himself, who was apt to assert his
 chieftainship by saying, with subdued authority, and in an easy way—for
 him—“Here, Carker, have the goodness to assist me, will you?” which the
 smiling gentleman always did with pleasure.
@@ -481,25 +481,25 @@ inspirations, she observed as a reason for that mark of rapture), he
 transferred his attentions to Mr Dombey. Mr Dombey said little beyond
 an occasional “Very true, Carker,” or “Indeed, Carker,” but he tacitly
 encouraged Carker to proceed, and inwardly approved of his behaviour
-very much: deeming it as well that somebody should talk, and thinking
+very much: deeming it as [[Well|well]] that somebody should talk, and thinking
 that his remarks, which were, as one might say, a branch of the parent
 establishment, might amuse Mrs Granger. Mr Carker, who possessed an
 excellent discretion, never took the liberty of addressing that lady,
 direct; but she seemed to listen, though she never looked at him; and
-once or twice, when he was emphatic in his peculiar humility, the
+once or twice, when he was emphatic in his peculiar [[Humility|humility]], the
 twilight smile stole over her face, not as a light, but as a deep black
-shadow.
+[[Shadow|shadow]].
 
-Warwick Castle being at length pretty well exhausted, and the Major
+Warwick [[Castle]] being at length pretty [[Well|well]] exhausted, and the Major
 very much so: to say nothing of Mrs Skewton, whose peculiar
 demonstrations of delight had become very frequent Indeed: the carriage
 was again put in requisition, and they rode to several admired points
 of view in the neighbourhood. Mr Dombey ceremoniously observed of one
-of these, that a sketch, however slight, from the fair hand of Mrs
+of these, that a [[Sketch|sketch]], however slight, from the fair hand of Mrs
 Granger, would be a remembrance to him of that agreeable day: though he
 wanted no artificial remembrance, he was sure (here Mr Dombey made
 another of his bows), which he must always highly value. Withers the
-lean having Edith’s sketch-book under his arm, was immediately called
+lean having Edith’s [[Sketch|sketch]]-book under his arm, was immediately called
 upon by Mrs Skewton to produce the same: and the carriage stopped, that
 Edith might make the drawing, which Mr Dombey was to put away among his
 treasures.
@@ -510,7 +510,7 @@ treasures.
 turning to him with the same enforced attention as before.
 
 Mr Dombey, with another bow, which cracked the starch in his cravat,
-would beg to leave that to the Artist.
+would beg to leave that to the [[artist|Artist]].
 
 “I would rather you chose for yourself,” said Edith.
 
@@ -537,7 +537,7 @@ but that its expression was plainer.
 
 Therefore the carriage was driven to the spot where Mr Dombey was to be
 charmed; and Edith, without moving from her seat, and opening her
-sketch-book with her usual proud indifference, began to sketch.
+[[Sketch|sketch]]-book with her usual proud indifference, began to [[Sketch|sketch]].
 
 “My pencils are all pointless,” she said, stopping and turning them
 over.
@@ -547,18 +547,18 @@ understands these things. Carker, have the goodness to see to these
 pencils for Mrs Granger.”
 
 Mr Carker rode up close to the carriage-door on Mrs Granger’s side, and
-letting the rein fall on his horse’s neck, took the pencils from her
-hand with a smile and a bow, and sat in the saddle leisurely mending
+letting the rein fall on his [[Horse|horse]]’s neck, took the pencils from her
+hand with a smile and a bow, and sat in the saddle leisurely [[mending]]
 them. Having done so, he begged to be allowed to hold them, and to hand
 them to her as they were required; and thus Mr Carker, with many
 commendations of Mrs Granger’s extraordinary skill—especially in
 trees—remained—close at her side, looking over the drawing as she made
 it. Mr Dombey in the meantime stood bolt upright in the carriage like a
-highly respectable ghost, looking on too; while Cleopatra and the Major
+highly respectable [[Ghost|ghost]], looking on too; while [[Cleopatra]] and the Major
 dallied as two ancient doves might do.
 
 “Are you satisfied with that, or shall I finish it a little more?” said
-Edith, showing the sketch to Mr Dombey.
+Edith, showing the [[Sketch|sketch]] to Mr Dombey.
 
 Mr Dombey begged that it might not be touched; it was perfection.
 
@@ -566,15 +566,15 @@ Mr Dombey begged that it might not be touched; it was perfection.
 gums to bear upon his praise. “I was not prepared for anything so
 beautiful, and so unusual altogether.”
 
-This might have applied to the sketcher no less than to the sketch; but
-Mr Carker’s manner was openness itself—not as to his mouth alone, but
+This might have applied to the sketcher no less than to the [[Sketch|sketch]]; but
+Mr Carker’s manner was openness itself—not as to his mouth [[Alone|alone]], but
 as to his whole spirit. So it continued to be while the drawing was
 laid aside for Mr Dombey, and while the sketching materials were put
 up; then he handed in the pencils (which were received with a distant
 acknowledgment of his help, but without a look), and tightening his
 rein, fell back, and followed the carriage again.
 
-Thinking, perhaps, as he rode, that even this trivial sketch had been
+Thinking, perhaps, as he rode, that even this trivial [[Sketch|sketch]] had been
 made and delivered to its owner, as if it had been bargained for and
 bought. Thinking, perhaps, that although she had assented with such
 perfect readiness to his request, her haughty face, bent over the
@@ -590,7 +590,7 @@ points of view: most of which, Mrs Skewton reminded Mr Dombey, Edith
 had already sketched, as he had seen in looking over her drawings:
 brought the day’s expedition to a close. Mrs Skewton and Edith were
 driven to their own lodgings; Mr Carker was graciously invited by
-Cleopatra to return thither with Mr Dombey and the Major, in the
+[[Cleopatra]] to return thither with Mr Dombey and the Major, in the
 evening, to hear some of Edith’s music; and the three gentlemen
 repaired to their hotel to dinner.
 
@@ -606,11 +606,11 @@ there; the piano was there; and Edith sang and played. But even the
 music was played by Edith to Mr Dombey’s order, as it were, in the same
 uncompromising way. As thus.
 
-“Edith, my dearest love,” said Mrs Skewton, half an hour after tea, “Mr
+“Edith, my dearest [[Love|love]],” said Mrs Skewton, half an hour after tea, “Mr
 Dombey is dying to hear you, I know.”
 
 “Mr Dombey has life enough left to say so for himself, Mama, I have no
-doubt.”
+[[Doubt|doubt]].”
 
 “I shall be immensely obliged,” said Mr Dombey.
 
@@ -629,26 +629,26 @@ mysteries of picquet, and impress itself on Mr Carker’s keen attention.
 Nor did he lose sight of the fact that Mr Dombey was evidently proud of
 his power, and liked to show it.
 
-Nevertheless, Mr Carker played so well—some games with the Major, and
-some with Cleopatra, whose vigilance of eye in respect of Mr Dombey and
+Nevertheless, Mr Carker played so [[Well|well]]—some games with the Major, and
+some with [[Cleopatra]], whose vigilance of eye in respect of Mr Dombey and
 Edith no lynx could have surpassed—that he even heightened his position
 in the lady-mother’s good graces; and when on taking leave he regretted
-that he would be obliged to return to London next morning, Cleopatra
+that he would be obliged to return to [[London]] next morning, [[Cleopatra]]
 trusted: community of feeling not being met with every day: that it was
-far from being the last time they would meet.
+far from being the last [[Time|time]] they would meet.
 
-“I hope so,” said Mr Carker, with an expressive look at the couple in
+“I [[Hope|hope]] so,” said Mr Carker, with an expressive look at the couple in
 the distance, as he drew towards the door, following the Major. “I
 think so.”
 
 Mr Dombey, who had taken a stately leave of Edith, bent, or made some
-approach to a bend, over Cleopatra’s couch, and said, in a low voice:
+approach to a bend, over [[Cleopatra]]’s couch, and said, in a low voice:
 
 “I have requested Mrs Granger’s permission to call on her to-morrow
-morning—for a purpose—and she has appointed twelve o’clock. May I hope
-to have the pleasure of finding you at home, Madam, afterwards?”
+morning—for a purpose—and she has appointed twelve o’[[Clock|clock]]. May I [[Hope|hope]]
+to have the pleasure of finding you at [[Home|home]], Madam, afterwards?”
 
-Cleopatra was so much fluttered and moved, by hearing this, of course,
+[[Cleopatra]] was so much fluttered and moved, by hearing this, of course,
 incomprehensible speech, that she could only shut her eyes, and shake
 her head, and give Mr Dombey her hand; which Mr Dombey, not exactly
 knowing what to do with, dropped.
@@ -656,28 +656,28 @@ knowing what to do with, dropped.
 “Dombey, come along!” cried the Major, looking in at the door. “Damme,
 Sir, old Joe has a great mind to propose an alteration in the name of
 the Royal Hotel, and that it should be called the Three Jolly
-Bachelors, in honour of ourselves and Carker.” With this, the Major
+Bachelors, in [[Honour|honour]] of ourselves and Carker.” With this, the Major
 slapped Mr Dombey on the back, and winking over his shoulder at the
-ladies, with a frightful tendency of blood to the head, carried him
+ladies, with a frightful tendency of [[Blood|blood]] to the head, carried him
 off.
 
 Mrs Skewton reposed on her sofa, and Edith sat apart, by her harp, in
-silence. The mother, trifling with her fan, looked stealthily at the
+[[Silence|silence]]. The mother, trifling with her fan, looked stealthily at the
 daughter more than once, but the daughter, brooding gloomily with
 downcast eyes, was not to be disturbed.
 
 Thus they remained for a long hour, without a word, until Mrs Skewton’s
-maid appeared, according to custom, to prepare her gradually for night.
-At night, she should have been a skeleton, with dart and hour-glass,
+maid appeared, according to custom, to prepare her gradually for [[Night|night]].
+At [[Night|night]], she should have been a [[skeleton]], with dart and hour-glass,
 rather than a woman, this attendant; for her touch was as the touch of
-Death. The painted object shrivelled underneath her hand; the form
+[[Death]]. The painted object shrivelled underneath her hand; the form
 collapsed, the hair dropped off, the arched dark eyebrows changed to
 scanty tufts of grey; the pale lips shrunk, the skin became cadaverous
-and loose; an old, worn, yellow, nodding woman, with red eyes, alone
-remained in Cleopatra’s place, huddled up, like a slovenly bundle, in a
+and loose; an old, worn, yellow, nodding woman, with red eyes, [[Alone|alone]]
+remained in [[Cleopatra]]’s place, huddled up, like a slovenly bundle, in a
 greasy flannel gown.
 
-The very voice was changed, as it addressed Edith, when they were alone
+The very voice was changed, as it addressed Edith, when they were [[Alone|alone]]
 again.
 
 “Why don’t you tell me,” it said sharply, “that he is coming here
@@ -693,34 +693,34 @@ even rather proud of it; he thinks that it will suit him, and may be
 had sufficiently cheap; and he will buy to-morrow. God, that I have
 lived for this, and that I feel it!”
 
-Compress into one handsome face the conscious self-abasement, and the
-burning indignation of a hundred women, strong in passion and in pride;
+Compress into one handsome face the conscious [[Self|self]]-abasement, and the
+burning indignation of a hundred women, strong in passion and in [[Pride|pride]];
 and there it hid itself with two white shuddering arms.
 
 “What do you mean?” returned the angry mother. “Haven’t you from a
-child—”
+[[Child|child]]—”
 
-“A child!” said Edith, looking at her, “when was I a child? What
-childhood did you ever leave to me? I was a woman—artful, designing,
+“A [[Child|child]]!” said Edith, looking at her, “when was I a [[Child|child]]? What
+[[Childhood|childhood]] did you ever leave to me? I was a woman—artful, designing,
 mercenary, laying snares for men—before I knew myself, or you, or even
 understood the base and wretched aim of every new display I learnt You
-gave birth to a woman. Look upon her. She is in her pride tonight.”
+gave birth to a woman. Look upon her. She is in her [[Pride|pride]] tonight.”
 
 And as she spoke, she struck her hand upon her beautiful bosom, as
 though she would have beaten down herself.
 
 “Look at me,” she said, “who have never known what it is to have an
-honest heart, and love. Look at me, taught to scheme and plot when
+honest heart, and [[Love|love]]. Look at me, taught to scheme and plot when
 children play; and married in my youth—an old age of design—to one for
 whom I had no feeling but indifference. Look at me, whom he left a
 widow, dying before his inheritance descended to him—a judgment on you!
-well deserved!—and tell me what has been my life for ten years since.”
+[[Well|well]] deserved!—and tell me what has been my life for ten years since.”
 
 “We have been making every effort to endeavour to secure to you a good
 establishment,” rejoined her mother. “That has been your life. And now
 you have got it.”
 
-“There is no slave in a market: there is no horse in a fair: so shown
+“There is no slave in a market: there is no [[Horse|horse]] in a fair: so shown
 and offered and examined and paraded, Mother, as I have been, for ten
 shameful years,” cried Edith, with a burning brow, and the same bitter
 emphasis on the one word. “Is it not so? Have I been made the bye-word
@@ -731,30 +731,30 @@ with all those false pretences: until we have almost come to be
 notorious? The licence of look and touch,” she said, with flashing
 eyes, “have I submitted to it, in half the places of resort upon the
 map of England? Have I been hawked and vended here and there, until the
-last grain of self-respect is dead within me, and I loathe myself? Has
-been my late childhood? I had none before. Do not tell me that I had,
+last grain of [[Self|self]]-respect is dead within me, and I loathe myself? Has
+been my late [[Childhood|childhood]]? I had none before. Do not tell me that I had,
 tonight of all nights in my life!”
 
-“You might have been well married,” said her mother, “twenty times at
+“You might have been [[Well|well]] married,” said her mother, “twenty times at
 least, Edith, if you had given encouragement enough.”
 
-“No! Who takes me, refuse that I am, and as I well deserve to be,” she
+“No! Who takes me, refuse that I am, and as I [[Well|well]] deserve to be,” she
 answered, raising her head, and trembling in her energy of shame and
-stormy pride, “shall take me, as this man does, with no art of mine put
-forth to lure him. He sees me at the auction, and he thinks it well to
+stormy [[Pride|pride]], “shall take me, as this man does, with no art of mine put
+forth to lure him. He sees me at the auction, and he thinks it [[Well|well]] to
 buy me. Let him! When he came to view me—perhaps to bid—he required to
 see the roll of my accomplishments. I gave it to him. When he would
 have me show one of them, to justify his purchase to his men, I require
 of him to say which he demands, and I exhibit it. I will do no more. He
 makes the purchase of his own will, and with his own sense of its
-worth, and the power of his money; and I hope it may never disappoint
+worth, and the power of his money; and I [[Hope|hope]] it may never disappoint
 him. I have not vaunted and pressed the bargain; neither have you, so
 far as I have been able to prevent you.
 
 “You talk strangely tonight, Edith, to your own Mother.”
 
 “It seems so to me; stranger to me than you,” said Edith. “But my
-education was completed long ago. I am too old now, and have fallen too
+[[Education|education]] was completed long ago. I am too old now, and have fallen too
 low, by degrees, to take a new course, and to stop yours, and to help
 myself. The germ of all that purifies a woman’s breast, and makes it
 true and good, has never stirred in mine, and I have nothing else to
@@ -771,11 +771,11 @@ side, Mother—and have not tempted this man on.”
 her way across the room, and looking round. “Shall I tell you,” she
 continued, with her eyes fixed on her mother, “who already knows us
 thoroughly, and reads us right, and before whom I have even less of
-self-respect or confidence than before my own inward self; being so
+[[Self|self]]-respect or confidence than before my own inward [[Self|self]]; being so
 much degraded by his knowledge of me?”
 
 “This is an attack, I suppose,” returned her mother coldly, “on poor,
-unfortunate what’s-his-name—Mr Carker! Your want of self-respect and
+unfortunate what’s-his-name—Mr Carker! Your want of [[Self|self]]-respect and
 confidence, my dear, in reference to that person (who is very
 agreeable, it strikes me), is not likely to have much effect on your
 establishment. Why do you look at me so hard? Are you ill?”
@@ -785,8 +785,8 @@ she pressed her hands upon it, a terrible tremble crept over her whole
 frame. It was quickly gone; and with her usual step, she passed out of
 the room.
 
-The maid who should have been a skeleton, then reappeared, and giving
+The maid who should have been a [[skeleton]], then reappeared, and giving
 one arm to her mistress, who appeared to have taken off her manner with
 her charms, and to have put on paralysis with her flannel gown,
-collected the ashes of Cleopatra, and carried them away in the other,
+collected the ashes of [[Cleopatra]], and carried them away in the other,
 ready for tomorrow’s revivification.

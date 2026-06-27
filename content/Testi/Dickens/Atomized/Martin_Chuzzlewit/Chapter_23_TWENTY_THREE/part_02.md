@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 23: TWENTY THREE (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 23: TWENTY THREE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -39,30 +39,30 @@ in the same breath with that place. Are you mad? There--God forgive
 me!--don’t think harshly of me for my temper!’
 
 After that, he turned away, and walked to and fro upon the deck full two
-hours. Nor did he speak again, except to say ‘Good night,’ until next
+hours. Nor did he speak again, except to say ‘Good [[Night|night]],’ until next
 day; nor even then upon this subject, but on other topics quite foreign
 to the purpose.
 
 As they proceeded further on their track, and came more and more towards
-their journey’s end, the monotonous desolation of the scene increased to
+their [[Journey|journey]]’s end, the monotonous desolation of the scene increased to
 that degree, that for any redeeming feature it presented to their eyes,
-they might have entered, in the body, on the grim domains of Giant
-Despair. A flat morass, bestrewn with fallen timber; a marsh on which
+they might have entered, in the [[Body|body]], on the grim domains of Giant
+[[Despair]]. A flat morass, bestrewn with fallen timber; a marsh on which
 the good growth of the earth seemed to have been wrecked and cast away,
 that from its decomposing ashes vile and ugly things might rise; where
 the very trees took the aspect of huge weeds, begotten of the slime
 from which they sprung, by the hot sun that burnt them up; where fatal
-maladies, seeking whom they might infect, came forth at night in misty
-shapes, and creeping out upon the water, hunted them like spectres until
+maladies, seeking whom they might infect, came forth at [[Night|night]] in misty
+shapes, and creeping out upon the [[Water|water]], hunted them like spectres until
 day; where even the blessed sun, shining down on festering elements
-of corruption and disease, became a horror; this was the realm of Hope
+of corruption and disease, became a horror; this was the realm of [[Hope]]
 through which they moved.
 
-At last they stopped. At Eden too. The waters of the Deluge might have
+At last they stopped. At Eden too. The waters of the [[deluge|Deluge]] might have
 left it but a week before; so choked with slime and matted growth was
 the hideous swamp which bore that name.
 
-There being no depth of water close in shore, they landed from the
+There being no depth of [[Water|water]] close in shore, they landed from the
 vessel’s boat, with all their goods beside them. There were a few
 log-houses visible among the dark trees; the best, a cow-shed or a rude
 stable; but for the wharves, the market-place, the public buildings--
@@ -75,7 +75,7 @@ leaning on a stick. As he drew nearer, they observed that he was pale
 and worn, and that his anxious eyes were deeply sunken in his head. His
 dress of homespun blue hung about him in rags; his feet and head were
 bare. He sat down on a stump half-way, and beckoned them to come to him.
-When they complied, he put his hand upon his side as if in pain, and
+When they complied, he put his hand upon his side as if in [[Pain|pain]], and
 while he fetched his breath stared at them, wondering.
 
 ‘Strangers!’ he exclaimed, as soon as he could speak.
@@ -102,17 +102,17 @@ people about, to make away with ‘em. What a comfort that is!’
 ‘No,’ cried the man. ‘You must look for such folk here,’ knocking his
 stick upon the ground, ‘or yonder in the bush, towards the north. We’ve
 buried most of ‘em. The rest have gone away. Them that we have here,
-don’t come out at night.’
+don’t come out at [[Night|night]].’
 
-‘The night air ain’t quite wholesome, I suppose?’ said Mark.
+‘The [[Night|night]] air ain’t quite wholesome, I suppose?’ said Mark.
 
-‘It’s deadly poison,’ was the settler’s answer.
+‘It’s deadly [[Poison|poison]],’ was the settler’s answer.
 
 Mark showed no more uneasiness than if it had been commended to him as
 ambrosia; but he gave the man his arm, and as they went along explained
-to him the nature of their purchase, and inquired where it lay. Close to
-his own log-house, he said; so close that he had used their dwelling
-as a store-house for some corn; they must excuse it that night, but he
+to him the [[Nature|nature]] of their purchase, and inquired where it lay. Close to
+his own log-[[house]], he said; so close that he had used their dwelling
+as a store-[[house]] for some corn; they must excuse it that [[Night|night]], but he
 would endeavour to get it taken out upon the morrow. He then gave them
 to understand, as an additional scrap of local chit-chat, that he had
 buried the last proprietor with his own hands; a piece of information
@@ -121,7 +121,7 @@ which Mark also received without the least abatement of his equanimity.
 In a word, he conducted them to a miserable cabin, rudely constructed
 of the trunks of trees; the door of which had either fallen down or
 been carried away long ago; and which was consequently open to the
-wild landscape and the dark night. Saving for the little store he had
+wild landscape and the dark [[Night|night]]. Saving for the little store he had
 mentioned, it was perfectly bare of all furniture; but they had left a
 chest upon the landing-place, and he gave them a rude torch in lieu
 of candle. This latter acquisition Mark planted in the earth, and then
@@ -131,8 +131,8 @@ landing-place and back, Mark talked incessantly; as if he would infuse
 into his partner’s breast some faint belief that they had arrived under
 the most auspicious and cheerful of all imaginable circumstances.
 
-But many a man who would have stood within a home dismantled, strong in
+But many a man who would have stood within a [[Home|home]] dismantled, strong in
 his passion and design of vengeance, has had the firmness of his
-nature conquered by the razing of an air-built castle. When the log-hut
-received them for the second time, Martin laid down upon the ground, and
+[[Nature|nature]] conquered by the razing of an air-built [[Castle|castle]]. When the log-hut
+received them for the second [[Time|time]], Martin laid down upon the ground, and
 wept aloud.

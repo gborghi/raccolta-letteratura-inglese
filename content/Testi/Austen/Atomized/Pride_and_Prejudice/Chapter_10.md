@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 10"
+title: "[[Pride and Prejudice]] — Chapter 10"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -50,10 +50,10 @@ year! Letters of business, too! How odious I should think them!”
 
 “Pray tell your sister that I long to see her.”
 
-“I have already told her so once, by your desire.”
+“I have already told her so once, by your [[Desire|desire]].”
 
 “I am afraid you do not like your pen. Let me mend it for you. I mend
-pens remarkably well.”
+pens remarkably [[Well|well]].”
 
 “Thank you--but I always mend my own.”
 
@@ -85,15 +85,15 @@ for words of four syllables. Do not you, Darcy?”
 “My style of writing is very different from yours.”
 
 “Oh,” cried Miss Bingley, “Charles writes in the most careless way
-imaginable. He leaves out half his words, and blots the rest.”
+imaginable. He [[Leaves|leaves]] out half his words, and blots the rest.”
 
-“My ideas flow so rapidly that I have not time to express them; by which
+“My ideas flow so rapidly that I have not [[Time|time]] to express them; by which
 means my letters sometimes convey no ideas at all to my correspondents.”
 
-“Your humility, Mr. Bingley,” said Elizabeth, “must disarm reproof.”
+“Your [[Humility|humility]], Mr. Bingley,” said Elizabeth, “must disarm reproof.”
 
 “Nothing is more deceitful,” said Darcy, “than the appearance of
-humility. It is often only carelessness of opinion, and sometimes an
+[[Humility|humility]]. It is often only carelessness of opinion, and sometimes an
 indirect boast.”
 
 “And which of the two do you call _my_ little recent piece of modesty?”
@@ -110,8 +110,8 @@ panegyric, of compliment to yourself; and yet what is there so very
 laudable in a precipitance which must leave very necessary business
 undone, and can be of no real advantage to yourself or anyone else?”
 
-“Nay,” cried Bingley, “this is too much, to remember at night all the
-foolish things that were said in the morning. And yet, upon my honour, I
+“Nay,” cried Bingley, “this is too much, to remember at [[Night|night]] all the
+foolish things that were said in the morning. And yet, upon my [[Honour|honour]], I
 believed what I said of myself to be true, and I believe it at this
 moment. At least, therefore, I did not assume the character of needless
 precipitance merely to show off before the ladies.”
@@ -119,7 +119,7 @@ precipitance merely to show off before the ladies.”
 “I daresay you believed it; but I am by no means convinced that you
 would be gone with such celerity. Your conduct would be quite as
 dependent on chance as that of any man I know; and if, as you were
-mounting your horse, a friend were to say, ‘Bingley, you had better stay
+mounting your [[Horse|horse]], a friend were to say, ‘Bingley, you had better stay
 till next week,’ you would probably do it--you would probably not
 go--and, at another word, might stay a month.”
 
@@ -143,7 +143,7 @@ himself.”
 “You expect me to account for opinions which you choose to call mine,
 but which I have never acknowledged. Allowing the case, however, to
 stand according to your representation, you must remember, Miss Bennet,
-that the friend who is supposed to desire his return to the house, and
+that the friend who is supposed to [[Desire|desire]] his return to the [[house]], and
 the delay of his plan, has merely desired it, asked it without offering
 one argument in favour of its propriety.”
 
@@ -154,19 +154,19 @@ with you.”
 either.”
 
 “You appear to me, Mr. Darcy, to allow nothing for the influence of
-friendship and affection. A regard for the requester would often make
+[[Friendship|friendship]] and affection. A regard for the requester would often make
 one readily yield to a request, without waiting for arguments to reason
 one into it. I am not particularly speaking of such a case as you have
-supposed about Mr. Bingley. We may as well wait, perhaps, till the
+supposed about Mr. Bingley. We may as [[Well|well]] wait, perhaps, till the
 circumstance occurs, before we discuss the discretion of his behaviour
 thereupon. But in general and ordinary cases, between friend and friend,
 where one of them is desired by the other to change a resolution of no
 very great moment, should you think ill of that person for complying
-with the desire, without waiting to be argued into it?”
+with the [[Desire|desire]], without waiting to be argued into it?”
 
 “Will it not be advisable, before we proceed on this subject, to arrange
 with rather more precision the degree of importance which is to
-appertain to this request, as well as the degree of intimacy subsisting
+appertain to this request, as [[Well|well]] as the degree of intimacy subsisting
 between the parties?”
 
 “By all means,” cried Bingley; “let us hear all the particulars, not
@@ -175,7 +175,7 @@ weight in the argument, Miss Bennet, than you may be aware of. I assure
 you that if Darcy were not such a great tall fellow, in comparison with
 myself, I should not pay him half so much deference. I declare I do not
 know a more awful object than Darcy on particular occasions, and in
-particular places; at his own house especially, and of a Sunday evening,
+particular places; at his own [[house]] especially, and of a [[Sunday]] evening,
 when he has nothing to do.”
 
 Mr. Darcy smiled; but Elizabeth thought she could perceive that he was
@@ -184,7 +184,7 @@ resented the indignity he had received, in an expostulation with her
 brother for talking such nonsense.
 
 “I see your design, Bingley,” said his friend. “You dislike an argument,
-and want to silence this.”
+and want to [[Silence|silence]] this.”
 
 “Perhaps I do. Arguments are too much like disputes. If you and Miss
 Bennet will defer yours till I am out of the room, I shall be very
@@ -209,10 +209,10 @@ admiration to so great a man, and yet that he should look at her because
 he disliked her was still more strange. She could only imagine, however,
 at last, that she drew his notice because there was something about her
 more wrong and reprehensible, according to his ideas of right, than in
-any other person present. The supposition did not pain her. She liked
+any other person present. The supposition did not [[Pain|pain]] her. She liked
 him too little to care for his approbation.
 
-After playing some Italian songs, Miss Bingley varied the charm by a
+After playing some Italian [[songs]], Miss Bingley varied the charm by a
 lively Scotch air; and soon afterwards Mr. Darcy, drawing near
 Elizabeth, said to her,--
 
@@ -220,14 +220,14 @@ Elizabeth, said to her,--
 opportunity of dancing a reel?”
 
 She smiled, but made no answer. He repeated the question, with some
-surprise at her silence.
+surprise at her [[Silence|silence]].
 
 “Oh,” said she, “I heard you before; but I could not immediately
 determine what to say in reply. You wanted me, I know, to say ‘Yes,’
 that you might have the pleasure of despising my taste; but I always
 delight in overthrowing those kind of schemes, and cheating a person of
 their premeditated contempt. I have, therefore, made up my mind to tell
-you that I do not want to dance a reel at all; and now despise me if you
+you that I do not want to [[Dance|dance]] a reel at all; and now despise me if you
 dare.”
 
 “Indeed I do not dare.”
@@ -241,12 +241,12 @@ should be in some danger.
 
 Miss Bingley saw, or suspected, enough to be jealous; and her great
 anxiety for the recovery of her dear friend Jane received some
-assistance from her desire of getting rid of Elizabeth.
+assistance from her [[Desire|desire]] of getting rid of Elizabeth.
 
 She often tried to provoke Darcy into disliking her guest, by talking of
-their supposed marriage, and planning his happiness in such an alliance.
+their supposed [[Marriage|marriage]], and planning his happiness in such an alliance.
 
-“I hope,” said she, as they were walking together in the shrubbery the
+“I [[Hope|hope]],” said she, as they were walking together in the shrubbery the
 next day, “you will give your mother-in-law a few hints, when this
 desirable event takes place, as to the advantage of holding her tongue;
 and if you can compass it, to cure the younger girls of running after
@@ -295,8 +295,8 @@ laughingly answered,--
 uncommon advantage. The picturesque would be spoilt by admitting a
 fourth. Good-bye.”
 
-She then ran gaily off, rejoicing, as she rambled about, in the hope of
-being at home again in a day or two. Jane was already so much recovered
+She then ran gaily off, rejoicing, as she rambled about, in the [[Hope|hope]] of
+being at [[Home|home]] again in a day or two. Jane was already so much recovered
 as to intend leaving her room for a couple of hours that evening.
 
 
@@ -304,6 +304,6 @@ as to intend leaving her room for a couple of hours that evening.
 
 [Illustration:
 
-     “Piling up the fire”
+     “Piling up the [[Fire|fire]]”
 
 [_Copyright 1894 by George Allen._]]

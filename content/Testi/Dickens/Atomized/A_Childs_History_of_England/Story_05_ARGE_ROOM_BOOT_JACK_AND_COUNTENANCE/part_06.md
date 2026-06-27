@@ -1,5 +1,5 @@
 ---
-title: "A Child's History of England — ARGE ROOM, BOOT-JACK AND COUNTENANCE. (part 6)"
+title: "A [[Child]]'s [[history|History]] of England — ARGE ROOM, BOOT-JACK AND COUNTENANCE. (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Child's-History-of-England-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 The mention of this latter justly celebrated clown reminds us of his last
-piece of humour, the fraudulently obtaining certain stamped acceptances
+piece of [[Humour|humour]], the fraudulently obtaining certain stamped acceptances
 from a young gentleman in the army.  We had scarcely laid down our pen to
 contemplate for a few moments this admirable actor’s performance of that
 exquisite practical joke, than a new branch of our subject flashed
@@ -45,7 +45,7 @@ never occurred to us before!
 We will frankly own that we have been much troubled with the harlequin.
 We see harlequins of so many kinds in the real living pantomime, that we
 hardly know which to select as the proper fellow of him of the theatres.
-At one time we were disposed to think that the harlequin was neither more
+At one [[Time|time]] we were disposed to think that the harlequin was neither more
 nor less than a young man of family and independent property, who had run
 away with an opera-dancer, and was fooling his life and his means away in
 light and trivial amusements.  On reflection, however, we remembered that
@@ -55,11 +55,11 @@ property, generally speaking, of any such misdemeanours.  On a more
 mature consideration of the subject, we have arrived at the conclusion
 that the harlequins of life are just ordinary men, to be found in no
 particular walk or degree, on whom a certain station, or particular
-conjunction of circumstances, confers the magic wand.  And this brings us
+conjunction of circumstances, confers the [[Magic|magic]] wand.  And this brings us
 to a few words on the pantomime of public and political life, which we
 shall say at once, and then conclude—merely premising in this place that
 we decline any reference whatever to the columbine, being in no wise
-satisfied of the nature of her connection with her parti-coloured lover,
+satisfied of the [[Nature|nature]] of her connection with her parti-coloured [[Lover|lover]],
 and not feeling by any means clear that we should be justified in
 introducing her to the virtuous and respectable ladies who peruse our
 lucubrations.
@@ -75,7 +75,7 @@ this speech is made, immediately after _the change_ too, the parallel is
 quite perfect, and still more singular.
 
 Perhaps the cast of our political pantomime never was richer than at this
-day.  We are particularly strong in clowns.  At no former time, we should
+day.  We are particularly strong in clowns.  At no former [[Time|time]], we should
 say, have we had such astonishing tumblers, or performers so ready to go
 through the whole of their feats for the amusement of an admiring throng.
 Their extreme readiness to exhibit, indeed, has given rise to some
@@ -83,23 +83,23 @@ ill-natured reflections; it having been objected that by exhibiting
 gratuitously through the country when the theatre is closed, they reduce
 themselves to the level of mountebanks, and thereby tend to degrade the
 respectability of the profession.  Certainly Grimaldi never did this sort
-of thing; and though Brown, King, and Gibson have gone to the Surrey in
-vacation time, and Mr. C. J. Smith has ruralised at Sadler’s Wells, we
+of thing; and though Brown, [[King]], and Gibson have gone to the Surrey in
+vacation [[Time|time]], and Mr. C. J. [[smith|Smith]] has ruralised at Sadler’s Wells, we
 find no theatrical precedent for a general tumbling through the country,
 except in the gentleman, name unknown, who threw summersets on behalf of
 the late Mr. Richardson, and who is no authority either, because he had
 never been on the regular boards.
 
 But, laying aside this question, which after all is a mere matter of
-taste, we may reflect with pride and gratification of heart on the
-proficiency of our clowns as exhibited in the season.  Night after night
-will they twist and tumble about, till two, three, and four o’clock in
+taste, we may reflect with [[Pride|pride]] and gratification of heart on the
+proficiency of our clowns as exhibited in the season.  [[Night]] after [[Night|night]]
+will they twist and tumble about, till two, three, and four o’[[Clock|clock]] in
 the morning; playing the strangest antics, and giving each other the
 funniest slaps on the face that can possibly be imagined, without
 evincing the smallest tokens of fatigue.  The strange noises, the
 confusion, the shouting and roaring, amid which all this is done, too,
 would put to shame the most turbulent sixpenny gallery that ever yelled
-through a boxing-night.
+through a boxing-[[Night|night]].
 
 It is especially curious to behold one of these clowns compelled to go
 through the most surprising contortions by the irresistible influence of
@@ -109,7 +109,7 @@ moving neither hand, foot, nor finger, and will even lose the faculty of
 speech at an instant’s notice; or on the other hand, he will become all
 life and animation if required, pouring forth a torrent of words without
 sense or meaning, throwing himself into the wildest and most fantastic
-contortions, and even grovelling on the earth and licking up the dust.
+contortions, and even grovelling on the earth and licking up the [[Dust|dust]].
 These exhibitions are more curious than pleasing; indeed, they are rather
 disgusting than otherwise, except to the admirers of such things, with
 whom we confess we have no fellow-feeling.

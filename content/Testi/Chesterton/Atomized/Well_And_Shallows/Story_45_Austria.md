@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — Austria"
+title: "[[Well]] And Shallows — Austria"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Well-And-Shallows-(Chesterton)"
@@ -24,14 +24,14 @@ almost as if it had been done not by barbarians but by beasts.
 Perhaps the only further fact to be noted, on that side,
 is the fact that this is the only kind of effort in which
 these clumsy people are not merely clumsy.  The Nordic man of
-the Nazi type in Germany is a very slow thinker, and incredibly
-backward and behind the times in science and philosophy.
+the Nazi type in [[Germany]] is a very slow thinker, and incredibly
+backward and behind the times in science and [[philosophy]].
 That is why, for instance, he clings to the word "Aryan,"
 as if he were his own great-grandfather laboriously poring
 over the first pages of Max Muller, under the concentrated
 stare of the astounded ethnologists of later days.
 He is slow in a great many things; as, for instance,
-in releasing prisoners who are admittedly innocent; or in
+in releasing prisoners who are admittedly [[Innocent|innocent]]; or in
 answering questions put by foreign critics or Catholic bishops.
 We have good reason to know that he is slow in paying his debts;
 to the point of ceasing to pay them.  He is very slow in bringing
@@ -40,9 +40,9 @@ the complete financial stability and the total disappearance
 of unemployment.  He is slow in a thousand things, from the
 length of his meals to the lengthiness of his metaphysics.
 But in one thing he is not slow but almost slick.  He is swift
-to shed innocent blood; he really has a certain technique in
+to shed [[Innocent|innocent]] [[Blood|blood]]; he really has a certain technique in
 the matter of murdering other people; and the prospect of this
-sport alone can move him to an animation that is almost human.
+sport [[Alone|alone]] can move him to an animation that is almost human.
 Hitler really killed quite a creditable number of people
 for one week-end holiday; and the assassination of Dollfuss
 did show some touch of that efficiency, which the Nazis once
@@ -50,7 +50,7 @@ promised to display in other fields of activity.
 
 But it is much more important to insist on the large human and historic
 matters mentioned at the beginning of this article.  Dollfuss died
-like a loyal and courageous man, asking forgiveness for his murderers;
+like a loyal and courageous man, asking [[Forgiveness|forgiveness]] for his murderers;
 and the souls of the just are in the hands of God, however much
 their enemies (with that mark of mere mud that is stamped over all
 they do) take a pleasure in denying them the help of their religion.
@@ -59,15 +59,15 @@ of something of immense moment to mankind, which is practically
 never mentioned by our politicians or our papers.  We call it for
 convenience Austria; in a sense we might more truly call it Europe;
 but, above all (for this is the vital and quite neglected fact), it would
-be strictly correct and consistent with history to call it Germany.
-The very fact that the name of "Germany" has been taken from the Austrians
-and given to the Prussians sums up the tragedy of three hundred years.
+be strictly correct and consistent with [[history]] to call it [[Germany]].
+The very fact that the name of "[[Germany]]" has been taken from the Austrians
+and given to the Prussians sums up the [[Tragedy|tragedy]] of three hundred years.
 It was the tale of the war waged by the barbarians against the Empire;
 the real original German Empire.  It began with the first Prussian
-shot in the Thirty Years' War; it ended with the shot that killed
+shot in the [[Thirty Years' War]]; it ended with the shot that killed
 the Austrian Chancellor.
 
-Whether we call it the Empire, or the Old Germany or the culture
+Whether we call it the Empire, or the Old [[Germany]] or the culture
 of the Danube, what Austria meant and means is this.
 That it is normal for Europeans, even for Germans, to be civilised;
 that it is normal for Europeans, even for Germans, to be Christians;
@@ -77,9 +77,9 @@ the north-east; and in the nineteenth century a barbarian of genius,
 named Bismarck, actually managed to transfer to Prussia the prestige
 that had always normally belonged to Austria.  That is the broad
 fact which is always left out in all modern enlightened discussion;
-for it involves two things; an elementary knowledge of history,
-which is rare, and an elementary knowledge of recent history,
-which is much rarer than a knowledge of ancient history.
+for it involves two things; an elementary knowledge of [[history]],
+which is rare, and an elementary knowledge of recent [[history]],
+which is much rarer than a knowledge of ancient [[history]].
 There is always a chance that about six politicians have heard
 of the Roman Empire; and perhaps two and a half politicians have even
 heard of the Holy Roman Empire.  Among the scholarly leader-writers

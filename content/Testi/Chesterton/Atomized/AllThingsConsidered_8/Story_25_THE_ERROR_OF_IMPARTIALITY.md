@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered-8 — THE ERROR OF IMPARTIALITY"
+title: "[[AllThingsConsidered-8]] — THE ERROR OF IMPARTIALITY"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
@@ -36,7 +36,7 @@ or creed, or notorious propaganda, then that fact certainly proves
 that he is not an impartial arbiter.  But the mere fact that he did
 form some temporary impression from the first facts as far as he
 knew them--this does not prove that he is not an impartial arbiter--
-it only proves that he is not a cold-blooded fool.
+it only proves that he is not a cold-blooded [[Fool|fool]].
 
 If we walk down the street, taking all the jurymen who have not formed
 opinions and leaving all the jurymen who have formed opinions,
@@ -44,7 +44,7 @@ it seems highly probable that we shall only succeed in taking
 all the stupid jurymen and leaving all the thoughtful ones.
 Provided that the opinion formed is really of this airy and abstract kind,
 provided that it has no suggestion of settled motive or prejudice,
-we might well regard it not merely as a promise of capacity,
+we might [[Well|well]] regard it not merely as a promise of capacity,
 but literally as a promise of justice.  The man who took the trouble
 to deduce from the police reports would probably be the man who would take
 the trouble to deduce further and different things from the evidence.
@@ -64,8 +64,8 @@ The pure and starry perfection of impartiality would be reached
 by people who not only had no opinion before they had heard
 the case, but who also had no opinion after they had heard it.
 In the same way, there is in modern discussions of religion
-and philosophy an absurd assumption that a man is in some way just
-and well-poised because he has come to no conclusion; and that a man
+and [[philosophy]] an absurd assumption that a man is in some way just
+and [[Well|well]]-poised because he has come to no conclusion; and that a man
 is in some way knocked off the list of fair judges because he has
 come to a conclusion.  It is assumed that the sceptic has no bias;
 whereas he has a very obvious bias in favour of scepticism.
@@ -75,8 +75,8 @@ absolute sanctities to him (such as the quite unproved proposition
 of the independence of matter and the quite improbable proposition
 of its power to originate mind), and he at length fell back upon
 this question, which he delivered with an honourable heat of defiance
-and indignation:  "Well, can you tell me any man of intellect,
-great in science or philosophy, who accepted the miraculous?"
+and indignation:  "[[Well]], can you tell me any man of intellect,
+great in science or [[philosophy]], who accepted the miraculous?"
 I said, "With pleasure.  Descartes, Dr. Johnson, Newton, Faraday, Newman,
 Gladstone, Pasteur, Browning, Brunetiere--as many more as you please."
 To which that quite admirable and idealistic young man made this
@@ -96,11 +96,11 @@ that he adhered to dogmatic religion proved exactly as much
 as the fact that Professor Huxley, another man of intellect,
 found that he could not adhere to dogmatic religion; that is to say
 (as I cheerfully admit), it proved precious little either way.
-If there is one class of men whom history has proved especially
+If there is one class of men whom [[history]] has proved especially
 and supremely capable of going quite wrong in all directions,
 it is the class of highly intellectual men.  I would always prefer
 to go by the bulk of humanity; that is why I am a democrat.
-But whatever be the truth about exceptional intelligence and the masses,
+But whatever be the [[Truth|truth]] about exceptional intelligence and the masses,
 it is manifestly most unreasonable that intelligent men should
 be divided upon the absurd modern principle of regarding every
 clever man who cannot make up his mind as an impartial judge,

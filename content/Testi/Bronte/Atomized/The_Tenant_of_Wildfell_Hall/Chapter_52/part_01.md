@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 52 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 52 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -90,7 +90,7 @@ her bargain afore long. They say she begins already to see ’at he isn’t
 
 not altogether that nice, generous, perlite, delightful gentleman ’at
 
-she thought him afore marriage—he begins a being careless and masterful
+she thought him afore [[Marriage|marriage]]—he begins a being careless and masterful
 
 already. Ay, and she’ll find him harder and carelesser nor she thinks
 
@@ -98,7 +98,7 @@ on.”
 
 
 
-“You seem to be well acquainted with him,” I observed.
+“You seem to be [[Well|well]] acquainted with him,” I observed.
 
 
 
@@ -114,7 +114,7 @@ grudging; so I thought I’d find another place.”
 
 
 
-“Are we not near the house?” said I, interrupting him.
+“Are we not near the [[house]]?” said I, interrupting him.
 
 
 
@@ -126,7 +126,7 @@ My heart sank within me to behold that stately mansion in the midst of
 
 its expansive grounds. The park as beautiful now, in its wintry garb,
 
-as it could be in its summer glory: the majestic sweep, the undulating
+as it could be in its [[Summer|summer]] glory: the majestic sweep, the undulating
 
 swell and fall, displayed to full advantage in that robe of dazzling
 
@@ -136,15 +136,15 @@ the trooping deer—the stately timber-trees with their heavy-laden
 
 branches gleaming white against the dull, grey sky; the deep,
 
-encircling woods; the broad expanse of water sleeping in frozen quiet;
+encircling woods; the broad expanse of [[Water|water]] sleeping in frozen quiet;
 
-and the weeping ash and willow drooping their snow-clad boughs above
+and the weeping ash and willow drooping their [[Snow|snow]]-clad boughs above
 
 it—all presented a picture, striking indeed, and pleasing to an
 
 unencumbered mind, but by no means encouraging to me. There was one
 
-comfort, however,—all this was entailed upon little Arthur, and could
+comfort, however,—all this was entailed upon little [[arthur|Arthur]], and could
 
 not under any circumstances, strictly speaking, be his mother’s. But
 
@@ -164,7 +164,7 @@ possession of her own fortune (but I knew that her father had not given
 
 her much), and the small additional sum that had been settled upon her
 
-before marriage.
+before [[Marriage|marriage]].
 
 
 
@@ -174,11 +174,11 @@ for the trial. If I should find her within—but alas! she might be still
 
 at Staningley: her brother had given me no intimation to the contrary.
 
-I inquired at the porter’s lodge if Mrs. Huntingdon were at home. No,
+I inquired at the porter’s lodge if Mrs. Huntingdon were at [[Home|home]]. No,
 
 she was with her aunt in ——shire, but was expected to return before
 
-Christmas. She usually spent most of her time at Staningley, only
+Christmas. She usually spent most of her [[Time|time]] at Staningley, only
 
 coming to Grassdale occasionally, when the management of affairs, or
 
@@ -190,13 +190,13 @@ the interest of her tenants and dependents, required her presence.
 
 information was soon obtained. “Now then, my man, give me the reins,
 
-and we’ll return to M——. I must have some breakfast at the ‘Rose and
+and we’ll return to M——. I must have some breakfast at the ‘[[Rose]] and
 
-Crown,’ and then away to Staningley by the first coach for ——.”
+[[Crown]],’ and then away to Staningley by the first coach for ——.”
 
 
 
-At M—— I had time before the coach started to replenish my forces with
+At M—— I had [[Time|time]] before the coach started to replenish my forces with
 
 a hearty breakfast, and to obtain the refreshment of my usual morning’s
 
@@ -206,11 +206,11 @@ also to despatch a short note to my mother (excellent son that I was),
 
 to assure her that I was still in existence, and to excuse my
 
-non-appearance at the expected time. It was a long journey to
+non-appearance at the expected [[Time|time]]. It was a long [[Journey|journey]] to
 
 Staningley for those slow-travelling days, but I did not deny myself
 
-needful refreshment on the road, nor even a night’s rest at a wayside
+needful refreshment on the [[Road|road]], nor even a [[Night|night]]’s rest at a wayside
 
 inn, choosing rather to brook a little delay than to present myself
 
@@ -220,12 +220,12 @@ would be astonished enough to see me without that. Next morning,
 
 therefore, I not only fortified myself with as substantial a breakfast
 
-as my excited feelings would allow me to swallow, but I bestowed a
+as my excited feelings would allow me to [[Swallow|swallow]], but I bestowed a
 
-little more than usual time and care upon my toilet; and, furnished
+little more than usual [[Time|time]] and care upon my toilet; and, furnished
 
-with a change of linen from my small carpet-bag, well-brushed clothes,
+with a change of linen from my small carpet-bag, [[Well|well]]-brushed clothes,
 
-well-polished boots, and neat new gloves, I mounted “The Lightning,”
+[[Well|well]]-polished boots, and neat new gloves, I mounted “The [[Lightning]],”
 
-and resumed my journey. I had nearly two stages yet before me, but the
+and resumed my [[Journey|journey]]. I had nearly two stages yet before me, but the

@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 64 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 64 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,22 +16,22 @@ tags:
 
 CHAPTER 64
 
-An old Acquaintance is recognised under melancholy Circumstances, and
+An old Acquaintance is recognised under [[Melancholy|melancholy]] Circumstances, and
 Dotheboys Hall breaks up for ever
 
 
 Nicholas was one of those whose joy is incomplete unless it is shared
 by the friends of adverse and less fortunate days. Surrounded by every
-fascination of love and hope, his warm heart yearned towards plain
+fascination of [[Love|love]] and [[Hope|hope]], his warm heart yearned towards plain
 John Browdie. He remembered their first meeting with a smile, and their
-second with a tear; saw poor Smike once again with the bundle on
+second with a tear; saw poor [[Smike]] once again with the bundle on
 his shoulder trudging patiently by his side; and heard the honest
 Yorkshireman’s rough words of encouragement as he left them on their
-road to London.
+[[Road|road]] to [[London]].
 
-Madeline and he sat down, very many times, jointly to produce a letter
+[[Madeline]] and he sat down, very many times, jointly to produce a letter
 which should acquaint John at full length with his altered fortunes,
-and assure him of his friendship and gratitude. It so happened, however,
+and assure him of his [[Friendship|friendship]] and gratitude. It so happened, however,
 that the letter could never be written. Although they applied themselves
 to it with the best intentions in the world, it chanced that they always
 fell to talking about something else, and when Nicholas tried it by
@@ -39,18 +39,18 @@ himself, he found it impossible to write one-half of what he wished to
 say, or to pen anything, indeed, which on reperusal did not appear cold
 and unsatisfactory compared with what he had in his mind. At last, after
 going on thus from day to day, and reproaching himself more and more,
-he resolved (the more readily as Madeline strongly urged him) to make a
+he resolved (the more readily as [[Madeline]] strongly urged him) to make a
 hasty trip into Yorkshire, and present himself before Mr. and Mrs. Browdie
 without a word of notice.
 
-Thus it was that between seven and eight o’clock one evening, he and
+Thus it was that between seven and eight o’[[Clock|clock]] one evening, he and
 Kate found themselves in the Saracen’s Head booking-office, securing
 a place to Greta Bridge by the next morning’s coach. They had to go
-westward, to procure some little necessaries for his journey, and, as it
-was a fine night, they agreed to walk there, and ride home.
+westward, to procure some little necessaries for his [[Journey|journey]], and, as it
+was a fine [[Night|night]], they agreed to walk there, and ride [[Home|home]].
 
 The place they had just been in called up so many recollections, and
-Kate had so many anecdotes of Madeline, and Nicholas so many anecdotes
+Kate had so many anecdotes of [[Madeline]], and Nicholas so many anecdotes
 of Frank, and each was so interested in what the other said, and both
 were so happy and confiding, and had so much to talk about, that it was
 not until they had plunged for a full half-hour into that labyrinth of
@@ -61,7 +61,7 @@ they might have lost their way.
 The possibility was soon converted into a certainty; for, on looking
 about, and walking first to one end of the street and then to the other,
 he could find no landmark he could recognise, and was fain to turn back
-again in quest of some place at which he could seek a direction.
+again in [[Quest|quest]] of some place at which he could seek a direction.
 
 It was a by-street, and there was nobody about, or in the few wretched
 shops they passed. Making towards a faint gleam of light which streamed
@@ -78,8 +78,8 @@ returned her brother. ‘Hush!’
 ‘You nasty, idle, vicious, good-for-nothing brute,’ cried the woman,
 stamping on the ground, ‘why don’t you turn the mangle?’
 
-‘So I am, my life and soul!’ replied the man’s voice. ‘I am always
-turning. I am perpetually turning, like a demd old horse in a demnition
+‘So I am, my life and [[Soul|soul]]!’ replied the man’s voice. ‘I am always
+turning. I am perpetually turning, like a demd old [[Horse|horse]] in a demnition
 mill. My life is one demd horrid grind!’
 
 ‘Then why don’t you go and list for a soldier?’ retorted the woman;
@@ -88,7 +88,7 @@ mill. My life is one demd horrid grind!’
 ‘For a soldier!’ cried the man. ‘For a soldier! Would his joy and
 gladness see him in a coarse red coat with a little tail? Would she hear
 of his being slapped and beat by drummers demnebly? Would she have him
-fire off real guns, and have his hair cut, and his whiskers shaved, and
+[[Fire|fire]] off real guns, and have his hair cut, and his whiskers shaved, and
 his eyes turned right and left, and his trousers pipeclayed?’
 
 ‘Dear Nicholas,’ whispered Kate, ‘you don’t know who that is. It’s Mr
@@ -112,18 +112,18 @@ Mantalini.
 ‘Oh you false traitor!’ cried the lady, threatening personal violence on
 Mr. Mantalini’s face.
 
-‘False! Oh dem! Now my soul, my gentle, captivating, bewitching, and
-most demnebly enslaving chick-a-biddy, be calm,’ said Mr. Mantalini,
+‘False! Oh dem! Now my [[Soul|soul]], my gentle, captivating, bewitching, and
+most demnebly enslaving chick-a-[[Biddy|biddy]], be calm,’ said Mr. Mantalini,
 humbly.
 
 ‘I won’t!’ screamed the woman. ‘I’ll tear your eyes out!’
 
-‘Oh! What a demd savage lamb!’ cried Mr. Mantalini.
+‘Oh! What a demd savage [[Lamb|lamb]]!’ cried Mr. Mantalini.
 
 ‘You’re never to be trusted,’ screamed the woman; ‘you were out all day
 yesterday, and gallivanting somewhere I know. You know you were! Isn’t
 it enough that I paid two pound fourteen for you, and took you out of
-prison and let you live here like a gentleman, but must you go on like
+[[Prison|prison]] and let you live here like a gentleman, but must you go on like
 this: breaking my heart besides?’
 
 ‘I will never break its heart, I will be a good boy, and never do so any

@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 9 (part 4)"
+title: "[[Don Quixote]] — Chapter 9 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 "It's been like that all along," she said.  "First they kick
 him into the gutter and then they blame him for being there.
-It's as if you hammered a child on the head till he was stunned
+It's as if you hammered a [[Child|child]] on the head till he was stunned
 and stupid and then abused him for being a dunce."
 
 "Your father," observed the visitor doubtfully, "does not strike
@@ -31,19 +31,19 @@ rather menacing voice.
 
 The question was in some sense answered, not by the person to whom it
 was addressed, but by a deep and rather guttural voice coming up the black
-well of the staircase, from somebody who was mounting the stairs.
+[[Well|well]] of the staircase, from somebody who was mounting the stairs.
 The crazy stairs creaked and even shook under him as he mounted,
 for he was a heavy man, and as he emerged into the half-light from
-the little window on the landing he seemed to fill up the whole
+the little [[Window|window]] on the landing he seemed to fill up the whole
 entrance with a bulk of big overcoat and broad shoulders.
 The face that was thus turned up to the light reminded Murrel
 for the first moment of something between a walrus and a whale;
-it was as if some deep-sea monster was rising out of the deeps
-and turning up its round and pale and fishy face like a moon.
+it was as if some deep-sea [[Monster|monster]] was rising out of the deeps
+and turning up its round and pale and fishy face like a [[Moon|moon]].
 When he looked at the man more carefully and less fancifully
 he saw that the effect came from very fair hair being very closely
 cropped in contrast with a moustache like a pair of pale tusks,
-and from the light of the window on the round spectacles.
+and from the light of the [[Window|window]] on the round spectacles.
 
 This was Dr. Gambrel, who spoke perfectly good English, but stumbled
 on the steep stairs and swore softly in some other speech.
@@ -55,12 +55,12 @@ into the room.
 "I suppose I'm a lunatic, too?"  Miss Hendry replied, "I'm quite
 ready to be anything my father is supposed to be."
 
-"Well, well, it's all very painful," said the doctor recovering his
+"[[Well]], [[Well|well]], it's all very painful," said the doctor recovering his
 composure and with it something more like a callous benevolence.
 "But there's nothing to be gained by shilly-shallying over it.
 You'd much better let me see your father at once."
 
-"Oh, very well," she replied.  "I suppose I shall have to."
+"Oh, very [[Well|well]]," she replied.  "I suppose I shall have to."
 
 She turned abruptly and opened the door which let them both
 into the little dingy room where Dr. Hendry was sitting.
@@ -73,7 +73,7 @@ the moment too fiercely flustered to define especially.
 As for the young woman, she looked at the room with a stare
 of stony astonishment.
 
-There was no other door to the room; Dr. Hendry was sitting alone
+There was no other door to the room; Dr. Hendry was sitting [[Alone|alone]]
 at his table, and Mr. Douglas Murrel had totally disappeared.
 
 Before Dr. Gambrel could remark on the fact or even become fully
@@ -91,11 +91,11 @@ owing to certain optical diseases which--"
 Dr. Gambrel had the power of the modern state, which is
 perhaps greater than that of any state, at least, so far
 as the departments over which it ranges are concerned.
-He had the power to invade this house and break up this
+He had the power to invade this [[house]] and break up this
 family and do what he liked with this member of it;
 but even he had not the power to stop him talking.
 In spite of all official efforts, Dr. Hendry's lecture
-on Colour-Blindness went on for a considerable time.
+on Colour-Blindness went on for a considerable [[Time|time]].
 It continued while the more responsible doctor edged him
 gradually towards the door, while he led him down the stairs,
 and at least until he managed to drag him out on to the doorstep.
@@ -105,28 +105,28 @@ to the lecture which had begun in the room upstairs.
 
 . . . . . . . .
 
-The cabman perched upon the ancient cab was a patient character
-and had need to be.  He had been waiting outside the house
-of the Hendrys for some time, when something happened which was
+The [[cabman]] perched upon the ancient cab was a patient character
+and had need to be.  He had been waiting outside the [[house]]
+of the Hendrys for some [[Time|time]], when something happened which was
 certainly more calculated to entertain his leisure than anything
 that had happened yet.
 
 It consisted of a gentleman apparently falling out of
 the sky on to the top of the cab, and righting himself
-with some difficulty in the act of nearly rolling off it.
+with some difficulty in the act of nearly [[rolling]] off it.
 This unexpected visitor, when eventually he came the right
-way up, revealed to the astonished cabman the face and form
+way up, revealed to the astonished [[cabman]] the face and form
 of the gentleman with whom he had had a chat recently a little
-further down the road.  A prolonged stare at the newcomer,
-followed by a prolonged stare at the window just above revealed
+further down the [[Road|road]].  A prolonged stare at the newcomer,
+followed by a prolonged stare at the [[Window|window]] just above revealed
 to the driver that the former had not actually dropped from heaven,
-but only from the window-sill. But though the incident was not
+but only from the [[Window|window]]-sill. But though the incident was not
 by definition a miracle, it was certainly something of a marvel.
-Those privileged to see Murrel fall off the window-sill
+Those privileged to see Murrel fall off the [[Window|window]]-sill
 on to the top of the hansom cab might have formed a theory
 about why he had originally been called Monkey.
 
-The cabman was still more surprised when his new companion smiled across
+The [[cabman]] was still more surprised when his new companion smiled across
 at him in an agreeable manner and said, like one resuming a conversation:
 "As I was saying--"
 

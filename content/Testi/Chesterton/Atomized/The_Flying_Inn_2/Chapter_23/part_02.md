@@ -16,7 +16,7 @@ tags:
 
 "And so," said the radiant old Turk, "the little,
 light, easily made, curly mark is substituted for the
-hard, difficult, double-made, cutting both ways mark.
+hard, difficult, [[Double|double]]-made, cutting both ways mark.
 It is the more good for hygi-e-ene.  For you must
 know, and indeed our good and wise Chemist will tell
 you, that the Saracenic and the Arabian and the Turkish
@@ -29,21 +29,21 @@ origin."
 "Yes, that is quite true," said Crooke, in his rather
 cryptic and unsympathetic way, "the powder called
 Arenine, lately popularised by Mr. Boze, now Lord
-Helvellyn, who tried it first on birds, is made of plain
-desert sand.  And what you see in prescriptions as
+Helvellyn, who tried it first on [[Birds|birds]], is made of plain
+[[Desert|desert]] sand.  And what you see in prescriptions as
 _Cannabis Indiensis_ is what our lively neighbours of
 Asia describe more energetically as bhang."
 
 "And so-o--in the sa-ame way," said Misysra, making
 soothing passes with his brown hand like a mesmerist,
 "in the sa-ame way the making of the crescent
-is hy-gienic; the making of the cross is non-hy-gienic.
+is hy-gienic; the making of the [[Cross|cross]] is non-hy-gienic.
 The crescent was a little wave, as a leaf, as
 a little curling feather," and he waved his hand with
 real artistic enthusiasm toward the capering curves of
 the new Turkish decoration which Ivywood had made
 fashionable in many of the fashionable shops.  "But
-when you make the cross you must make the one line
+when you make the [[Cross|cross]] you must make the one line
 _so-o_," and he swept the horizon with the brown hand,
 "and then you must go back and make the other line
 so-o," and he made an upward gesture suggestive of
@@ -51,9 +51,9 @@ one constrained to lift a pine-tree.  "And then you
 become very ill."
 
 "As a matter of fact, Mr. Crooke," said Ivywood,
-in his polite manner, "I brought the Prophet here to
+in his polite manner, "I brought the [[Prophet]] here to
 consult you as the best authority on the very point you
-have just mentioned--the use of hashish or the hemp-plant.  I have it on my conscience to decide whether
+have just mentioned--the use of hashish or the hemp-plant.  I have it on my [[Conscience|conscience]] to decide whether
 these oriental stimulants or sedatives shall come under
 the general veto we are attempting to impose on the
 vulgar intoxicants.  Of course one has heard of the
@@ -61,20 +61,20 @@ horrible and voluptuous visions, and a kind of insanity
 attributed to the Assassins and the Old Man of the
 Mountain.  But, on the one hand, we must clearly
 discount much for the illimitable pro-Christian bias
-with which the history of these eastern tribes is told
+with which the [[history]] of these eastern tribes is told
 in this country.  Would you say the effect of hashish
 was extremely bad?"  And he turned first to the
-Prophet.
+[[Prophet]].
 
 "You will see mosques," said that seer with candour,
 "many mosques--more mosques--taller and taller
-mosques till they reach the moon and you bear a
+mosques till they reach the [[Moon|moon]] and you bear a
 dreadful voice in the very high mosque calling the
 muezzin; and you will think it is Allah.  Then you
 will see wives--many, many wives--more wives than
 you yet have.  Then you will be rolled over and over
 in a great pink and purple sea--which is still wives.
-Then you will go to sleep.  I have only done it once,"
+Then you will go to [[Sleep|sleep]].  I have only done it once,"
 he concluded mildly.
 
 "And what do you think about hashish, Mr.
@@ -82,7 +82,7 @@ Crooke?" asked Ivywood, thoughtfully.
 
 "I think it's hemp at both ends," said the Chemist.
 
-"I fear," said Lord Ivywood, "I don't quite
+"I [[Fear|fear]]," said Lord Ivywood, "I don't quite
 understand you."
 
 "A hempen drink, a murder, and a hempen rope.
@@ -95,7 +95,7 @@ And, of course," he added, with a simplicity that had
 something noble about it, "their connection with St.
 Louis discredits them rather."
 
-After a space of silence, he said suddenly, looking
+After a space of [[Silence|silence]], he said suddenly, looking
 at Crooke, "So it isn't the sort of thing you chiefly
 sell?"
 
@@ -133,7 +133,7 @@ Hibbs coughed considerately and said, "Of course
 all our things came from the East, and"--and he
 paused, being suddenly unable to remember anything
 but curry; to which he was very rightly attached.  He
-then remembered Christianity, and mentioned that
+then remembered [[Christianity]], and mentioned that
 too.  "Everything from the East is good, of course,"
 he ended, with an air of light omniscience.
 
@@ -149,14 +149,14 @@ illogical compliment.
 
 "You are in error," he said, solemnly, to Hibbs,
 "because you say all things from the East are good.
-There is the east wind.  I do not like him.  He is not
+There is the east [[Wind|wind]].  I do not like him.  He is not
 good.  And I think very much that all the warmth and
-all the wealthiness and the colours and the poems and
+all the wealthiness and the colours and the [[Poems|poems]] and
 the religiousness that the East was meant to give you
 have been much poisoned by this accident, this east
-wind.  When you see the green flag of the Prophet,
-you do not think of a green field in Summer, you think
-of a green wave in your seas of Winter; for you think
-it blown by the east wind.  When you read of the
-moon-faced houris you think not of our moons like
+[[Wind|wind]].  When you see the green [[Flag|flag]] of the [[Prophet]],
+you do not think of a green field in [[Summer]], you think
+of a green wave in your seas of [[Winter]]; for you think
+it blown by the east [[Wind|wind]].  When you read of the
+[[Moon|moon]]-faced houris you think not of our moons like
 oranges but of your moons like snowballs--"

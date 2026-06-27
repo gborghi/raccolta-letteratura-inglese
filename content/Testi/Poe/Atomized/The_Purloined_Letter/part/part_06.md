@@ -1,5 +1,5 @@
 ---
-title: "The Purloined Letter (part 6)"
+title: "[[The Purloined Letter]] (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Purloined-Letter-(Poe)"
@@ -14,16 +14,16 @@ tags:
 </nav>
 
 
-      “Yes,” said I, “I remember his merriment well. I really thought
+      “Yes,” said I, “I remember his merriment [[Well|well]]. I really thought
       he would have fallen into convulsions.”
 
       “The material world,” continued Dupin, “abounds with very strict
-      analogies to the immaterial; and thus some color of truth has
+      analogies to the immaterial; and thus some color of [[Truth|truth]] has
       been given to the rhetorical dogma, that metaphor, or simile, may
-      be made to strengthen an argument, as well as to embellish a
+      be made to strengthen an argument, as [[Well|well]] as to embellish a
       description. The principle of the vis inertiæ, for example, seems
       to be identical in physics and metaphysics. It is not more true
-      in the former, that a large body is with more difficulty set in
+      in the former, that a large [[Body|body]] is with more difficulty set in
       motion than a smaller one, and that its subsequent momentum is
       commensurate with this difficulty, than it is, in the latter,
       that intellects of the vaster capacity, while more forcible, more
@@ -38,7 +38,7 @@ tags:
 
       “There is a game of puzzles,” he resumed, “which is played upon a
       map. One party playing requires another to find a given word—the
-      name of town, river, state or empire—any word, in short, upon the
+      name of town, [[River|river]], state or empire—any word, in short, upon the
       motley and perplexed surface of the chart. A novice in the game
       generally seeks to embarrass his opponents by giving them the
       most minutely lettered names; but the adept selects such words as
@@ -48,7 +48,7 @@ tags:
       obvious; and here the physical oversight is precisely analogous
       with the moral inapprehension by which the intellect suffers to
       pass unnoticed those considerations which are too obtrusively and
-      too palpably self-evident. But this is a point, it appears,
+      too palpably [[Self|self]]-evident. But this is a point, it appears,
       somewhat above or beneath the understanding of the Prefect. He
       never once thought it probable, or possible, that the Minister
       had deposited the letter immediately beneath the nose of the
@@ -66,7 +66,7 @@ tags:
 
       “Full of these ideas, I prepared myself with a pair of green
       spectacles, and called one fine morning, quite by accident, at
-      the Ministerial hotel. I found D—— at home, yawning, lounging,
+      the Ministerial hotel. I found D—— at [[Home|home]], yawning, lounging,
       and dawdling, as usual, and pretending to be in the last
       extremity of ennui. He is, perhaps, the most really energetic
       human being now alive—but that is only when nobody sees him.
@@ -103,7 +103,7 @@ tags:
       black, with the D—— cipher; there it was small and red, with the
       ducal arms of the S—— family. Here, the address, to the Minister,
       diminutive and feminine; there the superscription, to a certain
-      royal personage, was markedly bold and decided; the size alone
+      royal personage, was markedly bold and decided; the size [[Alone|alone]]
       formed a point of correspondence. But, then, the radicalness of
       these differences, which was excessive; the dirt; the soiled and
       torn condition of the paper, so inconsistent with the true

@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 11"
+title: "[[Pride and Prejudice]] — Chapter 11"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -20,12 +20,12 @@ CHAPTER XI.
 [Illustration]
 
 When the ladies removed after dinner Elizabeth ran up to her sister, and
-seeing her well guarded from cold, attended her into the drawing-room,
+seeing her [[Well|well]] guarded from cold, attended her into the drawing-room,
 where she was welcomed by her two friends with many professions of
 pleasure; and Elizabeth had never seen them so agreeable as they were
 during the hour which passed before the gentlemen appeared. Their powers
 of conversation were considerable. They could describe an entertainment
-with accuracy, relate an anecdote with humour, and laugh at their
+with accuracy, relate an anecdote with [[Humour|humour]], and laugh at their
 acquaintance with spirit.
 
 But when the gentlemen entered, Jane was no longer the first object;
@@ -34,8 +34,8 @@ something to say to him before he had advanced many steps. He addressed
 himself directly to Miss Bennet with a polite congratulation; Mr. Hurst
 also made her a slight bow, and said he was “very glad;” but diffuseness
 and warmth remained for Bingley’s salutation. He was full of joy and
-attention. The first half hour was spent in piling up the fire, lest she
-should suffer from the change of room; and she removed, at his desire,
+attention. The first half hour was spent in piling up the [[Fire|fire]], lest she
+should suffer from the change of room; and she removed, at his [[Desire|desire]],
 to the other side of the fireplace, that she might be farther from the
 door. He then sat down by her, and talked scarcely to anyone else.
 Elizabeth, at work in the opposite corner, saw it all with great
@@ -45,9 +45,9 @@ When tea was over Mr. Hurst reminded his sister-in-law of the
 card-table--but in vain. She had obtained private intelligence that Mr.
 Darcy did not wish for cards, and Mr. Hurst soon found even his open
 petition rejected. She assured him that no one intended to play, and the
-silence of the whole party on the subject seemed to justify her. Mr.
+[[Silence|silence]] of the whole party on the subject seemed to justify her. Mr.
 Hurst had, therefore, nothing to do but to stretch himself on one of the
-sofas and go to sleep. Darcy took up a book. Miss Bingley did the same;
+sofas and go to [[Sleep|sleep]]. Darcy took up a book. Miss Bingley did the same;
 and Mrs. Hurst, principally occupied in playing with her bracelets and
 rings, joined now and then in her brother’s conversation with Miss
 Bennet.
@@ -61,15 +61,15 @@ amused with her own book, which she had only chosen because it was the
 second volume of his, she gave a great yawn and said, “How pleasant it
 is to spend an evening in this way! I declare, after all, there is no
 enjoyment like reading! How much sooner one tires of anything than of a
-book! When I have a house of my own, I shall be miserable if I have not
+book! When I have a [[house]] of my own, I shall be miserable if I have not
 an excellent library.”
 
 No one made any reply. She then yawned again, threw aside her book, and
-cast her eyes round the room in quest of some amusement; when, hearing
+cast her eyes round the room in [[Quest|quest]] of some amusement; when, hearing
 her brother mentioning a ball to Miss Bennet, she turned suddenly
 towards him and said,--
 
-“By the bye Charles, are you really serious in meditating a dance at
+“By the bye Charles, are you really serious in meditating a [[Dance|dance]] at
 Netherfield? I would advise you, before you determine on it, to consult
 the wishes of the present party; I am much mistaken if there are not
 some among us to whom a ball would be rather a punishment than a
@@ -90,7 +90,7 @@ day.”
 near so much like a ball.”
 
 Miss Bingley made no answer, and soon afterwards got up and walked about
-the room. Her figure was elegant, and she walked well; but Darcy, at
+the room. Her figure was elegant, and she walked [[Well|well]]; but Darcy, at
 whom it was all aimed, was still inflexibly studious. In the
 desperation of her feelings, she resolved on one effort more; and,
 turning to Elizabeth, said,--
@@ -123,7 +123,7 @@ the evening because you are in each other’s confidence, and have secret
 affairs to discuss, or because you are conscious that your figures
 appear to the greatest advantage in walking: if the first, I should be
 completely in your way; and if the second, I can admire you much better
-as I sit by the fire.”
+as I sit by the [[Fire|fire]].”
 
 “Oh, shocking!” cried Miss Bingley. “I never heard anything so
 abominable. How shall we punish him for such a speech?”
@@ -132,15 +132,15 @@ abominable. How shall we punish him for such a speech?”
 can all plague and punish one another. Tease him--laugh at him. Intimate
 as you are, you must know how it is to be done.”
 
-“But upon my honour I do _not_. I do assure you that my intimacy has not
+“But upon my [[Honour|honour]] I do _not_. I do assure you that my intimacy has not
 yet taught me _that_. Tease calmness of temper and presence of mind! No,
 no; I feel he may defy us there. And as to laughter, we will not expose
 ourselves, if you please, by attempting to laugh without a subject. Mr.
 Darcy may hug himself.”
 
 “Mr. Darcy is not to be laughed at!” cried Elizabeth. “That is an
-uncommon advantage, and uncommon I hope it will continue, for it would
-be a great loss to _me_ to have many such acquaintance. I dearly love a
+uncommon advantage, and uncommon I [[Hope|hope]] it will continue, for it would
+be a great loss to _me_ to have many such acquaintance. I dearly [[Love|love]] a
 laugh.”
 
 “Miss Bingley,” said he, “has given me credit for more than can be. The
@@ -148,8 +148,8 @@ wisest and best of men,--nay, the wisest and best of their actions,--may
 be rendered ridiculous by a person whose first object in life is a
 joke.”
 
-“Certainly,” replied Elizabeth, “there are such people, but I hope I am
-not one of _them_. I hope I never ridicule what is wise or good. Follies
+“Certainly,” replied Elizabeth, “there are such people, but I [[Hope|hope]] I am
+not one of _them_. I [[Hope|hope]] I never ridicule what is wise or good. Follies
 and nonsense, whims and inconsistencies, _do_ divert me, I own, and I
 laugh at them whenever I can. But these, I suppose, are precisely what
 you are without.”
@@ -158,10 +158,10 @@ you are without.”
 my life to avoid those weaknesses which often expose a strong
 understanding to ridicule.”
 
-“Such as vanity and pride.”
+“Such as [[Vanity|vanity]] and [[Pride|pride]].”
 
-“Yes, vanity is a weakness indeed. But pride--where there is a real
-superiority of mind--pride will be always under good regulation.”
+“Yes, [[Vanity|vanity]] is a weakness indeed. But [[Pride|pride]]--where there is a real
+superiority of mind--[[Pride|pride]] will be always under good regulation.”
 
 Elizabeth turned away to hide a smile.
 
@@ -172,7 +172,7 @@ Elizabeth turned away to hide a smile.
 himself without disguise.”
 
 “No,” said Darcy, “I have made no such pretension. I have faults enough,
-but they are not, I hope, of understanding. My temper I dare not vouch
+but they are not, I [[Hope|hope]], of understanding. My temper I dare not vouch
 for. It is, I believe, too little yielding; certainly too little for the
 convenience of the world. I cannot forget the follies and vices of
 others so soon as I ought, nor their offences against myself. My
@@ -181,11 +181,11 @@ would perhaps be called resentful. My good opinion once lost is lost for
 ever.”
 
 “_That_ is a failing, indeed!” cried Elizabeth. “Implacable resentment
-_is_ a shade in a character. But you have chosen your fault well. I
+_is_ a shade in a character. But you have chosen your fault [[Well|well]]. I
 really cannot _laugh_ at it. You are safe from me.”
 
 “There is, I believe, in every disposition a tendency to some particular
-evil, a natural defect, which not even the best education can overcome.”
+evil, a natural defect, which not even the best [[Education|education]] can overcome.”
 
 “And _your_ defect is a propensity to hate everybody.”
 

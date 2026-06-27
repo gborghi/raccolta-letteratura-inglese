@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 7"
+title: "[[The Professor]] — Chapter 7"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -22,7 +22,7 @@ READER, perhaps you were never in Belgium? Haply you don’t know the
 
 physiognomy of the country? You have not its lineaments defined upon
 
-your memory, as I have them on mine?
+your [[Memory|memory]], as I have them on mine?
 
 
 
@@ -32,9 +32,9 @@ me the records of the past. First, Eton. All in that picture is in far
 
 perspective, receding, diminutive; but freshly coloured, green, dewy,
 
-with a spring sky, piled with glittering yet showery clouds; for my
+with a [[spring]] sky, piled with glittering yet showery clouds; for my
 
-childhood was not all sunshine--it had its overcast, its cold, its
+[[Childhood|childhood]] was not all sunshine--it had its overcast, its cold, its
 
 stormy hours. Second, X----, huge, dingy; the canvas cracked and smoked;
 
@@ -56,9 +56,9 @@ that whenever uttered has in my ear a sound, in my heart an echo, such
 
 as no other assemblage of syllables, however sweet or classic, can
 
-produce. Belgium! I repeat the word, now as I sit alone near midnight.
+produce. Belgium! I repeat the word, now as I sit [[Alone|alone]] near midnight.
 
-It stirs my world of the past like a summons to resurrection; the graves
+It stirs my world of the past like a summons to [[Resurrection|resurrection]]; the graves
 
 unclose, the dead are raised; thoughts, feelings, memories that slept,
 
@@ -78,7 +78,7 @@ This is Belgium, reader. Look! don’t call the picture a flat or a dull
 
 one--it was neither flat nor dull to me when I first beheld it. When I
 
-left Ostend on a mild February morning, and found myself on the road
+left Ostend on a mild February morning, and found myself on the [[Road|road]]
 
 to Brussels, nothing could look vapid to me. My sense of enjoyment
 
@@ -86,15 +86,15 @@ possessed an edge whetted to the finest, untouched, keen, exquisite.
 
 I was young; I had good health; pleasure and I had never met; no
 
-indulgence of hers had enervated or sated one faculty of my nature.
+indulgence of hers had enervated or sated one faculty of my [[Nature|nature]].
 
-Liberty I clasped in my arms for the first time, and the influence of
+Liberty I clasped in my arms for the first [[Time|time]], and the influence of
 
-her smile and embrace revived my life like the sun and the west wind.
+her smile and embrace revived my life like the sun and the west [[Wind|wind]].
 
 Yes, at that epoch I felt like a morning traveller who doubts not that
 
-from the hill he is ascending he shall behold a glorious sunrise; what
+from the [[Hill|hill]] he is ascending he shall behold a glorious sunrise; what
 
 if the track be strait, steep, and stony? he sees it not; his eyes are
 
@@ -112,11 +112,11 @@ and warm as flame. Difficulty and toil were to be my lot, but sustained
 
 by energy, drawn on by hopes as bright as vague, I deemed such a lot
 
-no hardship. I mounted now the hill in shade; there were pebbles,
+no hardship. I mounted now the [[Hill|hill]] in shade; there were pebbles,
 
 inequalities, briars in my path, but my eyes were fixed on the crimson
 
-peak above; my imagination was with the refulgent firmament beyond, and
+peak above; my [[Imagination|imagination]] was with the refulgent firmament beyond, and
 
 I thought nothing of the stones turning under my feet, or of the thorns
 
@@ -124,11 +124,11 @@ scratching my face and hands.
 
 
 
-I gazed often, and always with delight, from the window of the diligence
+I gazed often, and always with delight, from the [[Window|window]] of the diligence
 
 (these, be it remembered, were not the days of trains and railroads).
 
-Well! and what did I see? I will tell you faithfully. Green, reedy
+[[Well]]! and what did I see? I will tell you faithfully. Green, reedy
 
 swamps; fields fertile but flat, cultivated in patches that made them
 
@@ -136,9 +136,9 @@ look like magnified kitchen-gardens; belts of cut trees, formal as
 
 pollard willows, skirting the horizon; narrow canals, gliding slow by
 
-the road-side; painted Flemish farmhouses; some very dirty hovels; a
+the [[Road|road]]-side; painted Flemish farmhouses; some very dirty hovels; a
 
-gray, dead sky; wet road, wet fields, wet house-tops: not a beautiful,
+gray, dead sky; wet [[Road|road]], wet fields, wet [[house]]-tops: not a beautiful,
 
 scarcely a picturesque object met my eye along the whole route; yet to
 
@@ -152,13 +152,13 @@ recommenced, and it was through streaming and starless darkness my eye
 
 caught the first gleam of the lights of Brussels. I saw little of the
 
-city but its lights that night. Having alighted from the diligence, a
+[[City|city]] but its lights that [[Night|night]]. Having alighted from the diligence, a
 
 fiacre conveyed me to the Hotel de ----, where I had been advised by a
 
 fellow-traveller to put up; having eaten a traveller’s supper, I retired
 
-to bed, and slept a traveller’s sleep.
+to bed, and slept a traveller’s [[Sleep|sleep]].
 
 
 
@@ -168,35 +168,35 @@ that I was yet in X----, and perceiving it to be broad daylight I
 
 started up, imagining that I had overslept myself and should be behind
 
-time at the counting-house. The momentary and painful sense of restraint
+[[Time|time]] at the counting-[[house]]. The momentary and painful sense of restraint
 
-vanished before the revived and reviving consciousness of freedom, as,
+vanished before the revived and reviving consciousness of [[Freedom|freedom]], as,
 
 throwing back the white curtains of my bed, I looked forth into a wide,
 
 lofty foreign chamber; how different from the small and dingy, though
 
-not uncomfortable, apartment I had occupied for a night or two at a
+not uncomfortable, apartment I had occupied for a [[Night|night]] or two at a
 
-respectable inn in London while waiting for the sailing of the packet!
+respectable inn in [[London]] while waiting for the sailing of the packet!
 
-Yet far be it from me to profane the memory of that little dingy room!
+Yet far be it from me to profane the [[Memory|memory]] of that little dingy room!
 
-It, too, is dear to my soul; for there, as I lay in quiet and darkness,
+It, too, is dear to my [[Soul|soul]]; for there, as I lay in quiet and darkness,
 
-I first heard the great bell of St. Paul’s telling London it was
+I first heard the great bell of St. Paul’s telling [[London]] it was
 
-midnight, and well do I recall the deep, deliberate tones, so full
+midnight, and [[Well|well]] do I recall the deep, deliberate tones, so full
 
-charged with colossal phlegm and force. From the small, narrow window
+charged with colossal phlegm and force. From the small, narrow [[Window|window]]
 
-of that room, I first saw THE dome, looming through a London mist. I
+of that room, I first saw THE dome, looming through a [[London]] mist. I
 
 suppose the sensations, stirred by those first sounds, first sights, are
 
-felt but once; treasure them, Memory; seal them in urns, and keep them
+felt but once; treasure them, [[Memory]]; seal them in urns, and keep them
 
-in safe niches! Well--I rose. Travellers talk of the apartments in
+in safe niches! [[Well]]--I [[Rose|rose]]. Travellers talk of the apartments in
 
 foreign dwellings being bare and uncomfortable; I thought my chamber
 
@@ -204,7 +204,7 @@ looked stately and cheerful. It had such large windows--CROISEES that
 
 opened like doors, with such broad, clear panes of glass; such a great
 
-looking-glass stood on my dressing-table--such a fine mirror glittered
+looking-glass stood on my dressing-table--such a fine [[Mirror|mirror]] glittered
 
 over the mantelpiece--the painted floor looked so clean and glossy;
 
@@ -252,7 +252,7 @@ mouths of Frenchmen, or Belgians (I was not then sensible of the horrors
 
 of the Belgian accent) was as music to my ears. One of these gentlemen
 
-presently discerned me to be an Englishman--no doubt from the fashion in
+presently discerned me to be an Englishman--no [[Doubt|doubt]] from the fashion in
 
 which I addressed the waiter; for I would persist in speaking French in
 
@@ -262,9 +262,9 @@ The gentleman, after looking towards me once or twice, politely accosted
 
 me in very good English; I remember I wished to God that I could speak
 
-French as well; his fluency and correct pronunciation impressed me for
+French as [[Well|well]]; his fluency and correct pronunciation impressed me for
 
-the first time with a due notion of the cosmopolitan character of the
+the first [[Time|time]] with a due notion of the cosmopolitan character of the
 
 capital I was in; it was my first experience of that skill in living
 
@@ -290,9 +290,9 @@ without a master when duty issued her stern mandate: “Go forth and seek
 
 another service.” I never linger over a painful and necessary task; I
 
-never take pleasure before business, it is not in my nature to do so;
+never take pleasure before business, it is not in my [[Nature|nature]] to do so;
 
-impossible to enjoy a leisurely walk over the city, though I perceived
+impossible to enjoy a leisurely walk over the [[City|city]], though I perceived
 
 the morning was very fine, until I had first presented Mr. Hunsden’s
 
@@ -300,7 +300,7 @@ letter of introduction, and got fairly on to the track of a new
 
 situation. Wrenching my mind from liberty and delight, I seized my hat,
 
-and forced my reluctant body out of the Hotel de ---- into the foreign
+and forced my reluctant [[Body|body]] out of the Hotel de ---- into the foreign
 
 street.
 
@@ -320,7 +320,7 @@ asked for Mr. Brown, and was admitted.
 
 Being shown into a small breakfast-room, I found myself in the
 
-presence of an elderly gentleman--very grave, business-like, and
+presence of an elderly gentleman--very [[Grave|grave]], business-like, and
 
 respectable-looking. I presented Mr. Hunsden’s letter; he received me
 
@@ -330,15 +330,15 @@ was anything in which his advice or experience could be of use. I said,
 
 “Yes,” and then proceeded to tell him that I was not a gentleman of
 
-fortune, travelling for pleasure, but an ex-counting-house clerk, who
+fortune, travelling for pleasure, but an ex-counting-[[house]] clerk, who
 
 wanted employment of some kind, and that immediately too. He replied
 
 that as a friend of Mr. Hunsden’s he would be willing to assist me as
 
-well as he could. After some meditation he named a place in a mercantile
+[[Well|well]] as he could. After some meditation he named a place in a mercantile
 
-house at Liege, and another in a bookseller’s shop at Louvain.
+[[house]] at Liege, and another in a bookseller’s shop at Louvain.
 
 
 
@@ -370,7 +370,7 @@ I thought two minutes, then I seized the idea eagerly.
 
 
 
-“But,” asked he, “do you understand French well enough to teach Belgian
+“But,” asked he, “do you understand French [[Well|well]] enough to teach Belgian
 
 boys English?”
 
@@ -380,7 +380,7 @@ Fortunately I could answer this question in the affirmative;
 
 having studied French under a Frenchman, I could speak the language
 
-intelligibly though not fluently. I could also read it well, and write
+intelligibly though not fluently. I could also read it [[Well|well]], and write
 
 it decently.
 
@@ -388,9 +388,9 @@ it decently.
 
 “Then,” pursued Mr. Brown, “I think I can promise you the place, for
 
-Monsieur Pelet will not refuse a professor recommended by me; but come
+[[Monsieur Pelet]] will not refuse a professor recommended by me; but come
 
-here again at five o’clock this afternoon, and I will introduce you to
+here again at five o’[[Clock|clock]] this afternoon, and I will introduce you to
 
 him.”
 
@@ -406,13 +406,13 @@ that is all.”
 
 
 
-My conscience thus quieted, I thanked Mr. Brown, and, for the present,
+My [[Conscience|conscience]] thus quieted, I thanked Mr. Brown, and, for the present,
 
-withdrew. This time I stepped out into the street with a relieved heart;
+withdrew. This [[Time|time]] I stepped out into the street with a relieved heart;
 
 the task I had imposed on myself for that day was executed. I might now
 
-take some hours of holiday. I felt free to look up. For the first time
+take some hours of holiday. I felt free to look up. For the first [[Time|time]]
 
 I remarked the sparkling clearness of the air, the deep blue of the sky,
 
@@ -432,15 +432,15 @@ top of the great staircase just beyond, and I looked down into a narrow
 
 back street, which I afterwards learnt was called the Rue d’Isabelle.
 
-I well recollect that my eye rested on the green door of a rather large
+I [[Well|well]] recollect that my eye rested on the green door of a rather large
 
-house opposite, where, on a brass plate, was inscribed, “Pensionnat de
+[[house]] opposite, where, on a brass plate, was inscribed, “Pensionnat de
 
 Demoiselles.” Pensionnat! The word excited an uneasy sensation in
 
 my mind; it seemed to speak of restraint. Some of the demoiselles,
 
-externats no doubt, were at that moment issuing from the door--I looked
+externats no [[Doubt|doubt]], were at that moment issuing from the door--I looked
 
 for a pretty face amongst them, but their close, little French bonnets
 
@@ -448,13 +448,13 @@ hid their features; in a moment they were gone.
 
 
 
-I had traversed a good deal of Brussels before five o’clock arrived,
+I had traversed a good deal of Brussels before five o’[[Clock|clock]] arrived,
 
 but punctually as that hour struck I was again in the Rue Royale.
 
 Re-admitted to Mr. Brown’s breakfast-room, I found him, as before,
 
-seated at the table, and he was not alone--a gentleman stood by the
+seated at the table, and he was not [[Alone|alone]]--a gentleman stood by the
 
 hearth. Two words of introduction designated him as my future master.
 
@@ -466,7 +466,7 @@ ordinary one, I suppose, for I was in a tranquil, commonplace frame of
 
 mind; I felt none of the agitation which had troubled my first interview
 
-with Edward Crimsworth. M. Pelet’s bow was extremely polite, yet not
+with [[Edward Crimsworth]]. M. Pelet’s bow was extremely polite, yet not
 
 theatrical, scarcely French; he and I were presently seated opposite to
 
@@ -492,7 +492,7 @@ was fixed at one thousand francs per annum, besides board and lodging.
 
 in each day during which your services will not be required in my
 
-establishment, you may, in time, obtain employment in other seminaries,
+establishment, you may, in [[Time|time]], obtain employment in other seminaries,
 
 and thus turn your vacant moments to profitable account.”
 
@@ -510,7 +510,7 @@ post the very next day, after which M. Pelet and I parted.
 
 
 
-Well, and what was he like? and what were my impressions concerning him?
+[[Well]], and what was he like? and what were my impressions concerning him?
 
 He was a man of about forty years of age, of middle size, and rather
 
@@ -524,7 +524,7 @@ and parentage), yet the degree of harshness inseparable from Gallic
 
 lineaments was, in his case, softened by a mild blue eye, and a
 
-melancholy, almost suffering, expression of countenance; his physiognomy
+[[Melancholy|melancholy]], almost [[Suffering|suffering]], expression of countenance; his physiognomy
 
 was “fine et spirituelle.” I use two French words because they define
 
@@ -548,17 +548,17 @@ Influenced by the impression I had received of his gentleness, I was a
 
 good deal surprised when, on arriving the next day at my new employer’s
 
-house, and being admitted to a first view of what was to be the
+[[house]], and being admitted to a first view of what was to be the
 
-sphere of my future labours, namely the large, lofty, and well-lighted
+sphere of my future labours, namely the large, lofty, and [[Well|well]]-lighted
 
 schoolrooms, I beheld a numerous assemblage of pupils, boys of course,
 
 whose collective appearance showed all the signs of a full, flourishing,
 
-and well-disciplined seminary. As I traversed the classes in company
+and [[Well|well]]-disciplined seminary. As I traversed the classes in company
 
-with M. Pelet, a profound silence reigned on all sides, and if by chance
+with M. Pelet, a profound [[Silence|silence]] reigned on all sides, and if by chance
 
 a murmur or a whisper arose, one glance from the pensive eye of this
 
@@ -582,7 +582,7 @@ The proposal was unexpected. I had thought I should have been allowed at
 
 least three days to prepare; but it is a bad omen to commence any career
 
-by hesitation, so I just stepped to the professor’s desk near which we
+by hesitation, so I just stepped to [[The Professor|the professor]]’s desk near which we
 
 stood, and faced the circle of my pupils. I took a moment to collect
 
@@ -596,7 +596,7 @@ proposed to open business. I made it as short as possible:--
 
 
 
-“Anglais ou Francais, monsieur?” demanded a thickset, moon-faced young
+“Anglais ou Francais, monsieur?” demanded a thickset, [[Moon|moon]]-faced young
 
 Flamand in a blouse. The answer was fortunately easy:--
 
@@ -622,7 +622,7 @@ position, and I proceeded to employ means accordingly.
 
 “Commencez!” cried I, when they had all produced their books. The
 
-moon-faced youth (by name Jules Vanderkelkov, as I afterwards learnt)
+[[Moon|moon]]-faced youth (by name Jules Vanderkelkov, as I afterwards learnt)
 
 took the first sentence. The “livre de lecture” was the “Vicar of
 
@@ -640,11 +640,11 @@ said in his throat and nose, for it is thus the Flamands speak, but
 
 I heard him to the end of his paragraph without proffering a word of
 
-correction, whereat he looked vastly self-complacent, convinced,
+correction, whereat he looked vastly [[Self|self]]-complacent, convinced,
 
-no doubt, that he had acquitted himself like a real born and bred
+no [[Doubt|doubt]], that he had acquitted himself like a real born and bred
 
-“Anglais.” In the same unmoved silence I listened to a dozen in
+“Anglais.” In the same unmoved [[Silence|silence]] I listened to a dozen in
 
 rotation, and when the twelfth had concluded with splutter, hiss, and
 
@@ -676,9 +676,9 @@ were not pleased, I saw, but they were impressed, and in the way
 
 I wished them to be. Having thus taken them down a peg in their
 
-self-conceit, the next step was to raise myself in their estimation; not
+[[Self|self]]-conceit, the next step was to raise myself in their estimation; not
 
-a very easy thing, considering that I hardly dared to speak for fear of
+a very easy thing, considering that I hardly dared to speak for [[Fear|fear]] of
 
 betraying my own deficiencies.
 
@@ -696,9 +696,9 @@ the “Vicar of Wakefield,” and read, in a slow, distinct voice, some
 
 twenty pages, they all the while sitting mute and listening with fixed
 
-attention; by the time I had done nearly an hour had elapsed. I then
+attention; by the [[Time|time]] I had done nearly an hour had elapsed. I then
 
-rose and said:--
+[[Rose|rose]] and said:--
 
 
 
@@ -728,7 +728,7 @@ From the parlour M. Pelet conducted me to my apartment, my “chambre,”
 
 room, with an excessively small bed, but M. Pelet gave me to understand
 
-that I was to occupy it quite alone, which was of course a great
+that I was to occupy it quite [[Alone|alone]], which was of course a great
 
 comfort. Yet, though so limited in dimensions, it had two windows. Light
 
@@ -762,13 +762,13 @@ I did was to scrutinize closely the nailed boards, hoping to find
 
 some chink or crevice which I might enlarge, and so get a peep at the
 
-consecrated ground. My researches were vain, for the boards were well
+consecrated ground. My researches were vain, for the boards were [[Well|well]]
 
 joined and strongly nailed. It is astonishing how disappointed I felt. I
 
 thought it would have been so pleasant to have looked out upon a
 
-garden planted with flowers and trees, so amusing to have watched the
+[[Garden|garden]] planted with [[Flowers|flowers]] and trees, so amusing to have watched the
 
 demoiselles at their play; to have studied female character in a variety
 
@@ -778,33 +778,33 @@ curtain, whereas, owing doubtless to the absurd scruples of some old
 
 duenna of a directress, I had now only the option of looking at a bare
 
-gravelled court, with an enormous “pas de geant” in the middle, and the
+gravelled [[Court|court]], with an enormous “pas de geant” in the middle, and the
 
-monotonous walls and windows of a boys’ school-house round. Not only
+monotonous walls and windows of a boys’ school-[[house]] round. Not only
 
-then, but many a time after, especially in moments of weariness and
+then, but many a [[Time|time]] after, especially in moments of weariness and
 
 low spirits, did I look with dissatisfied eyes on that most tantalizing
 
-board, longing to tear it away and get a glimpse of the green region
+board, [[Longing|longing]] to tear it away and get a glimpse of the green region
 
 which I imagined to lie beyond. I knew a tree grew close up to the
 
-window, for though there were as yet no leaves to rustle, I often heard
+[[Window|window]], for though there were as yet no [[Leaves|leaves]] to rustle, I often heard
 
-at night the tapping of branches against the panes. In the daytime,
+at [[Night|night]] the tapping of branches against the panes. In the daytime,
 
 when I listened attentively, I could hear, even through the boards, the
 
 voices of the demoiselles in their hours of recreation, and, to speak
 
-the honest truth, my sentimental reflections were occasionally a trifle
+the honest [[Truth|truth]], my sentimental reflections were occasionally a trifle
 
 disarranged by the not quite silvery, in fact the too often brazen
 
 sounds, which, rising from the unseen paradise below, penetrated
 
-clamorously into my solitude. Not to mince matters, it really seemed to
+clamorously into my [[Solitude|solitude]]. Not to mince matters, it really seemed to
 
 me a doubtful case whether the lungs of Mdlle. Reuter’s girls or those
 
@@ -812,7 +812,7 @@ of M. Pelet’s boys were the strongest, and when it came to shrieking
 
 the girls indisputably beat the boys hollow. I forgot to say, by-the-by,
 
-that Reuter was the name of the old lady who had had my window bearded
+that Reuter was the name of the old lady who had had my [[Window|window]] bearded
 
 up. I say old, for such I, of course, concluded her to be, judging from
 
@@ -820,7 +820,7 @@ her cautious, chaperon-like proceedings; besides, nobody ever spoke of
 
 her as young. I remember I was very much amused when I first heard her
 
-Christian name; it was Zoraide--Mademoiselle Zoraide Reuter. But the
+Christian name; it was Zoraide--Mademoiselle [[Zoraide Reuter]]. But the
 
 continental nations do allow themselves vagaries in the choice of names,
 
@@ -880,7 +880,7 @@ recoiled with repugnance from any occupation that demanded close study
 
 or deep thought. Had the abhorred effort been extorted from them by
 
-injudicious and arbitrary measures on the part of the Professor, they
+injudicious and arbitrary measures on the part of [[The Professor|the Professor]], they
 
 would have resisted as obstinately, as clamorously, as desperate swine;
 
@@ -918,7 +918,7 @@ learning, remove every pebble from the track; but then you must finally
 
 insist with decision on the pupil taking your arm and allowing himself
 
-to be led quietly along the prepared road. When I had brought down my
+to be led quietly along the prepared [[Road|road]]. When I had brought down my
 
 lesson to the lowest level of my dullest pupil’s capacity--when I
 
@@ -934,6 +934,6 @@ and my influence, by degrees, became established on a firm basis. “The
 
 boy is father to the man,” it is said; and so I often thought when
 
-looked at my boys and remembered the political history of their
+looked at my boys and remembered the political [[history]] of their
 
 ancestors. Pelet’s school was merely an epitome of the Belgian nation.

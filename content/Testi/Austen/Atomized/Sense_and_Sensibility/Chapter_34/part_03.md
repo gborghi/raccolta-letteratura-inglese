@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 34 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 34 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -40,7 +40,7 @@ her last landscape is done!”
 
 
 
-“Beautifully indeed! But _she_ does every thing well.”
+“Beautifully indeed! But _she_ does every thing [[Well|well]].”
 
 
 
@@ -80,7 +80,7 @@ Fanny looked very angry too, and her husband was all in a fright at his
 
 sister’s audacity. Elinor was much more hurt by Marianne’s warmth than
 
-she had been by what produced it; but Colonel Brandon’s eyes, as they
+she had been by what produced it; but [[Colonel Brandon]]’s eyes, as they
 
 were fixed on Marianne, declared that he noticed only what was amiable
 
@@ -114,9 +114,9 @@ unhappy.”
 
 She could say no more; her spirits were quite overcome, and hiding her
 
-face on Elinor’s shoulder, she burst into tears. Every body’s attention
+face on Elinor’s shoulder, she burst into [[Tears|tears]]. Every [[Body|body]]’s attention
 
-was called, and almost every body was concerned.—Colonel Brandon rose
+was called, and almost every [[Body|body]] was concerned.—[[Colonel Brandon]] [[Rose|rose]]
 
 up and went to them without knowing what he did.—Mrs. Jennings, with a
 
@@ -140,7 +140,7 @@ the impression of what had passed, the whole evening.
 
 
 
-“Poor Marianne!” said her brother to Colonel Brandon, in a low voice,
+“Poor Marianne!” said her brother to [[Colonel Brandon]], in a low voice,
 
 as soon as he could secure his attention: “She has not such good health
 
@@ -148,7 +148,7 @@ as her sister,—she is very nervous,—she has not Elinor’s
 
 constitution;—and one must allow that there is something very trying to
 
-a young woman who _has been_ a beauty in the loss of her personal
+a young woman who _has been_ a [[Beauty|beauty]] in the loss of her personal
 
 attractions. You would not think it perhaps, but Marianne _was_
 

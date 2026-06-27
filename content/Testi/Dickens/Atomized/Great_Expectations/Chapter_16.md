@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 16"
+title: "[[Great Expectations]] — Chapter 16"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -26,19 +26,19 @@ to reconsider the matter and to hear it discussed around me on all
 sides, I took another view of the case, which was more reasonable.
 
 Joe had been at the Three Jolly Bargemen, smoking his pipe, from a
-quarter after eight o’clock to a quarter before ten. While he was
+quarter after eight o’[[Clock|clock]] to a quarter before ten. While he was
 there, my sister had been seen standing at the kitchen door, and had
-exchanged Good Night with a farm-labourer going home. The man could not
-be more particular as to the time at which he saw her (he got into
+exchanged Good [[Night]] with a farm-labourer going [[Home|home]]. The man could not
+be more particular as to the [[Time|time]] at which he saw her (he got into
 dense confusion when he tried to be), than that it must have been
-before nine. When Joe went home at five minutes before ten, he found
+before nine. When Joe went [[Home|home]] at five minutes before ten, he found
 her struck down on the floor, and promptly called in assistance. The
-fire had not then burnt unusually low, nor was the snuff of the candle
+[[Fire|fire]] had not then burnt unusually low, nor was the snuff of the candle
 very long; the candle, however, had been blown out.
 
-Nothing had been taken away from any part of the house. Neither, beyond
+Nothing had been taken away from any part of the [[house]]. Neither, beyond
 the blowing out of the candle,—which stood on a table between the door
-and my sister, and was behind her when she stood facing the fire and
+and my sister, and was behind her when she stood facing the [[Fire|fire]] and
 was struck,—was there any disarrangement of the kitchen, excepting such
 as she herself had made, in falling and bleeding. But, there was one
 remarkable piece of evidence on the spot. She had been struck with
@@ -48,13 +48,13 @@ violence, as she lay on her face. And on the ground beside her, when
 Joe picked her up, was a convict’s leg-iron which had been filed
 asunder.
 
-Now, Joe, examining this iron with a smith’s eye, declared it to have
-been filed asunder some time ago. The hue and cry going off to the
+Now, Joe, examining this iron with a [[smith]]’s eye, declared it to have
+been filed asunder some [[Time|time]] ago. The hue and cry going off to the
 Hulks, and people coming thence to examine the iron, Joe’s opinion was
 corroborated. They did not undertake to say when it had left the
-prison-ships to which it undoubtedly had once belonged; but they
+[[Prison|prison]]-ships to which it undoubtedly had once belonged; but they
 claimed to know for certain that that particular manacle had not been
-worn by either of the two convicts who had escaped last night. Further,
+worn by either of the two convicts who had escaped last [[Night|night]]. Further,
 one of those two was already retaken, and had not freed himself of his
 iron.
 
@@ -80,7 +80,7 @@ look round.
 It was horrible to think that I had provided the weapon, however
 undesignedly, but I could hardly think otherwise. I suffered
 unspeakable trouble while I considered and reconsidered whether I
-should at last dissolve that spell of my childhood and tell Joe all the
+should at last dissolve that spell of my [[Childhood|childhood]] and tell Joe all the
 story. For months afterwards, I every day settled the question finally
 in the negative, and reopened and reargued it next morning. The
 contention came, after all, to this;—the secret was such an old one
@@ -88,15 +88,15 @@ now, had so grown into me and become a part of myself, that I could not
 tear it away. In addition to the dread that, having led up to so much
 mischief, it would be now more likely than ever to alienate Joe from me
 if he believed it, I had a further restraining dread that he would not
-believe it, but would assort it with the fabulous dogs and veal-cutlets
+believe it, but would assort it with the fabulous [[dogs]] and veal-cutlets
 as a monstrous invention. However, I temporized with myself, of
 course—for, was I not wavering between right and wrong, when the thing
 is always done?—and resolved to make a full disclosure if I should see
 any such new occasion as a new chance of helping in the discovery of
 the assailant.
 
-The Constables and the Bow Street men from London—for, this happened in
-the days of the extinct red-waistcoated police—were about the house for
+The Constables and the Bow Street men from [[London]]—for, this happened in
+the days of the extinct red-waistcoated police—were about the [[house]] for
 a week or two, and did pretty much what I have heard and read of like
 authorities doing in other such cases. They took up several obviously
 wrong people, and they ran their heads very hard against wrong ideas,
@@ -110,7 +110,7 @@ taking the culprit. But not quite, for they never did it.
 Long after these constitutional powers had dispersed, my sister lay
 very ill in bed. Her sight was disturbed, so that she saw objects
 multiplied, and grasped at visionary teacups and wineglasses instead of
-the realities; her hearing was greatly impaired; her memory also; and
+the realities; her hearing was greatly impaired; her [[Memory|memory]] also; and
 her speech was unintelligible. When, at last, she came round so far as
 to be helped downstairs, it was still necessary to keep my slate always
 by her, that she might indicate in writing what she could not indicate
@@ -125,20 +125,20 @@ However, her temper was greatly improved, and she was patient. A
 tremulous uncertainty of the action of all her limbs soon became a part
 of her regular state, and afterwards, at intervals of two or three
 months, she would often put her hands to her head, and would then
-remain for about a week at a time in some gloomy aberration of mind. We
+remain for about a week at a [[Time|time]] in some gloomy aberration of mind. We
 were at a loss to find a suitable attendant for her, until a
 circumstance happened conveniently to relieve us. Mr. Wopsle’s
 great-aunt conquered a confirmed habit of living into which she had
-fallen, and Biddy became a part of our establishment.
+fallen, and [[Biddy]] became a part of our establishment.
 
 It may have been about a month after my sister’s reappearance in the
-kitchen, when Biddy came to us with a small speckled box containing the
+kitchen, when [[Biddy]] came to us with a small speckled box containing the
 whole of her worldly effects, and became a blessing to the household.
 Above all, she was a blessing to Joe, for the dear old fellow was sadly
 cut up by the constant contemplation of the wreck of his wife, and had
 been accustomed, while attending on her of an evening, to turn to me
 every now and then and say, with his blue eyes moistened, “Such a fine
-figure of a woman as she once were, Pip!” Biddy instantly taking the
+figure of a woman as she once were, Pip!” [[Biddy]] instantly taking the
 cleverest charge of her as though she had studied her from infancy; Joe
 became able in some sort to appreciate the greater quiet of his life,
 and to get down to the Jolly Bargemen now and then for a change that
@@ -147,7 +147,7 @@ all more or less suspected poor Joe (though he never knew it), and that
 they had to a man concurred in regarding him as one of the deepest
 spirits they had ever encountered.
 
-Biddy’s first triumph in her new office, was to solve a difficulty that
+[[Biddy]]’s first triumph in her new office, was to solve a difficulty that
 had completely vanquished me. I had tried hard at it, but had made
 nothing of it. Thus it was:—
 
@@ -165,16 +165,16 @@ displayed it to my sister with considerable confidence. But she shook
 her head to that extent when she was shown it, that we were terrified
 lest in her weak and shattered state she should dislocate her neck.
 
-When my sister found that Biddy was very quick to understand her, this
-mysterious sign reappeared on the slate. Biddy looked thoughtfully at
+When my sister found that [[Biddy]] was very quick to understand her, this
+mysterious sign reappeared on the slate. [[Biddy]] looked thoughtfully at
 it, heard my explanation, looked thoughtfully at my sister, looked
 thoughtfully at Joe (who was always represented on the slate by his
 initial letter), and ran into the forge, followed by Joe and me.
 
-“Why, of course!” cried Biddy, with an exultant face. “Don’t you see?
+“Why, of course!” cried [[Biddy]], with an exultant face. “Don’t you see?
 It’s _him_!”
 
-Orlick, without a doubt! She had lost his name, and could only signify
+Orlick, without a [[Doubt|doubt]]! She had lost his name, and could only signify
 him by his hammer. We told him why we wanted him to come into the
 kitchen, and he slowly laid down his hammer, wiped his brow with his
 arm, took another wipe at it with his apron, and came slouching out,
@@ -187,9 +187,9 @@ anxiety to be on good terms with him, was evidently much pleased by his
 being at length produced, and motioned that she would have him given
 something to drink. She watched his countenance as if she were
 particularly wishful to be assured that he took kindly to his
-reception, she showed every possible desire to conciliate him, and
+reception, she showed every possible [[Desire|desire]] to conciliate him, and
 there was an air of humble propitiation in all she did, such as I have
-seen pervade the bearing of a child towards a hard master. After that
+seen pervade the bearing of a [[Child|child]] towards a hard master. After that
 day, a day rarely passed without her drawing the hammer on her slate,
 and without Orlick’s slouching in and standing doggedly before her, as
 if he knew no more than I did what to make of it.

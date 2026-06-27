@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 57: THE EMIGRANTS (part 1)"
+title: "[[David Copperfield]] — Chapter 57: THE EMIGRANTS (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -20,24 +20,24 @@ CHAPTER 57. THE EMIGRANTS
 One thing more, I had to do, before yielding myself to the shock of
 these emotions. It was, to conceal what had occurred, from those who
 were going away; and to dismiss them on their voyage in happy ignorance.
-In this, no time was to be lost.
+In this, no [[Time|time]] was to be lost.
 
-I took Mr. Micawber aside that same night, and confided to him the
+I took Mr. Micawber aside that same [[Night|night]], and confided to him the
 task of standing between Mr. Peggotty and intelligence of the late
 catastrophe. He zealously undertook to do so, and to intercept any
 newspaper through which it might, without such precautions, reach him.
 
 ‘If it penetrates to him, sir,’ said Mr. Micawber, striking himself on
-the breast, ‘it shall first pass through this body!’
+the breast, ‘it shall first pass through this [[Body|body]]!’
 
 Mr. Micawber, I must observe, in his adaptation of himself to a new
 state of society, had acquired a bold buccaneering air, not absolutely
-lawless, but defensive and prompt. One might have supposed him a child
+lawless, but defensive and prompt. One might have supposed him a [[Child|child]]
 of the wilderness, long accustomed to live out of the confines of
 civilization, and about to return to his native wilds.
 
 He had provided himself, among other things, with a complete suit of
-oilskin, and a straw hat with a very low crown, pitched or caulked on
+oilskin, and a straw hat with a very low [[Crown|crown]], pitched or caulked on
 the outside. In this rough clothing, with a common mariner’s telescope
 under his arm, and a shrewd trick of casting up his eye at the sky
 as looking out for dirty weather, he was far more nautical, after his
@@ -56,16 +56,16 @@ direction, and to ‘tumble up’, or sing out, ‘Yeo--Heave--Yeo!’ on the
 shortest notice.
 
 Thus Traddles and I found them at nightfall, assembled on the wooden
-steps, at that time known as Hungerford Stairs, watching the departure
+steps, at that [[Time|time]] known as Hungerford Stairs, watching the departure
 of a boat with some of their property on board. I had told Traddles of
 the terrible event, and it had greatly shocked him; but there could be
-no doubt of the kindness of keeping it a secret, and he had come to help
+no [[Doubt|doubt]] of the kindness of keeping it a secret, and he had come to help
 me in this last service. It was here that I took Mr. Micawber aside, and
 received his promise.
 
 The Micawber family were lodged in a little, dirty, tumble-down
-public-house, which in those days was close to the stairs, and whose
-protruding wooden rooms overhung the river. The family, as emigrants,
+public-[[house]], which in those days was close to the stairs, and whose
+protruding wooden rooms overhung the [[River|river]]. The family, as emigrants,
 being objects of some interest in and about Hungerford, attracted so
 many beholders, that we were glad to take refuge in their room. It was
 one of the wooden chambers upstairs, with the tide flowing underneath.
@@ -76,10 +76,10 @@ before her, that had now outlived so much.
 
 It was not easy to answer her inquiries; still less to whisper Mr.
 Peggotty, when Mr. Micawber brought him in, that I had given the letter,
-and all was well. But I did both, and made them happy. If I showed any
+and all was [[Well|well]]. But I did both, and made them happy. If I showed any
 trace of what I felt, my own sorrows were sufficient to account for it.
 
-‘And when does the ship sail, Mr. Micawber?’ asked my aunt.
+‘And when does the [[Ship|ship]] sail, Mr. Micawber?’ asked my aunt.
 
 Mr. Micawber considered it necessary to prepare either my aunt or his
 wife, by degrees, and said, sooner than he had expected yesterday.
@@ -88,13 +88,13 @@ wife, by degrees, and said, sooner than he had expected yesterday.
 
 ‘It did, ma’am,’ he returned.
 
-‘Well?’ said my aunt. ‘And she sails--’
+‘[[Well]]?’ said my aunt. ‘And she sails--’
 
 ‘Madam,’ he replied, ‘I am informed that we must positively be on board
 before seven tomorrow morning.’
 
 ‘Heyday!’ said my aunt, ‘that’s soon. Is it a sea-going fact, Mr.
-Peggotty?’ ‘’Tis so, ma’am. She’ll drop down the river with that theer
+Peggotty?’ ‘’Tis so, ma’am. She’ll drop down the [[River|river]] with that theer
 tide. If Mas’r Davy and my sister comes aboard at Gravesen’, arternoon
 o’ next day, they’ll see the last on us.’
 
@@ -102,8 +102,8 @@ o’ next day, they’ll see the last on us.’
 
 ‘Until then, and until we are at sea,’ observed Mr. Micawber, with a
 glance of intelligence at me, ‘Mr. Peggotty and myself will constantly
-keep a double look-out together, on our goods and chattels. Emma, my
-love,’ said Mr. Micawber, clearing his throat in his magnificent way,
+keep a [[Double|double]] look-out together, on our goods and chattels. [[Emma]], my
+[[Love|love]],’ said Mr. Micawber, clearing his throat in his magnificent way,
 ‘my friend Mr. Thomas Traddles is so obliging as to solicit, in my ear,
 that he should have the privilege of ordering the ingredients necessary
 to the composition of a moderate portion of that Beverage which is
@@ -113,19 +113,19 @@ scruple to entreat the indulgence of Miss Trotwood and Miss Wickfield,
 but-’
 
 ‘I can only say for myself,’ said my aunt, ‘that I will drink all
-happiness and success to you, Mr. Micawber, with the utmost pleasure.’
+happiness and [[success]] to you, Mr. Micawber, with the utmost pleasure.’
 
 ‘And I too!’ said Agnes, with a smile.
 
 Mr. Micawber immediately descended to the bar, where he appeared to be
-quite at home; and in due time returned with a steaming jug. I could
+quite at [[Home|home]]; and in due [[Time|time]] returned with a steaming jug. I could
 not but observe that he had been peeling the lemons with his own
 clasp-knife, which, as became the knife of a practical settler, was
 about a foot long; and which he wiped, not wholly without ostentation,
 on the sleeve of his coat. Mrs. Micawber and the two elder members
 of the family I now found to be provided with similar formidable
-instruments, while every child had its own wooden spoon attached to its
-body by a strong line. In a similar anticipation of life afloat, and in
+instruments, while every [[Child|child]] had its own wooden spoon attached to its
+[[Body|body]] by a strong line. In a similar anticipation of life afloat, and in
 the Bush, Mr. Micawber, instead of helping Mrs. Micawber and his eldest
 son and daughter to punch, in wine-glasses, which he might easily have
 done, for there was a shelf-full in the room, served it out to them in a

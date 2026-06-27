@@ -19,7 +19,7 @@ tags:
 ‘Ah—h!’ said Mrs. Sparsit, shaking her head over her tea-cup, and taking
 a long gulp.
 
-‘Mr. Thomas, ma’am, I doubt Mr. Thomas very much, ma’am, I don’t like his
+‘Mr. Thomas, ma’am, I [[Doubt|doubt]] Mr. Thomas very much, ma’am, I don’t like his
 ways at all.’
 
 ‘Bitzer,’ said Mrs. Sparsit, in a very impressive manner, ‘do you
@@ -37,9 +37,9 @@ have received every acknowledgment of my social station, and every
 recognition of my family descent, that I could possibly expect.  More,
 far more.  Therefore, to my patron I will be scrupulously true.  And I do
 not consider, I will not consider, I cannot consider,’ said Mrs. Sparsit,
-with a most extensive stock on hand of honour and morality, ‘that I
+with a most extensive stock on hand of [[Honour|honour]] and [[morality]], ‘that I
 _should_ be scrupulously true, if I allowed names to be mentioned under
-this roof, that are unfortunately—most unfortunately—no doubt of
+this roof, that are unfortunately—most unfortunately—no [[Doubt|doubt]] of
 that—connected with his.’
 
 Bitzer knuckled his forehead again, and again begged pardon.
@@ -57,15 +57,15 @@ at the point where it had been interrupted.
 ‘An individual, ma’am,’ said Bitzer, ‘has never been what he ought to
 have been, since he first came into the place.  He is a dissipated,
 extravagant idler.  He is not worth his salt, ma’am.  He wouldn’t get it
-either, if he hadn’t a friend and relation at court, ma’am!’
+either, if he hadn’t a friend and relation at [[Court|court]], ma’am!’
 
-‘Ah—h!’ said Mrs. Sparsit, with another melancholy shake of her head.
+‘Ah—h!’ said Mrs. Sparsit, with another [[Melancholy|melancholy]] shake of her head.
 
-‘I only hope, ma’am,’ pursued Bitzer, ‘that his friend and relation may
+‘I only [[Hope|hope]], ma’am,’ pursued Bitzer, ‘that his friend and relation may
 not supply him with the means of carrying on.  Otherwise, ma’am, we know
 out of whose pocket _that_ money comes.’
 
-‘Ah—h!’ sighed Mrs. Sparsit again, with another melancholy shake of her
+‘Ah—h!’ sighed Mrs. Sparsit again, with another [[Melancholy|melancholy]] shake of her
 head.
 
 ‘He is to be pitied, ma’am.  The last party I have alluded to, is to be
@@ -79,7 +79,7 @@ nearer, ‘he is as improvident as any of the people in this town.  And you
 know what _their_ improvidence is, ma’am.  No one could wish to know it
 better than a lady of your eminence does.’
 
-‘They would do well,’ returned Mrs. Sparsit, ‘to take example by you,
+‘They would do [[Well|well]],’ returned Mrs. Sparsit, ‘to take example by you,
 Bitzer.’
 
 ‘Thank you, ma’am.  But, since you do refer to me, now look at me, ma’am.
@@ -90,7 +90,7 @@ ma’am?  What one person can do, another can do.’
 
 This, again, was among the fictions of Coketown.  Any capitalist there,
 who had made sixty thousand pounds out of sixpence, always professed to
-wonder why the sixty thousand nearest Hands didn’t each make sixty
+[[Wonder|wonder]] why the sixty thousand nearest Hands didn’t each make sixty
 thousand pounds out of sixpence, and more or less reproached them every
 one for not accomplishing the little feat.  What I did you can do.  Why
 don’t you go and do it?
@@ -98,7 +98,7 @@ don’t you go and do it?
 ‘As to their wanting recreations, ma’am,’ said Bitzer, ‘it’s stuff and
 nonsense.  _I_ don’t want recreations.  I never did, and I never shall; I
 don’t like ’em.  As to their combining together; there are many of them,
-I have no doubt, that by watching and informing upon one another could
+I have no [[Doubt|doubt]], that by watching and informing upon one another could
 earn a trifle now and then, whether in money or good will, and improve
 their livelihood.  Then, why don’t they improve it, ma’am!  It’s the
 first consideration of a rational creature, and it’s what they pretend to
@@ -122,7 +122,7 @@ the person I most like to feed.”’
 
 ‘Thank you, ma’am,’ said Bitzer, knuckling his forehead again, in return
 for the favour of Mrs. Sparsit’s improving conversation.  ‘Would you wish
-a little more hot water, ma’am, or is there anything else that I could
+a little more hot [[Water|water]], ma’am, or is there anything else that I could
 fetch you?’
 
 ‘Nothing just now, Bitzer.’
@@ -132,9 +132,9 @@ particularly tea, knowing your partiality for it,’ said Bitzer, craning a
 little to look over into the street from where he stood; ‘but there’s a
 gentleman been looking up here for a minute or so, ma’am, and he has come
 across as if he was going to knock.  That _is_ his knock, ma’am, no
-doubt.’
+[[Doubt|doubt]].’
 
-He stepped to the window; and looking out, and drawing in his head again,
+He stepped to the [[Window|window]]; and looking out, and drawing in his head again,
 confirmed himself with, ‘Yes, ma’am.  Would you wish the gentleman to be
 shown in, ma’am?’
 
@@ -143,7 +143,7 @@ arranging her mittens.
 
 ‘A stranger, ma’am, evidently.’
 
-‘What a stranger can want at the Bank at this time of the evening, unless
+‘What a stranger can want at the Bank at this [[Time|time]] of the evening, unless
 he comes upon some business for which he is too late, I don’t know,’ said
 Mrs. Sparsit, ‘but I hold a charge in this establishment from Mr.
 Bounderby, and I will never shrink from it.  If to see him is any part of

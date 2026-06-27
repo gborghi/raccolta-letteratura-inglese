@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-The council downstairs are in full conclave all this time, and, having
+The council downstairs are in full conclave all this [[Time|time]], and, having
 nothing to do, perform perfect feats of eating. At length, they are one
-day summoned in a body to Mrs Pipchin’s room, and thus addressed by the
+day summoned in a [[Body|body]] to Mrs Pipchin’s room, and thus addressed by the
 fair Peruvian:
 
 “Your master’s in difficulties,” says Mrs Pipchin, tartly. “You know
@@ -36,7 +36,7 @@ looking with a fiery eye over the intermediate heads.
 pray?”
 
 “Why, then you may go as soon as you like,” says Mrs Pipchin. “The
-sooner the better; and I hope I shall never see your face again.”
+sooner the better; and I [[Hope|hope]] I shall never see your face again.”
 
 With this the doughty Pipchin produces a canvas bag; and tells her
 wages out to that day, and a month beyond it; and clutches the money
@@ -61,20 +61,20 @@ confederation.
 
 Mr Towlinson then says that, in the first place, he would beg to
 propose a little snack of something to eat; and over that snack would
-desire to offer a suggestion which he thinks will meet the position in
+[[Desire|desire]] to offer a suggestion which he thinks will meet the position in
 which they find themselves. The refreshment being produced, and very
 heartily partaken of, Mr Towlinson’s suggestion is, in effect, that
 Cook is going, and that if we are not true to ourselves, nobody will be
-true to us. That they have lived in that house a long time, and exerted
+true to us. That they have lived in that [[house]] a long [[Time|time]], and exerted
 themselves very much to be sociable together. (At this, Cook says, with
 emotion, “Hear, hear!” and Mrs Perch, who is there again, and full to
-the throat, sheds tears.) And that he thinks, at the present time, the
+the throat, sheds [[Tears|tears]].) And that he thinks, at the present [[Time|time]], the
 feeling ought to be “Go one, go all!” The housemaid is much affected by
 this generous sentiment, and warmly seconds it. Cook says she feels
 it’s right, and only hopes it’s not done as a compliment to her, but
 from a sense of duty. Mr Towlinson replies, from a sense of duty; and
 that now he is driven to express his opinions, he will openly say, that
-he does not think it over-respectable to remain in a house where Sales
+he does not think it over-respectable to remain in a [[house]] where Sales
 and such-like are carrying forwards. The housemaid is sure of it; and
 relates, in confirmation, that a strange man, in a carpet cap, offered,
 this very morning, to kiss her on the stairs. Hereupon, Mr Towlinson is
@@ -91,13 +91,13 @@ with several pious axioms, original and selected. It becomes a clear
 case that they must all go. Boxes are packed, cabs fetched, and at dusk
 that evening there is not one member of the party left.
 
-The house stands, large and weather-proof, in the long dull street; but
+The [[house]] stands, large and weather-proof, in the long dull street; but
 it is a ruin, and the rats fly from it.
 
 The men in the carpet caps go on tumbling the furniture about; and the
 gentlemen with the pens and ink make out inventories of it, and sit
 upon pieces of furniture never made to be sat upon, and eat bread and
-cheese from the public-house on other pieces of furniture never made to
+[[cheese]] from the public-[[house]] on other pieces of furniture never made to
 be eaten on, and seem to have a delight in appropriating precious
 articles to strange uses. Chaotic combinations of furniture also take
 place. Mattresses and bedding appear in the dining-room; the glass and
@@ -109,19 +109,19 @@ similar appendage graces either side of the hall door.
 
 Then, all day long, there is a retinue of mouldy gigs and chaise-carts
 in the street; and herds of shabby vampires, Jew and Christian,
-over-run the house, sounding the plate-glass mirrors with their
+over-run the [[house]], sounding the plate-glass mirrors with their
 knuckles, striking discordant octaves on the Grand Piano, drawing wet
 forefingers over the pictures, breathing on the blades of the best
 dinner-knives, punching the squabs of chairs and sofas with their dirty
 fists, touzling the feather beds, opening and shutting all the drawers,
 balancing the silver spoons and forks, looking into the very threads of
 the drapery and linen, and disparaging everything. There is not a
-secret place in the whole house. Fluffy and snuffy strangers stare into
+secret place in the whole [[house]]. Fluffy and snuffy strangers stare into
 the kitchen-range as curiously as into the attic clothes-press. Stout
 men with napless hats on, look out of the bedroom windows, and cut
 jokes with friends in the street. Quiet, calculating spirits withdraw
 into the dressing-rooms with catalogues, and make marginal notes
 thereon, with stumps of pencils. Two brokers invade the very
-fire-escape, and take a panoramic survey of the neighbourhood from the
-top of the house. The swarm and buzz, and going up and down, endure for
+[[Fire|fire]]-escape, and take a panoramic survey of the neighbourhood from the
+top of the [[house]]. The swarm and buzz, and going up and down, endure for
 days. The Capital Modern Household Furniture, &c., is on view.

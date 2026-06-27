@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 36 (part 7)"
+title: "[[Shirley]] — Chapter 36 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,7 +24,7 @@ tags:
 
 "'Not one word of insult, sir,' interposed she; 'not one syllable of
 
-disrespect to Mr. Moore in this house.'
+disrespect to Mr. Moore in this [[house]].'
 
 
 
@@ -38,7 +38,7 @@ disrespect to Mr. Moore in this house.'
 
 "She turned to me with a sudden fond movement, which I met by circling
 
-her with my arm. She and I both rose.
+her with my arm. She and I both [[Rose|rose]].
 
 
 
@@ -76,7 +76,7 @@ Let her go!'
 
 intention was then formed, but not mature for communication. Now it is
 
-ripe, sun-mellowed, perfect. Take the crimson peach--take Louis Moore!'
+ripe, sun-mellowed, perfect. Take the crimson peach--take [[Louis Moore]]!'
 
 
 
@@ -94,7 +94,7 @@ have him.'
 
 
 
-"She turned white as death; she shook all over; she lost her strength. I
+"She turned white as [[Death|death]]; she shook all over; she lost her strength. I
 
 laid her down on the sofa; just looked to ascertain that she had not
 
@@ -104,7 +104,7 @@ and then, if I were to perish, I cannot give a clear account of what
 
 happened in the course of the next five minutes. She has since--through
 
-tears, laughter, and trembling--told me that I turned terrible, and gave
+[[Tears|tears]], laughter, and trembling--told me that I turned terrible, and gave
 
 myself to the demon. She says I left her, made one bound across the
 
@@ -124,7 +124,7 @@ his head; I was strangling him, I think. The housekeeper stood wringing
 
 her hands, entreating me to desist. I desisted that moment, and felt at
 
-once as cool as stone. But I told Mrs. Gill to fetch the Red-House Inn
+once as cool as stone. But I told Mrs. Gill to fetch the Red-[[house|House]] Inn
 
 chaise instantly, and informed Mr. Sympson he must depart from Fieldhead
 
@@ -140,7 +140,7 @@ a constable. I said, 'You _shall_ go, by fair means or foul.'
 
 once before, not quite so fiercely as now, but full as austerely. It was
 
-one night when burglars attempted the house at Sympson Grove, and in his
+one [[Night|night]] when burglars attempted the [[house]] at Sympson Grove, and in his
 
 wretched cowardice he would have given a vain alarm, without daring to
 
@@ -150,7 +150,7 @@ abode by mastering himself--and I had succeeded. I now remained with him
 
 till the chaise came. I marshalled him to it, he scolding all the way.
 
-He was terribly bewildered, as well as enraged. He would have resisted
+He was terribly bewildered, as [[Well|well]] as enraged. He would have resisted
 
 me, but knew not how. He called for his wife and daughters to come. I
 
@@ -168,7 +168,7 @@ importance. I have long since earned her undying mother's gratitude by
 
 my devotion to her boy. In some of Henry's ailments I have nursed
 
-him--better, she said, than any woman could nurse. She will never forget
+him--better, she said, than any woman could [[Nurse|nurse]]. She will never forget
 
 that. She and her daughters quitted me to-day, in mute wrath and
 
@@ -178,13 +178,13 @@ lifted him into the carriage and placed him by her side, when I arranged
 
 her own wrapping to make her warm, though she turned her head from me, I
 
-saw the tears start to her eyes. She will but the more zealously
+saw the [[Tears|tears]] start to her eyes. She will but the more zealously
 
 advocate my cause because she has left me in anger. I am glad of
 
 this--not for my own sake, but for that of my life and idol--my
 
-Shirley."
+[[Shirley]]."
 
 
 
@@ -194,7 +194,7 @@ up my temporary abode with a friend--a professional man, in whose
 
 business I can be useful. Every day I ride over to Fieldhead. How long
 
-will it be before I can call that place my home, and its mistress mine?
+will it be before I can call that place my [[Home|home]], and its mistress mine?
 
 I am not easy, not tranquil; I am tantalized, sometimes tortured. To see
 
@@ -208,27 +208,27 @@ Once this day I lifted her face, resolved to get a full look down her
 
 deep, dark eyes. Difficult to describe what I read there! Pantheress!
 
-beautiful forest-born! wily, tameless, peerless nature! She gnaws her
+beautiful forest-born! wily, tameless, peerless [[Nature|nature]]! She gnaws her
 
-chain; I see the white teeth working at the steel! She has dreams of her
+chain; I see the white teeth working at the steel! She has [[Dreams|dreams]] of her
 
-wild woods and pinings after virgin freedom. I wish Sympson would come
+wild woods and pinings after virgin [[Freedom|freedom]]. I wish Sympson would come
 
 again, and oblige her again to entwine her arms about me. I wish there
 
 was danger she should lose me, as there is risk I shall lose her. No;
 
-final loss I do not fear, but long delay----
+final loss I do not [[Fear|fear]], but long delay----
 
 
 
-"It is now night--midnight. I have spent the afternoon and evening at
+"It is now [[Night|night]]--midnight. I have spent the afternoon and evening at
 
 Fieldhead. Some hours ago she passed me, coming down the oak staircase
 
 to the hall. She did not know I was standing in the twilight, near the
 
-staircase window, looking at the frost-bright constellations. How
+staircase [[Window|window]], looking at the [[Frost|frost]]-bright constellations. How
 
 closely she glided against the banisters! How shyly shone her large eyes
 

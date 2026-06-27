@@ -1,5 +1,5 @@
 ---
-title: "The Landscape Garden"
+title: "[[The Landscape Garden]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/The-Landscape-Garden-(Poe)"
@@ -13,7 +13,7 @@ tags:
 </nav>
 
 
-The garden like a lady fair was cut
+The [[Garden|garden]] like a lady fair was cut
 
          That lay as if she slumbered in delight,
 
@@ -23,11 +23,11 @@ The garden like a lady fair was cut
 
          In a large round set with flow’rs of light:
 
-     The flowers de luce and the round sparks of dew
+     The [[Flowers|flowers]] de luce and the round sparks of dew
 
-     That hung upon their azure leaves, did show
+     That hung upon their azure [[Leaves|leaves]], did show
 
-     Like twinkling stars that sparkle in the ev’ning blue.
+     Like twinkling [[Stars|stars]] that sparkle in the ev’ning blue.
 
                     —GILES FLETCHER
 
@@ -39,7 +39,7 @@ The garden like a lady fair was cut
 
       of good gifts ever lavished upon him by fortune. From his cradle
 
-      to his grave, a gale of the blandest prosperity bore him along.
+      to his [[Grave|grave]], a gale of the blandest prosperity bore him along.
 
       Nor do I use the word Prosperity in its mere wordly or external
 
@@ -55,7 +55,7 @@ The garden like a lady fair was cut
 
       Ellison, I fancy, that I have seen refuted the dogma—that in
 
-      man’s physical and spiritual nature, lies some hidden principle,
+      man’s physical and spiritual [[Nature|nature]], lies some hidden principle,
 
       the antagonist of Bliss. An intimate and anxious examination of
 
@@ -85,9 +85,9 @@ The garden like a lady fair was cut
 
       part the result of preconcert. It is, indeed evident, that with
 
-      less of the instinctive philosophy which, now and then, stands so
+      less of the instinctive [[philosophy]] which, now and then, stands so
 
-      well in the stead of experience, Mr. Ellison would have found
+      [[Well|well]] in the stead of experience, Mr. Ellison would have found
 
       himself precipitated, by the very extraordinary successes of his
 
@@ -95,7 +95,7 @@ The garden like a lady fair was cut
 
       of preeminent endowments. But it is by no means my present object
 
-      to pen an essay on Happiness. The ideas of my friend may be
+      to pen an [[Essay|essay]] on Happiness. The ideas of my friend may be
 
       summed up in a few words. He admitted but four unvarying laws, or
 
@@ -113,9 +113,9 @@ The garden like a lady fair was cut
 
       instanced the high ecstasies of the fox-hunter. His second
 
-      principle was the love of woman. His third was the contempt of
+      principle was the [[Love|love]] of woman. His third was the contempt of
 
-      ambition. His fourth was an object of unceasing pursuit; and he
+      [[Ambition|ambition]]. His fourth was an object of unceasing pursuit; and he
 
       held that, other things being equal, the extent of happiness was
 
@@ -127,7 +127,7 @@ The garden like a lady fair was cut
 
       profusion of good gifts lavished upon him by Fortune. In personal
 
-      grace and beauty he exceeded all men. His intellect was of that
+      grace and [[Beauty|beauty]] he exceeded all men. His intellect was of that
 
       order to which the attainment of knowledge is less a labor than a
 
@@ -155,19 +155,19 @@ The garden like a lady fair was cut
 
       fortune, and, having no very immediate connexions, conceived the
 
-      whim of suffering his wealth to accumulate for a century after
+      whim of [[Suffering|suffering]] his wealth to accumulate for a century after
 
       his decease. Minutely and sagaciously directing the various modes
 
       of investment, he bequeathed the aggregate amount to the nearest
 
-      of blood, bearing the name Ellison, who should be alive at the
+      of [[Blood|blood]], bearing the name Ellison, who should be alive at the
 
       end of the hundred years. Many futile attempts had been made to
 
       set aside this singular bequest; their ex post facto character
 
-      rendered them abortive; but the attention of a jealous government
+      rendered them abortive; but the attention of a jealous [[government]]
 
       was aroused, and a decree finally obtained, forbidding all
 
@@ -187,7 +187,7 @@ The garden like a lady fair was cut
 
       the mode of its disposal. The gigantic magnitude and the
 
-      immediately available nature of the sum, dazzled and bewildered
+      immediately available [[Nature|nature]] of the sum, dazzled and bewildered
 
       all who thought upon the topic. The possessor of any appreciable
 
@@ -197,7 +197,7 @@ The garden like a lady fair was cut
 
       citizen, it would have been easy to suppose him engaging to
 
-      supreme excess in the fashionable extravagances of his time; or
+      supreme excess in the fashionable extravagances of his [[Time|time]]; or
 
       busying himself with political intrigues; or aiming at
 
@@ -209,7 +209,7 @@ The garden like a lady fair was cut
 
       and Art; or endowing and bestowing his name upon extensive
 
-      institutions of charity. But, for the inconceivable wealth in the
+      institutions of [[Charity|charity]]. But, for the inconceivable wealth in the
 
       actual possession of the young heir, these objects and all
 
@@ -249,7 +249,7 @@ The garden like a lady fair was cut
 
       discussion to his friends. Nor was I greatly astonished at the
 
-      nature of his decision. In the widest and noblest sense, he was a
+      [[Nature|nature]] of his decision. In the widest and noblest sense, he was a
 
       poet. He comprehended, moreover, the true character, the august
 
@@ -257,9 +257,9 @@ The garden like a lady fair was cut
 
       The proper gratification of the sentiment he instinctively felt
 
-      to lie in the creation of novel forms of Beauty. Some
+      to lie in the creation of [[Novel|novel]] forms of [[Beauty]]. Some
 
-      peculiarities, either in his early education, or in the nature of
+      peculiarities, either in his early [[Education|education]], or in the [[Nature|nature]] of
 
       his intellect, had tinged with what is termed materialism the
 
@@ -269,7 +269,7 @@ The garden like a lady fair was cut
 
       advantageous, if not the sole legitimate field for the exercise
 
-      of the poetic sentiment, was to be found in the creation of novel
+      of the poetic sentiment, was to be found in the creation of [[Novel|novel]]
 
       moods of purely physical loveliness. Thus it happened that he
 
@@ -281,15 +281,15 @@ The garden like a lady fair was cut
 
       which I have already mentioned—the idea, that in the contempt of
 
-      ambition lay one of the essential principles of happiness on
+      [[Ambition|ambition]] lay one of the essential principles of happiness on
 
       earth. Is it not, indeed, possible that while a high order of
 
       genius is necessarily ambitious, the highest is invariably above
 
-      that which is termed ambition? And may it not thus happen that
+      that which is termed [[Ambition|ambition]]? And may it not thus happen that
 
-      many far greater than Milton, have contentedly remained “mute and
+      many far greater than [[Milton]], have contentedly remained “mute and
 
       inglorious?” I believe the world has never yet seen, and that,
 
@@ -299,7 +299,7 @@ The garden like a lady fair was cut
 
       that full extent of triumphant execution, in the richer
 
-      productions of Art, of which the human nature is absolutely
+      productions of Art, of which the human [[Nature|nature]] is absolutely
 
       capable.
 
@@ -313,11 +313,11 @@ The garden like a lady fair was cut
 
       impossible that he would have become a painter. The field of
 
-      sculpture, although in its nature rigidly poetical, was too
+      sculpture, although in its [[Nature|nature]] rigidly poetical, was too
 
       limited in its extent and in its consequences, to have occupied,
 
-      at any time, much of his attention. And I have now mentioned all
+      at any [[Time|time]], much of his attention. And I have now mentioned all
 
       the provinces in which even the most liberal understanding of the
 
@@ -335,13 +335,13 @@ The garden like a lady fair was cut
 
       of the poet; yet my friend could not fail to perceive that the
 
-      creation of the Landscape-Garden offered to the true muse the
+      creation of the Landscape-[[Garden]] offered to the true muse the
 
       most magnificent of opportunities. Here was, indeed, the fairest
 
-      field for the display of invention, or imagination, in the
+      field for the display of invention, or [[Imagination|imagination]], in the
 
-      endless combining of forms of novel Beauty; the elements which
+      endless combining of forms of [[Novel|novel]] [[Beauty]]; the elements which
 
       should enter into combination being, at all times, and by a vast
 
@@ -351,7 +351,7 @@ The garden like a lady fair was cut
 
       he recognized the most direct and the most energetic efforts of
 
-      Nature at physical loveliness. And in the direction or
+      [[Nature]] at physical loveliness. And in the direction or
 
       concentration of this effort, or, still more properly, in its
 
@@ -367,11 +367,11 @@ The garden like a lady fair was cut
 
       In his explanation of this phraseology, Mr. Ellison did much
 
-      towards solving what has always seemed to me an enigma. I mean
+      towards solving what has always seemed to me [[An Enigma|an enigma]]. I mean
 
       the fact (which none but the ignorant dispute) that no such
 
-      combinations of scenery exist in Nature as the painter of genius
+      combinations of scenery exist in [[Nature]] as the painter of genius
 
       has in his power to produce. No such Paradises are to be found in
 
@@ -383,7 +383,7 @@ The garden like a lady fair was cut
 
       component parts may exceed, individually, the highest skill of
 
-      the artist, the arrangement of the parts will always be
+      the [[Artist|artist]], the arrangement of the parts will always be
 
       susceptible of improvement. In short, no position can be
 
@@ -395,43 +395,43 @@ The garden like a lady fair was cut
 
       this! In all other matters we are justly instructed to regard
 
-      Nature as supreme. With her details we shrink from competition.
+      [[Nature]] as supreme. With her details we shrink from competition.
 
       Who shall presume to imitate the colors of the tulip, or to
 
       improve the proportions of the lily of the valley? The criticism
 
-      which says, of sculpture or of portraiture, that “Nature is to be
+      which says, of sculpture or of portraiture, that “[[Nature]] is to be
 
       exalted rather than imitated,” is in error. No pictorial or
 
       sculptural combinations of points of human loveliness, do more
 
-      than approach the living and breathing human beauty as it
+      than approach the living and breathing human [[Beauty|beauty]] as it
 
       gladdens our daily path. Byron, who often erred, erred not in
 
-      saying, I’ve seen more living beauty, ripe and real, than all the
+      saying, I’ve seen more living [[Beauty|beauty]], ripe and real, than all the
 
-      nonsense of their stone ideal. In landscape alone is the
+      nonsense of their stone ideal. In landscape [[Alone|alone]] is the
 
-      principle of the critic true; and, having felt its truth here, it
+      principle of the critic true; and, having felt its [[Truth|truth]] here, it
 
       is but the headlong spirit of generalization which has induced
 
       him to pronounce it true throughout all the domains of Art.
 
-      Having, I say, felt its truth here. For the feeling is no
+      Having, I say, felt its [[Truth|truth]] here. For the feeling is no
 
       affectation or chimera. The mathematics afford no more absolute
 
       demonstrations, than the sentiment of his Art yields to the
 
-      artist. He not only believes, but positively knows, that such and
+      [[Artist|artist]]. He not only believes, but positively knows, that such and
 
       such apparently arbitrary arrangements of matter, or form,
 
-      constitute, and alone constitute, the true Beauty. Yet his
+      constitute, and [[Alone|alone]] constitute, the true [[Beauty]]. Yet his
 
       reasons have not yet been matured into expression. It remains for
 
@@ -445,7 +445,7 @@ The garden like a lady fair was cut
 
       mere arrangement of form; let this emendation be submitted to
 
-      every artist in the world; by each will its necessity be
+      every [[Artist|artist]] in the world; by each will its necessity be
 
       admitted. And even far more than this, in remedy of the defective
 
@@ -455,9 +455,9 @@ The garden like a lady fair was cut
 
 
 
-      I repeat that in landscape arrangements, or collocations alone,
+      I repeat that in landscape arrangements, or collocations [[Alone|alone]],
 
-      is the physical Nature susceptible of “exaltation” and that,
+      is the physical [[Nature]] susceptible of “exaltation” and that,
 
       therefore, her susceptibility of improvement at this one point,
 
@@ -465,7 +465,7 @@ The garden like a lady fair was cut
 
       Mr. Ellison who first suggested the idea that what we regarded as
 
-      improvement or exaltation of the natural beauty, was really such,
+      improvement or exaltation of the natural [[Beauty|beauty]], was really such,
 
       as respected only the mortal or human point of view; that each
 
@@ -477,7 +477,7 @@ The garden like a lady fair was cut
 
       easily understood,” says Mr. Ellison, “that what might improve a
 
-      closely scrutinized detail, might, at the same time, injure a
+      closely scrutinized detail, might, at the same [[Time|time]], injure a
 
       general and more distantly observed effect.” He spoke upon this
 
@@ -495,7 +495,7 @@ The garden like a lady fair was cut
 
       more especially than for our own, had been set in order by God
 
-      the great landscape-garden of the whole earth.
+      the great landscape-[[Garden|garden]] of the whole earth.
 
 
 
@@ -503,7 +503,7 @@ The garden like a lady fair was cut
 
       quote some passages from a writer who has been supposed to have
 
-      well treated this theme.
+      [[Well|well]] treated this theme.
 
 
 
@@ -511,7 +511,7 @@ The garden like a lady fair was cut
 
       landscape-gardening, the natural and the artificial. One seeks to
 
-      recall the original beauty of the country, by adapting its means
+      recall the original [[Beauty|beauty]] of the country, by adapting its means
 
       to the surrounding scenery; cultivating trees in harmony with the
 
@@ -521,7 +521,7 @@ The garden like a lady fair was cut
 
       which, hid from the common observer, are revealed everywhere to
 
-      the experienced student of nature. The result of the natural
+      the experienced student of [[Nature|nature]]. The result of the natural
 
       style of gardening, is seen rather in the absence of all defects
 
@@ -543,7 +543,7 @@ The garden like a lady fair was cut
 
       against the abuses of the artificial landscape-gardening, a
 
-      mixture of pure art in a garden scene, adds to it a great beauty.
+      mixture of pure art in a [[Garden|garden]] scene, adds to it a great [[Beauty|beauty]].
 
       This is partly pleasing to the eye, by the show of order and
 
@@ -561,7 +561,7 @@ The garden like a lady fair was cut
 
       understand that I reject the idea, here expressed, of ‘recalling
 
-      the original beauty of the country.’ The original beauty is never
+      the original [[Beauty|beauty]] of the country.’ The original [[Beauty|beauty]] is never
 
       so great as that which may be introduced. Of course, much depends
 
@@ -581,13 +581,13 @@ The garden like a lady fair was cut
 
       miracles,’ is a proposition better suited to the grovelling
 
-      apprehension of the herd, than to the fervid dreams of the man of
+      apprehension of the herd, than to the fervid [[Dreams|dreams]] of the man of
 
       genius. The merit suggested is, at best, negative, and appertains
 
       to that hobbling criticism which, in letters, would elevate
 
-      Addison into apotheosis. In truth, while that merit which
+      Addison into apotheosis. In [[Truth|truth]], while that merit which
 
       consists in the mere avoiding demerit, appeals directly to the
 
@@ -603,11 +603,11 @@ The garden like a lady fair was cut
 
       instructed to build an Odyssey, but it is in vain that we are
 
-      told how to conceive a ‘Tempest,’ an ‘Inferno,’ a ‘Prometheus
+      told how to conceive a ‘Tempest,’ an ‘Inferno,’ a ‘[[Prometheus]]
 
-      Bound,’ a ‘Nightingale,’ such as that of Keats, or the ‘Sensitive
+      Bound,’ a ‘[[Nightingale]],’ such as that of Keats, or the ‘Sensitive
 
-      Plant’ of Shelley. But, the thing done, the wonder accomplished,
+      Plant’ of Shelley. But, the thing done, the [[Wonder|wonder]] accomplished,
 
       and the capacity for apprehension becomes universal. The sophists
 
@@ -621,7 +621,7 @@ The garden like a lady fair was cut
 
       admiration from their instinct of the beautiful or of the
 
-      sublime.
+      [[Sublime|sublime]].
 
 
 
@@ -629,7 +629,7 @@ The garden like a lady fair was cut
 
       continued Mr. Ellison, “are less objectionable. ‘A mixture of
 
-      pure art in a garden scene, adds to it a great beauty.’ This is
+      pure art in a [[Garden|garden]] scene, adds to it a great [[Beauty|beauty]].’ This is
 
       just, and the reference to the sense of human interest is equally
 
@@ -639,11 +639,11 @@ The garden like a lady fair was cut
 
       There may be an object in full keeping with the principle
 
-      suggested—an object unattainable by the means ordinarily in
+      suggested—an object [[Unattainable|unattainable]] by the means ordinarily in
 
       possession of mankind, yet which, if attained, would lend a charm
 
-      to the landscape-garden immeasurably surpassing that which a
+      to the landscape-[[Garden|garden]] immeasurably surpassing that which a
 
       merely human interest could bestow. The true poet possessed of
 
@@ -651,7 +651,7 @@ The garden like a lady fair was cut
 
       the necessary idea of art or interest or culture, so imbue his
 
-      designs at once with extent and novelty of Beauty, as to convey
+      designs at once with extent and novelty of [[Beauty]], as to convey
 
       the sentiment of spiritual interference. It will be seen that, in
 
@@ -661,7 +661,7 @@ The garden like a lady fair was cut
 
       and technicality of Art. In the most rugged of wildernesses—in
 
-      the most savage of the scenes of pure Nature—there is apparent
+      the most savage of the scenes of pure [[Nature]]—there is apparent
 
       the art of a Creator; yet is this art apparent only to
 
@@ -681,9 +681,9 @@ The garden like a lady fair was cut
 
       the Art is made to assume the air of an intermediate or secondary
 
-      Nature—a Nature which is not God, nor an emanation of God, but
+      [[Nature]]—a [[Nature]] which is not God, nor an emanation of God, but
 
-      which still is Nature, in the sense that it is the handiwork of
+      which still is [[Nature]], in the sense that it is the handiwork of
 
       the angels that hover between man and God.”
 
@@ -699,7 +699,7 @@ The garden like a lady fair was cut
 
       the high spirituality of the object itself—in the contempt of
 
-      ambition which it enabled him more to feel than to affect—and,
+      [[Ambition|ambition]] which it enabled him more to feel than to affect—and,
 
       lastly, it was in the companionship and sympathy of a devoted
 
@@ -707,6 +707,6 @@ The garden like a lady fair was cut
 
       the ordinary cares of Humanity, with a far greater amount of
 
-      positive happiness than ever glowed in the rapt day-dreams of De
+      positive happiness than ever glowed in the rapt day-[[Dreams|dreams]] of De
 
       Staël.

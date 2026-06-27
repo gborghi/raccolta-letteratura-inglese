@@ -1,5 +1,5 @@
 ---
-title: "Shaw — INTRODUCTION TO THE FIRST EDITION"
+title: "[[Shaw]] — INTRODUCTION TO THE FIRST EDITION"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Shaw-(Chesterton)"
@@ -18,7 +18,7 @@ Introduction to the First Edition
 
 * * * *
 
-MOST people either say that they agree with Bernard Shaw or that they
+MOST people either say that they agree with Bernard [[Shaw]] or that they
 do not understand him.  I am the only person who understands him,
 and I do not agree with him.
 

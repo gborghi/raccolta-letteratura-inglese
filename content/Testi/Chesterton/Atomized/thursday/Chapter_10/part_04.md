@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 10 (part 4)"
+title: "[[thursday]] — Chapter 10 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -15,9 +15,9 @@ tags:
 
 
 Suddenly, to the astonishment of everyone the Marquis sprang
-back quite out of sword reach and threw down his sword.
+back quite out of [[Sword|sword]] reach and threw down his [[Sword|sword]].
 The leap was wonderful, and not the less wonderful because Syme
-had plunged his sword a moment before into the man's thigh.
+had plunged his [[Sword|sword]] a moment before into the man's thigh.
 
 "Stop!" said the Marquis in a voice that compelled a momentary obedience.
 "I want to say something."
@@ -51,11 +51,11 @@ in exasperation.  "Come, come, Mr. Syme!  You wanted to do it, do it!
 You can have no conception of how important it is to me.
 Don't be so selfish!  Pull my nose at once, when I ask you!"
 and he bent slightly forward with a fascinating smile.
-The Paris train, panting and groaning, had grated into a little
-station behind the neighbouring hill.
+The [[Paris]] train, panting and groaning, had grated into a little
+station behind the neighbouring [[Hill|hill]].
 
 Syme had the feeling he had more than once had in these adventures--
-the sense that a horrible and sublime wave lifted to heaven was just
+the sense that a horrible and [[Sublime|sublime]] wave lifted to heaven was just
 toppling over.  Walking in a world he half understood, he took two
 paces forward and seized the Roman nose of this remarkable nobleman.
 He pulled it hard, and it came off in his hand.
@@ -65,7 +65,7 @@ pasteboard proboscis still between his fingers, looking at it,
 while the sun and the clouds and the wooded hills looked down
 upon this imbecile scene.
 
-The Marquis broke the silence in a loud and cheerful voice.
+The Marquis broke the [[Silence|silence]] in a loud and cheerful voice.
 
 "If anyone has any use for my left eyebrow," he said,
 "he can have it.  Colonel Ducroix, do accept my left eyebrow!
@@ -83,7 +83,7 @@ various parts of himself right and left about the field.
 I tell you the train has come into the station!"
 
 "Yes," said Dr. Bull fiercely, "and the train shall go out of the station.
-It shall go out without you.  We know well enough for what devil's work--"
+It shall go out without you.  We know [[Well|well]] enough for what devil's work--"
 
 The mysterious Marquis lifted his hands with a desperate gesture.
 He was a strange scarecrow standing there in the sun with half his old face
@@ -91,13 +91,13 @@ peeled off, and half another face glaring and grinning from underneath.
 
 "Will you drive me mad?" he cried.  "The train--"
 
-"You shall not go by the train," said Syme firmly, and grasped his sword.
+"You shall not go by the train," said Syme firmly, and grasped his [[Sword|sword]].
 
 The wild figure turned towards Syme, and seemed to be gathering
-itself for a sublime effort before speaking.
+itself for a [[Sublime|sublime]] effort before speaking.
 
 "You great fat, blasted, blear-eyed, blundering, thundering, brainless,
-Godforsaken, doddering, damned fool!" he said without taking breath.
+Godforsaken, doddering, damned [[Fool|fool]]!" he said without taking breath.
 "You great silly, pink-faced, towheaded turnip!  You--"
 
 "You shall not go by this train," repeated Syme.
@@ -105,7 +105,7 @@ Godforsaken, doddering, damned fool!" he said without taking breath.
 "And why the infernal blazes," roared the other, "should I want
 to go by the train?"
 
-"We know all," said the Professor sternly.  "You are going to Paris
+"We know all," said [[The Professor|the Professor]] sternly.  "You are going to [[Paris]]
 to throw a bomb!"
 
 "Going to Jericho to throw a Jabberwock!" cried the other, tearing his hair,
@@ -113,9 +113,9 @@ which came off easily.
 
 "Have you all got softening of the brain, that you don't realise
 what I am?  Did you really think I wanted to catch that train?
-Twenty Paris trains might go by for me.  Damn Paris trains!"
+Twenty [[Paris]] trains might go by for me.  Damn [[Paris]] trains!"
 
-"Then what did you care about?" began the Professor.
+"Then what did you care about?" began [[The Professor|the Professor]].
 
 "What did I care about?  I didn't care about catching the train;
 I cared about whether the train caught me, and now, by God! it
@@ -131,24 +131,24 @@ It may be my literary fancy, but somehow I feel that it ought
 to mean something."
 
 "It means everything," said the other, "and the end of everything.
-Sunday has us now in the hollow of his hand."
+[[Sunday]] has us now in the hollow of his hand."
 
-"Us!" repeated the Professor, as if stupefied.  "What do you mean by 'us'?"
+"Us!" repeated [[The Professor|the Professor]], as if stupefied.  "What do you mean by 'us'?"
 
 "The police, of course!" said the Marquis, and tore off his scalp
 and half his face.
 
-The head which emerged was the blonde, well brushed,
+The head which emerged was the blonde, [[Well|well]] brushed,
 smooth-haired head which is common in the English constabulary,
 but the face was terribly pale.
 
 "I am Inspector Ratcliffe," he said, with a sort of haste
-that verged on harshness.  "My name is pretty well known to
-the police, and I can see well enough that you belong to them.
-But if there is any doubt about my position, I have a card,"
+that verged on harshness.  "My name is pretty [[Well|well]] known to
+the police, and I can see [[Well|well]] enough that you belong to them.
+But if there is any [[Doubt|doubt]] about my position, I have a card,"
 and he began to pull a blue card from his pocket.
 
-The Professor gave a tired gesture.
+[[The Professor]] gave a tired gesture.
 
 "Oh, don't show it us," he said wearily; "we've got enough of them
 to equip a paper-chase."

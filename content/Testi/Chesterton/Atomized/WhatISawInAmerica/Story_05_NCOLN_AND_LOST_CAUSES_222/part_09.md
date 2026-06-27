@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 9)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -20,7 +20,7 @@ even to be sham aristocrats, or to be real snobs. But their standards
 
 are secure; and though I do not really travel in a bath-tub, or believe
 
-in the bath-tub philosophy and religion, I will not on this matter
+in the bath-tub [[philosophy]] and religion, I will not on this matter
 
 recoil misanthropically from them: I prefer the tub of Dayton to the tub
 
@@ -30,7 +30,7 @@ better than efficiency, and that is something like equality.
 
 
 
-In short, the American hotel is not America; but it is American. In some
+In short, the American hotel is not [[America]]; but it is American. In some
 
 respects it is as American as the English inn is English. And it is
 
@@ -42,19 +42,19 @@ little natural dignity. The old Romans boasted that their republic was a
 
 nation of kings. If we really walked abroad in such a kingdom, we might
 
-very well grow tired of the sight of a crowd of kings, of every man with
+very [[Well|well]] grow tired of the sight of a crowd of kings, of every man with
 
-a gold crown on his head or an ivory sceptre in his hand. But it is
+a gold [[Crown|crown]] on his head or an ivory sceptre in his hand. But it is
 
 arguable that we ought not to grow tired of the repetition of crowns and
 
-sceptres, any more than of the repetition of flowers and stars. The
+sceptres, any more than of the repetition of [[Flowers|flowers]] and [[Stars|stars]]. The
 
 whole imaginative effort of Walt Whitman was really an effort to absorb
 
 and animate these multitudinous modern repetitions; and Walt Whitman
 
-would be quite capable of including in his lyric litany of optimism a
+would be quite capable of including in his [[Lyric|lyric]] [[litany]] of optimism a
 
 list of the nine hundred and ninety-nine identical bathrooms. I do not
 
@@ -62,7 +62,7 @@ sneer at the generous effort of the giant; though I think, when all is
 
 said, that it is a criticism of modern machinery that the effort should
 
-be gigantic as well as generous.
+be gigantic as [[Well|well]] as generous.
 
 
 
@@ -74,17 +74,17 @@ running and even leaping like the figures in a zoetrope. But even in the
 
 groups where there was no hustle there was often something of
 
-homelessness. I do not mean merely that they were not dining at home;
+homelessness. I do not mean merely that they were not dining at [[Home|home]];
 
-but rather that they were not at home even when dining, and dining at
+but rather that they were not at [[Home|home]] even when dining, and dining at
 
 their favourite hotel. They would frequently start up and dart from the
 
 room at a summons from the telephone. It may have been fanciful, but I
 
-could not help feeling a breath of home, as from a flap or flutter of
+could not help feeling a breath of [[Home|home]], as from a flap or flutter of
 
-St. George's Cross, when I first sat down in a Canadian hostelry, and
+St. George's [[Cross]], when I first sat down in a Canadian hostelry, and
 
 read the announcement that no such telephonic or other summonses were
 
@@ -126,11 +126,11 @@ any Mr. Anderson to be found. Perhaps he and every one else wandered in
 
 an abyss of bottomless scepticism; and he was but the victim of one out
 
-of numberless nightmares of eternity, as he wandered a shadow with
+of numberless nightmares of [[Eternity|eternity]], as he wandered a [[Shadow|shadow]] with
 
 shadows and wailed by impassable streams. This is not exactly my
 
-philosophy, but I feel sure it was his. And it is a mood that may
+[[philosophy]], but I feel sure it was his. And it is a mood that may
 
 frequently visit the mind in the centres of highly active and successful
 
@@ -140,7 +140,7 @@ industrial civilisation.
 
 Such are the first idle impressions of the great American hotel, gained
 
-by sitting for the first time in its gallery and gazing on its drifting
+by sitting for the first [[Time|time]] in its gallery and gazing on its drifting
 
 crowds with thoughts equally drifting. The first impression is of
 
@@ -154,9 +154,9 @@ with sincerity, if I did not touch in passing the note of something
 
 unearthly about that vast system to an insular traveller who sees it for
 
-the first time. It is as if he were wandering in another world among the
+the first [[Time|time]]. It is as if he were wandering in another world among the
 
-fixed stars; or worse still, in an ideal Utopia of the future.
+fixed [[Stars|stars]]; or worse still, in an ideal Utopia of the future.
 
 
 
@@ -180,7 +180,7 @@ almost impudent innovation. But our fathers had the French café, in the
 
 sense of the free-and-easy table in the sun and air. The only difference
 
-was that French democracy was allowed to develop its café, or multiply
+was that French [[democracy]] was allowed to develop its café, or multiply
 
 its tables, while English plutocracy prevented any such popular growth.
 

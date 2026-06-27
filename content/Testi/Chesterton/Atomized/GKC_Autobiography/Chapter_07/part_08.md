@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 7 (part 8)"
+title: "[[GKC-Autobiography]] — Chapter 7 (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -32,7 +32,7 @@ For how could he be praised for passing the mustard, if he could not
 be blamed for not passing the mustard?  I know it can be maintained
 that fatalism makes no difference to the facts of our life.
 Some say that fatalists can still go on punishing or blaming.
-Some say (professing, with no little humour, to be humanitarian)
+Some say (professing, with no little [[Humour|humour]], to be humanitarian)
 that they can leave off blaming but still go on punishing.
 But if determinism made no difference, why should Blatchford
 thunder furiously from a pulpit about the difference it made?
@@ -53,15 +53,15 @@ sort of scallywag at war with society.  In the grossly unjust social
 system we suffer, it is probable enough that many of these really
 are punished unjustly; that some ought not to be punished at all;
 that some, perhaps, are really not responsible at all.
-And Blatchford, seeing them driven to prison in droves, felt neither
+And Blatchford, seeing them driven to [[Prison|prison]] in droves, felt neither
 more nor less than a pity for the weak and the unfortunate; which was,
-at the worst, a slightly lopsided exaggeration of Christian charity.
-He was so anxious to forgive that he denied the need of forgiveness.
+at the worst, a slightly lopsided exaggeration of Christian [[Charity|charity]].
+He was so anxious to forgive that he denied the need of [[Forgiveness|forgiveness]].
 
-And I awaken from all these dreams of the past suddenly,
+And I awaken from all these [[Dreams|dreams]] of the past suddenly,
 and with something like a shout of laughter.  For the next episode
 in my life was one of helping certain friends and reformers to fix
-the terrible truth called Responsibility, not on tramps or drunkards,
+the terrible [[Truth|truth]] called Responsibility, not on tramps or drunkards,
 but on the rulers of the State and the richest men in the Empire.
 I was trying to put a chain and collar of Responsibility, not on
 the Underdog, but on the Top-dog. And the next thing that I was to
@@ -70,6 +70,6 @@ was demanding justice, punishment, vengeance almost without pardon,
 upon other strong tyrants who had trampled on the weak; and was
 fiercely nailing the arrogant princes of Prussia with Responsibility
 for the invasion of Belgium.  So do paper sophistries go up
-in a great fire.
+in a great [[Fire|fire]].
 
 *****

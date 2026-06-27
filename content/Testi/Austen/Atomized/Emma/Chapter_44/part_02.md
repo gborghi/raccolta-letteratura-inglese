@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 6 (part 2)"
+title: "[[Emma]] — Chapter 6 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -15,7 +15,7 @@ tags:
 
 
 “You certainly will meet them if I can prevail; and I shall call on
-Miss Bates in my way home.”
+[[Miss Bates]] in my way [[Home|home]].”
 
 “That’s quite unnecessary; I see Jane every day:—but as you like. It is
 to be a morning scheme, you know, Knightley; quite a simple thing. I
@@ -29,34 +29,34 @@ of doors—a table spread in the shade, you know. Every thing as natural
 and simple as possible. Is not that your idea?”
 
 “Not quite. My idea of the simple and the natural will be to have the
-table spread in the dining-room. The nature and the simplicity of
+table spread in the dining-room. The [[Nature|nature]] and the simplicity of
 gentlemen and ladies, with their servants and furniture, I think is
 best observed by meals within doors. When you are tired of eating
-strawberries in the garden, there shall be cold meat in the house.”
+strawberries in the [[Garden|garden]], there shall be cold meat in the [[house]].”
 
-“Well—as you please; only don’t have a great set out. And, by the bye,
+“[[Well]]—as you please; only don’t have a great set out. And, by the bye,
 can I or my housekeeper be of any use to you with our opinion?—Pray be
 sincere, Knightley. If you wish me to talk to Mrs. Hodges, or to
 inspect anything—”
 
 “I have not the least wish for it, I thank you.”
 
-“Well—but if any difficulties should arise, my housekeeper is extremely
+“[[Well]]—but if any difficulties should arise, my housekeeper is extremely
 clever.”
 
 “I will answer for it, that mine thinks herself full as clever, and
-would spurn any body’s assistance.”
+would spurn any [[Body|body]]’s assistance.”
 
-“I wish we had a donkey. The thing would be for us all to come on
-donkeys, Jane, Miss Bates, and me—and my caro sposo walking by. I
-really must talk to him about purchasing a donkey. In a country life I
+“I wish we had a [[donkey]]. The thing would be for us all to come on
+donkeys, Jane, [[Miss Bates]], and me—and my caro sposo walking by. I
+really must talk to him about purchasing a [[donkey]]. In a country life I
 conceive it to be a sort of necessary; for, let a woman have ever so
 many resources, it is not possible for her to be always shut up at
-home;—and very long walks, you know—in summer there is dust, and in
-winter there is dirt.”
+[[Home|home]];—and very long walks, you know—in [[Summer|summer]] there is [[Dust|dust]], and in
+[[Winter|winter]] there is dirt.”
 
 “You will not find either, between Donwell and Highbury. Donwell Lane
-is never dusty, and now it is perfectly dry. Come on a donkey, however,
+is never dusty, and now it is perfectly dry. Come on a [[donkey]], however,
 if you prefer it. You can borrow Mrs. Cole’s. I would wish every thing
 to be as much to your taste as possible.”
 
@@ -68,71 +68,71 @@ the whole of this scheme. You have hit upon the very thing to please
 me.”
 
 Mr. Knightley had another reason for avoiding a table in the shade. He
-wished to persuade Mr. Woodhouse, as well as Emma, to join the party;
+wished to persuade Mr. Woodhouse, as [[Well|well]] as [[Emma]], to join the party;
 and he knew that to have any of them sitting down out of doors to eat
 would inevitably make him ill. Mr. Woodhouse must not, under the
 specious pretence of a morning drive, and an hour or two spent at
 Donwell, be tempted away to his misery.
 
-He was invited on good faith. No lurking horrors were to upbraid him
+He was invited on good [[Faith|faith]]. No lurking horrors were to upbraid him
 for his easy credulity. He did consent. He had not been at Donwell for
-two years. “Some very fine morning, he, and Emma, and Harriet, could go
-very well; and he could sit still with Mrs. Weston, while the dear
+two years. “Some very fine morning, he, and [[Emma]], and Harriet, could go
+very [[Well|well]]; and he could sit still with Mrs. Weston, while the dear
 girls walked about the gardens. He did not suppose they could be damp
-now, in the middle of the day. He should like to see the old house
+now, in the middle of the day. He should like to see the old [[house]]
 again exceedingly, and should be very happy to meet Mr. and Mrs. Elton,
 and any other of his neighbours.—He could not see any objection at all
-to his, and Emma’s, and Harriet’s going there some very fine morning.
-He thought it very well done of Mr. Knightley to invite them—very kind
+to his, and [[Emma]]’s, and Harriet’s going there some very fine morning.
+He thought it very [[Well|well]] done of Mr. Knightley to invite them—very kind
 and sensible—much cleverer than dining out.—He was not fond of dining
 out.”
 
-Mr. Knightley was fortunate in every body’s most ready concurrence. The
-invitation was everywhere so well received, that it seemed as if, like
+Mr. Knightley was fortunate in every [[Body|body]]’s most ready concurrence. The
+invitation was everywhere so [[Well|well]] received, that it seemed as if, like
 Mrs. Elton, they were all taking the scheme as a particular compliment
-to themselves.—Emma and Harriet professed very high expectations of
+to themselves.—[[Emma]] and Harriet professed very high expectations of
 pleasure from it; and Mr. Weston, unasked, promised to get Frank over
 to join them, if possible; a proof of approbation and gratitude which
 could have been dispensed with.—Mr. Knightley was then obliged to say
 that he should be glad to see him; and Mr. Weston engaged to lose no
-time in writing, and spare no arguments to induce him to come.
+[[Time|time]] in writing, and spare no arguments to induce him to come.
 
-In the meanwhile the lame horse recovered so fast, that the party to
-Box Hill was again under happy consideration; and at last Donwell was
-settled for one day, and Box Hill for the next,—the weather appearing
+In the meanwhile the lame [[Horse|horse]] recovered so fast, that the party to
+Box [[Hill]] was again under happy consideration; and at last Donwell was
+settled for one day, and Box [[Hill]] for the next,—the weather appearing
 exactly right.
 
 Under a bright mid-day sun, at almost Midsummer, Mr. Woodhouse was
-safely conveyed in his carriage, with one window down, to partake of
+safely conveyed in his carriage, with one [[Window|window]] down, to partake of
 this al-fresco party; and in one of the most comfortable rooms in the
-Abbey, especially prepared for him by a fire all the morning, he was
+Abbey, especially prepared for him by a [[Fire|fire]] all the morning, he was
 happily placed, quite at his ease, ready to talk with pleasure of what
-had been achieved, and advise every body to come and sit down, and not
+had been achieved, and advise every [[Body|body]] to come and sit down, and not
 to heat themselves.—Mrs. Weston, who seemed to have walked there on
-purpose to be tired, and sit all the time with him, remained, when all
+purpose to be tired, and sit all the [[Time|time]] with him, remained, when all
 the others were invited or persuaded out, his patient listener and
 sympathiser.
 
-It was so long since Emma had been at the Abbey, that as soon as she
+It was so long since [[Emma]] had been at the Abbey, that as soon as she
 was satisfied of her father’s comfort, she was glad to leave him, and
-look around her; eager to refresh and correct her memory with more
-particular observation, more exact understanding of a house and grounds
+look around her; eager to refresh and correct her [[Memory|memory]] with more
+particular observation, more exact understanding of a [[house]] and grounds
 which must ever be so interesting to her and all her family.
 
-She felt all the honest pride and complacency which her alliance with
+She felt all the honest [[Pride|pride]] and complacency which her alliance with
 the present and future proprietor could fairly warrant, as she viewed
 the respectable size and style of the building, its suitable, becoming,
 characteristic situation, low and sheltered—its ample gardens
 stretching down to meadows washed by a stream, of which the Abbey, with
 all the old neglect of prospect, had scarcely a sight—and its abundance
 of timber in rows and avenues, which neither fashion nor extravagance
-had rooted up.—The house was larger than Hartfield, and totally unlike
+had rooted up.—The [[house]] was larger than Hartfield, and totally unlike
 it, covering a good deal of ground, rambling and irregular, with many
 comfortable, and one or two handsome rooms.—It was just what it ought
-to be, and it looked what it was—and Emma felt an increasing respect
+to be, and it looked what it was—and [[Emma]] felt an increasing respect
 for it, as the residence of a family of such true gentility, untainted
-in blood and understanding.—Some faults of temper John Knightley had;
-but Isabella had connected herself unexceptionably. She had given them
+in [[Blood|blood]] and understanding.—Some faults of temper John Knightley had;
+but [[Isabella]] had connected herself unexceptionably. She had given them
 neither men, nor names, nor places, that could raise a blush. These
 were pleasant feelings, and she walked about and indulged them till it
 was necessary to do as the others did, and collect round the
@@ -141,16 +141,16 @@ Churchill, who was expected every moment from Richmond; and Mrs. Elton,
 in all her apparatus of happiness, her large bonnet and her basket, was
 very ready to lead the way in gathering, accepting, or
 talking—strawberries, and only strawberries, could now be thought or
-spoken of.—“The best fruit in England—every body’s favourite—always
+spoken of.—“The best fruit in England—every [[Body|body]]’s favourite—always
 wholesome.—These the finest beds and finest sorts.—Delightful to gather
-for one’s self—the only way of really enjoying them.—Morning decidedly
-the best time—never tired—every sort good—hautboy infinitely
+for one’s [[Self|self]]—the only way of really enjoying them.—Morning decidedly
+the best [[Time|time]]—never tired—every sort good—hautboy infinitely
 superior—no comparison—the others hardly eatable—hautboys very
 scarce—Chili preferred—white wood finest flavour of all—price of
-strawberries in London—abundance about Bristol—Maple
+strawberries in [[London]]—abundance about Bristol—Maple
 Grove—cultivation—beds when to be renewed—gardeners thinking exactly
 different—no general rule—gardeners never to be put out of their
 way—delicious fruit—only too rich to be eaten much of—inferior to
 cherries—currants more refreshing—only objection to gathering
-strawberries the stooping—glaring sun—tired to death—could bear it no
+strawberries the stooping—glaring sun—tired to [[Death|death]]—could bear it no
 longer—must go and sit in the shade.”

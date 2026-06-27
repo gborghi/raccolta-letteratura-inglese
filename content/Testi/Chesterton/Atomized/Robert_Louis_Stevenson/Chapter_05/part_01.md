@@ -34,28 +34,28 @@ much interested to realise that a Scotsman is incapable of seeing
 a joke, since he seems so eminently capable of making one;
 and the reader of the former will be disposed to suggest that
 the national jesting is not too sober but rather too extravagant.
-_Peter Pan_ carries on by lineal tradition the cult of the child,
+_Peter Pan_ carries on by lineal tradition the cult of the [[Child|child]],
 beginning with _Treasure Island;_ but if there be anything to criticise
 in Sir James Barrie's beautiful fantasia, it is that wilder things
-happen to Wendy in a London nursery than ever happened to Jim
+happen to Wendy in a [[London]] nursery than ever happened to Jim
 in a tropical island.  The only object to living in a nursery
-where the dog is the nurse, or the father lives in the dog-kennel,
+where the dog is the [[Nurse|nurse]], or the father lives in the dog-kennel,
 is that there seems no necessity to go to the Never-Never Land
 to look for the things that never happen.  Whatever else we say
 of the Scottish genius, it is certainly not merely dry or prosaic;
 and indeed the real mixture of the Scottish genius is as full
 of contradictions as that pattern of crosses in the Scottish plaid.
-And even here there is subtlety as well as cross-purposes;
+And even here there is subtlety as [[Well|well]] as [[Cross|cross]]-purposes;
 and the tartan may be an old tribal form of camouflage.
 
-There is an aspect of a Scottish hill or moor, which for the moment
+There is an aspect of a Scottish [[Hill|hill]] or moor, which for the moment
 will look grey and at the least change of light look purple;
 which is in itself an image of Scotland.  A passing from the most
 dispassionate to the most passionate tint, which yet seems
-to be no more than a new shade, might well represent the mixture
-of restraint and violence that runs through the national history
+to be no more than a new shade, might [[Well|well]] represent the mixture
+of restraint and violence that runs through the national [[history]]
 and the national character.  Stevenson stands for one of those
-moments in the national history when the grey turned to purple;
+moments in the national [[history]] when the grey turned to purple;
 and yet in his purple there is still a great deal of grey.
 There is a great deal of restraint, artistic even more than moral;
 there is a certain coolness in the commentary even on picturesque objects;
@@ -64,30 +64,30 @@ There are shades even in purple; there are differences between
 the purple orchid and the purple heather; and his often
 seems to be like white heather, for luck.  In other words,
 his idea of happiness is still of the breezy and boyish sort;
-and though he described the happiness of lovers very happily
+and though he described the happiness of [[lovers]] very happily
 in _Catriona_ and began to foreshadow their unhappiness in _Weir
 of Hermiston,_ he attacked the theme relatively late in life;
 and it counted for little in that original idea of a return
-to simplicity, which had come upon him like a wind from a playground.
+to simplicity, which had come upon him like a [[Wind|wind]] from a playground.
 Imagine how annoyed Jim Hawkins would have been, if a lot of girls
 had been allowed to muck up the business of going after treasure!
-So brilliant is this resurrection of boyhood, that we almost
+So brilliant is this [[Resurrection|resurrection]] of boyhood, that we almost
 believe for the moment that Stevenson must have been as young
 and callous as Jim.  Only I suspect, as I say, that in some ways
 he had even made himself a little callous in those matters.
 There his adventures had been misadventures.  He did not recall for
-mere pleasure the memory of youth, as he did the memory of boyhood.
+mere pleasure the [[Memory|memory]] of youth, as he did the [[Memory|memory]] of boyhood.
 
 The two novels about David Balfour are very notable examples
 of what I have mentioned generally as the Stevensonian note;
 the brisk and bright treatment, the short speeches, the sharp gestures
 and the pointed profile of energy, as of a man following his nose
-very rapidly along the open road.  The great scenes in _Kidnapped,_
-the defence of the Round House or the confrontation of Uncle Ebenezer
+very rapidly along the open [[Road|road]].  The great scenes in _Kidnapped,_
+the defence of the Round [[house|House]] or the confrontation of Uncle Ebenezer
 and Alan Breck, are full of those snapping phrases that seem to pick
-things off like pistol shots.  A whole essay on the style of Stevenson,
+things off like [[Pistol|pistol]] shots.  A whole [[Essay|essay]] on the style of Stevenson,
 such as I shall attempt forlornly and ineffectually on another page,
-might be written by a real critic on the phrase, "His sword flashed
+might be written by a real critic on the phrase, "His [[Sword|sword]] flashed
 like quicksilver into the huddle of our fleeing enemies."  The fact
 that the name of a certain metal happens to combine the word "silver"
 with the word "quick" is simply a rather recondite accident;
@@ -112,9 +112,9 @@ neither Hawkins nor Balfour, but Stevenson.
 
 But though the thing is to be criticised (and admired) strictly as
 an adventure story, there are side-lights of interest about it
-considered as a historical novel.  It carries on a rather curiously
+considered as a [[Historical Novel|historical novel]].  It carries on a rather curiously
 balanced critical attitude, partly inherited from the attitude
-of Sir Walter Scott; the paradox of being intellectually on
+of Sir Walter Scott; the [[Paradox|paradox]] of being intellectually on
 the side of the Whigs and morally on the side of the Jacobites.
 There is enough moral material, in the story of the long legal murder
 of James of the Glens, to raise a whole clan of Jacobites and roll
@@ -131,10 +131,10 @@ It is obvious that he is moved and impressed with the spectacle
 of a whole peasantry loyal to their ideal and defying a more
 civilised but a much more cynical pressure.  But, curiously enough,
 when Stevenson saw exactly the same story acted before his eyes
-in the tragedy of the peasants of Ireland, he was carried away
+in the [[Tragedy|tragedy]] of the peasants of Ireland, he was carried away
 by some newspaper nonsense about the wickedness of the Land League
 (prodded perhaps by the rather absurd Jingoism of Henley)
-and, with all his native courage and much less than his native sense,
+and, with all his native [[Courage|courage]] and much less than his native sense,
 wanted to plant himself on an eviction farm belonging to a family
 named Curtin, whom he seemed to regard as the sole victims of
 the social situation.  It did not seem to occur to him that he was

@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘The landlord of the Yard,’ said Arthur Clennam, ‘is--’
+‘The landlord of the Yard,’ said [[Arthur Clennam]], ‘is--’
 
 ‘He is Mr Casby, by name, he is,’ said Plornish, ‘and Pancks, he
 collects the rents. That,’ added Mr Plornish, dwelling on the subject
@@ -25,32 +25,32 @@ you may believe me or not, as you think proper.’
 ‘Ay?’ returned Clennam, thoughtful in his turn. ‘Mr Casby, too! An old
 acquaintance of mine, long ago!’
 
-Mr Plornish did not see his road to any comment on this fact, and made
+Mr Plornish did not see his [[Road|road]] to any comment on this fact, and made
 none. As there truly was no reason why he should have the least interest
-in it, Arthur Clennam went on to the present purport of his visit;
+in it, [[Arthur Clennam]] went on to the present purport of his visit;
 namely, to make Plornish the instrument of effecting Tip’s release,
-with as little detriment as possible to the self-reliance and
-self-helpfulness of the young man, supposing him to possess any remnant
-of those qualities: without doubt a very wide stretch of supposition.
+with as little detriment as possible to the [[Self-Reliance|self-reliance]] and
+[[Self|self]]-helpfulness of the young man, supposing him to possess any remnant
+of those qualities: without [[Doubt|doubt]] a very wide stretch of supposition.
 Plornish, having been made acquainted with the cause of action from the
-Defendant’s own mouth, gave Arthur to understand that the Plaintiff
+Defendant’s own mouth, gave [[Arthur]] to understand that the Plaintiff
 was a ‘Chaunter’--meaning, not a singer of anthems, but a seller of
 horses--and that he (Plornish) considered that ten shillings in the
 pound ‘would settle handsome,’ and that more would be a waste of money.
 The Principal and instrument soon drove off together to a stable-yard in
 High Holborn, where a remarkably fine grey gelding, worth, at the lowest
 figure, seventy-five guineas (not taking into account the value of the
-shot he had been made to swallow for the improvement of his form), was
+shot he had been made to [[Swallow|swallow]] for the improvement of his form), was
 to be parted with for a twenty-pound note, in consequence of his having
 run away last week with Mrs Captain Barbary of Cheltenham, who wasn’t up
-to a horse of his courage, and who, in mere spite, insisted on selling
+to a [[Horse|horse]] of his [[Courage|courage]], and who, in mere spite, insisted on selling
 him for that ridiculous sum: or, in other words, on giving him away.
-Plornish, going up this yard alone and leaving his Principal outside,
+Plornish, going up this yard [[Alone|alone]] and leaving his Principal outside,
 found a gentleman with tight drab legs, a rather old hat, a little
 hooked stick, and a blue neckerchief (Captain Maroon of Gloucestershire,
 a private friend of Captain Barbary); who happened to be there, in
 a friendly way, to mention these little circumstances concerning the
-remarkably fine grey gelding to any real judge of a horse and quick
+remarkably fine grey gelding to any real judge of a [[Horse|horse]] and quick
 snapper-up of a good thing, who might look in at that address as per
 advertisement. This gentleman, happening also to be the Plaintiff in the
 Tip case, referred Mr Plornish to his solicitor, and declined to treat
@@ -59,11 +59,11 @@ he appeared there with a twenty-pound note: in which case only, the
 gentleman would augur from appearances that he meant business, and
 might be induced to talk to him. On this hint, Mr Plornish retired
 to communicate with his Principal, and presently came back with the
-required credentials. Then said Captain Maroon, ‘Now, how much time do
+required credentials. Then said Captain Maroon, ‘Now, how much [[Time|time]] do
 you want to make the other twenty in? Now, I’ll give you a month.’ Then
 said Captain Maroon, when that wouldn’t suit, ‘Now, I’ll tell what I’ll
 do with you. You shall get me a good bill at four months, made payable
-at a banking-house, for the other twenty!’ Then said Captain Maroon,
+at a banking-[[house]], for the other twenty!’ Then said Captain Maroon,
 when _that_ wouldn’t suit, ‘Now, come; Here’s the last I’ve got to say
 to you. You shall give me another ten down, and I’ll run my pen clean
 through it.’ Then said Captain Maroon when _that_ wouldn’t suit, ‘Now,
@@ -74,7 +74,7 @@ Captain Maroon, when _that_ wouldn’t suit either, ‘Hand over, then!’--And
 in consideration of the first offer, gave a receipt in full and
 discharged the prisoner.
 
-‘Mr Plornish,’ said Arthur, ‘I trust to you, if you please, to keep my
+‘Mr Plornish,’ said [[Arthur]], ‘I trust to you, if you please, to keep my
 secret. If you will undertake to let the young man know that he is free,
 and to tell him that you were employed to compound for the debt by
 some one whom you are not at liberty to name, you will not only do me a
@@ -102,19 +102,19 @@ Clennam’s card and appropriate pecuniary compliment.
 He was earnest to finish his commission at once, and his Principal
 was in the same mind. So his Principal offered to set him down at the
 Marshalsea Gate, and they drove in that direction over Blackfriars
-Bridge. On the way, Arthur elicited from his new friend a confused
+Bridge. On the way, [[Arthur]] elicited from his new friend a confused
 summary of the interior life of Bleeding Heart Yard. They was all hard
-up there, Mr Plornish said, uncommon hard up, to be sure. Well, he
+up there, Mr Plornish said, uncommon hard up, to be sure. [[Well]], he
 couldn’t say how it was; he didn’t know as anybody _could_ say how it
 was; all he know’d was, that so it was. When a man felt, on his own
 back and in his own belly, that poor he was, that man (Mr Plornish gave
-it as his decided belief) know’d well that he was poor somehow or
+it as his decided belief) know’d [[Well|well]] that he was poor somehow or
 another, and you couldn’t talk it out of him, no more than you could
 talk Beef into him. Then you see, some people as was better off said,
 and a good many such people lived pretty close up to the mark themselves
 if not beyond it so he’d heerd, that they was ‘improvident’ (that was
 the favourite word) down the Yard. For instance, if they see a man with
-his wife and children going to Hampton Court in a Wan, perhaps once in a
+his wife and children going to Hampton [[Court]] in a Wan, perhaps once in a
 year, they says, ‘Hallo! I thought you was poor, my improvident friend!’
 Why, Lord, how hard it was upon a man! What was a man to do? He couldn’t
 go mollancholy mad, and even if he did, you wouldn’t be the better for
@@ -123,9 +123,9 @@ seemed to want to make a man mollancholy mad. You was always at it--if
 not with your right hand, with your left. What was they a doing in the
 Yard? Why, take a look at ‘em and see. There was the girls and their
 mothers a working at their sewing, or their shoe-binding, or their
-trimming, or their waistcoat making, day and night and night and day,
-and not more than able to keep body and soul together after all--often
-not so much. There was people of pretty well all sorts of trades you
+trimming, or their waistcoat making, day and [[Night|night]] and [[Night|night]] and day,
+and not more than able to keep [[Body|body]] and [[Soul|soul]] together after all--often
+not so much. There was people of pretty [[Well|well]] all sorts of trades you
 could name, all wanting to work, and yet not able to get it. There was
 old people, after working all their lives, going and being shut up in
 the workhouse, much worse fed and lodged and treated altogether,
@@ -141,8 +141,8 @@ do nothing for him, you had better take nothing from him for doing of
 it; so far as he could make out, that was about what it come to. Thus,
 in a prolix, gently-growling, foolish way, did Plornish turn the tangled
 skein of his estate about and about, like a blind man who was trying to
-find some beginning or end to it; until they reached the prison gate.
-There, he left his Principal alone; to wonder, as he rode away, how many
-thousand Plornishes there might be within a day or two’s journey of the
+find some beginning or end to it; until they reached the [[Prison|prison]] gate.
+There, he left his Principal [[Alone|alone]]; to [[Wonder|wonder]], as he rode away, how many
+thousand Plornishes there might be within a day or two’s [[Journey|journey]] of the
 Circumlocution Office, playing sundry curious variations on the same
 tune, which were not known by ear in that glorious institution.

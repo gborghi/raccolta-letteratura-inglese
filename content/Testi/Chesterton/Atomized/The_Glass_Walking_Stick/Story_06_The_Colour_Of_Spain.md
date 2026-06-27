@@ -35,9 +35,9 @@ But nothing could make that glowing shield glow more vividly
 than to be worn by a knight in black armour or carried by a page
 in black velvet.
 
-The well-known picture of the Spanish lady wearing a black mantilla
-and a red rose would be sufficient to make us recognize the tradition.
-The mantilla alone shows that black is a gay colour and almost the colour
+The [[Well|well]]-known picture of the Spanish lady wearing a black mantilla
+and a red [[Rose|rose]] would be sufficient to make us recognize the tradition.
+The mantilla [[Alone|alone]] shows that black is a gay colour and almost the colour
 of frivolity.  For the Spanish ladies who keep the old custom in this
 respect look far more like what the old ballads call `ladies gay',
 the dames of a joyous Court, or the dancing girls of a jovial festival,
@@ -114,11 +114,11 @@ strike us as abnormalities or even abominations; but it is not
 seeing a country to look for the things that you abominate.
 Now I know that the Spaniards I saw are a kind people;
 they are astonishingly kind to children; they are not
-normally unkind to animals.  There is a home for stray cats
-actually kept in the cloisters of the cathedral of Tarragona;
+normally unkind to [[Animals|animals]].  There is a [[Home|home]] for stray cats
+actually kept in the cloisters of the [[Cathedral|cathedral]] of Tarragona;
 and I have seen crowds of cats gathered round the image
-of St Ramon Nonato like the crowds of birds round St Francis.
-There are plenty of ordinary people making friends with dogs
+of St Ramon Nonato like the crowds of [[Birds|birds]] round St Francis.
+There are plenty of ordinary people making friends with [[dogs]]
 and horses in the ordinary way.  But if I had preferred
 a Grand Guignol thrill to a great experience of a great nation,
 I might have allowed it to get between me and all these things.
@@ -135,7 +135,7 @@ at the thought of those who have again been trying to prove
 to me that religion has no function but to make men sad.
 Those who gradually built up the ancient customs of mankind had
 a better sense of proportion and decoration.  They knew, if only
-by instinct, how things grave and gay can be combined and distributed
+by instinct, how things [[Grave|grave]] and gay can be combined and distributed
 and where flippancy is fitting and where solemnity fits in with it;
 what contrast will best bring out a real severity and what is
 the psychological meaning of that profound phrase `comic relief';

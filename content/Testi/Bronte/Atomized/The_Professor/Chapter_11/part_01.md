@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 10 (part 1)"
+title: "[[The Professor]] — Chapter 10 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -24,9 +24,9 @@ wanted the afternoon to come that I might go again to the neighbouring
 
 pensionnat and give my first lesson within its pleasant precincts; for
 
-pleasant they appeared to me. At noon the hour of recreation arrived; at
+pleasant they appeared to me. At [[Noon|noon]] the hour of recreation arrived; at
 
-one o’clock we had lunch; this got on the time, and at last St. Gudule’s
+one o’[[Clock|clock]] we had lunch; this got on the [[Time|time]], and at last St. Gudule’s
 
 deep bell, tolling slowly two, marked the moment for which I had been
 
@@ -88,7 +88,7 @@ sound.
 
 Again I stood at the neighbouring door, and soon was re-admitted into
 
-the cheerful passage with its clear dove-colour imitation marble walls.
+the cheerful passage with its clear dove-colour [[Imitation|imitation]] marble walls.
 
 I followed the portress, and descending a step, and making a turn, I
 
@@ -102,7 +102,7 @@ her compact round shape to perfection--delicate little collar and
 
 manchettes of lace, trim Parisian brodequins showed her neck, wrists,
 
-and feet, to complete advantage; but how grave was her face as she
+and feet, to complete advantage; but how [[Grave|grave]] was her face as she
 
 came suddenly upon me! Solicitude and business were in her eye--on her
 
@@ -132,7 +132,7 @@ unsettled.”
 
 She was quite right, as I had found from experience; it only remained
 
-for me to acquiesce. We proceeded now in silence. The corridor
+for me to acquiesce. We proceeded now in [[Silence|silence]]. The corridor
 
 terminated in a hall, large, lofty, and square; a glass door on one side
 
@@ -140,7 +140,7 @@ showed within a long narrow refectory, with tables, an armoire, and
 
 two lamps; it was empty; large glass doors, in front, opened on the
 
-playground and garden; a broad staircase ascended spirally on the
+playground and [[Garden|garden]]; a broad staircase ascended spirally on the
 
 opposite side; the remaining wall showed a pair of great folding-doors,
 
@@ -152,7 +152,7 @@ Mdlle. Reuter turned her eye laterally on me, to ascertain, probably,
 
 whether I was collected enough to be ushered into her sanctum sanctorum.
 
-I suppose she judged me to be in a tolerable state of self-government,
+I suppose she judged me to be in a tolerable state of [[Self|self]]-[[government]],
 
 for she opened the door, and I followed her through. A rustling sound of
 
@@ -170,13 +170,13 @@ At the back of the estrade, and attached to a moveable partition
 
 dividing this schoolroom from another beyond, was a large tableau of
 
-wood painted black and varnished; a thick crayon of white chalk lay on
+wood painted black and varnished; a thick crayon of white [[chalk]] lay on
 
 my desk for the convenience of elucidating any grammatical or verbal
 
 obscurity which might occur in my lessons by writing it upon the
 
-tableau; a wet sponge appeared beside the chalk, to enable me to efface
+tableau; a wet sponge appeared beside the [[chalk]], to enable me to efface
 
 the marks when they had served the purpose intended.
 
@@ -198,7 +198,7 @@ And first I observed that Mdlle. Reuter had already glided away, she
 
 was nowhere visible; a maitresse or teacher, the one who occupied the
 
-corresponding estrade to my own, alone remained to keep guard over me;
+corresponding estrade to my own, [[Alone|alone]] remained to keep guard over me;
 
 she was a little in the shade, and, with my short sight, I could only
 
@@ -208,7 +208,7 @@ and that her attitude, as she sat, partook equally of listlessness and
 
 affectation. More obvious, more prominent, shone on by the full light of
 
-the large window, were the occupants of the benches just before me, of
+the large [[Window|window]], were the occupants of the benches just before me, of
 
 whom some were girls of fourteen, fifteen, sixteen, some young women
 

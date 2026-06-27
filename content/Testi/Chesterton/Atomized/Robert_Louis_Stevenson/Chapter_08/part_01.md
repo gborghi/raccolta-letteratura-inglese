@@ -20,7 +20,7 @@ THE LIMITS OF A CRAFT
 
 THE truest adverse criticism of Stevenson was written by Stevenson.
 It was also very Stevensonian; for it took the form of saying,
-about his own fictitious characters, that his temptation was always
+about his own fictitious characters, that his [[Temptation|temptation]] was always
 "to cut the flesh off the bones."  Even here we may note his peculiar
 cutting or hacking accent; it sounds like some horrid crime of
 Barbecue or Billy Bones.  Indeed that word is sufficiently symbolic
@@ -41,11 +41,11 @@ with an economy of detail and a suppression of irrelevance
 which had at last something about it stark and unnatural.
 He is to be commended among authors for sticking to the point;
 but real people do not stick quite so stubbornly to the point as that.
-We can here best realise his real error, as well as his real originality,
+We can here best realise his real error, as [[Well|well]] as his real originality,
 by comparing him with the great Victorian novelists in whose vast
-shadow he grew up.  I shall have occasion to note afterwards
+[[Shadow|shadow]] he grew up.  I shall have occasion to note afterwards
 that his collision was not with these in the matter of morals
-or philosophy; for on that side he was looking forward and not back.
+or [[philosophy]]; for on that side he was looking forward and not back.
 But there is a strong contrast, and a striking new departure,
 in the passage from the very best of Thackeray or Trollope to
 the first sketches, I had almost said scratches, of Stevenson.
@@ -62,34 +62,34 @@ Hence their taste for sequels and continuous family histories;
 and all the positively last appearances of Mr. Pendennis or Mrs. Proudie.
 And this repetition, this rambling, even this padding, did in a curious
 confused fashion confirm the reality of the characters.  As the padded
-Victorian furniture did really make people feel at home, so the padded
-Victorian novels made the reader feel at home with the characters.
-Now the reader never does feel quite at home with Stevenson's characters.
+Victorian furniture did really make people feel at [[Home|home]], so the padded
+Victorian novels made the reader feel at [[Home|home]] with the characters.
+Now the reader never does feel quite at [[Home|home]] with Stevenson's characters.
 He cannot get rid of an impression that he knows too little about them;
 though he knows that he knows all that is important about them.
-His tragedy is that he knows only what is important.  Alan Breck Stewart
+His [[Tragedy|tragedy]] is that he knows only what is important.  Alan Breck Stewart
 is not only a very lively but a very loveable character.
-And yet there is too little of him to love; though he might well draw
+And yet there is too little of him to [[Love|love]]; though he might [[Well|well]] draw
 his claymore upon us, if we made so dangerous an allusion.  We are not
-quite at ease with him, as we are at ease with Pickwick or Pendennis.
+quite at ease with him, as we are at ease with [[Pickwick]] or Pendennis.
 We know the vital things about him; and they are very vital.
 But we do not know _thousands_ of things about him; as we do about
-a man with whom we have lived through a long Early Victorian novel.
+a man with whom we have lived through a long Early Victorian [[Novel|novel]].
 Stevenson has in fact done exactly what he accused himself of doing;
 it is he who wields the claymore and he has cut the flesh off the bones.
 
 An illustration of the difference, of course, could be found in
 the presentation of the externals of a character.  The dark vivacity
-of the face of Alan Breck, the eyes with their "dancing madness,
+of the face of Alan Breck, the eyes with their "dancing [[Madness|madness]],
 at once engaging and alarming," springs up before us as clearly
 as a coloured photograph in the first few words of description;
 and the same few words have already set strutting the whole
 brisk little figure in the blue coat and silver buttons and
-the swagger of the big sword.  But the whole operation is so rapid
+the swagger of the big [[Sword|sword]].  But the whole operation is so rapid
 and complete as to have something about it almost unconvincing,
 like a conjuring trick.  It is like seeing something by a single flash
-of lightning; there is in that illumination a sort of illusion.
-For in the heart of anything that partakes of magic there is
+of [[Lightning|lightning]]; there is in that illumination a sort of illusion.
+For in the heart of anything that partakes of [[Magic|magic]] there is
 also something of mockery.  It is not so that we "get to know"
 the personal appearance of somebody in Thackeray or Trollope.
 It is by a multitude of apparently accidental or even unnecessary
@@ -109,21 +109,21 @@ the eyebrows and the corners of the mouth touched with temper;
 and a general appearance which, though not without distinction,
 was thrown up in a somewhat theatrical fashion by his dashing cutaway
 coat and white spats and the magenta coloured orchid in his buttonhole."
-Such a soliloquy seldom resounds in the suburban home;
+Such a soliloquy seldom resounds in the suburban [[Home|home]];
 and if the stranger's appearance comes to count for anything,
 it comes out bit by bit; as in saying, "I wasn't altogether
 surprised when he threw the inkstand; for I saw by his eyebrows
 he had a beast of a temper," or, "The office-boy was taken out
 incapacitated with laughter at the first sight of the spats."
 In the same way, nobody does actually say, as Mackellar does
-in the Stevensonian romance, "I was now near enough to see him,
+in the Stevensonian [[Romance|romance]], "I was now near enough to see him,
 a very handsome figure and countenance, swarthy, lean, long, with a
 quick, alert, black look, as of one who was a fighter and accustomed
 to command; upon one cheek he had a mole, not unbecoming; a large
 diamond sparkled on his hand; his clothes, although of the one hue,
 were of a French and foppish design; his ruffles, which he wore
 longer than common, of exquisite lace."  Men do not really describe
-things like that; would that they described anything so well!
+things like that; would that they described anything so [[Well|well]]!
 These facts about the Master of Ballantrae would have come out in a
 more fragmentary fashion in the real record of a real Mackellar.
 The diamond would have been mentioned in connection with a rumour
@@ -142,12 +142,12 @@ or that he was incapable in some cases of saying twenty times.
 Yet in some ways this repetition, though sometimes boring,
 is somehow convincing; I might almost say comforting.  It comes from
 that comfortable sense of social ease, which was a mark of the England
-of that brief period of mercantile success; or at least of that part
+of that brief period of mercantile [[success]]; or at least of that part
 of England which consisted of the merchants who had succeeded.
 And it exhibited, along with its other virtues and vices, that rather
 coarse benevolence that was at once a virtue and a vice.  "The British
 merchant's son shan't want, sir," said old Mr. Osborne; and neither
-should the spiritual child of Mr. William Makepeace Thackeray.
+should the spiritual [[Child|child]] of Mr. William Makepeace Thackeray.
 Words shall be poured out on him like wine; pages shall
 be open for him like parks, in which he may wander.
 He shall be allowed to hang about as long as he likes and the poorest

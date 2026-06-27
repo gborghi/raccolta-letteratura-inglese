@@ -1,5 +1,5 @@
 ---
-title: "The Purloined Letter"
+title: "[[The Purloined Letter]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/The-Purloined-Letter-(Poe)"
@@ -15,12 +15,12 @@ tags:
 
 Nil sapientiæ odiosius acumine nimio.—_Seneca_.
 
-      At Paris, just after dark one gusty evening in the autumn of 18-,
+      At [[Paris]], just after dark one gusty evening in the [[Autumn|autumn]] of 18-,
       I was enjoying the twofold luxury of meditation and a meerschaum,
-      in company with my friend C. Auguste Dupin, in his little back
+      in company with my friend [[C. Auguste Dupin]], in his little back
       library, or book-closet, _au troisième_, No. 33, _Rue Dunôt,
       Faubourg St. Germain_. For one hour at least we had maintained a
-      profound silence; while each, to any casual observer, might have
+      profound [[Silence|silence]]; while each, to any casual observer, might have
       seemed intently and exclusively occupied with the curling eddies
       of smoke that oppressed the atmosphere of the chamber. For
       myself, however, I was mentally discussing certain topics which
@@ -53,11 +53,11 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       and rolled towards him a comfortable chair.
 
       “And what is the difficulty now?” I asked. “Nothing more in the
-      assassination way, I hope?”
+      assassination way, I [[Hope|hope]]?”
 
-      “Oh no; nothing of that nature. The fact is, the business is very
-      simple indeed, and I make no doubt that we can manage it
-      sufficiently well ourselves; but then I thought Dupin would like
+      “Oh no; nothing of that [[Nature|nature]]. The fact is, the business is very
+      simple indeed, and I make no [[Doubt|doubt]] that we can manage it
+      sufficiently [[Well|well]] ourselves; but then I thought Dupin would like
       to hear the details of it, because it is so excessively odd.”
 
       “Simple and odd,” said Dupin.
@@ -76,10 +76,10 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
 
       “Oh, good heavens! who ever heard of such an idea?”
 
-      “A little too self-evident.”
+      “A little too [[Self|self]]-evident.”
 
       “Ha! ha! ha—ha! ha! ha!—ho! ho! ho!” roared our visitor,
-      profoundly amused, “oh, Dupin, you will be the death of me yet!”
+      profoundly amused, “oh, Dupin, you will be the [[Death|death]] of me yet!”
 
       “And what, after all, is the matter on hand?” I asked.
 
@@ -94,15 +94,15 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
 
       “Or not,” said Dupin.
 
-      “Well, then; I have received personal information, from a very
+      “[[Well]], then; I have received personal information, from a very
       high quarter, that a certain document of the last importance has
       been purloined from the royal apartments. The individual who
-      purloined it is known; this beyond a doubt; he was seen to take
+      purloined it is known; this beyond a [[Doubt|doubt]]; he was seen to take
       it. It is known, also, that it still remains in his possession.”
 
       “How is this known?” asked Dupin.
 
-      “It is clearly inferred,” replied the Prefect, “from the nature
+      “It is clearly inferred,” replied the Prefect, “from the [[Nature|nature]]
       of the document, and from the non-appearance of certain results
       which would at once arise from its passing out of the robber’s
       possession; that is to say, from his employing it as he must
@@ -110,14 +110,14 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
 
       “Be a little more explicit,” I said.
 
-      “Well, I may venture so far as to say that the paper gives its
+      “[[Well]], I may venture so far as to say that the paper gives its
       holder a certain power in a certain quarter where such power is
       immensely valuable.” The Prefect was fond of the cant of
       diplomacy.
 
       “Still I do not quite understand,” said Dupin.
 
-      “No? Well; the disclosure of the document to a third person, who
+      “No? [[Well]]; the disclosure of the document to a third person, who
       shall be nameless, would bring in question the honor of a
       personage of most exalted station; and this fact gives the holder
       of the document an ascendancy over the illustrious personage
@@ -128,10 +128,10 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       would dare—”
 
       “The thief,” said G., “is the Minister D——, who dares all things,
-      those unbecoming as well as those becoming a man. The method of
+      those unbecoming as [[Well|well]] as those becoming a man. The method of
       the theft was not less ingenious than bold. The document in
       question—a letter, to be frank—had been received by the personage
-      robbed while alone in the royal boudoir. During its perusal she
+      robbed while [[Alone|alone]] in the royal boudoir. During its perusal she
       was suddenly interrupted by the entrance of the other exalted
       personage from whom especially it was her wish to conceal it.
       After a hurried and vain endeavor to thrust it in a drawer, she
@@ -161,7 +161,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       dangerous extent. The personage robbed is more thoroughly
       convinced, every day, of the necessity of reclaiming her letter.
       But this, of course, cannot be done openly. In fine, driven to
-      despair, she has committed the matter to me.”
+      [[Despair|despair]], she has committed the matter to me.”
 
       “Than whom,” said Dupin, amid a perfect whirlwind of smoke, “no
       more sagacious agent could, I suppose, be desired, or even
@@ -185,13 +185,13 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       “But,” said I, “you are quite au fait in these investigations.
       The Parisian police have done this thing often before.”
 
-      “Oh, yes; and for this reason I did not despair. The habits of
+      “Oh, yes; and for this reason I did not [[Despair|despair]]. The habits of
       the minister gave me, too, a great advantage. He is frequently
-      absent from home all night. His servants are by no means
-      numerous. They sleep at a distance from their master’s apartment,
+      absent from [[Home|home]] all [[Night|night]]. His servants are by no means
+      numerous. They [[Sleep|sleep]] at a distance from their master’s apartment,
       and, being chiefly Neapolitans, are readily made drunk. I have
       keys, as you know, with which I can open any chamber or cabinet
-      in Paris. For three months a night has not passed, during the
+      in [[Paris]]. For three months a [[Night|night]] has not passed, during the
       greater part of which I have not been engaged, personally, in
       ransacking the D—— Hotel. My honor is interested, and, to mention
       a great secret, the reward is enormous. So I did not abandon the
@@ -205,7 +205,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       may have concealed it elsewhere than upon his own premises?”
 
       “This is barely possible,” said Dupin. “The present peculiar
-      condition of affairs at court, and especially of those intrigues
+      condition of affairs at [[Court|court]], and especially of those intrigues
       in which D—— is known to be involved, would render the instant
       availability of the document—its susceptibility of being produced
       at a moment’s notice—a point of nearly equal importance with its
@@ -224,11 +224,11 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       inspection.”
 
       “You might have spared yourself this trouble,” said Dupin. “D——,
-      I presume, is not altogether a fool, and, if not, must have
+      I presume, is not altogether a [[Fool|fool]], and, if not, must have
       anticipated these waylayings, as a matter of course.”
 
-      “Not altogether a fool,” said G., “but then he’s a poet, which I
-      take to be only one remove from a fool.”
+      “Not altogether a [[Fool|fool]],” said G., “but then he’s a poet, which I
+      take to be only one remove from a [[Fool|fool]].”
 
       “True,” said Dupin, after a long and thoughtful whiff from his
       meerschaum, “although I have been guilty of certain doggrel
@@ -236,7 +236,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
 
       “Suppose you detail,” said I, “the particulars of your search.”
 
-      “Why the fact is, we took our time, and we searched _everywhere_.
+      “Why the fact is, we took our [[Time|time]], and we searched _everywhere_.
       I have had long experience in these affairs. I took the entire
       building, room by room; devoting the nights of a whole week to
       each. We examined, first, the furniture of each apartment. We
@@ -277,16 +277,16 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       description of furniture, by the aid of a most powerful
       microscope. Had there been any traces of recent disturbance we
       should not have failed to detect it instantly. A single grain of
-      gimlet-dust, for example, would have been as obvious as an apple.
+      gimlet-[[Dust|dust]], for example, would have been as obvious as an apple.
       Any disorder in the glueing—any unusual gaping in the
       joints—would have sufficed to insure detection.”
 
       “I presume you looked to the mirrors, between the boards and the
-      plates, and you probed the beds and the bed-clothes, as well as
+      plates, and you probed the beds and the bed-clothes, as [[Well|well]] as
       the curtains and carpets.”
 
       “That of course; and when we had absolutely completed every
-      particle of the furniture in this way, then we examined the house
+      particle of the furniture in this way, then we examined the [[house]]
       itself. We divided its entire surface into compartments, which we
       numbered, so that none might be missed; then we scrutinized each
       individual square inch throughout the premises, including the two
@@ -320,7 +320,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
 
       “You explored the floors beneath the carpets?”
 
-      “Beyond doubt. We removed every carpet, and examined the boards
+      “Beyond [[Doubt|doubt]]. We removed every carpet, and examined the boards
       with the microscope.”
 
       “And the paper on the walls?”
@@ -334,7 +334,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       “Then,” I said, “you have been making a miscalculation, and the
       letter is not upon the premises, as you suppose.”
 
-      “I fear you are right there,” said the Prefect. “And now, Dupin,
+      “I [[Fear|fear]] you are right there,” said the Prefect. “And now, Dupin,
       what would you advise me to do?”
 
       “To make a thorough re-search of the premises.”
@@ -356,7 +356,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       us occupied very nearly as before. He took a pipe and a chair and
       entered into some ordinary conversation. At length I said,—
 
-      “Well, but G——, what of the purloined letter? I presume you have
+      “[[Well]], but G——, what of [[The Purloined Letter|the purloined letter]]? I presume you have
       at last made up your mind that there is no such thing as
       overreaching the Minister?”
 
@@ -387,7 +387,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
 
       “No; hang Abernethy!”
 
-      “To be sure! hang him and welcome. But, once upon a time, a
+      “To be sure! hang him and welcome. But, once upon a [[Time|time]], a
       certain rich miser conceived the design of spunging upon this
       Abernethy for a medical opinion. Getting up, for this purpose, an
       ordinary conversation in a private company, he insinuated his
@@ -403,7 +403,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       fifty thousand francs to any one who would aid me in the matter.”
 
       “In that case,” replied Dupin, opening a drawer, and producing a
-      check-book, “you may as well fill me up a check for the amount
+      check-book, “you may as [[Well|well]] fill me up a check for the amount
       mentioned. When you have signed it, I will hand you the letter.”
 
       I was astounded. The Prefect appeared absolutely
@@ -419,7 +419,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       grasped it in a perfect agony of joy, opened it with a trembling
       hand, cast a rapid glance at its contents, and then, scrambling
       and struggling to the door, rushed at length unceremoniously from
-      the room and from the house, without having uttered a syllable
+      the room and from the [[house]], without having uttered a syllable
       since Dupin had requested him to fill up the check.
 
       When he had gone, my friend entered into some explanations.
@@ -441,13 +441,13 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       I merely laughed—but he seemed quite serious in all that he said.
 
       “The measures, then,” he continued, “were good in their kind, and
-      well executed; their defect lay in their being inapplicable to
+      [[Well|well]] executed; their defect lay in their being inapplicable to
       the case, and to the man. A certain set of highly ingenious
       resources are, with the Prefect, a sort of Procrustean bed, to
       which he forcibly adapts his designs. But he perpetually errs by
       being too deep or too shallow for the matter in hand; and many a
       schoolboy is a better reasoner than he. I knew one about eight
-      years of age, whose success at guessing in the game of ‘even and
+      years of age, whose [[success]] at guessing in the game of ‘even and
       odd’ attracted universal admiration. This game is simple, and is
       played with marbles. One player holds in his hand a number of
       these toys, and demands of another whether that number is even or
@@ -477,14 +477,14 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
 
       “It is,” said Dupin; “and, upon inquiring of the boy by what
       means he effected the thorough identification in which his
-      success consisted, I received answer as follows: ‘When I wish to
+      [[success]] consisted, I received answer as follows: ‘When I wish to
       find out how wise, or how stupid, or how good, or how wicked is
       any one, or what are his thoughts at the moment, I fashion the
       expression of my face, as accurately as possible, in accordance
       with the expression of his, and then wait to see what thoughts or
       sentiments arise in my mind or heart, as if to match or
       correspond with the expression.’ This response of the schoolboy
-      lies at the bottom of all the spurious profundity which has been
+      lies at the [[Bottom|bottom]] of all the spurious profundity which has been
       attributed to Rochefoucault, to La Bougive, to Machiavelli, and
       to Campanella.”
 
@@ -539,7 +539,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       discovery would have been a matter altogether beyond question.
       This functionary, however, has been thoroughly mystified; and the
       remote source of his defeat lies in the supposition that the
-      Minister is a fool, because he has acquired renown as a poet. All
+      Minister is a [[Fool|fool]], because he has acquired renown as a poet. All
       fools are poets; this the Prefect feels; and he is merely guilty
       of a non distributio medii in thence inferring that all poets are
       fools.”
@@ -549,14 +549,14 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       Minister I believe has written learnedly on the Differential
       Calculus. He is a mathematician, and no poet.”
 
-      “You are mistaken; I know him well; he is both. As poet and
-      mathematician, he would reason well; as mere mathematician, he
+      “You are mistaken; I know him [[Well|well]]; he is both. As poet and
+      mathematician, he would reason [[Well|well]]; as mere mathematician, he
       could not have reasoned at all, and thus would have been at the
-      mercy of the Prefect.”
+      [[Mercy|mercy]] of the Prefect.”
 
       “You surprise me,” I said, “by these opinions, which have been
       contradicted by the voice of the world. You do not mean to set at
-      naught the well-digested idea of centuries. The mathematical
+      naught the [[Well|well]]-digested idea of centuries. The mathematical
       reason has long been regarded as the reason par excellence.”
 
       “‘Il y a à parièr,’” replied Dupin, quoting from Chamfort, “‘que
@@ -564,28 +564,28 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       elle a convenue au plus grand nombre.’ The mathematicians, I
       grant you, have done their best to promulgate the popular error
       to which you allude, and which is none the less an error for its
-      promulgation as truth. With an art worthy a better cause, for
+      promulgation as [[Truth|truth]]. With an art worthy a better cause, for
       example, they have insinuated the term ‘analysis’ into
       application to algebra. The French are the originators of this
-      particular deception; but if a term is of any importance—if words
+      particular [[Deception|deception]]; but if a term is of any importance—if words
       derive any value from applicability—then ‘analysis’ conveys
       ‘algebra’ about as much as, in Latin, ‘ambitus’ implies
-      ‘ambition,’ ‘_religio_’ ‘religion,’ or ‘_homines honesti_’ a set
+      ‘[[Ambition|ambition]],’ ‘_religio_’ ‘religion,’ or ‘_homines honesti_’ a set
       of _honorable_ men.”
 
       “You have a quarrel on hand, I see,” said I, “with some of the
-      algebraists of Paris; but proceed.”
+      algebraists of [[Paris]]; but proceed.”
 
       “I dispute the availability, and thus the value, of that reason
       which is cultivated in any especial form other than the
       abstractly logical. I dispute, in particular, the reason educed
       by mathematical study. The mathematics are the science of form
-      and quantity; mathematical reasoning is merely logic applied to
+      and quantity; mathematical reasoning is merely [[logic]] applied to
       observation upon form and quantity. The great error lies in
       supposing that even the truths of what is called pure algebra,
       are abstract or general truths. And this error is so egregious
       that I am confounded at the universality with which it has been
-      received. Mathematical axioms are not axioms of general truth.
+      received. Mathematical axioms are not axioms of general [[Truth|truth]].
       What is true of relation—of form and quantity—is often grossly
       false in regard to morals, for example. In this latter science it
       is very usually untrue that the aggregated parts are equal to the
@@ -602,16 +602,16 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       ourselves continually, and make inferences from them as existing
       realities.’ With the algebraists, however, who are Pagans
       themselves, the ‘Pagan fables’ are believed, and the inferences
-      are made, not so much through lapse of memory, as through an
+      are made, not so much through lapse of [[Memory|memory]], as through an
       unaccountable addling of the brains. In short, I never yet
       encountered the mere mathematician who could be trusted out of
       equal roots, or one who did not clandestinely hold it as a point
-      of his faith that x2+px was absolutely and unconditionally equal
+      of his [[Faith|faith]] that x2+px was absolutely and unconditionally equal
       to q. Say to one of these gentlemen, by way of experiment, if you
       please, that you believe occasions may occur where x2+px is not
       altogether equal to q, and, having made him understand what you
       mean, get out of his reach as speedily as convenient, for, beyond
-      doubt, he will endeavor to knock you down.
+      [[Doubt|doubt]], he will endeavor to knock you down.
 
       “I mean to say,” continued Dupin, while I merely laughed at his
       last observations, “that if the Minister had been no more than a
@@ -625,8 +625,8 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       events have proved that he did not fail to anticipate—the
       waylayings to which he was subjected. He must have foreseen, I
       reflected, the secret investigations of his premises. His
-      frequent absences from home at night, which were hailed by the
-      Prefect as certain aids to his success, I regarded only as ruses,
+      frequent absences from [[Home|home]] at [[Night|night]], which were hailed by the
+      Prefect as certain aids to his [[success]], I regarded only as ruses,
       to afford opportunity for thorough search to the police, and thus
       the sooner to impress them with the conviction to which G——, in
       fact, did finally arrive—the conviction that the letter was not
@@ -645,18 +645,18 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       choice. You will remember, perhaps, how desperately the Prefect
       laughed when I suggested, upon our first interview, that it was
       just possible this mystery troubled him so much on account of its
-      being so very self-evident.”
+      being so very [[Self|self]]-evident.”
 
-      “Yes,” said I, “I remember his merriment well. I really thought
+      “Yes,” said I, “I remember his merriment [[Well|well]]. I really thought
       he would have fallen into convulsions.”
 
       “The material world,” continued Dupin, “abounds with very strict
-      analogies to the immaterial; and thus some color of truth has
+      analogies to the immaterial; and thus some color of [[Truth|truth]] has
       been given to the rhetorical dogma, that metaphor, or simile, may
-      be made to strengthen an argument, as well as to embellish a
+      be made to strengthen an argument, as [[Well|well]] as to embellish a
       description. The principle of the vis inertiæ, for example, seems
       to be identical in physics and metaphysics. It is not more true
-      in the former, that a large body is with more difficulty set in
+      in the former, that a large [[Body|body]] is with more difficulty set in
       motion than a smaller one, and that its subsequent momentum is
       commensurate with this difficulty, than it is, in the latter,
       that intellects of the vaster capacity, while more forcible, more
@@ -671,7 +671,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
 
       “There is a game of puzzles,” he resumed, “which is played upon a
       map. One party playing requires another to find a given word—the
-      name of town, river, state or empire—any word, in short, upon the
+      name of town, [[River|river]], state or empire—any word, in short, upon the
       motley and perplexed surface of the chart. A novice in the game
       generally seeks to embarrass his opponents by giving them the
       most minutely lettered names; but the adept selects such words as
@@ -681,7 +681,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       obvious; and here the physical oversight is precisely analogous
       with the moral inapprehension by which the intellect suffers to
       pass unnoticed those considerations which are too obtrusively and
-      too palpably self-evident. But this is a point, it appears,
+      too palpably [[Self|self]]-evident. But this is a point, it appears,
       somewhat above or beneath the understanding of the Prefect. He
       never once thought it probable, or possible, that the Minister
       had deposited the letter immediately beneath the nose of the
@@ -699,7 +699,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
 
       “Full of these ideas, I prepared myself with a pair of green
       spectacles, and called one fine morning, quite by accident, at
-      the Ministerial hotel. I found D—— at home, yawning, lounging,
+      the Ministerial hotel. I found D—— at [[Home|home]], yawning, lounging,
       and dawdling, as usual, and pretending to be in the last
       extremity of ennui. He is, perhaps, the most really energetic
       human being now alive—but that is only when nobody sees him.
@@ -736,7 +736,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       black, with the D—— cipher; there it was small and red, with the
       ducal arms of the S—— family. Here, the address, to the Minister,
       diminutive and feminine; there the superscription, to a certain
-      royal personage, was markedly bold and decided; the size alone
+      royal personage, was markedly bold and decided; the size [[Alone|alone]]
       formed a point of correspondence. But, then, the radicalness of
       these differences, which was excessive; the dirt; the soiled and
       torn condition of the paper, so inconsistent with the true
@@ -751,11 +751,11 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
 
       “I protracted my visit as long as possible, and, while I
       maintained a most animated discussion with the Minister upon a
-      topic which I knew well had never failed to interest and excite
+      topic which I knew [[Well|well]] had never failed to interest and excite
       him, I kept my attention really riveted upon the letter. In this
-      examination, I committed to memory its external appearance and
+      examination, I committed to [[Memory|memory]] its external appearance and
       arrangement in the rack; and also fell, at length, upon a
-      discovery which set at rest whatever trivial doubt I might have
+      discovery which set at rest whatever trivial [[Doubt|doubt]] I might have
       entertained. In scrutinizing the edges of the paper, I observed
       them to be more chafed than seemed necessary. They presented the
       broken appearance which is manifested when a stiff paper, having
@@ -769,7 +769,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
 
       “The next morning I called for the snuff-box, when we resumed,
       quite eagerly, the conversation of the preceding day. While thus
-      engaged, however, a loud report, as if of a pistol, was heard
+      engaged, however, a loud report, as if of a [[Pistol|pistol]], was heard
       immediately beneath the windows of the hotel, and was succeeded
       by a series of fearful screams, and the shoutings of a terrified
       mob. D—— rushed to a casement, threw it open, and looked out. In
@@ -783,7 +783,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       behavior of a man with a musket. He had fired it among a crowd of
       women and children. It proved, however, to have been without
       ball, and the fellow was suffered to go his way as a lunatic or a
-      drunkard. When he had gone, D—— came from the window, whither I
+      drunkard. When he had gone, D—— came from the [[Window|window]], whither I
       had followed him immediately upon securing the object in view.
       Soon afterwards I bade him farewell. The pretended lunatic was a
       man in my own pay.”
@@ -796,7 +796,7 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       His hotel, too, is not without attendants devoted to his
       interests. Had I made the wild attempt you suggest, I might never
       have left the Ministerial presence alive. The good people of
-      Paris might have heard of me no more. But I had an object apart
+      [[Paris]] might have heard of me no more. But I had an object apart
       from these considerations. You know my political prepossessions.
       In this matter, I act as a partisan of the lady concerned. For
       eighteen months the Minister has had her in his power. She has
@@ -804,12 +804,12 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       his possession, he will proceed with his exactions as if it was.
       Thus will he inevitably commit himself, at once, to his political
       destruction. His downfall, too, will not be more precipitate than
-      awkward. It is all very well to talk about the facilis descensus
+      awkward. It is all very [[Well|well]] to talk about the facilis descensus
       Averni; but in all kinds of climbing, as Catalani said of
       singing, it is far more easy to get up than to come down. In the
       present instance I have no sympathy—at least no pity—for him who
       descends. He is that monstrum horrendum, an unprincipled man of
-      genius. I confess, however, that I should like very well to know
+      genius. I confess, however, that I should like very [[Well|well]] to know
       the precise character of his thoughts, when, being defied by her
       whom the Prefect terms ‘a certain personage’ he is reduced to
       opening the letter which I left for him in the card-rack.”
@@ -820,8 +820,8 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       blank—that would have been insulting. D——, at Vienna once, did me
       an evil turn, which I told him, quite good-humoredly, that I
       should remember. So, as I knew he would feel some curiosity in
-      regard to the identity of the person who had outwitted him, I
-      thought it a pity not to give him a clue. He is well acquainted
+      regard to the [[Identity|identity]] of the person who had outwitted him, I
+      thought it a pity not to give him a clue. He is [[Well|well]] acquainted
       with my MS., and I just copied into the middle of the blank sheet
       the words—
 

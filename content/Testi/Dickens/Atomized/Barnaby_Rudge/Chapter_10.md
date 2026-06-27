@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 10"
+title: "[[Barnaby Rudge]] — Chapter 10"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -17,41 +17,41 @@ tags:
 Chapter 10
 
 
-It was on one of those mornings, common in early spring, when the year,
+It was on one of those mornings, common in early [[spring]], when the year,
 fickle and changeable in its youth like all other created things, is
-undecided whether to step backward into winter or forward into summer,
+undecided whether to step backward into [[Winter|winter]] or forward into [[Summer|summer]],
 and in its uncertainty inclines now to the one and now to the other, and
-now to both at once--wooing summer in the sunshine, and lingering still
-with winter in the shade--it was, in short, on one of those mornings,
+now to both at once--wooing [[Summer|summer]] in the sunshine, and lingering still
+with [[Winter|winter]] in the shade--it was, in short, on one of those mornings,
 when it is hot and cold, wet and dry, bright and lowering, sad and
 cheerful, withering and genial, in the compass of one short hour, that
 old John Willet, who was dropping asleep over the copper boiler, was
-roused by the sound of a horse’s feet, and glancing out at window,
+roused by the sound of a [[Horse|horse]]’s feet, and glancing out at [[Window|window]],
 beheld a traveller of goodly promise, checking his bridle at the Maypole
 door.
 
 He was none of your flippant young fellows, who would call for a tankard
-of mulled ale, and make themselves as much at home as if they had
+of mulled ale, and make themselves as much at [[Home|home]] as if they had
 ordered a hogshead of wine; none of your audacious young swaggerers, who
 would even penetrate into the bar--that solemn sanctuary--and, smiting
 old John upon the back, inquire if there was never a pretty girl in the
-house, and where he hid his little chambermaids, with a hundred other
-impertinences of that nature; none of your free-and-easy companions, who
+[[house]], and where he hid his little chambermaids, with a hundred other
+impertinences of that [[Nature|nature]]; none of your free-and-easy companions, who
 would scrape their boots upon the firedogs in the common room, and
 be not at all particular on the subject of spittoons; none of your
 unconscionable blades, requiring impossible chops, and taking unheard-of
-pickles for granted. He was a staid, grave, placid gentleman, something
+pickles for granted. He was a staid, [[Grave|grave]], placid gentleman, something
 past the prime of life, yet upright in his carriage, for all that, and
-slim as a greyhound. He was well-mounted upon a sturdy chestnut cob, and
+slim as a greyhound. He was [[Well|well]]-mounted upon a sturdy chestnut cob, and
 had the graceful seat of an experienced horseman; while his riding gear,
 though free from such fopperies as were then in vogue, was handsome and
-well chosen. He wore a riding-coat of a somewhat brighter green than
+[[Well|well]] chosen. He wore a riding-coat of a somewhat brighter green than
 might have been expected to suit the taste of a gentleman of his years,
 with a short, black velvet cape, and laced pocket-holes and cuffs, all
 of a jaunty fashion; his linen, too, was of the finest kind, worked in a
 rich pattern at the wrists and throat, and scrupulously white. Although
 he seemed, judging from the mud he had picked up on the way, to have
-come from London, his horse was as smooth and cool as his own iron-grey
+come from [[London]], his [[Horse|horse]] was as smooth and cool as his own iron-grey
 periwig and pigtail. Neither man nor beast had turned a single hair; and
 saving for his soiled skirts and spatter-dashes, this gentleman, with
 his blooming face, white teeth, exactly-ordered dress, and perfect
@@ -60,26 +60,26 @@ to sit for an equestrian portrait at old John Willet’s gate.
 
 It must not be supposed that John observed these several characteristics
 by other than very slow degrees, or that he took in more than half a one
-at a time, or that he even made up his mind upon that, without a great
+at a [[Time|time]], or that he even made up his mind upon that, without a great
 deal of very serious consideration. Indeed, if he had been distracted in
 the first instance by questionings and orders, it would have taken him
 at the least a fortnight to have noted what is here set down; but it
-happened that the gentleman, being struck with the old house, or with
+happened that the gentleman, being struck with the old [[house]], or with
 the plump pigeons which were skimming and curtseying about it, or with
 the tall maypole, on the top of which a weathercock, which had been out
 of order for fifteen years, performed a perpetual walk to the music of
-its own creaking, sat for some little time looking round in silence.
-Hence John, standing with his hand upon the horse’s bridle, and
+its own creaking, sat for some little [[Time|time]] looking round in [[Silence|silence]].
+Hence John, standing with his hand upon the [[Horse|horse]]’s bridle, and
 his great eyes on the rider, and with nothing passing to divert his
 thoughts, had really got some of these little circumstances into his
-brain by the time he was called upon to speak.
+brain by the [[Time|time]] he was called upon to speak.
 
 ‘A quaint place this,’ said the gentleman--and his voice was as rich as
 his dress. ‘Are you the landlord?’
 
 ‘At your service, sir,’ replied John Willet.
 
-‘You can give my horse good stabling, can you, and me an early dinner (I
+‘You can give my [[Horse|horse]] good stabling, can you, and me an early dinner (I
 am not particular what, so that it be cleanly served), and a decent
 room of which there seems to be no lack in this great mansion,’ said the
 stranger, again running his eyes over the exterior.
@@ -87,7 +87,7 @@ stranger, again running his eyes over the exterior.
 ‘You can have, sir,’ returned John with a readiness quite surprising,
 ‘anything you please.’
 
-‘It’s well I am easily satisfied,’ returned the other with a smile,
+‘It’s [[Well|well]] I am easily satisfied,’ returned the other with a smile,
 ‘or that might prove a hardy pledge, my friend.’ And saying so, he
 dismounted, with the aid of the block before the door, in a twinkling.
 
@@ -95,35 +95,35 @@ dismounted, with the aid of the block before the door, in a twinkling.
 you standing in the porch; but my son has gone to town on business, and
 the boy being, as I may say, of a kind of use to me, I’m rather put
 out when he’s away. Hugh!--a dreadful idle vagrant fellow, sir, half
-a gipsy, as I think--always sleeping in the sun in summer, and in
-the straw in winter time, sir--Hugh! Dear Lord, to keep a gentleman
+a gipsy, as I think--always sleeping in the sun in [[Summer|summer]], and in
+the straw in [[Winter|winter]] [[Time|time]], sir--Hugh! Dear Lord, to keep a gentleman
 a waiting here through him!--Hugh! I wish that chap was dead, I do
 indeed.’
 
 ‘Possibly he is,’ returned the other. ‘I should think if he were living,
-he would have heard you by this time.’
+he would have heard you by this [[Time|time]].’
 
 ‘In his fits of laziness, he sleeps so desperate hard,’ said the
-distracted host, ‘that if you were to fire off cannon-balls into his
+distracted host, ‘that if you were to [[Fire|fire]] off cannon-balls into his
 ears, it wouldn’t wake him, sir.’
 
-The guest made no remark upon this novel cure for drowsiness, and recipe
+The guest made no remark upon this [[Novel|novel]] cure for drowsiness, and recipe
 for making people lively, but, with his hands clasped behind him, stood
 in the porch, very much amused to see old John, with the bridle in his
 hand, wavering between a strong impulse to abandon the animal to his
-fate, and a half disposition to lead him into the house, and shut him up
+fate, and a half disposition to lead him into the [[house]], and shut him up
 in the parlour, while he waited on his master.
 
 ‘Pillory the fellow, here he is at last!’ cried John, in the very height
-and zenith of his distress. ‘Did you hear me a calling, villain?’
+and zenith of his distress. ‘Did you hear me a calling, [[Villain|villain]]?’
 
 The figure he addressed made no answer, but putting his hand upon the
-saddle, sprung into it at a bound, turned the horse’s head towards the
+saddle, sprung into it at a bound, turned the [[Horse|horse]]’s head towards the
 stable, and was gone in an instant.
 
 ‘Brisk enough when he is awake,’ said the guest.
 
-‘Brisk enough, sir!’ replied John, looking at the place where the horse
+‘Brisk enough, sir!’ replied John, looking at the place where the [[Horse|horse]]
 had been, as if not yet understanding quite, what had become of him. ‘He
 melts, I think. He goes like a drop of froth. You look at him, and there
 he is. You look at him again, and--there he isn’t.’
@@ -133,25 +133,25 @@ he had faintly intended should be a long explanation of the whole life
 and character of his man, the oracular John Willet led the gentleman up
 his wide dismantled staircase into the Maypole’s best apartment.
 
-It was spacious enough in all conscience, occupying the whole depth of
-the house, and having at either end a great bay window, as large as many
+It was spacious enough in all [[Conscience|conscience]], occupying the whole depth of
+the [[house]], and having at either end a great bay [[Window|window]], as large as many
 modern rooms; in which some few panes of stained glass, emblazoned
 with fragments of armorial bearings, though cracked, and patched, and
 shattered, yet remained; attesting, by their presence, that the former
 owner had made the very light subservient to his state, and pressed the
 sun itself into his list of flatterers; bidding it, when it shone into
 his chamber, reflect the badges of his ancient family, and take new hues
-and colours from their pride.
+and colours from their [[Pride|pride]].
 
 But those were old days, and now every little ray came and went as it
-would; telling the plain, bare, searching truth. Although the best room
-of the inn, it had the melancholy aspect of grandeur in decay, and was
+would; telling the plain, bare, searching [[Truth|truth]]. Although the best room
+of the inn, it had the [[Melancholy|melancholy]] aspect of grandeur in [[Decay|decay]], and was
 much too vast for comfort. Rich rustling hangings, waving on the walls;
-and, better far, the rustling of youth and beauty’s dress; the light of
+and, better far, the rustling of youth and [[Beauty|beauty]]’s dress; the light of
 women’s eyes, outshining the tapers and their own rich jewels; the sound
 of gentle tongues, and music, and the tread of maiden feet, had once
 been there, and filled it with delight. But they were gone, and with
-them all its gladness. It was no longer a home; children were never born
+them all its gladness. It was no longer a [[Home|home]]; children were never born
 and bred there; the fireside had become mercenary--a something to be
 bought and sold--a very courtezan: let who would die, or sit beside, or
 leave it, it was still the same--it missed nobody, cared for nobody,
@@ -161,14 +161,14 @@ changes with the world, as an old mansion when it becomes an inn!
 No effort had been made to furnish this chilly waste, but before the
 broad chimney a colony of chairs and tables had been planted on a square
 of carpet, flanked by a ghostly screen, enriched with figures, grinning
-and grotesque. After lighting with his own hands the faggots which were
-heaped upon the hearth, old John withdrew to hold grave council with his
+and [[Grotesque|grotesque]]. After lighting with his own hands the faggots which were
+heaped upon the hearth, old John withdrew to hold [[Grave|grave]] council with his
 cook, touching the stranger’s entertainment; while the guest himself,
 seeing small comfort in the yet unkindled wood, opened a lattice in the
-distant window, and basked in a sickly gleam of cold March sun.
+distant [[Window|window]], and basked in a sickly gleam of cold March sun.
 
-Leaving the window now and then, to rake the crackling logs together,
-or pace the echoing room from end to end, he closed it when the fire was
+Leaving the [[Window|window]] now and then, to rake the crackling logs together,
+or pace the echoing room from end to end, he closed it when the [[Fire|fire]] was
 quite burnt up, and having wheeled the easiest chair into the warmest
 corner, summoned John Willet.
 
@@ -178,16 +178,16 @@ He wanted pen, ink, and paper. There was an old standish on the
 mantelshelf containing a dusty apology for all three. Having set this
 before him, the landlord was retiring, when he motioned him to stay.
 
-‘There’s a house not far from here,’ said the guest when he had written
+‘There’s a [[house]] not far from here,’ said the guest when he had written
 a few lines, ‘which you call the Warren, I believe?’
 
 As this was said in the tone of one who knew the fact, and asked the
 question as a thing of course, John contented himself with nodding his
-head in the affirmative; at the same time taking one hand out of his
+head in the affirmative; at the same [[Time|time]] taking one hand out of his
 pockets to cough behind, and then putting it in again.
 
 ‘I want this note’--said the guest, glancing on what he had written, and
-folding it, ‘conveyed there without loss of time, and an answer brought
+folding it, ‘conveyed there without loss of [[Time|time]], and an answer brought
 back here. Have you a messenger at hand?’
 
 John was thoughtful for a minute or thereabouts, and then said Yes.
@@ -197,9 +197,9 @@ John was thoughtful for a minute or thereabouts, and then said Yes.
 This was disconcerting; for Joe being out, and Hugh engaged in rubbing
 down the chestnut cob, he designed sending on the errand, Barnaby, who
 had just then arrived in one of his rambles, and who, so that he thought
-himself employed on a grave and serious business, would go anywhere.
+himself employed on a [[Grave|grave]] and serious business, would go anywhere.
 
-‘Why the truth is,’ said John after a long pause, ‘that the person who’d
+‘Why the [[Truth|truth]] is,’ said John after a long pause, ‘that the person who’d
 go quickest, is a sort of natural, as one may say, sir; and though quick
 of foot, and as much to be trusted as the post itself, he’s not good at
 talking, being touched and flighty, sir.’
@@ -213,13 +213,13 @@ expressive with surprise.
 ‘How comes he to be here?’ inquired the guest, leaning back in his
 chair; speaking in the bland, even tone, from which he never varied; and
 with the same soft, courteous, never-changing smile upon his face. ‘I
-saw him in London last night.’
+saw him in [[London]] last [[Night|night]].’
 
 ‘He’s, for ever, here one hour, and there the next,’ returned old John,
 after the usual pause to get the question in his mind. ‘Sometimes he
-walks, and sometimes runs. He’s known along the road by everybody, and
-sometimes comes here in a cart or chaise, and sometimes riding double.
-He comes and goes, through wind, rain, snow, and hail, and on the
+walks, and sometimes runs. He’s known along the [[Road|road]] by everybody, and
+sometimes comes here in a cart or chaise, and sometimes riding [[Double|double]].
+He comes and goes, through [[Wind|wind]], rain, [[Snow|snow]], and hail, and on the
 darkest nights. Nothing hurts HIM.’
 
 ‘He goes often to the Warren, does he not?’ said the guest carelessly.
@@ -227,7 +227,7 @@ darkest nights. Nothing hurts HIM.’
 yesterday. But I was not attending to the good woman much.’
 
 ‘You’re right, sir,’ John made answer, ‘he does. His father, sir, was
-murdered in that house.’
+murdered in that [[house]].’
 
 ‘So I have heard,’ returned the guest, taking a gold toothpick from his
 pocket with the same sweet smile. ‘A very disagreeable circumstance for
@@ -246,7 +246,7 @@ be enough to wear one’s life out.--You were going to say, friend--’ he
 added, turning to John again.
 
 ‘Only that Mrs Rudge lives on a little pension from the family, and that
-Barnaby’s as free of the house as any cat or dog about it,’ answered
+Barnaby’s as free of the [[house]] as any cat or dog about it,’ answered
 John. ‘Shall he do your errand, sir?’
 
 ‘Oh yes,’ replied the guest. ‘Oh certainly. Let him do it by all means.
@@ -258,19 +258,19 @@ John was so very much astonished to find who his visitor was, that he
 could express no astonishment at all, by looks or otherwise, but left
 the room as if he were in the most placid and imperturbable of all
 possible conditions. It has been reported that when he got downstairs,
-he looked steadily at the boiler for ten minutes by the clock, and all
-that time never once left off shaking his head; for which statement
-there would seem to be some ground of truth and feasibility, inasmuch
-as that interval of time did certainly elapse, before he returned with
+he looked steadily at the boiler for ten minutes by the [[Clock|clock]], and all
+that [[Time|time]] never once left off shaking his head; for which statement
+there would seem to be some ground of [[Truth|truth]] and feasibility, inasmuch
+as that interval of [[Time|time]] did certainly elapse, before he returned with
 Barnaby to the guest’s apartment.
 
-‘Come hither, lad,’ said Mr Chester. ‘You know Mr Geoffrey Haredale?’
+‘Come hither, lad,’ said Mr Chester. ‘You know Mr [[Geoffrey Haredale]]?’
 
 Barnaby laughed, and looked at the landlord as though he would say,
 ‘You hear him?’ John, who was greatly shocked at this breach of decorum,
 clapped his finger to his nose, and shook his head in mute remonstrance.
 
-‘He knows him, sir,’ said John, frowning aside at Barnaby, ‘as well as
+‘He knows him, sir,’ said John, frowning aside at Barnaby, ‘as [[Well|well]] as
 you or I do.’
 
 ‘I haven’t the pleasure of much acquaintance with the gentleman,’
@@ -281,7 +281,7 @@ Although this was said with the same easy affability, and the same
 smile, John felt himself put down, and laying the indignity at Barnaby’s
 door, determined to kick his raven, on the very first opportunity.
 
-‘Give that,’ said the guest, who had by this time sealed the note, and
+‘Give that,’ said the guest, who had by this [[Time|time]] sealed the note, and
 who beckoned his messenger towards him as he spoke, ‘into Mr Haredale’s
 own hands. Wait for an answer, and bring it back to me here. If you
 should find that Mr Haredale is engaged just now, tell him--can he
@@ -297,7 +297,7 @@ sagely.
 
 ‘Tell him then, Barnaby, should he be engaged,’ said Mr Chester, ‘that
 I shall be glad to wait his convenience here, and to see him (if he will
-call) at any time this evening.--At the worst I can have a bed here,
+call) at any [[Time|time]] this evening.--At the worst I can have a bed here,
 Willet, I suppose?’
 
 Old John, immensely flattered by the personal notoriety implied in this
@@ -305,17 +305,17 @@ familiar form of address, answered, with something like a knowing look,
 ‘I should believe you could, sir,’ and was turning over in his mind
 various forms of eulogium, with the view of selecting one appropriate to
 the qualities of his best bed, when his ideas were put to flight by Mr
-Chester giving Barnaby the letter, and bidding him make all speed away.
+Chester giving Barnaby the letter, and bidding him make all [[Speed|speed]] away.
 
-‘Speed!’ said Barnaby, folding the little packet in his breast, ‘Speed!
+‘[[Speed]]!’ said Barnaby, folding the little packet in his breast, ‘[[Speed]]!
 If you want to see hurry and mystery, come here. Here!’
 
 With that, he put his hand, very much to John Willet’s horror, on the
 guest’s fine broadcloth sleeve, and led him stealthily to the back
-window.
+[[Window|window]].
 
 ‘Look down there,’ he said softly; ‘do you mark how they whisper in each
-other’s ears; then dance and leap, to make believe they are in sport?
+other’s ears; then [[Dance|dance]] and leap, to make believe they are in sport?
 Do you see how they stop for a moment, when they think there is no one
 looking, and mutter among themselves again; and then how they roll and
 gambol, delighted with the mischief they’ve been plotting? Look at
@@ -325,12 +325,12 @@ lain upon the grass and watched them. I say what is it that they plot
 and hatch? Do you know?’
 
 ‘They are only clothes,’ returned the guest, ‘such as we wear; hanging
-on those lines to dry, and fluttering in the wind.’
+on those lines to dry, and fluttering in the [[Wind|wind]].’
 
 ‘Clothes!’ echoed Barnaby, looking close into his face, and falling
 quickly back. ‘Ha ha! Why, how much better to be silly, than as wise
 as you! You don’t see shadowy people there, like those that live in
-sleep--not you. Nor eyes in the knotted panes of glass, nor swift ghosts
+[[Sleep|sleep]]--not you. Nor eyes in the knotted panes of glass, nor swift [[Ghosts|ghosts]]
 when it blows hard, nor do you hear voices in the air, nor see men
 stalking in the sky--not you! I lead a merrier life than you, with all
 your cleverness. You’re the dull men. We’re the bright ones. Ha! ha!
@@ -341,19 +341,19 @@ With that, he waved his hat above his head, and darted off.
 ‘A strange creature, upon my word!’ said the guest, pulling out a
 handsome box, and taking a pinch of snuff.
 
-‘He wants imagination,’ said Mr Willet, very slowly, and after a long
-silence; ‘that’s what he wants. I’ve tried to instil it into him, many
-and many’s the time; but’--John added this in confidence--‘he an’t made
+‘He wants [[Imagination|imagination]],’ said Mr Willet, very slowly, and after a long
+[[Silence|silence]]; ‘that’s what he wants. I’ve tried to instil it into him, many
+and many’s the [[Time|time]]; but’--John added this in confidence--‘he an’t made
 for it; that’s the fact.’
 
 To record that Mr Chester smiled at John’s remark would be little to the
 purpose, for he preserved the same conciliatory and pleasant look at all
-times. He drew his chair nearer to the fire though, as a kind of hint
-that he would prefer to be alone, and John, having no reasonable excuse
+times. He drew his chair nearer to the [[Fire|fire]] though, as a kind of hint
+that he would prefer to be [[Alone|alone]], and John, having no reasonable excuse
 for remaining, left him to himself.
 
 Very thoughtful old John Willet was, while the dinner was preparing; and
-if his brain were ever less clear at one time than another, it is but
+if his brain were ever less clear at one [[Time|time]] than another, it is but
 reasonable to suppose that he addled it in no slight degree by shaking
 his head so much that day. That Mr Chester, between whom and Mr
 Haredale, it was notorious to all the neighbourhood, a deep and bitter
@@ -364,10 +364,10 @@ could not overcome. The only resource he had, was to consult the boiler,
 and wait impatiently for Barnaby’s return.
 
 But Barnaby delayed beyond all precedent. The visitor’s dinner was
-served, removed, his wine was set, the fire replenished, the hearth
+served, removed, his wine was set, the [[Fire|fire]] replenished, the hearth
 clean swept; the light waned without, it grew dusk, became quite dark,
 and still no Barnaby appeared. Yet, though John Willet was full of
-wonder and misgiving, his guest sat cross-legged in the easy-chair, to
+[[Wonder|wonder]] and misgiving, his guest sat [[Cross|cross]]-legged in the easy-chair, to
 all appearance as little ruffled in his thoughts as in his dress--the
 same calm, easy, cool gentleman, without a care or thought beyond his
 golden toothpick.
@@ -379,13 +379,13 @@ snuffed the lights they held.
 ‘He is rather so,’ replied the guest, sipping his wine. ‘He will not be
 much longer, I dare say.’
 
-John coughed and raked the fire together.
+John coughed and raked the [[Fire|fire]] together.
 
 ‘As your roads bear no very good character, if I may judge from my son’s
 mishap, though,’ said Mr Chester, ‘and as I have no fancy to be knocked
 on the head--which is not only disconcerting at the moment, but places
 one, besides, in a ridiculous position with respect to the people who
-chance to pick one up--I shall stop here to-night. I think you said you
+chance to pick one up--I shall stop here to-[[Night|night]]. I think you said you
 had a bed to spare.’
 
 ‘Such a bed, sir,’ returned John Willet; ‘ay, such a bed as few, even
@@ -394,16 +394,16 @@ bedstead is nigh two hundred years of age. Your noble son--a fine young
 gentleman--slept in it last, sir, half a year ago.’
 
 ‘Upon my life, a recommendation!’ said the guest, shrugging his
-shoulders and wheeling his chair nearer to the fire. ‘See that it be
-well aired, Mr Willet, and let a blazing fire be lighted there at once.
-This house is something damp and chilly.’
+shoulders and wheeling his chair nearer to the [[Fire|fire]]. ‘See that it be
+[[Well|well]] aired, Mr Willet, and let a blazing [[Fire|fire]] be lighted there at once.
+This [[house]] is something damp and chilly.’
 
 John raked the faggots up again, more from habit than presence of mind,
 or any reference to this remark, and was about to withdraw, when a
 bounding step was heard upon the stair, and Barnaby came panting in.
 
-‘He’ll have his foot in the stirrup in an hour’s time,’ he cried,
-advancing. ‘He has been riding hard all day--has just come home--but
+‘He’ll have his foot in the stirrup in an hour’s [[Time|time]],’ he cried,
+advancing. ‘He has been riding hard all day--has just come [[Home|home]]--but
 will be in the saddle again as soon as he has eat and drank, to meet his
 loving friend.’
 
@@ -418,21 +418,21 @@ glancing at him steadfastly.’This for your pains, sharp Barnaby.’
 
 ‘For Grip, and me, and Hugh, to share among us,’ he rejoined, putting
 it up, and nodding, as he counted it on his fingers. ‘Grip one, me two,
-Hugh three; the dog, the goat, the cats--well, we shall spend it pretty
+Hugh three; the dog, the goat, the cats--[[Well|well]], we shall spend it pretty
 soon, I warn you. Stay.--Look. Do you wise men see nothing there, now?’
 
 He bent eagerly down on one knee, and gazed intently at the smoke, which
-was rolling up the chimney in a thick black cloud. John Willet, who
+was [[rolling]] up the chimney in a thick black cloud. John Willet, who
 appeared to consider himself particularly and chiefly referred to under
 the term wise men, looked that way likewise, and with great solidity of
 feature.
 
-‘Now, where do they go to, when they spring so fast up there,’ asked
+‘Now, where do they go to, when they [[spring]] so fast up there,’ asked
 Barnaby; ‘eh? Why do they tread so closely on each other’s heels, and
 why are they always in a hurry--which is what you blame me for, when I
 only take pattern by these busy folk about me? More of ‘em! catching to
 each other’s skirts; and as fast as they go, others come! What a merry
-dance it is! I would that Grip and I could frisk like that!’
+[[Dance|dance]] it is! I would that Grip and I could frisk like that!’
 
 ‘What has he in that basket at his back?’ asked the guest after a few
 moments, during which Barnaby was still bending down to look higher up
@@ -447,7 +447,7 @@ this! What is there here? Tell him!’
 ‘Here’s money!’ said Barnaby, chinking it in his hand, ‘money for a
 treat, Grip!’
 
-‘Hurrah! Hurrah! Hurrah!’ replied the raven, ‘keep up your spirits.
+‘Hurrah! Hurrah! Hurrah!’ replied [[The Raven|the raven]], ‘keep up your spirits.
 Never say die. Bow, wow, wow!’
 
 Mr Willet, who appeared to entertain strong doubts whether a customer in

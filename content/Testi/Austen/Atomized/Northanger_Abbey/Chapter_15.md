@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 14"
+title: "[[Northanger Abbey]] — Chapter 14"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -30,15 +30,15 @@ victory itself was painful, and was heartily rejoiced therefore at
 
 neither seeing nor hearing anything of them. The Tilneys called for her
 
-at the appointed time; and no new difficulty arising, no sudden
+at the appointed [[Time|time]]; and no new difficulty arising, no sudden
 
 recollection, no unexpected summons, no impertinent intrusion to
 
 disconcert their measures, my heroine was most unnaturally able to
 
-fulfil her engagement, though it was made with the hero himself. They
+fulfil her engagement, though it was made with the [[Hero|hero]] himself. They
 
-determined on walking round Beechen Cliff, that noble hill whose
+determined on walking round Beechen Cliff, that noble [[Hill|hill]] whose
 
 beautiful verdure and hanging coppice render it so striking an object
 
@@ -48,7 +48,7 @@ from almost every opening in Bath.
 
 “I never look at it,” said Catherine, as they walked along the side of
 
-the river, “without thinking of the south of France.”
+the [[River|river]], “without thinking of the south of France.”
 
 
 
@@ -76,13 +76,13 @@ books.”
 
 “The person, be it gentleman or lady, who has not pleasure in a good
 
-novel, must be intolerably stupid. I have read all Mrs. Radcliffe’s
+[[Novel|novel]], must be intolerably stupid. I have read all Mrs. Radcliffe’s
 
 works, and most of them with great pleasure. The Mysteries of Udolpho,
 
 when I had once begun it, I could not lay down again; I remember
 
-finishing it in two days—my hair standing on end the whole time.”
+finishing it in two days—my hair standing on end the whole [[Time|time]].”
 
 
 
@@ -96,7 +96,7 @@ Hermitage Walk, and I was obliged to stay till you had finished it.”
 
 
 
-“Thank you, Eleanor—a most honourable testimony. You see, Miss Morland,
+“Thank you, [[Eleanor]]—a most honourable testimony. You see, Miss Morland,
 
 the injustice of your suspicions. Here was I, in my eagerness to get
 
@@ -120,7 +120,7 @@ novels amazingly.”
 
 
 
-“It is _amazingly;_ it may well suggest _amazement_ if they do—for they
+“It is _amazingly;_ it may [[Well|well]] suggest _amazement_ if they do—for they
 
 read nearly as many as women. I myself have read hundreds and hundreds.
 
@@ -134,11 +134,11 @@ leave you as far behind me as—what shall I say?—I want an appropriate
 
 simile.—as far as your friend Emily herself left poor Valancourt when
 
-she went with her aunt into Italy. Consider how many years I have had
+she went with her aunt into [[Italy]]. Consider how many years I have had
 
-the start of you. I had entered on my studies at Oxford, while you were
+the start of you. I had entered on my studies at [[Oxford]], while you were
 
-a good little girl working your sampler at home!”
+a good little girl working your sampler at [[Home|home]]!”
 
 
 
@@ -204,7 +204,7 @@ of reading?”
 
 
 
-“To say the truth, I do not much like any other.”
+“To say the [[Truth|truth]], I do not much like any other.”
 
 
 
@@ -214,13 +214,13 @@ of reading?”
 
 “That is, I can read poetry and plays, and things of that sort, and do
 
-not dislike travels. But history, real solemn history, I cannot be
+not dislike travels. But [[history]], real solemn [[history]], I cannot be
 
 interested in. Can you?”
 
 
 
-“Yes, I am fond of history.”
+“Yes, I am fond of [[history]].”
 
 
 
@@ -244,9 +244,9 @@ invention is what delights me in other books.”
 
 “Historians, you think,” said Miss Tilney, “are not happy in their
 
-flights of fancy. They display imagination without raising interest. I
+flights of fancy. They display [[Imagination|imagination]] without raising interest. I
 
-am fond of history—and am very well contented to take the false with
+am fond of [[history]]—and am very [[Well|well]] contented to take the false with
 
 the true. In the principal facts they have sources of intelligence in
 
@@ -256,7 +256,7 @@ conclude, as anything that does not actually pass under one’s own
 
 observation; and as for the little embellishments you speak of, they
 
-are embellishments, and I like them as such. If a speech be well drawn
+are embellishments, and I like them as such. If a speech be [[Well|well]] drawn
 
 up, I read it with pleasure, by whomsoever it may be made—and probably
 
@@ -266,15 +266,15 @@ if the genuine words of Caractacus, Agricola, or Alfred the Great.”
 
 
 
-“You are fond of history! and so are Mr. Allen and my father; and I
+“You are fond of [[history]]! and so are Mr. Allen and my father; and I
 
 have two brothers who do not dislike it. So many instances within my
 
 small circle of friends is remarkable! at this rate, I shall not pity
 
-the writers of history any longer. If people like to read their books,
+the writers of [[history]] any longer. If people like to read their books,
 
-it is all very well, but to be at so much trouble in filling great
+it is all very [[Well|well]], but to be at so much trouble in filling great
 
 volumes, which, as I used to think, nobody would willingly ever look
 
@@ -282,7 +282,7 @@ into, to be labouring only for the torment of little boys and girls,
 
 always struck me as a hard fate; and though I know it is all very right
 
-and necessary, I have often wondered at the person’s courage that could
+and necessary, I have often wondered at the person’s [[Courage|courage]] that could
 
 sit down on purpose to do it.”
 
@@ -290,17 +290,17 @@ sit down on purpose to do it.”
 
 “That little boys and girls should be tormented,” said Henry, “is what
 
-no one at all acquainted with human nature in a civilized state can
+no one at all acquainted with human [[Nature|nature]] in a civilized state can
 
 deny; but in behalf of our most distinguished historians, I must
 
-observe that they might well be offended at being supposed to have no
+observe that they might [[Well|well]] be offended at being supposed to have no
 
-higher aim, and that by their method and style, they are perfectly well
+higher aim, and that by their method and style, they are perfectly [[Well|well]]
 
 qualified to torment readers of the most advanced reason and mature
 
-time of life. I use the verb ‘to torment,’ as I observed to be your own
+[[Time|time]] of life. I use the verb ‘to torment,’ as I observed to be your own
 
 method, instead of ‘to instruct,’ supposing them to be now admitted as
 
@@ -318,7 +318,7 @@ stupid they can be for a whole morning together, and how tired my poor
 
 mother is at the end of it, as I am in the habit of seeing almost every
 
-day of my life at home, you would allow that to _torment_ and to
+day of my life at [[Home|home]], you would allow that to _torment_ and to
 
 _instruct_ might sometimes be used as synonymous words.”
 
@@ -330,7 +330,7 @@ of learning to read; and even you yourself, who do not altogether seem
 
 particularly friendly to very severe, very intense application, may
 
-perhaps be brought to acknowledge that it is very well worth-while to
+perhaps be brought to acknowledge that it is very [[Well|well]] worth-while to
 
 be tormented for two or three years of one’s life, for the sake of
 
@@ -364,19 +364,19 @@ contradict the very few notions she had entertained on the matter
 
 before. It seemed as if a good view were no longer to be taken from the
 
-top of an high hill, and that a clear blue sky was no longer a proof of
+top of an high [[Hill|hill]], and that a clear blue sky was no longer a proof of
 
 a fine day. She was heartily ashamed of her ignorance. A misplaced
 
 shame. Where people wish to attach, they should always be ignorant. To
 
-come with a well-informed mind is to come with an inability of
+come with a [[Well|well]]-informed mind is to come with an inability of
 
-administering to the vanity of others, which a sensible person would
+administering to the [[Vanity|vanity]] of others, which a sensible person would
 
 always wish to avoid. A woman especially, if she have the misfortune of
 
-knowing anything, should conceal it as well as she can.
+knowing anything, should conceal it as [[Well|well]] as she can.
 
 
 
@@ -390,7 +390,7 @@ larger and more trifling part of the sex, imbecility in females is a
 
 great enhancement of their personal charms, there is a portion of them
 
-too reasonable and too well informed themselves to desire anything more
+too reasonable and too [[Well|well]] informed themselves to [[Desire|desire]] anything more
 
 in woman than ignorance. But Catherine did not know her own
 
@@ -406,7 +406,7 @@ declared that she would give anything in the world to be able to draw;
 
 and a lecture on the picturesque immediately followed, in which his
 
-instructions were so clear that she soon began to see beauty in
+instructions were so clear that she soon began to see [[Beauty|beauty]] in
 
 everything admired by him, and her attention was so earnest that he
 
@@ -418,21 +418,21 @@ and perspectives—lights and shades; and Catherine was so hopeful a
 
 scholar that when they gained the top of Beechen Cliff, she voluntarily
 
-rejected the whole city of Bath as unworthy to make part of a
+rejected the whole [[City|city]] of Bath as unworthy to make part of a
 
 landscape. Delighted with her progress, and fearful of wearying her
 
 with too much wisdom at once, Henry suffered the subject to decline,
 
-and by an easy transition from a piece of rocky fragment and the
+and by an easy transition from a piece of rocky [[Fragment|fragment]] and the
 
 withered oak which he had placed near its summit, to oaks in general,
 
-to forests, the enclosure of them, waste lands, crown lands and
+to forests, the enclosure of them, waste lands, [[Crown|crown]] lands and
 
-government, he shortly found himself arrived at politics; and from
+[[government]], he shortly found himself arrived at politics; and from
 
-politics, it was an easy step to silence. The general pause which
+politics, it was an easy step to [[Silence|silence]]. The general pause which
 
 succeeded his short disquisition on the state of the nation was put an
 
@@ -440,13 +440,13 @@ end to by Catherine, who, in rather a solemn tone of voice, uttered
 
 these words, “I have heard that something very shocking indeed will
 
-soon come out in London.”
+soon come out in [[London]].”
 
 
 
 Miss Tilney, to whom this was chiefly addressed, was startled, and
 
-hastily replied, “Indeed! and of what nature?”
+hastily replied, “Indeed! and of what [[Nature|nature]]?”
 
 
 
@@ -462,27 +462,27 @@ is to be more horrible than anything we have met with yet.”
 
 “A particular friend of mine had an account of it in a letter from
 
-London yesterday. It is to be uncommonly dreadful. I shall expect
+[[London]] yesterday. It is to be uncommonly dreadful. I shall expect
 
 murder and everything of the kind.”
 
 
 
-“You speak with astonishing composure! but I hope your friend’s
+“You speak with astonishing composure! but I [[Hope|hope]] your friend’s
 
 accounts have been exaggerated; and if such a design is known
 
-beforehand, proper measures will undoubtedly be taken by government to
+beforehand, proper measures will undoubtedly be taken by [[government]] to
 
 prevent its coming to effect.”
 
 
 
-“Government,” said Henry, endeavouring not to smile, “neither desires
+“[[government|Government]],” said Henry, endeavouring not to smile, “neither desires
 
 nor dares to interfere in such matters. There must be murder; and
 
-government cares not how much.”
+[[government]] cares not how much.”
 
 
 
@@ -492,7 +492,7 @@ understand each other, or leave you to puzzle out an explanation as you
 
 can? No—I will be noble. I will prove myself a man, no less by the
 
-generosity of my soul than the clearness of my head. I have no patience
+generosity of my [[Soul|soul]] than the clearness of my head. I have no patience
 
 with such of my sex as disdain to let themselves sometimes down to the
 
@@ -500,7 +500,7 @@ comprehension of yours. Perhaps the abilities of women are neither
 
 sound nor acute—neither vigorous nor keen. Perhaps they may want
 
-observation, discernment, judgment, fire, genius, and wit.”
+observation, discernment, judgment, [[Fire|fire]], genius, and wit.”
 
 
 
@@ -514,7 +514,7 @@ satisfy me as to this dreadful riot.”
 
 
 
-“My dear Eleanor, the riot is only in your own brain. The confusion
+“My dear [[Eleanor]], the riot is only in your own brain. The confusion
 
 there is scandalous. Miss Morland has been talking of nothing more
 
@@ -526,7 +526,7 @@ frontispiece to the first, of two tombstones and a lantern—do you
 
 understand? And you, Miss Morland—my stupid sister has mistaken all
 
-your clearest expressions. You talked of expected horrors in London—and
+your clearest expressions. You talked of expected horrors in [[London]]—and
 
 instead of instantly conceiving, as any rational creature would have
 
@@ -536,15 +536,15 @@ immediately pictured to herself a mob of three thousand men assembling
 
 in St. George’s Fields, the Bank attacked, the Tower threatened, the
 
-streets of London flowing with blood, a detachment of the Twelfth Light
+streets of [[London]] flowing with [[Blood|blood]], a detachment of the Twelfth Light
 
 Dragoons (the hopes of the nation) called up from Northampton to quell
 
 the insurgents, and the gallant Captain Frederick Tilney, in the moment
 
-of charging at the head of his troop, knocked off his horse by a
+of charging at the head of his troop, knocked off his [[Horse|horse]] by a
 
-brickbat from an upper window. Forgive her stupidity. The fears of the
+brickbat from an upper [[Window|window]]. Forgive her stupidity. The fears of the
 
 sister have added to the weakness of the woman; but she is by no means
 
@@ -552,9 +552,9 @@ a simpleton in general.”
 
 
 
-Catherine looked grave. “And now, Henry,” said Miss Tilney, “that you
+Catherine looked [[Grave|grave]]. “And now, Henry,” said Miss Tilney, “that you
 
-have made us understand each other, you may as well make Miss Morland
+have made us understand each other, you may as [[Well|well]] make Miss Morland
 
 understand yourself—unless you mean to have her think you intolerably
 
@@ -568,7 +568,7 @@ general. Miss Morland is not used to your odd ways.”
 
 
 
-“No doubt; but that is no explanation of the present.”
+“No [[Doubt|doubt]]; but that is no explanation of the present.”
 
 
 
@@ -598,7 +598,7 @@ happen to be in company.”
 
 “Miss Morland, no one can think more highly of the understanding of
 
-women than I do. In my opinion, nature has given them so much that they
+women than I do. In my opinion, [[Nature|nature]] has given them so much that they
 
 never find it necessary to use more than half.”
 
@@ -614,7 +614,7 @@ woman at all, or an unkind one of me.”
 
 
 
-It was no effort to Catherine to believe that Henry Tilney could never
+It was no effort to Catherine to believe that [[Henry Tilney]] could never
 
 be wrong. His manner might sometimes surprise, but his meaning must
 
@@ -624,7 +624,7 @@ ready to admire, as what she did. The whole walk was delightful, and
 
 though it ended too soon, its conclusion was delightful too; her
 
-friends attended her into the house, and Miss Tilney, before they
+friends attended her into the [[house]], and Miss Tilney, before they
 
 parted, addressing herself with respectful form, as much to Mrs. Allen
 
@@ -640,11 +640,11 @@ her pleasure.
 
 The morning had passed away so charmingly as to banish all her
 
-friendship and natural affection, for no thought of Isabella or James
+[[Friendship|friendship]] and natural affection, for no thought of [[Isabella]] or James
 
 had crossed her during their walk. When the Tilneys were gone, she
 
-became amiable again, but she was amiable for some time to little
+became amiable again, but she was amiable for some [[Time|time]] to little
 
 effect; Mrs. Allen had no intelligence to give that could relieve her
 
@@ -656,7 +656,7 @@ yard of ribbon which must be bought without a moment’s delay, walked
 
 out into the town, and in Bond Street overtook the second Miss Thorpe
 
-as she was loitering towards Edgar’s Buildings between two of the
+as she was loitering towards [[Edgar]]’s Buildings between two of the
 
 sweetest girls in the world, who had been her dear friends all the
 
@@ -664,13 +664,13 @@ morning. From her, she soon learned that the party to Clifton had taken
 
 place. “They set off at eight this morning,” said Miss Anne, “and I am
 
-sure I do not envy them their drive. I think you and I are very well
+sure I do not envy them their drive. I think you and I are very [[Well|well]]
 
 off to be out of the scrape. It must be the dullest thing in the world,
 
-for there is not a soul at Clifton at this time of year. Belle went
+for there is not a [[Soul|soul]] at Clifton at this [[Time|time]] of year. Belle went
 
-with your brother, and John drove Maria.”
+with your brother, and John drove [[Maria]].”
 
 
 
@@ -680,7 +680,7 @@ the arrangement.
 
 
 
-“Oh! yes,” rejoined the other, “Maria is gone. She was quite wild to
+“Oh! yes,” rejoined the other, “[[Maria]] is gone. She was quite wild to
 
 go. She thought it would be something very fine. I cannot say I admire
 
@@ -706,12 +706,12 @@ when you overtook us.”
 
 Catherine was still unconvinced; but glad that Anne should have the
 
-friendship of an Emily and a Sophia to console her, she bade her adieu
+[[Friendship|friendship]] of an Emily and a Sophia to console her, she bade her adieu
 
-without much uneasiness, and returned home, pleased that the party had
+without much uneasiness, and returned [[Home|home]], pleased that the party had
 
 not been prevented by her refusing to join it, and very heartily
 
-wishing that it might be too pleasant to allow either James or Isabella
+wishing that it might be too pleasant to allow either James or [[Isabella]]
 
 to resent her resistance any longer.

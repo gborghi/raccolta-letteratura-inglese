@@ -22,7 +22,7 @@ tags:
 
       animal itself is discovered. They are excellent and highly
 
-      nutritious food, and have, no doubt, been the means of preserving
+      nutritious food, and have, no [[Doubt|doubt]], been the means of preserving
 
       the lives of thousands of seamen employed in the whale-fishery
 
@@ -38,7 +38,7 @@ tags:
 
       being exceedingly fat, and having more than a quart of limpid and
 
-      sweet water in its bag. This was indeed a treasure; and, falling
+      sweet [[Water|water]] in its bag. This was indeed a treasure; and, falling
 
       on our knees with one accord, we returned fervent thanks to God
 
@@ -52,7 +52,7 @@ tags:
 
       prodigious. It was upon the point of making its escape from
 
-      Peter’s grasp, and slipping back into the water, when Augustus,
+      Peter’s grasp, and slipping back into the [[Water|water]], when Augustus,
 
       throwing a rope with a slipknot around its throat, held it up in
 
@@ -62,7 +62,7 @@ tags:
 
 
 
-      The water we drew carefully from the bag into the jug; which, it
+      The [[Water|water]] we drew carefully from the bag into the jug; which, it
 
       will be remembered, had been brought up before from the cabin.
 
@@ -80,19 +80,19 @@ tags:
 
       During the last two or three days, the weather having been dry
 
-      and pleasant, the bedding we had obtained from the cabin, as well
+      and pleasant, the bedding we had obtained from the cabin, as [[Well|well]]
 
       as our clothing, had become thoroughly dry, so that we passed
 
-      this night (that of the twenty-third) in comparative comfort,
+      this [[Night|night]] (that of the twenty-third) in comparative comfort,
 
       enjoying a tranquil repose, after having supped plentifully on
 
       olives and ham, with a small allowance of the wine. Being afraid
 
-      of losing some of our stores overboard during the night, in the
+      of losing some of our stores overboard during the [[Night|night]], in the
 
-      event of a breeze springing up, we secured them as well as
+      event of a breeze springing up, we secured them as [[Well|well]] as
 
       possible with cordage to the fragments of the windlass. Our
 

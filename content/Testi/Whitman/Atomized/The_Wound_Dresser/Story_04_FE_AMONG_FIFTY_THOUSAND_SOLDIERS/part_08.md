@@ -22,7 +22,7 @@ them, to give them small sums, in such cases, using tact and discretion
 about it.
 
 A large majority of the wounds are in the arms and legs. But there is
-every kind of wound in every part of the body. I should say of the sick,
+every kind of wound in every part of the [[Body|body]]. I should say of the sick,
 from my experience in the hospitals, that the prevailing maladies are
 typhoid fever and the camp fevers generally, diarrhoea, catarrhal
 affections and bronchitis, rheumatism and pneumonia. These forms of
@@ -42,16 +42,16 @@ hundreds of them, and this is my testimony.
 During my two years in the hospitals and upon the field, I have made over
 six hundred visits, and have been, as I estimate, among from eighty
 thousand to one hundred thousand of the wounded and sick, as sustainer of
-spirit and body in some slight degree, in their time of need. These visits
-varied from an hour or two, to all day or night; for with dear or critical
-cases I watched all night. Sometimes I took up my quarters in the
+spirit and [[Body|body]] in some slight degree, in their [[Time|time]] of need. These visits
+varied from an hour or two, to all day or [[Night|night]]; for with dear or critical
+cases I watched all [[Night|night]]. Sometimes I took up my quarters in the
 hospital, and slept or watched there several nights in succession. I may
 add that I am now just resuming my occupation in the hospitals and camps
-for the winter of 1864-5, and probably to continue the seasons ensuing.
+for the [[Winter|winter]] of 1864-5, and probably to continue the [[Seasons|seasons]] ensuing.
 
 To many of the wounded and sick, especially the youngsters, there is
-something in personal love, caresses, and the magnetic flood of sympathy
-and friendship, that does, in its way, more good than all the medicine in
+something in personal [[Love|love]], caresses, and the magnetic flood of sympathy
+and [[Friendship|friendship]], that does, in its way, more good than all the medicine in
 the world. I have spoken of my regular gifts of delicacies, money,
 tobacco, special articles of food, knick-knacks, etc., etc. But I
 steadily found more and more that I could help, and turn the balance in
@@ -59,22 +59,22 @@ favor of cure, by the means here alluded to, in a curiously large
 proportion of cases. The American soldier is full of affection and the
 yearning for affection. And it comes wonderfully grateful to him to have
 this yearning gratified when he is laid up with painful wounds or illness,
-far away from home, among strangers. Many will think this merely
+far away from [[Home|home]], among strangers. Many will think this merely
 sentimentalism, but I know it is the most solid of facts. I believe that
 even the moving around among the men, or through the ward, of a hearty,
 healthy, clean, strong, generous-souled person, man or woman, full of
-humanity and love, sending out invisible, constant currents thereof, does
+humanity and [[Love|love]], sending out invisible, constant currents thereof, does
 immense good to the sick and wounded.
 
 To those who might be interested in knowing it, I must add, in conclusion,
-that I have tried to do justice to all the suffering that fell in my way.
+that I have tried to do justice to all the [[Suffering|suffering]] that fell in my way.
 While I have been with wounded and sick in thousands of cases from the New
-England States, and from New York, New Jersey, and Pennsylvania, and from
+England States, and from [[New York]], New Jersey, and Pennsylvania, and from
 Michigan, Wisconsin, Indiana, Illinois, and the Western States, I have
 been with more or less from all the States North and South, without
 exception. I have been with many from the border States, especially from
-Maryland and Virginia, and found far more Union Southerners than is
-supposed. I have been with many Rebel officers and men among our wounded,
+Maryland and Virginia, and found far more [[Union]] Southerners than is
+supposed. I have been with many [[Rebel]] officers and men among our wounded,
 and given them always what I had, and tried to cheer them the same as
 any. I have been among the army teamsters considerably, and indeed always
 find myself drawn to them. Among the black soldiers, wounded or sick, and

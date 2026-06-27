@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 15 (part 3)"
+title: "[[Shirley]] — Chapter 15 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-I _sor_ him" (such was Mr. Donne's pronunciation) "about to spring, I
+I _sor_ him" (such was Mr. Donne's pronunciation) "about to [[spring]], I
 
 thought I should have fainted."
 
 
 
-"Perhaps you did faint in the bedroom; you were a long time there."
+"Perhaps you did faint in the bedroom; you were a long [[Time|time]] there."
 
 
 
@@ -46,9 +46,9 @@ is that? I declare the man has told a falsehood! The dog is there!"
 
 
 
-And indeed Tartar walked past the glass door opening to the garden,
+And indeed Tartar walked past the glass door opening to the [[Garden|garden]],
 
-stiff, tawny, and black-muzzled as ever. He still seemed in bad humour.
+stiff, tawny, and black-muzzled as ever. He still seemed in bad [[Humour|humour]].
 
 He was growling again, and whistling a half-strangled whistle, being an
 
@@ -56,11 +56,11 @@ inheritance from the bulldog side of his ancestry.
 
 
 
-"There are other visitors coming," observed Shirley, with that provoking
+"There are other visitors coming," observed [[Shirley]], with that provoking
 
-coolness which the owners of formidable-looking dogs are apt to show
+coolness which the owners of formidable-looking [[dogs]] are apt to show
 
-while their animals are all bristle and bay. Tartar sprang down the
+while their [[Animals|animals]] are all bristle and bay. Tartar sprang down the
 
 pavement towards the gate, bellowing _avec explosion_. His mistress
 
@@ -78,13 +78,13 @@ know us? Good-morning, old boy!"
 
 
 
-And little Mr. Sweeting, whose conscious good nature made him
+And little Mr. Sweeting, whose conscious good [[Nature|nature]] made him
 
-comparatively fearless of man, woman, child, or brute, came through the
+comparatively fearless of man, woman, [[Child|child]], or brute, came through the
 
 gate, caressing the guardian. His vicar, Mr. Hall, followed. He had no
 
-fear of Tartar either, and Tartar had no ill-will to him. He snuffed
+[[Fear|fear]] of Tartar either, and Tartar had no ill-will to him. He snuffed
 
 both the gentlemen round, and then, as if concluding that they were
 
@@ -100,7 +100,7 @@ showed himself obstinately insensible.
 
 
 
-Shirley advanced to meet Messrs. Hall and Sweeting, shaking hands with
+[[Shirley]] advanced to meet Messrs. Hall and Sweeting, shaking hands with
 
 them cordially. They were come to tell her of certain successes they had
 
@@ -118,7 +118,7 @@ the aspect of a smiling Melanchthon.
 
 
 
-Instead of re-entering the house, they strayed through the garden, the
+Instead of re-entering the [[house]], they strayed through the [[Garden|garden]], the
 
 ladies walking one on each side of Mr. Hall. It was a breezy sunny day;
 
@@ -128,19 +128,19 @@ ringlets. Both of them looked pretty--one gay. Mr. Hall spoke oftenest
 
 to his brilliant companion, looked most frequently at the quiet one.
 
-Miss Keeldar gathered handfuls of the profusely blooming flowers whose
+Miss Keeldar gathered handfuls of the profusely blooming [[Flowers|flowers]] whose
 
 perfume filled the enclosure. She gave some to Caroline, telling her to
 
 choose a nosegay for Mr. Hall; and with her lap filled with delicate and
 
-splendid blossoms, Caroline sat down on the steps of a summer-house. The
+splendid blossoms, Caroline sat down on the steps of a [[Summer|summer]]-[[house]]. The
 
 vicar stood near her, leaning on his cane.
 
 
 
-Shirley, who could not be inhospitable, now called out the neglected
+[[Shirley]], who could not be inhospitable, now called out the neglected
 
 pair in the oak parlour. She convoyed Donne past his dread enemy Tartar,
 
@@ -150,7 +150,7 @@ Donne was not grateful--he never _was_ grateful for kindness and
 
 attention--but he was glad of the safeguard. Miss Keeldar, desirous of
 
-being impartial, offered the curates flowers. They accepted them with
+being impartial, offered the curates [[Flowers|flowers]]. They accepted them with
 
 native awkwardness. Malone seemed specially at a loss, when a bouquet
 
@@ -162,7 +162,7 @@ implying that he considered this offering a homage to his merits, and an
 
 attempt on the part of the heiress to ingratiate herself into his
 
-priceless affections. Sweeting alone received the posy like a smart,
+priceless affections. Sweeting [[Alone|alone]] received the posy like a smart,
 
 sensible little man, as he was, putting it gallantly and nattily into
 
@@ -176,11 +176,11 @@ gave him some commission, which made his eyes sparkle with glee. Away he
 
 flew, round by the courtyard to the kitchen. No need to give him
 
-directions; he was always at home everywhere. Ere long he reappeared,
+directions; he was always at [[Home|home]] everywhere. Ere long he reappeared,
 
 carrying a round table, which he placed under the cedar; then he
 
-collected six garden-chairs from various nooks and bowers in the
+collected six [[Garden|garden]]-chairs from various nooks and bowers in the
 
 grounds, and placed them in a circle. The parlour-maid--Miss Keeldar
 
@@ -194,7 +194,7 @@ chicken, ham, and tarts.
 
 
 
-This sort of impromptu regale it was Shirley's delight to offer any
+This sort of impromptu regale it was [[Shirley]]'s delight to offer any
 
 chance guests; and nothing pleased her better than to have an alert,
 
@@ -216,8 +216,8 @@ contributed but little to its vivacity, the chief part they played in it
 
 being what concerned the knife, fork, and wine-glass; but where four
 
-such natures as Mr. Hall, David Sweeting, Shirley, and Caroline were
+such natures as Mr. Hall, David Sweeting, [[Shirley]], and Caroline were
 
 assembled in health and amity, on a green lawn, under a sunny sky,
 
-amidst a wilderness of flowers, there could not be ungenial dullness.
+amidst a wilderness of [[Flowers|flowers]], there could not be ungenial dullness.

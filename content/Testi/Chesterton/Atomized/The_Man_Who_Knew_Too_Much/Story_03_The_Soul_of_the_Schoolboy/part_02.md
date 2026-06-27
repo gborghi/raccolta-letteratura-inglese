@@ -1,5 +1,5 @@
 ---
-title: "The Man Who Knew Too Much — The Soul of the Schoolboy (part 2)"
+title: "The Man Who Knew Too Much — The [[Soul]] of the Schoolboy (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/The-Man-Who-Knew-Too-Much-(Chesterton)"
@@ -33,15 +33,15 @@ them.
 
 admitted in answer to some antiquarian openings from the clergyman
 
-who was slightly acquainted with him, "but I wear the King's coat,
+who was slightly acquainted with him, "but I wear the [[King]]'s coat,
 
-you know, and it's a serious thing when the King's uncle leaves a
+you know, and it's a serious thing when the [[King]]'s uncle [[Leaves|leaves]] a
 
 thing here with his own hands under my charge. But as for saints and
 
-relics and things, I fear I'm a bit of a Voltairian; what you would
+relics and things, I [[Fear|fear]] I'm a bit of a Voltairian; what you would
 
-call a skeptic."
+call a [[skeptic]]."
 "I'm not sure it's even skeptical to believe in the royal family and
 
 not in the 'Holy' Family," replied Mr. Twyford. "But, of course, I
@@ -71,9 +71,9 @@ seemed disposed to linger, pointing out that it included a pair of
 
 nippers, a tool for punching holes in wood, and, above all, an
 
-instrument for taking stones out of a horse's hoof. The comparative
+instrument for taking stones out of a [[Horse|horse]]'s hoof. The comparative
 
-absence of any horse he appeared to regard as irrelevant, as if it
+absence of any [[Horse|horse]] he appeared to regard as irrelevant, as if it
 
 were a mere appendage easily supplied. But when the turn came of the
 
@@ -93,16 +93,16 @@ perhaps? I am a magician."
 "Oh, I say!" exclaimed Summers Minor, with prominent eyes.
 "But I was once a monk," went on the other. "I am what you would
 
-call an escaped monk. Yes, I have escaped into eternity. But the
+call an escaped monk. Yes, I have escaped into [[Eternity|eternity]]. But the
 
-monks held one truth at least, that the highest life should be
+[[Monks|monks]] held one [[Truth|truth]] at least, that the highest life should be
 
 without possessions. I have no pocket money and no pockets, and all
 
-the stars are my trinkets."
+the [[Stars|stars]] are my trinkets."
 "They are out of reach, anyhow," observed Colonel Morris, in a tone
 
-which suggested that it was well for them. "I've known a good many
+which suggested that it was [[Well|well]] for them. "I've known a good many
 
 magicians myself in India—mango plant and all. But the Indian ones
 
@@ -115,13 +115,13 @@ But here comes Mr. Symon, who will show you over the old cellar
 downstairs."
 Mr. Symon, the official guardian and guide, was a young man,
 
-prematurely gray, with a grave mouth which contrasted curiously with
+prematurely gray, with a [[Grave|grave]] mouth which contrasted curiously with
 
 a very small, dark mustache with waxed points, that seemed somehow,
 
 separate from it, as if a black fly had settled on his face. He
 
-spoke with the accent of Oxford and the permanent official, but in
+spoke with the accent of [[Oxford]] and the permanent official, but in
 
 as dead a fashion as the most indifferent hired guide. They
 
@@ -135,7 +135,7 @@ iron door swung open an almost blinding blaze of electric lights
 
 filled the whole interior. The fitful enthusiasm of Stinks at once
 
-caught fire, and he eagerly asked if the lights and the door worked
+caught [[Fire|fire]], and he eagerly asked if the lights and the door worked
 
 together.
 "Yes, it's all one system," replied Symon. "It was all fitted up
@@ -153,7 +153,7 @@ and the wooden roof above; there was now no possibility of reopening
 
 the case without elaborate labor, except by breaking the glass,
 
-which would probably arouse the night watchman who was always within
+which would probably arouse the [[Night|night]] watchman who was always within
 
 a few feet of it, even if he had fallen asleep. A close examination
 
@@ -172,7 +172,7 @@ century," Symon was saying in his clear but colorless voice. "In the
 
 ninth century it is supposed to have been carried away by the
 
-barbarians, and it reappears, after the conversion of the northern
+barbarians, and it reappears, after the [[conversion]] of the northern
 
 Goths, in the possession of the royal family of Gothland. His Royal
 

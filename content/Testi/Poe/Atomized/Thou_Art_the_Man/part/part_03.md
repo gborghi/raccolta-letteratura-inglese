@@ -1,5 +1,5 @@
 ---
-title: "Thou Art the Man (part 3)"
+title: "[[Thou Art the Man]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Thou-Art-the-Man-(Poe)"
@@ -24,10 +24,10 @@ tags:
       magnanimity of Mr. Goodfellow shone forth with only the more brilliant
       lustre through contrast. He made a warm and intensely eloquent defence of
       Mr. Pennifeather, in which he alluded more than once to his own sincere
-      forgiveness of that wild young gentleman—“the heir of the worthy Mr.
+      [[Forgiveness|forgiveness]] of that wild young gentleman—“the heir of the worthy Mr.
       Shuttleworthy,”—for the insult which he (the young gentleman) had,
-      no doubt in the heat of passion, thought proper to put upon him (Mr.
-      Goodfellow). “He forgave him for it,” he said, “from the very bottom of
+      no [[Doubt|doubt]] in the heat of passion, thought proper to put upon him (Mr.
+      Goodfellow). “He forgave him for it,” he said, “from the very [[Bottom|bottom]] of
       his heart; and for himself (Mr. Goodfellow), so far from pushing the
       suspicious circumstances to extremity, which he was sorry to say, really
       had arisen against Mr. Pennifeather, he (Mr. Goodfellow) would make every
@@ -85,8 +85,8 @@ tags:
       after making a will in his favour, with disinheritance. But the threat had
       not been actually kept; the original will, it appeared, had not been
       altered. Had it been altered, the only supposable motive for murder on the
-      part of the suspected would have been the ordinary one of revenge; and
-      even this would have been counteracted by the hope of reinstation into the
+      part of the suspected would have been the ordinary one of [[Revenge|revenge]]; and
+      even this would have been counteracted by the [[Hope|hope]] of reinstation into the
       good graces of the uncle. But the will being unaltered, while the threat
       to alter remained suspended over the nephew’s head, there appears at once
       the very strongest possible inducement for the atrocity, and so concluded,

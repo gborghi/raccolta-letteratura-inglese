@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 3 (part 2)"
+title: "[[longbow2]] — Chapter 3 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 "What's all this infernal insane foolery?" he demanded.  "Who has
 the damned impudence to tell the Hardys they mustn't keep pigs? 
-Look here, the time is come when we must burst up all this sort
+Look here, the [[Time|time]] is come when we must burst up all this sort
 of thing.  I'm going to do something desperate."
 
 "You've been doing desperate things enough for this morning,"
@@ -49,7 +49,7 @@ I'd be under a great obligation."
 As they were a little slow in recovering from their first surprise,
 he added patiently:
 
-"My name is Enoch B. Oates, and I'm pretty well known in Michigan,
+"My name is Enoch B. Oates, and I'm pretty [[Well|well]] known in Michigan,
 but I've bought a little place near here; I've looked about this
 little planet and I've come to think the safest and brightest place
 for a man with a few dollars is the place of a squire in your fine
@@ -61,12 +61,12 @@ bordering on ecstasy.
 
 "Mediaeval buildings!  Architectural styles!" he cried enthusiastically. 
 "You've come to the right shop, Mr. Oates.  I'll show you an ancient
-building, a sacred building, in an architectural style of such sublime
+building, a sacred building, in an architectural style of such [[Sublime|sublime]]
 antiquity that you'll want to cart it away to Michigan, as they
 tried to do with Glastonbury Abbey.  You shall be privileged to see
-one historic institution before you die or before all history is forgotten."
+one historic institution before you die or before all [[history]] is forgotten."
 
-He was walking towards the corner of the little kitchen-garden attached
+He was walking towards the corner of the little kitchen-[[Garden|garden]] attached
 to the inn, waving his arm with wild gestures of encouragement;
 and the American was following him with the same stiff politeness,
 looking weirdly like an automaton.
@@ -76,38 +76,38 @@ cried Pierce dramatically, pointing to the pig-sty, which looked
 rather a ramshackle affair of leaning and broken boards hung
 loosely together, though in practice it was practical enough. 
 "This, the most unmistakably mellow of all mediaeval buildings,
-may soon be only a memory.  But when this edifice falls England
+may soon be only a [[Memory|memory]].  But when this edifice falls England
 will fall, and the world will shake with the shock of doom."
 
 The American had what he himself might have described as a poker face;
 it was impossible to discover whether his utterances indicated
-the extreme of innocence or of irony.
+the extreme of [[innocence]] or of irony.
 
 "And would you say," he asked, "that this monument exemplifies
 the mediaeval or Gothic architectural school?"
 
 "I should hardly call it strictly Perpendicular," answered Pierce,
-"but there is no doubt that it is Early English."
+"but there is no [[Doubt|doubt]] that it is Early English."
 
 "You would say it is antique, anyhow?" observed Mr. Oates.
 
 "I have every reason to believe," affirmed Pierce solemnly,
 "that Gurth the Swineherd made use of this identical building. 
-I have no doubt that it is in fact far older.  The best authorities
-believe that the Prodigal Son stayed here for some time, and the pigs--
-those noble and much maligned animals--gave him such excellent
+I have no [[Doubt|doubt]] that it is in fact far older.  The best authorities
+believe that the Prodigal Son stayed here for some [[Time|time]], and the pigs--
+those noble and much maligned [[Animals|animals]]--gave him such excellent
 advice that he returned to his family.  And now, Mr. Oates, they say
 that all that magnificent heritage is to be swept away.  But it shall
 not be.  We shall not so easily submit to all the vandals and vulgar
 tyrants who would thus tear down our temples and our holy places. 
-The pig-sty shall rise again in a magnificent resurrection--
+The pig-sty shall rise again in a magnificent [[Resurrection|resurrection]]--
 larger pig-stys, loftier pig-stys, shall yet cover the land; the towers
 and domes of statelier and more ideal pig-stys, in the most striking
 architectural styles, shall again declare the victory of the holy
 hog over his unholy oppressors."
 
 "And meanwhile," said Colonel Crane drily, "I think Mr. Oates
-had much better begin with the church down by the river. 
+had much better begin with the church down by the [[River|river]]. 
 Very fine Norman foundations and traces of Roman brick. 
 The vicar understands his church, too, and would give Mr. Oates
 rather more reliable information than you do."
@@ -122,12 +122,12 @@ But Pierce turned on him with the same heat on his face.
 "But I wasn't making fun.  I was quite serious."
 
 They stared at him steadily, and he laughed slightly but went
-on with undiminished fire.
+on with undiminished [[Fire|fire]].
 
 "Symbolical perhaps but serious," he said.  "I may seem to have been
-talking a bit wildly, but let me tell you the time has come to be wild. 
+talking a bit wildly, but let me tell you the [[Time|time]] has come to be wild. 
 We've all been a lot too tame.  I do mean, as much as I ever meant
-anything, to fight for the resurrection and the return of the pig;
+anything, to fight for the [[Resurrection|resurrection]] and the return of the pig;
 and he shall yet return as a wild boar that shall rend the hunters."
 
 He looked up and his eye caught the blue heraldic shape
@@ -140,4 +140,4 @@ of the Blue Boar."
 "Loud and prolonged cheers," said Crane politely, "and now come
 away and don't spoil the peroration.  Owen wants to potter about
 the local antiquities, like Mr. Oates.  I'm more interested
-in novelties.  Want to look at that machine of yours."
+in novelties.  Want to look at that [[Machine|machine]] of yours."

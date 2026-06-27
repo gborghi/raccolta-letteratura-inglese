@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 16 (part 1)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 16 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -18,19 +18,19 @@ CHAPTER XVI.
 DEVOTED
 
 
-When John Jasper recovered from his fit or swoon, he found himself
+When [[John Jasper]] recovered from his fit or swoon, he found himself
 being tended by Mr. and Mrs. Tope, whom his visitor had summoned for
 the purpose. His visitor, wooden of aspect, sat stiffly in a chair,
 with his hands upon his knees, watching his recovery.
 
 “There! You’ve come to nicely now, sir,” said the tearful Mrs. Tope;
-“you were thoroughly worn out, and no wonder!”
+“you were thoroughly worn out, and no [[Wonder|wonder]]!”
 
 “A man,” said Mr. Grewgious, with his usual air of repeating a lesson,
 “cannot have his rest broken, and his mind cruelly tormented, and his
-body overtaxed by fatigue, without being thoroughly worn out.”
+[[Body|body]] overtaxed by fatigue, without being thoroughly worn out.”
 
-“I fear I have alarmed you?” Jasper apologised faintly, when he was
+“I [[Fear|fear]] I have alarmed you?” Jasper apologised faintly, when he was
 helped into his easy-chair.
 
 “Not at all, I thank you,” answered Mr. Grewgious.
@@ -40,7 +40,7 @@ helped into his easy-chair.
 “Not at all, I thank you,” answered Mr. Grewgious again.
 
 “You must take some wine, sir,” said Mrs. Tope, “and the jelly that I
-had ready for you, and that you wouldn’t put your lips to at noon,
+had ready for you, and that you wouldn’t put your lips to at [[Noon|noon]],
 though I warned you what would come of it, you know, and you not
 breakfasted; and you must have a wing of the roast fowl that has been
 put back twenty times if it’s been put back once. It shall all be on
@@ -77,12 +77,12 @@ clause: “I don’t, I thank you!”
 
 “After recovering from the shock of a piece of news of my dear boy, so
 entirely unexpected, and so destructive of all the castles I had built
-for him; and after having had time to think of it; yes.”
+for him; and after having had [[Time|time]] to think of it; yes.”
 
 “I shall be glad to pick up your crumbs,” said Mr. Grewgious, dryly.
 
 “Is there not, or is there—if I deceive myself, tell me so, and shorten
-my pain—is there not, or is there, hope that, finding himself in this
+my [[Pain|pain]]—is there not, or is there, [[Hope|hope]] that, finding himself in this
 new position, and becoming sensitively alive to the awkward burden of
 explanation, in this quarter, and that, and the other, with which it
 would load him, he avoided the awkwardness, and took to flight?”
@@ -90,7 +90,7 @@ would load him, he avoided the awkwardness, and took to flight?”
 “Such a thing might be,” said Mr. Grewgious, pondering.
 
 “Such a thing has been. I have read of cases in which people, rather
-than face a seven days’ wonder, and have to account for themselves to
+than face a seven days’ [[Wonder|wonder]], and have to account for themselves to
 the idle and impertinent, have taken themselves away, and been long
 unheard of.”
 
@@ -101,7 +101,7 @@ still.
 following the new track, “that the dear lost boy had withheld anything
 from me—most of all, such a leading matter as this—what gleam of light
 was there for me in the whole black sky? When I supposed that his
-intended wife was here, and his marriage close at hand, how could I
+intended wife was here, and his [[Marriage|marriage]] close at hand, how could I
 entertain the possibility of his voluntarily leaving this place, in a
 manner that would be so unaccountable, capricious, and cruel? But now
 that I know what you have told me, is there no little chink through
@@ -114,29 +114,29 @@ cruel to me, it is true; but it relieves it of cruelty to her.”
 Mr. Grewgious could not but assent to this.
 
 “And even as to me,” continued Jasper, still pursuing the new track,
-with ardour, and, as he did so, brightening with hope: “he knew that
+with ardour, and, as he did so, brightening with [[Hope|hope]]: “he knew that
 you were coming to me; he knew that you were intrusted to tell me what
 you have told me; if your doing so has awakened a new train of thought
 in my perplexed mind, it reasonably follows that, from the same
 premises, he might have foreseen the inferences that I should draw.
 Grant that he did foresee them; and even the cruelty to me—and who am
-I!—John Jasper, Music Master, vanishes!”—
+I!—[[John Jasper]], Music Master, vanishes!”—
 
 Once more, Mr. Grewgious could not but assent to this.
 
 “I have had my distrusts, and terrible distrusts they have been,” said
 Jasper; “but your disclosure, overpowering as it was at first—showing
 me that my own dear boy had had a great disappointing reservation from
-me, who so fondly loved him, kindles hope within me. You do not
-extinguish it when I state it, but admit it to be a reasonable hope. I
+me, who so fondly loved him, kindles [[Hope|hope]] within me. You do not
+extinguish it when I state it, but admit it to be a reasonable [[Hope|hope]]. I
 begin to believe it possible:” here he clasped his hands: “that he may
 have disappeared from among us of his own accord, and that he may yet
-be alive and well.”
+be alive and [[Well|well]].”
 
 Mr. Crisparkle came in at the moment. To whom Mr. Jasper repeated:
 
 “I begin to believe it possible that he may have disappeared of his own
-accord, and may yet be alive and well.”
+accord, and may yet be alive and [[Well|well]].”
 
 Mr. Crisparkle taking a seat, and inquiring: “Why so?” Mr. Jasper
 repeated the arguments he had just set forth. If they had been less

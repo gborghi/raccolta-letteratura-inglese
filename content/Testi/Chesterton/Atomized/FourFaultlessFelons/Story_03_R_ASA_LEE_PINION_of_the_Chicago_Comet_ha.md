@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — R. ASA LEE PINION, of the Chicago Comet, had crossed half of America,"
+title: "[[FourFaultlessFelons]] — R. ASA LEE PINION, of the Chicago Comet, had crossed half of [[america|America]],"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-MR. ASA LEE PINION, of the Chicago Comet, had crossed half of America,
+MR. ASA LEE PINION, of the Chicago Comet, had crossed half of [[america|America]],
 
 the whole of the Atlantic, and eventually even Piccadilly Circus, in
 
@@ -26,15 +26,15 @@ put in his paper. He did get a story, but he did not put it in his paper.
 
 It was too tall a story, even for the Comet. Perhaps the metaphor is true
 
-in more ways than one, and the fable was tall like a church-spire or a
+in more ways than one, and the [[Fable|fable]] was tall like a church-spire or a
 
-tower among the stars: beyond comprehension as well as belief. Anyhow,
+tower among the [[Stars|stars]]: beyond comprehension as [[Well|well]] as belief. Anyhow,
 
 Mr. Pinion decided not to risk his readers' comments. But that is no
 
 reason why the present writer, writing for more exalted, spiritual and
 
-divinely credulous readers, should imitate his silence.
+divinely credulous readers, should imitate his [[Silence|silence]].
 
 
 
@@ -50,7 +50,7 @@ ostentatious, did no particular harm to anybody but himself; and if he
 
 associated with the dissipated and degraded, he had never been known to
 
-interfere with the innocent or the reputable. But while it was credible
+interfere with the [[Innocent|innocent]] or the reputable. But while it was credible
 
 enough that the nobleman was not so black as he was painted, he certainly
 
@@ -74,15 +74,15 @@ parallels to his own.
 
 But there was one fact which struck the journalist as odd even at the
 
-beginning. He understood well enough that it would be difficult to catch
+beginning. He understood [[Well|well]] enough that it would be difficult to catch
 
 the Count anywhere, as he whirled from one social engagement to another,
 
 in the manner appropriately called "fast". And he was not offended when
 
-Marillac said he could only spare ten minutes at his London club before
+Marillac said he could only spare ten minutes at his [[London]] club before
 
-going on to a theatrical first--night and other ensuing festivities.
+going on to a theatrical first--[[Night|night]] and other ensuing festivities.
 
 During that ten minutes, however, Marillac was quite polite, answered the
 
@@ -104,7 +104,7 @@ the naughty new play with all the naughty new people."
 
 
 
-"Yes," grunted a big man standing in front of the fire. "He's gone with
+"Yes," grunted a big man standing in front of the [[Fire|fire]]. "He's gone with
 
 the naughtiest person of all, the author, Mrs. Prague. Authoress, I
 
@@ -112,9 +112,9 @@ suppose she'd call herself--being only cultured and not educated."
 
 
 
-"He always goes to the first night of those plays," assented the other.
+"He always goes to the first [[Night|night]] of those plays," assented the other.
 
-"P'raps he thinks there won't be a second night, if the police raid the
+"P'raps he thinks there won't be a second [[Night|night]], if the police raid the
 
 place."
 
@@ -130,13 +130,13 @@ much less loud and casual than the Englishmen.
 
 "Naked Souls," said the first man with a faint groan. "Dramatized version
 
-of the world-shaking novel Pan's Pipes. Grapples grimly with the facts of
+of the world-shaking [[Novel|novel]] Pan's Pipes. Grapples grimly with the facts of
 
 life."
 
 
 
-"Also bold, breezy and back to Nature," said the man by the fire. "We
+"Also bold, breezy and back to [[Nature]]," said the man by the [[Fire|fire]]. "We
 
 hear a lot just now about Pan's Pipes. They seem to me a little too like
 
@@ -176,7 +176,7 @@ at a distance, from his buoyant gestures and rapid walk. All that was
 
 quite in character, but the tone of the group was different. One figure
 
-alone out of the four seemed in some sense of Marillac's world, having
+[[Alone|alone]] out of the four seemed in some sense of Marillac's world, having
 
 something of the carriage of a military officer, with that fine shade
 
@@ -194,7 +194,7 @@ powerful and a big head not yet bald but striped with rather thin brown
 
 hair. But the arresting thing about him was that indescribable suggestion
 
-of dust or cobwebs that belongs to a strong man leading a sedentary life,
+of [[Dust|dust]] or cobwebs that belongs to a strong man leading a sedentary life,
 
 possibly scientific or scholarly, but certainly obscure, in its method if
 
@@ -218,7 +218,7 @@ and his dark hair and rather ragged beard could, at the best, be only
 
 excused as Bohemian. He had very remarkable eyes, sunk very deep in his
 
-head and yet, by a paradox, standing out like signals. The visitor found
+head and yet, by a [[Paradox|paradox]], standing out like signals. The visitor found
 
 himself continually drawn to them, as if they were magnets.
 
@@ -246,7 +246,7 @@ banquets of their friend the Count de Marillac.
 
 For however seriously Marillac might or might not be taking the serious
 
-drama of Sex and Science, there was no doubt that he would take the
+drama of Sex and Science, there was no [[Doubt|doubt]] that he would take the
 
 dinner even more seriously. He was famous as an epicure of almost the
 
@@ -254,7 +254,7 @@ classic and legendary sort, and all the gourmets of Europe reverenced his
 
 reputation. The little man with the spectacles glanced at this fact,
 
-indeed, as they sat down to dinner: "Hope you can put up with our simple
+indeed, as they sat down to dinner: "[[Hope]] you can put up with our simple
 
 fare, Mr. Pinion," he said. "You'd have had a much more carefully
 
@@ -290,7 +290,7 @@ Pinion could not keep his eyes off the magnetic eyes of the man with the
 
 shabby clothes and shaggy hair. Just now the man was gazing across the
 
-table with a curious intentness, and in the ensuing silence, he suddenly
+table with a curious intentness, and in the ensuing [[Silence|silence]], he suddenly
 
 intervened.
 
@@ -312,7 +312,7 @@ The man opposite looked at him steadily and rather strangely for a
 
 moment, and then said: "I have half a mind.... Look here, have you any
 
-human curiosity as well as journalistic curiosity? I mean, would the one
+human curiosity as [[Well|well]] as journalistic curiosity? I mean, would the one
 
 man like to know, even if the million never knew?"
 
@@ -328,7 +328,7 @@ confidential."
 
 
 
-"Well," answered the other gravely, "why do you think he chooses them?"
+"[[Well]]," answered the other gravely, "why do you think he chooses them?"
 
 
 
@@ -346,7 +346,7 @@ boat."
 
 The man with the peculiar eyes broke off from his flippant speech,
 
-plunged for a few moments into profound silence, and then resumed in so
+plunged for a few moments into profound [[Silence|silence]], and then resumed in so
 
 different a tone that it was like another man suddenly speaking at the
 
@@ -356,9 +356,9 @@ table.
 
 "Every age has its bigotry, which is blind to some particular need of
 
-human nature; the Puritans to the need for merriment, the Manchester
+human [[Nature|nature]]; the Puritans to the need for merriment, the Manchester
 
-School to the need for beauty, and so on. There is a need in man, or at
+School to the need for [[Beauty|beauty]], and so on. There is a need in man, or at
 
 least in many men, which it is not fashionable to admit or allow for in
 
@@ -366,7 +366,7 @@ these days. Most people have had a touch of it in the more serious
 
 emotions of youth; in a few men it burns like a flame to the last, as it
 
-does here. Christianity, especially Catholic Christianity, has been
+does here. [[Christianity]], especially Catholic [[Christianity]], has been
 
 blamed for imposing it, but in fact, it rather regulated and even
 
@@ -388,7 +388,7 @@ appetite for what one does not like. Marillac has it."
 
 mistakes is not allowing for its real existence in rare but quite real
 
-people. To live a life of incessant austerity and self-denial, as
+people. To live a life of incessant austerity and [[Self|self]]-denial, as
 
 Marillac does, is surrounded with extraordinary difficulties and
 
@@ -414,7 +414,7 @@ to tell me candidly whether I have."
 
 "Most people," replied the other, "would answer that it is Marillac who
 
-has gone mad. Perhaps he has; anyhow, if the truth were known, he would
+has gone mad. Perhaps he has; anyhow, if the [[Truth|truth]] were known, he would
 
 certainly be thought so. But it isn't only to avoid being put in a
 
@@ -448,7 +448,7 @@ he was very quick and had already guessed the joke.
 
 
 
-"Well, it's quite simple, isn't it?" replied his informant. "He feasts on
+"[[Well]], it's quite simple, isn't it?" replied his informant. "He feasts on
 
 all the most luxurious and expensive things that he doesn't like.
 
@@ -480,7 +480,7 @@ he hates olives? If he thoughtfully scans the whole wine-list and
 
 eventually selects a rather recondite Hock, who will guess that his whole
 
-soul rises in disgust at the very thought of Hock: and that he knows
+[[Soul|soul]] rises in disgust at the very thought of Hock: and that he knows
 
 that's the nastiest--even of Hocks? Whereas, if he were to demand dried
 
@@ -502,7 +502,7 @@ I can say it. I had a touch of it myself once, only in one special
 
 direction, and I found it almost impossible to explain to anybody. Only
 
-there is one mark of the real mystic and ascetic of this sort; that he
+there is one mark of the real mystic and [[ascetic]] of this sort; that he
 
 only wants to do it to himself. He wants everybody else to have what wine
 
@@ -532,13 +532,13 @@ with a sort of grunt of laughter.
 
 
 
-"Well," he said, "it's pretty plain you've never been about with Mrs.
+"[[Well]]," he said, "it's pretty plain you've never been about with Mrs.
 
 Prague."
 
 
 
-"Why, what do you mean?" asked Pinion; and this time there was something
+"Why, what do you mean?" asked Pinion; and this [[Time|time]] there was something
 
 like a general laugh.
 
@@ -588,7 +588,7 @@ Fourth in which she will no longer be a chattel; all the cliches. And he
 
 still has two acts before him, in which she will not be something else,
 
-will not be a slave in the home or an outcast flung from the home. He's
+will not be a slave in the [[Home|home]] or an outcast flung from the [[Home|home]]. He's
 
 seen it six times without turning a hair; you can't even see him grind
 
@@ -600,7 +600,7 @@ understand, only her third husband carried her off as if there was real
 
 understanding--and so on, as if there were anything to be understood. You
 
-know what an utterly egotistical fool is like. And he suffers even those
+know what an utterly egotistical [[Fool|fool]] is like. And he suffers even those
 
 fools gladly."
 
@@ -620,13 +620,13 @@ nerves as that."
 
 tripping on the light fantastic toe and only found a hermit standing on
 
-his head." After a silence he said abruptly, "Is this really true? How
+his head." After a [[Silence|silence]] he said abruptly, "Is this really true? How
 
 did you find it out?"
 
 
 
-"That's rather a long story," replied the man opposite. "The truth is
+"That's rather a long story," replied the man opposite. "The [[Truth|truth]] is
 
 that Marillac allows himself one feast in the year, on Christmas Day, and
 
@@ -644,11 +644,11 @@ that this is a confidential conversation."
 
 regarded as a lunatic if I did. People don't understand that sort of
 
-lunacy nowadays, and I rather wonder you take to it so much yourself."
+lunacy nowadays, and I rather [[Wonder|wonder]] you take to it so much yourself."
 
 
 
-"Well, I put my own case before him, you see," answered the other. "In a
+"[[Well]], I put my own case before him, you see," answered the other. "In a
 
 small way it was a little like his own. And then I introduced him to my
 
@@ -660,7 +660,7 @@ friends, and so he became a sort of President of our little club."
 
 
 
-"Well, we are four men with a common bond at least. We have all had
+"[[Well]], we are four men with a common bond at least. We have all had
 
 occasion, like Marillac, to look rather worse than we were."
 
@@ -678,21 +678,21 @@ however," continued his friend. "We are all pretty jolly here,
 
 considering that our reputations have been blasted by black and revolting
 
-crimes. The truth is we have devoted ourselves to a new sort of detective
+crimes. The [[Truth|truth]] is we have devoted ourselves to a new sort of [[Detective|detective]]
 
-story--or detective service if you like. We do not hunt for crimes but
+story--or [[Detective|detective]] service if you like. We do not hunt for crimes but
 
 for concealed virtues. Sometimes, as in Marillac's case, they are very
 
 artfully concealed. As you will doubtless be justified in retorting, we
 
-conceal our own virtues with brilliant success."
+conceal our own virtues with brilliant [[success]]."
 
 
 
 The journalist's head began to go round a little, though he thought
 
-himself pretty well accustomed both to crazy and criminal surroundings.
+himself pretty [[Well|well]] accustomed both to crazy and criminal surroundings.
 
 "But I thought you said," he objected, "that your reputations were
 
@@ -700,7 +700,7 @@ blasted with crime. What sort of crime?"
 
 
 
-"Well, mine was murder," said the man next to him. "The people who
+"[[Well]], mine was murder," said the man next to him. "The people who
 
 blasted me did it because they disapproved of murder, apparently. It's
 
@@ -730,7 +730,7 @@ was actually arrested was petty larceny."
 
 
 
-There was a profound silence, which seemed to settle in a mysterious
+There was a profound [[Silence|silence]], which seemed to settle in a mysterious
 
 manner, like a gathering cloud, on the figure of the fourth member, who
 
@@ -740,7 +740,7 @@ foreign fashion; his wooden, handsome face was unchanged and his lips had
 
 never moved even for so much as a murmur. But now, when the sudden and
 
-deep silence seemed to challenge him, his face seemed to harden from wood
+deep [[Silence|silence]] seemed to challenge him, his face seemed to harden from wood
 
 to stone and when he spoke at last, his foreign accent seemed something
 
@@ -748,7 +748,7 @@ more than alien, as if it were almost inhuman.
 
 
 
-"I have committed the Unpardonable Sin," he said. "For what sin did Dante
+"I have committed the Unpardonable Sin," he said. "For what sin did [[Dante]]
 
 reserve the last and lowest hell; the Circle of Ice?" Still no one spoke;
 
@@ -756,13 +756,13 @@ and he answered his own question in the same hollow tone: "Treason. I
 
 betrayed the four companions of my party, and gave them up to the
 
-Government for a bribe."
+[[government|Government]] for a bribe."
 
 
 
 Something turned cold inside the sensitive stranger, and for the first
 
-time he really felt the air around him sinister and strange. The
+[[Time|time]] he really felt the air around him sinister and strange. The
 
 stillness continued for another half minute, and then all the four men
 

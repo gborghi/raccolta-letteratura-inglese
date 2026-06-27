@@ -17,17 +17,17 @@ tags:
 CHAPTER 8. The Lock
 
 
-Arthur Clennam stood in the street, waiting to ask some passer-by what
+[[Arthur Clennam]] stood in the street, waiting to ask some passer-by what
 place that was. He suffered a few people to pass him in whose face there
 was no encouragement to make the inquiry, and still stood pausing in the
 street, when an old man came up and turned into the courtyard.
 
 He stooped a good deal, and plodded along in a slow pre-occupied manner,
-which made the bustling London thoroughfares no very safe resort for
+which made the bustling [[London]] thoroughfares no very safe resort for
 him. He was dirtily and meanly dressed, in a threadbare coat, once blue,
 reaching to his ankles and buttoned to his chin, where it vanished in
-the pale ghost of a velvet collar. A piece of red cloth with which that
-phantom had been stiffened in its lifetime was now laid bare, and poked
+the pale [[Ghost|ghost]] of a velvet collar. A piece of red cloth with which that
+[[Phantom|phantom]] had been stiffened in its lifetime was now laid bare, and poked
 itself up, at the back of the old man’s neck, into a confusion of grey
 hair and rusty stock and buckle which altogether nearly poked his
 hat off. A greasy hat it was, and a napless; impending over his eyes,
@@ -36,30 +36,30 @@ dangling out below it. His trousers were so long and loose, and his
 shoes so clumsy and large, that he shuffled like an elephant; though how
 much of this was gait, and how much trailing cloth and leather, no one
 could have told. Under one arm he carried a limp and worn-out case,
-containing some wind instrument; in the same hand he had a pennyworth
+containing some [[Wind|wind]] instrument; in the same hand he had a pennyworth
 of snuff in a little packet of whitey-brown paper, from which he slowly
-comforted his poor blue old nose with a lengthened-out pinch, as Arthur
+comforted his poor blue old nose with a lengthened-out pinch, as [[arthur|Arthur]]
 Clennam looked at him.
 
-To this old man crossing the court-yard, he preferred his inquiry,
+To this old man crossing the [[Court|court]]-yard, he preferred his inquiry,
 touching him on the shoulder. The old man stopped and looked round, with
 the expression in his weak grey eyes of one whose thoughts had been far
 off, and who was a little dull of hearing also.
 
-‘Pray, sir,’ said Arthur, repeating his question, ‘what is this place?’
+‘Pray, sir,’ said [[arthur|Arthur]], repeating his question, ‘what is this place?’
 
 ‘Ay! This place?’ returned the old man, staying his pinch of snuff on
-its road, and pointing at the place without looking at it. ‘This is the
+its [[Road|road]], and pointing at the place without looking at it. ‘This is the
 Marshalsea, sir.’
 
-‘The debtors’ prison?’
+‘The debtors’ [[Prison|prison]]?’
 
 ‘Sir,’ said the old man, with the air of deeming it not quite necessary
-to insist upon that designation, ‘the debtors’ prison.’
+to insist upon that designation, ‘the debtors’ [[Prison|prison]].’
 
 He turned himself about, and went on.
 
-‘I beg your pardon,’ said Arthur, stopping him once more, ‘but will you
+‘I beg your pardon,’ said [[arthur|Arthur]], stopping him once more, ‘but will you
 allow me to ask you another question? Can any one go in here?’
 
 ‘Any one can _go in_,’ replied the old man; plainly adding by the
@@ -76,14 +76,14 @@ object. Do you know the name of Dorrit here?’
 
 ‘My name, sir,’ replied the old man most unexpectedly, ‘is Dorrit.’
 
-Arthur pulled off his hat to him. ‘Grant me the favour of half-a-dozen
-words. I was wholly unprepared for your announcement, and hope that
+[[arthur|Arthur]] pulled off his hat to him. ‘Grant me the favour of half-a-dozen
+words. I was wholly unprepared for your announcement, and [[Hope|hope]] that
 assurance is my sufficient apology for having taken the liberty of
-addressing you. I have recently come home to England after a long
-absence. I have seen at my mother’s--Mrs Clennam in the city--a young
+addressing you. I have recently come [[Home|home]] to England after a long
+absence. I have seen at my mother’s--[[Mrs Clennam]] in the [[City|city]]--a young
 woman working at her needle, whom I have only heard addressed or spoken
 of as Little Dorrit. I have felt sincerely interested in her, and have
-had a great desire to know something more about her. I saw her, not a
+had a great [[Desire|desire]] to know something more about her. I saw her, not a
 minute before you came up, pass in at that door.’
 
 The old man looked at him attentively. ‘Are you a sailor, sir?’ he
@@ -95,34 +95,34 @@ might be. Are you in earnest, sir?’
 plain earnest.’
 
 ‘I know very little of the world, sir,’ returned the other, who had a
-weak and quavering voice. ‘I am merely passing on, like the shadow over
+weak and quavering voice. ‘I am merely passing on, like the [[Shadow|shadow]] over
 the sun-dial. It would be worth no man’s while to mislead me; it would
-really be too easy--too poor a success, to yield any satisfaction. The
-young woman whom you saw go in here is my brother’s child. My brother
-is William Dorrit; I am Frederick. You say you have seen her at your
+really be too easy--too poor a [[success]], to yield any satisfaction. The
+young woman whom you saw go in here is my brother’s [[Child|child]]. My brother
+is [[William Dorrit]]; I am Frederick. You say you have seen her at your
 mother’s (I know your mother befriends her), you have felt an interest
 in her, and you wish to know what she does here. Come and see.’
 
-He went on again, and Arthur accompanied him.
+He went on again, and [[arthur|Arthur]] accompanied him.
 
 ‘My brother,’ said the old man, pausing on the step and slowly facing
 round again, ‘has been here many years; and much that happens even among
 ourselves, out of doors, is kept from him for reasons that I needn’t
 enter upon now. Be so good as to say nothing of my niece’s working at
 her needle. Be so good as to say nothing that goes beyond what is said
-among us. If you keep within our bounds, you cannot well be wrong. Now!
+among us. If you keep within our bounds, you cannot [[Well|well]] be wrong. Now!
 Come and see.’
 
-Arthur followed him down a narrow entry, at the end of which a key was
+[[arthur|Arthur]] followed him down a narrow entry, at the end of which a key was
 turned, and a strong door was opened from within. It admitted them into
 a lodge or lobby, across which they passed, and so through another door
-and a grating into the prison. The old man always plodding on before,
+and a grating into the [[Prison|prison]]. The old man always plodding on before,
 turned round, in his slow, stiff, stooping manner, when they came to the
 turnkey on duty, as if to present his companion. The turnkey nodded; and
 the companion passed in without being asked whom he wanted.
 
-The night was dark; and the prison lamps in the yard, and the candles in
-the prison windows faintly shining behind many sorts of wry old curtain
+The [[Night|night]] was dark; and the [[Prison|prison]] lamps in the yard, and the candles in
+the [[Prison|prison]] windows faintly shining behind many sorts of wry old curtain
 and blind, had not the air of making it lighter. A few people loitered
 about, but the greater part of the population was within doors. The old
 man, taking the right-hand side of the yard, turned in at the third or
@@ -131,10 +131,10 @@ sir, but you will not find anything in the way.’
 
 He paused for a moment before opening a door on the second story. He had
 no sooner turned the handle than the visitor saw Little Dorrit, and saw
-the reason of her setting so much store by dining alone.
+the reason of her setting so much store by dining [[Alone|alone]].
 
-She had brought the meat home that she should have eaten herself, and
-was already warming it on a gridiron over the fire for her father, clad
+She had brought the meat [[Home|home]] that she should have eaten herself, and
+was already warming it on a gridiron over the [[Fire|fire]] for her father, clad
 in an old grey gown and a black cap, awaiting his supper at the table.
 A clean cloth was spread before him, with knife, fork, and spoon,
 salt-cellar, pepper-box, glass, and pewter ale-pot. Such zests as his
@@ -150,13 +150,13 @@ Amy’s friend--at the outer gate, wishful, as he was going by, of paying
 his respects, but hesitating whether to come in or not. This is my
 brother William, sir.’
 
-‘I hope,’ said Arthur, very doubtful what to say, ‘that my respect for
-your daughter may explain and justify my desire to be presented to you,
+‘I [[Hope|hope]],’ said [[arthur|Arthur]], very doubtful what to say, ‘that my respect for
+your daughter may explain and justify my [[Desire|desire]] to be presented to you,
 sir.’
 
 ‘Mr Clennam,’ returned the other, rising, taking his cap off in the
 flat of his hand, and so holding it, ready to put on again, ‘you do me
-honour. You are welcome, sir;’ with a low bow. ‘Frederick, a chair. Pray
+[[Honour|honour]]. You are welcome, sir;’ with a low bow. ‘Frederick, a chair. Pray
 sit down, Mr Clennam.’
 
 He put his black cap on again as he had taken it off, and resumed his
@@ -167,32 +167,32 @@ manner. These were the ceremonies with which he received the collegians.
 to these walls. Perhaps you are aware--my daughter Amy may have
 mentioned that I am the Father of this place.’
 
-‘I--so I have understood,’ said Arthur, dashing at the assertion.
+‘I--so I have understood,’ said [[arthur|Arthur]], dashing at the assertion.
 
 ‘You know, I dare say, that my daughter Amy was born here. A good girl,
 sir, a dear girl, and long a comfort and support to me. Amy, my dear,
 put this dish on; Mr Clennam will excuse the primitive customs to which
 we are reduced here. Is it a compliment to ask you if you would do me
-the honour, sir, to--’
+the [[Honour|honour]], sir, to--’
 
-‘Thank you,’ returned Arthur. ‘Not a morsel.’
+‘Thank you,’ returned [[arthur|Arthur]]. ‘Not a morsel.’
 
-He felt himself quite lost in wonder at the manner of the man, and that
+He felt himself quite lost in [[Wonder|wonder]] at the manner of the man, and that
 the probability of his daughter’s having had a reserve as to her family
-history, should be so far out of his mind.
+[[history]], should be so far out of his mind.
 
 She filled his glass, put all the little matters on the table ready to
 his hand, and then sat beside him while he ate his supper. Evidently in
 observance of their nightly custom, she put some bread before herself,
-and touched his glass with her lips; but Arthur saw she was troubled
+and touched his glass with her lips; but [[arthur|Arthur]] saw she was troubled
 and took nothing. Her look at her father, half admiring him and proud
 of him, half ashamed for him, all devoted and loving, went to his inmost
 heart.
 
 The Father of the Marshalsea condescended towards his brother as an
-amiable, well-meaning man; a private character, who had not arrived at
+amiable, [[Well|well]]-meaning man; a private character, who had not arrived at
 distinction. ‘Frederick,’ said he, ‘you and Fanny sup at your lodgings
-to-night, I know. What have you done with Fanny, Frederick?’
+to-[[Night|night]], I know. What have you done with Fanny, Frederick?’
 
 ‘She is walking with Tip.’
 
@@ -208,10 +208,10 @@ knowledge. It very seldom happens that anybody--of any pretensions--any
 pretensions--comes here without being presented to me.’
 
 ‘As many as forty or fifty in a day have been introduced to my brother,’
-said Frederick, faintly lighting up with a ray of pride.
+said Frederick, faintly lighting up with a ray of [[Pride|pride]].
 
 ‘Yes!’ the Father of the Marshalsea assented. ‘We have even exceeded
-that number. On a fine Sunday in term time, it is quite a Levee--quite
+that number. On a fine [[Sunday]] in term [[Time|time]], it is quite a Levee--quite
 a Levee. Amy, my dear, I have been trying half the day to remember the
 name of the gentleman from Camberwell who was introduced to me last
 Christmas week by that agreeable coal-merchant who was remanded for six
@@ -221,24 +221,24 @@ months.’
 
 ‘Frederick, do _you_ remember his name?’
 
-Frederick doubted if he had ever heard it. No one could doubt that
+Frederick doubted if he had ever heard it. No one could [[Doubt|doubt]] that
 Frederick was the last person upon earth to put such a question to, with
-any hope of information.
+any [[Hope|hope]] of information.
 
 ‘I mean,’ said his brother, ‘the gentleman who did that handsome action
 with so much delicacy. Ha! Tush! The name has quite escaped me. Mr
 Clennam, as I have happened to mention handsome and delicate action, you
 may like, perhaps, to know what it was.’
 
-‘Very much,’ said Arthur, withdrawing his eyes from the delicate head
+‘Very much,’ said [[arthur|Arthur]], withdrawing his eyes from the delicate head
 beginning to droop and the pale face with a new solicitude stealing over
 it.
 
 ‘It is so generous, and shows so much fine feeling, that it is almost a
-duty to mention it. I said at the time that I always would mention it
+duty to mention it. I said at the [[Time|time]] that I always would mention it
 on every suitable occasion, without regard to personal sensitiveness.
-A--well--a--it’s of no use to disguise the fact--you must know, Mr
-Clennam, that it does sometimes occur that people who come here desire
+A--[[Well|well]]--a--it’s of no use to disguise the fact--you must know, Mr
+Clennam, that it does sometimes occur that people who come here [[Desire|desire]]
 to offer some little--Testimonial--to the Father of the place.’
 
 To see her hand upon his arm in mute entreaty half-repressed, and her
@@ -250,10 +250,10 @@ sometimes another; but it is generally--ha--Money. And it is, I cannot
 but confess it, it is too often--hem--acceptable. This gentleman that I
 refer to, was presented to me, Mr Clennam, in a manner highly gratifying
 to my feelings, and conversed not only with great politeness, but with
-great--ahem--information.’ All this time, though he had finished his
+great--ahem--information.’ All this [[Time|time]], though he had finished his
 supper, he was nervously going about his plate with his knife and
 fork, as if some of it were still before him. ‘It appeared from his
-conversation that he had a garden, though he was delicate of mentioning
+conversation that he had a [[Garden|garden]], though he was delicate of mentioning
 it at first, as gardens are--hem--are not accessible to me. But it came
 out, through my admiring a very fine cluster of geranium--beautiful
 cluster of geranium to be sure--which he had brought from his
@@ -267,7 +267,7 @@ in many ways, and of many degrees of value, and they have always
 been--ha--unfortunately acceptable; but I never was more pleased than
 with this--ahem--this particular Testimonial.’
 
-Arthur was in the act of saying the little he could say on such a theme,
+[[arthur|Arthur]] was in the act of saying the little he could say on such a theme,
 when a bell began to ring, and footsteps approached the door. A pretty
 girl of a far better figure and much more developed than Little Dorrit,
 though looking much younger in the face when the two were observed
@@ -276,7 +276,7 @@ who was with her, stopped too.
 
 ‘Mr Clennam, Fanny. My eldest daughter and my son, Mr Clennam. The bell
 is a signal for visitors to retire, and so they have come to say good
-night; but there is plenty of time, plenty of time. Girls, Mr Clennam
+[[Night|night]]; but there is plenty of [[Time|time]], plenty of [[Time|time]]. Girls, Mr Clennam
 will excuse any household business you may have together. He knows, I
 dare say, that I have but one room here.’
 
@@ -290,7 +290,7 @@ which she handed to her brother and sister. ‘Mended and made up?’
 Clennam heard the sister ask in a whisper. To which Amy answered ‘Yes.’
 He had risen now, and took the opportunity of glancing round the room.
 The bare walls had been coloured green, evidently by an unskilled hand,
-and were poorly decorated with a few prints. The window was curtained,
+and were poorly decorated with a few prints. The [[Window|window]] was curtained,
 and the floor carpeted; and there were shelves and pegs, and other such
 conveniences, that had accumulated in the course of years. It was a
 close, confined room, poorly furnished; and the chimney smoked to boot,
@@ -300,43 +300,43 @@ comfortable.
 
 All the while the bell was ringing, and the uncle was anxious to go.
 ‘Come, Fanny, come, Fanny,’ he said, with his ragged clarionet case
-under his arm; ‘the lock, child, the lock!’
+under his arm; ‘the lock, [[Child|child]], the lock!’
 
-Fanny bade her father good night, and whisked off airily. Tip had
+Fanny bade her father good [[Night|night]], and whisked off airily. Tip had
 already clattered down-stairs. ‘Now, Mr Clennam,’ said the uncle,
 looking back as he shuffled out after them, ‘the lock, sir, the lock.’
 
 Mr Clennam had two things to do before he followed; one, to offer his
-testimonial to the Father of the Marshalsea, without giving pain to his
-child; the other to say something to that child, though it were but a
+testimonial to the Father of the Marshalsea, without giving [[Pain|pain]] to his
+[[Child|child]]; the other to say something to that [[Child|child]], though it were but a
 word, in explanation of his having come there.
 
 ‘Allow me,’ said the Father, ‘to see you down-stairs.’
 
-She had slipped out after the rest, and they were alone. ‘Not on any
+She had slipped out after the rest, and they were [[Alone|alone]]. ‘Not on any
 account,’ said the visitor, hurriedly. ‘Pray allow me to--’ chink,
 chink, chink.
 
 ‘Mr Clennam,’ said the Father, ‘I am deeply, deeply--’ But his visitor
 had shut up his hand to stop the clinking, and had gone down-stairs with
-great speed.
+great [[Speed|speed]].
 
 He saw no Little Dorrit on his way down, or in the yard. The last two or
 three stragglers were hurrying to the lodge, and he was following,
-when he caught sight of her in the doorway of the first house from the
+when he caught sight of her in the doorway of the first [[house]] from the
 entrance. He turned back hastily.
 
 ‘Pray forgive me,’ he said, ‘for speaking to you here; pray forgive me
-for coming here at all! I followed you to-night. I did so, that I might
+for coming here at all! I followed you to-[[Night|night]]. I did so, that I might
 endeavour to render you and your family some service. You know the
 terms on which I and my mother are, and may not be surprised that I
-have preserved our distant relations at her house, lest I should
+have preserved our distant relations at her [[house]], lest I should
 unintentionally make her jealous, or resentful, or do you any injury in
-her estimation. What I have seen here, in this short time, has greatly
+her estimation. What I have seen here, in this short [[Time|time]], has greatly
 increased my heartfelt wish to be a friend to you. It would recompense
-me for much disappointment if I could hope to gain your confidence.’
+me for much disappointment if I could [[Hope|hope]] to gain your confidence.’
 
-She was scared at first, but seemed to take courage while he spoke to
+She was scared at first, but seemed to take [[Courage|courage]] while he spoke to
 her.
 
 ‘You are very good, sir. You speak very earnestly to me. But I--but I
@@ -345,10 +345,10 @@ wish you had not watched me.’
 He understood the emotion with which she said it, to arise in her
 father’s behalf; and he respected it, and was silent.
 
-‘Mrs Clennam has been of great service to me; I don’t know what we
+‘[[Mrs Clennam]] has been of great service to me; I don’t know what we
 should have done without the employment she has given me; I am afraid
 it may not be a good return to become secret with her; I can say no more
-to-night, sir. I am sure you mean to be kind to us. Thank you, thank
+to-[[Night|night]], sir. I am sure you mean to be kind to us. Thank you, thank
 you.’
 
 ‘Let me ask you one question before I leave. Have you known my mother
@@ -368,58 +368,58 @@ sir!’
 She was so tremulous and agitated, and he was so moved by compassion for
 her, and by deep interest in her story as it dawned upon him, that he
 could scarcely tear himself away. But the stoppage of the bell, and the
-quiet in the prison, were a warning to depart; and with a few hurried
+quiet in the [[Prison|prison]], were a warning to depart; and with a few hurried
 words of kindness he left her gliding back to her father.
 
 But he remained too late. The inner gate was locked, and the lodge
 closed. After a little fruitless knocking with his hand, he was standing
 there with the disagreeable conviction upon him that he had got to get
-through the night, when a voice accosted him from behind.
+through the [[Night|night]], when a voice accosted him from behind.
 
-‘Caught, eh?’ said the voice. ‘You won’t go home till morning. Oh! It’s
+‘Caught, eh?’ said the voice. ‘You won’t go [[Home|home]] till morning. Oh! It’s
 you, is it, Mr Clennam?’
 
 The voice was Tip’s; and they stood looking at one another in the
-prison-yard, as it began to rain.
+[[Prison|prison]]-yard, as it began to rain.
 
 ‘You’ve done it,’ observed Tip; ‘you must be sharper than that next
-time.’
+[[Time|time]].’
 
-‘But you are locked in too,’ said Arthur.
+‘But you are locked in too,’ said [[arthur|Arthur]].
 
 ‘I believe I am!’ said Tip, sarcastically. ‘About! But not in your way.
 I belong to the shop, only my sister has a theory that our governor must
 never know it. I don’t see why, myself.’
 
-‘Can I get any shelter?’ asked Arthur. ‘What had I better do?’
+‘Can I get any shelter?’ asked [[arthur|Arthur]]. ‘What had I better do?’
 
 ‘We had better get hold of Amy first of all,’ said Tip, referring any
 difficulty to her as a matter of course.
 
-‘I would rather walk about all night--it’s not much to do--than give
+‘I would rather walk about all [[Night|night]]--it’s not much to do--than give
 that trouble.’
 
 ‘You needn’t do that, if you don’t mind paying for a bed. If you don’t
 mind paying, they’ll make you up one on the Snuggery table, under the
 circumstances. If you’ll come along, I’ll introduce you there.’
 
-As they passed down the yard, Arthur looked up at the window of the room
+As they passed down the yard, [[arthur|Arthur]] looked up at the [[Window|window]] of the room
 he had lately left, where the light was still burning. ‘Yes, sir,’ said
 Tip, following his glance. ‘That’s the governor’s. She’ll sit with him
 for another hour reading yesterday’s paper to him, or something of that
-sort; and then she’ll come out like a little ghost, and vanish away
+sort; and then she’ll come out like a little [[Ghost|ghost]], and vanish away
 without a sound.’
 
 ‘I don’t understand you.’
 
 ‘The governor sleeps up in the room, and she has a lodging at the
-turnkey’s. First house there,’ said Tip, pointing out the doorway into
-which she had retired. ‘First house, sky parlour. She pays twice as much
+turnkey’s. First [[house]] there,’ said Tip, pointing out the doorway into
+which she had retired. ‘First [[house]], sky parlour. She pays twice as much
 for it as she would for one twice as good outside. But she stands by the
-governor, poor dear girl, day and night.’
+governor, poor dear girl, day and [[Night|night]].’
 
 This brought them to the tavern-establishment at the upper end of the
-prison, where the collegians had just vacated their social evening club.
+[[Prison|prison]], where the collegians had just vacated their social evening club.
 The apartment on the ground-floor in which it was held, was the Snuggery
 in question; the presidential tribune of the chairman, the pewter-pots,
 glasses, pipes, tobacco-ashes, and general flavour of members, were
@@ -434,13 +434,13 @@ to be prisoners--landlord, waiter, barmaid, potboy, and all. Whether
 they were or not, did not appear; but they all had a weedy look. The
 keeper of a chandler’s shop in a front parlour, who took in gentlemen
 boarders, lent his assistance in making the bed. He had been a tailor in
-his time, and had kept a phaeton, he said. He boasted that he stood up
+his [[Time|time]], and had kept a phaeton, he said. He boasted that he stood up
 litigiously for the interests of the college; and he had undefined and
 undefinable ideas that the marshal intercepted a ‘Fund,’ which ought to
 come to the collegians. He liked to believe this, and always impressed
 the shadowy grievance on new-comers and strangers; though he could not,
 for his life, have explained what Fund he meant, or how the notion had
-got rooted in his soul. He had fully convinced himself, notwithstanding,
+got rooted in his [[Soul|soul]]. He had fully convinced himself, notwithstanding,
 that his own proper share of the Fund was three and ninepence a week;
 and that in this amount he, as an individual collegian, was swindled by
 the marshal, regularly every Monday. Apparently, he helped to make the
@@ -454,10 +454,10 @@ of mankind, and the payment of debts as a disease that occasionally
 broke out.
 
 In this strange scene, and with these strange spectres flitting about
-him, Arthur Clennam looked on at the preparations as if they were part
-of a dream. Pending which, the long-initiated Tip, with an awful
+him, [[Arthur Clennam]] looked on at the preparations as if they were part
+of [[A Dream|a dream]]. Pending which, the long-initiated Tip, with an awful
 enjoyment of the Snuggery’s resources, pointed out the common kitchen
-fire maintained by subscription of collegians, the boiler for hot water
+[[Fire|fire]] maintained by subscription of collegians, the boiler for hot [[Water|water]]
 supported in like manner, and other premises generally tending to the
 deduction that the way to be healthy, wealthy, and wise, was to come to
 the Marshalsea.
@@ -472,17 +472,17 @@ up-stairs, of the two brothers, and above all of the retiring childish
 form, and the face in which he now saw years of insufficient food, if
 not of want, kept him waking and unhappy.
 
-Speculations, too, bearing the strangest relations towards the prison,
-but always concerning the prison, ran like nightmares through his mind
+Speculations, too, bearing the strangest relations towards the [[Prison|prison]],
+but always concerning the [[Prison|prison]], ran like nightmares through his mind
 while he lay awake. Whether coffins were kept ready for people who might
 die there, where they were kept, how they were kept, where people who
-died in the prison were buried, how they were taken out, what forms were
+died in the [[Prison|prison]] were buried, how they were taken out, what forms were
 observed, whether an implacable creditor could arrest the dead? As to
 escaping, what chances there were of escape? Whether a prisoner could
 scale the walls with a cord and grapple, how he would descend upon
 the other side? whether he could alight on a housetop, steal down a
 staircase, let himself out at a door, and get lost in the crowd? As to
-Fire in the prison, if one were to break out while he lay there?
+[[Fire]] in the [[Prison|prison]], if one were to break out while he lay there?
 
 And these involuntary starts of fancy were, after all, but the setting
 of a picture in which three people kept before him. His father, with the
@@ -491,16 +491,16 @@ the portrait; his mother, with her arm up, warding off his suspicion;
 Little Dorrit, with her hand on the degraded arm, and her drooping head
 turned away.
 
-What if his mother had an old reason she well knew for softening to
+What if his mother had an old reason she [[Well|well]] knew for softening to
 this poor girl! What if the prisoner now sleeping quietly--Heaven grant
 it!--by the light of the great Day of judgment should trace back his
 fall to her. What if any act of hers and of his father’s, should have
 even remotely brought the grey heads of those two brothers so low!
 
-A swift thought shot into his mind. In that long imprisonment here, and
+A swift thought shot into his mind. In that long [[Imprisonment|imprisonment]] here, and
 in her own long confinement to her room, did his mother find a balance
 to be struck? ‘I admit that I was accessory to that man’s captivity. I
-have suffered for it in kind. He has decayed in his prison: I in mine. I
+have suffered for it in kind. He has decayed in his [[Prison|prison]]: I in mine. I
 have paid the penalty.’
 
 When all the other thoughts had faded out, this one held possession
@@ -508,5 +508,5 @@ of him. When he fell asleep, she came before him in her wheeled chair,
 warding him off with this justification. When he awoke, and sprang up
 causelessly frightened, the words were in his ears, as if her voice had
 slowly spoken them at his pillow, to break his rest: ‘He withers away in
-his prison; I wither away in mine; inexorable justice is done; what do I
+his [[Prison|prison]]; I wither away in mine; inexorable justice is done; what do I
 owe on this score!’

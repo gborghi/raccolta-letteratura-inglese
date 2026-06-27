@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 2: THE FIRST DAY’S JOURNEY, AND THE FIRST EVENING’S ADVENTURES; (part 9)"
+title: "The [[Pickwick]] Papers — Chapter 2: THE FIRST DAY’S [[Journey|JOURNEY]], AND THE FIRST EVENING’S ADVENTURES; (part 9)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -25,12 +25,12 @@ destruction.
 shots don’t take effect. There’s a quarter of a pound of powder in the
 case, and I have got two newspapers in my pocket for the loadings.’
 
-These were instances of friendship for which any man might reasonably
+These were instances of [[Friendship|friendship]] for which any man might reasonably
 feel most grateful. The presumption is, that the gratitude of Mr. Winkle
 was too powerful for utterance, as he said nothing, but continued to
 walk on--rather slowly.
 
-‘We are in excellent time,’ said Mr. Snodgrass, as they climbed the
+‘We are in excellent [[Time|time]],’ said Mr. Snodgrass, as they climbed the
 fence of the first field; ‘the sun is just going down.’ Mr. Winkle
 looked up at the declining orb and painfully thought of the probability
 of his ‘going down’ himself, before long.
@@ -46,11 +46,11 @@ figure, muffled up, as he had described. The officer evinced his
 consciousness of their presence by slightly beckoning with his hand; and
 the two friends followed him at a little distance, as he walked away.
 
-The evening grew more dull every moment, and a melancholy wind sounded
+The evening grew more dull every moment, and a [[Melancholy|melancholy]] [[Wind|wind]] sounded
 through the deserted fields, like a distant giant whistling for his
-house-dog. The sadness of the scene imparted a sombre tinge to the
+[[house]]-dog. The sadness of the scene imparted a sombre tinge to the
 feelings of Mr. Winkle. He started as they passed the angle of the
-trench--it looked like a colossal grave.
+trench--it looked like a colossal [[Grave|grave]].
 
 The officer turned suddenly from the path, and after climbing a paling,
 and scaling a hedge, entered a secluded field. Two gentlemen were
@@ -82,7 +82,7 @@ producing his pistols. ‘You saw me load them. Do you object to use
 them?’
 
 ‘Certainly not,’ replied Mr. Snodgrass. The offer relieved him from
-considerable embarrassment, for his previous notions of loading a pistol
+considerable embarrassment, for his previous notions of loading a [[Pistol|pistol]]
 were rather vague and undefined.
 
 ‘We may place our men, then, I think,’ observed the officer, with as
@@ -93,7 +93,7 @@ players.
 proposition, because he knew nothing about the matter. The officer
 crossed to Doctor Slammer, and Mr. Snodgrass went up to Mr. Winkle.
 
-‘It’s all ready,’ said he, offering the pistol. ‘Give me your cloak.’
+‘It’s all ready,’ said he, offering the [[Pistol|pistol]]. ‘Give me your cloak.’
 
 ‘You have got the packet, my dear fellow,’ said poor Winkle.
 
@@ -102,8 +102,8 @@ crossed to Doctor Slammer, and Mr. Snodgrass went up to Mr. Winkle.
 It occurred to Mr. Winkle that this advice was very like that which
 bystanders invariably give to the smallest boy in a street fight,
 namely, ‘Go in, and win’--an admirable thing to recommend, if you only
-know how to do it. He took off his cloak, however, in silence--it always
-took a long time to undo that cloak--and accepted the pistol. The
+know how to do it. He took off his cloak, however, in [[Silence|silence]]--it always
+took a long [[Time|time]] to undo that cloak--and accepted the [[Pistol|pistol]]. The
 seconds retired, the gentleman on the camp-stool did the same, and the
 belligerents approached each other.
 
@@ -125,7 +125,7 @@ came running up; ‘that’s not the man.’
 ‘Not the man!’ said the gentleman with the camp-stool in his hand.
 
 ‘Certainly not,’ replied the little doctor. ‘That’s not the person who
-insulted me last night.’
+insulted me last [[Night|night]].’
 
 ‘Very extraordinary!’ exclaimed the officer.
 

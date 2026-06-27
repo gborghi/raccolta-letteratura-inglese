@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 27"
+title: "[[Great Expectations]] — Chapter 27"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -20,20 +20,20 @@ Chapter XXVII.
 “MY DEAR MR PIP:—
 
 “I write this by request of Mr. Gargery, for to let you know that he is
-going to London in company with Mr. Wopsle and would be glad if
+going to [[London]] in company with Mr. Wopsle and would be glad if
 agreeable to be allowed to see you. He would call at Barnard’s Hotel
-Tuesday morning at nine o’clock, when if not agreeable please leave
+Tuesday morning at nine o’[[Clock|clock]], when if not agreeable please leave
 word. Your poor sister is much the same as when you left. We talk of
-you in the kitchen every night, and wonder what you are saying and
+you in the kitchen every [[Night|night]], and [[Wonder|wonder]] what you are saying and
 doing. If now considered in the light of a liberty, excuse it for the
-love of poor old days. No more, dear Mr. Pip, from
+[[Love|love]] of poor old days. No more, dear Mr. Pip, from
 
 “Your ever obliged, and affectionate servant,
-“BIDDY.”
+“[[Biddy|BIDDY]].”
 
 
 “P.S. He wishes me most particular to write _what larks_. He says you
-will understand. I hope and do not doubt it will be agreeable to see
+will understand. I [[Hope|hope]] and do not [[Doubt|doubt]] it will be agreeable to see
 him, even though a gentleman, for you had ever a good heart, and he is
 a worthy, worthy man. I have read him all, excepting only the last
 little sentence, and he wishes me most particular to write again _what
@@ -56,19 +56,19 @@ usually committed for the sake of the people whom we most despise.
 
 I had begun to be always decorating the chambers in some quite
 unnecessary and inappropriate way or other, and very expensive those
-wrestles with Barnard proved to be. By this time, the rooms were vastly
-different from what I had found them, and I enjoyed the honour of
+wrestles with Barnard proved to be. By this [[Time|time]], the rooms were vastly
+different from what I had found them, and I enjoyed the [[Honour|honour]] of
 occupying a few prominent pages in the books of a neighbouring
 upholsterer. I had got on so fast of late, that I had even started a
-boy in boots,—top boots,—in bondage and slavery to whom I might have
-been said to pass my days. For, after I had made the monster (out of
+boy in boots,—top boots,—in bondage and [[Slavery|slavery]] to whom I might have
+been said to pass my days. For, after I had made the [[Monster|monster]] (out of
 the refuse of my washerwoman’s family), and had clothed him with a blue
 coat, canary waistcoat, white cravat, creamy breeches, and the boots
 already mentioned, I had to find him a little to do and a great deal to
 eat; and with both of those horrible requirements he haunted my
 existence.
 
-This avenging phantom was ordered to be on duty at eight on Tuesday
+This avenging [[Phantom|phantom]] was ordered to be on duty at eight on Tuesday
 morning in the hall, (it was two feet square, as charged for
 floorcloth,) and Herbert suggested certain things for breakfast that he
 thought Joe would like. While I felt sincerely obliged to him for being
@@ -76,17 +76,17 @@ so interested and considerate, I had an odd half-provoked sense of
 suspicion upon me, that if Joe had been coming to see _him_, he
 wouldn’t have been quite so brisk about it.
 
-However, I came into town on the Monday night to be ready for Joe, and
+However, I came into town on the Monday [[Night|night]] to be ready for Joe, and
 I got up early in the morning, and caused the sitting-room and
 breakfast-table to assume their most splendid appearance. Unfortunately
 the morning was drizzly, and an angel could not have concealed the fact
-that Barnard was shedding sooty tears outside the window, like some
+that Barnard was shedding sooty [[Tears|tears]] outside the [[Window|window]], like some
 weak giant of a Sweep.
 
-As the time approached I should have liked to run away, but the Avenger
+As the [[Time|time]] approached I should have liked to run away, but the [[Avenger]]
 pursuant to orders was in the hall, and presently I heard Joe on the
 staircase. I knew it was Joe, by his clumsy manner of coming
-upstairs,—his state boots being always too big for him,—and by the time
+upstairs,—his state boots being always too big for him,—and by the [[Time|time]]
 it took him to read the names on the other floors in the course of his
 ascent. When at last he stopped outside our door, I could hear his
 finger tracing over the painted letters of my name, and I afterwards
@@ -112,24 +112,24 @@ and persisted in standing talking over it in a most uncomfortable way.
 
 “Which you have that growed,” said Joe, “and that swelled, and that
 gentle-folked;” Joe considered a little before he discovered this word;
-“as to be sure you are a honour to your king and country.”
+“as to be sure you are a [[Honour|honour]] to your [[King|king]] and country.”
 
-“And you, Joe, look wonderfully well.”
+“And you, Joe, look wonderfully [[Well|well]].”
 
 “Thank God,” said Joe, “I’m ekerval to most. And your sister, she’s no
-worse than she were. And Biddy, she’s ever right and ready. And all
+worse than she were. And [[Biddy]], she’s ever right and ready. And all
 friends is no backerder, if not no forarder. ’Ceptin Wopsle; he’s had a
 drop.”
 
-All this time (still with both hands taking great care of the
-bird’s-nest), Joe was rolling his eyes round and round the room, and
+All this [[Time|time]] (still with both hands taking great care of the
+bird’s-nest), Joe was [[rolling]] his eyes round and round the room, and
 round and round the flowered pattern of my dressing-gown.
 
 “Had a drop, Joe?”
 
 “Why yes,” said Joe, lowering his voice, “he’s left the Church and went
 into the playacting. Which the playacting have likeways brought him to
-London along with me. And his wish were,” said Joe, getting the
+[[London]] along with me. And his wish were,” said Joe, getting the
 bird’s-nest under his left arm for the moment, and groping in it for an
 egg with his right; “if no offence, as I would ’and you that.”
 
@@ -147,27 +147,27 @@ circles.”
 “Was there a great sensation?”
 
 “Why,” said Joe, “yes, there certainly were a peck of orange-peel.
-Partickler when he see the ghost. Though I put it to yourself, sir,
+Partickler when he see the [[Ghost|ghost]]. Though I put it to yourself, sir,
 whether it were calc’lated to keep a man up to his work with a good
-hart, to be continiwally cutting in betwixt him and the Ghost with
+hart, to be continiwally cutting in betwixt him and the [[Ghost]] with
 “Amen!” A man may have had a misfortun’ and been in the Church,” said
 Joe, lowering his voice to an argumentative and feeling tone, “but that
-is no reason why you should put him out at such a time. Which I
-meantersay, if the ghost of a man’s own father cannot be allowed to
+is no reason why you should put him out at such a [[Time|time]]. Which I
+meantersay, if the [[Ghost|ghost]] of a man’s own father cannot be allowed to
 claim his attention, what can, Sir? Still more, when his mourning ’at
 is unfortunately made so small as that the weight of the black feathers
 brings it off, try to keep it on how you may.”
 
-A ghost-seeing effect in Joe’s own countenance informed me that Herbert
+A [[Ghost|ghost]]-seeing effect in Joe’s own countenance informed me that Herbert
 had entered the room. So, I presented Joe to Herbert, who held out his
 hand; but Joe backed from it, and held on by the bird’s-nest.
 
-“Your servant, Sir,” said Joe, “which I hope as you and Pip”—here his
-eye fell on the Avenger, who was putting some toast on table, and so
+“Your servant, Sir,” said Joe, “which I [[Hope|hope]] as you and Pip”—here his
+eye fell on the [[Avenger]], who was putting some toast on table, and so
 plainly denoted an intention to make that young gentleman one of the
 family, that I frowned it down and confused him more—“I meantersay, you
-two gentlemen,—which I hope as you get your elths in this close spot?
-For the present may be a werry good inn, according to London opinions,”
+two gentlemen,—which I [[Hope|hope]] as you get your elths in this close spot?
+For the present may be a werry good inn, according to [[London]] opinions,”
 said Joe, confidentially, “and I believe its character do stand it; but
 I wouldn’t keep a pig in it myself,—not in the case that I wished him
 to fatten wholesome and to eat with a meller flavour on him.”
@@ -176,7 +176,7 @@ Having borne this flattering testimony to the merits of our
 dwelling-place, and having incidentally shown this tendency to call me
 “sir,” Joe, being invited to sit down to table, looked all round the
 room for a suitable spot on which to deposit his hat,—as if it were
-only on some very few rare substances in nature that it could find a
+only on some very few rare substances in [[Nature|nature]] that it could find a
 resting place,—and ultimately stood it on an extreme corner of the
 chimney-piece, from which it ever afterwards fell off at intervals.
 
@@ -203,11 +203,11 @@ soon.
 “When did you come to town, Mr. Gargery?”
 
 “Were it yesterday afternoon?” said Joe, after coughing behind his
-hand, as if he had had time to catch the whooping-cough since he came.
+hand, as if he had had [[Time|time]] to catch the whooping-cough since he came.
 “No it were not. Yes it were. Yes. It were yesterday afternoon” (with
 an appearance of mingled wisdom, relief, and strict impartiality).
 
-“Have you seen anything of London yet?”
+“Have you seen anything of [[London]] yet?”
 
 “Why, yes, Sir,” said Joe, “me and Wopsle went off straight to look at
 the Blacking Ware’us. But we didn’t find that it come up to its
@@ -217,7 +217,7 @@ architectooralooral.”
 
 I really believe Joe would have prolonged this word (mightily
 expressive to my mind of some architecture that I know) into a perfect
-Chorus, but for his attention being providentially attracted by his
+[[Chorus]], but for his attention being providentially attracted by his
 hat, which was toppling. Indeed, it demanded from him a constant
 attention, and a quickness of eye and hand, very like that exacted by
 wicket-keeping. He made extraordinary play with it, and showed the
@@ -233,20 +233,20 @@ laying hands upon it.
 As to his shirt-collar, and his coat-collar, they were perplexing to
 reflect upon,—insoluble mysteries both. Why should a man scrape himself
 to that extent, before he could consider himself full dressed? Why
-should he suppose it necessary to be purified by suffering for his
+should he suppose it necessary to be purified by [[Suffering|suffering]] for his
 holiday clothes? Then he fell into such unaccountable fits of
 meditation, with his fork midway between his plate and his mouth; had
 his eyes attracted in such strange directions; was afflicted with such
 remarkable coughs; sat so far from the table, and dropped so much more
 than he ate, and pretended that he hadn’t dropped it; that I was
-heartily glad when Herbert left us for the City.
+heartily glad when Herbert left us for the [[City]].
 
 I had neither the good sense nor the good feeling to know that this was
 all my fault, and that if I had been easier with Joe, Joe would have
 been easier with me. I felt impatient of him and out of temper with
-him; in which condition he heaped coals of fire on my head.
+him; in which condition he heaped coals of [[Fire|fire]] on my head.
 
-“Us two being now alone, sir,”—began Joe.
+“Us two being now [[Alone|alone]], sir,”—began Joe.
 
 “Joe,” I interrupted, pettishly, “how can you call me, sir?”
 
@@ -254,19 +254,19 @@ Joe looked at me for a single instant with something faintly like
 reproach. Utterly preposterous as his cravat was, and as his collars
 were, I was conscious of a sort of dignity in the look.
 
-“Us two being now alone,” resumed Joe, “and me having the intentions
+“Us two being now [[Alone|alone]],” resumed Joe, “and me having the intentions
 and abilities to stay not many minutes more, I will now
 conclude—leastways begin—to mention what have led to my having had the
-present honour. For was it not,” said Joe, with his old air of lucid
+present [[Honour|honour]]. For was it not,” said Joe, with his old air of lucid
 exposition, “that my only wish were to be useful to you, I should not
-have had the honour of breaking wittles in the company and abode of
+have had the [[Honour|honour]] of breaking wittles in the company and abode of
 gentlemen.”
 
 I was so unwilling to see the look again, that I made no remonstrance
 against this tone.
 
-“Well, sir,” pursued Joe, “this is how it were. I were at the Bargemen
-t’other night, Pip;”—whenever he subsided into affection, he called me
+“[[Well]], sir,” pursued Joe, “this is how it were. I were at the Bargemen
+t’other [[Night|night]], Pip;”—whenever he subsided into affection, he called me
 Pip, and whenever he relapsed into politeness he called me sir; “when
 there come up in his shay-cart, Pumblechook. Which that same
 identical,” said Joe, going down a new track, “do comb my ’air the
@@ -277,13 +277,13 @@ playfellow by yourself.”
 “Nonsense. It was you, Joe.”
 
 “Which I fully believed it were, Pip,” said Joe, slightly tossing his
-head, “though it signify little now, sir. Well, Pip; this same
+head, “though it signify little now, sir. [[Well]], Pip; this same
 identical, which his manners is given to blusterous, come to me at the
 Bargemen (wot a pipe and a pint of beer do give refreshment to the
 workingman, sir, and do not over stimilate), and his word were,
-‘Joseph, Miss Havisham she wish to speak to you.’”
+‘Joseph, [[Miss Havisham]] she wish to speak to you.’”
 
-“Miss Havisham, Joe?”
+“[[Miss Havisham]], Joe?”
 
 “‘She wish,’ were Pumblechook’s word, ‘to speak to you.’” Joe sat and
 rolled his eyes at the ceiling.
@@ -293,7 +293,7 @@ rolled his eyes at the ceiling.
 “Next day, sir,” said Joe, looking at me as if I were a long way off,
 “having cleaned myself, I go and I see Miss A.”
 
-“Miss A., Joe? Miss Havisham?”
+“Miss A., Joe? [[Miss Havisham]]?”
 
 “Which I say, sir,” replied Joe, with an air of legal formality, as if
 he were making his will, “Miss A., or otherways Havisham. Her
@@ -301,18 +301,18 @@ expression air then as follering: ‘Mr. Gargery. You air in
 correspondence with Mr. Pip?’ Having had a letter from you, I were able
 to say ‘I am.’ (When I married your sister, sir, I said ‘I will;’ and
 when I answered your friend, Pip, I said ‘I am.’) ‘Would you tell him,
-then,’ said she, ‘that which Estella has come home and would be glad to
+then,’ said she, ‘that which [[Estella]] has come [[Home|home]] and would be glad to
 see him.’”
 
-I felt my face fire up as I looked at Joe. I hope one remote cause of
+I felt my face [[Fire|fire]] up as I looked at Joe. I [[Hope|hope]] one remote cause of
 its firing may have been my consciousness that if I had known his
 errand, I should have given him more encouragement.
 
-“Biddy,” pursued Joe, “when I got home and asked her fur to write the
-message to you, a little hung back. Biddy says, ‘I know he will be very
-glad to have it by word of mouth, it is holiday time, you want to see
+“[[Biddy]],” pursued Joe, “when I got [[Home|home]] and asked her fur to write the
+message to you, a little hung back. [[Biddy]] says, ‘I know he will be very
+glad to have it by word of mouth, it is holiday [[Time|time]], you want to see
 him, go!’ I have now concluded, sir,” said Joe, rising from his chair,
-“and, Pip, I wish you ever well and ever prospering to a greater and a
+“and, Pip, I wish you ever [[Well|well]] and ever prospering to a greater and a
 greater height.”
 
 “But you are not going now, Joe?”
@@ -331,7 +331,7 @@ together, as I may say, and one man’s a blacksmith, and one’s a
 whitesmith, and one’s a goldsmith, and one’s a coppersmith. Diwisions
 among such must come, and must be met as they come. If there’s been any
 fault at all to-day, it’s mine. You and me is not two figures to be
-together in London; nor yet anywheres else but what is private, and
+together in [[London]]; nor yet anywheres else but what is private, and
 beknown, and understood among friends. It ain’t that I am proud, but
 that I want to be right, as you shall never see me no more in these
 clothes. I’m wrong in these clothes. I’m wrong out of the forge, the
@@ -339,8 +339,8 @@ kitchen, or off th’ meshes. You won’t find half so much fault in me if
 you think of me in my forge dress, with my hammer in my hand, or even
 my pipe. You won’t find half so much fault in me if, supposing as you
 should ever wish to see me, you come and put your head in at the forge
-window and see Joe the blacksmith, there, at the old anvil, in the old
-burnt apron, sticking to the old work. I’m awful dull, but I hope I’ve
+[[Window|window]] and see Joe the blacksmith, there, at the old anvil, in the old
+burnt apron, sticking to the old work. I’m awful dull, but I [[Hope|hope]] I’ve
 beat out something nigh the rights of this at last. And so GOD bless
 you, dear old Pip, old chap, GOD bless you!”
 

@@ -22,7 +22,7 @@ can’t retire gracefully unless you help her, Lizzie.’
 releasing the hand, and laying her own lightly on Miss Jenny’s curls.
 And then to Bradley: ‘From Charley, sir?’
 
-In an irresolute way, and stealing a clumsy look at her, Bradley rose to
+In an irresolute way, and stealing a clumsy look at her, Bradley [[Rose|rose]] to
 place a chair for her, and then returned to his own.
 
 ‘Strictly speaking,’ said he, ‘I come from Charley, because I left him
@@ -35,8 +35,8 @@ different way, sat looking at him too.
 
 ‘The fact is,’ began Bradley, with a mouth so dry that he had some
 difficulty in articulating his words: the consciousness of which
-rendered his manner still more ungainly and undecided; ‘the truth is,
-that Charley, having no secrets from me (to the best of my belief), has
+rendered his manner still more ungainly and undecided; ‘the [[Truth|truth]] is,
+that Charley, having no [[Secrets|secrets]] from me (to the best of my belief), has
 confided the whole of this matter to me.’
 
 He came to a stop, and Lizzie asked: ‘what matter, sir?’
@@ -87,25 +87,25 @@ of us are obliged habitually to keep it down. To keep it down. But to
 return to your brother. He has taken the matter so much to heart that
 he has remonstrated (in my presence he remonstrated) with Mr Eugene
 Wrayburn, if that be the name. He did so, quite ineffectually. As any
-one not blinded to the real character of Mr—Mr Eugene Wrayburn—would
+one not blinded to the real character of Mr—Mr [[Eugene Wrayburn]]—would
 readily suppose.’
 
 He looked at Lizzie again, and held the look. And his face turned from
 burning red to white, and from white back to burning red, and so for the
-time to lasting deadly white.
+[[Time|time]] to lasting deadly white.
 
-‘Finally, I resolved to come here alone, and appeal to you. I resolved
-to come here alone, and entreat you to retract the course you have
+‘Finally, I resolved to come here [[Alone|alone]], and appeal to you. I resolved
+to come here [[Alone|alone]], and entreat you to retract the course you have
 chosen, and instead of confiding in a mere stranger—a person of most
 insolent behaviour to your brother and others—to prefer your brother
 and your brother’s friend.’
 
-Lizzie Hexam had changed colour when those changes came over him, and
+[[Lizzie Hexam]] had changed colour when those changes came over him, and
 her face now expressed some anger, more dislike, and even a touch of
-fear. But she answered him very steadily.
+[[Fear|fear]]. But she answered him very steadily.
 
-‘I cannot doubt, Mr Headstone, that your visit is well meant. You have
-been so good a friend to Charley that I have no right to doubt it. I
+‘I cannot [[Doubt|doubt]], Mr Headstone, that your visit is [[Well|well]] meant. You have
+been so good a friend to Charley that I have no right to [[Doubt|doubt]] it. I
 have nothing to tell Charley, but that I accepted the help to which he
 so much objects before he made any plans for me; or certainly before I
 knew of any. It was considerately and delicately offered, and there were
@@ -118,12 +118,12 @@ himself; and limitation of her words to her brother.
 ‘I should have told Charley, if he had come to me,’ she resumed, as
 though it were an after-thought, ‘that Jenny and I find our teacher very
 able and very patient, and that she takes great pains with us. So much
-so, that we have said to her we hope in a very little while to be able
+so, that we have said to her we [[Hope|hope]] in a very little while to be able
 to go on by ourselves. Charley knows about teachers, and I should also
 have told him, for his satisfaction, that ours comes from an institution
 where teachers are regularly brought up.’
 
-‘I should like to ask you,’ said Bradley Headstone, grinding his words
+‘I should like to ask you,’ said [[Bradley Headstone]], grinding his words
 slowly out, as though they came from a rusty mill; ‘I should like to
 ask you, if I may without offence, whether you would have objected—no;
 rather, I should like to say, if I may without offence, that I wish I
@@ -132,7 +132,7 @@ poor abilities and experience to your service.’
 
 ‘Thank you, Mr Headstone.’
 
-‘But I fear,’ he pursued, after a pause, furtively wrenching at the seat
+‘But I [[Fear|fear]],’ he pursued, after a pause, furtively wrenching at the seat
 of his chair with one hand, as if he would have wrenched the chair to
 pieces, and gloomily observing her while her eyes were cast down, ‘that
 my humble services would not have found much favour with you?’

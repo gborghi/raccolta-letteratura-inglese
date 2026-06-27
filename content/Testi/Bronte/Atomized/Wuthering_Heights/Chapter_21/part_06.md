@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 21 (part 6)"
+title: "[[Wuthering Heights]] — Chapter 21 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“What is the matter, love? Have you hurt yourself?” he said.
+“What is the matter, [[Love|love]]? Have you hurt yourself?” he said.
 
 His tone and look assured her _he_ had not been the discoverer of the
 hoard.
@@ -24,26 +24,26 @@ hoard.
 I obeyed her summons, and accompanied her out.
 
 “Oh, Ellen! you have got them,” she commenced immediately, dropping on
-her knees, when we were enclosed alone. “Oh, give them to me, and I’ll
+her knees, when we were enclosed [[Alone|alone]]. “Oh, give them to me, and I’ll
 never, never do so again! Don’t tell papa. You have not told papa,
 Ellen? say you have not? I’ve been exceedingly naughty, but I won’t do
 it any more!”
 
-With a grave severity in my manner I bade her stand up.
+With a [[Grave|grave]] severity in my manner I bade her stand up.
 
 “So,” I exclaimed, “Miss Catherine, you are tolerably far on, it seems:
-you may well be ashamed of them! A fine bundle of trash you study in
+you may [[Well|well]] be ashamed of them! A fine bundle of trash you study in
 your leisure hours, to be sure: why, it’s good enough to be printed!
 And what do you suppose the master will think when I display it before
 him? I hav’n’t shown it yet, but you needn’t imagine I shall keep your
-ridiculous secrets. For shame! and you must have led the way in writing
+ridiculous [[Secrets|secrets]]. For shame! and you must have led the way in writing
 such absurdities: he would not have thought of beginning, I’m certain.”
 
 “I didn’t! I didn’t!” sobbed Cathy, fit to break her heart. “I didn’t
 once think of loving him till—”
 
 “_Loving_!” cried I, as scornfully as I could utter the word.
-“_Loving_! Did anybody ever hear the like! I might just as well talk of
+“_Loving_! Did anybody ever hear the like! I might just as [[Well|well]] talk of
 loving the miller who comes once a year to buy our corn. Pretty loving,
 indeed! and both times together you have seen Linton hardly four hours
 in your life! Now here is the babyish trash. I’m going with it to the
@@ -52,20 +52,20 @@ library; and we’ll see what your father says to such _loving_.”
 She sprang at her precious epistles, but I held them above my head; and
 then she poured out further frantic entreaties that I would burn
 them—do anything rather than show them. And being really fully as much
-inclined to laugh as scold—for I esteemed it all girlish vanity—I at
+inclined to laugh as scold—for I esteemed it all girlish [[Vanity|vanity]]—I at
 length relented in a measure, and asked,—“If I consent to burn them,
 will you promise faithfully neither to send nor receive a letter again,
 nor a book (for I perceive you have sent him books), nor locks of hair,
 nor rings, nor playthings?”
 
-“We don’t send playthings,” cried Catherine, her pride overcoming her
+“We don’t send playthings,” cried Catherine, her [[Pride|pride]] overcoming her
 shame.
 
 “Nor anything at all, then, my lady?” I said. “Unless you will, here I
 go.”
 
 “I promise, Ellen!” she cried, catching my dress. “Oh, put them in the
-fire, do, do!”
+[[Fire|fire]], do, do!”
 
 But when I proceeded to open a place with the poker the sacrifice was
 too painful to be borne. She earnestly supplicated that I would spare
@@ -77,10 +77,10 @@ I unknotted the handkerchief, and commenced dropping them in from an
 angle, and the flame curled up the chimney.
 
 “I will have one, you cruel wretch!” she screamed, darting her hand
-into the fire, and drawing forth some half-consumed fragments, at the
+into the [[Fire|fire]], and drawing forth some half-consumed fragments, at the
 expense of her fingers.
 
-“Very well—and I will have some to exhibit to papa!” I answered,
+“Very [[Well|well]]—and I will have some to exhibit to papa!” I answered,
 shaking back the rest into the bundle, and turning anew to the door.
 
 She emptied her blackened pieces into the flames, and motioned me to
@@ -91,6 +91,6 @@ to tell my master that the young lady’s qualm of sickness was almost
 gone, but I judged it best for her to lie down a while. She wouldn’t
 dine; but she reappeared at tea, pale, and red about the eyes, and
 marvellously subdued in outward aspect. Next morning I answered the
-letter by a slip of paper, inscribed, “Master Heathcliff is requested
+letter by a slip of paper, inscribed, “Master [[Heathcliff]] is requested
 to send no more notes to Miss Linton, as she will not receive them.”
 And, thenceforth, the little boy came with vacant pockets.

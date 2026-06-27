@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 31: THIRTY ONE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -46,15 +46,15 @@ If friars bear such hearts as thine, Tom, let friars multiply; though
 they have no such rule in all their stern arithmetic.
 
 ‘Dear Mr Pinch!’ said Mary, giving him her hand; ‘I cannot tell you how
-your kindness moves me. I have never wronged you by the lightest doubt,
+your kindness moves me. I have never wronged you by the lightest [[Doubt|doubt]],
 and have never for an instant ceased to feel that you were all--much
 more than all--that Martin found you. Without the silent care and
-friendship I have experienced from you, my life here would have been
+[[Friendship|friendship]] I have experienced from you, my life here would have been
 unhappy. But you have been a good angel to me; filling me with gratitude
-of heart, hope, and courage.’
+of heart, [[Hope|hope]], and [[Courage|courage]].’
 
 ‘I am as little like an angel, I am afraid,’ replied Tom, shaking his
-head, ‘as any stone cherubim among the grave-stones; and I don’t think
+head, ‘as any stone cherubim among the [[Grave|grave]]-stones; and I don’t think
 there are many real angels of THAT pattern. But I should like to know
 (if you will tell me) why you have been so very silent about Martin.’
 
@@ -80,15 +80,15 @@ ever, smiled.
 Mary seemed to have expressed some dissent in the meanwhile, for Tom
 went on to say, with honest energy:
 
-‘Well, I don’t know how it is, but it always happens, whenever I express
+‘[[Well]], I don’t know how it is, but it always happens, whenever I express
 myself in this way to anybody almost, that I find they won’t do justice
 to Pecksniff. It is one of the most extraordinary circumstances that
 ever came within my knowledge, but it is so. There’s John Westlock, who
 used to be a pupil here, one of the best-hearted young men in the world,
 in all other matters--I really believe John would have Pecksniff flogged
 at the cart’s tail if he could. And John is not a solitary case,
-for every pupil we have had in my time has gone away with the same
-inveterate hatred of him. There was Mark Tapley, too, quite in another
+for every pupil we have had in my [[Time|time]] has gone away with the same
+inveterate hatred of him. There was [[Mark Tapley]], too, quite in another
 station of life,’ said Tom; ‘the mockery he used to make of Pecksniff
 when he was at the Dragon was shocking. Martin too: Martin was worse
 than any of ‘em. But I forgot. He prepared you to dislike Pecksniff, of
@@ -111,7 +111,7 @@ her.
 
 ‘What is the matter?’ cried Tom. ‘Have I said anything to hurt you? Has
 any one said anything to hurt you? Don’t cry. Pray tell me what it is.
-I cannot bear to see you so distressed. Mercy on us, I never was so
+I cannot bear to see you so distressed. [[Mercy]] on us, I never was so
 surprised and grieved in all my life!’
 
 Mr Pecksniff kept his eye in the same place. He could have moved it now
@@ -122,7 +122,7 @@ it; but your delusion is so absorbing, and it is so necessary that we
 should be upon our guard; that you should not be compromised; and to
 that end that you should know by whom I am beset; that no alternative
 is left me. I came here purposely to tell you, but I think I should
-have wanted courage if you had not chanced to lead me so directly to the
+have wanted [[Courage|courage]] if you had not chanced to lead me so directly to the
 object of my coming.’
 
 Tom gazed at her steadfastly, and seemed to say, ‘What else?’ But he
@@ -142,7 +142,7 @@ indignation.
 
 Tom sat down on a seat, and clasped his hands.
 
-‘What is he,’ said Mary, ‘who receiving me in his house as his guest;
-his unwilling guest; knowing my history, and how defenceless and alone
+‘What is he,’ said Mary, ‘who receiving me in his [[house]] as his guest;
+his unwilling guest; knowing my [[history]], and how defenceless and [[Alone|alone]]
 I am, presumes before his daughters to affront me so, that if I had a
-brother but a child, who saw it, he would instinctively have helped me?’
+brother but a [[Child|child]], who saw it, he would instinctively have helped me?’

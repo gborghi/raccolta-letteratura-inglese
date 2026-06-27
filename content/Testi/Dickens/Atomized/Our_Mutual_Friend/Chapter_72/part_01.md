@@ -16,10 +16,10 @@ tags:
 
 Chapter 13
 
-SHOWING HOW THE GOLDEN DUSTMAN HELPED TO SCATTER DUST
+SHOWING HOW THE GOLDEN DUSTMAN HELPED TO SCATTER [[Dust|DUST]]
 
 
-In all the first bewilderment of her wonder, the most bewilderingly
+In all the first bewilderment of her [[Wonder|wonder]], the most bewilderingly
 wonderful thing to Bella was the shining countenance of Mr Boffin. That
 his wife should be joyous, open-hearted, and genial, or that her face
 should express every quality that was large and trusting, and no quality
@@ -62,39 +62,39 @@ her head. ‘Not a bit of it.’
 
 ‘At least, his name is John, I suppose?’ said Bella.
 
-‘Ah! I should think so, deary!’ cried Mrs Boffin. ‘I should hope so!
-Many and many is the time I have called him by his name of John. But
+‘Ah! I should think so, deary!’ cried Mrs Boffin. ‘I should [[Hope|hope]] so!
+Many and many is the [[Time|time]] I have called him by his name of John. But
 what’s his other name, his true other name? Give a guess, my pretty!’
 
 ‘I can’t guess,’ said Bella, turning her pale face from one to another.
 
 ‘I could,’ cried Mrs Boffin, ‘and what’s more, I did! I found him out,
-all in a flash as I may say, one night. Didn’t I, Noddy?’
+all in a flash as I may say, one [[Night|night]]. Didn’t I, Noddy?’
 
-‘Ay! That the old lady did!’ said Mr Boffin, with stout pride in the
+‘Ay! That the old lady did!’ said Mr Boffin, with stout [[Pride|pride]] in the
 circumstance.
 
 ‘Harkee to me, deary,’ pursued Mrs Boffin, taking Bella’s hands between
-her own, and gently beating on them from time to time. ‘It was after a
-particular night when John had been disappointed—as he thought—in
-his affections. It was after a night when John had made an offer to a
+her own, and gently beating on them from [[Time|time]] to [[Time|time]]. ‘It was after a
+particular [[Night|night]] when John had been disappointed—as he thought—in
+his affections. It was after a [[Night|night]] when John had made an offer to a
 certain young lady, and the certain young lady had refused it. It was
-after a particular night, when he felt himself cast-away-like, and had
-made up his mind to go seek his fortune. It was the very next night. My
+after a particular [[Night|night]], when he felt himself cast-away-like, and had
+made up his mind to go seek his fortune. It was the very next [[Night|night]]. My
 Noddy wanted a paper out of his Secretary’s room, and I says to Noddy,
 “I am going by the door, and I’ll ask him for it.” I tapped at his door,
 and he didn’t hear me. I looked in, and saw him a sitting lonely by his
-fire, brooding over it. He chanced to look up with a pleased kind of
+[[Fire|fire]], brooding over it. He chanced to look up with a pleased kind of
 smile in my company when he saw me, and then in a single moment every
 grain of the gunpowder that had been lying sprinkled thick about him
-ever since I first set eyes upon him as a man at the Bower, took fire!
-Too many a time had I seen him sitting lonely, when he was a poor child,
-to be pitied, heart and hand! Too many a time had I seen him in need of
-being brightened up with a comforting word! Too many and too many a time
+ever since I first set eyes upon him as a man at the Bower, took [[Fire|fire]]!
+Too many a [[Time|time]] had I seen him sitting lonely, when he was a poor [[Child|child]],
+to be pitied, heart and hand! Too many a [[Time|time]] had I seen him in need of
+being brightened up with a comforting word! Too many and too many a [[Time|time]]
 to be mistaken, when that glimpse of him come at last! No, no! I just
 makes out to cry, “I know you now! You’re John!” And he catches me as
 I drops.—So what,’ says Mrs Boffin, breaking off in the rush of her
-speech to smile most radiantly, ‘might you think by this time that your
+speech to smile most radiantly, ‘might you think by this [[Time|time]] that your
 husband’s name was, dear?’
 
 ‘Not,’ returned Bella, with quivering lips; ‘not Harmon? That’s not
@@ -105,11 +105,11 @@ possible?’ demanded Mrs Boffin, in a soothing tone.
 
 ‘He was killed,’ gasped Bella.
 
-‘Thought to be,’ said Mrs Boffin. ‘But if ever John Harmon drew the
-breath of life on earth, that is certainly John Harmon’s arm round your
-waist now, my pretty. If ever John Harmon had a wife on earth, that wife
-is certainly you. If ever John Harmon and his wife had a child on earth,
-that child is certainly this.’
+‘Thought to be,’ said Mrs Boffin. ‘But if ever [[John Harmon]] drew the
+breath of life on earth, that is certainly [[John Harmon]]’s arm round your
+waist now, my pretty. If ever [[John Harmon]] had a wife on earth, that wife
+is certainly you. If ever [[John Harmon]] and his wife had a [[Child|child]] on earth,
+that [[Child|child]] is certainly this.’
 
 By a master-stroke of secret arrangement, the inexhaustible baby here
 appeared at the door, suspended in mid-air by invisible agency. Mrs
@@ -119,12 +119,12 @@ of caresses. It was only this timely appearance that kept Bella from
 swooning. This, and her husband’s earnestness in explaining further to
 her how it had come to pass that he had been supposed to be slain, and
 had even been suspected of his own murder; also, how he had put a pious
-fraud upon her which had preyed upon his mind, as the time for its
+fraud upon her which had preyed upon his mind, as the [[Time|time]] for its
 disclosure approached, lest she might not make full allowance for
 the object with which it had originated, and in which it had fully
 developed.
 
-‘But bless ye, my beauty!’ cried Mrs Boffin, taking him up short at this
+‘But bless ye, my [[Beauty|beauty]]!’ cried Mrs Boffin, taking him up short at this
 point, with another hearty clap of her hands. ‘It wasn’t John only that
 was in it. We was all of us in it.’
 
@@ -137,5 +137,5 @@ between my two hands again,’ cried the comfortable creature, embracing
 her, ‘with that blessed little picter lying on your lap, and you shall
 be told all the story. Now, I’m a going to tell the story. Once, twice,
 three times, and the horses is off. Here they go! When I cries out that
-night, “I know you now, you’re John!”—which was my exact words; wasn’t
+[[Night|night]], “I know you now, you’re John!”—which was my exact words; wasn’t
 they, John?’

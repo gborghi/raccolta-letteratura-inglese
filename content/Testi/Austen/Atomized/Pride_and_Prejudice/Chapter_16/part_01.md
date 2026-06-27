@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 16 (part 1)"
+title: "[[Pride and Prejudice]] — Chapter 16 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -25,17 +25,17 @@ a single evening during his visit were most steadily resisted, the coach
 conveyed him and his five cousins at a suitable hour to Meryton; and the
 girls had the pleasure of hearing, as they entered the drawing-room,
 that Mr. Wickham had accepted their uncle’s invitation, and was then in
-the house.
+the [[house]].
 
 When this information was given, and they had all taken their seats, Mr.
 Collins was at leisure to look around him and admire, and he was so much
 struck with the size and furniture of the apartment, that he declared he
-might almost have supposed himself in the small summer breakfast parlour
+might almost have supposed himself in the small [[Summer|summer]] breakfast parlour
 at Rosings; a comparison that did not at first convey much
 gratification; but when Mrs. Philips understood from him what Rosings
 was, and who was its proprietor, when she had listened to the
 description of only one of Lady Catherine’s drawing-rooms, and found
-that the chimney-piece alone had cost eight hundred pounds, she felt all
+that the chimney-piece [[Alone|alone]] had cost eight hundred pounds, she felt all
 the force of the compliment, and would hardly have resented a comparison
 with the housekeeper’s room.
 
@@ -67,7 +67,7 @@ breathing port wine, who followed them into the room.
 Mr. Wickham was the happy man towards whom almost every female eye was
 turned, and Elizabeth was the happy woman by whom he finally seated
 himself; and the agreeable manner in which he immediately fell into
-conversation, though it was only on its being a wet night, and on the
+conversation, though it was only on its being a wet [[Night|night]], and on the
 probability of a rainy season, made her feel that the commonest,
 dullest, most threadbare topic might be rendered interesting by the
 skill of the speaker.
@@ -93,8 +93,8 @@ she soon grew too much interested in the game, too eager in making bets
 and exclaiming after prizes, to have attention for anyone in particular.
 Allowing for the common demands of the game, Mr. Wickham was therefore
 at leisure to talk to Elizabeth, and she was very willing to hear him,
-though what she chiefly wished to hear she could not hope to be told,
-the history of his acquaintance with Mr. Darcy. She dared not even
+though what she chiefly wished to hear she could not [[Hope|hope]] to be told,
+the [[history]] of his acquaintance with Mr. Darcy. She dared not even
 mention that gentleman. Her curiosity, however, was unexpectedly
 relieved. Mr. Wickham began the subject himself. He inquired how far
 Netherfield was from Meryton; and, after receiving her answer, asked in
@@ -111,22 +111,22 @@ connected with his family, in a particular manner, from my infancy.”
 
 Elizabeth could not but look surprised.
 
-“You may well be surprised, Miss Bennet, at such an assertion, after
+“You may [[Well|well]] be surprised, Miss Bennet, at such an assertion, after
 seeing, as you probably might, the very cold manner of our meeting
 yesterday. Are you much acquainted with Mr. Darcy?”
 
 “As much as I ever wish to be,” cried Elizabeth, warmly. “I have spent
-four days in the same house with him, and I think him very
+four days in the same [[house]] with him, and I think him very
 disagreeable.”
 
 “I have no right to give _my_ opinion,” said Wickham, “as to his being
 agreeable or otherwise. I am not qualified to form one. I have known him
-too long and too well to be a fair judge. It is impossible for _me_ to
+too long and too [[Well|well]] to be a fair judge. It is impossible for _me_ to
 be impartial. But I believe your opinion of him would in general
 astonish--and, perhaps, you would not express it quite so strongly
 anywhere else. Here you are in your own family.”
 
-“Upon my word I say no more _here_ than I might say in any house in the
+“Upon my word I say no more _here_ than I might say in any [[house]] in the
 neighbourhood, except Netherfield. He is not at all liked in
-Hertfordshire. Everybody is disgusted with his pride. You will not find
+Hertfordshire. Everybody is disgusted with his [[Pride|pride]]. You will not find
 him more favourably spoken of by anyone.”

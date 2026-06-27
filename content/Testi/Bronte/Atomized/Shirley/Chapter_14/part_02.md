@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 14 (part 2)"
+title: "[[Shirley]] — Chapter 14 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 Without him we should be good friends; but that six feet of puppyhood
 
-makes a perpetually-recurring eclipse of our friendship. Again and again
+makes a perpetually-recurring eclipse of our [[Friendship|friendship]]. Again and again
 
 he crosses and obscures the disc I want always to see clear; ever and
 
@@ -24,7 +24,7 @@ anon he renders me to you a mere bore and nuisance."
 
 
 
-"No, Shirley, no."
+"No, [[Shirley]], no."
 
 
 
@@ -32,7 +32,7 @@ anon he renders me to you a mere bore and nuisance."
 
 hard. You are naturally somewhat reserved, but I am a social personage,
 
-who cannot live alone. If we were but left unmolested, I have that
+who cannot live [[Alone|alone]]. If we were but left unmolested, I have that
 
 regard for you that I could bear you in my presence for ever, and not
 
@@ -42,7 +42,7 @@ say as much respecting me."
 
 
 
-"Shirley, I can say anything you wish. Shirley, I like you."
+"[[Shirley]], I can say anything you wish. [[Shirley]], I like you."
 
 
 
@@ -52,7 +52,7 @@ say as much respecting me."
 
 "I shall not. I am every day growing more accustomed to--fonder of you.
 
-You know I am too English to get up a vehement friendship all at once;
+You know I am too English to get up a vehement [[Friendship|friendship]] all at once;
 
 but you are so much better than common--you are so different to
 
@@ -78,37 +78,37 @@ certainly are not happy."
 
 "Not at all. I mean rather that unhappy people are often preoccupied,
 
-and not in the mood for discoursing with companions of my nature.
+and not in the mood for discoursing with companions of my [[Nature|nature]].
 
 Moreover, there is a sort of unhappiness which not only depresses, but
 
-corrodes; and that, I fear, is your portion. Will pity do you any good,
+corrodes; and that, I [[Fear|fear]], is your portion. Will pity do you any good,
 
-Lina? If it will, take some from Shirley; she offers largely, and
+Lina? If it will, take some from [[Shirley]]; she offers largely, and
 
 warrants the article genuine."
 
 
 
-"Shirley, I never had a sister--you never had a sister; but it flashes
+"[[Shirley]], I never had a sister--you never had a sister; but it flashes
 
 on me at this moment how sisters feel towards each other--affection
 
 twined with their life, which no shocks of feeling can uproot, which
 
-little quarrels only trample an instant, that it may spring more freshly
+little quarrels only trample an instant, that it may [[spring]] more freshly
 
 when the pressure is removed; affection that no passion can ultimately
 
-outrival, with which even love itself cannot do more than compete in
+outrival, with which even [[Love|love]] itself cannot do more than compete in
 
-force and truth. Love hurts us so, Shirley. It is so tormenting, so
+force and [[Truth|truth]]. [[Love]] hurts us so, [[Shirley]]. It is so tormenting, so
 
 racking, and it burns away our strength with its flame. In affection is
 
-no pain and no fire, only sustenance and balm. I am supported and
+no [[Pain|pain]] and no [[Fire|fire]], only sustenance and balm. I am supported and
 
-soothed when you--that is, _you only_--are near, Shirley. Do you
+soothed when you--that is, _you only_--are near, [[Shirley]]. Do you
 
 believe me now?"
 
@@ -120,7 +120,7 @@ friends, then, Lina, in spite of the black eclipse?"
 
 
 
-"We really are," returned the other, drawing Shirley towards her, and
+"We really are," returned the other, drawing [[Shirley]] towards her, and
 
 making her sit down, "chance what may."
 
@@ -136,17 +136,17 @@ her departure. She then delayed a few minutes in the passage to say,
 
 "Caroline, I wish to tell you that I have a great weight on my mind; my
 
-conscience is quite uneasy as if I had committed, or was going to
+[[Conscience|conscience]] is quite uneasy as if I had committed, or was going to
 
-commit, a crime. It is not my _private_ conscience, you must understand,
+commit, a crime. It is not my _private_ [[Conscience|conscience]], you must understand,
 
-but my landed-proprietor and lord-of-the-manor conscience. I have got
+but my landed-proprietor and lord-of-the-manor [[Conscience|conscience]]. I have got
 
 into the clutch of an eagle with iron talons. I have fallen under a
 
 stern influence, which I scarcely approve, but cannot resist. Something
 
-will be done ere long, I fear, which it by no means pleases me to think
+will be done ere long, I [[Fear|fear]], which it by no means pleases me to think
 
 of. To ease my mind, and to prevent harm as far as I can, I mean to
 
@@ -162,7 +162,7 @@ step up to Fieldhead. I have some notion of putting myself under her
 
 tuition. Won't she have a precious pupil? Drop a hint to her, Lina,
 
-that, though a well-meaning, I am rather a neglected character, and then
+that, though a [[Well|well]]-meaning, I am rather a neglected character, and then
 
 she will feel less scandalized at my ignorance about clothing societies
 
@@ -170,9 +170,9 @@ and such things."
 
 
 
-On the morrow Caroline found Shirley sitting gravely at her desk, with
+On the morrow Caroline found [[Shirley]] sitting gravely at her desk, with
 
-an account-book, a bundle of banknotes, and a well-filled purse before
+an account-book, a bundle of banknotes, and a [[Well|well]]-filled purse before
 
 her. She was looking mighty serious, but a little puzzled. She said she
 
@@ -182,7 +182,7 @@ the hall, trying to find out where she could retrench; that she had also
 
 just given audience to Mrs. Gill, the cook, and had sent that person
 
-away with a notion that her (Shirley's) brain was certainly crazed. "I
+away with a notion that her ([[Shirley]]'s) brain was certainly crazed. "I
 
 have lectured her on the duty of being careful," said she, "in a way
 
@@ -204,7 +204,7 @@ never get up illuminations at Fieldhead, but I could not ask the meaning
 
 of sundry quite unaccountable pounds of candles. We do not wash for the
 
-parish, yet I viewed in silence items of soap and bleaching-powder
+parish, yet I viewed in [[Silence|silence]] items of soap and bleaching-powder
 
 calculated to satisfy the solicitude of the most anxious inquirer after
 

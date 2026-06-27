@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 42"
+title: "[[Nicholas Nickleby]] — Chapter 42"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -20,13 +20,13 @@ Illustrative of the convivial Sentiment, that the best of Friends must
 sometimes part
 
 
-The pavement of Snow Hill had been baking and frying all day in the
+The pavement of [[Snow]] [[Hill]] had been baking and frying all day in the
 heat, and the twain Saracens’ heads guarding the entrance to the
 hostelry of whose name and sign they are the duplicate presentments,
 looked--or seemed, in the eyes of jaded and footsore passers-by, to
 look--more vicious than usual, after blistering and scorching in the
 sun, when, in one of the inn’s smallest sitting-rooms, through whose
-open window there rose, in a palpable steam, wholesome exhalations from
+open [[Window|window]] there [[Rose|rose]], in a palpable steam, wholesome exhalations from
 reeking coach-horses, the usual furniture of a tea-table was displayed
 in neat and inviting order, flanked by large joints of roast and boiled,
 a tongue, a pigeon pie, a cold fowl, a tankard of ale, and other little
@@ -38,7 +38,7 @@ Mr. John Browdie, with his hands in his pockets, hovered restlessly about
 these delicacies, stopping occasionally to whisk the flies out of the
 sugar-basin with his wife’s pocket-handkerchief, or to dip a teaspoon in
 the milk-pot and carry it to his mouth, or to cut off a little knob of
-crust, and a little corner of meat, and swallow them at two gulps like a
+crust, and a little corner of meat, and [[Swallow|swallow]] them at two gulps like a
 couple of pills. After every one of these flirtations with the eatables,
 he pulled out his watch, and declared with an earnestness quite pathetic
 that he couldn’t undertake to hold out two minutes longer.
@@ -46,9 +46,9 @@ that he couldn’t undertake to hold out two minutes longer.
 ‘Tilly!’ said John to his lady, who was reclining half awake and half
 asleep upon a sofa.
 
-‘Well, John!’
+‘[[Well]], John!’
 
-‘Well, John!’ retorted her husband, impatiently. ‘Dost thou feel
+‘[[Well]], John!’ retorted her husband, impatiently. ‘Dost thou feel
 hoongry, lass?’
 
 ‘Not very,’ said Mrs. Browdie.
@@ -64,10 +64,10 @@ or a parcel.
 
 ‘A gen’l’man, sir.’
 
-‘Stars and garthers, chap!’ said John, ‘wa’at dost thou coom and say
+‘[[Stars]] and garthers, chap!’ said John, ‘wa’at dost thou coom and say
 thot for? In wi’ ‘un.’
 
-‘Are you at home, sir?’
+‘Are you at [[Home|home]], sir?’
 
 ‘At whoam!’ cried John, ‘I wish I wur; I’d ha tea’d two hour ago. Why, I
 told t’oother chap to look sharp ootside door, and tell ‘un d’rectly he
@@ -85,9 +85,9 @@ directed towards his wife. ‘There she be--we shan’t quarrel about her
 noo--eh? Ecod, when I think o’ thot--but thou want’st soom’at to eat.
 Fall to, mun, fall to, and for wa’at we’re aboot to receive--’
 
-No doubt the grace was properly finished, but nothing more was heard,
+No [[Doubt|doubt]] the grace was properly finished, but nothing more was heard,
 for John had already begun to play such a knife and fork, that his
-speech was, for the time, gone.
+speech was, for the [[Time|time]], gone.
 
 ‘I shall take the usual licence, Mr. Browdie,’ said Nicholas, as he
 placed a chair for the bride.
@@ -105,7 +105,7 @@ quite at whoam, will ‘ee?’
 
 ‘And wa’at may thot be?’ asked John.
 
-‘That you make me a godfather the very first time you have occasion for
+‘That you make me a godfather the very first [[Time|time]] you have occasion for
 one.’
 
 ‘Eh! d’ye hear thot?’ cried John, laying down his knife and fork. ‘A
@@ -116,22 +116,22 @@ ha! ha!’
 Never was man so tickled with a respectable old joke, as John Browdie
 was with this. He chuckled, roared, half suffocated himself by laughing
 large pieces of beef into his windpipe, roared again, persisted in
-eating at the same time, got red in the face and black in the forehead,
+eating at the same [[Time|time]], got red in the face and black in the forehead,
 coughed, cried, got better, went off again laughing inwardly, got worse,
 choked, had his back thumped, stamped about, frightened his wife, and
-at last recovered in a state of the last exhaustion and with the water
+at last recovered in a state of the last exhaustion and with the [[Water|water]]
 streaming from his eyes, but still faintly ejaculating, ‘A godfeyther--a
 godfeyther, Tilly!’ in a tone bespeaking an exquisite relish of the
-sally, which no suffering could diminish.
+sally, which no [[Suffering|suffering]] could diminish.
 
-‘You remember the night of our first tea-drinking?’ said Nicholas.
+‘You remember the [[Night|night]] of our first tea-drinking?’ said Nicholas.
 
 ‘Shall I e’er forget it, mun?’ replied John Browdie.
 
-‘He was a desperate fellow that night though, was he not, Mrs. Browdie?’
-said Nicholas. ‘Quite a monster!’
+‘He was a desperate fellow that [[Night|night]] though, was he not, Mrs. Browdie?’
+said Nicholas. ‘Quite a [[Monster|monster]]!’
 
-‘If you had only heard him as we were going home, Mr. Nickleby, you’d
+‘If you had only heard him as we were going [[Home|home]], Mr. Nickleby, you’d
 have said so indeed,’ returned the bride. ‘I never was so frightened in
 all my life.’
 
@@ -166,12 +166,12 @@ whipper-snapper as yon?” she says. Ha! ha! ha! She said whipper-snapper!
 Nicholas laughed very heartily at this story, both on account of its
 telling against himself, and his being desirous to spare the blushes of
 Mrs. Browdie, whose protestations were drowned in peals of laughter from
-her husband. His good-nature soon put her at her ease; and although she
+her husband. His good-[[Nature|nature]] soon put her at her ease; and although she
 still denied the charge, she laughed so heartily at it, that Nicholas
 had the satisfaction of feeling assured that in all essential respects
 it was strictly true.
 
-‘This is the second time,’ said Nicholas, ‘that we have ever taken a
+‘This is the second [[Time|time]],’ said Nicholas, ‘that we have ever taken a
 meal together, and only third I have ever seen you; and yet it really
 seems to me as if I were among old friends.’
 
@@ -183,11 +183,11 @@ seems to me as if I were among old friends.’
 Nicholas; ‘for if it had not been for your kindness of heart, my good
 friend, when I had no right or reason to expect it, I know not what
 might have become of me or what plight I should have been in by this
-time.’
+[[Time|time]].’
 
 ‘Talk aboot soom’at else,’ replied John, gruffly, ‘and dinnot bother.’
 
-‘It must be a new song to the same tune then,’ said Nicholas, smiling.
+‘It must be a new [[Song|song]] to the same tune then,’ said Nicholas, smiling.
 ‘I told you in my letter that I deeply felt and admired your sympathy
 with that poor lad, whom you released at the risk of involving yourself
 in trouble and difficulty; but I can never tell you how grateful he and
@@ -197,7 +197,7 @@ I, and others whom you don’t know, are to you for taking pity on him.’
 tell YOU hoo gratful soom folks that we do know would be loikewise, if
 THEY know’d I had takken pity on him.’
 
-‘Ah!’ exclaimed Mrs. Browdie, ‘what a state I was in that night!’
+‘Ah!’ exclaimed Mrs. Browdie, ‘what a state I was in that [[Night|night]]!’
 
 ‘Were they at all disposed to give you credit for assisting in the
 escape?’ inquired Nicholas of John Browdie.
@@ -213,16 +213,16 @@ know, schoolmeasther might coom.’
 
 ‘Presently,’ resumed John, ‘he DID coom. I heerd door shut doonstairs,
 and him a warking, oop in the daark. “Slow and steddy,” I says to
-myself, “tak’ your time, sir--no hurry.” He cooms to the door, turns the
+myself, “tak’ your [[Time|time]], sir--no hurry.” He cooms to the door, turns the
 key--turns the key when there warn’t nothing to hoold the lock--and ca’s
 oot “Hallo, there!”--“Yes,” thinks I, “you may do thot agean, and
 not wakken anybody, sir.” “Hallo, there,” he says, and then he stops.
 “Thou’d betther not aggravate me,” says schoolmeasther, efther a little
-time. “I’ll brak’ every boan in your boddy, Smike,” he says, efther
-another little time. Then all of a soodden, he sings oot for a loight,
+[[Time|time]]. “I’ll brak’ every boan in your boddy, [[Smike]],” he says, efther
+another little [[Time|time]]. Then all of a soodden, he sings oot for a loight,
 and when it cooms--ecod, such a hoorly-boorly! “Wa’at’s the matter?”
  says I. “He’s gane,” says he,--stark mad wi’ vengeance. “Have you heerd
-nought?” “Ees,” says I, “I heerd street-door shut, no time at a’ ago.
+nought?” “Ees,” says I, “I heerd street-door shut, no [[Time|time]] at a’ ago.
 I heerd a person run doon there” (pointing t’other wa’--eh?) “Help!” he
 cries. “I’ll help you,” says I; and off we set--the wrong wa’! Ho! ho!
 ho!’
@@ -259,13 +259,13 @@ neighbourly, and keep up old acquaintance loike; and what I say is,
 dean’t quarrel if ‘ee can help it. Dinnot think so, Mr. Nickleby?’
 
 ‘Certainly,’ returned Nicholas; ‘and you acted upon that principle when
-I meet you on horseback on the road, after our memorable evening.’
+I meet you on horseback on the [[Road|road]], after our memorable evening.’
 
 ‘Sure-ly,’ said John. ‘Wa’at I say, I stick by.’
 
 ‘And that’s a fine thing to do, and manly too,’ said Nicholas, ‘though
 it’s not exactly what we understand by “coming Yorkshire over us” in
-London. Miss Squeers is stopping with you, you said in your note.’
+[[London]]. Miss Squeers is stopping with you, you said in your note.’
 
 ‘Yes,’ replied John, ‘Tilly’s bridesmaid; and a queer bridesmaid she be,
 too. She wean’t be a bride in a hurry, I reckon.’
@@ -285,7 +285,7 @@ passed.’
 interrupting.
 
 ‘Especially,’ observed Mrs. Browdie, looking very sly, ‘after what we
-know about past and gone love matters.’
+know about past and gone [[Love|love]] matters.’
 
 ‘We know, indeed!’ said Nicholas, shaking his head. ‘You behaved rather
 wickedly there, I suspect.’
@@ -294,7 +294,7 @@ wickedly there, I suspect.’
 through one of his wife’s pretty ringlets, and looking very proud of
 her. ‘She wur always as skittish and full o’ tricks as a--’
 
-‘Well, as a what?’ said his wife.
+‘[[Well]], as a what?’ said his wife.
 
 ‘As a woman,’ returned John. ‘Ding! But I dinnot know ought else that
 cooms near it.’
@@ -308,7 +308,7 @@ than otherwise.
 ‘Oh yes,’ rejoined Mrs. Browdie. ‘John ha’ done. John fixed tonight,
 because she had settled that she would go and drink tea with her father.
 And to make quite sure of there being nothing amiss, and of your being
-quite alone with us, he settled to go out there and fetch her home.’
+quite [[Alone|alone]] with us, he settled to go out there and fetch her [[Home|home]].’
 
 ‘That was a very good arrangement,’ said Nicholas, ‘though I am sorry to
 be the occasion of so much trouble.’
@@ -341,8 +341,8 @@ the pair of Wackfords.
 
 ‘This is the hend, is it?’ continued Miss Squeers, who, being excited,
 aspirated her h’s strongly; ‘this is the hend, is it, of all my
-forbearance and friendship for that double-faced thing--that viper,
-that--that--mermaid?’ (Miss Squeers hesitated a long time for this
+forbearance and [[Friendship|friendship]] for that [[Double|double]]-faced thing--that viper,
+that--that--[[Mermaid|mermaid]]?’ (Miss Squeers hesitated a long [[Time|time]] for this
 last epithet, and brought it out triumphantly at last, as if it quite
 clinched the business.) ‘This is the hend, is it, of all my bearing with
 her deceitfulness, her lowness, her falseness, her laying herself out to
@@ -352,7 +352,7 @@ my--for my--’
 ‘Gender,’ suggested Mr. Squeers, regarding the spectators with a
 malevolent eye--literally A malevolent eye.
 
-‘Yes,’ said Miss Squeers; ‘but I thank my stars that my ma is of the
+‘Yes,’ said Miss Squeers; ‘but I thank my [[Stars|stars]] that my ma is of the
 same--’
 
 ‘Hear, hear!’ remarked Mr. Squeers; ‘and I wish she was here to have a
@@ -399,12 +399,12 @@ inquired Mrs. Browdie, with great suavity of manner.
 
 ‘Oh, ma’am, how witty you are,’ retorted Miss Squeers with a low curtsy,
 ‘almost as witty, ma’am, as you are clever. How very clever it was in
-you, ma’am, to choose a time when I had gone to tea with my pa, and
+you, ma’am, to choose a [[Time|time]] when I had gone to tea with my pa, and
 was sure not to come back without being fetched! What a pity you never
 thought that other people might be as clever as yourself and spoil your
 plans!’
 
-‘You won’t vex me, child, with such airs as these,’ said the late Miss
+‘You won’t vex me, [[Child|child]], with such airs as these,’ said the late Miss
 Price, assuming the matron.
 
 ‘Don’t MISSIS me, ma’am, if you please,’ returned Miss Squeers, sharply.
@@ -419,10 +419,10 @@ to presume to meddle with my Christian name. Even my pity shall never
 make me forget what’s due to myself, Mr. Browdie. ‘Tilda,’ said Miss
 Squeers, with such a sudden accession of violence that John started in
 his boots, ‘I throw you off for ever, miss. I abandon you. I renounce
-you. I wouldn’t,’ cried Miss Squeers in a solemn voice, ‘have a child
-named ‘Tilda, not to save it from its grave.’
+you. I wouldn’t,’ cried Miss Squeers in a solemn voice, ‘have a [[Child|child]]
+named ‘Tilda, not to save it from its [[Grave|grave]].’
 
-‘As for the matther o’ that,’ observed John, ‘it’ll be time eneaf to
+‘As for the matther o’ that,’ observed John, ‘it’ll be [[Time|time]] eneaf to
 think aboot neaming of it when it cooms.’
 
 ‘John!’ interposed his wife, ‘don’t tease her.’
@@ -438,13 +438,13 @@ said.’
 
 ‘Oh, I dare say not, ma’am!’ cried Miss Squeers, with another curtsy.
 ‘Best thanks to you for your goodness, and begging and praying you not
-to be hard upon me another time!’
+to be hard upon me another [[Time|time]]!’
 
 ‘I don’t know,’ resumed Mrs. Browdie, ‘that I have said anything very bad
 of you, even now. At all events, what I did say was quite true; but if I
 have, I am very sorry for it, and I beg your pardon. You have said much
 worse of me, scores of times, Fanny; but I have never borne any malice
-to you, and I hope you’ll not bear any to me.’
+to you, and I [[Hope|hope]] you’ll not bear any to me.’
 
 Miss Squeers made no more direct reply than surveying her former friend
 from top to toe, and elevating her nose in the air with ineffable
@@ -461,22 +461,22 @@ attacked the food with such slight skirmishing as drawing his fingers
 round and round the inside of the plates, and afterwards sucking them
 with infinite relish; picking the bread, and dragging the pieces over
 the surface of the butter; pocketing lumps of sugar, pretending all
-the time to be absorbed in thought; and so forth. Finding that no
+the [[Time|time]] to be absorbed in thought; and so forth. Finding that no
 interference was attempted with these small liberties, he gradually
 mounted to greater, and, after helping himself to a moderately good cold
-collation, was, by this time, deep in the pie.
+collation, was, by this [[Time|time]], deep in the pie.
 
 Nothing of this had been unobserved by Mr. Squeers, who, so long as the
 attention of the company was fixed upon other objects, hugged himself to
 think that his son and heir should be fattening at the enemy’s expense.
 But there being now an appearance of a temporary calm, in which the
 proceedings of little Wackford could scarcely fail to be observed,
-he feigned to be aware of the circumstance for the first time, and
+he feigned to be aware of the circumstance for the first [[Time|time]], and
 inflicted upon the face of that young gentleman a slap that made the
 very tea-cups ring.
 
 ‘Eating!’ cried Mr. Squeers, ‘of what his father’s enemies has left! It’s
-fit to go and poison you, you unnat’ral boy.’
+fit to go and [[Poison|poison]] you, you unnat’ral boy.’
 
 ‘It wean’t hurt him,’ said John, apparently very much relieved by the
 prospect of having a man in the quarrel; ‘let’ un eat. I wish the whole
@@ -487,8 +487,8 @@ Squeers scowled at him with the worst and most malicious expression of
 which his face was capable--it was a face of remarkable capability, too,
 in that way--and shook his fist stealthily.
 
-‘Coom, coom, schoolmeasther,’ said John, ‘dinnot make a fool o’ thyself;
-for if I was to sheake mine--only once--thou’d fa’ doon wi’ the wind o’
+‘Coom, coom, schoolmeasther,’ said John, ‘dinnot make a [[Fool|fool]] o’ thyself;
+for if I was to sheake mine--only once--thou’d fa’ doon wi’ the [[Wind|wind]] o’
 it.’
 
 ‘It was you, was it,’ returned Squeers, ‘that helped off my runaway boy?
@@ -497,13 +497,13 @@ It was you, was it?’
 ‘Me!’ returned John, in a loud tone. ‘Yes, it wa’ me, coom; wa’at o’
 that? It wa’ me. Noo then!’
 
-‘You hear him say he did it, my child!’ said Squeers, appealing to his
+‘You hear him say he did it, my [[Child|child]]!’ said Squeers, appealing to his
 daughter. ‘You hear him say he did it!’
 
 ‘Did it!’ cried John. ‘I’ll tell ‘ee more; hear this, too. If thou’d
 got another roonaway boy, I’d do it agean. If thou’d got twonty roonaway
 boys, I’d do it twonty times ower, and twonty more to thot; and I
-tell thee more,’ said John, ‘noo my blood is oop, that thou’rt an old
+tell thee more,’ said John, ‘noo my [[Blood|blood]] is oop, that thou’rt an old
 ra’ascal; and that it’s weel for thou, thou be’est an old ‘un, or I’d
 ha’ poonded thee to flour when thou told an honest mun hoo thou’d licked
 that poor chap in t’ coorch.’
@@ -514,7 +514,7 @@ that poor chap in t’ coorch.’
 legs under seame table wi’ such as thou.’
 
 ‘Scandal!’ said Squeers, exultingly. ‘Two witnesses to it; Wackford
-knows the nature of an oath, he does; we shall have you there, sir.
+knows the [[Nature|nature]] of an oath, he does; we shall have you there, sir.
 Rascal, eh?’ Mr. Squeers took out his pocketbook and made a note of it.
 ‘Very good. I should say that was worth full twenty pound at the next
 assizes, without the honesty, sir.’
@@ -554,13 +554,13 @@ passage.
 John Browdie remained standing behind the table, looking from his wife
 to Nicholas, and back again, with his mouth wide open, until his hand
 accidentally fell upon the tankard of ale, when he took it up, and
-having obscured his features therewith for some time, drew a long
+having obscured his features therewith for some [[Time|time]], drew a long
 breath, handed it over to Nicholas, and rang the bell.
 
 ‘Here, waither,’ said John, briskly. ‘Look alive here. Tak’ these things
 awa’, and let’s have soomat broiled for sooper--vary comfortable and
-plenty o’ it--at ten o’clock. Bring soom brandy and soom wather, and a
-pair o’ slippers--the largest pair in the house--and be quick aboot it.
+plenty o’ it--at ten o’[[Clock|clock]]. Bring soom brandy and soom wather, and a
+pair o’ slippers--the largest pair in the [[house]]--and be quick aboot it.
 Dash ma wig!’ said John, rubbing his hands, ‘there’s no ganging oot to
 neeght, noo, to fetch anybody whoam, and ecod, we’ll begin to spend the
 evening in airnest.’

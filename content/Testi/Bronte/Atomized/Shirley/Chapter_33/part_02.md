@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 33 (part 2)"
+title: "[[Shirley]] — Chapter 33 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -18,7 +18,7 @@ a bunch of keys; with these he opened the sideboard cupboard, produced
 
 thence a black bottle and a small glass, placed them on the table,
 
-nimbly mounted the stairs, made for Mr. Moore's door, tapped; the nurse
+nimbly mounted the stairs, made for Mr. Moore's door, tapped; the [[Nurse|nurse]]
 
 opened.
 
@@ -44,9 +44,9 @@ away for the wood.
 
 It was yet but half-past three. It had been a fine morning, but the sky
 
-looked dark now. It was beginning to snow; the wind blew cold; the wood
+looked dark now. It was beginning to [[Snow|snow]]; the [[Wind|wind]] blew cold; the wood
 
-looked dismal, the old tree grim. Yet Martin approved the shadow on his
+looked dismal, the old tree grim. Yet Martin approved the [[Shadow|shadow]] on his
 
 path. He found a charm in the spectral aspect of the doddered oak.
 
@@ -54,13 +54,13 @@ path. He found a charm in the spectral aspect of the doddered oak.
 
 He had to wait. To and fro he walked, while the flakes fell faster; and
 
-the wind, which at first had but moaned, pitifully howled.
+the [[Wind|wind]], which at first had but moaned, pitifully howled.
 
 
 
 "She is long in coming," he muttered, as he glanced along the narrow
 
-track. "I wonder," he subjoined, "what I wish to see her so much for?
+track. "I [[Wonder|wonder]]," he subjoined, "what I wish to see her so much for?
 
 She is not coming for me. But I have power over her, and I want her to
 
@@ -78,25 +78,25 @@ come, I shall hate and scorn her."
 
 
 
-It struck four. He heard the church clock far away. A step so quick, so
+It struck four. He heard the church [[Clock|clock]] far away. A step so quick, so
 
-light, that, but for the rustling of leaves, it would scarcely have
+light, that, but for the rustling of [[Leaves|leaves]], it would scarcely have
 
-sounded on the wood-walk, checked his impatience. The wind blew fiercely
+sounded on the wood-walk, checked his impatience. The [[Wind|wind]] blew fiercely
 
-now, and the thickening white storm waxed bewildering; but on she came,
+now, and the thickening white [[Storm|storm]] waxed bewildering; but on she came,
 
 and not dismayed.
 
 
 
-"Well, Martin," she said eagerly, "how is he?"
+"[[Well]], Martin," she said eagerly, "how is he?"
 
 
 
 "It is queer how she thinks of _him_," reflected Martin. "The blinding
 
-snow and bitter cold are nothing to her, I believe; yet she is but a
+[[Snow|snow]] and bitter cold are nothing to her, I believe; yet she is but a
 
 'chitty-faced creature,' as my mother would say. I could find in my
 
@@ -130,7 +130,7 @@ see him?"
 
 him, and I am sick of waiting. Martin, _do_ see him, and give him
 
-Caroline Helstone's regards, and say she wished to know how he was, and
+[[Caroline Helstone]]'s regards, and say she wished to know how he was, and
 
 if anything could be done for his comfort."
 
@@ -140,7 +140,7 @@ if anything could be done for his comfort."
 
 
 
-"You are changed. You were so friendly last night."
+"You are changed. You were so friendly last [[Night|night]]."
 
 
 
@@ -154,13 +154,13 @@ if anything could be done for his comfort."
 
 "No such thing. I am much too delicate to make and keep such
 
-appointments in the winter season. If you knew what a pain I had in my
+appointments in the [[Winter|winter]] season. If you knew what a [[Pain|pain]] I had in my
 
 chest this morning, and how I went without breakfast, and was knocked
 
 down besides, you'd feel the impropriety of bringing me here in the
 
-snow. Come, I say."
+[[Snow|snow]]. Come, I say."
 
 
 
@@ -184,13 +184,13 @@ snow. Come, I say."
 
 
 
-"With me. I was a fool not to bring a cloak. I would have made you
+"With me. I was a [[Fool|fool]] not to bring a cloak. I would have made you
 
 cosy."
 
 
 
-"You are going home; my nearest road lies in the opposite direction."
+"You are going [[Home|home]]; my nearest [[Road|road]] lies in the opposite direction."
 
 
 
@@ -276,7 +276,7 @@ you--except to announce your arrival."
 
 "Martin, you are a strange boy, and this is a strange step; but all I
 
-feel _is_ and _has_ been, for a long time, strange. I will see him."
+feel _is_ and _has_ been, for a long [[Time|time]], strange. I will see him."
 
 
 
@@ -288,7 +288,7 @@ feel _is_ and _has_ been, for a long time, strange. I will see him."
 
 
 
-"Here we are, then. Do not be afraid of passing the parlour window; no
+"Here we are, then. Do not be afraid of passing the parlour [[Window|window]]; no
 
 one will see you. My father and Matthew are at the mill, Mark is at
 
@@ -298,7 +298,7 @@ cottage, my mother in her bed, and Mrs. Horsfall in paradise. Observe--I
 
 need not ring. I open the door; the hall is empty, the staircase quiet;
 
-so is the gallery. The whole house and all its inhabitants are under a
+so is the gallery. The whole [[house]] and all its inhabitants are under a
 
 spell, which I will not break till you are gone."
 
@@ -310,9 +310,9 @@ spell, which I will not break till you are gone."
 
 "You never said a better word. Let me take your shawl. I will shake off
 
-the snow and dry it for you. You are cold and wet. Never mind; there is
+the [[Snow|snow]] and dry it for you. You are cold and wet. Never mind; there is
 
-a fire upstairs. Are you ready?"
+a [[Fire|fire]] upstairs. Are you ready?"
 
 
 
@@ -342,7 +342,7 @@ The boy entered briskly.
 
 "Mr. Moore, a lady called to inquire after you. None of the women were
 
-about. It is washing-day, and the maids are over the crown of the head
+about. It is washing-day, and the maids are over the [[Crown|crown]] of the head
 
 in soap-suds in the back kitchen, so I asked her to step up."
 

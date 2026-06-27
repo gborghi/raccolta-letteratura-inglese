@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 32 (part 2)"
+title: "[[Great Expectations]] — Chapter 32 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -62,12 +62,12 @@ at this dead plant, and then cast his eyes about him in walking out of
 the yard, as if he were considering what other pot would go best in its
 place.
 
-As we came out of the prison through the lodge, I found that the great
+As we came out of the [[Prison|prison]] through the lodge, I found that the great
 importance of my guardian was appreciated by the turnkeys, no less than
-by those whom they held in charge. “Well, Mr. Wemmick,” said the
+by those whom they held in charge. “[[Well]], Mr. Wemmick,” said the
 turnkey, who kept us between the two studded and spiked lodge gates,
 and who carefully locked one before he unlocked the other, “what’s Mr.
-Jaggers going to do with that water-side murder? Is he going to make it
+Jaggers going to do with that [[Water|water]]-side murder? Is he going to make it
 manslaughter, or what’s he going to make of it?”
 
 “Why don’t you ask him?” returned Wemmick.
@@ -80,10 +80,10 @@ they ask of me, the subordinate; but you’ll never catch ’em asking any
 questions of my principal.”
 
 “Is this young gentleman one of the ’prentices or articled ones of your
-office?” asked the turnkey, with a grin at Mr. Wemmick’s humour.
+office?” asked the turnkey, with a grin at Mr. Wemmick’s [[Humour|humour]].
 
 “There he goes again, you see!” cried Wemmick, “I told you so! Asks
-another question of the subordinate before his first is dry! Well,
+another question of the subordinate before his first is dry! [[Well]],
 supposing Mr. Pip is one of them?”
 
 “Why then,” said the turnkey, grinning again, “he knows what Mr.
@@ -92,7 +92,7 @@ Jaggers is.”
 “Yah!” cried Wemmick, suddenly hitting out at the turnkey in a
 facetious way, “you’re dumb as one of your own keys when you have to do
 with my principal, you know you are. Let us out, you old fox, or I’ll
-get him to bring an action against you for false imprisonment.”
+get him to bring an action against you for false [[Imprisonment|imprisonment]].”
 
 The turnkey laughed, and gave us good day, and stood laughing at us
 over the spikes of the wicket when we descended the steps into the
@@ -105,33 +105,33 @@ high. His constant height is of a piece with his immense abilities.
 That Colonel durst no more take leave of _him_, than that turnkey durst
 ask him his intentions respecting a case. Then, between his height and
 them, he slips in his subordinate,—don’t you see?—and so he has ’em,
-soul and body.”
+[[Soul|soul]] and [[Body|body]].”
 
-I was very much impressed, and not for the first time, by my guardian’s
-subtlety. To confess the truth, I very heartily wished, and not for the
-first time, that I had had some other guardian of minor abilities.
+I was very much impressed, and not for the first [[Time|time]], by my guardian’s
+subtlety. To confess the [[Truth|truth]], I very heartily wished, and not for the
+first [[Time|time]], that I had had some other guardian of minor abilities.
 
 Mr. Wemmick and I parted at the office in Little Britain, where
 suppliants for Mr. Jaggers’s notice were lingering about as usual, and
 I returned to my watch in the street of the coach-office, with some
-three hours on hand. I consumed the whole time in thinking how strange
-it was that I should be encompassed by all this taint of prison and
-crime; that, in my childhood out on our lonely marshes on a winter
+three hours on hand. I consumed the whole [[Time|time]] in thinking how strange
+it was that I should be encompassed by all this taint of [[Prison|prison]] and
+crime; that, in my [[Childhood|childhood]] out on our lonely marshes on a [[Winter|winter]]
 evening, I should have first encountered it; that, it should have
 reappeared on two occasions, starting out like a stain that was faded
 but not gone; that, it should in this new way pervade my fortune and
 advancement. While my mind was thus engaged, I thought of the beautiful
-young Estella, proud and refined, coming towards me, and I thought with
+young [[Estella]], proud and refined, coming towards me, and I thought with
 absolute abhorrence of the contrast between the jail and her. I wished
 that Wemmick had not met me, or that I had not yielded to him and gone
 with him, so that, of all days in the year on this day, I might not
-have had Newgate in my breath and on my clothes. I beat the prison dust
+have had Newgate in my breath and on my clothes. I beat the [[Prison|prison]] [[Dust|dust]]
 off my feet as I sauntered to and fro, and I shook it out of my dress,
 and I exhaled its air from my lungs. So contaminated did I feel,
 remembering who was coming, that the coach came quickly after all, and
 I was not yet free from the soiling consciousness of Mr. Wemmick’s
-conservatory, when I saw her face at the coach window and her hand
+conservatory, when I saw her face at the coach [[Window|window]] and her hand
 waving to me.
 
-What _was_ the nameless shadow which again in that one instant had
+What _was_ the nameless [[Shadow|shadow]] which again in that one instant had
 passed?

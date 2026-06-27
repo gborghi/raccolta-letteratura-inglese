@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE MENACE OF THE WORD"
+title: "[[FourFaultlessFelons]] — THE MENACE OF THE WORD"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"

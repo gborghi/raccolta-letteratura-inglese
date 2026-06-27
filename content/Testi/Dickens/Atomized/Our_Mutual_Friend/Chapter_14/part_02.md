@@ -29,25 +29,25 @@ was that he must surely die.
 
 Mr and Mrs Boffin, sitting side by side, with Fashion withdrawn to an
 immeasurable distance, fell to discussing how they could best find their
-orphan. Mrs Boffin suggested advertisement in the newspapers, requesting
+[[Orphan|orphan]]. Mrs Boffin suggested advertisement in the newspapers, requesting
 orphans answering annexed description to apply at the Bower on a certain
 day; but Mr Boffin wisely apprehending obstruction of the neighbouring
-thoroughfares by orphan swarms, this course was negatived. Mrs Boffin
-next suggested application to their clergyman for a likely orphan. Mr
+thoroughfares by [[Orphan|orphan]] swarms, this course was negatived. Mrs Boffin
+next suggested application to their clergyman for a likely [[Orphan|orphan]]. Mr
 Boffin thinking better of this scheme, they resolved to call upon the
 reverend gentleman at once, and to take the same opportunity of making
-acquaintance with Miss Bella Wilfer. In order that these visits might be
+acquaintance with Miss [[Bella Wilfer]]. In order that these visits might be
 visits of state, Mrs Boffin’s equipage was ordered out.
 
-This consisted of a long hammer-headed old horse, formerly used in the
+This consisted of a long hammer-headed old [[Horse|horse]], formerly used in the
 business, attached to a four-wheeled chaise of the same period, which
 had long been exclusively used by the Harmony Jail poultry as the
 favourite laying-place of several discreet hens. An unwonted application
-of corn to the horse, and of paint and varnish to the carriage, when
+of corn to the [[Horse|horse]], and of paint and varnish to the carriage, when
 both fell in as a part of the Boffin legacy, had made what Mr Boffin
 considered a neat turn-out of the whole; and a driver being added, in
 the person of a long hammer-headed young man who was a very good match
-for the horse, left nothing to be desired. He, too, had been formerly
+for the [[Horse|horse]], left nothing to be desired. He, too, had been formerly
 used in the business, but was now entombed by an honest jobbing tailor
 of the district in a perfect Sepulchre of coat and gaiters, sealed with
 ponderous buttons.
@@ -57,10 +57,10 @@ compartment of the vehicle: which was sufficiently commodious, but had
 an undignified and alarming tendency, in getting over a rough crossing,
 to hiccup itself away from the front compartment. On their being
 descried emerging from the gates of the Bower, the neighbourhood turned
-out at door and window to salute the Boffins. Among those who were ever
+out at door and [[Window|window]] to salute the Boffins. Among those who were ever
 and again left behind, staring after the equipage, were many youthful
 spirits, who hailed it in stentorian tones with such congratulations as
-‘Nod-dy Bof-fin!’ ‘Bof-fin’s mon-ey!’ ‘Down with the dust, Bof-fin!’ and
+‘Nod-dy Bof-fin!’ ‘Bof-fin’s mon-ey!’ ‘Down with the [[Dust|dust]], Bof-fin!’ and
 other similar compliments. These, the hammer-headed young man took in
 such ill part that he often impaired the majesty of the progress by
 pulling up short, and making as though he would alight to exterminate
@@ -75,7 +75,7 @@ had incoherence to bestow upon him, and readily received the Boffins.
 He was quite a young man, expensively educated and wretchedly paid, with
 quite a young wife and half a dozen quite young children. He was under
 the necessity of teaching and translating from the classics, to eke out
-his scanty means, yet was generally expected to have more time to spare
+his scanty means, yet was generally expected to have more [[Time|time]] to spare
 than the idlest person in the parish, and more money than the richest.
 He accepted the needless inequalities and inconsistencies of his life,
 with a kind of conventional submission that was almost slavish; and any
@@ -87,9 +87,9 @@ showed a quick enough observation of Mrs Boffin’s dress, Mr Milvey, in
 his little book-room—charged with sounds and cries as though the six
 children above were coming down through the ceiling, and the roasting
 leg of mutton below were coming up through the floor—listened to Mrs
-Boffin’s statement of her want of an orphan.
+Boffin’s statement of her want of an [[Orphan|orphan]].
 
-‘I think,’ said Mr Milvey, ‘that you have never had a child of your own,
+‘I think,’ said Mr Milvey, ‘that you have never had a [[Child|child]] of your own,
 Mr and Mrs Boffin?’
 
 Never.
@@ -111,7 +111,7 @@ So, Mr Milvey called, ‘Margaretta, my dear!’ and Mrs Milvey came down.
 A pretty, bright little woman, something worn by anxiety, who had
 repressed many pretty tastes and bright fancies, and substituted in
 their stead, schools, soup, flannel, coals, and all the week-day cares
-and Sunday coughs of a large population, young and old. As gallantly had
+and [[Sunday]] coughs of a large population, young and old. As gallantly had
 Mr Milvey repressed much in himself that naturally belonged to his old
 studies and old fellow-students, and taken up among the poor and their
 children with the hard crumbs of life.
@@ -120,4 +120,4 @@ children with the hard crumbs of life.
 
 Mrs Milvey, with the most unaffected grace in the world, congratulated
 them, and was glad to see them. Yet her engaging face, being an open as
-well as a perceptive one, was not without her husband’s latent smile.
+[[Well|well]] as a perceptive one, was not without her husband’s latent smile.

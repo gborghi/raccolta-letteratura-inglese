@@ -26,7 +26,7 @@ Mr Belloc, belonging to older traditions, wrote a Poem in Praise
 of Wine, of which the first two lines are these--
 
     To praise, exalt, establish, and defend,
-    To welcome home mankind's mysterious friend.
+    To welcome [[Home|home]] mankind's mysterious friend.
 
 That is the note which, for some reason, has disappeared
 from most modern writing.  There is any amount of sensibility
@@ -45,31 +45,31 @@ so is his moral attitude towards the scum of the population.
 He will tell us, to vary the figure, that the glimpse of a girl's
 mocking face in a crowd left him disturbed and doubtful;
 but he will not say, as did the great poets of old, that it
-left him either despairing or resolved.  Dante had very little
-more than a glimpse of Beatrice on this earth; but he instantly
+left him either despairing or resolved.  [[Dante]] had very little
+more than a glimpse of [[Beatrice]] on this earth; but he instantly
 perpetuated it in a perspective as solid as architecture,
 stretching away into the corridors and halls of heaven.
 Some great poets in the past, when the girl's mocking face
 was a little too mocking, hardened and fixed and fossilized
-the memory in exactly the opposite fashion.  Catullus came to a
+the [[Memory|memory]] in exactly the opposite fashion.  Catullus came to a
 very harsh and savage and ungentlemanly conclusion about Lesbia;
 but he came to a conclusion.  There was something in the whole
 tremendous tradition of the great tragic and comic poets
-of the past, which tended of its nature to be monumental.
-Dante set up a stone over Beatrice and Catullus threw
+of the past, which tended of its [[Nature|nature]] to be monumental.
+[[Dante]] set up a stone over [[Beatrice]] and Catullus threw
 a stone at Lesbia; but they were both big stones and they.
 have remained upon the graves.  Both felt sure that their gesture
 was final; and that it really represented what they felt.
-The very sound of song, the very nature of the opening phrase,
+The very sound of [[Song|song]], the very [[Nature|nature]] of the opening phrase,
 was something like that; `To praise, exalt, establish, and defend'.
 Or else it was, `To curse, confound, destroy, and leave for dead'.
 But that full throated and final utterance is somehow lacking
-amid the many and varied voices of modern self-expression,
+amid the many and varied voices of modern [[Self|self]]-expression,
 though they claim to have an unprecedented liberty and often do,
 in fact, have an almost intolerable anarchy.  That is the one limit
 that is really, though silently recognized in current culture
-and philosophy; and not even the most thoughtful obscenity,
-or the most fastidious form of madness, can be altogether a
+and [[philosophy]]; and not even the most thoughtful obscenity,
+or the most fastidious form of [[Madness|madness]], can be altogether a
 substitute for that fullness of life and that firmness of language.
 It is the new orthodoxy that a man may be uncertain of every thing;
 so long as he is not certain of anything.
@@ -109,12 +109,12 @@ It is connected with the idea of lifting a thing on to a plane
 in some way analogous at least to that of sacred things.
 This was the secret of a certain heroic quality in more primitive forms
 of patriotism.  It is not altogether a legend that the patriotism
-of the City States of Antiquity was a statelier sort of business
-than the patriotism of the Industrial City of modern times.
+of the [[City]] States of Antiquity was a statelier sort of business
+than the patriotism of the [[Industrial City]] of modern times.
 And the reason was that the heroes were not only praising themselves;
-they were not even praising only the City; they were praising
-the gods of the City.  That is very different from the modern
-tribal pride, according to which all the citizens are gods.
+they were not even praising only the [[City]]; they were praising
+the gods of the [[City]].  That is very different from the modern
+tribal [[Pride|pride]], according to which all the citizens are gods.
 The modern clerk or stock broker, who is `something in the City',
 may be very patriotic and read a very patriotic newspaper.
 But he does not praise the gods of the City, he would have

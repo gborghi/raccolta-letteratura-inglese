@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 8 (part 6)"
+title: "[[Shirley]] — Chapter 8 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -18,7 +18,7 @@ work), entered the cottage, and having greeted the good-wife and the
 
 children, sat down. He proceeded to talk very cheerfully about the
 
-length of time that had elapsed since the family quitted his parish, the
+length of [[Time|time]] that had elapsed since the family quitted his parish, the
 
 changes which had occurred since; he answered questions touching his
 
@@ -78,9 +78,9 @@ but they're pinched--they're pined----"
 
 
 
-"Well, my lad, and so are you; I see you are. These are grievous times;
+"[[Well]], my lad, and so are you; I see you are. These are grievous times;
 
-I see suffering wherever I turn. William, sit down. Grace, sit down. Let
+I see [[Suffering|suffering]] wherever I turn. William, sit down. Grace, sit down. Let
 
 us talk it over."
 
@@ -114,7 +114,7 @@ small sum?"
 
 
 
-"No. I've selled t' chest o' drawers, and t' clock, and t' bit of a
+"No. I've selled t' chest o' drawers, and t' [[Clock|clock]], and t' bit of a
 
 mahogany stand, and t' wife's bonny tea-tray and set o' cheeney 'at she
 
@@ -158,7 +158,7 @@ man i' England nor he is."
 
 
 
-"Well, I'll speak to one or two friends, and I think I can promise to
+"[[Well]], I'll speak to one or two friends, and I think I can promise to
 
 let him have £5 in a day or two--as a loan, ye mind, not a gift. He must
 

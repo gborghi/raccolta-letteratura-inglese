@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Idiot"
+title: "ball and [[Cross|cross]] — The Idiot"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -16,14 +16,14 @@ tags:
 
 XVII.  THE IDIOT
 
-Evan MacIan was standing a few yards off looking at him
-in absolute silence.
+[[Evan MacIan]] was standing a few yards off looking at him
+in absolute [[Silence|silence]].
 
-He had not the moral courage to ask MacIan if there had been anything
+He had not the moral [[Courage|courage]] to ask MacIan if there had been anything
 astounding in the manner of his coming there, nor did MacIan seem
 to have any question to ask, or perhaps any need to ask it.
 The two men came slowly towards each other, and found the same
-expression on each other's faces.  Then, for the first time in all
+expression on each other's faces.  Then, for the first [[Time|time]] in all
 their acquaintance, they shook hands.
 
 Almost as if this were a kind of unconscious signal, it brought
@@ -37,7 +37,7 @@ record was kept.  Dr. Quayle sat down on a swivel chair and swung
 round to face them.  His carved smile had suddenly disappeared.
 
 "I will be plain with you gentlemen," he said, abruptly;
-"you know quite well we do our best for everybody here.
+"you know quite [[Well|well]] we do our best for everybody here.
 Your cases have been under special consideration, and the Master
 himself has decided that you ought to be treated specially and--
 er--under somewhat simpler conditions."
@@ -48,15 +48,15 @@ The doctor did not reply, and MacIan said:  "I expected this."
 His eyes had begun to glow.
 
 The doctor answered, looking at his desk and playing with a key:
-"Well, in certain cases that give anxiety--it is often better----"
+"[[Well]], in certain cases that give anxiety--it is often better----"
 
 "Give anxiety," said Turnbull, fiercely.  "Confound your impudence!
 What do you mean?  You imprison two perfectly sane men in a madhouse
 because you have made up a long word.  They take it in good temper,
-walk and talk in your garden like monks who have found a vocation,
+walk and talk in your [[Garden|garden]] like [[Monks|monks]] who have found a vocation,
 are civil even to you, you damned druggists' hack!  Behave not only
 more sanely than any of your patients, but more sanely than half
-the sane men outside, and you have the soul-stifling cheek to say
+the sane men outside, and you have the [[Soul|soul]]-stifling cheek to say
 that they give anxiety."
 
 "The head of the asylum has settled it all," said Dr. Quayle,
@@ -94,15 +94,15 @@ When a voice said, "Come in," MacIan's breath went hissing back
 through his teeth into his chest.  Turnbull was more impetuous,
 and opened the door.
 
-It was a neat and well-appointed room entirely lined with a
+It was a neat and [[Well|well]]-appointed room entirely lined with a
 medical library.  At the other end of it was a ponderous and polished
 desk with an incandescent lamp on it, the light of which was just
-sufficient to show a slender, well-bred figure in an ordinary
+sufficient to show a slender, [[Well|well]]-bred figure in an ordinary
 medical black frock-coat, whose head, quite silvered with age,
 was bent over neat piles of notes.  This gentleman looked up for an
 instant as they entered, and the lamplight fell on his glittering
 spectacles and long, clean-shaven face--a face which would have been
-simply like an aristocrat's but that a certain lion poise of the head
+simply like an [[aristocrat]]'s but that a certain [[Lion|lion]] poise of the head
 and long cleft in the chin made it look more like a very handsome
 actor's. It was only for a flash that his face was thus lifted.
 Then he bent his silver head over his notes once more, and said,
@@ -113,7 +113,7 @@ without looking up again:
 Turnbull and MacIan looked at each other, and said more than they
 could ever say with tongues or swords.  Among other things they
 said that to that particular Head of the institution it was a waste
-of time to appeal, and they followed Dr. Quayle out of the room.
+of [[Time|time]] to appeal, and they followed Dr. Quayle out of the room.
 
 The instant they stepped out into the corridor four sturdy
 figures stepped from four sides, pinioned them, and ran them
@@ -125,16 +125,16 @@ inclined to see what next twist would be taken by their imbecile luck.
 They were dragged down countless cold avenues lined with glazed tiles,
 different only in being of different lengths and set at different angles.
 They were so many and so monotonous that to escape back by them would
-have been far harder than fleeing from the Hampton Court maze.
+have been far harder than fleeing from the Hampton [[Court]] maze.
 Only the fact that windows grew fewer, coming at longer intervals,
 and the fact that when the windows did come they seemed shadowed
 and let in less light, showed that they were winding into the core
-or belly of some enormous building.  After a little time the glazed
+or belly of some enormous building.  After a little [[Time|time]] the glazed
 corridors began to be lit by electricity.
 
 At last, when they had walked nearly a mile in those white
 and polished tunnels, they came with quite a shock to the futile
-finality of a cul-de-sac. All that white and weary journey
+finality of a cul-de-sac. All that white and weary [[Journey|journey]]
 ended suddenly in an oblong space and a blank white wall.
 But in the white wall there were two iron doors painted white on
 which were written, respectively, in neat black capitals B and C.
@@ -144,14 +144,14 @@ quite respectfully, "and you in here."
 
 But before the doors had clanged upon their dazed victims, MacIan had
 been able to say to Turnbull with a strange drawl of significance:
-"I wonder who A is."
+"I [[Wonder|wonder]] who A is."
 
 Turnbull made an automatic struggle before he allowed himself to be
 thrown into the cell.  Hence it happened that he was the last to enter,
 and was still full of the exhilaration of the adventures for at least
 five minutes after the echo of the clanging door had died away.
 
-Then, when silence had sunk deep and nothing happened for two
+Then, when [[Silence|silence]] had sunk deep and nothing happened for two
 and a half hours, it suddenly occurred to him that this was
 the end of his life.  He was hidden and sealed up in this little
 crack of stone until the flesh should fall off his bones.
@@ -159,7 +159,7 @@ He was dead, and the world had won.
 
 His cell was of an oblong shape, but very long in comparison with
 its width.  It was just wide enough to permit the arms to be fully
-extended with the dumb-bells, which were hung up on the left wall,
+extended with the dumb-[[Bells|bells]], which were hung up on the left wall,
 very dusty.  It was, however, long enough for a man to walk
 one thirty-fifth part of a mile if he traversed it entirely.
 On the same principle a row of fixed holes, quite close together,
@@ -167,7 +167,7 @@ let in to the cells by pipes what was alleged to be the freshest air.
 For these great scientific organizers insisted that a man should be
 healthy even if he was miserable.  They provided a walk long enough
 to give him exercise and holes large enough to give him oxygen.
-There their interest in human nature suddenly ceased.  It seemed never
+There their interest in human [[Nature|nature]] suddenly ceased.  It seemed never
 to have occurred to them that the benefit of exercise belongs partly
 to the benefit of liberty.  They had not entertained the suggestion
 that the open air is only one of the advantages of the open sky.
@@ -179,10 +179,10 @@ Every morning, while Turnbull was still half asleep on his iron
 bedstead which was lifted half-way up the wall and clamped to it
 with iron, four sluices or metal mouths opened above him at the four
 corners of the chamber and washed it white of any defilement.
-Turnbull's solitary soul surged up against this sickening daily solemnity.
+Turnbull's solitary [[Soul|soul]] surged up against this sickening daily solemnity.
 
 "I am buried alive!" he cried, bitterly; "they have hidden me
-under mountains.  I shall be here till I rot.  Why the blazes
+under [[Mountains|mountains]].  I shall be here till I rot.  Why the blazes
 should it matter to them whether I am dirty or clean."
 
 Every morning and evening an iron hatchway opened in his
@@ -198,7 +198,7 @@ Even the shape of his cell especially irritated him.
 It was a long, narrow parallelogram, which had a flat wall
 at one end and ought to have had a flat wall at the other;
 but that end was broken by a wedge or angle of space,
-like the prow of a ship.  After three days of silence and cocoa,
+like the prow of a [[Ship|ship]].  After three days of [[Silence|silence]] and cocoa,
 this angle at the end began to infuriate Turnbull.  It maddened
 him to think that two lines came together and pointed at nothing.
 After the fifth day he was reckless, and poked his head into the corner.
@@ -208,7 +208,7 @@ it like a sort of Robinson Crusoe.
 
 Almost unconsciously it was his instinct to examine outlets,
 and he found himself paying particular attention to the row
-of holes which let in the air into his last house of life.
+of holes which let in the air into his last [[house]] of life.
 He soon discovered that these air-holes were all the ends and mouths
 of long leaden tubes which doubtless carried air from some remote
 watering-place near Margate.  One evening while he was engaged
@@ -229,20 +229,20 @@ or now, can make a strong army merely by making the men afraid.
 But it does it with the permanent possibility that the men may
 some day be more afraid of their enemies than of their officers.
 Thus the drainage in our cities so long as it is quite solid means
-a general safety, but if there is one leak it means concentrated poison--
+a general safety, but if there is one leak it means concentrated [[Poison|poison]]--
 an explosion of deathly germs like dynamite, a spirit of stink.
 Thus, indeed, all that excellent machinery which is the swiftest thing
 on earth in saving human labour is also the slowest thing on earth
 in resisting human interference.  It may be easier to get chocolate
-for nothing out of a shopkeeper than out of an automatic machine.
-But if you did manage to steal the chocolate, the automatic machine
+for nothing out of a shopkeeper than out of an automatic [[Machine|machine]].
+But if you did manage to steal the chocolate, the automatic [[Machine|machine]]
 would be much less likely to run after you.
 
-Turnbull was not long in discovering this truth in connexion
+Turnbull was not long in discovering this [[Truth|truth]] in connexion
 with the cold and colossal machinery of this great asylum.
 He had been shaken by many spiritual states since the instant
 when he was pitched head foremost into that private cell which was
-to be his private room till death.  He had felt a high fit of pride
+to be his private room till [[Death|death]].  He had felt a high fit of [[Pride|pride]]
 and poetry, which had ebbed away and left him deadly cold.
 He had known a period of mere scientific curiosity, in the course
 of which he examined all the tiles of his cell, with the gratifying
@@ -250,21 +250,21 @@ conclusion that they were all the same shape and size;
 but was greatly puzzled about the angle in the wall at the end,
 and also about an iron peg or spike that stood out from
 the wall, the object of which he does not know to this day.
-Then he had a period of mere madness not to be written of by
+Then he had a period of mere [[Madness|madness]] not to be written of by
 decent men, but only by those few dirty novelists hallooed on
-by the infernal huntsman to hunt down and humiliate human nature.
+by the infernal huntsman to hunt down and humiliate human [[Nature|nature]].
 This also passed, but left behind it a feverish distaste for many
 of the mere objects around him.  Long after he had returned
-to sanity and such hopeless cheerfulness as a man might have on
-a desert island, he disliked the regular squares of the pattern
+to [[Sanity|sanity]] and such hopeless cheerfulness as a man might have on
+a [[Desert|desert]] island, he disliked the regular squares of the pattern
 of wall and floor and the triangle that terminated his corridor.
 Above all, he had a hatred, deep as the hell he did not believe in,
 for the objectless iron peg in the wall.
 
 But in all his moods, sane or insane, intolerant or stoical,
-he never really doubted this:  that the machine held him as light
+he never really doubted this:  that the [[Machine|machine]] held him as light
 and as hopelessly as he had from his birth been held by the hopeless
-cosmos of his own creed.  He knew well the ruthless and inexhaustible
+cosmos of his own creed.  He knew [[Well|well]] the ruthless and inexhaustible
 resources of our scientific civilization.  He no more expected rescue
 from a medical certificate than rescue from the solar system.
 In many of his Robinson Crusoe moods he thought kindly of MacIan
@@ -276,18 +276,18 @@ Then he remembered the Beauchamp Tower, and tried to write his
 blazing scepticism on the wall, and discovered that it was all
 shiny tiles on which nothing could be either drawn or carved.
 Then for an instant there hung and broke above him like a high wave
-the whole horror of scientific imprisonment, which manages to deny a man
+the whole horror of scientific [[Imprisonment|imprisonment]], which manages to deny a man
 not only liberty, but every accidental comfort of bondage.  In the old
 filthy dungeons men could carve their prayers or protests in the rock.
 Here the white and slippery walls escaped even from bearing witness.
 The old prisoners could make a pet of a mouse or a beetle strayed
 out of a hole.  Here the unpierceable walls were washed every
 morning by an automatic sluice.  There was no natural corruption
-and no merciful decay by which a living thing could enter in.
-Then James Turnbull looked up and saw the high invincible hatefulness
+and no merciful [[Decay|decay]] by which a living thing could enter in.
+Then [[James Turnbull]] looked up and saw the high invincible hatefulness
 of the society in which he lived, and saw the hatefulness of something
 else also, which he told himself again and again was not the cosmos
-in which he believed.  But all the time he had never once doubted
+in which he believed.  But all the [[Time|time]] he had never once doubted
 that the five sides of his cell were for him the wall of the world
 henceforward, and it gave him a shock of surprise even to discover
 the faint light through the aperture in the ventilation tube.
@@ -297,7 +297,7 @@ together and how easily, therefore, a pipe here or there may leak.
 Turnbull thrust his first finger down the aperture, and at last
 managed to make a slight further fissure in the piping.  The light
 that came up from beyond was very faint, and apparently indirect;
-it seemed to fall from some hole or window higher up.  As he was
+it seemed to fall from some hole or [[Window|window]] higher up.  As he was
 screwing his eye to peer at this grey and greasy twilight he was
 astonished to see another human finger very long and lean come down
 from above towards the broken pipe and hook it up to something higher.
@@ -319,19 +319,19 @@ space just long enough to be painful.  Then he said with his old gaiety:
 I have met for ten million years."
 
 "I know what you mean," answered the other.  "It has been awful.
-For a mortal month I have been alone with God."
+For a mortal month I have been [[Alone|alone]] with God."
 
 Turnbull started, and it was on the tip of his tongue to answer:
-"Alone with God!  Then you do not know what loneliness is."
+"[[Alone]] with God!  Then you do not know what [[Loneliness|loneliness]] is."
 
 But he answered, after all, in his old defiant style:
-"Alone with God, were you?  And I suppose you found his Majesty's
+"[[Alone]] with God, were you?  And I suppose you found his Majesty's
 society rather monotonous?"
 
 "Oh, no," said MacIan, and his voice shuddered; "it was a great
 deal too exciting."
 
-After a very long silence the voice of MacIan said:  "What do you
+After a very long [[Silence|silence]] the voice of MacIan said:  "What do you
 really hate most in your place?"
 
 "You'd think I was really mad if I told you," answered Turnbull, bitterly.
@@ -362,9 +362,9 @@ a long sight funnier."
 "I have found out where A is," said the other.
 
 Three weeks afterwards MacIan had managed to open up communications
-which made his meaning plain.  By that time the two captives
+which made his meaning plain.  By that [[Time|time]] the two captives
 had fully discovered and demonstrated that weakness in the very
-nature of modern machinery to which we have already referred.
+[[Nature|nature]] of modern machinery to which we have already referred.
 The very fact that they were isolated from all companions meant
 that they were free from all spies, and as there were no gaolers
 to be bribed, so there were none to be baffled.  Machinery brought them
@@ -392,13 +392,13 @@ MacIan answered briefly:  "Another cell."
 "It has no door," said Evan.
 
 In the pause of perplexity that followed, an eerie and sinister
-feeling crept over Turnbull's stubborn soul in spite of himself.
+feeling crept over Turnbull's stubborn [[Soul|soul]] in spite of himself.
 The notion of the doorless room chilled him with that sense
 of half-witted curiosity which one has when something horrible
 is half understood.
 
-"James Turnbull," said MacIan, in a low and shaken voice, "these people
-hate us more than Nero hated Christians, and fear us more than any
+"[[James Turnbull]]," said MacIan, in a low and shaken voice, "these people
+hate us more than Nero hated Christians, and [[Fear|fear]] us more than any
 man feared Nero.  They have filled England with frenzy and galloping
 in order to capture us and wipe us out--in order to kill us.  And they
 have killed us, for you and I have only made a hole in our coffins.
@@ -413,7 +413,7 @@ and it was not a pretty sort of superstition either.
 
 "There is another man more fearful and hateful," went on MacIan,
 in his low monotone voice, "and they have buried him even deeper.
-God knows how they did it, for he was let in by neither door nor window,
+God knows how they did it, for he was let in by neither door nor [[Window|window]],
 nor lowered through any opening above.  I expect these iron handles
 that we both hate have been part of some damned machinery for walling
 him up.  He is there.  I have looked through the hole at him;
@@ -426,12 +426,12 @@ in rushing to the aperture and looking into the unknown room.
 It was a third oblong cell exactly like the other two except
 that it was doorless, and except that on one of the walls was
 painted a large black A like the B and C outside their own doors.
-The letter in this case was not painted outside, because this prison
+The letter in this case was not painted outside, because this [[Prison|prison]]
 had no outside.
 
 On the same kind of tiled floor, of which the monotonous
 squares had maddened Turnbull's eye and brain, was sitting
-a figure which was startlingly short even for a child,
+a figure which was startlingly short even for a [[Child|child]],
 only that the enormous head was ringed with hair of a frosty grey.
 The figure was draped, both insecurely and insufficiently,
 in what looked like the remains of a brown flannel dressing-gown;
@@ -446,7 +446,7 @@ The thing got up with the promptitude of an animal, and turning
 round offered the spectacle of two owlish eyes and a huge
 grey-and-white beard not unlike the plumage of an owl.
 This extraordinary beard covered him literally to his feet
-(not that that was very far), and perhaps it was as well that it did,
+(not that that was very far), and perhaps it was as [[Well|well]] that it did,
 for portions of his remaining clothing seemed to fall off
 whenever he moved.  One talks trivially of a face like parchment,
 but this old man's face was so wrinkled that it was like a parchment
@@ -458,14 +458,14 @@ his eyes were quite bright, blue, and startled like those of a baby.
 They looked as if they had only an instant before been fitted
 into his head.
 
-Everything depended so obviously upon whether this buried monster spoke
+Everything depended so obviously upon whether this buried [[Monster|monster]] spoke
 that Turnbull did not know or care whether he himself had spoken.
 He said something or nothing.  And then he waited for this dwarfish
-voice that had been hidden under the mountains of the world.
+voice that had been hidden under the [[Mountains|mountains]] of the world.
 At last it did speak, and spoke in English, with a foreign accent
 that was neither Latin nor Teutonic.  He suddenly stretched out a long
 and very dirty forefinger, and cried in a voice of clear recognition,
-like a child's: "That's a hole."
+like a [[Child|child]]'s: "That's a hole."
 
 He digested the discovery for some seconds, sucking his finger,
 and then he cried, with a crow of laughter:  "And that's a head
@@ -475,7 +475,7 @@ The hilarious energy in this idiot attitude gave Turnbull another
 sick turn.  He had grown to tolerate those dreary and mumbling
 madmen who trailed themselves about the beautiful asylum gardens.
 But there was something new and subversive of the universe in the
-combination of so much cheerful decision with a body without a brain.
+combination of so much cheerful decision with a [[Body|body]] without a brain.
 
 "Why did they put you in such a place?" he asked at
 last with embarrassment.
@@ -539,7 +539,7 @@ The iron door was standing about an inch and a half open.
 
 "He said----" began Evan, in a trembling voice--"he offered----"
 
-"Come along, you fool!" shouted Turnbull with a sudden and
+"Come along, you [[Fool|fool]]!" shouted Turnbull with a sudden and
 furious energy.  "I see it all now, and it's the best stroke of luck
 in the world.  You pulled out that iron handle that had screwed
 up his cell, and it somehow altered the machinery and opened
@@ -547,32 +547,32 @@ all the doors."
 
 Seizing MacIan by the elbow he bundled him bodily out into
 the open corridor and ran him on till they saw daylight through
-a half-darkened window.
+a half-darkened [[Window|window]].
 
 "All the same," said Evan, like one answering in an ordinary conversation,
 "he did ask you whether he could help you."
 
 All this wilderness of windowless passages was so built into
-the heart of that fortress of fear that it seemed more than an hour
+the heart of that fortress of [[Fear|fear]] that it seemed more than an hour
 before the fugitives had any good glimpse of the outer world.
 They did not even know what hour of the day it was; and when,
 turning a corner, they saw the bare tunnel of the corridor end
-abruptly in a shining square of garden, the grass burning in that
+abruptly in a shining square of [[Garden|garden]], the grass burning in that
 strong evening sunshine which makes it burnished gold rather
 than green, the abrupt opening on to the earth seemed like a hole
 knocked in the wall of heaven.  Only once or twice in life is it
 permitted to a man thus to see the very universe from outside,
 and feel existence itself as an adorable adventure not yet begun.
 As they found this shining escape out of that hellish labyrinth
-they both had simultaneously the sensation of being babes unborn,
+they both had simultaneously the sensation of being babes [[unborn]],
 of being asked by God if they would like to live upon the earth.
 They were looking in at one of the seven gates of Eden.
 
-Turnbull was the first to leap into the garden, with an earth-spurning
+Turnbull was the first to leap into the [[Garden|garden]], with an earth-spurning
 leap like that of one who could really spread his wings and fly.
 MacIan, who came an instant after, was less full of mere animal
 gusto and fuller of a more fearful and quivering pleasure in
-the clear and innocent flower colours and the high and holy trees.
+the clear and [[Innocent|innocent]] flower colours and the high and holy trees.
 With one bound they were in that cool and cleared landscape,
 and they found just outside the door the black-clad gentleman
 with the cloven chin smilingly regarding them; and his chin seemed

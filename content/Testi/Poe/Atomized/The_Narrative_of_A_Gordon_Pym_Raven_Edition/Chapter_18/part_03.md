@@ -16,7 +16,7 @@ tags:
 
       as hostages, a party of us, twelve in all, got in readiness to
 
-      attend the chief. We took care to be well armed, yet without
+      attend the chief. We took care to be [[Well|well]] armed, yet without
 
       evincing any distrust. The schooner had her guns run out, her
 
@@ -44,7 +44,7 @@ tags:
 
       altogether unlike those of the lower southern latitudes we had
 
-      already traversed. The very rocks were novel in their mass, their
+      already traversed. The very rocks were [[Novel|novel]] in their mass, their
 
       color, and their stratification; and the streams themselves,
 
@@ -54,37 +54,37 @@ tags:
 
       and, indeed, had difficulty in bringing ourselves to believe that
 
-      their qualities were purely those of nature. At a small brook
+      their qualities were purely those of [[Nature|nature]]. At a small brook
 
       which crossed our path (the first we had reached) Too-wit and his
 
       attendants halted to drink. On account of the singular character
 
-      of the water, we refused to taste it, supposing it to be
+      of the [[Water|water]], we refused to taste it, supposing it to be
 
-      polluted; and it was not until some time afterward we came to
+      polluted; and it was not until some [[Time|time]] afterward we came to
 
       understand that such was the appearance of the streams throughout
 
       the whole group. I am at a loss to give a distinct idea of the
 
-      nature of this liquid, and cannot do so without many words.
+      [[Nature|nature]] of this liquid, and cannot do so without many words.
 
       Although it flowed with rapidity in all declivities where common
 
-      water would do so, yet never, except when falling in a cascade,
+      [[Water|water]] would do so, yet never, except when falling in a cascade,
 
       had it the customary appearance of limpidity. It was,
 
       nevertheless, in point of fact, as perfectly limpid as any
 
-      limestone water in existence, the difference being only in
+      limestone [[Water|water]] in existence, the difference being only in
 
       appearance. At first sight, and especially in cases where little
 
       declivity was found, it bore resemblance, as regards consistency,
 
-      to a thick infusion of gum arabic in common water. But this was
+      to a thick infusion of gum arabic in common [[Water|water]]. But this was
 
       only the least remarkable of its extraordinary qualities. It was
 
@@ -96,7 +96,7 @@ tags:
 
       produced in a manner which excited as profound astonishment in
 
-      the minds of our party as the mirror had done in the case of
+      the minds of our party as the [[Mirror|mirror]] had done in the case of
 
       Too-wit. Upon collecting a basinful, and allowing it to settle
 
@@ -110,7 +110,7 @@ tags:
 
       imperfect in regard to neighbouring veins. Upon passing the blade
 
-      of a knife athwart the veins, the water closed over it
+      of a knife athwart the veins, the [[Water|water]] closed over it
 
       immediately, as with us, and also, in withdrawing it, all traces
 
@@ -120,7 +120,7 @@ tags:
 
       veins, a perfect separation was effected, which the power of
 
-      cohesion did not immediately rectify. The phenomena of this water
+      cohesion did not immediately rectify. The phenomena of this [[Water|water]]
 
       formed the first definite link in that vast chain of apparent
 

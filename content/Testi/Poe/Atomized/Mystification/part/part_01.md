@@ -1,5 +1,5 @@
 ---
-title: "Mystification (part 1)"
+title: "[[Mystification]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Mystification-(Poe)"
@@ -30,7 +30,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       some description—the majority for that species of _grotesquerie_
 
-      in conception of which Tieck, a scion of the house, has given a
+      in conception of which Tieck, a scion of the [[house]], has given a
 
       vivid, although by no means the most vivid exemplifications. My
 
@@ -38,7 +38,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       Jung, into which a train of droll adventures, not to be made
 
-      public, threw me during the summer months of the year 18—. Here
+      public, threw me during the [[Summer|summer]] months of the year 18—. Here
 
       it was that I obtained a place in his regard, and here, with
 
@@ -58,7 +58,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       I remember the buzz of curiosity which his advent excited within
 
-      the college precincts on the night of the twenty-fifth of June. I
+      the college precincts on the [[Night|night]] of the twenty-fifth of June. I
 
       remember still more distinctly, that while he was pronounced by
 
@@ -80,7 +80,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       surrounded him, an influence the most extensive and despotic, yet
 
-      at the same time the most indefinite and altogether
+      at the same [[Time|time]] the most indefinite and altogether
 
       unaccountable. Thus the brief period of his residence at the
 
@@ -124,11 +124,11 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
 
 
-      It will be perceived, no doubt, from what I have already said,
+      It will be perceived, no [[Doubt|doubt]], from what I have already said,
 
       that the Baron was one of those human anomalies now and then to
 
-      be found, who make the science of mystification the study and the
+      be found, who make the science of [[Mystification|mystification]] the study and the
 
       business of their lives. For this science a peculiar turn of mind
 
@@ -148,7 +148,7 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       be capable of a joke, verbal or practical:—the old bull-dog at
 
-      the garden-gate would sooner have been accused,—the ghost of
+      the [[Garden|garden]]-gate would sooner have been accused,—the [[Ghost|ghost]] of
 
       Heraclitus,—or the wig of the Emeritus Professor of Theology.
 
@@ -160,11 +160,11 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       plainly through his intermediate agency or connivance. The
 
-      beauty, if I may so call it, of his art mystifique, lay in that
+      [[Beauty|beauty]], if I may so call it, of his art mystifique, lay in that
 
       consummate ability (resulting from an almost intuitive knowledge
 
-      of human nature, and a most wonderful self-possession,) by means
+      of human [[Nature|nature]], and a most wonderful [[Self|self]]-possession,) by means
 
       of which he never failed to make it appear that the drolleries he
 
@@ -180,13 +180,13 @@ Slid, if these be your “passados” and “montantes,” I’ll have none
 
       endeavors, would suffuse every lineament of his countenance, left
 
-      not the slightest room for doubt of his sincerity in the bosoms
+      not the slightest room for [[Doubt|doubt]] of his sincerity in the bosoms
 
       of even his most skeptical companions. The adroitness, too, was
 
       no less worthy of observation by which he contrived to shift the
 
-      sense of the grotesque from the creator to the created—from his
+      sense of the [[Grotesque|grotesque]] from the creator to the created—from his
 
       own person to the absurdities to which he had given rise. In no
 

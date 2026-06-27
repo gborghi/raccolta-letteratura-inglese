@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 15: I MAKE ANOTHER BEGINNING"
+title: "[[David Copperfield]] — Chapter 15: I MAKE ANOTHER BEGINNING"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -20,11 +20,11 @@ CHAPTER 15. I MAKE ANOTHER BEGINNING
 Mr. Dick and I soon became the best of friends, and very often, when his
 day’s work was done, went out together to fly the great kite. Every day
 of his life he had a long sitting at the Memorial, which never made the
-least progress, however hard he laboured, for King Charles the First
+least progress, however hard he laboured, for [[King]] Charles the First
 always strayed into it, sooner or later, and then it was thrown aside,
-and another one begun. The patience and hope with which he bore these
+and another one begun. The patience and [[Hope|hope]] with which he bore these
 perpetual disappointments, the mild perception he had that there was
-something wrong about King Charles the First, the feeble efforts he made
+something wrong about [[King]] Charles the First, the feeble efforts he made
 to keep him out, and the certainty with which he came in, and tumbled
 the Memorial out of all shape, made a deep impression on me. What Mr.
 Dick supposed would come of the Memorial, if it were completed; where he
@@ -35,7 +35,7 @@ the sun, it was certain that the Memorial never would be finished. It
 was quite an affecting sight, I used to think, to see him with the kite
 when it was up a great height in the air. What he had told me, in his
 room, about his belief in its disseminating the statements pasted on it,
-which were nothing but old leaves of abortive Memorials, might have been
+which were nothing but old [[Leaves|leaves]] of abortive Memorials, might have been
 a fancy with him sometimes; but not when he was out, looking up at
 the kite in the sky, and feeling it pull and tug at his hand. He never
 looked so serene as he did then. I used to fancy, as I sat by him of an
@@ -44,19 +44,19 @@ air, that it lifted his mind out of its confusion, and bore it (such was
 my boyish thought) into the skies. As he wound the string in and it came
 lower and lower down out of the beautiful light, until it fluttered to
 the ground, and lay there like a dead thing, he seemed to wake gradually
-out of a dream; and I remember to have seen him take it up, and look
+out of [[A Dream|a dream]]; and I remember to have seen him take it up, and look
 about him in a lost way, as if they had both come down together, so that
 I pitied him with all my heart.
 
-While I advanced in friendship and intimacy with Mr. Dick, I did not
+While I advanced in [[Friendship|friendship]] and intimacy with Mr. Dick, I did not
 go backward in the favour of his staunch friend, my aunt. She took
 so kindly to me, that, in the course of a few weeks, she shortened my
-adopted name of Trotwood into Trot; and even encouraged me to hope, that
+adopted name of Trotwood into Trot; and even encouraged me to [[Hope|hope]], that
 if I went on as I had begun, I might take equal rank in her affections
-with my sister Betsey Trotwood.
+with my sister [[Betsey Trotwood]].
 
 ‘Trot,’ said my aunt one evening, when the backgammon-board was placed
-as usual for herself and Mr. Dick, ‘we must not forget your education.’
+as usual for herself and Mr. Dick, ‘we must not forget your [[Education|education]].’
 
 This was my only subject of anxiety, and I felt quite delighted by her
 referring to it.
@@ -72,7 +72,7 @@ evolutions, I was not surprised by the suddenness of the proposal, and
 said: ‘Yes.’
 
 ‘Good,’ said my aunt again. ‘Janet, hire the grey pony and chaise
-tomorrow morning at ten o’clock, and pack up Master Trotwood’s clothes
+tomorrow morning at ten o’[[Clock|clock]], and pack up Master Trotwood’s clothes
 tonight.’
 
 I was greatly elated by these orders; but my heart smote me for my
@@ -88,15 +88,15 @@ morning he was downhearted again, and would have sustained himself by
 giving me all the money he had in his possession, gold and silver too,
 if my aunt had not interposed, and limited the gift to five shillings,
 which, at his earnest petition, were afterwards increased to ten. We
-parted at the garden-gate in a most affectionate manner, and Mr. Dick
-did not go into the house until my aunt had driven me out of sight of
+parted at the [[Garden|garden]]-gate in a most affectionate manner, and Mr. Dick
+did not go into the [[house]] until my aunt had driven me out of sight of
 it.
 
 My aunt, who was perfectly indifferent to public opinion, drove the grey
 pony through Dover in a masterly manner; sitting high and stiff like
 a state coachman, keeping a steady eye upon him wherever he went, and
 making a point of not letting him have his own way in any respect. When
-we came into the country road, she permitted him to relax a little,
+we came into the country [[Road|road]], she permitted him to relax a little,
 however; and looking at me down in a valley of cushion by her side,
 asked me whether I was happy?
 
@@ -124,44 +124,44 @@ were not always complimentary; but my aunt drove on with perfect
 indifference, and I dare say would have taken her own way with as much
 coolness through an enemy’s country.
 
-At length we stopped before a very old house bulging out over the road;
-a house with long low lattice-windows bulging out still farther, and
+At length we stopped before a very old [[house]] bulging out over the [[Road|road]];
+a [[house]] with long low lattice-windows bulging out still farther, and
 beams with carved heads on the ends bulging out too, so that I fancied
-the whole house was leaning forward, trying to see who was passing on
+the whole [[house]] was leaning forward, trying to see who was passing on
 the narrow pavement below. It was quite spotless in its cleanliness.
 The old-fashioned brass knocker on the low arched door, ornamented with
-carved garlands of fruit and flowers, twinkled like a star; the two
+carved garlands of fruit and [[Flowers|flowers]], twinkled like a star; the two
 stone steps descending to the door were as white as if they had been
 covered with fair linen; and all the angles and corners, and carvings
 and mouldings, and quaint little panes of glass, and quainter little
-windows, though as old as the hills, were as pure as any snow that ever
+windows, though as old as the hills, were as pure as any [[Snow|snow]] that ever
 fell upon the hills.
 
 When the pony-chaise stopped at the door, and my eyes were intent upon
-the house, I saw a cadaverous face appear at a small window on the
+the [[house]], I saw a cadaverous face appear at a small [[Window|window]] on the
 ground floor (in a little round tower that formed one side of the
-house), and quickly disappear. The low arched door then opened, and
+[[house]]), and quickly disappear. The low arched door then opened, and
 the face came out. It was quite as cadaverous as it had looked in the
-window, though in the grain of it there was that tinge of red which is
+[[Window|window]], though in the grain of it there was that tinge of red which is
 sometimes to be observed in the skins of red-haired people. It belonged
 to a red-haired person--a youth of fifteen, as I take it now, but
 looking much older--whose hair was cropped as close as the closest
 stubble; who had hardly any eyebrows, and no eyelashes, and eyes of a
 red-brown, so unsheltered and unshaded, that I remember wondering how he
-went to sleep. He was high-shouldered and bony; dressed in decent black,
+went to [[Sleep|sleep]]. He was high-shouldered and bony; dressed in decent black,
 with a white wisp of a neckcloth; buttoned up to the throat; and had a
-long, lank, skeleton hand, which particularly attracted my attention, as
+long, lank, [[skeleton]] hand, which particularly attracted my attention, as
 he stood at the pony’s head, rubbing his chin with it, and looking up at
 us in the chaise.
 
-‘Is Mr. Wickfield at home, Uriah Heep?’ said my aunt.
+‘Is Mr. Wickfield at [[Home|home]], [[Uriah Heep]]?’ said my aunt.
 
-‘Mr. Wickfield’s at home, ma’am,’ said Uriah Heep, ‘if you’ll please to
+‘Mr. Wickfield’s at [[Home|home]], ma’am,’ said [[Uriah Heep]], ‘if you’ll please to
 walk in there’--pointing with his long hand to the room he meant.
 
 We got out; and leaving him to hold the pony, went into a long low
-parlour looking towards the street, from the window of which I caught a
-glimpse, as I went in, of Uriah Heep breathing into the pony’s nostrils,
+parlour looking towards the street, from the [[Window|window]] of which I caught a
+glimpse, as I went in, of [[Uriah Heep]] breathing into the pony’s nostrils,
 and immediately covering them with his hand, as if he were putting
 some spell upon him. Opposite to the tall old chimney-piece were two
 portraits: one of a gentleman with grey hair (though not by any means
@@ -176,20 +176,20 @@ that it had not come out of its frame. But it was stationary; and as the
 gentleman advanced into the light, I saw that he was some years older
 than when he had had his picture painted.
 
-‘Miss Betsey Trotwood,’ said the gentleman, ‘pray walk in. I was engaged
+‘Miss [[Betsey Trotwood]],’ said the gentleman, ‘pray walk in. I was engaged
 for a moment, but you’ll excuse my being busy. You know my motive. I
 have but one in life.’
 
 Miss Betsey thanked him, and we went into his room, which was furnished
 as an office, with books, papers, tin boxes, and so forth. It looked
-into a garden, and had an iron safe let into the wall; so immediately
+into a [[Garden|garden]], and had an iron safe let into the wall; so immediately
 over the mantelshelf, that I wondered, as I sat down, how the sweeps got
 round it when they swept the chimney.
 
-‘Well, Miss Trotwood,’ said Mr. Wickfield; for I soon found that it
+‘[[Well]], Miss Trotwood,’ said Mr. Wickfield; for I soon found that it
 was he, and that he was a lawyer, and steward of the estates of a rich
-gentleman of the county; ‘what wind blows you here? Not an ill wind, I
-hope?’
+gentleman of the county; ‘what [[Wind|wind]] blows you here? Not an ill [[Wind|wind]], I
+[[Hope|hope]]?’
 
 ‘No,’ replied my aunt. ‘I have not come for any law.’
 
@@ -215,21 +215,21 @@ Wickfield.
 
 ‘I have adopted him,’ said my aunt, with a wave of her hand, importing
 that his knowledge and his ignorance were all one to her, ‘and I have
-brought him here, to put to a school where he may be thoroughly well
-taught, and well treated. Now tell me where that school is, and what it
+brought him here, to put to a school where he may be thoroughly [[Well|well]]
+taught, and [[Well|well]] treated. Now tell me where that school is, and what it
 is, and all about it.’
 
 ‘Before I can advise you properly,’ said Mr. Wickfield--‘the old
 question, you know. What’s your motive in this?’
 
 ‘Deuce take the man!’ exclaimed my aunt. ‘Always fishing for motives,
-when they’re on the surface! Why, to make the child happy and useful.’
+when they’re on the surface! Why, to make the [[Child|child]] happy and useful.’
 
 ‘It must be a mixed motive, I think,’ said Mr. Wickfield, shaking his
 head and smiling incredulously.
 
 ‘A mixed fiddlestick,’ returned my aunt. ‘You claim to have one plain
-motive in all you do yourself. You don’t suppose, I hope, that you are
+motive in all you do yourself. You don’t suppose, I [[Hope|hope]], that you are
 the only plain dealer in the world?’
 
 ‘Ay, but I have only one motive in life, Miss Trotwood,’ he rejoined,
@@ -259,16 +259,16 @@ Mr. Wickfield’s office, where I sat down again, in the chair I had first
 occupied, to await their return.
 
 It so happened that this chair was opposite a narrow passage, which
-ended in the little circular room where I had seen Uriah Heep’s pale
-face looking out of the window. Uriah, having taken the pony to a
+ended in the little circular room where I had seen [[Uriah Heep]]’s pale
+face looking out of the [[Window|window]]. Uriah, having taken the pony to a
 neighbouring stable, was at work at a desk in this room, which had a
 brass frame on the top to hang paper upon, and on which the writing he
 was making a copy of was then hanging. Though his face was towards me, I
-thought, for some time, the writing being between us, that he could not
+thought, for some [[Time|time]], the writing being between us, that he could not
 see me; but looking that way more attentively, it made me uncomfortable
 to observe that, every now and then, his sleepless eyes would come below
 the writing, like two red suns, and stealthily stare at me for I dare
-say a whole minute at a time, during which his pen went, or pretended
+say a whole minute at a [[Time|time]], during which his pen went, or pretended
 to go, as cleverly as ever. I made several attempts to get out of their
 way--such as standing on a chair to look at a map on the other side of
 the room, and poring over the columns of a Kentish newspaper--but they
@@ -288,14 +288,14 @@ what you can do, Miss Trotwood.’
 ‘What’s that?’ inquired my aunt.
 
 ‘Leave your nephew here, for the present. He’s a quiet fellow. He
-won’t disturb me at all. It’s a capital house for study. As quiet as a
+won’t disturb me at all. It’s a capital [[house]] for study. As quiet as a
 monastery, and almost as roomy. Leave him here.’
 
 My aunt evidently liked the offer, though she was delicate of accepting
 it. So did I. ‘Come, Miss Trotwood,’ said Mr. Wickfield. ‘This is the
 way out of the difficulty. It’s only a temporary arrangement, you know.
-If it don’t act well, or don’t quite accord with our mutual convenience,
-he can easily go to the right-about. There will be time to find some
+If it don’t act [[Well|well]], or don’t quite accord with our mutual convenience,
+he can easily go to the right-about. There will be [[Time|time]] to find some
 better place for him in the meanwhile. You had better determine to leave
 him here for the present!’
 
@@ -319,18 +319,18 @@ windows I had looked up at from the street: which had old oak seats
 in them, that seemed to have come of the same trees as the shining oak
 floor, and the great beams in the ceiling. It was a prettily furnished
 room, with a piano and some lively furniture in red and green, and some
-flowers. It seemed to be all old nooks and corners; and in every nook
+[[Flowers|flowers]]. It seemed to be all old nooks and corners; and in every nook
 and corner there was some queer little table, or cupboard, or bookcase,
 or seat, or something or other, that made me think there was not such
 another good corner in the room; until I looked at the next one, and
 found it equal to it, if not better. On everything there was the same
-air of retirement and cleanliness that marked the house outside.
+air of retirement and cleanliness that marked the [[house]] outside.
 
 Mr. Wickfield tapped at a door in a corner of the panelled wall, and a
 girl of about my own age came quickly out and kissed him. On her face,
 I saw immediately the placid and sweet expression of the lady whose
-picture had looked at me downstairs. It seemed to my imagination as
-if the portrait had grown womanly, and the original remained a child.
+picture had looked at me downstairs. It seemed to my [[Imagination|imagination]] as
+if the portrait had grown womanly, and the original remained a [[Child|child]].
 Although her face was quite bright and happy, there was a tranquillity
 about it, and about her--a quiet, good, calm spirit--that I never have
 forgotten; that I shall never forget. This was his little housekeeper,
@@ -338,25 +338,25 @@ his daughter Agnes, Mr. Wickfield said. When I heard how he said it, and
 saw how he held her hand, I guessed what the one motive of his life was.
 
 She had a little basket-trifle hanging at her side, with keys in it; and
-she looked as staid and as discreet a housekeeper as the old house
+she looked as staid and as discreet a housekeeper as the old [[house]]
 could have. She listened to her father as he told her about me, with a
 pleasant face; and when he had concluded, proposed to my aunt that we
 should go upstairs and see my room. We all went together, she before us:
 and a glorious old room it was, with more oak beams, and diamond panes;
 and the broad balustrade going all the way up to it.
 
-I cannot call to mind where or when, in my childhood, I had seen a
-stained glass window in a church. Nor do I recollect its subject. But
-I know that when I saw her turn round, in the grave light of the old
-staircase, and wait for us, above, I thought of that window; and I
-associated something of its tranquil brightness with Agnes Wickfield
+I cannot call to mind where or when, in my [[Childhood|childhood]], I had seen a
+stained glass [[Window|window]] in a church. Nor do I recollect its subject. But
+I know that when I saw her turn round, in the [[Grave|grave]] light of the old
+staircase, and wait for us, above, I thought of that [[Window|window]]; and I
+associated something of its tranquil brightness with [[Agnes Wickfield]]
 ever afterwards.
 
 My aunt was as happy as I was, in the arrangement made for me; and we
-went down to the drawing-room again, well pleased and gratified. As she
+went down to the drawing-room again, [[Well|well]] pleased and gratified. As she
 would not hear of staying to dinner, lest she should by any chance fail
-to arrive at home with the grey pony before dark; and as I apprehend Mr.
-Wickfield knew her too well to argue any point with her; some lunch was
+to arrive at [[Home|home]] with the grey pony before dark; and as I apprehend Mr.
+Wickfield knew her too [[Well|well]] to argue any point with her; some lunch was
 provided for her there, and Agnes went back to her governess, and Mr.
 Wickfield to his office. So we were left to take leave of one another
 without any restraint.
@@ -369,13 +369,13 @@ the best advice.
 Mr. Dick, and Heaven be with you!’
 
 I was greatly overcome, and could only thank her, again and again, and
-send my love to Mr. Dick.
+send my [[Love|love]] to Mr. Dick.
 
 ‘Never,’ said my aunt, ‘be mean in anything; never be false; never be
 cruel. Avoid those three vices, Trot, and I can always be hopeful of
 you.’
 
-I promised, as well as I could, that I would not abuse her kindness or
+I promised, as [[Well|well]] as I could, that I would not abuse her kindness or
 forget her admonition.
 
 ‘The pony’s at the door,’ said my aunt, ‘and I am off! Stay here.’ With
@@ -386,7 +386,7 @@ street, and saw how dejectedly she got into the chaise, and drove away
 without looking up, I understood her better and did not do her that
 injustice.
 
-By five o’clock, which was Mr. Wickfield’s dinner-hour, I had mustered
+By five o’[[Clock|clock]], which was Mr. Wickfield’s dinner-hour, I had mustered
 up my spirits again, and was ready for my knife and fork. The cloth was
 only laid for us two; but Agnes was waiting in the drawing-room before
 dinner, went down with her father, and sat opposite to him at table. I
@@ -405,22 +405,22 @@ silent. She always observed this quickly, I thought, and always roused
 him with a question or caress. Then he came out of his meditation, and
 drank more wine.
 
-Agnes made the tea, and presided over it; and the time passed away after
+Agnes made the tea, and presided over it; and the [[Time|time]] passed away after
 it, as after dinner, until she went to bed; when her father took her
 in his arms and kissed her, and, she being gone, ordered candles in his
 office. Then I went to bed too.
 
 But in the course of the evening I had rambled down to the door, and a
 little way along the street, that I might have another peep at the old
-houses, and the grey Cathedral; and might think of my coming through
-that old city on my journey, and of my passing the very house I lived
-in, without knowing it. As I came back, I saw Uriah Heep shutting up
+houses, and the grey [[Cathedral]]; and might think of my coming through
+that old [[City|city]] on my [[Journey|journey]], and of my passing the very [[house]] I lived
+in, without knowing it. As I came back, I saw [[Uriah Heep]] shutting up
 the office; and feeling friendly towards everybody, went in and spoke
 to him, and at parting, gave him my hand. But oh, what a clammy hand his
 was! as ghostly to the touch as to the sight! I rubbed mine afterwards,
 to warm it, AND TO RUB HIS OFF.
 
 It was such an uncomfortable hand, that, when I went to my room, it was
-still cold and wet upon my memory. Leaning out of the window, and seeing
+still cold and wet upon my [[Memory|memory]]. Leaning out of the [[Window|window]], and seeing
 one of the faces on the beam-ends looking at me sideways, I fancied it
-was Uriah Heep got up there somehow, and shut him out in a hurry.
+was [[Uriah Heep]] got up there somehow, and shut him out in a hurry.

@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 70 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 70 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -21,15 +21,15 @@ Mr Dennis having despatched this piece of business without any personal
 hurt or inconvenience, and having now retired into the tranquil
 respectability of private life, resolved to solace himself with half an
 hour or so of female society. With this amiable purpose in his mind,
-he bent his steps towards the house where Dolly and Miss Haredale were
+he bent his steps towards the [[house]] where Dolly and Miss Haredale were
 still confined, and whither Miss Miggs had also been removed by order of
-Mr Simon Tappertit.
+Mr [[Simon Tappertit]].
 
 As he walked along the streets with his leather gloves clasped
 behind him, and his face indicative of cheerful thought and pleasant
 calculation, Mr Dennis might have been likened unto a farmer ruminating
 among his crops, and enjoying by anticipation the bountiful gifts of
-Providence. Look where he would, some heap of ruins afforded him rich
+[[Providence]]. Look where he would, some heap of ruins afforded him rich
 promise of a working off; the whole town appeared to have been ploughed
 and sown, and nurtured by most genial weather; and a goodly harvest was
 at hand.
@@ -43,7 +43,7 @@ upon it as one of those beautiful dispensations which are inscrutably
 brought about for the behoof and advantage of good men. He felt, as
 it were, personally referred to, in this prosperous ripening for the
 gibbet; and had never considered himself so much the pet and favourite
-child of Destiny, or loved that lady so well or with such a calm and
+[[Child|child]] of Destiny, or loved that lady so [[Well|well]] or with such a calm and
 virtuous reliance, in all his life.
 
 As to being taken up, himself, for a rioter, and punished with the
@@ -57,40 +57,40 @@ that if any trivial indiscretion on his part should unluckily come out,
 the uncommon usefulness of his office, at present, and the great demand
 for the exercise of its functions, would certainly cause it to be winked
 at, and passed over. In a word, he had played his cards throughout, with
-great care; had changed sides at the very nick of time; had delivered
+great care; had changed sides at the very nick of [[Time|time]]; had delivered
 up two of the most notorious rioters, and a distinguished felon to boot;
 and was quite at his ease.
 
 Saving--for there is a reservation; and even Mr Dennis was not perfectly
 happy--saving for one circumstance; to wit, the forcible detention of
-Dolly and Miss Haredale, in a house almost adjoining his own. This was
+Dolly and Miss Haredale, in a [[house]] almost adjoining his own. This was
 a stumbling-block; for if they were discovered and released, they could,
 by the testimony they had it in their power to give, place him in a
 situation of great jeopardy; and to set them at liberty, first extorting
-from them an oath of secrecy and silence, was a thing not to be thought
+from them an oath of secrecy and [[Silence|silence]], was a thing not to be thought
 of. It was more, perhaps, with an eye to the danger which lurked in this
-quarter, than from his abstract love of conversation with the sex, that
+quarter, than from his abstract [[Love|love]] of conversation with the sex, that
 the hangman, quickening his steps, now hastened into their society,
 cursing the amorous natures of Hugh and Mr Tappertit with great
 heartiness, at every step he took.
 
 When he entered the miserable room in which they were confined, Dolly
-and Miss Haredale withdrew in silence to the remotest corner. But Miss
+and Miss Haredale withdrew in [[Silence|silence]] to the remotest corner. But Miss
 Miggs, who was particularly tender of her reputation, immediately fell
 upon her knees and began to scream very loud, crying, ‘What will become
-of me!’--‘Where is my Simmuns!’--‘Have mercy, good gentlemen, on my
-sex’s weaknesses!’--with other doleful lamentations of that nature,
+of me!’--‘Where is my Simmuns!’--‘Have [[Mercy|mercy]], good gentlemen, on my
+sex’s weaknesses!’--with other doleful lamentations of that [[Nature|nature]],
 which she delivered with great propriety and decorum.
 
 ‘Miss, miss,’ whispered Dennis, beckoning to her with his forefinger,
-‘come here--I won’t hurt you. Come here, my lamb, will you?’
+‘come here--I won’t hurt you. Come here, my [[Lamb|lamb]], will you?’
 
 On hearing this tender epithet, Miss Miggs, who had left off screaming
 when he opened his lips, and had listened to him attentively, began
-again, crying: ‘Oh I’m his lamb! He says I’m his lamb! Oh gracious, why
+again, crying: ‘Oh I’m his [[Lamb|lamb]]! He says I’m his [[Lamb|lamb]]! Oh gracious, why
 wasn’t I born old and ugly! Why was I ever made to be the youngest of
 six, and all of ‘em dead and in their blessed graves, excepting
-one married sister, which is settled in Golden Lion Court, number
+one married sister, which is settled in Golden [[Lion]] [[Court]], number
 twenty-sivin, second bell-handle on the--!’
 
 ‘Don’t I say I an’t a-going to hurt you?’ said Dennis, pointing to a
@@ -105,9 +105,9 @@ and come and sit down here, will you, chuckey?’
 The coaxing tone in which he said these latter words might have failed
 in its object, if he had not accompanied them with sundry sharp jerks of
 his thumb over one shoulder, and with divers winks and thrustings of his
-tongue into his cheek, from which signals the damsel gathered that he
+tongue into his cheek, from which signals the [[Damsel|damsel]] gathered that he
 sought to speak to her apart, concerning Miss Haredale and Dolly. Her
-curiosity being very powerful, and her jealousy by no means inactive,
+curiosity being very powerful, and her [[Jealousy|jealousy]] by no means inactive,
 she arose, and with a great deal of shivering and starting back, and
 much muscular action among all the small bones in her throat, gradually
 approached him.

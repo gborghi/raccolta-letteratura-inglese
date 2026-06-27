@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 33)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 33)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -20,7 +20,7 @@ by his uncle who professes for him an almost painful affection. The fact
 
 that we all know this, however, ought not in fairness to blind us to
 
-the fact that, considered as the first fraud in a detective story, it
+the fact that, considered as the first fraud in a [[Detective|detective]] story, it
 
 has been, with great skill, at once suggested and concealed. Nothing,
 
@@ -36,7 +36,7 @@ it is only afterwards that the frightful fancy breaks upon us that it is
 
 not morbid affection but morbid antagonism. This first mystery (which is
 
-no longer a mystery) of Jasper's guilt, is only worth remarking because
+no longer a mystery) of Jasper's [[Guilt|guilt]], is only worth remarking because
 
 it shows that Dickens meant and felt himself able to mask all his
 
@@ -54,17 +54,17 @@ there was no better gift.
 
 
 
-What was the mystery of Edwin Drood from Dickens's point of view we
+What was the mystery of [[Edwin Drood]] from Dickens's point of view we
 
 shall never know, except perhaps from Dickens in heaven, and then he
 
-will very likely have forgotten. But the mystery of Edwin Drood from our
+will very likely have forgotten. But the mystery of [[Edwin Drood]] from our
 
 point of view, from that of his critics, and those who have with some
 
-courage (after his death) attempted to be his collaborators, is simply
+[[Courage|courage]] (after his [[Death|death]]) attempted to be his collaborators, is simply
 
-this. There is no doubt that Jasper either murdered Drood or supposed
+this. There is no [[Doubt|doubt]] that Jasper either murdered Drood or supposed
 
 that he had murdered him. This certainty we have from the fact that it
 
@@ -80,13 +80,13 @@ needless as his murder. In other words the only question is whether,
 
 while he certainly thought he had murdered Drood, he had really done it.
 
-It need hardly be said that such a doubt would not have been raised for
+It need hardly be said that such a [[Doubt|doubt]] would not have been raised for
 
 nothing; gentlemen like Jasper do not as a rule waste good remorse
 
-except upon successful crime. The origin of the doubt about the real
+except upon successful crime. The origin of the [[Doubt|doubt]] about the real
 
-death of Drood is this. Towards the latter end of the existing chapters
+[[Death|death]] of Drood is this. Towards the latter end of the existing chapters
 
 there appears very abruptly, and with a quite ostentatious air of
 
@@ -130,15 +130,15 @@ argument he had was rather one of general artistic effect. This argument
 
 has been quite perfectly summed up by Mr. Andrew Lang in one sentence:
 
-"If Edwin Drood is dead, there is not much mystery about him." This is
+"If [[Edwin Drood]] is dead, there is not much mystery about him." This is
 
 quite true; Dickens, when writing in so deliberate, nay, dark and
 
-conspiratorial a manner, would surely have kept the death of Drood and
+conspiratorial a manner, would surely have kept the [[Death|death]] of Drood and
 
-the guilt of Jasper hidden a little longer if the only real mystery had
+the [[Guilt|guilt]] of Jasper hidden a little longer if the only real mystery had
 
-been the guilt of Jasper and the death of Drood. It certainly seems
+been the [[Guilt|guilt]] of Jasper and the [[Death|death]] of Drood. It certainly seems
 
 artistically more likely that there was a further mystery of Edwin
 
@@ -148,13 +148,13 @@ not murdered. It is true indeed that Mr. Cumming Walters has a theory of
 
 Datchery (to which I have already darkly alluded) a theory which is wild
 
-enough to be the centre not only of any novel but of any harlequinade.
+enough to be the centre not only of any [[Novel|novel]] but of any harlequinade.
 
 But the point is that even Mr. Cumming Walters's theory, though it makes
 
 the mystery more extraordinary, does not make it any more of a mystery
 
-of Edwin Drood. It should not have been called _The Mystery of Drood_,
+of [[Edwin Drood]]. It should not have been called _The Mystery of Drood_,
 
 but _The Mystery of Datchery_. This is the strongest case for Proctor;
 
@@ -174,7 +174,7 @@ murdered, should not have raised the alarm. Happy young architects,
 
 when nearly strangled by elderly organists, do not generally stroll away
 
-and come back some time afterwards in a wig and with a false name.
+and come back some [[Time|time]] afterwards in a wig and with a false name.
 
 Superficially it would seem almost as odd to find the murderer
 
@@ -182,7 +182,7 @@ investigating the origin of the murder, as to find the corpse
 
 investigating it. To this problem two of the ablest literary critics of
 
-our time, Mr. Andrew Lang and Mr. William Archer (both of them persuaded
+our [[Time|time]], Mr. Andrew Lang and Mr. William Archer (both of them persuaded
 
 generally of the Proctor theory) have especially addressed themselves.
 

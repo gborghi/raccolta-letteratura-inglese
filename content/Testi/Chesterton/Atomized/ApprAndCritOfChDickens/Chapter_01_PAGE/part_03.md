@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Chapter 1: PAGE (part 3)"
+title: "[[ApprAndCritOfChDickens]] — Chapter 1: PAGE (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -28,7 +28,7 @@ though he did not know the millionaire's name. Nobody does. His was not
 
 a type of mind to disentangle either the abstract truths touching the
 
-Socialist, nor the highly personal truth about the millionaire. He was a
+Socialist, nor the highly personal [[Truth|truth]] about the millionaire. He was a
 
 man of impressions; he has never been equalled in the art of conveying
 
@@ -50,27 +50,27 @@ impressive because he did not understand them.
 
 Now for this reason Dickens must definitely be considered in the light
 
-of the changes which his soul foresaw. Thackeray has become classical;
+of the changes which his [[Soul|soul]] foresaw. Thackeray has become classical;
 
 but Dickens has done more: he has remained modern. The grand
 
-retrospective spirit of Thackeray is by its nature attached to places
+retrospective spirit of Thackeray is by its [[Nature|nature]] attached to places
 
-and times; he belongs to Queen Victoria as much as Addison belongs to
+and times; he belongs to [[Queen]] Victoria as much as Addison belongs to
 
-Queen Anne, and it is not only Queen Anne who is dead. But Dickens, in a
+[[Queen]] Anne, and it is not only [[Queen]] Anne who is dead. But Dickens, in a
 
 dark prophetic kind of way, belongs to the developments. He belongs to
 
-the times since his death when Hard Times grew harder, and when
+the times since his [[Death|death]] when Hard Times grew harder, and when
 
 Veneering became not only a Member of Parliament, but a Cabinet
 
-Minister; the times when the very soul and spirit of Fledgeby carried
+Minister; the times when the very [[Soul|soul]] and spirit of Fledgeby carried
 
 war into Africa. Dickens can be criticised as a contemporary of Bernard
 
-Shaw or Anatole France or C. F. G. Masterman. In talking of him one need
+[[Shaw]] or Anatole France or C. F. G. Masterman. In talking of him one need
 
 no longer talk merely of the Manchester School or Puseyism or the Charge
 

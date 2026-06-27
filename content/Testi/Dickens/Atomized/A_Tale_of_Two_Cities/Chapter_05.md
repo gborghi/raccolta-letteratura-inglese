@@ -57,14 +57,14 @@ most abundant were raked into a gridiron-pattern by fingers, these
 demonstrations ceased, as suddenly as they had broken out. The man who
 had left his saw sticking in the firewood he was cutting, set it in
 motion again; the women who had left on a door-step the little pot of
-hot ashes, at which she had been trying to soften the pain in her own
-starved fingers and toes, or in those of her child, returned to it; men
+hot ashes, at which she had been trying to soften the [[Pain|pain]] in her own
+starved fingers and toes, or in those of her [[Child|child]], returned to it; men
 with bare arms, matted locks, and cadaverous faces, who had emerged into
-the winter light from cellars, moved away, to descend again; and a gloom
+the [[Winter|winter]] light from cellars, moved away, to descend again; and a gloom
 gathered on the scene that appeared more natural to it than sunshine.
 
 The wine was red wine, and had stained the ground of the narrow street
-in the suburb of Saint Antoine, in Paris, where it was spilled. It had
+in the suburb of Saint Antoine, in [[Paris]], where it was spilled. It had
 stained many hands, too, and many faces, and many naked feet, and many
 wooden shoes. The hands of the man who sawed the wood, left red marks
 on the billets; and the forehead of the woman who nursed her baby, was
@@ -72,9 +72,9 @@ stained with the stain of the old rag she wound about her head again.
 Those who had been greedy with the staves of the cask, had acquired a
 tigerish smear about the mouth; and one tall joker so besmirched, his
 head more out of a long squalid bag of a nightcap than in it, scrawled
-upon a wall with his finger dipped in muddy wine-lees--BLOOD.
+upon a wall with his finger dipped in muddy wine-lees--[[Blood|BLOOD]].
 
-The time was to come, when that wine too would be spilled on the
+The [[Time|time]] was to come, when that wine too would be spilled on the
 street-stones, and when the stain of it would be red upon many there.
 
 And now that the cloud settled on Saint Antoine, which a momentary
@@ -84,18 +84,18 @@ waiting on the saintly presence--nobles of great power all of them;
 but, most especially the last. Samples of a people that had undergone a
 terrible grinding and regrinding in the mill, and certainly not in the
 fabulous mill which ground old people young, shivered at every corner,
-passed in and out at every doorway, looked from every window, fluttered
-in every vestige of a garment that the wind shook. The mill which
+passed in and out at every doorway, looked from every [[Window|window]], fluttered
+in every vestige of a garment that the [[Wind|wind]] shook. The mill which
 had worked them down, was the mill that grinds young people old; the
-children had ancient faces and grave voices; and upon them, and upon the
+children had ancient faces and [[Grave|grave]] voices; and upon them, and upon the
 grown faces, and ploughed into every furrow of age and coming up afresh,
 was the sigh, Hunger. It was prevalent everywhere. Hunger was pushed out
 of the tall houses, in the wretched clothing that hung upon poles and
 lines; Hunger was patched into them with straw and rag and wood and
-paper; Hunger was repeated in every fragment of the small modicum of
+paper; Hunger was repeated in every [[Fragment|fragment]] of the small modicum of
 firewood that the man sawed off; Hunger stared down from the smokeless
 chimneys, and started up from the filthy street that had no offal,
-among its refuse, of anything to eat. Hunger was the inscription on the
+among its refuse, of anything to eat. Hunger was the [[Inscription|inscription]] on the
 baker’s shelves, written in every small loaf of his scanty stock of
 bad bread; at the sausage-shop, in every dead-dog preparation that
 was offered for sale. Hunger rattled its dry bones among the roasting
@@ -109,7 +109,7 @@ diverging, all peopled by rags and nightcaps, and all smelling of rags
 and nightcaps, and all visible things with a brooding look upon them
 that looked ill. In the hunted air of the people there was yet some
 wild-beast thought of the possibility of turning at bay. Depressed and
-slinking though they were, eyes of fire were not wanting among them; nor
+slinking though they were, eyes of [[Fire|fire]] were not wanting among them; nor
 compressed lips, white with what they suppressed; nor foreheads knitted
 into the likeness of the gallows-rope they mused about enduring, or
 inflicting. The trade signs (and they were almost as many as the shops)
@@ -119,25 +119,25 @@ meagre loaves. The people rudely pictured as drinking in the wine-shops,
 croaked over their scanty measures of thin wine and beer, and were
 gloweringly confidential together. Nothing was represented in a
 flourishing condition, save tools and weapons; but, the cutler’s knives
-and axes were sharp and bright, the smith’s hammers were heavy, and the
+and axes were sharp and bright, the [[smith]]’s hammers were heavy, and the
 gunmaker’s stock was murderous. The crippling stones of the pavement,
-with their many little reservoirs of mud and water, had no footways, but
+with their many little reservoirs of mud and [[Water|water]], had no footways, but
 broke off abruptly at the doors. The kennel, to make amends, ran down
 the middle of the street--when it ran at all: which was only after heavy
 rains, and then it ran, by many eccentric fits, into the houses. Across
 the streets, at wide intervals, one clumsy lamp was slung by a rope and
-pulley; at night, when the lamplighter had let these down, and lighted,
+pulley; at [[Night|night]], when the lamplighter had let these down, and lighted,
 and hoisted them again, a feeble grove of dim wicks swung in a sickly
 manner overhead, as if they were at sea. Indeed they were at sea, and
-the ship and crew were in peril of tempest.
+the [[Ship|ship]] and crew were in peril of tempest.
 
-For, the time was to come, when the gaunt scarecrows of that region
+For, the [[Time|time]] was to come, when the gaunt scarecrows of that region
 should have watched the lamplighter, in their idleness and hunger, so
 long, as to conceive the idea of improving on his method, and hauling
 up men by those ropes and pulleys, to flare upon the darkness of their
-condition. But, the time was not come yet; and every wind that blew over
-France shook the rags of the scarecrows in vain, for the birds, fine of
-song and feather, took no warning.
+condition. But, the [[Time|time]] was not come yet; and every [[Wind|wind]] that blew over
+France shook the rags of the scarecrows in vain, for the [[Birds|birds]], fine of
+[[Song|song]] and feather, took no warning.
 
 The wine-shop was a corner shop, better than most others in its
 appearance and degree, and the master of the wine-shop had stood outside
@@ -156,14 +156,14 @@ the way with his tribe. It missed its mark, and completely failed, as is
 often the way with his tribe too.
 
 “What now? Are you a subject for the mad hospital?” said the wine-shop
-keeper, crossing the road, and obliterating the jest with a handful of
+keeper, crossing the [[Road|road]], and obliterating the jest with a handful of
 mud, picked up for the purpose, and smeared over it. “Why do you write
 in the public streets? Is there--tell me thou--is there no other place
 to write such words in?”
 
 In his expostulation he dropped his cleaner hand (perhaps accidentally,
 perhaps not) upon the joker’s heart. The joker rapped it with his
-own, took a nimble spring upward, and came down in a fantastic dancing
+own, took a nimble [[Spring|spring]] upward, and came down in a fantastic dancing
 attitude, with one of his stained shoes jerked off his foot into his
 hand, and held out. A joker of an extremely, not to say wolfishly
 practical character, he looked, under those circumstances.
@@ -171,7 +171,7 @@ practical character, he looked, under those circumstances.
 “Put it on, put it on,” said the other. “Call wine, wine; and finish
 there.” With that advice, he wiped his soiled hand upon the joker’s
 dress, such as it was--quite deliberately, as having dirtied the hand on
-his account; and then recrossed the road and entered the wine-shop.
+his account; and then recrossed the [[Road|road]] and entered the wine-shop.
 
 This wine-shop keeper was a bull-necked, martial-looking man of thirty,
 and he should have been of a hot temperament, for, although it was a
@@ -185,21 +185,21 @@ resolution and a set purpose; a man not desirable to be met, rushing
 down a narrow pass with a gulf on either side, for nothing would turn
 the man.
 
-Madame Defarge, his wife, sat in the shop behind the counter as he
-came in. Madame Defarge was a stout woman of about his own age, with
+[[Madame Defarge]], his wife, sat in the shop behind the counter as he
+came in. [[Madame Defarge]] was a stout woman of about his own age, with
 a watchful eye that seldom seemed to look at anything, a large hand
 heavily ringed, a steady face, strong features, and great composure of
-manner. There was a character about Madame Defarge, from which one might
+manner. There was a character about [[Madame Defarge]], from which one might
 have predicated that she did not often make mistakes against herself
-in any of the reckonings over which she presided. Madame Defarge being
+in any of the reckonings over which she presided. [[Madame Defarge]] being
 sensitive to cold, was wrapped in fur, and had a quantity of bright
 shawl twined about her head, though not to the concealment of her large
 earrings. Her knitting was before her, but she had laid it down to pick
 her teeth with a toothpick. Thus engaged, with her right elbow supported
-by her left hand, Madame Defarge said nothing when her lord came in, but
+by her left hand, [[Madame Defarge]] said nothing when her lord came in, but
 coughed just one grain of cough. This, in combination with the lifting
 of her darkly defined eyebrows over her toothpick by the breadth of a
-line, suggested to her husband that he would do well to look round the
+line, suggested to her husband that he would do [[Well|well]] to look round the
 shop among the customers, for any new customer who had dropped in while
 he stepped over the way.
 
@@ -221,17 +221,17 @@ all the spilt wine swallowed?”
 
 “Every drop, Jacques,” answered Monsieur Defarge.
 
-When this interchange of Christian name was effected, Madame Defarge,
+When this interchange of Christian name was effected, [[Madame Defarge]],
 picking her teeth with her toothpick, coughed another grain of cough,
 and raised her eyebrows by the breadth of another line.
 
 “It is not often,” said the second of the three, addressing Monsieur
 Defarge, “that many of these miserable beasts know the taste of wine, or
-of anything but black bread and death. Is it not so, Jacques?”
+of anything but black bread and [[Death|death]]. Is it not so, Jacques?”
 
 “It is so, Jacques,” Monsieur Defarge returned.
 
-At this second interchange of the Christian name, Madame Defarge, still
+At this second interchange of the Christian name, [[Madame Defarge]], still
 using her toothpick with profound composure, coughed another grain of
 cough, and raised her eyebrows by the breadth of another line.
 
@@ -245,12 +245,12 @@ right, Jacques?”
 “You are right, Jacques,” was the response of Monsieur Defarge.
 
 This third interchange of the Christian name was completed at the moment
-when Madame Defarge put her toothpick by, kept her eyebrows up, and
+when [[Madame Defarge]] put her toothpick by, kept her eyebrows up, and
 slightly rustled in her seat.
 
 “Hold then! True!” muttered her husband. “Gentlemen--my wife!”
 
-The three customers pulled off their hats to Madame Defarge, with three
+The three customers pulled off their hats to [[Madame Defarge]], with three
 flourishes. She acknowledged their homage by bending her head, and
 giving them a quick look. Then she glanced in a casual manner round the
 wine-shop, took up her knitting with great apparent calmness and repose
@@ -260,7 +260,7 @@ of spirit, and became absorbed in it.
 upon her, “good day. The chamber, furnished bachelor-fashion, that you
 wished to see, and were inquiring for when I stepped out, is on the
 fifth floor. The doorway of the staircase gives on the little courtyard
-close to the left here,” pointing with his hand, “near to the window of
+close to the left here,” pointing with his hand, “near to the [[Window|window]] of
 my establishment. But, now that I remember, one of you has already been
 there, and can show the way. Gentlemen, adieu!”
 
@@ -274,18 +274,18 @@ the door.
 Their conference was very short, but very decided. Almost at the first
 word, Monsieur Defarge started and became deeply attentive. It had
 not lasted a minute, when he nodded and went out. The gentleman then
-beckoned to the young lady, and they, too, went out. Madame Defarge
+beckoned to the young lady, and they, too, went out. [[Madame Defarge]]
 knitted with nimble fingers and steady eyebrows, and saw nothing.
 
-Mr. Jarvis Lorry and Miss Manette, emerging from the wine-shop thus,
+Mr. [[Jarvis Lorry]] and Miss Manette, emerging from the wine-shop thus,
 joined Monsieur Defarge in the doorway to which he had directed his own
 company just before. It opened from a stinking little black courtyard,
 and was the general public entrance to a great pile of houses, inhabited
 by a great number of people. In the gloomy tile-paved entry to the
 gloomy tile-paved staircase, Monsieur Defarge bent down on one knee
-to the child of his old master, and put her hand to his lips. It was
+to the [[Child|child]] of his old master, and put her hand to his lips. It was
 a gentle action, but not at all gently done; a very remarkable
-transformation had come over him in a few seconds. He had no good-humour
+transformation had come over him in a few seconds. He had no good-[[Humour|humour]]
 in his face, nor any openness of aspect left, but had become a secret,
 angry, dangerous man.
 
@@ -293,16 +293,16 @@ angry, dangerous man.
  Thus, Monsieur Defarge, in a stern voice, to Mr. Lorry, as they began
 ascending the stairs.
 
-“Is he alone?” the latter whispered.
+“Is he [[Alone|alone]]?” the latter whispered.
 
-“Alone! God help him, who should be with him!” said the other, in the
+“[[Alone]]! God help him, who should be with him!” said the other, in the
 same low voice.
 
-“Is he always alone, then?”
+“Is he always [[Alone|alone]], then?”
 
 “Yes.”
 
-“Of his own desire?”
+“Of his own [[Desire|desire]]?”
 
 “Of his own necessity. As he was, when I first saw him after they
 found me and demanded to know if I would take him, and, at my peril be
@@ -318,19 +318,19 @@ forcible. Mr. Lorry’s spirits grew heavier and heavier, as he and his
 two companions ascended higher and higher.
 
 Such a staircase, with its accessories, in the older and more crowded
-parts of Paris, would be bad enough now; but, at that time, it was vile
+parts of [[Paris]], would be bad enough now; but, at that [[Time|time]], it was vile
 indeed to unaccustomed and unhardened senses. Every little habitation
 within the great foul nest of one high building--that is to say,
 the room or rooms within every door that opened on the general
 staircase--left its own heap of refuse on its own landing, besides
 flinging other refuse from its own windows. The uncontrollable and
 hopeless mass of decomposition so engendered, would have polluted
-the air, even if poverty and deprivation had not loaded it with their
+the air, even if [[Poverty|poverty]] and deprivation had not loaded it with their
 intangible impurities; the two bad sources combined made it almost
 insupportable. Through such an atmosphere, by a steep dark shaft of dirt
-and poison, the way lay. Yielding to his own disturbance of mind, and to
+and [[Poison|poison]], the way lay. Yielding to his own disturbance of mind, and to
 his young companion’s agitation, which became greater every instant, Mr.
-Jarvis Lorry twice stopped to rest. Each of these stoppages was made
+[[Jarvis Lorry]] twice stopped to rest. Each of these stoppages was made
 at a doleful grating, by which any languishing good airs that were left
 uncorrupted, seemed to escape, and all spoilt and sickly vapours seemed
 to crawl in. Through the rusted bars, tastes, rather than glimpses, were
@@ -339,7 +339,7 @@ or lower than the summits of the two great towers of Notre-Dame, had any
 promise on it of healthy life or wholesome aspirations.
 
 At last, the top of the staircase was gained, and they stopped for the
-third time. There was yet an upper staircase, of a steeper inclination
+third [[Time|time]]. There was yet an upper staircase, of a steeper inclination
 and of contracted dimensions, to be ascended, before the garret story
 was reached. The keeper of the wine-shop, always going a little in
 advance, and always going on the side which Mr. Lorry took, as though he
@@ -370,23 +370,23 @@ are possible, and not only possible, but done--done, see you!--under
 that sky there, every day. Long live the Devil. Let us go on.”
 
 This dialogue had been held in so very low a whisper, that not a word
-of it had reached the young lady’s ears. But, by this time she trembled
+of it had reached the young lady’s ears. But, by this [[Time|time]] she trembled
 under such strong emotion, and her face expressed such deep anxiety,
 and, above all, such dread and terror, that Mr. Lorry felt it incumbent
 on him to speak a word or two of reassurance.
 
-“Courage, dear miss! Courage! Business! The worst will be over in a
+“[[Courage]], dear miss! [[Courage]]! Business! The worst will be over in a
 moment; it is but passing the room-door, and the worst is over. Then,
 all the good you bring to him, all the relief, all the happiness you
 bring to him, begin. Let our good friend here, assist you on that side.
-That’s well, friend Defarge. Come, now. Business, business!”
+That’s [[Well|well]], friend Defarge. Come, now. Business, business!”
 
 They went up slowly and softly. The staircase was short, and they were
 soon at the top. There, as it had an abrupt turn in it, they came all at
 once in sight of three men, whose heads were bent down close together at
 the side of a door, and who were intently looking into the room to which
 the door belonged, through some chinks or holes in the wall. On hearing
-footsteps close at hand, these three turned, and rose, and showed
+footsteps close at hand, these three turned, and [[Rose|rose]], and showed
 themselves to be the three of one name who had been drinking in the
 wine-shop.
 
@@ -396,16 +396,16 @@ Defarge. “Leave us, good boys; we have business here.”
 The three glided by, and went silently down.
 
 There appearing to be no other door on that floor, and the keeper of
-the wine-shop going straight to this one when they were left alone, Mr.
+the wine-shop going straight to this one when they were left [[Alone|alone]], Mr.
 Lorry asked him in a whisper, with a little anger:
 
 “Do you make a show of Monsieur Manette?”
 
 “I show him, in the way you have seen, to a chosen few.”
 
-“Is that well?”
+“Is that [[Well|well]]?”
 
-“_I_ think it is well.”
+“_I_ think it is [[Well|well]].”
 
 “Who are the few? How do you choose them?”
 
@@ -446,19 +446,19 @@ Defarge drew out the key, closed the door, locked it on the inside,
 took out the key again, and held it in his hand. All this he did,
 methodically, and with as loud and harsh an accompaniment of noise as he
 could make. Finally, he walked across the room with a measured tread to
-where the window was. He stopped there, and faced round.
+where the [[Window|window]] was. He stopped there, and faced round.
 
 The garret, built to be a depository for firewood and the like, was dim
-and dark: for, the window of dormer shape, was in truth a door in the
+and dark: for, the [[Window|window]] of dormer shape, was in [[Truth|truth]] a door in the
 roof, with a little crane over it for the hoisting up of stores from
 the street: unglazed, and closing up the middle in two pieces, like any
 other door of French construction. To exclude the cold, one half of this
 door was fast closed, and the other was opened but a very little way.
 Such a scanty portion of light was admitted through these means, that it
 was difficult, on first coming in, to see anything; and long habit
-alone could have slowly formed in any one, the ability to do any work
+[[Alone|alone]] could have slowly formed in any one, the ability to do any work
 requiring nicety in such obscurity. Yet, work of that kind was being
 done in the garret; for, with his back towards the door, and his face
-towards the window where the keeper of the wine-shop stood looking at
+towards the [[Window|window]] where the keeper of the wine-shop stood looking at
 him, a white-haired man sat on a low bench, stooping forward and very
 busy, making shoes.

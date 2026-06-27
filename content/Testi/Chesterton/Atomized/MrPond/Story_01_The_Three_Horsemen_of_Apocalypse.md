@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Three Horsemen of Apocalypse"
+title: "[[MrPond]] — The Three Horsemen of [[Apocalypse]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/MrPond-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-THE THREE HORSEMEN OF APOCALYPSE
+THE THREE HORSEMEN OF [[Apocalypse|APOCALYPSE]]
 
 
 
@@ -24,35 +24,35 @@ The curious and sometimes creepy effect which Mr. Pond produced
 
 upon me, despite his commonplace courtesy and dapper decorum, was
 
-possibly connected with some memories of childhood; and the vague
+possibly connected with some memories of [[Childhood|childhood]]; and the vague
 
-verbal association of his name.  He was a Government official who
+verbal association of his name.  He was a [[government|Government]] official who
 
 was an old friend of my father; and I fancy my infantile
 
-imagination had somehow mixed up the name of Mr. Pond with the pond
+[[Imagination|imagination]] had somehow mixed up the name of Mr. Pond with the pond
 
-in the garden.  When one came to think of it, he was curiously like
+in the [[Garden|garden]].  When one came to think of it, he was curiously like
 
-the pond in the garden.  He was so quiet at all normal times, so
+the pond in the [[Garden|garden]].  He was so quiet at all normal times, so
 
 neat in shape and so shiny, so to speak, in his ordinary
 
 reflections of earth and sky and the common daylight.  And yet I
 
-knew there were some queer things in the pond in the garden.  Once
+knew there were some queer things in the pond in the [[Garden|garden]].  Once
 
 in a hundred times, on one or two days during the whole year, the
 
 pond would look oddly different; or there would come a flitting
 
-shadow or a flash in its flat serenity; and a fish or a frog or
+[[Shadow|shadow]] or a flash in its flat serenity; and a fish or a frog or
 
-some more grotesque creature would show itself to the sky.  And I
+some more [[Grotesque|grotesque]] creature would show itself to the sky.  And I
 
 knew there were monsters in Mr. Pond also: monsters in his mind
 
-which rose only for a moment to the surface and sank again.  They
+which [[Rose|rose]] only for a moment to the surface and sank again.  They
 
 took the form of monstrous remarks, in the middle of all his mild
 
@@ -96,19 +96,19 @@ earth he meant.
 
 
 
-He was talking quite quietly one day to Sir Hubert Wotton, the well-
+He was talking quite quietly one day to Sir [[Hubert]] Wotton, the [[Well|well]]-
 
 known diplomatist; they were seated under gaily-striped tents or
 
-giant parasols in our own garden, and gazing towards the pond which
+giant parasols in our own [[Garden|garden]], and gazing towards the pond which
 
 I had perversely associated with him.  They happened to be talking
 
-about a part of the world that both of them knew well, and very few
+about a part of the world that both of them knew [[Well|well]], and very few
 
 people in Western Europe at all: the vast flats fading into fens
 
-and swamps that stretch across Pomerania and Poland and Russia and
+and swamps that stretch across Pomerania and Poland and [[Russia]] and
 
 the rest; right away, for all I know, into the Siberian deserts.
 
@@ -116,7 +116,7 @@ And Mr. Pond recalled that, across a region where the swamps are
 
 deepest and intersected by pools and sluggish rivers, there runs a
 
-single road raised on a high causeway with steep and sloping sides:
+single [[Road|road]] raised on a high causeway with steep and sloping sides:
 
 a straight path safe enough for the ordinary pedestrian, but barely
 
@@ -126,7 +126,7 @@ beginning of the story.
 
 
 
-It concerned a time not very long ago, but a time in which horsemen
+It concerned a [[Time|time]] not very long ago, but a [[Time|time]] in which horsemen
 
 were still used much more than they are at present, though already
 
@@ -144,7 +144,7 @@ necessary to expound the politics of the matter, or discuss its
 
 rights and wrongs here.  Let us merely say, more lightly, that Mr.
 
-Pond amused the company with a riddle.
+Pond amused the company with a [[Riddle|riddle]].
 
 
 
@@ -172,7 +172,7 @@ in general command; and, as it happened, his own old regiment,
 
 which was still his favourite regiment, the White Hussars, was
 
-posted nearest to the beginning of the great embanked road.  Of
+posted nearest to the beginning of the great embanked [[Road|road]].  Of
 
 course, everything was spick and span, down to every detail of the
 
@@ -186,7 +186,7 @@ them for that; I sometimes feel the old epoch of heraldry was a
 
 finer thing than all that epoch of imitative colouring, that came
 
-in with natural history and the worship of chameleons and beetles.
+in with natural [[history]] and the worship of chameleons and beetles.
 
 Anyhow, this crack regiment of cavalry in the Prussian service
 
@@ -196,13 +196,13 @@ element in the fiasco.  But it wasn't only the uniforms; it was the
 
 uniformity.  The whole thing went wrong because the discipline was
 
-too good.  Grock's soldiers obeyed him too well; so he simply
+too good.  Grock's soldiers obeyed him too [[Well|well]]; so he simply
 
 couldn't do a thing he wanted."
 
 
 
-"I suppose that's a paradox," said Wotton, heaving a sigh.  "Of
+"I suppose that's a [[Paradox|paradox]]," said Wotton, heaving a sigh.  "Of
 
 course, it's very clever and all that; but really, it's all
 
@@ -286,17 +286,17 @@ sad and even a little anxious.
 
 Mr. Pond, interrupting his monologue, was almost in a twitter of
 
-apologies:  "I'm afraid I'm talking too much, as usual; the truth
+apologies:  "I'm afraid I'm talking too much, as usual; the [[Truth|truth]]
 
 is I was talking about that poet, Petrowski, who was nearly
 
-executed in Poznan--quite a long time ago.  The military
+executed in Poznan--quite a long [[Time|time]] ago.  The military
 
 authorities on the spot hesitated and were going to let him go,
 
 unless they had direct orders from Marshal Von Grock or higher; but
 
-Marshal Von Grock was quite determined on the poet's death; and
+Marshal Von Grock was quite determined on the poet's [[Death|death]]; and
 
 sent orders for his execution that very evening.  A reprieve was
 
@@ -330,7 +330,7 @@ us another of those stories, Grandpapa."
 
 "It's a perfectly true story," protested Pond, "and it happened
 
-exactly as I say.  It isn't any paradox or anything like that.
+exactly as I say.  It isn't any [[Paradox|paradox]] or anything like that.
 
 Only, of course, you have to know the story to see how simple it
 
@@ -362,9 +362,9 @@ fact that he was a national poet but an international singer.  That
 
 is, he happened to have a very fine and powerful voice, with which
 
-he sang his own patriotic songs in half the concert halls of the
+he sang his own patriotic [[songs]] in half the concert halls of the
 
-world.  At home, of course, he was a torch and trumpet of
+world.  At [[Home|home]], of course, he was a torch and trumpet of
 
 revolutionary hopes, especially then, in the sort of international
 
@@ -372,7 +372,7 @@ crisis in which practical politicians disappear, and their place is
 
 taken by men either more or less practical than themselves.  For
 
-the true idealist and the real realist have at least the love of
+the true idealist and the real realist have at least the [[Love|love]] of
 
 action in common.  And the practical politician thrives by offering
 
@@ -384,7 +384,7 @@ but in neither trade can a man win a reputation by doing nothing.
 
 It is odd that these two extreme types stood at the two extreme
 
-ends of that one ridge and road among the marshes--the Polish poet
+ends of that one ridge and [[Road|road]] among the marshes--the Polish poet
 
 a prisoner in the town at one end, the Prussian soldier a commander
 
@@ -396,13 +396,13 @@ For Marshal Von Grock was a true Prussian, not only entirely
 
 practical but entirely prosaic.  He had never read a line of poetry
 
-himself; but he was no fool.  He had the sense of reality which
+himself; but he was no [[Fool|fool]].  He had the sense of reality which
 
 belongs to soldiers; and it prevented him from falling into the
 
 asinine error of the practical politician.  He did not scoff at
 
-visions; he only hated them.  He knew that a poet or a prophet
+visions; he only hated them.  He knew that a poet or a [[Prophet|prophet]]
 
 could be as dangerous as an army.  And he was resolved that the
 
@@ -420,7 +420,7 @@ his massive head looked quite bald, though it was only closely
 
 shaven.  His whole face was also shaven; and had no covering but a
 
-pair of very strong spectacles, which alone gave an enigmatic look
+pair of very strong spectacles, which [[Alone|alone]] gave an enigmatic look
 
 to his heavy and sagging visage.  He turned to a Lieutenant
 
@@ -432,7 +432,7 @@ variety, whose blue saucer-eyes were staring vacantly.
 
 "Lieutenant Von Hocheimer," he said, "did you say His Highness
 
-would reach the camp to-night?"
+would reach the camp to-[[Night|night]]?"
 
 
 
@@ -444,7 +444,7 @@ new trick of talking.
 
 
 
-"Then there is just time," said Grock, "to send you with that order
+"Then there is just [[Time|time]]," said Grock, "to send you with that order
 
 for execution, before he arrives.  We must serve His Highness in
 
@@ -478,7 +478,7 @@ eyes of the Lieutenant could have seen anything of the sort, or if
 
 they could have opened any wider even if they had, they might as
 
-well have opened wide enough at the transformation made by the
+[[Well|well]] have opened wide enough at the transformation made by the
 
 gesture.  It was like the removal of an iron mask.  An instant
 
@@ -486,7 +486,7 @@ before, Marshal Von Grock had looked uncommonly like a rhinoceros,
 
 with his heavy folds of leathery cheek and jaw.  Now he was a new
 
-kind of monster: a rhinoceros with the eyes of an eagle.  The bleak
+kind of [[Monster|monster]]: a rhinoceros with the eyes of an eagle.  The bleak
 
 blaze of his old eyes would have told almost anybody that he had
 
@@ -538,7 +538,7 @@ presence of a cow or a cabbage.
 
 
 
-"Again and again, in the history of our Royal House, the servant
+"Again and again, in the [[history]] of our Royal [[house|House]], the servant
 
 has saved the master," went on Grock, "and often got little but
 
@@ -550,13 +550,13 @@ we were successful and we were strong.  They cursed Bismarck for
 
 deceiving even his own master over the Ems telegram; but it made
 
-that master the master of the world.  Paris was taken; Austria
+that master the master of the world.  [[Paris]] was taken; Austria
 
-dethroned; and we were safe.  To-night Paul Petrowski will be dead;
+dethroned; and we were safe.  To-[[Night|night]] Paul Petrowski will be dead;
 
 and we shall again be safe.  That is why I am sending you with his
 
-death-warrant at once.  You understand that you are bearing the
+[[Death|death]]-warrant at once.  You understand that you are bearing the
 
 order for Petrowski's instant execution--and that you must remain
 
@@ -568,27 +568,27 @@ The inarticulate Hocheimer saluted; he could understand that all
 
 right.  And he had some qualities of a dog, after all: he was as
 
-brave as a bulldog; and he could be faithful to the death.
+brave as a bulldog; and he could be faithful to the [[Death|death]].
 
 
 
 "You must mount and ride at once," went on Grock, "and see that
 
-nothing delays or thwarts you.  I know for a fact that fool Arnheim
+nothing delays or thwarts you.  I know for a fact that [[Fool|fool]] Arnheim
 
-is going to release Petrowski to-night, if no message comes.  Make
+is going to release Petrowski to-[[Night|night]], if no message comes.  Make
 
-all speed."
+all [[Speed|speed]]."
 
 
 
-And the Lieutenant again saluted and went out into the night; and
+And the Lieutenant again saluted and went out into the [[Night|night]]; and
 
 mounting one of the superb white chargers that were part of the
 
 splendour of that splendid corps, began to ride along the high,
 
-narrow road along the ridge, almost like the top of a wall, which
+narrow [[Road|road]] along the ridge, almost like the top of a wall, which
 
 overlooked the dark horizon, the dim patterns and decaying colours
 
@@ -596,9 +596,9 @@ of those mighty marshes.
 
 
 
-Almost as the last echoes of his horse's hoofs died away along the
+Almost as the last echoes of his [[Horse|horse]]'s hoofs died away along the
 
-causeway, Von Grock rose and put on his helmet and his spectacles
+causeway, Von Grock [[Rose|rose]] and put on his helmet and his spectacles
 
 and came to the door of his tent; but for another reason.  The
 
@@ -646,7 +646,7 @@ passion of his life was music.
 
 
 
-In truth, the grumbling Grock was inclined to connect with that
+In [[Truth|truth]], the grumbling Grock was inclined to connect with that
 
 remote eccentricity the, to him, highly irritating and exasperating
 
@@ -658,15 +658,15 @@ labyrinthine parade of the military etiquette of their nation; but
 
 plunged at once impatiently into the subject which Grock most
 
-desired to see left alone: the subject of this infernal Pole, his
+desired to see left [[Alone|alone]]: the subject of this infernal Pole, his
 
 popularity and his peril; for the Prince had heard some of the
 
-man's songs sung in half the opera-houses of Europe.
+man's [[songs]] sung in half the opera-houses of Europe.
 
 
 
-"To talk of executing a man like that is madness," said the Prince,
+"To talk of executing a man like that is [[Madness|madness]]," said the Prince,
 
 scowling under his black helmet.  "He is not a common Pole.  He is
 
@@ -684,7 +684,7 @@ be dead.  He would be deified; but he would be dead.  Whatever he
 
 means to do, he would never do it.  Whatever he is doing, he would
 
-do no more.  Death is the fact of all facts; and I am rather fond
+do no more.  [[Death]] is the fact of all facts; and I am rather fond
 
 of facts."
 
@@ -706,13 +706,13 @@ for a quarrel with Weimar!"
 
 
 
-"For the safety of your Royal House," answered Grock, "without one
+"For the safety of your Royal [[house|House]]," answered Grock, "without one
 
 instant's hesitation."
 
 
 
-There was a short silence and the Prince said sharply and suddenly:
+There was a short [[Silence|silence]] and the Prince said sharply and suddenly:
 
 "What does this mean?"
 
@@ -726,7 +726,7 @@ execution of Petrowski."
 
 
 
-The Prince rose like a great dark eagle, the swirl of his cloak
+The Prince [[Rose|rose]] like a great dark eagle, the swirl of his cloak
 
 like the sweep of mighty wings; and all men knew that a wrath
 
@@ -742,21 +742,21 @@ motionless as a stone.
 
 
 
-"Who has the best horse in your cavalry division, General?  Who is
+"Who has the best [[Horse|horse]] in your cavalry division, General?  Who is
 
 the best rider?"
 
 
 
-"Arnold Von Schacht has a horse that might beat a racehorse,"
+"Arnold Von Schacht has a [[Horse|horse]] that might beat a racehorse,"
 
-replied the General promptly.  "And rides it as well as a jockey.
+replied the General promptly.  "And rides it as [[Well|well]] as a jockey.
 
 He is of the White Hussars."
 
 
 
-"Very well," said the Prince, with the same new ring in his voice.
+"Very [[Well|well]]," said the Prince, with the same new ring in his voice.
 
 "Let him ride at once after the man with this mad message and stop
 
@@ -780,7 +780,7 @@ Petrowski the Pole.
 
 
 
-Then amid a dead silence, in the midst of which old Grock stood
+Then amid a dead [[Silence|silence]], in the midst of which old Grock stood
 
 with an unblinking stare like a stone idol of prehistoric times, he
 
@@ -796,7 +796,7 @@ medal on the white uniform of the Hussars, clicked his heels, and
 
 received the folded paper from the Prince; then, striding out, he
 
-sprang on his horse and flew along the high, narrow road like a
+sprang on his [[Horse|horse]] and flew along the high, narrow [[Road|road]] like a
 
 silver arrow or a shooting star.
 
@@ -820,7 +820,7 @@ and wiry man, with a great scar across his jaw, rather dark for a
 
 German, unless all his colours had been changed by years of smoke
 
-and storm and bad weather.  He saluted and stood stiffly at
+and [[Storm|storm]] and bad weather.  He saluted and stood stiffly at
 
 attention, as the Marshal slowly raised his eyes to him.  And vast
 
@@ -830,7 +830,7 @@ him, and that one battered non-commissioned officer, it is true
 
 that of all the men who have talked in this tale, these two men
 
-alone looked and understood each other without words.
+[[Alone|alone]] looked and understood each other without words.
 
 
 
@@ -852,7 +852,7 @@ shooting that damned old woman who would not give us information
 
 about the ambush.  The incident caused considerable comment at the
 
-time, even in some of our own circles.  Influence, however, was
+[[Time|time]], even in some of our own circles.  Influence, however, was
 
 exerted on your side.  My influence."
 
@@ -870,17 +870,17 @@ point essential to his own safety and that of the Fatherland.
 
 Under this error, he has rashly sent a reprieve to the Pole
 
-Petrowski, who is to be executed to-night.  I repeat: who is to be
+Petrowski, who is to be executed to-[[Night|night]].  I repeat: who is to be
 
-executed to-night.  You must immediately ride after Von Schacht,
+executed to-[[Night|night]].  You must immediately ride after Von Schacht,
 
 who carried the reprieve, and stop him."
 
 
 
-"I can hardly hope to overtake him, Marshal," said Sergeant
+"I can hardly [[Hope|hope]] to overtake him, Marshal," said Sergeant
 
-Schwartz.  "He has the swiftest horse in the regiment, and is the
+Schwartz.  "He has the swiftest [[Horse|horse]] in the regiment, and is the
 
 finest rider."
 
@@ -898,7 +898,7 @@ discharge of a carbine might attract his attention."
 
 
 
-And then the dark sergeant saluted for the third time; and his grim
+And then the dark sergeant saluted for the third [[Time|time]]; and his grim
 
 mouth was again shut tight.
 
@@ -920,7 +920,7 @@ And Sergeant Schwartz smiled still more grimly; and he also,
 
 lifting the flap of the tent, went out into the darkness and
 
-mounted his horse and rode.
+mounted his [[Horse|horse]] and rode.
 
 
 
@@ -930,7 +930,7 @@ indulge in imaginative ideas for their own sake.  But because he
 
 also was in some imperfect manner human, he could not but feel, on
 
-such a night and such an errand, the oppressiveness of that inhuman
+such a [[Night|night]] and such an errand, the oppressiveness of that inhuman
 
 landscape.  While he rode along that one abrupt ridge, there spread
 
@@ -952,7 +952,7 @@ of all things.
 
 He was atheist, like so many thousands of dull, clever men in
 
-Northern Germany; but he was not that happier sort of pagan who can
+Northern [[Germany]]; but he was not that happier sort of pagan who can
 
 see in human progress a natural flowering of the earth.  That world
 
@@ -970,7 +970,7 @@ seen from above like a sprawling map, seemed more like the chart of
 
 a disease than a development; and the land-locked pools might have
 
-been of poison rather than water.  He remembered some humanitarian
+been of [[Poison|poison]] rather than [[Water|water]].  He remembered some humanitarian
 
 fuss or other about the poisoning of pools.
 
@@ -980,9 +980,9 @@ But the reflections of the sergeant, like most reflections of men
 
 not normally reflective, had a root in some subconscious strain on
 
-his nerves and his practical intelligence.  The truth was that the
+his nerves and his practical intelligence.  The [[Truth|truth]] was that the
 
-straight road before him was not only dreary, but seemed
+straight [[Road|road]] before him was not only dreary, but seemed
 
 interminably long.  He would never have believed he could have
 
@@ -992,13 +992,13 @@ followed.  Von Schacht must indeed have the fleetest of horses to
 
 have got so far ahead already; for, after all, he had only started,
 
-at whatever speed, within a comparatively short time.  As Schwartz
+at whatever [[Speed|speed]], within a comparatively short [[Time|time]].  As Schwartz
 
 had said, he hardly expected to overtake him; but a very realistic
 
 sense of the distances involved had told him that he must very soon
 
-come in sight of him.  And then, just as despair was beginning to
+come in sight of him.  And then, just as [[Despair|despair]] was beginning to
 
 descend and spread itself vaguely over the desolate landscape, he
 
@@ -1036,9 +1036,9 @@ deformed.  He was hanging like a humpback over the saddle; and
 
 Schwartz, with his exact eye and long experience, was certain that
 
-his victim was shot through the body; and almost certain that he
+his victim was shot through the [[Body|body]]; and almost certain that he
 
-was shot through the heart.  Then he brought the horse down with a
+was shot through the heart.  Then he brought the [[Horse|horse]] down with a
 
 second shot; and the whole equestrian group heeled over and slipped
 
@@ -1054,7 +1054,7 @@ headed men of his sort are generally very precise about what they
 
 are doing; that is why they are so often quite wrong about what
 
-they do.  He had outraged the comradeship that is the soul of
+they do.  He had outraged the [[Comradeship|comradeship]] that is the [[Soul|soul]] of
 
 armies; he had killed a gallant officer who was in the performance
 
@@ -1074,7 +1074,7 @@ The man carrying the reprieve was certainly dead; and even if by
 
 some miracle he were only dying, he could not conceivably have
 
-ridden his dead or dying horse to the town in time to prevent the
+ridden his dead or dying [[Horse|horse]] to the town in [[Time|time]] to prevent the
 
 execution.  No; on the whole it was much more practical and prudent
 
@@ -1086,11 +1086,11 @@ strength of the great Marshal.
 
 
 
-And truly the great Marshal had this greatness about him; that
+And truly the great Marshal had this [[Greatness|greatness]] about him; that
 
 after the monstrous thing he had done, or caused to be done, he
 
-disdained to show any fear of facing the facts on the spot or the
+disdained to show any [[Fear|fear]] of facing the facts on the spot or the
 
 compromising possibilities of keeping in touch with his tool.  He
 
@@ -1110,9 +1110,9 @@ remained some danger from popular resentment.
 
 "Is it here, then, Marshal?" asked the sergeant in a low voice.  "I
 
-fancied it was further on; but it's a fact the infernal road seemed
+fancied it was further on; but it's a fact the infernal [[Road|road]] seemed
 
-to lengthen out like a nightmare."
+to lengthen out like a [[nightmare]]."
 
 
 
@@ -1124,7 +1124,7 @@ looked down.
 
 
 
-The moon had risen over the marshes and gone up strengthening in
+The [[Moon|moon]] had risen over the marshes and gone up strengthening in
 
 splendour and gleaming on dark waters and green scum; and in the
 
@@ -1134,7 +1134,7 @@ a sort of luminous and radiant ruin, all that was left of one of
 
 those superb white horses and white horsemen of his old brigade.
 
-Nor was the identity doubtful; the moon made a sort of aureole of
+Nor was the [[Identity|identity]] doubtful; the [[Moon|moon]] made a sort of aureole of
 
 the curled golden hair of young Arnold, the second rider and the
 
@@ -1150,17 +1150,17 @@ armour of Sir Galahad; and there could scarcely have been a more
 
 horrible contrast than that between such fallen grace and youth
 
-below and the rocky and grotesque figure looking down from above.
+below and the rocky and [[Grotesque|grotesque]] figure looking down from above.
 
 Grock had taken off his helmet again; and though it is possible
 
-that this was the vague shadow of some funereal form of respect,
+that this was the vague [[Shadow|shadow]] of some funereal form of respect,
 
 its visible effect was that the queer naked head and neck like that
 
-of a pachyderm glittered stonily in the moon, like the hairless
+of a pachyderm glittered stonily in the [[Moon|moon]], like the hairless
 
-head and neck of some monster of the Age of Stone.  Rops, or some
+head and neck of some [[Monster|monster]] of the Age of Stone.  Rops, or some
 
 such etcher of the black, fantastic German schools, might have
 
@@ -1172,43 +1172,43 @@ some defeated champion of the Cherubim.
 
 
 
-Grock said no prayer and uttered no pity; but in some dark way his
+Grock said no [[prayer]] and uttered no pity; but in some dark way his
 
 mind was moved, as even the dark and mighty swamp will sometimes
 
 move like a living thing; and as such men will, when feeling for
 
-the first time faintly on their defence before they know not what,
+the first [[Time|time]] faintly on their defence before they know not what,
 
-he tried to formulate his only faith and confront it with the stark
+he tried to formulate his only [[Faith|faith]] and confront it with the stark
 
-universe and the staring moon.
+universe and the staring [[Moon|moon]].
 
 
 
 "After and before the deed the German Will is the same.  It cannot
 
-be broken by changes and by time, like that of those others who
+be broken by changes and by [[Time|time]], like that of those others who
 
-repent.  It stands outside time like a thing of stone, looking
+repent.  It stands outside [[Time|time]] like a thing of stone, looking
 
 forward and backward with the same face."
 
 
 
-The silence that followed lasted long enough to please his cold
+The [[Silence|silence]] that followed lasted long enough to please his cold
 
-vanity with a certain sense of portent; as if a stone figure had
+[[Vanity|vanity]] with a certain sense of portent; as if a stone figure had
 
-spoken in a valley of silence.  But the silence began to thrill
+spoken in a valley of [[Silence|silence]].  But the [[Silence|silence]] began to thrill
 
 once more with a distant whisper which was the faint throb of
 
 horsehoofs; and a moment later the sergeant came galloping, or
 
-rather racing, back along the uplifted road, and his scarred and
+rather racing, back along the uplifted [[Road|road]], and his scarred and
 
-swarthy visage was no longer merely grim but ghastly in the moon.
+swarthy visage was no longer merely grim but ghastly in the [[Moon|moon]].
 
 
 
@@ -1230,7 +1230,7 @@ risen from the dead."
 
 
 
-He stared in front of him at the moon and marshes; but, indeed,
+He stared in front of him at the [[Moon|moon]] and marshes; but, indeed,
 
 though he was far from being a visionary character, it was not
 
@@ -1248,11 +1248,11 @@ figured in so many private albums and illustrated magazines.  And
 
 behind him he had seen that Polish town aflame with flags and
 
-firebrands and a population boiling with triumphant hero-worship,
+firebrands and a population boiling with triumphant [[Hero|hero]]-worship,
 
-though perhaps less hostile to the government than it might have
+though perhaps less hostile to the [[government]] than it might have
 
-been, since it was rejoicing at the release of its popular hero.
+been, since it was rejoicing at the release of its popular [[Hero|hero]].
 
 
 
@@ -1282,7 +1282,7 @@ messenger came from our camp at all?"
 
 
 
-There was a much longer silence, and then Grock said, hoarsely:
+There was a much longer [[Silence|silence]], and then Grock said, hoarsely:
 
 "What in the name of hell has happened?  Can you think of anything
 
@@ -1302,13 +1302,13 @@ an irritating blankness of expression.
 
 
 
-"Well," said Gahagan impatiently, "and do YOU know anything that
+"[[Well]]," said Gahagan impatiently, "and do YOU know anything that
 
 would explain it all?"
 
 
 
-"Well, I think I do," said Mr. Pond meekly.  "You see, I had to
+"[[Well]], I think I do," said Mr. Pond meekly.  "You see, I had to
 
 worry it out for myself, when the report came round to my
 
@@ -1328,37 +1328,37 @@ confidently before the cabbage.  He despised stupid men even on his
 
 own staff; and treated Von Hocheimer, the first messenger, as a
 
-piece of furniture merely because he looked like a fool; but the
+piece of furniture merely because he looked like a [[Fool|fool]]; but the
 
-Lieutenant was not such a fool as he looked.  He also understood
+Lieutenant was not such a [[Fool|fool]] as he looked.  He also understood
 
-what the great Marshal meant, quite as well as the cynical
+what the great Marshal meant, quite as [[Well|well]] as the cynical
 
 sergeant, who had done such dirty work all his life.  Hocheimer
 
-also understood the Marshal's peculiar moral philosophy: that an
+also understood the Marshal's peculiar moral [[philosophy]]: that an
 
 act is unanswerable even when it is indefensible.  He knew that
 
 what his commander wanted was simply the corpse of Petrowski; that
 
-he wanted it anyhow, at the expense of any deception of princes or
+he wanted it anyhow, at the expense of any [[Deception|deception]] of princes or
 
 destruction of soldiers.  And when he heard a swifter horseman
 
-behind him, riding to overtake him, he knew as well as Grock
+behind him, riding to overtake him, he knew as [[Well|well]] as Grock
 
 himself that the new messenger must be carrying with him the
 
-message of the mercy of the Prince.  Von Schacht, that very young
+message of the [[Mercy|mercy]] of the Prince.  Von Schacht, that very young
 
 but gallant officer, looking like the very embodiment of all that
 
-more generous tradition of Germany that has been too much neglected
+more generous tradition of [[Germany]] that has been too much neglected
 
 in this tale, was worthy of the accident that made him the herald
 
-of a more generous policy.  He came with the speed of that noble
+of a more generous policy.  He came with the [[Speed|speed]] of that noble
 
 horsemanship that has left behind it in Europe the very name of
 
@@ -1366,23 +1366,23 @@ chivalry, calling out to the other in a tone like a herald's
 
 trumpet to stop and stand and turn.  And Von Hocheimer obeyed.  He
 
-stopped, he reined in his horse, he turned in his saddle; but his
+stopped, he reined in his [[Horse|horse]], he turned in his saddle; but his
 
-hand held the carbine levelled like a pistol, and he shot the boy
+hand held the carbine levelled like a [[Pistol|pistol]], and he shot the boy
 
 between the eyes.
 
 
 
-"Then he turned again and rode on, carrying the death-warrant of
+"Then he turned again and rode on, carrying the [[Death|death]]-warrant of
 
-the Pole.  Behind him horse and man had crashed over the edge of
+the Pole.  Behind him [[Horse|horse]] and man had crashed over the edge of
 
-the embankment, so that the whole road was clear.  And along that
+the embankment, so that the whole [[Road|road]] was clear.  And along that
 
-clear and open road toiled in his turn the third messenger,
+clear and open [[Road|road]] toiled in his turn the third messenger,
 
-marvelling at the interminable length of his journey; till he saw
+marvelling at the interminable length of his [[Journey|journey]]; till he saw
 
 at last the unmistakable uniform of a Hussar like a white star
 
@@ -1394,7 +1394,7 @@ kill the second messenger, but the first.
 
 "That was why no messenger came alive to the Polish town that
 
-night.  That was why the prisoner walked out of his prison alive.
+[[Night|night]].  That was why the prisoner walked out of his [[Prison|prison]] alive.
 
 Do you think I was quite wrong in saying that Von Grock had two
 

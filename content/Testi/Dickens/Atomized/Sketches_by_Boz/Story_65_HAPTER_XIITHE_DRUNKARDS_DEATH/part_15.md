@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 15)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 15)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 To recount all the drollery of Mr. Griggins at supper, would fill such
-a tiny volume as this, [429] to the very bottom of the outside cover.
+a tiny volume as this, [429] to the very [[Bottom|bottom]] of the outside cover.
 How he drank out of other people’s glasses, and ate of other people’s
 bread, how he frightened into screaming convulsions a little boy who
 was sitting up to supper in a high chair, by sinking below the table
@@ -23,8 +23,8 @@ and suddenly reappearing with a mask on; how the hostess was really
 surprised that anybody could find a pleasure in tormenting children,
 and how the host frowned at the hostess, and felt convinced that Mr.
 Griggins had done it with the very best intentions; how Mr. Griggins
-explained, and how everybody’s good-humour was restored but the
-child’s;—to tell these and a hundred other things ever so briefly,
+explained, and how everybody’s good-[[Humour|humour]] was restored but the
+[[Child|child]]’s;—to tell these and a hundred other things ever so briefly,
 would occupy more of our room and our readers’ patience, than either
 they or we can conveniently spare. Therefore we change the subject,
 merely observing that we have offered no description of the funny young
@@ -39,16 +39,16 @@ particular case.
 THE THEATRICAL YOUNG GENTLEMAN
 
 
-All gentlemen who love the drama—and there are few gentlemen who are
+All gentlemen who [[Love|love]] the drama—and there are few gentlemen who are
 not attached to the most intellectual and rational of all our
 amusements—do not come within this definition. As we have no mean
 relish for theatrical entertainments ourself, we are disinterestedly
 anxious that this should be perfectly understood.
 
 The theatrical young gentleman has early and important information on
-all theatrical topics. ‘Well,’ says he, abruptly, when you meet him in
+all theatrical topics. ‘[[Well]],’ says he, abruptly, when you meet him in
 the street, ‘here’s a pretty to-do. Flimkins has thrown up his part in
-the melodrama at the Surrey.’—‘And what’s to be done?’ you inquire with
+the [[Melodrama|melodrama]] at the Surrey.’—‘And what’s to be done?’ you inquire with
 as much gravity as you can counterfeit. ‘Ah, that’s the point,’ replies
 the theatrical young gentleman, looking very serious; ‘Boozle declines
 it; positively declines it. From all I am told, I should say it was
@@ -57,7 +57,7 @@ great hit in it; but he objects on the ground of Flimkins having been
 put up in the part first, and says no earthly power shall induce him to
 take the character. It’s a fine part, too—excellent business, I’m told.
 He has to kill six people in the course of the piece, and to fight over
-a bridge in red fire, which is as safe a card, you know, as can be.
+a bridge in red [[Fire|fire]], which is as safe a card, you know, as can be.
 Don’t mention it; but I hear that the last scene, when he is first
 poisoned, and then stabbed, by Mrs. Flimkins as Vengedora, will be the
 greatest thing that has been done these many years.’ With this piece of
@@ -66,14 +66,14 @@ excite the town with it, the theatrical young gentleman hurries away.
 
 The theatrical young gentleman, from often frequenting the different
 theatrical establishments, has pet and familiar names for them all.
-Thus Covent-Garden is the garden, Drury-Lane the lane, the Victoria the
+Thus Covent-[[Garden]] is the [[Garden|garden]], Drury-Lane the lane, the Victoria the
 vic, and the Olympic the pic. Actresses, too, are always designated by
 their surnames only, as Taylor, Nisbett, Faucit, Honey; that talented
 and lady-like girl Sheriff, that clever little creature Horton, and so
 on. In the same manner he prefixes Christian names when he mentions
-actors, as Charley Young, Jemmy Buckstone, Fred. Yates, Paul Bedford.
+actors, as Charley Young, Jemmy Buckstone, [[Fred]]. Yates, Paul Bedford.
 When he is at a loss for a Christian name, the word ‘old’ applied
-indiscriminately answers quite as well: as old Charley Matthews at
+indiscriminately answers quite as [[Well|well]]: as old Charley Matthews at
 Vestris’s, old Harley, and old Braham. He has a great knowledge of the
 private proceedings of actresses, especially of their getting married,
 and can tell you in a breath half-a-dozen who have changed their names
@@ -83,12 +83,12 @@ months ago.
 
 The theatrical young gentleman has a great reverence for all that is
 connected with the stage department of the different theatres. He
-would, at any time, prefer going a street or two out of his way, to
+would, at any [[Time|time]], prefer going a street or two out of his way, to
 omitting to pass a stage-entrance, into which he always looks with a
 curious and searching eye. If he can only identify a popular actor in
 the street, he is in a perfect transport of delight; and no sooner
 meets him, than he hurries back, and walks a few paces in front of him,
-so that he can turn round from time to time, and have a good stare at
+so that he can turn round from [[Time|time]] to [[Time|time]], and have a good stare at
 his features. He looks upon a theatrical-fund dinner as one of the most
 enchanting festivities ever known; and thinks that to be a member of
 the Garrick Club, and see so many actors in their plain clothes, must
@@ -100,7 +100,7 @@ which display the fullest resources of the establishment. He likes to
 place implicit reliance upon the play-bills when he goes to see a
 show-piece, and works himself up to such a pitch of enthusiasm, as not
 only to believe (if the bills say so) that there are three hundred and
-seventy-five people on the stage at one time in the last scene, but is
+seventy-five people on the stage at one [[Time|time]] in the last scene, but is
 highly indignant with you, unless you believe it also. He considers
 that if the stage be opened from the foot-lights to the back wall, in
 any new play, the piece is a triumph of dramatic writing, and applauds
@@ -115,12 +115,12 @@ which, during the pauses of a quadrille, he usually communicates to his
 partner, or imparts to his neighbour at a supper table. Thus he is
 advised, that Mr. Liston always had a footman in gorgeous livery
 waiting at the side-scene with a brandy bottle and tumbler, to
-administer half a pint or so of spirit to him every time he came off,
+administer half a pint or so of spirit to him every [[Time|time]] he came off,
 without which assistance he must infallibly have fainted. He knows for
 a fact, that, after an arduous part, Mr. George Bennett is put between
 two feather beds, to absorb the perspiration; and is credibly informed,
 that Mr. Baker has, for many years, submitted to a course of lukewarm
-toast-and-water, to qualify him to sustain his favourite characters. He
+toast-and-[[Water|water]], to qualify him to sustain his favourite characters. He
 looks upon Mr. Fitz Ball as the principal dramatic genius and poet of
 the day; but holds that there are great writers extant besides him,—in
 proof whereof he refers you to various dramas and melodramas recently

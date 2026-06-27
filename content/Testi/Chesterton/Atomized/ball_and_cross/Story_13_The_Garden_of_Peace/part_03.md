@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Garden of Peace (part 3)"
+title: "ball and [[Cross|cross]] — The [[Garden]] of Peace (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -31,58 +31,58 @@ we should both have sticks.  He improves on the suggestion
 and proposes that we should both have steel-pointed sticks.
 The police (with characteristic unreasonableness) will not accept
 either of our proposals; the result is that we run about dodging
-the police and have jumped over your garden wall into your magnificent
-garden to throw ourselves on your magnificent hospitality."
+the police and have jumped over your [[Garden|garden]] wall into your magnificent
+[[Garden|garden]] to throw ourselves on your magnificent hospitality."
 
 The face of the old gentleman had grown redder and redder during
 this address, but it was still smiling; and when he broke out it
 was with a kind of guffaw.
 
-"So you really want to fight with drawn swords in my garden,"
+"So you really want to fight with drawn swords in my [[Garden|garden]],"
 he asked, "about whether there is really a God?"
 
 "Why not?" said MacIan, with his simple monstrosity of speech;
-"all man's worship began when the Garden of Eden was founded."
+"all man's worship began when the [[Garden]] of Eden was founded."
 
 "Yes, by----!" said Turnbull, with an oath, "and ended when the
 Zoological Gardens were founded."
 
-"In this garden!  In my presence!" cried the stranger,
+"In this [[Garden|garden]]!  In my presence!" cried the stranger,
 stamping up and down the gravel and choking with laughter,
 "whether there is a God!"  And he went stamping up and down
-the garden, making it echo with his unintelligible laughter.
+the [[Garden|garden]], making it echo with his unintelligible laughter.
 Then he came back to them more composed and wiping his eyes.
 
 "Why, how small the world is!" he cried at last.  "I can settle
 the whole matter.  Why, I am God!"
 
-And he suddenly began to kick and wave his well-clad legs
+And he suddenly began to kick and wave his [[Well|well]]-clad legs
 about the lawn.
 
 "You are what?" repeated Turnbull, in a tone which is beyond description.
 
 "Why, God, of course!" answered the other, thoroughly amused.
-"How funny it is to think that you have tumbled over a garden wall
+"How funny it is to think that you have tumbled over a [[Garden|garden]] wall
 and fallen exactly on the right person!  You might have gone floundering
 about in all sorts of churches and chapels and colleges and schools
-of philosophy looking for some evidence of the existence of God.
+of [[philosophy]] looking for some evidence of the existence of God.
 Why, there is no evidence, except seeing him.  And now you've seen him.
-You've seen him dance!"
+You've seen him [[Dance|dance]]!"
 
 And the obliging old gentleman instantly stood on one leg without
-relaxing at all the grave and cultured benignity of his expression.
+relaxing at all the [[Grave|grave]] and cultured benignity of his expression.
 
-"I understood that this garden----" began the bewildered MacIan.
+"I understood that this [[Garden|garden]]----" began the bewildered MacIan.
 
 "Quite so!  Quite so!" said the man on one leg, nodding gravely.
-"I said this garden belonged to me and the land outside it.
+"I said this [[Garden|garden]] belonged to me and the land outside it.
 So they do.  So does the country beyond that and the sea
-beyond that and all the rest of the earth.  So does the moon.
-So do the sun and stars."  And he added, with a smile of apology:
+beyond that and all the rest of the earth.  So does the [[Moon|moon]].
+So do the sun and [[Stars|stars]]."  And he added, with a smile of apology:
 "You see, I'm God."
 
 Turnbull and MacIan looked at him for one moment with a sort of notion
-that perhaps he was not too old to be merely playing the fool.
+that perhaps he was not too old to be merely playing the [[Fool|fool]].
 But after staring steadily for an instant Turnbull saw the hard
 and horrible earnestness in the man's eyes behind all his
 empty animation.  Then Turnbull looked very gravely at the strict

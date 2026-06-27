@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — A Century Of Emancipation (part 3)"
+title: "[[Well]] And Shallows — A Century Of Emancipation (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Well-And-Shallows-(Chesterton)"
@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-This is the truth symbolised in the remark on the Prayer-Book Debate;
+This is the [[Truth|truth]] symbolised in the remark on the [[Prayer]]-Book [[debate|Debate]];
 that a crowd of Free-Thinkers and Noncomformists and people
 of any opinions dictated the affairs of the Church of England.
 I am very proud of the fact that Catholics abstained from doing so and
 avoided a very obvious piece of bad taste.  But the fact itself contains
 fine shades that have hardly been noticed.  It is not sufficiently
-realised that even a congregation at the City Temple, or a crowd hearing
-a Dean or Canon in St. Paul's Cathedral, is often in fact almost as
-mixed and dubious in religion as the members of the House of Commons.
+realised that even a congregation at the [[City]] Temple, or a crowd hearing
+a Dean or Canon in St. Paul's [[Cathedral]], is often in fact almost as
+mixed and dubious in religion as the members of the [[house|House]] of Commons.
 Many Nonconformists are not conforming to Non-conformity;
 and a churchman often means only a man who never goes to chapel.
 Such differences exist in the same sect or even in the same man.
@@ -35,7 +35,7 @@ he has often wondered if there is anything in being a Theosophist; he has
 attended one or two seances and might be persuaded to be a Spiritualist.
 That is the man we have got to deal with; and not some rigid Protestant
 labelled Methodist or even some rigid Atheist labelled Materialist.
-It is that man whom we have to set out to convert, after a hundred years
+It is that man whom we have to set out to [[convert]], after a hundred years
 of relative political liberty have left the old Protestant England
 far behind us and the new Catholic England still far away.
 
@@ -50,7 +50,7 @@ new religions.  And a general estimate of the chances will see them
 chiefly affected, I think, by the presence of these new religions
 side by side with that very ancient thing called Agnosticism.
 The real interest of the speculation is in the question of which of
-the two will turn out to be the really formidable opponent of the Faith
+the two will turn out to be the really formidable opponent of the [[Faith]]
 in the future.
 
 We know what is really meant by saying that the Church is merely
@@ -77,11 +77,11 @@ horrified at incense, because he used it himself.  In the same way
 the new religions will not attack the old religion for the old reasons.
 A Christian Scientist will not assume that all stories of miraculous
 healing must have been frauds.  A Spiritualist will not assume that
-all supernatural messages received through men must be impossible.
+all [[Supernatural|supernatural]] messages received through men must be impossible.
 It will be an entirely new list of charges or challenges that will come
 from the new mystics, who have imitated so many of the old marvels.
 In so far as the new religions become the leaders of the opposition,
-a new class of controversies will arise; with the faith-healers,
+a new class of controversies will arise; with the [[Faith|faith]]-healers,
 for instance, upon the mystery of matter; with the psychic
 investigators upon the influences of evil.  All this will bring
 us further and further from the special Protestant problems;
@@ -103,7 +103,7 @@ to the natural forces of this world; but he does not insist
 so strictly upon dry negations about the other; he has commonly
 admitted a vague borderland of the unknown, providing him
 with possibilities of inspiration or of awe which are forbidden
-to the cheap modern atheist with his clock-work cosmos.
+to the cheap modern atheist with his [[Clock|clock]]-work cosmos.
 The worshippers of the Unknown God could at least build
 an altar, though they could not inscribe it with a name.
 But I fancy that men who have once been Christians, or whose
@@ -111,22 +111,22 @@ fathers have been Christians, will not be long in discovering,
 or rather rediscovering, the profound defect that destroyed
 Paganism and filled centuries with a horror of its final phase.
 The natural forces, when they are turned into gods, betray mankind
-by something that is in the very nature of nature-worship. We
+by something that is in the very [[Nature|nature]] of [[Nature|nature]]-worship. We
 can already see men becoming unhealthy by the worship of health;
-becoming hateful by the worship of love; becoming paradoxically
+becoming hateful by the worship of [[Love|love]]; becoming paradoxically
 solemn and overstrained even by the idolatry of sport;
 and in some cases strangely morbid and infected with horrors
-by the perversion of a just sympathy with animals.
+by the perversion of a just sympathy with [[Animals|animals]].
 Unless all these things are subject to a more centralised
-and well-balanced conception of the universe, the local god
+and [[Well|well]]-balanced conception of the universe, the local god
 becomes too vivid, we might say too visible, and strikes
-his worshippers with madness.  The pantheist is always too
+his worshippers with [[Madness|madness]].  The pantheist is always too
 near to the polytheist and the polytheist to the idolater;
 the idolater to the man offering human sacrifice.
 There is nothing in Paganism to check its own exaggerations;
 and for that reason the world will probably find again,
 as it found before, the necessity of a universal moral
-philosophy supported by an authority that can define.
+[[philosophy]] supported by an authority that can define.
 In any case, that quarrel between Paganism and Catholicism will
 again be one raising issues very unfamiliar to many even now;
 and issues that would have very much mystified the men who debated

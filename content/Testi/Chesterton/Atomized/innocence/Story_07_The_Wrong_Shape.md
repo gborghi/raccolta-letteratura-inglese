@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Wrong Shape"
+title: "[[innocence]] — The Wrong Shape"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/innocence-(Chesterton)"
@@ -16,75 +16,75 @@ tags:
 
                           The Wrong Shape
 
-Certain of the great roads going north out of London continue far
+Certain of the great roads going north out of [[London]] continue far
 into the country a sort of attenuated and interrupted spectre of
 a street, with great gaps in the building, but preserving the line.
 Here will be a group of shops, followed by a fenced field or paddock,
-and then a famous public-house, and then perhaps a market garden
-or a nursery garden, and then one large private house, and then
+and then a famous public-[[house]], and then perhaps a market [[Garden|garden]]
+or a nursery [[Garden|garden]], and then one large private [[house]], and then
 another field and another inn, and so on.  If anyone walks along
-one of these roads he will pass a house which will probably catch
+one of these roads he will pass a [[house]] which will probably catch
 his eye, though he may not be able to explain its attraction.
-It is a long, low house, running parallel with the road,
+It is a long, low [[house]], running parallel with the [[Road|road]],
 painted mostly white and pale green, with a veranda and sun-blinds,
 and porches capped with those quaint sort of cupolas like
 wooden umbrellas that one sees in some old-fashioned houses.
-In fact, it is an old-fashioned house, very English and very
-suburban in the good old wealthy Clapham sense.  And yet the house
+In fact, it is an old-fashioned [[house]], very English and very
+suburban in the good old wealthy Clapham sense.  And yet the [[house]]
 has a look of having been built chiefly for the hot weather.
 Looking at its white paint and sun-blinds one thinks vaguely of pugarees
 and even of palm trees.  I cannot trace the feeling to its root;
 perhaps the place was built by an Anglo-Indian.
 
-Anyone passing this house, I say, would be namelessly fascinated by it;
+Anyone passing this [[house]], I say, would be namelessly fascinated by it;
 would feel that it was a place about which some story was to be told.
 And he would have been right, as you shall shortly hear.
 For this is the story--the story of the strange things that did
 really happen in it in the Whitsuntide of the year 18--:
 
-Anyone passing the house on the Thursday before WhitSunday at
+Anyone passing the [[house]] on the [[thursday|Thursday]] before WhitSunday at
 about half-past four p.m. would have seen the front door open,
-and Father Brown, of the small church of St. Mungo, come out
+and [[Father Brown]], of the small church of St. Mungo, come out
 smoking a large pipe in company with a very tall French friend
-of his called Flambeau, who was smoking a very small cigarette.
+of his called [[Flambeau]], who was smoking a very small cigarette.
 These persons may or may not be of interest to the reader,
-but the truth is that they were not the only interesting things
-that were displayed when the front door of the white-and-green house
-was opened.  There are further peculiarities about this house,
+but the [[Truth|truth]] is that they were not the only interesting things
+that were displayed when the front door of the white-and-green [[house]]
+was opened.  There are further peculiarities about this [[house]],
 which must be described to start with, not only that the reader
 may understand this tragic tale, but also that he may realise
 what it was that the opening of the door revealed.
 
-The whole house was built upon the plan of a T, but a T
-with a very long cross piece and a very short tail piece.
-The long cross piece was the frontage that ran along in face
+The whole [[house]] was built upon the plan of a T, but a T
+with a very long [[Cross|cross]] piece and a very short tail piece.
+The long [[Cross|cross]] piece was the frontage that ran along in face
 of the street, with the front door in the middle; it was two
 stories high, and contained nearly all the important rooms.
 The short tail piece, which ran out at the back immediately
 opposite the front door, was one story high, and consisted
 only of two long rooms, the one leading into the other.
 The first of these two rooms was the study in which the celebrated
-Mr. Quinton wrote his wild Oriental poems and romances.
+Mr. Quinton wrote his wild Oriental [[Poems|poems]] and romances.
 The farther room was a glass conservatory full of tropical
-blossoms of quite unique and almost monstrous beauty,
+blossoms of quite unique and almost monstrous [[Beauty|beauty]],
 and on such afternoons as these glowing with gorgeous sunlight.
 Thus when the hall door was open, many a passer-by literally stopped
 to stare and gasp; for he looked down a perspective of rich apartments
 to something really like a transformation scene in a fairy play:
-purple clouds and golden suns and crimson stars that were at
+purple clouds and golden suns and crimson [[Stars|stars]] that were at
 once scorchingly vivid and yet transparent and far away.
 
 Leonard Quinton, the poet, had himself most carefully arranged this effect;
 and it is doubtful whether he so perfectly expressed his personality in any
-of his poems.  For he was a man who drank and bathed in colours, who indulged
+of his [[Poems|poems]].  For he was a man who drank and bathed in colours, who indulged
 his lust for colour somewhat to the neglect of form--even of good form.
 This it was that had turned his genius so wholly to eastern art and imagery;
 to those bewildering carpets or blinding embroideries in which all the colours
 seem fallen into a fortunate chaos, having nothing to typify or to teach.
-He had attempted, not perhaps with complete artistic success, but with
-acknowledged imagination and invention, to compose epics and love stories
+He had attempted, not perhaps with complete artistic [[success]], but with
+acknowledged [[Imagination|imagination]] and invention, to compose epics and [[Love|love]] stories
 reflecting the riot of violent and even cruel colour; tales of tropical
-heavens of burning gold or blood-red copper; of eastern heroes who rode
+heavens of burning gold or [[Blood|blood]]-red copper; of eastern heroes who rode
 with twelve-turbaned mitres upon elephants painted purple or peacock green;
 of gigantic jewels that a hundred negroes could not carry, but which burned
 with ancient and strange-hued fires.
@@ -104,15 +104,15 @@ whom her husband insisted on entertaining for months together,
 a Virgil to guide his spirit through the heavens and the hells
 of the east.
 
-It was out of this artistic household that Father Brown and his friend stepped
+It was out of this artistic household that [[Father Brown]] and his friend stepped
 on to the door-step; and to judge from their faces, they stepped out of it
-with much relief.  Flambeau had known Quinton in wild student days in Paris,
+with much relief.  [[Flambeau]] had known Quinton in wild student days in [[Paris]],
 and they had renewed the acquaintance for a week-end; but apart from
-Flambeau's more responsible developments of late, he did not get on well with
+[[Flambeau]]'s more responsible developments of late, he did not get on [[Well|well]] with
 the poet now.  Choking oneself with opium and writing little erotic verses
 on vellum was not his notion of how a gentleman should go to the devil.
-As the two paused on the door-step, before taking a turn in the garden,
-the front garden gate was thrown open with violence, and a young man with a
+As the two paused on the door-step, before taking a turn in the [[Garden|garden]],
+the front [[Garden|garden]] gate was thrown open with violence, and a young man with a
 billycock hat on the back of his head tumbled up the steps in his eagerness.
 He was a dissipated-looking youth with a gorgeous red necktie all awry,
 as if he had slept in it, and he kept fidgeting and lashing about with one
@@ -121,7 +121,7 @@ of those little jointed canes.
 "I say," he said breathlessly, "I want to see old Quinton.  I must see him.
 Has he gone?"
 
-"Mr. Quinton is in, I believe," said Father Brown,
+"Mr. Quinton is in, I believe," said [[Father Brown]],
 cleaning his pipe, "but I do not know if you can see him.
 The doctor is with him at present."
 
@@ -147,7 +147,7 @@ The young man in the billycock, who did not seem to be gifted
 with any tact in dealing with people beyond the general idea
 of clutching hold of their coats, stood outside the door,
 as dazed as if he had been thrown out bodily, and silently
-watched the other three walk away together through the garden.
+watched the other three walk away together through the [[Garden|garden]].
 
 "That was a sound, spanking lie I told just now," remarked the
 medical man, laughing.  "In point of fact, poor Quinton
@@ -157,53 +157,53 @@ who only wants to borrow money that he wouldn't pay back if he could.
 He's a dirty little scamp, though he is Mrs. Quinton's brother,
 and she's as fine a woman as ever walked."
 
-"Yes," said Father Brown.  "She's a good woman."
+"Yes," said [[Father Brown]].  "She's a good woman."
 
-"So I propose to hang about the garden till the creature has cleared off,"
+"So I propose to hang about the [[Garden|garden]] till the creature has cleared off,"
 went on the doctor, "and then I'll go in to Quinton with the medicine.
 Atkinson can't get in, because I locked the door."
 
-"In that case, Dr. Harris," said Flambeau, "we might as well
+"In that case, Dr. Harris," said [[Flambeau]], "we might as [[Well|well]]
 walk round at the back by the end of the conservatory.
 There's no entrance to it that way, but it's worth seeing,
 even from the outside."
 
 "Yes, and I might get a squint at my patient," laughed the doctor,
 "for he prefers to lie on an ottoman right at the end of the conservatory
-amid all those blood-red poinsettias; it would give me the creeps.
+amid all those [[Blood|blood]]-red poinsettias; it would give me the creeps.
 But what are you doing?"
 
-Father Brown had stopped for a moment, and picked up out of the long grass,
+[[Father Brown]] had stopped for a moment, and picked up out of the long grass,
 where it had almost been wholly hidden, a queer, crooked Oriental knife,
 inlaid exquisitely in coloured stones and metals.
 
-"What is this?" asked Father Brown, regarding it with some disfavour.
+"What is this?" asked [[Father Brown]], regarding it with some disfavour.
 
 "Oh, Quinton's, I suppose," said Dr. Harris carelessly;
 "he has all sorts of Chinese knickknacks about the place.
 Or perhaps it belongs to that mild Hindoo of his whom he keeps
 on a string."
 
-"What Hindoo?" asked Father Brown, still staring at the dagger
+"What Hindoo?" asked [[Father Brown]], still staring at the dagger
 in his hand.
 
 "Oh, some Indian conjuror," said the doctor lightly; "a fraud, of course."
 
-"You don't believe in magic?" asked Father Brown, without looking up.
+"You don't believe in [[Magic|magic]]?" asked [[Father Brown]], without looking up.
 
-"O crickey! magic!" said the doctor.
+"O crickey! [[Magic|magic]]!" said the doctor.
 
 "It's very beautiful," said the priest in a low, dreaming voice;
 "the colours are very beautiful.  But it's the wrong shape."
 
-"What for?" asked Flambeau, staring.
+"What for?" asked [[Flambeau]], staring.
 
 "For anything.  It's the wrong shape in the abstract.  Don't you ever
 feel that about Eastern art?  The colours are intoxicatingly lovely;
 but the shapes are mean and bad--deliberately mean and bad.
 I have seen wicked things in a Turkey carpet."
 
-"Mon Dieu!" cried Flambeau, laughing.
+"Mon Dieu!" cried [[Flambeau]], laughing.
 
 "They are letters and symbols in a language I don't know; but I know they
 stand for evil words," went on the priest, his voice growing lower and lower.
@@ -211,38 +211,38 @@ stand for evil words," went on the priest, his voice growing lower and lower.
 
 "What the devil are you talking about?" said the doctor with a loud laugh.
 
-Flambeau spoke quietly to him in answer.  "The Father sometimes
+[[Flambeau]] spoke quietly to him in answer.  "The Father sometimes
 gets this mystic's cloud on him," he said; "but I give you fair
 warning that I have never known him to have it except when there
 was some evil quite near."
 
 "Oh, rats!" said the scientist.
 
-"Why, look at it," cried Father Brown, holding out the crooked
+"Why, look at it," cried [[Father Brown]], holding out the crooked
 knife at arm's length, as if it were some glittering snake.
 "Don't you see it is the wrong shape?  Don't you see that it has
 no hearty and plain purpose?  It does not point like a spear.
 It does not sweep like a scythe.  It does not look like a weapon.
 It looks like an instrument of torture."
 
-"Well, as you don't seem to like it," said the jolly Harris,
+"[[Well]], as you don't seem to like it," said the jolly Harris,
 "it had better be taken back to its owner.  Haven't we
 come to the end of this confounded conservatory yet?
-This house is the wrong shape, if you like."
+This [[house]] is the wrong shape, if you like."
 
-"You don't understand," said Father Brown, shaking his head.
-"The shape of this house is quaint--it is even laughable.
+"You don't understand," said [[Father Brown]], shaking his head.
+"The shape of this [[house]] is quaint--it is even laughable.
 But there is nothing wrong about it."
 
 As they spoke they came round the curve of glass that ended the conservatory,
-an uninterrupted curve, for there was neither door nor window by which to
+an uninterrupted curve, for there was neither door nor [[Window|window]] by which to
 enter at that end.  The glass, however, was clear, and the sun still bright,
 though beginning to set; and they could see not only the flamboyant
 blossoms inside, but the frail figure of the poet in a brown velvet coat lying
 languidly on the sofa, having, apparently, fallen half asleep over a book.
 He was a pale, slight man, with loose, chestnut hair and a fringe of beard
-that was the paradox of his face, for the beard made him look less manly.
-These traits were well known to all three of them; but even had it not been
+that was the [[Paradox|paradox]] of his face, for the beard made him look less manly.
+These traits were [[Well|well]] known to all three of them; but even had it not been
 so, it may be doubted whether they would have looked at Quinton just then.
 Their eyes were riveted on another object.
 
@@ -250,52 +250,52 @@ Exactly in their path, immediately outside the round end of
 the glass building, was standing a tall man, whose drapery fell
 to his feet in faultless white, and whose bare, brown skull,
 face, and neck gleamed in the setting sun like splendid bronze.
-He was looking through the glass at the sleeper, and he was
+He was looking through the glass at [[The Sleeper|the sleeper]], and he was
 more motionless than a mountain.
 
-"Who is that?" cried Father Brown, stepping back with a hissing
+"Who is that?" cried [[Father Brown]], stepping back with a hissing
 intake of his breath.
 
 "Oh, it is only that Hindoo humbug," growled Harris; "but I don't
 know what the deuce he's doing here."
 
-"It looks like hypnotism," said Flambeau, biting his black moustache.
+"It looks like hypnotism," said [[Flambeau]], biting his black moustache.
 
 "Why are you unmedical fellows always talking bosh about hypnotism?"
 cried the doctor.  "It looks a deal more like burglary."
 
-"Well, we will speak to it, at any rate," said Flambeau, who was always
+"[[Well]], we will speak to it, at any rate," said [[Flambeau]], who was always
 for action.  One long stride took him to the place where the Indian stood.
 Bowing from his great height, which overtopped even the Oriental's, he said
 with placid impudence:
 
 "Good evening, sir.  Do you want anything?"
 
-Quite slowly, like a great ship turning into a harbour, the great yellow
+Quite slowly, like a great [[Ship|ship]] turning into a harbour, the great yellow
 face turned, and looked at last over its white shoulder.  They were
-startled to see that its yellow eyelids were quite sealed, as in sleep.
+startled to see that its yellow eyelids were quite sealed, as in [[Sleep|sleep]].
 "Thank you," said the face in excellent English.  "I want nothing."
 Then, half opening the lids, so as to show a slit of opalescent eyeball,
 he repeated, "I want nothing."  Then he opened his eyes wide with a
 startling stare, said, "I want nothing," and went rustling away into
-the rapidly darkening garden.
+the rapidly darkening [[Garden|garden]].
 
-"The Christian is more modest," muttered Father Brown;
+"The Christian is more modest," muttered [[Father Brown]];
 "he wants something."
 
-"What on earth was he doing?" asked Flambeau, knitting his black
+"What on earth was he doing?" asked [[Flambeau]], knitting his black
 brows and lowering his voice.
 
-"I should like to talk to you later," said Father Brown.
+"I should like to talk to you later," said [[Father Brown]].
 
 The sunlight was still a reality, but it was the red light of evening,
-and the bulk of the garden trees and bushes grew blacker and blacker
+and the bulk of the [[Garden|garden]] trees and bushes grew blacker and blacker
 against it.  They turned round the end of the conservatory, and walked
-in silence down the other side to get round to the front door.
+in [[Silence|silence]] down the other side to get round to the front door.
 As they went they seemed to wake something, as one startles a bird,
 in the deeper corner between the study and the main building; and again
-they saw the white-robed fakir slide out of the shadow, and slip round
-towards the front door.  To their surprise, however, he had not been alone.
+they saw the white-robed fakir slide out of the [[Shadow|shadow]], and slip round
+towards the front door.  To their surprise, however, he had not been [[Alone|alone]].
 They found themselves abruptly pulled up and forced to banish their
 bewilderment by the appearance of Mrs. Quinton, with her heavy golden
 hair and square pale face, advancing on them out of the twilight.
@@ -306,29 +306,29 @@ She looked a little stern, but was entirely courteous.
 "Good evening, Mrs. Quinton," said the little doctor heartily.
 "I am just going to give your husband his sleeping draught."
 
-"Yes," she said in a clear voice.  "I think it is quite time."
-And she smiled at them, and went sweeping into the house.
+"Yes," she said in a clear voice.  "I think it is quite [[Time|time]]."
+And she smiled at them, and went sweeping into the [[house]].
 
-"That woman's over-driven," said Father Brown; "that's the kind of woman
+"That woman's over-driven," said [[Father Brown]]; "that's the kind of woman
 that does her duty for twenty years, and then does something dreadful."
 
-The little doctor looked at him for the first time with an eye of interest.
+The little doctor looked at him for the first [[Time|time]] with an eye of interest.
 "Did you ever study medicine?" he asked.
 
-"You have to know something of the mind as well as the body,"
-answered the priest; "we have to know something of the body
-as well as the mind."
+"You have to know something of the mind as [[Well|well]] as the [[Body|body]],"
+answered the priest; "we have to know something of the [[Body|body]]
+as [[Well|well]] as the mind."
 
-"Well," said the doctor, "I think I'll go and give Quinton his stuff."
+"[[Well]]," said the doctor, "I think I'll go and give Quinton his stuff."
 
 They had turned the corner of the front facade, and were
 approaching the front doorway.  As they turned into it
-they saw the man in the white robe for the third time.
+they saw the man in the white robe for the third [[Time|time]].
 He came so straight towards the front door that it seemed quite
 incredible that he had not just come out of the study opposite to it.
 Yet they knew that the study door was locked.
 
-Father Brown and Flambeau, however, kept this weird contradiction
+[[Father Brown]] and [[Flambeau]], however, kept this weird contradiction
 to themselves, and Dr. Harris was not a man to waste his thoughts
 on the impossible.  He permitted the omnipresent Asiatic
 to make his exit, and then stepped briskly into the hall.
@@ -342,9 +342,9 @@ But I shall be out again in two minutes."
 He rapidly unlocked the door and locked it again behind him,
 just balking a blundering charge from the young man in the billycock.
 The young man threw himself impatiently on a hall chair.
-Flambeau looked at a Persian illumination on the wall; Father Brown,
+[[Flambeau]] looked at a Persian illumination on the wall; [[Father Brown]],
 who seemed in a sort of daze, dully eyed the door.  In about four
-minutes the door was opened again.  Atkinson was quicker this time.
+minutes the door was opened again.  Atkinson was quicker this [[Time|time]].
 He sprang forward, held the door open for an instant, and called out:
 "Oh, I say, Quinton, I want--"
 
@@ -352,59 +352,59 @@ From the other end of the study came the clear voice of Quinton,
 in something between a yawn and a yell of weary laughter.
 
 "Oh, I know what you want.  Take it, and leave me in peace.
-I'm writing a song about peacocks."
+I'm writing a [[Song|song]] about peacocks."
 
 Before the door closed half a sovereign came flying through the aperture;
 and Atkinson, stumbling forward, caught it with singular dexterity.
 
 "So that's settled," said the doctor, and, locking the door savagely,
-he led the way out into the garden.
+he led the way out into the [[Garden|garden]].
 
-"Poor Leonard can get a little peace now," he added to Father Brown;
+"Poor Leonard can get a little peace now," he added to [[Father Brown]];
 "he's locked in all by himself for an hour or two."
 
 "Yes," answered the priest; "and his voice sounded jolly enough when we
-left him."  Then he looked gravely round the garden, and saw the loose
+left him."  Then he looked gravely round the [[Garden|garden]], and saw the loose
 figure of Atkinson standing and jingling the half-sovereign in his pocket,
 and beyond, in the purple twilight, the figure of the Indian sitting bolt
 upright upon a bank of grass with his face turned towards the setting sun.
 Then he said abruptly:  "Where is Mrs. Quinton!"
 
-"She has gone up to her room," said the doctor.  "That is her shadow
+"She has gone up to her room," said the doctor.  "That is her [[Shadow|shadow]]
 on the blind."
 
-Father Brown looked up, and frowningly scrutinised a dark outline
-at the gas-lit window.
+[[Father Brown]] looked up, and frowningly scrutinised a dark outline
+at the gas-lit [[Window|window]].
 
-"Yes," he said, "that is her shadow," and he walked a yard or two and threw
-himself upon a garden seat.
+"Yes," he said, "that is her [[Shadow|shadow]]," and he walked a yard or two and threw
+himself upon a [[Garden|garden]] seat.
 
-Flambeau sat down beside him; but the doctor was one of
+[[Flambeau]] sat down beside him; but the doctor was one of
 those energetic people who live naturally on their legs.
 He walked away, smoking, into the twilight, and the two friends
 were left together.
 
-"My father," said Flambeau in French, "what is the matter with you?"
+"My father," said [[Flambeau]] in French, "what is the matter with you?"
 
-Father Brown was silent and motionless for half a minute, then he said:
+[[Father Brown]] was silent and motionless for half a minute, then he said:
 "Superstition is irreligious, but there is something in the air
 of this place.  I think it's that Indian--at least, partly."
 
-He sank into silence, and watched the distant outline of the Indian,
-who still sat rigid as if in prayer.  At first sight he seemed motionless,
-but as Father Brown watched him he saw that the man swayed ever so slightly
+He sank into [[Silence|silence]], and watched the distant outline of the Indian,
+who still sat rigid as if in [[prayer]].  At first sight he seemed motionless,
+but as [[Father Brown]] watched him he saw that the man swayed ever so slightly
 with a rhythmic movement, just as the dark tree-tops swayed ever so slightly
-in the wind that was creeping up the dim garden paths and shuffling the fallen
-leaves a little.
+in the [[Wind|wind]] that was creeping up the dim [[Garden|garden]] paths and shuffling the fallen
+[[Leaves|leaves]] a little.
 
-The landscape was growing rapidly dark, as if for a storm,
+The landscape was growing rapidly dark, as if for a [[Storm|storm]],
 but they could still see all the figures in their various places.
 Atkinson was leaning against a tree with a listless face;
-Quinton's wife was still at her window; the doctor had gone strolling
+Quinton's wife was still at her [[Window|window]]; the doctor had gone strolling
 round the end of the conservatory; they could see his cigar like
 a will-o'-the-wisp; and the fakir still sat rigid and yet rocking,
 while the trees above him began to rock and almost to roar.
-Storm was certainly coming.
+[[Storm]] was certainly coming.
 
 "When that Indian spoke to us," went on Brown in a conversational undertone,
 "I had a sort of vision, a vision of him and all his universe.
@@ -413,7 +413,7 @@ want nothing,' it meant only that he was impenetrable, that Asia
 does not give itself away.  Then he said again, `I want nothing,'
 and I knew that he meant that he was sufficient to himself, like a cosmos,
 that he needed no God, neither admitted any sins.  And when he said
-the third time, `I want nothing,' he said it with blazing eyes.
+the third [[Time|time]], `I want nothing,' he said it with blazing eyes.
 And I knew that he meant literally what he said; that nothing was
 his desire and his home; that he was weary for nothing as for wine;
 that annihilation, the mere destruction of everything or anything--"
@@ -532,10 +532,10 @@ Flambeau was about to leap upon his enemy and secure him once more,
 when the priest patted him easily on the shoulder.
 
 "Make it up with Mr. Atkinson, my friend," he said.
-"Beg a mutual pardon and say `Good night.'  We need not
-detain him any longer."  Then, as Atkinson rose somewhat
+"Beg a mutual pardon and say `Good [[Night|night]].'  We need not
+detain him any longer."  Then, as Atkinson [[Rose|rose]] somewhat
 doubtfully and gathered his hat and stick and went towards
-the garden gate, Father Brown said in a more serious voice:
+the [[Garden|garden]] gate, [[Father Brown]] said in a more serious voice:
 "Where is that Indian?"
 
 They all three (for the doctor had joined them) turned involuntarily
@@ -546,25 +546,25 @@ The Indian was gone.
 "Confound him," cried the doctor, stamping furiously.
 "Now I know that it was that nigger that did it."
 
-"I thought you didn't believe in magic," said Father Brown quietly.
+"I thought you didn't believe in [[Magic|magic]]," said [[Father Brown]] quietly.
 
-"No more I did," said the doctor, rolling his eyes.  "I only know
+"No more I did," said the doctor, [[rolling]] his eyes.  "I only know
 that I loathed that yellow devil when I thought he was a sham wizard.
 And I shall loathe him more if I come to think he was a real one."
 
-"Well, his having escaped is nothing," said Flambeau.  "For we
+"[[Well]], his having escaped is nothing," said [[Flambeau]].  "For we
 could have proved nothing and done nothing against him.
-One hardly goes to the parish constable with a story of suicide
+One hardly goes to the parish constable with a story of [[suicide]]
 imposed by witchcraft or auto-suggestion."
 
-Meanwhile Father Brown had made his way into the house,
+Meanwhile [[Father Brown]] had made his way into the [[house]],
 and now went to break the news to the wife of the dead man.
 
 When he came out again he looked a little pale and tragic,
 but what passed between them in that interview was never known,
 even when all was known.
 
-Flambeau, who was talking quietly with the doctor,
+[[Flambeau]], who was talking quietly with the doctor,
 was surprised to see his friend reappear so soon at his elbow;
 but Brown took no notice, and merely drew the doctor apart.
 "You have sent for the police, haven't you?" he asked.
@@ -572,7 +572,7 @@ but Brown took no notice, and merely drew the doctor apart.
 "Yes," answered Harris.  "They ought to be here in ten minutes."
 
 "Will you do me a favour?" said the priest quietly.
-"The truth is, I make a collection of these curious stories,
+"The [[Truth|truth]] is, I make a collection of these curious stories,
 which often contain, as in the case of our Hindoo friend,
 elements which can hardly be put into a police report.  Now, I want
 you to write out a report of this case for my private use.
@@ -587,20 +587,20 @@ The doctor, who had been listening thoughtfully with his head a little
 on one side, looked the priest in the face for an instant, and said:
 "All right," and went into the study, closing the door behind him.
 
-"Flambeau," said Father Brown, "there is a long seat there
+"[[Flambeau]]," said [[Father Brown]], "there is a long seat there
 under the veranda, where we can smoke out of the rain.
 You are my only friend in the world, and I want to talk to you.
 Or, perhaps, be silent with you."
 
 They established themselves comfortably in the veranda seat;
-Father Brown, against his common habit, accepted a good cigar
-and smoked it steadily in silence, while the rain shrieked
+[[Father Brown]], against his common habit, accepted a good cigar
+and smoked it steadily in [[Silence|silence]], while the rain shrieked
 and rattled on the roof of the veranda.
 
 "My friend," he said at length, "this is a very queer case.
 A very queer case."
 
-"I should think it was," said Flambeau, with something like a shudder.
+"I should think it was," said [[Flambeau]], with something like a shudder.
 
 "You call it queer, and I call it queer," said the other,
 "and yet we mean quite opposite things.  The modern mind always
@@ -609,33 +609,33 @@ is marvellous, and mystery in the sense of what is complicated.
 That is half its difficulty about miracles.  A miracle is startling;
 but it is simple.  It is simple because it is a miracle.
 It is power coming directly from God (or the devil) instead of
-indirectly through nature or human wills.  Now, you mean that this
+indirectly through [[Nature|nature]] or human wills.  Now, you mean that this
 business is marvellous because it is miraculous, because it
 is witchcraft worked by a wicked Indian.  Understand, I do not
 say that it was not spiritual or diabolic.  Heaven and hell
 only know by what surrounding influences strange sins come
 into the lives of men.  But for the present my point is this:
-If it was pure magic, as you think, then it is marvellous;
+If it was pure [[Magic|magic]], as you think, then it is marvellous;
 but it is not mysterious--that is, it is not complicated.
 The quality of a miracle is mysterious, but its manner is simple.
 Now, the manner of this business has been the reverse of simple."
 
-The storm that had slackened for a little seemed to be swelling
+The [[Storm|storm]] that had slackened for a little seemed to be swelling
 again, and there came heavy movements as of faint thunder.
-Father Brown let fall the ash of his cigar and went on:
+[[Father Brown]] let fall the ash of his cigar and went on:
 
 "There has been in this incident," he said, "a twisted, ugly, complex quality
 that does not belong to the straight bolts either of heaven or hell.
 As one knows the crooked track of a snail, I know the crooked track
 of a man."
 
-The white lightning opened its enormous eye in one wink,
+The white [[Lightning|lightning]] opened its enormous eye in one wink,
 the sky shut up again, and the priest went on:
 
 "Of all these crooked things, the crookedest was the shape of that piece
 of paper.  It was crookeder than the dagger that killed him."
 
-"You mean the paper on which Quinton confessed his suicide," said Flambeau.
+"You mean the paper on which Quinton confessed his [[suicide]]," said [[Flambeau]].
 
 "I mean the paper on which Quinton wrote, `I die by my own hand,'"
 answered Father Brown.  "The shape of that paper, my friend,
@@ -691,7 +691,7 @@ Flambeau laid his cigar down.  "You mean," he said,
 
 "Of the wrong shape," said the priest calmly.
 
-"Oh, the shape be damned!" cried Flambeau.  "What has the shape
+"Oh, the shape be damned!" cried [[Flambeau]].  "What has the shape
 to do with it?"
 
 "There were twenty-three snipped papers," resumed Brown unmoved,
@@ -699,46 +699,46 @@ to do with it?"
 had been destroyed, probably that from the written paper.
 Does that suggest anything to you?"
 
-A light dawned on Flambeau's face, and he said:
+A light dawned on [[Flambeau]]'s face, and he said:
 "There was something else written by Quinton, some other words.
 `They will tell you I die by my own hand,' or `Do not believe that--'"
 
 "Hotter, as the children say," said his friend.  "But the piece was hardly
-half an inch across; there was no room for one word, let alone five.
+half an inch across; there was no room for one word, let [[Alone|alone]] five.
 Can you think of anything hardly bigger than a comma which the man with hell
 in his heart had to tear away as a testimony against him?"
 
-"I can think of nothing," said Flambeau at last.
+"I can think of nothing," said [[Flambeau]] at last.
 
 "What about quotation marks?" said the priest, and flung his cigar
 far into the darkness like a shooting star.
 
-All words had left the other man's mouth, and Father Brown said,
+All words had left the other man's mouth, and [[Father Brown]] said,
 like one going back to fundamentals:
 
 "Leonard Quinton was a romancer, and was writing an Oriental
-romance about wizardry and hypnotism.  He--"
+[[Romance|romance]] about wizardry and hypnotism.  He--"
 
 At this moment the door opened briskly behind them, and the doctor came
 out with his hat on.  He put a long envelope into the priest's hands.
 
-"That's the document you wanted," he said, "and I must be getting home.
-Good night."
+"That's the document you wanted," he said, "and I must be getting [[Home|home]].
+Good [[Night|night]]."
 
-"Good night," said Father Brown, as the doctor walked briskly to the gate.
+"Good [[Night|night]]," said [[Father Brown]], as the doctor walked briskly to the gate.
 He had left the front door open, so that a shaft of gaslight fell upon them.
 In the light of this Brown opened the envelope and read the following words:
 
 
 
-DEAR FATHER BROWN,--Vicisti Galilee.  Otherwise, damn your
+DEAR [[Father Brown|FATHER BROWN]],--Vicisti Galilee.  Otherwise, damn your
 
 eyes, which are very penetrating ones.  Can it be possible that
 
 there is something in all that stuff of yours after all?
 
 
-I am a man who has ever since boyhood believed in Nature and
+I am a man who has ever since boyhood believed in [[Nature]] and
 
 in all natural functions and instincts, whether men called them
 
@@ -748,16 +748,16 @@ schoolboy keeping mice and spiders, I believed that to be a good
 
 animal is the best thing in the world.  But just now I am shaken;
 
-I have believed in Nature; but it seems as if Nature could betray
+I have believed in [[Nature]]; but it seems as if [[Nature]] could betray
 
 a man.  Can there be anything in your bosh?  I am really getting
 
 morbid.
 
 
-I loved Quinton's wife.  What was there wrong in that?  Nature
+I loved Quinton's wife.  What was there wrong in that?  [[Nature]]
 
-told me to, and it's love that makes the world go round.  I also
+told me to, and it's [[Love|love]] that makes the world go round.  I also
 
 thought quite sincerely that she would be happier with a clean
 
@@ -782,7 +782,7 @@ would leave me scot free.  I saw that chance this morning.
 
 I have been three times, all told, into Quinton's study today.
 
-The first time I went in he would talk about nothing but the weird
+The first [[Time|time]] I went in he would talk about nothing but the weird
 
 tale, called "The Cure of a Saint," which he was writing, which
 
@@ -792,7 +792,7 @@ himself by thinking about him.  He showed me the last sheets, and
 
 even read me the last paragraph, which was something like this:
 
-"The conqueror of the Punjab, a mere yellow skeleton, but still
+"The conqueror of the Punjab, a mere yellow [[skeleton]], but still
 
 gigantic, managed to lift himself on his elbow and gasp in his
 
@@ -803,12 +803,12 @@ happened by one chance out of a hundred, that those last words
 were written at the top of a new sheet of paper.
 I left the room,
 
-and went out into the garden intoxicated with a frightful
+and went out into the [[Garden|garden]] intoxicated with a frightful
 
 opportunity.
 
 
-We walked round the house; and two more things happened in my
+We walked round the [[house]]; and two more things happened in my
 
 favour.  You suspected an Indian, and you found a dagger which the
 
@@ -822,12 +822,12 @@ Atkinson at all, but I urged him to call out and quiet the fellow,
 
 because I wanted a clear proof that Quinton was alive when I left
 
-the room for the second time.  Quinton lay down in the conservatory,
+the room for the second [[Time|time]].  Quinton lay down in the conservatory,
 and I came through the study.  I am a quick man with my hands, and
 
 in a minute and a half I had done what I wanted to do.  I had
 
-emptied all the first part of Quinton's romance into the fireplace,
+emptied all the first part of Quinton's [[Romance|romance]] into the fireplace,
 
 where it burnt to ashes.  Then I saw that the quotation marks
 
@@ -835,7 +835,7 @@ wouldn't do, so I snipped them off, and to make it seem likelier,
 
 snipped the whole quire to match.  Then I came out with the
 
-knowledge that Quinton's confession of suicide lay on the front
+knowledge that Quinton's confession of [[suicide]] lay on the front
 
 table, while Quinton lay alive but asleep in the conservatory
 
@@ -849,19 +849,19 @@ I delayed you
 
 with the paper, and, being a quick man with my hands, killed
 
-Quinton while you were looking at his confession of suicide.
+Quinton while you were looking at his confession of [[suicide]].
 He
 
 was half-asleep, being drugged, and I put his own hand on the
 
-knife and drove it into his body.  The knife was of so queer a
+knife and drove it into his [[Body|body]].  The knife was of so queer a
 
 shape that no one but an operator could have calculated the angle
 
-that would reach his heart.  I wonder if you noticed this.
+that would reach his heart.  I [[Wonder|wonder]] if you noticed this.
 
 
-When I had done it, the extraordinary thing happened.  Nature
+When I had done it, the extraordinary thing happened.  [[Nature]]
 
 deserted me.  I felt ill.  I felt just as if I had done something
 
@@ -869,19 +869,19 @@ wrong.  I think my brain is breaking up; I feel some sort of
 
 desperate pleasure in thinking I have told the thing to somebody;
 
-that I shall not have to be alone with it if I marry and have
+that I shall not have to be [[Alone|alone]] with it if I marry and have
 
-children.  What is the matter with me? ... Madness ... or can one
+children.  What is the matter with me? ... [[Madness]] ... or can one
 
-have remorse, just as if one were in Byron's poems!  I cannot
+have remorse, just as if one were in Byron's [[Poems|poems]]!  I cannot
 
 write any more.
 
-                                 James Erskine Harris.            
+                                 James [[Erskine]] Harris.            
 
 
 
 
-Father Brown carefully folded up the letter, and put it in his breast
+[[Father Brown]] carefully folded up the letter, and put it in his breast
 pocket just as there came a loud peal at the gate bell, and the wet
-waterproofs of several policemen gleamed in the road outside.
+waterproofs of several policemen gleamed in the [[Road|road]] outside.

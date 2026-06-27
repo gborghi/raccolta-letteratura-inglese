@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 30 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 30 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -20,18 +20,18 @@ tags:
 
 ‘Pray, pa, don’t,’ interposed Miss Snevellicci.
 
-‘Don’t what, my child?’
+‘Don’t what, my [[Child|child]]?’
 
 ‘Talk in that way.’
 
-‘Why not?’ said Mr. Snevellicci. ‘I hope you don’t suppose there’s
+‘Why not?’ said Mr. Snevellicci. ‘I [[Hope|hope]] you don’t suppose there’s
 anybody here who is to prevent my talking as I like?’
 
 ‘Nobody wants to, pa,’ rejoined his daughter.
 
 ‘Nobody would if they did want to,’ said Mr. Snevellicci. ‘I am not
 ashamed of myself, Snevellicci is my name; I’m to be found in Broad
-Court, Bow Street, when I’m in town. If I’m not at home, let any man
+[[Court]], Bow Street, when I’m in town. If I’m not at [[Home|home]], let any man
 ask for me at the stage-door. Damme, they know me at the stage-door
 I suppose. Most men have seen my portrait at the cigar shop round the
 corner. I’ve been mentioned in the newspapers before now, haven’t I?
@@ -40,25 +40,25 @@ with the affections of my daughter, I wouldn’t talk. I’d astonish him
 without talking; that’s my way.’
 
 So saying, Mr. Snevellicci struck the palm of his left hand three smart
-blows with his clenched fist; pulled a phantom nose with his right thumb
+blows with his clenched fist; pulled a [[Phantom|phantom]] nose with his right thumb
 and forefinger, and swallowed another glassful at a draught. ‘That’s my
 way,’ repeated Mr. Snevellicci.
 
-Most public characters have their failings; and the truth is that Mr
-Snevellicci was a little addicted to drinking; or, if the whole truth
+Most public characters have their failings; and the [[Truth|truth]] is that Mr
+Snevellicci was a little addicted to drinking; or, if the whole [[Truth|truth]]
 must be told, that he was scarcely ever sober. He knew in his cups three
 distinct stages of intoxication,--the dignified--the quarrelsome--the
 amorous. When professionally engaged he never got beyond the dignified;
 in private circles he went through all three, passing from one to
 another with a rapidity of transition often rather perplexing to those
-who had not the honour of his acquaintance.
+who had not the [[Honour|honour]] of his acquaintance.
 
 Thus Mr. Snevellicci had no sooner swallowed another glassful than he
 smiled upon all present in happy forgetfulness of having exhibited
 symptoms of pugnacity, and proposed ‘The ladies! Bless their hearts!’ in
 a most vivacious manner.
 
-‘I love ‘em,’ said Mr. Snevellicci, looking round the table, ‘I love ‘em,
+‘I [[Love|love]] ‘em,’ said Mr. Snevellicci, looking round the table, ‘I [[Love|love]] ‘em,
 every one.’
 
 ‘Not every one,’ reasoned Mr. Lillyvick, mildly.
@@ -67,15 +67,15 @@ every one.’
 
 ‘That would include the married ladies, you know,’ said Mr. Lillyvick.
 
-‘I love them too, sir,’ said Mr. Snevellicci.
+‘I [[Love|love]] them too, sir,’ said Mr. Snevellicci.
 
-The collector looked into the surrounding faces with an aspect of grave
+The collector looked into the surrounding faces with an aspect of [[Grave|grave]]
 astonishment, seeming to say, ‘This is a nice man!’ and appeared a
 little surprised that Mrs. Lillyvick’s manner yielded no evidences of
 horror and indignation.
 
-‘One good turn deserves another,’ said Mr. Snevellicci. ‘I love them
-and they love me.’ And as if this avowal were not made in sufficient
+‘One good turn deserves another,’ said Mr. Snevellicci. ‘I [[Love|love]] them
+and they [[Love|love]] me.’ And as if this avowal were not made in sufficient
 disregard and defiance of all moral obligations, what did Mr. Snevellicci
 do? He winked--winked openly and undisguisedly; winked with his right
 eye--upon Henrietta Lillyvick!
@@ -98,7 +98,7 @@ him, all doubled up, into a chair, as if he had been a stuffed figure.
 ‘What do you mean to do? What do you want to do? What is the matter with
 you?’
 
-While Nicholas raised up the collector, Smike had performed the same
+While Nicholas raised up the collector, [[Smike]] had performed the same
 office for Mr. Snevellicci, who now regarded his late adversary in tipsy
 amazement.
 
@@ -113,7 +113,7 @@ inquiring look of Nicholas. ‘Nobody has said anything to me.’
 Lillyvick couldn’t bring himself to utter the word, but he counterfeited
 the motion of the eye.
 
-‘Well!’ cried Mrs. Lillyvick. ‘Do you suppose nobody is ever to look at
+‘[[Well]]!’ cried Mrs. Lillyvick. ‘Do you suppose nobody is ever to look at
 me? A pretty thing to be married indeed, if that was law!’
 
 ‘You didn’t mind it?’ cried the collector.
@@ -139,18 +139,18 @@ all round, beginning with Mrs. Lillyvick.
 The unhappy collector looked piteously at his wife, as if to see whether
 there was any one trait of Miss Petowker left in Mrs. Lillyvick, and
 finding too surely that there was not, begged pardon of all the company
-with great humility, and sat down such a crest-fallen, dispirited,
+with great [[Humility|humility]], and sat down such a crest-fallen, dispirited,
 disenchanted man, that despite all his selfishness and dotage, he was
 quite an object of compassion.
 
 Miss Snevellicci’s papa being greatly exalted by this triumph, and
 incontestable proof of his popularity with the fair sex, quickly grew
-convivial, not to say uproarious; volunteering more than one song of
+convivial, not to say uproarious; volunteering more than one [[Song|song]] of
 no inconsiderable length, and regaling the social circle between-whiles
 with recollections of divers splendid women who had been supposed to
 entertain a passion for himself, several of whom he toasted by name,
-taking occasion to remark at the same time that if he had been a little
-more alive to his own interest, he might have been rolling at that
+taking occasion to remark at the same [[Time|time]] that if he had been a little
+more alive to his own interest, he might have been [[rolling]] at that
 moment in his chariot-and-four. These reminiscences appeared to awaken
 no very torturing pangs in the breast of Mrs. Snevellicci, who was
 sufficiently occupied in descanting to Nicholas upon the manifold
@@ -158,7 +158,7 @@ accomplishments and merits of her daughter. Nor was the young lady
 herself at all behind-hand in displaying her choicest allurements; but
 these, heightened as they were by the artifices of Miss Ledrook, had no
 effect whatever in increasing the attentions of Nicholas, who, with the
-precedent of Miss Squeers still fresh in his memory, steadily resisted
+precedent of Miss Squeers still fresh in his [[Memory|memory]], steadily resisted
 every fascination, and placed so strict a guard upon his behaviour that
 when he had taken his leave the ladies were unanimous in pronouncing him
-quite a monster of insensibility.
+quite a [[Monster|monster]] of insensibility.

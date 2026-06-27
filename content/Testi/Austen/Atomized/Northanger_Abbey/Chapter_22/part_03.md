@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 21 (part 3)"
+title: "[[Northanger Abbey]] — Chapter 21 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -20,7 +20,7 @@ vicinity. Again, therefore, she applied herself to the key, and after
 
 moving it in every possible way for some instants with the determined
 
-celerity of hope’s last effort, the door suddenly yielded to her hand:
+celerity of [[Hope|hope]]’s last effort, the door suddenly yielded to her hand:
 
 her heart leaped with exultation at such a victory, and having thrown
 
@@ -28,7 +28,7 @@ open each folding door, the second being secured only by bolts of less
 
 wonderful construction than the lock, though in that her eye could not
 
-discern anything unusual, a double range of small drawers appeared in
+discern anything unusual, a [[Double|double]] range of small drawers appeared in
 
 view, with some larger drawers above and below them; and in the centre,
 
@@ -38,9 +38,9 @@ probability a cavity of importance.
 
 
 
-Catherine’s heart beat quick, but her courage did not fail her. With a
+Catherine’s heart beat quick, but her [[Courage|courage]] did not fail her. With a
 
-cheek flushed by hope, and an eye straining with curiosity, her fingers
+cheek flushed by [[Hope|hope]], and an eye straining with curiosity, her fingers
 
 grasped the handle of a drawer and drew it forth. It was entirely
 
@@ -48,21 +48,21 @@ empty. With less alarm and greater eagerness she seized a second, a
 
 third, a fourth; each was equally empty. Not one was left unsearched,
 
-and in not one was anything found. Well read in the art of concealing a
+and in not one was anything found. [[Well]] read in the art of concealing a
 
 treasure, the possibility of false linings to the drawers did not
 
 escape her, and she felt round each with anxious acuteness in vain. The
 
-place in the middle alone remained now unexplored; and though she had
+place in the middle [[Alone|alone]] remained now unexplored; and though she had
 
 “never from the first had the smallest idea of finding anything in any
 
 part of the cabinet, and was not in the least disappointed at her ill
 
-success thus far, it would be foolish not to examine it thoroughly
+[[success]] thus far, it would be foolish not to examine it thoroughly
 
-while she was about it.” It was some time however before she could
+while she was about it.” It was some [[Time|time]] however before she could
 
 unfasten the door, the same difficulty occurring in the management of
 
@@ -102,17 +102,17 @@ in one. A lamp could not have expired with more awful effect.
 
 Catherine, for a few moments, was motionless with horror. It was done
 
-completely; not a remnant of light in the wick could give hope to the
+completely; not a remnant of light in the wick could give [[Hope|hope]] to the
 
 rekindling breath. Darkness impenetrable and immovable filled the room.
 
-A violent gust of wind, rising with sudden fury, added fresh horror to
+A violent gust of [[Wind|wind]], rising with sudden fury, added fresh horror to
 
 the moment. Catherine trembled from head to foot. In the pause which
 
 succeeded, a sound like receding footsteps and the closing of a distant
 
-door struck on her affrighted ear. Human nature could support no more.
+door struck on her affrighted ear. Human [[Nature|nature]] could support no more.
 
 A cold sweat stood on her forehead, the manuscript fell from her hand,
 
@@ -120,13 +120,13 @@ and groping her way to the bed, she jumped hastily in, and sought some
 
 suspension of agony by creeping far underneath the clothes. To close
 
-her eyes in sleep that night, she felt must be entirely out of the
+her eyes in [[Sleep|sleep]] that [[Night|night]], she felt must be entirely out of the
 
 question. With a curiosity so justly awakened, and feelings in every
 
-way so agitated, repose must be absolutely impossible. The storm too
+way so agitated, repose must be absolutely impossible. The [[Storm|storm]] too
 
-abroad so dreadful! she had not been used to feel alarm from wind, but
+abroad so dreadful! she had not been used to feel alarm from [[Wind|wind]], but
 
 now every blast seemed fraught with awful intelligence. The manuscript
 
@@ -146,9 +146,9 @@ first rays she was determined to peruse it. But many were the tedious
 
 hours which must yet intervene. She shuddered, tossed about in her bed,
 
-and envied every quiet sleeper. The storm still raged, and various were
+and envied every quiet sleeper. The [[Storm|storm]] still raged, and various were
 
-the noises, more terrific even than the wind, which struck at intervals
+the noises, more terrific even than the [[Wind|wind]], which struck at intervals
 
 on her startled ear. The very curtains of her bed seemed at one moment
 
@@ -156,10 +156,10 @@ in motion, and at another the lock of her door was agitated, as if by
 
 the attempt of somebody to enter. Hollow murmurs seemed to creep along
 
-the gallery, and more than once her blood was chilled by the sound of
+the gallery, and more than once her [[Blood|blood]] was chilled by the sound of
 
 distant moans. Hour after hour passed away, and the wearied Catherine
 
-had heard three proclaimed by all the clocks in the house before the
+had heard three proclaimed by all the clocks in the [[house]] before the
 
 tempest subsided or she unknowingly fell fast asleep.

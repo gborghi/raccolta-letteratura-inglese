@@ -1,5 +1,5 @@
 ---
-title: "The Gold-Bug (part 14)"
+title: "[[The Gold-Bug]] (part 14)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Gold-Bug-(Poe)"
@@ -16,21 +16,21 @@ tags:
 
       and thought that she could guide me to it, but that it was not a
 
-      castle nor a tavern, but a high rock.
+      [[Castle|castle]] nor a tavern, but a high rock.
 
 
 
-      “I offered to pay her well for her trouble, and, after some
+      “I offered to pay her [[Well|well]] for her trouble, and, after some
 
       demur, she consented to accompany me to the spot. We found it
 
       without much difficulty, when, dismissing her, I proceeded to
 
-      examine the place. The ‘castle’ consisted of an irregular
+      examine the place. The ‘[[Castle|castle]]’ consisted of an irregular
 
       assemblage of cliffs and rocks—one of the latter being quite
 
-      remarkable for its height as well as for its insulated and
+      remarkable for its height as [[Well|well]] as for its insulated and
 
       artificial appearance. I clambered to its apex, and then felt
 
@@ -48,11 +48,11 @@ tags:
 
       cliff just above it gave it a rude resemblance to one of the
 
-      hollow-backed chairs used by our ancestors. I made no doubt that
+      hollow-backed chairs used by our ancestors. I made no [[Doubt|doubt]] that
 
       here was the ‘devil’s seat’ alluded to in the MS., and now I
 
-      seemed to grasp the full secret of the riddle.
+      seemed to grasp the full secret of the [[Riddle|riddle]].
 
 
 
@@ -70,7 +70,7 @@ tags:
 
       north,’ were intended as directions for the levelling of the
 
-      glass. Greatly excited by these discoveries, I hurried home,
+      glass. Greatly excited by these discoveries, I hurried [[Home|home]],
 
       procured a telescope, and returned to the rock.
 
@@ -116,7 +116,7 @@ tags:
 
       could refer only to the position of the skull upon the tree,
 
-      while ‘shoot from the left eye of the death’s head’ admitted,
+      while ‘shoot from the left eye of the [[Death|death]]’s head’ admitted,
 
       also, of but one interpretation, in regard to a search for buried
 
@@ -164,19 +164,19 @@ tags:
 
       “In this expedition to the ‘Bishop’s Hotel’ I had been attended
 
-      by Jupiter, who had, no doubt, observed, for some weeks past, the
+      by Jupiter, who had, no [[Doubt|doubt]], observed, for some weeks past, the
 
       abstraction of my demeanor, and took especial care not to leave
 
-      me alone. But, on the next day, getting up very early, I
+      me [[Alone|alone]]. But, on the next day, getting up very early, I
 
       contrived to give him the slip, and went into the hills in search
 
-      of the tree. After much toil I found it. When I came home at
+      of the tree. After much toil I found it. When I came [[Home|home]] at
 
-      night my valet proposed to give me a flogging. With the rest of
+      [[Night|night]] my valet proposed to give me a flogging. With the rest of
 
-      the adventure I believe you are as well acquainted as myself.”
+      the adventure I believe you are as [[Well|well]] acquainted as myself.”
 
 
 
@@ -202,7 +202,7 @@ tags:
 
       course the error, however trivial in the beginning, increased as
 
-      we proceeded with the line, and by the time we had gone fifty
+      we proceeded with the line, and by the [[Time|time]] we had gone fifty
 
       feet, threw us quite off the scent. But for my deep-seated
 
@@ -224,9 +224,9 @@ tags:
 
       “Why, to be frank, I felt somewhat annoyed by your evident
 
-      suspicions touching my sanity, and so resolved to punish you
+      suspicions touching my [[Sanity|sanity]], and so resolved to punish you
 
-      quietly, in my own way, by a little bit of sober mystification.
+      quietly, in my own way, by a little bit of sober [[Mystification|mystification]].
 
       For this reason I swung the beetle, and for this reason I let it
 
@@ -250,7 +250,7 @@ tags:
 
       suggestion would imply. It is clear that Kidd—if Kidd indeed
 
-      secreted this treasure, which I doubt not—it is clear that he
+      secreted this treasure, which I [[Doubt|doubt]] not—it is clear that he
 
       must have had assistance in the labor. But this labor concluded,
 

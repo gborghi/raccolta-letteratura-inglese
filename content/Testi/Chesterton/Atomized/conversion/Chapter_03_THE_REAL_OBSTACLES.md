@@ -1,5 +1,5 @@
 ---
-title: "conversion — Chapter 3: THE REAL OBSTACLES"
+title: "[[conversion]] — Chapter 3: THE REAL OBSTACLES"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/conversion-(Chesterton)"
@@ -25,8 +25,8 @@ to be the noblest of all the prejudices of Protestantism:
 that which is simply founded on patriotism.  I do not think
 patriotism is necessarily prejudice; but I am quite sure it must
 be prejudice and nothing else but prejudice, unless it is covered
-by some common morality.  And a patriotism that does not allow
-other people to be patriots is not a morality but an immorality.
+by some common [[morality]].  And a patriotism that does not allow
+other people to be patriots is not a [[morality]] but an immorality.
 Even such a tribal prejudice, however, is a more respectable
 thing than most of the rags and tatters of stale slander and
 muddleheadedness which I am obliged to put first as the official
@@ -52,21 +52,21 @@ difficulties.  This is connected, of course, with a general fact,
 now so large and obvious but still not clearly comprehended
 and confessed.  The whole case of Protestantism against Catholicism
 has been turned clean round and is facing the contrary way.
-On practically every single point on which the Reformation accused
+On practically every single point on which the [[Reformation]] accused
 the Church, the modern world has not only acquitted the Church
 of the crime, but has actually charged it with the opposite crime.
 It is as if the reformers had mobbed the Pope for being a miser,
-and then the court had not only acquitted him but had censured
+and then the [[Court|court]] had not only acquitted him but had censured
 him for his extravagance in scattering money among the mob.
 The principle of modern Protestantism seems to be that so long
 as we go on shouting "To hell with the Pope" there is room
 for the widest differences of opinion about whether he should go
 to the hell of the misers or the hell of the spendthrifts.
-This is what is meant by a broad basis for Christianity and the statement
+This is what is meant by a broad basis for [[Christianity]] and the statement
 that there is room for many different opinions side by side.
-When the reformer says that the principles of the Reformation
-give freedom to different points of view, he means that they give
-freedom to the Universalist to curse Rome for having too much
+When the reformer says that the principles of the [[Reformation]]
+give [[Freedom|freedom]] to different points of view, he means that they give
+[[Freedom|freedom]] to the Universalist to curse Rome for having too much
 predestination and to the Calvinist to curse her for having
 too little.  He means that in that happy family there is a place
 for the No Popery man who finds Purgatory too tender-hearted
@@ -75,9 +75,9 @@ He means that the same description can somehow be made
 to cover the Tolstoyan who blames priests because they permit
 patriotism and the Diehard who blames priests because they
 represent Internationalism.  After all, the essential aim of true
-Christianity is that priests should be blamed; and who are we
+[[Christianity]] is that priests should be blamed; and who are we
 that we should set narrow dogmatic limits to the various ways
-in which various temperaments may desire to blame them?
+in which various temperaments may [[Desire|desire]] to blame them?
 Why should we allow a cold difficulty of the logician,
 technically called a contradiction in terms, to stand between us
 and the warm and broadening human brotherhood of all who are
@@ -91,20 +91,20 @@ Such is the larger and more liberal modern attack upon the Church.  It is
 quite inconsistent with the old doctrinal attack; but it does not
 propose to lose the advantages arising from any sort of attack.
 But in a somewhat analogous fashion, it will be found that the real
-difficulties of a modern convert are almost the direct contrary of those
+difficulties of a modern [[convert]] are almost the direct contrary of those
 which were alleged by the more ancient Protestants.  Protestant pamphlets
 do not touch even remotely any of the real hesitations that he feels;
 and even Catholic pamphlets have often been concerned too much
 with answering the Protestant pamphlets.  Indeed, the only sense
 in which the priests and propagandists of Catholicism can really
 be said to be behind the times is that they sometimes go on flogging
-a dead horse and killing a heresy long after it has killed itself.
+a dead [[Horse|horse]] and killing a heresy long after it has killed itself.
 But even that is, properly understood, a fault on the side of chivalry.
 The preacher, and even the persecutor, really takes the heresy more
 seriously than it is seen ultimately to deserve; the inquisitor has
 more respect for the heresy than the heretics have.  Still, it is true
-that the grounds of suspicion or fear that do really fill the convert,
-and sometimes paralyse him at the very point of conversion,
+that the grounds of suspicion or [[Fear|fear]] that do really fill the [[convert]],
+and sometimes paralyse him at the very point of [[conversion]],
 have really nothing in the world to do with this old crop of crude
 slanders and fallacies, and are often the very inversion of them.
 
@@ -124,13 +124,13 @@ reasonableness and its common sense.  Most of those who have
 gone through this experience have a certain right to say,
 like the old soldier to his ignorant comrade, "Yes, I was afraid;
 and if you were half as much afraid, you would run away."
-Perhaps it is just as well that people go through this stage
+Perhaps it is just as [[Well|well]] that people go through this stage
 before discovering how very little there is to be afraid of.
 In any case, I will say little more of that example here,
-having a feeling that absolution, like death and marriage,
+having a feeling that absolution, like [[Death|death]] and [[Marriage|marriage]],
 is a thing that a man ought to find out for himself.  It will be
 enough to say that this is perhaps the supreme example of the fact
-that the Faith is a paradox that measures more within than without.
+that the [[Faith]] is a [[Paradox|paradox]] that measures more within than without.
 If that be true of the smallest church, it is truer still of the yet
 smaller confessional-box, that is like a church within a church.
 It is almost a good thing that nobody outside should know
@@ -142,7 +142,7 @@ that mountain of magnanimity.
 
 It is the same with all the other points of attack,
 especially the old ones.  The man who has come so far
-as that along the road has long left behind him the notion
+as that along the [[Road|road]] has long left behind him the notion
 that the priest will force him to abandon his will.
 But he is not unreasonably dismayed at the extent to which
 he may have to use his will.  He is not frightened because,
@@ -152,20 +152,20 @@ He will have somebody to be responsible to and he will know
 what he is responsible for; two uncomfortable conditions which his
 more fortunate fellow-creatures have nowadays entirely escaped.
 There are of course many other examples of the same principle:
-that there is indeed an interval of acute doubt, which is,
-strictly speaking, rather fear than doubt, since in some cases
+that there is indeed an interval of acute [[Doubt|doubt]], which is,
+strictly speaking, rather [[Fear|fear]] than [[Doubt|doubt]], since in some cases
 at least (as I shall point out elsewhere) there is actually
-least doubt when there is most fear.
+least [[Doubt|doubt]] when there is most [[Fear|fear]].
 
 But anyhow, the doubts are hardly ever of the sort suggested
-by ordinary anti-Catholic propaganda:  and it is surely time
+by ordinary anti-Catholic propaganda:  and it is surely [[Time|time]]
 that such propagandists brought themselves more in touch
 with the real problem.  The Catholic is scarcely ever
 frightened of the Protestant picture of Catholicism; but he is
 sometimes frightened of the Catholic picture of Catholicism;
 which may be a good reason for not disproportionately
 stressing the difficult or puzzling parts of the scheme.
-For the convert's sake, it should also be remembered that one
+For the [[convert]]'s sake, it should also be remembered that one
 foolish word from inside does more harm than a hundred thousand
 foolish words from outside.  The latter he has already learned
 to expect, like a blind hail or rain beating upon the Ark;
@@ -173,7 +173,7 @@ but the voices from within, even the most casual and accidental,
 he is already prepared to regard as holy or more than human;
 and though this is unfair to people who only profess to be
 human beings, it is a fact that Catholics ought to remember.
-There is many a convert who has reached a stage at which no word
+There is many a [[convert]] who has reached a stage at which no word
 from any Protestant or pagan could any longer hold him back.
 Only the word of a Catholic can keep him from Catholicism.
 
@@ -191,14 +191,14 @@ less wise; for in most communions the ecclesiastical layman is
 more ecclesiastical than is good for his health, and certainly
 much more ecclesiastical than the ecclesiastics.  My experience is
 that the amateur is generally much more angry than the professional;
-and if he expresses his irritation at the slow process of conversion,
+and if he expresses his irritation at the slow process of [[conversion]],
 or the inconsistencies of the intermediate condition, he may do
 a great deal of harm, of the kind that he least intends to do.
 I know in my own case that I always experienced a slight setback
 whenever some irresponsible individual interposed to urge me on.
 It is worth while, for practical reasons, to testify to such experience,
-because it may guide the convert when he in his turn begins converting.
-Our enemies no longer really know how to attack the faith;
+because it may guide the [[convert]] when he in his turn begins converting.
+Our enemies no longer really know how to attack the [[Faith|faith]];
 but that is no reason why we should not know how to defend it.
 
 Yet even that one trivial or incidental caution carries
@@ -208,9 +208,9 @@ they are the very contrary of the Protestant's warnings.
 Merely as a matter of personal experience, I have been led to note
 here that it is not generally the priest, but much more often
 the layman, who rather too ostentatiously compasses sea and land
-to make one proselyte.  All the creepy and uncanny whispers about
-the horror of having the priest in the home, as if he were a sort
-of vampire or a monster intrinsically different from mankind,
+to make one proselyte.  All the creepy and [[Uncanny|uncanny]] whispers about
+the horror of having the priest in the [[Home|home]], as if he were a sort
+of vampire or a [[Monster|monster]] intrinsically different from mankind,
 vanishes with the smallest experience of the militant layman.
 The priest does his job, but it is much more his secular
 co-religionist who is disposed to explain it and talk about it.
@@ -231,13 +231,13 @@ again that the old traditional version of the terrors of Popery was
 almost always wrong, even where it might possibly have been right.
 A man may say if he likes that Catholicism is the enemy;
 and he may be stating from his point of view a profound
-spiritual truth.  But if he says that Clericalism is the enemy,
+spiritual [[Truth|truth]].  But if he says that Clericalism is the enemy,
 he is repeating a catchword.
 
-It is my experience that the convert commonly passes through three
+It is my experience that the [[convert]] commonly passes through three
 stages or states of mind.  The first is when he imagines himself
 to be entirely detached, or even to be entirely indifferent,
-but in the old sense of the term, as when the Prayer Book talks
+but in the old sense of the term, as when the [[Prayer]] Book talks
 of judges who will truly and indifferently administer justice.
 Some flippant modern person would probably agree that our judges
 administer justice very indifferently.  But the older meaning was
@@ -253,30 +253,30 @@ by Messrs.  Horton and Hocking.  I noted, for instance, that it
 was nonsense to say that the Covenanters fought for religious
 liberty when the Covenant denounced religious toleration;
 that it was false to say the Church only asked for orthodoxy and
-was indifferent to morality, since, if this was true of anybody,
-it was obviously true of the supporters of salvation by faith
+was indifferent to [[morality]], since, if this was true of anybody,
+it was obviously true of the supporters of salvation by [[Faith|faith]]
 and not of salvation by works; that it was absurd to say that
 Catholics introduced a horrible sophistry of saying that a man
 might sometimes tell a lie, since every sane man knows he would
-tell a lie to save a child from Chinese torturers; that it missed
+tell a lie to save a [[Child|child]] from Chinese torturers; that it missed
 the whole point, in this connection, to quote Ward's phrase,
 "Make up your mind that you are justified in lying and then lie
 like a trooper," for Ward's argument was against equivocation
-or what people call Jesuitry.  He meant, "When the child really
+or what people call Jesuitry.  He meant, "When the [[Child|child]] really
 is hiding in the cupboard and the Chinese torturers really
 are chasing him with red-hot pincers, then (and then only)
 be sure that you are right to deceive and do not hesitate to lie;
 but do not stoop to equivocate.  Do not bother yourself
-to say, "The child is in a wooden house not far from here,"
-meaning the cupboard; but say the child is in Chiswick or
+to say, "The [[Child|child]] is in a wooden [[house]] not far from here,"
+meaning the cupboard; but say the [[Child|child]] is in Chiswick or
 Chimbora zoo, or anywhere you choose."  I find I made elaborate
-notes of all these arguments all that long time ago, merely for
+notes of all these arguments all that long [[Time|time]] ago, merely for
 the logical pleasure of disentangling an intellectual injustice.
 I had no more idea of becoming a Catholic than of becoming a cannibal.
 I imagined that I was merely pointing out that justice should
 be done even to cannibals.  I imagined that I was noting
 certain fallacies partly for the fun of the thing and partly
-for a certain feeling of loyalty to the truth of things.
+for a certain feeling of loyalty to the [[Truth|truth]] of things.
 But as a matter of fact, looking back on these notes (which I
 never published), it seems to me that I took a tremendous amount
 of trouble about it if I really regarded it as a trifle; and taking
@@ -284,33 +284,33 @@ trouble has certainly never been a particular weakness of mine.
 It seems to me that something was already working subconsciously
 to keep me more interested in fallacies about this particular
 topic than in fallacies about Free Trade or Female Suffrage
-or the House of Lords.  Anyhow, that is the first stage in my
+or the [[house|House]] of Lords.  Anyhow, that is the first stage in my
 own case and I think in many other cases:  the stage of simply
 wishing to protect Papists from slander and oppression, not
-(consciously at least) because they hold any particular truth,
+(consciously at least) because they hold any particular [[Truth|truth]],
 but because they suffer from a particular accumulation of falsehood.
-The second stage is that in which the convert begins to be
-conscious not only of the falsehood but the truth and is enormously
+The second stage is that in which the [[convert]] begins to be
+conscious not only of the falsehood but the [[Truth|truth]] and is enormously
 excited to find that there is far more of it than he would ever
 have expected.  This is not so much a stage as a progress;
-and it goes on pretty rapidly but often for a long time.
+and it goes on pretty rapidly but often for a long [[Time|time]].
 It consists in discovering what a very large number of lively
-and interesting ideas there are in the Catholic philosophy,
+and interesting ideas there are in the Catholic [[philosophy]],
 that a great many of them commend themselves at once to
 his sympathies, and that even those which he would not accept
 have something to be said for them justifying their acceptance.
-This process, which may be called discovering the Catholic Church,
+This process, which may be called discovering the [[Catholic Church]],
 is perhaps the most pleasant and straightforward part
-of the business easier than joining the Catholic Church
+of the business easier than joining the [[Catholic Church]]
 and much easier than trying to live the Catholic life.
-It is like discovering a new continent full of strange flowers
-and fantastic animals, which is at once wild and hospitable.
+It is like discovering a new continent full of strange [[Flowers|flowers]]
+and fantastic [[Animals|animals]], which is at once wild and hospitable.
 To give anything like a full account of that process would simply
 be to discuss about half a hundred Catholic ideas and institutions
 in turn.  I might remark that much of it consists of the act
-of translation; of discovering the real meaning of words,
+of [[Translation|translation]]; of discovering the real meaning of words,
 which the Church uses rightly and the world uses wrongly.
-For instance, the convert discovers that "scandal" does not
+For instance, the [[convert]] discovers that "scandal" does not
 mean "gossip"; and the sin of causing it does not mean that it
 is always wicked to set silly old women wagging their tongues.
 Scandal means scandal, what it originally meant in Greek and Latin:
@@ -320,46 +320,46 @@ or "venial sin," which mean nothing at all in the newspapers,
 mean something quite intelligent and interesting in the manuals
 of moral theology.  He begins to realise that it is the secular
 world that spoils the sense of words; and he catches an
-exciting glimpse of the real case for the iron immortality
+exciting glimpse of the real case for the iron [[Immortality|immortality]]
 of the Latin Mass.  It is not a question between a dead language
 and a living language, in the sense of an everlasting language.
 It is a question between a dead language and a dying language;
 an inevitably degenerating language.  It is these numberless
 glimpses of great ideas, that have been hidden from
-the convert by the prejudices of his provincial culture,
+the [[convert]] by the prejudices of his provincial culture,
 that constitute the adventurous and varied second stage
-of the conversion.  It is, broadly speaking, the stage
+of the [[conversion]].  It is, broadly speaking, the stage
 in which the man is unconsciously trying to be converted.
 And the third stage is perhaps the truest and the most terrible.
 It is that in which the man is trying not to be converted.
 
-He has come too near to the truth, and has forgotten that truth
+He has come too near to the [[Truth|truth]], and has forgotten that [[Truth|truth]]
 is a magnet, with the powers of attraction and repulsion.
-He is filled with a sort of fear, which makes him feel like a fool
+He is filled with a sort of [[Fear|fear]], which makes him feel like a [[Fool|fool]]
 who has been patronising "Popery" when he ought to have been awakening
 to the reality of Rome.  He discovers a strange and alarming fact,
 which is perhaps implied in Newman's interesting lecture on Blanco White
-and the two ways of attacking Catholicism.  Anyhow, it is a truth that
-Newman and every other convert has probably found in one form or another.
-It is impossible to be just to the Catholic Church.  The moment men
+and the two ways of attacking Catholicism.  Anyhow, it is a [[Truth|truth]] that
+Newman and every other [[convert]] has probably found in one form or another.
+It is impossible to be just to the [[Catholic Church]].  The moment men
 cease to pull against it they feel a tug towards it.  The moment they
 cease to shout it down they begin to listen to it with pleasure.
 The moment they try to be fair to it they begin to be fond of it.
 But when that affection has passed a certain point it begins to take
-on the tragic and menacing grandeur of a great love affair.  The man
+on the tragic and menacing grandeur of a great [[Love|love]] affair.  The man
 has exactly the same sense of having committed or compromised himself;
 of having been in a sense entrapped, even if he is glad to be entrapped.
-But for a considerable time he is not so much glad as simply terrified.
+But for a considerable [[Time|time]] he is not so much glad as simply terrified.
 It may be that this real psychological experience has
 been misunderstood by stupider people and is responsible
 for all that remains of the legend that Rome is a mere trap.
 But that legend misses the whole point of the psychology.  It is not
 the Pope who has set the trap or the priests who have baited it.
-The whole point of the position is that the trap is simply the truth.
+The whole point of the position is that the trap is simply the [[Truth|truth]].
 The whole point is that the man himself has made his way towards
-the trap of truth, and not the trap that has run after the man.
+the trap of [[Truth|truth]], and not the trap that has run after the man.
 All steps except the last step he has taken eagerly on his own account,
-out of interest in the truth; and even the last step, or the last stage,
+out of interest in the [[Truth|truth]]; and even the last step, or the last stage,
 only alarms him because it is so very true.  If I may refer once
 more to a personal experience, I may say that I for one was never less
 troubled by doubts than in the last phase, when I was troubled by fears.
@@ -368,21 +368,21 @@ sorts of doctrines with an open mind.  Since that delay has ended
 in decision, I have had all sorts of changes in mere mood; and I think
 I sympathise with doubts and difficulties more than I did before.
 But I had no doubts or difficulties just before.  I had only fears;
-fears of something that had the finality and simplicity of suicide.
+fears of something that had the finality and simplicity of [[suicide]].
 But the more I thrust the thing into the back of my mind, the more
-certain I grew of what Thing it was.  And by a paradox that does
+certain I grew of what Thing it was.  And by a [[Paradox|paradox]] that does
 not frighten me now in the least, it may be that I shall never again
 have such absolute assurance that the thing is true as I had when I
 made my last effort to deny it.
 
 There is a postscript or smaller point to be added here
-to this paradox; which I know that many will misunderstand.
+to this [[Paradox|paradox]]; which I know that many will misunderstand.
 Becoming a Catholic broadens the mind.  It especially broadens
 the mind about the reasons for becoming a Catholic.  Standing in
 the centre where all roads meet, a man can look down each of the roads
 in turn and realise that they come from all points of the heavens.
-As long as he is still marching along his own road, that is
-the only road that can be seen, or sometimes even imagined.
+As long as he is still marching along his own [[Road|road]], that is
+the only [[Road|road]] that can be seen, or sometimes even imagined.
 For instance, many a man who is not yet a Catholic calls himself
 a Mediaevalist.  But a man who is only a Mediaevalist is very much
 broadened by becoming a Catholic.  I am myself a Mediaevalist,
@@ -396,20 +396,20 @@ against Greek architecture, because it was necessary to back up
 Christians against pagans.  But now I am in no such fuss and I
 know what Coventry Patmore meant when he said calmly that it
 would have been quite as Catholic to decorate his mantelpiece
-with the Venus of Milo as with the Virgin.  As a Mediaevalist I
+with the [[Venus]] of Milo as with the Virgin.  As a Mediaevalist I
 am still proudest of the Gothic; but as a Catholic I am proud
 of the Baroque.  That intensity which seems almost narrow
-because it comes to the point, like a mediaeval window,
+because it comes to the point, like a mediaeval [[Window|window]],
 is very representative of that last concentration that comes
-just before conversion.  At the last moment of all, the convert
-often feels as if he were looking through a leper's window.
+just before [[conversion]].  At the last moment of all, the [[convert]]
+often feels as if he were looking through a leper's [[Window|window]].
 He is looking through a little crack or crooked hole that seems
 to grow smaller as he stares at it; but it is an opening that
 looks towards the Altar.  Only, when he has entered the Church,
 he finds that the Church is much larger inside than it is outside.
 He has left behind him the lop-sidedness of lepers'
 windows and even in a sense the narrowness of Gothic doors;
-and he is under vast domes as open as the Renaissance and as
+and he is under vast domes as open as the [[Renaissance]] and as
 universal as the Republic of the world.  He can say in a sense
 unknown to all modern men certain ancient and serene words:
 Romanus civis sum; I am not a slave.
@@ -417,17 +417,17 @@ Romanus civis sum; I am not a slave.
 The point for the moment, however, is that there is generally
 an interval of intense nervousness, to say the least of it,
 before this normal heritage is reached.  To a certain extent it
-is a fear which attaches to all sharp and irrevocable decisions;
+is a [[Fear|fear]] which attaches to all sharp and irrevocable decisions;
 it is suggested in all the old jokes about the shakiness of the
 bridegroom at the wedding or the recruit who takes the shilling
 and gets drunk partly to celebrate, but partly also to forget it.
-But it is the fear of a fuller sacrament and a mightier army.
-He has, by the nature of the case, left a long way behind him the mere
-clumsy idea that the sacrament will poison him or the army will kill him.
+But it is the [[Fear|fear]] of a fuller sacrament and a mightier army.
+He has, by the [[Nature|nature]] of the case, left a long way behind him the mere
+clumsy idea that the sacrament will [[Poison|poison]] him or the army will kill him.
 He has probably passed the point, though he does generally pass
-it at some time, when he wonders whether the whole business is an
+it at some [[Time|time]], when he wonders whether the whole business is an
 extraordinarily intelligent and ingenious confidence trick.  He is not
-now in the condition which may be called the last phase of real doubt.
+now in the condition which may be called the last phase of real [[Doubt|doubt]].
 I mean that in which he wondered whether the thing that everybody
 told him was too bad to be tolerable, is not too good to be true.
 Here again the recurrent principle is present; and the obstacle is
@@ -436,40 +436,40 @@ If he still has the notion of being trapped, he has no longer any
 notion of being tricked.  He is not afraid of finding the Church out,
 but rather of the Church finding him out.
 
-This note on the stages of conversion is necessarily very negative
-and inadequate.  There is in the last second of time or hair's
+This note on the stages of [[conversion]] is necessarily very negative
+and inadequate.  There is in the last second of [[Time|time]] or hair's
 breadth of space, before the iron leaps to the magnet, an abyss
 full of all the unfathomable forces of the universe.  The space
 between doing and not doing such a thing is so tiny and so vast.
 It is only possible here to give the reasons for Catholicism,
 not the cause of Catholicism.  I have tried to suggest here some of
 the enlightenments and experiences which gradually teach those who have
-been taught to think ill of the Church to begin to think well of her.
+been taught to think ill of the Church to begin to think [[Well|well]] of her.
 That anything described as so bad should turn out to be so good
 is itself a rather arresting process having a savour of something
 sensational and strange.  To come to curse and remain to bless,
 to come to scoff and remain to pray, is always welcome in a spirit
-of wonder and the glow of an unexpected good.
+of [[Wonder|wonder]] and the glow of an unexpected good.
 
 But it is one thing to conclude that Catholicism is good and
 another to conclude that it is right.  It is one thing to conclude
 that it is right and another to conclude that it is always right.
 I had never believed the tradition that it was diabolical;
-I had soon come to doubt the idea that it was inhuman, but that would
+I had soon come to [[Doubt|doubt]] the idea that it was inhuman, but that would
 only have left me with the obvious inference that it was human.
 It is a considerable step from that to the inference that it is divine.
 When we come to that conviction of divine authority, we come
 to the more mysterious matter of divine aid.  In other words.
-we come to the unfathomable idea of grace and the gift of faith;
+we come to the unfathomable idea of grace and the gift of [[Faith|faith]];
 and I have not the smallest intention of attempting to fathom it.
 It is a theological question of the utmost complexity; and it is one
-thing to feel it as a fact and another to define it as a truth.
+thing to feel it as a fact and another to define it as a [[Truth|truth]].
 One or two points about the preliminary dispositions that
 prepare the mind for it are all that need be indicated here.
 To begin with, there is one sense in which the blackest bigots are
 really the best philosophers.  The Church really is like Antichrist
-in the sense that it is as unique as Christ.  Indeed, if it be not
-Christ it probably is Antichrist; but certainly it is not Moses
+in the sense that it is as unique as [[Christ]].  Indeed, if it be not
+[[Christ]] it probably is Antichrist; but certainly it is not Moses
 or Mahomet or Buddha or Plato or Pythagoras.  The more we see
 of humanity, the more we sympathise with humanity, the more we
 shall see that when it is simply human it is simply heathen;
@@ -481,19 +481,19 @@ and sages of all sorts; but not another institution of this sort.
 The pagan cults die very slowly; they do not return very rapidly.
 They do not make the sort of claim that is made at a crisis;
 and then make the same claim again and again at crisis
-after crisis throughout the whole history of the earth.
-All that people fear in the Church, all that they hate in her,
+after crisis throughout the whole [[history]] of the earth.
+All that people [[Fear|fear]] in the Church, all that they hate in her,
 all against which they most harden their hearts and sometimes
 (one is tempted to say) thicken their heads, all that has made
-people consciously and unconsciously treat the Catholic Church
+people consciously and unconsciously treat the [[Catholic Church]]
 as a peril, is the evidence that there is something here that we
 cannot look on at languidly and with detachment, as we might look
-on at Hottentotts dancing at the new moon or Chinamen burning
+on at Hottentotts dancing at the new [[Moon|moon]] or Chinamen burning
 paper in porcelain temples.  The Chinaman and the tourist can be
 on the best of terms on a basis of mutual scorn.  But in the duel
 of the Church and the world is no such shield of contempt.
-The Church will not consent to scorn the soul of a coolie or even
-a tourist; and the measure of the madness with which men hate
+The Church will not consent to scorn the [[Soul|soul]] of a coolie or even
+a tourist; and the measure of the [[Madness|madness]] with which men hate
 her is but their vain attempt to despise.
 
 Another element, far more deep and delicate and hard
@@ -502,18 +502,18 @@ and archaic with what is most intimate and individual.
 It is a miracle in itself that anything so huge and historic
 in date and design should be so fresh in the affections.
 It is as if a man found his own parlour and fireside in the heart
-of the Great Pyramid.  It is as if a child's favourite doll
+of the Great Pyramid.  It is as if a [[Child|child]]'s favourite doll
 turned out to be the oldest sacred image in the world,
 worshipped in Chaldea or Nineveh.  It is as if a girl
-to whom a man made love in a garden were also, in some dark
-and double fashion, a statue standing for ever in a square.
+to whom a man made [[Love|love]] in a [[Garden|garden]] were also, in some dark
+and [[Double|double]] fashion, a statue standing for ever in a square.
 It is just here that all those things which were regarded
 as weakness come in as the fulness of strength.
 Everything that men called sentimental in Roman Catholic religion,
-its keepsakes, its small flowers and almost tawdry trinkets,
+its keepsakes, its small [[Flowers|flowers]] and almost tawdry trinkets,
 its figures with merciful gestures and gentle eyes, its avowedly
-popular pathos and all that Matthew Arnold meant by Christianity
-with its "relieving tears"--all this is a sign of sensitive and
+popular pathos and all that Matthew Arnold meant by [[Christianity]]
+with its "relieving [[Tears|tears]]"--all this is a sign of sensitive and
 vivid vitality in anything so vast and settled and systematic.
 There is nothing quite like this warmth, as in the warmth
 of Christmas, amid ancient hills hoary with such snows of antiquity.
@@ -522,58 +522,58 @@ In all its varied vestments it wears its Sacred Heart
 upon its sleeve.  But to those who know that it is full
 of these lively affections, like little leaping flames,
 there is something of almost ironic satisfaction in the stark
-and primitive size of the thing, like some prehistoric monster;
+and primitive size of the thing, like some prehistoric [[Monster|monster]];
 in its spires and mitres like the horns of giant herds or its
 colossal cornerstones like the four feet of an elephant.
 It would be easy to write a merely artistic study of the strange
 externals of the Roman religion, which should make it seem
 as uncouth and unearthly as Aztec or African religion It
 would be easy to talk of it as if it were really some sort
-of mammoth or monster elephant, older than the Ice Age,
+of mammoth or [[Monster|monster]] elephant, older than the Ice Age,
 towering over the Stone Age; his very lines traced, it would seem,
 in the earthquakes or landslides of some older creation,
 his very organs and outer texture akin to unrecorded patterns
 of vegetation and air and light--the last residuum of a lost world.
-But the prehistoric monster is in the Zoological Gardens and not
-in the Natural History Museum.  The extinct animal is still alive.
+But the prehistoric [[Monster|monster]] is in the Zoological Gardens and not
+in the Natural [[history|History]] Museum.  The extinct animal is still alive.
 And anything outlandish and unfamiliar in its form accentuates
 the startling naturalness and familiarity of its mind, as if
-the Sphinx began suddenly to talk of the topics of the hour.
+[[The Sphinx|the Sphinx]] began suddenly to talk of the topics of the hour.
 The super-elephant is not only a tame animal but a pet;
-and a young child shall lead him.
+and a young [[Child|child]] shall lead him.
 
 This antithesis between all that is formidable and remote and all
 that is personally relevant and realistically tender is another of
 those converging impressions which meet in the moment of conviction.
 But of all these things, that come nearest to the actual
-transition of the gift of faith, it is far harder to write than
+transition of the gift of [[Faith|faith]], it is far harder to write than
 of the rationalistic and historical preliminaries of the enquiry.
-It is only with those preliminary dispositions towards the truth
+It is only with those preliminary dispositions towards the [[Truth|truth]]
 that I claim to deal here.  In the chapters that follow I propose
 to touch upon two of the larger considerations of this class,
 not because they are in themselves any larger than many other
 immense aspects of so mighty a theme, but because they happen
 to balance each other and form a sort of antithesis very typical
-of all Catholic truth.  In the first of the two chapters I
+of all Catholic [[Truth|truth]].  In the first of the two chapters I
 shall try to point out how it is that when we praise the Church
-for her greatness we do not merely mean her largeness but,
+for her [[Greatness|greatness]] we do not merely mean her largeness but,
 in a rather notable and unique sense, her universality.
 We mean her power of being cosmos and containing other things.
 And in the second chapter I shall point out what may seem
-to disturb this truth but really balances it.  I mean the fact
+to disturb this [[Truth|truth]] but really balances it.  I mean the fact
 that we value the Church because she is a Church Militant;
 and sometimes even because she militates against ourselves.
 She is something more than the cosmos, in the sense of completed
-nature or completed human nature.  She proves that she is some
+[[Nature|nature]] or completed human [[Nature|nature]].  She proves that she is some
 thing more by sometimes being right where they are wrong.
 These two aspects must be considered separately, though they come
-together to form the full conviction that comes just before conversion.
+together to form the full conviction that comes just before [[conversion]].
 But in this chapter I have merely noted down a few points
-or stages of the conversion considered as a practical process;
+or stages of the [[conversion]] considered as a practical process;
 and especially those three stages of it through which many a
 Protestant or Agnostic must have passed.  Many a man, looking back
 cheerfully on them now, will not be annoyed if I call the first,
 patronising the Church; and the second, discovering the Church;
 and the third, running away from the Church.  When those three
-phases are over, a larger truth begins to come into sight;
+phases are over, a larger [[Truth|truth]] begins to come into sight;
 it is much too large to describe and we will proceed to describe it.

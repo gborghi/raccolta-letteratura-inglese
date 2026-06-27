@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-The messages of great poems to each man and woman are, Come to us on
+The messages of great [[Poems|poems]] to each man and woman are, Come to us on
 equal terms, only then can you understand us. We are no better than
 you, what we inclose you inclose, what we enjoy you may enjoy. Did
 you suppose there could be only one Supreme? We affirm there can be
@@ -23,22 +23,22 @@ than one eyesight countervails another--and that men can be good or
 grand only of the consciousness of their supremacy within them. What
 do you think is the grandeur of storms and dismemberments, and the
 deadliest battles and wrecks, and the wildest fury of the elements, and
-the power of the sea, and the motion of Nature, and the throes of human
-desires, and dignity and hate and love? It is that something in the
-soul which says, Rage on, whirl on, I tread master here and
+the power of the sea, and the motion of [[Nature]], and the throes of human
+desires, and dignity and hate and [[Love|love]]? It is that something in the
+[[Soul|soul]] which says, Rage on, whirl on, I tread master here and
 everywhere--Master of the spasms of the sky and of the shatter of the
-sea, Master of nature and passion and death, and of all terror and all
-pain.
+sea, Master of [[Nature|nature]] and passion and [[Death|death]], and of all terror and all
+[[Pain|pain]].
 
 The American bards shall be mark'd for generosity and affection, and
 for encouraging competitors. They shall be Kosmos, without monopoly or
-secrecy, glad to pass anything to any one--hungry for equals night and
+secrecy, glad to pass anything to any one--hungry for equals [[Night|night]] and
 day. They shall not be careful of riches and privilege--they shall be
 riches and privilege--they shall perceive who the most affluent man
 is. The most affluent man is he that confronts all the shows he sees
 by equivalents out of the stronger wealth of himself. The American bard
 shall delineate no class of persons, nor one or two out of the strata of
-interests, nor love most nor truth most, nor the soul most, nor the body
+interests, nor [[Love|love]] most nor [[Truth|truth]] most, nor the [[Soul|soul]] most, nor the [[Body|body]]
 most--and not be for the Eastern States more than the Western, or the
 Northern States more than the Southern.
 
@@ -52,41 +52,41 @@ are not poets, but they are the lawgivers of poets, and their
 construction underlies the structure of every perfect poem. No matter
 what rises or is utter'd, they sent the seed of the conception of it--of
 them and by them stand the visible proofs of souls. If there shall be
-love and content between the father and the son, and if the greatness
-of the son is the exuding of the greatness of the father, there shall be
-love between the poet and the man of demonstrable science. In the beauty
-of poems are henceforth the tuft and final applause of science.
+[[Love|love]] and content between the father and the son, and if the [[Greatness|greatness]]
+of the son is the exuding of the [[Greatness|greatness]] of the father, there shall be
+[[Love|love]] between the poet and the man of demonstrable science. In the [[Beauty|beauty]]
+of [[Poems|poems]] are henceforth the tuft and final applause of science.
 
-Great is the faith of the flush of knowledge, and of the investigation
+Great is the [[Faith|faith]] of the flush of knowledge, and of the investigation
 of the depths of qualities and things. Cleaving and circling here swells
-the soul of the poet, yet is president of itself always. The depths
-are fathomless, and therefore calm. The innocence and nakedness are
+the [[Soul|soul]] of the poet, yet is president of itself always. The depths
+are fathomless, and therefore calm. The [[innocence]] and [[Nakedness|nakedness]] are
 resumed--they are neither modest nor immodest. The whole theory of
-the supernatural, and all that was twined with it or educed out of it,
-departs as a dream. What has ever happen'd--what happens, and whatever
+the [[Supernatural|supernatural]], and all that was twined with it or educed out of it,
+departs as [[A Dream|a dream]]. What has ever happen'd--what happens, and whatever
 may or shall happen, the vital laws inclose all. They are sufficient for
 any case and for all cases--none to be hurried or retarded--any special
 miracle of affairs or persons inadmissible in the vast clear scheme
 where every motion and every spear of grass, and the frames and spirits
 of men and women and all that concerns them, are unspeakably perfect
 miracles, all referring to all, and each distinct and in its place. It
-is also not consistent with the reality of the soul to admit that there
+is also not consistent with the reality of the [[Soul|soul]] to admit that there
 is anything in the known universe more divine than men and women.
 
 Men and women, and the earth and all upon it, are to be taken as they
 are, and the investigation of their past and present and future shall
 be unintermitted, and shall be done with perfect candor. Upon this basis
-philosophy speculates, ever looking towards the poet, ever regarding the
+[[philosophy]] speculates, ever looking towards the poet, ever regarding the
 eternal tendencies of all toward happiness, never inconsistent with what
-is clear to the senses and to the soul. For the eternal tendencies of
-all toward happiness make the only point of sane philosophy. Whatever
+is clear to the senses and to the [[Soul|soul]]. For the eternal tendencies of
+all toward happiness make the only point of sane [[philosophy]]. Whatever
 comprehends less than that--whatever is less than the laws of light and
 of astronomical motion--or less than the laws that follow the thief,
 the liar, the glutton and the drunkard, through this life and doubtless
-afterward--or less than vast stretches of time, or the slow formation of
+afterward--or less than vast stretches of [[Time|time]], or the slow formation of
 density, or the patient upheaving of strata--is of no account. Whatever
-would put God in a poem or system of philosophy as contending against
-some being or influence, is also of no account. Sanity and ensemble
+would put God in a poem or system of [[philosophy]] as contending against
+some being or influence, is also of no account. [[Sanity]] and ensemble
 characterize the great master--spoilt in one principle, all is spoilt.
 The great master has nothing to do with miracles. He sees health
 for himself in being one of the mass--he sees the hiatus in singular
@@ -94,7 +94,7 @@ eminence. To the perfect shape comes common ground. To be under the
 general law is great, for that is to correspond with it. The master
 knows that he is unspeakably great, and that all are unspeakably
 great--that nothing, for instance, is greater than to conceive children,
-and bring them up well--that to _be_ is just as great as to perceive or
+and bring them up [[Well|well]]--that to _be_ is just as great as to perceive or
 tell.
 
 In the make of the great masters the idea of political liberty is
@@ -106,23 +106,23 @@ must sustain it. Nothing has precedence of it, and nothing can warp or
 degrade it.
 
 As the attributes of the poets of the kosmos concentre in the real
-body, and in the pleasure of things, they possess the superiority of
-genuineness over all fiction and romance. As they emit themselves, facts
+[[Body|body]], and in the pleasure of things, they possess the superiority of
+genuineness over all fiction and [[Romance|romance]]. As they emit themselves, facts
 are shower'd over with light--the daylight is lit with more volatile
 light--the deep between the setting and rising sun goes deeper many
 fold. Each precise object or condition or combination or process
-exhibits a beauty--the multiplication table its--old age its--the
+exhibits a [[Beauty|beauty]]--the multiplication table its--old age its--the
 carpenter's trade its--the grand opera its--the huge-hull'd clean-shap'd
-New York clipper at sea under steam or full sail gleams with unmatch'd
-beauty--the American circles and large harmonies of government gleam
+[[New York]] clipper at sea under steam or full sail gleams with unmatch'd
+[[Beauty|beauty]]--the American circles and large harmonies of [[government]] gleam
 with theirs--and the commonest definite intentions and actions with
 theirs. The poets of the kosmos advance through all interpositions and
 coverings and turmoils and stratagems to first principles. They are of
-use--they dissolve poverty from its need, and riches from its conceit.
+use--they dissolve [[Poverty|poverty]] from its need, and riches from its conceit.
 You large proprietor, they say, shall not realize or perceive more than
 any one else. The owner of the library is not he who holds a legal title
 to it, having bought and paid for it. Any one and every one is owner of
-the library, (indeed he or she alone is owner,) who can read the same
+the library, (indeed he or she [[Alone|alone]] is owner,) who can read the same
 through all the varieties of tongues and subjects and styles, and in
 whom they enter with ease, and make supple and powerful and rich and
 large.

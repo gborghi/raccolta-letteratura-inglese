@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 48: DOMESTIC"
+title: "[[David Copperfield]] — Chapter 48: DOMESTIC"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -21,37 +21,37 @@ I laboured hard at my book, without allowing it to interfere with the
 punctual discharge of my newspaper duties; and it came out and was very
 successful. I was not stunned by the praise which sounded in my ears,
 notwithstanding that I was keenly alive to it, and thought better of
-my own performance, I have little doubt, than anybody else did. It has
-always been in my observation of human nature, that a man who has any
+my own performance, I have little [[Doubt|doubt]], than anybody else did. It has
+always been in my observation of human [[Nature|nature]], that a man who has any
 good reason to believe in himself never flourishes himself before the
 faces of other people in order that they may believe in him. For this
-reason, I retained my modesty in very self-respect; and the more praise
+reason, I retained my modesty in very [[Self|self]]-respect; and the more praise
 I got, the more I tried to deserve.
 
 It is not my purpose, in this record, though in all other essentials
-it is my written memory, to pursue the history of my own fictions. They
+it is my written [[Memory|memory]], to pursue the [[history]] of my own fictions. They
 express themselves, and I leave them to themselves. When I refer to
 them, incidentally, it is only as a part of my progress.
 
-Having some foundation for believing, by this time, that nature and
+Having some foundation for believing, by this [[Time|time]], that [[Nature|nature]] and
 accident had made me an author, I pursued my vocation with confidence.
-Without such assurance I should certainly have left it alone, and
+Without such assurance I should certainly have left it [[Alone|alone]], and
 bestowed my energy on some other endeavour. I should have tried to find
-out what nature and accident really had made me, and to be that, and
+out what [[Nature|nature]] and accident really had made me, and to be that, and
 nothing else. I had been writing, in the newspaper and elsewhere, so
-prosperously, that when my new success was achieved, I considered myself
-reasonably entitled to escape from the dreary debates. One joyful night,
+prosperously, that when my new [[success]] was achieved, I considered myself
+reasonably entitled to escape from the dreary debates. One joyful [[Night|night]],
 therefore, I noted down the music of the parliamentary bagpipes for the
-last time, and I have never heard it since; though I still recognize the
+last [[Time|time]], and I have never heard it since; though I still recognize the
 old drone in the newspapers, without any substantial variation (except,
 perhaps, that there is more of it), all the livelong session.
 
-I now write of the time when I had been married, I suppose, about a year
+I now write of the [[Time|time]] when I had been married, I suppose, about a year
 and a half. After several varieties of experiment, we had given up the
-housekeeping as a bad job. The house kept itself, and we kept a page.
+housekeeping as a bad job. The [[house]] kept itself, and we kept a page.
 The principal function of this retainer was to quarrel with the cook;
 in which respect he was a perfect Whittington, without his cat, or the
-remotest chance of being made Lord Mayor.
+remotest chance of being made [[Lord Mayor]].
 
 He appears to me to have lived in a hail of saucepan-lids. His whole
 existence was a scuffle. He would shriek for help on the most improper
@@ -62,7 +62,7 @@ much attached to us, and wouldn’t go. He was a tearful boy, and broke
 into such deplorable lamentations, when a cessation of our connexion
 was hinted at, that we were obliged to keep him. He had no mother--no
 anything in the way of a relative, that I could discover, except a
-sister, who fled to America the moment we had taken him off her hands;
+sister, who fled to [[america|America]] the moment we had taken him off her hands;
 and he became quartered on us like a horrible young changeling. He had
 a lively perception of his own unfortunate state, and was always rubbing
 his eyes with the sleeve of his jacket, or stooping to blow his nose on
@@ -71,7 +71,7 @@ take completely out of his pocket, but always economized and secreted.
 
 This unlucky page, engaged in an evil hour at six pounds ten per annum,
 was a source of continual trouble to me. I watched him as he grew--and
-he grew like scarlet beans--with painful apprehensions of the time when
+he grew like scarlet beans--with painful apprehensions of the [[Time|time]] when
 he would begin to shave; even of the days when he would be bald or grey.
 I saw no prospect of ever getting rid of him; and, projecting myself
 into the future, used to think what an inconvenience he would be when he
@@ -81,9 +81,9 @@ I never expected anything less, than this unfortunate’s manner of
 getting me out of my difficulty. He stole Dora’s watch, which, like
 everything else belonging to us, had no particular place of its own;
 and, converting it into money, spent the produce (he was always a
-weak-minded boy) in incessantly riding up and down between London and
-Uxbridge outside the coach. He was taken to Bow Street, as well as
-I remember, on the completion of his fifteenth journey; when
+weak-minded boy) in incessantly riding up and down between [[London]] and
+Uxbridge outside the coach. He was taken to Bow Street, as [[Well|well]] as
+I remember, on the completion of his fifteenth [[Journey|journey]]; when
 four-and-sixpence, and a second-hand fife which he couldn’t play, were
 found upon his person.
 
@@ -94,7 +94,7 @@ the day after that on which I was obliged to appear against him, he made
 certain revelations touching a hamper in the cellar, which we believed
 to be full of wine, but which had nothing in it except bottles and
 corks. We supposed he had now eased his mind, and told the worst he knew
-of the cook; but, a day or two afterwards, his conscience sustained a
+of the cook; but, a day or two afterwards, his [[Conscience|conscience]] sustained a
 new twinge, and he disclosed how she had a little girl, who, early every
 morning, took away our bread; and also how he himself had been suborned
 to maintain the milkman in coals. In two or three days more, I was
@@ -122,18 +122,18 @@ All this led me into some serious reflections, and presented our
 mistakes in a new aspect; as I could not help communicating to Dora one
 evening, in spite of my tenderness for her.
 
-‘My love,’ said I, ‘it is very painful to me to think that our want of
+‘My [[Love|love]],’ said I, ‘it is very painful to me to think that our want of
 system and management, involves not only ourselves (which we have got
 used to), but other people.’
 
-‘You have been silent for a long time, and now you are going to be
-cross!’ said Dora.
+‘You have been silent for a long [[Time|time]], and now you are going to be
+[[Cross|cross]]!’ said Dora.
 
 ‘No, my dear, indeed! Let me explain to you what I mean.’
 
 ‘I think I don’t want to know,’ said Dora.
 
-‘But I want you to know, my love. Put Jip down.’
+‘But I want you to know, my [[Love|love]]. Put Jip down.’
 
 Dora put his nose to mine, and said ‘Boh!’ to drive my seriousness away;
 but, not succeeding, ordered him into his Pagoda, and sat looking at
@@ -154,7 +154,7 @@ even temper sometimes, by not learning to be more careful; but that we
 incur the serious responsibility of spoiling everyone who comes into
 our service, or has any dealings with us. I begin to be afraid that the
 fault is not entirely on one side, but that these people all turn out
-ill because we don’t turn out very well ourselves.’
+ill because we don’t turn out very [[Well|well]] ourselves.’
 
 ‘Oh, what an accusation,’ exclaimed Dora, opening her eyes wide; ‘to say
 that you ever saw me take gold watches! Oh!’
@@ -163,7 +163,7 @@ that you ever saw me take gold watches! Oh!’
 made the least allusion to gold watches?’
 
 ‘You did,’ returned Dora. ‘You know you did. You said I hadn’t turned
-out well, and compared me to him.’
+out [[Well|well]], and compared me to him.’
 
 ‘To whom?’ I asked.
 
@@ -174,7 +174,7 @@ you hard-hearted thing, that you were convinced I was worse than a
 transported page? Oh, what a dreadful opinion to have of me! Oh, my
 goodness!’
 
-‘Now, Dora, my love,’ I returned, gently trying to remove the
+‘Now, Dora, my [[Love|love]],’ I returned, gently trying to remove the
 handkerchief she pressed to her eyes, ‘this is not only very ridiculous
 of you, but very wrong. In the first place, it’s not true.’
 
@@ -194,13 +194,13 @@ help thinking of it, Dora. It is a reflection I am unable to dismiss,
 and it sometimes makes me very uneasy. There, dear, that’s all. Come
 now. Don’t be foolish!’
 
-Dora would not allow me, for a long time, to remove the handkerchief.
+Dora would not allow me, for a long [[Time|time]], to remove the handkerchief.
 She sat sobbing and murmuring behind it, that, if I was uneasy, why had
 I ever been married? Why hadn’t I said, even the day before we went to
 church, that I knew I should be uneasy, and I would rather not? If I
 couldn’t bear her, why didn’t I send her away to her aunts at Putney, or
-to Julia Mills in India? Julia would be glad to see her, and would not
-call her a transported page; Julia never had called her anything of the
+to [[Julia]] Mills in India? [[Julia]] would be glad to see her, and would not
+call her a transported page; [[Julia]] never had called her anything of the
 sort. In short, Dora was so afflicted, and so afflicted me by being
 in that condition, that I felt it was of no use repeating this kind of
 effort, though never so mildly, and I must take some other course.
@@ -210,7 +210,7 @@ common phrase of words which had a fair and promising sound, and I
 resolved to form Dora’s mind.
 
 I began immediately. When Dora was very childish, and I would
-have infinitely preferred to humour her, I tried to be grave--and
+have infinitely preferred to [[Humour|humour]] her, I tried to be [[Grave|grave]]--and
 disconcerted her, and myself too. I talked to her on the subjects which
 occupied my thoughts; and I read Shakespeare to her--and fatigued her
 to the last degree. I accustomed myself to giving her, as it were quite
@@ -232,25 +232,25 @@ myself in the condition of a schoolmaster, a trap, a pitfall; of always
 playing spider to Dora’s fly, and always pouncing out of my hole to her
 infinite disturbance.
 
-Still, looking forward through this intermediate stage, to the time
+Still, looking forward through this intermediate stage, to the [[Time|time]]
 when there should be a perfect sympathy between Dora and me, and when I
 should have ‘formed her mind’ to my entire satisfaction, I persevered,
 even for months. Finding at last, however, that, although I had been
-all this time a very porcupine or hedgehog, bristling all over with
+all this [[Time|time]] a very porcupine or hedgehog, bristling all over with
 determination, I had effected nothing, it began to occur to me that
 perhaps Dora’s mind was already formed.
 
 On further consideration this appeared so likely, that I abandoned
 my scheme, which had had a more promising appearance in words than in
-action; resolving henceforth to be satisfied with my child-wife, and to
+action; resolving henceforth to be satisfied with my [[Child|child]]-wife, and to
 try to change her into nothing else by any process. I was heartily tired
 of being sagacious and prudent by myself, and of seeing my darling under
 restraint; so I bought a pretty pair of ear-rings for her, and a collar
-for Jip, and went home one day to make myself agreeable.
+for Jip, and went [[Home|home]] one day to make myself agreeable.
 
 Dora was delighted with the little presents, and kissed me joyfully; but
-there was a shadow between us, however slight, and I had made up my mind
-that it should not be there. If there must be such a shadow anywhere, I
+there was a [[Shadow|shadow]] between us, however slight, and I had made up my mind
+that it should not be there. If there must be such a [[Shadow|shadow]] anywhere, I
 would keep it for the future in my own breast.
 
 I sat down by my wife on the sofa, and put the ear-rings in her ears;
@@ -258,7 +258,7 @@ and then I told her that I feared we had not been quite as good company
 lately, as we used to be, and that the fault was mine. Which I sincerely
 felt, and which indeed it was.
 
-‘The truth is, Dora, my life,’ I said; ‘I have been trying to be wise.’
+‘The [[Truth|truth]] is, Dora, my life,’ I said; ‘I have been trying to be wise.’
 
 ‘And to make me wise too,’ said Dora, timidly. ‘Haven’t you, Doady?’
 
@@ -289,13 +289,13 @@ have tried to form my little wife’s mind?’ said I, laughing at myself.
 ‘Is that what you have been trying?’ cried Dora. ‘Oh what a shocking
 boy!’
 
-‘But I shall never try any more,’ said I. ‘For I love her dearly as she
+‘But I shall never try any more,’ said I. ‘For I [[Love|love]] her dearly as she
 is.’
 
 ‘Without a story--really?’ inquired Dora, creeping closer to me.
 
 ‘Why should I seek to change,’ said I, ‘what has been so precious to me
-for so long! You never can show better than as your own natural self, my
+for so long! You never can show better than as your own natural [[Self|self]], my
 sweet Dora; and we’ll try no conceited experiments, but go back to our
 old way, and be happy.’
 
@@ -305,7 +305,7 @@ going a tiny morsel wrong, sometimes?’
 ‘No, no,’ said I. ‘We must do the best we can.’
 
 ‘And you won’t tell me, any more, that we make other people bad,’ coaxed
-Dora; ‘will you? Because you know it’s so dreadfully cross!’
+Dora; ‘will you? Because you know it’s so dreadfully [[Cross|cross]]!’
 
 ‘No, no,’ said I.
 
@@ -322,27 +322,27 @@ collar.
 
 So ended my last attempt to make any change in Dora. I had been unhappy
 in trying it; I could not endure my own solitary wisdom; I could not
-reconcile it with her former appeal to me as my child-wife. I resolved
+reconcile it with her former appeal to me as my [[Child|child]]-wife. I resolved
 to do what I could, in a quiet way, to improve our proceedings myself,
 but I foresaw that my utmost would be very little, or I must degenerate
 into the spider again, and be for ever lying in wait.
 
-And the shadow I have mentioned, that was not to be between us any more,
+And the [[Shadow|shadow]] I have mentioned, that was not to be between us any more,
 but was to rest wholly on my own heart? How did that fall?
 
 The old unhappy feeling pervaded my life. It was deepened, if it were
 changed at all; but it was as undefined as ever, and addressed me like
-a strain of sorrowful music faintly heard in the night. I loved my wife
+a strain of sorrowful music faintly heard in the [[Night|night]]. I loved my wife
 dearly, and I was happy; but the happiness I had vaguely anticipated,
 once, was not the happiness I enjoyed, and there was always something
 wanting.
 
 In fulfilment of the compact I have made with myself, to reflect my mind
-on this paper, I again examine it, closely, and bring its secrets to the
+on this paper, I again examine it, closely, and bring its [[Secrets|secrets]] to the
 light. What I missed, I still regarded--I always regarded--as something
-that had been a dream of my youthful fancy; that was incapable of
+that had been [[A Dream|a dream]] of my youthful fancy; that was incapable of
 realization; that I was now discovering to be so, with some natural
-pain, as all men did. But that it would have been better for me if my
+[[Pain|pain]], as all men did. But that it would have been better for me if my
 wife could have helped me more, and shared the many thoughts in which I
 had no partner; and that this might have been; I knew.
 
@@ -350,9 +350,9 @@ Between these two irreconcilable conclusions: the one, that what I felt
 was general and unavoidable; the other, that it was particular to me,
 and might have been different: I balanced curiously, with no distinct
 sense of their opposition to each other. When I thought of the airy
-dreams of youth that are incapable of realization, I thought of the
+[[Dreams|dreams]] of youth that are incapable of realization, I thought of the
 better state preceding manhood that I had outgrown; and then the
-contented days with Agnes, in the dear old house, arose before me, like
+contented days with Agnes, in the dear old [[house]], arose before me, like
 spectres of the dead, that might have some renewal in another world, but
 never more could be reanimated here.
 
@@ -368,22 +368,22 @@ of it in me; I know of no influence it had in anything I said or did. I
 bore the weight of all our little cares, and all my projects; Dora held
 the pens; and we both felt that our shares were adjusted as the case
 required. She was truly fond of me, and proud of me; and when Agnes
-wrote a few earnest words in her letters to Dora, of the pride and
+wrote a few earnest words in her letters to Dora, of the [[Pride|pride]] and
 interest with which my old friends heard of my growing reputation, and
 read my book as if they heard me speaking its contents, Dora read them
-out to me with tears of joy in her bright eyes, and said I was a dear
+out to me with [[Tears|tears]] of joy in her bright eyes, and said I was a dear
 old clever, famous boy.
 
 ‘The first mistaken impulse of an undisciplined heart.’ Those words of
-Mrs. Strong’s were constantly recurring to me, at this time; were almost
-always present to my mind. I awoke with them, often, in the night; I
-remember to have even read them, in dreams, inscribed upon the walls
+Mrs. Strong’s were constantly recurring to me, at this [[Time|time]]; were almost
+always present to my mind. I awoke with them, often, in the [[Night|night]]; I
+remember to have even read them, in [[Dreams|dreams]], inscribed upon the walls
 of houses. For I knew, now, that my own heart was undisciplined when it
 first loved Dora; and that if it had been disciplined, it never
 could have felt, when we were married, what it had felt in its secret
 experience.
 
-‘There can be no disparity in marriage, like unsuitability of mind and
+‘There can be no disparity in [[Marriage|marriage]], like unsuitability of mind and
 purpose.’ Those words I remembered too. I had endeavoured to adapt
 Dora to myself, and found it impracticable. It remained for me to adapt
 myself to Dora; to share with her what I could, and be happy; to bear
@@ -394,8 +394,8 @@ still, made Dora’s life all sunshine.
 
 But, as that year wore on, Dora was not strong. I had hoped that lighter
 hands than mine would help to mould her character, and that a baby-smile
-upon her breast might change my child-wife to a woman. It was not to be.
-The spirit fluttered for a moment on the threshold of its little prison,
+upon her breast might change my [[Child|child]]-wife to a woman. It was not to be.
+The spirit fluttered for a moment on the threshold of its little [[Prison|prison]],
 and, unconscious of captivity, took wing.
 
 ‘When I can run about again, as I used to do, aunt,’ said Dora, ‘I shall
@@ -414,12 +414,12 @@ used to be, I assure you.’
 ‘But Jip,’ said Dora, looking at him with compassion, ‘even little Jip!
 Oh, poor fellow!’
 
-‘I dare say he’ll last a long time yet, Blossom,’ said my aunt, patting
+‘I dare say he’ll last a long [[Time|time]] yet, Blossom,’ said my aunt, patting
 Dora on the cheek, as she leaned out of her couch to look at Jip, who
 responded by standing on his hind legs, and baulking himself in various
 asthmatic attempts to scramble up by the head and shoulders. ‘He must
-have a piece of flannel in his house this winter, and I shouldn’t wonder
-if he came out quite fresh again, with the flowers in the spring. Bless
+have a piece of flannel in his [[house]] this [[Winter|winter]], and I shouldn’t [[Wonder|wonder]]
+if he came out quite fresh again, with the [[Flowers|flowers]] in the [[spring]]. Bless
 the little dog!’ exclaimed my aunt, ‘if he had as many lives as a cat,
 and was on the point of losing ‘em all, he’d bark at me with his last
 breath, I believe!’
@@ -430,13 +430,13 @@ himself sideways. The more my aunt looked at him, the more he reproached
 her; for she had lately taken to spectacles, and for some inscrutable
 reason he considered the glasses personal.
 
-Dora made him lie down by her, with a good deal of persuasion; and when
+Dora made him lie down by her, with a good deal of [[Persuasion|persuasion]]; and when
 he was quiet, drew one of his long ears through and through her hand,
 repeating thoughtfully, ‘Even little Jip! Oh, poor fellow!’
 
 ‘His lungs are good enough,’ said my aunt, gaily, ‘and his dislikes are
-not at all feeble. He has a good many years before him, no doubt. But if
-you want a dog to race with, Little Blossom, he has lived too well for
+not at all feeble. He has a good many years before him, no [[Doubt|doubt]]. But if
+you want a dog to race with, Little Blossom, he has lived too [[Well|well]] for
 that, and I’ll give you one.’
 
 ‘Thank you, aunt,’ said Dora, faintly. ‘But don’t, please!’
@@ -446,7 +446,7 @@ that, and I’ll give you one.’
 ‘I couldn’t have any other dog but Jip,’ said Dora. ‘It would be so
 unkind to Jip! Besides, I couldn’t be such friends with any other dog
 but Jip; because he wouldn’t have known me before I was married,
-and wouldn’t have barked at Doady when he first came to our house. I
+and wouldn’t have barked at Doady when he first came to our [[house]]. I
 couldn’t care for any other dog but Jip, I am afraid, aunt.’
 
 ‘To be sure!’ said my aunt, patting her cheek again. ‘You are right.’
@@ -468,30 +468,30 @@ Jip nestled closer to his mistress, and lazily licked her hand.
 ‘You are not so old, Jip, are you, that you’ll leave your mistress yet?’
 said Dora. ‘We may keep one another company a little longer!’
 
-My pretty Dora! When she came down to dinner on the ensuing Sunday, and
-was so glad to see old Traddles (who always dined with us on Sunday), we
+My pretty Dora! When she came down to dinner on the ensuing [[Sunday]], and
+was so glad to see old Traddles (who always dined with us on [[Sunday]]), we
 thought she would be ‘running about as she used to do’, in a few days.
 But they said, wait a few days more; and then, wait a few days more; and
 still she neither ran nor walked. She looked very pretty, and was very
 merry; but the little feet that used to be so nimble when they danced
 round Jip, were dull and motionless.
 
-I began to carry her downstairs every morning, and upstairs every night.
+I began to carry her downstairs every morning, and upstairs every [[Night|night]].
 She would clasp me round the neck and laugh, the while, as if I did it
 for a wager. Jip would bark and caper round us, and go on before, and
 look back on the landing, breathing short, to see that we were coming.
 My aunt, the best and most cheerful of nurses, would trudge after us, a
 moving mass of shawls and pillows. Mr. Dick would not have relinquished
 his post of candle-bearer to anyone alive. Traddles would be often at
-the bottom of the staircase, looking on, and taking charge of sportive
+the [[Bottom|bottom]] of the staircase, looking on, and taking charge of sportive
 messages from Dora to the dearest girl in the world. We made quite a gay
-procession of it, and my child-wife was the gayest there.
+procession of it, and my [[Child|child]]-wife was the gayest there.
 
 But, sometimes, when I took her up, and felt that she was lighter in
 my arms, a dead blank feeling came upon me, as if I were approaching
 to some frozen region yet unseen, that numbed my life. I avoided the
 recognition of this feeling by any name, or by any communing with
-myself; until one night, when it was very strong upon me, and my aunt
-had left her with a parting cry of ‘Good night, Little Blossom,’ I sat
-down at my desk alone, and tried to think, Oh what a fatal name it was,
+myself; until one [[Night|night]], when it was very strong upon me, and my aunt
+had left her with a parting cry of ‘Good [[Night|night]], Little Blossom,’ I sat
+down at my desk [[Alone|alone]], and tried to think, Oh what a fatal name it was,
 and how the blossom withered in its bloom upon the tree!

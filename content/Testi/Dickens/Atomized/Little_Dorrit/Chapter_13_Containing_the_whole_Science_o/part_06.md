@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 10: Containing the whole Science of Government (part 6)"
+title: "Little Dorrit — Chapter 10: Containing the whole Science of [[government|Government]] (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -33,7 +33,7 @@ from abroad. I am glad to see you.’
 
 ‘Mrs Meagles and your daughter--?’
 
-‘Are as well as possible,’ said Mr Meagles. ‘I only wish you had come
+‘Are as [[Well|well]] as possible,’ said Mr Meagles. ‘I only wish you had come
 upon me in a more prepossessing condition as to coolness.’
 
 Though it was anything but a hot day, Mr Meagles was in a heated state
@@ -52,7 +52,7 @@ Park?’
 
 ‘As much as you please.’
 
-‘Come along then. Ah! you may well look at him.’ He happened to have
+‘Come along then. Ah! you may [[Well|well]] look at him.’ He happened to have
 turned his eyes towards the offender whom Mr Meagles had so angrily
 collared. ‘He’s something to look at, that fellow is.’
 
@@ -79,8 +79,8 @@ depressed, but neither ashamed nor repentant. If he were a criminal
 offender, he must surely be an incorrigible hypocrite; and if he were no
 offender, why should Mr Meagles have collared him in the Circumlocution
 Office? He perceived that the man was not a difficulty in his own
-mind alone, but in Mr Meagles’s too; for such conversation as they had
-together on the short way to the Park was by no means well sustained,
+mind [[Alone|alone]], but in Mr Meagles’s too; for such conversation as they had
+together on the short way to the Park was by no means [[Well|well]] sustained,
 and Mr Meagles’s eye always wandered back to the man, even when he spoke
 of something very different.
 
@@ -88,7 +88,7 @@ At length they being among the trees, Mr Meagles stopped short, and
 said:
 
 ‘Mr Clennam, will you do me the favour to look at this man? His name
-is Doyce, Daniel Doyce. You wouldn’t suppose this man to be a notorious
+is Doyce, [[Daniel Doyce]]. You wouldn’t suppose this man to be a notorious
 rascal; would you?’
 
 ‘I certainly should not.’ It was really a disconcerting question, with
@@ -100,20 +100,20 @@ a public offender; would you?’
 ‘No.’
 
 ‘No. But he is. He is a public offender. What has he been guilty of?
-Murder, manslaughter, arson, forgery, swindling, house-breaking, highway
+Murder, manslaughter, arson, forgery, swindling, [[house]]-breaking, highway
 robbery, larceny, conspiracy, fraud? Which should you say, now?’
 
-‘I should say,’ returned Arthur Clennam, observing a faint smile in
-Daniel Doyce’s face, ‘not one of them.’
+‘I should say,’ returned [[Arthur Clennam]], observing a faint smile in
+[[Daniel Doyce]]’s face, ‘not one of them.’
 
 ‘You are right,’ said Mr Meagles. ‘But he has been ingenious, and he has
 been trying to turn his ingenuity to his country’s service. That makes
 him a public offender directly, sir.’
 
-Arthur looked at the man himself, who only shook his head.
+[[Arthur]] looked at the man himself, who only shook his head.
 
-‘This Doyce,’ said Mr Meagles, ‘is a smith and engineer. He is not in a
-large way, but he is well known as a very ingenious man. A dozen years
+‘This Doyce,’ said Mr Meagles, ‘is a [[smith]] and engineer. He is not in a
+large way, but he is [[Well|well]] known as a very ingenious man. A dozen years
 ago, he perfects an invention (involving a very curious secret process)
 of great importance to his country and his fellow-creatures. I won’t say
 how much money it cost him, or how many years of his life he had been
@@ -123,16 +123,16 @@ man in the world; he never complains!’
 
 ‘Yes. Rather better than twelve years ago.’
 
-‘Rather better?’ said Mr Meagles, ‘you mean rather worse. Well, Mr
-Clennam, he addresses himself to the Government. The moment he addresses
-himself to the Government, he becomes a public offender! Sir,’ said Mr
+‘Rather better?’ said Mr Meagles, ‘you mean rather worse. [[Well]], Mr
+Clennam, he addresses himself to the [[government|Government]]. The moment he addresses
+himself to the [[government|Government]], he becomes a public offender! Sir,’ said Mr
 Meagles, in danger of making himself excessively hot again, ‘he ceases
-to be an innocent citizen, and becomes a culprit. He is treated from
+to be an [[Innocent|innocent]] citizen, and becomes a culprit. He is treated from
 that instant as a man who has done some infernal action. He is a man to
 be shirked, put off, brow-beaten, sneered at, handed over by this
 highly-connected young or old gentleman, to that highly-connected young
 or old gentleman, and dodged back again; he is a man with no rights in
-his own time, or his own property; a mere outlaw, whom it is justifiable
+his own [[Time|time]], or his own property; a mere outlaw, whom it is justifiable
 to get rid of anyhow; a man to be worn out by all possible means.’
 
 It was not so difficult to believe, after the morning’s experience, as
@@ -144,7 +144,7 @@ cried Mr Meagles, ‘but tell Mr Clennam what you confessed to me.’
 ‘I undoubtedly was made to feel,’ said the inventor, ‘as if I had
 committed an offence. In dancing attendance at the various offices, I
 was always treated, more or less, as if it was a very bad offence. I
-have frequently found it necessary to reflect, for my own self-support,
+have frequently found it necessary to reflect, for my own [[Self|self]]-support,
 that I really had not done anything to bring myself into the Newgate
 Calendar, but only wanted to effect a great saving and a great
 improvement.’

@@ -17,43 +17,43 @@ tags:
 So, keeping to byways, and shunning human approach, this troublesome
 old woman hid herself, and fared on all through the dreary day. Yet so
 unlike was she to vagrant hiders in general, that sometimes, as the day
-advanced, there was a bright fire in her eyes, and a quicker beating at
+advanced, there was a bright [[Fire|fire]] in her eyes, and a quicker beating at
 her feeble heart, as though she said exultingly, ‘The Lord will see me
 through it!’
 
-By what visionary hands she was led along upon that journey of escape
-from the Samaritan; by what voices, hushed in the grave, she seemed
-to be addressed; how she fancied the dead child in her arms again, and
+By what visionary hands she was led along upon that [[Journey|journey]] of escape
+from the Samaritan; by what voices, hushed in the [[Grave|grave]], she seemed
+to be addressed; how she fancied the dead [[Child|child]] in her arms again, and
 times innumerable adjusted her shawl to keep it warm; what infinite
 variety of forms of tower and roof and steeple the trees took; how many
 furious horsemen rode at her, crying, ‘There she goes! Stop! Stop,
 Betty Higden!’ and melted away as they came close; be these things left
 untold. Faring on and hiding, hiding and faring on, the poor harmless
 creature, as though she were a Murderess and the whole country were up
-after her, wore out the day, and gained the night.
+after her, wore out the day, and gained the [[Night|night]].
 
-‘Water-meadows, or such like,’ she had sometimes murmured, on the day’s
+‘[[Water]]-meadows, or such like,’ she had sometimes murmured, on the day’s
 pilgrimage, when she had raised her head and taken any note of the real
 objects about her. There now arose in the darkness, a great building,
 full of lighted windows. Smoke was issuing from a high chimney in
-the rear of it, and there was the sound of a water-wheel at the side.
-Between her and the building, lay a piece of water, in which the lighted
+the rear of it, and there was the sound of a [[Water|water]]-[[Wheel|wheel]] at the side.
+Between her and the building, lay a piece of [[Water|water]], in which the lighted
 windows were reflected, and on its nearest margin was a plantation of
 trees. ‘I humbly thank the Power and the Glory,’ said Betty Higden,
-holding up her withered hands, ‘that I have come to my journey’s end!’
+holding up her withered hands, ‘that I have come to my [[Journey|journey]]’s end!’
 
 She crept among the trees to the trunk of a tree whence she could see,
 beyond some intervening trees and branches, the lighted windows, both in
-their reality and their reflection in the water. She placed her orderly
+their reality and their reflection in the [[Water|water]]. She placed her orderly
 little basket at her side, and sank upon the ground, supporting herself
-against the tree. It brought to her mind the foot of the Cross, and
+against the tree. It brought to her mind the foot of the [[Cross]], and
 she committed herself to Him who died upon it. Her strength held out to
 enable her to arrange the letter in her breast, so as that it could
 be seen that she had a paper there. It had held out for this, and it
 departed when this was done.
 
 ‘I am safe here,’ was her last benumbed thought. ‘When I am found dead
-at the foot of the Cross, it will be by some of my own sort; some of
+at the foot of the [[Cross]], it will be by some of my own sort; some of
 the working people who work among the lights yonder. I cannot see the
 lighted windows now, but they are there. I am thankful for all!’
 
@@ -88,7 +88,7 @@ I cannot hear you. Do you hear me?’
 ‘Yes.’
 
 ‘I was coming from my work just now, along the path outside (I was up
-with the night-hands last night), and I heard a groan, and found you
+with the [[Night|night]]-hands last [[Night|night]]), and I heard a groan, and found you
 lying here.’
 
 ‘What work, deary?’
@@ -128,7 +128,7 @@ added interest on the motionless face she kneels beside.
 
 ‘I cannot understand you. Let me wet your lips again, and your forehead.
 There. O poor thing, poor thing!’ These words through her fast-dropping
-tears. ‘What was it that you asked me? Wait till I bring my ear quite
+[[Tears|tears]]. ‘What was it that you asked me? Wait till I bring my ear quite
 close.’
 
 ‘Will you send it, my dear?’
@@ -139,7 +139,7 @@ close.’
 
 ‘No.’
 
-‘As you must grow old in time, and come to your dying hour, my dear,
+‘As you must grow old in [[Time|time]], and come to your dying hour, my dear,
 you’ll not give it up to any one but them?’
 
 ‘No. Most solemnly.’
@@ -156,19 +156,19 @@ another struggle.
 A look of thankfulness and triumph lights the worn old face.
 
 The eyes, which have been darkly fixed upon the sky, turn with meaning
-in them towards the compassionate face from which the tears are
+in them towards the compassionate face from which the [[Tears|tears]] are
 dropping, and a smile is on the aged lips as they ask:
 
 ‘What is your name, my dear?’
 
-‘My name is Lizzie Hexam.’
+‘My name is [[Lizzie Hexam]].’
 
 ‘I must be sore disfigured. Are you afraid to kiss me?’
 
 The answer is, the ready pressure of her lips upon the cold but smiling
 mouth.
 
-‘Bless ye! NOW lift me, my love.’
+‘Bless ye! NOW lift me, my [[Love|love]].’
 
-Lizzie Hexam very softly raised the weather-stained grey head, and
+[[Lizzie Hexam]] very softly raised the weather-stained grey head, and
 lifted her as high as Heaven.

@@ -17,14 +17,14 @@ tags:
 CHAPTER 7. Mostly, Prunes and Prism
 
 
-Mrs General, always on her coach-box keeping the proprieties well
+Mrs General, always on her coach-box keeping the proprieties [[Well|well]]
 together, took pains to form a surface on her very dear young friend,
 and Mrs General’s very dear young friend tried hard to receive it. Hard
 as she had tried in her laborious life to attain many ends, she had
 never tried harder than she did now, to be varnished by Mrs General. It
 made her anxious and ill at ease to be operated upon by that smoothing
 hand, it is true; but she submitted herself to the family want in
-its greatness as she had submitted herself to the family want in its
+its [[Greatness|greatness]] as she had submitted herself to the family want in its
 littleness, and yielded to her own inclinations in this thing no more
 than she had yielded to her hunger itself, in the days when she had
 saved her dinner that her father might have his supper.
@@ -40,7 +40,7 @@ to her that the kindness took the form of tolerant patronage; she was
 used to that. It was nothing to her that it kept her in a tributary
 position, and showed her in attendance on the flaming car in which Miss
 Fanny sat on an elevated seat, exacting homage; she sought no better
-place. Always admiring Fanny’s beauty, and grace, and readiness, and not
+place. Always admiring Fanny’s [[Beauty|beauty]], and grace, and readiness, and not
 now asking herself how much of her disposition to be strongly attached
 to Fanny was due to her own heart, and how much to Fanny’s, she gave her
 all the sisterly fondness her great heart contained.
@@ -48,10 +48,10 @@ all the sisterly fondness her great heart contained.
 The wholesale amount of Prunes and Prism which Mrs General infused into
 the family life, combined with the perpetual plunges made by Fanny into
 society, left but a very small residue of any natural deposit at the
-bottom of the mixture. This rendered confidences with Fanny doubly
+[[Bottom|bottom]] of the mixture. This rendered confidences with Fanny doubly
 precious to Little Dorrit, and heightened the relief they afforded her.
 
-‘Amy,’ said Fanny to her one night when they were alone, after a day so
+‘Amy,’ said Fanny to her one [[Night|night]] when they were [[Alone|alone]], after a day so
 tiring that Little Dorrit was quite worn out, though Fanny would have
 taken another dip into society with the greatest pleasure in life, ‘I
 am going to put something into your little head. You won’t guess what it
@@ -59,7 +59,7 @@ is, I suspect.’
 
 ‘I don’t think that’s likely, dear,’ said Little Dorrit.
 
-‘Come, I’ll give you a clue, child,’ said Fanny. ‘Mrs General.’
+‘Come, I’ll give you a clue, [[Child|child]],’ said Fanny. ‘Mrs General.’
 
 Prunes and Prism, in a thousand combinations, having been wearily in the
 ascendant all day--everything having been surface and varnish and show
@@ -76,10 +76,10 @@ Fanny was so very much amused by the misgiving, that she took up her
 favourite fan (being then seated at her dressing-table with her armoury
 of cruel instruments about her, most of them reeking from the heart
 of Sparkler), and tapped her sister frequently on the nose with it,
-laughing all the time.
+laughing all the [[Time|time]].
 
 ‘Oh, our Amy, our Amy!’ said Fanny. ‘What a timid little goose our Amy
-is! But this is nothing to laugh at. On the contrary, I am very cross,
+is! But this is nothing to laugh at. On the contrary, I am very [[Cross|cross]],
 my dear.’
 
 ‘As it is not with me, Fanny, I don’t mind,’ returned her sister,
@@ -103,25 +103,25 @@ my words. Mrs General has designs on Pa!’
 ‘Dear Fanny, do you think it possible that Mrs General has designs on
 any one?’
 
-‘Do I think it possible?’ retorted Fanny. ‘My love, I know it. I tell
+‘Do I think it possible?’ retorted Fanny. ‘My [[Love|love]], I know it. I tell
 you she has designs on Pa. And more than that, I tell you Pa considers
-her such a wonder, such a paragon of accomplishment, and such an
+her such a [[Wonder|wonder]], such a paragon of accomplishment, and such an
 acquisition to our family, that he is ready to get himself into a state
 of perfect infatuation with her at any moment. And that opens a pretty
-picture of things, I hope? Think of me with Mrs General for a Mama!’
+picture of things, I [[Hope|hope]]? Think of me with Mrs General for a Mama!’
 
 Little Dorrit did not reply, ‘Think of me with Mrs General for a Mama;’
 but she looked anxious, and seriously inquired what had led Fanny to
 these conclusions.
 
-‘Lord, my darling,’ said Fanny, tartly. ‘You might as well ask me how
+‘Lord, my darling,’ said Fanny, tartly. ‘You might as [[Well|well]] ask me how
 I know when a man is struck with myself! But, of course I do know. It
 happens pretty often: but I always know it. I know this in much the same
 way, I suppose. At all events, I know it.’
 
 ‘You never heard Papa say anything?’
 
-‘Say anything?’ repeated Fanny. ‘My dearest, darling child, what
+‘Say anything?’ repeated Fanny. ‘My dearest, darling [[Child|child]], what
 necessity has he had, yet awhile, to say anything?’
 
 ‘And you have never heard Mrs General say anything?’
@@ -130,7 +130,7 @@ necessity has he had, yet awhile, to say anything?’
 anything? Isn’t it perfectly plain and clear that she has nothing to do
 at present but to hold herself upright, keep her aggravating gloves on,
 and go sweeping about? Say anything! If she had the ace of trumps in her
-hand at whist, she wouldn’t say anything, child. It would come out when
+hand at whist, she wouldn’t say anything, [[Child|child]]. It would come out when
 she played it.’
 
 ‘At least, you may be mistaken, Fanny. Now, may you not?’
@@ -138,6 +138,6 @@ she played it.’
 ‘O yes, I _may_ be,’ said Fanny, ‘but I am not. However, I am glad you
 can contemplate such an escape, my dear, and I am glad that you can take
 this for the present with sufficient coolness to think of such a chance.
-It makes me hope that you may be able to bear the connection. I should
+It makes me [[Hope|hope]] that you may be able to bear the connection. I should
 not be able to bear it, and I should not try. I’d marry young Sparkler
 first.’

@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 53 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 53 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -42,9 +42,9 @@ old friends forgotten or supplanted?”
 
 She dropped her voice so low in the last sentence that no one could
 
-have caught the concluding words but myself, and at the same time
+have caught the concluding words but myself, and at the same [[Time|time]]
 
-turned her eyes upon me with a dawning smile, most sweetly melancholy,
+turned her eyes upon me with a dawning smile, most sweetly [[Melancholy|melancholy]],
 
 and a look of timid though keen inquiry that made my cheeks tingle with
 
@@ -76,9 +76,9 @@ close friend, and was my own intimate acquaintance (for a few short
 
 months at least), and professed a great attachment to my boy—and when
 
-he passes the house, so many scores of miles from his home, he declines
+he passes the [[house]], so many scores of miles from his [[Home|home]], he declines
 
-to look in for fear of intruding!”
+to look in for [[Fear|fear]] of intruding!”
 
 
 
@@ -86,11 +86,11 @@ to look in for fear of intruding!”
 
 
 
-“Over-ceremonious rather,” said her niece—“over—well, it’s no matter.”
+“Over-ceremonious rather,” said her niece—“over—[[Well|well]], it’s no matter.”
 
 And turning from me, she seated herself in a chair beside the table,
 
-and pulling a book to her by the cover, began to turn over the leaves
+and pulling a book to her by the cover, began to turn over the [[Leaves|leaves]]
 
 in an energetic kind of abstraction.
 
@@ -110,11 +110,11 @@ had forgotten me long ago.”
 
 eyes from the book, but reddening as she spoke, and hastily turning
 
-over a dozen leaves at once.
+over a dozen [[Leaves|leaves]] at once.
 
 
 
-There was a pause, of which Arthur thought he might venture to avail
+There was a pause, of which [[arthur|Arthur]] thought he might venture to avail
 
 himself to introduce his handsome young setter, and show me how
 
@@ -122,19 +122,19 @@ wonderfully it was grown and improved, and to ask after the welfare of
 
 its father Sancho. Mrs. Maxwell then withdrew to take off her things.
 
-Helen immediately pushed the book from her, and after silently
+[[Helen]] immediately pushed the book from her, and after silently
 
 surveying her son, his friend, and his dog for a few moments, she
 
 dismissed the former from the room under pretence of wishing him to
 
-fetch his last new book to show me. The child obeyed with alacrity; but
+fetch his last new book to show me. The [[Child|child]] obeyed with alacrity; but
 
-I continued caressing the dog. The silence might have lasted till its
+I continued caressing the dog. The [[Silence|silence]] might have lasted till its
 
 master’s return, had it depended on me to break it; but, in half a
 
-minute or less, my hostess impatiently rose, and, taking her former
+minute or less, my hostess impatiently [[Rose|rose]], and, taking her former
 
 station on the rug between me and the chimney corner, earnestly
 
@@ -152,7 +152,7 @@ concealments.”
 
 
 
-“I am not changed, Helen—unfortunately I am as keen and passionate as
+“I am not changed, [[Helen]]—unfortunately I am as keen and passionate as
 
 ever—it is not I, it is circumstances that are changed.”
 
@@ -160,9 +160,9 @@ ever—it is not I, it is circumstances that are changed.”
 
 “What circumstances? _Do_ tell me!” Her cheek was blanched with the
 
-very anguish of anxiety—could it be with the fear that I had rashly
+very anguish of anxiety—could it be with the [[Fear|fear]] that I had rashly
 
-pledged my faith to another?
+pledged my [[Faith|faith]] to another?
 
 
 
@@ -176,11 +176,11 @@ expected when I came), but I did not know that this estate was yours
 
 until enlightened on the subject of your inheritance by the
 
-conversation of two fellow-passengers in the last stage of my journey;
+conversation of two fellow-passengers in the last stage of my [[Journey|journey]];
 
 and then I saw at once the folly of the hopes I had cherished, and the
 
-madness of retaining them a moment longer; and though I alighted at
+[[Madness|madness]] of retaining them a moment longer; and though I alighted at
 
 your gates, I determined not to enter within them; I lingered a few
 
@@ -216,15 +216,15 @@ cease to remember you.”
 
 There was a moment’s pause. Mrs. Huntingdon moved away, and stood in
 
-the recess of the window. Did she regard this as an intimation that
+the recess of the [[Window|window]]. Did she regard this as an intimation that
 
-modesty alone prevented me from asking her hand? and was she
+modesty [[Alone|alone]] prevented me from asking her hand? and was she
 
 considering how to repulse me with the smallest injury to my feelings?
 
 Before I could speak to relieve her from such a perplexity, she broke
 
-the silence herself by suddenly turning towards me and observing—
+the [[Silence|silence]] herself by suddenly turning towards me and observing—
 
 
 
@@ -244,7 +244,7 @@ writing; but this would not have deterred me for a moment, if I could
 
 have ventured to believe that you expected to hear from me, or even
 
-wasted a thought upon your unhappy friend; but your silence naturally
+wasted a thought upon your unhappy friend; but your [[Silence|silence]] naturally
 
 led me to conclude myself forgotten.”
 
@@ -254,7 +254,7 @@ led me to conclude myself forgotten.”
 
 
 
-“No, Helen—Mrs. Huntingdon,” said I, blushing at the implied
+“No, [[Helen]]—Mrs. Huntingdon,” said I, blushing at the implied
 
 imputation, “certainly not; but if you had sent me a message through
 

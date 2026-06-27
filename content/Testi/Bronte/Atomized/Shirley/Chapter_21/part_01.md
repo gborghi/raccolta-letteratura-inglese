@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 21 (part 1)"
+title: "[[Shirley]] — Chapter 21 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,13 +24,13 @@ MRS. PRYOR.
 
 
 
-While Shirley was talking with Moore, Caroline rejoined Mrs. Pryor
+While [[Shirley]] was talking with Moore, Caroline rejoined Mrs. Pryor
 
 upstairs. She found that lady deeply depressed. She would not say that
 
 Miss Keeldar's hastiness had hurt her feelings, but it was evident an
 
-inward wound galled her. To any but a congenial nature she would have
+inward wound galled her. To any but a congenial [[Nature|nature]] she would have
 
 seemed insensible to the quiet, tender attentions by which Miss Helstone
 
@@ -40,17 +40,17 @@ moved as she looked, she felt, valued, and was healed by them.
 
 
 
-"I am deficient in self-confidence and decision," she said at last. "I
+"I am deficient in [[Self|self]]-confidence and decision," she said at last. "I
 
 always have been deficient in those qualities. Yet I think Miss Keeldar
 
-should have known my character well enough by this time to be aware that
+should have known my character [[Well|well]] enough by this [[Time|time]] to be aware that
 
 I always feel an even painful solicitude to do right, to act for the
 
-best. The unusual nature of the demand on my judgment puzzled me,
+best. The unusual [[Nature|nature]] of the demand on my judgment puzzled me,
 
-especially following the alarms of the night. I could not venture to act
+especially following the alarms of the [[Night|night]]. I could not venture to act
 
 promptly for another; but I trust no serious harm will result from my
 
@@ -66,9 +66,9 @@ A gentle knock was here heard at the door. It was half opened.
 
 
 
-Miss Helstone went out. There stood Shirley in the gallery, looking
+Miss Helstone went out. There stood [[Shirley]] in the gallery, looking
 
-contrite, ashamed, sorry as any repentant child.
+contrite, ashamed, sorry as any repentant [[Child|child]].
 
 
 
@@ -82,7 +82,7 @@ contrite, ashamed, sorry as any repentant child.
 
 "I have behaved very shamefully, very ungenerously, very ungratefully to
 
-her," said Shirley. "How insolent in me to turn on her thus for what,
+her," said [[Shirley]]. "How insolent in me to turn on her thus for what,
 
 after all, was no fault--only an excess of conscientiousness on her
 
@@ -92,7 +92,7 @@ will forgive me."
 
 
 
-Caroline discharged the errand with heartfelt pleasure. Mrs. Pryor rose,
+Caroline discharged the errand with heartfelt pleasure. Mrs. Pryor [[Rose|rose]],
 
 came to the door. She did not like scenes; she dreaded them as all
 
@@ -100,7 +100,7 @@ timid people do. She said falteringly, "Come in, my dear."
 
 
 
-Shirley did come in with some impetuosity. She threw her arms round her
+[[Shirley]] did come in with some impetuosity. She threw her arms round her
 
 governess, and while she kissed her heartily she said, "You know you
 
@@ -120,9 +120,9 @@ plainly than ever how unequal I am to certain crises."
 
 And that was the painful feeling which _would_ remain on Mrs. Pryor's
 
-mind. No effort of Shirley's or Caroline's could efface it thence. She
+mind. No effort of [[Shirley]]'s or Caroline's could efface it thence. She
 
-could forgive her offending pupil, not her innocent self.
+could forgive her offending pupil, not her [[Innocent|innocent]] [[Self|self]].
 
 
 
@@ -162,11 +162,11 @@ determined. Besides, the man has shown sound judgment and good
 
 sense--first, in being thoroughly prepared for the event which has taken
 
-place; and subsequently, when his well-concerted plans had secured him
+place; and subsequently, when his [[Well|well]]-concerted plans had secured him
 
-success, in knowing how to use without abusing his victory. Some of the
+[[success]], in knowing how to use without abusing his victory. Some of the
 
-magistrates are now well frightened, and, like all cowards, show a
+magistrates are now [[Well|well]] frightened, and, like all cowards, show a
 
 tendency to be cruel. Moore restrains them with admirable prudence. He
 
@@ -206,7 +206,7 @@ her guest took an abrupt leave.
 
 Mr. Yorke was in no mild mood, and in no measured terms did he express
 
-his opinion on the transaction of the night. Moore, the magistrates, the
+his opinion on the transaction of the [[Night|night]]. Moore, the magistrates, the
 
 soldiers, the mob leaders, each and all came in for a share of his
 
@@ -216,11 +216,11 @@ Yorkshire Doric adjectives they were--for the benefit of the fighting
 
 parsons, the "sanguinary, demoniac" rector and curate. According to him,
 
-the cup of ecclesiastical guilt was now full indeed.
+the cup of ecclesiastical [[Guilt|guilt]] was now full indeed.
 
 
 
-"The church," he said, "was in a bonny pickle now. It was time it came
+"The church," he said, "was in a bonny pickle now. It was [[Time|time]] it came
 
 down when parsons took to swaggering amang soldiers, blazing away wi'
 
@@ -230,7 +230,7 @@ themselves."
 
 
 
-"What would Moore have done if nobody had helped him?" asked Shirley.
+"What would Moore have done if nobody had helped him?" asked [[Shirley]].
 
 
 
@@ -240,10 +240,10 @@ themselves."
 
 "Which means you would have left him by himself to face that mob. Good!
 
-He has plenty of courage, but the greatest amount of gallantry that ever
+He has plenty of [[Courage|courage]], but the greatest amount of gallantry that ever
 
 garrisoned one human breast could scarce avail against two hundred."
 
 
 
-"He had the soldiers, those poor slaves who hire out their own blood and
+"He had the soldiers, those poor slaves who hire out their own [[Blood|blood]] and

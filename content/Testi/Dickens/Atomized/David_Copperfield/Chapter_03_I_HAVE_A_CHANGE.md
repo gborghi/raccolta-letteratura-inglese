@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 3: I HAVE A CHANGE"
+title: "[[David Copperfield]] — Chapter 3: I HAVE A CHANGE"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -17,29 +17,29 @@ tags:
 CHAPTER 3. I HAVE A CHANGE
 
 
-The carrier’s horse was the laziest horse in the world, I should hope,
+The carrier’s [[Horse|horse]] was the laziest [[Horse|horse]] in the world, I should [[Hope|hope]],
 and shuffled along, with his head down, as if he liked to keep people
 waiting to whom the packages were directed. I fancied, indeed, that he
 sometimes chuckled audibly over this reflection, but the carrier said
 he was only troubled with a cough. The carrier had a way of keeping his
-head down, like his horse, and of drooping sleepily forward as he drove,
+head down, like his [[Horse|horse]], and of drooping sleepily forward as he drove,
 with one of his arms on each of his knees. I say ‘drove’, but it struck
-me that the cart would have gone to Yarmouth quite as well without him,
-for the horse did all that; and as to conversation, he had no idea of it
+me that the cart would have gone to Yarmouth quite as [[Well|well]] without him,
+for the [[Horse|horse]] did all that; and as to conversation, he had no idea of it
 but whistling.
 
 Peggotty had a basket of refreshments on her knee, which would have
-lasted us out handsomely, if we had been going to London by the same
+lasted us out handsomely, if we had been going to [[London]] by the same
 conveyance. We ate a good deal, and slept a good deal. Peggotty always
-went to sleep with her chin upon the handle of the basket, her hold of
+went to [[Sleep|sleep]] with her chin upon the handle of the basket, her hold of
 which never relaxed; and I could not have believed unless I had heard
 her do it, that one defenceless woman could have snored so much.
 
-We made so many deviations up and down lanes, and were such a long time
-delivering a bedstead at a public-house, and calling at other places,
+We made so many deviations up and down lanes, and were such a long [[Time|time]]
+delivering a bedstead at a public-[[house]], and calling at other places,
 that I was quite tired, and very glad, when we saw Yarmouth. It looked
 rather spongy and soppy, I thought, as I carried my eye over the great
-dull waste that lay across the river; and I could not help wondering, if
+dull waste that lay across the [[River|river]]; and I could not help wondering, if
 the world were really as round as my geography book said, how any
 part of it came to be so flat. But I reflected that Yarmouth might be
 situated at one of the poles; which would account for it.
@@ -48,7 +48,7 @@ As we drew a little nearer, and saw the whole adjacent prospect lying a
 straight low line under the sky, I hinted to Peggotty that a mound or so
 might have improved it; and also that if the land had been a little more
 separated from the sea, and the town and the tide had not been quite
-so much mixed up, like toast and water, it would have been nicer. But
+so much mixed up, like toast and [[Water|water]], it would have been nicer. But
 Peggotty said, with greater emphasis than usual, that we must take
 things as we found them, and that, for her part, she was proud to call
 herself a Yarmouth Bloater.
@@ -58,22 +58,22 @@ the fish, and pitch, and oakum, and tar, and saw the sailors walking
 about, and the carts jingling up and down over the stones, I felt that I
 had done so busy a place an injustice; and said as much to Peggotty, who
 heard my expressions of delight with great complacency, and told me it
-was well known (I suppose to those who had the good fortune to be born
+was [[Well|well]] known (I suppose to those who had the good fortune to be born
 Bloaters) that Yarmouth was, upon the whole, the finest place in the
 universe.
 
 ‘Here’s my Am!’ screamed Peggotty, ‘growed out of knowledge!’
 
-He was waiting for us, in fact, at the public-house; and asked me how I
+He was waiting for us, in fact, at the public-[[house]]; and asked me how I
 found myself, like an old acquaintance. I did not feel, at first, that
-I knew him as well as he knew me, because he had never come to our house
-since the night I was born, and naturally he had the advantage of me.
+I knew him as [[Well|well]] as he knew me, because he had never come to our [[house]]
+since the [[Night|night]] I was born, and naturally he had the advantage of me.
 But our intimacy was much advanced by his taking me on his back to carry
-me home. He was, now, a huge, strong fellow of six feet high, broad in
+me [[Home|home]]. He was, now, a huge, strong fellow of six feet high, broad in
 proportion, and round-shouldered; but with a simpering boy’s face and
 curly light hair that gave him quite a sheepish look. He was dressed in
 a canvas jacket, and a pair of such very stiff trousers that they
-would have stood quite as well alone, without any legs in them. And you
+would have stood quite as [[Well|well]] [[Alone|alone]], without any legs in them. And you
 couldn’t so properly have said he wore a hat, as that he was covered in
 a-top, like an old building, with something pitchy.
 
@@ -81,20 +81,20 @@ Ham carrying me on his back and a small box of ours under his arm,
 and Peggotty carrying another small box of ours, we turned down lanes
 bestrewn with bits of chips and little hillocks of sand, and went
 past gas-works, rope-walks, boat-builders’ yards, shipwrights’ yards,
-ship-breakers’ yards, caulkers’ yards, riggers’ lofts, smiths’ forges,
+[[Ship|ship]]-breakers’ yards, caulkers’ yards, riggers’ lofts, smiths’ forges,
 and a great litter of such places, until we came out upon the dull waste
 I had already seen at a distance; when Ham said,
 
-‘Yon’s our house, Mas’r Davy!’
+‘Yon’s our [[house]], Mas’r Davy!’
 
 I looked in all directions, as far as I could stare over the wilderness,
-and away at the sea, and away at the river, but no house could I make
+and away at the sea, and away at the [[River|river]], but no [[house]] could I make
 out. There was a black barge, or some other kind of superannuated boat,
 not far off, high and dry on the ground, with an iron funnel sticking
 out of it for a chimney and smoking very cosily; but nothing else in the
 way of a habitation that was visible to me.
 
-‘That’s not it?’ said I. ‘That ship-looking thing?’
+‘That’s not it?’ said I. ‘That [[Ship|ship]]-looking thing?’
 
 ‘That’s it, Mas’r Davy,’ returned Ham.
 
@@ -102,22 +102,22 @@ If it had been Aladdin’s palace, roc’s egg and all, I suppose I could
 not have been more charmed with the romantic idea of living in it. There
 was a delightful door cut in the side, and it was roofed in, and there
 were little windows in it; but the wonderful charm of it was, that
-it was a real boat which had no doubt been upon the water hundreds of
+it was a real boat which had no [[Doubt|doubt]] been upon the [[Water|water]] hundreds of
 times, and which had never been intended to be lived in, on dry land.
 That was the captivation of it to me. If it had ever been meant to be
 lived in, I might have thought it small, or inconvenient, or lonely; but
 never having been designed for any such use, it became a perfect abode.
 
 It was beautifully clean inside, and as tidy as possible. There was a
-table, and a Dutch clock, and a chest of drawers, and on the chest of
+table, and a Dutch [[Clock|clock]], and a chest of drawers, and on the chest of
 drawers there was a tea-tray with a painting on it of a lady with a
-parasol, taking a walk with a military-looking child who was trundling a
-hoop. The tray was kept from tumbling down, by a bible; and the tray, if
+parasol, taking a walk with a military-looking [[Child|child]] who was trundling a
+hoop. The tray was kept from tumbling down, by a [[Bible|bible]]; and the tray, if
 it had tumbled down, would have smashed a quantity of cups and saucers
 and a teapot that were grouped around the book. On the walls there were
 some common coloured pictures, framed and glazed, of scripture subjects;
 such as I have never seen since in the hands of pedlars, without seeing
-the whole interior of Peggotty’s brother’s house again, at one view.
+the whole interior of Peggotty’s brother’s [[house]] again, at one view.
 Abraham in red going to sacrifice Isaac in blue, and Daniel in yellow
 cast into a den of green lions, were the most prominent of these. Over
 the little mantelshelf, was a picture of the ‘Sarah Jane’ lugger, built
@@ -129,16 +129,16 @@ divine then; and some lockers and boxes and conveniences of that sort,
 which served for seats and eked out the chairs.
 
 All this I saw in the first glance after I crossed the
-threshold--child-like, according to my theory--and then Peggotty opened
+threshold--[[Child|child]]-like, according to my theory--and then Peggotty opened
 a little door and showed me my bedroom. It was the completest and most
 desirable bedroom ever seen--in the stern of the vessel; with a little
-window, where the rudder used to go through; a little looking-glass,
+[[Window|window]], where the rudder used to go through; a little looking-glass,
 just the right height for me, nailed against the wall, and framed with
 oyster-shells; a little bed, which there was just room enough to get
 into; and a nosegay of seaweed in a blue mug on the table. The walls
 were whitewashed as white as milk, and the patchwork counterpane made my
 eyes quite ache with its brightness. One thing I particularly noticed
-in this delightful house, was the smell of fish; which was so searching,
+in this delightful [[house]], was the smell of fish; which was so searching,
 that when I took out my pocket-handkerchief to wipe my nose, I found it
 smelt exactly as if it had wrapped up a lobster. On my imparting this
 discovery in confidence to Peggotty, she informed me that her brother
@@ -154,11 +154,11 @@ mile off. Likewise by a most beautiful little girl (or I thought her so)
 with a necklace of blue beads on, who wouldn’t let me kiss her when I
 offered to, but ran away and hid herself. By and by, when we had dined
 in a sumptuous manner off boiled dabs, melted butter, and potatoes, with
-a chop for me, a hairy man with a very good-natured face came home. As
+a chop for me, a hairy man with a very good-natured face came [[Home|home]]. As
 he called Peggotty ‘Lass’, and gave her a hearty smack on the cheek, I
-had no doubt, from the general propriety of her conduct, that he was her
+had no [[Doubt|doubt]], from the general propriety of her conduct, that he was her
 brother; and so he turned out--being presently introduced to me as Mr.
-Peggotty, the master of the house.
+Peggotty, the master of the [[house]].
 
 ‘Glad to see you, sir,’ said Mr. Peggotty. ‘You’ll find us rough, sir,
 but you’ll find us ready.’
@@ -173,34 +173,34 @@ I gave Mr. Peggotty to understand that she was as jolly as I could wish,
 and that she desired her compliments--which was a polite fiction on my
 part.
 
-‘I’m much obleeged to her, I’m sure,’ said Mr. Peggotty. ‘Well, sir,
+‘I’m much obleeged to her, I’m sure,’ said Mr. Peggotty. ‘[[Well]], sir,
 if you can make out here, fur a fortnut, ‘long wi’ her,’ nodding at his
 sister, ‘and Ham, and little Em’ly, we shall be proud of your company.’
 
-Having done the honours of his house in this hospitable manner, Mr.
-Peggotty went out to wash himself in a kettleful of hot water, remarking
+Having done the honours of his [[house]] in this hospitable manner, Mr.
+Peggotty went out to wash himself in a kettleful of hot [[Water|water]], remarking
 that ‘cold would never get his muck off’. He soon returned, greatly
 improved in appearance; but so rubicund, that I couldn’t help
 thinking his face had this in common with the lobsters, crabs, and
-crawfish,--that it went into the hot water very black, and came out very
+crawfish,--that it went into the hot [[Water|water]] very black, and came out very
 red.
 
 After tea, when the door was shut and all was made snug (the nights
 being cold and misty now), it seemed to me the most delicious retreat
-that the imagination of man could conceive. To hear the wind getting
+that the [[Imagination|imagination]] of man could conceive. To hear the [[Wind|wind]] getting
 up out at sea, to know that the fog was creeping over the desolate flat
-outside, and to look at the fire, and think that there was no house near
+outside, and to look at the [[Fire|fire]], and think that there was no [[house]] near
 but this one, and this one a boat, was like enchantment. Little Em’ly
 had overcome her shyness, and was sitting by my side upon the lowest and
 least of the lockers, which was just large enough for us two, and just
 fitted into the chimney corner. Mrs. Peggotty with the white apron, was
-knitting on the opposite side of the fire. Peggotty at her needlework
-was as much at home with St. Paul’s and the bit of wax-candle, as if
+knitting on the opposite side of the [[Fire|fire]]. Peggotty at her needlework
+was as much at [[Home|home]] with St. Paul’s and the bit of wax-candle, as if
 they had never known any other roof. Ham, who had been giving me my
 first lesson in all-fours, was trying to recollect a scheme of telling
 fortunes with the dirty cards, and was printing off fishy impressions of
 his thumb on all the cards he turned. Mr. Peggotty was smoking his pipe.
-I felt it was a time for conversation and confidence.
+I felt it was a [[Time|time]] for conversation and confidence.
 
 ‘Mr. Peggotty!’ says I.
 
@@ -227,7 +227,7 @@ the catechism to Mr. Peggotty.
 ‘Drowndead,’ said Mr. Peggotty.
 
 I was very much surprised that Mr. Peggotty was not Ham’s father, and
-began to wonder whether I was mistaken about his relationship to anybody
+began to [[Wonder|wonder]] whether I was mistaken about his relationship to anybody
 else there. I was so curious to know, that I made up my mind to have it
 out with Mr. Peggotty.
 
@@ -237,12 +237,12 @@ she, Mr. Peggotty?’
 ‘No, sir. My brother-in-law, Tom, was her father.’
 
 I couldn’t help it. ‘--Dead, Mr. Peggotty?’ I hinted, after another
-respectful silence.
+respectful [[Silence|silence]].
 
 ‘Drowndead,’ said Mr. Peggotty.
 
 I felt the difficulty of resuming the subject, but had not got to the
-bottom of it yet, and must get to the bottom somehow. So I said:
+[[Bottom|bottom]] of it yet, and must get to the [[Bottom|bottom]] somehow. So I said:
 
 ‘Haven’t you ANY children, Mr. Peggotty?’
 
@@ -257,10 +257,10 @@ pointing to the person in the apron who was knitting.
 
 But at this point Peggotty--I mean my own peculiar Peggotty--made such
 impressive motions to me not to ask any more questions, that I could
-only sit and look at all the silent company, until it was time to go to
+only sit and look at all the silent company, until it was [[Time|time]] to go to
 bed. Then, in the privacy of my own little cabin, she informed me that
-Ham and Em’ly were an orphan nephew and niece, whom my host had
-at different times adopted in their childhood, when they were left
+Ham and Em’ly were an [[Orphan|orphan]] nephew and niece, whom my host had
+at different times adopted in their [[Childhood|childhood]], when they were left
 destitute: and that Mrs. Gummidge was the widow of his partner in
 a boat, who had died very poor. He was but a poor man himself, said
 Peggotty, but as good as gold and as true as steel--those were her
@@ -279,14 +279,14 @@ women’s going to bed in another little crib like mine at the opposite
 end of the boat, and to him and Ham hanging up two hammocks for
 themselves on the hooks I had noticed in the roof, in a very luxurious
 state of mind, enhanced by my being sleepy. As slumber gradually stole
-upon me, I heard the wind howling out at sea and coming on across the
+upon me, I heard the [[Wind|wind]] howling out at sea and coming on across the
 flat so fiercely, that I had a lazy apprehension of the great deep
-rising in the night. But I bethought myself that I was in a boat, after
+rising in the [[Night|night]]. But I bethought myself that I was in a boat, after
 all; and that a man like Mr. Peggotty was not a bad person to have on
 board if anything did happen.
 
 Nothing happened, however, worse than morning. Almost as soon as it
-shone upon the oyster-shell frame of my mirror I was out of bed, and out
+shone upon the oyster-shell frame of my [[Mirror|mirror]] I was out of bed, and out
 with little Em’ly, picking up stones upon the beach.
 
 ‘You’re quite a sailor, I suppose?’ I said to Em’ly. I don’t know that I
@@ -301,9 +301,9 @@ head to say this.
 at the mighty ocean. ‘I an’t!’
 
 ‘Ah! but it’s cruel,’ said Em’ly. ‘I have seen it very cruel to some of
-our men. I have seen it tear a boat as big as our house, all to pieces.’
+our men. I have seen it tear a boat as big as our [[house]], all to pieces.’
 
-‘I hope it wasn’t the boat that--’
+‘I [[Hope|hope]] it wasn’t the boat that--’
 
 ‘That father was drownded in?’ said Em’ly. ‘No. Not that one, I never
 see that boat.’
@@ -315,11 +315,11 @@ Little Em’ly shook her head. ‘Not to remember!’
 Here was a coincidence! I immediately went into an explanation how I had
 never seen my own father; and how my mother and I had always lived
 by ourselves in the happiest state imaginable, and lived so then, and
-always meant to live so; and how my father’s grave was in the churchyard
-near our house, and shaded by a tree, beneath the boughs of which I had
-walked and heard the birds sing many a pleasant morning. But there were
+always meant to live so; and how my father’s [[Grave|grave]] was in the churchyard
+near our [[house]], and shaded by a tree, beneath the boughs of which I had
+walked and heard the [[Birds|birds]] sing many a pleasant morning. But there were
 some differences between Em’ly’s orphanhood and mine, it appeared. She
-had lost her mother before her father; and where her father’s grave was
+had lost her mother before her father; and where her father’s [[Grave|grave]] was
 no one knew, except that it was somewhere in the depths of the sea.
 
 ‘Besides,’ said Em’ly, as she looked about for shells and pebbles, ‘your
@@ -329,7 +329,7 @@ a fisherman.’
 
 ‘Dan is Mr. Peggotty, is he?’ said I.
 
-‘Uncle Dan--yonder,’ answered Em’ly, nodding at the boat-house.
+‘Uncle Dan--yonder,’ answered Em’ly, nodding at the boat-[[house]].
 
 ‘Yes. I mean him. He must be very good, I should think?’
 
@@ -337,7 +337,7 @@ a fisherman.’
 coat with diamond buttons, nankeen trousers, a red velvet waistcoat, a
 cocked hat, a large gold watch, a silver pipe, and a box of money.’
 
-I said I had no doubt that Mr. Peggotty well deserved these treasures.
+I said I had no [[Doubt|doubt]] that Mr. Peggotty [[Well|well]] deserved these treasures.
 I must acknowledge that I felt it difficult to picture him quite at his
 ease in the raiment proposed for him by his grateful little niece, and
 that I was particularly doubtful of the policy of the cocked hat; but I
@@ -361,7 +361,7 @@ contemplation of it, and little Em’ly was emboldened to say, shyly,
 
 ‘Don’t you think you are afraid of the sea, now?’
 
-It was quiet enough to reassure me, but I have no doubt if I had seen a
+It was quiet enough to reassure me, but I have no [[Doubt|doubt]] if I had seen a
 moderately large wave come tumbling in, I should have taken to my heels,
 with an awful recollection of her drowned relations. However, I said
 ‘No,’ and I added, ‘You don’t seem to be either, though you say you
@@ -375,7 +375,7 @@ crying out for help. That’s why I should like so much to be a lady. But
 I’m not afraid in this way. Not a bit. Look here!’
 
 She started from my side, and ran along a jagged timber which protruded
-from the place we stood upon, and overhung the deep water at some
+from the place we stood upon, and overhung the deep [[Water|water]] at some
 height, without the least defence. The incident is so impressed on my
 remembrance, that if I were a draughtsman I could draw its form here,
 I dare say, accurately as it was that day, and little Em’ly springing
@@ -387,14 +387,14 @@ to me, and I soon laughed at my fears, and at the cry I had uttered;
 fruitlessly in any case, for there was no one near. But there have been
 times since, in my manhood, many times there have been, when I have
 thought, Is it possible, among the possibilities of hidden things, that
-in the sudden rashness of the child and her wild look so far off, there
+in the sudden rashness of the [[Child|child]] and her wild look so far off, there
 was any merciful attraction of her into danger, any tempting her towards
 him permitted on the part of her dead father, that her life might have
-a chance of ending that day? There has been a time since when I have
+a chance of ending that day? There has been a [[Time|time]] since when I have
 wondered whether, if the life before her could have been revealed to me
-at a glance, and so revealed as that a child could fully comprehend it,
+at a glance, and so revealed as that a [[Child|child]] could fully comprehend it,
 and if her preservation could have depended on a motion of my hand, I
-ought to have held it up to save her. There has been a time since--I do
+ought to have held it up to save her. There has been a [[Time|time]] since--I do
 not say it lasted long, but it has been--when I have asked myself the
 question, would it have been better for little Em’ly to have had the
 waters close above her head that morning in my sight; and when I have
@@ -404,31 +404,31 @@ This may be premature. I have set it down too soon, perhaps. But let it
 stand.
 
 We strolled a long way, and loaded ourselves with things that we thought
-curious, and put some stranded starfish carefully back into the water--I
+curious, and put some stranded starfish carefully back into the [[Water|water]]--I
 hardly know enough of the race at this moment to be quite certain
 whether they had reason to feel obliged to us for doing so, or the
-reverse--and then made our way home to Mr. Peggotty’s dwelling. We
-stopped under the lee of the lobster-outhouse to exchange an innocent
+reverse--and then made our way [[Home|home]] to Mr. Peggotty’s dwelling. We
+stopped under the lee of the lobster-outhouse to exchange an [[Innocent|innocent]]
 kiss, and went in to breakfast glowing with health and pleasure.
 
 ‘Like two young mavishes,’ Mr. Peggotty said. I knew this meant, in our
 local dialect, like two young thrushes, and received it as a compliment.
 
-Of course I was in love with little Em’ly. I am sure I loved that
+Of course I was in [[Love|love]] with little Em’ly. I am sure I loved that
 baby quite as truly, quite as tenderly, with greater purity and more
-disinterestedness, than can enter into the best love of a later time
+disinterestedness, than can enter into the best [[Love|love]] of a later [[Time|time]]
 of life, high and ennobling as it is. I am sure my fancy raised up
-something round that blue-eyed mite of a child, which etherealized,
+something round that blue-eyed mite of a [[Child|child]], which etherealized,
 and made a very angel of her. If, any sunny forenoon, she had spread
 a little pair of wings and flown away before my eyes, I don’t think I
 should have regarded it as much more than I had had reason to expect.
 
 We used to walk about that dim old flat at Yarmouth in a loving manner,
-hours and hours. The days sported by us, as if Time had not grown up
-himself yet, but were a child too, and always at play. I told Em’ly
+hours and hours. The days sported by us, as if [[Time]] had not grown up
+himself yet, but were a [[Child|child]] too, and always at play. I told Em’ly
 I adored her, and that unless she confessed she adored me I should be
-reduced to the necessity of killing myself with a sword. She said she
-did, and I have no doubt she did.
+reduced to the necessity of killing myself with a [[Sword|sword]]. She said she
+did, and I have no [[Doubt|doubt]] she did.
 
 As to any sense of inequality, or youthfulness, or other difficulty
 in our way, little Em’ly and I had no such trouble, because we had no
@@ -449,14 +449,14 @@ her; but there were moments when it would have been more agreeable, I
 thought, if Mrs. Gummidge had had a convenient apartment of her own to
 retire to, and had stopped there until her spirits revived.
 
-Mr. Peggotty went occasionally to a public-house called The Willing
+Mr. Peggotty went occasionally to a public-[[house]] called The Willing
 Mind. I discovered this, by his being out on the second or third evening
-of our visit, and by Mrs. Gummidge’s looking up at the Dutch clock,
+of our visit, and by Mrs. Gummidge’s looking up at the Dutch [[Clock|clock]],
 between eight and nine, and saying he was there, and that, what was
 more, she had known in the morning he would go there.
 
-Mrs. Gummidge had been in a low state all day, and had burst into tears
-in the forenoon, when the fire smoked. ‘I am a lone lorn creetur’,’ were
+Mrs. Gummidge had been in a low state all day, and had burst into [[Tears|tears]]
+in the forenoon, when the [[Fire|fire]] smoked. ‘I am a lone lorn creetur’,’ were
 Mrs. Gummidge’s words, when that unpleasant occurrence took place, ‘and
 everythink goes contrary with me.’
 
@@ -466,12 +466,12 @@ to us.’
 
 ‘I feel it more,’ said Mrs. Gummidge.
 
-It was a very cold day, with cutting blasts of wind. Mrs. Gummidge’s
+It was a very cold day, with cutting blasts of [[Wind|wind]]. Mrs. Gummidge’s
 peculiar corner of the fireside seemed to me to be the warmest and
 snuggest in the place, as her chair was certainly the easiest, but it
 didn’t suit her that day at all. She was constantly complaining of the
 cold, and of its occasioning a visitation in her back which she called
-‘the creeps’. At last she shed tears on that subject, and said again
+‘the creeps’. At last she shed [[Tears|tears]] on that subject, and said again
 that she was ‘a lone lorn creetur’ and everythink went contrary with
 her’.
 
@@ -483,10 +483,10 @@ So at dinner; when Mrs. Gummidge was always helped immediately after me,
 to whom the preference was given as a visitor of distinction. The
 fish were small and bony, and the potatoes were a little burnt. We all
 acknowledged that we felt this something of a disappointment; but Mrs.
-Gummidge said she felt it more than we did, and shed tears again, and
+Gummidge said she felt it more than we did, and shed [[Tears|tears]] again, and
 made that former declaration with great bitterness.
 
-Accordingly, when Mr. Peggotty came home about nine o’clock, this
+Accordingly, when Mr. Peggotty came [[Home|home]] about nine o’[[Clock|clock]], this
 unfortunate Mrs. Gummidge was knitting in her corner, in a very wretched
 and miserable condition. Peggotty had been working cheerfully. Ham had
 been patching up a great pair of waterboots; and I, with little Em’ly
@@ -494,7 +494,7 @@ by my side, had been reading to them. Mrs. Gummidge had never made any
 other remark than a forlorn sigh, and had never raised her eyes since
 tea.
 
-‘Well, Mates,’ said Mr. Peggotty, taking his seat, ‘and how are you?’
+‘[[Well]], Mates,’ said Mr. Peggotty, taking his seat, ‘and how are you?’
 
 We all said something, or looked something, to welcome him, except Mrs.
 Gummidge, who only shook her head over her knitting.
@@ -540,18 +540,18 @@ another entreaty to Mrs. Gummidge to cheer up.
 ‘I an’t what I could wish myself to be,’ said Mrs. Gummidge. ‘I am far
 from it. I know what I am. My troubles has made me contrary. I feel my
 troubles, and they make me contrary. I wish I didn’t feel ‘em, but I
-do. I wish I could be hardened to ‘em, but I an’t. I make the house
-uncomfortable. I don’t wonder at it. I’ve made your sister so all day,
+do. I wish I could be hardened to ‘em, but I an’t. I make the [[house]]
+uncomfortable. I don’t [[Wonder|wonder]] at it. I’ve made your sister so all day,
 and Master Davy.’
 
 Here I was suddenly melted, and roared out, ‘No, you haven’t, Mrs.
 Gummidge,’ in great mental distress.
 
 ‘It’s far from right that I should do it,’ said Mrs. Gummidge. ‘It an’t
-a fit return. I had better go into the house and die. I am a lone lorn
+a fit return. I had better go into the [[house]] and die. I am a lone lorn
 creetur’, and had much better not make myself contrary here. If thinks
 must go contrary with me, and I must go contrary myself, let me go
-contrary in my parish. Dan’l, I’d better go into the house, and die and
+contrary in my parish. Dan’l, I’d better go into the [[house]], and die and
 be a riddance!’
 
 Mrs. Gummidge retired with these words, and betook herself to bed. When
@@ -565,8 +565,8 @@ said in a whisper:
 I did not quite understand what old one Mrs. Gummidge was supposed to
 have fixed her mind upon, until Peggotty, on seeing me to bed, explained
 that it was the late Mr. Gummidge; and that her brother always took that
-for a received truth on such occasions, and that it always had a moving
-effect upon him. Some time after he was in his hammock that night, I
+for a received [[Truth|truth]] on such occasions, and that it always had a moving
+effect upon him. Some [[Time|time]] after he was in his hammock that [[Night|night]], I
 heard him myself repeat to Ham, ‘Poor thing! She’s been thinking of the
 old ‘un!’ And whenever Mrs. Gummidge was overcome in a similar manner
 during the remainder of our stay (which happened some few times), he
@@ -580,25 +580,25 @@ sometimes walked with us to show us the boats and ships, and once
 or twice he took us for a row. I don’t know why one slight set of
 impressions should be more particularly associated with a place than
 another, though I believe this obtains with most people, in reference
-especially to the associations of their childhood. I never hear the
+especially to the associations of their [[Childhood|childhood]]. I never hear the
 name, or read the name, of Yarmouth, but I am reminded of a certain
-Sunday morning on the beach, the bells ringing for church, little Em’ly
-leaning on my shoulder, Ham lazily dropping stones into the water, and
+[[Sunday]] morning on the beach, [[The Bells|the bells]] ringing for church, little Em’ly
+leaning on my shoulder, Ham lazily dropping stones into the [[Water|water]], and
 the sun, away at sea, just breaking through the heavy mist, and showing
 us the ships, like their own shadows.
 
-At last the day came for going home. I bore up against the separation
+At last the day came for going [[Home|home]]. I bore up against the separation
 from Mr. Peggotty and Mrs. Gummidge, but my agony of mind at leaving
-little Em’ly was piercing. We went arm-in-arm to the public-house where
-the carrier put up, and I promised, on the road, to write to her. (I
+little Em’ly was piercing. We went arm-in-arm to the public-[[house]] where
+the carrier put up, and I promised, on the [[Road|road]], to write to her. (I
 redeemed that promise afterwards, in characters larger than those in
 which apartments are usually announced in manuscript, as being to let.)
 We were greatly overcome at parting; and if ever, in my life, I have had
 a void made in my heart, I had one made that day.
 
-Now, all the time I had been on my visit, I had been ungrateful to my
-home again, and had thought little or nothing about it. But I was no
-sooner turned towards it, than my reproachful young conscience seemed
+Now, all the [[Time|time]] I had been on my visit, I had been ungrateful to my
+[[Home|home]] again, and had thought little or nothing about it. But I was no
+sooner turned towards it, than my reproachful young [[Conscience|conscience]] seemed
 to point that way with a ready finger; and I felt, all the more for the
 sinking of my spirits, that it was my nest, and that my mother was my
 comforter and friend.
@@ -610,16 +610,16 @@ in those transports, tried to check them (though very kindly), and
 looked confused and out of sorts.
 
 Blunderstone Rookery would come, however, in spite of her, when the
-carrier’s horse pleased--and did. How well I recollect it, on a cold
+carrier’s [[Horse|horse]] pleased--and did. How [[Well|well]] I recollect it, on a cold
 grey afternoon, with a dull sky, threatening rain!
 
 The door opened, and I looked, half laughing and half crying in my
 pleasant agitation, for my mother. It was not she, but a strange
 servant.
 
-‘Why, Peggotty!’ I said, ruefully, ‘isn’t she come home?’
+‘Why, Peggotty!’ I said, ruefully, ‘isn’t she come [[Home|home]]?’
 
-‘Yes, yes, Master Davy,’ said Peggotty. ‘She’s come home. Wait a bit,
+‘Yes, yes, Master Davy,’ said Peggotty. ‘She’s come [[Home|home]]. Wait a bit,
 Master Davy, and I’ll--I’ll tell you something.’
 
 Between her agitation, and her natural awkwardness in getting out of the
@@ -665,8 +665,8 @@ and speaking in a breathless sort of way. ‘What do you think? You have
 got a Pa!’
 
 I trembled, and turned white. Something--I don’t know what, or
-how--connected with the grave in the churchyard, and the raising of the
-dead, seemed to strike me like an unwholesome wind.
+how--connected with the [[Grave|grave]] in the churchyard, and the raising of the
+dead, seemed to strike me like an unwholesome [[Wind|wind]].
 
 ‘A new one,’ said Peggotty.
 
@@ -682,7 +682,7 @@ hard, and, putting out her hand, said:
 --‘And your mama,’ said Peggotty.
 
 I ceased to draw back, and we went straight to the best parlour, where
-she left me. On one side of the fire, sat my mother; on the other, Mr.
+she left me. On one side of the [[Fire|fire]], sat my mother; on the other, Mr.
 Murdstone. My mother dropped her work, and arose hurriedly, but timidly
 I thought.
 
@@ -692,8 +692,8 @@ always control yourself! Davy boy, how do you do?’
 I gave him my hand. After a moment of suspense, I went and kissed my
 mother: she kissed me, patted me gently on the shoulder, and sat down
 again to her work. I could not look at her, I could not look at him,
-I knew quite well that he was looking at us both; and I turned to the
-window and looked out there, at some shrubs that were drooping their
+I knew quite [[Well|well]] that he was looking at us both; and I turned to the
+[[Window|window]] and looked out there, at some shrubs that were drooping their
 heads in the cold.
 
 As soon as I could creep away, I crept upstairs. My old dear bedroom was

@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 6 (part 1)"
+title: "[[Persuasion]] — Chapter 6 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -52,29 +52,29 @@ Anne, Sir Walter and your sister are gone; and what part of Bath do you
 
 think they will settle in?” and this, without much waiting for an
 
-answer; or in the young ladies’ addition of, “I hope _we_ shall be in
+answer; or in the young ladies’ addition of, “I [[Hope|hope]] _we_ shall be in
 
-Bath in the winter; but remember, papa, if we do go, we must be in a
+Bath in the [[Winter|winter]]; but remember, papa, if we do go, we must be in a
 
-good situation: none of your Queen Squares for us!” or in the anxious
+good situation: none of your [[Queen]] Squares for us!” or in the anxious
 
-supplement from Mary, of—“Upon my word, I shall be pretty well off,
+supplement from Mary, of—“Upon my word, I shall be pretty [[Well|well]] off,
 
 when you are all gone away to be happy at Bath!”
 
 
 
-She could only resolve to avoid such self-delusion in future, and think
+She could only resolve to avoid such [[Self|self]]-delusion in future, and think
 
 with heightened gratitude of the extraordinary blessing of having one
 
-such truly sympathising friend as Lady Russell.
+such truly sympathising friend as [[Lady Russell]].
 
 
 
 The Mr Musgroves had their own game to guard, and to destroy, their own
 
-horses, dogs, and newspapers to engage them, and the females were fully
+horses, [[dogs]], and newspapers to engage them, and the females were fully
 
 occupied in all the other common subjects of housekeeping, neighbours,
 
@@ -88,7 +88,7 @@ one she was now transplanted into. With the prospect of spending at
 
 least two months at Uppercross, it was highly incumbent on her to
 
-clothe her imagination, her memory, and all her ideas in as much of
+clothe her [[Imagination|imagination]], her [[Memory|memory]], and all her ideas in as much of
 
 Uppercross as possible.
 
@@ -102,7 +102,7 @@ neither was there anything among the other component parts of the
 
 cottage inimical to comfort. She was always on friendly terms with her
 
-brother-in-law; and in the children, who loved her nearly as well, and
+brother-in-law; and in the children, who loved her nearly as [[Well|well]], and
 
 respected her a great deal more than their mother, she had an object of
 
@@ -116,9 +116,9 @@ undoubtedly superior to his wife, but not of powers, or conversation,
 
 or grace, to make the past, as they were connected together, at all a
 
-dangerous contemplation; though, at the same time, Anne could believe,
+dangerous contemplation; though, at the same [[Time|time]], Anne could believe,
 
-with Lady Russell, that a more equal match might have greatly improved
+with [[Lady Russell]], that a more equal match might have greatly improved
 
 him; and that a woman of real understanding might have given more
 
@@ -126,7 +126,7 @@ consequence to his character, and more usefulness, rationality, and
 
 elegance to his habits and pursuits. As it was, he did nothing with
 
-much zeal, but sport; and his time was otherwise trifled away, without
+much zeal, but sport; and his [[Time|time]] was otherwise trifled away, without
 
 benefit from books or anything else. He had very good spirits, which
 
@@ -156,13 +156,13 @@ As to the management of their children, his theory was much better than
 
 his wife’s, and his practice not so bad. “I could manage them very
 
-well, if it were not for Mary’s interference,” was what Anne often
+[[Well|well]], if it were not for Mary’s interference,” was what Anne often
 
-heard him say, and had a good deal of faith in; but when listening in
+heard him say, and had a good deal of [[Faith|faith]] in; but when listening in
 
 turn to Mary’s reproach of “Charles spoils the children so that I
 
-cannot get them into any order,” she never had the smallest temptation
+cannot get them into any order,” she never had the smallest [[Temptation|temptation]]
 
 to say, “Very true.”
 
@@ -172,7 +172,7 @@ One of the least agreeable circumstances of her residence there was her
 
 being treated with too much confidence by all parties, and being too
 
-much in the secret of the complaints of each house. Known to have some
+much in the secret of the complaints of each [[house]]. Known to have some
 
 influence with her sister, she was continually requested, or at least
 
@@ -194,15 +194,15 @@ own.”
 
 Mary’s declaration was, “I hate sending the children to the Great
 
-House, though their grandmamma is always wanting to see them, for she
+[[house|House]], though their grandmamma is always wanting to see them, for she
 
 humours and indulges them to such a degree, and gives them so much
 
-trash and sweet things, that they are sure to come back sick and cross
+trash and sweet things, that they are sure to come back sick and [[Cross|cross]]
 
 for the rest of the day.” And Mrs Musgrove took the first opportunity
 
-of being alone with Anne, to say, “Oh! Miss Anne, I cannot help wishing
+of being [[Alone|alone]] with Anne, to say, “Oh! Miss Anne, I cannot help wishing
 
 Mrs Charles had a little of your method with those children. They are
 

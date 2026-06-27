@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 15)"
+title: "[[The Mystery of Marie Roget]] (part 15)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -22,17 +22,17 @@ tags:
 
       has been superinduced by the collateral event which is detailed
 
-      in the third of my extracts. All Paris is excited by the
+      in the third of my extracts. All [[Paris]] is excited by the
 
       discovered corpse of Marie, a girl young, beautiful and
 
       notorious. This corpse is found, bearing marks of violence, and
 
-      floating in the river. But it is now made known that, at the very
+      floating in the [[River|river]]. But it is now made known that, at the very
 
       period, or about the very period, in which it is supposed that
 
-      the girl was assassinated, an outrage similar in nature to that
+      the girl was assassinated, an outrage similar in [[Nature|nature]] to that
 
       endured by the deceased, although less in extent, was
 
@@ -46,17 +46,17 @@ tags:
 
       seemed so opportunely to afford it! Marie, too, was found in the
 
-      river; and upon this very river was this known outrage committed.
+      [[River|river]]; and upon this very [[River|river]] was this known outrage committed.
 
       The connexion of the two events had about it so much of the
 
-      palpable, that the true wonder would have been a failure of the
+      palpable, that the true [[Wonder|wonder]] would have been a failure of the
 
       populace to appreciate and to seize it. But, in fact, the one
 
       atrocity, known to be so committed, is, if any thing, evidence
 
-      that the other, committed at a time nearly coincident, was not so
+      that the other, committed at a [[Time|time]] nearly coincident, was not so
 
       committed. It would have been a miracle indeed, if, while a gang
 
@@ -64,13 +64,13 @@ tags:
 
       unheard-of wrong, there should have been another similar gang, in
 
-      a similar locality, in the same city, under the same
+      a similar locality, in the same [[City|city]], under the same
 
       circumstances, with the same means and appliances, engaged in a
 
       wrong of precisely the same aspect, at precisely the same period
 
-      of time! Yet in what, if not in this marvellous train of
+      of [[Time|time]]! Yet in what, if not in this marvellous train of
 
       coincidence, does the accidentally suggested opinion of the
 
@@ -84,7 +84,7 @@ tags:
 
       thicket, although dense, was in the close vicinity of a public
 
-      road. Within were three or four large stones, forming a kind of
+      [[Road|road]]. Within were three or four large stones, forming a kind of
 
       seat with a back and footstool. On the upper stone was discovered
 
@@ -108,17 +108,17 @@ tags:
 
       it was supposed to indicate the precise scene of the outrage, it
 
-      must be admitted that there was some very good reason for doubt.
+      must be admitted that there was some very good reason for [[Doubt|doubt]].
 
       That it was the scene, I may or I may not believe—but there was
 
-      excellent reason for doubt. Had the true scene been, as Le
+      excellent reason for [[Doubt|doubt]]. Had the true scene been, as Le
 
       Commerciel suggested, in the neighborhood of the Rue Pavée St.
 
       Andrée, the perpetrators of the crime, supposing them still
 
-      resident in Paris, would naturally have been stricken with terror
+      resident in [[Paris]], would naturally have been stricken with terror
 
       at the public attention thus acutely directed into the proper
 
@@ -142,7 +142,7 @@ tags:
 
       attention, during the twenty days elapsing between the fatal
 
-      Sunday and the afternoon upon which they were found by the boys.
+      [[Sunday]] and the afternoon upon which they were found by the boys.
 
       ‘They were all _mildewed_ down hard,’ says Le Soleil, adopting
 
@@ -164,7 +164,7 @@ tags:
 
       recollections, of two small boys; for these boys removed the
 
-      articles and took them home before they had been seen by a third
+      articles and took them [[Home|home]] before they had been seen by a third
 
       party. But grass will grow, especially in warm and damp weather,
 
@@ -180,7 +180,7 @@ tags:
 
       the word no less than three times in the brief paragraph just
 
-      quoted, is he really unaware of the nature of this mildew? Is he
+      quoted, is he really unaware of the [[Nature|nature]] of this mildew? Is he
 
       to be told that it is one of the many classes of fungus, of which
 

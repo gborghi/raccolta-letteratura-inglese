@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Village of Grassley-in-the-Hole (part 3)"
+title: "ball and [[Cross|cross]] — The Village of Grassley-in-the-Hole (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -18,19 +18,19 @@ tags:
 
 "No, I don't," said MacIan, shaking his head.  "I mean him."
 
-And he pointed to the half-tipsy yokel who was ploughing down the road.
+And he pointed to the half-tipsy yokel who was ploughing down the [[Road|road]].
 
 "What do you mean?" asked the atheist.
 
 "I mean him," repeated MacIan with emphasis.  "He goes
-out in the early dawn; he digs or he ploughs a field.
-Then he comes back and drinks ale, and then he sings a song.
+out in the early [[Dawn|dawn]]; he digs or he ploughs a field.
+Then he comes back and drinks ale, and then he sings a [[Song|song]].
 All your philosophies and political systems are young compared to him.
 All your hoary cathedrals, yes, even the Eternal Church on earth is
 new compared to him.  The most mouldering gods in the British Museum
 are new facts beside him.  It is he who in the end shall judge us all."
 
-And MacIan rose to his feet with a vague excitement.
+And MacIan [[Rose|rose]] to his feet with a vague excitement.
 
 "What are you going to do?"
 
@@ -51,14 +51,14 @@ And in gigantic strides the long, lean Highlander whirled away into
 the grey twilight, Turnbull following with a good-humoured oath.
 
 The track of the rustic was easy to follow, even in the faltering dark;
-for he was enlivening his wavering walk with song.
+for he was enlivening his wavering walk with [[Song|song]].
 It was an interminable poem, beginning with some unspecified
-King William, who (it appeared) lived in London town and who after
+[[King]] William, who (it appeared) lived in [[London]] town and who after
 the second rise vanished rather abruptly from the train of thought.
 The rest was almost entirely about beer and was thick with local
 topography of a quite unrecognizable kind.  The singer's step
 was neither very rapid, nor, indeed, exceptionally secure;
-so the song grew louder and louder and the two soon overtook him.
+so the [[Song|song]] grew louder and louder and the two soon overtook him.
 
 He was a man elderly or rather of any age, with lean grey hair and a lean
 red face, but with that remarkable rustic physiognomy in which it
@@ -80,14 +80,14 @@ their sort, master.  Atheists!  Don't talk to me about 'un. Atheists!"
 The grounds of his disdain seemed a little dark and confused; but they
 were evidently sufficient.  MacIan resumed in some encouragement:
 
-"You think as I do, I hope; you think that a man should be connected
+"You think as I do, I [[Hope|hope]]; you think that a man should be connected
 with the Church; with the common Christian----"
 
 The old man extended a quivering stick in the direction of
-a distant hill.
+a distant [[Hill|hill]].
 
 "There's the church," he said thickly.  "Grassley old church that is.
-Pulled down it was, in the old squire's time, and----"
+Pulled down it was, in the old squire's [[Time|time]], and----"
 
 "I mean," explained MacIan elaborately, "that you think that there
 should be someone typifying religion, a priest----"
@@ -99,7 +99,7 @@ want in England?"
 "They want you," said MacIan.
 
 "Quite so," said Turnbull, "and me; but they won't get us.
-MacIan, your attempt on the primitive innocence does not seem
+MacIan, your attempt on the primitive [[innocence]] does not seem
 very successful.  Let me try.  What you want, my friend, is your rights.
 You don't want any priests or churches.  A vote, a right to speak
 is what you----"
@@ -114,16 +114,16 @@ When I sees a man, I sez 'e's a man."
 "Quite so," said Turnbull, "a citizen."
 
 "I say he's a man," said the rustic furiously, stopping and
-striking his stick on the ground.  "Not a city or owt else.
+striking his stick on the ground.  "Not a [[City|city]] or owt else.
 He's a man."
 
 "You're perfectly right," said the sudden voice of MacIan,
-falling like a sword.  "And you have kept close to something
+falling like a [[Sword|sword]].  "And you have kept close to something
 the whole world of today tries to forget."
 
-"Good night."
+"Good [[Night|night]]."
 
-And the old man went on wildly singing into the night.
+And the old man went on wildly singing into the [[Night|night]].
 
 "A jolly old creature," said Turnbull; "he didn't seem able to get
 much beyond that fact that a man is a man."

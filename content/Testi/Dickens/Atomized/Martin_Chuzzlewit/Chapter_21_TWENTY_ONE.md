@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 21: TWENTY ONE"
+title: "[[Martin Chuzzlewit]] — Chapter 21: TWENTY ONE"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -17,41 +17,41 @@ tags:
 CHAPTER TWENTY-ONE
 
 MORE AMERICAN EXPERIENCES, MARTIN TAKES A PARTNER, AND MAKES A PURCHASE.
-SOME ACCOUNT OF EDEN, AS IT APPEARED ON PAPER. ALSO OF THE BRITISH LION.
+SOME ACCOUNT OF EDEN, AS IT APPEARED ON PAPER. ALSO OF THE BRITISH [[Lion|LION]].
 ALSO OF THE KIND OF SYMPATHY PROFESSED AND ENTERTAINED BY THE WATERTOAST
 ASSOCIATION OF UNITED SYMPATHISERS
 
 
 The knocking at Mr Pecksniff’s door, though loud enough, bore no
 resemblance whatever to the noise of an American railway train at full
-speed. It may be well to begin the present chapter with this frank
+[[Speed|speed]]. It may be [[Well|well]] to begin the present chapter with this frank
 admission, lest the reader should imagine that the sounds now deafening
-this history’s ears have any connection with the knocker on Mr
+this [[history]]’s ears have any connection with the knocker on Mr
 Pecksniff’s door, or with the great amount of agitation pretty equally
 divided between that worthy man and Mr Pinch, of which its strong
 performance was the cause.
 
-Mr Pecksniff’s house is more than a thousand leagues away; and again
+Mr Pecksniff’s [[house]] is more than a thousand leagues away; and again
 this happy chronicle has Liberty and Moral Sensibility for its high
 companions. Again it breathes the blessed air of Independence; again it
 contemplates with pious awe that moral sense which renders unto Ceasar
 nothing that is his; again inhales that sacred atmosphere which was
 the life of him--oh noble patriot, with many followers!--who dreamed of
-Freedom in a slave’s embrace, and waking sold her offspring and his own
+[[Freedom]] in a slave’s embrace, and waking sold her offspring and his own
 in public markets.
 
-How the wheels clank and rattle, and the tram-road shakes, as the train
+How the wheels clank and rattle, and the tram-[[Road|road]] shakes, as the train
 rushes on! And now the engine yells, as it were lashed and tortured like
 a living labourer, and writhed in agony. A poor fancy; for steel and
 iron are of infinitely greater account, in this commonwealth, than
-flesh and blood. If the cunning work of man be urged beyond its power of
-endurance, it has within it the elements of its own revenge; whereas
+flesh and [[Blood|blood]]. If the cunning work of man be urged beyond its power of
+[[Endurance|endurance]], it has within it the elements of its own [[Revenge|revenge]]; whereas
 the wretched mechanism of the Divine Hand is dangerous with no such
 property, but may be tampered with, and crushed, and broken, at the
 driver’s pleasure. Look at that engine! It shall cost a man more dollars
 in the way of penalty and fine, and satisfaction of the outraged law,
 to deface in wantonness that senseless mass of metal, than to take the
-lives of twenty human creatures! Thus the stars wink upon the bloody
+lives of twenty human creatures! Thus the [[Stars|stars]] wink upon the bloody
 stripes; and Liberty pulls down her cap upon her eyes, and owns
 Oppression in its vilest aspect, for her sister.
 
@@ -73,14 +73,14 @@ few.
 
 There were three great caravans or cars attached. The ladies’ car, the
 gentlemen’s car, and the car for negroes; the latter painted black, as
-an appropriate compliment to its company. Martin and Mark Tapley were
+an appropriate compliment to its company. Martin and [[Mark Tapley]] were
 in the first, as it was the most comfortable; and, being far from full,
 received other gentlemen who, like them, were unblessed by the society
 of ladies of their own. They were seated side by side, and were engaged
 in earnest conversation.
 
 ‘And so, Mark,’ said Martin, looking at him with an anxious expression,
-‘and so you are glad we have left New York far behind us, are you?’
+‘and so you are glad we have left [[New York]] far behind us, are you?’
 
 ‘Yes, sir,’ said Mark. ‘I am. Precious glad.’
 
@@ -90,7 +90,7 @@ in earnest conversation.
 spent in my life, was that there week at Pawkins’s.’
 
 ‘What do you think of our prospects?’ inquired Martin, with an air that
-plainly said he had avoided the question for some time.
+plainly said he had avoided the question for some [[Time|time]].
 
 ‘Uncommon bright, sir,’ returned Mark. ‘Impossible for a place to have
 a better name, sir, than the Walley of Eden. No man couldn’t think of
@@ -109,7 +109,7 @@ approaching consummation of his fondest wishes.
 ‘A military officer,’ said Mark.
 
 ‘Confound you for a ridiculous fellow!’ cried Martin, laughing heartily
-in spite of himself. ‘What military officer? You know they spring up in
+in spite of himself. ‘What military officer? You know they [[Spring|spring]] up in
 every field.’
 
 ‘As thick as scarecrows in England, sir,’ interposed Mark, ‘which is a
@@ -120,7 +120,7 @@ told me. “Am I rightly informed,” he says--not exactly through his nose,
 but as if he’d got a stoppage in it, very high up--“that you’re a-going
 to the Walley of Eden?” “I heard some talk on it,” I told him. “Oh!”
  says he, “if you should ever happen to go to bed there--you MAY, you
-know,” he says, “in course of time as civilisation progresses--don’t
+know,” he says, “in course of [[Time|time]] as civilisation progresses--don’t
 forget to take a axe with you.” I looks at him tolerable hard. “Fleas?”
  says I. “And more,” says he. “Wampires?” says I. “And more,” says he.
 “Musquitoes, perhaps?” says I. “And more,” says he. “What more?” says
@@ -129,7 +129,7 @@ extent, stranger. There air some catawampous chawers in the small way
 too, as graze upon a human pretty strong; but don’t mind THEM--they’re
 company. It’s snakes,” he says, “as you’ll object to; and whenever you
 wake and see one in a upright poster on your bed,” he says, “like a
-corkscrew with the handle off a-sittin’ on its bottom ring, cut him
+corkscrew with the handle off a-sittin’ on its [[Bottom|bottom]] ring, cut him
 down, for he means wenom.”’
 
 ‘Why didn’t you tell me this before!’ cried Martin, with an expression
@@ -137,14 +137,14 @@ of face which set off the cheerfulness of Mark’s visage to great
 advantage.
 
 ‘I never thought on it, sir,’ said Mark. ‘It come in at one ear, and
-went out at the other. But Lord love us, he was one of another Company,
+went out at the other. But Lord [[Love|love]] us, he was one of another Company,
 I dare say, and only made up the story that we might go to his Eden, and
 not the opposition one.’
 
 ‘There’s some probability in that,’ observed Martin. ‘I can honestly say
-that I hope so, with all my heart.’
+that I [[Hope|hope]] so, with all my heart.’
 
-‘I’ve not a doubt about it, sir,’ returned Mark, who, full of the
+‘I’ve not a [[Doubt|doubt]] about it, sir,’ returned Mark, who, full of the
 inspiriting influence of the anecodote upon himself, had for the moment
 forgotten its probable effect upon his master; ‘anyhow, we must live,
 you know, sir.’
@@ -167,11 +167,11 @@ closed; only peeping out of the corners, and even then with a glance
 that seemed to say, ‘Now you won’t overreach me; you want to, but you
 won’t.’ His arms rested carelessly on his knees as he leant forward;
 in the palm of his left hand, as English rustics have their slice of
-cheese, he had a cake of tobacco; in his right a penknife. He struck
+[[cheese]], he had a cake of tobacco; in his right a penknife. He struck
 into the dialogue with as little reserve as if he had been specially
 called in, days before, to hear the arguments on both sides, and favour
 them with his opinion; and he no more contemplated or cared for the
-possibility of their not desiring the honour of his acquaintance or
+possibility of their not desiring the [[Honour|honour]] of his acquaintance or
 interference in their private affairs than if he had been a bear or a
 buffalo.
 
@@ -210,9 +210,9 @@ pro-duce.’
 
 Martin not discussing the question, there was a pause.
 
-‘Well!’ resumed their new friend, after staring at them intently during
-the whole interval of silence; ‘how’s the unnat’ral old parent by this
-time?’
+‘[[Well]]!’ resumed their new friend, after staring at them intently during
+the whole interval of [[Silence|silence]]; ‘how’s the unnat’ral old parent by this
+[[Time|time]]?’
 
 Mr Tapley regarding this inquiry as only another version of the
 impertinent English question, ‘How’s your mother?’ would have resented
@@ -221,11 +221,11 @@ it instantly, but for Martin’s prompt interposition.
 ‘You mean the old country?’ he said.
 
 ‘Ah!’ was the reply. ‘How’s she? Progressing back’ards, I expect, as
-usual? Well! How’s Queen Victoria?’
+usual? [[Well]]! How’s [[Queen]] Victoria?’
 
 ‘In good health, I believe,’ said Martin.
 
-‘Queen Victoria won’t shake in her royal shoes at all, when she hears
+‘[[Queen]] Victoria won’t shake in her royal shoes at all, when she hears
 to-morrow named,’ observed the stranger, ‘No.’
 
 ‘Not that I am aware of. Why should she?’
@@ -238,11 +238,11 @@ done in these diggings,’ said the stranger. ‘No.’
 The strange gentleman looked at him as if in pity for his ignorance or
 prejudice, and said:
 
-‘Well, sir, I tell you this--there ain’t a engine with its biler
+‘[[Well]], sir, I tell you this--there ain’t a engine with its biler
 bust, in God A’mighty’s free U-nited States, so fixed, and nipped,
 and frizzled to a most e-tarnal smash, as that young critter, in her
-luxurious location in the Tower of London will be, when she reads the
-next double-extra Watertoast Gazette.’
+luxurious location in the Tower of [[London]] will be, when she reads the
+next [[Double|double]]-extra Watertoast Gazette.’
 
 Several other gentlemen had left their seats and gathered round during
 the foregoing dialogue. They were highly delighted with this speech. One
@@ -252,7 +252,7 @@ called upon to acknowledge it.
 
 ‘Hem! Mr La Fayette Kettle,’ he said, taking off his hat.
 
-There was a grave murmur of ‘Hush!’
+There was a [[Grave|grave]] murmur of ‘Hush!’
 
 ‘Mr La Fayette Kettle! Sir!’
 
@@ -267,23 +267,23 @@ star-spangled banner of the Great United States, for your eloquent and
 categorical exposition. And if, sir,’ said the speaker, poking Martin
 with the handle of his umbrella to bespeak his attention, for he was
 listening to a whisper from Mark; ‘if, sir, in such a place, and at such
-a time, I might venture to con-clude with a sentiment, glancing--however
+a [[Time|time]], I might venture to con-clude with a sentiment, glancing--however
 slantin’dicularly--at the subject in hand, I would say, sir, may
-the British Lion have his talons eradicated by the noble bill of the
+the British [[Lion]] have his talons eradicated by the noble bill of the
 American Eagle, and be taught to play upon the Irish Harp and the Scotch
 Fiddle that music which is breathed in every empty shell that lies upon
 the shores of green Co-lumbia!’
 
 Here the lank gentleman sat down again, amidst a great sensation; and
-every one looked very grave.
+every one looked very [[Grave|grave]].
 
 ‘General Choke,’ said Mr La Fayette Kettle, ‘you warm my heart; sir, you
-warm my heart. But the British Lion is not unrepresented here, sir; and
+warm my heart. But the British [[Lion]] is not unrepresented here, sir; and
 I should be glad to hear his answer to those remarks.’
 
-‘Upon my word,’ cried Martin, laughing, ‘since you do me the honour to
+‘Upon my word,’ cried Martin, laughing, ‘since you do me the [[Honour|honour]] to
 consider me his representative, I have only to say that I never heard
-of Queen Victoria reading the What’s-his-name Gazette and that I should
+of [[Queen]] Victoria reading the What’s-his-name Gazette and that I should
 scarcely think it probable.’
 
 General Choke smiled upon the rest, and said, in patient and benignant
@@ -291,26 +291,26 @@ explanation:
 
 ‘It is sent to her, sir. It is sent to her. Her mail.’
 
-‘But if it is addressed to the Tower of London, it would hardly come to
-hand, I fear,’ returned Martin; ‘for she don’t live there.’
+‘But if it is addressed to the Tower of [[London]], it would hardly come to
+hand, I [[Fear|fear]],’ returned Martin; ‘for she don’t live there.’
 
-‘The Queen of England, gentlemen,’ observed Mr Tapley, affecting the
+‘The [[Queen]] of England, gentlemen,’ observed Mr Tapley, affecting the
 greatest politeness, and regarding them with an immovable face, ‘usually
 lives in the Mint to take care of the money. She HAS lodgings, in virtue
-of her office, with the Lord Mayor at the Mansion House; but don’t often
+of her office, with the [[Lord Mayor]] at the Mansion [[house|House]]; but don’t often
 occupy them, in consequence of the parlour chimney smoking.’
 
 ‘Mark,’ said Martin, ‘I shall be very much obliged to you if you’ll
 have the goodness not to interfere with preposterous statements, however
 jocose they may appear to you. I was merely remarking gentlemen--though
-it’s a point of very little import--that the Queen of England does not
-happen to live in the Tower of London.’
+it’s a point of very little import--that the [[Queen]] of England does not
+happen to live in the Tower of [[London]].’
 
 ‘General!’ cried Mr La Fayette Kettle. ‘You hear?’
 
 ‘General!’ echoed several others. ‘General!’
 
-‘Hush! Pray, silence!’ said General Choke, holding up his hand, and
+‘Hush! Pray, [[Silence|silence]]!’ said General Choke, holding up his hand, and
 speaking with a patient and complacent benevolence that was quite
 touching. ‘I have always remarked it as a very extraordinary
 circumstance, which I impute to the natur’ of British Institutions and
@@ -320,22 +320,22 @@ Continent of the Western Ocean; that the knowledge of Britishers
 themselves on such points is not to be compared with that possessed
 by our intelligent and locomotive citizens. This is interesting, and
 confirms my observation. When you say, sir,’ he continued, addressing
-Martin, ‘that your Queen does not reside in the Tower of London, you
+Martin, ‘that your [[Queen]] does not reside in the Tower of [[London]], you
 fall into an error, not uncommon to your countrymen, even when their
 abilities and moral elements air such as to command respect. But, sir,
 you air wrong. She DOES live there--’
 
-‘When she is at the Court of Saint James’s,’ interposed Kettle.
+‘When she is at the [[Court]] of Saint James’s,’ interposed Kettle.
 
-‘When she is at the Court of Saint James’s, of course,’ returned the
+‘When she is at the [[Court]] of Saint James’s, of course,’ returned the
 General, in the same benignant way; ‘for if her location was in Windsor
-Pavilion it couldn’t be in London at the same time. Your Tower of
-London, sir,’ pursued the General, smiling with a mild consciousness of
+Pavilion it couldn’t be in [[London]] at the same [[Time|time]]. Your Tower of
+[[London]], sir,’ pursued the General, smiling with a mild consciousness of
 his knowledge, ‘is nat’rally your royal residence. Being located in
 the immediate neighbourhood of your Parks, your Drives, your Triumphant
 Arches, your Opera, and your Royal Almacks, it nat’rally suggests
-itself as the place for holding a luxurious and thoughtless court.
-And, consequently,’ said the General, ‘consequently, the court is held
+itself as the place for holding a luxurious and thoughtless [[Court|court]].
+And, consequently,’ said the General, ‘consequently, the [[Court|court]] is held
 there.’
 
 ‘Have you been in England?’ asked Martin.
@@ -344,7 +344,7 @@ there.’
 reading people here, sir. You will meet with much information among us
 that will surprise you, sir.’
 
-‘I have not the least doubt of it,’ returned Martin. But here he was
+‘I have not the least [[Doubt|doubt]] of it,’ returned Martin. But here he was
 interrupted by Mr La Fayette Kettle, who whispered in his ear:
 
 ‘You know General Choke?’
@@ -367,7 +367,7 @@ The General took it and read it attentively; now and then stopping to
 glance at the two strangers. When he had finished the note, he came over
 to Martin, sat down by him, and shook hands.
 
-‘Well!’ he said, ‘and you think of settling in Eden?’
+‘[[Well]]!’ he said, ‘and you think of settling in Eden?’
 
 ‘Subject to your opinion, and the agent’s advice,’ replied Martin. ‘I am
 told there is nothing to be done in the old towns.’
@@ -384,9 +384,9 @@ Bevan since.
 
 ‘We have very little to venture,’ said Martin anxiously--‘only a
 few pounds--but it is our all. Now, do you think that for one of my
-profession, this would be a speculation with any hope or chance in it?’
+profession, this would be a speculation with any [[Hope|hope]] or chance in it?’
 
-‘Well,’ observed the General, gravely, ‘if there wasn’t any hope or
+‘[[Well]],’ observed the General, gravely, ‘if there wasn’t any [[Hope|hope]] or
 chance in the speculation, it wouldn’t have engaged my dollars, I
 opinionate.’
 
@@ -394,10 +394,10 @@ opinionate.’
 buyers!’
 
 ‘For the buyers, sir?’ observed the General, in a most impressive
-manner. ‘Well! you come from an old country; from a country, sir, that
+manner. ‘[[Well]]! you come from an old country; from a country, sir, that
 has piled up golden calves as high as Babel, and worshipped ‘em for
 ages. We are a new country, sir; man is in a more primeval state here,
-sir; we have not the excuse of having lapsed in the slow course of time
+sir; we have not the excuse of having lapsed in the slow course of [[Time|time]]
 into degenerate practices; we have no false gods; man, sir, here, is man
 in all his dignity. We fought for that or nothing. Here am I, sir,’
 said the General, setting up his umbrella to represent himself, and a
@@ -407,11 +407,11 @@ a moral sense. Would I, with my principles, invest capital in this
 speculation if I didn’t think it full of hopes and chances for my
 brother man?’
 
-Martin tried to look convinced, but he thought of New York, and found it
+Martin tried to look convinced, but he thought of [[New York]], and found it
 difficult.
 
 ‘What are the Great United States for, sir,’ pursued the General ‘if not
-for the regeneration of man? But it is nat’ral in you to make such an
+for the [[Regeneration|regeneration]] of man? But it is nat’ral in you to make such an
 enquerry, for you come from England, and you do not know my country.’
 
 ‘Then you think,’ said Martin, ‘that allowing for the hardships we are
@@ -436,11 +436,11 @@ the Watertoast Sympathisers were, of whom he had spoken in addressing Mr
 La Fayette Kettle, and on what grievances they bestowed their Sympathy.
 To which the General, looking very serious, made answer, that he might
 fully enlighten himself on those points to-morrow by attending a Great
-Meeting of the Body, which would then be held at the town to which
+Meeting of the [[Body]], which would then be held at the town to which
 they were travelling; ‘over which, sir,’ said the General, ‘my
 fellow-citizens have called on me to preside.’
 
-They came to their journey’s end late in the evening. Close to the
+They came to their [[Journey|journey]]’s end late in the evening. Close to the
 railway was an immense white edifice, like an ugly hospital, on which
 was painted ‘NATIONAL HOTEL.’ There was a wooden gallery or verandah
 in front, in which it was rather startling, when the train stopped, to
@@ -456,10 +456,10 @@ There was a great bar-room in this hotel, and a great public room
 in which the general table was being set out for supper. There were
 interminable whitewashed staircases, long whitewashed galleries upstairs
 and downstairs, scores of little whitewashed bedrooms, and a four-sided
-verandah to every story in the house, which formed a large brick square
+verandah to every story in the [[house]], which formed a large brick square
 with an uncomfortable courtyard in the centre, where some clothes were
 drying. Here and there, some yawning gentlemen lounged up and down with
-their hands in their pockets; but within the house and without, wherever
+their hands in their pockets; but within the [[house]] and without, wherever
 half a dozen people were collected together, there, in their looks,
 dress, morals, manners, habits, intellect, and conversation, were Mr
 Jefferson Brick, Colonel Diver, Major Pawkins, General Choke, and Mr
@@ -471,12 +471,12 @@ to comprehend their being the social, cheerful, winning, airy men they
 were.
 
 At the sounding of a dismal gong, this pleasant company went trooping
-down from all parts of the house to the public room; while from the
+down from all parts of the [[house]] to the public room; while from the
 neighbouring stores other guests came flocking in, in shoals; for half
-the town, married folks as well as single, resided at the National
+the town, married folks as [[Well|well]] as single, resided at the National
 Hotel. Tea, coffee, dried meats, tongue, ham, pickles, cake, toast,
 preserves, and bread and butter, were swallowed with the usual ravaging
-speed; and then, as before, the company dropped off by degrees, and
+[[Speed|speed]]; and then, as before, the company dropped off by degrees, and
 lounged away to the desk, the counter, or the bar-room. The ladies had a
 smaller ordinary of their own, to which their husbands and brothers
 were admitted if they chose; and in all other respects they enjoyed
@@ -512,8 +512,8 @@ empty finger--
 ‘--We raised, in English money, fourteen pounds. So, even with that,
 your share of the stock is still very much the larger of the two you
 see. Now, Mark,’ said Martin, in his old way, just as he might have
-spoken to Tom Pinch, ‘I have thought of a means of making this up
-to you--more than making it up to you, I hope--and very materially
+spoken to [[Tom Pinch]], ‘I have thought of a means of making this up
+to you--more than making it up to you, I [[Hope|hope]]--and very materially
 elevating your prospects in life.’
 
 ‘Oh! don’t talk of that, you know, sir,’ returned Mark. ‘I don’t want no
@@ -536,13 +536,13 @@ to this, in the way of thanking you. I’ll stand by you, sir, to the best
 of my ability, and to the last. That’s all.’
 
 ‘We quite understand each other, my good fellow,’ said Martin rising in
-self-approval and condescension. ‘We are no longer master and servant,
+[[Self|self]]-approval and condescension. ‘We are no longer master and servant,
 but friends and partners; and are mutually gratified. If we determine on
 Eden, the business shall be commenced as soon as we get there. Under the
 name,’ said Martin, who never hammered upon an idea that wasn’t red hot,
 ‘under the name of Chuzzlewit and Tapley.’
 
-‘Lord love you, sir,’ cried Mark, ‘don’t have my name in it. I ain’t
+‘Lord [[Love|love]] you, sir,’ cried Mark, ‘don’t have my name in it. I ain’t
 acquainted with the business, sir. I must be Co., I must. I’ve often
 thought,’ he added, in a low voice, ‘as I should like to know a Co.; but
 I little thought as ever I should live to be one.’
@@ -554,21 +554,21 @@ or otherwise, wanted such a thing as a skittle-ground made, I could take
 that part of the bis’ness, sir.’
 
 ‘Against any architect in the States,’ said Martin. ‘Get a couple of
-sherry-cobblers, Mark, and we’ll drink success to the firm.’
+sherry-cobblers, Mark, and we’ll drink [[success]] to the firm.’
 
 Either he forgot already (and often afterwards), that they were no
 longer master and servant, or considered this kind of duty to be among
 the legitimate functions of the Co. But Mark obeyed with his usual
-alacrity; and before they parted for the night, it was agreed between
+alacrity; and before they parted for the [[Night|night]], it was agreed between
 them that they should go together to the agent’s in the morning, but
 that Martin should decide the Eden question, on his own sound judgment.
 And Mark made no merit, even to himself in his jollity, of this
-concession; perfectly well knowing that the matter would come to that in
+concession; perfectly [[Well|well]] knowing that the matter would come to that in
 the end, any way.
 
 The General was one of the party at the public table next day, and after
 breakfast suggested that they should wait upon the agent without loss of
-time. They, desiring nothing more, agreed; so off they all four
+[[Time|time]]. They, desiring nothing more, agreed; so off they all four
 started for the office of the Eden Settlement, which was almost within
 rifle-shot of the National Hotel.
 
@@ -577,8 +577,8 @@ land may be got into a dice-box, and why may not a whole territory be
 bargained for in a shed? It was but a temporary office too; for the
 Edeners were ‘going’ to build a superb establishment for the transaction
 of their business, and had already got so far as to mark out the site.
-Which is a great way in America. The office-door was wide open, and in
-the doorway was the agent; no doubt a tremendous fellow to get through
+Which is a great way in [[America]]. The office-door was wide open, and in
+the doorway was the agent; no [[Doubt|doubt]] a tremendous fellow to get through
 his work, for he seemed to have no arrears, but was swinging backwards
 and forwards in a rocking-chair, with one of his legs planted high up
 against the door-post, and the other doubled up under him, as if he were
@@ -586,9 +586,9 @@ hatching his foot.
 
 He was a gaunt man in a huge straw hat, and a coat of green stuff. The
 weather being hot, he had no cravat, and wore his shirt collar wide
-open; so that every time he spoke something was seen to twitch and jerk
+open; so that every [[Time|time]] he spoke something was seen to twitch and jerk
 up in his throat, like the little hammers in a harpsichord when the
-notes are struck. Perhaps it was the Truth feebly endeavouring to leap
+notes are struck. Perhaps it was the [[Truth]] feebly endeavouring to leap
 to his lips. If so, it never reached them.
 
 Two grey eyes lurked deep within this agent’s head, but one of them had
@@ -602,26 +602,26 @@ liveliest mood, and see how calculating and intent they were.
 Each long black hair upon his head hung down as straight as any plummet
 line; but rumpled tufts were on the arches of his eyes, as if the crow
 whose foot was deeply printed in the corners had pecked and torn them in
-a savage recognition of his kindred nature as a bird of prey.
+a savage recognition of his kindred [[Nature|nature]] as a bird of prey.
 
 Such was the man whom they now approached, and whom the General saluted
 by the name of Scadder.
 
-‘Well, Gen’ral,’ he returned, ‘and how are you?’
+‘[[Well]], Gen’ral,’ he returned, ‘and how are you?’
 
 ‘Ac-tive and spry, sir, in my country’s service and the sympathetic
 cause. Two gentlemen on business, Mr Scadder.’
 
-He shook hands with each of them--nothing is done in America without
+He shook hands with each of them--nothing is done in [[America]] without
 shaking hands--then went on rocking.
 
 ‘I think I know what bis’ness you have brought these strangers here
 upon, then, Gen’ral?’
 
-‘Well, sir. I expect you may.’
+‘[[Well]], sir. I expect you may.’
 
 ‘You air a tongue-y person, Gen’ral. For you talk too much, and that’s
-fact,’ said Scadder. ‘You speak a-larming well in public, but you didn’t
+fact,’ said Scadder. ‘You speak a-larming [[Well|well]] in public, but you didn’t
 ought to go ahead so fast in private. Now!’
 
 ‘If I can realise your meaning, ride me on a rail!’ returned the
@@ -642,14 +642,14 @@ the world, and that he wouldn’t have given him offence designedly, for
 ten thousand dollars.
 
 ‘I do my duty; and I raise the dander of my feller critters, as I
-wish to serve,’ said Scadder in a low voice, looking down the road
+wish to serve,’ said Scadder in a low voice, looking down the [[Road|road]]
 and rocking still. ‘They rile up rough, along of my objecting to their
-selling Eden off too cheap. That’s human natur’! Well!’
+selling Eden off too cheap. That’s human natur’! [[Well]]!’
 
 ‘Mr Scadder,’ said the General, assuming his oratorical deportment.
 ‘Sir! Here is my hand, and here my heart. I esteem you, sir, and ask
 your pardon. These gentlemen air friends of mine, or I would not have
-brought ‘em here, sir, being well aware, sir, that the lots at present
+brought ‘em here, sir, being [[Well|well]] aware, sir, that the lots at present
 go entirely too cheap. But these air friends, sir; these air partick’ler
 friends.’
 
@@ -667,13 +667,13 @@ but some geological and botanical specimens, one or two rusty ledgers, a
 homely desk, and a stool. ‘Heyday! what’s that?’
 
 ‘That’s Eden,’ said Scadder, picking his teeth with a sort of young
-bayonet that flew out of his knife when he touched a spring.
+bayonet that flew out of his knife when he touched a [[Spring|spring]].
 
-‘Why, I had no idea it was a city.’
+‘Why, I had no idea it was a [[City|city]].’
 
-‘Hadn’t you? Oh, it’s a city.’
+‘Hadn’t you? Oh, it’s a [[City|city]].’
 
-A flourishing city, too! An architectural city! There were banks,
+A flourishing [[City|city]], too! An architectural [[City|city]]! There were banks,
 churches, cathedrals, market-places, factories, hotels, stores,
 mansions, wharves; an exchange, a theatre; public buildings of all
 kinds, down to the office of the Eden Stinger, a daily journal; all
@@ -687,7 +687,7 @@ round.
 ‘But, I am afraid,’ said Martin, glancing again at the Public Buildings,
 ‘that there’s nothing left for me to do.’
 
-‘Well! it ain’t all built,’ replied the agent. ‘Not quite.’
+‘[[Well]]! it ain’t all built,’ replied the agent. ‘Not quite.’
 
 This was a great relief.
 
@@ -702,8 +702,8 @@ him with his elbow.
 Mark, who, with a very stolid countenance had been eyeing the plan and
 the agent by turns, merely rejoined ‘Uncommon!’
 
-A dead silence ensued, Mr Scadder in some short recesses or vacations of
-his toothpick, whistled a few bars of Yankee Doodle, and blew the dust
+A dead [[Silence|silence]] ensued, Mr Scadder in some short recesses or vacations of
+his toothpick, whistled a few bars of Yankee Doodle, and blew the [[Dust|dust]]
 off the roof of the Theatre.
 
 ‘I suppose,’ said Martin, feigning to look more narrowly at the plan,
@@ -731,11 +731,11 @@ out.
 In a physical point of view they were decidedly dirty. But it being
 obvious that Mr Scadder offered them for examination in a figurative
 sense, as emblems of his moral character, Martin hastened to pronounce
-them pure as the driven snow.
+them pure as the driven [[Snow|snow]].
 
 ‘I entreat, Mark,’ he said, with some irritation, ‘that you will
-not obtrude remarks of that nature, which, however harmless and
-well-intentioned, are quite out of place, and cannot be expected to be
+not obtrude remarks of that [[Nature|nature]], which, however harmless and
+[[Well|well]]-intentioned, are quite out of place, and cannot be expected to be
 very agreeable to strangers. I am quite surprised.’
 
 ‘The Co.’s a-putting his foot in it already,’ thought Mark. ‘He must be
@@ -748,7 +748,7 @@ all the while as if he were stabbing him in effigy.
 ‘You haven’t said whose work it is,’ Martin ventured to observe at
 length, in a tone of mild propitiation.
 
-‘Well, never mind whose work it is, or isn’t,’ said the agent sulkily.
+‘[[Well]], never mind whose work it is, or isn’t,’ said the agent sulkily.
 ‘No matter how it did eventuate. P’raps he cleared off, handsome, with a
 heap of dollars; p’raps he wasn’t worth a cent. P’raps he was a loafin’
 rowdy; p’raps a ring-tailed roarer. Now!’
@@ -760,17 +760,17 @@ P’raps that desk and stool ain’t made from Eden lumber. No! P’raps no
 end of squatters ain’t gone out there. No! P’raps there ain’t no such
 location in the territoary of the Great U-nited States. Oh, no!’
 
-‘I hope you’re satisfied with the success of your joke, Mark,’ said
+‘I [[Hope|hope]] you’re satisfied with the [[success]] of your joke, Mark,’ said
 Martin.
 
-But here, at a most opportune and happy time, the General interposed,
+But here, at a most opportune and happy [[Time|time]], the General interposed,
 and called out to Scadder from the doorway to give his friends the
-particulars of that little lot of fifty acres with the house upon it;
+particulars of that little lot of fifty acres with the [[house]] upon it;
 which, having belonged to the company formerly, had lately lapsed again
 into their hands.
 
 ‘You air a deal too open-handed, Gen’ral,’ was the answer. ‘It is a lot
-as should be rose in price. It is.’
+as should be [[Rose|rose]] in price. It is.’
 
 He grumblingly opened his books notwithstanding, and always keeping his
 bright side towards Mark, no matter at what amount of inconvenience
@@ -783,7 +783,7 @@ greedily, and then inquired:
 
 ‘Yes.’
 
-He turned towards it, and reflected for a short time, as if, having
+He turned towards it, and reflected for a short [[Time|time]], as if, having
 been put upon his mettle, he was resolved to be particular to the
 very minutest hair’s breadth of a shade. At length, after wheeling his
 toothpick slowly round and round in the air, as if it were a carrier
@@ -798,7 +798,7 @@ the thing was done.
 
 The bargain was not concluded as easily as might have been expected
 though, for Scadder was caustic and ill-humoured, and cast much
-unnecessary opposition in the way; at one time requesting them to think
+unnecessary opposition in the way; at one [[Time|time]] requesting them to think
 of it, and call again in a week or a fortnight; at another, predicting
 that they wouldn’t like it; at another, offering to retract and let them
 off, and muttering strong imprecations upon the folly of the General.
@@ -807,7 +807,7 @@ was only one hundred and fifty dollars, or something more than thirty
 pounds of the capital brought by Co. into the architectural concern--was
 ultimately paid down; and Martin’s head was two inches nearer the roof
 of the little wooden office, with the consciousness of being a landed
-proprietor in the thriving city of Eden.
+proprietor in the thriving [[City|city]] of Eden.
 
 ‘If it shouldn’t happen to fit,’ said Scadder, as he gave Martin the
 necessary credentials on recepit of his money, ‘don’t blame me.’
@@ -816,27 +816,27 @@ necessary credentials on recepit of his money, ‘don’t blame me.’
 going?’
 
 ‘I am at your service, sir; and I wish you,’ said the General, giving
-him his hand with grave cordiality, ‘joy of your po-ssession. You air
+him his hand with [[Grave|grave]] cordiality, ‘joy of your po-ssession. You air
 now, sir, a denizen of the most powerful and highly-civilised dominion
 that has ever graced the world; a do-minion, sir, where man is bound to
-man in one vast bond of equal love and truth. May you, sir, be worthy of
+man in one vast bond of equal [[Love|love]] and [[Truth|truth]]. May you, sir, be worthy of
 your a-dopted country!’
 
 Martin thanked him, and took leave of Mr Scadder; who had resumed his
 post in the rocking-chair, immediately on the General’s rising from it,
 and was once more swinging away as if he had never been disturbed.
-Mark looked back several times as they went down the road towards the
+Mark looked back several times as they went down the [[Road|road]] towards the
 National Hotel, but now his blighted profile was towards them, and
 nothing but attentive thoughtfulness was written on it. Strangely
 different to the other side! He was not a man much given to laughing,
 and never laughed outright; but every line in the print of the crow’s
 foot, and every little wiry vein in that division of his head, was
-wrinkled up into a grin! The compound figure of Death and the Lady at
+wrinkled up into a grin! The compound figure of [[Death]] and the Lady at
 the top of the old ballad was not divided with a greater nicety, and
 hadn’t halves more monstrously unlike each other, than the two profiles
 of Zephaniah Scadder.
 
-The General posted along at a great rate, for the clock was on the
+The General posted along at a great rate, for the [[Clock|clock]] was on the
 stroke of twelve; and at that hour precisely, the Great Meeting of
 the Watertoast Sympathisers was to be holden in the public room of the
 National Hotel. Being very curious to witness the demonstration, and
@@ -844,39 +844,39 @@ know what it was all about, Martin kept close to the General; and,
 keeping closer than ever when they entered the Hall, got by that means
 upon a little platform of tables at the upper end; where an armchair was
 set for the General, and Mr La Fayette Kettle, as secretary, was making
-a great display of some foolscap documents. Screamers, no doubt.
+a great display of some foolscap documents. Screamers, no [[Doubt|doubt]].
 
-‘Well, sir!’ he said, as he shook hands with Martin, ‘here is a
-spectacle calc’lated to make the British Lion put his tail between his
+‘[[Well]], sir!’ he said, as he shook hands with Martin, ‘here is a
+spectacle calc’lated to make the British [[Lion]] put his tail between his
 legs, and howl with anguish, I expect!’
 
-Martin certainly thought it possible that the British Lion might have
+Martin certainly thought it possible that the British [[Lion]] might have
 been rather out of his element in that Ark; but he kept the idea to
 himself. The General was then voted to the chair, on the motion of a
 pallid lad of the Jefferson Brick school; who forthwith set in for a
 high-spiced speech, with a good deal about hearths and homes in it, and
-unriveting the chains of Tyranny.
+unriveting the [[Chains|chains]] of Tyranny.
 
-Oh but it was a clincher for the British Lion, it was! The indignation
+Oh but it was a clincher for the British [[Lion]], it was! The indignation
 of the glowing young Columbian knew no bounds. If he could only have
 been one of his own forefathers, he said, wouldn’t he have peppered
-that same Lion, and been to him as another Brute Tamer with a wire whip,
-teaching him lessons not easily forgotten. ‘Lion! (cried that young
+that same [[Lion]], and been to him as another Brute Tamer with a wire whip,
+teaching him lessons not easily forgotten. ‘[[Lion]]! (cried that young
 Columbian) where is he? Who is he? What is he? Show him to me. Let me
 have him here. Here!’ said the young Columbian, in a wrestling attitude,
 ‘upon this sacred altar. Here!’ cried the young Columbian, idealising
 the dining-table, ‘upon ancestral ashes, cemented with the glorious
-blood poured out like water on our native plains of Chickabiddy Lick!
-Bring forth that Lion!’ said the young Columbian. ‘Alone, I dare him! I
-taunt that Lion. I tell that Lion, that Freedom’s hand once twisted
+[[Blood|blood]] poured out like [[Water|water]] on our native plains of Chickabiddy Lick!
+Bring forth that [[Lion]]!’ said the young Columbian. ‘[[Alone]], I dare him! I
+taunt that [[Lion]]. I tell that [[Lion]], that [[Freedom]]’s hand once twisted
 in his mane, he rolls a corse before me, and the Eagles of the Great
 Republic laugh ha, ha!’
 
-When it was found that the Lion didn’t come, but kept out of the way;
-that the young Columbian stood there, with folded arms, alone in his
-glory; and consequently that the Eagles were no doubt laughing wildly on
+When it was found that the [[Lion]] didn’t come, but kept out of the way;
+that the young Columbian stood there, with folded arms, [[Alone|alone]] in his
+glory; and consequently that the Eagles were no [[Doubt|doubt]] laughing wildly on
 the mountain tops; such cheers arose as might have shaken the hands upon
-the Horse-Guards’ clock, and changed the very mean time of the day in
+the [[Horse]]-Guards’ [[Clock|clock]], and changed the very mean [[Time|time]] of the day in
 England’s capital.
 
 ‘Who is this?’ Martin telegraphed to La Fayette.
@@ -891,20 +891,20 @@ as he, who drew down storms of cheers. But both remarkable youths,
 in their great excitement (for your true poetry can never stoop to
 details), forgot to say with whom or what the Watertoasters sympathized,
 and likewise why or wherefore they were sympathetic. Thus Martin
-remained for a long time as completely in the dark as ever; until
+remained for a long [[Time|time]] as completely in the dark as ever; until
 at length a ray of light broke in upon him through the medium of the
 Secretary, who, by reading the minutes of their past proceedings,
 made the matter somewhat clearer. He then learned that the Watertoast
 Association sympathized with a certain Public Man in Ireland, who held a
 contest upon certain points with England; and that they did so, because
-they didn’t love England at all--not by any means because they loved
+they didn’t [[Love|love]] England at all--not by any means because they loved
 Ireland much; being indeed horribly jealous and distrustful of its
 people always, and only tolerating them because of their working hard,
 which made them very useful; labour being held in greater indignity in
 the simple republic than in any other country upon earth. This
 rendered Martin curious to see what grounds of sympathy the Watertoast
 Association put forth; nor was he long in suspense, for the General
-rose to read a letter to the Public Man, which with his own hands he had
+[[Rose|rose]] to read a letter to the Public Man, which with his own hands he had
 written.
 
 ‘Thus,’ said the General, ‘thus, my friends and fellow-citizens, it
@@ -912,40 +912,40 @@ runs:
 
 
 ‘“SIR--I address you on behalf of the Watertoast Association of United
-Sympathisers. It is founded, sir, in the great republic of America! and
+Sympathisers. It is founded, sir, in the great republic of [[America]]! and
 now holds its breath, and swells the blue veins in its forehead nigh to
 bursting, as it watches, sir, with feverish intensity and sympathetic
-ardour, your noble efforts in the cause of Freedom.”’
+ardour, your noble efforts in the cause of [[Freedom]].”’
 
 
-At the name of Freedom, and at every repetition of that name, all the
+At the name of [[Freedom]], and at every repetition of that name, all the
 Sympathisers roared aloud; cheering with nine times nine, and nine times
 over.
 
 
-‘“In Freedom’s name, sir--holy Freedom--I address you. In Freedom’s
+‘“In [[Freedom]]’s name, sir--holy [[Freedom]]--I address you. In [[Freedom]]’s
 name, I send herewith a contribution to the funds of your society.
-In Freedom’s name, sir, I advert with indignation and disgust to that
+In [[Freedom]]’s name, sir, I advert with indignation and disgust to that
 accursed animal, with gore-stained whiskers, whose rampant cruelty and
 fiery lust have ever been a scourge, a torment to the world. The naked
 visitors to Crusoe’s Island, sir; the flying wives of Peter Wilkins; the
 fruit-smeared children of the tangled bush; nay, even the men of large
 stature, anciently bred in the mining districts of Cornwall; alike
-bear witness to its savage nature. Where, sir, are the Cormorans,
-the Blunderbores, the Great Feefofums, named in History? All, all,
+bear witness to its savage [[Nature|nature]]. Where, sir, are the Cormorans,
+the Blunderbores, the Great Feefofums, named in [[history|History]]? All, all,
 exterminated by its destroying hand.
 
-‘“I allude, sir, to the British Lion.
+‘“I allude, sir, to the British [[Lion]].
 
-‘“Devoted, mind and body, heart and soul, to Freedom, sir--to Freedom,
+‘“Devoted, mind and [[Body|body]], heart and [[Soul|soul]], to [[Freedom]], sir--to [[Freedom]],
 blessed solace to the snail upon the cellar-door, the oyster in his
-pearly bed, the still mite in his home of cheese, the very winkle of
+pearly bed, the still mite in his [[Home|home]] of [[cheese]], the very winkle of
 your country in his shelly lair--in her unsullied name, we offer you our
 sympathy. Oh, sir, in this our cherished and our happy land, her fires
-burn bright and clear and smokeless; once lighted up in yours, the lion
+burn bright and clear and smokeless; once lighted up in yours, the [[Lion|lion]]
 shall be roasted whole.
 
-‘“I am, sir, in Freedom’s name,
+‘“I am, sir, in [[Freedom]]’s name,
 
 ‘“Your affectionate friend and faithful Sympathiser,
 
@@ -957,7 +957,7 @@ shall be roasted whole.
 It happened that just as the General began to read this letter, the
 railroad train arrived, bringing a new mail from England; and a packet
 had been handed in to the Secretary, which during its perusal and
-the frequent cheerings in homage to freedom, he had opened. Now, its
+the frequent cheerings in homage to [[Freedom|freedom]], he had opened. Now, its
 contents disturbed him very much, and the moment the General sat down,
 he hurried to his side, and placed in his hand a letter and several
 printed extracts from English newspapers; to which, in a state of
@@ -967,7 +967,7 @@ The General, being greatly heated by his own composition, was in a
 fit state to receive any inflammable influence; but he had no sooner
 possessed himself of the contents of these documents, than a change came
 over his face, involving such a huge amount of choler and passion, that
-the noisy concourse were silent in a moment, in very wonder at the sight
+the noisy concourse were silent in a moment, in very [[Wonder|wonder]] at the sight
 of him.
 
 ‘My friends!’ cried the General, rising; ‘my friends and fellow
@@ -979,9 +979,9 @@ citizens, we have been mistaken in this man.’
 a few minutes before. ‘I find that he has been, and is, the
 advocate--consistent in it always too--of Nigger emancipation!’
 
-If anything beneath the sky be real, those Sons of Freedom would have
+If anything beneath the sky be real, those Sons of [[Freedom]] would have
 pistolled, stabbed--in some way slain--that man by coward hands and
-murderous violence, if he had stood among them at that time. The most
+murderous violence, if he had stood among them at that [[Time|time]]. The most
 confiding of their own countrymen would not have wagered then--no, nor
 would they ever peril--one dunghill straw, upon the life of any man in
 such a strait. They tore the letter, cast the fragments in the air, trod
@@ -993,7 +993,7 @@ they could cry no longer.
 dissolved!’
 
 Down with it! Away with it! Don’t hear of it! Burn its records! Pull the
-room down! Blot it out of human memory!
+room down! Blot it out of human [[Memory|memory]]!
 
 ‘But, my fellow-countrymen!’ said the General, ‘the contributions. We
 have funds. What is to be done with the funds?’
@@ -1008,13 +1008,13 @@ Abolitionist who might pay them a visit. For the surplus, it was agreed
 that it should be devoted to aiding the enforcement of those free and
 equal laws, which render it incalculably more criminal and dangerous
 to teach a negro to read and write than to roast him alive in a public
-city. These points adjusted, the meeting broke up in great disorder, and
+[[City|city]]. These points adjusted, the meeting broke up in great disorder, and
 there was an end of the Watertoast Sympathy.
 
 As Martin ascended to his bedroom, his eye was attracted by the
-Republican banner, which had been hoisted from the house-top in honour
-of the occasion, and was fluttering before a window which he passed.
+Republican banner, which had been hoisted from the [[house]]-top in [[Honour|honour]]
+of the occasion, and was fluttering before a [[Window|window]] which he passed.
 
-‘Tut!’ said Martin. ‘You’re a gay flag in the distance. But let a man
+‘Tut!’ said Martin. ‘You’re a gay [[Flag|flag]] in the distance. But let a man
 be near enough to get the light upon the other side and see through you;
 and you are but sorry fustian!’

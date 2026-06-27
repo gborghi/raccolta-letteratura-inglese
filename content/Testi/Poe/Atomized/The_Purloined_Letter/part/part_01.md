@@ -1,5 +1,5 @@
 ---
-title: "The Purloined Letter (part 1)"
+title: "[[The Purloined Letter]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Purloined-Letter-(Poe)"
@@ -16,12 +16,12 @@ tags:
 
 Nil sapientiæ odiosius acumine nimio.—_Seneca_.
 
-      At Paris, just after dark one gusty evening in the autumn of 18-,
+      At [[Paris]], just after dark one gusty evening in the [[Autumn|autumn]] of 18-,
       I was enjoying the twofold luxury of meditation and a meerschaum,
-      in company with my friend C. Auguste Dupin, in his little back
+      in company with my friend [[C. Auguste Dupin]], in his little back
       library, or book-closet, _au troisième_, No. 33, _Rue Dunôt,
       Faubourg St. Germain_. For one hour at least we had maintained a
-      profound silence; while each, to any casual observer, might have
+      profound [[Silence|silence]]; while each, to any casual observer, might have
       seemed intently and exclusively occupied with the curling eddies
       of smoke that oppressed the atmosphere of the chamber. For
       myself, however, I was mentally discussing certain topics which
@@ -54,11 +54,11 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       and rolled towards him a comfortable chair.
 
       “And what is the difficulty now?” I asked. “Nothing more in the
-      assassination way, I hope?”
+      assassination way, I [[Hope|hope]]?”
 
-      “Oh no; nothing of that nature. The fact is, the business is very
-      simple indeed, and I make no doubt that we can manage it
-      sufficiently well ourselves; but then I thought Dupin would like
+      “Oh no; nothing of that [[Nature|nature]]. The fact is, the business is very
+      simple indeed, and I make no [[Doubt|doubt]] that we can manage it
+      sufficiently [[Well|well]] ourselves; but then I thought Dupin would like
       to hear the details of it, because it is so excessively odd.”
 
       “Simple and odd,” said Dupin.
@@ -77,10 +77,10 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
 
       “Oh, good heavens! who ever heard of such an idea?”
 
-      “A little too self-evident.”
+      “A little too [[Self|self]]-evident.”
 
       “Ha! ha! ha—ha! ha! ha!—ho! ho! ho!” roared our visitor,
-      profoundly amused, “oh, Dupin, you will be the death of me yet!”
+      profoundly amused, “oh, Dupin, you will be the [[Death|death]] of me yet!”
 
       “And what, after all, is the matter on hand?” I asked.
 
@@ -95,15 +95,15 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
 
       “Or not,” said Dupin.
 
-      “Well, then; I have received personal information, from a very
+      “[[Well]], then; I have received personal information, from a very
       high quarter, that a certain document of the last importance has
       been purloined from the royal apartments. The individual who
-      purloined it is known; this beyond a doubt; he was seen to take
+      purloined it is known; this beyond a [[Doubt|doubt]]; he was seen to take
       it. It is known, also, that it still remains in his possession.”
 
       “How is this known?” asked Dupin.
 
-      “It is clearly inferred,” replied the Prefect, “from the nature
+      “It is clearly inferred,” replied the Prefect, “from the [[Nature|nature]]
       of the document, and from the non-appearance of certain results
       which would at once arise from its passing out of the robber’s
       possession; that is to say, from his employing it as he must
@@ -111,14 +111,14 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
 
       “Be a little more explicit,” I said.
 
-      “Well, I may venture so far as to say that the paper gives its
+      “[[Well]], I may venture so far as to say that the paper gives its
       holder a certain power in a certain quarter where such power is
       immensely valuable.” The Prefect was fond of the cant of
       diplomacy.
 
       “Still I do not quite understand,” said Dupin.
 
-      “No? Well; the disclosure of the document to a third person, who
+      “No? [[Well]]; the disclosure of the document to a third person, who
       shall be nameless, would bring in question the honor of a
       personage of most exalted station; and this fact gives the holder
       of the document an ascendancy over the illustrious personage
@@ -129,10 +129,10 @@ Nil sapientiæ odiosius acumine nimio.—_Seneca_.
       would dare—”
 
       “The thief,” said G., “is the Minister D——, who dares all things,
-      those unbecoming as well as those becoming a man. The method of
+      those unbecoming as [[Well|well]] as those becoming a man. The method of
       the theft was not less ingenious than bold. The document in
       question—a letter, to be frank—had been received by the personage
-      robbed while alone in the royal boudoir. During its perusal she
+      robbed while [[Alone|alone]] in the royal boudoir. During its perusal she
       was suddenly interrupted by the entrance of the other exalted
       personage from whom especially it was her wish to conceal it.
       After a hurried and vain endeavor to thrust it in a drawer, she

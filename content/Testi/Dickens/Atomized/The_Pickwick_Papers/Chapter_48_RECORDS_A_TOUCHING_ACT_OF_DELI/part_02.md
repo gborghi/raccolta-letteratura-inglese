@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 46: RECORDS A TOUCHING ACT OF DELICATE FEELING, NOT UNMIXED (part 2)"
+title: "The [[Pickwick]] Papers — Chapter 46: RECORDS A TOUCHING ACT OF DELICATE FEELING, NOT UNMIXED (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 ‘Ah, poor thing!’ said Mrs. Rogers, ‘I know what her feelin’s is, too
-well.’
+[[Well|well]].’
 
 Ah, poor thing! so do I,’ said Mrs. Sanders; and then all the ladies
 moaned in unison, and said they knew what it was, and they pitied her
@@ -47,7 +47,7 @@ be unkind; but Mary Ann was very far from strong, and, if he didn’t take
 care, he might lose her when he least expected it, which would be a very
 dreadful reflection for him afterwards; and so on. All this, Mr. Raddle
 heard with great submission, and presently returned to the parlour in a
-most lamb-like manner.
+most [[Lamb|lamb]]-like manner.
 
 ‘Why, Mrs. Rogers, ma’am,’ said Mrs. Bardell, ‘you’ve never been
 introduced, I declare! Mr. Raddle, ma’am; Mrs. Cluppins, ma’am; Mrs.
@@ -65,7 +65,7 @@ to a lady which she had heerd so much in favour of, as Mrs. Rogers.’ A
 compliment which the last-named lady acknowledged with graceful
 condescension.
 
-‘Well, Mr. Raddle,’ said Mrs. Bardell; ‘I’m sure you ought to feel very
+‘[[Well]], Mr. Raddle,’ said Mrs. Bardell; ‘I’m sure you ought to feel very
 much honoured at you and Tommy being the only gentlemen to escort so
 many ladies all the way to the Spaniards, at Hampstead. Don’t you think
 he ought, Mrs. Rogers, ma’am?’
@@ -75,7 +75,7 @@ ladies responded, ‘Oh, certainly.’
 
 ‘Of course I feel it, ma’am,’ said Mr. Raddle, rubbing his hands, and
 evincing a slight tendency to brighten up a little. ‘Indeed, to tell you
-the truth, I said, as we was a-coming along in the cabrioily--’
+the [[Truth|truth]], I said, as we was a-coming along in the cabrioily--’
 
 At the recapitulation of the word which awakened so many painful
 recollections, Mrs. Raddle applied her handkerchief to her eyes again,
@@ -86,14 +86,14 @@ desired Mrs. Rogers’s servant, with an air, to ‘put the wine on.’
 This was the signal for displaying the hidden treasures of the closet,
 which comprised sundry plates of oranges and biscuits, and a bottle of
 old crusted port--that at one-and-nine--with another of the celebrated
-East India sherry at fourteen-pence, which were all produced in honour
+East India sherry at fourteen-pence, which were all produced in [[Honour|honour]]
 of the lodger, and afforded unlimited satisfaction to everybody. After
 great consternation had been excited in the mind of Mrs. Cluppins, by an
-attempt on the part of Tommy to recount how he had been cross-examined
+attempt on the part of Tommy to recount how he had been [[Cross|cross]]-examined
 regarding the cupboard then in action (which was fortunately nipped in
 the bud by his imbibing half a glass of the old crusted ‘the wrong way,’
 and thereby endangering his life for some seconds), the party walked
-forth in quest of a Hampstead stage. This was soon found, and in a
+forth in [[Quest|quest]] of a Hampstead stage. This was soon found, and in a
 couple of hours they all arrived safely in the Spaniards Tea-gardens,
 where the luckless Mr. Raddle’s very first act nearly occasioned his
 good lady a relapse; it being neither more nor less than to order tea
@@ -106,7 +106,7 @@ However, there was no help for it, and the tea-tray came, with seven
 cups and saucers, and bread-and-butter on the same scale. Mrs. Bardell
 was unanimously voted into the chair, and Mrs. Rogers being stationed on
 her right hand, and Mrs. Raddle on her left, the meal proceeded with
-great merriment and success.
+great merriment and [[success]].
 
 ‘How sweet the country is, to be sure!’ sighed Mrs. Rogers; ‘I almost
 wish I lived in it always.’
@@ -123,13 +123,13 @@ content with the country, ma’am,’ said little Mrs. Cluppins.
 ‘For lone people as have got nobody to care for them, or take care of
 them, or as have been hurt in their mind, or that kind of thing,’
 observed Mr. Raddle, plucking up a little cheerfulness, and looking
-round, ‘the country is all very well. The country for a wounded spirit,
+round, ‘the country is all very [[Well|well]]. The country for a wounded spirit,
 they say.’
 
 Now, of all things in the world that the unfortunate man could have
 said, any would have been preferable to this. Of course Mrs. Bardell
-burst into tears, and requested to be led from the table instantly; upon
-which the affectionate child began to cry too, most dismally.
+burst into [[Tears|tears]], and requested to be led from the table instantly; upon
+which the affectionate [[Child|child]] began to cry too, most dismally.
 
 ‘Would anybody believe, ma’am,’ exclaimed Mrs. Raddle, turning fiercely
 to the first-floor lodger, ‘that a woman could be married to such a

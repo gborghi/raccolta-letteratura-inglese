@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“Ah! Not here since this night week!” said the old woman, contemplating
+“Ah! Not here since this [[Night|night]] week!” said the old woman, contemplating
 him with a look of reproach.
 
 “Good gracious, Misses Brown,” returned the Grinder, “I said tonight’s
@@ -37,8 +37,8 @@ Mr Dombey’s face at the door, “and wishing her the same and many of
 
 He drained the glass to these two sentiments, and set it down.
 
-“Well, I say, Misses Brown!” he proceeded. “To go on a little rational
-now. You’re a judge of birds, and up to their ways, as I know to my
+“[[Well]], I say, Misses Brown!” he proceeded. “To go on a little rational
+now. You’re a judge of [[Birds|birds]], and up to their ways, as I know to my
 cost.”
 
 “Cost!” repeated Mrs Brown.
@@ -46,14 +46,14 @@ cost.”
 “Satisfaction, I mean,” returned the Grinder. “How you do take up a
 cove, Misses Brown! You’ve put it all out of my head again.”
 
-“Judge of birds, Robby,” suggested the old woman.
+“Judge of [[Birds|birds]], Robby,” suggested the old woman.
 
-“Ah!” said the Grinder. “Well, I’ve got to take care of this
+“Ah!” said the Grinder. “[[Well]], I’ve got to take care of this
 parrot—certain things being sold, and a certain establishment broke
 up—and as I don’t want no notice took at present, I wish you’d attend
 to her for a week or so, and give her board and lodging, will you? If I
 must come backwards and forwards,” mused the Grinder with a dejected
-face, “I may as well have something to come for.”
+face, “I may as [[Well|well]] have something to come for.”
 
 “Something to come for?” screamed the old woman.
 
@@ -94,10 +94,10 @@ call, said:
 
 The old woman darted a glance at him that might have warned him to
 consider his ears in danger, but it was his turn to look in at the
-parrot now, and however expressive his imagination may have made her
+parrot now, and however expressive his [[Imagination|imagination]] may have made her
 angry scowl, it was unseen by his bodily eyes.
 
-“I wonder Master didn’t take you with him, Rob,” said the old woman, in
+“I [[Wonder|wonder]] Master didn’t take you with him, Rob,” said the old woman, in
 a wheedling voice, but with increased malignity of aspect.
 
 Rob was so absorbed in contemplation of the parrot, and in trolling his
@@ -107,11 +107,11 @@ The old woman had her clutch within a hair’s breadth of his shock of
 hair as it stooped over the table; but she restrained her fingers, and
 said, in a voice that choked with its efforts to be coaxing:
 
-“Robby, my child.”
+“Robby, my [[Child|child]].”
 
-“Well, Misses Brown,” returned the Grinder.
+“[[Well]], Misses Brown,” returned the Grinder.
 
-“I say I wonder Master didn’t take you with him, dear.”
+“I say I [[Wonder|wonder]] Master didn’t take you with him, dear.”
 
 “Never you mind, Misses Brown,” returned the Grinder.
 
@@ -131,7 +131,7 @@ woman, panting too, and stamping with rage and eagerness, appeared to
 be collecting her energies for another swoop upon him. At this crisis
 Alice interposed her voice, but not in the Grinder’s favour, by saying,
 
-“Well done, mother. Tear him to pieces!”
+“[[Well]] done, mother. Tear him to pieces!”
 
 “What, young woman!” blubbered Rob; “are you against me too? What have
 I been and done? What am I to be tore to pieces for, I should like to
@@ -163,7 +163,7 @@ after him that shall talk too much; that won’t be shook away; that’ll
 hang to him like leeches, and slink arter him like foxes. What! He
 knows ’em. He knows his old games and his old ways. If he’s forgotten
 ’em, they’ll soon remind him. Now let him go, and see how he’ll do
-Master’s business, and keep Master’s secrets, with such company always
+Master’s business, and keep Master’s [[Secrets|secrets]], with such company always
 following him up and down. Ha, ha, ha! He’ll find ’em a different sort
 from you and me, Ally; Close as he is with you and me. Now let him go,
 now let him go!”

@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 21: TWENTY ONE (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 21: TWENTY ONE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -15,15 +15,15 @@ tags:
 
 
 Here the lank gentleman sat down again, amidst a great sensation; and
-every one looked very grave.
+every one looked very [[Grave|grave]].
 
 ‘General Choke,’ said Mr La Fayette Kettle, ‘you warm my heart; sir, you
-warm my heart. But the British Lion is not unrepresented here, sir; and
+warm my heart. But the British [[Lion]] is not unrepresented here, sir; and
 I should be glad to hear his answer to those remarks.’
 
-‘Upon my word,’ cried Martin, laughing, ‘since you do me the honour to
+‘Upon my word,’ cried Martin, laughing, ‘since you do me the [[Honour|honour]] to
 consider me his representative, I have only to say that I never heard
-of Queen Victoria reading the What’s-his-name Gazette and that I should
+of [[Queen]] Victoria reading the What’s-his-name Gazette and that I should
 scarcely think it probable.’
 
 General Choke smiled upon the rest, and said, in patient and benignant
@@ -31,26 +31,26 @@ explanation:
 
 ‘It is sent to her, sir. It is sent to her. Her mail.’
 
-‘But if it is addressed to the Tower of London, it would hardly come to
-hand, I fear,’ returned Martin; ‘for she don’t live there.’
+‘But if it is addressed to the Tower of [[London]], it would hardly come to
+hand, I [[Fear|fear]],’ returned Martin; ‘for she don’t live there.’
 
-‘The Queen of England, gentlemen,’ observed Mr Tapley, affecting the
+‘The [[Queen]] of England, gentlemen,’ observed Mr Tapley, affecting the
 greatest politeness, and regarding them with an immovable face, ‘usually
 lives in the Mint to take care of the money. She HAS lodgings, in virtue
-of her office, with the Lord Mayor at the Mansion House; but don’t often
+of her office, with the [[Lord Mayor]] at the Mansion [[house|House]]; but don’t often
 occupy them, in consequence of the parlour chimney smoking.’
 
 ‘Mark,’ said Martin, ‘I shall be very much obliged to you if you’ll
 have the goodness not to interfere with preposterous statements, however
 jocose they may appear to you. I was merely remarking gentlemen--though
-it’s a point of very little import--that the Queen of England does not
-happen to live in the Tower of London.’
+it’s a point of very little import--that the [[Queen]] of England does not
+happen to live in the Tower of [[London]].’
 
 ‘General!’ cried Mr La Fayette Kettle. ‘You hear?’
 
 ‘General!’ echoed several others. ‘General!’
 
-‘Hush! Pray, silence!’ said General Choke, holding up his hand, and
+‘Hush! Pray, [[Silence|silence]]!’ said General Choke, holding up his hand, and
 speaking with a patient and complacent benevolence that was quite
 touching. ‘I have always remarked it as a very extraordinary
 circumstance, which I impute to the natur’ of British Institutions and
@@ -60,22 +60,22 @@ Continent of the Western Ocean; that the knowledge of Britishers
 themselves on such points is not to be compared with that possessed
 by our intelligent and locomotive citizens. This is interesting, and
 confirms my observation. When you say, sir,’ he continued, addressing
-Martin, ‘that your Queen does not reside in the Tower of London, you
+Martin, ‘that your [[Queen]] does not reside in the Tower of [[London]], you
 fall into an error, not uncommon to your countrymen, even when their
 abilities and moral elements air such as to command respect. But, sir,
 you air wrong. She DOES live there--’
 
-‘When she is at the Court of Saint James’s,’ interposed Kettle.
+‘When she is at the [[Court]] of Saint James’s,’ interposed Kettle.
 
-‘When she is at the Court of Saint James’s, of course,’ returned the
+‘When she is at the [[Court]] of Saint James’s, of course,’ returned the
 General, in the same benignant way; ‘for if her location was in Windsor
-Pavilion it couldn’t be in London at the same time. Your Tower of
-London, sir,’ pursued the General, smiling with a mild consciousness of
+Pavilion it couldn’t be in [[London]] at the same [[Time|time]]. Your Tower of
+[[London]], sir,’ pursued the General, smiling with a mild consciousness of
 his knowledge, ‘is nat’rally your royal residence. Being located in
 the immediate neighbourhood of your Parks, your Drives, your Triumphant
 Arches, your Opera, and your Royal Almacks, it nat’rally suggests
-itself as the place for holding a luxurious and thoughtless court.
-And, consequently,’ said the General, ‘consequently, the court is held
+itself as the place for holding a luxurious and thoughtless [[Court|court]].
+And, consequently,’ said the General, ‘consequently, the [[Court|court]] is held
 there.’
 
 ‘Have you been in England?’ asked Martin.
@@ -84,7 +84,7 @@ there.’
 reading people here, sir. You will meet with much information among us
 that will surprise you, sir.’
 
-‘I have not the least doubt of it,’ returned Martin. But here he was
+‘I have not the least [[Doubt|doubt]] of it,’ returned Martin. But here he was
 interrupted by Mr La Fayette Kettle, who whispered in his ear:
 
 ‘You know General Choke?’
@@ -107,7 +107,7 @@ The General took it and read it attentively; now and then stopping to
 glance at the two strangers. When he had finished the note, he came over
 to Martin, sat down by him, and shook hands.
 
-‘Well!’ he said, ‘and you think of settling in Eden?’
+‘[[Well]]!’ he said, ‘and you think of settling in Eden?’
 
 ‘Subject to your opinion, and the agent’s advice,’ replied Martin. ‘I am
 told there is nothing to be done in the old towns.’
@@ -124,9 +124,9 @@ Bevan since.
 
 ‘We have very little to venture,’ said Martin anxiously--‘only a
 few pounds--but it is our all. Now, do you think that for one of my
-profession, this would be a speculation with any hope or chance in it?’
+profession, this would be a speculation with any [[Hope|hope]] or chance in it?’
 
-‘Well,’ observed the General, gravely, ‘if there wasn’t any hope or
+‘[[Well]],’ observed the General, gravely, ‘if there wasn’t any [[Hope|hope]] or
 chance in the speculation, it wouldn’t have engaged my dollars, I
 opinionate.’
 
@@ -134,10 +134,10 @@ opinionate.’
 buyers!’
 
 ‘For the buyers, sir?’ observed the General, in a most impressive
-manner. ‘Well! you come from an old country; from a country, sir, that
+manner. ‘[[Well]]! you come from an old country; from a country, sir, that
 has piled up golden calves as high as Babel, and worshipped ‘em for
 ages. We are a new country, sir; man is in a more primeval state here,
-sir; we have not the excuse of having lapsed in the slow course of time
+sir; we have not the excuse of having lapsed in the slow course of [[Time|time]]
 into degenerate practices; we have no false gods; man, sir, here, is man
 in all his dignity. We fought for that or nothing. Here am I, sir,’
 said the General, setting up his umbrella to represent himself, and a

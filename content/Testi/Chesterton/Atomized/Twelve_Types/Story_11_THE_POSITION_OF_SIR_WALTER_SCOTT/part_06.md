@@ -180,7 +180,7 @@ Fairbanks, AK, 99712., but its volunteers and employees are scattered
 
 throughout numerous locations.  Its business office is located at
 
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+809 North 1500 West, Salt Lake [[City]], UT 84116, (801) 596-1887, email
 
 business@pglaf.org.  Email contact links and up to date contact
 
@@ -212,7 +212,7 @@ spread public support and donations to carry out its mission of
 
 increasing the number of public domain and licensed works that can be
 
-freely distributed in machine readable form accessible by the widest
+freely distributed in [[Machine|machine]] readable form accessible by the widest
 
 array of equipment including outdated equipment.  Many small donations
 

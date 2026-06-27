@@ -42,10 +42,10 @@ there one evening. Mr Dombey had not originally intended to pay visits,
 but on the Major announcing this intention, he said he would have the
 pleasure of accompanying him. So the Major told the Native to go round
 before dinner, and say, with his and Mr Dombey’s compliments, that they
-would have the honour of visiting the ladies that same evening, if the
-ladies were alone. In answer to which message, the Native brought back
+would have the [[Honour|honour]] of visiting the ladies that same evening, if the
+ladies were [[Alone|alone]]. In answer to which message, the Native brought back
 a very small note with a very large quantity of scent about it, indited
-by the Honourable Mrs Skewton to Major Bagstock, and briefly saying,
+by the Honourable Mrs Skewton to [[Major Bagstock]], and briefly saying,
 “You are a shocking bear and I have a great mind not to forgive you,
 but if you are very good indeed,” which was underlined, “you may come.
 Compliments (in which Edith unites) to Mr Dombey.”
@@ -53,47 +53,47 @@ Compliments (in which Edith unites) to Mr Dombey.”
 The Honourable Mrs Skewton and her daughter, Mrs Granger, resided,
 while at Leamington, in lodgings that were fashionable enough and dear
 enough, but rather limited in point of space and conveniences; so that
-the Honourable Mrs Skewton, being in bed, had her feet in the window
+the Honourable Mrs Skewton, being in bed, had her feet in the [[Window|window]]
 and her head in the fireplace, while the Honourable Mrs Skewton’s maid
 was quartered in a closet within the drawing-room, so extremely small,
 that, to avoid developing the whole of its accommodations, she was
 obliged to writhe in and out of the door like a beautiful serpent.
-Withers, the wan page, slept out of the house immediately under the
+Withers, the wan page, slept out of the [[house]] immediately under the
 tiles at a neighbouring milk-shop; and the wheeled chair, which was the
-stone of that young Sisyphus, passed the night in a shed belonging to
+stone of that young Sisyphus, passed the [[Night|night]] in a shed belonging to
 the same dairy, where new-laid eggs were produced by the poultry
-connected with the establishment, who roosted on a broken donkey-cart,
+connected with the establishment, who roosted on a broken [[donkey]]-cart,
 persuaded, to all appearance, that it grew there, and was a species of
 tree.
 
-Mr Dombey and the Major found Mrs Skewton arranged, as Cleopatra, among
+Mr Dombey and the Major found Mrs Skewton arranged, as [[Cleopatra]], among
 the cushions of a sofa: very airily dressed; and certainly not
-resembling Shakespeare’s Cleopatra, whom age could not wither. On their
+resembling Shakespeare’s [[Cleopatra]], whom age could not wither. On their
 way upstairs they had heard the sound of a harp, but it had ceased on
 their being announced, and Edith now stood beside it handsomer and
 haughtier than ever. It was a remarkable characteristic of this lady’s
-beauty that it appeared to vaunt and assert itself without her aid, and
+[[Beauty|beauty]] that it appeared to vaunt and assert itself without her aid, and
 against her will. She knew that she was beautiful: it was impossible
-that it could be otherwise: but she seemed with her own pride to defy
-her very self.
+that it could be otherwise: but she seemed with her own [[Pride|pride]] to defy
+her very [[Self|self]].
 
 Whether she held cheap attractions that could only call forth
 admiration that was worthless to her, or whether she designed to render
 them more precious to admirers by this usage of them, those to whom
 they were precious seldom paused to consider.
 
-“I hope, Mrs Granger,” said Mr Dombey, advancing a step towards her,
+“I [[Hope|hope]], Mrs Granger,” said Mr Dombey, advancing a step towards her,
 “we are not the cause of your ceasing to play?”
 
 “You! oh no!”
 
-“Why do you not go on then, my dearest Edith?” said Cleopatra.
+“Why do you not go on then, my dearest Edith?” said [[Cleopatra]].
 
 “I left off as I began—of my own fancy.”
 
 The exquisite indifference of her manner in saying this: an
 indifference quite removed from dulness or insensibility, for it was
-pointed with proud purpose: was well set off by the carelessness with
+pointed with proud purpose: was [[Well|well]] set off by the carelessness with
 which she drew her hand across the strings, and came from that part of
 the room.
 
@@ -124,7 +124,7 @@ wouldn’t do.”
 
 “You naughty Infidel,” said Mrs Skewton, “be mute.”
 
-“Cleopatra commands,” returned the Major, kissing his hand, “and Antony
+“[[Cleopatra]] commands,” returned the Major, kissing his hand, “and Antony
 Bagstock obeys.”
 
 “The man has no sensitiveness,” said Mrs Skewton, cruelly holding up
@@ -134,5 +134,5 @@ that gleam of sunshine on our cold cold earth,” said Mrs Skewton,
 arranging her lace tucker, and complacently observing the effect of her
 bare lean arm, looking upward from the wrist, “how could we possibly
 bear it? In short, obdurate man!” glancing at the Major, round the
-screen, “I would have my world all heart; and Faith is so excessively
+screen, “I would have my world all heart; and [[Faith]] is so excessively
 charming, that I won’t allow you to disturb it, do you hear?”

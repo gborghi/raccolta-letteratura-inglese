@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 2)"
+title: "[[The Mystery of Marie Roget]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -36,7 +36,7 @@ tags:
 
       replied to all questions, that the last week had been spent at
 
-      the house of a relation in the country. Thus the affair died
+      the [[house]] of a relation in the country. Thus the affair died
 
       away, and was generally forgotten; for the girl, ostensibly to
 
@@ -48,9 +48,9 @@ tags:
 
 
 
-      It was about five months after this return home, that her friends
+      It was about five months after this return [[Home|home]], that her friends
 
-      were alarmed by her sudden disappearance for the second time.
+      were alarmed by her sudden disappearance for the second [[Time|time]].
 
       Three days elapsed, and nothing was heard of her. On the fourth
 
@@ -66,7 +66,7 @@ tags:
 
       The atrocity of this murder, (for it was at once evident that
 
-      murder had been committed,) the youth and beauty of the victim,
+      murder had been committed,) the youth and [[Beauty|beauty]] of the victim,
 
       and, above all, her previous notoriety, conspired to produce
 
@@ -90,13 +90,13 @@ tags:
 
       the murderer would be able to elude, for more than a very brief
 
-      period, the inquisition which was immediately set on foot. It was
+      period, the [[Inquisition|inquisition]] which was immediately set on foot. It was
 
       not until the expiration of a week that it was deemed necessary
 
       to offer a reward; and even then this reward was limited to a
 
-      thousand francs. In the mean time the investigation proceeded
+      thousand francs. In the mean [[Time|time]] the investigation proceeded
 
       with vigor, if not always with judgment, and numerous individuals
 
@@ -106,11 +106,11 @@ tags:
 
       greatly increased. At the end of the tenth day it was thought
 
-      advisable to double the sum originally proposed; and, at length,
+      advisable to [[Double|double]] the sum originally proposed; and, at length,
 
       the second week having elapsed without leading to any
 
-      discoveries, and the prejudice which always exists in Paris
+      discoveries, and the prejudice which always exists in [[Paris]]
 
       against the Police having given vent to itself in several serious
 
@@ -152,7 +152,7 @@ tags:
 
       and they were discharged forthwith. Strange as it may appear, the
 
-      third week from the discovery of the body had passed, and passed
+      third week from the discovery of the [[Body|body]] had passed, and passed
 
       without any light being thrown upon the subject, before even a
 
@@ -172,7 +172,7 @@ tags:
 
       thirteenth of July, 18—, and remained with us until late in the
 
-      night. He had been piqued by the failure of all his endeavors to
+      [[Night|night]]. He had been piqued by the failure of all his endeavors to
 
       ferret out the assassins. His reputation—so he said with a
 
@@ -188,7 +188,7 @@ tags:
 
       Dupin, and made him a direct, and certainly a liberal
 
-      proposition, the precise nature of which I do not feel myself at
+      proposition, the precise [[Nature|nature]] of which I do not feel myself at
 
       liberty to disclose, but which has no bearing upon the proper
 

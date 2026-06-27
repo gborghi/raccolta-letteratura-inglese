@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“But I’m behind the time, you understand,” he observed in apology,
+“But I’m behind the [[Time|time]], you understand,” he observed in apology,
 passing his hand nervously down the whole row of bright buttons on his
 coat, and then up again, as if they were beads and he were telling them
 twice over: “and I would rather have my dear boy here. It’s an
@@ -22,7 +22,7 @@ old-fashioned notion, I daresay. He was always fond of the sea
 He’s”—and he looked wistfully at Walter—“he’s glad to go.”
 
 “Uncle Sol!” cried Walter, quickly, “if you say that, I won’t go. No,
-Captain Cuttle, I won’t. If my Uncle thinks I could be glad to leave
+[[Captain Cuttle]], I won’t. If my Uncle thinks I could be glad to leave
 him, though I was going to be made Governor of all the Islands in the
 West Indies, that’s enough. I’m a fixture.”
 
@@ -33,7 +33,7 @@ Following with his eyes the majestic action of the Captain’s hook, the
 old man looked at Walter.
 
 “Here is a certain craft,” said the Captain, with a magnificent sense
-of the allegory into which he was soaring, “a-going to put out on a
+of the [[Allegory|allegory]] into which he was soaring, “a-going to put out on a
 certain voyage. What name is wrote upon that craft indelibly? Is it The
 Gay? or,” said the Captain, raising his voice as much as to say,
 observe the point of this, “is it The Gills?”
@@ -41,9 +41,9 @@ observe the point of this, “is it The Gills?”
 “Ned,” said the old man, drawing Walter to his side, and taking his arm
 tenderly through his, “I know. I know. Of course I know that Wally
 considers me more than himself always. That’s in my mind. When I say he
-is glad to go, I mean I hope he is. Eh? look you, Ned and you too,
+is glad to go, I mean I [[Hope|hope]] he is. Eh? look you, Ned and you too,
 Wally, my dear, this is new and unexpected to me; and I’m afraid my
-being behind the time, and poor, is at the bottom of it. Is it really
+being behind the [[Time|time]], and poor, is at the [[Bottom|bottom]] of it. Is it really
 good fortune for him, do you tell me, now?” said the old man, looking
 anxiously from one to the other. “Really and truly? Is it? I can
 reconcile myself to almost anything that advances Wally, but I won’t
@@ -53,22 +53,22 @@ Captain, to the manifest confusion of that diplomatist; “are you
 dealing plainly by your old friend? Speak out, Ned Cuttle. Is there
 anything behind? Ought he to go? How do you know it first, and why?”
 
-As it was a contest of affection and self-denial, Walter struck in with
+As it was a contest of affection and [[Self|self]]-denial, Walter struck in with
 infinite effect, to the Captain’s relief; and between them they
 tolerably reconciled old Sol Gills, by continued talking, to the
-project; or rather so confused him, that nothing, not even the pain of
+project; or rather so confused him, that nothing, not even the [[Pain|pain]] of
 separation, was distinctly clear to his mind.
 
-He had not much time to balance the matter; for on the very next day,
+He had not much [[Time|time]] to balance the matter; for on the very next day,
 Walter received from Mr Carker the Manager, the necessary credentials
 for his passage and outfit, together with the information that the Son
 and Heir would sail in a fortnight, or within a day or two afterwards
 at latest. In the hurry of preparation: which Walter purposely enhanced
-as much as possible: the old man lost what little self-possession he
-ever had; and so the time of departure drew on rapidly.
+as much as possible: the old man lost what little [[Self|self]]-possession he
+ever had; and so the [[Time|time]] of departure drew on rapidly.
 
 The Captain, who did not fail to make himself acquainted with all that
-passed, through inquiries of Walter from day to day, found the time
+passed, through inquiries of Walter from day to day, found the [[Time|time]]
 still tending on towards his going away, without any occasion offering
 itself, or seeming likely to offer itself, for a better understanding
 of his position. It was after much consideration of this fact, and much
@@ -76,18 +76,18 @@ pondering over such an unfortunate combination of circumstances, that a
 bright idea occurred to the Captain. Suppose he made a call on Mr
 Carker, and tried to find out from him how the land really lay!
 
-Captain Cuttle liked this idea very much. It came upon him in a moment
+[[Captain Cuttle]] liked this idea very much. It came upon him in a moment
 of inspiration, as he was smoking an early pipe in Brig Place after
 breakfast; and it was worthy of the tobacco. It would quiet his
-conscience, which was an honest one, and was made a little uneasy by
+[[Conscience|conscience]], which was an honest one, and was made a little uneasy by
 what Walter had confided to him, and what Sol Gills had said; and it
-would be a deep, shrewd act of friendship. He would sound Mr Carker
+would be a deep, shrewd act of [[Friendship|friendship]]. He would sound Mr Carker
 carefully, and say much or little, just as he read that gentleman’s
-character, and discovered that they got on well together or the
+character, and discovered that they got on [[Well|well]] together or the
 reverse.
 
-Accordingly, without the fear of Walter before his eyes (who he knew
-was at home packing), Captain Cuttle again assumed his ankle-jacks and
+Accordingly, without the [[Fear|fear]] of Walter before his eyes (who he knew
+was at [[Home|home]] packing), [[Captain Cuttle]] again assumed his ankle-jacks and
 mourning brooch, and issued forth on this second expedition. He
 purchased no propitiatory nosegay on the present occasion, as he was
 going to a place of business; but he put a small sunflower in his
@@ -95,8 +95,8 @@ button-hole to give himself an agreeable relish of the country; and
 with this, and the knobby stick, and the glazed hat, bore down upon the
 offices of Dombey and Son.
 
-After taking a glass of warm rum-and-water at a tavern close by, to
-collect his thoughts, the Captain made a rush down the court, lest its
+After taking a glass of warm rum-and-[[Water|water]] at a tavern close by, to
+collect his thoughts, the Captain made a rush down the [[Court|court]], lest its
 good effects should evaporate, and appeared suddenly to Mr Perch.
 
 “Matey,” said the Captain, in persuasive accents. “One of your
@@ -118,9 +118,9 @@ in her then condition, be destructive to that lady’s hopes.
 chance,” said the Captain, “I’ll wait.”
 
 Saying which, the Captain took his seat on Mr Perch’s bracket, and
-drawing out his handkerchief from the crown of the glazed hat which he
+drawing out his handkerchief from the [[Crown|crown]] of the glazed hat which he
 jammed between his knees (without injury to its shape, for nothing
-human could bend it), rubbed his head well all over, and appeared
+human could bend it), rubbed his head [[Well|well]] all over, and appeared
 refreshed. He subsequently arranged his hair with his hook, and sat
 looking round the office, contemplating the clerks with a serene
 respect.

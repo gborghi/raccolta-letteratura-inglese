@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 31 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 31 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 Joe started involuntarily. Here was the very thing he had been dreaming
 of, all the way along.
 
-‘And I wish,’ said the Lion, ‘he was anywhere else but here. The party
+‘And I wish,’ said the [[Lion]], ‘he was anywhere else but here. The party
 make noise enough, but don’t call for much. There’s great cry there, Mr
 Willet, but very little wool. Your father wouldn’t like ‘em, I know.’
 
@@ -26,7 +26,7 @@ what was passing at that moment in Joe’s mind, he would have liked them
 still less.
 
 ‘Is he recruiting for a--for a fine regiment?’ said Joe, glancing at a
-little round mirror that hung in the bar.
+little round [[Mirror|mirror]] that hung in the bar.
 
 ‘I believe he is,’ replied the host. ‘It’s much the same thing, whatever
 regiment he’s recruiting for. I’m told there an’t a deal of difference
@@ -35,16 +35,16 @@ through.’
 
 ‘They’re not all shot,’ said Joe.
 
-‘No,’ the Lion answered, ‘not all. Those that are--supposing it’s done
+‘No,’ the [[Lion]] answered, ‘not all. Those that are--supposing it’s done
 easy--are the best off in my opinion.’
 
 ‘Ah!’ retorted Joe, ‘but you don’t care for glory.’
 
-‘For what?’ said the Lion.
+‘For what?’ said the [[Lion]].
 
 ‘Glory.’
 
-‘No,’ returned the Lion, with supreme indifference. ‘I don’t. You’re
+‘No,’ returned the [[Lion]], with supreme indifference. ‘I don’t. You’re
 right in that, Mr Willet. When Glory comes here, and calls for anything
 to drink and changes a guinea to pay for it, I’ll give it him for
 nothing. It’s my belief, sir, that the Glory’s arms wouldn’t do a very
@@ -53,14 +53,14 @@ strong business.’
 These remarks were not at all comforting. Joe walked out, stopped at
 the door of the next room, and listened. The serjeant was describing
 a military life. It was all drinking, he said, except that there were
-frequent intervals of eating and love-making. A battle was the finest
+frequent intervals of eating and [[Love|love]]-making. A battle was the finest
 thing in the world--when your side won it--and Englishmen always did
 that. ‘Supposing you should be killed, sir?’ said a timid voice in one
-corner. ‘Well, sir, supposing you should be,’ said the serjeant, ‘what
-then? Your country loves you, sir; his Majesty King George the Third
-loves you; your memory is honoured, revered, respected; everybody’s fond
+corner. ‘[[Well]], sir, supposing you should be,’ said the serjeant, ‘what
+then? Your country loves you, sir; his Majesty [[King]] George the Third
+loves you; your [[Memory|memory]] is honoured, revered, respected; everybody’s fond
 of you, and grateful to you; your name’s wrote down at full length in a
-book in the War Office. Damme, gentlemen, we must all die some time, or
+book in the War Office. Damme, gentlemen, we must all die some [[Time|time]], or
 another, eh?’
 
 The voice coughed, and said no more.
@@ -72,9 +72,9 @@ The rest, who were by no means disposed, strongly urged him to do so
 (according to the custom of mankind), backed the serjeant’s arguments,
 and grinned among themselves. ‘I say nothing, boys,’ said the serjeant,
 who sat a little apart, drinking his liquor. ‘For lads of spirit’--here
-he cast an eye on Joe--‘this is the time. I don’t want to inveigle you.
-The king’s not come to that, I hope. Brisk young blood is what we
-want; not milk and water. We won’t take five men out of six. We want
+he cast an eye on Joe--‘this is the [[Time|time]]. I don’t want to inveigle you.
+The [[King|king]]’s not come to that, I [[Hope|hope]]. Brisk young [[Blood|blood]] is what we
+want; not milk and [[Water|water]]. We won’t take five men out of six. We want
 top-sawyers, we do. I’m not a-going to tell tales out of school, but,
 damme, if every gentleman’s son that carries arms in our corps, through
 being under a cloud and having little differences with his relations,
@@ -83,13 +83,13 @@ that Joe beckoned him out. He came directly.
 
 ‘You’re a gentleman, by G--!’ was his first remark, as he slapped him
 on the back. ‘You’re a gentleman in disguise. So am I. Let’s swear a
-friendship.’
+[[Friendship|friendship]].’
 
 Joe didn’t exactly do that, but he shook hands with him, and thanked him
 for his good opinion.
 
 ‘You want to serve,’ said his new friend. ‘You shall. You were made for
-it. You’re one of us by nature. What’ll you take to drink?’
+it. You’re one of us by [[Nature|nature]]. What’ll you take to drink?’
 
 ‘Nothing just now,’ replied Joe, smiling faintly. ‘I haven’t quite made
 up my mind.’
@@ -100,10 +100,10 @@ mind in half a minute, I know.’
 
 ‘You’re right so far’--answered Joe, ‘for if you pull the bell here,
 where I’m known, there’ll be an end of my soldiering inclinations in no
-time. Look in my face. You see me, do you?’
+[[Time|time]]. Look in my face. You see me, do you?’
 
 ‘I do,’ replied the serjeant with an oath, ‘and a finer young fellow or
-one better qualified to serve his king and country, I never set my--’ he
+one better qualified to serve his [[King|king]] and country, I never set my--’ he
 used an adjective in this place--‘eyes on.’
 
 ‘Thank you,’ said Joe, ‘I didn’t ask you for want of a compliment, but
@@ -111,25 +111,25 @@ thank you all the same. Do I look like a sneaking fellow or a liar?’
 
 The serjeant rejoined with many choice asseverations that he didn’t; and
 that if his (the serjeant’s) own father were to say he did, he would
-run the old gentleman through the body cheerfully, and consider it a
+run the old gentleman through the [[Body|body]] cheerfully, and consider it a
 meritorious action.
 
 Joe expressed his obligations, and continued, ‘You can trust me then,
 and credit what I say. I believe I shall enlist in your regiment
-to-night. The reason I don’t do so now is, because I don’t want until
-to-night, to do what I can’t recall. Where shall I find you, this
+to-[[Night|night]]. The reason I don’t do so now is, because I don’t want until
+to-[[Night|night]], to do what I can’t recall. Where shall I find you, this
 evening?’
 
 His friend replied with some unwillingness, and after much ineffectual
 entreaty having for its object the immediate settlement of the business,
 that his quarters would be at the Crooked Billet in Tower Street; where
 he would be found waking until midnight, and sleeping until breakfast
-time to-morrow.
+[[Time|time]] to-morrow.
 
 ‘And if I do come--which it’s a million to one, I shall--when will you
-take me out of London?’ demanded Joe.
+take me out of [[London]]?’ demanded Joe.
 
-‘To-morrow morning, at half after eight o’clock,’ replied the serjeant.
+‘To-morrow morning, at half after eight o’[[Clock|clock]],’ replied the serjeant.
 ‘You’ll go abroad--a country where it’s all sunshine and plunder--the
 finest climate in the world.’
 
@@ -140,8 +140,8 @@ want. You may expect me.’
 in his, in the excess of his admiration. ‘You’re the boy to push your
 fortune. I don’t say it because I bear you any envy, or would take away
 from the credit of the rise you’ll make, but if I had been bred and
-taught like you, I’d have been a colonel by this time.’
+taught like you, I’d have been a colonel by this [[Time|time]].’
 
 ‘Tush, man!’ said Joe, ‘I’m not so young as that. Needs must when the
 devil drives; and the devil that drives me is an empty pocket and an
-unhappy home. For the present, good-bye.’
+unhappy [[Home|home]]. For the present, good-bye.’

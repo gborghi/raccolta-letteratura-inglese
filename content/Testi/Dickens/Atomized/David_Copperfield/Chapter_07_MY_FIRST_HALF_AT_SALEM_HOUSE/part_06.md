@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM HOUSE (part 6)"
+title: "[[David Copperfield]] — Chapter 7: MY ‘FIRST HALF’ AT SALEM [[house|HOUSE]] (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -49,7 +49,7 @@ old Peggotty is?’
 
 ‘On--common,’ said Mr. Peggotty.
 
-There was a silence. Mr. Peggotty, to relieve it, took two prodigious
+There was a [[Silence|silence]]. Mr. Peggotty, to relieve it, took two prodigious
 lobsters, and an enormous crab, and a large canvas bag of shrimps, out
 of his pockets, and piled them up in Ham’s arms.
 
@@ -64,11 +64,11 @@ I expressed my thanks; and Mr. Peggotty, after looking at Ham, who stood
 smiling sheepishly over the shellfish, without making any attempt to
 help him, said:
 
-‘We come, you see, the wind and tide making in our favour, in one of our
+‘We come, you see, the [[Wind|wind]] and tide making in our favour, in one of our
 Yarmouth lugs to Gravesen’. My sister she wrote to me the name of this
 here place, and wrote to me as if ever I chanced to come to Gravesen’,
 I was to come over and inquire for Mas’r Davy and give her dooty,
-humbly wishing him well and reporting of the fam’ly as they was oncommon
+humbly wishing him [[Well|well]] and reporting of the fam’ly as they was oncommon
 toe-be-sure. Little Em’ly, you see, she’ll write to my sister when I go
 back, as I see you and as you was similarly oncommon, and so we make it
 quite a merry-go-rounder.’
@@ -92,8 +92,8 @@ large it is, you might see it anywheres.’
 
 It was perfectly delightful to behold with what enthusiasm Mr. Peggotty
 became inspired when he thought of his little favourite. He stands
-before me again, his bluff hairy face irradiating with a joyful love and
-pride, for which I can find no description. His honest eyes fire up, and
+before me again, his bluff hairy face irradiating with a joyful [[Love|love]] and
+[[Pride|pride]], for which I can find no description. His honest eyes [[Fire|fire]] up, and
 sparkle, as if their depths were stirred by something bright. His broad
 chest heaves with pleasure. His strong loose hands clench themselves,
 in his earnestness; and he emphasizes what he says with a right arm that
@@ -102,18 +102,18 @@ shows, in my pigmy view, like a sledge-hammer.
 Ham was quite as earnest as he. I dare say they would have said much
 more about her, if they had not been abashed by the unexpected coming in
 of Steerforth, who, seeing me in a corner speaking with two strangers,
-stopped in a song he was singing, and said: ‘I didn’t know you were
+stopped in a [[Song|song]] he was singing, and said: ‘I didn’t know you were
 here, young Copperfield!’ (for it was not the usual visiting room) and
 crossed by us on his way out.
 
-I am not sure whether it was in the pride of having such a friend as
-Steerforth, or in the desire to explain to him how I came to have such a
+I am not sure whether it was in the [[Pride|pride]] of having such a friend as
+Steerforth, or in the [[Desire|desire]] to explain to him how I came to have such a
 friend as Mr. Peggotty, that I called to him as he was going away. But I
-said, modestly--Good Heaven, how it all comes back to me this long time
+said, modestly--Good Heaven, how it all comes back to me this long [[Time|time]]
 afterwards--!
 
 ‘Don’t go, Steerforth, if you please. These are two Yarmouth
-boatmen--very kind, good people--who are relations of my nurse, and have
+boatmen--very kind, good people--who are relations of my [[Nurse|nurse]], and have
 come from Gravesend to see me.’
 
 ‘Aye, aye?’ said Steerforth, returning. ‘I am glad to see them. How are
@@ -129,7 +129,7 @@ a natural weakness to yield, and which not many persons could withstand.
 I could not but see how pleased they were with him, and how they seemed
 to open their hearts to him in a moment.
 
-‘You must let them know at home, if you please, Mr. Peggotty,’ I said,
+‘You must let them know at [[Home|home]], if you please, Mr. Peggotty,’ I said,
 ‘when that letter is sent, that Mr. Steerforth is very kind to me, and
 that I don’t know what I should ever do here without him.’
 
@@ -138,11 +138,11 @@ of the sort.’
 
 ‘And if Mr. Steerforth ever comes into Norfolk or Suffolk, Mr.
 Peggotty,’ I said, ‘while I am there, you may depend upon it I shall
-bring him to Yarmouth, if he will let me, to see your house. You never
-saw such a good house, Steerforth. It’s made out of a boat!’
+bring him to Yarmouth, if he will let me, to see your [[house]]. You never
+saw such a good [[house]], Steerforth. It’s made out of a boat!’
 
 ‘Made out of a boat, is it?’ said Steerforth. ‘It’s the right sort of a
-house for such a thorough-built boatman.’
+[[house]] for such a thorough-built boatman.’
 
 ‘So ‘tis, sir, so ‘tis, sir,’ said Ham, grinning. ‘You’re right, young
 gen’l’m’n! Mas’r Davy bor’, gen’l’m’n’s right. A thorough-built boatman!

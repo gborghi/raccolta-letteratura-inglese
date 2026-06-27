@@ -17,11 +17,11 @@ tags:
 The Secretary felt that there was no gainsaying what was urged by
 this brave old heroine, and he presently repaired to Mrs Boffin and
 recommended her to let Betty Higden have her way, at all events for the
-time. ‘It would be far more satisfactory to your kind heart, I know,’
+[[Time|time]]. ‘It would be far more satisfactory to your kind heart, I know,’
 he said, ‘to provide for her, but it may be a duty to respect this
 independent spirit.’ Mrs Boffin was not proof against the consideration
 set before her. She and her husband had worked too, and had brought
-their simple faith and honour clean out of dustheaps. If they owed a
+their simple [[Faith|faith]] and [[Honour|honour]] clean out of dustheaps. If they owed a
 duty to Betty Higden, of a surety that duty must be done.
 
 ‘But, Betty,’ said Mrs Boffin, when she accompanied John Rokesmith back
@@ -34,9 +34,9 @@ to his room, and shone upon her with the light of her radiant face,
 ‘When would you go?’
 
 ‘Now,’ was the bright and ready answer. ‘To-day, my deary, to-morrow.
-Bless ye, I am used to it. I know many parts of the country well. When
-nothing else was to be done, I have worked in many a market-garden afore
-now, and in many a hop-garden too.’
+Bless ye, I am used to it. I know many parts of the country [[Well|well]]. When
+nothing else was to be done, I have worked in many a market-[[Garden|garden]] afore
+now, and in many a hop-[[Garden|garden]] too.’
 
 ‘If I give my consent to your going, Betty—which Mr Rokesmith thinks I
 ought to do—’
@@ -48,9 +48,9 @@ knowledge. We must know all about you.’
 
 ‘Yes, my deary, but not through letter-writing, because
 letter-writing—indeed, writing of most sorts hadn’t much come up for
-such as me when I was young. But I shall be to and fro. No fear of
+such as me when I was young. But I shall be to and fro. No [[Fear|fear]] of
 my missing a chance of giving myself a sight of your reviving face.
-Besides,’ said Betty, with logical good faith, ‘I shall have a debt to
+Besides,’ said Betty, with logical good [[Faith|faith]], ‘I shall have a debt to
 pay off, by littles, and naturally that would bring me back, if nothing
 else would.’
 
@@ -74,10 +74,10 @@ the mangle, or to knock a broken piece of furniture together, in a
 surprising manner. As to constructing toys for the Minders, out of
 nothing, he had done that daily. And once as many as a dozen people had
 got together in the lane to see the neatness with which he fitted the
-broken pieces of a foreign monkey’s musical instrument. ‘That’s well,’
+broken pieces of a foreign monkey’s musical instrument. ‘That’s [[Well|well]],’
 said the Secretary. ‘It will not be hard to find a trade for him.’
 
-John Harmon being buried under mountains now, the Secretary that very
+[[John Harmon]] being buried under [[Mountains|mountains]] now, the Secretary that very
 same day set himself to finish his affairs and have done with him. He
 drew up an ample declaration, to be signed by Rogue Riderhood (knowing
 he could get his signature to it, by making him another and much shorter
@@ -113,7 +113,7 @@ Sloppy, stood in need of some instruction. If he, the Secretary, engaged
 that schoolmaster to impart it to him, the channel might be opened. The
 next point was, did Mrs Boffin know the schoolmaster’s name? No, but she
 knew where the school was. Quite enough. Promptly the Secretary wrote
-to the master of that school, and that very evening Bradley Headstone
+to the master of that school, and that very evening [[Bradley Headstone]]
 answered in person.
 
 The Secretary stated to the schoolmaster how the object was, to send to
@@ -123,7 +123,7 @@ schoolmaster was willing to undertake the charge of such a pupil. The
 Secretary inquired on what terms? The schoolmaster stated on what terms.
 Agreed and disposed of.
 
-‘May I ask, sir,’ said Bradley Headstone, ‘to whose good opinion I owe a
+‘May I ask, sir,’ said [[Bradley Headstone]], ‘to whose good opinion I owe a
 recommendation to you?’
 
 ‘You should know that I am not the principal here. I am Mr Boffin’s

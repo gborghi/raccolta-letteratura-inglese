@@ -1,5 +1,5 @@
 ---
-title: "The Purloined Letter (part 3)"
+title: "[[The Purloined Letter]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Purloined-Letter-(Poe)"
@@ -19,16 +19,16 @@ tags:
       description of furniture, by the aid of a most powerful
       microscope. Had there been any traces of recent disturbance we
       should not have failed to detect it instantly. A single grain of
-      gimlet-dust, for example, would have been as obvious as an apple.
+      gimlet-[[Dust|dust]], for example, would have been as obvious as an apple.
       Any disorder in the glueing—any unusual gaping in the
       joints—would have sufficed to insure detection.”
 
       “I presume you looked to the mirrors, between the boards and the
-      plates, and you probed the beds and the bed-clothes, as well as
+      plates, and you probed the beds and the bed-clothes, as [[Well|well]] as
       the curtains and carpets.”
 
       “That of course; and when we had absolutely completed every
-      particle of the furniture in this way, then we examined the house
+      particle of the furniture in this way, then we examined the [[house]]
       itself. We divided its entire surface into compartments, which we
       numbered, so that none might be missed; then we scrutinized each
       individual square inch throughout the premises, including the two
@@ -62,7 +62,7 @@ tags:
 
       “You explored the floors beneath the carpets?”
 
-      “Beyond doubt. We removed every carpet, and examined the boards
+      “Beyond [[Doubt|doubt]]. We removed every carpet, and examined the boards
       with the microscope.”
 
       “And the paper on the walls?”
@@ -76,7 +76,7 @@ tags:
       “Then,” I said, “you have been making a miscalculation, and the
       letter is not upon the premises, as you suppose.”
 
-      “I fear you are right there,” said the Prefect. “And now, Dupin,
+      “I [[Fear|fear]] you are right there,” said the Prefect. “And now, Dupin,
       what would you advise me to do?”
 
       “To make a thorough re-search of the premises.”
@@ -98,7 +98,7 @@ tags:
       us occupied very nearly as before. He took a pipe and a chair and
       entered into some ordinary conversation. At length I said,—
 
-      “Well, but G——, what of the purloined letter? I presume you have
+      “[[Well]], but G——, what of [[The Purloined Letter|the purloined letter]]? I presume you have
       at last made up your mind that there is no such thing as
       overreaching the Minister?”
 
@@ -129,7 +129,7 @@ tags:
 
       “No; hang Abernethy!”
 
-      “To be sure! hang him and welcome. But, once upon a time, a
+      “To be sure! hang him and welcome. But, once upon a [[Time|time]], a
       certain rich miser conceived the design of spunging upon this
       Abernethy for a medical opinion. Getting up, for this purpose, an
       ordinary conversation in a private company, he insinuated his
@@ -145,7 +145,7 @@ tags:
       fifty thousand francs to any one who would aid me in the matter.”
 
       “In that case,” replied Dupin, opening a drawer, and producing a
-      check-book, “you may as well fill me up a check for the amount
+      check-book, “you may as [[Well|well]] fill me up a check for the amount
       mentioned. When you have signed it, I will hand you the letter.”
 
       I was astounded. The Prefect appeared absolutely
@@ -161,5 +161,5 @@ tags:
       grasped it in a perfect agony of joy, opened it with a trembling
       hand, cast a rapid glance at its contents, and then, scrambling
       and struggling to the door, rushed at length unceremoniously from
-      the room and from the house, without having uttered a syllable
+      the room and from the [[house]], without having uttered a syllable
       since Dupin had requested him to fill up the check.

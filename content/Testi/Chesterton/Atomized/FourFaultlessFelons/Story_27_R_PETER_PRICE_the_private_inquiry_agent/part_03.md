@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — R. PETER PRICE, the private inquiry agent, did not glow with that (part 3)"
+title: "[[FourFaultlessFelons]] — R. PETER PRICE, the private inquiry agent, did not glow with that (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -20,15 +20,15 @@ something to suggest to him."
 
 
 
-John Nadoway left the offices of the detective with a slow gait and a
+John Nadoway left the offices of the [[Detective|detective]] with a slow gait and a
 
 puzzled expression, which he continued to wear all the way down to his
 
-country house, which he reached that evening, driving his own car with
+country [[house]], which he reached that evening, driving his own car with
 
 his usual competence, but without any shedding of his unusual perplexity
 
-and gloom. Everything had grown so puzzling, as well as so painful, that
+and gloom. Everything had grown so puzzling, as [[Well|well]] as so painful, that
 
 he found himself forced against the edges of existence, in a manner rare
 
@@ -36,23 +36,23 @@ in the experience of men of his type. He would have said in all
 
 simplicity that he was not a thinker, and he would have seen nothing
 
-unnatural in the notion of a man walking through life to death, without
+unnatural in the notion of a man walking through life to [[Death|death]], without
 
 stopping anywhere to think. But everything, down to the demeanour of that
 
-practical little private detective, was so damned mysterious. Even the
+practical little private [[Detective|detective]], was so damned mysterious. Even the
 
-dark trees before his father's house seemed to stand up in serpentine
+dark trees before his father's [[house]] seemed to stand up in serpentine
 
-shapes like enormous notes of interrogation. The stars looked like those
+shapes like enormous notes of interrogation. The [[Stars|stars]] looked like those
 
-other stars called asterisks, which stand in the suppressed passages of a
+other [[Stars|stars]] called asterisks, which stand in the suppressed passages of a
 
-puzzle or a cipher. And the single window lighted in the dark bulk of the
+puzzle or a cipher. And the single [[Window|window]] lighted in the dark bulk of the
 
-house was like a leering eye. He knew only too well that a cloud of shame
+[[house]] was like a leering eye. He knew only too [[Well|well]] that a cloud of shame
 
-and doom was on that house, like a thunder-cloud about to burst. It was
+and doom was on that [[house]], like a thunder-cloud about to burst. It was
 
 the sort of doom he had tried to avert all his life, and now it had come
 
@@ -60,13 +60,13 @@ he could hardly even pretend it was not deserved.
 
 
 
-In the shadow of the veranda, with a sort of silent shock, he came upon
+In the [[Shadow|shadow]] of the veranda, with a sort of silent shock, he came upon
 
-Millicent, sitting in a garden chair and gazing out into the dark. And in
+Millicent, sitting in a [[Garden|garden]] chair and gazing out into the dark. And in
 
-all that black and tragic house of riddles, perhaps her face was the
+all that black and tragic [[house]] of riddles, perhaps her face was the
 
-darkest and most inscrutable riddle, for it was happy.
+darkest and most inscrutable [[Riddle|riddle]], for it was happy.
 
 
 
@@ -74,9 +74,9 @@ As she gazed, indeed, and became conscious of the sturdy figure of the
 
 businessman blackening the faint shimmer of light on the lawn, a sort of
 
-misty change came across her eyes, that was not pain but had in it
+misty change came across her eyes, that was not [[Pain|pain]] but had in it
 
-something of pathos. She felt a sort of sad friendship go out in a
+something of pathos. She felt a sort of sad [[Friendship|friendship]] go out in a
 
 sympathetic wave towards this strong, successful and unfortunate man-as
 
@@ -84,15 +84,15 @@ towards something deaf or blind. She could not analyse the softening,
 
 which was also a severing, until she remembered that she had nearly been
 
-in love with him when he was a boy in that garden. She did not know why
+in [[Love|love]] with him when he was a boy in that [[Garden|garden]]. She did not know why
 
-she should feel so sharply and almost tragically that she was not in love
+she should feel so sharply and almost tragically that she was not in [[Love|love]]
 
-with him now. That she could never, never, be in love with that kind of
+with him now. That she could never, never, be in [[Love|love]] with that kind of
 
-man now. That kind of man-well, he was the kind of thoroughly good man
+man now. That kind of man-[[Well|well]], he was the kind of thoroughly good man
 
-who thought that telling the truth was as right as cleaning the teeth. It
+who thought that telling the [[Truth|truth]] was as right as cleaning the teeth. It
 
 would be like loving somebody quite flat-only in two dimensions.
 
@@ -100,11 +100,11 @@ would be like loving somebody quite flat-only in two dimensions.
 
 For she felt that in herself a depth had opened like a new dimension,
 
-full of topsy-turvy stars and the inverted infinities of Einstein. She
+full of topsy-turvy [[Stars|stars]] and the inverted infinities of Einstein. She
 
 hardly looked into that abyss behind her, she hardly took in the positive
 
-novelty, but only the sharp negative, that she was not in love with John
+novelty, but only the sharp negative, that she was not in [[Love|love]] with John
 
 Nadoway.
 
@@ -112,13 +112,13 @@ Nadoway.
 
 All the more her cold compassion went out to him, without shyness, as to
 
-a brother. "I am so sorry," she cried, "for all you must be suffering
+a brother. "I am so sorry," she cried, "for all you must be [[Suffering|suffering]]
 
 just now. It must seem so dreadful to you."
 
 
 
-"Thank you," he said, not without emotion. "We are having a trying time,
+"Thank you," he said, not without emotion. "We are having a trying [[Time|time]],
 
 of course-and sympathy from old friends does not hurt."
 
@@ -178,6 +178,6 @@ too good to live."
 
 The Junior Partner resumed his plodding march with the new addition to
 
-his list of worries; that among the inmates of the house, was a lady who
+his list of worries; that among the inmates of the [[house]], was a lady who
 
 was a lunatic.

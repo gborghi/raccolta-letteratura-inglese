@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 10 (part 3)"
+title: "[[Shirley]] — Chapter 10 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -18,9 +18,9 @@ and tomahawk tongues Caroline stood in awe, she had allowed her eye to
 
 seek Robert's pew, and to rest awhile on its occupant. He was there
 
-alone. Hortense had been kept at home by prudent considerations relative
+[[Alone|alone]]. Hortense had been kept at [[Home|home]] by prudent considerations relative
 
-to the rain and a new spring _chapeau_. During the sermon he sat with
+to the rain and a new [[Spring|spring]] _chapeau_. During the sermon he sat with
 
 folded arms and eyes cast down, looking very sad and abstracted. When
 
@@ -58,7 +58,7 @@ enter into it, feel what he would feel, aspire to what he would aspire.
 
 Her earnest wish was to see things as they were, and not to be romantic.
 
-By dint of effort she contrived to get a glimpse of the light of truth
+By dint of effort she contrived to get a glimpse of the light of [[Truth|truth]]
 
 here and there, and hoped that scant ray might suffice to guide her.
 
@@ -68,7 +68,7 @@ here and there, and hoped that scant ray might suffice to guide her.
 
 mine. I think only of him; he has no room, no leisure, to think of me.
 
-The feeling called love is and has been for two years the predominant
+The feeling called [[Love|love]] is and has been for two years the predominant
 
 emotion of my heart--always there, always awake, always astir. Quite
 
@@ -88,11 +88,11 @@ to greet mine."
 
 
 
-That Sunday evening, Mr. Malone coming, as usual, to pass it with his
+That [[Sunday]] evening, Mr. Malone coming, as usual, to pass it with his
 
 rector, Caroline withdrew after tea to her chamber. Fanny, knowing her
 
-habits, had lit her a cheerful little fire, as the weather was so gusty
+habits, had lit her a cheerful little [[Fire|fire]], as the weather was so gusty
 
 and chill. Closeted there, silent and solitary, what could she do but
 
@@ -100,19 +100,19 @@ think? She noiselessly paced to and fro the carpeted floor, her head
 
 drooped, her hands folded. It was irksome to sit; the current of
 
-reflection ran rapidly through her mind; to-night she was mutely
+reflection ran rapidly through her mind; to-[[Night|night]] she was mutely
 
 excited.
 
 
 
-Mute was the room, mute the house. The double door of the study muffled
+Mute was the room, mute the [[house]]. The [[Double|double]] door of the study muffled
 
 the voices of the gentlemen. The servants were quiet in the kitchen,
 
 engaged with books their young mistress had lent them--books which she
 
-had told them were "fit for Sunday reading." And she herself had another
+had told them were "fit for [[Sunday]] reading." And she herself had another
 
 of the same sort open on the table, but she could not read it. Its
 
@@ -122,13 +122,13 @@ teeming, wandering, to listen to the language of another mind.
 
 
 
-Then, too, her imagination was full of pictures--images of Moore, scenes
+Then, too, her [[Imagination|imagination]] was full of pictures--images of Moore, scenes
 
-where he and she had been together; winter fireside sketches; a glowing
+where he and she had been together; [[Winter|winter]] fireside sketches; a glowing
 
-landscape of a hot summer afternoon passed with him in the bosom of
+landscape of a hot [[Summer|summer]] afternoon passed with him in the bosom of
 
-Nunnely Wood; divine vignettes of mild spring or mellow autumn moments,
+Nunnely Wood; divine vignettes of mild [[Spring|spring]] or mellow [[Autumn|autumn]] moments,
 
 when she had sat at his side in Hollow's Copse, listening to the call of
 
@@ -136,7 +136,7 @@ the May cuckoo, or sharing the September treasure of nuts and ripe
 
 blackberries--a wild dessert which it was her morning's pleasure to
 
-collect in a little basket, and cover with green leaves and fresh
+collect in a little basket, and cover with green [[Leaves|leaves]] and fresh
 
 blossoms, and her afternoon's delight to administer to Moore, berry by
 
@@ -158,13 +158,13 @@ if a sleety rain-drop had fallen. She returned from an enchanted region
 
 to the real world: for Nunnely Wood in June she saw her narrow chamber;
 
-for the songs of birds in alleys she heard the rain on her casement; for
+for the [[songs]] of [[Birds|birds]] in alleys she heard the rain on her casement; for
 
-the sigh of the south wind came the sob of the mournful east; and for
+the sigh of the south [[Wind|wind]] came the sob of the mournful east; and for
 
 Moore's manly companionship she had the thin illusion of her own dim
 
-shadow on the wall. Turning from the pale phantom which reflected
+[[Shadow|shadow]] on the wall. Turning from the pale [[Phantom|phantom]] which reflected
 
 herself in its outline, and her reverie in the drooped attitude of its
 
@@ -176,9 +176,9 @@ have to live, perhaps, till seventy years. As far as I know, I have good
 
 health; half a century of existence may lie before me. How am I to
 
-occupy it? What am I to do to fill the interval of time which spreads
+occupy it? What am I to do to fill the interval of [[Time|time]] which spreads
 
-between me and the grave?"
+between me and the [[Grave|grave]]?"
 
 
 
@@ -188,7 +188,7 @@ She reflected.
 
 "I shall not be married, it appears," she continued. "I suppose, as
 
-Robert does not care for me, I shall never have a husband to love, nor
+Robert does not care for me, I shall never have a husband to [[Love|love]], nor
 
 little children to take care of. Till lately I had reckoned securely on
 
@@ -202,7 +202,7 @@ perceive plainly I may have been mistaken. Probably I shall be an old
 
 maid. I shall live to see Robert married to some one else, some rich
 
-lady. I shall never marry. What was I created for, I wonder? Where is my
+lady. I shall never marry. What was I created for, I [[Wonder|wonder]]? Where is my
 
 place in the world?"
 

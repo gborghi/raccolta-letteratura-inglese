@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 51 (part 3)"
+title: "[[Great Expectations]] — Chapter 51 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -16,11 +16,11 @@ tags:
 
 “Quite.”
 
-“Put the case that the child grew up, and was married for money. That
+“Put the case that the [[Child|child]] grew up, and was married for money. That
 the mother was still living. That the father was still living. That the
 mother and father, unknown to one another, were dwelling within so many
 miles, furlongs, yards if you like, of one another. That the secret was
-still a secret, except that you had got wind of it. Put that last case
+still a secret, except that you had got [[Wind|wind]] of it. Put that last case
 to yourself very carefully.”
 
 “I do.”
@@ -36,14 +36,14 @@ the daughter’s? I think it would hardly serve her to establish her
 parentage for the information of her husband, and to drag her back to
 disgrace, after an escape of twenty years, pretty secure to last for
 life. But add the case that you had loved her, Pip, and had made her
-the subject of those ‘poor dreams’ which have, at one time or another,
+the subject of those ‘poor [[Dreams|dreams]]’ which have, at one [[Time|time]] or another,
 been in the heads of more men than you think likely, then I tell you
-that you had better—and would much sooner when you had thought well of
+that you had better—and would much sooner when you had thought [[Well|well]] of
 it—chop off that bandaged left hand of yours with your bandaged right
 hand, and then pass the chopper on to Wemmick there, to cut _that_ off
 too.”
 
-I looked at Wemmick, whose face was very grave. He gravely touched his
+I looked at Wemmick, whose face was very [[Grave|grave]]. He gravely touched his
 lips with his forefinger. I did the same. Mr. Jaggers did the same.
 “Now, Wemmick,” said the latter then, resuming his usual manner, “what
 item was it you were at when Mr. Pip came in?”
@@ -56,7 +56,7 @@ light to the other. For this reason, I suppose, they were now
 inflexible with one another; Mr. Jaggers being highly dictatorial, and
 Wemmick obstinately justifying himself whenever there was the smallest
 point in abeyance for a moment. I had never seen them on such ill
-terms; for generally they got on very well indeed together.
+terms; for generally they got on very [[Well|well]] indeed together.
 
 But they were both happily relieved by the opportune appearance of
 Mike, the client with the fur cap and the habit of wiping his nose on
@@ -65,8 +65,8 @@ within those walls. This individual, who, either in his own person or
 in that of some member of his family, seemed to be always in trouble
 (which in that place meant Newgate), called to announce that his eldest
 daughter was taken up on suspicion of shoplifting. As he imparted this
-melancholy circumstance to Wemmick, Mr. Jaggers standing magisterially
-before the fire and taking no share in the proceedings, Mike’s eye
+[[Melancholy|melancholy]] circumstance to Wemmick, Mr. Jaggers standing magisterially
+before the [[Fire|fire]] and taking no share in the proceedings, Mike’s eye
 happened to twinkle with a tear.
 
 “What are you about?” demanded Wemmick, with the utmost indignation.

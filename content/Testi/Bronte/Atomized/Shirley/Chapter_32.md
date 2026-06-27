@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 32"
+title: "[[Shirley]] — Chapter 32"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -26,17 +26,17 @@ THE SCHOOLBOY AND THE WOOD-NYMPH.
 
 Briarmains being nearer than the Hollow, Mr. Yorke had conveyed his
 
-young comrade there. He had seen him laid in the best bed of the house,
+young comrade there. He had seen him laid in the best bed of the [[house]],
 
 as carefully as if he had been one of his own sons. The sight of his
 
-blood, welling from the treacherously inflicted wound, made him indeed
+[[Blood|blood]], welling from the treacherously inflicted wound, made him indeed
 
 the son of the Yorkshire gentleman's heart. The spectacle of the sudden
 
-event, of the tall, straight shape prostrated in its pride across the
+event, of the tall, straight shape prostrated in its [[Pride|pride]] across the
 
-road, of the fine southern head laid low in the dust, of that youth in
+[[Road|road]], of the fine southern head laid low in the [[Dust|dust]], of that youth in
 
 prime flung at once before him pallid, lifeless, helpless--this was the
 
@@ -54,7 +54,7 @@ This utter dependence of the speechless, bleeding youth (as a youth he
 
 regarded him) on his benevolence secured that benevolence most
 
-effectually. Well did Mr. Yorke like to have power, and to use it. He
+effectually. [[Well]] did Mr. Yorke like to have power, and to use it. He
 
 had now between his hands power over a fellow-creature's life. It suited
 
@@ -68,15 +68,15 @@ was quite in her way and to her taste. Some women would have been
 
 terror-struck to see a gory man brought in over their threshold, and
 
-laid down in their hall in the "howe of the night." There, you would
+laid down in their hall in the "howe of the [[Night|night]]." There, you would
 
 suppose, was subject-matter for hysterics. No. Mrs. Yorke went into
 
-hysterics when Jessie would not leave the garden to come to her
+hysterics when Jessie would not leave the [[Garden|garden]] to come to her
 
 knitting, or when Martin proposed starting for Australia, with a view to
 
-realize freedom and escape the tyranny of Matthew; but an attempted
+realize [[Freedom|freedom]] and escape the tyranny of Matthew; but an attempted
 
 murder near her door--a half-murdered man in her best bed--set her
 
@@ -86,7 +86,7 @@ straight, cheered her spirits, gave her cap the dash of a turban.
 
 Mrs. Yorke was just the woman who, while rendering miserable the
 
-drudging life of a simple maid-servant, would nurse like a heroine a
+drudging life of a simple maid-servant, would [[Nurse|nurse]] like a heroine a
 
 hospital full of plague patients. She almost loved Moore. Her tough
 
@@ -96,11 +96,11 @@ charge--left in her arms, as dependent on her as her youngest-born in
 
 the cradle. Had she seen a domestic or one of her daughters give him a
 
-draught of water or smooth his pillow, she would have boxed the
+draught of [[Water|water]] or smooth his pillow, she would have boxed the
 
-intruder's ears. She chased Jessie and Rose from the upper realm of the
+intruder's ears. She chased Jessie and [[Rose]] from the upper realm of the
 
-house; she forbade the housemaids to set their foot in it.
+[[house]]; she forbade the housemaids to set their foot in it.
 
 
 
@@ -114,17 +114,17 @@ meddling. As it was, he became, for the present, the apple of their eye.
 
 
 
-Strange! Louis Moore was permitted to come--to sit down on the edge of
+Strange! [[Louis Moore]] was permitted to come--to sit down on the edge of
 
 the bed and lean over the pillow; to hold his brother's hand, and press
 
-his pale forehead with his fraternal lips; and Mrs. Yorke bore it well.
+his pale forehead with his fraternal lips; and Mrs. Yorke bore it [[Well|well]].
 
 She suffered him to stay half the day there; she once suffered him to
 
-sit up all night in the chamber; she rose herself at five o'clock of a
+sit up all [[Night|night]] in the chamber; she [[Rose|rose]] herself at five o'[[Clock|clock]] of a
 
-wet November morning, and with her own hands lit the kitchen fire, and
+wet November morning, and with her own hands lit the kitchen [[Fire|fire]], and
 
 made the brothers a breakfast, and served it to them herself.
 
@@ -166,11 +166,11 @@ watched them with the same suspicion, and judged them with the same
 
 severity. Hortense, too, from the very first showed no manner of
 
-jealousy of Mrs. Yorke's attentions to Robert--she let her keep the post
+[[Jealousy|jealousy]] of Mrs. Yorke's attentions to Robert--she let her keep the post
 
-of nurse with little interference; and, for herself, found ceaseless
+of [[Nurse|nurse]] with little interference; and, for herself, found ceaseless
 
-occupation in fidgeting about the house, holding the kitchen under
+occupation in fidgeting about the [[house]], holding the kitchen under
 
 surveillance, reporting what passed there, and, in short, making herself
 
@@ -186,7 +186,7 @@ Mr. MacTurk, the surgeon to whom Moore's case had been committed,
 
 pronounced his wound of a dangerous, but, he trusted, not of a hopeless
 
-character. At first he wished to place with him a nurse of his own
+character. At first he wished to place with him a [[Nurse|nurse]] of his own
 
 selection; but this neither Mrs. Yorke nor Hortense would hear of. They
 
@@ -200,7 +200,7 @@ Doubtless they executed the trust to the best of their ability; but
 
 something got wrong. The bandages were displaced or tampered with; great
 
-loss of blood followed. MacTurk, being summoned, came with steed afoam.
+loss of [[Blood|blood]] followed. MacTurk, being summoned, came with steed afoam.
 
 He was one of those surgeons whom it is dangerous to vex--abrupt in his
 
@@ -222,13 +222,13 @@ fell to the lot of meddling womankind, _en masse_.
 
 
 
-For the best part of one winter night himself and satellites were busied
+For the best part of one [[Winter|winter]] [[Night|night]] himself and satellites were busied
 
-about Moore. There at his bedside, shut up alone with him in his
+about Moore. There at his bedside, shut up [[Alone|alone]] with him in his
 
 chamber, they wrought and wrangled over his exhausted frame. They three
 
-were on one side of the bed, and Death on the other. The conflict was
+were on one side of the bed, and [[Death]] on the other. The conflict was
 
 sharp; it lasted till day broke, when the balance between the
 
@@ -238,11 +238,11 @@ victory.
 
 
 
-At dawn Graves and young MacTurk were left in charge of the patient,
+At [[Dawn|dawn]] Graves and young MacTurk were left in charge of the patient,
 
 while the senior went himself in search of additional strength, and
 
-secured it in the person of Mrs. Horsfall, the best nurse on his staff.
+secured it in the person of Mrs. Horsfall, the best [[Nurse|nurse]] on his staff.
 
 To this woman he gave Moore in charge, with the sternest injunctions
 
@@ -278,7 +278,7 @@ her dram three times a day, and her pipe of tobacco four times.
 
 As to Moore, no one now ventured to inquire about him. Mrs. Horsfall had
 
-him at dry-nurse. It was she who was to do for him, and the general
+him at dry-[[Nurse|nurse]]. It was she who was to do for him, and the general
 
 conjecture now ran that she did for him accordingly.
 
@@ -294,13 +294,13 @@ creditable to his skill to set agoing again. Graves and young
 
 MacTurk--Moore's sole other visitors--contemplated him in the light in
 
-which they were wont to contemplate the occupant for the time being of
+which they were wont to contemplate the occupant for the [[Time|time]] being of
 
 the dissecting-room at Stilbro' Infirmary.
 
 
 
-Robert Moore had a pleasant time of it--in pain, in danger, too weak to
+[[Robert Moore]] had a pleasant [[Time|time]] of it--in [[Pain|pain]], in danger, too weak to
 
 move, almost too weak to speak, a sort of giantess his keeper, the three
 
@@ -324,9 +324,9 @@ When he was good she addressed him as "my dear" and "honey," and when he
 
 was bad she sometimes shook him. Did he attempt to speak when MacTurk
 
-was there, she lifted her hand and bade him "Hush!" like a nurse
+was there, she lifted her hand and bade him "Hush!" like a [[Nurse|nurse]]
 
-checking a forward child. If she had not smoked, if she had not taken
+checking a forward [[Child|child]]. If she had not smoked, if she had not taken
 
 gin, it would have been better, he thought; but she did both. Once, in
 
@@ -348,13 +348,13 @@ sober, she always remembers to obey _me_."
 
 
 
-At length the latter autumn passed; its fogs, its rains withdrew from
+At length the latter [[Autumn|autumn]] passed; its fogs, its rains withdrew from
 
-England their mourning and their tears; its winds swept on to sigh over
+England their mourning and their [[Tears|tears]]; its winds swept on to sigh over
 
-lands far away. Behind November came deep winter--clearness, stillness,
+lands far away. Behind November came deep [[Winter|winter]]--clearness, stillness,
 
-frost accompanying.
+[[Frost|frost]] accompanying.
 
 
 
@@ -366,7 +366,7 @@ _reflets_[A] of white, or violet, or pale green gems. The hills wore a
 
 lilac blue; the setting sun had purple in its red; the sky was ice, all
 
-silvered azure; when the stars rose, they were of white crystal, not
+silvered azure; when the [[Stars|stars]] [[Rose|rose]], they were of white crystal, not
 
 gold; gray, or cerulean, or faint emerald hues--cool, pure, and
 
@@ -386,15 +386,15 @@ a wood neutral tint--this dark blue moving object? Why, it is a
 
 schoolboy--a Briarfield grammar-school boy--who has left his companions,
 
-now trudging home by the highroad, and is seeking a certain tree, with a
+now trudging [[Home|home]] by the highroad, and is seeking a certain tree, with a
 
 certain mossy mound at its root, convenient as a seat. Why is he
 
-lingering here? The air is cold and the time wears late. He sits down.
+lingering here? The air is cold and the [[Time|time]] wears late. He sits down.
 
-What is he thinking about? Does he feel the chaste charm Nature wears
+What is he thinking about? Does he feel the chaste charm [[Nature]] wears
 
-to-night? A pearl-white moon smiles through the gray trees; does he care
+to-[[Night|night]]? A pearl-white [[Moon|moon]] smiles through the gray trees; does he care
 
 for her smile?
 
@@ -402,7 +402,7 @@ for her smile?
 
 Impossible to say; for he is silent, and his countenance does not speak.
 
-As yet it is no mirror to reflect sensation, but rather a mask to
+As yet it is no [[Mirror|mirror]] to reflect sensation, but rather a mask to
 
 conceal it. This boy is a stripling of fifteen--slight, and tall of his
 
@@ -416,9 +416,9 @@ resistance. Wise ushers avoid unnecessary interference with that lad.
 
 To break him in by severity would be a useless attempt; to win him by
 
-flattery would be an effort worse than useless. He is best let alone.
+flattery would be an effort worse than useless. He is best let [[Alone|alone]].
 
-Time will educate and experience train him.
+[[Time]] will educate and experience train him.
 
 
 
@@ -426,7 +426,7 @@ Professedly Martin Yorke (it is a young Yorke, of course) tramples on
 
 the name of poetry. Talk sentiment to him, and you would be answered by
 
-sarcasm. Here he is, wandering alone, waiting duteously on Nature, while
+sarcasm. Here he is, wandering [[Alone|alone]], waiting duteously on [[Nature]], while
 
 she unfolds a page of stern, of silent, and of solemn poetry beneath his
 
@@ -438,7 +438,7 @@ Being seated, he takes from his satchel a book--not the Latin grammar,
 
 but a contraband volume of fairy tales. There will be light enough yet
 
-for an hour to serve his keen young vision. Besides, the moon waits on
+for an hour to serve his keen young vision. Besides, the [[Moon|moon]] waits on
 
 him; her beam, dim and vague as yet, fills the glade where he sits.
 
@@ -446,11 +446,11 @@ him; her beam, dim and vague as yet, fills the glade where he sits.
 
 He reads. He is led into a solitary mountain region; all round him is
 
-rude and desolate, shapeless, and almost colourless. He hears bells
+rude and desolate, shapeless, and almost colourless. He hears [[Bells|bells]]
 
-tinkle on the wind. Forth-riding from the formless folds of the mist
+tinkle on the [[Wind|wind]]. Forth-riding from the formless folds of the mist
 
-dawns on him the brightest vision--a green-robed lady, on a snow-white
+dawns on him the brightest vision--a green-robed lady, on a [[Snow|snow]]-white
 
 palfrey. He sees her dress, her gems, and her steed. She arrests him
 
@@ -484,7 +484,7 @@ Looking up and forward, he sees, at the bleak point of the reef, a tall,
 
 pale thing--shaped like man, but made of spray--transparent, tremulous,
 
-awful. It stands not alone. They are all human figures that wanton in
+awful. It stands not [[Alone|alone]]. They are all human figures that wanton in
 
 the rocks--a crowd of foam-women--a band of white, evanescent Nereids.
 
@@ -492,7 +492,7 @@ the rocks--a crowd of foam-women--a band of white, evanescent Nereids.
 
 Hush! Shut the book; hide it in the satchel. Martin hears a tread. He
 
-listens. No--yes. Once more the dead leaves, lightly crushed, rustle on
+listens. No--yes. Once more the dead [[Leaves|leaves]], lightly crushed, rustle on
 
 the wood path. Martin watches; the trees part, and a woman issues
 
@@ -504,7 +504,7 @@ She is a lady dressed in dark silk, a veil covering her face. Martin
 
 never met a lady in this wood before--nor any female, save, now and
 
-then, a village girl come to gather nuts. To-night the apparition does
+then, a village girl come to gather nuts. To-[[Night|night]] the apparition does
 
 not displease him. He observes, as she approaches, that she is neither
 
@@ -512,7 +512,7 @@ old nor plain, but, on the contrary, very youthful; and, but that he now
 
 recognizes her for one whom he has often wilfully pronounced ugly, he
 
-would deem that he discovered traits of beauty behind the thin gauze of
+would deem that he discovered traits of [[Beauty|beauty]] behind the thin gauze of
 
 that veil.
 
@@ -538,7 +538,7 @@ that he blushed when thus addressed; yet blush he did, to the ears.
 
 
 
-"I am," he said bluntly, and encouraged himself to wonder,
+"I am," he said bluntly, and encouraged himself to [[Wonder|wonder]],
 
 superciliously, what would come next.
 
@@ -552,7 +552,7 @@ It could not have been more felicitous. It was a simple sentence--very
 
 artlessly, a little timidly, pronounced; but it chimed in harmony to the
 
-youth's nature. It stilled him like a note of music.
+youth's [[Nature|nature]]. It stilled him like a note of music.
 
 
 
@@ -578,9 +578,9 @@ perfectly in place.
 
 
 
-"Are your father and mother well?" (it was lucky she did not say _papa_
+"Are your father and mother [[Well|well]]?" (it was lucky she did not say _papa_
 
-and _mamma_; that would have undone all); "and Rose and Jessie?"
+and _mamma_; that would have undone all); "and [[Rose]] and Jessie?"
 
 
 
@@ -608,13 +608,13 @@ was likely to be held by the young Yorkes.
 
 
 
-"They suit so well about the servants they can't help liking each
+"They suit so [[Well|well]] about the servants they can't help liking each
 
 other."
 
 
 
-"It is cold to-night."
+"It is cold to-[[Night|night]]."
 
 
 
@@ -662,7 +662,7 @@ to make an experiment.
 
 
 
-"Going to die. Nothing can save him. All hope flung overboard!"
+"Going to die. Nothing can save him. All [[Hope|hope]] flung overboard!"
 
 
 
@@ -684,7 +684,7 @@ The questioner, perhaps, did nor hear this judgment. She stood
 
 motionless. In two minutes, without another word, she moved forwards; no
 
-good-night, no further inquiry. This was not amusing, nor what Martin
+good-[[Night|night]], no further inquiry. This was not amusing, nor what Martin
 
 had calculated on. He expected something dramatic and demonstrative. It
 
@@ -702,7 +702,7 @@ She did not hear or turn. He hastened after and overtook her.
 
 
 
-"You know nothing about death, Martin; you are too young for me to talk
+"You know nothing about [[Death|death]], Martin; you are too young for me to talk
 
 to concerning such a thing."
 
@@ -712,7 +712,7 @@ to concerning such a thing."
 
 are always making sago or tapioca or something good for him. I never go
 
-into the kitchen but there is a saucepan on the fire, cooking him some
+into the kitchen but there is a saucepan on the [[Fire|fire]], cooking him some
 
 dainty. I think I will play the old soldier, and be fed on the fat of
 
@@ -730,7 +730,7 @@ the land like him."
 
 Again she stopped. She leaned against a tree, trembling, shuddering, and
 
-as pale as death.
+as pale as [[Death|death]].
 
 
 
@@ -740,7 +740,7 @@ was, as he would have expressed it, "nuts" to him to see this. It told
 
 him so much, and he was beginning to have a great relish for discovering
 
-secrets. In another sense it reminded him of what he had once felt when
+[[Secrets|secrets]]. In another sense it reminded him of what he had once felt when
 
 he had heard a blackbird lamenting for her nestlings, which Matthew had
 
@@ -774,7 +774,7 @@ helplessness, he perfectly liked to feel himself of use.
 
 "Martin, before we separate, assure me seriously, and on your word of
 
-honour, that Mr. Moore is better."
+[[Honour|honour]], that Mr. Moore is better."
 
 
 
@@ -788,11 +788,11 @@ an authentic answer."
 
 
 
-"You may tell them he is well enough, only idle. You may tell them that
+"You may tell them he is [[Well|well]] enough, only idle. You may tell them that
 
 he takes mutton chops for dinner, and the best of arrowroot for supper.
 
-I intercepted a basin myself one night on its way upstairs, and ate half
+I intercepted a basin myself one [[Night|night]] on its way upstairs, and ate half
 
 of it."
 
@@ -804,7 +804,7 @@ of it."
 
 "Nurses him? The great baby! Why, a woman as round and big as our
 
-largest water-butt--a rough, hard-favoured old girl. I make no doubt
+largest [[Water|water]]-butt--a rough, hard-favoured old girl. I make no [[Doubt|doubt]]
 
 she leads him a rich life. Nobody else is let near him. He is chiefly in
 
@@ -824,7 +824,7 @@ wish she may not be starving him."
 
 
 
-Profound silence and meditation on Caroline's part, and a sly
+Profound [[Silence|silence]] and meditation on Caroline's part, and a sly
 
 watchfulness on Martin's.
 
@@ -838,11 +838,11 @@ watchfulness on Martin's.
 
 
 
-Silence again.
+[[Silence]] again.
 
 
 
-"Did not you come to our house once with Mrs. Pryor, about five weeks
+"Did not you come to our [[house]] once with Mrs. Pryor, about five weeks
 
 since, to ask after him?" again inquired Martin.
 
@@ -874,11 +874,11 @@ we are at your father's gate."
 
 
 
-"Very well, what of that? I shall walk home with you."
+"Very [[Well|well]], what of that? I shall walk [[Home|home]] with you."
 
 
 
-"They will miss you, and wonder where you are."
+"They will miss you, and [[Wonder|wonder]] where you are."
 
 
 
@@ -894,7 +894,7 @@ adventure. It was better than muffins and toast.
 
 
 
-He walked home with Caroline. On the way he promised to see Mr. Moore,
+He walked [[Home|home]] with Caroline. On the way he promised to see Mr. Moore,
 
 in spite of the dragon who guarded his chamber, and appointed an hour on
 
@@ -906,7 +906,7 @@ nothing; still he liked it.
 
 
 
-Having reached home, the dry bread and the lecture were duly
+Having reached [[Home|home]], the dry bread and the lecture were duly
 
 administered to him, and he was dismissed to bed at an early hour. He
 
@@ -922,13 +922,13 @@ customarily dined in the back parlour. He stood before the mantelpiece,
 
 and lifted his candle to two pictures hung above--female heads: one, a
 
-type of serene beauty, happy and innocent; the other, more lovely, but
+type of serene [[Beauty|beauty]], happy and [[Innocent|innocent]]; the other, more lovely, but
 
 forlorn and desperate.
 
 
 
-"She looked like _that_," he said, gazing on the latter sketch, "when
+"She looked like _that_," he said, gazing on the latter [[Sketch|sketch]], "when
 
 she sobbed, turned white, and leaned against the tree."
 
@@ -940,7 +940,7 @@ of his pallet-bed--"I suppose she is what they call '_in love_'--yes,
 
 _in love_ with that long thing in the next chamber. Whisht! is that
 
-Horsfall clattering him? I wonder he does not yell out. It really sounds
+Horsfall clattering him? I [[Wonder|wonder]] he does not yell out. It really sounds
 
 as if she had fallen on him tooth and nail; but I suppose she is making
 
@@ -948,7 +948,7 @@ the bed. I saw her at it once. She hit into the mattresses as if she was
 
 boxing. It is queer, Zillah (they call her Zillah)--Zillah Horsfall is a
 
-woman, and Caroline Helstone is a woman; they are two individuals of the
+woman, and [[Caroline Helstone]] is a woman; they are two individuals of the
 
 same species--not much alike though. Is she a pretty girl, that
 
@@ -956,9 +956,9 @@ Caroline? I suspect she is; very nice to look at--something so clear in
 
 her face, so soft in her eyes. I approve of her looking at me; it does
 
-me good. She has long eyelashes. Their shadow seems to rest where she
+me good. She has long eyelashes. Their [[Shadow|shadow]] seems to rest where she
 
-gazes, and to instil peace and thought. If she behaves well, and
+gazes, and to instil peace and thought. If she behaves [[Well|well]], and
 
 continues to suit me as she has suited me to-day, I may do her a good
 

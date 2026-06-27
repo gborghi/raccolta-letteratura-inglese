@@ -1,5 +1,5 @@
 ---
-title: "Maelzel's Chess-Player (part 3)"
+title: "[[Maelzel's Chess-Player]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Maelzel's-Chess-Player-(Poe)"
@@ -24,23 +24,23 @@ tags:
 
       At the hour appointed for exhibition, a curtain is withdrawn, or
 
-      folding doors are thrown open, and the machine rolled to within
+      folding doors are thrown open, and the [[Machine|machine]] rolled to within
 
       about twelve feet of the nearest of the spectators, between whom
 
-      and it (the machine) a rope is stretched. A figure is seen
+      and it (the [[Machine|machine]]) a rope is stretched. A figure is seen
 
       habited as a Turk, and seated, with its legs crossed, at a large
 
       box apparently of maple wood, which serves it as a table. The
 
-      exhibiter will, if requested, roll the machine to any portion of
+      exhibiter will, if requested, roll the [[Machine|machine]] to any portion of
 
       the room, suffer it to remain altogether on any designated spot,
 
       or even shift its location repeatedly during the progress of a
 
-      game. The bottom of the box is elevated considerably above the
+      game. The [[Bottom|bottom]] of the box is elevated considerably above the
 
       floor by means of the castors or brazen rollers on which it
 
@@ -54,7 +54,7 @@ tags:
 
       The right arm of the Chess-Player is extended at full length
 
-      before him, at right angles with his body, and lying, in an
+      before him, at right angles with his [[Body|body]], and lying, in an
 
       apparently careless position, by the side of the board. The back
 
@@ -82,7 +82,7 @@ tags:
 
       Maelzel now informs the company that he will disclose to their
 
-      view the mechanism of the machine. Taking from his pocket a bunch
+      view the mechanism of the [[Machine|machine]]. Taking from his pocket a bunch
 
       of keys he unlocks with one of them, door marked ~ in the cut
 
@@ -102,9 +102,9 @@ tags:
 
       one first opened. Holding a lighted candle at this door, and
 
-      shifting the position of the whole machine repeatedly at the same
+      shifting the position of the whole [[Machine|machine]] repeatedly at the same
 
-      time, a bright light is thrown entirely through the cupboard,
+      [[Time|time]], a bright light is thrown entirely through the cupboard,
 
       which is now clearly seen to be full, completely full, of
 
@@ -118,7 +118,7 @@ tags:
 
       exhibiter now proceeds to open the drawer which lies beneath the
 
-      cupboards at the bottom of the box—for although there are
+      cupboards at the [[Bottom|bottom]] of the box—for although there are
 
       apparently two drawers, there is really only one—the two handles
 
@@ -128,7 +128,7 @@ tags:
 
       of chessmen, fixed in a frame work made to support them
 
-      perpendicularly, are discovered. Leaving this drawer, as well as
+      perpendicularly, are discovered. Leaving this drawer, as [[Well|well]] as
 
       cupboard No. 1 open, Maelzel now unlocks door No. 2, and door No.
 
@@ -156,7 +156,7 @@ tags:
 
       compartment near the rear corner on the spectators’ left hand.
 
-      Leaving doors No. 2 and No. 3 open as well as the drawer, and
+      Leaving doors No. 2 and No. 3 open as [[Well|well]] as the drawer, and
 
       door No. I, the exhibiter now goes round to the back of the main
 
@@ -182,7 +182,7 @@ tags:
 
       thoroughly satisfied of having beheld and completely scrutinized,
 
-      at one and the same time, every individual portion of the
+      at one and the same [[Time|time]], every individual portion of the
 
       Automaton, and the idea of any person being concealed in the
 
@@ -194,4 +194,4 @@ tags:
 
 
 
-      M. Maelzel, having rolled the machine back into its original
+      M. Maelzel, having rolled the [[Machine|machine]] back into its original

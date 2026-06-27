@@ -1,5 +1,5 @@
 ---
-title: "manalive — Chapter 3"
+title: "[[manalive]] — Chapter 3"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/manalive-(Chesterton)"
@@ -16,61 +16,61 @@ tags:
 
 			 Chapter III
 
-		       The Round Road;
+		       The Round [[Road]];
 		  or, the Desertion Charge
 
 
-Pym rose with sincere embarrassment; for he was an American,
+Pym [[Rose|rose]] with sincere embarrassment; for he was an American,
 and his respect for ladies was real, and not at all scientific.
 
 "Ignoring," he said, "the delicate and considerable knightly protests
 that have been called forth by my colleague's native sense of oration,
-and apologizing to all for whom our wild search for truth seems unsuitable
+and apologizing to all for whom our wild search for [[Truth|truth]] seems unsuitable
 to the grand ruins of a feudal land, I still think my colleague's question
 by no means devoid of rel'vancy. The last charge against the accused was
 one of burglary; the next charge on the paper is of bigamy and desertion.
 It does without question appear that the defence, in aspiring to rebut
-this last charge, have really admitted the next.  Either Innocent Smith
+this last charge, have really admitted the next.  Either [[Innocent]] [[smith|Smith]]
 is still under a charge of attempted burglary, or else that is exploded;
-but he is pretty well fixed for attempted bigamy.  It all depends on
+but he is pretty [[Well|well]] fixed for attempted bigamy.  It all depends on
 what view we take of the alleged letter from Curate Percy.  Under these
 conditions I feel justified in claiming my right to questions.
 May I ask how the defence got hold of the letter from Curate Percy?  Did it
 come direct from the prisoner?"
 
-"We have had nothing direct from the prisoner," said Moon quietly.
+"We have had nothing direct from the prisoner," said [[Moon]] quietly.
 "The few documents which the defence guarantees came to us
 from another quarter."
 
 "From what quarter?" asked Dr. Pym.
 
-"If you insist," answered Moon, "we had them from Miss Gray.
+"If you insist," answered [[Moon]], "we had them from Miss Gray.
 
 "Dr. Cyrus Pym quite forgot to close his eyes, and, instead,
 opened them very wide.
 
 "Do you really mean to say," he said, "that Miss Gray was in possession
-of this document testifying to a previous Mrs. Smith?"
+of this document testifying to a previous Mrs. [[smith|Smith]]?"
 
 "Quite so," said Inglewood, and sat down.
 
 The doctor said something about infatuation in a low and painful voice,
 and then with visible difficulty continued his opening remarks.
 
-"Unfortunately the tragic truth revealed by Curate Percy's narrative
+"Unfortunately the tragic [[Truth|truth]] revealed by Curate Percy's narrative
 is only too crushingly confirmed by other and shocking documents
 in our own possession.  Of these the principal and most certain is
-the testimony of Innocent Smith's gardener, who was present at the most
+the testimony of [[Innocent]] [[smith|Smith]]'s gardener, who was present at the most
 dramatic and eye-opening of his many acts of marital infidelity.
 Mr. Gould, the gardener, please."
 
 Mr. Gould, with his tireless cheerfulness, arose to present the gardener.
-That functionary explained that he had served Mr. and Mrs. Innocent Smith
-when they had a little house on the edge of Croydon.
+That functionary explained that he had served Mr. and Mrs. [[Innocent]] [[smith|Smith]]
+when they had a little [[house]] on the edge of Croydon.
 From the gardener's tale, with its many small allusions, Inglewood grew
 certain he had seen the place.  It was one of those corners of town
 or country that one does not forget, for it looked like a frontier.
-The garden hung very high above the lane, and its end was steep
+The [[Garden|garden]] hung very high above the lane, and its end was steep
 and sharp, like a fortress.  Beyond was a roll of real country,
 with a white path sprawling across it, and the roots, boles, and branches
 of great gray trees writhing and twisting against the sky.
@@ -81,51 +81,51 @@ that stood exactly at the corner.  Inglewood was sure of the place;
 he had passed it twenty times in his constitutionals on the bicycle;
 he had always dimly felt it was a place where something might occur.
 But it gave him quite a shiver to feel that the face of his
-frightful friend or enemy Smith might at any time have appeared
-over the garden bushes above.  The gardener's account,
+frightful friend or enemy [[smith|Smith]] might at any [[Time|time]] have appeared
+over the [[Garden|garden]] bushes above.  The gardener's account,
 unlike the curate's, was quite free from decorative adjectives,
 however many he may have uttered privately when writing it.
-He simply said that on a particular morning Mr. Smith came out
+He simply said that on a particular morning Mr. [[smith|Smith]] came out
 and began to play about with a rake, as he often did.  Sometimes he
-would tickle the nose of his eldest child (he had two children);
+would tickle the nose of his eldest [[Child|child]] (he had two children);
 sometimes he would hook the rake on to the branch of a tree,
 and hoist himself up with horrible gymnastic jerks, like those of
 a giant frog in its final agony.  Never, apparently, did he think
 of putting the rake to any of its proper uses, and the gardener,
 in consequence, treated his actions with coldness and brevity.
 But the gardener was certain that on one particular morning in October he
-(the gardener) had come round the corner of the house carrying
-the hose, had seen Mr. Smith standing on the lawn in a striped
+(the gardener) had come round the corner of the [[house]] carrying
+the hose, had seen Mr. [[smith|Smith]] standing on the lawn in a striped
 red and white jacket (which might have been his smoking-jacket,
 but was quite as like a part of his pyjamas), and had heard him then
 and there call out to his wife, who was looking out of the bedroom
-window on to the garden, these decisive and very loud expressions--
+[[Window|window]] on to the [[Garden|garden]], these decisive and very loud expressions--
 
 "I won't stay here any longer.  I've got another wife and much
 better children a long way from here.  My other wife's got redder
-hair than yours, and my other garden's got a much finer situation;
+hair than yours, and my other [[Garden|garden]]'s got a much finer situation;
 and I'm going off to them."
 
 With these words, apparently, he sent the rake flying far up into the sky,
 higher than many could have shot an arrow, and caught it again.
 Then he cleared the hedge at a leap and alighted on his feet down
-in the lane below, and set off up the road without even a hat.
+in the lane below, and set off up the [[Road|road]] without even a hat.
 Much of the picture was doubtless supplied by Inglewood's accidental
-memory of the place.  He could see with his mind's eye that big
+[[Memory|memory]] of the place.  He could see with his mind's eye that big
 bare-headed figure with the ragged rake swaggering up the crooked
-woodland road, and leaving lamp-post and pillar-box behind.
+woodland [[Road|road]], and leaving lamp-post and pillar-box behind.
 But the gardener, on his own account, was quite prepared to swear
 to the public confession of bigamy, to the temporary disappearance
 of the rake in the sky, and the final disappearance of the man up
-the road.  Moreover, being a local man, he could swear that, beyond some
-local rumours that Smith had embarked on the south-eastern coast,
+the [[Road|road]].  Moreover, being a local man, he could swear that, beyond some
+local rumours that [[smith|Smith]] had embarked on the south-eastern coast,
 nothing was known of him again.
 
-This impression was somewhat curiously clinched by Michael Moon in the few
+This impression was somewhat curiously clinched by [[Michael]] [[Moon]] in the few
 but clear phrases in which he opened the defence upon the third charge.
-So far from denying that Smith had fled from Croydon and disappeared on
+So far from denying that [[smith|Smith]] had fled from Croydon and disappeared on
 the Continent, he seemed prepared to prove all this on his own account.
-"I hope you are not so insular," he said, "that you will not respect
+"I [[Hope|hope]] you are not so insular," he said, "that you will not respect
 the word of a French innkeeper as much as that of an English gardener.
 By Mr. Inglewood's favour we will hear the French innkeeper."
 
@@ -139,13 +139,13 @@ rather north of Dunquerque.  I am willing to write all I know
 of the stranger out of the sea.
 
 "I have no sympathy with eccentrics or poets.  A man of sense
-looks for beauty in things deliberately intended to be beautiful,
+looks for [[Beauty|beauty]] in things deliberately intended to be beautiful,
 such as a trim flower-bed or an ivory statuette.  One does not permit
-beauty to pervade one's whole life, just as one does not pave
+[[Beauty|beauty]] to pervade one's whole life, just as one does not pave
 all the roads with ivory or cover all the fields with geraniums.
-My faith, but we should miss the onions!
+My [[Faith|faith]], but we should miss the onions!
 
-"But whether I read things backwards through my memory, or whether there
+"But whether I read things backwards through my [[Memory|memory]], or whether there
 are indeed atmospheres of psychology which the eye of science cannot
 as yet pierce, it is the humiliating fact that on that particular evening
 I felt like a poet--like any little rascal of a poet who drinks absinthe
@@ -154,23 +154,23 @@ in the mad Montmartre.
 "Positively the sea itself looked like absinthe, green and bitter
 and poisonous.  I had never known it look so unfamiliar before.
 In the sky was that early and stormy darkness that is so depressing to
-the mind, and the wind blew shrilly round the little lonely coloured kiosk
+the mind, and the [[Wind|wind]] blew shrilly round the little lonely coloured kiosk
 where they sell the newspapers, and along the sand-hills by the shore.
 There I saw a fishing-boat with a brown sail standing in silently from
 the sea.  It was already quite close, and out of it clambered a man
-of monstrous stature, who came wading to shore with the water not up
+of monstrous stature, who came wading to shore with the [[Water|water]] not up
 to his knees, though it would have reached the hips of many men.
 He leaned on a long rake or pole, which looked like a trident, and made him
 look like a Triton.  Wet as he was, and with strips of seaweed clinging
 to him, he walked across to my cafe, and, sitting down at a table outside,
 asked for cherry brandy, a liqueur which I keep, but is seldom demanded.
-Then the monster, with great politeness, invited me to partake
+Then the [[Monster|monster]], with great politeness, invited me to partake
 of a vermouth before my dinner, and we fell into conversation.
-He had apparently crossed from Kent by a small boat got at a private
+He had apparently crossed from [[Kent]] by a small boat got at a private
 bargain because of some odd fancy he had for passing promptly in an
 easterly direction, and not waiting for any of the official boats.
-He was, he somewhat vaguely explained, looking for a house.  When I
-naturally asked him where the house was, he answered that he did not know;
+He was, he somewhat vaguely explained, looking for a [[house]].  When I
+naturally asked him where the [[house]] was, he answered that he did not know;
 it was on an island; it was somewhere to the east; or, as he expressed
 it with a hazy and yet impatient gesture, `over there.'
 
@@ -213,7 +213,7 @@ At the end of the world, at the back of the dawn, I shall find
 the wife I really married and the house that is really mine.
 And that house will have a greener lamp-post and a redder pillar-box.
 Do you,' he asked with a sudden intensity, `do you never want to rush
-out of your house in order to find it?'
+out of your [[house]] in order to find it?'
 
 "`No, I think not,' I replied; `reason tells a man from
 the first to adapt his desires to the probable supply of life.
@@ -221,14 +221,14 @@ I remain here, content to fulfil the life of man.
 All my interests are here, and most of my friends, and--'
 
 "`And yet,' he cried, starting to his almost terrific height,
-`you made the French Revolution!'
+`you made the [[French Revolution]]!'
 
 "`Pardon me,' I said, `I am not quite so elderly.
 A relative perhaps.'
 
 "`I mean your sort did!' exclaimed this personage.
 `Yes, your damned smug, settled, sensible sort made
-the French Revolution.  Oh!  I know some say it was no good,
+the [[French Revolution]].  Oh!  I know some say it was no good,
 and you're just back where you were before.  Why, blast it all,
 that's just where we all want to be--back where we were before!
 That is revolution--going right round!  Every revolution,
@@ -321,7 +321,7 @@ It really is a live house, for it runs away from me.'
 moved me profoundly.  We Russians are brought up in an atmosphere
 of folk-lore, and its unfortunate effects can still be seen
 in the bright colours of the children's dolls and of the ikons.
-For an instant the idea of a house running away from a man gave
+For an instant the idea of a [[house]] running away from a man gave
 me pleasure, for the enlightenment of man moves slowly.
 
 "`Have you no other house of your own?'  I asked.
@@ -341,10 +341,10 @@ like a masculine Nora.'
 for Englishmen always think that Russians study nothing but `ukases.'
 
 "`"The Doll's House"?' he cried vehemently; `why, that is just where Ibsen
-was so wrong!  Why, the whole aim of a house is to be a doll's house.
-Don't you remember, when you were a child, how those little windows
-WERE windows, while the big windows weren't. A child has a doll's house,
-and shrieks when a front door opens inwards.  A banker has a real house,
+was so wrong!  Why, the whole aim of a [[house]] is to be a doll's [[house]].
+Don't you remember, when you were a [[Child|child]], how those little windows
+WERE windows, while the big windows weren't. A [[Child|child]] has a doll's [[house]],
+and shrieks when a front door opens inwards.  A banker has a real [[house]],
 yet how numerous are the bankers who fail to emit the faintest shriek
 when their real front doors open inwards.'
 
@@ -392,12 +392,12 @@ from his wife.'
 `and we all want to be found.'
 
 "`The most original modern thinkers,' I remarked,
-`Ibsen, Gorki, Nietzsche, Shaw, would all rather say that what we
+`Ibsen, Gorki, Nietzsche, [[Shaw]], would all rather say that what we
 want most is to be lost:  to find ourselves in untrodden paths,
 and to do unprecedented things:  to break with the past and belong
 to the future.'
 
-"He rose to his whole height somewhat sleepily, and looked round on
+"He [[Rose|rose]] to his whole height somewhat sleepily, and looked round on
 what was, I confess, a somewhat desolate scene--the dark purple plains,
 the neglected railroad, the few ragged knots of malcontents.
 `I shall not find the house here,' he said.  `It is still eastward--
@@ -407,16 +407,16 @@ further and further eastward.'
 of his pole upon the frozen earth.
 
 "`And if I do go back to my country,' he cried, `I may be locked up in a
-madhouse before I reach my own house.  I have been a bit unconventional
-in my time!  Why, Nietzsche stood in a row of ramrods in the silly old
-Prussian army, and Shaw takes temperance beverages in the suburbs;
-but the things I do are unprecedented things.  This round road I
+madhouse before I reach my own [[house]].  I have been a bit unconventional
+in my [[Time|time]]!  Why, Nietzsche stood in a row of ramrods in the silly old
+Prussian army, and [[Shaw]] takes temperance beverages in the suburbs;
+but the things I do are unprecedented things.  This round [[Road|road]] I
 am treading is an untrodden path.  I do believe in breaking out;
 I am a revolutionist.  But don't you see that all these real leaps
 and destructions and escapes are only attempts to get back to Eden--
 to something we have had, to something we at least have heard of?
-Don't you see one only breaks the fence or shoots the moon in order
-to get HOME?'
+Don't you see one only breaks the fence or shoots the [[Moon|moon]] in order
+to get [[Home|HOME]]?'
 
 "`No,' I answered after due reflection, `I don't think I should accept that.'
 
@@ -470,8 +470,8 @@ His face was white and discomposed, after the fashion of the foreigners,
 so that they look like dead men filled with devils; and he spoke
 our speech brokenly.
 
-"He said to me, `This is only a temple; I am trying to find a house.'
-And then he told me with indelicate haste that the lamp outside his house
+"He said to me, `This is only a temple; I am trying to find a [[house]].'
+And then he told me with indelicate haste that the lamp outside his [[house]]
 was green, and that there was a red post at the corner of it.
 
 "`I have not seen your house nor any houses,' I answered.
@@ -516,14 +516,14 @@ that he and his people were right.
 
 "And he answered:  `We are right because we are bound where
 men should be bound, and free where men should be free.
-We are right because we doubt and destroy laws and customs--
-but we do not doubt our own right to destroy them.  For you live
+We are right because we [[Doubt|doubt]] and destroy laws and customs--
+but we do not [[Doubt|doubt]] our own right to destroy them.  For you live
 by customs, but we live by creeds.  Behold me!  In my country I
 am called Smip.  My country is abandoned, my name is defiled,
 because I pursue around the world what really belongs to me.
 You are steadfast as the trees because you do not believe.
 I am as fickle as the tempest because I do believe.
-I do believe in my own house, which I shall find again.
+I do believe in my own [[house]], which I shall find again.
 And at the last remaineth the green lantern and the red post.'
 
 "I said to him:  `At the last remaineth only wisdom.'
@@ -644,14 +644,14 @@ house because he could no longer bear to be away from it.'
 "`It certainly sounds paradoxical,' I said.
 
 "`I heard my wife and children talking and saw them moving
-about the room,' he continued, `and all the time I knew
-they were walking and talking in another house thousands
+about the room,' he continued, `and all the [[Time|time]] I knew
+they were walking and talking in another [[house]] thousands
 of miles away, under the light of different skies, and beyond
-the series of the seas.  I loved them with a devouring love,
-because they seemed not only distant but unattainable.
+the series of the seas.  I loved them with a devouring [[Love|love]],
+because they seemed not only distant but [[Unattainable|unattainable]].
 Never did human creatures seem so dear and so desirable:
-but I seemed like a cold ghost; therefore I cast off
-their dust from my feet for a testimony.  Nay, I did more.
+but I seemed like a cold [[Ghost|ghost]]; therefore I cast off
+their [[Dust|dust]] from my feet for a testimony.  Nay, I did more.
 I spurned the world under my feet so that it swung full circle
 like a treadmill.'
 
@@ -659,7 +659,7 @@ like a treadmill.'
 Your speech is English, yet you are coming from the west.'
 
 "`My pilgrimage is not yet accomplished,' he replied sadly.
-`I have become a pilgrim to cure myself of being an exile.'
+`I have become a [[Pilgrim|pilgrim]] to cure myself of being an [[Exile|exile]].'
 
 "Something in the word `pilgrim' awoke down in the roots
 of my ruinous experience memories of what my fathers had
@@ -678,7 +678,7 @@ out beyond the Green Finger into the darkening void.
 leaning on his grassy pole.  `I think that must be the reason,'
 he said--`the secret of this life of man, so ecstatic and so unappeased.
 But I think there is more to be said.  I think God has given us
-the love of special places, of a hearth and of a native land,
+the [[Love|love]] of special places, of a hearth and of a native land,
 for a good reason.'
 
 "`I dare say,' I said.  `What reason?'
@@ -688,35 +688,35 @@ for a good reason.'
 
 "`What do you mean?'  I demanded.
 
-"`Eternity,' he said in his harsh voice, `the largest of the idols--
+"`[[Eternity]],' he said in his harsh voice, `the largest of the idols--
 the mightiest of the rivals of God.'
 
 "`You mean pantheism and infinity and all that,' I suggested.
 
-"`I mean,' he said with increasing vehemence, `that if there be a house
+"`I mean,' he said with increasing vehemence, `that if there be a [[house]]
 for me in heaven it will either have a green lamp-post and a hedge,
 or something quite as positive and personal as a green lamp-post
-and a hedge.  I mean that God bade me love one spot and serve it,
+and a hedge.  I mean that God bade me [[Love|love]] one spot and serve it,
 and do all things however wild in praise of it, so that this one spot
 might be a witness against all the infinities and the sophistries,
 that Paradise is somewhere and not anywhere, is something and not anything.
-And I would not be so very much surprised if the house in heaven had
+And I would not be so very much surprised if the [[house]] in heaven had
 a real green lamp-post after all.'
 
 "With which he shouldered his pole and went striding down
-the perilous paths below, and left me alone with the eagles.
+the perilous paths below, and left me [[Alone|alone]] with the eagles.
 But since he went a fever of homelessness will often shake me.
 I am troubled by rainy meadows and mud cabins that I have
-never seen; and I wonder whether America will endure.--
+never seen; and I [[Wonder|wonder]] whether [[America]] will endure.--
 Yours faithfully, Louis Hara."
 
 
-After a short silence Inglewood said:  "And, finally, we desire
+After a short [[Silence|silence]] Inglewood said:  "And, finally, we [[Desire|desire]]
 to put in as evidence the following document:--
 
 
 "This is to say that I am Ruth Davis, and have been housemaid to
-Mrs. I. Smith at `The Laurels' in Croydon for the last six months.
+Mrs. I. [[smith|Smith]] at `The Laurels' in Croydon for the last six months.
 When I came the lady was alone, with two children; she was not a widow,
 but her husband was away.  She was left with plenty of money and did not
 seem disturbed about him, though she often hoped he would be back soon.
@@ -742,8 +742,8 @@ just as if he'd never seen it before."
 The room had been growing dark and drowsy; the afternoon sun sent one
 heavy shaft of powdered gold across it, which fell with an intangible
 solemnity upon the empty seat of Mary Gray, for the younger women
-had left the court before the more recent of the investigations.
-Mrs. Duke was still asleep, and Innocent Smith, looking like a large
+had left the [[Court|court]] before the more recent of the investigations.
+Mrs. Duke was still asleep, and [[Innocent]] [[smith|Smith]], looking like a large
 hunchback in the twilight, was bending closer and closer to his paper toys.
 But the five men really engaged in the controversy, and concerned not
 to convince the tribunal but to convince each other, still sat round
@@ -755,7 +755,7 @@ backwards so far as to be in direct danger of falling over,
 emitted a startling and prolonged whistle like a steam engine,
 and asserted that it was all his eye.
 
-When asked by Moon what was all his eye, he banged down behind
+When asked by [[Moon]] what was all his eye, he banged down behind
 the books again and answered with considerable excitement,
 throwing his papers about.  "All those fairy-tales you've
 been reading out," he said.  "Oh! don't talk to me!
@@ -766,12 +766,12 @@ in West 'Ampstead and not in 'Ell; and the long and the short
 of it is that some things 'appen and some things don't 'appen.
 Those are the things that don't 'appen."
 
-"I thought," said Moon gravely, "that we quite clearly explained--"
+"I thought," said [[Moon]] gravely, "that we quite clearly explained--"
 
 "Oh yes, old chap, you quite clearly explained," assented Mr. Gould
 with extraordinary volubility.  "You'd explain an elephant
 off the doorstep, you would.  I ain't a clever chap like you;
-but I ain't a born natural, Michael Moon, and when there's
+but I ain't a born natural, [[Michael]] [[Moon]], and when there's
 an elephant on my doorstep I don't listen to no explanations.
 `It's got a trunk,' I says.--`My trunk,' you says:
 `I'm fond of travellin', and a change does me good.'--`But
@@ -797,14 +797,14 @@ a bit too far-fetched, and some of it a bit too far off.
 'Ow can we test all those tales?  'Ow can we drop in and buy
 the `Pink 'Un' at the railway station at Kosky Wosky or whatever
 it was?  'Ow can we go and do a gargle at the saloon-bar on top
-of the Sierra Mountains?  But anybody can go and see Bunting's
-boarding-house at Worthing."
+of the Sierra [[Mountains]]?  But anybody can go and see Bunting's
+boarding-[[house]] at Worthing."
 
-Moon regarded him with an expression of real or assumed surprise.
+[[Moon]] regarded him with an expression of real or assumed surprise.
 
 "Any one," continued Gould, "can call on Mr. Trip."
 
-"It is a comforting thought," replied Michael with restraint;
+"It is a comforting thought," replied [[Michael]] with restraint;
 "but why should any one call on Mr. Trip?"
 
 "For just exactly the sime reason," cried the excited Moses,
@@ -813,23 +813,23 @@ reason that he should communicate with Messrs.  'Anbury and Bootle
 of Paternoster Row and with Miss Gridley's 'igh class Academy
 at 'Endon, and with old Lady Bullingdon who lives at Penge."
 
-"Again, to go at once to the moral roots of life," said Michael,
+"Again, to go at once to the moral roots of life," said [[Michael]],
 "why is it among the duties of man to communicate with old
 Lady Bullingdon who lives at Penge?"
 
 "It ain't one of the duties of man," said Gould, "nor one of his pleasures,
 either, I can tell you.  She takes the crumpet, does Lady Bullingdon
 at Penge.  But it's one of the duties of a prosecutor pursuin'
-the innocent, blameless butterfly career of your friend Smith,
+the [[Innocent|innocent]], blameless butterfly career of your friend [[smith|Smith]],
 and it's the sime with all the others I mentioned."
 
 "But why do you bring in these people here?" asked Inglewood.
 
 "Why!  Because we've got proof enough to sink a steamboat,"
 roared Moses; "because I've got the papers in my very 'and;
-because your precious Innocent is a blackguard and 'ome smasher,
+because your precious [[Innocent]] is a blackguard and 'ome smasher,
 and these are the 'omes he's smashed.  I don't set up for a 'oly man;
-but I wouldn't 'ave all those poor girls on my conscience for something.
+but I wouldn't 'ave all those poor girls on my [[Conscience|conscience]] for something.
 And I think a chap that's capable of deserting and perhaps
 killing 'em all is about capable of cracking a crib or shootin'
 an old schoolmaster--so I don't care much about the other yarns
@@ -841,5 +841,5 @@ This is really the fourth charge on the charge sheet,
 and perhaps I had better put it before you in an ordered
 and scientific manner."
 
-Nothing but a faint groan from Michael broke the silence
+Nothing but a faint groan from [[Michael]] broke the [[Silence|silence]]
 of the darkening room.

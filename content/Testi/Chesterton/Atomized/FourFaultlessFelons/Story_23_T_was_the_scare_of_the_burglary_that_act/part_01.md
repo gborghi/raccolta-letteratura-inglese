@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — T was the scare of the burglary that actually started the story towards (part 1)"
+title: "[[FourFaultlessFelons]] — T was the scare of the burglary that actually started the story towards (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -40,19 +40,19 @@ regularize the Victorian household and add even to the secretary an extra
 
 touch of gentility. But there was a difference, because the aunt, who was
 
-a Mrs. Milton-Mowbray, was given to suddenly getting back on the
+a Mrs. [[Milton]]-[[Mowbray]], was given to suddenly getting back on the
 
-high-horse and then sliding off again, while her niece, with a more
+high-[[Horse|horse]] and then sliding off again, while her niece, with a more
 
 negative dignity, trod the dusty path of duty as a proud pedestrian. On
 
-this occasion Millicent Milton had been engaged all the evening in
+this occasion Millicent [[Milton]] had been engaged all the evening in
 
 soothing her aunt, and after that experience, felt she would like to
 
-spend a little time in soothing herself. Instead of going to bed, she
+spend a little [[Time|time]] in soothing herself. Instead of going to bed, she
 
-took up a book and began reading by the dying fire. She read on till it
+took up a book and began reading by the dying [[Fire|fire]]. She read on till it
 
 was very late, without realizing that everybody else had presumably
 
@@ -68,7 +68,7 @@ in the angle between the two rooms stood the safe.
 
 
 
-She had the best sort of quite unconscious courage, and she simply walked
+She had the best sort of quite unconscious [[Courage|courage]], and she simply walked
 
 out into the hall and looked. What she saw astounded her by being so
 
@@ -100,7 +100,7 @@ here?"
 
 
 
-"Well, I'm not climbing the Matterhorn or playing the trombone at
+"[[Well]], I'm not climbing the Matterhorn or playing the trombone at
 
 present," grunted the man in a gruff and distant voice. "I suppose it's
 
@@ -108,15 +108,15 @@ plain enough what I am doing."
 
 
 
-Then, after a silence, he resumed in a warning tone: "Don't you go saying
+Then, after a [[Silence|silence]], he resumed in a warning tone: "Don't you go saying
 
 that brooch thing there is yours, because it isn't. I didn't even get it
 
 out of this safe; let's say I lifted it off another family earlier in the
 
-evening. It's a pretty thing-sort of imitation fourteenth century, with
+evening. It's a pretty thing-sort of [[Imitation|imitation]] fourteenth century, with
 
-Amor Vincit Omnia on it. It's all very well to say that love conquers
+Amor Vincit Omnia on it. It's all very [[Well|well]] to say that [[Love|love]] conquers
 
 everything, and force is no remedy and all that. But I've forced this
 
@@ -128,7 +128,7 @@ There was something rather paralysing about the way in which the burglar
 
 placidly went on talking without even looking round; and she thought it a
 
-little odd that he should know the meaning of the Latin inscription,
+little odd that he should know the meaning of the Latin [[Inscription|inscription]],
 
 simple as it was. Nor could she bring herself to scream or run or stop
 
@@ -148,7 +148,7 @@ extraordinary creature called the English Lady. You can pick her out in
 
 foreign hotels and pensions. The Prioress was nicer than most of those,
 
-but she's got all the marks; fussing about her little dogs; being
+but she's got all the marks; fussing about her little [[dogs]]; being
 
 particular about table-manners; not liking mice killed; the whole darned
 
@@ -168,7 +168,7 @@ they are getting rare?"
 
 
 
-Miss Millicent Milton probably did possess, like the Prioress of Chaucer,
+Miss Millicent [[Milton]] probably did possess, like the Prioress of Chaucer,
 
 the more gracious virtues of the English Lady. But it must in honesty be
 
@@ -182,7 +182,7 @@ begun to talk about English literature in the tones of her own class, her
 
 whole judgement was turned upside down, and she had a chaotic idea that
 
-he could not really be a criminal at all. In abstract logic, she would
+he could not really be a criminal at all. In abstract [[logic]], she would
 
 have been obliged to admit that it ought not to make any difference. In
 
@@ -202,6 +202,6 @@ conveyed by the very vague colloquialisms which such people employ; as
 
 that he wasn't exactly a real burglar, or that it was "Quite Different",
 
-or that there was "some mistake". What she really meant (to the grave
+or that there was "some mistake". What she really meant (to the [[Grave|grave]]
 
 disadvantage of all her culture and her world) was that there were some

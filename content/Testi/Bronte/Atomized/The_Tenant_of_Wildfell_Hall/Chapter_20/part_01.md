@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 20 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 20 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,27 +20,27 @@ tags:
 
 
 
-September 24th.—In the morning I rose, light and cheerful—nay,
+September 24th.—In the morning I [[Rose|rose]], light and cheerful—nay,
 
 intensely happy. The hovering cloud cast over me by my aunt’s views,
 
-and by the fear of not obtaining her consent, was lost in the bright
+and by the [[Fear|fear]] of not obtaining her consent, was lost in the bright
 
 effulgence of my own hopes, and the too delightful consciousness of
 
-requited love. It was a splendid morning; and I went out to enjoy it,
+requited [[Love|love]]. It was a splendid morning; and I went out to enjoy it,
 
 in a quiet ramble, in company with my own blissful thoughts. The dew
 
 was on the grass, and ten thousand gossamers were waving in the breeze;
 
-the happy red-breast was pouring out its little soul in song, and my
+the happy red-breast was pouring out its little [[Soul|soul]] in [[Song|song]], and my
 
 heart overflowed with silent hymns of gratitude and praise to heaven.
 
 
 
-But I had not wandered far before my solitude was interrupted by the
+But I had not wandered far before my [[Solitude|solitude]] was interrupted by the
 
 only person that could have disturbed my musings, at that moment,
 
@@ -48,13 +48,13 @@ without being looked upon as an unwelcome intruder: Mr. Huntingdon came
 
 suddenly upon me. So unexpected was the apparition, that I might have
 
-thought it the creation of an over-excited imagination, had the sense
+thought it the creation of an over-excited [[Imagination|imagination]], had the sense
 
-of sight alone borne witness to his presence; but immediately I felt
+of sight [[Alone|alone]] borne witness to his presence; but immediately I felt
 
 his strong arm round my waist and his warm kiss on my cheek, while his
 
-keen and gleeful salutation, “My own Helen!” was ringing in my ear.
+keen and gleeful salutation, “My own [[Helen]]!” was ringing in my ear.
 
 
 
@@ -88,11 +88,11 @@ My father, you know, was something of a miser, and in his latter days
 
 especially saw no pleasure in life but to amass riches; and so it is no
 
-wonder that his son should make it his chief delight to spend them,
+[[Wonder|wonder]] that his son should make it his chief delight to spend them,
 
 which was accordingly the case, until my acquaintance with you, dear
 
-Helen, taught me other views and nobler aims. And the very idea of
+[[Helen]], taught me other views and nobler aims. And the very idea of
 
 having you to care for under my roof would force me to moderate my
 
@@ -118,15 +118,15 @@ She knows better than to value worldly wealth above its price.”
 
 
 
-“What, a man of ‘decided piety’?—ahem!—Well, come, I’ll manage that
+“What, a man of ‘decided piety’?—ahem!—[[Well]], come, I’ll manage that
 
-too! It’s Sunday to-day, isn’t it? I’ll go to church morning,
+too! It’s [[Sunday]] to-day, isn’t it? I’ll go to church morning,
 
 afternoon, and evening, and comport myself in such a godly sort that
 
-she shall regard me with admiration and sisterly love, as a brand
+she shall regard me with admiration and sisterly [[Love|love]], as a brand
 
-plucked from the burning. I’ll come home sighing like a furnace, and
+plucked from the burning. I’ll come [[Home|home]] sighing like a furnace, and
 
 full of the savour and unction of dear Mr. Blatant’s discourse—”
 
@@ -136,7 +136,7 @@ full of the savour and unction of dear Mr. Blatant’s discourse—”
 
 
 
-“Is Mr. Leighton a ‘sweet preacher,’ Helen—a ‘dear, delightful,
+“Is Mr. Leighton a ‘sweet preacher,’ [[Helen]]—a ‘dear, delightful,
 
 heavenly-minded man’?”
 
@@ -150,7 +150,7 @@ for you.”
 
 “Oh, I forgot, you are a saint, too. I crave your pardon, dearest—but
 
-don’t call me Mr. Huntingdon; my name is Arthur.”
+don’t call me Mr. Huntingdon; my name is [[arthur|Arthur]].”
 
 
 
@@ -168,19 +168,19 @@ such a subject.”
 
 sigh. “Now,” resumed he, after a momentary pause, “let us talk about
 
-something else. And come nearer to me, Helen, and take my arm; and then
+something else. And come nearer to me, [[Helen]], and take my arm; and then
 
-I’ll let you alone. I can’t be quiet while I see you walking there.”
+I’ll let you [[Alone|alone]]. I can’t be quiet while I see you walking there.”
 
 
 
-I complied; but said we must soon return to the house.
+I complied; but said we must soon return to the [[house]].
 
 
 
 “No one will be down to breakfast yet, for long enough,” he answered.
 
-“You spoke of your guardians just now, Helen, but is not your father
+“You spoke of your guardians just now, [[Helen]], but is not your father
 
 still living?”
 
@@ -238,13 +238,13 @@ possession.
 
 
 
-I now insisted upon retracing our steps to the house; but we walked
+I now insisted upon retracing our steps to the [[house]]; but we walked
 
 slowly, and went on talking as we proceeded. I need not repeat all we
 
 said: let me rather refer to what passed between my aunt and me, after
 
-breakfast, when Mr. Huntingdon called my uncle aside, no doubt to make
+breakfast, when Mr. Huntingdon called my uncle aside, no [[Doubt|doubt]] to make
 
 his proposals, and she beckoned me into another room, where she once
 

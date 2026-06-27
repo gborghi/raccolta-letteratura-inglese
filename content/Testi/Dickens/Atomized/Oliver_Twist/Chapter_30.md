@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 30"
+title: "[[Oliver Twist]] — Chapter 30"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
  CHAPTER XXX.
-RELATES WHAT OLIVER’S NEW VISITORS THOUGHT OF HIM
+RELATES WHAT [[Oliver|OLIVER]]’S NEW VISITORS THOUGHT OF HIM
 
 
 With many loquacious assurances that they would be agreeably surprised
@@ -32,66 +32,66 @@ order.”
 Stepping before them, he looked into the room. Motioning them to
 advance, he closed the door when they had entered; and gently drew back
 the curtains of the bed. Upon it, in lieu of the dogged, black-visaged
-ruffian they had expected to behold, there lay a mere child: worn with
-pain and exhaustion, and sunk into a deep sleep. His wounded arm, bound
+ruffian they had expected to behold, there lay a mere [[Child|child]]: worn with
+[[Pain|pain]] and exhaustion, and sunk into a deep [[Sleep|sleep]]. His wounded arm, bound
 and splintered up, was crossed upon his breast; his head reclined upon
 the other arm, which was half hidden by his long hair, as it streamed
 over the pillow.
 
 The honest gentleman held the curtain in his hand, and looked on, for a
-minute or so, in silence. Whilst he was watching the patient thus, the
+minute or so, in [[Silence|silence]]. Whilst he was watching the patient thus, the
 younger lady glided softly past, and seating herself in a chair by the
-bedside, gathered Oliver’s hair from his face. As she stooped over him,
-her tears fell upon his forehead.
+bedside, gathered [[Oliver]]’s hair from his face. As she stooped over him,
+her [[Tears|tears]] fell upon his forehead.
 
-The boy stirred, and smiled in his sleep, as though these marks of pity
-and compassion had awakened some pleasant dream of a love and affection
+The boy stirred, and smiled in his [[Sleep|sleep]], as though these marks of pity
+and compassion had awakened some pleasant dream of a [[Love|love]] and affection
 he had never known. Thus, a strain of gentle music, or the rippling of
-water in a silent place, or the odour of a flower, or the mention of a
+[[Water|water]] in a silent place, or the odour of a flower, or the mention of a
 familiar word, will sometimes call up sudden dim remembrances of scenes
 that never were, in this life; which vanish like a breath; which some
-brief memory of a happier existence, long gone by, would seem to have
+brief [[Memory|memory]] of a happier existence, long gone by, would seem to have
 awakened; which no voluntary exertion of the mind can ever recall.
 
-“What can this mean?” exclaimed the elder lady. “This poor child can
+“What can this mean?” exclaimed the elder lady. “This poor [[Child|child]] can
 never have been the pupil of robbers!”
 
 “Vice,” said the surgeon, replacing the curtain, “takes up her abode in
 many temples; and who can say that a fair outside shall not enshrine
 her?”
 
-“But at so early an age!” urged Rose.
+“But at so early an age!” urged [[Rose]].
 
 “My dear young lady,” rejoined the surgeon, mournfully shaking his
-head; “crime, like death, is not confined to the old and withered
-alone. The youngest and fairest are too often its chosen victims.”
+head; “crime, like [[Death|death]], is not confined to the old and withered
+[[Alone|alone]]. The youngest and fairest are too often its chosen victims.”
 
 “But, can you—oh! can you really believe that this delicate boy has
 been the voluntary associate of the worst outcasts of society?” said
-Rose.
+[[Rose]].
 
 The surgeon shook his head, in a manner which intimated that he feared
 it was very possible; and observing that they might disturb the
 patient, led the way into an adjoining apartment.
 
-“But even if he has been wicked,” pursued Rose, “think how young he is;
-think that he may never have known a mother’s love, or the comfort of a
-home; that ill-usage and blows, or the want of bread, may have driven
-him to herd with men who have forced him to guilt. Aunt, dear aunt, for
-mercy’s sake, think of this, before you let them drag this sick child
-to a prison, which in any case must be the grave of all his chances of
-amendment. Oh! as you love me, and know that I have never felt the want
+“But even if he has been wicked,” pursued [[Rose]], “think how young he is;
+think that he may never have known a mother’s [[Love|love]], or the comfort of a
+[[Home|home]]; that ill-usage and blows, or the want of bread, may have driven
+him to herd with men who have forced him to [[Guilt|guilt]]. Aunt, dear aunt, for
+[[Mercy|mercy]]’s sake, think of this, before you let them drag this sick [[Child|child]]
+to a [[Prison|prison]], which in any case must be the [[Grave|grave]] of all his chances of
+amendment. Oh! as you [[Love|love]] me, and know that I have never felt the want
 of parents in your goodness and affection, but that I might have done
 so, and might have been equally helpless and unprotected with this poor
-child, have pity upon him before it is too late!”
+[[Child|child]], have pity upon him before it is too late!”
 
-“My dear love,” said the elder lady, as she folded the weeping girl to
+“My dear [[Love|love]],” said the elder lady, as she folded the weeping girl to
 her bosom, “do you think I would harm a hair of his head?”
 
-“Oh, no!” replied Rose, eagerly.
+“Oh, no!” replied [[Rose]], eagerly.
 
 “No, surely,” said the old lady; “my days are drawing to their close:
-and may mercy be shown to me as I show it to others! What can I do to
+and may [[Mercy|mercy]] be shown to me as I show it to others! What can I do to
 save him, sir?”
 
 “Let me think, ma’am,” said the doctor; “let me think.”
@@ -108,27 +108,27 @@ fellow and an old servant, I know; but you can make it up to him in a
 thousand ways, and reward him for being such a good shot besides. You
 don’t object to that?”
 
-“Unless there is some other way of preserving the child,” replied Mrs.
+“Unless there is some other way of preserving the [[Child|child]],” replied Mrs.
 Maylie.
 
 “There is no other,” said the doctor. “No other, take my word for it.”
 
-“Then my aunt invests you with full power,” said Rose, smiling through
-her tears; “but pray don’t be harder upon the poor fellows than is
+“Then my aunt invests you with full power,” said [[Rose]], smiling through
+her [[Tears|tears]]; “but pray don’t be harder upon the poor fellows than is
 indispensably necessary.”
 
 “You seem to think,” retorted the doctor, “that everybody is disposed
-to be hard-hearted today, except yourself, Miss Rose. I only hope, for
+to be hard-hearted today, except yourself, Miss [[Rose]]. I only [[Hope|hope]], for
 the sake of the rising male sex generally, that you may be found in as
 vulnerable and soft-hearted a mood by the first eligible young fellow
 who appeals to your compassion; and I wish I were a young fellow, that
 I might avail myself, on the spot, of such a favourable opportunity for
 doing so, as the present.”
 
-“You are as great a boy as poor Brittles himself,” returned Rose,
+“You are as great a boy as poor Brittles himself,” returned [[Rose]],
 blushing.
 
-“Well,” said the doctor, laughing heartily, “that is no very difficult
+“[[Well]],” said the doctor, laughing heartily, “that is no very difficult
 matter. But to return to this boy. The great point of our agreement is
 yet to come. He will wake in an hour or so, I dare say; and although I
 have told that thick-headed constable-fellow downstairs that he musn’t
@@ -140,53 +140,53 @@ is a real and thorough bad one (which is more than possible), he shall
 be left to his fate, without any farther interference on my part, at
 all events.”
 
-“Oh no, aunt!” entreated Rose.
+“Oh no, aunt!” entreated [[Rose]].
 
 “Oh yes, aunt!” said the doctor. “Is it a bargain?”
 
-“He cannot be hardened in vice,” said Rose; “It is impossible.”
+“He cannot be hardened in vice,” said [[Rose]]; “It is impossible.”
 
 “Very good,” retorted the doctor; “then so much the more reason for
 acceding to my proposition.”
 
 Finally the treaty was entered into; and the parties thereunto sat down
-to wait, with some impatience, until Oliver should awake.
+to wait, with some impatience, until [[Oliver]] should awake.
 
 The patience of the two ladies was destined to undergo a longer trial
 than Mr. Losberne had led them to expect; for hour after hour passed
-on, and still Oliver slumbered heavily. It was evening, indeed, before
+on, and still [[Oliver]] slumbered heavily. It was evening, indeed, before
 the kind-hearted doctor brought them the intelligence, that he was at
 length sufficiently restored to be spoken to. The boy was very ill, he
-said, and weak from the loss of blood; but his mind was so troubled
+said, and weak from the loss of [[Blood|blood]]; but his mind was so troubled
 with anxiety to disclose something, that he deemed it better to give
 him the opportunity, than to insist upon his remaining quiet until next
 morning: which he should otherwise have done.
 
-The conference was a long one. Oliver told them all his simple history,
-and was often compelled to stop, by pain and want of strength. It was a
+The conference was a long one. [[Oliver]] told them all his simple [[history]],
+and was often compelled to stop, by [[Pain|pain]] and want of strength. It was a
 solemn thing, to hear, in the darkened room, the feeble voice of the
-sick child recounting a weary catalogue of evils and calamities which
+sick [[Child|child]] recounting a weary catalogue of evils and calamities which
 hard men had brought upon him. Oh! if when we oppress and grind our
 fellow-creatures, we bestowed but one thought on the dark evidences of
 human error, which, like dense and heavy clouds, are rising, slowly it
 is true, but not less surely, to Heaven, to pour their after-vengeance
-on our heads; if we heard but one instant, in imagination, the deep
-testimony of dead men’s voices, which no power can stifle, and no pride
-shut out; where would be the injury and injustice, the suffering,
+on our heads; if we heard but one instant, in [[Imagination|imagination]], the deep
+testimony of dead men’s voices, which no power can stifle, and no [[Pride|pride]]
+shut out; where would be the injury and injustice, the [[Suffering|suffering]],
 misery, cruelty, and wrong, that each day’s life brings with it!
 
-Oliver’s pillow was smoothed by gentle hands that night; and loveliness
+[[Oliver]]’s pillow was smoothed by gentle hands that [[Night|night]]; and loveliness
 and virtue watched him as he slept. He felt calm and happy, and could
 have died without a murmur.
 
-The momentous interview was no sooner concluded, and Oliver composed to
+The momentous interview was no sooner concluded, and [[Oliver]] composed to
 rest again, than the doctor, after wiping his eyes, and condemning them
 for being weak all at once, betook himself downstairs to open upon Mr.
 Giles. And finding nobody about the parlours, it occurred to him, that
 he could perhaps originate the proceedings with better effect in the
 kitchen; so into the kitchen he went.
 
-There were assembled, in that lower house of the domestic parliament,
+There were assembled, in that lower [[house]] of the domestic parliament,
 the women-servants, Mr. Brittles, Mr. Giles, the tinker (who had
 received a special invitation to regale himself for the remainder of
 the day, in consideration of his services), and the constable. The
@@ -194,7 +194,7 @@ latter gentleman had a large staff, a large head, large features, and
 large half-boots; and he looked as if he had been taking a
 proportionate allowance of ale—as indeed he had.
 
-The adventures of the previous night were still under discussion; for
+The adventures of the previous [[Night|night]] were still under discussion; for
 Mr. Giles was expatiating upon his presence of mind, when the doctor
 entered; Mr. Brittles, with a mug of ale in his hand, was corroborating
 everything, before his superior said it.
@@ -209,14 +209,14 @@ Brittles headed a low murmur, by which the ladies and gentlemen
 generally were understood to express the gratification they derived
 from Mr. Giles’s condescension. Mr. Giles looked round with a
 patronising air, as much as to say that so long as they behaved
-properly, he would never desert them.
+properly, he would never [[Desert|desert]] them.
 
 “How is the patient tonight, sir?” asked Giles.
 
 “So-so”; returned the doctor. “I am afraid you have got yourself into a
 scrape there, Mr. Giles.”
 
-“I hope you don’t mean to say, sir,” said Mr. Giles, trembling, “that
+“I [[Hope|hope]] you don’t mean to say, sir,” said Mr. Giles, trembling, “that
 he’s going to die. If I thought it, I should never be happy again. I
 wouldn’t cut a boy off: no, not even Brittles here; not for all the
 plate in the county, sir.”
@@ -224,7 +224,7 @@ plate in the county, sir.”
 “That’s not the point,” said the doctor, mysteriously. “Mr. Giles, are
 you a Protestant?”
 
-“Yes, sir, I hope so,” faltered Mr. Giles, who had turned very pale.
+“Yes, sir, I [[Hope|hope]] so,” faltered Mr. Giles, who had turned very pale.
 
 “And what are _you_, boy?” said the doctor, turning sharply upon
 Brittles.
@@ -234,7 +234,7 @@ same as Mr. Giles, sir.”
 
 “Then tell me this,” said the doctor, “both of you, both of you! Are
 you going to take upon yourselves to swear, that that boy upstairs is
-the boy that was put through the little window last night? Out with it!
+the boy that was put through the little [[Window|window]] last [[Night|night]]? Out with it!
 Come! We are prepared for you!”
 
 The doctor, who was universally considered one of the best-tempered
@@ -250,17 +250,17 @@ utmost acuteness. “Something may come of this before long.”
 The constable looked as wise as he could, and took up his staff of
 office: which had been reclining indolently in the chimney-corner.
 
-“It’s a simple question of identity, you will observe,” said the
+“It’s a simple question of [[Identity|identity]], you will observe,” said the
 doctor.
 
 “That’s what it is, sir,” replied the constable, coughing with great
 violence; for he had finished his ale in a hurry, and some of it had
 gone the wrong way.
 
-“Here’s the house broken into,” said the doctor, “and a couple of men
+“Here’s the [[house]] broken into,” said the doctor, “and a couple of men
 catch one moment’s glimpse of a boy, in the midst of gunpowder smoke,
 and in all the distraction of alarm and darkness. Here’s a boy comes to
-that very same house, next morning, and because he happens to have his
+that very same [[house]], next morning, and because he happens to have his
 arm tied up, these men lay violent hands upon him—by doing which, they
 place his life in great danger—and swear he is the thief. Now, the
 question is, whether these men are justified by the fact; if not, in
@@ -288,7 +288,7 @@ the same moment, the sound of wheels.
 “What?” cried the doctor.
 
 “Yes,” replied Brittles; “I sent a message up by the coachman, and I
-only wonder they weren’t here before, sir.”
+only [[Wonder|wonder]] they weren’t here before, sir.”
 
 “You did, did you? Then confound your—slow coaches down here; that’s
 all,” said the doctor, walking away.

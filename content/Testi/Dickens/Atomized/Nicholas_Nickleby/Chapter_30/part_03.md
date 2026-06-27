@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 30 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 30 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 Lightening the way with such pleasantry as this, they arrived at the
-tailor’s house in no time; and here they made quite a little party,
+tailor’s [[house]] in no [[Time|time]]; and here they made quite a little party,
 there being present besides Mr. Lillyvick and Mrs. Lillyvick, not only
 Miss Snevellicci’s mama, but her papa also. And an uncommonly fine man
 Miss Snevellicci’s papa was, with a hook nose, and a white forehead, and
@@ -30,10 +30,10 @@ have you got to say to me?’
 
 Such was, and in such an attitude sat Miss Snevellicci’s papa, who had
 been in the profession ever since he had first played the ten-year-old
-imps in the Christmas pantomimes; who could sing a little, dance a
+imps in the Christmas pantomimes; who could sing a little, [[Dance|dance]] a
 little, fence a little, act a little, and do everything a little, but
 not much; who had been sometimes in the ballet, and sometimes in the
-chorus, at every theatre in London; who was always selected in virtue
+[[Chorus|chorus]], at every theatre in [[London]]; who was always selected in virtue
 of his figure to play the military visitors and the speechless noblemen;
 who always wore a smart dress, and came on arm-in-arm with a smart lady
 in short petticoats,--and always did it too with such an air that people
@@ -47,7 +47,7 @@ the background.
 
 To these good people Nicholas was presented with much formality. The
 introduction being completed, Miss Snevellicci’s papa (who was scented
-with rum-and-water) said that he was delighted to make the acquaintance
+with rum-and-[[Water|water]]) said that he was delighted to make the acquaintance
 of a gentleman so highly talented; and furthermore remarked, that there
 hadn’t been such a hit made--no, not since the first appearance of his
 friend Mr. Glavormelly, at the Coburg.
@@ -62,16 +62,16 @@ papa. ‘Then you have never seen acting yet. If he had lived--’
 ‘Oh, he is dead, is he?’ interrupted Nicholas.
 
 ‘He is,’ said Mr. Snevellicci, ‘but he isn’t in Westminster Abbey, more’s
-the shame. He was a--. Well, no matter. He is gone to that bourne from
-whence no traveller returns. I hope he is appreciated THERE.’
+the shame. He was a--. [[Well]], no matter. He is gone to that bourne from
+whence no traveller returns. I [[Hope|hope]] he is appreciated THERE.’
 
 So saying Miss Snevellicci’s papa rubbed the tip of his nose with a very
 yellow silk handkerchief, and gave the company to understand that these
 recollections overcame him.
 
-‘Well, Mr. Lillyvick,’ said Nicholas, ‘and how are you?’
+‘[[Well]], Mr. Lillyvick,’ said Nicholas, ‘and how are you?’
 
-‘Quite well, sir,’ replied the collector. ‘There is nothing like the
+‘Quite [[Well|well]], sir,’ replied the collector. ‘There is nothing like the
 married state, sir, depend upon it.’
 
 ‘Indeed!’ said Nicholas, laughing.
@@ -97,16 +97,16 @@ many more such, Mr. Lillyvick jerked his elbow into Nicholas’s side, and
 chuckled till his face became quite purple in the attempt to keep down
 his satisfaction.
 
-By this time the cloth had been laid under the joint superintendence of
+By this [[Time|time]] the cloth had been laid under the joint superintendence of
 all the ladies, upon two tables put together, one being high and narrow,
 and the other low and broad. There were oysters at the top, sausages
-at the bottom, a pair of snuffers in the centre, and baked potatoes
+at the [[Bottom|bottom]], a pair of snuffers in the centre, and baked potatoes
 wherever it was most convenient to put them. Two additional chairs were
 brought in from the bedroom: Miss Snevellicci sat at the head of the
 table, and Mr. Lillyvick at the foot; and Nicholas had not only
-the honour of sitting next Miss Snevellicci, but of having Miss
+the [[Honour|honour]] of sitting next Miss Snevellicci, but of having Miss
 Snevellicci’s mama on his right hand, and Miss Snevellicci’s papa over
-the way. In short, he was the hero of the feast; and when the table was
+the way. In short, he was the [[Hero|hero]] of the feast; and when the table was
 cleared and something warm introduced, Miss Snevellicci’s papa got up
 and proposed his health in a speech containing such affecting allusions
 to his coming departure, that Miss Snevellicci wept, and was compelled
@@ -117,7 +117,7 @@ the bedroom. ‘Say, when she comes back, that she exerts herself too
 much.’
 
 Miss Ledrook eked out this speech with so many mysterious nods and
-frowns before she shut the door again, that a profound silence came upon
+frowns before she shut the door again, that a profound [[Silence|silence]] came upon
 all the company, during which Miss Snevellicci’s papa looked very
 big indeed--several sizes larger than life--at everybody in turn, but
 particularly at Nicholas, and kept on perpetually emptying his tumbler

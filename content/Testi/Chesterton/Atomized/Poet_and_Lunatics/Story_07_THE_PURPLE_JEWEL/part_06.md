@@ -1,5 +1,5 @@
 ---
-title: "Poet and Lunatics — THE PURPLE JEWEL (part 6)"
+title: "Poet and Lunatics — THE PURPLE [[Jewel|JEWEL]] (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Poet-and-Lunatics-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Mr. Hatt, the secretary, indicated that, had he nourished such a desire,
+Mr. Hatt, the secretary, indicated that, had he nourished such a [[Desire|desire]],
 his appearance on the historical scene would have lacked something
 of true American hustle and punctuality.
 
@@ -24,11 +24,11 @@ the hundredth husband of an Egyptian cat.  What could have made
 a man of real intellect, like that fellow's brother, break himself
 all up for a woman like Hertha Hathaway?"
 
-"Well, I'm all with you there," said Hatt.  "I didn't say
+"[[Well]], I'm all with you there," said Hatt.  "I didn't say
 anything about the woman, because it wasn't my business;
 but I tell you, sir, she was just blue ruin and vitriol.
 Only the fact that I didn't mention her seems to have set your
-friend the solicitor off on another dance of dark suspicions.
+friend the solicitor off on another [[Dance|dance]] of dark suspicions.
 I swear he fancies she and I were mixed up in something;
 and probably had to do with the disappearance of Phineas Salt."
 
@@ -52,13 +52,13 @@ but they all sensed something more sinister, as of the bearer
 of the bowstring.
 
 "Where is Mr. Joseph Salt?" he asked.  "He said he would be
-home at eleven."
+[[Home|home]] at eleven."
 
 Gale smiled faintly and began to fiddle with the funny little
 ornaments on the mantelpiece.  "He is saying farewell," he said.
 "Sometimes it is rather a long word to say."
 
-"We must begin without him," said Gunter.  "Perhaps it is just as well."
+"We must begin without him," said Gunter.  "Perhaps it is just as [[Well|well]]."
 
 "You mean you have bad news for him?" asked the doctor,
 lowering his voice.  "Have you the last news of his brother?"
@@ -74,7 +74,7 @@ got to explain?"
 
 He picked up something from the mantelpiece and put it on
 the central table.  It was a very absurd object to be stared
-at thus, as an exhibit in a grim museum of suicide or crime.
+at thus, as an exhibit in a grim museum of [[suicide]] or crime.
 It was a cheap, childish, pink and white mug, inscribed in large
 purple letters, "A Present from Margate."
 
@@ -82,15 +82,15 @@ purple letters, "A Present from Margate."
 into the depths of this remarkable receptacle.  "This year.
 And we're still at the beginning of the year, you know."
 
-"Well, it may be one of the things," said the solicitor.
+"[[Well]], it may be one of the things," said the solicitor.
 "But I have got some other Presents from Margate."
 
 He took a sheaf of papers from his breast-pocket and laid them
 out thoughtfully on the table before he spoke.
 
-"Understand, to begin with, that there really is a riddle and
+"Understand, to begin with, that there really is a [[Riddle|riddle]] and
 the man really has vanished.  Don't imagine a man can easily melt
-into a modern crowd; the police have traced his car on the road
+into a modern crowd; the police have traced his car on the [[Road|road]]
 and could have traced him, if he had left it.  Don't imagine anybody
 can simply drive down country roads throwing corpses out of cars.
 There are always a lot of fussy people about, who notice a little
@@ -102,11 +102,11 @@ but as it were more dry-throated, coughing and stammering now
 with a real eagerness.
 
 "Have you really found out?" he asked.  "Do you know all about
-the Purple Jewel?"
+the Purple [[Jewel]]?"
 
 "Look here!" cried the doctor, as if with a generous indignation;
 "this is getting too thick.  I don't mind being in a mystery, but it
-needn't be a melodrama.  Don't say that we are after the Rajah's Ruby.
+needn't be a [[Melodrama|melodrama]].  Don't say that we are after the Rajah's Ruby.
 Don't say, oh, don't say, that it is in the eye of the god Vishnu."
 
 "No," replied the poet.  "It is in the eye of the Beholder."
@@ -123,9 +123,9 @@ As he did so he said:
 have been rather fruitful.  We have found a witness, a photographer
 on Margate beach, who testifies to having seen a man corresponding
 to Phineas Salt, burly and with a big red beard and long hair,
-who stood for some time on an isolated crag of white chalk,
+who stood for some [[Time|time]] on an isolated crag of white [[chalk]],
 which stands out from the cliff, and looked down at the crowds below.
-Then he descended by a rude stairway cut in the chalk and,
+Then he descended by a rude stairway cut in the [[chalk]] and,
 crossing a crowded part of the beach, spoke to another man
 who seemed to be an ordinary clerk or commonplace holiday-maker;
 and, after a little talk, they went up to the row of bathing-sheds,
@@ -142,7 +142,7 @@ rising eyebrows.  The photograph represented a sturdy man with a bulldog
 jaw but rather blank eyes, with his head lifted, apparently staring
 out to sea.  He wore very light holiday clothes, but of a clumsy,
 unfashionable cut; and, so far as he could be seen under the abrupt
-shadow and rather too jaunty angle of his stiff straw hat,
+[[Shadow|shadow]] and rather too jaunty angle of his stiff straw hat,
 his hair was of some light colour.  Only, as it happened, the doctor
 had no need to wait for the development of colour photography.
 For he knew exactly what colour it was.  He knew it was a sort

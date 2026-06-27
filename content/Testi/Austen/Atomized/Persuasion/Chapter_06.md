@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 6"
+title: "[[Persuasion]] — Chapter 6"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Persuasion-(Austen)"
@@ -52,29 +52,29 @@ Anne, Sir Walter and your sister are gone; and what part of Bath do you
 
 think they will settle in?” and this, without much waiting for an
 
-answer; or in the young ladies’ addition of, “I hope _we_ shall be in
+answer; or in the young ladies’ addition of, “I [[Hope|hope]] _we_ shall be in
 
-Bath in the winter; but remember, papa, if we do go, we must be in a
+Bath in the [[Winter|winter]]; but remember, papa, if we do go, we must be in a
 
-good situation: none of your Queen Squares for us!” or in the anxious
+good situation: none of your [[Queen]] Squares for us!” or in the anxious
 
-supplement from Mary, of—“Upon my word, I shall be pretty well off,
+supplement from Mary, of—“Upon my word, I shall be pretty [[Well|well]] off,
 
 when you are all gone away to be happy at Bath!”
 
 
 
-She could only resolve to avoid such self-delusion in future, and think
+She could only resolve to avoid such [[Self|self]]-delusion in future, and think
 
 with heightened gratitude of the extraordinary blessing of having one
 
-such truly sympathising friend as Lady Russell.
+such truly sympathising friend as [[Lady Russell]].
 
 
 
 The Mr Musgroves had their own game to guard, and to destroy, their own
 
-horses, dogs, and newspapers to engage them, and the females were fully
+horses, [[dogs]], and newspapers to engage them, and the females were fully
 
 occupied in all the other common subjects of housekeeping, neighbours,
 
@@ -88,7 +88,7 @@ one she was now transplanted into. With the prospect of spending at
 
 least two months at Uppercross, it was highly incumbent on her to
 
-clothe her imagination, her memory, and all her ideas in as much of
+clothe her [[Imagination|imagination]], her [[Memory|memory]], and all her ideas in as much of
 
 Uppercross as possible.
 
@@ -102,7 +102,7 @@ neither was there anything among the other component parts of the
 
 cottage inimical to comfort. She was always on friendly terms with her
 
-brother-in-law; and in the children, who loved her nearly as well, and
+brother-in-law; and in the children, who loved her nearly as [[Well|well]], and
 
 respected her a great deal more than their mother, she had an object of
 
@@ -116,9 +116,9 @@ undoubtedly superior to his wife, but not of powers, or conversation,
 
 or grace, to make the past, as they were connected together, at all a
 
-dangerous contemplation; though, at the same time, Anne could believe,
+dangerous contemplation; though, at the same [[Time|time]], Anne could believe,
 
-with Lady Russell, that a more equal match might have greatly improved
+with [[Lady Russell]], that a more equal match might have greatly improved
 
 him; and that a woman of real understanding might have given more
 
@@ -126,7 +126,7 @@ consequence to his character, and more usefulness, rationality, and
 
 elegance to his habits and pursuits. As it was, he did nothing with
 
-much zeal, but sport; and his time was otherwise trifled away, without
+much zeal, but sport; and his [[Time|time]] was otherwise trifled away, without
 
 benefit from books or anything else. He had very good spirits, which
 
@@ -156,13 +156,13 @@ As to the management of their children, his theory was much better than
 
 his wife’s, and his practice not so bad. “I could manage them very
 
-well, if it were not for Mary’s interference,” was what Anne often
+[[Well|well]], if it were not for Mary’s interference,” was what Anne often
 
-heard him say, and had a good deal of faith in; but when listening in
+heard him say, and had a good deal of [[Faith|faith]] in; but when listening in
 
 turn to Mary’s reproach of “Charles spoils the children so that I
 
-cannot get them into any order,” she never had the smallest temptation
+cannot get them into any order,” she never had the smallest [[Temptation|temptation]]
 
 to say, “Very true.”
 
@@ -172,7 +172,7 @@ One of the least agreeable circumstances of her residence there was her
 
 being treated with too much confidence by all parties, and being too
 
-much in the secret of the complaints of each house. Known to have some
+much in the secret of the complaints of each [[house]]. Known to have some
 
 influence with her sister, she was continually requested, or at least
 
@@ -194,15 +194,15 @@ own.”
 
 Mary’s declaration was, “I hate sending the children to the Great
 
-House, though their grandmamma is always wanting to see them, for she
+[[house|House]], though their grandmamma is always wanting to see them, for she
 
 humours and indulges them to such a degree, and gives them so much
 
-trash and sweet things, that they are sure to come back sick and cross
+trash and sweet things, that they are sure to come back sick and [[Cross|cross]]
 
 for the rest of the day.” And Mrs Musgrove took the first opportunity
 
-of being alone with Anne, to say, “Oh! Miss Anne, I cannot help wishing
+of being [[Alone|alone]] with Anne, to say, “Oh! Miss Anne, I cannot help wishing
 
 Mrs Charles had a little of your method with those children. They are
 
@@ -218,7 +218,7 @@ how they should be treated—! Bless me! how troublesome they are
 
 sometimes. I assure you, Miss Anne, it prevents my wishing to see them
 
-at our house so often as I otherwise should. I believe Mrs Charles is
+at our [[house]] so often as I otherwise should. I believe Mrs Charles is
 
 not quite pleased with my not inviting them oftener; but you know it is
 
@@ -236,7 +236,7 @@ all her servants so steady, that it would be high treason to call it in
 
 question; but I am sure, without exaggeration, that her upper
 
-house-maid and laundry-maid, instead of being in their business, are
+[[house]]-maid and laundry-maid, instead of being in their business, are
 
 gadding about the village, all day long. I meet them wherever I go; and
 
@@ -274,13 +274,13 @@ Again, it was Mary’s complaint, that Mrs Musgrove was very apt not to
 
 give her the precedence that was her due, when they dined at the Great
 
-House with other families; and she did not see any reason why she was
+[[house|House]] with other families; and she did not see any reason why she was
 
-to be considered so much at home as to lose her place. And one day when
+to be considered so much at [[Home|home]] as to lose her place. And one day when
 
 Anne was walking with only the Musgroves, one of them after talking of
 
-rank, people of rank, and jealousy of rank, said, “I have no scruple of
+rank, people of rank, and [[Jealousy|jealousy]] of rank, said, “I have no scruple of
 
 observing to _you_, how nonsensical some persons are about their place,
 
@@ -314,7 +314,7 @@ for her sister’s benefit.
 
 
 
-In all other respects, her visit began and proceeded very well. Her own
+In all other respects, her visit began and proceeded very [[Well|well]]. Her own
 
 spirits improved by change of place and subject, by being removed three
 
@@ -330,7 +330,7 @@ certainly carried nearly as far as possible, for they met every
 
 morning, and hardly ever spent an evening asunder; but she believed
 
-they should not have done so well without the sight of Mr and Mrs
+they should not have done so [[Well|well]] without the sight of Mr and Mrs
 
 Musgrove’s respectable forms in the usual places, or without the
 
@@ -344,7 +344,7 @@ having no voice, no knowledge of the harp, and no fond parents, to sit
 
 by and fancy themselves delighted, her performance was little thought
 
-of, only out of civility, or to refresh the others, as she was well
+of, only out of civility, or to refresh the others, as she was [[Well|well]]
 
 aware. She knew that when she played she was giving pleasure only to
 
@@ -356,7 +356,7 @@ loss of her dear mother, known the happiness of being listened to, or
 
 encouraged by any just appreciation or real taste. In music she had
 
-been always used to feel alone in the world; and Mr and Mrs Musgrove’s
+been always used to feel [[Alone|alone]] in the world; and Mr and Mrs Musgrove’s
 
 fond partiality for their own daughters’ performance, and total
 
@@ -366,7 +366,7 @@ their sakes, than mortification for her own.
 
 
 
-The party at the Great House was sometimes increased by other company.
+The party at the [[Great House]] was sometimes increased by other company.
 
 The neighbourhood was not large, but the Musgroves were visited by
 
@@ -384,9 +384,9 @@ in an unpremeditated little ball. There was a family of cousins within
 
 a walk of Uppercross, in less affluent circumstances, who depended on
 
-the Musgroves for all their pleasures: they would come at any time, and
+the Musgroves for all their pleasures: they would come at any [[Time|time]], and
 
-help play at anything, or dance anywhere; and Anne, very much
+help play at anything, or [[Dance|dance]] anywhere; and Anne, very much
 
 preferring the office of musician to a more active post, played country
 
@@ -394,9 +394,9 @@ dances to them by the hour together; a kindness which always
 
 recommended her musical powers to the notice of Mr and Mrs Musgrove
 
-more than anything else, and often drew this compliment;—“Well done,
+more than anything else, and often drew this compliment;—“[[Well]] done,
 
-Miss Anne! very well done indeed! Lord bless me! how those little
+Miss Anne! very [[Well|well]] done indeed! Lord bless me! how those little
 
 fingers of yours fly about!”
 
@@ -404,7 +404,7 @@ fingers of yours fly about!”
 
 So passed the first three weeks. Michaelmas came; and now Anne’s heart
 
-must be in Kellynch again. A beloved home made over to others; all the
+must be in Kellynch again. A beloved [[Home|home]] made over to others; all the
 
 precious rooms and furniture, groves, and prospects, beginning to own
 
@@ -436,13 +436,13 @@ there being no means of her going. She wished, however, to see the
 
 Crofts, and was glad to be within when the visit was returned. They
 
-came: the master of the house was not at home, but the two sisters were
+came: the master of the [[house]] was not at [[Home|home]], but the two sisters were
 
 together; and as it chanced that Mrs Croft fell to the share of Anne,
 
 while the Admiral sat by Mary, and made himself very agreeable by his
 
-good-humoured notice of her little boys, she was well able to watch for
+good-humoured notice of her little boys, she was [[Well|well]] able to watch for
 
 a likeness, and if it failed her in the features, to catch it in the
 
@@ -466,7 +466,7 @@ manners were open, easy, and decided, like one who had no distrust of
 
 herself, and no doubts of what to do; without any approach to
 
-coarseness, however, or any want of good humour. Anne gave her credit,
+coarseness, however, or any want of good [[Humour|humour]]. Anne gave her credit,
 
 indeed, for feelings of great consideration towards herself, in all
 
@@ -478,7 +478,7 @@ introduction, that there was not the smallest symptom of any knowledge
 
 or suspicion on Mrs Croft’s side, to give a bias of any sort. She was
 
-quite easy on that head, and consequently full of strength and courage,
+quite easy on that head, and consequently full of strength and [[Courage|courage]],
 
 till for a moment electrified by Mrs Croft’s suddenly saying,—
 
@@ -536,19 +536,19 @@ much engrossed by proposals of carrying them away in his coat pockets,
 
 &c., to have another moment for finishing or recollecting what he had
 
-begun, Anne was left to persuade herself, as well as she could, that
+begun, Anne was left to persuade herself, as [[Well|well]] as she could, that
 
 the same brother must still be in question. She could not, however,
 
 reach such a degree of certainty, as not to be anxious to hear whether
 
-anything had been said on the subject at the other house, where the
+anything had been said on the subject at the other [[house]], where the
 
 Crofts had previously been calling.
 
 
 
-The folks of the Great House were to spend the evening of this day at
+The folks of the [[Great House]] were to spend the evening of this day at
 
 the Cottage; and it being now too late in the year for such visits to
 
@@ -570,7 +570,7 @@ the harp, which was bringing in the carriage.
 
 come on to give you notice, that papa and mamma are out of spirits this
 
-evening, especially mamma; she is thinking so much of poor Richard! And
+evening, especially mamma; she is thinking so much of poor [[Richard]]! And
 
 we agreed it would be best to have the harp, for it seems to amuse her
 
@@ -578,7 +578,7 @@ more than the piano-forte. I will tell you why she is out of spirits.
 
 When the Crofts called this morning, (they called here afterwards, did
 
-not they?), they happened to say, that her brother, Captain Wentworth,
+not they?), they happened to say, that her brother, [[Captain Wentworth]],
 
 is just returned to England, or paid off, or something, and is coming
 
@@ -586,7 +586,7 @@ to see them almost directly; and most unluckily it came into mamma’s
 
 head, when they were gone, that Wentworth, or something very like it,
 
-was the name of poor Richard’s captain at one time; I do not know when
+was the name of poor [[Richard]]’s captain at one [[Time|time]]; I do not know when
 
 or where, but a great while before he died, poor fellow! And upon
 
@@ -594,13 +594,13 @@ looking over his letters and things, she found it was so, and is
 
 perfectly sure that this must be the very man, and her head is quite
 
-full of it, and of poor Richard! So we must be as merry as we can, that
+full of it, and of poor [[Richard]]! So we must be as merry as we can, that
 
 she may not be dwelling upon such gloomy things.”
 
 
 
-The real circumstances of this pathetic piece of family history were,
+The real circumstances of this pathetic piece of family [[history]] were,
 
 that the Musgroves had had the ill fortune of a very troublesome,
 
@@ -610,9 +610,9 @@ twentieth year; that he had been sent to sea because he was stupid and
 
 unmanageable on shore; that he had been very little cared for at any
 
-time by his family, though quite as much as he deserved; seldom heard
+[[Time|time]] by his family, though quite as much as he deserved; seldom heard
 
-of, and scarcely at all regretted, when the intelligence of his death
+of, and scarcely at all regretted, when the intelligence of his [[Death|death]]
 
 abroad had worked its way to Uppercross, two years before.
 
@@ -620,7 +620,7 @@ abroad had worked its way to Uppercross, two years before.
 
 He had, in fact, though his sisters were now doing all they could for
 
-him, by calling him “poor Richard,” been nothing better than a
+him, by calling him “poor [[Richard]],” been nothing better than a
 
 thick-headed, unfeeling, unprofitable Dick Musgrove, who had never done
 
@@ -650,13 +650,13 @@ money.
 
 
 
-In each letter he had spoken well of his captain; but yet, so little
+In each letter he had spoken [[Well|well]] of his captain; but yet, so little
 
 were they in the habit of attending to such matters, so unobservant and
 
 incurious were they as to the names of men or ships, that it had made
 
-scarcely any impression at the time; and that Mrs Musgrove should have
+scarcely any impression at the [[Time|time]]; and that Mrs Musgrove should have
 
 been suddenly struck, this very day, with a recollection of the name of
 
@@ -674,7 +674,7 @@ gone for ever, and all the strength of his faults forgotten, had
 
 affected her spirits exceedingly, and thrown her into greater grief for
 
-him than she had known on first hearing of his death. Mr Musgrove was,
+him than she had known on first hearing of his [[Death|death]]. Mr Musgrove was,
 
 in a lesser degree, affected likewise; and when they reached the
 
@@ -686,7 +686,7 @@ companions could give them.
 
 
 
-To hear them talking so much of Captain Wentworth, repeating his name
+To hear them talking so much of [[Captain Wentworth]], repeating his name
 
 so often, puzzling over past years, and at last ascertaining that it
 
@@ -712,7 +712,7 @@ respect for his character, stamped as it was by poor Dick’s having been
 
 six months under his care, and mentioning him in strong, though not
 
-perfectly well-spelt praise, as “a fine dashing felow, only two
+perfectly [[Well|well]]-spelt praise, as “a fine dashing felow, only two
 
 perticular about the schoolmaster,” were bent on introducing
 

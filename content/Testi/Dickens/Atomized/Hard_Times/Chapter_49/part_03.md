@@ -20,8 +20,8 @@ money.’
 ‘How much might that be?’ Stephen calmly asked.
 
 ‘Why, you’d have to go to Doctors’ Commons with a suit, and you’d have to
-go to a court of Common Law with a suit, and you’d have to go to the
-House of Lords with a suit, and you’d have to get an Act of Parliament to
+go to a [[Court|court]] of Common Law with a suit, and you’d have to go to the
+[[house|House]] of Lords with a suit, and you’d have to get an Act of Parliament to
 enable you to marry again, and it would cost you (if it was a case of
 very plain sailing), I suppose from a thousand to fifteen hundred pound,’
 said Mr. Bounderby.  ‘Perhaps twice the money.’
@@ -52,16 +52,16 @@ to say is, she might have turned out better.’
 ‘Now, I’ll tell you what!’ Mr. Bounderby resumed, as a valedictory
 address.  ‘With what I shall call your unhallowed opinions, you have been
 quite shocking this lady: who, as I have already told you, is a born
-lady, and who, as I have not already told you, has had her own marriage
+lady, and who, as I have not already told you, has had her own [[Marriage|marriage]]
 misfortunes to the tune of tens of thousands of pounds—tens of Thousands
 of Pounds!’ (he repeated it with great relish).  ‘Now, you have always
 been a steady Hand hitherto; but my opinion is, and so I tell you
-plainly, that you are turning into the wrong road.  You have been
+plainly, that you are turning into the wrong [[Road|road]].  You have been
 listening to some mischievous stranger or other—they’re always about—and
 the best thing you can do is, to come out of that.  Now you know;’ here
 his countenance expressed marvellous acuteness; ‘I can see as far into a
 grindstone as another man; farther than a good many, perhaps, because I
-had my nose well kept to it when I was young.  I see traces of the turtle
+had my nose [[Well|well]] kept to it when I was young.  I see traces of the turtle
 soup, and venison, and gold spoon in this.  Yes, I do!’ cried Mr.
 Bounderby, shaking his head with obstinate cunning.  ‘By the Lord Harry,
 I do!’

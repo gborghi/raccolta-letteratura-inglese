@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 50 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 50 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -16,13 +16,13 @@ tags:
 
 herself at nineteen, submitting to new attachments, entering on new
 
-duties, placed in a new home, a wife, the mistress of a family, and the
+duties, placed in a new [[Home|home]], a wife, the mistress of a family, and the
 
 patroness of a village.
 
 
 
-Colonel Brandon was now as happy, as all those who best loved him,
+[[Colonel Brandon]] was now as happy, as all those who best loved him,
 
 believed he deserved to be;—in Marianne he was consoled for every past
 
@@ -30,31 +30,31 @@ affliction;—her regard and her society restored his mind to animation,
 
 and his spirits to cheerfulness; and that Marianne found her own
 
-happiness in forming his, was equally the persuasion and delight of
+happiness in forming his, was equally the [[Persuasion|persuasion]] and delight of
 
-each observing friend. Marianne could never love by halves; and her
+each observing friend. Marianne could never [[Love|love]] by halves; and her
 
-whole heart became, in time, as much devoted to her husband, as it had
+whole heart became, in [[Time|time]], as much devoted to her husband, as it had
 
 once been to Willoughby.
 
 
 
-Willoughby could not hear of her marriage without a pang; and his
+Willoughby could not hear of her [[Marriage|marriage]] without a pang; and his
 
-punishment was soon afterwards complete in the voluntary forgiveness of
+punishment was soon afterwards complete in the voluntary [[Forgiveness|forgiveness]] of
 
-Mrs. Smith, who, by stating his marriage with a woman of character, as
+Mrs. [[smith|Smith]], who, by stating his [[Marriage|marriage]] with a woman of character, as
 
 the source of her clemency, gave him reason for believing that had he
 
-behaved with honour towards Marianne, he might at once have been happy
+behaved with [[Honour|honour]] towards Marianne, he might at once have been happy
 
 and rich. That his repentance of misconduct, which thus brought its own
 
 punishment, was sincere, need not be doubted;—nor that he long thought
 
-of Colonel Brandon with envy, and of Marianne with regret. But that he
+of [[Colonel Brandon]] with envy, and of Marianne with regret. But that he
 
 was for ever inconsolable, that he fled from society, or contracted an
 
@@ -62,9 +62,9 @@ habitual gloom of temper, or died of a broken heart, must not be
 
 depended on—for he did neither. He lived to exert, and frequently to
 
-enjoy himself. His wife was not always out of humour, nor his home
+enjoy himself. His wife was not always out of [[Humour|humour]], nor his [[Home|home]]
 
-always uncomfortable; and in his breed of horses and dogs, and in
+always uncomfortable; and in his breed of horses and [[dogs]], and in
 
 sporting of every kind, he found no inconsiderable degree of domestic
 
@@ -78,7 +78,7 @@ loss, he always retained that decided regard which interested him in
 
 every thing that befell her, and made her his secret standard of
 
-perfection in woman; and many a rising beauty would be slighted by him
+perfection in woman; and many a rising [[Beauty|beauty]] would be slighted by him
 
 in after-days as bearing no comparison with Mrs. Brandon.
 
@@ -92,7 +92,7 @@ Jennings, when Marianne was taken from them, Margaret had reached an
 
 age highly suitable for dancing, and not very ineligible for being
 
-supposed to have a lover.
+supposed to have a [[Lover|lover]].
 
 
 

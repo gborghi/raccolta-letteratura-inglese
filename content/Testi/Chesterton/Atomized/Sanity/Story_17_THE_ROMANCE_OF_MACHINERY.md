@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE ROMANCE OF MACHINERY"
+title: "[[Sanity]] — THE [[Romance|ROMANCE]] OF MACHINERY"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Sanity-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-  2. The Romance of Machinery
+  2. The [[Romance]] of Machinery

@@ -1,5 +1,5 @@
 ---
-title: "The Flying Inn — Chapter 15: THE SONGS OF THE CAR CLUB"
+title: "The Flying Inn — Chapter 15: THE [[songs|SONGS]] OF THE CAR CLUB"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/The-Flying-Inn-(Chesterton)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-CHAPTER XV: THE SONGS OF THE CAR CLUB
+CHAPTER XV: THE [[songs|SONGS]] OF THE CAR CLUB
 
 
-MORE than once as the car flew through black and silver fairylands of fir wood and pine wood, Dalroy put his head out of the side window and remonstrated with the chauffeur without effect. He was reduced at last to asking him where he was going.
+MORE than once as the car flew through black and silver fairylands of fir wood and pine wood, Dalroy put his head out of the side [[Window|window]] and remonstrated with the chauffeur without effect. He was reduced at last to asking him where he was going.
 
 
 
@@ -47,7 +47,7 @@ MORE than once as the car flew through black and silver fairylands of fir wood a
 
 
 
-Humphrey Pump opened the glass window that separated him from the rear part of the car, and turned to speak to his friend over his square elbow and shoulder.
+Humphrey Pump opened the glass [[Window|window]] that separated him from the rear part of the car, and turned to speak to his friend over his square elbow and shoulder.
 
 
 
@@ -62,27 +62,27 @@ Humphrey Pump opened the glass window that separated him from the rear part of t
 
 
 
-“Honestly, I think you’d better leave him alone,” answered Pump, with his sagacious face. “He’d just run us into a Scotch Express like Dandy Mutton did, when they said he was driving carelessly. We can send the car back to Ivywood somehow later on, and really, I don’t think it’ll do the gentleman any harm to spend a night with a donkey. The donkey might teach him something, I tell you.”
+“Honestly, I think you’d better leave him [[Alone|alone]],” answered Pump, with his sagacious face. “He’d just run us into a Scotch Express like Dandy Mutton did, when they said he was driving carelessly. We can send the car back to Ivywood somehow later on, and really, I don’t think it’ll do the gentleman any harm to spend a [[Night|night]] with a [[donkey]]. The [[donkey]] might teach him something, I tell you.”
 
 
 
 
-“It’s true he denied the Principle of Private Property,” said Dalroy, reflectively, “but I fancy he was thinking of a plain house fixed on the ground. A house on wheels, such as this, he might perhaps think a more permanent possession. But I never understand it;” and again he passed a weary palm across his open forehead. “Have you ever noticed, Hump, what is really odd about those people?”
+“It’s true he denied the Principle of Private Property,” said Dalroy, reflectively, “but I fancy he was thinking of a plain [[house]] fixed on the ground. A [[house]] on wheels, such as this, he might perhaps think a more permanent possession. But I never understand it;” and again he passed a weary palm across his open forehead. “Have you ever noticed, Hump, what is really odd about those people?”
 
 
 
 
-The car shot on amid the comfortable silence of Pump, and then the Irishman said again:
+The car shot on amid the comfortable [[Silence|silence]] of Pump, and then the Irishman said again:
 
 
 
 
-“That poet in the pussy-cat clothes wasn’t half bad. Lord Ivywood isn’t cruel; but he’s inhuman. But that man wasn’t inhuman. He was ignorant, like most cultured fellows. But what’s odd about them is that they try to be simple and never clear away a single thing that’s complicated. If they have to choose between beef and pickles, they always abolish the beef. If they have to choose between a meadow and a motor, they forbid the meadow. Shall I tell you the secret? These men only surrender the things that bind them to other men. Go and dine with a temperance millionaire and you won’t find he’s abolished thehors d’oeuvres or the five courses or even the coffee. What he’s abolished is the port and sherry, because poor men like that as well as rich. Go a step farther, and you won’t find he’s abolished the fine silver forks and spoons, but he’s abolished the meat, because poor men like meat–when they can get it. Go a step farther, and you won’t find he goes without gardens or gorgeous rooms, which poor men can’t enjoy at all. But you will find he boasts of early rising, because sleep is a thing poor men can still enjoy. About the only thing they can still enjoy. Nobody ever heard of a modern philanthropist giving up petrol or typewriting or troops of servants. No, no! What he gives up must be some simple and universal thing. He will give up beef or beer or sleep–because these pleasures remind him that he is only a man.”
+“That poet in the pussy-cat clothes wasn’t half bad. Lord Ivywood isn’t cruel; but he’s inhuman. But that man wasn’t inhuman. He was ignorant, like most cultured fellows. But what’s odd about them is that they try to be simple and never clear away a single thing that’s complicated. If they have to choose between beef and pickles, they always abolish the beef. If they have to choose between a meadow and a motor, they forbid the meadow. Shall I tell you the secret? These men only surrender the things that bind them to other men. Go and dine with a temperance millionaire and you won’t find he’s abolished thehors d’oeuvres or the five courses or even the coffee. What he’s abolished is the port and sherry, because poor men like that as [[Well|well]] as rich. Go a step farther, and you won’t find he’s abolished the fine silver forks and spoons, but he’s abolished the meat, because poor men like meat–when they can get it. Go a step farther, and you won’t find he goes without gardens or gorgeous rooms, which poor men can’t enjoy at all. But you will find he boasts of early rising, because [[Sleep|sleep]] is a thing poor men can still enjoy. About the only thing they can still enjoy. Nobody ever heard of a modern philanthropist giving up petrol or typewriting or troops of servants. No, no! What he gives up must be some simple and universal thing. He will give up beef or beer or [[Sleep|sleep]]–because these pleasures remind him that he is only a man.”
 
 
 
 
-Humphrey Pump nodded, but still answered nothing; and the voice of the sprawling Dalroy took one of its upward turns of a sort of soaring flippancy; which commonly embodied itself in remembering some song he had composed.
+Humphrey Pump nodded, but still answered nothing; and the voice of the sprawling Dalroy took one of its upward turns of a sort of soaring flippancy; which commonly embodied itself in remembering some [[Song|song]] he had composed.
 
 
 
@@ -112,7 +112,7 @@ And used all his motors for canvassing voters, and twenty telephones;
 
 
 
-Besides a dandy little machine,
+Besides a dandy little [[Machine|machine]],
 
 
 
@@ -188,7 +188,7 @@ That might have had a more marked effect,
 
 
 
-And pleased the pride of a weaker man that yearned for wine or wife;
+And pleased the [[Pride|pride]] of a weaker man that yearned for wine or wife;
 
 
 
@@ -214,12 +214,12 @@ And he lies there fluffy and soft and grey and certainly quite refined,
 
 
 
-When he might have rotted to flowers and fruit with Adam and all mankind.
+When he might have rotted to [[Flowers|flowers]] and fruit with Adam and all mankind.
 
 
 
 
-Or been eaten by bears that fancy blood,
+Or been eaten by bears that fancy [[Blood|blood]],
 
 
 
@@ -239,7 +239,7 @@ Or even sat with us here at food,
 
 
 
-Merrily taking twopenny rum and cheese with a pocket knife,
+Merrily taking twopenny rum and [[cheese]] with a pocket knife,
 
 
 
@@ -248,22 +248,22 @@ But these were luxuries lost for him that lived for the Simple Life.”
 
 
 
-Mr. Pump had made many attempts to arrest this song, but they were as vain as all attempts to arrest the car. The angry chauffeur seemed, indeed, rather inspired to further energy by the violent vocal noises behind; and Pump again found it best to fall back on conversation.
+Mr. Pump had made many attempts to arrest this [[Song|song]], but they were as vain as all attempts to arrest the car. The angry chauffeur seemed, indeed, rather inspired to further energy by the violent vocal noises behind; and Pump again found it best to fall back on conversation.
 
 
 
 
-“Well, Captain,” he said, amicably. “I can’t quite agree with you about those things. Of course, you can trust foreigners too much as poor Thompson did; but then you can go too far the other way. Aunt Sarah lost a thousand pounds that way. I told her again and again he wasn’t a nigger, but she wouldn’t believe me. And, of course, that was just the kind of thing to offend an ambassador if he was an Austrian. It seems to me, Captain, you aren’t quite fair to these foreign chaps. Take these Americans, now! There were many Americans went by Pebblewick, you may suppose. But in all the lot there was never a bad lot; never a nasty American, nor a stupid American–nor, well, never an American that I didn’t rather like.”
+“[[Well]], Captain,” he said, amicably. “I can’t quite agree with you about those things. Of course, you can trust foreigners too much as poor Thompson did; but then you can go too far the other way. Aunt Sarah lost a thousand pounds that way. I told her again and again he wasn’t a nigger, but she wouldn’t believe me. And, of course, that was just the kind of thing to offend an ambassador if he was an Austrian. It seems to me, Captain, you aren’t quite fair to these foreign chaps. Take these Americans, now! There were many Americans went by Pebblewick, you may suppose. But in all the lot there was never a bad lot; never a nasty American, nor a stupid American–nor, [[Well|well]], never an American that I didn’t rather like.”
 
 
 
 
-“I know,” said Dalroy, “you mean there was never an American who did not appreciate ‘The Old Ship.’”
+“I know,” said Dalroy, “you mean there was never an American who did not appreciate ‘The Old [[Ship]].’”
 
 
 
 
-“I suppose I do mean that,” answered the inn-keeper, “and somehow, I feel ‘The Old Ship’ might appreciate the American too.”
+“I suppose I do mean that,” answered the inn-keeper, “and somehow, I feel ‘The Old [[Ship]]’ might appreciate the American too.”
 
 
 
@@ -273,7 +273,7 @@ Mr. Pump had made many attempts to arrest this song, but they were as vain as al
 
 
 
-After another silence he said, “You’re always right, Hump, and one oughtn’t to think of Yankees like that. The rich are the scum of the earth in every country. And a vast proportion of the real Americans are among the most courteous, intelligent, self-respecting people in the world. Some attribute this to the fact that a vast proportion of the real Americans are Irishmen.”
+After another [[Silence|silence]] he said, “You’re always right, Hump, and one oughtn’t to think of Yankees like that. The rich are the scum of the earth in every country. And a vast proportion of the real Americans are among the most courteous, intelligent, [[Self|self]]-respecting people in the world. Some attribute this to the fact that a vast proportion of the real Americans are Irishmen.”
 
 
 
@@ -283,17 +283,17 @@ Pump was still silent, and the Captain resumed in a moment.
 
 
 
-“All the same,” he said, “it’s very hard for a man, especially a man of a small country like me, to understand how it must feel to be an American; especially in the matter of nationality. I shouldn’t like to have to write the American National Anthem, but fortunately there is no great probability of the commission being given. The shameful secret of my inability to write an American patriotic song is one that will die with me.”
+“All the same,” he said, “it’s very hard for a man, especially a man of a small country like me, to understand how it must feel to be an American; especially in the matter of nationality. I shouldn’t like to have to write the American National Anthem, but fortunately there is no great probability of the commission being given. The shameful secret of my inability to write an American patriotic [[Song|song]] is one that will die with me.”
 
 
 
 
-“Well, what about an English one,” said Pump, sturdily. “You might do worse, Captain.”
+“[[Well]], what about an English one,” said Pump, sturdily. “You might do worse, Captain.”
 
 
 
 
-“English, you bloody tyrant,” said Patrick, indignantly. “I could no more fancy a song by an Englishman than you could one by that dog.”
+“English, you bloody [[Tyrant|tyrant]],” said Patrick, indignantly. “I could no more fancy a [[Song|song]] by an Englishman than you could one by that dog.”
 
 
 
@@ -303,37 +303,37 @@ Mr. Humphrey Pump gravely took the paper from his pocket, on which he had previo
 
 
 
-“Hullo,” cried Dalroy. “Are you going to have a shy at the Ballad of Quoodle?”
+“Hullo,” cried Dalroy. “Are you going to have a shy at the Ballad of [[quoodle|Quoodle]]?”
 
 
 
 
-Quoodle lifted his ears at his name. Mr. Pump smiled a slight and embarrassed smile. He was secretly proud of Dalroy’s admiration for his previous literary attempts and he had some natural knack for verse as a game, as he had for all games; and his reading, though desultory, had not been merely rustic or low.
+[[quoodle|Quoodle]] lifted his ears at his name. Mr. Pump smiled a slight and embarrassed smile. He was secretly proud of Dalroy’s admiration for his previous literary attempts and he had some natural knack for verse as a game, as he had for all games; and his reading, though desultory, had not been merely rustic or low.
 
 
 
 
-“On condition,” he said, deprecatingly, “that you write a song for the English.”
+“On condition,” he said, deprecatingly, “that you write a [[Song|song]] for the English.”
 
 
 
 
-“Oh, very well,” said Patrick, with a huge sigh that really indicated the very opposite of reluctance. “We must do something till the thing stops, I suppose, and this seems a blameless parlour game. ‘Songs of the Car Club.’ Sounds quite aristocratic.”
+“Oh, very [[Well|well]],” said Patrick, with a huge sigh that really indicated the very opposite of reluctance. “We must do something till the thing stops, I suppose, and this seems a blameless parlour game. ‘[[songs|Songs]] of the Car Club.’ Sounds quite aristocratic.”
 
 
 
 
-And he began to make marks with a pencil on the fly-leaf of a little book he had in his pocket–Wilson’sNoctes Ambrosianae. Every now and then, however, he looked up and delayed his own composition by watching Pump and the dog, whose proceedings amused him very much. For the owner of “The Old Ship” sat sucking his pencil and looking at Mr. Quoodle with eyes of fathomless attention. Every now and then he slightly scratched his brown hair with the pencil, and wrote down a word. And the dog Quoodle, with that curious canine power of either understanding or most brazenly pretending to understand what is going on, sat erect with his head at an angle, as if he were sitting for his portrait.
+And he began to make marks with a pencil on the fly-leaf of a little book he had in his pocket–Wilson’sNoctes Ambrosianae. Every now and then, however, he looked up and delayed his own composition by watching Pump and the dog, whose proceedings amused him very much. For the owner of “The Old [[Ship]]” sat sucking his pencil and looking at Mr. [[quoodle|Quoodle]] with eyes of fathomless attention. Every now and then he slightly scratched his brown hair with the pencil, and wrote down a word. And the dog [[quoodle|Quoodle]], with that curious canine power of either understanding or most brazenly pretending to understand what is going on, sat erect with his head at an angle, as if he were sitting for his portrait.
 
 
 
 
-Hence it happened that though Pump’s poem was a little long, as are often the poems of inexperienced poets, and though Dalroy’s poem was very short (being much hurried toward the end) the long poem was finished some time before the short one.
+Hence it happened that though Pump’s poem was a little long, as are often the [[Poems|poems]] of inexperienced poets, and though Dalroy’s poem was very short (being much hurried toward the end) the long poem was finished some [[Time|time]] before the short one.
 
 
 
 
-Therefore it was that there was first produced for the world the song more familiarly known as “No Noses,” or more correctly called “The Song of Quoodle.” Part of it ran eventually thus:
+Therefore it was that there was first produced for the world the [[Song|song]] more familiarly known as “No Noses,” or more correctly called “The [[Song]] of [[quoodle|Quoodle]].” Part of it ran eventually thus:
 
 
 
@@ -400,7 +400,7 @@ Will let you steal a smell;
 
 
 
-“The brilliant smell of water,
+“The brilliant smell of [[Water|water]],
 
 
 
@@ -425,18 +425,18 @@ Are things in which they blunder
 
 
 
-And err, if left alone.
+And err, if left [[Alone|alone]].
 
 
 
 
 
-“The wind from winter forests,
+“The [[Wind|wind]] from [[Winter|winter]] forests,
 
 
 
 
-The scent of scentless flowers,
+The scent of scentless [[Flowers|flowers]],
 
 
 
@@ -451,7 +451,7 @@ The smell of snare and warning,
 
 
 
-The smell of Sunday morning,
+The smell of [[Sunday]] morning,
 
 
 
@@ -468,12 +468,12 @@ God gave to us for ours.”
 
 
 
-“And Quoodle here discloses
+“And [[quoodle|Quoodle]] here discloses
 
 
 
 
-All things that Quoodle can;
+All things that [[quoodle|Quoodle]] can;
 
 
 
@@ -497,7 +497,7 @@ The Noselessness of Man.”
 
 
 
-This poem also shows traces of haste in its termination, and the present editor (who has no aim save truth) is bound to confess that parts of it were supplied in the criticisms of the Captain, and even enriched (in later and livelier circumstances) by the Poet of the Birds himself. At the actual moment the chief features of this realistic song about dogs was a crashing chorus of “Bow-wow, wow,” begun by Mr. Patrick Dalroy; but immediately imitated (much more successfully) by Mr. Quoodle. In the face of all this Dalroy suffered some real difficulty in fulfilling the bargain by reading out his much shorter poem about what he imagined an Englishman might feel. Indeed there was something very rough and vague in his very voice as he read it out; as of one who had not found the key to his problem. The present compiler (who has no aim save truth) must confess that the verses ran as follows:
+This poem also shows traces of haste in its termination, and the present editor (who has no aim save [[Truth|truth]]) is bound to confess that parts of it were supplied in the criticisms of the Captain, and even enriched (in later and livelier circumstances) by the Poet of the [[Birds]] himself. At the actual moment the chief features of this realistic [[Song|song]] about [[dogs]] was a crashing [[Chorus|chorus]] of “Bow-wow, wow,” begun by Mr. Patrick Dalroy; but immediately imitated (much more successfully) by Mr. [[quoodle|Quoodle]]. In the face of all this Dalroy suffered some real difficulty in fulfilling the bargain by reading out his much shorter poem about what he imagined an Englishman might feel. Indeed there was something very rough and vague in his very voice as he read it out; as of one who had not found the key to his problem. The present compiler (who has no aim save [[Truth|truth]]) must confess that the verses ran as follows:
 
 
 
@@ -599,7 +599,7 @@ When we go out in armour,
 
 
 
-With the battle-cross before;
+With the battle-[[Cross|cross]] before;
 
 
 
@@ -623,7 +623,7 @@ Unless you give him wine.
 
 
 
-“Very philosophical song that,” said Dalroy, shaking his head solemnly, “full of deep thought. I really think that is about the truth of the matter, in the case of the Englishman. Your enemies say you’re stupid, and you boast of being illogical–which is about the only thing you do that really is stupid. As if anybody ever made an Empire or anything else by saying that two and two make five. Or as if anyone was ever the stronger fornot understanding anything–if it were only tip-cat or chemistry. But thisis true about you Hump. You English are supremely an artistic people, and therefore you go by associations, as I said in my song. You won’t have one thing without the other thing that goes with it. And as you can’t imagine a village without a squire and parson, or a college without port and old oak, you get the reputation of a Conservative people. But it’s because you’re sensitive, Hump, not because you’re stupid, that you won’t part with things. It’s lies, lies and flattery they tell you, Hump, when they tell you you’re fond of compromise. I tell ye, Hump, every real revolution is a compromise. D’ye think Wolfe Tone or Charles Stuart Parnell never compromised? But it’s just because you’re afraid of a compromise that you won’t have a revolution. If you really overhauled ‘The Old Ship’–or Oxford–you’d have to make up your mind what to take and what to leave, and it would break your heart, Humphrey Pump.”
+“Very philosophical [[Song|song]] that,” said Dalroy, shaking his head solemnly, “full of deep thought. I really think that is about the [[Truth|truth]] of the matter, in the case of the Englishman. Your enemies say you’re stupid, and you boast of being illogical–which is about the only thing you do that really is stupid. As if anybody ever made an Empire or anything else by saying that two and two make five. Or as if anyone was ever the stronger fornot understanding anything–if it were only tip-cat or chemistry. But thisis true about you Hump. You English are supremely an artistic people, and therefore you go by associations, as I said in my [[Song|song]]. You won’t have one thing without the other thing that goes with it. And as you can’t imagine a village without a squire and parson, or a college without port and old oak, you get the reputation of a Conservative people. But it’s because you’re sensitive, Hump, not because you’re stupid, that you won’t part with things. It’s lies, lies and flattery they tell you, Hump, when they tell you you’re fond of compromise. I tell ye, Hump, every real revolution is a compromise. D’ye think Wolfe Tone or Charles Stuart Parnell never compromised? But it’s just because you’re afraid of a compromise that you won’t have a revolution. If you really overhauled ‘The Old [[Ship]]’–or [[Oxford]]–you’d have to make up your mind what to take and what to leave, and it would break your heart, Humphrey Pump.”
 
 
 
@@ -633,12 +633,12 @@ He stared in front of him with a red and ruminant face, and at length added, som
 
 
 
-“This aesthetic way we have, Hump, has only two little disadvantages which I will now explain to you. The first is exactly what has sent us flying in this contraption. When the beautiful, smooth, harmonious thing you’ve made is worked by a new type, in a new spirit, then I tell you it would be better for you a thousand times to be living under the thousand paper constitutions of Condorcet and Sieyès. When the English oligarchy is run by an Englishman who hasn’t got an English mind–then you have Lord Ivywood and all this nightmare, of which God could only guess the end.”
+“This aesthetic way we have, Hump, has only two little disadvantages which I will now explain to you. The first is exactly what has sent us flying in this contraption. When the beautiful, smooth, harmonious thing you’ve made is worked by a new type, in a new spirit, then I tell you it would be better for you a thousand times to be living under the thousand paper constitutions of Condorcet and Sieyès. When the English oligarchy is run by an Englishman who hasn’t got an English mind–then you have Lord Ivywood and all this [[nightmare]], of which God could only guess the end.”
 
 
 
 
-The car had beaten some roods of dust behind it, and he ended still more darkly:
+The car had beaten some roods of [[Dust|dust]] behind it, and he ended still more darkly:
 
 
 
@@ -653,12 +653,12 @@ It was already daybreak, and Pump, who knew the English boundaries almost by int
 
 
 
-White morning lay about the grey stony streets like spilt milk. A few proletarian early risers, wearier at morning than most men at night, seemed merely of opinion that it was no use crying over it. The two or three last houses, which looked almost too tired to stand upright, seemed to have moved the Captain into another sleepy explosion.
+White morning lay about the grey stony streets like spilt milk. A few proletarian early risers, wearier at morning than most men at [[Night|night]], seemed merely of opinion that it was no use crying over it. The two or three last houses, which looked almost too tired to stand upright, seemed to have moved the Captain into another sleepy explosion.
 
 
 
 
-“There are two kinds of idealists, as everybody knows–or must have thought of. There are those who idealize the real and those who (precious seldom) realise the ideal. Artistic and poetical people like the English generally idealize the real. This I have expressed in a song, which–”
+“There are two kinds of idealists, as everybody knows–or must have thought of. There are those who idealize the real and those who (precious seldom) realise the ideal. Artistic and poetical people like the English generally idealize the real. This I have expressed in a [[Song|song]], which–”
 
 
 
@@ -668,12 +668,12 @@ White morning lay about the grey stony streets like spilt milk. A few proletaria
 
 
 
-“This I have expressed in a song,” repeated Dalroy, in an adamantine manner, “which I will now sing with every circumstance of leisure, loudness, or any other–”
+“This I have expressed in a [[Song|song]],” repeated Dalroy, in an adamantine manner, “which I will now sing with every circumstance of leisure, loudness, or any other–”
 
 
 
 
-He stopped because the flying universe seemed to stop. Charging hedgerows came to a halt, as if challenged by the bugle. The racing forests stood rigid. The last few tottering houses stood suddenly at attention. For a noise like a pistol-shot from the car itself had stopped all that race, as a pistol-shot might start any other.
+He stopped because the flying universe seemed to stop. Charging hedgerows came to a halt, as if challenged by the bugle. The racing forests stood rigid. The last few tottering houses stood suddenly at attention. For a noise like a [[Pistol|pistol]]-shot from the car itself had stopped all that race, as a [[Pistol|pistol]]-shot might start any other.
 
 
 
@@ -703,12 +703,12 @@ Then he looked round on the long woods and the last houses, and seemed to gnaw h
 
 
 
-“Well, yer see,” said the chauffeur, reasonably, “I was bloody keen to show ’im it was me drove the car and not ’im. By a bit o’ bad luck, I done damage to ’is car. Well–ifyou can stick in ’is car–”
+“[[Well]], yer see,” said the chauffeur, reasonably, “I was bloody keen to show ’im it was me drove the car and not ’im. By a bit o’ bad luck, I done damage to ’is car. [[Well]]–ifyou can stick in ’is car–”
 
 
 
 
-Captain Patrick Dalroy sprang out of the car so rapidly that he almost reeled and slipped upon the road. The dog sprang after him, barking furiously.
+Captain Patrick Dalroy sprang out of the car so rapidly that he almost reeled and slipped upon the [[Road|road]]. The dog sprang after him, barking furiously.
 
 
 
@@ -718,7 +718,7 @@ Captain Patrick Dalroy sprang out of the car so rapidly that he almost reeled an
 
 
 
-Then, after an instant’s silence, he said, “That Frenchman was right who said (I forget how he put it) that you march to Trafalgar Square to rid yourself of your temper; not to rid yourself of your tyrant. Our friend was quite ready to rebel, rushing away. To rebel sitting still was too much for him. Do you readPunch? I am sure you do. Pump andPunch must be almost the only survivors of the Victorian Age. Do you remember an old joke in an excellent picture, representing two ragged Irishmen with guns, waiting behind a stone wall to shoot a landlord? One of the Irishmen says the landlord is late, and adds, ‘I hope no accident’s happened to the poor gentleman.’ Well, it’s all perfectly true; I knew that Irishman intimately, but I want to tell you a secret about him. He was an Englishman.”
+Then, after an instant’s [[Silence|silence]], he said, “That Frenchman was right who said (I forget how he put it) that you march to Trafalgar Square to rid yourself of your temper; not to rid yourself of your [[Tyrant|tyrant]]. Our friend was quite ready to [[Rebel|rebel]], rushing away. To [[Rebel|rebel]] sitting still was too much for him. Do you readPunch? I am sure you do. Pump andPunch must be almost the only survivors of the Victorian Age. Do you remember an old joke in an excellent picture, representing two ragged Irishmen with guns, waiting behind a stone wall to shoot a landlord? One of the Irishmen says the landlord is late, and adds, ‘I [[Hope|hope]] no accident’s happened to the poor gentleman.’ [[Well]], it’s all perfectly true; I knew that Irishman intimately, but I want to tell you a secret about him. He was an Englishman.”
 
 
 
@@ -733,9 +733,9 @@ He seemed to have beckoned the driver after him; at any rate that functionary in
 
 
 
-All this did Mr. Humphrey Pump observe, not without interest. The place, remote as it was, was evidently arendez-vous for motorists. Otherwise a very tall motorist, throttled and masked in the most impenetrable degree, would hardly have strolled up to speak to him. Still less would the tall motorist have handed him a similar horrid disguise of wraps and goggles, in a bundle over his arm. Least of all would any motorist, however tall, have said to him from behind the cap and goggles, “Put on these things, Hump, and then we’ll go into the milk shop. I’m waiting for the car. Which car, my seeker after truth? Why the car I’m going to buy for you to drive.”
+All this did Mr. Humphrey Pump observe, not without interest. The place, remote as it was, was evidently arendez-vous for motorists. Otherwise a very tall motorist, throttled and masked in the most impenetrable degree, would hardly have strolled up to speak to him. Still less would the tall motorist have handed him a similar horrid disguise of wraps and goggles, in a bundle over his arm. Least of all would any motorist, however tall, have said to him from behind the cap and goggles, “Put on these things, Hump, and then we’ll go into the milk shop. I’m waiting for the car. Which car, my seeker after [[Truth|truth]]? Why the car I’m going to buy for you to drive.”
 
 
 
 
-The remorseful chauffeur, after many adventures, did actually find his way back to the little moonlit wood where he had left his master and the donkey. But his master and the donkey had vanished.
+The remorseful chauffeur, after many adventures, did actually find his way back to the little moonlit wood where he had left his master and the [[donkey]]. But his master and the [[donkey]] had vanished.

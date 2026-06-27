@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 53 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 53 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,7 +22,7 @@ tags:
 
 While standing thus, absorbed in my gloomy reverie, a gentleman’s
 
-carriage came round the corner of the road. I did not look at it; and
+carriage came round the corner of the [[Road|road]]. I did not look at it; and
 
 had it rolled quietly by me, I should not have remembered the fact of
 
@@ -42,7 +42,7 @@ I did not raise my eyes, but I suppose mamma looked, for a clear
 
 melodious voice, whose tones thrilled through my nerves, exclaimed,
 
-“Oh, aunt! here’s Mr. Markham, Arthur’s friend! Stop, Richard!”
+“Oh, aunt! here’s Mr. Markham, [[arthur|Arthur]]’s friend! Stop, [[Richard]]!”
 
 
 
@@ -52,15 +52,15 @@ utterance of those few words—especially that tremulous, “Oh, aunt”—that
 
 it threw me almost off my guard. The carriage stopped immediately, and
 
-I looked up and met the eye of a pale, grave, elderly lady surveying me
+I looked up and met the eye of a pale, [[Grave|grave]], elderly lady surveying me
 
-from the open window. She bowed, and so did I, and then she withdrew
+from the open [[Window|window]]. She bowed, and so did I, and then she withdrew
 
-her head, while Arthur screamed to the footman to let him out; but
+her head, while [[arthur|Arthur]] screamed to the footman to let him out; but
 
 before that functionary could descend from his box a hand was silently
 
-put forth from the carriage window. I knew that hand, though a black
+put forth from the carriage [[Window|window]]. I knew that hand, though a black
 
 glove concealed its delicate whiteness and half its fair proportions,
 
@@ -100,11 +100,11 @@ or disappointment than surprise.
 
 
 
-“Can you doubt?”
+“Can you [[Doubt|doubt]]?”
 
 
 
-“Yes, yes! he _must_ enter,” cried Arthur, running round from the other
+“Yes, yes! he _must_ enter,” cried [[arthur|Arthur]], running round from the other
 
 door; and seizing my hand in both his, he shook it heartily.
 
@@ -114,7 +114,7 @@ door; and seizing my hand in both his, he shook it heartily.
 
 
 
-“Yes, full well, my little man, altered though you are,” replied I,
+“Yes, full [[Well|well]], my little man, altered though you are,” replied I,
 
 surveying the comparatively tall, slim young gentleman, with his
 
@@ -140,11 +140,11 @@ more I shall be as tall as you nearly.”
 
 
 
-“Arthur,” said his mother, “tell him to come in. Go on, Richard.”
+“[[arthur|Arthur]],” said his mother, “tell him to come in. Go on, [[Richard]].”
 
 
 
-There was a touch of sadness as well as coldness in her voice, but I
+There was a touch of sadness as [[Well|well]] as coldness in her voice, but I
 
 knew not to what to ascribe it. The carriage drove on and entered the
 
@@ -156,9 +156,9 @@ and looked round me, waiting to recover my composure, if possible—or,
 
 at any rate, to remember my new-formed resolutions and the principles
 
-on which they were founded; and it was not till Arthur had been for
+on which they were founded; and it was not till [[arthur|Arthur]] had been for
 
-some time gently pulling my coat, and repeating his invitations to
+some [[Time|time]] gently pulling my coat, and repeating his invitations to
 
 enter, that I at length consented to accompany him into the apartment
 
@@ -166,9 +166,9 @@ where the ladies awaited us.
 
 
 
-Helen eyed me as I entered with a kind of gentle, serious scrutiny, and
+[[Helen]] eyed me as I entered with a kind of gentle, serious scrutiny, and
 
-politely asked after Mrs. Markham and Rose. I respectfully answered her
+politely asked after Mrs. Markham and [[Rose]]. I respectfully answered her
 
 inquiries. Mrs. Maxwell begged me to be seated, observing it was rather
 
@@ -188,7 +188,7 @@ cold, but she supposed I had not travelled far that morning.
 
 
 
-“Here’s Rachel, sir,” said Arthur, the only truly happy one amongst us,
+“Here’s Rachel, sir,” said [[arthur|Arthur]], the only truly happy one amongst us,
 
 directing my attention to that worthy individual, who had just entered
 
@@ -204,9 +204,9 @@ character.
 
 
 
-When Helen was divested of her lugubrious bonnet and veil, her heavy
+When [[Helen]] was divested of her lugubrious bonnet and veil, her heavy
 
-winter cloak, &c., she looked so like herself that I knew not how to
+[[Winter|winter]] cloak, &c., she looked so like herself that I knew not how to
 
 bear it. I was particularly glad to see her beautiful black hair,
 
@@ -214,11 +214,11 @@ unstinted still, and unconcealed in its glossy luxuriance.
 
 
 
-“Mamma has left off her widow’s cap in honour of uncle’s marriage,”
+“Mamma has left off her widow’s cap in [[Honour|honour]] of uncle’s [[Marriage|marriage]],”
 
-observed Arthur, reading my looks with a child’s mingled simplicity and
+observed [[arthur|Arthur]], reading my looks with a [[Child|child]]’s mingled simplicity and
 
-quickness of observation. Mamma looked grave and Mrs. Maxwell shook her
+quickness of observation. Mamma looked [[Grave|grave]] and Mrs. Maxwell shook her
 
 head. “And aunt Maxwell is never going to leave off hers,” persisted
 
@@ -244,9 +244,9 @@ restraint almost intolerable, and I had the greatest difficulty in
 
 forcing myself to attend to her remarks and answer them with ordinary
 
-politeness; for I was sensible that Helen was standing within a few
+politeness; for I was sensible that [[Helen]] was standing within a few
 
-feet of me beside the fire. I dared not look at her, but I felt her eye
+feet of me beside the [[Fire|fire]]. I dared not look at her, but I felt her eye
 
 was upon me, and from one hasty, furtive glance, I thought her cheek
 

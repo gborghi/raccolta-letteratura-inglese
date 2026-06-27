@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 10 (part 2)"
+title: "[[Jane Eyre]] — Chapter 10 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -19,14 +19,14 @@ Here a bell, ringing the hour of supper, called me downstairs.
 I was not free to resume the interrupted chain of my reflections till
 bedtime: even then a teacher who occupied the same room with me kept me
 from the subject to which I longed to recur, by a prolonged effusion of
-small talk. How I wished sleep would silence her. It seemed as if,
+small talk. How I wished [[Sleep|sleep]] would [[Silence|silence]] her. It seemed as if,
 could I but go back to the idea which had last entered my mind as I
-stood at the window, some inventive suggestion would rise for my
+stood at the [[Window|window]], some inventive suggestion would rise for my
 relief.
 
 Miss Gryce snored at last; she was a heavy Welshwoman, and till now her
 habitual nasal strains had never been regarded by me in any other light
-than as a nuisance; to-night I hailed the first deep notes with
+than as a nuisance; to-[[Night|night]] I hailed the first deep notes with
 satisfaction; I was debarrassed of interruption; my half-effaced
 thought instantly revived.
 
@@ -35,17 +35,17 @@ thought instantly revived.
 because it does not sound too sweet; it is not like such words as
 Liberty, Excitement, Enjoyment: delightful sounds truly; but no more
 than sounds for me; and so hollow and fleeting that it is mere waste of
-time to listen to them. But Servitude! That must be matter of fact. Any
+[[Time|time]] to listen to them. But Servitude! That must be matter of fact. Any
 one may serve: I have served here eight years; now all I want is to
 serve elsewhere. Can I not get so much of my own will? Is not the thing
 feasible? Yes—yes—the end is not so difficult; if I had only a brain
 active enough to ferret out the means of attaining it.”
 
 I sat up in bed by way of arousing this said brain: it was a chilly
-night; I covered my shoulders with a shawl, and then I proceeded _to
+[[Night|night]]; I covered my shoulders with a shawl, and then I proceeded _to
 think_ again with all my might.
 
-“What do I want? A new place, in a new house, amongst new faces, under
+“What do I want? A new place, in a new [[house]], amongst new faces, under
 new circumstances: I want this because it is of no use wanting anything
 better. How do people do to get a new place? They apply to friends, I
 suppose: I have no friends. There are many others who have no friends,
@@ -66,7 +66,7 @@ _——shire Herald_.”
 
 “How? I know nothing about advertising.”
 
-Replies rose smooth and prompt now:—
+Replies [[Rose|rose]] smooth and prompt now:—
 
 “You must enclose the advertisement and the money to pay for it under a
 cover directed to the editor of the _Herald_; you must put it, the
@@ -86,7 +86,7 @@ years?) “is desirous of meeting with a situation in a private family
 where the children are under fourteen” (I thought that as I was barely
 eighteen, it would not do to undertake the guidance of pupils nearer my
 own age). “She is qualified to teach the usual branches of a good
-English education, together with French, Drawing, and Music” (in those
+English [[Education|education]], together with French, Drawing, and Music” (in those
 days, reader, this now narrow catalogue of accomplishments, would have
 been held tolerably comprehensive). “Address, J.E., Post-office,
 Lowton, ——shire.”
@@ -101,11 +101,11 @@ heavy rain, with streaming garments, but with a relieved heart.
 
 The succeeding week seemed long: it came to an end at last, however,
 like all sublunary things, and once more, towards the close of a
-pleasant autumn day, I found myself afoot on the road to Lowton. A
+pleasant [[Autumn|autumn]] day, I found myself afoot on the [[Road|road]] to Lowton. A
 picturesque track it was, by the way; lying along the side of the beck
 and through the sweetest curves of the dale: but that day I thought
 more of the letters, that might or might not be awaiting me at the
-little burgh whither I was bound, than of the charms of lea and water.
+little burgh whither I was bound, than of the charms of lea and [[Water|water]].
 
 My ostensible errand on this occasion was to get measured for a pair of
 shoes; so I discharged that business first, and when it was done, I
@@ -116,7 +116,7 @@ spectacles on her nose, and black mittens on her hands.
 “Are there any letters for J.E.?” I asked.
 
 She peered at me over her spectacles, and then she opened a drawer and
-fumbled among its contents for a long time, so long that my hopes began
+fumbled among its contents for a long [[Time|time]], so long that my hopes began
 to falter. At last, having held a document before her glasses for
 nearly five minutes, she presented it across the counter, accompanying
 the act by another inquisitive and mistrustful glance—it was for J.E.
@@ -130,7 +130,7 @@ eight, and it was already half-past seven.
 Various duties awaited me on my arrival: I had to sit with the girls
 during their hour of study; then it was my turn to read prayers; to see
 them to bed: afterwards I supped with the other teachers. Even when we
-finally retired for the night, the inevitable Miss Gryce was still my
+finally retired for the [[Night|night]], the inevitable Miss Gryce was still my
 companion: we had only a short end of candle in our candlestick, and I
 dreaded lest she should talk till it was all burnt out; fortunately,
 however, the heavy supper she had eaten produced a soporific effect:

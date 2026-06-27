@@ -19,7 +19,7 @@ New Faces
 
 
 The MAJOR, more blue-faced and staring—more over-ripe, as it were, than
-ever—and giving vent, every now and then, to one of the horse’s coughs,
+ever—and giving vent, every now and then, to one of the [[Horse|horse]]’s coughs,
 not so much of necessity as in a spontaneous explosion of importance,
 walked arm-in-arm with Mr Dombey up the sunny side of the way, with his
 cheeks swelling over his tight stock, his legs majestically wide apart,
@@ -42,13 +42,13 @@ gossamer parasol with a proud and weary air, as if so great an effort
 must be soon abandoned and the parasol dropped, sauntered a much
 younger lady, very handsome, very haughty, very wilful, who tossed her
 head and drooped her eyelids, as though, if there were anything in all
-the world worth looking into, save a mirror, it certainly was not the
+the world worth looking into, save a [[Mirror|mirror]], it certainly was not the
 earth or sky.
 
 “Why, what the devil have we here, Sir!” cried the Major, stopping as
 this little cavalcade drew near.
 
-“My dearest Edith!” drawled the lady in the chair, “Major Bagstock!”
+“My dearest Edith!” drawled the lady in the chair, “[[Major Bagstock]]!”
 
 The Major no sooner heard the voice, than he relinquished Mr Dombey’s
 arm, darted forward, took the hand of the lady in the chair and pressed
@@ -83,7 +83,7 @@ in his ugliest manner.
 “Mrs Skewton, Dombey,” said the Major, “makes havoc in the heart of old
 Josh.”
 
-Mr Dombey signified that he didn’t wonder at it.
+Mr Dombey signified that he didn’t [[Wonder|wonder]] at it.
 
 “You perfidious goblin,” said the lady in the chair, “have done! How
 long have you been here, bad man?”
@@ -92,14 +92,14 @@ long have you been here, bad man?”
 
 “And can you be a day, or even a minute,” returned the lady, slightly
 settling her false curls and false eyebrows with her fan, and showing
-her false teeth, set off by her false complexion, “in the garden of
+her false teeth, set off by her false complexion, “in the [[Garden|garden]] of
 what’s-its-name.”
 
 “Eden, I suppose, Mama,” interrupted the younger lady, scornfully.
 
 “My dear Edith,” said the other, “I cannot help it. I never can
-remember those frightful names—without having your whole Soul and Being
-inspired by the sight of Nature; by the perfume,” said Mrs Skewton,
+remember those frightful names—without having your whole [[Soul]] and Being
+inspired by the sight of [[Nature]]; by the perfume,” said Mrs Skewton,
 rustling a handkerchief that was faint and sickly with essences, “of
 her artless breath, you creature!”
 
@@ -108,23 +108,23 @@ forlornly faded manner, was hardly less observable than that between
 her age, which was about seventy, and her dress, which would have been
 youthful for twenty-seven. Her attitude in the wheeled chair (which she
 never varied) was one in which she had been taken in a barouche, some
-fifty years before, by a then fashionable artist who had appended to
-his published sketch the name of Cleopatra: in consequence of a
-discovery made by the critics of the time, that it bore an exact
+fifty years before, by a then fashionable [[artist]] who had appended to
+his published [[Sketch|sketch]] the name of [[Cleopatra]]: in consequence of a
+discovery made by the critics of the [[Time|time]], that it bore an exact
 resemblance to that Princess as she reclined on board her galley. Mrs
-Skewton was a beauty then, and bucks threw wine-glasses over their
-heads by dozens in her honour. The beauty and the barouche had both
+Skewton was a [[Beauty|beauty]] then, and bucks threw wine-glasses over their
+heads by dozens in her [[Honour|honour]]. The [[Beauty|beauty]] and the barouche had both
 passed away, but she still preserved the attitude, and for this reason
 expressly, maintained the wheeled chair and the butting page: there
 being nothing whatever, except the attitude, to prevent her from
 walking.
 
-“Mr Dombey is devoted to Nature, I trust?” said Mrs Skewton, settling
+“Mr Dombey is devoted to [[Nature]], I trust?” said Mrs Skewton, settling
 her diamond brooch. And by the way, she chiefly lived upon the
 reputation of some diamonds, and her family connexions.
 
 “My friend Dombey, Ma’am,” returned the Major, “may be devoted to her
-in secret, but a man who is paramount in the greatest city in the
+in secret, but a man who is paramount in the greatest [[City|city]] in the
 universe—”
 
 “No one can be a stranger,” said Mrs Skewton, “to Mr Dombey’s immense

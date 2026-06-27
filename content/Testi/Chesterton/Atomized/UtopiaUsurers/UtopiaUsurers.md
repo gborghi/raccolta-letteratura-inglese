@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers"
+title: "[[UtopiaUsurers]]"
 author: "Chesterton"
 unitType: work
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -47,7 +47,7 @@ By Gilbert Keith Chesterton
 
 CONTENTS
 
-     A Song of Swords
+     A [[Song]] of Swords
 
      Utopia of Usurers
 
@@ -63,7 +63,7 @@ CONTENTS
 
       VI. Science and the Eugenists
 
-      VII. The Evolution of the Prison
+      VII. The Evolution of the [[Prison]]
 
       VIII. The Lash for Labour
 
@@ -75,9 +75,9 @@ CONTENTS
 
      The New Name
 
-     A Workman's History of England
+     A Workman's [[history|History]] of England
 
-     The French Revolution and the Irish
+     The [[French Revolution]] and the Irish
 
      Liberalism: A Sample
 
@@ -85,7 +85,7 @@ CONTENTS
 
      The Amnesty for Aggression
 
-     Revive the Court Jester
+     Revive the [[Court]] Jester
 
      The Art of Missing the Point
 
@@ -99,19 +99,19 @@ CONTENTS
 
      A Real Danger
 
-     The Dregs of Puritanism
+     The Dregs of [[Puritanism]]
 
      The Tyranny of Bad Journalism
 
      The Poetry of the Revolution
 
-A SONG OF SWORDS
+A [[Song|SONG]] OF SWORDS
 
   "A drove of cattle came into a village called Swords;
 
   and was stopped by the rioters."--Daily Paper.
 
-  In the place called Swords on the Irish road
+  In the place called Swords on the Irish [[Road|road]]
 
   It is told for a new renown
 
@@ -129,9 +129,9 @@ A SONG OF SWORDS
 
   On the souls that suddenly all men knew,
 
-  And the green flag flew and the red flag flew,
+  And the green [[Flag|flag]] flew and the red [[Flag|flag]] flew,
 
-  And many a wheel of the world stopped, too,
+  And many a [[Wheel|wheel]] of the world stopped, too,
 
   When the cattle were stopped at Swords.
 
@@ -147,7 +147,7 @@ A SONG OF SWORDS
 
   This is your lawful wage.
 
-  You pinched a child to a torture price
+  You pinched a [[Child|child]] to a torture price
 
   That you dared not name in words;
 
@@ -159,11 +159,11 @@ A SONG OF SWORDS
 
   When the cattle have strayed at Swords.
 
-  The wheel of the torrent of wives went round
+  The [[Wheel|wheel]] of the torrent of wives went round
 
   To break men's brotherhood;
 
-  You gave the good Irish blood to grease
+  You gave the good Irish [[Blood|blood]] to grease
 
   The clubs of your country's enemies;
 
@@ -177,9 +177,9 @@ A SONG OF SWORDS
 
   But the kings and crowds are holding their breath,
 
-  In a giant shadow o'er all beneath
+  In a giant [[Shadow|shadow]] o'er all beneath
 
-  Where God stands holding the scales of Death
+  Where God stands holding the scales of [[Death]]
 
   Between the cattle and Swords.
 
@@ -207,11 +207,11 @@ profane, I can only prophesy when I am in a rage and think things look
 
 ugly for everybody. And like all healthy-minded prophets, I prophesy in
 
-the hope that my prophecy may not come true. For the prediction made by
+the [[Hope|hope]] that my prophecy may not come true. For the prediction made by
 
 the true soothsayer is like the warning given by a good doctor. And the
 
-doctor has really triumphed when the patient he condemned to death has
+doctor has really triumphed when the patient he condemned to [[Death|death]] has
 
 revived to life. The threat is justified at the very moment when it is
 
@@ -225,7 +225,7 @@ it is growing stronger. Most of the excuses which serve the capitalists
 
 as masks are, of course, the excuses of hypocrites. They lie when they
 
-claim philanthropy; they no more feel any particular love of men than
+claim philanthropy; they no more feel any particular [[Love|love]] of men than
 
 Albu felt an affection for Chinamen. They lie when they say they have
 
@@ -235,7 +235,7 @@ generally have to pay men to organise the mine, exactly as they pay
 
 men to go down it. They often lie about the present wealth, as they
 
-generally lie about their past poverty. But when they say that they
+generally lie about their past [[Poverty|poverty]]. But when they say that they
 
 are going in for a "constructive social policy," they do not lie. They
 
@@ -291,7 +291,7 @@ Victorian epoch can be best seen in this: that the Victorian atmosphere,
 
 with all its faults, did not permit such a style of patronage to pass as
 
-a matter of course. Michael Angelo may have been proud to have helped an
+a matter of course. [[Michael]] [[Angelo]] may have been proud to have helped an
 
 emperor or a pope; though, indeed, I think he was prouder than they
 
@@ -299,21 +299,21 @@ were on his own account. I do not believe Sir John Millais was proud of
 
 having helped a soap-boiler. I do not say he thought it wrong; but he
 
-was not proud of it. And that marks precisely the change from his time
+was not proud of it. And that marks precisely the change from his [[Time|time]]
 
 to our own. Our merchants have really adopted the style of merchant
 
 princes. They have begun openly to dominate the civilisation of the
 
-State, as the emperors and popes openly dominated in Italy. In Millais's
+State, as the emperors and popes openly dominated in [[Italy]]. In Millais's
 
-time, broadly speaking, art was supposed to mean good art; advertisement
+[[Time|time]], broadly speaking, art was supposed to mean good art; advertisement
 
 was supposed to mean inferior art. The head of a black man, painted
 
 to advertise somebody's blacking, could be a rough symbol, like an inn
 
-sign. The black man had only to be black enough. An artist exhibiting
+sign. The black man had only to be black enough. An [[Artist|artist]] exhibiting
 
 the picture of a negro was expected to know that a black man is not so
 
@@ -331,7 +331,7 @@ I should say the first effect of the triumph of the capitalist (if
 
 we allow him to triumph) will be that that line of demarcation will
 
-entirely disappear. There will be no art that might not just as well be
+entirely disappear. There will be no art that might not just as [[Well|well]] be
 
 advertisement. I do not necessarily mean that there will be no good art;
 
@@ -345,13 +345,13 @@ of a negro advertising Somebody's Blacking now adays were finished
 
 with as careful and subtle colours as one of the old and superstitious
 
-painters would have wasted on the negro king who brought gifts to
+painters would have wasted on the negro [[King|king]] who brought gifts to
 
-Christ. But the improvement of advertisements is the degradation of
+[[Christ]]. But the improvement of advertisements is the degradation of
 
 artists. It is their degradation for this clear and vital reason: that
 
-the artist will work, not only to please the rich, but only to increase
+the [[Artist|artist]] will work, not only to please the rich, but only to increase
 
 their riches; which is a considerable step lower. After all, it was as
 
@@ -367,7 +367,7 @@ which the Pope ordered of Raphael. And no one who knows the small-minded
 
 cynicism of our plutocracy, its secrecy, its gambling spirit, its
 
-contempt of conscience, can doubt that the artist-advertiser will often
+contempt of [[Conscience|conscience]], can [[Doubt|doubt]] that the [[Artist|artist]]-advertiser will often
 
 be assisting enterprises over which he will have no moral control, and
 
@@ -383,7 +383,7 @@ brethren, and the noble duty of praise. For that picture by Millais is
 
 a very allegorical picture. It is almost a prophecy of what uses are
 
-awaiting the beauty of the child unborn. The praise will be of a kind
+awaiting the [[Beauty|beauty]] of the [[Child|child]] [[unborn]]. The praise will be of a kind
 
 that may correctly be called soap; and the enterprises of a kind that
 
@@ -393,7 +393,7 @@ II. Letters and the New Laureates
 
 In these articles I only take two or three examples of the first and
 
-fundamental fact of our time. I mean the fact that the capitalists of
+fundamental fact of our [[Time|time]]. I mean the fact that the capitalists of
 
 our community are becoming quite openly the kings of it. In my last (and
 
@@ -411,7 +411,7 @@ the art verges on artlessness.
 
 The great difficulty with the English lies in the absence of something
 
-one may call democratic imagination. We find it easy to realise an
+one may call democratic [[Imagination|imagination]]. We find it easy to realise an
 
 individual, but very hard to realise that the great masses consist of
 
@@ -419,7 +419,7 @@ individuals. Our system has been aristocratic: in the special sense of
 
 there being only a few actors on the stage. And the back scene is kept
 
-quite dark, though it is really a throng of faces. Home Rule tended to
+quite dark, though it is really a throng of faces. [[Home]] Rule tended to
 
 be not so much the Irish as the Grand Old Man. The Boer War tended not
 
@@ -455,17 +455,17 @@ some of the carelessness of the colossus of Arcis; "Que mon nom soit
 
 fletri, que la France soit libre."
 
-A Dance of Degradation
+A [[Dance]] of Degradation
 
 It is needless to say that this respecting of persons has led all the
 
-other parties a dance of degradation. We ruin South Africa because it
+other parties a [[Dance|dance]] of degradation. We ruin South Africa because it
 
 would be a slight on Lord Gladstone to save South Africa. We have a bad
 
 army, because it would be a snub to Lord Haldane to have a good army.
 
-And no Tory is allowed to say "Marconi" for fear Mr. George should say
+And no Tory is allowed to say "Marconi" for [[Fear|fear]] Mr. George should say
 
 "Kynoch." But this curious personal element, with its appalling lack of
 
@@ -481,25 +481,25 @@ masters and princes of the community.
 
 I will take a Victorian instance to mark the change; as I did in the
 
-case of the advertisement of "Bubbles." It was said in my childhood, by
+case of the advertisement of "Bubbles." It was said in my [[Childhood|childhood]], by
 
 the more apoplectic and elderly sort of Tory, that W. E. Gladstone was
 
 only a Free Trader because he had a partnership in Gilbey's foreign
 
-wines. This was, no doubt, nonsense; but it had a dim symbolic, or
+wines. This was, no [[Doubt|doubt]], nonsense; but it had a dim symbolic, or
 
-mainly prophetic, truth in it. It was true, to some extent even then,
+mainly prophetic, [[Truth|truth]] in it. It was true, to some extent even then,
 
 and it has been increasingly true since, that the statesman was often an
 
 ally of the salesman; and represented not only a nation of shopkeepers,
 
-but one particular shop. But in Gladstone's time, even if this was true,
+but one particular shop. But in Gladstone's [[Time|time]], even if this was true,
 
-it was never the whole truth; and no one would have endured it being the
+it was never the whole [[Truth|truth]]; and no one would have endured it being the
 
-admitted truth. The politician was not solely an eloquent and persuasive
+admitted [[Truth|truth]]. The politician was not solely an eloquent and persuasive
 
 bagman travelling for certain business men; he was bound to mix even his
 
@@ -547,11 +547,11 @@ seen in several magazines lately, and magazines of a high class, the
 
 appearance of a new kind of article. Literary men are being employed to
 
-praise a big business man personally, as men used to praise a king. They
+praise a big business man personally, as men used to praise a [[King|king]]. They
 
 not only find political reasons for the commercial schemes--that they
 
-have done for some time past--they also find moral defences for the
+have done for some [[Time|time]] past--they also find moral defences for the
 
 commercial schemers. They describe the capitalist's brain of steel and
 
@@ -579,7 +579,7 @@ the parlour-trick in question particularly astonishing. Another literary
 
 man, who certainly ought to know better, wrote in another paper a piece
 
-of hero-worship about Mr. Selfridge. No doubt the fashion will spread,
+of [[Hero|hero]]-worship about Mr. Selfridge. No [[Doubt|doubt]] the fashion will spread,
 
 and the art of words, as polished and pointed by Ruskin or Meredith,
 
@@ -593,13 +593,13 @@ Any man can be praised--and rightly praised. If he only stands on two
 
 legs he does something a cow cannot do. If a rich man can manage to
 
-stand on two legs for a reasonable time, it is called self-control. If
+stand on two legs for a reasonable [[Time|time]], it is called [[Self|self]]-control. If
 
-he has only one leg, it is called (with some truth) self-sacrifice. I
+he has only one leg, it is called (with some [[Truth|truth]]) [[Self-Sacrifice|self-sacrifice]]. I
 
 could say something nice (and true) about every man I have ever met.
 
-Therefore, I do not doubt I could find something nice about Lyons or
+Therefore, I do not [[Doubt|doubt]] I could find something nice about Lyons or
 
 Selfridge if I searched for it. But I shall not. The nearest postman or
 
@@ -609,13 +609,13 @@ of gold as these unlucky lucky men. But I do resent the whole age
 
 of patronage being revived under such absurd patrons; and all poets
 
-becoming court poets, under kings that have taken no oath, nor led us
+becoming [[Court|court]] poets, under kings that have taken no oath, nor led us
 
 into any battle.
 
 III. Unbusinesslike Business
 
-The fairy tales we were all taught did not, like the history we were all
+The fairy tales we were all taught did not, like the [[history]] we were all
 
 taught, consist entirely of lies. Parts of the tale of "Puss in Boots"
 
@@ -629,15 +629,15 @@ that both in "Puss in Boots" and "Jack and the Beanstalk" if I remember
 
 aright, the ogre was not only an ogre but also a magician. And it will
 
-generally be found that in all such popular narratives, the king, if he
+generally be found that in all such popular narratives, the [[King|king]], if he
 
-is a wicked king, is generally also a wizard. Now there is a very vital
+is a wicked [[King|king]], is generally also a wizard. Now there is a very vital
 
-human truth enshrined in this. Bad government, like good government,
+human [[Truth|truth]] enshrined in this. Bad [[government]], like good [[government]],
 
-is a spiritual thing. Even the tyrant never rules by force alone; but
+is a spiritual thing. Even the [[Tyrant|tyrant]] never rules by force [[Alone|alone]]; but
 
-mostly by fairy tales. And so it is with the modern tyrant, the great
+mostly by fairy tales. And so it is with the modern [[Tyrant|tyrant]], the great
 
 employer. The sight of a millionaire is seldom, in the ordinary sense,
 
@@ -671,7 +671,7 @@ of different doors and a great many hot and unhealthy underground
 
 departments (they must be hot; this is very important), and more people
 
-than would be needed for a man-of-war, or crowded cathedral, to say:
+than would be needed for a man-of-war, or crowded [[Cathedral|cathedral]], to say:
 
 "This way, madam," and "The next article, sir," it follows that
 
@@ -683,7 +683,7 @@ is to say, any housekeeper in a bad temper, will tell you that they are
 
 not. But housekeepers, too, are human, and therefore inconsistent and
 
-complex; and they do not always stick to truth and bad temper. They are
+complex; and they do not always stick to [[Truth|truth]] and bad temper. They are
 
 also affected by this queer idolatry of the enormous and elaborate; and
 
@@ -691,13 +691,13 @@ cannot help feeling that anything so complicated must go like clockwork.
 
 But complexity is no guarantee of accuracy--in clockwork or in anything
 
-else. A clock can be as wrong as the human head; and a clock can stop,
+else. A [[Clock|clock]] can be as wrong as the human head; and a [[Clock|clock]] can stop,
 
 as suddenly as the human heart.
 
 But this strange poetry of plutocracy prevails over people against their
 
-very senses. You write to one of the great London stores or emporia,
+very senses. You write to one of the great [[London]] stores or emporia,
 
 asking, let us say, for an umbrella. A month or two afterwards you
 
@@ -707,15 +707,15 @@ parasol. You are very pleased. You are gratified to reflect on what
 
 a vast number of assistants and employees had combined to break that
 
-parasol. You luxuriate in the memory of all those long rooms and
+parasol. You luxuriate in the [[Memory|memory]] of all those long rooms and
 
-departments and wonder in which of them the parasol that you never
+departments and [[Wonder|wonder]] in which of them the parasol that you never
 
-ordered was broken. Or you want a toy elephant for your child on
+ordered was broken. Or you want a toy elephant for your [[Child|child]] on
 
 Christmas Day; as children, like all nice and healthy people, are very
 
-ritualistic. Some week or so after Twelfth Night, let us say, you have
+ritualistic. Some week or so after [[Twelfth Night]], let us say, you have
 
 the pleasure of removing three layers of pasteboards, five layers of
 
@@ -723,7 +723,7 @@ brown paper, and fifteen layers of tissue paper and discovering the
 
 fragments of an artificial crocodile. You smile in an expansive spirit.
 
-You feel that your soul has been broadened by the vision of incompetence
+You feel that your [[Soul|soul]] has been broadened by the vision of incompetence
 
 conducted on so large a scale. You admire all the more the colossal
 
@@ -731,7 +731,7 @@ and Omnipresent Brain of the Organiser of Industry, who amid all his
 
 multitudinous cares did not disdain to remember his duty of smashing
 
-even the smallest toy of the smallest child. Or, supposing you have
+even the smallest toy of the smallest [[Child|child]]. Or, supposing you have
 
 asked him to send you some two rolls of cocoa-nut matting: and supposing
 
@@ -745,7 +745,7 @@ to know how big the business is: and what an enormous number of people
 
 were needed to make such a mistake.
 
-That is the romance that has been told about the big shops; in the
+That is the [[Romance|romance]] that has been told about the big shops; in the
 
 literature and art which they have bought, and which (as I said in
 
@@ -755,7 +755,7 @@ ordinary advertisements. The literature is commercial; and it is
 
 only fair to say that the commerce is often really literary. It is no
 
-romance, but only rubbish.
+[[Romance|romance]], but only rubbish.
 
 The big commercial concerns of to-day are quite exceptionally
 
@@ -809,15 +809,15 @@ holidays. I do not mean that he necessarily wants all his workmen to
 
 work until they drop; that only occurs when he happens to be stupid as
 
-well as wicked. I do not mean to say that he is necessarily unwilling to
+[[Well|well]] as wicked. I do not mean to say that he is necessarily unwilling to
 
 grant what he would call "decent hours of labour." He may treat men like
 
 dirt; but if you want to make money, even out of dirt, you must let
 
-it lie fallow by some rotation of rest. He may treat men as dogs, but
+it lie fallow by some rotation of rest. He may treat men as [[dogs]], but
 
-unless he is a lunatic he will for certain periods let sleeping dogs
+unless he is a lunatic he will for certain periods let sleeping [[dogs]]
 
 lie.
 
@@ -827,7 +827,7 @@ with the idea of holidays. It is not even a question of ten hours day
 
 and eight-hours day; it is not a question of cutting down leisure to
 
-the space necessary for food, sleep and exercise. If the modern employer
+the space necessary for food, [[Sleep|sleep]] and exercise. If the modern employer
 
 came to the conclusion, for some reason or other, that he could get most
 
@@ -835,15 +835,15 @@ out of his men by working them hard for only two hours a day, his whole
 
 mental attitude would still be foreign and hostile to holidays. For his
 
-whole mental attitude is that the passive time and the active time are
+whole mental attitude is that the passive [[Time|time]] and the active [[Time|time]] are
 
 alike useful for him and his business. All is, indeed, grist that
 
 comes to his mill, including the millers. His slaves still serve him in
 
-unconsciousness, as dogs still hunt in slumber. His grist is ground not
+unconsciousness, as [[dogs]] still hunt in slumber. His grist is ground not
 
-only by the sounding wheels of iron, but by the soundless wheel of blood
+only by the sounding wheels of iron, but by the soundless [[Wheel|wheel]] of [[Blood|blood]]
 
 and brain. His sacks are still filling silently when the doors are shut
 
@@ -853,21 +853,21 @@ The Great Holiday
 
 Now a holiday has no connection with using a man either by beating or
 
-feeding him. When you give a man a holiday you give him back his body
+feeding him. When you give a man a holiday you give him back his [[Body|body]]
 
-and soul. It is quite possible you may be doing him an injury (though
+and [[Soul|soul]]. It is quite possible you may be doing him an injury (though
 
 he seldom thinks so), but that does not affect the question for those to
 
-whom a holiday is holy. Immortality is the great holiday; and a holiday,
+whom a holiday is holy. [[Immortality]] is the great holiday; and a holiday,
 
-like the immortality in the old theologies, is a double-edged privilege.
+like the [[Immortality|immortality]] in the old theologies, is a [[Double|double]]-edged privilege.
 
 But wherever it is genuine it is simply the restoration and completion
 
 of the man. If people ever looked at the printed word under their eye,
 
-the word "recreation" would be like the word "resurrection," the blast
+the word "recreation" would be like the word "[[Resurrection|resurrection]]," the blast
 
 of a trumpet.
 
@@ -885,7 +885,7 @@ a head), but when he has done work he goes to the cloak-room, like the
 
 man at the club, and gets his head back again; that is the germ of the
 
-holiday. It may be urged that the club man who leaves his hat often goes
+holiday. It may be urged that the club man who [[Leaves|leaves]] his hat often goes
 
 away with another hat; and perhaps it may be the same with the factory
 
@@ -893,7 +893,7 @@ hand who has left his head. A hand that has lost its head may affect the
 
 fastidious as a mixed metaphor; but, God pardon us all, what an unmixed
 
-truth! We could almost prove the whole ease from the habit of calling
+[[Truth|truth]]! We could almost prove the whole ease from the habit of calling
 
 human beings merely "hands" while they are working; as if the hand were
 
@@ -913,7 +913,7 @@ that the hat taken away by mistake is frequently better than the real
 
 hat; whereas the head taken away after the hours of toil is certainly
 
-worse: stained with the cobwebs and dust of this dustbin of all the
+worse: stained with the cobwebs and [[Dust|dust]] of this dustbin of all the
 
 centuries.
 
@@ -933,7 +933,7 @@ the Avenue de l'Opera would embrace a leper, slap him on the back, and
 
 ask him to order what he liked; but I do say that hospitality is his
 
-trade virtue. And I do also say it is well to keep before our eyes the
+trade virtue. And I do also say it is [[Well|well]] to keep before our eyes the
 
 supreme adventure of a virtue. If you are brave, think of the man who
 
@@ -955,11 +955,11 @@ statue to "restore"; that ineffaceable image of man that some call the
 
 image of God. And that is the holiday; it is the restaurant or restoring
 
-thing that, by a blast of magic, turns a man into himself.
+thing that, by a blast of [[Magic|magic]], turns a man into himself.
 
-This complete and reconstructed man is the nightmare of the modern
+This complete and reconstructed man is the [[nightmare]] of the modern
 
-capitalist. His whole scheme would crack across like a mirror of
+capitalist. His whole scheme would crack across like a [[Mirror|mirror]] of
 
 Shallot, if once a plain man were ready for his two plain duties--ready
 
@@ -971,21 +971,21 @@ human being: something that is not a "hand" or a "head for figures." But
 
 an awful creature who has met himself in the wilderness. The employers
 
-will give time to eat, time to sleep; they are in terror of a time to
+will give [[Time|time]] to eat, [[Time|time]] to [[Sleep|sleep]]; they are in terror of a [[Time|time]] to
 
 think.
 
-To anyone who knows any history it is wholly needless to say that
+To anyone who knows any [[history]] it is wholly needless to say that
 
 holidays have been destroyed. As Mr. Belloc, who knows much more
 
-history than you or I, recently pointed out in the "Pall Mall Magazine,"
+[[history]] than you or I, recently pointed out in the "Pall Mall Magazine,"
 
-Shakespeare's title of "Twelfth Night: or What You Will" simply meant
+Shakespeare's title of "[[Twelfth Night]]: or What You Will" simply meant
 
-that a winter carnival for everybody went on wildly till the twelfth
+that a [[Winter|winter]] carnival for everybody went on wildly till the twelfth
 
-night after Christmas. Those of my readers who work for modern offices
+[[Night|night]] after Christmas. Those of my readers who work for modern offices
 
 or factories might ask their employers for twelve days' holidays after
 
@@ -1001,7 +1001,7 @@ believing in God should be a reason for my believing in Him.
 
 But the rather spinsterish flutter among some of the old Freethinkers
 
-has put one tiny ripple of truth in it; and that affects the idea which
+has put one tiny ripple of [[Truth|truth]] in it; and that affects the idea which
 
 I wish to emphasise even to monotony in these pages. I mean the idea
 
@@ -1037,7 +1037,7 @@ it--or he would be obviously below it. Take even the least attractive
 
 and popular side of the larger religions to-day; take the mere vetoes
 
-imposed by Islam on Atheism or Catholicism. The Moslem veto upon
+imposed by [[Islam]] on Atheism or Catholicism. The Moslem veto upon
 
 intoxicants cuts across all classes. But it is absolutely necessary for
 
@@ -1049,7 +1049,7 @@ between gin and champagne. The Atheist veto upon all miracles cuts
 
 across all classes. But it is absolutely necessary for the capitalist to
 
-make a distinction between his wife (who is an aristocrat and consults
+make a distinction between his wife (who is an [[aristocrat]] and consults
 
 crystal gazers and star gazers in the West End), and vulgar miracles
 
@@ -1091,7 +1091,7 @@ there are other pleasures of the poor which cannot mean profits for the
 
 rich? Watch this one contrast, and you will watch the whole creation of
 
-a careful slavery.
+a careful [[Slavery|slavery]].
 
 In the last resort the two things called Beer and Soap end only in a
 
@@ -1125,7 +1125,7 @@ completeness of the impoverishment will be made a reason for the
 
 enslavement; though the men who impoverished were the same who enslaved.
 
-It is as if a highwayman not only took away a gentleman's horse and all
+It is as if a highwayman not only took away a gentleman's [[Horse|horse]] and all
 
 his money, but then handed him over to the police for tramping without
 
@@ -1133,7 +1133,7 @@ visible means of subsistence. And the most monstrous feature in this
 
 enormous meanness may be noted in the plutocratic appeal to science, or,
 
-rather, to the pseudo-science that they call Eugenics.
+rather, to the pseudo-science that they call [[Eugenics]].
 
 The Eugenists get the ear of the humane but rather hazy cliques by
 
@@ -1157,23 +1157,23 @@ the plutocratic scientist, with a slightly troubled expression, turns
 
 his eyes and pince-nez in another direction. Reduced to brutal terms of
 
-truth, his difficulty is this and simply this: More food, leisure, and
+[[Truth|truth]], his difficulty is this and simply this: More food, leisure, and
 
 money for the workman would mean a better workman, better even from the
 
 point of view of anyone for whom he worked. But more food, leisure, and
 
-money would also mean a more independent workman. A house with a decent
+money would also mean a more independent workman. A [[house]] with a decent
 
-fire and a full pantry would be a better house to make a chair or mend
+[[Fire|fire]] and a full pantry would be a better [[house]] to make a chair or mend
 
-a clock in, even from the customer's point of view, than a hovel with a
+a [[Clock|clock]] in, even from the customer's point of view, than a hovel with a
 
-leaky roof and a cold hearth. But a house with a decent fire and a full
+leaky roof and a cold hearth. But a [[house]] with a decent [[Fire|fire]] and a full
 
-pantry would also be a better house in which to refuse to make a chair
+pantry would also be a better [[house]] in which to refuse to make a chair
 
-or mend a clock--a much better house to do nothing in--and doing nothing
+or mend a [[Clock|clock]]--a much better [[house]] to do nothing in--and doing nothing
 
 is sometimes one of the highest of the duties of man. All but the
 
@@ -1187,15 +1187,15 @@ roof and the rickety cradle in a pensive manner, there one day came into
 
 his mind a new and curious idea--one of the most strange, simple, and
 
-horrible ideas that have ever risen from the deep pit of original sin.
+horrible ideas that have ever risen from the deep pit of [[Original Sin|original sin]].
 
 The roof could not be mended, or, at least, it could not be mended much,
 
 without upsetting the capitalist balance, or, rather, disproportion in
 
-society; for a man with a roof is a man with a house, and to that extent
+society; for a man with a roof is a man with a [[house]], and to that extent
 
-his house is his castle. The cradle could not be made to rock easier,
+his [[house]] is his [[Castle|castle]]. The cradle could not be made to rock easier,
 
 or, at least, not much easier, without strengthening the hands of the
 
@@ -1203,9 +1203,9 @@ poor household, for the hand that rocks the cradle rules the world--to
 
 that extent. But it occurred to the capitalist that there was one sort
 
-of furniture in the house that could be altered. The husband and wife
+of furniture in the [[house]] that could be altered. The husband and wife
 
-could be altered. Birth costs nothing, except in pain and valour and
+could be altered. Birth costs nothing, except in [[Pain|pain]] and valour and
 
 such old-fashioned things; and the merchant need pay no more for mating
 
@@ -1221,19 +1221,19 @@ political, or social improvement. It might be possible to keep a
 
 supply of strong and healthy slaves without coddling them with decent
 
-conditions. As the mill-owners use the wind and the water to drive their
+conditions. As the mill-owners use the [[Wind|wind]] and the [[Water|water]] to drive their
 
 mills, they would use this natural force as something even cheaper; and
 
-turn their wheels by diverting from its channel the blood of a man in
+turn their wheels by diverting from its channel the [[Blood|blood]] of a man in
 
-his youth. That is what Eugenics means; and that is all that it means.
+his youth. That is what [[Eugenics]] means; and that is all that it means.
 
 Of the moral state of those who think of such things it does not become
 
 us to speak. The practical question is rather the intellectual one:
 
-of whether their calculations are well founded, and whether the men
+of whether their calculations are [[Well|well]] founded, and whether the men
 
 of science can or will guarantee them any such physical certainties.
 
@@ -1249,13 +1249,13 @@ men. That is, that though it is not true that all men are normal, it is
 
 overwhelmingly certain that most men are normal. All the common Eugenic
 
-arguments are drawn from extreme cases, which, even if human honour
+arguments are drawn from extreme cases, which, even if human [[Honour|honour]]
 
 and laughter allowed of their being eliminated, would not by their
 
 elimination greatly affect the mass. For the rest, there remains the
 
-enormous weakness in Eugenics, that if ordinary men's judgment or
+enormous weakness in [[Eugenics]], that if ordinary men's judgment or
 
 liberty is to be discounted in relation to heredity, the judgment of
 
@@ -1273,7 +1273,7 @@ we should need a perfectly Wise Man to do the thing at all. And if he
 
 were a Wise Man he would not do it.
 
-VII. THE EVOLUTION OF THE PRISON
+VII. THE EVOLUTION OF THE [[Prison|PRISON]]
 
 I have never understood why it is that those who talk most about
 
@@ -1283,7 +1283,7 @@ not see the one way in which evolution really does apply to our modern
 
 difficulty. There is, of course, an element of evolutionism in the
 
-universe; and I know no religion or philosophy that ever entirely
+universe; and I know no religion or [[philosophy]] that ever entirely
 
 ignored it. Evolution, popularly speaking, is that which happens to
 
@@ -1293,11 +1293,11 @@ rather, some parts of them grow and some parts of them fade; and at any
 
 given moment there is almost always some presence of the fading thing,
 
-and some incompleteness in the growing one. Thus, if I went to sleep
+and some incompleteness in the growing one. Thus, if I went to [[Sleep|sleep]]
 
-for a hundred years, like the Sleeping Beauty (I wish I could), I should
+for a hundred years, like the Sleeping [[Beauty]] (I wish I could), I should
 
-grow a beard--unlike the Sleeping Beauty. And just as I should grow
+grow a beard--unlike the Sleeping [[Beauty]]. And just as I should grow
 
 hair if I were asleep, I should grow grass if I were dead. Those whose
 
@@ -1305,9 +1305,9 @@ religion it was that God was asleep were perpetually impressed
 
 and affected by the fact that he had a long beard. And those whose
 
-philosophy it is that the universe is dead from the beginning (being
+[[philosophy]] it is that the universe is dead from the beginning (being
 
-the grave of nobody in particular) think that is the way that grass can
+the [[Grave|grave]] of nobody in particular) think that is the way that grass can
 
 grow. In any case, these developments only occur with dead or dreaming
 
@@ -1335,11 +1335,11 @@ dead dog; but it is essential for such a liberation of life that the dog
 
 should be unconscious or (to say the least of it) absent-minded. Broadly
 
-speaking, you may call the thing corruption, if you happen to like dogs.
+speaking, you may call the thing corruption, if you happen to like [[dogs]].
 
 You may call it evolution, if you happen to like maggots. In either
 
-case, it is what happens to things if you leave them alone.
+case, it is what happens to things if you leave them [[Alone|alone]].
 
 The Evolutionists' Error
 
@@ -1373,39 +1373,39 @@ it? What modern institution may have swollen to six times its present
 
 size in the social heat and growth of the future? I do not think the
 
-Garden City will grow: but of that I may speak in my next and last
+[[Garden]] [[City]] will grow: but of that I may speak in my next and last
 
 article of this series. I do not think even the ordinary Elementary
 
-School, with its compulsory education, will grow. Too many unlettered
+School, with its compulsory [[Education|education]], will grow. Too many unlettered
 
 people hate the teacher for teaching; and too many lettered people
 
-hate the teacher for not teaching. The Garden City will not bear much
+hate the teacher for not teaching. The [[Garden]] [[City]] will not bear much
 
 blossom; the young idea will not shoot, unless it shoots the teacher.
 
 But the one flowering tree on the estate, the one natural expansion
 
-which I think will expand, is the institution we call the Prison.
+which I think will expand, is the institution we call the [[Prison]].
 
 Prisons for All
 
 If the capitalists are allowed to erect their constructive capitalist
 
-community, I speak quite seriously when I say that I think Prison will
+community, I speak quite seriously when I say that I think [[Prison]] will
 
 become an almost universal experience. It will not necessarily be a
 
 cruel or shameful experience: on these points (I concede certainly for
 
-the present purpose of debate) it may be a vastly improved experience.
+the present purpose of [[debate]]) it may be a vastly improved experience.
 
-The conditions in the prison, very possibly, will be made more humane.
+The conditions in the [[Prison|prison]], very possibly, will be made more humane.
 
-But the prison will be made more humane only in order to contain more of
+But the [[Prison|prison]] will be made more humane only in order to contain more of
 
-humanity. I think little of the judgment and sense of humour of any man
+humanity. I think little of the judgment and sense of [[Humour|humour]] of any man
 
 who can have watched recent police trials without realising that it is
 
@@ -1413,25 +1413,25 @@ no longer a question of whether the law has been broken by a crime; but,
 
 now, solely a question of whether the situation could be mended by an
 
-imprisonment. It was so with Tom Mann; it was so with Larkin; it was so
+[[Imprisonment|imprisonment]]. It was so with Tom Mann; it was so with Larkin; it was so
 
 with the poor atheist who was kept in gaol for saying something he
 
 had been acquitted of saying: it is so in such cases day by day. We no
 
-longer lock a man up for doing something; we lock him up in the hope
+longer lock a man up for doing something; we lock him up in the [[Hope|hope]]
 
 of his doing nothing. Given this principle, it is evidently possible
 
 to make the mere conditions of punishment more moderate, or--(more
 
-probably) more secret. There may really be more mercy in the Prison,
+probably) more secret. There may really be more [[Mercy|mercy]] in the [[Prison]],
 
-on condition that there is less justice in the Court. I should not be
+on condition that there is less justice in the [[Court]]. I should not be
 
 surprised if, before we are done with all this, a man was allowed to
 
-smoke in prison, on condition, of course, that he had been put in prison
+smoke in [[Prison|prison]], on condition, of course, that he had been put in [[Prison|prison]]
 
 for smoking.
 
@@ -1439,27 +1439,27 @@ Now that is the process which, in the absence of democratic protest,
 
 will certainly proceed, will increase and multiply and replenish the
 
-earth and subdue it. Prison may even lose its disgrace for a little
+earth and subdue it. [[Prison]] may even lose its disgrace for a little
 
-time: it will be difficult to make it disgraceful when men like Larkin
+[[Time|time]]: it will be difficult to make it disgraceful when men like Larkin
 
 can be imprisoned for no reason at all, just as his celebrated ancestor
 
 was hanged for no reason at all. But capitalist society, which naturally
 
-does not know the meaning of honour, cannot know the meaning of
+does not know the meaning of [[Honour|honour]], cannot know the meaning of
 
 disgrace: and it will still go on imprisoning for no reason at all. Or
 
-rather for that rather simple reason that makes a cat spring or a rat
+rather for that rather simple reason that makes a cat [[spring]] or a rat
 
 run away.
 
 It matters little whether our masters stoop to state the matter in the
 
-form that every prison should be a school; or in the more candid form
+form that every [[Prison|prison]] should be a school; or in the more candid form
 
-that every school should be a prison. They have already fulfilled their
+that every school should be a [[Prison|prison]]. They have already fulfilled their
 
 servile principle in the case of the schools. Everyone goes to the
 
@@ -1467,13 +1467,13 @@ Elementary Schools except the few people who tell them to go there. I
 
 prophesy that (unless our revolt succeeds) nearly everyone will be going
 
-to Prison, with a precisely similar patience.
+to [[Prison]], with a precisely similar patience.
 
 VIII. THE LASH FOR LABOUR
 
-If I were to prophesy that two hundred years hence a grocer would have
+If I were to prophesy that two hundred years hence a [[grocer]] would have
 
-the right and habit of beating the grocer's assistant with a stick, or
+the right and habit of beating the [[grocer]]'s assistant with a stick, or
 
 that shop girls might be flogged, as they already can be fined, many
 
@@ -1481,13 +1481,13 @@ would regard it as rather a rash remark. It would be a rash remark.
 
 Prophecy is always unreliable; unless we except the kind which is
 
-avowedly irrational, mystical and supernatural prophecy. But relatively
+avowedly irrational, mystical and [[Supernatural|supernatural]] prophecy. But relatively
 
 to nearly all the other prophecies that are being made around me to-day,
 
 I should say my prediction stood an exceptionally good chance. In short,
 
-I think the grocer with the stick is a figure we are far more likely to
+I think the [[grocer]] with the stick is a figure we are far more likely to
 
 see than the Superman or the Samurai, or the True Model Employer, or the
 
@@ -1495,21 +1495,21 @@ Perfect Fabian Official, or the citizen of the Collectivist State. And
 
 it is best for us to see the full ugliness of the transformation which
 
-is passing over our Society in some such abrupt and even grotesque image
+is passing over our Society in some such abrupt and even [[Grotesque|grotesque]] image
 
-at the end of it. The beginnings of a decline, in every age of history,
+at the end of it. The beginnings of a decline, in every age of [[history]],
 
 have always had the appearance of being reforms. Nero not only fiddled
 
 while Rome was burning, but he probably really paid more attention to
 
-the fiddle than to the fire. The Roi Soleil, like many other soleils,
+the fiddle than to the [[Fire|fire]]. The Roi Soleil, like many other soleils,
 
 was most splendid to all appearance a little before sunset. And if I
 
 ask myself what will be the ultimate and final fruit of all our
 
-social reforms, garden cities, model employers, insurances, exchanges,
+social reforms, [[Garden|garden]] cities, model employers, insurances, exchanges,
 
 arbitration courts, and so on, then, I say, quite seriously, "I think it
 
@@ -1519,7 +1519,7 @@ The Sultan and the Sack
 
 Let us arrange in some order a number of converging considerations that
 
-all point in this direction. (1) It is broadly true, no doubt, that the
+all point in this direction. (1) It is broadly true, no [[Doubt|doubt]], that the
 
 weapon of the employer has hitherto been the threat of dismissal, that
 
@@ -1565,7 +1565,7 @@ a chronic condition of breaking up for the holidays. And the reasons
 
 for the insufficiency of this extreme instrument are also varied and
 
-evident. The materialistic Sociologists, who talk about the survival of
+evident. The materialistic Sociologists, who talk about the [[Survival|survival]] of
 
 the fittest and the weakest going to the wall (and whose way of looking
 
@@ -1585,7 +1585,7 @@ his work and good in another; that he may be occasionally drunk and yet
 
 generally indispensable. Just as a practical school-master would know
 
-that a schoolboy can be at once the plague and the pride of the school.
+that a schoolboy can be at once the plague and the [[Pride|pride]] of the school.
 
 Under these circumstances small and varying penalties are obviously the
 
@@ -1609,7 +1609,7 @@ private property in some reasonable degree; but not only is this not
 
 true to-day, but it is not being made any truer, even by those who
 
-honestly believe that they are mending matters. The great employers will
+honestly believe that they are [[mending]] matters. The great employers will
 
 often do something towards improving what they call the "conditions"
 
@@ -1627,25 +1627,25 @@ employer of labour to tax her for punishment as it is for the Chancellor
 
 of the Exchequer to tax her for revenue. The next most obvious thing to
 
-think of, of course, would be imprisonment, and that might be effective
+think of, of course, would be [[Imprisonment|imprisonment]], and that might be effective
 
 enough under simpler conditions. An old-fashioned shopkeeper might have
 
 locked up his apprentice in his coal-cellar; but his coal-cellar would
 
-be a real, pitch dark coal-cellar, and the rest of his house would be a
+be a real, pitch dark coal-cellar, and the rest of his [[house]] would be a
 
-real human house. Everybody (especially the apprentice) would see a most
+real human [[house]]. Everybody (especially the apprentice) would see a most
 
 perceptible difference between the two. But, as I pointed out in the
 
 article before this, the whole tendency of the capitalist legislation
 
-and experiment is to make imprisonment much more general and automatic,
+and experiment is to make [[Imprisonment|imprisonment]] much more general and automatic,
 
 while making it, or professing to make it, more humane. In other words,
 
-the hygienic prison and the servile factory will become so uncommonly
+the hygienic [[Prison|prison]] and the servile factory will become so uncommonly
 
 like each other that the poor man will hardly know or care whether he
 
@@ -1655,7 +1655,7 @@ both places there will be the same sort of shiny tiles. In neither place
 
 will there be any cell so unwholesome as a coal-cellar or so wholesome
 
-as a home. The weapon of the prison, therefore, like the weapon of
+as a [[Home|home]]. The weapon of the [[Prison|prison]], therefore, like the weapon of
 
 the fine, will be found to have considerable limitations to its
 
@@ -1675,7 +1675,7 @@ punishment at last (as it did in every slave system I ever heard of,
 
 including some that were generally kindly, and even successful), will
 
-merely be struck with horror and incredulity, and feel that such a
+merely be struck with horror and [[Incredulity|incredulity]], and feel that such a
 
 barbarous revival is unthinkable in the modern atmosphere. How far it
 
@@ -1685,7 +1685,7 @@ ruder times I will discuss in a moment. But first, as another of the
 
 converging lines tending to corporal punishment, consider this: that for
 
-some reason or other the old full-blooded and masculine humanitarianism
+some reason or other the old full-blooded and masculine [[Humanitarianism|humanitarianism]]
 
 in this matter has weakened and fallen silent; it has weakened and
 
@@ -1697,9 +1697,9 @@ Nonconformist minister, the average Labour Member, the average
 
 middle-class Socialist, were, with all their good qualities, very
 
-deficient in what I consider a respect for the human soul. But I did
+deficient in what I consider a respect for the human [[Soul|soul]]. But I did
 
-imagine that they had the ordinary modern respect for the human body.
+imagine that they had the ordinary modern respect for the human [[Body|body]].
 
 The fact, however, is clear and incontrovertible. In spite of the horror
 
@@ -1713,7 +1713,7 @@ it to the newest and vaguest categories of crime. Thirty or forty years
 
 ago, nay, twenty years ago, when Mr. F. Hugh O'Donnell and others forced
 
-a Liberal Government to drop the cat-o'-nine-tails like a scorpion, we
+a Liberal [[government|Government]] to drop the cat-o'-nine-tails like a scorpion, we
 
 could have counted on a mass of honest hatred of such things. We cannot
 
@@ -1727,7 +1727,7 @@ the jambok or the knout. It could easily be developed out of the many
 
 forms of physical discipline which are already used by employers on the
 
-excuses of education or hygiene. Already in some factories girls are
+excuses of [[Education|education]] or hygiene. Already in some factories girls are
 
 obliged to swim whether they like it or not, or do gymnastics whether
 
@@ -1755,7 +1755,7 @@ set up; if they do succeed in setting it up, the battle for the poor is
 
 lost.
 
-We must note, first of all, a general truth about the curious time we
+We must note, first of all, a general [[Truth|truth]] about the curious [[Time|time]] we
 
 live in. It will not be so difficult as some people may suppose to make
 
@@ -1763,7 +1763,7 @@ the Servile State look rather like Socialism, especially to the more
 
 pedantic kind of Socialist. The reason is this. The old lucid and
 
-trenchant expounder of Socialism, such as Blatchford or Fred Henderson,
+trenchant expounder of Socialism, such as Blatchford or [[Fred]] Henderson,
 
 always describes the economic power of the plutocrats as consisting in
 
@@ -1771,7 +1771,7 @@ private property. Of course, in a sense, this is quite true; though they
 
 too often miss the point that private property, as such, is not the same
 
-as property confined to the few. But the truth is that the situation has
+as property confined to the few. But the [[Truth|truth]] is that the situation has
 
 grown much more subtle; perhaps too subtle, not to say too insane, for
 
@@ -1809,9 +1809,9 @@ though they might have suffered confiscation in theory. Mr. Lloyd George
 
 has four hundred a year as an M. P.; but he not only gets much more as a
 
-Minister, but he might at any time get immeasurably more by speculating
+Minister, but he might at any [[Time|time]] get immeasurably more by speculating
 
-on State secrets that are necessarily known to him. Some say that he has
+on State [[Secrets|secrets]] that are necessarily known to him. Some say that he has
 
 even attempted something of the kind. Now, it would be quite possible to
 
@@ -1829,17 +1829,17 @@ not improbable that the same men will handle and enjoy in much the same
 
 manner, though in theory they are doing it as instruments, and not as
 
-individuals. For instance, the Prime Minister has a private house, which
+individuals. For instance, the Prime Minister has a private [[house]], which
 
-is also (I grieve to inform that eminent Puritan) a public house. It
+is also (I grieve to inform that eminent Puritan) a public [[house]]. It
 
-is supposed to be a sort of Government office; though people do not
+is supposed to be a sort of [[government|Government]] office; though people do not
 
-generally give children's parties, or go to bed in a Government office.
+generally give children's parties, or go to bed in a [[government|Government]] office.
 
-I do not know where Mr. Herbert Samuel lives; but I have no doubt he
+I do not know where Mr. Herbert Samuel lives; but I have no [[Doubt|doubt]] he
 
-does himself well in the matter of decoration and furniture. On the
+does himself [[Well|well]] in the matter of decoration and furniture. On the
 
 existing official parallel there is no need to move any of these
 
@@ -1863,7 +1863,7 @@ only their pay is called their expenses. This system might run side by
 
 side with a theory of equal wages, as absolute as that once laid down by
 
-Mr. Bernard Shaw. By the theory of the State, Mr. Herbert Samuel and Mr.
+Mr. Bernard [[Shaw]]. By the theory of the State, Mr. Herbert Samuel and Mr.
 
 Lloyd George might be humble citizens, drudging for their fourpence
 
@@ -1875,7 +1875,7 @@ Samuel in an astrakhan coat and a motor-car, we should find the record
 
 of the expenditure (if we could find it at all) under the heading of
 
-"Speed Limit Extension Enquiry Commission." If it fell to our lot to
+"[[Speed]] Limit Extension Enquiry Commission." If it fell to our lot to
 
 behold (with the eye of flesh) what seemed to be Mr. Lloyd George
 
@@ -1903,21 +1903,21 @@ select according to the needs of usurers; its religion will be just
 
 charitable enough to pardon usurers; its penal system will be just cruel
 
-enough to crush all the critics of usurers: the truth of it will be
+enough to crush all the critics of usurers: the [[Truth|truth]] of it will be
 
-Slavery: and the title of it may quite possibly be Socialism.
+[[Slavery]]: and the title of it may quite possibly be Socialism.
 
 THE ESCAPE
 
      We watched you building, stone by stone,
 
-     The well-washed cells and well-washed graves
+     The [[Well|well]]-washed cells and [[Well|well]]-washed graves
 
      We shall inhabit but not own
 
      When Britons ever shall be slaves;
 
-     The water's waiting in the trough,
+     The [[Water|water]]'s waiting in the trough,
 
      The tame oats sown are portioned free,
 
@@ -1965,7 +1965,7 @@ THE ESCAPE
 
      The knowledge of that naked whole
 
-     That hath delivered our flesh and soul
+     That hath delivered our flesh and [[Soul|soul]]
 
      Out of your Paradise.
 
@@ -1993,15 +1993,15 @@ THE ESCAPE
 
      Make the wet ditch, or winds that sting,
 
-     Lost pride, or the pawned wedding rings,
+     Lost [[Pride|pride]], or the pawned wedding rings,
 
-     Or drink or Death a blacker thing
+     Or drink or [[Death]] a blacker thing
 
      Than a smile upon your face.
 
 THE NEW RAID
 
-The two kinds of social reform, one of which might conceivably free
+The two kinds of social [[Reform|reform]], one of which might conceivably free
 
 us at last while the other would certainly enslave us forever, are
 
@@ -2031,9 +2031,9 @@ difficulty in thriving upon her. There are only two things that he can
 
 do, and the distinction between them cuts the whole social and political
 
-world in two. It is a touchstone by which we can--not sometimes, but
+world in two. It is a [[Touchstone|touchstone]] by which we can--not sometimes, but
 
-always--distinguish economic equality from servile social reform. He can
+always--distinguish economic equality from servile social [[Reform|reform]]. He can
 
 give the girl some magnificent sum, such as sixpence a day, to do as she
 
@@ -2063,9 +2063,9 @@ This Capitalist is an ingenious person, and has many polished
 
 characteristics; but I think the most singular thing about him is his
 
-staggering lack of shame. Neither the hour of death nor the day of
+staggering lack of shame. Neither the hour of [[Death|death]] nor the day of
 
-reckoning, neither the tent of exile nor the house of mourning, neither
+reckoning, neither the tent of [[Exile|exile]] nor the [[house]] of mourning, neither
 
 chivalry nor patriotism, neither womanhood nor widowhood, is safe at
 
@@ -2081,9 +2081,9 @@ heart. To a man of any manhood nothing can be conceived more loathsome
 
 and sacrilegious than even so much as asking whether a woman who has
 
-given up all she loved to death and the fatherland has or has not shown
+given up all she loved to [[Death|death]] and the fatherland has or has not shown
 
-some weakness in her seeking for self-comfort. I know not in which of
+some weakness in her seeking for [[Self|self]]-comfort. I know not in which of
 
 the two cases I should count myself the baser for inquiring--a case
 
@@ -2097,7 +2097,7 @@ of the fact when he calls his workers "men" as distinct from masters. He
 
 cannot comprehend the gallantry of costermongers or the delicacy that is
 
-quite common among cabmen. He finds this social reform by half-rations
+quite common among cabmen. He finds this social [[Reform|reform]] by half-rations
 
 on the whole to his mercantile profit, and it will be hard to get him to
 
@@ -2113,7 +2113,7 @@ the facts they do not know. The Duchess of Marlborough is, I believe,
 
 an American, and this separates her from the problem in a special way,
 
-because the drink question in America is entirely different from the
+because the drink question in [[america|America]] is entirely different from the
 
 drink question in England. But I wish the Duchess of Marlborough would
 
@@ -2137,15 +2137,15 @@ course, and their schoolmasters gave it to them as a matter of course.
 
 To tell a poor woman that she must not have any until half the day is
 
-over is simply cracked, like telling a dog or a child that he must
+over is simply cracked, like telling a dog or a [[Child|child]] that he must
 
-not have water. (2) The public-house is not a secret rendezvous of bad
+not have [[Water|water]]. (2) The public-[[house]] is not a secret rendezvous of bad
 
 characters. It is the open and obvious place for a certain purpose,
 
 which all men used for that purpose until the rich began to be snobs
 
-and the poor to become slaves. One might as well warn people against
+and the poor to become slaves. One might as [[Well|well]] warn people against
 
 Willesden Junction. (3) Many poor people live in houses where they
 
@@ -2165,11 +2165,11 @@ Something has come into our community, which is strong enough to save
 
 our community; but which has not yet got a name. Let no one fancy I
 
-confess any unreality when I confess the namelessness. The morality
+confess any unreality when I confess the namelessness. The [[morality]]
 
-called Puritanism, the tendency called Liberalism, the reaction called
+called [[Puritanism]], the tendency called Liberalism, the reaction called
 
-Tory Democracy, had not only long been powerful, but had practically
+Tory [[Democracy]], had not only long been powerful, but had practically
 
 done most of their work, before these actual names were attached to
 
@@ -2179,7 +2179,7 @@ portable and practicable way of referring to those who think as we do
 
 in our main concern. Which is, that men in England are ruled, at this
 
-minute by the clock, by brutes who refuse them bread, by liars who
+minute by the [[Clock|clock]], by brutes who refuse them bread, by liars who
 
 refuse them news, and by fools who cannot govern, and therefore wish to
 
@@ -2189,21 +2189,21 @@ Let me explain first why I am not satisfied with the word commonly used,
 
 which I have often used myself; and which, in some contexts, is quite
 
-the right word to use. I mean the word "rebel." Passing over the fact
+the right word to use. I mean the word "[[Rebel|rebel]]." Passing over the fact
 
 that many who understand the justice of our cause (as a great many at
 
-the Universities) would still use the word "rebel" in its old and strict
+the Universities) would still use the word "[[Rebel|rebel]]" in its old and strict
 
 sense as meaning only a disturber of just rule. I pass to a much more
 
-practical point. The word "rebel" understates our cause. It is much too
+practical point. The word "[[Rebel|rebel]]" understates our cause. It is much too
 
 mild; it lets our enemies off much too easily. There is a tradition in
 
-all western life and letters of Prometheus defying the stars, of man
+all western life and letters of [[Prometheus]] defying the [[Stars|stars]], of man
 
-at war with the Universe, and dreaming what nature had never dared to
+at war with the Universe, and dreaming what [[Nature|nature]] had never dared to
 
 dream. All this is valuable in its place and proportion. But it has
 
@@ -2211,7 +2211,7 @@ nothing whatever to do with our ease; or rather it very much weakens it.
 
 The plutocrats will be only too pleased if we profess to preach a new
 
-morality; for they know jolly well that they have broken the old one.
+[[morality]]; for they know jolly [[Well|well]] that they have broken the old one.
 
 They will be only too pleased to be able to say that we, by our own
 
@@ -2227,9 +2227,9 @@ Christians. And avarice has gone mad in the governing class to-day, just
 
 as lust went mad in the circle of Nero. By all the working and orthodox
 
-standards of sanity, capitalism is insane. I should not say to Mr.
+standards of [[Sanity|sanity]], capitalism is insane. I should not say to Mr.
 
-Rockefeller "I am a rebel." I should say "I am a respectable man: and
+Rockefeller "I am a [[Rebel|rebel]]." I should say "I am a respectable man: and
 
 you are not."
 
@@ -2265,17 +2265,17 @@ to ascertain the cause. And suppose the clerk could only explain, in a
 
 muffled voice through the brown paper, that he was by constitution and
 
-temperament a Rebel. Don't you see that he would be rather understating
+temperament a [[Rebel]]. Don't you see that he would be rather understating
 
 his case? Don't you see he would be bearing his injuries much too
 
 meekly? They might take him out of the parcel; but they would very
 
-possibly put him into a mad-house instead. Symbolically speaking, that
+possibly put him into a mad-[[house]] instead. Symbolically speaking, that
 
 is what they would like to do with us. Symbolically speaking, the dirty
 
-misers who rule us will put us in a mad-house--unless we can put them
+misers who rule us will put us in a mad-[[house]]--unless we can put them
 
 there.
 
@@ -2295,11 +2295,11 @@ position. Suppose no books were shown. Suppose when the new cashier came
 
 to be initiated into his duties, the old cashier did not tell him about
 
-the money, but confided it to the honour and delicacy of his own maiden
+the money, but confided it to the [[Honour|honour]] and delicacy of his own maiden
 
 aunt at Cricklewood. Suppose he then went off in a yacht to visit
 
-the whale fisheries of the North Sea. Well, in every moral and legal
+the whale fisheries of the North Sea. [[Well]], in every moral and legal
 
 principle, that is a precise account of the dealings with the Party
 
@@ -2307,17 +2307,17 @@ Funds. But what would the banker say? What would the clients say? One
 
 thing, I think, I can venture to promise; the banker would not march up
 
-and down the office exclaiming in rapture, "I'm a rebel! That's what I
+and down the office exclaiming in rapture, "I'm a [[Rebel|rebel]]! That's what I
 
-am, a rebel!" And if he said to the first indignant depositor "You are
+am, a [[Rebel|rebel]]!" And if he said to the first indignant depositor "You are
 
-a rebel," I fear the depositor might answer, "You are a robber." We have
+a [[Rebel|rebel]]," I [[Fear|fear]] the depositor might answer, "You are a robber." We have
 
 no need to elaborate arguments for breaking the law. The capitalists
 
 have broken the law. We have no need of further moralities. They have
 
-broken their own morality. It is as if you were to run down the street
+broken their own [[morality]]. It is as if you were to run down the street
 
 shouting, "Communism! Communism! Share! Share!" after a man who had run
 
@@ -2371,13 +2371,13 @@ a Socialist; therefore there was some use in the word. But the
 
 capitalists, in that aggressive march which is the main fact of our
 
-time, have captured our standards, both in the military and philosophic
+[[Time|time]], have captured our standards, both in the military and philosophic
 
 sense of the word. And it is useless for us to march under colours which
 
-they can carry as well as we.
+they can carry as [[Well|well]] as we.
 
-Do you believe in Democracy? The devils also believe and tremble. Do you
+Do you believe in [[Democracy]]? The devils also believe and tremble. Do you
 
 believe in Trades Unionism? The Labour Members also believe; and tremble
 
@@ -2389,7 +2389,7 @@ did Beit. Do you believe in the decentralisation of Empire? So does
 
 Albu. Do you believe in the brotherhood of men: and do you, dear
 
-brethren, believe that Brother Arthur Henderson does not? Do you cry,
+brethren, believe that Brother [[arthur|Arthur]] Henderson does not? Do you cry,
 
 "The world for the workers!" and do you imagine Philip Snowden would
 
@@ -2407,13 +2407,13 @@ my prejudices to want it christened. I advertise for godfathers and
 
 godmothers.
 
-A WORKMAN'S HISTORY OF ENGLAND
+A WORKMAN'S [[history|HISTORY]] OF ENGLAND
 
 A thing which does not exist and which is very much wanted is "A
 
-Working-Man's History of England." I do not mean a history written
+Working-Man's [[history|History]] of England." I do not mean a [[history]] written
 
-for working men (there are whole dustbins of them), I mean a history,
+for working men (there are whole dustbins of them), I mean a [[history]],
 
 written by working men or from the working men's standpoint. I wish five
 
@@ -2423,9 +2423,9 @@ in one man and tell the story.
 
 It is impossible to ignore altogether any comment coming from so eminent
 
-a literary artist as Mr. Laurence Housman, but I do not deal here so
+a literary [[Artist|artist]] as Mr. Laurence Housman, but I do not deal here so
 
-specially with his well known conviction about Votes for Women, as with
+specially with his [[Well|well]] known conviction about Votes for Women, as with
 
 another idea which is, I think, rather at the back of it, if not with
 
@@ -2433,7 +2433,7 @@ him at least with others; and which concerns this matter of the true
 
 story of England. For the true story is so entirely different from the
 
-false official story that the official classes tell that by this time
+false official story that the official classes tell that by this [[Time|time]]
 
 the working class itself has largely forgotten its own experience.
 
@@ -2447,15 +2447,15 @@ it seems to me a matter of secondary importance whether we link it up
 
 with Female Suffrage or not.
 
-Now the ordinary version of recent English history that most moderately
+Now the ordinary version of recent English [[history]] that most moderately
 
-educated people have absorbed from childhood is something like this.
+educated people have absorbed from [[Childhood|childhood]] is something like this.
 
 That we emerged slowly from a semi-barbarism in which all the power
 
-and wealth were in the hands of Kings and a few nobles; that the King's
+and wealth were in the hands of Kings and a few nobles; that the [[King]]'s
 
-power was broken first and then in due time that of the nobles, that
+power was broken first and then in due [[Time|time]] that of the nobles, that
 
 this piece-meal improvement was brought about by one class after
 
@@ -2467,7 +2467,7 @@ consequence of such menacing popular action, the franchise was granted
 
 to one class after another and used more and more to improve the social
 
-conditions of those classes, until we practically became a democracy,
+conditions of those classes, until we practically became a [[Democracy|democracy]],
 
 save for such exceptions as that of the women. I do not think anyone
 
@@ -2477,33 +2477,33 @@ man who reads a newspaper and of the newspaper that he reads. That
 
 is the view current at public schools and colleges; it is part of the
 
-culture of all the classes that count for much in government; and there
+culture of all the classes that count for much in [[government]]; and there
 
-is not one word of truth in it from beginning to end.
+is not one word of [[Truth|truth]] in it from beginning to end.
 
-That Great Reform Bill
+That Great [[Reform]] Bill
 
 Wealth and political power were very much more popularly distributed
 
 in the Middle Ages than they are now; but we will pass all that and
 
-consider recent history. The franchise has never been largely and
+consider recent [[history]]. The franchise has never been largely and
 
 liberally granted in England; half the males have no vote and are not
 
 likely to get one. It was _never_ granted in reply to pressure from
 
-awakened sections of the democracy; in every case there was a perfectly
+awakened sections of the [[Democracy|democracy]]; in every case there was a perfectly
 
 clear motive for granting it solely for the convenience of the
 
-aristocrats. The Great Reform Bill was not passed in response to such
+aristocrats. The Great [[Reform]] Bill was not passed in response to such
 
-riots as that which destroyed a Castle; nor did the men who destroyed
+riots as that which destroyed a [[Castle]]; nor did the men who destroyed
 
-the Castle get any advantage whatever out of the Great Reform Bill. The
+the [[Castle]] get any advantage whatever out of the Great [[Reform]] Bill. The
 
-Great Reform Bill was passed in order to seal an alliance between the
+Great [[Reform]] Bill was passed in order to seal an alliance between the
 
 landed aristocrats and the rich manufacturers of the north (an alliance
 
@@ -2511,7 +2511,7 @@ that rules us still); and the chief object of that alliance was to
 
 _prevent_ the English populace getting any political power in the
 
-general excitement after the French Revolution. No one can read
+general excitement after the [[French Revolution]]. No one can read
 
 Macaulay's speech on the Chartists, for instance, and not see that this
 
@@ -2535,7 +2535,7 @@ real thing that was going on was the steady despoiling of the poor
 
 of all power or wealth, until they find themselves to-day upon the
 
-threshold of slavery. That is The Working Man's History of England.
+threshold of [[Slavery|slavery]]. That is The Working Man's [[history|History]] of England.
 
 Now, as I have said, I care comparatively little what is done with the
 
@@ -2559,7 +2559,7 @@ by the coarse and Christless cynicism of other men. But, of course,
 
 this way of talking is exactly in accordance with the fashionable
 
-and official version of English history. Thus, you will read that the
+and official version of English [[history]]. Thus, you will read that the
 
 monasteries, places where men of the poorest origin could be powerful,
 
@@ -2567,13 +2567,13 @@ grew corrupt and gradually decayed. Or you will read that the mediaeval
 
 guilds of free workmen yielded at last to an inevitable economic law.
 
-You will read this; and you will be reading lies. They might as well say
+You will read this; and you will be reading lies. They might as [[Well|well]] say
 
-that Julius Caesar gradually decayed at the foot of Pompey's statue. You
+that [[Julius Caesar]] gradually decayed at the foot of [[Pompey]]'s statue. You
 
-might as well say that Abraham Lincoln yielded at last to an inevitable
+might as [[Well|well]] say that [[Abraham Lincoln]] yielded at last to an inevitable
 
-economic law. The free mediaeval guilds did not decay; they were
+economic law. The free mediaeval guilds did not [[Decay|decay]]; they were
 
 murdered. Solid men with solid guns and halberds, armed with lawful
 
@@ -2619,7 +2619,7 @@ reasonable. But if we were to say that it could by any possibility be
 
 represented as being the negro's fault that he was at that moment
 
-in America and not in Africa, we should be saying what is frankly
+in [[america|America]] and not in Africa, we should be saying what is frankly
 
 unreasonable. It is every bit as unreasonable to say the mere supineness
 
@@ -2627,7 +2627,7 @@ of the English workmen has put them in the capitalist slave-yard. The
 
 capitalist has put them in the capitalist slaveyard; and very cunning
 
-smiths have hammered the chains. It is just this creative criminality in
+smiths have hammered the [[Chains|chains]]. It is just this creative criminality in
 
 the authors of the system that we must not allow to be slurred over. The
 
@@ -2635,19 +2635,19 @@ capitalist is in the dock to-day; and so far as I at least can prevent
 
 him, he shall not get out of it.
 
-THE FRENCH REVOLUTION AND THE IRISH
+THE [[French Revolution|FRENCH REVOLUTION]] AND THE IRISH
 
-It will be long before the poison of the Party System is worked out
+It will be long before the [[Poison|poison]] of the Party System is worked out
 
-of the body politic. Some of its most indirect effects are the most
+of the [[Body|body]] politic. Some of its most indirect effects are the most
 
 dangerous. One that is very dangerous just now is this: that for most
 
-Englishmen the Party System falsifies history, and especially the
+Englishmen the Party System falsifies [[history]], and especially the
 
-history of revolutions. It falsifies history because it simplifies
+[[history]] of revolutions. It falsifies [[history]] because it simplifies
 
-history. It paints everything either Blue or Buff in the style of its
+[[history]]. It paints everything either Blue or Buff in the style of its
 
 own silly circus politics: while a real revolution has as many colours
 
@@ -2657,7 +2657,7 @@ this error we shall make very bad blunders about the real revolution
 
 which seems to grow more and more probable, especially among the Irish.
 
-And any human familiarity with history will teach a man this first of
+And any human familiarity with [[history]] will teach a man this first of
 
 all: that Party practically does not exist in a real revolution. It is a
 
@@ -2673,7 +2673,7 @@ Schools, you will find some differences between the two, chiefly a
 
 difference in the management of the voice. But you will find they
 
-are both English in a special way, and that their education has been
+are both English in a special way, and that their [[Education|education]] has been
 
 essentially the same. They are ignorant on the same subjects. They have
 
@@ -2689,7 +2689,7 @@ Meaning of Empire Day?" And the name of that element is "unhistoric." It
 
 knows nothing really about England, still less about Ireland or France,
 
-and, least of all, of course, about anything like the French Revolution.
+and, least of all, of course, about anything like the [[French Revolution]].
 
 Revolution by Snap Division
 
@@ -2697,7 +2697,7 @@ Now what general notion does the ordinary English boy, thus taught to
 
 utter one ignorance in one of two accents, get and keep through life
 
-about the French Revolution? It is the notion of the English House of
+about the [[French Revolution]]? It is the notion of the English [[house|House]] of
 
 Commons with an enormous Radical majority on one side of the table and
 
@@ -2713,17 +2713,17 @@ were brightened by a riot or a massacre, instead of by a whisky and soda
 
 and a Marconi tip. Novels are much more reliable than histories in such
 
-matters. For though an English novel about France does not tell the
+matters. For though an English [[Novel|novel]] about France does not tell the
 
-truth about France, it does tell the truth about England; and more than
+[[Truth|truth]] about France, it does tell the [[Truth|truth]] about England; and more than
 
-half the histories never tell the truth about anything. And popular
+half the histories never tell the [[Truth|truth]] about anything. And popular
 
 fiction, I think, bears witness to the general English impression. The
 
-French Revolution is a snap division with an unusual turnover of votes.
+[[French Revolution]] is a snap division with an unusual turnover of votes.
 
-On the one side stand a king and queen who are good but weak, surrounded
+On the one side stand a [[King|king]] and [[Queen|queen]] who are good but weak, surrounded
 
 by nobles with rapiers drawn; some of whom are good, many of whom are
 
@@ -2743,7 +2743,7 @@ their united frenzy may have been forced on them by the evils of the old
 
 regime.
 
-That, I think, is the commonest English view of the French Revolution;
+That, I think, is the commonest English view of the [[French Revolution]];
 
 and it will not survive the reading of two pages of any real speech or
 
@@ -2755,7 +2755,7 @@ hardly believe you if you told him some of the common human subtleties
 
 of the case. Tell him that Robespierre threw the red cap in the dirt in
 
-disgust, while the king had worn it with a broad grin, so to speak; tell
+disgust, while the [[King|king]] had worn it with a broad grin, so to speak; tell
 
 him that Danton, the fierce founder of the Republic of the Terror, said
 
@@ -2767,9 +2767,9 @@ the efforts of people who particularly wanted to go on with it--and he
 
 will not believe these things. He will not believe them because he has
 
-no humility, and therefore no realism. He has never been inside himself;
+no [[Humility|humility]], and therefore no realism. He has never been inside himself;
 
-and so could never be inside another man. The truth is that in the
+and so could never be inside another man. The [[Truth|truth]] is that in the
 
 French affair everybody occupied an individual position. Every man
 
@@ -2787,25 +2787,25 @@ Humanity than either, because that physician (though himself somewhat
 
 needing a physician) really cared about it. The nobles were divided,
 
-each man from the next. The attitude of the king was quite different
+each man from the next. The attitude of the [[King|king]] was quite different
 
-from the attitude of the queen; certainly much more different than any
+from the attitude of the [[Queen|queen]]; certainly much more different than any
 
 differences between our Liberals and Tories for the last twenty years.
 
-And it will sadden _some_ of my friends to remember that it was the king
+And it will sadden _some_ of my friends to remember that it was the [[King|king]]
 
-who was the Liberal and the queen who was the Tory. There were not two
+who was the Liberal and the [[Queen|queen]] who was the Tory. There were not two
 
 people, I think, in that most practical crisis who stood in precisely
 
 the same attitude towards the situation. And that is why, between them,
 
-they saved Europe. It is when you really perceive the unity of mankind
+they saved Europe. It is when you really perceive the [[unity]] of mankind
 
 that you really perceive its variety. It is not a flippancy, it is a
 
-very sacred truth, to say that when men really understand that they are
+very sacred [[Truth|truth]], to say that when men really understand that they are
 
 brothers they instantly begin to fight.
 
@@ -2817,7 +2817,7 @@ the Irish Revolution. You will not be able to make a Party System out of
 
 the matter. Everybody is in revolt; therefore everybody is telling the
 
-truth. The Nationalists will go on caring most for the nation, as Danton
+[[Truth|truth]]. The Nationalists will go on caring most for the nation, as Danton
 
 and the defenders of the frontier went on caring most for the nation.
 
@@ -2825,19 +2825,19 @@ The priests will go on caring most for religion, as Robespierre went on
 
 caring most for religion. The Socialists will go on caring most for the
 
-cure of physical suffering, as Marat went on caring most for it. It is
+cure of physical [[Suffering|suffering]], as Marat went on caring most for it. It is
 
 out of these real differences that real things can be made, such as the
 
-modern French democracy. For by such tenacity everyone sees at last that
+modern French [[Democracy|democracy]]. For by such tenacity everyone sees at last that
 
 there is something in the other person's position. And those drilled in
 
 party discipline see nothing either past or present. And where there is
 
-nothing there is Satan.
+nothing there is [[Satan]].
 
-For a long time past in our politics there has not only been no real
+For a long [[Time|time]] past in our politics there has not only been no real
 
 battle, but no real bargain. No two men have bargained as Gladstone and
 
@@ -2851,7 +2851,7 @@ LIBERALISM: A SAMPLE
 
 There is a certain daily paper in England towards which I feel very much
 
-as Tom Pinch felt towards Mr. Pecksniff immediately after he had
+as [[Tom Pinch]] felt towards Mr. Pecksniff immediately after he had
 
 found him out. The war upon Dickens was part of the general war on all
 
@@ -2869,11 +2869,11 @@ and his successes alternate with his failures; but his successes
 
 are subtle quite as often as they are simple. Thus, to take "Martin
 
-Chuzzlewit" alone, I should call the joke about the Lord No-zoo a simple
+Chuzzlewit" [[Alone|alone]], I should call the joke about the Lord No-zoo a simple
 
 joke: but I should call the joke about Mrs. Todgers's vision of a wooden
 
-leg a subtle joke. And no frame of mind was ever so self-contradictory
+leg a subtle joke. And no frame of mind was ever so [[Self|self]]-contradictory
 
 and yet so realistic as that which Dickens describes when he says, in
 
@@ -2891,7 +2891,7 @@ a final incompatibility of temper, Pecksniff was not so Pecksniffian as
 
 he has since become. But the comparison is complete in so far as I share
 
-all the reluctance of Mr. Pinch. Some old heathen king was advised by
+all the reluctance of Mr. Pinch. Some old heathen [[King|king]] was advised by
 
 one of the Celtic saints, I think, to burn what he had adored and adore
 
@@ -2935,7 +2935,7 @@ hurry and fatigue, with which it flings down its argument--or rather its
 
 refusal to argue. It does not even write sophistry: it writes anything.
 
-It does not so much poison the reader's mind as simply assume that the
+It does not so much [[Poison|poison]] the reader's mind as simply assume that the
 
 reader hasn't got one. For instance, one of these papers printed an
 
@@ -2943,11 +2943,11 @@ article on Sir Stuart Samuel, who, having broken the great Liberal
 
 statute against corruption, will actually, perhaps, be asked to pay his
 
-own fine--in spite of the fact that he can well afford to do so. The
+own fine--in spite of the fact that he can [[Well|well]] afford to do so. The
 
 article says, if I remember aright, that the decision will cause general
 
-surprise and some indignation. That any modern Government making a very
+surprise and some indignation. That any modern [[government|Government]] making a very
 
 rich capitalist obey the law will cause general surprise, may be true.
 
@@ -2977,11 +2977,11 @@ offender of this kind. That, of course, can only mean that the matter
 
 will be decided by that instrument which still pretends to represent
 
-the whole power of the commonwealth. In other words, the Government will
+the whole power of the commonwealth. In other words, the [[government|Government]] will
 
-judge the Government.
+judge the [[government|Government]].
 
-Now this is a perfectly plain piece of brute logic. We need not go into
+Now this is a perfectly plain piece of brute [[logic]]. We need not go into
 
 the other delicious things in the article, as when it says that "in old
 
@@ -3015,11 +3015,11 @@ degradation of the two words in modern language. Now the word "common"
 
 in "Common Informer" means exactly what it means in "common sense" or
 
-"Book of Common Prayer," or (above all) in "House of Commons." It
+"Book of Common [[Prayer]]," or (above all) in "[[house|House]] of Commons." It
 
 does not mean anything low or vulgar; any more than they do. The only
 
-difference is that the House of Commons really is low and vulgar; and
+difference is that the [[house|House]] of Commons really is low and vulgar; and
 
 the Common Informer isn't. It is just the same with the word "Informer."
 
@@ -3027,13 +3027,13 @@ It does not mean spy or sneak. It means one who gives information. It
 
 means what "journalist" ought to mean. The only difference is that the
 
-Common Informer may be paid if he tells the truth. The common journalist
+Common Informer may be paid if he tells the [[Truth|truth]]. The common journalist
 
 will be ruined if he does.
 
 Now the quite plain point before the party journalist is this: If
 
-he really means that a corrupt bargain between a Government and a
+he really means that a corrupt bargain between a [[government|Government]] and a
 
 contractor ought to be judged by public opinion, he must (nowadays) mean
 
@@ -3041,9 +3041,9 @@ Parliament; that is, the caucus that controls Parliament. And he must
 
 decide between one of two views. Either he means that there can be no
 
-such thing as a corrupt Government. Or he means that it is one of the
+such thing as a corrupt [[government|Government]]. Or he means that it is one of the
 
-characteristic qualities of a corrupt Government to denounce its own
+characteristic qualities of a corrupt [[government|Government]] to denounce its own
 
 corruption. I laugh; and I leave him his choice.
 
@@ -3083,7 +3083,7 @@ one thought wearisome, but might himself be just tired enough to shift
 
 from one leg to the other. Snapshot him, and he appears as holding one
 
-leg stiffly in the air and yawning enough to swallow the audience.
+leg stiffly in the air and yawning enough to [[Swallow|swallow]] the audience.
 
 But it is in the prose narratives of the Press that we find most
 
@@ -3091,7 +3091,7 @@ manifestations of this strange ineptitude; this knack of exhibiting your
 
 own favourites in an unlucky light. It is not so much that the party
 
-journalists do not tell the truth as that they tell just enough of it
+journalists do not tell the [[Truth|truth]] as that they tell just enough of it
 
 to make it clear that they are telling lies. One of their favourite
 
@@ -3107,33 +3107,33 @@ Insane Exaggeration
 
 Here is an example from a leading Liberal paper touching the debates on
 
-Home Rule. I am a Home Ruler; so my sympathies would be, if anything, on
+[[Home]] Rule. I am a [[Home]] Ruler; so my sympathies would be, if anything, on
 
 the side of the Liberal paper upon that point. I merely quote it as
 
 an example of this ridiculous way of writing, which, by insane
 
-exaggeration, actually makes its hero look smaller than he is.
+exaggeration, actually makes its [[Hero|hero]] look smaller than he is.
 
 This was strange language to use about the "hypocritical sham," and Mr.
 
 Asquith, knowing that the biggest battle of his career was upon him,
 
-hit back without mercy. "I should like first to know," said he, with a
+hit back without [[Mercy|mercy]]. "I should like first to know," said he, with a
 
 glance at his supporters, "whether my proposals are accepted?"
 
 That's all. And I really do not see why poor Mr. Asquith should be
 
-represented as having violated the Christian virtue of mercy by saying
+represented as having violated the Christian virtue of [[Mercy|mercy]] by saying
 
 that. I myself could compose a great many paragraphs upon the same
 
-model, each containing its stinging and perhaps unscrupulous epigram.
+model, each containing its stinging and perhaps unscrupulous [[Epigram|epigram]].
 
 As, for example:--"The Archbishop of Canterbury, realising that his
 
-choice now lay between denying God and earning the crown of martyrdom by
+choice now lay between denying God and earning the [[Crown|crown]] of [[Martyrdom|martyrdom]] by
 
 dying in torments, spoke with a frenzy of religious passion that might
 
@@ -3151,9 +3151,9 @@ odds the independence of England would be extinguished forever,
 
 addressed to his soldiers (looking at them and not falling off his
 
-horse) a speech which brought their national passions to boiling point,
+[[Horse|horse]]) a speech which brought their national passions to boiling point,
 
-and might well have seemed blood-thirsty in quieter times. It ended with
+and might [[Well|well]] have seemed [[Blood|blood]]-thirsty in quieter times. It ended with
 
 the celebrated declaration that it was a fine day."
 
@@ -3173,19 +3173,19 @@ agnosticism. This address (which he delivered without any attempt to
 
 stand on his head) included a fierce and even ferocious declaration that
 
-it is generally easier to see the stars by night than by day."
+it is generally easier to see the [[Stars|stars]] by [[Night|night]] than by day."
 
-Now, I cannot see, on my conscience and reason, that any one of my
+Now, I cannot see, on my [[Conscience|conscience]] and reason, that any one of my
 
 imaginary paragraphs is more ridiculous than the real one. Nobody can
 
 believe that Mr. Asquith regards these belated and careful compromises
 
-about Home Rule as "the biggest battle of his career." It is only
+about [[Home]] Rule as "the biggest battle of his career." It is only
 
 justice to him to say that he has had bigger battles than that. Nobody
 
-can believe that any body of men, bodily present, either thundered or
+can believe that any [[Body|body]] of men, bodily present, either thundered or
 
 thrilled at a man merely saying that he would like to know whether his
 
@@ -3221,7 +3221,7 @@ fatigue!"
 
 I do really believe that this is one of the ways in which God (don't get
 
-flurried, Nature if you like) is unexpectedly avenged on things infamous
+flurried, [[Nature]] if you like) is unexpectedly avenged on things infamous
 
 and unreasonable. And this method is that men's moral and even physical
 
@@ -3235,15 +3235,15 @@ bored with their articles; the point is that they are. The work is done
 
 worse because it is done weakly and without human enthusiasm. And it
 
-is done weakly because of the truth we have told so many times in this
+is done weakly because of the [[Truth|truth]] we have told so many times in this
 
 book: that it is not done for monarchy, for which men will die; or for
 
-democracy, for which men will die; or even for aristocracy, for which
+[[Democracy|democracy]], for which men will die; or even for aristocracy, for which
 
 many men have died. It is done for a thing called Capitalism: which
 
-stands out quite clearly in history in many curious ways. But the most
+stands out quite clearly in [[history]] in many curious ways. But the most
 
 curious thing about it is that no man has loved it; and no man died for
 
@@ -3269,7 +3269,7 @@ the idea that the responsible person is responsible.
 
 For instance, it is almost specially so with the one or two things in
 
-which the British Government, or the British public, really are behaving
+which the British [[government|Government]], or the British public, really are behaving
 
 badly. The first, and worst of them, is the non-extension of the
 
@@ -3289,9 +3289,9 @@ Among the rich a bankruptcy may be as safe as a bank. Considering the
 
 class from which private soldiers are taken, there is an atrocious
 
-meanness in the idea of buying their blood abroad, while we sell their
+meanness in the idea of buying their [[Blood|blood]] abroad, while we sell their
 
-sticks at home. The English language, by the way, is full of delicate
+sticks at [[Home|home]]. The English language, by the way, is full of delicate
 
 paradoxes. We talk of the private soldiers because they are really
 
@@ -3319,9 +3319,9 @@ not believe for a moment that the English people feel any such insane
 
 fastidiousness. Are the English artists who practise the particularly
 
-English art of water-colour to be forbidden to use Prussian blue? Are
+English art of [[Water|water]]-colour to be forbidden to use Prussian blue? Are
 
-all old ladies to shoot their Pomeranian dogs? But though England would
+all old ladies to shoot their Pomeranian [[dogs]]? But though England would
 
 laugh at this, she will get the credit of it, and will continue: until
 
@@ -3369,9 +3369,9 @@ delighted with this doctrine. They will applaud the Labour Concert or
 
 Committee, or whatever it is called. They will willingly take all the
 
-crime, with only a quarter of the conscience: they will be as ready to
+crime, with only a quarter of the [[Conscience|conscience]]: they will be as ready to
 
-share the memory as they are to share the spoil. The Powers will divide
+share the [[Memory|memory]] as they are to share the spoil. The Powers will divide
 
 responsibility as calmly as they divided Poland.
 
@@ -3381,7 +3381,7 @@ But I still stubbornly and meekly submit my point: that you cannot
 
 end war without asking who began it. If you think somebody else, not
 
-Germany, began it, then blame that somebody else: do not blame everybody
+[[Germany]], began it, then blame that somebody else: do not blame everybody
 
 and nobody. Perhaps you think that a small sovereign people, fresh from
 
@@ -3389,19 +3389,19 @@ two triumphant wars, ought to discrown itself before sunrise; because
 
 the nephew of a neighbouring Emperor has been shot by his own subjects.
 
-Very well. Then blame Servia; and, to the extent of your influence, you
+Very [[Well|well]]. Then blame Servia; and, to the extent of your influence, you
 
 may be preventing small kingdoms being obstinate or even princes being
 
-shot. Perhaps you think the whole thing was a huge conspiracy of Russia,
+shot. Perhaps you think the whole thing was a huge conspiracy of [[Russia]],
 
-with France as a dupe and Servia as a pretext. Very well. Then blame
+with France as a dupe and Servia as a pretext. Very [[Well|well]]. Then blame
 
-Russia; and, to the extent of your influence, you may be preventing
+[[Russia]]; and, to the extent of your influence, you may be preventing
 
 great Empires from making racial excuses for a raid. Perhaps you think
 
-France wrong for feeling what you call "revenge," and I should
+France wrong for feeling what you call "[[Revenge|revenge]]," and I should
 
 call recovery of stolen goods. Perhaps you blame Belgium for being
 
@@ -3413,11 +3413,11 @@ Or again, it is barely possible that you may think, as I do, that the
 
 whole loathsome load has been laid upon us by the monarchy which I have
 
-not named; still less wasted time in abusing. But if there be in Europe
+not named; still less wasted [[Time|time]] in abusing. But if there be in Europe
 
-a military State which has not the religion of Russia, yet has helped
+a military State which has not the religion of [[Russia]], yet has helped
 
-Russia to tyrannise over the Poles, that State cares not for religion,
+[[Russia]] to tyrannise over the Poles, that State cares not for religion,
 
 but for tyranny. If there be a State in Europe which has not the
 
@@ -3427,7 +3427,7 @@ that State cares not for belief, but for bullying. If there be in
 
 Europe any people or principality which respects neither republics nor
 
-religions, to which the political ideal of Paris is as much a myth as
+religions, to which the political ideal of [[Paris]] is as much a myth as
 
 the mystical ideal of Moscow, then blame that: and do more than blame.
 
@@ -3435,47 +3435,47 @@ In the healthy and highly theological words of Robert Blatchford, drive
 
 it back to the Hell from which it came.
 
-Crying Over Spilt Blood
+Crying Over Spilt [[Blood]]
 
 But whatever you do, do not blame everybody for what was certainly done
 
-by somebody. It may be it is no good crying over spilt blood, any
+by somebody. It may be it is no good crying over spilt [[Blood|blood]], any
 
 more than over spilt milk. But we do not find the culprit any more by
 
-spilling the milk over everybody; or by daubing everybody with blood.
+spilling the milk over everybody; or by daubing everybody with [[Blood|blood]].
 
-Still less do we improve matters by watering the milk with our tears,
+Still less do we improve matters by watering the milk with our [[Tears|tears]],
 
-nor the blood either. To say that everybody is responsible means that
+nor the [[Blood|blood]] either. To say that everybody is responsible means that
 
-nobody is responsible. If in the future we see Russia annexing Rutland
+nobody is responsible. If in the future we see [[Russia]] annexing Rutland
 
 (as part of the old Kingdom of Muscovy), if we see Bavaria taking a
 
-sudden fancy to the Bank of England, or the King of the Cannibal Islands
+sudden fancy to the Bank of England, or the [[King]] of the Cannibal Islands
 
 suddenly demanding a tribute of edible boys and girls from England and
 
-America, we may be quite certain also that the Leader of the Labour
+[[america|America]], we may be quite certain also that the Leader of the Labour
 
 Party will rise, with a slight cough, and say: "It would be a difficult
 
 task to apportion the blame between the various claims which..."
 
-REVIVE THE COURT JESTER
+REVIVE THE [[Court|COURT]] JESTER
 
-I hope the Government will not think just now about appointing a Poet
+I [[Hope|hope]] the [[government|Government]] will not think just now about appointing a Poet
 
 Laureate. I hardly think they can be altogether in the right mood. The
 
-business just now before the country makes a very good detective story;
+business just now before the country makes a very good [[Detective|detective]] story;
 
-but as a national epic it is a little depressing. Jingo literature
+but as a national [[Epic|epic]] it is a little depressing. Jingo literature
 
 always weakens a nation; but even healthy patriotic literature has
 
-its proper time and occasion. For instance, Mr. Newbolt (who has been
+its proper [[Time|time]] and occasion. For instance, Mr. Newbolt (who has been
 
 suggested for the post) is a very fine poet; but I think his patriotic
 
@@ -3487,15 +3487,15 @@ Drake will return and "drum them up the Channel as he drummed them long
 
 ago." On the contrary, we have an uncomfortable feeling that Drake's
 
-ship might suddenly go to the bottom, because the capitalists have made
+[[Ship|ship]] might suddenly go to the [[Bottom|bottom]], because the capitalists have made
 
 Lloyd George abolish the Plimsoll Line. One could not, without being
 
 understood ironically, adjure the two party teams to-day to "play up,
 
-play up and play the game," or to "love the game more than the
+play up and play the game," or to "[[Love|love]] the game more than the
 
-prize." And there is no national hero at this moment in the soldiering
+prize." And there is no national [[Hero|hero]] at this moment in the soldiering
 
 line--unless, perhaps, it is Major Archer-Shee--of whom anyone would
 
@@ -3507,7 +3507,7 @@ thoughts in such times, but that, alas, is to a very different tune. I
 
 mean that one in which he echoes Turner's conception of the old wooden
 
-ship vanishing with all the valiant memories of the English:
+[[Ship|ship]] vanishing with all the valiant memories of the English:
 
   
 
@@ -3515,13 +3515,13 @@ ship vanishing with all the valiant memories of the English:
 
   At the setting of the sun, 
 
-  And a phantom voice is singing
+  And a [[Phantom|phantom]] voice is singing
 
   Of the great days done.
 
   There's a far bell ringing,
 
-  And a phantom voice is singing
+  And a [[Phantom|phantom]] voice is singing
 
   Of a fame forever clinging
 
@@ -3531,11 +3531,11 @@ ship vanishing with all the valiant memories of the English:
 
   Temeraire, Temeraire,
 
-  And she's fading down the river....
+  And she's fading down the [[River|river]]....
 
-Well, well, neither you nor I know whether she is fading down the river
+[[Well]], [[Well|well]], neither you nor I know whether she is fading down the [[River|river]]
 
-or not. It is quite enough for us to know, as King Alfred did, that a
+or not. It is quite enough for us to know, as [[King Alfred]] did, that a
 
 great many pirates have landed on both banks of the Thames.
 
@@ -3549,7 +3549,7 @@ the sort of poem that is expected from a Poet Laureate, either on
 
 the highest or the lowest theory of his office. He is either a great
 
-minstrel singing the victories of a great king, or he is a common Court
+minstrel singing the victories of a great [[King|king]], or he is a common [[Court]]
 
 official like the Groom of the Powder Closet. In the first case his
 
@@ -3559,29 +3559,29 @@ false; but in either case he must praise. And what there is for him to
 
 praise just now it would be precious hard to say. And if there is no
 
-great hope of a real poet, there is still less hope of a real prophet.
+great [[Hope|hope]] of a real poet, there is still less [[Hope|hope]] of a real [[Prophet|prophet]].
 
 What Newman called, I think, "The Prophetical Office," that is, the
 
 institution of an inspired protest even against an inspired religion,
 
-certainly would not do in modern England. The Court is not likely to
+certainly would not do in modern England. The [[Court]] is not likely to
 
-keep a tame prophet in order to encourage him to be wild. It is not
+keep a tame [[Prophet|prophet]] in order to encourage him to be wild. It is not
 
 likely to pay a man to say that wolves shall howl in Downing-street and
 
-vultures build their nests in Buckingham Palace. So vast has been the
+vultures build their nests in [[Buckingham]] Palace. So vast has been the
 
 progress of humanity that these two things are quite impossible. We
 
-cannot have a great poet praising kings. We cannot have a great prophet
+cannot have a great poet praising kings. We cannot have a great [[Prophet|prophet]]
 
 denouncing kings. So I have to fall back on a third suggestion.
 
-The Field for a Fool
+The Field for a [[Fool]]
 
-Instead of reviving the Court Poet, why not revive the Court Fool? He is
+Instead of reviving the [[Court]] Poet, why not revive the [[Court]] [[Fool]]? He is
 
 the only person who could do any good at this moment either to the
 
@@ -3591,23 +3591,23 @@ unsuitable for the purposes of a great poet. But it is particularly
 
 suitable for the purposes of a great buffoon. The old jester was under
 
-certain privileges: you could not resent the jokes of a fool, just
+certain privileges: you could not resent the jokes of a [[Fool|fool]], just
 
 as you cannot resent the sermons of a curate. Now, what the present
 
-Government of England wants is neither serious praise nor serious
+[[government|Government]] of England wants is neither serious praise nor serious
 
-denunciation; what it wants is satire. What it wants, in other words,
+denunciation; what it wants is [[Satire|satire]]. What it wants, in other words,
 
-is realism given with gusto. When King Louis the Eleventh unexpectedly
+is realism given with gusto. When [[King]] Louis the Eleventh unexpectedly
 
 visited his enemy, the Duke of Burgundy, with a small escort, the Duke's
 
-jester said he would give the King his fool's cap, for he was the fool
+jester said he would give the [[King]] his [[Fool|fool]]'s cap, for he was the [[Fool|fool]]
 
 now. And when the Duke replied with dignity, "And suppose I treat him
 
-with all proper respect?" the fool answered, "Then I will give it to
+with all proper respect?" the [[Fool|fool]] answered, "Then I will give it to
 
 you." That is the kind of thing that somebody ought to be free to say
 
@@ -3621,7 +3621,7 @@ For the things that have been happening lately are not merely things
 
 that one could joke about. They are themselves, truly and intrinsically,
 
-jokes. I mean that there is a sort of epigram of unreason in the
+jokes. I mean that there is a sort of [[Epigram|epigram]] of unreason in the
 
 situation itself, as there was in the situation where there was jam
 
@@ -3631,13 +3631,13 @@ the extraordinary case of Sir Edward Carson. The point is not whether we
 
 regard his attitude in Belfast as the defiance of a sincere and dogmatic
 
-rebel, or as the bluff of a party hack and mountebank. The point is not
+[[Rebel|rebel]], or as the bluff of a party hack and mountebank. The point is not
 
-whether we regard his defence of the Government at the Old Bailey as a
+whether we regard his defence of the [[government|Government]] at the Old Bailey as a
 
 chivalrous and reluctant duty done as an advocate or a friend, or as
 
-a mere case of a lawyer selling his soul for a fat brief. The point is
+a mere case of a lawyer selling his [[Soul|soul]] for a fat brief. The point is
 
 that whichever of the two actions we approve, and whichever of the four
 
@@ -3657,11 +3657,11 @@ misgovernment justifies men in Ulster or elsewhere in refusing to obey
 
 the law. But then it would justify them even more in refusing to
 
-appear professionally in a law court. Etiquette cannot be at once so
+appear professionally in a law [[Court|court]]. Etiquette cannot be at once so
 
-unimportant that Carson may shoot at the King's uniform, and yet so
+unimportant that Carson may shoot at the [[King]]'s uniform, and yet so
 
-important that he must always be ready to put on his own. The Government
+important that he must always be ready to put on his own. The [[government|Government]]
 
 cannot be so disreputable that Carson need not lay down his gun, and yet
 
@@ -3673,13 +3673,13 @@ so meek that he must argue in what he considers a bad cause. Obedience
 
 or disobedience, conventional or unconventional, a solicitor's letter
 
-cannot be more sacred than the King's writ; a blue bag cannot be more
+cannot be more sacred than the [[King]]'s writ; a blue bag cannot be more
 
-rational than the British flag. The thing is rubbish read anyway, and
+rational than the British [[Flag|flag]]. The thing is rubbish read anyway, and
 
 the only difficulty is to get a joke good enough to express it. It is a
 
-case for the Court Jester. The phantasy of it could only be expressed by
+case for the [[Court]] Jester. The phantasy of it could only be expressed by
 
 some huge ceremonial hoax. Carson ought to be crowned with the shamrocks
 
@@ -3725,7 +3725,7 @@ into the region of farce; and should be dealt with farcically, not even
 
 ferociously.
 
-A Fool Who Shall Be Free
+A [[Fool]] Who Shall Be Free
 
 In the Roman Republic there was a Tribune of the People, whose person
 
@@ -3737,7 +3737,7 @@ champion, from the ordinary courts. We shall have no Tribune; for we
 
 have no republic. We shall have no Priest; for we have no religion. The
 
-best we deserve or can expect is a Fool who shall be free; and who shall
+best we deserve or can expect is a [[Fool]] who shall be free; and who shall
 
 deliver us with laughter.
 
@@ -3761,9 +3761,9 @@ is, if anything, rather more logical and free from cant than most other
 
 documents of the sort it is an excellent example of missing the point.
 
-The candidate has to go boring on about Free Trade and Land Reform and
+The candidate has to go boring on about Free Trade and Land [[Reform]] and
 
-Education; and nobody reading it could possibly imagine that in the town
+[[Education]]; and nobody reading it could possibly imagine that in the town
 
 of Wycombe, where the poll will be declared, the capital of the Wycombe
 
@@ -3773,13 +3773,13 @@ important and vital trade on which it has thriven, a savage struggle
 
 about justice has been raging for months past between the poor and rich,
 
-as real as the French Revolution. The man offering himself at Wycombe as
+as real as the [[French Revolution]]. The man offering himself at Wycombe as
 
 representative of the Wycombe division simply says nothing about it at
 
 all. It is as if a man at the crisis of the French Terror had offered
 
-himself as a deputy for the town of Paris, and had said nothing about
+himself as a deputy for the town of [[Paris]], and had said nothing about
 
 the Monarchy, nothing about the Republic, nothing about the massacres,
 
@@ -3791,9 +3791,9 @@ the suitability of Turenae for the post of commander-in-chief, and the
 
 religious reflections of Madame de Maintenon. For, at their best, the
 
-candidate's topics are not topical. Home Rule is a very good thing, and
+candidate's topics are not topical. [[Home]] Rule is a very good thing, and
 
-modern education is a very bad thing; but neither of them are things
+modern [[Education|education]] is a very bad thing; but neither of them are things
 
 that anybody is talking about in High Wycombe. This is the first and
 
@@ -3809,7 +3809,7 @@ candidate, but issue a perfectly frank and cynical Election Address.
 
 Mr. Mosley's address begins, "Gentlemen,--Sir Alfred Cripps having been
 
-chosen for a high judicial position and a seat in the House of Lords, a
+chosen for a high judicial position and a seat in the [[house|House]] of Lords, a
 
 by-election now becomes necessary, and the electors of South Bucks are
 
@@ -3817,11 +3817,11 @@ charged with the responsible duty of electing, etc., etc." But suppose
 
 there were another candidate whose election address opened in a plain,
 
-manly style, like this: "Gentlemen,--In the sincere hope of being myself
+manly style, like this: "Gentlemen,--In the sincere [[Hope|hope]] of being myself
 
-chosen for a high judicial position or a seat in the House of Lords,
+chosen for a high judicial position or a seat in the [[house|House]] of Lords,
 
-or considerably increasing my private fortune by some Government
+or considerably increasing my private fortune by some [[government|Government]]
 
 appointment, or, at least, inside information about the financial
 
@@ -3829,7 +3829,7 @@ prospects, I have decided that it is worth my while to disburse large
 
 sums of money to you on various pretexts, and, with even more reluctance
 
-to endure the bad speaking and bad ventilation of the Commons' House
+to endure the bad speaking and bad ventilation of the Commons' [[house|House]]
 
 of Parliament, so help me God. I have very pronounced convictions on
 
@@ -3851,9 +3851,9 @@ will have no conceivable kind of effect on anything or anybody except
 
 myself; so I ask, as man to man, the Electors of the Southern or Wycombe
 
-Division of the County of Buckingham to accept a ride in one of my
+Division of the County of [[Buckingham]] to accept a ride in one of my
 
-motor-cars; and poll early to please a pal--God Save the King." I do not
+motor-cars; and poll early to please a pal--God Save the [[King]]." I do not
 
 know whether you or I would be elected if we presented ourselves with
 
@@ -3871,23 +3871,23 @@ Tyranny and Head-Dress
 
 But there is another and more subtle way in which we may miss the point;
 
-and that is, not by keeping a dead silence about it, but by being just
+and that is, not by keeping a dead [[Silence|silence]] about it, but by being just
 
 witty enough to state it wrong. Thus, some of the Liberal official
 
-papers have almost screwed up their courage to the sticking-point about
+papers have almost screwed up their [[Courage|courage]] to the sticking-point about
 
 the bestial coup d'etat in South Africa. They have screwed up their
 
-courage to the sticking-point; and it has stuck. It cannot get any
+[[Courage|courage]] to the sticking-point; and it has stuck. It cannot get any
 
 further; because it has missed the main point. The modern Liberals make
 
-their feeble attempts to attack the introduction of slavery into South
+their feeble attempts to attack the introduction of [[Slavery|slavery]] into South
 
 Africa by the Dutch and the Jews, by a very typical evasion of the vital
 
-fact. The vital fact is simply slavery. Most of these Dutchmen have
+fact. The vital fact is simply [[Slavery|slavery]]. Most of these Dutchmen have
 
 always felt like slave-owners. Most of these Jews have always felt like
 
@@ -3903,7 +3903,7 @@ something specially wicked about men doing an act of cruelty in khaki
 
 or in vermilion, but not if it is done in dark blue with pewter buttons.
 
-The tyrant who wears a busby or a forage cap is abominable; the tyrant
+The [[Tyrant|tyrant]] who wears a busby or a forage cap is abominable; the [[Tyrant|tyrant]]
 
 who wears a horsehair wig is excusable. To be judged by soldiers is
 
@@ -3915,15 +3915,15 @@ tyranny in Africa is not that it is run by soldiers. It would be quite
 
 as bad, or worse, if it were run by policemen. What is wrong is that,
 
-for the first time since Pagan times, private men are being forced to
+for the first [[Time|time]] since Pagan times, private men are being forced to
 
-work for a private man. Men are being punished by imprisonment or exile
+work for a private man. Men are being punished by [[Imprisonment|imprisonment]] or [[Exile|exile]]
 
-for refusing to accept a job. The fact that Botha can ride on a horse,
+for refusing to accept a job. The fact that Botha can ride on a [[Horse|horse]],
 
-or fire off a gun, makes him better rather than worse than any man like
+or [[Fire|fire]] off a gun, makes him better rather than worse than any man like
 
-Sidney Webb or Philip Snowden, who attempt the same slavery by much less
+Sidney Webb or Philip Snowden, who attempt the same [[Slavery|slavery]] by much less
 
 manly methods. The Liberal Party will try to divert the whole discussion
 
@@ -3939,7 +3939,7 @@ THE SERVILE STATE AGAIN
 
 I read the other day, in a quotation from a German newspaper, the highly
 
-characteristic remark that Germany having annexed Belgium would soon
+characteristic remark that [[Germany]] having annexed Belgium would soon
 
 re-establish its commerce and prosperity, and that, in particular,
 
@@ -3955,7 +3955,7 @@ told me they had themselves seen the bayoneting of a baby; if the
 
 most respectable refugees did not bring with them stories of burning
 
-cottages--yes, and of burning cottagers as well; if doctors did not
+cottages--yes, and of burning cottagers as [[Well|well]]; if doctors did not
 
 report what they do report of the condition of girls in the hospitals;
 
@@ -3969,7 +3969,7 @@ them pre-eminent among the evil princes of the earth. The first and
 
 most striking feature is a stupidity that rises into a sort of ghastly
 
-innocence. The protection of workmen! Some workmen, perhaps, might have
+[[innocence]]. The protection of workmen! Some workmen, perhaps, might have
 
 a fancy for being protected from shrapnel; some might be glad to put up
 
@@ -3981,7 +3981,7 @@ proletarians have taken the same view as Vandervelde their leader, and
 
 are now energetically engaged in protecting themselves along the line
 
-of the Yser; I am glad to say not altogether without success. It is
+of the Yser; I am glad to say not altogether without [[success]]. It is
 
 probable that nearly all of the Belgian workers would, on the
 
@@ -4011,7 +4011,7 @@ question, "Against whom would the Belgian workmen be protected by
 
 the German laws?" And if we pursue it, we shall be enabled to analyse
 
-something of that poison--very largely a Prussian poison--which has long
+something of that [[Poison|poison]]--very largely a Prussian [[Poison|poison]]--which has long
 
 been working in our own commonwealth, to the enslavement of the weak
 
@@ -4025,7 +4025,7 @@ I have no illusions about either Belgium or England. Both have been
 
 stained with the soot of Capitalism and blinded with the smoke of mere
 
-Colonial ambition; both have been caught at a disadvantage in such
+Colonial [[Ambition|ambition]]; both have been caught at a disadvantage in such
 
 modern dirt and disorder; both have come out much better than I should
 
@@ -4039,15 +4039,15 @@ for instance, and militant Socialism in Belgium; Trades Unionism and
 
 sport and the remains of real aristocracy in England. But Prussia is
 
-Capitalism; that is, a gradually solidifying slavery; and that majestic
+Capitalism; that is, a gradually solidifying [[Slavery|slavery]]; and that majestic
 
-unity with which she moves, dragging all the dumb Germanies after her,
+[[unity]] with which she moves, dragging all the dumb Germanies after her,
 
 is due to the fact that her Servile State is complete, while ours is
 
 incomplete. There are not mutinies; there are not even mockeries; the
 
-voice of national self-criticism has been extinguished forever. For this
+voice of national [[Self|self]]-criticism has been extinguished forever. For this
 
 people is already permanently cloven into a higher and a lower class:
 
@@ -4059,7 +4059,7 @@ in the truest and most pitiable sense, an army of labour. In that
 
 atmosphere masters bear upon them the signs that they are more than men;
 
-and to insult an officer is death.
+and to insult an officer is [[Death|death]].
 
 If anyone ask how this extreme and unmistakable subordination of the
 
@@ -4087,9 +4087,9 @@ Daily Citizen; perhaps when they got their hair cut; perhaps when they
 
 consented to be inoculated, or trepanned, or circumcised, or something.
 
-Germany is full of this sort of legislation; and if you asked an
+[[Germany]] is full of this sort of legislation; and if you asked an
 
-innocent German, who honestly believed in it, what it was, he would
+[[Innocent|innocent]] German, who honestly believed in it, what it was, he would
 
 answer that it was for the protection of workmen.
 
@@ -4103,7 +4103,7 @@ employed person _from his employer_. Much less is there any idea of his
 
 ever being anywhere except under an employer. Whatever the Capitalist
 
-wants he gets. He may have the sense to want washed and well-fed
+wants he gets. He may have the sense to want washed and [[Well|well]]-fed
 
 labourers rather than dirty and feeble ones, and the restrictions may
 
@@ -4135,7 +4135,7 @@ rank is more horrid than many hyenas. They are designed, my friends, to
 
 protect a man from himself--from something that the masters of the earth
 
-fear more than famine or war, and which Prussia especially fears as
+[[Fear|fear]] more than famine or war, and which Prussia especially fears as
 
 everything fears that which would certainly be its end. They are meant
 
@@ -4143,13 +4143,13 @@ to protect a man against himself--that is, they are meant to protect a
 
 man against his manhood.
 
-And if anyone reminds me that there is a Socialist Party in Germany, I
+And if anyone reminds me that there is a Socialist Party in [[Germany]], I
 
 reply that there isn't.
 
 THE EMPIRE OF THE IGNORANT
 
-That anarchic future which the more timid Tories professed to fear has
+That anarchic future which the more timid Tories professed to [[Fear|fear]] has
 
 already fallen upon us. We are ruled by ignorant people. But the most
 
@@ -4161,7 +4161,7 @@ it with the smallest petulance or even distaste; these classes are
 
 often really beneficent in their breeding or their hospitality, or their
 
-humanity to animals.
+humanity to [[Animals|animals]].
 
 There is still no better company than the young at the two Universities,
 
@@ -4175,7 +4175,7 @@ though they _are_ gentlemen. But when one looks up at any mass of the
 
 wealthier and more powerful classes, at the Grand Stand at Epsom, at
 
-the windows of Park-lane, at the people at a full-dress debate or a
+the windows of Park-lane, at the people at a full-dress [[debate]] or a
 
 fashionable wedding, we shall be safe in saying that they are, for the
 
@@ -4187,7 +4187,7 @@ It is indeed their feeble boast that they are not literally illiterate.
 
 They are always saying the ancient barons could not sign their own
 
-names--for they know less of history perhaps than of anything else. The
+names--for they know less of [[history]] perhaps than of anything else. The
 
 modern barons, however, can sign their own names--or someone else's for
 
@@ -4195,13 +4195,13 @@ a change. They can sign their own names; and that is about all they can
 
 do. They cannot face a fact, or follow an argument, or feel a tradition;
 
-but, least of all, can they, upon any persuasion, read through a plain
+but, least of all, can they, upon any [[Persuasion|persuasion]], read through a plain
 
 impartial book, English or foreign, that is not specially written to
 
-soothe their panic or to please their pride. Looking up at these seats
+soothe their panic or to please their [[Pride|pride]]. Looking up at these seats
 
-of the mighty I can only say, with something of despair, what Robert
+of the mighty I can only say, with something of [[Despair|despair]], what Robert
 
 Lowe said of the enfranchised workmen: "We must educate our masters."
 
@@ -4235,11 +4235,11 @@ the precision and fineness of touch which only manual craftsmanship can
 
 give. The housewives who flatly refused to cook the hot dinner knew how
 
-much or how little, cold meat there was in the house. The sailor who
+much or how little, cold meat there was in the [[house]]. The sailor who
 
 defied discipline by mutinying at the Nore did not defy discipline in
 
-the sense of falling off the rigging or letting the water into the hold.
+the sense of falling off the rigging or letting the [[Water|water]] into the hold.
 
 Similarly the modern proletariat, however little it may know, knows what
 
@@ -4263,25 +4263,25 @@ the landlord will define Rent as rigidly as Ricardo. The doctors can
 
 always tell them the Latin for an empty stomach; and when the poor man
 
-is treated for the time with some human respect (by the Coroner) it
+is treated for the [[Time|time]] with some human respect (by the Coroner) it
 
 almost seems a pity he is not alive to hear how legally he died.
 
-Against this bitter shrewdness and bleak realism in the suffering
+Against this bitter shrewdness and bleak realism in the [[Suffering|suffering]]
 
 classes it is commonly supposed that the more leisured classes stand for
 
 certain legitimate ideas which also have their place in life; such as
 
-history, reverence, the love of the land. Well, it might be no bad thing
+[[history]], reverence, the [[Love|love]] of the land. [[Well]], it might be no bad thing
 
 to have something, even if it were something narrow, that testified to
 
 the truths of religion or patriotism. But such narrow things in the
 
-past have always at least known their own history; the bigot knew his
+past have always at least known their own [[history]]; the bigot knew his
 
-catechism; the patriot knew his way home. The astonishing thing about
+catechism; the patriot knew his way [[Home|home]]. The astonishing thing about
 
 the modern rich is their real and sincere ignorance--especially of the
 
@@ -4291,19 +4291,19 @@ No!
 
 Take the most topical case you can find in any drawing-room: Belfast.
 
-Ulster is most assuredly a matter of history; and there is a sense in
+Ulster is most assuredly a matter of [[history]]; and there is a sense in
 
 which Orange resistance is a matter of religion. But go and ask any of
 
-the five hundred fluttering ladies at a garden party (who find Carson so
+the five hundred fluttering ladies at a [[Garden|garden]] party (who find Carson so
 
 splendid and Belfast so thrilling) what it is all about, when it began,
 
-where it came from, what it really maintains? What was the history
+where it came from, what it really maintains? What was the [[history]]
 
 of Ulster? What is the religion of Belfast? Do any of them know where
 
-Ulstermen were in Grattan's time; do any of them know what was the
+Ulstermen were in Grattan's [[Time|time]]; do any of them know what was the
 
 "Protestantism" that came from Scotland to that isle; could any of them
 
@@ -4311,17 +4311,17 @@ tell what part of the old Catholic system it really denied?
 
 It was generally something that the fluttering ladies find in their own
 
-Anglican churches every Sunday. It were vain to ask them to state the
+Anglican churches every [[Sunday]]. It were vain to ask them to state the
 
 doctrines of the Calvinist creed; they could not state the doctrines
 
-of their own creed. It were vain to tell them to read the history of
+of their own creed. It were vain to tell them to read the [[history]] of
 
-Ireland; they have never read the history of England. It would matter as
+Ireland; they have never read the [[history]] of England. It would matter as
 
 little that they do not know these things, as that I do not know German;
 
-but then German is not the only thing I am supposed to know. History and
+but then German is not the only thing I am supposed to know. [[history|History]] and
 
 ritual are the only things aristocrats are supposed to know; and they
 
@@ -4381,7 +4381,7 @@ there would still be such a thing as personal dignity, and different
 
 modes of robbery would diminish it in very different ways. Similarly,
 
-there is a truth, but only a half-truth, in the saying that all modern
+there is a [[Truth|truth]], but only a half-[[Truth|truth]], in the saying that all modern
 
 Powers alike rely on the Capitalist and make war on the lines of
 
@@ -4399,7 +4399,7 @@ every peasant from one of the old Russian communes is the immediate
 
 servant of a rich man, as is every employee of Mr. Rockefeller. It is as
 
-false as the statement that no poor people in America can read or write.
+false as the statement that no poor people in [[america|America]] can read or write.
 
 There is an element of Capitalism in all modern countries, as there is
 
@@ -4421,7 +4421,7 @@ the war, on the whole, rather suffers by the contractor. We regard this
 
 unsoldierly middleman with disgust, or great anger, or contemptuous
 
-acquiescence, or commercial dread and silence, according to our personal
+acquiescence, or commercial dread and [[Silence|silence]], according to our personal
 
 position and character. But we nowhere think of him as having anything
 
@@ -4439,7 +4439,7 @@ tolerate the contractor, or we do not tolerate him; but no one admires
 
 him especially, and certainly no one gives him any credit for any
 
-success in the war. Confessedly or unconfessedly we knock his profits,
+[[success]] in the war. Confessedly or unconfessedly we knock his profits,
 
 not only off what goes to the taxpayer, but what goes to the soldier. We
 
@@ -4447,15 +4447,15 @@ know the Army will not fight any better, at least, because the clothes
 
 they wear were stitched by wretched women who could hardly see; or
 
-because their boots were made by harassed helots, who never had time to
+because their boots were made by harassed helots, who never had [[Time|time]] to
 
-think. In war-time it is very widely confessed that Capitalism is not a
+think. In war-[[Time|time]] it is very widely confessed that Capitalism is not a
 
-good way of ruling a patriotic or self-respecting people, and all sorts
+good way of ruling a patriotic or [[Self|self]]-respecting people, and all sorts
 
 of other things, from strict State organisation to quite casual personal
 
-charity, are hastily substituted for it. It is recognised that the
+[[Charity|charity]], are hastily substituted for it. It is recognised that the
 
 "great employer," nine times out of ten, is no more than the schoolboy
 
@@ -4491,9 +4491,9 @@ produced under the equally infernal conditions of the modern factory
 
 and the urban and proletarian civilisation. That is why the victory of
 
-Germany would be simply the victory of Krupp, and the victory of Krupp
+[[Germany]] would be simply the victory of Krupp, and the victory of Krupp
 
-would be simply the victory of Capitalism. There, and there alone,
+would be simply the victory of Capitalism. There, and there [[Alone|alone]],
 
 Capitalism would be able to point to something done successfully for a
 
@@ -4513,15 +4513,15 @@ will be the only intelligent answer that any capitalist has yet given
 
 against our case that Capitalism is as wasteful and as weak as it is
 
-certainly wicked. I do not fear any such finality, for I happen to
+certainly wicked. I do not [[Fear|fear]] any such finality, for I happen to
 
 believe in the kind of men who fight best with bayonets and whose
 
-fathers hammered their own pikes for the French Revolution.
+fathers hammered their own pikes for the [[French Revolution]].
 
 THE TOWER OF BEBEL
 
-Among the cloudy and symbolic stories in the beginning of the Bible
+Among the cloudy and symbolic stories in the beginning of the [[Bible]]
 
 there is one about a tower built with such vertical energy as to take a
 
@@ -4545,7 +4545,7 @@ less intelligent Professor Harnack as a final proof that all prehistoric
 
 humanity talked German. But when all was said, the symbol would remain
 
-that a plain tower, as straight as a sword, as simple as a lily, did
+that a plain tower, as straight as a [[Sword|sword]], as simple as a lily, did
 
 nevertheless produce the deepest divisions that have been known among
 
@@ -4553,7 +4553,7 @@ men. In any case we of the world in revolt--Syndicalists, Socialists,
 
 Guild Socialists, or whatever we call ourselves--have no need to worry
 
-about the scripture or the allegory. We have the reality. For whatever
+about the scripture or the [[Allegory|allegory]]. We have the reality. For whatever
 
 reason, what is said to have happened to the people of Shinak has
 
@@ -4563,7 +4563,7 @@ None of us who have known Socialists (or rather, to speak more
 
 truthfully, none of us who have been Socialists) can entertain the
 
-faintest doubt that a fine intellectual sincerity lay behind what
+faintest [[Doubt|doubt]] that a fine intellectual sincerity lay behind what
 
 was called "L'Internationale." It was really felt that Socialism was
 
@@ -4593,23 +4593,23 @@ nursery speech, but I am quite certain he will know more of it after
 
 this struggle than he knew before. In short, whether or no there be a
 
-new union of hearts, there has really and truly been a new division of
+new [[Union|union]] of hearts, there has really and truly been a new division of
 
 tongues.
 
-How are we to explain this singular truth, even if we deplore it? I
+How are we to explain this singular [[Truth|truth]], even if we deplore it? I
 
 dismiss with fitting disdain the notion that it is a mere result of
 
 military terrorism or snobbish social pressure. The Socialist leaders
 
-of modern Europe are among the most sincere men in history; and their
+of modern Europe are among the most sincere men in [[history]]; and their
 
 Nationalist note in this affair has had the ring of their sincerity. I
 
-will not waste time on the speculation that Vandervelde is bullied by
+will not waste [[Time|time]] on the speculation that Vandervelde is bullied by
 
-Belgian priests; or that Blatchford is frightened of the horse-guards
+Belgian priests; or that Blatchford is frightened of the [[Horse|horse]]-guards
 
 outside Whitehall. These great men support the enthusiasm of their
 
@@ -4617,7 +4617,7 @@ conventional countrymen because they share it; and they share it because
 
 there is (though perhaps only at certain great moments) such a thing as
 
-pure democracy.
+pure [[Democracy|democracy]].
 
 Timour the Tartar, I think, celebrated some victory with a tower built
 
@@ -4649,7 +4649,7 @@ on a hollow and empty business: to help the good Mr. Binks to strengthen
 
 the Insurance Act against the wicked Mr. Jinks who would only promise
 
-to fortify the Insurance Act. That night it did not blow the democratic
+to fortify the Insurance Act. That [[Night|night]] it did not blow the democratic
 
 gale. Yet it can blow on these as on others; and when it does blow men
 
@@ -4663,7 +4663,7 @@ must apologise for the comparison. And yet there is a comparison.
 
 When we used to say that there were so many thousands of Socialists
 
-in Germany, we were counting by skulls. When we said that the majority
+in [[Germany]], we were counting by skulls. When we said that the majority
 
 consisting of Proletarians would be everywhere opposed to the minority,
 
@@ -4685,17 +4685,17 @@ Now, this is the answer to the questions of some kind critics, whose
 
 actual words I have not within reach at the moment, about whether my
 
-democracy meant the rule of the majority over the minority. It means the
+[[Democracy|democracy]] meant the rule of the majority over the minority. It means the
 
 rule of the rule--the rule of the rule over the exception. When a nation
 
-finds a soul it clothes it with a body, and does verily act like one
+finds a [[Soul|soul]] it clothes it with a [[Body|body]], and does verily act like one
 
 living thing. There is nothing to be said about those who are out of it,
 
 except that they are out of it. After talking about it in the abstract
 
-for decades, this is Democracy, and it is marvellous in our eyes. It is
+for decades, this is [[Democracy]], and it is marvellous in our eyes. It is
 
 not the difference between ninety-nine persons and a hundred persons; it
 
@@ -4709,7 +4709,7 @@ very certain that the defiance to Prussia did not come from a majority
 
 of Belgians. It came from Belgium one and indivisible--atheists,
 
-priests, princes of the blood, Frenchified shopkeepers, Flemish boors,
+priests, princes of the [[Blood|blood]], Frenchified shopkeepers, Flemish boors,
 
 men, women, and children, and the sooner we understand that this sort of
 
@@ -4729,9 +4729,9 @@ with a hundred savage fights against the capitalist parties, still lifts
 
 up his horny hand for peace. What further need have we of witnesses?
 
-I, for my part, am quite satisfied, and do not doubt that Mr. MacDonald
+I, for my part, am quite satisfied, and do not [[Doubt|doubt]] that Mr. MacDonald
 
-will be as industrious in damping down democracy in this form as in
+will be as industrious in damping down [[Democracy|democracy]] in this form as in
 
 every other.
 
@@ -4741,7 +4741,7 @@ Heaven forbid that I should once more wade in those swamps of logomachy
 
 and tautology in which the old guard of the Determinists still seem to
 
-be floundering. The question of Fate and Free Will can never attain to
+be floundering. The question of [[Fate and Free Will]] can never attain to
 
 a conclusion, though it may attain to a conviction. The shortest
 
@@ -4759,9 +4759,9 @@ morally not worth preaching; if it does, it must affect conduct in the
 
 direction of impotence and submission. A writer in the "Clarion" says
 
-that the reformer cannot help trying to reform, nor the Conservative
+that the reformer cannot help trying to [[Reform|reform]], nor the Conservative
 
-help his Conservatism. But suppose the reformer tries to reform the
+help his Conservatism. But suppose the reformer tries to [[Reform|reform]] the
 
 Conservative and turn him into another reformer? Either he can, in which
 
@@ -4799,11 +4799,11 @@ interest me very much. One is concerned to defend Darwin against the
 
 scientific revolt against him that was led by Samuel Butler, and among
 
-other things it calls Bernard Shaw a back number. Well, most certainly
+other things it calls Bernard [[Shaw]] a back number. [[Well]], most certainly
 
 "The Origin of Species" is a back number, in so far as any honest and
 
-interesting book ever can be; but in pure philosophy nothing can be
+interesting book ever can be; but in pure [[philosophy]] nothing can be
 
 out of date, since the universe must be a mystery even to the believer.
 
@@ -4827,7 +4827,7 @@ with the Navy of Holland, because it had once swept the sea and sailed
 
 up the Thames. And I certainly call a man or a movement out of date
 
-that, in the year 1914, when we few are fighting a giant machine,
+that, in the year 1914, when we few are fighting a giant [[Machine|machine]],
 
 strengthened with all material wealth and worked with all the material
 
@@ -4835,7 +4835,7 @@ sciences, thinks that our chief danger is from an excess of moral and
 
 religious responsibility. He reminds me of Mr. Snodgrass, who had the
 
-presence of mind to call out "Fire!" when Mr. Pickwick fell through the
+presence of mind to call out "[[Fire]]!" when Mr. [[Pickwick]] fell through the
 
 ice.
 
@@ -4859,7 +4859,7 @@ punished for his acts, but restrained." In forty-eight hours I could
 
 probably get a petition to that effect signed by millionaires. A short
 
-time ago a Bill was introduced to hold irresponsible and "restrain" a
+[[Time|time]] ago a Bill was introduced to hold irresponsible and "restrain" a
 
 whole new class of people, who were "incapable of managing their affairs
 
@@ -4869,7 +4869,7 @@ see what sort of democrats they were.
 
 Now, clearing our heads of what is called popular science (which means
 
-going to sleep to a lullaby of long words), let us use our own brains a
+going to [[Sleep|sleep]] to a lullaby of long words), let us use our own brains a
 
 little, and ask ourselves what is the real difference between punishing
 
@@ -4933,9 +4933,9 @@ keepers, and wardens have yet to investigate. The simple result will be
 
 that, in the scientific Utopia of the "Clarion," men like Mann or Syme
 
-or Larkin will not be put in prison because of what they have done.
+or Larkin will not be put in [[Prison|prison]] because of what they have done.
 
-They will be kept in prison because of what they might do. Indeed, the
+They will be kept in [[Prison|prison]] because of what they might do. Indeed, the
 
 builders of the new tyranny have already come very near to avowing
 
@@ -4945,7 +4945,7 @@ this scientific and futurist method. When the lawyers tried to stop the
 
 know your next week's crime, because it isn't committed yet; but we are
 
-scientifically certain you have the criminal type. And by the sublime
+scientifically certain you have the criminal type. And by the [[Sublime|sublime]]
 
 and unalterable laws of heredity, all your poor little papers will
 
@@ -4955,9 +4955,9 @@ This is a purely practical question; and that is why I insist on it,
 
 even in such strenuous times. The writers on the "Clarion" have a
 
-perfect right to think Christianity is the foe of freedom, or even
+perfect right to think [[Christianity]] is the foe of [[Freedom|freedom]], or even
 
-that the stupidity and tyranny of the present Government is due to the
+that the stupidity and tyranny of the present [[government|Government]] is due to the
 
 monkish mysticism of Lord Morley and Mr. John M. Robertson. They have a
 
@@ -4985,15 +4985,15 @@ whatever wrong in the ancient and universal idea of Punishment--except
 
 that we are not punishing the right people.
 
-THE DREGS OF PURITANISM
+THE DREGS OF [[Puritanism|PURITANISM]]
 
 One peculiarity of the genuine kind of enemy of the people is that his
 
-slightest phrase is clamorous with all his sins. Pride, vain-glory, and
+slightest phrase is clamorous with all his sins. [[Pride]], vain-glory, and
 
 hypocrisy seem present in his very grammar; in his very verbs or adverbs
 
-or prepositions, as well as in what he says, which is generally bad
+or prepositions, as [[Well|well]] as in what he says, which is generally bad
 
 enough. Thus I see that a Nonconformist pastor in Bromley has been
 
@@ -5007,7 +5007,7 @@ one could write a volume on that sentence, a great thick volume called
 
 "The Decline of the English Middle Class." In taste, in style, in
 
-philosophy, in feeling, in political project, the horrors of it are as
+[[philosophy]], in feeling, in political project, the horrors of it are as
 
 unfathomable as hell.
 
@@ -5057,13 +5057,13 @@ loyalty of workmen to their employers, and God knows what rubbish; and
 
 the first small certainty about the reverend gentleman whose sentence
 
-I have quoted is that his brain stopped working as a clock stops, years
+I have quoted is that his brain stopped working as a [[Clock|clock]] stops, years
 
 and years ago.
 
 Second, consider the quality of the religious literature! These people
 
-are always telling us that the English translated Bible is sufficient
+are always telling us that the English translated [[Bible]] is sufficient
 
 training for anyone in noble and appropriate diction; and so it is. Why,
 
@@ -5073,7 +5073,7 @@ rude Midland tinker, is as much worth reading as Chaucer or Spenser;
 
 and so he is. Why, then, have they not read him? I cannot believe
 
-that anyone who had seen, even in a nightmare of the nursery, Apollyon
+that anyone who had seen, even in a [[nightmare]] of the nursery, Apollyon
 
 straddling over the whole breadth of the way could really write like
 
@@ -5081,7 +5081,7 @@ that about a cigarette. By the help of God, they wanted this cigarette
 
 business stopped. Therefore, with angels and archangels and the whole
 
-company of Heaven, with St. Michael, smiter of Satan and Captain of
+company of Heaven, with St. [[Michael]], smiter of [[Satan]] and Captain of
 
 the Chivalry of God, with all the ardour of the seraphs and the flaming
 
@@ -5097,9 +5097,9 @@ rises into a sort of towering blasphemy. An enormous number of live
 
 young men are being hurt by shells, hurt by bullets, hurt by fever
 
-and hunger and horror of hope deferred; hurt by lance blades and sword
+and hunger and horror of [[Hope|hope]] deferred; hurt by lance blades and [[Sword|sword]]
 
-blades and bayonet blades breaking into the bloody house of life. But
+blades and bayonet blades breaking into the bloody [[house]] of life. But
 
 Mr. Price (I think that's his name) is still anxious that they should
 
@@ -5115,7 +5115,7 @@ many cigarettes, and that he has any influence in urging on them the
 
 unhealthiness of the habit, I should not blame him if he gave sermons
 
-or lectures about it (with magic-lantern slides), so long as it was in
+or lectures about it (with [[Magic|magic]]-lantern slides), so long as it was in
 
 Bromley and about Bromley. Cigarettes may be bad for the health: bombs
 
@@ -5135,11 +5135,11 @@ the doctors and nurses on the field and tell them not to give drugs, as
 
 they give morphia in a hospital. But it is the whole hypothesis of war,
 
-it is its very nature and first principle, that the man in the trench
+it is its very [[Nature|nature]] and first principle, that the man in the trench
 
-is almost as much a suffering and abnormal person as the man in the
+is almost as much a [[Suffering|suffering]] and abnormal person as the man in the
 
-hospital. Hit or unhit, conqueror or conquered, he is, by nature of the
+hospital. Hit or unhit, conqueror or conquered, he is, by [[Nature|nature]] of the
 
 case, having less pleasure than is proper and natural to a man.
 
@@ -5167,7 +5167,7 @@ mood. It must be stopped, and we must not even ask who has stopped it!
 
 THE TYRANNY OF BAD JOURNALISM
 
-The amazing decision of the Government to employ methods quite alien to
+The amazing decision of the [[government|Government]] to employ methods quite alien to
 
 England, and rather belonging to the police of the Continent, probably
 
@@ -5189,7 +5189,7 @@ the English nothing but bad journalism. Very bad journalism, simply
 
 considered as journalism.
 
-It always takes a considerable time to see the simple and central fact
+It always takes a considerable [[Time|time]] to see the simple and central fact
 
 about anything. All sorts of things have been said about the modern
 
@@ -5217,7 +5217,7 @@ the ordinary purchaser of news the practical effects of a corner and
 
 a monopoly. He receives all his political information and all
 
-his political marching orders from what is by this time a sort of
+his political marching orders from what is by this [[Time|time]] a sort of
 
 half-conscious secret society, with very few members, but a great deal
 
@@ -5229,11 +5229,11 @@ legends that have passed into common speech. There is the notion that
 
 the Press is flashy or trivial _because_ it is popular. In other words,
 
-an attempt is made to discredit democracy by representing journalism
+an attempt is made to discredit [[Democracy|democracy]] by representing journalism
 
-as the natural literature of democracy. All this is cold rubbish.
+as the natural literature of [[Democracy|democracy]]. All this is cold rubbish.
 
-The democracy has no more to do with the papers than it has with the
+The [[Democracy|democracy]] has no more to do with the papers than it has with the
 
 peerages. The millionaire newspapers are vulgar and silly because the
 
@@ -5241,11 +5241,11 @@ millionaires are vulgar and silly. It is the proprietor, not the editor,
 
 not the sub-editor, least of all the reader, who is pleased with this
 
-monotonous prairie of printed words. The same slander on democracy can
+monotonous prairie of printed words. The same slander on [[Democracy|democracy]] can
 
 be noticed in the case of advertisements. There is many a tender old
 
-Tory imagination that vaguely feels that our streets would be hung with
+Tory [[Imagination|imagination]] that vaguely feels that our streets would be hung with
 
 escutcheons and tapestries, if only the profane vulgar had not hung them
 
@@ -5259,7 +5259,7 @@ proclamations in favour of Sapolio? Did you ever see a poor, ragged
 
 man laboriously drawing and painting a picture on the wall in favour
 
-of Sunlight Soap--simply as a labour of love? It is nonsense; those who
+of Sunlight Soap--simply as a labour of [[Love|love]]? It is nonsense; those who
 
 hang our public walls with ugly pictures are the same select few who
 
@@ -5285,7 +5285,7 @@ chooses. In the old days, when Parliaments were free in England, it
 
 was discovered that one courtier was allowed to sell all the silk, and
 
-another to sell all the sweet wine. A member of the House of Commons
+another to sell all the sweet wine. A member of the [[house|House]] of Commons
 
 humorously asked who was allowed to sell all the bread. I really tremble
 
@@ -5293,15 +5293,15 @@ to think what that sarcastic legislator would have said if he had been
 
 put off with the modern nonsense about "gauging the public taste."
 
-Suppose the first courtier had said that, by his shrewd, self-made
+Suppose the first courtier had said that, by his shrewd, [[Self|self]]-made
 
-sense, he had detected that people had a vague desire for silk; and
+sense, he had detected that people had a vague [[Desire|desire]] for silk; and
 
-even a deep, dim human desire to pay so much a yard for it! Suppose
+even a deep, dim human [[Desire|desire]] to pay so much a yard for it! Suppose
 
 the second courtier said that he had, by his own rugged intellect,
 
-discovered a general desire for wine: and that people bought his wine
+discovered a general [[Desire|desire]] for wine: and that people bought his wine
 
 at his price--when they could buy no other! Suppose a third courtier had
 
@@ -5309,19 +5309,19 @@ jumped up and said that people always bought his bread when they could
 
 get none anywhere else.
 
-Well, that is a perfect parallel. "After bread, the need of the people
+[[Well]], that is a perfect parallel. "After bread, the need of the people
 
 is knowledge," said Danton. Knowledge is now a monopoly, and comes
 
 through to the citizens in thin and selected streams, exactly as bread
 
-might come through to a besieged city. Men must wish to know what is
+might come through to a besieged [[City|city]]. Men must wish to know what is
 
 happening, whoever has the privilege of telling them. They must listen
 
 to the messenger, even if he is a liar. They must listen to the liar,
 
-even if he is a bore. The official journalist for some time past has
+even if he is a bore. The official journalist for some [[Time|time]] past has
 
 been both a bore and a liar; but it was impossible until lately to
 
@@ -5341,9 +5341,9 @@ unread until it was actually unreadable.
 
 If you retain the servile superstition that the Press, as run by the
 
-capitalists, is popular (in any sense except that in which dirty water
+capitalists, is popular (in any sense except that in which dirty [[Water|water]]
 
-in a desert is popular), consider the case of the solemn articles in
+in a [[Desert|desert]] is popular), consider the case of the solemn articles in
 
 praise of the men who own newspapers--men of the type of Cadbury or
 
@@ -5359,7 +5359,7 @@ Lyons about the hopes and fears of this, our native land? These few
 
 small-minded men publish, papers to praise themselves. You could no more
 
-get an intelligent poor man to praise a millionaire's soul, except for
+get an intelligent poor man to praise a millionaire's [[Soul|soul]], except for
 
 hire, than you could get him to sell a millionaire's soap, except for
 
@@ -5367,7 +5367,7 @@ hire. And I repeat that, though there are other aspects of the matter of
 
 the new plutocratic raid, one of the most important is mere journalistic
 
-jealousy. The Yellow Press is bad journalism: and wishes to stop the
+[[Jealousy|jealousy]]. The Yellow Press is bad journalism: and wishes to stop the
 
 appearance of good journalism.
 
@@ -5411,11 +5411,11 @@ Everyone but a consistent and contented capitalist, who must be
 
 something pretty near to a Satanist, must rejoice at the spirit and
 
-success of the Battle of the Buses. But one thing about it which happens
+[[success]] of the Battle of the Buses. But one thing about it which happens
 
 to please me particularly was that it was fought, in one aspect at
 
-least, on a point such as the plutocratic fool calls unpractical. It
+least, on a point such as the plutocratic [[Fool|fool]] calls unpractical. It
 
 was fought about a symbol, a badge, a thing attended with no kind of
 
@@ -5427,17 +5427,17 @@ from their homes. When a man has an eye for business, all that goes on
 
 on this earth in that style is simply invisible to him. But let us be
 
-charitable to the eye for business; the eye has been pretty well blacked
+charitable to the eye for business; the eye has been pretty [[Well|well]] blacked
 
-this time.
+this [[Time|time]].
 
 But I wish to insist here that it is exactly what is called the
 
 unpractical part of the thing that is really the practical. The chief
 
-difference between men and the animals is that all men are artists;
+difference between men and the [[Animals|animals]] is that all men are artists;
 
-though the overwhelming majority of us are bad artists. As the old fable
+though the overwhelming majority of us are bad artists. As the old [[Fable|fable]]
 
 truly says, lions do not make statues; even the cunning of the fox can
 
@@ -5453,7 +5453,7 @@ trumpeting, it is only by human blandishments that he can be induced to
 
 play the drum. But man, savage or civilised, simple or complex
 
-always desires to see his own soul outside himself; in some material
+always desires to see his own [[Soul|soul]] outside himself; in some material
 
 embodiment. He always wishes to point to a table in a temple, or a cloth
 
@@ -5471,7 +5471,7 @@ The Symbolism of the Badge
 
 The badge on a Trade Unionist's coat is a piece of poetry in the
 
-genuine, lucid, and logical sense in which Milton defined poetry (and
+genuine, lucid, and logical sense in which [[Milton]] defined poetry (and
 
 he ought to know) when he said that it was simple, sensuous, and
 
@@ -5485,7 +5485,7 @@ Gods have been; and it is passionate in this perfectly practical sense,
 
 which the man with an eye to business may some day learn more thoroughly
 
-than he likes, that there are men who will allow you to cross a word
+than he likes, that there are men who will allow you to [[Cross|cross]] a word
 
 out in a theoretical document, but who will not allow you to pull a big
 
@@ -5495,7 +5495,7 @@ than they have. Now I think it is this sensuousness, this passion, and,
 
 above all, this simplicity that are most wanted in this promising revolt
 
-of our time. For this simplicity is perhaps the only thing in which the
+of our [[Time|time]]. For this simplicity is perhaps the only thing in which the
 
 best type of recent revolutionists have failed. It has been our
 
@@ -5503,11 +5503,11 @@ sorrow lately to salute the sunset of one of the very few clean and
 
 incorruptible careers in the most corruptible phase of Christendom. The
 
-death of Quelch naturally turns one's thoughts to those extreme Marxian
+[[Death|death]] of Quelch naturally turns one's thoughts to those extreme Marxian
 
-theorists, who, whatever we may hold about their philosophy, have
+theorists, who, whatever we may hold about their [[philosophy]], have
 
-certainly held their honour like iron. And yet, even in this instant
+certainly held their [[Honour|honour]] like iron. And yet, even in this instant
 
 of instinctive reverence, I cannot feel that they were poetical enough,
 
@@ -5515,7 +5515,7 @@ that is childish enough, to make a revolution. They had all the audacity
 
 needed for speaking to the despot; but not the simplicity needed for
 
-speaking to the democracy. They were always accused of being too bitter
+speaking to the [[Democracy|democracy]]. They were always accused of being too bitter
 
 against the capitalist. But it always seemed to me that they were (quite
 
@@ -5537,7 +5537,7 @@ words crawl all over him, like so many long, soft, furry caterpillars.
 
 Caterpillars cannot sting like wasps. And, in repeating that the old
 
-Marxians have been, perhaps, the best and bravest men of our time, I say
+Marxians have been, perhaps, the best and bravest men of our [[Time|time]], I say
 
 also that they would have been better and braver still if they had never
 
@@ -5545,13 +5545,13 @@ used a scientific word, and never read anything but fairy tales.
 
 The Beastly Individualist
 
-Suppose I go on to a ship, and the ship sinks almost immediately; but
+Suppose I go on to a [[Ship|ship]], and the [[Ship|ship]] sinks almost immediately; but
 
 I (like the people in the Bab Ballads), by reason of my clinging to a
 
-mast, upon a desert island am eventually cast. Or rather, suppose I am
+mast, upon a [[Desert|desert]] island am eventually cast. Or rather, suppose I am
 
-not cast on it, but am kept bobbing about in the water, because the only
+not cast on it, but am kept bobbing about in the [[Water|water]], because the only
 
 man on the island is what some call an Individualist, and will not throw
 
@@ -5565,7 +5565,7 @@ across the crashing breakers, I call his position the "insularistic
 
 position," and my position "the semi-amphibian position," much valuable
 
-time may be lost. I am not an amphibian. I am a drowning man. He is
+[[Time|time]] may be lost. I am not an amphibian. I am a drowning man. He is
 
 not an insularist, or an individualist. He is a beast. Or rather, he
 
@@ -5583,11 +5583,11 @@ Now, the language of poetry is simpler than that of prose; as anyone
 
 can see who has read what the old-fashioned protestant used to call
 
-confidently "his" Bible. And, being simpler, it is also truer; and,
+confidently "his" [[Bible]]. And, being simpler, it is also truer; and,
 
 being truer, it is also fiercer. And, for most of the infamies of our
 
-time, there is really nothing plain enough, except the plain language of
+[[Time|time]], there is really nothing plain enough, except the plain language of
 
 poetry. Take, let us say, the ease of the recent railway disaster,
 
@@ -5605,17 +5605,17 @@ good lives do not pay; and bad coals do pay. It seems simply impossible
 
 to get any other meaning out of the matter except that. And, if in human
 
-history there be anything simple and anything horrible, it seems to have
+[[history]] there be anything simple and anything horrible, it seems to have
 
 been present in this matter. If, even after some study and understanding
 
-of the old religious passions which were the resurrection of Europe,
+of the old religious passions which were the [[Resurrection|resurrection]] of Europe,
 
 we cannot endure the extreme infamy of witches and heretics literally
 
-burned alive--well, the people in this affair were quite as literally
+burned alive--[[Well|well]], the people in this affair were quite as literally
 
-burned alive. If, when we have really tried to extend our charity beyond
+burned alive. If, when we have really tried to extend our [[Charity|charity]] beyond
 
 the borders of personal sympathy, to all the complexities of class
 
@@ -5753,7 +5753,7 @@ copying, distributing, performing, displaying or creating derivative
 
 works based on the work as long as all references to Project Gutenberg
 
-are removed.  Of course, we hope that you will support the Project
+are removed.  Of course, we [[Hope|hope]] that you will support the Project
 
 Gutenberg-tm mission of promoting free access to electronic works by
 
@@ -5855,7 +5855,7 @@ active links or immediate access to the full terms of the Project
 
 Gutenberg-tm License.
 
-1.E.6.  You may convert to and distribute this work in any binary,
+1.E.6.  You may [[convert]] to and distribute this work in any binary,
 
 compressed, marked up, nonproprietary or proprietary form, including any
 
@@ -5945,7 +5945,7 @@ electronic work or group of works on different terms than are set
 
 forth in this agreement, you must obtain permission in writing from
 
-both the Project Gutenberg Literary Archive Foundation and Michael
+both the Project Gutenberg Literary Archive Foundation and [[Michael]]
 
 Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
@@ -6119,7 +6119,7 @@ Fairbanks, AK, 99712., but its volunteers and employees are scattered
 
 throughout numerous locations.  Its business office is located at 809
 
-North 1500 West, Salt Lake City, UT 84116, (801) 596-1887.  Email
+North 1500 West, Salt Lake [[City]], UT 84116, (801) 596-1887.  Email
 
 contact links and up to date contact information can be found at the
 
@@ -6143,7 +6143,7 @@ spread public support and donations to carry out its mission of
 
 increasing the number of public domain and licensed works that can be
 
-freely distributed in machine readable form accessible by the widest
+freely distributed in [[Machine|machine]] readable form accessible by the widest
 
 array of equipment including outdated equipment.  Many small donations
 
@@ -6179,7 +6179,7 @@ International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
-outside the United States.  U.S. laws alone swamp our small staff.
+outside the United States.  U.S. laws [[Alone|alone]] swamp our small staff.
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -6193,7 +6193,7 @@ Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
 
-Professor Michael S. Hart was the originator of the Project Gutenberg-tm
+Professor [[Michael]] S. Hart was the originator of the Project Gutenberg-tm
 
 concept of a library of electronic works that could be freely shared
 

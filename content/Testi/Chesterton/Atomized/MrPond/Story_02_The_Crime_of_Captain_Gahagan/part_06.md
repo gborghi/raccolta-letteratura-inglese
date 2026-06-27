@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Crime of Captain Gahagan (part 6)"
+title: "[[MrPond]] — The Crime of Captain Gahagan (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-truth of his words and movements that afternoon."
+[[Truth|truth]] of his words and movements that afternoon."
 
 
 
-"Truth!" cried Luke, with very extraordinary bitterness.
+"[[Truth]]!" cried Luke, with very extraordinary bitterness.
 
 
 
@@ -46,7 +46,7 @@ came back to him about an actual conspiracy against Gahagan; though
 
 certainly not one worked by Artemis or Joan.  At last he broke the
 
-silence very abruptly.
+[[Silence|silence]] very abruptly.
 
 
 
@@ -58,7 +58,7 @@ interest.  Since you study his interests so deeply, can you give me
 
 a piece of information about him?  DID Mr. Feversham and his wife
 
-come back from Brighton that day?  Was Mrs. Feversham at the house
+come back from Brighton that day?  Was Mrs. Feversham at the [[house]]
 
 that afternoon, whether Gahagan went there, or not?"
 
@@ -68,7 +68,7 @@ that afternoon, whether Gahagan went there, or not?"
 
 return next morning.  I have no idea why Feversham himself did
 
-return that night."
+return that [[Night|night]]."
 
 
 
@@ -76,13 +76,13 @@ return that night."
 
 
 
-Mr. Luke the solicitor rose abruptly from his seat and turned away.
+Mr. Luke the solicitor [[Rose|rose]] abruptly from his seat and turned away.
 
 "I cannot see any use in all these speculations of yours," he said,
 
 and, making a stiff salute, he took his top-hat and was gone from
 
-the house with a swiftness that seemed hardly normal.
+the [[house]] with a swiftness that seemed hardly normal.
 
 
 
@@ -122,17 +122,17 @@ human personality and stands apart from modes and manners.  For
 
 Joan had very much the same tricks of style; the same rather high,
 
-well-bred voice, the same sketchy, uncompleted sentences; but,
+[[Well|well]]-bred voice, the same sketchy, uncompleted sentences; but,
 
 fortunately, not the same purple powder and not in the least the
 
-same eyes or gestures or mind or immortal soul.  Mr. Pond, with all
+same eyes or gestures or mind or immortal [[Soul|soul]].  Mr. Pond, with all
 
 his old-fashioned prejudices, knew at once that in this other girl
 
 the new virtues were virtues, whether or not they were new.  She
 
-really was brave and generous and fond of the truth, though the
+really was brave and generous and fond of the [[Truth|truth]], though the
 
 Society papers did say so.  "She's all right," said Mr. Pond to
 
@@ -144,9 +144,9 @@ And oh, how much better than platinum!"
 
 Stopping at the next stage of his pilgrimage, he visited the
 
-monstrous and ludicrous large hotel which had the honour of housing
+monstrous and ludicrous large hotel which had the [[Honour|honour]] of housing
 
-Miss Artemis Asa-Smith of Pennsylvania.  She received him with the
+Miss Artemis Asa-[[smith|Smith]] of Pennsylvania.  She received him with the
 
 rather overwhelming enthusiasm which bore her everywhere through
 
@@ -162,7 +162,7 @@ which he always refused to say a word to anybody), the ardent
 
 Artemis continued to earn his approval by her reserves of good
 
-sense and good nature.  She saw the point about the order of the
+sense and good [[Nature|nature]].  She saw the point about the order of the
 
 topics mentioned, and its probable effect on her own mind; and so
 
@@ -180,27 +180,27 @@ himself together, before approaching his last duty--which also took
 
 the form of calling on a lady.  He might be excused; for it also
 
-involved passing through that grim garden where a man had lain
+involved passing through that grim [[Garden|garden]] where a man had lain
 
-murdered, to that high and sinister house where his widow was still
+murdered, to that high and sinister [[house]] where his widow was still
 
-living alone: the great Olivia, queen of tragedy, now tragic by a
+living [[Alone|alone]]: the great [[Olivia]], [[Queen|queen]] of [[Tragedy|tragedy]], now tragic by a
 
-double claim.
+[[Double|double]] claim.
 
 
 
 He stepped, not without repugnance, across that dark corner inside
 
-the gate and under the holly tree where poor Fred Feversham had
+the gate and under the holly tree where poor [[Fred]] Feversham had
 
-been spiked to the earth by a mere splinter of a sword; and as he
+been spiked to the earth by a mere splinter of a [[Sword|sword]]; and as he
 
 climbed the crooked path to the doorway in the narrow and bare
 
-brick house that stood above him like a tower, dark against the
+brick [[house]] that stood above him like a tower, dark against the
 
-stars, he revolved difficulties much deeper than had yet troubled
+[[Stars|stars]], he revolved difficulties much deeper than had yet troubled
 
 him in the more trifling matter of the supposed inconsistencies of
 
@@ -212,7 +212,7 @@ unfortunate Frederick Feversham; and there were some real reasons
 
 for directing the suspicion upon Gahagan.  After all, he had been
 
-in the habit of spending whole days, or half of the nights as well,
+in the habit of spending whole days, or half of the nights as [[Well|well]],
 
 with this actress; nothing seemed more horribly natural, more
 

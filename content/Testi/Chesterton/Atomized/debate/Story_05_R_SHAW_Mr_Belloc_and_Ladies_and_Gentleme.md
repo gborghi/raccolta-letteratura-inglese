@@ -1,5 +1,5 @@
 ---
-title: "debate — R. SHAW:  Mr. Belloc, and Ladies and Gentlemen.  Our subject"
+title: "[[debate]] — R. [[Shaw|SHAW]]:  Mr. Belloc, and Ladies and Gentlemen.  Our subject"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/debate-(Chesterton)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-MR. SHAW:  Mr. Belloc, and Ladies and Gentlemen.  Our subject
+MR. [[Shaw|SHAW]]:  Mr. Belloc, and Ladies and Gentlemen.  Our subject
 this evening, "Do We Agree?" was an inspiration of Mr. Chesterton's. Some
-of you might reasonably wonder, if we agree, what we are going
-to debate about.  But I suspect that you do not really care
-much what we debate about provided we entertain you by talking
+of you might reasonably [[Wonder|wonder]], if we agree, what we are going
+to [[debate]] about.  But I suspect that you do not really care
+much what we [[debate]] about provided we entertain you by talking
 in our characteristic manners.
 
 The reason for this, though you may not know it--and it is my business to
@@ -63,12 +63,12 @@ but let us not forget that they are madmen."
 In this country they say "Let us listen to these amusing chaps.
 They are perfectly sane, which we obviously are not."
 Now there must be some reason for shewing us all this consideration.
-There must be some force in nature which...
+There must be some force in [[Nature|nature]] which...
 
-(At this point the debate was interrupted by persistent knocking at
+(At this point the [[debate]] was interrupted by persistent knocking at
 the doors by ticket-holders who had, through some misunderstanding,
 been locked out.  On the chairman's intervention the doors were opened,
-and order was restored Mr. Shaw then proceeded.)
+and order was restored Mr. [[Shaw]] then proceeded.)
 
 Ladies and Gentlemen, I must go on because, as you see, if I don't
 begin to talk everybody else does.  Now I was speaking of the curious
@@ -84,7 +84,7 @@ Reject all the contradictory things they say and concentrate
 your attention on the things upon which they agree, and you may
 be listening to the voice of revelation.
 
-You will do well to-night to listen attentively, because probably
+You will do [[Well|well]] to-[[Night|night]] to listen attentively, because probably
 what is urging us to these utterances is not personal to ourselves
 but some conclusion to which all mankind is moving either by reason
 or by inspiration.  The mere fact that Mr. Chesterton and 1 may agree
@@ -95,9 +95,9 @@ the liberty I am taking or because they do not like the words I
 use or the twist of my mind; but they are the people who quarrel
 most with me.
 
-You have at this moment a typical debate raging in the Press.  You have
+You have at this moment a typical [[debate]] raging in the Press.  You have
 a very pretty controversy going on in the Church of England between
-the Archbishop of Canterbury and the Bishop of Birmingham.  I hope
+the Archbishop of Canterbury and the Bishop of Birmingham.  I [[Hope|hope]]
 you have all read the admirable letter of the Archbishop
 of Canterbury.  Everybody is pleased with that letter.
 It has the enormous virtue of being entirely good-humoured,
@@ -109,15 +109,15 @@ letter is a heartfelt appeal for ambiguity.  You can imagine
 the Archbishop of Canterbury, if he were continuing the controversy
 in private, saying to the Bishop of Birmingham:  "Now, my
 dear Barnes, let me recommend you to read that wonderful book,
-the Pilgrim's Progress.  Read the history of the hero, Christian,
-no doubt a very splendid fellow, and from the literary point
-of view the only hero of romantic fiction resembling a real man.
+the [[Pilgrim]]'s Progress.  Read the [[history]] of the [[Hero|hero]], Christian,
+no [[Doubt|doubt]] a very splendid fellow, and from the literary point
+of view the only [[Hero|hero]] of romantic fiction resembling a real man.
 But he is always fighting.  He is out of one trouble into another.
 He is leading a terrible life.  How different to that great
-Peacemaker, Mr. Facing-Both-Ways! Mr. Facing-Both-Ways has no history.
-Happy is the country that has no history; and happy, you may say,
-is the man who has no history; and Mr. Facing-Both-Ways in
-The Pilgrim's Progress is that man."
+Peacemaker, Mr. Facing-Both-Ways! Mr. Facing-Both-Ways has no [[history]].
+Happy is the country that has no [[history]]; and happy, you may say,
+is the man who has no [[history]]; and Mr. Facing-Both-Ways in
+The [[Pilgrim]]'s Progress is that man."
 
 Bunyan, by the way, does not even mention Mr. Facing-Both Ways'
 extraordinary historical feat of drafting the Twenty-seventh Article
@@ -126,11 +126,11 @@ for Elizabeth to deal with--Catholics and Puritans, for instance,
 quarrelling about Transubstantiation--Mr. Facing-Both Ways drafted
 an Article in two paragraphs.  The first paragraph affirmed
 the doctrine of Transubstantiation.  The second paragraph said it
-was an idle superstition.  Then Queen Elizabeth was able to say
+was an idle superstition.  Then [[Queen Elizabeth]] was able to say
 "Now you are all satisfied; and you must all attend the Church
-of England.  If you don't I will send you to prison."
+of England.  If you don't I will send you to [[Prison|prison]]."
 
-But I am not for one moment going to debate the doctrine
+But I am not for one moment going to [[debate]] the doctrine
 of Transubstantiation.  I mention it only to shew, by the controversy
 between the Archbishop and the Bishop, that in most debates you
 will find two types of mind playing with the same subject.
@@ -142,7 +142,7 @@ or Grecian mind, and the Gothic mind--the Faustian mind as he,
 being a German, calls it.  And in this controversy you find
 that what is moving Bishop Barnes is a Grecian dislike of not
 knowing what it is he believes, and on the other side a Gothic
-instinctive feeling that it is perhaps just as well not to know
+instinctive feeling that it is perhaps just as [[Well|well]] not to know
 too distinctly.  I am not saying which is the better type of mind.
 I think on the whole both of them are pretty useful.
 But I always like to know what it is I am preaching.
@@ -164,8 +164,8 @@ of production, distribution, and exchange:  you will never get
 there if you begin with them.  You have to begin with the question
 of the distribution of wealth.
 
-The other day a man died and the Government took four
-and a half million pounds as death duty on his property.
+The other day a man died and the [[government|Government]] took four
+and a half million pounds as [[Death|death]] duty on his property.
 That man made all his money by the labour of men who received
 twenty-six shillings a week after years of qualifying for their work.
 Was that a reasonable distribution of wealth between them?
@@ -190,7 +190,7 @@ the peculiar constitution of my brain obliged me to find out
 exactly how far it was wrong and what is the right distribution.
 I went through all the proposals ever made and through the
 arguments used in justification of the existing distribution;
-and I found they were utterly insensate and grotesque.
+and I found they were utterly insensate and [[Grotesque|grotesque]].
 
 Eventually I was convinced that we ought to be tolerant
 of any sort of crime except unequal distribution of income.

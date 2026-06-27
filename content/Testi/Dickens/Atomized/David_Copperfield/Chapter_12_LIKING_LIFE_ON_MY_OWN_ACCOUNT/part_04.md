@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT (part 4)"
+title: "[[David Copperfield]] — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -21,9 +21,9 @@ I was leaving, and we brought the box down, and put it on his cart.
 Now, I was unwilling to put the direction-card on there, lest any of my
 landlord’s family should fathom what I was doing, and detain me; so
 I said to the young man that I would be glad if he would stop for a
-minute, when he came to the dead-wall of the King’s Bench prison. The
+minute, when he came to the dead-wall of the [[King]]’s Bench [[Prison|prison]]. The
 words were no sooner out of my mouth, than he rattled away as if he, my
-box, the cart, and the donkey, were all equally mad; and I was quite out
+box, the cart, and the [[donkey]], were all equally mad; and I was quite out
 of breath with running and calling after him, when I caught him at the
 place appointed.
 
@@ -39,15 +39,15 @@ frightful grin. ‘This is a pollis case, is it? You’re a-going to bolt,
 are you? Come to the pollis, you young warmin, come to the pollis!’
 
 ‘You give me my money back, if you please,’ said I, very much
-frightened; ‘and leave me alone.’
+frightened; ‘and leave me [[Alone|alone]].’
 
 ‘Come to the pollis!’ said the young man. ‘You shall prove it yourn to
 the pollis.’
 
-‘Give me my box and money, will you,’ I cried, bursting into tears.
+‘Give me my box and money, will you,’ I cried, bursting into [[Tears|tears]].
 
 The young man still replied: ‘Come to the pollis!’ and was dragging me
-against the donkey in a violent manner, as if there were any affinity
+against the [[donkey]] in a violent manner, as if there were any affinity
 between that animal and a magistrate, when he changed his mind, jumped
 into the cart, sat upon my box, and, exclaiming that he would drive to
 the pollis straight, rattled away harder than ever.
@@ -58,10 +58,10 @@ escaped being run over, twenty times at least, in half a mile. Now I
 lost him, now I saw him, now I lost him, now I was cut at with a whip,
 now shouted at, now down in the mud, now up again, now running into
 somebody’s arms, now running headlong at a post. At length, confused by
-fright and heat, and doubting whether half London might not by this time
+fright and heat, and doubting whether half [[London]] might not by this [[Time|time]]
 be turning out for my apprehension, I left the young man to go where
 he would with my box and money; and, panting and crying, but never
 stopping, faced about for Greenwich, which I had understood was on
-the Dover Road: taking very little more out of the world, towards the
+the Dover [[Road]]: taking very little more out of the world, towards the
 retreat of my aunt, Miss Betsey, than I had brought into it, on the
-night when my arrival gave her so much umbrage.
+[[Night|night]] when my arrival gave her so much umbrage.

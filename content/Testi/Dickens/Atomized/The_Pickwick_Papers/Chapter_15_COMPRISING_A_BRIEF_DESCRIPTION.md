@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE"
+title: "The [[Pickwick]] Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -19,25 +19,25 @@ PEACOCK ASSEMBLED; AND A TALE TOLD BY A BAGMAN
 
 It is pleasant to turn from contemplating the strife and turmoil of
 political existence, to the peaceful repose of private life. Although in
-reality no great partisan of either side, Mr. Pickwick was sufficiently
-fired with Mr. Pott’s enthusiasm, to apply his whole time and attention
+reality no great partisan of either side, Mr. [[Pickwick]] was sufficiently
+fired with Mr. Pott’s enthusiasm, to apply his whole [[Time|time]] and attention
 to the proceedings, of which the last chapter affords a description
 compiled from his own memoranda. Nor while he was thus occupied was Mr.
-Winkle idle, his whole time being devoted to pleasant walks and short
+Winkle idle, his whole [[Time|time]] being devoted to pleasant walks and short
 country excursions with Mrs. Pott, who never failed, when such an
 opportunity presented itself, to seek some relief from the tedious
 monotony she so constantly complained of. The two gentlemen being thus
-completely domesticated in the editor’s house, Mr. Tupman and Mr.
+completely domesticated in the editor’s [[house]], Mr. Tupman and Mr.
 Snodgrass were in a great measure cast upon their own resources. Taking
-but little interest in public affairs, they beguiled their time chiefly
+but little interest in public affairs, they beguiled their [[Time|time]] chiefly
 with such amusements as the Peacock afforded, which were limited to a
 bagatelle-board in the first floor, and a sequestered skittle-ground in
 the back yard. In the science and nicety of both these recreations,
 which are far more abstruse than ordinary men suppose, they were
 gradually initiated by Mr. Weller, who possessed a perfect knowledge of
 such pastimes. Thus, notwithstanding that they were in a great measure
-deprived of the comfort and advantage of Mr. Pickwick’s society, they
-were still enabled to beguile the time, and to prevent its hanging
+deprived of the comfort and advantage of Mr. [[Pickwick]]’s society, they
+were still enabled to beguile the [[Time|time]], and to prevent its hanging
 heavily on their hands.
 
 It was in the evening, however, that the Peacock presented attractions
@@ -50,7 +50,7 @@ was the habit of Mr. Snodgrass to note down.
 Most people know what sort of places commercial rooms usually are. That
 of the Peacock differed in no material respect from the generality of
 such apartments; that is to say, it was a large, bare-looking room, the
-furniture of which had no doubt been better when it was newer, with a
+furniture of which had no [[Doubt|doubt]] been better when it was newer, with a
 spacious table in the centre, and a variety of smaller dittos in the
 corners; an extensive assortment of variously shaped chairs, and an old
 Turkey carpet, bearing about the same relative proportion to the size of
@@ -58,8 +58,8 @@ the room, as a lady’s pocket-handkerchief might to the floor of a watch-
 box. The walls were garnished with one or two large maps; and several
 weather-beaten rough greatcoats, with complicated capes, dangled from a
 long row of pegs in one corner. The mantel-shelf was ornamented with a
-wooden inkstand, containing one stump of a pen and half a wafer; a road-
-book and directory; a county history minus the cover; and the mortal
+wooden inkstand, containing one stump of a pen and half a wafer; a [[Road|road]]-
+book and directory; a county [[history]] minus the cover; and the mortal
 remains of a trout in a glass coffin. The atmosphere was redolent of
 tobacco-smoke, the fumes of which had communicated a rather dingy hue to
 the whole room, and more especially to the dusty red curtains which
@@ -71,11 +71,11 @@ mustard.
 
 Here it was that Mr. Tupman and Mr. Snodgrass were seated on the evening
 after the conclusion of the election, with several other temporary
-inmates of the house, smoking and drinking.
+inmates of the [[house]], smoking and drinking.
 
-‘Well, gents,’ said a stout, hale personage of about forty, with only
+‘[[Well]], gents,’ said a stout, hale personage of about forty, with only
 one eye--a very bright black eye, which twinkled with a roguish
-expression of fun and good-humour, ‘our noble selves, gents. I always
+expression of fun and good-[[Humour|humour]], ‘our noble selves, gents. I always
 propose that toast to the company, and drink Mary to myself. Eh, Mary!’
 
 ‘Get along with you, you wretch,’ said the hand-maiden, obviously not
@@ -83,7 +83,7 @@ ill-pleased with the compliment, however.
 
 ‘Don’t go away, Mary,’ said the black-eyed man.
 
-‘Let me alone, imperence,’ said the young lady.
+‘Let me [[Alone|alone]], imperence,’ said the young lady.
 
 ‘Never mind,’ said the one-eyed man, calling after the girl as she left
 the room. ‘I’ll step out by and by, Mary. Keep your spirits up, dear.’
@@ -95,7 +95,7 @@ personage with a dirty face and a clay pipe.
 
 ‘Ah! no mistake about that,’ said a very red-faced man, behind a cigar.
 
-After this little bit of philosophy there was another pause.
+After this little bit of [[philosophy]] there was another pause.
 
 ‘There’s rummer things than women in this world though, mind you,’ said
 the man with the black eye, slowly filling a large Dutch pipe, with a
@@ -114,7 +114,7 @@ the great props and comforts of our existence.’
 
 ‘So they are,’ said the placid gentleman.
 
-‘When they’re in a good humour,’ interposed the dirty-faced man.
+‘When they’re in a good [[Humour|humour]],’ interposed the dirty-faced man.
 
 ‘And that’s very true,’ said the placid one.
 
@@ -129,7 +129,7 @@ from his mouth, and struck the table violently with his clenched fist.
 ‘Containing a position which I deny,’ interrupted he of the dirty
 countenance.
 
-‘And there’s certainly a very great deal of truth in what you observe
+‘And there’s certainly a very great deal of [[Truth|truth]] in what you observe
 too, Sir,’ said the placid gentleman.
 
 ‘Your health, Sir,’ said the bagman with the lonely eye, bestowing an
@@ -149,19 +149,19 @@ cigar.
 ‘Should you?’ was the only reply of the bagman, who continued to smoke
 with great vehemence.
 
-‘So should I,’ said Mr. Tupman, speaking for the first time. He was
+‘So should I,’ said Mr. Tupman, speaking for the first [[Time|time]]. He was
 always anxious to increase his stock of experience.
 
-‘Should _you_? Well then, I’ll tell it. No, I won’t. I know you won’t
+‘Should _you_? [[Well]] then, I’ll tell it. No, I won’t. I know you won’t
 believe it,’ said the man with the roguish eye, making that organ look
 more roguish than ever. ‘If you say it’s true, of course I shall,’ said
 Mr. Tupman.
 
-‘Well, upon that understanding I’ll tell you,’ replied the traveller.
-‘Did you ever hear of the great commercial house of Bilson & Slum? But
+‘[[Well]], upon that understanding I’ll tell you,’ replied the traveller.
+‘Did you ever hear of the great commercial [[house]] of Bilson & Slum? But
 it doesn’t matter though, whether you did or not, because they retired
 from business long since. It’s eighty years ago, since the circumstance
-happened to a traveller for that house, but he was a particular friend
+happened to a traveller for that [[house]], but he was a particular friend
 of my uncle’s; and my uncle told the story to me. It’s a queer name; but
 he used to call it
 
@@ -170,20 +170,20 @@ THE BAGMAN’S STORY
 
 and he used to tell it, something in this way.
 
-‘One winter’s evening, about five o’clock, just as it began to grow
-dusk, a man in a gig might have been seen urging his tired horse along
-the road which leads across Marlborough Downs, in the direction of
-Bristol. I say he might have been seen, and I have no doubt he would
+‘One [[Winter|winter]]’s evening, about five o’[[Clock|clock]], just as it began to grow
+dusk, a man in a gig might have been seen urging his tired [[Horse|horse]] along
+the [[Road|road]] which leads across Marlborough Downs, in the direction of
+Bristol. I say he might have been seen, and I have no [[Doubt|doubt]] he would
 have been, if anybody but a blind man had happened to pass that way; but
-the weather was so bad, and the night so cold and wet, that nothing was
-out but the water, and so the traveller jogged along in the middle of
-the road, lonesome and dreary enough. If any bagman of that day could
+the weather was so bad, and the [[Night|night]] so cold and wet, that nothing was
+out but the [[Water|water]], and so the traveller jogged along in the middle of
+the [[Road|road]], lonesome and dreary enough. If any bagman of that day could
 have caught sight of the little neck-or-nothing sort of gig, with a
-clay-coloured body and red wheels, and the vixenish, ill tempered, fast-
-going bay mare, that looked like a cross between a butcher’s horse and a
+clay-coloured [[Body|body]] and red wheels, and the vixenish, ill tempered, fast-
+going bay mare, that looked like a [[Cross|cross]] between a butcher’s [[Horse|horse]] and a
 twopenny post-office pony, he would have known at once, that this
-traveller could have been no other than Tom Smart, of the great house of
-Bilson and Slum, Cateaton Street, City. However, as there was no bagman
+traveller could have been no other than Tom Smart, of the [[Great House|great house]] of
+Bilson and Slum, Cateaton Street, [[City]]. However, as there was no bagman
 to look on, nobody knew anything at all about the matter; and so Tom
 Smart and his clay-coloured gig with the red wheels, and the vixenish
 mare with the fast pace, went on together, keeping the secret among
@@ -191,43 +191,43 @@ them, and nobody was a bit the wiser.
 
 ‘There are many pleasanter places even in this dreary world, than
 Marlborough Downs when it blows hard; and if you throw in beside, a
-gloomy winter’s evening, a miry and sloppy road, and a pelting fall of
+gloomy [[Winter|winter]]’s evening, a miry and sloppy [[Road|road]], and a pelting fall of
 heavy rain, and try the effect, by way of experiment, in your own proper
 person, you will experience the full force of this observation.
 
-‘The wind blew--not up the road or down it, though that’s bad enough,
+‘The [[Wind|wind]] blew--not up the [[Road|road]] or down it, though that’s bad enough,
 but sheer across it, sending the rain slanting down like the lines they
-used to rule in the copy-books at school, to make the boys slope well.
+used to rule in the copy-books at school, to make the boys slope [[Well|well]].
 For a moment it would die away, and the traveller would begin to delude
 himself into the belief that, exhausted with its previous fury, it had
 quietly laid itself down to rest, when, whoo! he could hear it growling
 and whistling in the distance, and on it would come rushing over the
-hill-tops, and sweeping along the plain, gathering sound and strength as
-it drew nearer, until it dashed with a heavy gust against horse and man,
+[[Hill|hill]]-tops, and sweeping along the plain, gathering sound and strength as
+it drew nearer, until it dashed with a heavy gust against [[Horse|horse]] and man,
 driving the sharp rain into their ears, and its cold damp breath into
 their very bones; and past them it would scour, far, far away, with a
 stunning roar, as if in ridicule of their weakness, and triumphant in
 the consciousness of its own strength and power.
 
-‘The bay mare splashed away, through the mud and water, with drooping
+‘The bay mare splashed away, through the mud and [[Water|water]], with drooping
 ears; now and then tossing her head as if to express her disgust at this
 very ungentlemanly behaviour of the elements, but keeping a good pace
-notwithstanding, until a gust of wind, more furious than any that had
+notwithstanding, until a gust of [[Wind|wind]], more furious than any that had
 yet assailed them, caused her to stop suddenly and plant her four feet
 firmly against the ground, to prevent her being blown over. It’s a
-special mercy that she did this, for if she _had _been blown over, the
+special [[Mercy|mercy]] that she did this, for if she _had _been blown over, the
 vixenish mare was so light, and the gig was so light, and Tom Smart such
 a light weight into the bargain, that they must infallibly have all gone
-rolling over and over together, until they reached the confines of
-earth, or until the wind fell; and in either case the probability is,
+[[rolling]] over and over together, until they reached the confines of
+earth, or until the [[Wind|wind]] fell; and in either case the probability is,
 that neither the vixenish mare, nor the clay-coloured gig with the red
 wheels, nor Tom Smart, would ever have been fit for service again.
 
-‘“Well, damn my straps and whiskers,” says Tom Smart (Tom sometimes had
+‘“[[Well]], damn my straps and whiskers,” says Tom Smart (Tom sometimes had
 an unpleasant knack of swearing)--“damn my straps and whiskers,” says
 Tom, “if this ain’t pleasant, blow me!”
 
-‘You’ll very likely ask me why, as Tom Smart had been pretty well blown
+‘You’ll very likely ask me why, as Tom Smart had been pretty [[Well|well]] blown
 already, he expressed this wish to be submitted to the same process
 again. I can’t say--all I know is, that Tom Smart said so--or at least
 he always told my uncle he said so, and it’s just the same thing.
@@ -236,40 +236,40 @@ he always told my uncle he said so, and it’s just the same thing.
 precisely of the same opinion.
 
 “‘Cheer up, old girl,” said Tom, patting the bay mare on the neck with
-the end of his whip. “It won’t do pushing on, such a night as this; the
-first house we come to we’ll put up at, so the faster you go the sooner
+the end of his whip. “It won’t do pushing on, such a [[Night|night]] as this; the
+first [[house]] we come to we’ll put up at, so the faster you go the sooner
 it’s over. Soho, old girl--gently--gently.”
 
-‘Whether the vixenish mare was sufficiently well acquainted with the
+‘Whether the vixenish mare was sufficiently [[Well|well]] acquainted with the
 tones of Tom’s voice to comprehend his meaning, or whether she found it
 colder standing still than moving on, of course I can’t say. But I can
 say that Tom had no sooner finished speaking, than she pricked up her
-ears, and started forward at a speed which made the clay-coloured gig
+ears, and started forward at a [[Speed|speed]] which made the clay-coloured gig
 rattle until you would have supposed every one of the red spokes were
 going to fly out on the turf of Marlborough Downs; and even Tom, whip as
 he was, couldn’t stop or check her pace, until she drew up of her own
 accord, before a roadside inn on the right-hand side of the way, about
 half a quarter of a mile from the end of the Downs.
 
-‘Tom cast a hasty glance at the upper part of the house as he threw the
+‘Tom cast a hasty glance at the upper part of the [[house]] as he threw the
 reins to the hostler, and stuck the whip in the box. It was a strange
-old place, built of a kind of shingle, inlaid, as it were, with cross-
+old place, built of a kind of shingle, inlaid, as it were, with [[Cross|cross]]-
 beams, with gabled-topped windows projecting completely over the
 pathway, and a low door with a dark porch, and a couple of steep steps
-leading down into the house, instead of the modern fashion of half a
+leading down into the [[house]], instead of the modern fashion of half a
 dozen shallow ones leading up to it. It was a comfortable-looking place
-though, for there was a strong, cheerful light in the bar window, which
-shed a bright ray across the road, and even lighted up the hedge on the
-other side; and there was a red flickering light in the opposite window,
+though, for there was a strong, cheerful light in the bar [[Window|window]], which
+shed a bright ray across the [[Road|road]], and even lighted up the hedge on the
+other side; and there was a red flickering light in the opposite [[Window|window]],
 one moment but faintly discernible, and the next gleaming strongly
-through the drawn curtains, which intimated that a rousing fire was
+through the drawn curtains, which intimated that a rousing [[Fire|fire]] was
 blazing within. Marking these little evidences with the eye of an
 experienced traveller, Tom dismounted with as much agility as his half-
-frozen limbs would permit, and entered the house.
+frozen limbs would permit, and entered the [[house]].
 
-‘In less than five minutes’ time, Tom was ensconced in the room opposite
-the bar--the very room where he had imagined the fire blazing--before a
-substantial, matter-of-fact, roaring fire, composed of something short
+‘In less than five minutes’ [[Time|time]], Tom was ensconced in the room opposite
+the bar--the very room where he had imagined the [[Fire|fire]] blazing--before a
+substantial, matter-of-fact, roaring [[Fire|fire]], composed of something short
 of a bushel of coals, and wood enough to make half a dozen decent
 gooseberry bushes, piled half-way up the chimney, and roaring and
 crackling with a sound that of itself would have warmed the heart of any
@@ -280,14 +280,14 @@ feet on the fender, and his back to the open door, he saw a charming
 prospect of the bar reflected in the glass over the chimney-piece, with
 delightful rows of green bottles and gold labels, together with jars of
 pickles and preserves, and cheeses and boiled hams, and rounds of beef,
-arranged on shelves in the most tempting and delicious array. Well, this
+arranged on shelves in the most tempting and delicious array. [[Well]], this
 was comfortable too; but even this was not all--for in the bar, seated
 at tea at the nicest possible little table, drawn close up before the
-brightest possible little fire, was a buxom widow of somewhere about
+brightest possible little [[Fire|fire]], was a buxom widow of somewhere about
 eight-and-forty or thereabouts, with a face as comfortable as the bar,
-who was evidently the landlady of the house, and the supreme ruler over
+who was evidently the landlady of the [[house]], and the supreme ruler over
 all these agreeable possessions. There was only one drawback to the
-beauty of the whole picture, and that was a tall man--a very tall man--
+[[Beauty|beauty]] of the whole picture, and that was a tall man--a very tall man--
 in a brown coat and bright basket buttons, and black whiskers and wavy
 black hair, who was seated at tea with the widow, and who it required no
 great penetration to discover was in a fair way of persuading her to be
@@ -303,8 +303,8 @@ and then observe, from his seat before the glass, certain little
 affectionate familiarities passing between the tall man and the widow,
 which sufficiently denoted that the tall man was as high in favour as he
 was in size. Tom was fond of hot punch--I may venture to say he was
-_very_ fond of hot punch--and after he had seen the vixenish mare well
-fed and well littered down, and had eaten every bit of the nice little
+_very_ fond of hot punch--and after he had seen the vixenish mare [[Well|well]]
+fed and [[Well|well]] littered down, and had eaten every bit of the nice little
 hot dinner which the widow tossed up for him with her own hands, he just
 ordered a tumbler of it by way of experiment. Now, if there was one
 thing in the whole range of domestic art, which the widow could
@@ -313,29 +313,29 @@ first tumbler was adapted to Tom Smart’s taste with such peculiar
 nicety, that he ordered a second with the least possible delay. Hot
 punch is a pleasant thing, gentlemen--an extremely pleasant thing under
 any circumstances--but in that snug old parlour, before the roaring
-fire, with the wind blowing outside till every timber in the old house
+[[Fire|fire]], with the [[Wind|wind]] blowing outside till every timber in the old [[house]]
 creaked again, Tom Smart found it perfectly delightful. He ordered
 another tumbler, and then another--I am not quite certain whether he
 didn’t order another after that--but the more he drank of the hot punch,
 the more he thought of the tall man.
 
 ‘“Confound his impudence!” said Tom to himself, “what business has he in
-that snug bar? Such an ugly villain too!” said Tom. “If the widow had
+that snug bar? Such an ugly [[Villain|villain]] too!” said Tom. “If the widow had
 any taste, she might surely pick up some better fellow than that.” Here
 Tom’s eye wandered from the glass on the chimney-piece to the glass on
 the table; and as he felt himself becoming gradually sentimental, he
 emptied the fourth tumbler of punch and ordered a fifth.
 
 ‘Tom Smart, gentlemen, had always been very much attached to the public
-line. It had been long his ambition to stand in a bar of his own, in a
+line. It had been long his [[Ambition|ambition]] to stand in a bar of his own, in a
 green coat, knee-cords, and tops. He had a great notion of taking the
-chair at convivial dinners, and he had often thought how well he could
+chair at convivial dinners, and he had often thought how [[Well|well]] he could
 preside in a room of his own in the talking way, and what a capital
 example he could set to his customers in the drinking department. All
 these things passed rapidly through Tom’s mind as he sat drinking the
-hot punch by the roaring fire, and he felt very justly and properly
+hot punch by the roaring [[Fire|fire]], and he felt very justly and properly
 indignant that the tall man should be in a fair way of keeping such an
-excellent house, while he, Tom Smart, was as far off from it as ever.
+excellent [[house]], while he, Tom Smart, was as far off from it as ever.
 So, after deliberating over the two last tumblers, whether he hadn’t a
 perfect right to pick a quarrel with the tall man for having contrived
 to get into the good graces of the buxom widow, Tom Smart at last
@@ -347,29 +347,29 @@ the chamber candle with her hand, to protect it from the currents of air
 which in such a rambling old place might have found plenty of room to
 disport themselves in, without blowing the candle out, but which did
 blow it out nevertheless--thus affording Tom’s enemies an opportunity of
-asserting that it was he, and not the wind, who extinguished the candle,
+asserting that it was he, and not the [[Wind|wind]], who extinguished the candle,
 and that while he pretended to be blowing it alight again, he was in
 fact kissing the girl. Be this as it may, another light was obtained,
 and Tom was conducted through a maze of rooms, and a labyrinth of
 passages, to the apartment which had been prepared for his reception,
-where the girl bade him good-night and left him alone.
+where the girl bade him good-[[Night|night]] and left him [[Alone|alone]].
 
 ‘It was a good large room with big closets, and a bed which might have
 served for a whole boarding-school, to say nothing of a couple of oaken
 presses that would have held the baggage of a small army; but what
 struck Tom’s fancy most was a strange, grim-looking, high backed chair,
 carved in the most fantastic manner, with a flowered damask cushion, and
-the round knobs at the bottom of the legs carefully tied up in red
+the round knobs at the [[Bottom|bottom]] of the legs carefully tied up in red
 cloth, as if it had got the gout in its toes. Of any other queer chair,
 Tom would only have thought it was a queer chair, and there would have
 been an end of the matter; but there was something about this particular
 chair, and yet he couldn’t tell what it was, so odd and so unlike any
 other piece of furniture he had ever seen, that it seemed to fascinate
-him. He sat down before the fire, and stared at the old chair for half
+him. He sat down before the [[Fire|fire]], and stared at the old chair for half
 an hour.--Damn the chair, it was such a strange old thing, he couldn’t
 take his eyes off it.
 
-‘“Well,” said Tom, slowly undressing himself, and staring at the old
+‘“[[Well]],” said Tom, slowly undressing himself, and staring at the old
 chair all the while, which stood with a mysterious aspect by the
 bedside, “I never saw such a rum concern as that in my days. Very odd,”
  said Tom, who had got rather sage with the hot punch--“very odd.” Tom
@@ -379,17 +379,17 @@ covered himself up warm, and fell asleep.
 
 ‘In about half an hour, Tom woke up with a start, from a confused dream
 of tall men and tumblers of punch; and the first object that presented
-itself to his waking imagination was the queer chair.
+itself to his waking [[Imagination|imagination]] was the queer chair.
 
 ‘“I won’t look at it any more,” said Tom to himself, and he squeezed his
-eyelids together, and tried to persuade himself he was going to sleep
+eyelids together, and tried to persuade himself he was going to [[Sleep|sleep]]
 again. No use; nothing but queer chairs danced before his eyes, kicking
 up their legs, jumping over each other’s backs, and playing all kinds of
 antics.
 
-“‘I may as well see one real chair, as two or three complete sets of
+“‘I may as [[Well|well]] see one real chair, as two or three complete sets of
 false ones,” said Tom, bringing out his head from under the bedclothes.
-There it was, plainly discernible by the light of the fire, looking as
+There it was, plainly discernible by the light of the [[Fire|fire]], looking as
 provoking as ever.
 
 ‘Tom gazed at the chair; and, suddenly as he looked at it, a most
@@ -416,7 +416,7 @@ whichever you like to call him. He stopped winking though, when Tom
 spoke, and began grinning like a superannuated monkey.
 
 ‘“How do you know my name, old nut-cracker face?” inquired Tom Smart,
-rather staggered; though he pretended to carry it off so well.
+rather staggered; though he pretended to carry it off so [[Well|well]].
 
 ‘“Come, come, Tom,” said the old gentleman, “that’s not the way to
 address solid Spanish mahogany. Damme, you couldn’t treat me with less
@@ -426,7 +426,7 @@ so fierce that Tom began to grow frightened.
 ‘“I didn’t mean to treat you with any disrespect, Sir,” said Tom, in a
 much humbler tone than he had spoken in at first.
 
-‘“Well, well,” said the old fellow, “perhaps not--perhaps not. Tom--”
+‘“[[Well]], [[Well|well]],” said the old fellow, “perhaps not--perhaps not. Tom--”
 
 ‘“Sir--”
 
@@ -445,7 +445,7 @@ old gentleman he looked so knowing that Tom blushed, and was silent.
 fine woman--eh, Tom?” Here the old fellow screwed up his eyes, cocked up
 one of his wasted little legs, and looked altogether so unpleasantly
 amorous, that Tom was quite disgusted with the levity of his behaviour--
-at his time of life, too!
+at his [[Time|time]] of life, too!
 
 ‘“I am her guardian, Tom,” said the old gentleman.
 
@@ -463,7 +463,7 @@ unpleasantness in the family.” When the old rascal said this, he looked
 so extremely impertinent, that, as Tom Smart afterwards declared, he
 could have sat upon him without remorse.
 
-‘“I have been a great favourite among the women in my time, Tom,” said
+‘“I have been a great favourite among the women in my [[Time|time]], Tom,” said
 the profligate old debauchee; “hundreds of fine women have sat in my lap
 for hours together. What do you think of that, you dog, eh!” The old
 gentleman was proceeding to recount some other exploits of his youth,
@@ -487,13 +487,13 @@ you to marry the widow.”
 
 ‘“You,” said the old gentleman.
 
-‘“Bless your reverend locks,” said Tom (he had a few scattered horse-
+‘“Bless your reverend locks,” said Tom (he had a few scattered [[Horse|horse]]-
 hairs left)--“bless your reverend locks, she wouldn’t have me.” And Tom
 sighed involuntarily, as he thought of the bar.
 
 ‘“Wouldn’t she?” said the old gentleman firmly.
 
-‘“No, no,” said Tom; “there’s somebody else in the wind. A tall man--a
+‘“No, no,” said Tom; “there’s somebody else in the [[Wind|wind]]. A tall man--a
 confoundedly tall man--with black whiskers.”
 
 ‘“Tom,” said the old gentleman; “she will never have him.”
@@ -512,7 +512,7 @@ fellow, who ought to know better, talking about these things, is very
 unpleasant--nothing more so.
 
 ‘“I know all about that, Tom,” said the old gentleman. “I have seen it
-done very often in my time, Tom, between more people than I should like
+done very often in my [[Time|time]], Tom, between more people than I should like
 to mention to you; but it never came to anything after all.”
 
 ‘“You must have seen some queer things,” said Tom, with an inquisitive
@@ -520,7 +520,7 @@ look.
 
 ‘“You may say that, Tom,” replied the old fellow, with a very
 complicated wink. “I am the last of my family, Tom,” said the old
-gentleman, with a melancholy sigh.
+gentleman, with a [[Melancholy|melancholy]] sigh.
 
 ‘“Was it a large one?” inquired Tom Smart.
 
@@ -547,14 +547,14 @@ feelings of emotion, and then said--
 ‘“However, Tom, I am wandering from the point. This tall man, Tom, is a
 rascally adventurer. The moment he married the widow, he would sell off
 all the furniture, and run away. What would be the consequence? She
-would be deserted and reduced to ruin, and I should catch my death of
+would be deserted and reduced to ruin, and I should catch my [[Death|death]] of
 cold in some broker’s shop.”
 
 ‘“Yes, but--”
 
 ‘“Don’t interrupt me,” said the old gentleman. “Of you, Tom, I entertain
-a very different opinion; for I well know that if you once settled
-yourself in a public-house, you would never leave it, as long as there
+a very different opinion; for I [[Well|well]] know that if you once settled
+yourself in a public-[[house]], you would never leave it, as long as there
 was anything to drink within its walls.”
 
 ‘“I am very much obliged to you for your good opinion, Sir,” said Tom
@@ -587,9 +587,9 @@ Smart fell back on his pillow, and dropped asleep.
 ‘Morning aroused Tom from the lethargic slumber, into which he had
 fallen on the disappearance of the old man. He sat up in bed, and for
 some minutes vainly endeavoured to recall the events of the preceding
-night. Suddenly they rushed upon him. He looked at the chair; it was a
+[[Night|night]]. Suddenly they rushed upon him. He looked at the chair; it was a
 fantastic and grim-looking piece of furniture, certainly, but it must
-have been a remarkably ingenious and lively imagination, that could have
+have been a remarkably ingenious and lively [[Imagination|imagination]], that could have
 discovered any resemblance between it and an old man.
 
 ‘“How are you, old boy?” said Tom. He was bolder in the daylight--most
@@ -612,7 +612,7 @@ identical letter the old gentleman had described!
 ‘“Queer sort of thing, this,” said Tom Smart, looking first at the chair
 and then at the press, and then at the letter, and then at the chair
 again. “Very queer,” said Tom. But, as there was nothing in either, to
-lessen the queerness, he thought he might as well dress himself, and
+lessen the queerness, he thought he might as [[Well|well]] dress himself, and
 settle the tall man’s business at once--just to put him out of his
 misery.
 
@@ -620,7 +620,7 @@ misery.
 the scrutinising eye of a landlord; thinking it not impossible, that
 before long, they and their contents would be his property. The tall man
 was standing in the snug little bar, with his hands behind him, quite at
-home. He grinned vacantly at Tom. A casual observer might have supposed
+[[Home|home]]. He grinned vacantly at Tom. A casual observer might have supposed
 he did it, only to show his white teeth; but Tom Smart thought that a
 consciousness of triumph was passing through the place where the tall
 man’s mind would have been, if he had had any. Tom laughed in his face;
@@ -667,9 +667,9 @@ of the widow’s hand, and remained there while he spoke.
 committing the amiable--“my dear ma’am, you deserve a very excellent
 husband--you do indeed.”
 
-‘“Lor, Sir!” said the widow--as well she might; Tom’s mode of commencing
+‘“Lor, Sir!” said the widow--as [[Well|well]] she might; Tom’s mode of commencing
 the conversation being rather unusual, not to say startling; the fact of
-his never having set eyes upon her before the previous night being taken
+his never having set eyes upon her before the previous [[Night|night]] being taken
 into consideration. “Lor, Sir!”
 
 ‘“I scorn to flatter, my dear ma’am,” said Tom Smart. “You deserve a
@@ -687,8 +687,8 @@ Widows, gentlemen, are not usually timorous, as my uncle used to say.
 ’”_If_,” said Tom Smart, looking very shrewdly out of the right-hand
 corner of his left eye. “_If_--”
 
-“Well,” said the widow, laughing outright this time, “_when _I do, I
-hope I shall have as good a husband as you describe.”
+“[[Well]],” said the widow, laughing outright this [[Time|time]], “_when _I do, I
+[[Hope|hope]] I shall have as good a husband as you describe.”
 
 ‘“Jinkins, to wit,” said Tom.
 
@@ -701,7 +701,7 @@ widow, bridling up at the mysterious air with which Tom had spoken.
 
 ‘“Hem!” said Tom Smart.
 
-‘The widow began to think it was high time to cry, so she took out her
+‘The widow began to think it was high [[Time|time]] to cry, so she took out her
 handkerchief, and inquired whether Tom wished to insult her, whether he
 thought it like a gentleman to take away the character of another
 gentleman behind his back, why, if he had got anything to say, he didn’t
@@ -734,7 +734,7 @@ and unfolded it. “You won’t scream?” said Tom doubtfully.
 ‘“And don’t run out, and blow him up,” said Tom; “because I’ll do all
 that for you. You had better not exert yourself.”
 
-‘“Well, well,” said the widow, “let me see it.”
+‘“[[Well]], [[Well|well]],” said the widow, “let me see it.”
 
 ‘“I will,” replied Tom Smart; and, with these words, he placed the
 letter in the widow’s hand.
@@ -744,18 +744,18 @@ lamentations when she heard the disclosure would have pierced a heart of
 stone. Tom was certainly very tender-hearted, but they pierced his, to
 the very core. The widow rocked herself to and fro, and wrung her hands.
 
-‘“Oh, the deception and villainy of the man!” said the widow.
+‘“Oh, the [[Deception|deception]] and villainy of the man!” said the widow.
 
 ‘“Frightful, my dear ma’am; but compose yourself,” said Tom Smart.
 
 ‘“Oh, I can’t compose myself,” shrieked the widow. “I shall never find
-anyone else I can love so much!”
+anyone else I can [[Love|love]] so much!”
 
-‘“Oh, yes you will, my dear soul,” said Tom Smart, letting fall a shower
-of the largest-sized tears, in pity for the widow’s misfortunes. Tom
+‘“Oh, yes you will, my dear [[Soul|soul]],” said Tom Smart, letting fall a shower
+of the largest-sized [[Tears|tears]], in pity for the widow’s misfortunes. Tom
 Smart, in the energy of his compassion, had put his arm round the
 widow’s waist; and the widow, in a passion of grief, had clasped Tom’s
-hand. She looked up in Tom’s face, and smiled through her tears. Tom
+hand. She looked up in Tom’s face, and smiled through her [[Tears|tears]]. Tom
 looked down in hers, and smiled through his.
 
 ‘I never could find out, gentlemen, whether Tom did or did not kiss the
@@ -768,7 +768,7 @@ an hour later, and married the widow a month after. And he used to drive
 about the country, with the clay-coloured gig with the red wheels, and
 the vixenish mare with the fast pace, till he gave up business many
 years afterwards, and went to France with his wife; and then the old
-house was pulled down.’
+[[house]] was pulled down.’
 
 ‘Will you allow me to ask you,’ said the inquisitive old gentleman,
 ‘what became of the chair?’

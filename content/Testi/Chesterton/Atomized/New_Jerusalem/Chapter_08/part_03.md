@@ -15,7 +15,7 @@ tags:
 
 
 The feeling that fills the traveller may be faintly suggested thus;
-that here, in this legendary land between Asia and Europe, may well
+that here, in this legendary land between Asia and Europe, may [[Well|well]]
 have happened whatever did happen; that through this Eastern gate,
 if any, entered whatever made and changed the world.  Whatever else
 this narrow strip of land may seem like, it does really seem,
@@ -25,37 +25,37 @@ Here have been civilisations as old as any barbarism; to all
 appearance perhaps older than any barbarism.  Here is the camel;
 the enormous unnatural friend of man; the prehistoric pet.
 He is never known to have been wild, and might make a man fancy
-that all wild animals had once been tame.  As I said elsewhere,
+that all wild [[Animals|animals]] had once been tame.  As I said elsewhere,
 all might be a runaway menagerie; the whale a cow that went swimming
 and never came back, the tiger a large cat that took the prize
 (and the prize-giver) and escaped to the jungle.  This is not
 (I venture to think) true; but it is true as Pithecanthropus and
 Primitive Man and all the other random guesses from dubious bits
-of bone and stone.  And the truth is some third thing, too tremendous
+of bone and stone.  And the [[Truth|truth]] is some third thing, too tremendous
 to be remembered by men.  Whatever it was, perhaps the camel saw it;
 but from the expression on the face of that old family servant,
 I feel sure that he will never tell.
 
-I have called this the other side of the desert; and in another
+I have called this the other side of the [[Desert|desert]]; and in another
 sense it is literally the other side.  It is the other shore
 of that shifting and arid sea.  Looking at it from the West
-and considering mainly the case of the Moslem, we feel the desert
+and considering mainly the case of the Moslem, we feel the [[Desert|desert]]
 is but a barren border-land of Christendom; but seen from
 the other side it is the barrier between us and a heathendom far
 more mysterious and even monstrous than anything Moslem can be.
 Indeed it is necessary to realise this more vividly in order to feel
-the virtue of the Moslem movement.  It belonged to the desert,
+the virtue of the Moslem movement.  It belonged to the [[Desert|desert]],
 but in one sense it was rather a clearance in the cloud that rests
-upon the desert; a rift of pale but clean light in volumes
+upon the [[Desert|desert]]; a rift of pale but clean light in volumes
 of vapour rolled on it like smoke from the strange lands beyond.
 It conceived a fixed hatred of idolatry, partly because its face was
 turned towards the multitudinous idolatries of the lands of sunrise;
 and as I looked Eastward I seemed to be conscious of the beginnings
-of that other world; and saw, like a forest of arms or a dream full
+of that other world; and saw, like a forest of arms or [[A Dream|a dream]] full
 of faces, the gods of Asia on their thousand thrones.
 
-It is not a mere romance that calls it a land of magic,
-or even of black magic.  Those who carry that atmosphere to us
+It is not a mere [[Romance|romance]] that calls it a land of [[Magic|magic]],
+or even of black [[Magic|magic]].  Those who carry that atmosphere to us
 are not the romanticists but the realists.  Every one can feel
 it in the work of Mr. Rudyard Kipling; and when I once remarked
 on his repulsive little masterpiece called "The Mark of the Beast,"
@@ -63,20 +63,20 @@ to a rather cynical Anglo-Indian officer, he observed moodily, "It's a
 beastly story.  But those devils really can do jolly queer things."
 It is but to take a commonplace example out of countless more
 notable ones to mention the many witnesses to the mango trick.
-Here again we have from time to time to weep over the weak-mindedness
+Here again we have from [[Time|time]] to [[Time|time]] to weep over the weak-mindedness
 that hurriedly dismisses it as the practice of hypnotism.
 It is as if people were asked to explain how one unarmed Indian
 had killed three hundred men, and they said it was only the practice
 of human sacrifice.  Nothing that we know as hypnotism will enable a man
 to alter the eyes in the heads of a huge crowd of total strangers;
 wide awake in broad daylight; and if it is hypnotism, it is
-something so appallingly magnified as to need a new magic to explain
+something so appallingly magnified as to need a new [[Magic|magic]] to explain
 the explanation; certainly something that explains it better
-than a Greek word for sleep.  But the impression of these special
+than a Greek word for [[Sleep|sleep]].  But the impression of these special
 instances is but one example of a more universal impression of
 the Asiatic atmosphere; and that atmosphere itself is only an example
 of something vaster still for which I am trying to find words.
-Asia stands for something which the world in the West as well
+Asia stands for something which the world in the West as [[Well|well]]
 as the East is more and more feeling as a presence, and even
 a pressure.  It might be called the spiritual world let loose;
 or a sort of psychical anarchy; a jungle of mango plants.
@@ -97,8 +97,8 @@ They might be better described as reverent materialists;
 or at any rate monists.  They had at least at the back
 of their minds a clear and consistent concept of their rather
 clockwork cosmos; that is why they could not admit the smallest
-speck of the supernatural into their clockwork.  But to-day it is
-very hard for a scientific man to say where the supernatural ends
+speck of the [[Supernatural|supernatural]] into their clockwork.  But to-day it is
+very hard for a scientific man to say where the [[Supernatural|supernatural]] ends
 or the natural begins, or what name should be given to either.
 The word agnostic has ceased to be a polite word for atheist.
 It has become a real word for a very real state of mind,
@@ -106,27 +106,27 @@ conscious of many possibilities beyond that of the atheist,
 and not excluding that of the polytheist.  It is no longer a question
 of defining or denying a simple central power, but of balancing
 the brain in a bewilderment of new powers which seem to overlap
-and might even conflict.  Nature herself has become unnatural.
-The wind is blowing from the other side of the desert, not now with
+and might even conflict.  [[Nature]] herself has become unnatural.
+The [[Wind|wind]] is blowing from the other side of the [[Desert|desert]], not now with
 noble truism "There is no God but God," but rather with that other
 motto out of the deeper anarchy of Asia, drawn out by Mr. Kipling,
 in the shape of a native proverb, in the very story already mentioned;
 "Your gods and my gods, do you or I know which is the stronger?"
 There was a mystical story I read somewhere in my boyhood,
-of which the only image that remains is that of a rose-bush growing
+of which the only image that remains is that of a [[Rose|rose]]-bush growing
 mysteriously in the middle of a room.  Taking this image for the sake
 of argument, we can easily fancy a man half-conscious and convinced
-that he is delirious, or still partly in a dream, because he sees
-such a magic bush growing irrationally in the middle of his bedroom.
+that he is delirious, or still partly in [[A Dream|a dream]], because he sees
+such a [[Magic|magic]] bush growing irrationally in the middle of his bedroom.
 All the walls and furniture are familiar and solid, the table,
-the clock, the telephone, the looking glass or what not; there is
+the [[Clock|clock]], the telephone, the looking glass or what not; there is
 nothing unnatural but this one hovering hallucination or optical
 delusion of green and red.  Now that was very much the view taken
-of the Rose of Sharon, the mystical rose of the sacred tradition
+of the [[Rose]] of Sharon, the mystical [[Rose|rose]] of the sacred tradition
 of Palestine, by any educated man about 1850, when the rationalism
 of the eighteenth century was supposed to have found full
 support in the science of the nineteenth.  He had a sentiment
-about a rose:  he was still glad it had fragrance or atmosphere;
+about a [[Rose|rose]]:  he was still glad it had fragrance or atmosphere;
 though he remembered with a slight discomfort that it had thorns.
 But what bothered him about it was that it was impossible.
 And what made him think it impossible was it was inconsistent
@@ -139,11 +139,11 @@ and senseless contradiction to an otherwise complete cosmos.
 For the furniture fitted in bit by bit and better and better;
 and the bedroom seemed to grow more and more solid.
 The man recognised the portrait of himself over the mantelpiece or
-the medicine bottles on the table, like the dying lover in Browning.
+the medicine bottles on the table, like the dying [[Lover|lover]] in Browning.
 In other words, science so far had steadily solidified things;
 Newton had measured the walls and ceiling and made a calculus
 of their three dimensions.  Darwin was already arranging
-the animals in rank as neatly as a row of chairs, or Faraday
+the [[Animals|animals]] in rank as neatly as a row of chairs, or Faraday
 the chemical elements as clearly as a row of medicine bottles.
 From the middle of the eighteenth century to the middle of the nineteenth,
 science was not only making discoveries, but all the discoveries

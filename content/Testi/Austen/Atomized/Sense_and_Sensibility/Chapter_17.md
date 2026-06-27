@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 17"
+title: "[[Sense and Sensibility]] — Chapter 17"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,15 +24,15 @@ Mrs. Dashwood was surprised only for a moment at seeing him; for his
 
 coming to Barton was, in her opinion, of all things the most natural.
 
-Her joy and expression of regard long outlived her wonder. He received
+Her joy and expression of regard long outlived her [[Wonder|wonder]]. He received
 
 the kindest welcome from her; and shyness, coldness, reserve could not
 
 stand against such a reception. They had begun to fail him before he
 
-entered the house, and they were quite overcome by the captivating
+entered the [[house]], and they were quite overcome by the captivating
 
-manners of Mrs. Dashwood. Indeed a man could not very well be in love
+manners of Mrs. Dashwood. Indeed a man could not very [[Well|well]] be in [[Love|love]]
 
 with either of her daughters, without extending the passion to her; and
 
@@ -42,7 +42,7 @@ himself. His affections seemed to reanimate towards them all, and his
 
 interest in their welfare again became perceptible. He was not in
 
-spirits, however; he praised their house, admired its prospect, was
+spirits, however; he praised their [[house]], admired its prospect, was
 
 attentive, and kind; but still he was not in spirits. The whole family
 
@@ -56,13 +56,13 @@ selfish parents.
 
 “What are Mrs. Ferrars’s views for you at present, Edward?” said she,
 
-when dinner was over and they had drawn round the fire; “are you still
+when dinner was over and they had drawn round the [[Fire|fire]]; “are you still
 
 to be a great orator in spite of yourself?”
 
 
 
-“No. I hope my mother is now convinced that I have no more talents than
+“No. I [[Hope|hope]] my mother is now convinced that I have no more talents than
 
 inclination for a public life!”
 
@@ -80,21 +80,21 @@ it a difficult matter.”
 
 “I shall not attempt it. I have no wish to be distinguished; and have
 
-every reason to hope I never shall. Thank Heaven! I cannot be forced
+every reason to [[Hope|hope]] I never shall. Thank Heaven! I cannot be forced
 
 into genius and eloquence.”
 
 
 
-“You have no ambition, I well know. Your wishes are all moderate.”
+“You have no [[Ambition|ambition]], I [[Well|well]] know. Your wishes are all moderate.”
 
 
 
 “As moderate as those of the rest of the world, I believe. I wish as
 
-well as every body else to be perfectly happy; but, like every body
+[[Well|well]] as every [[Body|body]] else to be perfectly happy; but, like every [[Body|body]]
 
-else it must be in my own way. Greatness will not make me so.”
+else it must be in my own way. [[Greatness]] will not make me so.”
 
 
 
@@ -114,7 +114,7 @@ it.”
 
 where there is nothing else to give it. Beyond a competence, it can
 
-afford no real satisfaction, as far as mere self is concerned.”
+afford no real satisfaction, as far as mere [[Self|self]] is concerned.”
 
 
 
@@ -142,7 +142,7 @@ how it would end.”
 
 “And yet two thousand a-year is a very moderate income,” said Marianne.
 
-“A family cannot well be maintained on a smaller. I am sure I am not
+“A family cannot [[Well|well]] be maintained on a smaller. I am sure I am not
 
 extravagant in my demands. A proper establishment of servants, a
 
@@ -156,7 +156,7 @@ future expenses at Combe Magna.
 
 
 
-“Hunters!” repeated Edward—“but why must you have hunters? Every body
+“Hunters!” repeated Edward—“but why must you have hunters? Every [[Body|body]]
 
 does not hunt.”
 
@@ -166,7 +166,7 @@ Marianne coloured as she replied, “But most people do.”
 
 
 
-“I wish,” said Margaret, striking out a novel thought, “that somebody
+“I wish,” said Margaret, striking out a [[Novel|novel]] thought, “that somebody
 
 would give us all a large fortune apiece!”
 
@@ -186,13 +186,13 @@ of the insufficiency of wealth.”
 
 
 
-“Oh dear!” cried Margaret, “how happy I should be! I wonder what I
+“Oh dear!” cried Margaret, “how happy I should be! I [[Wonder|wonder]] what I
 
 should do with it!”
 
 
 
-Marianne looked as if she had no doubt on that point.
+Marianne looked as if she had no [[Doubt|doubt]] on that point.
 
 
 
@@ -202,13 +202,13 @@ Dashwood, “if my children were all to be rich without my help.”
 
 
 
-“You must begin your improvements on this house,” observed Elinor, “and
+“You must begin your improvements on this [[house]],” observed Elinor, “and
 
 your difficulties will soon vanish.”
 
 
 
-“What magnificent orders would travel from this family to London,” said
+“What magnificent orders would travel from this family to [[London]],” said
 
 Edward, “in such an event! What a happy day for booksellers,
 
@@ -216,9 +216,9 @@ music-sellers, and print-shops! You, Miss Dashwood, would give a
 
 general commission for every new print of merit to be sent you—and as
 
-for Marianne, I know her greatness of soul, there would not be music
+for Marianne, I know her [[Greatness|greatness]] of [[Soul|soul]], there would not be music
 
-enough in London to content her. And books!—Thomson, Cowper, Scott—she
+enough in [[London]] to content her. And books!—Thomson, Cowper, Scott—she
 
 would buy them all over and over again: she would buy up every copy, I
 
@@ -232,9 +232,9 @@ willing to show you that I had not forgot our old disputes.”
 
 
 
-“I love to be reminded of the past, Edward—whether it be melancholy or
+“I [[Love|love]] to be reminded of the past, Edward—whether it be [[Melancholy|melancholy]] or
 
-gay, I love to recall it—and you will never offend me by talking of
+gay, I [[Love|love]] to recall it—and you will never offend me by talking of
 
 former times. You are very right in supposing how my money would be
 
@@ -258,13 +258,13 @@ authors or their heirs.”
 
 wrote the ablest defence of your favourite maxim, that no one can ever
 
-be in love more than once in their life—your opinion on that point is
+be in [[Love|love]] more than once in their life—your opinion on that point is
 
 unchanged, I presume?”
 
 
 
-“Undoubtedly. At my time of life opinions are tolerably fixed. It is
+“Undoubtedly. At my [[Time|time]] of life opinions are tolerably fixed. It is
 
 not likely that I should now see or hear any thing to change them.”
 
@@ -276,7 +276,7 @@ at all altered.”
 
 
 
-“She is only grown a little more grave than she was.”
+“She is only grown a little more [[Grave|grave]] than she was.”
 
 
 
@@ -312,15 +312,15 @@ down as a lively girl.”
 
 Elinor, “in a total misapprehension of character in some point or
 
-other: fancying people so much more gay or grave, or ingenious or
+other: fancying people so much more gay or [[Grave|grave]], or ingenious or
 
 stupid than they really are, and I can hardly tell why or in what the
 
-deception originated. Sometimes one is guided by what they say of
+[[Deception|deception]] originated. Sometimes one is guided by what they say of
 
 themselves, and very frequently by what other people say of them,
 
-without giving oneself time to deliberate and judge.”
+without giving oneself [[Time|time]] to deliberate and judge.”
 
 
 
@@ -366,7 +366,7 @@ offend, but I am so foolishly shy, that I often seem negligent, when I
 
 am only kept back by my natural awkwardness. I have frequently thought
 
-that I must have been intended by nature to be fond of low company, I
+that I must have been intended by [[Nature|nature]] to be fond of low company, I
 
 am so little at my ease among strangers of gentility!”
 
@@ -378,7 +378,7 @@ Elinor.
 
 
 
-“She knows her own worth too well for false shame,” replied Edward.
+“She knows her own worth too [[Well|well]] for false shame,” replied Edward.
 
 “Shyness is only the effect of a sense of inferiority in some way or
 
@@ -408,7 +408,7 @@ what manner? What am I to tell you? What can you suppose?”
 
 Elinor looked surprised at his emotion; but trying to laugh off the
 
-subject, she said to him, “Do not you know my sister well enough to
+subject, she said to him, “Do not you know my sister [[Well|well]] enough to
 
 understand what she means? Do not you know she calls every one reserved
 
@@ -420,4 +420,4 @@ as herself?”
 
 Edward made no answer. His gravity and thoughtfulness returned on him
 
-in their fullest extent—and he sat for some time silent and dull.
+in their fullest extent—and he sat for some [[Time|time]] silent and dull.

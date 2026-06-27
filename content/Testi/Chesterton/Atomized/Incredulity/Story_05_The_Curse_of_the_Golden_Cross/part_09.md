@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Curse of the Golden Cross (part 9)"
+title: "[[Incredulity]] — The Curse of the Golden [[Cross]] (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -22,13 +22,13 @@ more or less to guess the rest.  Remember, first of all,
 that there never was any responsible archaeological authority
 for anything more than investigation.  Poor old Walters was
 an honest antiquary, who was engaged in opening the tomb to find
-out if there was any truth in the legend about embalmed bodies.
+out if there was any [[Truth|truth]] in the legend about embalmed bodies.
 The rest was all rumour, of the sort that often anticipates
-or exaggerates such finds.  As a fact, he found the body
-had not been embalmed, but had fallen into dust long ago.
+or exaggerates such finds.  As a fact, he found the [[Body|body]]
+had not been embalmed, but had fallen into [[Dust|dust]] long ago.
 Only while he was working there by the light of his lonely
 candle in that sunken chapel, the candlelight threw another
-shadow that was not his own.'
+[[Shadow|shadow]] that was not his own.'
 
 `Ah!' cried Lady Diana with a catch in her breath; 'and I know
 what you mean now.  You mean to tell us we have met the murderer,
@@ -51,14 +51,14 @@ politeness of a country clergyman.'
 `He ran a considerable risk,' objected Tarrant, `of somebody
 knowing Walters by sight.'
 
-`I admit he was half--mad,' agreed Father Brown; `and I think
+`I admit he was half--mad,' agreed [[Father Brown]]; `and I think
 you will admit that the risk was worth taking, for he has
 got off, after all.'
 
 `I'll admit he was very lucky,' growled Tarrant.
 `And who the devil was he?'
 
-`As you say, he was very lucky,' answered Father Brown, `and not least
+`As you say, he was very lucky,' answered [[Father Brown]], `and not least
 in that respect.  For that is the one thing we may never know.'
 He frowned at the table for a moment and then went on:
 `This fellow has been hovering round and threatening for years,
@@ -73,11 +73,11 @@ more of it.'
 to put the detectives on like dogs after this murdering devil.
 I should like to have a go at him myself.'
 
-`Well,' said Father Brown, smiling suddenly after his long fit
+`[[Well]],' said [[Father Brown]], smiling suddenly after his long fit
 of frowning perplexity, `I think I know the very first thing
 he ought to do.'
 
-`And what is that?' asked Lady Diana with graceful eagerness.
+`And what is that?' asked Lady [[Diana]] with graceful eagerness.
 
 `He ought to apologize to all of you,' said Father Brown.
 
@@ -140,7 +140,7 @@ What was it like to deal with murder on that scale?
 The world has forgotten these things, as until a little
 while ago it had forgotten war.'
 
-`Yes,' said Father Brown, `but the war came.  The fish may be driven
+`Yes,' said [[Father Brown]], `but the war came.  The fish may be driven
 underground again, but it will come up into the daylight once more.
 As St Antony of Padua humorously remarked, `It is only fishes
-who survive the Deluge.'`
+who survive the [[deluge|Deluge]].'`

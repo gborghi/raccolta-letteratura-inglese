@@ -1,5 +1,5 @@
 ---
-title: "The Devil in the Belfry (part 2)"
+title: "[[The Devil in the Belfry]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Devil-in-the-Belfry-(Poe)"
@@ -22,11 +22,11 @@ tags:
 
       The fireplaces are large and deep, with fierce crooked-looking
 
-      fire-dogs. There is constantly a rousing fire, and a huge pot
+      [[Fire|fire]]-[[dogs]]. There is constantly a rousing [[Fire|fire]], and a huge pot
 
       over it, full of sauer-kraut and pork, to which the good woman of
 
-      the house is always busy in attending. She is a little fat old
+      the [[house]] is always busy in attending. She is a little fat old
 
       lady, with blue eyes and a red face, and wears a huge cap like a
 
@@ -54,7 +54,7 @@ tags:
 
 
 
-      The boys themselves are, all three of them, in the garden
+      The boys themselves are, all three of them, in the [[Garden|garden]]
 
       attending the pig. They are each two feet in height. They have
 
@@ -70,7 +70,7 @@ tags:
 
       then a look and a puff. The pig—which is corpulent and lazy—is
 
-      occupied now in picking up the stray leaves that fall from the
+      occupied now in picking up the stray [[Leaves|leaves]] that fall from the
 
       cabbages, and now in giving a kick behind at the gilt repeater,
 
@@ -84,11 +84,11 @@ tags:
 
       chair, with crooked legs and puppy feet like the tables, is
 
-      seated the old man of the house himself. He is an exceedingly
+      seated the old man of the [[house]] himself. He is an exceedingly
 
       puffy little old gentleman, with big circular eyes and a huge
 
-      double chin. His dress resembles that of the boys—and I need say
+      [[Double|double]] chin. His dress resembles that of the boys—and I need say
 
       nothing farther about it. All the difference is, that his pipe is
 
@@ -96,11 +96,11 @@ tags:
 
       them, he has a watch, but he carries his watch in his pocket. To
 
-      say the truth, he has something of more importance than a watch
+      say the [[Truth|truth]], he has something of more importance than a watch
 
       to attend to—and what that is, I shall presently explain. He sits
 
-      with his right leg upon his left knee, wears a grave countenance,
+      with his right leg upon his left knee, wears a [[Grave|grave]] countenance,
 
       and always keeps one of his eyes, at least, resolutely bent upon
 
@@ -108,11 +108,11 @@ tags:
 
 
 
-      This object is situated in the steeple of the House of the Town
+      This object is situated in the steeple of the [[house|House]] of the Town
 
       Council. The Town Council are all very little, round, oily,
 
-      intelligent men, with big saucer eyes and fat double chins, and
+      intelligent men, with big saucer eyes and fat [[Double|double]] chins, and
 
       have their coats much longer and their shoe-buckles much bigger
 
@@ -140,9 +140,9 @@ tags:
 
       Above the session-room of the Council is the steeple, and in the
 
-      steeple is the belfry, where exists, and has existed time out of
+      steeple is the belfry, where exists, and has existed [[Time|time]] out of
 
-      mind, the pride and wonder of the village—the great clock of the
+      mind, the [[Pride|pride]] and [[Wonder|wonder]] of the village—the great [[Clock|clock]] of the
 
       borough of Vondervotteimittiss. And this is the object to which
 
@@ -152,7 +152,7 @@ tags:
 
 
 
-      The great clock has seven faces—one in each of the seven sides of
+      The great [[Clock|clock]] has seven faces—one in each of the seven sides of
 
       the steeple—so that it can be readily seen from all quarters. Its
 
@@ -160,7 +160,7 @@ tags:
 
       is a belfry-man whose sole duty is to attend to it; but this duty
 
-      is the most perfect of sinecures—for the clock of
+      is the most perfect of sinecures—for the [[Clock|clock]] of
 
       Vondervotteimittis was never yet known to have anything the
 
@@ -174,9 +174,9 @@ tags:
 
       just the same with all the other clocks and watches in the
 
-      borough. Never was such a place for keeping the true time. When
+      borough. Never was such a place for keeping the true [[Time|time]]. When
 
-      the large clapper thought proper to say “Twelve o’clock!” all its
+      the large clapper thought proper to say “Twelve o’[[Clock|clock]]!” all its
 
       obedient followers opened their throats simultaneously, and
 
@@ -202,7 +202,7 @@ tags:
 
       old gentleman in the village; and as to his chin, it is not only
 
-      double, but triple.
+      [[Double|double]], but triple.
 
 
 

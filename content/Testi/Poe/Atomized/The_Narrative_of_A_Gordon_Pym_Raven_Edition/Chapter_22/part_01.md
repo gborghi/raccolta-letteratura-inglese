@@ -24,17 +24,17 @@ CHAPTER 22
 
       than when we had conceived ourselves entombed forever. We saw
 
-      before us no prospect but that of being put to death by the
+      before us no prospect but that of being put to [[Death|death]] by the
 
       savages, or of dragging out a miserable existence in captivity
 
-      among them. We might, to be sure, conceal ourselves for a time
+      among them. We might, to be sure, conceal ourselves for a [[Time|time]]
 
       from their observation among the fastnesses of the hills, and, as
 
       a final resort, in the chasm from which we had just issued; but
 
-      we must either perish in the long polar winter through cold and
+      we must either perish in the long polar [[Winter|winter]] through cold and
 
       famine, or be ultimately discovered in our efforts to obtain
 
@@ -62,7 +62,7 @@ CHAPTER 22
 
       bringing immediate destruction upon our own heads, with but a
 
-      remote hope of benefit to them. A pistol fired might suffice to
+      remote [[Hope|hope]] of benefit to them. A [[Pistol|pistol]] fired might suffice to
 
       apprise them that something wrong had occurred; but the report
 
@@ -70,7 +70,7 @@ CHAPTER 22
 
       lay in getting out of the harbour forthwith—it could not tell
 
-      them that no principles of honour now bound them to remain, that
+      them that no principles of [[Honour|honour]] now bound them to remain, that
 
       their companions were no longer among the living. Upon hearing
 
@@ -102,7 +102,7 @@ CHAPTER 22
 
       immediate vicinity especially, and blockading the sole path by
 
-      which we could hope to attain the shore at the proper point were
+      which we could [[Hope|hope]] to attain the shore at the proper point were
 
       stationed the whole party of the black skin warriors, with
 
@@ -128,7 +128,7 @@ CHAPTER 22
 
       the southern bight of the harbor. They appeared to have no arms
 
-      except short clubs, and stones which lay in the bottom of the
+      except short clubs, and stones which lay in the [[Bottom|bottom]] of the
 
       rafts. Immediately afterward another detachment, still larger,
 
@@ -138,9 +138,9 @@ CHAPTER 22
 
       up from the bushes at the head of the bay, and put off swiftly to
 
-      join the other parties. Thus, in less time than I have taken to
+      join the other parties. Thus, in less [[Time|time]] than I have taken to
 
-      tell it, and as if by magic, the Jane saw herself surrounded by
+      tell it, and as if by [[Magic|magic]], the Jane saw herself surrounded by
 
       an immense multitude of desperadoes evidently bent upon capturing
 
@@ -162,9 +162,9 @@ CHAPTER 22
 
       them get springs upon the cable, and bring the vessel’s starboard
 
-      broadside to bear upon the canoes, which by this time were within
+      broadside to bear upon the canoes, which by this [[Time|time]] were within
 
-      pistol range, the rafts being nearly a quarter of a mile to
+      [[Pistol|pistol]] range, the rafts being nearly a quarter of a mile to
 
       windward. Owing to some cause unknown, but most probably to the
 
@@ -204,6 +204,6 @@ CHAPTER 22
 
       The discharge to larboard produced the most terrible effect. The
 
-      star and double-headed shot of the large guns cut seven or eight
+      star and [[Double|double]]-headed shot of the large guns cut seven or eight
 
       of the rafts completely asunder, and killed, perhaps, thirty or

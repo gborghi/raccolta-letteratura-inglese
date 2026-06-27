@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 15"
+title: "[[Wuthering Heights]] — Chapter 15"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -17,9 +17,9 @@ tags:
 CHAPTER XV
 
 
-Another week over—and I am so many days nearer health, and spring! I
-have now heard all my neighbour’s history, at different sittings, as
-the housekeeper could spare time from more important occupations. I’ll
+Another week over—and I am so many days nearer health, and [[spring]]! I
+have now heard all my neighbour’s [[history]], at different sittings, as
+the housekeeper could spare [[Time|time]] from more important occupations. I’ll
 continue it in her own words, only a little condensed. She is, on the
 whole, a very fair narrator, and I don’t think I could improve her
 style.
@@ -28,14 +28,14 @@ style.
 
 
 In the evening, she said, the evening of my visit to the Heights, I
-knew, as well as if I saw him, that Mr. Heathcliff was about the place;
+knew, as [[Well|well]] as if I saw him, that Mr. [[Heathcliff]] was about the place;
 and I shunned going out, because I still carried his letter in my
 pocket, and didn’t want to be threatened or teased any more. I had made
 up my mind not to give it till my master went somewhere, as I could not
 guess how its receipt would affect Catherine. The consequence was, that
 it did not reach her before the lapse of three days. The fourth was
-Sunday, and I brought it into her room after the family were gone to
-church. There was a man servant left to keep the house with me, and we
+[[Sunday]], and I brought it into her room after the family were gone to
+church. There was a man servant left to keep the [[house]] with me, and we
 generally made a practice of locking the doors during the hours of
 service; but on that occasion the weather was so warm and pleasant that
 I set them wide open, and, to fulfil my engagement, as I knew who would
@@ -44,12 +44,12 @@ some oranges, and he must run over to the village and get a few, to be
 paid for on the morrow. He departed, and I went upstairs.
 
 Mrs. Linton sat in a loose white dress, with a light shawl over her
-shoulders, in the recess of the open window, as usual. Her thick, long
+shoulders, in the recess of the open [[Window|window]], as usual. Her thick, long
 hair had been partly removed at the beginning of her illness, and now
 she wore it simply combed in its natural tresses over her temples and
-neck. Her appearance was altered, as I had told Heathcliff; but when
-she was calm, there seemed unearthly beauty in the change. The flash of
-her eyes had been succeeded by a dreamy and melancholy softness; they
+neck. Her appearance was altered, as I had told [[Heathcliff]]; but when
+she was calm, there seemed unearthly [[Beauty|beauty]] in the change. The flash of
+her eyes had been succeeded by a dreamy and [[Melancholy|melancholy]] softness; they
 no longer gave the impression of looking at the objects around her:
 they appeared always to gaze beyond, and far beyond—you would have said
 out of this world. Then, the paleness of her face—its haggard aspect
@@ -58,10 +58,10 @@ arising from her mental state, though painfully suggestive of their
 causes, added to the touching interest which she awakened;
 and—invariably to me, I know, and to any person who saw her, I should
 think—refuted more tangible proofs of convalescence, and stamped her as
-one doomed to decay.
+one doomed to [[Decay|decay]].
 
 A book lay spread on the sill before her, and the scarcely perceptible
-wind fluttered its leaves at intervals. I believe Linton had laid it
+[[Wind|wind]] fluttered its [[Leaves|leaves]] at intervals. I believe Linton had laid it
 there: for she never endeavoured to divert herself with reading, or
 occupation of any kind, and he would spend many an hour in trying to
 entice her attention to some subject which had formerly been her
@@ -70,15 +70,15 @@ endured his efforts placidly, only showing their uselessness by now and
 then suppressing a wearied sigh, and checking him at last with the
 saddest of smiles and kisses. At other times, she would turn petulantly
 away, and hide her face in her hands, or even push him off angrily; and
-then he took care to let her alone, for he was certain of doing no
+then he took care to let her [[Alone|alone]], for he was certain of doing no
 good.
 
-Gimmerton chapel bells were still ringing; and the full, mellow flow of
+Gimmerton chapel [[Bells|bells]] were still ringing; and the full, mellow flow of
 the beck in the valley came soothingly on the ear. It was a sweet
-substitute for the yet absent murmur of the summer foliage, which
+substitute for the yet absent murmur of the [[Summer|summer]] foliage, which
 drowned that music about the Grange when the trees were in leaf. At
-Wuthering Heights it always sounded on quiet days following a great
-thaw or a season of steady rain. And of Wuthering Heights Catherine was
+[[Wuthering Heights]] it always sounded on quiet days following a great
+thaw or a season of steady rain. And of [[Wuthering Heights]] Catherine was
 thinking as she listened: that is, if she thought or listened at all;
 but she had the vague, distant look I mentioned before, which expressed
 no recognition of material things either by ear or eye.
@@ -91,7 +91,7 @@ was very short. “Now,” I continued, “read it.” She drew away her hand,
 and let it fall. I replaced it in her lap, and stood waiting till it
 should please her to glance down; but that movement was so long delayed
 that at last I resumed—“Must I read it, ma’am? It is from Mr.
-Heathcliff.”
+[[Heathcliff]].”
 
 There was a start and a troubled gleam of recollection, and a struggle
 to arrange her ideas. She lifted the letter, and seemed to peruse it;
@@ -100,8 +100,8 @@ had not gathered its import, for, upon my desiring to hear her reply,
 she merely pointed to the name, and gazed at me with mournful and
 questioning eagerness.
 
-“Well, he wishes to see you,” said I, guessing her need of an
-interpreter. “He’s in the garden by this time, and impatient to know
+“[[Well]], he wishes to see you,” said I, guessing her need of an
+interpreter. “He’s in the [[Garden|garden]] by this [[Time|time]], and impatient to know
 what answer I shall bring.”
 
 As I spoke, I observed a large dog lying on the sunny grass beneath
@@ -109,7 +109,7 @@ raise its ears as if about to bark, and then smoothing them back,
 announce, by a wag of the tail, that some one approached whom it did
 not consider a stranger. Mrs. Linton bent forward, and listened
 breathlessly. The minute after a step traversed the hall; the open
-house was too tempting for Heathcliff to resist walking in: most likely
+[[house]] was too tempting for [[Heathcliff]] to resist walking in: most likely
 he supposed that I was inclined to shirk my promise, and so resolved to
 trust to his own audacity. With straining eagerness Catherine gazed
 towards the entrance of her chamber. He did not hit the right room
@@ -126,38 +126,38 @@ instant he beheld her, that there was no prospect of ultimate recovery
 there—she was fated, sure to die.
 
 “Oh, Cathy! Oh, my life! how can I bear it?” was the first sentence he
-uttered, in a tone that did not seek to disguise his despair. And now
+uttered, in a tone that did not seek to disguise his [[Despair|despair]]. And now
 he stared at her so earnestly that I thought the very intensity of his
-gaze would bring tears into his eyes; but they burned with anguish:
+gaze would bring [[Tears|tears]] into his eyes; but they burned with anguish:
 they did not melt.
 
 “What now?” said Catherine, leaning back, and returning his look with a
-suddenly clouded brow: her humour was a mere vane for constantly
-varying caprices. “You and Edgar have broken my heart, Heathcliff! And
+suddenly clouded brow: her [[Humour|humour]] was a mere vane for constantly
+varying caprices. “You and [[Edgar]] have broken my heart, [[Heathcliff]]! And
 you both come to bewail the deed to me, as if you were the people to be
 pitied! I shall not pity you, not I. You have killed me—and thriven on
 it, I think. How strong you are! How many years do you mean to live
 after I am gone?”
 
-Heathcliff had knelt on one knee to embrace her; he attempted to rise,
+[[Heathcliff]] had knelt on one knee to embrace her; he attempted to rise,
 but she seized his hair, and kept him down.
 
 “I wish I could hold you,” she continued, bitterly, “till we were both
 dead! I shouldn’t care what you suffered. I care nothing for your
 sufferings. Why shouldn’t you suffer? I do! Will you forget me? Will
 you be happy when I am in the earth? Will you say twenty years hence,
-‘That’s the grave of Catherine Earnshaw? I loved her long ago, and was
+‘That’s the [[Grave|grave]] of [[Catherine Earnshaw]]? I loved her long ago, and was
 wretched to lose her; but it is past. I’ve loved many others since: my
-children are dearer to me than she was; and, at death, I shall not
+children are dearer to me than she was; and, at [[Death|death]], I shall not
 rejoice that I am going to her: I shall be sorry that I must leave
-them!’ Will you say so, Heathcliff?”
+them!’ Will you say so, [[Heathcliff]]?”
 
 “Don’t torture me till I’m as mad as yourself,” cried he, wrenching his
 head free, and grinding his teeth.
 
-The two, to a cool spectator, made a strange and fearful picture. Well
-might Catherine deem that heaven would be a land of exile to her,
-unless with her mortal body she cast away her moral character also. Her
+The two, to a cool spectator, made a strange and fearful picture. [[Well]]
+might Catherine deem that heaven would be a land of [[Exile|exile]] to her,
+unless with her mortal [[Body|body]] she cast away her moral character also. Her
 present countenance had a wild vindictiveness in its white cheek, and a
 bloodless lip and scintillating eye; and she retained in her closed
 fingers a portion of the locks she had been grasping. As to her
@@ -168,7 +168,7 @@ distinct impressions left blue in the colourless skin.
 
 “Are you possessed with a devil,” he pursued, savagely, “to talk in
 that manner to me when you are dying? Do you reflect that all those
-words will be branded in my memory, and eating deeper eternally after
+words will be branded in my [[Memory|memory]], and eating deeper eternally after
 you have left me? You know you lie to say I have killed you: and,
 Catherine, you know that I could as soon forget you as my existence! Is
 it not sufficient for your infernal selfishness, that while you are at
@@ -180,14 +180,14 @@ beat visibly and audibly under this excess of agitation. She said
 nothing further till the paroxysm was over; then she continued, more
 kindly—
 
-“I’m not wishing you greater torment than I have, Heathcliff. I only
+“I’m not wishing you greater torment than I have, [[Heathcliff]]. I only
 wish us never to be parted: and should a word of mine distress you
 hereafter, think I feel the same distress underground, and for my own
 sake, forgive me! Come here and kneel down again! You never harmed me
-in your life. Nay, if you nurse anger, that will be worse to remember
+in your life. Nay, if you [[Nurse|nurse]] anger, that will be worse to remember
 than my harsh words! Won’t you come here again? Do!”
 
-Heathcliff went to the back of her chair, and leant over, but not so
+[[Heathcliff]] went to the back of her chair, and leant over, but not so
 far as to let her see his face, which was livid with emotion. She bent
 round to look at him; he would not permit it: turning abruptly, he
 walked to the fireplace, where he stood, silent, with his back towards
@@ -196,31 +196,31 @@ a new sentiment in her. After a pause and a prolonged gaze, she
 resumed; addressing me in accents of indignant disappointment:—
 
 “Oh, you see, Nelly, he would not relent a moment to keep me out of the
-grave. _That_ is how I’m loved! Well, never mind. That is not _my_
-Heathcliff. I shall love mine yet; and take him with me: he’s in my
-soul. And,” added she musingly, “the thing that irks me most is this
-shattered prison, after all. I’m tired of being enclosed here. I’m
+[[Grave|grave]]. _That_ is how I’m loved! [[Well]], never mind. That is not _my_
+[[Heathcliff]]. I shall [[Love|love]] mine yet; and take him with me: he’s in my
+[[Soul|soul]]. And,” added she musingly, “the thing that irks me most is this
+shattered [[Prison|prison]], after all. I’m tired of being enclosed here. I’m
 wearying to escape into that glorious world, and to be always there:
-not seeing it dimly through tears, and yearning for it through the
+not seeing it dimly through [[Tears|tears]], and yearning for it through the
 walls of an aching heart: but really with it, and in it. Nelly, you
 think you are better and more fortunate than I; in full health and
 strength: you are sorry for me—very soon that will be altered. I shall
 be sorry for _you_. I shall be incomparably beyond and above you all. I
 _wonder_ he won’t be near me!” She went on to herself. “I thought he
-wished it. Heathcliff, dear! you should not be sullen now. Do come to
-me, Heathcliff.”
+wished it. [[Heathcliff]], dear! you should not be sullen now. Do come to
+me, [[Heathcliff]].”
 
-In her eagerness she rose and supported herself on the arm of the
+In her eagerness she [[Rose|rose]] and supported herself on the arm of the
 chair. At that earnest appeal he turned to her, looking absolutely
 desperate. His eyes, wide and wet, at last flashed fiercely on her; his
 breast heaved convulsively. An instant they held asunder, and then how
-they met I hardly saw, but Catherine made a spring, and he caught her,
+they met I hardly saw, but Catherine made a [[spring]], and he caught her,
 and they were locked in an embrace from which I thought my mistress
 would never be released alive: in fact, to my eyes, she seemed directly
 insensible. He flung himself into the nearest seat, and on my
 approaching hurriedly to ascertain if she had fainted, he gnashed at
 me, and foamed like a mad dog, and gathered her to him with greedy
-jealousy. I did not feel as if I were in the company of a creature of
+[[Jealousy|jealousy]]. I did not feel as if I were in the company of a creature of
 my own species: it appeared that he would not understand, though I
 spoke to him; so I stood off, and held my tongue, in great perplexity.
 
@@ -231,28 +231,28 @@ while he, in return, covering her with frantic caresses, said wildly—
 “You teach me now how cruel you’ve been—cruel and false. _Why_ did you
 despise me? _Why_ did you betray your own heart, Cathy? I have not one
 word of comfort. You deserve this. You have killed yourself. Yes, you
-may kiss me, and cry; and wring out my kisses and tears: they’ll blight
+may kiss me, and cry; and wring out my kisses and [[Tears|tears]]: they’ll blight
 you—they’ll damn you. You loved me—then what _right_ had you to leave
 me? What right—answer me—for the poor fancy you felt for Linton?
-Because misery and degradation, and death, and nothing that God or
-Satan could inflict would have parted us, _you_, of your own will, did
+Because misery and degradation, and [[Death|death]], and nothing that God or
+[[Satan]] could inflict would have parted us, _you_, of your own will, did
 it. I have not broken your heart—_you_ have broken it; and in breaking
 it, you have broken mine. So much the worse for me that I am strong. Do
 I want to live? What kind of living will it be when you—oh, God! would
-_you_ like to live with your soul in the grave?”
+_you_ like to live with your [[Soul|soul]] in the [[Grave|grave]]?”
 
-“Let me alone. Let me alone,” sobbed Catherine. “If I’ve done wrong,
+“Let me [[Alone|alone]]. Let me [[Alone|alone]],” sobbed Catherine. “If I’ve done wrong,
 I’m dying for it. It is enough! You left me too: but I won’t upbraid
 you! I forgive you. Forgive me!”
 
 “It is hard to forgive, and to look at those eyes, and feel those
 wasted hands,” he answered. “Kiss me again; and don’t let me see your
-eyes! I forgive what you have done to me. I love _my_ murderer—but
+eyes! I forgive what you have done to me. I [[Love|love]] _my_ murderer—but
 _yours_! How can I?”
 
 They were silent—their faces hid against each other, and washed by each
-other’s tears. At least, I suppose the weeping was on both sides; as it
-seemed Heathcliff _could_ weep on a great occasion like this.
+other’s [[Tears|tears]]. At least, I suppose the weeping was on both sides; as it
+seemed [[Heathcliff]] _could_ weep on a great occasion like this.
 
 I grew very uncomfortable, meanwhile; for the afternoon wore fast away,
 the man whom I had sent off returned from his errand, and I could
@@ -262,21 +262,21 @@ thickening outside Gimmerton chapel porch.
 “Service is over,” I announced. “My master will be here in half an
 hour.”
 
-Heathcliff groaned a curse, and strained Catherine closer: she never
+[[Heathcliff]] groaned a curse, and strained Catherine closer: she never
 moved.
 
-Ere long I perceived a group of the servants passing up the road
+Ere long I perceived a group of the servants passing up the [[Road|road]]
 towards the kitchen wing. Mr. Linton was not far behind; he opened the
 gate himself and sauntered slowly up, probably enjoying the lovely
-afternoon that breathed as soft as summer.
+afternoon that breathed as soft as [[Summer|summer]].
 
 “Now he is here,” I exclaimed. “For heaven’s sake, hurry down! You’ll
 not meet any one on the front stairs. Do be quick; and stay among the
 trees till he is fairly in.”
 
-“I must go, Cathy,” said Heathcliff, seeking to extricate himself from
+“I must go, Cathy,” said [[Heathcliff]], seeking to extricate himself from
 his companion’s arms. “But if I live, I’ll see you again before you are
-asleep. I won’t stray five yards from your window.”
+asleep. I won’t stray five yards from your [[Window|window]].”
 
 “You must not go!” she answered, holding him as firmly as her strength
 allowed. “You _shall_ not, I tell you.”
@@ -291,10 +291,10 @@ intruder.
 He would have risen, and unfixed her fingers by the act—she clung fast,
 gasping: there was mad resolution in her face.
 
-“No!” she shrieked. “Oh, don’t, don’t go. It is the last time! Edgar
-will not hurt us. Heathcliff, I shall die! I shall die!”
+“No!” she shrieked. “Oh, don’t, don’t go. It is the last [[Time|time]]! [[Edgar]]
+will not hurt us. [[Heathcliff]], I shall die! I shall die!”
 
-“Damn the fool! There he is,” cried Heathcliff, sinking back into his
+“Damn the [[Fool|fool]]! There he is,” cried [[Heathcliff]], sinking back into his
 seat. “Hush, my darling! Hush, hush, Catherine! I’ll stay. If he shot
 me so, I’d expire with a blessing on my lips.”
 
@@ -316,7 +316,7 @@ down.
 that she should be dead, than lingering a burden and a misery-maker to
 all about her.”
 
-Edgar sprang to his unbidden guest, blanched with astonishment and
+[[Edgar]] sprang to his unbidden guest, blanched with astonishment and
 rage. What he meant to do I cannot tell; however, the other stopped all
 demonstrations, at once, by placing the lifeless-looking form in his
 arms.
@@ -327,16 +327,16 @@ shall speak to me!”
 He walked into the parlour, and sat down. Mr. Linton summoned me, and
 with great difficulty, and after resorting to many means, we managed to
 restore her to sensation; but she was all bewildered; she sighed, and
-moaned, and knew nobody. Edgar, in his anxiety for her, forgot her
+moaned, and knew nobody. [[Edgar]], in his anxiety for her, forgot her
 hated friend. I did not. I went, at the earliest opportunity, and
 besought him to depart; affirming that Catherine was better, and he
-should hear from me in the morning how she passed the night.
+should hear from me in the morning how she passed the [[Night|night]].
 
 “I shall not refuse to go out of doors,” he answered; “but I shall stay
-in the garden: and, Nelly, mind you keep your word to-morrow. I shall
+in the [[Garden|garden]]: and, Nelly, mind you keep your word to-morrow. I shall
 be under those larch-trees. Mind! or I pay another visit, whether
 Linton be in or not.”
 
 He sent a rapid glance through the half-open door of the chamber, and,
 ascertaining that what I stated was apparently true, delivered the
-house of his luckless presence.
+[[house]] of his luckless presence.

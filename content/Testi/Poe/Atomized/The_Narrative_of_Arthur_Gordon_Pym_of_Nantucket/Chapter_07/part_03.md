@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 8 (part 3)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 8 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -18,15 +18,15 @@ been merely stunned by the blow. He now got up, and, for the present,
 
 we secured his hands behind his back. The dog was still growling over
 
-Jones; but, upon examination, we found him completely dead, the blood
+[[Jones]]; but, upon examination, we found him completely dead, the [[Blood|blood]]
 
 issuing in a stream from a deep wound in the throat, inflicted, no
 
-doubt, by the sharp teeth of the animal.
+[[Doubt|doubt]], by the sharp teeth of the animal.
 
 
 
-It was now about one o'clock in the morning, and the wind was still
+It was now about one o'[[Clock|clock]] in the morning, and the [[Wind|wind]] was still
 
 blowing tremendously. The brig evidently laboured much more than usual,
 
@@ -40,7 +40,7 @@ during our scuffle, the hatchway having been left open by myself when I
 
 descended. The entire range of bulwarks to larboard had been swept
 
-away, as well as the caboose, together with the jollyboat from the
+away, as [[Well|well]] as the caboose, together with the jollyboat from the
 
 counter. The creaking and working of the mainmast, too, gave indication
 
@@ -50,11 +50,11 @@ hold, the heel of this mast had been stepped between decks (a very
 
 reprehensible practice, occasionally resorted to by ignorant
 
-ship-builders), so that it was in imminent danger of working from its
+[[Ship|ship]]-builders), so that it was in imminent danger of working from its
 
-step. But, to crown all our difficulties, we plummed the well, and
+step. But, to [[Crown|crown]] all our difficulties, we plummed the [[Well|well]], and
 
-found no less than seven feet water.
+found no less than seven feet [[Water|water]].
 
 
 
@@ -62,7 +62,7 @@ Leaving the bodies of the crew lying in the cabin, we got to work
 
 immediately at the pumps--Parker, of course, being set at liberty to
 
-assist us in the labour. Augustus's arm was bound up as well as we
+assist us in the labour. Augustus's arm was bound up as [[Well|well]] as we
 
 could effect it, and he did what he could, but that was not much.
 
@@ -78,7 +78,7 @@ the brig by cutting away the mainmast.
 
 
 
-In this manner we passed a night of terrible anxiety and fatigue, and,
+In this manner we passed a [[Night|night]] of terrible anxiety and fatigue, and,
 
 when the day at length broke, the gale had neither abated in the least,
 
@@ -108,7 +108,7 @@ pumps. The little assistance which Augustus could render us was not
 
 really of any importance. To add to our distress, a heavy sea, striking
 
-the brig to windward, threw her off several points from the wind, and,
+the brig to windward, threw her off several points from the [[Wind|wind]], and,
 
 before she could regain her position, another broke completely over
 
@@ -116,7 +116,7 @@ her, and hurled her full upon her beam-ends. The ballast now shifted in
 
 a mass to leeward (the stowage had been knocking about perfectly at
 
-random for some time), and for a few moments we thought nothing could
+random for some [[Time|time]]), and for a few moments we thought nothing could
 
 save us from capsizing. Presently, however, we partially righted; but
 
@@ -162,7 +162,7 @@ in a more pitiable condition.
 
 
 
-At noon there seemed to be some slight appearance of the gale's
+At [[Noon|noon]] there seemed to be some slight appearance of the gale's
 
 abating, but in this we were sadly disappointed, for it only lulled for
 
@@ -170,17 +170,17 @@ a few minutes to blow with redoubled fury. About four in the afternoon
 
 it was utterly impossible to stand up against the violence of the
 
-blast; and, as the night closed in upon us, I had not a shadow of hope
+blast; and, as the [[Night|night]] closed in upon us, I had not a [[Shadow|shadow]] of [[Hope|hope]]
 
 that the vessel would hold together until morning.
 
 
 
-By midnight we had settled very deep in the water, which was now up to
+By midnight we had settled very deep in the [[Water|water]], which was now up to
 
 the orlop deck. The rudder went soon afterward, the sea which tore it
 
-away lifting the after portion of the brig entirely from the water,
+away lifting the after portion of the brig entirely from the [[Water|water]],
 
 against which she thumped in her descent with such a concussion as
 
@@ -208,10 +208,10 @@ the solid wood.
 
 
 
-We had scarcely time to draw breath after the violence of this shock,
+We had scarcely [[Time|time]] to draw breath after the violence of this shock,
 
 when one of the most tremendous waves I had then ever known broke right
 
 on board of us, sweeping the companion-way clear off, bursting in the
 
-hatchways, and filling every inch of the vessel with water.
+hatchways, and filling every inch of the vessel with [[Water|water]].

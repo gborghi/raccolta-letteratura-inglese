@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 30 (part 2)"
+title: "[[Shirley]] — Chapter 30 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-"Only a baronet; that is all. I have not a doubt in my own mind you've
+"Only a baronet; that is all. I have not a [[Doubt|doubt]] in my own mind you've
 
 lost her. She will be Lady Nunnely before Christmas."
 
@@ -24,7 +24,7 @@ lost her. She will be Lady Nunnely before Christmas."
 
 
 
-"But she need not to have been. Fool of a lad! I swear you might have
+"But she need not to have been. [[Fool]] of a lad! I swear you might have
 
 had her."
 
@@ -46,7 +46,7 @@ they grew when your name was mentioned, though of custom they are pale."
 
 "It ought to be. But try; it is worth trying. I call this Sir Philip
 
-milk and water. And then he writes verses, they say--tags rhymes. _You_
+milk and [[Water|water]]. And then he writes verses, they say--tags rhymes. _You_
 
 are above that, Bob, at all events."
 
@@ -60,7 +60,7 @@ eleventh hour?"
 
 "You can but make the experiment, Robert. If she has a fancy for
 
-you--and, on my conscience, I believe she has or had--she will forgive
+you--and, on my [[Conscience|conscience]], I believe she has or had--she will forgive
 
 much. But, my lad, you are laughing. Is it at me? You had better grin at
 
@@ -82,13 +82,13 @@ it against a harder wall."
 
 
 
-"Ha! I'm glad to hear that. Sharp exercise yon! I hope it has done you
+"Ha! I'm glad to hear that. Sharp exercise yon! I [[Hope|hope]] it has done you
 
-good--ta'en some of the self-conceit out of you?"
+good--ta'en some of the [[Self|self]]-conceit out of you?"
 
 
 
-"Self-conceit? What is it? Self-respect, self-tolerance even, what are
+"[[Self]]-conceit? What is it? [[Self]]-respect, [[Self|self]]-tolerance even, what are
 
 they? Do you sell the articles? Do you know anybody who does? Give an
 
@@ -104,17 +104,17 @@ mind. What has gone wrong?"
 
 
 
-"The machinery of all my nature; the whole enginery of this human mill;
+"The machinery of all my [[Nature|nature]]; the whole enginery of this human mill;
 
 the boiler, which I take to be the heart, is fit to burst."
 
 
 
-"That suld be putten i' print; it's striking. It's almost blank verse.
+"That suld be putten i' print; it's striking. It's almost [[Blank Verse|blank verse]].
 
 Ye'll be jingling into poetry just e'now. If the afflatus comes, give
 
-way, Robert. Never heed me; I'll bear it this whet [time]."
+way, Robert. Never heed me; I'll bear it this whet [[[Time|time]]]."
 
 
 
@@ -142,7 +142,7 @@ my breast, and I choose that you shall hear how it can yell."
 
 sings--tones off like a soft, deep bell--I've felt myself tremble again.
 
-The night is still. It listens. It is just leaning down to you, like a
+The [[Night|night]] is still. It listens. It is just leaning down to you, like a
 
 black priest to a blacker penitent. Confess, lad. Smooth naught down. Be
 
@@ -154,7 +154,7 @@ meeting. Make yourself as wicked as Beelzebub. It will ease your mind."
 
 "As mean as Mammon, you would say. Yorke, if I got off horseback and
 
-laid myself down across the road, would you have the goodness to gallop
+laid myself down across the [[Road|road]], would you have the goodness to gallop
 
 over me, backwards and forwards, about twenty times?"
 
@@ -182,19 +182,19 @@ changed countenance--I know she did. She pronounced it herself in the
 
 most musical of her many musical tones. She was cordial to me; she took
 
-an interest in me; she was anxious about me; she wished me well; she
+an interest in me; she was anxious about me; she wished me [[Well|well]]; she
 
 sought, she seized every opportunity to benefit me. I considered,
 
 paused, watched, weighed, wondered. I could come to but one
 
-conclusion--this is love.
+conclusion--this is [[Love|love]].
 
 
 
-"I looked at her, Yorke. I saw in her youth and a species of beauty. I
+"I looked at her, Yorke. I saw in her youth and a species of [[Beauty|beauty]]. I
 
-saw power in her. Her wealth offered me the redemption of my honour and
+saw power in her. Her wealth offered me the redemption of my [[Honour|honour]] and
 
 my standing. I owed her gratitude. She had aided me substantially and
 
@@ -204,7 +204,7 @@ things? Could I believe she loved me? Could I hear wisdom urge me to
 
 marry her, and disregard every dear advantage, disbelieve every
 
-flattering suggestion, disdain every well-weighed counsel, turn and
+flattering suggestion, disdain every [[Well|well]]-weighed counsel, turn and
 
 leave her? Young, graceful, gracious--my benefactress, attached to me,
 
@@ -216,7 +216,7 @@ with an admiration dedicated entirely to myself, and unimpaired even by
 
 esteem for her; indeed I smiled in deep secrecy at her _naïveté_ and
 
-simplicity in being the first to love, and to show it. That whip of
+simplicity in being the first to [[Love|love]], and to show it. That whip of
 
 yours seems to have a good heavy handle, Yorke; you can swing it about
 
@@ -226,9 +226,9 @@ relish a loundering whack."
 
 
 
-"Tak patience, Robert, till the moon rises and I can see you. Speak
+"Tak patience, Robert, till the [[Moon|moon]] rises and I can see you. Speak
 
-plain out--did you love her or not? I could like to know. I feel
+plain out--did you [[Love|love]] her or not? I could like to know. I feel
 
 curious."
 
@@ -236,13 +236,13 @@ curious."
 
 "Sir--sir--I say--she is very pretty, in her own style, and very
 
-attractive. She has a look, at times, of a thing made out of fire and
+attractive. She has a look, at times, of a thing made out of [[Fire|fire]] and
 
 air, at which I stand and marvel, without a thought of clasping and
 
-kissing it. I felt in her a powerful magnet to my interest and vanity. I
+kissing it. I felt in her a powerful magnet to my interest and [[Vanity|vanity]]. I
 
-never felt as if nature meant her to be my other and better self. When a
+never felt as if [[Nature|nature]] meant her to be my other and better [[Self|self]]. When a
 
 question on that head rushed upon me, I flung it off, saying brutally I
 
@@ -256,7 +256,7 @@ practical, and not romantic."
 
 
 
-"With this sensible resolve I walked up to Fieldhead one night last
+"With this sensible resolve I walked up to Fieldhead one [[Night|night]] last
 
 August. It was the very eve of my departure for Birmingham; for, you
 

@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — Science and the Eugenists"
+title: "[[UtopiaUsurers]] — Science and the Eugenists"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -26,7 +26,7 @@ completeness of the impoverishment will be made a reason for the
 
 enslavement; though the men who impoverished were the same who enslaved.
 
-It is as if a highwayman not only took away a gentleman's horse and all
+It is as if a highwayman not only took away a gentleman's [[Horse|horse]] and all
 
 his money, but then handed him over to the police for tramping without
 
@@ -34,7 +34,7 @@ visible means of subsistence. And the most monstrous feature in this
 
 enormous meanness may be noted in the plutocratic appeal to science, or,
 
-rather, to the pseudo-science that they call Eugenics.
+rather, to the pseudo-science that they call [[Eugenics]].
 
 
 
@@ -60,23 +60,23 @@ the plutocratic scientist, with a slightly troubled expression, turns
 
 his eyes and pince-nez in another direction. Reduced to brutal terms of
 
-truth, his difficulty is this and simply this: More food, leisure, and
+[[Truth|truth]], his difficulty is this and simply this: More food, leisure, and
 
 money for the workman would mean a better workman, better even from the
 
 point of view of anyone for whom he worked. But more food, leisure, and
 
-money would also mean a more independent workman. A house with a decent
+money would also mean a more independent workman. A [[house]] with a decent
 
-fire and a full pantry would be a better house to make a chair or mend
+[[Fire|fire]] and a full pantry would be a better [[house]] to make a chair or mend
 
-a clock in, even from the customer's point of view, than a hovel with a
+a [[Clock|clock]] in, even from the customer's point of view, than a hovel with a
 
-leaky roof and a cold hearth. But a house with a decent fire and a full
+leaky roof and a cold hearth. But a [[house]] with a decent [[Fire|fire]] and a full
 
-pantry would also be a better house in which to refuse to make a chair
+pantry would also be a better [[house]] in which to refuse to make a chair
 
-or mend a clock--a much better house to do nothing in--and doing nothing
+or mend a [[Clock|clock]]--a much better [[house]] to do nothing in--and doing nothing
 
 is sometimes one of the highest of the duties of man. All but the
 
@@ -90,7 +90,7 @@ roof and the rickety cradle in a pensive manner, there one day came into
 
 his mind a new and curious idea--one of the most strange, simple, and
 
-horrible ideas that have ever risen from the deep pit of original sin.
+horrible ideas that have ever risen from the deep pit of [[Original Sin|original sin]].
 
 
 
@@ -98,9 +98,9 @@ The roof could not be mended, or, at least, it could not be mended much,
 
 without upsetting the capitalist balance, or, rather, disproportion in
 
-society; for a man with a roof is a man with a house, and to that extent
+society; for a man with a roof is a man with a [[house]], and to that extent
 
-his house is his castle. The cradle could not be made to rock easier,
+his [[house]] is his [[Castle|castle]]. The cradle could not be made to rock easier,
 
 or, at least, not much easier, without strengthening the hands of the
 
@@ -108,9 +108,9 @@ poor household, for the hand that rocks the cradle rules the world--to
 
 that extent. But it occurred to the capitalist that there was one sort
 
-of furniture in the house that could be altered. The husband and wife
+of furniture in the [[house]] that could be altered. The husband and wife
 
-could be altered. Birth costs nothing, except in pain and valour and
+could be altered. Birth costs nothing, except in [[Pain|pain]] and valour and
 
 such old-fashioned things; and the merchant need pay no more for mating
 
@@ -126,13 +126,13 @@ political, or social improvement. It might be possible to keep a
 
 supply of strong and healthy slaves without coddling them with decent
 
-conditions. As the mill-owners use the wind and the water to drive their
+conditions. As the mill-owners use the [[Wind|wind]] and the [[Water|water]] to drive their
 
 mills, they would use this natural force as something even cheaper; and
 
-turn their wheels by diverting from its channel the blood of a man in
+turn their wheels by diverting from its channel the [[Blood|blood]] of a man in
 
-his youth. That is what Eugenics means; and that is all that it means.
+his youth. That is what [[Eugenics]] means; and that is all that it means.
 
 
 
@@ -140,7 +140,7 @@ Of the moral state of those who think of such things it does not become
 
 us to speak. The practical question is rather the intellectual one:
 
-of whether their calculations are well founded, and whether the men
+of whether their calculations are [[Well|well]] founded, and whether the men
 
 of science can or will guarantee them any such physical certainties.
 
@@ -156,13 +156,13 @@ men. That is, that though it is not true that all men are normal, it is
 
 overwhelmingly certain that most men are normal. All the common Eugenic
 
-arguments are drawn from extreme cases, which, even if human honour
+arguments are drawn from extreme cases, which, even if human [[Honour|honour]]
 
 and laughter allowed of their being eliminated, would not by their
 
 elimination greatly affect the mass. For the rest, there remains the
 
-enormous weakness in Eugenics, that if ordinary men's judgment or
+enormous weakness in [[Eugenics]], that if ordinary men's judgment or
 
 liberty is to be discounted in relation to heredity, the judgment of
 

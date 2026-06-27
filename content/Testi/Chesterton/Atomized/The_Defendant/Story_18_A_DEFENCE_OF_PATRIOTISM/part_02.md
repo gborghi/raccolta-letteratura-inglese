@@ -16,7 +16,7 @@ tags:
 
 The peculiar lack of any generosity or delicacy in the current English
 nationalism appears to have no other possible origin but in this fact of
-our unique neglect in education of the study of the national literature.
+our unique neglect in [[Education|education]] of the study of the national literature.
 An Englishman could not be silly enough to despise other nations if he
 once knew how much England had done for them. Great men of letters
 cannot avoid being humane and universal. The absence of the teaching of
@@ -30,19 +30,19 @@ topsy-turviness of the idea never seems to strike them. It is like
 saying that a baby picks up the art of walking in the course of learning
 to hop, or that a Frenchman may successfully be taught German by helping
 a Prussian to learn Ashanti. Surely the obvious foundation of all
-education is the language in which that education is conveyed; if a boy
-has only time to learn one thing, he had better learn that.
+[[Education|education]] is the language in which that [[Education|education]] is conveyed; if a boy
+has only [[Time|time]] to learn one thing, he had better learn that.
 
 We have deliberately neglected this great heritage of high national
 sentiment. We have made our public schools the strongest walls against a
-whisper of the honour of England. And we have had our punishment in this
+whisper of the [[Honour|honour]] of England. And we have had our punishment in this
 strange and perverted fact that, while a unifying vision of patriotism
 can ennoble bands of brutal savages or dingy burghers, and be the best
 thing in their lives, we, who are--the world being judge--humane,
 honest, and serious individually, have a patriotism that is the worst
 thing in ours. What have we done, and where have we wandered, we that
 have produced sages who could have spoken with Socrates and poets who
-could walk with Dante, that we should talk as if we have never done
+could walk with [[Dante]], that we should talk as if we have never done
 anything more intelligent than found colonies and kick niggers? We are
 the children of light, and it is we that sit in darkness. If we are
 judged, it will not be for the merely intellectual transgression of
@@ -139,7 +139,7 @@ individual work is in the public domain in the United States and you are
 located in the United States, we do not claim a right to prevent you from
 copying, distributing, performing, displaying or creating derivative
 works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
+are removed.  Of course, we [[Hope|hope]] that you will support the Project
 Gutenberg-tm mission of promoting free access to electronic works by
 freely sharing Project Gutenberg-tm works in compliance with the terms of
 this agreement for keeping the Project Gutenberg-tm name associated with

@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 6 (part 4)"
+title: "[[aquinas]] — Chapter 6 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/aquinas-(Chesterton)"
@@ -19,8 +19,8 @@ the old syllogists sometimes set out the syllogism at length;
 and certainly that is not always necessary.  A man can run down
 the three steps much more quickly than that; but a man cannot
 run down the three steps if they are not there.  If he does,
-he will break his neck, as if he walked out of a fourth-story window.
-The truth about this false antithesis of induction and deduction is
+he will break his neck, as if he walked out of a fourth-story [[Window|window]].
+The [[Truth|truth]] about this false antithesis of induction and deduction is
 simply this; that as premises or data accumulated, the emphasis and detail
 was shifted to them, from the final deduction to which they lead.
 But they did lead to a final deduction; or else they led to nothing.
@@ -28,10 +28,10 @@ The logician had so much to say about electrons or microbes that he dwelt
 most on these data and shortened or assumed his ultimate syllogism.
 But if he reasoned rightly, however rapidly, he reasoned syllogistically.
 
-As a matter of fact, Aquinas does not usually argue in syllogisms;
+As a matter of fact, [[aquinas|Aquinas]] does not usually argue in syllogisms;
 though he always argues syllogistically.  I mean he does not set out
-all the steps of the logic in each case; the legend that he does so is
-part of that loose and largely unverified legend of the Renaissance;
+all the steps of the [[logic]] in each case; the legend that he does so is
+part of that loose and largely unverified legend of the [[Renaissance]];
 that the Schoolmen were all crabbed and mechanical medieval bores.
 But he does argue with a certain austerity, and disdain of ornament,
 which may make him seem monotonous to anyone specially seeking
@@ -46,7 +46,7 @@ that the proof of the pudding is in the eating; that a man cannot
 jump down his own throat or deny the fact of his own existence.
 He often maintains the view by the use of abstractions;
 but the abstractions are no more abstract than Energy or Evolution
-or Space-Time; and they do not land us, as the others often do,
+or Space-[[Time]]; and they do not land us, as the others often do,
 in hopeless contradictions about common life.  The Pragmatist
 sets out to be practical, but his practicality turns out to be
 entirely theoretical.  The Thomist begins by being theoretical,
@@ -66,15 +66,15 @@ proceedings when we wound up the Tip-Cat Club were purely formal."
 But we mean that they were purely fictitious; and St. Thomas, had he been
 a member of the Tip-Cat Club, would have meant just the opposite.
 He would have meant that the proceedings dealt with the very heart
-and soul and secret of the whole being of the Tip-Cat Club;
+and [[Soul|soul]] and secret of the whole being of the Tip-Cat Club;
 and that the apology to the Dean was so essentially apologetic
-that it tore the very heart out in tears of true contrition.
+that it tore the very heart out in [[Tears|tears]] of true contrition.
 For "formal" in Thomist language means actual, or possessing
 the real decisive quality that makes a thing itself.
 Roughly when he describes a thing as made out of Form and Matter,
 he very rightly recognises that Matter is the more mysterious
 and indefinite and featureless element; and that what stamps
-anything with its own identity is its Form.  Matter, so to speak,
+anything with its own [[Identity|identity]] is its Form.  Matter, so to speak,
 is not so much the solid as the liquid or gaseous thing in the cosmos:
 and in this most modern scientists are beginning to agree with him.
 But the form is the fact; it is that which makes a brick a brick,
@@ -86,12 +86,12 @@ a chemical analysis is entirely false as a philosophical analysis.
 The reality, the thing that makes the two things real, is in the idea
 of the image and in the idea of the image-breaker. This is only
 a passing example of the mere idiom of the Thomist terminology;
-but it is not a bad prefatory specimen of the truth of Thomist thought.
-Every artist knows that the form is not superficial but fundamental;
+but it is not a bad prefatory specimen of the [[Truth|truth]] of Thomist thought.
+Every [[artist]] knows that the form is not superficial but fundamental;
 that the form is the foundation.  Every sculptor knows that the form
 of the statue is not the outside of the statue, but rather the inside
 of the statue; even in the sense of the inside of the sculptor.
-Every poet knows that the sonnet-form is not only the form of
+Every poet knows that the [[Sonnet|sonnet]]-form is not only the form of
 the poem; but the poem.  No modern critic who does not understand
 what the medieval Schoolman meant by form can meet the Schoolman
 as an intellectual equal.

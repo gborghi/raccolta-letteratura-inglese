@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 32 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 32 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -38,9 +38,9 @@ are sure I have made a conquest; but for my part I declare I never
 
 think about him from one hour’s end to another. ‘Lord! here comes your
 
-beau, Nancy,’ my cousin said t’other day, when she saw him crossing the
+beau, [[Nancy]],’ my cousin said t’other day, when she saw him crossing the
 
-street to the house. My beau, indeed! said I—I cannot think who you
+street to the [[house]]. My beau, indeed! said I—I cannot think who you
 
 mean. The Doctor is no beau of mine.”
 
@@ -80,17 +80,17 @@ cessation of hostile hints, to the charge.
 
 
 
-Elinor would not humour her by farther opposition.
+Elinor would not [[Humour|humour]] her by farther opposition.
 
 
 
 “What a charming thing it is that Mrs. Dashwood can spare you both for
 
-so long a time together!”
+so long a [[Time|time]] together!”
 
 
 
-“Long a time, indeed!” interposed Mrs. Jennings. “Why, their visit is
+“Long a [[Time|time]], indeed!” interposed Mrs. Jennings. “Why, their visit is
 
 but just begun!”
 
@@ -102,7 +102,7 @@ Lucy was silenced.
 
 “I am sorry we cannot see your sister, Miss Dashwood,” said Miss
 
-Steele. “I am sorry she is not well—” for Marianne had left the room on
+Steele. “I am sorry she is not [[Well|well]]—” for Marianne had left the room on
 
 their arrival.
 
@@ -130,7 +130,7 @@ not able to come to them.
 
 
 
-“Oh, if that’s all,” cried Miss Steele, “we can just as well go and see
+“Oh, if that’s all,” cried Miss Steele, “we can just as [[Well|well]] go and see
 
 _her_.”
 

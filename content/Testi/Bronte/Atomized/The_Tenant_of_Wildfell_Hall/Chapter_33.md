@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 33"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 33"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,15 +20,15 @@ tags:
 
 
 
-Seventh.—Yes, I _will_ hope! To-night I heard Grimsby and Hattersley
+Seventh.—Yes, I _will_ [[Hope|hope]]! To-[[Night|night]] I heard Grimsby and Hattersley
 
 grumbling together about the inhospitality of their host. They did not
 
 know I was near, for I happened to be standing behind the curtain in
 
-the bow of the window, watching the moon rising over the clump of tall
+the bow of the [[Window|window]], watching the [[Moon|moon]] rising over the clump of tall
 
-dark elm-trees below the lawn, and wondering why Arthur was so
+dark elm-trees below the lawn, and wondering why [[arthur|Arthur]] was so
 
 sentimental as to stand without, leaning against the outer pillar of
 
@@ -38,13 +38,13 @@ the portico, apparently watching it too.
 
 “So, I suppose we’ve seen the last of our merry carousals in this
 
-house,” said Mr. Hattersley; “I _thought_ his good-fellowship wouldn’t
+[[house]],” said Mr. Hattersley; “I _thought_ his good-fellowship wouldn’t
 
 last long. But,” added he, laughing, “I didn’t expect it would meet its
 
 end this way. I rather thought our pretty hostess would be setting up
 
-her porcupine quills, and threatening to turn us out of the house if we
+her porcupine quills, and threatening to turn us out of the [[house]] if we
 
 didn’t mind our manners.”
 
@@ -76,7 +76,7 @@ with their false, fair faces and their deceitful tongues.”
 
 At this juncture I issued from my retreat, and smiling on Mr. Grimsby
 
-as I passed, left the room and went out in search of Arthur. Having
+as I passed, left the room and went out in search of [[arthur|Arthur]]. Having
 
 seen him bend his course towards the shrubbery, I followed him thither,
 
@@ -94,7 +94,7 @@ absolute terror, exclaimed,
 
 
 
-“Helen! what the devil is this?” and I saw, by the faint light gleaming
+“[[Helen]]! what the devil is this?” and I saw, by the faint light gleaming
 
 through the overshadowing tree, that he was positively pale with the
 
@@ -110,7 +110,7 @@ affection is genuine: he is not sick of me yet.
 
 
 
-“I startled you, Arthur,” said I, laughing in my glee. “How nervous you
+“I startled you, [[arthur|Arthur]],” said I, laughing in my glee. “How nervous you
 
 are!”
 
@@ -120,7 +120,7 @@ are!”
 
 extricating himself from my arms, and wiping his forehead with his
 
-handkerchief. “Go back, Helen—go back directly! You’ll get your death
+handkerchief. “Go back, [[Helen]]—go back directly! You’ll get your [[Death|death]]
 
 of cold!”
 
@@ -128,7 +128,7 @@ of cold!”
 
 “I won’t, till I’ve told you what I came for. They are blaming you,
 
-Arthur, for your temperance and sobriety, and I’m come to thank you for
+[[arthur|Arthur]], for your temperance and sobriety, and I’m come to thank you for
 
 it. They say it is all ‘these cursed women,’ and that we are the bane
 
@@ -140,43 +140,43 @@ resolutions, or your affection for me.”
 
 He laughed. I squeezed him in my arms again, and cried in tearful
 
-earnest, “Do, do persevere! and I’ll love you better than ever I did
+earnest, “Do, do persevere! and I’ll [[Love|love]] you better than ever I did
 
 before!”
 
 
 
-“Well, well, I will!” said he, hastily kissing me. “There, now, go. You
+“[[Well]], [[Well|well]], I will!” said he, hastily kissing me. “There, now, go. You
 
 mad creature, how _could_ you come out in your light evening dress this
 
-chill autumn night?”
+chill [[Autumn|autumn]] [[Night|night]]?”
 
 
 
-“It is a glorious night,” said I.
+“It is a glorious [[Night|night]],” said I.
 
 
 
-“It is a night that will give you your death, in another minute. Run
+“It is a [[Night|night]] that will give you your [[Death|death]], in another minute. Run
 
 away, do!”
 
 
 
-“Do you see my death among those trees, Arthur?” said I, for he was
+“Do you see my [[Death|death]] among those trees, [[arthur|Arthur]]?” said I, for he was
 
 gazing intently at the shrubs, as if he saw it coming, and I was
 
-reluctant to leave him, in my new-found happiness and revival of hope
+reluctant to leave him, in my new-found happiness and revival of [[Hope|hope]]
 
-and love. But he grew angry at my delay, so I kissed him and ran back
+and [[Love|love]]. But he grew angry at my delay, so I kissed him and ran back
 
-to the house.
+to the [[house]].
 
 
 
-I was in such a good humour that night: Milicent told me I was the life
+I was in such a good [[Humour|humour]] that [[Night|night]]: Milicent told me I was the life
 
 of the party, and whispered she had never seen me so brilliant.
 
@@ -188,7 +188,7 @@ kindness. Grimsby stared and wondered; Hattersley laughed and jested
 
 (in spite of the little wine he had been suffered to imbibe), but still
 
-behaved as well as he knew how. Hargrave and Annabella, from different
+behaved as [[Well|well]] as he knew how. Hargrave and Annabella, from different
 
 motives and in different ways, emulated me, and doubtless both
 
@@ -198,7 +198,7 @@ the latter in boldness and animation at least. Milicent, delighted to
 
 see her husband, her brother, and her over-estimated friend acquitting
 
-themselves so well, was lively and gay too, in her quiet way. Even Lord
+themselves so [[Well|well]], was lively and gay too, in her quiet way. Even Lord
 
 Lowborough caught the general contagion: his dark greenish eyes were
 
@@ -206,17 +206,17 @@ lighted up beneath their moody brows; his sombre countenance was
 
 beautified by smiles; all traces of gloom and proud or cold reserve had
 
-vanished for the time; and he astonished us all, not only by his
+vanished for the [[Time|time]]; and he astonished us all, not only by his
 
 general cheerfulness and animation, but by the positive flashes of true
 
-force and brilliance he emitted from time to time. Arthur did not talk
+force and brilliance he emitted from [[Time|time]] to [[Time|time]]. [[arthur|Arthur]] did not talk
 
 much, but he laughed, and listened to the rest, and was in perfect
 
-good-humour, though not excited by wine. So that, altogether, we made a
+good-[[Humour|humour]], though not excited by wine. So that, altogether, we made a
 
-very merry, innocent, and entertaining party.
+very merry, [[Innocent|innocent]], and entertaining party.
 
 
 
@@ -240,7 +240,7 @@ friends? No. Had any of the servants vexed her?
 
 “Bless you, no!” said she, with a sorrowful shake of the head; and then
 
-she sighed and continued: “But to tell you the truth, ma’am, I don’t
+she sighed and continued: “But to tell you the [[Truth|truth]], ma’am, I don’t
 
 like master’s ways of going on.”
 
@@ -250,7 +250,7 @@ like master’s ways of going on.”
 
 
 
-“Well, ma’am, if you think so, it’s right.”
+“[[Well]], ma’am, if you think so, it’s right.”
 
 
 
@@ -266,7 +266,7 @@ was done, she fondly stroked it, and gently patted my head.
 
 “Is that affectionate ebullition intended for my hair, or myself,
 
-nurse?” said I, laughingly turning round upon her; but a tear was even
+[[Nurse|nurse]]?” said I, laughingly turning round upon her; but a tear was even
 
 now in her eye.
 
@@ -276,7 +276,7 @@ now in her eye.
 
 
 
-“Well, ma’am, I don’t know; but if—”
+“[[Well]], ma’am, I don’t know; but if—”
 
 
 
@@ -284,7 +284,7 @@ now in her eye.
 
 
 
-“Well, if I was you, I wouldn’t have that Lady Lowborough in the house
+“[[Well]], if I was you, I wouldn’t have that Lady Lowborough in the [[house]]
 
 another minute—not another _minute_ I wouldn’t!
 
@@ -296,9 +296,9 @@ sufficiently to demand an explanation, Milicent entered my room, as she
 
 frequently does when she is dressed before me; and she stayed with me
 
-till it was time to go down. She must have found me a very unsociable
+till it was [[Time|time]] to go down. She must have found me a very unsociable
 
-companion this time, for Rachel’s last words rang in my ears. But still
+companion this [[Time|time]], for Rachel’s last words rang in my ears. But still
 
 I hoped, I trusted they had no foundation but in some idle rumour of
 
@@ -308,7 +308,7 @@ month; or perhaps from something that had passed between their master
 
 and her during her former visit. At dinner I narrowly observed both her
 
-and Arthur, and saw nothing extraordinary in the conduct of either,
+and [[arthur|Arthur]], and saw nothing extraordinary in the conduct of either,
 
 nothing calculated to excite suspicion, except in distrustful minds,
 
@@ -324,7 +324,7 @@ last. Mr. Hargrave entered the drawing-room a little before the others,
 
 and challenged me to a game of chess. He did it without any of that sad
 
-but proud humility he usually assumes in addressing me, unless he is
+but proud [[Humility|humility]] he usually assumes in addressing me, unless he is
 
 excited with wine. I looked at his face to see if that was the case
 
@@ -358,7 +358,7 @@ for any but themselves.”
 
 “Oh, I shall be delighted to watch you!” cried our mutual friend. “Two
 
-_such_ players—it will be quite a treat! I wonder which will conquer.”
+_such_ players—it will be quite a treat! I [[Wonder|wonder]] which will conquer.”
 
 
 
@@ -370,7 +370,7 @@ I consented.
 
 board, speaking distinctly, and with a peculiar emphasis, as if he had
 
-a double meaning to all his words, “you are a good player, but I am a
+a [[Double|double]] meaning to all his words, “you are a good player, but I am a
 
 better: we shall have a long game, and you will give me some trouble;
 
@@ -380,13 +380,13 @@ He fixed his eyes upon me with a glance I did not like, keen, crafty,
 
 bold, and almost impudent;—already half triumphant in his anticipated
 
-success.
+[[success]].
 
 
 
-“I hope not, Mr. Hargrave!” returned I, with vehemence that must have
+“I [[Hope|hope]] not, Mr. Hargrave!” returned I, with vehemence that must have
 
-startled Milicent at least; but _he_ only smiled and murmured, “Time
+startled Milicent at least; but _he_ only smiled and murmured, “[[Time]]
 
 will show.”
 
@@ -402,13 +402,13 @@ serious contest, as I imagined he did, and I felt an almost
 
 superstitious dread of being beaten: at all events, I could ill endure
 
-that present success should add one tittle to his conscious power (his
+that present [[success]] should add one tittle to his conscious power (his
 
-insolent self-confidence I ought to say), or encourage for a moment his
+insolent [[Self|self]]-confidence I ought to say), or encourage for a moment his
 
 dream of future conquest. His play was cautious and deep, but I
 
-struggled hard against him. For some time the combat was doubtful: at
+struggled hard against him. For some [[Time|time]] the combat was doubtful: at
 
 length, to my joy, the victory seemed inclining to my side: I had taken
 
@@ -424,7 +424,7 @@ you think you will win, don’t you?”
 
 
 
-“I hope so,” replied I, taking his pawn that he had pushed into the way
+“I [[Hope|hope]] so,” replied I, taking his pawn that he had pushed into the way
 
 of my bishop with so careless an air that I thought it was an
 
@@ -452,7 +452,7 @@ than you still.”
 
 will find yourself checkmated before you are aware. Look to your
 
-queen.”
+[[Queen|queen]].”
 
 
 
@@ -464,15 +464,15 @@ trouble: but he was a better player than I.
 
 “What keen gamesters you are!” said Mr. Hattersley, who had now
 
-entered, and been watching us for some time. “Why, Mrs. Huntingdon,
+entered, and been watching us for some [[Time|time]]. “Why, Mrs. Huntingdon,
 
 your hand trembles as if you had staked your all upon it! and, Walter,
 
-you dog, you look as deep and cool as if you were certain of success,
+you dog, you look as deep and cool as if you were certain of [[success]],
 
-and as keen and cruel as if you would drain her heart’s blood! But if I
+and as keen and cruel as if you would drain her heart’s [[Blood|blood]]! But if I
 
-were you, I wouldn’t beat her, for very fear: she’ll hate you if you
+were you, I wouldn’t beat her, for very [[Fear|fear]]: she’ll hate you if you
 
 do—she will, by heaven! I see it in her eye.”
 
@@ -534,7 +534,7 @@ beaten me in that game.”
 
 
 
-I rose to resume my work.
+I [[Rose|rose]] to resume my work.
 
 
 
@@ -544,7 +544,7 @@ room.
 
 
 
-“Gone out with Lord Lowborough,” answered I, for he looked at me for a
+“Gone out with [[Lord Lowborough]],” answered I, for he looked at me for a
 
 reply.
 
@@ -570,7 +570,7 @@ laugh? Why did Hargrave connect them thus together? Was it true, then?
 
 And was this the dreadful secret he had wished to reveal to me? I must
 
-know, and that quickly. I instantly rose and left the room to go in
+know, and that quickly. I instantly [[Rose|rose]] and left the room to go in
 
 search of Rachel and demand an explanation of her words; but Mr.
 
@@ -616,7 +616,7 @@ Grimsby?”
 
 
 
-“Well?”
+“[[Well]]?”
 
 
 
@@ -632,13 +632,13 @@ so—”
 
 He bowed submissively, and continued: “I heard him say,—‘I shall manage
 
-it, you’ll see! They’re gone down by the water; I shall meet them
+it, you’ll see! They’re gone down by the [[Water|water]]; I shall meet them
 
 there, and tell him I want a bit of talk with him about some things
 
 that we needn’t trouble the lady with; and she’ll say she can be
 
-walking back to the house; and then I shall apologise, you know, and
+walking back to the [[house]]; and then I shall apologise, you know, and
 
 all that, and tip her a wink to take the way of the shrubbery. I’ll
 
@@ -652,17 +652,17 @@ I can find to discourse of.’” Mr. Hargrave paused, and looked at me.
 
 
 
-Without a word of comment or further questioning, I rose, and darted
+Without a word of comment or further questioning, I [[Rose|rose]], and darted
 
-from the room and out of the house. The torment of suspense was not to
+from the room and out of the [[house]]. The torment of suspense was not to
 
 be endured: I would not suspect my husband falsely, on this man’s
 
-accusation, and I would not trust him unworthily—I must know the truth
+accusation, and I would not trust him unworthily—I must know the [[Truth|truth]]
 
 at once. I flew to the shrubbery. Scarcely had I reached it, when a
 
-sound of voices arrested my breathless speed.
+sound of voices arrested my breathless [[Speed|speed]].
 
 
 
@@ -688,7 +688,7 @@ the trunk of a tree to let her pass.
 
 “Ah, Huntingdon!” said she reproachfully, pausing where I had stood
 
-with him the night before—“it was here you kissed that woman!” she
+with him the [[Night|night]] before—“it was here you kissed that woman!” she
 
 looked back into the leafy shade. Advancing thence, he answered, with a
 
@@ -696,7 +696,7 @@ careless laugh,—
 
 
 
-“Well, dearest, I couldn’t help it. You know I must keep straight with
+“[[Well]], dearest, I couldn’t help it. You know I must keep straight with
 
 her as long as I can. Haven’t I seen you kiss your dolt of a husband
 
@@ -704,11 +704,11 @@ scores of times?—and do _I_ ever complain?”
 
 
 
-“But tell me, don’t you love her still—a _little?_” said she, placing
+“But tell me, don’t you [[Love|love]] her still—a _little?_” said she, placing
 
 her hand on his arm, looking earnestly in his face—for I could see
 
-them, plainly, the moon shining full upon them from between the
+them, plainly, the [[Moon|moon]] shining full upon them from between the
 
 branches of the tree that sheltered me.
 
@@ -728,19 +728,19 @@ him, and away she flew.
 
 There he stood before me; but I had not strength to confront him now:
 
-my tongue cleaved to the roof of my mouth; I was well-nigh sinking to
+my tongue cleaved to the roof of my mouth; I was [[Well|well]]-nigh sinking to
 
 the earth, and I almost wondered he did not hear the beating of my
 
-heart above the low sighing of the wind and the fitful rustle of the
+heart above the low sighing of the [[Wind|wind]] and the fitful rustle of the
 
-falling leaves. My senses seemed to fail me, but still I saw his
+falling [[Leaves|leaves]]. My senses seemed to fail me, but still I saw his
 
 shadowy form pass before me, and through the rushing sound in my ears I
 
 distinctly heard him say, as he stood looking up the lawn,—“There goes
 
-the fool! Run, Annabella, run! There—in with you! Ah,—he didn’t see!
+the [[Fool|fool]]! Run, Annabella, run! There—in with you! Ah,—he didn’t see!
 
 That’s right, Grimsby, keep him back!” And even his low laugh reached
 
@@ -756,21 +756,21 @@ through the scant foliage above. It seemed all dim and quivering now to
 
 my darkened sight. My burning, bursting heart strove to pour forth its
 
-agony to God, but could not frame its anguish into prayer; until a gust
+agony to God, but could not frame its anguish into [[Prayer|prayer]]; until a gust
 
-of wind swept over me, which, while it scattered the dead leaves, like
+of [[Wind|wind]] swept over me, which, while it scattered the dead [[Leaves|leaves]], like
 
 blighted hopes, around, cooled my forehead, and seemed a little to
 
-revive my sinking frame. Then, while I lifted up my soul in speechless,
+revive my sinking frame. Then, while I lifted up my [[Soul|soul]] in speechless,
 
 earnest supplication, some heavenly influence seemed to strengthen me
 
 within: I breathed more freely; my vision cleared; I saw distinctly the
 
-pure moon shining on, and the light clouds skimming the clear, dark
+pure [[Moon|moon]] shining on, and the light clouds skimming the clear, dark
 
-sky; and then I saw the eternal stars twinkling down upon me; I knew
+sky; and then I saw the eternal [[Stars|stars]] twinkling down upon me; I knew
 
 their God was mine, and He was strong to save and swift to hear. “I
 
@@ -784,11 +784,11 @@ win a glorious rest at last!
 
 
 
-Refreshed, invigorated, if not composed, I rose and returned to the
+Refreshed, invigorated, if not composed, I [[Rose|rose]] and returned to the
 
-house. Much of my new-born strength and courage forsook me, I confess,
+[[house]]. Much of my new-born strength and [[Courage|courage]] forsook me, I confess,
 
-as I entered it, and shut out the fresh wind and the glorious sky:
+as I entered it, and shut out the fresh [[Wind|wind]] and the glorious sky:
 
 everything I saw and heard seemed to sicken my heart—the hall, the
 
@@ -796,7 +796,7 @@ lamp, the staircase, the doors of the different apartments, the social
 
 sound of talk and laughter from the drawing-room. How could I bear my
 
-future life! In this house, among those people—oh, how could I endure
+future life! In this [[house]], among those people—oh, how could I endure
 
 to live! John just then entered the hall, and seeing me, told me he had
 
@@ -808,23 +808,23 @@ master wished to know if I were coming.
 
 “Ask Mrs. Hattersley to be so kind as to make the tea, John,” said I.
 
-“Say I am not well to-night, and wish to be excused.”
+“Say I am not [[Well|well]] to-[[Night|night]], and wish to be excused.”
 
 
 
-I retired into the large, empty dining-room, where all was silence and
+I retired into the large, empty dining-room, where all was [[Silence|silence]] and
 
-darkness, but for the soft sighing of the wind without, and the faint
+darkness, but for the soft sighing of the [[Wind|wind]] without, and the faint
 
 gleam of moonlight that pierced the blinds and curtains; and there I
 
-walked rapidly up and down, thinking of my bitter thoughts alone. How
+walked rapidly up and down, thinking of my bitter thoughts [[Alone|alone]]. How
 
 different was this from the evening of yesterday! _That_, it seems, was
 
-the last expiring flash of my life’s happiness. Poor, blinded fool that
+the last expiring flash of my life’s happiness. Poor, blinded [[Fool|fool]] that
 
-I was to be so happy! I could now see the reason of Arthur’s strange
+I was to be so happy! I could now see the reason of [[arthur|Arthur]]’s strange
 
 reception of me in the shrubbery; the burst of kindness was for his
 
@@ -832,7 +832,7 @@ paramour, the start of horror for his wife. Now, too, I could better
 
 understand the conversation between Hattersley and Grimsby; it was
 
-doubtless of his love for _her_ they spoke, not for me.
+doubtless of his [[Love|love]] for _her_ they spoke, not for me.
 
 
 
@@ -842,7 +842,7 @@ ante-room, crossed the hall, and ascended the stairs. It was Milicent,
 
 poor Milicent, gone to see how I was—no one else cared for me; but
 
-_she_ still was kind. I shed no tears before, but now they came, fast
+_she_ still was kind. I shed no [[Tears|tears]] before, but now they came, fast
 
 and free. Thus she did me good, without approaching me. Disappointed in
 
@@ -856,19 +856,19 @@ knew not how to meet her, or what to say. I wanted no confidante in my
 
 distress. I deserved none, and I wanted none. I had taken the burden
 
-upon myself; let me bear it alone.
+upon myself; let me bear it [[Alone|alone]].
 
 
 
 As the usual hour of retirement approached I dried my eyes, and tried
 
-to clear my voice and calm my mind. I must see Arthur to-night, and
+to clear my voice and calm my mind. I must see [[arthur|Arthur]] to-[[Night|night]], and
 
 speak to him; but I would do it calmly: there should be no
 
 scene—nothing to complain or to boast of to his companions—nothing to
 
-laugh at with his lady-love. When the company were retiring to their
+laugh at with his lady-[[Love|love]]. When the company were retiring to their
 
 chambers I gently opened the door, and just as he passed, beckoned him
 
@@ -876,11 +876,11 @@ in.
 
 
 
-“What’s to do with _you_, Helen?” said he. “Why couldn’t you come to
+“What’s to do with _you_, [[Helen]]?” said he. “Why couldn’t you come to
 
 make tea for us? and what the deuce are you here for, in the dark? What
 
-ails you, young woman: you look like a ghost!” he continued, surveying
+ails you, young woman: you look like a [[Ghost|ghost]]!” he continued, surveying
 
 me by the light of his candle.
 
@@ -898,17 +898,17 @@ it appears; and I have no longer any for you.”
 
 “I would leave you to-morrow,” continued I, “and never again come under
 
-this roof, but for my child”—I paused a moment to steady, my voice.
+this roof, but for my [[Child|child]]”—I paused a moment to steady, my voice.
 
 
 
-“What in the devil’s name _is_ this, Helen?” cried he. “What can you be
+“What in the devil’s name _is_ this, [[Helen]]?” cried he. “What can you be
 
 driving at?”
 
 
 
-“You know perfectly well. Let us waste no time in useless explanation,
+“You know perfectly [[Well|well]]. Let us waste no [[Time|time]] in useless explanation,
 
 but tell me, will you—?”
 
@@ -918,13 +918,13 @@ He vehemently swore he knew nothing about it, and insisted upon hearing
 
 what poisonous old woman had been blackening his name, and what
 
-infamous lies I had been fool enough to believe.
+infamous lies I had been [[Fool|fool]] enough to believe.
 
 
 
 “Spare yourself the trouble of forswearing yourself and racking your
 
-brains to stifle truth with falsehood,” I coldly replied. “I have
+brains to stifle [[Truth|truth]] with falsehood,” I coldly replied. “I have
 
 trusted to the testimony of no third person. I was in the shrubbery
 
@@ -942,13 +942,13 @@ stood confronting me with folded arms.
 
 
 
-“Well, what then?” said he, with the calm insolence of mingled
+“[[Well]], what then?” said he, with the calm insolence of mingled
 
 shamelessness and desperation.
 
 
 
-“Only this,” returned I; “will you let me take our child and what
+“Only this,” returned I; “will you let me take our [[Child|child]] and what
 
 remains of my fortune, and go?”
 
@@ -968,11 +968,11 @@ I shall be delivered from your presence, and you from mine.”
 
 
 
-“Will you let me have the child then, without the money?”
+“Will you let me have the [[Child|child]] then, without the money?”
 
 
 
-“No, nor yourself without the child. Do you think I’m going to be made
+“No, nor yourself without the [[Child|child]]. Do you think I’m going to be made
 
 the talk of the country for your fastidious caprices?”
 
@@ -988,9 +988,9 @@ husband and wife only in the name.”
 
 
 
-“I am your child’s mother, and _your_ housekeeper, nothing more. So you
+“I am your [[Child|child]]’s mother, and _your_ housekeeper, nothing more. So you
 
-need not trouble yourself any longer to feign the love you cannot feel:
+need not trouble yourself any longer to feign the [[Love|love]] you cannot feel:
 
 I will exact no more heartless caresses from you, nor offer nor endure
 
@@ -1008,11 +1008,11 @@ lady.”
 
 “If I tire, it will be of living in the world with you: not of living
 
-without your mockery of love. When _you_ tire of your sinful ways, and
+without your mockery of [[Love|love]]. When _you_ tire of your sinful ways, and
 
 show yourself truly repentant, I will forgive you, and, perhaps, try to
 
-love you again, though that will be hard indeed.”
+[[Love|love]] you again, though that will be hard indeed.”
 
 
 
@@ -1052,7 +1052,7 @@ her words.
 
 “But don’t _you_ trouble yourself about it,” said I, kissing her pale,
 
-time-wasted cheek. “I can bear it better than you imagine.”
+[[Time|time]]-wasted cheek. “I can bear it better than you imagine.”
 
 
 
@@ -1076,19 +1076,19 @@ and burst my heart with keeping it in.”
 
 “I _have_ cried,” said I, smiling, in spite of my misery; “and I _am_
 
-calm now, really: so don’t discompose me again, nurse: let us say no
+calm now, really: so don’t discompose me again, [[Nurse|nurse]]: let us say no
 
 more about it, and _don’t_ mention it to the servants. There, you may
 
-go now. Good-night; and don’t disturb your rest for me: I shall sleep
+go now. Good-[[Night|night]]; and don’t disturb your rest for me: I shall [[Sleep|sleep]]
 
-well—if I can.”
+[[Well|well]]—if I can.”
 
 
 
 Notwithstanding this resolution, I found my bed so intolerable that,
 
-before two o’clock, I rose, and lighting my candle by the rushlight
+before two o’[[Clock|clock]], I [[Rose|rose]], and lighting my candle by the rushlight
 
 that was still burning, I got my desk and sat down in my dressing-gown
 
@@ -1100,9 +1100,9 @@ of the far past and anticipations of the dreadful future. I have found
 
 relief in describing the very circumstances that have destroyed my
 
-peace, as well as the little trivial details attendant upon their
+peace, as [[Well|well]] as the little trivial details attendant upon their
 
-discovery. No sleep I could have got this night would have done so much
+discovery. No [[Sleep|sleep]] I could have got this [[Night|night]] would have done so much
 
 towards composing my mind, and preparing me to meet the trials of the
 
@@ -1114,18 +1114,18 @@ my haggard, worn appearance.
 
 
 
-Rachel has been to dress me, and says I have had a sad night of it, she
+Rachel has been to dress me, and says I have had a sad [[Night|night]] of it, she
 
 can see. Milicent has just looked in to ask me how I was. I told her I
 
 was better, but to excuse my appearance admitted I had had a restless
 
-night. I wish this day were over! I shudder at the thoughts of going
+[[Night|night]]. I wish this day were over! I shudder at the thoughts of going
 
 down to breakfast. How shall I encounter them all? Yet let me remember
 
-it is not _I_ that am guilty: _I_ have no cause to fear; and if _they_
+it is not _I_ that am guilty: _I_ have no cause to [[Fear|fear]]; and if _they_
 
-scorn me as a victim of their guilt, I can pity their folly and despise
+scorn me as a victim of their [[Guilt|guilt]], I can pity their folly and despise
 
 their scorn.

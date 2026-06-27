@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered-8 — ON POLITICAL SECRECY"
+title: "[[AllThingsConsidered-8]] — ON POLITICAL SECRECY"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
@@ -20,7 +20,7 @@ ON POLITICAL SECRECY
 Generally, instinctively, in the absence of any special reason,
 humanity hates the idea of anything being hidden--that is,
 it hates the idea of anything being successfully hidden.
-Hide-and-seek is a popular pastime; but it assumes the truth
+Hide-and-seek is a popular pastime; but it assumes the [[Truth|truth]]
 of the text, "Seek and ye shall find."  Ordinary mankind
 (gigantic and unconquerable in its power of joy) can get a great
 deal of pleasure out of a game called "hide the thimble,"
@@ -28,23 +28,23 @@ but that is only because it is really a game of "see the thimble."
 Suppose that at the end of such a game the thimble had not
 been found at all; suppose its place was unknown for ever:
 the result on the players would not be playful, it would be tragic.
-That thimble would hag-ride all their dreams.  They would all die
+That thimble would hag-ride all their [[Dreams|dreams]].  They would all die
 in asylums.  The pleasure is all in the poignant moment of passing
 from not knowing to knowing.  Mystery stories are very popular,
 especially when sold at sixpence; but that is because the author of a
 mystery story reveals.  He is enjoyed not because he creates mystery,
-but because he destroys mystery.  Nobody would have the courage
-to publish a detective-story which left the problem exactly where it
-found it.  That would rouse even the London public to revolution.
-No one dare publish a detective-story that did not detect.
+but because he destroys mystery.  Nobody would have the [[Courage|courage]]
+to publish a [[Detective|detective]]-story which left the problem exactly where it
+found it.  That would rouse even the [[London]] public to revolution.
+No one dare publish a [[Detective|detective]]-story that did not detect.
 
 There are three broad classes of the special things in which human
 wisdom does permit privacy.  The first is the case I have mentioned--
-that of hide-and-seek, or the police novel, in which it
+that of hide-and-seek, or the police [[Novel|novel]], in which it
 permits privacy only in order to explode and smash privacy.
 The author makes first a fastidious secret of how the Bishop
 was murdered, only in order that he may at last declare,
-as from a high tower, to the whole democracy the great glad
+as from a high tower, to the whole [[democracy]] the great glad
 news that he was murdered by the governess.  In that case,
 ignorance is only valued because being ignorant is the best and purest
 preparation for receiving the horrible revelations of high life.
@@ -71,11 +71,11 @@ Then there is a third class of things on which the best civilisation
 does permit privacy, does resent all inquiry or explanation.
 This is in the case of things which need not be explained, because they
 cannot be explained, things too airy, instinctive, or intangible--
-caprices, sudden impulses, and the more innocent kind of prejudice.
+caprices, sudden impulses, and the more [[Innocent|innocent]] kind of prejudice.
 A man must not be asked why he is talkative or silent, for the simple
-reason that he does not know.  A man is not asked (even in Germany)
+reason that he does not know.  A man is not asked (even in [[Germany]])
 why he walks slow or quick, simply because he could not answer.
-A man must take his own road through a wood, and make his own
+A man must take his own [[Road|road]] through a wood, and make his own
 use of a holiday.  And the reason is this:  not because he has
 a strong reason, but actually because he has a weak reason;
 because he has a slight and fleeting feeling about the matter
@@ -92,7 +92,7 @@ comments upon the problem of the secrecy of certain parts of our
 political finance, and especially of the problem of the party funds.
 Some papers have failed entirely to understand what the quarrel is about.
 They have urged that Irish members and Labour members are also
-under the shadow, or, as some have said, even more under it.
+under the [[Shadow|shadow]], or, as some have said, even more under it.
 The ground of this frantic statement seems, when patiently considered,
 to be simply this:  that Irish and Labour members receive money for
 what they do.  All persons, as far as I know, on this earth receive
@@ -106,7 +106,7 @@ money is given rightly and some wrongly, an elementary common-sense
 leads us to look with indifference at the money that is given
 in the middle of Ludgate Circus, and to look with particular
 suspicion at the money which a man will not give unless he is shut up
-in a box or a bathing-machine. In short, it is too silly to suppose
+in a box or a bathing-[[Machine|machine]]. In short, it is too silly to suppose
 that anybody could ever have discussed the desirability of funds.
 The only thing that even idiots could ever have discussed is
 the concealment of funds.  Therefore, the whole question that we have
@@ -119,8 +119,8 @@ Can this institution be defended by means of any of them?
 
 Now the question is whether this political secrecy is of any of
 the kinds that can be called legitimate.  We have roughly divided
-legitimate secrets into three classes.  First comes the secret that
-is only kept in order to be revealed, as in the detective stories;
+legitimate [[Secrets|secrets]] into three classes.  First comes the secret that
+is only kept in order to be revealed, as in the [[Detective|detective]] stories;
 secondly, the secret which is kept because everybody knows it, as in sex;
 and third, the secret which is kept because it is too delicate and
 vague to be explained at all, as in the choice of a country walk.
@@ -128,18 +128,18 @@ Do any of these broad human divisions cover such a case as that of
 secrecy of the political and party finances?  It would be absurd,
 and even delightfully absurd, to pretend that any of them did.
 It would be a wild and charming fancy to suggest that our politicians
-keep political secrets only that they may make political revelations.
+keep political [[Secrets|secrets]] only that they may make political revelations.
 A modern peer only pretends that he has earned his peerage
 in order that he may more dramatically declare, with a scream
 of scorn and joy, that he really bought it.  The Baronet pretends
 that he deserved his title only in order to make more exquisite
 and startling the grand historical fact that he did not deserve it.
 Surely this sounds improbable.  Surely all our statesmen cannot be
-saving themselves up for the excitement of a death-bed repentance.
-The writer of detective tales makes a man a duke solely in order
+saving themselves up for the excitement of a [[Death|death]]-bed repentance.
+The writer of [[Detective|detective]] tales makes a man a duke solely in order
 to blast him with a charge of burglary.  But surely the Prime Minister
 does not make a man a duke solely in order to blast him with a
-charge of bribery.  No; the detective-tale theory of the secrecy
+charge of bribery.  No; the [[Detective|detective]]-tale theory of the secrecy
 of political funds must (with a sigh) be given up.
 
 Neither can we say that the thing is explained by that second case
@@ -157,10 +157,10 @@ secrecy, the case is even clearer and even more funny.
 Surely no one will say that the purchase of peerages and such
 things are kept secret because they are so light and impulsive
 and unimportant that they must be matters of individual fancy.
-A child sees a flower and for the first time feels inclined to pick it.
+A [[Child|child]] sees a flower and for the first [[Time|time]] feels inclined to pick it.
 But surely no one will say that a brewer sees a coronet and for
-the first time suddenly thinks that he would like to be a peer.
-The child's impulse need not be explained to the police,
+the first [[Time|time]] suddenly thinks that he would like to be a peer.
+The [[Child|child]]'s impulse need not be explained to the police,
 for the simple reason that it could not be explained to anybody.
 But does any one believe that the laborious political ambitions of modern
 commercial men ever have this airy and incommunicable character?
@@ -168,7 +168,7 @@ A man lying on the beach may throw stones into the sea without any
 particular reason.  But does any one believe that the brewer throws
 bags of gold into the party funds without any particular reason?
 This theory of the secrecy of political money must also be regretfully
-abandoned; and with it the two other possible excuses as well.
+abandoned; and with it the two other possible excuses as [[Well|well]].
 This secrecy is one which cannot be justified as a sensational joke nor
 as a common human freemasonry, nor as an indescribable personal whim.
 Strangely enough, indeed, it violates all three conditions
@@ -178,7 +178,7 @@ a common secret of mankind, but because mankind must not get hold of it.
 And it is not kept secret because it is too unimportant to be told,
 but because it is much too important to bear telling.  In short,
 the thing we have is the real and perhaps rare political phenomenon
-of an occult government.  We have an exoteric and an esoteric doctrine.
+of an occult [[government]].  We have an exoteric and an esoteric doctrine.
 England is really ruled by priestcraft, but not by priests.
 We have in this country all that has ever been alleged against the evil
 side of religion; the peculiar class with privileges, the sacred words

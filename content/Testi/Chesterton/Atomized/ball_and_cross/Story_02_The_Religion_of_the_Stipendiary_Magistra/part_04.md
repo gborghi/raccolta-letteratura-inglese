@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Religion of the Stipendiary Magistrate (part 4)"
+title: "ball and [[Cross|cross]] — The Religion of the Stipendiary Magistrate (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -26,7 +26,7 @@ In case of accidents, however, I must bind you over to keep the peace."
 "Certainly not," answered MacIan.  "What has he to do with peace?"
 
 "Do you mean to say," began the magistrate, "that you refuse to..."
-The voice of Turnbull himself clove in for the first time.
+The voice of Turnbull himself clove in for the first [[Time|time]].
 
 "Might I suggest," he said, "That I, your worship, can settle to
 some extent this absurd matter myself.  This rather wild gentleman
@@ -38,7 +38,7 @@ to say that I think that it is highly probable that he will.
 (Laughter.) But it takes two to make a duel, your worship
 (renewed laughter).  I do not in the least mind being described
 on every wall in the world as the coward who would not fight
-a man in Fleet Street, about whether the Virgin Mary had
+a man in Fleet Street, about whether the [[Virgin Mary]] had
 a parallel in Mesopotamian mythology.  No, your worship.
 You need not trouble to bind him over to keep the peace.
 I bind myself over to keep the peace, and you may rest quite
@@ -48,10 +48,10 @@ Mr. Cumberland Vane rolled about, laughing in a sort of relief.
 
 "You're like a breath of April, sir," he cried.  "You're ozone
 after that fellow.  You're perfectly right.  Perhaps I have taken
-the thing too seriously.  I should love to see him sending you
-challenges and to see you smiling.  Well, well."
+the thing too seriously.  I should [[Love|love]] to see him sending you
+challenges and to see you smiling.  [[Well]], [[Well|well]]."
 
-Evan went out of the Court of Justice free, but strangely shaken,
+Evan went out of the [[Court]] of Justice free, but strangely shaken,
 like a sick man.  Any punishment of suppression he would have
 felt as natural; but the sudden juncture between the laughter
 of his judge and the laughter of the man he had wronged, made him
@@ -59,10 +59,10 @@ feel suddenly small, or at least, defeated.  It was really true
 that the whole modern world regarded his world as a bubble.
 No cruelty could have shown it, but their kindness showed it
 with a ghastly clearness.  As he was brooding, he suddenly became
-conscious of a small, stern figure, fronting him in silence.
+conscious of a small, stern figure, fronting him in [[Silence|silence]].
 Its eyes were grey and awful, and its beard red.  It was Turnbull.
 
-"Well, sir," said the editor of _The Atheist_, "where is the fight to be?
+"[[Well]], sir," said the editor of _The Atheist_, "where is the fight to be?
 Name the field, sir."
 
 Evan stood thunderstruck.  He stammered out something, he knew not what;
@@ -72,15 +72,15 @@ he only guessed it by the answer of the other.
 Free-thinker. "Why, you moonstruck scarecrow of superstition,
 do you think your dirty saints are the only people who can die?
 Haven't you hung atheists, and burned them, and boiled them, and did
-they ever deny their faith?  Do you think we don't want to fight?
-Night and day I have prayed--I have longed--for an atheist revolution--
-I have longed to see your blood and ours on the streets.
+they ever deny their [[Faith|faith]]?  Do you think we don't want to fight?
+[[Night]] and day I have prayed--I have longed--for an atheist revolution--
+I have longed to see your [[Blood|blood]] and ours on the streets.
 Let it be yours or mine?"
 
 "But you said..." began MacIan.
 
 "I know," said Turnbull scornfully.  "And what did you say?
-You damned fool, you said things that might have got us locked
+You damned [[Fool|fool]], you said things that might have got us locked
 up for a year, and shadowed by the coppers for half a decade.
 If you wanted to fight, why did you tell that ass you wanted to?
 I got you out, to fight if you want to.  Now, fight if you dare."
@@ -90,8 +90,8 @@ that nothing shall come between us.  I swear to you that nothing
 shall be in my heart or in my head till our swords clash together.
 I swear it by the God you have denied, by the Blessed Lady you
 have blasphemed; I swear it by the seven swords in her heart.
-I swear it by the Holy Island where my fathers are, by the honour
+I swear it by the Holy Island where my fathers are, by the [[Honour|honour]]
 of my mother, by the secret of my people, and by the chalice
-of the Blood of God."
+of the [[Blood]] of God."
 
 The atheist drew up his head.  "And I," he said, "give my word."

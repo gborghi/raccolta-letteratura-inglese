@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 7 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 7 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -18,13 +18,13 @@ An inquiry now took place into the intended movements of the young
 
 ladies; and, on finding whither they were going, it was decided that
 
-the gentlemen should accompany them to Edgar’s Buildings, and pay their
+the gentlemen should accompany them to [[Edgar]]’s Buildings, and pay their
 
-respects to Mrs. Thorpe. James and Isabella led the way; and so well
+respects to Mrs. Thorpe. James and [[Isabella]] led the way; and so [[Well|well]]
 
 satisfied was the latter with her lot, so contentedly was she
 
-endeavouring to ensure a pleasant walk to him who brought the double
+endeavouring to ensure a pleasant walk to him who brought the [[Double|double]]
 
 recommendation of being her brother’s friend, and her friend’s brother,
 
@@ -38,9 +38,9 @@ three times.
 
 
 
-John Thorpe kept of course with Catherine, and, after a few minutes’
+[[John Thorpe]] kept of course with Catherine, and, after a few minutes’
 
-silence, renewed the conversation about his gig. “You will find,
+[[Silence|silence]], renewed the conversation about his gig. “You will find,
 
 however, Miss Morland, it would be reckoned a cheap thing by some
 
@@ -48,17 +48,17 @@ people, for I might have sold it for ten guineas more the next day;
 
 Jackson, of Oriel, bid me sixty at once; Morland was with me at the
 
-time.”
+[[Time|time]].”
 
 
 
 “Yes,” said Morland, who overheard this; “but you forget that your
 
-horse was included.”
+[[Horse|horse]] was included.”
 
 
 
-“My horse! oh, d—— it! i would not sell my horse for a hundred. Are you
+“My [[Horse|horse]]! oh, d—— it! i would not sell my [[Horse|horse]] for a hundred. Are you
 
 fond of an open carriage, Miss Morland?”
 
@@ -74,17 +74,17 @@ particularly fond of it.”
 
 
 
-“Thank you,” said Catherine, in some distress, from a doubt of the
+“Thank you,” said Catherine, in some distress, from a [[Doubt|doubt]] of the
 
 propriety of accepting such an offer.
 
 
 
-“I will drive you up Lansdown Hill to-morrow.”
+“I will drive you up Lansdown [[Hill]] to-morrow.”
 
 
 
-“Thank you; but will not your horse want rest?”
+“Thank you; but will not your [[Horse|horse]] want rest?”
 
 
 
@@ -104,13 +104,13 @@ miles a day.”
 
 
 
-“Forty! aye, fifty, for what I care. Well, I will drive you up Lansdown
+“Forty! aye, fifty, for what I care. [[Well]], I will drive you up Lansdown
 
 to-morrow; mind, I am engaged.”
 
 
 
-“How delightful that will be!” cried Isabella, turning round. “My
+“How delightful that will be!” cried [[Isabella]], turning round. “My
 
 dearest Catherine, I quite envy you; but I am afraid, brother, you will
 
@@ -120,7 +120,7 @@ not have room for a third.”
 
 “A third indeed! no, no; I did not come to Bath to drive my sisters
 
-about; that would be a good joke, faith! morland must take care of
+about; that would be a good joke, [[Faith|faith]]! morland must take care of
 
 you.”
 
@@ -140,7 +140,7 @@ long as she could, with all the civility and deference of the youthful
 
 female mind, fearful of hazarding an opinion of its own in opposition
 
-to that of a self-assured man, especially where the beauty of her own
+to that of a [[Self|self]]-assured man, especially where the [[Beauty|beauty]] of her own
 
 sex is concerned, ventured at length to vary the subject by a question
 
@@ -162,7 +162,7 @@ question, but he prevented her by saying, “Novels are all so full of
 
 nonsense and stuff; there has not been a tolerably decent one come out
 
-since Tom Jones, except The Monk; I read that t’other day; but as for
+since Tom [[Jones]], except The Monk; I read that t’other day; but as for
 
 all the others, they are the stupidest things in creation.”
 
@@ -174,9 +174,9 @@ interesting.”
 
 
 
-“Not I, faith! no, if I read any, it shall be Mrs. Radcliffe’s; her
+“Not I, [[Faith|faith]]! no, if I read any, it shall be Mrs. Radcliffe’s; her
 
-novels are amusing enough; they are worth reading; some fun and nature
+novels are amusing enough; they are worth reading; some fun and [[Nature|nature]]
 
 in _them_.”
 
@@ -184,7 +184,7 @@ in _them_.”
 
 “Udolpho was written by Mrs. Radcliffe,” said Catherine, with some
 
-hesitation, from the fear of mortifying him.
+hesitation, from the [[Fear|fear]] of mortifying him.
 
 
 
@@ -220,7 +220,7 @@ sure I should never be able to get through it.”
 
 imagine; there is nothing in the world in it but an old man’s playing
 
-at see-saw and learning Latin; upon my soul there is not.”
+at see-saw and learning Latin; upon my [[Soul|soul]] there is not.”
 
 
 
@@ -236,7 +236,7 @@ Thorpe, who had descried them from above, in the passage. “Ah, Mother!
 
 How do you do?” said he, giving her a hearty shake of the hand. “Where
 
-did you get that quiz of a hat? It makes you look like an old witch.
+did you get that quiz of a hat? It makes you look like an old [[Witch|witch]].
 
 Here is Morland and I come to stay a few days with you, so you must
 
@@ -256,10 +256,10 @@ they both looked very ugly.
 
 These manners did not please Catherine; but he was James’s friend and
 
-Isabella’s brother; and her judgment was further bought off by
+[[Isabella]]’s brother; and her judgment was further bought off by
 
-Isabella’s assuring her, when they withdrew to see the new hat, that
+[[Isabella]]’s assuring her, when they withdrew to see the new hat, that
 
 John thought her the most charming girl in the world, and by John’s
 
-engaging her before they parted to dance with him that evening. Had she
+engaging her before they parted to [[Dance|dance]] with him that evening. Had she

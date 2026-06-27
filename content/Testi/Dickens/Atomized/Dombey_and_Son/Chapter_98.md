@@ -18,18 +18,18 @@ CHAPTER XLII.
 Confidential and Accidental
 
 
-Attired no more in Captain Cuttle’s sable slops and sou’-wester hat,
+Attired no more in [[Captain Cuttle]]’s sable slops and sou’-wester hat,
 but dressed in a substantial suit of brown livery, which, while it
 affected to be a very sober and demure livery indeed, was really as
-self-satisfied and confident a one as tailor need desire to make, Rob
+[[Self|self]]-satisfied and confident a one as tailor need [[Desire|desire]] to make, Rob
 the Grinder, thus transformed as to his outer man, and all regardless
 within of the Captain and the Midshipman, except when he devoted a few
-minutes of his leisure time to crowing over those inseparable worthies,
+minutes of his leisure [[Time|time]] to crowing over those inseparable worthies,
 and recalling, with much applauding music from that brazen instrument,
-his conscience, the triumphant manner in which he had disembarrassed
+his [[Conscience|conscience]], the triumphant manner in which he had disembarrassed
 himself of their company, now served his patron, Mr Carker. Inmate of
-Mr Carker’s house, and serving about his person, Rob kept his round
-eyes on the white teeth with fear and trembling, and felt that he had
+Mr Carker’s [[house]], and serving about his person, Rob kept his round
+eyes on the white teeth with [[Fear|fear]] and trembling, and felt that he had
 need to open them wider than ever.
 
 He could not have quaked more, through his whole being, before the
@@ -41,7 +41,7 @@ considered himself safe in thinking about him when he was absent, lest
 he should feel himself immediately taken by the throat again, as on the
 morning when he first became bound to him, and should see every one of
 the teeth finding him out, and taxing him with every fancy of his mind.
-Face to face with him, Rob had no more doubt that Mr Carker read his
+Face to face with him, Rob had no more [[Doubt|doubt]] that Mr Carker read his
 secret thoughts, or that he could read them by the least exertion of
 his will if he were so inclined, than he had that Mr Carker saw him
 when he looked at him. The ascendancy was so complete, and held him in
@@ -56,13 +56,13 @@ have been an act of no common temerity to inquire—whether he yielded so
 completely to this influence in any part, because he had floating
 suspicions of his patron’s being a master of certain treacherous arts
 in which he had himself been a poor scholar at the Grinders’ School.
-But certainly Rob admired him, as well as feared him. Mr Carker,
+But certainly Rob admired him, as [[Well|well]] as feared him. Mr Carker,
 perhaps, was better acquainted with the sources of his power, which
 lost nothing by his management of it.
 
-On the very night when he left the Captain’s service, Rob, after
+On the very [[Night|night]] when he left the Captain’s service, Rob, after
 disposing of his pigeons, and even making a bad bargain in his hurry,
-had gone straight down to Mr Carker’s house, and hotly presented
+had gone straight down to Mr Carker’s [[house]], and hotly presented
 himself before his new master with a glowing face that seemed to expect
 commendation.
 
@@ -115,7 +115,7 @@ into mine, eh?” said Mr Carker.
 his patron’s own instructions, but dared not justify himself by the
 least insinuation to that effect.
 
-“Well!” said Mr Carker. “You know me, boy?”
+“[[Well]]!” said Mr Carker. “You know me, boy?”
 
 “Please, Sir, yes, Sir,” returned Rob, tumbling with his hat, and still
 fixed by Mr Carker’s eye, and fruitlessly endeavouring to unfix
@@ -140,7 +140,7 @@ Rob obeyed as if his life had depended on his alacrity.
 His patron nodded. “And watching, and so forth.”
 
 “I wouldn’t do such a thing here, Sir,” answered Rob; “upon my word and
-honour, I wouldn’t, Sir, I wish I may die if I would, Sir, for anything
+[[Honour|honour]], I wouldn’t, Sir, I wish I may die if I would, Sir, for anything
 that could be promised to me. I should consider it is as much as all
 the world was worth, to offer to do such a thing, unless I was ordered,
 Sir.”
@@ -153,8 +153,8 @@ with his forefinger.
 The Grinder’s breath came short and thick with consternation. He tried
 to protest the purity of his intentions, but could only stare at the
 smiling gentleman in a stupor of submission, with which the smiling
-gentleman seemed well enough satisfied, for he ordered him downstairs,
-after observing him for some moments in silence, and gave him to
+gentleman seemed [[Well|well]] enough satisfied, for he ordered him downstairs,
+after observing him for some moments in [[Silence|silence]], and gave him to
 understand that he was retained in his employment.
 
 This was the manner of Rob the Grinder’s engagement by Mr Carker, and
@@ -162,13 +162,13 @@ his awe-stricken devotion to that gentleman had strengthened and
 increased, if possible, with every minute of his service.
 
 It was a service of some months’ duration, when early one morning, Rob
-opened the garden gate to Mr Dombey, who was come to breakfast with his
+opened the [[Garden|garden]] gate to Mr Dombey, who was come to breakfast with his
 master, by appointment. At the same moment his master himself came,
 hurrying forth to receive the distinguished guest, and give him welcome
 with all his teeth.
 
 “I never thought,” said Carker, when he had assisted him to alight from
-his horse, “to see you here, I’m sure. This is an extraordinary day in
+his [[Horse|horse]], “to see you here, I’m sure. This is an extraordinary day in
 my calendar. No occasion is very special to a man like you, who may do
 anything; but to a man like me, the case is widely different.”
 
@@ -178,19 +178,19 @@ to stop upon the lawn, to look about him.
 “You can afford to say so,” returned Carker. “Thank you.”
 
 “Indeed,” said Mr Dombey, in his lofty patronage, “anyone might say so.
-As far as it goes, it is a very commodious and well-arranged
+As far as it goes, it is a very commodious and [[Well|well]]-arranged
 place—quite elegant.”
 
 “As far as it goes, truly,” returned Carker, with an air of
-disparagement. “It wants that qualification. Well! we have said enough
+disparagement. “It wants that qualification. [[Well]]! we have said enough
 about it; and though you can afford to praise it, I thank you
 nonetheless. Will you walk in?”
 
-Mr Dombey, entering the house, noticed, as he had reason to do, the
+Mr Dombey, entering the [[house]], noticed, as he had reason to do, the
 complete arrangement of the rooms, and the numerous contrivances for
 comfort and effect that abounded there. Mr Carker, in his ostentation
-of humility, received this notice with a deferential smile, and said he
-understood its delicate meaning, and appreciated it, but in truth the
+of [[Humility|humility]], received this notice with a deferential smile, and said he
+understood its delicate meaning, and appreciated it, but in [[Truth|truth]] the
 cottage was good enough for one in his position—better, perhaps, than
 such a man should occupy, poor as it was.
 
@@ -201,7 +201,7 @@ beggars.”
 
 He directed a sharp glance and a sharp smile at Mr Dombey as he spoke,
 and a sharper glance, and a sharper smile yet, when Mr Dombey, drawing
-himself up before the fire, in the attitude so often copied by his
+himself up before the [[Fire|fire]], in the attitude so often copied by his
 second in command, looked round at the pictures on the walls. Cursorily
 as his cold eye wandered over them, Carker’s keen glance accompanied
 his, and kept pace with his, marking exactly where it went, and what it
@@ -226,18 +226,18 @@ raising his eyes from the table-cloth. As to Rob, who was in
 attendance, all his faculties and energies were so locked up in
 observation of his master, that he scarcely ventured to give shelter to
 the thought that the visitor was the great gentleman before whom he had
-been carried as a certificate of the family health, in his childhood,
+been carried as a certificate of the family health, in his [[Childhood|childhood]],
 and to whom he had been indebted for his leather smalls.
 
 “Allow me,” said Carker suddenly, “to ask how Mrs Dombey is?”
 
 He leaned forward obsequiously, as he made the inquiry, with his chin
-resting on his hand; and at the same time his eyes went up to the
+resting on his hand; and at the same [[Time|time]] his eyes went up to the
 picture, as if he said to it, “Now, see, how I will lead him on!”
 
 Mr Dombey reddened as he answered:
 
-“Mrs Dombey is quite well. You remind me, Carker, of some conversation
+“Mrs Dombey is quite [[Well|well]]. You remind me, Carker, of some conversation
 that I wish to have with you.”
 
 “Robin, you can leave us,” said his master, at whose mild tones Robin
@@ -248,17 +248,17 @@ Grinder was gone.
 “No,” said Mr Dombey, with magnificent indifference.
 
 “Not likely that a man like you would. Hardly possible,” murmured
-Carker. “But he is one of that family from whom you took a nurse.
+Carker. “But he is one of that family from whom you took a [[Nurse|nurse]].
 Perhaps you may remember having generously charged yourself with his
-education?”
+[[Education|education]]?”
 
 “Is it that boy?” said Mr Dombey, with a frown. “He does little credit
-to his education, I believe.”
+to his [[Education|education]], I believe.”
 
 “Why, he is a young rip, I am afraid,” returned Carker, with a shrug.
-“He bears that character. But the truth is, I took him into my service
+“He bears that character. But the [[Truth|truth]] is, I took him into my service
 because, being able to get no other employment, he conceived (had been
-taught at home, I daresay) that he had some sort of claim upon you, and
+taught at [[Home|home]], I daresay) that he had some sort of claim upon you, and
 was constantly trying to dog your heels with his petition. And although
 my defined and recognised connexion with your affairs is merely of a
 business character, still I have that spontaneous interest in
@@ -290,16 +290,16 @@ between us, although it may involve more personal confidence on my part
 than I have hitherto—”
 
 “Distinguished me with,” suggested Carker, bending his head again: “I
-will not say to you how honoured I am; for a man like you well knows
-how much honour he has in his power to bestow at pleasure.”
+will not say to you how honoured I am; for a man like you [[Well|well]] knows
+how much [[Honour|honour]] he has in his power to bestow at pleasure.”
 
 “Mrs Dombey and myself,” said Mr Dombey, passing this compliment with
-august self-denial, “are not quite agreed upon some points. We do not
+august [[Self|self]]-denial, “are not quite agreed upon some points. We do not
 appear to understand each other yet. Mrs Dombey has something to
 learn.”
 
 “Mrs Dombey is distinguished by many rare attractions; and has been
-accustomed, no doubt, to receive much adulation,” said the smooth,
+accustomed, no [[Doubt|doubt]], to receive much adulation,” said the smooth,
 sleek watcher of his slightest look and tone. “But where there is
 affection, duty, and respect, any little mistakes engendered by such
 causes are soon set right.”
@@ -307,21 +307,21 @@ causes are soon set right.”
 Mr Dombey’s thoughts instinctively flew back to the face that had
 looked at him in his wife’s dressing-room when an imperious hand was
 stretched towards the door; and remembering the affection, duty, and
-respect, expressed in it, he felt the blood rush to his own face quite
+respect, expressed in it, he felt the [[Blood|blood]] rush to his own face quite
 as plainly as the watchful eyes upon him saw it there.
 
 “Mrs Dombey and myself,” he went on to say, “had some discussion,
-before Mrs Skewton’s death, upon the causes of my dissatisfaction; of
+before Mrs Skewton’s [[Death|death]], upon the causes of my dissatisfaction; of
 which you will have formed a general understanding from having been a
 witness of what passed between Mrs Dombey and myself on the evening
-when you were at our—at my house.”
+when you were at our—at my [[house]].”
 
 “When I so much regretted being present,” said the smiling Carker.
 “Proud as a man in my position necessarily must be of your familiar
 notice—though I give you no credit for it; you may do anything you
 please without losing caste—and honoured as I was by an early
 presentation to Mrs Dombey, before she was made eminent by bearing your
-name, I almost regretted that night, I assure you, that I had been the
+name, I almost regretted that [[Night|night]], I assure you, that I had been the
 object of such especial good fortune.”
 
 That any man could, under any possible circumstances, regret the being
@@ -330,17 +330,17 @@ phenomenon which Mr Dombey could not comprehend. He therefore
 responded, with a considerable accession of dignity. “Indeed! And why,
 Carker?”
 
-“I fear,” returned the confidential agent, “that Mrs Dombey, never very
+“I [[Fear|fear]],” returned the confidential agent, “that Mrs Dombey, never very
 much disposed to regard me with favourable interest—one in my position
-could not expect that, from a lady naturally proud, and whose pride
-becomes her so well—may not easily forgive my innocent part in that
+could not expect that, from a lady naturally proud, and whose [[Pride|pride]]
+becomes her so [[Well|well]]—may not easily forgive my [[Innocent|innocent]] part in that
 conversation. Your displeasure is no light matter, you must remember;
 and to be visited with it before a third party—”
 
 “Carker,” said Mr Dombey, arrogantly; “I presume that I am the first
 consideration?”
 
-“Oh! Can there be a doubt about it?” replied the other, with the
+“Oh! Can there be a [[Doubt|doubt]] about it?” replied the other, with the
 impatience of a man admitting a notorious and incontrovertible fact.
 
 “Mrs Dombey becomes a secondary consideration, when we are both in
@@ -349,7 +349,7 @@ question, I imagine,” said Mr Dombey. “Is that so?”
 “Is it so?” returned Carker. “Do you know better than anyone, that you
 have no need to ask?”
 
-“Then I hope, Carker,” said Mr Dombey, “that your regret in the
+“Then I [[Hope|hope]], Carker,” said Mr Dombey, “that your regret in the
 acquisition of Mrs Dombey’s displeasure, may be almost counterbalanced
 by your satisfaction in retaining my confidence and good opinion.”
 
@@ -359,7 +359,7 @@ that displeasure. Mrs Dombey has expressed it to you?”
 “Mrs Dombey has expressed various opinions,” said Mr Dombey, with
 majestic coldness and indifference, “in which I do not participate, and
 which I am not inclined to discuss, or to recall. I made Mrs Dombey
-acquainted, some time since, as I have already told you, with certain
+acquainted, some [[Time|time]] since, as I have already told you, with certain
 points of domestic deference and submission on which I felt it
 necessary to insist. I failed to convince Mrs Dombey of the expediency
 of her immediately altering her conduct in those respects, with a view
@@ -370,14 +370,14 @@ agent.”
 
 Blended with the look that Carker bent upon him, was a devilish look at
 the picture over his head, that struck upon it like a flash of
-lightning.
+[[Lightning|lightning]].
 
 “Now, Carker,” said Mr Dombey, “I do not hesitate to say to you that I
 will carry my point. I am not to be trifled with. Mrs Dombey must
 understand that my will is law, and that I cannot allow of one
 exception to the whole rule of my life. You will have the goodness to
 undertake this charge, which, coming from me, is not unacceptable to
-you, I hope, whatever regret you may politely profess—for which I am
+you, I [[Hope|hope]], whatever regret you may politely profess—for which I am
 obliged to you on behalf of Mrs Dombey; and you will have the goodness,
 I am persuaded, to discharge it as exactly as any other commission.”
 
@@ -398,10 +398,10 @@ of opposition in Mrs Dombey that must be eradicated; that must be
 overcome: Mrs Dombey does not appear to understand,” said Mr Dombey,
 forcibly, “that the idea of opposition to Me is monstrous and absurd.”
 
-“We, in the City, know you better,” replied Carker, with a smile from
+“We, in the [[City]], know you better,” replied Carker, with a smile from
 ear to ear.
 
-“You know me better,” said Mr Dombey. “I hope so. Though, indeed, I am
+“You know me better,” said Mr Dombey. “I [[Hope|hope]] so. Though, indeed, I am
 bound to do Mrs Dombey the justice of saying, however inconsistent it
 may seem with her subsequent conduct (which remains unchanged), that on
 my expressing my disapprobation and determination to her, with some
@@ -431,7 +431,7 @@ eyed it keenly.
 
 “I have approached a painful subject,” he said, in a soft regretful
 tone of voice, irreconcilable with his eager eye. “Pray forgive me. I
-forget these chains of association in the interest I have. Pray forgive
+forget these [[Chains|chains]] of association in the interest I have. Pray forgive
 me.”
 
 But for all he said, his eager eye scanned Mr Dombey’s downcast face
@@ -465,20 +465,20 @@ wife has any superfluous gentleness, and duty over and above her proper
 submission to me, she may bestow them where she pleases, perhaps; but I
 will have submission first!—Carker,” said Mr Dombey, checking the
 unusual emotion with which he had spoken, and falling into a tone more
-like that in which he was accustomed to assert his greatness, “you will
+like that in which he was accustomed to assert his [[Greatness|greatness]], “you will
 have the goodness not to omit or slur this point, but to consider it a
 very important part of your instructions.”
 
 Mr Carker bowed his head, and rising from the table, and standing
-thoughtfully before the fire, with his hand to his smooth chin, looked
+thoughtfully before the [[Fire|fire]], with his hand to his smooth chin, looked
 down at Mr Dombey with the evil slyness of some monkish carving, half
-human and half brute; or like a leering face on an old water-spout. Mr
+human and half brute; or like a leering face on an old [[Water|water]]-spout. Mr
 Dombey, recovering his composure by degrees, or cooling his emotion in
 his sense of having taken a high position, sat gradually stiffening
 again, and looking at the parrot as she swung to and fro, in her great
 wedding ring.
 
-“I beg your pardon,” said Carker, after a silence, suddenly resuming
+“I beg your pardon,” said Carker, after a [[Silence|silence]], suddenly resuming
 his chair, and drawing it opposite to Mr Dombey’s, “but let me
 understand. Mrs Dombey is aware of the probability of your making me
 the organ of your displeasure?”
@@ -495,7 +495,7 @@ with a smile, and softly laying his velvet hand, as a cat might have
 laid its sheathed claws, on Mr Dombey’s arm; “if I perfectly understand
 what is in your mind, I am so much more likely to be useful, and to
 have the happiness of being effectually employed. I think I do
-understand. I have not the honour of Mrs Dombey’s good opinion. In my
+understand. I have not the [[Honour|honour]] of Mrs Dombey’s good opinion. In my
 position, I have no reason to expect it; but I take the fact to be,
 that I have not got it?”
 
@@ -511,9 +511,9 @@ part of it as it presents itself to you and me, Carker. But it may be
 so.”
 
 “And—pardon me—do I misconceive you,” said Carker, “when I think you
-descry in this, a likely means of humbling Mrs Dombey’s pride—I use the
+descry in this, a likely means of humbling Mrs Dombey’s [[Pride|pride]]—I use the
 word as expressive of a quality which, kept within due bounds, adorns
-and graces a lady so distinguished for her beauty and
+and graces a lady so distinguished for her [[Beauty|beauty]] and
 accomplishments—and, not to say of punishing her, but of reducing her
 to the submission you so naturally and justly require?”
 
@@ -535,7 +535,7 @@ devotion—for is she not your wife!—no new cause of dislike; but a wish
 from you is, of course, paramount to every other consideration on
 earth. Besides, when Mrs Dombey is converted from these little errors
 of judgment, incidental, I would presume to say, to the novelty of her
-situation, I shall hope that she will perceive in the slight part I
+situation, I shall [[Hope|hope]] that she will perceive in the slight part I
 take, only a grain—my removed and different sphere gives room for
 little more—of the respect for you, and sacrifice of all considerations
 to you, of which it will be her pleasure and privilege to garner up a
@@ -546,7 +546,7 @@ stretched out towards the door, and again to hear through the mild
 speech of his confidential agent an echo of the words, “Nothing can
 make us stranger to each other than we are henceforth!” But he shook
 off the fancy, and did not shake in his resolution, and said,
-“Certainly, no doubt.”
+“Certainly, no [[Doubt|doubt]].”
 
 “There is nothing more,” quoth Carker, drawing his chair back to its
 old place—for they had taken little breakfast as yet—and pausing for an
@@ -561,18 +561,18 @@ say is final.”
 
 Mr Carker signified his understanding of these credentials, and they
 fell to breakfast with what appetite they might. The Grinder also, in
-due time reappeared, keeping his eyes upon his master without a
-moment’s respite, and passing the time in a reverie of worshipful
-tenor. Breakfast concluded, Mr Dombey’s horse was ordered out again,
-and Mr Carker mounting his own, they rode off for the City together.
+due [[Time|time]] reappeared, keeping his eyes upon his master without a
+moment’s respite, and passing the [[Time|time]] in a reverie of worshipful
+tenor. Breakfast concluded, Mr Dombey’s [[Horse|horse]] was ordered out again,
+and Mr Carker mounting his own, they rode off for the [[City]] together.
 
 Mr Carker was in capital spirits, and talked much. Mr Dombey received
 his conversation with the sovereign air of a man who had a right to be
 talked to, and occasionally condescended to throw in a few words to
 carry on the conversation. So they rode on characteristically enough.
 But Mr Dombey, in his dignity, rode with very long stirrups, and a very
-loose rein, and very rarely deigned to look down to see where his horse
-went. In consequence of which it happened that Mr Dombey’s horse, while
+loose rein, and very rarely deigned to look down to see where his [[Horse|horse]]
+went. In consequence of which it happened that Mr Dombey’s [[Horse|horse]], while
 going at a round trot, stumbled on some loose stones, threw him, rolled
 over him, and lashing out with his iron-shod feet, in his struggles to
 get up, kicked him.
@@ -586,34 +586,34 @@ and muttered as he stooped down, “I have given good cause of offence to
 Mrs Dombey now, if she knew it!”
 
 Mr Dombey being insensible, and bleeding from the head and face, was
-carried by certain menders of the road, under Carker’s direction, to
-the nearest public-house, which was not far off, and where he was soon
+carried by certain menders of the [[Road|road]], under Carker’s direction, to
+the nearest public-[[house]], which was not far off, and where he was soon
 attended by divers surgeons, who arrived in quick succession from all
 parts, and who seemed to come by some mysterious instinct, as vultures
-are said to gather about a camel who dies in the desert. After being at
+are said to gather about a camel who dies in the [[Desert|desert]]. After being at
 some pains to restore him to consciousness, these gentlemen examined
-into the nature of his injuries. One surgeon who lived hard by was
+into the [[Nature|nature]] of his injuries. One surgeon who lived hard by was
 strong for a compound fracture of the leg, which was the landlord’s
 opinion also; but two surgeons who lived at a distance, and were only
 in that neighbourhood by accident, combated this opinion so
 disinterestedly, that it was decided at last that the patient, though
 severely cut and bruised, had broken no bones but a lesser rib or so,
-and might be carefully taken home before night. His injuries being
+and might be carefully taken [[Home|home]] before [[Night|night]]. His injuries being
 dressed and bandaged, which was a long operation, and he at length left
-to repose, Mr Carker mounted his horse again, and rode away to carry
-the intelligence home.
+to repose, Mr Carker mounted his [[Horse|horse]] again, and rode away to carry
+the intelligence [[Home|home]].
 
 Crafty and cruel as his face was at the best of times, though it was a
 sufficiently fair face as to form and regularity of feature, it was at
 its worst when he set forth on this errand; animated by the craft and
 cruelty of thoughts within him, suggestions of remote possibility
 rather than of design or plot, that made him ride as if he hunted men
-and women. Drawing rein at length, and slackening in his speed, as he
-came into the more public roads, he checked his white-legged horse into
+and women. Drawing rein at length, and slackening in his [[Speed|speed]], as he
+came into the more public roads, he checked his white-legged [[Horse|horse]] into
 picking his way along as usual, and hid himself beneath his sleek,
 hushed, crouched manner, and his ivory smile, as he best could.
 
-He rode direct to Mr Dombey’s house, alighted at the door, and begged
+He rode direct to Mr Dombey’s [[house]], alighted at the door, and begged
 to see Mrs Dombey on an affair of importance. The servant who showed
 him to Mr Dombey’s own room, soon returned to say that it was not Mrs
 Dombey’s hour for receiving visitors, and that he begged pardon for not
@@ -621,7 +621,7 @@ having mentioned it before.
 
 Mr Carker, who was quite prepared for a cold reception, wrote upon a
 card that he must take the liberty of pressing for an interview, and
-that he would not be so bold as to do so, for the second time (this he
+that he would not be so bold as to do so, for the second [[Time|time]] (this he
 underlined), if he were not equally sure of the occasion being
 sufficient for his justification. After a trifling delay, Mrs Dombey’s
 maid appeared, and conducted him to a morning room upstairs, where
@@ -635,35 +635,35 @@ Her glance fell haughtily upon him in the doorway; but he looked at
 Florence—though only in the act of bending his head, as he came in—with
 some irrepressible expression of the new power he held; and it was his
 triumph to see the glance droop and falter, and to see that Edith half
-rose up to receive him.
+[[Rose|rose]] up to receive him.
 
 He was very sorry, he was deeply grieved; he couldn’t say with what
 unwillingness he came to prepare her for the intelligence of a very
 slight accident. He entreated Mrs Dombey to compose herself. Upon his
-sacred word of honour, there was no cause of alarm. But Mr Dombey—
+sacred word of [[Honour|honour]], there was no cause of alarm. But Mr Dombey—
 
 Florence uttered a sudden cry. He did not look at her, but at Edith.
 Edith composed and reassured her. She uttered no cry of distress. No,
 no.
 
-Mr Dombey had met with an accident in riding. His horse had slipped,
+Mr Dombey had met with an accident in riding. His [[Horse|horse]] had slipped,
 and he had been thrown.
 
 Florence wildly exclaimed that he was badly hurt; that he was killed!
 
-No. Upon his honour, Mr Dombey, though stunned at first, was soon
+No. Upon his [[Honour|honour]], Mr Dombey, though stunned at first, was soon
 recovered, and though certainly hurt was in no kind of danger. If this
-were not the truth, he, the distressed intruder, never could have had
-the courage to present himself before Mrs Dombey. It was the truth
+were not the [[Truth|truth]], he, the distressed intruder, never could have had
+the [[Courage|courage]] to present himself before Mrs Dombey. It was the [[Truth|truth]]
 indeed, he solemnly assured her.
 
 All this he said as if he were answering Edith, and not Florence, and
 with his eyes and his smile fastened on Edith.
 
 He then went on to tell her where Mr Dombey was lying, and to request
-that a carriage might be placed at his disposal to bring him home.
+that a carriage might be placed at his disposal to bring him [[Home|home]].
 
-“Mama,” faltered Florence in tears, “if I might venture to go!”
+“Mama,” faltered Florence in [[Tears|tears]], “if I might venture to go!”
 
 Mr Carker, having his eyes on Edith when he heard these words, gave her
 a secret look and slightly shook his head. He saw how she battled with
@@ -689,19 +689,19 @@ ease, believe me.”
 
 He bowed himself out, with his extremest show of deference and
 conciliation; and having returned to Mr Dombey’s room, and there
-arranged for a carriage being sent after him to the City, mounted his
-horse again, and rode slowly thither. He was very thoughtful as he went
+arranged for a carriage being sent after him to the [[City]], mounted his
+[[Horse|horse]] again, and rode slowly thither. He was very thoughtful as he went
 along, and very thoughtful there, and very thoughtful in the carriage
 on his way back to the place where Mr Dombey had been left. It was only
 when sitting by that gentleman’s couch that he was quite himself again,
 and conscious of his teeth.
 
-About the time of twilight, Mr Dombey, grievously afflicted with aches
+About the [[Time|time]] of twilight, Mr Dombey, grievously afflicted with aches
 and pains, was helped into his carriage, and propped with cloaks and
 pillows on one side of it, while his confidential agent bore him
 company upon the other. As he was not to be shaken, they moved at
 little more than a foot pace; and hence it was quite dark when he was
-brought home. Mrs Pipchin, bitter and grim, and not oblivious of the
+brought [[Home|home]]. Mrs Pipchin, bitter and grim, and not oblivious of the
 Peruvian mines, as the establishment in general had good reason to
 know, received him at the door, and freshened the domestics with
 several little sprinklings of wordy vinegar, while they assisted in
@@ -711,7 +711,7 @@ visitor, but the excellent Ogress who presided over his household,
 waited on Mrs Dombey once more, with his report on her lord’s
 condition.
 
-He again found Edith alone with Florence, and he again addressed the
+He again found Edith [[Alone|alone]] with Florence, and he again addressed the
 whole of his soothing speech to Edith, as if she were a prey to the
 liveliest and most affectionate anxieties. So earnest he was in his
 respectful sympathy, that on taking leave, he ventured—with one more
@@ -720,13 +720,13 @@ over it, to touch it with his lips.
 
 Edith did not withdraw the hand, nor did she strike his fair face with
 it, despite the flush upon her cheek, the bright light in her eyes, and
-the dilation of her whole form. But when she was alone in her own room,
+the dilation of her whole form. But when she was [[Alone|alone]] in her own room,
 she struck it on the marble chimney-shelf, so that, at one blow, it was
-bruised, and bled; and held it from her, near the shining fire, as if
+bruised, and bled; and held it from her, near the shining [[Fire|fire]], as if
 she could have thrust it in and burned it.
 
-Far into the night she sat alone, by the sinking blaze, in dark and
-threatening beauty, watching the murky shadows looming on the wall, as
+Far into the [[Night|night]] she sat [[Alone|alone]], by the sinking blaze, in dark and
+threatening [[Beauty|beauty]], watching the murky shadows looming on the wall, as
 if her thoughts were tangible, and cast them there. Whatever shapes of
 outrage and affront, and black foreshadowings of things that might
 happen, flickered, indistinct and giant-like, before her, one resented

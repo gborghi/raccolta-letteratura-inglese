@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 33 (part 3)"
+title: "Bleak [[house|House]] — Chapter 33 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -23,14 +23,14 @@ that is calculated to charm the eye—”
 you have got to say!”
 
 Finding his friend in this morose and material condition, Mr. Guppy
-only expresses the finer feelings of his soul through the tone of
+only expresses the finer feelings of his [[Soul|soul]] through the tone of
 injury in which he recommences, “Tony, when I say there is a point on
 which we must come to an understanding pretty soon, I say so quite
-apart from any kind of conspiring, however innocent. You know it is
+apart from any kind of conspiring, however [[Innocent|innocent]]. You know it is
 professionally arranged beforehand in all cases that are tried what
 facts the witnesses are to prove. Is it or is it not desirable that
 we should know what facts we are to prove on the inquiry into the
-death of this unfortunate old mo—gentleman?” (Mr. Guppy was going to
+[[Death|death]] of this unfortunate old mo—gentleman?” (Mr. Guppy was going to
 say “mogul,” but thinks “gentleman” better suited to the
 circumstances.)
 
@@ -44,11 +44,11 @@ how we made it.”
 “Yes,” says Mr. Weevle. “Those are about the facts.”
 
 “We made the discovery in consequence of his having, in his eccentric
-way, an appointment with you at twelve o’clock at night, when you
+way, an appointment with you at twelve o’[[Clock|clock]] at [[Night|night]], when you
 were to explain some writing to him as you had often done before on
 account of his not being able to read. I, spending the evening with
 you, was called down—and so forth. The inquiry being only into the
-circumstances touching the death of the deceased, it’s not necessary
+circumstances touching the [[Death|death]] of the deceased, it’s not necessary
 to go beyond these facts, I suppose you’ll agree?”
 
 “No!” returns Mr. Weevle. “I suppose not.”
@@ -74,7 +74,7 @@ bottle shop.
 
 Mr. Guppy nods.
 
-“Why, I wouldn’t pass another night there for any consideration that
+“Why, I wouldn’t pass another [[Night|night]] there for any consideration that
 you could offer me,” says Mr. Weevle, haggardly staring.
 
 “Do you mean it though, Tony?”
@@ -87,7 +87,7 @@ considered—of your never being disturbed in possession of those
 effects lately belonging to a lone old man who seemed to have no
 relation in the world, and the certainty of your being able to find
 out what he really had got stored up there, don’t weigh with you at
-all against last night, Tony, if I understand you?” says Mr. Guppy,
+all against last [[Night|night]], Tony, if I understand you?” says Mr. Guppy,
 biting his thumb with the appetite of vexation.
 
 “Certainly not. Talk in that cool way of a fellow’s living there?”
@@ -98,7 +98,7 @@ there and couldn’t get a lodging there now, whereas you have got
 one.”
 
 “You are welcome to it,” rejoins his friend, “and—ugh!—you may make
-yourself at home in it.”
+yourself at [[Home|home]] in it.”
 
 “Then you really and truly at this point,” says Mr. Guppy, “give up
 the whole thing, if I understand you, Tony?”
@@ -115,35 +115,35 @@ Smallweed, accompanied by their granddaughter Judy.
 
 An air of haste and excitement pervades the party, and as the tall
 hat (surmounting Mr. Smallweed the younger) alights, Mr. Smallweed
-the elder pokes his head out of window and bawls to Mr. Guppy, “How
+the elder pokes his head out of [[Window|window]] and bawls to Mr. Guppy, “How
 de do, sir! How de do!”
 
-“What do Chick and his family want here at this time of the morning,
-I wonder!” says Mr. Guppy, nodding to his familiar.
+“What do Chick and his family want here at this [[Time|time]] of the morning,
+I [[Wonder|wonder]]!” says Mr. Guppy, nodding to his familiar.
 
 “My dear sir,” cries Grandfather Smallweed, “would you do me a
 favour? Would you and your friend be so very obleeging as to carry me
-into the public-house in the court, while Bart and his sister bring
+into the public-[[house]] in the [[Court|court]], while Bart and his sister bring
 their grandmother along? Would you do an old man that good turn,
 sir?”
 
 Mr. Guppy looks at his friend, repeating inquiringly, “The
-public-house in the court?” And they prepare to bear the venerable
+public-[[house]] in the [[Court|court]]?” And they prepare to bear the venerable
 burden to the Sol’s Arms.
 
 “There’s your fare!” says the patriarch to the coachman with a fierce
 grin and shaking his incapable fist at him. “Ask me for a penny more,
-and I’ll have my lawful revenge upon you. My dear young men, be easy
+and I’ll have my lawful [[Revenge|revenge]] upon you. My dear young men, be easy
 with me, if you please. Allow me to catch you round the neck. I won’t
 squeeze you tighter than I can help. Oh, Lord! Oh, dear me! Oh, my
 bones!”
 
-It is well that the Sol is not far off, for Mr. Weevle presents an
+It is [[Well|well]] that the Sol is not far off, for Mr. Weevle presents an
 apoplectic appearance before half the distance is accomplished. With
 no worse aggravation of his symptoms, however, than the utterance of
 divers croaking sounds expressive of obstructed respiration, he
 fulfils his share of the porterage and the benevolent old gentleman
-is deposited by his own desire in the parlour of the Sol’s Arms.
+is deposited by his own [[Desire|desire]] in the parlour of the Sol’s Arms.
 
 “Oh, Lord!” gasps Mr. Smallweed, looking about him, breathless, from
 an arm-chair. “Oh, dear me! Oh, my bones and back! Oh, my aches and
@@ -153,7 +153,7 @@ poll-parrot! Sit down!”
 This little apostrophe to Mrs. Smallweed is occasioned by a
 propensity on the part of that unlucky old lady whenever she finds
 herself on her feet to amble about and “set” to inanimate objects,
-accompanying herself with a chattering noise, as in a witch dance. A
+accompanying herself with a chattering noise, as in a [[Witch|witch]] [[Dance|dance]]. A
 nervous affection has probably as much to do with these
 demonstrations as any imbecile intention in the poor old woman, but
 on the present occasion they are so particularly lively in connexion

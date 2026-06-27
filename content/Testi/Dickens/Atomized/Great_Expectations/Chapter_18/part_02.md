@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 18 (part 2)"
+title: "[[Great Expectations]] — Chapter 18 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -29,7 +29,7 @@ Is he here?”
 
 The stranger did not recognise me, but I recognised him as the
 gentleman I had met on the stairs, on the occasion of my second visit
-to Miss Havisham. I had known him the moment I saw him looking over the
+to [[Miss Havisham]]. I had known him the moment I saw him looking over the
 settle, and now that I stood confronting him with his hand upon my
 shoulder, I checked off again in detail his large head, his dark
 complexion, his deep-set eyes, his bushy black eyebrows, his large
@@ -37,15 +37,15 @@ watch-chain, his strong black dots of beard and whisker, and even the
 smell of scented soap on his great hand.
 
 “I wish to have a private conference with you two,” said he, when he
-had surveyed me at his leisure. “It will take a little time. Perhaps we
+had surveyed me at his leisure. “It will take a little [[Time|time]]. Perhaps we
 had better go to your place of residence. I prefer not to anticipate my
 communication here; you will impart as much or as little of it as you
 please to your friends afterwards; I have nothing to do with that.”
 
-Amidst a wondering silence, we three walked out of the Jolly Bargemen,
-and in a wondering silence walked home. While going along, the strange
+Amidst a wondering [[Silence|silence]], we three walked out of the Jolly Bargemen,
+and in a wondering [[Silence|silence]] walked [[Home|home]]. While going along, the strange
 gentleman occasionally looked at me, and occasionally bit the side of
-his finger. As we neared home, Joe vaguely acknowledging the occasion
+his finger. As we neared [[Home|home]], Joe vaguely acknowledging the occasion
 as an impressive and ceremonious one, went on ahead to open the front
 door. Our conference was held in the state parlour, which was feebly
 lighted by one candle.
@@ -56,14 +56,14 @@ pocket-book. He then put up the pocket-book and set the candle a little
 aside, after peering round it into the darkness at Joe and me, to
 ascertain which was which.
 
-“My name,” he said, “is Jaggers, and I am a lawyer in London. I am
-pretty well known. I have unusual business to transact with you, and I
+“My name,” he said, “is Jaggers, and I am a lawyer in [[London]]. I am
+pretty [[Well|well]] known. I have unusual business to transact with you, and I
 commence by explaining that it is not of my originating. If my advice
 had been asked, I should not have been here. It was not asked, and you
 see me here. What I have to do as the confidential agent of another, I
 do. No less, no more.”
 
-Finding that he could not see us very well from where he sat, he got
+Finding that he could not see us very [[Well|well]] from where he sat, he got
 up, and threw one leg over the back of a chair and leaned upon it; thus
 having one foot on the seat of the chair, and one foot on the ground.
 
@@ -81,11 +81,11 @@ anything?”
 
 “The answer is,” returned Joe, sternly, “No.”
 
-I thought Mr. Jaggers glanced at Joe, as if he considered him a fool
+I thought Mr. Jaggers glanced at Joe, as if he considered him a [[Fool|fool]]
 for his disinterestedness. But I was too much bewildered between
 breathless curiosity and surprise, to be sure of it.
 
-“Very well,” said Mr. Jaggers. “Recollect the admission you have made,
+“Very [[Well|well]],” said Mr. Jaggers. “Recollect the admission you have made,
 and don’t try to go from it presently.”
 
 “Who’s a-going to try?” retorted Joe.
@@ -98,16 +98,16 @@ and don’t try to go from it presently.”
 Bear that in mind, will you?” repeated Mr. Jaggers, shutting his eyes
 and nodding his head at Joe, as if he were forgiving him something.
 “Now, I return to this young fellow. And the communication I have got
-to make is, that he has great expectations.”
+to make is, that he has [[Great Expectations|great expectations]].”
 
 Joe and I gasped, and looked at one another.
 
 “I am instructed to communicate to him,” said Mr. Jaggers, throwing his
 finger at me sideways, “that he will come into a handsome property.
-Further, that it is the desire of the present possessor of that
+Further, that it is the [[Desire|desire]] of the present possessor of that
 property, that he be immediately removed from his present sphere of
 life and from this place, and be brought up as a gentleman,—in a word,
-as a young fellow of great expectations.”
+as a young fellow of [[Great Expectations|great expectations]].”
 
 My dream was out; my wild fancy was surpassed by sober reality; Miss
 Havisham was going to make my fortune on a grand scale.
@@ -117,7 +117,7 @@ to say, to you. You are to understand, first, that it is the request of
 the person from whom I take my instructions that you always bear the
 name of Pip. You will have no objection, I dare say, to your great
 expectations being encumbered with that easy condition. But if you have
-any objection, this is the time to mention it.”
+any objection, this is the [[Time|time]] to mention it.”
 
 My heart was beating so fast, and there was such a singing in my ears,
 that I could scarcely stammer I had no objection.
@@ -142,5 +142,5 @@ whom I take my instructions, and for whom I am not otherwise
 responsible. That person is the person from whom you derive your
 expectations, and the secret is solely held by that person and by me.
 Again, not a very difficult condition with which to encumber such a
-rise in fortune; but if you have any objection to it, this is the time
+rise in fortune; but if you have any objection to it, this is the [[Time|time]]
 to mention it. Speak out.”

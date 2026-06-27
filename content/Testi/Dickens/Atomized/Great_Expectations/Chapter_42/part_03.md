@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 42 (part 3)"
+title: "[[Great Expectations]] — Chapter 42 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -25,10 +25,10 @@ his face and head and neck and hands, before he could go on.
 [Illustration]
 
 “I had said to Compeyson that I’d smash that face of his, and I swore
-Lord smash mine! to do it. We was in the same prison-ship, but I
+Lord smash mine! to do it. We was in the same [[Prison|prison]]-[[Ship|ship]], but I
 couldn’t get at him for long, though I tried. At last I come behind him
 and hit him on the cheek to turn him round and get a smashing one at
-him, when I was seen and seized. The black-hole of that ship warn’t a
+him, when I was seen and seized. The black-hole of that [[Ship|ship]] warn’t a
 strong one, to a judge of black-holes that could swim and dive. I
 escaped to the shore, and I was a hiding among the graves there,
 envying them as was in ’em and all over, when I first see my boy!”
@@ -37,7 +37,7 @@ He regarded me with a look of affection that made him almost abhorrent
 to me again, though I had felt great pity for him.
 
 “By my boy, I was giv to understand as Compeyson was out on them
-marshes too. Upon my soul, I half believe he escaped in his terror, to
+marshes too. Upon my [[Soul|soul]], I half believe he escaped in his terror, to
 get quit of me, not knowing it was me as had got ashore. I hunted him
 down. I smashed his face. ‘And now,’ says I ‘as the worst thing I can
 do, caring nothing for myself, I’ll drag you back.’ And I’d have swum
@@ -54,7 +54,7 @@ He wiped himself again, as he had done before, and then slowly took his
 tangle of tobacco from his pocket, and plucked his pipe from his
 button-hole, and slowly filled it, and began to smoke.
 
-“Is he dead?” I asked, after a silence.
+“Is he dead?” I asked, after a [[Silence|silence]].
 
 “Is who dead, dear boy?”
 
@@ -65,11 +65,11 @@ button-hole, and slowly filled it, and began to smoke.
 
 Herbert had been writing with his pencil in the cover of a book. He
 softly pushed the book over to me, as Provis stood smoking with his
-eyes on the fire, and I read in it:—
+eyes on the [[Fire|fire]], and I read in it:—
 
-“Young Havisham’s name was Arthur. Compeyson is the man who professed
-to be Miss Havisham’s lover.”
+“Young Havisham’s name was [[arthur|Arthur]]. Compeyson is the man who professed
+to be [[Miss Havisham]]’s [[Lover|lover]].”
 
 I shut the book and nodded slightly to Herbert, and put the book by;
 but we neither of us said anything, and both looked at Provis as he
-stood smoking by the fire.
+stood smoking by the [[Fire|fire]].

@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Curse of the Golden Cross (part 1)"
+title: "[[Incredulity]] — The Curse of the Golden [[Cross]] (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -14,18 +14,18 @@ tags:
 </nav>
 
 
-FIVE:  The Curse of the Golden Cross
+FIVE:  The Curse of the Golden [[Cross]]
 
 Six people sat around a small table, seeming almost as
 incongruous and accidental as if they had been shipwrecked
-separately on the same small desert island.  At least the sea
+separately on the same small [[Desert|desert]] island.  At least the sea
 surrounded them; for in one sense their island was enclosed
 in another island, a large and flying island like Laputa.
 For the little table was one of many little tables dotted
-about in the dining saloon of that monstrous ship the Moravia,
-speeding through the night and the everlasting emptiness
+about in the dining saloon of that monstrous [[Ship|ship]] the Moravia,
+speeding through the [[Night|night]] and the everlasting emptiness
 of the Atlantic.  The little company had nothing in common
-except that all were travelling from America to England.
+except that all were travelling from [[america|America]] to England.
 Two of them at least might be called celebrities; others might
 be called obscure, and in one or two cases even dubious.
 
@@ -39,13 +39,13 @@ that it often gave strangers a start to hear him speak with
 an American accent.  Yet he was, in his way, very American;
 he had long fair hair brushed back from a big square forehead,
 long straight features and a curious mixture of preoccupation
-with a poise of potential swiftness, like a lion pondering absent--
+with a poise of potential swiftness, like a [[Lion|lion]] pondering absent--
 mindedly on his next leap.
 
 There was only one lady in the group; and she was (as the journalists
 often said of her) a host in herself; being quite prepared
 to play hostess, not to say empress, at that or any other table.
-She was Lady Diana Wales, the celebrated lady traveller in tropical
+She was Lady [[Diana]] Wales, the celebrated lady traveller in tropical
 and other countries; but there was nothing rugged or masculine
 about her appearance at dinner.  She was herself handsome in an
 almost tropical fashion, with a mass of hot and heavy red hair;
@@ -56,15 +56,15 @@ questions at political meetings.
 
 The other four figures seemed at first like shadows in this
 shining presence; but they showed differences on a close view.
-One of them was a young man entered on the ship's register as
+One of them was a young man entered on the [[Ship|ship]]'s register as
 Paul T. Tarrant.  He was an American type which might be more truly
 called an American antitype.  Every nation probably has an antitype;
 a sort of extreme exception that proves the national rule.
 Americans really respect work, rather as Europeans respect war.
-There is a halo of heroism about it; and he who shrinks from it
+There is a halo of [[Heroism|heroism]] about it; and he who shrinks from it
 is less than a man.  The antitype is evident through being
 exceedingly rare.  He is the dandy or dude:  the wealthy
-waster who makes a weak villain for so many American novels.
+waster who makes a weak [[Villain|villain]] for so many American novels.
 Paul Tarrant seemed to have nothing whatever to do but
 change his clothes, which he did about six times a day;
 passing into paler or richer shades of his suit of exquisite
@@ -72,7 +72,7 @@ light grey, like the delicate silver changes of the twilight.
 Unlike most Americans, he cultivated very carefully a short,
 curly beard; and unlike most dandies, even of his own type,
 he seemed rather sulky than showy.  Perhaps there was something
-almost Byronic about his silence and his gloom.
+almost Byronic about his [[Silence|silence]] and his gloom.
 
 The next two travellers were naturally classed together; merely because
 they were both English lecturers returning from an American tour.
@@ -104,7 +104,7 @@ replied the Professor dryly.  `They talk about specialists;
 but I think the hardest thing on earth is to specialize.
 In this case, for instance:  how can a man know anything about
 Byzantium till he knows everything about Rome before it and
-about Islam after it?  Most Arab arts were old Byzantine arts.
+about [[Islam]] after it?  Most Arab arts were old Byzantine arts.
 Why, take algebra--`
 
 `But I won't take algebra,' cried the lady decisively.
@@ -113,17 +113,17 @@ I was with Gatton, you know, when he opened the Babylonian tombs.
 Ever since then I found mummies and preserved bodies and all
 that perfectly thrilling.  Do tell us about this one.'
 
-`Gatton was an interesting man,' said the Professor.
+`Gatton was an interesting man,' said [[The Professor|the Professor]].
 `They were an interesting family.  That brother of his who went
 into Parliament was much more than an ordinary politician.
 I never understood the Fascisti till he made that speech about Italy.'
 
-`Well, we're not going to Italy on this trip,'
-said Lady Diana persistently, `and I believe you're going
+`[[Well]], we're not going to [[Italy]] on this trip,'
+said Lady [[Diana]] persistently, `and I believe you're going
 to that little place where they've found the tomb.
 In Sussex, isn't it?'
 
 `Sussex is pretty large, as these little English sections go,'
-replied the Professor.  `One might wander about in it
-for a goodish time; and it's a good place to wander in.
+replied [[The Professor|the Professor]].  `One might wander about in it
+for a goodish [[Time|time]]; and it's a good place to wander in.
 It's wonderful how large those low hills seem when you're on them.'

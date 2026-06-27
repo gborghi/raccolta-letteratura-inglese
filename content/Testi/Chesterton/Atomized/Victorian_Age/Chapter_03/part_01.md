@@ -36,13 +36,13 @@ why the society became unequal: I cannot say. They were lame giants; the
 
 strongest of them walked on one leg a little shorter than the other. A
 
-great man in any age must be a common man, and also an uncommon man.
+great man in any age must be a [[Common Man|common man]], and also an uncommon man.
 
 Those that are only uncommon men are perverts and sowers of pestilence.
 
 But somehow the great Victorian man was more and less than this. He was
 
-at once a giant and a dwarf. When he has been sweeping the sky in
+at once a giant and a [[Dwarf|dwarf]]. When he has been sweeping the sky in
 
 circles infinitely great, he suddenly shrivels into something
 
@@ -62,7 +62,7 @@ in Virgil or in Chaucer or in Shakespeare or in Dryden; such things as
 
 they knew they knew. It is no disgrace to Homer that he had not
 
-discovered Britain; or to Virgil that he had not discovered America; or
+discovered Britain; or to Virgil that he had not discovered [[America]]; or
 
 to Chaucer that he had not discovered the solar system; or to Dryden
 
@@ -86,7 +86,7 @@ Ruskin when he says, with a solemn visage, that building in iron is ugly
 
 and unreal, but that the weightiest objection is that there is no
 
-mention of it in the Bible; we feel as if he had just said he could find
+mention of it in the [[Bible]]; we feel as if he had just said he could find
 
 no hair-brushes in Habakkuk. We feel that it _is_ a disgrace to a man
 
@@ -96,7 +96,7 @@ from being nuns, merely because he has no fixed intention of becoming a
 
 nun himself. We feel that it _is_ a disgrace to a man like Tennyson,
 
-when he talks of the French revolutions, the huge crusades that had
+when he talks of the French revolutions, the huge [[Crusades|crusades]] that had
 
 recreated the whole of his civilisation, as being "no graver than a
 
@@ -106,9 +106,9 @@ Browning to make spluttering and spiteful puns about the names Newman,
 
 Wiseman, and Manning. We feel that it _is_ a disgrace to a man like
 
-Newman when he confesses that for some time he felt as if he couldn't
+Newman when he confesses that for some [[Time|time]] he felt as if he couldn't
 
-come in to the Catholic Church, because of that dreadful Mr. Daniel
+come in to the [[Catholic Church]], because of that dreadful Mr. Daniel
 
 O'Connell, who had the vulgarity to fight for his own country. We feel
 
@@ -122,7 +122,7 @@ Swinburne, when he has a Jingo fit and calls the Boer children in the
 
 concentration camps "Whelps of treacherous dams whom none save we have
 
-spared to starve and slay": we feel that Swinburne, for the first time,
+spared to starve and slay": we feel that Swinburne, for the first [[Time|time]],
 
 really has become an immoral and indecent writer. All this is a certain
 
@@ -132,11 +132,11 @@ were in a kind of pocket; they appealed to too narrow a public opinion;
 
 I am certain that no French or German men of the same genius made such
 
-remarks. Renan was the enemy of the Catholic Church; but who can imagine
+remarks. Renan was the enemy of the [[Catholic Church]]; but who can imagine
 
 Renan writing of it as Kingsley or Dickens did? Taine was the enemy of
 
-the French Revolution; but who can imagine Taine talking about it as
+the [[French Revolution]]; but who can imagine Taine talking about it as
 
 Tennyson or Newman talked? Even Matthew Arnold, though he saw this peril
 
@@ -160,7 +160,7 @@ real problems about his poetry. Tennyson, of course, owed a great deal
 
 to Virgil. There is no question of plagiarism here; a debt to Virgil is
 
-like a debt to Nature. But Tennyson was a provincial Virgil. In such
+like a debt to [[Nature]]. But Tennyson was a provincial Virgil. In such
 
 passages as that about the schoolboy's barring out he might be called a
 
@@ -176,13 +176,13 @@ Constitution. It is intensely typical of Tennyson's philosophical temper
 
 that he was almost the only Poet Laureate who was not ludicrous. It is
 
-not absurd to think of Tennyson as tuning his harp in praise of Queen
+not absurd to think of Tennyson as tuning his harp in praise of [[Queen]]
 
 Victoria: that is, it is not absurd in the same sense as Chaucer's harp
 
-hallowed by dedication to Richard II or Wordsworth's harp hallowed by
+hallowed by dedication to [[Richard II]] or Wordsworth's harp hallowed by
 
-dedication to George IV is absurd. Richard's court could not properly
+dedication to George IV is absurd. [[Richard]]'s [[Court|court]] could not properly
 
 appreciate either Chaucer's daisies or his "devotion." George IV would
 
@@ -192,4 +192,4 @@ simple annals of the poor. But Tennyson did sincerely believe in the
 
 Victorian compromise; and sincerity is never undignified. He really did
 
-hold a great many of the same views as Queen Victoria, though he was
+hold a great many of the same views as [[Queen]] Victoria, though he was

@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — E.  Unless you have removed all references to Project Gutenberg:"
+title: "[[WhatISawInAmerica]] — E.  Unless you have removed all references to Project Gutenberg:"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"

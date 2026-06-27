@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-Doctor Manette received him kindly, and so did Lucie. But, Miss Pross
-suddenly became afflicted with a twitching in the head and body, and
-retired into the house. She was not unfrequently the victim of this
+[[Doctor Manette]] received him kindly, and so did Lucie. But, [[Miss Pross]]
+suddenly became afflicted with a twitching in the head and [[Body|body]], and
+retired into the [[house]]. She was not unfrequently the victim of this
 disorder, and she called it, in familiar conversation, “a fit of the
 jerks.”
 
@@ -27,9 +27,9 @@ his arm on the back of her chair, it was very agreeable to trace the
 likeness.
 
 He had been talking all day, on many subjects, and with unusual
-vivacity. “Pray, Doctor Manette,” said Mr. Darnay, as they sat under the
+vivacity. “Pray, [[Doctor Manette]],” said Mr. Darnay, as they sat under the
 plane-tree--and he said it in the natural pursuit of the topic in hand,
-which happened to be the old buildings of London--“have you seen much of
+which happened to be the old buildings of [[London]]--“have you seen much of
 the Tower?”
 
 “Lucie and I have been there; but only casually. We have seen enough of
@@ -54,8 +54,8 @@ examined, the last letter was found to be G. There was no record or
 legend of any prisoner with those initials, and many fruitless guesses
 were made what the name could have been. At length, it was suggested
 that the letters were not initials, but the complete word, DIG. The
-floor was examined very carefully under the inscription, and, in the
-earth beneath a stone, or tile, or some fragment of paving, were found
+floor was examined very carefully under the [[Inscription|inscription]], and, in the
+earth beneath a stone, or tile, or some [[Fragment|fragment]] of paving, were found
 the ashes of a paper, mingled with the ashes of a small leathern case
 or bag. What the unknown prisoner had written will never be read, but he
 had written something, and hidden it away to keep it from the gaoler.”
@@ -71,10 +71,10 @@ made me start. We had better go in.”
 He recovered himself almost instantly. Rain was really falling in large
 drops, and he showed the back of his hand with rain-drops on it. But, he
 said not a single word in reference to the discovery that had been told
-of, and, as they went into the house, the business eye of Mr. Lorry
+of, and, as they went into the [[house]], the business eye of Mr. Lorry
 either detected, or fancied it detected, on his face, as it turned
-towards Charles Darnay, the same singular look that had been upon it
-when it turned towards him in the passages of the Court House.
+towards [[Charles Darnay]], the same singular look that had been upon it
+when it turned towards him in the passages of the [[Court]] [[house|House]].
 
 He recovered himself so quickly, however, that Mr. Lorry had doubts of
 his business eye. The arm of the golden giant in the hall was not more
@@ -82,15 +82,15 @@ steady than he was, when he stopped under it to remark to them that he
 was not yet proof against slight surprises (if he ever would be), and
 that the rain had startled him.
 
-Tea-time, and Miss Pross making tea, with another fit of the jerks upon
+Tea-[[Time|time]], and [[Miss Pross]] making tea, with another fit of the jerks upon
 her, and yet no Hundreds of people. Mr. Carton had lounged in, but he
 made only Two.
 
-The night was so very sultry, that although they sat with doors and
+The [[Night|night]] was so very sultry, that although they sat with doors and
 windows open, they were overpowered by heat. When the tea-table was
 done with, they all moved to one of the windows, and looked out into the
 heavy twilight. Lucie sat by her father; Darnay sat beside her; Carton
-leaned against a window. The curtains were long and white, and some of
+leaned against a [[Window|window]]. The curtains were long and white, and some of
 the thunder-gusts that whirled into the corner, caught them up to the
 ceiling, and waved them like spectral wings.
 
@@ -100,31 +100,31 @@ Manette. “It comes slowly.”
 “It comes surely,” said Carton.
 
 They spoke low, as people watching and waiting mostly do; as people in a
-dark room, watching and waiting for Lightning, always do.
+dark room, watching and waiting for [[Lightning]], always do.
 
 There was a great hurry in the streets of people speeding away to
-get shelter before the storm broke; the wonderful corner for echoes
+get shelter before the [[Storm|storm]] broke; the wonderful corner for echoes
 resounded with the echoes of footsteps coming and going, yet not a
 footstep was there.
 
-“A multitude of people, and yet a solitude!” said Darnay, when they had
+“A multitude of people, and yet a [[Solitude|solitude]]!” said Darnay, when they had
 listened for a while.
 
 “Is it not impressive, Mr. Darnay?” asked Lucie. “Sometimes, I have
 sat here of an evening, until I have fancied--but even the shade of
-a foolish fancy makes me shudder to-night, when all is so black and
+a foolish fancy makes me shudder to-[[Night|night]], when all is so black and
 solemn--”
 
 “Let us shudder too. We may know what it is.”
 
 “It will seem nothing to you. Such whims are only impressive as we
 originate them, I think; they are not to be communicated. I have
-sometimes sat alone here of an evening, listening, until I have made
+sometimes sat [[Alone|alone]] here of an evening, listening, until I have made
 the echoes out to be the echoes of all the footsteps that are coming
 by-and-bye into our lives.”
 
 “There is a great crowd coming one day into our lives, if that be so,”
- Sydney Carton struck in, in his moody way.
+ [[Sydney Carton]] struck in, in his moody way.
 
 The footsteps were incessant, and the hurry of them became more and more
 rapid. The corner echoed and re-echoed with the tread of feet; some,
@@ -136,39 +136,39 @@ the distant streets, and not one within sight.
 are we to divide them among us?”
 
 “I don’t know, Mr. Darnay; I told you it was a foolish fancy, but you
-asked for it. When I have yielded myself to it, I have been alone, and
+asked for it. When I have yielded myself to it, I have been [[Alone|alone]], and
 then I have imagined them the footsteps of the people who are to come
 into my life, and my father’s.”
 
 “I take them into mine!” said Carton. “_I_ ask no questions and make no
 stipulations. There is a great crowd bearing down upon us, Miss Manette,
-and I see them--by the Lightning.” He added the last words, after there
-had been a vivid flash which had shown him lounging in the window.
+and I see them--by the [[Lightning]].” He added the last words, after there
+had been a vivid flash which had shown him lounging in the [[Window|window]].
 
 “And I hear them!” he added again, after a peal of thunder. “Here they
 come, fast, fierce, and furious!”
 
 It was the rush and roar of rain that he typified, and it stopped him,
-for no voice could be heard in it. A memorable storm of thunder and
-lightning broke with that sweep of water, and there was not a moment’s
-interval in crash, and fire, and rain, until after the moon rose at
+for no voice could be heard in it. A memorable [[Storm|storm]] of thunder and
+[[Lightning|lightning]] broke with that sweep of [[Water|water]], and there was not a moment’s
+interval in crash, and [[Fire|fire]], and rain, until after the [[Moon|moon]] [[Rose|rose]] at
 midnight.
 
 The great bell of Saint Paul’s was striking one in the cleared air, when
 Mr. Lorry, escorted by Jerry, high-booted and bearing a lantern, set
 forth on his return-passage to Clerkenwell. There were solitary patches
-of road on the way between Soho and Clerkenwell, and Mr. Lorry, mindful
+of [[Road|road]] on the way between Soho and Clerkenwell, and Mr. Lorry, mindful
 of foot-pads, always retained Jerry for this service: though it was
 usually performed a good two hours earlier.
 
-“What a night it has been! Almost a night, Jerry,” said Mr. Lorry, “to
+“What a [[Night|night]] it has been! Almost a [[Night|night]], Jerry,” said Mr. Lorry, “to
 bring the dead out of their graves.”
 
-“I never see the night myself, master--nor yet I don’t expect to--what
+“I never see the [[Night|night]] myself, master--nor yet I don’t expect to--what
 would do that,” answered Jerry.
 
-“Good night, Mr. Carton,” said the man of business. “Good night, Mr.
-Darnay. Shall we ever see such a night again, together!”
+“Good [[Night|night]], Mr. Carton,” said the man of business. “Good [[Night|night]], Mr.
+Darnay. Shall we ever see such a [[Night|night]] again, together!”
 
 Perhaps. Perhaps, see the great crowd of people with its rush and roar,
 bearing down upon them, too.

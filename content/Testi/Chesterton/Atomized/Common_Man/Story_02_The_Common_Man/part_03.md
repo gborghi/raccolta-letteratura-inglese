@@ -1,5 +1,5 @@
 ---
-title: "Common Man — The Common Man (part 3)"
+title: "[[Common Man]] — The [[Common Man]] (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Common-Man-(Chesterton)"
@@ -28,15 +28,15 @@ on which were mainly based the politics of the nineteenth century.
 It was they who taught these things scientifically and systematically
 to the public, and even to the populace.  But what were the things,
 and what were the theories?  Perhaps the best and broadest of them
-was a most monstrous and mythical superstition of Adam Smith;
-a theological theory that providence had so made the world that men
+was a most monstrous and mythical superstition of Adam [[smith|Smith]];
+a theological theory that [[Providence|providence]] had so made the world that men
 might be happy through their selfishness; or, in other words,
 that God would overrule everything for good, if only men could
 succeed in being sufficiently bad.  The intellectuals in this
 epoch taught definitely and dogmatically that if only men would
 buy and sell freely, lend or borrow freely, sweat or sack freely,
 and in practice, steal or swindle freely, humanity would be happy.
-The Common Man soon found out how happy; in the Slums where they
+The [[Common Man]] soon found out how happy; in the Slums where they
 left him and in the Slump to which they led him.
 
 We need not continue, through the last two centuries, all the tale
@@ -49,29 +49,29 @@ they proclaimed some primary truths along with many priggish falsehoods.
 Some of them did rightly exalt liberty and human dignity
 and equality, as expressed in the Declaration of Independence.
 But even that was so much mishandled that there is now a disposition
-to deny the truth along with the falsehood.  There has been a reaction
-against Democracy; or, in plain words, the prigs are now too bored
-even to go on with their normal routine about the Common Man;
+to deny the [[Truth|truth]] along with the falsehood.  There has been a reaction
+against [[Democracy]]; or, in plain words, the prigs are now too bored
+even to go on with their normal routine about the [[Common Man]];
 the familiar routine of oppressing him in practice and adoring
 him in theory.
 
 I do not adore him, but I do believe in him; at least I believe
-in him much more than I believe in them.  I think the actual history
+in him much more than I believe in them.  I think the actual [[history]]
 of the relations between him and them, as I have narrated it,
 is enough to justify my preference.  I repeat that they have had
 all the educational advantages over him; they have always led him;
 and they have always misled him.  And even in becoming reactionaries,
 they remain as raw and crude as when they were revolutionaries.
-Their anti-democracy is as much stuffed with cant as their democracy.
+Their anti-[[Democracy|democracy]] is as much stuffed with cant as their [[Democracy|democracy]].
 I need only allude to the detestable new fashion of referring to ordinary
-men as morons.  First, it is pedantry, the dullest form of vanity;
-for a moron is only the Greek for a fool; and it is mostly sham pedantry,
+men as morons.  First, it is pedantry, the dullest form of [[Vanity|vanity]];
+for a moron is only the Greek for a [[Fool|fool]]; and it is mostly sham pedantry,
 for most of those who mention morons hardly know they are talking Greek,
 still less why on earth they should.  It also involves this moral evil:
 that a man who says that men are mostly fools knows at least
-that he has often made a fool of himself; whereas the morons are
+that he has often made a [[Fool|fool]] of himself; whereas the morons are
 thought of like monkeys; as if they were a fixed tribe or caste.
-The Common Man may well be the victim of a new series of tyrannies,
+The [[Common Man]] may [[Well|well]] be the victim of a new series of tyrannies,
 founded on this scientific fad of regarding him as a monkey.
 But it is doubtful whether he can be much more persecuted for having
 the instincts of a moron, than he has already been for having

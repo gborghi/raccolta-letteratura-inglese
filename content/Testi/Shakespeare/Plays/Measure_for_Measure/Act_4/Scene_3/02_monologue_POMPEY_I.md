@@ -1,5 +1,5 @@
 ---
-title: "Measure for Measure — Act IV, Scene 3 — monologue (POMPEY I) [2]"
+title: "Measure for Measure — Act IV, Scene 3 — monologue ([[Pompey|POMPEY]] I) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/MEASURE-FOR-MEASURE-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| POMPEY | I am as well acquainted here as I was in our house of profession. One would think it were Mistress Overdone’s own house, for here be many of her old customers. First, here’s young Master Rash; he’s in for a commodity of brown paper and old ginger, nine score and seventeen pounds, of which he made five marks ready money. Marry, then ginger was not much in request, for the old women were all dead. Then is there here one Master Caper, at the suit of Master Threepile the mercer, for some four suits of peach-coloured satin, which now peaches him a beggar. Then have we here young Dizzy, and young Master Deepvow, and Master Copperspur and Master Starve-lackey the rapier and dagger man, and young Drop-hair that killed lusty Pudding, and Master Forthright the tilter, and brave Master Shoe-tie the great traveller, and wild Half-can that stabbed Pots, and I think forty more, all great doers in our trade, and are now ‘for the Lord’s sake’. Enter Abhorson |
+| [[Pompey|POMPEY]] | I am as [[Well|well]] acquainted here as I was in our [[house]] of profession. One would think it were Mistress Overdone’s own [[house]], for here be many of her old customers. First, here’s young Master Rash; he’s in for a commodity of brown paper and old ginger, nine score and seventeen pounds, of which he made five marks ready money. Marry, then ginger was not much in request, for the old women were all dead. Then is there here one Master Caper, at the suit of Master Threepile the mercer, for some four suits of peach-coloured satin, which now peaches him a beggar. Then have we here young Dizzy, and young Master Deepvow, and Master Copperspur and Master Starve-lackey the rapier and dagger man, and young Drop-hair that killed lusty Pudding, and Master Forthright the tilter, and brave Master Shoe-tie the great traveller, and wild Half-can that stabbed Pots, and I think forty more, all great doers in our trade, and are now ‘for the Lord’s sake’. Enter Abhorson |

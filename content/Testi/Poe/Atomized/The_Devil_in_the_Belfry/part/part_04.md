@@ -1,5 +1,5 @@
 ---
-title: "The Devil in the Belfry (part 4)"
+title: "[[The Devil in the Belfry]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Devil-in-the-Belfry-(Poe)"
@@ -68,7 +68,7 @@ tags:
 
       smoke. There he sat in the belfry upon the belfry-man, who was
 
-      lying flat upon his back. In his teeth the villain held the
+      lying flat upon his back. In his teeth the [[Villain|villain]] held the
 
       bell-rope, which he kept jerking about with his head, raising
 
@@ -76,7 +76,7 @@ tags:
 
       his lap lay the big fiddle, at which he was scraping, out of all
 
-      time and tune, with both hands, making a great show, the
+      [[Time|time]] and tune, with both hands, making a great show, the
 
       nincompoop! of playing “Judy O’Flannagan and Paddy O’Rafferty.”
 
@@ -84,9 +84,9 @@ tags:
 
       Affairs being thus miserably situated, I left the place in
 
-      disgust, and now appeal for aid to all lovers of correct time and
+      disgust, and now appeal for aid to all [[lovers]] of correct [[Time|time]] and
 
-      fine kraut. Let us proceed in a body to the borough, and restore
+      fine kraut. Let us proceed in a [[Body|body]] to the borough, and restore
 
       the ancient order of things in Vondervotteimittiss by ejecting
 

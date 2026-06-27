@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 49"
+title: "[[Sense and Sensibility]] — Chapter 49"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,7 +24,7 @@ Unaccountable, however, as the circumstances of his release might
 
 appear to the whole family, it was certain that Edward was free; and to
 
-what purpose that freedom would be employed was easily pre-determined
+what purpose that [[Freedom|freedom]] would be employed was easily pre-determined
 
 by all;—for after experiencing the blessings of _one_ imprudent
 
@@ -56,27 +56,27 @@ expressed himself, and how he was received, need not be particularly
 
 told. This only need be said;—that when they all sat down to table at
 
-four o’clock, about three hours after his arrival, he had secured his
+four o’[[Clock|clock]], about three hours after his arrival, he had secured his
 
 lady, engaged her mother’s consent, and was not only in the rapturous
 
-profession of the lover, but, in the reality of reason and truth, one
+profession of the [[Lover|lover]], but, in the reality of reason and [[Truth|truth]], one
 
 of the happiest of men. His situation indeed was more than commonly
 
-joyful. He had more than the ordinary triumph of accepted love to swell
+joyful. He had more than the ordinary triumph of accepted [[Love|love]] to swell
 
 his heart, and raise his spirits. He was released without any reproach
 
 to himself, from an entanglement which had long formed his misery, from
 
-a woman whom he had long ceased to love;—and elevated at once to that
+a woman whom he had long ceased to [[Love|love]];—and elevated at once to that
 
 security with another, which he must have thought of almost with
 
-despair, as soon as he had learnt to consider it with desire. He was
+[[Despair|despair]], as soon as he had learnt to consider it with [[Desire|desire]]. He was
 
-brought, not from doubt or suspense, but from misery to happiness;—and
+brought, not from [[Doubt|doubt]] or suspense, but from misery to happiness;—and
 
 the change was openly spoken in such a genuine, flowing, grateful
 
@@ -102,9 +102,9 @@ from the care of Mr. Pratt, I think, nay, I am sure, it would never
 
 have happened; for though I left Longstaple with what I thought, at the
 
-time, a most unconquerable preference for his niece, yet had I then had
+[[Time|time]], a most unconquerable preference for his niece, yet had I then had
 
-any pursuit, any object to engage my time and keep me at a distance
+any pursuit, any object to engage my [[Time|time]] and keep me at a distance
 
 from her for a few months, I should very soon have outgrown the fancied
 
@@ -114,25 +114,25 @@ must have done. But instead of having any thing to do, instead of
 
 having any profession chosen for me, or being allowed to chuse any
 
-myself, I returned home to be completely idle; and for the first
+myself, I returned [[Home|home]] to be completely idle; and for the first
 
 twelvemonth afterwards I had not even the nominal employment, which
 
 belonging to the university would have given me; for I was not entered
 
-at Oxford till I was nineteen. I had therefore nothing in the world to
+at [[Oxford]] till I was nineteen. I had therefore nothing in the world to
 
-do, but to fancy myself in love; and as my mother did not make my home
+do, but to fancy myself in [[Love|love]]; and as my mother did not make my [[Home|home]]
 
 in every respect comfortable, as I had no friend, no companion in my
 
 brother, and disliked new acquaintance, it was not unnatural for me to
 
-be very often at Longstaple, where I always felt myself at home, and
+be very often at Longstaple, where I always felt myself at [[Home|home]], and
 
 was always sure of a welcome; and accordingly I spent the greatest part
 
-of my time there from eighteen to nineteen: Lucy appeared everything
+of my [[Time|time]] there from eighteen to nineteen: Lucy appeared everything
 
 that was amiable and obliging. She was pretty too—at least I thought so
 
@@ -140,9 +140,9 @@ _then;_ and I had seen so little of other women, that I could make no
 
 comparisons, and see no defects. Considering everything, therefore, I
 
-hope, foolish as our engagement was, foolish as it has since in every
+[[Hope|hope]], foolish as our engagement was, foolish as it has since in every
 
-way been proved, it was not at the time an unnatural or an inexcusable
+way been proved, it was not at the [[Time|time]] an unnatural or an inexcusable
 
 piece of folly.”
 
@@ -152,9 +152,9 @@ The change which a few hours had wrought in the minds and the happiness
 
 of the Dashwoods, was such—so great—as promised them all, the
 
-satisfaction of a sleepless night. Mrs. Dashwood, too happy to be
+satisfaction of a sleepless [[Night|night]]. Mrs. Dashwood, too happy to be
 
-comfortable, knew not how to love Edward, nor praise Elinor enough, how
+comfortable, knew not how to [[Love|love]] Edward, nor praise Elinor enough, how
 
 to be enough thankful for his release without wounding his delicacy,
 
@@ -164,9 +164,9 @@ together, and yet enjoy, as she wished, the sight and society of both.
 
 
 
-Marianne could speak _her_ happiness only by tears. Comparisons would
+Marianne could speak _her_ happiness only by [[Tears|tears]]. Comparisons would
 
-occur—regrets would arise; and her joy, though sincere as her love for
+occur—regrets would arise; and her joy, though sincere as her [[Love|love]] for
 
 her sister, was of a kind to give her neither spirits nor language.
 
@@ -180,7 +180,7 @@ moment of his justifying the hopes which had so instantly followed, she
 
 was every thing by turns but tranquil. But when the second moment had
 
-passed, when she found every doubt, every solicitude removed, compared
+passed, when she found every [[Doubt|doubt]], every solicitude removed, compared
 
 her situation with what so lately it had been,—saw him honourably
 
@@ -212,7 +212,7 @@ the future;—for though a very few hours spent in the hard labor of
 
 incessant talking will despatch more subjects than can really be in
 
-common between any two rational creatures, yet with lovers it is
+common between any two rational creatures, yet with [[lovers]] it is
 
 different. Between _them_ no subject is finished, no communication is
 
@@ -220,9 +220,9 @@ even made, till it has been made at least twenty times over.
 
 
 
-Lucy’s marriage, the unceasing and reasonable wonder among them all,
+Lucy’s [[Marriage|marriage]], the unceasing and reasonable [[Wonder|wonder]] among them all,
 
-formed of course one of the earliest discussions of the lovers;—and
+formed of course one of the earliest discussions of the [[lovers]];—and
 
 Elinor’s particular knowledge of each party made it appear to her in
 
@@ -232,7 +232,7 @@ circumstances she had ever heard. How they could be thrown together,
 
 and by what attraction Robert could be drawn on to marry a girl, of
 
-whose beauty she had herself heard him speak without any admiration,—a
+whose [[Beauty|beauty]] she had herself heard him speak without any admiration,—a
 
 girl too already engaged to his brother, and on whose account that
 
@@ -240,7 +240,7 @@ brother had been thrown off by his family—it was beyond her
 
 comprehension to make out. To her own heart it was a delightful affair,
 
-to her imagination it was even a ridiculous one, but to her reason, her
+to her [[Imagination|imagination]] it was even a ridiculous one, but to her reason, her
 
 judgment, it was completely a puzzle.
 
@@ -248,7 +248,7 @@ judgment, it was completely a puzzle.
 
 Edward could only attempt an explanation by supposing, that, perhaps,
 
-at first accidentally meeting, the vanity of the one had been so worked
+at first accidentally meeting, the [[Vanity|vanity]] of the one had been so worked
 
 on by the flattery of the other, as to lead by degrees to all the rest.
 
@@ -256,7 +256,7 @@ Elinor remembered what Robert had told her in Harley Street, of his
 
 opinion of what his own mediation in his brother’s affairs might have
 
-done, if applied to in time. She repeated it to Edward.
+done, if applied to in [[Time|time]]. She repeated it to Edward.
 
 
 
@@ -274,9 +274,9 @@ might afterward arise.”
 
 How long it had been carrying on between them, however, he was equally
 
-at a loss with herself to make out; for at Oxford, where he had
+at a loss with herself to make out; for at [[Oxford]], where he had
 
-remained for choice ever since his quitting London, he had had no means
+remained for choice ever since his quitting [[London]], he had had no means
 
 of hearing of her but from herself, and her letters to the very last
 
@@ -286,9 +286,9 @@ smallest suspicion, therefore, had ever occurred to prepare him for
 
 what followed;—and when at last it burst on him in a letter from Lucy
 
-herself, he had been for some time, he believed, half stupified between
+herself, he had been for some [[Time|time]], he believed, half stupified between
 
-the wonder, the horror, and the joy of such a deliverance. He put the
+the [[Wonder|wonder]], the horror, and the joy of such a deliverance. He put the
 
 letter into Elinor’s hands.
 
@@ -298,7 +298,7 @@ letter into Elinor’s hands.
 
     “Being very sure I have long lost your affections, I have thought
 
-    myself at liberty to bestow my own on another, and have no doubt of
+    myself at liberty to bestow my own on another, and have no [[Doubt|doubt]] of
 
     being as happy with him as I once used to think I might be with
 
@@ -326,7 +326,7 @@ letter into Elinor’s hands.
 
 
 
-“Your sincere well-wisher, friend, and sister,
+“Your sincere [[Well|well]]-wisher, friend, and sister,
 
 “LUCY FERRARS.
 
@@ -392,19 +392,19 @@ In what state the affair stood at present between them, Edward knew
 
 not, for no communication with any of his family had yet been attempted
 
-by him. He had quitted Oxford within four and twenty hours after Lucy’s
+by him. He had quitted [[Oxford]] within four and twenty hours after Lucy’s
 
-letter arrived, and with only one object before him, the nearest road
+letter arrived, and with only one object before him, the nearest [[Road|road]]
 
 to Barton, had had no leisure to form any scheme of conduct, with which
 
-that road did not hold the most intimate connection. He could do
+that [[Road|road]] did not hold the most intimate connection. He could do
 
 nothing till he were assured of his fate with Miss Dashwood; and by his
 
 rapidity in seeking _that_ fate, it is to be supposed, in spite of the
 
-jealousy with which he had once thought of Colonel Brandon, in spite of
+[[Jealousy|jealousy]] with which he had once thought of [[Colonel Brandon]], in spite of
 
 the modesty with which he rated his own deserts, and the politeness
 
@@ -414,7 +414,7 @@ a very cruel reception. It was his business, however, to say that he
 
 _did_, and he said it very prettily. What he might say on the subject a
 
-twelvemonth after, must be referred to the imagination of husbands and
+twelvemonth after, must be referred to the [[Imagination|imagination]] of husbands and
 
 wives.
 
@@ -428,19 +428,19 @@ Elinor; and Edward himself, now thoroughly enlightened on her
 
 character, had no scruple in believing her capable of the utmost
 
-meanness of wanton ill-nature. Though his eyes had been long opened,
+meanness of wanton ill-[[Nature|nature]]. Though his eyes had been long opened,
 
 even before his acquaintance with Elinor began, to her ignorance and a
 
 want of liberality in some of her opinions—they had been equally
 
-imputed, by him, to her want of education; and till her last letter
+imputed, by him, to her want of [[Education|education]]; and till her last letter
 
-reached him, he had always believed her to be a well-disposed,
+reached him, he had always believed her to be a [[Well|well]]-disposed,
 
 good-hearted girl, and thoroughly attached to himself. Nothing but such
 
-a persuasion could have prevented his putting an end to an engagement,
+a [[Persuasion|persuasion]] could have prevented his putting an end to an engagement,
 
 which, long before the discovery of it laid him open to his mother’s
 
@@ -456,7 +456,7 @@ renounced by my mother, and stood to all appearance without a friend in
 
 the world to assist me. In such a situation as that, where there seemed
 
-nothing to tempt the avarice or the vanity of any living creature, how
+nothing to tempt the avarice or the [[Vanity|vanity]] of any living creature, how
 
 could I suppose, when she so earnestly, so warmly insisted on sharing
 
@@ -470,13 +470,13 @@ be to her, to be fettered to a man for whom she had not the smallest
 
 regard, and who had only two thousand pounds in the world. She could
 
-not foresee that Colonel Brandon would give me a living.”
+not foresee that [[Colonel Brandon]] would give me a living.”
 
 
 
 “No; but she might suppose that something would occur in your favour;
 
-that your own family might in time relent. And at any rate, she lost
+that your own family might in [[Time|time]] relent. And at any rate, she lost
 
 nothing by continuing the engagement, for she has proved that it
 
@@ -492,7 +492,7 @@ be better for her to marry _you_ than be single.”
 
 Edward was, of course, immediately convinced that nothing could have
 
-been more natural than Lucy’s conduct, nor more self-evident than the
+been more natural than Lucy’s conduct, nor more [[Self|self]]-evident than the
 
 motive of it.
 
@@ -500,7 +500,7 @@ motive of it.
 
 Elinor scolded him, harshly as ladies always scold the imprudence which
 
-compliments themselves, for having spent so much time with them at
+compliments themselves, for having spent so much [[Time|time]] with them at
 
 Norland, when he must have felt his own inconstancy.
 
@@ -526,9 +526,9 @@ another, there could be no danger in my being with you; and that the
 
 consciousness of my engagement was to keep my heart as safe and sacred
 
-as my honour. I felt that I admired you, but I told myself it was only
+as my [[Honour|honour]]. I felt that I admired you, but I told myself it was only
 
-friendship; and till I began to make comparisons between yourself and
+[[Friendship|friendship]]; and till I began to make comparisons between yourself and
 
 Lucy, I did not know how far I was got. After that, I suppose, I _was_
 
@@ -546,7 +546,7 @@ Elinor smiled, and shook her head.
 
 
 
-Edward heard with pleasure of Colonel Brandon’s being expected at the
+Edward heard with pleasure of [[Colonel Brandon]]’s being expected at the
 
 Cottage, as he really wished not only to be better acquainted with him,
 
@@ -564,11 +564,11 @@ _Now_ he felt astonished himself that he had never yet been to the
 
 place. But so little interest had he taken in the matter, that he owed
 
-all his knowledge of the house, garden, and glebe, extent of the
+all his knowledge of the [[house]], [[Garden|garden]], and glebe, extent of the
 
 parish, condition of the land, and rate of the tithes, to Elinor
 
-herself, who had heard so much of it from Colonel Brandon, and heard it
+herself, who had heard so much of it from [[Colonel Brandon]], and heard it
 
 with so much attention, as to be entirely mistress of the subject.
 
@@ -590,7 +590,7 @@ that they could call their own; for it was impossible that Mrs.
 
 Dashwood should advance anything; and they were neither of them quite
 
-enough in love to think that three hundred and fifty pounds a-year
+enough in [[Love|love]] to think that three hundred and fifty pounds a-year
 
 would supply them with the comforts of life.
 
@@ -606,25 +606,25 @@ be unable to marry Miss Morton, and his chusing herself had been spoken
 
 of in Mrs. Ferrars’s flattering language as only a lesser evil than his
 
-chusing Lucy Steele, she feared that Robert’s offence would serve no
+chusing [[Lucy Steele]], she feared that Robert’s offence would serve no
 
 other purpose than to enrich Fanny.
 
 
 
-About four days after Edward’s arrival Colonel Brandon appeared, to
+About four days after Edward’s arrival [[Colonel Brandon]] appeared, to
 
 complete Mrs. Dashwood’s satisfaction, and to give her the dignity of
 
-having, for the first time since her living at Barton, more company
+having, for the first [[Time|time]] since her living at Barton, more company
 
-with her than her house would hold. Edward was allowed to retain the
+with her than her [[house]] would hold. Edward was allowed to retain the
 
-privilege of first comer, and Colonel Brandon therefore walked every
+privilege of first comer, and [[Colonel Brandon]] therefore walked every
 
-night to his old quarters at the Park; from whence he usually returned
+[[Night|night]] to his old quarters at the Park; from whence he usually returned
 
-in the morning, early enough to interrupt the lovers’ first tête-à-tête
+in the morning, early enough to interrupt the [[lovers]]’ first tête-à-tête
 
 before breakfast.
 
@@ -642,7 +642,7 @@ of her welcome, and all the encouragement of her mother’s language, to
 
 make it cheerful. Among such friends, however, and such flattery, he
 
-did revive. No rumour of Lucy’s marriage had yet reached him:—he knew
+did revive. No rumour of Lucy’s [[Marriage|marriage]] had yet reached him:—he knew
 
 nothing of what had passed; and the first hours of his visit were
 
@@ -664,19 +664,19 @@ for it could not be otherwise. Their resemblance in good principles and
 
 good sense, in disposition and manner of thinking, would probably have
 
-been sufficient to unite them in friendship, without any other
+been sufficient to unite them in [[Friendship|friendship]], without any other
 
-attraction; but their being in love with two sisters, and two sisters
+attraction; but their being in [[Love|love]] with two sisters, and two sisters
 
 fond of each other, made that mutual regard inevitable and immediate,
 
-which might otherwise have waited the effect of time and judgment.
+which might otherwise have waited the effect of [[Time|time]] and judgment.
 
 
 
 The letters from town, which a few days before would have made every
 
-nerve in Elinor’s body thrill with transport, now arrived to be read
+nerve in Elinor’s [[Body|body]] thrill with transport, now arrived to be read
 
 with less emotion than mirth. Mrs. Jennings wrote to tell the wonderful
 
@@ -686,21 +686,21 @@ forth her compassion towards poor Mr. Edward, who, she was sure, had
 
 quite doted upon the worthless hussy, and was now, by all accounts,
 
-almost broken-hearted, at Oxford. “I do think,” she continued, “nothing
+almost broken-hearted, at [[Oxford]]. “I do think,” she continued, “nothing
 
 was ever carried on so sly; for it was but two days before Lucy called
 
-and sat a couple of hours with me. Not a soul suspected anything of the
+and sat a couple of hours with me. Not a [[Soul|soul]] suspected anything of the
 
-matter, not even Nancy, who, poor soul! came crying to me the day
+matter, not even [[Nancy]], who, poor [[Soul|soul]]! came crying to me the day
 
-after, in a great fright for fear of Mrs. Ferrars, as well as not
+after, in a great fright for [[Fear|fear]] of Mrs. Ferrars, as [[Well|well]] as not
 
 knowing how to get to Plymouth; for Lucy it seems borrowed all her
 
 money before she went off to be married, on purpose we suppose to make
 
-a show with, and poor Nancy had not seven shillings in the world; so I
+a show with, and poor [[Nancy]] had not seven shillings in the world; so I
 
 was very glad to give her five guineas to take her down to Exeter,
 
@@ -724,7 +724,7 @@ unfortunate of women—poor Fanny had suffered agonies of sensibility—and
 
 he considered the existence of each, under such a blow, with grateful
 
-wonder. Robert’s offence was unpardonable, but Lucy’s was infinitely
+[[Wonder|wonder]]. Robert’s offence was unpardonable, but Lucy’s was infinitely
 
 worse. Neither of them were ever again to be mentioned to Mrs. Ferrars;
 
@@ -738,7 +738,7 @@ carried on between them, was rationally treated as enormously
 
 heightening the crime, because, had any suspicion of it occurred to the
 
-others, proper measures would have been taken to prevent the marriage;
+others, proper measures would have been taken to prevent the [[Marriage|marriage]];
 
 and he called on Elinor to join with him in regretting that Lucy’s
 
@@ -756,9 +756,9 @@ surprise us; but, to our great astonishment, not a line has been
 
 received from him on the occasion. Perhaps, however, he is kept silent
 
-by his fear of offending, and I shall, therefore, give him a hint, by a
+by his [[Fear|fear]] of offending, and I shall, therefore, give him a hint, by a
 
-line to Oxford, that his sister and I both think a letter of proper
+line to [[Oxford]], that his sister and I both think a letter of proper
 
 submission from him, addressed perhaps to Fanny, and by her shown to
 
@@ -772,7 +772,7 @@ on good terms with her children.”
 
 This paragraph was of some importance to the prospects and conduct of
 
-Edward. It determined him to attempt a reconciliation, though not
+Edward. It determined him to attempt a [[Reconciliation|reconciliation]], though not
 
 exactly in the manner pointed out by their brother and sister.
 
@@ -782,7 +782,7 @@ exactly in the manner pointed out by their brother and sister.
 
 my mother’s pardon for Robert’s ingratitude to _her_, and breach of
 
-honour to _me?_ I can make no submission. I am grown neither humble nor
+[[Honour|honour]] to _me?_ I can make no submission. I am grown neither humble nor
 
 penitent by what has passed. I am grown very happy; but that would not
 
@@ -804,7 +804,7 @@ He agreed that he might.
 
 
 
-“And when she has forgiven you, perhaps a little humility may be
+“And when she has forgiven you, perhaps a little [[Humility|humility]] may be
 
 convenient while acknowledging a second engagement, almost as imprudent
 
@@ -820,26 +820,26 @@ as he declared a much greater willingness to make mean concessions by
 
 word of mouth than on paper, it was resolved that, instead of writing
 
-to Fanny, he should go to London, and personally intreat her good
+to Fanny, he should go to [[London]], and personally intreat her good
 
 offices in his favour. “And if they really _do_ interest themselves,”
 
 said Marianne, in her new character of candour, “in bringing about a
 
-reconciliation, I shall think that even John and Fanny are not entirely
+[[Reconciliation|reconciliation]], I shall think that even John and Fanny are not entirely
 
 without merit.”
 
 
 
-After a visit on Colonel Brandon’s side of only three or four days, the
+After a visit on [[Colonel Brandon]]’s side of only three or four days, the
 
 two gentlemen quitted Barton together. They were to go immediately to
 
 Delaford, that Edward might have some personal knowledge of his future
 
-home, and assist his patron and friend in deciding on what improvements
+[[Home|home]], and assist his patron and friend in deciding on what improvements
 
 were needed to it; and from thence, after staying there a couple of
 
-nights, he was to proceed on his journey to town.
+nights, he was to proceed on his [[Journey|journey]] to town.

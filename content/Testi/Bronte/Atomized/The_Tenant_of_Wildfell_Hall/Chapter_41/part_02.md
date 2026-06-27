@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 41 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 41 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-The time passed quickly, but very, very happily, and it has done me
+The [[Time|time]] passed quickly, but very, very happily, and it has done me
 
 good. I must have a bad disposition, for my misfortunes have soured and
 
@@ -26,13 +26,13 @@ especially; but it is a comfort to see there is at least one among them
 
 worthy to be trusted and esteemed; and doubtless there are more, though
 
-I have never known them, unless I except poor Lord Lowborough, and he
+I have never known them, unless I except poor [[Lord Lowborough]], and he
 
 was bad enough in his day. But what would Frederick have been, if he
 
-had lived in the world, and mingled from his childhood with such men as
+had lived in the world, and mingled from his [[Childhood|childhood]] with such men as
 
-these of my acquaintance? and what _will_ Arthur be, with all his
+these of my acquaintance? and what _will_ [[arthur|Arthur]] be, with all his
 
 natural sweetness of disposition, if I do not save him from that world
 
@@ -50,7 +50,7 @@ think he resembles you more than his father; and I am glad of it.”
 
 
 
-“You flatter me, Helen,” replied he, stroking the child’s soft, wavy
+“You flatter me, [[Helen]],” replied he, stroking the [[Child|child]]’s soft, wavy
 
 locks.
 
@@ -76,7 +76,7 @@ He slightly elevated his eyebrows, but said nothing.
 
 “Have you so clear an idea that you can hear, without surprise or
 
-disapproval, that I meditate escaping with that child to some secret
+disapproval, that I meditate escaping with that [[Child|child]] to some secret
 
 asylum, where we can live in peace, and never see him again?”
 
@@ -88,9 +88,9 @@ asylum, where we can live in peace, and never see him again?”
 
 “If you have not,” continued I, “I’ll tell you something more about
 
-him”; and I gave a sketch of his general conduct, and a more particular
+him”; and I gave a [[Sketch|sketch]] of his general conduct, and a more particular
 
-account of his behaviour with regard to his child, and explained my
+account of his behaviour with regard to his [[Child|child]], and explained my
 
 apprehensions on the latter’s account, and my determination to deliver
 
@@ -102,7 +102,7 @@ Frederick was exceedingly indignant against Mr. Huntingdon, and very
 
 much grieved for me; but still he looked upon my project as wild and
 
-impracticable. He deemed my fears for Arthur disproportioned to the
+impracticable. He deemed my fears for [[arthur|Arthur]] disproportioned to the
 
 circumstances, and opposed so many objections to my plan, and devised
 
@@ -114,7 +114,7 @@ was utterly incorrigible, and that nothing could persuade him to give
 
 up his son, whatever became of me, he being as fully determined the
 
-child should not leave him, as I was not to leave the child; and that,
+[[Child|child]] should not leave him, as I was not to leave the [[Child|child]]; and that,
 
 in fact, nothing would answer but this, unless I fled the country, as I
 
@@ -122,7 +122,7 @@ had intended before. To obviate that, he at length consented to have
 
 one wing of the old hall put into a habitable condition, as a place of
 
-refuge against a time of need; but hoped I would not take advantage of
+refuge against a [[Time|time]] of need; but hoped I would not take advantage of
 
 it unless circumstances should render it really necessary, which I was
 
@@ -138,7 +138,7 @@ aunt, I will stay if I possibly can.
 
 
 
-July 29th.—Mrs. Hargrave and her daughter are come back from London.
+July 29th.—Mrs. Hargrave and her daughter are come back from [[London]].
 
 Esther is full of her first season in town; but she is still
 
@@ -156,7 +156,7 @@ shall be nameless.
 
 
 
-“But, indeed, I had a hard time of it,” said she: “mamma was very
+“But, indeed, I had a hard [[Time|time]] of it,” said she: “mamma was very
 
 greatly disappointed at the failure of her darling project, and very,
 
@@ -164,7 +164,7 @@ very angry at my obstinate resistance to her will, and is so still; but
 
 I can’t help it. And Walter, too, is so seriously displeased at my
 
-perversity and absurd caprice, as he calls it, that I fear he will
+perversity and absurd caprice, as he calls it, that I [[Fear|fear]] he will
 
 never forgive me—I did not think he _could_ be so unkind as he has
 
@@ -188,7 +188,7 @@ shocked at my undutiful conduct. You can’t imagine how she lectures me:
 
 I am disobedient and ungrateful; I am thwarting her wishes, wronging my
 
-brother, and making myself a burden on her hands. I sometimes fear
+brother, and making myself a burden on her hands. I sometimes [[Fear|fear]]
 
 she’ll overcome me after all. I have a strong will, but so has she, and
 
@@ -220,12 +220,12 @@ that I have refused his offer, not from any dislike of his person, but
 
 merely because I am giddy and young, and cannot at present reconcile
 
-myself to the thoughts of marriage under any circumstances: but by next
+myself to the thoughts of [[Marriage|marriage]] under any circumstances: but by next
 
-season, she has no doubt, I shall have more sense, and hopes my girlish
+season, she has no [[Doubt|doubt]], I shall have more sense, and hopes my girlish
 
-fancies will be worn away. So she has brought me home, to school me
+fancies will be worn away. So she has brought me [[Home|home]], to school me
 
-into a proper sense of my duty, against the time comes round again.
+into a proper sense of my duty, against the [[Time|time]] comes round again.
 
 Indeed, I believe she will not put herself to the expense of taking me

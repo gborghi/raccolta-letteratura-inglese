@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 18"
+title: "[[Great Expectations]] — Chapter 18"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -18,20 +18,20 @@ Chapter XVIII.
 
 
 It was in the fourth year of my apprenticeship to Joe, and it was a
-Saturday night. There was a group assembled round the fire at the Three
+Saturday [[Night|night]]. There was a group assembled round the [[Fire|fire]] at the Three
 Jolly Bargemen, attentive to Mr. Wopsle as he read the newspaper aloud.
 Of that group I was one.
 
 A highly popular murder had been committed, and Mr. Wopsle was imbrued
-in blood to the eyebrows. He gloated over every abhorrent adjective in
+in [[Blood|blood]] to the eyebrows. He gloated over every abhorrent adjective in
 the description, and identified himself with every witness at the
 Inquest. He faintly moaned, “I am done for,” as the victim, and he
 barbarously bellowed, “I’ll serve you out,” as the murderer. He gave
-the medical testimony, in pointed imitation of our local practitioner;
+the medical testimony, in pointed [[Imitation|imitation]] of our local practitioner;
 and he piped and shook, as the aged turnpike-keeper who had heard
-blows, to an extent so very paralytic as to suggest a doubt regarding
+blows, to an extent so very paralytic as to suggest a [[Doubt|doubt]] regarding
 the mental competency of that witness. The coroner, in Mr. Wopsle’s
-hands, became Timon of Athens; the beadle, Coriolanus. He enjoyed
+hands, became [[Timon]] of Athens; the beadle, [[Coriolanus]]. He enjoyed
 himself thoroughly, and we all enjoyed ourselves, and were delightfully
 comfortable. In this cosey state of mind we came to the verdict Wilful
 Murder.
@@ -41,21 +41,21 @@ over the back of the settle opposite me, looking on. There was an
 expression of contempt on his face, and he bit the side of a great
 forefinger as he watched the group of faces.
 
-“Well!” said the stranger to Mr. Wopsle, when the reading was done,
-“you have settled it all to your own satisfaction, I have no doubt?”
+“[[Well]]!” said the stranger to Mr. Wopsle, when the reading was done,
+“you have settled it all to your own satisfaction, I have no [[Doubt|doubt]]?”
 
 Everybody started and looked up, as if it were the murderer. He looked
 at everybody coldly and sarcastically.
 
 “Guilty, of course?” said he. “Out with it. Come!”
 
-“Sir,” returned Mr. Wopsle, “without having the honour of your
-acquaintance, I do say Guilty.” Upon this we all took courage to unite
+“Sir,” returned Mr. Wopsle, “without having the [[Honour|honour]] of your
+acquaintance, I do say Guilty.” Upon this we all took [[Courage|courage]] to unite
 in a confirmatory murmur.
 
 “I know you do,” said the stranger; “I knew you would. I told you so.
 But now I’ll ask you a question. Do you know, or do you not know, that
-the law of England supposes every man to be innocent, until he is
+the law of England supposes every man to be [[Innocent|innocent]], until he is
 proved—proved—to be guilty?”
 
 “Sir,” Mr. Wopsle began to reply, “as an Englishman myself, I—”
@@ -75,7 +75,7 @@ Wopsle,—as it were to mark him out—before biting it again.
 “Certainly you know it. Then why didn’t you say so at first? Now, I’ll
 ask you another question,”—taking possession of Mr. Wopsle, as if he
 had a right to him,—“_do_ you know that none of these witnesses have
-yet been cross-examined?”
+yet been [[Cross|cross]]-examined?”
 
 Mr. Wopsle was beginning, “I can only say—” when the stranger stopped
 him.
@@ -83,7 +83,7 @@ him.
 “What? You won’t answer the question, yes or no? Now, I’ll try you
 again.” Throwing his finger at him again. “Attend to me. Are you aware,
 or are you not aware, that none of these witnesses have yet been
-cross-examined? Come, I only want one word from you. Yes, or no?”
+[[Cross|cross]]-examined? Come, I only want one word from you. Yes, or no?”
 
 Mr. Wopsle hesitated, and we all began to conceive rather a poor
 opinion of him.
@@ -105,11 +105,11 @@ advisers instructed him altogether to reserve his defence?”
 “I read that just now,” Mr. Wopsle pleaded.
 
 “Never mind what you read just now, sir; I don’t ask you what you read
-just now. You may read the Lord’s Prayer backwards, if you like,—and,
+just now. You may read the Lord’s [[Prayer]] backwards, if you like,—and,
 perhaps, have done it before to-day. Turn to the paper. No, no, no my
 friend; not to the top of the column; you know better than that; to the
-bottom, to the bottom.” (We all began to think Mr. Wopsle full of
-subterfuge.) “Well? Have you found it?”
+[[Bottom|bottom]], to the [[Bottom|bottom]].” (We all began to think Mr. Wopsle full of
+subterfuge.) “[[Well]]? Have you found it?”
 
 “Here it is,” said Mr. Wopsle.
 
@@ -127,7 +127,7 @@ exact substance?”
 
 “Yes,” repeated the stranger, looking round at the rest of the company
 with his right hand extended towards the witness, Wopsle. “And now I
-ask you what you say to the conscience of that man who, with that
+ask you what you say to the [[Conscience|conscience]] of that man who, with that
 passage before his eyes, can lay his head upon his pillow after having
 pronounced a fellow-creature guilty, unheard?”
 
@@ -138,20 +138,20 @@ him, and that he was beginning to be found out.
 finger at Mr. Wopsle heavily,—“that same man might be summoned as a
 juryman upon this very trial, and, having thus deeply committed
 himself, might return to the bosom of his family and lay his head upon
-his pillow, after deliberately swearing that he would well and truly
-try the issue joined between Our Sovereign Lord the King and the
+his pillow, after deliberately swearing that he would [[Well|well]] and truly
+try the issue joined between Our Sovereign Lord the [[King]] and the
 prisoner at the bar, and would a true verdict give according to the
 evidence, so help him God!”
 
 We were all deeply persuaded that the unfortunate Wopsle had gone too
 far, and had better stop in his reckless career while there was yet
-time.
+[[Time|time]].
 
 The strange gentleman, with an air of authority not to be disputed, and
 with a manner expressive of knowing something secret about every one of
 us that would effectually do for each individual if he chose to
 disclose it, left the back of the settle, and came into the space
-between the two settles, in front of the fire, where he remained
+between the two settles, in front of the [[Fire|fire]], where he remained
 standing, his left hand in his pocket, and he biting the forefinger of
 his right.
 
@@ -170,7 +170,7 @@ Is he here?”
 
 The stranger did not recognise me, but I recognised him as the
 gentleman I had met on the stairs, on the occasion of my second visit
-to Miss Havisham. I had known him the moment I saw him looking over the
+to [[Miss Havisham]]. I had known him the moment I saw him looking over the
 settle, and now that I stood confronting him with his hand upon my
 shoulder, I checked off again in detail his large head, his dark
 complexion, his deep-set eyes, his bushy black eyebrows, his large
@@ -178,15 +178,15 @@ watch-chain, his strong black dots of beard and whisker, and even the
 smell of scented soap on his great hand.
 
 “I wish to have a private conference with you two,” said he, when he
-had surveyed me at his leisure. “It will take a little time. Perhaps we
+had surveyed me at his leisure. “It will take a little [[Time|time]]. Perhaps we
 had better go to your place of residence. I prefer not to anticipate my
 communication here; you will impart as much or as little of it as you
 please to your friends afterwards; I have nothing to do with that.”
 
-Amidst a wondering silence, we three walked out of the Jolly Bargemen,
-and in a wondering silence walked home. While going along, the strange
+Amidst a wondering [[Silence|silence]], we three walked out of the Jolly Bargemen,
+and in a wondering [[Silence|silence]] walked [[Home|home]]. While going along, the strange
 gentleman occasionally looked at me, and occasionally bit the side of
-his finger. As we neared home, Joe vaguely acknowledging the occasion
+his finger. As we neared [[Home|home]], Joe vaguely acknowledging the occasion
 as an impressive and ceremonious one, went on ahead to open the front
 door. Our conference was held in the state parlour, which was feebly
 lighted by one candle.
@@ -197,14 +197,14 @@ pocket-book. He then put up the pocket-book and set the candle a little
 aside, after peering round it into the darkness at Joe and me, to
 ascertain which was which.
 
-“My name,” he said, “is Jaggers, and I am a lawyer in London. I am
-pretty well known. I have unusual business to transact with you, and I
+“My name,” he said, “is Jaggers, and I am a lawyer in [[London]]. I am
+pretty [[Well|well]] known. I have unusual business to transact with you, and I
 commence by explaining that it is not of my originating. If my advice
 had been asked, I should not have been here. It was not asked, and you
 see me here. What I have to do as the confidential agent of another, I
 do. No less, no more.”
 
-Finding that he could not see us very well from where he sat, he got
+Finding that he could not see us very [[Well|well]] from where he sat, he got
 up, and threw one leg over the back of a chair and leaned upon it; thus
 having one foot on the seat of the chair, and one foot on the ground.
 
@@ -222,11 +222,11 @@ anything?”
 
 “The answer is,” returned Joe, sternly, “No.”
 
-I thought Mr. Jaggers glanced at Joe, as if he considered him a fool
+I thought Mr. Jaggers glanced at Joe, as if he considered him a [[Fool|fool]]
 for his disinterestedness. But I was too much bewildered between
 breathless curiosity and surprise, to be sure of it.
 
-“Very well,” said Mr. Jaggers. “Recollect the admission you have made,
+“Very [[Well|well]],” said Mr. Jaggers. “Recollect the admission you have made,
 and don’t try to go from it presently.”
 
 “Who’s a-going to try?” retorted Joe.
@@ -239,16 +239,16 @@ and don’t try to go from it presently.”
 Bear that in mind, will you?” repeated Mr. Jaggers, shutting his eyes
 and nodding his head at Joe, as if he were forgiving him something.
 “Now, I return to this young fellow. And the communication I have got
-to make is, that he has great expectations.”
+to make is, that he has [[Great Expectations|great expectations]].”
 
 Joe and I gasped, and looked at one another.
 
 “I am instructed to communicate to him,” said Mr. Jaggers, throwing his
 finger at me sideways, “that he will come into a handsome property.
-Further, that it is the desire of the present possessor of that
+Further, that it is the [[Desire|desire]] of the present possessor of that
 property, that he be immediately removed from his present sphere of
 life and from this place, and be brought up as a gentleman,—in a word,
-as a young fellow of great expectations.”
+as a young fellow of [[Great Expectations|great expectations]].”
 
 My dream was out; my wild fancy was surpassed by sober reality; Miss
 Havisham was going to make my fortune on a grand scale.
@@ -258,7 +258,7 @@ to say, to you. You are to understand, first, that it is the request of
 the person from whom I take my instructions that you always bear the
 name of Pip. You will have no objection, I dare say, to your great
 expectations being encumbered with that easy condition. But if you have
-any objection, this is the time to mention it.”
+any objection, this is the [[Time|time]] to mention it.”
 
 My heart was beating so fast, and there was such a singing in my ears,
 that I could scarcely stammer I had no objection.
@@ -283,7 +283,7 @@ whom I take my instructions, and for whom I am not otherwise
 responsible. That person is the person from whom you derive your
 expectations, and the secret is solely held by that person and by me.
 Again, not a very difficult condition with which to encumber such a
-rise in fortune; but if you have any objection to it, this is the time
+rise in fortune; but if you have any objection to it, this is the [[Time|time]]
 to mention it. Speak out.”
 
 Once more, I stammered with difficulty that I had no objection.
@@ -297,7 +297,7 @@ disparagement, if he only chose to mention them. “We come next, to mere
 details of arrangement. You must know that, although I have used the
 term ‘expectations’ more than once, you are not endowed with
 expectations only. There is already lodged in my hands a sum of money
-amply sufficient for your suitable education and maintenance. You will
+amply sufficient for your suitable [[Education|education]] and maintenance. You will
 please consider me your guardian. Oh!” for I was going to thank him, “I
 tell you at once, I am paid for my services, or I shouldn’t render
 them. It is considered that you must be better educated, in accordance
@@ -317,7 +317,7 @@ I stammered yes, that was it.
 wise, mind, but it’s my trust. Have you ever heard of any tutor whom
 you would prefer to another?”
 
-I had never heard of any tutor but Biddy and Mr. Wopsle’s great-aunt;
+I had never heard of any tutor but [[Biddy]] and Mr. Wopsle’s great-aunt;
 so, I replied in the negative.
 
 “There is a certain tutor, of whom I have some knowledge, who I think
@@ -325,9 +325,9 @@ might suit the purpose,” said Mr. Jaggers. “I don’t recommend him,
 observe; because I never recommend anybody. The gentleman I speak of is
 one Mr. Matthew Pocket.”
 
-Ah! I caught at the name directly. Miss Havisham’s relation. The
+Ah! I caught at the name directly. [[Miss Havisham]]’s relation. The
 Matthew whom Mr. and Mrs. Camilla had spoken of. The Matthew whose
-place was to be at Miss Havisham’s head, when she lay dead, in her
+place was to be at [[Miss Havisham]]’s head, when she lay dead, in her
 bride’s dress on the bride’s table.
 
 “You know the name?” said Mr. Jaggers, looking shrewdly at me, and then
@@ -348,7 +348,7 @@ Not recollecting myself, I began again that I was much obliged to him
 for his recommendation—
 
 “No, my young friend,” he interrupted, shaking his head and frowning
-and smiling both at once,—“no, no, no; it’s very well done, but it
+and smiling both at once,—“no, no, no; it’s very [[Well|well]] done, but it
 won’t do; you are too young to fix me with it. Recommendation is not
 the word, Mr. Pip. Try another.”
 
@@ -358,9 +358,9 @@ mention of Mr. Matthew Pocket—
 “_That_’s more like it!” cried Mr. Jaggers.—And (I added), I would
 gladly try that gentleman.
 
-“Good. You had better try him in his own house. The way shall be
-prepared for you, and you can see his son first, who is in London. When
-will you come to London?”
+“Good. You had better try him in his own [[house]]. The way shall be
+prepared for you, and you can see his son first, who is in [[London]]. When
+will you come to [[London]]?”
 
 I said (glancing at Joe, who stood looking on, motionless), that I
 supposed I could come directly.
@@ -370,11 +370,11 @@ in, and they should not be working-clothes. Say this day week. You’ll
 want some money. Shall I leave you twenty guineas?”
 
 He produced a long purse, with the greatest coolness, and counted them
-out on the table and pushed them over to me. This was the first time he
+out on the table and pushed them over to me. This was the first [[Time|time]] he
 had taken his leg from the chair. He sat astride of the chair when he
 had pushed the money over, and sat swinging his purse and eyeing Joe.
 
-“Well, Joseph Gargery? You look dumbfoundered?”
+“[[Well]], Joseph Gargery? You look dumbfoundered?”
 
 “I _am_!” said Joe, in a very decided manner.
 
@@ -394,8 +394,8 @@ Joe laid his hand upon my shoulder with the touch of a woman. I have
 often thought him since, like the steam-hammer that can crush a man or
 pat an egg-shell, in his combination of strength with gentleness. “Pip
 is that hearty welcome,” said Joe, “to go free with his services, to
-honour and fortun’, as no words can tell him. But if you think as Money
-can make compensation to me for the loss of the little child—what come
+[[Honour|honour]] and fortun’, as no words can tell him. But if you think as Money
+can make compensation to me for the loss of the little [[Child|child]]—what come
 to the forge—and ever the best of friends!—”
 
 O dear good Joe, whom I was so ready to leave and so unthankful to, I
@@ -405,7 +405,7 @@ faithful tender Joe, I feel the loving tremble of your hand upon my
 arm, as solemnly this day as if it had been the rustle of an angel’s
 wing!
 
-But I encouraged Joe at the time. I was lost in the mazes of my future
+But I encouraged Joe at the [[Time|time]]. I was lost in the mazes of my future
 fortunes, and could not retrace the by-paths we had trodden together. I
 begged Joe to be comforted, for (as he said) we had ever been the best
 of friends, and (as I said) we ever would be so. Joe scooped his eyes
@@ -436,10 +436,10 @@ Joe demonstrated, and had backed near the door. Without evincing any
 inclination to come in again, he there delivered his valedictory
 remarks. They were these.
 
-“Well, Mr. Pip, I think the sooner you leave here—as you are to be a
+“[[Well]], Mr. Pip, I think the sooner you leave here—as you are to be a
 gentleman—the better. Let it stand for this day week, and you shall
 receive my printed address in the meantime. You can take a
-hackney-coach at the stage-coach office in London, and come straight to
+hackney-coach at the stage-coach office in [[London]], and come straight to
 me. Understand, that I express no opinion, one way or other, on the
 trust I undertake. I am paid for undertaking it, and I do so. Now,
 understand that, finally. Understand that!”
@@ -465,21 +465,21 @@ taking leave of any one I know, about here, before I go away?”
 
 “No,” said he. “No objection.”
 
-I thanked him and ran home again, and there I found that Joe had
+I thanked him and ran [[Home|home]] again, and there I found that Joe had
 already locked the front door and vacated the state parlour, and was
-seated by the kitchen fire with a hand on each knee, gazing intently at
-the burning coals. I too sat down before the fire and gazed at the
-coals, and nothing was said for a long time.
+seated by the kitchen [[Fire|fire]] with a hand on each knee, gazing intently at
+the burning coals. I too sat down before the [[Fire|fire]] and gazed at the
+coals, and nothing was said for a long [[Time|time]].
 
-My sister was in her cushioned chair in her corner, and Biddy sat at
-her needle-work before the fire, and Joe sat next Biddy, and I sat next
+My sister was in her cushioned chair in her corner, and [[Biddy]] sat at
+her needle-work before the [[Fire|fire]], and Joe sat next [[Biddy]], and I sat next
 Joe in the corner opposite my sister. The more I looked into the
 glowing coals, the more incapable I became of looking at Joe; the
-longer the silence lasted, the more unable I felt to speak.
+longer the [[Silence|silence]] lasted, the more unable I felt to speak.
 
-At length I got out, “Joe, have you told Biddy?”
+At length I got out, “Joe, have you told [[Biddy]]?”
 
-“No, Pip,” returned Joe, still looking at the fire, and holding his
+“No, Pip,” returned Joe, still looking at the [[Fire|fire]], and holding his
 knees tight, as if he had private information that they intended to
 make off somewhere, “which I left it to yourself, Pip.”
 
@@ -488,57 +488,57 @@ make off somewhere, “which I left it to yourself, Pip.”
 “Pip’s a gentleman of fortun’ then,” said Joe, “and God bless him in
 it!”
 
-Biddy dropped her work, and looked at me. Joe held his knees and looked
+[[Biddy]] dropped her work, and looked at me. Joe held his knees and looked
 at me. I looked at both of them. After a pause, they both heartily
 congratulated me; but there was a certain touch of sadness in their
 congratulations that I rather resented.
 
-I took it upon myself to impress Biddy (and through Biddy, Joe) with
-the grave obligation I considered my friends under, to know nothing and
+I took it upon myself to impress [[Biddy]] (and through [[Biddy]], Joe) with
+the [[Grave|grave]] obligation I considered my friends under, to know nothing and
 say nothing about the maker of my fortune. It would all come out in
-good time, I observed, and in the meanwhile nothing was to be said,
-save that I had come into great expectations from a mysterious patron.
-Biddy nodded her head thoughtfully at the fire as she took up her work
+good [[Time|time]], I observed, and in the meanwhile nothing was to be said,
+save that I had come into [[Great Expectations|great expectations]] from a mysterious patron.
+[[Biddy]] nodded her head thoughtfully at the [[Fire|fire]] as she took up her work
 again, and said she would be very particular; and Joe, still detaining
 his knees, said, “Ay, ay, I’ll be ekervally partickler, Pip;” and then
-they congratulated me again, and went on to express so much wonder at
+they congratulated me again, and went on to express so much [[Wonder|wonder]] at
 the notion of my being a gentleman that I didn’t half like it.
 
-Infinite pains were then taken by Biddy to convey to my sister some
+Infinite pains were then taken by [[Biddy]] to convey to my sister some
 idea of what had happened. To the best of my belief, those efforts
 entirely failed. She laughed and nodded her head a great many times,
-and even repeated after Biddy, the words “Pip” and “Property.” But I
-doubt if they had more meaning in them than an election cry, and I
+and even repeated after [[Biddy]], the words “Pip” and “Property.” But I
+[[Doubt|doubt]] if they had more meaning in them than an election cry, and I
 cannot suggest a darker picture of her state of mind.
 
-I never could have believed it without experience, but as Joe and Biddy
+I never could have believed it without experience, but as Joe and [[Biddy]]
 became more at their cheerful ease again, I became quite gloomy.
 Dissatisfied with my fortune, of course I could not be; but it is
 possible that I may have been, without quite knowing it, dissatisfied
 with myself.
 
 Anyhow, I sat with my elbow on my knee and my face upon my hand,
-looking into the fire, as those two talked about my going away, and
+looking into the [[Fire|fire]], as those two talked about my going away, and
 about what they should do without me, and all that. And whenever I
 caught one of them looking at me, though never so pleasantly (and they
-often looked at me,—particularly Biddy), I felt offended: as if they
+often looked at me,—particularly [[Biddy]]), I felt offended: as if they
 were expressing some mistrust of me. Though Heaven knows they never did
 by word or sign.
 
 At those times I would get up and look out at the door; for our kitchen
-door opened at once upon the night, and stood open on summer evenings
-to air the room. The very stars to which I then raised my eyes, I am
-afraid I took to be but poor and humble stars for glittering on the
+door opened at once upon the [[Night|night]], and stood open on [[Summer|summer]] evenings
+to air the room. The very [[Stars|stars]] to which I then raised my eyes, I am
+afraid I took to be but poor and humble [[Stars|stars]] for glittering on the
 rustic objects among which I had passed my life.
 
-“Saturday night,” said I, when we sat at our supper of bread and cheese
+“Saturday [[Night|night]],” said I, when we sat at our supper of bread and [[cheese]]
 and beer. “Five more days, and then the day before _the_ day! They’ll
 soon go.”
 
 “Yes, Pip,” observed Joe, whose voice sounded hollow in his beer-mug.
 “They’ll soon go.”
 
-“Soon, soon go,” said Biddy.
+“Soon, soon go,” said [[Biddy]].
 
 “I have been thinking, Joe, that when I go down town on Monday, and
 order my new clothes, I shall tell the tailor that I’ll come and put
@@ -546,9 +546,9 @@ them on there, or that I’ll have them sent to Mr. Pumblechook’s. It
 would be very disagreeable to be stared at by all the people here.”
 
 “Mr. and Mrs. Hubble might like to see you in your new gen-teel figure
-too, Pip,” said Joe, industriously cutting his bread, with his cheese
+too, Pip,” said Joe, industriously cutting his bread, with his [[cheese]]
 on it, in the palm of his left hand, and glancing at my untasted supper
-as if he thought of the time when we used to compare slices. “So might
+as if he thought of the [[Time|time]] when we used to compare slices. “So might
 Wopsle. And the Jolly Bargemen might take it as a compliment.”
 
 “That’s just what I don’t want, Joe. They would make such a business of
@@ -556,46 +556,46 @@ it,—such a coarse and common business,—that I couldn’t bear myself.”
 
 “Ah, that indeed, Pip!” said Joe. “If you couldn’t abear yourself—”
 
-Biddy asked me here, as she sat holding my sister’s plate, “Have you
+[[Biddy]] asked me here, as she sat holding my sister’s plate, “Have you
 thought about when you’ll show yourself to Mr. Gargery, and your sister
 and me? You will show yourself to us; won’t you?”
 
-“Biddy,” I returned with some resentment, “you are so exceedingly quick
+“[[Biddy]],” I returned with some resentment, “you are so exceedingly quick
 that it’s difficult to keep up with you.”
 
 (“She always were quick,” observed Joe.)
 
-“If you had waited another moment, Biddy, you would have heard me say
+“If you had waited another moment, [[Biddy]], you would have heard me say
 that I shall bring my clothes here in a bundle one evening,—most likely
 on the evening before I go away.”
 
-Biddy said no more. Handsomely forgiving her, I soon exchanged an
-affectionate good night with her and Joe, and went up to bed. When I
+[[Biddy]] said no more. Handsomely forgiving her, I soon exchanged an
+affectionate good [[Night|night]] with her and Joe, and went up to bed. When I
 got into my little room, I sat down and took a long look at it, as a
 mean little room that I should soon be parted from and raised above,
 for ever. It was furnished with fresh young remembrances too, and even
 at the same moment I fell into much the same confused division of mind
 between it and the better rooms to which I was going, as I had been in
-so often between the forge and Miss Havisham’s, and Biddy and Estella.
+so often between the forge and [[Miss Havisham]]’s, and [[Biddy]] and [[Estella]].
 
 The sun had been shining brightly all day on the roof of my attic, and
-the room was warm. As I put the window open and stood looking out, I
+the room was warm. As I put the [[Window|window]] open and stood looking out, I
 saw Joe come slowly forth at the dark door, below, and take a turn or
-two in the air; and then I saw Biddy come, and bring him a pipe and
+two in the air; and then I saw [[Biddy]] come, and bring him a pipe and
 light it for him. He never smoked so late, and it seemed to hint to me
 that he wanted comforting, for some reason or other.
 
 He presently stood at the door immediately beneath me, smoking his
-pipe, and Biddy stood there too, quietly talking to him, and I knew
+pipe, and [[Biddy]] stood there too, quietly talking to him, and I knew
 that they talked of me, for I heard my name mentioned in an endearing
 tone by both of them more than once. I would not have listened for
-more, if I could have heard more; so I drew away from the window, and
+more, if I could have heard more; so I drew away from the [[Window|window]], and
 sat down in my one chair by the bedside, feeling it very sorrowful and
-strange that this first night of my bright fortunes should be the
+strange that this first [[Night|night]] of my bright fortunes should be the
 loneliest I had ever known.
 
-Looking towards the open window, I saw light wreaths from Joe’s pipe
+Looking towards the open [[Window|window]], I saw light wreaths from Joe’s pipe
 floating there, and I fancied it was like a blessing from Joe,—not
 obtruded on me or paraded before me, but pervading the air we shared
 together. I put my light out, and crept into bed; and it was an uneasy
-bed now, and I never slept the old sound sleep in it any more.
+bed now, and I never slept the old sound [[Sleep|sleep]] in it any more.

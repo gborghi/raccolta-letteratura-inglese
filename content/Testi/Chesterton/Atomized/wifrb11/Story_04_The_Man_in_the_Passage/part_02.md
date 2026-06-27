@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Man in the Passage (part 2)"
+title: "[[wifrb11]] — The Man in the Passage (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -16,14 +16,14 @@ tags:
 
      She greeted both men with the beaming and baffling smile
 which kept so many males at the same just dangerous distance from her. 
-She accepted some flowers from Cutler, which were as tropical and expensive
+She accepted some [[Flowers|flowers]] from Cutler, which were as tropical and expensive
 as his victories; and another sort of present from Sir Wilson Seymour,
 offered later on and more nonchalantly by that gentleman. 
 For it was against his breeding to show eagerness, and against his
-conventional unconventionality to give anything so obvious as flowers. 
+conventional unconventionality to give anything so obvious as [[Flowers|flowers]]. 
 He had picked up a trifle, he said, which was rather a curiosity,
-it was an ancient Greek dagger of the Mycenaean Epoch, and might well
-have been worn in the time of Theseus and Hippolyta.  It was made of brass
+it was an ancient Greek dagger of the Mycenaean Epoch, and might [[Well|well]]
+have been worn in the [[Time|time]] of [[Theseus]] and [[Hippolyta]].  It was made of brass
 like all the Heroic weapons, but, oddly enough, sharp enough
 to prick anyone still.  He had really been attracted to it by
 the leaf-like shape; it was as perfect as a Greek vase. 
@@ -34,7 +34,7 @@ in the play, he hoped she would--
 more of a contrast to the explanatory Seymour than even Captain Cutler. 
 Nearly six-foot-six, and of more than theatrical thews and muscles,
 Isidore Bruno, in the gorgeous leopard skin and golden-brown garments
-of Oberon, looked like a barbaric god.  He leaned on a sort of
+of [[Oberon]], looked like a barbaric god.  He leaned on a sort of
 hunting-spear, which across a theatre looked a slight, silvery wand,
 but which in the small and comparatively crowded room looked as plain as
 a pike-staff--and as menacing.  His vivid black eyes rolled volcanically,
@@ -55,14 +55,14 @@ of any contrast, but said with dull civility: "I believe Miss Rome
 sent for me."
 
      A shrewd observer might have remarked that the emotional temperature
-rather rose at so unemotional an interruption.  The detachment of
+rather [[Rose|rose]] at so unemotional an interruption.  The detachment of
 a professional celibate seemed to reveal to the others that they
 stood round the woman as a ring of amorous rivals; just as a stranger
-coming in with frost on his coat will reveal that a room is like a furnace. 
+coming in with [[Frost|frost]] on his coat will reveal that a room is like a furnace. 
 The presence of the one man who did not care about her
-increased Miss Rome's sense that everybody else was in love with her,
+increased Miss Rome's sense that everybody else was in [[Love|love]] with her,
 and each in a somewhat dangerous way:  the actor with all the appetite
-of a savage and a spoilt child; the soldier with all the simple selfishness
+of a savage and a spoilt [[Child|child]]; the soldier with all the simple selfishness
 of a man of will rather than mind; Sir Wilson with that daily hardening
 concentration with which old Hedonists take to a hobby; nay,
 even the abject Parkinson, who had known her before her triumphs,
@@ -74,7 +74,7 @@ The man like a black wooden Noah (who was not wholly without shrewdness)
 noted it with a considerable but contained amusement.  It was evident
 that the great Aurora, though by no means indifferent to the admiration
 of the other sex, wanted at this moment to get rid of all the men
-who admired her and be left alone with the man who did not--
+who admired her and be left [[Alone|alone]] with the man who did not--
 did not admire her in that sense at least; for the little priest
 did admire and even enjoy the firm feminine diplomacy with which
 she set about her task.  There was, perhaps, only one thing
@@ -93,8 +93,8 @@ really admire Miss Rome as she achieved all these three objects
 in one selected action.
 
      She went across to Captain Cutler and said in her sweetest manner: 
-"I shall value all these flowers, because they must be your
-favourite flowers.  But they won't be complete, you know,
+"I shall value all these [[Flowers|flowers]], because they must be your
+favourite [[Flowers|flowers]].  But they won't be complete, you know,
 without my favourite flower.  Do go over to that shop round the corner
 and get me some lilies-of-the-valley, and then it will be quite lovely."
 
@@ -114,5 +114,5 @@ one of the looking-glasses that brought him up short at the entrance,
 turning his head this way and that like a bewildered bulldog.
 
      "I must show this stupid man where to go," said Aurora
-in a whisper to Seymour, and ran out to the threshold to speed
+in a whisper to Seymour, and ran out to the threshold to [[Speed|speed]]
 the parting guest.

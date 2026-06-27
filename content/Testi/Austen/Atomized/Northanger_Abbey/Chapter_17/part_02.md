@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 16 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 16 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -26,7 +26,7 @@ any objection to dancing, as his brother would be most happy to be
 
 introduced to her. Catherine, without hesitation, replied that she was
 
-very sure Miss Thorpe did not mean to dance at all. The cruel reply was
+very sure Miss Thorpe did not mean to [[Dance|dance]] at all. The cruel reply was
 
 passed on to the other, and he immediately walked away.
 
@@ -36,11 +36,11 @@ passed on to the other, and he immediately walked away.
 
 say before that he hated dancing; but it was very good-natured in him
 
-to think of it. I suppose he saw Isabella sitting down, and fancied she
+to think of it. I suppose he saw [[Isabella]] sitting down, and fancied she
 
 might wish for a partner; but he is quite mistaken, for she would not
 
-dance upon any account in the world.”
+[[Dance|dance]] upon any account in the world.”
 
 
 
@@ -70,15 +70,15 @@ _I_ be influenced, What would be _my_ inducement in acting so and so?”
 
 “Then we are on very unequal terms, for I understand you perfectly
 
-well.”
+[[Well|well]].”
 
 
 
-“Me? Yes; I cannot speak well enough to be unintelligible.”
+“Me? Yes; I cannot speak [[Well|well]] enough to be unintelligible.”
 
 
 
-“Bravo! an excellent satire on modern language.”
+“Bravo! an excellent [[Satire|satire]] on modern language.”
 
 
 
@@ -86,7 +86,7 @@ well.”
 
 
 
-“Shall I indeed? Do you really desire it? But you are not aware of the
+“Shall I indeed? Do you really [[Desire|desire]] it? But you are not aware of the
 
 consequences; it will involve you in a very cruel embarrassment, and
 
@@ -98,11 +98,11 @@ certainly bring on a disagreement between us.”
 
 
 
-“Well, then, I only meant that your attributing my brother’s wish of
+“[[Well]], then, I only meant that your attributing my brother’s wish of
 
-dancing with Miss Thorpe to good nature alone convinced me of your
+dancing with Miss Thorpe to good [[Nature|nature]] [[Alone|alone]] convinced me of your
 
-being superior in good nature yourself to all the rest of the world.”
+being superior in good [[Nature|nature]] yourself to all the rest of the world.”
 
 
 
@@ -110,11 +110,11 @@ Catherine blushed and disclaimed, and the gentleman’s predictions were
 
 verified. There was a something, however, in his words which repaid her
 
-for the pain of confusion; and that something occupied her mind so much
+for the [[Pain|pain]] of confusion; and that something occupied her mind so much
 
-that she drew back for some time, forgetting to speak or to listen, and
+that she drew back for some [[Time|time]], forgetting to speak or to listen, and
 
-almost forgetting where she was; till, roused by the voice of Isabella,
+almost forgetting where she was; till, roused by the voice of [[Isabella]],
 
 she looked up and saw her with Captain Tilney preparing to give them
 
@@ -122,9 +122,9 @@ hands across.
 
 
 
-Isabella shrugged her shoulders and smiled, the only explanation of
+[[Isabella]] shrugged her shoulders and smiled, the only explanation of
 
-this extraordinary change which could at that time be given; but as it
+this extraordinary change which could at that [[Time|time]] be given; but as it
 
 was not quite enough for Catherine’s comprehension, she spoke her
 
@@ -132,13 +132,13 @@ astonishment in very plain terms to her partner.
 
 
 
-“I cannot think how it could happen! isabella was so determined not to
+“I cannot think how it could happen! [[Isabella|isabella]] was so determined not to
 
-dance.”
+[[Dance|dance]].”
 
 
 
-“And did Isabella never change her mind before?”
+“And did [[Isabella]] never change her mind before?”
 
 
 
@@ -162,7 +162,7 @@ yourself.”
 
 
 
-“You are laughing; but, I assure you, Isabella is very firm in
+“You are laughing; but, I assure you, [[Isabella]] is very firm in
 
 general.”
 
@@ -182,9 +182,9 @@ The friends were not able to get together for any confidential
 
 discourse till all the dancing was over; but then, as they walked about
 
-the room arm in arm, Isabella thus explained herself: “I do not wonder
+the room arm in arm, [[Isabella]] thus explained herself: “I do not [[Wonder|wonder]]
 
-at your surprise; and I am really fatigued to death. He is such a
+at your surprise; and I am really fatigued to [[Death|death]]. He is such a
 
 rattle! amusing enough, if my mind had been disengaged; but I would
 
@@ -206,7 +206,7 @@ to excuse me, and get some other partner—but no, not he; after aspiring
 
 to my hand, there was nobody else in the room he could bear to think
 
-of; and it was not that he wanted merely to dance, he wanted to be with
+of; and it was not that he wanted merely to [[Dance|dance]], he wanted to be with
 
 me. Oh! such nonsense! i told him he had taken a very unlikely way to
 
@@ -234,9 +234,9 @@ was upon us.”
 
 “Handsome! yes, I suppose he may. I dare say people would admire him in
 
-general; but he is not at all in my style of beauty. I hate a florid
+general; but he is not at all in my style of [[Beauty|beauty]]. I hate a florid
 
-complexion and dark eyes in a man. However, he is very well. Amazingly
+complexion and dark eyes in a man. However, he is very [[Well|well]]. Amazingly
 
 conceited, I am sure. I took him down several times, you know, in my
 

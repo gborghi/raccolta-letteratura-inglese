@@ -1,5 +1,5 @@
 ---
-title: "Sir Thomas More — Scene 13 — monologue (MORE) [4]"
+title: "[[Sir Thomas More]] — Scene 13 — monologue (MORE) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/SIR-THOMAS-MORE-(Shakespeare)"
@@ -15,12 +15,12 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| MORE | Tush, let them alone. Say they be stripped from this poor painted cloth, This outside of the earth, left houseless, bare; They have minds instructed how to gather more. There’s no man that’s ingenious can be poor. And therefore do not weep, my little ones, Though you lose all the earth. Keep your souls even And you shall find inheritance in heaven. But for my servants: there’s my chiefest care. [To Catesby] Come hither, faithful steward. Be not grieved That in thy person I discharge both thee And all thy other fellow officers; For my great master hath discharged me. If thou by serving me hast suffered loss, |
+| MORE | Tush, let them [[Alone|alone]]. Say they be stripped from this poor painted cloth, This outside of the earth, left houseless, bare; They have minds instructed how to gather more. There’s no man that’s ingenious can be poor. And therefore do not weep, my little ones, Though you lose all the earth. Keep your souls even And you shall find inheritance in heaven. But for my servants: there’s my chiefest care. [To Catesby] Come hither, faithful steward. Be not grieved That in thy person I discharge both thee And all thy other fellow officers; For my great master hath discharged me. If thou by serving me hast suffered loss, |
 | MORE | Then benefit thyself by leaving me. |
-| MORE | I hope thou hast not; for such times as these |
+| MORE | I [[Hope|hope]] thou hast not; for such times as these |
 | MORE | Bring gain to officers, whoever leese. |
 | MORE | Great lords have only name; but in the fall |
 | MORE | Lord Spend-All’s steward’s Master Gather-All. |
 | MORE | But I suspect not thee. Admit thou hast. |
 | MORE | It’s good the servants save when masters waste. |
-| MORE | But you, poor gentlemen, that had no place T’enrich yourselves but by loathed bribery, Which I abhorred, and never found you loved: Think, when an oak falls, underwood shrinks down, And yet may live, though bruised. I pray ye strive To shun my ruin; for the axe is set Even at my root, to fell me to the ground. The best I can do to prefer you all With my mean store expect; for heaven can tell That More loves all his followers more than well. [Addition I (Chettle)] [Original Text (Munday)] Enter a Servant |
+| MORE | But you, poor gentlemen, that had no place T’enrich yourselves but by loathed bribery, Which I abhorred, and never found you loved: Think, when an oak falls, underwood shrinks down, And yet may live, though bruised. I pray ye strive To shun my ruin; for the axe is set Even at my root, to fell me to the ground. The best I can do to prefer you all With my mean store expect; for heaven can tell That More loves all his followers more than [[Well|well]]. [Addition I (Chettle)] [Original Text (Munday)] Enter a Servant |

@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 8)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -18,7 +18,7 @@ another story that never existed, about a man who was accused of having
 
 murdered and dismembered his secretary when he had only taken his typing
 
-machine to pieces; but we must not dwell on these digressions. The
+[[Machine|machine]] to pieces; but we must not dwell on these digressions. The
 
 Americans may have another reason for giving long and ceremonious titles
 
@@ -54,7 +54,7 @@ will eventually be ritualistically decorated like a chapel; possibly
 
 with a symbolic scheme of wings. Perhaps a brief religious service will
 
-be held in the elevator as it ascends; in a few well-chosen words
+be held in the elevator as it ascends; in a few [[Well|well]]-chosen words
 
 touching the Utmost for the Highest. Possibly he would consent even to
 
@@ -68,7 +68,7 @@ a lift which is free to go up, if it is not also free to go down.
 
 
 
-I think I know my American friends and acquaintances too well to
+I think I know my American friends and acquaintances too [[Well|well]] to
 
 apologise for any levity in these illustrations. Americans make fun of
 
@@ -90,15 +90,15 @@ bathroom attached to every bedroom; and my impulse to sing the praises
 
 of it brought me once at least into a rather quaint complication. I
 
-think it was in the city of Dayton; anyhow I remember there was a
+think it was in the [[City|city]] of Dayton; anyhow I remember there was a
 
 Laundry Convention going on in the same hotel, in a room very
 
-patriotically and properly festooned with the stars and stripes, and
+patriotically and properly festooned with the [[Stars|stars]] and stripes, and
 
 doubtless full of promise for the future of laundering. I was
 
-interviewed on the roof, within earshot of this debate, and may have
+interviewed on the roof, within earshot of this [[debate]], and may have
 
 been the victim of some association or confusion; anyhow, after
 
@@ -106,19 +106,19 @@ answering the usual questions about Labour, the League of Nations, the
 
 length of ladies' dresses, and other great matters, I took refuge in a
 
-rhapsody of warm and well-deserved praise of American bathrooms. The
+rhapsody of warm and [[Well|well]]-deserved praise of American bathrooms. The
 
 editor, I understand, running a gloomy eye down the column of his
 
 contributor's 'story,' and seeing nothing but metaphysical terms such as
 
-justice, freedom, the abstract disapproval of sweating, swindling, and
+justice, [[Freedom|freedom]], the abstract disapproval of sweating, swindling, and
 
 the like, paused at last upon the ablutionary allusion, and his eye
 
 brightened. 'That's the only copy in the whole thing,' he said, 'A
 
-Bath-Tub in Every Home.' So these words appeared in enormous letters
+Bath-Tub in Every [[Home]].' So these words appeared in enormous letters
 
 above my portrait in the paper. It will be noted that, like many things
 
@@ -128,13 +128,13 @@ had commended as new and national was a bathroom in every bedroom. Even
 
 feudal and moss-grown England is not entirely ignorant of an occasional
 
-bath-tub in the home. But what gave me great joy was what followed. I
+bath-tub in the [[Home|home]]. But what gave me great joy was what followed. I
 
 discovered with delight that many people, glancing rapidly at my
 
 portrait with its prodigious legend, imagined that it was a commercial
 
-advertisement, and that I was a very self-advertising commercial
+advertisement, and that I was a very [[Self|self]]-advertising commercial
 
 traveller. When I walked about the streets, I was supposed to be
 
@@ -142,7 +142,7 @@ travelling in bath-tubs. Consider the caption of the portrait, and you
 
 will see how similar it is to the true commercial slogan: 'We offer a
 
-Bath-Tub in Every Home.' And this charming error was doubtless clinched
+Bath-Tub in Every [[Home]].' And this charming error was doubtless clinched
 
 by the fact that I had been found haunting the outer courts of the
 
@@ -154,7 +154,7 @@ two individuals. But I understand that it included the idea that I had
 
 come to the town to attend the Laundry Convention, and had made an
 
-eloquent speech to that senate, no doubt exhibiting my tubs.
+eloquent speech to that senate, no [[Doubt|doubt]] exhibiting my tubs.
 
 
 
@@ -166,7 +166,7 @@ inconsequent, does cover the part of social practice for which these
 
 American institutions can really be praised. About everything like
 
-laundry or hot and cold water there is not only organisation, but what
+laundry or hot and cold [[Water|water]] there is not only organisation, but what
 
 does not always or perhaps often go with it, efficiency. Americans are
 

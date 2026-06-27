@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 18 (part 2)"
+title: "[[Persuasion]] — Chapter 18 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-Mrs Harville and I quite agree that we love her the better for having
+Mrs Harville and I quite agree that we [[Love|love]] her the better for having
 
-nursed her. Charles wonders what Captain Wentworth will say; but if you
+nursed her. Charles wonders what [[Captain Wentworth]] will say; but if you
 
 remember, I never thought him attached to Louisa; I never could see
 
-anything of it. And this is the end, you see, of Captain Benwick’s
+anything of it. And this is the end, you see, of [[Captain Benwick]]’s
 
 being supposed to be an admirer of yours. How Charles could take such a
 
-thing into his head was always incomprehensible to me. I hope he will
+thing into his head was always incomprehensible to me. I [[Hope|hope]] he will
 
 be more agreeable now. Certainly not a great match for Louisa Musgrove,
 
@@ -70,7 +70,7 @@ pray what brings the Crofts to Bath?”
 
 
 
-“I do not know; but I can hardly suppose that, at Admiral Croft’s time
+“I do not know; but I can hardly suppose that, at [[Admiral Croft]]’s [[Time|time]]
 
 of life, and in his profession, he should not have many acquaintance in
 
@@ -78,7 +78,7 @@ such a place as this.”
 
 
 
-“I suspect,” said Sir Walter coolly, “that Admiral Croft will be best
+“I suspect,” said Sir Walter coolly, “that [[Admiral Croft]] will be best
 
 known in Bath as the renter of Kellynch Hall. Elizabeth, may we venture
 
@@ -112,21 +112,21 @@ at liberty.
 
 
 
-In her own room, she tried to comprehend it. Well might Charles wonder
+In her own room, she tried to comprehend it. [[Well]] might Charles [[Wonder|wonder]]
 
-how Captain Wentworth would feel! Perhaps he had quitted the field, had
+how [[Captain Wentworth]] would feel! Perhaps he had quitted the field, had
 
-given Louisa up, had ceased to love, had found he did not love her. She
+given Louisa up, had ceased to [[Love|love]], had found he did not [[Love|love]] her. She
 
 could not endure the idea of treachery or levity, or anything akin to
 
 ill usage between him and his friend. She could not endure that such a
 
-friendship as theirs should be severed unfairly.
+[[Friendship|friendship]] as theirs should be severed unfairly.
 
 
 
-Captain Benwick and Louisa Musgrove! The high-spirited, joyous-talking
+[[Captain Benwick]] and Louisa Musgrove! The high-spirited, joyous-talking
 
 Louisa Musgrove, and the dejected, thinking, feeling, reading, Captain
 
@@ -142,7 +142,7 @@ family party: since Henrietta’s coming away, they must have been
 
 depending almost entirely on each other, and Louisa, just recovering
 
-from illness, had been in an interesting state, and Captain Benwick was
+from illness, had been in an interesting state, and [[Captain Benwick]] was
 
 not inconsolable. That was a point which Anne had not been able to
 
@@ -154,13 +154,13 @@ the idea of his having felt some dawning of tenderness toward herself.
 
 She did not mean, however, to derive much more from it to gratify her
 
-vanity, than Mary might have allowed. She was persuaded that any
+[[Vanity|vanity]], than Mary might have allowed. She was persuaded that any
 
 tolerably pleasing young woman who had listened and seemed to feel for
 
 him would have received the same compliment. He had an affectionate
 
-heart. He must love somebody.
+heart. He must [[Love|love]] somebody.
 
 
 
@@ -172,13 +172,13 @@ gain cheerfulness, and she would learn to be an enthusiast for Scott
 
 and Lord Byron; nay, that was probably learnt already; of course they
 
-had fallen in love over poetry. The idea of Louisa Musgrove turned into
+had fallen in [[Love|love]] over poetry. The idea of Louisa Musgrove turned into
 
 a person of literary taste, and sentimental reflection was amusing, but
 
-she had no doubt of its being so. The day at Lyme, the fall from the
+she had no [[Doubt|doubt]] of its being so. The day at Lyme, the fall from the
 
-Cobb, might influence her health, her nerves, her courage, her
+Cobb, might influence her health, her nerves, her [[Courage|courage]], her
 
 character to the end of her life, as thoroughly as it appeared to have
 
@@ -188,17 +188,17 @@ influenced her fate.
 
 The conclusion of the whole was, that if the woman who had been
 
-sensible of Captain Wentworth’s merits could be allowed to prefer
+sensible of [[Captain Wentworth]]’s merits could be allowed to prefer
 
 another man, there was nothing in the engagement to excite lasting
 
-wonder; and if Captain Wentworth lost no friend by it, certainly
+[[Wonder|wonder]]; and if [[Captain Wentworth]] lost no friend by it, certainly
 
 nothing to be regretted. No, it was not regret which made Anne’s heart
 
 beat in spite of herself, and brought the colour into her cheeks when
 
-she thought of Captain Wentworth unshackled and free. She had some
+she thought of [[Captain Wentworth]] unshackled and free. She had some
 
 feelings which she was ashamed to investigate. They were too much like
 
@@ -212,7 +212,7 @@ evident that no rumour of the news had yet reached them. The visit of
 
 ceremony was paid and returned; and Louisa Musgrove was mentioned, and
 
-Captain Benwick, too, without even half a smile.
+[[Captain Benwick]], too, without even half a smile.
 
 
 

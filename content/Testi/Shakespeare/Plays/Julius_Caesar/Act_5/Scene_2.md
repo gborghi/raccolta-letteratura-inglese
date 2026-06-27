@@ -1,5 +1,5 @@
 ---
-title: "Julius Caesar — Act V, Scene 2"
+title: "[[Julius Caesar]] — Act V, Scene 2"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/JULIUS-CAESAR-(Shakespeare)"
@@ -16,6 +16,6 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Alarum. Enter Brutus and Messala |
-| BRUTUS | Ride, ride, Messala, ride, and give these bills<br>Unto the legions on the other side.<br>Loud alarum<br>Let them set on at once, for I perceive<br>But cold demeanour in Octavio’s wing,<br>And sudden push gives them the overthrow.<br>Ride, ride, Messala; let them all come down. |
+| *(didascalia)* | Alarum. Enter [[Brutus]] and Messala |
+| [[Brutus|BRUTUS]] | Ride, ride, Messala, ride, and give these bills<br>Unto the legions on the other side.<br>Loud alarum<br>Let them set on at once, for I perceive<br>But cold demeanour in Octavio’s wing,<br>And sudden push gives them the overthrow.<br>Ride, ride, Messala; let them all come down. |
 | *(didascalia)* | Exeunt severally |

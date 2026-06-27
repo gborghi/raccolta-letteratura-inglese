@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 1"
+title: "[[queertrades]] — Chapter 1"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/queertrades-(Chesterton)"
@@ -19,7 +19,7 @@ Chapter 1
 The Tremendous Adventures of Major Brown
 
 Rabelais, or his wild illustrator Gustave Dore, must have had something to
-do with the designing of the things called flats in England and America.
+do with the designing of the things called flats in England and [[America]].
 There is something entirely Gargantuan in the idea of economising
 space by piling houses on top of each other, front doors and all.
 And in the chaos and complexity of those perpendicular streets
@@ -28,16 +28,16 @@ that the inquirer may find the offices of the Club of Queer Trades.
 It may be thought at the first glance that the name would attract
 and startle the passer-by, but nothing attracts or startles in
 these dim immense hives.  The passer-by is only looking for his own
-melancholy destination, the Montenegro Shipping Agency or the London
+[[Melancholy|melancholy]] destination, the Montenegro Shipping Agency or the [[London]]
 office of the Rutland Sentinel, and passes through the twilight
-passages as one passes through the twilight corridors of a dream.
+passages as one passes through the twilight corridors of [[A Dream|a dream]].
 If the Thugs set up a Strangers' Assassination Company in one
 of the great buildings in Norfolk Street, and sent in a mild man
 in spectacles to answer inquiries, no inquiries would be made.
 And the Club of Queer Trades reigns in a great edifice hidden
 like a fossil in a mighty cliff of fossils.
 
-The nature of this society, such as we afterwards discovered it to be,
+The [[Nature|nature]] of this society, such as we afterwards discovered it to be,
 is soon and simply told.  It is an eccentric and Bohemian Club,
 of which the absolute condition of membership lies in this, that the
 candidate must have invented the method by which he earns his living.
@@ -46,10 +46,10 @@ requirement is given in the two principal rules.  First, it must
 not be a mere application or variation of an existing trade.
 Thus, for instance, the Club would not admit an insurance agent
 simply because instead of insuring men's furniture against being
-burnt in a fire, he insured, let us say, their trousers against being
+burnt in a [[Fire|fire]], he insured, let us say, their trousers against being
 torn by a mad dog.  The principle (as Sir Bradcock Burnaby-Bradcock,
 in the extraordinarily eloquent and soaring speech to the club on
-the occasion of the question being raised in the Stormby Smith affair,
+the occasion of the question being raised in the Stormby [[smith|Smith]] affair,
 said wittily and keenly) is the same.  Secondly, the trade must be
 a genuine commercial source of income, the support of its inventor.
 Thus the Club would not receive a man simply because he chose to pass
@@ -60,10 +60,10 @@ one doesn't know whether to laugh or cry.
 
 The discovery of this strange society was a curiously refreshing thing;
 to realize that there were ten new trades in the world was like
-looking at the first ship or the first plough.  It made a man feel
-what he should feel, that he was still in the childhood of the world.
-That I should have come at last upon so singular a body was,
-I may say without vanity, not altogether singular, for I
+looking at the first [[Ship|ship]] or the first plough.  It made a man feel
+what he should feel, that he was still in the [[Childhood|childhood]] of the world.
+That I should have come at last upon so singular a [[Body|body]] was,
+I may say without [[Vanity|vanity]], not altogether singular, for I
 have a mania for belonging to as many societies as possible:
 I may be said to collect clubs, and I have accumulated a vast and
 fantastic variety of specimens ever since, in my audacious youth,
@@ -81,7 +81,7 @@ have said, was one of this class, one which I was almost bound
 to come across sooner or later, because of my singular hobby.
 The wild youth of the metropolis call me facetiously `The King of Clubs'.
 They also call me `The Cherub', in allusion to the roseate and youthful
-appearance I have presented in my declining years.  I only hope
+appearance I have presented in my declining years.  I only [[Hope|hope]]
 the spirits in the better world have as good dinners as I have.
 But the finding of the Club of Queer Trades has one very curious thing
 about it.  The most curious thing about it is that it was not discovered
@@ -98,11 +98,11 @@ to parties than he felt the need of altering the sunset clouds.
 He lived in a queer and comfortable garret in the roofs of Lambeth.
 He was surrounded by a chaos of things that were in odd contrast
 to the slums around him; old fantastic books, swords, armour--the whole
-dust-hole of romanticism.  But his face, amid all these quixotic relics,
+[[Dust|dust]]-hole of romanticism.  But his face, amid all these quixotic relics,
 appeared curiously keen and modern--a powerful, legal face.
 And no one but I knew who he was.
 
-Long ago as it is, everyone remembers the terrible and grotesque
+Long ago as it is, everyone remembers the terrible and [[Grotesque|grotesque]]
 scene that occurred in--, when one of the most acute and
 forcible of the English judges suddenly went mad on the bench.
 I had my own view of that occurrence; but about the facts themselves
@@ -114,30 +114,30 @@ in giving personal and moral advice to the people concerned.
 He talked more like a priest or a doctor, and a very outspoken
 one at that.  The first thrill was probably given when he said
 to a man who had attempted a crime of passion:  "I sentence
-you to three years imprisonment, under the firm, and solemn,
+you to three years [[Imprisonment|imprisonment]], under the firm, and solemn,
 and God-given conviction, that what you require is three months
 at the seaside."  He accused criminals from the bench, not so much
 of their obvious legal crimes, but of things that had never been
-heard of in a court of justice, monstrous egoism, lack of humour,
+heard of in a [[Court|court]] of justice, monstrous egoism, lack of [[Humour|humour]],
 and morbidity deliberately encouraged.  Things came to a head
 in that celebrated diamond case in which the Prime Minister himself,
 that brilliant patrician, had to come forward, gracefully and reluctantly,
 to give evidence against his valet.  After the detailed life
 of the household had been thoroughly exhibited, the judge requested
 the Premier again to step forward, which he did with quiet dignity.
-The judge then said, in a sudden, grating voice:  "Get a new soul.
-That thing's not fit for a dog.  Get a new soul."  All this, of course,
-in the eyes of the sagacious, was premonitory of that melancholy
-and farcical day when his wits actually deserted him in open court.
+The judge then said, in a sudden, grating voice:  "Get a new [[Soul|soul]].
+That thing's not fit for a dog.  Get a new [[Soul|soul]]."  All this, of course,
+in the eyes of the sagacious, was premonitory of that [[Melancholy|melancholy]]
+and farcical day when his wits actually deserted him in open [[Court|court]].
 It was a libel case between two very eminent and powerful financiers,
 against both of whom charges of considerable defalcation were brought.
 The case was long and complex; the advocates were long and eloquent;
-but at last, after weeks of work and rhetoric, the time came
+but at last, after weeks of work and rhetoric, the [[Time|time]] came
 for the great judge to give a summing-up; and one of his celebrated
-masterpieces of lucidity and pulverizing logic was eagerly looked for.
+masterpieces of lucidity and pulverizing [[logic]] was eagerly looked for.
 He had spoken very little during the prolonged affair, and he looked
 sad and lowering at the end of it.  He was silent for a few moments,
-and then burst into a stentorian song.  His remarks (as reported)
+and then burst into a stentorian [[Song|song]].  His remarks (as reported)
 were as follows:
 
 "O Rowty-owty tiddly-owty Tiddly-owty tiddly-owty Highty-ighty
@@ -145,12 +145,12 @@ tiddly-ighty Tiddly-ighty ow."
 
 He then retired from public life and took the garret in Lambeth.
 
-I was sitting there one evening, about six o'clock, over a glass of that
+I was sitting there one evening, about six o'[[Clock|clock]], over a glass of that
 gorgeous Burgundy which he kept behind a pile of black-letter folios;
 he was striding about the room, fingering, after a habit of his,
 one of the great swords in his collection; the red glare of the
-strong fire struck his square features and his fierce grey hair;
-his blue eyes were even unusually full of dreams, and he had
+strong [[Fire|fire]] struck his square features and his fierce grey hair;
+his blue eyes were even unusually full of [[Dreams|dreams]], and he had
 opened his mouth to speak dreamily, when the door was flung open,
 and a pale, fiery man, with red hair and a huge furred overcoat,
 swung himself panting into the room.
@@ -162,12 +162,12 @@ I beg your pardon, sir," and he gave me a bow of apology.
 Basil smiled at me.  "You didn't know," he said, "that I had a
 practical brother.  This is Rupert Grant, Esquire, who can and does
 all there is to be done.  Just as I was a failure at one thing,
-he is a success at everything.  I remember him as a journalist,
-a house-agent, a naturalist, an inventor, a publisher,
+he is a [[success]] at everything.  I remember him as a journalist,
+a [[house]]-agent, a naturalist, an inventor, a publisher,
 a schoolmaster, a--what are you now, Rupert?"
 
-"I am and have been for some time," said Rupert, with some dignity,
-"a private detective, and there's my client."
+"I am and have been for some [[Time|time]]," said Rupert, with some dignity,
+"a private [[Detective|detective]], and there's my client."
 
 A loud rap at the door had cut him short, and, on permission being given,
 the door was thrown sharply open and a stout, dapper man walked swiftly
@@ -197,12 +197,12 @@ men who recovered British India, he was a man with the natural
 beliefs and tastes of an old maid.  In his dress he was dapper
 and yet demure; in his habits he was precise to the point
 of the exact adjustment of a tea-cup. One enthusiasm he had,
-which was of the nature of a religion--the cultivation of pansies.
+which was of the [[Nature|nature]] of a religion--the cultivation of pansies.
 And when he talked about his collection, his blue eyes glittered
-like a child's at a new toy, the eyes that had remained untroubled
+like a [[Child|child]]'s at a new toy, the eyes that had remained untroubled
 when the troops were roaring victory round Roberts at Candahar.
 
-"Well, Major," said Rupert Grant, with a lordly heartiness,
+"[[Well]], Major," said Rupert Grant, with a lordly heartiness,
 flinging himself into a chair, "what is the matter with you?"
 
 "Yellow pansies.  Coal-cellar. P. G. Northover," said the Major,
@@ -214,7 +214,7 @@ eyes shut in his abstracted way, said simply:
 "I beg your pardon."
 
 "Fact is.  Street, you know, man, pansies.  On wall.
-Death to me.  Something.  Preposterous."
+[[Death]] to me.  Something.  Preposterous."
 
 We shook our heads gently.  Bit by bit, and mainly by
 the seemingly sleepy assistance of Basil Grant, we pieced
@@ -230,14 +230,14 @@ sitting bolt upright in his chair and talking like a telegram.
 Major Brown was, I have said, a successful soldier, but by no
 means an enthusiastic one.  So far from regretting his retirement
 on half-pay, it was with delight that he took a small neat villa,
-very like a doll's house, and devoted the rest of his life
+very like a doll's [[house]], and devoted the rest of his life
 to pansies and weak tea.  The thought that battles were over
-when he had once hung up his sword in the little front hall
-(along with two patent stew-pots and a bad water-colour),
+when he had once hung up his [[Sword|sword]] in the little front hall
+(along with two patent stew-pots and a bad [[Water|water]]-colour),
 and betaken himself instead to wielding the rake in his little
-sunlit garden, was to him like having come into a harbour in heaven.
+sunlit [[Garden|garden]], was to him like having come into a harbour in heaven.
 He was Dutch-like and precise in his taste in gardening,
-and had, perhaps, some tendency to drill his flowers like soldiers.
+and had, perhaps, some tendency to drill his [[Flowers|flowers]] like soldiers.
 He was one of those men who are capable of putting four umbrellas
 in the stand rather than three, so that two may lean one way and
 two another; he saw life like a pattern in a freehand drawing-book.
@@ -251,7 +251,7 @@ One certain bright and windy afternoon, the Major, attired in his
 usual faultless manner, had set out for his usual constitutional.
 In crossing from one great residential thoroughfare to another,
 he happened to pass along one of those aimless-looking lanes
-which lie along the back-garden walls of a row of mansions,
+which lie along the back-[[Garden|garden]] walls of a row of mansions,
 and which in their empty and discoloured appearance give one
 an odd sensation as of being behind the scenes of a theatre.
 But mean and sulky as the scene might be in the eyes of most of us,
@@ -260,7 +260,7 @@ gravel footway was coming a thing which was to him what
 the passing of a religious procession is to a devout person.
 A large, heavy man, with fish-blue eyes and a ring of irradiating
 red beard, was pushing before him a barrow, which was ablaze
-with incomparable flowers.  There were splendid specimens of almost
+with incomparable [[Flowers|flowers]].  There were splendid specimens of almost
 every order, but the Major's own favourite pansies predominated.
 The Major stopped and fell into conversation, and then into bargaining.
 He treated the man after the manner of collectors and other
@@ -274,47 +274,47 @@ close to the Major.
 "I'll tell you what, sir," he said.  "If you're interested in them things,
 you just get on to that wall."
 
-"On the wall!" cried the scandalised Major, whose conventional soul
+"On the wall!" cried the scandalised Major, whose conventional [[Soul|soul]]
 quailed within him at the thought of such fantastic trespass.
 
-"Finest show of yellow pansies in England in that there garden, sir,"
+"Finest show of yellow pansies in England in that there [[Garden|garden]], sir,"
 hissed the tempter.  "I'll help you up, sir."
 
 How it happened no one will ever know but that positive enthusiasm
 of the Major's life triumphed over all its negative traditions,
 and with an easy leap and swing that showed that he was in no
 need of physical assistance, he stood on the wall at the end
-of the strange garden.  The second after, the flapping of
-the frock-coat at his knees made him feel inexpressibly a fool.
+of the strange [[Garden|garden]].  The second after, the flapping of
+the frock-coat at his knees made him feel inexpressibly a [[Fool|fool]].
 But the next instant all such trifling sentiments were swallowed up
 by the most appalling shock of surprise the old soldier had ever
 felt in all his bold and wandering existence.  His eyes fell upon
-the garden, and there across a large bed in the centre of the lawn
-was a vast pattern of pansies; they were splendid flowers, but for once
+the [[Garden|garden]], and there across a large bed in the centre of the lawn
+was a vast pattern of pansies; they were splendid [[Flowers|flowers]], but for once
 it was not their horticultural aspects that Major Brown beheld,
 for the pansies were arranged in gigantic capital letters so as to
 form the sentence:
 
-DEATH TO MAJOR BROWN
+[[Death|DEATH]] TO MAJOR BROWN
 
 A kindly looking old man, with white whiskers, was watering them.
-Brown looked sharply back at the road behind him; the man with the barrow
+Brown looked sharply back at the [[Road|road]] behind him; the man with the barrow
 had suddenly vanished.  Then he looked again at the lawn with its
-incredible inscription.  Another man might have thought he had gone mad,
+incredible [[Inscription|inscription]].  Another man might have thought he had gone mad,
 but Brown did not.  When romantic ladies gushed over his V.C. and
 his military exploits, he sometimes felt himself to be a painfully
 prosaic person, but by the same token he knew he was incurably sane.
 Another man, again, might have thought himself a victim of a
 passing practical joke, but Brown could not easily believe this.
-He knew from his own quaint learning that the garden arrangement was
+He knew from his own quaint learning that the [[Garden|garden]] arrangement was
 an elaborate and expensive one; he thought it extravagantly improbable
-that any one would pour out money like water for a joke against him.
+that any one would pour out money like [[Water|water]] for a joke against him.
 Having no explanation whatever to offer, he admitted the fact
 to himself, like a clear-headed man, and waited as he would have
 done in the presence of a man with six legs.
 
 At this moment the stout old man with white whiskers looked up,
-and the watering can fell from his hand, shooting a swirl of water
+and the watering can fell from his hand, shooting a swirl of [[Water|water]]
 down the gravel path.
 
 "Who on earth are you?" he gasped, trembling violently.
@@ -329,9 +329,9 @@ At last he stammered wildly, "Come down--come down here!"
 the grass beside him, without disarranging his silk hat.
 
 The old man turned his broad back and set off at a sort of waddling
-run towards the house, followed with swift steps by the Major.
+run towards the [[house]], followed with swift steps by the Major.
 His guide led him through the back passages of a gloomy, but gorgeously
-appointed house, until they reached the door of the front room.
+appointed [[house]], until they reached the door of the front room.
 Then the old man turned with a face of apoplectic terror dimly
 showing in the twilight.
 
@@ -344,7 +344,7 @@ The Major stepped into a rich, glowing room, full of red copper,
 and peacock and purple hangings, hat in hand.  He had the finest
 manners in the world, and, though mystified, was not in the least
 embarrassed to see that the only occupant was a lady, sitting by
-the window, looking out.
+the [[Window|window]], looking out.
 
 "Madam," he said, bowing simply, "I am Major Brown."
 
@@ -355,14 +355,14 @@ of Bedford Park.  "You have come, I suppose," she said mournfully,
 "to tax me about the hateful title-deeds."
 
 "I have come, madam," he said, "to know what is the matter.
-To know why my name is written across your garden.
+To know why my name is written across your [[Garden|garden]].
 Not amicably either."
 
 He spoke grimly, for the thing had hit him.  It is impossible
 to describe the effect produced on the mind by that quiet and sunny
-garden scene, the frame for a stunning and brutal personality.
+[[Garden|garden]] scene, the frame for a stunning and brutal personality.
 The evening air was still, and the grass was golden in the place
-where the little flowers he studied cried to heaven for his blood.
+where the little [[Flowers|flowers]] he studied cried to heaven for his [[Blood|blood]].
 
 "You know I must not turn round," said the lady; "every afternoon
 till the stroke of six I must keep my face turned to the street."
@@ -371,7 +371,7 @@ Some queer and unusual inspiration made the prosaic soldier resolute
 to accept these outrageous riddles without surprise.
 
 "It is almost six," he said; and even as he spoke the barbaric
-copper clock upon the wall clanged the first stroke of the hour.
+copper [[Clock|clock]] upon the wall clanged the first stroke of the hour.
 At the sixth the lady sprang up and turned on the Major one
 of the queerest and yet most attractive faces he had ever seen
 in his life; open, and yet tantalising, the face of an elf.
@@ -391,7 +391,7 @@ looked out.  There was no sign of life in the blue gloaming of the street,
 where one or two lamps were beginning to light their lemon sparks.
 On returning, he found the lady in green trembling.
 
-"It is the end," she cried, with shaking lips; "it may be death
+"It is the end," she cried, with shaking lips; "it may be [[Death|death]]
 for both of us.  Whenever--"
 
 But even as she spoke her speech was cloven by another hoarse
@@ -403,13 +403,13 @@ Brown dashed out of the door and down the steps, but again
 he was frustrated; there was no figure in sight, and the street
 was far too long and empty for the shouter to have run away.
 Even the rational Major was a little shaken as he returned in a
-certain time to the drawing-room. Scarcely had he done so than
+certain [[Time|time]] to the drawing-room. Scarcely had he done so than
 the terrific voice came:
 
 "Major Brown, Major Brown, where did--"
 
-Brown was in the street almost at a bound, and he was in time--
-in time to see something which at first glance froze the blood.
+Brown was in the street almost at a bound, and he was in [[Time|time]]--
+in [[Time|time]] to see something which at first glance froze the [[Blood|blood]].
 The cries appeared to come from a decapitated head resting
 on the pavement.
 
@@ -419,10 +419,10 @@ again, it had vanished, and Major Brown turned to the lady.
 "Where's your coal-cellar?" he said, and stepped out into the passage.
 
 She looked at him with wild grey eyes.  "You will not go down,"
-she cried, "alone, into the dark hole, with that beast?"
+she cried, "[[Alone|alone]], into the dark hole, with that beast?"
 
 "Is this the way?" replied Brown, and descended the kitchen
-stairs three at a time.  He flung open the door of a black
+stairs three at a [[Time|time]].  He flung open the door of a black
 cavity and stepped in, feeling in his pocket for matches.
 As his right hand was thus occupied, a pair of great slimy hands
 came out of the darkness, hands clearly belonging to a man
@@ -431,13 +431,13 @@ They forced him down, down in the suffocating darkness, a brutal
 image of destiny.  But the Major's head, though upside down,
 was perfectly clear and intellectual.  He gave quietly under
 the pressure until he had slid down almost to his hands and knees.
-Then finding the knees of the invisible monster within a foot of him,
+Then finding the knees of the invisible [[Monster|monster]] within a foot of him,
 he simply put out one of his long, bony, and skilful hands,
 and gripping the leg by a muscle pulled it off the ground
 and laid the huge living man, with a crash, along the floor.
 He strove to rise, but Brown was on top like a cat.
 They rolled over and over.  Big as the man was, he had evidently
-now no desire but to escape; he made sprawls hither and thither
+now no [[Desire|desire]] but to escape; he made sprawls hither and thither
 to get past the Major to the door, but that tenacious person had him
 hard by the coat collar and hung with the other hand to a beam.
 At length there came a strain in holding back this human bull, a strain
@@ -446,7 +446,7 @@ But something else rent and parted; and the dim fat figure of the giant
 vanished out of the cellar, leaving the torn coat in the Major's hand;
 the only fruit of his adventure and the only clue to the mystery.
 For when he went up and out at the front door, the lady, the rich
-hangings, and the whole equipment of the house had disappeared.
+hangings, and the whole equipment of the [[house]] had disappeared.
 It had only bare boards and whitewashed walls.
 
 "The lady was in the conspiracy, of course," said Rupert, nodding.
@@ -477,7 +477,7 @@ He cut in:
 "Is it dated from anywhere?"
 
 "No--oh, yes!" replied Brown, glancing upon the paper;
-"14 Tanner's Court, North--"
+"14 Tanner's [[Court]], North--"
 
 Rupert sprang up and struck his hands together.
 
@@ -485,12 +485,12 @@ Rupert sprang up and struck his hands together.
 me your revolver."
 
 Basil was staring into the embers like a man in a trance;
-and it was some time before he answered:
+and it was some [[Time|time]] before he answered:
 
 "I don't think you'll need it."
 
 "Perhaps not," said Rupert, getting into his fur coat.  "One never knows.
-But going down a dark court to see criminals--"
+But going down a dark [[Court|court]] to see criminals--"
 
 "Do you think they are criminals?" asked his brother.
 
@@ -504,20 +504,20 @@ in the same distant and monotonous voice.
 "My dear fellow, you've been asleep.  Look at the letter."
 
 "I am looking at the letter," said the mad judge calmly; though, as a
-matter of fact, he was looking at the fire.  "I don't think it's
+matter of fact, he was looking at the [[Fire|fire]].  "I don't think it's
 the sort of letter one criminal would write to another."
 
 "My dear boy, you are glorious," cried Rupert, turning round,
 with laughter in his blue bright eyes.  "Your methods amaze me.
 Why, there is the letter.  It is written, and it does give orders
-for a crime.  You might as well say that the Nelson Column
+for a crime.  You might as [[Well|well]] say that the Nelson Column
 was not at all the sort of thing that was likely to be set up
 in Trafalgar Square."
 
 Basil Grant shook all over with a sort of silent laughter, but did
 not otherwise move.
 
-"That's rather good," he said; "but, of course, logic like that's
+"That's rather good," he said; "but, of course, [[logic]] like that's
 not what is really wanted.  It's a question of spiritual atmosphere.
 It's not a criminal letter."
 
@@ -525,18 +525,18 @@ It's not a criminal letter."
 agony of reasonableness.
 
 "Facts," murmured Basil, like one mentioning some strange,
-far-off animals, "how facts obscure the truth.  I may be silly--
+far-off [[Animals|animals]], "how facts obscure the [[Truth|truth]].  I may be silly--
 in fact, I'm off my head--but I never could believe in that man--
 what's his name, in those capital stories?--Sherlock Holmes.
 Every detail points to something, certainly; but generally to
 the wrong thing.  Facts point in all directions, it seems to me,
 like the thousands of twigs on a tree.  It's only the life of the tree
-that has unity and goes up--only the green blood that springs,
-like a fountain, at the stars."
+that has [[unity]] and goes up--only the green [[Blood|blood]] that springs,
+like a fountain, at the [[Stars|stars]]."
 
 "But what the deuce else can the letter be but criminal?"
 
-"We have eternity to stretch our legs in," replied the mystic.
+"We have [[Eternity|eternity]] to stretch our legs in," replied the mystic.
 "It can be an infinity of things.  I haven't seen any of them--
 I've only seen the letter.  I look at that, and say it's not criminal."
 
@@ -563,27 +563,27 @@ He paused a moment, and went on:
 "You could not adopt the ordinary explanation.  The ordinary
 explanation of putting on singular clothes is that you look
 nice in them; you would not think that Lord Kitchener dressed
-up like a ballet girl out of ordinary personal vanity.
+up like a ballet girl out of ordinary personal [[Vanity|vanity]].
 You would think it much more likely that he inherited a dancing
-madness from a great grandmother; or had been hypnotised at a seance;
-or threatened by a secret society with death if he refused the ordeal.
+[[Madness|madness]] from a great grandmother; or had been hypnotised at a seance;
+or threatened by a secret society with [[Death|death]] if he refused the ordeal.
 With Baden-Powell, say, it might be a bet--but not with Kitchener.
-I should know all that, because in my public days I knew him quite well.
-So I know that letter quite well, and criminals quite well.
+I should know all that, because in my public days I knew him quite [[Well|well]].
+So I know that letter quite [[Well|well]], and criminals quite [[Well|well]].
 It's not a criminal's letter.  It's all atmospheres."
 And he closed his eyes and passed his hand over his forehead.
 
 Rupert and the Major were regarding him with a mixture of respect
 and pity.  The former said,
 
-"Well, I'm going, anyhow, and shall continue to think--until your
+"[[Well]], I'm going, anyhow, and shall continue to think--until your
 spiritual mystery turns up--that a man who sends a note recommending
 a crime, that is, actually a crime that is actually carried out,
 at least tentatively, is, in all probability, a little casual
 in his moral tastes.  Can I have that revolver?"
 
 "Certainly," said Basil, getting up.  "But I am coming with you."
-And he flung an old cape or cloak round him, and took a sword-stick
+And he flung an old cape or cloak round him, and took a [[Sword|sword]]-stick
 from the corner.
 
 "You!" said Rupert, with some surprise, "you scarcely ever leave
@@ -595,20 +595,20 @@ Basil fitted on a formidable old white hat.
 "hear of anything on the face of the earth that I do not understand
 at once, without going to see it."
 
-And he led the way out into the purple night.
+And he led the way out into the purple [[Night|night]].
 
 We four swung along the flaring Lambeth streets, across
 Westminster Bridge, and along the Embankment in the direction
-of that part of Fleet Street which contained Tanner's Court.
+of that part of Fleet Street which contained Tanner's [[Court]].
 The erect, black figure of Major Brown, seen from behind, was a quaint
 contrast to the hound-like stoop and flapping mantle of young
 Rupert Grant, who adopted, with childlike delight, all the dramatic
-poses of the detective of fiction.  The finest among his many fine
-qualities was his boyish appetite for the colour and poetry of London.
-Basil, who walked behind, with his face turned blindly to the stars,
+poses of the [[Detective|detective]] of fiction.  The finest among his many fine
+qualities was his boyish appetite for the colour and poetry of [[London]].
+Basil, who walked behind, with his face turned blindly to the [[Stars|stars]],
 had the look of a somnambulist.
 
-Rupert paused at the corner of Tanner's Court, with a quiver of delight
+Rupert paused at the corner of Tanner's [[Court]], with a quiver of delight
 at danger, and gripped Basil's revolver in his great-coat pocket.
 
 "Shall we go in now?" he asked.
@@ -626,7 +626,7 @@ Rupert glanced at him and stared hard.
 "Basil," he cried, "you're trembling.  What's the matter--
 are you afraid?"
 
-"Cold, perhaps," said the Major, eyeing him.  There was no doubt
+"Cold, perhaps," said the Major, eyeing him.  There was no [[Doubt|doubt]]
 that he was shaking.
 
 At last, after a few moments' scrutiny, Rupert broke into a curse.
@@ -639,7 +639,7 @@ all three of us, within a yard of a den of ruffians--"
 are quite equal to a host," and he continued to quake with
 his mysterious mirth.
 
-Rupert turned with impatience and strode swiftly down the court,
+Rupert turned with impatience and strode swiftly down the [[Court|court]],
 the rest of us following.  When he reached the door of No. 14
 he turned abruptly, the revolver glittering in his hand.
 
@@ -879,13 +879,13 @@ Did you ever feel that?"
 "Certainly not," said the Major shortly.
 
 "Then I must explain with more elaboration," said Mr Northover,
-with a sigh.  "The Adventure and Romance Agency has been started
-to meet a great modern desire.  On every side, in conversation
-and in literature, we hear of the desire for a larger theatre
+with a sigh.  "The Adventure and [[Romance]] Agency has been started
+to meet a great modern [[Desire|desire]].  On every side, in conversation
+and in literature, we hear of the [[Desire|desire]] for a larger theatre
 of events for something to waylay us and lead us splendidly astray.
-Now the man who feels this desire for a varied life pays a yearly
-or a quarterly sum to the Adventure and Romance Agency; in return,
-the Adventure and Romance Agency undertakes to surround him with
+Now the man who feels this [[Desire|desire]] for a varied life pays a yearly
+or a quarterly sum to the Adventure and [[Romance]] Agency; in return,
+the Adventure and [[Romance]] Agency undertakes to surround him with
 startling and weird events.  As a man is leaving his front door,
 an excited sweep approaches him and assures him of a plot against
 his life; he gets into a cab, and is driven to an opium den;
@@ -896,7 +896,7 @@ at present hard at work in the adjoining room.  Yours, Major Brown
 (designed by our Mr Grigsby), I consider peculiarly forcible
 and pointed; it is almost a pity you did not see the end of it.
 I need scarcely explain further the monstrous mistake.
-Your predecessor in your present house, Mr Gurney-Brown, was a subscriber
+Your predecessor in your present [[house]], Mr Gurney-Brown, was a subscriber
 to our agency, and our foolish clerks, ignoring alike the dignity
 of the hyphen and the glory of military rank, positively imagined
 that Major Brown and Mr Gurney-Brown were the same person.
@@ -913,27 +913,27 @@ If he wishes to float into fairyland, he reads a book;
 if he wishes to dash into the thick of battle, he reads a book;
 if he wishes to soar into heaven, he reads a book; if he wishes to slide
 down the banisters, he reads a book.  We give him these visions,
-but we give him exercise at the same time, the necessity of leaping
+but we give him exercise at the same [[Time|time]], the necessity of leaping
 from wall to wall, of fighting strange gentlemen, of running down
 long streets from pursuers--all healthy and pleasant exercises.
-We give him a glimpse of that great morning world of Robin Hood or the
+We give him a glimpse of that great morning world of [[Robin Hood]] or the
 Knights Errant, when one great game was played under the splendid sky.
-We give him back his childhood, that godlike time when we can act stories,
-be our own heroes, and at the same instant dance and dream."
+We give him back his [[Childhood|childhood]], that godlike [[Time|time]] when we can act stories,
+be our own heroes, and at the same instant [[Dance|dance]] and dream."
 
 Basil gazed at him curiously.  The most singular psychological
 discovery had been reserved to the end, for as the little business
 man ceased speaking he had the blazing eyes of a fanatic.
 
 Major Brown received the explanation with complete simplicity
-and good humour.
+and good [[Humour|humour]].
 
-"Of course; awfully dense, sir," he said.  "No doubt at all,
+"Of course; awfully dense, sir," he said.  "No [[Doubt|doubt]] at all,
 the scheme excellent.  But I don't think--" He paused a moment,
-and looked dreamily out of the window.  "I don't think you will find
+and looked dreamily out of the [[Window|window]].  "I don't think you will find
 me in it.  Somehow, when one's seen--seen the thing itself, you know--
-blood and men screaming, one feels about having a little house and
-a little hobby; in the Bible, you know, `There remaineth a rest'."
+[[Blood|blood]] and men screaming, one feels about having a little [[house]] and
+a little hobby; in the [[Bible]], you know, `There remaineth a rest'."
 
 Northover bowed.  Then after a pause he said:
 
@@ -987,35 +987,35 @@ desperate desire to know the end of it all."
 
 "The end of it all?"
 
-"Yes," said the Major.  "`Jackals', and the title-deeds, and `Death
+"Yes," said the Major.  "`Jackals', and the title-deeds, and `[[Death]]
 to Major Brown'."
 
-The agent's face grew grave, but his eyes were amused.
+The agent's face grew [[Grave|grave]], but his eyes were amused.
 
 "I am terribly sorry, Major," said he, "but what you ask is impossible.
 I don't know any one I would sooner oblige than you; but the rules of the
-agency are strict.  The Adventures are confidential; you are an outsider;
+agency are strict.  The Adventures are confidential; you are an [[Outsider|outsider]];
 I am not allowed to let you know an inch more than I can help.
-I do hope you understand--"
+I do [[Hope|hope]] you understand--"
 
 "There is no one," said Brown, "who understands discipline better
-than I do.  Thank you very much.  Good night."
+than I do.  Thank you very much.  Good [[Night|night]]."
 
-And the little man withdrew for the last time.
+And the little man withdrew for the last [[Time|time]].
 
 He married Miss Jameson, the lady with the red hair and the
 green garments.  She was an actress, employed (with many others)
-by the Romance Agency; and her marriage with the prim old veteran
+by the [[Romance]] Agency; and her [[Marriage|marriage]] with the prim old veteran
 caused some stir in her languid and intellectualized set.
 She always replied very quietly that she had met scores of men
 who acted splendidly in the charades provided for them by Northover,
 but that she had only met one man who went down into a coal-cellar
 when he really thought it contained a murderer.
 
-The Major and she are living as happily as birds, in an absurd villa,
+The Major and she are living as happily as [[Birds|birds]], in an absurd villa,
 and the former has taken to smoking.  Otherwise he is unchanged--
 except, perhaps, there are moments when, alert and full of feminine
-unselfishness as the Major is by nature, he falls into a trance
+unselfishness as the Major is by [[Nature|nature]], he falls into a trance
 of abstraction.  Then his wife recognizes with a concealed smile,
 by the blind look in his blue eyes, that he is wondering what were
 the title-deeds, and why he was not allowed to mention jackals.

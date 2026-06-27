@@ -1,5 +1,5 @@
 ---
-title: "Coriolanus — Act IV, Scene 5 — exchange (CORIOLANUS) [5]"
+title: "[[Coriolanus]] — Act IV, Scene 5 — exchange ([[Coriolanus|CORIOLANUS]]) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/CORIOLANUS-(Shakespeare)"
@@ -15,8 +15,8 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| CORIOLANUS | You bless me, gods. |
-| AUFIDIUS | Therefore, most absolute sir, if thou wilt have The leading of thine own revenges, take Th‘one half of my commission and set down— As best thou art experienced, since thou know’st Thy country’s strength and weakness—thine own ways: Whether to knock against the gates of Rome, Or rudely visit them in parts remote To fright them ere destroy. But come in. Let me commend thee first to those that shall Say yea to thy desires. A thousand welcomes! And more a friend than ere an enemy; Yet, Martius, that was much. Your hand. Most welcome! Exeunt The two Servingmen come forward |
+| [[Coriolanus|CORIOLANUS]] | You bless me, gods. |
+| [[Aufidius|AUFIDIUS]] | Therefore, most absolute sir, if thou wilt have The leading of thine own revenges, take Th‘one half of my commission and set down— As best thou art experienced, since thou know’st Thy country’s strength and weakness—thine own ways: Whether to knock against the gates of Rome, Or rudely visit them in parts remote To fright them ere destroy. But come in. Let me commend thee first to those that shall Say yea to thy desires. A thousand welcomes! And more a friend than ere an enemy; Yet, Martius, that was much. Your hand. Most welcome! Exeunt The two Servingmen come forward |
 | FIRST SERVINGMAN | Here’s a strange alteration! |
 | SECOND SERVINGMAN | By my hand, I had thought to have strucken him with a cudgel, and yet my mind gave me his clothes made a false report of him. |
 | FIRST SERVINGMAN | What an arm he has! He turned me about with his finger and his thumb as one would set up a top. |
@@ -28,7 +28,7 @@ tags:
 | FIRST SERVINGMAN | Nay, it’s no matter for that. |
 | SECOND SERVINGMAN | Worth six on him. |
 | FIRST SERVINGMAN | Nay, not so, neither; but I take him to be the greater soldier. |
-| SECOND SERVINGMAN | Faith, look you, one cannot tell how to say that. For the defence of a town our general is excellent. |
+| SECOND SERVINGMAN | [[Faith]], look you, one cannot tell how to say that. For the defence of a town our general is excellent. |
 | FIRST SERVINGMAN | Ay, and for an assault too. Enter the Third Servingman |
 | THIRD SERVINGMAN | O, slaves, I can tell you news—news, you rascals! |
 | FIRST | and SECOND SERVINGMEN What, what, what? Let’s partake. |
@@ -38,7 +38,7 @@ tags:
 | FIRST SERVINGMAN | Why do you say ‘thwack our general’? |
 | THIRD SERVINGMAN | I do not say ‘thwack our general’; but he was always good enough for him. |
 | SECOND SERVINGMAN | Come, we are fellows and friends. He was ever too hard for him. I have heard him say so himself. |
-| FIRST SERVINGMAN | He was too hard for him directly. To say the truth on’t, before Corioles he scotched him and notched him like a carbonado. |
+| FIRST SERVINGMAN | He was too hard for him directly. To say the [[Truth|truth]] on’t, before Corioles he scotched him and notched him like a carbonado. |
 | SECOND SERVINGMAN | An he had been cannibally given, he might have broiled and eaten him too. |
 | FIRST SERVINGMAN | But more of thy news! |
-| THIRD SERVINGMAN | Why, he is so made on here within as if he were son and heir to Mars; set at upper end o‘th’ table, no question asked him by any of the senators but they stand bald before him. Our general’ himself makes a mistress of him, sanctifies himself with’s hand, and turns up the white o’th’ eye to his discourse. But the bottom of the news is, our general is cut i’th’ middle, and but one half of what he was yesterday, for the other has half by the entreaty and grant of the whole table. He’ll go, he says, and sowl the porter of Rome gates by th’ ears. He will mow all down before him, and leave his passage polled. |
+| THIRD SERVINGMAN | Why, he is so made on here within as if he were son and heir to Mars; set at upper end o‘th’ table, no question asked him by any of the senators but they stand bald before him. Our general’ himself makes a mistress of him, sanctifies himself with’s hand, and turns up the white o’th’ eye to his discourse. But the [[Bottom|bottom]] of the news is, our general is cut i’th’ middle, and but one half of what he was yesterday, for the other has half by the entreaty and grant of the whole table. He’ll go, he says, and sowl the porter of Rome gates by th’ ears. He will mow all down before him, and leave his passage polled. |

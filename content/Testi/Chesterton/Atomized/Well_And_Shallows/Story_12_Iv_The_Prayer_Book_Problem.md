@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — Iv.  The Prayer-Book Problem"
+title: "[[Well]] And Shallows — Iv.  The [[Prayer]]-Book Problem"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Well-And-Shallows-(Chesterton)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-IV.  THE PRAYER-BOOK PROBLEM
+IV.  THE [[Prayer|PRAYER]]-BOOK PROBLEM
 
 ONE of the events which would have made me a Catholic, if I had not
-already been a Catholic, was the curious affair of the New Prayer-Book.
+already been a Catholic, was the curious affair of the New [[Prayer]]-Book.
 It revealed to me a reality I had not hitherto realised.
 There really was a Church of England; or rather there really was an
 England which largely imagined that it possessed and controlled a Church.
@@ -32,18 +32,18 @@ it into a Mormon temple if they liked.  I could not, in any case,
 have gone on being owned in that way.
 
 But in order to understand all that was involved, it is
-necessary to say a word about the Anglican Prayer-Book itself.
-The Book of Common Prayer is the masterpiece of Protestantism.
-It is more so than the work of Milton.  It is the one positive
+necessary to say a word about the Anglican [[Prayer]]-Book itself.
+The Book of Common [[Prayer]] is the masterpiece of Protestantism.
+It is more so than the work of [[Milton]].  It is the one positive
 possession and attraction; the one magnet and talisman
 for people even outside the Anglican Church, as are the great
-Gothic cathedrals for people outside the Catholic Church.
+Gothic cathedrals for people outside the [[Catholic Church]].
 I can speak, I think, for many other converts, when I say
-that the only thing that can produce any sort of nostalgia
-or romantic regret, any shadow of homesickness in one who has
-in truth come home, is the rhythm of Cranmer's prose.
+that the only thing that can produce any sort of [[Nostalgia|nostalgia]]
+or romantic regret, any [[Shadow|shadow]] of homesickness in one who has
+in [[Truth|truth]] come [[Home|home]], is the rhythm of [[Cranmer]]'s prose.
 All the other supposed superiorities of any sort of Protestantism
-are quite fictitious.  Tell a Catholic convert that he has
+are quite fictitious.  Tell a Catholic [[convert]] that he has
 lost his liberty, and he will laugh.  A distinguished literary
 lady wrote recently that I had entered the most restricted
 of all Christian communions, and I was monstrously amused.
@@ -60,10 +60,10 @@ and settled.  As for Reason, our monopoly is practically
 admitted in the modern world.  Except for one or two dingy old
 atheists in Fleet Street (for whom I have great sympathy),
 nothing except Rome now defends the reliability of Reason.
-Much stronger is the appeal of unreason; or of that beauty
-which perhaps is beyond reason.  The English Litany,
-the music and the magic of the great sixteenth-century style--
-that does call a man backwards like the song of the sirens;
+Much stronger is the appeal of unreason; or of that [[Beauty|beauty]]
+which perhaps is beyond reason.  The English [[litany|Litany]],
+the music and the [[Magic|magic]] of the great sixteenth-century style--
+that does call a man backwards like the [[Song|song]] of the sirens;
 as Virgil and the poets might have called to a Pagan who had
 entered the Early Church.  Only, being a Romanist and therefore
 a Rationalist, he does not go back; he naturally does not forget
@@ -72,16 +72,16 @@ had a stylistic knack which they have now entirely lost.
 For the Anglicans cannot do the trick now, any more than
 anybody else.  Modern prayers, and theirs perhaps more than any,
 seem to be perfectly incapable of avoiding journalese.
-And the Prayer-Book prose seems to follow them like a derisive echo.
-Lambeth or Convocation will publish a prayer saying something like,
+And the [[Prayer]]-Book prose seems to follow them like a derisive echo.
+Lambeth or Convocation will publish a [[Prayer|prayer]] saying something like,
 "Guide us, 0 Lord, to the solution of our social problems";
 and the great organ of old will groan in the background.
 ... "All who are desolate and oppressed."  The first Anglicans
-asked for peace and happiness, truth and justice; but nothing
+asked for peace and happiness, [[Truth|truth]] and justice; but nothing
 can stop the latest Anglicans, and many others, from the horrid
 habit of asking for improvement in international relations.
 
-But why has the old Protestant Prayer-Book a power
+But why has the old Protestant [[Prayer]]-Book a power
 like that of great poetry upon the spirit and the heart?
 The reason is much deeper than the mere avoidance of journalese.
 It might be put in a sentence; it has style; it has tradition;
@@ -90,7 +90,7 @@ It is strong, not in so far as it is the first Protestant book,
 but in so far as it was the last Catholic book.
 As it happens, this can be proved in the most practical
 manner from the actual details of the prose.  The most
-moving passages in the old Anglican Prayer-Book are exactly
+moving passages in the old Anglican [[Prayer]]-Book are exactly
 those that are least like the atmosphere of the Anglicans.
 They are moving, or indeed thrilling, precisely because they
 say the things which Protestants have long left off saying;
@@ -99,11 +99,11 @@ of literature knows when a style lifts itself to its loftiest efforts;
 and in these cases it is always to say strongly what we still
 endeavour to say, however weakly; but which nobody else ever
 endeavours to say at all.  Let anyone recall for himself
-the very finest passages in the Book of Common Prayer,
+the very finest passages in the Book of Common [[Prayer]],
 and he will soon see that they are concerned specially with
 spiritual thoughts and themes that now seem strange and terrible;
-but anyhow, the reverse of common; " ... in the hour of death
-and in the day of Judgment."  Who talks about the hour of death?
+but anyhow, the reverse of common; " ... in the hour of [[Death|death]]
+and in the day of Judgment."  Who talks about the hour of [[Death|death]]?
 Who talks about the Day of Judgment?  Only a litter of shabby
 little priests from the Italian Mission.  Not certainly
 the popular and eloquent Dean of Bumblebury, who is so Broad
@@ -111,16 +111,16 @@ and yet so High.  Certainly not the charming and fashionable
 Vicar of St. Ethelbald's, who is so High and yet so Broad.
 Still less the clergyman helping in the same parish, who is
 frankly Low.  It is the same on every page, where that spirit
-inspires that style.  "Suffer us not, for any pains of death,
+inspires that style.  "Suffer us not, for any pains of [[Death|death]],
 to fall from Thee."... "Ah, that's what gets you" (or words
 to that effect), as Lord Peter Wimsey truly said of this phrase,
-in the detective tale of Miss Dorothy Sayers; who, like Lord Peter,
+in the [[Detective|detective]] tale of Miss Dorothy Sayers; who, like Lord Peter,
 knows a good deal about other things besides poisons;
-and understands her hero's historical traditions very well.
+and understands her [[Hero|hero]]'s historical traditions very [[Well|well]].
 But did you ever hear the curate fresh from the cricket-field,
-or the vicar smiling under the Union Jacks of the
+or the vicar smiling under the [[Union]] Jacks of the
 Conservative Rally, dwell upon that penultimate peril;
-or the danger of falling from God amid the pains of death?
+or the danger of falling from God amid the pains of [[Death|death]]?
 Very morbid.  Just like those Dago devotional books.
 So very Roman.
 
@@ -136,9 +136,9 @@ of an intelligent minority, because it was important to me.
 But the public and the world without were given up to Arian
 and Pelagian demagogues like Dean Inge and Dr. Barnes;
 and a sort of negative Protestantism could still sweep the field.
-It swept the whole field in the matter of the Prayer-Book.
-The proposal of an amended Prayer-Book, or rather two
-alternative Prayer-Books, was not decided for the Church
+It swept the whole field in the matter of the [[Prayer]]-Book.
+The proposal of an amended [[Prayer]]-Book, or rather two
+alternative [[Prayer]]-Books, was not decided for the Church
 by the Churchy or by the communicants; or by the congregation.
 It was settled by a mob of politicians, atheists, agnostics,
 dissenters, Parsees; avowed enemies of that Church or of
@@ -153,24 +153,24 @@ I add one incident to contrast Style, among men who had
 been Catholics for fourteen-hundred years, with that among
 men who have been Protestants for four-hundred years.
 A Protestant organisation presented all the atheists, etc., who had
-voted Protestant, with a big black Bible or Prayer-Book, or both,
+voted Protestant, with a big black [[Bible]] or [[Prayer]]-Book, or both,
 decorated outside with a picture of the Houses of Parliament.
 In hoc signo vinces.  It would be very idolatrous to put
-a cross or crucifix outside a book; but a picture of Parliament
+a [[Cross|cross]] or crucifix outside a book; but a picture of Parliament
 where the Party Funds are kept, and the peerages sold--.
 That is the temple where dwell the gods of Israel... We know
-the world progresses, and education is certainly extended,
+the world progresses, and [[Education|education]] is certainly extended,
 and there are fewer illiterates; and I suppose it is all right.
 But those four strong centuries of Protestant England begin
-with a Book of Common-Prayer, in which, even amid the treachery
-and panic of Cranmer, and in the very moment of men rending
+with a Book of Common-[[Prayer]], in which, even amid the treachery
+and panic of [[Cranmer]], and in the very moment of men rending
 themselves from Rome and Christendom, they could lift in
-such sublime language so authentic a cry of Christian men:
-"By Thy precious death and burial; by Thy glorious resurrection
-and ascension; and by the coming of the Holy Ghost."
+such [[Sublime|sublime]] language so authentic a cry of Christian men:
+"By Thy precious [[Death|death]] and burial; by Thy glorious [[Resurrection|resurrection]]
+and ascension; and by the coming of the Holy [[Ghost]]."
 Those centuries begin with that speech of men still by instinct
 and habit of mind Catholic; and the Protestant civilization
-evolves and the education spreads, and widens in wealth
+evolves and the [[Education|education]] spreads, and widens in wealth
 and power and towns and colleges; until at last the ripe
 and final fruit of its culture is produced, in the form of a
 fat black book of a cushiony sort, with a real photo-view,

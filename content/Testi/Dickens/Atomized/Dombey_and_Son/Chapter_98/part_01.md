@@ -18,18 +18,18 @@ CHAPTER XLII.
 Confidential and Accidental
 
 
-Attired no more in Captain Cuttle’s sable slops and sou’-wester hat,
+Attired no more in [[Captain Cuttle]]’s sable slops and sou’-wester hat,
 but dressed in a substantial suit of brown livery, which, while it
 affected to be a very sober and demure livery indeed, was really as
-self-satisfied and confident a one as tailor need desire to make, Rob
+[[Self|self]]-satisfied and confident a one as tailor need [[Desire|desire]] to make, Rob
 the Grinder, thus transformed as to his outer man, and all regardless
 within of the Captain and the Midshipman, except when he devoted a few
-minutes of his leisure time to crowing over those inseparable worthies,
+minutes of his leisure [[Time|time]] to crowing over those inseparable worthies,
 and recalling, with much applauding music from that brazen instrument,
-his conscience, the triumphant manner in which he had disembarrassed
+his [[Conscience|conscience]], the triumphant manner in which he had disembarrassed
 himself of their company, now served his patron, Mr Carker. Inmate of
-Mr Carker’s house, and serving about his person, Rob kept his round
-eyes on the white teeth with fear and trembling, and felt that he had
+Mr Carker’s [[house]], and serving about his person, Rob kept his round
+eyes on the white teeth with [[Fear|fear]] and trembling, and felt that he had
 need to open them wider than ever.
 
 He could not have quaked more, through his whole being, before the
@@ -41,7 +41,7 @@ considered himself safe in thinking about him when he was absent, lest
 he should feel himself immediately taken by the throat again, as on the
 morning when he first became bound to him, and should see every one of
 the teeth finding him out, and taxing him with every fancy of his mind.
-Face to face with him, Rob had no more doubt that Mr Carker read his
+Face to face with him, Rob had no more [[Doubt|doubt]] that Mr Carker read his
 secret thoughts, or that he could read them by the least exertion of
 his will if he were so inclined, than he had that Mr Carker saw him
 when he looked at him. The ascendancy was so complete, and held him in
@@ -56,13 +56,13 @@ have been an act of no common temerity to inquire—whether he yielded so
 completely to this influence in any part, because he had floating
 suspicions of his patron’s being a master of certain treacherous arts
 in which he had himself been a poor scholar at the Grinders’ School.
-But certainly Rob admired him, as well as feared him. Mr Carker,
+But certainly Rob admired him, as [[Well|well]] as feared him. Mr Carker,
 perhaps, was better acquainted with the sources of his power, which
 lost nothing by his management of it.
 
-On the very night when he left the Captain’s service, Rob, after
+On the very [[Night|night]] when he left the Captain’s service, Rob, after
 disposing of his pigeons, and even making a bad bargain in his hurry,
-had gone straight down to Mr Carker’s house, and hotly presented
+had gone straight down to Mr Carker’s [[house]], and hotly presented
 himself before his new master with a glowing face that seemed to expect
 commendation.
 
@@ -115,7 +115,7 @@ into mine, eh?” said Mr Carker.
 his patron’s own instructions, but dared not justify himself by the
 least insinuation to that effect.
 
-“Well!” said Mr Carker. “You know me, boy?”
+“[[Well]]!” said Mr Carker. “You know me, boy?”
 
 “Please, Sir, yes, Sir,” returned Rob, tumbling with his hat, and still
 fixed by Mr Carker’s eye, and fruitlessly endeavouring to unfix
@@ -140,7 +140,7 @@ Rob obeyed as if his life had depended on his alacrity.
 His patron nodded. “And watching, and so forth.”
 
 “I wouldn’t do such a thing here, Sir,” answered Rob; “upon my word and
-honour, I wouldn’t, Sir, I wish I may die if I would, Sir, for anything
+[[Honour|honour]], I wouldn’t, Sir, I wish I may die if I would, Sir, for anything
 that could be promised to me. I should consider it is as much as all
 the world was worth, to offer to do such a thing, unless I was ordered,
 Sir.”

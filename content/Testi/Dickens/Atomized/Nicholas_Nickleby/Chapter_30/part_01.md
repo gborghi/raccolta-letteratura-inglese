@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 30 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 30 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,28 +16,28 @@ tags:
 
 CHAPTER 30
 
-Festivities are held in honour of Nicholas, who suddenly withdraws
-himself from the Society of Mr. Vincent Crummles and his Theatrical
+Festivities are held in [[Honour|honour]] of Nicholas, who suddenly withdraws
+himself from the Society of Mr. [[Vincent Crummles]] and his Theatrical
 Companions
 
 
-Mr. Vincent Crummles was no sooner acquainted with the public
+Mr. [[Vincent Crummles]] was no sooner acquainted with the public
 announcement which Nicholas had made relative to the probability of
 his shortly ceasing to be a member of the company, than he evinced many
-tokens of grief and consternation; and, in the extremity of his despair,
+tokens of grief and consternation; and, in the extremity of his [[Despair|despair]],
 even held out certain vague promises of a speedy improvement not only in
 the amount of his regular salary, but also in the contingent emoluments
 appertaining to his authorship. Finding Nicholas bent upon quitting the
 society--for he had now determined that, even if no further tidings came
 from Newman, he would, at all hazards, ease his mind by repairing to
-London and ascertaining the exact position of his sister--Mr. Crummles
+[[London]] and ascertaining the exact position of his sister--Mr. Crummles
 was fain to content himself by calculating the chances of his coming
 back again, and taking prompt and energetic measures to make the most of
 him before he went away.
 
 ‘Let me see,’ said Mr. Crummles, taking off his outlaw’s wig, the better
 to arrive at a cool-headed view of the whole case. ‘Let me see. This is
-Wednesday night. We’ll have posters out the first thing in the morning,
+Wednesday [[Night|night]]. We’ll have posters out the first thing in the morning,
 announcing positively your last appearance for tomorrow.’
 
 ‘But perhaps it may not be my last appearance, you know,’ said Nicholas.
@@ -45,7 +45,7 @@ announcing positively your last appearance for tomorrow.’
 leaving before the end of the week.’
 
 ‘So much the better,’ returned Mr. Crummles. ‘We can have positively
-your last appearance, on Thursday--re-engagement for one night more, on
+your last appearance, on [[thursday|Thursday]]--re-engagement for one [[Night|night]] more, on
 Friday--and, yielding to the wishes of numerous influential patrons, who
 were disappointed in obtaining seats, on Saturday. That ought to bring
 three very decent houses.’
@@ -57,7 +57,7 @@ smiling.
 vexation; ‘three is not enough, and it’s very bungling and irregular
 not to have more, but if we can’t help it we can’t, so there’s no use
 in talking. A novelty would be very desirable. You couldn’t sing a comic
-song on the pony’s back, could you?’
+[[Song|song]] on the pony’s back, could you?’
 
 ‘No,’ replied Nicholas, ‘I couldn’t indeed.’
 
@@ -90,7 +90,7 @@ from long experience exactly where the largest capitals ought to go), he
 seriously applied himself to the composition of the poster.
 
 ‘Heigho!’ sighed Nicholas, as he threw himself back in the prompter’s
-chair, after telegraphing the needful directions to Smike, who had been
+chair, after telegraphing the needful directions to [[Smike]], who had been
 playing a meagre tailor in the interlude, with one skirt to his coat,
 and a little pocket-handkerchief with a large hole in it, and a woollen
 nightcap, and a red nose, and other distinctive marks peculiar to
@@ -105,7 +105,7 @@ have made it if I had known you had been within hearing.’
 
 ‘What a dear that Mr. Digby is!’ said Miss Snevellicci, as the tailor
 went off on the opposite side, at the end of the piece, with great
-applause. (Smike’s theatrical name was Digby.)
+applause. ([[Smike]]’s theatrical name was Digby.)
 
 ‘I’ll tell him presently, for his gratification, that you said so,’
 returned Nicholas.
@@ -117,12 +117,12 @@ waiting to be questioned, but no questioning came, for Nicholas was
 thinking about more serious matters.
 
 ‘How kind it is of you,’ resumed Miss Snevellicci, after a short
-silence, ‘to sit waiting here for him night after night, night after
-night, no matter how tired you are; and taking so much pains with him,
+[[Silence|silence]], ‘to sit waiting here for him [[Night|night]] after [[Night|night]], [[Night|night]] after
+[[Night|night]], no matter how tired you are; and taking so much pains with him,
 and doing it all with as much delight and readiness as if you were
 coining gold by it!’
 
-‘He well deserves all the kindness I can show him, and a great deal
+‘He [[Well|well]] deserves all the kindness I can show him, and a great deal
 more,’ said Nicholas. ‘He is the most grateful, single-hearted,
 affectionate creature that ever breathed.’
 
@@ -138,7 +138,7 @@ anything out of him.’
 ‘What SHOULD they get out of him?’ asked Nicholas, turning round with
 some abruptness.
 
-‘Zooks! what a fire-eater you are, Johnson!’ returned Mr. Folair, pulling
+‘Zooks! what a [[Fire|fire]]-eater you are, Johnson!’ returned Mr. Folair, pulling
 up the heel of his dancing shoe. ‘I’m only talking of the natural
 curiosity of the people here, to know what he has been about all his
 life.’

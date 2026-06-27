@@ -20,16 +20,16 @@ tags:
     You touch the strange lumps,
     And mouths gape there, eyes open, all manner
     Of horns and of humps,
-    Which only the fisher looks grave at."
+    Which only the fisher looks [[Grave|grave]] at."
 
-Nature might mean flowers to Wordsworth and grass to Walt Whitman, but
+[[Nature]] might mean [[Flowers|flowers]] to Wordsworth and grass to Walt Whitman, but
 to Browning it really meant such things as these, the monstrosities
 and living mysteries of the sea. And just as these strange things
 meant to Browning energy in the physical world, so strange thoughts
 and strange images meant to him energy in the mental world. When, in
-one of his later poems, the professional mystic is seeking in a
+one of his later [[Poems|poems]], the professional mystic is seeking in a
 supreme moment of sincerity to explain that small things may be filled
-with God as well as great, he uses the very same kind of image, the
+with God as [[Well|well]] as great, he uses the very same kind of image, the
 image of a shapeless sea-beast, to embody that noble conception.
 
     "The Name comes close behind a stomach-cyst,
@@ -42,20 +42,20 @@ image of a shapeless sea-beast, to embody that noble conception.
 
 These bulbous, indescribable sea-goblins are the first thing on which
 the eye of the poet lights in looking on a landscape, and the last in
-the significance of which he trusts in demonstrating the mercy of the
+the significance of which he trusts in demonstrating the [[Mercy|mercy]] of the
 Everlasting.
 
-There is another and but slightly different use of the grotesque, but
+There is another and but slightly different use of the [[Grotesque|grotesque]], but
 which is definitely valuable in Browning's poetry, and indeed in all
-poetry. To present a matter in a grotesque manner does certainly tend
+poetry. To present a matter in a [[Grotesque|grotesque]] manner does certainly tend
 to touch the nerve of surprise and thus to draw attention to the
 intrinsically miraculous character of the object itself. It is
 difficult to give examples of the proper use of grotesqueness without
-becoming too grotesque. But we should all agree that if St. Paul's
-Cathedral were suddenly presented to us upside down we should, for the
+becoming too [[Grotesque|grotesque]]. But we should all agree that if St. Paul's
+[[Cathedral]] were suddenly presented to us upside down we should, for the
 moment, be more surprised at it, and look at it more than we have done
 all the centuries during which it has rested on its foundations. Now
-it is the supreme function of the philosopher of the grotesque to make
+it is the supreme function of the philosopher of the [[Grotesque|grotesque]] to make
 the world stand on its head that people may look at it. If we say "a
 man is a man" we awaken no sense of the fantastic, however much we
 ought to, but if we say, in the language of the old satirist, "that
@@ -64,13 +64,13 @@ moment, make us look at man from the outside and gives us a thrill in
 his presence. When the author of the Book of Job insists upon the
 huge, half-witted, apparently unmeaning magnificence and might of
 Behemoth, the hippopotamus, he is appealing precisely to this sense of
-wonder provoked by the grotesque. "Canst thou play with him as with a
+[[Wonder|wonder]] provoked by the [[Grotesque|grotesque]]. "Canst thou play with him as with a
 bird, canst thou bind him for thy maidens?" he says in an admirable
 passage. The notion of the hippopotamus as a household pet is
-curiously in the spirit of the humour of Browning.
+curiously in the spirit of the [[Humour|humour]] of Browning.
 
-But when it is clearly understood that Browning's love of the
-fantastic in style was a perfectly serious artistic love, when we
+But when it is clearly understood that Browning's [[Love|love]] of the
+fantastic in style was a perfectly serious artistic [[Love|love]], when we
 understand that he enjoyed working in that style, as a Chinese potter
 might enjoy making dragons, or a mediæval mason making devils, there
 yet remains something definite which must be laid to his account as a
@@ -97,19 +97,19 @@ himself on such rhymes as the following in _Pacchiarotto_:--
 This writing, considered as writing, can only be regarded as a kind of
 joke, and most probably Browning considered it so himself. It has
 nothing at all to do with that powerful and symbolic use of the
-grotesque which may be found in such admirable passages as this from
-"Holy Cross Day":--
+[[Grotesque|grotesque]] which may be found in such admirable passages as this from
+"Holy [[Cross]] Day":--
 
     "Give your first groan--compunction's at work;
     And soft! from a Jew you mount to a Turk.
-    Lo, Micah--the self-same beard on chin
+    Lo, Micah--the [[Self|self]]-same beard on chin
     He was four times already converted in!"
 
-This is the serious use of the grotesque. Through it passion and
-philosophy are as well expressed as through any other medium. But the
+This is the serious use of the [[Grotesque|grotesque]]. Through it passion and
+[[philosophy]] are as [[Well|well]] expressed as through any other medium. But the
 rhyming frenzy of Browning has no particular relation even to the
-poems in which it occurs. It is not a dance to any measure; it can
-only be called the horse-play of literature. It may be noted, for
+[[Poems|poems]] in which it occurs. It is not a [[Dance|dance]] to any measure; it can
+only be called the [[Horse|horse]]-play of literature. It may be noted, for
 example, as a rather curious fact, that the ingenious rhymes are
 generally only mathematical triumphs, not triumphs of any kind of
 assonance. "The Pied Piper of Hamelin," a poem written for children,
@@ -120,10 +120,10 @@ it is physically impossible for any one to say:--
     If we've promised them aught, let us keep our promise!"
 
 This queer trait in Browning, his inability to keep a kind of demented
-ingenuity even out of poems in which it was quite inappropriate, is a
+ingenuity even out of [[Poems|poems]] in which it was quite inappropriate, is a
 thing which must be recognised, and recognised all the more because as
-a whole he was a very perfect artist, and a particularly perfect
-artist in the use of the grotesque. But everywhere when we go a little
+a whole he was a very perfect [[Artist|artist]], and a particularly perfect
+[[Artist|artist]] in the use of the [[Grotesque|grotesque]]. But everywhere when we go a little
 below the surface in Browning we find that there was something in him
 perverse and unusual despite all his working normality and
 simplicity. His mind was perfectly wholesome, but it was not made

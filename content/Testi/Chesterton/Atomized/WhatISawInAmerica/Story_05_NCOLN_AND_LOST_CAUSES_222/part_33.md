@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 33)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 33)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-begin properly until about half an hour after time. Often people were
+begin properly until about half an hour after [[Time|time]]. Often people were
 
-still coming in three-quarters of an hour or even an hour after time.
+still coming in three-quarters of an hour or even an hour after [[Time|time]].
 
 Not that I objected to that, as some lecturers are said to do; it seemed
 
@@ -38,13 +38,13 @@ much more important things. But at least I was not content to lump this
 
 along with all sorts of contrary things that I did not happen to like,
 
-and call it America. I am not sure of what it really means, but I rather
+and call it [[America]]. I am not sure of what it really means, but I rather
 
 fancy that though it may seem the very reverse of the hustling, it has
 
 the same origin as the hustling. The American is not punctual because he
 
-is not punctilious. He is impulsive, and has an impulse to stay as well
+is not punctilious. He is impulsive, and has an impulse to stay as [[Well|well]]
 
 as an impulse to go. For, after all, punctuality belongs to the same
 
@@ -68,15 +68,15 @@ civilised; or a little French shopkeeper shutting up his shop to play
 
 dominoes is more civilised. And the reason is that the American has the
 
-romance of business and is monomaniac, while the Frenchman has the
+[[Romance|romance]] of business and is monomaniac, while the Frenchman has the
 
-romance of life and is sane. But the romance of business really is a
+[[Romance|romance]] of life and is sane. But the [[Romance|romance]] of business really is a
 
-romance, and the Americans are really romantic about it. And that
+[[Romance|romance]], and the Americans are really romantic about it. And that
 
-romance, though it revolves round pork or petrol, is really like a
+[[Romance|romance]], though it revolves round pork or petrol, is really like a
 
-love-affair in this; that it involves not only rushing but also
+[[Love|love]]-affair in this; that it involves not only rushing but also
 
 lingering.
 
@@ -104,13 +104,13 @@ swift to be smart. He is much too practical to be precise. By a strange
 
 illusion which can lift pork-packing almost to the level of patriotism,
 
-the American has the same free rhythm in his romance of business. He
+the American has the same free rhythm in his [[Romance|romance]] of business. He
 
-varies his conduct not to suit the clock but to suit the case. He gives
+varies his conduct not to suit the [[Clock|clock]] but to suit the case. He gives
 
-more time to more important and less time to less important things; and
+more [[Time|time]] to more important and less [[Time|time]] to less important things; and
 
-he makes up his time-table as he goes along. Suppose he has three
+he makes up his [[Time|time]]-table as he goes along. Suppose he has three
 
 appointments; the first, let us say, is some mere trifle of erecting a
 
@@ -156,7 +156,7 @@ for the business of life, but not necessarily for the life of business.
 
 And it is true that for many of these Americans business is the
 
-business of life. It is really also, as I have said, the romance of
+business of life. It is really also, as I have said, the [[Romance|romance]] of
 
 life. We shall admire or deplore this spirit, accordingly as we are glad
 
@@ -168,7 +168,7 @@ other hobby; and one is disposed to add that it does fill their
 
 imaginations like any other delusion. For the true criticism of all this
 
-commercial romance would involve a criticism of this historic phase of
+commercial [[Romance|romance]] would involve a criticism of this historic phase of
 
 commerce. These people are building on the sand, though it shines like
 
@@ -184,8 +184,8 @@ but harm; but it does them good to buy and sell them. The claim of the
 
 romantic salesman is better justified than he realises. Business really
 
-is romance; for it is not reality.
+is [[Romance|romance]]; for it is not reality.
 
 
 
-There is one real advantage that America has over England, largely due
+There is one real advantage that [[America]] has over England, largely due

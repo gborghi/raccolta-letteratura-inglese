@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 7 (part 1)"
+title: "[[The Professor]] — Chapter 7 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -22,7 +22,7 @@ READER, perhaps you were never in Belgium? Haply you don’t know the
 
 physiognomy of the country? You have not its lineaments defined upon
 
-your memory, as I have them on mine?
+your [[Memory|memory]], as I have them on mine?
 
 
 
@@ -32,9 +32,9 @@ me the records of the past. First, Eton. All in that picture is in far
 
 perspective, receding, diminutive; but freshly coloured, green, dewy,
 
-with a spring sky, piled with glittering yet showery clouds; for my
+with a [[spring]] sky, piled with glittering yet showery clouds; for my
 
-childhood was not all sunshine--it had its overcast, its cold, its
+[[Childhood|childhood]] was not all sunshine--it had its overcast, its cold, its
 
 stormy hours. Second, X----, huge, dingy; the canvas cracked and smoked;
 
@@ -56,9 +56,9 @@ that whenever uttered has in my ear a sound, in my heart an echo, such
 
 as no other assemblage of syllables, however sweet or classic, can
 
-produce. Belgium! I repeat the word, now as I sit alone near midnight.
+produce. Belgium! I repeat the word, now as I sit [[Alone|alone]] near midnight.
 
-It stirs my world of the past like a summons to resurrection; the graves
+It stirs my world of the past like a summons to [[Resurrection|resurrection]]; the graves
 
 unclose, the dead are raised; thoughts, feelings, memories that slept,
 
@@ -78,7 +78,7 @@ This is Belgium, reader. Look! don’t call the picture a flat or a dull
 
 one--it was neither flat nor dull to me when I first beheld it. When I
 
-left Ostend on a mild February morning, and found myself on the road
+left Ostend on a mild February morning, and found myself on the [[Road|road]]
 
 to Brussels, nothing could look vapid to me. My sense of enjoyment
 
@@ -86,15 +86,15 @@ possessed an edge whetted to the finest, untouched, keen, exquisite.
 
 I was young; I had good health; pleasure and I had never met; no
 
-indulgence of hers had enervated or sated one faculty of my nature.
+indulgence of hers had enervated or sated one faculty of my [[Nature|nature]].
 
-Liberty I clasped in my arms for the first time, and the influence of
+Liberty I clasped in my arms for the first [[Time|time]], and the influence of
 
-her smile and embrace revived my life like the sun and the west wind.
+her smile and embrace revived my life like the sun and the west [[Wind|wind]].
 
 Yes, at that epoch I felt like a morning traveller who doubts not that
 
-from the hill he is ascending he shall behold a glorious sunrise; what
+from the [[Hill|hill]] he is ascending he shall behold a glorious sunrise; what
 
 if the track be strait, steep, and stony? he sees it not; his eyes are
 
@@ -112,11 +112,11 @@ and warm as flame. Difficulty and toil were to be my lot, but sustained
 
 by energy, drawn on by hopes as bright as vague, I deemed such a lot
 
-no hardship. I mounted now the hill in shade; there were pebbles,
+no hardship. I mounted now the [[Hill|hill]] in shade; there were pebbles,
 
 inequalities, briars in my path, but my eyes were fixed on the crimson
 
-peak above; my imagination was with the refulgent firmament beyond, and
+peak above; my [[Imagination|imagination]] was with the refulgent firmament beyond, and
 
 I thought nothing of the stones turning under my feet, or of the thorns
 
@@ -124,11 +124,11 @@ scratching my face and hands.
 
 
 
-I gazed often, and always with delight, from the window of the diligence
+I gazed often, and always with delight, from the [[Window|window]] of the diligence
 
 (these, be it remembered, were not the days of trains and railroads).
 
-Well! and what did I see? I will tell you faithfully. Green, reedy
+[[Well]]! and what did I see? I will tell you faithfully. Green, reedy
 
 swamps; fields fertile but flat, cultivated in patches that made them
 
@@ -136,9 +136,9 @@ look like magnified kitchen-gardens; belts of cut trees, formal as
 
 pollard willows, skirting the horizon; narrow canals, gliding slow by
 
-the road-side; painted Flemish farmhouses; some very dirty hovels; a
+the [[Road|road]]-side; painted Flemish farmhouses; some very dirty hovels; a
 
-gray, dead sky; wet road, wet fields, wet house-tops: not a beautiful,
+gray, dead sky; wet [[Road|road]], wet fields, wet [[house]]-tops: not a beautiful,
 
 scarcely a picturesque object met my eye along the whole route; yet to
 
@@ -152,13 +152,13 @@ recommenced, and it was through streaming and starless darkness my eye
 
 caught the first gleam of the lights of Brussels. I saw little of the
 
-city but its lights that night. Having alighted from the diligence, a
+[[City|city]] but its lights that [[Night|night]]. Having alighted from the diligence, a
 
 fiacre conveyed me to the Hotel de ----, where I had been advised by a
 
 fellow-traveller to put up; having eaten a traveller’s supper, I retired
 
-to bed, and slept a traveller’s sleep.
+to bed, and slept a traveller’s [[Sleep|sleep]].
 
 
 
@@ -168,35 +168,35 @@ that I was yet in X----, and perceiving it to be broad daylight I
 
 started up, imagining that I had overslept myself and should be behind
 
-time at the counting-house. The momentary and painful sense of restraint
+[[Time|time]] at the counting-[[house]]. The momentary and painful sense of restraint
 
-vanished before the revived and reviving consciousness of freedom, as,
+vanished before the revived and reviving consciousness of [[Freedom|freedom]], as,
 
 throwing back the white curtains of my bed, I looked forth into a wide,
 
 lofty foreign chamber; how different from the small and dingy, though
 
-not uncomfortable, apartment I had occupied for a night or two at a
+not uncomfortable, apartment I had occupied for a [[Night|night]] or two at a
 
-respectable inn in London while waiting for the sailing of the packet!
+respectable inn in [[London]] while waiting for the sailing of the packet!
 
-Yet far be it from me to profane the memory of that little dingy room!
+Yet far be it from me to profane the [[Memory|memory]] of that little dingy room!
 
-It, too, is dear to my soul; for there, as I lay in quiet and darkness,
+It, too, is dear to my [[Soul|soul]]; for there, as I lay in quiet and darkness,
 
-I first heard the great bell of St. Paul’s telling London it was
+I first heard the great bell of St. Paul’s telling [[London]] it was
 
-midnight, and well do I recall the deep, deliberate tones, so full
+midnight, and [[Well|well]] do I recall the deep, deliberate tones, so full
 
-charged with colossal phlegm and force. From the small, narrow window
+charged with colossal phlegm and force. From the small, narrow [[Window|window]]
 
-of that room, I first saw THE dome, looming through a London mist. I
+of that room, I first saw THE dome, looming through a [[London]] mist. I
 
 suppose the sensations, stirred by those first sounds, first sights, are
 
-felt but once; treasure them, Memory; seal them in urns, and keep them
+felt but once; treasure them, [[Memory]]; seal them in urns, and keep them
 
-in safe niches! Well--I rose. Travellers talk of the apartments in
+in safe niches! [[Well]]--I [[Rose|rose]]. Travellers talk of the apartments in
 
 foreign dwellings being bare and uncomfortable; I thought my chamber
 

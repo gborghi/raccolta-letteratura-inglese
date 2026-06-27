@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 15 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 15 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -16,19 +16,19 @@ tags:
 
 parted from my sister, had seen her leave him in the greatest
 
-affliction; and if he felt obliged, from a fear of offending Mrs.
+affliction; and if he felt obliged, from a [[Fear|fear]] of offending Mrs.
 
-Smith, to resist the temptation of returning here soon, and yet aware
+[[smith|Smith]], to resist the [[Temptation|temptation]] of returning here soon, and yet aware
 
 that by declining your invitation, by saying that he was going away for
 
-some time, he should seem to act an ungenerous, a suspicious part by
+some [[Time|time]], he should seem to act an ungenerous, a suspicious part by
 
-our family, he might well be embarrassed and disturbed. In such a case,
+our family, he might [[Well|well]] be embarrassed and disturbed. In such a case,
 
 a plain and open avowal of his difficulties would have been more to his
 
-honour I think, as well as more consistent with his general
+[[Honour|honour]] I think, as [[Well|well]] as more consistent with his general
 
 character;—but I will not raise objections against any one’s conduct on
 
@@ -50,7 +50,7 @@ it might have been odd that he should leave us without acknowledging
 
 everything to me at once: but this is not the case. It is an engagement
 
-in some respects not prosperously begun, for their marriage must be at
+in some respects not prosperously begun, for their [[Marriage|marriage]] must be at
 
 a very uncertain distance; and even secrecy, as far as it can be
 
@@ -62,29 +62,29 @@ They were interrupted by the entrance of Margaret; and Elinor was then
 
 at liberty to think over the representations of her mother, to
 
-acknowledge the probability of many, and hope for the justice of all.
+acknowledge the probability of many, and [[Hope|hope]] for the justice of all.
 
 
 
-They saw nothing of Marianne till dinner time, when she entered the
+They saw nothing of Marianne till dinner [[Time|time]], when she entered the
 
 room and took her place at the table without saying a word. Her eyes
 
-were red and swollen; and it seemed as if her tears were even then
+were red and swollen; and it seemed as if her [[Tears|tears]] were even then
 
 restrained with difficulty. She avoided the looks of them all, could
 
-neither eat nor speak, and after some time, on her mother’s silently
+neither eat nor speak, and after some [[Time|time]], on her mother’s silently
 
 pressing her hand with tender compassion, her small degree of fortitude
 
-was quite overcome, she burst into tears and left the room.
+was quite overcome, she burst into [[Tears|tears]] and left the room.
 
 
 
 This violent oppression of spirits continued the whole evening. She was
 
-without any power, because she was without any desire of command over
+without any power, because she was without any [[Desire|desire]] of command over
 
 herself. The slightest mention of anything relative to Willoughby
 

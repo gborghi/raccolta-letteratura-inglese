@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 2)"
+title: "The Mystery of [[Edwin Drood]] — Part 1: hear Neville moving too. Are you going back?” (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -19,12 +19,12 @@ not the least idea what latent horrors this carriage of the piping
 might involve. Mrs. Billickin put her hand to her heart, as having
 eased it of a load.
 
-“Well! The roof is all right, no doubt,” said Mr. Grewgious, plucking
+“[[Well]]! The roof is all right, no [[Doubt|doubt]],” said Mr. Grewgious, plucking
 up a little.
 
 “Mr. Grewgious,” returned Mrs. Billickin, “if I was to tell you, sir,
 that to have nothink above you is to have a floor above you, I should
-put a deception upon you which I will not do. No, sir. Your slates WILL
+put a [[Deception|deception]] upon you which I will not do. No, sir. Your slates WILL
 rattle loose at that elewation in windy weather, do your utmost, best
 or worst! I defy you, sir, be you what you may, to keep your slates
 tight, try how you can.” Here Mrs. Billickin, having been warm with Mr.
@@ -37,7 +37,7 @@ ceiling, for a stain I do consider it?’ and for me to answer, ‘I do not
 understand you, sir.’ No, sir, I will not be so underhand. I _do_
 understand you before you pint it out. It is the wet, sir. It do come
 in, and it do not come in. You may lay dry there half your lifetime;
-but the time will come, and it is best that you should know it, when a
+but the [[Time|time]] will come, and it is best that you should know it, when a
 dripping sop would be no name for you.”
 
 Mr. Grewgious looked much disgraced by being prefigured in this pickle.
@@ -77,7 +77,7 @@ very nearly got loose, and she had caught it in the act of taking wing.
 satisfactory.
 
 “Mr. Grewgious,” replied Mrs. Billickin, turning upon him with
-ceremony, as if the time had now come when a distinct understanding on
+ceremony, as if the [[Time|time]] had now come when a distinct understanding on
 a difficult point must be arrived at, and a solemn confidence
 established, “the second floor is over this.”
 
@@ -85,13 +85,13 @@ established, “the second floor is over this.”
 
 “Yes, sir,” returned Mrs. Billickin, “it is open as the day.”
 
-That also proving satisfactory, Mr. Grewgious retired into a window
+That also proving satisfactory, Mr. Grewgious retired into a [[Window|window]]
 with Rosa for a few words of consultation, and then asking for pen and
 ink, sketched out a line or two of agreement. In the meantime Mrs.
 Billickin took a seat, and delivered a kind of Index to, or Abstract
 of, the general question.
 
-“Five-and-forty shillings per week by the month certain at the time of
+“Five-and-forty shillings per week by the month certain at the [[Time|time]] of
 year,” said Mrs. Billickin, “is only reasonable to both parties. It is
 not Bond Street nor yet St. James’s Palace; but it is not pretended
 that it is. Neither is it attempted to be denied—for why should
@@ -99,12 +99,12 @@ it?—that the Arching leads to a mews. Mewses must exist. Respecting
 attendance; two is kep’, at liberal wages. Words _has_ arisen as to
 tradesmen, but dirty shoes on fresh hearth-stoning was attributable,
 and no wish for a commission on your orders. Coals is either _by_ the
-fire, or _per_ the scuttle.” She emphasised the prepositions as marking
-a subtle but immense difference. “Dogs is not viewed with favour.
+[[Fire|fire]], or _per_ the scuttle.” She emphasised the prepositions as marking
+a subtle but immense difference. “[[dogs|Dogs]] is not viewed with favour.
 Besides litter, they gets stole, and sharing suspicions is apt to creep
 in, and unpleasantness takes place.”
 
-By this time Mr. Grewgious had his agreement-lines, and his
+By this [[Time|time]] Mr. Grewgious had his agreement-lines, and his
 earnest-money, ready. “I have signed it for the ladies, ma’am,” he
 said, “and you’ll have the goodness to sign it for yourself, Christian
 and Surname, there, if you please.”
@@ -120,7 +120,7 @@ acts as such, and go from it I will not.”
 Mr. Grewgious stared at Rosa.
 
 “No, Mr. Grewgious, you must excuse me. So long as this ’ouse is known
-indefinite as Billickin’s, and so long as it is a doubt with the
+indefinite as Billickin’s, and so long as it is a [[Doubt|doubt]] with the
 riff-raff where Billickin may be hidin’, near the street-door or down
 the airy, and what his weight and size, so long I feel safe. But commit
 myself to a solitary female statement, no, Miss! Nor would you for a

@@ -15,9 +15,9 @@ tags:
 
 
 ‘But, young men,’ resumed Mrs Merdle, ‘and by young men you know
-what I mean, my love--I mean people’s sons who have the world before
+what I mean, my [[Love|love]]--I mean people’s sons who have the world before
 them--they must place themselves in a better position towards Society by
-marriage, or Society really will not have any patience with their making
+[[Marriage|marriage]], or Society really will not have any patience with their making
 fools of themselves. Dreadfully worldly all this sounds,’ said Mrs
 Merdle, leaning back in her nest and putting up her glass again, ‘does
 it not?’
@@ -27,16 +27,16 @@ it not?’
 ‘My dear, it is not to be disputed for a moment,’ returned Mrs Merdle;
 ‘because Society has made up its mind on the subject, and there is
 nothing more to be said. If we were in a more primitive state, if we
-lived under roofs of leaves, and kept cows and sheep and creatures
+lived under roofs of [[Leaves|leaves]], and kept cows and sheep and creatures
 instead of banker’s accounts (which would be delicious; my dear, I am
-pastoral to a degree, by nature), well and good. But we don’t live
-under leaves, and keep cows and sheep and creatures. I perfectly exhaust
-myself sometimes, in pointing out the distinction to Edmund Sparkler.’
+[[Pastoral|pastoral]] to a degree, by [[Nature|nature]]), [[Well|well]] and good. But we don’t live
+under [[Leaves|leaves]], and keep cows and sheep and creatures. I perfectly exhaust
+myself sometimes, in pointing out the distinction to [[Edmund]] Sparkler.’
 
 Mrs Gowan, looking over her green fan when this young gentleman’s name
 was mentioned, replied as follows:
 
-‘My love, you know the wretched state of the country--those unfortunate
+‘My [[Love|love]], you know the wretched state of the country--those unfortunate
 concessions of John Barnacle’s!--and you therefore know the reasons for
 my being as poor as Thingummy.’
 
@@ -47,17 +47,17 @@ Gowan. ‘Either will do. It would be idle to disguise, consequently, that
 there is a wide difference between the position of your son and mine. I
 may add, too, that Henry has talent--’
 
-‘Which Edmund certainly has not,’ said Mrs Merdle, with the greatest
+‘Which [[Edmund]] certainly has not,’ said Mrs Merdle, with the greatest
 suavity.
 
 ‘--and that his talent, combined with disappointment,’ Mrs Gowan went
 on, ‘has led him into a pursuit which--ah dear me! You know, my dear.
 Such being Henry’s different position, the question is what is the most
-inferior class of marriage to which I can reconcile myself.’
+inferior class of [[Marriage|marriage]] to which I can reconcile myself.’
 
 Mrs Merdle was so much engaged with the contemplation of her arms
 (beautiful-formed arms, and the very thing for bracelets), that she
-omitted to reply for a while. Roused at length by the silence, she
+omitted to reply for a while. Roused at length by the [[Silence|silence]], she
 folded the arms, and with admirable presence of mind looked her friend
 full in the face, and said interrogatively, ‘Ye-es? And then?’
 
@@ -85,9 +85,9 @@ Henry will be relieved from debt--’
 a comfortable sort of way.
 
 ‘And that the father will make them an allowance of three hundred
-a-year, or perhaps altogether something more, which, in Italy-’
+a-year, or perhaps altogether something more, which, in [[Italy]]-’
 
-‘Oh! Going to Italy?’ said Mrs Merdle.
+‘Oh! Going to [[Italy]]?’ said Mrs Merdle.
 
 ‘For Henry to study. You need be at no loss to guess why, my dear.
 That dreadful Art--’
@@ -97,24 +97,24 @@ She understood. Say no more!
 
 ‘And that,’ said Mrs Gowan, shaking her despondent head, ‘that’s all.
 That,’ repeated Mrs Gowan, furling her green fan for the moment, and
-tapping her chin with it (it was on the way to being a double chin;
-might be called a chin and a half at present), ‘that’s all! On the death
+tapping her chin with it (it was on the way to being a [[Double|double]] chin;
+might be called a chin and a half at present), ‘that’s all! On the [[Death|death]]
 of the old people, I suppose there will be more to come; but how it may
 be restricted or locked up, I don’t know. And as to that, they may live
 for ever. My dear, they are just the kind of people to do it.’
 
-Now, Mrs Merdle, who really knew her friend Society pretty well, and who
+Now, Mrs Merdle, who really knew her friend Society pretty [[Well|well]], and who
 knew what Society’s mothers were, and what Society’s daughters were, and
 what Society’s matrimonial market was, and how prices ruled in it, and
 what scheming and counter-scheming took place for the high buyers, and
 what bargaining and huckstering went on, thought in the depths of
 her capacious bosom that this was a sufficiently good catch. Knowing,
-however, what was expected of her, and perceiving the exact nature of
+however, what was expected of her, and perceiving the exact [[Nature|nature]] of
 the fiction to be nursed, she took it delicately in her arms, and put
 her required contribution of gloss upon it.
 
-‘And that is all, my dear?’ said she, heaving a friendly sigh. ‘Well,
-well! The fault is not yours. You have nothing to reproach yourself
+‘And that is all, my dear?’ said she, heaving a friendly sigh. ‘[[Well]],
+[[Well|well]]! The fault is not yours. You have nothing to reproach yourself
 with. You must exercise the strength of mind for which you are renowned,
 and make the best of it.’
 
@@ -124,13 +124,13 @@ strenuous endeavours to--as the lawyers say--to have and to hold Henry.’
 ‘Of course they have, my dear,’ said Mrs Merdle.
 
 ‘I have persisted in every possible objection, and have worried
-myself morning, noon, and night, for means to detach Henry from the
+myself morning, [[Noon|noon]], and [[Night|night]], for means to detach Henry from the
 connection.’
 
-‘No doubt you have, my dear,’ said Mrs Merdle.
+‘No [[Doubt|doubt]] you have, my dear,’ said Mrs Merdle.
 
 ‘And all of no use. All has broken down beneath me. Now tell me, my
-love. Am I justified in at last yielding my most reluctant consent to
+[[Love|love]]. Am I justified in at last yielding my most reluctant consent to
 Henry’s marrying among people not in Society; or, have I acted with
 inexcusable weakness?’
 

@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 14 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 14 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -18,7 +18,7 @@ conclude, as anything that does not actually pass under one’s own
 
 observation; and as for the little embellishments you speak of, they
 
-are embellishments, and I like them as such. If a speech be well drawn
+are embellishments, and I like them as such. If a speech be [[Well|well]] drawn
 
 up, I read it with pleasure, by whomsoever it may be made—and probably
 
@@ -28,15 +28,15 @@ if the genuine words of Caractacus, Agricola, or Alfred the Great.”
 
 
 
-“You are fond of history! and so are Mr. Allen and my father; and I
+“You are fond of [[history]]! and so are Mr. Allen and my father; and I
 
 have two brothers who do not dislike it. So many instances within my
 
 small circle of friends is remarkable! at this rate, I shall not pity
 
-the writers of history any longer. If people like to read their books,
+the writers of [[history]] any longer. If people like to read their books,
 
-it is all very well, but to be at so much trouble in filling great
+it is all very [[Well|well]], but to be at so much trouble in filling great
 
 volumes, which, as I used to think, nobody would willingly ever look
 
@@ -44,7 +44,7 @@ into, to be labouring only for the torment of little boys and girls,
 
 always struck me as a hard fate; and though I know it is all very right
 
-and necessary, I have often wondered at the person’s courage that could
+and necessary, I have often wondered at the person’s [[Courage|courage]] that could
 
 sit down on purpose to do it.”
 
@@ -52,17 +52,17 @@ sit down on purpose to do it.”
 
 “That little boys and girls should be tormented,” said Henry, “is what
 
-no one at all acquainted with human nature in a civilized state can
+no one at all acquainted with human [[Nature|nature]] in a civilized state can
 
 deny; but in behalf of our most distinguished historians, I must
 
-observe that they might well be offended at being supposed to have no
+observe that they might [[Well|well]] be offended at being supposed to have no
 
-higher aim, and that by their method and style, they are perfectly well
+higher aim, and that by their method and style, they are perfectly [[Well|well]]
 
 qualified to torment readers of the most advanced reason and mature
 
-time of life. I use the verb ‘to torment,’ as I observed to be your own
+[[Time|time]] of life. I use the verb ‘to torment,’ as I observed to be your own
 
 method, instead of ‘to instruct,’ supposing them to be now admitted as
 
@@ -80,7 +80,7 @@ stupid they can be for a whole morning together, and how tired my poor
 
 mother is at the end of it, as I am in the habit of seeing almost every
 
-day of my life at home, you would allow that to _torment_ and to
+day of my life at [[Home|home]], you would allow that to _torment_ and to
 
 _instruct_ might sometimes be used as synonymous words.”
 
@@ -92,7 +92,7 @@ of learning to read; and even you yourself, who do not altogether seem
 
 particularly friendly to very severe, very intense application, may
 
-perhaps be brought to acknowledge that it is very well worth-while to
+perhaps be brought to acknowledge that it is very [[Well|well]] worth-while to
 
 be tormented for two or three years of one’s life, for the sake of
 
@@ -126,19 +126,19 @@ contradict the very few notions she had entertained on the matter
 
 before. It seemed as if a good view were no longer to be taken from the
 
-top of an high hill, and that a clear blue sky was no longer a proof of
+top of an high [[Hill|hill]], and that a clear blue sky was no longer a proof of
 
 a fine day. She was heartily ashamed of her ignorance. A misplaced
 
 shame. Where people wish to attach, they should always be ignorant. To
 
-come with a well-informed mind is to come with an inability of
+come with a [[Well|well]]-informed mind is to come with an inability of
 
-administering to the vanity of others, which a sensible person would
+administering to the [[Vanity|vanity]] of others, which a sensible person would
 
 always wish to avoid. A woman especially, if she have the misfortune of
 
-knowing anything, should conceal it as well as she can.
+knowing anything, should conceal it as [[Well|well]] as she can.
 
 
 
@@ -152,7 +152,7 @@ larger and more trifling part of the sex, imbecility in females is a
 
 great enhancement of their personal charms, there is a portion of them
 
-too reasonable and too well informed themselves to desire anything more
+too reasonable and too [[Well|well]] informed themselves to [[Desire|desire]] anything more
 
 in woman than ignorance. But Catherine did not know her own
 
@@ -168,7 +168,7 @@ declared that she would give anything in the world to be able to draw;
 
 and a lecture on the picturesque immediately followed, in which his
 
-instructions were so clear that she soon began to see beauty in
+instructions were so clear that she soon began to see [[Beauty|beauty]] in
 
 everything admired by him, and her attention was so earnest that he
 
@@ -180,21 +180,21 @@ and perspectives—lights and shades; and Catherine was so hopeful a
 
 scholar that when they gained the top of Beechen Cliff, she voluntarily
 
-rejected the whole city of Bath as unworthy to make part of a
+rejected the whole [[City|city]] of Bath as unworthy to make part of a
 
 landscape. Delighted with her progress, and fearful of wearying her
 
 with too much wisdom at once, Henry suffered the subject to decline,
 
-and by an easy transition from a piece of rocky fragment and the
+and by an easy transition from a piece of rocky [[Fragment|fragment]] and the
 
 withered oak which he had placed near its summit, to oaks in general,
 
-to forests, the enclosure of them, waste lands, crown lands and
+to forests, the enclosure of them, waste lands, [[Crown|crown]] lands and
 
-government, he shortly found himself arrived at politics; and from
+[[government]], he shortly found himself arrived at politics; and from
 
-politics, it was an easy step to silence. The general pause which
+politics, it was an easy step to [[Silence|silence]]. The general pause which
 
 succeeded his short disquisition on the state of the nation was put an
 

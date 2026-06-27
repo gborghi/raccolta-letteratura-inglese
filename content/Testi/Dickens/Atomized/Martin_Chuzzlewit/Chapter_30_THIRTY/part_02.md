@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 30: THIRTY (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 30: THIRTY (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,44 +14,44 @@ tags:
 </nav>
 
 
-‘Mr Jonas will survive your calling him a wretch, my child, I dare say,’
-said Mr Pecksniff, with returning resignation; ‘but call him what you
+‘Mr Jonas will survive your calling him a wretch, my [[Child|child]], I dare say,’
+said Mr Pecksniff, with returning [[Resignation|resignation]]; ‘but call him what you
 like and make an end of it.’
 
-‘Not an end, Pa,’ said Charity. ‘No, not an end. That’s not the only
+‘Not an end, Pa,’ said [[Charity]]. ‘No, not an end. That’s not the only
 point on which we’re not agreed. I won’t submit to it. It’s better you
 should know that at once. No; I won’t submit to it indeed, Pa! I am
-not quite a fool, and I am not blind. All I have got to say is, I won’t
+not quite a [[Fool|fool]], and I am not blind. All I have got to say is, I won’t
 submit to it.’
 
 Whatever she meant, she shook Mr Pecksniff now; for his lame attempt to
-seem composed was melancholy in the last degree. His anger changed to
+seem composed was [[Melancholy|melancholy]] in the last degree. His anger changed to
 meekness, and his words were mild and fawning.
 
 ‘My dear,’ he said; ‘if in the short excitement of an angry moment I
 resorted to an unjustifiable means of suppressing a little outbreak
-calculated to injure you as well as myself--it’s possible I may have
+calculated to injure you as [[Well|well]] as myself--it’s possible I may have
 done so; perhaps I did--I ask your pardon. A father asking pardon of
-his child,’ said Mr Pecksniff, ‘is, I believe, a spectacle to soften the
-most rugged nature.’
+his [[Child|child]],’ said Mr Pecksniff, ‘is, I believe, a spectacle to soften the
+most rugged [[Nature|nature]].’
 
-But it didn’t at all soften Miss Pecksniff; perhaps because her nature
+But it didn’t at all soften Miss Pecksniff; perhaps because her [[Nature|nature]]
 was not rugged enough. On the contrary, she persisted in saying, over
-and over again, that she wasn’t quite a fool, and wasn’t blind, and
+and over again, that she wasn’t quite a [[Fool|fool]], and wasn’t blind, and
 wouldn’t submit to it.
 
-‘You labour under some mistake, my child!’ said Mr Pecksniff, ‘but
-I will not ask you what it is; I don’t desire to know. No, pray!’ he
+‘You labour under some mistake, my [[Child|child]]!’ said Mr Pecksniff, ‘but
+I will not ask you what it is; I don’t [[Desire|desire]] to know. No, pray!’ he
 added, holding out his hand and colouring again, ‘let us avoid the
 subject, my dear, whatever it is!’
 
 ‘It’s quite right that the subject should be avoided between us,
 sir,’ said Cherry. ‘But I wish to be able to avoid it altogether, and
-consequently must beg you to provide me with a home.’
+consequently must beg you to provide me with a [[Home|home]].’
 
-Mr Pecksniff looked about the room, and said, ‘A home, my child!’
+Mr Pecksniff looked about the room, and said, ‘A [[Home|home]], my [[Child|child]]!’
 
-‘Another home, papa,’ said Cherry, with increasing stateliness ‘Place me
+‘Another [[Home|home]], papa,’ said Cherry, with increasing stateliness ‘Place me
 at Mrs Todgers’s or somewhere, on an independent footing; but I will not
 live here, if such is to be the case.’
 
@@ -65,38 +65,38 @@ proposition did not sound quite like the dismal knell of all his hopes.
 
 But he was a man of great feeling and acute sensibility; and he squeezed
 his pocket-handkerchief against his eyes with both hands--as such men
-always do, especially when they are observed. ‘One of my birds,’ Mr
+always do, especially when they are observed. ‘One of my [[Birds|birds]],’ Mr
 Pecksniff said, ‘has left me for the stranger’s breast; the other would
-take wing to Todgers’s! Well, well, what am I? I don’t know what I am,
+take wing to Todgers’s! [[Well]], [[Well|well]], what am I? I don’t know what I am,
 exactly. Never mind!’
 
 Even this remark, made more pathetic perhaps by his breaking down in
-the middle of it, had no effect upon Charity. She was grim, rigid, and
+the middle of it, had no effect upon [[Charity]]. She was grim, rigid, and
 inflexible.
 
 ‘But I have ever,’ said Mr Pecksniff, ‘sacrificed my children’s
 happiness to my own--I mean my own happiness to my children’s--and I
 will not begin to regulate my life by other rules of conduct now. If you
-can be happier at Mrs Todgers’s than in your father’s house, my dear, go
+can be happier at Mrs Todgers’s than in your father’s [[house]], my dear, go
 to Mrs Todgers’s! Do not think of me, my girl!’ said Mr Pecksniff with
-emotion; ‘I shall get on pretty well, no doubt.’
+emotion; ‘I shall get on pretty [[Well|well]], no [[Doubt|doubt]].’
 
-Miss Charity, who knew he had a secret pleasure in the contemplation of
+Miss [[Charity]], who knew he had a secret pleasure in the contemplation of
 the proposed change, suppressed her own, and went on to negotiate the
 terms. His views upon this subject were at first so very limited that
 another difference, involving possibly another shaking, threatened to
 ensue; but by degrees they came to something like an understanding, and
-the storm blew over. Indeed, Miss Charity’s idea was so agreeable
+the [[Storm|storm]] blew over. Indeed, Miss [[Charity]]’s idea was so agreeable
 to both, that it would have been strange if they had not come to an
 amicable agreement. It was soon arranged between them that the project
-should be tried, and that immediately; and that Cherry’s not being well,
+should be tried, and that immediately; and that Cherry’s not being [[Well|well]],
 and needing change of scene, and wishing to be near her sister, should
 form the excuse for her departure to Mr Chuzzlewit and Mary, to both of
-whom she had pleaded indisposition for some time past. These premises
+whom she had pleaded indisposition for some [[Time|time]] past. These premises
 agreed on, Mr Pecksniff gave her his blessing, with all the dignity of
-a self-denying man who had made a hard sacrifice, but comforted himself
+a [[Self|self]]-denying man who had made a hard sacrifice, but comforted himself
 with the reflection that virtue is its own reward. Thus they were
-reconciled for the first time since that not easily forgiven night,
+reconciled for the first [[Time|time]] since that not easily forgiven [[Night|night]],
 when Mr Jonas, repudiating the elder, had confessed his passion for the
 younger sister, and Mr Pecksniff had abetted him on moral grounds.
 
@@ -119,10 +119,10 @@ bad one) can. Did he set before himself any strong and palpable motives
 for taking a second wife? Yes; and not one or two of them, but a
 combination of very many.
 
-Old Martin Chuzzlewit had gradually undergone an important change. Even
-upon the night when he made such an ill-timed arrival at Mr Pecksniff’s
-house, he was comparatively subdued and easy to deal with. This Mr
-Pecksniff attributed, at the time, to the effect his brother’s death had
+[[Old Martin Chuzzlewit]] had gradually undergone an important change. Even
+upon the [[Night|night]] when he made such an ill-timed arrival at Mr Pecksniff’s
+[[house]], he was comparatively subdued and easy to deal with. This Mr
+Pecksniff attributed, at the [[Time|time]], to the effect his brother’s [[Death|death]] had
 had upon him. But from that hour his character seemed to have modified
 by regular degrees, and to have softened down into a dull indifference
 for almost every one but Mr Pecksniff. His looks were much the same as
@@ -135,4 +135,4 @@ and would be profoundly taciturn for days together. The process of this
 alteration was so easy that almost as soon as it began to be observed
 it was complete. But Mr Pecksniff saw it first, and having Anthony
 Chuzzlewit fresh in his recollection, saw in his brother Martin the same
-process of decay.
+process of [[Decay|decay]].

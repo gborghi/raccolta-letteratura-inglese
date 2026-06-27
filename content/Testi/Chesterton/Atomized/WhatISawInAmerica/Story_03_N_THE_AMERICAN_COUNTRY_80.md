@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — N THE AMERICAN COUNTRY               80"
+title: "[[WhatISawInAmerica]] — N THE AMERICAN COUNTRY               80"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"

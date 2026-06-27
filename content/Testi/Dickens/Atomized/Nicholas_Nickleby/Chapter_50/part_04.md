@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 50 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 50 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -39,16 +39,16 @@ it had done all day. Sir Mulberry drank to recompense himself for his
 recent abstinence; the young lord, to drown his indignation; and the
 remainder of the party, because the wine was of the best and they had
 nothing to pay. It was nearly midnight when they rushed out, wild,
-burning with wine, their blood boiling, and their brains on fire, to the
+burning with wine, their [[Blood|blood]] boiling, and their brains on [[Fire|fire]], to the
 gaming-table.
 
 Here, they encountered another party, mad like themselves. The
 excitement of play, hot rooms, and glaring lights was not calculated to
-allay the fever of the time. In that giddy whirl of noise and confusion,
+allay the fever of the [[Time|time]]. In that giddy whirl of noise and confusion,
 the men were delirious. Who thought of money, ruin, or the morrow, in
 the savage intoxication of the moment? More wine was called for, glass
 after glass was drained, their parched and scalding mouths were cracked
-with thirst. Down poured the wine like oil on blazing fire. And still
+with thirst. Down poured the wine like oil on blazing [[Fire|fire]]. And still
 the riot went on. The debauchery gained its height; glasses were dashed
 upon the floor by hands that could not carry them to lips; oaths were
 shouted out by lips which could scarcely form the words to vent them
@@ -72,9 +72,9 @@ tonight!’
 
 ‘I will not, by G--,’ he replied. ‘A dozen men about us saw the blow.’
 
-‘Tomorrow will be ample time,’ said the friend.
+‘Tomorrow will be ample [[Time|time]],’ said the friend.
 
-‘It will not be ample time!’ cried Sir Mulberry. ‘Tonight, at once,
+‘It will not be ample [[Time|time]]!’ cried Sir Mulberry. ‘Tonight, at once,
 here!’ His passion was so great, that he could not articulate, but stood
 clenching his fist, tearing his hair, and stamping upon the ground.
 
@@ -94,11 +94,11 @@ his friend.
 It was a profligate haunt of the worst repute, and not a place in which
 such an affair was likely to awaken any sympathy for either party, or
 to call forth any further remonstrance or interposition. Elsewhere, its
-further progress would have been instantly prevented, and time allowed
+further progress would have been instantly prevented, and [[Time|time]] allowed
 for sober and cool reflection; but not there. Disturbed in their orgies,
 the party broke up; some reeled away with looks of tipsy gravity; others
 withdrew noisily discussing what had just occurred; the gentlemen of
-honour who lived upon their winnings remarked to each other, as they
+[[Honour|honour]] who lived upon their winnings remarked to each other, as they
 went out, that Hawk was a good shot; and those who had been most noisy,
 fell fast asleep upon the sofas, and thought no more about it.
 
@@ -108,8 +108,8 @@ utterly heartless, both men upon town, both thoroughly initiated in its
 worst vices, both deeply in debt, both fallen from some higher estate,
 both addicted to every depravity for which society can find some genteel
 name and plead its most depraving conventionalities as an excuse, they
-were naturally gentlemen of most unblemished honour themselves, and of
-great nicety concerning the honour of other people.
+were naturally gentlemen of most unblemished [[Honour|honour]] themselves, and of
+great nicety concerning the [[Honour|honour]] of other people.
 
 These two gentlemen were unusually cheerful just now; for the affair was
 pretty certain to make some noise, and could scarcely fail to enhance

@@ -17,7 +17,7 @@ tags:
 ‘Is he called by his right name?’
 
 ‘Why, you see, speaking quite correctly, he has no right name. I always
-understood he took his name from being found on a Sloppy night.’
+understood he took his name from being found on a Sloppy [[Night|night]].’
 
 ‘He seems an amiable fellow.’
 
@@ -47,20 +47,20 @@ withered left.
 
 ‘Yes, ma’am. Concerning Johnny.’
 
-‘If you trust the dear child to me,’ said Mrs Boffin, with a face
+‘If you trust the dear [[Child|child]] to me,’ said Mrs Boffin, with a face
 inviting trust, ‘he shall have the best of homes, the best of care, the
-best of education, the best of friends. Please God I will be a true good
+best of [[Education|education]], the best of friends. Please God I will be a true good
 mother to him!’
 
-‘I am thankful to you, ma’am, and the dear child would be thankful if
+‘I am thankful to you, ma’am, and the dear [[Child|child]] would be thankful if
 he was old enough to understand.’ Still lightly beating the little hand
-upon her own. ‘I wouldn’t stand in the dear child’s light, not if I had
-all my life before me instead of a very little of it. But I hope you
-won’t take it ill that I cleave to the child closer than words can tell,
+upon her own. ‘I wouldn’t stand in the dear [[Child|child]]’s light, not if I had
+all my life before me instead of a very little of it. But I [[Hope|hope]] you
+won’t take it ill that I cleave to the [[Child|child]] closer than words can tell,
 for he’s the last living thing left me.’
 
-‘Take it ill, my dear soul? Is it likely? And you so tender of him as to
-bring him home here!’
+‘Take it ill, my dear [[Soul|soul]]? Is it likely? And you so tender of him as to
+bring him [[Home|home]] here!’
 
 ‘I have seen,’ said Betty, still with that light beat upon her hard
 rough hand, ‘so many of them on my lap. And they are all gone but this
@@ -68,7 +68,7 @@ one! I am ashamed to seem so selfish, but I don’t really mean it. It’ll
 be the making of his fortune, and he’ll be a gentleman when I am dead.
 I—I—don’t know what comes over me. I—try against it. Don’t notice
 me!’ The light beat stopped, the resolute mouth gave way, and the fine
-strong old face broke up into weakness and tears.
+strong old face broke up into weakness and [[Tears|tears]].
 
 Now, greatly to the relief of the visitors, the emotional Sloppy no
 sooner beheld his patroness in this condition, than, throwing back his
@@ -76,29 +76,29 @@ head and throwing open his mouth, he lifted up his voice and bellowed.
 This alarming note of something wrong instantly terrified Toddles and
 Poddles, who were no sooner heard to roar surprisingly, than Johnny,
 curving himself the wrong way and striking out at Mrs Boffin with a pair
-of indifferent shoes, became a prey to despair. The absurdity of the
+of indifferent shoes, became a prey to [[Despair|despair]]. The absurdity of the
 situation put its pathos to the rout. Mrs Betty Higden was herself in
-a moment, and brought them all to order with that speed, that Sloppy,
+a moment, and brought them all to order with that [[Speed|speed]], that Sloppy,
 stopping short in a polysyllabic bellow, transferred his energy to
 the mangle, and had taken several penitential turns before he could be
 stopped.
 
-‘There, there, there!’ said Mrs Boffin, almost regarding her kind self
+‘There, there, there!’ said Mrs Boffin, almost regarding her kind [[Self|self]]
 as the most ruthless of women. ‘Nothing is going to be done. Nobody need
 be frightened. We’re all comfortable; ain’t we, Mrs Higden?’
 
 ‘Sure and certain we are,’ returned Betty.
 
 ‘And there really is no hurry, you know,’ said Mrs Boffin in a lower
-voice. ‘Take time to think of it, my good creature!’
+voice. ‘Take [[Time|time]] to think of it, my good creature!’
 
-‘Don’t you fear ME no more, ma’am,’ said Betty; ‘I thought of it for
+‘Don’t you [[Fear|fear]] ME no more, ma’am,’ said Betty; ‘I thought of it for
 good yesterday. I don’t know what come over me just now, but it’ll never
 come again.’
 
-‘Well, then, Johnny shall have more time to think of it,’ returned Mrs
-Boffin; ‘the pretty child shall have time to get used to it. And you’ll
-get him more used to it, if you think well of it; won’t you?’
+‘[[Well]], then, Johnny shall have more [[Time|time]] to think of it,’ returned Mrs
+Boffin; ‘the pretty [[Child|child]] shall have [[Time|time]] to get used to it. And you’ll
+get him more used to it, if you think [[Well|well]] of it; won’t you?’
 
 Betty undertook that, cheerfully and readily.
 
@@ -109,7 +109,7 @@ know how used to it you begin to get, and how it all goes on?’
 ‘I’ll send Sloppy,’ said Mrs Higden.
 
 ‘And this gentleman who has come with me will pay him for his trouble,’
-said Mrs Boffin. ‘And Mr Sloppy, whenever you come to my house, be
+said Mrs Boffin. ‘And Mr Sloppy, whenever you come to my [[house]], be
 sure you never go away without having had a good dinner of meat, beer,
 vegetables, and pudding.’
 
@@ -124,7 +124,7 @@ with great valour on both sides, those desperate pirates returned
 hand-in-hand to their stools, across the dry bed of a mountain torrent.
 
 ‘You must tell me what I can do for you, Betty my friend,’ said Mrs
-Boffin confidentially, ‘if not to-day, next time.’
+Boffin confidentially, ‘if not to-day, next [[Time|time]].’
 
 ‘Thank you all the same, ma’am, but I want nothing for myself. I can
 work. I’m strong. I can walk twenty mile if I’m put to it.’ Old Betty
@@ -137,4 +137,4 @@ you.’
 ‘It seems to me,’ said Betty, smiling, ‘that you were born a lady, and
 a true one, or there never was a lady born. But I couldn’t take anything
 from you, my dear. I never did take anything from any one. It ain’t that
-I’m not grateful, but I love to earn it better.’
+I’m not grateful, but I [[Love|love]] to earn it better.’

@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 6)"
+title: "The [[Pickwick]] Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -19,15 +19,15 @@ soft sex--a wery soft sex, indeed--if they let themselves be gammoned by
 such fellers as him.’
 
 Any further observations from the indignant old gentleman were cut short
-by the announcement of the song, which Mr. Anthony Humm gave out two
-lines at a time, for the information of such of his hearers as were
+by the announcement of the [[Song|song]], which Mr. Anthony Humm gave out two
+lines at a [[Time|time]], for the information of such of his hearers as were
 unacquainted with the legend. While it was being sung, the little man
 with the drab shorts disappeared; he returned immediately on its
 conclusion, and whispered Mr. Anthony Humm, with a face of the deepest
 importance.
 
 ‘My friends,’ said Mr. Humm, holding up his hand in a deprecatory
-manner, to bespeak the silence of such of the stout old ladies as were
+manner, to bespeak the [[Silence|silence]] of such of the stout old ladies as were
 yet a line or two behind; ‘my friends, a delegate from the Dorking
 Branch of our society, Brother Stiggins, attends below.’
 
@@ -39,7 +39,7 @@ Brick Lane.
 smile. ‘Brother Tadger, let him come forth and greet us.’
 
 The little man in the drab shorts who answered to the name of Brother
-Tadger, bustled down the ladder with great speed, and was immediately
+Tadger, bustled down the ladder with great [[Speed|speed]], and was immediately
 afterwards heard tumbling up with the Reverend Mr. Stiggins.
 
 ‘He’s a-comin’, Sammy,’ whispered Mr. Weller, purple in the countenance
@@ -49,13 +49,13 @@ with suppressed laughter.
 to the door. I hear him a-knockin’ his head again the lath and plaster
 now.’
 
-As Sam Weller spoke, the little door flew open, and Brother Tadger
+As [[Sam Weller]] spoke, the little door flew open, and Brother Tadger
 appeared, closely followed by the Reverend Mr. Stiggins, who no sooner
 entered, than there was a great clapping of hands, and stamping of feet,
 and flourishing of handkerchiefs; to all of which manifestations of
 delight, Brother Stiggins returned no other acknowledgment than staring
 with a wild eye, and a fixed smile, at the extreme top of the wick of
-the candle on the table, swaying his body to and fro, meanwhile, in a
+the candle on the table, swaying his [[Body|body]] to and fro, meanwhile, in a
 very unsteady and uncertain manner.
 
 ‘Are you unwell, Brother Stiggins?’ whispered Mr. Anthony Humm.
@@ -64,7 +64,7 @@ very unsteady and uncertain manner.
 was blended with an extreme thickness of utterance; ‘I am all right,
 Sir.’
 
-‘Oh, very well,’ rejoined Mr. Anthony Humm, retreating a few paces.
+‘Oh, very [[Well|well]],’ rejoined Mr. Anthony Humm, retreating a few paces.
 
 ‘I believe no man here has ventured to say that I am not all right,
 Sir?’ said Mr. Stiggins.
@@ -74,7 +74,7 @@ Sir?’ said Mr. Stiggins.
 ‘I should advise him not to, Sir; I should advise him not,’ said Mr.
 Stiggins.
 
-By this time the audience were perfectly silent, and waited with some
+By this [[Time|time]] the audience were perfectly silent, and waited with some
 anxiety for the resumption of business.
 
 ‘Will you address the meeting, brother?’ said Mr. Humm, with a smile of
@@ -90,10 +90,10 @@ speaking very loudly--‘it’s my opinion, sir, that this meeting is drunk,
 sir. Brother Tadger, sir!’ said Mr. Stiggins, suddenly increasing in
 ferocity, and turning sharp round on the little man in the drab shorts,
 ‘_you _are drunk, sir!’ With this, Mr. Stiggins, entertaining a
-praiseworthy desire to promote the sobriety of the meeting, and to
+praiseworthy [[Desire|desire]] to promote the sobriety of the meeting, and to
 exclude therefrom all improper characters, hit Brother Tadger on the
 summit of the nose with such unerring aim, that the drab shorts
-disappeared like a flash of lightning. Brother Tadger had been knocked,
+disappeared like a flash of [[Lightning|lightning]]. Brother Tadger had been knocked,
 head first, down the ladder.
 
 Upon this, the women set up a loud and dismal screaming; and rushing in
@@ -121,7 +121,7 @@ manual dexterity.
 ‘Come on!’ cried Mr. Weller; and without further invitation he gave the
 Reverend Mr. Stiggins a preliminary tap on the head, and began dancing
 round him in a buoyant and cork-like manner, which in a gentleman at his
-time of life was a perfect marvel to behold.
+[[Time|time]] of life was a perfect marvel to behold.
 
 Finding all remonstrances unavailing, Sam pulled his hat firmly on,
 threw his father’s coat over his arm, and taking the old man round the
@@ -129,6 +129,6 @@ waist, forcibly dragged him down the ladder, and into the street; never
 releasing his hold, or permitting him to stop, until they reached the
 corner. As they gained it, they could hear the shouts of the populace,
 who were witnessing the removal of the Reverend Mr. Stiggins to strong
-lodgings for the night, and could hear the noise occasioned by the
+lodgings for the [[Night|night]], and could hear the noise occasioned by the
 dispersion in various directions of the members of the Brick Lane Branch
 of the United Grand Junction Ebenezer Temperance Association.

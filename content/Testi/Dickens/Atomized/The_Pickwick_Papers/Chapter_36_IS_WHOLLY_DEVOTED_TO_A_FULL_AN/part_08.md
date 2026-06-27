@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 8)"
+title: "The [[Pickwick]] Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -22,7 +22,7 @@ remarkably cheerful and lively aspect.
 
 ‘What’s your name, sir?’ inquired the judge.
 
-‘Sam Weller, my Lord,’ replied that gentleman.
+‘[[Sam Weller]], my Lord,’ replied that gentleman.
 
 ‘Do you spell it with a “V” or a “W”?’ inquired the judge.
 
@@ -33,7 +33,7 @@ life, but I spells it with a “V.”’
 Here a voice in the gallery exclaimed aloud, ‘Quite right too, Samivel,
 quite right. Put it down a “we,” my Lord, put it down a “we.”’
 
-Who is that, who dares address the court?’ said the little judge,
+Who is that, who dares address the [[Court|court]]?’ said the little judge,
 looking up. ‘Usher.’
 
 ‘Yes, my Lord.’
@@ -54,7 +54,7 @@ as his indignation would allow him to speak, and said--
 ‘Do you see him here now?’ said the judge.
 
 ‘No, I don’t, my Lord,’ replied Sam, staring right up into the lantern
-at the roof of the court.
+at the roof of the [[Court|court]].
 
 ‘If you could have pointed him out, I would have committed him
 instantly,’ said the judge. Sam bowed his acknowledgments and turned,
@@ -64,7 +64,7 @@ with unimpaired cheerfulness of countenance, towards Serjeant Buzfuz.
 
 ‘Now, sir,’ replied Sam.
 
-‘I believe you are in the service of Mr. Pickwick, the defendant in this
+‘I believe you are in the service of Mr. [[Pickwick]], the defendant in this
 case? Speak up, if you please, Mr. Weller.’
 
 ‘I mean to speak up, Sir,’ replied Sam; ‘I am in the service o’ that
@@ -97,7 +97,7 @@ Hereupon there was a general laugh; and the little judge, looking with
 an angry countenance over his desk, said, ‘You had better be careful,
 Sir.’
 
-‘So Mr. Pickwick said at the time, my Lord,’ replied Sam; ‘and I was
+‘So Mr. [[Pickwick]] said at the [[Time|time]], my Lord,’ replied Sam; ‘and I was
 wery careful o’ that ‘ere suit o’ clothes; wery careful indeed, my
 Lord.’
 
@@ -121,7 +121,7 @@ show of taking down his answer. ‘You were in the passage, and yet saw
 nothing of what was going forward. Have you a pair of eyes, Mr. Weller?’
 
 ‘Yes, I have a pair of eyes,’ replied Sam, ‘and that’s just it. If they
-wos a pair o’ patent double million magnifyin’ gas microscopes of hextra
+wos a pair o’ patent [[Double|double]] million magnifyin’ gas microscopes of hextra
 power, p’raps I might be able to see through a flight o’ stairs and a
 deal door; but bein’ only eyes, you see, my wision ‘s limited.’
 
@@ -133,12 +133,12 @@ Dodson & Fogg, the learned Serjeant again turned towards Sam, and said,
 with a painful effort to conceal his vexation, ‘Now, Mr. Weller, I’ll
 ask you a question on another point, if you please.’
 
-‘If you please, Sir,’ rejoined Sam, with the utmost good-humour.
+‘If you please, Sir,’ rejoined Sam, with the utmost good-[[Humour|humour]].
 
-‘Do you remember going up to Mrs. Bardell’s house, one night in November
+‘Do you remember going up to Mrs. Bardell’s [[house]], one [[Night|night]] in November
 last?’
 
-Oh, yes, wery well.’
+Oh, yes, wery [[Well|well]].’
 
 ‘Oh, you do remember that, Mr. Weller,’ said Serjeant Buzfuz, recovering
 his spirits; ‘I thought we should get at something at last.’
@@ -146,7 +146,7 @@ his spirits; ‘I thought we should get at something at last.’
 ‘I rayther thought that, too, sir,’ replied Sam; and at this the
 spectators tittered again.
 
-‘Well; I suppose you went up to have a little talk about this trial--eh,
+‘[[Well]]; I suppose you went up to have a little talk about this trial--eh,
 Mr. Weller?’ said Serjeant Buzfuz, looking knowingly at the jury.
 
 ‘I went up to pay the rent; but we did get a-talkin’ about the trial,’
@@ -164,6 +164,6 @@ admiration at the honourable conduct of Mr. Dodson and Fogg--them two
 gen’l’men as is settin’ near you now.’ This, of course, drew general
 attention to Dodson & Fogg, who looked as virtuous as possible.
 
-‘The attorneys for the plaintiff,’ said Mr. Serjeant Buzfuz. ‘Well! They
+‘The attorneys for the plaintiff,’ said Mr. Serjeant Buzfuz. ‘[[Well]]! They
 spoke in high praise of the honourable conduct of Messrs. Dodson and
 Fogg, the attorneys for the plaintiff, did they?’

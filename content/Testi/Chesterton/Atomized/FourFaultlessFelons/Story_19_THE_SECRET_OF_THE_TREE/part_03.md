@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE SECRET OF THE TREE (part 3)"
+title: "[[FourFaultlessFelons]] — THE SECRET OF THE TREE (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -22,7 +22,7 @@ development of power in the left hand."
 
 Inspector Brandon was staring like one stunned at the brisk and smiling
 
-doctor, who rose to his feet as if the interview were over. But even as
+doctor, who [[Rose|rose]] to his feet as if the interview were over. But even as
 
 he stepped towards the door, he found his exit blocked by the presence of
 
@@ -36,7 +36,7 @@ the name of Mr. Wilmot.
 
 "Back again," said Wilmot, or Harrington, his smile widening to a grin,
 
-"and apparently just in time."
+"and apparently just in [[Time|time]]."
 
 
 
@@ -48,7 +48,7 @@ anything the matter?"
 
 
 
-"No," said the great detective; "nothing is the matter. Except that we
+"No," said the great [[Detective|detective]]; "nothing is the matter. Except that we
 
 are after the wrong man."
 
@@ -102,7 +102,7 @@ convincing theory."
 
 
 
-"But," went on the detective thoughtfully, "as a man of science, you were
+"But," went on the [[Detective|detective]] thoughtfully, "as a man of science, you were
 
 nevertheless ready to entertain the possibility, even if it were the
 
@@ -118,11 +118,11 @@ untrue."
 
 
 
-"Well, I take full responsibility for the unexpected collapse of my
+"[[Well]], I take full responsibility for the unexpected collapse of my
 
-theory," said the great detective, with his agreeable smile. "You must
+theory," said the great [[Detective|detective]], with his agreeable smile. "You must
 
-not blame the Inspector; the whole of that story of the artist criminal
+not blame the Inspector; the whole of that story of the [[artist]] criminal
 
 and his original scheme of concealment was my idea, and an infernally
 
@@ -144,7 +144,7 @@ the real murderer."
 
 
 
-Amid the startled silence that followed he added, as in a pleasant
+Amid the startled [[Silence|silence]] that followed he added, as in a pleasant
 
 abstraction: "That grand and bold artistic crime we dreamed of was, like
 
@@ -164,7 +164,7 @@ other student."
 
 movements of the other student, and of everybody who could be involved.
 
-He took the train to London that evening and, a month after, went to New
+He took the train to [[London]] that evening and, a month after, went to New
 
 York on business and thence to the Argentine, where he set up a
 
@@ -178,13 +178,13 @@ real criminal does. He bolted."
 
 
 
-Dr. Judson seemed to find his voice for the first time since the last
+Dr. Judson seemed to find his voice for the first [[Time|time]] since the last
 
 turn of events, and it was like the voice of a new man.
 
 
 
-"Are you quite certain," he said at last, "that Windrush is innocent
+"Are you quite certain," he said at last, "that Windrush is [[Innocent|innocent]]
 
 after all?"
 
@@ -204,7 +204,7 @@ man of special knowledge. The man called Duveen, whom we know to have
 
 been present, and to have had a stronger motive than Windrush (for he was
 
-ruined and in fear of exposure), was and is a man with exactly that
+ruined and in [[Fear|fear]] of exposure), was and is a man with exactly that
 
 special knowledge. He is a surgeon and a skilful man. He is also a
 
@@ -232,7 +232,7 @@ Harrington calmly; "I do say I am certain now."
 
 "Dr. Judson says," said that physician himself, springing up like a
 
-spring released; "Dr. Judson says that everything that Dr. Judson has
+[[spring]] released; "Dr. Judson says that everything that Dr. Judson has
 
 said for the last forty-eight hours is a pack of lies! Dr. Judson says
 
@@ -280,7 +280,7 @@ doddering old fraud! He wrote one book that was boomed when I was a baby,
 
 and he's never opened a book since. I saw all the new books on his table
 
-with none of the leaves cut. And the way he talked about prehistoric man
+with none of the [[Leaves|leaves]] cut. And the way he talked about prehistoric man
 
 was more prehistoric than fossils. As if any serious scientific man now
 
@@ -302,7 +302,7 @@ he'll have to sign the countermanding of it."
 
 
 
-"Oh, very well," cried the impetuous Judson, who had already scribbled
+"Oh, very [[Well|well]]," cried the impetuous Judson, who had already scribbled
 
 something on a page and was already rushing from the room, "I'll cut
 
@@ -316,9 +316,9 @@ round and get him to sign it, too."
 
 In the track of the headlong Judson, they trailed round with tolerable
 
-rapidity to that stately and pillared house in the West End, the house
+rapidity to that stately and pillared [[house]] in the West End, the [[house]]
 
-with the sombre blinds, which the doctor had once visited alone. The
+with the sombre blinds, which the doctor had once visited [[Alone|alone]]. The
 
 scene between him and the stately Dr. Doone was rather curious. Now that
 

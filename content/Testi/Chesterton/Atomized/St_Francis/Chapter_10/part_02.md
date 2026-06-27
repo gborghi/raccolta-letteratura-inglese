@@ -17,11 +17,11 @@ tags:
 It is perhaps the chief suggestion of this book that St. Francis
 walked the world like the Pardon of God.  I mean that his appearance
 marked the moment when men could be reconciled not only to God
-but to nature and, most difficult of all, to themselves.
+but to [[Nature|nature]] and, most difficult of all, to themselves.
 For it marked the moment when all the stale paganism that had poisoned
 the ancient world was at last worked out of the social system.
-He opened the gates of the Dark Ages as of a prison of purgatory,
-where men had cleansed themselves as hermits in the desert or heroes
+He opened the gates of the Dark Ages as of a [[Prison|prison]] of purgatory,
+where men had cleansed themselves as hermits in the [[Desert|desert]] or heroes
 in the barbarian wars.  It was in fact his whole function to tell
 men to start afresh and, in that sense, to tell them to forget.
 If they were to turn over a new leaf and begin a fresh page with
@@ -34,43 +34,43 @@ of this first Italian poet of all that pagan mythology which lingered
 long after paganism.  The first Italian poet seems the only man
 in the world who has never even heard of Virgil.  This was exactly
 right for the special sense in which he is the first Italian poet.
-It is quite right that he should call a nightingale a nightingale,
-and not have its song spoilt or saddened by the terrible tales
+It is quite right that he should call a [[Nightingale|nightingale]] a [[Nightingale|nightingale]],
+and not have its [[Song|song]] spoilt or saddened by the terrible tales
 of Itylus or Procne.  In short, it is really quite right and quite
 desirable that St. Francis should never have heard of Virgil.
-But do we really desire that Dante should never have heard
-of Virgil?  Do we really desire that Dante should never have read
-any pagan mythology?  It has been truly said that the use that Dante
+But do we really [[Desire|desire]] that [[Dante]] should never have heard
+of Virgil?  Do we really [[Desire|desire]] that [[Dante]] should never have read
+any pagan mythology?  It has been truly said that the use that [[Dante]]
 makes of such fables is altogether part of a deeper orthodoxy;
 that his huge heathen fragments, his gigantic figures of Minos
 or of Charon, only give a hint of some enormous natural religion
-behind all history and from the first foreshadowing the Faith.
-It is well to have the Sybil as well as David in the Dies Irae.
-That St. Francis would have burned all the leaves of all the books
+behind all [[history]] and from the first foreshadowing the [[Faith]].
+It is [[Well|well]] to have the Sybil as [[Well|well]] as David in the Dies Irae.
+That St. Francis would have burned all the [[Leaves|leaves]] of all the books
 of the Sybil, in exchange for one fresh leaf from the nearest tree,
 is perfectly true; and perfectly proper to St. Francis.
-But it is good to have the Dies Irae as well as the Canticle
+But it is good to have the Dies Irae as [[Well|well]] as the Canticle
 of the Sun.
 
 By this thesis, in short, the coming of St. Francis was like the birth
-of a child in a dark house, lifting its doom; a child that grows up
-unconscious of the tragedy and triumphs over it by his innocence.
-In him it is necessarily not only innocence but ignorance.
+of a [[Child|child]] in a dark [[house]], lifting its doom; a [[Child|child]] that grows up
+unconscious of the [[Tragedy|tragedy]] and triumphs over it by his [[innocence]].
+In him it is necessarily not only [[innocence]] but ignorance.
 It is the essence of the story that he should pluck at the green
 grass without knowing it grows over a murdered man or climb
-the apple-tree without knowing it was the gibbet of a suicide.
-It was such an amnesty and reconciliation that the freshness
+the apple-tree without knowing it was the gibbet of a [[suicide]].
+It was such an amnesty and [[Reconciliation|reconciliation]] that the freshness
 of the Franciscan spirit brought to all the world.  But it does
 not follow that it ought to impose its ignorance on all the world.
 And I think it would have tried to impose it on all the world.
 For some Franciscans it would have seemed right that Franciscan
-poetry should expel Benedictine prose.  For the symbolic child it
-was quite rational.  It was right enough that for such a child
+poetry should expel Benedictine prose.  For the symbolic [[Child|child]] it
+was quite rational.  It was right enough that for such a [[Child|child]]
 the world should be a large new nursery with blank white-washed walls,
-on which he could draw his own pictures in chalk in the childish fashion,
+on which he could draw his own pictures in [[chalk]] in the childish fashion,
 crude in outline and gay in colour; the beginnings of all our art.
 It was right enough that to him such a nursery should seem
-the most magnificent mansion of the imagination of man.
+the most magnificent mansion of the [[Imagination|imagination]] of man.
 But in the Church of God are many mansions.
 
 Every heresy has been an effort to narrow the Church.
@@ -87,7 +87,7 @@ and broke away from the compromises of Rome in favour of what
 they would have called the complete programme of Assisi.
 In a very little while these loose Franciscans began to look
 as ferocious as Flagellants.  They launched new and violent vetoes;
-they denounced marriage; that is, they denounced mankind.
+they denounced [[Marriage|marriage]]; that is, they denounced mankind.
 In the name of the most human of saints they declared war upon humanity.
 They did not perish particularly through being persecuted;
 many of them were eventually persuaded; and the unpersuadable
@@ -101,36 +101,36 @@ And St. Francis, however wild and romantic his gyrations
 might appear to many, always hung on to reason by one invisible
 and indestructible hair.
 
-The great saint was sane; and with the very sound of the word sanity,
+The great saint was sane; and with the very sound of the word [[Sanity|sanity]],
 as at a deeper chord struck upon a harp, we come back to something
 that was indeed deeper than everything about him that seemed
 an almost elvish eccentricity.  He was not a mere eccentric because
 he was always turning towards the centre and heart of the maze;
 he took the queerest and most zigzag short cuts through the wood,
-but he was always going home.  He was not only far too humble
-to be an heresiarch, but he was far too human to desire to be
-an extremist, in the sense of an exile at the ends of the earth.
-The sense of humour which salts all the stories of his escapades
-alone prevented him from ever hardening into the solemnity
-of sectarian self-righteousness. He was by nature ready to admit
+but he was always going [[Home|home]].  He was not only far too humble
+to be an heresiarch, but he was far too human to [[Desire|desire]] to be
+an extremist, in the sense of an [[Exile|exile]] at the ends of the earth.
+The sense of [[Humour|humour]] which salts all the stories of his escapades
+[[Alone|alone]] prevented him from ever hardening into the solemnity
+of sectarian [[Self|self]]-righteousness. He was by [[Nature|nature]] ready to admit
 that he was wrong; and if his followers had on some practical
 points to admit that he was wrong, they only admitted that he was
 wrong in order to prove that he was right.  For it is they,
 his real followers, who have really proved that he was right
 and even in transcending some of his negations have triumphantly
-extended and interpreted his truth.  The Franciscan order did
+extended and interpreted his [[Truth|truth]].  The Franciscan order did
 not fossilise or break off short like something of which the true
 purpose has been frustrated by official tyranny or internal treason.
 It was this, the central and orthodox trunk of it, that afterwards
 bore fruit for the world.  It counted among its sons Bonaventura,
 the great mystic, and Bernardino, the popular preacher, who filled
-Italy with the very beatific buffooneries of a Jongleur de Dieu.
+[[Italy]] with the very beatific buffooneries of a Jongleur de Dieu.
 It counted Raymond Lully with his strange learning and his large
-and daring plans for the conversion of the world; a man intensely
+and daring plans for the [[conversion]] of the world; a man intensely
 individual exactly as St. Francis was intensely individual.
 It counted Roger Bacon, the first naturalist whose experiments
-with light and water had all the luminous quaintness that belongs
-to the beginnings of natural history; and whom even the most
+with light and [[Water|water]] had all the luminous quaintness that belongs
+to the beginnings of natural [[history]]; and whom even the most
 material scientists have hailed as a father of science.
 It is not merely true that these were great men who did great work
 for the world; it is also true that they were a certain kind of men

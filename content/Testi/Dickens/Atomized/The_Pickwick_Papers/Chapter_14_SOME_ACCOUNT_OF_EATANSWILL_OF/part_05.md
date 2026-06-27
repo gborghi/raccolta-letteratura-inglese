@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 5)"
+title: "The [[Pickwick]] Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘And got out again?’ inquired Mr. Pickwick hastily.
+‘And got out again?’ inquired Mr. [[Pickwick]] hastily.
 
 ‘Why,’ replied Sam very slowly, ‘I rather think one old gen’l’m’n was
 missin’; I know his hat was found, but I ain’t quite certain whether his
@@ -22,17 +22,17 @@ head was in it or not. But what I look at is the hex-traordinary and
 wonderful coincidence, that arter what that gen’l’m’n said, my father’s
 coach should be upset in that wery place, and on that wery day!’
 
-‘It is, no doubt, a very extraordinary circumstance indeed,’ said Mr.
-Pickwick. ‘But brush my hat, Sam, for I hear Mr. Winkle calling me to
+‘It is, no [[Doubt|doubt]], a very extraordinary circumstance indeed,’ said Mr.
+[[Pickwick]]. ‘But brush my hat, Sam, for I hear Mr. Winkle calling me to
 breakfast.’
 
-With these words Mr. Pickwick descended to the parlour, where he found
+With these words Mr. [[Pickwick]] descended to the parlour, where he found
 breakfast laid, and the family already assembled. The meal was hastily
 despatched; each of the gentlemen’s hats was decorated with an enormous
 blue favour, made up by the fair hands of Mrs. Pott herself; and as Mr.
-Winkle had undertaken to escort that lady to a house-top, in the
-immediate vicinity of the hustings, Mr. Pickwick and Mr. Pott repaired
-alone to the Town Arms, from the back window of which, one of Mr.
+Winkle had undertaken to escort that lady to a [[house]]-top, in the
+immediate vicinity of the hustings, Mr. [[Pickwick]] and Mr. Pott repaired
+[[Alone|alone]] to the Town Arms, from the back [[Window|window]] of which, one of Mr.
 Slumkey’s committee was addressing six small boys and one girl, whom he
 dignified, at every second sentence, with the imposing title of ‘Men of
 Eatanswill,’ whereat the six small boys aforesaid cheered prodigiously.
@@ -52,9 +52,9 @@ and the flags were rustling, and the band was playing, and the
 constables were swearing, and the twenty committee-men were squabbling,
 and the mob were shouting, and the horses were backing, and the post-
 boys perspiring; and everybody, and everything, then and there
-assembled, was for the special use, behoof, honour, and renown, of the
+assembled, was for the special use, behoof, [[Honour|honour]], and renown, of the
 Honourable Samuel Slumkey, of Slumkey Hall, one of the candidates for
-the representation of the borough of Eatanswill, in the Commons House of
+the representation of the borough of Eatanswill, in the Commons [[house|House]] of
 Parliament of the United Kingdom.
 
 Loud and long were the cheers, and mighty was the rustling of one of the
@@ -70,7 +70,7 @@ _Gazette_.
 
 ‘Everything, my dear Sir,’ was the little man’s reply.
 
-‘Nothing has been omitted, I hope?’ said the Honourable Samuel Slumkey.
+‘Nothing has been omitted, I [[Hope|hope]]?’ said the Honourable Samuel Slumkey.
 
 ‘Nothing has been left undone, my dear sir--nothing whatever. There are
 twenty washed men at the street door for you to shake hands with; and
@@ -91,16 +91,16 @@ that?’ said the Honourable Samuel Slumkey.
 ‘Why, I am afraid it wouldn’t,’ replied the agent; ‘if it were done by
 yourself, my dear Sir, I think it would make you very popular.’
 
-‘Very well,’ said the Honourable Samuel Slumkey, with a resigned air,
+‘Very [[Well|well]],’ said the Honourable Samuel Slumkey, with a resigned air,
 ‘then it must be done. That’s all.’
 
 ‘Arrange the procession,’ cried the twenty committee-men.
 
 Amidst the cheers of the assembled throng, the band, and the constables,
 and the committee-men, and the voters, and the horsemen, and the
-carriages, took their places--each of the two-horse vehicles being
+carriages, took their places--each of the two-[[Horse|horse]] vehicles being
 closely packed with as many gentlemen as could manage to stand upright
-in it; and that assigned to Mr. Perker, containing Mr. Pickwick, Mr.
+in it; and that assigned to Mr. Perker, containing Mr. [[Pickwick]], Mr.
 Tupman, Mr. Snodgrass, and about half a dozen of the committee besides.
 
 There was a moment of awful suspense as the procession waited for the
@@ -135,11 +135,11 @@ on.
 
 How or by what means it became mixed up with the other procession, and
 how it was ever extricated from the confusion consequent thereupon, is
-more than we can undertake to describe, inasmuch as Mr. Pickwick’s hat
-was knocked over his eyes, nose, and mouth, by one poke of a Buff flag-
+more than we can undertake to describe, inasmuch as Mr. [[Pickwick]]’s hat
+was knocked over his eyes, nose, and mouth, by one poke of a Buff [[Flag|flag]]-
 staff, very early in the proceedings. He describes himself as being
 surrounded on every side, when he could catch a glimpse of the scene, by
-angry and ferocious countenances, by a vast cloud of dust, and by a
+angry and ferocious countenances, by a vast cloud of [[Dust|dust]], and by a
 dense crowd of combatants. He represents himself as being forced from
 the carriage by some unseen power, and being personally engaged in a
 pugilistic encounter; but with whom, or how, or why, he is wholly unable
@@ -148,9 +148,9 @@ persons from behind; and on removing his hat, found himself surrounded
 by his friends, in the very front of the left hand side of the hustings.
 The right was reserved for the Buff party, and the centre for the mayor
 and his officers; one of whom--the fat crier of Eatanswill--was ringing
-an enormous bell, by way of commanding silence, while Mr. Horatio
+an enormous bell, by way of commanding [[Silence|silence]], while Mr. [[Horatio]]
 Fizkin, and the Honourable Samuel Slumkey, with their hands upon their
 hearts, were bowing with the utmost affability to the troubled sea of
 heads that inundated the open space in front; and from whence arose a
-storm of groans, and shouts, and yells, and hootings, that would have
-done honour to an earthquake.
+[[Storm|storm]] of groans, and shouts, and yells, and hootings, that would have
+done [[Honour|honour]] to an earthquake.

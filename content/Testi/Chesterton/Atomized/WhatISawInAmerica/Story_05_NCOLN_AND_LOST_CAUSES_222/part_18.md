@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 18)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 18)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -30,7 +30,7 @@ precise; and students of my literary and conversational style will be
 
 interested to know that I said, 'See here, Walt Whitman was your one
 
-real red-blooded man.' Here again I hardly think the translation can
+real red-blooded man.' Here again I hardly think the [[Translation|translation]] can
 
 have been quite unconscious; most of my intimates are indeed aware that
 
@@ -38,9 +38,9 @@ I do not talk like that, but I fancy that the same fact would have
 
 dawned on the journalist to whom I had been talking. And even this
 
-trivial point carries with it the two truths which must be, I fear, the
+trivial point carries with it the two truths which must be, I [[Fear|fear]], the
 
-rather monotonous moral of these pages. The first is that America and
+rather monotonous moral of these pages. The first is that [[America]] and
 
 England can be far better friends when sharply divided than when
 
@@ -62,7 +62,7 @@ plutocratic foundation of Prohibition. But the American knew at once
 
 that I meant it was a matter of dollar sign; probably because he knew
 
-very well that it is.
+very [[Well|well]] that it is.
 
 
 
@@ -74,7 +74,7 @@ and insolent than the conversations. This is probably a part of the fact
 
 that a certain vivacity, which to some seems vitality and to some
 
-vulgarity, is not only an ambition but an ideal. It must always be
+vulgarity, is not only an [[Ambition|ambition]] but an ideal. It must always be
 
 grasped that this vulgarity is an ideal even more than it is a reality.
 
@@ -100,11 +100,11 @@ of how atrociously I had been insulted till I saw it in the paper next
 
 morning. I had no notion I had been on the rack of an inquisitor until I
 
-saw it in plain print; and then of course I believed it, with a faith
+saw it in plain print; and then of course I believed it, with a [[Faith|faith]]
 
-and docility unknown in any previous epoch of history. An interesting
+and docility unknown in any previous epoch of [[history]]. An interesting
 
-essay might be written upon points upon which nations affect more vices
+[[Essay|essay]] might be written upon points upon which nations affect more vices
 
 than they possess; and it might deal more fully with the American
 
@@ -172,7 +172,7 @@ _Some American Cities_
 
 
 
-There is one point, almost to be called a paradox, to be noted about New
+There is one point, almost to be called a [[Paradox|paradox]], to be noted about New
 
 York; and that is that in one sense it is really new. The term very
 
@@ -186,17 +186,17 @@ properly be called the old thoughtlessness; and the thing we call the
 
 New Poor Law is already old enough to know better. But there is a sense
 
-in which New York is always new; in the sense that it is always being
+in which [[New York]] is always new; in the sense that it is always being
 
-renewed. A stranger might well say that the chief industry of the
+renewed. A stranger might [[Well|well]] say that the chief industry of the
 
-citizens consists of destroying their city; but he soon realises that
+citizens consists of destroying their [[City|city]]; but he soon realises that
 
-they always start it all over again with undiminished energy and hope.
+they always start it all over again with undiminished energy and [[Hope|hope]].
 
 At first I had a fancy that they never quite finished putting up a big
 
-building without feeling that it was time to pull it down again; and
+building without feeling that it was [[Time|time]] to pull it down again; and
 
 that somebody began to dig up the first foundations while somebody else
 
@@ -204,4 +204,4 @@ was putting on the last tiles. This fills the whole of this brilliant
 
 and bewildering place with a quite unique and unparalleled air of rapid
 
-ruin. Ruins spring up so suddenly like mushrooms, which with us are the
+ruin. Ruins [[Spring|spring]] up so suddenly like mushrooms, which with us are the

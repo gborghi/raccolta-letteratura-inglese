@@ -1,5 +1,5 @@
 ---
-title: "ortho14 — The Eternal Revolution (part 2)"
+title: "[[ortho14]] — The Eternal Revolution (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ortho14-(Chesterton)"
@@ -15,12 +15,12 @@ tags:
 
 
      Then again, some people fall back on sheer submission
-and sitting still.  Nature is going to do something some day;
+and sitting still.  [[Nature]] is going to do something some day;
 nobody knows what, and nobody knows when.  We have no reason for acting,
 and no reason for not acting.  If anything happens it is right: 
 if anything is prevented it was wrong.  Again, some people try to
-anticipate nature by doing something, by doing anything.  Because we
-may possibly grow wings they cut off their legs.  Yet nature may be
+anticipate [[Nature|nature]] by doing something, by doing anything.  Because we
+may possibly grow wings they cut off their legs.  Yet [[Nature|nature]] may be
 trying to make them centipedes for all they know.
 
      Lastly, there is a fourth class of people who take whatever it is
@@ -42,13 +42,13 @@ We have said we must be fond of this world, even in order to change it.
 We now add that we must be fond of another world (real or imaginary)
 in order to have something to change it to.
 
-     We need not debate about the mere words evolution or progress: 
-personally I prefer to call it reform.  For reform implies form. 
+     We need not [[debate]] about the mere words evolution or progress: 
+personally I prefer to call it [[Reform|reform]].  For [[Reform|reform]] implies form. 
 It implies that we are trying to shape the world in a particular image;
 to make it something that we see already in our minds.  Evolution is
 a metaphor from mere automatic unrolling.  Progress is a metaphor
-from merely walking along a road--very likely the wrong road. 
-But reform is a metaphor for reasonable and determined men:  it means
+from merely walking along a [[Road|road]]--very likely the wrong [[Road|road]]. 
+But [[Reform|reform]] is a metaphor for reasonable and determined men:  it means
 that we see a certain thing out of shape and we mean to put it into shape.
 And we know what shape.
 
@@ -57,9 +57,9 @@ We have mixed up two different things, two opposite things.
 Progress should mean that we are always changing the world
 to suit the vision.  Progress does mean (just now) that we are always
 changing the vision.  It should mean that we are slow but sure
-in bringing justice and mercy among men:  it does mean that we
-are very swift in doubting the desirability of justice and mercy: 
-a wild page from any Prussian sophist makes men doubt it. 
+in bringing justice and [[Mercy|mercy]] among men:  it does mean that we
+are very swift in doubting the desirability of justice and [[Mercy|mercy]]: 
+a wild page from any Prussian sophist makes men [[Doubt|doubt]] it. 
 Progress should mean that we are always walking towards the New Jerusalem. 
 It does mean that the New Jerusalem is always walking away from us. 
 We are not altering the real to suit the ideal.  We are altering the ideal: 
@@ -68,10 +68,10 @@ it is easier.
      Silly examples are always simpler; let us suppose a man wanted
 a particular kind of world; say, a blue world.  He would have
 no cause to complain of the slightness or swiftness of his task;
-he might toil for a long time at the transformation; he could work away
+he might toil for a long [[Time|time]] at the transformation; he could work away
 (in every sense) until all was blue.  He could have heroic adventures;
 the putting of the last touches to a blue tiger.  He could have
-fairy dreams; the dawn of a blue moon.  But if he worked hard,
+fairy [[Dreams|dreams]]; the [[Dawn|dawn]] of a blue [[Moon|moon]].  But if he worked hard,
 that high-minded reformer would certainly (from his own point of view)
 leave the world better and bluer than he found it.  If he altered
 a blade of grass to his favourite colour every day, he would get on slowly. 
@@ -81,20 +81,20 @@ red or yellow, his work would be thrown away: there would be nothing
 to show except a few blue tigers walking about, specimens of his early
 bad manner.  This is exactly the position of the average modern thinker. 
 It will be said that this is avowedly a preposterous example. 
-But it is literally the fact of recent history.  The great and grave changes
+But it is literally the fact of recent [[history]].  The great and [[Grave|grave]] changes
 in our political civilization all belonged to the early nineteenth century,
 not to the later.  They belonged to the black and white epoch
 when men believed fixedly in Toryism, in Protestantism, in Calvinism,
-in Reform, and not unfrequently in Revolution.  And whatever each man
+in [[Reform]], and not unfrequently in Revolution.  And whatever each man
 believed in he hammered at steadily, without scepticism: 
-and there was a time when the Established Church might have fallen,
-and the House of Lords nearly fell.  It was because Radicals were
+and there was a [[Time|time]] when the Established Church might have fallen,
+and the [[house|House]] of Lords nearly fell.  It was because Radicals were
 wise enough to be constant and consistent; it was because Radicals were
 wise enough to be Conservative.  But in the existing atmosphere
-there is not enough time and tradition in Radicalism to pull anything down. 
-There is a great deal of truth in Lord Hugh Cecil's suggestion
+there is not enough [[Time|time]] and tradition in Radicalism to pull anything down. 
+There is a great deal of [[Truth|truth]] in Lord Hugh Cecil's suggestion
 (made in a fine speech) that the era of change is over, and that ours
-is an era of conservation and repose.  But probably it would pain
+is an era of conservation and repose.  But probably it would [[Pain|pain]]
 Lord Hugh Cecil if he realized (what is certainly the case)
 that ours is only an age of conservation because it is an age
 of complete unbelief.  Let beliefs fade fast and frequently,
@@ -102,16 +102,16 @@ if you wish institutions to remain the same.  The more the life of the mind
 is unhinged, the more the machinery of matter will be left to itself. 
 The net result of all our political suggestions, Collectivism,
 Tolstoyanism, Neo-Feudalism, Communism, Anarchy, Scientific Bureaucracy--
-the plain fruit of all of them is that the Monarchy and the House of
+the plain fruit of all of them is that the Monarchy and the [[house|House]] of
 Lords will remain.  The net result of all the new religions will be
 that the Church of England will not (for heaven knows how long)
-be disestablished.  It was Karl Marx, Nietzsche, Tolstoy,
-Cunninghame Grahame, Bernard Shaw and Auberon Herbert,
+be disestablished.  It was Karl Marx, Nietzsche, [[tolstoy|Tolstoy]],
+Cunninghame Grahame, Bernard [[Shaw]] and Auberon Herbert,
 who between them, with bowed gigantic backs, bore up the throne of
 the Archbishop of Canterbury.
 
      We may say broadly that free thought is the best of all the
-safeguards against freedom.  Managed in a modern style the emancipation
+safeguards against [[Freedom|freedom]].  Managed in a modern style the emancipation
 of the slave's mind is the best way of preventing the emancipation of
 the slave.  Teach him to worry about whether he wants to be free,
 and he will not free himself. Again, it may be said that this instance
@@ -120,7 +120,7 @@ the streets around us.  It is true that the negro slave, being a
 debased barbarian, will probably have either a human affection of loyalty,
 or a human affection for liberty.  But the man we see every day--
 the worker in Mr. Gradgrind's factory, the little clerk in Mr. Gradgrind's
-office--he is too mentally worried to believe in freedom.  He is kept
+office--he is too mentally worried to believe in [[Freedom|freedom]].  He is kept
 quiet with revolutionary literature.  He is calmed and kept in his
 place by a constant succession of wild philosophies.  He is a Marxian
 one day, a Nietzscheite the next day, a Superman (probably) the next day;

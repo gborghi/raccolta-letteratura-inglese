@@ -1,5 +1,5 @@
 ---
-title: "Richard III — Act I, Scene 3 — exchange (RIVERS) [4]"
+title: "[[Richard III]] — Act I, Scene 3 — exchange (RIVERS) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/RICHARD-III-(Shakespeare)"
@@ -16,5 +16,5 @@ tags:
 | Chi parla | Battuta |
 |---|---|
 | RIVERS | (to Margaret) Tyrants themselves wept when it was reported. |
-| DORSET | (to Margaret) No man but prophesied revenge for it. |
-| BUCKINGHAM | (to Margaret) Northumberland, then present, wept to see it. |
+| DORSET | (to Margaret) No man but prophesied [[Revenge|revenge]] for it. |
+| [[Buckingham|BUCKINGHAM]] | (to Margaret) Northumberland, then present, wept to see it. |

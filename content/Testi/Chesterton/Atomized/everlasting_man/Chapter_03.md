@@ -16,37 +16,37 @@ tags:
 
 PART II
 
-ON THE MAN CALLED CHRIST
+ON THE MAN CALLED [[Christ|CHRIST]]
 
 * * *
 
 I
 
-THE GOD IN THE CAVE
+THE GOD IN THE [[Cave|CAVE]]
 
-This sketch of the human story began in a cave; the cave which
-popular science associates with the cave-man and in which practical
-discovery has really found archaic drawings of animals.  The second
-half of human history, which was like a new creation of the world,
-also begins in a cave.  There is even a shadow of such a fancy
-in the fact that animals were again present; for it was a cave used
+This [[Sketch|sketch]] of the human story began in a [[Cave|cave]]; the [[Cave|cave]] which
+popular science associates with the [[Cave|cave]]-man and in which practical
+discovery has really found archaic drawings of [[Animals|animals]].  The second
+half of human [[history]], which was like a new creation of the world,
+also begins in a [[Cave|cave]].  There is even a [[Shadow|shadow]] of such a fancy
+in the fact that [[Animals|animals]] were again present; for it was a [[Cave|cave]] used
 as a stable by the mountaineers of the uplands about Bethlehem;
-who still drive their cattle into such holes and caverns at night.
+who still drive their cattle into such holes and caverns at [[Night|night]].
 It was here that a homeless couple had crept underground with the cattle
 when the doors of the crowded caravanserai had been shut in their faces;
 and it was here beneath the very feet of the passers-by, in a cellar
-under the very floor of the world, that Jesus Christ was born.
+under the very floor of the world, that Jesus [[Christ]] was born.
 But in that second creation there was indeed something symbolical
 in the roots of the primeval rock or the horns of the prehistoric herd.
-God also was a Cave-Man, and had also traced strange shapes
+God also was a [[Cave]]-Man, and had also traced strange shapes
 of creatures, curiously coloured, upon the wall of the world;
 but the pictures that he made had come to life.
 
 A mass of legend and literature, which increases and will never end,
-has repeated and rung the changes on that single paradox;
-that the hands that had made the sun and stars were too small to reach
-the huge heads of the cattle.  Upon this paradox, we might almost
-say upon this jest, all the literature of our faith is founded.
+has repeated and rung the changes on that single [[Paradox|paradox]];
+that the hands that had made the sun and [[Stars|stars]] were too small to reach
+the huge heads of the cattle.  Upon this [[Paradox|paradox]], we might almost
+say upon this jest, all the literature of our [[Faith|faith]] is founded.
 It is at least like a jest in this, that it is something which the
 scientific critic cannot see.  He laboriously explains the difficulty
 which we have always defiantly and almost derisively exaggerated;
@@ -56,36 +56,36 @@ too good to be true, except that it is true.  When that contrast
 between the cosmic creation and the little local infancy has
 been repeated, reiterated, underlined, emphasised, exulted in,
 sung, shouted, roared, not to say howled, in a hundred thousand hymns,
-carols, rhymes, rituals, pictures, poems, and popular sermons,
+carols, rhymes, rituals, pictures, [[Poems|poems]], and popular sermons,
 it may be suggested that we hardly need a higher critic to draw our
 attention to something a little odd about it; especially one of the sort
-that seems to take a long time to see a joke, even his own joke.
+that seems to take a long [[Time|time]] to see a joke, even his own joke.
 But about this contrast and combination of ideas one thing may be
 said here, because it is relevant to the whole thesis of this book.
 The sort of modern critic of whom I speak is generally much impressed
-with the importance of education in life and the importance
-of psychology in education.  That sort of man is never tired
+with the importance of [[Education|education]] in life and the importance
+of psychology in [[Education|education]].  That sort of man is never tired
 of telling us that first impressions fix character by the law
-of causation; and he will become quite nervous if a child's
+of causation; and he will become quite nervous if a [[Child|child]]'s
 visual sense is poisoned by the wrong colours on a golliwog
 or his nervous system prematurely shaken by a cacophonous rattle.
 Yet he will think us very narrow-minded, if we say that this is
 exactly why there really is a difference between being brought up
 as a Christian and being brought up as a Jew or a Moslem or an atheist.
-The difference is that every Catholic child has learned from pictures,
-and even every Protestant child from stories, this incredible combination
+The difference is that every Catholic [[Child|child]] has learned from pictures,
+and even every Protestant [[Child|child]] from stories, this incredible combination
 of contrasted ideas as one of the very first impressions on his mind.
 It is not merely a theological difference.  It is a psychological
 difference which can outlast any theologies.  It really is,
 as that sort of scientist loves to say about anything, incurable.
-Any agnostic or atheist whose childhood has known a real Christmas
+Any agnostic or atheist whose [[Childhood|childhood]] has known a real Christmas
 has ever afterwards, whether he likes it or not, an association
 in his mind between two ideas that most of mankind must regard
 as remote from each other; the idea of a baby and the idea of unknown
-strength that sustains the stars.  His instincts and imagination
+strength that sustains the [[Stars|stars]].  His instincts and [[Imagination|imagination]]
 can still connect them, when his reason can no longer see the need
 of the connection; for him there will always be some savour of religion
-about the mere picture of a mother and a baby; some hint of mercy
+about the mere picture of a mother and a baby; some hint of [[Mercy|mercy]]
 and softening about the mere mention of the dreadful name of God.
 But the two ideas are not naturally or necessarily combined.
 They would not be necessarily combined for an ancient Greek or a Chinaman,
@@ -94,46 +94,46 @@ God with an infant than to connect gravitation with a kitten.
 It has been created in our minds by Christmas because we are Christians,
 because we are psychological Christians even when we are not
 theological ones.  In other words, this combination of ideas
-has emphatically, in the much disputed phrase, altered human nature.
+has emphatically, in the much disputed phrase, altered human [[Nature|nature]].
 There is really a difference between the man who knows it and
 the man who does not.  It may not be a difference of moral worth,
 for the Moslem or the Jew might be worthier according to his lights;
 but it is a plain fact about the crossing of two particular lights,
-the conjunction of two stars in our particular horoscope.
+the conjunction of two [[Stars|stars]] in our particular horoscope.
 Omnipotence and impotence, or divinity and infancy, do definitely
-make a sort of epigram which a million repetitions cannot turn
+make a sort of [[Epigram|epigram]] which a million repetitions cannot turn
 into a platitude.  It is not unreasonable to call it unique.
 Bethlehem is emphatically a place where extremes meet.
 
 Here begins, it is needless to say, another mighty influence
 for the humanisation of Christendom.  If the world wanted what is
-called a non-controversial aspect of Christianity, it would probably
+called a non-controversial aspect of [[Christianity]], it would probably
 select Christmas.  Yet it is obviously bound up with what is supposed
 to be a controversial aspect (I could never at any stage of my
 opinions imagine why); the respect paid to the Blessed Virgin.
 When I was a boy a more Puritan generation objected to a statue
-upon my parish church representing the Virgin and Child.
-After much controversy, they compromised by taking away the Child.
+upon my parish church representing the Virgin and [[Child]].
+After much controversy, they compromised by taking away the [[Child]].
 One would think that this was even more corrupted with Mariolatry,
 unless the mother was counted less dangerous when deprived of a sort
-of weapon.  But the practical difficulty is also a parable.
+of weapon.  But the practical difficulty is also a [[Parable|parable]].
 You cannot chip away the statue of a mother from all round that of a
-new-born child.  You can not suspend the new-born child in mid-air;
-indeed you cannot really have a statue of a new-born child at all.
-Similarly, you cannot suspend the idea of a new-born child
+new-born [[Child|child]].  You can not suspend the new-born [[Child|child]] in mid-air;
+indeed you cannot really have a statue of a new-born [[Child|child]] at all.
+Similarly, you cannot suspend the idea of a new-born [[Child|child]]
 in the void or think of him without thinking of his mother.
-You cannot visit the child without visiting the mother; you cannot
-in common human life approach the child except through the mother.
-If we are to think of Christ in this aspect at all, the other idea
-follows as it is followed in history.  We must either leave Christ
-out of Christmas, or Christmas out of Christ, or we must admit,
+You cannot visit the [[Child|child]] without visiting the mother; you cannot
+in common human life approach the [[Child|child]] except through the mother.
+If we are to think of [[Christ]] in this aspect at all, the other idea
+follows as it is followed in [[history]].  We must either leave [[Christ]]
+out of Christmas, or Christmas out of [[Christ]], or we must admit,
 if only as we admit it in an old picture, that those holy heads
-are too near together for the haloes not to mingle and cross.
+are too near together for the haloes not to mingle and [[Cross|cross]].
 
 It might be suggested, in a somewhat violent image, that nothing
 had happened in that fold or crack in the great grey hills
 except that the whole universe had been turned inside out.
-I mean that all the eyes of wonder and worship which had been turned
+I mean that all the eyes of [[Wonder|wonder]] and worship which had been turned
 outwards to the largest thing were now turned inward to the smallest.
 The very image will suggest all that multitudinous marvel of converging
 eyes that makes so much of the coloured Catholic imagery like a
@@ -141,45 +141,45 @@ peacock's tail.  But it is true in a sense that God who had been only
 a circumference was seen as a centre; and a centre is infinitely small.
 It is true that the spiritual spiral henceforward works inwards instead
 of outwards, and in that sense is centripetal and not centrifugal.
-The faith becomes, in more ways than one, a religion of little things.
-But its traditions in art and literature and popular fable have quite
-sufficiently attested, as has been said, this particular paradox
+The [[Faith|faith]] becomes, in more ways than one, a religion of little things.
+But its traditions in art and literature and popular [[Fable|fable]] have quite
+sufficiently attested, as has been said, this particular [[Paradox|paradox]]
 of the divine being in the cradle.  Perhaps they have not so clearly
-emphasised the significance of the divine being in the cave.
+emphasised the significance of the divine being in the [[Cave|cave]].
 Curiously enough, indeed, tradition has not very clearly emphasised
-the cave.  It is a familiar fact that the Bethlehem scene has been
-represented in every possible setting of time and country, of landscape
+the [[Cave|cave]].  It is a familiar fact that the Bethlehem scene has been
+represented in every possible setting of [[Time|time]] and country, of landscape
 and architecture; and it is a wholly happy and admirable fact that men
 have conceived it as quite different according to their different
 individual traditions and tastes.  But while all have realised
-that it was a stable, not so many have realised that it was a cave.
+that it was a stable, not so many have realised that it was a [[Cave|cave]].
 Some critics have even been so silly as to suppose that there
-was some contradiction between the stable and the cave; in which
+was some contradiction between the stable and the [[Cave|cave]]; in which
 case they cannot know much about caves or stables in Palestine.
 As they see differences that are not there, it is needless
 to add that they do not see differences that are there.
-When a well-known critic says, for instance, that Christ being
+When a [[Well|well]]-known critic says, for instance, that [[Christ]] being
 born in a rocky cavern is like Mithras having sprung alive out
-of a rock, it sounds like a parody upon comparative religion.
+of a rock, it sounds like a [[Parody|parody]] upon comparative religion.
 There is such a thing as the point of a story, even if it is a
-story in the sense of a lie.  And the notion of a hero appearing,
+story in the sense of a lie.  And the notion of a [[Hero|hero]] appearing,
 like Pallas from the brain of Zeus, mature and without a mother,
 is obviously the very opposite of the idea of a god being born
 like an ordinary baby and entirely dependent on a mother.
 Whichever ideal we might prefer, we should surely see that they
 are contrary ideals.  It is as stupid to connect them because they
 both contain a substance called stone as to identify the punishment
-of the Deluge with the baptism in the Jordan because they both
-contain a substance called water.  Whether as a myth or a mystery,
-Christ was obviously conceived as born in a hole in the rocks
+of the [[deluge|Deluge]] with the baptism in the Jordan because they both
+contain a substance called [[Water|water]].  Whether as a myth or a mystery,
+[[Christ]] was obviously conceived as born in a hole in the rocks
 primarily because it marked the position of one outcast and homeless.
-Nevertheless it is true, as I have said, that the cave has not been
+Nevertheless it is true, as I have said, that the [[Cave|cave]] has not been
 so commonly or so clearly used as a symbol as the other realities
 that surrounded the first Christmas.
 
-And the reason for this also refers to the very nature of that
+And the reason for this also refers to the very [[Nature|nature]] of that
 new world.  It was in a sense the difficulty of a new dimension.
-Christ was not only born on the level of the world, but even lower
+[[Christ]] was not only born on the level of the world, but even lower
 than the world.  The first act of the divine drama was enacted,
 not only on no stage set up above the sight-seer, but on a dark
 and curtained stage sunken out of sight; and that is an idea
@@ -194,9 +194,9 @@ Perhaps it could have been best conveyed by the characteristic
 expedient of some of the medieval guilds, when they wheeled
 about the streets a theatre with three stages one above the other,
 with heaven above the earth and hell under the earth.
-But in the riddle of Bethlehem it was heaven that was under the earth.
+But in the [[Riddle|riddle]] of Bethlehem it was heaven that was under the earth.
 
-There is in that alone the touch of a revolution, as of the world turned
+There is in that [[Alone|alone]] the touch of a revolution, as of the world turned
 upside down.  It would be vain to attempt to say anything adequate,
 or anything new, about the change which this conception of a deity
 born like an outcast or even an outlaw had upon the whole conception
@@ -217,40 +217,40 @@ and which is more directly relevant here.
 
 Men of the people, like the shepherds, men of the popular tradition,
 had everywhere been the makers of the mythologies.  It was they
-who had felt most directly, with least check or chill from philosophy
+who had felt most directly, with least check or chill from [[philosophy]]
 or the corrupt cults of civilisation, the need we have already considered;
-the images that were adventures of the imagination; the mythology
+the images that were adventures of the [[Imagination|imagination]]; the mythology
 that was a sort of search; the tempting and tantalising hints
-of something half-human in nature; the dumb significance of seasons
-and special places.  They had best understood that the soul of a
-landscape is a story and the soul of a story is a personality.
+of something half-human in [[Nature|nature]]; the dumb significance of [[Seasons|seasons]]
+and special places.  They had best understood that the [[Soul|soul]] of a
+landscape is a story and the [[Soul|soul]] of a story is a personality.
 But rationalism had already begun to rot away these really
 irrational though imaginative treasures of the peasant; even as
-systematic slavery had eaten the peasant out of house and home.
+systematic [[Slavery|slavery]] had eaten the peasant out of [[house]] and [[Home|home]].
 Upon all such peasantries everywhere there was descending a dusk and
 twilight of disappointment, in the hour when these few men discovered
 what they sought.  Everywhere else Arcadia was fading from the forest.
 Pan was dead and the shepherds were scattered like sheep.
 And though no man knew it, the hour was near which was to end and to
 fulfil all things; and though no man heard it, there was one far-off
-cry in an unknown tongue upon the heaving wilderness of the mountains.
+cry in an unknown tongue upon the heaving wilderness of the [[Mountains|mountains]].
 The shepherds had found their Shepherd.
 
 And the thing they found was of a kind with the things they sought.
 The populace had been wrong in many things; but they had not been
 wrong in believing that holy things could have a habitation
-and that divinity need not disdain the limits of time and space.
+and that divinity need not disdain the limits of [[Time|time]] and space.
 And the barbarian who conceived the crudest fancy about the sun
 being stolen and hidden in a box, or the wildest myth about the god
 being rescued and his enemy deceived with a stone, was nearer to
-the secret of the cave and knew more about the crisis of the world,
+the secret of the [[Cave|cave]] and knew more about the crisis of the world,
 than all those in the circle of cities round the Mediterranean who had
 become content with cold abstractions or cosmopolitan generalisations;
 than all those who were spinning thinner and thinner threads of thought
 out of the transcendentalism of Plato or the orientalism of Pythagoras.
 The place that the shepherds found was not an academy or an
 abstract republic, it was not a place of myths allegorised or dissected
-or explained or explained away.  It was a place of dreams come true.
+or explained or explained away.  It was a place of [[Dreams|dreams]] come true.
 Since that hour no mythologies have been made in the world.
 Mythology is a search.
 
@@ -260,20 +260,20 @@ the costumes, the language, and the landscape of the separate
 English and European countrysides.  We all know that one
 shepherd will talk in a Somerset dialect or another talk of
 driving his sheep from Conway towards Clyde.  Most of us know
-by this time how true is that error, how wise, how artistic,
+by this [[Time|time]] how true is that error, how wise, how artistic,
 how intensely Christian and Catholic is that anachronism.
 But some who have seen it in these scenes of medieval rusticity
 have perhaps not seen it in another sort of poetry, which it is
 sometimes the fashion to call artificial rather than artistic.
-I fear that many modern critics will see only a faded classicism
+I [[Fear|fear]] that many modern critics will see only a faded classicism
 in the fact that men like Crashaw and Herrick conceived the shepherds
 of Bethlehem under the form of the shepherds of Virgil.
 Yet they were profoundly right; and in turning their Bethlehem play
 into a Latin Eclogue they took up one of the most important links
-in human history.  Virgil, as we have already seen, does stand for
+in human [[history]].  Virgil, as we have already seen, does stand for
 all that saner heathenism that had over-thrown the insane heathenism
 of human sacrifice; but the very fact that even the Virgilian
-virtues and the sane heathenism were in incurable decay is the whole
+virtues and the sane heathenism were in incurable [[Decay|decay]] is the whole
 problem to which the revelation to the shepherds is the solution.
 If the world had ever had the chance to grow weary of being
 demoniac, it might have been healed merely by becoming sane.
@@ -285,7 +285,7 @@ But it is quite as much in the tone and incidental diction of the great
 poet that we feel the potential sympathy with the great event;
 and even in their own human phrases the voices of the Virgilian
 shepherds might more than once have broken upon more than the
-tenderness of Italy `Incipe, parve puer, risu cognoscere matrem.'
+tenderness of [[Italy]] `Incipe, parve puer, risu cognoscere matrem.'
 They might have found in that strange place all that was best
 in the last traditions of the Latins; and something better than a
 wooden idol standing up for ever for the pillar of the human family;
@@ -1191,30 +1191,30 @@ and then, by yet a third overturn, shrivels into nothing once
 more with a gesture as if flinging it away `and if God so clothes
 the grass that today is and tomorrow is cast into the oven--
 how much more' It is like the building of a good Babel tower
-by white magic in a moment and in the movement of a hand;
+by white [[Magic|magic]] in a moment and in the movement of a hand;
 a tower heaved suddenly up to heaven on the top of which can
 be seen afar off, higher than we had fancied possible, the figure
 of man; lifted by three infinities above all other things,
-on a starry ladder of light logic and swift imagination.
+on a starry ladder of light [[logic]] and swift [[Imagination|imagination]].
 Merely in a literary sense it would be more of a masterpiece than
 most of the masterpieces in the libraries; yet it seems to have
 been uttered almost at random while a man might pull a flower.
 But merely in a literary sense also, this use of the comparative
 in several degrees has about it a quality which seems to me to hint
 of much higher things than the modern suggestion of the simple
-teaching of pastoral or communal ethics.  There is nothing that really
+teaching of [[Pastoral|pastoral]] or communal ethics.  There is nothing that really
 indicates a subtle and in the true sense a superior mind so much
 as this power of comparing a lower thing with a higher and yet that
 higher with a higher still; of thinking on three planes at once.
 There is nothing that wants the rarest sort of wisdom so much as to see,
 let us say, that the citizen is higher than the slave and yet
-that the soul is infinitely higher than the citizen or the city.
+that the [[Soul|soul]] is infinitely higher than the citizen or the [[City|city]].
 It is not by any means a faculty that commonly belongs to these
 simplifiers of the Gospel; those who insist on what they call a simple
-morality and others call a sentimental morality.  It is not at all
+[[morality]] and others call a sentimental [[morality]].  It is not at all
 covered by those who are content to tell everybody to remain at peace.
 On the contrary, there is a very striking example of it in the apparent
-inconsistency between Christ's sayings about peace and about a sword.
+inconsistency between [[Christ]]'s sayings about peace and about a [[Sword|sword]].
 It is precisely this power which perceives that while a good peace
 is better than a good war, even a good war is better than a bad peace.
 These far-flung comparisons are nowhere so common as in the Gospels;
@@ -1224,10 +1224,10 @@ over the flat creatures living only on a plane.
 
 This quality of something that can only be called subtle
 and superior, something that is capable of long views and even
-of double meanings, is not noted here merely as a counterblast
+of [[Double|double]] meanings, is not noted here merely as a counterblast
 to the commonplace exaggerations of amiability and mild idealism.
 It is also to be noted in connection with the more tremendous
-truth touched upon at the end of the last chapter.  For this is
+[[Truth|truth]] touched upon at the end of the last chapter.  For this is
 the very last character that commonly goes with mere megalomania;
 especially such steep and staggering megalomania as might be
 involved in that claim.  This quality that can only be called
@@ -1236,35 +1236,35 @@ But it is an evidence of a probable distaste for vulgar
 and vainglorious claims to divinity.  A man of that sort,
 if he were only a man, would be the last man in the world to suffer
 from that intoxication by one notion from nowhere in particular,
-which is the mark of the self-deluding sensationalist in religion.
-Nor is it even avoided by denying that Christ did make this claim.
-Of no such man as that, of no other prophet or philosopher
+which is the mark of the [[Self|self]]-deluding sensationalist in religion.
+Nor is it even avoided by denying that [[Christ]] did make this claim.
+Of no such man as that, of no other [[Prophet|prophet]] or philosopher
 of the same intellectual order, would it be even possible
 to pretend that he had made it.  Even if the Church had mistaken
 his meaning, it would still be true that no other historical
 tradition except the Church had ever even made the same mistake.
 Mahomedans did not misunderstand Mahomet and suppose he was Allah.
 Jews did not misinterpret Moses and identify him with Jehovah.
-Why was this claim alone exaggerated unless this alone was made.
-Even if Christianity was one vast universal blunder, it is still
+Why was this claim [[Alone|alone]] exaggerated unless this [[Alone|alone]] was made.
+Even if [[Christianity]] was one vast universal blunder, it is still
 a blunder as solitary as the Incarnation.
 
 The purpose of these pages is to fix the falsity of certain vague
 and vulgar assumptions; and we have here one of the most false.
 There is a sort of notion in the air everywhere that all the religions
 are equal because all the religious founders were rivals, that they
-are all fighting for the same starry crown.  It is quite false.
-The claim to that crown, or anything like that crown, is really so rare
+are all fighting for the same starry [[Crown|crown]].  It is quite false.
+The claim to that [[Crown|crown]], or anything like that [[Crown|crown]], is really so rare
 as to be unique.  Mahomet did not make it any more than Micah or Malachi.
 Confucius did not make it any more that Plato or Marcus Aurelius.
 Buddha never said he was Brahma.  Zoroaster no more claimed to be
-Ormuz than to be Ahriman.  The truth is that, in the common run
+Ormuz than to be Ahriman.  The [[Truth|truth]] is that, in the common run
 of cases, it is just as we should expect it to be, in common sense
-and certainly in Christian philosophy.  It is exactly the other way.
+and certainly in Christian [[philosophy]].  It is exactly the other way.
 Normally speaking, the greater a man is, the less likely he is to make
 the very greatest claim.  Outside the unique case we are considering,
 the only kind of man who ever does make that kind of claim
-is a very small man; a secretive or self-centered monomaniac.
+is a very small man; a secretive or [[Self|self]]-centered monomaniac.
 Nobody can imagine Aristotle claiming to be the father of gods and men,
 come down from the sky; though we might imagine some insane Roman Emperor
 like Caligula claiming it for him, or more probably for himself.
@@ -1290,9 +1290,9 @@ becomes intensely interesting; because the argument proves too much.
 For nobody supposes that Jesus of Nazareth was that sort of person.
 No modern critic in his five wits thinks that the preacher
 of the Sermon on the Mount was a horrible half-witted imbecile
-that might be scrawling stars on the walls of a cell.
-No atheist or blasphemer believes that the author of the Parable
-of the Prodigal Son was a monster with one mad idea like a
+that might be scrawling [[Stars|stars]] on the walls of a cell.
+No atheist or blasphemer believes that the author of the [[Parable]]
+of the Prodigal Son was a [[Monster|monster]] with one mad idea like a
 cyclops with one eye.  Upon any possible historical criticism,
 he must be put higher in the scale of human beings than that.
 Yet by all analogy we have really to put him there or else in
@@ -1304,14 +1304,14 @@ and interesting human problem.  It is so intensely interesting,
 considered as a human problem, that it is in a spirit quite disinterested,
 so to speak, that I wish some of them had turned that intricate
 human problem into something like an intelligible human portrait.
-If Christ was simply a human character, he really was a highly
+If [[Christ]] was simply a human character, he really was a highly
 complex and contradictory human character.  For he combined exactly
 the two things that lie at the two extremes of human variation.
 He was exactly what the man with a delusion never is; he was wise;
 he was a good judge.  What he said was always unexpected; but it
 was always unexpectedly magnanimous and often unexpectedly moderate.
-Take a thing like the point of the parable of the tares and the wheat.
-It has the quality that unites sanity and subtlety.  It has not the
+Take a thing like the point of the [[Parable|parable]] of the tares and the wheat.
+It has the quality that unites [[Sanity|sanity]] and subtlety.  It has not the
 simplicity of a madman.  It has not even the simplicity of a fanatic.
 It might be uttered by a philosopher a hundred years old, at the end
 of a century of Utopias.  Nothing could be less like this quality
@@ -1325,11 +1325,11 @@ further and further away from it.  Divinity is great enough
 to be divine; it is great enough to call itself divine.
 But as humanity grows greater, it grows less and less likely to do so.
 God is God, as the Moslems say; but a great man knows he is not God,
-and the greater he is the better he knows it.  That is the paradox;
+and the greater he is the better he knows it.  That is the [[Paradox|paradox]];
 everything that is merely approaching to that point is merely receding
 from it.  Socrates, the wisest man, knows that he knows nothing.
-A lunatic may think he is omniscience, and a fool may talk as if
-he were omniscient.  But Christ is in another sense omniscient
+A lunatic may think he is omniscience, and a [[Fool|fool]] may talk as if
+he were omniscient.  But [[Christ]] is in another sense omniscient
 if he not only knows, but knows that he knows.
 
 Even on the purely human and sympathetic side, therefore, the Jesus
@@ -1346,22 +1346,22 @@ be described as human.  It rises superior to all superior persons.
 It is as human as Herrick and as democratic as Dickens.
 But even in that story there is something else that has that note
 of things not fully explained; and in a way here very relevant.
-I mean the first hesitation, not on any ground touching the nature
+I mean the first hesitation, not on any ground touching the [[Nature|nature]]
 of the miracle, but on that of the propriety of working any miracles
-at all, at least at that stage; 'my time is not yet come.'
+at all, at least at that stage; 'my [[Time|time]] is not yet come.'
 What does that mean?  At least it certainly meant a general plan or
 purpose in the mind, with which certain things did or did not fit in.
 And if we leave out that solitary strategic plan, we not only leave
 out the point of the story, but the story.
 
 We often hear of Jesus of Nazareth as a wandering teacher,
-and there is a vital truth in that view in so far as it
+and there is a vital [[Truth|truth]] in that view in so far as it
 emphasises an attitude towards luxury and convention which most
 respectable people would still regard as that of a vagabond.
 It is expressed in his own great saying about the holes of the foxes
-and the nests of the birds, and, like many of his great sayings,
+and the nests of the [[Birds|birds]], and, like many of his great sayings,
 it is felt as less powerful than it is, through lack of appreciation
-of that great paradox by which he spoke of his own humanity as in some
+of that great [[Paradox|paradox]] by which he spoke of his own humanity as in some
 way collectively and representatively human; calling himself simply
 the Son of Man; that is, in effect, calling himself simply Man.
 It is fitting that the New Man or the Second Adam should repeat
@@ -1369,23 +1369,23 @@ in so ringing a voice and with so arresting a gesture the great
 fact which came first in the original story, that man differs from
 the brutes by everything, even by deficiency; that he is in a sense
 less normal and even less native; a stranger upon the earth.
-It is well to speak of his wanderings in this sense and in the sense
+It is [[Well|well]] to speak of his wanderings in this sense and in the sense
 that he shared the drifting life of the most homeless and hopeless
-of the poor.  It is assuredly well to remember that he would quite
+of the poor.  It is assuredly [[Well|well]] to remember that he would quite
 certainly have been moved on by the police and almost certainly
 arrested by the police for having no visible means of subsistence.
-For our law has in it a turn of humour or touch of fancy which Nero
+For our law has in it a turn of [[Humour|humour]] or touch of fancy which Nero
 and Herod never happened to think of, that of actually punishing
-homeless people for not sleeping at home.
+homeless people for not sleeping at [[Home|home]].
 
 But in another sense the word 'wandering' as applied to his life is
 a little misleading.  As a matter of fact, a great many of the pagan
 sages and not a few of the pagan sophists might truly be described
 as wandering teachers.  In some of them their rambling journeys
 were not altogether without a parallel in their rambling remarks.
-Apollonius of Tyana, who figured in some fashionable cults
+[[Apollonius]] of Tyana, who figured in some fashionable cults
 as a sort of ideal philosopher, is represented as rambling as far
-as the Ganges and Ethiopia, more or less talking all the time.
+as the Ganges and Ethiopia, more or less talking all the [[Time|time]].
 There was actually a school of philosophers called the Peripatetics;
 and most even of the great philosophers give us a vague
 impression of having very little to do except to walk and talk.
@@ -1395,29 +1395,29 @@ never-ending picnic; and especially, which is the important point,
 to have neither beginning nor end.  Socrates did indeed find
 the conversation interrupted by the incident of his execution.
 But it is the whole point and the whole particular merit, of the position
-of Socrates that death was only an interruption and an incident.
+of Socrates that [[Death|death]] was only an interruption and an incident.
 We miss the real moral importance of the great philosopher if we miss
-that point; that he stares at the executioner with an innocent surprise,
-and almost an innocent annoyance, at finding anyone so unreasonable
-as to cut short a little conversation for the elucidation of truth.
-He is looking for truth and not looking for death.  Death is but
-a stone in the road which can trip him up.  His work in life is
-to wander on the roads of the world and talk about truth for ever.
+that point; that he stares at the executioner with an [[Innocent|innocent]] surprise,
+and almost an [[Innocent|innocent]] annoyance, at finding anyone so unreasonable
+as to cut short a little conversation for the elucidation of [[Truth|truth]].
+He is looking for [[Truth|truth]] and not looking for [[Death|death]].  [[Death]] is but
+a stone in the [[Road|road]] which can trip him up.  His work in life is
+to wander on the roads of the world and talk about [[Truth|truth]] for ever.
 Buddha, on the other hand, did arrest attention by one gesture;
-it was the gesture of renunciation, and therefore in a sense of denial.
+it was the gesture of [[Renunciation|renunciation]], and therefore in a sense of denial.
 But by one dramatic negation he passed into a world of negation
 that was not dramatic; which he would have been the first to insist
 was not dramatic.  Here again we miss the particular moral
 importance of the great mystic if we do not see the distinction;
 that it was his whole point that he had done with drama, which consists
-of desire and struggle and generally of defeat and disappointment.
+of [[Desire|desire]] and struggle and generally of defeat and disappointment.
 He passes into peace and lives to instruct others how to pass into it.
 Henceforth his life is that of the ideal philosopher; certainly a
-far more really ideal philosopher than Apollonius of Tyana;
+far more really ideal philosopher than [[Apollonius]] of Tyana;
 but still a philosopher in the sense that it is not his business
 to do anything but rather to explain everything; in his case,
 we might almost say, mildly and softly to explore everything.
-For the messages are basically different.  Christ said 'Seek
+For the messages are basically different.  [[Christ]] said 'Seek
 first the kingdom, and all these things shall be added unto you.'
 Buddha said 'Seek first the kingdom, and then you will need none
 of these things.'
@@ -1426,78 +1426,78 @@ Now compared to these wanderers the life of Jesus went as swift
 and straight as a thunderbolt.  It was above all things dramatic;
 it did above all things consist in doing something that had to be done.
 It emphatically would not have been done, if Jesus had walked
-about the world for ever doing nothing except tell the truth.
+about the world for ever doing nothing except tell the [[Truth|truth]].
 And even the external movement of it must not be described
-as a wandering in the sense of forgetting that it was a journey.
+as a wandering in the sense of forgetting that it was a [[Journey|journey]].
 This is where it was a fulfilment of the myths rather than
-of the philosophies; it is a journey with a goal and an object,
+of the philosophies; it is a [[Journey|journey]] with a goal and an object,
 like Jason going to find the Golden Fleece, or Hercules the golden
-apples of the Hesperides.  The gold that he was seeking was death.
+apples of the Hesperides.  The gold that he was seeking was [[Death|death]].
 The primary thing that he was going to do was to die.  He was going
 to do other things equally definite and objective; we might almost
 say equally external and material.  But from first to last the most
 definite fact is that he is going to die.  No two things could possibly
-be more different than the death of Socrates and the death of Christ.
-We are meant to feel that the death of Socrates was, from the point
+be more different than the [[Death|death]] of Socrates and the [[Death|death]] of [[Christ]].
+We are meant to feel that the [[Death|death]] of Socrates was, from the point
 of view of his friends at least, a stupid muddle and miscarriage
 of justice interfering with the flow of a humane and lucid, I had
-almost said a light philosophy.  We are meant to feel that Death
-was the bride of Christ as Poverty was the bride of St. Francis.
-We are meant to feel that his life was in that sense a sort of love-affair
-with death, a romance of the pursuit of the ultimate sacrifice.
+almost said a light [[philosophy]].  We are meant to feel that [[Death]]
+was the bride of [[Christ]] as [[Poverty]] was the bride of St. Francis.
+We are meant to feel that his life was in that sense a sort of [[Love|love]]-affair
+with [[Death|death]], a [[Romance|romance]] of the pursuit of the ultimate sacrifice.
 From the moment when the star goes up like a birthday rocket
 to the moment when the sun is extinguished like a funeral torch,
-the whole story moves on wings with the speed and direction of a drama,
+the whole story moves on wings with the [[Speed|speed]] and direction of a drama,
 ending in an act beyond words.
 
-Therefore the story of Christ is the story of a journey,
+Therefore the story of [[Christ]] is the story of a [[Journey|journey]],
 almost in the manner of a military march; certainly in the manner
-of the quest of a hero moving to his achievement or his doom.
-It is a story that begins in the paradise of Galilee, a pastoral
+of the [[Quest|quest]] of a [[Hero|hero]] moving to his achievement or his doom.
+It is a story that begins in the paradise of Galilee, a [[Pastoral|pastoral]]
 and peaceful land having really some hint of Eden, and gradually
-climbs the rising country into the mountains that are nearer
-to the storm-clouds and the stars, as to a Mountain of Purgatory.
+climbs the rising country into the [[Mountains|mountains]] that are nearer
+to the [[Storm|storm]]-clouds and the [[Stars|stars]], as to a Mountain of Purgatory.
 He may be met as if straying in strange places, or stopped
 on the way for discussion or dispute; but his face is set
-towards the mountain city.  That is the meaning of that great
+towards the mountain [[City|city]].  That is the meaning of that great
 culmination when he crested the ridge and stood at the turning
-of the road and suddenly cried aloud, lamenting over Jerusalem.
+of the [[Road|road]] and suddenly cried aloud, lamenting over Jerusalem.
 Some light touch of that lament is in every patriotic poem;
 or if it is absent, the patriotism stinks with vulgarity.
 That is the meaning the stirring and startling incident at the gates
 of the Temple, when the tables were hurled like lumber down the steps,
 and the rich merchants driven forth with bodily blows; the incident
 that must be at least as much of a puzzle to the pacifists as any
-paradox about non resistance can be to any of the militarists.
-I have compared the quest to the journey of Jason, but we must
+[[Paradox|paradox]] about non resistance can be to any of the militarists.
+I have compared the [[Quest|quest]] to the [[Journey|journey]] of Jason, but we must
 never forget that in a deeper sense it is rather to be compared
-to the journey of Ulysses.  It was not only a romance of travel
-but a romance of return; and of the end of a usurpation.
+to the [[Journey|journey]] of [[Ulysses]].  It was not only a [[Romance|romance]] of travel
+but a [[Romance|romance]] of return; and of the end of a usurpation.
 No healthy boy reading the story regards the rout of the Ithacan
 suitors as anything but a happy ending.  But there are doubtless
 some who regard the rout of the Jewish merchants and money changers
 with that refined repugnance which never fails to move them
 in the presence of violence, and especially of violence against
-the well-to-do. The point, here however, is that all these incidents
+the [[Well|well]]-to-do. The point, here however, is that all these incidents
 have in them a character of mounting crisis.  In other words.
-these incidents are not incidental.  When Apollonius the ideal
+these incidents are not incidental.  When [[Apollonius]] the ideal
 philosopher is brought before the judgement-seat of Domitian
-and vanishes by magic, the miracle is entirely incidental.
-It might have occurred at any time in the wandering life of
-the Tyanean; indeed, I believe it is doubtful in date as well as
+and vanishes by [[Magic|magic]], the miracle is entirely incidental.
+It might have occurred at any [[Time|time]] in the wandering life of
+the Tyanean; indeed, I believe it is doubtful in date as [[Well|well]] as
 in substance.  The ideal philosopher merely vanished, and resumed
 his ideal existence somewhere else for an indefinite period.
-It is characteristic of the contrast perhaps that Apollonius
+It is characteristic of the contrast perhaps that [[Apollonius]]
 was supposed to have lived to an almost miraculous old age.
 Jesus of Nazareth was less prudent in his miracles.
 When Jesus was brought before the judgement-seat of Pontius Pilate,
 he did not vanish.  It was the crisis and the goal; it was the hour
-and the power of darkness.  It was the supremely supernatural act,
+and the power of darkness.  It was the supremely [[Supernatural|supernatural]] act,
 of all his miraculous life, that he did not vanish.
 
 Every attempt to amplify that story has diminished it.  The task has
-been attempted by many men of real genius and eloquence as well as by
-only too many vulgar sentimentalists and self-conscious rhetoricians.
+been attempted by many men of real genius and eloquence as [[Well|well]] as by
+only too many vulgar sentimentalists and [[Self|self]]-conscious rhetoricians.
 The tale has been retold with patronising pathos by elegant sceptics
 and with fluent enthusiasm by boisterous best-sellers. It will not
 be retold here.  The grinding power of the plain words of the Gospel
@@ -1505,26 +1505,26 @@ story is like the power of mill-stones; and those who can read them
 simply enough will feel as if rocks had been rolled upon them.
 Criticism is only words about words; and of what use are words
 about such words as these?  What is the use of word-painting about
-the dark garden filled suddenly with torchlight and furious faces?
+the dark [[Garden|garden]] filled suddenly with torchlight and furious faces?
 'Are you come out with swords and staves as against a robber?
 All day I sat in your temple teaching, and you took me not.'
 Can anything be added to the massive and gathered restraint of that irony;
 like a great wave lifted to the sky and refusing to fall?
 'Daughters of Jerusalem, weep not for me but weep for yourselves and
 for your children.'  As the High Priest asked what further need he had
-of witnesses, we might well ask what further need we have of words.
+of witnesses, we might [[Well|well]] ask what further need we have of words.
 Peter in a panic repudiated him:  'and immediately the cock crew;
 and Jesus looked upon Peter, and Peter went out and wept bitterly.'
 Has anyone any further remarks to offer.  Just before the murder he prayed
 for all the murderous race of men, saying, 'They know not what they do';
 is there anything to say to that, except that we know as little
 what we say?  Is there any need to repeat and spin out the story
-of how the tragedy trailed up the Via Dolorosa and how they threw
+of how the [[Tragedy|tragedy]] trailed up the Via Dolorosa and how they threw
 him in haphazard with two thieves in one of the ordinary batches
 of execution; and how in all that horror and howling wilderness of
 desertion one voice spoke in homage, a startling voice from the very
 last place where it was looked for, the gibbet of the criminal;
-and he said to that nameless ruffian, 'This night shalt thou be with me
+and he said to that nameless ruffian, 'This [[Night|night]] shalt thou be with me
 in Paradise'?  Is there anything to put after that but a full stop?
 Or is anyone prepared to answer adequately that farewell gesture
 to all flesh which created for his Mother a new Son?
@@ -1534,10 +1534,10 @@ to point out that in that scene were symbolically gathered all
 the human forces that have been vaguely sketched in this story.
 As kings and philosophers and the popular element had been
 symbolically present at his birth, so they were more practically
-concerned in his death; and with that we come face to face
+concerned in his [[Death|death]]; and with that we come face to face
 with the essential fact to be realised.  All the great groups
-that stood about the Cross represent in one way or another the great
-historical truth of the time; that the world could not save itself.
+that stood about the [[Cross]] represent in one way or another the great
+historical [[Truth|truth]] of the [[Time|time]]; that the world could not save itself.
 Man could do no more.  Rome and Jerusalem and Athens and everything
 else were going down like a sea turned into a slow cataract.
 Externally indeed the ancient world was still at its strongest;
@@ -1552,14 +1552,14 @@ at their worst.  That is what really shows us the world at its worst.
 It was, for instance, the priests of a true monotheism and the soldiers
 of an international civilisation.  Rome, the legend, founded upon
 fallen Troy and triumphant over fallen Carthage, had stood for a
-heroism which was the nearest that any pagan ever came to chivalry.
+[[Heroism|heroism]] which was the nearest that any pagan ever came to chivalry.
 Rome had defended the household gods and the human decencies against
 the ogres of Africa and the hermaphrodite monstrosities of Greece.
-But in the lightning flash of this incident, we see great Rome,
+But in the [[Lightning|lightning]] flash of this incident, we see great Rome,
 the imperial republic, going downward under her Lucretian doom.
-Scepticism has eaten away even the confident sanity of the conquerors
+Scepticism has eaten away even the confident [[Sanity|sanity]] of the conquerors
 of the world.  He who is enthroned to say what is justice can only ask:
-'What is truth?'  So in that drama which decided the whole fate of
+'What is [[Truth|truth]]?'  So in that drama which decided the whole fate of
 antiquity, one of the central figures is fixed in what seems the reverse
 of his true role.  Rome was almost another name for responsibility.
 Yet he stands for ever as a sort of rocking statue of the irresponsible.
@@ -1567,23 +1567,23 @@ Man could do no more.  Even the practical had become the impracticable.
 Standing between the pillars of his own judgement-seat, a Roman
 had washed his hands of the world.
 
-There too were the priests of that pure and original truth that
+There too were the priests of that pure and original [[Truth|truth]] that
 was behind all the mythologies like the sky behind the clouds.
-It was the most important truth in the world; and even that could
+It was the most important [[Truth|truth]] in the world; and even that could
 not save the world.  Perhaps there is something overpowering
-in pure personal theism; like seeing the sun and moon and sky
-come together to form one staring face.  Perhaps the truth is too
+in pure personal theism; like seeing the sun and [[Moon|moon]] and sky
+come together to form one staring face.  Perhaps the [[Truth|truth]] is too
 tremendous when not broken by some intermediaries divine or human;
 perhaps it is merely too pure and far away.  Anyhow it could
 not save the world; it could not even conquer the world.
 There were philosophers who held it in its highest and noblest form;
-but they not only could not convert the world, but they never tried.
+but they not only could not [[convert]] the world, but they never tried.
 You could no more fight the jungle of popular mythology with a private
 opinion than you could clear away a forest with a pocket-knife. The Jewish
 priests had guarded it jealously in the good and the bad sense.
 They had kept it as a gigantic secret.  As savage heroes might have
 kept the sun in a box, they kept the Everlasting in the tabernacle.
-They were proud that they alone could look upon the blinding sun
+They were proud that they [[Alone|alone]] could look upon the blinding sun
 of a single deity; and they did not know that they had themselves
 gone blind.  Since that day their representatives have been
 like blind men in broad daylight, striking to right and left
@@ -1598,77 +1598,77 @@ that God had left his heavens to set it right.
 
 And as it was with these powers that were good, or at least had once
 been good, so it was with the element which was perhaps the best,
-or which Christ himself seems certainly to have felt as the best.
+or which [[Christ]] himself seems certainly to have felt as the best.
 The poor to whom he preached the good news, the common
 people who heard him gladly, the populace that had made
 so many popular heroes and demigods in the old pagan world,
 showed also the weaknesses that were dissolving the world.
-They suffered the evils often seen in the mob of the city,
+They suffered the evils often seen in the mob of the [[City|city]],
 and especially the mob of the capital, during the decline of a society.
 The same thing that makes the rural population live on tradition makes
 the urban population live on rumour.  Just as its myths at the best
 had been irrational, so its likes and dislikes are easily changed
 by baseless assertion that is arbitrary without being authoritative.
 Some brigand or other was artificially turned into a picturesque
-and popular figure and run as a kind of candidate against Christ.
+and popular figure and run as a kind of candidate against [[Christ]].
 In all this we recognise the urban population that we know,
 with its newspaper scares and scoops.  But there was present in this
 ancient population an evil more peculiar to the ancient world.
 We have noted it already as the neglect of the individual,
 even of the individual voting the condemnation and still more
-of the individual condemned.  It was the soul of the hive;
+of the individual condemned.  It was the [[Soul|soul]] of the hive;
 a heathen thing.  The cry of this spirit also was heard
-in that hour, 'It is well that one man die for the people.'
-Yet this spirit in antiquity of devotion to the city and to
-the state had also been in itself and in its time a noble spirit.
+in that hour, 'It is [[Well|well]] that one man die for the people.'
+Yet this spirit in antiquity of devotion to the [[City|city]] and to
+the state had also been in itself and in its [[Time|time]] a noble spirit.
 It had its poets and its martyrs; men still to be honoured for ever.
-It was failing through its weakness in not seeing the separate soul
+It was failing through its weakness in not seeing the separate [[Soul|soul]]
 of a man, the shrine of all mysticism; but it was only failing
 as everything else was failing.  The mob went along with the
 Sadducees and the Pharisees, the philosophers and the moralists.
 It went along with the imperial magistrates and the sacred priests,
 the scribes and the soldiers, that the one universal human spirit
 might suffer a universal condemnation; that there might be one deep,
-unanimous chorus of approval and harmony when Man was rejected of men.
+unanimous [[Chorus|chorus]] of approval and harmony when Man was rejected of men.
 
 There were solitudes beyond where none shall follow.
-There were secrets in the inmost and invisible part of that drama
+There were [[Secrets|secrets]] in the inmost and invisible part of that drama
 that have no symbol in speech; or in any severance of a man from men.
 Nor is it easy for any words less stark and single-minded than
 those of the naked narrative even to hint at the horror of exaltation
-that lifted itself above the hill.  Endless expositions have not
+that lifted itself above the [[Hill|hill]].  Endless expositions have not
 come to the end of it, or even to the beginning.  And if there
-be any sound that can produce a silence, we may surely be silent
+be any sound that can produce a [[Silence|silence]], we may surely be silent
 about the end and the extremity; when a cry was driven out of that
 darkness in words dreadfully distinct and dreadfully unintelligible,
-which man shall never understand in all the eternity they have
+which man shall never understand in all the [[Eternity|eternity]] they have
 purchased for him; and for one annihilating instant an abyss that is
-not for our thoughts had opened even in the unity of the absolute;
+not for our thoughts had opened even in the [[unity]] of the absolute;
 and God had been forsaken of God.
 
-They took the body down from the cross and one of the few rich
+They took the [[Body|body]] down from the [[Cross|cross]] and one of the few rich
 men among the first Christians obtained permission to bury it
-in a rock tomb in his garden; the Romans setting a military guard
-lest there should be some riot and attempt to recover the body.
+in a rock tomb in his [[Garden|garden]]; the Romans setting a military guard
+lest there should be some riot and attempt to recover the [[Body|body]].
 There was once more a natural symbolism in these natural proceedings;
-it was well that the tomb should be sealed with all the secrecy of
+it was [[Well|well]] that the tomb should be sealed with all the secrecy of
 ancient eastern sepulture and guarded by the authority of the Caesars.
 For in that second cavern the whole of that great and glorious
 humanity which we call antiquity was gathered up and covered over;
 and in that place it was buried.  It was the end of a very great
-thing called human history; the history that was merely human.
+thing called human [[history]]; the [[history]] that was merely human.
 The mythologies and the philosophies were buried there,
 the gods and the heroes and the sages.  In the great Roman phrase,
 they had lived.  But as they could only live, so they could only die;
 and they were dead.
 
-On the third day the friends of Christ coming at daybreak
-to the place found the grave empty and the stone rolled away.
-In varying ways they realised the new wonder; but even they hardly
-realised that the world had died in the night.  What they were looking
+On the third day the friends of [[Christ]] coming at daybreak
+to the place found the [[Grave|grave]] empty and the stone rolled away.
+In varying ways they realised the new [[Wonder|wonder]]; but even they hardly
+realised that the world had died in the [[Night|night]].  What they were looking
 at was the first day of a new creation, with a new heaven and a new earth;
-and in a semblance of the gardener God walked again in the garden,
-in the cool not of the evening but the dawn.
+and in a semblance of the gardener God walked again in the [[Garden|garden]],
+in the cool not of the evening but the [[Dawn|dawn]].
 
 * * *
 
@@ -1676,23 +1676,23 @@ IV
 
 THE WITNESS OF THE HERETICS
 
-Christ founded the Church with two great figures of speech;
+[[Christ]] founded the Church with two great figures of speech;
 in the final words to the Apostles who received authority to found it.
 The first was the phrase about founding it on Peter as on a rock;
 the second was the symbol of the keys.  About the meaning of the former
-there is naturally no doubt in my own case; but it does not directly
+there is naturally no [[Doubt|doubt]] in my own case; but it does not directly
 affect the argument here save in two more secondary aspects.
 It is yet another example of a thing that could only fully
 expand and explain itself afterwards, and even long afterwards.
 And it is yet another example of something the very reverse of simple
-and self-evident even in the language, in so far as it described
+and [[Self|self]]-evident even in the language, in so far as it described
 a man as a rock when he had much more the appearance of a reed.
 
 But the other image of the keys has an exactitude that has hardly
 been exactly noticed.  The keys have been conspicuous enough
 in the art and heraldry of Christendom; but not everyone has
-noted the peculiar aptness of the allegory.  We have now reached
-the point in history where something must be said of the first
+noted the peculiar aptness of the [[Allegory|allegory]].  We have now reached
+the point in [[history]] where something must be said of the first
 appearance and activities of the Church in the Roman Empire;
 and for that brief description nothing could be more perfect than
 that ancient metaphor.  The Early Christian was very precisely
@@ -1705,21 +1705,21 @@ As we shall see in a moment, it rather definitely refused to do so.
 It definitely asserted that there was a key and that it possessed
 that key and that no other key was like it; in that sense it
 was as narrow as you please.  Only it happened to be the key that
-could unlock the prison of the whole world; and let in the white
+could unlock the [[Prison|prison]] of the whole world; and let in the white
 daylight of liberty.
 
 The creed was like a key in three respects; which can be most
 conveniently summed up under this symbol.  First, a key is above
 all things a thing with a shape.  It is a thing that depends
 entirely upon keeping its shape.  The Christian creed is above all
-things the philosophy of shapes and the enemy of shapelessness.
+things the [[philosophy]] of shapes and the enemy of shapelessness.
 That is where it differs from all that formless infinity,
-Manichean or Buddhist, which makes a sort of pool of night in
+Manichean or Buddhist, which makes a sort of pool of [[Night|night]] in
 the dark heart of Asia; the ideal of uncreating all the creatures.
 That is where it differs also from the analogous vagueness of mere
 evolutionism, the idea of creatures constantly losing their shape.
 A man told that his solitary latchkey had been melted down
-with a million others into a Buddhistic unity would be annoyed.
+with a million others into a Buddhistic [[unity]] would be annoyed.
 But a man told that his key was gradually growing and sprouting
 in his pocket, and branching into new wards or complications,
 would not be more gratified.
@@ -1741,9 +1741,9 @@ with theology and things of the kind, they forget that the world
 had not only got into a hole, but had got into a whole maze of holes
 and corners.  The problem itself was a complicated problem; it did
 not in the ordinary sense merely involve anything so simple as sin.
-It was also full of secrets, of unexplored and unfathomable fallacies,
+It was also full of [[Secrets|secrets]], of unexplored and unfathomable fallacies,
 of unconscious mental diseases, of dangers in all directions.
-If the faith had faced the world only with the platitudes about peace
+If the [[Faith|faith]] had faced the world only with the platitudes about peace
 and simplicity some moralists would confine it to, it would not have had
 the faintest effect on that luxurious and labyrinthine lunatic asylum.
 What it did do we must now roughly describe; it is enough to say here
@@ -1753,25 +1753,25 @@ It opened the door.
 
 There are certain recognised and accepted statements in this matter
 which may for brevity and convenience be described as lies.  We have
-all heard people say that Christianity arose in an age of barbarism.
-They might just as well say that Christian Science arose in an age
-of barbarism.  They may think Christianity was a symptom of
-social decay, as I think Christian Science a symptom of mental decay.
-They may think Christianity a superstition that ultimately destroyed
+all heard people say that [[Christianity]] arose in an age of barbarism.
+They might just as [[Well|well]] say that Christian Science arose in an age
+of barbarism.  They may think [[Christianity]] was a symptom of
+social [[Decay|decay]], as I think Christian Science a symptom of mental [[Decay|decay]].
+They may think [[Christianity]] a superstition that ultimately destroyed
 a civilisation, as I think Christian Science a superstition capable
 (if taken seriously) of destroying any number of civilisations.
 But to say that a Christian of the fourth or fifth centuries
-was a barbarian living in a barbarous time is exactly like saying
+was a barbarian living in a barbarous [[Time|time]] is exactly like saying
 that Mrs. Eddy was a Red Indian.  And if I allowed my constitutional
 impatience with Mrs. Eddy to impel me to call her a Red Indian, I should
 incidentally be telling a lie.  We may like or dislike the imperial
 civilisation of Rome in the fourth century; we may like or dislike
-the industrial civilisation of America in the nineteenth century;
+the industrial civilisation of [[america|America]] in the nineteenth century;
 but that they both were what we commonly mean by a civilisation
 no person of commonsense could deny if he wanted to.  This is a very
 obvious fact but it is also a very fundamental one; and we must
 make it the foundation of any further description of constructive
-Christianity in the past.  For good or evil, it was pre-eminently
+[[Christianity]] in the past.  For good or evil, it was pre-eminently
 the product of a civilised age, perhaps of an over-civilised age.
 This is the first fact apart from all praise or blame; indeed I am
 so unfortunate as not to feel that I praise a thing when I compare
@@ -1792,7 +1792,7 @@ that it contained a great number of varied superstitions;
 but by no possibility can any part of it be called barbarous.
 
 In this level of cosmopolitan culture arose the Christian
-religion and the Catholic Church; and everything in the story
+religion and the [[Catholic Church]]; and everything in the story
 suggests that it was felt to be something new and strange.
 Those who have tried to suggest that it evolved out of something much
 milder or more ordinary have found that in this case their evolutionary
@@ -1800,59 +1800,59 @@ method is very difficult to apply.  They may suggest that Essenes
 or Ebionites or such things were the seed; but the seed is invisible;
 the tree appears very rapidly full-grown; and the tree is something
 totally different.  It is certainly a Christmas tree in the sense
-that it keeps the kindliness and moral beauty of the story of Bethlehem;
+that it keeps the kindliness and moral [[Beauty|beauty]] of the story of Bethlehem;
 but it was as ritualistic as the seven-branched candlestick,
 and the candles it carried were considerably more than were
-probably permitted by the first prayer-book of Edward the Sixth.
-It might well be asked, indeed, why any one accepting the Bethlehem
+probably permitted by the first [[prayer]]-book of Edward the Sixth.
+It might [[Well|well]] be asked, indeed, why any one accepting the Bethlehem
 tradition should object to golden or gilded ornament since
 the Magi themselves brought gold, why he should dislike incense
 in the church since incense was brought even to the stable.
 But these are controversies that do not concern me here.
 I am concerned only with the historical fact, more and more
-admitted by historians, that very early in its history this
+admitted by historians, that very early in its [[history]] this
 thing became visible to the civilisation of antiquity;
 and that already the Church appeared as a Church; with everything
 that is implied in a Church and much that is disliked in a Church.
 We will discuss in a moment how far it was like other ritualistic
-or magical or ascetical mysteries in its own time.  It was certainly not
-in the least like merely ethical and idealistic movements in our time.
+or magical or ascetical mysteries in its own [[Time|time]].  It was certainly not
+in the least like merely ethical and idealistic movements in our [[Time|time]].
 It had a doctrine; it had a discipline; it had sacraments;
 it had degrees of initiation, it admitted people and expelled people;
 it affirmed one dogma with authority and repudiated another
 with anathemas.  If all these things be the marks of Antichrist,
-the reign of Antichrist followed very rapidly upon Christ.
+the reign of Antichrist followed very rapidly upon [[Christ]].
 
-Those who maintain that Christianity was not a Church but a moral
+Those who maintain that [[Christianity]] was not a Church but a moral
 movement of idealists have been forced to push the period of its
 perversion or disappearance further and further back.  A bishop
 of Rome writes claiming authority in the very lifetime of St. John
 the Evangelist; and it is described as the first papal aggression.
 A friend of the Apostles writes of them as men he knew and says they
 taught him the doctrine of the Sacrament, and Mr. Wells can only murmur
-that the reaction towards barbaric blood-rites may have happened
+that the reaction towards barbaric [[Blood|blood]]-rites may have happened
 rather earlier than might be expected.  The date of the Fourth Gospel,
-which at one time was steadily growing later and later, is now
+which at one [[Time|time]] was steadily growing later and later, is now
 steadily growing earlier and earlier; until critics are staggered
 at the dawning and dreadful possibility that it might be something
 like what it professes to be.  The last limit of an early date
-for the extinction of true Christianity has probably been found by
+for the extinction of true [[Christianity]] has probably been found by
 the latest German professor whose authority is invoked by Dean Inge.
 This learned scholar says that Pentecost was the occasion for
 the first founding of an ecclesiastical, dogmatic, and despotic
 Church utterly alien to the simple ideals of Jesus of Nazareth.
-This may be called, in a popular as well as a learned sense, the limit.
+This may be called, in a popular as [[Well|well]] as a learned sense, the limit.
 What do professors of this kind imagine that men are made of?
 Suppose it were a matter of any merely human movement, let us say
 that of the conscientious objectors.  Some say the early Christians
 were Pacifists; I do not believe it for a moment; but I am quite
 ready to accept the parallel for the sake of the argument.
-Tolstoy or some great preacher of peace among peasants has been shot
+[[tolstoy|Tolstoy]] or some great preacher of peace among peasants has been shot
 as a mutineer for defying conscription; and a little while afterwards
 his few followers meet together in an upper room in remembrance of him.
 They never had any reason for coming together except that
-common memory; they are men of many kinds with nothing to bind them,
-except that the greatest event in all their lives was this tragedy
+common [[Memory|memory]]; they are men of many kinds with nothing to bind them,
+except that the greatest event in all their lives was this [[Tragedy|tragedy]]
 of the teacher of universal peace.  They are always repeating
 his words, revolving his problems, trying to imitate his character.
 The Pacifists meet at their Pentecost and are possessed of a sudden
@@ -1870,12 +1870,12 @@ met through their common enthusiasm for a leader whom they loved,
 would not instantly rush away to establish everything that he hated.
 No, if the 'ecclesiastical and dogmatic system' is as old as Pentecost
 it is as old as Christmas.  If we trace it back to such very early
-Christians we must trace it back to Christ.
+Christians we must trace it back to [[Christ]].
 
 We may begin then with these two negations.  It is nonsense
-to say that the Christian faith appeared in a simple age;
+to say that the Christian [[Faith|faith]] appeared in a simple age;
 in the sense of an unlettered and gullible age.  It is equally
-nonsense to say that the Christian faith was a simple thing;
+nonsense to say that the Christian [[Faith|faith]] was a simple thing;
 in the sense of a vague or childish or merely instinctive thing.
 Perhaps the only point in which we could possibly say that the Church
 fitted into the pagan world, is the fact that they were both not
@@ -1887,19 +1887,19 @@ The six sides of the Mediterranean world faced each other across
 the sea and waited for something that should look all ways at once.
 The Church had to be both Roman and Greek and Jewish and African
 and Asiatic.  In the very words of the Apostle of the Gentiles,
-it was indeed all things to all men.  Christianity then was not
+it was indeed all things to all men.  [[Christianity]] then was not
 merely crude and simple and was the very reverse of the growth
-of a barbaric time.  But when we come to the contrary charge,
+of a barbaric [[Time|time]].  But when we come to the contrary charge,
 we come to a much more plausible charge.  It is very much more tenable
-that the Faith was but the final phase of the decay of civilisation,
+that the [[Faith]] was but the final phase of the [[Decay|decay]] of civilisation,
 in the sense of the excess of civilisation; that this superstition
 was a sign that Rome was dying, and dying of being much too civilised.
 That is an argument much better worth considering; and we will
 proceed to consider it.
 
 At the beginning of this book I ventured on a general summary of it,
-in a parallel between the rise of humanity out of nature and the rise
-of Christianity out of history.  I pointed out that in both cases
+in a parallel between the rise of humanity out of [[Nature|nature]] and the rise
+of [[Christianity]] out of [[history]].  I pointed out that in both cases
 what had gone before might imply something coming after; but did not
 in the least imply what did come after.  If a detached mind had seen
 certain apes it might have deduced more anthropoids; it would not have
@@ -1913,34 +1913,34 @@ To foresee that Missing Link would not be to foresee Man, or anything
 like Man.  Now this earlier explanation must be kept in mind;
 because it is an exact parallel to the true view of the Church;
 and the suggestion of it having evolved naturally out of the
-Empire in decay.
+Empire in [[Decay|decay]].
 
-The truth is that in one sense a man might very well have predicted
-that the imperial decadence would produce something like Christianity.
+The [[Truth|truth]] is that in one sense a man might very [[Well|well]] have predicted
+that the imperial decadence would produce something like [[Christianity]].
 That is, something a little like and gigantically different.
-A man might very well have said, for instance, 'Pleasure has
+A man might very [[Well|well]] have said, for instance, 'Pleasure has
 been pursued so extravagantly that there will be a reaction
 into pessimism.  Perhaps it will take the form of asceticism;
 men will mutilate themselves instead of merely hanging themselves.'
 Or a man might very reasonably have said, 'If we weary of our Greek
 and Latin gods we shall be hankering after some eastern mystery
 or other; there will be a fashion in Persians or Hindoos.'
-Or a man of the world might well have been shrewd enough
+Or a man of the world might [[Well|well]] have been shrewd enough
 to say, 'Powerful people are picking up these fads; some day
-the court will adopt one of them and it may become official.'
-Or yet another and gloomier prophet might be pardoned for saying,
-'The world is going down-hill; dark and barbarous superstitions
+the [[Court|court]] will adopt one of them and it may become official.'
+Or yet another and gloomier [[Prophet|prophet]] might be pardoned for saying,
+'The world is going down-[[Hill|hill]]; dark and barbarous superstitions
 will return, it does not matter much which.  They will all be formless
-and fugitive like dreams of the night.'
+and fugitive like [[Dreams|dreams]] of the [[Night|night]].'
 
 Now it is the intense interest of the case that all these prophecies
 were really fulfilled; but it was not the Church that fulfilled them.
 It was the Church that escaped from them, confounded them,
-and rose above them in triumph.  In so far as it was probable
-that the mere nature of hedonism would produce a mere reaction
+and [[Rose|rose]] above them in triumph.  In so far as it was probable
+that the mere [[Nature|nature]] of hedonism would produce a mere reaction
 of asceticism it did produce a mere reaction of asceticism.
 It was the movement called Manichean and the Church was its mortal enemy.
-In so far as it would have naturally appeared at that point of history,
+In so far as it would have naturally appeared at that point of [[history]],
 it did appear; it did also disappear, which was equally natural.
 The mere pessimist reaction did come with the Manichees and did go with
 the Manichees.  But the Church did not come with them or go with them;
@@ -1948,7 +1948,7 @@ and she had much more to do with them going than with their coming.
 Or again, in so far as it was probable that even the growth
 of scepticism would bring in a fashion of eastern religion, it did
 bring it in; Mithras came from far beyond Palestine out of the heart
-of Persia, bringing strange mysteries of the blood of bulls.
+of Persia, bringing strange mysteries of the [[Blood|blood]] of bulls.
 Certainly there was everything to show that some such fashion
 would have come in any case but certainly there is nothing in
 the world to show that it would not have passed away in any case.
@@ -1960,7 +1960,7 @@ expected then, things like Mithraism were experienced then;
 but it scarcely explains our more recent experiences.
 And if we were still Mithraists merely because Mithraic head-dresses
 and other Persian apparatuses might be expected to be all the rage
-in the days of Domitian, it would almost seem by this time that we
+in the days of Domitian, it would almost seem by this [[Time|time]] that we
 must be a little dowdy.
 
 It is the same, as will be suggested in a moment, with the idea
@@ -1982,7 +1982,7 @@ was merely a superstition, she herself condemned that superstition.
 In so far as something was a mere reaction into barbarism,
 she herself resisted it because it was a reaction into barbarism.
 In so far as something was a fad of the fading empire, that died
-and deserved to die, it was the Church alone that killed it.
+and deserved to die, it was the Church [[Alone|alone]] that killed it.
 The Church is reproached for being exactly what the heresy was
 repressed for being.  The explanations of the evolutionary historians
 and higher critics do really explain why Arianism and Gnosticism
@@ -1997,14 +1997,14 @@ of the dying empire, it did really die with the dying empire;
 and certainly was not the same as the very thing that destroyed it.
 For this purpose we will take in order two or three of the most
 ordinary explanations of Christian origins among the modern critics
-of Christianity.  Nothing is more common, for instance, than to find
-such a modern critic writing something like this:  'Christianity was
-above all a movement of ascetics, a rush into the desert,
-a refuge in the cloister, a renunciation of all life and happiness;
+of [[Christianity]].  Nothing is more common, for instance, than to find
+such a modern critic writing something like this:  '[[Christianity]] was
+above all a movement of ascetics, a rush into the [[Desert|desert]],
+a refuge in the cloister, a [[Renunciation|renunciation]] of all life and happiness;
 and this was a part of a gloomy and inhuman reaction against
-nature itself, a hatred of the body, a horror of the material universe,
-a sort of universal suicide of the senses and even of the self.
-It came from an eastern fanaticism like that of the fakirs and was
+[[Nature|nature]] itself, a hatred of the [[Body|body]], a horror of the material universe,
+a sort of universal [[suicide]] of the senses and even of the [[Self|self]].
+It came from an eastern [[Fanaticism|fanaticism]] like that of the fakirs and was
 ultimately founded on an eastern pessimism, which seems to feel
 existence itself as an evil.'
 
@@ -2017,12 +2017,12 @@ and misgovernment of the ministers of George the Third, merely with the
 small inaccuracy that the whole story was told about George Washington;
 or as if somebody made a list of the crimes of the Bolshevists
 with no variation except that they were all attributed to the Czar.
-The early Church was indeed very ascetic in connection with a totally
-different philosophy; but the philosophy of a war on life and nature
+The early Church was indeed very [[ascetic]] in connection with a totally
+different [[philosophy]]; but the [[philosophy]] of a war on life and [[Nature|nature]]
 as such really did exist in the world, if the critics only knew
 where to look for it.
 
-What really happened was this.  When the Faith first emerged into
+What really happened was this.  When the [[Faith]] first emerged into
 the world, the very first thing that happened to it was that it was
 caught in a sort of swarm of mystical and metaphysical sects, mostly out
 of the East; like one lonely golden bee caught in a swarm of wasps.
@@ -2030,10 +2030,10 @@ To the ordinary onlooker, there did not seem to be much difference,
 or anything beyond a general buzz; indeed in a sense there was not
 much difference so far as stinging and being stung were concerned.
 The difference was that only one golden dot in all that whirring
-gold-dust had the power of going forth to make hives for all humanity;
+gold-[[Dust|dust]] had the power of going forth to make hives for all humanity;
 to give the world honey and wax or (as was so finely said
 in a context too easily forgotten) 'the two noblest things,
-which are sweetness and light.'  The wasps all died that winter;
+which are sweetness and light.'  The wasps all died that [[Winter|winter]];
 and half the difficulty is that hardly anyone knows anything
 about them and most people do not know that they ever existed;
 so that the whole story of that first phase of our religion is lost.
@@ -2056,14 +2056,14 @@ Some of them had that Asiatic atmosphere that surrounds Buddhism;
 the suggestion that life is a corruption of the purity of being.
 Some of them suggested a purely spiritual order which had been
 betrayed by the coarse and clumsy trick of making such toys as the sun
-and moon and stars.  Anyhow all this dark tide out of the metaphysical
+and [[Moon|moon]] and [[Stars|stars]].  Anyhow all this dark tide out of the metaphysical
 sea in the midst of Asia poured through the dykes simultaneously
-with the creed of Christ; but it is the whole point of the story
-that the two were not the same; that they flowed like oil and water.
-That creed remained in the shape of a miracle; a river still flowing
+with the creed of [[Christ]]; but it is the whole point of the story
+that the two were not the same; that they flowed like oil and [[Water|water]].
+That creed remained in the shape of a miracle; a [[River|river]] still flowing
 through the sea.  And the proof of the miracle was practical once more;
 it was merely that while all that sea was salt and bitter with the savour
-of death, of this one stream in the midst of it a man could drink.
+of [[Death|death]], of this one stream in the midst of it a man could drink.
 
 Now that purity was preserved by dogmatic definitions and exclusions.
 It could not possibly have been preserved by anything else.
@@ -2074,17 +2074,17 @@ them it proved that it was not either Gnostic or Manichean.
 At any rate it proved that something was not either Gnostic
 or Manichean; and what could it be that condemned them, if it was not
 the original good news of the runners from Bethlehem and the trumpet
-of the Resurrection?  The early Church was ascetic, but she proved
+of the [[Resurrection]]?  The early Church was [[ascetic]], but she proved
 that she was not pessimistic, simply by condemning the pessimists.
 The creed declared that man was sinful, but it did not declare
 that life was evil, and it proved it by damning those who did.
 The condemnation of the early heretics is itself condemned
-as something crabbed and narrow; but it was in truth the very
+as something crabbed and narrow; but it was in [[Truth|truth]] the very
 proof that the Church meant to be brotherly and broad.
 It proved that the primitive Catholics were specially eager
 to explain that they did not think man utterly vile; that they
 did not think life incurably miserable; that they did not think
-marriage a sin or procreation a tragedy.  They were ascetic because
+[[Marriage|marriage]] a sin or [[Procreation|procreation]] a [[Tragedy|tragedy]].  They were [[ascetic]] because
 asceticism was the only possible purge of the sins of the world;
 but in the very thunder of their anathemas they affirmed for ever
 that their asceticism was not to be anti-human or anti-natural;
@@ -2092,26 +2092,26 @@ that they did wish to purge the world and not destroy it.
 And nothing else except those anathemas could possibly have made it clear,
 amid a confusion which still confuses them with their mortal enemies.
 Nothing else but dogma could have resisted the riot of imaginative
-invention with which the pessimists were waging their war against nature;
+invention with which the pessimists were waging their war against [[Nature|nature]];
 with their Aeons and their Demiurge, their strange Logos and their
 sinister Sophia.  If the Church had not insisted on theology,
 it would have melted into a mad mythology of the mystics, yet further
 removed from reason or even from rationalism; and, above all
-yet further removed from life and from the love of life.
+yet further removed from life and from the [[Love|love]] of life.
 Remember that it would have been an inverted mythology, one contradicting
 everything natural in paganism; a mythology in which Pluto would
 be above Jupiter and Hades hang higher than Olympus; in which Brahma
 and all that has the breath of life would be subject to Seeva,
-shining with the eye of death.
+shining with the eye of [[Death|death]].
 
 That the early Church was itself full of an ecstatic enthusiasm
-for renunciation and virginity makes this distinction much
+for [[Renunciation|renunciation]] and virginity makes this distinction much
 more striking and not less so.  It makes all the more important
 the place where the dogma drew the line.  A man might crawl
-about on all fours like a beast because he was an ascetic.
-He might stand night and day on the top of a pillar and be adored
-for being an ascetic, but he could not say that the world was
-a mistake or the marriage state a sin without being a heretic.
+about on all fours like a beast because he was an [[ascetic]].
+He might stand [[Night|night]] and day on the top of a pillar and be adored
+for being an [[ascetic]], but he could not say that the world was
+a mistake or the [[Marriage|marriage]] state a sin without being a heretic.
 What was it that thus deliberately disengaged itself from eastern
 asceticism by sharp definition and fierce refusal, if it was not something
 with an individuality of its own; and one that was quite different?
@@ -2123,20 +2123,20 @@ the heretics and also for sympathising with the heresy.
 The Church was not a Manichean movement if only because it was not
 a movement at all.  It was not even merely an ascetical movement,
 because it was not a movement at all.  It would be nearer
-the truth to call it the tamer of asceticism than the mere
+the [[Truth|truth]] to call it the tamer of asceticism than the mere
 leader or loosener of it.  It was a thing having its own theory
 of asceticism, its own type of asceticism, but most conspicuous
 at the moment as the moderator of other theories and types.
 This is the only sense that can be made, for instance, of the story
 of St. Augustine.  As long as he was a mere man of the world,
-a mere man drifting with his time, he actually was a Manichean.
+a mere man drifting with his [[Time|time]], he actually was a Manichean.
 It really was quite modern and fashionable to be a Manichean.
 But when he became a Catholic, the people he instantly turned on
 and rent in pieces were the Manicheans.  The Catholic way of putting
-it is that he left off being a pessimist to become an ascetic.
+it is that he left off being a pessimist to become an [[ascetic]].
 But as the pessimists interpreted asceticism, it ought to be
-said that he left off being an ascetic to become a saint.
-The war upon life, the denial of nature, were exactly the things
+said that he left off being an [[ascetic]] to become a saint.
+The war upon life, the denial of [[Nature|nature]], were exactly the things
 he had already found in the heathen world outside the Church,
 and had to renounce when he entered the Church.  The very fact
 that St. Augustine remains a somewhat sterner or sadder figure
@@ -2146,50 +2146,50 @@ we can still ask, 'Why did Catholicism make war on Manichees,
 if Catholicism was Manichean?'
 
 Take another rationalistic explanation of the rise of Christendom.
-It is common enough to find another critic saying, 'Christianity did
+It is common enough to find another critic saying, '[[Christianity]] did
 not really rise at all; that is, it did not merely rise from below;
 it was imposed from above.  It is an example of the power
 of the executive, especially in despotic states.  The Empire was
 really an Empire; that is, it was really ruled by the Emperor.
 One of the Emperors happened to become a Christian.  He might just
-as well have become a Mithraist or a Jew or a Fire-Worshipper;
+as [[Well|well]] have become a Mithraist or a Jew or a [[Fire]]-Worshipper;
 it was common in the decline of the Empire for eminent and educated
 people to adopt these eccentric eastern cults.  But when he adopted it,
 it became the official religion of the Roman Empire; and when it
 became the official religion of the Roman Empire, it became
 as strong, as universal and as invincible as the Roman Empire.
 It has only remained in the world as a relic of that Empire; or, as many
-have put it, it is but the ghost of Caesar still hovering over Rome.'
+have put it, it is but the [[Ghost|ghost]] of Caesar still hovering over Rome.'
 This also is a very ordinary line taken in the criticism of orthodoxy,
 to say that it was only officialism that ever made it orthodoxy.
 And here again we can call on the heretics to refute it.
 
-The whole great history of the Arian heresy might have been
-invented to explode this idea.  It is a very interesting history
+The whole great [[history]] of the Arian heresy might have been
+invented to explode this idea.  It is a very interesting [[history]]
 often repeated in this connection; and the upshot of it is
 in that in so far as there ever was a merely official religion,
 it actually died because it was merely an official religion;
 and what destroyed it was the real religion.  Arius advanced a version
-of Christianity which moved, more or less vaguely, in the direction
+of [[Christianity]] which moved, more or less vaguely, in the direction
 of what we should call Unitarianism; though it was not the same,
-for it gave to Christ a curious intermediary position between the divine
+for it gave to [[Christ]] a curious intermediary position between the divine
 and human.  The point is that it seemed to many more reasonable
 and less fanatical; and among these were many of the educated class
-in a sort of reaction against the first romance of conversion.
+in a sort of reaction against the first [[Romance|romance]] of [[conversion]].
 Arians were a sort of moderates and a sort of modernists.
 And it was felt that after the first squabbles this was the final form
-of rationalised religion into which civilisation might well settle down.
+of rationalised religion into which civilisation might [[Well|well]] settle down.
 It was accepted by Divus Caesar himself and became the official orthodoxy;
 the generals and military princes drawn from the new barbarian
 powers of the north, full of the future, supported it strongly.
 But the sequel is still more important.  Exactly as a modern man might
 pass through Unitarianism to complete agnosticism, so the greatest
 of the Arian emperors ultimately shed the last and thinnest pretense
-of Christianity; he abandoned ever Arius and returned to Apollo.
+of [[Christianity]]; he abandoned ever Arius and returned to [[Apollo]].
 He was a Caesar of the Caesars; a soldier, a scholar, a man
 of large ambitions and ideals; another of the philosopher kings.
-It seemed to him as if at his signal the sun rose again.
-The oracles began to speak like birds beginning to sing at dawn;
+It seemed to him as if at his signal the sun [[Rose|rose]] again.
+The oracles began to speak like [[Birds|birds]] beginning to sing at [[Dawn|dawn]];
 paganism was itself again; the gods returned.  It seemed
 the end of that strange interlude of an alien superstition.
 And indeed it was the end of it, so far as there was a mere
@@ -2199,69 +2199,69 @@ If there really was something that began with Constantine, then it
 ended with Julian.
 
 But there was something that did not end.  There had arisen
-in that hour of history, defiant above the democratic tumult
+in that hour of [[history]], defiant above the democratic tumult
 of the Councils of the Church, Athanasius against the world.
 We may pause upon the point at issue; because it is relevant
-to the whole of this religious history, and the modern world
+to the whole of this religious [[history]], and the modern world
 seems to miss the whole point of it.  We might put it this way.
 If there is one question which the enlightened and liberal
 have the habit of deriding and holding up as a dreadful example
 of barren dogma and senseless sectarian strife, it is this
-Athanasian question of the Co-Eternity of the Divine Son.
+Athanasian question of the Co-[[Eternity]] of the Divine Son.
 On the other hand, if there is one thing that the same liberals
-always offer us as a piece of pure and simple Christianity,
+always offer us as a piece of pure and simple [[Christianity]],
 untroubled by doctrinal disputes, it is the single sentence,
-'God is Love.'  Yet the two statements are almost identical;
+'God is [[Love]].'  Yet the two statements are almost identical;
 at least one is very nearly nonsense without the other.  The barren
 dogma is only the logical way of stating the beautiful sentiment.
 For if there be a being without beginning, existing before
 all things, was He loving when there was nothing to be loved?
-If through that unthinkable eternity He is lonely, what is the meaning
-of saying He is love?  The only justification of such a mystery is
-the mystical conception that in His own nature there was something
-analogous to self-expression; something of what begets and beholds
+If through that unthinkable [[Eternity|eternity]] He is lonely, what is the meaning
+of saying He is [[Love|love]]?  The only justification of such a mystery is
+the mystical conception that in His own [[Nature|nature]] there was something
+analogous to [[Self|self]]-expression; something of what begets and beholds
 what it has begotten.  Without some such idea, it is really illogical
-to complicate the ultimate essence of deity with an idea like love.
-If the moderns really want a simple religion of love, they must
-look for it in the Athanasian Creed.  The truth is that the trumpet
-of true Christianity, the challenge of the charities and simplicities
+to complicate the ultimate essence of deity with an idea like [[Love|love]].
+If the moderns really want a simple religion of [[Love|love]], they must
+look for it in the Athanasian Creed.  The [[Truth|truth]] is that the trumpet
+of true [[Christianity]], the challenge of the charities and simplicities
 of Bethlehem or Christmas Day never rang out more arrestingly
 and unmistakably than in the defiance of Athanasius to the cold
 compromise of the Arians.  It was emphatically he who really
-was fighting for a God of Love against a God of colourless and
+was fighting for a God of [[Love]] against a God of colourless and
 remote cosmic control; the God of the stoics and the agnostics.
-It was emphatically he who was fighting for the Holy Child
+It was emphatically he who was fighting for the Holy [[Child]]
 against the grey deity of the Pharisees and the Sadducees.
 He was fighting for that very balance of beautiful interdependence
-and intimacy, in the very Trinity of the Divine Nature,
+and intimacy, in the very Trinity of the Divine [[Nature]],
 that draws our hearts to the Trinity of the Holy Family.
 His dogma, if the phrase be not misunderstood, turns even God
 into a Holy Family.
 
-That this purely Christian dogma actually for a second time rebelled
-against the Empire, and actually for a second time refounded
+That this purely Christian dogma actually for a second [[Time|time]] rebelled
+against the Empire, and actually for a second [[Time|time]] refounded
 the Church in spite of the Empire, is itself a proof that there
 was something positive and personal working in the world, other than
-whatever official faith the Empire chose to adopt.  This power
-utterly destroyed the official faith that the Empire did adopt.
+whatever official [[Faith|faith]] the Empire chose to adopt.  This power
+utterly destroyed the official [[Faith|faith]] that the Empire did adopt.
 It went on its own way as it is going on its own way still.
 There are any number of other examples in which is repeated
 precisely the same process we have reviewed in the case
 of the Manichean and the Arian.  A few centuries afterwards,
 for instance, the Church had to maintain the same Trinity,
-which is simply the logical side of love, against another appearance
-of the isolated and simplified deity in the religion of Islam.
+which is simply the logical side of [[Love|love]], against another appearance
+of the isolated and simplified deity in the religion of [[Islam]].
 Yet there are some who cannot see what the Crusaders were fighting for;
-and some even who talk as if Christianity had never been anything but a
-form of what they call Hebraism coming in with the decay of Hellenism.
+and some even who talk as if [[Christianity]] had never been anything but a
+form of what they call Hebraism coming in with the [[Decay|decay]] of Hellenism.
 Those people must certainly be very much puzzled by the war
-between the Crescent and the Cross.  If Christianity had never been
-anything but a simpler morality sweeping away polytheism, there is
-no reason why Christendom should not have been swept into Islam.
-The truth is that Islam itself was a barbaric reaction against
+between the Crescent and the [[Cross]].  If [[Christianity]] had never been
+anything but a simpler [[morality]] sweeping away polytheism, there is
+no reason why Christendom should not have been swept into [[Islam]].
+The [[Truth|truth]] is that [[Islam]] itself was a barbaric reaction against
 that very humane complexity that is really a Christian character;
 that idea of balance in the deity, as of balance in the family, that makes
-that creed a sort of sanity, and that sanity the soul of civilisation.
+that creed a sort of [[Sanity|sanity]], and that [[Sanity|sanity]] the [[Soul|soul]] of civilisation.
 And that is why the Church is from the first a thing holding its own
 position and point of view, quite apart from the accidents and anarchies
 of its age.  That is why it deals blows impartially right and left,
@@ -2274,9 +2274,9 @@ could control them and could survive them.
 So might rise from their graves the great heresiarchs to confound
 their comrades of to-day. There is nothing that the critics now
 affirm that we cannot call on these great witnesses to deny.
-The modern critic will say lightly enough that Christianity was
+The modern critic will say lightly enough that [[Christianity]] was
 but a reaction into asceticism and anti-natural spirituality,
-a dance of fakirs furious against life and love.  But Manes
+a [[Dance|dance]] of fakirs furious against life and [[Love|love]].  But Manes
 the great mystic will answer them from his secret throne and cry,
 `These Christians have no right to be called spiritual;
 these Christians have no title to be called ascetics, they who
@@ -3356,47 +3356,47 @@ there has followed on that dilution, coming as out of the darkness
 in a crimson cataract, the strength of the red original wine.
 And we only say once more to-day as has been said many times
 by our fathers:  `Long years and centuries ago our fathers or the
-founders of our people drank, as they dreamed, of the blood of God.
+founders of our people drank, as they dreamed, of the [[Blood|blood]] of God.
 Long years and centuries have passed since the strength of that giant
 vintage has been anything but a legend of the age of giants.
-Centuries ago already is the dark time of the second fermentation,
+Centuries ago already is the dark [[Time|time]] of the second fermentation,
 when the wine of Catholicism turned into the vinegar of Calvinism.
 Long since that bitter drink has been itself diluted; rinsed out
 and washed away by the waters of oblivion and the wave of the world.
 Never did we think to taste again even that bitter tang of sincerity
 and the spirit, still less the richer and the sweeter strength
-of the purple vineyards in our dreams of the age of gold.
+of the purple vineyards in our [[Dreams|dreams]] of the age of gold.
 Day by day and year by year we have lowered our hopes and lessened
 our convictions; we have grown more and more used to seeing those
-vats and vineyards overwhelmed in the water-floods and the last
+vats and vineyards overwhelmed in the [[Water|water]]-floods and the last
 savour and suggestion of that special element fading like a stain
 of purple upon a sea of grey.  We have grown used to dilution,
 to dissolution, to a watering down that went on for ever.
 But 'Thou hast kept the good wine until now.''
 
 This is the final fact, and it is the most extraordinary of all.
-The faith has not only often died but it has often died of old age.
-It has not only been often killed but it has often died a natural death;
+The [[Faith|faith]] has not only often died but it has often died of old age.
+It has not only been often killed but it has often died a natural [[Death|death]];
 in the sense of coming to a natural and necessary end.
 It is obvious that it has survived the most savage and the most
 universal persecutions from the shock of the Diocletian fury to
-the shock of the French Revolution.  But it has a more strange and
+the shock of the [[French Revolution]].  But it has a more strange and
 even a more weird tenacity; it has survived not only war but peace.
 It has not only died often but degenerated often and decayed often;
 it has survived its own weakness and even its own surrender.
-We need not repeat what is so obvious about the beauty of the end
-of Christ in its wedding of youth and death.  But this is almost as if
-Christ had lived to the last possible span, had been a white-haired
-sage of a hundred and died of natural decay, and then had risen
+We need not repeat what is so obvious about the [[Beauty|beauty]] of the end
+of [[Christ]] in its wedding of youth and [[Death|death]].  But this is almost as if
+[[Christ]] had lived to the last possible span, had been a white-haired
+sage of a hundred and died of natural [[Decay|decay]], and then had risen
 again rejuvenated, with trumpets and the rending of the sky.
-It was said truly enough that human Christianity in its recurrent
+It was said truly enough that human [[Christianity]] in its recurrent
 weakness was sometimes too much wedded to the powers of the world;
 but if it was wedded it has very often been widowed.
 It is a strangely immortal sort of widow.  An enemy may have said
 at one moment that it was but an aspect of the power of the Caesars;
 and it sounds as strange to-day as to call it an aspect
 of the Pharaohs.  An enemy might say that it was the official
-faith of feudalism; and it sounds as convincing now as to say
+[[Faith|faith]] of feudalism; and it sounds as convincing now as to say
 that it was bound to perish with the ancient Roman villa.
 All these things did indeed run their course to its normal end;
 and there seemed no course for the religion but to end with them.
@@ -3407,22 +3407,22 @@ The civilisation of antiquity was the whole world:  and men
 no more dreamed of its ending than of the ending of daylight.
 They could not imagine another order unless it were in another world.
 The civilisation of the world has passed away and those words have
-not passed away.  In the long night of the Dark Ages feudalism was
+not passed away.  In the long [[Night|night]] of the Dark Ages feudalism was
 so familiar a thing that no man could imagine himself without a lord:
 and religion was so woven into that network that no man would have
 believed they could be torn asunder.  Feudalism itself was torn to rags
 and rotted away in the popular life of the true Middle Ages; and the
-first and freshest power in that new freedom was the old religion.
+first and freshest power in that new [[Freedom|freedom]] was the old religion.
 Feudalism had passed away, and the words did not pass away.
 The whole medieval order, in many ways so complete and almost cosmic
-a home for man, wore out gradually in its turn and here at least it was
+a [[Home|home]] for man, wore out gradually in its turn and here at least it was
 thought that the words would die.  They went forth across the radiant
-abyss of the Renaissance and in fifty years were using all its light
-and learning for new religious foundations, new apologetics, new saints.
+abyss of the [[Renaissance]] and in fifty years were using all its light
+and learning for new religious foundations, new [[Apologetics|apologetics]], new saints.
 It was supposed to have been withered up at last in the dry light
 of the Age of Reason; it was supposed to have disappeared ultimately
 in the earthquake of the Age of Revolution.  Science explained it away;
-and it was still there.  History disinterred it in the past;
+and it was still there.  [[history|History]] disinterred it in the past;
 and it appeared suddenly in the future.  To-day it stands once
 more in our path; and even as we watch it, it grows.
 
@@ -3430,8 +3430,8 @@ If our social relations and records retain their continuity,
 if men really learn to apply reason to the accumulating facts
 of so crushing a story, it would seem that sooner or later even
 its enemies will learn from their incessant and interminable
-disappointments not to look for anything so simple as its death.
-They may continue to war with it, but it will be as they war with nature;
+disappointments not to look for anything so simple as its [[Death|death]].
+They may continue to war with it, but it will be as they war with [[Nature|nature]];
 as they war with the landscape, as they war with the skies.
 'Heaven and earth shall pass away, but my words shall not pass away.'
 They will watch for it to stumble; they will watch for it to err;
@@ -3449,18 +3449,18 @@ CONCLUSION
 THE SUMMARY OF THIS BOOK
 
 I have taken the liberty once or twice of borrowing the excellent
-phrase about an Outline of History; though this study of a special
-truth and a special error can of course claim no sort of comparison
-with the rich and many-sided encyclopedia of history, for which that name
+phrase about an Outline of [[history|History]]; though this study of a special
+[[Truth|truth]] and a special error can of course claim no sort of comparison
+with the rich and many-sided encyclopedia of [[history]], for which that name
 was chosen.  And yet there is a certain reason in the reference:
 and a sense in which the one thing touches and even cuts across
 the other.  For the story of the world as told by Mr. Wells could
 here only be criticised as an outline.  And, strangely enough,
 it seems to me that it is only wrong as an outline.
-It is admirable as an accumulation of history; it is splendid
-as a store-house or treasure of history; it is a fascinating
-disquisition on history; it is most attractive as an amplification
-of history; but it is quite false as an outline of history.
+It is admirable as an accumulation of [[history]]; it is splendid
+as a store-[[house]] or treasure of [[history]]; it is a fascinating
+disquisition on [[history]]; it is most attractive as an amplification
+of [[history]]; but it is quite false as an outline of [[history]].
 The one thing that seems to me quite wrong about it is the outline;
 the sort of outline that can really be a single line,
 like that which makes all the difference between a caricature
@@ -3476,24 +3476,24 @@ and what stands out as an exception.
 I do not say it as a small criticism of a great writer, and I have no
 reason to do so; for in my own much smaller task I feel I have failed
 in very much the same way.  I am very doubtful whether I have conveyed
-to the reader the main point I meant about the proportions of history,
+to the reader the main point I meant about the proportions of [[history]],
 and why I have dwelt so much more on some things than others.
-I doubt whether I have clearly fulfilled the plan that I set out
+I [[Doubt|doubt]] whether I have clearly fulfilled the plan that I set out
 in the introductory chapter; and for that reason I add these lines
 as a sort of summary in a concluding chapter.  I do believe that
 the things on which I have insisted are more essential to an outline
-of history than the things which I have subordinated or dismissed.
+of [[history]] than the things which I have subordinated or dismissed.
 I do not believe that the past is most truly pictured as a thing
-in which humanity merely fades away into nature, or civilisation merely
+in which humanity merely fades away into [[Nature|nature]], or civilisation merely
 fades away into barbarism, or religion fades away into mythology,
 or our own religion fades away into the religions of the world.
 In short I do not believe that the best way to produce an outline
-of history is to rub out the lines.  I believe that, of the two,
-it would be far nearer the truth to tell the tale very simply,
-like a primitive myth about a man who made the sun and stars
-or a god who entered the body of a sacred monkey.  I will therefore
+of [[history]] is to rub out the lines.  I believe that, of the two,
+it would be far nearer the [[Truth|truth]] to tell the tale very simply,
+like a primitive myth about a man who made the sun and [[Stars|stars]]
+or a god who entered the [[Body|body]] of a sacred monkey.  I will therefore
 sum up all that has gone before in what seems to me a realistic
-and reasonably proportioned statement; the short story of mankind.
+and reasonably proportioned statement; the [[Short Story|short story]] of mankind.
 
 In the land lit by that neighbouring star, whose blaze is the broad
 daylight, there are many and very various things motionless and moving.
@@ -3504,15 +3504,15 @@ individual illusion, like one bird pluming itself on its own plumes;
 it is a solid and a many-sided thing.  It is demonstrated
 in the very speculations that have led to its being denied.
 That men, the gods of this lower world, are linked with it in
-various ways is true; but it is another aspect of the same truth.
+various ways is true; but it is another aspect of the same [[Truth|truth]].
 That they grow as the grass grows and walk as the beasts walk
 is a secondary necessity that sharpens the primary distinction.
 It is like saying that a magician must after all have the appearance
-of a man; or that even the fairies could not dance without feet.
+of a man; or that even the fairies could not [[Dance|dance]] without feet.
 It has lately been the fashion to focus the mind entirely on these mild
 and subordinate resemblances and to forget the main fact altogether.
 It is customary to insist that man resembles the other creatures.
-Yes; and that very resemblance he alone can see.  The fish does not
+Yes; and that very resemblance he [[Alone|alone]] can see.  The fish does not
 trace the fish-bone pattern in the fowls of the air; or the elephant
 and the emu compare skeletons.  Even in the sense in which man
 is at one with the universe it is an utterly lonely universality.
@@ -3520,7 +3520,7 @@ The very sense that he is united with all things is enough to sunder
 him from all.
 
 Looking around him by this unique light, as lonely as
-the literal flame that he alone has kindled, this demigod
+the literal flame that he [[Alone|alone]] has kindled, this demigod
 or demon of the visible world makes that world visible.
 He sees around him a world of a certain style or type.
 It seems to proceed by certain rules or at least repetitions.
@@ -3537,7 +3537,7 @@ This impression, whether or no it be an illusion, has so profoundly
 influenced this race of thinkers and masters of the material world,
 that the vast majority have been moved to take a certain view of
 that world.  They have concluded, rightly or wrongly, that the world
-had a plan as the tree seemed to have a plan; and an end and crown
+had a plan as the tree seemed to have a plan; and an end and [[Crown|crown]]
 like the flower.  But so long as the race of thinkers was able
 to think, it was obvious that the admission of this idea of a plan
 brought with it another thought more thrilling and even terrible.
@@ -3545,7 +3545,7 @@ There was someone else, some strange and unseen being, who had designed
 these things, if indeed they were designed.  There was a stranger
 who was also a friend; a mysterious benefactor who had been before them
 and built up the woods and hills for their coming, and had kindled
-the sunrise against their rising, as a servant kindles a fire.
+the sunrise against their rising, as a servant kindles a [[Fire|fire]].
 Now this idea of a mind that gives a meaning to the universe has
 received more and more confirmation within the minds of men,
 by meditations and experiences much more subtle and searching
@@ -3557,16 +3557,16 @@ has such a final purpose and therefore such a first cause.
 But most men in some sense separated themselves from the wisest men,
 when it came to the treatment of that idea.  There came into
 existence two ways of treating that idea, which between them made
-up most of the religious history of the world.  The majority,
+up most of the religious [[history]] of the world.  The majority,
 like the minority, had this strong sense of a second meaning
 in things; of a strange master who knew the secret of the world.
 But the majority, the mob or mass of men, naturally tended to treat it
 rather in the spirit of gossip.  The gossip, like all gossip, contained a
-great deal of truth and falsehood.  The world began to tell itself
+great deal of [[Truth|truth]] and falsehood.  The world began to tell itself
 tales about the unknown being or his sons or servants or messengers.
 Some of the tales may truly be called old wives' tales; as professing
 only to be very remote memories of the morning of the world;
-myths about the baby moon or the half-baked mountains.  Some of them
+myths about the baby [[Moon|moon]] or the half-baked [[Mountains|mountains]].  Some of them
 might more truly be called travellers' tales; as being curious but
 contemporary tales brought from certain borderlands of experience;
 such as miraculous cures or those that bring whispers of what has
@@ -3576,11 +3576,11 @@ more or less conscious that there really is something rather
 marvellous behind the cosmic curtain.  But in a sense it is only going
 by appearances; even if the appearances are called apparitions.
 It is a matter of appearances--and disappearances.
-At the most these gods are ghosts; that is, they are glimpses.
+At the most these gods are [[Ghosts|ghosts]]; that is, they are glimpses.
 For most of us they are rather gossip about glimpses.
 And for the rest, the whole world is full of rumours,
 most of which are almost avowedly romances.  The great majority
-of the tales about gods and ghosts and the invisible king are told,
+of the tales about gods and [[Ghosts|ghosts]] and the invisible [[King|king]] are told,
 if not for the sake of the tale, at least for the sake of the topic.
 They are evidence of the eternal interest of the theme; they are
 not evidence of anything else, and they are not meant to be.
@@ -3600,7 +3600,7 @@ doubted it altogether.  One or two of the more morbid fancied
 that it might be evil and an enemy; just one or two of the more
 degraded in the other class worshipped demons instead of gods.
 But most of these theorists were theists:  and they not only saw a moral
-plan in nature, but they generally laid down a moral plan for humanity.
+plan in [[Nature|nature]], but they generally laid down a moral plan for humanity.
 Most of them were good men who did good work:  and they were
 remembered and reverenced in various ways.  They were scribes;
 any their scriptures became more or less holy scriptures.
@@ -3617,7 +3617,7 @@ Divine Plato, like Divus Ceasar, was a title and not a dogma.
 In Asia, where the atmosphere was more mythological, the man
 was made to look more like a myth, but he remained a man.
 He remained a man of a certain social class or school of men,
-receiving and deserving great honour from mankind.
+receiving and deserving great [[Honour|honour]] from mankind.
 It is the order or school of the philosophers; the men who have set
 themselves seriously to trace the order across any apparent chaos
 in the vision of life.  Instead of living on imaginative rumours
@@ -3637,7 +3637,7 @@ of historic times, there did walk into the world this original
 invisible being; about whom the thinkers make theories and
 the mythologists hand down myths; the Man Who Made the World.
 That such a higher personality exists behind all things had
-indeed always been implied by all the best thinkers, as well
+indeed always been implied by all the best thinkers, as [[Well|well]]
 as by all the most beautiful legends.  But nothing of this sort
 had ever been implied in any of them.  It is simply false to say
 that the other sages and heroes had claimed to be that mysterious
@@ -3645,28 +3645,28 @@ master and maker, of whom the world had dreamed and disputed.
 Not one of them had ever claimed to be anything of the sort.
 Not one of their sects or schools had even claimed that they had
 claimed to be anything of the sort.  The most that any religious
-prophet had said was that he was the true servant of such a being.
+[[Prophet|prophet]] had said was that he was the true servant of such a being.
 The most that any visionary had ever said was that men might catch
 glimpses of the glory of that spiritual being; or much more often
 of lesser spiritual beings.  The most that any primitive myth had
 even suggested was that the Creator was present at the Creation.
 But that the Creator was present at scenes a little subsequent
 to the supper-parties of Horace, and talked with tax-collectors and
-government officials in the detailed daily life of the Roman Empire,
+[[government]] officials in the detailed daily life of the Roman Empire,
 and that this fact continued to be firmly asserted by the whole
 of that great civilisation for more than a thousand years--
-that is something utterly unlike anything else in nature.
+that is something utterly unlike anything else in [[Nature|nature]].
 It is the one great startling statement that man has made since he spoke
 his first articulate word, instead of barking like a dog.  Its unique
-character can be used as an argument against it as well as for it.
+character can be used as an argument against it as [[Well|well]] as for it.
 It would be easy to concentrate on it as a case of isolated insanity;
-but it makes nothing but dust and nonsense of comparative religion.
+but it makes nothing but [[Dust|dust]] and nonsense of comparative religion.
 
-It came on the world with a wind and rush of running messengers
+It came on the world with a [[Wind|wind]] and rush of running messengers
 proclaiming that apocalyptic portent, and it is not unduly fanciful
 to say that they are running still.  What puzzles the world,
 and its wise philosophers and fanciful pagan poets, about the priests
-and people of the Catholic Church is that they still behave
+and people of the [[Catholic Church]] is that they still behave
 as if they were messengers.  A messenger does not dream about what
 his message might be, or argue about what it probably would be;
 he delivers it as it is.  It is not a theory or a fancy but a fact.
@@ -3676,10 +3676,10 @@ that these messengers do deal with it as men deal with a fact.
 All that is condemned in Catholic tradition, authority, and dogmatism
 and the refusal to retract and modify, are but the natural
 human attributes of a man with a message relating to a fact.
-I desire to avoid in this last summary all the controversial complexities
+I [[Desire|desire]] to avoid in this last summary all the controversial complexities
 that may once more cloud the simple lines of that strange story;
 which I have already called, in words that are much too weak,
-the strangest story in the world.  I desire merely to mark those main
+the strangest story in the world.  I [[Desire|desire]] merely to mark those main
 lines and specially to mark where the great line is really to be drawn.
 The religion of the world, in its right proportions, is not divided into
 fine shades of mysticism or more or less rational forms of mythology.
@@ -3687,7 +3687,7 @@ It is divided by the line between the men who are bringing that message
 and the men who have not yet heard it, or cannot yet believe it.
 
 But when we translate the terms of that strange tale back into the more
-concrete and complicated terminology of our time, we find it covered
+concrete and complicated terminology of our [[Time|time]], we find it covered
 by names and memories of which the very familiarity is a falsification.
 For instance, when we say that a country contains so many Moslems,
 we really mean that it contains so many monotheists; and we really mean,
@@ -3696,11 +3696,11 @@ assumption of men--that the invisible ruler remains invisible.
 They hold it along with the customs of a certain culture and under
 the simpler laws of a certain law-giver; but so they would if their
 law-giver were Lycurgus or Solon.  They testify to something
-which is a necessary and noble truth; but was never a new truth.
+which is a necessary and noble [[Truth|truth]]; but was never a new [[Truth|truth]].
 Their creed is not a new colour; it is the neutral and normal
 tint that is the background of the many-coloured life of man.
 Mahomet did not, like the Magi, find a new star; he saw through
-his own particular window a glimpse of the great grey field of
+his own particular [[Window|window]] a glimpse of the great grey field of
 the ancient starlight.  So when we say that the country contains
 so many Confucians or Buddhists, we mean it contains so many pagans
 whose prophets have given them another and rather vaguer version of
@@ -3717,13 +3717,13 @@ any good news; for the simple reason that nobody else has any news.
 
 Those runners gather impetus as they run.  Ages afterwards
 they still speak as if something had just happened.
-They have not lost the speed and momentum of messengers;
+They have not lost the [[Speed|speed]] and momentum of messengers;
 they have hardly lost, as it were, the wild eyes of witnesses.
-In the Catholic Church, which is the cohort of the message,
+In the [[Catholic Church]], which is the cohort of the message,
 there are still those headlong acts of holiness that speak of
-something rapid and recent; a self-sacrifice that startles the world
-like a suicide.  But it is not a suicide; it is not pessimistic;
-it is still as optimistic as St. Francis of the flowers and birds.
+something rapid and recent; a [[Self-Sacrifice|self-sacrifice]] that startles the world
+like a [[suicide]].  But it is not a [[suicide]]; it is not pessimistic;
+it is still as optimistic as St. Francis of the [[Flowers|flowers]] and [[Birds|birds]].
 It is newer in spirit than the newest schools of thought;
 and it is almost certainly on the eve of new triumphs.
 For these men serve a mother who seems to grow more beautiful
@@ -3731,28 +3731,28 @@ as new generations rise up and call her blessed.  We might sometimes
 fancy that the Church grows younger as the world grows old.
 
 For this is the last proof of the miracle; that something so
-supernatural should have become so natural.  I mean that anything
+[[Supernatural|supernatural]] should have become so natural.  I mean that anything
 so unique when seen from the outside should only seem universal
 when seen from the inside.  I have not minimised the scale of
 the miracle, as some of our wilder theologians think it wise to do.
 Rather have I deliberately dwelt on that incredible interruption,
-as a blow that broke the very backbone of history.  I have great
+as a blow that broke the very backbone of [[history]].  I have great
 sympathy with the monotheists, the Moslems, or the Jews, to whom
 it seems a blasphemy; a blasphemy that might shake the world.
 But it did not shake the world; it steadied the world.  That fact,
 the more we consider it, will seem more solid and more strange.
 I think it a piece of plain justice to all the unbelievers to insist
-upon the audacity of the act of faith that is demanded of them.
+upon the audacity of the act of [[Faith|faith]] that is demanded of them.
 I willingly and warmly agree that it is, in itself, a suggestion
 at which we might expect even the brain of the believer to reel,
 when he realised his own belief.  But the brain of the believer
 does not reel; it is the brains of the unbelievers that reel.
 We can see their brains reeling on every side and into every
 extravagance of ethics and psychology; into pessimism and
-the denial of life; into pragmatism and the denial of logic;
+the denial of life; into pragmatism and the denial of [[logic]];
 seeking their omens in nightmares and their canons in contradictions;
-shrieking for fear at the far-off sight of things beyond good and evil,
-or whispering of strange stars where two and two make five.
+shrieking for [[Fear|fear]] at the far-off sight of things beyond good and evil,
+or whispering of strange [[Stars|stars]] where two and two make five.
 Meanwhile this solitary thing that seems at first so outrageous in
 outline remains solid and sane in substance.  It remains the moderator
 of all these manias; rescuing reason from the Pragmatists exactly as it
@@ -3766,15 +3766,15 @@ But the man who says he is glass is not a glazier making windows
 for all the world.  He does not remain for after ages as a shining and
 crystalline figure, in whose light everything is as clear as crystal.
 
-But this madness has remained sane.  The madness has remained sane
-when everything else went mad.  The madhouse has been a house to which,
-age after age, men are continually coming back as to a home.
-That is the riddle that remains; that anything so abrupt and
+But this [[Madness|madness]] has remained sane.  The [[Madness|madness]] has remained sane
+when everything else went mad.  The madhouse has been a [[house]] to which,
+age after age, men are continually coming back as to a [[Home|home]].
+That is the [[Riddle|riddle]] that remains; that anything so abrupt and
 abnormal should still be found a habitable and hospitable thing.
 I care not if the sceptic says it is a tall story; I cannot see
 how so toppling a tower could stand so long without foundation.
 Still less can I see how it could become, as it has become,
-the home of man.  Had it merely appeared and disappeared,
+the [[Home|home]] of man.  Had it merely appeared and disappeared,
 it might possibly have been remembered or explained as the last leap
 of the rage of illusion, the ultimate myth of the ultimate mood,
 in which the mind struck the sky and broke.  But the mind did not break.
@@ -3785,15 +3785,15 @@ an ecstasy could not endure for an hour.  It has endured for nearly
 two thousand years; and the world within it has been more lucid,
 more level-headed, more reasonable in its hopes, more healthy
 in its instincts, more humorous and cheerful in the face of fate
-and death, than all the world outside.  For it was the soul of
-Christendom that came forth from the incredible Christ; and the soul
+and [[Death|death]], than all the world outside.  For it was the [[Soul|soul]] of
+Christendom that came forth from the incredible [[Christ]]; and the [[Soul|soul]]
 of it was common sense.  Though we dared not look on His face we
 could look on His fruits; and by His fruits we should know Him.
 The fruits are solid and the fruitfulness is much more than a metaphor;
 and nowhere in this sad world are boys happier in apple-trees,
-or men in more equal chorus singing as they tread the vine,
+or men in more equal [[Chorus|chorus]] singing as they tread the vine,
 than under the fixed flash of this instant and intolerant enlightenment;
-the lightning made eternal as the light.
+the [[Lightning|lightning]] made eternal as the light.
 
 * * *
 
@@ -3810,16 +3810,16 @@ are forgotten almost as quickly.  Its moral, in a manner of speaking,
 is that first thoughts are best; so a flash might reveal a landscape;
 with the Eiffel Tower or the Matterhorn standing up in it
 as they would never stand up again in the light of common day.
-I ended the book with an image of everlasting lightning;
+I ended the book with an image of everlasting [[Lightning|lightning]];
 in a very different sense, alas, this little flash has lasted
 only too long.  But the method has also certain practical
-disadvantages upon which I think it well to add these two notes.
+disadvantages upon which I think it [[Well|well]] to add these two notes.
 It may seem to simplify too much and to ignore out of ignorance.
 I feel this especially in the passage about the prehistoric pictures;
 which is not concerned with all that the learned may learn from
 prehistoric pictures, but with the single point of what anyone
 could learn from there being any prehistoric pictures at all.
-I am conscious that this attempt to express it in terms of innocence
+I am conscious that this attempt to express it in terms of [[innocence]]
 may exaggerate even my own ignorance.  Without any pretence of
 scientific research or information, I should be sorry to have it
 thought that I knew no more than what was needed, in that passage,
@@ -3834,20 +3834,20 @@ of religion, will gain little indeed from these later revelations
 about the precursors of the reindeer picture-maker. The learned
 appear to hold that, whether the reindeer picture could be religious
 or not, the people that lived before it were religious already;
-burying their dead with the significant signs of mystery and hope.
+burying their dead with the significant signs of mystery and [[Hope|hope]].
 This obviously brings us back to the same argument; an argument
 that is not approached by any measurement of the earlier man's skull.
 It is little use here to compare the head of the man with
 the head of the monkey, if it certainly never came into the head
-of the monkey to bury another monkey with nuts in his grave
-to help him towards a heavenly monkey house.  Talking of skulls,
+of the monkey to bury another monkey with nuts in his [[Grave|grave]]
+to help him towards a heavenly monkey [[house]].  Talking of skulls,
 I am also aware of the story of the Cro-Magnon skull that was much
 larger and finer than a modern skull.  It is a very funny story;
 because an eminent evolutionist, awakening to a somewhat belated caution,
 protested against anything being inferred from one specimen.
 It is the duty of a solitary skull to prove that our fathers were
 our inferiors.  Any solitary skull presuming to prove that they
-were superior is felt to be suffering from swelled head.
+were superior is felt to be [[Suffering|suffering]] from swelled head.
 
 * * *
 
@@ -3861,7 +3861,7 @@ that I have sometimes given an impression of scoffing at serious
 scientific work.  It was however the very reverse of my intentions.
 I am not arguing with the scientist who explains the elephant,
 but only with the sophist who explains it away.  And as a matter
-of fact the sophist plays to the gallery, as he did in ancient Greece.
+of fact the sophist plays to the gallery, as he did in [[Ancient Greece|ancient Greece]].
 He appeals to the ignorant, especially when he appeals to the learned.
 But I never meant my own criticism to be an impertinence to
 the truly learned.  We all owe an infinite debt to the researches,
@@ -3871,7 +3871,7 @@ here and there from them.  I have not loaded my abstract argument
 with quotations and references, which only make a man look more
 learned than he is; but in some cases I find that my own loose
 fashion of allusion is rather misleading about my own meaning.
-The passage about Chaucer and the Child Martyr is badly expressed;
+The passage about Chaucer and the [[Child]] Martyr is badly expressed;
 I only mean that the English poet probably had in mind the
 English saint; of whose story he gives a sort of foreign version.
 In the same way two statements in the chapter on Mythology follow each
@@ -3887,5 +3887,5 @@ But the confusion was not intentional; still less was there any intention
 to imply, in the remainder of the chapter, that the anthropological
 speculations about races are less valuable than they undoubtedly are.
 My criticism is strictly relative; I may say that the pyramids are
-plainer than the tracks of the desert; without denying that wiser
+plainer than the tracks of the [[Desert|desert]]; without denying that wiser
 men than I may see tracks in what is to me the trackless sand.

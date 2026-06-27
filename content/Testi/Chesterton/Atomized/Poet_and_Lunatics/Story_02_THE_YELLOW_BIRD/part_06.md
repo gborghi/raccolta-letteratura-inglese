@@ -18,23 +18,23 @@ As he spoke, he sprang from the wall and alighted beside them,
 and his friend, catching his face in a new light, saw that it
 was quite pale.
 
-"What's the matter with you?" he demanded.  "Have you seen a ghost?"
+"What's the matter with you?" he demanded.  "Have you seen a [[Ghost|ghost]]?"
 
-"The ghost of a fish," answered the poet; "three little grey ghosts
+"The [[Ghost|ghost]] of a fish," answered the poet; "three little grey [[Ghosts|ghosts]]
 of three little fishes.  We must get away at once."
 
 Without turning his head again, he led the way up the rising ground
-beyond the garden towards the clump of trees where the party
+beyond the [[Garden|garden]] towards the clump of trees where the party
 had first encamped.  Both Mallow and the girl pursued him
 with questions; but to only one of them did he give any answer.
-When Laura insisted on knowing whether her mother had come home yet,
+When Laura insisted on knowing whether her mother had come [[Home|home]] yet,
 he answered shortly, "No; thank God!  I sent Garth off to stop
-her on the road from the village.  She's all right, anyhow."
+her on the [[Road|road]] from the village.  She's all right, anyhow."
 
 But Laura Verney was a lady who could not be indefinitely dragged
 at the tail of a total stranger talking in a tone of authority;
-and by the time they came to the top of a hill, and the trees
-in whose shadow the poet had indulged in his meditations on birds,
+and by the [[Time|time]] they came to the top of a [[Hill|hill]], and the trees
+in whose [[Shadow|shadow]] the poet had indulged in his meditations on [[Birds|birds]],
 she halted and resolutely demanded his reasons.
 
 "I won't go a step farther," she said firmly, "till you've given
@@ -46,8 +46,8 @@ He turned with passion in his pale face.
 The foot-prints of the remarkable boots.  The bloody
 finger-print carefully compared with the one at Scotland Yard.
 The conveniently mislaid matchbox, and the ashes of the unique tobacco.
-Do you suppose I've never read any detective stories?
-Well, I haven't got any proofs... of that sort.  I haven't got
+Do you suppose I've never read any [[Detective|detective]] stories?
+[[Well]], I haven't got any proofs... of that sort.  I haven't got
 any proofs at all, in that sense.  If I told you my reasons,
 you'd think them the most rambling nonsense in the world.
 You must either do as I tell you and thank me afterwards;
@@ -61,17 +61,17 @@ and after a moment's pause, he said:
 I know you generally have pretty good ones, really."
 
 Gale's eyes wandered from the staring face of the girl to that of
-his friend, and then to the drift of dead leaves under the tree
+his friend, and then to the drift of dead [[Leaves|leaves]] under the tree
 where he had once rested.
 
 "I was lying there looking up at the sky, or, rather, the tree-tops,"
 he said slowly.  "I didn't hear what the others were talking about,
-because I was listening to the birds and looking at them.
+because I was listening to the [[Birds|birds]] and looking at them.
 You know what happens when you go on staring at something
 like that; it turns into a sort of pattern like a wall-paper;
 and this was a quiet pattern of green and grey and brown.
 It seemed as if the whole world was that pattern; as if God had never
-made anything except a world of birds; of tree-tops hung in space."
+made anything except a world of [[Birds|birds]]; of tree-tops hung in space."
 
 Laura made a half-protest that sounded like a laugh, but Mallow
 said steadily:  "Go on!"
@@ -85,45 +85,45 @@ It was a canary."
 The girl, who had already turned away, looked back at him with her
 first flash of interest.
 
-"I wondered vaguely how a canary would get on in the world of birds, and
+"I wondered vaguely how a canary would get on in the world of [[Birds|birds]], and
 how it had got there.  I didn't think of any human being in particular.
 Only I saw in a sort of vision, somewhere against the morning sky,
-a window standing open, and the door of a cage standing open.
-Then I saw that all the brown birds were trying to kill the yellow one,
+a [[Window|window]] standing open, and the door of a cage standing open.
+Then I saw that all the brown [[Birds|birds]] were trying to kill the yellow one,
 and that started my thoughts off as it might anybody's. Is it
 always kind to set a bird at liberty?  What exactly is liberty?
 First and foremost, surely, it is the power of a thing to be itself.
 In some ways the yellow bird was free in the cage.  It was free
-to be alone.  It was free to sing.  In the forest its feathers would
+to be [[Alone|alone]].  It was free to sing.  In the forest its feathers would
 be torn to pieces and its voice choked for ever.  Then I began
 to think that being oneself, which is liberty, is itself limitation.
 We are limited by our brains and bodies; and if we break out,
 we cease to be ourselves, and, perhaps, to be anything.
 That was when I asked you whether an isosceles triangle felt itself
-in prison, and if there were such a thing as a round prison.
-We shall hear more of the round prison before this story is over.
+in [[Prison|prison]], and if there were such a thing as a round [[Prison|prison]].
+We shall hear more of the round [[Prison|prison]] before this story is over.
 
 "Then I saw the man on the roof, with his hands spread like wings
 to the sky.  I knew nothing of him; but I knew on the instant
-that he was the man who had given a bird its freedom at any risk.
-As we went down the hill I heard a little more about him;
-how he had escaped by blowing up his prison; and I felt that one fact
-had filled all his life with a philosophy of emancipation and escape.
+that he was the man who had given a bird its [[Freedom|freedom]] at any risk.
+As we went down the [[Hill|hill]] I heard a little more about him;
+how he had escaped by blowing up his [[Prison|prison]]; and I felt that one fact
+had filled all his life with a [[philosophy]] of emancipation and escape.
 Always at the back of his mind, I was certain, was that one bursting
 moment when he saw white daylight shining through the shattered wall.
-I knew why he let birds out of cages and why he had written a book
-on the psychology of liberty.  Then I stopped outside a window
+I knew why he let [[Birds|birds]] out of cages and why he had written a book
+on the psychology of liberty.  Then I stopped outside a [[Window|window]]
 to stare at those gorgeous goldfish, merely because I had a fancy
 for such things; they coloured my thoughts, so to speak, with a sort
 of orange or scarlet, for long afterwards.  And long afterwards I
-was again passing that window; and I found their colours were faded
-and their positions changed.  At that time it was already dark,
-with a rising moon; and what forms I could see scattered in the shadow
+was again passing that [[Window|window]]; and I found their colours were faded
+and their positions changed.  At that [[Time|time]] it was already dark,
+with a rising [[Moon|moon]]; and what forms I could see scattered in the [[Shadow|shadow]]
 seemed almost grey, and even outlined in lines of grey light,
 which might have been moonlight, but I think was the corpse-light
 of phosphorescence.  They lay scattered at random on the round table;
 and I saw by the faint glimmer that the glass bowl was broken.
-So I found my romance when I returned to it; for those fantastic
+So I found my [[Romance|romance]] when I returned to it; for those fantastic
 fishes had been to me like the hieroglyphics of a message,
 which the fiery finger of God had thus written in red-hot gold.
 But when I looked again, the finger had written another lesson in letters

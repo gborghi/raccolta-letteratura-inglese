@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 10"
+title: "[[The Professor]] — Chapter 10"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -24,9 +24,9 @@ wanted the afternoon to come that I might go again to the neighbouring
 
 pensionnat and give my first lesson within its pleasant precincts; for
 
-pleasant they appeared to me. At noon the hour of recreation arrived; at
+pleasant they appeared to me. At [[Noon|noon]] the hour of recreation arrived; at
 
-one o’clock we had lunch; this got on the time, and at last St. Gudule’s
+one o’[[Clock|clock]] we had lunch; this got on the [[Time|time]], and at last St. Gudule’s
 
 deep bell, tolling slowly two, marked the moment for which I had been
 
@@ -88,7 +88,7 @@ sound.
 
 Again I stood at the neighbouring door, and soon was re-admitted into
 
-the cheerful passage with its clear dove-colour imitation marble walls.
+the cheerful passage with its clear dove-colour [[Imitation|imitation]] marble walls.
 
 I followed the portress, and descending a step, and making a turn, I
 
@@ -102,7 +102,7 @@ her compact round shape to perfection--delicate little collar and
 
 manchettes of lace, trim Parisian brodequins showed her neck, wrists,
 
-and feet, to complete advantage; but how grave was her face as she
+and feet, to complete advantage; but how [[Grave|grave]] was her face as she
 
 came suddenly upon me! Solicitude and business were in her eye--on her
 
@@ -132,7 +132,7 @@ unsettled.”
 
 She was quite right, as I had found from experience; it only remained
 
-for me to acquiesce. We proceeded now in silence. The corridor
+for me to acquiesce. We proceeded now in [[Silence|silence]]. The corridor
 
 terminated in a hall, large, lofty, and square; a glass door on one side
 
@@ -140,7 +140,7 @@ showed within a long narrow refectory, with tables, an armoire, and
 
 two lamps; it was empty; large glass doors, in front, opened on the
 
-playground and garden; a broad staircase ascended spirally on the
+playground and [[Garden|garden]]; a broad staircase ascended spirally on the
 
 opposite side; the remaining wall showed a pair of great folding-doors,
 
@@ -152,7 +152,7 @@ Mdlle. Reuter turned her eye laterally on me, to ascertain, probably,
 
 whether I was collected enough to be ushered into her sanctum sanctorum.
 
-I suppose she judged me to be in a tolerable state of self-government,
+I suppose she judged me to be in a tolerable state of [[Self|self]]-[[government]],
 
 for she opened the door, and I followed her through. A rustling sound of
 
@@ -170,13 +170,13 @@ At the back of the estrade, and attached to a moveable partition
 
 dividing this schoolroom from another beyond, was a large tableau of
 
-wood painted black and varnished; a thick crayon of white chalk lay on
+wood painted black and varnished; a thick crayon of white [[chalk]] lay on
 
 my desk for the convenience of elucidating any grammatical or verbal
 
 obscurity which might occur in my lessons by writing it upon the
 
-tableau; a wet sponge appeared beside the chalk, to enable me to efface
+tableau; a wet sponge appeared beside the [[chalk]], to enable me to efface
 
 the marks when they had served the purpose intended.
 
@@ -198,7 +198,7 @@ And first I observed that Mdlle. Reuter had already glided away, she
 
 was nowhere visible; a maitresse or teacher, the one who occupied the
 
-corresponding estrade to my own, alone remained to keep guard over me;
+corresponding estrade to my own, [[Alone|alone]] remained to keep guard over me;
 
 she was a little in the shade, and, with my short sight, I could only
 
@@ -208,7 +208,7 @@ and that her attitude, as she sat, partook equally of listlessness and
 
 affectation. More obvious, more prominent, shone on by the full light of
 
-the large window, were the occupants of the benches just before me, of
+the large [[Window|window]], were the occupants of the benches just before me, of
 
 whom some were girls of fourteen, fifteen, sixteen, some young women
 
@@ -262,7 +262,7 @@ whisperers, and I did not scruple to take a very steady look at them as
 
 they emerged from their temporary eclipse. It is astonishing what ease
 
-and courage their little phrases of flippancy had given me; the idea by
+and [[Courage|courage]] their little phrases of flippancy had given me; the idea by
 
 which I had been awed was that the youthful beings before me, with their
 
@@ -278,7 +278,7 @@ The three I allude to were just in front, within half a yard of my
 
 estrade, and were among the most womanly-looking present. Their names
 
-I knew afterwards, and may as well mention now; they were Eulalie,
+I knew afterwards, and may as [[Well|well]] mention now; they were Eulalie,
 
 Hortense, Caroline. Eulalie was tall, and very finely shaped: she was
 
@@ -294,7 +294,7 @@ or flush the equality of her pale, clear skin; her noble bust heaved
 
 with her regular breathing, her eyes moved a little--by these evidences
 
-of life alone could I have distinguished her from some large handsome
+of life [[Alone|alone]] could I have distinguished her from some large handsome
 
 figure moulded in wax. Hortense was of middle size and stout, her
 
@@ -314,9 +314,9 @@ very dark eyes, absolutely regular features, with a colourless olive
 
 complexion, clear as to the face and sallow about the neck, formed in
 
-her that assemblage of points whose union many persons regard as the
+her that assemblage of points whose [[Union|union]] many persons regard as the
 
-perfection of beauty. How, with the tintless pallor of her skin and the
+perfection of [[Beauty|beauty]]. How, with the tintless pallor of her skin and the
 
 classic straightness of her lineaments, she managed to look sensual, I
 
@@ -324,7 +324,7 @@ don’t know. I think her lips and eyes contrived the affair between
 
 them, and the result left no uncertainty on the beholder’s mind. She was
 
-sensual now, and in ten years’ time she would be coarse--promise plain
+sensual now, and in ten years’ [[Time|time]] she would be coarse--promise plain
 
 was written in her face of much future folly.
 
@@ -336,9 +336,9 @@ with still less. Eulalie raised her unmoved eye to mine, and seemed to
 
 expect, passively but securely, an impromptu tribute to her majestic
 
-charms. Hortense regarded me boldly, and giggled at the same time, while
+charms. Hortense regarded me boldly, and giggled at the same [[Time|time]], while
 
-she said, with an air of impudent freedom--
+she said, with an air of impudent [[Freedom|freedom]]--
 
 
 
@@ -348,17 +348,17 @@ she said, with an air of impudent freedom--
 
 Caroline shook her loose ringlets of abundant but somewhat coarse hair
 
-over her rolling black eyes; parting her lips, as full as those of a
+over her [[rolling]] black eyes; parting her lips, as full as those of a
 
-hot-blooded Maroon, she showed her well-set teeth sparkling between
+hot-blooded Maroon, she showed her [[Well|well]]-set teeth sparkling between
 
-them, and treated me at the same time to a smile “de sa facon.”
+them, and treated me at the same [[Time|time]] to a smile “de sa facon.”
 
  Beautiful as Pauline Borghese, she looked at the moment scarcely purer
 
-than Lucrece de Borgia. Caroline was of noble family. I heard her
+than [[Lucrece]] de Borgia. Caroline was of noble family. I heard her
 
-lady-mother’s character afterwards, and then I ceased to wonder at the
+lady-mother’s character afterwards, and then I ceased to [[Wonder|wonder]] at the
 
 precocious accomplishments of the daughter. These three, I at once saw,
 
@@ -412,15 +412,15 @@ dit-on point et virgule en Anglais, monsieur?”
 
 Here a general murmur arose, and the teacher, opening her lips for the
 
-first time, ejaculated--
+first [[Time|time]], ejaculated--
 
 
 
-“Silence, mesdemoiselles!”
+“[[Silence]], mesdemoiselles!”
 
 
 
-No silence followed--on the contrary, the three ladies in front began to
+No [[Silence|silence]] followed--on the contrary, the three ladies in front began to
 
 talk more loudly.
 
@@ -446,7 +446,7 @@ class; it was necessary to take prompt measures.
 
 “Donnez-moi votre cahier,” said I to Eulalie in an abrupt tone; and
 
-bending over, I took it before she had time to give it.
+bending over, I took it before she had [[Time|time]] to give it.
 
 
 
@@ -456,9 +456,9 @@ addressing a little pale, plain looking girl who sat in the first row of
 
 the other division, and whom I had remarked as being at once the ugliest
 
-and the most attentive in the room; she rose up, walked over to me, and
+and the most attentive in the room; she [[Rose|rose]] up, walked over to me, and
 
-delivered her book with a grave, modest curtsey. I glanced over the
+delivered her book with a [[Grave|grave]], modest curtsey. I glanced over the
 
 two dictations; Eulalie’s was slurred, blotted, and full of silly
 
@@ -496,7 +496,7 @@ convenient to me, and the rest of my lesson passed without interruption.
 
 A bell clanging out in the yard announced the moment for the cessation
 
-of school labours. I heard our own bell at the same time, and that of a
+of school labours. I heard our own bell at the same [[Time|time]], and that of a
 
 certain public college immediately after. Order dissolved instantly; up
 
@@ -540,7 +540,7 @@ Brussels.
 
 
 
-“Well, you have given your first lesson,” began Mdlle. Reuter in the
+“[[Well]], you have given your first lesson,” began Mdlle. Reuter in the
 
 most calm, equable voice, as though quite unconscious of the chaos from
 
@@ -632,9 +632,9 @@ she was applying now this test, now that, hoping in the end to find some
 
 chink, some niche, where she could put in her little firm foot and stand
 
-upon my neck--mistress of my nature. Do not mistake me, reader, it was
+upon my neck--mistress of my [[Nature|nature]]. Do not mistake me, reader, it was
 
-no amorous influence she wished to gain--at that time it was only the
+no amorous influence she wished to gain--at that [[Time|time]] it was only the
 
 power of the politician to which she aspired; I was now installed as a
 
@@ -686,7 +686,7 @@ a specimen, and a most sensible and respectable specimen, too, whose
 
 staple ingredient is abstract reason. No Talleyrand was ever more
 
-passionless than Zoraide Reuter!” So I thought then; I found
+passionless than [[Zoraide Reuter]]!” So I thought then; I found
 
 afterwards that blunt susceptibilities are very consistent with strong
 

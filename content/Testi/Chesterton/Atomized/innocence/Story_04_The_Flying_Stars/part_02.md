@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Flying Stars (part 2)"
+title: "[[innocence]] — The Flying [[Stars]] (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/innocence-(Chesterton)"
@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-In the large entrance hall of the house there was ample
+In the large entrance hall of the [[house]] there was ample
 room even for Sir Leopold and the removal of his wraps.
 Porch and vestibule, indeed, were unduly large in proportion
-to the house, and formed, as it were, a big room with the front
-door at one end, and the bottom of the staircase at the other.
-In front of the large hall fire, over which hung the colonel's sword,
+to the [[house]], and formed, as it were, a big room with the front
+door at one end, and the [[Bottom|bottom]] of the staircase at the other.
+In front of the large hall [[Fire|fire]], over which hung the colonel's [[Sword|sword]],
 the process was completed and the company, including the saturnine Crook,
 presented to Sir Leopold Fischer.  That venerable financier, however,
-still seemed struggling with portions of his well-lined attire,
+still seemed struggling with portions of his [[Well|well]]-lined attire,
 and at length produced from a very interior tail-coat pocket,
 a black oval case which he radiantly explained to be his Christmas
 present for his god-daughter. With an unaffected vain-glory
@@ -30,17 +30,17 @@ that had something disarming about it he held out the case
 before them all; it flew open at a touch and half-blinded them.
 It was just as if a crystal fountain had spurted in their eyes.
 In a nest of orange velvet lay like three eggs, three white and vivid
-diamonds that seemed to set the very air on fire all round them.
+diamonds that seemed to set the very air on [[Fire|fire]] all round them.
 Fischer stood beaming benevolently and drinking deep of the astonishment
 and ecstasy of the girl, the grim admiration and gruff thanks
-of the colonel, the wonder of the whole group.
+of the colonel, the [[Wonder|wonder]] of the whole group.
 
 "I'll put 'em back now, my dear," said Fischer, returning the case
 to the tails of his coat.  "I had to be careful of 'em coming down.
-They're the three great African diamonds called `The Flying Stars,'
+They're the three great African diamonds called `The Flying [[Stars]],'
 because they've been stolen so often.  All the big criminals are on the track;
 but even the rough men about in the streets and hotels could hardly have
-kept their hands off them.  I might have lost them on the road here.
+kept their hands off them.  I might have lost them on the [[Road|road]] here.
 It was quite possible."
 
 "Quite natural, I should say," growled the man in the red tie.
@@ -53,7 +53,7 @@ in a curious glow.  "You've only talked like that since you
 became a horrid what's-his-name. You know what I mean.
 What do you call a man who wants to embrace the chimney-sweep?"
 
-"A saint," said Father Brown.
+"A saint," said [[Father Brown]].
 
 "I think," said Sir Leopold, with a supercilious smile,
 "that Ruby means a Socialist."
@@ -80,8 +80,8 @@ entirely with soot--applied externally."
 
 The boisterous Canadian, Mr. Blount, was lifting his loud voice
 in applause, and the astonished financier his (in some considerable
-deprecation), when a knock sounded at the double front doors.
-The priest opened them, and they showed again the front garden of evergreens,
+deprecation), when a knock sounded at the [[Double|double]] front doors.
+The priest opened them, and they showed again the front [[Garden|garden]] of evergreens,
 monkey-tree and all, now gathering gloom against a gorgeous violet sunset.
 The scene thus framed was so coloured and quaint, like a back scene in a play,
 that they forgot a moment the insignificant figure standing in the door.
@@ -100,21 +100,21 @@ that famous French acrobat and comic actor; I knew him years ago out West
 though I hardly guess what."
 
 "Of course, of course," replied the colonel carelessly--"My dear chap,
-any friend of yours.  No doubt he will prove an acquisition."
+any friend of yours.  No [[Doubt|doubt]] he will prove an acquisition."
 
 "He'll black his face, if that's what you mean," cried Blount, laughing.
-"I don't doubt he'd black everyone else's eyes.  I don't care;
+"I don't [[Doubt|doubt]] he'd black everyone else's eyes.  I don't care;
 I'm not refined.  I like the jolly old pantomime where a man sits
 on his top hat."
 
 "Not on mine, please," said Sir Leopold Fischer, with dignity.
 
-"Well, well," observed Crook, airily, "don't let's quarrel.
+"[[Well]], [[Well|well]]," observed Crook, airily, "don't let's quarrel.
 There are lower jokes than sitting on a top hat."
 
 Dislike of the red-tied youth, born of his predatory opinions
 and evident intimacy with the pretty godchild, led Fischer to say,
-in his most sarcastic, magisterial manner:  "No doubt you
+in his most sarcastic, magisterial manner:  "No [[Doubt|doubt]] you
 have found something much lower than sitting on a top hat.
 What is it, pray?"
 
@@ -131,6 +131,6 @@ blazed in my brain like a bonfire ever since.  I came back to
 the old country only last year, and I find the thing's extinct.
 Nothing but a lot of snivelling fairy plays.  I want a hot
 poker and a policeman made into sausages, and they give me
-princesses moralising by moonlight, Blue Birds, or something.
+princesses moralising by moonlight, Blue [[Birds]], or something.
 Blue Beard's more in my line, and him I like best when he turned
 into the pantaloon."

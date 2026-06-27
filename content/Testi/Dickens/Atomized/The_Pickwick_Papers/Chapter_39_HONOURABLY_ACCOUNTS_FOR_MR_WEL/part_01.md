@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 37: HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY (part 1)"
+title: "The [[Pickwick]] Papers — Chapter 37: HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 CHAPTER XXXVII. HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY
 DESCRIBING A SOIREE TO WHICH HE WAS INVITED AND WENT; ALSO RELATES HOW
-HE WAS ENTRUSTED BY MR. PICKWICK WITH A PRIVATE MISSION OF DELICACY AND
+HE WAS ENTRUSTED BY MR. [[Pickwick|PICKWICK]] WITH A PRIVATE MISSION OF DELICACY AND
 IMPORTANCE
 
 Mr. Weller,’ said Mrs. Craddock, upon the morning of this very eventful
@@ -40,42 +40,42 @@ As Sam said this, he did what a great many people do when they are
 uncertain about the writer of a note--looked at the seal, and then at
 the front, and then at the back, and then at the sides, and then at the
 superscription; and, as a last resource, thought perhaps he might as
-well look at the inside, and try to find out from that.
+[[Well|well]] look at the inside, and try to find out from that.
 
 ‘It’s wrote on gilt-edged paper,’ said Sam, as he unfolded it, ‘and
 sealed in bronze vax vith the top of a door key. Now for it.’ And, with
-a very grave face, Mr. Weller slowly read as follows--
+a very [[Grave|grave]] face, Mr. Weller slowly read as follows--
 
 ‘A select company of the Bath footmen presents their compliments to Mr.
 Weller, and requests the pleasure of his company this evening, to a
 friendly swarry, consisting of a boiled leg of mutton with the usual
-trimmings. The swarry to be on table at half-past nine o’clock
+trimmings. The swarry to be on table at half-past nine o’[[Clock|clock]]
 punctually.’
 
 This was inclosed in another note, which ran thus--
 
 ‘Mr. John Smauker, the gentleman who had the pleasure of meeting Mr.
-Weller at the house of their mutual acquaintance, Mr. Bantam, a few days
+Weller at the [[house]] of their mutual acquaintance, Mr. Bantam, a few days
 since, begs to inclose Mr. Weller the herewith invitation. If Mr. Weller
-will call on Mr. John Smauker at nine o’clock, Mr. John Smauker will
+will call on Mr. John Smauker at nine o’[[Clock|clock]], Mr. John Smauker will
 have the pleasure of introducing Mr. Weller.
 
 
 (Signed)           ‘_John Smauker_.’
 
-The envelope was directed to blank Weller, Esq., at Mr. Pickwick’s; and
+The envelope was directed to blank Weller, Esq., at Mr. [[Pickwick]]’s; and
 in a parenthesis, in the left hand corner, were the words ‘airy bell,’
 as an instruction to the bearer.
 
 ‘Vell,’ said Sam, ‘this is comin’ it rayther powerful, this is. I never
-heerd a biled leg o’ mutton called a swarry afore. I wonder wot they’d
+heerd a biled leg o’ mutton called a swarry afore. I [[Wonder|wonder]] wot they’d
 call a roast one.’
 
-However, without waiting to debate the point, Sam at once betook himself
-into the presence of Mr. Pickwick, and requested leave of absence for
+However, without waiting to [[debate]] the point, Sam at once betook himself
+into the presence of Mr. [[Pickwick]], and requested leave of absence for
 that evening, which was readily granted. With this permission and the
-street-door key, Sam Weller issued forth a little before the appointed
-time, and strolled leisurely towards Queen Square, which he no sooner
+street-door key, [[Sam Weller]] issued forth a little before the appointed
+[[Time|time]], and strolled leisurely towards [[Queen]] Square, which he no sooner
 gained than he had the satisfaction of beholding Mr. John Smauker
 leaning his powdered head against a lamp-post at a short distance off,
 smoking a cigar through an amber tube.
@@ -98,7 +98,7 @@ wine; I’m afraid I’ve been dissipating.’
 
 ‘Oh! that’s it, is it?’ said Sam; ‘that’s a wery bad complaint, that.’
 
-‘And yet the temptation, you see, Mr. Weller,’ observed Mr. John
+‘And yet the [[Temptation|temptation]], you see, Mr. Weller,’ observed Mr. John
 Smauker.
 
 ‘Ah, to be sure,’ said Sam.
@@ -114,7 +114,7 @@ subjected to temptations which other people is free from, Mr. Weller.’
 
 ‘Precisely what my uncle said, ven he vent into the public line,’
 remarked Sam, ‘and wery right the old gen’l’m’n wos, for he drank
-hisself to death in somethin’ less than a quarter.’
+hisself to [[Death|death]] in somethin’ less than a quarter.’
 
 Mr. John Smauker looked deeply indignant at any parallel being drawn
 between himself and the deceased gentleman in question; but, as Sam’s
@@ -122,7 +122,7 @@ face was in the most immovable state of calmness, he thought better of
 it, and looked affable again.
 
 ‘Perhaps we had better be walking,’ said Mr. Smauker, consulting a
-copper timepiece which dwelt at the bottom of a deep watch-pocket, and
+copper timepiece which dwelt at the [[Bottom|bottom]] of a deep watch-pocket, and
 was raised to the surface by means of a black string, with a copper key
 at the other end.
 
@@ -147,9 +147,9 @@ strong flavour o’ warm flat irons.’
 ‘That _is_ the killibeate, Mr. Weller,’ observed Mr. John Smauker
 contemptuously.
 
-‘Well, if it is, it’s a wery inexpressive word, that’s all,’ said Sam.
+‘[[Well]], if it is, it’s a wery inexpressive word, that’s all,’ said Sam.
 ‘It may be, but I ain’t much in the chimical line myself, so I can’t
-say.’ And here, to the great horror of Mr. John Smauker, Sam Weller
+say.’ And here, to the great horror of Mr. John Smauker, [[Sam Weller]]
 began to whistle.
 
 ‘I beg your pardon, Mr. Weller,’ said Mr. John Smauker, agonised at the

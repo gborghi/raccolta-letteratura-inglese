@@ -19,11 +19,11 @@ Mr. Watson's work than has, I think, been commonly allowed.
 He is a classicist, but, like many other classicists,
 from Pope to Matthew Arnold, he is a hard hitter when he deals
 with certain matters.  On certain things he is, indeed, a doubter,
-but his very confession of doubt on these has that quality
+but his very confession of [[Doubt|doubt]] on these has that quality
 of clearness and severity which characterises the man
 who knows when he has a conviction and when he has not.
 A great many soothing writers give us the impression of never
-having experienced doubt when the quiet unity of their work
+having experienced [[Doubt|doubt]] when the quiet [[unity]] of their work
 really proceeds from their never having experienced belief.
 Mr. Watson in stating his uncertainties implies his certainties,
 and these latter are never very absent from his mind.
@@ -35,16 +35,16 @@ As in the great English agnostics of the Huxley period,
 even ignorance itself has a responsibility.  Even if he has
 nothing to say it is his duty to say so.
 
-The main matter of Mr. Watson's doubt or uncertainty is religion.
-The main matter of his faith or certitude is patriotism.
+The main matter of Mr. Watson's [[Doubt|doubt]] or uncertainty is religion.
+The main matter of his [[Faith|faith]] or certitude is patriotism.
 He is absolutely convinced that he is standing,
 and rightly standing, for the whole great historic tradition
 of English letters and English landscape.  He is defending it
 against a host of foreign influences, against the influence,
 against the turgidity and obscurity which we have copied
-from the literature of Germany, against the cheapness and over
-emphasis which we have borrowed from the literature of America,
-against the mistiness and melancholy which we have borrowed
+from the literature of [[Germany]], against the cheapness and over
+emphasis which we have borrowed from the literature of [[America]],
+against the mistiness and [[Melancholy|melancholy]] which we have borrowed
 from the literature of Norway, against the fastidiousness and
 cruelty which we have borrowed from the literature of France.
 In fighting for the wholesome and massive qualities of great English
@@ -57,8 +57,8 @@ another twenty years (which, fortunately, it will not do)
 it is doubtful whether there will be any English people left at all.
 Purely literary as Mr. Watson is, he has in his heart a certain
 still vigilance which is as military as that of a sentinel.
-His very traditionalism partakes of the nature of warlike obedience.
-He follows Milton and Wordsworth as he would follow a volunteer
+His very traditionalism partakes of the [[Nature|nature]] of warlike obedience.
+He follows [[Milton]] and Wordsworth as he would follow a volunteer
 colonel or an impromptu captain if a foreign army were pouring
 through the gate of Dover.
 
@@ -71,8 +71,8 @@ in The Living Age, volume CCXLVII, October, November, December 1905]
 
 Because man is a spirit and unfathomable the past is
 really as startling and incalculable as the future.
-The dead men are as active and dramatic as the men unborn;
-we know decisively that the men unborn will be men;
+The dead men are as active and dramatic as the men [[unborn]];
+we know decisively that the men [[unborn]] will be men;
 and we cannot decisively know anything more about the dead.
 It is not merely true that Nero may have been misunderstood;
 he must have been misunderstood, for no man can understand another.
@@ -95,7 +95,7 @@ There are more defects or difficulties than would at
 first appear in the scientific treatment of Scripture.
 But after all the greatest defect in the scientific
 treatment of Scripture is simply that it is scientific.
-The professor of the Higher Criticism is never tired
+[[The Professor|The professor]] of the Higher Criticism is never tired
 of declaring that he is detached, that he is disinterested,
 that he is concerned only with the facts, that he is
 applying to religious books the unbending methods which are
@@ -105,7 +105,7 @@ to criticize any books whatever.
 
 Books exist to produce emotions:  if we are not moved by them
 we practically have not read them.  If a real book has
-not touched us we might as well not have touched the book.
+not touched us we might as [[Well|well]] not have touched the book.
 In literature to be dispassionate is simply to be illiterate.
 To be disinterested is simply to be uninterested.
 The object of a book on comets, of course, is not to make us

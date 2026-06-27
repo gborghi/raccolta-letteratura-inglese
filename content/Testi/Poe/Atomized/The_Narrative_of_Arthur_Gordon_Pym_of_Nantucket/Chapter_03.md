@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 4"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 4"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -34,7 +34,7 @@ had no chance of visiting me without the risk of having the secret of
 
 the trap discovered. When at length he did come, I had assured him that
 
-I was doing as well as possible; and, therefore, for the two next days
+I was doing as [[Well|well]] as possible; and, therefore, for the two next days
 
 he felt but little uneasiness on my account--still, however, watching
 
@@ -64,7 +64,7 @@ said before, did not occur until the fourth day after his bringing me
 
 the watch, and the seventh since I had first entered the hold. He then
 
-went down without taking with him any water or provisions, intending in
+went down without taking with him any [[Water|water]] or provisions, intending in
 
 the first place merely to call my attention, and get me to come from
 
@@ -92,7 +92,7 @@ the hold in which I was imprisoned, and the long period during which
 
 the brig had been used as a whaling vessel, I am more inclined to
 
-wonder that I awoke at all, after once falling asleep, than that I
+[[Wonder|wonder]] that I awoke at all, after once falling asleep, than that I
 
 should have slept uninterruptedly for the period specified above.
 
@@ -104,7 +104,7 @@ trap--but I made him no reply. He then shut the trap, and spoke to me
 
 in a louder, and finally in a very loud tone--still I continued to
 
-snore. He was now at a loss what to do. It would take him some time to
+snore. He was now at a loss what to do. It would take him some [[Time|time]] to
 
 make his way through the lumber to my box, and in the mean while his
 
@@ -118,7 +118,7 @@ to ascend, and await another opportunity of visiting me. He was the
 
 more easily induced to this resolve, as my slumber appeared to be of
 
-the most tranquil nature, and he could not suppose that I had undergone
+the most tranquil [[Nature|nature]], and he could not suppose that I had undergone
 
 any inconvenience from my incarceration. He had just made up his mind
 
@@ -130,7 +130,7 @@ through the trap as quickly as possible, closed it, and threw open the
 
 door of his stateroom. No sooner had he put his foot over the threshold
 
-than a pistol flashed in his face, and he was knocked down, at the same
+than a [[Pistol|pistol]] flashed in his face, and he was knocked down, at the same
 
 moment, by a blow from a handspike.
 
@@ -144,7 +144,7 @@ father was tied hand and foot, and lying along the steps of the
 
 companion-way with his head down, and a deep wound in the forehead,
 
-from which the blood was flowing in a continued stream. He spoke not a
+from which the [[Blood|blood]] was flowing in a continued stream. He spoke not a
 
 word, and was apparently dying. Over him stood the first mate, eying
 
@@ -182,9 +182,9 @@ The only reply was a blow on the forehead from an axe. The poor fellow
 
 fell to the deck without a groan, and the black cook lifted him up in
 
-his arms as he would a child, and tossed him deliberately into the sea.
+his arms as he would a [[Child|child]], and tossed him deliberately into the sea.
 
-Hearing the blow and the plunge of the body, the men below could now be
+Hearing the blow and the plunge of the [[Body|body]], the men below could now be
 
 induced to venture on deck neither by threats nor promises, until a
 
@@ -200,7 +200,7 @@ six, finding themselves so greatly outnumbered and without arms,
 
 submitted after a brief struggle. The mate gave them fair words--no
 
-doubt with a view of inducing those below to yield, for they had no
+[[Doubt|doubt]] with a view of inducing those below to yield, for they had no
 
 difficulty in hearing all that was said on deck. The result proved his
 
@@ -252,7 +252,7 @@ was a perfect demon, and who seemed to exert as much influence, if not
 
 more, than the mate himself), would listen to no proposition of the
 
-kind, and rose repeatedly for the purpose of resuming his work at the
+kind, and [[Rose|rose]] repeatedly for the purpose of resuming his work at the
 
 gangway. Fortunately, he was so far overcome by intoxication as to be
 
@@ -266,7 +266,7 @@ fastnesses of the Black Hills near the source of the Missouri. His
 
 father was a fur-trader, I believe, or at least connected in some
 
-manner with the Indian trading-posts on Lewis river. Peters himself was
+manner with the Indian trading-posts on Lewis [[River|river]]. Peters himself was
 
 one of the most purely ferocious-looking men I ever beheld. He was
 
@@ -276,11 +276,11 @@ limbs were of the most Herculean mould. His hands, especially, were so
 
 enormously thick and broad as hardly to retain a human shape. His arms,
 
-as well as legs, were _bowed_ in the most singular manner, and appeared
+as [[Well|well]] as legs, were _bowed_ in the most singular manner, and appeared
 
 to possess no flexibility whatever. His head was equally deformed,
 
-being of immense size, with an indentation on the crown (like that on
+being of immense size, with an indentation on the [[Crown|crown]] (like that on
 
 the head of most negroes), and entirely bald. To conceal this latter
 
@@ -288,7 +288,7 @@ deficiency, which did not proceed from old age, he usually wore a wig
 
 formed of any hair-like material which presented itself--occasionally
 
-the skin of a Spanish dog or American grizzly bear. At the time spoken
+the skin of a Spanish dog or American grizzly bear. At the [[Time|time]] spoken
 
 of he had on a portion of one of these bearskins; and it added no
 
@@ -318,9 +318,9 @@ being many anecdotes were prevalent among the seafaring men of
 
 Nantucket. These anecdotes went to prove his prodigious strength when
 
-under excitement, and some of them had given rise to a doubt of his
+under excitement, and some of them had given rise to a [[Doubt|doubt]] of his
 
-sanity. But on board the Grampus, it seems, he was regarded at the time
+[[Sanity|sanity]]. But on board the Grampus, it seems, he was regarded at the [[Time|time]]
 
 of the mutiny with feelings more of derision than of anything else. I
 
@@ -334,13 +334,13 @@ mention him hereafter in the course of my narrative--a narrative, let
 
 me here say, which, in its latter portions, will be found to include
 
-incidents of a nature so entirely out of the range of human experience,
+incidents of a [[Nature|nature]] so entirely out of the range of human experience,
 
 and for this reason so far beyond the limits of human credulity, that I
 
 proceed in utter hopelessness of obtaining credence for all that I
 
-shall tell, yet confidently trusting in time and progressing science to
+shall tell, yet confidently trusting in [[Time|time]] and progressing science to
 
 verify some of the most important and most improbable of my statements.
 
@@ -360,7 +360,7 @@ living--for, it will be remembered, he was left below when the
 
 mutineers came up. Presently the two made their appearance, the captain
 
-pale as death, but somewhat recovered from the effects of his wound. He
+pale as [[Death|death]], but somewhat recovered from the effects of his wound. He
 
 spoke to the men in a voice hardly articulate, entreated them not to
 
@@ -368,7 +368,7 @@ set him adrift, but to return to their duty, and promising to land them
 
 wherever they chose, and to take no steps for bringing them to justice.
 
-He might as well have spoken to the winds. Two of the ruffians seized
+He might as [[Well|well]] have spoken to the winds. Two of the ruffians seized
 
 him by the arms and hurled him over the brig's side into the boat,
 
@@ -382,19 +382,19 @@ painful position, although he struggled and prayed only for the poor
 
 satisfaction of being permitted to bid his father farewell. A handful
 
-of sea-biscuit and a jug of water were now handed down; but neither
+of sea-biscuit and a jug of [[Water|water]] were now handed down; but neither
 
 mast, sail, oar, nor compass. The boat was towed astern for a few
 
 minutes, during which the mutineers held another consultation--it was
 
-then finally cut adrift. By this time night had come on--there were
+then finally cut adrift. By this [[Time|time]] [[Night|night]] had come on--there were
 
-neither moon nor stars visible--and a short and ugly sea was running,
+neither [[Moon|moon]] nor [[Stars|stars]] visible--and a short and ugly sea was running,
 
-although there was no great deal of wind. The boat was instantly out of
+although there was no great deal of [[Wind|wind]]. The boat was instantly out of
 
-sight, and little hope could be entertained for the unfortunate
+sight, and little [[Hope|hope]] could be entertained for the unfortunate
 
 sufferers who were in it. This event happened, however, in latitude 35°
 
@@ -414,7 +414,7 @@ All sail was now put upon the brig, and she continued her original
 
 course to the southwest--the mutineers being bent upon some piratical
 
-expedition, in which, from all that could be understood, a ship was to
+expedition, in which, from all that could be understood, a [[Ship|ship]] was to
 
 be intercepted on her way from the Cape Verd Islands to Porto Rico. No
 
@@ -428,19 +428,19 @@ brutality of the cook. His situation was still one of the most
 
 precarious, as the men were continually intoxicated, and there was no
 
-relying upon their continued good-humour or carelessness in regard to
+relying upon their continued good-[[Humour|humour]] or carelessness in regard to
 
 himself. His anxiety on my account he represented, however, as the most
 
 distressing result of his condition; and, indeed, I had never reason to
 
-doubt the sincerity of his friendship. More than once he had resolved
+[[Doubt|doubt]] the sincerity of his [[Friendship|friendship]]. More than once he had resolved
 
 to acquaint the mutineers with the secret of my being on board, but was
 
 restrained from so doing, partly through recollection of the atrocities
 
-he had already beheld, and partly through a hope of being able soon to
+he had already beheld, and partly through a [[Hope|hope]] of being able soon to
 
 bring me relief. For the latter purpose he was constantly on the watch;
 
@@ -448,7 +448,7 @@ but, in spite of the most constant vigilance, three days elapsed after
 
 the boat was cut adrift before any chance occurred. At length, on the
 
-night of the third day, there came on a heavy blow from the eastward,
+[[Night|night]] of the third day, there came on a heavy blow from the eastward,
 
 and all hands were called up to take in sail. During the confusion
 
@@ -458,7 +458,7 @@ What was his grief and horror in discovering that the latter had been
 
 rendered a place of deposite for a variety of sea-stores and
 
-ship-furniture, and that several fathoms of old chain-cable, which had
+[[Ship|ship]]-furniture, and that several fathoms of old chain-cable, which had
 
 been stowed away beneath the companion-ladder, had been dragged thence
 

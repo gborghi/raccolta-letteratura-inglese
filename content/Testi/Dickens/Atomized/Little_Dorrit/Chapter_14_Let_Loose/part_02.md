@@ -27,12 +27,12 @@ yes.’
 
 ‘He was a bad subject.’
 
-‘He was a wicked wretch,’ said the landlady, ‘and well merited what he
+‘He was a wicked wretch,’ said the landlady, ‘and [[Well|well]] merited what he
 had the good fortune to escape. So much the worse.’
 
 ‘Stay, madame! Let us see,’ returned the Swiss, argumentatively turning
 his cigar between his lips. ‘It may have been his unfortunate destiny.
-He may have been the child of circumstances. It is always possible that
+He may have been the [[Child|child]] of circumstances. It is always possible that
 he had, and has, good in him if one did but know how to find it out.
 Philosophical philanthropy teaches--’
 
@@ -50,9 +50,9 @@ both, unfortunately) who have no good in them--none. That there are
 people whom it is necessary to detest without compromise. That there are
 people who must be dealt with as enemies of the human race. That there
 are people who have no human heart, and who must be crushed like savage
-beasts and cleared out of the way. They are but few, I hope; but I have
+beasts and cleared out of the way. They are but few, I [[Hope|hope]]; but I have
 seen (in this world here where I find myself, and even at the little
-Break of Day) that there are such people. And I do not doubt that this
+Break of Day) that there are such people. And I do not [[Doubt|doubt]] that this
 man--whatever they call him, I forget his name--is one of them.’
 
 The landlady’s lively speech was received with greater favour at
@@ -60,9 +60,9 @@ the Break of Day, than it would have elicited from certain amiable
 whitewashers of the class she so unreasonably objected to, nearer Great
 Britain.
 
-‘My faith! If your philosophical philanthropy,’ said the landlady,
+‘My [[Faith|faith]]! If your philosophical philanthropy,’ said the landlady,
 putting down her work, and rising to take the stranger’s soup from her
-husband, who appeared with it at a side door, ‘puts anybody at the mercy
+husband, who appeared with it at a side door, ‘puts anybody at the [[Mercy|mercy]]
 of such people by holding terms with them at all, in words or deeds, or
 both, take it away from the Break of Day, for it isn’t worth a sou.’
 
@@ -70,7 +70,7 @@ As she placed the soup before the guest, who changed his attitude to a
 sitting one, he looked her full in the face, and his moustache went up
 under his nose, and his nose came down over his moustache.
 
-‘Well!’ said the previous speaker, ‘let us come back to our subject.
+‘[[Well]]!’ said the previous speaker, ‘let us come back to our subject.
 Leaving all that aside, gentlemen, it was because the man was acquitted
 on his trial that people said at Marseilles that the devil was let
 loose. That was how the phrase began to circulate, and what it meant;
@@ -78,9 +78,9 @@ nothing more.’
 
 ‘How do they call him?’ said the landlady. ‘Biraud, is it not?’
 
-‘Rigaud, madame,’ returned the tall Swiss.
+‘[[Rigaud]], madame,’ returned the tall Swiss.
 
-‘Rigaud! To be sure.’
+‘[[Rigaud]]! To be sure.’
 
 The traveller’s soup was succeeded by a dish of meat, and that by a dish
 of vegetables. He ate all that was placed before him, emptied his bottle
@@ -98,17 +98,17 @@ by the stove, warming his ragged feet.
 
 ‘Pardon me, madame--that Biraud.’
 
-‘Rigaud, monsieur.’
+‘[[Rigaud]], monsieur.’
 
-‘Rigaud. Pardon me again--has contracted your displeasure, how?’
+‘[[Rigaud]]. Pardon me again--has contracted your displeasure, how?’
 
 The landlady, who had been at one moment thinking within herself that
 this was a handsome man, at another moment that this was an ill-looking
 man, observed the nose coming down and the moustache going up, and
-strongly inclined to the latter decision. Rigaud was a criminal, she
+strongly inclined to the latter decision. [[Rigaud]] was a criminal, she
 said, who had killed his wife.
 
-‘Ay, ay? Death of my life, that’s a criminal indeed. But how do you know
+‘Ay, ay? [[Death]] of my life, that’s a criminal indeed. But how do you know
 it?’
 
 ‘All the world knows it.’
@@ -117,7 +117,7 @@ it?’
 
 ‘Monsieur, the law could not prove it against him to its satisfaction.
 So the law says. Nevertheless, all the world knows he did it. The people
-knew it so well, that they tried to tear him to pieces.’
+knew it so [[Well|well]], that they tried to tear him to pieces.’
 
 ‘Being all in perfect accord with their own wives?’ said the guest.
 ‘Haha!’
@@ -131,9 +131,9 @@ not ill-looking after all.
 became of him?’
 
 The landlady shook her head; it being the first conversational stage at
-which her vivacious earnestness had ceased to nod it, keeping time to what
+which her vivacious earnestness had ceased to nod it, keeping [[Time|time]] to what
 she said. It had been mentioned at the Daybreak, she remarked, on the
-authority of the journals, that he had been kept in prison for his own
+authority of the journals, that he had been kept in [[Prison|prison]] for his own
 safety. However that might be, he had escaped his deserts; so much the
 worse.
 

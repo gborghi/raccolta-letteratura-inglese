@@ -18,25 +18,25 @@ CHAPTER IV.
 Congratulatory
 
 
-From the dimly-lighted passages of the court, the last sediment of the
+From the dimly-lighted passages of the [[Court|court]], the last sediment of the
 human stew that had been boiling there all day, was straining off, when
-Doctor Manette, Lucie Manette, his daughter, Mr. Lorry, the solicitor
+[[Doctor Manette]], [[Lucie Manette]], his daughter, Mr. Lorry, the solicitor
 for the defence, and its counsel, Mr. Stryver, stood gathered round Mr.
-Charles Darnay--just released--congratulating him on his escape from
-death.
+[[Charles Darnay]]--just released--congratulating him on his escape from
+[[Death|death]].
 
 It would have been difficult by a far brighter light, to recognise
-in Doctor Manette, intellectual of face and upright of bearing, the
-shoemaker of the garret in Paris. Yet, no one could have looked at him
+in [[Doctor Manette]], intellectual of face and upright of bearing, the
+shoemaker of the garret in [[Paris]]. Yet, no one could have looked at him
 twice, without looking again: even though the opportunity of observation
-had not extended to the mournful cadence of his low grave voice, and
+had not extended to the mournful cadence of his low [[Grave|grave]] voice, and
 to the abstraction that overclouded him fitfully, without any apparent
 reason. While one external cause, and that a reference to his long
 lingering agony, would always--as on the trial--evoke this condition
-from the depths of his soul, it was also in its nature to arise of
+from the depths of his [[Soul|soul]], it was also in its [[Nature|nature]] to arise of
 itself, and to draw a gloom over him, as incomprehensible to those
-unacquainted with his story as if they had seen the shadow of the actual
-Bastille thrown upon him by a summer sun, when the substance was three
+unacquainted with his story as if they had seen the [[Shadow|shadow]] of the actual
+Bastille thrown upon him by a [[Summer|summer]] sun, when the substance was three
 hundred miles away.
 
 Only his daughter had the power of charming this black brooding from
@@ -52,11 +52,11 @@ to Mr. Stryver, whom he warmly thanked. Mr. Stryver, a man of little
 more than thirty, but looking twenty years older than he was, stout,
 loud, red, bluff, and free from any drawback of delicacy, had a pushing
 way of shouldering himself (morally and physically) into companies and
-conversations, that argued well for his shouldering his way up in life.
+conversations, that argued [[Well|well]] for his shouldering his way up in life.
 
 He still had his wig and gown on, and he said, squaring himself at his
-late client to that degree that he squeezed the innocent Mr. Lorry clean
-out of the group: “I am glad to have brought you off with honour, Mr.
+late client to that degree that he squeezed the [[Innocent|innocent]] Mr. Lorry clean
+out of the group: “I am glad to have brought you off with [[Honour|honour]], Mr.
 Darnay. It was an infamous prosecution, grossly infamous; but not the
 less likely to succeed on that account.”
 
@@ -70,16 +70,16 @@ It clearly being incumbent on some one to say, “Much better,” Mr. Lorry
 said it; perhaps not quite disinterestedly, but with the interested
 object of squeezing himself back again.
 
-“You think so?” said Mr. Stryver. “Well! you have been present all day,
+“You think so?” said Mr. Stryver. “[[Well]]! you have been present all day,
 and you ought to know. You are a man of business, too.”
 
 “And as such,” quoth Mr. Lorry, whom the counsel learned in the law had
 now shouldered back into the group, just as he had previously shouldered
-him out of it--“as such I will appeal to Doctor Manette, to break up
+him out of it--“as such I will appeal to [[Doctor Manette]], to break up
 this conference and order us all to our homes. Miss Lucie looks ill, Mr.
 Darnay has had a terrible day, we are worn out.”
 
-“Speak for yourself, Mr. Lorry,” said Stryver; “I have a night’s work to
+“Speak for yourself, Mr. Lorry,” said Stryver; “I have a [[Night|night]]’s work to
 do yet. Speak for yourself.”
 
 “I speak for myself,” answered Mr. Lorry, “and for Mr. Darnay, and for
@@ -88,31 +88,31 @@ Miss Lucie, and--Miss Lucie, do you not think I may speak for us all?”
 
 His face had become frozen, as it were, in a very curious look at
 Darnay: an intent look, deepening into a frown of dislike and distrust,
-not even unmixed with fear. With this strange expression on him his
+not even unmixed with [[Fear|fear]]. With this strange expression on him his
 thoughts had wandered away.
 
 “My father,” said Lucie, softly laying her hand on his.
 
-He slowly shook the shadow off, and turned to her.
+He slowly shook the [[Shadow|shadow]] off, and turned to her.
 
-“Shall we go home, my father?”
+“Shall we go [[Home|home]], my father?”
 
 With a long breath, he answered “Yes.”
 
 The friends of the acquitted prisoner had dispersed, under the
 impression--which he himself had originated--that he would not be
-released that night. The lights were nearly all extinguished in the
+released that [[Night|night]]. The lights were nearly all extinguished in the
 passages, the iron gates were being closed with a jar and a rattle,
 and the dismal place was deserted until to-morrow morning’s interest of
 gallows, pillory, whipping-post, and branding-iron, should repeople it.
-Walking between her father and Mr. Darnay, Lucie Manette passed into
+Walking between her father and Mr. Darnay, [[Lucie Manette]] passed into
 the open air. A hackney-coach was called, and the father and daughter
 departed in it.
 
 Mr. Stryver had left them in the passages, to shoulder his way back
 to the robing-room. Another person, who had not joined the group, or
 interchanged a word with any one of them, but who had been leaning
-against the wall where its shadow was darkest, had silently strolled
+against the wall where its [[Shadow|shadow]] was darkest, had silently strolled
 out after the rest, and had looked on until the coach drove away. He now
 stepped up to where Mr. Lorry and Mr. Darnay stood upon the pavement.
 
@@ -127,11 +127,11 @@ business mind is divided between good-natured impulse and business
 appearances, you would be amused, Mr. Darnay.”
 
 Mr. Lorry reddened, and said, warmly, “You have mentioned that before,
-sir. We men of business, who serve a House, are not our own masters. We
-have to think of the House more than ourselves.”
+sir. We men of business, who serve a [[house|House]], are not our own masters. We
+have to think of the [[house|House]] more than ourselves.”
 
 “_I_ know, _I_ know,” rejoined Mr. Carton, carelessly. “Don’t be
-nettled, Mr. Lorry. You are as good as another, I have no doubt: better,
+nettled, Mr. Lorry. You are as good as another, I have no [[Doubt|doubt]]: better,
 I dare say.”
 
 “And indeed, sir,” pursued Mr. Lorry, not minding him, “I really don’t

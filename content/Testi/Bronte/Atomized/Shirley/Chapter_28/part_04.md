@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 28 (part 4)"
+title: "[[Shirley]] — Chapter 28 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-humility; but would an apology tend to place us in the positions we
+[[Humility|humility]]; but would an apology tend to place us in the positions we
 
 ought relatively to occupy in this matter? I _must_ keep up the
 
@@ -32,9 +32,9 @@ petition is presumption in her eyes. Let her _only_ come, I can teach
 
 her to the contrary. I would rather she were a little perverse; it will
 
-steel me. I prefer her cuirassed in pride, armed with a taunt. Her scorn
+steel me. I prefer her cuirassed in [[Pride|pride]], armed with a taunt. Her scorn
 
-startles me from my dreams; I stand up myself. A sarcasm from her eyes
+startles me from my [[Dreams|dreams]]; I stand up myself. A sarcasm from her eyes
 
 or lips puts strength into every nerve and sinew I have. Some step
 
@@ -82,7 +82,7 @@ She waited; she plied her needle.
 
 
 
-"Well, sir" (not lifting her eyes), "what about?"
+"[[Well]], sir" (not lifting her eyes), "what about?"
 
 
 
@@ -100,7 +100,7 @@ of your health I would speak."
 
 
 
-"I am quite well," she said briefly.
+"I am quite [[Well|well]]," she said briefly.
 
 
 
@@ -126,7 +126,7 @@ Latin grammar, and let us proclaim a truce to all sanitary discussions."
 
 
 
-"No, no. It is time there were discussions."
+"No, no. It is [[Time|time]] there were discussions."
 
 
 
@@ -142,19 +142,19 @@ untrue?"
 
 
 
-"I say I am well. I have neither cough, pain, nor fever."
+"I say I am [[Well|well]]. I have neither cough, [[Pain|pain]], nor fever."
 
 
 
-"Is there no equivocation in that assertion? Is it the direct truth?"
+"Is there no equivocation in that assertion? Is it the direct [[Truth|truth]]?"
 
 
 
-"The direct truth."
+"The direct [[Truth|truth]]."
 
 
 
-Louis Moore looked at her earnestly.
+[[Louis Moore]] looked at her earnestly.
 
 
 
@@ -176,7 +176,7 @@ why, then, are you altered?"
 
 
 
-"I ask, in the first place, do you sleep as you used to?"
+"I ask, in the first place, do you [[Sleep|sleep]] as you used to?"
 
 
 
@@ -196,7 +196,7 @@ why, then, are you altered?"
 
 mother's, and is too small to pass the joint of my little finger. You
 
-have many a time sportively purloined it. It fitted your fore-finger.
+have many a [[Time|time]] sportively purloined it. It fitted your fore-finger.
 
 Try now."
 
@@ -206,11 +206,11 @@ She permitted the test. The ring dropped from the wasted little hand.
 
 Louis picked it up, and reattached it to the chain. An uneasy flush
 
-coloured his brow. Shirley again said, "It is not because I am ill."
+coloured his brow. [[Shirley]] again said, "It is not because I am ill."
 
 
 
-"Not only have you lost sleep, appetite, and flesh," proceeded Moore,
+"Not only have you lost [[Sleep|sleep]], appetite, and flesh," proceeded Moore,
 
 "but your spirits are always at ebb. Besides, there is a nervous alarm
 
@@ -234,7 +234,7 @@ cause. Let me reach it. Let me look nearer. The ailment is not physical.
 
 I have suspected that. It came in one moment. I know the day. I noticed
 
-the change. Your pain is mental."
+the change. Your [[Pain|pain]] is mental."
 
 
 
@@ -248,13 +248,13 @@ topic."
 
 communicated, that they may be dissipated. I wish I had the gift of
 
-persuasion, and could incline you to speak willingly. I believe
+[[Persuasion|persuasion]], and could incline you to speak willingly. I believe
 
 confession, in your case, would be half equivalent to cure."
 
 
 
-"No," said Shirley abruptly. "I wish that were at all probable; but I am
+"No," said [[Shirley]] abruptly. "I wish that were at all probable; but I am
 
 afraid it is not."
 
@@ -276,11 +276,11 @@ The tutor allowed her some minutes for repose and reflection ere he
 
 returned to the charge. Once his lips moved to speak, but he thought
 
-better of it, and prolonged the pause. Shirley lifted her eye to his.
+better of it, and prolonged the pause. [[Shirley]] lifted her eye to his.
 
 Had he betrayed injudicious emotion, perhaps obstinate persistence in
 
-silence would have been the result; but he looked calm, strong,
+[[Silence|silence]] would have been the result; but he looked calm, strong,
 
 trustworthy.
 

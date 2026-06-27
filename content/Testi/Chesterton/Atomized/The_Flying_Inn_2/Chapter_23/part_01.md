@@ -31,7 +31,7 @@ shopkeeper for some distance round.  Mr. Crooke still
 served in his shop, however; and politely hastened
 to serve his customer with the medicine that was
 customary.  Unfortunately, for some reason or other,
-history was, in connection with this shop, only too
+[[history]] was, in connection with this shop, only too
 prone to repeat itself.  And after a vague but soothing
 conversation with the chemist (on the subject of
 vitriol and its effects on human happiness), Mr. Hibbs
@@ -41,7 +41,7 @@ enter the same fashionable emporium.  But, indeed,
 Leveson's own annoyance was much too acute for him
 to notice any on the part of Hibbs.
 
-"Well," he said, stopping dead in the middle of
+"[[Well]]," he said, stopping dead in the middle of
 the shop, "here is a fine confounded kettle of fish!"
 
 It is one of the tragedies of the diplomatic that they
@@ -52,7 +52,7 @@ pursing his lips, "you mean the _general_ situation."
 "I mean the situation about this everlasting
 business of the inn-signs," said Leveson, impatiently.
 "Lord Ivywood went up specially, when his leg was
-really bad, to get it settled in the House in a small
+really bad, to get it settled in the [[house|House]] in a small
 non-contentious bill, providing that the sign shouldn't be
 enough if the liquor hadn't been on the spot three
 days."
@@ -72,7 +72,7 @@ kept too quiet to be obeyed.  It's not so easy to hush
 it up from a big politician without running the risk
 of hushing it up even from a common policeman."
 
-"But surely that can't happen, by the nature of
+"But surely that can't happen, by the [[Nature|nature]] of
 things?"
 
 "Can't it, by God," said J. Leveson, appealing to a
@@ -93,7 +93,7 @@ asserted to be a sign-board within the meaning of the act.
 There, you see, they haven't even heard of the new
 act!  What do you think of this, from the _Clapton
 Conservator_.  'The contempt of Socialists for the law
-was well illustrated yesterday, when a crowd, collected
+was [[Well|well]] illustrated yesterday, when a crowd, collected
 round some wooden ensign of Socialism set up before
 Mr. Dugdale's Drapery Stores, refused to disperse,
 though told that their action was contrary to the law.
@@ -102,16 +102,16 @@ following the wooden emblem.'  And what do you say
 to this?  'Stop-press news.  A chemist in Pimlico has
 been invaded by a huge crowd, demanding beer; and
 asserting the provision of it to be among his duties.
-The chemist is, of course, well acquainted with his
+The chemist is, of course, [[Well|well]] acquainted with his
 immunities in the matter, especially under the new
 act; but the old notion of the importance of the sign
 seems still to possess the populace and even, to a
 certain extent, to paralyze the police.'  What do you say
 to that?  Isn't it as plain as Monday morning that
 this Flying Inn has flown a day in front of us, as all
-such lies do?"  There was a diplomatic silence.
+such lies do?"  There was a diplomatic [[Silence|silence]].
 
-"Well," asked the still angry Leveson of the still
+"[[Well]]," asked the still angry Leveson of the still
 dubious Hibbs, "what do you make of all that?"
 
 One ill-acquainted with that relativity essential to
@@ -126,7 +126,7 @@ Crooke.
 with an expression which they both thought baffling
 and even a little disconcerting.  "Good morning, Mr.
 Crooke.  I have a celebrated visitor for you."  And
-he introduced the smiling Misysra.  The Prophet had
+he introduced the smiling Misysra.  The [[Prophet]] had
 fallen back on a comparatively quiet costume this
 morning, a mere matter of purple and orange or what
 not; but his aged face was now perennially festive.
@@ -138,7 +138,7 @@ beau-uti-ful speech?"
 "I have heard many," said Hibbs, gracefully, "that
 can be so described."
 
-"The Prophet means what I was saying about the
+"The [[Prophet]] means what I was saying about the
 Ballot Paper Amendment Act," said Ivywood, casually.
 "It seems to be the alphabet of statesmanship
 to recognise now that the great oriental British
@@ -147,16 +147,16 @@ occidental one.  Look at our universities, with their
 Mohammedan students; soon they may be a majority.
 Now are we," he went on, still more quietly, "are
 we to rule this country under the forms of representative
-government?  I do not pretend to believe in
-democracy, as you know, but I think it would be
+[[government]]?  I do not pretend to believe in
+[[democracy]], as you know, but I think it would be
 extremely unsettling and incalculable to destroy
-representative government.  If we are to give Moslem
-Britain representative government, we must not make
+representative [[government]].  If we are to give Moslem
+Britain representative [[government]], we must not make
 the mistake we made about the Hindoos and military
 organization--which led to the Mutiny.  We must not
-ask them to make a cross on their ballot papers; for
+ask them to make a [[Cross|cross]] on their ballot papers; for
 though it seems a small thing, it may offend them.
 So I brought in a little bill to make it optional between
-the old-fashioned cross and an upward curved mark
+the old-fashioned [[Cross|cross]] and an upward curved mark
 that might stand for a crescent--and as it's rather
 easier to make, I believe it will be generally adopted."

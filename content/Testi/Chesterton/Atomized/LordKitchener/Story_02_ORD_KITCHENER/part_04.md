@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — ORD KITCHENER (part 4)"
+title: "[[LordKitchener]] — ORD KITCHENER (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/LordKitchener-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 new expedition. In three days after the order was received the force
 
-started at nightfall and marched southward into the night. The detail
+started at nightfall and marched southward into the [[Night|night]]. The detail
 
 is something more than picturesque; for on all accounts of that
 
@@ -28,23 +28,23 @@ very secret one, so that the cloud was as practical as a cloak; but it
 
 was also the re-entrance of a territory which an instinct has led the
 
-English to call the Dark Continent even under its blazing noon. There
+English to call the Dark Continent even under its blazing [[Noon|noon]]. There
 
-vast distances alone made a veil like that of darkness, and there the
+vast distances [[Alone|alone]] made a veil like that of darkness, and there the
 
 lives of Gordon and Hicks and hundreds more had been swallowed up in
 
-an ancient silence. Perhaps we cannot guess to-day, after the colder
+an ancient [[Silence|silence]]. Perhaps we cannot guess to-day, after the colder
 
 completion of Kitchener's work, what it meant for those who went on
 
-that nocturnal march; who crept up in two lines, one along the river
+that nocturnal march; who crept up in two lines, one along the [[River|river]]
 
 and the other along an abandoned railway track, moving through the
 
-black night; and in the black night encamped, and waited for the
+black [[Night|night]]; and in the black [[Night|night]] encamped, and waited for the
 
-rising of the moon. Anyhow, the tale told of it strikes this note,
+rising of the [[Moon|moon]]. Anyhow, the tale told of it strikes this note,
 
 especially in one touch of what can only be called a terrible
 
@@ -52,7 +52,7 @@ triviality. I mean the reference to the new noise heard just before
 
 day-break, revealing the nearness of the enemy: the dreadful drum of
 
-Islam, calling for prayer to an awful God--a God not to be worshipped
+[[Islam]], calling for [[Prayer|prayer]] to an awful God--a God not to be worshipped
 
 by the changing and sometimes cheerful notes of harp or organ, but
 
@@ -72,15 +72,15 @@ of Dongola itself. But Dongola was not the high place of the enemy; it
 
 was not there that Gordon died or that Abdullahi was still alive. Far
 
-away up the dark river were the twin cities of the tragedy, the city
+away up the dark [[River|river]] were the twin cities of the [[Tragedy|tragedy]], the [[City|city]]
 
-of the murder and the city of the murderer. It was in relation to this
+of the murder and the [[City|city]] of the murderer. It was in relation to this
 
 fixed point of fact that Kitchener's next proceeding is seen to be
 
 supremely characteristic. He was so anxious to do one thing that he
 
-was cautious about doing it. He was more concerned to obtain a success
+was cautious about doing it. He was more concerned to obtain a [[success]]
 
 than to appear to deserve it; he did not want a moral victory, but a
 
@@ -92,15 +92,15 @@ advance on the Mahdi's host a minute faster than men could follow him
 
 building a railway. He created behind him a colossal causeway of
 
-communications, going out alone into wastes where there was and had
+communications, going out [[Alone|alone]] into wastes where there was and had
 
 been no other mortal trace or track. The engineering genius of
 
 Girouard, a Canadian, designed and developed it with what was,
 
-considering the nature of the task, brilliant rapidity; but by the
+considering the [[Nature|nature]] of the task, brilliant rapidity; but by the
 
-standards of desert warfare it must have seemed that Kitchener and his
+standards of [[Desert|desert]] warfare it must have seemed that Kitchener and his
 
 English made war as slowly as grass grows or orchards bear fruit. The
 
@@ -110,33 +110,33 @@ if they were menaced by the advance of a giant snail. But it was a
 
 snail that left a shining track unknown to those sands; for the first
 
-time since Rome decayed something was being made there that could
+[[Time|time]] since Rome decayed something was being made there that could
 
-remain. The effect of this growing road, one might almost say this
+remain. The effect of this growing [[Road|road]], one might almost say this
 
-living road, began to be felt. Mahmoud, the Mahdist military leader,
+living [[Road|road]], began to be felt. Mahmoud, the Mahdist military leader,
 
 fell back from Berber, and gathered his hosts more closely round the
 
-sacred city on the Nile. Kitchener, making another night march up the
+sacred [[City|city]] on the Nile. Kitchener, making another [[Night|night]] march up the
 
-Atbara river, stormed the Arab camp and took Mahmoud prisoner. Then at
+Atbara [[River|river]], stormed the Arab camp and took Mahmoud prisoner. Then at
 
 last he moved finally up the western bank of the Nile and came in
 
 sight of Omdurman. It is somewhat of a disproportion to dwell on the
 
-fight that followed and the fall of the great city. The fighting had
+fight that followed and the fall of the great [[City|city]]. The fighting had
 
 been done already, and more than half of it was working; fighting a
 
 long fight against the centuries, against ages of sloth and the great
 
-sleep of the desert, where there had been nothing but visions, and
+[[Sleep|sleep]] of the [[Desert|desert]], where there had been nothing but visions, and
 
 against a racial decline that men had accepted as a doom. On the
 
-following Sunday a memorial service for Charles Gordon was held in the
+following [[Sunday]] a memorial service for Charles Gordon was held in the
 
 place where he was slain.
 
@@ -144,7 +144,7 @@ place where he was slain.
 
 The fact that Kitchener fought with rails as much as with guns rather
 
-fixed from this time forward the fashionable view of his character. He
+fixed from this [[Time|time]] forward the fashionable view of his character. He
 
 was talked of as if he were himself made of metal, with a head filled
 
@@ -154,11 +154,11 @@ true, in so far as it means that he was by temper what he was by
 
 trade, an engineer. He had conquered the Mahdi, where many had failed
 
-to do so. But what he had chiefly conquered was the desert--a great
+to do so. But what he had chiefly conquered was the [[Desert|desert]]--a great
 
 and greedy giant. He brought Cairo to Khartoum; we might say that he
 
-brought London or Liverpool with him to the gates of the strange city
+brought [[London]] or Liverpool with him to the gates of the strange [[City|city]]
 
 of Omdurman. Some parts of his action supported, even regrettably, the
 
@@ -168,9 +168,9 @@ triumph, been staring at him as at a stone sphinx of inflexible fate,
 
 that admirer would have been very much puzzled by the next passage of
 
-his life. Kitchener was something much more than a machine; for in the
+his life. Kitchener was something much more than a [[Machine|machine]]; for in the
 
-mind, as much as in the body, flexibility is far more masculine than
+mind, as much as in the [[Body|body]], flexibility is far more masculine than
 
 inflexibility.
 
@@ -178,13 +178,13 @@ inflexibility.
 
 A situation developed almost instantly after his victory in which he
 
-was to show that he was a diplomatist as well as a soldier. At
+was to show that he was a diplomatist as [[Well|well]] as a soldier. At
 
 Fashoda, a little farther up the Nile, he found something more
 
 surprising, and perhaps more romantic, than the wildest dervish of the
 
-desert solitudes. A French officer, and one of the most valiant and
+[[Desert|desert]] solitudes. A French officer, and one of the most valiant and
 
 distinguished of French officers, Major Marchand, had penetrated to
 

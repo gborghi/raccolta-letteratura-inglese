@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 3 (part 6)"
+title: "[[longbow2]] — Chapter 3 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -113,8 +113,8 @@ somewhat mollified.  "But really this prevalence of common
 sense is getting quite dangerous.  Will nothing rouse you all
 to a little unreality; to saying, so to speak, `O, for the wings
 of a pig that I might flee away and be at rest.'  What would you
-say if I turned the world upside down and set my foot upon
-the sun and moon?"
+say if I turned the [[World Upside Down|world upside down]] and set my foot upon
+the sun and [[Moon|moon]]?"
 
 "I should say," replied Joan Hardy, still smiling, "that you wanted
 somebody to look after you."
@@ -122,18 +122,18 @@ somebody to look after you."
 He stared at her for a moment in an almost abstracted fashion
 as if he had not fully understood; then he laughed uncontrollably,
 like a man who has seen something very close to him that he knows he
-is a fool not to have seen before.  So a man will fall over something
+is a [[Fool|fool]] not to have seen before.  So a man will fall over something
 in a game of hiding-and-seeking, and get shaken up with laughter.
 
 "What a bump your mother earth gives you when you fall out of an aeroplane,"
-he said, "especially when your flying ship is only a flying pig. 
+he said, "especially when your flying [[Ship|ship]] is only a flying pig. 
 The earth of the real peasants and the real pigs--don't be offended;
 I assure you the confusion is a compliment.  What a thing is
-horse-sense, and how much finer really than the poetry of Pegasus! 
-And when there is everything else as well that makes the sky clean
-and the earth kind, beauty and bravery and the lifting of the head--
-well, you are right enough, Joan.  Will you take care of me? 
-Will you stop at home and clip my pig's wings?"
+[[Horse|horse]]-sense, and how much finer really than the poetry of Pegasus! 
+And when there is everything else as [[Well|well]] that makes the sky clean
+and the earth kind, [[Beauty|beauty]] and bravery and the lifting of the head--
+[[Well|well]], you are right enough, Joan.  Will you take care of me? 
+Will you stop at [[Home|home]] and clip my pig's wings?"
 
 He had caught hold of her by the hands; but she still laughed
 as she answered.
@@ -149,14 +149,14 @@ towards them.
 congratulate me.  Joan thinks I'm an awful humbug, and right she is;
 I am what has been called a happy hypocrite.  At least you fellows
 may think I've been guilty of a bit of fake in this last affair,
-when I tell you the news.  Well, I will confess."
+when I tell you the news.  [[Well]], I will confess."
 
 "What news do you mean?" inquired the Colonel with curiosity.
 
 Hilary Pierce grinned and made a gesture over his shoulder to the
 litter of porcine parachutes, to indicate his last and crowning folly.
 
-"The truth is," he said laughing, "that was only a final firework display
+"The [[Truth|truth]] is," he said laughing, "that was only a final firework display
 to celebrate victory or failure, whichever you choose to call it. 
 There isn't any need to do so any more, because the veto is removed.
 
@@ -177,7 +177,7 @@ Businesses are settled by the big people."
 
 "Oh, I know," said Pierce wearily, "I thought he had nothing to do
 with it; I thought it was the Jews and vegetarians, and the rest;
-but they're very innocent instruments.  The truth is that Enoch
+but they're very [[Innocent|innocent]] instruments.  The [[Truth|truth]] is that Enoch
 Oates is the biggest pork-packer and importer in the world,
 and HE didn't want any competition from our cottagers.  And what he
 says goes, as he would express it.  Now, thank God, he's taken up

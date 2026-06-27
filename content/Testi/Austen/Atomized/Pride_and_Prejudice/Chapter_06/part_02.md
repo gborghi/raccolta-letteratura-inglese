@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 6 (part 2)"
+title: "[[Pride and Prejudice]] — Chapter 6 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -31,7 +31,7 @@ any intention of speaking, Miss Lucas defied her friend to mention such
 a subject to him, which immediately provoking Elizabeth to do it, she
 turned to him and said,--
 
-“Did not you think, Mr. Darcy, that I expressed myself uncommonly well
+“Did not you think, Mr. Darcy, that I expressed myself uncommonly [[Well|well]]
 just now, when I was teasing Colonel Forster to give us a ball at
 Meryton?”
 
@@ -44,27 +44,27 @@ energetic.”
 to open the instrument, Eliza, and you know what follows.”
 
 “You are a very strange creature by way of a friend!--always wanting me
-to play and sing before anybody and everybody! If my vanity had taken a
+to play and sing before anybody and everybody! If my [[Vanity|vanity]] had taken a
 musical turn, you would have been invaluable; but as it is, I would
 really rather not sit down before those who must be in the habit of
 hearing the very best performers.” On Miss Lucas’s persevering, however,
-she added, “Very well; if it must be so, it must.” And gravely glancing
+she added, “Very [[Well|well]]; if it must be so, it must.” And gravely glancing
 at Mr. Darcy, “There is a very fine old saying, which everybody here is
 of course familiar with--‘Keep your breath to cool your porridge,’--and
-I shall keep mine to swell my song.”
+I shall keep mine to swell my [[Song|song]].”
 
-Her performance was pleasing, though by no means capital. After a song
+Her performance was pleasing, though by no means capital. After a [[Song|song]]
 or two, and before she could reply to the entreaties of several that she
 would sing again, she was eagerly succeeded at the instrument by her
 sister Mary, who having, in consequence of being the only plain one in
 the family, worked hard for knowledge and accomplishments, was always
 impatient for display.
 
-Mary had neither genius nor taste; and though vanity had given her
+Mary had neither genius nor taste; and though [[Vanity|vanity]] had given her
 application, it had given her likewise a pedantic air and conceited
 manner, which would have injured a higher degree of excellence than she
 had reached. Elizabeth, easy and unaffected, had been listened to with
-much more pleasure, though not playing half so well; and Mary, at the
+much more pleasure, though not playing half so [[Well|well]]; and Mary, at the
 end of a long concerto, was glad to purchase praise and gratitude by
 Scotch and Irish airs, at the request of her younger sisters, who with
 some of the Lucases, and two or three officers, joined eagerly in
@@ -80,16 +80,16 @@ nothing like dancing, after all. I consider it as one of the first
 refinements of polished societies.”
 
 “Certainly, sir; and it has the advantage also of being in vogue amongst
-the less polished societies of the world: every savage can dance.”
+the less polished societies of the world: every savage can [[Dance|dance]].”
 
 Sir William only smiled. “Your friend performs delightfully,” he
-continued, after a pause, on seeing Bingley join the group; “and I doubt
+continued, after a pause, on seeing Bingley join the group; “and I [[Doubt|doubt]]
 not that you are an adept in the science yourself, Mr. Darcy.”
 
-“You saw me dance at Meryton, I believe, sir.”
+“You saw me [[Dance|dance]] at Meryton, I believe, sir.”
 
 “Yes, indeed, and received no inconsiderable pleasure from the sight. Do
-you often dance at St. James’s?”
+you often [[Dance|dance]] at St. James’s?”
 
 “Never, sir.”
 
@@ -97,13 +97,13 @@ you often dance at St. James’s?”
 
 “It is a compliment which I never pay to any place if I can avoid it.”
 
-“You have a house in town, I conclude?”
+“You have a [[house]] in town, I conclude?”
 
 Mr. Darcy bowed.
 
 “I had once some thoughts of fixing in town myself, for I am fond of
 superior society; but I did not feel quite certain that the air of
-London would agree with Lady Lucas.”
+[[London]] would agree with Lady Lucas.”
 
 He paused in hopes of an answer: but his companion was not disposed to
 make any; and Elizabeth at that instant moving towards them, he was
@@ -112,7 +112,7 @@ her,--
 
 “My dear Miss Eliza, why are not you dancing? Mr. Darcy, you must allow
 me to present this young lady to you as a very desirable partner. You
-cannot refuse to dance, I am sure, when so much beauty is before you.”
+cannot refuse to [[Dance|dance]], I am sure, when so much [[Beauty|beauty]] is before you.”
 And, taking her hand, he would have given it to Mr. Darcy, who, though
 extremely surprised, was not unwilling to receive it, when she instantly
 drew back, and said with some discomposure to Sir William,--
@@ -120,11 +120,11 @@ drew back, and said with some discomposure to Sir William,--
 “Indeed, sir, I have not the least intention of dancing. I entreat you
 not to suppose that I moved this way in order to beg for a partner.”
 
-Mr. Darcy, with grave propriety, requested to be allowed the honour of
+Mr. Darcy, with [[Grave|grave]] propriety, requested to be allowed the [[Honour|honour]] of
 her hand, but in vain. Elizabeth was determined; nor did Sir William at
-all shake her purpose by his attempt at persuasion.
+all shake her purpose by his attempt at [[Persuasion|persuasion]].
 
-“You excel so much in the dance, Miss Eliza, that it is cruel to deny me
+“You excel so much in the [[Dance|dance]], Miss Eliza, that it is cruel to deny me
 the happiness of seeing you; and though this gentleman dislikes the
 amusement in general, he can have no objection, I am sure, to oblige us
 for one half hour.”
@@ -132,7 +132,7 @@ for one half hour.”
 “Mr. Darcy is all politeness,” said Elizabeth, smiling.
 
 “He is, indeed: but considering the inducement, my dear Miss Eliza, we
-cannot wonder at his complaisance; for who would object to such a
+cannot [[Wonder|wonder]] at his complaisance; for who would object to such a
 partner?”
 
 Elizabeth looked archly, and turned away. Her resistance had not injured
@@ -146,7 +146,7 @@ complacency, when thus accosted by Miss Bingley,--
 “You are considering how insupportable it would be to pass many
 evenings in this manner,--in such society; and, indeed, I am quite of
 your opinion. I was never more annoyed! The insipidity, and yet the
-noise--the nothingness, and yet the self-importance, of all these
+noise--the nothingness, and yet the [[Self|self]]-importance, of all these
 people! What would I give to hear your strictures on them!”
 
 “Your conjecture is totally wrong, I assure you. My mind was more
@@ -157,14 +157,14 @@ Miss Bingley immediately fixed her eyes on his face, and desired he
 would tell her what lady had the credit of inspiring such reflections.
 Mr. Darcy replied, with great intrepidity,--
 
-“Miss Elizabeth Bennet.”
+“Miss [[Elizabeth Bennet]].”
 
-“Miss Elizabeth Bennet!” repeated Miss Bingley. “I am all astonishment.
+“Miss [[Elizabeth Bennet]]!” repeated Miss Bingley. “I am all astonishment.
 How long has she been such a favourite? and pray when am I to wish you
 joy?”
 
 “That is exactly the question which I expected you to ask. A lady’s
-imagination is very rapid; it jumps from admiration to love, from love
+[[Imagination|imagination]] is very rapid; it jumps from admiration to [[Love|love]], from [[Love|love]]
 to matrimony, in a moment. I knew you would be wishing me joy.”
 
 “Nay, if you are so serious about it, I shall consider the matter as

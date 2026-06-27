@@ -18,28 +18,28 @@ CHAPTER XIV
 THE GREAT MANUFACTURER
 
 
-TIME went on in Coketown like its own machinery: so much material wrought
+[[Time|TIME]] went on in Coketown like its own machinery: so much material wrought
 up, so much fuel consumed, so many powers worn out, so much money made.
 But, less inexorable than iron, steel, and brass, it brought its varying
-seasons even into that wilderness of smoke and brick, and made the only
+[[Seasons|seasons]] even into that wilderness of smoke and brick, and made the only
 stand that ever _was_ made in the place against its direful uniformity.
 
 ‘Louisa is becoming,’ said Mr. Gradgrind, ‘almost a young woman.’
 
-Time, with his innumerable horse-power, worked away, not minding what
+[[Time]], with his innumerable [[Horse|horse]]-power, worked away, not minding what
 anybody said, and presently turned out young Thomas a foot taller than
 when his father had last taken particular notice of him.
 
 ‘Thomas is becoming,’ said Mr. Gradgrind, ‘almost a young man.’
 
-Time passed Thomas on in the mill, while his father was thinking about
+[[Time]] passed Thomas on in the mill, while his father was thinking about
 it, and there he stood in a long-tailed coat and a stiff shirt-collar.
 
 ‘Really,’ said Mr. Gradgrind, ‘the period has arrived when Thomas ought
 to go to Bounderby.’
 
-Time, sticking to him, passed him on into Bounderby’s Bank, made him an
-inmate of Bounderby’s house, necessitated the purchase of his first
+[[Time]], sticking to him, passed him on into Bounderby’s Bank, made him an
+inmate of Bounderby’s [[house]], necessitated the purchase of his first
 razor, and exercised him diligently in his calculations relative to
 number one.
 
@@ -47,7 +47,7 @@ The same great manufacturer, always with an immense variety of work on
 hand, in every stage of development, passed Sissy onward in his mill, and
 worked her up into a very pretty article indeed.
 
-‘I fear, Jupe,’ said Mr. Gradgrind, ‘that your continuance at the school
+‘I [[Fear|fear]], Jupe,’ said Mr. Gradgrind, ‘that your continuance at the school
 any longer would be useless.’
 
 ‘I am afraid it would, sir,’ Sissy answered with a curtsey.
@@ -82,7 +82,7 @@ disappointed.’
 to a poor forlorn girl who had no claim upon you, and of your protection
 of her.’
 
-‘Don’t shed tears,’ said Mr. Gradgrind.  ‘Don’t shed tears.  I don’t
+‘Don’t shed [[Tears|tears]],’ said Mr. Gradgrind.  ‘Don’t shed [[Tears|tears]].  I don’t
 complain of you.  You are an affectionate, earnest, good young
 woman—and—and we must make that do.’
 
@@ -90,18 +90,18 @@ woman—and—and we must make that do.’
 
 ‘You are useful to Mrs. Gradgrind, and (in a generally pervading way) you
 are serviceable in the family also; so I understand from Miss Louisa,
-and, indeed, so I have observed myself.  I therefore hope,’ said Mr.
+and, indeed, so I have observed myself.  I therefore [[Hope|hope]],’ said Mr.
 Gradgrind, ‘that you can make yourself happy in those relations.’
 
 ‘I should have nothing to wish, sir, if—’
 
 ‘I understand you,’ said Mr. Gradgrind; ‘you still refer to your father.
-I have heard from Miss Louisa that you still preserve that bottle.  Well!
+I have heard from Miss Louisa that you still preserve that bottle.  [[Well]]!
 If your training in the science of arriving at exact results had been
 more successful, you would have been wiser on these points.  I will say
 no more.’
 
-He really liked Sissy too well to have a contempt for her; otherwise he
+He really liked Sissy too [[Well|well]] to have a contempt for her; otherwise he
 held her calculating powers in such very slight estimation that he must
 have fallen upon that conclusion.  Somehow or other, he had become
 possessed by an idea that there was something in this girl which could
@@ -112,13 +112,13 @@ to tick her off into columns in a parliamentary return, he would have
 quite known how to divide her.
 
 In some stages of his manufacture of the human fabric, the processes of
-Time are very rapid.  Young Thomas and Sissy being both at such a stage
+[[Time]] are very rapid.  Young Thomas and Sissy being both at such a stage
 of their working up, these changes were effected in a year or two; while
 Mr. Gradgrind himself seemed stationary in his course, and underwent no
 alteration.
 
 Except one, which was apart from his necessary progress through the mill.
-Time hustled him into a little noisy and rather dirty machinery, in a
+[[Time]] hustled him into a little noisy and rather dirty machinery, in a
 by-comer, and made him Member of Parliament for Coketown: one of the
 respected members for ounce weights and measures, one of the
 representatives of the multiplication table, one of the deaf honourable
@@ -137,31 +137,31 @@ attracted his notice again, when he found her quite a young woman.
 
 Soon after this discovery, he became more thoughtful than usual for
 several days, and seemed much engrossed by one subject.  On a certain
-night, when he was going out, and Louisa came to bid him good-bye before
-his departure—as he was not to be home until late and she would not see
+[[Night|night]], when he was going out, and Louisa came to bid him good-bye before
+his departure—as he was not to be [[Home|home]] until late and she would not see
 him again until the morning—he held her in his arms, looking at her in
 his kindest manner, and said:
 
 ‘My dear Louisa, you are a woman!’
 
-She answered with the old, quick, searching look of the night when she
+She answered with the old, quick, searching look of the [[Night|night]] when she
 was found at the Circus; then cast down her eyes.  ‘Yes, father.’
 
-‘My dear,’ said Mr. Gradgrind, ‘I must speak with you alone and
+‘My dear,’ said Mr. Gradgrind, ‘I must speak with you [[Alone|alone]] and
 seriously.  Come to me in my room after breakfast to-morrow, will you?’
 
 ‘Yes, father.’
 
-‘Your hands are rather cold, Louisa.  Are you not well?’
+‘Your hands are rather cold, Louisa.  Are you not [[Well|well]]?’
 
-‘Quite well, father.’
+‘Quite [[Well|well]], father.’
 
 ‘And cheerful?’
 
 She looked at him again, and smiled in her peculiar manner.  ‘I am as
 cheerful, father, as I usually am, or usually have been.’
 
-‘That’s well,’ said Mr. Gradgrind.  So, he kissed her and went away; and
+‘That’s [[Well|well]],’ said Mr. Gradgrind.  So, he kissed her and went away; and
 Louisa returned to the serene apartment of the hair-cutting character,
 and leaning her elbow on her hand, looked again at the short-lived sparks
 that so soon subsided into ashes.
@@ -179,21 +179,21 @@ up with you when he comes it too strong, and so we preserve an
 understanding.  I say!  Has father said anything particular to you to-day
 or yesterday, Loo?’
 
-‘No, Tom.  But he told me to-night that he wished to do so in the
+‘No, Tom.  But he told me to-[[Night|night]] that he wished to do so in the
 morning.’
 
 ‘Ah!  That’s what I mean,’ said Tom.  ‘Do you know where he is
-to-night?’—with a very deep expression.
+to-[[Night|night]]?’—with a very deep expression.
 
 ‘No.’
 
 ‘Then I’ll tell you.  He’s with old Bounderby.  They are having a regular
-confab together up at the Bank.  Why at the Bank, do you think?  Well,
+confab together up at the Bank.  Why at the Bank, do you think?  [[Well]],
 I’ll tell you again.  To keep Mrs. Sparsit’s ears as far off as possible,
 I expect.’
 
 With her hand upon her brother’s shoulder, Louisa still stood looking at
-the fire.  Her brother glanced at her face with greater interest than
+the [[Fire|fire]].  Her brother glanced at her face with greater interest than
 usual, and, encircling her waist with his arm, drew her coaxingly to him.
 
 ‘You are very fond of me, an’t you, Loo?’
@@ -201,7 +201,7 @@ usual, and, encircling her waist with his arm, drew her coaxingly to him.
 ‘Indeed I am, Tom, though you do let such long intervals go by without
 coming to see me.’
 
-‘Well, sister of mine,’ said Tom, ‘when you say that, you are near my
+‘[[Well]], sister of mine,’ said Tom, ‘when you say that, you are near my
 thoughts.  We might be so much oftener together—mightn’t we?  Always
 together, almost—mightn’t we?  It would do me a great deal of good if you
 were to make up your mind to I know what, Loo.  It would be a splendid
@@ -209,24 +209,24 @@ thing for me.  It would be uncommonly jolly!’
 
 Her thoughtfulness baffled his cunning scrutiny.  He could make nothing
 of her face.  He pressed her in his arm, and kissed her cheek.  She
-returned the kiss, but still looked at the fire.
+returned the kiss, but still looked at the [[Fire|fire]].
 
 ‘I say, Loo!  I thought I’d come, and just hint to you what was going on:
 though I supposed you’d most likely guess, even if you didn’t know.  I
-can’t stay, because I’m engaged to some fellows to-night.  You won’t
+can’t stay, because I’m engaged to some fellows to-[[Night|night]].  You won’t
 forget how fond you are of me?’
 
 ‘No, dear Tom, I won’t forget.’
 
 ‘That’s a capital girl,’ said Tom.  ‘Good-bye, Loo.’
 
-She gave him an affectionate good-night, and went out with him to the
+She gave him an affectionate good-[[Night|night]], and went out with him to the
 door, whence the fires of Coketown could be seen, making the distance
 lurid.  She stood there, looking steadfastly towards them, and listening
 to his departing steps.  They retreated quickly, as glad to get away from
 Stone Lodge; and she stood there yet, when he was gone and all was quiet.
-It seemed as if, first in her own fire within the house, and then in the
-fiery haze without, she tried to discover what kind of woof Old Time,
+It seemed as if, first in her own [[Fire|fire]] within the [[house]], and then in the
+fiery haze without, she tried to discover what kind of woof Old [[Time]],
 that greatest and longest-established Spinner of all, would weave from
 the threads he had already spun into a woman.  But his factory is a
 secret place, his work is noiseless, and his Hands are mutes.

@@ -1,5 +1,5 @@
 ---
-title: "TheAppOfTyranny — Chapter 4 (part 10)"
+title: "[[TheAppOfTyranny]] — Chapter 4 (part 10)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheAppOfTyranny-(Chesterton)"
@@ -90,7 +90,7 @@ Gutenberg-tm License.
 
 
 
-1.E.6.  You may convert to and distribute this work in any binary,
+1.E.6.  You may [[convert]] to and distribute this work in any binary,
 
 compressed, marked up, nonproprietary or proprietary form, including any
 
@@ -194,7 +194,7 @@ electronic work or group of works on different terms than are set
 
 forth in this agreement, you must obtain permission in writing from
 
-both the Project Gutenberg Literary Archive Foundation and Michael
+both the Project Gutenberg Literary Archive Foundation and [[Michael]]
 
 Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 

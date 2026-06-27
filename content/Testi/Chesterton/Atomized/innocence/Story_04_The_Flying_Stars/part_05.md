@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Flying Stars (part 5)"
+title: "[[innocence]] — The Flying [[Stars]] (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/innocence-(Chesterton)"
@@ -14,29 +14,29 @@ tags:
 </nav>
 
 
-"Well, Flambeau," says the voice, "you really look like a Flying Star;
+"[[Well]], [[Flambeau]]," says the voice, "you really look like a Flying Star;
 but that always means a Falling Star at last."
 
 The silver, sparkling figure above seems to lean forward in the laurels and,
 confident of escape, listens to the little figure below.
-      "You never did anything better, Flambeau.  It was clever to
-come from Canada (with a Paris ticket, I suppose) just a week
+      "You never did anything better, [[Flambeau]].  It was clever to
+come from Canada (with a [[Paris]] ticket, I suppose) just a week
 after Mrs. Adams died, when no one was in a mood to ask questions.
-It was cleverer to have marked down the Flying Stars and the very day
+It was cleverer to have marked down the Flying [[Stars]] and the very day
 of Fischer's coming.  But there's no cleverness, but mere genius,
 in what followed.  Stealing the stones, I suppose, was nothing to you.
 You could have done it by sleight of hand in a hundred other ways besides
-that pretence of putting a paper donkey's tail to Fischer's coat.
+that pretence of putting a paper [[donkey]]'s tail to Fischer's coat.
 But in the rest you eclipsed yourself."
 
-The silvery figure among the green leaves seems to linger as if hypnotised,
+The silvery figure among the green [[Leaves|leaves]] seems to linger as if hypnotised,
 though his escape is easy behind him; he is staring at the man below.
 
 "Oh, yes," says the man below, "I know all about it.
-I know you not only forced the pantomime, but put it to a double use.
+I know you not only forced the pantomime, but put it to a [[Double|double]] use.
 You were going to steal the stones quietly; news came by an accomplice
 that you were already suspected, and a capable police officer
-was coming to rout you up that very night.  A common thief would
+was coming to rout you up that very [[Night|night]].  A common thief would
 have been thankful for the warning and fled; but you are a poet.
 You already had the clever notion of hiding the jewels in a blaze
 of false stage jewellery.  Now, you saw that if the dress were a
@@ -52,11 +52,11 @@ And now, by the way, you might give me back those diamonds."
 The green branch on which the glittering figure swung,
 rustled as if in astonishment; but the voice went on:
 
-"I want you to give them back, Flambeau, and I want you to give
-up this life.  There is still youth and honour and humour in you;
+"I want you to give them back, [[Flambeau]], and I want you to give
+up this life.  There is still youth and [[Honour|honour]] and [[Humour|humour]] in you;
 don't fancy they will last in that trade.  Men may keep a sort
 of level of good, but no man has ever been able to keep on one
-level of evil.  That road goes down and down.  The kind man
+level of evil.  That [[Road|road]] goes down and down.  The kind man
 drinks and turns cruel; the frank man kills and lies about it.
 Many a man I've known started like you to be an honest outlaw,
 a merry robber of the rich, and ended stamped into slime.
@@ -66,14 +66,14 @@ that both sides used and despised.  Harry Burke started
 his free money movement sincerely enough; now he's sponging
 on a half-starved sister for endless brandies and sodas.
 Lord Amber went into wild society in a sort of chivalry;
-now he's paying blackmail to the lowest vultures in London.
-Captain Barillon was the great gentleman-apache before your time;
-he died in a madhouse, screaming with fear of the "narks"
+now he's paying blackmail to the lowest vultures in [[London]].
+Captain Barillon was the great gentleman-apache before your [[Time|time]];
+he died in a madhouse, screaming with [[Fear|fear]] of the "narks"
 and receivers that had betrayed him and hunted him down.
-I know the woods look very free behind you, Flambeau; I know
+I know the woods look very free behind you, [[Flambeau]]; I know
 that in a flash you could melt into them like a monkey.
-But some day you will be an old grey monkey, Flambeau.  You will
-sit up in your free forest cold at heart and close to death,
+But some day you will be an old grey monkey, [[Flambeau]].  You will
+sit up in your free forest cold at heart and close to [[Death|death]],
 and the tree-tops will be very bare."
 
 Everything continued still, as if the small man below
@@ -90,8 +90,8 @@ Three flashing diamonds fell from the tree to the turf.
 The small man stooped to pick them up, and when he looked up
 again the green cage of the tree was emptied of its silver bird.
 
-The restoration of the gems (accidentally picked up by Father Brown,
+The restoration of the gems (accidentally picked up by [[Father Brown]],
 of all people) ended the evening in uproarious triumph; and Sir Leopold,
-in his height of good humour, even told the priest that though he himself
+in his height of good [[Humour|humour]], even told the priest that though he himself
 had broader views, he could respect those whose creed required them
 to be cloistered and ignorant of this world.

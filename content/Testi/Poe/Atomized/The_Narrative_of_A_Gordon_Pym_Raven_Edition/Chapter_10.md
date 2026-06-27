@@ -68,9 +68,9 @@ CHAPTER 10
 
       extravagant rhodomontades, intermingled with howls and
 
-      imprecations, while the latter burst into tears, and continued
+      imprecations, while the latter burst into [[Tears|tears]], and continued
 
-      for many minutes weeping like a child.
+      for many minutes weeping like a [[Child|child]].
 
 
 
@@ -142,7 +142,7 @@ CHAPTER 10
 
       nearer, we saw a red flannel cap which he had on fall from his
 
-      head into the water; but of this he took little or no notice,
+      head into the [[Water|water]]; but of this he took little or no notice,
 
       continuing his odd smiles and gesticulations. I relate these
 
@@ -172,7 +172,7 @@ CHAPTER 10
 
       turning to my companions, perceived that they were paler than
 
-      marble. But we had now no time left for question or surmise—the
+      marble. But we had now no [[Time|time]] left for question or surmise—the
 
       brig was within fifty feet of us, and it seemed to be her
 
@@ -194,7 +194,7 @@ CHAPTER 10
 
       and most loathsome state of putrefaction. We plainly saw that not
 
-      a soul lived in that fated vessel! Yet we could not help shouting
+      a [[Soul|soul]] lived in that fated vessel! Yet we could not help shouting
 
       to the dead for help! Yes, long and loudly did we beg, in the
 
@@ -204,7 +204,7 @@ CHAPTER 10
 
       would receive us among their goodly company! We were raving with
 
-      horror and despair—thoroughly mad through the anguish of our
+      horror and [[Despair|despair]]—thoroughly mad through the anguish of our
 
       grievous disappointment.
 
@@ -240,13 +240,13 @@ CHAPTER 10
 
       talons deep buried, and its white plumage spattered all over with
 
-      blood. As the brig moved farther round so as to bring us close in
+      [[Blood|blood]]. As the brig moved farther round so as to bring us close in
 
       view, the bird, with much apparent difficulty, drew out its
 
       crimsoned head, and, after eyeing us for a moment as if
 
-      stupefied, arose lazily from the body upon which it had been
+      stupefied, arose lazily from the [[Body|body]] upon which it had been
 
       feasting, and, flying directly above our deck, hovered there a
 
@@ -256,7 +256,7 @@ CHAPTER 10
 
       immediately at the feet of Parker. May God forgive me, but now,
 
-      for the first time, there flashed through my mind a thought, a
+      for the first [[Time|time]], there flashed through my mind a thought, a
 
       thought which I will not mention, and I felt myself making a step
 
@@ -272,7 +272,7 @@ CHAPTER 10
 
 
 
-      The body from which it had been taken, resting as it did upon the
+      The [[Body|body]] from which it had been taken, resting as it did upon the
 
       rope, had been easily swayed to and fro by the exertions of the
 
@@ -288,7 +288,7 @@ CHAPTER 10
 
       whole flesh around the mouth, leaving the teeth utterly naked.
 
-      This, then, was the smile which had cheered us on to hope! this
+      This, then, was the smile which had cheered us on to [[Hope|hope]]! this
 
       the—but I forbear. The brig, as I have already told, passed under
 
@@ -300,11 +300,11 @@ CHAPTER 10
 
       possibly have found means of boarding her, had not our sudden
 
-      disappointment and the appalling nature of the discovery which
+      disappointment and the appalling [[Nature|nature]] of the discovery which
 
       accompanied it laid entirely prostrate every active faculty of
 
-      mind and body. We had seen and felt, but we could neither think
+      mind and [[Body|body]]. We had seen and felt, but we could neither think
 
       nor act, until, alas! too late. How much our intellects had been
 
@@ -334,7 +334,7 @@ CHAPTER 10
 
       character; but the intense excitement of the moment blinded us to
 
-      every thing of that nature. From the saffron-like hue of such of
+      every thing of that [[Nature|nature]]. From the saffron-like hue of such of
 
       the corpses as were not entirely decayed, we concluded that the
 
@@ -342,7 +342,7 @@ CHAPTER 10
 
       other virulent disease of the same fearful kind. If such were the
 
-      case (and I know not what else to imagine), death, to judge from
+      case (and I know not what else to imagine), [[Death|death]], to judge from
 
       the positions of the bodies, must have come upon them in a manner
 
@@ -352,7 +352,7 @@ CHAPTER 10
 
       pestilences with which mankind are acquainted. It is possible,
 
-      indeed, that poison, accidentally introduced into some of their
+      indeed, that [[Poison|poison]], accidentally introduced into some of their
 
       sea-stores, may have brought about the disaster, or that the
 
@@ -362,6 +362,6 @@ CHAPTER 10
 
       useless to form conjectures where all is involved, and will, no
 
-      doubt, remain for ever involved, in the most appalling and
+      [[Doubt|doubt]], remain for ever involved, in the most appalling and
 
       unfathomable mystery.

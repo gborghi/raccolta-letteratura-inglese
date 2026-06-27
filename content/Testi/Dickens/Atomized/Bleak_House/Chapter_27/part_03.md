@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 27 (part 3)"
+title: "Bleak [[house|House]] — Chapter 27 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -18,21 +18,21 @@ It is more difficult to get rid of the old gentleman, Mr. George
 finds, than to bear a hand in carrying him downstairs, for when he is
 replaced in his conveyance, he is so loquacious on the subject of the
 guineas and retains such an affectionate hold of his button—having,
-in truth, a secret longing to rip his coat open and rob him—that
+in [[Truth|truth]], a secret [[Longing|longing]] to rip his coat open and rob him—that
 some degree of force is necessary on the trooper’s part to effect a
-separation. It is accomplished at last, and he proceeds alone in
-quest of his adviser.
+separation. It is accomplished at last, and he proceeds [[Alone|alone]] in
+[[Quest|quest]] of his adviser.
 
 By the cloisterly Temple, and by Whitefriars (there, not without a
-glance at Hanging-Sword Alley, which would seem to be something in
-his way), and by Blackfriars Bridge, and Blackfriars Road, Mr. George
+glance at Hanging-[[Sword]] Alley, which would seem to be something in
+his way), and by Blackfriars Bridge, and Blackfriars [[Road]], Mr. George
 sedately marches to a street of little shops lying somewhere in that
-ganglion of roads from Kent and Surrey, and of streets from the
-bridges of London, centring in the far-famed elephant who has lost
-his castle formed of a thousand four-horse coaches to a stronger iron
-monster than he, ready to chop him into mince-meat any day he dares.
+ganglion of roads from [[Kent]] and Surrey, and of streets from the
+bridges of [[London]], centring in the far-famed elephant who has lost
+his [[Castle|castle]] formed of a thousand four-[[Horse|horse]] coaches to a stronger iron
+[[Monster|monster]] than he, ready to chop him into mince-meat any day he dares.
 To one of the little shops in this street, which is a musician’s
-shop, having a few fiddles in the window, and some Pan’s pipes and a
+shop, having a few fiddles in the [[Window|window]], and some Pan’s pipes and a
 tambourine, and a triangle, and certain elongated scraps of music,
 Mr. George directs his massive tread. And halting at a few paces from
 it, as he sees a soldierly looking woman, with her outer skirts
@@ -45,7 +45,7 @@ greens!”
 The subject of this reflection is at all events so occupied in
 washing greens at present that she remains unsuspicious of Mr.
 George’s approach until, lifting up herself and her tub together when
-she has poured the water off into the gutter, she finds him standing
+she has poured the [[Water|water]] off into the gutter, she finds him standing
 near her. Her reception of him is not flattering.
 
 “George, I never see you but I wish you was a hundred mile away!”
@@ -63,30 +63,30 @@ when you’re near him. You are that restless and that roving—”
 “You know you are!” says Mrs. Bagnet. “What’s the use of that? WHY
 are you?”
 
-“The nature of the animal, I suppose,” returns the trooper
+“The [[Nature|nature]] of the animal, I suppose,” returns the trooper
 good-humouredly.
 
 “Ah!” cries Mrs. Bagnet, something shrilly. “But what satisfaction
-will the nature of the animal be to me when the animal shall have
+will the [[Nature|nature]] of the animal be to me when the animal shall have
 tempted my Mat away from the musical business to New Zealand or
 Australey?”
 
 Mrs. Bagnet is not at all an ill-looking woman. Rather large-boned, a
-little coarse in the grain, and freckled by the sun and wind which
+little coarse in the grain, and freckled by the sun and [[Wind|wind]] which
 have tanned her hair upon the forehead, but healthy, wholesome, and
 bright-eyed. A strong, busy, active, honest-faced woman of from
 forty-five to fifty. Clean, hardy, and so economically dressed
 (though substantially) that the only article of ornament of which she
 stands possessed appear’s to be her wedding-ring, around which her
 finger has grown to be so large since it was put on that it will
-never come off again until it shall mingle with Mrs. Bagnet’s dust.
+never come off again until it shall mingle with Mrs. Bagnet’s [[Dust|dust]].
 
 “Mrs. Bagnet,” says the trooper, “I am on my parole with you. Mat
 will get no harm from me. You may trust me so far.”
 
-“Well, I think I may. But the very looks of you are unsettling,” Mrs.
+“[[Well]], I think I may. But the very looks of you are unsettling,” Mrs.
 Bagnet rejoins. “Ah, George, George! If you had only settled down and
-married Joe Pouch’s widow when he died in North America, SHE’D have
+married Joe Pouch’s widow when he died in North [[america|America]], SHE’D have
 combed your hair for you.”
 
 “It was a chance for me, certainly,” returns the trooper half
@@ -121,7 +121,7 @@ and romping plant their stools beside him.
 you believe it? Got an engagement at the theayter, with his father,
 to play the fife in a military piece.”
 
-“Well done, my godson!” cries Mr. George, slapping his thigh.
+“[[Well]] done, my godson!” cries Mr. George, slapping his thigh.
 
 “I believe you!” says Mrs. Bagnet. “He’s a Briton. That’s what
 Woolwich is. A Briton!”
@@ -129,17 +129,17 @@ Woolwich is. A Briton!”
 “And Mat blows away at his bassoon, and you’re respectable civilians
 one and all,” says Mr. George. “Family people. Children growing up.
 Mat’s old mother in Scotland, and your old father somewhere else,
-corresponded with, and helped a little, and—well, well! To be sure,
+corresponded with, and helped a little, and—[[Well|well]], [[Well|well]]! To be sure,
 I don’t know why I shouldn’t be wished a hundred mile away, for I
 have not much to do with all this!”
 
-Mr. George is becoming thoughtful, sitting before the fire in the
+Mr. George is becoming thoughtful, sitting before the [[Fire|fire]] in the
 whitewashed room, which has a sanded floor and a barrack smell and
 contains nothing superfluous and has not a visible speck of dirt or
-dust in it, from the faces of Quebec and Malta to the bright tin pots
+[[Dust|dust]] in it, from the faces of Quebec and Malta to the bright tin pots
 and pannikins upon the dresser shelves—Mr. George is becoming
 thoughtful, sitting here while Mrs. Bagnet is busy, when Mr. Bagnet
-and young Woolwich opportunely come home. Mr. Bagnet is an
+and young Woolwich opportunely come [[Home|home]]. Mr. Bagnet is an
 ex-artilleryman, tall and upright, with shaggy eyebrows and whiskers
 like the fibres of a coco-nut, not a hair upon his head, and a torrid
 complexion. His voice, short, deep, and resonant, is not at all

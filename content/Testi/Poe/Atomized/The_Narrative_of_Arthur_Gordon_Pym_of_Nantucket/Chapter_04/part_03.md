@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 5 (part 3)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 5 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -22,13 +22,13 @@ that, by observing the light, I might, if alive, be aware that succour
 
 was approaching. Still nothing was heard from me, and the supposition
 
-of my death began to assume the character of certainty. He determined,
+of my [[Death|death]] began to assume the character of certainty. He determined,
 
 nevertheless, to force a passage, if possible, to the box, and at least
 
-ascertain beyond a doubt the truth of his surmises. He pushed on for
+ascertain beyond a [[Doubt|doubt]] the [[Truth|truth]] of his surmises. He pushed on for
 
-some time in a most pitiable state of anxiety, until, at length, he
+some [[Time|time]] in a most pitiable state of anxiety, until, at length, he
 
 found the pathway utterly blocked up, and that there was no possibility
 
@@ -36,7 +36,7 @@ of making any farther way by the course in which he had set out.
 
 Overcome now by his feelings, he threw himself among the lumber in
 
-despair, and wept like a child. It was at this period that he heard the
+[[Despair|despair]], and wept like a [[Child|child]]. It was at this period that he heard the
 
 crash occasioned by the bottle which I had thrown down. Fortunate,
 
@@ -60,7 +60,7 @@ the forecastle. Before condemning him entirely on this head, the
 
 harassing circumstances which embarrassed him should be taken into
 
-consideration. The night was fast wearing away, and his absence from
+consideration. The [[Night|night]] was fast wearing away, and his absence from
 
 the forecastle might be discovered; and, indeed, would necessarily be
 
@@ -78,7 +78,7 @@ danger would be encountered to no purpose by himself. He had repeatedly
 
 called, and I had made him no answer. I had been now eleven days and
 
-nights with no more water than that contained in the jug which he had
+nights with no more [[Water|water]] than that contained in the jug which he had
 
 left with me, a supply which it was not at all probable I had hoarded
 
@@ -88,31 +88,31 @@ a speedy release. The atmosphere of the hold, too, must have appeared
 
 to him, coming from the comparatively open air of the steerage, of a
 
-nature absolutely poisonous, and by far more intolerable than it had
+[[Nature|nature]] absolutely poisonous, and by far more intolerable than it had
 
 seemed to me upon my first taking up my quarters in the box--the
 
-hatchways at that time having been constantly open for many months
+hatchways at that [[Time|time]] having been constantly open for many months
 
 previous. Add to these considerations that of the scene of bloodshed
 
 and terror so lately witnessed by my friend; his confinement,
 
-privations, and narrow escapes from death; together with the frail and
+privations, and narrow escapes from [[Death|death]]; together with the frail and
 
-equivocal tenure by which he still existed--circumstances all so well
+equivocal tenure by which he still existed--circumstances all so [[Well|well]]
 
 calculated to prostrate every energy of mind--and the reader will be
 
 easily brought, as I have been, to regard his apparent falling off in
 
-friendship and in faith with sentiments rather of sorrow than of anger.
+[[Friendship|friendship]] and in [[Faith|faith]] with sentiments rather of sorrow than of anger.
 
 
 
 The crash of the bottle was distinctly heard, yet Augustus was not sure
 
-that it proceeded from the hold. The doubt, however, was sufficient
+that it proceeded from the hold. The [[Doubt|doubt]], however, was sufficient
 
 inducement to persevere. He clambered up nearly to the orlop deck by
 
@@ -128,9 +128,9 @@ reached me, but I was so entirely overcome by violent agitation as to
 
 be incapable of reply. Confident, now, that his worst apprehensions
 
-were well founded, he descended, with a view of getting back to the
+were [[Well|well]] founded, he descended, with a view of getting back to the
 
-forecastle without loss of time. In his haste some small boxes were
+forecastle without loss of [[Time|time]]. In his haste some small boxes were
 
 thrown down, the noise occasioned by which I heard, as will be
 
@@ -138,9 +138,9 @@ recollected. He had made considerable progress on his return when the
 
 fall of the knife again caused him to hesitate. He retraced his steps
 
-immediately, and, clambering up the stowage a second time, called out
+immediately, and, clambering up the stowage a second [[Time|time]], called out
 
-my name, loudly as before, having watched for a lull. This time I found
+my name, loudly as before, having watched for a lull. This [[Time|time]] I found
 
 voice to answer. Overjoyed at discovering me to be still alive, he now
 

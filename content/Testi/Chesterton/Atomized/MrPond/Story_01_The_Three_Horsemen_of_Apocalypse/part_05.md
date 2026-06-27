@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Three Horsemen of Apocalypse (part 5)"
+title: "[[MrPond]] — The Three Horsemen of [[Apocalypse]] (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -20,7 +20,7 @@ of all things.
 
 He was atheist, like so many thousands of dull, clever men in
 
-Northern Germany; but he was not that happier sort of pagan who can
+Northern [[Germany]]; but he was not that happier sort of pagan who can
 
 see in human progress a natural flowering of the earth.  That world
 
@@ -38,7 +38,7 @@ seen from above like a sprawling map, seemed more like the chart of
 
 a disease than a development; and the land-locked pools might have
 
-been of poison rather than water.  He remembered some humanitarian
+been of [[Poison|poison]] rather than [[Water|water]].  He remembered some humanitarian
 
 fuss or other about the poisoning of pools.
 
@@ -48,9 +48,9 @@ But the reflections of the sergeant, like most reflections of men
 
 not normally reflective, had a root in some subconscious strain on
 
-his nerves and his practical intelligence.  The truth was that the
+his nerves and his practical intelligence.  The [[Truth|truth]] was that the
 
-straight road before him was not only dreary, but seemed
+straight [[Road|road]] before him was not only dreary, but seemed
 
 interminably long.  He would never have believed he could have
 
@@ -60,13 +60,13 @@ followed.  Von Schacht must indeed have the fleetest of horses to
 
 have got so far ahead already; for, after all, he had only started,
 
-at whatever speed, within a comparatively short time.  As Schwartz
+at whatever [[Speed|speed]], within a comparatively short [[Time|time]].  As Schwartz
 
 had said, he hardly expected to overtake him; but a very realistic
 
 sense of the distances involved had told him that he must very soon
 
-come in sight of him.  And then, just as despair was beginning to
+come in sight of him.  And then, just as [[Despair|despair]] was beginning to
 
 descend and spread itself vaguely over the desolate landscape, he
 
@@ -104,9 +104,9 @@ deformed.  He was hanging like a humpback over the saddle; and
 
 Schwartz, with his exact eye and long experience, was certain that
 
-his victim was shot through the body; and almost certain that he
+his victim was shot through the [[Body|body]]; and almost certain that he
 
-was shot through the heart.  Then he brought the horse down with a
+was shot through the heart.  Then he brought the [[Horse|horse]] down with a
 
 second shot; and the whole equestrian group heeled over and slipped
 
@@ -122,7 +122,7 @@ headed men of his sort are generally very precise about what they
 
 are doing; that is why they are so often quite wrong about what
 
-they do.  He had outraged the comradeship that is the soul of
+they do.  He had outraged the [[Comradeship|comradeship]] that is the [[Soul|soul]] of
 
 armies; he had killed a gallant officer who was in the performance
 
@@ -142,7 +142,7 @@ The man carrying the reprieve was certainly dead; and even if by
 
 some miracle he were only dying, he could not conceivably have
 
-ridden his dead or dying horse to the town in time to prevent the
+ridden his dead or dying [[Horse|horse]] to the town in [[Time|time]] to prevent the
 
 execution.  No; on the whole it was much more practical and prudent
 
@@ -154,11 +154,11 @@ strength of the great Marshal.
 
 
 
-And truly the great Marshal had this greatness about him; that
+And truly the great Marshal had this [[Greatness|greatness]] about him; that
 
 after the monstrous thing he had done, or caused to be done, he
 
-disdained to show any fear of facing the facts on the spot or the
+disdained to show any [[Fear|fear]] of facing the facts on the spot or the
 
 compromising possibilities of keeping in touch with his tool.  He
 
@@ -178,9 +178,9 @@ remained some danger from popular resentment.
 
 "Is it here, then, Marshal?" asked the sergeant in a low voice.  "I
 
-fancied it was further on; but it's a fact the infernal road seemed
+fancied it was further on; but it's a fact the infernal [[Road|road]] seemed
 
-to lengthen out like a nightmare."
+to lengthen out like a [[nightmare]]."
 
 
 
@@ -192,7 +192,7 @@ looked down.
 
 
 
-The moon had risen over the marshes and gone up strengthening in
+The [[Moon|moon]] had risen over the marshes and gone up strengthening in
 
 splendour and gleaming on dark waters and green scum; and in the
 
@@ -202,7 +202,7 @@ a sort of luminous and radiant ruin, all that was left of one of
 
 those superb white horses and white horsemen of his old brigade.
 
-Nor was the identity doubtful; the moon made a sort of aureole of
+Nor was the [[Identity|identity]] doubtful; the [[Moon|moon]] made a sort of aureole of
 
 the curled golden hair of young Arnold, the second rider and the
 
@@ -218,6 +218,6 @@ armour of Sir Galahad; and there could scarcely have been a more
 
 horrible contrast than that between such fallen grace and youth
 
-below and the rocky and grotesque figure looking down from above.
+below and the rocky and [[Grotesque|grotesque]] figure looking down from above.
 
 Grock had taken off his helmet again; and though it is possible

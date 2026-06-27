@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 26"
+title: "[[Great Expectations]] — Chapter 26"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -26,14 +26,14 @@ which Wemmick had prepared me to receive. “No ceremony,” he stipulated,
 “and no dinner dress, and say to-morrow.” I asked him where we should
 come to (for I had no idea where he lived), and I believe it was in his
 general objection to make anything like an admission, that he replied,
-“Come here, and I’ll take you home with me.” I embrace this opportunity
+“Come here, and I’ll take you [[Home|home]] with me.” I embrace this opportunity
 of remarking that he washed his clients off, as if he were a surgeon or
 a dentist. He had a closet in his room, fitted up for the purpose,
 which smelt of the scented soap like a perfumer’s shop. It had an
 unusually large jack-towel on a roller inside the door, and he would
 wash his hands, and wipe them and dry them all over this towel,
-whenever he came in from a police court or dismissed a client from his
-room. When I and my friends repaired to him at six o’clock next day, he
+whenever he came in from a police [[Court|court]] or dismissed a client from his
+room. When I and my friends repaired to him at six o’[[Clock|clock]] next day, he
 seemed to have been engaged on a case of a darker complexion than
 usual, for we found him with his head butted into this closet, not only
 washing his hands, but laving his face and gargling his throat. And
@@ -50,8 +50,8 @@ the streets, and whenever that happened he talked louder to me; but he
 never otherwise recognised anybody, or took notice that anybody
 recognised him.
 
-He conducted us to Gerrard Street, Soho, to a house on the south side
-of that street. Rather a stately house of its kind, but dolefully in
+He conducted us to Gerrard Street, Soho, to a [[house]] on the south side
+of that street. Rather a stately [[house]] of its kind, but dolefully in
 want of painting, and with dirty windows. He took out his key and
 opened the door, and we all went into a stone hall, bare, gloomy, and
 little used. So, up a dark brown staircase into a series of three dark
@@ -61,7 +61,7 @@ what kind of loops I thought they looked like.
 
 Dinner was laid in the best of these rooms; the second was his
 dressing-room; the third, his bedroom. He told us that he held the
-whole house, but rarely used more of it than we saw. The table was
+whole [[house]], but rarely used more of it than we saw. The table was
 comfortably laid—no silver in the service, of course—and at the side of
 his chair was a capacious dumb-waiter, with a variety of bottles and
 decanters on it, and four dishes of fruit for dessert. I noticed
@@ -69,12 +69,12 @@ throughout, that he kept everything under his own hand, and distributed
 everything himself.
 
 There was a bookcase in the room; I saw from the backs of the books,
-that they were about evidence, criminal law, criminal biography,
+that they were about evidence, criminal law, criminal [[Biography|biography]],
 trials, acts of Parliament, and such things. The furniture was all very
 solid and good, like his watch-chain. It had an official look, however,
 and there was nothing merely ornamental to be seen. In a corner was a
 little table of papers with a shaded lamp: so that he seemed to bring
-the office home with him in that respect too, and to wheel it out of an
+the office [[Home|home]] with him in that respect too, and to [[Wheel|wheel]] it out of an
 evening and fall to work.
 
 As he had scarcely seen my three companions until now,—for he and I had
@@ -83,7 +83,7 @@ and took a searching look at them. To my surprise, he seemed at once to
 be principally if not solely interested in Drummle.
 
 “Pip,” said he, putting his large hand on my shoulder and moving me to
-the window, “I don’t know one from the other. Who’s the Spider?”
+the [[Window|window]], “I don’t know one from the other. Who’s the Spider?”
 
 “The spider?” said I.
 
@@ -107,7 +107,7 @@ pale, with large faded eyes, and a quantity of streaming hair. I cannot
 say whether any diseased affection of the heart caused her lips to be
 parted as if she were panting, and her face to bear a curious
 expression of suddenness and flutter; but I know that I had been to see
-Macbeth at the theatre, a night or two before, and that her face looked
+[[Macbeth]] at the theatre, a [[Night|night]] or two before, and that her face looked
 to me as if it were all disturbed by fiery air, like the faces I had
 seen rise out of the Witches’ caldron.
 
@@ -146,9 +146,9 @@ lips. It was so with all of us, but with no one more than Drummle: the
 development of whose inclination to gird in a grudging and suspicious
 way at the rest, was screwed out of him before the fish was taken off.
 
-It was not then, but when we had got to the cheese, that our
+It was not then, but when we had got to the [[cheese]], that our
 conversation turned upon our rowing feats, and that Drummle was rallied
-for coming up behind of a night in that slow amphibious way of his.
+for coming up behind of a [[Night|night]] in that slow amphibious way of his.
 Drummle upon this, informed our host that he much preferred our room to
 our company, and that as to skill he was more than our master, and that
 as to strength he could scatter us like chaff. By some invisible
@@ -157,7 +157,7 @@ about this trifle; and he fell to baring and spanning his arm to show
 how muscular it was, and we all fell to baring and spanning our arms in
 a ridiculous manner.
 
-Now the housekeeper was at that time clearing the table; my guardian,
+Now the housekeeper was at that [[Time|time]] clearing the table; my guardian,
 taking no heed of her, but with the side of his face turned from her,
 was leaning back in his chair biting the side of his forefinger and
 showing an interest in Drummle, that, to me, was quite inexplicable.
@@ -203,7 +203,7 @@ putting the decanters on from his dumb-waiter, filled his glass and
 passed round the wine.
 
 “At half-past nine, gentlemen,” said he, “we must break up. Pray make
-the best use of your time. I am glad to see you all. Mr. Drummle, I
+the best use of your [[Time|time]]. I am glad to see you all. Mr. Drummle, I
 drink to you.”
 
 If his object in singling out Drummle were to bring him out still more,
@@ -220,7 +220,7 @@ our money. It led to my remarking, with more zeal than discretion, that
 it came with a bad grace from him, to whom Startop had lent money in my
 presence but a week or so before.
 
-“Well,” retorted Drummle; “he’ll be paid.”
+“[[Well]],” retorted Drummle; “he’ll be paid.”
 
 “I don’t mean to imply that he won’t,” said I, “but it might make you
 hold your tongue about us and our money, I should think.”
@@ -262,7 +262,7 @@ being a lively, bright young fellow, and Drummle being the exact
 opposite, the latter was always disposed to resent him as a direct
 personal affront. He now retorted in a coarse, lumpish way, and Startop
 tried to turn the discussion aside with some small pleasantry that made
-us all laugh. Resenting this little success more than anything,
+us all laugh. Resenting this little [[success]] more than anything,
 Drummle, without any threat or warning, pulled his hands out of his
 pockets, dropped his round shoulders, swore, took up a large glass, and
 would have flung it at his adversary’s head, but for our entertainer’s
@@ -273,12 +273,12 @@ purpose.
 hauling out his gold repeater by its massive chain, “I am exceedingly
 sorry to announce that it’s half past nine.”
 
-On this hint we all rose to depart. Before we got to the street door,
+On this hint we all [[Rose|rose]] to depart. Before we got to the street door,
 Startop was cheerily calling Drummle “old boy,” as if nothing had
 happened. But the old boy was so far from responding, that he would not
 even walk to Hammersmith on the same side of the way; so Herbert and I,
 who remained in town, saw them going down the street on opposite sides;
-Startop leading, and Drummle lagging behind in the shadow of the
+Startop leading, and Drummle lagging behind in the [[Shadow|shadow]] of the
 houses, much as he was wont to follow in his boat.
 
 As the door was not yet shut, I thought I would leave Herbert there for
@@ -291,7 +291,7 @@ disagreeable should have occurred, and that I hoped he would not blame
 me much.
 
 “Pooh!” said he, sluicing his face, and speaking through the
-water-drops; “it’s nothing, Pip. I like that Spider though.”
+[[Water|water]]-drops; “it’s nothing, Pip. I like that Spider though.”
 
 He had turned towards me now, and was shaking his head, and blowing,
 and towelling himself.
@@ -306,10 +306,10 @@ Looking out of the towel, he caught my eye.
 
 “But I am not a fortune-teller,” he said, letting his head drop into a
 festoon of towel, and towelling away at his two ears. “You know what I
-am, don’t you? Good night, Pip.”
+am, don’t you? Good [[Night|night]], Pip.”
 
-“Good night, sir.”
+“Good [[Night|night]], sir.”
 
-In about a month after that, the Spider’s time with Mr. Pocket was up
-for good, and, to the great relief of all the house but Mrs. Pocket, he
-went home to the family hole.
+In about a month after that, the Spider’s [[Time|time]] with Mr. Pocket was up
+for good, and, to the great relief of all the [[house]] but Mrs. Pocket, he
+went [[Home|home]] to the family hole.

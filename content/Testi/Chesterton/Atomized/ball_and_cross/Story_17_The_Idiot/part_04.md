@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Idiot (part 4)"
+title: "ball and [[Cross|cross]] — The Idiot (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -24,13 +24,13 @@ MacIan answered briefly:  "Another cell."
 "It has no door," said Evan.
 
 In the pause of perplexity that followed, an eerie and sinister
-feeling crept over Turnbull's stubborn soul in spite of himself.
+feeling crept over Turnbull's stubborn [[Soul|soul]] in spite of himself.
 The notion of the doorless room chilled him with that sense
 of half-witted curiosity which one has when something horrible
 is half understood.
 
-"James Turnbull," said MacIan, in a low and shaken voice, "these people
-hate us more than Nero hated Christians, and fear us more than any
+"[[James Turnbull]]," said MacIan, in a low and shaken voice, "these people
+hate us more than Nero hated Christians, and [[Fear|fear]] us more than any
 man feared Nero.  They have filled England with frenzy and galloping
 in order to capture us and wipe us out--in order to kill us.  And they
 have killed us, for you and I have only made a hole in our coffins.
@@ -45,7 +45,7 @@ and it was not a pretty sort of superstition either.
 
 "There is another man more fearful and hateful," went on MacIan,
 in his low monotone voice, "and they have buried him even deeper.
-God knows how they did it, for he was let in by neither door nor window,
+God knows how they did it, for he was let in by neither door nor [[Window|window]],
 nor lowered through any opening above.  I expect these iron handles
 that we both hate have been part of some damned machinery for walling
 him up.  He is there.  I have looked through the hole at him;
@@ -58,12 +58,12 @@ in rushing to the aperture and looking into the unknown room.
 It was a third oblong cell exactly like the other two except
 that it was doorless, and except that on one of the walls was
 painted a large black A like the B and C outside their own doors.
-The letter in this case was not painted outside, because this prison
+The letter in this case was not painted outside, because this [[Prison|prison]]
 had no outside.
 
 On the same kind of tiled floor, of which the monotonous
 squares had maddened Turnbull's eye and brain, was sitting
-a figure which was startlingly short even for a child,
+a figure which was startlingly short even for a [[Child|child]],
 only that the enormous head was ringed with hair of a frosty grey.
 The figure was draped, both insecurely and insufficiently,
 in what looked like the remains of a brown flannel dressing-gown;
@@ -78,7 +78,7 @@ The thing got up with the promptitude of an animal, and turning
 round offered the spectacle of two owlish eyes and a huge
 grey-and-white beard not unlike the plumage of an owl.
 This extraordinary beard covered him literally to his feet
-(not that that was very far), and perhaps it was as well that it did,
+(not that that was very far), and perhaps it was as [[Well|well]] that it did,
 for portions of his remaining clothing seemed to fall off
 whenever he moved.  One talks trivially of a face like parchment,
 but this old man's face was so wrinkled that it was like a parchment
@@ -90,14 +90,14 @@ his eyes were quite bright, blue, and startled like those of a baby.
 They looked as if they had only an instant before been fitted
 into his head.
 
-Everything depended so obviously upon whether this buried monster spoke
+Everything depended so obviously upon whether this buried [[Monster|monster]] spoke
 that Turnbull did not know or care whether he himself had spoken.
 He said something or nothing.  And then he waited for this dwarfish
-voice that had been hidden under the mountains of the world.
+voice that had been hidden under the [[Mountains|mountains]] of the world.
 At last it did speak, and spoke in English, with a foreign accent
 that was neither Latin nor Teutonic.  He suddenly stretched out a long
 and very dirty forefinger, and cried in a voice of clear recognition,
-like a child's: "That's a hole."
+like a [[Child|child]]'s: "That's a hole."
 
 He digested the discovery for some seconds, sucking his finger,
 and then he cried, with a crow of laughter:  "And that's a head
@@ -107,7 +107,7 @@ The hilarious energy in this idiot attitude gave Turnbull another
 sick turn.  He had grown to tolerate those dreary and mumbling
 madmen who trailed themselves about the beautiful asylum gardens.
 But there was something new and subversive of the universe in the
-combination of so much cheerful decision with a body without a brain.
+combination of so much cheerful decision with a [[Body|body]] without a brain.
 
 "Why did they put you in such a place?" he asked at
 last with embarrassment.

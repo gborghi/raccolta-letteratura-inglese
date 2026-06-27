@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 11 (part 4)"
+title: "[[Shirley]] — Chapter 11 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -30,9 +30,9 @@ Not naturally very confident, a failure of physical strength and a
 
 depression of spirits had not tended to increase Caroline's presence of
 
-mind and ease of manner, or to give her additional courage to face
+mind and ease of manner, or to give her additional [[Courage|courage]] to face
 
-strangers, and she quailed, in spite of self-remonstrance, as she and
+strangers, and she quailed, in spite of [[Self|self]]-remonstrance, as she and
 
 her uncle walked up the broad, paved approach leading from the gateway
 
@@ -42,9 +42,9 @@ that porch into the sombre old vestibule beyond.
 
 
 
-Very sombre it was--long, vast, and dark; one latticed window lit it but
+Very sombre it was--long, vast, and dark; one latticed [[Window|window]] lit it but
 
-dimly. The wide old chimney contained now no fire, for the present warm
+dimly. The wide old chimney contained now no [[Fire|fire]], for the present warm
 
 weather needed it not; it was filled instead with willow-boughs. The
 
@@ -54,7 +54,7 @@ shadowy became this hall towards its ceiling. Carved stags' heads, with
 
 real antlers, looked down grotesquely from the walls. This was neither a
 
-grand nor a comfortable house; within as without it was antique,
+grand nor a comfortable [[house]]; within as without it was antique,
 
 rambling, and incommodious. A property of a thousand a year belonged to
 
@@ -76,7 +76,7 @@ oak: fine, dark, glossy panels compassed the walls gloomily and grandly.
 
 Very handsome, reader, these shining brown panels are, very mellow in
 
-colouring and tasteful in effect, but--if you know what a "spring clean"
+colouring and tasteful in effect, but--if you know what a "[[spring]] clean"
 
 is--very execrable and inhuman. Whoever, having the bowels of humanity,
 
@@ -114,7 +114,7 @@ naturally young-looking features, she had no youthful aspect, nor
 
 apparently the wish to assume it. You could have wished her attire of a
 
-newer fashion. In a well-cut, well-made gown hers would have been no
+newer fashion. In a [[Well|well]]-cut, [[Well|well]]-made gown hers would have been no
 
 uncomely presence. It puzzled you to guess why a garment of handsome
 
@@ -146,11 +146,11 @@ good for the timid, took a seat quietly near her, and began to talk to
 
 her with a gentle ease, communicated for the moment by the presence of
 
-one less self-possessed than herself.
+one less [[Self|self]]-possessed than herself.
 
 
 
-She and this lady would, if alone, have at once got on extremely well
+She and this lady would, if [[Alone|alone]], have at once got on extremely [[Well|well]]
 
 together. The lady had the clearest voice imaginable--infinitely softer
 
@@ -188,7 +188,7 @@ what detained Miss Keeldar, that she would go and look for her, when
 
 Miss Keeldar saved her the trouble by appearing. It was to be presumed
 
-at least that she who now came in through a glass door from the garden
+at least that she who now came in through a glass door from the [[Garden|garden]]
 
 owned that name.
 
@@ -198,7 +198,7 @@ There is real grace in ease of manner, and so old Helstone felt when an
 
 erect, slight girl walked up to him, retaining with her left hand her
 
-little silk apron full of flowers, and, giving him her right hand, said
+little silk apron full of [[Flowers|flowers]], and, giving him her right hand, said
 
 pleasantly, "I knew you would come to see me, though you _do_ think Mr.
 
@@ -206,6 +206,6 @@ Yorke has made me a Jacobin. Good-morning."
 
 
 
-"But we'll not have you a Jacobin," returned he. "No, Miss Shirley; they
+"But we'll not have you a Jacobin," returned he. "No, Miss [[Shirley]]; they
 
 shall not steal the flower of my parish from me. Now that you are

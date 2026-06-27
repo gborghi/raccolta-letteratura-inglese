@@ -1,5 +1,5 @@
 ---
-title: "A Predicament"
+title: "[[A Predicament]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/A-Predicament-(Poe)"
@@ -19,7 +19,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       It was a quiet and still afternoon when I strolled forth in the
 
-      goodly city of Edina. The confusion and bustle in the streets
+      goodly [[City|city]] of Edina. The confusion and bustle in the streets
 
       were terrible. Men were talking. Women were screaming. Children
 
@@ -27,7 +27,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       bellowed. Cows they lowed. Horses they neighed. Cats they
 
-      caterwauled. Dogs they danced. _Danced!_ Could it then be
+      caterwauled. [[dogs|Dogs]] they danced. _Danced!_ Could it then be
 
       possible? Danced! Alas, thought I, my dancing days are over! Thus
 
@@ -57,7 +57,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       I am always led away by my feelings. In such a mind, I repeat,
 
-      what a host of recollections are stirred up by a trifle! The dogs
+      what a host of recollections are stirred up by a trifle! The [[dogs]]
 
       danced! I—I could not! They frisked—I wept. They capered—I sobbed
 
@@ -69,31 +69,31 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       commencement of the third volume of that admirable and venerable
 
-      Chinese novel the Jo-Go-Slow.
+      Chinese [[Novel|novel]] the Jo-Go-Slow.
 
 
 
-      In my solitary walk through, the city I had two humble but
+      In my solitary walk through, the [[City|city]] I had two humble but
 
-      faithful companions. Diana, my poodle! sweetest of creatures! She
+      faithful companions. [[Diana]], my poodle! sweetest of creatures! She
 
       had a quantity of hair over her one eye, and a blue ribbon tied
 
-      fashionably around her neck. Diana was not more than five inches
+      fashionably around her neck. [[Diana]] was not more than five inches
 
-      in height, but her head was somewhat bigger than her body, and
+      in height, but her head was somewhat bigger than her [[Body|body]], and
 
       her tail being cut off exceedingly close, gave an air of injured
 
-      innocence to the interesting animal which rendered her a favorite
+      [[innocence]] to the interesting animal which rendered her a favorite
 
       with all.
 
 
 
-      And Pompey, my negro!—sweet Pompey! how shall I ever forget thee?
+      And [[Pompey]], my negro!—sweet [[Pompey]]! how shall I ever forget thee?
 
-      I had taken Pompey’s arm. He was three feet in height (I like to
+      I had taken [[Pompey]]’s arm. He was three feet in height (I like to
 
       be particular) and about seventy, or perhaps eighty, years of
 
@@ -101,7 +101,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       called small, nor his ears short. His teeth, however, were like
 
-      pearl, and his large full eyes were deliciously white. Nature had
+      pearl, and his large full eyes were deliciously white. [[Nature]] had
 
       endowed him with no neck, and had placed his ankles (as usual
 
@@ -113,9 +113,9 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       which had formerly been in the service of the tall, stately, and
 
-      illustrious Dr. Moneypenny. It was a good overcoat. It was well
+      illustrious Dr. Moneypenny. It was a good overcoat. It was [[Well|well]]
 
-      cut. It was well made. The coat was nearly new. Pompey held it up
+      cut. It was [[Well|well]] made. The coat was nearly new. [[Pompey]] held it up
 
       out of the dirt with both hands.
 
@@ -137,37 +137,37 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       auricula. I thus formed the third of the party. There was the
 
-      poodle. There was Pompey. There was myself. We were three. Thus
+      poodle. There was [[Pompey]]. There was myself. We were three. Thus
 
       it is said there were originally but three Furies—Melty, Nimmy,
 
-      and Hetty—Meditation, Memory, and Fiddling.
+      and Hetty—Meditation, [[Memory]], and Fiddling.
 
 
 
-      Leaning upon the arm of the gallant Pompey, and attended at a
+      Leaning upon the arm of the gallant [[Pompey]], and attended at a
 
-      respectable distance by Diana, I proceeded down one of the
+      respectable distance by [[Diana]], I proceeded down one of the
 
       populous and very pleasant streets of the now deserted Edina. On
 
       a sudden, there presented itself to view a church—a Gothic
 
-      cathedral—vast, venerable, and with a tall steeple, which towered
+      [[Cathedral|cathedral]]—vast, venerable, and with a tall steeple, which towered
 
-      into the sky. What madness now possessed me? Why did I rush upon
+      into the sky. What [[Madness|madness]] now possessed me? Why did I rush upon
 
-      my fate? I was seized with an uncontrollable desire to ascend the
+      my fate? I was seized with an uncontrollable [[Desire|desire]] to ascend the
 
-      giddy pinnacle, and then survey the immense extent of the city.
+      giddy pinnacle, and then survey the immense extent of the [[City|city]].
 
-      The door of the cathedral stood invitingly open. My destiny
+      The door of the [[Cathedral|cathedral]] stood invitingly open. My destiny
 
       prevailed. I entered the ominous archway. Where then was my
 
       guardian angel?—if indeed such angels there be. If! Distressing
 
-      monosyllable! what world of mystery, and meaning, and doubt, and
+      monosyllable! what world of mystery, and meaning, and [[Doubt|doubt]], and
 
       uncertainty is there involved in thy two letters! I entered the
 
@@ -175,7 +175,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       orange-colored auriculas, I passed beneath the portal, and
 
-      emerged within the vestibule. Thus it is said the immense river
+      emerged within the vestibule. Thus it is said the immense [[River|river]]
 
       Alfred passed, unscathed, and unwetted, beneath the sea.
 
@@ -185,7 +185,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       went round and up, and round and up and round and up, until I
 
-      could not help surmising, with the sagacious Pompey, upon whose
+      could not help surmising, with the sagacious [[Pompey]], upon whose
 
       supporting arm I leaned in all the confidence of early
 
@@ -195,7 +195,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       designedly, removed. I paused for breath; and, in the meantime,
 
-      an accident occurred of too momentous a nature in a moral, and
+      an accident occurred of too momentous a [[Nature|nature]] in a moral, and
 
       also in a metaphysical point of view, to be passed over without
 
@@ -203,21 +203,21 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       fact—I could not be mistaken—no! I had, for some moments,
 
-      carefully and anxiously observed the motions of my Diana—I say
+      carefully and anxiously observed the motions of my [[Diana]]—I say
 
-      that I could not be mistaken—Diana smelt a rat! At once I called
+      that I could not be mistaken—[[Diana]] smelt a rat! At once I called
 
-      Pompey’s attention to the subject, and he—he agreed with me.
+      [[Pompey]]’s attention to the subject, and he—he agreed with me.
 
-      There was then no longer any reasonable room for doubt. The rat
+      There was then no longer any reasonable room for [[Doubt|doubt]]. The rat
 
-      had been smelled—and by Diana. Heavens! shall I ever forget the
+      had been smelled—and by [[Diana]]. Heavens! shall I ever forget the
 
       intense excitement of the moment? Alas! what is the boasted
 
       intellect of man? The rat!—it was there—that is to say, it was
 
-      somewhere. Diana smelled the rat. I—I could not! Thus it is said
+      somewhere. [[Diana]] smelled the rat. I—I could not! Thus it is said
 
       the Prussian Isis has, for some persons, a sweet and very
 
@@ -235,21 +235,21 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       staircase of human life how vast a sum of human happiness or
 
-      misery depends! I thought of myself, then of Pompey, and then of
+      misery depends! I thought of myself, then of [[Pompey]], and then of
 
       the mysterious and inexplicable destiny which surrounded us. I
 
-      thought of Pompey!—alas, I thought of love! I thought of my many
+      thought of [[Pompey]]!—alas, I thought of [[Love|love]]! I thought of my many
 
       false steps which have been taken, and may be taken again. I
 
       resolved to be more cautious, more reserved. I abandoned the arm
 
-      of Pompey, and, without his assistance, surmounted the one
+      of [[Pompey]], and, without his assistance, surmounted the one
 
       remaining step, and gained the chamber of the belfry. I was
 
-      followed immediately afterward by my poodle. Pompey alone
+      followed immediately afterward by my poodle. [[Pompey]] [[Alone|alone]]
 
       remained behind. I stood at the head of the staircase, and
 
@@ -259,7 +259,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       upon the overcoat. Will the gods never cease their persecution?
 
-      The overcoat is dropped, and, with one of his feet, Pompey
+      The overcoat is dropped, and, with one of his feet, [[Pompey]]
 
       stepped upon the long and trailing skirt of the overcoat. He
 
@@ -271,7 +271,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       the hard, filthy, and detestable floor of the belfry. But my
 
-      revenge was sure, sudden, and complete. Seizing him furiously by
+      [[Revenge|revenge]] was sure, sudden, and complete. Seizing him furiously by
 
       the wool with both hands, I tore out a vast quantity of black,
 
@@ -279,13 +279,13 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       manifestation of disdain. It fell among the ropes of the belfry
 
-      and remained. Pompey arose, and said no word. But he regarded me
+      and remained. [[Pompey]] arose, and said no word. But he regarded me
 
       piteously with his large eyes and—sighed. Ye Gods—that sigh! It
 
       sunk into my heart. And the hair—the wool! Could I have reached
 
-      that wool I would have bathed it with my tears, in testimony of
+      that wool I would have bathed it with my [[Tears|tears]], in testimony of
 
       regret. But alas! it was now far beyond my grasp. As it dangled
 
@@ -303,7 +303,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       Our quarrel was now made up, and we looked about the room for an
 
-      aperture through which to survey the city of Edina. Windows there
+      aperture through which to survey the [[City|city]] of Edina. Windows there
 
       were none. The sole light admitted into the gloomy chamber
 
@@ -321,19 +321,19 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       machinery. Between the wheels and the wall where the hole lay
 
-      there was barely room for my body—yet I was desperate, and
+      there was barely room for my [[Body|body]]—yet I was desperate, and
 
-      determined to persevere. I called Pompey to my side.
+      determined to persevere. I called [[Pompey]] to my side.
 
 
 
-      “You perceive that aperture, Pompey. I wish to look through it.
+      “You perceive that aperture, [[Pompey]]. I wish to look through it.
 
       You will stand here just beneath the hole—so. Now, hold out one
 
-      of your hands, Pompey, and let me step upon it—thus. Now, the
+      of your hands, [[Pompey]], and let me step upon it—thus. Now, the
 
-      other hand, Pompey, and with its aid I will get upon your
+      other hand, [[Pompey]], and with its aid I will get upon your
 
       shoulders.”
 
@@ -343,9 +343,9 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       could easily pass my head and neck through the aperture. The
 
-      prospect was sublime. Nothing could be more magnificent. I merely
+      prospect was [[Sublime|sublime]]. Nothing could be more magnificent. I merely
 
-      paused a moment to bid Diana behave herself, and assure Pompey
+      paused a moment to bid [[Diana]] behave herself, and assure [[Pompey]]
 
       that I would be considerate and bear as lightly as possible upon
 
@@ -363,7 +363,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       Upon this subject, however, I shall forbear to dilate. I will not
 
-      describe the city of Edinburgh. Every one has been to the city of
+      describe the [[City|city]] of Edinburgh. Every one has been to the [[City|city]] of
 
       Edinburgh. Every one has been to Edinburgh—the classic Edina. I
 
@@ -373,19 +373,19 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       regard to the extent, situation, and general appearance of the
 
-      city, I had leisure to survey the church in which I was, and the
+      [[City|city]], I had leisure to survey the church in which I was, and the
 
       delicate architecture of the steeple. I observed that the
 
       aperture through which I had thrust my head was an opening in the
 
-      dial-plate of a gigantic clock, and must have appeared, from the
+      dial-plate of a gigantic [[Clock|clock]], and must have appeared, from the
 
       street, as a large key-hole, such as we see in the face of the
 
-      French watches. No doubt the true object was to admit the arm of
+      French watches. No [[Doubt|doubt]] the true object was to admit the arm of
 
-      an attendant, to adjust, when necessary, the hands of the clock
+      an attendant, to adjust, when necessary, the hands of the [[Clock|clock]]
 
       from within. I observed also, with surprise, the immense size of
 
@@ -405,7 +405,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       From this, after some minutes, I was aroused by the voice of
 
-      Pompey, who declared that he could stand it no longer, and
+      [[Pompey]], who declared that he could stand it no longer, and
 
       requested that I would be so kind as to come down. This was
 
@@ -415,7 +415,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       the subject. I accordingly grew angry, and told him in plain
 
-      words, that he was a fool, that he had committed an ignoramus
+      words, that he was a [[Fool|fool]], that he had committed an ignoramus
 
       e-clench-eye, that his notions were mere insommary Bovis, and his
 
@@ -433,9 +433,9 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       pressure on the back of my neck. It is needless to say that I
 
-      felt inexpressibly alarmed. I knew that Pompey was beneath my
+      felt inexpressibly alarmed. I knew that [[Pompey]] was beneath my
 
-      feet, and that Diana was sitting, according to my explicit
+      feet, and that [[Diana]] was sitting, according to my explicit
 
       directions, upon her hind legs, in the farthest corner of the
 
@@ -443,7 +443,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       my head gently to one side, I perceived, to my extreme horror,
 
-      that the huge, glittering, scimetar-like minute-hand of the clock
+      that the huge, glittering, scimetar-like minute-hand of the [[Clock|clock]]
 
       had, in the course of its hourly revolution, descended upon my
 
@@ -461,13 +461,13 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       all my strength, to force upward the ponderous iron bar. I might
 
-      as well have tried to lift the cathedral itself. Down, down, down
+      as [[Well|well]] have tried to lift the [[Cathedral|cathedral]] itself. Down, down, down
 
-      it came, closer and yet closer. I screamed to Pompey for aid; but
+      it came, closer and yet closer. I screamed to [[Pompey]] for aid; but
 
       he said that I had hurt his feelings by calling him “an ignorant
 
-      old squint-eye.” I yelled to Diana; but she only said
+      old squint-eye.” I yelled to [[Diana]]; but she only said
 
       “bow-wow-wow,” and that I had told her “on no account to stir
 
@@ -477,7 +477,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
 
 
-      Meantime the ponderous and terrific Scythe of Time (for I now
+      Meantime the ponderous and terrific Scythe of [[Time]] (for I now
 
       discovered the literal import of that classical phrase) had not
 
@@ -487,7 +487,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       in my flesh, and my sensations grew indistinct and confused. At
 
-      one time I fancied myself in Philadelphia with the stately Dr.
+      one [[Time|time]] I fancied myself in Philadelphia with the stately Dr.
 
       Moneypenny, at another in the back parlor of Mr. Blackwood
 
@@ -495,9 +495,9 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       recollection of better and earlier times came over me, and I
 
-      thought of that happy period when the world was not all a desert,
+      thought of that happy period when the world was not all a [[Desert|desert]],
 
-      and Pompey not altogether cruel.
+      and [[Pompey]] not altogether cruel.
 
 
 
@@ -507,7 +507,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       trifling circumstances afforded me pleasure. The eternal
 
-      click-clak, click-clak, click-clak of the clock was the most
+      click-clak, click-clak, click-clak of the [[Clock|clock]] was the most
 
       melodious of music in my ears, and occasionally even put me in
 
@@ -535,7 +535,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       itself two inches in my neck. I was aroused to a sense of
 
-      exquisite pain. I prayed for death, and, in the agony of the
+      exquisite [[Pain|pain]]. I prayed for [[Death|death]], and, in the agony of the
 
       moment, could not help repeating those exquisite verses of the
 
@@ -557,11 +557,11 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       to startle the strongest nerves. My eyes, from the cruel pressure
 
-      of the machine, were absolutely starting from their sockets.
+      of the [[Machine|machine]], were absolutely starting from their sockets.
 
       While I was thinking how I should possibly manage without them,
 
-      one actually tumbled out of my head, and, rolling down the steep
+      one actually tumbled out of my head, and, [[rolling]] down the steep
 
       side of the steeple, lodged in the rain gutter which ran along
 
@@ -595,7 +595,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       (possibly a concerted plot) as its fellow. Both rolled out of the
 
-      gutter together, and in truth I was very glad to get rid of them.
+      gutter together, and in [[Truth|truth]] I was very glad to get rid of them.
 
 
 
@@ -617,7 +617,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       sorry to see the head which had occasioned me so much
 
-      embarrassment at length make a final separation from my body. It
+      embarrassment at length make a final separation from my [[Body|body]]. It
 
       first rolled down the side of the steeple, then lodge, for a few
 
@@ -633,11 +633,11 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       incomprehensible character. My senses were here and there at one
 
-      and the same moment. With my head I imagined, at one time, that
+      and the same moment. With my head I imagined, at one [[Time|time]], that
 
       I, the head, was the real Signora Psyche Zenobia—at another I
 
-      felt convinced that myself, the body, was the proper identity. To
+      felt convinced that myself, the [[Body|body]], was the proper [[Identity|identity]]. To
 
       clear my ideas on this topic I felt in my pocket for my
 
@@ -667,7 +667,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
 
 
-      thus comparing me to the hero who, in the heat of the combat, not
+      thus comparing me to the [[Hero|hero]] who, in the heat of the combat, not
 
       perceiving that he was dead, continued to contest the battle with
 
@@ -675,7 +675,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       getting down from my elevation, and I did so. What it was that
 
-      Pompey saw so very peculiar in my appearance I have never yet
+      [[Pompey]] saw so very peculiar in my appearance I have never yet
 
       been able to find out. The fellow opened his mouth from ear to
 
@@ -683,7 +683,7 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       nuts between the lids. Finally, throwing off his overcoat, he
 
-      made one spring for the staircase and disappeared. I hurled after
+      made one [[spring]] for the staircase and disappeared. I hurled after
 
       the scoundrel these vehement words of Demosthenes—
 
@@ -695,17 +695,17 @@ What chance, good lady, hath bereft you thus?—COMUS.
 
       and then turned to the darling of my heart, to the one-eyed! the
 
-      shaggy-haired Diana. Alas! what a horrible vision affronted my
+      shaggy-haired [[Diana]]. Alas! what a horrible vision affronted my
 
       eyes? Was that a rat I saw skulking into his hole? Are these the
 
       picked bones of the little angel who has been cruelly devoured by
 
-      the monster? Ye gods! and what do I behold—is that the departed
+      the [[Monster|monster]]? Ye gods! and what do I behold—is that the departed
 
-      spirit, the shade, the ghost, of my beloved puppy, which I
+      spirit, the shade, the [[Ghost|ghost]], of my beloved puppy, which I
 
-      perceive sitting with a grace so melancholy, in the corner?
+      perceive sitting with a grace so [[Melancholy|melancholy]], in the corner?
 
       Hearken! for she speaks, and, heavens! it is in the German of
 

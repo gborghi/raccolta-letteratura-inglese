@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 1)"
+title: "The [[Pickwick]] Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -19,25 +19,25 @@ PEACOCK ASSEMBLED; AND A TALE TOLD BY A BAGMAN
 
 It is pleasant to turn from contemplating the strife and turmoil of
 political existence, to the peaceful repose of private life. Although in
-reality no great partisan of either side, Mr. Pickwick was sufficiently
-fired with Mr. Pott’s enthusiasm, to apply his whole time and attention
+reality no great partisan of either side, Mr. [[Pickwick]] was sufficiently
+fired with Mr. Pott’s enthusiasm, to apply his whole [[Time|time]] and attention
 to the proceedings, of which the last chapter affords a description
 compiled from his own memoranda. Nor while he was thus occupied was Mr.
-Winkle idle, his whole time being devoted to pleasant walks and short
+Winkle idle, his whole [[Time|time]] being devoted to pleasant walks and short
 country excursions with Mrs. Pott, who never failed, when such an
 opportunity presented itself, to seek some relief from the tedious
 monotony she so constantly complained of. The two gentlemen being thus
-completely domesticated in the editor’s house, Mr. Tupman and Mr.
+completely domesticated in the editor’s [[house]], Mr. Tupman and Mr.
 Snodgrass were in a great measure cast upon their own resources. Taking
-but little interest in public affairs, they beguiled their time chiefly
+but little interest in public affairs, they beguiled their [[Time|time]] chiefly
 with such amusements as the Peacock afforded, which were limited to a
 bagatelle-board in the first floor, and a sequestered skittle-ground in
 the back yard. In the science and nicety of both these recreations,
 which are far more abstruse than ordinary men suppose, they were
 gradually initiated by Mr. Weller, who possessed a perfect knowledge of
 such pastimes. Thus, notwithstanding that they were in a great measure
-deprived of the comfort and advantage of Mr. Pickwick’s society, they
-were still enabled to beguile the time, and to prevent its hanging
+deprived of the comfort and advantage of Mr. [[Pickwick]]’s society, they
+were still enabled to beguile the [[Time|time]], and to prevent its hanging
 heavily on their hands.
 
 It was in the evening, however, that the Peacock presented attractions
@@ -50,7 +50,7 @@ was the habit of Mr. Snodgrass to note down.
 Most people know what sort of places commercial rooms usually are. That
 of the Peacock differed in no material respect from the generality of
 such apartments; that is to say, it was a large, bare-looking room, the
-furniture of which had no doubt been better when it was newer, with a
+furniture of which had no [[Doubt|doubt]] been better when it was newer, with a
 spacious table in the centre, and a variety of smaller dittos in the
 corners; an extensive assortment of variously shaped chairs, and an old
 Turkey carpet, bearing about the same relative proportion to the size of
@@ -58,8 +58,8 @@ the room, as a lady’s pocket-handkerchief might to the floor of a watch-
 box. The walls were garnished with one or two large maps; and several
 weather-beaten rough greatcoats, with complicated capes, dangled from a
 long row of pegs in one corner. The mantel-shelf was ornamented with a
-wooden inkstand, containing one stump of a pen and half a wafer; a road-
-book and directory; a county history minus the cover; and the mortal
+wooden inkstand, containing one stump of a pen and half a wafer; a [[Road|road]]-
+book and directory; a county [[history]] minus the cover; and the mortal
 remains of a trout in a glass coffin. The atmosphere was redolent of
 tobacco-smoke, the fumes of which had communicated a rather dingy hue to
 the whole room, and more especially to the dusty red curtains which
@@ -71,11 +71,11 @@ mustard.
 
 Here it was that Mr. Tupman and Mr. Snodgrass were seated on the evening
 after the conclusion of the election, with several other temporary
-inmates of the house, smoking and drinking.
+inmates of the [[house]], smoking and drinking.
 
-‘Well, gents,’ said a stout, hale personage of about forty, with only
+‘[[Well]], gents,’ said a stout, hale personage of about forty, with only
 one eye--a very bright black eye, which twinkled with a roguish
-expression of fun and good-humour, ‘our noble selves, gents. I always
+expression of fun and good-[[Humour|humour]], ‘our noble selves, gents. I always
 propose that toast to the company, and drink Mary to myself. Eh, Mary!’
 
 ‘Get along with you, you wretch,’ said the hand-maiden, obviously not
@@ -83,7 +83,7 @@ ill-pleased with the compliment, however.
 
 ‘Don’t go away, Mary,’ said the black-eyed man.
 
-‘Let me alone, imperence,’ said the young lady.
+‘Let me [[Alone|alone]], imperence,’ said the young lady.
 
 ‘Never mind,’ said the one-eyed man, calling after the girl as she left
 the room. ‘I’ll step out by and by, Mary. Keep your spirits up, dear.’
@@ -95,7 +95,7 @@ personage with a dirty face and a clay pipe.
 
 ‘Ah! no mistake about that,’ said a very red-faced man, behind a cigar.
 
-After this little bit of philosophy there was another pause.
+After this little bit of [[philosophy]] there was another pause.
 
 ‘There’s rummer things than women in this world though, mind you,’ said
 the man with the black eye, slowly filling a large Dutch pipe, with a
@@ -114,7 +114,7 @@ the great props and comforts of our existence.’
 
 ‘So they are,’ said the placid gentleman.
 
-‘When they’re in a good humour,’ interposed the dirty-faced man.
+‘When they’re in a good [[Humour|humour]],’ interposed the dirty-faced man.
 
 ‘And that’s very true,’ said the placid one.
 
@@ -129,7 +129,7 @@ from his mouth, and struck the table violently with his clenched fist.
 ‘Containing a position which I deny,’ interrupted he of the dirty
 countenance.
 
-‘And there’s certainly a very great deal of truth in what you observe
+‘And there’s certainly a very great deal of [[Truth|truth]] in what you observe
 too, Sir,’ said the placid gentleman.
 
 ‘Your health, Sir,’ said the bagman with the lonely eye, bestowing an

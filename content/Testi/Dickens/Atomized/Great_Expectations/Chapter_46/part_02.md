@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 46 (part 2)"
+title: "[[Great Expectations]] — Chapter 46 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 There was something so natural and winning in Clara’s resigned way of
 looking at these stores in detail, as Herbert pointed them out; and
-something so confiding, loving, and innocent in her modest manner of
+something so confiding, loving, and [[Innocent|innocent]] in her modest manner of
 yielding herself to Herbert’s embracing arm; and something so gentle in
 her, so much needing protection on Mill Pond Bank, by Chinks’s Basin,
 and the Old Green Copper Rope-walk, with Old Barley growling in the
@@ -38,13 +38,13 @@ you suppose he wants now, Handel?”
 merit. “He keeps his grog ready mixed in a little tub on the table.
 Wait a moment, and you’ll hear Clara lift him up to take some. There he
 goes!” Another roar, with a prolonged shake at the end. “Now,” said
-Herbert, as it was succeeded by silence, “he’s drinking. Now,” said
+Herbert, as it was succeeded by [[Silence|silence]], “he’s drinking. Now,” said
 Herbert, as the growl resounded in the beam once more, “he’s down again
 on his back!”
 
 Clara returned soon afterwards, and Herbert accompanied me upstairs to
 see our charge. As we passed Mr. Barley’s door, he was heard hoarsely
-muttering within, in a strain that rose and fell like wind, the
+muttering within, in a strain that [[Rose|rose]] and fell like [[Wind|wind]], the
 following Refrain, in which I substitute good wishes for something
 quite the reverse:—
 
@@ -54,11 +54,11 @@ Lord. Lying on the flat of his back like a drifting old dead flounder,
 here’s your old Bill Barley, bless your eyes. Ahoy! Bless you.”
 
 In this strain of consolation, Herbert informed me the invisible Barley
-would commune with himself by the day and night together; Often, while
-it was light, having, at the same time, one eye at a telescope which
-was fitted on his bed for the convenience of sweeping the river.
+would commune with himself by the day and [[Night|night]] together; Often, while
+it was light, having, at the same [[Time|time]], one eye at a telescope which
+was fitted on his bed for the convenience of sweeping the [[River|river]].
 
-In his two cabin rooms at the top of the house, which were fresh and
+In his two cabin rooms at the top of the [[house]], which were fresh and
 airy, and in which Mr. Barley was less audible than below, I found
 Provis comfortably settled. He expressed no alarm, and seemed to feel
 none that was worth mentioning; but it struck me that he was
@@ -70,20 +70,20 @@ resulted in my fully determining to say nothing to him respecting
 Compeyson. For anything I knew, his animosity towards the man might
 otherwise lead to his seeking him out and rushing on his own
 destruction. Therefore, when Herbert and I sat down with him by his
-fire, I asked him first of all whether he relied on Wemmick’s judgment
+[[Fire|fire]], I asked him first of all whether he relied on Wemmick’s judgment
 and sources of information?
 
-“Ay, ay, dear boy!” he answered, with a grave nod, “Jaggers knows.”
+“Ay, ay, dear boy!” he answered, with a [[Grave|grave]] nod, “Jaggers knows.”
 
 “Then, I have talked with Wemmick,” said I, “and have come to tell you
 what caution he gave me and what advice.”
 
 This I did accurately, with the reservation just mentioned; and I told
-him how Wemmick had heard, in Newgate prison (whether from officers or
+him how Wemmick had heard, in Newgate [[Prison|prison]] (whether from officers or
 prisoners I could not say), that he was under some suspicion, and that
 my chambers had been watched; how Wemmick had recommended his keeping
-close for a time, and my keeping away from him; and what Wemmick had
-said about getting him abroad. I added, that of course, when the time
+close for a [[Time|time]], and my keeping away from him; and what Wemmick had
+said about getting him abroad. I added, that of course, when the [[Time|time]]
 came, I should go with him, or should follow close upon him, as might
 be safest in Wemmick’s judgment. What was to follow that I did not
 touch upon; neither, indeed, was I at all clear or comfortable about it
@@ -96,17 +96,17 @@ were no worse?
 He could not deny this, and indeed was very reasonable throughout. His
 coming back was a venture, he said, and he had always known it to be a
 venture. He would do nothing to make it a desperate venture, and he had
-very little fear of his safety with such good help.
+very little [[Fear|fear]] of his safety with such good help.
 
-Herbert, who had been looking at the fire and pondering, here said that
+Herbert, who had been looking at the [[Fire|fire]] and pondering, here said that
 something had come into his thoughts arising out of Wemmick’s
 suggestion, which it might be worth while to pursue. “We are both good
-watermen, Handel, and could take him down the river ourselves when the
-right time comes. No boat would then be hired for the purpose, and no
+watermen, Handel, and could take him down the [[River|river]] ourselves when the
+right [[Time|time]] comes. No boat would then be hired for the purpose, and no
 boatmen; that would save at least a chance of suspicion, and any chance
 is worth saving. Never mind the season; don’t you think it might be a
 good thing if you began at once to keep a boat at the Temple stairs,
-and were in the habit of rowing up and down the river? You fall into
+and were in the habit of rowing up and down the [[River|river]]? You fall into
 that habit, and then who notices or minds? Do it twenty or fifty times,
 and there is nothing special in your doing it the twenty-first or
 fifty-first.”
@@ -115,14 +115,14 @@ I liked this scheme, and Provis was quite elated by it. We agreed that
 it should be carried into execution, and that Provis should never
 recognise us if we came below Bridge, and rowed past Mill Pond Bank.
 But we further agreed that he should pull down the blind in that part
-of his window which gave upon the east, whenever he saw us and all was
+of his [[Window|window]] which gave upon the east, whenever he saw us and all was
 right.
 
-Our conference being now ended, and everything arranged, I rose to go;
-remarking to Herbert that he and I had better not go home together, and
+Our conference being now ended, and everything arranged, I [[Rose|rose]] to go;
+remarking to Herbert that he and I had better not go [[Home|home]] together, and
 that I would take half an hour’s start of him. “I don’t like to leave
-you here,” I said to Provis, “though I cannot doubt your being safer
+you here,” I said to Provis, “though I cannot [[Doubt|doubt]] your being safer
 here than near me. Good-bye!”
 
 “Dear boy,” he answered, clasping my hands, “I don’t know when we may
-meet again, and I don’t like good-bye. Say good-night!”
+meet again, and I don’t like good-bye. Say good-[[Night|night]]!”

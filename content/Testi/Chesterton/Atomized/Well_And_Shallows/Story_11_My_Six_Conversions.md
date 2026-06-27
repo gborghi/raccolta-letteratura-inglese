@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — My Six Conversions"
+title: "[[Well]] And Shallows — My Six Conversions"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Well-And-Shallows-(Chesterton)"

@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 20 (part 2)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 20 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -19,30 +19,30 @@ saw me safely off, Joe?”
 
 “It shall be done, Miss.”
 
-“With my love, please, Joe.”
+“With my [[Love|love]], please, Joe.”
 
 “Yes, Miss—and I wouldn’t mind having it myself!” But Joe did not
 articulate the last clause; only thought it.
 
-Now that she was whirling away for London in real earnest, Rosa was at
+Now that she was whirling away for [[London]] in real earnest, Rosa was at
 leisure to resume the thoughts which her personal hurry had checked.
-The indignant thought that his declaration of love soiled her; that she
+The indignant thought that his declaration of [[Love|love]] soiled her; that she
 could only be cleansed from the stain of its impurity by appealing to
-the honest and true; supported her for a time against her fears, and
+the honest and true; supported her for a [[Time|time]] against her fears, and
 confirmed her in her hasty resolution. But as the evening grew darker
-and darker, and the great city impended nearer and nearer, the doubts
+and darker, and the great [[City|city]] impended nearer and nearer, the doubts
 usual in such cases began to arise. Whether this was not a wild
 proceeding, after all; how Mr. Grewgious might regard it; whether she
-should find him at the journey’s end; how she would act if he were
-absent; what might become of her, alone, in a place so strange and
+should find him at the [[Journey|journey]]’s end; how she would act if he were
+absent; what might become of her, [[Alone|alone]], in a place so strange and
 crowded; how if she had but waited and taken counsel first; whether, if
 she could now go back, she would not do it thankfully; a multitude of
 such uneasy speculations disturbed her, more and more as they
-accumulated. At length the train came into London over the housetops;
+accumulated. At length the train came into [[London]] over the housetops;
 and down below lay the gritty streets with their yet un-needed lamps
-a-glow, on a hot, light, summer night.
+a-glow, on a hot, light, [[Summer|summer]] [[Night|night]].
 
-“Hiram Grewgious, Esquire, Staple Inn, London.” This was all Rosa knew
+“Hiram Grewgious, Esquire, Staple Inn, [[London]].” This was all Rosa knew
 of her destination; but it was enough to send her rattling away again
 in a cab, through deserts of gritty streets, where many people crowded
 at the corner of courts and byways to get some air, and where many
@@ -52,9 +52,9 @@ surroundings were so gritty and so shabby!
 
 There was music playing here and there, but it did not enliven the
 case. No barrel-organ mended the matter, and no big drum beat dull care
-away. Like the chapel bells that were also going here and there, they
-only seemed to evoke echoes from brick surfaces, and dust from
-everything. As to the flat wind-instruments, they seemed to have
+away. Like the chapel [[Bells|bells]] that were also going here and there, they
+only seemed to evoke echoes from brick surfaces, and [[Dust|dust]] from
+everything. As to the flat [[Wind|wind]]-instruments, they seemed to have
 cracked their hearts and souls in pining for the country.
 
 Her jingling conveyance stopped at last at a fast-closed gateway, which
@@ -75,30 +75,30 @@ street-door.
 Guided by the painted name of Mr. Grewgious, she went up-stairs and
 softly tapped and tapped several times. But no one answering, and Mr.
 Grewgious’s door-handle yielding to her touch, she went in, and saw her
-guardian sitting on a window-seat at an open window, with a shaded lamp
+guardian sitting on a [[Window|window]]-seat at an open [[Window|window]], with a shaded lamp
 placed far from him on a table in a corner.
 
 Rosa drew nearer to him in the twilight of the room. He saw her, and he
 said, in an undertone: “Good Heaven!”
 
-Rosa fell upon his neck, with tears, and then he said, returning her
+Rosa fell upon his neck, with [[Tears|tears]], and then he said, returning her
 embrace:
 
-“My child, my child! I thought you were your mother!—But what, what,
+“My [[Child|child]], my [[Child|child]]! I thought you were your mother!—But what, what,
 what,” he added, soothingly, “has happened? My dear, what has brought
 you here? Who has brought you here?”
 
-“No one. I came alone.”
+“No one. I came [[Alone|alone]].”
 
-“Lord bless me!” ejaculated Mr. Grewgious. “Came alone! Why didn’t you
+“Lord bless me!” ejaculated Mr. Grewgious. “Came [[Alone|alone]]! Why didn’t you
 write to me to come and fetch you?”
 
-“I had no time. I took a sudden resolution. Poor, poor Eddy!”
+“I had no [[Time|time]]. I took a sudden resolution. Poor, poor Eddy!”
 
 “Ah, poor fellow, poor fellow!”
 
-“His uncle has made love to me. I cannot bear it,” said Rosa, at once
-with a burst of tears, and a stamp of her little foot; “I shudder with
+“His uncle has made [[Love|love]] to me. I cannot bear it,” said Rosa, at once
+with a burst of [[Tears|tears]], and a stamp of her little foot; “I shudder with
 horror of him, and I have come to you to protect me and all of us from
 him, if you will?”
 

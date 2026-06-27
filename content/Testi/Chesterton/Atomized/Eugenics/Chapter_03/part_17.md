@@ -1,5 +1,5 @@
 ---
-title: "Eugenics — Part 2 (part 17)"
+title: "[[Eugenics]] — Part 2 (part 17)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Eugenics-(Chesterton)"
@@ -44,16 +44,16 @@ Whether or no the organisation of industry will issue
 positively in a eugenical reconstruction of the family, it has
 already issued negatively, as in the negations already noted,
 in a partial destruction of it.  It took the form of a propaganda
-of popular divorce, calculated at least to accustom the masses
+of popular [[divorce]], calculated at least to accustom the masses
 to a new notion of the shifting and re-grouping of families.
-I do not discuss the question of divorce here, as I have done elsewhere,
+I do not discuss the question of [[divorce]] here, as I have done elsewhere,
 in its intrinsic character; I merely note it as one of these negative
 reforms which have been substituted for positive economic equality.
-It was preached with a weird hilarity, as if the suicide of love were
+It was preached with a weird hilarity, as if the [[suicide]] of [[Love|love]] were
 something not only humane but happy.  But it need not be explained,
 and certainly it need not be denied, that the harassed poor
-of a diseased industrialism were indeed maintaining marriage under
-every disadvantage, and often found individual relief in divorce.
+of a diseased industrialism were indeed maintaining [[Marriage|marriage]] under
+every disadvantage, and often found individual relief in [[divorce]].
 Industrialism does produce many unhappy marriages, for the same reason
 that it produces so many unhappy men.  But all the reforms were
 directed to rescuing the industrialism rather than the happiness.
@@ -63,9 +63,9 @@ of sacrificing the ancient uses of things because they do not fit
 in with the modern abuses.  When the tares are found in the wheat,
 the greatest promptitude and practicality is always shown
 in burning the wheat and gathering the tares into the barn.
-And since the serpent coiled about the chalice had dropped his poison
+And since the serpent coiled about the chalice had dropped his [[Poison|poison]]
 in the wine of Cana, analysts were instantly active in the effort
-to preserve the poison and to pour away the wine.
+to preserve the [[Poison|poison]] and to pour away the wine.
 
 ---/---
 
@@ -74,15 +74,15 @@ VIII
 THE END OF THE HOUSEHOLD GOD
 
 The only place where it is possible to find an echo of the mind
-of the English masses is either in conversation or in comic songs.
+of the English masses is either in conversation or in comic [[songs]].
 The latter are obviously the more dubious, but they are the only
 things recorded and quotable that come anywhere near it.
-We talk about the popular Press; but in truth there is no popular press.
+We talk about the popular Press; but in [[Truth|truth]] there is no popular press.
 It may be a good thing; but, anyhow, most readers would be
 mildly surprised if a newspaper leading article were written
 in the language of a navvy.  Sometimes the Press is interested
-in things in which the democracy is also genuinely interested;
-such as horse-racing. Sometimes the Press is about as popular
+in things in which the [[democracy]] is also genuinely interested;
+such as [[Horse|horse]]-racing. Sometimes the Press is about as popular
 as the Press Gang.  We talk of Labour leaders in Parliament;
 but they would be highly unparliamentary if they talked like labourers.
 The Bolshevists, I believe, profess to promote something that they
@@ -96,29 +96,29 @@ very comparison.  There has never been such a thing as proletarian art;
 but there has emphatically been such a thing as peasant art.
 And the only literature which even reminds us of the real tone
 and talk of the English working classes is to be found in the comic
-song of the English music-hall.
+[[Song|song]] of the English music-hall.
 
-I first heard one of them on my voyage to America, in the midst
+I first heard one of them on my voyage to [[america|America]], in the midst
 of the sea within sight of the New World, with the Statue of Liberty
 beginning to loom up on the horizon.  From the lips of a young
 Scotch engineer, of all people in the world, I heard for the first
-time these immortal words from a London music-hall song:---
+[[Time|time]] these immortal words from a [[London]] music-hall [[Song|song]]:---
 
-    "Father's got the sack from the water-works
+    "Father's got the sack from the [[Water|water]]-works
      For smoking of his old cherry-briar;
-     Father's got the sack from the water-works
-    'Cos he might set the water-works on fire."
+     Father's got the sack from the [[Water|water]]-works
+    'Cos he might set the [[Water|water]]-works on [[Fire|fire]]."
 
-As I told my friends in America, I think it no part of a patriot to boast;
-and boasting itself is certainly not a thing to boast of.  I doubt
+As I told my friends in [[america|America]], I think it no part of a patriot to boast;
+and boasting itself is certainly not a thing to boast of.  I [[Doubt|doubt]]
 the persuasive power of English as exemplified in Kipling, and one can
 easily force it on foreigners too much, even as exemplified in Dickens.
 I am no Imperialist, and only on rare and proper occasions a Jingo.
-But when I hear those words about Father and the water-works,
+But when I hear those words about Father and the [[Water|water]]-works,
 when I hear under far-off foreign skies anything so gloriously
 English as that, then indeed (I said to them), then indeed:---
 
     "I thank the goodness and the grace
      That on my birth have smiled,
      And made me, as you see me here,
-     A little English child."
+     A little English [[Child|child]]."

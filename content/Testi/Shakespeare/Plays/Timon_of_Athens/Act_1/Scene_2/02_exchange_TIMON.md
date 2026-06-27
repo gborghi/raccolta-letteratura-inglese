@@ -1,5 +1,5 @@
 ---
-title: "Timon of Athens — Act I, Scene 2 — exchange (TIMON) [2]"
+title: "[[Timon]] of Athens — Act I, Scene 2 — exchange ([[Timon|TIMON]]) [2]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/TIMON-OF-ATHENS-(Shakespeare)"
@@ -15,9 +15,9 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| TIMON | Captain Alcibiades, your heart’s in the field now. |
-| ALCIBIADES | My heart is ever at your service, my lord. |
-| TIMON | You had rather be at a breakfast of enemies than a dinner of friends. |
+| [[Timon|TIMON]] | Captain [[Alcibiades]], your heart’s in the field now. |
+| [[Alcibiades|ALCIBIADES]] | My heart is ever at your service, my lord. |
+| [[Timon|TIMON]] | You had rather be at a breakfast of enemies than a dinner of friends. |
 | ALCISIADES | So they were bleeding new, my lord; there’s no meat like ’em. I could wish my best friend at such a feast. |
-| APEMANTUS | Would all those flatterers were thine enemies then, That thou mightst kill ‘em and bid me to ’em. |
-| FIRST LORD | (to Timon) Might we but have that happiness, my lord, that you would once use our hearts, whereby we might express some part of our zeals, we should think ourselves for ever perfect. |
+| [[Apemantus|APEMANTUS]] | Would all those flatterers were thine enemies then, That thou mightst kill ‘em and bid me to ’em. |
+| FIRST LORD | (to [[Timon]]) Might we but have that happiness, my lord, that you would once use our hearts, whereby we might express some part of our zeals, we should think ourselves for ever perfect. |

@@ -1,5 +1,5 @@
 ---
-title: "The Literary Life of Thingum Bob, Esq"
+title: "[[The Literary Life of Thingum Bob, Esq]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/The-Literary-Life-of-Thingum-Bob,-Esq-(Poe)"
@@ -27,7 +27,7 @@ By Himself
 
       I may even die. It has occurred to me, therefore, that I may as
 
-      well retire from the field of Letters and repose upon my laurels.
+      [[Well|well]] retire from the field of Letters and repose upon my laurels.
 
       But I am ambitious of signalizing my abdication of the literary
 
@@ -45,17 +45,17 @@ By Himself
 
       inspired. In fact, it is no more than the duty of him who
 
-      achieves greatness to leave behind him, in his ascent, such
+      achieves [[Greatness|greatness]] to leave behind him, in his ascent, such
 
       landmarks as may guide others to be great. I propose, therefore,
 
       in the present paper, (which I had some idea of calling
 
-      “Memoranda to serve for the Literary History of America,”) to
+      “Memoranda to serve for the Literary [[history|History]] of [[America]],”) to
 
       give a detail of those important, yet feeble and tottering first
 
-      steps, by which, at length, I attained the high road to the
+      steps, by which, at length, I attained the high [[Road|road]] to the
 
       pinnacle of human renown.
 
@@ -65,11 +65,11 @@ By Himself
 
       father, Thomas Bob, Esq., stood for many years at the summit of
 
-      his profession, which was that of a merchant-barber, in the city
+      his profession, which was that of a merchant-barber, in the [[City|city]]
 
       of Smug. His warehouse was the resort of all the principal people
 
-      of the place, and especially of the editorial corps—a body which
+      of the place, and especially of the editorial corps—a [[Body|body]] which
 
       inspires all about it with profound veneration and awe. For my
 
@@ -107,7 +107,7 @@ By Himself
 
 
 
-      “Father,” I said, “pardon me!—but I have a soul above lather. It
+      “Father,” I said, “pardon me!—but I have a [[Soul|soul]] above lather. It
 
       is my firm intention to cut the shop. I would be an editor—I
 
@@ -123,7 +123,7 @@ By Himself
 
       he said, raising me from my knees by the ears—“Thingum, my boy,
 
-      you’re a trump, and take after your father in having a soul. You
+      you’re a trump, and take after your father in having a [[Soul|soul]]. You
 
       have an immense head, too, and it must hold a great many brains.
 
@@ -133,9 +133,9 @@ By Himself
 
       politician don’t pay. Upon the whole you judge wisely;—the trade
 
-      of editor is best:—and if you can be a poet at the same time,—as
+      of editor is best:—and if you can be a poet at the same [[Time|time]],—as
 
-      most of the editors are, by the by,—why you will kill two birds
+      most of the editors are, by the by,—why you will kill two [[Birds|birds]]
 
       with one stone. To encourage you in the beginning of things, I
 
@@ -147,7 +147,7 @@ By Himself
 
 
 
-      “I would be an ungrateful villain if I did,” I replied with
+      “I would be an ungrateful [[Villain|villain]] if I did,” I replied with
 
       enthusiasm. “Your generosity is boundless. I will repay it by
 
@@ -173,7 +173,7 @@ By Himself
 
       excellence tended, naturally, to discourage me by comparison with
 
-      my own abortions; so that for a long time I labored in vain. At
+      my own abortions; so that for a long [[Time|time]] I labored in vain. At
 
       length there came into my head one of those exquisitely original
 
@@ -187,9 +187,9 @@ By Himself
 
       altogether unknown or forgotten volumes. The bookseller sold them
 
-      to me for a song. From one of these, which purported to be a
+      to me for a [[Song|song]]. From one of these, which purported to be a
 
-      translation of one Dante’s “Inferno,” I copied with remarkable
+      [[Translation|translation]] of one [[Dante]]’s “Inferno,” I copied with remarkable
 
       neatness a long passage about a man named Ugolino, who had a
 
@@ -207,7 +207,7 @@ By Himself
 
       Choctaw—I cannot be at the pains of remembering every trifle
 
-      exactly—I took about fifty verses beginning with “Achilles’
+      exactly—I took about fifty verses beginning with “[[Achilles]]’
 
       wrath,” and “grease,” and something else. From a fourth, which I
 
@@ -221,7 +221,7 @@ By Himself
 
 
 
-      Having made fair copies of these poems, I signed every one of
+      Having made fair copies of these [[Poems|poems]], I signed every one of
 
       them “Oppodeldoc,” (a fine sonorous name,) and, doing each up
 
@@ -229,15 +229,15 @@ By Himself
 
       four principal Magazines, with a request for speedy insertion and
 
-      prompt pay. The result of this well conceived plan, however, (the
+      prompt pay. The result of this [[Well|well]] conceived plan, however, (the
 
-      success of which would have saved me much trouble in after life,)
+      [[success]] of which would have saved me much trouble in after life,)
 
       served to convince me that some editors are not to be bamboozled,
 
       and gave the _coup-de-grace_ (as they say in France,) to my
 
-      nascent hopes, (as they say in the city of the transcendentals.)
+      nascent hopes, (as they say in the [[City|city]] of the transcendentals.)
 
 
 
@@ -261,15 +261,15 @@ By Himself
 
       to say _flat_. ‘Oppodeldoc,’ (whoever he is,) is entirely devoid
 
-      of imagination—and imagination, in our humble opinion, is not
+      of [[Imagination|imagination]]—and [[Imagination|imagination]], in our humble opinion, is not
 
-      only the soul of Poesy, but also its very heart. ‘Oppodeldoc,’
+      only the [[Soul|soul]] of Poesy, but also its very heart. ‘Oppodeldoc,’
 
       (whoever he is,) has the audacity to demand of us, for his
 
       twattle, a ‘speedy insertion and prompt pay.’ We neither insert
 
-      nor purchase any stuff of the sort. There can be no doubt,
+      nor purchase any stuff of the sort. There can be no [[Doubt|doubt]],
 
       however, that he would meet with a ready sale for all the
 
@@ -299,7 +299,7 @@ By Himself
 
       a person (whoever he is,) signing himself ‘Oppodeldoc’—thus
 
-      desecrating the greatness of the illustrious Roman Emperor so
+      desecrating the [[Greatness|greatness]] of the illustrious Roman Emperor so
 
       named. Accompanying the letter of ‘Oppodeldoc,’ (whoever he is,)
 
@@ -323,7 +323,7 @@ By Himself
 
       This was bitter indeed upon poor “Oppodeldoc”; but, in this
 
-      instance, the weight of the satire falls upon the “Hum-drum,” the
+      instance, the weight of the [[Satire|satire]] falls upon the “Hum-drum,” the
 
       “Lollipop,” and the “Goosetherumfoodle,” who are pungently styled
 
@@ -347,7 +347,7 @@ By Himself
 
 
 
-      Achilles’ wrath, to Greece the direful spring
+      [[Achilles]]’ wrath, to Greece the direful [[Spring|spring]]
 
       Of woes unnumbered, &c., &c., &c., &c.
 
@@ -391,7 +391,7 @@ By Himself
 
       the poor fellow. But the “Goosetherumfoodle” showed, if possible,
 
-      less mercy than the “Lollipop.” It was the “Goosetherumfoodle”
+      less [[Mercy|mercy]] than the “Lollipop.” It was the “Goosetherumfoodle”
 
       that said:
 
@@ -421,7 +421,7 @@ By Himself
 
       inform us, also, how frozen rain can be, at one and the same
 
-      time, both ‘holy light,’ (whatever that is,) and an
+      [[Time|time]], both ‘holy light,’ (whatever that is,) and an
 
       ‘offspring?’—which latter term, (if we understand any thing about
 
@@ -479,11 +479,11 @@ By Himself
 
       have been done under the Act for the “Prevention of Cruelty to
 
-      Animals.” As for “Oppodeldoc,” (whoever he was), I had by this
+      [[Animals]].” As for “Oppodeldoc,” (whoever he was), I had by this
 
-      time lost all patience with the fellow, and sympathized with him
+      [[Time|time]] lost all patience with the fellow, and sympathized with him
 
-      no longer. He was a fool, beyond doubt, (whoever he was,) and got
+      no longer. He was a [[Fool|fool]], beyond [[Doubt|doubt]], (whoever he was,) and got
 
       not a kick more than he deserved.
 
@@ -493,7 +493,7 @@ By Himself
 
       the first place, that “honesty is the best policy,” and, in the
 
-      second, that if I could not write better than Mr. Dante, and the
+      second, that if I could not write better than Mr. [[Dante]], and the
 
       two blind men, and the rest of the old set, it would, at least,
 
@@ -507,7 +507,7 @@ By Himself
 
       stanzas on “The Oil-of-Bob” by the editor of the “Gad-Fly,” and
 
-      resolved to construct an ode on the same sublime theme, in
+      resolved to construct an ode on the same [[Sublime|sublime]] theme, in
 
       rivalry of what had already been done.
 
@@ -549,7 +549,7 @@ By Himself
 
       impossible to see the sense of it. Upon the whole, therefore, I
 
-      was satisfied with the success of my maiden attempt, and now the
+      was satisfied with the [[success]] of my maiden attempt, and now the
 
       only question regarded the disposal I should make of it. My
 
@@ -557,7 +557,7 @@ By Himself
 
       were two reasons which operated to prevent me from so doing. I
 
-      dreaded the jealousy of the editor—and I had ascertained that he
+      dreaded the [[Jealousy|jealousy]] of the editor—and I had ascertained that he
 
       did not pay for original contributions. I therefore, after due
 
@@ -565,7 +565,7 @@ By Himself
 
       of the “Lollipop,” and awaited the event in anxiety, but with
 
-      resignation.
+      [[Resignation|resignation]].
 
 
 
@@ -585,17 +585,17 @@ By Himself
 
       sublimity, or their pathos:—it is impossible to peruse them
 
-      without tears. Those who have been nauseated with a sad dose on
+      without [[Tears|tears]]. Those who have been nauseated with a sad dose on
 
       the same august topic from the goose quill of the editor of the
 
-      “Gad Fly” will do well to compare the two compositions._
+      “Gad Fly” will do [[Well|well]] to compare the two compositions._
 
 
 
       P. S.—We are consumed with anxiety to probe the mystery which
 
-      envelops the evident pseudonym “Snob.” May we hope for a personal
+      envelops the evident pseudonym “Snob.” May we [[Hope|hope]] for a personal
 
       interview?
 
@@ -607,15 +607,15 @@ By Himself
 
       observed, to the everlasting disgrace of my country and of
 
-      mankind. I lost no time, however, in calling upon the editor of
+      mankind. I lost no [[Time|time]], however, in calling upon the editor of
 
       the “Lollipop,” and had the good fortune to find this gentleman
 
-      at home. He saluted me with an air of profound respect, slightly
+      at [[Home|home]]. He saluted me with an air of profound respect, slightly
 
       blended with a fatherly and patronizing admiration, wrought in
 
-      him, no doubt, by my appearance of extreme youth and
+      him, no [[Doubt|doubt]], by my appearance of extreme youth and
 
       inexperience. Begging me to be seated, he entered at once upon
 
@@ -627,13 +627,13 @@ By Himself
 
       means fulsomely indiscriminate. He analyzed my composition with
 
-      much freedom and great ability—not hesitating to point out a few
+      much [[Freedom|freedom]] and great ability—not hesitating to point out a few
 
       trivial defects—a circumstance which elevated him highly in my
 
       esteem. The “Gad-Fly” was, of course, brought upon the _tapis_,
 
-      and I hope never to be subjected to a criticism so searching, or
+      and I [[Hope|hope]] never to be subjected to a criticism so searching, or
 
       to rebukes so withering, as were bestowed by Mr. Crab upon that
 
@@ -641,7 +641,7 @@ By Himself
 
       the “Gad-Fly” as something superhuman; but Mr. Crab soon
 
-      disabused me of that idea. He set the literary as well as the
+      disabused me of that idea. He set the literary as [[Well|well]] as the
 
       personal character of the Fly (so Mr. C. satirically designated
 
@@ -649,17 +649,17 @@ By Himself
 
       little better than he should be. He had written infamous things.
 
-      He was a penny-a-liner, and a buffoon. He was a villain. He had
+      He was a penny-a-liner, and a buffoon. He was a [[Villain|villain]]. He had
 
-      composed a tragedy which set the whole country in a guffaw, and a
+      composed a [[Tragedy|tragedy]] which set the whole country in a guffaw, and a
 
-      farce which deluged the universe in tears. Besides all this, he
+      farce which deluged the universe in [[Tears|tears]]. Besides all this, he
 
       had the impudence to pen what he meant for a lampoon upon
 
       himself, (Mr. Crab,) and the temerity to style him “an ass.”
 
-      Should I at any time wish to express my opinion of Mr. Fry, the
+      Should I at any [[Time|time]] wish to express my opinion of Mr. Fry, the
 
       pages of the “Lollipop,” Mr. Crab assured me, were at my
 
@@ -755,7 +755,7 @@ By Himself
 
       contribution—the _first_, I say,—it is never the Magazine custom
 
-      to pay for—you comprehend, eh? The truth is, we are usually the
+      to pay for—you comprehend, eh? The [[Truth|truth]] is, we are usually the
 
       _recipients_ in such case.” [Mr. Crab smiled blandly as he
 
@@ -767,7 +767,7 @@ By Himself
 
       disburse what we term in France the _argent comptant_—I have no
 
-      doubt you understand. In a quarter or two after publication of
+      [[Doubt|doubt]] you understand. In a quarter or two after publication of
 
       the article—or in a year or two—we make no objection to giving
 
@@ -775,21 +775,21 @@ By Himself
 
       our affairs as to be quite certain of a ‘burst up’ in six. I
 
-      really _do_ hope, Mr. Bob, that you will look upon this
+      really _do_ [[Hope|hope]], Mr. Bob, that you will look upon this
 
       explanation as satisfactory.” Here Mr. Crab concluded, and the
 
-      tears stood in his eyes.
+      [[Tears|tears]] stood in his eyes.
 
 
 
-      Grieved to the soul at having been, however innocently, the cause
+      Grieved to the [[Soul|soul]] at having been, however innocently, the cause
 
-      of pain to so eminent and so sensitive a man, I hastened to
+      of [[Pain|pain]] to so eminent and so sensitive a man, I hastened to
 
       apologize, and to reassure him, by expressing my perfect
 
-      coincidence with his views, as well as my entire appreciation of
+      coincidence with his views, as [[Well|well]] as my entire appreciation of
 
       the delicacy of his position. Having done all this in a neat
 
@@ -815,7 +815,7 @@ By Himself
 
 
 
-      The “Owl,” a journal of profound sagacity, and well known for the
+      The “Owl,” a journal of profound sagacity, and [[Well|well]] known for the
 
       deliberate gravity of its literary decisions—the “Owl,” I say,
 
@@ -827,13 +827,13 @@ By Himself
 
       surpasses its predecessors, and sets competition at defiance. In
 
-      the beauty of its typography and paper—in the number and
+      the [[Beauty|beauty]] of its typography and paper—in the number and
 
-      excellence of its steel plates—as well as in the literary merit
+      excellence of its steel plates—as [[Well|well]] as in the literary merit
 
       of its contributions—the ‘Lollipop’ compares with its slow-paced
 
-      rivals as Hyperion with a Satyr. The ‘Hum-Drum,’ the ‘Rowdy-Dow,’
+      rivals as [[Hyperion]] with a Satyr. The ‘Hum-Drum,’ the ‘Rowdy-Dow,’
 
       and the ‘Goosetherumfoodle,’ excel, it is true, in braggadocio,
 
@@ -877,7 +877,7 @@ By Himself
 
       “Toad”—a print highly distinguished for its uprightness, and
 
-      independence—for its entire freedom from sycophancy and
+      independence—for its entire [[Freedom|freedom]] from sycophancy and
 
       subservience to the givers of dinners:
 
@@ -887,7 +887,7 @@ By Himself
 
       contemporaries, and infinitely surpasses them, of course, in the
 
-      splendor of its embellishments, as well as in the richness of its
+      splendor of its embellishments, as [[Well|well]] as in the richness of its
 
       literary contents. The ‘Hum-Drum,’ the ‘Rowdy-Dow,’ and the
 
@@ -935,7 +935,7 @@ By Himself
 
       in our power to satisfy. ‘Snob’ is the nom de plume of Mr.
 
-      Thingum Bob, of this city,—a relative of the great Mr. Thingum,
+      Thingum Bob, of this [[City|city]],—a relative of the great Mr. Thingum,
 
       (after whom he is named,) and otherwise connected with the most
 
@@ -983,9 +983,9 @@ By Himself
 
       advisedly. The ‘Hum-Drum,’ the ‘Rowdy-Dow’ and the
 
-      ‘Goosetherumfoodle’ must look well to their laurels. These
+      ‘Goosetherumfoodle’ must look [[Well|well]] to their laurels. These
 
-      prints, no doubt, surpass every thing in loudness of pretension,
+      prints, no [[Doubt|doubt]], surpass every thing in loudness of pretension,
 
       but, in all other points, give us the ‘Lollipop!’ How this
 
@@ -1021,7 +1021,7 @@ By Himself
 
       is a Mr. Thingum Bob, Esq., sole heir of a wealthy merchant of
 
-      this city, Thomas Bob, Esq., and a near relative of the
+      this [[City|city]], Thomas Bob, Esq., and a near relative of the
 
       distinguished Mr. Thingum. The title of Mr. B.‘s admirable poem
 
@@ -1039,13 +1039,13 @@ By Himself
 
       The generous approbation of so clear-sighted a journal as the
 
-      “Mole” penetrated my soul with delight. The only objection which
+      “Mole” penetrated my [[Soul|soul]] with delight. The only objection which
 
       occurred to me was, that the terms “contemptible vagabond” might
 
       have been better written “_odious and_ contemptible _wretch,
 
-      villain and_ vagabond.” This would have sounded more gracefully,
+      [[Villain|villain]] and_ vagabond.” This would have sounded more gracefully,
 
       I think. “Diamond-like,” also, was scarcely, it will be admitted,
 
@@ -1095,7 +1095,7 @@ By Himself
 
       eighty-seven cents and a half for her late valuable Revolutionary
 
-      Tale, entitled ‘The York-Town Katy-Did, and the Bunker-Hill
+      Tale, entitled ‘The York-Town Katy-Did, and the Bunker-[[Hill]]
 
       Katy-Didn’t.’
 
@@ -1111,7 +1111,7 @@ By Himself
 
       Mrs. Squibalittle, and last, though not least, Fatquack. The
 
-      world may well be challenged to produce so rich a galaxy of
+      world may [[Well|well]] be challenged to produce so rich a galaxy of
 
       genius.
 
@@ -1135,7 +1135,7 @@ By Himself
 
       capacity of scullion, we believe, with one of the indecent prints
 
-      about the purlieus of the city; we beg them, for God’s sake, not
+      about the purlieus of the [[City|city]]; we beg them, for God’s sake, not
 
       to confound the compositions. The author of the ‘Oil-of-Bob’ is,
 
@@ -1243,7 +1243,7 @@ By Himself
 
       appeared to take a paternal interest in my welfare, he suggested
 
-      to me that I might turn an honest penny, and, at the same time,
+      to me that I might turn an honest penny, and, at the same [[Time|time]],
 
       advance my reputation, by occasionally playing Thomas Hawk for
 
@@ -1257,7 +1257,7 @@ By Himself
 
 
 
-      Here Mr. Crab again “made great eyes,” (as we say in Germany,)
+      Here Mr. Crab again “made great eyes,” (as we say in [[Germany]],)
 
       but at length, recovering himself from a profound attack of
 
@@ -1291,7 +1291,7 @@ By Himself
 
       altogether, and thus it was easy to do the thing thoroughly and
 
-      well. My practice was this. I bought auction copies (cheap) of
+      [[Well|well]]. My practice was this. I bought auction copies (cheap) of
 
       “Lord Brougham’s Speeches,” “Cobbett’s Complete Works,” the “New
 
@@ -1327,7 +1327,7 @@ By Himself
 
       captivating. Indeed, the reviews I brought to pass by this simple
 
-      expedient have never been approached, and were the wonder of the
+      expedient have never been approached, and were the [[Wonder|wonder]] of the
 
       world. At first, through bashfulness—the result of inexperience—I
 
@@ -1361,9 +1361,9 @@ By Himself
 
       determine. The most reasonable conclusion is, that he wept
 
-      himself to death. At all events he disappeared instantaneously
+      himself to [[Death|death]]. At all events he disappeared instantaneously
 
-      from the face of the earth, and no man has seen even the ghost of
+      from the face of the earth, and no man has seen even the [[Ghost|ghost]] of
 
       him since.
 
@@ -1383,7 +1383,7 @@ By Himself
 
       “My dear Thingum,” said he to me one day after dinner, “I respect
 
-      your abilities and love you as a son. You shall be my heir. When
+      your abilities and [[Love|love]] you as a son. You shall be my heir. When
 
       I die I will bequeath you the ‘Lollipop.’ In the meantime I will
 
@@ -1437,7 +1437,7 @@ By Himself
 
       “I think, Mr. Bob, that what you propose would answer
 
-      sufficiently well—indeed remarkably well—that is to say, as far
+      sufficiently [[Well|well]]—indeed remarkably [[Well|well]]—that is to say, as far
 
       as it went—but barbers are exceedingly hard to cut, and I think,
 
@@ -1451,11 +1451,11 @@ By Himself
 
       After doing this, I really do not perceive that you can do any
 
-      more. However—it might be just as well to roll him once or twice
+      more. However—it might be just as [[Well|well]] to roll him once or twice
 
-      in the gutter, and then put him in charge of the police. Any time
+      in the gutter, and then put him in charge of the police. Any [[Time|time]]
 
-      the next morning you can call at the watch-house and swear an
+      the next morning you can call at the watch-[[house]] and swear an
 
       assault.”
 
@@ -1487,7 +1487,7 @@ By Himself
 
 
 
-      My plan was exceedingly simple. I bought, for a song, a sixteenth
+      My plan was exceedingly simple. I bought, for a [[Song|song]], a sixteenth
 
       of the “Snapping-Turtle”:—that was all. The thing was _done_, and
 
@@ -1519,7 +1519,7 @@ By Himself
 
       be termed philosophical and analytical investigation of the
 
-      literary merits of the “Goosetherumfoodle,” as well as of the
+      literary merits of the “Goosetherumfoodle,” as [[Well|well]] as of the
 
       personal character of the editor of the “Goosetherumfoodle.” At
 
@@ -1543,7 +1543,7 @@ By Himself
 
       The fact is, I _thought_—I _really_ thought—I thought at the
 
-      time—I thought _then_—and have no reason for thinking otherwise
+      [[Time|time]]—I thought _then_—and have no reason for thinking otherwise
 
       _now_—that the “Goosetherumfoodle” _did_ make a mistake. With the
 
@@ -1591,11 +1591,11 @@ By Himself
 
       enables me to say, with Chateaubriand, “I have made
 
-      history”—“_J’ai fait l’histoire_.”
+      [[history]]”—“_J’ai fait l’histoire_.”
 
 
 
-      I have indeed “made history.” From the bright epoch which I now
+      I have indeed “made [[history]].” From the bright epoch which I now
 
       record, my actions—my works—are the property of mankind. They are
 
@@ -1623,7 +1623,7 @@ By Himself
 
 
 
-      Yes; I have made history. My fame is universal. It extends to the
+      Yes; I have made [[history]]. My fame is universal. It extends to the
 
       uttermost ends of the earth. You cannot take up a common
 
@@ -1647,7 +1647,7 @@ By Himself
 
       did I _not_ write? I knew not the word “ease.” By day I adhered
 
-      to my desk, and at night, a pale student, I consumed the midnight
+      to my desk, and at [[Night|night]], a pale student, I consumed the midnight
 
       oil. You should have seen me—you _should_. I leaned to the right.
 

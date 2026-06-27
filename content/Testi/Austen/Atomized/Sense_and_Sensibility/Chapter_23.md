@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 23"
+title: "[[Sense and Sensibility]] — Chapter 23"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,21 +24,21 @@ However small Elinor’s general dependence on Lucy’s veracity might be,
 
 it was impossible for her on serious reflection to suspect it in the
 
-present case, where no temptation could be answerable to the folly of
+present case, where no [[Temptation|temptation]] could be answerable to the folly of
 
 inventing a falsehood of such a description. What Lucy had asserted to
 
-be true, therefore, Elinor could not, dared not longer doubt; supported
+be true, therefore, Elinor could not, dared not longer [[Doubt|doubt]]; supported
 
 as it was too on every side by such probabilities and proofs, and
 
 contradicted by nothing but her own wishes. Their opportunity of
 
-acquaintance in the house of Mr. Pratt was a foundation for the rest,
+acquaintance in the [[house]] of Mr. Pratt was a foundation for the rest,
 
 at once indisputable and alarming; and Edward’s visit near Plymouth,
 
-his melancholy state of mind, his dissatisfaction at his own prospects,
+his [[Melancholy|melancholy]] state of mind, his dissatisfaction at his own prospects,
 
 his uncertain behaviour towards herself, the intimate knowledge of the
 
@@ -46,13 +46,13 @@ Miss Steeles as to Norland and their family connections, which had
 
 often surprised her, the picture, the letter, the ring, formed
 
-altogether such a body of evidence, as overcame every fear of
+altogether such a [[Body|body]] of evidence, as overcame every [[Fear|fear]] of
 
 condemning him unfairly, and established as a fact, which no partiality
 
 could set aside, his ill-treatment of herself.—Her resentment of such
 
-behaviour, her indignation at having been its dupe, for a short time
+behaviour, her indignation at having been its dupe, for a short [[Time|time]]
 
 made her feel only for herself; but other ideas, other considerations,
 
@@ -68,9 +68,9 @@ She could not be deceived in that. Her mother, sisters, Fanny, all had
 
 been conscious of his regard for her at Norland; it was not an illusion
 
-of her own vanity. He certainly loved her. What a softener of the heart
+of her own [[Vanity|vanity]]. He certainly loved her. What a softener of the heart
 
-was this persuasion! How much could it not tempt her to forgive! He had
+was this [[Persuasion|persuasion]]! How much could it not tempt her to forgive! He had
 
 been blamable, highly blamable, in remaining at Norland after he first
 
@@ -84,13 +84,13 @@ imprudence had made her miserable for a while; but it seemed to have
 
 deprived himself of all chance of ever being otherwise. She might in
 
-time regain tranquillity; but _he_, what had he to look forward to?
+[[Time|time]] regain tranquillity; but _he_, what had he to look forward to?
 
-Could he ever be tolerably happy with Lucy Steele; could he, were his
+Could he ever be tolerably happy with [[Lucy Steele]]; could he, were his
 
 affection for herself out of the question, with his integrity, his
 
-delicacy, and well-informed mind, be satisfied with a wife like
+delicacy, and [[Well|well]]-informed mind, be satisfied with a wife like
 
 her—illiterate, artful, and selfish?
 
@@ -98,17 +98,17 @@ her—illiterate, artful, and selfish?
 
 The youthful infatuation of nineteen would naturally blind him to every
 
-thing but her beauty and good nature; but the four succeeding
+thing but her [[Beauty|beauty]] and good [[Nature|nature]]; but the four succeeding
 
 years—years, which if rationally spent, give such improvement to the
 
-understanding, must have opened his eyes to her defects of education,
+understanding, must have opened his eyes to her defects of [[Education|education]],
 
-while the same period of time, spent on her side in inferior society
+while the same period of [[Time|time]], spent on her side in inferior society
 
 and more frivolous pursuits, had perhaps robbed her of that simplicity
 
-which might once have given an interesting character to her beauty.
+which might once have given an interesting character to her [[Beauty|beauty]].
 
 
 
@@ -122,7 +122,7 @@ connections, and probably inferior in fortune to herself. These
 
 difficulties, indeed, with a heart so alienated from Lucy, might not
 
-press very hard upon his patience; but melancholy was the state of the
+press very hard upon his patience; but [[Melancholy|melancholy]] was the state of the
 
 person by whom the expectation of family opposition and unkindness,
 
@@ -140,9 +140,9 @@ belief that Edward had done nothing to forfeit her esteem, she thought
 
 she could even now, under the first smart of the heavy blow, command
 
-herself enough to guard every suspicion of the truth from her mother
+herself enough to guard every suspicion of the [[Truth|truth]] from her mother
 
-and sisters. And so well was she able to answer her own expectations,
+and sisters. And so [[Well|well]] was she able to answer her own expectations,
 
 that when she joined them at dinner only two hours after she had first
 
@@ -152,13 +152,13 @@ supposed from the appearance of the sisters, that Elinor was mourning
 
 in secret over obstacles which must divide her for ever from the object
 
-of her love, and that Marianne was internally dwelling on the
+of her [[Love|love]], and that Marianne was internally dwelling on the
 
 perfections of a man, of whose whole heart she felt thoroughly
 
 possessed, and whom she expected to see in every carriage which drove
 
-near their house.
+near their [[house]].
 
 
 
@@ -184,11 +184,11 @@ From their counsel, or their conversation, she knew she could receive
 
 no assistance, their tenderness and sorrow must add to her distress,
 
-while her self-command would neither receive encouragement from their
+while her [[Self|self]]-command would neither receive encouragement from their
 
-example nor from their praise. She was stronger alone, and her own good
+example nor from their praise. She was stronger [[Alone|alone]], and her own good
 
-sense so well supported her, that her firmness was as unshaken, her
+sense so [[Well|well]] supported her, that her firmness was as unshaken, her
 
 appearance of cheerfulness as invariable, as with regrets so poignant
 
@@ -228,7 +228,7 @@ confessedly and evidently important. And even Sir John’s joking
 
 intelligence must have had some weight. But indeed, while Elinor
 
-remained so well assured within herself of being really beloved by
+remained so [[Well|well]] assured within herself of being really beloved by
 
 Edward, it required no other consideration of probabilities to make it
 
@@ -244,7 +244,7 @@ She had little difficulty in understanding thus much of her rival’s
 
 intentions, and while she was firmly resolved to act by her as every
 
-principle of honour and honesty directed, to combat her own affection
+principle of [[Honour|honour]] and honesty directed, to combat her own affection
 
 for Edward and to see him as little as possible; she could not deny
 
@@ -260,7 +260,7 @@ ability of going through a repetition of particulars with composure.
 
 But it was not immediately that an opportunity of doing so could be
 
-commanded, though Lucy was as well disposed as herself to take
+commanded, though Lucy was as [[Well|well]] disposed as herself to take
 
 advantage of any that occurred; for the weather was not often fine
 
@@ -288,11 +288,11 @@ One or two meetings of this kind had taken place, without affording
 
 Elinor any chance of engaging Lucy in private, when Sir John called at
 
-the cottage one morning, to beg, in the name of charity, that they
+the cottage one morning, to beg, in the name of [[Charity|charity]], that they
 
 would all dine with Lady Middleton that day, as he was obliged to
 
-attend the club at Exeter, and she would otherwise be quite alone,
+attend the club at Exeter, and she would otherwise be quite [[Alone|alone]],
 
 except her mother and the two Miss Steeles. Elinor, who foresaw a
 
@@ -300,7 +300,7 @@ fairer opening for the point she had in view, in such a party as this
 
 was likely to be, more at liberty among themselves under the tranquil
 
-and well-bred direction of Lady Middleton than when her husband united
+and [[Well|well]]-bred direction of Lady Middleton than when her husband united
 
 them together in one noisy purpose, immediately accepted the
 
@@ -316,7 +316,7 @@ seclude herself from any chance of amusement, to go likewise.
 
 The young ladies went, and Lady Middleton was happily preserved from
 
-the frightful solitude which had threatened her. The insipidity of the
+the frightful [[Solitude|solitude]] which had threatened her. The insipidity of the
 
 meeting was exactly such as Elinor had expected; it produced not one
 
@@ -326,15 +326,15 @@ than the whole of their discourse both in the dining parlour and
 
 drawing room: to the latter, the children accompanied them, and while
 
-they remained there, she was too well convinced of the impossibility of
+they remained there, she was too [[Well|well]] convinced of the impossibility of
 
 engaging Lucy’s attention to attempt it. They quitted it only with the
 
 removal of the tea-things. The card-table was then placed, and Elinor
 
-began to wonder at herself for having ever entertained a hope of
+began to [[Wonder|wonder]] at herself for having ever entertained a [[Hope|hope]] of
 
-finding time for conversation at the park. They all rose up in
+finding [[Time|time]] for conversation at the park. They all [[Rose|rose]] up in
 
 preparation for a round game.
 
@@ -346,9 +346,9 @@ poor little Annamaria’s basket this evening; for I am sure it must hurt
 
 your eyes to work filigree by candlelight. And we will make the dear
 
-little love some amends for her disappointment to-morrow, and then I
+little [[Love|love]] some amends for her disappointment to-morrow, and then I
 
-hope she will not much mind it.”
+[[Hope|hope]] she will not much mind it.”
 
 
 
@@ -366,7 +366,7 @@ resolved to finish the basket after supper.”
 
 
 
-“You are very good, I hope it won’t hurt your eyes—will you ring the
+“You are very good, I [[Hope|hope]] it won’t hurt your eyes—will you ring the
 
 bell for some working candles? My poor little girl would be sadly
 
@@ -382,7 +382,7 @@ Lucy directly drew her work table near her and reseated herself with an
 
 alacrity and cheerfulness which seemed to infer that she could taste no
 
-greater delight than in making a filigree basket for a spoilt child.
+greater delight than in making a filigree basket for a spoilt [[Child|child]].
 
 
 
@@ -410,7 +410,7 @@ made so rude a speech.
 
 said Elinor, endeavouring to smooth away the offence; “and I do not
 
-much wonder at it; for it is the very best toned piano-forte I ever
+much [[Wonder|wonder]] at it; for it is the very best toned piano-forte I ever
 
 heard.”
 
@@ -422,7 +422,7 @@ The remaining five were now to draw their cards.
 
 “Perhaps,” continued Elinor, “if I should happen to cut out, I may be
 
-of some use to Miss Lucy Steele, in rolling her papers for her; and
+of some use to Miss [[Lucy Steele]], in [[rolling]] her papers for her; and
 
 there is so much still to be done to the basket, that it must be
 
@@ -444,13 +444,13 @@ all.”
 
 “Oh! that would be terrible, indeed,” said Miss Steele. “Dear little
 
-soul, how I do love her!”
+[[Soul|soul]], how I do [[Love|love]] her!”
 
 
 
 “You are very kind,” said Lady Middleton to Elinor; “and as you really
 
-like the work, perhaps you will be as well pleased not to cut in till
+like the work, perhaps you will be as [[Well|well]] pleased not to cut in till
 
 another rubber, or will you take your chance now?”
 
@@ -462,7 +462,7 @@ little of that address which Marianne could never condescend to
 
 practise, gained her own end, and pleased Lady Middleton at the same
 
-time. Lucy made room for her with ready attention, and the two fair
+[[Time|time]]. Lucy made room for her with ready attention, and the two fair
 
 rivals were thus seated side by side at the same table, and, with the
 
@@ -470,7 +470,7 @@ utmost harmony, engaged in forwarding the same work. The pianoforte at
 
 which Marianne, wrapped up in her own music and her own thoughts, had
 
-by this time forgotten that any body was in the room besides herself,
+by this [[Time|time]] forgotten that any [[Body|body]] was in the room besides herself,
 
 was luckily so near them that Miss Dashwood now judged she might
 

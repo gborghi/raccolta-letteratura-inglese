@@ -1,5 +1,5 @@
 ---
-title: "The Tempest — Act I, Scene 2 — exchange (ARIEL) [9]"
+title: "The Tempest — Act I, Scene 2 — exchange ([[Ariel|ARIEL]]) [9]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/THE-TEMPEST-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| ARIEL | To th’ syllable. |
-| PROSPERO | (to Ferdinand) Come, follow. (To Miranda) Speak not for him. Exeunt |
+| [[Ariel|ARIEL]] | To th’ syllable. |
+| PROSPERO | (to [[Ferdinand]]) Come, follow. (To [[Miranda]]) Speak not for him. Exeunt |

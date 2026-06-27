@@ -19,28 +19,28 @@ such extraordinary interest, their anxiety is so keen, their vigilance
 is so great, their excited joy grows so intense as the signs of life
 strengthen, that how can she resist it, poor thing! And now he begins
 to breathe naturally, and he stirs, and the doctor declares him to have
-come back from that inexplicable journey where he stopped on the dark
-road, and to be here.
+come back from that inexplicable [[Journey|journey]] where he stopped on the dark
+[[Road|road]], and to be here.
 
 Tom Tootle, who is nearest to the doctor when he says this, grasps
 the doctor fervently by the hand. Bob Glamour, William Williams, and
 Jonathan of the no surname, all shake hands with one another round, and
 with the doctor too. Bob Glamour blows his nose, and Jonathan of the
 no surname is moved to do likewise, but lacking a pocket handkerchief
-abandons that outlet for his emotion. Pleasant sheds tears deserving her
+abandons that outlet for his emotion. Pleasant sheds [[Tears|tears]] deserving her
 own name, and her sweet delusion is at its height.
 
 There is intelligence in his eyes. He wants to ask a question. He
 wonders where he is. Tell him.
 
-‘Father, you were run down on the river, and are at Miss Abbey
+‘Father, you were run down on the [[River|river]], and are at Miss Abbey
 Potterson’s.’
 
 He stares at his daughter, stares all around him, closes his eyes, and
 lies slumbering on her arm.
 
 The short-lived delusion begins to fade. The low, bad, unimpressible
-face is coming up from the depths of the river, or what other depths, to
+face is coming up from the depths of the [[River|river]], or what other depths, to
 the surface again. As he grows warm, the doctor and the four men cool.
 As his lineaments soften with life, their faces and their hearts harden
 to him.
@@ -68,7 +68,7 @@ on. Intelligence is conveyed to Miss Abbey in the bar, who reappears on
 the scene, and contemplates from a distance, holding whispered discourse
 with the doctor. The spark of life was deeply interesting while it was
 in abeyance, but now that it has got established in Mr Riderhood, there
-appears to be a general desire that circumstances had admitted of its
+appears to be a general [[Desire|desire]] that circumstances had admitted of its
 being developed in anybody else, rather than that gentleman.
 
 ‘However,’ says Miss Abbey, cheering them up, ‘you have done your duty
@@ -88,35 +88,35 @@ Pleasant faintly nods.
 Pleasant hopes not. Why?
 
 ‘When he finds himself here, you know,’ Bob explains. ‘Cause Miss Abbey
-forbid him the house and ordered him out of it. But what you may call
+forbid him the [[house]] and ordered him out of it. But what you may call
 the Fates ordered him into it again. Which is rumness; ain’t it?’
 
 ‘He wouldn’t have come here of his own accord,’ returns poor Pleasant,
-with an effort at a little pride.
+with an effort at a little [[Pride|pride]].
 
 ‘No,’ retorts Bob. ‘Nor he wouldn’t have been let in, if he had.’
 
 The short delusion is quite dispelled now. As plainly as she sees on her
 arm the old father, unimproved, Pleasant sees that everybody there will
 cut him when he recovers consciousness. ‘I’ll take him away ever so soon
-as I can,’ thinks Pleasant with a sigh; ‘he’s best at home.’
+as I can,’ thinks Pleasant with a sigh; ‘he’s best at [[Home|home]].’
 
 Presently they all return, and wait for him to become conscious that
 they will all be glad to get rid of him. Some clothes are got together
-for him to wear, his own being saturated with water, and his present
+for him to wear, his own being saturated with [[Water|water]], and his present
 dress being composed of blankets.
 
 Becoming more and more uncomfortable, as though the prevalent dislike
-were finding him out somewhere in his sleep and expressing itself to
+were finding him out somewhere in his [[Sleep|sleep]] and expressing itself to
 him, the patient at last opens his eyes wide, and is assisted by his
 daughter to sit up in bed.
 
-‘Well, Riderhood,’ says the doctor, ‘how do you feel?’
+‘[[Well]], Riderhood,’ says the doctor, ‘how do you feel?’
 
 He replies gruffly, ‘Nothing to boast on.’ Having, in fact, returned to
 life in an uncommonly sulky state.
 
-‘I don’t mean to preach; but I hope,’ says the doctor, gravely shaking
+‘I don’t mean to preach; but I [[Hope|hope]],’ says the doctor, gravely shaking
 his head, ‘that this escape may have a good effect upon you, Riderhood.’
 
 The patient’s discontented growl of a reply is not intelligible; his
@@ -144,7 +144,7 @@ incongruous resemblance.
 ‘Where’s my fur cap?’ he asks in a surly voice, when he has shuffled his
 clothes on.
 
-‘In the river,’ somebody rejoins.
+‘In the [[River|river]],’ somebody rejoins.
 
 ‘And warn’t there no honest man to pick it up? O’ course there was
 though, and to cut off with it arterwards. You are a rare lot, all on
@@ -155,4 +155,4 @@ ill-will, a lent cap, and grumbling as he pulls it down over his ears.
 Then, getting on his unsteady legs, leaning heavily upon her, and
 growling, ‘Hold still, can’t you? What! You must be a staggering next,
 must you?’ he takes his departure out of the ring in which he has had
-that little turn-up with Death.
+that little turn-up with [[Death]].

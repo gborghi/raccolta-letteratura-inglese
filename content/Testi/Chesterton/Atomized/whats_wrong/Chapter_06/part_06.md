@@ -18,11 +18,11 @@ But there is one feature in the past which more than all
 the rest defies and depresses the moderns and drives them
 towards this featureless future.  I mean the presence in
 the past of huge ideals, unfulfilled and sometimes abandoned.
-The sight of these splendid failures is melancholy to a restless
-and rather morbid generation; and they maintain a strange silence
-about them--sometimes amounting to an unscrupulous silence.
+The sight of these splendid failures is [[Melancholy|melancholy]] to a restless
+and rather morbid generation; and they maintain a strange [[Silence|silence]]
+about them--sometimes amounting to an unscrupulous [[Silence|silence]].
 They keep them entirely out of their newspapers and almost entirely
-out of their history books.  For example, they will often tell you
+out of their [[history]] books.  For example, they will often tell you
 (in their praises of the coming age) that we are moving on towards
 a United States of Europe.  But they carefully omit to tell
 you that we are moving away from a United States of Europe,
@@ -40,8 +40,8 @@ ignoring of them in the past.  Anyone can test this for himself.
 Read any thirty or forty pages of pamphlets advocating peace
 in Europe and see how many of them praise the old Popes or Emperors
 for keeping the peace in Europe.  Read any armful of essays
-and poems in praise of social democracy, and see how many of them
-praise the old Jacobins who created democracy and died for it.
+and [[Poems|poems]] in praise of social [[democracy]], and see how many of them
+praise the old Jacobins who created [[democracy]] and died for it.
 These colossal ruins are to the modern only enormous eyesores.
 He looks back along the valley of the past and sees a perspective
 of splendid but unfinished cities.  They are unfinished,
@@ -64,12 +64,12 @@ have been sabred by the Manchester Yeomanry or shot in the '48?
 Are we still strong enough to spear mammoths, but now tender enough
 to spare them?  Does the cosmos contain any mammoth that we have
 either speared or spared?  When we decline (in a marked manner)
-to fly the red flag and fire across a barricade like our grandfathers,
+to fly the red [[Flag|flag]] and [[Fire|fire]] across a barricade like our grandfathers,
 are we really declining in deference to sociologists--or to soldiers?
 Have we indeed outstripped the warrior and passed the ascetical saint?
-I fear we only outstrip the warrior in the sense that we should
+I [[Fear|fear]] we only outstrip the warrior in the sense that we should
 probably run away from him.  And if we have passed the saint,
-I fear we have passed him without bowing.
+I [[Fear|fear]] we have passed him without bowing.
 
 This is, first and foremost, what I mean by the narrowness
 of the new ideas, the limiting effect of the future.
@@ -80,15 +80,15 @@ The whole position is based on this idea that we have got
 all the good that can be got out of the ideas of the past.
 But we have not got all the good out of them, perhaps at this
 moment not any of the good out of them.  And the need here is
-a need of complete freedom for restoration as well as revolution.
+a need of complete [[Freedom|freedom]] for restoration as [[Well|well]] as revolution.
 
 We often read nowadays of the valor or audacity with which some
-rebel attacks a hoary tyranny or an antiquated superstition.
-There is not really any courage at all in attacking hoary
+[[Rebel|rebel]] attacks a hoary tyranny or an antiquated superstition.
+There is not really any [[Courage|courage]] at all in attacking hoary
 or antiquated things, any more than in offering to fight
 one's grandmother.  The really courageous man is he who defies
 tyrannies young as the morning and superstitions fresh
-as the first flowers.  The only true free-thinker is he whose
+as the first [[Flowers|flowers]].  The only true free-thinker is he whose
 intellect is as much free from the future as from the past.
 He cares as little for what will be as for what has been;
 he cares only for what ought to be.  And for my present
@@ -97,8 +97,8 @@ If I am to discuss what is wrong, one of the first things
 that are wrong is this:  the deep and silent modern assumption
 that past things have become impossible.  There is one metaphor
 of which the moderns are very fond; they are always saying,
-"You can't put the clock back."  The simple and obvious answer
-is "You can."  A clock, being a piece of human construction,
+"You can't put the [[Clock|clock]] back."  The simple and obvious answer
+is "You can."  A [[Clock|clock]], being a piece of human construction,
 can be restored by the human finger to any figure or hour.
 In the same way society, being a piece of human construction,
 can be reconstructed upon any plan that has ever existed.
@@ -107,21 +107,21 @@ There is another proverb, "As you have made your bed,
 so you must lie on it"; which again is simply a lie.
 If I have made my bed uncomfortable, please God I will make it again.
 We could restore the Heptarchy or the stage coaches if we chose.
-It might take some time to do, and it might be very inadvisable to do it;
+It might take some [[Time|time]] to do, and it might be very inadvisable to do it;
 but certainly it is not impossible as bringing back last Friday
-is impossible.  This is, as I say, the first freedom that I claim:
-the freedom to restore.  I claim a right to propose as a solution
+is impossible.  This is, as I say, the first [[Freedom|freedom]] that I claim:
+the [[Freedom|freedom]] to restore.  I claim a right to propose as a solution
 the old patriarchal system of a Highland clan, if that should seem
 to eliminate the largest number of evils.  It certainly would
 eliminate some evils; for instance, the unnatural sense of obeying
 cold and harsh strangers, mere bureaucrats and policemen.
 I claim the right to propose the complete independence of the small
-Greek or Italian towns, a sovereign city of Brixton or Brompton,
+Greek or Italian towns, a sovereign [[City|city]] of Brixton or Brompton,
 if that seems the best way out of our troubles.  It would be a way
 out of some of our troubles; we could not have in a small state,
 for instance, those enormous illusions about men or measures which
 are nourished by the great national or international newspapers.
-You could not persuade a city state that Mr. Beit was an Englishman,
+You could not persuade a [[City|city]] state that Mr. Beit was an Englishman,
 or Mr. Dillon a desperado, any more than you could persuade
 a Hampshire Village that the village drunkard was a teetotaller
 or the village idiot a statesman.  Nevertheless, I do not as a

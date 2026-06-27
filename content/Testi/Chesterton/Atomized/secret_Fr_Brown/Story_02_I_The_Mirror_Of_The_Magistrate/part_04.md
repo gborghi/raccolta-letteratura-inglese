@@ -1,5 +1,5 @@
 ---
-title: "secret Fr Brown — I. The Mirror Of The Magistrate (part 4)"
+title: "secret Fr Brown — I. The [[Mirror]] Of The Magistrate (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/secret-Fr-Brown-(Chesterton)"
@@ -24,15 +24,15 @@ mildly angelic sort; but the face was crabbed and elderly with a
 powerful jowl and a short nose that somehow suggested the broken nose of
 a pugilist.
 
-"This is Mr. Orm, the celebrated poet, I understand," said Father Brown,
+"This is Mr. Orm, the celebrated poet, I understand," said [[Father Brown]],
 as calmly as if he were introducing two people in a drawing-room.
 
 "Whoever he is," said Bagshaw, "I must trouble him to come with me and
 answer a few questions."
 
-Mr. Osric Orm, the poet, was not a model of self-expression when it
+Mr. Osric Orm, the poet, was not a model of [[Self|self]]-expression when it
 came to the answering of questions. There, in that corner of the old
-garden, as the grey twilight before dawn began to creep over the heavy
+[[Garden|garden]], as the grey twilight before [[Dawn|dawn]] began to creep over the heavy
 hedges and the broken bridge, and afterwards in a succession of
 circumstances and stages of legal inquiry that grew more and more
 ominous, he refused to say anything except that he had intended to call
@@ -64,38 +64,38 @@ case and I must ask you to explain."
 
 Buller stood as still as the lamp-post beside him, possibly stiffened
 with surprise. The red end of his cigar brightened and darkened
-rhythmically, but his brown face was in shadow; when he spoke it was
+rhythmically, but his brown face was in [[Shadow|shadow]]; when he spoke it was
 with quite a new voice.
 
 "I only mean," he said, "that when I passed two hours ago Mr. Orm was
 going in at this gate to see Sir Humphrey."
 
 "He says he hasn't seen him yet," observed Bagshaw, "or even been into
-the house."
+the [[house]]."
 
-"It's a long time to stand on the door-step," observed Buller.
+"It's a long [[Time|time]] to stand on the door-step," observed Buller.
 
-"Yes," said Father Brown; "it's rather a long time to stand in the
+"Yes," said [[Father Brown]]; "it's rather a long [[Time|time]] to stand in the
 street."
 
-"I've been home since then," said the cigar merchant. "Been writing
+"I've been [[Home|home]] since then," said the cigar merchant. "Been writing
 letters and came out again to post them."
 
-"You'll have to tell all that later," said Bagshaw. "Good night--or good
+"You'll have to tell all that later," said Bagshaw. "Good [[Night|night]]--or good
 morning."
 
 The trial of Osric Orm for the murder of Sir Humphrey Gwynne, which
 filled the newspapers for so many weeks, really turned entirely on the
 same crux as that little talk under the lamp-post, when the grey-
-green dawn was breaking about the dark streets and gardens. Everything
-came back to the enigma of those two empty hours between the time when
-Buller saw Orm going in at the garden gate, and the time when Father
-Brown found him apparently still lingering in the garden. He had
-certainly had the time to commit six murders, and might almost have
+green [[Dawn|dawn]] was breaking about the dark streets and gardens. Everything
+came back to the enigma of those two empty hours between the [[Time|time]] when
+Buller saw Orm going in at the [[Garden|garden]] gate, and the [[Time|time]] when Father
+Brown found him apparently still lingering in the [[Garden|garden]]. He had
+certainly had the [[Time|time]] to commit six murders, and might almost have
 committed them for want of something to do; for he could give no
 coherent account of what he was doing. It was argued by the prosecution
 that he had also the opportunity, as the front door was unlatched, and
-the side-door into the larger garden left standing open. The court
+the side-door into the larger [[Garden|garden]] left standing open. The [[Court|court]]
 followed, with considerable interest, Bagshaw's clear reconstruction of
 the struggle in the passage, of which the traces were so evident;
 indeed, the police had since found the shot that had shattered the
@@ -107,21 +107,21 @@ place without possible exit, when it would obviously be much more
 sensible to slip out into the street. Sir Matthew Blake also made
 effective use of the mystery that still rested upon the motive for the
 murder. Indeed, upon this point, the passages between Sir Matthew Blake
-and Sir Arthur Travers, the equally brilliant advocate for the
-prosecution, turned rather to the advantage of the prisoner. Sir Arthur
+and Sir [[arthur|Arthur]] Travers, the equally brilliant advocate for the
+prosecution, turned rather to the advantage of the prisoner. Sir [[arthur|Arthur]]
 could only throw out suggestions about a Bolshevist conspiracy which
 sounded a little thin. But when it came to investigating the facts of
-Orm's mysterious behaviour that night he was considerably more
+Orm's mysterious behaviour that [[Night|night]] he was considerably more
 effective.
 
 The prisoner went into the witness-box, chiefly because his astute
 counsel calculated that it would create a bad impression if he did not.
 But he was almost as uncommunicative to his own counsel as to the
-prosecuting counsel. Sir Arthur Travers made all possible capital out of
-his stubborn silence, but did not succeed in breaking it. Sir Arthur was
+prosecuting counsel. Sir [[arthur|Arthur]] Travers made all possible capital out of
+his stubborn [[Silence|silence]], but did not succeed in breaking it. Sir [[arthur|Arthur]] was
 a long, gaunt man, with a long, cadaverous face, in striking contrast to
 the sturdy figure and bright, bird-like eye of Sir Matthew Blake. But
 if Sir Matthew suggested a very cocksure sort of cock â sparrow, Sir
-Arthur might more truly have been compared to a crane or stork; as he
+[[arthur|Arthur]] might more truly have been compared to a crane or stork; as he
 leaned forward, prodding the poet with questions, his long nose might
 have been a long beak.

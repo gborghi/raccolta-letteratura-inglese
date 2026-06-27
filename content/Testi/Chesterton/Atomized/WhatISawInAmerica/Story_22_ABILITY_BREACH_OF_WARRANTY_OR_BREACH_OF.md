@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — ABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE"
+title: "[[WhatISawInAmerica]] — ABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"

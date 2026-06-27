@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 25 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 25 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -15,17 +15,17 @@ tags:
 
 
 ‘To be sure,’ said Nicholas. ‘Yes; they would have been jealous, no
-doubt.’
+[[Doubt|doubt]].’
 
 ‘To prevent which,’ said Mr. Lillyvick, ‘Henrietta Petowker (it
 was settled between us) should come down here to her friends, the
 Crummleses, under pretence of this engagement, and I should go down to
 Guildford the day before, and join her on the coach there, which I did,
-and we came down from Guildford yesterday together. Now, for fear you
+and we came down from Guildford yesterday together. Now, for [[Fear|fear]] you
 should be writing to Mr. Noggs, and might say anything about us, we have
 thought it best to let you into the secret. We shall be married from the
 Crummleses’ lodgings, and shall be delighted to see you--either before
-church or at breakfast-time, which you like. It won’t be expensive,
+church or at breakfast-[[Time|time]], which you like. It won’t be expensive,
 you know,’ said the collector, highly anxious to prevent any
 misunderstanding on this point; ‘just muffins and coffee, with perhaps a
 shrimp or something of that sort for a relish, you know.’
@@ -34,8 +34,8 @@ shrimp or something of that sort for a relish, you know.’
 happy to come; it will give me the greatest pleasure. Where’s the lady
 stopping--with Mrs. Crummles?’
 
-‘Why, no,’ said the collector; ‘they couldn’t very well dispose of
-her at night, and so she is staying with an acquaintance of hers, and
+‘Why, no,’ said the collector; ‘they couldn’t very [[Well|well]] dispose of
+her at [[Night|night]], and so she is staying with an acquaintance of hers, and
 another young lady; they both belong to the theatre.’
 
 ‘Miss Snevellicci, I suppose?’ said Nicholas.
@@ -48,7 +48,7 @@ another young lady; they both belong to the theatre.’
 bridesmaids; I’m afraid they’ll make it rather theatrical.’
 
 ‘Oh no, not at all,’ replied Nicholas, with an awkward attempt to
-convert a laugh into a cough. ‘Who may the four be? Miss Snevellicci of
+[[convert]] a laugh into a cough. ‘Who may the four be? Miss Snevellicci of
 course--Miss Ledrook--’
 
 ‘The--the phenomenon,’ groaned the collector.
@@ -57,7 +57,7 @@ course--Miss Ledrook--’
 laughing at--yes, that’ll be very pretty--the phenomenon--who else?’
 
 ‘Some young woman or other,’ replied the collector, rising; ‘some other
-friend of Henrietta Petowker’s. Well, you’ll be careful not to say
+friend of Henrietta Petowker’s. [[Well]], you’ll be careful not to say
 anything about it, will you?’
 
 ‘You may safely depend upon me,’ replied Nicholas. ‘Won’t you take
@@ -66,14 +66,14 @@ anything to eat or drink?’
 ‘No,’ said the collector; ‘I haven’t any appetite. I should think it was
 a very pleasant life, the married one, eh?’
 
-‘I have not the least doubt of it,’ rejoined Nicholas.
+‘I have not the least [[Doubt|doubt]] of it,’ rejoined Nicholas.
 
-‘Yes,’ said the collector; ‘certainly. Oh yes. No doubt. Good night.’
+‘Yes,’ said the collector; ‘certainly. Oh yes. No [[Doubt|doubt]]. Good [[Night|night]].’
 
 With these words, Mr. Lillyvick, whose manner had exhibited through the
 whole of this interview a most extraordinary compound of precipitation,
-hesitation, confidence and doubt, fondness, misgiving, meanness, and
-self-importance, turned his back upon the room, and left Nicholas to
+hesitation, confidence and [[Doubt|doubt]], fondness, misgiving, meanness, and
+[[Self|self]]-importance, turned his back upon the room, and left Nicholas to
 enjoy a laugh by himself if he felt so disposed.
 
 Without stopping to inquire whether the intervening day appeared to
@@ -89,44 +89,44 @@ of no use talking, I never can make up my mind to go through with such a
 trial!’
 
 On hearing this, Miss Snevellicci and Miss Ledrook, who knew perfectly
-well that their fair friend’s mind had been made up for three or four
-years, at any period of which time she would have cheerfully undergone
+[[Well|well]] that their fair friend’s mind had been made up for three or four
+years, at any period of which [[Time|time]] she would have cheerfully undergone
 the desperate trial now approaching if she could have found any
 eligible gentleman disposed for the venture, began to preach comfort and
 firmness, and to say how very proud she ought to feel that it was in her
 power to confer lasting bliss on a deserving object, and how necessary
 it was for the happiness of mankind in general that women should possess
-fortitude and resignation on such occasions; and that although for their
+fortitude and [[Resignation|resignation]] on such occasions; and that although for their
 parts they held true happiness to consist in a single life, which
 they would not willingly exchange--no, not for any worldly
-consideration--still (thank God), if ever the time SHOULD come, they
-hoped they knew their duty too well to repine, but would the rather
-submit with meekness and humility of spirit to a fate for which
-Providence had clearly designed them with a view to the contentment and
+consideration--still (thank God), if ever the [[Time|time]] SHOULD come, they
+hoped they knew their duty too [[Well|well]] to repine, but would the rather
+submit with meekness and [[Humility|humility]] of spirit to a fate for which
+[[Providence]] had clearly designed them with a view to the contentment and
 reward of their fellow-creatures.
 
 ‘I might feel it was a great blow,’ said Miss Snevellicci, ‘to break
 up old associations and what-do-you-callems of that kind, but I would
 submit, my dear, I would indeed.’
 
-‘So would I,’ said Miss Ledrook; ‘I would rather court the yoke than
+‘So would I,’ said Miss Ledrook; ‘I would rather [[Court|court]] the yoke than
 shun it. I have broken hearts before now, and I’m very sorry for it: for
 it’s a terrible thing to reflect upon.’
 
 ‘It is indeed,’ said Miss Snevellicci. ‘Now Led, my dear, we must
 positively get her ready, or we shall be too late, we shall indeed.’
 
-This pious reasoning, and perhaps the fear of being too late, supported
+This pious reasoning, and perhaps the [[Fear|fear]] of being too late, supported
 the bride through the ceremony of robing, after which, strong tea and
 brandy were administered in alternate doses as a means of strengthening
 her feeble limbs and causing her to walk steadier.
 
-‘How do you feel now, my love?’ inquired Miss Snevellicci.
+‘How do you feel now, my [[Love|love]]?’ inquired Miss Snevellicci.
 
 ‘Oh Lillyvick!’ cried the bride. ‘If you knew what I am undergoing for
 you!’
 
-‘Of course he knows it, love, and will never forget it,’ said Miss
+‘Of course he knows it, [[Love|love]], and will never forget it,’ said Miss
 Ledrook.
 
 ‘Do you think he won’t?’ cried Miss Petowker, really showing great

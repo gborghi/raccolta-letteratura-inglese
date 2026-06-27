@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Mask of Socialism (part 1)"
+title: "[[UtopiaUsurers]] — The Mask of Socialism (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -34,7 +34,7 @@ lost.
 
 
 
-We must note, first of all, a general truth about the curious time we
+We must note, first of all, a general [[Truth|truth]] about the curious [[Time|time]] we
 
 live in. It will not be so difficult as some people may suppose to make
 
@@ -42,7 +42,7 @@ the Servile State look rather like Socialism, especially to the more
 
 pedantic kind of Socialist. The reason is this. The old lucid and
 
-trenchant expounder of Socialism, such as Blatchford or Fred Henderson,
+trenchant expounder of Socialism, such as Blatchford or [[Fred]] Henderson,
 
 always describes the economic power of the plutocrats as consisting in
 
@@ -50,7 +50,7 @@ private property. Of course, in a sense, this is quite true; though they
 
 too often miss the point that private property, as such, is not the same
 
-as property confined to the few. But the truth is that the situation has
+as property confined to the few. But the [[Truth|truth]] is that the situation has
 
 grown much more subtle; perhaps too subtle, not to say too insane, for
 
@@ -88,9 +88,9 @@ though they might have suffered confiscation in theory. Mr. Lloyd George
 
 has four hundred a year as an M. P.; but he not only gets much more as a
 
-Minister, but he might at any time get immeasurably more by speculating
+Minister, but he might at any [[Time|time]] get immeasurably more by speculating
 
-on State secrets that are necessarily known to him. Some say that he has
+on State [[Secrets|secrets]] that are necessarily known to him. Some say that he has
 
 even attempted something of the kind. Now, it would be quite possible to
 
@@ -108,17 +108,17 @@ not improbable that the same men will handle and enjoy in much the same
 
 manner, though in theory they are doing it as instruments, and not as
 
-individuals. For instance, the Prime Minister has a private house, which
+individuals. For instance, the Prime Minister has a private [[house]], which
 
-is also (I grieve to inform that eminent Puritan) a public house. It
+is also (I grieve to inform that eminent Puritan) a public [[house]]. It
 
-is supposed to be a sort of Government office; though people do not
+is supposed to be a sort of [[government|Government]] office; though people do not
 
-generally give children's parties, or go to bed in a Government office.
+generally give children's parties, or go to bed in a [[government|Government]] office.
 
-I do not know where Mr. Herbert Samuel lives; but I have no doubt he
+I do not know where Mr. Herbert Samuel lives; but I have no [[Doubt|doubt]] he
 
-does himself well in the matter of decoration and furniture. On the
+does himself [[Well|well]] in the matter of decoration and furniture. On the
 
 existing official parallel there is no need to move any of these
 
@@ -142,7 +142,7 @@ only their pay is called their expenses. This system might run side by
 
 side with a theory of equal wages, as absolute as that once laid down by
 
-Mr. Bernard Shaw. By the theory of the State, Mr. Herbert Samuel and Mr.
+Mr. Bernard [[Shaw]]. By the theory of the State, Mr. Herbert Samuel and Mr.
 
 Lloyd George might be humble citizens, drudging for their fourpence
 
@@ -154,7 +154,7 @@ Samuel in an astrakhan coat and a motor-car, we should find the record
 
 of the expenditure (if we could find it at all) under the heading of
 
-"Speed Limit Extension Enquiry Commission." If it fell to our lot to
+"[[Speed]] Limit Extension Enquiry Commission." If it fell to our lot to
 
 behold (with the eye of flesh) what seemed to be Mr. Lloyd George
 
@@ -184,9 +184,9 @@ select according to the needs of usurers; its religion will be just
 
 charitable enough to pardon usurers; its penal system will be just cruel
 
-enough to crush all the critics of usurers: the truth of it will be
+enough to crush all the critics of usurers: the [[Truth|truth]] of it will be
 
-Slavery: and the title of it may quite possibly be Socialism.
+[[Slavery]]: and the title of it may quite possibly be Socialism.
 
 
 
@@ -202,7 +202,7 @@ THE ESCAPE
 
      We watched you building, stone by stone,
 
-     The well-washed cells and well-washed graves
+     The [[Well|well]]-washed cells and [[Well|well]]-washed graves
 
      We shall inhabit but not own
 

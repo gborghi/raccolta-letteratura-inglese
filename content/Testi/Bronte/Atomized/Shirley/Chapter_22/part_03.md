@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 22 (part 3)"
+title: "[[Shirley]] — Chapter 22 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -18,7 +18,7 @@ with Caroline on that northern tour they had planned; but just at that
 
 epoch an invasion befell Fieldhead. A genteel foraging party besieged
 
-Shirley in her castle, and compelled her to surrender at discretion. An
+[[Shirley]] in her [[Castle|castle]], and compelled her to surrender at discretion. An
 
 uncle, an aunt, and two cousins from the south--a Mr., Mrs., and two
 
@@ -52,7 +52,7 @@ least not yet.
 
 
 
-The next Sunday the Fieldhead pew in Briarfield Church appeared peopled
+The next [[Sunday]] the Fieldhead pew in Briarfield Church appeared peopled
 
 with a prim, trim, fidgety, elderly gentleman, who shifted his
 
@@ -60,7 +60,7 @@ spectacles, and changed his position every three minutes; a patient,
 
 placid-looking elderly lady in brown satin; and two pattern young
 
-ladies, in pattern attire, with pattern deportment. Shirley had the air
+ladies, in pattern attire, with pattern deportment. [[Shirley]] had the air
 
 of a black swan or a white crow in the midst of this party, and very
 
@@ -80,15 +80,15 @@ neighbourhood, Caroline was limited once more to the gray rectory, the
 
 solitary morning walk in remote by-paths, the long, lonely afternoon
 
-sitting in a quiet parlour which the sun forsook at noon, or in the
+sitting in a quiet parlour which the sun forsook at [[Noon|noon]], or in the
 
-garden alcove where it shone bright, yet sad, on the ripening red
+[[Garden|garden]] alcove where it shone bright, yet sad, on the ripening red
 
 currants trained over the trellis, and on the fair monthly roses
 
 entwined between, and through them fell chequered on Caroline sitting in
 
-her white summer dress, still as a garden statue. There she read old
+her white [[Summer|summer]] dress, still as a [[Garden|garden]] statue. There she read old
 
 books, taken from her uncle's library. The Greek and Latin were of no
 
@@ -98,27 +98,27 @@ on a shelf which had belonged to her aunt Mary--some venerable Lady's
 
 Magazines, that had once performed a sea-voyage with their owner, and
 
-undergone a storm, and whose pages were stained with salt water; some
+undergone a [[Storm|storm]], and whose pages were stained with salt [[Water|water]]; some
 
 mad Methodist Magazines, full of miracles and apparitions, of
 
-preternatural warnings, ominous dreams, and frenzied fanaticism; the
+preternatural warnings, ominous [[Dreams|dreams]], and frenzied [[Fanaticism|fanaticism]]; the
 
 equally mad letters of Mrs. Elizabeth Rowe from the Dead to the Living;
 
-a few old English classics. From these faded flowers Caroline had in her
+a few old English classics. From these faded [[Flowers|flowers]] Caroline had in her
 
-childhood extracted the honey; they were tasteless to her now. By way of
+[[Childhood|childhood]] extracted the honey; they were tasteless to her now. By way of
 
 change, and also of doing good, she would sew--make garments for the
 
 poor, according to good Miss Ainley's direction. Sometimes, as she felt
 
-and saw her tears fall slowly on her work, she would wonder how the
+and saw her [[Tears|tears]] fall slowly on her work, she would [[Wonder|wonder]] how the
 
 excellent woman who had cut it out and arranged it for her managed to be
 
-so equably serene in _her_ solitude.
+so equably serene in _her_ [[Solitude|solitude]].
 
 
 
@@ -126,7 +126,7 @@ so equably serene in _her_ solitude.
 
 she thought; "yet her cottage is a still, dim little place, and she is
 
-without a bright hope or near friend in the world. I remember, though,
+without a bright [[Hope|hope]] or near friend in the world. I remember, though,
 
 she told me once she had tutored her thoughts to tend upwards to heaven.
 
@@ -136,17 +136,17 @@ for her, and she looks, I suppose, to the bliss of the world to come. So
 
 do nuns, with their close cell, their iron lamp, their robe strait as a
 
-shroud, their bed narrow as a coffin. She says often she has no fear of
+shroud, their bed narrow as a coffin. She says often she has no [[Fear|fear]] of
 
-death--no dread of the grave; no more, doubtless, had St. Simeon
+[[Death|death]]--no dread of the [[Grave|grave]]; no more, doubtless, had St. Simeon
 
 Stylites, lifted up terrible on his wild column in the wilderness; no
 
 more has the Hindu votary stretched on his couch of iron spikes. Both
 
-these having violated nature, their natural likings and antipathies are
+these having violated [[Nature|nature]], their natural likings and antipathies are
 
-reversed; they grow altogether morbid. I do fear death as yet, but I
+reversed; they grow altogether morbid. I do [[Fear|fear]] [[Death|death]] as yet, but I
 
 believe it is because I am young. Poor Miss Ainley would cling closer to
 
@@ -186,7 +186,7 @@ against, or frowns on with impotent contempt. I say _impotent_, for I
 
 observe that to such grievances as society cannot readily cure it
 
-usually forbids utterance, on pain of its scorn, this scorn being only a
+usually forbids utterance, on [[Pain|pain]] of its scorn, this scorn being only a
 
 sort of tinselled cloak to its deformed weakness. People hate to be
 
@@ -196,7 +196,7 @@ in forcing on them a sense of their own incapacity, or a more painful
 
 sense of an obligation to make some unpleasant effort, troubles their
 
-ease and shakes their self-complacency. Old maids, like the houseless
+ease and shakes their [[Self|self]]-complacency. Old maids, like the houseless
 
 and unemployed poor, should not ask for a place and an occupation in the
 

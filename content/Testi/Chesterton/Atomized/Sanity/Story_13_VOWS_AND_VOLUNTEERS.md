@@ -1,5 +1,5 @@
 ---
-title: "Sanity — VOWS AND VOLUNTEERS"
+title: "[[Sanity]] — VOWS AND VOLUNTEERS"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Sanity-(Chesterton)"

@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 12 (part 3)"
+title: "[[Wuthering Heights]] — Chapter 12 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“Because I won’t give you your death of cold,” I answered.
+“Because I won’t give you your [[Death|death]] of cold,” I answered.
 
 “You won’t give me a chance of life, you mean,” she said sullenly.
 “However, I’m not helpless yet; I’ll open it myself.”
@@ -25,19 +25,19 @@ of the frosty air that cut about her shoulders as keen as a knife. I
 entreated, and finally attempted to force her to retire. But I soon
 found her delirious strength much surpassed mine (she _was_ delirious,
 I became convinced by her subsequent actions and ravings). There was no
-moon, and everything beneath lay in misty darkness: not a light gleamed
-from any house, far or near; all had been extinguished long ago: and
-those at Wuthering Heights were never visible—still she asserted she
+[[Moon|moon]], and everything beneath lay in misty darkness: not a light gleamed
+from any [[house]], far or near; all had been extinguished long ago: and
+those at [[Wuthering Heights]] were never visible—still she asserted she
 caught their shining.
 
 “Look!” she cried eagerly, “that’s my room with the candle in it, and
 the trees swaying before it; and the other candle is in Joseph’s
-garret. Joseph sits up late, doesn’t he? He’s waiting till I come home
-that he may lock the gate. Well, he’ll wait a while yet. It’s a rough
-journey, and a sad heart to travel it; and we must pass by Gimmerton
-Kirk to go that journey! We’ve braved its ghosts often together, and
+garret. Joseph sits up late, doesn’t he? He’s waiting till I come [[Home|home]]
+that he may lock the gate. [[Well]], he’ll wait a while yet. It’s a rough
+[[Journey|journey]], and a sad heart to travel it; and we must pass by Gimmerton
+Kirk to go that [[Journey|journey]]! We’ve braved its [[Ghosts|ghosts]] often together, and
 dared each other to stand among the graves and ask them to come. But,
-Heathcliff, if I dare you now, will you venture? If you do, I’ll keep
+[[Heathcliff]], if I dare you now, will you venture? If you do, I’ll keep
 you. I’ll not lie there by myself: they may bury me twelve feet deep,
 and throw the church down over me, but I won’t rest till you are with
 me. I never will!”
@@ -48,11 +48,11 @@ You are slow! Be content, you always followed me!”
 
 Perceiving it vain to argue against her insanity, I was planning how I
 could reach something to wrap about her, without quitting my hold of
-herself (for I could not trust her alone by the gaping lattice), when,
+herself (for I could not trust her [[Alone|alone]] by the gaping lattice), when,
 to my consternation, I heard the rattle of the door-handle, and Mr.
 Linton entered. He had only then come from the library; and, in passing
 through the lobby, had noticed our talking and been attracted by
-curiosity, or fear, to examine what it signified, at that late hour.
+curiosity, or [[Fear|fear]], to examine what it signified, at that late hour.
 
 “Oh, sir!” I cried, checking the exclamation risen to his lips at the
 sight which met him, and the bleak atmosphere of the chamber. “My poor
@@ -60,7 +60,7 @@ mistress is ill, and she quite masters me: I cannot manage her at all;
 pray, come and persuade her to go to bed. Forget your anger, for she’s
 hard to guide any way but her own.”
 
-“Catherine ill?” he said, hastening to us. “Shut the window, Ellen!
+“Catherine ill?” he said, hastening to us. “Shut the [[Window|window]], Ellen!
 Catherine! why—”
 
 He was silent. The haggardness of Mrs. Linton’s appearance smote him
@@ -82,22 +82,22 @@ abstracted gaze. The delirium was not fixed, however; having weaned her
 eyes from contemplating the outer darkness, by degrees she centred her
 attention on him, and discovered who it was that held her.
 
-“Ah! you are come, are you, Edgar Linton?” she said, with angry
+“Ah! you are come, are you, [[Edgar Linton]]?” she said, with angry
 animation. “You are one of those things that are ever found when least
 wanted, and when you are wanted, never! I suppose we shall have plenty
 of lamentations now—I see we shall—but they can’t keep me from my
-narrow home out yonder: my resting-place, where I’m bound before spring
+narrow [[Home|home]] out yonder: my resting-place, where I’m bound before [[Spring|spring]]
 is over! There it is: not among the Lintons, mind, under the
 chapel-roof, but in the open air, with a head-stone; and you may please
 yourself whether you go to them or come to me!”
 
 “Catherine, what have you done?” commenced the master. “Am I nothing to
-you any more? Do you love that wretch Heath—”
+you any more? Do you [[Love|love]] that wretch Heath—”
 
 “Hush!” cried Mrs. Linton. “Hush, this moment! You mention that name
-and I end the matter instantly by a spring from the window! What you
-touch at present you may have; but my soul will be on that hill-top
-before you lay hands on me again. I don’t want you, Edgar: I’m past
+and I end the matter instantly by a [[Spring|spring]] from the [[Window|window]]! What you
+touch at present you may have; but my [[Soul|soul]] will be on that [[Hill|hill]]-top
+before you lay hands on me again. I don’t want you, [[Edgar]]: I’m past
 wanting you. Return to your books. I’m glad you possess a consolation,
 for all you had in me is gone.”
 
@@ -105,31 +105,31 @@ for all you had in me is gone.”
 the whole evening; but let her have quiet, and proper attendance, and
 she’ll rally. Hereafter, we must be cautious how we vex her.”
 
-“I desire no further advice from you,” answered Mr. Linton. “You knew
-your mistress’s nature, and you encouraged me to harass her. And not to
+“I [[Desire|desire]] no further advice from you,” answered Mr. Linton. “You knew
+your mistress’s [[Nature|nature]], and you encouraged me to harass her. And not to
 give me one hint of how she has been these three days! It was
 heartless! Months of sickness could not cause such a change!”
 
 I began to defend myself, thinking it too bad to be blamed for
-another’s wicked waywardness. “I knew Mrs. Linton’s nature to be
+another’s wicked waywardness. “I knew Mrs. Linton’s [[Nature|nature]] to be
 headstrong and domineering,” cried I: “but I didn’t know that you
-wished to foster her fierce temper! I didn’t know that, to humour her,
-I should wink at Mr. Heathcliff. I performed the duty of a faithful
+wished to foster her fierce temper! I didn’t know that, to [[Humour|humour]] her,
+I should wink at Mr. [[Heathcliff]]. I performed the duty of a faithful
 servant in telling you, and I have got a faithful servant’s wages!
-Well, it will teach me to be careful next time. Next time you may
+[[Well]], it will teach me to be careful next [[Time|time]]. Next [[Time|time]] you may
 gather intelligence for yourself!”
 
-“The next time you bring a tale to me you shall quit my service, Ellen
+“The next [[Time|time]] you bring a tale to me you shall quit my service, Ellen
 Dean,” he replied.
 
 “You’d rather hear nothing about it, I suppose, then, Mr. Linton?” said
-I. “Heathcliff has your permission to come a-courting to Miss, and to
-drop in at every opportunity your absence offers, on purpose to poison
+I. “[[Heathcliff]] has your permission to come a-courting to Miss, and to
+drop in at every opportunity your absence offers, on purpose to [[Poison|poison]]
 the mistress against you?”
 
 Confused as Catherine was, her wits were alert at applying our
 conversation.
 
 “Ah! Nelly has played traitor,” she exclaimed, passionately. “Nelly is
-my hidden enemy. You witch! So you do seek elf-bolts to hurt us! Let me
+my hidden enemy. You [[Witch|witch]]! So you do seek elf-bolts to hurt us! Let me
 go, and I’ll make her rue! I’ll make her howl a recantation!”

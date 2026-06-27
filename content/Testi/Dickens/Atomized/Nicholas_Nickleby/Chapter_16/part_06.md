@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 16 (part 6)"
+title: "[[Nicholas Nickleby]] — Chapter 16 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -26,13 +26,13 @@ Gregsbury. ‘Fifteen shillings a--’
 ‘Pray do not suppose that I quarrel with the sum, sir,’ replied
 Nicholas; ‘for I am not ashamed to confess, that whatever it may be in
 itself, to me it is a great deal. But the duties and responsibilities
-make the recompense small, and they are so very heavy that I fear to
+make the recompense small, and they are so very heavy that I [[Fear|fear]] to
 undertake them.’
 
 ‘Do you decline to undertake them, sir?’ inquired Mr. Gregsbury, with his
 hand on the bell-rope.
 
-‘I fear they are too great for my powers, however good my will may be,
+‘I [[Fear|fear]] they are too great for my powers, however good my will may be,
 sir,’ replied Nicholas.
 
 ‘That is as much as to say that you had rather not accept the place,
@@ -56,17 +56,17 @@ The boy beckoned Nicholas, and tumbling lazily downstairs before him,
 opened the door, and ushered him into the street. With a sad and pensive
 air, he retraced his steps homewards.
 
-Smike had scraped a meal together from the remnant of last night’s
+[[Smike]] had scraped a meal together from the remnant of last [[Night|night]]’s
 supper, and was anxiously awaiting his return. The occurrences of the
 morning had not improved Nicholas’s appetite, and, by him, the dinner
 remained untasted. He was sitting in a thoughtful attitude, with the
 plate which the poor fellow had assiduously filled with the choicest
-morsels, untouched, by his side, when Newman Noggs looked into the room.
+morsels, untouched, by his side, when [[Newman Noggs]] looked into the room.
 
 ‘Come back?’ asked Newman.
 
-‘Yes,’ replied Nicholas, ‘tired to death: and, what is worse, might have
-remained at home for all the good I have done.’
+‘Yes,’ replied Nicholas, ‘tired to [[Death|death]]: and, what is worse, might have
+remained at [[Home|home]] for all the good I have done.’
 
 ‘Couldn’t expect to do much in one morning,’ said Newman.
 
@@ -75,7 +75,7 @@ proportionately disappointed.’ Saying which, he gave Newman an account
 of his proceedings.
 
 ‘If I could do anything,’ said Nicholas, ‘anything, however slight,
-until Ralph Nickleby returns, and I have eased my mind by confronting
+until [[Ralph Nickleby]] returns, and I have eased my mind by confronting
 him, I should feel happier. I should think it no disgrace to work,
 Heaven knows. Lying indolently here, like a half-tamed sullen beast,
 distracts me.’
@@ -85,12 +85,12 @@ rent, and more--but you wouldn’t like them; no, you could hardly be
 expected to undergo it--no, no.’
 
 ‘What could I hardly be expected to undergo?’ asked Nicholas, raising
-his eyes. ‘Show me, in this wide waste of London, any honest means by
+his eyes. ‘Show me, in this wide waste of [[London]], any honest means by
 which I could even defray the weekly hire of this poor room, and see if
 I shrink from resorting to them! Undergo! I have undergone too much,
-my friend, to feel pride or squeamishness now. Except--’ added Nicholas
-hastily, after a short silence, ‘except such squeamishness as is common
-honesty, and so much pride as constitutes self-respect. I see little
+my friend, to feel [[Pride|pride]] or squeamishness now. Except--’ added Nicholas
+hastily, after a short [[Silence|silence]], ‘except such squeamishness as is common
+honesty, and so much [[Pride|pride]] as constitutes [[Self|self]]-respect. I see little
 to choose, between assistant to a brutal pedagogue, and toad-eater to a
 mean and ignorant upstart, be he member or no member.’
 
@@ -115,13 +115,13 @@ long as he could, but being, at length, hard pressed and driven into a
 corner, had gone so far as to admit, that Nicholas was a tutor of
 great accomplishments, involved in some misfortunes which he was not at
 liberty to explain, and bearing the name of Johnson. That Mrs. Kenwigs,
-impelled by gratitude, or ambition, or maternal pride, or maternal love,
+impelled by gratitude, or [[Ambition|ambition]], or maternal [[Pride|pride]], or maternal [[Love|love]],
 or all four powerful motives conjointly, had taken secret conference
 with Mr. Kenwigs, and had finally returned to propose that Mr. Johnson
 should instruct the four Miss Kenwigses in the French language as spoken
 by natives, at the weekly stipend of five shillings, current coin of
 the realm; being at the rate of one shilling per week, per each Miss
-Kenwigs, and one shilling over, until such time as the baby might be
+Kenwigs, and one shilling over, until such [[Time|time]] as the baby might be
 able to take it out in grammar.
 
 ‘Which, unless I am very much mistaken,’ observed Mrs. Kenwigs in making

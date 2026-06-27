@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-SUMMER OF 1864
+[[Summer|SUMMER]] OF 1864
 
 I am back again in Washington, on my regular daily and nightly rounds.
 Of course there are many specialties. Dotting a ward here and there are
-always cases of poor fellows, long-suffering under obstinate wounds,
+always cases of poor fellows, long-[[Suffering|suffering]] under obstinate wounds,
 or weak and dishearten'd from typhoid fever, or the like; mark'd cases,
 needing special and sympathetic nourishment. These I sit down and either
 talk to, or silently cheer them up. They always like it hugely, (and so
 do I.) Each case has its peculiarities, and needs some new adaptation. I
 have learnt to thus conform--learnt a good deal of hospital wisdom.
-Some of the poor young chaps, away from home for the first time in their
+Some of the poor young chaps, away from [[Home|home]] for the first [[Time|time]] in their
 lives, hunger and thirst for affection; this is sometimes the only thing
 that will reach their condition. The men like to have a pencil, and
 something to write in. I have given them cheap pocket-diaries, and
@@ -39,17 +39,17 @@ however trivial, however solemn, every one justified and made real
 under its circumstances--not only visits and cheering talk and little
 gifts--not only washing and dressing wounds, (I have some cases where
 the patient is unwilling any one should do this but me)--but passages
-from the Bible, expounding them, prayer at the bedside, explanations of
+from the [[Bible]], expounding them, [[prayer]] at the bedside, explanations of
 doctrine, &c. (I think I see my friends smiling at this confession, but
 I was never more in earnest in my life.) In camp and everywhere, I was
 in the habit of reading or giving recitations to the men. They were very
 fond of it, and liked declamatory poetical pieces. We would gather in
-a large group by ourselves, after supper, and spend the time in such
+a large group by ourselves, after supper, and spend the [[Time|time]] in such
 readings, or in talking, and occasionally by an amusing game called the
 game of twenty questions.
 
 
-A NEW ARMY ORGANIZATION FIT FOR AMERICA
+A NEW ARMY ORGANIZATION FIT FOR [[America|AMERICA]]
 
 It is plain to me out of the events of the war, north and south, and out
 of all considerations, that the current military theory, practice, rules
@@ -72,9 +72,9 @@ probably three-fourths of the losses, men, lives, &c., have been sheer
 superfluity, extravagance, waste.
 
 
-DEATH OF A HERO
+[[Death|DEATH]] OF A [[Hero|HERO]]
 
-I wonder if I could ever convey to another--to you, for instance, reader
+I [[Wonder|wonder]] if I could ever convey to another--to you, for instance, reader
 dear--the tender and terrible realities of such cases, (many, many
 happen'd,) as the one I am now going to mention. Stewart C. Glover,
 company E, 5th Wisconsin--was wounded May 5, in one of those fierce
@@ -86,12 +86,12 @@ The fighting had about ceas'd for the day, and the general commanding
 the brigade rode by and call'd for volunteers to bring in the wounded.
 Glover responded among the first--went out gayly--but while in the act
 of bearing in a wounded sergeant to our lines, was shot in the knee by
-a rebel sharpshooter; consequence, amputation and death. He had resided
+a [[Rebel|rebel]] sharpshooter; consequence, amputation and [[Death|death]]. He had resided
 with his father, John Glover, an aged and feeble man, in Batavia,
 Genesee county, N. Y., but was at school in Wisconsin, after the war
 broke out, and there enlisted--soon took to soldier-life, liked it,
 was very manly, was belov'd by officers and comrades. He kept a little
-diary, like so many of the soldiers. On the day of his death he wrote
+diary, like so many of the soldiers. On the day of his [[Death|death]] he wrote
 the following in it, _to-day the doctor says I must die--all is over
 with me--ah, so young to die_. On another blank leaf he pencill'd to his
 brother, _dear brother Thomas, I have been brave but wicked--pray for
@@ -100,11 +100,11 @@ me._
 
 HOSPITAL SCENES--INCIDENTS
 
-It is Sunday afternoon, middle of summer, hot and oppressive, and very
+It is [[Sunday]] afternoon, middle of [[Summer|summer]], hot and oppressive, and very
 silent through the ward. I am taking care of a critical case, now lying
-in a half lethargy. Near where I sit is a suffering rebel, from the
-8th Louisiana; his name is Irving. He has been here a long time, badly
-wounded, and lately had his leg amputated; it is not doing very well.
+in a half lethargy. Near where I sit is a [[Suffering|suffering]] [[Rebel|rebel]], from the
+8th Louisiana; his name is Irving. He has been here a long [[Time|time]], badly
+wounded, and lately had his leg amputated; it is not doing very [[Well|well]].
 Right opposite me is a sick soldier-boy, laid down with his clothes on,
 sleeping, looking much wasted, his pallid face on his arm. I see by the
 yellow trimming on his jacket that he is a cavalry boy. I step softly
@@ -113,13 +113,13 @@ Maine cavalry, and his folks live in Skowhegan.
 
 _Ice Cream Treat_.--One hot day toward the middle of June, I gave the
 inmates of Carver hospital a general ice cream treat, purchasing a large
-quantity, and, under convoy of the doctor or head nurse, going
+quantity, and, under convoy of the doctor or head [[Nurse|nurse]], going
 around personally through the wards to see to its distribution. _An
-Incident_.--In one of the rights before Atlanta, a rebel soldier, of
+Incident_.--In one of the rights before Atlanta, a [[Rebel|rebel]] soldier, of
 large size, evidently a young man, was mortally wounded top of the head,
 so that the brains partially exuded. He lived three days, lying on
 his back on the spot where he first dropt. He dug with his heel in the
-ground during that time a hole big enough to put in a couple of
+ground during that [[Time|time]] a hole big enough to put in a couple of
 ordinary knapsacks. He just lay there in the open air, and with little
-intermission kept his heel going night and day. Some of our soldiers
-then moved him to a house, but he died in a few minutes.
+intermission kept his heel going [[Night|night]] and day. Some of our soldiers
+then moved him to a [[house]], but he died in a few minutes.

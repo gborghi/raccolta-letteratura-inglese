@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 21)"
+title: "[[The Mystery of Marie Roget]] (part 21)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -32,7 +32,7 @@ tags:
 
       What I have said above upon this topic must suffice. In my own
 
-      heart there dwells no faith in præter-nature. That Nature and its
+      heart there dwells no [[Faith|faith]] in præter-[[Nature|nature]]. That [[Nature]] and its
 
       God are two, no man who thinks, will deny. That the latter,
 
@@ -40,7 +40,7 @@ tags:
 
       unquestionable. I say “at will;” for the question is of will, and
 
-      not, as the insanity of logic has assumed, of power. It is not
+      not, as the insanity of [[logic]] has assumed, of power. It is not
 
       that the Deity cannot modify his laws, but that we insult him in
 
@@ -60,7 +60,7 @@ tags:
 
       that fate is known, and the fate of one Marie Rogêt up to a
 
-      certain epoch in her history, there has existed a parallel in the
+      certain epoch in her [[history]], there has existed a parallel in the
 
       contemplation of whose wonderful exactitude the reason becomes
 
@@ -74,7 +74,7 @@ tags:
 
       design to hint at an extension of the parallel, or even to
 
-      suggest that the measures adopted in Paris for the discovery of
+      suggest that the measures adopted in [[Paris]] for the discovery of
 
       the assassin of a grisette, or measures founded in any similar
 
@@ -96,7 +96,7 @@ tags:
 
       of multiplication at all points of the process, a result
 
-      enormously at variance with truth. And, in regard to the former
+      enormously at variance with [[Truth|truth]]. And, in regard to the former
 
       branch, we must not fail to hold in view that the very Calculus
 
@@ -130,7 +130,7 @@ tags:
 
       throw which exists only in the Future. The chance for throwing
 
-      sixes seems to be precisely as it was at any ordinary time—that
+      sixes seems to be precisely as it was at any ordinary [[Time|time]]—that
 
       is to say, subject only to the influence of the various other
 
@@ -152,7 +152,7 @@ tags:
 
       arise in the path of Reason through her propensity for seeking
 
-      truth in detail.
+      [[Truth|truth]] in detail.
 
 
 
@@ -160,19 +160,19 @@ FOOTNOTES—Marie Rogêt
 
 
 
-      (*1) Upon the original publication of “Marie Roget,” the
+      (*1) Upon the original publication of “[[Marie Roget]],” the
 
       foot-notes now appended were considered unnecessary; but the
 
-      lapse of several years since the tragedy upon which the tale is
+      lapse of several years since the [[Tragedy|tragedy]] upon which the tale is
 
       based, renders it expedient to give them, and also to say a few
 
       words in explanation of the general design. A young girl, Mary
 
-      Cecilia Rogers, was murdered in the vicinity of New York; and,
+      Cecilia Rogers, was murdered in the vicinity of [[New York]]; and,
 
-      although her death occasioned an intense and long-enduring
+      although her [[Death|death]] occasioned an intense and long-enduring
 
       excitement, the mystery attending it had remained unsolved at the
 
@@ -186,9 +186,9 @@ FOOTNOTES—Marie Rogêt
 
       the real murder of Mary Rogers. Thus all argument founded upon
 
-      the fiction is applicable to the truth: and the investigation of
+      the fiction is applicable to the [[Truth|truth]]: and the investigation of
 
-      the truth was the object. The “Mystery of Marie Roget” was
+      the [[Truth|truth]] was the object. The “Mystery of [[Marie Roget]]” was
 
       composed at a distance from the scene of the atrocity, and with
 
@@ -240,17 +240,17 @@ FOOTNOTES—Marie Rogêt
 
 
 
-      (*9) The New York “Mercury.”
+      (*9) The [[New York]] “Mercury.”
 
 
 
-      (*10) The New York “Brother Jonathan,” edited by H. Hastings
+      (*10) The [[New York]] “Brother Jonathan,” edited by H. [[Hastings]]
 
       Weld, Esq.
 
 
 
-      (*11) New York “Journal of Commerce.”
+      (*11) [[New York]] “Journal of Commerce.”
 
 
 
@@ -268,7 +268,7 @@ FOOTNOTES—Marie Rogêt
 
 
 
-      (*15) The New York “Commercial Advertiser,” edited by Col. Stone.
+      (*15) The [[New York]] “Commercial Advertiser,” edited by Col. Stone.
 
 
 
@@ -292,15 +292,15 @@ FOOTNOTES—Marie Rogêt
 
 
 
-      (*17) New York “Express”
+      (*17) [[New York]] “Express”
 
 
 
-      (*18) New York “Herald.”
+      (*18) [[New York]] “Herald.”
 
 
 
-      (*19) New York “Courier and Inquirer.”
+      (*19) [[New York]] “Courier and Inquirer.”
 
 
 
@@ -310,11 +310,11 @@ FOOTNOTES—Marie Rogêt
 
 
 
-      (*21) New York “Courier and Inquirer.”
+      (*21) [[New York]] “Courier and Inquirer.”
 
 
 
-      (*22) New York “Evening Post.”
+      (*22) [[New York]] “Evening Post.”
 
 
 

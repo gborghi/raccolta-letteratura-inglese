@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 3)"
+title: "[[David Copperfield]] — Chapter 4: I FALL INTO DISGRACE (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-‘Oh, it’s very well to say you wonder, Edward!’ cried my mother, ‘and
-it’s very well for you to talk about firmness, but you wouldn’t like it
+‘Oh, it’s very [[Well|well]] to say you [[Wonder|wonder]], Edward!’ cried my mother, ‘and
+it’s very [[Well|well]] for you to talk about firmness, but you wouldn’t like it
 yourself.’
 
 Firmness, I may observe, was the grand quality on which both Mr. and
 Miss Murdstone took their stand. However I might have expressed
-my comprehension of it at that time, if I had been called upon, I
+my comprehension of it at that [[Time|time]], if I had been called upon, I
 nevertheless did clearly comprehend in my own way, that it was another
-name for tyranny; and for a certain gloomy, arrogant, devil’s humour,
+name for tyranny; and for a certain gloomy, arrogant, devil’s [[Humour|humour]],
 that was in them both. The creed, as I should state it now, was this.
 Mr. Murdstone was firm; nobody in his world was to be so firm as Mr.
 Murdstone; nobody else in his world was to be firm at all, for everybody
@@ -32,15 +32,15 @@ tributary degree. My mother was another exception. She might be firm,
 and must be; but only in bearing their firmness, and firmly believing
 there was no other firmness upon earth.
 
-‘It’s very hard,’ said my mother, ‘that in my own house--’
+‘It’s very hard,’ said my mother, ‘that in my own [[house]]--’
 
-‘My own house?’ repeated Mr. Murdstone. ‘Clara!’
+‘My own [[house]]?’ repeated Mr. Murdstone. ‘Clara!’
 
-‘OUR own house, I mean,’ faltered my mother, evidently frightened--‘I
-hope you must know what I mean, Edward--it’s very hard that in YOUR own
-house I may not have a word to say about domestic matters. I am sure
-I managed very well before we were married. There’s evidence,’ said my
-mother, sobbing; ‘ask Peggotty if I didn’t do very well when I wasn’t
+‘OUR own [[house]], I mean,’ faltered my mother, evidently frightened--‘I
+[[Hope|hope]] you must know what I mean, Edward--it’s very hard that in YOUR own
+[[house]] I may not have a word to say about domestic matters. I am sure
+I managed very [[Well|well]] before we were married. There’s evidence,’ said my
+mother, sobbing; ‘ask Peggotty if I didn’t do very [[Well|well]] when I wasn’t
 interfered with!’
 
 ‘Edward,’ said Miss Murdstone, ‘let there be an end of this. I go
@@ -51,7 +51,7 @@ insinuate that you don’t know my character better than your words
 imply?’
 
 ‘I am sure,’ my poor mother went on, at a grievous disadvantage, and
-with many tears, ‘I don’t want anybody to go. I should be very
+with many [[Tears|tears]], ‘I don’t want anybody to go. I should be very
 miserable and unhappy if anybody was to go. I don’t ask much. I am not
 unreasonable. I only want to be consulted sometimes. I am very much
 obliged to anybody who assists me, and I only want to be consulted as a
@@ -84,7 +84,7 @@ before. I have many faults, but not that. Oh, don’t, my dear!’
 mother was silent, ‘with a base return, that feeling of mine is chilled
 and altered.’
 
-‘Don’t, my love, say that!’ implored my mother very piteously.
+‘Don’t, my [[Love|love]], say that!’ implored my mother very piteously.
 ‘Oh, don’t, Edward! I can’t bear to hear it. Whatever I am, I am
 affectionate. I know I am affectionate. I wouldn’t say it, if I
 wasn’t sure that I am. Ask Peggotty. I am sure she’ll tell you I’m
@@ -101,24 +101,24 @@ should be quite broken-hearted if you thought of leaving--’ My mother
 was too much overcome to go on.
 
 ‘Jane Murdstone,’ said Mr. Murdstone to his sister, ‘any harsh words
-between us are, I hope, uncommon. It is not my fault that so unusual an
+between us are, I [[Hope|hope]], uncommon. It is not my fault that so unusual an
 occurrence has taken place tonight. I was betrayed into it by another.
 Nor is it your fault. You were betrayed into it by another. Let us both
 try to forget it. And as this,’ he added, after these magnanimous words,
 ‘is not a fit scene for the boy--David, go to bed!’
 
-I could hardly find the door, through the tears that stood in my eyes.
+I could hardly find the door, through the [[Tears|tears]] that stood in my eyes.
 I was so sorry for my mother’s distress; but I groped my way out, and
 groped my way up to my room in the dark, without even having the heart
-to say good night to Peggotty, or to get a candle from her. When her
+to say good [[Night|night]] to Peggotty, or to get a candle from her. When her
 coming up to look for me, an hour or so afterwards, awoke me, she said
 that my mother had gone to bed poorly, and that Mr. and Miss Murdstone
-were sitting alone.
+were sitting [[Alone|alone]].
 
 Going down next morning rather earlier than usual, I paused outside the
 parlour door, on hearing my mother’s voice. She was very earnestly and
 humbly entreating Miss Murdstone’s pardon, which that lady granted, and
-a perfect reconciliation took place. I never knew my mother afterwards
+a perfect [[Reconciliation|reconciliation]] took place. I never knew my mother afterwards
 to give an opinion on any matter, without first appealing to Miss
 Murdstone, or without having first ascertained by some sure means, what
 Miss Murdstone’s opinion was; and I never saw Miss Murdstone, when out
@@ -126,25 +126,25 @@ of temper (she was infirm that way), move her hand towards her bag as
 if she were going to take out the keys and offer to resign them to my
 mother, without seeing that my mother was in a terrible fright.
 
-The gloomy taint that was in the Murdstone blood, darkened the Murdstone
+The gloomy taint that was in the Murdstone [[Blood|blood]], darkened the Murdstone
 religion, which was austere and wrathful. I have thought, since,
 that its assuming that character was a necessary consequence of Mr.
 Murdstone’s firmness, which wouldn’t allow him to let anybody off from
 the utmost weight of the severest penalties he could find any excuse
-for. Be this as it may, I well remember the tremendous visages with
+for. Be this as it may, I [[Well|well]] remember the tremendous visages with
 which we used to go to church, and the changed air of the place. Again,
-the dreaded Sunday comes round, and I file into the old pew first, like
+the dreaded [[Sunday]] comes round, and I file into the old pew first, like
 a guarded captive brought to a condemned service. Again, Miss Murdstone,
 in a black velvet gown, that looks as if it had been made out of a pall,
 follows close upon me; then my mother; then her husband. There is no
-Peggotty now, as in the old time. Again, I listen to Miss Murdstone
+Peggotty now, as in the old [[Time|time]]. Again, I listen to Miss Murdstone
 mumbling the responses, and emphasizing all the dread words with a cruel
 relish. Again, I see her dark eyes roll round the church when she says
 ‘miserable sinners’, as if she were calling all the congregation names.
 Again, I catch rare glimpses of my mother, moving her lips timidly
 between the two, with one of them muttering at each ear like low
-thunder. Again, I wonder with a sudden fear whether it is likely that
+thunder. Again, I [[Wonder|wonder]] with a sudden [[Fear|fear]] whether it is likely that
 our good old clergyman can be wrong, and Mr. and Miss Murdstone right,
 and that all the angels in Heaven can be destroying angels. Again, if I
 move a finger or relax a muscle of my face, Miss Murdstone pokes me with
-her prayer-book, and makes my side ache.
+her [[prayer]]-book, and makes my side ache.

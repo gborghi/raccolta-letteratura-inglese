@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 6 (part 1)"
+title: "[[aquinas]] — Chapter 6 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/aquinas-(Chesterton)"
@@ -18,27 +18,27 @@ VI
 
 THE APPROACH TO THOMISM
 
-The fact that Thomism is the philosophy of common sense is itself
+The fact that Thomism is the [[philosophy]] of common sense is itself
 a matter of common sense.  Yet it wants a word of explanation,
 because we have so long taken such matters in a very uncommon sense.
-For good or evil, Europe since the Reformation, and most especially
-England since the Reformation, has been in a peculiar sense the home
-of paradox.  I mean in the very peculiar sense that paradox was
-at home, and that men were at home with it.  The most familiar
+For good or evil, Europe since the [[Reformation]], and most especially
+England since the [[Reformation]], has been in a peculiar sense the [[Home|home]]
+of [[Paradox|paradox]].  I mean in the very peculiar sense that [[Paradox|paradox]] was
+at [[Home|home]], and that men were at [[Home|home]] with it.  The most familiar
 example is the English boasting that they are practical because they
 are not logical.  To an ancient Greek or a Chinaman this would
-seem exactly like saying that London clerks excel in adding up
+seem exactly like saying that [[London]] clerks excel in adding up
 their ledgers, because they are not accurate in their arithmetic.
-But the point is not that it is a paradox; it is that parodoxy has
-become orthodoxy; that men repose in a paradox as placidly as in
+But the point is not that it is a [[Paradox|paradox]]; it is that parodoxy has
+become orthodoxy; that men repose in a [[Paradox|paradox]] as placidly as in
 a platitude.  It is not that the practical man stands on his head,
 which may sometimes be a stimulating if startling gymnastic;
 it is that he rests on his head; and even sleeps on his head.  This is
-an important point, because the use of paradox is to awaken the mind.
-Take a good paradox, like that of Oliver Wendell Holmes:  "Give us
+an important point, because the use of [[Paradox|paradox]] is to awaken the mind.
+Take a good [[Paradox|paradox]], like that of [[Oliver]] Wendell Holmes:  "Give us
 the luxuries of life and we will dispense with the necessities."
 It is amusing and therefore arresting; it has a fine air of defiance;
-it contains a real if romantic truth.  It is all part of the fun
+it contains a real if romantic [[Truth|truth]].  It is all part of the fun
 that it is stated almost in the form of a contradiction in terms.
 But most people would agree that there would be considerable danger
 in basing the whole social system on the notion that necessities
@@ -52,10 +52,10 @@ necessities like corn."
 So much is familiar; but what is not even now realised is that
 not only the practical politics, but the abstract philosophies
 of the modern world have had this queer twist.  Since the modern
-world began in the sixteenth century, nobody's system of philosophy
+world began in the sixteenth century, nobody's system of [[philosophy]]
 has really corresponded to everybody's sense of reality:
 to what, if left to themselves, common men would call common sense.
-Each started with a paradox:  a peculiar point of view demanding
+Each started with a [[Paradox|paradox]]:  a peculiar point of view demanding
 the sacrifice of what they would call a sane point of view.
 That is the one thing common to Hobbes and Hegel, to Kant and Bergson.
 to Berkeley and William James.  A man had to believe something
@@ -67,14 +67,14 @@ like a sort of confidence man, that if once we will grant him this,
 the rest will be easy; he will straighten out the world, if once
 he is allowed to give this one twist to the mind.
 
-It will be understood that in these matters I speak as a fool;
+It will be understood that in these matters I speak as a [[Fool|fool]];
 or, as our democratic cousins would say, a moron; anyhow as a man
 in the street; and the only object of this chapter is to show
-that the Thomist philosophy is nearer than most philosophies to
+that the Thomist [[philosophy]] is nearer than most philosophies to
 the mind of the man in the street.  I am not, like Father D'Arcy,
 whose admirable book on St. Thomas has illuminated many problems for me,
 a trained philosopher, acquainted with the technique of the trade.
-But I hope Father D'Arcy will forgive me if I take one example
+But I [[Hope|hope]] Father D'Arcy will forgive me if I take one example
 from his book, which exactly illustrates what I mean.  He, being a
 trained philosopher, is naturally trained to put up with philosophers.
 Also, being a trained priest, he is naturally accustomed, not only
@@ -94,19 +94,19 @@ Let the man in the street be forgiven, if he adds that the
 and Hegel was mad.  The moron refuses to admit that Hegel can both
 exist and not exist; or that it can be possible to understand Hegel,
 if there is no Hegel to understand.  Yet Father D'Arcy mentions
-this Hegelian paradox as if it were all in the day's work;
+this Hegelian [[Paradox|paradox]] as if it were all in the day's work;
 and of course it is, if the work is reading all the modern
 philosophers as searchingly and sympathetically as he has done.
-And this is what I mean saying that all modern philosophy starts
+And this is what I mean saying that all modern [[philosophy]] starts
 with a stumbling-block. It is surely not too much to say that there
 seems to be a twist, in saying that contraries are not incompatible;
 or that a thing can "be" intelligible and not as yet "be" at all.
 
-Against all this the philosophy of St. Thomas stands founded
+Against all this the [[philosophy]] of St. Thomas stands founded
 on the universal common conviction that eggs are eggs.
 The Hegelian may say that an egg is really a hen, because it is a part
 of an endless process of Becoming; the Berkeleian may hold that poached
-eggs only exist as a dream exists; since it is quite as easy to call
+eggs only exist as [[A Dream|a dream]] exists; since it is quite as easy to call
 the dream the cause of the eggs as the eggs the cause of the dream;
 the Pragmatist may believe that we get the best out of scrambled
 eggs by forgetting that they ever were eggs, and only remembering
@@ -115,6 +115,6 @@ brains in order adequately to addle his eggs; to put his head
 at any peculiar angle in looking at eggs, or squinting at eggs,
 or winking the other eye in order to see a new simplification of eggs.
 The Thomist stands in the broad daylight of the brotherhood of men,
-in their common consciousness that eggs are not hens or dreams
+in their common consciousness that eggs are not hens or [[Dreams|dreams]]
 or mere practical assumptions; but things attested by the Authority
 of the Senses, which is from God.

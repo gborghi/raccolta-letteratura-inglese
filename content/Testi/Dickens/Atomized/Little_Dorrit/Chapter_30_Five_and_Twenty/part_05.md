@@ -19,7 +19,7 @@ Miss Wade, take me away, please.’
 
 The contention that raged within her had no softening in it now; it
 was wholly between passionate defiance and stubborn defiance. Her rich
-colour, her quick blood, her rapid breath, were all setting themselves
+colour, her quick [[Blood|blood]], her rapid breath, were all setting themselves
 against the opportunity of retracing their steps. ‘I won’t. I won’t.
 I won’t!’ she repeated in a low, thick voice. ‘I’d be torn to pieces
 first. I’d tear myself to pieces first!’
@@ -32,17 +32,17 @@ do upon that?’
 ‘Oh, Tattycoram, Tattycoram!’ cried Mr Meagles, adjuring her besides
 with an earnest hand. ‘Hear that lady’s voice, look at that lady’s face,
 consider what is in that lady’s heart, and think what a future lies
-before you. My child, whatever you may think, that lady’s influence
+before you. My [[Child|child]], whatever you may think, that lady’s influence
 over you--astonishing to us, and I should hardly go too far in saying
 terrible to us to see--is founded in passion fiercer than yours, and
 temper more violent than yours. What can you two be together? What can
 come of it?’
 
-‘I am alone here, gentlemen,’ observed Miss Wade, with no change of
+‘I am [[Alone|alone]] here, gentlemen,’ observed Miss Wade, with no change of
 voice or manner. ‘Say anything you will.’
 
 ‘Politeness must yield to this misguided girl, ma’am,’ said Mr Meagles,
-‘at her present pass; though I hope not altogether to dismiss it,
+‘at her present pass; though I [[Hope|hope]] not altogether to dismiss it,
 even with the injury you do her so strongly before me. Excuse me for
 reminding you in her hearing--I must say it--that you were a mystery
 to all of us, and had nothing in common with any of us when she
@@ -59,7 +59,7 @@ Clennam, perhaps you will induce your friend--’
 ‘Not without another effort,’ said Mr Meagles, stoutly. ‘Tattycoram,
 my poor dear girl, count five-and-twenty.’
 
-‘Do not reject the hope, the certainty, this kind man offers you,’ said
+‘Do not reject the [[Hope|hope]], the certainty, this kind man offers you,’ said
 Clennam in a low emphatic voice. ‘Turn to the friends you have not
 forgotten. Think once more!’
 
@@ -67,7 +67,7 @@ forgotten. Think once more!’
 speaking with her hand held to her throat, ‘take me away!’
 
 ‘Tattycoram,’ said Mr Meagles. ‘Once more yet! The only thing I ask of
-you in the world, my child! Count five-and-twenty!’
+you in the world, my [[Child|child]]! Count five-and-twenty!’
 
 She put her hands tightly over her ears, confusedly tumbling down her
 bright black hair in the vehemence of the action, and turned her face
@@ -80,7 +80,7 @@ of her for evermore.
 And there was a visible triumph in her face when she turned it to
 dismiss the visitors.
 
-‘As it is the last time I shall have the honour,’ she said, ‘and as you
+‘As it is the last [[Time|time]] I shall have the [[Honour|honour]],’ she said, ‘and as you
 have spoken of not knowing what I am, and also of the foundation of my
 influence here, you may now know that it is founded in a common cause.
 What your broken plaything is as to birth, I am. She has no name, I have
@@ -92,6 +92,6 @@ same level voice, but with a smile that is only seen on cruel faces: a
 very faint smile, lifting the nostril, scarcely touching the lips, and
 not breaking away gradually, but instantly dismissed when done with:
 
-‘I hope the wife of your dear friend Mr Gowan, may be happy in the
+‘I [[Hope|hope]] the wife of your dear friend Mr Gowan, may be happy in the
 contrast of her extraction to this girl’s and mine, and in the high good
 fortune that awaits her.’

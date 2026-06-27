@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 7 (part 4)"
+title: "Bleak [[house|House]] — Chapter 7 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,23 +14,23 @@ tags:
 </nav>
 
 
-She seats herself in a large chair by the fast-darkening window and
-tells them: “In the wicked days, my dears, of King Charles the
+She seats herself in a large chair by the fast-darkening [[Window|window]] and
+tells them: “In the wicked days, my dears, of [[King]] Charles the
 First—I mean, of course, in the wicked days of the rebels who
-leagued themselves against that excellent king—Sir Morbury Dedlock
+leagued themselves against that excellent [[King|king]]—Sir Morbury Dedlock
 was the owner of Chesney Wold. Whether there was any account of a
-ghost in the family before those days, I can’t say. I should think it
+[[Ghost|ghost]] in the family before those days, I can’t say. I should think it
 very likely indeed.”
 
 Mrs. Rouncewell holds this opinion because she considers that a
-family of such antiquity and importance has a right to a ghost. She
-regards a ghost as one of the privileges of the upper classes, a
+family of such antiquity and importance has a right to a [[Ghost|ghost]]. She
+regards a [[Ghost|ghost]] as one of the privileges of the upper classes, a
 genteel distinction to which the common people have no claim.
 
 “Sir Morbury Dedlock,” says Mrs. Rouncewell, “was, I have no occasion
 to say, on the side of the blessed martyr. But it IS supposed that
-his Lady, who had none of the family blood in her veins, favoured the
-bad cause. It is said that she had relations among King Charles’s
+his Lady, who had none of the family [[Blood|blood]] in her veins, favoured the
+bad cause. It is said that she had relations among [[King]] Charles’s
 enemies, that she was in correspondence with them, and that she gave
 them information. When any of the country gentlemen who followed his
 Majesty’s cause met here, it is said that my Lady was always nearer
@@ -46,17 +46,17 @@ step.”
 The housekeeper gravely nods and continues: “Partly on account of
 this division between them, and partly on other accounts, Sir Morbury
 and his Lady led a troubled life. She was a lady of a haughty temper.
-They were not well suited to each other in age or character, and they
+They were not [[Well|well]] suited to each other in age or character, and they
 had no children to moderate between them. After her favourite
 brother, a young gentleman, was killed in the civil wars (by Sir
 Morbury’s near kinsman), her feeling was so violent that she hated
 the race into which she had married. When the Dedlocks were about to
-ride out from Chesney Wold in the king’s cause, she is supposed to
-have more than once stolen down into the stables in the dead of night
+ride out from Chesney Wold in the [[King|king]]’s cause, she is supposed to
+have more than once stolen down into the stables in the dead of [[Night|night]]
 and lamed their horses; and the story is that once at such an hour,
 her husband saw her gliding down the stairs and followed her into the
-stall where his own favourite horse stood. There he seized her by the
-wrist, and in a struggle or in a fall or through the horse being
+stall where his own favourite [[Horse|horse]] stood. There he seized her by the
+wrist, and in a struggle or in a fall or through the [[Horse|horse]] being
 frightened and lashing out, she was lamed in the hip and from that
 hour began to pine away.”
 
@@ -65,16 +65,16 @@ whisper.
 
 “She had been a lady of a handsome figure and a noble carriage. She
 never complained of the change; she never spoke to any one of being
-crippled or of being in pain, but day by day she tried to walk upon
+crippled or of being in [[Pain|pain]], but day by day she tried to walk upon
 the terrace, and with the help of the stone balustrade, went up and
-down, up and down, up and down, in sun and shadow, with greater
+down, up and down, up and down, in sun and [[Shadow|shadow]], with greater
 difficulty every day. At last, one afternoon her husband (to whom she
-had never, on any persuasion, opened her lips since that night),
-standing at the great south window, saw her drop upon the pavement.
+had never, on any [[Persuasion|persuasion]], opened her lips since that [[Night|night]]),
+standing at the great south [[Window|window]], saw her drop upon the pavement.
 He hastened down to raise her, but she repulsed him as he bent over
 her, and looking at him fixedly and coldly, said, ‘I will die here
-where I have walked. And I will walk here, though I am in my grave. I
-will walk here until the pride of this house is humbled. And when
+where I have walked. And I will walk here, though I am in my [[Grave|grave]]. I
+will walk here until the [[Pride|pride]] of this [[house]] is humbled. And when
 calamity or when disgrace is coming to it, let the Dedlocks listen
 for my step!’”
 
@@ -82,10 +82,10 @@ Watt looks at Rosa. Rosa in the deepening gloom looks down upon the
 ground, half frightened and half shy.
 
 “There and then she died. And from those days,” says Mrs. Rouncewell,
-“the name has come down—the Ghost’s Walk. If the tread is an echo,
+“the name has come down—the [[Ghost]]’s Walk. If the tread is an echo,
 it is an echo that is only heard after dark, and is often unheard for
-a long while together. But it comes back from time to time; and so
-sure as there is sickness or death in the family, it will be heard
+a long while together. But it comes back from [[Time|time]] to [[Time|time]]; and so
+sure as there is sickness or [[Death|death]] in the family, it will be heard
 then.”
 
 “And disgrace, grandmother—” says Watt.
@@ -98,17 +98,17 @@ Her grandson apologizes with “True. True.”
 says Mrs. Rouncewell, getting up from her chair; “and what is to be
 noticed in it is that it MUST BE HEARD. My Lady, who is afraid of
 nothing, admits that when it is there, it must be heard. You cannot
-shut it out. Watt, there is a tall French clock behind you (placed
+shut it out. Watt, there is a tall French [[Clock|clock]] behind you (placed
 there, ’a purpose) that has a loud beat when it is in motion and can
 play music. You understand how those things are managed?”
 
-“Pretty well, grandmother, I think.”
+“Pretty [[Well|well]], grandmother, I think.”
 
 “Set it a-going.”
 
 Watt sets it a-going—music and all.
 
-“Now, come hither,” says the housekeeper. “Hither, child, towards my
+“Now, come hither,” says the housekeeper. “Hither, [[Child|child]], towards my
 Lady’s pillow. I am not sure that it is dark enough yet, but listen!
 Can you hear the sound upon the terrace, through the music, and the
 beat, and everything?”

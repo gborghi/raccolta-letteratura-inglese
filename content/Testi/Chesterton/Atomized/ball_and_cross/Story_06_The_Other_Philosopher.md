@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Other Philosopher"
+title: "ball and [[Cross|cross]] — The Other Philosopher"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -22,8 +22,8 @@ or feverish manner, but in the steady swing of the pendulum.
 Across the great plains and uplands to the right and left of
 the lane, a long tide of sunset light rolled like a sea of ruby,
 lighting up the long terraces of the hills and picking out the few
-windows of the scattered hamlets in startling blood-red sparks.
-But the lane was cut deep in the hill and remained in an abrupt shadow.
+windows of the scattered hamlets in startling [[Blood|blood]]-red sparks.
+But the lane was cut deep in the [[Hill|hill]] and remained in an abrupt [[Shadow|shadow]].
 The two men running in it had an impression not uncommonly experienced
 between those wild green English walls; a sense of being led between
 the walls of a maze.
@@ -37,22 +37,22 @@ They had the look of two lunatics, possibly they were.
 "Are you all right?" said Turnbull, with civility.  "Can you
 keep this up?"
 
-"Quite easily, thank you," replied MacIan.  "I run very well."
+"Quite easily, thank you," replied MacIan.  "I run very [[Well|well]]."
 
 "Is that a qualification in a family of warriors?" asked Turnbull.
 
 "Undoubtedly. Rapid movement is essential," answered MacIan,
 who never saw a joke in his life.
 
-Turnbull broke out into a short laugh, and silence fell between them,
-the panting silence of runners.
+Turnbull broke out into a short laugh, and [[Silence|silence]] fell between them,
+the panting [[Silence|silence]] of runners.
 
 Then MacIan said:  "We run better than any of those policemen.
 They are too fat.  Why do you make your policemen so fat?"
 
 "I didn't do much towards making them fat myself," replied Turnbull,
 genially, "but I flatter myself that I am now doing something towards
-making them thin.  You'll see they will be as lean as rakes by the time
+making them thin.  You'll see they will be as lean as rakes by the [[Time|time]]
 they catch us.  They will look like your friend, Cardinal Manning."
 
 "But they won't catch us," said MacIan, in his literal way.
@@ -62,7 +62,7 @@ returned the other.  "They won't catch us unless----"
 
 MacIan turned his long equine face inquiringly.  "Unless what?"
 he said, for Turnbull had gone silent suddenly, and seemed to be
-listening intently as he ran as a horse does with his ears turned back.
+listening intently as he ran as a [[Horse|horse]] does with his ears turned back.
 
 "Unless what?" repeated the Highlander.
 
@@ -90,26 +90,26 @@ the black hedge stood out over them as an angle, almost like a thatched
 roof of the lane.  And the burning evening sky looked down at them
 through the tangle with red eyes as of an army of goblins.
 
-Turnbull hoisted himself up and broke the hedge with his body.
-As his head and shoulders rose above it they turned to flame
+Turnbull hoisted himself up and broke the hedge with his [[Body|body]].
+As his head and shoulders [[Rose|rose]] above it they turned to flame
 in the full glow as if lit up by an immense firelight.
 His red hair and beard looked almost scarlet, and his pale face
 as bright as a boy's. Something violent, something that was at once
-love and hatred, surged in the strange heart of the Gael below him.
-He had an unutterable sense of epic importance, as if he were somehow
+[[Love|love]] and hatred, surged in the strange heart of the Gael below him.
+He had an unutterable sense of [[Epic|epic]] importance, as if he were somehow
 lifting all humanity into a prouder and more passionate region
 of the air.  As he swung himself up also into the evening light
 he felt as if he were rising on enormous wings.
 
-Legends of the morning of the world which he had heard in childhood
+Legends of the morning of the world which he had heard in [[Childhood|childhood]]
 or read in youth came back upon him in a cloudy splendour,
-purple tales of wrath and friendship, like Roland and Oliver,
+purple tales of wrath and [[Friendship|friendship]], like Roland and [[Oliver]],
 or Balin and Balan, reminding him of emotional entanglements.
 Men who had loved each other and then fought each other;
 men who had fought each other and then loved each other,
 together made a mixed but monstrous sense of momentousness.
 The crimson seas of the sunset seemed to him like a bursting out
-of some sacred blood, as if the heart of the world had broken.
+of some sacred [[Blood|blood]], as if the heart of the world had broken.
 
 Turnbull was wholly unaffected by any written or spoken poetry;
 his was a powerful and prosaic mind.  But even upon him there came
@@ -117,25 +117,25 @@ for the moment something out of the earth and the passionate ends
 of the sky.  The only evidence was in his voice, which was still
 practical but a shade more quiet.
 
-"Do you see that summer-house-looking thing over there?"
-he asked shortly.  "That will do for us very well."
+"Do you see that [[Summer|summer]]-[[house]]-looking thing over there?"
+he asked shortly.  "That will do for us very [[Well|well]]."
 
 Keeping himself free from the tangle of the hedge he strolled across
-a triangle of obscure kitchen garden, and approached a dismal shed
+a triangle of obscure kitchen [[Garden|garden]], and approached a dismal shed
 or lodge a yard or two beyond it.  It was a weather-stained hut
 of grey wood, which with all its desolation retained a tag or two
 of trivial ornament, which suggested that the thing had once been
-a sort of summer-house, and the place probably a sort of garden.
+a sort of [[Summer|summer]]-[[house]], and the place probably a sort of [[Garden|garden]].
 
-"That is quite invisible from the road," said Turnbull, as he entered it,
-"and it will cover us up for the night."
+"That is quite invisible from the [[Road|road]]," said Turnbull, as he entered it,
+"and it will cover us up for the [[Night|night]]."
 
 MacIan looked at him gravely for a few moments.  "Sir," he said,
 "I ought to say something to you.  I ought to say----"
 
 "Hush," said Turnbull, suddenly lifting his hand; "be still, man."
 
-In the sudden silence, the drumming of the distant horses grew
+In the sudden [[Silence|silence]], the drumming of the distant horses grew
 louder and louder with inconceivable rapidity, and the cavalcade
 of police rushed by below them in the lane, almost with the roar
 and rattle of an express train.
@@ -146,13 +146,13 @@ to war behind you."
 
 Turnbull said nothing, but turned and looked out of the foolish
 lattice of the little windows, then he said, "We must have food
-and sleep first."
+and [[Sleep|sleep]] first."
 
 When the last echo of their eluded pursuers had died in the distant
 uplands, Turnbull began to unpack the provisions with the easy air
 of a man at a picnic.  He had just laid out the last items, put a
-bottle of wine on the floor, and a tin of salmon on the window-ledge,
-when the bottomless silence of that forgotten place was broken.
+bottle of wine on the floor, and a tin of salmon on the [[Window|window]]-ledge,
+when the bottomless [[Silence|silence]] of that forgotten place was broken.
 And it was broken by three heavy blows of a stick delivered
 upon the door.
 
@@ -176,7 +176,7 @@ with a kind of stagger, put his hand out and caught one of the swords.
 "You're overdone, MacIan," said Turnbull, putting him on one side.
 "It's only someone playing the goat.  Let me open the door."
 
-But he also picked up a sword as he stepped to open it.
+But he also picked up a [[Sword|sword]] as he stepped to open it.
 
 He paused one moment with his hand on the handle and then flung
 the door open.  Almost as he did so the ferrule of an ordinary
@@ -206,7 +206,7 @@ same blandness.  "Who are we?"
 
 "Come out," screamed the little man with the stick.
 
-"Certainly," said Turnbull, and went outside with the sword,
+"Certainly," said Turnbull, and went outside with the [[Sword|sword]],
 MacIan following.
 
 Seen more fully, with the evening light on his face,
@@ -222,18 +222,18 @@ like a monkey's.
 
 "What are you doing here?" he said, in a sharp small voice.
 
-"Well," said MacIan, in his grave childish way, "what are
+"[[Well]]," said MacIan, in his [[Grave|grave]] childish way, "what are
 _you_ doing here?"
 
-"I," said the man, indignantly, "I'm in my own garden."
+"I," said the man, indignantly, "I'm in my own [[Garden|garden]]."
 
 "Oh," said MacIan, simply, "I apologize."
 
 Turnbull was coolly curling his red moustache, and the stranger stared
-from one to the other, temporarily stunned by their innocent assurance.
+from one to the other, temporarily stunned by their [[Innocent|innocent]] assurance.
 
 "But, may I ask," he said at last, "what the devil you are doing
-in my summer-house?"
+in my [[Summer|summer]]-[[house]]?"
 
 "Certainly," said MacIan.  "We were just going to fight."
 
@@ -242,8 +242,8 @@ in my summer-house?"
 "We had better tell this gentleman the whole business,"
 broke in Turnbull.  Then turning to the stranger he said firmly,
 "I am sorry, sir, but we have something to do that must be done.
-And I may as well tell you at the beginning and to avoid waste
-of time or language, that we cannot admit any interference."
+And I may as [[Well|well]] tell you at the beginning and to avoid waste
+of [[Time|time]] or language, that we cannot admit any interference."
 
 "We were just going to take some slight refreshment when
 you interrupted us..."
@@ -254,34 +254,34 @@ and picked up the unused bottle of wine, eyeing it curiously.
 Turnbull continued:
 
 "But that refreshment was preparatory to something which I
-fear you will find less comprehensible, but on which our minds
+[[Fear|fear]] you will find less comprehensible, but on which our minds
 are entirely fixed, sir.  We are forced to fight a duel.
-We are forced by honour and an internal intellectual need.
+We are forced by [[Honour|honour]] and an internal intellectual need.
 Do not, for your own sake, attempt to stop us.  I know all
 the excellent and ethical things that you will want to say to us.
 I know all about the essential requirements of civil order:
 I have written leading articles about them all my life.  I know all about
 the sacredness of human life; I have bored all my friends with it.
-Try and understand our position.  This man and I are alone in the
+Try and understand our position.  This man and I are [[Alone|alone]] in the
 modern world in that we think that God is essentially important.
 I think He does not exist; that is where the importance comes
 in for me.  But this man thinks that He does exist, and thinking
 that very properly thinks Him more important than anything else.
 Now we wish to make a great demonstration and assertion--something that
-will set the world on fire like the first Christian persecutions.
-If you like, we are attempting a mutual martyrdom.  The papers
+will set the world on [[Fire|fire]] like the first Christian persecutions.
+If you like, we are attempting a mutual [[Martyrdom|martyrdom]].  The papers
 have posted up every town against us.  Scotland Yard has fortified
 every police station with our enemies; we are driven therefore
 to the edge of a lonely lane, and indirectly to taking liberties
-with your summer-house in order to arrange our..."
+with your [[Summer|summer]]-[[house]] in order to arrange our..."
 
 "Stop!" roared the little man in the butterfly necktie.
 "Put me out of my intellectual misery.  Are you really the two
 tomfools I have read of in all the papers?  Are you the two people
-who wanted to spit each other in the Police Court?  Are you?
+who wanted to spit each other in the Police [[Court]]?  Are you?
 Are you?"
 
-"Yes," said MacIan, "it began in a Police Court."
+"Yes," said MacIan, "it began in a Police [[Court]]."
 
 The little man slung the bottle of wine twenty yards away like a stone.
 
@@ -299,15 +299,15 @@ aback by this boisterous and almost brutal hospitality.
 smooth lawn and your choice of swords and pistols.  Why, you fools,
 I adore fighting!  It's the only good thing in God's world!
 I've walked about these damned fields and longed to see somebody
-cut up and killed and the blood running.  Ha!  Ha!"
+cut up and killed and the [[Blood|blood]] running.  Ha!  Ha!"
 
 And he made sudden lunges with his stick at the trunk of a neighbouring
 tree so that the ferrule made fierce prints and punctures in the bark.
 
 "Excuse me," said MacIan suddenly with the wide-eyed curiosity
-of a child, "excuse me, but..."
+of a [[Child|child]], "excuse me, but..."
 
-"Well?" said the small fighter, brandishing his wooden weapon.
+"[[Well]]?" said the small fighter, brandishing his wooden weapon.
 
 "Excuse me," repeated MacIan, "but was that what you were doing
 at the door?"
@@ -319,20 +319,20 @@ broke into a guffaw.
 and taking quite suddenly to his heels.  "Come on!  Confound me,
 I'll see both of you eat and then I'll see one of you die.
 Lord bless me, the gods must exist after all--they have sent me
-one of my day-dreams!  Lord!  A duel!"
+one of my day-[[Dreams|dreams]]!  Lord!  A duel!"
 
 He had gone flying along a winding path between the borders
-of the kitchen garden, and in the increasing twilight he was
+of the kitchen [[Garden|garden]], and in the increasing twilight he was
 as hard to follow as a flying hare.  But at length the path
 after many twists betrayed its purpose and led abruptly up two
 or three steps to the door of a tiny but very clean cottage.
 There was nothing about the outside to distinguish it from other cottages,
 except indeed its ominous cleanliness and one thing that was out
 of all the custom and tradition of all cottages under the sun.
-In the middle of the little garden among the stocks and marigolds
+In the middle of the little [[Garden|garden]] among the stocks and marigolds
 there surged up in shapeless stone a South Sea Island idol.
 There was something gross and even evil in that eyeless and alien
-god among the most innocent of the English flowers.
+god among the most [[Innocent|innocent]] of the English [[Flowers|flowers]].
 
 "Come in!" cried the creature again.  "Come in! it's better inside!"
 
@@ -347,10 +347,10 @@ Cruel Assyrian bas-reliefs ran along the sides of the passage;
 cruel Turkish swords and daggers glinted above and below them;
 the two were separated by ages and fallen civilizations.
 Yet they seemed to sympathize since they were both harmonious
-and both merciless.  The house seemed to consist of chamber
-within chamber and created that impression as of a dream
+and both merciless.  The [[house]] seemed to consist of chamber
+within chamber and created that impression as of [[A Dream|a dream]]
 which belongs also to the Arabian Nights themselves.
-The innermost room of all was like the inside of a jewel.
+The innermost room of all was like the inside of a [[Jewel|jewel]].
 The little man who owned it all threw himself on a heap of scarlet
 and golden cushions and struck his hands together.  A negro in a white
 robe and turban appeared suddenly and silently behind them.
@@ -362,26 +362,26 @@ Make arrangements, please."
 
 The negro bowed and withdrew.
 
-Evan MacIan came out the next morning into the little garden
+[[Evan MacIan]] came out the next morning into the little [[Garden|garden]]
 to a fresh silver day, his long face looking more austere
 than ever in that cold light, his eyelids a little heavy.
-He carried one of the swords.  Turnbull was in the little house
+He carried one of the swords.  Turnbull was in the little [[house]]
 behind him, demolishing the end of an early breakfast and humming
-a tune to himself, which could be heard through the open window.
+a tune to himself, which could be heard through the open [[Window|window]].
 A moment or two later he leapt to his feet and came out into
-the sunlight, still munching toast, his own sword stuck under his
+the sunlight, still munching toast, his own [[Sword|sword]] stuck under his
 arm like a walking-stick.
 
 Their eccentric host had vanished from sight, with a polite gesture,
 some twenty minutes before.  They imagined him to be occupied
-on some concerns in the interior of the house, and they waited for
-his emergence, stamping the garden in silence--the garden of tall,
-fresh country flowers, in the midst of which the monstrous South Sea
-idol lifted itself as abruptly as the prow of a ship riding on a sea
+on some concerns in the interior of the [[house]], and they waited for
+his emergence, stamping the [[Garden|garden]] in [[Silence|silence]]--the [[Garden|garden]] of tall,
+fresh country [[Flowers|flowers]], in the midst of which the monstrous South Sea
+idol lifted itself as abruptly as the prow of a [[Ship|ship]] riding on a sea
 of red and white and gold.
 
 It was with a start, therefore, that they came upon the man
-himself already in the garden.  They were all the more startled
+himself already in the [[Garden|garden]].  They were all the more startled
 because of the still posture in which they found him.
 He was on his knees in front of the stone idol, rigid and motionless,
 like a saint in a trance or ecstasy.  Yet when Turnbull's tread
@@ -399,7 +399,7 @@ towards the heavy stone figure on the pedestal which had now its blank
 and shapeless back turned towards them.  "Don't you be afraid,"
 he added, "he can still see us."
 
-MacIan turned his blue, blinking eyes, which seemed still misty with sleep
+MacIan turned his blue, blinking eyes, which seemed still misty with [[Sleep|sleep]]
 (or sleeplessness) towards the idol, but his brows drew together.
 
 The little man with the long hair also had his eyes on the back
@@ -420,8 +420,8 @@ He looks more cruel from behind, don't you think?"
 
 "Yes, my friends," said the little man, with an animated countenance,
 fluttering his fingers in the air, "it was no chance that led you
-to this garden; surely it was the caprice of some old god, some happy,
-pitiless god.  Perhaps it was his will, for he loves blood;
+to this [[Garden|garden]]; surely it was the caprice of some old god, some happy,
+pitiless god.  Perhaps it was his will, for he loves [[Blood|blood]];
 and on that stone in front of him men have been butchered by hundreds
 in the fierce, feasting islands of the South.  In this cursed,
 craven place I have not been permitted to kill men on his altar.
@@ -436,30 +436,30 @@ is in heaven.  Men, men, men will bleed before him today."
 And he bit his forefinger in a kind of fever.
 
 Still, the two duellists stood with their swords as heavily as statues,
-and the silence seemed to cool the eccentric and call him back
+and the [[Silence|silence]] seemed to cool the eccentric and call him back
 to more rational speech.
 
 "Perhaps I express myself a little too lyrically," he said with
-an amicable abruptness.  "My philosophy has its higher ecstasies,
+an amicable abruptness.  "My [[philosophy]] has its higher ecstasies,
 but perhaps you are hardly worked up to them yet.  Let us confine
 ourselves to the unquestioned.  You have found your way, gentlemen,
-by a beautiful accident, to the house of the only man in England
+by a beautiful accident, to the [[house]] of the only man in England
 (probably) who will favour and encourage your most reasonable project.
 From Cornwall to Cape Wrath this country is one horrible, solid block
-of humanitarianism.  You will find men who will defend this or that war
+of [[Humanitarianism|humanitarianism]].  You will find men who will defend this or that war
 in a distant continent.  They will defend it on the contemptible
 ground of commerce or the more contemptible ground of social good.
 But do not fancy that you will find one other person who will comprehend
-a strong man taking the sword in his hand and wiping out his enemy.
+a strong man taking the [[Sword|sword]] in his hand and wiping out his enemy.
 My name is Wimpey, Morrice Wimpey.  I had a Fellowship at Magdalen.
 But I assure you I had to drop it, owing to my having said something
 in a public lecture infringing the popular prejudice against
-those great gentlemen, the assassins of the Italian Renaissance.
+those great gentlemen, the assassins of the Italian [[Renaissance]].
 They let me say it at dinner and so on, and seemed to like it.
-But in a public lecture...so inconsistent.  Well, as I say,
-here is your only refuge and temple of honour.  Here you can fall
+But in a public lecture...so inconsistent.  [[Well]], as I say,
+here is your only refuge and temple of [[Honour|honour]].  Here you can fall
 back on that naked and awful arbitration which is the only thing that
-balances the stars--a still, continuous violence.  _Vae Victis!_ Down,
+balances the [[Stars|stars]]--a still, continuous violence.  _Vae Victis!_ Down,
 down, down with the defeated!  Victory is the only ultimate fact.
 Carthage _was_ destroyed, the Red Indians are being exterminated:
 that is the single certainty.  In an hour from now that sun will still
@@ -469,17 +469,17 @@ alter it.  Heroes, I give you the hospitality fit for heroes.
 And I salute the survivor.  Fall on!"
 
 The two men took their swords.  Then MacIan said steadily:
-"Mr. Turnbull, lend me your sword a moment."
+"Mr. Turnbull, lend me your [[Sword|sword]] a moment."
 
 Turnbull, with a questioning glance, handed him the weapon.
-MacIan took the second sword in his left hand and, with a violent gesture,
+MacIan took the second [[Sword|sword]] in his left hand and, with a violent gesture,
 hurled it at the feet of little Mr. Wimpey.
 
 "Fight!" he said in a loud, harsh voice.  "Fight me now!"
 
 Wimpey took a step backward, and bewildered words bubbled on his lips.
 
-"Pick up that sword and fight me," repeated MacIan, with brows
+"Pick up that [[Sword|sword]] and fight me," repeated MacIan, with brows
 as black as thunder.
 
 The little man turned to Turnbull with a gesture, demanding
@@ -489,7 +489,7 @@ judgement or protection.
 
 "You stinking little coward," roared Turnbull, suddenly releasing
 his wrath.  "Fight, if you're so fond of fighting!  Fight, if you're
-so fond of all that filthy philosophy!  If winning is everything,
+so fond of all that filthy [[philosophy]]!  If winning is everything,
 go in and win!  If the weak must go to the wall, go to the wall!
 Fight, you rat!  Fight, or if you won't fight--run!"
 
@@ -498,35 +498,35 @@ And he ran at Wimpey, with blazing eyes.
 Wimpey staggered back a few paces like a man struggling
 with his own limbs.  Then he felt the furious Scotchman coming
 at him like an express train, doubling his size every second,
-with eyes as big as windows and a sword as bright as the sun.
+with eyes as big as windows and a [[Sword|sword]] as bright as the sun.
 Something broke inside him, and he found himself running away,
 tumbling over his own feet in terror, and crying out as he ran.
 
-"Chase him!" shouted Turnbull as MacIan snatched up the sword
+"Chase him!" shouted Turnbull as MacIan snatched up the [[Sword|sword]]
 and joined in the scamper.  "Chase him over a county!
 Chase him into the sea!  Shoo!  Shoo!  Shoo!"
 
-The little man plunged like a rabbit among the tall flowers, the two
+The little man plunged like a rabbit among the tall [[Flowers|flowers]], the two
 duellists after him.  Turnbull kept at his tail with savage ecstasy,
 still shooing him like a cat.  But MacIan, as he ran past
-the South Sea idol, paused an instant to spring upon its pedestal.
+the South Sea idol, paused an instant to [[spring]] upon its pedestal.
 For five seconds he strained against the inert mass.  Then it stirred;
-and he sent it over with a great crash among the flowers, that engulfed
+and he sent it over with a great crash among the [[Flowers|flowers]], that engulfed
 it altogether.  Then he went bounding after the runaway.
 
 In the energy of his alarm the ex-Fellow of Magdalen managed
-to leap the paling of his garden.  The two pursuers went over it
-after him like flying birds.  He fled frantically down a long lane
+to leap the paling of his [[Garden|garden]].  The two pursuers went over it
+after him like flying [[Birds|birds]].  He fled frantically down a long lane
 with his two terrors on his trail till he came to a gap in the hedge
-and went across a steep meadow like the wind.  The two Scotchmen,
+and went across a steep meadow like the [[Wind|wind]].  The two Scotchmen,
 as they ran, kept up a cheery bellowing and waved their swords.
 Up three slanting meadows, down four slanting meadows on the other side,
-across another road, across a heath of snapping bracken,
-through a wood, across another road, and to the brink of a big pool,
+across another [[Road|road]], across a heath of snapping bracken,
+through a wood, across another [[Road|road]], and to the brink of a big pool,
 they pursued the flying philosopher.  But when he came to the pool
 his pace was so precipitate that he could not stop it, and with a
-kind of lurching stagger, he fell splash into the greasy water.
-Getting dripping to his feet, with the water up to his knees,
+kind of lurching stagger, he fell splash into the greasy [[Water|water]].
+Getting dripping to his feet, with the [[Water|water]] up to his knees,
 the worshipper of force and victory waded disconsolately to
 the other side and drew himself on to the bank.  And Turnbull sat
 down on the grass and went off into reverberations of laughter.

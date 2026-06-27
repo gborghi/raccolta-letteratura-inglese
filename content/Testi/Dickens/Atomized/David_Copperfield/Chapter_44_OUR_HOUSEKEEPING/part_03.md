@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 44: OUR HOUSEKEEPING (part 3)"
+title: "[[David Copperfield]] — Chapter 44: OUR HOUSEKEEPING (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 Dora came stealing down in her little slippers, to meet me, now that I
-was alone; and cried upon my shoulder, and said I had been hard-hearted
+was [[Alone|alone]]; and cried upon my shoulder, and said I had been hard-hearted
 and she had been naughty; and I said much the same thing in effect, I
 believe; and we made it up, and agreed that our first little difference
 was to be our last, and that we were never to have another if we lived a
@@ -24,7 +24,7 @@ hundred years.
 The next domestic trial we went through, was the Ordeal of Servants.
 Mary Anne’s cousin deserted into our coal-hole, and was brought out, to
 our great amazement, by a piquet of his companions in arms, who took
-him away handcuffed in a procession that covered our front-garden with
+him away handcuffed in a procession that covered our front-[[Garden|garden]] with
 ignominy. This nerved me to get rid of Mary Anne, who went so mildly,
 on receipt of wages, that I was surprised, until I found out about the
 tea-spoons, and also about the little sums she had borrowed in my
@@ -43,7 +43,7 @@ failure.
 
 Everybody we had anything to do with seemed to cheat us. Our appearance
 in a shop was a signal for the damaged goods to be brought out
-immediately. If we bought a lobster, it was full of water. All our meat
+immediately. If we bought a lobster, it was full of [[Water|water]]. All our meat
 turned out to be tough, and there was hardly any crust to our loaves.
 In search of the principle on which joints ought to be roasted, to be
 roasted enough, and not too much, I myself referred to the Cookery Book,
@@ -60,14 +60,14 @@ scale of our consumption of that article. I don’t know whether the
 Excise returns of the period may have exhibited any increase in the
 demand for pepper; but if our performances did not affect the market,
 I should say several families must have left off using it. And the most
-wonderful fact of all was, that we never had anything in the house.
+wonderful fact of all was, that we never had anything in the [[house]].
 
 As to the washerwoman pawning the clothes, and coming in a state of
 penitent intoxication to apologize, I suppose that might have happened
-several times to anybody. Also the chimney on fire, the parish engine,
+several times to anybody. Also the chimney on [[Fire|fire]], the parish engine,
 and perjury on the part of the Beadle. But I apprehend that we were
 personally fortunate in engaging a servant with a taste for cordials,
-who swelled our running account for porter at the public-house by such
+who swelled our running account for porter at the public-[[house]] by such
 inexplicable items as ‘quartern rum shrub (Mrs. C.)’; ‘Half-quartern
 gin and cloves (Mrs. C.)’; ‘Glass rum and peppermint (Mrs. C.)’--the
 parentheses always referring to Dora, who was supposed, it appeared on
@@ -76,9 +76,9 @@ explanation, to have imbibed the whole of these refreshments.
 One of our first feats in the housekeeping way was a little dinner to
 Traddles. I met him in town, and asked him to walk out with me that
 afternoon. He readily consenting, I wrote to Dora, saying I would bring
-him home. It was pleasant weather, and on the road we made my domestic
+him [[Home|home]]. It was pleasant weather, and on the [[Road|road]] we made my domestic
 happiness the theme of conversation. Traddles was very full of it; and
-said, that, picturing himself with such a home, and Sophy waiting and
+said, that, picturing himself with such a [[Home|home]], and Sophy waiting and
 preparing for him, he could think of nothing wanting to complete his
 bliss.
 
@@ -92,7 +92,7 @@ blocked up the main thoroughfare. On the present occasion, Traddles
 was so hemmed in by the pagoda and the guitar-case, and Dora’s
 flower-painting, and my writing-table, that I had serious doubts of the
 possibility of his using his knife and fork; but he protested, with his
-own good-humour, ‘Oceans of room, Copperfield! I assure you, Oceans!’
+own good-[[Humour|humour]], ‘Oceans of room, Copperfield! I assure you, Oceans!’
 
 There was another thing I could have wished, namely, that Jip had never
 been encouraged to walk about the tablecloth during dinner. I began to

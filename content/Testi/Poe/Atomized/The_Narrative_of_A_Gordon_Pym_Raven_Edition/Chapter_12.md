@@ -20,11 +20,11 @@ CHAPTER 12
 
 
 
-      I had for some time past, dwelt upon the prospect of our being
+      I had for some [[Time|time]] past, dwelt upon the prospect of our being
 
       reduced to this last horrible extremity, and had secretly made up
 
-      my mind to suffer death in any shape or under any circumstances
+      my mind to suffer [[Death|death]] in any shape or under any circumstances
 
       rather than resort to such a course. Nor was this resolution in
 
@@ -36,7 +36,7 @@ CHAPTER 12
 
       praying to God for power to dissuade him from the horrible
 
-      purpose he entertained, I expostulated with him for a long time,
+      purpose he entertained, I expostulated with him for a long [[Time|time]],
 
       and in the most supplicating manner, begging him in the name of
 
@@ -50,19 +50,19 @@ CHAPTER 12
 
       He heard all I said without attempting to controvert any of my
 
-      arguments, and I had begun to hope that he would be prevailed
+      arguments, and I had begun to [[Hope|hope]] that he would be prevailed
 
       upon to do as I desired. But when I had ceased speaking, he said
 
-      that he knew very well all I had said was true, and that to
+      that he knew very [[Well|well]] all I had said was true, and that to
 
       resort to such a course was the most horrible alternative which
 
       could enter into the mind of man; but that he had now held out as
 
-      long as human nature could be sustained; that it was unnecessary
+      long as human [[Nature|nature]] could be sustained; that it was unnecessary
 
-      for all to perish, when, by the death of one, it was possible,
+      for all to perish, when, by the [[Death|death]] of one, it was possible,
 
       and even probable, that the rest might be finally preserved;
 
@@ -70,7 +70,7 @@ CHAPTER 12
 
       from his purpose, his mind having been thoroughly made up on the
 
-      subject even before the appearance of the ship, and that only her
+      subject even before the appearance of the [[Ship|ship]], and that only her
 
       heaving in sight had prevented him from mentioning his intention
 
@@ -86,7 +86,7 @@ CHAPTER 12
 
       I could devise, and which I thought likely to have influence with
 
-      one of his rough nature. He said, in reply, that he had not
+      one of his rough [[Nature|nature]]. He said, in reply, that he had not
 
       spoken until the very last possible moment, that he could exist
 
@@ -120,7 +120,7 @@ CHAPTER 12
 
       drawing a knife, made several ineffectual efforts to stab me in
 
-      the stomach; an atrocity which his excessive debility alone
+      the stomach; an atrocity which his excessive debility [[Alone|alone]]
 
       prevented him from accomplishing. In the meantime, being roused
 
@@ -154,7 +154,7 @@ CHAPTER 12
 
       myself in resisting any attempt to execute so dreadful a purpose,
 
-      and, with the aid of either one of them, I had no fear of being
+      and, with the aid of either one of them, I had no [[Fear|fear]] of being
 
       able to prevent its accomplishment. Being disappointed in this
 
@@ -164,7 +164,7 @@ CHAPTER 12
 
       possibly be considered by men in their frightful condition a
 
-      sufficient excuse for refusing me fair play in the tragedy that I
+      sufficient excuse for refusing me fair play in the [[Tragedy|tragedy]] that I
 
       knew would speedily be enacted.
 
@@ -176,7 +176,7 @@ CHAPTER 12
 
       had gathered around us might have an opportunity of lifting, when
 
-      it was possible that the ship we had seen might be again in
+      it was possible that the [[Ship|ship]] we had seen might be again in
 
       sight. After great difficulty I obtained from them a promise to
 
@@ -194,11 +194,11 @@ CHAPTER 12
 
       after events have been able to efface in the slightest degree
 
-      from my memory, and whose stern recollection will embitter every
+      from my [[Memory|memory]], and whose stern recollection will embitter every
 
       future moment of my existence. Let me run over this portion of my
 
-      narrative with as much haste as the nature of the events to be
+      narrative with as much haste as the [[Nature|nature]] of the events to be
 
       spoken of will permit. The only method we could devise for the
 
@@ -226,19 +226,19 @@ CHAPTER 12
 
       existence may be held. But now that the silent, definite, and
 
-      stern nature of the business in which I was engaged (so different
+      stern [[Nature|nature]] of the business in which I was engaged (so different
 
-      from the tumultuous dangers of the storm or the gradually
+      from the tumultuous dangers of the [[Storm|storm]] or the gradually
 
       approaching horrors of famine) allowed me to reflect on the few
 
-      chances I had of escaping the most appalling of deaths—a death
+      chances I had of escaping the most appalling of deaths—a [[Death|death]]
 
       for the most appalling of purposes—every particle of that energy
 
       which had so long buoyed me up departed like feathers before the
 
-      wind, leaving me a helpless prey to the most abject and pitiable
+      [[Wind|wind]], leaving me a helpless prey to the most abject and pitiable
 
       terror. I could not, at first, even summon up sufficient strength
 
@@ -254,13 +254,13 @@ CHAPTER 12
 
       and entreating them to let me escape this necessity; of suddenly
 
-      rushing upon them, and, by putting one of them to death, of
+      rushing upon them, and, by putting one of them to [[Death|death]], of
 
       rendering the decision by lot useless—in short, of every thing
 
       but of going through with the matter I had in hand. At last,
 
-      after wasting a long time in this imbecile conduct, I was
+      after wasting a long [[Time|time]] in this imbecile conduct, I was
 
       recalled to my senses by the voice of Parker, who urged me to
 
@@ -334,9 +334,9 @@ CHAPTER 12
 
 
 
-      I recovered from my swoon in time to behold the consummation of
+      I recovered from my swoon in [[Time|time]] to behold the consummation of
 
-      the tragedy in the death of him who had been chiefly instrumental
+      the [[Tragedy|tragedy]] in the [[Death|death]] of him who had been chiefly instrumental
 
       in bringing it about. He made no resistance whatever, and was
 
@@ -350,13 +350,13 @@ CHAPTER 12
 
       suffice to say that, having in some measure appeased the raging
 
-      thirst which consumed us by the blood of the victim, and having
+      thirst which consumed us by the [[Blood|blood]] of the victim, and having
 
       by common consent taken off the hands, feet, and head, throwing
 
       them together with the entrails, into the sea, we devoured the
 
-      rest of the body, piecemeal, during the four ever memorable days
+      rest of the [[Body|body]], piecemeal, during the four ever memorable days
 
       of the seventeenth, eighteenth, nineteenth, and twentieth of the
 
@@ -366,7 +366,7 @@ CHAPTER 12
 
       On the nineteenth, there coming on a smart shower which lasted
 
-      fifteen or twenty minutes, we contrived to catch some water by
+      fifteen or twenty minutes, we contrived to catch some [[Water|water]] by
 
       means of a sheet which had been fished up from the cabin by our
 
@@ -374,7 +374,7 @@ CHAPTER 12
 
       amount to more than half a gallon; but even this scanty allowance
 
-      supplied us with comparative strength and hope.
+      supplied us with comparative strength and [[Hope|hope]].
 
 
 
@@ -392,9 +392,9 @@ CHAPTER 12
 
       through my mind all at once an idea which inspired me with a
 
-      bright gleam of hope. I remembered that, when the foremast had
+      bright gleam of [[Hope|hope]]. I remembered that, when the foremast had
 
-      been cut away, Peters, being in the windward chains, passed one
+      been cut away, Peters, being in the windward [[Chains|chains]], passed one
 
       of the axes into my hand, requesting me to put it, if possible,
 
@@ -428,7 +428,7 @@ CHAPTER 12
 
       square, had remained uninjured. I did not hesitate, however, to
 
-      attempt the descent; and a rope being fastened round my body as
+      attempt the descent; and a rope being fastened round my [[Body|body]] as
 
       before, I plunged boldly in, feet foremost, made my way quickly
 
@@ -444,7 +444,7 @@ CHAPTER 12
 
       We now commenced cutting at the deck with all the energy of
 
-      rekindled hope, Peters and myself taking the axe by turns,
+      rekindled [[Hope|hope]], Peters and myself taking the axe by turns,
 
       Augustus’s wounded arm not permitting him to aid us in any
 
@@ -460,7 +460,7 @@ CHAPTER 12
 
       storeroom. This consideration, however, did not discourage us;
 
-      and, working all night by the light of the moon, we succeeded in
+      and, working all [[Night|night]] by the light of the [[Moon|moon]], we succeeded in
 
       effecting our purpose by daybreak on the morning of the
 
@@ -478,7 +478,7 @@ CHAPTER 12
 
       with the greatest avidity, we proceeded to let him down again.
 
-      This time he succeeded beyond our utmost expectations, returning
+      This [[Time|time]] he succeeded beyond our utmost expectations, returning
 
       instantly with a large ham and a bottle of Madeira wine. Of the
 
@@ -488,7 +488,7 @@ CHAPTER 12
 
       except about two pounds near the bone, was not in a condition to
 
-      be eaten, having been entirely spoiled by the salt water. The
+      be eaten, having been entirely spoiled by the salt [[Water|water]]. The
 
       sound part was divided among us. Peters and Augustus, not being
 
@@ -502,11 +502,11 @@ CHAPTER 12
 
 
 
-      By noon, feeling somewhat strengthened and refreshed, we again
+      By [[Noon|noon]], feeling somewhat strengthened and refreshed, we again
 
       renewed our attempt at getting up provisions, Peters and myself
 
-      going down alternately, and always with more or less success,
+      going down alternately, and always with more or less [[success]],
 
       until sundown. During this interval we had the good fortune to
 
@@ -534,7 +534,7 @@ CHAPTER 12
 
       islands called the Gallipagos, which, indeed, derive their name
 
-      from the animal—the Spanish word Gallipago meaning a fresh-water
+      from the animal—the Spanish word Gallipago meaning a fresh-[[Water|water]]
 
       terrapin. From the peculiarity of their shape and action they
 
@@ -562,25 +562,25 @@ CHAPTER 12
 
       resemblance to that of a serpent. They can exist without food for
 
-      an almost incredible length of time, instances having been known
+      an almost incredible length of [[Time|time]], instances having been known
 
       where they have been thrown into the hold of a vessel and lain
 
       two years without nourishment of any kind—being as fat, and, in
 
-      every respect, in as good order at the expiration of the time as
+      every respect, in as good order at the expiration of the [[Time|time]] as
 
       when they were first put in. In one particular these
 
-      extraordinary animals bear a resemblance to the dromedary, or
+      extraordinary [[Animals|animals]] bear a resemblance to the dromedary, or
 
-      camel of the desert. In a bag at the root of the neck they carry
+      camel of the [[Desert|desert]]. In a bag at the root of the neck they carry
 
-      with them a constant supply of water. In some instances, upon
+      with them a constant supply of [[Water|water]]. In some instances, upon
 
       killing them after a full year’s deprivation of all nourishment,
 
-      as much as three gallons of perfectly sweet and fresh water have
+      as much as three gallons of perfectly sweet and fresh [[Water|water]] have
 
       been found in their bags. Their food is chiefly wild parsley and
 
@@ -592,7 +592,7 @@ CHAPTER 12
 
       animal itself is discovered. They are excellent and highly
 
-      nutritious food, and have, no doubt, been the means of preserving
+      nutritious food, and have, no [[Doubt|doubt]], been the means of preserving
 
       the lives of thousands of seamen employed in the whale-fishery
 
@@ -608,7 +608,7 @@ CHAPTER 12
 
       being exceedingly fat, and having more than a quart of limpid and
 
-      sweet water in its bag. This was indeed a treasure; and, falling
+      sweet [[Water|water]] in its bag. This was indeed a treasure; and, falling
 
       on our knees with one accord, we returned fervent thanks to God
 
@@ -622,7 +622,7 @@ CHAPTER 12
 
       prodigious. It was upon the point of making its escape from
 
-      Peter’s grasp, and slipping back into the water, when Augustus,
+      Peter’s grasp, and slipping back into the [[Water|water]], when Augustus,
 
       throwing a rope with a slipknot around its throat, held it up in
 
@@ -632,7 +632,7 @@ CHAPTER 12
 
 
 
-      The water we drew carefully from the bag into the jug; which, it
+      The [[Water|water]] we drew carefully from the bag into the jug; which, it
 
       will be remembered, had been brought up before from the cabin.
 
@@ -650,19 +650,19 @@ CHAPTER 12
 
       During the last two or three days, the weather having been dry
 
-      and pleasant, the bedding we had obtained from the cabin, as well
+      and pleasant, the bedding we had obtained from the cabin, as [[Well|well]]
 
       as our clothing, had become thoroughly dry, so that we passed
 
-      this night (that of the twenty-third) in comparative comfort,
+      this [[Night|night]] (that of the twenty-third) in comparative comfort,
 
       enjoying a tranquil repose, after having supped plentifully on
 
       olives and ham, with a small allowance of the wine. Being afraid
 
-      of losing some of our stores overboard during the night, in the
+      of losing some of our stores overboard during the [[Night|night]], in the
 
-      event of a breeze springing up, we secured them as well as
+      event of a breeze springing up, we secured them as [[Well|well]] as
 
       possible with cordage to the fragments of the windlass. Our
 

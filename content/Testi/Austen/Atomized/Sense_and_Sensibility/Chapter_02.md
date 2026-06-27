@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 2"
+title: "[[Sense and Sensibility]] — Chapter 2"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -28,13 +28,13 @@ As such, however, they were treated by her with quiet civility; and by
 
 her husband with as much kindness as he could feel towards anybody
 
-beyond himself, his wife, and their child. He really pressed them, with
+beyond himself, his wife, and their [[Child|child]]. He really pressed them, with
 
-some earnestness, to consider Norland as their home; and, as no plan
+some earnestness, to consider Norland as their [[Home|home]]; and, as no plan
 
 appeared so eligible to Mrs. Dashwood as remaining there till she could
 
-accommodate herself with a house in the neighbourhood, his invitation
+accommodate herself with a [[house]] in the neighbourhood, his invitation
 
 was accepted.
 
@@ -42,7 +42,7 @@ was accepted.
 
 A continuance in a place where everything reminded her of former
 
-delight, was exactly what suited her mind. In seasons of cheerfulness,
+delight, was exactly what suited her mind. In [[Seasons|seasons]] of cheerfulness,
 
 no temper could be more cheerful than hers, or possess, in a greater
 
@@ -62,15 +62,15 @@ of their dear little boy would be impoverishing him to the most
 
 dreadful degree. She begged him to think again on the subject. How
 
-could he answer it to himself to rob his child, and his only child too,
+could he answer it to himself to rob his [[Child|child]], and his only [[Child|child]] too,
 
 of so large a sum? And what possible claim could the Miss Dashwoods,
 
-who were related to him only by half blood, which she considered as no
+who were related to him only by half [[Blood|blood]], which she considered as no
 
 relationship at all, have on his generosity to so large an amount. It
 
-was very well known that no affection was ever supposed to exist
+was very [[Well|well]] known that no affection was ever supposed to exist
 
 between the children of any man by different marriages; and why was he
 
@@ -88,11 +88,11 @@ should assist his widow and daughters.”
 
 “He did not know what he was talking of, I dare say; ten to one but he
 
-was light-headed at the time. Had he been in his right senses, he could
+was light-headed at the [[Time|time]]. Had he been in his right senses, he could
 
 not have thought of such a thing as begging you to give away half your
 
-fortune from your own child.”
+fortune from your own [[Child|child]].”
 
 
 
@@ -102,19 +102,19 @@ requested me, in general terms, to assist them, and make their
 
 situation more comfortable than it was in his power to do. Perhaps it
 
-would have been as well if he had left it wholly to myself. He could
+would have been as [[Well|well]] if he had left it wholly to myself. He could
 
 hardly suppose I should neglect them. But as he required the promise, I
 
-could not do less than give it; at least I thought so at the time. The
+could not do less than give it; at least I thought so at the [[Time|time]]. The
 
 promise, therefore, was given, and must be performed. Something must be
 
-done for them whenever they leave Norland and settle in a new home.”
+done for them whenever they leave Norland and settle in a new [[Home|home]].”
 
 
 
-“Well, then, _let_ something be done for them; but _that_ something
+“[[Well]], then, _let_ something be done for them; but _that_ something
 
 need not be three thousand pounds. Consider,” she added, “that when the
 
@@ -128,7 +128,7 @@ to our poor little boy—”
 
 “Why, to be sure,” said her husband, very gravely, “that would make
 
-great difference. The time may come when Harry will regret that so
+great difference. The [[Time|time]] may come when Harry will regret that so
 
 large a sum was parted with. If he should have a numerous family, for
 
@@ -152,7 +152,7 @@ to their fortunes!”
 
 for his sisters, even if _really_ his sisters! And as it is—only half
 
-blood!—But you have such a generous spirit!”
+[[Blood|blood]]!—But you have such a generous spirit!”
 
 
 
@@ -178,7 +178,7 @@ afford to do.”
 
 a-piece. As it is, without any addition of mine, they will each have
 
-about three thousand pounds on their mother’s death—a very comfortable
+about three thousand pounds on their mother’s [[Death|death]]—a very comfortable
 
 fortune for any young woman.”
 
@@ -188,7 +188,7 @@ fortune for any young woman.”
 
 addition at all. They will have ten thousand pounds divided amongst
 
-them. If they marry, they will be sure of doing well, and if they do
+them. If they marry, they will be sure of doing [[Well|well]], and if they do
 
 not, they may all live very comfortably together on the interest of ten
 
@@ -202,7 +202,7 @@ whole, it would not be more advisable to do something for their mother
 
 while she lives, rather than for them—something of the annuity kind I
 
-mean.—My sisters would feel the good effects of it as well as herself.
+mean.—My sisters would feel the good effects of it as [[Well|well]] as herself.
 
 A hundred a year would make them all perfectly comfortable.”
 
@@ -288,7 +288,7 @@ hundred, or even fifty pounds from our own expenses.”
 
 
 
-“I believe you are right, my love; it will be better that there should
+“I believe you are right, my [[Love|love]]; it will be better that there should
 
 be no annuity in the case; whatever I may give them occasionally will
 
@@ -308,7 +308,7 @@ father.”
 
 
 
-“To be sure it will. Indeed, to say the truth, I am convinced within
+“To be sure it will. Indeed, to say the [[Truth|truth]], I am convinced within
 
 myself that your father had no idea of your giving them any money at
 
@@ -316,7 +316,7 @@ all. The assistance he thought of, I dare say, was only such as might
 
 be reasonably expected of you; for instance, such as looking out for a
 
-comfortable small house for them, helping them to move their things,
+comfortable small [[house]] for them, helping them to move their things,
 
 and sending them presents of fish and game, and so forth, whenever they
 
@@ -360,7 +360,7 @@ what you say. I clearly understand it now, and I will strictly fulfil
 
 my engagement by such acts of assistance and kindness to them as you
 
-have described. When my mother removes into another house my services
+have described. When my mother removes into another [[house]] my services
 
 shall be readily given to accommodate her as far as I can. Some little
 
@@ -374,7 +374,7 @@ must be considered. When your father and mother moved to Norland,
 
 though the furniture of Stanhill was sold, all the china, plate, and
 
-linen was saved, and is now left to your mother. Her house will
+linen was saved, and is now left to your mother. Her [[house]] will
 
 therefore be almost completely fitted up as soon as she takes it.”
 
@@ -390,7 +390,7 @@ addition to our own stock here.”
 
 “Yes; and the set of breakfast china is twice as handsome as what
 
-belongs to this house. A great deal too handsome, in my opinion, for
+belongs to this [[house]]. A great deal too handsome, in my opinion, for
 
 any place _they_ can ever afford to live in. But, however, so it is.
 
@@ -398,7 +398,7 @@ Your father thought only of _them_. And I must say this: that you owe
 
 no particular gratitude to him, nor attention to his wishes; for we
 
-very well know that if he could, he would have left almost everything
+very [[Well|well]] know that if he could, he would have left almost everything
 
 in the world to _them_.”
 

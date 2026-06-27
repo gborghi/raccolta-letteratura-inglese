@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 31 (part 4)"
+title: "[[Shirley]] — Chapter 31 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -28,11 +28,11 @@ tags:
 
 "To avow before what altar I now kneel--to reveal the present idol of my
 
-soul----"
+[[Soul|soul]]----"
 
 
 
-"You will make haste about it, if you please. It is near luncheon time,
+"You will make haste about it, if you please. It is near luncheon [[Time|time]],
 
 and confess _you shall_."
 
@@ -64,7 +64,7 @@ sympathy and sentiment, and so on. Did you say it was Mr. Helstone?"
 
 dissimilar--a pair of human falcons--and dry, direct, decided both. But
 
-my hero is the mightier of the two. His mind has the clearness of the
+my [[Hero|hero]] is the mightier of the two. His mind has the clearness of the
 
 deep sea, the patience of its rocks, the force of its billows."
 
@@ -90,7 +90,7 @@ deep sea, the patience of its rocks, the force of its billows."
 
 
 
-"That was well said, uncle. 'Speak, girl!' It is quite tragic. England
+"That was [[Well|well]] said, uncle. 'Speak, girl!' It is quite tragic. England
 
 has howled savagely against this man, uncle, and she will one day roar
 
@@ -116,11 +116,11 @@ tell you his name."
 
 
 
-"Listen! Arthur Wellesley, Lord Wellington."
+"Listen! [[Arthur]] Wellesley, Lord Wellington."
 
 
 
-Mr. Sympson rose up furious. He bounced out of the room, but immediately
+Mr. Sympson [[Rose|rose]] up furious. He bounced out of the room, but immediately
 
 bounced back again, shut the door, and resumed his seat.
 
@@ -198,7 +198,7 @@ I _only_ esteem him."
 
 
 
-"What do you mean? There are certain phrases potent to make my blood
+"What do you mean? There are certain phrases potent to make my [[Blood|blood]]
 
 boil. Improper influence! What old woman's cackle is that?"
 
@@ -262,13 +262,13 @@ ruler in his bearing."
 
 
 
-"She glories in it! She conceals nothing! No shame, no fear!"
+"She glories in it! She conceals nothing! No shame, no [[Fear|fear]]!"
 
 
 
-"When we speak the name of Moore, shame should be forgotten and fear
+"When we speak the name of Moore, shame should be forgotten and [[Fear|fear]]
 
-discarded. The Moores know only honour and courage."
+discarded. The Moores know only [[Honour|honour]] and [[Courage|courage]]."
 
 
 
@@ -276,7 +276,7 @@ discarded. The Moores know only honour and courage."
 
 
 
-"You have taunted me till my blood is up; you have worried me till I
+"You have taunted me till my [[Blood|blood]] is up; you have worried me till I
 
 turn again."
 
@@ -288,7 +288,7 @@ call you sister?"
 
 
 
-Bright and broad shone Shirley's eye as she fixed it on her questioner
+Bright and broad shone [[Shirley]]'s eye as she fixed it on her questioner
 
 now.
 
@@ -306,7 +306,7 @@ now.
 
 
 
-"Mr. Louis Moore's sister you will be."
+"Mr. [[Louis Moore]]'s sister you will be."
 
 
 
@@ -324,7 +324,7 @@ tongue. Let us part."
 
 "It is not," she resumed, much excited--"it is not that I hate you; you
 
-are a good sort of man. Perhaps you mean well in your way. But we cannot
+are a good sort of man. Perhaps you mean [[Well|well]] in your way. But we cannot
 
 suit; we are ever at variance. You annoy me with small meddling, with
 
@@ -336,7 +336,7 @@ prejudices, aversions, dogmas, bundle them off. Mr. Sympson, go, offer
 
 them a sacrifice to the deity you worship; I'll none of them. I wash my
 
-hands of the lot. I walk by another creed, light, faith, and hope than
+hands of the lot. I walk by another creed, light, [[Faith|faith]], and [[Hope|hope]] than
 
 you."
 
@@ -362,7 +362,7 @@ appear to me too superstitious. Sir, your god, your great Bel, your
 
 fish-tailed Dagon, rises before me as a demon. You, and such as you,
 
-have raised him to a throne, put on him a crown, given him a sceptre.
+have raised him to a throne, put on him a [[Crown|crown]], given him a sceptre.
 
 Behold how hideously he governs! See him busied at the work he likes
 

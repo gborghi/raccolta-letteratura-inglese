@@ -18,11 +18,11 @@ CHAPTER VII.
 Monseigneur in Town
 
 
-Monseigneur, one of the great lords in power at the Court, held his
-fortnightly reception in his grand hotel in Paris. Monseigneur was in
+Monseigneur, one of the great lords in power at the [[Court]], held his
+fortnightly reception in his grand hotel in [[Paris]]. Monseigneur was in
 his inner room, his sanctuary of sanctuaries, the Holiest of Holiests to
 the crowd of worshippers in the suite of rooms without. Monseigneur
-was about to take his chocolate. Monseigneur could swallow a great many
+was about to take his chocolate. Monseigneur could [[Swallow|swallow]] a great many
 things with ease, and was by some few sullen minds supposed to be rather
 rapidly swallowing France; but, his morning’s chocolate could not so
 much as get into the throat of Monseigneur, without the aid of four
@@ -41,12 +41,12 @@ place under the admiring Heavens. Deep would have been the blot upon
 his escutcheon if his chocolate had been ignobly waited on by only three
 men; he must have died of two.
 
-Monseigneur had been out at a little supper last night, where the Comedy
+Monseigneur had been out at a little supper last [[Night|night]], where the [[Comedy]]
 and the Grand Opera were charmingly represented. Monseigneur was out at
 a little supper most nights, with fascinating company. So polite and so
-impressible was Monseigneur, that the Comedy and the Grand Opera had far
+impressible was Monseigneur, that the [[Comedy]] and the Grand Opera had far
 more influence with him in the tiresome articles of state affairs and
-state secrets, than the needs of all France. A happy circumstance
+state [[Secrets|secrets]], than the needs of all France. A happy circumstance
 for France, as the like always is for all countries similarly
 favoured!--always was for England (by way of example), in the regretted
 days of the merry Stuart who sold it.
@@ -68,30 +68,30 @@ must consequently let them out to somebody who could; as to finances
 private, because Farmer-Generals were rich, and Monseigneur, after
 generations of great luxury and expense, was growing poor. Hence
 Monseigneur had taken his sister from a convent, while there was yet
-time to ward off the impending veil, the cheapest garment she could
+[[Time|time]] to ward off the impending veil, the cheapest garment she could
 wear, and had bestowed her as a prize upon a very rich Farmer-General,
 poor in family. Which Farmer-General, carrying an appropriate cane with
 a golden apple on the top of it, was now among the company in the outer
 rooms, much prostrated before by mankind--always excepting superior
-mankind of the blood of Monseigneur, who, his own wife included, looked
+mankind of the [[Blood|blood]] of Monseigneur, who, his own wife included, looked
 down upon him with the loftiest contempt.
 
 A sumptuous man was the Farmer-General. Thirty horses stood in his
-stables, twenty-four male domestics sat in his halls, six body-women
+stables, twenty-four male domestics sat in his halls, six [[Body|body]]-women
 waited on his wife. As one who pretended to do nothing but plunder and
 forage where he could, the Farmer-General--howsoever his matrimonial
-relations conduced to social morality--was at least the greatest reality
+relations conduced to social [[morality]]--was at least the greatest reality
 among the personages who attended at the hotel of Monseigneur that day.
 
 For, the rooms, though a beautiful scene to look at, and adorned with
-every device of decoration that the taste and skill of the time could
-achieve, were, in truth, not a sound business; considered with any
+every device of decoration that the taste and skill of the [[Time|time]] could
+achieve, were, in [[Truth|truth]], not a sound business; considered with any
 reference to the scarecrows in the rags and nightcaps elsewhere (and not
 so far off, either, but that the watching towers of Notre Dame, almost
 equidistant from the two extremes, could see them both), they would
 have been an exceedingly uncomfortable business--if that could have
-been anybody’s business, at the house of Monseigneur. Military officers
-destitute of military knowledge; naval officers with no idea of a ship;
+been anybody’s business, at the [[house]] of Monseigneur. Military officers
+destitute of military knowledge; naval officers with no idea of a [[Ship|ship]];
 civil officers without a notion of affairs; brazen ecclesiastics, of the
 worst world worldly, with sensual eyes, loose tongues, and looser lives;
 all totally unfit for their several callings, all lying horribly in
@@ -100,7 +100,7 @@ Monseigneur, and therefore foisted on all public employments from which
 anything was to be got; these were to be told off by the score and the
 score. People not immediately connected with Monseigneur or the State,
 yet equally unconnected with anything that was real, or with lives
-passed in travelling by any straight road to any true earthly end, were
+passed in travelling by any straight [[Road|road]] to any true earthly end, were
 no less abundant. Doctors who made great fortunes out of dainty remedies
 for imaginary disorders that never existed, smiled upon their courtly
 patients in the ante-chambers of Monseigneur. Projectors who had
@@ -112,11 +112,11 @@ Philosophers who were remodelling the world with words, and making
 card-towers of Babel to scale the skies with, talked with Unbelieving
 Chemists who had an eye on the transmutation of metals, at this
 wonderful gathering accumulated by Monseigneur. Exquisite gentlemen of
-the finest breeding, which was at that remarkable time--and has been
+the finest breeding, which was at that remarkable [[Time|time]]--and has been
 since--to be known by its fruits of indifference to every natural
 subject of human interest, were in the most exemplary state of
 exhaustion, at the hotel of Monseigneur. Such homes had these various
-notabilities left behind them in the fine world of Paris, that the spies
+notabilities left behind them in the fine world of [[Paris]], that the spies
 among the assembled devotees of Monseigneur--forming a goodly half
 of the polite company--would have found it hard to discover among
 the angels of that sphere one solitary wife, who, in her manners and

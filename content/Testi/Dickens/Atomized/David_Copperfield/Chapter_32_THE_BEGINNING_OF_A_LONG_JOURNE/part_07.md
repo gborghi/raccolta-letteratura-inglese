@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 32: THE BEGINNING OF A LONG JOURNEY (part 7)"
+title: "[[David Copperfield]] — Chapter 32: THE BEGINNING OF A LONG [[Journey|JOURNEY]] (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -21,8 +21,8 @@ tags:
 ‘He is a deeply-injured man, Miss Dartle,’ I replied. ‘You may not know
 it.’
 
-‘I know that James Steerforth,’ she said, with her hand on her bosom, as
-if to prevent the storm that was raging there, from being loud, ‘has
+‘I know that [[James Steerforth]],’ she said, with her hand on her bosom, as
+if to prevent the [[Storm|storm]] that was raging there, from being loud, ‘has
 a false, corrupt heart, and is a traitor. But what need I know or care
 about this fellow, and his common niece?’
 
@@ -37,12 +37,12 @@ Mr. Peggotty passed on, without a word, and went out at the door.
 ‘Oh, shame, Miss Dartle! shame!’ I said indignantly. ‘How can you bear
 to trample on his undeserved affliction!’
 
-‘I would trample on them all,’ she answered. ‘I would have his house
+‘I would trample on them all,’ she answered. ‘I would have his [[house]]
 pulled down. I would have her branded on the face, dressed in rags,
 and cast out in the streets to starve. If I had the power to sit in
 judgement on her, I would see it done. See it done? I would do it! I
 detest her. If I ever could reproach her with her infamous condition, I
-would go anywhere to do so. If I could hunt her to her grave, I would.
+would go anywhere to do so. If I could hunt her to her [[Grave|grave]], I would.
 If there was any word of comfort that would be a solace to her in her
 dying hour, and only I possessed it, I wouldn’t part with it for Life
 itself.’
@@ -56,9 +56,9 @@ of herself to her anger. I have seen passion in many forms, but I have
 never seen it in such a form as that.
 
 When I joined Mr. Peggotty, he was walking slowly and thoughtfully down
-the hill. He told me, as soon as I came up with him, that having now
-discharged his mind of what he had purposed doing in London, he meant
-‘to set out on his travels’, that night. I asked him where he meant to
+the [[Hill|hill]]. He told me, as soon as I came up with him, that having now
+discharged his mind of what he had purposed doing in [[London]], he meant
+‘to set out on his travels’, that [[Night|night]]. I asked him where he meant to
 go? He only answered, ‘I’m a going, sir, to seek my niece.’
 
 We went back to the little lodging over the chandler’s shop, and there
@@ -70,10 +70,10 @@ thought he had some project shaped out in his mind.
 I did not like to leave him, under such circumstances, and we all three
 dined together off a beefsteak pie--which was one of the many good
 things for which Peggotty was famous--and which was curiously flavoured
-on this occasion, I recollect well, by a miscellaneous taste of tea,
-coffee, butter, bacon, cheese, new loaves, firewood, candles, and walnut
+on this occasion, I recollect [[Well|well]], by a miscellaneous taste of tea,
+coffee, butter, bacon, [[cheese]], new loaves, firewood, candles, and walnut
 ketchup, continually ascending from the shop. After dinner we sat for an
-hour or so near the window, without talking much; and then Mr. Peggotty
+hour or so near the [[Window|window]], without talking much; and then Mr. Peggotty
 got up, and brought his oilskin bag and his stout stick, and laid them
 on the table.
 
@@ -85,25 +85,25 @@ both ‘Good-bye!’
 
 ‘All good attend you, dear old woman,’ he said, embracing Peggotty, ‘and
 you too, Mas’r Davy!’ shaking hands with me. ‘I’m a-going to seek her,
-fur and wide. If she should come home while I’m away--but ah, that ain’t
+fur and wide. If she should come [[Home|home]] while I’m away--but ah, that ain’t
 like to be!--or if I should bring her back, my meaning is, that she
 and me shall live and die where no one can’t reproach her. If any hurt
 should come to me, remember that the last words I left for her was, “My
-unchanged love is with my darling child, and I forgive her!”’
+unchanged [[Love|love]] is with my darling [[Child|child]], and I forgive her!”’
 
 He said this solemnly, bare-headed; then, putting on his hat, he went
 down the stairs, and away. We followed to the door. It was a warm, dusty
-evening, just the time when, in the great main thoroughfare out of which
+evening, just the [[Time|time]] when, in the great main thoroughfare out of which
 that by-way turned, there was a temporary lull in the eternal tread of
-feet upon the pavement, and a strong red sunshine. He turned, alone, at
+feet upon the pavement, and a strong red sunshine. He turned, [[Alone|alone]], at
 the corner of our shady street, into a glow of light, in which we lost
 him.
 
-Rarely did that hour of the evening come, rarely did I wake at night,
-rarely did I look up at the moon, or stars, or watch the falling rain,
-or hear the wind, but I thought of his solitary figure toiling on, poor
-pilgrim, and recalled the words:
+Rarely did that hour of the evening come, rarely did I wake at [[Night|night]],
+rarely did I look up at the [[Moon|moon]], or [[Stars|stars]], or watch the falling rain,
+or hear the [[Wind|wind]], but I thought of his solitary figure toiling on, poor
+[[Pilgrim|pilgrim]], and recalled the words:
 
 ‘I’m a going to seek her, fur and wide. If any hurt should come to me,
-remember that the last words I left for her was, “My unchanged love is
-with my darling child, and I forgive her!”’
+remember that the last words I left for her was, “My unchanged [[Love|love]] is
+with my darling [[Child|child]], and I forgive her!”’

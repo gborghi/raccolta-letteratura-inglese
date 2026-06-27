@@ -18,62 +18,62 @@ CHAPTER I.
 In Secret
 
 
-The traveller fared slowly on his way, who fared towards Paris from
-England in the autumn of the year one thousand seven hundred and
+The traveller fared slowly on his way, who fared towards [[Paris]] from
+England in the [[Autumn|autumn]] of the year one thousand seven hundred and
 ninety-two. More than enough of bad roads, bad equipages, and bad
 horses, he would have encountered to delay him, though the fallen and
-unfortunate King of France had been upon his throne in all his glory;
+unfortunate [[King of France]] had been upon his throne in all his glory;
 but, the changed times were fraught with other obstacles than
-these. Every town-gate and village taxing-house had its band of
+these. Every town-gate and village taxing-[[house]] had its band of
 citizen-patriots, with their national muskets in a most explosive state
-of readiness, who stopped all comers and goers, cross-questioned them,
+of readiness, who stopped all comers and goers, [[Cross|cross]]-questioned them,
 inspected their papers, looked for their names in lists of their own,
 turned them back, or sent them on, or stopped them and laid them in
 hold, as their capricious judgment or fancy deemed best for the dawning
 Republic One and Indivisible, of Liberty, Equality, Fraternity, or
-Death.
+[[Death]].
 
-A very few French leagues of his journey were accomplished, when Charles
+A very few French leagues of his [[Journey|journey]] were accomplished, when Charles
 Darnay began to perceive that for him along these country roads there
-was no hope of return until he should have been declared a good citizen
-at Paris. Whatever might befall now, he must on to his journey’s end.
+was no [[Hope|hope]] of return until he should have been declared a good citizen
+at [[Paris]]. Whatever might befall now, he must on to his [[Journey|journey]]’s end.
 Not a mean village closed upon him, not a common barrier dropped across
-the road behind him, but he knew it to be another iron door in
+the [[Road|road]] behind him, but he knew it to be another iron door in
 the series that was barred between him and England. The universal
 watchfulness so encompassed him, that if he had been taken in a net,
 or were being forwarded to his destination in a cage, he could not have
-felt his freedom more completely gone.
+felt his [[Freedom|freedom]] more completely gone.
 
 This universal watchfulness not only stopped him on the highway twenty
 times in a stage, but retarded his progress twenty times in a day, by
 riding after him and taking him back, riding before him and stopping him
 by anticipation, riding with him and keeping him in charge. He had been
-days upon his journey in France alone, when he went to bed tired out, in
-a little town on the high road, still a long way from Paris.
+days upon his [[Journey|journey]] in France [[Alone|alone]], when he went to bed tired out, in
+a little town on the high [[Road|road]], still a long way from [[Paris]].
 
 Nothing but the production of the afflicted Gabelle’s letter from his
-prison of the Abbaye would have got him on so far. His difficulty at the
-guard-house in this small place had been such, that he felt his journey
+[[Prison|prison]] of the Abbaye would have got him on so far. His difficulty at the
+guard-[[house]] in this small place had been such, that he felt his [[Journey|journey]]
 to have come to a crisis. And he was, therefore, as little surprised as
 a man could be, to find himself awakened at the small inn to which he
-had been remitted until morning, in the middle of the night.
+had been remitted until morning, in the middle of the [[Night|night]].
 
 Awakened by a timid local functionary and three armed patriots in rough
 red caps and with pipes in their mouths, who sat down on the bed.
 
-“Emigrant,” said the functionary, “I am going to send you on to Paris,
+“Emigrant,” said the functionary, “I am going to send you on to [[Paris]],
 under an escort.”
 
-“Citizen, I desire nothing more than to get to Paris, though I could
+“Citizen, I [[Desire|desire]] nothing more than to get to [[Paris]], though I could
 dispense with the escort.”
 
-“Silence!” growled a red-cap, striking at the coverlet with the butt-end
-of his musket. “Peace, aristocrat!”
+“[[Silence]]!” growled a red-cap, striking at the coverlet with the butt-end
+of his musket. “Peace, [[aristocrat]]!”
 
 “It is as the good patriot says,” observed the timid functionary. “You
-are an aristocrat, and must have an escort--and must pay for it.”
+are an [[aristocrat]], and must have an escort--and must pay for it.”
 
-“I have no choice,” said Charles Darnay.
+“I have no choice,” said [[Charles Darnay]].
 
 “Choice! Listen to him!” cried the same scowling red-cap. “As if it was
 not a favour to be protected from the lamp-iron!”
@@ -81,16 +81,16 @@ not a favour to be protected from the lamp-iron!”
 “It is always as the good patriot says,” observed the functionary. “Rise
 and dress yourself, emigrant.”
 
-Darnay complied, and was taken back to the guard-house, where other
+Darnay complied, and was taken back to the guard-[[house]], where other
 patriots in rough red caps were smoking, drinking, and sleeping, by
-a watch-fire. Here he paid a heavy price for his escort, and hence he
-started with it on the wet, wet roads at three o’clock in the morning.
+a watch-[[Fire|fire]]. Here he paid a heavy price for his escort, and hence he
+started with it on the wet, wet roads at three o’[[Clock|clock]] in the morning.
 
 The escort were two mounted patriots in red caps and tri-coloured
 cockades, armed with national muskets and sabres, who rode one on either
 side of him.
 
-The escorted governed his own horse, but a loose line was attached to
+The escorted governed his own [[Horse|horse]], but a loose line was attached to
 his bridle, the end of which one of the patriots kept girded round his
 wrist. In this state they set forth with the sharp rain driving in their
 faces: clattering at a heavy dragoon trot over the uneven town pavement,
@@ -98,13 +98,13 @@ and out upon the mire-deep roads. In this state they traversed without
 change, except of horses and pace, all the mire-deep leagues that lay
 between them and the capital.
 
-They travelled in the night, halting an hour or two after daybreak, and
+They travelled in the [[Night|night]], halting an hour or two after daybreak, and
 lying by until the twilight fell. The escort were so wretchedly clothed,
 that they twisted straw round their bare legs, and thatched their ragged
 shoulders to keep the wet off. Apart from the personal discomfort of
 being so attended, and apart from such considerations of present danger
 as arose from one of the patriots being chronically drunk, and carrying
-his musket very recklessly, Charles Darnay did not allow the restraint
+his musket very recklessly, [[Charles Darnay]] did not allow the restraint
 that was laid upon him to awaken any serious fears in his breast; for,
 he reasoned with himself that it could have no reference to the merits
 of an individual case that was not yet stated, and of representations,
@@ -124,16 +124,16 @@ will?”
 
 “You are a cursed emigrant,” cried a farrier, making at him in a
 furious manner through the press, hammer in hand; “and you are a cursed
-aristocrat!”
+[[aristocrat]]!”
 
 The postmaster interposed himself between this man and the rider’s
 bridle (at which he was evidently making), and soothingly said, “Let him
-be; let him be! He will be judged at Paris.”
+be; let him be! He will be judged at [[Paris]].”
 
 “Judged!” repeated the farrier, swinging his hammer. “Ay! and condemned
 as a traitor.” At this the crowd roared approval.
 
-Checking the postmaster, who was for turning his horse’s head to the
+Checking the postmaster, who was for turning his [[Horse|horse]]’s head to the
 yard (the drunken patriot sat composedly in his saddle looking on, with
 the line round his wrist), Darnay said, as soon as he could make his
 voice heard:

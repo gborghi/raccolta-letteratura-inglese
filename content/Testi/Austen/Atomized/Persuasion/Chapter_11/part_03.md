@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 11 (part 3)"
+title: "[[Persuasion]] — Chapter 11 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -24,7 +24,7 @@ Captain Harville was no reader; but he had contrived excellent
 
 accommodations, and fashioned very pretty shelves, for a tolerable
 
-collection of well-bound volumes, the property of Captain Benwick. His
+collection of [[Well|well]]-bound volumes, the property of [[Captain Benwick]]. His
 
 lameness prevented him from taking much exercise; but a mind of
 
@@ -42,7 +42,7 @@ fishing-net at one corner of the room.
 
 Anne thought she left great happiness behind her when they quitted the
 
-house; and Louisa, by whom she found herself walking, burst forth into
+[[house]]; and Louisa, by whom she found herself walking, burst forth into
 
 raptures of admiration and delight on the character of the navy; their
 
@@ -56,7 +56,7 @@ live, and they only deserved to be respected and loved.
 
 
 
-They went back to dress and dine; and so well had the scheme answered
+They went back to dress and dine; and so [[Well|well]] had the scheme answered
 
 already, that nothing was found amiss; though its being “so entirely
 
@@ -68,9 +68,9 @@ the inn.
 
 
 
-Anne found herself by this time growing so much more hardened to being
+Anne found herself by this [[Time|time]] growing so much more hardened to being
 
-in Captain Wentworth’s company than she had at first imagined could
+in [[Captain Wentworth]]’s company than she had at first imagined could
 
 ever be, that the sitting down to the same table with him now, and the
 
@@ -86,7 +86,7 @@ but Captain Harville had promised them a visit in the evening; and he
 
 came, bringing his friend also, which was more than had been expected,
 
-it having been agreed that Captain Benwick had all the appearance of
+it having been agreed that [[Captain Benwick]] had all the appearance of
 
 being oppressed by the presence of so many strangers. He ventured among
 
@@ -102,23 +102,23 @@ room, and by recurring to former days, supplied anecdotes in abundance
 
 to occupy and entertain the others, it fell to Anne’s lot to be placed
 
-rather apart with Captain Benwick; and a very good impulse of her
+rather apart with [[Captain Benwick]]; and a very good impulse of her
 
-nature obliged her to begin an acquaintance with him. He was shy, and
+[[Nature|nature]] obliged her to begin an acquaintance with him. He was shy, and
 
 disposed to abstraction; but the engaging mildness of her countenance,
 
-and gentleness of her manners, soon had their effect; and Anne was well
+and gentleness of her manners, soon had their effect; and Anne was [[Well|well]]
 
 repaid the first trouble of exertion. He was evidently a young man of
 
 considerable taste in reading, though principally in poetry; and
 
-besides the persuasion of having given him at least an evening’s
+besides the [[Persuasion|persuasion]] of having given him at least an evening’s
 
 indulgence in the discussion of subjects, which his usual companions
 
-had probably no concern in, she had the hope of being of real use to
+had probably no concern in, she had the [[Hope|hope]] of being of real use to
 
 him in some suggestions as to the duty and benefit of struggling
 
@@ -138,7 +138,7 @@ be preferred, and how ranked the _Giaour_ and _The Bride of Abydos;_
 
 and moreover, how the _Giaour_ was to be pronounced, he showed himself
 
-so intimately acquainted with all the tenderest songs of the one poet,
+so intimately acquainted with all the tenderest [[songs]] of the one poet,
 
 and all the impassioned descriptions of hopeless agony of the other; he
 
@@ -146,13 +146,13 @@ repeated, with such tremulous feeling, the various lines which imaged a
 
 broken heart, or a mind destroyed by wretchedness, and looked so
 
-entirely as if he meant to be understood, that she ventured to hope he
+entirely as if he meant to be understood, that she ventured to [[Hope|hope]] he
 
 did not always read only poetry, and to say, that she thought it was
 
 the misfortune of poetry to be seldom safely enjoyed by those who
 
-enjoyed it completely; and that the strong feelings which alone could
+enjoyed it completely; and that the strong feelings which [[Alone|alone]] could
 
 estimate it truly were the very feelings which ought to taste it but
 
@@ -172,7 +172,7 @@ particularize, mentioned such works of our best moralists, such
 
 collections of the finest letters, such memoirs of characters of worth
 
-and suffering, as occurred to her at the moment as calculated to rouse
+and [[Suffering|suffering]], as occurred to her at the moment as calculated to rouse
 
 and fortify the mind by the highest precepts, and the strongest
 
@@ -180,11 +180,11 @@ examples of moral and religious endurances.
 
 
 
-Captain Benwick listened attentively, and seemed grateful for the
+[[Captain Benwick]] listened attentively, and seemed grateful for the
 
 interest implied; and though with a shake of the head, and sighs which
 
-declared his little faith in the efficacy of any books on grief like
+declared his little [[Faith|faith]] in the efficacy of any books on grief like
 
 his, noted down the names of those she recommended, and promised to
 
@@ -194,7 +194,7 @@ procure and read them.
 
 When the evening was over, Anne could not but be amused at the idea of
 
-her coming to Lyme to preach patience and resignation to a young man
+her coming to Lyme to preach patience and [[Resignation|resignation]] to a young man
 
 whom she had never seen before; nor could she help fearing, on more
 

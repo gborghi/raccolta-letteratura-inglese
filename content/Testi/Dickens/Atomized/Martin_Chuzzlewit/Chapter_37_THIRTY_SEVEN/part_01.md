@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 37: THIRTY SEVEN (part 1)"
+title: "[[Martin Chuzzlewit]] — Chapter 37: THIRTY SEVEN (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 CHAPTER THIRTY-SEVEN
 
-TOM PINCH, GOING ASTRAY, FINDS THAT HE IS NOT THE ONLY PERSON IN THAT
+[[Tom Pinch|TOM PINCH]], GOING ASTRAY, FINDS THAT HE IS NOT THE ONLY PERSON IN THAT
 PREDICAMENT. HE RETALIATES UPON A FALLEN FOE
 
 
@@ -26,15 +26,15 @@ country legends as doing a lively retail business in the Metropolis;
 nor did it mark him out as the prey of ring-droppers, pea and
 thimble-riggers, duffers, touters, or any of those bloodless sharpers,
 who are, perhaps, a little better known to the Police. He fell into
-conversation with no gentleman who took him into a public-house, where
+conversation with no gentleman who took him into a public-[[house]], where
 there happened to be another gentleman who swore he had more money than
 any gentleman, and very soon proved he had more money than one gentleman
 by taking his away from him; neither did he fall into any other of
 the numerous man-traps which are set up without notice, in the public
-grounds of this city. But he lost his way. He very soon did that; and in
+grounds of this [[City|city]]. But he lost his way. He very soon did that; and in
 trying to find it again he lost it more and more.
 
-Now, Tom, in his guileless distrust of London, thought himself very
+Now, Tom, in his guileless distrust of [[London]], thought himself very
 knowing in coming to the determination that he would not ask to be
 directed to Furnival’s Inn, if he could help it; unless, indeed, he
 should happen to find himself near the Mint, or the Bank of England; in
@@ -43,18 +43,18 @@ in the perfect respectability of the concern. So on he went, looking up
 all the streets he came near, and going up half of them; and thus,
 by dint of not being true to Goswell Street, and filing off into
 Aldermanbury, and bewildering himself in Barbican, and being constant to
-the wrong point of the compass in London Wall, and then getting himself
+the wrong point of the compass in [[London]] Wall, and then getting himself
 crosswise into Thames Street, by an instinct that would have been
-marvellous if he had had the least desire or reason to go there, he
+marvellous if he had had the least [[Desire|desire]] or reason to go there, he
 found himself, at last, hard by the Monument.
 
 The Man in the Monument was quite as mysterious a being to Tom as the
-Man in the Moon. It immediately occurred to him that the lonely creature
+Man in the [[Moon]]. It immediately occurred to him that the lonely creature
 who held himself aloof from all mankind in that pillar like some old
 hermit was the very man of whom to ask his way. Cold, he might be;
 little sympathy he had, perhaps, with human passion--the column seemed
-too tall for that; but if Truth didn’t live in the base of the Monument,
-notwithstanding Pope’s couplet about the outside of it, where in London
+too tall for that; but if [[Truth]] didn’t live in the base of the Monument,
+notwithstanding Pope’s couplet about the outside of it, where in [[London]]
 (thought Tom) was she likely to be found!
 
 Coming close below the pillar, it was a great encouragement to Tom to
@@ -87,10 +87,10 @@ the money to stop here. Oh, my eye!’
 The Man in the Monument was a Cynic; a worldly man! Tom couldn’t ask his
 way of HIM. He was prepared to put no confidence in anything he said.
 
-‘My gracious!’ cried a well-known voice behind Mr Pinch. ‘Why, to be
+‘My gracious!’ cried a [[Well|well]]-known voice behind Mr Pinch. ‘Why, to be
 sure it is!’
 
-At the same time he was poked in the back by a parasol. Turning round
+At the same [[Time|time]] he was poked in the back by a parasol. Turning round
 to inquire into this salute, he beheld the eldest daughter of his late
 patron.
 
@@ -100,7 +100,7 @@ patron.
 
 ‘I have rather wandered from my way,’ said Tom. ‘I--’
 
-‘I hope you have run away,’ said Charity. ‘It would be quite spirited
+‘I [[Hope|hope]] you have run away,’ said [[Charity]]. ‘It would be quite spirited
 and proper if you had, when my Papa so far forgets himself.’
 
 ‘I have left him,’ returned Tom. ‘But it was perfectly understood on
@@ -108,11 +108,11 @@ both sides. It was not done clandestinely.’
 
 ‘Is he married?’ asked Cherry, with a spasmodic shake of her chin.
 
-‘No, not yet,’ said Tom, colouring; ‘to tell you the truth, I don’t
+‘No, not yet,’ said Tom, colouring; ‘to tell you the [[Truth|truth]], I don’t
 think he is likely to be, if--if Miss Graham is the object of his
 passion.’
 
-‘Tcha, Mr Pinch!’ cried Charity, with sharp impatience, ‘you’re very
+‘Tcha, Mr Pinch!’ cried [[Charity]], with sharp impatience, ‘you’re very
 easily deceived. You don’t know the arts of which such a creature is
 capable. Oh! it’s a wicked world.’
 
@@ -130,21 +130,21 @@ impossible to explain. Won’t you walk in?’
 The great stress on the two last words suggested to Tom that he was
 expected to say something in reference to them. So he said.
 
-‘Only at present! Are you going home again soon?’
+‘Only at present! Are you going [[Home|home]] again soon?’
 
-‘No, Mr Pinch,’ returned Charity. ‘No, thank you. No! A mother-in-law
+‘No, Mr Pinch,’ returned [[Charity]]. ‘No, thank you. No! A mother-in-law
 who is younger than--I mean to say, who is as nearly as possible about
-the same age as one’s self, would not quite suit my spirit. Not quite!’
+the same age as one’s [[Self|self]], would not quite suit my spirit. Not quite!’
 said Cherry, with a spiteful shiver.
 
 ‘I thought from your saying “at present”’--Tom observed.
 
 ‘Really, upon my word! I had no idea you would press me so very closely
-on the subject, Mr Pinch,’ said Charity, blushing, ‘or I should not have
+on the subject, Mr Pinch,’ said [[Charity]], blushing, ‘or I should not have
 been so foolish as to allude to--oh really!--won’t you walk in?’
 
 Tom mentioned, to excuse himself, that he had an appointment in
 Furnival’s Inn, and that coming from Islington he had taken a few wrong
 turnings, and arrived at the Monument instead. Miss Pecksniff simpered
 very much when he asked her if she knew the way to Furnival’s Inn, and
-at length found courage to reply.
+at length found [[Courage|courage]] to reply.

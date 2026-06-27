@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — ENT MILTON could not help wondering a good deal, especially when (part 3)"
+title: "[[FourFaultlessFelons]] — ENT [[Milton|MILTON]] could not help wondering a good deal, especially when (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -32,7 +32,7 @@ conventionally shocked. "Unfortunately for whom?"
 
 
 
-"Unfortunately for you," said his father. There was a painful silence and
+"Unfortunately for you," said his father. There was a painful [[Silence|silence]] and
 
 John Nadoway broke into it in his blundering but unconquerably
 
@@ -44,11 +44,11 @@ good-humoured way.
 
 of games have got to stop. We could pass it off as a practical joke of a
 
-sort, when you did it to us, but even then you frightened Miss Milton,
+sort, when you did it to us, but even then you frightened Miss [[Milton]],
 
-and Mrs. Mowbray is all up in the air. But how the devil are we to keep
+and Mrs. [[Mowbray]] is all up in the air. But how the devil are we to keep
 
-you out of the police-court if you break into the neighbours' houses and
+you out of the police-[[Court|court]] if you break into the neighbours' houses and
 
 leave your cigar-case with a card inside?"
 
@@ -104,13 +104,13 @@ the police? But, by God, you can't be both."
 
 
 
-Alan's eyes roamed round the family house and garden and rested for a
+Alan's eyes roamed round the family [[house]] and [[Garden|garden]] and rested for a
 
 moment on Millicent, with a certain expression of pathos. Then he sat
 
-down on the garden seat again, with his elbows on his knees and buried
+down on the [[Garden|garden]] seat again, with his elbows on his knees and buried
 
-his head in his hands as if he were wrestling in prayer, or at least in
+his head in his hands as if he were wrestling in [[Prayer|prayer]], or at least in
 
 perplexity of spirit. The three other men stood watching him with an
 
@@ -126,13 +126,13 @@ expression.
 
 
 
-"Well," said old Jacob, not without a new note of appeal, "won't you give
+"[[Well]]," said old Jacob, not without a new note of appeal, "won't you give
 
 up all this blackguard burglary business?"
 
 
 
-Alan Nadoway rose. "Yes, father," he said gravely. "Now I come to look at
+Alan Nadoway [[Rose|rose]]. "Yes, father," he said gravely. "Now I come to look at
 
 it seriously, I see you have a right to my promise. I will give up the
 
@@ -142,7 +142,7 @@ burglary business."
 
 "Thank God for that," said his brother Norman, his hard delicate voice
 
-shaken for the first time. "I'm not going to moralize now, but you'll
+shaken for the first [[Time|time]]. "I'm not going to moralize now, but you'll
 
 find there is one thing about any other job you get; it will be one in
 
@@ -152,9 +152,9 @@ which a man need not hide."
 
 "After all, it's a rotten job, burglary," said John with his jerky
 
-attempt at joviality and general reconciliation. "Must be a perfect
+attempt at joviality and general [[Reconciliation|reconciliation]]. "Must be a perfect
 
-nightmare always getting into the wrong house at the wrong end, something
+[[nightmare]] always getting into the wrong [[house]] at the wrong end, something
 
 like putting on your trousers upside down. It'll pay you better really,
 
@@ -168,7 +168,7 @@ sort of hampering complication about the life; learning the whereabouts
 
 of treasures and so on. No, I am going to turn over a new leaf. I am
 
-going to reform and go into a different line of life altogether. A
+going to [[Reform|reform]] and go into a different line of life altogether. A
 
 simpler, more straightforward line. I am told that picking pockets is
 
@@ -184,7 +184,7 @@ faces were turned towards him with an incredulous stare.
 
 "A friend of mine down Lambeth way," said Alan, "does most frightfully
 
-well with people coming out of tube stations and so on. Of course,
+[[Well|well]] with people coming out of tube stations and so on. Of course,
 
 they're much poorer than the people who own all these safes and jewels
 
@@ -198,11 +198,11 @@ awfully nifty with his fingers. I reckon I can learn the knack."
 
 
 
-There was a startled silence and then Norman said in a controlled voice:
+There was a startled [[Silence|silence]] and then Norman said in a controlled voice:
 
 "It would be of some importance to me to know that this is a joke. I will
 
-risk my reputation for humour."
+risk my reputation for [[Humour|humour]]."
 
 
 
@@ -216,21 +216,21 @@ offer me."
 
 "Then you can follow it to jail!" said the old man, and his voice rang
 
-out in the garden like a gun announcing sunset. "Clear out of this place
+out in the [[Garden|garden]] like a gun announcing sunset. "Clear out of this place
 
-in three minutes and I will not call the policeman down the road."
+in three minutes and I will not call the policeman down the [[Road|road]]."
 
 
 
 And with that he turned his back and strode away followed by his other
 
-sons, and Alan remained standing alone by the garden seat, and he might
+sons, and Alan remained standing [[Alone|alone]] by the [[Garden|garden]] seat, and he might
 
-have been a statue in the garden.
+have been a statue in the [[Garden|garden]].
 
 
 
-The garden indeed had grown more still, and in a manner grey and
+The [[Garden|garden]] indeed had grown more still, and in a manner grey and
 
 statuesque, with the creeping advance of twilight, and something of its
 
@@ -238,23 +238,23 @@ too florid character was veiled by dusk and damp vapours beginning to
 
 rise from the surrounding meadows, though overhead the sky was clear and
 
-beginning to show the points of stars in the general greyness. The points
+beginning to show the points of [[Stars|stars]] in the general greyness. The points
 
 brightened and the dusk sank deeper and deeper, and it did not seem for
 
-the moment that the two human statues left in the garden would move. Then
+the moment that the two human statues left in the [[Garden|garden]] would move. Then
 
 the woman moved very swiftly, walking straight across the lawn to where
 
-the man stood by the garden seat, and in that greater gravity and
+the man stood by the [[Garden|garden]] seat, and in that greater gravity and
 
 stillness he became conscious of the last incongruity. Her face, which
 
-was commonly very grave, was puckered with derision, like that of an elf.
+was commonly very [[Grave|grave]], was puckered with derision, like that of an elf.
 
 
 
-"Well," she said, "you've done it now."
+"[[Well]]," she said, "you've done it now."
 
 
 
@@ -294,23 +294,23 @@ last finishing touch that spoils a work of art."
 
 
 
-"Well, won't you tell me?" she inquired with a certain brightness.
+"[[Well]], won't you tell me?" she inquired with a certain brightness.
 
 
 
-After a strained silence he said with a curious intonation, "I would do
+After a strained [[Silence|silence]] he said with a curious intonation, "I would do
 
 anything for you."
 
 
 
-"Well," she answered, "everybody knows that the curse of my sex is
+"[[Well]]," she answered, "everybody knows that the curse of my sex is
 
 curiosity."
 
 
 
-He buried his head in his hands and after a silence said with a great
+He buried his head in his hands and after a [[Silence|silence]] said with a great
 
 groan: "Amor Vincit Omnia."
 
@@ -320,4 +320,4 @@ A moment or two later he lifted his head again and began to talk, and her
 
 eyes grew starry with astonishment as she stood and listened under the
 
-stars.
+[[Stars|stars]].

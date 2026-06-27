@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 14 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 14 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -15,8 +15,8 @@ tags:
 
 
 Newman cast a despairing glance at his small store of fuel, but, not
-having the courage to say no--a word which in all his life he never had
-said at the right time, either to himself or anyone else--gave way to
+having the [[Courage|courage]] to say no--a word which in all his life he never had
+said at the right [[Time|time]], either to himself or anyone else--gave way to
 the proposed arrangement. Mr. Crowl immediately went about making himself
 as comfortable, with Newman Nogg’s means, as circumstances would admit
 of his being made.
@@ -27,7 +27,7 @@ turner in ivory, who was looked upon as a person of some consideration
 on the premises, inasmuch as he occupied the whole of the first floor,
 comprising a suite of two rooms. Mrs. Kenwigs, too, was quite a lady in
 her manners, and of a very genteel family, having an uncle who collected
-a water-rate; besides which distinction, the two eldest of her little
+a [[Water|water]]-rate; besides which distinction, the two eldest of her little
 girls went twice a week to a dancing school in the neighbourhood, and
 had flaxen hair, tied with blue ribbons, hanging in luxuriant pigtails
 down their backs; and wore little white trousers with frills round the
@@ -42,8 +42,8 @@ grateful commemoration of the same, Mrs. Kenwigs had invited a few select
 friends to cards and a supper in the first floor, and had put on a new
 gown to receive them in: which gown, being of a flaming colour and made
 upon a juvenile principle, was so successful that Mr. Kenwigs said the
-eight years of matrimony and the five children seemed all a dream, and
-Mrs. Kenwigs younger and more blooming than on the very first Sunday he
+eight years of matrimony and the five children seemed all [[A Dream|a dream]], and
+Mrs. Kenwigs younger and more blooming than on the very first [[Sunday]] he
 had kept company with her.
 
 Beautiful as Mrs. Kenwigs looked when she was dressed though, and so
@@ -51,7 +51,7 @@ stately that you would have supposed she had a cook and housemaid
 at least, and nothing to do but order them about, she had a world
 of trouble with the preparations; more, indeed, than she, being of a
 delicate and genteel constitution, could have sustained, had not the
-pride of housewifery upheld her. At last, however, all the things that
+[[Pride|pride]] of housewifery upheld her. At last, however, all the things that
 had to be got together were got together, and all the things that had to
 be got out of the way were got out of the way, and everything was ready,
 and the collector himself having promised to come, fortune smiled upon
@@ -69,15 +69,15 @@ young lady, was a young man, who had known Mr. Kenwigs when he was a
 bachelor, and was much esteemed by the ladies, as bearing the reputation
 of a rake. To these were added a newly-married couple, who had visited
 Mr. and Mrs. Kenwigs in their courtship; and a sister of Mrs. Kenwigs’s,
-who was quite a beauty; besides whom, there was another young man,
+who was quite a [[Beauty|beauty]]; besides whom, there was another young man,
 supposed to entertain honourable designs upon the lady last mentioned;
 and Mr. Noggs, who was a genteel person to ask, because he had been a
 gentleman once. There were also an elderly lady from the back-parlour,
 and one more young lady, who, next to the collector, perhaps was the
-great lion of the party, being the daughter of a theatrical fireman, who
+great [[Lion|lion]] of the party, being the daughter of a theatrical fireman, who
 ‘went on’ in the pantomime, and had the greatest turn for the stage that
 was ever known, being able to sing and recite in a manner that brought
-the tears into Mrs. Kenwigs’s eyes. There was only one drawback upon
+the [[Tears|tears]] into Mrs. Kenwigs’s eyes. There was only one drawback upon
 the pleasure of seeing such friends, and that was, that the lady in
 the back-parlour, who was very fat, and turned of sixty, came in a
 low book-muslin dress and short kid gloves, which so exasperated Mrs
@@ -105,7 +105,7 @@ creature as ever breathed.’
 
 ‘The kindest-hearted man as ever was,’ said Kenwigs.
 
-‘It goes to his heart, I believe, to be forced to cut the water off,
+‘It goes to his heart, I believe, to be forced to cut the [[Water|water]] off,
 when the people don’t pay,’ observed the bachelor friend, intending a
 joke.
 
@@ -120,6 +120,6 @@ be sneered at--it is the fault of his elewated sitiwation, and not of
 himself. Mrs. Kenwigs’s relation is a public man, and that he knows,
 George, and that he can bear; but putting Mrs. Kenwigs out of the
 question (if I COULD put Mrs. Kenwigs out of the question on such an
-occasion as this), I have the honour to be connected with the collector
-by marriage; and I cannot allow these remarks in my--’ Mr. Kenwigs was
-going to say ‘house,’ but he rounded the sentence with ‘apartments’.
+occasion as this), I have the [[Honour|honour]] to be connected with the collector
+by [[Marriage|marriage]]; and I cannot allow these remarks in my--’ Mr. Kenwigs was
+going to say ‘[[house]],’ but he rounded the sentence with ‘apartments’.

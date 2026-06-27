@@ -14,14 +14,14 @@ tags:
 </nav>
 
 
-Presently, Edward stopped at a gateway, and Wegg discreetly lost no time
+Presently, Edward stopped at a gateway, and Wegg discreetly lost no [[Time|time]]
 in slipping out at the back of the truck. The moment he was landed, his
 late driver with a wave of the carrot, said ‘Supper, Eddard!’ and he,
 the hind hoofs, the truck, and Edward, all seemed to fly into the air
 together, in a kind of apotheosis.
 
 Pushing the gate, which stood ajar, Wegg looked into an enclosed space
-where certain tall dark mounds rose high against the sky, and where the
+where certain tall dark mounds [[Rose|rose]] high against the sky, and where the
 pathway to the Bower was indicated, as the moonlight showed, between two
 lines of broken crockery set in ashes. A white figure advancing along
 this path, proved to be nothing more ghostly than Mr Boffin, easily
@@ -37,17 +37,17 @@ make is such, that she does it credit. As to myself I ain’t yet as
 Fash’nable as I may come to be. Henerietty, old lady, this is the
 gentleman that’s a going to decline and fall off the Rooshan Empire.’
 
-‘And I am sure I hope it’ll do you both good,’ said Mrs Boffin.
+‘And I am sure I [[Hope|hope]] it’ll do you both good,’ said Mrs Boffin.
 
 It was the queerest of rooms, fitted and furnished more like a luxurious
-amateur tap-room than anything else within the ken of Silas Wegg. There
-were two wooden settles by the fire, one on either side of it, with
+amateur tap-room than anything else within the ken of [[Silas Wegg]]. There
+were two wooden settles by the [[Fire|fire]], one on either side of it, with
 a corresponding table before each. On one of these tables, the eight
 volumes were ranged flat, in a row, like a galvanic battery; on the
 other, certain squat case-bottles of inviting appearance seemed to stand
 on tiptoe to exchange glances with Mr Wegg over a front row of tumblers
 and a basin of white sugar. On the hob, a kettle steamed; on the hearth,
-a cat reposed. Facing the fire between the settles, a sofa, a footstool,
+a cat reposed. Facing the [[Fire|fire]] between the settles, a sofa, a footstool,
 and a little table, formed a centrepiece devoted to Mrs Boffin.
 They were garish in taste and colour, but were expensive articles of
 drawing-room furniture that had a very odd look beside the settles
@@ -56,13 +56,13 @@ carpet on the floor; but, instead of reaching to the fireside, its
 glowing vegetation stopped short at Mrs Boffin’s footstool, and gave
 place to a region of sand and sawdust. Mr Wegg also noticed, with
 admiring eyes, that, while the flowery land displayed such hollow
-ornamentation as stuffed birds and waxen fruits under glass-shades,
+ornamentation as stuffed [[Birds|birds]] and waxen fruits under glass-shades,
 there were, in the territory where vegetation ceased, compensatory
 shelves on which the best part of a large pie and likewise of a cold
 joint were plainly discernible among other solids. The room itself was
 large, though low; and the heavy frames of its old-fashioned windows,
 and the heavy beams in its crooked ceiling, seemed to indicate that it
-had once been a house of some mark standing alone in the country.
+had once been a [[house]] of some mark standing [[Alone|alone]] in the country.
 
 ‘Do you like it, Wegg?’ asked Mr Boffin, in his pouncing manner.
 
@@ -79,16 +79,16 @@ when the other cut him short:
 is made by mutual consent between Mrs Boffin and me. Mrs Boffin, as I’ve
 mentioned, is a highflyer at Fashion; at present I’m not. I don’t go
 higher than comfort, and comfort of the sort that I’m equal to the
-enjoyment of. Well then. Where would be the good of Mrs Boffin and me
+enjoyment of. [[Well]] then. Where would be the good of Mrs Boffin and me
 quarrelling over it? We never did quarrel, before we come into Boffin’s
 Bower as a property; why quarrel when we HAVE come into Boffin’s Bower
 as a property? So Mrs Boffin, she keeps up her part of the room, in her
 way; I keep up my part of the room in mine. In consequence of which
-we have at once, Sociability (I should go melancholy mad without Mrs
+we have at once, Sociability (I should go [[Melancholy|melancholy]] mad without Mrs
 Boffin), Fashion, and Comfort. If I get by degrees to be a higher-flyer
 at Fashion, then Mrs Boffin will by degrees come for’arder. If Mrs
 Boffin should ever be less of a dab at Fashion than she is at the
-present time, then Mrs Boffin’s carpet would go back’arder. If we should
+present [[Time|time]], then Mrs Boffin’s carpet would go back’arder. If we should
 both continny as we are, why then HERE we are, and give us a kiss, old
 lady.’
 
@@ -107,13 +107,13 @@ there’s a view of the neighbouring premises, not to be surpassed. The
 premises of Mrs Boffin’s late father (Canine Provision Trade), you look
 down into, as if they was your own. And the top of the High Mound is
 crowned with a lattice-work Arbour, in which, if you don’t read out loud
-many a book in the summer, ay, and as a friend, drop many a time into
+many a book in the [[Summer|summer]], ay, and as a friend, drop many a [[Time|time]] into
 poetry too, it shan’t be my fault. Now, what’ll you read on?’
 
 ‘Thank you, sir,’ returned Wegg, as if there were nothing new in his
-reading at all. ‘I generally do it on gin and water.’
+reading at all. ‘I generally do it on gin and [[Water|water]].’
 
-‘Keeps the organ moist, does it, Wegg?’ asked Mr Boffin, with innocent
+‘Keeps the organ moist, does it, Wegg?’ asked Mr Boffin, with [[Innocent|innocent]]
 eagerness.
 
 ‘N-no, sir,’ replied Wegg, coolly, ‘I should hardly describe it so, sir.

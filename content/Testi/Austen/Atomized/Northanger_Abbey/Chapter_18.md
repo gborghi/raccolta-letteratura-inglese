@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 17"
+title: "[[Northanger Abbey]] — Chapter 17"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -22,7 +22,7 @@ CHAPTER 17
 
 The Allens had now entered on the sixth week of their stay in Bath; and
 
-whether it should be the last was for some time a question, to which
+whether it should be the last was for some [[Time|time]] a question, to which
 
 Catherine listened with a beating heart. To have her acquaintance with
 
@@ -34,7 +34,7 @@ and everything secured when it was determined that the lodgings should
 
 be taken for another fortnight. What this additional fortnight was to
 
-produce to her beyond the pleasure of sometimes seeing Henry Tilney
+produce to her beyond the pleasure of sometimes seeing [[Henry Tilney]]
 
 made but a small part of Catherine’s speculation. Once or twice indeed,
 
@@ -74,9 +74,9 @@ of another week!”
 
 think a fair trial. He has been disappointed of some friends’ arrival
 
-whom he expected to meet here, and as he is now pretty well, is in a
+whom he expected to meet here, and as he is now pretty [[Well|well]], is in a
 
-hurry to get home.”
+hurry to get [[Home|home]].”
 
 
 
@@ -94,11 +94,11 @@ good—it would make me very happy if—”
 
 The entrance of her father put a stop to the civility, which Catherine
 
-was beginning to hope might introduce a desire of their corresponding.
+was beginning to [[Hope|hope]] might introduce a [[Desire|desire]] of their corresponding.
 
 After addressing her with his usual politeness, he turned to his
 
-daughter and said, “Well, Eleanor, may I congratulate you on being
+daughter and said, “[[Well]], [[Eleanor]], may I congratulate you on being
 
 successful in your application to your fair friend?”
 
@@ -108,17 +108,17 @@ successful in your application to your fair friend?”
 
 
 
-“Well, proceed by all means. I know how much your heart is in it. My
+“[[Well]], proceed by all means. I know how much your heart is in it. My
 
 daughter, Miss Morland,” he continued, without leaving his daughter
 
-time to speak, “has been forming a very bold wish. We leave Bath, as
+[[Time|time]] to speak, “has been forming a very bold wish. We leave Bath, as
 
 she has perhaps told you, on Saturday se’nnight. A letter from my
 
-steward tells me that my presence is wanted at home; and being
+steward tells me that my presence is wanted at [[Home|home]]; and being
 
-disappointed in my hope of seeing the Marquis of Longtown and General
+disappointed in my [[Hope|hope]] of seeing the Marquis of Longtown and General
 
 Courteney here, some of my very old friends, there is nothing to detain
 
@@ -128,15 +128,15 @@ should leave it without a single regret. Can you, in short, be
 
 prevailed on to quit this scene of public triumph and oblige your
 
-friend Eleanor with your company in Gloucestershire? I am almost
+friend [[Eleanor]] with your company in Gloucestershire? I am almost
 
 ashamed to make the request, though its presumption would certainly
 
 appear greater to every creature in Bath than yourself. Modesty such as
 
-yours—but not for the world would I pain it by open praise. If you can
+yours—but not for the world would I [[Pain|pain]] it by open praise. If you can
 
-be induced to honour us with a visit, you will make us happy beyond
+be induced to [[Honour|honour]] us with a visit, you will make us happy beyond
 
 expression. ’Tis true, we can offer you nothing like the gaieties of
 
@@ -144,13 +144,13 @@ this lively place; we can tempt you neither by amusement nor splendour,
 
 for our mode of living, as you see, is plain and unpretending; yet no
 
-endeavours shall be wanting on our side to make Northanger Abbey not
+endeavours shall be wanting on our side to make [[Northanger Abbey]] not
 
 wholly disagreeable.”
 
 
 
-Northanger Abbey! these were thrilling words, and wound up Catherine’s
+[[Northanger Abbey]]! these were thrilling words, and wound up Catherine’s
 
 feelings to the highest point of ecstasy. Her grateful and gratified
 
@@ -160,23 +160,23 @@ tolerable calmness. To receive so flattering an invitation! to have her
 
 company so warmly solicited! everything honourable and soothing, every
 
-present enjoyment, and every future hope was contained in it; and her
+present enjoyment, and every future [[Hope|hope]] was contained in it; and her
 
 acceptance, with only the saving clause of Papa and Mamma’s
 
-approbation, was eagerly given. “I will write home directly,” said she,
+approbation, was eagerly given. “I will write [[Home|home]] directly,” said she,
 
 “and if they do not object, as I dare say they will not—”
 
 
 
-General Tilney was not less sanguine, having already waited on her
+[[General Tilney]] was not less sanguine, having already waited on her
 
 excellent friends in Pulteney Street, and obtained their sanction of
 
 his wishes. “Since they can consent to part with you,” said he, “we may
 
-expect philosophy from all the world.”
+expect [[philosophy]] from all the world.”
 
 
 
@@ -194,13 +194,13 @@ the varieties of suspense, security, and disappointment; but they were
 
 now safely lodged in perfect bliss; and with spirits elated to rapture,
 
-with Henry at her heart, and Northanger Abbey on her lips, she hurried
+with Henry at her heart, and [[Northanger Abbey]] on her lips, she hurried
 
-home to write her letter. Mr. and Mrs. Morland, relying on the
+[[Home|home]] to write her letter. Mr. and Mrs. Morland, relying on the
 
 discretion of the friends to whom they had already entrusted their
 
-daughter, felt no doubt of the propriety of an acquaintance which had
+daughter, felt no [[Doubt|doubt]] of the propriety of an acquaintance which had
 
 been formed under their eye, and sent therefore by return of post their
 
@@ -220,7 +220,7 @@ her. Her feelings, her preferences, had each known the happiness of a
 
 return. Wherever she felt attachment, she had been able to create it.
 
-The affection of Isabella was to be secured to her in a sister. The
+The affection of [[Isabella]] was to be secured to her in a sister. The
 
 Tilneys, they, by whom, above all, she desired to be favourably thought
 
@@ -234,7 +234,7 @@ society she mostly prized—and, in addition to all the rest, this roof
 
 was to be the roof of an abbey! her passion for ancient edifices was
 
-next in degree to her passion for Henry Tilney—and castles and abbeys
+next in degree to her passion for [[Henry Tilney]]—and castles and abbeys
 
 made usually the charm of those reveries which his image did not fill.
 
@@ -244,15 +244,15 @@ cloisters of the other, had been for many weeks a darling wish, though
 
 to be more than the visitor of an hour had seemed too nearly impossible
 
-for desire. And yet, this was to happen. With all the chances against
+for [[Desire|desire]]. And yet, this was to happen. With all the chances against
 
-her of house, hall, place, park, court, and cottage, Northanger turned
+her of [[house]], hall, place, park, [[Court|court]], and cottage, Northanger turned
 
 up an abbey, and she was to be its inhabitant. Its long, damp passages,
 
 its narrow cells and ruined chapel, were to be within her daily reach,
 
-and she could not entirely subdue the hope of some traditional legends,
+and she could not entirely subdue the [[Hope|hope]] of some traditional legends,
 
 some awful memorials of an injured and ill-fated nun.
 
@@ -260,11 +260,11 @@ some awful memorials of an injured and ill-fated nun.
 
 It was wonderful that her friends should seem so little elated by the
 
-possession of such a home, that the consciousness of it should be so
+possession of such a [[Home|home]], that the consciousness of it should be so
 
 meekly borne. The power of early habit only could account for it. A
 
-distinction to which they had been born gave no pride. Their
+distinction to which they had been born gave no [[Pride|pride]]. Their
 
 superiority of abode was no more to them than their superiority of
 
@@ -276,9 +276,9 @@ Many were the inquiries she was eager to make of Miss Tilney; but so
 
 active were her thoughts, that when these inquiries were answered, she
 
-was hardly more assured than before, of Northanger Abbey having been a
+was hardly more assured than before, of [[Northanger Abbey]] having been a
 
-richly endowed convent at the time of the Reformation, of its having
+richly endowed convent at the [[Time|time]] of the [[Reformation]], of its having
 
 fallen into the hands of an ancestor of the Tilneys on its dissolution,
 

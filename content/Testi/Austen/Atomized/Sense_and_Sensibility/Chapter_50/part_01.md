@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 50 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 50 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -66,7 +66,7 @@ nobleman with thirty thousand pounds, while Miss Dashwood was only the
 
 daughter of a private gentleman with no more than _three;_ but when she
 
-found that, though perfectly admitting the truth of her representation,
+found that, though perfectly admitting the [[Truth|truth]] of her representation,
 
 he was by no means inclined to be guided by it, she judged it wisest,
 
@@ -76,7 +76,7 @@ ungracious delay as she owed to her own dignity, and as served to
 
 prevent every suspicion of good-will, she issued her decree of consent
 
-to the marriage of Edward and Elinor.
+to the [[Marriage|marriage]] of Edward and Elinor.
 
 
 
@@ -110,11 +110,11 @@ With an income quite sufficient to their wants thus secured to them,
 
 they had nothing to wait for after Edward was in possession of the
 
-living, but the readiness of the house, to which Colonel Brandon, with
+living, but the readiness of the [[house]], to which [[Colonel Brandon]], with
 
-an eager desire for the accommodation of Elinor, was making
+an eager [[Desire|desire]] for the accommodation of Elinor, was making
 
-considerable improvements; and after waiting some time for their
+considerable improvements; and after waiting some [[Time|time]] for their
 
 completion, after experiencing, as usual, a thousand disappointments
 
@@ -124,13 +124,13 @@ as usual, broke through the first positive resolution of not marrying
 
 till every thing was ready, and the ceremony took place in Barton
 
-church early in the autumn.
+church early in the [[Autumn|autumn]].
 
 
 
-The first month after their marriage was spent with their friend at the
+The first month after their [[Marriage|marriage]] was spent with their friend at the
 
-Mansion-house; from whence they could superintend the progress of the
+Mansion-[[house]]; from whence they could superintend the progress of the
 
 Parsonage, and direct every thing as they liked on the spot;—could
 
@@ -144,7 +144,7 @@ Michaelmas, and she found in Elinor and her husband, as she really
 
 believed, one of the happiest couples in the world. They had in fact
 
-nothing to wish for, but the marriage of Colonel Brandon and Marianne,
+nothing to wish for, but the [[Marriage|marriage]] of [[Colonel Brandon]] and Marianne,
 
 and rather better pasturage for their cows.
 
@@ -156,7 +156,7 @@ and friends. Mrs. Ferrars came to inspect the happiness which she was
 
 almost ashamed of having authorised; and even the Dashwoods were at the
 
-expense of a journey from Sussex to do them honour.
+expense of a [[Journey|journey]] from Sussex to do them [[Honour|honour]].
 
 
 
@@ -164,13 +164,13 @@ expense of a journey from Sussex to do them honour.
 
 they were walking together one morning before the gates of Delaford
 
-House, “_that_ would be saying too much, for certainly you have been
+[[house|House]], “_that_ would be saying too much, for certainly you have been
 
 one of the most fortunate young women in the world, as it is. But, I
 
-confess, it would give me great pleasure to call Colonel Brandon
+confess, it would give me great pleasure to call [[Colonel Brandon]]
 
-brother. His property here, his place, his house, every thing is in
+brother. His property here, his place, his [[house]], every thing is in
 
 such respectable and excellent condition! And his woods,—I have not
 
@@ -182,13 +182,13 @@ person to attract him, yet I think it would altogether be advisable for
 
 you to have them now frequently staying with you, for as Colonel
 
-Brandon seems a great deal at home, nobody can tell what may happen;
+Brandon seems a great deal at [[Home|home]], nobody can tell what may happen;
 
 for, when people are much thrown together, and see little of anybody
 
 else,—and it will always be in your power to set her off to advantage,
 
-and so forth. In short, you may as well give her a chance: you
+and so forth. In short, you may as [[Well|well]] give her a chance: you
 
 understand me.”
 
@@ -206,7 +206,7 @@ months had passed away. The selfish sagacity of the latter, which had
 
 at first drawn Robert into the scrape, was the principal instrument of
 
-his deliverance from it; for her respectful humility, assiduous
+his deliverance from it; for her respectful [[Humility|humility]], assiduous
 
 attentions, and endless flatteries, as soon as the smallest opening was
 

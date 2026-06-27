@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 21 (part 2)"
+title: "[[Shirley]] — Chapter 21 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -58,13 +58,13 @@ indeed, for _you_ to act so as to avoid offending them. But Mr. Moore
 
 came a stranger into the district; he came here poor and friendless,
 
-with nothing but his own energies to back him, nothing but his honour,
+with nothing but his own energies to back him, nothing but his [[Honour|honour]],
 
 his talent, and his industry to make his way for him. A monstrous crime
 
 indeed that, under such circumstances, he could not popularize his
 
-naturally grave, quiet manners all at once; could not be jocular, and
+naturally [[Grave|grave]], quiet manners all at once; could not be jocular, and
 
 free, and cordial with a strange peasantry, as you are with your
 
@@ -90,13 +90,13 @@ one against two hundred?"
 
 "Come, come now, be cool," said Mr. Yorke, smiling at the earnestness
 
-with which Shirley multiplied her rapid questions.
+with which [[Shirley]] multiplied her rapid questions.
 
 
 
 "Cool! Must I listen coolly to downright nonsense--to dangerous
 
-nonsense? No. I like you very well, Mr. Yorke, as you know, but I
+nonsense? No. I like you very [[Well|well]], Mr. Yorke, as you know, but I
 
 thoroughly dislike some of your principles. All that cant--excuse me,
 
@@ -104,7 +104,7 @@ but I repeat the word--all that _cant_ about soldiers and parsons is
 
 most offensive in my ears. All ridiculous, irrational crying up of one
 
-class, whether the same be aristocrat or democrat--all howling down of
+class, whether the same be [[aristocrat]] or democrat--all howling down of
 
 another class, whether clerical or military--all exacting injustice to
 
@@ -118,25 +118,25 @@ are a philanthropist; _you_ think you are an advocate of liberty; but I
 
 will tell you this--Mr. Hall, the parson of Nunnely, is a better friend
 
-both of man and freedom than Hiram Yorke, the reformer of Briarfield."
+both of man and [[Freedom|freedom]] than Hiram Yorke, the reformer of Briarfield."
 
 
 
 From a man Mr. Yorke would not have borne this language very patiently,
 
-nor would he have endured it from some women; but he accounted Shirley
+nor would he have endured it from some women; but he accounted [[Shirley]]
 
 both honest and pretty, and her plain-spoken ire amused him. Besides, he
 
 took a secret pleasure in hearing her defend her tenant, for we have
 
-already intimated he had Robert Moore's interest very much at heart.
+already intimated he had [[Robert Moore]]'s interest very much at heart.
 
 Moreover, if he wished to avenge himself for her severity, he knew the
 
 means lay in his power: a word, he believed, would suffice to tame and
 
-silence her, to cover her frank forehead with the rosy shadow of shame,
+[[Silence|silence]] her, to cover her frank forehead with the rosy [[Shadow|shadow]] of shame,
 
 and veil the glow of her eye under down-drooped lid and lash.
 
@@ -166,7 +166,7 @@ intended to be acted on. Make you Prime Minister of England to-morrow,
 
 and you would have to abandon them. You abuse Moore for defending his
 
-mill. Had you been in Moore's place you could not with honour or sense
+mill. Had you been in Moore's place you could not with [[Honour|honour]] or sense
 
 have acted otherwise than he acted. You abuse Mr. Helstone for
 
@@ -178,7 +178,7 @@ would find it no easy task to sustain all the active schemes for the
 
 benefit of the parish planned and persevered in by your predecessor. I
 
-wonder people cannot judge more fairly of each other and themselves.
+[[Wonder|wonder]] people cannot judge more fairly of each other and themselves.
 
 When I hear Messrs. Malone and Donne chatter about the authority of the
 
@@ -196,7 +196,7 @@ carriage to the poor, their often base servility to the rich--I think
 
 the Establishment is indeed in a poor way, and both she and her sons
 
-appear in the utmost need of reformation. Turning away distressed from
+appear in the utmost need of [[Reformation|reformation]]. Turning away distressed from
 
 minster tower and village spire--ay, as distressed as a churchwarden who
 

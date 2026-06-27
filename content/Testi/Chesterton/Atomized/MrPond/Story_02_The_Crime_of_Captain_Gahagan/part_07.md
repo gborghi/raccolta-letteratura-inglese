@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Crime of Captain Gahagan (part 7)"
+title: "[[MrPond]] — The Crime of Captain Gahagan (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -22,7 +22,7 @@ was not an advertisement, as it would be for Violet Varney.  She
 
 had really the stronger motive of the two . . . but, good God, this
 
-would never do!  Suppose Gahagan really was innocent--but at that
+would never do!  Suppose Gahagan really was [[Innocent|innocent]]--but at that
 
 price!  Whatever his weaknesses, he was just the man to be hanged
 
@@ -38,17 +38,17 @@ what was there against Gahagan or the widow?  It seemed to him, as
 
 he forced himself to colder considerations, that it really resolved
 
-itself into a matter of time.
+itself into a matter of [[Time|time]].
 
 
 
-Gahagan had certainly spent a huge amount of TIME with Olivia; that
+Gahagan had certainly spent a huge amount of [[Time|TIME]] with [[Olivia]]; that
 
 was really the only external proof of his passion for her.  The
 
 proofs of his passion for Joan were very external indeed.  Pond
 
-could have sworn that the Irishman was really in love with Joan.
+could have sworn that the Irishman was really in [[Love|love]] with Joan.
 
 He threw himself at her head; and she, on the accepted standards of
 
@@ -56,9 +56,9 @@ modern youth, threw herself back at him.  But these encounters, one
 
 might say collisions, were as brief as they were brilliant.  Why
 
-did a lover full of such triumphs want to go off and spend such a
+did a [[Lover|lover]] full of such triumphs want to go off and spend such a
 
-lot of TIME with a much older woman? . . .  These broodings had
+lot of [[Time|TIME]] with a much older woman? . . .  These broodings had
 
 turned him into an automaton and brought him unconsciously past the
 
@@ -66,11 +66,11 @@ servants and up the stairs and into the very room where he was
 
 asked to wait for Mrs. Feversham.  He nervously picked up an old
 
-battered book, apparently dating from the time when the actress was
+battered book, apparently dating from the [[Time|time]] when the actress was
 
 a schoolgirl, for the flyleaf showed in a very schoolgirl hand:
 
-"Olivia Malone."  Perhaps the great Shakespearian actress claimed
+"[[Olivia]] Malone."  Perhaps the great Shakespearian actress claimed
 
 descent from the great Shakespearian critic.  But, anyhow, she must
 
@@ -92,15 +92,15 @@ brevity of a hieroglyphic.
 
 
 
-"Love never needs time.  But Friendship always needs time.  More
+"[[Love]] never needs [[Time|time]].  But [[Friendship]] always needs [[Time|time]].  More
 
-and more and more time, up to long past midnight."
+and more and more [[Time|time]], up to long past midnight."
 
 
 
 When Gahagan had done those crazy things that blazoned his devotion
 
-to Joan Varney, they had hardly occupied any time.  When he fell on
+to Joan Varney, they had hardly occupied any [[Time|time]].  When he fell on
 
 her from a parachute as she came out of church at Bournemouth, the
 
@@ -110,17 +110,17 @@ costing hundreds of pounds to stay with her half an hour longer in
 
 Samoa, it was only half an hour longer.  When he swam the
 
-Hellespont in imitation of Leander, it was only for exactly thirty-
+Hellespont in [[Imitation|imitation]] of Leander, it was only for exactly thirty-
 
-five minutes' conversation with Hero.  But Love is like that.  It
+five minutes' conversation with [[Hero]].  But [[Love]] is like that.  It
 
-is a thing of great moments; and it lives on the memory of moments.
+is a thing of great moments; and it lives on the [[Memory|memory]] of moments.
 
 Perhaps it is a fragile illusion; perhaps, on the other hand, it is
 
-eternal and beyond time.  But Friendship eats up time.  If poor
+eternal and beyond [[Time|time]].  But [[Friendship]] eats up [[Time|time]].  If poor
 
-Gahagan had a real intellectual friendship, then he would go on
+Gahagan had a real intellectual [[Friendship|friendship]], then he would go on
 
 talking till long past midnight.  And with whom would Gahagan be so
 
@@ -128,7 +128,7 @@ likely to have one as with an Irish actress who was chiefly
 
 interested in Shakespeare?  Even as he had the thought, he heard
 
-the rich and faintly Irish voice of Olivia welcoming him; and he
+the rich and faintly Irish voice of [[Olivia]] welcoming him; and he
 
 knew he was right.
 
@@ -144,15 +144,15 @@ called Poetry; or perhaps I ought to say it's generally called
 
 Recitation.  It's been suppressed by the police in all the English
 
-salons; and that's the worst of the Irish wrongs.  People in London
+salons; and that's the worst of the Irish wrongs.  People in [[London]]
 
-are not allowed to recite poems to each other all night, as they do
+are not allowed to recite [[Poems|poems]] to each other all [[Night|night]], as they do
 
 in Dublin.  Poor Peter used to come to me and talk Shakespeare till
 
 morning; but I had to turn him out at last.  When a man calls on
 
-ME, and tries to recite the whole of Romeo and Juliet, it gets past
+ME, and tries to recite the whole of [[Romeo]] and [[Juliet]], it gets past
 
 a joke.  But you see how it was.  The English won't allow the poor
 
@@ -170,13 +170,13 @@ that neither devils nor dynamite will stop them from reciting
 
 verse.  All the black clouds of morbid brooding on the murder which
 
-had oppressed him in the garden had rolled away at the first sound
+had oppressed him in the [[Garden|garden]] had rolled away at the first sound
 
 of this strong, good-humoured irishwoman's voice.  But after a
 
 little while they began to gather again, though more remotely.
 
-After all, as he had said before, SOMEBODY had killed poor Fred
+After all, as he had said before, SOMEBODY had killed poor [[Fred]]
 
 Feversham.
 
@@ -184,13 +184,13 @@ Feversham.
 
 He was quite certain now that it was not Feversham's wife.  He was
 
-practically certain it was not Gahagan.  He went home that night
+practically certain it was not Gahagan.  He went [[Home|home]] that [[Night|night]]
 
-turning the question over and over; but he had only one night's
+turning the question over and over; but he had only one [[Night|night]]'s
 
 unrest.  For the next day's paper contained the news of the
 
-unexplained suicide of Mr. Luke, of the well-known firm of Masters,
+unexplained [[suicide]] of Mr. Luke, of the [[Well|well]]-known firm of Masters,
 
 Luke and Masters; and Mr. Pond sat gently chiding himself, because
 
@@ -202,7 +202,7 @@ possibly discover one day that he has been swindled by his own
 
 solicitor.  Feversham had summoned Luke to that midnight meeting in
 
-the garden, in order to tell him so; but Mr. Luke, a man careful of
+the [[Garden|garden]], in order to tell him so; but Mr. Luke, a man careful of
 
 his professional standing, had taken very prompt steps to prevent
 

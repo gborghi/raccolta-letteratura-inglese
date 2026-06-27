@@ -19,7 +19,7 @@ New Faces
 
 
 The MAJOR, more blue-faced and staring—more over-ripe, as it were, than
-ever—and giving vent, every now and then, to one of the horse’s coughs,
+ever—and giving vent, every now and then, to one of the [[Horse|horse]]’s coughs,
 not so much of necessity as in a spontaneous explosion of importance,
 walked arm-in-arm with Mr Dombey up the sunny side of the way, with his
 cheeks swelling over his tight stock, his legs majestically wide apart,
@@ -42,13 +42,13 @@ gossamer parasol with a proud and weary air, as if so great an effort
 must be soon abandoned and the parasol dropped, sauntered a much
 younger lady, very handsome, very haughty, very wilful, who tossed her
 head and drooped her eyelids, as though, if there were anything in all
-the world worth looking into, save a mirror, it certainly was not the
+the world worth looking into, save a [[Mirror|mirror]], it certainly was not the
 earth or sky.
 
 “Why, what the devil have we here, Sir!” cried the Major, stopping as
 this little cavalcade drew near.
 
-“My dearest Edith!” drawled the lady in the chair, “Major Bagstock!”
+“My dearest Edith!” drawled the lady in the chair, “[[Major Bagstock]]!”
 
 The Major no sooner heard the voice, than he relinquished Mr Dombey’s
 arm, darted forward, took the hand of the lady in the chair and pressed
@@ -83,7 +83,7 @@ in his ugliest manner.
 “Mrs Skewton, Dombey,” said the Major, “makes havoc in the heart of old
 Josh.”
 
-Mr Dombey signified that he didn’t wonder at it.
+Mr Dombey signified that he didn’t [[Wonder|wonder]] at it.
 
 “You perfidious goblin,” said the lady in the chair, “have done! How
 long have you been here, bad man?”
@@ -92,14 +92,14 @@ long have you been here, bad man?”
 
 “And can you be a day, or even a minute,” returned the lady, slightly
 settling her false curls and false eyebrows with her fan, and showing
-her false teeth, set off by her false complexion, “in the garden of
+her false teeth, set off by her false complexion, “in the [[Garden|garden]] of
 what’s-its-name.”
 
 “Eden, I suppose, Mama,” interrupted the younger lady, scornfully.
 
 “My dear Edith,” said the other, “I cannot help it. I never can
-remember those frightful names—without having your whole Soul and Being
-inspired by the sight of Nature; by the perfume,” said Mrs Skewton,
+remember those frightful names—without having your whole [[Soul]] and Being
+inspired by the sight of [[Nature]]; by the perfume,” said Mrs Skewton,
 rustling a handkerchief that was faint and sickly with essences, “of
 her artless breath, you creature!”
 
@@ -108,23 +108,23 @@ forlornly faded manner, was hardly less observable than that between
 her age, which was about seventy, and her dress, which would have been
 youthful for twenty-seven. Her attitude in the wheeled chair (which she
 never varied) was one in which she had been taken in a barouche, some
-fifty years before, by a then fashionable artist who had appended to
-his published sketch the name of Cleopatra: in consequence of a
-discovery made by the critics of the time, that it bore an exact
+fifty years before, by a then fashionable [[artist]] who had appended to
+his published [[Sketch|sketch]] the name of [[Cleopatra]]: in consequence of a
+discovery made by the critics of the [[Time|time]], that it bore an exact
 resemblance to that Princess as she reclined on board her galley. Mrs
-Skewton was a beauty then, and bucks threw wine-glasses over their
-heads by dozens in her honour. The beauty and the barouche had both
+Skewton was a [[Beauty|beauty]] then, and bucks threw wine-glasses over their
+heads by dozens in her [[Honour|honour]]. The [[Beauty|beauty]] and the barouche had both
 passed away, but she still preserved the attitude, and for this reason
 expressly, maintained the wheeled chair and the butting page: there
 being nothing whatever, except the attitude, to prevent her from
 walking.
 
-“Mr Dombey is devoted to Nature, I trust?” said Mrs Skewton, settling
+“Mr Dombey is devoted to [[Nature]], I trust?” said Mrs Skewton, settling
 her diamond brooch. And by the way, she chiefly lived upon the
 reputation of some diamonds, and her family connexions.
 
 “My friend Dombey, Ma’am,” returned the Major, “may be devoted to her
-in secret, but a man who is paramount in the greatest city in the
+in secret, but a man who is paramount in the greatest [[City|city]] in the
 universe—”
 
 “No one can be a stranger,” said Mrs Skewton, “to Mr Dombey’s immense
@@ -145,7 +145,7 @@ Mama likes change.”
 answer, delivered with supreme indifference.
 
 “They libel me. There is only one change, Mr Dombey,” observed Mrs
-Skewton, with a mincing sigh, “for which I really care, and that I fear
+Skewton, with a mincing sigh, “for which I really care, and that I [[Fear|fear]]
 I shall never be permitted to enjoy. People cannot spare one. But
 seclusion and contemplation are my what-his-name—”
 
@@ -154,27 +154,27 @@ intelligible,” said the younger lady.
 
 “My dearest Edith,” returned Mrs Skewton, “you know that I am wholly
 dependent upon you for those odious names. I assure you, Mr Dombey,
-Nature intended me for an Arcadian. I am thrown away in society. Cows
+[[Nature]] intended me for an Arcadian. I am thrown away in society. Cows
 are my passion. What I have ever sighed for, has been to retreat to a
 Swiss farm, and live entirely surrounded by cows—and china.”
 
 This curious association of objects, suggesting a remembrance of the
 celebrated bull who got by mistake into a crockery shop, was received
 with perfect gravity by Mr Dombey, who intimated his opinion that
-Nature was, no doubt, a very respectable institution.
+[[Nature]] was, no [[Doubt|doubt]], a very respectable institution.
 
 “What I want,” drawled Mrs Skewton, pinching her shrivelled throat, “is
 heart.” It was frightfully true in one sense, if not in that in which
 she used the phrase. “What I want, is frankness, confidence, less
-conventionality, and freer play of soul. We are so dreadfully
+conventionality, and freer play of [[Soul|soul]]. We are so dreadfully
 artificial.”
 
 We were, indeed.
 
-“In short,” said Mrs Skewton, “I want Nature everywhere. It would be so
+“In short,” said Mrs Skewton, “I want [[Nature]] everywhere. It would be so
 extremely charming.”
 
-“Nature is inviting us away now, Mama, if you are ready,” said the
+“[[Nature]] is inviting us away now, Mama, if you are ready,” said the
 younger lady, curling her handsome lip. At this hint, the wan page, who
 had been surveying the party over the top of the chair, vanished behind
 it, as if the ground had swallowed him up.
@@ -187,26 +187,26 @@ and silk stockings. “Where are you staying, abomination?”
 The Major was staying at the Royal Hotel, with his friend Dombey.
 
 “You may come and see us any evening when you are good,” lisped Mrs
-Skewton. “If Mr Dombey will honour us, we shall be happy. Withers, go
+Skewton. “If Mr Dombey will [[Honour|honour]] us, we shall be happy. Withers, go
 on!”
 
 The Major again pressed to his blue lips the tips of the fingers that
 were disposed on the ledge of the wheeled chair with careful
-carelessness, after the Cleopatra model: and Mr Dombey bowed. The elder
+carelessness, after the [[Cleopatra]] model: and Mr Dombey bowed. The elder
 lady honoured them both with a very gracious smile and a girlish wave
 of her hand; the younger lady with the very slightest inclination of
 her head that common courtesy allowed.
 
 The last glimpse of the wrinkled face of the mother, with that patched
 colour on it which the sun made infinitely more haggard and dismal than
-any want of colour could have been, and of the proud beauty of the
+any want of colour could have been, and of the proud [[Beauty|beauty]] of the
 daughter with her graceful figure and erect deportment, engendered such
 an involuntary disposition on the part of both the Major and Mr Dombey
 to look after them, that they both turned at the same moment. The Page,
-nearly as much aslant as his own shadow, was toiling after the chair,
-uphill, like a slow battering-ram; the top of Cleopatra’s bonnet was
+nearly as much aslant as his own [[Shadow|shadow]], was toiling after the chair,
+uphill, like a slow battering-ram; the top of [[Cleopatra]]’s bonnet was
 fluttering in exactly the same corner to the inch as before; and the
-Beauty, loitering by herself a little in advance, expressed in all her
+[[Beauty]], loitering by herself a little in advance, expressed in all her
 elegant form, from head to foot, the same supreme disregard of
 everything and everybody.
 
@@ -222,8 +222,8 @@ mother?”
 
 “You were complimentary to the mother,” returned Mr Dombey.
 
-“An ancient flame, Sir,” chuckled Major Bagstock. “Devilish ancient. I
-humour her.”
+“An ancient flame, Sir,” chuckled [[Major Bagstock]]. “Devilish ancient. I
+[[Humour|humour]] her.”
 
 “She impresses me as being perfectly genteel,” said Mr Dombey.
 
@@ -231,8 +231,8 @@ humour her.”
 companion’s face. “The Honourable Mrs Skewton, Sir, is sister to the
 late Lord Feenix, and aunt to the present Lord. The family are not
 wealthy—they’re poor, indeed—and she lives upon a small jointure; but
-if you come to blood, Sir!” The Major gave a flourish with his stick
-and walked on again, in despair of being able to say what you came to,
+if you come to [[Blood|blood]], Sir!” The Major gave a flourish with his stick
+and walked on again, in [[Despair|despair]] of being able to say what you came to,
 if you came to that.
 
 “You addressed the daughter, I observed,” said Mr Dombey, after a short
@@ -242,17 +242,17 @@ pause, “as Mrs Granger.”
 punching a mark in the ground with his cane, to represent her, “married
 (at eighteen) Granger of Ours;” whom the Major indicated by another
 punch. “Granger, Sir,” said the Major, tapping the last ideal portrait,
-and rolling his head emphatically, “was Colonel of Ours; a de-vilish
+and [[rolling]] his head emphatically, “was Colonel of Ours; a de-vilish
 handsome fellow, Sir, of forty-one. He died, Sir, in the second year of
-his marriage.” The Major ran the representative of the deceased Granger
-through and through the body with his walking-stick, and went on again,
+his [[Marriage|marriage]].” The Major ran the representative of the deceased Granger
+through and through the [[Body|body]] with his walking-stick, and went on again,
 carrying his stick over his shoulder.
 
 “How long is this ago?” asked Mr Dombey, making another halt.
 
-“Edith Granger, Sir,” replied the Major, shutting one eye, putting his
+“[[Edith Granger]], Sir,” replied the Major, shutting one eye, putting his
 head on one side, passing his cane into his left hand, and smoothing
-his shirt-frill with his right, “is, at this present time, not quite
+his shirt-frill with his right, “is, at this present [[Time|time]], not quite
 thirty. And damme, Sir,” said the Major, shouldering his stick once
 more, and walking on again, “she’s a peerless woman!”
 
@@ -262,13 +262,13 @@ more, and walking on again, “she’s a peerless woman!”
 
 Mr Dombey’s eyes sought the ground, and a shade came over his face.
 
-“Who was drowned, Sir,” pursued the Major. “When a child of four or
+“Who was drowned, Sir,” pursued the Major. “When a [[Child|child]] of four or
 five years old.”
 
 “Indeed?” said Mr Dombey, raising his head.
 
-“By the upsetting of a boat in which his nurse had no business to have
-put him,” said the Major. “That’s his history. Edith Granger is Edith
+“By the upsetting of a boat in which his [[Nurse|nurse]] had no business to have
+put him,” said the Major. “That’s his [[history]]. [[Edith Granger]] is Edith
 Granger still; but if tough old Joey B., Sir, were a little younger and
 a little richer, the name of that immortal paragon should be Bagstock.”
 
@@ -303,10 +303,10 @@ there one evening. Mr Dombey had not originally intended to pay visits,
 but on the Major announcing this intention, he said he would have the
 pleasure of accompanying him. So the Major told the Native to go round
 before dinner, and say, with his and Mr Dombey’s compliments, that they
-would have the honour of visiting the ladies that same evening, if the
-ladies were alone. In answer to which message, the Native brought back
+would have the [[Honour|honour]] of visiting the ladies that same evening, if the
+ladies were [[Alone|alone]]. In answer to which message, the Native brought back
 a very small note with a very large quantity of scent about it, indited
-by the Honourable Mrs Skewton to Major Bagstock, and briefly saying,
+by the Honourable Mrs Skewton to [[Major Bagstock]], and briefly saying,
 “You are a shocking bear and I have a great mind not to forgive you,
 but if you are very good indeed,” which was underlined, “you may come.
 Compliments (in which Edith unites) to Mr Dombey.”
@@ -314,47 +314,47 @@ Compliments (in which Edith unites) to Mr Dombey.”
 The Honourable Mrs Skewton and her daughter, Mrs Granger, resided,
 while at Leamington, in lodgings that were fashionable enough and dear
 enough, but rather limited in point of space and conveniences; so that
-the Honourable Mrs Skewton, being in bed, had her feet in the window
+the Honourable Mrs Skewton, being in bed, had her feet in the [[Window|window]]
 and her head in the fireplace, while the Honourable Mrs Skewton’s maid
 was quartered in a closet within the drawing-room, so extremely small,
 that, to avoid developing the whole of its accommodations, she was
 obliged to writhe in and out of the door like a beautiful serpent.
-Withers, the wan page, slept out of the house immediately under the
+Withers, the wan page, slept out of the [[house]] immediately under the
 tiles at a neighbouring milk-shop; and the wheeled chair, which was the
-stone of that young Sisyphus, passed the night in a shed belonging to
+stone of that young Sisyphus, passed the [[Night|night]] in a shed belonging to
 the same dairy, where new-laid eggs were produced by the poultry
-connected with the establishment, who roosted on a broken donkey-cart,
+connected with the establishment, who roosted on a broken [[donkey]]-cart,
 persuaded, to all appearance, that it grew there, and was a species of
 tree.
 
-Mr Dombey and the Major found Mrs Skewton arranged, as Cleopatra, among
+Mr Dombey and the Major found Mrs Skewton arranged, as [[Cleopatra]], among
 the cushions of a sofa: very airily dressed; and certainly not
-resembling Shakespeare’s Cleopatra, whom age could not wither. On their
+resembling Shakespeare’s [[Cleopatra]], whom age could not wither. On their
 way upstairs they had heard the sound of a harp, but it had ceased on
 their being announced, and Edith now stood beside it handsomer and
 haughtier than ever. It was a remarkable characteristic of this lady’s
-beauty that it appeared to vaunt and assert itself without her aid, and
+[[Beauty|beauty]] that it appeared to vaunt and assert itself without her aid, and
 against her will. She knew that she was beautiful: it was impossible
-that it could be otherwise: but she seemed with her own pride to defy
-her very self.
+that it could be otherwise: but she seemed with her own [[Pride|pride]] to defy
+her very [[Self|self]].
 
 Whether she held cheap attractions that could only call forth
 admiration that was worthless to her, or whether she designed to render
 them more precious to admirers by this usage of them, those to whom
 they were precious seldom paused to consider.
 
-“I hope, Mrs Granger,” said Mr Dombey, advancing a step towards her,
+“I [[Hope|hope]], Mrs Granger,” said Mr Dombey, advancing a step towards her,
 “we are not the cause of your ceasing to play?”
 
 “You! oh no!”
 
-“Why do you not go on then, my dearest Edith?” said Cleopatra.
+“Why do you not go on then, my dearest Edith?” said [[Cleopatra]].
 
 “I left off as I began—of my own fancy.”
 
 The exquisite indifference of her manner in saying this: an
 indifference quite removed from dulness or insensibility, for it was
-pointed with proud purpose: was well set off by the carelessness with
+pointed with proud purpose: was [[Well|well]] set off by the carelessness with
 which she drew her hand across the strings, and came from that part of
 the room.
 
@@ -385,7 +385,7 @@ wouldn’t do.”
 
 “You naughty Infidel,” said Mrs Skewton, “be mute.”
 
-“Cleopatra commands,” returned the Major, kissing his hand, “and Antony
+“[[Cleopatra]] commands,” returned the Major, kissing his hand, “and Antony
 Bagstock obeys.”
 
 “The man has no sensitiveness,” said Mrs Skewton, cruelly holding up
@@ -395,14 +395,14 @@ that gleam of sunshine on our cold cold earth,” said Mrs Skewton,
 arranging her lace tucker, and complacently observing the effect of her
 bare lean arm, looking upward from the wrist, “how could we possibly
 bear it? In short, obdurate man!” glancing at the Major, round the
-screen, “I would have my world all heart; and Faith is so excessively
+screen, “I would have my world all heart; and [[Faith]] is so excessively
 charming, that I won’t allow you to disturb it, do you hear?”
 
-The Major replied that it was hard in Cleopatra to require the world to
+The Major replied that it was hard in [[Cleopatra]] to require the world to
 be all heart, and yet to appropriate to herself the hearts of all the
-world; which obliged Cleopatra to remind him that flattery was
+world; which obliged [[Cleopatra]] to remind him that flattery was
 insupportable to her, and that if he had the boldness to address her in
-that strain any more, she would positively send him home.
+that strain any more, she would positively send him [[Home|home]].
 
 Withers the Wan, at this period, handing round the tea, Mr Dombey again
 addressed himself to Edith.
@@ -439,7 +439,7 @@ eyebrows by a hair’s-breadth, as if her cousin Feenix were of all the
 mortal world the least to be regarded, turned her eyes again towards Mr
 Dombey.
 
-“I hope, for the credit of my good taste, that I am tired of the
+“I [[Hope|hope]], for the credit of my good taste, that I am tired of the
 neighbourhood,” she said.
 
 “You have almost reason to be, Madam,” he replied, glancing at a
@@ -448,7 +448,7 @@ several as representing neighbouring points of view, and which were
 strewn abundantly about the room, “if these beautiful productions are
 from your hand.”
 
-She gave him no reply, but sat in a disdainful beauty, quite amazing.
+She gave him no reply, but sat in a disdainful [[Beauty|beauty]], quite amazing.
 
 “Have they that interest?” said Mr Dombey. “Are they yours?”
 
@@ -464,8 +464,8 @@ She gave him no reply, but sat in a disdainful beauty, quite amazing.
 
 She answered all these questions with a strange reluctance; and with
 that remarkable air of opposition to herself, already noticed as
-belonging to her beauty. Yet she was not embarrassed, but wholly
-self-possessed. Neither did she seem to wish to avoid the conversation,
+belonging to her [[Beauty|beauty]]. Yet she was not embarrassed, but wholly
+[[Self|self]]-possessed. Neither did she seem to wish to avoid the conversation,
 for she addressed her face, and—so far as she could—her manner also, to
 him; and continued to do so, when he was silent.
 
@@ -474,23 +474,23 @@ him; and continued to do so, when he was silent.
 “Whatever their efficiency may be,” she returned, “you know them all
 now. I have no more.”
 
-“May I hope to prove them all?” said Mr Dombey, with solemn gallantry,
+“May I [[Hope|hope]] to prove them all?” said Mr Dombey, with solemn gallantry,
 laying down a drawing he had held, and motioning towards the harp.
 
-“Oh certainly! If you desire it!”
+“Oh certainly! If you [[Desire|desire]] it!”
 
-She rose as she spoke, and crossing by her mother’s couch, and
+She [[Rose|rose]] as she spoke, and crossing by her mother’s couch, and
 directing a stately look towards her, which was instantaneous in its
 duration, but inclusive (if anyone had seen it) of a multitude of
 expressions, among which that of the twilight smile, without the smile
 itself, overshadowed all the rest, went out of the room.
 
-The Major, who was quite forgiven by this time, had wheeled a little
-table up to Cleopatra, and was sitting down to play picquet with her.
+The Major, who was quite forgiven by this [[Time|time]], had wheeled a little
+table up to [[Cleopatra]], and was sitting down to play picquet with her.
 Mr Dombey, not knowing the game, sat down to watch them for his
 edification until Edith should return.
 
-“We are going to have some music, Mr Dombey, I hope?” said Cleopatra.
+“We are going to have some music, Mr Dombey, I [[Hope|hope]]?” said [[Cleopatra]].
 
 “Mrs Granger has been kind enough to promise so,” said Mr Dombey.
 
@@ -503,10 +503,10 @@ You are fond of music, Mr Dombey?”
 
 “Eminently so,” was Mr Dombey’s answer.
 
-“Yes. It’s very nice,” said Cleopatra, looking at her cards. “So much
+“Yes. It’s very nice,” said [[Cleopatra]], looking at her cards. “So much
 heart in it—undeveloped recollections of a previous state of
 existence—and all that—which is so truly charming. Do you know,”
-simpered Cleopatra, reversing the knave of clubs, who had come into her
+simpered [[Cleopatra]], reversing the knave of clubs, who had come into her
 game with his heels uppermost, “that if anything could tempt me to put
 a period to my life, it would be curiosity to find out what it’s all
 about, and what it means; there are so many provoking mysteries,
@@ -517,26 +517,26 @@ soon have been in a state of dire confusion, but that he gave no
 attention to the game whatever, and sat wondering instead when Edith
 would come back.
 
-She came at last, and sat down to her harp, and Mr Dombey rose and
+She came at last, and sat down to her harp, and Mr Dombey [[Rose|rose]] and
 stood beside her, listening. He had little taste for music, and no
 knowledge of the strain she played, but he saw her bending over it, and
 perhaps he heard among the sounding strings some distant music of his
-own, that tamed the monster of the iron road, and made it less
+own, that tamed the [[Monster|monster]] of the iron [[Road|road]], and made it less
 inexorable.
 
-Cleopatra had a sharp eye, verily, at picquet. It glistened like a
+[[Cleopatra]] had a sharp eye, verily, at picquet. It glistened like a
 bird’s, and did not fix itself upon the game, but pierced the room from
 end to end, and gleamed on harp, performer, listener, everything.
 
-When the haughty beauty had concluded, she arose, and receiving Mr
+When the haughty [[Beauty|beauty]] had concluded, she arose, and receiving Mr
 Dombey’s thanks and compliments in exactly the same manner as before,
 went with scarcely any pause to the piano, and began there.
 
-Edith Granger, any song but that! Edith Granger, you are very handsome,
+[[Edith Granger]], any [[Song|song]] but that! [[Edith Granger]], you are very handsome,
 and your touch upon the keys is brilliant, and your voice is deep and
 rich; but not the air that his neglected daughter sang to his dead son!
 
 Alas, he knows it not; and if he did, what air of hers would stir him,
-rigid man! Sleep, lonely Florence, sleep! Peace in thy dreams, although
-the night has turned dark, and the clouds are gathering, and threaten
+rigid man! [[Sleep]], lonely Florence, [[Sleep|sleep]]! Peace in thy [[Dreams|dreams]], although
+the [[Night|night]] has turned dark, and the clouds are gathering, and threaten
 to discharge themselves in hail!

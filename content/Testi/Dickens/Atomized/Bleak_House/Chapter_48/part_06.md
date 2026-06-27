@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 48 (part 6)"
+title: "Bleak [[house|House]] — Chapter 48 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,19 +14,19 @@ tags:
 </nav>
 
 
-What’s that? Who fired a gun or pistol? Where was it?
+What’s that? Who fired a gun or [[Pistol|pistol]]? Where was it?
 
 The few foot-passengers start, stop, and stare about them. Some
 windows and doors are opened, and people come out to look. It was a
-loud report and echoed and rattled heavily. It shook one house, or so
-a man says who was passing. It has aroused all the dogs in the
+loud report and echoed and rattled heavily. It shook one [[house]], or so
+a man says who was passing. It has aroused all the [[dogs]] in the
 neighbourhood, who bark vehemently. Terrified cats scamper across the
-road. While the dogs are yet barking and howling—there is one dog
+[[Road|road]]. While the [[dogs]] are yet barking and howling—there is one dog
 howling like a demon—the church-clocks, as if they were startled
 too, begin to strike. The hum from the streets, likewise, seems to
-swell into a shout. But it is soon over. Before the last clock begins
-to strike ten, there is a lull. When it has ceased, the fine night,
-the bright large moon, and multitudes of stars, are left at peace
+swell into a shout. But it is soon over. Before the last [[Clock|clock]] begins
+to strike ten, there is a lull. When it has ceased, the fine [[Night|night]],
+the bright large [[Moon|moon]], and multitudes of [[Stars|stars]], are left at peace
 again.
 
 Has Mr. Tulkinghorn been disturbed? His windows are dark and quiet,
@@ -37,10 +37,10 @@ out of his immovable composure?
 
 For many years the persistent Roman has been pointing, with no
 particular meaning, from that ceiling. It is not likely that he has
-any new meaning in him to-night. Once pointing, always pointing—like
-any Roman, or even Briton, with a single idea. There he is, no doubt,
-in his impossible attitude, pointing, unavailingly, all night long.
-Moonlight, darkness, dawn, sunrise, day. There he is still, eagerly
+any new meaning in him to-[[Night|night]]. Once pointing, always pointing—like
+any Roman, or even Briton, with a single idea. There he is, no [[Doubt|doubt]],
+in his impossible attitude, pointing, unavailingly, all [[Night|night]] long.
+Moonlight, darkness, [[Dawn|dawn]], sunrise, day. There he is still, eagerly
 pointing, and no one minds him.
 
 But a little after the coming of the day come people to clean the
@@ -62,11 +62,11 @@ He is pointing at a table with a bottle (nearly full of wine) and a
 glass upon it and two candles that were blown out suddenly soon after
 being lighted. He is pointing at an empty chair and at a stain upon
 the ground before it that might be almost covered with a hand. These
-objects lie directly within his range. An excited imagination might
+objects lie directly within his range. An excited [[Imagination|imagination]] might
 suppose that there was something in them so terrific as to drive the
 rest of the composition, not only the attendant big-legged boys, but
-the clouds and flowers and pillars too—in short, the very body and
-soul of Allegory, and all the brains it has—stark mad. It happens
+the clouds and [[Flowers|flowers]] and pillars too—in short, the very [[Body|body]] and
+[[Soul|soul]] of [[Allegory]], and all the brains it has—stark mad. It happens
 surely that every one who comes into the darkened room and looks at
 these things looks up at the Roman and that he is invested in all
 eyes with mystery and awe, as if he were a paralysed dumb witness.
@@ -74,9 +74,9 @@ eyes with mystery and awe, as if he were a paralysed dumb witness.
 So it shall happen surely, through many years to come, that ghostly
 stories shall be told of the stain upon the floor, so easy to be
 covered, so hard to be got out, and that the Roman, pointing from the
-ceiling shall point, so long as dust and damp and spiders spare him,
+ceiling shall point, so long as [[Dust|dust]] and damp and spiders spare him,
 with far greater significance than he ever had in Mr. Tulkinghorn’s
-time, and with a deadly meaning. For Mr. Tulkinghorn’s time is over
+[[Time|time]], and with a deadly meaning. For Mr. Tulkinghorn’s [[Time|time]] is over
 for evermore, and the Roman pointed at the murderous hand uplifted
-against his life, and pointed helplessly at him, from night to
+against his life, and pointed helplessly at him, from [[Night|night]] to
 morning, lying face downward on the floor, shot through the heart.

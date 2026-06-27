@@ -19,22 +19,22 @@ ANOTHER THING NEEDFUL
 
 
 LOUISA awoke from a torpor, and her eyes languidly opened on her old bed
-at home, and her old room.  It seemed, at first, as if all that had
+at [[Home|home]], and her old room.  It seemed, at first, as if all that had
 happened since the days when these objects were familiar to her were the
-shadows of a dream, but gradually, as the objects became more real to her
+shadows of [[A Dream|a dream]], but gradually, as the objects became more real to her
 sight, the events became more real to her mind.
 
-She could scarcely move her head for pain and heaviness, her eyes were
+She could scarcely move her head for [[Pain|pain]] and heaviness, her eyes were
 strained and sore, and she was very weak.  A curious passive inattention
 had such possession of her, that the presence of her little sister in the
-room did not attract her notice for some time.  Even when their eyes had
+room did not attract her notice for some [[Time|time]].  Even when their eyes had
 met, and her sister had approached the bed, Louisa lay for minutes
-looking at her in silence, and suffering her timidly to hold her passive
+looking at her in [[Silence|silence]], and [[Suffering|suffering]] her timidly to hold her passive
 hand, before she asked:
 
 ‘When was I brought to this room?’
 
-‘Last night, Louisa.’
+‘Last [[Night|night]], Louisa.’
 
 ‘Who brought me here?’
 
@@ -44,7 +44,7 @@ hand, before she asked:
 
 ‘Because I found her here this morning.  She didn’t come to my bedside to
 wake me, as she always does; and I went to look for her.  She was not in
-her own room either; and I went looking for her all over the house, until
+her own room either; and I went looking for her all over the [[house]], until
 I found her here taking care of you and cooling your head.  Will you see
 father? Sissy said I was to tell him when you woke.’
 
@@ -68,50 +68,50 @@ the door, until it opened and her father entered.
 He had a jaded anxious look upon him, and his hand, usually steady,
 trembled in hers.  He sat down at the side of the bed, tenderly asking
 how she was, and dwelling on the necessity of her keeping very quiet
-after her agitation and exposure to the weather last night.  He spoke in
+after her agitation and exposure to the weather last [[Night|night]].  He spoke in
 a subdued and troubled voice, very different from his usual dictatorial
 manner; and was often at a loss for words.
 
 ‘My dear Louisa.  My poor daughter.’  He was so much at a loss at that
 place, that he stopped altogether.  He tried again.
 
-‘My unfortunate child.’  The place was so difficult to get over, that he
+‘My unfortunate [[Child|child]].’  The place was so difficult to get over, that he
 tried again.
 
 ‘It would be hopeless for me, Louisa, to endeavour to tell you how
-overwhelmed I have been, and still am, by what broke upon me last night.
+overwhelmed I have been, and still am, by what broke upon me last [[Night|night]].
 The ground on which I stand has ceased to be solid under my feet.  The
 only support on which I leaned, and the strength of which it seemed, and
 still does seem, impossible to question, has given way in an instant.  I
 am stunned by these discoveries.  I have no selfish meaning in what I
-say; but I find the shock of what broke upon me last night, to be very
+say; but I find the shock of what broke upon me last [[Night|night]], to be very
 heavy indeed.’
 
 She could give him no comfort herein.  She had suffered the wreck of her
 whole life upon the rock.
 
 ‘I will not say, Louisa, that if you had by any happy chance undeceived
-me some time ago, it would have been better for us both; better for your
+me some [[Time|time]] ago, it would have been better for us both; better for your
 peace, and better for mine.  For I am sensible that it may not have been
 a part of my system to invite any confidence of that kind.  I had proved
 my—my system to myself, and I have rigidly administered it; and I must
 bear the responsibility of its failures.  I only entreat you to believe,
-my favourite child, that I have meant to do right.’
+my favourite [[Child|child]], that I have meant to do right.’
 
 He said it earnestly, and to do him justice he had.  In gauging
 fathomless deeps with his little mean excise-rod, and in staggering over
 the universe with his rusty stiff-legged compasses, he had meant to do
 great things.  Within the limits of his short tether he had tumbled
-about, annihilating the flowers of existence with greater singleness of
+about, annihilating the [[Flowers|flowers]] of existence with greater singleness of
 purpose than many of the blatant personages whose company he kept.
 
-‘I am well assured of what you say, father.  I know I have been your
-favourite child.  I know you have intended to make me happy.  I have
+‘I am [[Well|well]] assured of what you say, father.  I know I have been your
+favourite [[Child|child]].  I know you have intended to make me happy.  I have
 never blamed you, and I never shall.’
 
 He took her outstretched hand, and retained it in his.
 
-‘My dear, I have remained all night at my table, pondering again and
+‘My dear, I have remained all [[Night|night]] at my table, pondering again and
 again on what has so painfully passed between us.  When I consider your
 character; when I consider that what has been known to me for hours, has
 been concealed by you for years; when I consider under what immediate
@@ -124,21 +124,21 @@ hair from her forehead with his hand.  Such little actions, slight in
 another man, were very noticeable in him; and his daughter received them
 as if they had been words of contrition.
 
-‘But,’ said Mr. Gradgrind, slowly, and with hesitation, as well as with a
+‘But,’ said Mr. Gradgrind, slowly, and with hesitation, as [[Well|well]] as with a
 wretched sense of happiness, ‘if I see reason to mistrust myself for the
 past, Louisa, I should also mistrust myself for the present and the
 future.  To speak unreservedly to you, I do.  I am far from feeling
-convinced now, however differently I might have felt only this time
+convinced now, however differently I might have felt only this [[Time|time]]
 yesterday, that I am fit for the trust you repose in me; that I know how
-to respond to the appeal you have come home to make to me; that I have
+to respond to the appeal you have come [[Home|home]] to make to me; that I have
 the right instinct—supposing it for the moment to be some quality of that
-nature—how to help you, and to set you right, my child.’
+[[Nature|nature]]—how to help you, and to set you right, my [[Child|child]].’
 
 She had turned upon her pillow, and lay with her face upon her arm, so
 that he could not see it.  All her wildness and passion had subsided;
-but, though softened, she was not in tears.  Her father was changed in
+but, though softened, she was not in [[Tears|tears]].  Her father was changed in
 nothing so much as in the respect that he would have been glad to see her
-in tears.
+in [[Tears|tears]].
 
 ‘Some persons hold,’ he pursued, still hesitating, ‘that there is a
 wisdom of the Head, and that there is a wisdom of the Heart.  I have not
@@ -151,7 +151,7 @@ Louisa—’
 He suggested it very doubtfully, as if he were half unwilling to admit it
 even now.  She made him no answer, lying before him on her bed, still
 half-dressed, much as he had seen her lying on the floor of his room last
-night.
+[[Night|night]].
 
 ‘Louisa,’ and his hand rested on her hair again, ‘I have been absent from
 here, my dear, a good deal of late; and though your sister’s training has
@@ -165,11 +165,11 @@ awakened in her young breast that was mute in mine until it turned to
 discord, let her thank Heaven for it, and go upon her happier way, taking
 it as her greatest blessing that she has avoided my way.’
 
-‘O my child, my child!’ he said, in a forlorn manner, ‘I am an unhappy
+‘O my [[Child|child]], my [[Child|child]]!’ he said, in a forlorn manner, ‘I am an unhappy
 man to see you thus!  What avails it to me that you do not reproach me,
 if I so bitterly reproach myself!’  He bent his head, and spoke low to
 her.  ‘Louisa, I have a misgiving that some change may have been slowly
-working about me in this house, by mere love and gratitude: that what the
+working about me in this [[house]], by mere [[Love|love]] and gratitude: that what the
 Head had left undone and could not do, the Heart may have been doing
 silently.  Can it be so?’
 
@@ -183,27 +183,27 @@ the door, and knew that some one stood beside her.
 
 She did not raise her head.  A dull anger that she should be seen in her
 distress, and that the involuntary look she had so resented should come
-to this fulfilment, smouldered within her like an unwholesome fire.  All
+to this fulfilment, smouldered within her like an unwholesome [[Fire|fire]].  All
 closely imprisoned forces rend and destroy.  The air that would be
-healthful to the earth, the water that would enrich it, the heat that
+healthful to the earth, the [[Water|water]] that would enrich it, the heat that
 would ripen it, tear it when caged up.  So in her bosom even now; the
 strongest qualities she possessed, long turned upon themselves, became a
-heap of obduracy, that rose against a friend.
+heap of obduracy, that [[Rose|rose]] against a friend.
 
-It was well that soft touch came upon her neck, and that she understood
+It was [[Well|well]] that soft touch came upon her neck, and that she understood
 herself to be supposed to have fallen asleep.  The sympathetic hand did
 not claim her resentment.  Let it lie there, let it lie.
 
 It lay there, warming into life a crowd of gentler thoughts; and she
 rested.  As she softened with the quiet, and the consciousness of being
-so watched, some tears made their way into her eyes.  The face touched
-hers, and she knew that there were tears upon it too, and she the cause
+so watched, some [[Tears|tears]] made their way into her eyes.  The face touched
+hers, and she knew that there were [[Tears|tears]] upon it too, and she the cause
 of them.
 
 As Louisa feigned to rouse herself, and sat up, Sissy retired, so that
 she stood placidly near the bedside.
 
-‘I hope I have not disturbed you.  I have come to ask if you would let me
+‘I [[Hope|hope]] I have not disturbed you.  I have come to ask if you would let me
 stay with you?’
 
 ‘Why should you stay with me?  My sister will miss you.  You are
@@ -232,13 +232,13 @@ uncertain whether you would like to find me here.’
 
 ‘Have I always hated you so much?’
 
-‘I hope not, for I have always loved you, and have always wished that you
+‘I [[Hope|hope]] not, for I have always loved you, and have always wished that you
 should know it.  But you changed to me a little, shortly before you left
-home.  Not that I wondered at it.  You knew so much, and I knew so
+[[Home|home]].  Not that I wondered at it.  You knew so much, and I knew so
 little, and it was so natural in many ways, going as you were among other
 friends, that I had nothing to complain of, and was not at all hurt.’
 
-Her colour rose as she said it modestly and hurriedly.  Louisa understood
+Her colour [[Rose|rose]] as she said it modestly and hurriedly.  Louisa understood
 the loving pretence, and her heart smote her.
 
 ‘May I try?’ said Sissy, emboldened to raise her hand to the neck that
@@ -257,18 +257,18 @@ repel you?’
 ‘I am so unhappy, and all that should have made me otherwise is so laid
 waste, that if I had been bereft of sense to this hour, and instead of
 being as learned as you think me, had to begin to acquire the simplest
-truths, I could not want a guide to peace, contentment, honour, all the
+truths, I could not want a guide to peace, contentment, [[Honour|honour]], all the
 good of which I am quite devoid, more abjectly than I do.  Does not that
 repel you?’
 
 ‘No!’
 
-In the innocence of her brave affection, and the brimming up of her old
+In the [[innocence]] of her brave affection, and the brimming up of her old
 devoted spirit, the once deserted girl shone like a beautiful light upon
 the darkness of the other.
 
 Louisa raised the hand that it might clasp her neck and join its fellow
-there.  She fell upon her knees, and clinging to this stroller’s child
+there.  She fell upon her knees, and clinging to this stroller’s [[Child|child]]
 looked up at her almost with veneration.
 
 ‘Forgive me, pity me, help me!  Have compassion on my great need, and let

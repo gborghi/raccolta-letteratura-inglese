@@ -16,14 +16,14 @@ tags:
 
 POETRY AND BELIEFS
 
-You never work so well for art's sake as when you are working
+You never work so [[Well|well]] for art's sake as when you are working
 for the sake of something else.  The greatest of the decadent
-art-philosophers, in that admirable essay `The Decay of Lying',
+art-philosophers, in that admirable [[Essay|essay]] `The [[Decay]] of Lying',
 described how art could take its disciple through the fires
-of Dante's perdition and the lilies of Dante's beatitude.
-But he forgot one point.  He forgot that Dante wrote that
+of [[Dante]]'s perdition and the lilies of [[Dante]]'s beatitude.
+But he forgot one point.  He forgot that [[Dante]] wrote that
 prodigious thing, not, of course, believing that its story was
-literally true, but believing that its philosophy was absolutely
+literally true, but believing that its [[philosophy]] was absolutely
 true and that all counter-philosophies were the lies of devils.
 Out of the furnace of that certainty came those tremendous things.
 And, to this day, all our clever irreligious poetry is only
@@ -34,10 +34,10 @@ independent of convictions, has been free and running
 about for some thirty years in England and forty in France.
 Heaven knows its poets have not been hampered by convictions.
 Has it produced any grander paganisms than that of the man
-in the tomb of fire?  Has it produced any loftier defiance
-of Omnipotence than that which Milton the Puritan imagined
-and wrote down?  Where are the fruits of its freedom?
+in the tomb of [[Fire|fire]]?  Has it produced any loftier defiance
+of Omnipotence than that which [[Milton]] the Puritan imagined
+and wrote down?  Where are the fruits of its [[Freedom|freedom]]?
 They are little indeed beside the fruit of that immemorial
-and sublime bondage.
+and [[Sublime|sublime]] bondage.
 
                                                Daily News, June 25th, 1904

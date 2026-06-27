@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 20"
+title: "[[Jane Eyre]] — Chapter 20"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -18,17 +18,17 @@ CHAPTER XX
 
 
 I had forgotten to draw my curtain, which I usually did, and also to
-let down my window-blind. The consequence was, that when the moon,
-which was full and bright (for the night was fine), came in her course
+let down my [[Window|window]]-blind. The consequence was, that when the [[Moon|moon]],
+which was full and bright (for the [[Night|night]] was fine), came in her course
 to that space in the sky opposite my casement, and looked in at me
 through the unveiled panes, her glorious gaze roused me. Awaking in the
-dead of night, I opened my eyes on her disk—silver-white and crystal
-clear. It was beautiful, but too solemn: I half rose, and stretched my
+dead of [[Night|night]], I opened my eyes on her disk—silver-white and crystal
+clear. It was beautiful, but too solemn: I half [[Rose|rose]], and stretched my
 arm to draw the curtain.
 
 Good God! What a cry!
 
-The night—its silence—its rest, was rent in twain by a savage, a sharp,
+The [[Night|night]]—its [[Silence|silence]]—its rest, was rent in twain by a savage, a sharp,
 a shrilly sound that ran from end to end of Thornfield Hall.
 
 My pulse stopped: my heart stood still; my stretched arm was paralysed.
@@ -52,14 +52,14 @@ stamping went on wildly, I distinguished through plank and plaster:—
 
 A chamber-door opened: some one ran, or rushed, along the gallery.
 Another step stamped on the flooring above and something fell; and
-there was silence.
+there was [[Silence|silence]].
 
 I had put on some clothes, though horror shook all my limbs; I issued
 from my apartment. The sleepers were all aroused: ejaculations,
 terrified murmurs sounded in every room; door after door unclosed; one
 looked out and another looked out; the gallery filled. Gentlemen and
 ladies alike had quitted their beds; and “Oh! what is it?”—“Who is
-hurt?”—“What has happened?”—“Fetch a light!”—“Is it fire?”—“Are there
+hurt?”—“What has happened?”—“Fetch a light!”—“Is it [[Fire|fire]]?”—“Are there
 robbers?”—“Where shall we run?” was demanded confusedly on all hands.
 But for the moonlight they would have been in complete darkness. They
 ran to and fro; they crowded together: some sobbed, some stumbled: the
@@ -89,10 +89,10 @@ Ado about Nothing. Ladies, keep off, or I shall wax dangerous.”
 And dangerous he looked: his black eyes darted sparks. Calming himself
 by an effort, he added—
 
-“A servant has had the nightmare; that is all. She’s an excitable,
+“A servant has had the [[nightmare]]; that is all. She’s an excitable,
 nervous person: she construed her dream into an apparition, or
-something of that sort, no doubt; and has taken a fit with fright. Now,
-then, I must see you all back into your rooms; for, till the house is
+something of that sort, no [[Doubt|doubt]]; and has taken a fit with fright. Now,
+then, I must see you all back into your rooms; for, till the [[house]] is
 settled, she cannot be looked after. Gentlemen, have the goodness to
 set the ladies the example. Miss Ingram, I am sure you will not fail in
 evincing superiority to idle terrors. Amy and Louisa, return to your
@@ -109,20 +109,20 @@ Not, however, to go to bed: on the contrary, I began and dressed myself
 carefully. The sounds I had heard after the scream, and the words that
 had been uttered, had probably been heard only by me; for they had
 proceeded from the room above mine: but they assured me that it was not
-a servant’s dream which had thus struck horror through the house; and
+a servant’s dream which had thus struck horror through the [[house]]; and
 that the explanation Mr. Rochester had given was merely an invention
 framed to pacify his guests. I dressed, then, to be ready for
-emergencies. When dressed, I sat a long time by the window looking out
+emergencies. When dressed, I sat a long [[Time|time]] by the [[Window|window]] looking out
 over the silent grounds and silvered fields and waiting for I knew not
 what. It seemed to me that some event must follow the strange cry,
 struggle, and call.
 
 No: stillness returned: each murmur and movement ceased gradually, and
-in about an hour Thornfield Hall was again as hushed as a desert. It
-seemed that sleep and night had resumed their empire. Meantime the moon
+in about an hour Thornfield Hall was again as hushed as a [[Desert|desert]]. It
+seemed that [[Sleep|sleep]] and [[Night|night]] had resumed their empire. Meantime the [[Moon|moon]]
 declined: she was about to set. Not liking to sit in the cold and
 darkness, I thought I would lie down on my bed, dressed as I was. I
-left the window, and moved with little noise across the carpet; as I
+left the [[Window|window]], and moved with little noise across the carpet; as I
 stooped to take off my shoes, a cautious hand tapped low at the door.
 
 “Am I wanted?” I asked.
@@ -139,7 +139,7 @@ stooped to take off my shoes, a cautious hand tapped low at the door.
 
 I obeyed. Mr. Rochester stood in the gallery holding a light.
 
-“I want you,” he said: “come this way: take your time, and make no
+“I want you,” he said: “come this way: take your [[Time|time]], and make no
 noise.”
 
 My slippers were thin: I could walk the matted floor as softly as a
@@ -162,7 +162,7 @@ and once more retraced my steps. He still waited; he held a key in his
 hand: approaching one of the small, black doors, he put it in the lock;
 he paused, and addressed me again.
 
-“You don’t turn sick at the sight of blood?”
+“You don’t turn sick at the sight of [[Blood|blood]]?”
 
 “I think I shall not: I have never been tried yet.”
 
@@ -176,7 +176,7 @@ I put my fingers into his. “Warm and steady,” was his remark: he turned
 the key and opened the door.
 
 I saw a room I remembered to have seen before, the day Mrs. Fairfax
-showed me over the house: it was hung with tapestry; but the tapestry
+showed me over the [[house]]: it was hung with tapestry; but the tapestry
 was now looped up in one part, and there was a door apparent, which had
 then been concealed. This door was open; a light shone out of the room
 within: I heard thence a snarling, snatching sound, almost like a dog
@@ -194,34 +194,34 @@ dressed with the exception of his coat; he was still; his head leant
 back; his eyes were closed. Mr. Rochester held the candle over him; I
 recognised in his pale and seemingly lifeless face—the stranger, Mason:
 I saw too that his linen on one side, and one arm, was almost soaked in
-blood.
+[[Blood|blood]].
 
 “Hold the candle,” said Mr. Rochester, and I took it: he fetched a
-basin of water from the washstand: “Hold that,” said he. I obeyed. He
+basin of [[Water|water]] from the washstand: “Hold that,” said he. I obeyed. He
 took the sponge, dipped it in, and moistened the corpse-like face; he
 asked for my smelling-bottle, and applied it to the nostrils. Mr. Mason
 shortly unclosed his eyes; he groaned. Mr. Rochester opened the shirt
 of the wounded man, whose arm and shoulder were bandaged: he sponged
-away blood, trickling fast down.
+away [[Blood|blood]], trickling fast down.
 
 “Is there immediate danger?” murmured Mr. Mason.
 
 “Pooh! No—a mere scratch. Don’t be so overcome, man: bear up! I’ll
 fetch a surgeon for you now, myself: you’ll be able to be removed by
-morning, I hope. Jane,” he continued.
+morning, I [[Hope|hope]]. Jane,” he continued.
 
 “Sir?”
 
 “I shall have to leave you in this room with this gentleman, for an
-hour, or perhaps two hours: you will sponge the blood as I do when it
-returns: if he feels faint, you will put the glass of water on that
+hour, or perhaps two hours: you will sponge the [[Blood|blood]] as I do when it
+returns: if he feels faint, you will put the glass of [[Water|water]] on that
 stand to his lips, and your salts to his nose. You will not speak to
-him on any pretext—and—Richard, it will be at the peril of your life if
+him on any pretext—and—[[Richard]], it will be at the peril of your life if
 you speak to her: open your lips—agitate yourself—and I’ll not answer
 for the consequences.”
 
-Again the poor man groaned; he looked as if he dared not move; fear,
-either of death or of something else, appeared almost to paralyse him.
+Again the poor man groaned; he looked as if he dared not move; [[Fear|fear]],
+either of [[Death|death]] or of something else, appeared almost to paralyse him.
 Mr. Rochester put the now bloody sponge into my hand, and I proceeded
 to use it as he had done. He watched me a second, then saying,
 “Remember!—No conversation,” he left the room. I experienced a strange
@@ -229,7 +229,7 @@ feeling as the key grated in the lock, and the sound of his retreating
 step ceased to be heard.
 
 Here then I was in the third storey, fastened into one of its mystic
-cells; night around me; a pale and bloody spectacle under my eyes and
+cells; [[Night|night]] around me; a pale and bloody spectacle under my eyes and
 hands; a murderess hardly separated from me by a single door: yes—that
 was appalling—the rest I could bear; but I shuddered at the thought of
 Grace Poole bursting out upon me.
@@ -238,38 +238,38 @@ I must keep to my post, however. I must watch this ghastly
 countenance—these blue, still lips forbidden to unclose—these eyes now
 shut, now opening, now wandering through the room, now fixing on me,
 and ever glazed with the dulness of horror. I must dip my hand again
-and again in the basin of blood and water, and wipe away the trickling
+and again in the basin of [[Blood|blood]] and [[Water|water]], and wipe away the trickling
 gore. I must see the light of the unsnuffed candle wane on my
 employment; the shadows darken on the wrought, antique tapestry round
 me, and grow black under the hangings of the vast old bed, and quiver
 strangely over the doors of a great cabinet opposite—whose front,
 divided into twelve panels, bore, in grim design, the heads of the
 twelve apostles, each enclosed in its separate panel as in a frame;
-while above them at the top rose an ebon crucifix and a dying Christ.
+while above them at the top [[Rose|rose]] an ebon crucifix and a dying [[Christ]].
 
 According as the shifting obscurity and flickering gleam hovered here
 or glanced there, it was now the bearded physician, Luke, that bent his
 brow; now St. John’s long hair that waved; and anon the devilish face
 of Judas, that grew out of the panel, and seemed gathering life and
-threatening a revelation of the arch-traitor—of Satan himself—in his
+threatening a revelation of the arch-traitor—of [[Satan]] himself—in his
 subordinate’s form.
 
-Amidst all this, I had to listen as well as watch: to listen for the
+Amidst all this, I had to listen as [[Well|well]] as watch: to listen for the
 movements of the wild beast or the fiend in yonder side den. But since
-Mr. Rochester’s visit it seemed spellbound: all the night I heard but
+Mr. Rochester’s visit it seemed spellbound: all the [[Night|night]] I heard but
 three sounds at three long intervals,—a step creak, a momentary renewal
 of the snarling, canine noise, and a deep human groan.
 
 Then my own thoughts worried me. What crime was this, that lived
 incarnate in this sequestered mansion, and could neither be expelled
-nor subdued by the owner?—what mystery, that broke out now in fire and
-now in blood, at the deadest hours of night? What creature was it,
+nor subdued by the owner?—what mystery, that broke out now in [[Fire|fire]] and
+now in [[Blood|blood]], at the deadest hours of [[Night|night]]? What creature was it,
 that, masked in an ordinary woman’s face and shape, uttered the voice,
 now of a mocking demon, and anon of a carrion-seeking bird of prey?
 
 And this man I bent over—this commonplace, quiet stranger—how had he
 become involved in the web of horror? and why had the Fury flown at
-him? What made him seek this quarter of the house at an untimely
+him? What made him seek this quarter of the [[house]] at an untimely
 season, when he should have been asleep in bed? I had heard Mr.
 Rochester assign him an apartment below—what brought him here! And why,
 now, was he so tame under the violence or treachery done him? Why did
@@ -285,7 +285,7 @@ disposition of the one had been habitually influenced by the active
 energy of the other: whence then had arisen Mr. Rochester’s dismay when
 he heard of Mr. Mason’s arrival? Why had the mere name of this
 unresisting individual—whom his word now sufficed to control like a
-child—fallen on him, a few hours since, as a thunderbolt might fall on
+[[Child|child]]—fallen on him, a few hours since, as a thunderbolt might fall on
 an oak?
 
 Oh! I could not forget his look and his paleness when he whispered:
@@ -294,19 +294,19 @@ how the arm had trembled which he rested on my shoulder: and it was no
 light matter which could thus bow the resolute spirit and thrill the
 vigorous frame of Fairfax Rochester.
 
-“When will he come? When will he come?” I cried inwardly, as the night
+“When will he come? When will he come?” I cried inwardly, as the [[Night|night]]
 lingered and lingered—as my bleeding patient drooped, moaned, sickened:
-and neither day nor aid arrived. I had, again and again, held the water
+and neither day nor aid arrived. I had, again and again, held the [[Water|water]]
 to Mason’s white lips; again and again offered him the stimulating
 salts: my efforts seemed ineffectual: either bodily or mental
-suffering, or loss of blood, or all three combined, were fast
+[[Suffering|suffering]], or loss of [[Blood|blood]], or all three combined, were fast
 prostrating his strength. He moaned so, and looked so weak, wild, and
 lost, I feared he was dying; and I might not even speak to him.
 
 The candle, wasted at last, went out; as it expired, I perceived
-streaks of grey light edging the window curtains: dawn was then
+streaks of grey light edging the [[Window|window]] curtains: [[Dawn|dawn]] was then
 approaching. Presently I heard Pilot bark far below, out of his distant
-kennel in the courtyard: hope revived. Nor was it unwarranted: in five
+kennel in the courtyard: [[Hope|hope]] revived. Nor was it unwarranted: in five
 minutes more the grating key, the yielding lock, warned me my watch was
 relieved. It could not have lasted more than two hours: many a week has
 seemed shorter.
@@ -319,26 +319,26 @@ the patient downstairs and all.”
 
 “But is he fit to move, sir?”
 
-“No doubt of it; it is nothing serious; he is nervous, his spirits must
+“No [[Doubt|doubt]] of it; it is nothing serious; he is nervous, his spirits must
 be kept up. Come, set to work.”
 
 Mr. Rochester drew back the thick curtain, drew up the holland blind,
 let in all the daylight he could; and I was surprised and cheered to
-see how far dawn was advanced: what rosy streaks were beginning to
+see how far [[Dawn|dawn]] was advanced: what rosy streaks were beginning to
 brighten the east. Then he approached Mason, whom the surgeon was
 already handling.
 
 “Now, my good fellow, how are you?” he asked.
 
-“She’s done for me, I fear,” was the faint reply.
+“She’s done for me, I [[Fear|fear]],” was the faint reply.
 
-“Not a whit!—courage! This day fortnight you’ll hardly be a pin the
-worse of it: you’ve lost a little blood; that’s all. Carter, assure him
+“Not a whit!—[[Courage|courage]]! This day fortnight you’ll hardly be a pin the
+worse of it: you’ve lost a little [[Blood|blood]]; that’s all. Carter, assure him
 there’s no danger.”
 
 “I can do that conscientiously,” said Carter, who had now undone the
 bandages; “only I wish I could have got here sooner: he would not have
-bled so much—but how is this? The flesh on the shoulder is torn as well
+bled so much—but how is this? The flesh on the shoulder is torn as [[Well|well]]
 as cut. This wound was not done with a knife: there have been teeth
 here!”
 
@@ -354,8 +354,8 @@ looked so quiet at first.”
 
 “I warned you,” was his friend’s answer; “I said—be on your guard when
 you go near her. Besides, you might have waited till to-morrow, and had
-me with you: it was mere folly to attempt the interview to-night, and
-alone.”
+me with you: it was mere folly to attempt the interview to-[[Night|night]], and
+[[Alone|alone]].”
 
 “I thought I could have done some good.”
 
@@ -367,13 +367,13 @@ will soon rise, and I must have him off.”
 “Directly, sir; the shoulder is just bandaged. I must look to this
 other wound in the arm: she has had her teeth here too, I think.”
 
-“She sucked the blood: she said she’d drain my heart,” said Mason.
+“She sucked the [[Blood|blood]]: she said she’d drain my heart,” said Mason.
 
 I saw Mr. Rochester shudder: a singularly marked expression of disgust,
 horror, hatred, warped his countenance almost to distortion; but he
 only said—
 
-“Come, be silent, Richard, and never mind her gibberish: don’t repeat
+“Come, be silent, [[Richard]], and never mind her gibberish: don’t repeat
 it.”
 
 “I wish I could forget it,” was the answer.
@@ -382,12 +382,12 @@ it.”
 Town, you may think of her as dead and buried—or rather, you need not
 think of her at all.”
 
-“Impossible to forget this night!”
+“Impossible to forget this [[Night|night]]!”
 
 “It is not impossible: have some energy, man. You thought you were as
 dead as a herring two hours since, and you are all alive and talking
 now. There!—Carter has done with you or nearly so; I’ll make you decent
-in a trice. Jane” (he turned to me for the first time since his
+in a trice. Jane” (he turned to me for the first [[Time|time]] since his
 re-entrance), “take this key: go down into my bedroom, and walk
 straight forward into my dressing-room: open the top drawer of the
 wardrobe and take out a clean shirt and neck-handkerchief: bring them
@@ -418,20 +418,20 @@ Again I ran, and again returned, bearing an immense mantle lined and
 edged with fur.
 
 “Now, I’ve another errand for you,” said my untiring master; “you must
-away to my room again. What a mercy you are shod with velvet, Jane!—a
+away to my room again. What a [[Mercy|mercy]] you are shod with velvet, Jane!—a
 clod-hopping messenger would never do at this juncture. You must open
 the middle drawer of my toilet-table and take out a little phial and a
 little glass you will find there,—quick!”
 
 I flew thither and back, bringing the desired vessels.
 
-“That’s well! Now, doctor, I shall take the liberty of administering a
+“That’s [[Well|well]]! Now, doctor, I shall take the liberty of administering a
 dose myself, on my own responsibility. I got this cordial at Rome, of
 an Italian charlatan—a fellow you would have kicked, Carter. It is not
 a thing to be used indiscriminately, but it is good upon occasion: as
-now, for instance. Jane, a little water.”
+now, for instance. Jane, a little [[Water|water]].”
 
-He held out the tiny glass, and I half filled it from the water-bottle
+He held out the tiny glass, and I half filled it from the [[Water|water]]-bottle
 on the washstand.
 
 “That will do;—now wet the lip of the phial.”
@@ -439,7 +439,7 @@ on the washstand.
 I did so; he measured twelve drops of a crimson liquid, and presented
 it to Mason.
 
-“Drink, Richard: it will give you the heart you lack, for an hour or
+“Drink, [[Richard]]: it will give you the heart you lack, for an hour or
 so.”
 
 “But will it hurt me?—is it inflammatory?”
@@ -453,9 +453,9 @@ the liquid; he then took his arm—
 
 “Now I am sure you can get on your feet,” he said—“try.”
 
-The patient rose.
+The patient [[Rose|rose]].
 
-“Carter, take him under the other shoulder. Be of good cheer, Richard;
+“Carter, take him under the other shoulder. Be of good cheer, [[Richard]];
 step out—that’s it!”
 
 “I do feel better,” remarked Mr. Mason.
@@ -466,7 +466,7 @@ you will see in the yard—or just outside, for I told him not to drive
 his rattling wheels over the pavement—to be ready; we are coming: and,
 Jane, if any one is about, come to the foot of the stairs and hem.”
 
-It was by this time half-past five, and the sun was on the point of
+It was by this [[Time|time]] half-past five, and the sun was on the point of
 rising; but I found the kitchen still dark and silent. The side-passage
 door was fastened; I opened it with as little noise as possible: all
 the yard was quiet; but the gates stood wide open, and there was a
@@ -474,10 +474,10 @@ post-chaise, with horses ready harnessed, and driver seated on the box,
 stationed outside. I approached him, and said the gentlemen were
 coming; he nodded: then I looked carefully round and listened. The
 stillness of early morning slumbered everywhere; the curtains were yet
-drawn over the servants’ chamber windows; little birds were just
+drawn over the servants’ chamber windows; little [[Birds|birds]] were just
 twittering in the blossom-blanched orchard trees, whose boughs drooped
 like white garlands over the wall enclosing one side of the yard; the
-carriage horses stamped from time to time in their closed stables: all
+carriage horses stamped from [[Time|time]] to [[Time|time]] in their closed stables: all
 else was still.
 
 The gentlemen now appeared. Mason, supported by Mr. Rochester and the
@@ -485,20 +485,20 @@ surgeon, seemed to walk with tolerable ease: they assisted him into the
 chaise; Carter followed.
 
 “Take care of him,” said Mr. Rochester to the latter, “and keep him at
-your house till he is quite well: I shall ride over in a day or two to
-see how he gets on. Richard, how is it with you?”
+your [[house]] till he is quite [[Well|well]]: I shall ride over in a day or two to
+see how he gets on. [[Richard]], how is it with you?”
 
 “The fresh air revives me, Fairfax.”
 
-“Leave the window open on his side, Carter; there is no wind—good-bye,
+“Leave the [[Window|window]] open on his side, Carter; there is no [[Wind|wind]]—good-bye,
 Dick.”
 
 “Fairfax—”
 
-“Well what is it?”
+“[[Well]] what is it?”
 
 “Let her be taken care of; let her be treated as tenderly as may be:
-let her—” he stopped and burst into tears.
+let her—” he stopped and burst into [[Tears|tears]].
 
 “I do my best; and have done it, and will do it,” was the answer: he
 shut up the chaise door, and the vehicle drove away.
@@ -508,11 +508,11 @@ as he closed and barred the heavy yard-gates.
 
 This done, he moved with slow step and abstracted air towards a door in
 the wall bordering the orchard. I, supposing he had done with me,
-prepared to return to the house; again, however, I heard him call
+prepared to return to the [[house]]; again, however, I heard him call
 “Jane!” He had opened the portal and stood at it, waiting for me.
 
 “Come where there is some freshness, for a few moments,” he said; “that
-house is a mere dungeon: don’t you feel it so?”
+[[house]] is a mere dungeon: don’t you feel it so?”
 
 “It seems to me a splendid mansion, sir.”
 
@@ -525,16 +525,16 @@ and pure.”
 
 He strayed down a walk edged with box, with apple trees, pear trees,
 and cherry trees on one side, and a border on the other full of all
-sorts of old-fashioned flowers, stocks, sweet-williams, primroses,
+sorts of old-fashioned [[Flowers|flowers]], stocks, sweet-williams, primroses,
 pansies, mingled with southernwood, sweet-briar, and various fragrant
 herbs. They were fresh now as a succession of April showers and gleams,
-followed by a lovely spring morning, could make them: the sun was just
+followed by a lovely [[Spring|spring]] morning, could make them: the sun was just
 entering the dappled east, and his light illumined the wreathed and
 dewy orchard trees and shone down the quiet walks under them.
 
 “Jane, will you have a flower?”
 
-He gathered a half-blown rose, the first on the bush, and offered it to
+He gathered a half-blown [[Rose|rose]], the first on the bush, and offered it to
 me.
 
 “Thank you, sir.”
@@ -545,17 +545,17 @@ and balmly atmosphere?”
 
 “I do, very much.”
 
-“You have passed a strange night, Jane.”
+“You have passed a strange [[Night|night]], Jane.”
 
 “Yes, sir.”
 
-“And it has made you look pale—were you afraid when I left you alone
+“And it has made you look pale—were you afraid when I left you [[Alone|alone]]
 with Mason?”
 
 “I was afraid of some one coming out of the inner room.”
 
 “But I had fastened the door—I had the key in my pocket: I should have
-been a careless shepherd if I had left a lamb—my pet lamb—so near a
+been a careless shepherd if I had left a [[Lamb|lamb]]—my pet [[Lamb|lamb]]—so near a
 wolf’s den, unguarded: you were safe.”
 
 “Will Grace Poole live here still, sir?”
@@ -565,13 +565,13 @@ thoughts.”
 
 “Yet it seems to me your life is hardly secure while she stays.”
 
-“Never fear—I will take care of myself.”
+“Never [[Fear|fear]]—I will take care of myself.”
 
-“Is the danger you apprehended last night gone by now, sir?”
+“Is the danger you apprehended last [[Night|night]] gone by now, sir?”
 
 “I cannot vouch for that till Mason is out of England: nor even then.
 To live, for me, Jane, is to stand on a crater-crust which may crack
-and spue fire any day.”
+and spue [[Fire|fire]] any day.”
 
 “But Mr. Mason seems a man easily led. Your influence, sir, is
 evidently potent with him: he will never set you at defiance or
@@ -581,7 +581,7 @@ wilfully injure you.”
 unintentionally, he might in a moment, by one careless word, deprive
 me, if not of life, yet for ever of happiness.”
 
-“Tell him to be cautious, sir: let him know what you fear, and show him
+“Tell him to be cautious, sir: let him know what you [[Fear|fear]], and show him
 how to avert the danger.”
 
 He laughed sardonically, hastily took my hand, and as hastily threw it
@@ -590,7 +590,7 @@ from him.
 “If I could do that, simpleton, where would the danger be? Annihilated
 in a moment. Ever since I have known Mason, I have only had to say to
 him ‘Do that,’ and the thing has been done. But I cannot give him
-orders in this case: I cannot say ‘Beware of harming me, Richard;’ for
+orders in this case: I cannot say ‘Beware of harming me, [[Richard]];’ for
 it is imperative that I should keep him ignorant that harm to me is
 possible. Now you look puzzled; and I will puzzle you further. You are
 my little friend, are you not?”
@@ -605,11 +605,11 @@ there would be no light-footed running, no neat-handed alacrity, no
 lively glance and animated complexion. My friend would then turn to me,
 quiet and pale, and would say, ‘No, sir; that is impossible: I cannot
 do it, because it is wrong;’ and would become immutable as a fixed
-star. Well, you too have power over me, and may injure me: yet I dare
+star. [[Well]], you too have power over me, and may injure me: yet I dare
 not show you where I am vulnerable, lest, faithful and friendly as you
 are, you should transfix me at once.”
 
-“If you have no more to fear from Mr. Mason than you have from me, sir,
+“If you have no more to [[Fear|fear]] from Mr. Mason than you have from me, sir,
 you are very safe.”
 
 “God grant it may be so! Here, Jane, is an arbour; sit down.”
@@ -625,8 +625,8 @@ I answered him by assuming it: to refuse would, I felt, have been
 unwise.
 
 “Now, my little friend, while the sun drinks the dew—while all the
-flowers in this old garden awake and expand, and the birds fetch their
-young ones’ breakfast out of the Thornfield, and the early bees do
+[[Flowers|flowers]] in this old [[Garden|garden]] awake and expand, and the [[Birds|birds]] fetch their
+young ones’ breakfast out of the Thornfield, and the early [[Bees|bees]] do
 their first spell of work—I’ll put a case to you, which you must
 endeavour to suppose your own: but first, look at me, and tell me you
 are at ease, and not fearing that I err in detaining you, or that you
@@ -634,62 +634,62 @@ err in staying.”
 
 “No, sir; I am content.”
 
-“Well then, Jane, call to aid your fancy:—suppose you were no longer a
-girl well reared and disciplined, but a wild boy indulged from
-childhood upwards; imagine yourself in a remote foreign land; conceive
-that you there commit a capital error, no matter of what nature or from
+“[[Well]] then, Jane, call to aid your fancy:—suppose you were no longer a
+girl [[Well|well]] reared and disciplined, but a wild boy indulged from
+[[Childhood|childhood]] upwards; imagine yourself in a remote foreign land; conceive
+that you there commit a capital error, no matter of what [[Nature|nature]] or from
 what motives, but one whose consequences must follow you through life
 and taint all your existence. Mind, I don’t say a _crime_; I am not
-speaking of shedding of blood or any other guilty act, which might make
+speaking of shedding of [[Blood|blood]] or any other guilty act, which might make
 the perpetrator amenable to the law: my word is _error_. The results of
-what you have done become in time to you utterly insupportable; you
+what you have done become in [[Time|time]] to you utterly insupportable; you
 take measures to obtain relief: unusual measures, but neither unlawful
-nor culpable. Still you are miserable; for hope has quitted you on the
-very confines of life: your sun at noon darkens in an eclipse, which
-you feel will not leave it till the time of setting. Bitter and base
-associations have become the sole food of your memory: you wander here
-and there, seeking rest in exile: happiness in pleasure—I mean in
+nor culpable. Still you are miserable; for [[Hope|hope]] has quitted you on the
+very confines of life: your sun at [[Noon|noon]] darkens in an eclipse, which
+you feel will not leave it till the [[Time|time]] of setting. Bitter and base
+associations have become the sole food of your [[Memory|memory]]: you wander here
+and there, seeking rest in [[Exile|exile]]: happiness in pleasure—I mean in
 heartless, sensual pleasure—such as dulls intellect and blights
-feeling. Heart-weary and soul-withered, you come home after years of
+feeling. Heart-weary and [[Soul|soul]]-withered, you come [[Home|home]] after years of
 voluntary banishment: you make a new acquaintance—how or where no
 matter: you find in this stranger much of the good and bright qualities
 which you have sought for twenty years, and never before encountered;
 and they are all fresh, healthy, without soil and without taint. Such
 society revives, regenerates: you feel better days come back—higher
-wishes, purer feelings; you desire to recommence your life, and to
+wishes, purer feelings; you [[Desire|desire]] to recommence your life, and to
 spend what remains to you of days in a way more worthy of an immortal
 being. To attain this end, are you justified in overleaping an obstacle
-of custom—a mere conventional impediment which neither your conscience
+of custom—a mere conventional impediment which neither your [[Conscience|conscience]]
 sanctifies nor your judgment approves?”
 
 He paused for an answer: and what was I to say? Oh, for some good
 spirit to suggest a judicious and satisfactory response! Vain
-aspiration! The west wind whispered in the ivy round me; but no gentle
-Ariel borrowed its breath as a medium of speech: the birds sang in the
-tree-tops; but their song, however sweet, was inarticulate.
+[[Aspiration|aspiration]]! The west [[Wind|wind]] whispered in the ivy round me; but no gentle
+[[Ariel]] borrowed its breath as a medium of speech: the [[Birds|birds]] sang in the
+tree-tops; but their [[Song|song]], however sweet, was inarticulate.
 
 Again Mr. Rochester propounded his query:
 
 “Is the wandering and sinful, but now rest-seeking and repentant, man
 justified in daring the world’s opinion, in order to attach to him for
 ever this gentle, gracious, genial stranger, thereby securing his own
-peace of mind and regeneration of life?”
+peace of mind and [[Regeneration|regeneration]] of life?”
 
-“Sir,” I answered, “a wanderer’s repose or a sinner’s reformation
+“Sir,” I answered, “a wanderer’s repose or a sinner’s [[Reformation|reformation]]
 should never depend on a fellow-creature. Men and women die;
 philosophers falter in wisdom, and Christians in goodness: if any one
 you know has suffered and erred, let him look higher than his equals
 for strength to amend and solace to heal.”
 
 “But the instrument—the instrument! God, who does the work, ordains the
-instrument. I have myself—I tell it you without parable—been a worldly,
+instrument. I have myself—I tell it you without [[Parable|parable]]—been a worldly,
 dissipated, restless man; and I believe I have found the instrument for
 my cure in—”
 
-He paused: the birds went on carolling, the leaves lightly rustling. I
-almost wondered they did not check their songs and whispers to catch
+He paused: the [[Birds|birds]] went on carolling, the [[Leaves|leaves]] lightly rustling. I
+almost wondered they did not check their [[songs]] and whispers to catch
 the suspended revelation; but they would have had to wait many
-minutes—so long was the silence protracted. At last I looked up at the
+minutes—so long was the [[Silence|silence]] protracted. At last I looked up at the
 tardy speaker: he was looking eagerly at me.
 
 “Little friend,” said he, in quite a changed tone—while his face
@@ -707,13 +707,13 @@ your vigils: don’t you curse me for disturbing your rest?”
 “Curse you? No, sir.”
 
 “Shake hands in confirmation of the word. What cold fingers! They were
-warmer last night when I touched them at the door of the mysterious
+warmer last [[Night|night]] when I touched them at the door of the mysterious
 chamber. Jane, when will you watch with me again?”
 
 “Whenever I can be useful, sir.”
 
-“For instance, the night before I am married! I am sure I shall not be
-able to sleep. Will you promise to sit up with me to bear me company?
+“For instance, the [[Night|night]] before I am married! I am sure I shall not be
+able to [[Sleep|sleep]]. Will you promise to sit up with me to bear me company?
 To you I can talk of my lovely one: for now you have seen her and know
 her.”
 
@@ -732,4 +732,4 @@ As I went one way, he went another, and I heard him in the yard, saying
 cheerfully—
 
 “Mason got the start of you all this morning; he was gone before
-sunrise: I rose at four to see him off.”
+sunrise: I [[Rose|rose]] at four to see him off.”

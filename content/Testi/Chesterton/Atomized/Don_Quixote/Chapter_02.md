@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 1"
+title: "[[Don Quixote]] — Chapter 1"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -20,12 +20,12 @@ A HOLE IN THE CASTE
 
 The end of the longest room at Seawood Abbey was full of light;
 for the walls were almost made of windows and it projected
-upon a terraced part of the garden above the park on an almost
+upon a terraced part of the [[Garden|garden]] above the park on an almost
 cloudless morning.  Murrel, called Monkey for some reason that
 everybody had forgotten, and Olive Ashley were taking advantage
 of the light to occupy themselves with painting; though she
 was painting on a very small scale and he on a very large one.
-She was laying out peculiar pigments very carefully, in imitation
+She was laying out peculiar pigments very carefully, in [[Imitation|imitation]]
 of the flat jewellery of medieval illumination, for which she
 had a great enthusiasm, as part of a rather vague notion
 of a historic past.  He, on the other hand, was highly modern,
@@ -37,20 +37,20 @@ theatricals then in preparation.  They could not paint,
 either of them; nor did they imagine that they could.
 But she was in some sense trying to do so; and he was not.
 
-"It's all very well for you to talk about discords,"
+"It's all very [[Well|well]] for you to talk about discords,"
 he was saying somewhat defensively, for she was a critical lady,
 "but your style of painting narrows the mind.  After all,
 scene-painting is only illumination seen through a microscope."
 
 "I hate microscopes," she observed briefly.
 
-"Well, you look as if you wanted one, poring over that stuff,"
+"[[Well]], you look as if you wanted one, poring over that stuff,"
 replied her companion, "in fact I fancy I have seen people
 screwing a great thing in their eye while they did it.
-I hope you won't go so far as that:  it wouldn't suit your
+I [[Hope|hope]] you won't go so far as that:  it wouldn't suit your
 style at all."
 
-This was true enough, no doubt, for she was a small, slight girl,
+This was true enough, no [[Doubt|doubt]], for she was a small, slight girl,
 with dark delicate features of the kind called regular; and her
 dark green dress, which was aesthetic but the reverse of Bohemian,
 had something akin to the small severities of her task.
@@ -65,7 +65,7 @@ to adjure her not to put the brush in the mouth.
 
 "What I mean," she said, resuming the subject of microscopes,
 "is that all your science and modern stuff has only made things ugly,
-and people ugly as well.  I don't want to look down a microscope
+and people ugly as [[Well|well]].  I don't want to look down a microscope
 any more than down a drain.  You only see a lot of horrid little
 things crawling about.  I don't want to look down at all.
 That's why I like all this old Gothic painting and building;
@@ -75,7 +75,7 @@ that points to heaven."
 "It's rude to the point," said Murrel, "and I think they might have given
 us credit for noticing the sky."
 
-"You know perfectly well what I mean," replied the lady,
+"You know perfectly [[Well|well]] what I mean," replied the lady,
 painting placidly, "all the originality of those medieval
 people was in the way they built their churches.
 The whole point of them was the pointed arches."
@@ -91,29 +91,29 @@ prize-fight for the world; but I shouldn't mind a bit being
 a lady at one of the old tournaments."
 
 "You might be a lady, but I shouldn't be a lord," said the
-scene-painter gloomily.  "Not my luck.  Even if I were a king,
+scene-painter gloomily.  "Not my luck.  Even if I were a [[King|king]],
 I should only be drowned in a butt of sack and never smile again.
 But it's more my luck to be born a serf or something.
 A leper, or some such medieval institution.  Yes, that's how it
 would be--the minute I'd poked my nose into the thirteenth
-century I'd be appointed Chief Leper to the king or somebody;
-and have to squint into church through that little window."
+century I'd be appointed Chief Leper to the [[King|king]] or somebody;
+and have to squint into church through that little [[Window|window]]."
 
-"You don't squint into church through any window at present,"
+"You don't squint into church through any [[Window|window]] at present,"
 observed the lady, "nor has it occurred to you even to do
 so through the door."
 
 "Oh, I leave all that to you," he said, and proceeded to splash away
-in silence.  He was engaged on a modest interior of "The Throne Room
-of Richard Coeur de Lion," which he treated in a scheme of scarlet,
+in [[Silence|silence]].  He was engaged on a modest interior of "The Throne Room
+of [[Richard]] Coeur de [[Lion]]," which he treated in a scheme of scarlet,
 crimson and purple which Miss Ashley strove in vain to arrest;
 though she really had some rights of protest in the matter,
 having both selected the medieval subject and even written the play,
 so far as her more sportive collaborators would allow her.
 It was all about Blondel, the Troubadour, who serenaded Coeur de
-Lion and many other people; including the daughter of the house;
+[[Lion]] and many other people; including the daughter of the [[house]];
 who was addicted to theatricals and kept him at it.
-The Hon. Douglas Murrel, or Monkey, cheerfully confronted his ill-success
+The Hon. Douglas Murrel, or Monkey, cheerfully confronted his ill-[[success]]
 in scene-painting, having succeeded equally ill in many other things.
 He was a man of wide culture, and had failed in all subjects.
 He had especially failed in politics; having once been
@@ -137,10 +137,10 @@ which were almost as lively as the colours on his brush.
 
 "I've a negro taste," he explained, laying on a giant streak
 of sanguine colour, "these mongrel greys of the mystics make me
-as tired as they are.  They talk about a Celtic Renaissance;
-but I'm for an Ethiopian Renaissance.  The banjo to be more truly
+as tired as they are.  They talk about a Celtic [[Renaissance]];
+but I'm for an Ethiopian [[Renaissance]].  The banjo to be more truly
 what's-its-name than old Dolmetch's lute.  No dances but the deep,
-heart-weary Break-Down--there's tears in the very name--no historical
+heart-weary Break-Down--there's [[Tears|tears]] in the very name--no historical
 characters except Toussaint L'Ouverture and Booker Washington,
 no fictitious characters except Uncle Remus and Uncle Tom.
 I bet it wouldn't take much to make the Smart Set black
@@ -150,10 +150,10 @@ Something tells me I was intended for a Margate nigger.
 I _do_ think vulgarity is so nice, don't you?"
 
 She did not reply; indeed she seemed a little absent-minded.
-Her humour had been faintly shrewdish; but when her face
+Her [[Humour|humour]] had been faintly shrewdish; but when her face
 fell into seriousness it was entirely young.  Her fine
-profile with parted lips suddenly suggested not only a child,
-but a lost child.
+profile with parted lips suddenly suggested not only a [[Child|child]],
+but a lost [[Child|child]].
 
 "I remember an old illumination that had a negro in it," she said
 at last.  "It was one of the Three Kings at Bethlehem, with gold crowns.
@@ -163,11 +163,11 @@ a way of doing it.  But we can't get the exact red they used now;
 I know people who have really tried.  It's one of the lost arts,
 like the stained glass."
 
-"This red will do very well for our modern purpose,"
+"This red will do very [[Well|well]] for our modern purpose,"
 said Murrel equably.
 
 She still looked out abstractedly at the circle of the woods
-under the morning sky.  "I rather wonder sometimes," she said,
+under the morning sky.  "I rather [[Wonder|wonder]] sometimes," she said,
 "what are our modern purposes.
 
 "Painting the town red, I suppose," he answered.
@@ -177,48 +177,48 @@ under the morning sky.  "I rather wonder sometimes," she said,
 You know they always gilt the name of God?  I think if they
 gilt any word now it would be Gold."
 
-The industrious silence which ensued was at length broken by a distant
+The industrious [[Silence|silence]] which ensued was at length broken by a distant
 voice down the corridors calling out:  "Monkey!" in a boisterous
 and imperative manner.  Murrel did not in the least object to being
 called a monkey, yet he always felt a slight distaste when Julian Archer
-called him one.  It had nothing to do with jealousy; though Archer
-had the same vague universality of success as Murrel had of failure.
+called him one.  It had nothing to do with [[Jealousy|jealousy]]; though Archer
+had the same vague universality of [[success]] as Murrel had of failure.
 It had to do with a fine shade between familiarity and intimacy,
 which men like Murrel are never ready to disregard, however ready
-they may be to black their faces.  When he was at Oxford he had often
+they may be to black their faces.  When he was at [[Oxford]] he had often
 carried ragging to something within measurable distance of murder.
 But he never threw people out of top windows unless they were
 his personal friends.
 
 Julian Archer was one of those men who seem to be in a great
 many places at once; and to be very important for some reason
-which is difficult to specify.  He was not a fool or a fraud:
+which is difficult to specify.  He was not a [[Fool|fool]] or a fraud:
 he acquitted himself with credit and moderation in the various
 examinations or responsibilities which appeared to be forced upon him.
 But spectators of the subtler sort could never quite understand
 why these things always were forced upon him, and not upon the man
 next door.  Some magazine would have a symposium, let us say,
 on "Shall We Eat Meat?" in which answers would be obtained from
-Bernard Shaw, Dr. Saleeby, Lord Dawson of Penn and Mr. Julian Archer.
+Bernard [[Shaw]], Dr. Saleeby, Lord Dawson of Penn and Mr. Julian Archer.
 A committee would be formed for a National Theatre or a
 Shakespeare Memorial:  and speeches would be delivered from
-the platform by Miss Viola Tree, Sir Arthur Pinero, Mr. Comyns Carr
+the platform by Miss [[Viola]] Tree, Sir [[arthur|Arthur]] Pinero, Mr. Comyns Carr
 and Mr. Julian Archer.  A composite book of essays would be
-published called "The Hope of a Hereafter," with contributions
-by Sir Oliver Lodge, Miss Marie Corelli, Mr. Joseph McCabe
+published called "The [[Hope]] of a Hereafter," with contributions
+by Sir [[Oliver]] Lodge, Miss Marie Corelli, Mr. Joseph McCabe
 and Mr. Julian Archer.  He was a Member of Parliament and of many
-other clubs.  He had written a historical novel; he was an admirable
+other clubs.  He had written a [[Historical Novel|historical novel]]; he was an admirable
 amateur actor:  so that his claims to take the leading part
 in the play of "Blondel the Troubadour" could not be disputed.
 In all this there was nothing objectionable or even eccentric.
-His historical novel about Agincourt was quite good considered
-as a modern historical novel; that is, considered as the
+His [[Historical Novel|historical novel]] about Agincourt was quite good considered
+as a modern [[Historical Novel|historical novel]]; that is, considered as the
 adventures of a modern public schoolboy at a fancy dress ball.
 He was in favour of moderate indulgence in meat; and moderate
-indulgence in personal immortality.  But his temperate opinions
+indulgence in personal [[Immortality|immortality]].  But his temperate opinions
 were loudly and positively uttered, as in the deep and resonant
 voice which was now booming down the passages.  He was one of
-those who can endure that silence which comes after a platitude.
+those who can endure that [[Silence|silence]] which comes after a platitude.
 His voice went before him everywhere; as did his reputation and his
 photograph in the society papers; with its dark curls and bold
 handsome face.  Miss Ashley remarked that he looked like a tenor.
@@ -234,11 +234,11 @@ put him out.
 
 "I say," he said, "Braintree won't act."
 
-"Well," said Murrel, painting stolidly, "I never thought he would."
+"[[Well]]," said Murrel, painting stolidly, "I never thought he would."
 
 "Rather rot, I know, having to ask a fellow like that:
 but there was simply nobody else.  I told Lord Seawood it was rot
-to have it at this time of the year when all his friends are away.
+to have it at this [[Time|time]] of the year when all his friends are away.
 Braintree's only an acquaintance, of course, and I can't imagine
 how he even came to be that."
 
@@ -266,12 +266,12 @@ things if you call him a Socialist.  He is a Syndicalist."
 things better," said Archer in a general manner, "but nobody
 can defend a man who sets one class against another as he does;
 talking about manual labour and all sorts of impossible Utopias.
-I've always said that Capital has its duties as well as its--."
+I've always said that Capital has its duties as [[Well|well]] as its--."
 
-"Well," interposed Murrel hastily, "I'm prejudiced in the present case.
+"[[Well]]," interposed Murrel hastily, "I'm prejudiced in the present case.
 Look at me; you couldn't have anybody more manual than I am."
 
-"Well, he won't act, anyhow," repeated Archer, "and we must
+"[[Well]], he won't act, anyhow," repeated Archer, "and we must
 find somebody.  It's only the Second Troubadour, of course,
 and anybody can do it.  But it must be somebody fairly young;
 that's the only reason I thought of Braintree."
@@ -286,7 +286,7 @@ are sordid; just prosaic and low, and wrangling about machinery
 and money--materialists.  They just want a world of atheists,
 that would soon be a world of apes."
 
-After a silence, Murrel crossed to the other end of the long
+After a [[Silence|silence]], Murrel crossed to the other end of the long
 room and could be heard calling a number into the telephone.
 There ensued one of those half conversations that make the hearer
 feel as if he were literally half-witted: but in this case
@@ -302,7 +302,7 @@ I won't even paint you--all right."
 
 He rang off and returned to his creative labours, whistling.
 
-"Do you know Mr. Braintree?" asked Olive, with some wonder.
+"Do you know Mr. Braintree?" asked Olive, with some [[Wonder|wonder]].
 
 "You know I have a taste for low company," answered Murrel.
 
@@ -312,7 +312,7 @@ He rang off and returned to his creative labours, whistling.
 "A taste for low company doesn't make people thieves," said Murrel,
 "it's generally a taste for high company that does that."
 And he proceeded to decorate a vivid violet pillar with very large
-orange stars, in accordance with the well-known style of the
-ornamentation of throne-rooms in the reign of Richard the First.
+orange [[Stars|stars]], in accordance with the [[Well|well]]-known style of the
+ornamentation of throne-rooms in the reign of [[Richard]] the First.
 
 -^-

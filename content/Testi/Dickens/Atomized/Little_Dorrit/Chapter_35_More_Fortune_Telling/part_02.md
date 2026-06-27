@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-If he had known the sharpness of the pain he caused the patient heart,
+If he had known the sharpness of the [[Pain|pain]] he caused the patient heart,
 in speaking thus! While doing it, too, with the purpose of easing and
 serving her.
 
@@ -27,21 +27,21 @@ his hand, and the cruel wounds it struck in the faithful bleeding breast
 of his Little Dorrit!
 
 ‘All that is over, and I have turned my face from it. Why do I speak of
-this to Little Dorrit? Why do I show you, my child, the space of years
+this to Little Dorrit? Why do I show you, my [[Child|child]], the space of years
 that there is between us, and recall to you that I have passed, by the
-amount of your whole life, the time that is present to you?’
+amount of your whole life, the [[Time|time]] that is present to you?’
 
-‘Because you trust me, I hope. Because you know that nothing can touch
+‘Because you trust me, I [[Hope|hope]]. Because you know that nothing can touch
 you without touching me; that nothing can make you happy or unhappy, but
 it must make me, who am so grateful to you, the same.’
 
 He heard the thrill in her voice, he saw her earnest face, he saw her
 clear true eyes, he saw the quickened bosom that would have joyfully
 thrown itself before him to receive a mortal wound directed at his
-breast, with the dying cry, ‘I love him!’ and the remotest suspicion
-of the truth never dawned upon his mind. No. He saw the devoted little
-creature with her worn shoes, in her common dress, in her jail-home; a
-slender child in body, a strong heroine in soul; and the light of her
+breast, with the dying cry, ‘I [[Love|love]] him!’ and the remotest suspicion
+of the [[Truth|truth]] never dawned upon his mind. No. He saw the devoted little
+creature with her worn shoes, in her common dress, in her jail-[[Home|home]]; a
+slender [[Child|child]] in [[Body|body]], a strong heroine in [[Soul|soul]]; and the light of her
 domestic story made all else dark to him.
 
 ‘For those reasons assuredly, Little Dorrit, but for another too. So
@@ -54,14 +54,14 @@ before me. Why have you kept so retired from me? Tell me.’
 said Little Dorrit, faintly.
 
 ‘So you said that day upon the bridge. I thought of it much afterwards.
-Have you no secret you could entrust to me, with hope and comfort, if
+Have you no secret you could entrust to me, with [[Hope|hope]] and comfort, if
 you would!’
 
 ‘Secret? No, I have no secret,’ said Little Dorrit in some trouble.
 
 They had been speaking in low voices; more because it was natural to
 what they said to adopt that tone, than with any care to reserve it from
-Maggy at her work. All of a sudden Maggy stared again, and this time
+Maggy at her work. All of a sudden Maggy stared again, and this [[Time|time]]
 spoke:
 
 ‘I say! Little Mother!’
@@ -82,14 +82,14 @@ never said so.’
 
 ‘No, I didn’t. How could I, when it was her as wanted to find it out? It
 was the little woman as had the secret, and she was always a spinning at
-her wheel. And so she says to her, why do you keep it there? And so the
+her [[Wheel|wheel]]. And so she says to her, why do you keep it there? And so the
 t’other one says to her, no I don’t; and so the t’other one says to her,
 yes you do; and then they both goes to the cupboard, and there it is.
 And she wouldn’t go into the Hospital, and so she died. _You_ know, Little
 Mother; tell him that. For it was a reg’lar good secret, that was!’ cried
 Maggy, hugging herself.
 
-Arthur looked at Little Dorrit for help to comprehend this, and was
+[[arthur|Arthur]] looked at Little Dorrit for help to comprehend this, and was
 struck by seeing her so timid and red. But, when she told him that it
 was only a Fairy Tale she had one day made up for Maggy, and that there
 was nothing in it which she wouldn’t be ashamed to tell again to anybody
@@ -98,7 +98,7 @@ else, even if she could remember it, he left the subject where it was.
 However, he returned to his own subject by first entreating her to see
 him oftener, and to remember that it was impossible to have a stronger
 interest in her welfare than he had, or to be more set upon promoting it
-than he was. When she answered fervently, she well knew that, she never
+than he was. When she answered fervently, she [[Well|well]] knew that, she never
 forgot it, he touched upon his second and more delicate point--the
 suspicion he had formed.
 
@@ -112,7 +112,7 @@ that nothing to the last will ever tempt you away from the duties you
 discharge here. If I were not sure of it, I should, before now, have
 implored you, and implored your father, to let me make some provision
 for you in a more suitable place. But you may have an interest--I will
-not say, now, though even that might be--may have, at another time,
+not say, now, though even that might be--may have, at another [[Time|time]],
 an interest in some one else; an interest not incompatible with your
 affection here.’
 
@@ -122,12 +122,12 @@ She was very, very pale, and silently shook her head.
 
 ‘No. No. No.’ She shook her head, after each slow repetition of
 the word, with an air of quiet desolation that he remembered long
-afterwards. The time came when he remembered it well, long afterwards,
-within those prison walls; within that very room.
+afterwards. The [[Time|time]] came when he remembered it [[Well|well]], long afterwards,
+within those [[Prison|prison]] walls; within that very room.
 
-‘But, if it ever should be, tell me so, my dear child. Entrust the truth
+‘But, if it ever should be, tell me so, my dear [[Child|child]]. Entrust the [[Truth|truth]]
 to me, point out the object of such an interest to me, and I will try
-with all the zeal, and honour, and friendship and respect that I feel
+with all the zeal, and [[Honour|honour]], and [[Friendship|friendship]] and respect that I feel
 for you, good Little Dorrit of my heart, to do you a lasting service.’
 
 ‘O thank you, thank you! But, O no, O no, O no!’ She said this, looking

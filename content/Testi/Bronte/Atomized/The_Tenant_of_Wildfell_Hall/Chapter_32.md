@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 32"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 32"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -32,7 +32,7 @@ when we go to the Grove, I always contrive to see her, and talk more to
 
 her than to any one else, for I am very much attached to my little
 
-friend, and so is she to me. I wonder what she can see to like in me
+friend, and so is she to me. I [[Wonder|wonder]] what she can see to like in me
 
 though, for I am no longer the happy, lively girl I used to be; but she
 
@@ -42,13 +42,13 @@ governess (as artificial and conventional a person as that prudent
 
 mother could procure to rectify the pupil’s natural qualities), and,
 
-now and then, her subdued, quiet sister. I often wonder what will be
+now and then, her subdued, quiet sister. I often [[Wonder|wonder]] what will be
 
 _her_ lot in life, and so does she; but _her_ speculations on the
 
-future are full of buoyant hope; so were mine once. I shudder to think
+future are full of buoyant [[Hope|hope]]; so were mine once. I shudder to think
 
-of her being awakened, like me, to a sense of their delusive vanity. It
+of her being awakened, like me, to a sense of their delusive [[Vanity|vanity]]. It
 
 seems as if I should feel her disappointment, even more deeply than my
 
@@ -64,11 +64,11 @@ as I feel now, and know what I have known!
 
 Her sister trembles for her too. Yesterday morning, one of October’s
 
-brightest, loveliest days, Milicent and I were in the garden enjoying a
+brightest, loveliest days, Milicent and I were in the [[Garden|garden]] enjoying a
 
 brief half-hour together with our children, while Annabella was lying
 
-on the drawing-room sofa, deep in the last new novel. We had been
+on the drawing-room sofa, deep in the last new [[Novel|novel]]. We had been
 
 romping with the little creatures, almost as merry and wild as
 
@@ -78,11 +78,11 @@ recover breath and rectify our hair, disordered by the rough play and
 
 the frolicsome breeze, while they toddled together along the broad,
 
-sunny walk; my Arthur supporting the feebler steps of her little Helen,
+sunny walk; my [[arthur|Arthur]] supporting the feebler steps of her little [[Helen]],
 
 and sagaciously pointing out to her the brightest beauties of the
 
-border as they passed, with semi-articulate prattle, that did as well
+border as they passed, with semi-articulate prattle, that did as [[Well|well]]
 
 for her as any other mode of discourse. From laughing at the pretty
 
@@ -96,7 +96,7 @@ led to think of her sister.
 
 
 
-“Helen,” said she, “you often see Esther, don’t you?”
+“[[Helen]],” said she, “you often see Esther, don’t you?”
 
 
 
@@ -114,27 +114,27 @@ mamma.”
 
 
 
-“That is because she is self-willed, and my opinions more generally
+“That is because she is [[Self|self]]-willed, and my opinions more generally
 
 coincide with her own than your mamma’s. But what then, Milicent?”
 
 
 
-“Well, since you have so much influence with her, I wish you would
+“[[Well]], since you have so much influence with her, I wish you would
 
 seriously impress it upon her, never, on any account, or for anybody’s
 
-persuasion, to marry for the sake of money, or rank, or establishment,
+[[Persuasion|persuasion]], to marry for the sake of money, or rank, or establishment,
 
-or any earthly thing, but true affection and well-grounded esteem.”
+or any earthly thing, but true affection and [[Well|well]]-grounded esteem.”
 
 
 
 “There is no necessity for that,” said I, “for we have had some
 
-discourse on that subject already, and I assure you her ideas of love
+discourse on that subject already, and I assure you her ideas of [[Love|love]]
 
-and matrimony are as romantic as any one could desire.”
+and matrimony are as romantic as any one could [[Desire|desire]].”
 
 
 
@@ -144,7 +144,7 @@ and matrimony are as romantic as any one could desire.”
 
 “Very right: but in my judgment, what the world stigmatises as
 
-romantic, is often more nearly allied to the truth than is commonly
+romantic, is often more nearly allied to the [[Truth|truth]] than is commonly
 
 supposed; for, if the generous ideas of youth are too often
 
@@ -154,7 +154,7 @@ them to be false.”
 
 
 
-“Well, but if you think her ideas are what they ought to be, strengthen
+“[[Well]], but if you think her ideas are what they ought to be, strengthen
 
 them, will you? and confirm them, as far as you can; for _I_ had
 
@@ -172,15 +172,15 @@ would not have your sister to suffer the same as you.”
 
 “No—or worse. She might have far worse to suffer than I, for _I am_
 
-really contented, Helen, though you mayn’t think it: I speak the solemn
+really contented, [[Helen]], though you mayn’t think it: I speak the solemn
 
-truth in saying that I would not exchange my husband for any man on
+[[Truth|truth]] in saying that I would not exchange my husband for any man on
 
 earth, if I might do it by the plucking of this leaf.”
 
 
 
-“Well, I believe you: now that you have him, you would not exchange him
+“[[Well]], I believe you: now that you have him, you would not exchange him
 
 for another; but then you would gladly exchange some of his qualities
 
@@ -190,11 +190,11 @@ for those of better men.”
 
 “Yes: just as I would gladly exchange some of my own qualities for
 
-those of better women; for neither he nor I are perfect, and I desire
+those of better women; for neither he nor I are perfect, and I [[Desire|desire]]
 
 his improvement as earnestly as my own. And he will improve, don’t you
 
-think so, Helen? he’s only six-and-twenty yet.”
+think so, [[Helen]]? he’s only six-and-twenty yet.”
 
 
 
@@ -216,11 +216,11 @@ as the flattest of octogenarians.”
 
 
 
-“And yet you do hope, still, even for Mr. Huntingdon?”
+“And yet you do [[Hope|hope]], still, even for Mr. Huntingdon?”
 
 
 
-“I do, I confess, ‘even’ for _him;_ for it seems as if life and hope
+“I do, I confess, ‘even’ for _him;_ for it seems as if life and [[Hope|hope]]
 
 must cease together. And is he so _much_ worse, Milicent, than Mr.
 
@@ -228,15 +228,15 @@ Hattersley?”
 
 
 
-“Well, to give you my candid opinion, I think there is no comparison
+“[[Well]], to give you my candid opinion, I think there is no comparison
 
-between them. But you mustn’t be offended, Helen, for you know I always
+between them. But you mustn’t be offended, [[Helen]], for you know I always
 
 speak my mind, and you may speak yours too. I sha’n’t care.”
 
 
 
-“I am not offended, love; and my opinion is, that if there _be_ a
+“I am not offended, [[Love|love]]; and my opinion is, that if there _be_ a
 
 comparison made between the two, the difference, for the most part, is
 
@@ -258,7 +258,7 @@ when we shed not a tear for our own! Her heart had been full enough of
 
 her own sorrows, but it overflowed at the idea of mine; and I, too,
 
-shed tears at the sight of her sympathetic emotion, though I had not
+shed [[Tears|tears]] at the sight of her sympathetic emotion, though I had not
 
 wept for myself for many a week.
 
@@ -268,17 +268,17 @@ wept for myself for many a week.
 
 
 
-It was one rainy day last week; most of the company were killing time
+It was one rainy day last week; most of the company were killing [[Time|time]]
 
-in the billiard-room, but Milicent and I were with little Arthur and
+in the billiard-room, but Milicent and I were with little [[arthur|Arthur]] and
 
-Helen in the library, and between our books, our children, and each
+[[Helen]] in the library, and between our books, our children, and each
 
 other, we expected to make out a very agreeable morning. We had not
 
 been thus secluded above two hours, however, when Mr. Hattersley came
 
-in, attracted, I suppose, by the voice of his child, as he was crossing
+in, attracted, I suppose, by the voice of his [[Child|child]], as he was crossing
 
 the hall, for he is prodigiously fond of her, and she of him.
 
@@ -296,15 +296,15 @@ delight, and, quitting her mother’s side, ran crowing towards him,
 
 balancing her course with outstretched arms, and embracing his knee,
 
-threw back her head and laughed in his face. He might well look
+threw back her head and laughed in his face. He might [[Well|well]] look
 
-smilingly down upon those small, fair features, radiant with innocent
+smilingly down upon those small, fair features, radiant with [[Innocent|innocent]]
 
 mirth, those clear blue shining eyes, and that soft flaxen hair cast
 
 back upon the little ivory neck and shoulders. Did he not think how
 
-unworthy he was of such a possession? I fear no such idea crossed his
+unworthy he was of such a possession? I [[Fear|fear]] no such idea crossed his
 
 mind. He caught her up, and there followed some minutes of very rough
 
@@ -320,17 +320,17 @@ tossed it into its mother’s lap, bidding her “make all straight.” As
 
 happy to return to that gentle comforter as it had been to leave her,
 
-the child nestled in her arms, and hushed its cries in a moment; and
+the [[Child|child]] nestled in her arms, and hushed its cries in a moment; and
 
 sinking its little weary head on her bosom, soon dropped asleep.
 
 
 
-Meantime Mr. Hattersley strode up to the fire, and interposing his
+Meantime Mr. Hattersley strode up to the [[Fire|fire]], and interposing his
 
 height and breadth between us and it, stood with arms akimbo, expanding
 
-his chest, and gazing round him as if the house and all its
+his chest, and gazing round him as if the [[house]] and all its
 
 appurtenances and contents were his own undisputed possessions.
 
@@ -340,7 +340,7 @@ appurtenances and contents were his own undisputed possessions.
 
 guess.” Then, suddenly lifting up his voice, he regaled us with a few
 
-bars of a rollicking song, which abruptly ceasing, he finished the tune
+bars of a rollicking [[Song|song]], which abruptly ceasing, he finished the tune
 
 with a whistle, and then continued:—“I say, Mrs. Huntingdon, what a
 
@@ -348,13 +348,13 @@ fine stud your husband has! not large, but good. I’ve been looking at
 
 them a bit this morning; and upon my word, Black Boss, and Grey Tom,
 
-and that young Nimrod are the finest animals I’ve seen for many a day!”
+and that young Nimrod are the finest [[Animals|animals]] I’ve seen for many a day!”
 
 Then followed a particular discussion of their various merits,
 
-succeeded by a sketch of the great things _he_ intended to do in the
+succeeded by a [[Sketch|sketch]] of the great things _he_ intended to do in the
 
-horse-jockey line, when his old governor thought proper to quit the
+[[Horse|horse]]-jockey line, when his old governor thought proper to quit the
 
 stage. “Not that I wish him to close his accounts,” added he: “the old
 
@@ -362,11 +362,11 @@ Trojan is welcome to keep his books open as long as he pleases for me.”
 
 
 
-“I hope so, _indeed_, Mr. Hattersley.”
+“I [[Hope|hope]] so, _indeed_, Mr. Hattersley.”
 
 
 
-“Oh, yes! It’s only my way of talking. The event must come some time,
+“Oh, yes! It’s only my way of talking. The event must come some [[Time|time]],
 
 and so I look to the bright side of it: that’s the right plan—isn’t it,
 
@@ -400,13 +400,13 @@ do you look so sulky for? don’t you believe me?”
 
 “Yes, I believe you,” murmured she, in a tone of half sad, half sullen
 
-resignation, as she turned away to stroke the hair of her sleeping
+[[Resignation|resignation]], as she turned away to stroke the hair of her sleeping
 
 infant, that she had laid on the sofa beside her.
 
 
 
-“Well, _then_, what makes you so cross? Come here, Milly, and tell me
+“[[Well]], _then_, what makes you so [[Cross|cross]]? Come here, Milly, and tell me
 
 why you can’t be satisfied with my assurance.”
 
@@ -424,15 +424,15 @@ Annabella so much, and for qualities that I don’t possess, you would
 
 still rather have me than her for your wife, which merely proves that
 
-you don’t think it necessary to love your wife; you are satisfied if
+you don’t think it necessary to [[Love|love]] your wife; you are satisfied if
 
-she can keep your house, and take care of your child. But I’m not
+she can keep your [[house]], and take care of your [[Child|child]]. But I’m not
 
-cross; I’m only sorry; for,” added she, in a low, tremulous accent,
+[[Cross|cross]]; I’m only sorry; for,” added she, in a low, tremulous accent,
 
 withdrawing her hand from his arm, and bending her looks on the rug,
 
-“if you don’t love me, you don’t, and it can’t be helped.”
+“if you don’t [[Love|love]] me, you don’t, and it can’t be helped.”
 
 
 
@@ -444,9 +444,9 @@ withdrawing her hand from his arm, and bending her looks on the rug,
 
 
 
-“True, but adoration isn’t love. I adore Annabella, but I don’t love
+“True, but adoration isn’t [[Love|love]]. I adore Annabella, but I don’t [[Love|love]]
 
-her; and I love thee, Milicent, but I don’t adore thee.” In proof of
+her; and I [[Love|love]] thee, Milicent, but I don’t adore thee.” In proof of
 
 his affection, he clutched a handful of her light brown ringlets, and
 
@@ -456,7 +456,7 @@ appeared to twist them unmercifully.
 
 “Do you really, Ralph?” murmured she, with a faint smile beaming
 
-through her tears, just putting up her hand to his, in token that he
+through her [[Tears|tears]], just putting up her hand to his, in token that he
 
 pulled _rather_ too hard.
 
@@ -510,7 +510,7 @@ hair. “You mustn’t mind my talk, Milly. A man must have something to
 
 grumble about; and if he can’t complain that his wife harries him to
 
-death with her perversity and ill-humour, he must complain that she
+[[Death|death]] with her perversity and ill-[[Humour|humour]], he must complain that she
 
 wears him out with her kindness and gentleness.”
 
@@ -554,7 +554,7 @@ was gone, “but a thought too soft—she almost melts in one’s hands. I
 
 positively think I ill-use her sometimes, when I’ve taken too much—but
 
-I can’t help it, for she never complains, either at the time or after.
+I can’t help it, for she never complains, either at the [[Time|time]] or after.
 
 I suppose she doesn’t mind it.”
 
@@ -590,7 +590,7 @@ would.”
 
 
 
-“Well—it’s not _my_ fault,” said he, gazing carelessly up at the
+“[[Well]]—it’s not _my_ fault,” said he, gazing carelessly up at the
 
 ceiling and plunging his hands into his pockets: “if my ongoings don’t
 
@@ -612,7 +612,7 @@ us, doesn’t it? How can I help playing the deuce when I see it’s all
 
 one to her whether I behave like a Christian or like a scoundrel, such
 
-as nature made me? and how can I help teasing her when she’s so
+as [[Nature|nature]] made me? and how can I help teasing her when she’s so
 
 invitingly meek and mim, when she lies down like a spaniel at my feet
 
@@ -620,7 +620,7 @@ and never so much as squeaks to tell me that’s enough?”
 
 
 
-“If you are a tyrant by nature, the temptation is strong, I allow; but
+“If you are a [[Tyrant|tyrant]] by [[Nature|nature]], the [[Temptation|temptation]] is strong, I allow; but
 
 no generous mind delights to oppress the weak, but rather to cherish
 
@@ -644,7 +644,7 @@ that satisfies me.”
 
 
 
-“I don’t, I tell you! only when I’m in a bad humour, or a particularly
+“I don’t, I tell you! only when I’m in a bad [[Humour|humour]], or a particularly
 
 good one, and want to afflict for the pleasure of comforting; or when
 
@@ -656,7 +656,7 @@ allow, it enrages me past bearing, especially when I’m not my own man.”
 
 
 
-“As is no doubt generally the case on such occasions,” said I. “But in
+“As is no [[Doubt|doubt]] generally the case on such occasions,” said I. “But in
 
 future, Mr. Hattersley, when you see her looking flat, or crying for
 
@@ -670,7 +670,7 @@ distresses her.”
 
 “I don’t believe it. If it were, she should tell me so: I don’t like
 
-that way of moping and fretting in silence, and saying nothing: it’s
+that way of moping and fretting in [[Silence|silence]], and saying nothing: it’s
 
 not honest. How can she expect me to mend my ways at that rate?”
 
@@ -678,7 +678,7 @@ not honest. How can she expect me to mend my ways at that rate?”
 
 “Perhaps she gives you credit for having more sense than you possess,
 
-and deludes herself with the hope that you will one day see your own
+and deludes herself with the [[Hope|hope]] that you will one day see your own
 
 errors and repair them, if left to your own reflection.”
 
@@ -726,7 +726,7 @@ it would do you little good.”
 
 
 
-“Well, but if I had a mate that would not always be yielding, and
+“[[Well]], but if I had a mate that would not always be yielding, and
 
 always equally kind, but that would have the spirit to stand at bay now
 
@@ -734,7 +734,7 @@ and then, and honestly tell me her mind at all times, such a one as
 
 yourself for instance. Now, if I went on with you as I do with her when
 
-I’m in London, you’d make the house too hot to hold me at times, I’ll
+I’m in [[London]], you’d make the [[house]] too hot to hold me at times, I’ll
 
 be sworn.”
 
@@ -744,7 +744,7 @@ be sworn.”
 
 
 
-“Well, all the better for that, for I can’t stand contradiction, in a
+“[[Well]], all the better for that, for I can’t stand contradiction, in a
 
 general way, and I’m as fond of my own will as another; only I think
 
@@ -752,11 +752,11 @@ too much of it doesn’t answer for any man.”
 
 
 
-“Well, I would never contradict you without a cause, but certainly I
+“[[Well]], I would never contradict you without a cause, but certainly I
 
 would always let you know what I thought of your conduct; and if you
 
-oppressed me, in body, mind, or estate, you should at least have no
+oppressed me, in [[Body|body]], mind, or estate, you should at least have no
 
 reason to suppose ‘I didn’t mind it.’”
 
@@ -776,7 +776,7 @@ same plan, it would be better for us both.”
 
 think upon it, Huntingdon often regrets that you are not more like her,
 
-scoundrelly dog that he is, and you see, after all, you can’t reform
+scoundrelly dog that he is, and you see, after all, you can’t [[Reform|reform]]
 
 _him:_ he’s _ten_ times worse than I. He’s afraid of you, to be sure;
 
@@ -784,17 +784,17 @@ that is, he’s always on his best behaviour in your presence—but—”
 
 
 
-“I wonder what his worst behaviour is like, then?” I could not forbear
+“I [[Wonder|wonder]] what his worst behaviour is like, then?” I could not forbear
 
 observing.
 
 
 
-“Why, to tell you the truth, it’s very bad indeed—isn’t it, Hargrave?”
+“Why, to tell you the [[Truth|truth]], it’s very bad indeed—isn’t it, Hargrave?”
 
 said he, addressing that gentleman, who had entered the room
 
-unperceived by me, for I was now standing near the fire, with my back
+unperceived by me, for I was now standing near the [[Fire|fire]], with my back
 
 to the door. “Isn’t Huntingdon,” he continued, “as great a reprobate as
 
@@ -828,7 +828,7 @@ dignity, Mr. Hargrave took himself away to the other end of the rug.
 
 “Isn’t it a shame, Mrs. Huntingdon?” cried his brother-in-law; “I
 
-struck Walter Hargrave when I was drunk, the second night after we
+struck [[Walter Hargrave]] when I was drunk, the second [[Night|night]] after we
 
 came, and he’s turned a cold shoulder on me ever since; though I asked
 
@@ -872,7 +872,7 @@ least,” said Mr. Hargrave, hiding his anger under a mask of disgust.
 
 
 
-“What have I said?” returned Hattersley: “nothing but heaven’s truth.
+“What have I said?” returned Hattersley: “nothing but heaven’s [[Truth|truth]].
 
 He will be damned, won’t he, Mrs. Huntingdon, if he doesn’t forgive his
 
@@ -888,7 +888,7 @@ brother’s trespasses?”
 
 forward and offered his hand. It was immediately clasped in that of his
 
-relative, and the reconciliation was apparently cordial on both sides.
+relative, and the [[Reconciliation|reconciliation]] was apparently cordial on both sides.
 
 
 
@@ -944,9 +944,9 @@ the nursery.”
 
 
 
-“No; I want the exercise of a run to the top of the house. Come,
+“No; I want the exercise of a run to the top of the [[house]]. Come,
 
-Arthur.”
+[[arthur|Arthur]].”
 
 
 
@@ -962,9 +962,9 @@ Arthur.”
 
 
 
-“At lunch,” said I, departing with little Helen in one arm and leading
+“At lunch,” said I, departing with little [[Helen]] in one arm and leading
 
-Arthur by the hand.
+[[arthur|Arthur]] by the hand.
 
 
 
@@ -986,13 +986,13 @@ fact is, Mrs. Huntingdon, I have a disclosure to make, painful for me
 
 to offer as for you to hear; and I want you to give me a few minutes of
 
-your attention in private at any time and place you like to appoint. It
+your attention in private at any [[Time|time]] and place you like to appoint. It
 
 is from no selfish motive that I ask it, and not for any cause that
 
 could alarm your superhuman purity: therefore you need not kill me with
 
-that look of cold and pitiless disdain. I know too well the feelings
+that look of cold and pitiless disdain. I know too [[Well|well]] the feelings
 
 with which the bearers of bad tidings are commonly regarded not to—”
 
@@ -1016,7 +1016,7 @@ want to hear, and something you would displease me by telling.”
 
 
 
-“You have divined too truly, I fear; but still, since I know it, I feel
+“You have divined too truly, I [[Fear|fear]]; but still, since I know it, I feel
 
 it my duty to disclose it to you.”
 
@@ -1040,7 +1040,7 @@ I left him. I was determined his words should not alarm me. What could
 
 _he_, of all men, have to reveal that was of importance for _me_ to
 
-hear? It was no doubt some exaggerated tale about my unfortunate
+hear? It was no [[Doubt|doubt]] some exaggerated tale about my unfortunate
 
 husband that he wished to make the most of to serve his own bad
 
@@ -1052,14 +1052,14 @@ purposes.
 
 seen no reason to repent of my unwillingness to hear it. The threatened
 
-blow has not been struck yet, and I do not greatly fear it. At present
+blow has not been struck yet, and I do not greatly [[Fear|fear]] it. At present
 
-I am pleased with Arthur: he has not positively disgraced himself for
+I am pleased with [[arthur|Arthur]]: he has not positively disgraced himself for
 
 upwards of a fortnight, and all this last week has been so very
 
 moderate in his indulgence at table that I can perceive a marked
 
-difference in his general temper and appearance. Dare I hope this will
+difference in his general temper and appearance. Dare I [[Hope|hope]] this will
 
 continue?

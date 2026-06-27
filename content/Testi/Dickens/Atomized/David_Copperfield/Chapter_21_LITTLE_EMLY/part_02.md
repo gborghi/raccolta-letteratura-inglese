@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 21: LITTLE EM’LY (part 2)"
+title: "[[David Copperfield]] — Chapter 21: LITTLE EM’LY (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -21,24 +21,24 @@ conviction that I was very young indeed.
 
 What I felt, in returning so auspiciously to the old familiar places,
 I shall not endeavour to describe. We went down by the Mail. I was
-so concerned, I recollect, even for the honour of Yarmouth, that when
+so concerned, I recollect, even for the [[Honour|honour]] of Yarmouth, that when
 Steerforth said, as we drove through its dark streets to the inn, that,
-as well as he could make out, it was a good, queer, out-of-the-way kind
+as [[Well|well]] as he could make out, it was a good, queer, out-of-the-way kind
 of hole, I was highly pleased. We went to bed on our arrival (I observed
 a pair of dirty shoes and gaiters in connexion with my old friend the
 Dolphin as we passed that door), and breakfasted late in the morning.
 Steerforth, who was in great spirits, had been strolling about the
 beach before I was up, and had made acquaintance, he said, with half the
 boatmen in the place. Moreover, he had seen, in the distance, what he
-was sure must be the identical house of Mr. Peggotty, with smoke coming
+was sure must be the identical [[house]] of Mr. Peggotty, with smoke coming
 out of the chimney; and had had a great mind, he told me, to walk in and
 swear he was myself grown out of knowledge.
 
 ‘When do you propose to introduce me there, Daisy?’ he said. ‘I am at
 your disposal. Make your own arrangements.’
 
-‘Why, I was thinking that this evening would be a good time, Steerforth,
-when they are all sitting round the fire. I should like you to see it
+‘Why, I was thinking that this evening would be a good [[Time|time]], Steerforth,
+when they are all sitting round the [[Fire|fire]]. I should like you to see it
 when it’s snug, it’s such a curious place.’
 
 ‘So be it!’ returned Steerforth. ‘This evening.’
@@ -54,15 +54,15 @@ surprise. Let us see the natives in their aboriginal condition.’
 ‘Aha! What! you recollect my skirmishes with Rosa, do you?’ he exclaimed
 with a quick look. ‘Confound the girl, I am half afraid of her. She’s
 like a goblin to me. But never mind her. Now what are you going to do?
-You are going to see your nurse, I suppose?’
+You are going to see your [[Nurse|nurse]], I suppose?’
 
 ‘Why, yes,’ I said, ‘I must see Peggotty first of all.’
 
-‘Well,’ replied Steerforth, looking at his watch. ‘Suppose I deliver you
+‘[[Well]],’ replied Steerforth, looking at his watch. ‘Suppose I deliver you
 up to be cried over for a couple of hours. Is that long enough?’
 
 I answered, laughing, that I thought we might get through it in that
-time, but that he must come also; for he would find that his renown had
+[[Time|time]], but that he must come also; for he would find that his renown had
 preceded him, and that he was almost as great a personage as I was.
 
 ‘I’ll come anywhere you like,’ said Steerforth, ‘or do anything you
@@ -71,7 +71,7 @@ any state you please, sentimental or comical.’
 
 I gave him minute directions for finding the residence of Mr. Barkis,
 carrier to Blunderstone and elsewhere; and, on this understanding, went
-out alone. There was a sharp bracing air; the ground was dry; the sea
+out [[Alone|alone]]. There was a sharp bracing air; the ground was dry; the sea
 was crisp and clear; the sun was diffusing abundance of light, if not
 much warmth; and everything was fresh and lively. I was so fresh and
 lively myself, in the pleasure of being there, that I could have stopped
@@ -81,22 +81,22 @@ The streets looked small, of course. The streets that we have only seen
 as children always do, I believe, when we go back to them. But I had
 forgotten nothing in them, and found nothing changed, until I came to
 Mr. Omer’s shop. OMER AND Joram was now written up, where OMER used to
-be; but the inscription, DRAPER, TAILOR, HABERDASHER, FUNERAL FURNISHER,
+be; but the [[Inscription|inscription]], DRAPER, TAILOR, HABERDASHER, FUNERAL FURNISHER,
 &c., remained as it was.
 
 My footsteps seemed to tend so naturally to the shop door, after I had
-read these words from over the way, that I went across the road and
+read these words from over the way, that I went across the [[Road|road]] and
 looked in. There was a pretty woman at the back of the shop, dancing
-a little child in her arms, while another little fellow clung to her
+a little [[Child|child]] in her arms, while another little fellow clung to her
 apron. I had no difficulty in recognizing either Minnie or Minnie’s
 children. The glass door of the parlour was not open; but in the
 workshop across the yard I could faintly hear the old tune playing, as
 if it had never left off.
 
-‘Is Mr. Omer at home?’ said I, entering. ‘I should like to see him, for
+‘Is Mr. Omer at [[Home|home]]?’ said I, entering. ‘I should like to see him, for
 a moment, if he is.’
 
-‘Oh yes, sir, he is at home,’ said Minnie; ‘the weather don’t suit his
+‘Oh yes, sir, he is at [[Home|home]],’ said Minnie; ‘the weather don’t suit his
 asthma out of doors. Joe, call your grandfather!’
 
 The little fellow, who was holding her apron, gave such a lusty shout,
@@ -115,25 +115,25 @@ remember when. Are you sure it was me?’
 
 ‘Quite.’
 
-‘I think my memory has got as short as my breath,’ said Mr. Omer,
+‘I think my [[Memory|memory]] has got as short as my breath,’ said Mr. Omer,
 looking at me and shaking his head; ‘for I don’t remember you.’
 
 ‘Don’t you remember your coming to the coach to meet me, and my having
 breakfast here, and our riding out to Blunderstone together: you, and I,
 and Mrs. Joram, and Mr. Joram too--who wasn’t her husband then?’
 
-‘Why, Lord bless my soul!’ exclaimed Mr. Omer, after being thrown by his
+‘Why, Lord bless my [[Soul|soul]]!’ exclaimed Mr. Omer, after being thrown by his
 surprise into a fit of coughing, ‘you don’t say so! Minnie, my dear, you
 recollect? Dear me, yes; the party was a lady, I think?’
 
 ‘My mother,’ I rejoined.
 
 ‘To--be--sure,’ said Mr. Omer, touching my waistcoat with his
-forefinger, ‘and there was a little child too! There was two parties.
+forefinger, ‘and there was a little [[Child|child]] too! There was two parties.
 The little party was laid along with the other party. Over at
 Blunderstone it was, of course. Dear me! And how have you been since?’
 
-Very well, I thanked him, as I hoped he had been too.
+Very [[Well|well]], I thanked him, as I hoped he had been too.
 
 ‘Oh! nothing to grumble at, you know,’ said Mr. Omer. ‘I find my breath
 gets short, but it seldom gets longer as a man gets older. I take it as

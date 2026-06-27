@@ -42,8 +42,8 @@ Mr Boffin, with a cunning wink. ‘Now, mark this chap’s making Miss
 Wilfer stand for Pounds, Shillings, and Pence!’
 
 ‘My feeling for Miss Wilfer,’ pursued the Secretary, without deigning to
-notice him, ‘is not one to be ashamed of. I avow it. I love her. Let
-me go where I may when I presently leave this house, I shall go into a
+notice him, ‘is not one to be ashamed of. I avow it. I [[Love|love]] her. Let
+me go where I may when I presently leave this [[house]], I shall go into a
 blank life, leaving her.’
 
 ‘Leaving L.s.d. behind me,’ said Mr Boffin, by way of commentary, with
@@ -60,9 +60,9 @@ looking full at his late master, ‘say that with a word she could strip
 Mr Boffin of his fortune and take possession of it, she would be of no
 greater worth in my eyes than she is.’
 
-‘What do you think by this time, old lady,’ asked Mr Boffin, turning to
+‘What do you think by this [[Time|time]], old lady,’ asked Mr Boffin, turning to
 his wife in a bantering tone, ‘about this Rokesmith here, and his caring
-for the truth? You needn’t say what you think, my dear, because I don’t
+for the [[Truth|truth]]? You needn’t say what you think, my dear, because I don’t
 want you to cut in, but you can think it all the same. As to taking
 possession of my property, I warrant you he wouldn’t do that himself if
 he could.’
@@ -78,7 +78,7 @@ My interest in Miss Wilfer began when I first saw her; even began when I
 had only heard of her. It was, in fact, the cause of my throwing myself
 in Mr Boffin’s way, and entering his service. Miss Wilfer has never
 known this until now. I mention it now, only as a corroboration (though
-I hope it may be needless) of my being free from the sordid design
+I [[Hope|hope]] it may be needless) of my being free from the sordid design
 attributed to me.’
 
 ‘Now, this is a very artful dog,’ said Mr Boffin, with a deep look.
@@ -87,7 +87,7 @@ and methodically he goes to work. He gets to know about me and my
 property, and about this young lady, and her share in poor young John’s
 story, and he puts this and that together, and he says to himself, “I’ll
 get in with Boffin, and I’ll get in with this young lady, and I’ll work
-’em both at the same time, and I’ll bring my pigs to market somewhere.”
+’em both at the same [[Time|time]], and I’ll bring my pigs to market somewhere.”
  I hear him say it, bless you! I look at him, now, and I see him say it!’
 
 Mr Boffin pointed at the culprit, as it were in the act, and hugged
@@ -96,7 +96,7 @@ himself in his great penetration.
 ‘But luckily he hadn’t to deal with the people he supposed, Bella, my
 dear!’ said Mr Boffin. ‘No! Luckily he had to deal with you, and with
 me, and with Daniel and Miss Dancer, and with Elwes, and with Vulture
-Hopkins, and with Blewbury Jones and all the rest of us, one down
+Hopkins, and with Blewbury [[Jones]] and all the rest of us, one down
 t’other come on. And he’s beat; that’s what he is; regularly beat. He
 thought to squeeze money out of us, and he has done for himself instead,
 Bella my dear!’
@@ -104,7 +104,7 @@ Bella my dear!’
 Bella my dear made no response, gave no sign of acquiescence. When she
 had first covered her face she had sunk upon a chair with her hands
 resting on the back of it, and had never moved since. There was a short
-silence at this point, and Mrs Boffin softly rose as if to go to her.
+[[Silence|silence]] at this point, and Mrs Boffin softly [[Rose|rose]] as if to go to her.
 But, Mr Boffin stopped her with a gesture, and she obediently sat down
 again and stayed where she was.
 
@@ -117,10 +117,10 @@ stooped to here.’
 from the ground; ‘and this is mine, for I have earned it by the hardest
 of hard labour.’
 
-‘You’re a pretty quick packer, I hope,’ said Mr Boffin; ‘because the
+‘You’re a pretty quick packer, I [[Hope|hope]],’ said Mr Boffin; ‘because the
 sooner you are gone, bag and baggage, the better for all parties.’
 
-‘You need have no fear of my lingering.’
+‘You need have no [[Fear|fear]] of my lingering.’
 
 ‘There’s just one thing though,’ said Mr Boffin, ‘that I should like to
 ask you before we come to a good riddance, if it was only to show this
@@ -136,7 +136,7 @@ down at her.
 
 ‘I do not pretend.’
 
-‘Oh! Well. You HAVE a mighty admiration for this young lady—since you
+‘Oh! [[Well]]. You HAVE a mighty admiration for this young lady—since you
 are so particular?’
 
 ‘Yes.’

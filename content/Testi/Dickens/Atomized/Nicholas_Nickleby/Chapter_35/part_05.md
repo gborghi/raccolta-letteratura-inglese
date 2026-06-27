@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 35 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 35 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -22,7 +22,7 @@ half-opened door of another room.
 
 ‘Brother Ned,’ said Mr. Cheeryble, tapping with his knuckles, and
 stooping to listen, ‘are you busy, my dear brother, or can you spare
-time for a word or two with me?’
+[[Time|time]] for a word or two with me?’
 
 ‘Brother Charles, my dear fellow,’ replied a voice from the inside, so
 like in its tones to that which had just spoken, that Nicholas started,
@@ -46,7 +46,7 @@ them. Nobody could have doubted their being twin brothers.
 
 ‘Brother Ned,’ said Nicholas’s friend, closing the room-door, ‘here is a
 young friend of mine whom we must assist. We must make proper inquiries
-into his statements, in justice to him as well as to ourselves, and if
+into his statements, in justice to him as [[Well|well]] as to ourselves, and if
 they are confirmed--as I feel assured they will be--we must assist him,
 we must assist him, brother Ned.’
 
@@ -59,7 +59,7 @@ Both the brothers, it may be here remarked, had a very emphatic and
 earnest delivery; both had lost nearly the same teeth, which imparted
 the same peculiarity to their speech; and both spoke as if, besides
 possessing the utmost serenity of mind that the kindliest and most
-unsuspecting nature could bestow, they had, in collecting the plums from
+unsuspecting [[Nature|nature]] could bestow, they had, in collecting the plums from
 Fortune’s choicest pudding, retained a few for present use, and kept
 them in their mouths.
 
@@ -75,10 +75,10 @@ brother died, was a sufficient recompense for his faithful services.’
 half.’
 
 ‘If we could lighten Tim’s duties,’ said the old gentleman, ‘and prevail
-upon him to go into the country, now and then, and sleep in the fresh
+upon him to go into the country, now and then, and [[Sleep|sleep]] in the fresh
 air, besides, two or three times a week (which he could, if he began
 business an hour later in the morning), old Tim Linkinwater would grow
-young again in time; and he’s three good years our senior now. Old Tim
+young again in [[Time|time]]; and he’s three good years our senior now. Old Tim
 Linkinwater young again! Eh, brother Ned, eh? Why, I recollect old Tim
 Linkinwater quite a little boy, don’t you? Ha, ha, ha! Poor Tim, poor
 Tim!’
@@ -98,17 +98,17 @@ my dear brother, very right.’
 
 ‘He will tell me I’m wrong, if I make a mistake,’ said Nicholas’s
 friend. ‘But whether I do or not, you’ll be very much affected, brother
-Ned, remembering the time when we were two friendless lads, and earned
-our first shilling in this great city.’
+Ned, remembering the [[Time|time]] when we were two friendless lads, and earned
+our first shilling in this great [[City|city]].’
 
-The twins pressed each other’s hands in silence; and in his own homely
+The twins pressed each other’s hands in [[Silence|silence]]; and in his own homely
 manner, brother Charles related the particulars he had heard from
 Nicholas. The conversation which ensued was a long one, and when it was
 over, a secret conference of almost equal duration took place between
 brother Ned and Tim Linkinwater in another room. It is no disparagement
 to Nicholas to say, that before he had been closeted with the two
 brothers ten minutes, he could only wave his hand at every fresh
-expression of kindness and sympathy, and sob like a little child.
+expression of kindness and sympathy, and sob like a little [[Child|child]].
 
 At length brother Ned and Tim Linkinwater came back together, when Tim
 instantly walked up to Nicholas and whispered in his ear in a very brief
@@ -118,14 +118,14 @@ at eight. Having done which, Tim wiped his spectacles and put them on,
 preparatory to hearing what more the brothers Cheeryble had got to say.
 
 ‘Tim,’ said brother Charles, ‘you understand that we have an intention
-of taking this young gentleman into the counting-house?’
+of taking this young gentleman into the counting-[[house]]?’
 
 Brother Ned remarked that Tim was aware of that intention, and quite
 approved of it; and Tim having nodded, and said he did, drew himself up
 and looked particularly fat, and very important. After which, there was
-a profound silence.
+a profound [[Silence|silence]].
 
 ‘I’m not coming an hour later in the morning, you know,’ said Tim,
 breaking out all at once, and looking very resolute. ‘I’m not going to
-sleep in the fresh air; no, nor I’m not going into the country either. A
-pretty thing at this time of day, certainly. Pho!’
+[[Sleep|sleep]] in the fresh air; no, nor I’m not going into the country either. A
+pretty thing at this [[Time|time]] of day, certainly. Pho!’

@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE FAD OF THE FISHERMAN (part 5)"
+title: "[[manwho]] — THE FAD OF THE FISHERMAN (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -16,13 +16,13 @@ tags:
 
 gentleman in his wonderful white hat carefully stepping from stone
 
-to stone across the river, like a figure crossing the traffic in
+to stone across the [[River|river]], like a figure crossing the traffic in
 
 Piccadilly. Then he disappeared behind the trees of the island, and
 
 March and Fisher turned to meet the Attorney-General, who was coming
 
-out of the house with a visage of grim assurance.
+out of the [[house]] with a visage of grim assurance.
 
 
 
@@ -30,9 +30,9 @@ out of the house with a visage of grim assurance.
 
 the greatest speech of his life. Peroration and loud and prolonged
 
-cheers. Corrupt financiers and heroic peasants. We will not desert
+cheers. Corrupt financiers and heroic peasants. We will not [[Desert|desert]]
 
-Denmark again."
+[[Denmark]] again."
 
 
 
@@ -62,7 +62,7 @@ decisively:
 
 clear that the old fellow is fixed on this fishing notion by now. If
 
-the house caught fire behind him he would hardly move till sunset."
+the [[house]] caught [[Fire|fire]] behind him he would hardly move till sunset."
 
 
 
@@ -78,15 +78,15 @@ previous day was settling down all over the dim landscape, but
 
 toward the west it was now red rather than gold; there was scarcely
 
-any sound but the monotonous music of the river. Then came the sound
+any sound but the monotonous music of the [[River|river]]. Then came the sound
 
 of a half-stifled exclamation from Horne Fisher, and Harold March
 
-looked up at him in wonder.
+looked up at him in [[Wonder|wonder]].
 
 
 
-"You spoke of bad news," said Fisher.  "Well, there is really bad
+"You spoke of bad news," said Fisher.  "[[Well]], there is really bad
 
 news now. I am afraid this is a bad business."
 
@@ -106,9 +106,9 @@ He went on with the air of one conscious of having said something
 
 fatal. "We must get somebody to go across whom he will really listen
 
-to. He may be mad, but there's method in his madness. There nearly
+to. He may be mad, but there's method in his [[Madness|madness]]. There nearly
 
-always is method in madness. It's what drives men mad, being
+always is method in [[Madness|madness]]. It's what drives men mad, being
 
 methodical. And he never goes on sitting there after sunset, with
 
@@ -124,7 +124,7 @@ There he is coming back."
 
 
 
-And, looking up the river once more, they saw, dark against the
+And, looking up the [[River|river]] once more, they saw, dark against the
 
 sunset reflections, the figure of James Bullen stepping hastily and
 
@@ -150,7 +150,7 @@ Fisher looked at the young man steadily for a moment; then he
 
 started from his immobility. and, making a motion to March to follow
 
-him, himself strode down to the river crossing. In a few moments
+him, himself strode down to the [[River|river]] crossing. In a few moments
 
 they were on the little beaten track that ran round the wooded
 
@@ -182,7 +182,7 @@ was as cold as a fish.
 
 Ten minutes afterward the five men, shaken by such a shock, were
 
-again together in the garden, looking at one another with white but
+again together in the [[Garden|garden]], looking at one another with white but
 
 watchful faces. The lawyer seemed the most alert of the group; he
 
@@ -190,7 +190,7 @@ was articulate if somewhat abrupt.
 
 
 
-"We must leave the body as it is and telephone for the police," he
+"We must leave the [[Body|body]] as it is and telephone for the police," he
 
 said. "I think my own authority will stretch to examining the
 
@@ -208,7 +208,7 @@ suggested the closing of a net or trap. Anyhow, young Bullen
 
 suddenly broke down, or perhaps blew up, for his voice was like an
 
-explosion in the silent garden.
+explosion in the silent [[Garden|garden]].
 
 
 
@@ -234,7 +234,7 @@ damned debts and expectations?"
 
 Rather to March's surprise, Fisher had drawn away from this first
 
-collision, leading the duke with him to another part of the garden.
+collision, leading the duke with him to another part of the [[Garden|garden]].
 
 When he was out of earshot of the others he said, with a curious
 
@@ -246,7 +246,7 @@ simplicity of manner:
 
 
 
-"Well?" said the other, staring at him stolidly.
+"[[Well]]?" said the other, staring at him stolidly.
 
 
 
@@ -258,7 +258,7 @@ The duke continued to stare, but he seemed unable to speak.
 
 
 
-"I hope you had a motive for killing him," continued Fisher, mildly.
+"I [[Hope|hope]] you had a motive for killing him," continued Fisher, mildly.
 
 "You see, it's rather a curious situation. If you have a motive for
 
@@ -276,6 +276,6 @@ why, then perhaps, you did."
 
 either alive or dead. If he was alive, it might be you who killed
 
-him, or why should you have held your tongue about his death? But if
+him, or why should you have held your tongue about his [[Death|death]]? But if
 
 he was dead, and you had a reason for killing him, you might have

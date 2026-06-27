@@ -23,7 +23,7 @@ is a man for whom I conceived a respect long ago when he protested,
 as a professional physician, against the subjection of the poor
 to medical interference to the destruction of all moral independence.
 He criticised with great effect the proposal of legislators to kidnap
-anybody else's child whom they chose to suspect of a feeblemindedness
+anybody else's [[Child|child]] whom they chose to suspect of a feeblemindedness
 they were themselves too feeble-minded to define.  It was defended,
 very characteristically, by a combination of precedent and progress;
 and we were told that it only extended the principle of the lunacy laws.
@@ -31,7 +31,7 @@ That is to say, it only extended the principle of the lunacy laws
 to people whom no sane man would call lunatics.  It is as if they
 were to alter the terms of a quarantine law from "lepers"
 to "light-haired persons"; and then say blandly that the principle
-was the same.  The humour and human sympathy of a Jewish doctor was
+was the same.  The [[Humour|humour]] and human sympathy of a Jewish doctor was
 very welcome to us when we were accused of being Anti-Semites, and we
 afterwards asked Dr. Eder for his own views on the Jewish problem.
 We found he was then a very strong Zionist; and this was long before
@@ -43,7 +43,7 @@ To my mind the most serious point now against it is that the millionaires
 are for it.  But it is enough to note here the reality of the ideal
 in men like Dr. Eder and Dr. Weizmann, and doubtless many others.
 The only defect that need be noted, as a mere detail of portraiture,
-is a certain excessive vigilance and jealousy and pertinacity in
+is a certain excessive vigilance and [[Jealousy|jealousy]] and pertinacity in
 the wrong place, which sometimes makes the genuine Zionists unpopular
 with the English, who themselves suffer unpopularity for supporting them.
 For though I am called an Anti-Semite, there were really periods of
@@ -59,14 +59,14 @@ I never expected it, and even now I do not fully understand it.
 But it is the fact that the native Moslems are more Anti-Semitic
 than the native Christians.  Both are more or less so; and have formed
 a sort of alliance out of the fact.  The banner carried by the mob
-bore the Arabic inscription "Moslems and Christians are brothers."
+bore the Arabic [[Inscription|inscription]] "Moslems and Christians are brothers."
 It is as if the little wedge of Zionism had closed up the cracks
-of the Crusades.
+of the [[Crusades]].
 
 Of the Christian crowds in that partnership, and the Christian creeds
 they are proud to inherit, I have already suggested something;
-it is only as well to note that I have put them out of their strict order
-in the stratification of history.  It is too often forgotten that in
+it is only as [[Well|well]] to note that I have put them out of their strict order
+in the stratification of [[history]].  It is too often forgotten that in
 these countries the Christian culture is older than the Moslem culture.
 I for one regret that the old Pax Romana was broken up by the Arabs;
 and hold that in the long run there was more life in that Byzantine
@@ -74,16 +74,16 @@ decline than in that Semitic revival.  And I will add what I cannot
 here develop or defend; that in the long run it is best that the
 Pax Romana should return; and that the suzerainty of those lands
 at least will have to be Christian, and neither Moslem nor Jewish.
-To defend it is to defend a philosophy; but I do hold that there is
-in that philosophy, for all the talk of its persecutions in the past,
+To defend it is to defend a [[philosophy]]; but I do hold that there is
+in that [[philosophy]], for all the talk of its persecutions in the past,
 a possibility of comprehension and many-sided sympathy which is
 not in the narrow intensity either of the Moslem or the Jew.
-Christianity is really the right angle of that triangle,
+[[Christianity]] is really the right angle of that triangle,
 and the other two are very acute angles.
 
 But in the meetings that led up to the riots it is the more Moslem
 part of the mixed crowds that I chiefly remember; which touches
-the same truth that the Christians are the more potentially tolerant.
+the same [[Truth|truth]] that the Christians are the more potentially tolerant.
 But many of the Moslem leaders are as dignified and human as many
 of the Zionist leaders; the Grand Mufti is a man I cannot imagine
 as either insulting anybody, or being conceivably the object of insult.
@@ -92,16 +92,16 @@ believe to one of the Arab aristocratic houses (the Grand Mufti is
 a descendant of Mahomet) and I shall not forget his first appearance
 at the first of the riotous meetings in which I found myself.
 I will give it as the first of two final impressions with which I
-will end this chapter, I fear on a note of almost anarchic noise,
+will end this chapter, I [[Fear|fear]] on a note of almost anarchic noise,
 the unearthly beating and braying of the Eastern gongs and horns
-of two fierce desert faiths against each other.
+of two fierce [[Desert|desert]] faiths against each other.
 
 I first saw from the balcony of the hotel the crowd of riotors come
-rolling up the street.  In front of them went two fantastic figures
-turning like teetotums in an endless dance and twirling two crooked
+[[rolling]] up the street.  In front of them went two fantastic figures
+turning like teetotums in an endless [[Dance|dance]] and twirling two crooked
 and naked scimitars, as the Irish were supposed to twirl shillelaghs.
 I thought it a delightful way of opening a political meeting;
-and I wished we could do it at home at the General Election.
+and I wished we could do it at [[Home|home]] at the General Election.
 I wish that instead of the wearisome business of Mr. Bonar Law
 taking the chair, and Mr. Lloyd George addressing the meeting,
 Mr. Law and Mr. Lloyd George would only hop and caper in front of
@@ -110,21 +110,21 @@ and crossing a pair of umbrellas in a thousand invisible patterns.
 But this political announcement or advertisement, though more intelligent
 than our own, had, as I could readily believe, another side to it.
 I was told that it was often a prelude to ordinary festivals,
-such as weddings; and no doubt it remains from some ancient ritual dance
+such as weddings; and no [[Doubt|doubt]] it remains from some ancient ritual [[Dance|dance]]
 of a religious character.  But I could imagine that it might sometimes
 seem to a more rational taste to have too religious a character.
 I could imagine that those dancing men might indeed be dancing dervishes,
 with their heads going round in a more irrational sense than
 their bodies.  I could imagine that at some moments it might suck
-the soul into what I have called in metaphor the whirlpool of Asia,
+the [[Soul|soul]] into what I have called in metaphor the whirlpool of Asia,
 or the whirlwind of a world whipped like a top with a raging monotony;
-the cyclone of eternity.  That is not the sort of rhythm nor
-the sort of religion by which I myself should hope to save the soul;
+the cyclone of [[Eternity|eternity]].  That is not the sort of rhythm nor
+the sort of religion by which I myself should [[Hope|hope]] to save the [[Soul|soul]];
 but it is intensely interesting to the mind and even the eye, and I
 went downstairs and wedged myself into the thick and thronging press.
 It surged through the gap by the gate, where men climbed
 lamp-posts and roared out speeches, and more especially recited
-national poems in rich resounding voices; a really moving effect,
+national [[Poems|poems]] in rich resounding voices; a really moving effect,
 at least for one who could not understand a word that was said.
 Feeling had already gone as far as knocking Jews' hats off and other
 popular sports, but not as yet on any universal and systematic scale;
@@ -143,5 +143,5 @@ Just as the old agricultural Arabs hate the Zionists as the
 instruments of new Western business grab and sharp practice;
 so the old peddling and pedantic but intensely pious Jews hate
 the Zionists as the instruments of new Western atheism of free thought.
-Only I fear that when the storm breaks, such distinctions
+Only I [[Fear|fear]] that when the [[Storm|storm]] breaks, such distinctions
 are swept away.

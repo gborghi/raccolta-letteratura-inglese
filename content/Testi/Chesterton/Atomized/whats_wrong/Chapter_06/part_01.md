@@ -35,17 +35,17 @@ But it is the whole definition and dignity of man that in social
 matters we must actually find the cure before we find the disease.
 
 The fallacy is one of the fifty fallacies that come from the modern
-madness for biological or bodily metaphors.  It is convenient
+[[Madness|madness]] for biological or bodily metaphors.  It is convenient
 to speak of the Social Organism, just as it is convenient to
-speak of the British Lion.  But Britain is no more an organism
-than Britain is a lion.  The moment we begin to give a nation
-the unity and simplicity of an animal, we begin to think wildly.
+speak of the British [[Lion]].  But Britain is no more an organism
+than Britain is a [[Lion|lion]].  The moment we begin to give a nation
+the [[unity]] and simplicity of an animal, we begin to think wildly.
 Because every man is a biped, fifty men are not a centipede.
 This has produced, for instance, the gaping absurdity of
 perpetually talking about "young nations" and "dying nations,"
 as if a nation had a fixed and physical span of life.
 Thus people will say that Spain has entered a final senility;
-they might as well say that Spain is losing all her teeth.
+they might as [[Well|well]] say that Spain is losing all her teeth.
 Or people will say that Canada should soon produce a literature;
 which is like saying that Canada must soon grow a new moustache.
 Nations consist of people; the first generation may
@@ -54,7 +54,7 @@ Similar applications of the fallacy are made by those who see
 in the increasing size of national possessions, a simple
 increase in wisdom and stature, and in favor with God and man.
 These people, indeed, even fall short in subtlety of the parallel
-of a human body.  They do not even ask whether an empire is growing
+of a human [[Body|body]].  They do not even ask whether an empire is growing
 taller in its youth, or only growing fatter in its old age.
 But of all the instances of error arising from this
 physical fancy, the worst is that we have before us:
@@ -62,19 +62,19 @@ the habit of exhaustively describing a social sickness,
 and then propounding a social drug.
 
 Now we do talk first about the disease in cases of bodily breakdown;
-and that for an excellent reason.  Because, though there may be doubt
-about the way in which the body broke down, there is no doubt at all
+and that for an excellent reason.  Because, though there may be [[Doubt|doubt]]
+about the way in which the [[Body|body]] broke down, there is no [[Doubt|doubt]] at all
 about the shape in which it should be built up again.  No doctor proposes
 to produce a new kind of man, with a new arrangement of eyes or limbs.
-The hospital, by necessity, may send a man home with one leg less:
-but it will not (in a creative rapture) send him home with one leg extra.
-Medical science is content with the normal human body, and only seeks
+The hospital, by necessity, may send a man [[Home|home]] with one leg less:
+but it will not (in a creative rapture) send him [[Home|home]] with one leg extra.
+Medical science is content with the normal human [[Body|body]], and only seeks
 to restore it.
 
 But social science is by no means always content with the normal
-human soul; it has all sorts of fancy souls for sale.  Man as a
+human [[Soul|soul]]; it has all sorts of fancy souls for sale.  Man as a
 social idealist will say "I am tired of being a Puritan; I want
-to be a Pagan," or "Beyond this dark probation of Individualism I
+to be a Pagan," or "Beyond this dark probation of [[Individualism]] I
 see the shining paradise of Collectivism."  Now in bodily ills
 there is none of this difference about the ultimate ideal.
 The patient may or may not want quinine; but he certainly
@@ -88,10 +88,10 @@ regard as worse maladies; are offering ultimate conditions
 as states of health which others would uncompromisingly
 call states of disease.  Mr. Belloc once said that he would
 no more part with the idea of property than with his teeth;
-yet to Mr. Bernard Shaw property is not a tooth, but a toothache.
+yet to Mr. Bernard [[Shaw]] property is not a tooth, but a toothache.
 Lord Milner has sincerely attempted to introduce German efficiency;
 and many of us would as soon welcome German measles.
-Dr. Saleeby would honestly like to have Eugenics; but I would
+Dr. Saleeby would honestly like to have [[Eugenics]]; but I would
 rather have rheumatics.
 
 This is the arresting and dominant fact about modern
@@ -105,26 +105,26 @@ but some of us would go mad with disgust at a really religious one.
 Everyone is indignant if our army is weak, including the people
 who would be even more indignant if it were strong.
 The social case is exactly the opposite of the medical case.
-We do not disagree, like doctors, about the precise nature
-of the illness, while agreeing about the nature of health.
+We do not disagree, like doctors, about the precise [[Nature|nature]]
+of the illness, while agreeing about the [[Nature|nature]] of health.
 On the contrary, we all agree that England is unhealthy, but half
 of us would not look at her in what the other half would call blooming
 health.  Public abuses are so prominent and pestilent that they
 sweep all generous people into a sort of fictitious unanimity.
 We forget that, while we agree about the abuses of things,
 we should differ very much about the uses of them.
-Mr. Cadbury and I would agree about the bad public house.
-It would be precisely in front of the good public-house that our
+Mr. Cadbury and I would agree about the bad public [[house]].
+It would be precisely in front of the good public-[[house]] that our
 painful personal fracas would occur.
 
 I maintain, therefore, that the common sociological method
-is quite useless:  that of first dissecting abject poverty
-or cataloguing prostitution.  We all dislike abject poverty;
+is quite useless:  that of first dissecting abject [[Poverty|poverty]]
+or cataloguing prostitution.  We all dislike abject [[Poverty|poverty]];
 but it might be another business if we began to discuss independent
-and dignified poverty.  We all disapprove of prostitution;
+and dignified [[Poverty|poverty]].  We all disapprove of prostitution;
 but we do not all approve of purity.  The only way to discuss
 the social evil is to get at once to the social ideal.
-We can all see the national madness; but what is national sanity?
+We can all see the national [[Madness|madness]]; but what is national [[Sanity|sanity]]?
 I have called this book "What Is Wrong with the World?"
 and the upshot of the title can be easily and clearly stated.
 What is wrong is that we do not ask what is right.

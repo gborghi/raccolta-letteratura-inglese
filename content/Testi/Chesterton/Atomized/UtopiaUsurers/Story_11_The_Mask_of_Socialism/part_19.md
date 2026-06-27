@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Mask of Socialism (part 19)"
+title: "[[UtopiaUsurers]] — The Mask of Socialism (part 19)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -34,17 +34,17 @@ that we are not punishing the right people.
 
 
 
-THE DREGS OF PURITANISM
+THE DREGS OF [[Puritanism|PURITANISM]]
 
 
 
 One peculiarity of the genuine kind of enemy of the people is that his
 
-slightest phrase is clamorous with all his sins. Pride, vain-glory, and
+slightest phrase is clamorous with all his sins. [[Pride]], vain-glory, and
 
 hypocrisy seem present in his very grammar; in his very verbs or adverbs
 
-or prepositions, as well as in what he says, which is generally bad
+or prepositions, as [[Well|well]] as in what he says, which is generally bad
 
 enough. Thus I see that a Nonconformist pastor in Bromley has been
 
@@ -58,7 +58,7 @@ one could write a volume on that sentence, a great thick volume called
 
 "The Decline of the English Middle Class." In taste, in style, in
 
-philosophy, in feeling, in political project, the horrors of it are as
+[[philosophy]], in feeling, in political project, the horrors of it are as
 
 unfathomable as hell.
 
@@ -110,7 +110,7 @@ loyalty of workmen to their employers, and God knows what rubbish; and
 
 the first small certainty about the reverend gentleman whose sentence
 
-I have quoted is that his brain stopped working as a clock stops, years
+I have quoted is that his brain stopped working as a [[Clock|clock]] stops, years
 
 and years ago.
 
@@ -118,7 +118,7 @@ and years ago.
 
 Second, consider the quality of the religious literature! These people
 
-are always telling us that the English translated Bible is sufficient
+are always telling us that the English translated [[Bible]] is sufficient
 
 training for anyone in noble and appropriate diction; and so it is. Why,
 
@@ -128,7 +128,7 @@ rude Midland tinker, is as much worth reading as Chaucer or Spenser;
 
 and so he is. Why, then, have they not read him? I cannot believe
 
-that anyone who had seen, even in a nightmare of the nursery, Apollyon
+that anyone who had seen, even in a [[nightmare]] of the nursery, Apollyon
 
 straddling over the whole breadth of the way could really write like
 
@@ -136,7 +136,7 @@ that about a cigarette. By the help of God, they wanted this cigarette
 
 business stopped. Therefore, with angels and archangels and the whole
 
-company of Heaven, with St. Michael, smiter of Satan and Captain of
+company of Heaven, with St. [[Michael]], smiter of [[Satan]] and Captain of
 
 the Chivalry of God, with all the ardour of the seraphs and the flaming
 
@@ -154,9 +154,9 @@ rises into a sort of towering blasphemy. An enormous number of live
 
 young men are being hurt by shells, hurt by bullets, hurt by fever
 
-and hunger and horror of hope deferred; hurt by lance blades and sword
+and hunger and horror of [[Hope|hope]] deferred; hurt by lance blades and [[Sword|sword]]
 
-blades and bayonet blades breaking into the bloody house of life. But
+blades and bayonet blades breaking into the bloody [[house]] of life. But
 
 Mr. Price (I think that's his name) is still anxious that they should
 
@@ -172,7 +172,7 @@ many cigarettes, and that he has any influence in urging on them the
 
 unhealthiness of the habit, I should not blame him if he gave sermons
 
-or lectures about it (with magic-lantern slides), so long as it was in
+or lectures about it (with [[Magic|magic]]-lantern slides), so long as it was in
 
 Bromley and about Bromley. Cigarettes may be bad for the health: bombs
 
@@ -192,11 +192,11 @@ the doctors and nurses on the field and tell them not to give drugs, as
 
 they give morphia in a hospital. But it is the whole hypothesis of war,
 
-it is its very nature and first principle, that the man in the trench
+it is its very [[Nature|nature]] and first principle, that the man in the trench
 
-is almost as much a suffering and abnormal person as the man in the
+is almost as much a [[Suffering|suffering]] and abnormal person as the man in the
 
-hospital. Hit or unhit, conqueror or conquered, he is, by nature of the
+hospital. Hit or unhit, conqueror or conquered, he is, by [[Nature|nature]] of the
 
 case, having less pleasure than is proper and natural to a man.
 

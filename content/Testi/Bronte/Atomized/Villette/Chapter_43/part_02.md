@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 41 (part 2)"
+title: "[[Villette]] — Chapter 41 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -28,7 +28,7 @@ rejoined her kinsman—
 “I will send for Père Silas: on the spot I will send for him,” she
 threatened pertinaciously.
 
-“Femme!” cried the Professor, not now in his deep tones, but in his
+“Femme!” cried [[The Professor|the Professor]], not now in his deep tones, but in his
 highest and most excited key, “Femme! sortez à l’instant!”
 
 He was roused, and I loved him in his wrath with a passion beyond what
@@ -43,25 +43,25 @@ the view of persons of steadier and more resolute character.”
 you shall see; the event shall teach you. Modeste,” he continued less
 fiercely, “be gentle, be pitying, be a woman; look at this poor face,
 and relent. You know I am your friend, and the friend of your friends;
-in spite of your taunts, you well and deeply know I may be trusted. Of
+in spite of your taunts, you [[Well|well]] and deeply know I may be trusted. Of
 sacrificing myself I made no difficulty but my heart is pained by what
 I see; it _must_ have and give solace. _Leave me!_”
 
-This time, in the “_leave me_” there was an intonation so bitter and so
-imperative, I wondered that even Madame Beck herself could for one
+This [[Time|time]], in the “_leave me_” there was an intonation so bitter and so
+imperative, I wondered that even [[Madame Beck]] herself could for one
 moment delay obedience; but she stood firm; she gazed upon him
 dauntless; she met his eye, forbidding and fixed as stone. She was
 opening her lips to retort; I saw over all M. Paul’s face a quick
-rising light and fire; I can hardly tell how he managed the movement;
+rising light and [[Fire|fire]]; I can hardly tell how he managed the movement;
 it did not seem violent; it kept the form of courtesy; he gave his
 hand; it scarce touched her I thought; she ran, she whirled from the
 room; she was gone, and the door shut, in one second.
 
 The flash of passion was all over very soon. He smiled as he told me to
-wipe my eyes; he waited quietly till I was calm, dropping from time to
-time a stilling, solacing word. Ere long I sat beside him once more
+wipe my eyes; he waited quietly till I was calm, dropping from [[Time|time]] to
+[[Time|time]] a stilling, solacing word. Ere long I sat beside him once more
 myself—re-assured, not desperate, nor yet desolate; not friendless, not
-hopeless, not sick of life, and seeking death.
+hopeless, not sick of life, and seeking [[Death|death]].
 
 “It made you very sad then to lose your friend?” said he.
 
@@ -96,18 +96,18 @@ as it often was, with the assertion, that however I might _write_ his
 language, I _spoke_ and always should speak it imperfectly and
 hesitatingly. “‘All these weary days’ I have not for one hour forgotten
 you. Faithful women err in this, that they think themselves the sole
-faithful of God’s creatures. On a very fervent and living truth to
+faithful of God’s creatures. On a very fervent and living [[Truth|truth]] to
 myself, I, too, till lately scarce dared count, from any quarter;
 but——look at me.”
 
 I lifted my happy eyes: they _were_ happy now, or they would have been
 no interpreters of my heart.
 
-“Well,” said he, after some seconds’ scrutiny, “there is no denying
+“[[Well]],” said he, after some seconds’ scrutiny, “there is no denying
 that signature: Constancy wrote it: her pen is of iron. Was the record
 painful?”
 
-“Severely painful,” I said, with truth. “Withdraw her hand, Monsieur; I
+“Severely painful,” I said, with [[Truth|truth]]. “Withdraw her hand, Monsieur; I
 can bear its inscribing force no more.”
 
 “Elle est toute pâle,” said he, speaking to himself; “cette figure-là
@@ -116,7 +116,7 @@ me fait mal.”
 “Ah! I am not pleasant to look at——?”
 
 I could not help saying this; the words came unbidden: I never remember
-the time when I had not a haunting dread of what might be the degree of
+the [[Time|time]] when I had not a haunting dread of what might be the degree of
 my outward deficiency; this dread pressed me at the moment with special
 force.
 
@@ -124,15 +124,15 @@ A great softness passed upon his countenance; his violet eyes grew
 suffused and glistening under their deep Spanish lashes: he started up;
 “Let us walk on.”
 
-“Do I displease your eyes _much_?” I took courage to urge: the point
+“Do I displease your eyes _much_?” I took [[Courage|courage]] to urge: the point
 had its vital import for me.
 
 He stopped, and gave me a short, strong answer; an answer which
 silenced, subdued, yet profoundly satisfied. Ever after that I knew
 what I was for _him_; and what I might be for the rest of the world, I
 ceased painfully to care. Was it weak to lay so much stress on an
-opinion about appearance? I fear it might be; I fear it was; but in
-that case I must avow no light share of weakness. I must own great fear
+opinion about appearance? I [[Fear|fear]] it might be; I [[Fear|fear]] it was; but in
+that case I must avow no light share of weakness. I must own great [[Fear|fear]]
 of displeasing—a strong wish moderately to please M. Paul.
 
 Whither we rambled, I scarce knew. Our walk was long, yet seemed short;

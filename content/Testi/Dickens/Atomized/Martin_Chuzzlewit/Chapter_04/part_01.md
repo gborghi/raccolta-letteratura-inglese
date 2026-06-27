@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 4 (part 1)"
+title: "[[Martin Chuzzlewit]] — Chapter 4 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,35 +16,35 @@ tags:
 
 CHAPTER FOUR
 
-FROM WHICH IT WILL APPEAR THAT IF UNION BE STRENGTH, AND FAMILY
+FROM WHICH IT WILL APPEAR THAT IF [[Union|UNION]] BE STRENGTH, AND FAMILY
 AFFECTION BE PLEASANT TO CONTEMPLATE, THE CHUZZLEWITS WERE THE STRONGEST
 AND MOST AGREEABLE FAMILY IN THE WORLD
 
 
 That worthy man Mr Pecksniff having taken leave of his cousin in the
-solemn terms recited in the last chapter, withdrew to his own home, and
+solemn terms recited in the last chapter, withdrew to his own [[Home|home]], and
 remained there three whole days; not so much as going out for a walk
-beyond the boundaries of his own garden, lest he should be hastily
+beyond the boundaries of his own [[Garden|garden]], lest he should be hastily
 summoned to the bedside of his penitent and remorseful relative,
 whom, in his ample benevolence, he had made up his mind to forgive
-unconditionally, and to love on any terms. But such was the obstinacy
-and such the bitter nature of that stern old man, that no repentant
+unconditionally, and to [[Love|love]] on any terms. But such was the obstinacy
+and such the bitter [[Nature|nature]] of that stern old man, that no repentant
 summons came; and the fourth day found Mr Pecksniff apparently much
 farther from his Christian object than the first.
 
 During the whole of this interval, he haunted the Dragon at all times
-and seasons in the day and night, and, returning good for evil evinced
+and [[Seasons|seasons]] in the day and [[Night|night]], and, returning good for evil evinced
 the deepest solicitude in the progress of the obdurate invalid, in so
 much that Mrs Lupin was fairly melted by his disinterested anxiety (for
 he often particularly required her to take notice that he would do the
 same by any stranger or pauper in the like condition), and shed many
-tears of admiration and delight.
+[[Tears|tears]] of admiration and delight.
 
-Meantime, old Martin Chuzzlewit remained shut up in his own chamber, and
+Meantime, [[Old Martin Chuzzlewit|old Martin Chuzzlewit]] remained shut up in his own chamber, and
 saw no person but his young companion, saving the hostess of the Blue
 Dragon, who was, at certain times, admitted to his presence. So surely
 as she came into the room, however, Martin feigned to fall asleep. It
-was only when he and the young lady were alone, that he would utter a
+was only when he and the young lady were [[Alone|alone]], that he would utter a
 word, even in answer to the simplest inquiry; though Mr Pecksniff
 could make out, by hard listening at the door, that they two being left
 together, he was talkative enough.
@@ -53,19 +53,19 @@ It happened on the fourth evening, that Mr Pecksniff walking, as usual,
 into the bar of the Dragon and finding no Mrs Lupin there, went straight
 upstairs; purposing, in the fervour of his affectionate zeal, to apply
 his ear once more to the keyhole, and quiet his mind by assuring himself
-that the hard-hearted patient was going on well. It happened that Mr
+that the hard-hearted patient was going on [[Well|well]]. It happened that Mr
 Pecksniff, coming softly upon the dark passage into which a spiral ray
 of light usually darted through the same keyhole, was astonished to find
 no such ray visible; and it happened that Mr Pecksniff, when he had felt
 his way to the chamber-door, stooping hurriedly down to ascertain by
-personal inspection whether the jealousy of the old man had caused this
+personal inspection whether the [[Jealousy|jealousy]] of the old man had caused this
 keyhole to be stopped on the inside, brought his head into such violent
 contact with another head that he could not help uttering in an audible
 voice the monosyllable ‘Oh!’ which was, as it were, sharply unscrewed
 and jerked out of him by very anguish. It happened then, and lastly,
 that Mr Pecksniff found himself immediately collared by something which
 smelt like several damp umbrellas, a barrel of beer, a cask of warm
-brandy-and-water, and a small parlour-full of stale tobacco smoke,
+brandy-and-[[Water|water]], and a small parlour-full of stale tobacco smoke,
 mixed; and was straightway led downstairs into the bar from which he
 had lately come, where he found himself standing opposite to, and in
 the grasp of, a perfectly strange gentleman of still stranger appearance
@@ -100,7 +100,7 @@ gentleman.
 Mr Pecksniff cast him off, as Saint George might have repudiated the
 Dragon in that animal’s last moments, and said:
 
-‘Where is Mrs Lupin, I wonder! can the good woman possibly be aware that
+‘Where is Mrs Lupin, I [[Wonder|wonder]]! can the good woman possibly be aware that
 there is a person here who--’
 
 ‘Stay!’ said the gentleman. ‘Wait a bit. She DOES know. What then?’

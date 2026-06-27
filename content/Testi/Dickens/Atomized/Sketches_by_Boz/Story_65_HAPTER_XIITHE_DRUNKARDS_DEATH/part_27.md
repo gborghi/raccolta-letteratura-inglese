@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 27)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 27)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -17,8 +17,8 @@ tags:
 If a friend happen to dine in a friendly way with one of these couples
 who dote upon their children, it is nearly impossible for him to divert
 the conversation from their favourite topic. Everything reminds Mr.
-Whiffler of Ned, or Mrs. Whiffler of Mary Anne, or of the time before
-Ned was born, or the time before Mary Anne was thought of. The
+Whiffler of Ned, or Mrs. Whiffler of Mary Anne, or of the [[Time|time]] before
+Ned was born, or the [[Time|time]] before Mary Anne was thought of. The
 slightest remark, however harmless in itself, will awaken slumbering
 recollections of the twins. It is impossible to steer clear of them.
 They will come uppermost, let the poor man do what he may. Ned has been
@@ -34,7 +34,7 @@ course, ‘reminds me of the twins. It’s a very extraordinary thing about
 those babies—what colour should you say their eyes were?’ ‘Upon my
 word,’ the friend stammers, ‘I hardly know how to answer’—the fact
 being, that except as the friend does not remember to have heard of any
-departure from the ordinary course of nature in the instance of these
+departure from the ordinary course of [[Nature|nature]] in the instance of these
 twins, they might have no eyes at all for aught he has observed to the
 contrary. ‘You wouldn’t say they were red, I suppose?’ says Mr.
 Whiffler. The friend hesitates, and rather thinks they are; but
@@ -58,9 +58,9 @@ and causes him to declare that he would have sworn that was Dick’s if
 he had heard it anywhere. Then he requests that Mrs. Whiffler will tell
 Saunders what Tom said about mad bulls; and Mrs. Whiffler relating the
 anecdote, a discussion ensues upon the different character of Tom’s wit
-and Dick’s wit, from which it appears that Dick’s humour is of a lively
+and Dick’s wit, from which it appears that Dick’s [[Humour|humour]] is of a lively
 turn, while Tom’s style is the dry and caustic. This discussion being
-enlivened by various illustrations, lasts a long time, and is only
+enlivened by various illustrations, lasts a long [[Time|time]], and is only
 stopped by Mrs. Whiffler instructing the footman to ring the nursery
 bell, as the children were promised that they should come down and
 taste the pudding.
@@ -74,10 +74,10 @@ the whole eight are screaming, shouting, or kicking—some influenced by
 a ravenous appetite, some by a horror of the stranger, and some by a
 conflict of the two feelings—a pretty long space elapses before all
 their heads can be ranged round the table and anything like order
-restored; in bringing about which happy state of things both the nurse
+restored; in bringing about which happy state of things both the [[Nurse|nurse]]
 and footman are severely scratched. At length Mrs. Whiffler is heard to
 say, ‘Mr. Saunders, shall I give you some pudding?’ A breathless
-silence ensues, and sixteen small eyes are fixed upon the guest in
+[[Silence|silence]] ensues, and sixteen small eyes are fixed upon the guest in
 expectation of his reply. A wild shout of joy proclaims that he has
 said ‘No, thank you.’ Spoons are waved in the air, legs appear above
 the table-cloth in uncontrollable ecstasy, and eighty short fingers
@@ -95,17 +95,17 @@ Whiffler directs his attention to a boy, and falling into raptures with
 a boy when he ought to be enchanted with a girl. Then the dessert
 comes, and there is a vast deal of scrambling after fruit, and sudden
 spirting forth of juice out of tight oranges into infant eyes, and much
-screeching and wailing in consequence. At length it becomes time for
+screeching and wailing in consequence. At length it becomes [[Time|time]] for
 Mrs. Whiffler to retire, and all the children are by force of arms
-compelled to kiss and love Mr. Saunders before going up-stairs, except
+compelled to kiss and [[Love|love]] Mr. Saunders before going up-stairs, except
 Tom, who, lying on his back in the hall, proclaims that Mr. Saunders
 ‘is a naughty beast;’ and Dick, who having drunk his father’s wine when
 he was looking another way, is found to be intoxicated and is carried
 out, very limp and helpless.
 
-Mr. Whiffler and his friend are left alone together, but Mr. Whiffler’s
+Mr. Whiffler and his friend are left [[Alone|alone]] together, but Mr. Whiffler’s
 thoughts are still with his family, if his family are not with him.
-‘Saunders,’ says he, after a short silence, ‘if you please, we’ll drink
+‘Saunders,’ says he, after a short [[Silence|silence]], ‘if you please, we’ll drink
 Mrs. Whiffler and the children.’ Mr. Saunders feels this to be a
 reproach against himself for not proposing the same sentiment, and
 drinks it in some confusion. ‘Ah!’ Mr. Whiffler sighs, ‘these children,
@@ -114,14 +114,14 @@ were his, they would make him a very old man; but he says nothing. ‘And
 yet,’ pursues Mr. Whiffler, ‘what can equal domestic happiness? what
 can equal the engaging ways of children! Saunders, why don’t you get
 married?’ Now, this is an embarrassing question, because Mr. Saunders
-has been thinking that if he had at any time entertained matrimonial
+has been thinking that if he had at any [[Time|time]] entertained matrimonial
 designs, the revelation of that day would surely have routed them for
 ever. ‘I am glad, however,’ says Mr. Whiffler, ‘that you _are_ a
 bachelor,—glad on one account, Saunders; a selfish one, I admit. Will
 you do Mrs. Whiffler and myself a favour?’ Mr. Saunders is
 surprised—evidently surprised; but he replies, ‘with the greatest
 pleasure.’ ‘Then, will you, Saunders,’ says Mr. Whiffler, in an
-impressive manner, ‘will you cement and consolidate our friendship by
+impressive manner, ‘will you cement and consolidate our [[Friendship|friendship]] by
 coming into the family (so to speak) as a godfather?’ ‘I shall be proud
 and delighted,’ replies Mr. Saunders: ‘which of the children is it?
 really, I thought they were all christened; or—’ ‘Saunders,’ Mr.
@@ -129,4 +129,4 @@ Whiffler interposes, ‘they _are_ all christened; you are right. The
 fact is, that Mrs. Whiffler is—in short, we expect another.’ ‘Not a
 ninth!’ cries the friend, all aghast at the idea. ‘Yes, Saunders,’
 rejoins Mr. Whiffler, solemnly, ‘a ninth. Did we drink Mrs. Whiffler’s
-health? Let us drink it again, Saunders, and wish her well over it!’
+health? Let us drink it again, Saunders, and wish her [[Well|well]] over it!’

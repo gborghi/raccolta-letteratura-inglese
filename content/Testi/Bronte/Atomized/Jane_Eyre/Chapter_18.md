@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 18"
+title: "[[Jane Eyre]] — Chapter 18"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -19,15 +19,15 @@ CHAPTER XVIII
 
 Merry days were these at Thornfield Hall; and busy days too: how
 different from the first three months of stillness, monotony, and
-solitude I had passed beneath its roof! All sad feelings seemed now
-driven from the house, all gloomy associations forgotten: there was
+[[Solitude|solitude]] I had passed beneath its roof! All sad feelings seemed now
+driven from the [[house]], all gloomy associations forgotten: there was
 life everywhere, movement all day long. You could not now traverse the
 gallery, once so hushed, nor enter the front chambers, once so
 tenantless, without encountering a smart lady’s-maid or a dandy valet.
 
 The kitchen, the butler’s pantry, the servants’ hall, the entrance
 hall, were equally alive; and the saloons were only left void and still
-when the blue sky and halcyon sunshine of the genial spring weather
+when the blue sky and halcyon sunshine of the genial [[Spring|spring]] weather
 called their occupants out into the grounds. Even when that weather was
 broken, and continuous rain set in for some days, no damp seemed cast
 over enjoyment: indoor amusements only became more lively and varied,
@@ -40,7 +40,7 @@ the dining-room tables wheeled away, the lights otherwise disposed, the
 chairs placed in a semicircle opposite the arch. While Mr. Rochester
 and the other gentlemen directed these alterations, the ladies were
 running up and down stairs ringing for their maids. Mrs. Fairfax was
-summoned to give information respecting the resources of the house in
+summoned to give information respecting the resources of the [[house]] in
 shawls, dresses, draperies of any kind; and certain wardrobes of the
 third storey were ransacked, and their contents, in the shape of
 brocaded and hooped petticoats, satin sacques, black modes, lace
@@ -74,19 +74,19 @@ lay open a large book; and at his side stood Amy Eshton, draped in Mr.
 Rochester’s cloak, and holding a book in her hand. Somebody, unseen,
 rang the bell merrily; then Adèle (who had insisted on being one of her
 guardian’s party), bounded forward, scattering round her the contents
-of a basket of flowers she carried on her arm. Then appeared the
+of a basket of [[Flowers|flowers]] she carried on her arm. Then appeared the
 magnificent figure of Miss Ingram, clad in white, a long veil on her
 head, and a wreath of roses round her brow; by her side walked Mr.
 Rochester, and together they drew near the table. They knelt; while
 Mrs. Dent and Louisa Eshton, dressed also in white, took up their
 stations behind them. A ceremony followed, in dumb show, in which it
-was easy to recognise the pantomime of a marriage. At its termination,
+was easy to recognise the pantomime of a [[Marriage|marriage]]. At its termination,
 Colonel Dent and his party consulted in whispers for two minutes, then
 the Colonel called out—
 
 “Bride!” Mr. Rochester bowed, and the curtain fell.
 
-A considerable interval elapsed before it again rose. Its second rising
+A considerable interval elapsed before it again [[Rose|rose]]. Its second rising
 displayed a more elaborately prepared scene than the last. The
 drawing-room, as I have before observed, was raised two steps above the
 dining-room, and on the top of the upper step, placed a yard or two
@@ -109,12 +109,12 @@ idea of some Israelitish princess of the patriarchal days; and such was
 doubtless the character she intended to represent.
 
 She approached the basin, and bent over it as if to fill her pitcher;
-she again lifted it to her head. The personage on the well-brink now
+she again lifted it to her head. The personage on the [[Well|well]]-brink now
 seemed to accost her; to make some request:—“She hasted, let down her
 pitcher on her hand, and gave him to drink.” From the bosom of his robe
 he then produced a casket, opened it and showed magnificent bracelets
 and earrings; she acted astonishment and admiration; kneeling, he laid
-the treasure at her feet; incredulity and delight were expressed by her
+the treasure at her feet; [[Incredulity|incredulity]] and delight were expressed by her
 looks and gestures; the stranger fastened the bracelets on her arms and
 the rings in her ears. It was Eliezer and Rebecca: the camels only were
 wanting.
@@ -136,7 +136,7 @@ his knees, and his eyes bent on the ground. I knew Mr. Rochester;
 though the begrimed face, the disordered dress (his coat hanging loose
 from one arm, as if it had been almost torn from his back in a
 scuffle), the desperate and scowling countenance, the rough, bristling
-hair might well have disguised him. As he moved, a chain clanked; to
+hair might [[Well|well]] have disguised him. As he moved, a chain clanked; to
 his wrists were attached fetters.
 
 “Bridewell!” exclaimed Colonel Dent, and the charade was solved.
@@ -155,14 +155,14 @@ her.
 “Alas! yes: the more’s the pity! Nothing could be more becoming to your
 complexion than that ruffian’s rouge.”
 
-“You would like a hero of the road then?”
+“You would like a [[Hero|hero]] of the [[Road|road]] then?”
 
-“An English hero of the road would be the next best thing to an Italian
+“An English [[Hero|hero]] of the [[Road|road]] would be the next best thing to an Italian
 bandit; and that could only be surpassed by a Levantine pirate.”
 
-“Well, whatever I am, remember you are my wife; we were married an hour
+“[[Well]], whatever I am, remember you are my wife; we were married an hour
 since, in the presence of all these witnesses.” She giggled, and her
-colour rose.
+colour [[Rose|rose]].
 
 “Now, Dent,” continued Mr. Rochester, “it is your turn.” And as the
 other party withdrew, he and his band took the vacated seats. Miss
@@ -178,9 +178,9 @@ Miss Ingram, and Miss Ingram to him; I see her incline her head towards
 him, till the jetty curls almost touch his shoulder and wave against
 his cheek; I hear their mutual whisperings; I recall their interchanged
 glances; and something even of the feeling roused by the spectacle
-returns in memory at this moment.
+returns in [[Memory|memory]] at this moment.
 
-I have told you, reader, that I had learnt to love Mr. Rochester: I
+I have told you, reader, that I had learnt to [[Love|love]] Mr. Rochester: I
 could not unlove him now, merely because I found that he had ceased to
 notice me—because I might pass hours in his presence, and he would
 never once turn his eyes in my direction—because I saw all his
@@ -192,22 +192,22 @@ sure he would soon marry this very lady—because I read daily in her a
 proud security in his intentions respecting her—because I witnessed
 hourly in him a style of courtship which, if careless and choosing
 rather to be sought than to seek, was yet, in its very carelessness,
-captivating, and in its very pride, irresistible.
+captivating, and in its very [[Pride|pride]], irresistible.
 
-There was nothing to cool or banish love in these circumstances, though
-much to create despair. Much too, you will think, reader, to engender
-jealousy: if a woman, in my position, could presume to be jealous of a
+There was nothing to cool or banish [[Love|love]] in these circumstances, though
+much to create [[Despair|despair]]. Much too, you will think, reader, to engender
+[[Jealousy|jealousy]]: if a woman, in my position, could presume to be jealous of a
 woman in Miss Ingram’s. But I was not jealous: or very rarely;—the
-nature of the pain I suffered could not be explained by that word. Miss
-Ingram was a mark beneath jealousy: she was too inferior to excite the
-feeling. Pardon the seeming paradox; I mean what I say. She was very
+[[Nature|nature]] of the [[Pain|pain]] I suffered could not be explained by that word. Miss
+Ingram was a mark beneath [[Jealousy|jealousy]]: she was too inferior to excite the
+feeling. Pardon the seeming [[Paradox|paradox]]; I mean what I say. She was very
 showy, but she was not genuine: she had a fine person, many brilliant
-attainments; but her mind was poor, her heart barren by nature: nothing
+attainments; but her mind was poor, her heart barren by [[Nature|nature]]: nothing
 bloomed spontaneously on that soil; no unforced natural fruit delighted
 by its freshness. She was not good; she was not original: she used to
 repeat sounding phrases from books: she never offered, nor had, an
 opinion of her own. She advocated a high tone of sentiment; but she did
-not know the sensations of sympathy and pity; tenderness and truth were
+not know the sensations of sympathy and pity; tenderness and [[Truth|truth]] were
 not in her. Too often she betrayed this, by the undue vent she gave to
 a spiteful antipathy she had conceived against little Adèle: pushing
 her away with some contumelious epithet if she happened to approach
@@ -218,11 +218,11 @@ Yes; the future bridegroom, Mr. Rochester himself, exercised over his
 intended a ceaseless surveillance; and it was from this sagacity—this
 guardedness of his—this perfect, clear consciousness of his fair one’s
 defects—this obvious absence of passion in his sentiments towards her,
-that my ever-torturing pain arose.
+that my ever-torturing [[Pain|pain]] arose.
 
 I saw he was going to marry her, for family, perhaps political reasons,
 because her rank and connections suited him; I felt he had not given
-her his love, and that her qualifications were ill adapted to win from
+her his [[Love|love]], and that her qualifications were ill adapted to win from
 him that treasure. This was the point—this was where the nerve was
 touched and teased—this was where the fever was sustained and fed: _she
 could not charm him_.
@@ -232,22 +232,22 @@ sincerely laid his heart at her feet, I should have covered my face,
 turned to the wall, and (figuratively) have died to them. If Miss
 Ingram had been a good and noble woman, endowed with force, fervour,
 kindness, sense, I should have had one vital struggle with two
-tigers—jealousy and despair: then, my heart torn out and devoured, I
+tigers—[[Jealousy|jealousy]] and [[Despair|despair]]: then, my heart torn out and devoured, I
 should have admired her—acknowledged her excellence, and been quiet for
 the rest of my days: and the more absolute her superiority, the deeper
 would have been my admiration—the more truly tranquil my quiescence.
 But as matters really stood, to watch Miss Ingram’s efforts at
 fascinating Mr. Rochester, to witness their repeated failure—herself
 unconscious that they did fail; vainly fancying that each shaft
-launched hit the mark, and infatuatedly pluming herself on success,
-when her pride and self-complacency repelled further and further what
+launched hit the mark, and infatuatedly pluming herself on [[success]],
+when her [[Pride|pride]] and [[Self|self]]-complacency repelled further and further what
 she wished to allure—to witness _this_, was to be at once under
 ceaseless excitation and ruthless restraint.
 
 Because, when she failed, I saw how she might have succeeded. Arrows
 that continually glanced off from Mr. Rochester’s breast and fell
 harmless at his feet, might, I knew, if shot by a surer hand, have
-quivered keen in his proud heart—have called love into his stern eye,
+quivered keen in his proud heart—have called [[Love|love]] into his stern eye,
 and softness into his sardonic face; or, better still, without weapons
 a silent conquest might have been won.
 
@@ -272,19 +272,19 @@ I have not yet said anything condemnatory of Mr. Rochester’s project of
 marrying for interest and connections. It surprised me when I first
 discovered that such was his intention: I had thought him a man
 unlikely to be influenced by motives so commonplace in his choice of a
-wife; but the longer I considered the position, education, &c., of the
+wife; but the longer I considered the position, [[Education|education]], &c., of the
 parties, the less I felt justified in judging and blaming either him or
 Miss Ingram for acting in conformity to ideas and principles instilled
-into them, doubtless, from their childhood. All their class held these
+into them, doubtless, from their [[Childhood|childhood]]. All their class held these
 principles: I supposed, then, they had reasons for holding them such as
 I could not fathom. It seemed to me that, were I a gentleman like him,
-I would take to my bosom only such a wife as I could love; but the very
+I would take to my bosom only such a wife as I could [[Love|love]]; but the very
 obviousness of the advantages to the husband’s own happiness offered by
 this plan convinced me that there must be arguments against its general
 adoption of which I was quite ignorant: otherwise I felt sure all the
 world would act as I wished to act.
 
-But in other points, as well as this, I was growing very lenient to my
+But in other points, as [[Well|well]] as this, I was growing very lenient to my
 master: I was forgetting all his faults, for which I had once kept a
 sharp look-out. It had formerly been my endeavour to study all sides of
 his character: to take the bad with the good; and from the just
@@ -296,13 +296,13 @@ as for the vague something—was it a sinister or a sorrowful, a
 designing or a desponding expression?—that opened upon a careful
 observer, now and then, in his eye, and closed again before one could
 fathom the strange depth partially disclosed; that something which used
-to make me fear and shrink, as if I had been wandering amongst
+to make me [[Fear|fear]] and shrink, as if I had been wandering amongst
 volcanic-looking hills, and had suddenly felt the ground quiver and
 seen it gape: that something, I, at intervals, beheld still; and with
 throbbing heart, but not with palsied nerves. Instead of wishing to
 shun, I longed only to dare—to divine it; and I thought Miss Ingram
 happy, because one day she might look into the abyss at her leisure,
-explore its secrets and analyse their nature.
+explore its [[Secrets|secrets]] and analyse their [[Nature|nature]].
 
 Meantime, while I thought only of my master and his future bride—saw
 only them, heard only their discourse, and considered only their
@@ -320,7 +320,7 @@ to and with one of the Messrs. Lynn; and Mary Ingram listened languidly
 to the gallant speeches of the other. Sometimes all, as with one
 consent, suspended their by-play to observe and listen to the principal
 actors: for, after all, Mr. Rochester and—because closely connected
-with him—Miss Ingram were the life and soul of the party. If he was
+with him—Miss Ingram were the life and [[Soul|soul]] of the party. If he was
 absent from the room an hour, a perceptible dulness seemed to steal
 over the spirits of his guests; and his re-entrance was sure to give a
 fresh impulse to the vivacity of conversation.
@@ -336,28 +336,28 @@ sought solace in a quiet game at cards. Blanche Ingram, after having
 repelled, by supercilious taciturnity, some efforts of Mrs. Dent and
 Mrs. Eshton to draw her into conversation, had first murmured over some
 sentimental tunes and airs on the piano, and then, having fetched a
-novel from the library, had flung herself in haughty listlessness on a
+[[Novel|novel]] from the library, had flung herself in haughty listlessness on a
 sofa, and prepared to beguile, by the spell of fiction, the tedious
-hours of absence. The room and the house were silent: only now and then
+hours of absence. The room and the [[house]] were silent: only now and then
 the merriment of the billiard-players was heard from above.
 
-It was verging on dusk, and the clock had already given warning of the
+It was verging on dusk, and the [[Clock|clock]] had already given warning of the
 hour to dress for dinner, when little Adèle, who knelt by me in the
-drawing-room window-seat, suddenly exclaimed—
+drawing-room [[Window|window]]-seat, suddenly exclaimed—
 
 “Voilà Monsieur Rochester, qui revient!”
 
 I turned, and Miss Ingram darted forwards from her sofa: the others,
-too, looked up from their several occupations; for at the same time a
-crunching of wheels and a splashing tramp of horse-hoofs became audible
+too, looked up from their several occupations; for at the same [[Time|time]] a
+crunching of wheels and a splashing tramp of [[Horse|horse]]-hoofs became audible
 on the wet gravel. A post-chaise was approaching.
 
-“What can possess him to come home in that style?” said Miss Ingram.
-“He rode Mesrour (the black horse), did he not, when he went out? and
-Pilot was with him:—what has he done with the animals?”
+“What can possess him to come [[Home|home]] in that style?” said Miss Ingram.
+“He rode Mesrour (the black [[Horse|horse]]), did he not, when he went out? and
+Pilot was with him:—what has he done with the [[Animals|animals]]?”
 
 As she said this, she approached her tall person and ample garments so
-near the window, that I was obliged to bend back almost to the breaking
+near the [[Window|window]], that I was obliged to bend back almost to the breaking
 of my spine: in her eagerness she did not observe me at first, but when
 she did, she curled her lip and moved to another casement. The
 post-chaise stopped; the driver rang the door-bell, and a gentleman
@@ -365,16 +365,16 @@ alighted attired in travelling garb; but it was not Mr. Rochester; it
 was a tall, fashionable-looking man, a stranger.
 
 “How provoking!” exclaimed Miss Ingram: “you tiresome monkey!”
-(apostrophising Adèle), “who perched you up in the window to give false
+(apostrophising Adèle), “who perched you up in the [[Window|window]] to give false
 intelligence?” and she cast on me an angry glance, as if I were in
 fault.
 
 Some parleying was audible in the hall, and soon the new-comer entered.
 He bowed to Lady Ingram, as deeming her the eldest lady present.
 
-“It appears I come at an inopportune time, madam,” said he, “when my
-friend, Mr. Rochester, is from home; but I arrive from a very long
-journey, and I think I may presume so far on old and intimate
+“It appears I come at an inopportune [[Time|time]], madam,” said he, “when my
+friend, Mr. Rochester, is from [[Home|home]]; but I arrive from a very long
+[[Journey|journey]], and I think I may presume so far on old and intimate
 acquaintance as to instal myself here till he returns.”
 
 His manner was polite; his accent, in speaking, struck me as being
@@ -384,13 +384,13 @@ forty; his complexion was singularly sallow: otherwise he was a
 fine-looking man, at first sight especially. On closer examination, you
 detected something in his face that displeased, or rather that failed
 to please. His features were regular, but too relaxed: his eye was
-large and well cut, but the life looking out of it was a tame, vacant
+large and [[Well|well]] cut, but the life looking out of it was a tame, vacant
 life—at least so I thought.
 
 The sound of the dressing-bell dispersed the party. It was not till
 after dinner that I saw him again: he then seemed quite at his ease.
 But I liked his physiognomy even less than before: it struck me as
-being at the same time unsettled and inanimate. His eye wandered, and
+being at the same [[Time|time]] unsettled and inanimate. His eye wandered, and
 had no meaning in its wandering: this gave him an odd look, such as I
 never remembered to have seen. For a handsome and not an
 unamiable-looking man, he repelled me exceedingly: there was no power
@@ -400,13 +400,13 @@ even forehead; no command in that blank, brown eye.
 
 As I sat in my usual nook, and looked at him with the light of the
 girandoles on the mantelpiece beaming full over him—for he occupied an
-arm-chair drawn close to the fire, and kept shrinking still nearer, as
+arm-chair drawn close to the [[Fire|fire]], and kept shrinking still nearer, as
 if he were cold, I compared him with Mr. Rochester. I think (with
 deference be it spoken) the contrast could not be much greater between
 a sleek gander and a fierce falcon: between a meek sheep and the
 rough-coated keen-eyed dog, its guardian.
 
-He had spoken of Mr. Rochester as an old friend. A curious friendship
+He had spoken of Mr. Rochester as an old friend. A curious [[Friendship|friendship]]
 theirs must have been: a pointed illustration, indeed, of the old adage
 that “extremes meet.”
 
@@ -415,7 +415,7 @@ scraps of their conversation across the room. At first I could not make
 much sense of what I heard; for the discourse of Louisa Eshton and Mary
 Ingram, who sat nearer to me, confused the fragmentary sentences that
 reached me at intervals. These last were discussing the stranger; they
-both called him “a beautiful man.” Louisa said he was “a love of a
+both called him “a beautiful man.” Louisa said he was “a [[Love|love]] of a
 creature,” and she “adored him;” and Mary instanced his “pretty little
 mouth, and nice nose,” as her ideal of the charming.
 
@@ -427,16 +427,16 @@ And then, to my great relief, Mr. Henry Lynn summoned them to the other
 side of the room, to settle some point about the deferred excursion to
 Hay Common.
 
-I was now able to concentrate my attention on the group by the fire,
+I was now able to concentrate my attention on the group by the [[Fire|fire]],
 and I presently gathered that the new-comer was called Mr. Mason; then
 I learned that he was but just arrived in England, and that he came
 from some hot country: which was the reason, doubtless, his face was so
 sallow, and that he sat so near the hearth, and wore a surtout in the
-house. Presently the words Jamaica, Kingston, Spanish Town, indicated
+[[house]]. Presently the words Jamaica, Kingston, Spanish Town, indicated
 the West Indies as his residence; and it was with no little surprise I
 gathered, ere long, that he had there first seen and become acquainted
 with Mr. Rochester. He spoke of his friend’s dislike of the burning
-heats, the hurricanes, and rainy seasons of that region. I knew Mr.
+heats, the hurricanes, and rainy [[Seasons|seasons]] of that region. I knew Mr.
 Rochester had been a traveller: Mrs. Fairfax had said so; but I thought
 the continent of Europe had bounded his wanderings; till now I had
 never heard a hint given of visits to more distant shores.
@@ -444,7 +444,7 @@ never heard a hint given of visits to more distant shores.
 I was pondering these things, when an incident, and a somewhat
 unexpected one, broke the thread of my musings. Mr. Mason, shivering as
 some one chanced to open the door, asked for more coal to be put on the
-fire, which had burnt out its flame, though its mass of cinder still
+[[Fire|fire]], which had burnt out its flame, though its mass of cinder still
 shone hot and red. The footman who brought the coal, in going out,
 stopped near Mr. Eshton’s chair, and said something to him in a low
 voice, of which I heard only the words, “old woman,”—“quite
@@ -508,7 +508,7 @@ The footman still lingered. “She looks such a rough one,” said he.
 
 “Go!” ejaculated Miss Ingram, and the man went.
 
-Excitement instantly seized the whole party: a running fire of raillery
+Excitement instantly seized the whole party: a running [[Fire|fire]] of raillery
 and jests was proceeding when Sam returned.
 
 “She won’t come now,” said he. “She says it’s not her mission to appear
@@ -521,13 +521,13 @@ Be advised, my angel girl—and—”
 
 “Show her into the library, of course,” cut in the “angel girl.” “It is
 not my mission to listen to her before the vulgar herd either: I mean
-to have her all to myself. Is there a fire in the library?”
+to have her all to myself. Is there a [[Fire|fire]] in the library?”
 
 “Yes, ma’am—but she looks such a tinkler.”
 
 “Cease that chatter, blockhead! and do my bidding.”
 
-Again Sam vanished; and mystery, animation, expectation rose to full
+Again Sam vanished; and mystery, animation, expectation [[Rose|rose]] to full
 flow once more.
 
 “She’s ready now,” said the footman, as he reappeared. “She wishes to
@@ -547,15 +547,15 @@ single.”
 
 “By Jove, she has taste!” exclaimed Henry Lynn.
 
-Miss Ingram rose solemnly: “I go first,” she said, in a tone which
-might have befitted the leader of a forlorn hope, mounting a breach in
+Miss Ingram [[Rose|rose]] solemnly: “I go first,” she said, in a tone which
+might have befitted the leader of a forlorn [[Hope|hope]], mounting a breach in
 the van of his men.
 
 “Oh, my best! oh, my dearest! pause—reflect!” was her mama’s cry; but
-she swept past her in stately silence, passed through the door which
+she swept past her in stately [[Silence|silence]], passed through the door which
 Colonel Dent held open, and we heard her enter the library.
 
-A comparative silence ensued. Lady Ingram thought it “le cas” to wring
+A comparative [[Silence|silence]] ensued. Lady Ingram thought it “le cas” to wring
 her hands: which she did accordingly. Miss Mary declared she felt, for
 her part, she never dared venture. Amy and Louisa Eshton tittered under
 their breath, and looked a little frightened.
@@ -566,9 +566,9 @@ library-door again opened. Miss Ingram returned to us through the arch.
 Would she laugh? Would she take it as a joke? All eyes met her with a
 glance of eager curiosity, and she met all eyes with one of rebuff and
 coldness; she looked neither flurried nor merry: she walked stiffly to
-her seat, and took it in silence.
+her seat, and took it in [[Silence|silence]].
 
-“Well, Blanche?” said Lord Ingram.
+“[[Well]], Blanche?” said Lord Ingram.
 
 “What did she say, sister?” asked Mary.
 
@@ -576,18 +576,18 @@ her seat, and took it in silence.
 demanded the Misses Eshton.
 
 “Now, now, good people,” returned Miss Ingram, “don’t press upon me.
-Really your organs of wonder and credulity are easily excited: you
+Really your organs of [[Wonder|wonder]] and credulity are easily excited: you
 seem, by the importance of you all—my good mama included—ascribe to
-this matter, absolutely to believe we have a genuine witch in the
-house, who is in close alliance with the old gentleman. I have seen a
+this matter, absolutely to believe we have a genuine [[Witch|witch]] in the
+[[house]], who is in close alliance with the old gentleman. I have seen a
 gipsy vagabond; she has practised in hackneyed fashion the science of
 palmistry and told me what such people usually tell. My whim is
-gratified; and now I think Mr. Eshton will do well to put the hag in
+gratified; and now I think Mr. Eshton will do [[Well|well]] to put the hag in
 the stocks to-morrow morning, as he threatened.”
 
 Miss Ingram took a book, leant back in her chair, and so declined
 further conversation. I watched her for nearly half-an-hour: during all
-that time she never turned a page, and her face grew momently darker,
+that [[Time|time]] she never turned a page, and her face grew momently darker,
 more dissatisfied, and more sourly expressive of disappointment. She
 had obviously not heard anything to her advantage: and it seemed to me,
 from her prolonged fit of gloom and taciturnity, that she herself,
@@ -595,14 +595,14 @@ notwithstanding her professed indifference, attached undue importance
 to whatever revelations had been made her.
 
 
-During all that time she never turned a page
+During all that [[Time|time]] she never turned a page
 
 Meantime, Mary Ingram, Amy and Louisa Eshton, declared they dared not
-go alone; and yet they all wished to go. A negotiation was opened
+go [[Alone|alone]]; and yet they all wished to go. A negotiation was opened
 through the medium of the ambassador, Sam; and after much pacing to and
 fro, till, I think, the said Sam’s calves must have ached with the
 exercise, permission was at last, with great difficulty, extorted from
-the rigorous Sibyl, for the three to wait upon her in a body.
+the rigorous Sibyl, for the three to wait upon her in a [[Body|body]].
 
 Their visit was not so still as Miss Ingram’s had been: we heard
 hysterical giggling and little shrieks proceeding from the library; and
@@ -615,7 +615,7 @@ into the various seats the gentlemen hastened to bring them.
 
 Pressed for further explanation, they declared she had told them of
 things they had said and done when they were mere children; described
-books and ornaments they had in their boudoirs at home: keepsakes that
+books and ornaments they had in their boudoirs at [[Home|home]]: keepsakes that
 different relations had presented to them. They affirmed that she had
 even divined their thoughts, and had whispered in the ear of each the
 name of the person she liked best in the world, and informed them of
@@ -626,7 +626,7 @@ enlightened on these two last-named points; but they got only blushes,
 ejaculations, tremors, and titters, in return for their importunity.
 The matrons, meantime, offered vinaigrettes and wielded fans; and again
 and again reiterated the expression of their concern that their warning
-had not been taken in time; and the elder gentlemen laughed, and the
+had not been taken in [[Time|time]]; and the elder gentlemen laughed, and the
 younger urged their services on the agitated fair ones.
 
 In the midst of the tumult, and while my eyes and ears were fully

@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 25 (part 4)"
+title: "[[Barnaby Rudge]] — Chapter 25 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -14,35 +14,35 @@ tags:
 </nav>
 
 
-Here again, the raven was in a highly reflective state; walking up and
+Here again, [[The Raven|the raven]] was in a highly reflective state; walking up and
 down when he had dined, with an air of elderly complacency which was
 strongly suggestive of his having his hands under his coat-tails; and
 appearing to read the tombstones with a very critical taste. Sometimes,
 after a long inspection of an epitaph, he would strop his beak upon the
-grave to which it referred, and cry in his hoarse tones, ‘I’m a devil,
+[[Grave|grave]] to which it referred, and cry in his hoarse tones, ‘I’m a devil,
 I’m a devil, I’m a devil!’ but whether he addressed his observations to
 any supposed person below, or merely threw them off as a general remark,
 is matter of uncertainty.
 
 It was a quiet pretty spot, but a sad one for Barnaby’s mother; for Mr
 Reuben Haredale lay there, and near the vault in which his ashes rested,
-was a stone to the memory of her own husband, with a brief inscription
+was a stone to the [[Memory|memory]] of her own husband, with a brief [[Inscription|inscription]]
 recording how and when he had lost his life. She sat here, thoughtful
-and apart, until their time was out, and the distant horn told that the
+and apart, until their [[Time|time]] was out, and the distant horn told that the
 coach was coming.
 
 Barnaby, who had been sleeping on the grass, sprung up quickly at the
-sound; and Grip, who appeared to understand it equally well, walked
+sound; and Grip, who appeared to understand it equally [[Well|well]], walked
 into his basket straightway, entreating society in general (as though
-he intended a kind of satire upon them in connection with churchyards)
+he intended a kind of [[Satire|satire]] upon them in connection with churchyards)
 never to say die on any terms. They were soon on the coach-top and
-rolling along the road.
+[[rolling]] along the [[Road|road]].
 
 It went round by the Maypole, and stopped at the door. Joe was from
-home, and Hugh came sluggishly out to hand up the parcel that it called
-for. There was no fear of old John coming out. They could see him from
+[[Home|home]], and Hugh came sluggishly out to hand up the parcel that it called
+for. There was no [[Fear|fear]] of old John coming out. They could see him from
 the coach-roof fast asleep in his cosy bar. It was a part of John’s
-character. He made a point of going to sleep at the coach’s time. He
+character. He made a point of going to [[Sleep|sleep]] at the coach’s [[Time|time]]. He
 despised gadding about; he looked upon coaches as things that ought
 to be indicted; as disturbers of the peace of mankind; as restless,
 bustling, busy, horn-blowing contrivances, quite beneath the dignity of
@@ -59,5 +59,5 @@ She dropped her veil as Hugh climbed up, and while he hung behind, and
 talked to Barnaby in whispers. But neither he nor any other person
 spoke to her, or noticed her, or had any curiosity about her; and so, an
 alien, she visited and left the village where she had been born, and had
-lived a merry child, a comely girl, a happy wife--where she had known
+lived a merry [[Child|child]], a comely girl, a happy wife--where she had known
 all her enjoyment of life, and had entered on its hardest sorrows.

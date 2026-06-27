@@ -27,7 +27,7 @@ doubted it altogether.  One or two of the more morbid fancied
 that it might be evil and an enemy; just one or two of the more
 degraded in the other class worshipped demons instead of gods.
 But most of these theorists were theists:  and they not only saw a moral
-plan in nature, but they generally laid down a moral plan for humanity.
+plan in [[Nature|nature]], but they generally laid down a moral plan for humanity.
 Most of them were good men who did good work:  and they were
 remembered and reverenced in various ways.  They were scribes;
 any their scriptures became more or less holy scriptures.
@@ -44,7 +44,7 @@ Divine Plato, like Divus Ceasar, was a title and not a dogma.
 In Asia, where the atmosphere was more mythological, the man
 was made to look more like a myth, but he remained a man.
 He remained a man of a certain social class or school of men,
-receiving and deserving great honour from mankind.
+receiving and deserving great [[Honour|honour]] from mankind.
 It is the order or school of the philosophers; the men who have set
 themselves seriously to trace the order across any apparent chaos
 in the vision of life.  Instead of living on imaginative rumours
@@ -64,7 +64,7 @@ of historic times, there did walk into the world this original
 invisible being; about whom the thinkers make theories and
 the mythologists hand down myths; the Man Who Made the World.
 That such a higher personality exists behind all things had
-indeed always been implied by all the best thinkers, as well
+indeed always been implied by all the best thinkers, as [[Well|well]]
 as by all the most beautiful legends.  But nothing of this sort
 had ever been implied in any of them.  It is simply false to say
 that the other sages and heroes had claimed to be that mysterious
@@ -72,28 +72,28 @@ master and maker, of whom the world had dreamed and disputed.
 Not one of them had ever claimed to be anything of the sort.
 Not one of their sects or schools had even claimed that they had
 claimed to be anything of the sort.  The most that any religious
-prophet had said was that he was the true servant of such a being.
+[[Prophet|prophet]] had said was that he was the true servant of such a being.
 The most that any visionary had ever said was that men might catch
 glimpses of the glory of that spiritual being; or much more often
 of lesser spiritual beings.  The most that any primitive myth had
 even suggested was that the Creator was present at the Creation.
 But that the Creator was present at scenes a little subsequent
 to the supper-parties of Horace, and talked with tax-collectors and
-government officials in the detailed daily life of the Roman Empire,
+[[government]] officials in the detailed daily life of the Roman Empire,
 and that this fact continued to be firmly asserted by the whole
 of that great civilisation for more than a thousand years--
-that is something utterly unlike anything else in nature.
+that is something utterly unlike anything else in [[Nature|nature]].
 It is the one great startling statement that man has made since he spoke
 his first articulate word, instead of barking like a dog.  Its unique
-character can be used as an argument against it as well as for it.
+character can be used as an argument against it as [[Well|well]] as for it.
 It would be easy to concentrate on it as a case of isolated insanity;
-but it makes nothing but dust and nonsense of comparative religion.
+but it makes nothing but [[Dust|dust]] and nonsense of comparative religion.
 
-It came on the world with a wind and rush of running messengers
+It came on the world with a [[Wind|wind]] and rush of running messengers
 proclaiming that apocalyptic portent, and it is not unduly fanciful
 to say that they are running still.  What puzzles the world,
 and its wise philosophers and fanciful pagan poets, about the priests
-and people of the Catholic Church is that they still behave
+and people of the [[Catholic Church]] is that they still behave
 as if they were messengers.  A messenger does not dream about what
 his message might be, or argue about what it probably would be;
 he delivers it as it is.  It is not a theory or a fancy but a fact.
@@ -103,10 +103,10 @@ that these messengers do deal with it as men deal with a fact.
 All that is condemned in Catholic tradition, authority, and dogmatism
 and the refusal to retract and modify, are but the natural
 human attributes of a man with a message relating to a fact.
-I desire to avoid in this last summary all the controversial complexities
+I [[Desire|desire]] to avoid in this last summary all the controversial complexities
 that may once more cloud the simple lines of that strange story;
 which I have already called, in words that are much too weak,
-the strangest story in the world.  I desire merely to mark those main
+the strangest story in the world.  I [[Desire|desire]] merely to mark those main
 lines and specially to mark where the great line is really to be drawn.
 The religion of the world, in its right proportions, is not divided into
 fine shades of mysticism or more or less rational forms of mythology.

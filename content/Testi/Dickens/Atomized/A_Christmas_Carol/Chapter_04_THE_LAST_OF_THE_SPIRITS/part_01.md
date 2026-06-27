@@ -1,5 +1,5 @@
 ---
-title: "A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 1)"
+title: "A Christmas [[carol|Carol]] — Stave 4: THE LAST OF THE SPIRITS (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Christmas-Carol-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 STAVE IV:  THE LAST OF THE SPIRITS
 
-THE Phantom slowly, gravely, silently, approached. When
+THE [[Phantom]] slowly, gravely, silently, approached. When
 it came near him, Scrooge bent down upon his knee; for in
 the very air through which this Spirit moved it seemed to
 scatter gloom and mystery.
@@ -24,7 +24,7 @@ scatter gloom and mystery.
 It was shrouded in a deep black garment, which concealed
 its head, its face, its form, and left nothing of it visible
 save one outstretched hand. But for this it would have been
-difficult to detach its figure from the night, and separate it
+difficult to detach its figure from the [[Night|night]], and separate it
 from the darkness by which it was surrounded.
 
 He felt that it was tall and stately when it came beside
@@ -32,25 +32,25 @@ him, and that its mysterious presence filled him with a
 solemn dread. He knew no more, for the Spirit neither
 spoke nor moved.
 
-"I am in the presence of the Ghost of Christmas Yet To
+"I am in the presence of the [[Ghost]] of Christmas Yet To
 Come?" said Scrooge.
 
 The Spirit answered not, but pointed onward with its
 hand.
 
 "You are about to show me shadows of the things that
-have not happened, but will happen in the time before us,"
+have not happened, but will happen in the [[Time|time]] before us,"
 Scrooge pursued. "Is that so, Spirit?"
 
 The upper portion of the garment was contracted for an
 instant in its folds, as if the Spirit had inclined its head.
 That was the only answer he received.
 
-Although well used to ghostly company by this time,
+Although [[Well|well]] used to ghostly company by this [[Time|time]],
 Scrooge feared the silent shape so much that his legs trembled
 beneath him, and he found that he could hardly stand when
 he prepared to follow it. The Spirit paused a moment, as
-observing his condition, and giving him time to recover.
+observing his condition, and giving him [[Time|time]] to recover.
 
 But Scrooge was all the worse for this. It thrilled him
 with a vague uncertain horror, to know that behind the
@@ -59,9 +59,9 @@ him, while he, though he stretched his own to the utmost,
 could see nothing but a spectral hand and one great heap
 of black.
 
-"Ghost of the Future!" he exclaimed, "I fear you more
+"[[Ghost]] of the Future!" he exclaimed, "I [[Fear|fear]] you more
 than any spectre I have seen. But as I know your purpose
-is to do me good, and as I hope to live to be another
+is to do me good, and as I [[Hope|hope]] to live to be another
 man from what I was, I am prepared to bear you company,
 and do it with a thankful heart. Will you not speak
 to me?"
@@ -69,16 +69,16 @@ to me?"
 It gave him no reply. The hand was pointed straight
 before them.
 
-"Lead on!" said Scrooge. "Lead on! The night is
-waning fast, and it is precious time to me, I know. Lead
+"Lead on!" said Scrooge. "Lead on! The [[Night|night]] is
+waning fast, and it is precious [[Time|time]] to me, I know. Lead
 on, Spirit!"
 
-The Phantom moved away as it had come towards him.
-Scrooge followed in the shadow of its dress, which bore him
+The [[Phantom]] moved away as it had come towards him.
+Scrooge followed in the [[Shadow|shadow]] of its dress, which bore him
 up, he thought, and carried him along.
 
-They scarcely seemed to enter the city; for the city rather
-seemed to spring up about them, and encompass them of its
+They scarcely seemed to enter the [[City|city]]; for the [[City|city]] rather
+seemed to [[Spring|spring]] up about them, and encompass them of its
 own act. But there they were, in the heart of it; on
 'Change, amongst the merchants; who hurried up and down,
 and chinked the money in their pockets, and conversed in
@@ -96,7 +96,7 @@ dead."
 
 "When did he die?" inquired another.
 
-"Last night, I believe."
+"Last [[Night|night]], I believe."
 
 "Why, what was the matter with him?" asked a third,
 taking a vast quantity of snuff out of a very large snuff-box.
@@ -124,7 +124,7 @@ be fed, if I make one."
 
 Another laugh.
 
-"Well, I am the most disinterested among you, after all,"
+"[[Well]], I am the most disinterested among you, after all,"
 said the first speaker, "for I never wear black gloves, and I
 never eat lunch. But I'll offer to go, if anybody else will.
 When I come to think of it, I'm not at all sure that I wasn't
@@ -135,25 +135,25 @@ Speakers and listeners strolled away, and mixed with
 other groups. Scrooge knew the men, and looked towards the
 Spirit for an explanation.
 
-The Phantom glided on into a street. Its finger pointed
+The [[Phantom]] glided on into a street. Its finger pointed
 to two persons meeting. Scrooge listened again, thinking
 that the explanation might lie here.
 
 He knew these men, also, perfectly. They were men of business:
 very wealthy, and of great importance. He had made a point
-always of standing well in their esteem: in a business point
+always of standing [[Well|well]] in their esteem: in a business point
 of view, that is; strictly in a business point of view.
 
 "How are you?" said one.
 
 "How are you?" returned the other.
 
-"Well!" said the first. "Old Scratch has got his own at
+"[[Well]]!" said the first. "Old Scratch has got his own at
 last, hey?"
 
 "So I am told," returned the second. "Cold, isn't it?"
 
-"Seasonable for Christmas time. You're not a skater, I
+"Seasonable for Christmas [[Time|time]]. You're not a skater, I
 suppose?"
 
 "No. No. Something else to think of. Good morning!"
@@ -166,14 +166,14 @@ Spirit should attach importance to conversations apparently so
 trivial; but feeling assured that they must have some hidden
 purpose, he set himself to consider what it was likely to be.
 They could scarcely be supposed to have any bearing on the
-death of Jacob, his old partner, for that was Past, and this
-Ghost's province was the Future. Nor could he think of any
+[[Death|death]] of Jacob, his old partner, for that was Past, and this
+[[Ghost]]'s province was the Future. Nor could he think of any
 one immediately connected with himself, to whom he could
 apply them. But nothing doubting that to whomsoever they
 applied they had some latent moral for his own improvement,
 he resolved to treasure up every word he heard,
 and everything he saw; and especially to observe the
-shadow of himself when it appeared. For he had an expectation
-that the conduct of his future self would give him
+[[Shadow|shadow]] of himself when it appeared. For he had an expectation
+that the conduct of his future [[Self|self]] would give him
 the clue he missed, and would render the solution of these
 riddles easy.

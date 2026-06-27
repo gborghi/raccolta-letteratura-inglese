@@ -15,9 +15,9 @@ tags:
 
 
 The Captain had spread the cloth with great care, and was making some
-egg-sauce in a little saucepan: basting the fowl from time to time
+egg-sauce in a little saucepan: basting the fowl from [[Time|time]] to [[Time|time]]
 during the process with a strong interest, as it turned and browned on
-a string before the fire. Having propped Florence up with cushions on
+a string before the [[Fire|fire]]. Having propped Florence up with cushions on
 the sofa, which was already wheeled into a warm corner for her greater
 comfort, the Captain pursued his cooking with extraordinary skill,
 making hot gravy in a second little saucepan, boiling a handful of
@@ -30,7 +30,7 @@ radiant cook as the Captain looked, in the height and heat of these
 functions: it being impossible to say whether his face or his glazed
 hat shone the brighter.
 
-The dinner being at length quite ready, Captain Cuttle dished and
+The dinner being at length quite ready, [[Captain Cuttle]] dished and
 served it up, with no less dexterity than he had cooked it. He then
 dressed for dinner, by taking off his glazed hat and putting on his
 coat. That done, he wheeled the table close against Florence on the
@@ -56,11 +56,11 @@ Florence had no words to answer with. She only said, “Oh, dear, dear
 Paul! oh, Walter!”
 
 “The wery planks she walked on,” murmured the Captain, looking at her
-drooping face, “was as high esteemed by Wal”r, as the water brooks is
+drooping face, “was as high esteemed by Wal”r, as the [[Water|water]] brooks is
 by the hart which never rejices! I see him now, the wery day as he was
 rated on them Dombey books, a speaking of her with his face a
 glistening with doo—leastways with his modest sentiments—like a new
-blowed rose, at dinner. Well, well! If our poor Wal”r was here, my lady
+blowed [[Rose|rose]], at dinner. [[Well]], [[Well|well]]! If our poor Wal”r was here, my lady
 lass—or if he could be—for he’s drownded, ain’t he?”
 
 Florence shook her head.
@@ -69,19 +69,19 @@ Florence shook her head.
 if he could be here he’d beg and pray of you, my precious, to pick a
 leetle bit, with a look-out for your own sweet health. Whereby, hold
 your own, my lady lass, as if it was for Wal”r’s sake, and lay your
-pretty head to the wind.”
+pretty head to the [[Wind|wind]].”
 
 Florence essayed to eat a morsel, for the Captain’s pleasure. The
 Captain, meanwhile, who seemed to have quite forgotten his own dinner,
 laid down his knife and fork, and drew his chair to the sofa.
 
 “Wal”r was a trim lad, warn’t he, precious?” said the Captain, after
-sitting for some time silently rubbing his chin, with his eyes fixed
+sitting for some [[Time|time]] silently rubbing his chin, with his eyes fixed
 upon her, “and a brave lad, and a good lad?”
 
 Florence tearfully assented.
 
-“And he’s drownded, Beauty, ain’t he?” said the Captain, in a soothing
+“And he’s drownded, [[Beauty]], ain’t he?” said the Captain, in a soothing
 voice.
 
 Florence could not but assent again.
@@ -94,7 +94,7 @@ Florence answered “Yes.”
 “And Wal”r’s drownded,” said the Captain. “Ain’t he?”
 
 The repetition of this inquiry was a curious source of consolation, but
-it seemed to be one to Captain Cuttle, for he came back to it again and
+it seemed to be one to [[Captain Cuttle]], for he came back to it again and
 again. Florence, fain to push from her her untasted dinner, and to lie
 back on her sofa, gave him her hand, feeling that she had disappointed
 him, though truly wishing to have pleased him after all his trouble,
@@ -108,7 +108,7 @@ consist.
 The fowl and sausages were cold, and the gravy and the egg-sauce
 stagnant, before the Captain remembered that they were on the board,
 and fell to with the assistance of Diogenes, whose united efforts
-quickly dispatched the banquet. The Captain’s delight and wonder at the
+quickly dispatched the banquet. The Captain’s delight and [[Wonder|wonder]] at the
 quiet housewifery of Florence in assisting to clear the table, arrange
 the parlour, and sweep up the hearth—only to be equalled by the
 fervency of his protest when she began to assist him—were gradually
@@ -130,4 +130,4 @@ place on the old sofa, looked at him with a smile so loving and so
 grateful, a smile that showed him so plainly how her forlorn heart
 turned to him, as her face did, through grief, that the smoke of the
 pipe got into the Captain’s throat and made him cough, and got into the
-Captain’s eyes, and made them blink and water.
+Captain’s eyes, and made them blink and [[Water|water]].

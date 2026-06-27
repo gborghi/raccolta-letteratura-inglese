@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 21 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 21 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -17,10 +17,10 @@ tags:
 ‘You make me out worse than I am, Henry,’ said Mrs. Wititterly, with a
 faint smile.
 
-‘I do not, Julia, I do not,’ said Mr. W. ‘The society in which
+‘I do not, [[Julia]], I do not,’ said Mr. W. ‘The society in which
 you move--necessarily move, from your station, connection, and
 endowments--is one vortex and whirlpool of the most frightful
-excitement. Bless my heart and body, can I ever forget the night you
+excitement. Bless my heart and [[Body|body]], can I ever forget the [[Night|night]] you
 danced with the baronet’s nephew at the election ball, at Exeter! It was
 tremendous.’
 
@@ -39,7 +39,7 @@ think of all this?’
 ‘is sought after and courted by glittering crowds and brilliant circles.
 She is excited by the opera, the drama, the fine arts, the--the--the--’
 
-‘The nobility, my love,’ interposed Mrs. Wititterly.
+‘The nobility, my [[Love|love]],’ interposed Mrs. Wititterly.
 
 ‘The nobility, of course,’ said Mr. Wititterly. ‘And the military. She
 forms and expresses an immense variety of opinions on an immense variety
@@ -49,19 +49,19 @@ perhaps, quite as high as they do.’
 
 ‘Hush, Henry,’ said the lady; ‘this is scarcely fair.’
 
-‘I mention no names, Julia,’ replied Mr. Wititterly; ‘and nobody is
+‘I mention no names, [[Julia]],’ replied Mr. Wititterly; ‘and nobody is
 injured. I merely mention the circumstance to show that you are no
 ordinary person, that there is a constant friction perpetually going
-on between your mind and your body; and that you must be soothed and
+on between your mind and your [[Body|body]]; and that you must be soothed and
 tended. Now let me hear, dispassionately and calmly, what are this young
 lady’s qualifications for the office.’
 
 In obedience to this request, the qualifications were all gone through
-again, with the addition of many interruptions and cross-questionings
+again, with the addition of many interruptions and [[Cross|cross]]-questionings
 from Mr. Wititterly. It was finally arranged that inquiries should be
 made, and a decisive answer addressed to Miss Nickleby under cover
 of her uncle, within two days. These conditions agreed upon, the page
-showed them down as far as the staircase window; and the big footman,
+showed them down as far as the staircase [[Window|window]]; and the big footman,
 relieving guard at that point, piloted them in perfect safety to the
 street-door.
 
@@ -70,18 +70,18 @@ she took her daughter’s arm. ‘What a superior person Mrs. Wititterly is!’
 
 ‘Do you think so, mama?’ was all Kate’s reply.
 
-‘Why, who can help thinking so, Kate, my love?’ rejoined her mother.
-‘She is pale though, and looks much exhausted. I hope she may not be
+‘Why, who can help thinking so, Kate, my [[Love|love]]?’ rejoined her mother.
+‘She is pale though, and looks much exhausted. I [[Hope|hope]] she may not be
 wearing herself out, but I am very much afraid.’
 
 These considerations led the deep-sighted lady into a calculation of
 the probable duration of Mrs. Wititterly’s life, and the chances of the
 disconsolate widower bestowing his hand on her daughter. Before reaching
-home, she had freed Mrs. Wititterly’s soul from all bodily restraint;
+[[Home|home]], she had freed Mrs. Wititterly’s [[Soul|soul]] from all bodily restraint;
 married Kate with great splendour at St George’s, Hanover Square;
 and only left undecided the minor question, whether a splendid
 French-polished mahogany bedstead should be erected for herself in the
-two-pair back of the house in Cadogan Place, or in the three-pair front:
+two-pair back of the [[house]] in Cadogan Place, or in the three-pair front:
 between which apartments she could not quite balance the advantages, and
 therefore adjusted the question at last, by determining to leave it to
 the decision of her son-in-law.

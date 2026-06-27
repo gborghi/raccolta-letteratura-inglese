@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 18 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 18 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -28,7 +28,7 @@ indignation.
 
 
 
-“_Is_ it nothing to you, Helen? Will you swear it? Will you?”
+“_Is_ it nothing to you, [[Helen]]? Will you swear it? Will you?”
 
 
 
@@ -50,13 +50,13 @@ broke away, and got my candle, and rushed up-stairs to my room. He
 
 would not have done so but for that hateful picture. And there he had
 
-it still in his possession, an eternal monument to his pride and my
+it still in his possession, an eternal monument to his [[Pride|pride]] and my
 
 humiliation.
 
 
 
-It was but little sleep I got that night, and in the morning I rose
+It was but little [[Sleep|sleep]] I got that [[Night|night]], and in the morning I [[Rose|rose]]
 
 perplexed and troubled with the thoughts of meeting him at breakfast. I
 
@@ -84,13 +84,13 @@ on the occasion, not from any motives of coquetry, but just to show him
 
 that my particular coolness and reserve arose from no general
 
-ill-humour or depression of spirits.
+ill-[[Humour|humour]] or depression of spirits.
 
 
 
 He was not, however, to be repelled by such acting as this. He did not
 
-talk much to me, but when he did speak it was with a degree of freedom
+talk much to me, but when he did speak it was with a degree of [[Freedom|freedom]]
 
 and openness, and _kindliness_ too, that plainly seemed to intimate he
 
@@ -102,7 +102,7 @@ so genial, that I could not possibly retain my anger; every vestige of
 
 displeasure soon melted away beneath it like morning clouds before the
 
-summer sun.
+[[Summer|summer]] sun.
 
 
 
@@ -114,7 +114,7 @@ and Mr. Wilmot on their shooting ponies, Mr. Huntingdon and Lord
 
 Lowborough on their legs: the one exception being Mr. Boarham, who, in
 
-consideration of the rain that had fallen during the night, thought it
+consideration of the rain that had fallen during the [[Night|night]], thought it
 
 prudent to remain behind a little and join them in a while when the sun
 
@@ -130,7 +130,7 @@ sportsman to entertain the ladies with his medical discussions, sallied
 
 forth with their guns, bending their steps to the stables first, to
 
-have a look at the horses and let out the dogs.
+have a look at the horses and let out the [[dogs]].
 
 
 
@@ -152,9 +152,9 @@ By the bright azure of the sky, and by the warm and brilliant lights
 
 and deep long shadows, I had endeavoured to convey the idea of a sunny
 
-morning. I had ventured to give more of the bright verdure of spring or
+morning. I had ventured to give more of the bright verdure of [[spring]] or
 
-early summer to the grass and foliage than is commonly attempted in
+early [[Summer|summer]] to the grass and foliage than is commonly attempted in
 
 painting. The scene represented was an open glade in a wood. A group of
 
@@ -168,11 +168,11 @@ foliage was of a brilliant golden green—not golden from autumnal
 
 mellowness, but from the sunshine and the very immaturity of the scarce
 
-expanded leaves. Upon this bough, that stood out in bold relief against
+expanded [[Leaves|leaves]]. Upon this bough, that stood out in bold relief against
 
 the sombre firs, were seated an amorous pair of turtle doves, whose
 
-soft sad-coloured plumage afforded a contrast of another nature; and
+soft sad-coloured plumage afforded a contrast of another [[Nature|nature]]; and
 
 beneath it a young girl was kneeling on the daisy-spangled turf, with
 
@@ -180,7 +180,7 @@ head thrown back and masses of fair hair falling on her shoulders, her
 
 hands clasped, lips parted, and eyes intently gazing upward in pleased
 
-yet earnest contemplation of those feathered lovers—too deeply absorbed
+yet earnest contemplation of those feathered [[lovers]]—too deeply absorbed
 
 in each other to notice her.
 
@@ -188,7 +188,7 @@ in each other to notice her.
 
 I had scarcely settled to my work, which, however, wanted but a few
 
-touches to the finishing, when the sportsmen passed the window on their
+touches to the finishing, when the sportsmen passed the [[Window|window]] on their
 
 return from the stables. It was partly open, and Mr. Huntingdon must
 
@@ -200,13 +200,13 @@ set himself before my picture.
 
 
 
-“Very pretty, i’faith,” said he, after attentively regarding it for a
+“Very pretty, i’[[Faith|faith]],” said he, after attentively regarding it for a
 
-few seconds; “and a very fitting study for a young lady. Spring just
+few seconds; “and a very fitting study for a young lady. [[spring|Spring]] just
 
-opening into summer—morning just approaching noon—girlhood just
+opening into [[Summer|summer]]—morning just approaching [[Noon|noon]]—girlhood just
 
-ripening into womanhood, and hope just verging on fruition. She’s a
+ripening into womanhood, and [[Hope|hope]] just verging on fruition. She’s a
 
 sweet creature! but why didn’t you make her black hair?”
 
@@ -218,8 +218,8 @@ blue-eyed and plump, and fair and rosy.”
 
 
 
-“Upon my word—a very Hebe! I should fall in love with her if I hadn’t
+“Upon my word—a very Hebe! I should fall in [[Love|love]] with her if I hadn’t
 
-the artist before me. Sweet innocent! she’s thinking there will come a
+the [[Artist|artist]] before me. Sweet [[Innocent|innocent]]! she’s thinking there will come a
 
-time when she will be wooed and won like that pretty hen-dove by as
+[[Time|time]] when she will be wooed and won like that pretty hen-dove by as

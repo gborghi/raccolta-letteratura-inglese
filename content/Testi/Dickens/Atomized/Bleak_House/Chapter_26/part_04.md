@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 26 (part 4)"
+title: "Bleak [[house|House]] — Chapter 26 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -24,7 +24,7 @@ and lights it, and falls to smoking peacefully.
 This tends to the discomfiture of Mr. Smallweed, who finds it so
 difficult to resume his object, whatever it may be, that he becomes
 exasperated and secretly claws the air with an impotent
-vindictiveness expressive of an intense desire to tear and rend the
+vindictiveness expressive of an intense [[Desire|desire]] to tear and rend the
 visage of Mr. George. As the excellent old gentleman’s nails are long
 and leaden, and his hands lean and veinous, and his eyes green and
 watery; and, over and above this, as he continues, while he claws, to
@@ -32,8 +32,8 @@ slide down in his chair and to collapse into a shapeless bundle, he
 becomes such a ghastly spectacle, even in the accustomed eyes of
 Judy, that that young virgin pounces at him with something more than
 the ardour of affection and so shakes him up and pats and pokes him
-in divers parts of his body, but particularly in that part which the
-science of self-defence would call his wind, that in his grievous
+in divers parts of his [[Body|body]], but particularly in that part which the
+science of [[Self|self]]-defence would call his [[Wind|wind]], that in his grievous
 distress he utters enforced sounds like a paviour’s rammer.
 
 When Judy has by these means set him up again in his chair, with a
@@ -41,7 +41,7 @@ white face and a frosty nose (but still clawing), she stretches out
 her weazen forefinger and gives Mr. George one poke in the back. The
 trooper raising his head, she makes another poke at her esteemed
 grandfather, and having thus brought them together, stares rigidly at
-the fire.
+the [[Fire|fire]].
 
 “Aye, aye! Ho, ho! U—u—u—ugh!” chatters Grandfather Smallweed,
 swallowing his rage. “My dear friend!” (still clawing).
@@ -61,7 +61,7 @@ himself that he is not smothered yet.
 there’s any property on the premises, look about you; you are
 welcome. If you want to out with something, out with it!”
 
-The blooming Judy, without removing her gaze from the fire, gives her
+The blooming Judy, without removing her gaze from the [[Fire|fire]], gives her
 grandfather one ghostly poke.
 
 “You see! It’s her opinion too. And why the devil that young woman
@@ -74,10 +74,10 @@ attention. I can carry my years; I am not a brimstone poll-parrot”
 (snarling and looking unconsciously for the cushion), “but I need
 attention, my dear friend.”
 
-“Well!” returns the trooper, wheeling his chair to face the old man.
+“[[Well]]!” returns the trooper, wheeling his chair to face the old man.
 “Now then?”
 
-“My friend in the city, Mr. George, has done a little business with a
+“My friend in the [[City|city]], Mr. George, has done a little business with a
 pupil of yours.”
 
 “Has he?” says Mr. George. “I am sorry to hear it.”
@@ -86,7 +86,7 @@ pupil of yours.”
 soldier now, Mr. George, by the name of Carstone. Friends came
 forward and paid it all up, honourable.”
 
-“Did they?” returns Mr. George. “Do you think your friend in the city
+“Did they?” returns Mr. George. “Do you think your friend in the [[City|city]]
 would like a piece of advice?”
 
 “I think he would, my dear friend. From you.”
@@ -121,7 +121,7 @@ stroking the recollection of his moustache. “What captain?”
 
 “Oh! That’s it, is it?” says Mr. George with a low whistle as he sees
 both grandfather and granddaughter looking hard at him. “You are
-there! Well? What about it? Come, I won’t be smothered any more.
+there! [[Well]]? What about it? Come, I won’t be smothered any more.
 Speak!”
 
 “My dear friend,” returns the old man, “I was applied—Judy, shake me
@@ -148,14 +148,14 @@ making the inquiries wants?”
 air of confirmed resolution.
 
 “My dear friend, he is a lawyer, and a famous one. He wants to see
-some fragment in Captain Hawdon’s writing. He don’t want to keep it.
+some [[Fragment|fragment]] in Captain Hawdon’s writing. He don’t want to keep it.
 He only wants to see it and compare it with a writing in his
 possession.”
 
-“Well?”
+“[[Well]]?”
 
-“Well, Mr. George. Happening to remember the advertisement concerning
+“[[Well]], Mr. George. Happening to remember the advertisement concerning
 Captain Hawdon and any information that could be given respecting
 him, he looked it up and came to me—just as you did, my dear friend.
 WILL you shake hands? So glad you came that day! I should have missed
-forming such a friendship if you hadn’t come!”
+forming such a [[Friendship|friendship]] if you hadn’t come!”

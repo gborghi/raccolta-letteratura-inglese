@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 9"
+title: "Bleak [[house|House]] — Chapter 9"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -20,24 +20,24 @@ Signs and Tokens
 
 
 I don’t know how it is I seem to be always writing about myself. I
-mean all the time to write about other people, and I try to think
+mean all the [[Time|time]] to write about other people, and I try to think
 about myself as little as possible, and I am sure, when I find myself
 coming into the story again, I am really vexed and say, “Dear, dear,
 you tiresome little creature, I wish you wouldn’t!” but it is all of
-no use. I hope any one who may read what I write will understand that
+no use. I [[Hope|hope]] any one who may read what I write will understand that
 if these pages contain a great deal about me, I can only suppose it
 must be because I have really something to do with them and can’t be
 kept out.
 
 My darling and I read together, and worked, and practised, and found
-so much employment for our time that the winter days flew by us like
-bright-winged birds. Generally in the afternoons, and always in the
-evenings, Richard gave us his company. Although he was one of the
+so much employment for our [[Time|time]] that the [[Winter|winter]] days flew by us like
+bright-winged [[Birds|birds]]. Generally in the afternoons, and always in the
+evenings, [[Richard]] gave us his company. Although he was one of the
 most restless creatures in the world, he certainly was very fond of
 our society.
 
 He was very, very, very fond of Ada. I mean it, and I had better say
-it at once. I had never seen any young people falling in love before,
+it at once. I had never seen any young people falling in [[Love|love]] before,
 but I found them out quite soon. I could not say so, of course, or
 show that I knew anything about it. On the contrary, I was so demure
 and used to seem so unconscious that sometimes I considered within
@@ -46,31 +46,31 @@ deceitful.
 
 But there was no help for it. All I had to do was to be quiet, and I
 was as quiet as a mouse. They were as quiet as mice too, so far as
-any words were concerned, but the innocent manner in which they
+any words were concerned, but the [[Innocent|innocent]] manner in which they
 relied more and more upon me as they took more and more to one
 another was so charming that I had great difficulty in not showing
 how it interested me.
 
-“Our dear little old woman is such a capital old woman,” Richard
-would say, coming up to meet me in the garden early, with his
+“Our dear little old woman is such a capital old woman,” [[Richard]]
+would say, coming up to meet me in the [[Garden|garden]] early, with his
 pleasant laugh and perhaps the least tinge of a blush, “that I can’t
 get on without her. Before I begin my harum-scarum day—grinding away
-at those books and instruments and then galloping up hill and down
+at those books and instruments and then galloping up [[Hill|hill]] and down
 dale, all the country round, like a highwayman—it does me so much
 good to come and have a steady walk with our comfortable friend, that
 here I am again!”
 
-“You know, Dame Durden, dear,” Ada would say at night, with her head
+“You know, Dame Durden, dear,” Ada would say at [[Night|night]], with her head
 upon my shoulder and the firelight shining in her thoughtful eyes, “I
 don’t want to talk when we come upstairs here. Only to sit a little
-while thinking, with your dear face for company, and to hear the wind
+while thinking, with your dear face for company, and to hear the [[Wind|wind]]
 and remember the poor sailors at sea—”
 
-Ah! Perhaps Richard was going to be a sailor. We had talked it over
+Ah! Perhaps [[Richard]] was going to be a sailor. We had talked it over
 very often now, and there was some talk of gratifying the inclination
-of his childhood for the sea. Mr. Jarndyce had written to a relation
-of the family, a great Sir Leicester Dedlock, for his interest in
-Richard’s favour, generally; and Sir Leicester had replied in a
+of his [[Childhood|childhood]] for the sea. Mr. Jarndyce had written to a relation
+of the family, a great [[Sir Leicester Dedlock]], for his interest in
+[[Richard]]’s favour, generally; and Sir Leicester had replied in a
 gracious manner that he would be happy to advance the prospects of
 the young gentleman if it should ever prove to be within his power,
 which was not at all probable, and that my Lady sent her compliments
@@ -78,7 +78,7 @@ to the young gentleman (to whom she perfectly remembered that she was
 allied by remote consanguinity) and trusted that he would ever do his
 duty in any honourable profession to which he might devote himself.
 
-“So I apprehend it’s pretty clear,” said Richard to me, “that I shall
+“So I apprehend it’s pretty clear,” said [[Richard]] to me, “that I shall
 have to work my own way. Never mind! Plenty of people have had to do
 that before now, and have done it. I only wish I had the command of a
 clipping privateer to begin with and could carry off the Chancellor
@@ -86,7 +86,7 @@ and keep him on short allowance until he gave judgment in our cause.
 He’d find himself growing thin, if he didn’t look sharp!”
 
 With a buoyancy and hopefulness and a gaiety that hardly ever
-flagged, Richard had a carelessness in his character that quite
+flagged, [[Richard]] had a carelessness in his character that quite
 perplexed me, principally because he mistook it, in such a very odd
 way, for prudence. It entered into all his calculations about money
 in a singular manner which I don’t think I can better explain than by
@@ -95,8 +95,8 @@ reverting for a moment to our loan to Mr. Skimpole.
 Mr. Jarndyce had ascertained the amount, either from Mr. Skimpole
 himself or from Coavinses, and had placed the money in my hands with
 instructions to me to retain my own part of it and hand the rest to
-Richard. The number of little acts of thoughtless expenditure which
-Richard justified by the recovery of his ten pounds, and the number
+[[Richard]]. The number of little acts of thoughtless expenditure which
+[[Richard]] justified by the recovery of his ten pounds, and the number
 of times he talked to me as if he had saved or realized that amount,
 would form a sum in simple addition.
 
@@ -111,11 +111,11 @@ and never expected to see any more. You don’t deny that?”
 
 “No,” said I.
 
-“Very well! Then I came into possession of ten pounds—”
+“Very [[Well|well]]! Then I came into possession of ten pounds—”
 
 “The same ten pounds,” I hinted.
 
-“That has nothing to do with it!” returned Richard. “I have got ten
+“That has nothing to do with it!” returned [[Richard]]. “I have got ten
 pounds more than I expected to have, and consequently I can afford to
 spend it without being particular.”
 
@@ -124,12 +124,12 @@ of these five pounds by being convinced that it would do no good, he
 carried that sum to his credit and drew upon it.
 
 “Let me see!” he would say. “I saved five pounds out of the
-brickmaker’s affair, so if I have a good rattle to London and back in
+brickmaker’s affair, so if I have a good rattle to [[London]] and back in
 a post-chaise and put that down at four pounds, I shall have saved
 one. And it’s a very good thing to save one, let me tell you: a penny
 saved is a penny got!”
 
-I believe Richard’s was as frank and generous a nature as there
+I believe [[Richard]]’s was as frank and generous a [[Nature|nature]] as there
 possibly can be. He was ardent and brave, and in the midst of all his
 wild restlessness, was so gentle that I knew him like a brother in a
 few weeks. His gentleness was natural to him and would have shown
@@ -138,8 +138,8 @@ became one of the most winning of companions, always so ready to be
 interested and always so happy, sanguine, and light-hearted. I am
 sure that I, sitting with them, and walking with them, and talking
 with them, and noticing from day to day how they went on, falling
-deeper and deeper in love, and saying nothing about it, and each
-shyly thinking that this love was the greatest of secrets, perhaps
+deeper and deeper in [[Love|love]], and saying nothing about it, and each
+shyly thinking that this [[Love|love]] was the greatest of [[Secrets|secrets]], perhaps
 not yet suspected even by the other—I am sure that I was scarcely
 less enchanted than they were and scarcely less pleased with the
 pretty dream.
@@ -161,21 +161,21 @@ boy in the world, and he is now the loudest man. He was then the
 heartiest and sturdiest boy in the world, and he is now the heartiest
 and sturdiest man. He is a tremendous fellow.”
 
-“In stature, sir?” asked Richard.
+“In stature, sir?” asked [[Richard]].
 
-“Pretty well, Rick, in that respect,” said Mr. Jarndyce; “being some
+“Pretty [[Well|well]], Rick, in that respect,” said Mr. Jarndyce; “being some
 ten years older than I and a couple of inches taller, with his head
 thrown back like an old soldier, his stalwart chest squared, his
 hands like a clean blacksmith’s, and his lungs! There’s no simile for
 his lungs. Talking, laughing, or snoring, they make the beams of the
-house shake.”
+[[house]] shake.”
 
 As Mr. Jarndyce sat enjoying the image of his friend Boythorn, we
 observed the favourable omen that there was not the least indication
-of any change in the wind.
+of any change in the [[Wind|wind]].
 
 “But it’s the inside of the man, the warm heart of the man, the
-passion of the man, the fresh blood of the man, Rick—and Ada, and
+passion of the man, the fresh [[Blood|blood]] of the man, Rick—and Ada, and
 little Cobweb too, for you are all interested in a visitor—that I
 speak of,” he pursued. “His language is as sounding as his voice. He
 is always in extremes, perpetually in the superlative degree. In his
@@ -184,7 +184,7 @@ from what he says, and I believe he has the reputation of one with
 some people. There! I tell you no more of him beforehand. You must
 not be surprised to see him take me under his protection, for he has
 never forgotten that I was a low boy at school and that our
-friendship began in his knocking two of my head tyrant’s teeth out
+[[Friendship|friendship]] began in his knocking two of my head [[Tyrant|tyrant]]’s teeth out
 (he says six) before breakfast. Boythorn and his man,” to me, “will
 be here this afternoon, my dear.”
 
@@ -192,48 +192,48 @@ I took care that the necessary preparations were made for Mr.
 Boythorn’s reception, and we looked forward to his arrival with some
 curiosity. The afternoon wore away, however, and he did not appear.
 The dinner-hour arrived, and still he did not appear. The dinner was
-put back an hour, and we were sitting round the fire with no light
+put back an hour, and we were sitting round the [[Fire|fire]] with no light
 but the blaze when the hall-door suddenly burst open and the hall
 resounded with these words, uttered with the greatest vehemence and
 in a stentorian tone: “We have been misdirected, Jarndyce, by a most
 abandoned ruffian, who told us to take the turning to the right
 instead of to the left. He is the most intolerable scoundrel on the
 face of the earth. His father must have been a most consummate
-villain, ever to have such a son. I would have had that fellow shot
+[[Villain|villain]], ever to have such a son. I would have had that fellow shot
 without the least remorse!”
 
 “Did he do it on purpose?” Mr. Jarndyce inquired.
 
-“I have not the slightest doubt that the scoundrel has passed his
+“I have not the slightest [[Doubt|doubt]] that the scoundrel has passed his
 whole existence in misdirecting travellers!” returned the other. “By
-my soul, I thought him the worst-looking dog I had ever beheld when
+my [[Soul|soul]], I thought him the worst-looking dog I had ever beheld when
 he was telling me to take the turning to the right. And yet I stood
 before that fellow face to face and didn’t knock his brains out!”
 
 “Teeth, you mean?” said Mr. Jarndyce.
 
 “Ha, ha, ha!” laughed Mr. Lawrence Boythorn, really making the whole
-house vibrate. “What, you have not forgotten it yet! Ha, ha, ha! And
-that was another most consummate vagabond! By my soul, the
+[[house]] vibrate. “What, you have not forgotten it yet! Ha, ha, ha! And
+that was another most consummate vagabond! By my [[Soul|soul]], the
 countenance of that fellow when he was a boy was the blackest image
 of perfidy, cowardice, and cruelty ever set up as a scarecrow in a
 field of scoundrels. If I were to meet that most unparalleled despot
 in the streets to-morrow, I would fell him like a rotten tree!”
 
-“I have no doubt of it,” said Mr. Jarndyce. “Now, will you come
+“I have no [[Doubt|doubt]] of it,” said Mr. Jarndyce. “Now, will you come
 upstairs?”
 
-“By my soul, Jarndyce,” returned his guest, who seemed to refer to
+“By my [[Soul|soul]], Jarndyce,” returned his guest, who seemed to refer to
 his watch, “if you had been married, I would have turned back at the
-garden-gate and gone away to the remotest summits of the Himalaya
-Mountains sooner than I would have presented myself at this
+[[Garden|garden]]-gate and gone away to the remotest summits of the Himalaya
+[[Mountains]] sooner than I would have presented myself at this
 unseasonable hour.”
 
-“Not quite so far, I hope?” said Mr. Jarndyce.
+“Not quite so far, I [[Hope|hope]]?” said Mr. Jarndyce.
 
-“By my life and honour, yes!” cried the visitor. “I wouldn’t be
-guilty of the audacious insolence of keeping a lady of the house
-waiting all this time for any earthly consideration. I would
+“By my life and [[Honour|honour]], yes!” cried the visitor. “I wouldn’t be
+guilty of the audacious insolence of keeping a lady of the [[house]]
+waiting all this [[Time|time]] for any earthly consideration. I would
 infinitely rather destroy myself—infinitely rather!”
 
 Talking thus, they went upstairs, and presently we heard him in his
@@ -252,12 +252,12 @@ him. He was not only a very handsome old gentleman—upright and
 stalwart as he had been described to us—with a massive grey head, a
 fine composure of face when silent, a figure that might have become
 corpulent but for his being so continually in earnest that he gave it
-no rest, and a chin that might have subsided into a double chin but
+no rest, and a chin that might have subsided into a [[Double|double]] chin but
 for the vehement emphasis in which it was constantly required to
 assist; but he was such a true gentleman in his manner, so
 chivalrously polite, his face was lighted by a smile of so much
 sweetness and tenderness, and it seemed so plain that he had nothing
-to hide, but showed himself exactly as he was—incapable, as Richard
+to hide, but showed himself exactly as he was—incapable, as [[Richard]]
 said, of anything on a limited scale, and firing away with those
 blank great guns because he carried no small arms whatever—that
 really I could not help looking at him with equal pleasure as he sat
@@ -272,7 +272,7 @@ other. “He IS the most wonderful creature! I wouldn’t take ten
 thousand guineas for that bird. I have left an annuity for his sole
 support in case he should outlive me. He is, in sense and attachment,
 a phenomenon. And his father before him was one of the most
-astonishing birds that ever lived!”
+astonishing [[Birds|birds]] that ever lived!”
 
 The subject of this laudation was a very little canary, who was so
 tame that he was brought down by Mr. Boythorn’s man, on his
@@ -282,13 +282,13 @@ most implacable and passionate sentiments, with this fragile mite of
 a creature quietly perched on his forehead, was to have a good
 illustration of his character, I thought.
 
-“By my soul, Jarndyce,” he said, very gently holding up a bit of
+“By my [[Soul|soul]], Jarndyce,” he said, very gently holding up a bit of
 bread to the canary to peck at, “if I were in your place I would
 seize every master in Chancery by the throat to-morrow morning and
 shake him until his money rolled out of his pockets and his bones
 rattled in his skin. I would have a settlement out of somebody, by
 fair means or by foul. If you would empower me to do it, I would do
-it for you with the greatest satisfaction!” (All this time the very
+it for you with the greatest satisfaction!” (All this [[Time|time]] the very
 small canary was eating out of his hand.)
 
 “I thank you, Lawrence, but the suit is hardly at such a point at
@@ -298,15 +298,15 @@ bar.”
 
 “There never was such an infernal cauldron as that Chancery on the
 face of the earth!” said Mr. Boythorn. “Nothing but a mine below it
-on a busy day in term time, with all its records, rules, and
+on a busy day in term [[Time|time]], with all its records, rules, and
 precedents collected in it and every functionary belonging to it
 also, high and low, upward and downward, from its son the
 Accountant-General to its father the Devil, and the whole blown to
-atoms with ten thousand hundredweight of gunpowder, would reform it
+atoms with ten thousand hundredweight of gunpowder, would [[Reform|reform]] it
 in the least!”
 
 It was impossible not to laugh at the energetic gravity with which he
-recommended this strong measure of reform. When we laughed, he threw
+recommended this strong measure of [[Reform|reform]]. When we laughed, he threw
 up his head and shook his broad chest, and again the whole country
 seemed to echo to his “Ha, ha, ha!” It had not the least effect in
 disturbing the bird, whose sense of security was complete and who
@@ -321,45 +321,45 @@ yourself!”
 “The fellow has brought actions against ME for trespass, and I have
 brought actions against HIM for trespass,” returned Mr. Boythorn. “By
 heaven, he is the proudest fellow breathing. It is morally impossible
-that his name can be Sir Leicester. It must be Sir Lucifer.”
+that his name can be Sir Leicester. It must be Sir [[Lucifer]].”
 
 “Complimentary to our distant relation!” said my guardian laughingly
-to Ada and Richard.
+to Ada and [[Richard]].
 
 “I would beg Miss Clare’s pardon and Mr. Carstone’s pardon,” resumed
 our visitor, “if I were not reassured by seeing in the fair face of
 the lady and the smile of the gentleman that it is quite unnecessary
 and that they keep their distant relation at a comfortable distance.”
 
-“Or he keeps us,” suggested Richard.
+“Or he keeps us,” suggested [[Richard]].
 
-“By my soul,” exclaimed Mr. Boythorn, suddenly firing another volley,
+“By my [[Soul|soul]],” exclaimed Mr. Boythorn, suddenly firing another volley,
 “that fellow is, and his father was, and his grandfather was, the
 most stiff-necked, arrogant imbecile, pig-headed numskull, ever, by
-some inexplicable mistake of Nature, born in any station of life but
+some inexplicable mistake of [[Nature]], born in any station of life but
 a walking-stick’s! The whole of that family are the most solemnly
 conceited and consummate blockheads! But it’s no matter; he should
 not shut up my path if he were fifty baronets melted into one and
 living in a hundred Chesney Wolds, one within another, like the ivory
 balls in a Chinese carving. The fellow, by his agent, or secretary,
-or somebody, writes to me ‘Sir Leicester Dedlock, Baronet, presents
+or somebody, writes to me ‘[[Sir Leicester Dedlock]], Baronet, presents
 his compliments to Mr. Lawrence Boythorn, and has to call his
 attention to the fact that the green pathway by the old
-parsonage-house, now the property of Mr. Lawrence Boythorn, is Sir
+parsonage-[[house]], now the property of Mr. Lawrence Boythorn, is Sir
 Leicester’s right of way, being in fact a portion of the park of
 Chesney Wold, and that Sir Leicester finds it convenient to close up
 the same.’ I write to the fellow, ‘Mr. Lawrence Boythorn presents his
-compliments to Sir Leicester Dedlock, Baronet, and has to call HIS
+compliments to [[Sir Leicester Dedlock]], Baronet, and has to call HIS
 attention to the fact that he totally denies the whole of Sir
 Leicester Dedlock’s positions on every possible subject and has to
 add, in reference to closing up the pathway, that he will be glad to
 see the man who may undertake to do it.’ The fellow sends a most
-abandoned villain with one eye to construct a gateway. I play upon
-that execrable scoundrel with a fire-engine until the breath is
-nearly driven out of his body. The fellow erects a gate in the night.
+abandoned [[Villain|villain]] with one eye to construct a gateway. I play upon
+that execrable scoundrel with a [[Fire|fire]]-engine until the breath is
+nearly driven out of his [[Body|body]]. The fellow erects a gate in the [[Night|night]].
 I chop it down and burn it in the morning. He sends his myrmidons to
 come over the fence and pass and repass. I catch them in humane man
-traps, fire split peas at their legs, play upon them with the
+traps, [[Fire|fire]] split peas at their legs, play upon them with the
 engine—resolve to free mankind from the insupportable burden of the
 existence of those lurking ruffians. He brings actions for trespass;
 I bring actions for trespass. He brings actions for assault and
@@ -368,12 +368,12 @@ ha!”
 
 To hear him say all this with unimaginable energy, one might have
 thought him the angriest of mankind. To see him at the very same
-time, looking at the bird now perched upon his thumb and softly
+[[Time|time]], looking at the bird now perched upon his thumb and softly
 smoothing its feathers with his forefinger, one might have thought
-him the gentlest. To hear him laugh and see the broad good nature of
+him the gentlest. To hear him laugh and see the broad good [[Nature|nature]] of
 his face then, one might have supposed that he had not a care in the
 world, or a dispute, or a dislike, but that his whole existence was a
-summer joke.
+[[Summer|summer]] joke.
 
 “No, no,” he said, “no closing up of my paths by any Dedlock! Though
 I willingly confess,” here he softened in a moment, “that Lady
@@ -409,7 +409,7 @@ been in town, and I thought some letters might have been sent down
 here. I dare say they will report progress to-morrow morning.”
 
 I saw him so often in the course of the evening, which passed very
-pleasantly, contemplate Richard and Ada with an interest and a
+pleasantly, contemplate [[Richard]] and Ada with an interest and a
 satisfaction that made his fine face remarkably agreeable as he sat
 at a little distance from the piano listening to the music—and he
 had small occasion to tell us that he was passionately fond of music,
@@ -435,9 +435,9 @@ once. Long ago. And once.”
 
 “Did the lady die?”
 
-“No—but she died to him. That time has had its influence on all his
+“No—but she died to him. That [[Time|time]] has had its influence on all his
 later life. Would you suppose him to have a head and a heart full of
-romance yet?”
+[[Romance|romance]] yet?”
 
 “I think, guardian, I might have supposed so. But it is easy to say
 that when you have told me so.”
@@ -447,27 +447,27 @@ that when you have told me so.”
 and his little yellow friend. It’s your throw, my dear!”
 
 I felt, from my guardian’s manner, that beyond this point I could not
-pursue the subject without changing the wind. I therefore forbore to
+pursue the subject without changing the [[Wind|wind]]. I therefore forbore to
 ask any further questions. I was interested, but not curious. I
-thought a little while about this old love story in the night, when I
+thought a little while about this old [[Love|love]] story in the [[Night|night]], when I
 was awakened by Mr. Boythorn’s lusty snoring; and I tried to do that
 very difficult thing, imagine old people young again and invested
 with the graces of youth. But I fell asleep before I had succeeded,
-and dreamed of the days when I lived in my godmother’s house. I am
+and dreamed of the days when I lived in my godmother’s [[house]]. I am
 not sufficiently acquainted with such subjects to know whether it is
 at all remarkable that I almost always dreamed of that period of my
 life.
 
 With the morning there came a letter from Messrs. Kenge and Carboy to
 Mr. Boythorn informing him that one of their clerks would wait upon
-him at noon. As it was the day of the week on which I paid the bills,
+him at [[Noon|noon]]. As it was the day of the week on which I paid the bills,
 and added up my books, and made all the household affairs as compact
-as possible, I remained at home while Mr. Jarndyce, Ada, and Richard
+as possible, I remained at [[Home|home]] while Mr. Jarndyce, Ada, and [[Richard]]
 took advantage of a very fine day to make a little excursion, Mr.
 Boythorn was to wait for Kenge and Carboy’s clerk and then was to go
 on foot to meet them on their return.
 
-Well! I was full of business, examining tradesmen’s books, adding up
+[[Well]]! I was full of business, examining tradesmen’s books, adding up
 columns, paying money, filing receipts, and I dare say making a great
 bustle about it when Mr. Guppy was announced and shown in. I had had
 some idea that the clerk who was to be sent down might be the young
@@ -476,31 +476,31 @@ him, because he was associated with my present happiness.
 
 I scarcely knew him again, he was so uncommonly smart. He had an
 entirely new suit of glossy clothes on, a shining hat, lilac-kid
-gloves, a neckerchief of a variety of colours, a large hot-house
+gloves, a neckerchief of a variety of colours, a large hot-[[house]]
 flower in his button-hole, and a thick gold ring on his little
 finger. Besides which, he quite scented the dining-room with
 bear’s-grease and other perfumery. He looked at me with an attention
 that quite confused me when I begged him to take a seat until the
 servant should return; and as he sat there crossing and uncrossing
 his legs in a corner, and I asked him if he had had a pleasant ride,
-and hoped that Mr. Kenge was well, I never looked at him, but I found
+and hoped that Mr. Kenge was [[Well|well]], I never looked at him, but I found
 him looking at me in the same scrutinizing and curious way.
 
 When the request was brought to him that he would go upstairs to Mr.
 Boythorn’s room, I mentioned that he would find lunch prepared for
 him when he came down, of which Mr. Jarndyce hoped he would partake.
 He said with some embarrassment, holding the handle of the door,
-“Shall I have the honour of finding you here, miss?” I replied yes, I
+“Shall I have the [[Honour|honour]] of finding you here, miss?” I replied yes, I
 should be there; and he went out with a bow and another look.
 
 I thought him only awkward and shy, for he was evidently much
 embarrassed; and I fancied that the best thing I could do would be to
 wait until I saw that he had everything he wanted and then to leave
 him to himself. The lunch was soon brought, but it remained for some
-time on the table. The interview with Mr. Boythorn was a long one,
+[[Time|time]] on the table. The interview with Mr. Boythorn was a long one,
 and a stormy one too, I should think, for although his room was at
 some distance I heard his loud voice rising every now and then like a
-high wind, and evidently blowing perfect broadsides of denunciation.
+high [[Wind|wind]], and evidently blowing perfect broadsides of denunciation.
 
 At last Mr. Guppy came back, looking something the worse for the
 conference. “My eye, miss,” he said in a low voice, “he’s a Tartar!”
@@ -556,13 +556,13 @@ communicate in total confidence to me, whom you have never seen but
 once; but I should be very sorry to do you any injury.”
 
 “Thank you, miss. I’m sure of it—that’s quite sufficient.” All this
-time Mr. Guppy was either planing his forehead with his handkerchief
+[[Time|time]] Mr. Guppy was either planing his forehead with his handkerchief
 or tightly rubbing the palm of his left hand with the palm of his
 right. “If you would excuse my taking another glass of wine, miss, I
 think it might assist me in getting on without a continual choke that
 cannot fail to be mutually unpleasant.”
 
-He did so, and came back again. I took the opportunity of moving well
+He did so, and came back again. I took the opportunity of moving [[Well|well]]
 behind my table.
 
 “You wouldn’t allow me to offer you one, would you miss?” said Mr.
@@ -578,18 +578,18 @@ period. A rise of five has since taken place, and a further rise of
 five is guaranteed at the expiration of a term not exceeding twelve
 months from the present date. My mother has a little property, which
 takes the form of a small life annuity, upon which she lives in an
-independent though unassuming manner in the Old Street Road. She is
+independent though unassuming manner in the Old Street [[Road]]. She is
 eminently calculated for a mother-in-law. She never interferes, is
 all for peace, and her disposition easy. She has her failings—as who
 has not?—but I never knew her do it when company was present, at
-which time you may freely trust her with wines, spirits, or malt
+which [[Time|time]] you may freely trust her with wines, spirits, or malt
 liquors. My own abode is lodgings at Penton Place, Pentonville. It is
 lowly, but airy, open at the back, and considered one of the
 ’ealthiest outlets. Miss Summerson! In the mildest language, I adore
 you. Would you be so kind as to allow me (as I may say) to file a
 declaration—to make an offer!”
 
-Mr. Guppy went down on his knees. I was well behind my table and not
+Mr. Guppy went down on his knees. I was [[Well|well]] behind my table and not
 much frightened. I said, “Get up from that ridiculous position
 immediately, sir, or you will oblige me to break my implied promise
 and ring the bell!”
@@ -600,17 +600,17 @@ and ring the bell!”
 get up from the carpet directly and go and sit down at the table as
 you ought to do if you have any sense at all.”
 
-He looked piteously, but slowly rose and did so.
+He looked piteously, but slowly [[Rose|rose]] and did so.
 
 “Yet what a mockery it is, miss,” he said with his hand upon his
-heart and shaking his head at me in a melancholy manner over the
-tray, “to be stationed behind food at such a moment. The soul recoils
+heart and shaking his head at me in a [[Melancholy|melancholy]] manner over the
+tray, “to be stationed behind food at such a moment. The [[Soul|soul]] recoils
 from food at such a moment, miss.”
 
 “I beg you to conclude,” said I; “you have asked me to hear you out,
 and I beg you to conclude.”
 
-“I will, miss,” said Mr. Guppy. “As I love and honour, so likewise I
+“I will, miss,” said Mr. Guppy. “As I [[Love|love]] and [[Honour|honour]], so likewise I
 obey. Would that I could make thee the subject of that vow before the
 shrine!”
 
@@ -640,13 +640,13 @@ must have seen that I was struck with those charms on the day when I
 waited at the Whytorseller. I think you must have remarked that I
 could not forbear a tribute to those charms when I put up the steps
 of the ’ackney-coach. It was a feeble tribute to thee, but it was
-well meant. Thy image has ever since been fixed in my breast. I have
-walked up and down of an evening opposite Jellyby’s house only to
+[[Well|well]] meant. Thy image has ever since been fixed in my breast. I have
+walked up and down of an evening opposite Jellyby’s [[house]] only to
 look upon the bricks that once contained thee. This out of to-day,
 quite an unnecessary out so far as the attendance, which was its
-pretended object, went, was planned by me alone for thee alone. If I
+pretended object, went, was planned by me [[Alone|alone]] for thee [[Alone|alone]]. If I
 speak of interest, it is only to recommend myself and my respectful
-wretchedness. Love was before it, and is before it.”
+wretchedness. [[Love]] was before it, and is before it.”
 
 “I should be pained, Mr. Guppy,” said I, rising and putting my hand
 upon the bell-rope, “to do you or any one who was sincere the
@@ -654,7 +654,7 @@ injustice of slighting any honest feeling, however disagreeably
 expressed. If you have really meant to give me a proof of your good
 opinion, though ill-timed and misplaced, I feel that I ought to thank
 you. I have very little reason to be proud, and I am not proud. I
-hope,” I think I added, without very well knowing what I said, “that
+[[Hope|hope]],” I think I added, without very [[Well|well]] knowing what I said, “that
 you will now go away as if you had never been so exceedingly foolish
 and attend to Messrs. Kenge and Carboy’s business.”
 
@@ -665,11 +665,11 @@ ring. “This has been without prejudice?”
 occasion to do so.”
 
 “A quarter of a minute, miss! In case you should think better at any
-time, however distant—THAT’S no consequence, for my feelings can
+[[Time|time]], however distant—THAT’S no consequence, for my feelings can
 never alter—of anything I have said, particularly what might I not
 do, Mr. William Guppy, eighty-seven, Penton Place, or if removed, or
 dead (of blighted hopes or anything of that sort), care of Mrs.
-Guppy, three hundred and two, Old Street Road, will be sufficient.”
+Guppy, three hundred and two, Old Street [[Road]], will be sufficient.”
 
 I rang the bell, the servant came, and Mr. Guppy, laying his written
 card upon the table and making a dejected bow, departed. Raising my
@@ -684,4 +684,4 @@ upstairs to my own room, I surprised myself by beginning to laugh
 about it and then surprised myself still more by beginning to cry
 about it. In short, I was in a flutter for a little while and felt as
 if an old chord had been more coarsely touched than it ever had been
-since the days of the dear old doll, long buried in the garden.
+since the days of the dear old doll, long buried in the [[Garden|garden]].

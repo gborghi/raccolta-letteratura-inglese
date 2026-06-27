@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 5 (part 2)"
+title: "[[queertrades]] — Chapter 5 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/queertrades-(Chesterton)"
@@ -23,7 +23,7 @@ Grant was shaking with laughter as he watched him.
 But there is a great deal of incompatibility of temper.
 I am very far from being certain that the Zulu is on an inferior
 evolutionary stage, whatever the blazes that may mean.  I do not think
-there is anything stupid or ignorant about howling at the moon or being
+there is anything stupid or ignorant about howling at the [[Moon|moon]] or being
 afraid of devils in the dark.  It seems to me perfectly philosophical.
 Why should a man be thought a sort of idiot because he feels
 the mystery and peril of existence itself?  Suppose, my dear Chadd,
@@ -39,7 +39,7 @@ that our civilization is not or may not be an advance upon,
 and indeed (if I apprehend you), is or may be a retrogression
 from states identical with or analogous to the state of the Zulus.
 Moreover, I shall be inclined to concede that such a proposition
-is of the nature, in some degree at least, of a primary proposition,
+is of the [[Nature|nature]], in some degree at least, of a primary proposition,
 and cannot adequately be argued, in the same sense, I mean,
 that the primary proposition of pessimism, or the primary proposition
 of the non-existence of matter, cannot adequately be argued.
@@ -64,7 +64,7 @@ because I have a feeling that that is not the way that things happen.
 If you ask me why I think so I can only answer that I am a Zulu;
 and if you ask me (as you most certainly will) what is my definition
 of a Zulu, I can answer that also.  He is one who has climbed a Sussex
-apple-tree at seven and been afraid of a ghost in an English lane."
+apple-tree at seven and been afraid of a [[Ghost|ghost]] in an English lane."
 
 "Your process of thought--" began the immovable Chadd, but his speech
 was interrupted.  His sister, with that masculinity which always
@@ -73,14 +73,14 @@ with a rigid arm and said:
 
 "James, Mr Bingham of the British Museum wants to see you again."
 
-The philosopher rose with a dazed look, which always indicates
-in such men the fact that they regard philosophy as a familiar thing,
+The philosopher [[Rose|rose]] with a dazed look, which always indicates
+in such men the fact that they regard [[philosophy]] as a familiar thing,
 but practical life as a weird and unnerving vision, and walked
 dubiously out of the room.
 
-"I hope you do not mind my being aware of it, Miss Chadd,"
+"I [[Hope|hope]] you do not mind my being aware of it, Miss Chadd,"
 said Basil Grant, "but I hear that the British Museum has recognized
-one of the men who have deserved well of their commonwealth.
+one of the men who have deserved [[Well|well]] of their commonwealth.
 It is true, is it not, that Professor Chadd is likely to be made
 keeper of Asiatic manuscripts?"
 
@@ -91,21 +91,21 @@ feel a great deal, but great relief, which they feel more;
 relief from worry from a lot of things.  James' health has never
 been good, and while we are as poor as we are he had to do journalism
 and coaching, in addition to his own dreadful grinding notions
-and discoveries, which he loves more than man, woman, or child.
+and discoveries, which he loves more than man, woman, or [[Child|child]].
 I have often been afraid that unless something of this kind
 occurred we should really have to be careful of his brain.
 But I believe it is practically settled."
 
 "I am delighted," began Basil, but with a worried face, "but these
 red-tape negotiations are so terribly chancy that I really can't
-advise you to build on hope, only to be hurled down into bitterness.
+advise you to build on [[Hope|hope]], only to be hurled down into bitterness.
 I've known men, and good men like your brother, come nearer than
 this and be disappointed.  Of course, if it is true--"
 
 "If it is true," said the woman fiercely, "it means that people
 who have never lived may make an attempt at living."
 
-Even as she spoke the professor came into the room still with the dazed
+Even as she spoke [[The Professor|the professor]] came into the room still with the dazed
 look in his eyes.
 
 "Is it true?" asked Basil, with burning eyes.
@@ -115,30 +115,30 @@ look in his eyes.
 
 "What do you mean?" demanded Grant.
 
-"Well," said the professor slowly, "in saying that you could possess
+"[[Well]]," said [[The Professor|the professor]] slowly, "in saying that you could possess
 a knowledge of the essence of Zulu life distinct from--"
 
 "Oh! confound Zulu life," cried Grant, with a burst of laughter.
 "I mean, have you got the post?"
 
 "You mean the post of keeper of the Asiatic manuscripts," he said,
-opening his eye with childlike wonder.  "Oh, yes, I got that.
+opening his eye with childlike [[Wonder|wonder]].  "Oh, yes, I got that.
 But the real objection to your argument, which has only, I admit,
 occurred to me since I have been out of the room, is that it does
-not merely presuppose a Zulu truth apart from the facts, but infers
+not merely presuppose a Zulu [[Truth|truth]] apart from the facts, but infers
 that the discovery of it is absolutely impeded by the facts."
 
-"I am crushed," said Basil, and sat down to laugh, while the professor's
+"I am crushed," said Basil, and sat down to laugh, while [[The Professor|the professor]]'s
 sister retired to her room, possibly, possibly not.
 
 It was extremely late when we left the Chadds, and it is an extremely
-long and tiresome journey from Shepherd's Bush to Lambeth.
+long and tiresome [[Journey|journey]] from Shepherd's Bush to Lambeth.
 This may be our excuse for the fact that we (for I was stopping
-the night with Grant) got down to breakfast next day at a time
-inexpressibly criminal, a time, in point of fact, close upon noon.
+the [[Night|night]] with Grant) got down to breakfast next day at a [[Time|time]]
+inexpressibly criminal, a [[Time|time]], in point of fact, close upon [[Noon|noon]].
 Even to that belated meal we came in a very lounging and
 leisurely fashion.  Grant, in particular, seemed so dreamy at table
-that he scarcely saw the pile of letters by his plate, and I doubt
+that he scarcely saw the pile of letters by his plate, and I [[Doubt|doubt]]
 if he would have opened any of them if there had not lain on the top
 that one thing which has succeeded amid modern carelessness in being
 really urgent and coercive--a telegram.  This he opened with the same
@@ -147,7 +147,7 @@ When he read it he did not stir a hair or say a word, but something,
 I know not what, made me feel that the motionless figure had been
 pulled together suddenly as strings are tightened on a slack guitar.
 Though he said nothing and did not move, I knew that he had been
-for an instant cleared and sharpened with a shock of cold water.
+for an instant cleared and sharpened with a shock of cold [[Water|water]].
 It was scarcely any surprise to me when a man who had drifted
 sullenly to his seat and fallen into it, kicked it away like a cur
 from under him and came round to me in two strides.

@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 3"
+title: "[[Northanger Abbey]] — Chapter 3"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -58,7 +58,7 @@ talked with fluency and spirit—and there was an archness and pleasantry
 
 in his manner which interested, though it was hardly understood by her.
 
-After chatting some time on such matters as naturally arose from the
+After chatting some [[Time|time]] on such matters as naturally arose from the
 
 objects around them, he suddenly addressed her with—“I have hitherto
 
@@ -142,7 +142,7 @@ never here before, madam?”
 
 
 
-“Yes—I like it very well.”
+“Yes—I like it very [[Well|well]].”
 
 
 
@@ -170,7 +170,7 @@ Rooms; wore my sprigged muslin robe with blue trimmings—plain black
 
 shoes—appeared to much advantage; but was strangely harassed by a
 
-queer, half-witted man, who would make me dance with him, and
+queer, half-witted man, who would make me [[Dance|dance]] with him, and
 
 distressed me by his nonsense.”
 
@@ -188,11 +188,11 @@ distressed me by his nonsense.”
 
 
 
-“I danced with a very agreeable young man, introduced by Mr. King; had
+“I danced with a very agreeable young man, introduced by Mr. [[King]]; had
 
 a great deal of conversation with him—seems a most extraordinary
 
-genius—hope I may know more of him. _That_, madam, is what I _wish_ you
+genius—[[Hope|hope]] I may know more of him. _That_, madam, is what I _wish_ you
 
 to say.”
 
@@ -204,7 +204,7 @@ to say.”
 
 “Perhaps you are not sitting in this room, and I am not sitting by you.
 
-These are points in which a doubt is equally possible. Not keep a
+These are points in which a [[Doubt|doubt]] is equally possible. Not keep a
 
 journal! how are your absent cousins to understand the tenor of your
 
@@ -226,7 +226,7 @@ which largely contributes to form the easy style of writing for which
 
 ladies are so generally celebrated. Everybody allows that the talent of
 
-writing agreeable letters is peculiarly female. Nature may have done
+writing agreeable letters is peculiarly female. [[Nature]] may have done
 
 something, but I am sure it must be essentially assisted by the
 
@@ -296,7 +296,7 @@ Tilney, looking at the muslin.
 
 
 
-“Particularly well; I always buy my own cravats, and am allowed to be
+“Particularly [[Well|well]]; I always buy my own cravats, and am allowed to be
 
 an excellent judge; and my sister has often trusted me in the choice of
 
@@ -318,7 +318,7 @@ sister, sir.”
 
 
 
-“I hope I am, madam.”
+“I [[Hope|hope]] I am, madam.”
 
 
 
@@ -328,7 +328,7 @@ sister, sir.”
 
 “It is very pretty, madam,” said he, gravely examining it; “but I do
 
-not think it will wash well; I am afraid it will fray.”
+not think it will wash [[Well|well]]; I am afraid it will fray.”
 
 
 
@@ -364,7 +364,7 @@ Salisbury, but it is so far to go—eight miles is a long way; Mr. Allen
 
 says it is nine, measured nine; but I am sure it cannot be more than
 
-eight; and it is such a fag—I come back tired to death. Now, here one
+eight; and it is such a fag—I come back tired to [[Death|death]]. Now, here one
 
 can step out of doors and get a thing in five minutes.”
 
@@ -380,7 +380,7 @@ himself a little too much with the foibles of others. “What are you
 
 thinking of so earnestly?” said he, as they walked back to the
 
-ballroom; “not of your partner, I hope, for, by that shake of the head,
+ballroom; “not of your partner, I [[Hope|hope]], for, by that shake of the head,
 
 your meditations are not satisfactory.”
 
@@ -396,7 +396,7 @@ that you will not tell me.”
 
 
 
-“Well then, I will not.”
+“[[Well]] then, I will not.”
 
 
 
@@ -414,21 +414,21 @@ side at least, with a strong inclination for continuing the
 
 acquaintance. Whether she thought of him so much, while she drank her
 
-warm wine and water, and prepared herself for bed, as to dream of him
+warm wine and [[Water|water]], and prepared herself for bed, as to dream of him
 
-when there, cannot be ascertained; but I hope it was no more than in a
+when there, cannot be ascertained; but I [[Hope|hope]] it was no more than in a
 
 slight slumber, or a morning doze at most; for if it be true, as a
 
 celebrated writer has maintained, that no young lady can be justified
 
-in falling in love before the gentleman’s love is declared,[1] it must
+in falling in [[Love|love]] before the gentleman’s [[Love|love]] is declared,[1] it must
 
 be very improper that a young lady should dream of a gentleman before
 
 the gentleman is first known to have dreamt of her. How proper Mr.
 
-Tilney might be as a dreamer or a lover had not yet perhaps entered Mr.
+Tilney might be as a dreamer or a [[Lover|lover]] had not yet perhaps entered Mr.
 
 Allen’s head, but that he was not objectionable as a common
 

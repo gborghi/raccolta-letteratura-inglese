@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 10 (part 3)"
+title: "[[Persuasion]] — Chapter 10 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -16,7 +16,7 @@ tags:
 
 infuse as much of your own spirit into her as you can. But this, no
 
-doubt, you have been always doing. It is the worst evil of too yielding
+[[Doubt|doubt]], you have been always doing. It is the worst evil of too yielding
 
 and indecisive a character, that no influence over it can be depended
 
@@ -28,7 +28,7 @@ he, catching one down from an upper bough, “to exemplify: a beautiful
 
 glossy nut, which, blessed with original strength, has outlived all the
 
-storms of autumn. Not a puncture, not a weak spot anywhere. This nut,”
+storms of [[Autumn|autumn]]. Not a puncture, not a weak spot anywhere. This nut,”
 
 he continued, with playful solemnity, “while so many of his brethren
 
@@ -64,9 +64,9 @@ Louisa spoke again.
 
 “Mary is good-natured enough in many respects,” said she; “but she does
 
-sometimes provoke me excessively, by her nonsense and pride—the Elliot
+sometimes provoke me excessively, by her nonsense and [[Pride|pride]]—the Elliot
 
-pride. She has a great deal too much of the Elliot pride. We do so wish
+[[Pride|pride]]. She has a great deal too much of the Elliot [[Pride|pride]]. We do so wish
 
 that Charles had married Anne instead. I suppose you know he wanted to
 
@@ -74,7 +74,7 @@ marry Anne?”
 
 
 
-After a moment’s pause, Captain Wentworth said—
+After a moment’s pause, [[Captain Wentworth]] said—
 
 
 
@@ -90,17 +90,17 @@ After a moment’s pause, Captain Wentworth said—
 
 
 
-“I do not exactly know, for Henrietta and I were at school at the time;
+“I do not exactly know, for Henrietta and I were at school at the [[Time|time]];
 
 but I believe about a year before he married Mary. I wish she had
 
 accepted him. We should all have liked her a great deal better; and
 
-papa and mamma always think it was her great friend Lady Russell’s
+papa and mamma always think it was her great friend [[Lady Russell]]’s
 
 doing, that she did not. They think Charles might not be learned and
 
-bookish enough to please Lady Russell, and that therefore, she
+bookish enough to please [[Lady Russell]], and that therefore, she
 
 persuaded Anne to refuse him.”
 
@@ -128,7 +128,7 @@ back with her to their former station, by the stile, felt some comfort
 
 in their whole party being immediately afterwards collected, and once
 
-more in motion together. Her spirits wanted the solitude and silence
+more in motion together. Her spirits wanted the [[Solitude|solitude]] and [[Silence|silence]]
 
 which only numbers could give.
 
@@ -138,15 +138,15 @@ Charles and Henrietta returned, bringing, as may be conjectured,
 
 Charles Hayter with them. The minutiae of the business Anne could not
 
-attempt to understand; even Captain Wentworth did not seem admitted to
+attempt to understand; even [[Captain Wentworth]] did not seem admitted to
 
 perfect confidence here; but that there had been a withdrawing on the
 
 gentleman’s side, and a relenting on the lady’s, and that they were now
 
-very glad to be together again, did not admit a doubt. Henrietta looked
+very glad to be together again, did not admit a [[Doubt|doubt]]. Henrietta looked
 
-a little ashamed, but very well pleased;—Charles Hayter exceedingly
+a little ashamed, but very [[Well|well]] pleased;—Charles Hayter exceedingly
 
 happy: and they were devoted to each other almost from the first
 
@@ -154,7 +154,7 @@ instant of their all setting forward for Uppercross.
 
 
 
-Everything now marked out Louisa for Captain Wentworth; nothing could
+Everything now marked out Louisa for [[Captain Wentworth]]; nothing could
 
 be plainer; and where many divisions were necessary, or even where they
 
@@ -170,7 +170,7 @@ necessarily belonged. She joined Charles and Mary, and was tired enough
 
 to be very glad of Charles’s other arm; but Charles, though in very
 
-good humour with her, was out of temper with his wife. Mary had shewn
+good [[Humour|humour]] with her, was out of temper with his wife. Mary had shewn
 
 herself disobliging to him, and was now to reap the consequence, which
 
@@ -190,13 +190,13 @@ a momentary glance of, and they could hardly get him along at all.
 
 This long meadow bordered a lane, which their footpath, at the end of
 
-it was to cross, and when the party had all reached the gate of exit,
+it was to [[Cross|cross]], and when the party had all reached the gate of exit,
 
-the carriage advancing in the same direction, which had been some time
+the carriage advancing in the same direction, which had been some [[Time|time]]
 
-heard, was just coming up, and proved to be Admiral Croft’s gig. He and
+heard, was just coming up, and proved to be [[Admiral Croft]]’s gig. He and
 
-his wife had taken their intended drive, and were returning home. Upon
+his wife had taken their intended drive, and were returning [[Home|home]]. Upon
 
 hearing how long a walk the young people had engaged in, they kindly
 
@@ -208,16 +208,16 @@ invitation was general, and generally declined. The Miss Musgroves were
 
 not at all tired, and Mary was either offended, by not being asked
 
-before any of the others, or what Louisa called the Elliot pride could
+before any of the others, or what Louisa called the Elliot [[Pride|pride]] could
 
-not endure to make a third in a one horse chaise.
+not endure to make a third in a one [[Horse|horse]] chaise.
 
 
 
 The walking party had crossed the lane, and were surmounting an
 
-opposite stile, and the Admiral was putting his horse in motion again,
+opposite stile, and the Admiral was putting his [[Horse|horse]] in motion again,
 
-when Captain Wentworth cleared the hedge in a moment to say something
+when [[Captain Wentworth]] cleared the hedge in a moment to say something
 
 to his sister. The something might be guessed by its effects.

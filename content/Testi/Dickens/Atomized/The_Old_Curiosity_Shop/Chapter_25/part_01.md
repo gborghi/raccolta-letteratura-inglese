@@ -16,50 +16,50 @@ tags:
 
 CHAPTER 25
 
-After a sound night’s rest in a chamber in the thatched roof, in which
+After a sound [[Night|night]]’s rest in a chamber in the thatched roof, in which
 it seemed the sexton had for some years been a lodger, but which he had
-lately deserted for a wife and a cottage of his own, the child rose
+lately deserted for a wife and a cottage of his own, the [[Child|child]] [[Rose|rose]]
 early in the morning and descended to the room where she had supped
-last night.  As the schoolmaster had already left his bed and gone out,
+last [[Night|night]].  As the schoolmaster had already left his bed and gone out,
 she bestirred herself to make it neat and comfortable, and had just
 finished its arrangement when the kind host returned.
 
 He thanked her many times, and said that the old dame who usually did
-such offices for him had gone to nurse the little scholar whom he had
-told her of.  The child asked how he was, and hoped he was better.
+such offices for him had gone to [[Nurse|nurse]] the little scholar whom he had
+told her of.  The [[Child|child]] asked how he was, and hoped he was better.
 
 ‘No,’ rejoined the schoolmaster shaking his head sorrowfully, ‘no
 better.  They even say he is worse.’
 
-‘I am very sorry for that, Sir,’ said the child.
+‘I am very sorry for that, Sir,’ said the [[Child|child]].
 
 The poor schoolmaster appeared to be gratified by her earnest manner,
 but yet rendered more uneasy by it, for he added hastily that anxious
 people often magnified an evil and thought it greater than it was; ‘for
-my part,’ he said, in his quiet, patient way, ‘I hope it’s not so.  I
+my part,’ he said, in his quiet, patient way, ‘I [[Hope|hope]] it’s not so.  I
 don’t think he can be worse.’
 
-The child asked his leave to prepare breakfast, and her grandfather
+The [[Child|child]] asked his leave to prepare breakfast, and her grandfather
 coming down stairs, they all three partook of it together.  While the
 meal was in progress, their host remarked that the old man seemed much
 fatigued, and evidently stood in need of rest.
 
-‘If the journey you have before you is a long one,’ he said, ‘and don’t
-press you for one day, you’re very welcome to pass another night here.
+‘If the [[Journey|journey]] you have before you is a long one,’ he said, ‘and don’t
+press you for one day, you’re very welcome to pass another [[Night|night]] here.
 I should really be glad if you would, friend.’
 
 He saw that the old man looked at Nell, uncertain whether to accept or
 decline his offer; and added,
 
 ‘I shall be glad to have your young companion with me for one day.  If
-you can do a charity to a lone man, and rest yourself at the same time,
-do so.  If you must proceed upon your journey, I wish you well through
+you can do a [[Charity|charity]] to a lone man, and rest yourself at the same [[Time|time]],
+do so.  If you must proceed upon your [[Journey|journey]], I wish you [[Well|well]] through
 it, and will walk a little way with you before school begins.’
 
 ‘What are we to do, Nell?’ said the old man irresolutely, ‘say what
 we’re to do, dear.’
 
-It required no great persuasion to induce the child to answer that they
+It required no great [[Persuasion|persuasion]] to induce the [[Child|child]] to answer that they
 had better accept the invitation and remain.  She was happy to show her
 gratitude to the kind schoolmaster by busying herself in the
 performance of such household duties as his little cottage stood in
@@ -67,13 +67,13 @@ need of.  When these were done, she took some needle-work from her
 basket, and sat herself down upon a stool beside the lattice, where the
 honeysuckle and woodbine entwined their tender stems, and stealing into
 the room filled it with their delicious breath.  Her grandfather was
-basking in the sun outside, breathing the perfume of the flowers, and
-idly watching the clouds as they floated on before the light summer
-wind.
+basking in the sun outside, breathing the perfume of the [[Flowers|flowers]], and
+idly watching the clouds as they floated on before the light [[Summer|summer]]
+[[Wind|wind]].
 
 As the schoolmaster, after arranging the two forms in due order, took
 his seat behind his desk and made other preparations for school, the
-child was apprehensive that she might be in the way, and offered to
+[[Child|child]] was apprehensive that she might be in the way, and offered to
 withdraw to her little bedroom.  But this he would not allow, and as he
 seemed pleased to have her there, she remained, busying herself with
 her work.
@@ -83,7 +83,7 @@ her work.
 The poor schoolmaster shook his head, and said that they barely filled
 the two forms.
 
-‘Are the others clever, sir?’ asked the child, glancing at the trophies
+‘Are the others clever, sir?’ asked the [[Child|child]], glancing at the trophies
 on the wall.
 
 ‘Good boys,’ returned the schoolmaster, ‘good boys enough, my dear, but
@@ -106,7 +106,7 @@ from the floor when he sat upon the form, and the eldest was a heavy
 good-tempered foolish fellow, about half a head taller than the
 schoolmaster.
 
-At the top of the first form--the post of honour in the school--was the
+At the top of the first form--the post of [[Honour|honour]] in the school--was the
 vacant place of the little sick scholar, and at the head of the row of
 pegs on which those who came in hats or caps were wont to hang them up,
 one was left empty.  No boy attempted to violate the sanctity of seat

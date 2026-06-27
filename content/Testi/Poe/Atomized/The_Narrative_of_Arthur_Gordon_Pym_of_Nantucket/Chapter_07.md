@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 8"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 8"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -20,7 +20,7 @@ CHAPTER VIII.
 
 
 
-As I viewed myself in a fragment of looking-glass which hung up in the
+As I viewed myself in a [[Fragment|fragment]] of looking-glass which hung up in the
 
 cabin, and by the dim light of a kind of battle-lantern, I was so
 
@@ -70,7 +70,7 @@ muskets were lying in a berth close at hand.
 
 
 
-We listened to their conversation for some time before we could make up
+We listened to their conversation for some [[Time|time]] before we could make up
 
 our minds how to act, having as yet resolved on nothing determinate,
 
@@ -100,9 +100,9 @@ the captain's brat in the forecastle, and he thought the sooner both of
 
 them were overboard the better." To this no answer was made, but we
 
-could easily perceive that the hint was well received by the whole
+could easily perceive that the hint was [[Well|well]] received by the whole
 
-party, and more particularly by Jones. At this period I was excessively
+party, and more particularly by [[Jones]]. At this period I was excessively
 
 agitated, the more so as I could see that neither Augustus nor Peters
 
@@ -114,7 +114,7 @@ feelings of trepidation.
 
 
 
-The tremendous noise made by the roaring of the wind in the rigging and
+The tremendous noise made by the roaring of the [[Wind|wind]] in the rigging and
 
 the washing of the sea over the deck prevented us from hearing what was
 
@@ -124,7 +124,7 @@ heard the mate tell one of the men to "go forward, and order the d----d
 
 lubbers to come into the cabin, where he could have an eye upon them,
 
-for he wanted no such secret doings on board the brig." It was well for
+for he wanted no such secret doings on board the brig." It was [[Well|well]] for
 
 us that the pitching of the vessel at this moment was so violent as to
 
@@ -138,7 +138,7 @@ the larboard stateroom doors, bursting it open, and creating a good
 
 deal of other confusion. Luckily, neither of our party was thrown from
 
-his position, and we had time to make a precipitate retreat to the
+his position, and we had [[Time|time]] to make a precipitate retreat to the
 
 forecastle, and arrange a hurried plan of action before the messenger
 
@@ -162,7 +162,7 @@ Peters closing the door after him in the same manner he had found it.
 
 The mate received them with feigned cordiality, and told Augustus that,
 
-since he had behaved himself so well of late, he might take up his
+since he had behaved himself so [[Well|well]] of late, he might take up his
 
 quarters in the cabin, and be one of them for the future. He then
 
@@ -178,7 +178,7 @@ companion-way, to be ready for use when required.
 
 
 
-I now steadied myself as well as possible so as to have a good view of
+I now steadied myself as [[Well|well]] as possible so as to have a good view of
 
 all that was passing within, and endeavoured to nerve myself to the
 
@@ -200,11 +200,11 @@ when some one mentioned the terrific appearance of Rogers's corpse, I
 
 thought he was upon the point of swooning. Peters now asked him if he
 
-did not think it would be better to have the body thrown overboard at
+did not think it would be better to have the [[Body|body]] thrown overboard at
 
 once, as it was too horrible a sight to see it floundering about in the
 
-scuppers. At this the villain absolutely gasped for breath, and turned
+scuppers. At this the [[Villain|villain]] absolutely gasped for breath, and turned
 
 his head slowly round upon his companions, as if imploring some one to
 
@@ -224,23 +224,23 @@ The intense effect produced by this sudden apparition is not at all to
 
 be wondered at when the various circumstances are taken into
 
-consideration. Usually, in cases of a similar nature, there is left in
+consideration. Usually, in cases of a similar [[Nature|nature]], there is left in
 
-the mind of the spectator some glimmering of doubt as to the reality of
+the mind of the spectator some glimmering of [[Doubt|doubt]] as to the reality of
 
-the vision before his eyes; a degree of hope, however feeble, that he
+the vision before his eyes; a degree of [[Hope|hope]], however feeble, that he
 
 is the victim of chicanery, and that the apparition is not actually a
 
 visitant from the world of shadows. It is not too much to say that such
 
-remnants of doubt have been at the bottom of almost every such
+remnants of [[Doubt|doubt]] have been at the [[Bottom|bottom]] of almost every such
 
 visitation, and that the appalling horror which has sometimes been
 
 brought about, is to be attributed, even in the cases most in point,
 
-and where most suffering has been experienced, more to a kind of
+and where most [[Suffering|suffering]] has been experienced, more to a kind of
 
 anticipative horror, lest the apparition _might possibly be_ real, than
 
@@ -248,7 +248,7 @@ to an unwavering belief in its reality. But, in the present instance,
 
 it will be seen immediately, that in the minds of the mutineers there
 
-was not even the shadow of a basis upon which to rest a doubt that the
+was not even the [[Shadow|shadow]] of a basis upon which to rest a [[Doubt|doubt]] that the
 
 apparition of Rogers was indeed a revivification of his disgusting
 
@@ -256,7 +256,7 @@ corpse, or at least its spiritual image. The isolated situation of the
 
 brig, with its entire inaccessibility on account of the gale, confined
 
-the apparently possible means of deception within such narrow and
+the apparently possible means of [[Deception|deception]] within such narrow and
 
 definite limits, that they must have thought themselves enabled to
 
@@ -276,21 +276,21 @@ permit the notion that he was the apparition before them to enter their
 
 minds even for an instant. Add to these considerations the
 
-awe-inspiring nature of the tempest, and that of the conversation
+awe-inspiring [[Nature|nature]] of the tempest, and that of the conversation
 
 brought about by Peters; the deep impression which the loathsomeness of
 
 the actual corpse had made in the morning upon the imaginations of the
 
-men; the excellence of the imitation in my person; and the uncertain
+men; the excellence of the [[Imitation|imitation]] in my person; and the uncertain
 
 and wavering light in which they beheld me, as the glare of the cabin
 
 lantern, swinging violently to and fro, fell dubiously and fitfully
 
-upon my figure, and there will be no reason to wonder that the
+upon my figure, and there will be no reason to [[Wonder|wonder]] that the
 
-deception had even more than the entire effect which we had
+[[Deception|deception]] had even more than the entire effect which we had
 
 anticipated. The mate sprang up from the mattress on which he was
 
@@ -302,35 +302,35 @@ roll of the brig. Of the remaining seven there were but three who had
 
 at first any degree of presence of mind. The four others sat for some
 
-time rooted apparently to the floor, the most pitiable objects of
+[[Time|time]] rooted apparently to the floor, the most pitiable objects of
 
-horror and utter despair my eyes ever encountered. The only opposition
+horror and utter [[Despair|despair]] my eyes ever encountered. The only opposition
 
-we experienced at all was from the cook, John Hunt, and Richard Parker;
+we experienced at all was from the cook, John Hunt, and [[Richard]] Parker;
 
 but they made but a feeble and irresolute defence. The two former were
 
 shot instantly by Peters, and I felled Parker with a blow on the head
 
-from the pump-handle which I had brought with me. In the mean time
+from the pump-handle which I had brought with me. In the mean [[Time|time]]
 
 Augustus seized one of the muskets lying on the floor, and shot another
 
 mutineer (---- Wilson) through the breast. There were now but three
 
-remaining; but by this time they had become aroused from their
+remaining; but by this [[Time|time]] they had become aroused from their
 
-lethargy, and perhaps began to see that a deception had been practised
+lethargy, and perhaps began to see that a [[Deception|deception]] had been practised
 
 upon them, for they fought with great resolution and fury, and, but for
 
 the immense muscular strength of Peters, might have ultimately got the
 
-better of us. These three men were ---- Jones, ---- Greely, and Absalom
+better of us. These three men were ---- [[Jones]], ---- Greely, and Absalom
 
-Hicks. Jones had thrown Augustus on the floor, stabbed him in several
+Hicks. [[Jones]] had thrown Augustus on the floor, stabbed him in several
 
-places along the right arm, and would no doubt have soon despatched him
+places along the right arm, and would no [[Doubt|doubt]] have soon despatched him
 
 (as neither Peters nor myself could immediately get rid of our own
 
@@ -340,7 +340,7 @@ assistance we surely had never depended. This friend was no other than
 
 Tiger. With a low growl he bounded into the cabin, at a most critical
 
-moment for Augustus, and throwing himself upon Jones, pinned him to the
+moment for Augustus, and throwing himself upon [[Jones]], pinned him to the
 
 floor in an instant. My friend, however, was now too much injured to
 
@@ -348,9 +348,9 @@ render us any aid whatever, and I was so encumbered with my disguise
 
 that I could do but little. The dog would not leave his hold upon the
 
-throat of Jones--Peters, nevertheless, was far more than a match for
+throat of [[Jones]]--Peters, nevertheless, was far more than a match for
 
-the two men who remained, and would, no doubt, have despatched them
+the two men who remained, and would, no [[Doubt|doubt]], have despatched them
 
 sooner, had it not been for the narrow space in which he had to act,
 
@@ -366,13 +366,13 @@ brig throwing him in contact with Hicks, he seized him by the throat,
 
 and, by dint of sheer strength, strangled him instantaneously. Thus, in
 
-far less time than I have taken to tell it, we found ourselves masters
+far less [[Time|time]] than I have taken to tell it, we found ourselves masters
 
 of the brig.
 
 
 
-The only person of our opponents who was left alive was Richard Parker.
+The only person of our opponents who was left alive was [[Richard]] Parker.
 
 This man, it will be remembered, I had knocked down with a blow from
 
@@ -380,7 +380,7 @@ the pump-handle at the commencement of the attack. He now lay
 
 motionless by the door of the shattered stateroom; but, upon Peters
 
-touching him with his foot, he spoke, and entreated for mercy. His head
+touching him with his foot, he spoke, and entreated for [[Mercy|mercy]]. His head
 
 was only slightly cut, and otherwise he had received no injury, having
 
@@ -388,15 +388,15 @@ been merely stunned by the blow. He now got up, and, for the present,
 
 we secured his hands behind his back. The dog was still growling over
 
-Jones; but, upon examination, we found him completely dead, the blood
+[[Jones]]; but, upon examination, we found him completely dead, the [[Blood|blood]]
 
 issuing in a stream from a deep wound in the throat, inflicted, no
 
-doubt, by the sharp teeth of the animal.
+[[Doubt|doubt]], by the sharp teeth of the animal.
 
 
 
-It was now about one o'clock in the morning, and the wind was still
+It was now about one o'[[Clock|clock]] in the morning, and the [[Wind|wind]] was still
 
 blowing tremendously. The brig evidently laboured much more than usual,
 
@@ -410,7 +410,7 @@ during our scuffle, the hatchway having been left open by myself when I
 
 descended. The entire range of bulwarks to larboard had been swept
 
-away, as well as the caboose, together with the jollyboat from the
+away, as [[Well|well]] as the caboose, together with the jollyboat from the
 
 counter. The creaking and working of the mainmast, too, gave indication
 
@@ -420,11 +420,11 @@ hold, the heel of this mast had been stepped between decks (a very
 
 reprehensible practice, occasionally resorted to by ignorant
 
-ship-builders), so that it was in imminent danger of working from its
+[[Ship|ship]]-builders), so that it was in imminent danger of working from its
 
-step. But, to crown all our difficulties, we plummed the well, and
+step. But, to [[Crown|crown]] all our difficulties, we plummed the [[Well|well]], and
 
-found no less than seven feet water.
+found no less than seven feet [[Water|water]].
 
 
 
@@ -432,7 +432,7 @@ Leaving the bodies of the crew lying in the cabin, we got to work
 
 immediately at the pumps--Parker, of course, being set at liberty to
 
-assist us in the labour. Augustus's arm was bound up as well as we
+assist us in the labour. Augustus's arm was bound up as [[Well|well]] as we
 
 could effect it, and he did what he could, but that was not much.
 
@@ -448,7 +448,7 @@ the brig by cutting away the mainmast.
 
 
 
-In this manner we passed a night of terrible anxiety and fatigue, and,
+In this manner we passed a [[Night|night]] of terrible anxiety and fatigue, and,
 
 when the day at length broke, the gale had neither abated in the least,
 
@@ -478,7 +478,7 @@ pumps. The little assistance which Augustus could render us was not
 
 really of any importance. To add to our distress, a heavy sea, striking
 
-the brig to windward, threw her off several points from the wind, and,
+the brig to windward, threw her off several points from the [[Wind|wind]], and,
 
 before she could regain her position, another broke completely over
 
@@ -486,7 +486,7 @@ her, and hurled her full upon her beam-ends. The ballast now shifted in
 
 a mass to leeward (the stowage had been knocking about perfectly at
 
-random for some time), and for a few moments we thought nothing could
+random for some [[Time|time]]), and for a few moments we thought nothing could
 
 save us from capsizing. Presently, however, we partially righted; but
 
@@ -532,7 +532,7 @@ in a more pitiable condition.
 
 
 
-At noon there seemed to be some slight appearance of the gale's
+At [[Noon|noon]] there seemed to be some slight appearance of the gale's
 
 abating, but in this we were sadly disappointed, for it only lulled for
 
@@ -540,17 +540,17 @@ a few minutes to blow with redoubled fury. About four in the afternoon
 
 it was utterly impossible to stand up against the violence of the
 
-blast; and, as the night closed in upon us, I had not a shadow of hope
+blast; and, as the [[Night|night]] closed in upon us, I had not a [[Shadow|shadow]] of [[Hope|hope]]
 
 that the vessel would hold together until morning.
 
 
 
-By midnight we had settled very deep in the water, which was now up to
+By midnight we had settled very deep in the [[Water|water]], which was now up to
 
 the orlop deck. The rudder went soon afterward, the sea which tore it
 
-away lifting the after portion of the brig entirely from the water,
+away lifting the after portion of the brig entirely from the [[Water|water]],
 
 against which she thumped in her descent with such a concussion as
 
@@ -578,10 +578,10 @@ the solid wood.
 
 
 
-We had scarcely time to draw breath after the violence of this shock,
+We had scarcely [[Time|time]] to draw breath after the violence of this shock,
 
 when one of the most tremendous waves I had then ever known broke right
 
 on board of us, sweeping the companion-way clear off, bursting in the
 
-hatchways, and filling every inch of the vessel with water.
+hatchways, and filling every inch of the vessel with [[Water|water]].

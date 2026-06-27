@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 25 (part 1)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 25 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -24,11 +24,11 @@ We now found ourselves in the wide and desolate Antarctic Ocean, in a
 
 latitude exceeding eighty-four degrees, in a frail canoe, and with no
 
-provision but the three turtles. The long Polar winter, too, could not
+provision but the three turtles. The long Polar [[Winter|winter]], too, could not
 
 be considered as far distant, and it became necessary that we should
 
-deliberate well upon the course to be pursued. There were six or seven
+deliberate [[Well|well]] upon the course to be pursued. There were six or seven
 
 islands in sight belonging to the same group, and distant from each
 
@@ -46,7 +46,7 @@ permit us to deny. To attempt, therefore, getting back, would be
 
 folly--especially at so late a period of the season. Only one course
 
-seemed to be left open for hope. We resolved to steer boldly to the
+seemed to be left open for [[Hope|hope]]. We resolved to steer boldly to the
 
 southward, where there was at least a probability of discovering other
 
@@ -56,17 +56,17 @@ lands, and more than a probability of finding a still milder climate.
 
 So far we had found the Antarctic, like the Arctic Ocean, peculiarly
 
-free from violent storms or immoderately rough water; but our canoe
+free from violent storms or immoderately rough [[Water|water]]; but our canoe
 
 was, at best, of frail structure, although large, and we set busily to
 
 work with a view of rendering her as safe as the limited means in our
 
-possession would admit. The body of the boat was of no better material
+possession would admit. The [[Body|body]] of the boat was of no better material
 
 than bark--the bark of a tree unknown. The ribs were of a tough osier,
 
-well adapted to the purpose for which it was used. We had fifty feet
+[[Well|well]] adapted to the purpose for which it was used. We had fifty feet
 
 room from stem to stern, from four to six in breadth, and in depth
 
@@ -126,23 +126,23 @@ done, we turned the bow full to the southward. The weather could by no
 
 means be considered disagreeable. We had a prevailing and very gentle
 
-wind from the northward, a smooth sea, and continual daylight. No ice
+[[Wind|wind]] from the northward, a smooth sea, and continual daylight. No ice
 
 whatever was to be seen; _nor did I ever see one particle of this after
 
 leaving the parallel of Bennet's Islet_. Indeed, the temperature of the
 
-water was here far too warm for its existence in any quantity. Having
+[[Water|water]] was here far too warm for its existence in any quantity. Having
 
 killed the largest of our tortoises, and obtained from him not only
 
-food, but a copious supply of water, we continued on our course,
+food, but a copious supply of [[Water|water]], we continued on our course,
 
 without any incident of moment, for perhaps seven or eight days, during
 
 which period we must have proceeded a vast distance to the southward,
 
-as the wind blew constantly with us, and a very strong current set
+as the [[Wind|wind]] blew constantly with us, and a very strong current set
 
 continually in the direction we were pursuing.
 
@@ -150,7 +150,7 @@ continually in the direction we were pursuing.
 
 _March 1._[7] Many unusual phenomena now indicated that we were
 
-entering upon a region of novelty and wonder. A high range of light
+entering upon a region of novelty and [[Wonder|wonder]]. A high range of light
 
 gray vapour appeared constantly in the southern horizon, flaring up
 
@@ -184,15 +184,15 @@ massacre, its inhabitants, and customs--but with these how can I _now_
 
 detain the reader? I may say, however, that we learned there were eight
 
-islands in the group--that they were governed by a common king, named
+islands in the group--that they were governed by a common [[King|king]], named
 
 _Tsalemon_ or _Psalemoun_, who resided in one of the smallest of the
 
 islands--that the black skins forming the dress of the warriors came
 
-from an animal of huge size to be found only in a valley near the court
+from an animal of huge size to be found only in a valley near the [[Court|court]]
 
-of the king--that the inhabitants of the group fabricated no other
+of the [[King|king]]--that the inhabitants of the group fabricated no other
 
 boats than the flat-bottomed rafts; the four canoes being all of the
 

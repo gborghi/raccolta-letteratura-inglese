@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Because it is German I do not object to it in Germany.
+Because it is German I do not object to it in [[Germany]].
 Because it is German I should violently revolt against it in England.
 I do not revolt against the command to wait until the train stops,
 not because it is less rude, but because it is the kind of rudeness
@@ -31,7 +31,7 @@ Nobody would be tempted to take such a liberty with the German sentence;
 not only because he would be instantly imprisoned in a fortress,
 but because he would not know at which end to begin.
 
-Now this is the truth which is expressed, though perhaps very imperfectly,
+Now this is the [[Truth|truth]] which is expressed, though perhaps very imperfectly,
 in things like the Gaelic lettering on streets in Dublin.
 It will be wholesome for us who are English to realise that there
 is almost certainly an English way of putting things, even the most
@@ -47,7 +47,7 @@ For the national note of the Irish language is not peculiar to what used
 to be called the Erse language.  The whole nation used the tongue
 common to both nations with a difference far beyond a dialect.
 It is not a difference of accent, but a difference of style;
-which is generally a difference of soul.  The emphasis, the elision,
+which is generally a difference of [[Soul|soul]].  The emphasis, the elision,
 the short cuts and sharp endings of speech, show a variety which
 may be almost unnoticeable but is none the less untranslatable.
 It may be only a little more weight on a word, or an inversion allowable
@@ -63,7 +63,7 @@ that quite a crowd of Irishmen, who quoted to me with just admiration
 the noble ending of _Kathleen-na-Hulahan,_ where the newcomer
 is asked if he has seen the old woman who is the tragic type
 of Ireland going out, quoted his answer in that form, "I did not.
-But I saw a young woman; and she walking like a queen."
+But I saw a young woman; and she walking like a [[Queen|queen]]."
 I say it is curious; because I have since been told that in
 the actual book (which I cannot lay my hand on at the moment)
 a more classic English idiom is used.  It would generally be most
@@ -77,7 +77,7 @@ becoming legend.  But a hundred other examples could be given,
 even from my own short experience, of such fine turns of language,
 nor are the finest necessarily to be found in literature.
 It is perfectly true, though prigs may overwork and snobs
-underrate the truth, that in a country like this the peasants
+underrate the [[Truth|truth]], that in a country like this the peasants
 can talk like poets.  When I was on the wild coast of Donegal,
 an old unhappy woman who had starved through the famines
 and the evictions, was telling a lady the tales of those times;
@@ -91,24 +91,24 @@ and He is the boy you will all be wanting at the last."
 There is more in that story than can be put into any book,
 even on a matter in which its meaning plays so deep a part;
 and it seems almost profane to analyse it however sympathetically.
-But if any one wishes to know what I mean by the untranslatable truth
+But if any one wishes to know what I mean by the untranslatable [[Truth|truth]]
 which makes a language national, it will be worth while to look at
 the mere diction of that speech, and note how its whole effect turns on
 certain phrases and customs which happen to be peculiar to the nation.
-It is well known that in Ireland the husband or head of the house is
+It is [[Well|well]] known that in Ireland the husband or head of the [[house]] is
 always called "himself"; nor is it peculiar to the peasantry, but adopted,
 if partly in jest, by the gentry.  A distinguished Dublin publicist,
 a landlord and leader among the more national aristocracy,
 always called me "himself" when he was talking to my wife.
-It will be noted how a sort of shadow of that common meaning mingles
+It will be noted how a sort of [[Shadow|shadow]] of that common meaning mingles
 with the more shining significance of its position in a sentence
 where it is also strictly logical, in the sense of theological.
 All literary style, especially national style, is made up
 of such coincidences; which are a spiritual sort of puns.
 That is why style is untranslatable; because it is possible to render
-the meaning, but not the double meaning.  There is even a faint
+the meaning, but not the [[Double|double]] meaning.  There is even a faint
 differentiation in the half-humorous possibilities of the word "boy";
-another wholly national nuance.  Say instead, "And He is the child"
+another wholly national nuance.  Say instead, "And He is the [[Child|child]]"
 and it is something perhaps stiffer, and certainly quite different.
 Take away, "This is Himself" and simply substitute "This is He";
 and it is a piece of pedantry ten thousand miles from the original.
@@ -123,7 +123,7 @@ Their historical experience, alas, has made it seem to them
 not unnatural that the Holy Family should be a homeless family.
 They also have found that there was no room for them at the inn,
 or anywhere but in the jail; they also have dragged their
-new-born babes out of their cradles, and trailed in despair
-along the road to Egypt, or at least along the road to exile.
+new-born babes out of their cradles, and trailed in [[Despair|despair]]
+along the [[Road|road]] to [[Egypt]], or at least along the [[Road|road]] to [[Exile|exile]].
 They also have heard in the dark and the distance behind them,
 the noise of the horsemen of Herod.

@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 36"
+title: "[[Pride and Prejudice]] — Chapter 36"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -21,7 +21,7 @@ CHAPTER XXXVI.
 
 Elizabeth, when Mr. Darcy gave her the letter, did not expect it to
 contain a renewal of his offers, she had formed no expectation at all of
-its contents. But such as they were, it may be well supposed how eagerly
+its contents. But such as they were, it may be [[Well|well]] supposed how eagerly
 she went through them, and what a contrariety of emotion they excited.
 Her feelings as she read were scarcely to be defined. With amazement did
 she first understand that he believed any apology to be in his power;
@@ -36,12 +36,12 @@ insensibility she instantly resolved to be false; and his account of the
 real, the worst objections to the match, made her too angry to have any
 wish of doing him justice. He expressed no regret for what he had done
 which satisfied her; his style was not penitent, but haughty. It was all
-pride and insolence.
+[[Pride|pride]] and insolence.
 
 But when this subject was succeeded by his account of Mr. Wickham--when
 she read, with somewhat clearer attention, a relation of events which,
 if true, must overthrow every cherished opinion of his worth, and which
-bore so alarming an affinity to his own history of himself--her feelings
+bore so alarming an affinity to his own [[history]] of himself--her feelings
 were yet more acutely painful and more difficult of definition.
 Astonishment, apprehension, and even horror, oppressed her. She wished
 to discredit it entirely, repeatedly exclaiming, “This must be false!
@@ -52,15 +52,15 @@ regard it, that she would never look in it again.
 
 In this perturbed state of mind, with thoughts that could rest on
 nothing, she walked on; but it would not do: in half a minute the letter
-was unfolded again; and collecting herself as well as she could, she
+was unfolded again; and collecting herself as [[Well|well]] as she could, she
 again began the mortifying perusal of all that related to Wickham, and
 commanded herself so far as to examine the meaning of every sentence.
 The account of his connection with the Pemberley family was exactly
 what he had related himself; and the kindness of the late Mr. Darcy,
-though she had not before known its extent, agreed equally well with his
+though she had not before known its extent, agreed equally [[Well|well]] with his
 own words. So far each recital confirmed the other; but when she came to
 the will, the difference was great. What Wickham had said of the living
-was fresh in her memory; and as she recalled his very words, it was
+was fresh in her [[Memory|memory]]; and as she recalled his very words, it was
 impossible not to feel that there was gross duplicity on one side or the
 other, and, for a few moments, she flattered herself that her wishes did
 not err. But when she read and re-read, with the closest attention, the
@@ -69,7 +69,7 @@ to the living, of his receiving in lieu so considerable a sum as three
 thousand pounds, again was she forced to hesitate. She put down the
 letter, weighed every circumstance with what she meant to be
 impartiality--deliberated on the probability of each statement--but with
-little success. On both sides it was only assertion. Again she read on.
+little [[success]]. On both sides it was only assertion. Again she read on.
 But every line proved more clearly that the affair, which she had
 believed it impossible that any contrivance could so represent as to
 render Mr. Darcy’s conduct in it less than infamous, was capable of a
@@ -79,7 +79,7 @@ The extravagance and general profligacy which he scrupled not to lay to
 Mr. Wickham’s charge exceedingly shocked her; the more so, as she could
 bring no proof of its injustice. She had never heard of him before his
 entrance into the ----shire militia, in which he had engaged at the
-persuasion of the young man, who, on meeting him accidentally in town,
+[[Persuasion|persuasion]] of the young man, who, on meeting him accidentally in town,
 had there renewed a slight acquaintance. Of his former way of life,
 nothing had been known in Hertfordshire but what he told
 
@@ -105,22 +105,22 @@ the mess. After pausing on this point a considerable while, she once
 more continued to read. But, alas! the story which followed, of his
 designs on Miss Darcy, received some confirmation from what had passed
 between Colonel Fitzwilliam and herself only the morning before; and at
-last she was referred for the truth of every particular to Colonel
+last she was referred for the [[Truth|truth]] of every particular to Colonel
 Fitzwilliam himself--from whom she had previously received the
 information of his near concern in all his cousin’s affairs and whose
-character she had no reason to question. At one time she had almost
+character she had no reason to question. At one [[Time|time]] she had almost
 resolved on applying to him, but the idea was checked by the awkwardness
 of the application, and at length wholly banished by the conviction that
 Mr. Darcy would never have hazarded such a proposal, if he had not been
-well assured of his cousin’s corroboration.
+[[Well|well]] assured of his cousin’s corroboration.
 
 She perfectly remembered everything that had passed in conversation
 between Wickham and herself in their first evening at Mr. Philips’s.
-Many of his expressions were still fresh in her memory. She was _now_
+Many of his expressions were still fresh in her [[Memory|memory]]. She was _now_
 struck with the impropriety of such communications to a stranger, and
 wondered it had escaped her before. She saw the indelicacy of putting
 himself forward as he had done, and the inconsistency of his professions
-with his conduct. She remembered that he had boasted of having no fear
+with his conduct. She remembered that he had boasted of having no [[Fear|fear]]
 of seeing Mr. Darcy--that Mr. Darcy might leave the country, but that
 _he_ should stand his ground; yet he had avoided the Netherfield ball
 the very next week. She remembered, also, that till the Netherfield
@@ -131,12 +131,12 @@ character, though he had assured her that respect for the father would
 always prevent his exposing the son.
 
 How differently did everything now appear in which he was concerned! His
-attentions to Miss King were now the consequence of views solely and
+attentions to Miss [[King]] were now the consequence of views solely and
 hatefully mercenary; and the mediocrity of her fortune proved no longer
 the moderation of his wishes, but his eagerness to grasp at anything.
 His behaviour to herself could now have had no tolerable motive: he had
 either been deceived with regard to her fortune, or had been gratifying
-his vanity by encouraging the preference which she believed she had most
+his [[Vanity|vanity]] by encouraging the preference which she believed she had most
 incautiously shown. Every lingering struggle in his favour grew fainter
 and fainter; and in further justification of Mr. Darcy, she could not
 but allow that Mr. Bingley, when questioned by Jane, had long ago
@@ -151,7 +151,7 @@ brother, and that she had often heard him speak so affectionately of his
 sister as to prove him capable of some amiable feeling;--that had his
 actions been what Wickham represented them, so gross a violation of
 everything right could hardly have been concealed from the world; and
-that friendship between a person capable of it and such an amiable man
+that [[Friendship|friendship]] between a person capable of it and such an amiable man
 as Mr. Bingley was incomprehensible.
 
 She grew absolutely ashamed of herself. Of neither Darcy nor Wickham
@@ -161,9 +161,9 @@ prejudiced, absurd.
 “How despicably have I acted!” she cried. “I, who have prided myself on
 my discernment! I, who have valued myself on my abilities! who have
 often disdained the generous candour of my sister, and gratified my
-vanity in useless or blameless distrust. How humiliating is this
-discovery! Yet, how just a humiliation! Had I been in love, I could not
-have been more wretchedly blind. But vanity, not love, has been my
+[[Vanity|vanity]] in useless or blameless distrust. How humiliating is this
+discovery! Yet, how just a humiliation! Had I been in [[Love|love]], I could not
+have been more wretchedly blind. But [[Vanity|vanity]], not [[Love|love]], has been my
 folly. Pleased with the preference of one, and offended by the neglect
 of the other, on the very beginning of our acquaintance, I have courted
 prepossession and ignorance, and driven reason away where either were
@@ -192,7 +192,7 @@ than on hers.
 
 The compliment to herself and her sister was not unfelt. It soothed, but
 it could not console her for the contempt which had been thus
-self-attracted by the rest of her family; and as she considered that
+[[Self|self]]-attracted by the rest of her family; and as she considered that
 Jane’s disappointment had, in fact, been the work of her nearest
 relations, and reflected how materially the credit of both must be hurt
 by such impropriety of conduct, she felt depressed beyond anything she
@@ -200,9 +200,9 @@ had ever known before.
 
 After wandering along the lane for two hours, giving way to every
 variety of thought, reconsidering events, determining probabilities, and
-reconciling herself, as well as she could, to a change so sudden and so
+reconciling herself, as [[Well|well]] as she could, to a change so sudden and so
 important, fatigue, and a recollection of her long absence, made her at
-length return home; and she entered the house with the wish of appearing
+length return [[Home|home]]; and she entered the [[house]] with the wish of appearing
 cheerful as usual, and the resolution of repressing such reflections as
 must make her unfit for conversation.
 

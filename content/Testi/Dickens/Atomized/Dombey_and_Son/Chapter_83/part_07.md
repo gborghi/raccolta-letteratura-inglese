@@ -14,23 +14,23 @@ tags:
 </nav>
 
 
-“No! Who takes me, refuse that I am, and as I well deserve to be,” she
+“No! Who takes me, refuse that I am, and as I [[Well|well]] deserve to be,” she
 answered, raising her head, and trembling in her energy of shame and
-stormy pride, “shall take me, as this man does, with no art of mine put
-forth to lure him. He sees me at the auction, and he thinks it well to
+stormy [[Pride|pride]], “shall take me, as this man does, with no art of mine put
+forth to lure him. He sees me at the auction, and he thinks it [[Well|well]] to
 buy me. Let him! When he came to view me—perhaps to bid—he required to
 see the roll of my accomplishments. I gave it to him. When he would
 have me show one of them, to justify his purchase to his men, I require
 of him to say which he demands, and I exhibit it. I will do no more. He
 makes the purchase of his own will, and with his own sense of its
-worth, and the power of his money; and I hope it may never disappoint
+worth, and the power of his money; and I [[Hope|hope]] it may never disappoint
 him. I have not vaunted and pressed the bargain; neither have you, so
 far as I have been able to prevent you.
 
 “You talk strangely tonight, Edith, to your own Mother.”
 
 “It seems so to me; stranger to me than you,” said Edith. “But my
-education was completed long ago. I am too old now, and have fallen too
+[[Education|education]] was completed long ago. I am too old now, and have fallen too
 low, by degrees, to take a new course, and to stop yours, and to help
 myself. The germ of all that purifies a woman’s breast, and makes it
 true and good, has never stirred in mine, and I have nothing else to
@@ -47,11 +47,11 @@ side, Mother—and have not tempted this man on.”
 her way across the room, and looking round. “Shall I tell you,” she
 continued, with her eyes fixed on her mother, “who already knows us
 thoroughly, and reads us right, and before whom I have even less of
-self-respect or confidence than before my own inward self; being so
+[[Self|self]]-respect or confidence than before my own inward [[Self|self]]; being so
 much degraded by his knowledge of me?”
 
 “This is an attack, I suppose,” returned her mother coldly, “on poor,
-unfortunate what’s-his-name—Mr Carker! Your want of self-respect and
+unfortunate what’s-his-name—Mr Carker! Your want of [[Self|self]]-respect and
 confidence, my dear, in reference to that person (who is very
 agreeable, it strikes me), is not likely to have much effect on your
 establishment. Why do you look at me so hard? Are you ill?”
@@ -61,8 +61,8 @@ she pressed her hands upon it, a terrible tremble crept over her whole
 frame. It was quickly gone; and with her usual step, she passed out of
 the room.
 
-The maid who should have been a skeleton, then reappeared, and giving
+The maid who should have been a [[skeleton]], then reappeared, and giving
 one arm to her mistress, who appeared to have taken off her manner with
 her charms, and to have put on paralysis with her flannel gown,
-collected the ashes of Cleopatra, and carried them away in the other,
+collected the ashes of [[Cleopatra]], and carried them away in the other,
 ready for tomorrow’s revivification.

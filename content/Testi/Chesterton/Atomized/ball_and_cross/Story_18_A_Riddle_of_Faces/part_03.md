@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — A Riddle of Faces (part 3)"
+title: "ball and [[Cross|cross]] — A [[Riddle]] of Faces (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -15,46 +15,46 @@ tags:
 
 
 "Did you?" said the editor of _The Atheist_ with a bursting heart.
-"I am sorry you did not tell me so at the time."
+"I am sorry you did not tell me so at the [[Time|time]]."
 
-He walked away very rapidly and flung himself on a garden seat,
+He walked away very rapidly and flung himself on a [[Garden|garden]] seat,
 and for some six minutes his own wrongs hid from him the huge and
 hilarious fact that Cumberland Vane had been locked up as a lunatic.
 
-The garden of the madhouse was so perfectly planned, and answered
+The [[Garden|garden]] of the madhouse was so perfectly planned, and answered
 so exquisitely to every hour of daylight, that one could almost fancy
 that the sunlight was caught there tangled in its tinted trees,
-as the wise men of Gotham tried to chain the spring to a bush.
+as the wise men of Gotham tried to chain the [[Spring|spring]] to a bush.
 Or it seemed as if this ironic paradise still kept its unique
-dawn or its special sunset while the rest of the earthly globe
+[[Dawn|dawn]] or its special sunset while the rest of the earthly globe
 rolled through its ordinary hours.  There was one evening,
-or late afternoon, in particular, which Evan MacIan will remember
-in the last moments of death.  It was what artists call a
+or late afternoon, in particular, which [[Evan MacIan]] will remember
+in the last moments of [[Death|death]].  It was what artists call a
 daffodil sky, but it is coarsened even by reference to a daffodil.
-It was of that innocent lonely yellow which has never heard of orange,
+It was of that [[Innocent|innocent]] lonely yellow which has never heard of orange,
 though it might turn quite unconsciously into green.  Against it the tops,
 one might say the turrets, of the clipt and ordered trees were outlined
 in that shade of veiled violet which tints the tops of lavender.
-A white early moon was hardly traceable upon that delicate yellow.
+A white early [[Moon|moon]] was hardly traceable upon that delicate yellow.
 MacIan, I say, will remember this tender and transparent evening,
 partly because of its virgin gold and silver, and partly because
 he passed beneath it through the most horrible instant of his life.
 
 Turnbull was sitting on his seat on the lawn, and the golden
-evening impressed even his positive nature, as indeed it might have
+evening impressed even his positive [[Nature|nature]], as indeed it might have
 impressed the oxen in a field.  He was shocked out of his idle
 mood of awe by seeing MacIan break from behind the bushes and run
 across the lawn with an action he had never seen in the man before,
 with all his experience of the eccentric humours of this Celt.
 MacIan fell on the bench, shaking it so that it rattled,
-and gripped it with his knees like one in dreadful pain of body.
+and gripped it with his knees like one in dreadful [[Pain|pain]] of [[Body|body]].
 That particular run and tumble is typical only of a man who has been
 hit by some sudden and incurable evil, who is bitten by a viper
 or condemned to be hanged.  Turnbull looked up in the white face
 of his friend and enemy, and almost turned cold at what he saw there.
 He had seen the blue but gloomy eyes of the western Highlander
 troubled by as many tempests as his own west Highland seas,
-but there had always been a fixed star of faith behind the storms.
+but there had always been a fixed star of [[Faith|faith]] behind the storms.
 Now the star had gone out, and there was only misery.
 
 Yet MacIan had the strength to answer the question where Turnbull,
@@ -65,15 +65,15 @@ are right, Turnbull.  I ought to be here!"
 
 He went on with shapeless fluency as if he no longer had the heart
 to choose or check his speech.  "I suppose I ought to have guessed
-long ago--all my big dreams and schemes--and everyone being against us--
+long ago--all my big [[Dreams|dreams]] and schemes--and everyone being against us--
 but I was stuck up, you know."
 
 "Do tell me about it, really," cried the atheist, and, faced with
-the furnace of the other's pain, he did not notice that he spoke
+the furnace of the other's [[Pain|pain]], he did not notice that he spoke
 with the affection of a father.
 
 "I am mad, Turnbull," said Evan, with a dead clearness of speech,
-and leant back against the garden seat.
+and leant back against the [[Garden|garden]] seat.
 
 "Nonsense," said the other, clutching at the obvious cue of
 benevolent brutality, "this is one of your silly moods."
@@ -105,10 +105,10 @@ poor girl here for her."
 
 "Mistook some other----" said MacIan, and words failed him altogether.
 
-They sat for some moments in the mellow silence of the evening garden,
-a silence that was stifling for the sceptic, but utterly empty and final
-for the man of faith.  At last he broke out again with the words:
-"Well, anyhow, if I'm mad, I'm glad I'm mad on that."
+They sat for some moments in the mellow [[Silence|silence]] of the evening [[Garden|garden]],
+a [[Silence|silence]] that was stifling for the sceptic, but utterly empty and final
+for the man of [[Faith|faith]].  At last he broke out again with the words:
+"[[Well]], anyhow, if I'm mad, I'm glad I'm mad on that."
 
 Turnbull murmured some clumsy deprecation, and sat stolidly smoking
 to collect his thoughts; the next instant he had all his nerves
@@ -130,7 +130,7 @@ of curiosity, and all at once he walked quickly across the lawn.
 MacIan sat rigid, but peered after him with open and parched lips.
 He saw the sight which either proved him sane or proved the whole
 universe half-witted; he saw the man of flesh approach that
-beautiful phantom, saw their gestures of recognition, and saw them
+beautiful [[Phantom|phantom]], saw their gestures of recognition, and saw them
 against the sunset joining hands.
 
 He could stand it no longer, but ran across to the path, turned the corner

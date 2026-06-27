@@ -1,5 +1,5 @@
 ---
-title: "William Wilson (part 3)"
+title: "[[William Wilson]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/William-Wilson-(Poe)"
@@ -21,25 +21,25 @@ tags:
       equality which he maintained so easily with myself, a proof of
       his true superiority; since not to be overcome cost me a
       perpetual struggle. Yet this superiority—even this equality—was
-      in truth acknowledged by no one but myself; our associates, by
+      in [[Truth|truth]] acknowledged by no one but myself; our associates, by
       some unaccountable blindness, seemed not even to suspect it.
       Indeed, his competition, his resistance, and especially his
       impertinent and dogged interference with my purposes, were not
       more pointed than private. He appeared to be destitute alike of
-      the ambition which urged, and of the passionate energy of mind
+      the [[Ambition|ambition]] which urged, and of the passionate energy of mind
       which enabled me to excel. In his rivalry he might have been
-      supposed actuated solely by a whimsical desire to thwart,
+      supposed actuated solely by a whimsical [[Desire|desire]] to thwart,
       astonish, or mortify myself; although there were times when I
-      could not help observing, with a feeling made up of wonder,
+      could not help observing, with a feeling made up of [[Wonder|wonder]],
       abasement, and pique, that he mingled with his injuries, his
       insults, or his contradictions, a certain most inappropriate, and
       assuredly most unwelcome affectionateness of manner. I could only
       conceive this singular behavior to arise from a consummate
-      self-conceit assuming the vulgar airs of patronage and
+      [[Self|self]]-conceit assuming the vulgar airs of patronage and
       protection.
 
       Perhaps it was this latter trait in Wilson’s conduct, conjoined
-      with our identity of name, and the mere accident of our having
+      with our [[Identity|identity]] of name, and the mere accident of our having
       entered the school upon the same day, which set afloat the notion
       that we were brothers, among the senior classes in the academy.
       These do not usually inquire with much strictness into the
@@ -57,35 +57,35 @@ tags:
       altogether. We had, to be sure, nearly every day a quarrel in
       which, yielding me publicly the palm of victory, he, in some
       manner, contrived to make me feel that it was he who had deserved
-      it; yet a sense of pride on my part, and a veritable dignity on
+      it; yet a sense of [[Pride|pride]] on my part, and a veritable dignity on
       his own, kept us always upon what are called “speaking terms,”
       while there were many points of strong congeniality in our
       tempers, operating to awake me in a sentiment which our position
-      alone, perhaps, prevented from ripening into friendship. It is
+      [[Alone|alone]], perhaps, prevented from ripening into [[Friendship|friendship]]. It is
       difficult, indeed, to define, or even to describe, my real
       feelings towards him. They formed a motley and heterogeneous
       admixture;—some petulant animosity, which was not yet hatred,
-      some esteem, more respect, much fear, with a world of uneasy
+      some esteem, more respect, much [[Fear|fear]], with a world of uneasy
       curiosity. To the moralist it will be unnecessary to say, in
       addition, that Wilson and myself were the most inseparable of
       companions.
 
-      It was no doubt the anomalous state of affairs existing between
+      It was no [[Doubt|doubt]] the anomalous state of affairs existing between
       us, which turned all my attacks upon him, (and they were many,
       either open or covert) into the channel of banter or practical
-      joke (giving pain while assuming the aspect of mere fun) rather
+      joke (giving [[Pain|pain]] while assuming the aspect of mere fun) rather
       than into a more serious and determined hostility. But my
       endeavours on this head were by no means uniformly successful,
       even when my plans were the most wittily concocted; for my
       namesake had much about him, in character, of that unassuming and
       quiet austerity which, while enjoying the poignancy of its own
-      jokes, has no heel of Achilles in itself, and absolutely refuses
+      jokes, has no heel of [[Achilles]] in itself, and absolutely refuses
       to be laughed at. I could find, indeed, but one vulnerable point,
       and that, lying in a personal peculiarity, arising, perhaps, from
       constitutional disease, would have been spared by any antagonist
       less at his wit’s end than myself;—my rival had a weakness in the
       faucal or guttural organs, which precluded him from raising his
-      voice at any time above a very low whisper. Of this defect I did
+      voice at any [[Time|time]] above a very low whisper. Of this defect I did
       not fail to take what poor advantage lay in my power.
 
       Wilson’s retaliations in kind were many; and there was one form
@@ -95,7 +95,7 @@ tags:
       habitually practised the annoyance. I had always felt aversion to
       my uncourtly patronymic, and its very common, if not plebeian
       praenomen. The words were venom in my ears; and when, upon the
-      day of my arrival, a second William Wilson came also to the
+      day of my arrival, a second [[William Wilson]] came also to the
       academy, I felt angry with him for bearing the name, and doubly
       disgusted with the name because a stranger bore it, who would be
       the cause of its twofold repetition, who would be constantly in
@@ -113,7 +113,7 @@ tags:
       which had grown current in the upper forms. In a word, nothing
       could more seriously disturb me, (although I scrupulously
       concealed such disturbance,) than any allusion to a similarity of
-      mind, person, or condition existing between us. But, in truth, I
+      mind, person, or condition existing between us. But, in [[Truth|truth]], I
       had no reason to believe that (with the exception of the matter
       of relationship, and in the case of Wilson himself,) this
       similarity had ever been made a subject of comment, or even

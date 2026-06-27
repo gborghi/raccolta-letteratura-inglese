@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 1: desire to say as little as possible; I will discuss any other (part 11)"
+title: "[[ApprAndCritOfChDickens]] — Book 1: [[Desire|desire]] to say as little as possible; I will discuss any other (part 11)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -18,9 +18,9 @@ described the clever rascal and his ridiculous dupe; but here, in a
 
 fresh and very human atmosphere, we have a clever servant who was not a
 
-rascal and a dupe who was not ridiculous. Sam Weller stands in some ways
+rascal and a dupe who was not ridiculous. [[Sam Weller]] stands in some ways
 
-for a cheerful knowledge of the world; Mr. Pickwick stands for a still
+for a cheerful knowledge of the world; Mr. [[Pickwick]] stands for a still
 
 more cheerful ignorance of the world. And Dickens responded to a
 
@@ -28,17 +28,17 @@ profound human sentiment (the sentiment that has made saints and the
 
 sanctity of children) when he made the gentler and less-travelled
 
-type--the type which moderates and controls. Knowledge and innocence are
+type--the type which moderates and controls. Knowledge and [[innocence]] are
 
 both excellent things, and they are both very funny. But it is right
 
-that knowledge should be the servant and innocence the master.
+that knowledge should be the servant and [[innocence]] the master.
 
 
 
-The sincerity of this study of Sam Weller has produced one particular
+The sincerity of this study of [[Sam Weller]] has produced one particular
 
-effect in the book which I wonder that critics of Dickens have never
+effect in the book which I [[Wonder|wonder]] that critics of Dickens have never
 
 noticed or discussed. Because it has no Dickens "pathos," certain parts
 
@@ -48,9 +48,9 @@ of the book was fun, felt that he ought to keep out of it any great
 
 experiments in sadness and keep within limits those that he put in. He
 
-used this restraint in order not to spoil the humour; but (if he had
+used this restraint in order not to spoil the [[Humour|humour]]; but (if he had
 
-known himself better) he might well have used it in order not to spoil
+known himself better) he might [[Well|well]] have used it in order not to spoil
 
 the pathos. This is the one book in which Dickens was, as it were,
 
@@ -60,9 +60,9 @@ is the one book where all the tenderness there is is quite
 
 unquestionably true. An admirable example of what I mean may be found in
 
-the scene in which Sam Weller goes down to see his bereaved father after
+the scene in which [[Sam Weller]] goes down to see his bereaved father after
 
-the death of his step-mother. The most loyal admirer of Dickens can
+the [[Death|death]] of his step-mother. The most loyal admirer of Dickens can
 
 hardly prevent himself from giving a slight shudder when he thinks of
 
@@ -80,13 +80,13 @@ dignified, and really sad. There is no attempt made by these simple and
 
 honest men, the father and son, to pretend that the dead woman was
 
-anything greatly other than she was; their respect is for death, and for
+anything greatly other than she was; their respect is for [[Death|death]], and for
 
 the human weakness and mystery which it must finally cover. Old Tony
 
 Weller does not tell his shrewish wife that she is already a
 
-white-winged angel; he speaks to her with an admirable good nature and
+white-winged angel; he speaks to her with an admirable good [[Nature|nature]] and
 
 good sense:
 
@@ -102,7 +102,7 @@ good sense:
 
 
 
-That is perhaps the first and the last time that Dickens ever touched
+That is perhaps the first and the last [[Time|time]] that Dickens ever touched
 
 the extreme dignity of pathos. He is restraining his compassion, and
 
@@ -110,9 +110,9 @@ afterwards he let it go. Now laughter is a thing that can be let go;
 
 laughter has in it a quality of liberty. But sorrow has in it by its
 
-very nature a quality of confinement; pathos by its very nature fights
+very [[Nature|nature]] a quality of confinement; pathos by its very [[Nature|nature]] fights
 
-with itself. Humour is expansive; it bursts outwards; the fact is
+with itself. [[Humour]] is expansive; it bursts outwards; the fact is
 
 attested by the common expression, "holding one's sides." But sorrow is
 
@@ -126,9 +126,9 @@ pity, which we call pathos, a thing quite obvious, infectious, public,
 
 as if it were journalism or the measles. It is pleasant to think that in
 
-this supreme masterpiece, done in the dawn of his career, there is not
+this supreme masterpiece, done in the [[Dawn|dawn]] of his career, there is not
 
-even this faint fleck upon the sun of his just splendour. Pickwick will
+even this faint fleck upon the sun of his just splendour. [[Pickwick]] will
 
 always be remembered as the great example of everything that made
 
@@ -136,7 +136,7 @@ Dickens great; of the solemn conviviality of great friendships, of the
 
 erratic adventures of old English roads, of the hospitality of old
 
-English inns, of the great fundamental kindliness and honour of old
+English inns, of the great fundamental kindliness and [[Honour|honour]] of old
 
 English manners. First of all, however, it will always be remembered for
 
@@ -146,13 +146,13 @@ ultimate and sacred thing which cannot be criticised. Our relations
 
 with a good joke are direct and even divine relations. We speak of
 
-"seeing" a joke just as we speak of "seeing" a ghost or a vision. If we
+"seeing" a joke just as we speak of "seeing" a [[Ghost|ghost]] or a vision. If we
 
 have seen it, it is futile to argue with us; and we have seen the vision
 
-of _Pickwick_. _Pickwick_ may be the top of Dickens's humour; I think
+of _Pickwick_. _Pickwick_ may be the top of Dickens's [[Humour|humour]]; I think
 
-upon the whole it is. But the broad humour of _Pickwick_ he broadened
+upon the whole it is. But the broad [[Humour|humour]] of _Pickwick_ he broadened
 
 over many wonderful kingdoms; the narrow pathos of _Pickwick_ he never
 
@@ -166,19 +166,19 @@ found again.
 
 
 
-NICHOLAS NICKLEBY
+[[Nicholas Nickleby|NICHOLAS NICKLEBY]]
 
 
 
 
 
-Romance is perhaps the highest point of human expression, except indeed
+[[Romance]] is perhaps the highest point of human expression, except indeed
 
-religion, to which it is closely allied. Romance resembles religion
+religion, to which it is closely allied. [[Romance]] resembles religion
 
 especially in this, that it is not only a simplification but a
 
-shortening of existence. Both romance and religion see everything as it
+shortening of existence. Both [[Romance|romance]] and religion see everything as it
 
 were foreshortened; they see everything in an abrupt and fantastic
 
@@ -206,4 +206,4 @@ futility; in the second case, opportunity. But the case is even stronger
 
 than this. Religion shortens everything. Religion shortens even
 
-eternity. Where science, submitting to the false standard of time, sees
+[[Eternity|eternity]]. Where science, submitting to the false standard of [[Time|time]], sees

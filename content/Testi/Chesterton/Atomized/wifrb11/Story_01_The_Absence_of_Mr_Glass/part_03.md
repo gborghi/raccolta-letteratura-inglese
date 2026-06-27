@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Absence of Mr Glass (part 3)"
+title: "[[wifrb11]] — The Absence of Mr Glass (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -15,9 +15,9 @@ tags:
 
 
      "I'm sorry to interrupt you, sir," she said, "but I had to follow
-Father Brown at once; it's nothing less than life or death."
+[[Father Brown]] at once; it's nothing less than life or [[Death|death]]."
 
-     Father Brown began to get to his feet in some disorder. 
+     [[Father Brown]] began to get to his feet in some disorder. 
 "Why, what has happened, Maggie?" he said.
 
      "James has been murdered, for all I can make out,"
@@ -123,8 +123,8 @@ the hairless head together with the tone common in senile anger,
 I should think we may deduce some advance in years.  Nevertheless,
 he was probably vigorous, and he was almost certainly tall. 
 I might rely in some degree on the story of his previous appearance
-at the window, as a tall man in a silk hat, but I think I have
+at the [[Window|window]], as a tall man in a silk hat, but I think I have
 more exact indication.  This wineglass has been smashed all over the place,
 but one of its splinters lies on the high bracket beside the mantelpiece. 
-No such fragment could have fallen there if the vessel had been smashed
+No such [[Fragment|fragment]] could have fallen there if the vessel had been smashed
 in the hand of a comparatively short man like Mr Todhunter."

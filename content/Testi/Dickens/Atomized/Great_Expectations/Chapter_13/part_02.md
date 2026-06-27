@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 13 (part 2)"
+title: "[[Great Expectations]] — Chapter 13 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-“Good-bye, Pip!” said Miss Havisham. “Let them out, Estella.”
+“Good-bye, Pip!” said [[Miss Havisham]]. “Let them out, [[Estella]].”
 
-“Am I to come again, Miss Havisham?” I asked.
+“Am I to come again, [[Miss Havisham]]?” I asked.
 
 “No. Gargery is your master now. Gargery! One word!”
 
@@ -29,8 +29,8 @@ How Joe got out of the room, I have never been able to determine; but I
 know that when he did get out he was steadily proceeding upstairs
 instead of coming down, and was deaf to all remonstrances until I went
 after him and laid hold of him. In another minute we were outside the
-gate, and it was locked, and Estella was gone. When we stood in the
-daylight alone again, Joe backed up against a wall, and said to me,
+gate, and it was locked, and [[Estella]] was gone. When we stood in the
+daylight [[Alone|alone]] again, Joe backed up against a wall, and said to me,
 “Astonishing!” And there he remained so long saying, “Astonishing” at
 intervals, so often, that I began to think his senses were never coming
 back. At length he prolonged his remark into “Pip, I do assure _you_
@@ -43,11 +43,11 @@ he invented a subtle and deep design. My reason is to be found in what
 took place in Mr. Pumblechook’s parlour: where, on our presenting
 ourselves, my sister sat in conference with that detested seedsman.
 
-“Well?” cried my sister, addressing us both at once. “And what’s
-happened to _you_? I wonder you condescend to come back to such poor
+“[[Well]]?” cried my sister, addressing us both at once. “And what’s
+happened to _you_? I [[Wonder|wonder]] you condescend to come back to such poor
 society as this, I am sure I do!”
 
-“Miss Havisham,” said Joe, with a fixed look at me, like an effort of
+“[[Miss Havisham]],” said Joe, with a fixed look at me, like an effort of
 remembrance, “made it wery partick’ler that we should give her—were it
 compliments or respects, Pip?”
 
@@ -60,14 +60,14 @@ J. Gargery—”
 too.
 
 “And wishing,” pursued Joe, with another fixed look at me, like another
-effort of remembrance, “that the state of Miss Havisham’s elth were
+effort of remembrance, “that the state of [[Miss Havisham]]’s elth were
 sitch as would have—allowed, were it, Pip?”
 
 “Of her having the pleasure,” I added.
 
 “Of ladies’ company,” said Joe. And drew a long breath.
 
-“Well!” cried my sister, with a mollified glance at Mr. Pumblechook.
+“[[Well]]!” cried my sister, with a mollified glance at Mr. Pumblechook.
 “She might have had the politeness to send that message at first, but
 it’s better late than never. And what did she give young Rantipole
 here?”
@@ -83,7 +83,7 @@ have know’d,” added Joe, with an appearance of reflection, “whether it
 were Joe, or Jorge.”
 
 My sister looked at Pumblechook: who smoothed the elbows of his wooden
-arm-chair, and nodded at her and at the fire, as if he had known all
+arm-chair, and nodded at her and at the [[Fire|fire]], as if he had known all
 about it beforehand.
 
 “And how much have you got?” asked my sister, laughing. Positively
@@ -91,8 +91,8 @@ laughing!
 
 “What would present company say to ten pound?” demanded Joe.
 
-“They’d say,” returned my sister, curtly, “pretty well. Not too much,
-but pretty well.”
+“They’d say,” returned my sister, curtly, “pretty [[Well|well]]. Not too much,
+but pretty [[Well|well]].”
 
 “It’s more than that, then,” said Joe.
 
@@ -108,7 +108,7 @@ in you! Go on!”
 
 “Handsome would be the word,” returned my sister.
 
-“Well, then,” said Joe, “It’s more than twenty pound.”
+“[[Well]], then,” said Joe, “It’s more than twenty pound.”
 
 That abject hypocrite, Pumblechook, nodded again, and said, with a
 patronizing laugh, “It’s more than that, Mum. Good again! Follow her
@@ -122,8 +122,8 @@ Pumblechook, rising to shake hands with her; “and it’s no more than
 your merits (as I said when my opinion was asked), and I wish you joy
 of the money!”
 
-If the villain had stopped here, his case would have been sufficiently
-awful, but he blackened his guilt by proceeding to take me into
+If the [[Villain|villain]] had stopped here, his case would have been sufficiently
+awful, but he blackened his [[Guilt|guilt]] by proceeding to take me into
 custody, with a right of patronage that left all his former criminality
 far behind.
 
@@ -137,13 +137,13 @@ money), “we’re deeply beholden to you.”
 
 “Never mind me, Mum,” returned that diabolical cornchandler. “A
 pleasure’s a pleasure all the world over. But this boy, you know; we
-must have him bound. I said I’d see to it—to tell you the truth.”
+must have him bound. I said I’d see to it—to tell you the [[Truth|truth]].”
 
 The Justices were sitting in the Town Hall near at hand, and we at once
 went over to have me bound apprentice to Joe in the Magisterial
 presence. I say we went over, but I was pushed over by Pumblechook,
 exactly as if I had that moment picked a pocket or fired a rick;
-indeed, it was the general impression in Court that I had been taken
+indeed, it was the general impression in [[Court]] that I had been taken
 red-handed; for, as Pumblechook shoved me before him through the crowd,
 I heard some people say, “What’s he done?” and others, “He’s a young
 ’un, too, but looks bad, don’t he?” One person of mild and benevolent
@@ -154,7 +154,7 @@ entitled TO BE READ IN MY CELL.
 The Hall was a queer place, I thought, with higher pews in it than a
 church,—and with people hanging over the pews looking on,—and with
 mighty Justices (one with a powdered head) leaning back in chairs, with
-folded arms, or taking snuff, or going to sleep, or writing, or reading
+folded arms, or taking snuff, or going to [[Sleep|sleep]], or writing, or reading
 the newspapers,—and with some shining black portraits on the walls,
 which my unartistic eye regarded as a composition of hardbake and
 sticking-plaster. Here, in a corner my indentures were duly signed and

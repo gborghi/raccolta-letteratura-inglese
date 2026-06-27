@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 28 (part 7)"
+title: "[[Shirley]] — Chapter 28 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -20,11 +20,11 @@ of life. An hour afterwards I look again: half the arch is gone, and the
 
 rest is faded. Still later, the stern sky denies that it ever wore so
 
-benign a symbol of hope."
+benign a symbol of [[Hope|hope]]."
 
 
 
-"Well, Mr. Moore, you should contend against these changeful humours.
+"[[Well]], Mr. Moore, you should contend against these changeful humours.
 
 They are your besetting sin. One never knows where to have you."
 
@@ -34,7 +34,7 @@ They are your besetting sin. One never knows where to have you."
 
 me. Henry is dear, but she was dearer. Henry never gives me trouble;
 
-she--well, she did. I think she vexed me twenty-three hours out of the
+she--[[Well|well]], she did. I think she vexed me twenty-three hours out of the
 
 twenty-four----"
 
@@ -42,7 +42,7 @@ twenty-four----"
 
 "She was never with you above three hours, or at the most six at a
 
-time."
+[[Time|time]]."
 
 
 
@@ -60,15 +60,15 @@ creature comforts)----"
 
 "I know you do. I can tell what sort of dinners you like best--perfectly
 
-well. I know precisely the dishes you prefer----"
+[[Well|well]]. I know precisely the dishes you prefer----"
 
 
 
-"She robbed these dishes of flavour, and made a fool of me besides. I
+"She robbed these dishes of flavour, and made a [[Fool|fool]] of me besides. I
 
-like to sleep well. In my quiet days, when I was my own man, I never
+like to [[Sleep|sleep]] [[Well|well]]. In my quiet days, when I was my own man, I never
 
-quarrelled with the night for being long, nor cursed my bed for its
+quarrelled with the [[Night|night]] for being long, nor cursed my bed for its
 
 thorns. She changed all this."
 
@@ -82,7 +82,7 @@ thorns. She changed all this."
 
 me herself--quite coolly, just as if, when she was gone, the world would
 
-be all the same to me. I knew I should see her again at some time. At
+be all the same to me. I knew I should see her again at some [[Time|time]]. At
 
 the end of two years, it fell out that we encountered again under her
 
@@ -92,7 +92,7 @@ towards me, Miss Keeldar?"
 
 
 
-"Like one who had profited well by lessons learned from yourself."
+"Like one who had profited [[Well|well]] by lessons learned from yourself."
 
 
 
@@ -112,7 +112,7 @@ improvement on your own coolness."
 
 
 
-"Conscience, and honour, and the most despotic necessity dragged me
+"[[Conscience]], and [[Honour|honour]], and the most despotic necessity dragged me
 
 apart from her, and kept me sundered with ponderous fetters. She was
 
@@ -120,7 +120,7 @@ free: she might have been clement."
 
 
 
-"Never free to compromise her self-respect, to seek where she had been
+"Never free to compromise her [[Self|self]]-respect, to seek where she had been
 
 shunned."
 
@@ -148,7 +148,7 @@ get a notion into her head, on a cold, wet day, that the schoolroom was
 
 no cheerful place, and feel it incumbent on her to go and see if you and
 
-Henry kept up a good fire; and once there, she liked to stay."
+Henry kept up a good [[Fire|fire]]; and once there, she liked to stay."
 
 
 
@@ -170,21 +170,21 @@ oftener."
 
 
 
-"I am not mad, most noble Berenice! We may give one day to dreaming, but
+"I am not mad, most noble [[Berenice]]! We may give one day to dreaming, but
 
 the next we must awake; and I shall awake to purpose the morning you are
 
-married to Sir Philip Nunnely. The fire shines on you and me, and shows
+married to Sir Philip Nunnely. The [[Fire|fire]] shines on you and me, and shows
 
 us very clearly in the glass, Miss Keeldar; and I have been gazing on
 
-the picture all the time I have been talking. Look up! What a difference
+the picture all the [[Time|time]] I have been talking. Look up! What a difference
 
 between your head and mine! I look old for thirty!"
 
 
 
-"You are so grave; you have such a square brow; and your face is sallow.
+"You are so [[Grave|grave]]; you have such a square brow; and your face is sallow.
 
 I never regard you as a young man, nor as Robert's junior."
 
@@ -200,7 +200,7 @@ expecting that wire to vibrate this last half-hour."
 
 
 
-The dinner-bell rang, and Shirley rose.
+The dinner-bell rang, and [[Shirley]] [[Rose|rose]].
 
 
 
@@ -214,13 +214,13 @@ so long? Does he talk of returning?"
 
 "He talks of returning; but what has caused his long absence I cannot
 
-tell. To speak the truth, I thought none in Yorkshire knew better than
+tell. To speak the [[Truth|truth]], I thought none in Yorkshire knew better than
 
-yourself why he was reluctant to come home."
+yourself why he was reluctant to come [[Home|home]]."
 
 
 
-A crimson shadow passed across Miss Keeldar's cheek.
+A crimson [[Shadow|shadow]] passed across Miss Keeldar's cheek.
 
 
 
@@ -240,9 +240,9 @@ countenance, or _tried_ to read it. He turned from me. I divined that he
 
 would be long away. Some fine, slight fingers have a wondrous knack at
 
-pulverizing a man's brittle pride. I suppose Robert put too much trust
+pulverizing a man's brittle [[Pride|pride]]. I suppose Robert put too much trust
 
-in his manly beauty and native gentlemanhood. Those are better off who,
+in his manly [[Beauty|beauty]] and native gentlemanhood. Those are better off who,
 
 being destitute of advantage, cannot cherish delusion. But I will write,
 

@@ -22,19 +22,19 @@ gentleman to boot, in thinking what could have become of his late
 master and his lovely grandchild, who were the fountain-head of all his
 meditations.  Still casting about for some plausible means of
 accounting for their non-appearance, and of persuading himself that
-they must soon return, he bent his steps towards home, intending to
+they must soon return, he bent his steps towards [[Home|home]], intending to
 finish the task which the sudden recollection of his contract had
 interrupted, and then to sally forth once more to seek his fortune for
 the day.
 
-When he came to the corner of the court in which he lived, lo and
+When he came to the corner of the [[Court|court]] in which he lived, lo and
 behold there was the pony again!  Yes, there he was, looking more
-obstinate than ever; and alone in the chaise, keeping a steady watch
+obstinate than ever; and [[Alone|alone]] in the chaise, keeping a steady watch
 upon his every wink, sat Mr Abel, who, lifting up his eyes by chance
 and seeing Kit pass by, nodded to him as though he would have nodded
 his head off.
 
-Kit wondered to see the pony again, so near his own home too, but it
+Kit wondered to see the pony again, so near his own [[Home|home]] too, but it
 never occurred to him for what purpose the pony might have come there,
 or where the old lady and the old gentleman had gone, until he lifted
 the latch of the door, and walking in, found them seated in the room in
@@ -51,7 +51,7 @@ mute interrogation, ‘to ask me whether you were in a good place, or in
 any place at all, and when I told him no, you were not in any, he was
 so good as to say that--’
 
-‘--That we wanted a good lad in our house,’ said the old gentleman and
+‘--That we wanted a good lad in our [[house]],’ said the old gentleman and
 the old lady both together, ‘and that perhaps we might think of it, if
 we found everything as we would wish it to be.’
 
@@ -59,7 +59,7 @@ As this thinking of it, plainly meant the thinking of engaging Kit, he
 immediately partook of his mother’s anxiety and fell into a great
 flutter; for the little old couple were very methodical and cautious,
 and asked so many questions that he began to be afraid there was no
-chance of his success.
+chance of his [[success]].
 
 ‘You see, my good woman,’ said Mrs Garland to Kit’s mother, ‘that it’s
 necessary to be very careful and particular in such a matter as this,
@@ -86,14 +86,14 @@ When Kit’s mother had done speaking, the old lady struck in again, and
 said that she was quite sure she was a very honest and very respectable
 person or she never would have expressed herself in that manner, and
 that certainly the appearance of the children and the cleanliness of
-the house deserved great praise and did her the utmost credit, whereat
+the [[house]] deserved great praise and did her the utmost credit, whereat
 Kit’s mother dropped a curtsey and became consoled.  Then the good
-woman entered in a long and minute account of Kit’s life and history
-from the earliest period down to that time, not omitting to make
-mention of his miraculous fall out of a back-parlour window when an
+woman entered in a long and minute account of Kit’s life and [[history]]
+from the earliest period down to that [[Time|time]], not omitting to make
+mention of his miraculous fall out of a back-parlour [[Window|window]] when an
 infant of tender years, or his uncommon sufferings in a state of
 measles, which were illustrated by correct imitations of the plaintive
-manner in which he called for toast and water, day and night, and said,
+manner in which he called for toast and [[Water|water]], day and [[Night|night]], and said,
 ‘don’t cry, mother, I shall soon be better;’ for proof of which
 statements reference was made to Mrs Green, lodger, at the
 cheesemonger’s round the corner, and divers other ladies and gentlemen
@@ -109,7 +109,7 @@ circumstances which had attended the birth of her own son, Mr Abel,
 from which it appeared that both Kit’s mother and herself had been,
 above and beyond all other women of what condition or age soever,
 peculiarly hemmed in with perils and dangers.  Lastly, inquiry was made
-into the nature and extent of Kit’s wardrobe, and a small advance being
+into the [[Nature|nature]] and extent of Kit’s wardrobe, and a small advance being
 made to improve the same, he was formally hired at an annual income of
 Six Pounds, over and above his board and lodging, by Mr and Mrs
 Garland, of Abel Cottage, Finchley.
@@ -119,7 +119,7 @@ this arrangement, the conclusion of which was hailed with nothing but
 pleasant looks and cheerful smiles on both sides.  It was settled that
 Kit should repair to his new abode on the next day but one, in the
 morning; and finally, the little old couple, after bestowing a bright
-half-crown on little Jacob and another on the baby, took their leaves;
+half-[[Crown|crown]] on little Jacob and another on the baby, took their [[Leaves|leaves]];
 being escorted as far as the street by their new attendant, who held
 the obdurate pony by the bridle while they took their seats, and saw
 them drive away with a lightened heart.

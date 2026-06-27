@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 39 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 39 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -19,16 +19,16 @@ tags:
 heard anything more of that rascal, I suppose, eh?’
 
 ‘Not a syllable,’ replied Hugh. ‘I never want to. I don’t believe I ever
-shall. He’s dead long ago, I hope.’
+shall. He’s dead long ago, I [[Hope|hope]].’
 
 ‘It’s to be hoped, for the sake of mankind in general and the happiness
 of society, that he is,’ said Mr Tappertit, rubbing his palm upon his
 legs, and looking at it between whiles. ‘Is your other hand at all
-cleaner? Much the same. Well, I’ll owe you another shake. We’ll suppose
+cleaner? Much the same. [[Well]], I’ll owe you another shake. We’ll suppose
 it done, if you’ve no objection.’
 
 Hugh laughed again, and with such thorough abandonment to his mad
-humour, that his limbs seemed dislocated, and his whole frame in danger
+[[Humour|humour]], that his limbs seemed dislocated, and his whole frame in danger
 of tumbling to pieces; but Mr Tappertit, so far from receiving this
 extreme merriment with any irritation, was pleased to regard it with the
 utmost favour, and even to join in it, so far as one of his gravity and
@@ -39,10 +39,10 @@ Mr Tappertit did not stop here, as many public characters might have
 done, but calling up his brace of lieutenants, introduced Hugh to them
 with high commendation; declaring him to be a man who, at such times as
 those in which they lived, could not be too much cherished. Further, he
-did him the honour to remark, that he would be an acquisition of which
+did him the [[Honour|honour]] to remark, that he would be an acquisition of which
 even the United Bulldogs might be proud; and finding, upon sounding him,
 that he was quite ready and willing to enter the society (for he was
-not at all particular, and would have leagued himself that night with
+not at all particular, and would have leagued himself that [[Night|night]] with
 anything, or anybody, for any purpose whatsoever), caused the necessary
 preliminaries to be gone into upon the spot. This tribute to his great
 merit delighted no man more than Mr Dennis, as he himself proclaimed
@@ -52,10 +52,10 @@ satisfaction to the whole assembly.
 ‘Make anything you like of me!’ cried Hugh, flourishing the can he had
 emptied more than once. ‘Put me on any duty you please. I’m your man.
 I’ll do it. Here’s my captain--here’s my leader. Ha ha ha! Let him
-give me the word of command, and I’ll fight the whole Parliament House
-single-handed, or set a lighted torch to the King’s Throne itself!’ With
+give me the word of command, and I’ll fight the whole Parliament [[house|House]]
+single-handed, or set a lighted torch to the [[King]]’s Throne itself!’ With
 that, he smote Mr Tappertit on the back, with such violence that his
-little body seemed to shrink into a mere nothing; and roared again until
+little [[Body|body]] seemed to shrink into a mere nothing; and roared again until
 the very foundlings near at hand were startled in their beds.
 
 In fact, a sense of something whimsical in their companionship seemed to
@@ -63,14 +63,14 @@ have taken entire possession of his rude brain. The bare fact of being
 patronised by a great man whom he could have crushed with one hand,
 appeared in his eyes so eccentric and humorous, that a kind of ferocious
 merriment gained the mastery over him, and quite subdued his brutal
-nature. He roared and roared again; toasted Mr Tappertit a hundred
+[[Nature|nature]]. He roared and roared again; toasted Mr Tappertit a hundred
 times; declared himself a Bulldog to the core; and vowed to be faithful
-to him to the last drop of blood in his veins.
+to him to the last drop of [[Blood|blood]] in his veins.
 
 All these compliments Mr Tappertit received as matters of
 course--flattering enough in their way, but entirely attributable to his
-vast superiority. His dignified self-possession only delighted Hugh the
-more; and in a word, this giant and dwarf struck up a friendship which
+vast superiority. His dignified [[Self|self]]-possession only delighted Hugh the
+more; and in a word, this giant and [[Dwarf|dwarf]] struck up a [[Friendship|friendship]] which
 bade fair to be of long continuance, as the one held it to be his right
 to command, and the other considered it an exquisite pleasantry to
 obey. Nor was Hugh by any means a passive follower, who scrupled to act
@@ -85,10 +85,10 @@ became remarkably attentive, and were the loudest in their approbation.
 It was not all noise and jest, however, at The Boot, nor were the whole
 party listeners to the speech. There were some men at the other end of
 the room (which was a long, low-roofed chamber) in earnest conversation
-all the time; and when any of this group went out, fresh people were
+all the [[Time|time]]; and when any of this group went out, fresh people were
 sure to come in soon afterwards and sit down in their places, as though
 the others had relieved them on some watch or duty; which it was pretty
-clear they did, for these changes took place by the clock, at intervals
+clear they did, for these changes took place by the [[Clock|clock]], at intervals
 of half an hour. These persons whispered very much among themselves,
 and kept aloof, and often looked round, as jealous of their speech being
 overheard; some two or three among them entered in books what seemed
@@ -98,7 +98,7 @@ and from the St James’s Chronicle, the Herald, Chronicle, or Public
 Advertiser, would read to the rest in a low voice some passage having
 reference to the topic in which they were all so deeply interested. But
 the great attraction was a pamphlet called The Thunderer, which espoused
-their own opinions, and was supposed at that time to emanate directly
+their own opinions, and was supposed at that [[Time|time]] to emanate directly
 from the Association. This was always in request; and whether read
 aloud, to an eager knot of listeners, or by some solitary man, was
 certain to be followed by stormy talking and excited looks.
@@ -107,10 +107,10 @@ In the midst of all his merriment, and admiration of his captain, Hugh
 was made sensible by these and other tokens, of the presence of an air
 of mystery, akin to that which had so much impressed him out of doors.
 It was impossible to discard a sense that something serious was going
-on, and that under the noisy revel of the public-house, there lurked
+on, and that under the noisy revel of the public-[[house]], there lurked
 unseen and dangerous matter. Little affected by this, however, he was
 perfectly satisfied with his quarters and would have remained there till
-morning, but that his conductor rose soon after midnight, to go home; Mr
+morning, but that his conductor [[Rose|rose]] soon after midnight, to go [[Home|home]]; Mr
 Tappertit following his example, left him no excuse to stay. So they all
-three left the house together: roaring a No-Popery song until the fields
+three left the [[house]] together: roaring a No-Popery [[Song|song]] until the fields
 resounded with the dismal noise.

@@ -1,5 +1,5 @@
 ---
-title: "TheAppOfTyranny — Chapter 4 (part 2)"
+title: "[[TheAppOfTyranny]] — Chapter 4 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheAppOfTyranny-(Chesterton)"
@@ -20,7 +20,7 @@ Britain is not only an island, but an island slashed by the sea till it
 
 nearly splits into three islands; and even the Midlands can almost smell
 
-the salt. Germany is a powerful, beautiful and fertile inland country,
+the salt. [[Germany]] is a powerful, beautiful and fertile inland country,
 
 which can only find the sea by one or two twisted and narrow paths, as
 
@@ -28,7 +28,7 @@ people find a subterranean lake. Thus the British Navy is really national
 
 because it is natural; it has co-hered out of hundreds of accidental
 
-adventures of ships and shipmen before Chaucer's time and after it. But the
+adventures of ships and shipmen before Chaucer's [[Time|time]] and after it. But the
 
 German Navy is an artificial thing; as artificial as a constructed Alp
 
@@ -36,7 +36,7 @@ would be in England. William II has simply copied the British Navy as
 
 Frederick II copied the French Army: and this Japanese or anti-like
 
-assiduity in imitation is one of the hundred qualities which the Germans
+assiduity in [[Imitation|imitation]] is one of the hundred qualities which the Germans
 
 have and the English markedly have not. There are other German
 
@@ -44,7 +44,7 @@ superiorities which are very much superior. The one or two really jolly
 
 things that the Germans have got are precisely the things which the English
 
-haven't got: notably a real habit of popular music and of the ancient songs
+haven't got: notably a real habit of popular music and of the ancient [[songs]]
 
 of the people, not merely spreading from the towns or caught from the
 
@@ -60,21 +60,21 @@ all, they differ in what is the most English of all English traits; that
 
 shame which the French may be right in calling "the bad shame"; for it is
 
-certainly mixed up with pride and suspicion, the upshot of which we call
+certainly mixed up with [[Pride|pride]] and suspicion, the upshot of which we call
 
 shyness. Even an Englishman's rudeness is often rooted in his being
 
 embarrassed. But a German's rudeness is rooted in his never being
 
-embarrassed. He eats and makes love noisily. He never feels a speech or a
+embarrassed. He eats and makes [[Love|love]] noisily. He never feels a speech or a
 
-song or a sermon or a large meal to be what the English call "out of place"
+[[Song|song]] or a sermon or a large meal to be what the English call "out of place"
 
 in particular circumstances. When Germans are patriotic and religious they
 
 have no reactions against patriotism and religion as have the English and
 
-the French. Nay, the mistake of Germany in the modern disaster largely
+the French. Nay, the mistake of [[Germany]] in the modern disaster largely
 
 arose from the facts that she thought England was simple when England is
 
@@ -88,7 +88,7 @@ corrupt. They could not seize the subtlety by which a rather used-up
 
 English gentleman might sell a coronet when he would not sell a fortress;
 
-might lower the public standards and yet refuse to lower the flag. In
+might lower the public standards and yet refuse to lower the [[Flag|flag]]. In
 
 short, the Germans are quite sure that they understand us entirely, because
 
@@ -96,9 +96,9 @@ they do not understand us at all. Possibly if they began to understand us
 
 they might hate us even more: but I would rather be hated for some small
 
-but real reason than pursued with love on account of all kinds of qualities
+but real reason than pursued with [[Love|love]] on account of all kinds of qualities
 
-which I do not possess and which I do not desire. And when the Germans get
+which I do not possess and which I do not [[Desire|desire]]. And when the Germans get
 
 their first genuine glimpse of what modern England is like they will
 
@@ -134,9 +134,9 @@ said Nietzsche, "that we may give birth to a dancing star."
 
 In these slight notes I have suggested the principal strong points of the
 
-Prussian character. A failure in honour which almost amounts to a failure
+Prussian character. A failure in [[Honour|honour]] which almost amounts to a failure
 
-in memory: an egomania that is honestly blind to the fact that the other
+in [[Memory|memory]]: an egomania that is honestly blind to the fact that the other
 
 party is an ego; and, above all, an actual itch for tyranny and
 
@@ -156,13 +156,13 @@ Teutons were not sufficiently evolved. Or they will say that they were
 
 just sufficiently evolved to show that they were not Teutons. Probably they
 
-will say both. But the truth is that all that they call evolution should
+will say both. But the [[Truth|truth]] is that all that they call evolution should
 
 rather be called evasion. They tell us they are opening windows of
 
-enlightenment and doors of progress. The truth is that they are breaking up
+enlightenment and doors of progress. The [[Truth|truth]] is that they are breaking up
 
-the whole house of the human intellect, that they may abscond in any
+the whole [[house]] of the human intellect, that they may abscond in any
 
 direction. There is an ominous and almost monstrous parallel between the
 
@@ -184,7 +184,7 @@ LETTERS TO AN OLD GARIBALDIAN
 
 
 
-Italy, twice hast thou spoken; and time is athirst
+[[Italy]], twice hast thou spoken; and [[Time|time]] is athirst
 
 for the third.
 
@@ -198,7 +198,7 @@ My Dear ------
 
 
 
-It is a long time since we met; and I fear these letters may never reach
+It is a long [[Time|time]] since we met; and I [[Fear|fear]] these letters may never reach
 
 you. But in these violent times I remember with a curious vividness how you
 

@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 8"
+title: "[[longbow2]] — Chapter 8"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/longbow2-(Chesterton)"
@@ -22,23 +22,23 @@ of the League of the Long Bow
 Mr. Robert Owen Hood came through his library that was lined with brown
 leather volumes with a brown paper parcel in his hand; a flippant person
 (such as his friend Mr. Pierce) might have said he was in a brown study. 
-He came out into the sunlight of his garden, however, where his
+He came out into the sunlight of his [[Garden|garden]], however, where his
 wife was arranging tea-things, for she was expecting visitors. 
 Even in the strong daylight he looked strangely little altered,
 despite the long and catastrophic period that had passed since he
 had met her in the Thames valley and managed really to set the Thames
-on fire.  That fire had since spread in space and time and become
+on [[Fire|fire]].  That [[Fire|fire]] had since spread in space and [[Time|time]] and become
 a conflagration in which much of modern civilization had been consumed;
 but in which (as its advocates alleged) English agriculture had been
-saved and a new and more hopeful chapter opened in English history. 
+saved and a new and more hopeful chapter opened in English [[history]]. 
 His angular face was rather more lined and wrinkled, but his straight
 shock of copper-coloured hair was as unchanged as if it had been
 a copper-coloured wig.  His wife Elizabeth was even less marked,
 for she was younger; she had the same slightly nervous or short-sighted
-look in the eyes that was like a humanizing touch to her beauty made
+look in the eyes that was like a humanizing touch to her [[Beauty|beauty]] made
 of ivory and gold.  But though she was not old she had always been
 a little old-fashioned; for she came of a forgotten aristocracy whose
-women had moved with a certain gravity as well as grace about the old
+women had moved with a certain gravity as [[Well|well]] as grace about the old
 country houses, before coronets were sold like cabbages or the Jews
 lent money to the squires.  But her husband was old-fashioned too;
 though he had just taken part in a successful revolution and bore
@@ -49,38 +49,38 @@ was a weakness for his wife being a lady--especially that lady.
 "you've been buying more old books."
 
 "As it happens, these are particularly new books," he replied;
-"but I suppose in one sense it's all ancient history now."
+"but I suppose in one sense it's all ancient [[history]] now."
 
-"What ancient history?" she asked.  "Is it a History of Babylon
+"What ancient [[history]]?" she asked.  "Is it a [[history|History]] of Babylon
 or prehistoric China?"
 
-"It is a History of Us."
+"It is a [[history|History]] of Us."
 
-"I hope not," she said; "but what do you mean?"
+"I [[Hope|hope]] not," she said; "but what do you mean?"
 
-"I mean it's a history of Our Revolution," said Owen Hood, "a true
+"I mean it's a [[history]] of Our Revolution," said Owen Hood, "a true
 and authentic account of the late glorious victories, as the old
 broadsheets said.  The Great War of 1914 started the fashion of
-bringing out the history of events almost before they'd happened. 
+bringing out the [[history]] of events almost before they'd happened. 
 There were standard histories of that war while it was still going on. 
 Our little civil war is at least finished, thank God; and this is
-the brand-new history of it.  Written by a rather clever fellow,
+the brand-new [[history]] of it.  Written by a rather clever fellow,
 detached but understanding and a little ironical on the right side. 
 Above all, he gives quite a good description of the Battle of
 the Bows."
 
-"I shouldn't call that our history," said Elizabeth quietly. 
-"I'm devoutly thankful that nobody can ever write our history or put
-it in a book.  Do you remember when you jumped into the water after
-the flowers?  I fancy it was then that you really set the Thames
-on fire."
+"I shouldn't call that our [[history]]," said Elizabeth quietly. 
+"I'm devoutly thankful that nobody can ever write our [[history]] or put
+it in a book.  Do you remember when you jumped into the [[Water|water]] after
+the [[Flowers|flowers]]?  I fancy it was then that you really set the Thames
+on [[Fire|fire]]."
 
-"With my red hair, no doubt," he replied; "but I don't think I did set
-the Thames on fire.  I think it was the Thames that set me on fire. 
+"With my red hair, no [[Doubt|doubt]]," he replied; "but I don't think I did set
+the Thames on [[Fire|fire]].  I think it was the Thames that set me on [[Fire|fire]]. 
 Only you were always the spirit of the stream and the goddess
 of the valley."
 
-"I hope I'm not quite so old as that," answered Elizabeth.
+"I [[Hope|hope]] I'm not quite so old as that," answered Elizabeth.
 
 "Listen to this," cried her husband, turning over the pages
 of the book.  "`According to the general belief, which prevailed
@@ -108,7 +108,7 @@ well to talk about the Unites States--"
 "Never you mind about the United States," said Hood easily; "I think
 I'm rather in favour of the Heptarchy.  You just listen to this;
 the epic of our own Heptarchy, the story of our own dear little
-domestic war.  `The recent success of the agrarian protest--'"
+domestic war.  `The recent [[success]] of the agrarian protest--'"
 
 He was interrupted again by the arrival of two more guests;
 by the silent entrance of Colonel Crane and the very noisy entrance
@@ -118,7 +118,7 @@ inn of the Blue Boar.  White's wife was still in the country,
 and Crane's having long been busy in her studio with war-posters,
 was now equally busy with peace-posters.
 
-Hood was one of those men whom books almost literally seize and swallow,
+Hood was one of those men whom books almost literally seize and [[Swallow|swallow]],
 like monsters with leather or paper jaws.  It was no exaggeration
 to say he was deep in a book as an incautious traveller might be
 deep in a swamp or some strange man-eating plant of the tropics;
@@ -128,34 +128,34 @@ on reading; or he would suddenly begin to read aloud with great passion,
 arguing with somebody in the book without reference to anybody
 in the room.  Though not normally rude, he would drift through
 other people's drawing-rooms towards other people's bookshelves
-and disappear into them, so to speak, like a rusty family ghost. 
+and disappear into them, so to speak, like a rusty family [[Ghost|ghost]]. 
 He would travel a hundred miles to see a friend for an hour,
 and then waste half an hour with his head in some odd volume he
 never happened to have seen before.  On all that side of him there
 was a sort of almost creepy unconsciousness.  His wife, who had
-old-world notions of the graces of a hostess, sometimes had double
+old-world notions of the graces of a hostess, sometimes had [[Double|double]]
 work to do.
 
-"The recent success of the agrarian protest," began Hood cheerfully
-as his wife rose swiftly to receive two more visitors.  These were
-Professor Green and Commander Bellew Blair; for a queer friendship
+"The recent [[success]] of the agrarian protest," began Hood cheerfully
+as his wife [[Rose|rose]] swiftly to receive two more visitors.  These were
+Professor Green and Commander Bellew Blair; for a queer [[Friendship|friendship]]
 had long linked together the most practical and the most unpractical
-of the brothers of the Long Bow.  The friendship, as Pierce remarked,
+of the brothers of the Long Bow.  The [[Friendship|friendship]], as Pierce remarked,
 was firmly rooted in the square root of minus infinity.
 
-"How beautiful your garden is looking," said Blair to his hostess. 
+"How beautiful your [[Garden|garden]] is looking," said Blair to his hostess. 
 "One so seldom sees flower-beds like that now; but I shall always
 think the old gardeners were right."
 
 "Most things are old-fashioned here, I'm afraid," replied Elizabeth,
 "but I always like them like that.  And how are the children?"
 
-"The recent success of the agrarian protest," remarked her husband
+"The recent [[success]] of the agrarian protest," remarked her husband
 in a clear voice, "is doubtless--"
 
 "Really," she said, laughing, "you are too ridiculous for anything. 
-Why in the world should you want to read out the history of the war
-to the people who were in it, and know quite well already what
+Why in the world should you want to read out the [[history]] of the war
+to the people who were in it, and know quite [[Well|well]] already what
 really happened?"
 
 "I beg your pardon," said Colonel Crane.  "Very improper to
@@ -166,7 +166,7 @@ of what never happened."
 
 "Why, then you'd better go on reading, Hood," said Hilary Pierce. 
 "The Colonel wants to know whether he was killed in battle;
-or whether there was any truth in that story that he was hanged
+or whether there was any [[Truth|truth]] in that story that he was hanged
 as a spy on the very tree he had climbed when running away as
 a deserter."
 
@@ -178,7 +178,7 @@ as a whole."
 
 "Perhaps," began Blair, "we had better--"
 
-"The recent success of the agrarian protest," remarked Hood
+"The recent [[success]] of the agrarian protest," remarked Hood
 in authoritative tones, "is doubtless to be attributed largely
 to the economic advantage belonging to an agrarian population. 
 It can feed the town or refuse to feed the town; and this question
@@ -188,7 +188,7 @@ Paddington Station in the first days of the rebellion.  Men who
 had grown used to seeing on innumerable mornings the innumerable
 ranks and rows of great milk-cans, looking leaden in a grey
 and greasy light, found themselves faced with a blank, in which
-those neglected things shone in the memory like stolen silver. 
+those neglected things shone in the [[Memory|memory]] like stolen silver. 
 It was true, as Sir Horace Hunter eagerly pointed out when he was
 put in command of the highly hygienic problem of the milk supply,
 that there would be no difficulty about manufacturing the metal cans,
@@ -198,7 +198,7 @@ been of the opinion, the learned doctor explained, that the shape
 of the cans, especially the small cans left outside poor houses,
 left much to be desired, and the whole process of standing these
 small objects about in the basements of private houses was open
-to grave objection in the matter of waste of space.  The public,
+to [[Grave|grave]] objection in the matter of waste of space.  The public,
 however, showed an indifference to this new issue and a disposition
 to go back on the old demand for milk; in which matter, they said,
 there was an unfair advantage for the man who possessed a cow over
@@ -266,7 +266,7 @@ merely formal, like a decorative pattern or border.  But it cannot be
 denied that the universal use of this phrase, combined with the equally
 universal sense of the unfairness of expecting any politician to carry
 it out, somewhat weakened the force of words in political affairs. 
-It would have been well if statesmen had confined themselves to these
+It would have been [[Well|well]] if statesmen had confined themselves to these
 accepted and familiar formalities.  Unfortunately, under the stress
 of the struggle which arose out of the menacing organization of
 the League of the Long Bow, they sought to dazzle their followers
@@ -281,38 +281,38 @@ The great philanthropist unquestionably had the highest intentions,
 both in his rash promise and his more reasonable fulfilment. 
 But when the munitions-workers found that the champagne-bottles,
 though carefully covered with the most beautiful gold-foil, contained
-in fact nothing but hygienically boiled water, the result was a sudden
+in fact nothing but hygienically boiled [[Water|water]], the result was a sudden
 and sensational strike, which paralysed the whole output of munitions
 and led to the first incredible victories of the League of the Long Bow.
 
 "There followed in consequence one of the most amazing wars
-of human history--a one-sided war.  One side would have been
+of human [[history]]--a one-sided war.  One side would have been
 insignificant if the other had not been impotent.  The minority could
 not have fought for long; only the majority could not fight at all. 
 There prevailed through the whole of the existing organizations
-of society a universal distrust that turned them into a dust
+of society a universal distrust that turned them into a [[Dust|dust]]
 of disconnected atoms.  What was the use of offering men higher
 pay when they did not believe they would ever receive it, but only
 alluded jeeringly to Lord Normantowers and his brand of champagne? 
 What was the use of telling every man that he would have a bonus,
 when you had told him for twenty years that he would soon be
 a millionaire?  What was the good of the Prime Minister pledging
-his honour in a ringing voice on platform after platform, when it
+his [[Honour|honour]] in a ringing voice on platform after platform, when it
 was already an open jest that it was not the Prime Minister at all? 
-The Government voted taxes and they were not paid.  It mobilized
+The [[government|Government]] voted taxes and they were not paid.  It mobilized
 armies and they did not move.  It introduced the pattern of a new
 all-pulverizing gun, and nobody would make it and nobody would
-fire it off.  We all remember the romantic crisis when no less
+[[Fire|fire]] it off.  We all remember the romantic crisis when no less
 a genius than Professor Hake came to Sir Horace Hunter, the Minister
 of Scientific Social Organization, with a new explosive capable
 of shattering the whole geological formation of Europe and sinking
-these islands in the Atlantic, but was unable to induce the cabman
+these islands in the Atlantic, but was unable to induce the [[cabman]]
 or any of the clerks to assist him in lifting it out of the cab.
 
 "Against all this anarchy of broken promises the little organization
 of the League of the Long Bow stood solid and loyal and dependable. 
 The Long Bowmen had become popular by the nickname of the Liars. 
-Everywhere the jest or catchword was repeated like a song,
+Everywhere the jest or catchword was repeated like a [[Song|song]],
 `Only the Liars Tell the Truth.'  They found more and more men
 to work and fight for them, because it was known that they would
 pay whatever wages they promised, and refuse to promise anything
@@ -398,7 +398,7 @@ time past they had successfully ignored the outworn sentimental
 prejudice that had prevented soldiers and sailors from advertising
 the best methods of defeating the enemy; and we can all recall
 those brilliantly coloured announcements which used to brighten
-so many hoardings in those days, `Sink in Smith's Submarine;
+so many hoardings in those days, `Sink in [[smith|Smith]]'s Submarine;
 Pleasure Trips for Patriots.'  Or `Duffin's Portable Dug-Out Makes
 War a Luxury.'  Advertisement cannot fail to effect its aim;
 the name of an aeroplane that had been written on the sky in pink
@@ -520,12 +520,12 @@ they could produce their own rude mediaeval weapons everywhere.
 It was in vain that Professor Hake delivered a series of popular
 lectures, proving to the lower classes that in the long run it
 would be to their economic advantage to be killed in battle. 
-Captain Pierce is reported to have said:  `I believe the Professor is
-a botanist as well as an economist; but as a botanist he has not yet
+Captain Pierce is reported to have said:  `I believe [[The Professor|the Professor]] is
+a botanist as [[Well|well]] as an economist; but as a botanist he has not yet
 discovered that guns and arrows do not grow on trees.  Bows and arrows do.'
 
-"But the incident which history will have most difficulty in explaining,
-and which it may perhaps refer to the region of myth or romance,
+"But the incident which [[history]] will have most difficulty in explaining,
+and which it may perhaps refer to the region of myth or [[Romance|romance]],
 is the crowning victory commonly called the Battle of the Bows. 
 It was indeed originally called `The Battle of the Bows of God';
 in reference to some strangely fantastic boast, equally strangely fulfilled,
@@ -540,29 +540,29 @@ bows taller than houses; bows given to us by God Himself and big
 enough for His gigantic angels.'
 
 "The whole business of this battle, historic and decisive as
-it was, is covered with some obscurity, like that cloud of storm
+it was, is covered with some obscurity, like that cloud of [[Storm|storm]]
 that hung heavy upon the daybreak of that gloomy November day. 
-Had anyone been present with the Government forces who was well
+Had anyone been present with the [[government|Government]] forces who was [[Well|well]]
 acquainted with the western valley in which they were operating,
 such a person could not have failed to notice that the very landscape
 looked different; looked new and abnormal.  Dimly as it could be
 traced through the morning twilight, the very line of the woodland
 against the sky would have shown him a new shape; a deformity like
-a hump.  But the plans had all been laid out in London long before,
-in imitation of that foresight, fixity of purpose, and final success
+a hump.  But the plans had all been laid out in [[London]] long before,
+in [[Imitation|imitation]] of that foresight, fixity of purpose, and final [[success]]
 that will always be associated with the last German Emperor. 
 It was enough for them that there was a wood of some sort marked
 on the map, and they advanced toward it, low and crouching as its
 entrance appeared to be.
 
 "Then something happened, which even those who saw it and survived
-cannot describe.  The dark trees seemed to spring up to twice
-their height as in a nightmare.  In the half-dark the whole wood
-seemed to rise from the earth like a rush of birds and then to turn
+cannot describe.  The dark trees seemed to [[Spring|spring]] up to twice
+their height as in a [[nightmare]].  In the half-dark the whole wood
+seemed to rise from the earth like a rush of [[Birds|birds]] and then to turn
 over in mid-air and come towards the invaders like a roaring wave. 
 Some such dim and dizzy sight they saw; but many of them at least saw
 little enough afterwards.  Simultaneously with the turning of this
-wheel of waving trees, rocks seemed to rain down out of heaven;
+[[Wheel|wheel]] of waving trees, rocks seemed to rain down out of heaven;
 beams and stones and shafts and missiles of all kinds, flattening out
 the advancing force as under a pavement produced by a shower of
 paving-stones. It is asserted that some of the countrymen cunning
@@ -627,14 +627,14 @@ where they are only white elephants?  Go and say to a Frenchman,
 and he will send two Parisian alienists to look at you seriously,
 like a man who says that his motor-car is a green giraffe.
 There is no point in telling Czecho-Slovakian pigs to fly,
-or Jugo-Slavonic cows to jump over the moon.  Why, the unhappy
-Lithuanian would be bewildered to the point of madness by our
+or Jugo-Slavonic cows to jump over the [[Moon|moon]].  Why, the unhappy
+Lithuanian would be bewildered to the point of [[Madness|madness]] by our
 very name.  There is no reason to suppose that he and his
 countrymen talk about a long bowman when they mean a liar.
 We talk about tall stories, but a tall story may mean a true
 story in colloquial Lithuanian."
 
-"Tall stories are true stories sometimes, I hope," said Colonel Crane,
+"Tall stories are true stories sometimes, I [[Hope|hope]]," said Colonel Crane,
 "and people don't believe 'em.  But people'll say that was a
 very tall story about the tall trees throwing darts and stones. 
 Afraid it'll come to be a bit of a joke."
@@ -646,37 +646,37 @@ linger only as faintly laughable legends, if they linger at all;
 they may pass an hour or two or fill an empty page; and even the man
 who tells them will not take them seriously.  It will all end
 in smoke like the smoke I am looking at; in eddying and topsy-turvy
-patterns hovering for a moment in the air.  And I wonder how many,
+patterns hovering for a moment in the air.  And I [[Wonder|wonder]] how many,
 who may smile or yawn over them, will realize that where there was
-smoke there was fire."
+smoke there was [[Fire|fire]]."
 
-There was a silence; then Colonel Crane stood up, a solitary figure in his
+There was a [[Silence|silence]]; then Colonel Crane stood up, a solitary figure in his
 severe and formal clothes, and gravely said farewell to his hostess. 
 With the failing afternoon light he knew that his own wife,
-who was a well-known artist, would be abandoning her studio work,
+who was a [[Well|well]]-known [[Artist|artist]], would be abandoning her studio work,
 and he always looked forward to a talk with her before dinner,
 which was often a more social function.  Nevertheless, as he
-approached his old home a whim induced him to delay the meeting
-for a few minutes and to walk round to his old kitchen garden,
+approached his old [[Home|home]] a whim induced him to delay the meeting
+for a few minutes and to walk round to his old kitchen [[Garden|garden]],
 where his old servant Archer was still leaning on a spade,
 as in the days before the Flood.
 
 So he stood for a moment amid a changing world, exactly as he
-had stood on that distant Sunday morning at the beginning of all
+had stood on that distant [[Sunday]] morning at the beginning of all
 these things.  The South Sea idol still stood at the corner;
 the scarecrow still wore the hat that he had sacrificed; the cabbages
 still looked green and solid like the cabbage he had once dug up,
 digging up so much along with it.
 
 "Queer thing," he said, "how true it is what Hilary once said about
-acting an allegory without knowing it.  Never had a notion of what I
+acting an [[Allegory|allegory]] without knowing it.  Never had a notion of what I
 was doing when I picked up a cabbage and wore it for a wager. 
 Damned awkward position, but I never dreamed I was being martyred
 for a symbol.  And the right symbol, too, for I've lived to see
-Britannia crowned with cabbage.  All very well to say Britannia
+Britannia crowned with cabbage.  All very [[Well|well]] to say Britannia
 ruled the waves; it was the land she couldn't rule, her own land,
 and it was heaving like earthquakes.  But while there's cabbage
-there's hope.  Archer, my friend, this is the moral:  any country
+there's [[Hope|hope]].  Archer, my friend, this is the moral:  any country
 that tries to do without cabbages is done for.  And even in war you
 often fight as much with cabbages as cannon-balls."
 
@@ -687,28 +687,28 @@ Colonel Crane repressed a slight shudder.  "No, thank you; no, thank you,"
 he said hastily.  Then he muttered as he turned away:  "I don't
 mind revolutions so much, but I wouldn't go through that again."
 
-And he passed swiftly round his house, of which the windows began
+And he passed swiftly round his [[house]], of which the windows began
 to show the glow of kindled lamps, and went in to his wife.
 
-Archer was left alone in the garden, tidying up after his work and shifting
+Archer was left [[Alone|alone]] in the [[Garden|garden]], tidying up after his work and shifting
 the potted shrubs; a dark and solitary figure as sunset and twilight
 sank all around the enclosure like soft curtains of grey with a border
 of purple; and the windows, as yet uncurtained and full of lamplight,
 painted patterns of gold on the lawns and flagged walks without. 
-It was perhaps appropriate that he should remain alone and apart;
-for he alone in all these changes had remained quite unchanged. 
+It was perhaps appropriate that he should remain [[Alone|alone]] and apart;
+for he [[Alone|alone]] in all these changes had remained quite unchanged. 
 It was perhaps fitting that his figure should stand in a dark outline
 against the darkening scene; for the mystery of his immutable
-respectability remains more of a riddle than all the riot of the rest. 
+respectability remains more of a [[Riddle|riddle]] than all the riot of the rest. 
 No revolution could revolutionize Mr. Archer.  Attempts had been
-made to provide so excellent a gardener with a garden of his own;
+made to provide so excellent a gardener with a [[Garden|garden]] of his own;
 with a farm of his own, in accordance with the popular policy of
 the hour.  But he would not adapt himself to the new world; nor would
 he hasten to die out, as was his duty on evolutionary principles. 
-He was merely a survival; but he showed a perplexing disposition
+He was merely a [[Survival|survival]]; but he showed a perplexing disposition
 to survive.
 
-Suddenly the lonely gardener realized that he was not alone. 
+Suddenly the lonely gardener realized that he was not [[Alone|alone]]. 
 A face had appeared above the hedge, gazing at him with blue eyes
 dreaming yet burning; a face with something of the tint and profile
 of Shelley.  It was impossible that Mr. Archer should have heard
@@ -723,20 +723,20 @@ of the Long Bow.  And yet how strange!  Are you not Archer?
 Does not your very name rise up and reproach you?  Ought you
 not to have shot more arrows or told more tarradiddles than all
 the rest?  Or is there perhaps a more elemental mystery behind
-your immobility, like that of a statue in the garden?  Are you
-indeed the god of the garden, more beautiful than this South Sea
+your immobility, like that of a statue in the [[Garden|garden]]?  Are you
+indeed the god of the [[Garden|garden]], more beautiful than this South Sea
 idol and more respectable than Priapus?  Are you in no mortal sense
-an Archer?  Are you perhaps Apollo, serving this military Admetus;
+an Archer?  Are you perhaps [[Apollo]], serving this military Admetus;
 successfully, yes, successfully, hiding your radiance from me?" 
 He paused for a reply, and then lowered his voice as he resumed: 
 "Or are you not rather that other Archer whose shafts are not
-shafts of death but of life and fruitfulness; whose arrows plant
+shafts of [[Death|death]] but of life and fruitfulness; whose arrows plant
 themselves like little flowering trees; like the little shrubs you
-are planting in this garden?  Are you he that gives the sunstroke
+are planting in this [[Garden|garden]]?  Are you he that gives the sunstroke
 not in the head but the heart; and have you stricken each of us
-in turn with the romance that has awakened us for the revolution? 
+in turn with the [[Romance|romance]] that has awakened us for the revolution? 
 For without that spirit of fruitfulness and the promise of the family,
-these visions would indeed be vain.  Are you in truth the God of Love;
+these visions would indeed be vain.  Are you in [[Truth|truth]] the God of [[Love]];
 and has your arrow stung and startled each of us into telling
 his story?  I will not call you Cupid," he said with a slight air
 of deprecation or apology, "I will not call you Cupid, Mr. Archer,
@@ -744,7 +744,7 @@ for I conceive you as no pagan deity, but rather as that image
 clarified and spiritualized to a symbol almost Christian, as he might
 have appeared to Chaucer or to Botticelli.  Nay, it was you that,
 clad in no heathen colours, but rather in mediaeval heraldry,
-blew a blast on his golden trumpet when Beatrice saluted Dante on
+blew a blast on his golden trumpet when [[Beatrice]] saluted [[Dante]] on
 the bridge.  Are you indeed that Archer, O Archer, and did you give
 each one of us his Vita Nuova?"
 
@@ -760,15 +760,15 @@ which when it ends, will explain why it ever began.  But the reader
 has long since been sleeping, after the toils and trials of his part
 in the affair; and the writer is too tactful to ask at how early
 a stage of his story-telling that generally satisfactory solution
-of all our troubles was found.  He knows not if the sleep has
-been undisturbed, or in that sleep what dreams may come, if there has
-been cast upon it any shadow of the shapes of his own very private
-and comfortable nightmare; turrets clad with the wings of morning
+of all our troubles was found.  He knows not if the [[Sleep|sleep]] has
+been undisturbed, or in that [[Sleep|sleep]] what [[Dreams|dreams]] may come, if there has
+been cast upon it any [[Shadow|shadow]] of the shapes of his own very private
+and comfortable [[nightmare]]; turrets clad with the wings of morning
 or temples marching over dim meadows as living monsters, or swine
-plumed like cherubim or forests bent like bows, or a fiery river
-winding through a dark land.  Images are in their nature indefensible,
-if they miss the imagination of another; and the foolish scribe of
-the Long Bow will not commit the last folly of defending his dreams. 
+plumed like cherubim or forests bent like bows, or a fiery [[River|river]]
+winding through a dark land.  Images are in their [[Nature|nature]] indefensible,
+if they miss the [[Imagination|imagination]] of another; and the foolish scribe of
+the Long Bow will not commit the last folly of defending his [[Dreams|dreams]]. 
 He at least has drawn a bow at a venture and shot an arrow into
 the air; and he has no intention of looking for it in oaks,
 all over the neighbourhood, or expecting to find it still sticking

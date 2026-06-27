@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Miracle of Moon Crescent (part 2)"
+title: "[[Incredulity]] — The Miracle of [[Moon]] Crescent (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -34,8 +34,8 @@ in hearty tones.
 `Mr Warren Wynd is engaged,' said Fenner; `he must not be disturbed on
 any account.  I may say I am his secretary and can take any message.'
 
-`Mr Warren Wynd is not at home to the Pope or the Crowned Heads,'
-said Vandam, the oil magnate, with sour satire.  `Mr Warren Wynd
+`Mr Warren Wynd is not at [[Home|home]] to the Pope or the Crowned Heads,'
+said Vandam, the oil magnate, with sour [[Satire|satire]].  `Mr Warren Wynd
 is mighty particular.  I went in there to hand him over a trifle
 of twenty thousand dollars on certain conditions, and, he told me
 to call again like as if I was a call--boy.'
@@ -81,14 +81,14 @@ You could just puff away their biggest men like thistledown.
 That's what we do in the new movement out home:  we breathe.
 We don't pray; we breathe.'
 
-`Well, I suppose you do,' said the secretary, wearily.  He had a keen,
+`[[Well]], I suppose you do,' said the secretary, wearily.  He had a keen,
 intelligent face which could hardly conceal the weariness; but he had
 listened to the two monologues with the admirable patience and politeness
 (so much in contrast with the legends of impatience and insolence)
-with which such monologues are listened to in America.
+with which such monologues are listened to in [[america|America]].
 
 `Nothing supernatural,' continued Alboin, `just the great natural
-fact behind all the supernatural fancies.  What did the Jews want
+fact behind all the [[Supernatural|supernatural]] fancies.  What did the Jews want
 with a God except to breathe into man's nostrils the breath of life?
 We do the breathing into our own nostrils out in Oklahoma.
 What's the meaning of the very word Spirit?  It's just the Greek

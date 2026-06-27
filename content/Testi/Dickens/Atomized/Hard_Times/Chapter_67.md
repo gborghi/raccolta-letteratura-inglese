@@ -20,18 +20,18 @@ DOWN
 
 THE national dustmen, after entertaining one another with a great many
 noisy little fights among themselves, had dispersed for the present, and
-Mr. Gradgrind was at home for the vacation.
+Mr. Gradgrind was at [[Home|home]] for the vacation.
 
-He sat writing in the room with the deadly statistical clock, proving
-something no doubt—probably, in the main, that the Good Samaritan was a
+He sat writing in the room with the deadly statistical [[Clock|clock]], proving
+something no [[Doubt|doubt]]—probably, in the main, that the Good Samaritan was a
 Bad Economist.  The noise of the rain did not disturb him much; but it
 attracted his attention sufficiently to make him raise his head
 sometimes, as if he were rather remonstrating with the elements.  When it
 thundered very loudly, he glanced towards Coketown, having it in his mind
-that some of the tall chimneys might be struck by lightning.
+that some of the tall chimneys might be struck by [[Lightning|lightning]].
 
-The thunder was rolling into distance, and the rain was pouring down like
-a deluge, when the door of his room opened.  He looked round the lamp
+The thunder was [[rolling]] into distance, and the rain was pouring down like
+a [[deluge]], when the door of his room opened.  He looked round the lamp
 upon his table, and saw, with amazement, his eldest daughter.
 
 ‘Louisa!’
@@ -40,7 +40,7 @@ upon his table, and saw, with amazement, his eldest daughter.
 
 ‘What is the matter?  How strange you look!  And good Heaven,’ said Mr.
 Gradgrind, wondering more and more, ‘have you come here exposed to this
-storm?’
+[[Storm|storm]]?’
 
 She put her hands to her dress, as if she hardly knew.  ‘Yes.’  Then she
 uncovered her head, and letting her cloak and hood fall where they might,
@@ -57,20 +57,20 @@ She dropped into a chair before him, and put her cold hand on his arm.
 
 ‘I curse the hour in which I was born to such a destiny.’
 
-He looked at her in doubt and dread, vacantly repeating: ‘Curse the hour?
+He looked at her in [[Doubt|doubt]] and dread, vacantly repeating: ‘Curse the hour?
 Curse the hour?’
 
 ‘How could you give me life, and take from me all the inappreciable
-things that raise it from the state of conscious death?  Where are the
-graces of my soul?  Where are the sentiments of my heart?  What have you
-done, O father, what have you done, with the garden that should have
+things that raise it from the state of conscious [[Death|death]]?  Where are the
+graces of my [[Soul|soul]]?  Where are the sentiments of my heart?  What have you
+done, O father, what have you done, with the [[Garden|garden]] that should have
 bloomed once, in this great wilderness here!’
 
 She struck herself with both her hands upon her bosom.
 
-‘If it had ever been here, its ashes alone would save me from the void in
+‘If it had ever been here, its ashes [[Alone|alone]] would save me from the void in
 which my whole life sinks.  I did not mean to say this; but, father, you
-remember the last time we conversed in this room?’
+remember the last [[Time|time]] we conversed in this room?’
 
 He had been so wholly unprepared for what he heard now, that it was with
 difficulty he answered, ‘Yes, Louisa.’
@@ -93,15 +93,15 @@ all the calculations ever made by man, and no more known to his
 arithmetic than his Creator is,—would you have given me to the husband
 whom I am now sure that I hate?’
 
-He said, ‘No.  No, my poor child.’
+He said, ‘No.  No, my poor [[Child|child]].’
 
-‘Would you have doomed me, at any time, to the frost and blight that have
+‘Would you have doomed me, at any [[Time|time]], to the [[Frost|frost]] and blight that have
 hardened and spoiled me?  Would you have robbed me—for no one’s
 enrichment—only for the greater desolation of this world—of the
-immaterial part of my life, the spring and summer of my belief, my refuge
+immaterial part of my life, the [[spring]] and [[Summer|summer]] of my belief, my refuge
 from what is sordid and bad in the real things around me, my school in
 which I should have learned to be more humble and more trusting with
-them, and to hope in my little sphere to make them better?’
+them, and to [[Hope|hope]] in my little sphere to make them better?’
 
 ‘O no, no.  No, Louisa.’
 
@@ -109,7 +109,7 @@ them, and to hope in my little sphere to make them better?’
 sense of touch, and had been free, while I knew the shapes and surfaces
 of things, to exercise my fancy somewhat, in regard to them; I should
 have been a million times wiser, happier, more loving, more contented,
-more innocent and human in all good respects, than I am with the eyes I
+more [[Innocent|innocent]] and human in all good respects, than I am with the eyes I
 have.  Now, hear what I have come to say.’
 
 He moved, to support her with his arm.  She rising as he did so, they
@@ -121,43 +121,43 @@ moment appeased; with an ardent impulse towards some region where rules,
 and figures, and definitions were not quite absolute; I have grown up,
 battling every inch of my way.’
 
-‘I never knew you were unhappy, my child.’
+‘I never knew you were unhappy, my [[Child|child]].’
 
 ‘Father, I always knew it.  In this strife I have almost repulsed and
 crushed my better angel into a demon.  What I have learned has left me
 doubting, misbelieving, despising, regretting, what I have not learned;
 and my dismal resource has been to think that life would soon go by, and
-that nothing in it could be worth the pain and trouble of a contest.’
+that nothing in it could be worth the [[Pain|pain]] and trouble of a contest.’
 
 ‘And you so young, Louisa!’ he said with pity.
 
 ‘And I so young.  In this condition, father—for I show you now, without
-fear or favour, the ordinary deadened state of my mind as I know it—you
+[[Fear|fear]] or favour, the ordinary deadened state of my mind as I know it—you
 proposed my husband to me.  I took him.  I never made a pretence to him
 or you that I loved him.  I knew, and, father, you knew, and he knew,
-that I never did.  I was not wholly indifferent, for I had a hope of
+that I never did.  I was not wholly indifferent, for I had a [[Hope|hope]] of
 being pleasant and useful to Tom.  I made that wild escape into something
 visionary, and have slowly found out how wild it was.  But Tom had been
 the subject of all the little tenderness of my life; perhaps he became so
-because I knew so well how to pity him.  It matters little now, except as
+because I knew so [[Well|well]] how to pity him.  It matters little now, except as
 it may dispose you to think more leniently of his errors.’
 
 As her father held her in his arms, she put her other hand upon his other
 shoulder, and still looking fixedly in his face, went on.
 
-‘When I was irrevocably married, there rose up into rebellion against the
+‘When I was irrevocably married, there [[Rose|rose]] up into rebellion against the
 tie, the old strife, made fiercer by all those causes of disparity which
 arise out of our two individual natures, and which no general laws shall
 ever rule or state for me, father, until they shall be able to direct the
-anatomist where to strike his knife into the secrets of my soul.’
+anatomist where to strike his knife into the [[Secrets|secrets]] of my [[Soul|soul]].’
 
-‘Louisa!’ he said, and said imploringly; for he well remembered what had
+‘Louisa!’ he said, and said imploringly; for he [[Well|well]] remembered what had
 passed between them in their former interview.
 
 ‘I do not reproach you, father, I make no complaint.  I am here with
 another object.’
 
-‘What can I do, child?  Ask me what you will.’
+‘What can I do, [[Child|child]]?  Ask me what you will.’
 
 ‘I am coming to it.  Father, chance then threw into my way a new
 acquaintance; a man such as I had had no experience of; used to the
@@ -172,17 +172,17 @@ to care so much for me.’
 ‘For you, Louisa!’
 
 Her father might instinctively have loosened his hold, but that he felt
-her strength departing from her, and saw a wild dilating fire in the eyes
+her strength departing from her, and saw a wild dilating [[Fire|fire]] in the eyes
 steadfastly regarding him.
 
 ‘I say nothing of his plea for claiming my confidence.  It matters very
 little how he gained it.  Father, he did gain it.  What you know of the
-story of my marriage, he soon knew, just as well.’
+story of my [[Marriage|marriage]], he soon knew, just as [[Well|well]].’
 
 Her father’s face was ashy white, and he held her in both his arms.
 
 ‘I have done no worse, I have not disgraced you.  But if you ask me
-whether I have loved him, or do love him, I tell you plainly, father,
+whether I have loved him, or do [[Love|love]] him, I tell you plainly, father,
 that it may be so.  I don’t know.’
 
 She took her hands suddenly from his shoulders, and pressed them both
@@ -190,17 +190,17 @@ upon her side; while in her face, not like itself—and in her figure,
 drawn up, resolute to finish by a last effort what she had to say—the
 feelings long suppressed broke loose.
 
-‘This night, my husband being away, he has been with me, declaring
-himself my lover.  This minute he expects me, for I could release myself
+‘This [[Night|night]], my husband being away, he has been with me, declaring
+himself my [[Lover|lover]].  This minute he expects me, for I could release myself
 of his presence by no other means.  I do not know that I am sorry, I do
 not know that I am ashamed, I do not know that I am degraded in my own
-esteem.  All that I know is, your philosophy and your teaching will not
+esteem.  All that I know is, your [[philosophy]] and your teaching will not
 save me.  Now, father, you have brought me to this.  Save me by some
 other means!’
 
-He tightened his hold in time to prevent her sinking on the floor, but
+He tightened his hold in [[Time|time]] to prevent her sinking on the floor, but
 she cried out in a terrible voice, ‘I shall die if you hold me!  Let me
-fall upon the ground!’  And he laid her down there, and saw the pride of
+fall upon the ground!’  And he laid her down there, and saw the [[Pride|pride]] of
 his heart and the triumph of his system, lying, an insensible heap, at
 his feet.
 

@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 21: LITTLE EM’LY (part 6)"
+title: "[[David Copperfield]] — Chapter 21: LITTLE EM’LY (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -22,8 +22,8 @@ good as look arter her, Mawther, for a minute?’
 
 Mrs. Gummidge nodded and disappeared.
 
-‘If this ain’t,’ said Mr. Peggotty, sitting down among us by the fire,
-‘the brightest night o’ my life, I’m a shellfish--biled too--and more I
+‘If this ain’t,’ said Mr. Peggotty, sitting down among us by the [[Fire|fire]],
+‘the brightest [[Night|night]] o’ my life, I’m a shellfish--biled too--and more I
 can’t say. This here little Em’ly, sir,’ in a low voice to Steerforth,
 ‘--her as you see a blushing here just now--’
 
@@ -37,15 +37,15 @@ sir.’
 Ham nodded to me several times, as if he would have said so too.
 
 ‘This here little Em’ly of ours,’ said Mr. Peggotty, ‘has been, in our
-house, what I suppose (I’m a ignorant man, but that’s my belief) no one
-but a little bright-eyed creetur can be in a house. She ain’t my
-child; I never had one; but I couldn’t love her more. You understand! I
+[[house]], what I suppose (I’m a ignorant man, but that’s my belief) no one
+but a little bright-eyed creetur can be in a [[house]]. She ain’t my
+[[Child|child]]; I never had one; but I couldn’t [[Love|love]] her more. You understand! I
 couldn’t do it!’
 
 ‘I quite understand,’ said Steerforth.
 
 ‘I know you do, sir,’ returned Mr. Peggotty, ‘and thankee again. Mas’r
-Davy, he can remember what she was; you may judge for your own self what
+Davy, he can remember what she was; you may judge for your own [[Self|self]] what
 she is; but neither of you can’t fully know what she has been, is, and
 will be, to my loving art. I am rough, sir,’ said Mr. Peggotty, ‘I am as
 rough as a Sea Porkypine; but no one, unless, mayhap, it is a woman, can
@@ -55,7 +55,7 @@ neither, though she has a world of merits.’ Mr. Peggotty ruffled his
 hair again, with both hands, as a further preparation for what he was
 going to say, and went on, with a hand upon each of his knees:
 
-‘There was a certain person as had know’d our Em’ly, from the time when
+‘There was a certain person as had know’d our Em’ly, from the [[Time|time]] when
 her father was drownded; as had seen her constant; when a babby, when
 a young gal, when a woman. Not much of a person to look at, he warn’t,’
 said Mr. Peggotty, ‘something o’ my own build--rough--a good deal o’
@@ -66,7 +66,7 @@ I thought I had never seen Ham grin to anything like the extent to which
 he sat grinning at us now.
 
 ‘What does this here blessed tarpaulin go and do,’ said Mr. Peggotty,
-with his face one high noon of enjoyment, ‘but he loses that there art
+with his face one high [[Noon|noon]] of enjoyment, ‘but he loses that there art
 of his to our little Em’ly. He follers her about, he makes hisself a
 sort o’ servant to her, he loses in a great measure his relish for his
 wittles, and in the long-run he makes it clear to me wot’s amiss. Now I
@@ -74,17 +74,17 @@ could wish myself, you see, that our little Em’ly was in a fair way of
 being married. I could wish to see her, at all ewents, under articles to
 a honest man as had a right to defend her. I don’t know how long I may
 live, or how soon I may die; but I know that if I was capsized, any
-night, in a gale of wind in Yarmouth Roads here, and was to see the
-town-lights shining for the last time over the rollers as I couldn’t
+[[Night|night]], in a gale of [[Wind|wind]] in Yarmouth Roads here, and was to see the
+town-lights shining for the last [[Time|time]] over the rollers as I couldn’t
 make no head against, I could go down quieter for thinking “There’s a
 man ashore there, iron-true to my little Em’ly, God bless her, and no
 wrong can touch my Em’ly while so be as that man lives.”’
 
 Mr. Peggotty, in simple earnestness, waved his right arm, as if he were
-waving it at the town-lights for the last time, and then, exchanging a
+waving it at the town-lights for the last [[Time|time]], and then, exchanging a
 nod with Ham, whose eye he caught, proceeded as before.
 
-‘Well! I counsels him to speak to Em’ly. He’s big enough, but he’s
+‘[[Well]]! I counsels him to speak to Em’ly. He’s big enough, but he’s
 bashfuller than a little un, and he don’t like. So I speak. “What! Him!”
  says Em’ly. “Him that I’ve know’d so intimate so many years, and like so
 much. Oh, Uncle! I never can have him. He’s such a good fellow!” I gives
@@ -94,7 +94,7 @@ bird.” Then I aways to him, and I says, “I wish it could have been so,
 but it can’t. But you can both be as you was, and wot I say to you is,
 Be as you was with her, like a man.” He says to me, a-shaking of my
 hand, “I will!” he says. And he was--honourable and manful--for two year
-going on, and we was just the same at home here as afore.’
+going on, and we was just the same at [[Home|home]] here as afore.’
 
 Mr. Peggotty’s face, which had varied in its expression with the various
 stages of his narrative, now resumed all its former triumphant delight,
@@ -109,17 +109,17 @@ dark, and indeed afore dark, and at all times. But this tarpaulin chap,
 he takes hold of her hand, and he cries out to me, joyful, “Look here!
 This is to be my little wife!” And she says, half bold and half shy, and
 half a laughing and half a crying, “Yes, Uncle! If you please.”--If I
-please!’ cried Mr. Peggotty, rolling his head in an ecstasy at the idea;
+please!’ cried Mr. Peggotty, [[rolling]] his head in an ecstasy at the idea;
 ‘Lord, as if I should do anythink else!--“If you please, I am steadier
 now, and I have thought better of it, and I’ll be as good a little wife
 as I can to him, for he’s a dear, good fellow!” Then Missis Gummidge,
 she claps her hands like a play, and you come in. Theer! the murder’s
 out!’ said Mr. Peggotty--‘You come in! It took place this here present
 hour; and here’s the man that’ll marry her, the minute she’s out of her
-time.’
+[[Time|time]].’
 
-Ham staggered, as well he might, under the blow Mr. Peggotty dealt
-him in his unbounded joy, as a mark of confidence and friendship; but
+Ham staggered, as [[Well|well]] he might, under the blow Mr. Peggotty dealt
+him in his unbounded joy, as a mark of confidence and [[Friendship|friendship]]; but
 feeling called upon to say something to us, he said, with much faltering
 and great difficulty:
 
@@ -128,7 +128,7 @@ come--when I thought what she’d grow up to be. I see her grown
 up--gent’lmen--like a flower. I’d lay down my life for
 her--Mas’r Davy--Oh! most content and cheerful! She’s more to
 me--gent’lmen--than--she’s all to me that ever I can want, and more
-than ever I--than ever I could say. I--I love her true. There ain’t a
+than ever I--than ever I could say. I--I [[Love|love]] her true. There ain’t a
 gent’lman in all the land--nor yet sailing upon all the sea--that
-can love his lady more than I love her, though there’s many a common
+can [[Love|love]] his lady more than I [[Love|love]] her, though there’s many a common
 man--would say better--what he meant.’

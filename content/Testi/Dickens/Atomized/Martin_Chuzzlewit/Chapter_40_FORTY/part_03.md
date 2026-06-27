@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 40: FORTY (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 40: FORTY (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,24 +14,24 @@ tags:
 </nav>
 
 
-Tom’s ship, however; or, at least, the packet-boat in which Tom and his
+Tom’s [[Ship|ship]], however; or, at least, the packet-boat in which Tom and his
 sister took the greatest interest on one particular occasion; was not
 off yet, by any means; but was at the height of its disorder. The press
 of passengers was very great; another steam-boat lay on each side of
 her; the gangways were choked up; distracted women, obviously bound
 for Gravesend, but turning a deaf ear to all representations that this
 particular vessel was about to sail for Antwerp, persisted in secreting
-baskets of refreshments behind bulk-heads, and water-casks, and under
+baskets of refreshments behind bulk-heads, and [[Water|water]]-casks, and under
 seats; and very great confusion prevailed.
 
 It was so amusing, that Tom, with Ruth upon his arm, stood looking down
-from the wharf, as nearly regardless as it was in the nature of flesh
-and blood to be, of an elderly lady behind him, who had brought a large
+from the wharf, as nearly regardless as it was in the [[Nature|nature]] of flesh
+and [[Blood|blood]] to be, of an elderly lady behind him, who had brought a large
 umbrella with her, and didn’t know what to do with it. This tremendous
 instrument had a hooked handle; and its vicinity was first made known
 to him by a painful pressure on the windpipe, consequent upon its having
 caught him round the throat. Soon after disengaging himself with perfect
-good humour, he had a sensation of the ferule in his back; immediately
+good [[Humour|humour]], he had a sensation of the ferule in his back; immediately
 afterwards, of the hook entangling his ankles; then of the umbrella
 generally, wandering about his hat, and flapping at it like a great
 bird; and, lastly, of a poke or thrust below the ribs, which give him
@@ -54,7 +54,7 @@ wanted, she’d have given him in charge, she would.
 they’re paid so heavy for, a little more,’ she observed, ‘no one needn’t
 be drove mad by scrouding so!’
 
-She had been grievously knocked about, no doubt, for her bonnet was bent
+She had been grievously knocked about, no [[Doubt|doubt]], for her bonnet was bent
 into the shape of a cocked hat. Being a fat little woman, too, she was
 in a state of great exhaustion and intense heat. Instead of pursuing the
 altercation, therefore, Tom civilly inquired what boat she wanted to go
@@ -71,19 +71,19 @@ you if we can. Don’t be so ill-tempered.’
 lady, somewhat softened, ‘and they’re a many in their numbers, ever
 brought it as a charge again myself that I was anythin’ but mild and
 equal in my spirits. Never mind a contradicting of me, if you seem
-to feel it does you good, ma’am, I often says, for well you know that
+to feel it does you good, ma’am, I often says, for [[Well|well]] you know that
 Sairey may be trusted not to give it back again. But I will not denige
 that I am worrited and wexed this day, and with good reagion, Lord
 forbid!’
 
-By this time, Mrs Gamp (for it was no other than that experienced
+By this [[Time|time]], Mrs Gamp (for it was no other than that experienced
 practitioner) had, with Tom’s assistance, squeezed and worked herself
 into a small corner between Ruth and the rail; where, after breathing
-very hard for some little time, and performing a short series of
+very hard for some little [[Time|time]], and performing a short series of
 dangerous evolutions with her umbrella, she managed to establish herself
 pretty comfortably.
 
-‘And which of all them smoking monsters is the Ankworks boat, I wonder.
+‘And which of all them smoking monsters is the Ankworks boat, I [[Wonder|wonder]].
 Goodness me!’ cried Mrs Gamp.
 
 ‘What boat did you want?’ asked Ruth.
@@ -94,18 +94,18 @@ sweet. Why should I?’
 ‘That is the Antwerp packet in the middle,’ said Ruth.
 
 ‘And I wish it was in Jonadge’s belly, I do,’ cried Mrs Gamp; appearing
-to confound the prophet with the whale in this miraculous aspiration.
+to confound the [[Prophet|prophet]] with the whale in this miraculous [[Aspiration|aspiration]].
 
 Ruth said nothing in reply; but, as Mrs Gamp, laying her chin against
 the cool iron of the rail, continued to look intently at the Antwerp
 boat, and every now and then to give a little groan, she inquired
-whether any child of hers was going aboard that morning? Or perhaps her
+whether any [[Child|child]] of hers was going aboard that morning? Or perhaps her
 husband, she said kindly.
 
 ‘Which shows,’ said Mrs Gamp, casting up her eyes, ‘what a little way
 you’ve travelled into this wale of life, my dear young creetur! As a
 good friend of mine has frequent made remark to me, which her name,
-my love, is Harris, Mrs Harris through the square and up the steps
+my [[Love|love]], is Harris, Mrs Harris through the square and up the steps
 a-turnin’ round by the tobacker shop, “Oh Sairey, Sairey, little do we
 know wot lays afore us!” “Mrs Harris, ma’am,” I says, “not much, it’s
 true, but more than you suppoge. Our calcilations, ma’am,” I says,
@@ -118,7 +118,7 @@ on their lungs, and one was turned up smilin’ in a bedstead unbeknown.
 Therefore, ma’am,” I says, “seek not to proticipate, but take ‘em as
 they come and as they go.” Mine,’ says Mrs Gamp, ‘mine is all gone, my
 dear young chick. And as to husbands, there’s a wooden leg gone likeways
-home to its account, which in its constancy of walkin’ into wine vaults,
+[[Home|home]] to its account, which in its constancy of walkin’ into wine vaults,
 and never comin’ out again ‘till fetched by force, was quite as weak as
 flesh, if not weaker.’
 

@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM HOUSE"
+title: "[[David Copperfield]] — Chapter 7: MY ‘FIRST HALF’ AT SALEM [[house|HOUSE]]"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-CHAPTER 7. MY ‘FIRST HALF’ AT SALEM HOUSE
+CHAPTER 7. MY ‘FIRST HALF’ AT SALEM [[house|HOUSE]]
 
 
 School began in earnest next day. A profound impression was made
 upon me, I remember, by the roar of voices in the schoolroom suddenly
-becoming hushed as death when Mr. Creakle entered after breakfast, and
+becoming hushed as [[Death|death]] when Mr. Creakle entered after breakfast, and
 stood in the doorway looking round upon us like a giant in a story-book
 surveying his captives.
 
 Tungay stood at Mr. Creakle’s elbow. He had no occasion, I thought,
-to cry out ‘Silence!’ so ferociously, for the boys were all struck
+to cry out ‘[[Silence]]!’ so ferociously, for the boys were all struck
 speechless and motionless.
 
 Mr. Creakle was seen to speak, and Tungay was heard, to this effect.
@@ -39,10 +39,10 @@ When this dreadful exordium was over, and Tungay had stumped out again,
 Mr. Creakle came to where I sat, and told me that if I were famous for
 biting, he was famous for biting, too. He then showed me the cane, and
 asked me what I thought of THAT, for a tooth? Was it a sharp tooth, hey?
-Was it a double tooth, hey? Had it a deep prong, hey? Did it bite, hey?
+Was it a [[Double|double]] tooth, hey? Had it a deep prong, hey? Did it bite, hey?
 Did it bite? At every question he gave me a fleshy cut with it that made
-me writhe; so I was very soon made free of Salem House (as Steerforth
-said), and was very soon in tears also.
+me writhe; so I was very soon made free of Salem [[house|House]] (as Steerforth
+said), and was very soon in [[Tears|tears]] also.
 
 Not that I mean to say these were special marks of distinction,
 which only I received. On the contrary, a large majority of the boys
@@ -59,7 +59,7 @@ confident that he couldn’t resist a chubby boy, especially; that there
 was a fascination in such a subject, which made him restless in his
 mind, until he had scored and marked him for the day. I was chubby
 myself, and ought to know. I am sure when I think of the fellow now, my
-blood rises against him with the disinterested indignation I should
+[[Blood|blood]] rises against him with the disinterested indignation I should
 feel if I could have known all about him without having ever been in his
 power; but it rises hotly, because I know him to have been an incapable
 brute, who had no more right to be possessed of the great trust he held,
@@ -76,7 +76,7 @@ as he rules a ciphering-book for another victim whose hands have just
 been flattened by that identical ruler, and who is trying to wipe the
 sting out with a pocket-handkerchief. I have plenty to do. I don’t watch
 his eye in idleness, but because I am morbidly attracted to it, in a
-dread desire to know what he will do next, and whether it will be my
+dread [[Desire|desire]] to know what he will do next, and whether it will be my
 turn to suffer, or somebody else’s. A lane of small boys beyond me, with
 the same interest in his eye, watch it too. I think he knows it,
 though he pretends he don’t. He makes dreadful mouths as he rules the
@@ -85,26 +85,26 @@ all droop over our books and tremble. A moment afterwards we are again
 eyeing him. An unhappy culprit, found guilty of imperfect exercise,
 approaches at his command. The culprit falters excuses, and professes a
 determination to do better tomorrow. Mr. Creakle cuts a joke before he
-beats him, and we laugh at it,--miserable little dogs, we laugh, with
+beats him, and we laugh at it,--miserable little [[dogs]], we laugh, with
 our visages as white as ashes, and our hearts sinking into our boots.
 
-Here I sit at the desk again, on a drowsy summer afternoon. A buzz and
+Here I sit at the desk again, on a drowsy [[Summer|summer]] afternoon. A buzz and
 hum go up around me, as if the boys were so many bluebottles. A cloggy
 sensation of the lukewarm fat of meat is upon me (we dined an hour or
 two ago), and my head is as heavy as so much lead. I would give the
-world to go to sleep. I sit with my eye on Mr. Creakle, blinking at him
-like a young owl; when sleep overpowers me for a minute, he still looms
+world to go to [[Sleep|sleep]]. I sit with my eye on Mr. Creakle, blinking at him
+like a young owl; when [[Sleep|sleep]] overpowers me for a minute, he still looms
 through my slumber, ruling those ciphering-books, until he softly comes
 behind me and wakes me to plainer perception of him, with a red ridge
 across my back.
 
 Here I am in the playground, with my eye still fascinated by him, though
-I can’t see him. The window at a little distance from which I know he is
+I can’t see him. The [[Window|window]] at a little distance from which I know he is
 having his dinner, stands for him, and I eye that instead. If he shows
 his face near it, mine assumes an imploring and submissive expression.
 If he looks out through the glass, the boldest boy (Steerforth excepted)
 stops in the middle of a shout or yell, and becomes contemplative. One
-day, Traddles (the most unfortunate boy in the world) breaks that window
+day, Traddles (the most unfortunate boy in the world) breaks that [[Window|window]]
 accidentally, with a ball. I shudder at this moment with the tremendous
 sensation of seeing it done, and feeling that the ball has bounded on to
 Mr. Creakle’s sacred head.
@@ -117,9 +117,9 @@ only ruler’d on both hands--and was always going to write to his uncle
 about it, and never did. After laying his head on the desk for a little
 while, he would cheer up, somehow, begin to laugh again, and draw
 skeletons all over his slate, before his eyes were dry. I used at first
-to wonder what comfort Traddles found in drawing skeletons; and for some
-time looked upon him as a sort of hermit, who reminded himself by those
-symbols of mortality that caning couldn’t last for ever. But I believe
+to [[Wonder|wonder]] what comfort Traddles found in drawing skeletons; and for some
+[[Time|time]] looked upon him as a sort of hermit, who reminded himself by those
+symbols of [[Mortality|mortality]] that caning couldn’t last for ever. But I believe
 he only did it because they were easy, and didn’t want any features.
 
 He was very honourable, Traddles was, and held it as a solemn duty
@@ -137,13 +137,13 @@ and nothing like so old) to have won such a recompense.
 
 To see Steerforth walk to church before us, arm-in-arm with Miss
 Creakle, was one of the great sights of my life. I didn’t think Miss
-Creakle equal to little Em’ly in point of beauty, and I didn’t love
+Creakle equal to little Em’ly in point of [[Beauty|beauty]], and I didn’t [[Love|love]]
 her (I didn’t dare); but I thought her a young lady of extraordinary
 attractions, and in point of gentility not to be surpassed. When
 Steerforth, in white trousers, carried her parasol for her, I felt proud
 to know him; and believed that she could not choose but adore him with
 all her heart. Mr. Sharp and Mr. Mell were both notable personages in my
-eyes; but Steerforth was to them what the sun was to two stars.
+eyes; but Steerforth was to them what the sun was to two [[Stars|stars]].
 
 Steerforth continued his protection of me, and proved a very useful
 friend; since nobody dared to annoy one whom he honoured with his
@@ -158,12 +158,12 @@ which I sat, and wanted to make a cut at me in passing; for this reason
 it was soon taken off, and I saw it no more.
 
 An accidental circumstance cemented the intimacy between Steerforth
-and me, in a manner that inspired me with great pride and satisfaction,
+and me, in a manner that inspired me with great [[Pride|pride]] and satisfaction,
 though it sometimes led to inconvenience. It happened on one occasion,
-when he was doing me the honour of talking to me in the playground, that
+when he was doing me the [[Honour|honour]] of talking to me in the playground, that
 I hazarded the observation that something or somebody--I forget what
 now--was like something or somebody in Peregrine Pickle. He said nothing
-at the time; but when I was going to bed at night, asked me if I had got
+at the [[Time|time]]; but when I was going to bed at [[Night|night]], asked me if I had got
 that book?
 
 I told him no, and explained how it was that I had read it, and all
@@ -171,11 +171,11 @@ those other books of which I have made mention.
 
 ‘And do you recollect them?’ Steerforth said.
 
-‘Oh yes,’ I replied; I had a good memory, and I believed I recollected
-them very well.
+‘Oh yes,’ I replied; I had a good [[Memory|memory]], and I believed I recollected
+them very [[Well|well]].
 
 ‘Then I tell you what, young Copperfield,’ said Steerforth, ‘you
-shall tell ‘em to me. I can’t get to sleep very early at night, and I
+shall tell ‘em to me. I can’t get to [[Sleep|sleep]] very early at [[Night|night]], and I
 generally wake rather early in the morning. We’ll go over ‘em one after
 another. We’ll make some regular Arabian Nights of it.’
 
@@ -183,11 +183,11 @@ I felt extremely flattered by this arrangement, and we commenced
 carrying it into execution that very evening. What ravages I committed
 on my favourite authors in the course of my interpretation of them, I am
 not in a condition to say, and should be very unwilling to know; but
-I had a profound faith in them, and I had, to the best of my belief,
+I had a profound [[Faith|faith]] in them, and I had, to the best of my belief,
 a simple, earnest manner of narrating what I did narrate; and these
 qualities went a long way.
 
-The drawback was, that I was often sleepy at night, or out of spirits
+The drawback was, that I was often sleepy at [[Night|night]], or out of spirits
 and indisposed to resume the story; and then it was rather hard work,
 and it must be done; for to disappoint or to displease Steerforth was of
 course out of the question. In the morning, too, when I felt weary, and
@@ -197,7 +197,7 @@ long story before the getting-up bell rang; but Steerforth was resolute;
 and as he explained to me, in return, my sums and exercises, and
 anything in my tasks that was too hard for me, I was no loser by the
 transaction. Let me do myself justice, however. I was moved by no
-interested or selfish motive, nor was I moved by fear of him. I admired
+interested or selfish motive, nor was I moved by [[Fear|fear]] of him. I admired
 and loved him, and his approval was return enough. It was so precious to
 me that I look back on these trifles, now, with an aching heart.
 
@@ -223,16 +223,16 @@ kind as to squeeze orange juice into it, or to stir it up with ginger,
 or dissolve a peppermint drop in it; and although I cannot assert that
 the flavour was improved by these experiments, or that it was exactly
 the compound one would have chosen for a stomachic, the last thing at
-night and the first thing in the morning, I drank it gratefully and was
+[[Night|night]] and the first thing in the morning, I drank it gratefully and was
 very sensible of his attention.
 
 We seem, to me, to have been months over Peregrine, and months more over
 the other stories. The institution never flagged for want of a story, I
-am certain; and the wine lasted out almost as well as the matter. Poor
+am certain; and the wine lasted out almost as [[Well|well]] as the matter. Poor
 Traddles--I never think of that boy but with a strange disposition to
-laugh, and with tears in my eyes--was a sort of chorus, in general;
+laugh, and with [[Tears|tears]] in my eyes--was a sort of [[Chorus|chorus]], in general;
 and affected to be convulsed with mirth at the comic parts, and to be
-overcome with fear when there was any passage of an alarming character
+overcome with [[Fear|fear]] when there was any passage of an alarming character
 in the narrative. This rather put me out, very often. It was a great
 jest of his, I recollect, to pretend that he couldn’t keep his teeth
 from chattering, whenever mention was made of an Alguazill in connexion
@@ -252,37 +252,37 @@ be much learnt. I believe our boys were, generally, as ignorant a set
 as any schoolboys in existence; they were too much troubled and knocked
 about to learn; they could no more do that to advantage, than any one
 can do anything to advantage in a life of constant misfortune, torment,
-and worry. But my little vanity, and Steerforth’s help, urged me on
+and worry. But my little [[Vanity|vanity]], and Steerforth’s help, urged me on
 somehow; and without saving me from much, if anything, in the way of
-punishment, made me, for the time I was there, an exception to the
-general body, insomuch that I did steadily pick up some crumbs of
+punishment, made me, for the [[Time|time]] I was there, an exception to the
+general [[Body|body]], insomuch that I did steadily pick up some crumbs of
 knowledge.
 
 In this I was much assisted by Mr. Mell, who had a liking for me that
-I am grateful to remember. It always gave me pain to observe that
+I am grateful to remember. It always gave me [[Pain|pain]] to observe that
 Steerforth treated him with systematic disparagement, and seldom lost
 an occasion of wounding his feelings, or inducing others to do so.
-This troubled me the more for a long time, because I had soon told
+This troubled me the more for a long [[Time|time]], because I had soon told
 Steerforth, from whom I could no more keep such a secret, than I could
 keep a cake or any other tangible possession, about the two old women
 Mr. Mell had taken me to see; and I was always afraid that Steerforth
 would let it out, and twit him with it.
 
 We little thought, any one of us, I dare say, when I ate my breakfast
-that first morning, and went to sleep under the shadow of the peacock’s
+that first morning, and went to [[Sleep|sleep]] under the [[Shadow|shadow]] of the peacock’s
 feathers to the sound of the flute, what consequences would come of the
 introduction into those alms-houses of my insignificant person. But the
 visit had its unforeseen consequences; and of a serious sort, too, in
 their way.
 
-One day when Mr. Creakle kept the house from indisposition, which
+One day when Mr. Creakle kept the [[house]] from indisposition, which
 naturally diffused a lively joy through the school, there was a good
 deal of noise in the course of the morning’s work. The great relief and
 satisfaction experienced by the boys made them difficult to manage; and
 though the dreaded Tungay brought his wooden leg in twice or thrice, and
 took notes of the principal offenders’ names, no great impression was
 made by it, as they were pretty sure of getting into trouble tomorrow,
-do what they would, and thought it wise, no doubt, to enjoy themselves
+do what they would, and thought it wise, no [[Doubt|doubt]], to enjoy themselves
 today.
 
 It was, properly, a half-holiday; being Saturday. But as the noise in
@@ -294,18 +294,18 @@ get his wig curled; so Mr. Mell, who always did the drudgery, whatever
 it was, kept school by himself. If I could associate the idea of a bull
 or a bear with anyone so mild as Mr. Mell, I should think of him, in
 connexion with that afternoon when the uproar was at its height, as of
-one of those animals, baited by a thousand dogs. I recall him bending
+one of those [[Animals|animals]], baited by a thousand [[dogs]]. I recall him bending
 his aching head, supported on his bony hand, over the book on his desk,
 and wretchedly endeavouring to get on with his tiresome work, amidst an
-uproar that might have made the Speaker of the House of Commons giddy.
+uproar that might have made the Speaker of the [[house|House]] of Commons giddy.
 Boys started in and out of their places, playing at puss in the corner
 with other boys; there were laughing boys, singing boys, talking boys,
 dancing boys, howling boys; boys shuffled with their feet, boys whirled
 about him, grinning, making faces, mimicking him behind his back and
-before his eyes; mimicking his poverty, his boots, his coat, his mother,
+before his eyes; mimicking his [[Poverty|poverty]], his boots, his coat, his mother,
 everything belonging to him that they should have had consideration for.
 
-‘Silence!’ cried Mr. Mell, suddenly rising up, and striking his desk
+‘[[Silence]]!’ cried Mr. Mell, suddenly rising up, and striking his desk
 with the book. ‘What does this mean! It’s impossible to bear it. It’s
 maddening. How can you do it to me, boys?’
 
@@ -313,14 +313,14 @@ It was my book that he struck his desk with; and as I stood beside him,
 following his eye as it glanced round the room, I saw the boys all stop,
 some suddenly surprised, some half afraid, and some sorry perhaps.
 
-Steerforth’s place was at the bottom of the school, at the opposite end
+Steerforth’s place was at the [[Bottom|bottom]] of the school, at the opposite end
 of the long room. He was lounging with his back against the wall, and
 his hands in his pockets, and looked at Mr. Mell with his mouth shut up
 as if he were whistling, when Mr. Mell looked at him.
 
-‘Silence, Mr. Steerforth!’ said Mr. Mell.
+‘[[Silence]], Mr. Steerforth!’ said Mr. Mell.
 
-‘Silence yourself,’ said Steerforth, turning red. ‘Whom are you talking
+‘[[Silence]] yourself,’ said Steerforth, turning red. ‘Whom are you talking
 to?’
 
 ‘Sit down,’ said Mr. Mell.
@@ -328,7 +328,7 @@ to?’
 ‘Sit down yourself,’ said Steerforth, ‘and mind your business.’
 
 There was a titter, and some applause; but Mr. Mell was so white, that
-silence immediately succeeded; and one boy, who had darted out behind
+[[Silence|silence]] immediately succeeded; and one boy, who had darted out behind
 him to imitate his mother again, changed his mind, and pretended to want
 a pen mended.
 
@@ -372,7 +372,7 @@ hands, sat, for some moments, quite still.
 
 ‘Mr. Mell,’ said Mr. Creakle, shaking him by the arm; and his whisper
 was so audible now, that Tungay felt it unnecessary to repeat his words;
-‘you have not forgotten yourself, I hope?’
+‘you have not forgotten yourself, I [[Hope|hope]]?’
 
 ‘No, sir, no,’ returned the Master, showing his face, and shaking his
 head, and rubbing his hands in great agitation. ‘No, sir. No. I have
@@ -409,7 +409,7 @@ turning angrily on his assistant.
 no pupil had a right to avail himself of his position of favouritism to
 degrade me.’
 
-‘To degrade YOU?’ said Mr. Creakle. ‘My stars! But give me leave to ask
+‘To degrade YOU?’ said Mr. Creakle. ‘My [[Stars|stars]]! But give me leave to ask
 you, Mr. What’s-your-name’; and here Mr. Creakle folded his arms, cane
 and all, upon his chest, and made such a knot of his brows that his
 little eyes were hardly visible below them; ‘whether, when you talk
@@ -431,10 +431,10 @@ be taken, I felt quite in a glow at this gallant speech. It made an
 impression on the boys too, for there was a low stir among them, though
 no one spoke a word.
 
-‘I am surprised, Steerforth--although your candour does you honour,’
-said Mr. Creakle, ‘does you honour, certainly--I am surprised,
+‘I am surprised, Steerforth--although your candour does you [[Honour|honour]],’
+said Mr. Creakle, ‘does you [[Honour|honour]], certainly--I am surprised,
 Steerforth, I must say, that you should attach such an epithet to any
-person employed and paid in Salem House, sir.’
+person employed and paid in Salem [[house|House]], sir.’
 
 Steerforth gave a short laugh.
 
@@ -458,7 +458,7 @@ kindly on the shoulder, but he looked at him.
 
 ‘Since you expect me, Mr. Creakle, to justify myself,’ said Steerforth,
 ‘and to say what I mean,--what I have to say is, that his mother lives
-on charity in an alms-house.’
+on [[Charity|charity]] in an alms-[[house]].’
 
 Mr. Mell still looked at him, and still patted me kindly on the
 shoulder, and said to himself, in a whisper, if I heard right: ‘Yes, I
@@ -471,10 +471,10 @@ politeness:
 you please, to set him right before the assembled school.’
 
 ‘He is right, sir, without correction,’ returned Mr. Mell, in the midst
-of a dead silence; ‘what he has said is true.’
+of a dead [[Silence|silence]]; ‘what he has said is true.’
 
 ‘Be so good then as declare publicly, will you,’ said Mr. Creakle,
-putting his head on one side, and rolling his eyes round the school,
+putting his head on one side, and [[rolling]] his eyes round the school,
 ‘whether it ever came to my knowledge until this moment?’
 
 ‘I believe not directly,’ he returned.
@@ -487,16 +487,16 @@ has been, here.’
 
 ‘I apprehend, if you come to that,’ said Mr. Creakle, with his veins
 swelling again bigger than ever, ‘that you’ve been in a wrong position
-altogether, and mistook this for a charity school. Mr. Mell, we’ll part,
+altogether, and mistook this for a [[Charity|charity]] school. Mr. Mell, we’ll part,
 if you please. The sooner the better.’
 
-‘There is no time,’ answered Mr. Mell, rising, ‘like the present.’
+‘There is no [[Time|time]],’ answered Mr. Mell, rising, ‘like the present.’
 
 ‘Sir, to you!’ said Mr. Creakle.
 
 ‘I take my leave of you, Mr. Creakle, and all of you,’ said Mr. Mell,
 glancing round the room, and again patting me gently on the shoulders.
-‘James Steerforth, the best wish I can leave you is that you may come to
+‘[[James Steerforth]], the best wish I can leave you is that you may come to
 be ashamed of what you have done today. At present I would prefer to see
 you anything rather than a friend, to me, or to anyone in whom I feel an
 interest.’
@@ -506,18 +506,18 @@ flute and a few books from his desk, and leaving the key in it for his
 successor, he went out of the school, with his property under his arm.
 Mr. Creakle then made a speech, through Tungay, in which he thanked
 Steerforth for asserting (though perhaps too warmly) the independence
-and respectability of Salem House; and which he wound up by shaking
+and respectability of Salem [[house|House]]; and which he wound up by shaking
 hands with Steerforth, while we gave three cheers--I did not quite know
 what for, but I supposed for Steerforth, and so joined in them ardently,
 though I felt miserable. Mr. Creakle then caned Tommy Traddles for
-being discovered in tears, instead of cheers, on account of Mr. Mell’s
+being discovered in [[Tears|tears]], instead of cheers, on account of Mr. Mell’s
 departure; and went back to his sofa, or his bed, or wherever he had
 come from.
 
 We were left to ourselves now, and looked very blank, I recollect, on
-one another. For myself, I felt so much self-reproach and contrition for
+one another. For myself, I felt so much [[Self|self]]-reproach and contrition for
 my part in what had happened, that nothing would have enabled me to keep
-back my tears but the fear that Steerforth, who often looked at me, I
+back my [[Tears|tears]] but the [[Fear|fear]] that Steerforth, who often looked at me, I
 saw, might think it unfriendly--or, I should rather say, considering our
 relative ages, and the feeling with which I regarded him, undutiful--if
 I showed the emotion which distressed me. He was very angry with
@@ -539,7 +539,7 @@ him his situation.’
 ‘His feelings?’ repeated Steerforth disdainfully. ‘His feelings will
 soon get the better of it, I’ll be bound. His feelings are not like
 yours, Miss Traddles. As to his situation--which was a precious one,
-wasn’t it?--do you suppose I am not going to write home, and take care
+wasn’t it?--do you suppose I am not going to write [[Home|home]], and take care
 that he gets some money? Polly?’
 
 We thought this intention very noble in Steerforth, whose mother was
@@ -549,7 +549,7 @@ and exalted Steerforth to the skies: especially when he told us, as he
 condescended to do, that what he had done had been done expressly for
 us, and for our cause; and that he had conferred a great boon upon us
 by unselfishly doing it. But I must say that when I was going on with a
-story in the dark that night, Mr. Mell’s old flute seemed more than once
+story in the dark that [[Night|night]], Mr. Mell’s old flute seemed more than once
 to sound mournfully in my ears; and that when at last Steerforth was
 tired, and I lay down in my bed, I fancied it playing so sorrowfully
 somewhere, that I was quite wretched.
@@ -561,7 +561,7 @@ master came from a grammar school; and before he entered on his duties,
 dined in the parlour one day, to be introduced to Steerforth. Steerforth
 approved of him highly, and told us he was a Brick. Without exactly
 understanding what learned distinction was meant by this, I respected
-him greatly for it, and had no doubt whatever of his superior knowledge:
+him greatly for it, and had no [[Doubt|doubt]] whatever of his superior knowledge:
 though he never took the pains with me--not that I was anybody--that Mr.
 Mell had taken.
 
@@ -619,7 +619,7 @@ old Peggotty is?’
 
 ‘On--common,’ said Mr. Peggotty.
 
-There was a silence. Mr. Peggotty, to relieve it, took two prodigious
+There was a [[Silence|silence]]. Mr. Peggotty, to relieve it, took two prodigious
 lobsters, and an enormous crab, and a large canvas bag of shrimps, out
 of his pockets, and piled them up in Ham’s arms.
 
@@ -634,11 +634,11 @@ I expressed my thanks; and Mr. Peggotty, after looking at Ham, who stood
 smiling sheepishly over the shellfish, without making any attempt to
 help him, said:
 
-‘We come, you see, the wind and tide making in our favour, in one of our
+‘We come, you see, the [[Wind|wind]] and tide making in our favour, in one of our
 Yarmouth lugs to Gravesen’. My sister she wrote to me the name of this
 here place, and wrote to me as if ever I chanced to come to Gravesen’,
 I was to come over and inquire for Mas’r Davy and give her dooty,
-humbly wishing him well and reporting of the fam’ly as they was oncommon
+humbly wishing him [[Well|well]] and reporting of the fam’ly as they was oncommon
 toe-be-sure. Little Em’ly, you see, she’ll write to my sister when I go
 back, as I see you and as you was similarly oncommon, and so we make it
 quite a merry-go-rounder.’
@@ -662,8 +662,8 @@ large it is, you might see it anywheres.’
 
 It was perfectly delightful to behold with what enthusiasm Mr. Peggotty
 became inspired when he thought of his little favourite. He stands
-before me again, his bluff hairy face irradiating with a joyful love and
-pride, for which I can find no description. His honest eyes fire up, and
+before me again, his bluff hairy face irradiating with a joyful [[Love|love]] and
+[[Pride|pride]], for which I can find no description. His honest eyes [[Fire|fire]] up, and
 sparkle, as if their depths were stirred by something bright. His broad
 chest heaves with pleasure. His strong loose hands clench themselves,
 in his earnestness; and he emphasizes what he says with a right arm that
@@ -672,18 +672,18 @@ shows, in my pigmy view, like a sledge-hammer.
 Ham was quite as earnest as he. I dare say they would have said much
 more about her, if they had not been abashed by the unexpected coming in
 of Steerforth, who, seeing me in a corner speaking with two strangers,
-stopped in a song he was singing, and said: ‘I didn’t know you were
+stopped in a [[Song|song]] he was singing, and said: ‘I didn’t know you were
 here, young Copperfield!’ (for it was not the usual visiting room) and
 crossed by us on his way out.
 
-I am not sure whether it was in the pride of having such a friend as
-Steerforth, or in the desire to explain to him how I came to have such a
+I am not sure whether it was in the [[Pride|pride]] of having such a friend as
+Steerforth, or in the [[Desire|desire]] to explain to him how I came to have such a
 friend as Mr. Peggotty, that I called to him as he was going away. But I
-said, modestly--Good Heaven, how it all comes back to me this long time
+said, modestly--Good Heaven, how it all comes back to me this long [[Time|time]]
 afterwards--!
 
 ‘Don’t go, Steerforth, if you please. These are two Yarmouth
-boatmen--very kind, good people--who are relations of my nurse, and have
+boatmen--very kind, good people--who are relations of my [[Nurse|nurse]], and have
 come from Gravesend to see me.’
 
 ‘Aye, aye?’ said Steerforth, returning. ‘I am glad to see them. How are
@@ -699,7 +699,7 @@ a natural weakness to yield, and which not many persons could withstand.
 I could not but see how pleased they were with him, and how they seemed
 to open their hearts to him in a moment.
 
-‘You must let them know at home, if you please, Mr. Peggotty,’ I said,
+‘You must let them know at [[Home|home]], if you please, Mr. Peggotty,’ I said,
 ‘when that letter is sent, that Mr. Steerforth is very kind to me, and
 that I don’t know what I should ever do here without him.’
 
@@ -708,11 +708,11 @@ of the sort.’
 
 ‘And if Mr. Steerforth ever comes into Norfolk or Suffolk, Mr.
 Peggotty,’ I said, ‘while I am there, you may depend upon it I shall
-bring him to Yarmouth, if he will let me, to see your house. You never
-saw such a good house, Steerforth. It’s made out of a boat!’
+bring him to Yarmouth, if he will let me, to see your [[house]]. You never
+saw such a good [[house]], Steerforth. It’s made out of a boat!’
 
 ‘Made out of a boat, is it?’ said Steerforth. ‘It’s the right sort of a
-house for such a thorough-built boatman.’
+[[house]] for such a thorough-built boatman.’
 
 ‘So ‘tis, sir, so ‘tis, sir,’ said Ham, grinning. ‘You’re right, young
 gen’l’m’n! Mas’r Davy bor’, gen’l’m’n’s right. A thorough-built boatman!
@@ -721,7 +721,7 @@ Hor, hor! That’s what he is, too!’
 Mr. Peggotty was no less pleased than his nephew, though his modesty
 forbade him to claim a personal compliment so vociferously.
 
-‘Well, sir,’ he said, bowing and chuckling, and tucking in the ends
+‘[[Well]], sir,’ he said, bowing and chuckling, and tucking in the ends
 of his neckerchief at his breast: ‘I thankee, sir, I thankee! I do my
 endeavours in my line of life, sir.’
 
@@ -729,15 +729,15 @@ endeavours in my line of life, sir.’
 got his name already.
 
 ‘I’ll pound it, it’s wot you do yourself, sir,’ said Mr. Peggotty,
-shaking his head, ‘and wot you do well--right well! I thankee, sir. I’m
+shaking his head, ‘and wot you do [[Well|well]]--right [[Well|well]]! I thankee, sir. I’m
 obleeged to you, sir, for your welcoming manner of me. I’m rough, sir,
-but I’m ready--least ways, I hope I’m ready, you unnerstand. My house
+but I’m ready--least ways, I [[Hope|hope]] I’m ready, you unnerstand. My [[house]]
 ain’t much for to see, sir, but it’s hearty at your service if ever you
 should come along with Mas’r Davy to see it. I’m a reg’lar Dodman,
 I am,’ said Mr. Peggotty, by which he meant snail, and this was in
 allusion to his being slow to go, for he had attempted to go after every
 sentence, and had somehow or other come back again; ‘but I wish you both
-well, and I wish you happy!’
+[[Well|well]], and I wish you happy!’
 
 Ham echoed this sentiment, and we parted with them in the heartiest
 manner. I was almost tempted that evening to tell Steerforth about
@@ -750,37 +750,37 @@ We transported the shellfish, or the ‘relish’ as Mr. Peggotty had
 modestly called it, up into our room unobserved, and made a great supper
 that evening. But Traddles couldn’t get happily out of it. He was too
 unfortunate even to come through a supper like anybody else. He was
-taken ill in the night--quite prostrate he was--in consequence of Crab;
+taken ill in the [[Night|night]]--quite prostrate he was--in consequence of Crab;
 and after being drugged with black draughts and blue pills, to an extent
 which Demple (whose father was a doctor) said was enough to undermine
-a horse’s constitution, received a caning and six chapters of Greek
+a [[Horse|horse]]’s constitution, received a caning and six chapters of Greek
 Testament for refusing to confess.
 
 The rest of the half-year is a jumble in my recollection of the daily
-strife and struggle of our lives; of the waning summer and the changing
+strife and struggle of our lives; of the waning [[Summer|summer]] and the changing
 season; of the frosty mornings when we were rung out of bed, and the
 cold, cold smell of the dark nights when we were rung into bed again; of
 the evening schoolroom dimly lighted and indifferently warmed, and the
-morning schoolroom which was nothing but a great shivering-machine; of
+morning schoolroom which was nothing but a great shivering-[[Machine|machine]]; of
 the alternation of boiled beef with roast beef, and boiled mutton with
 roast mutton; of clods of bread-and-butter, dog’s-eared lesson-books,
 cracked slates, tear-blotted copy-books, canings, rulerings,
 hair-cuttings, rainy Sundays, suet-puddings, and a dirty atmosphere of
 ink, surrounding all.
 
-I well remember though, how the distant idea of the holidays, after
-seeming for an immense time to be a stationary speck, began to come
+I [[Well|well]] remember though, how the distant idea of the holidays, after
+seeming for an immense [[Time|time]] to be a stationary speck, began to come
 towards us, and to grow and grow. How from counting months, we came to
 weeks, and then to days; and how I then began to be afraid that I should
 not be sent for and when I learnt from Steerforth that I had been sent
-for, and was certainly to go home, had dim forebodings that I might
+for, and was certainly to go [[Home|home]], had dim forebodings that I might
 break my leg first. How the breaking-up day changed its place fast, at
 last, from the week after next to next week, this week, the day after
 tomorrow, tomorrow, today, tonight--when I was inside the Yarmouth mail,
-and going home.
+and going [[Home|home]].
 
-I had many a broken sleep inside the Yarmouth mail, and many an
+I had many a broken [[Sleep|sleep]] inside the Yarmouth mail, and many an
 incoherent dream of all these things. But when I awoke at intervals, the
-ground outside the window was not the playground of Salem House, and the
+ground outside the [[Window|window]] was not the playground of Salem [[house|House]], and the
 sound in my ears was not the sound of Mr. Creakle giving it to Traddles,
 but the sound of the coachman touching up the horses.

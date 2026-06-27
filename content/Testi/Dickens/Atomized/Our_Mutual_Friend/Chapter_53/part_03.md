@@ -42,8 +42,8 @@ great service you have rendered him.’
 ‘And as the wife of Alfred, may I, dear Mr Fledgeby, wholly without his
 authority or knowledge, as I am sure your discernment will perceive,
 entreat you to continue that great service, and once more use your
-well-earned influence with Mr Riah for a little more indulgence? The
-name I have heard Alfred mention, tossing in his dreams, IS Riah; is it
+[[Well|well]]-earned influence with Mr Riah for a little more indulgence? The
+name I have heard Alfred mention, tossing in his [[Dreams|dreams]], IS Riah; is it
 not?’
 
 ‘The name of the Creditor is Riah,’ said Mr Fledgeby, with a rather
@@ -63,7 +63,7 @@ Lammle; he really is.’
 
 ‘Not if YOU speak to him, dear Mr Fledgeby.’
 
-‘Upon my soul and body he is!’ said Fledgeby.
+‘Upon my [[Soul|soul]] and [[Body|body]] he is!’ said Fledgeby.
 
 ‘Try. Try once more, dearest Mr Fledgeby. What is there you cannot do,
 if you will!’
@@ -95,11 +95,11 @@ of his present troubles.’
 ‘O yes!’ Here Mrs Lammle brought her handkerchief into play. ‘And you
 know, dear Mr Fledgeby—you who study the human heart, and study the
 world—what an affliction it would be to lose position and to lose
-credit, when ability to tide over a very short time might save all
+credit, when ability to tide over a very short [[Time|time]] might save all
 appearances.’
 
 ‘Oh!’ said Fledgeby. ‘Then you think, Mrs Lammle, that if Lammle
-got time, he wouldn’t burst up?—To use an expression,’ Mr Fledgeby
+got [[Time|time]], he wouldn’t burst up?—To use an expression,’ Mr Fledgeby
 apologetically explained, ‘which is adopted in the Money Market.’
 
 ‘Indeed yes. Truly, truly, yes!’
@@ -124,11 +124,11 @@ complimentary. May I imprint a—a one—upon it? Good morning!’
 Said Fledgeby, looking back at the door and respectfully kissing his
 hand, ‘You may depend upon it.’
 
-In fact, Mr Fledgeby sped on his errand of mercy through the streets,
+In fact, Mr Fledgeby sped on his errand of [[Mercy|mercy]] through the streets,
 at so brisk a rate that his feet might have been winged by all the good
 spirits that wait on Generosity. They might have taken up their station
 in his breast, too, for he was blithe and merry. There was quite a fresh
-trill in his voice, when, arriving at the counting-house in St Mary Axe,
+trill in his voice, when, arriving at the counting-[[house]] in St Mary Axe,
 and finding it for the moment empty, he trolled forth at the foot of the
 staircase: ‘Now, Judah, what are you up to there?’
 

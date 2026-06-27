@@ -18,7 +18,7 @@ CHAPTER V.
 The Wood-Sawyer
 
 
-One year and three months. During all that time Lucie was never
+One year and three months. During all that [[Time|time]] Lucie was never
 sure, from hour to hour, but that the Guillotine would strike off her
 husband’s head next day. Every day, through the stony streets, the
 tumbrils now jolted heavily, filled with Condemned. Lovely girls; bright
@@ -26,12 +26,12 @@ women, brown-haired, black-haired, and grey; youths; stalwart men and
 old; gentle born and peasant born; all red wine for La Guillotine, all
 daily brought into light from the dark cellars of the loathsome prisons,
 and carried to her through the streets to slake her devouring thirst.
-Liberty, equality, fraternity, or death;--the last, much the easiest to
+Liberty, equality, fraternity, or [[Death|death]];--the last, much the easiest to
 bestow, O Guillotine!
 
-If the suddenness of her calamity, and the whirling wheels of the time,
+If the suddenness of her calamity, and the whirling wheels of the [[Time|time]],
 had stunned the Doctor’s daughter into awaiting the result in idle
-despair, it would but have been with her as it was with many. But, from
+[[Despair|despair]], it would but have been with her as it was with many. But, from
 the hour when she had taken the white head to her fresh young bosom in
 the garret of Saint Antoine, she had been true to her duties. She was
 truest to them in the season of trial, as all the quietly loyal and good
@@ -40,45 +40,45 @@ will always be.
 As soon as they were established in their new residence, and her father
 had entered on the routine of his avocations, she arranged the little
 household as exactly as if her husband had been there. Everything had
-its appointed place and its appointed time. Little Lucie she taught,
-as regularly, as if they had all been united in their English home. The
+its appointed place and its appointed [[Time|time]]. Little Lucie she taught,
+as regularly, as if they had all been united in their English [[Home|home]]. The
 slight devices with which she cheated herself into the show of a belief
 that they would soon be reunited--the little preparations for his speedy
 return, the setting aside of his chair and his books--these, and the
-solemn prayer at night for one dear prisoner especially, among the many
-unhappy souls in prison and the shadow of death--were almost the only
+solemn [[prayer]] at [[Night|night]] for one dear prisoner especially, among the many
+unhappy souls in [[Prison|prison]] and the [[Shadow|shadow]] of [[Death|death]]--were almost the only
 outspoken reliefs of her heavy mind.
 
 She did not greatly alter in appearance. The plain dark dresses, akin to
-mourning dresses, which she and her child wore, were as neat and as well
+mourning dresses, which she and her [[Child|child]] wore, were as neat and as [[Well|well]]
 attended to as the brighter clothes of happy days. She lost her colour,
 and the old and intent expression was a constant, not an occasional,
 thing; otherwise, she remained very pretty and comely. Sometimes, at
-night on kissing her father, she would burst into the grief she had
+[[Night|night]] on kissing her father, she would burst into the grief she had
 repressed all day, and would say that her sole reliance, under Heaven,
 was on him. He always resolutely answered: “Nothing can happen to him
 without my knowledge, and I know that I can save him, Lucie.”
 
 They had not made the round of their changed life many weeks, when her
-father said to her, on coming home one evening:
+father said to her, on coming [[Home|home]] one evening:
 
-“My dear, there is an upper window in the prison, to which Charles can
+“My dear, there is an upper [[Window|window]] in the [[Prison|prison]], to which Charles can
 sometimes gain access at three in the afternoon. When he can get to
 it--which depends on many uncertainties and incidents--he might see you
 in the street, he thinks, if you stood in a certain place that I can
-show you. But you will not be able to see him, my poor child, and even
+show you. But you will not be able to see him, my poor [[Child|child]], and even
 if you could, it would be unsafe for you to make a sign of recognition.”
 
 “O show me the place, my father, and I will go there every day.”
 
-From that time, in all weathers, she waited there two hours. As the
-clock struck two, she was there, and at four she turned resignedly away.
-When it was not too wet or inclement for her child to be with her, they
-went together; at other times she was alone; but, she never missed a
+From that [[Time|time]], in all weathers, she waited there two hours. As the
+[[Clock|clock]] struck two, she was there, and at four she turned resignedly away.
+When it was not too wet or inclement for her [[Child|child]] to be with her, they
+went together; at other times she was [[Alone|alone]]; but, she never missed a
 single day.
 
 It was the dark and dirty corner of a small winding street. The hovel
-of a cutter of wood into lengths for burning, was the only house at that
+of a cutter of wood into lengths for burning, was the only [[house]] at that
 end; all else was wall. On the third day of her being there, he noticed
 her.
 
@@ -87,7 +87,7 @@ her.
 “Good day, citizen.”
 
 This mode of address was now prescribed by decree. It had been
-established voluntarily some time ago, among the more thorough patriots;
+established voluntarily some [[Time|time]] ago, among the more thorough patriots;
 but, was now law for everybody.
 
 “Walking here again, citizeness?”
@@ -95,8 +95,8 @@ but, was now law for everybody.
 “You see me, citizen!”
 
 The wood-sawyer, who was a little man with a redundancy of gesture (he
-had once been a mender of roads), cast a glance at the prison, pointed
-at the prison, and putting his ten fingers before his face to represent
+had once been a mender of roads), cast a glance at the [[Prison|prison]], pointed
+at the [[Prison|prison]], and putting his ten fingers before his face to represent
 bars, peeped through them jocosely.
 
 “But it’s not my business,” said he. And went on sawing his wood.
@@ -108,7 +108,7 @@ appeared.
 
 “Yes, citizen.”
 
-“Ah! A child too! Your mother, is it not, my little citizeness?”
+“Ah! A [[Child|child]] too! Your mother, is it not, my little citizeness?”
 
 “Do I say yes, mamma?” whispered little Lucie, drawing close to her.
 
@@ -123,7 +123,7 @@ comes!”
 The billet fell as he spoke, and he threw it into a basket.
 
 “I call myself the Samson of the firewood guillotine. See here again!
-Loo, loo, loo; Loo, loo, loo! And off _her_ head comes! Now, a child.
+Loo, loo, loo; Loo, loo, loo! And off _her_ head comes! Now, a [[Child|child]].
 Tickle, tickle; Pickle, pickle! And off _its_ head comes. All the
 family!”
 
@@ -133,16 +133,16 @@ his sight. Thenceforth, to secure his good will, she always spoke to him
 first, and often gave him drink-money, which he readily received.
 
 He was an inquisitive fellow, and sometimes when she had quite forgotten
-him in gazing at the prison roof and grates, and in lifting her heart
+him in gazing at the [[Prison|prison]] roof and grates, and in lifting her heart
 up to her husband, she would come to herself to find him looking at her,
 with his knee on his bench and his saw stopped in its work. “But it’s
 not my business!” he would generally say at those times, and would
 briskly fall to his sawing again.
 
-In all weathers, in the snow and frost of winter, in the bitter winds of
-spring, in the hot sunshine of summer, in the rains of autumn, and again
-in the snow and frost of winter, Lucie passed two hours of every day at
-this place; and every day on leaving it, she kissed the prison wall.
+In all weathers, in the [[Snow|snow]] and [[Frost|frost]] of [[Winter|winter]], in the bitter winds of
+[[Spring|spring]], in the hot sunshine of [[Summer|summer]], in the rains of [[Autumn|autumn]], and again
+in the [[Snow|snow]] and [[Frost|frost]] of [[Winter|winter]], Lucie passed two hours of every day at
+this place; and every day on leaving it, she kissed the [[Prison|prison]] wall.
 Her husband saw her (so she learned from her father) it might be once in
 five or six times: it might be twice or thrice running: it might be, not
 for a week or a fortnight together. It was enough that he could and did
@@ -154,53 +154,53 @@ father walked among the terrors with a steady head. On a lightly-snowing
 afternoon she arrived at the usual corner. It was a day of some wild
 rejoicing, and a festival. She had seen the houses, as she came along,
 decorated with little pikes, and with little red caps stuck upon them;
-also, with tricoloured ribbons; also, with the standard inscription
+also, with tricoloured ribbons; also, with the standard [[Inscription|inscription]]
 (tricoloured letters were the favourite), Republic One and Indivisible.
-Liberty, Equality, Fraternity, or Death!
+Liberty, Equality, Fraternity, or [[Death]]!
 
 The miserable shop of the wood-sawyer was so small, that its whole
 surface furnished very indifferent space for this legend. He had got
-somebody to scrawl it up for him, however, who had squeezed Death in
-with most inappropriate difficulty. On his house-top, he displayed pike
-and cap, as a good citizen must, and in a window he had stationed his
+somebody to scrawl it up for him, however, who had squeezed [[Death]] in
+with most inappropriate difficulty. On his [[house]]-top, he displayed pike
+and cap, as a good citizen must, and in a [[Window|window]] he had stationed his
 saw inscribed as his “Little Sainte Guillotine”--for the great sharp
-female was by that time popularly canonised. His shop was shut and he
-was not there, which was a relief to Lucie, and left her quite alone.
+female was by that [[Time|time]] popularly canonised. His shop was shut and he
+was not there, which was a relief to Lucie, and left her quite [[Alone|alone]].
 
 But, he was not far off, for presently she heard a troubled movement
-and a shouting coming along, which filled her with fear. A moment
+and a shouting coming along, which filled her with [[Fear|fear]]. A moment
 afterwards, and a throng of people came pouring round the corner by the
-prison wall, in the midst of whom was the wood-sawyer hand in hand with
+[[Prison|prison]] wall, in the midst of whom was the wood-sawyer hand in hand with
 The Vengeance. There could not be fewer than five hundred people, and
 they were dancing like five thousand demons. There was no other music
-than their own singing. They danced to the popular Revolution song,
-keeping a ferocious time that was like a gnashing of teeth in unison.
+than their own singing. They danced to the popular Revolution [[Song|song]],
+keeping a ferocious [[Time|time]] that was like a gnashing of teeth in unison.
 Men and women danced together, women danced together, men danced
 together, as hazard had brought them together. At first, they were a
-mere storm of coarse red caps and coarse woollen rags; but, as they
-filled the place, and stopped to dance about Lucie, some ghastly
-apparition of a dance-figure gone raving mad arose among them. They
+mere [[Storm|storm]] of coarse red caps and coarse woollen rags; but, as they
+filled the place, and stopped to [[Dance|dance]] about Lucie, some ghastly
+apparition of a [[Dance|dance]]-figure gone raving mad arose among them. They
 advanced, retreated, struck at one another’s hands, clutched at one
-another’s heads, spun round alone, caught one another and spun round
+another’s heads, spun round [[Alone|alone]], caught one another and spun round
 in pairs, until many of them dropped. While those were down, the rest
 linked hand in hand, and all spun round together: then the ring broke,
 and in separate rings of two and four they turned and turned until they
 all stopped at once, began again, struck, clutched, and tore, and then
 reversed the spin, and all spun round another way. Suddenly they stopped
-again, paused, struck out the time afresh, formed into lines the width
+again, paused, struck out the [[Time|time]] afresh, formed into lines the width
 of the public way, and, with their heads low down and their hands high
 up, swooped screaming off. No fight could have been half so terrible
-as this dance. It was so emphatically a fallen sport--a something, once
-innocent, delivered over to all devilry--a healthy pastime changed into
-a means of angering the blood, bewildering the senses, and steeling the
+as this [[Dance|dance]]. It was so emphatically a fallen sport--a something, once
+[[Innocent|innocent]], delivered over to all devilry--a healthy pastime changed into
+a means of angering the [[Blood|blood]], bewildering the senses, and steeling the
 heart. Such grace as was visible in it, made it the uglier, showing how
-warped and perverted all things good by nature were become. The maidenly
-bosom bared to this, the pretty almost-child’s head thus distracted, the
-delicate foot mincing in this slough of blood and dirt, were types of
-the disjointed time.
+warped and perverted all things good by [[Nature|nature]] were become. The maidenly
+bosom bared to this, the pretty almost-[[Child|child]]’s head thus distracted, the
+delicate foot mincing in this slough of [[Blood|blood]] and dirt, were types of
+the disjointed [[Time|time]].
 
 This was the Carmagnole. As it passed, leaving Lucie frightened and
-bewildered in the doorway of the wood-sawyer’s house, the feathery snow
+bewildered in the doorway of the wood-sawyer’s [[house]], the feathery [[Snow|snow]]
 fell as quietly and lay as white and soft, as if it had never been.
 
 “O my father!” for he stood before her when she lifted up the eyes she
@@ -213,27 +213,27 @@ frightened! Not one of them would harm you.”
 husband, and the mercies of these people--”
 
 “We will set him above their mercies very soon. I left him climbing to
-the window, and I came to tell you. There is no one here to see. You may
+the [[Window|window]], and I came to tell you. There is no one here to see. You may
 kiss your hand towards that highest shelving roof.”
 
-“I do so, father, and I send him my Soul with it!”
+“I do so, father, and I send him my [[Soul]] with it!”
 
 “You cannot see him, my poor dear?”
 
 “No, father,” said Lucie, yearning and weeping as she kissed her hand,
 “no.”
 
-A footstep in the snow. Madame Defarge. “I salute you, citizeness,”
+A footstep in the [[Snow|snow]]. [[Madame Defarge]]. “I salute you, citizeness,”
  from the Doctor. “I salute you, citizen.” This in passing. Nothing more.
-Madame Defarge gone, like a shadow over the white road.
+[[Madame Defarge]] gone, like a [[Shadow|shadow]] over the white [[Road|road]].
 
-“Give me your arm, my love. Pass from here with an air of cheerfulness
-and courage, for his sake. That was well done;” they had left the spot;
+“Give me your arm, my [[Love|love]]. Pass from here with an air of cheerfulness
+and [[Courage|courage]], for his sake. That was [[Well|well]] done;” they had left the spot;
 “it shall not be in vain. Charles is summoned for to-morrow.”
 
 “For to-morrow!”
 
-“There is no time to lose. I am well prepared, but there are precautions
+“There is no [[Time|time]] to lose. I am [[Well|well]] prepared, but there are precautions
 to be taken, that could not be taken until he was actually summoned
 before the Tribunal. He has not received the notice yet, but I know
 that he will presently be summoned for to-morrow, and removed to the
@@ -246,8 +246,8 @@ be restored to you within a few hours; I have encompassed him with every
 protection. I must see Lorry.”
 
 He stopped. There was a heavy lumbering of wheels within hearing. They
-both knew too well what it meant. One. Two. Three. Three tumbrils faring
-away with their dread loads over the hushing snow.
+both knew too [[Well|well]] what it meant. One. Two. Three. Three tumbrils faring
+away with their dread loads over the hushing [[Snow|snow]].
 
 “I must see Lorry,” the Doctor repeated, turning her another way.
 
@@ -260,9 +260,9 @@ hold his peace.
 A murky red and yellow sky, and a rising mist from the Seine, denoted
 the approach of darkness. It was almost dark when they arrived at the
 Bank. The stately residence of Monseigneur was altogether blighted and
-deserted. Above a heap of dust and ashes in the court, ran the letters:
+deserted. Above a heap of [[Dust|dust]] and ashes in the [[Court|court]], ran the letters:
 National Property. Republic One and Indivisible. Liberty, Equality,
-Fraternity, or Death!
+Fraternity, or [[Death]]!
 
 Who could that be with Mr. Lorry--the owner of the riding-coat upon the
 chair--who must not be seen? From whom newly arrived, did he come out,

@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE DISEASE OF DUODIAPSYCHOSIS (part 3)"
+title: "[[FourFaultlessFelons]] — THE DISEASE OF DUODIAPSYCHOSIS (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -32,7 +32,7 @@ rather eagerly followed her into the street. The policeman saluted him;
 
 there was nothing much in that; policemen saluted her father and other
 
-well-known residents. But she did think it odd that he said to the
+[[Well|well]]-known residents. But she did think it odd that he said to the
 
 policeman, as he went off: "There's one thing more I must make sure of.
 
@@ -40,17 +40,17 @@ Unless I wire, things can go forward here as arranged."
 
 
 
-When she came back to her own house, she knew it was something worse than
+When she came back to her own [[house]], she knew it was something worse than
 
-a house of death. There was a black taxicab waiting outside it, which
+a [[house]] of [[Death|death]]. There was a black taxicab waiting outside it, which
 
 made her think of a funeral, almost with envy. If she had known who was
 
 already in the taxicab, she might have stopped and made a scene in the
 
-street. As it was, she burst into the house and found two grave,
+street. As it was, she burst into the [[house]] and found two [[Grave|grave]],
 
-dark-clad doctors sitting in the light of the bow-window in front, with a
+dark-clad doctors sitting in the light of the bow-[[Window|window]] in front, with a
 
 table between them, covered with official documents and pen and ink. One
 
@@ -76,7 +76,7 @@ of subconsciousness, or horizontal division of the mind, has been
 
 superseded by vertical division of the mind. But the layman has hardly
 
-heard yet of the new double or ambidextrous consciousness."
+heard yet of the new [[Double|double]] or ambidextrous consciousness."
 
 
 
@@ -88,7 +88,7 @@ He had a very soothing voice, and with it he earnestly did his best to
 
 soothe Enid Windrush. He really seemed to be profoundly touched with the
 
-tragedy of her position.
+[[Tragedy|tragedy]] of her position.
 
 
 
@@ -100,13 +100,13 @@ involved will be done. I will not disguise from you that your father is
 
 already in the cab outside, under the care of tactful and humane
 
-attendants. I will not disguise from you that some deception, such as has
+attendants. I will not disguise from you that some [[Deception|deception]], such as has
 
 to be used to the sick, has been employed in prevailing upon him, but I
 
-told him no more than the truth in saying that he was going with his best
+told him no more than the [[Truth|truth]] in saying that he was going with his best
 
-friends. These things are very terrible, my child, but perhaps we may all
+friends. These things are very terrible, my [[Child|child]], but perhaps we may all
 
 draw nearer to each other in--"
 
@@ -154,7 +154,7 @@ impatience. But, even as they had turned away from him, Doone had signed
 
 the paper and Judson snatched it up with furious haste and ran out of the
 
-house.
+[[house]].
 
 
 
@@ -170,11 +170,11 @@ leap of joy.
 
 
 
-Some time after-she could not have said how long-she still sat staring
+Some [[Time|time]] after-she could not have said how long-she still sat staring
 
-out of the bow-window into the empty street. She had reached that state
+out of the bow-[[Window|window]] into the empty street. She had reached that state
 
-when the soul feels that nothing worse can happen in the world. But she
+when the [[Soul|soul]] feels that nothing worse can happen in the world. But she
 
 was wrong. For it was only a few minutes later that two policemen and a
 

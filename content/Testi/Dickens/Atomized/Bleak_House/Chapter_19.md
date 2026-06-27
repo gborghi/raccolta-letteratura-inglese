@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 19"
+title: "Bleak [[house|House]] — Chapter 19"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -24,21 +24,21 @@ ships Law and Equity, those teak-built, copper-bottomed,
 iron-fastened, brazen-faced, and not by any means fast-sailing
 clippers are laid up in ordinary. The Flying Dutchman, with a crew of
 ghostly clients imploring all whom they may encounter to peruse their
-papers, has drifted, for the time being, heaven knows where. The
-courts are all shut up; the public offices lie in a hot sleep.
-Westminster Hall itself is a shady solitude where nightingales might
+papers, has drifted, for the [[Time|time]] being, heaven knows where. The
+courts are all shut up; the public offices lie in a hot [[Sleep|sleep]].
+Westminster Hall itself is a shady [[Solitude|solitude]] where nightingales might
 sing, and a tenderer class of suitors than is usually found there,
 walk.
 
-The Temple, Chancery Lane, Serjeants’ Inn, and Lincoln’s Inn even
-unto the Fields are like tidal harbours at low water, where stranded
+The Temple, Chancery Lane, Serjeants’ Inn, and [[Lincoln]]’s Inn even
+unto the Fields are like tidal harbours at low [[Water|water]], where stranded
 proceedings, offices at anchor, idle clerks lounging on lop-sided
 stools that will not recover their perpendicular until the current of
 Term sets in, lie high and dry upon the ooze of the long vacation.
 Outer doors of chambers are shut up by the score, messages and
 parcels are to be left at the Porter’s Lodge by the bushel. A crop of
 grass would grow in the chinks of the stone pavement outside
-Lincoln’s Inn Hall, but that the ticket-porters, who have nothing to
+[[Lincoln]]’s Inn Hall, but that the ticket-porters, who have nothing to
 do beyond sitting in the shade there, with their white aprons over
 their heads to keep the flies off, grub it up and eat it
 thoughtfully.
@@ -53,7 +53,7 @@ from the judicial nose, who calls in at the shell-fish shop as he
 comes along and drinks iced ginger-beer!
 
 The bar of England is scattered over the face of the earth. How
-England can get on through four long summer months without its
+England can get on through four long [[Summer|summer]] months without its
 bar—which is its acknowledged refuge in adversity and its only
 legitimate triumph in prosperity—is beside the question; assuredly
 that shield and buckler of Britannia are not in present wear. The
@@ -67,12 +67,12 @@ watering-place. The learned gentleman who weeps by the pint on the
 smallest provocation has not shed a tear these six weeks. The very
 learned gentleman who has cooled the natural heat of his gingery
 complexion in pools and fountains of law until he has become great in
-knotty arguments for term-time, when he poses the drowsy bench with
+knotty arguments for term-[[Time|time]], when he poses the drowsy bench with
 legal “chaff,” inexplicable to the uninitiated and to most of the
 initiated too, is roaming, with a characteristic delight in aridity
-and dust, about Constantinople. Other dispersed fragments of the same
-great palladium are to be found on the canals of Venice, at the
-second cataract of the Nile, in the baths of Germany, and sprinkled
+and [[Dust|dust]], about Constantinople. Other dispersed fragments of the same
+great palladium are to be found on the canals of [[Venice]], at the
+second cataract of the Nile, in the baths of [[Germany]], and sprinkled
 on the sea-sand all over the English coast. Scarcely one is to be
 encountered in the deserted region of Chancery Lane. If such a lonely
 member of the bar do flit across the waste, and come upon a prowling
@@ -80,40 +80,40 @@ suitor who is unable to leave off haunting the scenes of his anxiety,
 they frighten one another and retreat into opposite shades.
 
 It is the hottest long vacation known for many years. All the young
-clerks are madly in love, and according to their various degrees,
+clerks are madly in [[Love|love]], and according to their various degrees,
 pine for bliss with the beloved object, at Margate, Ramsgate, or
 Gravesend. All the middle-aged clerks think their families too large.
-All the unowned dogs who stray into the Inns of Court and pant about
-staircases and other dry places seeking water give short howls of
-aggravation. All the blind men’s dogs in the streets draw their
+All the unowned [[dogs]] who stray into the Inns of [[Court]] and pant about
+staircases and other dry places seeking [[Water|water]] give short howls of
+aggravation. All the blind men’s [[dogs]] in the streets draw their
 masters against pumps or trip them over buckets. A shop with a
 sun-blind, and a watered pavement, and a bowl of gold and silver fish
-in the window, is a sanctuary. Temple Bar gets so hot that it is, to
+in the [[Window|window]], is a sanctuary. Temple Bar gets so hot that it is, to
 the adjacent Strand and Fleet Street, what a heater is in an urn, and
-keeps them simmering all night.
+keeps them simmering all [[Night|night]].
 
-There are offices about the Inns of Court in which a man might be
+There are offices about the Inns of [[Court]] in which a man might be
 cool, if any coolness were worth purchasing at such a price in
 dullness; but the little thoroughfares immediately outside those
-retirements seem to blaze. In Mr. Krook’s court, it is so hot that
+retirements seem to blaze. In Mr. Krook’s [[Court|court]], it is so hot that
 the people turn their houses inside out and sit in chairs upon the
 pavement—Mr. Krook included, who there pursues his studies, with his
 cat (who never is too hot) by his side. The Sol’s Arms has
 discontinued the Harmonic Meetings for the season, and Little Swills
-is engaged at the Pastoral Gardens down the river, where he comes out
-in quite an innocent manner and sings comic ditties of a juvenile
+is engaged at the [[Pastoral]] Gardens down the [[River|river]], where he comes out
+in quite an [[Innocent|innocent]] manner and sings comic ditties of a juvenile
 complexion calculated (as the bill says) not to wound the feelings of
 the most fastidious mind.
 
 Over all the legal neighbourhood there hangs, like some great veil of
 rust or gigantic cobweb, the idleness and pensiveness of the long
-vacation. Mr. Snagsby, law-stationer of Cook’s Court, Cursitor
+vacation. Mr. Snagsby, law-stationer of Cook’s [[Court]], Cursitor
 Street, is sensible of the influence not only in his mind as a
 sympathetic and contemplative man, but also in his business as a
 law-stationer aforesaid. He has more leisure for musing in Staple Inn
-and in the Rolls Yard during the long vacation than at other seasons,
+and in the Rolls Yard during the long vacation than at other [[Seasons|seasons]],
 and he says to the two ’prentices, what a thing it is in such hot
-weather to think that you live in an island with the sea a-rolling
+weather to think that you live in an island with the sea a-[[rolling]]
 and a-bowling right round you.
 
 Guster is busy in the little drawing-room on this present afternoon
@@ -126,7 +126,7 @@ for a gentleman connected with navigation, but he is, as he expresses
 it, “in the ministry.” Mr. Chadband is attached to no particular
 denomination and is considered by his persecutors to have nothing so
 very remarkable to say on the greatest of subjects as to render his
-volunteering, on his own account, at all incumbent on his conscience;
+volunteering, on his own account, at all incumbent on his [[Conscience|conscience]];
 but he has his followers, and Mrs. Snagsby is of the number. Mrs.
 Snagsby has but recently taken a passage upward by the vessel,
 Chadband; and her attention was attracted to that Bark A 1, when she
@@ -135,7 +135,7 @@ was something flushed by the hot weather.
 “My little woman,” says Mr. Snagsby to the sparrows in Staple Inn,
 “likes to have her religion rather sharp, you see!”
 
-So Guster, much impressed by regarding herself for the time as the
+So Guster, much impressed by regarding herself for the [[Time|time]] as the
 handmaid of Chadband, whom she knows to be endowed with the gift of
 holding forth for four hours at a stretch, prepares the little
 drawing-room for tea. All the furniture is shaken and dusted, the
@@ -147,12 +147,12 @@ of anchovies nestling in parsley, not to mention new-laid eggs, to be
 brought up warm in a napkin, and hot buttered toast. For Chadband is
 rather a consuming vessel—the persecutors say a gorging vessel—and
 can wield such weapons of the flesh as a knife and fork remarkably
-well.
+[[Well|well]].
 
 Mr. Snagsby in his best coat, looking at all the preparations when
 they are completed and coughing his cough of deference behind his
-hand, says to Mrs. Snagsby, “At what time did you expect Mr. and Mrs.
-Chadband, my love?”
+hand, says to Mrs. Snagsby, “At what [[Time|time]] did you expect Mr. and Mrs.
+Chadband, my [[Love|love]]?”
 
 “At six,” says Mrs. Snagsby.
 
@@ -163,13 +163,13 @@ reproachful remark.
 
 Mr. Snagsby does look as if he would like it very much, but he says,
 with his cough of mildness, “No, my dear, no. I merely named the
-time.”
+[[Time|time]].”
 
-“What’s time,” says Mrs. Snagsby, “to eternity?”
+“What’s [[Time|time]],” says Mrs. Snagsby, “to [[Eternity|eternity]]?”
 
 “Very true, my dear,” says Mr. Snagsby. “Only when a person lays in
 victuals for tea, a person does it with a view—perhaps—more to
-time. And when a time is named for having tea, it’s better to come up
+[[Time|time]]. And when a [[Time|time]] is named for having tea, it’s better to come up
 to it.”
 
 “To come up to it!” Mrs. Snagsby repeats with severity. “Up to it! As
@@ -177,17 +177,17 @@ if Mr. Chadband was a fighter!”
 
 “Not at all, my dear,” says Mr. Snagsby.
 
-Here, Guster, who had been looking out of the bedroom window, comes
+Here, Guster, who had been looking out of the bedroom [[Window|window]], comes
 rustling and scratching down the little staircase like a popular
-ghost, and falling flushed into the drawing-room, announces that Mr.
-and Mrs. Chadband have appeared in the court. The bell at the inner
+[[Ghost|ghost]], and falling flushed into the drawing-room, announces that Mr.
+and Mrs. Chadband have appeared in the [[Court|court]]. The bell at the inner
 door in the passage immediately thereafter tinkling, she is
-admonished by Mrs. Snagsby, on pain of instant reconsignment to her
+admonished by Mrs. Snagsby, on [[Pain|pain]] of instant reconsignment to her
 patron saint, not to omit the ceremony of announcement. Much
 discomposed in her nerves (which were previously in the best order)
 by this threat, she so fearfully mutilates that point of state as to
 announce “Mr. and Mrs. Cheeseming, least which, Imeantersay,
-whatsername!” and retires conscience-stricken from the presence.
+whatsername!” and retires [[Conscience|conscience]]-stricken from the presence.
 
 Mr. Chadband is a large yellow man with a fat smile and a general
 appearance of having a good deal of train oil in his system. Mrs.
@@ -199,7 +199,7 @@ perspiration about the head, and never speaks without first putting
 up his great hand, as delivering a token to his hearers that he is
 going to edify them.
 
-“My friends,” says Mr. Chadband, “peace be on this house! On the
+“My friends,” says Mr. Chadband, “peace be on this [[house]]! On the
 master thereof, on the mistress thereof, on the young maidens, and on
 the young men! My friends, why do I wish for peace? What is peace? Is
 it war? No. Is it strife? No. Is it lovely, and gentle, and
@@ -207,7 +207,7 @@ beautiful, and pleasant, and serene, and joyful? Oh, yes! Therefore,
 my friends, I wish for peace, upon you and upon yours.”
 
 In consequence of Mrs. Snagsby looking deeply edified, Mr. Snagsby
-thinks it expedient on the whole to say amen, which is well received.
+thinks it expedient on the whole to say amen, which is [[Well|well]] received.
 
 “Now, my friends,” proceeds Mr. Chadband, “since I am upon this
 theme—”
@@ -223,11 +223,11 @@ Guster is heard unaccountably to murmur “one thousing seven hundred
 and eighty-two.” The spectral voice repeats more solemnly, “Go away!”
 
 “Now, my friends,” says Mr. Chadband, “we will inquire in a spirit of
-love—”
+[[Love|love]]—”
 
 Still Guster reiterates “one thousing seven hundred and eighty-two.”
 
-Mr. Chadband, pausing with the resignation of a man accustomed to be
+Mr. Chadband, pausing with the [[Resignation|resignation]] of a man accustomed to be
 persecuted and languidly folding up his chin into his fat smile,
 says, “Let us hear the maiden! Speak, maiden!”
 
@@ -247,13 +247,13 @@ murmur. Rachael, pay the eightpence!”
 
 While Mrs. Snagsby, drawing her breath, looks hard at Mr. Snagsby, as
 who should say, “You hear this apostle!” and while Mr. Chadband glows
-with humility and train oil, Mrs. Chadband pays the money. It is Mr.
+with [[Humility|humility]] and train oil, Mrs. Chadband pays the money. It is Mr.
 Chadband’s habit—it is the head and front of his pretensions
 indeed—to keep this sort of debtor and creditor account in the
 smallest items and to post it publicly on the most trivial occasions.
 
 “My friends,” says Chadband, “eightpence is not much; it might justly
-have been one and fourpence; it might justly have been half a crown.
+have been one and fourpence; it might justly have been half a [[Crown|crown]].
 O let us be joyful, joyful! O let us be joyful!”
 
 With which remark, which appears from its sound to be an extract in
@@ -267,7 +267,7 @@ we are but mortal, because we are but sinful, because we are but of
 the earth, because we are not of the air. Can we fly, my friends? We
 cannot. Why can we not fly, my friends?”
 
-Mr. Snagsby, presuming on the success of his last point, ventures to
+Mr. Snagsby, presuming on the [[success]] of his last point, ventures to
 observe in a cheerful and rather knowing tone, “No wings.” But is
 immediately frowned down by Mrs. Snagsby.
 
@@ -275,7 +275,7 @@ immediately frowned down by Mrs. Snagsby.
 obliterating Mr. Snagsby’s suggestion, “why can we not fly? Is it
 because we are calculated to walk? It is. Could we walk, my friends,
 without strength? We could not. What should we do without strength,
-my friends? Our legs would refuse to bear us, our knees would double
+my friends? Our legs would refuse to bear us, our knees would [[Double|double]]
 up, our ankles would turn over, and we should come to the ground.
 Then from whence, my friends, in a human point of view, do we derive
 the strength that is necessary to our limbs? Is it,” says Chadband,
@@ -293,13 +293,13 @@ experience that the Chadband style of oratory is widely received and
 much admired.
 
 Mr. Chadband, however, having concluded for the present, sits down at
-Mr. Snagsby’s table and lays about him prodigiously. The conversion
+Mr. Snagsby’s table and lays about him prodigiously. The [[conversion]]
 of nutriment of any sort into oil of the quality already mentioned
 appears to be a process so inseparable from the constitution of this
 exemplary vessel that in beginning to eat and drink, he may be
 described as always becoming a kind of considerable oil mills or
 other large factory for the production of that article on a wholesale
-scale. On the present evening of the long vacation, in Cook’s Court,
+scale. On the present evening of the long vacation, in Cook’s [[Court]],
 Cursitor Street, he does such a powerful stroke of business that the
 warehouse appears to be quite full when the works cease.
 
@@ -324,7 +324,7 @@ contemplating a police constable, who holds a ragged boy by the arm.
 won’t move on—”
 
 “I’m always a-moving on, sar,” cries the boy, wiping away his grimy
-tears with his arm. “I’ve always been a-moving and a-moving on, ever
+[[Tears|tears]] with his arm. “I’ve always been a-moving and a-moving on, ever
 since I was born. Where can I possibly move to, sir, more nor I do
 move!”
 
@@ -345,8 +345,8 @@ hundred times.”
 
 “But where?” cries the boy.
 
-“Well! Really, constable, you know,” says Mr. Snagsby wistfully, and
-coughing behind his hand his cough of great perplexity and doubt,
+“[[Well]]! Really, constable, you know,” says Mr. Snagsby wistfully, and
+coughing behind his hand his cough of great perplexity and [[Doubt|doubt]],
 “really, that does seem a question. Where, you know?”
 
 “My instructions don’t go to that,” replies the constable. “My
@@ -362,7 +362,7 @@ all agree about that. Move on!
 
 Mr. Snagsby says nothing to this effect, says nothing at all indeed,
 but coughs his forlornest cough, expressive of no thoroughfare in any
-direction. By this time Mr. and Mrs. Chadband and Mrs. Snagsby,
+direction. By this [[Time|time]] Mr. and Mrs. Chadband and Mrs. Snagsby,
 hearing the altercation, have appeared upon the stairs. Guster having
 never left the end of the passage, the whole household are assembled.
 
@@ -372,13 +372,13 @@ this boy. He says you do.”
 Mrs. Snagsby, from her elevation, instantly cries out, “No he don’t!”
 
 “My lit-tle woman!” says Mr. Snagsby, looking up the staircase. “My
-love, permit me! Pray have a moment’s patience, my dear. I do know
+[[Love|love]], permit me! Pray have a moment’s patience, my dear. I do know
 something of this lad, and in what I know of him, I can’t say that
 there’s any harm; perhaps on the contrary, constable.” To whom the
 law-stationer relates his Joful and woeful experience, suppressing
-the half-crown fact.
+the half-[[Crown|crown]] fact.
 
-“Well!” says the constable, “so far, it seems, he had grounds for
+“[[Well]]!” says the constable, “so far, it seems, he had grounds for
 what he said. When I took him into custody up in Holborn, he said you
 knew him. Upon that, a young man who was in the crowd said he was
 acquainted with you, and you were a respectable housekeeper, and if
@@ -394,15 +394,15 @@ mentioned, I thought it was right the thing should be looked into.”
 
 “It was very good-natured of you, sir,” says Mr. Snagsby, “and I am
 obliged to you.” And Mr. Snagsby again relates his experience, again
-suppressing the half-crown fact.
+suppressing the half-[[Crown|crown]] fact.
 
 “Now, I know where you live,” says the constable, then, to Jo. “You
-live down in Tom-all-Alone’s. That’s a nice innocent place to live
+live down in Tom-all-[[Alone]]’s. That’s a nice [[Innocent|innocent]] place to live
 in, ain’t it?”
 
 “I can’t go and live in no nicer place, sir,” replies Jo. “They
-wouldn’t have nothink to say to me if I wos to go to a nice innocent
-place fur to live. Who ud go and let a nice innocent lodging to such
+wouldn’t have nothink to say to me if I wos to go to a nice [[Innocent|innocent]]
+place fur to live. Who ud go and let a nice [[Innocent|innocent]] lodging to such
 a reg’lar one as me!”
 
 “You are very poor, ain’t you?” says the constable.
@@ -414,14 +414,14 @@ upon him!”
 
 “They’re wot’s left, Mr. Snagsby,” says Jo, “out of a sov-ring as wos
 give me by a lady in a wale as sed she wos a servant and as come to
-my crossin one night and asked to be showd this ’ere ouse and the
+my crossin one [[Night|night]] and asked to be showd this ’ere ouse and the
 ouse wot him as you giv the writin to died at, and the berrin-ground
 wot he’s berrid in. She ses to me she ses ‘are you the boy at the
 inkwhich?’ she ses. I ses ‘yes’ I ses. She ses to me she ses ‘can you
 show me all them places?’ I ses ‘yes I can’ I ses. And she ses to me
 ‘do it’ and I dun it and she giv me a sov’ring and hooked it. And I
-an’t had much of the sov’ring neither,” says Jo, with dirty tears,
-“fur I had to pay five bob, down in Tom-all-Alone’s, afore they’d
+an’t had much of the sov’ring neither,” says Jo, with dirty [[Tears|tears]],
+“fur I had to pay five bob, down in Tom-all-[[Alone]]’s, afore they’d
 square it fur to give me change, and then a young man he thieved
 another five while I was asleep and another boy he thieved ninepence
 and the landlord he stood drains round with a lot more on it.”
@@ -433,34 +433,34 @@ ineffable disdain.
 “I don’t know as I do, sir,” replies Jo. “I don’t expect nothink at
 all, sir, much, but that’s the true hist’ry on it.”
 
-“You see what he is!” the constable observes to the audience. “Well,
-Mr. Snagsby, if I don’t lock him up this time, will you engage for
+“You see what he is!” the constable observes to the audience. “[[Well]],
+Mr. Snagsby, if I don’t lock him up this [[Time|time]], will you engage for
 his moving on?”
 
 “No!” cries Mrs. Snagsby from the stairs.
 
-“My little woman!” pleads her husband. “Constable, I have no doubt
+“My little woman!” pleads her husband. “Constable, I have no [[Doubt|doubt]]
 he’ll move on. You know you really must do it,” says Mr. Snagsby.
 
 “I’m everyways agreeable, sir,” says the hapless Jo.
 
 “Do it, then,” observes the constable. “You know what you have got to
-do. Do it! And recollect you won’t get off so easy next time. Catch
+do. Do it! And recollect you won’t get off so easy next [[Time|time]]. Catch
 hold of your money. Now, the sooner you’re five mile off, the better
 for all parties.”
 
 With this farewell hint and pointing generally to the setting sun as
 a likely place to move on to, the constable bids his auditors good
-afternoon and makes the echoes of Cook’s Court perform slow music for
+afternoon and makes the echoes of Cook’s [[Court]] perform slow music for
 him as he walks away on the shady side, carrying his iron-bound hat
 in his hand for a little ventilation.
 
 Now, Jo’s improbable story concerning the lady and the sovereign has
 awakened more or less the curiosity of all the company. Mr. Guppy,
 who has an inquiring mind in matters of evidence and who has
-been suffering severely from the lassitude of the long vacation,
+been [[Suffering|suffering]] severely from the lassitude of the long vacation,
 takes that interest in the case that he enters on a regular
-cross-examination of the witness, which is found so interesting by
+[[Cross|cross]]-examination of the witness, which is found so interesting by
 the ladies that Mrs. Snagsby politely invites him to step upstairs
 and drink a cup of tea, if he will excuse the disarranged state of
 the tea-table, consequent on their previous exertions. Mr. Guppy
@@ -477,7 +477,7 @@ During the progress of this keen encounter, the vessel Chadband,
 being merely engaged in the oil trade, gets aground and waits to be
 floated off.
 
-“Well!” says Mr. Guppy. “Either this boy sticks to it like
+“[[Well]]!” says Mr. Guppy. “Either this boy sticks to it like
 cobbler’s-wax or there is something out of the common here that beats
 anything that ever came into my way at Kenge and Carboy’s.”
 
@@ -495,7 +495,7 @@ wife—Reverend Mr. Chadband.”
 “Before I married my present husband,” says Mrs. Chadband.
 
 “Was you a party in anything, ma’am?” says Mr. Guppy, transferring
-his cross-examination.
+his [[Cross|cross]]-examination.
 
 “No.”
 
@@ -514,30 +514,30 @@ with a hard-favoured smile.
 ma’am, was it a lady of your acquaintance who had some transactions
 (we will not at present say what transactions) with Kenge and
 Carboy’s office, or was it a gentleman of your acquaintance? Take
-time, ma’am. We shall come to it presently. Man or woman, ma’am?”
+[[Time|time]], ma’am. We shall come to it presently. Man or woman, ma’am?”
 
 “Neither,” says Mrs. Chadband as before.
 
-“Oh! A child!” says Mr. Guppy, throwing on the admiring Mrs. Snagsby
+“Oh! A [[Child|child]]!” says Mr. Guppy, throwing on the admiring Mrs. Snagsby
 the regular acute professional eye which is thrown on British
 jurymen. “Now, ma’am, perhaps you’ll have the kindness to tell us
-WHAT child.”
+WHAT [[Child|child]].”
 
 “You have got it at last, sir,” says Mrs. Chadband with another
-hard-favoured smile. “Well, sir, it was before your time, most
-likely, judging from your appearance. I was left in charge of a child
-named Esther Summerson, who was put out in life by Messrs. Kenge and
+hard-favoured smile. “[[Well]], sir, it was before your [[Time|time]], most
+likely, judging from your appearance. I was left in charge of a [[Child|child]]
+named [[Esther Summerson]], who was put out in life by Messrs. Kenge and
 Carboy.”
 
 “Miss Summerson, ma’am!” cries Mr. Guppy, excited.
 
-“I call her Esther Summerson,” says Mrs. Chadband with austerity.
-“There was no Miss-ing of the girl in my time. It was Esther.
+“I call her [[Esther Summerson]],” says Mrs. Chadband with austerity.
+“There was no Miss-ing of the girl in my [[Time|time]]. It was Esther.
 ‘Esther, do this! Esther, do that!’ and she was made to do it.”
 
 “My dear ma’am,” returns Mr. Guppy, moving across the small
 apartment, “the humble individual who now addresses you received that
-young lady in London when she first came here from the establishment
+young lady in [[London]] when she first came here from the establishment
 to which you have alluded. Allow me to have the pleasure of taking
 you by the hand.”
 
@@ -547,7 +547,7 @@ pocket-handkerchief. Mrs. Snagsby whispers “Hush!”
 
 “My friends,” says Chadband, “we have partaken in moderation” (which
 was certainly not the case so far as he was concerned) “of the
-comforts which have been provided for us. May this house live upon
+comforts which have been provided for us. May this [[house]] live upon
 the fatness of the land; may corn and wine be plentiful therein; may
 it grow, may it thrive, may it prosper, may it advance, may it
 proceed, may it press forward! But, my friends, have we partaken of
@@ -560,15 +560,15 @@ forward, and another slouch to each side, and confronts the eloquent
 Chadband with evident doubts of his intentions.
 
 “My young friend,” says Chadband, “you are to us a pearl, you are to
-us a diamond, you are to us a gem, you are to us a jewel. And why, my
+us a diamond, you are to us a gem, you are to us a [[Jewel|jewel]]. And why, my
 young friend?”
 
 “I don’t know,” replies Jo. “I don’t know nothink.”
 
 “My young friend,” says Chadband, “it is because you know nothing
-that you are to us a gem and jewel. For what are you, my young
+that you are to us a gem and [[Jewel|jewel]]. For what are you, my young
 friend? Are you a beast of the field? No. A bird of the air? No. A
-fish of the sea or river? No. You are a human boy, my young friend. A
+fish of the sea or [[River|river]]? No. You are a human boy, my young friend. A
 human boy. O glorious to be a human boy! And why glorious, my young
 friend? Because you are capable of receiving the lessons of wisdom,
 because you are capable of profiting by this discourse which I now
@@ -583,7 +583,7 @@ Why do you not cool yourself in that stream now? Because you are in a
 state of darkness, because you are in a state of obscurity, because
 you are in a state of sinfulness, because you are in a state of
 bondage. My young friend, what is bondage? Let us, in a spirit of
-love, inquire.”
+[[Love|love]], inquire.”
 
 At this threatening stage of the discourse, Jo, who seems to have
 been gradually going out of his mind, smears his right arm over his
@@ -594,7 +594,7 @@ her belief that he is a limb of the arch-fiend.
 itself into its fat smile again as he looks round, “it is right that
 I should be humbled, it is right that I should be tried, it is right
 that I should be mortified, it is right that I should be corrected. I
-stumbled, on Sabbath last, when I thought with pride of my three
+stumbled, on Sabbath last, when I thought with [[Pride|pride]] of my three
 hours’ improving. The account is now favourably balanced: my creditor
 has accepted a composition. O let us be joyful, joyful! O let us be
 joyful!”
@@ -605,30 +605,30 @@ Great sensation on the part of Mrs. Snagsby.
 not proceed with my young friend now. Will you come to-morrow, my
 young friend, and inquire of this good lady where I am to be found to
 deliver a discourse unto you, and will you come like the thirsty
-swallow upon the next day, and upon the day after that, and upon the
+[[Swallow|swallow]] upon the next day, and upon the day after that, and upon the
 day after that, and upon many pleasant days, to hear discourses?”
 (This with a cow-like lightness.)
 
 Jo, whose immediate object seems to be to get away on any terms,
 gives a shuffling nod. Mr. Guppy then throws him a penny, and Mrs.
-Snagsby calls to Guster to see him safely out of the house. But
+Snagsby calls to Guster to see him safely out of the [[house]]. But
 before he goes downstairs, Mr. Snagsby loads him with some broken
 meats from the table, which he carries away, hugging in his arms.
 
-So, Mr. Chadband—of whom the persecutors say that it is no wonder he
-should go on for any length of time uttering such abominable
-nonsense, but that the wonder rather is that he should ever leave
+So, Mr. Chadband—of whom the persecutors say that it is no [[Wonder|wonder]] he
+should go on for any length of [[Time|time]] uttering such abominable
+nonsense, but that the [[Wonder|wonder]] rather is that he should ever leave
 off, having once the audacity to begin—retires into private life
 until he invests a little capital of supper in the oil-trade. Jo
 moves on, through the long vacation, down to Blackfriars Bridge,
 where he finds a baking stony corner wherein to settle to his repast.
 
 And there he sits, munching and gnawing, and looking up at the great
-cross on the summit of St. Paul’s Cathedral, glittering above a
+[[Cross|cross]] on the summit of St. Paul’s [[Cathedral]], glittering above a
 red-and-violet-tinted cloud of smoke. From the boy’s face one might
 suppose that sacred emblem to be, in his eyes, the crowning confusion
-of the great, confused city—so golden, so high up, so far out of his
-reach. There he sits, the sun going down, the river running fast, the
+of the great, confused [[City|city]]—so golden, so high up, so far out of his
+reach. There he sits, the sun going down, the [[River|river]] running fast, the
 crowd flowing by him in two streams—everything moving on to some
 purpose and to one end—until he is stirred up and told to “move on”
 too.

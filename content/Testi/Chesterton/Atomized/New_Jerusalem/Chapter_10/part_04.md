@@ -27,12 +27,12 @@ Bethlehem contains something impossible to describe, yet driving
 me beyond expression to a desperate attempt at description.
 The church is entered through a door so small that it it might fairly
 be called a hole, in which many have seen, and I think truly,
-a symbol of some idea of humility.  It is also said that the wall
+a symbol of some idea of [[Humility|humility]].  It is also said that the wall
 was pierced in this way to prevent the appearance of a camel
 during divine service, but even that explanation would only repeat
-the same suggestion through the parable of the needle's eye.
+the same suggestion through the [[Parable|parable]] of the needle's eye.
 Personally I should guess that, in so far as the purpose was practical,
-it was meant to keep out much more dangerous animals than camels,
+it was meant to keep out much more dangerous [[Animals|animals]] than camels,
 as, for instance, Turks.  For the whole church has clearly been
 turned into a fortress, windows are bricked up and walls thickened
 in some or all of its thousand years of religious war.  In the blank
@@ -42,9 +42,9 @@ in the strange interlude between the decline of Rome and the rise
 of Mahomet.  For when the Persians who had destroyed Jerusalem rode
 out in triumph to the village of Bethlehem, they looked up and saw
 above the door a picture in coloured stone, a picture of themselves.
-They were following a strange star and worshipping an unknown child.
-For a Christian artist, following some ancient Eastern tradition
-containing an eternal truth, had drawn the three wise men with
+They were following a strange star and worshipping an unknown [[Child|child]].
+For a Christian [[artist]], following some ancient Eastern tradition
+containing an eternal [[Truth|truth]], had drawn the three wise men with
 the long robes and high head-dresses of Persia.  The worshippers
 of the sun had come westward for the worship of the star.
 But whether that part of the church were bare and bald as it is
@@ -58,25 +58,25 @@ with the acanthus in the manner of the Corinthian school.
 They were carved and set up at the command of Constantine;
 and beyond them, at the other end of the church beside the altar,
 is the dark stairway that descends under the canopies of rock
-to the stable where Christ was born.
+to the stable where [[Christ]] was born.
 
 Of all the things I have seen the most convincing, and as it
 were crushing, were these red columns of Constantine.
 In explanation of the sentiment there are a thousand things that want
 saying and cannot be said.  Never have I felt so vividly the great
-fact of our history; that the Christian religion is like a huge
-bridge across a boundless sea, which alone connects us with the men
+fact of our [[history]]; that the Christian religion is like a huge
+bridge across a boundless sea, which [[Alone|alone]] connects us with the men
 who made the world, and yet have utterly vanished from the world.
-To put it curtly and very crudely on this point alone it was
+To put it curtly and very crudely on this point [[Alone|alone]] it was
 possible to sympathise with a Roman and not merely to admire him.
-All his pagan remains are but sublime fossils; for we can never know
+All his pagan remains are but [[Sublime|sublime]] fossils; for we can never know
 the life that was in them.  We know that here and there was a temple
-to Venus or there an altar to Vesta; but who knows or pretends to know
-what he really felt about Venus or Vesta?  Was a Vestal Virgin
+to [[Venus]] or there an altar to Vesta; but who knows or pretends to know
+what he really felt about [[Venus]] or Vesta?  Was a Vestal Virgin
 like a Christian Virgin, or something profoundly different?
-Was he quite serious about Venus, like a diabolist, or merely frivolous
-about Venus, like a Christian?  If the spirit was different from ours
-we cannot hope to understand it, and if the spirit was like ours,
+Was he quite serious about [[Venus]], like a [[diabolist]], or merely frivolous
+about [[Venus]], like a Christian?  If the spirit was different from ours
+we cannot [[Hope|hope]] to understand it, and if the spirit was like ours,
 the spirit was expressed in images that no longer express it.
 But it is here that he and I meet; and salute the same images
 in the end.
@@ -89,15 +89,15 @@ Here halted that imperial civilisation, when it had marched in triumph
 through the whole world; here in the evening of its days it came
 trailing in all its panoply in the pathway of the three kings.
 For it came following not only a falling but a fallen star and one
-that dived before them into a birthplace darker than a grave.
+that dived before them into a birthplace darker than a [[Grave|grave]].
 And the lord of the laurels, clad in his sombre crimson, looked down
-into that darkness, and then looked up, and saw that all the stars
+into that darkness, and then looked up, and saw that all the [[Stars|stars]]
 in his own sky were dead.  They were deities no longer but only
-a brilliant dust, scattered down the vain void of Lucretius.
-The stars were as stale as they were strong; they would never die
+a brilliant [[Dust|dust]], scattered down the vain void of Lucretius.
+The [[Stars|stars]] were as stale as they were strong; they would never die
 for they had never lived; they were cursed with an incurable
-immortality that was but the extension of mortality; they were
-chained in the chains of causation and unchangeable as the dead.
+[[Immortality|immortality]] that was but the extension of [[Mortality|mortality]]; they were
+chained in the [[Chains|chains]] of causation and unchangeable as the dead.
 There are not many men in the modern world who do not know that mood,
 though it was not discovered by the moderns; it was the final and
 seemingly fixed mood of nearly all the ancients.  Only above the black
@@ -128,22 +128,22 @@ by a man who can tell a story without seeing the point of
 the story, considered as a story or even considered as a lie.
 And a man who sees the rags and the royal purple as a clumsy
 inconsistency is merely missing the meaning of a deliberate design.
-He is like a man who should hear the story of King Cophetua and the beggar
+He is like a man who should hear the story of [[King]] Cophetua and the beggar
 maid and say doubtfully that it was hard to recognise it as really _a
 mariage de convenance_; a phrase which (I may remark in parenthesis but
-not without passion) is not the French for "a marriage of convenience,"
+not without passion) is not the French for "a [[Marriage|marriage]] of convenience,"
 any more than _hors d'oeuvre_ is the French for "out of work";
 but may be more rightly rendered in English as "a suitable match."
-But nobody thought the match of the king and the beggar maid
+But nobody thought the match of the [[King|king]] and the beggar maid
 conventionally a suitable match; and nobody would ever have
 thought the story worth telling if it had been.  It is like saying
 that Diogenes, remaining in his tub after the offer of Alexander,
 must have been unaware of the opportunities of Greek architecture;
 or like saying that Nebuchadnezzar eating grass is clearly inconsistent
-with court etiquette, or not to be found in any fashionable cookery book.
+with [[Court|court]] etiquette, or not to be found in any fashionable cookery book.
 I do not mind the learned sceptic saying it is a legend or a lie;
 but I weep for him when he cannot see the gist of it, I might even
 say the joke of it.  I do not object to his rejecting the story
 as a tall story; but I find it deplorable when he cannot see
 the point or end or upshot of the tall story, the very pinnacle
-or spire of that sublime tower.
+or spire of that [[Sublime|sublime]] tower.

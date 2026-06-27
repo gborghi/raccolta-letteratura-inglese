@@ -68,7 +68,7 @@ This and all associated files of various formats will be found in:
 
 
 
-Produced by Robert Shimmin, Stephen Hope and the Online Distributed
+Produced by Robert Shimmin, Stephen [[Hope]] and the Online Distributed
 
 Proofreading Team.
 
@@ -210,7 +210,7 @@ copying, distributing, performing, displaying or creating derivative
 
 works based on the work as long as all references to Project Gutenberg
 
-are removed.  Of course, we hope that you will support the Project
+are removed.  Of course, we [[Hope|hope]] that you will support the Project
 
 Gutenberg-tm mission of promoting free access to electronic works by
 

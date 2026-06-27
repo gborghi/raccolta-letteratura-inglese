@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 54 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 54 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -19,7 +19,7 @@ trees and the grasshopper’s merry chirp? Hark! Something very faint and
 distant, not unlike the murmuring in a sea-shell. Now it grew louder,
 fainter now, and now it altogether died away. Presently, it came again,
 subsided, came once more, grew louder, fainter--swelled into a roar. It
-was on the road, and varied with its windings. All at once it burst into
+was on the [[Road|road]], and varied with its windings. All at once it burst into
 a distinct sound--the voices, and the tramping feet of many men.
 
 It is questionable whether old John Willet, even then, would have
@@ -33,19 +33,19 @@ times. But as this word was a monosyllable, which, however inoffensive
 when applied to the quadruped it denotes, is highly reprehensible when
 used in connection with females of unimpeachable character, many persons
 were inclined to believe that the young women laboured under some
-hallucination caused by excessive fear; and that their ears deceived
+hallucination caused by excessive [[Fear|fear]]; and that their ears deceived
 them.
 
 Be this as it may, John Willet, in whom the very uttermost extent of
-dull-headed perplexity supplied the place of courage, stationed himself
+dull-headed perplexity supplied the place of [[Courage|courage]], stationed himself
 in the porch, and waited for their coming up. Once, it dimly occurred
-to him that there was a kind of door to the house, which had a lock and
-bolts; and at the same time some shadowy ideas of shutters to the lower
+to him that there was a kind of door to the [[house]], which had a lock and
+bolts; and at the same [[Time|time]] some shadowy ideas of shutters to the lower
 windows, flitted through his brain. But he stood stock still, looking
-down the road in the direction in which the noise was rapidly advancing,
+down the [[Road|road]] in the direction in which the noise was rapidly advancing,
 and did not so much as take his hands out of his pockets.
 
-He had not to wait long. A dark mass, looming through a cloud of dust,
+He had not to wait long. A dark mass, looming through a cloud of [[Dust|dust]],
 soon became visible; the mob quickened their pace; shouting and whooping
 like savages, they came rushing on pell mell; and in a few seconds he
 was bandied from hand to hand, in the heart of a crowd of men.
@@ -58,7 +58,7 @@ Mr Willet looked at him, and saw it was Hugh; but he said nothing, and
 thought nothing.
 
 ‘These lads are thirsty and must drink!’ cried Hugh, thrusting him back
-towards the house. ‘Bustle, Jack, bustle. Show us the best--the very
+towards the [[house]]. ‘Bustle, Jack, bustle. Show us the best--the very
 best--the over-proof that you keep for your own drinking, Jack!’
 
 John faintly articulated the words, ‘Who’s to pay?’
@@ -69,22 +69,22 @@ nobody.’
 
 John stared round at the mass of faces--some grinning, some fierce, some
 lighted up by torches, some indistinct, some dusky and shadowy: some
-looking at him, some at his house, some at each other--and while he was,
+looking at him, some at his [[house]], some at each other--and while he was,
 as he thought, in the very act of doing so, found himself, without any
 consciousness of having moved, in the bar; sitting down in an arm-chair,
 and watching the destruction of his property, as if it were some queer
-play or entertainment, of an astonishing and stupefying nature, but
+play or entertainment, of an astonishing and stupefying [[Nature|nature]], but
 having no reference to himself--that he could make out--at all.
 
 Yes. Here was the bar--the bar that the boldest never entered without
 special invitation--the sanctuary, the mystery, the hallowed ground:
 here it was, crammed with men, clubs, sticks, torches, pistols; filled
 with a deafening noise, oaths, shouts, screams, hootings; changed all at
-once into a bear-garden, a madhouse, an infernal temple: men darting
-in and out, by door and window, smashing the glass, turning the taps,
+once into a bear-[[Garden|garden]], a madhouse, an infernal temple: men darting
+in and out, by door and [[Window|window]], smashing the glass, turning the taps,
 drinking liquor out of China punchbowls, sitting astride of casks,
 smoking private and personal pipes, cutting down the sacred grove of
-lemons, hacking and hewing at the celebrated cheese, breaking open
+lemons, hacking and hewing at the celebrated [[cheese]], breaking open
 inviolable drawers, putting things in their pockets which didn’t belong
 to them, dividing his own money before his own eyes, wantonly wasting,
 breaking, pulling down and tearing up: nothing quiet, nothing private:
@@ -93,29 +93,29 @@ in the yard, in the stables--clambering in at windows when there were
 doors wide open; dropping out of windows when the stairs were handy;
 leaping over the bannisters into chasms of passages: new faces and
 figures presenting themselves every instant--some yelling, some singing,
-some fighting, some breaking glass and crockery, some laying the dust
-with the liquor they couldn’t drink, some ringing the bells till they
+some fighting, some breaking glass and crockery, some laying the [[Dust|dust]]
+with the liquor they couldn’t drink, some ringing [[The Bells|the bells]] till they
 pulled them down, others beating them with pokers till they beat them
 into fragments: more men still--more, more, more--swarming on like
-insects: noise, smoke, light, darkness, frolic, anger, laughter, groans,
-plunder, fear, and ruin!
+[[Insects|insects]]: noise, smoke, light, darkness, frolic, anger, laughter, groans,
+plunder, [[Fear|fear]], and ruin!
 
-Nearly all the time while John looked on at this bewildering scene, Hugh
+Nearly all the [[Time|time]] while John looked on at this bewildering scene, Hugh
 kept near him; and though he was the loudest, wildest, most destructive
-villain there, he saved his old master’s bones a score of times. Nay,
+[[Villain|villain]] there, he saved his old master’s bones a score of times. Nay,
 even when Mr Tappertit, excited by liquor, came up, and in assertion of
 his prerogative politely kicked John Willet on the shins, Hugh bade him
 return the compliment; and if old John had had sufficient presence of
 mind to understand this whispered direction, and to profit by it, he
-might no doubt, under Hugh’s protection, have done so with impunity.
+might no [[Doubt|doubt]], under Hugh’s protection, have done so with impunity.
 
-At length the band began to reassemble outside the house, and to call
-to those within, to join them, for they were losing time. These murmurs
+At length the band began to reassemble outside the [[house]], and to call
+to those within, to join them, for they were losing [[Time|time]]. These murmurs
 increasing, and attaining a high pitch, Hugh, and some of those who yet
 lingered in the bar, and who plainly were the leaders of the troop, took
 counsel together, apart, as to what was to be done with John, to keep
 him quiet until their Chigwell work was over. Some proposed to set the
-house on fire and leave him in it; others, that he should be reduced
+[[house]] on [[Fire|fire]] and leave him in it; others, that he should be reduced
 to a state of temporary insensibility, by knocking on the head; others,
 that he should be sworn to sit where he was until to-morrow at the same
 hour; others again, that he should be gagged and taken off with them,

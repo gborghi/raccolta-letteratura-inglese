@@ -27,9 +27,9 @@ from the books of all "the American humorists."
 The science of language has large and close analogies in geological
 science, with its ceaseless evolution, its fossils, and its numberless
 submerged layers and hidden strata, the infinite go-before of the
-present. Or, perhaps Language is more like some vast living body, or
-perennial body of bodies. And slang not only brings the first feeders
-of it, but is afterward the start of fancy, imagination and humor,
+present. Or, perhaps Language is more like some vast living [[Body|body]], or
+perennial [[Body|body]] of bodies. And slang not only brings the first feeders
+of it, but is afterward the start of fancy, [[Imagination|imagination]] and humor,
 breathing into its nostrils the breath of life.
 
 
@@ -39,19 +39,19 @@ AN INDIAN BUREAU REMINISCENCE
 
 
 After the close of the secession war in 1865, I work'd several months
-(until Mr. Harlan turn'd me out for having written "Leaves of Grass") in
+(until Mr. Harlan turn'd me out for having written "[[Leaves]] of Grass") in
 the Interior Department at Washington, in the Indian Bureau. Along
-this time there came to see their Great Father an unusual number of
+this [[Time|time]] there came to see their Great Father an unusual number of
 aboriginal visitors, delegations for treaties, settlement of lands,
 &c.--some young or middle-aged, but mainly old men, from the West,
 North, and occasionally from the South--parties of from five to twenty
-each--the most wonderful proofs of what Nature can produce, (the
-survival of the fittest, no doubt--all the frailer samples dropt, sorted
-out by death)--as if to show how the earth and woods, the attrition of
+each--the most wonderful proofs of what [[Nature]] can produce, (the
+[[Survival|survival]] of the fittest, no [[Doubt|doubt]]--all the frailer samples dropt, sorted
+out by [[Death|death]])--as if to show how the earth and woods, the attrition of
 storms and elements, and the exigencies of life at first hand, can
 train and fashion men, indeed _chiefs_, in heroic massiveness,
-imperturbability, muscle, and that last and highest beauty consisting
-of strength--the full exploitation and fruitage of a human identity, not
+imperturbability, muscle, and that last and highest [[Beauty|beauty]] consisting
+of strength--the full exploitation and fruitage of a human [[Identity|identity]], not
 from the culmination-points of "culture" and artificial civilization,
 but tallying our race, as it were, with giant, vital, gnarl'd, enduring
 trees, or monoliths of separate hardiest rocks, and humanity holding its
@@ -61,8 +61,8 @@ There were Omahas, Poncas, Winnebagoes, Cheyennes, Navahos, Apaches,
 and many others. Let me give a running account of what I see and hear
 through one of these conference collections at the Indian Bureau, going
 back to the present tense. Every head and face is impressive, even
-artistic; Nature redeems herself out of her crudest recesses. Most have
-red paint on their cheeks, however, or some other paint. ("Little Hill"
+artistic; [[Nature]] redeems herself out of her crudest recesses. Most have
+red paint on their cheeks, however, or some other paint. ("Little [[Hill]]"
 makes the opening speech, which the interpreter translates by scraps.)
 Many wear head tires of gaudy-color'd braid, wound around thickly--some
 with circlets of eagles' feathers. Necklaces of bears' claws are plenty
@@ -82,8 +82,8 @@ bilious yellow. Let us note this young chief. For all his paint,
 buckskin leggings, dark gray surtout, and a soft black hat. His costume
 will bear full observation, and even fashion would accept him. His
 apparel is worn loose and scant enough to show his superb physique,
-especially in neck, chest, and legs. ("The Apollo Belvidere!" was the
-involuntary exclamation of a famous European artist when he first saw a
+especially in neck, chest, and legs. ("The [[Apollo]] Belvidere!" was the
+involuntary exclamation of a famous European [[Artist|artist]] when he first saw a
 full-grown young Choctaw.)
 
 One of the red visitors--a wild, lean-looking Indian, the one in the
@@ -94,8 +94,8 @@ them avoided resting on chairs during the hour of their "talk" in the
 Commissioner's office; they would sit around on the floor, leaning
 against something, or stand up by the walls, partially wrapt in their
 blankets. Though some of the young fellows were, as I have said,
-magnificent and beautiful animals, I think the palm of unique
-picturesqueness, in body, limb, physiognomy, &c., was borne by the old
+magnificent and beautiful [[Animals|animals]], I think the palm of unique
+picturesqueness, in [[Body|body]], limb, physiognomy, &c., was borne by the old
 or elderly chiefs, and the wise men.
 
 My here-alluded-to experience in the Indian Bureau produced one
@@ -106,7 +106,7 @@ physiognomy--something very remote, very lofty, arousing comparisons
 with our own civilized ideals--something that our literature, portrait
 painting, &c., have never caught, and that will almost certainly never
 be transmitted to the future, even as a reminiscence. No biographer, no
-historian, no artist, has grasp'd it--perhaps could not grasp it. It is
+historian, no [[Artist|artist]], has grasp'd it--perhaps could not grasp it. It is
 so different, so far outside our standards of eminent humanity. Their
 feathers, paint--even the empty buffalo skull--did not, to say the
 least, seem any more ludicrous to me than many of the fashions I have
@@ -115,5 +115,5 @@ rate, in the usual sense) as a leading word in the description of those
 great aboriginal specimens, of whom I certainly saw many of the best.
 There were moments, as I look'd at them or studied them, when our own
 exemplification of personality, dignity, heroic presentation anyhow (as
-in the conventions of society, or even in the accepted poems and plays,)
+in the conventions of society, or even in the accepted [[Poems|poems]] and plays,)
 seem'd sickly, puny, inferior.

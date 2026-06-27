@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 50: FIFTY (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 50: FIFTY (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -25,7 +25,7 @@ to hear my declaration, that I came here for no purpose of reproach--I
 have not one reproach to vent--but in deep regret. You could not know in
 what bitterness of regret, unless you knew how often I have thought of
 Tom; how long in almost hopeless circumstances, I have looked forward
-to the better estimation of his friendship; and how steadfastly I have
+to the better estimation of his [[Friendship|friendship]]; and how steadfastly I have
 believed and trusted in him.’
 
 ‘Tut, tut,’ said Tom, stopping her as she was about to speak. ‘He is
@@ -49,21 +49,21 @@ I say again, you have chosen for yourself. You have made the choice that
 might have been expected in most people situated as you are, but which I
 did not expect in you. For that, perhaps, I should blame my own judgment
 more than you. There is wealth and favour worth having, on one side; and
-there is the worthless friendship of an abandoned, struggling fellow, on
+there is the worthless [[Friendship|friendship]] of an abandoned, struggling fellow, on
 the other. You were free to make your election, and you made it; and the
-choice was not difficult. But those who have not the courage to resist
-such temptations, should have the courage to avow what they have yielded
+choice was not difficult. But those who have not the [[Courage|courage]] to resist
+such temptations, should have the [[Courage|courage]] to avow what they have yielded
 to them; and I DO blame you for this, Tom: that you received me with a
 show of warmth, encouraged me to be frank and plain-spoken, tempted me
 to confide in you, and professed that you were able to be mine; when
 you had sold yourself to others. I do not believe,’ said Martin, with
 emotion--‘hear me say it from my heart--I CANNOT believe, Tom, now that
 I am standing face to face with you, that it would have been in your
-nature to do me any serious harm, even though I had not discovered, by
+[[Nature|nature]] to do me any serious harm, even though I had not discovered, by
 chance, in whose employment you were. But I should have encumbered you;
-I should have led you into more double-dealing; I should have hazarded
+I should have led you into more [[Double|double]]-dealing; I should have hazarded
 your retaining the favour for which you have paid so high a price,
-bartering away your former self; and it is best for both of us that I
+bartering away your former [[Self|self]]; and it is best for both of us that I
 have found out what you so much desired to keep secret.’
 
 ‘Be just,’ said Tom; who, had not removed his mild gaze from Martin’s
@@ -81,7 +81,7 @@ first met. All good go with you, Tom!--I--’
 
 ‘You leave me so? You can leave me so, can you?’ said Tom.
 
-‘I--you--you have chosen for yourself, Tom! I--I hope it was a rash
+‘I--you--you have chosen for yourself, Tom! I--I [[Hope|hope]] it was a rash
 choice,’ Martin faltered. ‘I think it was. I am sure it was! Good-bye!’
 
 And he was gone.
@@ -108,36 +108,36 @@ would break.
 
 ‘Don’t. Don’t,’ said Tom. ‘Why do you hide your face, my dear!’
 
-Then in a burst of tears, it all broke out at last.
+Then in a burst of [[Tears|tears]], it all broke out at last.
 
 ‘Oh Tom, dear Tom, I know your secret heart. I have found it out; you
-couldn’t hide the truth from me. Why didn’t you tell me? I am sure I
-could have made you happier, if you had! You love her, Tom, so dearly!’
+couldn’t hide the [[Truth|truth]] from me. Why didn’t you tell me? I am sure I
+could have made you happier, if you had! You [[Love|love]] her, Tom, so dearly!’
 
 Tom made a motion with his hand as if he would have put his sister
-hurriedly away; but it clasped upon hers, and all his little history
+hurriedly away; but it clasped upon hers, and all his little [[history]]
 was written in the action. All its pathetic eloquence was in the silent
 touch.
 
 ‘In spite of that,’ said Ruth, ‘you have been so faithful and so good,
-dear; in spite of that, you have been so true and self-denying, and have
+dear; in spite of that, you have been so true and [[Self|self]]-denying, and have
 struggled with yourself; in spite of that, you have been so gentle,
 and so kind, and even-tempered, that I have never seen you give a hasty
 look, or heard you say one irritable word. In spite of all, you have
 been so cruelly mistaken. Oh Tom, dear Tom, will THIS be set right too!
 Will it, Tom? Will you always have this sorrow in your breast; you who
-deserve to be so happy; or is there any hope?’
+deserve to be so happy; or is there any [[Hope|hope]]?’
 
 And still she hid her face from Tom, and clasped him round the neck,
-and wept for him, and poured out all her woman’s heart and soul in the
-relief and pain of this disclosure.
+and wept for him, and poured out all her woman’s heart and [[Soul|soul]] in the
+relief and [[Pain|pain]] of this disclosure.
 
 It was not very long before she and Tom were sitting side by side, and
 she was looking with an earnest quietness in Tom’s face. Then Tom spoke
 to her thus, cheerily, though gravely:
 
 ‘I am very glad, my dear, that this has passed between us. Not because
-it assures me of your tender affection (for I was well assured of that
+it assures me of your tender affection (for I was [[Well|well]] assured of that
 before), but because it relieves my mind of a great weight.’
 
 Tom’s eyes glistened when he spoke of her affection; and he kissed her
@@ -145,6 +145,6 @@ on the cheek.
 
 ‘My dear girl,’ said Tom; ‘with whatever feeling I regard her’--they
 seemed to avoid the name by mutual consent--‘I have long ago--I am sure
-I may say from the very first--looked upon it as a dream. As something
+I may say from the very first--looked upon it as [[A Dream|a dream]]. As something
 that might possibly have happened under very different circumstances,
 but which can never be. Now, tell me. What would you have set right?’

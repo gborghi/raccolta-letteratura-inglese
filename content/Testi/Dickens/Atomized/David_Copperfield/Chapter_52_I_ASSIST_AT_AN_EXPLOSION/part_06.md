@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION (part 6)"
+title: "[[David Copperfield]] — Chapter 52: I ASSIST AT AN EXPLOSION (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -22,16 +22,16 @@ relinquished it to Mr. Traddles.”’
 ‘It is quite true,’ assented Traddles.
 
 ‘Ury, Ury!’ cried the mother, ‘be umble and make terms. I know my
-son will be umble, gentlemen, if you’ll give him time to think. Mr.
+son will be umble, gentlemen, if you’ll give him [[Time|time]] to think. Mr.
 Copperfield, I’m sure you know that he was always very umble, sir!’
 
 It was singular to see how the mother still held to the old trick, when
 the son had abandoned it as useless.
 
 ‘Mother,’ he said, with an impatient bite at the handkerchief in which
-his hand was wrapped, ‘you had better take and fire a loaded gun at me.’
+his hand was wrapped, ‘you had better take and [[Fire|fire]] a loaded gun at me.’
 
-‘But I love you, Ury,’ cried Mrs. Heep. And I have no doubt she did; or
+‘But I [[Love|love]] you, Ury,’ cried Mrs. Heep. And I have no [[Doubt|doubt]] she did; or
 that he loved her, however strange it may appear; though, to be sure,
 they were a congenial couple. ‘And I can’t bear to hear you provoking
 the gentlemen, and endangering of yourself more. I told the gentleman
@@ -60,11 +60,11 @@ performance with which he was so highly satisfied.
 
 ‘“Third. And last. I am now in a condition to show, by--HEEP’S--false
 books, and--HEEP’S--real memoranda, beginning with the partially
-destroyed pocket-book (which I was unable to comprehend, at the time of
+destroyed pocket-book (which I was unable to comprehend, at the [[Time|time]] of
 its accidental discovery by Mrs. Micawber, on our taking possession of
 our present abode, in the locker or bin devoted to the reception of the
 ashes calcined on our domestic hearth), that the weaknesses, the faults,
-the very virtues, the parental affections, and the sense of honour, of
+the very virtues, the parental affections, and the sense of [[Honour|honour]], of
 the unhappy Mr. W. have been for years acted on by, and warped to the
 base purposes of--HEEP. That Mr. W. has been for years deluded and
 plundered, in every conceivable manner, to the pecuniary aggrandisement
@@ -73,8 +73,8 @@ of--HEEP--was, next to gain, to subdue Mr. and Miss W. (of his ulterior
 views in reference to the latter I say nothing) entirely to himself.
 That his last act, completed but a few months since, was to induce Mr.
 W. to execute a relinquishment of his share in the partnership, and even
-a bill of sale on the very furniture of his house, in consideration of a
-certain annuity, to be well and truly paid by--HEEP--on the four common
+a bill of sale on the very furniture of his [[house]], in consideration of a
+certain annuity, to be [[Well|well]] and truly paid by--HEEP--on the four common
 quarter-days in each and every year. That these meshes; beginning with
 alarming and falsified accounts of the estate of which Mr. W. is the
 receiver, at a period when Mr. W. had launched into imprudent and
@@ -85,8 +85,8 @@ by--HEEP--fraudulently obtained or withheld from Mr. W. himself,
 on pretence of such speculations or otherwise; perpetuated by a
 miscellaneous catalogue of unscrupulous chicaneries--gradually
 thickened, until the unhappy Mr. W. could see no world beyond. Bankrupt,
-as he believed, alike in circumstances, in all other hope, and
-in honour, his sole reliance was upon the monster in the garb of
+as he believed, alike in circumstances, in all other [[Hope|hope]], and
+in [[Honour|honour]], his sole reliance was upon the [[Monster|monster]] in the garb of
 man,”’--Mr. Micawber made a good deal of this, as a new turn of
 expression,--‘“who, by making himself necessary to him, had achieved his
 destruction. All this I undertake to show. Probably much more!”’
@@ -103,22 +103,22 @@ landscape on which we appear to be an encumbrance. That is soon done. It
 may be reasonably inferred that our baby will first expire of inanition,
 as being the frailest member of our circle; and that our twins will
 follow next in order. So be it! For myself, my Canterbury Pilgrimage has
-done much; imprisonment on civil process, and want, will soon do more.
+done much; [[Imprisonment|imprisonment]] on civil process, and want, will soon do more.
 I trust that the labour and hazard of an investigation--of which the
 smallest results have been slowly pieced together, in the pressure of
 arduous avocations, under grinding penurious apprehensions, at rise of
-morn, at dewy eve, in the shadows of night, under the watchful eye of
+morn, at dewy eve, in the shadows of [[Night|night]], under the watchful eye of
 one whom it were superfluous to call Demon--combined with the struggle
-of parental Poverty to turn it, when completed, to the right account,
-may be as the sprinkling of a few drops of sweet water on my funeral
+of parental [[Poverty]] to turn it, when completed, to the right account,
+may be as the sprinkling of a few drops of sweet [[Water|water]] on my funeral
 pyre. I ask no more. Let it be, in justice, merely said of me, as of a
-gallant and eminent naval Hero, with whom I have no pretensions to
+gallant and eminent naval [[Hero]], with whom I have no pretensions to
 cope, that what I have done, I did, in despite of mercenary and selfish
 objects,
 
-     For England, home, and Beauty.
+     For England, [[Home|home]], and [[Beauty]].
 
-     ‘“Remaining always, &c.  &c., WILKINS MICAWBER.”’
+     ‘“Remaining always, &c.  &c., [[Wilkins Micawber|WILKINS MICAWBER]].”’
 
 
 Much affected, but still intensely enjoying himself, Mr. Micawber folded

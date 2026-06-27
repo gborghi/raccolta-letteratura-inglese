@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 21"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 21"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -56,13 +56,13 @@ capable of conversing rationally, we both came to the conclusion that
 
 the walls of the fissure in which we had ventured had, by some
 
-convulsion of nature, or probably from their own weight, caved in
+convulsion of [[Nature|nature]], or probably from their own weight, caved in
 
 overhead, and that we were consequently lost for ever, being thus
 
-entombed alive. For a long time we gave up supinely to the most intense
+entombed alive. For a long [[Time|time]] we gave up supinely to the most intense
 
-agony and despair, such as cannot be adequately imagined by those who
+agony and [[Despair|despair]], such as cannot be adequately imagined by those who
 
 have never been in a similar situation. I firmly believe that no
 
@@ -76,7 +76,7 @@ envelops the victim, the terrific oppression of lungs, the stifling
 
 fumes from the damp earth, unite with the ghastly considerations that
 
-we are beyond the remotest confines of hope, and that such is the
+we are beyond the remotest confines of [[Hope|hope]], and that such is the
 
 allotted portion of _the dead_, to carry into the human heart a degree
 
@@ -86,11 +86,11 @@ of appalling awe and horror not to be tolerated--never to be conceived.
 
 At length Peters proposed that we should endeavour to ascertain
 
-precisely the extent of our calamity, and grope about our prison; it
+precisely the extent of our calamity, and grope about our [[Prison|prison]]; it
 
 being barely possible, he observed, that some opening might be yet left
 
-us for escape. I caught eagerly at this hope, and, arousing myself to
+us for escape. I caught eagerly at this [[Hope|hope]], and, arousing myself to
 
 exertion, attempted to force my way through the loose earth. Hardly had
 
@@ -100,7 +100,7 @@ enough to convince me that, at all events, we should not immediately
 
 perish for want of air. We now took some degree of heart, and
 
-encouraged each other to hope for the best. Having scrambled over a
+encouraged each other to [[Hope|hope]] for the best. Having scrambled over a
 
 bank of rubbish which impeded our farther progress in the direction of
 
@@ -124,7 +124,7 @@ sometimes much more precipitous. We could not see through the whole
 
 extent of this opening; but, as a good deal of light came down it, we
 
-had little doubt of finding at the top of it (if we could by any means
+had little [[Doubt|doubt]] of finding at the top of it (if we could by any means
 
 reach the top) a clear passage into the open air.
 
@@ -140,7 +140,7 @@ search, and much danger from the farther caving in of the earth above
 
 us, Peters at length cried out to me that he had hold of our
 
-companion's foot, and that his whole body was deeply buried beneath the
+companion's foot, and that his whole [[Body|body]] was deeply buried beneath the
 
 rubbish, beyond a possibility of extricating him. I soon found that
 
@@ -156,7 +156,7 @@ The breadth of the seam was barely sufficient to admit us, and, after
 
 one or two ineffectual efforts at getting up, we began once more to
 
-despair. I have before said that the chain of hills through which ran
+[[Despair|despair]]. I have before said that the chain of hills through which ran
 
 the main gorge was composed of a species of soft rock resembling
 
@@ -168,9 +168,9 @@ could get but little foothold upon them even in their least precipitous
 
 parts; in some places, where the ascent was nearly perpendicular, the
 
-difficulty was, of course, much aggravated; and, indeed, for some time
+difficulty was, of course, much aggravated; and, indeed, for some [[Time|time]]
 
-we thought it insurmountable. We took courage, however, from despair;
+we thought it insurmountable. We took [[Courage|courage]], however, from [[Despair|despair]];
 
 and what, by dint of cutting steps in the soft stone with our Bowie
 
@@ -200,13 +200,13 @@ proposed that we should endeavour to bring our companions to the rescue
 
 by firing the pistols which still remained in our girdles--the muskets
 
-as well as cutlasses had been lost among the loose earth at the bottom
+as [[Well|well]] as cutlasses had been lost among the loose earth at the [[Bottom|bottom]]
 
 of the chasm. Subsequent events proved that, had we fired, we should
 
 have sorely repented it; but, luckily, a half suspicion of foul play
 
-had by this time arisen in my mind, and we forbore to let the savages
+had by this [[Time|time]] arisen in my mind, and we forbore to let the savages
 
 know of our whereabouts.
 
@@ -266,7 +266,7 @@ for the length of perhaps three hundred feet, and ranging at about ten
 
 feet back from the edge of the gulf. Strong cords of grape vine were
 
-attached to the stakes still remaining on the hill, and it was evident
+attached to the stakes still remaining on the [[Hill|hill]], and it was evident
 
 that such cords had also been attached to each of the other stakes. I
 
@@ -276,7 +276,7 @@ hills; and the description just given of the narrow and deep fissure
 
 through which we effected our escape from inhumation will afford a
 
-further conception of its nature. This was such that almost every
+further conception of its [[Nature|nature]]. This was such that almost every
 
 natural convulsion would be sure to split the soil into perpendicular
 
@@ -286,7 +286,7 @@ exertion of art would be sufficient for effecting the same purpose. Of
 
 this stratification the savages had availed themselves to accomplish
 
-their treacherous ends. There can be no doubt that, by the continuous
+their treacherous ends. There can be no [[Doubt|doubt]] that, by the continuous
 
 line of stakes, a partial rupture of the soil had been brought about,
 
@@ -298,10 +298,10 @@ the tops of the stakes, and extending back from the edge of the cliff),
 
 a vast leverage power was obtained, capable of hurling the whole face
 
-of the hill, upon a given signal, into the bosom of the abyss below.
+of the [[Hill|hill]], upon a given signal, into the bosom of the abyss below.
 
 The fate of our poor companions was no longer a matter of uncertainty.
 
-We alone had escaped from the tempest of that overwhelming destruction.
+We [[Alone|alone]] had escaped from the tempest of that overwhelming destruction.
 
 We were the only living white men upon the island.

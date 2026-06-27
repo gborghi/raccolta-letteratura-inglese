@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 25 (part 4)"
+title: "[[The Professor]] — Chapter 25 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -20,7 +20,7 @@ in French, or entreated me in English; whether she jested with wit,
 
 or inquired with deference; narrated with interest, or listened with
 
-attention; whether she smiled at me or on me, always at nine o’clock I
+attention; whether she smiled at me or on me, always at nine o’[[Clock|clock]] I
 
 was left abandoned. She would extricate herself from my arms, quit
 
@@ -36,7 +36,7 @@ were wakeful, especially if any were sad, spoke to them and soothed
 
 them; stood some minutes to ascertain that all was safe and tranquil;
 
-trimmed the watch-light which burned in the apartment all night, then
+trimmed the watch-light which burned in the apartment all [[Night|night]], then
 
 withdrew, closing the door behind her without sound. Thence she glided
 
@@ -44,13 +44,13 @@ to our own chamber; it had a little cabinet within; this she sought;
 
 there, too, appeared a bed, but one, and that a very small one; her face
 
-(the night I followed and observed her) changed as she approached this
+(the [[Night|night]] I followed and observed her) changed as she approached this
 
-tiny couch; from grave it warmed to earnest; she shaded with one hand
+tiny couch; from [[Grave|grave]] it warmed to earnest; she shaded with one hand
 
 the lamp she held in the other; she bent above the pillow and hung
 
-over a child asleep; its slumber (that evening at least, and usually,
+over a [[Child|child]] asleep; its slumber (that evening at least, and usually,
 
 I believe) was sound and calm; no tear wet its dark eyelashes; no fever
 
@@ -62,7 +62,7 @@ flushed her face; feeling pleasurable, powerful, worked in her whole
 
 frame, which still was motionless. I saw, indeed, her heart heave, her
 
-lips were a little apart, her breathing grew somewhat hurried; the child
+lips were a little apart, her breathing grew somewhat hurried; the [[Child|child]]
 
 smiled; then at last the mother smiled too, and said in low soliloquy,
 
@@ -78,7 +78,7 @@ extinguished lamp--
 
 
 
-“Victor rests well: he smiled in his sleep; he has your smile,
+“Victor rests [[Well|well]]: he smiled in his [[Sleep|sleep]]; he has your smile,
 
 monsieur.”
 
@@ -86,9 +86,9 @@ monsieur.”
 
 The said Victor was of course her own boy, born in the third year of
 
-our marriage: his Christian name had been given him in honour of M.
+our [[Marriage|marriage]]: his Christian name had been given him in [[Honour|honour]] of M.
 
-Vandenhuten, who continued always our trusty and well-beloved friend.
+Vandenhuten, who continued always our trusty and [[Well|well]]-beloved friend.
 
 
 
@@ -98,7 +98,7 @@ good, just, and faithful husband. What she would have been had she
 
 married a harsh, envious, careless man--a profligate, a prodigal,
 
-a drunkard, or a tyrant--is another question, and one which I once
+a drunkard, or a [[Tyrant|tyrant]]--is another question, and one which I once
 
 propounded to her. Her answer, given after some reflection, was--
 
@@ -118,7 +118,7 @@ suddenly and silently.”
 
 “What, to a drunkard, a profligate, a selfish spendthrift, an unjust
 
-fool?”
+[[Fool|fool]]?”
 
 
 
@@ -146,29 +146,29 @@ eye, whose voice I determined to waken.
 
 
 
-“Monsieur, if a wife’s nature loathes that of the man she is wedded to,
+“Monsieur, if a wife’s [[Nature|nature]] loathes that of the man she is wedded to,
 
-marriage must be slavery. Against slavery all right thinkers revolt, and
+[[Marriage|marriage]] must be [[Slavery|slavery]]. Against [[Slavery|slavery]] all right thinkers revolt, and
 
 though torture be the price of resistance, torture must be dared: though
 
-the only road to freedom lie through the gates of death, those gates
+the only [[Road|road]] to [[Freedom|freedom]] lie through the gates of [[Death|death]], those gates
 
-must be passed; for freedom is indispensable. Then, monsieur, I would
+must be passed; for [[Freedom|freedom]] is indispensable. Then, monsieur, I would
 
 resist as far as my strength permitted; when that strength failed I
 
-should be sure of a refuge. Death would certainly screen me both from
+should be sure of a refuge. [[Death]] would certainly screen me both from
 
 bad laws and their consequences.”
 
 
 
-“Voluntary death, Frances?”
+“Voluntary [[Death|death]], Frances?”
 
 
 
-“No, monsieur. I’d have courage to live out every throe of anguish fate
+“No, monsieur. I’d have [[Courage|courage]] to live out every throe of anguish fate
 
 assigned me, and principle to contend for justice and liberty to the
 
@@ -200,7 +200,7 @@ should never have suited any man but Professor Crimsworth--no other
 
 gentleman, French, English, or Belgian, would have thought me amiable or
 
-handsome; and I doubt whether I should have cared for the approbation
+handsome; and I [[Doubt|doubt]] whether I should have cared for the approbation
 
 of many others, if I could have obtained it. Now, I have been Professor
 

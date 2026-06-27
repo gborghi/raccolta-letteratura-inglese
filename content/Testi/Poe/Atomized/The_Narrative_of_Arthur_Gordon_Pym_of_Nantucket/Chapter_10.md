@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 11"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 11"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -30,7 +30,7 @@ hunger and thirst then returned, absorbing all other cares and
 
 considerations. Nothing, however, could be done until the morning, and,
 
-securing ourselves as well as possible, we endeavoured to snatch a
+securing ourselves as [[Well|well]] as possible, we endeavoured to snatch a
 
 little repose. In this I succeeded beyond my expectation, sleeping
 
@@ -52,7 +52,7 @@ made an endeavour to reach the door of the storeroom, thinking it
 
 possible that he might be able to force it open, provided he could get
 
-at it in sufficient time; and this he hoped to do, as the hulk lay much
+at it in sufficient [[Time|time]]; and this he hoped to do, as the hulk lay much
 
 more steadily than before.
 
@@ -60,11 +60,11 @@ more steadily than before.
 
 He succeeded very quickly in reaching the door, when, loosening one of
 
-the chains from his ankle, he made every exertion to force a passage
+the [[Chains|chains]] from his ankle, he made every exertion to force a passage
 
 with it, but in vain, the framework of the room being far stronger than
 
-was anticipated. He was quite exhausted with his long stay under water,
+was anticipated. He was quite exhausted with his long stay under [[Water|water]],
 
 and it became absolutely necessary that some other one of us should
 
@@ -82,7 +82,7 @@ now devolved upon me to exert myself for our common deliverance.
 
 
 
-Peters had left one of the chains in the passage, and I found, upon
+Peters had left one of the [[Chains|chains]] in the passage, and I found, upon
 
 plunging in, that I had not sufficient ballast to keep me firmly down.
 
@@ -92,7 +92,7 @@ merely to recover the other chain. In groping along the floor of the
 
 passage for this I felt a hard substance, which I immediately grasped,
 
-not having time to ascertain what it was, but returning and ascending
+not having [[Time|time]] to ascertain what it was, but returning and ascending
 
 instantly to the surface. The prize proved to be a bottle, and our joy
 
@@ -116,17 +116,17 @@ Having rested a while after this fortunate discovery, I again
 
 descended, and now recovered the chain, with which I instantly came up.
 
-I then fastened it on and went down for the third time, when I became
+I then fastened it on and went down for the third [[Time|time]], when I became
 
 fully satisfied that no exertions whatever, in that situation, would
 
 enable me to force open the door of the storeroom. I therefore returned
 
-in despair.
+in [[Despair|despair]].
 
 
 
-There seemed now to be no longer any room for hope, and I could
+There seemed now to be no longer any room for [[Hope|hope]], and I could
 
 perceive in the countenances of my companions that they had made up
 
@@ -154,13 +154,13 @@ first attempt, after staying under a full minute, brought up a small
 
 leather trunk belonging to Captain Barnard. This was immediately opened
 
-in the faint hope that it might contain something to eat or drink. We
+in the faint [[Hope|hope]] that it might contain something to eat or drink. We
 
 found nothing, however, except a box of razors and two linen shirts. I
 
-now went down again, and returned without any success. As my head came
+now went down again, and returned without any [[success]]. As my head came
 
-above water I heard a crash on deck, and, upon getting up, saw that my
+above [[Water|water]] I heard a crash on deck, and, upon getting up, saw that my
 
 companions had ungratefully taken advantage of my absence to drink the
 
@@ -168,9 +168,9 @@ remainder of the wine, having let the bottle fall in the endeavour to
 
 replace it before I saw them. I remonstrated with them on the
 
-heartlessness of their conduct, when Augustus burst into tears. The
+heartlessness of their conduct, when Augustus burst into [[Tears|tears]]. The
 
-other two endeavoured to laugh the matter off as a joke, but I hope
+other two endeavoured to laugh the matter off as a joke, but I [[Hope|hope]]
 
 never again to behold laughter of such a species: the distortion of
 
@@ -186,15 +186,15 @@ soon into a heavy slumber, accompanied with loud stertorous breathing.
 
 
 
-I now found myself, as it were, alone in the brig, and my reflections,
+I now found myself, as it were, [[Alone|alone]] in the brig, and my reflections,
 
-to be sure, were of the most fearful and gloomy nature. No prospect
+to be sure, were of the most fearful and gloomy [[Nature|nature]]. No prospect
 
-offered itself to my view but a lingering death by famine, or, at the
+offered itself to my view but a lingering [[Death|death]] by famine, or, at the
 
-best, by being overwhelmed in the first gale which should spring up,
+best, by being overwhelmed in the first gale which should [[spring]] up,
 
-for in our present exhausted condition we could have no hope of living
+for in our present exhausted condition we could have no [[Hope|hope]] of living
 
 through another.
 
@@ -206,27 +206,27 @@ and I felt myself capable of going to any lengths in order to appease
 
 it. With my knife I cut off a small portion of the leather trunk, and
 
-endeavoured to eat it, but found it utterly impossible to swallow a
+endeavoured to eat it, but found it utterly impossible to [[Swallow|swallow]] a
 
 single morsel, although I fancied that some little alleviation of my
 
-suffering was obtained by chewing small pieces of it and spitting them
+[[Suffering|suffering]] was obtained by chewing small pieces of it and spitting them
 
-out. Towards night my companions awoke, one by one, each in an
+out. Towards [[Night|night]] my companions awoke, one by one, each in an
 
 indescribable state of weakness and horror, brought on by the wine,
 
 whose fumes had now evaporated. They shook as if with a violent ague,
 
-and uttered the most lamentable cries for water. Their condition
+and uttered the most lamentable cries for [[Water|water]]. Their condition
 
-affected me in the most lively degree, at the same time causing me to
+affected me in the most lively degree, at the same [[Time|time]] causing me to
 
 rejoice in the fortunate train of circumstances which had prevented me
 
 from indulging in the wine, and consequently from sharing their
 
-melancholy and most distressing sensations. Their conduct, however,
+[[Melancholy|melancholy]] and most distressing sensations. Their conduct, however,
 
 gave me great uneasiness and alarm; for it was evident that, unless
 
@@ -246,7 +246,7 @@ the others, and I endeavoured, by every means in my power, to arouse
 
 him. Thinking that a plunge in the seawater might have a beneficial
 
-effect, I contrived to fasten the end of a rope around his body, and
+effect, I contrived to fasten the end of a rope around his [[Body|body]], and
 
 then, leading him to the companion-way (he remaining quite passive all
 
@@ -270,7 +270,7 @@ benefit from the shock. This idea of sudden immersion had been
 
 suggested to me by reading in some medical work the good effect of the
 
-shower-bath in a case where the patient was suffering from _mania à
+shower-bath in a case where the patient was [[Suffering|suffering]] from _mania à
 
 potu_.
 
@@ -290,17 +290,17 @@ and a blanket, but nothing which could serve us for food. I continued
 
 my efforts, after getting these articles, until I was completely
 
-exhausted, but brought up nothing else. During the night Parker and
+exhausted, but brought up nothing else. During the [[Night|night]] Parker and
 
 Peters occupied themselves by turns in the same manner; but nothing
 
-coming to hand, we now gave up this attempt in despair, concluding that
+coming to hand, we now gave up this attempt in [[Despair|despair]], concluding that
 
 we were exhausting ourselves in vain.
 
 
 
-We passed the remainder of this night in a state of the most intense
+We passed the remainder of this [[Night|night]] in a state of the most intense
 
 mental and bodily anguish that can possibly be imagined. The morning of
 
@@ -332,7 +332,7 @@ sadly reduced, and so feeble that he could not raise his head from his
 
 bosom, was not so far gone as the other two. He suffered with great
 
-patience, making no complaint, and endeavouring to inspire us with hope
+patience, making no complaint, and endeavouring to inspire us with [[Hope|hope]]
 
 in every manner he could devise. For myself, although at the
 
@@ -344,7 +344,7 @@ much less reduced in frame, and retaining my powers of mind in a
 
 surprising degree, while the rest were completely prostrated in
 
-intellect, and seemed to be brought to a species of second childhood,
+intellect, and seemed to be brought to a species of second [[Childhood|childhood]],
 
 generally simpering in their expressions, with idiotic smiles, and
 
@@ -352,13 +352,13 @@ uttering the most absurd platitudes. At intervals, however, they would
 
 appear to revive suddenly, as if inspired all at once with a
 
-consciousness of their condition, when they would spring upon their
+consciousness of their condition, when they would [[spring]] upon their
 
 feet in a momentary flash of vigour, and speak, for a short period, of
 
 their prospects, in a manner altogether rational, although full of the
 
-most intense despair. It is possible, however, that my companions may
+most intense [[Despair|despair]]. It is possible, however, that my companions may
 
 have entertained the same opinion of their own condition as I did of
 
@@ -370,7 +370,7 @@ cannot be determined.
 
 
 
-About noon Parker declared that he saw land off the larboard quarter,
+About [[Noon|noon]] Parker declared that he saw land off the larboard quarter,
 
 and it was with the utmost difficulty I could restrain him from
 
@@ -382,19 +382,19 @@ up in moody contemplation. Upon looking in the direction pointed out I
 
 could not perceive the faintest appearance of the shore--indeed, I was
 
-too well aware that we were far from any land to indulge in a hope of
+too [[Well|well]] aware that we were far from any land to indulge in a [[Hope|hope]] of
 
-that nature. It was a long time, nevertheless, before I could convince
+that [[Nature|nature]]. It was a long [[Time|time]], nevertheless, before I could convince
 
-Parker of his mistake. He then burst into a flood of tears, weeping
+Parker of his mistake. He then burst into a flood of [[Tears|tears]], weeping
 
-like a child, with loud cries and sobs, for two or three hours, when,
+like a [[Child|child]], with loud cries and sobs, for two or three hours, when,
 
 becoming exhausted, he fell asleep.
 
 
 
-Peters and Augustus now made several ineffectual efforts to swallow
+Peters and Augustus now made several ineffectual efforts to [[Swallow|swallow]]
 
 portions of the leather. I advised them to chew it and spit it out; but
 
@@ -402,7 +402,7 @@ they were too excessively debilitated to be able to follow my advice. I
 
 continued to chew pieces of it at intervals, and found some relief from
 
-so doing; my chief distress was for water, and I was only prevented
+so doing; my chief distress was for [[Water|water]], and I was only prevented
 
 from taking a draught from the sea by remembering the horrible
 
@@ -414,7 +414,7 @@ situated with ourselves.
 
 The day wore on in this manner, when I suddenly discovered a sail to
 
-the eastward, and on our larboard bow. She appeared to be a large ship,
+the eastward, and on our larboard bow. She appeared to be a large [[Ship|ship]],
 
 and was coming nearly athwart us, being probably twelve or fifteen
 
@@ -436,17 +436,17 @@ laughing in an idiotic manner, jumping, stamping upon the deck, tearing
 
 their hair, and praying and cursing by turns. I was so affected by
 
-their conduct, as well as by what I now considered a sure prospect of
+their conduct, as [[Well|well]] as by what I now considered a sure prospect of
 
 deliverance, that I could not refrain from joining in with their
 
-madness, and gave way to the impulses of my gratitude and ecstasy by
+[[Madness|madness]], and gave way to the impulses of my gratitude and ecstasy by
 
-lying and rolling on the deck, clapping my hands, shouting, and other
+lying and [[rolling]] on the deck, clapping my hands, shouting, and other
 
 similar acts, until I was suddenly called to my recollection, and once
 
-more to the extreme of human misery and despair, by perceiving the ship
+more to the extreme of human misery and [[Despair|despair]], by perceiving the [[Ship|ship]]
 
 all at once with her stern fully presented towards us, and steering in
 
@@ -456,7 +456,7 @@ her.
 
 
 
-It was some time before I could induce my poor companions to believe
+It was some [[Time|time]] before I could induce my poor companions to believe
 
 that this sad reverse in our prospects had actually taken place. They
 
@@ -466,11 +466,11 @@ they were not to be deceived by such misrepresentations. The conduct of
 
 Augustus most sensibly affected me. In spite of all I could say or do
 
-to the contrary, he persisted in saying that the ship was rapidly
+to the contrary, he persisted in saying that the [[Ship|ship]] was rapidly
 
 nearing us, and in making preparations to go on board of her. Some
 
-seaweed floating by the brig, he maintained that it was the ship's
+seaweed floating by the brig, he maintained that it was the [[Ship|ship]]'s
 
 boat, and endeavoured to throw himself upon it, howling and shrieking
 
@@ -480,7 +480,7 @@ thus casting himself into the sea.
 
 
 
-Having become in some degree pacified, we continued to watch the ship
+Having become in some degree pacified, we continued to watch the [[Ship|ship]]
 
 until we finally lost sight of her, the weather becoming hazy, with a
 
@@ -488,7 +488,7 @@ light breeze springing up. As soon as she was entirely gone, Parker
 
 turned suddenly towards me with an expression of countenance which made
 
-me shudder. There was about him an air of self-possession which I had
+me shudder. There was about him an air of [[Self|self]]-possession which I had
 
 not noticed in him until now, and before he opened his lips my heart
 

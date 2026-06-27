@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 52 (part 3)"
+title: "Bleak [[house|House]] — Chapter 52 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -24,7 +24,7 @@ than another man. What I say is, I must come off clear and full or
 not at all. Therefore, when I hear stated against me what is true, I
 say it’s true; and when they tell me, ‘whatever you say will be
 used,’ I tell them I don’t mind that; I mean it to be used. If they
-can’t make me innocent out of the whole truth, they are not likely to
+can’t make me [[Innocent|innocent]] out of the whole [[Truth|truth]], they are not likely to
 do it out of anything less, or anything else. And if they are, it’s
 worth nothing to me.”
 
@@ -34,7 +34,7 @@ and finished what he had to say.
 “I thank you, miss and gentlemen both, many times for your attention,
 and many times more for your interest. That’s the plain state of the
 matter as it points itself out to a mere trooper with a blunt
-broadsword kind of a mind. I have never done well in life beyond my
+broadsword kind of a mind. I have never done [[Well|well]] in life beyond my
 duty as a soldier, and if the worst comes after all, I shall reap
 pretty much as I have sown. When I got over the first crash of being
 seized as a murderer—it don’t take a rover who has knocked about so
@@ -57,13 +57,13 @@ Mr. Bagnet made us a stiff military bow, and Mrs. Bagnet dropped us a
 curtsy.
 
 “Real good friends of mine, they are,” said Mr. George. “It was at
-their house I was taken.”
+their [[house]] I was taken.”
 
 “With a second-hand wiolinceller,” Mr. Bagnet put in, twitching his
 head angrily. “Of a good tone. For a friend. That money was no object
 to.”
 
-“Mat,” said Mr. George, “you have heard pretty well all I have been
+“Mat,” said Mr. George, “you have heard pretty [[Well|well]] all I have been
 saying to this lady and these two gentlemen. I know it meets your
 approval?”
 
@@ -87,19 +87,19 @@ day to the present company. Lawyers? Why, what but too many cooks
 should hinder you from having a dozen lawyers if the gentleman
 recommended them to you.”
 
-“This is a very sensible woman,” said my guardian. “I hope you will
+“This is a very sensible woman,” said my guardian. “I [[Hope|hope]] you will
 persuade him, Mrs. Bagnet.”
 
 “Persuade him, sir?” she returned. “Lord bless you, no. You don’t
 know George. Now, there!” Mrs. Bagnet left her basket to point him
-out with both her bare brown hands. “There he stands! As self-willed
+out with both her bare brown hands. “There he stands! As [[Self|self]]-willed
 and as determined a man, in the wrong way, as ever put a human
 creature under heaven out of patience! You could as soon take up and
 shoulder an eight and forty pounder by your own strength as turn that
 man when he has got a thing into his head and fixed it there. Why,
 don’t I know him!” cried Mrs. Bagnet. “Don’t I know you, George! You
 don’t mean to set up for a new character with ME after all these
-years, I hope?”
+years, I [[Hope|hope]]?”
 
 Her friendly indignation had an exemplary effect upon her husband,
 who shook his head at the trooper several times as a silent
@@ -108,28 +108,28 @@ me; and I understood from the play of her eyes that she wished me to
 do something, though I did not comprehend what.
 
 “But I have given up talking to you, old fellow, years and years,”
-said Mrs. Bagnet as she blew a little dust off the pickled pork,
-looking at me again; “and when ladies and gentlemen know you as well
+said Mrs. Bagnet as she blew a little [[Dust|dust]] off the pickled pork,
+looking at me again; “and when ladies and gentlemen know you as [[Well|well]]
 as I do, they’ll give up talking to you too. If you are not too
 headstrong to accept of a bit of dinner, here it is.”
 
 “I accept it with many thanks,” returned the trooper.
 
 “Do you though, indeed?” said Mrs. Bagnet, continuing to grumble on
-good-humouredly. “I’m sure I’m surprised at that. I wonder you don’t
+good-humouredly. “I’m sure I’m surprised at that. I [[Wonder|wonder]] you don’t
 starve in your own way also. It would only be like you. Perhaps
 you’ll set your mind upon THAT next.” Here she again looked at me,
 and I now perceived from her glances at the door and at me, by turns,
 that she wished us to retire and to await her following us outside
-the prison. Communicating this by similar means to my guardian and
-Mr. Woodcourt, I rose.
+the [[Prison|prison]]. Communicating this by similar means to my guardian and
+Mr. Woodcourt, I [[Rose|rose]].
 
-“We hope you will think better of it, Mr. George,” said I, “and we
+“We [[Hope|hope]] you will think better of it, Mr. George,” said I, “and we
 shall come to see you again, trusting to find you more reasonable.”
 
 “More grateful, Miss Summerson, you can’t find me,” he returned.
 
-“But more persuadable we can, I hope,” said I. “And let me entreat
+“But more persuadable we can, I [[Hope|hope]],” said I. “And let me entreat
 you to consider that the clearing up of this mystery and the
 discovery of the real perpetrator of this deed may be of the last
 importance to others besides yourself.”

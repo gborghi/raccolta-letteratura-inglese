@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 5)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -20,15 +20,15 @@ And the process, as I have pointed out, is _not_ internationalisation.
 
 It would be truer to say it is the nationalisation of the
 
-internationalised. It is making a home out of vagabonds and a nation out
+internationalised. It is making a [[Home|home]] out of vagabonds and a nation out
 
 of exiles. This is what at once illuminates and softens the moral
 
 regulations which we may really think faddist or fanatical. They are
 
-abnormal; but in one sense this experiment of a home for the homeless is
+abnormal; but in one sense this experiment of a [[Home|home]] for the homeless is
 
-abnormal. In short, it has long been recognised that America was an
+abnormal. In short, it has long been recognised that [[America]] was an
 
 asylum. It is only since Prohibition that it has looked a little like a
 
@@ -36,7 +36,7 @@ lunatic asylum.
 
 
 
-It was before sailing for America, as I have said, that I stood with the
+It was before sailing for [[America]], as I have said, that I stood with the
 
 official paper in my hand and these thoughts in my head. It was while I
 
@@ -46,9 +46,9 @@ and then sympathising; of realising that my momentary amusement, at
 
 being asked if I were not an Anarchist, was partly due to the fact that
 
-I was not an American. And in truth I think there are some things a man
+I was not an American. And in [[Truth|truth]] I think there are some things a man
 
-ought to know about America before he sees it. What we know of a country
+ought to know about [[America]] before he sees it. What we know of a country
 
 beforehand may not affect what we see that it is; but it will vitally
 
@@ -56,7 +56,7 @@ affect what we appreciate it for being, because it will vitally affect
 
 what we expect it to be. I can honestly say that I had never expected
 
-America to be what nine-tenths of the newspaper critics invariably
+[[America]] to be what nine-tenths of the newspaper critics invariably
 
 assume it to be. I never thought it was a sort of Anglo-Saxon colony,
 
@@ -66,11 +66,11 @@ colonists. During the war I felt that the very worst propaganda for the
 
 Allies was the propaganda for the Anglo-Saxons. I tried to point out
 
-that in one way America is nearer to Europe than England is. If she is
+that in one way [[America]] is nearer to Europe than England is. If she is
 
 not nearer to Bulgaria, she is nearer to Bulgars; if she is not nearer
 
-to Bohemia, she is nearer to Bohemians. In my New York hotel the head
+to Bohemia, she is nearer to Bohemians. In my [[New York]] hotel the head
 
 waiter in the dining-room was a Bohemian; the head waiter in the
 
@@ -86,17 +86,17 @@ had not heard the latest news about the town. I shall record later some
 
 of those arresting realities which the traveller does not expect; and
 
-which, in some cases I fear, he actually does not see because he does
+which, in some cases I [[Fear|fear]], he actually does not see because he does
 
 not expect. I shall try to do justice to the psychology of what Mr.
 
 Belloc has called 'Eye-Openers in Travel.' But there are some things
 
-about America that a man ought to see even with his eyes shut. One is
+about [[America]] that a man ought to see even with his eyes shut. One is
 
 that a state that came into existence solely through its repudiation and
 
-abhorrence of the British Crown is not likely to be a respectful copy of
+abhorrence of the British [[Crown]] is not likely to be a respectful copy of
 
 the British Constitution. Another is that the chief mark of the
 
@@ -108,7 +108,7 @@ have invariably thanked God, with the jolliest boasting and bragging,
 
 that they had kept out of the British Constitution. It is the thing
 
-called abstraction or academic logic. It is the thing which such jolly
+called abstraction or academic [[logic]]. It is the thing which such jolly
 
 people call theory; and which those who can practise it call thought.
 
@@ -126,13 +126,13 @@ especially intelligible to an Englishman, who tends at his best to the
 
 virtues of the gentleman and at his worst to the vices of the snob. The
 
-idealism of England, or if you will the romance of England, has not been
+idealism of England, or if you will the [[Romance|romance]] of England, has not been
 
-primarily the romance of the citizen. But the idealism of America, we
+primarily the [[Romance|romance]] of the citizen. But the idealism of [[America]], we
 
 may safely say, still revolves entirely round the citizen and his
 
-romance. The realities are quite another matter, and we shall consider
+[[Romance|romance]]. The realities are quite another matter, and we shall consider
 
 in its place the question of whether the ideal will be able to shape
 
@@ -168,7 +168,7 @@ admires the virtues of the Middle Ages. He need not set himself to
 
 develop equality, but he need not set himself to misunderstand it. He
 
-may at least understand what Jefferson and Lincoln meant, and he may
+may at least understand what Jefferson and [[Lincoln]] meant, and he may
 
 possibly find some assistance in this task by reading what they said. He
 
@@ -180,7 +180,7 @@ but cannot believe in anybody believing. It is an absolute of morals by
 
 which all men have a value invariable and indestructible and a dignity
 
-as intangible as death. He may at least be a philosopher and see that
+as intangible as [[Death|death]]. He may at least be a philosopher and see that
 
 equality is an idea; and not merely one of these soft-headed sceptics
 

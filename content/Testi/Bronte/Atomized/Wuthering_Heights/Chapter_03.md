@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 3"
+title: "[[Wuthering Heights]] — Chapter 3"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -31,11 +31,11 @@ resembling coach windows. Having approached this structure, I looked
 inside, and perceived it to be a singular sort of old-fashioned couch,
 very conveniently designed to obviate the necessity for every member of
 the family having a room to himself. In fact, it formed a little
-closet, and the ledge of a window, which it enclosed, served as a
+closet, and the ledge of a [[Window|window]], which it enclosed, served as a
 table.
 
 I slid back the panelled sides, got in with my light, pulled them
-together again, and felt secure against the vigilance of Heathcliff,
+together again, and felt secure against the vigilance of [[Heathcliff]],
 and every one else.
 
 The ledge, where I placed my candle, had a few mildewed books piled up
@@ -44,8 +44,8 @@ This writing, however, was nothing but a name repeated in all kinds of
 characters, large and small—_Catherine Earnshaw_, here and there varied
 to _Catherine Heathcliff_, and then again to _Catherine Linton_.
 
-In vapid listlessness I leant my head against the window, and continued
-spelling over Catherine Earnshaw—Heathcliff—Linton, till my eyes
+In vapid listlessness I leant my head against the [[Window|window]], and continued
+spelling over [[Catherine Earnshaw]]—[[Heathcliff]]—Linton, till my eyes
 closed; but they had not rested five minutes when a glare of white
 letters started from the dark, as vivid as spectres—the air swarmed
 with Catherines; and rousing myself to dispel the obtrusive name, I
@@ -55,12 +55,12 @@ perfuming the place with an odour of roasted calf-skin.
 I snuffed it off, and, very ill at ease under the influence of cold and
 lingering nausea, sat up and spread open the injured tome on my knee.
 It was a Testament, in lean type, and smelling dreadfully musty: a
-fly-leaf bore the inscription—“Catherine Earnshaw, her book,” and a
+fly-leaf bore the [[Inscription|inscription]]—“[[Catherine Earnshaw]], her book,” and a
 date some quarter of a century back.
 
 I shut it, and took up another and another, till I had examined all.
 Catherine’s library was select, and its state of dilapidation proved it
-to have been well used, though not altogether for a legitimate purpose:
+to have been [[Well|well]] used, though not altogether for a legitimate purpose:
 scarcely one chapter had escaped a pen-and-ink commentary—at least the
 appearance of one—covering every morsel of blank that the printer had
 left. Some were detached sentences; other parts took the form of a
@@ -71,34 +71,34 @@ Joseph,—rudely, yet powerfully sketched. An immediate interest kindled
 within me for the unknown Catherine, and I began forthwith to decipher
 her faded hieroglyphics.
 
-“An awful Sunday,” commenced the paragraph beneath. “I wish my father
+“An awful [[Sunday]],” commenced the paragraph beneath. “I wish my father
 were back again. Hindley is a detestable substitute—his conduct to
-Heathcliff is atrocious—H. and I are going to rebel—we took our
+[[Heathcliff]] is atrocious—H. and I are going to [[Rebel|rebel]]—we took our
 initiatory step this evening.
 
 “All day had been flooding with rain; we could not go to church, so
 Joseph must needs get up a congregation in the garret; and, while
-Hindley and his wife basked downstairs before a comfortable fire—doing
-anything but reading their Bibles, I’ll answer for it—Heathcliff,
+Hindley and his wife basked downstairs before a comfortable [[Fire|fire]]—doing
+anything but reading their Bibles, I’ll answer for it—[[Heathcliff]],
 myself, and the unhappy ploughboy were commanded to take our
-prayer-books, and mount: we were ranged in a row, on a sack of corn,
+[[Prayer|prayer]]-books, and mount: we were ranged in a row, on a sack of corn,
 groaning and shivering, and hoping that Joseph would shiver too, so
 that he might give us a short homily for his own sake. A vain idea! The
 service lasted precisely three hours; and yet my brother had the face
-to exclaim, when he saw us descending, ‘What, done already?’ On Sunday
+to exclaim, when he saw us descending, ‘What, done already?’ On [[Sunday]]
 evenings we used to be permitted to play, if we did not make much
 noise; now a mere titter is sufficient to send us into corners.
 
-“‘You forget you have a master here,’ says the tyrant. ‘I’ll demolish
+“‘You forget you have a master here,’ says the [[Tyrant|tyrant]]. ‘I’ll demolish
 the first who puts me out of temper! I insist on perfect sobriety and
-silence. Oh, boy! was that you? Frances darling, pull his hair as you
+[[Silence|silence]]. Oh, boy! was that you? Frances darling, pull his hair as you
 go by: I heard him snap his fingers.’ Frances pulled his hair heartily,
 and then went and seated herself on her husband’s knee, and there they
 were, like two babies, kissing and talking nonsense by the hour—foolish
 palaver that we should be ashamed of. We made ourselves as snug as our
 means allowed in the arch of the dresser. I had just fastened our
 pinafores together, and hung them up for a curtain, when in comes
-Joseph, on an errand from the stables. He tears down my handiwork,
+Joseph, on an errand from the stables. He [[Tears|tears]] down my handiwork,
 boxes my ears, and croaks:
 
 “‘T’ maister nobbut just buried, and Sabbath not o’ered, und t’ sound
@@ -107,14 +107,14 @@ sit ye down, ill childer! there’s good books eneugh if ye’ll read ’em:
 sit ye down, and think o’ yer sowls!’
 
 “Saying this, he compelled us so to square our positions that we might
-receive from the far-off fire a dull ray to show us the text of the
+receive from the far-off [[Fire|fire]] a dull ray to show us the text of the
 lumber he thrust upon us. I could not bear the employment. I took my
 dingy volume by the scroop, and hurled it into the dog-kennel, vowing I
-hated a good book. Heathcliff kicked his to the same place. Then there
+hated a good book. [[Heathcliff]] kicked his to the same place. Then there
 was a hubbub!
 
 “‘Maister Hindley!’ shouted our chaplain. ‘Maister, coom hither! Miss
-Cathy’s riven th’ back off “Th’ Helmet o’ Salvation,” un’ Heathcliff’s
+Cathy’s riven th’ back off “Th’ Helmet o’ Salvation,” un’ [[Heathcliff]]’s
 pawsed his fit into t’ first part o’ “T’ Brooad Way to Destruction!”
 It’s fair flaysome that ye let ’em go on this gait. Ech! th’ owd man
 wad ha’ laced ’em properly—but he’s goan!’
@@ -124,8 +124,8 @@ us by the collar, and the other by the arm, hurled both into the
 back-kitchen; where, Joseph asseverated, ‘owd Nick’ would fetch us as
 sure as we were living: and, so comforted, we each sought a separate
 nook to await his advent. I reached this book, and a pot of ink from a
-shelf, and pushed the house-door ajar to give me light, and I have got
-the time on with writing for twenty minutes; but my companion is
+shelf, and pushed the [[house]]-door ajar to give me light, and I have got
+the [[Time|time]] on with writing for twenty minutes; but my companion is
 impatient, and proposes that we should appropriate the dairywoman’s
 cloak, and have a scamper on the moors, under its shelter. A pleasant
 suggestion—and then, if the surly old man come in, he may believe his
@@ -140,10 +140,10 @@ up another subject: she waxed lachrymose.
 
 “How little did I dream that Hindley would ever make me cry so!” she
 wrote. “My head aches, till I cannot keep it on the pillow; and still I
-can’t give over. Poor Heathcliff! Hindley calls him a vagabond, and
+can’t give over. Poor [[Heathcliff]]! Hindley calls him a vagabond, and
 won’t let him sit with us, nor eat with us any more; and, he says, he
 and I must not play together, and threatens to turn him out of the
-house if we break his orders. He has been blaming our father (how dared
+[[house]] if we break his orders. He has been blaming our father (how dared
 he?) for treating H. too liberally; and swears he will reduce him to
 his right place—”
 
@@ -157,16 +157,16 @@ Reverend Jabez Branderham, in the Chapel of Gimmerden Sough.” And while
 I was, half-consciously, worrying my brain to guess what Jabez
 Branderham would make of his subject, I sank back in bed, and fell
 asleep. Alas, for the effects of bad tea and bad temper! What else
-could it be that made me pass such a terrible night? I don’t remember
+could it be that made me pass such a terrible [[Night|night]]? I don’t remember
 another that I can at all compare with it since I was capable of
-suffering.
+[[Suffering|suffering]].
 
 I began to dream, almost before I ceased to be sensible of my locality.
-I thought it was morning; and I had set out on my way home, with Joseph
-for a guide. The snow lay yards deep in our road; and, as we floundered
+I thought it was morning; and I had set out on my way [[Home|home]], with Joseph
+for a guide. The [[Snow|snow]] lay yards deep in our [[Road|road]]; and, as we floundered
 on, my companion wearied me with constant reproaches that I had not
-brought a pilgrim’s staff: telling me that I could never get into the
-house without one, and boastfully flourishing a heavy-headed cudgel,
+brought a [[Pilgrim|pilgrim]]’s staff: telling me that I could never get into the
+[[house]] without one, and boastfully flourishing a heavy-headed cudgel,
 which I understood to be so denominated. For a moment I considered it
 absurd that I should need such a weapon to gain admittance into my own
 residence. Then a new idea flashed across me. I was not going there: we
@@ -180,7 +180,7 @@ thrice; it lies in a hollow, between two hills: an elevated hollow,
 near a swamp, whose peaty moisture is said to answer all the purposes
 of embalming on the few corpses deposited there. The roof has been kept
 whole hitherto; but as the clergyman’s stipend is only twenty pounds
-per annum, and a house with two rooms, threatening speedily to
+per annum, and a [[house]] with two rooms, threatening speedily to
 determine into one, no clergyman will undertake the duties of pastor:
 especially as it is currently reported that his flock would rather let
 him starve than increase the living by one penny from their own
@@ -212,14 +212,14 @@ more!”
 
 “_Thou art the Man!_” cried Jabez, after a solemn pause, leaning over
 his cushion. “Seventy times seven times didst thou gapingly contort thy
-visage—seventy times seven did I take counsel with my soul—Lo, this is
+visage—seventy times seven did I take counsel with my [[Soul|soul]]—Lo, this is
 human weakness: this also may be absolved! The First of the
 Seventy-First is come. Brethren, execute upon him the judgment written.
-Such honour have all His saints!”
+Such [[Honour|honour]] have all His saints!”
 
-With that concluding word, the whole assembly, exalting their pilgrim’s
-staves, rushed round me in a body; and I, having no weapon to raise in
-self-defence, commenced grappling with Joseph, my nearest and most
+With that concluding word, the whole assembly, exalting their [[Pilgrim|pilgrim]]’s
+staves, rushed round me in a [[Body|body]]; and I, having no weapon to raise in
+[[Self|self]]-defence, commenced grappling with Joseph, my nearest and most
 ferocious assailant, for his. In the confluence of the multitude,
 several clubs crossed; blows, aimed at me, fell on other sconces.
 Presently the whole chapel resounded with rappings and counter
@@ -234,19 +234,19 @@ listened doubtingly an instant; detected the disturber, then turned and
 dozed, and dreamt again: if possible, still more disagreeably than
 before.
 
-This time, I remembered I was lying in the oak closet, and I heard
-distinctly the gusty wind, and the driving of the snow; I heard, also,
+This [[Time|time]], I remembered I was lying in the oak closet, and I heard
+distinctly the gusty [[Wind|wind]], and the driving of the [[Snow|snow]]; I heard, also,
 the fir bough repeat its teasing sound, and ascribed it to the right
-cause: but it annoyed me so much, that I resolved to silence it, if
-possible; and, I thought, I rose and endeavoured to unhasp the
+cause: but it annoyed me so much, that I resolved to [[Silence|silence]] it, if
+possible; and, I thought, I [[Rose|rose]] and endeavoured to unhasp the
 casement. The hook was soldered into the staple: a circumstance
 observed by me when awake, but forgotten. “I must stop it,
 nevertheless!” I muttered, knocking my knuckles through the glass, and
 stretching an arm out to seize the importunate branch; instead of
 which, my fingers closed on the fingers of a little, ice-cold hand!
 
-The intense horror of nightmare came over me: I tried to draw back my
-arm, but the hand clung to it, and a most melancholy voice sobbed,
+The intense horror of [[nightmare]] came over me: I tried to draw back my
+arm, but the hand clung to it, and a most [[Melancholy|melancholy]] voice sobbed,
 
 “Let me in—let me in!”
 
@@ -254,21 +254,21 @@ arm, but the hand clung to it, and a most melancholy voice sobbed,
 
 “Catherine Linton,” it replied, shiveringly (why did I think of
 _Linton_? I had read _Earnshaw_ twenty times for Linton)—“I’m come
-home: I’d lost my way on the moor!”
+[[Home|home]]: I’d lost my way on the moor!”
 
-As it spoke, I discerned, obscurely, a child’s face looking through the
-window. Terror made me cruel; and, finding it useless to attempt
+As it spoke, I discerned, obscurely, a [[Child|child]]’s face looking through the
+[[Window|window]]. Terror made me cruel; and, finding it useless to attempt
 shaking the creature off, I pulled its wrist on to the broken pane, and
-rubbed it to and fro till the blood ran down and soaked the bedclothes:
+rubbed it to and fro till the [[Blood|blood]] ran down and soaked the bedclothes:
 still it wailed, “Let me in!” and maintained its tenacious gripe,
-almost maddening me with fear.
+almost maddening me with [[Fear|fear]].
 
 “How can I!” I said at length. “Let _me_ go, if you want me to let you
 in!”
 
 The fingers relaxed, I snatched mine through the hole, hurriedly piled
 the books up in a pyramid against it, and stopped my ears to exclude
-the lamentable prayer.
+the lamentable [[Prayer|prayer]].
 
 I seemed to keep them closed above a quarter of an hour; yet, the
 instant I listened again, there was the doleful cry moaning on!
@@ -295,13 +295,13 @@ At last, he said, in a half-whisper, plainly not expecting an answer,
 
 “Is any one here?”
 
-I considered it best to confess my presence; for I knew Heathcliff’s
+I considered it best to confess my presence; for I knew [[Heathcliff]]’s
 accents, and feared he might search further, if I kept quiet.
 
 With this intention, I turned and opened the panels. I shall not soon
 forget the effect my action produced.
 
-Heathcliff stood near the entrance, in his shirt and trousers; with a
+[[Heathcliff]] stood near the entrance, in his shirt and trousers; with a
 candle dripping over his fingers, and his face as white as the wall
 behind him. The first creak of the oak startled him like an electric
 shock: the light leaped from his hold to a distance of some feet, and
@@ -309,7 +309,7 @@ his agitation was so extreme, that he could hardly pick it up.
 
 “It is only your guest, sir,” I called out, desirous to spare him the
 humiliation of exposing his cowardice further. “I had the misfortune to
-scream in my sleep, owing to a frightful nightmare. I’m sorry I
+scream in my [[Sleep|sleep]], owing to a frightful [[nightmare]]. I’m sorry I
 disturbed you.”
 
 “Oh, God confound you, Mr. Lockwood! I wish you were at the—” commenced
@@ -317,72 +317,72 @@ my host, setting the candle on a chair, because he found it impossible
 to hold it steady. “And who showed you up into this room?” he
 continued, crushing his nails into his palms, and grinding his teeth to
 subdue the maxillary convulsions. “Who was it? I’ve a good mind to turn
-them out of the house this moment!”
+them out of the [[house]] this moment!”
 
 “It was your servant Zillah,” I replied, flinging myself on to the
 floor, and rapidly resuming my garments. “I should not care if you did,
-Mr. Heathcliff; she richly deserves it. I suppose that she wanted to
-get another proof that the place was haunted, at my expense. Well, it
-is—swarming with ghosts and goblins! You have reason in shutting it up,
+Mr. [[Heathcliff]]; she richly deserves it. I suppose that she wanted to
+get another proof that the place was haunted, at my expense. [[Well]], it
+is—swarming with [[Ghosts|ghosts]] and goblins! You have reason in shutting it up,
 I assure you. No one will thank you for a doze in such a den!”
 
-“What do you mean?” asked Heathcliff, “and what are you doing? Lie down
-and finish out the night, since you _are_ here; but, for Heaven’s sake!
+“What do you mean?” asked [[Heathcliff]], “and what are you doing? Lie down
+and finish out the [[Night|night]], since you _are_ here; but, for Heaven’s sake!
 don’t repeat that horrid noise: nothing could excuse it, unless you
 were having your throat cut!”
 
-“If the little fiend had got in at the window, she probably would have
+“If the little fiend had got in at the [[Window|window]], she probably would have
 strangled me!” I returned. “I’m not going to endure the persecutions of
 your hospitable ancestors again. Was not the Reverend Jabez Branderham
 akin to you on the mother’s side? And that minx, Catherine Linton, or
 Earnshaw, or however she was called—she must have been a
-changeling—wicked little soul! She told me she had been walking the
+changeling—wicked little [[Soul|soul]]! She told me she had been walking the
 earth these twenty years: a just punishment for her mortal
-transgressions, I’ve no doubt!”
+transgressions, I’ve no [[Doubt|doubt]]!”
 
 Scarcely were these words uttered when I recollected the association of
-Heathcliff’s with Catherine’s name in the book, which had completely
-slipped from my memory, till thus awakened. I blushed at my
+[[Heathcliff]]’s with Catherine’s name in the book, which had completely
+slipped from my [[Memory|memory]], till thus awakened. I blushed at my
 inconsideration: but, without showing further consciousness of the
-offence, I hastened to add—“The truth is, sir, I passed the first part
-of the night in—” Here I stopped afresh—I was about to say “perusing
+offence, I hastened to add—“The [[Truth|truth]] is, sir, I passed the first part
+of the [[Night|night]] in—” Here I stopped afresh—I was about to say “perusing
 those old volumes,” then it would have revealed my knowledge of their
-written, as well as their printed, contents; so, correcting myself, I
-went on—“in spelling over the name scratched on that window-ledge. A
+written, as [[Well|well]] as their printed, contents; so, correcting myself, I
+went on—“in spelling over the name scratched on that [[Window|window]]-ledge. A
 monotonous occupation, calculated to set me asleep, like counting, or—”
 
 “What _can_ you mean by talking in this way to _me!_” thundered
-Heathcliff with savage vehemence. “How—how _dare_ you, under my
+[[Heathcliff]] with savage vehemence. “How—how _dare_ you, under my
 roof?—God! he’s mad to speak so!” And he struck his forehead with rage.
 
 I did not know whether to resent this language or pursue my
 explanation; but he seemed so powerfully affected that I took pity and
-proceeded with my dreams; affirming I had never heard the appellation
+proceeded with my [[Dreams|dreams]]; affirming I had never heard the appellation
 of “Catherine Linton” before, but reading it often over produced an
-impression which personified itself when I had no longer my imagination
-under control. Heathcliff gradually fell back into the shelter of the
+impression which personified itself when I had no longer my [[Imagination|imagination]]
+under control. [[Heathcliff]] gradually fell back into the shelter of the
 bed, as I spoke; finally sitting down almost concealed behind it. I
 guessed, however, by his irregular and intercepted breathing, that he
 struggled to vanquish an excess of violent emotion. Not liking to show
 him that I had heard the conflict, I continued my toilette rather
 noisily, looked at my watch, and soliloquised on the length of the
-night: “Not three o’clock yet! I could have taken oath it had been six.
-Time stagnates here: we must surely have retired to rest at eight!”
+[[Night|night]]: “Not three o’[[Clock|clock]] yet! I could have taken oath it had been six.
+[[Time]] stagnates here: we must surely have retired to rest at eight!”
 
-“Always at nine in winter, and rise at four,” said my host, suppressing
-a groan: and, as I fancied, by the motion of his arm’s shadow, dashing
+“Always at nine in [[Winter|winter]], and rise at four,” said my host, suppressing
+a groan: and, as I fancied, by the motion of his arm’s [[Shadow|shadow]], dashing
 a tear from his eyes. “Mr. Lockwood,” he added, “you may go into my
 room: you’ll only be in the way, coming downstairs so early: and your
-childish outcry has sent sleep to the devil for me.”
+childish outcry has sent [[Sleep|sleep]] to the devil for me.”
 
 “And for me, too,” I replied. “I’ll walk in the yard till daylight, and
 then I’ll be off; and you need not dread a repetition of my intrusion.
 I’m now quite cured of seeking pleasure in society, be it country or
 town. A sensible man ought to find sufficient company in himself.”
 
-“Delightful company!” muttered Heathcliff. “Take the candle, and go
+“Delightful company!” muttered [[Heathcliff]]. “Take the candle, and go
 where you please. I shall join you directly. Keep out of the yard,
-though, the dogs are unchained; and the house—Juno mounts sentinel
+though, the [[dogs]] are unchained; and the [[house]]—Juno mounts sentinel
 there, and—nay, you can only ramble about the steps and passages. But,
 away with you! I’ll come in two minutes!”
 
@@ -391,18 +391,18 @@ narrow lobbies led, I stood still, and was witness, involuntarily, to a
 piece of superstition on the part of my landlord which belied, oddly,
 his apparent sense. He got on to the bed, and wrenched open the
 lattice, bursting, as he pulled at it, into an uncontrollable passion
-of tears. “Come in! come in!” he sobbed. “Cathy, do come. Oh, do—_once_
-more! Oh! my heart’s darling! hear me _this_ time, Catherine, at last!”
+of [[Tears|tears]]. “Come in! come in!” he sobbed. “Cathy, do come. Oh, do—_once_
+more! Oh! my heart’s darling! hear me _this_ [[Time|time]], Catherine, at last!”
 The spectre showed a spectre’s ordinary caprice: it gave no sign of
-being; but the snow and wind whirled wildly through, even reaching my
+being; but the [[Snow|snow]] and [[Wind|wind]] whirled wildly through, even reaching my
 station, and blowing out the light.
 
 There was such anguish in the gush of grief that accompanied this
 raving, that my compassion made me overlook its folly, and I drew off,
 half angry to have listened at all, and vexed at having related my
-ridiculous nightmare, since it produced that agony; though _why_ was
+ridiculous [[nightmare]], since it produced that agony; though _why_ was
 beyond my comprehension. I descended cautiously to the lower regions,
-and landed in the back-kitchen, where a gleam of fire, raked compactly
+and landed in the back-kitchen, where a gleam of [[Fire|fire]], raked compactly
 together, enabled me to rekindle my candle. Nothing was stirring except
 a brindled, grey cat, which crept from the ashes, and saluted me with a
 querulous mew.
@@ -423,7 +423,7 @@ profound sigh, he got up, and departed as solemnly as he came.
 
 A more elastic footstep entered next; and now I opened my mouth for a
 “good-morning,” but closed it again, the salutation unachieved; for
-Hareton Earnshaw was performing his orison _sotto voce_, in a series of
+[[Hareton Earnshaw]] was performing his orison _sotto voce_, in a series of
 curses directed against every object he touched, while he rummaged a
 corner for a spade or shovel to dig through the drifts. He glanced over
 the back of the bench, dilating his nostrils, and thought as little of
@@ -434,14 +434,14 @@ inner door with the end of his spade, intimating by an inarticulate
 sound that there was the place where I must go, if I changed my
 locality.
 
-It opened into the house, where the females were already astir; Zillah
+It opened into the [[house]], where the females were already astir; Zillah
 urging flakes of flame up the chimney with a colossal bellows; and Mrs.
-Heathcliff, kneeling on the hearth, reading a book by the aid of the
+[[Heathcliff]], kneeling on the hearth, reading a book by the aid of the
 blaze. She held her hand interposed between the furnace-heat and her
 eyes, and seemed absorbed in her occupation; desisting from it only to
 chide the servant for covering her with sparks, or to push away a dog,
 now and then, that snoozled its nose overforwardly into her face. I was
-surprised to see Heathcliff there also. He stood by the fire, his back
+surprised to see [[Heathcliff]] there also. He stood by the [[Fire|fire]], his back
 towards me, just finishing a stormy scene with poor Zillah; who ever
 and anon interrupted her labour to pluck up the corner of her apron,
 and heave an indignant groan.
@@ -450,7 +450,7 @@ and heave an indignant groan.
 daughter-in-law, and employing an epithet as harmless as duck, or
 sheep, but generally represented by a dash—. “There you are, at your
 idle tricks again! The rest of them do earn their bread—you live on my
-charity! Put your trash away, and find something to do. You shall pay
+[[Charity|charity]]! Put your trash away, and find something to do. You shall pay
 me for the plague of having you eternally in my sight—do you hear,
 damnable jade?”
 
@@ -459,27 +459,27 @@ the young lady, closing her book, and throwing it on a chair. “But I’ll
 not do anything, though you should swear your tongue out, except what I
 please!”
 
-Heathcliff lifted his hand, and the speaker sprang to a safer distance,
-obviously acquainted with its weight. Having no desire to be
+[[Heathcliff]] lifted his hand, and the speaker sprang to a safer distance,
+obviously acquainted with its weight. Having no [[Desire|desire]] to be
 entertained by a cat-and-dog combat, I stepped forward briskly, as if
-eager to partake the warmth of the hearth, and innocent of any
+eager to partake the warmth of the hearth, and [[Innocent|innocent]] of any
 knowledge of the interrupted dispute. Each had enough decorum to
-suspend further hostilities: Heathcliff placed his fists, out of
-temptation, in his pockets; Mrs. Heathcliff curled her lip, and walked
+suspend further hostilities: [[Heathcliff]] placed his fists, out of
+[[Temptation|temptation]], in his pockets; Mrs. [[Heathcliff]] curled her lip, and walked
 to a seat far off, where she kept her word by playing the part of a
 statue during the remainder of my stay. That was not long. I declined
-joining their breakfast, and, at the first gleam of dawn, took an
+joining their breakfast, and, at the first gleam of [[Dawn|dawn]], took an
 opportunity of escaping into the free air, now clear, and still, and
 cold as impalpable ice.
 
-My landlord halloed for me to stop ere I reached the bottom of the
-garden, and offered to accompany me across the moor. It was well he
-did, for the whole hill-back was one billowy, white ocean; the swells
+My landlord halloed for me to stop ere I reached the [[Bottom|bottom]] of the
+[[Garden|garden]], and offered to accompany me across the moor. It was [[Well|well]] he
+did, for the whole [[Hill|hill]]-back was one billowy, white ocean; the swells
 and falls not indicating corresponding rises and depressions in the
 ground: many pits, at least, were filled to a level; and entire ranges
 of mounds, the refuse of the quarries, blotted from the chart which my
 yesterday’s walk left pictured in my mind. I had remarked on one side
-of the road, at intervals of six or seven yards, a line of upright
+of the [[Road|road]], at intervals of six or seven yards, a line of upright
 stones, continued through the whole length of the barren: these were
 erected and daubed with lime on purpose to serve as guides in the dark,
 and also when a fall, like the present, confounded the deep swamps on
@@ -487,7 +487,7 @@ either hand with the firmer path: but, excepting a dirty dot pointing
 up here and there, all traces of their existence had vanished: and my
 companion found it necessary to warn me frequently to steer to the
 right or left, when I imagined I was following, correctly, the windings
-of the road.
+of the [[Road|road]].
 
 We exchanged little conversation, and he halted at the entrance of
 Thrushcross Park, saying, I could make no error there. Our adieux were
@@ -495,17 +495,17 @@ limited to a hasty bow, and then I pushed forward, trusting to my own
 resources; for the porter’s lodge is untenanted as yet. The distance
 from the gate to the Grange is two miles; I believe I managed to make
 it four, what with losing myself among the trees, and sinking up to the
-neck in snow: a predicament which only those who have experienced it
-can appreciate. At any rate, whatever were my wanderings, the clock
-chimed twelve as I entered the house; and that gave exactly an hour for
-every mile of the usual way from Wuthering Heights.
+neck in [[Snow|snow]]: [[A Predicament|a predicament]] which only those who have experienced it
+can appreciate. At any rate, whatever were my wanderings, the [[Clock|clock]]
+chimed twelve as I entered the [[house]]; and that gave exactly an hour for
+every mile of the usual way from [[Wuthering Heights]].
 
 My human fixture and her satellites rushed to welcome me; exclaiming,
 tumultuously, they had completely given me up: everybody conjectured
-that I perished last night; and they were wondering how they must set
+that I perished last [[Night|night]]; and they were wondering how they must set
 about the search for my remains. I bid them be quiet, now that they saw
 me returned, and, benumbed to my very heart, I dragged upstairs;
 whence, after putting on dry clothes, and pacing to and fro thirty or
 forty minutes, to restore the animal heat, I adjourned to my study,
-feeble as a kitten: almost too much so to enjoy the cheerful fire and
+feeble as a kitten: almost too much so to enjoy the cheerful [[Fire|fire]] and
 smoking coffee which the servant had prepared for my refreshment.

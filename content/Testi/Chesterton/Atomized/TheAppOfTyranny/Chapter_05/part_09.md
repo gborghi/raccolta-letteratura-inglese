@@ -1,5 +1,5 @@
 ---
-title: "TheAppOfTyranny — Chapter 4 (part 9)"
+title: "[[TheAppOfTyranny]] — Chapter 4 (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheAppOfTyranny-(Chesterton)"
@@ -16,17 +16,17 @@ tags:
 
 dances? I am that German who has civilised Belgium; and delicately trimmed
 
-the frontiers of Denmark. And I may tell you, with the fulness of
+the frontiers of [[Denmark]]. And I may tell you, with the fulness of
 
 conviction, that I have never failed, and shall never fail in anything.
 
-Permit me, therefore, to bless your house by the passage of my beautiful
+Permit me, therefore, to bless your [[house]] by the passage of my beautiful
 
-boots; that I may burgle the house next door."
+boots; that I may burgle the [[house]] next door."
 
 
 
-And then something European that is prouder than pride will rise up in me;
+And then something European that is prouder than [[Pride|pride]] will rise up in me;
 
 and I shall answer:--
 
@@ -36,7 +36,7 @@ and I shall answer:--
 
 South Africa; who knows all his mistakes, who is heavy with all his sins.
 
-And he tells you, Faultless Being, with a truth as deep as his own guilt,
+And he tells you, Faultless Being, with a [[Truth|truth]] as deep as his own [[Guilt|guilt]],
 
 and as deathless as his own remembrance, that you shall not pass this way."
 
@@ -208,7 +208,7 @@ copying, distributing, performing, displaying or creating derivative
 
 works based on the work as long as all references to Project Gutenberg
 
-are removed.  Of course, we hope that you will support the Project
+are removed.  Of course, we [[Hope|hope]] that you will support the Project
 
 Gutenberg-tm mission of promoting free access to electronic works by
 

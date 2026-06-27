@@ -1,5 +1,5 @@
 ---
-title: "Common Man — Rabelaisian Regrets"
+title: "[[Common Man]] — Rabelaisian Regrets"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Common-Man-(Chesterton)"
@@ -16,12 +16,12 @@ tags:
 
 RABELAISIAN REGRETS
 
-There has arisen in our time an extraordinary notion that there is
+There has arisen in our [[Time|time]] an extraordinary notion that there is
 something humane, open-hearted or generous about refusing to define
-one's creed.  Obviously the very opposite is the truth.  Refusing to
+one's creed.  Obviously the very opposite is the [[Truth|truth]].  Refusing to
 define a creed is not only not generous, it is distinctly mean.
 It fails in frankness and fraternity towards the enemy.
-It is fighting without a flag or a declaration of war.
+It is fighting without a [[Flag|flag]] or a declaration of war.
 It denies to the enemy the decent concessions of battle;
 the right to know the policy and to treat with the headquarters.
 Modern "broad-mindedness" has a quality that can only be called sneakish;
@@ -49,7 +49,7 @@ But the modern world has not adopted this clear creed and never will.
 What it has done has been to spread everywhere a strong but vague
 prejudice against certain forms of drinking, particularly those
 adopted by the poor.  We have not made it wicked to drink ale,
-but we have made it slightly disreputable to go into a public-house.
+but we have made it slightly disreputable to go into a public-[[house]].
 In other words, we have made it slightly disreputable, if you
 drink ale, to be poor or to be sociable.  What it comes to is this:
 that any one wishing to sneer at me can get a laugh by saying I am
@@ -85,22 +85,22 @@ did huge forces ever come so silently or secretly into the world as they
 come to-day. No one knows or can name the real beginning of Imperialism
 or of the popularity of the Royal Family (a thing quite recent yet
 quite untraceable), or of the taking for granted, in so many minds,
-of the materialist philosophy or of the practical imposition of
+of the materialist [[philosophy]] or of the practical imposition of
 teetotalism as a discipline on the Nonconformist public ministry.
-These things come out of the night and are formless even when they
+These things come out of the [[Night|night]] and are formless even when they
 are forming everything else.
 
 But discussions on the subject of the Censor and other theatrical problems
 have brought before the public a supreme instance of what I mean.
-We have been asked for the hundredth time to find some solution of
-that problem of the combination in art of truth with sexual modesty;
+We have been asked for the hundredth [[Time|time]] to find some solution of
+that problem of the combination in art of [[Truth|truth]] with sexual modesty;
 and the result of considering this has been that we find ourselves
 face to face with a profound and most important change in public
 opinion on this subject; a change that has been going on,
 perhaps, for the last twenty years, perhaps ever since the coming
 of the Puritans; but a change which is, at any rate, of the utmost
 import to the wholesomeness of ethics, and a change which has
-proceeded in the same powerful silence as the growth of a tree.
+proceeded in the same powerful [[Silence|silence]] as the growth of a tree.
 It is this difference between new English and old English ethics
 in the matter of verbal delicacy of which I wish to speak here.
 The subject is difficult, it is even emotional and painful;
@@ -120,21 +120,21 @@ But these people are not only insane people, they are in the most emphatic
 sense of the word stupid people.  They do not think; they only point
 (as children do) and say "Why?"  Even children only do it when they
 are tired; but exactly this tired quality is most of what passes
-in our time not only for thought but for bold and disturbing thought.
+in our [[Time|time]] not only for thought but for bold and disturbing thought.
 To ask, "Why cannot we discuss sex coolly and rationally anywhere?"
 is a tired and unintelligent question.  It is like asking, "Why does
-not a man walk on his hands as well as on his feet?"  It is silly.
+not a man walk on his hands as [[Well|well]] as on his feet?"  It is silly.
 If a man walked systematically on his hands, they would not be hands,
-but feet.  And if love or lust were things that we could all discuss
-without any possible emotion they would not be love or lust, they would
+but feet.  And if [[Love|love]] or lust were things that we could all discuss
+without any possible emotion they would not be [[Love|love]] or lust, they would
 be something else--some mechanical function or abstract natural duty
-which may or may not exist in animals or in angels, but which has
-nothing at all to do with the sexuality we are talking about.
+which may or may not exist in [[Animals|animals]] or in angels, but which has
+nothing at all to do with the [[Sexuality|sexuality]] we are talking about.
 All the ideas of grasp or gesture, which to us make up the meaning
 of the word "hand", depend upon the fact that hands are loose
 extremities used not for walking on but for waving about.
 And all that we mean when we speak of "sex" is involved in the fact
-that it is not an unconscious or innocent thing, but a special
+that it is not an unconscious or [[Innocent|innocent]] thing, but a special
 and violent emotional stimulation at once spiritual and physical.
 A man who asks us to have no emotion in sex is asking us to have
 no emotion in emotion.  He has forgotten the subject-matter
@@ -144,8 +144,8 @@ that he does not know what he is talking about.
 
 And if men have never doubted that there should be a decorum
 in such things, neither have they ever doubted that that decorum
-might be carried much too far; that courage and laughter
-and wholesome truth might be sacrificed to the proprieties.
+might be carried much too far; that [[Courage|courage]] and laughter
+and wholesome [[Truth|truth]] might be sacrificed to the proprieties.
 So far, I say, humanity is essentially unanimous.  It is in the
 discussion as to which thing shall be suppressed and which permitted,
 in the selection of the more harmless from the more harmful
@@ -161,14 +161,14 @@ We have chosen, and I think we have chosen wrong.
 Before going deeper into this most difficult subject there is
 at least one general statement to be made.  The evil of excess
 in this matter really consists of three quite separate evils.
-Verbal impropriety or excess can spring from three quite
+Verbal impropriety or excess can [[spring]] from three quite
 different motives, three quite different states of mind,
 which have really very little to do with each other.
 It is necessary to unpick these three strands before we go any further.
 Ordinary popular discussion of the problem always hopelessly mixes
 them up.  Briefly, they may be stated thus:  impropriety arises
-either from a really vicious spirit, or from the love of emphasis,
-or from the love of analysis.
+either from a really vicious spirit, or from the [[Love|love]] of emphasis,
+or from the [[Love|love]] of analysis.
 
 The first can be dismissed with brevity and with relief.  There is such
 a thing as pornography; as a system of deliberate erotic stimulants.
@@ -190,7 +190,7 @@ illustrated by a comparison with the habit of swearing.
 Swearing is, of course, the strongest possible argument for
 the religious view of life.  A man cannot satisfactorily affirm
 anything about this world except by getting out of this world.
-The things commonly called fables are so true that they alone can
+The things commonly called fables are so true that they [[Alone|alone]] can
 give final ratification even to the things commonly called facts.
 A man in Balham cannot even call his dog a good dog without
 summoning to his aid either the angels or the devils.
@@ -199,18 +199,18 @@ move Acheron; but he never thinks of trying to move Balham.
 Religion is his only resort for purposes of real emphasis;
 and often, even when he is attacking religion, his instinctive
 way of attacking it is to say that it is a damned lie.
-The most natural way of talking is the supernatural way of talking.
+The most natural way of talking is the [[Supernatural|supernatural]] way of talking.
 And indeed this may be considered a good working test for all
 modern fads and philosophies which pretend to be religions.
 The new faiths founded on evolution or an impersonal ethic are
 always claiming, that they also can produce holiness; and no Christian
-has any right in Christian charity to deny that possibility.
+has any right in Christian [[Charity|charity]] to deny that possibility.
 But if the question really is whether the things in question are
-religions in the sense that Christianity or Mohammedanism are religions,
+religions in the sense that [[Christianity]] or Mohammedanism are religions,
 then I should suggest a different test.  I should not ask whether
 they can produce holiness, but whether they can produce profanity.
 Can any one swear by ethics?  Can any one blaspheme evolution?
-Many men now hold that a mere adoration of abstract morality or goodness
+Many men now hold that a mere adoration of abstract [[morality]] or goodness
 is the core and sole necessity of religion.  I know many of them;
 I know that their lives are noble, and their intellects just.
 But (I say it with respect and even hesitation) would not their
@@ -231,7 +231,7 @@ Yet there is one exception to this generalisation.  There is one thing
 which belongs to this world, but which is yet so fierce and startling,
 so full of menace and ecstasy, that it seems at times to partake
 of the character of miracle.  This thing is the thing called sex;
-and on this also from time to time the man with the small dog in Balham
+and on this also from [[Time|time]] to [[Time|time]] the man with the small dog in Balham
 will call in his dire need.  Men used to swear by their heads;
 they still in a manner swear by their bodies.  Sex is actual
 enough to swear by.  To take but one coarse democratic test,
@@ -241,8 +241,8 @@ the language of sex can be used as a kind of violent invocation;
 a reinforcement of common words by the strongest words.
 I will not pause here to ask the reason of this; whether saying "damn"
 and saying other things unprintable have something to do
-with the fact that sex is the great business of the body,
-and salvation the great business of the soul.  It is enough to say
+with the fact that sex is the great business of the [[Body|body]],
+and salvation the great business of the [[Soul|soul]].  It is enough to say
 that any one can read the thing I mean and any one can hear it.
 He can read the thing best perhaps in Aristophanes or in Rabelais.
 He can hear the thing best in the street outside.
@@ -252,7 +252,7 @@ find it in any of the books or newspapers sold in the street.
 There is no law against indecent ideas; but there is a quite
 efficient and practical law against indecent words.
 Slowly throughout the eighteenth century word after word was
-dropped until by the Victorian time it was insisted that no
+dropped until by the Victorian [[Time|time]] it was insisted that no
 coarse phrases should be used even in defending coarseness.
 I am myself under the limitations of this very local prejudice.
 I am compelled to prove my case in many pages because I
@@ -266,25 +266,25 @@ is at one with all the most really masculine poets or romancers;
 he is at one with Rabelais, with Swift, and even with Browning.
 Browning uses a foul metaphor to express the foulness of those who
 profess sympathy with human sorrows merely out of their own morbidity.
-You can find the phrase in "At the Mermaid."  Browning uses
+You can find the phrase in "At the [[Mermaid]]."  Browning uses
 the same foul metaphor to express the foulness of those who cannot
 understand a man's prompt grasp of the presence of a good woman.
 You can find the phrase in the speech of Capponsacchi.
 In short, the emphatic use of sexual language has this great advantage
 that it is commonly used purely in the interests of virtue.
-The virtuous cabman may (and does) call a man a blank, in a state
-of furious and innocent horror at the idea of any one being a blank.
+The virtuous [[cabman]] may (and does) call a man a blank, in a state
+of furious and [[Innocent|innocent]] horror at the idea of any one being a blank.
 But this is not true in the case of the third impulse to indecorum.
 The third impulse is that which I have called the analytical;
 the mere curiosity of the mind about how the relations of the sexes
 are to be considered and classified.  This covers all that we now
-call the Problem Play, and all that we associate with the realistic
-and psychological novel, and all the millions of proposals for
-the rearrangement of marriage.  The dialogue in The Little Eyolf
+call the [[Problem Play]], and all that we associate with the realistic
+and psychological [[Novel|novel]], and all the millions of proposals for
+the rearrangement of [[Marriage|marriage]].  The dialogue in The Little Eyolf
 horrified many people; but it did not contain a single coarse word.
-Mr. George Moore, Mr. Richard Le Gallienne, and the lady called
-"Victoria Cross" have in turn been accused of being needlessly daring;
-but not one of them dare use words straight out of Bunyan or the Bible.
+Mr. George Moore, Mr. [[Richard]] Le Gallienne, and the lady called
+"Victoria [[Cross]]" have in turn been accused of being needlessly daring;
+but not one of them dare use words straight out of Bunyan or the [[Bible]].
 The analytic indecency is now more free than it ever was among free men.
 The emphatic indecency is more stifled than it ever was among free men;
 more stifled than it ever was among slaves.
@@ -297,11 +297,11 @@ for some incomprehensible reason, permit to speak for them.
 There is no hypocrisy on the top of an English omnibus; but I warmly
 agree that there is really too much hypocrisy in the front page
 of an English newspaper, or within the covers of an English book.
-Let us agree that Ibsen had a right to suggest that marriage is an
-unpleasant fact as well as a pleasant one; that as well as the more
+Let us agree that Ibsen had a right to suggest that [[Marriage|marriage]] is an
+unpleasant fact as [[Well|well]] as a pleasant one; that as [[Well|well]] as the more
 chivalrous side of sex which is exaggerated by the Victorian poets,
 there is also the realistic and scientific side of sex, which was
-exaggerated by the old monks.  Let me concede altogether and at once
+exaggerated by the old [[Monks|monks]].  Let me concede altogether and at once
 the fact that the modern tendency to dissect sex and to subdivide it,
 to put it into pigeon-holes, is a just and necessary measure.
 I will not even say here that the tendency has gone too far.
@@ -309,7 +309,7 @@ But I will say this:  what will you do if it does go too far?
 Suppose you wake up some fine morning and find indecencies
 which are quite ludicrous being taken quite seriously.
 Suppose you find certain sins put in a pigeon-hole when they ought
-to be put in a dust-hole. Suppose that after twenty years of scientific
+to be put in a [[Dust|dust]]-hole. Suppose that after twenty years of scientific
 study you find that you have all the dirty jokes back again, the only
 difference being that you must enjoy them without laughing at them.
 Suppose, in short, that you are confronted with the exasperating

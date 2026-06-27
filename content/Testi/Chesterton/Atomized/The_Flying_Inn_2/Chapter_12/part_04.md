@@ -17,7 +17,7 @@ tags:
 "Whatever," said Hibbs, with a solemn cough,
 "whatever we may think of the old belief that
 Moslems have differed from Buddhism in a regrettable
-way, there can be no doubt the responsibility lay with
+way, there can be no [[Doubt|doubt]] the responsibility lay with
 the Christian Churches.  Had the Free Churches put
 their foot down and met Messrs. Opalstein's demand,
 we should have heard nothing of these old differences
@@ -26,28 +26,28 @@ reminded him of Napoleon.  He gave his own opinion
 for what it was worth, but he was not afraid to say at
 any cost, even there and in that company, that this
 business of Asiatic vegetation had occupied less of the
-time of the Wesleyan Conference than it should have
+[[Time|time]] of the Wesleyan Conference than it should have
 done.  He would be the last to say, of course, that
 anyone was in any sense to blame.  They all knew
-Dr. Coon's qualifications.  They all knew as well as
+Dr. Coon's qualifications.  They all knew as [[Well|well]] as
 he did, that a more strenuous social worker than
 Charles Chadder had never rallied the forces of
 progress.  But that which was not really an indiscretion
 might be represented as an indiscretion, and perhaps
 we had had enough of that just lately.  It was all very
-well to talk about Coffe but it should be remembered,
+[[Well|well]] to talk about Coffe but it should be remembered,
 with no disrespect to those in Canada to whom we
 owe so much, that all that happened before 1891.  No
-one had less desire to offend our Ritualistic friends
+one had less [[Desire|desire]] to offend our Ritualistic friends
 than he did, but he had no hesitation in saying that
 the question was a question that could be asked, and
-though no doubt, from one point of view the goat's--.
+though no [[Doubt|doubt]], from one point of view the goat's--.
 
 Lady Joan moved sharply in her chair, as if gripped
-by sudden pain.  And, indeed, she had suddenly felt
-the chronic and recurrent pain of her life.  She was
-brave about bodily pain, as are most women, even
-luxurious women: but the torment that from time to time
+by sudden [[Pain|pain]].  And, indeed, she had suddenly felt
+the chronic and recurrent [[Pain|pain]] of her life.  She was
+brave about bodily [[Pain|pain]], as are most women, even
+luxurious women: but the torment that from [[Time|time]] to [[Time|time]]
 returned and tore her was one to which many
 philosophical names have been given, but no name so
 philosophical as Boredom.
@@ -63,7 +63,7 @@ refreshments, though attenuated tables could still be
 found here and there.  She threw herself on an
 ottoman and stared toward the empty and elfin turret
 chambers in which Ivywood had made her understand
-that he, also, could thirst for beauty and desire to be
+that he, also, could thirst for [[Beauty|beauty]] and [[Desire|desire]] to be
 at peace.  He certainly had a poetry of his own, after
 all; a poetry that never touched earth; the poetry of
 Shelley rather than Shakespeare.  His phrase about
@@ -71,7 +71,7 @@ the fairy turret was true: it did look like the end of
 the world.  It did seem to teach her that there is
 always some serene limit at last.
 
-She started and half rose on her elbow with a small
+She started and half [[Rose|rose]] on her elbow with a small
 laugh.  A dog of ludicrous but familiar appearance
 came shuffling toward her and she lifted herself in the
 act of lifting him.  She also lifted her head, and saw

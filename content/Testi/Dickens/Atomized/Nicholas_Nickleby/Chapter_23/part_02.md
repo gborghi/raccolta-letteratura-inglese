@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 23 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 23 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -27,21 +27,21 @@ upon the very points of her toes. This seemed to make some impression
 upon the savage; for, after a little more ferocity and chasing of the
 maiden into corners, he began to relent, and stroked his face several
 times with his right thumb and four fingers, thereby intimating that
-he was struck with admiration of the maiden’s beauty. Acting upon the
+he was struck with admiration of the maiden’s [[Beauty|beauty]]. Acting upon the
 impulse of this passion, he (the savage) began to hit himself severe
 thumps in the chest, and to exhibit other indications of being
-desperately in love, which being rather a prosy proceeding, was very
+desperately in [[Love|love]], which being rather a prosy proceeding, was very
 likely the cause of the maiden’s falling asleep; whether it was or
 no, asleep she did fall, sound as a church, on a sloping bank, and the
 savage perceiving it, leant his left ear on his left hand, and nodded
 sideways, to intimate to all whom it might concern that she WAS asleep,
-and no shamming. Being left to himself, the savage had a dance, all
-alone. Just as he left off, the maiden woke up, rubbed her eyes, got off
-the bank, and had a dance all alone too--such a dance that the savage
+and no shamming. Being left to himself, the savage had a [[Dance|dance]], all
+[[Alone|alone]]. Just as he left off, the maiden woke up, rubbed her eyes, got off
+the bank, and had a [[Dance|dance]] all [[Alone|alone]] too--such a [[Dance|dance]] that the savage
 looked on in ecstasy all the while, and when it was done, plucked from
 a neighbouring tree some botanical curiosity, resembling a small pickled
 cabbage, and offered it to the maiden, who at first wouldn’t have it,
-but on the savage shedding tears relented. Then the savage jumped
+but on the savage shedding [[Tears|tears]] relented. Then the savage jumped
 for joy; then the maiden jumped for rapture at the sweet smell of
 the pickled cabbage. Then the savage and the maiden danced violently
 together, and, finally, the savage dropped down on one knee, and the
@@ -49,17 +49,17 @@ maiden stood on one leg upon his other knee; thus concluding the ballet,
 and leaving the spectators in a state of pleasing uncertainty, whether
 she would ultimately marry the savage, or return to her friends.
 
-‘Very well indeed,’ said Mr. Crummles; ‘bravo!’
+‘Very [[Well|well]] indeed,’ said Mr. Crummles; ‘bravo!’
 
 ‘Bravo!’ cried Nicholas, resolved to make the best of everything.
 ‘Beautiful!’
 
-‘This, sir,’ said Mr. Vincent Crummles, bringing the maiden forward,
+‘This, sir,’ said Mr. [[Vincent Crummles]], bringing the maiden forward,
 ‘this is the infant phenomenon--Miss Ninetta Crummles.’
 
 ‘Your daughter?’ inquired Nicholas.
 
-‘My daughter--my daughter,’ replied Mr. Vincent Crummles; ‘the idol of
+‘My daughter--my daughter,’ replied Mr. [[Vincent Crummles]]; ‘the idol of
 every place we go into, sir. We have had complimentary letters about
 this girl, sir, from the nobility and gentry of almost every town in
 England.’
@@ -69,7 +69,7 @@ natural genius.’
 
 ‘Quite a--!’ Mr. Crummles stopped: language was not powerful enough to
 describe the infant phenomenon. ‘I’ll tell you what, sir,’ he said;
-‘the talent of this child is not to be imagined. She must be seen,
+‘the talent of this [[Child|child]] is not to be imagined. She must be seen,
 sir--seen--to be ever so faintly appreciated. There; go to your mother,
 my dear.’
 
@@ -88,9 +88,9 @@ age, sir.’
 
 It was; for the infant phenomenon, though of short stature, had a
 comparatively aged countenance, and had moreover been precisely the
-same age--not perhaps to the full extent of the memory of the oldest
+same age--not perhaps to the full extent of the [[Memory|memory]] of the oldest
 inhabitant, but certainly for five good years. But she had been kept up
-late every night, and put upon an unlimited allowance of gin-and-water
+late every [[Night|night]], and put upon an unlimited allowance of gin-and-[[Water|water]]
 from infancy, to prevent her growing tall, and perhaps this system
 of training had produced in the infant phenomenon these additional
 phenomena.
@@ -112,8 +112,8 @@ oughtn’t.’
 
 ‘I mean to say,’ replied the other, warmly, ‘that she is too good for
 country boards, and that she ought to be in one of the large houses in
-London, or nowhere; and I tell you more, without mincing the matter,
-that if it wasn’t for envy and jealousy in some quarter that you know
+[[London]], or nowhere; and I tell you more, without mincing the matter,
+that if it wasn’t for envy and [[Jealousy|jealousy]] in some quarter that you know
 of, she would be. Perhaps you’ll introduce me here, Mr. Crummles.’
 
 ‘Mr. Folair,’ said the manager, presenting him to Nicholas.
@@ -133,21 +133,21 @@ over his shoulder.
 
 ‘You don’t mean the infant phenomenon?’
 
-‘Infant humbug, sir,’ replied Mr. Folair. ‘There isn’t a female child of
-common sharpness in a charity school, that couldn’t do better than that.
-She may thank her stars she was born a manager’s daughter.’
+‘Infant humbug, sir,’ replied Mr. Folair. ‘There isn’t a female [[Child|child]] of
+common sharpness in a [[Charity|charity]] school, that couldn’t do better than that.
+She may thank her [[Stars|stars]] she was born a manager’s daughter.’
 
 ‘You seem to take it to heart,’ observed Nicholas, with a smile.
 
-‘Yes, by Jove, and well I may,’ said Mr. Folair, drawing his arm through
+‘Yes, by Jove, and [[Well|well]] I may,’ said Mr. Folair, drawing his arm through
 his, and walking him up and down the stage. ‘Isn’t it enough to make a
 man crusty to see that little sprawler put up in the best business every
-night, and actually keeping money out of the house, by being forced
+[[Night|night]], and actually keeping money out of the [[house]], by being forced
 down the people’s throats, while other people are passed over? Isn’t
 it extraordinary to see a man’s confounded family conceit blinding him,
 even to his own interest? Why I KNOW of fifteen and sixpence that came
-to Southampton one night last month, to see me dance the Highland Fling;
+to Southampton one [[Night|night]] last month, to see me [[Dance|dance]] the Highland Fling;
 and what’s the consequence? I’ve never been put up in it since--never
 once--while the “infant phenomenon” has been grinning through artificial
-flowers at five people and a baby in the pit, and two boys in the
-gallery, every night.’
+[[Flowers|flowers]] at five people and a baby in the pit, and two boys in the
+gallery, every [[Night|night]].’

@@ -1,5 +1,5 @@
 ---
-title: "Lamia"
+title: "[[Lamia]]"
 author: "Keats"
 unitType: work
 parentWork: "Works/Lamia-(Keats)"
@@ -13,11 +13,11 @@ tags:
 </nav>
 
 
-## LAMIA PART I
+## [[Lamia|LAMIA]] PART I
 
-Upon a time, before the faery broods  
+Upon a [[Time|time]], before the faery broods  
 Drove Nymph and Satyr from the prosperous woods,  
-Before King Oberon’s bright diadem,  
+Before [[King]] [[Oberon]]’s bright diadem,  
 Sceptre, and mantle, clasp’d with dewy gem,  
 Frighted away the Dryads and the Fauns  
 From rushes green, and brakes, and cowslip’d lawns,  
@@ -35,15 +35,15 @@ Fast by the springs where she to bathe was wont,
 And in those meads where sometime she might haunt,  
 Were strewn rich gifts, unknown to any Muse,  
 Though Fancy’s casket were unlock’d to choose.  20  
-Ah, what a world of love was at her feet!  
+Ah, what a world of [[Love|love]] was at her feet!  
 So Hermes thought, and a celestial heat  
 Burnt from his winged heels to either ear,  
 That from a whiteness, as the lily clear,  
 Blush’d into roses ‘mid his golden hair,  
 Fallen in jealous curls about his shoulders bare.  
 From vale to vale, from wood to wood, he flew,  
-Breathing upon the flowers his passion new,  
-And wound with many a river to its head,  
+Breathing upon the [[Flowers|flowers]] his passion new,  
+And wound with many a [[River|river]] to its head,  
 To find where this sweet nymph prepar’d her secret bed:  30  
 In vain; the sweet nymph might nowhere be found,  
 And so he rested, on the lonely ground,  
@@ -51,13 +51,13 @@ Pensive, and full of painful jealousies
 Of the Wood-Gods, and even the very trees.  
 There as he stood, he heard a mournful voice,  
 Such as once heard, in gentle heart, destroys  
-All pain but pity: thus the lone voice spake:  
+All [[Pain|pain]] but pity: thus the lone voice spake:  
 “When from this wreathed tomb shall I awake!  
-When move in a sweet body fit for life,  
-And love, and pleasure, and the ruddy strife  40  
+When move in a sweet [[Body|body]] fit for life,  
+And [[Love|love]], and pleasure, and the ruddy strife  40  
 Of hearts and lips! Ah, miserable me!”  
 The God, dove-footed, glided silently  
-Round bush and tree, soft-brushing, in his speed,  
+Round bush and tree, soft-brushing, in his [[Speed|speed]],  
 The taller grasses and full-flowering weed,  
 Until he found a palpitating snake,  
 Bright, and cirque-couchant in a dusky brake.  
@@ -71,26 +71,26 @@ Dissolv’d, or brighter shone, or interwreathed
 Their lustres with the gloomier tapestries--  
 So rainbow-sided, touch’d with miseries,  
 She seem’d, at once, some penanced lady elf,  
-Some demon’s mistress, or the demon’s self.  
-Upon her crest she wore a wannish fire  
-Sprinkled with stars, like Ariadne’s tiar:  
+Some demon’s mistress, or the demon’s [[Self|self]].  
+Upon her crest she wore a wannish [[Fire|fire]]  
+Sprinkled with [[Stars|stars]], like Ariadne’s tiar:  
 Her head was serpent, but ah, bitter-sweet!  
 She had a woman’s mouth with all its pearls complete:  60  
 And for her eyes: what could such eyes do there  
 But weep, and weep, that they were born so fair?  
 As Proserpine still weeps for her Sicilian air.  
 Her throat was serpent, but the words she spake  
-Came, as through bubbling honey, for Love’s sake,  
+Came, as through bubbling honey, for [[Love]]’s sake,  
 And thus; while Hermes on his pinions lay,  
 Like a stoop’d falcon ere he takes his prey.  
 
-“Fair Hermes, crown’d with feathers, fluttering light,  
-I had a splendid dream of thee last night:  
+“Fair Hermes, [[Crown|crown]]’d with feathers, fluttering light,  
+I had a splendid dream of thee last [[Night|night]]:  
 I saw thee sitting, on a throne of gold, 70  
 Among the Gods, upon Olympus old,  
 The only sad one; for thou didst not hear  
 The soft, lute-finger’d Muses chaunting clear,  
-Nor even Apollo when he sang alone,  
+Nor even [[Apollo]] when he sang [[Alone|alone]],  
 Deaf to his throbbing throat’s long, long melodious moan.  
 I dreamt I saw thee, robed in purple flakes,  
 Break amorous through the clouds, as morning breaks,  
@@ -100,33 +100,33 @@ Too gentle Hermes, hast thou found the maid?”  80
 Whereat the star of Lethe not delay’d  
 His rosy eloquence, and thus inquired:  
 “Thou smooth-lipp’d serpent, surely high inspired!  
-Thou beauteous wreath, with melancholy eyes,  
+Thou beauteous wreath, with [[Melancholy|melancholy]] eyes,  
 Possess whatever bliss thou canst devise,  
 Telling me only where my nymph is fled,--  
 Where she doth breathe!” “Bright planet, thou hast said,”  
 Return’d the snake, “but seal with oaths, fair God!”  
 “I swear,” said Hermes, “by my serpent rod,  
-And by thine eyes, and by thy starry crown!”  90  
+And by thine eyes, and by thy starry [[Crown|crown]]!”  90  
 Light flew his earnest words, among the blossoms blown.  
 Then thus again the brilliance feminine:  
 “Too frail of heart! for this lost nymph of thine,  
 Free as the air, invisibly, she strays  
 About these thornless wilds; her pleasant days  
 She tastes unseen; unseen her nimble feet  
-Leave traces in the grass and flowers sweet;  
+Leave traces in the grass and [[Flowers|flowers]] sweet;  
 From weary tendrils, and bow’d branches green,  
 She plucks the fruit unseen, she bathes unseen:  
-And by my power is her beauty veil’d  100  
+And by my power is her [[Beauty|beauty]] veil’d  100  
 To keep it unaffronted, unassail’d  
-By the love-glances of unlovely eyes,  
+By the [[Love|love]]-glances of unlovely eyes,  
 Of Satyrs, Fauns, and blear’d Silenus’ sighs.  
-Pale grew her immortality, for woe  
-Of all these lovers, and she grieved so  
+Pale grew her [[Immortality|immortality]], for woe  
+Of all these [[lovers]], and she grieved so  
 I took compassion on her, bade her steep  
 Her hair in weird syrops, that would keep  
 Her loveliness invisible, yet free  
 To wander as she loves, in liberty.  
-Thou shalt behold her, Hermes, thou alone,  110  
+Thou shalt behold her, Hermes, thou [[Alone|alone]],  110  
 If thou wilt, as thou swearest, grant my boon!”  
 Then, once again, the charmed God began  
 An oath, and through the serpent’s ears it ran  
@@ -135,62 +135,62 @@ Ravish’d, she lifted her Circean head,
 Blush’d a live damask, and swift-lisping said,  
 “I was a woman, let me have once more  
 A woman’s shape, and charming as before.  
-I love a youth of Corinth--O the bliss!  
+I [[Love|love]] a youth of Corinth--O the bliss!  
 Give me my woman’s form, and place me where he is.  120  
 Stoop, Hermes, let me breathe upon thy brow,  
 And thou shalt see thy sweet nymph even now.”  
 The God on half-shut feathers sank serene,  
 She breath’d upon his eyes, and swift was seen  
 Of both the guarded nymph near-smiling on the green.  
-It was no dream; or say a dream it was,  
-Real are the dreams of Gods, and smoothly pass  
+It was no dream; or say [[A Dream|a dream]] it was,  
+Real are the [[Dreams|dreams]] of Gods, and smoothly pass  
 Their pleasures in a long immortal dream.  
 One warm, flush’d moment, hovering, it might seem  
-Dash’d by the wood-nymph’s beauty, so he burn’d;  130  
+Dash’d by the wood-nymph’s [[Beauty|beauty]], so he burn’d;  130  
 Then, lighting on the printless verdure, turn’d  
 To the swoon’d serpent, and with languid arm,  
 Delicate, put to proof the lythe Caducean charm.  
 So done, upon the nymph his eyes he bent  
-Full of adoring tears and blandishment,  
-And towards her stept: she, like a moon in wane,  
+Full of adoring [[Tears|tears]] and blandishment,  
+And towards her stept: she, like a [[Moon|moon]] in wane,  
 Faded before him, cower’d, nor could restrain  
-Her fearful sobs, self-folding like a flower  
+Her fearful sobs, [[Self|self]]-folding like a flower  
 That faints into itself at evening hour:  
 But the God fostering her chilled hand, 140  
 She felt the warmth, her eyelids open’d bland,  
-And, like new flowers at morning song of bees,  
+And, like new [[Flowers|flowers]] at morning [[Song|song]] of [[Bees|bees]],  
 Bloom’d, and gave up her honey to the lees.  
 Into the green-recessed woods they flew;  
-Nor grew they pale, as mortal lovers do.  
+Nor grew they pale, as mortal [[lovers]] do.  
 
 Left to herself, the serpent now began  
-To change; her elfin blood in madness ran,  
+To change; her elfin [[Blood|blood]] in [[Madness|madness]] ran,  
 Her mouth foam’d, and the grass, therewith besprent,  
 Wither’d at dew so sweet and virulent;  
 Her eyes in torture fix’d, and anguish drear,  150  
 Hot, glaz’d, and wide, with lid-lashes all sear,  
 Flash’d phosphor and sharp sparks, without one cooling tear.  
 The colours all inflam’d throughout her train,  
-She writh’d about, convuls’d with scarlet pain:  
+She writh’d about, convuls’d with scarlet [[Pain|pain]]:  
 A deep volcanian yellow took the place  
-Of all her milder-mooned body’s grace;  
+Of all her milder-mooned [[Body|body]]’s grace;  
 And, as the lava ravishes the mead,  
 Spoilt all her silver mail, and golden brede;  
 Made gloom of all her frecklings, streaks and bars,  
-Eclips’d her crescents, and lick’d up her stars:  160  
+Eclips’d her crescents, and lick’d up her [[Stars|stars]]:  160  
 So that, in moments few, she was undrest  
 Of all her sapphires, greens, and amethyst,  
 And rubious-argent: of all these bereft,  
-Nothing but pain and ugliness were left.  
-Still shone her crown; that vanish’d, also she  
+Nothing but [[Pain|pain]] and ugliness were left.  
+Still shone her [[Crown|crown]]; that vanish’d, also she  
 Melted and disappear’d as suddenly;  
 And in the air, her new voice luting soft,  
-Cried, “Lycius! gentle Lycius!”--Borne aloft  
-With the bright mists about the mountains hoar  
+Cried, “[[Lycius]]! gentle [[Lycius]]!”--Borne aloft  
+With the bright mists about the [[Mountains|mountains]] hoar  
 These words dissolv’d: Crete’s forests heard no more. 170  
 
-Whither fled Lamia, now a lady bright,  
-A full-born beauty new and exquisite?  
+Whither fled [[Lamia]], now a lady bright,  
+A full-born [[Beauty|beauty]] new and exquisite?  
 She fled into that valley they pass o’er  
 Who go to Corinth from Cenchreas’ shore;  
 And rested at the foot of those wild hills,  
@@ -204,14 +204,14 @@ By a clear pool, wherein she passioned
 To see herself escap’d from so sore ills,  
 While her robes flaunted with the daffodils.  
 
-Ah, happy Lycius!--for she was a maid  
+Ah, happy [[Lycius]]!--for she was a maid  
 More beautiful than ever twisted braid,  
-Or sigh’d, or blush’d, or on spring-flowered lea  
+Or sigh’d, or blush’d, or on [[spring]]-flowered lea  
 Spread a green kirtle to the minstrelsy:  
 A virgin purest lipp’d, yet in the lore  
-Of love deep learned to the red heart’s core:  190  
+Of [[Love|love]] deep learned to the red heart’s core:  190  
 Not one hour old, yet of sciential brain  
-To unperplex bliss from its neighbour pain;  
+To unperplex bliss from its neighbour [[Pain|pain]];  
 Define their pettish limits, and estrange  
 Their points of contact, and swift counterchange;  
 Intrigue with the specious chaos, and dispart  
@@ -223,12 +223,12 @@ And kept his rosy terms in idle languishment.
 Why this fair creature chose so fairily  200  
 By the wayside to linger, we shall see;  
 But first ’tis fit to tell how she could muse  
-And dream, when in the serpent prison-house,  
+And dream, when in the serpent [[Prison|prison]]-[[house]],  
 Of all she list, strange or magnificent:  
 How, ever, where she will’d, her spirit went;  
 Whether to faint Elysium, or where  
 Down through tress-lifting waves the Nereids fair  
-Wind into Thetis’ bower by many a pearly stair;  
+[[Wind]] into Thetis’ bower by many a pearly stair;  
 Or where God Bacchus drains his cups divine,  
 Stretch’d out, at ease, beneath a glutinous pine;  210  
 Or where in Pluto’s gardens palatine  
@@ -236,20 +236,20 @@ Mulciber’s columns gleam in far piazzian line.
 And sometimes into cities she would send  
 Her dream, with feast and rioting to blend;  
 And once, while among mortals dreaming thus,  
-She saw the young Corinthian Lycius  
+She saw the young Corinthian [[Lycius]]  
 Charioting foremost in the envious race,  
 Like a young Jove with calm uneager face,  
-And fell into a swooning love of him.  
-Now on the moth-time of that evening dim  220  
-He would return that way, as well she knew,  
+And fell into a swooning [[Love|love]] of him.  
+Now on the moth-[[Time|time]] of that evening dim  220  
+He would return that way, as [[Well|well]] she knew,  
 To Corinth from the shore; for freshly blew  
-The eastern soft wind, and his galley now  
+The eastern soft [[Wind|wind]], and his galley now  
 Grated the quaystones with her brazen prow  
 In port Cenchreas, from Egina isle  
 Fresh anchor’d; whither he had been awhile  
 To sacrifice to Jove, whose temple there  
-Waits with high marble doors for blood and incense rare.  
-Jove heard his vows, and better’d his desire;  
+Waits with high marble doors for [[Blood|blood]] and incense rare.  
+Jove heard his vows, and better’d his [[Desire|desire]];  
 For by some freakful chance he made retire  230  
 From his companions, and set forth to walk,  
 Perhaps grown wearied of their Corinth talk:  
@@ -257,59 +257,59 @@ Over the solitary hills he fared,
 Thoughtless at first, but ere eve’s star appeared  
 His phantasy was lost, where reason fades,  
 In the calm’d twilight of Platonic shades.  
-Lamia beheld him coming, near, more near--  
+[[Lamia]] beheld him coming, near, more near--  
 Close to her passing, in indifference drear,  
 His silent sandals swept the mossy green;  
 So neighbour’d to him, and yet so unseen  240  
 She stood: he pass’d, shut up in mysteries,  
 His mind wrapp’d like his mantle, while her eyes  
 Follow’d his steps, and her neck regal white  
-Turn’d--syllabling thus, “Ah, Lycius bright,  
-And will you leave me on the hills alone?  
-Lycius, look back! and be some pity shown.”  
-He did; not with cold wonder fearingly,  
+Turn’d--syllabling thus, “Ah, [[Lycius]] bright,  
+And will you leave me on the hills [[Alone|alone]]?  
+[[Lycius]], look back! and be some pity shown.”  
+He did; not with cold [[Wonder|wonder]] fearingly,  
 But Orpheus-like at an Eurydice;  
 For so delicious were the words she sung,  
-It seem’d he had lov’d them a whole summer long:  250  
-And soon his eyes had drunk her beauty up,  
+It seem’d he had lov’d them a whole [[Summer|summer]] long:  250  
+And soon his eyes had drunk her [[Beauty|beauty]] up,  
 Leaving no drop in the bewildering cup,  
 And still the cup was full,--while he, afraid  
 Lest she should vanish ere his lip had paid  
 Due adoration, thus began to adore;  
 Her soft look growing coy, she saw his chain so sure:  
-“Leave thee alone! Look back! Ah, Goddess, see  
+“Leave thee [[Alone|alone]]! Look back! Ah, Goddess, see  
 Whether my eyes can ever turn from thee!  
 For pity do not this sad heart belie--  
 Even as thou vanishest so I shall die.  260  
 Stay! though a Naiad of the rivers, stay!  
 To thy far wishes will thy streams obey:  
 Stay! though the greenest woods be thy domain,  
-Alone they can drink up the morning rain:  
+[[Alone]] they can drink up the morning rain:  
 Though a descended Pleiad, will not one  
 Of thine harmonious sisters keep in tune  
 Thy spheres, and as thy silver proxy shine?  
 So sweetly to these ravish’d ears of mine  
 Came thy sweet greeting, that if thou shouldst fade  
-Thy memory will waste me to a shade:--  270  
+Thy [[Memory|memory]] will waste me to a shade:--  270  
 For pity do not melt!”--”If I should stay,”  
-Said Lamia, “here, upon this floor of clay,  
-And pain my steps upon these flowers too rough,  
+Said [[Lamia]], “here, upon this floor of clay,  
+And [[Pain|pain]] my steps upon these [[Flowers|flowers]] too rough,  
 What canst thou say or do of charm enough  
-To dull the nice remembrance of my home?  
+To dull the nice remembrance of my [[Home|home]]?  
 Thou canst not ask me with thee here to roam  
 Over these hills and vales, where no joy is,--  
-Empty of immortality and bliss!  
-Thou art a scholar, Lycius, and must know  
+Empty of [[Immortality|immortality]] and bliss!  
+Thou art a scholar, [[Lycius]], and must know  
 That finer spirits cannot breathe below 280  
 In human climes, and live: Alas! poor youth,  
 What taste of purer air hast thou to soothe  
 My essence? What serener palaces,  
 Where I may all my many senses please,  
 And by mysterious sleights a hundred thirsts appease?  
-It cannot be--Adieu!” So said, she rose  
+It cannot be--Adieu!” So said, she [[Rose|rose]]  
 Tiptoe with white arms spread. He, sick to lose  
 The amorous promise of her lone complain,  
-Swoon’d, murmuring of love, and pale with pain.  
+Swoon’d, murmuring of [[Love|love]], and pale with [[Pain|pain]].  
 The cruel lady, without any show 290  
 Of sorrow for her tender favourite’s woe,  
 But rather, if her eyes could brighter be,  
@@ -318,35 +318,35 @@ Put her new lips to his, and gave afresh
 The life she had so tangled in her mesh:  
 And as he from one trance was wakening  
 Into another, she began to sing,  
-Happy in beauty, life, and love, and every thing,  
-A song of love, too sweet for earthly lyres,  
-While, like held breath, the stars drew in their panting  
+Happy in [[Beauty|beauty]], life, and [[Love|love]], and every thing,  
+A [[Song|song]] of [[Love|love]], too sweet for earthly lyres,  
+While, like held breath, the [[Stars|stars]] drew in their panting  
 fires.  300  
 And then she whisper’d in such trembling tone,  
-As those who, safe together met alone  
-For the first time through many anguish’d days,  
+As those who, safe together met [[Alone|alone]]  
+For the first [[Time|time]] through many anguish’d days,  
 Use other speech than looks; bidding him raise  
-His drooping head, and clear his soul of doubt,  
+His drooping head, and clear his [[Soul|soul]] of [[Doubt|doubt]],  
 For that she was a woman, and without  
 Any more subtle fluid in her veins  
-Than throbbing blood, and that the self-same pains  
+Than throbbing [[Blood|blood]], and that the [[Self|self]]-same pains  
 Inhabited her frail-strung heart as his.  
-And next she wonder’d how his eyes could miss  310  
+And next she [[Wonder|wonder]]’d how his eyes could miss  310  
 Her face so long in Corinth, where, she said,  
 She dwelt but half retir’d, and there had led  
 Days happy as the gold coin could invent  
-Without the aid of love; yet in content  
+Without the aid of [[Love|love]]; yet in content  
 Till she saw him, as once she pass’d him by,  
 Where ‘gainst a column he leant thoughtfully  
-At Venus’ temple porch, ‘mid baskets heap’d  
-Of amorous herbs and flowers, newly reap’d  
-Late on that eve, as ’twas the night before  
+At [[Venus]]’ temple porch, ‘mid baskets heap’d  
+Of amorous herbs and [[Flowers|flowers]], newly reap’d  
+Late on that eve, as ’twas the [[Night|night]] before  
 The Adonian feast; whereof she saw no more,  320  
-But wept alone those days, for why should she adore?  
-Lycius from death awoke into amaze,  
+But wept [[Alone|alone]] those days, for why should she adore?  
+[[Lycius]] from [[Death|death]] awoke into amaze,  
 To see her still, and singing so sweet lays;  
 Then from amaze into delight he fell  
-To hear her whisper woman’s lore so well;  
+To hear her whisper woman’s lore so [[Well|well]];  
 And every word she spake entic’d him on  
 To unperplex’d delight and pleasure known.  
 Let the mad poets say whate’er they please  
@@ -355,88 +355,88 @@ There is not such a treat among them all,  330
 Haunters of cavern, lake, and waterfall,  
 As a real woman, lineal indeed  
 From Pyrrha’s pebbles or old Adam’s seed.  
-Thus gentle Lamia judg’d, and judg’d aright,  
-That Lycius could not love in half a fright,  
+Thus gentle [[Lamia]] judg’d, and judg’d aright,  
+That [[Lycius]] could not [[Love|love]] in half a fright,  
 So threw the goddess off, and won his heart  
 More pleasantly by playing woman’s part,  
-With no more awe than what her beauty gave,  
+With no more awe than what her [[Beauty|beauty]] gave,  
 That, while it smote, still guaranteed to save.  
-Lycius to all made eloquent reply,  340  
+[[Lycius]] to all made eloquent reply,  340  
 Marrying to every word a twinborn sigh;  
 And last, pointing to Corinth, ask’d her sweet,  
-If ’twas too far that night for her soft feet.  
-The way was short, for Lamia’s eagerness  
+If ’twas too far that [[Night|night]] for her soft feet.  
+The way was short, for [[Lamia]]’s eagerness  
 Made, by a spell, the triple league decrease  
 To a few paces; not at all surmised  
-By blinded Lycius, so in her comprized.  
-They pass’d the city gates, he knew not how,  
+By blinded [[Lycius]], so in her comprized.  
+They pass’d the [[City|city]] gates, he knew not how,  
 So noiseless, and he never thought to know.  
 
-As men talk in a dream, so Corinth all,  350  
+As men talk in [[A Dream|a dream]], so Corinth all,  350  
 Throughout her palaces imperial,  
 And all her populous streets and temples lewd,  
 Mutter’d, like tempest in the distance brew’d,  
-To the wide-spreaded night above her towers.  
+To the wide-spreaded [[Night|night]] above her towers.  
 Men, women, rich and poor, in the cool hours,  
 Shuffled their sandals o’er the pavement white,  
-Companion’d or alone; while many a light  
+Companion’d or [[Alone|alone]]; while many a light  
 Flared, here and there, from wealthy festivals,  
 And threw their moving shadows on the walls,  
 Or found them cluster’d in the corniced shade  360  
 Of some arch’d temple door, or dusky colonnade.  
 
-Muffling his face, of greeting friends in fear,  
+Muffling his face, of greeting friends in [[Fear|fear]],  
 Her fingers he press’d hard, as one came near  
-With curl’d gray beard, sharp eyes, and smooth bald crown,  
+With curl’d gray beard, sharp eyes, and smooth bald [[Crown|crown]],  
 Slow-stepp’d, and robed in philosophic gown:  
-Lycius shrank closer, as they met and past,  
+[[Lycius]] shrank closer, as they met and past,  
 Into his mantle, adding wings to haste,  
-While hurried Lamia trembled: “Ah,” said he,  
-“Why do you shudder, love, so ruefully?  
+While hurried [[Lamia]] trembled: “Ah,” said he,  
+“Why do you shudder, [[Love|love]], so ruefully?  
 Why does your tender palm dissolve in dew?”--  370  
-“I’m wearied,” said fair Lamia: “tell me who  
+“I’m wearied,” said fair [[Lamia]]: “tell me who  
 Is that old man? I cannot bring to mind  
-His features:--Lycius! wherefore did you blind  
-Yourself from his quick eyes?” Lycius replied,  
-“’Tis Apollonius sage, my trusty guide  
-And good instructor; but to-night he seems  
-The ghost of folly haunting my sweet dreams.”  
+His features:--[[Lycius]]! wherefore did you blind  
+Yourself from his quick eyes?” [[Lycius]] replied,  
+“’Tis [[Apollonius]] sage, my trusty guide  
+And good instructor; but to-[[Night|night]] he seems  
+The [[Ghost|ghost]] of folly haunting my sweet [[Dreams|dreams]].”  
 
 While yet he spake they had arrived before  
 A pillar’d porch, with lofty portal door,  
 Where hung a silver lamp, whose phosphor glow  380  
 Reflected in the slabbed steps below,  
-Mild as a star in water; for so new,  
+Mild as a star in [[Water|water]]; for so new,  
 And so unsullied was the marble hue,  
 So through the crystal polish, liquid fine,  
 Ran the dark veins, that none but feet divine  
 Could e’er have touch’d there. Sounds Æolian  
 Breath’d from the hinges, as the ample span  
 Of the wide doors disclos’d a place unknown  
-Some time to any, but those two alone,  
+Some [[Time|time]] to any, but those two [[Alone|alone]],  
 And a few Persian mutes, who that same year  390  
 Were seen about the markets: none knew where  
 They could inhabit; the most curious  
-Were foil’d, who watch’d to trace them to their house:  
+Were foil’d, who watch’d to trace them to their [[house]]:  
 And but the flitter-winged verse must tell,  
-For truth’s sake, what woe afterwards befel,  
-’Twould humour many a heart to leave them thus,  
+For [[Truth|truth]]’s sake, what woe afterwards befel,  
+’Twould [[Humour|humour]] many a heart to leave them thus,  
 Shut from the busy world of more incredulous.  
 
-## LAMIA PART II
+## [[Lamia|LAMIA]] PART II
 
-Love in a hut, with water and a crust,  
-Is--Love, forgive us!--cinders, ashes, dust;  
-Love in a palace is perhaps at last  
+[[Love]] in a hut, with [[Water|water]] and a crust,  
+Is--[[Love]], forgive us!--cinders, ashes, [[Dust|dust]];  
+[[Love]] in a palace is perhaps at last  
 More grievous torment than a hermit’s fast:--  
 That is a doubtful tale from faery land,  
 Hard for the non-elect to understand.  
-Had Lycius liv’d to hand his story down,  
+Had [[Lycius]] liv’d to hand his story down,  
 He might have given the moral a fresh frown,  
 Or clench’d it quite: but too short was their bliss  
 To breed distrust and hate, that make the soft voice hiss.  10  
 Besides, there, nightly, with terrific glare  
-Love, jealous grown of so complete a pair,  
+[[Love]], jealous grown of so complete a pair,  
 Hover’d and buzz’d his wings, with fearful roar,  
 Above the lintel of their chamber door,  
 And down the passage cast a glow upon the floor.  
@@ -446,24 +446,24 @@ They were enthroned, in the even tide,
 Upon a couch, near to a curtaining  
 Whose airy texture, from a golden string,  
 Floated into the room, and let appear  20  
-Unveil’d the summer heaven, blue and clear,  
+Unveil’d the [[Summer|summer]] heaven, blue and clear,  
 Betwixt two marble shafts:--there they reposed,  
 Where use had made it sweet, with eyelids closed,  
-Saving a tythe which love still open kept,  
+Saving a tythe which [[Love|love]] still open kept,  
 That they might see each other while they almost slept;  
-When from the slope side of a suburb hill,  
-Deafening the swallow’s twitter, came a thrill  
-Of trumpets--Lycius started--the sounds fled,  
+When from the slope side of a suburb [[Hill|hill]],  
+Deafening the [[Swallow|swallow]]’s twitter, came a thrill  
+Of trumpets--[[Lycius]] started--the sounds fled,  
 But left a thought, a buzzing in his head.  
-For the first time, since first he harbour’d in 30  
+For the first [[Time|time]], since first he harbour’d in 30  
 That purple-lined palace of sweet sin,  
 His spirit pass’d beyond its golden bourn  
 Into the noisy world almost forsworn.  
 The lady, ever watchful, penetrant,  
-Saw this with pain, so arguing a want  
+Saw this with [[Pain|pain]], so arguing a want  
 Of something more, more than her empery  
 Of joys; and she began to moan and sigh  
-Because he mused beyond her, knowing well  
+Because he mused beyond her, knowing [[Well|well]]  
 That but a moment’s thought is passion’s passing bell.  
 “Why do you sigh, fair creature?” whisper’d he: 40  
 “Why do you think?” return’d she tenderly:  
@@ -472,14 +472,14 @@ Not in your heart while care weighs on your brow:
 No, no, you have dismiss’d me; and I go  
 From your breast houseless: ay, it must be so.”  
 He answer’d, bending to her open eyes,  
-Where he was mirror’d small in paradise,  
+Where he was [[Mirror|mirror]]’d small in paradise,  
 “My silver planet, both of eve and morn!  
 Why will you plead yourself so sad forlorn,  
 While I am striving how to fill my heart 50  
-With deeper crimson, and a double smart?  
+With deeper crimson, and a [[Double|double]] smart?  
 How to entangle, trammel up and snare  
-Your soul in mine, and labyrinth you there  
-Like the hid scent in an unbudded rose?  
+Your [[Soul|soul]] in mine, and labyrinth you there  
+Like the hid scent in an unbudded [[Rose|rose]]?  
 Ay, a sweet kiss--you see your mighty woes.  
 My thoughts! shall I unveil them? Listen then!  
 What mortal hath a prize, that other men  
@@ -492,32 +492,32 @@ While through the thronged streets your bridal car
 Wheels round its dazzling spokes.”--The lady’s cheek  
 Trembled; she nothing said, but, pale and meek,  
 Arose and knelt before him, wept a rain  
-Of sorrows at his words; at last with pain  
+Of sorrows at his words; at last with [[Pain|pain]]  
 Beseeching him, the while his hand she wrung,  
 To change his purpose. He thereat was stung,  
 Perverse, with stronger fancy to reclaim 70  
-Her wild and timid nature to his aim:  
-Besides, for all his love, in self despite,  
-Against his better self, he took delight  
+Her wild and timid [[Nature|nature]] to his aim:  
+Besides, for all his [[Love|love]], in [[Self|self]] despite,  
+Against his better [[Self|self]], he took delight  
 Luxurious in her sorrows, soft and new.  
 His passion, cruel grown, took on a hue  
 Fierce and sanguineous as ’twas possible  
 In one whose brow had no dark veins to swell.  
 Fine was the mitigated fury, like  
-Apollo’s presence when in act to strike  
+[[Apollo]]’s presence when in act to strike  
 The serpent--Ha, the serpent! certes, she  80  
 Was none. She burnt, she lov’d the tyranny,  
 And, all subdued, consented to the hour  
 When to the bridal he should lead his paramour.  
-Whispering in midnight silence, said the youth,  
-“Sure some sweet name thou hast, though, by my truth,  
+Whispering in midnight [[Silence|silence]], said the youth,  
+“Sure some sweet name thou hast, though, by my [[Truth|truth]],  
 I have not ask’d it, ever thinking thee  
 Not mortal, but of heavenly progeny,  
 As still I do. Hast any mortal name,  
 Fit appellation for this dazzling frame?  
 Or friends or kinsfolk on the citied earth,  90  
-To share our marriage feast and nuptial mirth?”  
-“I have no friends,” said Lamia, “no, not one;  
+To share our [[Marriage|marriage]] feast and nuptial mirth?”  
+“I have no friends,” said [[Lamia]], “no, not one;  
 My presence in wide Corinth hardly known:  
 My parents’ bones are in their dusty urns  
 Sepulchred, where no kindled incense burns,  
@@ -526,19 +526,19 @@ And I neglect the holy rite for thee.
 Even as you list invite your many guests;  
 But if, as now it seems, your vision rests  
 With any pleasure on me, do not bid  100  
-Old Apollonius--from him keep me hid.”  
-Lycius, perplex’d at words so blind and blank,  
+Old [[Apollonius]]--from him keep me hid.”  
+[[Lycius]], perplex’d at words so blind and blank,  
 Made close inquiry; from whose touch she shrank,  
-Feigning a sleep; and he to the dull shade  
-Of deep sleep in a moment was betray’d.  
+Feigning a [[Sleep|sleep]]; and he to the dull shade  
+Of deep [[Sleep|sleep]] in a moment was betray’d.  
 
 It was the custom then to bring away  
-The bride from home at blushing shut of day,  
+The bride from [[Home|home]] at blushing shut of day,  
 Veil’d, in a chariot, heralded along  
-By strewn flowers, torches, and a marriage song,  
+By strewn [[Flowers|flowers]], torches, and a [[Marriage|marriage]] [[Song|song]],  
 With other pageants: but this fair unknown  110  
-Had not a friend. So being left alone,  
-(Lycius was gone to summon all his kin)  
+Had not a friend. So being left [[Alone|alone]],  
+([[Lycius]] was gone to summon all his kin)  
 And knowing surely she could never win  
 His foolish heart from its mad pompousness,  
 She set herself, high-thoughted, how to dress  
@@ -553,13 +553,13 @@ Supportress of the faery-roof, made moan
 Throughout, as fearful the whole charm might fade.  
 Fresh carved cedar, mimicking a glade  
 Of palm and plantain, met from either side,  
-High in the midst, in honour of the bride:  
+High in the midst, in [[Honour|honour]] of the bride:  
 Two palms and then two plantains, and so on,  
 From either side their stems branch’d one to one  
 All down the aisled place; and beneath all  130  
 There ran a stream of lamps straight on from wall to wall.  
 So canopied, lay an untasted feast  
-Teeming with odours. Lamia, regal drest,  
+Teeming with odours. [[Lamia]], regal drest,  
 Silently paced about, and as she went,  
 In pale contented sort of discontent,  
 Mission’d her viewless servants to enrich  
@@ -568,36 +568,36 @@ Between the tree-stems, marbled plain at first,
 Came jasper pannels; then, anon, there burst  
 Forth creeping imagery of slighter trees,  140  
 And with the larger wove in small intricacies.  
-Approving all, she faded at self-will,  
+Approving all, she faded at [[Self|self]]-will,  
 And shut the chamber up, close, hush’d and still,  
 Complete and ready for the revels rude,  
-When dreadful guests would come to spoil her solitude.  
+When dreadful guests would come to spoil her [[Solitude|solitude]].  
 
 The day appear’d, and all the gossip rout.  
-O senseless Lycius! Madman! wherefore flout  
+O senseless [[Lycius]]! Madman! wherefore flout  
 The silent-blessing fate, warm cloister’d hours,  
 And show to common eyes these secret bowers?  
 The herd approach’d; each guest, with busy brain,  150  
 Arriving at the portal, gaz’d amain,  
 And enter’d marveling: for they knew the street,  
-Remember’d it from childhood all complete  
+Remember’d it from [[Childhood|childhood]] all complete  
 Without a gap, yet ne’er before had seen  
 That royal porch, that high-built fair demesne;  
 So in they hurried all, maz’d, curious and keen:  
 Save one, who look’d thereon with eye severe,  
 And with calm-planted steps walk’d in austere;  
-’Twas Apollonius: something too he laugh’d,  
+’Twas [[Apollonius]]: something too he laugh’d,  
 As though some knotty problem, that had daft  160  
 His patient thought, had now begun to thaw,  
 And solve and melt:--’twas just as he foresaw.  
 
 He met within the murmurous vestibule  
 His young disciple. “’Tis no common rule,  
-Lycius,” said he, “for uninvited guest  
+[[Lycius]],” said he, “for uninvited guest  
 To force himself upon you, and infest  
 With an unbidden presence the bright throng  
 Of younger friends; yet must I do this wrong,  
-And you forgive me.” Lycius blush’d, and led  
+And you forgive me.” [[Lycius]] blush’d, and led  
 The old man through the inner doors broad-spread;  170  
 With reconciling words and courteous mien  
 Turning into sweet milk the sophist’s spleen.  
@@ -610,8 +610,8 @@ Each by a sacred tripod held aloft,
 Whose slender feet wide-swerv’d upon the soft  
 Wool-woofed carpets: fifty wreaths of smoke  
 From fifty censers their light voyage took  180  
-To the high roof, still mimick’d as they rose  
-Along the mirror’d walls by twin-clouds odorous.  
+To the high roof, still mimick’d as they [[Rose|rose]]  
+Along the [[Mirror|mirror]]’d walls by twin-clouds odorous.  
 Twelve sphered tables, by silk seats insphered,  
 High as the level of a man’s breast rear’d  
 On libbard’s paws, upheld the heavy gold  
@@ -628,7 +628,7 @@ And fragrant oils with ceremony meet
 Pour’d on his hair, they all mov’d to the feast  
 In white robes, and themselves in order placed  
 Around the silken couches, wondering  
-Whence all this mighty cost and blaze of wealth could spring.  
+Whence all this mighty cost and blaze of wealth could [[spring]].  
 
 Soft went the music the soft air along,  
 While fluent Greek a vowel’d undersong  200  
@@ -639,13 +639,13 @@ Louder they talk, and louder come the strains
 Of powerful instruments:--the gorgeous dyes,  
 The space, the splendour of the draperies,  
 The roof of awful richness, nectarous cheer,  
-Beautiful slaves, and Lamia’s self, appear,  
+Beautiful slaves, and [[Lamia]]’s [[Self|self]], appear,  
 Now, when the wine has done its rosy deed,  
-And every soul from human trammels freed,  210  
+And every [[Soul|soul]] from human trammels freed,  210  
 No more so strange; for merry wine, sweet wine,  
 Will make Elysian shades not too fair, too divine.  
 Soon was God Bacchus at meridian height;  
-Flush’d were their cheeks, and bright eyes double bright:  
+Flush’d were their cheeks, and bright eyes [[Double|double]] bright:  
 Garlands of every green, and every scent  
 From vales deflower’d, or forest-trees branch-rent,  
 In baskets of bright osier’d gold were brought  
@@ -653,63 +653,63 @@ High as the handles heap’d, to suit the thought
 Of every guest; that each, as he did please,  
 Might fancy-fit his brows, silk-pillow’d at his ease. 220  
 
-What wreath for Lamia? What for Lycius?  
-What for the sage, old Apollonius?  
+What wreath for [[Lamia]]? What for [[Lycius]]?  
+What for the sage, old [[Apollonius]]?  
 Upon her aching forehead be there hung  
-The leaves of willow and of adder’s tongue;  
+The [[Leaves|leaves]] of willow and of adder’s tongue;  
 And for the youth, quick, let us strip for him  
 The thyrsus, that his watching eyes may swim  
 Into forgetfulness; and, for the sage,  
 Let spear-grass and the spiteful thistle wage  
 War on his temples. Do not all charms fly  
-At the mere touch of cold philosophy?  230  
+At the mere touch of cold [[philosophy]]?  230  
 There was an awful rainbow once in heaven:  
 We know her woof, her texture; she is given  
 In the dull catalogue of common things.  
-Philosophy will clip an Angel’s wings,  
+[[philosophy|Philosophy]] will clip an Angel’s wings,  
 Conquer all mysteries by rule and line,  
 Empty the haunted air, and gnomed mine--  
 Unweave a rainbow, as it erewhile made  
-The tender-person’d Lamia melt into a shade.  
+The tender-person’d [[Lamia]] melt into a shade.  
 
-By her glad Lycius sitting, in chief place,  
+By her glad [[Lycius]] sitting, in chief place,  
 Scarce saw in all the room another face,  240  
-Till, checking his love trance, a cup he took  
+Till, checking his [[Love|love]] trance, a cup he took  
 Full brimm’d, and opposite sent forth a look  
-‘Cross the broad table, to beseech a glance  
+‘[[Cross]] the broad table, to beseech a glance  
 From his old teacher’s wrinkled countenance,  
 And pledge him. The bald-head philosopher  
 Had fix’d his eye, without a twinkle or stir  
-Full on the alarmed beauty of the bride,  
-Brow-beating her fair form, and troubling her sweet pride.  
-Lycius then press’d her hand, with devout touch,  
+Full on the alarmed [[Beauty|beauty]] of the bride,  
+Brow-beating her fair form, and troubling her sweet [[Pride|pride]].  
+[[Lycius]] then press’d her hand, with devout touch,  
 As pale it lay upon the rosy couch:  250  
 ’Twas icy, and the cold ran through his veins;  
 Then sudden it grew hot, and all the pains  
 Of an unnatural heat shot to his heart.  
-“Lamia, what means this? Wherefore dost thou start?  
-Know’st thou that man?” Poor Lamia answer’d not.  
+“[[Lamia]], what means this? Wherefore dost thou start?  
+Know’st thou that man?” Poor [[Lamia]] answer’d not.  
 He gaz’d into her eyes, and not a jot  
 Own’d they the lovelorn piteous appeal:  
 More, more he gaz’d: his human senses reel:  
 Some hungry spell that loveliness absorbs;  
 There was no recognition in those orbs. 260  
-“Lamia!” he cried--and no soft-toned reply.  
+“[[Lamia]]!” he cried--and no soft-toned reply.  
 The many heard, and the loud revelry  
 Grew hush; the stately music no more breathes;  
 The myrtle sicken’d in a thousand wreaths.  
 By faint degrees, voice, lute, and pleasure ceased;  
-A deadly silence step by step increased,  
+A deadly [[Silence|silence]] step by step increased,  
 Until it seem’d a horrid presence there,  
 And not a man but felt the terror in his hair.  
-“Lamia!” he shriek’d; and nothing but the shriek  
-With its sad echo did the silence break.  270  
+“[[Lamia]]!” he shriek’d; and nothing but the shriek  
+With its sad echo did the [[Silence|silence]] break.  270  
 “Begone, foul dream!” he cried, gazing again  
 In the bride’s face, where now no azure vein  
 Wander’d on fair-spaced temples; no soft bloom  
 Misted the cheek; no passion to illume  
 The deep-recessed vision:--all was blight;  
-Lamia, no longer fair, there sat a deadly white.  
+[[Lamia]], no longer fair, there sat a deadly white.  
 “Shut, shut those juggling eyes, thou ruthless man!  
 Turn them aside, wretch! or the righteous ban  
 Of all the Gods, whose dreadful images  
@@ -717,31 +717,31 @@ Here represent their shadowy presences, 280
 May pierce them on the sudden with the thorn  
 Of painful blindness; leaving thee forlorn,  
 In trembling dotage to the feeblest fright  
-Of conscience, for their long offended might,  
+Of [[Conscience|conscience]], for their long offended might,  
 For all thine impious proud-heart sophistries,  
-Unlawful magic, and enticing lies.  
+Unlawful [[Magic|magic]], and enticing lies.  
 Corinthians! look upon that gray-beard wretch!  
 Mark how, possess’d, his lashless eyelids stretch  
 Around his demon eyes! Corinthians, see!  
 My sweet bride withers at their potency.”  290  
-“Fool!” said the sophist, in an under-tone  
-Gruff with contempt; which a death-nighing moan  
-From Lycius answer’d, as heart-struck and lost,  
-He sank supine beside the aching ghost.  
-“Fool! Fool!” repeated he, while his eyes still  
+“[[Fool]]!” said the sophist, in an under-tone  
+Gruff with contempt; which a [[Death|death]]-nighing moan  
+From [[Lycius]] answer’d, as heart-struck and lost,  
+He sank supine beside the aching [[Ghost|ghost]].  
+“[[Fool]]! [[Fool]]!” repeated he, while his eyes still  
 Relented not, nor mov’d; “from every ill  
 Of life have I preserv’d thee to this day,  
 And shall I see thee made a serpent’s prey?”  
-Then Lamia breath’d death breath; the sophist’s eye,  
+Then [[Lamia]] breath’d [[Death|death]] breath; the sophist’s eye,  
 Like a sharp spear, went through her utterly,  300  
-Keen, cruel, perceant, stinging: she, as well  
+Keen, cruel, perceant, stinging: she, as [[Well|well]]  
 As her weak hand could any meaning tell,  
 Motion’d him to be silent; vainly so,  
 He look’d and look’d again a level--No!  
 “A Serpent!” echoed he; no sooner said,  
 Than with a frightful scream she vanished:  
-And Lycius’ arms were empty of delight,  
-As were his limbs of life, from that same night.  
+And [[Lycius]]’ arms were empty of delight,  
+As were his limbs of life, from that same [[Night|night]].  
 On the high couch he lay!--his friends came round--  
 Supported him--no pulse, or breath they found, 310  
-And, in its marriage robe, the heavy body wound.  
+And, in its [[Marriage|marriage]] robe, the heavy [[Body|body]] wound.  

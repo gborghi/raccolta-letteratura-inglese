@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 21"
+title: "Bleak [[house|House]] — Chapter 21"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -22,27 +22,27 @@ The Smallweed Family
 In a rather ill-favoured and ill-savoured neighbourhood, though one
 of its rising grounds bears the name of Mount Pleasant, the Elfin
 Smallweed, christened Bartholomew and known on the domestic hearth as
-Bart, passes that limited portion of his time on which the office and
+Bart, passes that limited portion of his [[Time|time]] on which the office and
 its contingencies have no claim. He dwells in a little narrow street,
 always solitary, shady, and sad, closely bricked in on all sides like
 a tomb, but where there yet lingers the stump of an old forest tree
 whose flavour is about as fresh and natural as the Smallweed smack of
 youth.
 
-There has been only one child in the Smallweed family for several
-generations. Little old men and women there have been, but no child,
+There has been only one [[Child|child]] in the Smallweed family for several
+generations. Little old men and women there have been, but no [[Child|child]],
 until Mr. Smallweed’s grandmother, now living, became weak in her
-intellect and fell (for the first time) into a childish state. With
-such infantine graces as a total want of observation, memory,
+intellect and fell (for the first [[Time|time]]) into a childish state. With
+such infantine graces as a total want of observation, [[Memory|memory]],
 understanding, and interest, and an eternal disposition to fall
-asleep over the fire and into it, Mr. Smallweed’s grandmother has
+asleep over the [[Fire|fire]] and into it, Mr. Smallweed’s grandmother has
 undoubtedly brightened the family.
 
 Mr. Smallweed’s grandfather is likewise of the party. He is in a
 helpless condition as to his lower, and nearly so as to his upper,
-limbs, but his mind is unimpaired. It holds, as well as it ever held,
+limbs, but his mind is unimpaired. It holds, as [[Well|well]] as it ever held,
 the first four rules of arithmetic and a certain small collection of
-the hardest facts. In respect of ideality, reverence, wonder, and
+the hardest facts. In respect of ideality, reverence, [[Wonder|wonder]], and
 other such phrenological attributes, it is no worse off than it used
 to be. Everything that Mr. Smallweed’s grandfather ever put away in
 his mind was a grub at first, and is a grub at last. In all his life
@@ -57,10 +57,10 @@ Meeting with a heavy loss in an honest little enterprise in which all
 the loss was intended to have been on the other side, he broke
 something—something necessary to his existence, therefore it
 couldn’t have been his heart—and made an end of his career. As his
-character was not good, and he had been bred at a charity school in a
+character was not good, and he had been bred at a [[Charity|charity]] school in a
 complete course, according to question and answer, of those ancient
 people the Amorites and Hittites, he was frequently quoted as an
-example of the failure of education.
+example of the failure of [[Education|education]].
 
 His spirit shone through his son, to whom he had always preached of
 “going out” early in life and whom he made a clerk in a sharp
@@ -71,23 +71,23 @@ discounting profession. Going out early in life and marrying late, as
 his father had done before him, he too begat a lean and
 anxious-minded son, who in his turn, going out early in life and
 marrying late, became the father of Bartholomew and Judith Smallweed,
-twins. During the whole time consumed in the slow growth of this
-family tree, the house of Smallweed, always early to go out and late
+twins. During the whole [[Time|time]] consumed in the slow growth of this
+family tree, the [[house]] of Smallweed, always early to go out and late
 to marry, has strengthened itself in its practical character, has
 discarded all amusements, discountenanced all story-books,
 fairy-tales, fictions, and fables, and banished all levities
-whatsoever. Hence the gratifying fact that it has had no child born
+whatsoever. Hence the gratifying fact that it has had no [[Child|child]] born
 to it and that the complete little men and women whom it has produced
 have been observed to bear a likeness to old monkeys with something
 depressing on their minds.
 
-At the present time, in the dark little parlour certain feet below
+At the present [[Time|time]], in the dark little parlour certain feet below
 the level of the street—a grim, hard, uncouth parlour, only
 ornamented with the coarsest of baize table-covers, and the hardest
 of sheet-iron tea-trays, and offering in its decorative character no
 bad allegorical representation of Grandfather Smallweed’s
 mind—seated in two black horsehair porter’s chairs, one on each side
-of the fire-place, the superannuated Mr. and Mrs. Smallweed while
+of the [[Fire|fire]]-place, the superannuated Mr. and Mrs. Smallweed while
 away the rosy hours. On the stove are a couple of trivets for the
 pots and kettles which it is Grandfather Smallweed’s usual occupation
 to watch, and projecting from the chimney-piece between them is a
@@ -105,7 +105,7 @@ twin sister.
 
 “He an’t come in yet,” says Judy.
 
-“It’s his tea-time, isn’t it?”
+“It’s his tea-[[Time|time]], isn’t it?”
 
 “No.”
 
@@ -141,7 +141,7 @@ a great bottle and poked and punched like a great bolster. Some
 indication of a neck being developed in him by these means, he and
 the sharer of his life’s evening again sit fronting one another in
 their two porter’s chairs, like a couple of sentinels long forgotten
-on their post by the Black Serjeant, Death.
+on their post by the Black Serjeant, [[Death]].
 
 Judy the twin is worthy company for these associates. She is so
 indubitably sister to Mr. Smallweed the younger that the two kneaded
@@ -166,9 +166,9 @@ modelling that action of her face, as she has unconsciously modelled
 all its other expressions, on her pattern of sordid age. Such is
 Judy.
 
-And her twin brother couldn’t wind up a top for his life. He knows no
+And her twin brother couldn’t [[Wind|wind]] up a top for his life. He knows no
 more of Jack the Giant Killer or of Sinbad the Sailor than he knows
-of the people in the stars. He could as soon play at leap-frog or at
+of the people in the [[Stars|stars]]. He could as soon play at leap-frog or at
 cricket as change into a cricket or a frog himself. But he is so much
 the better off than his sister that on his narrow world of fact an
 opening has dawned into such broader regions as lie within the ken of
@@ -187,14 +187,14 @@ it is served out and asks Judy where the girl is.
 
 “Charley, do you mean?”
 
-This touches a spring in Grandmother Smallweed, who, chuckling as
-usual at the trivets, cries, “Over the water! Charley over the water,
-Charley over the water, over the water to Charley, Charley over the
-water, over the water to Charley!” and becomes quite energetic about
+This touches a [[spring]] in Grandmother Smallweed, who, chuckling as
+usual at the trivets, cries, “Over the [[Water|water]]! Charley over the [[Water|water]],
+Charley over the [[Water|water]], over the [[Water|water]] to Charley, Charley over the
+[[Water|water]], over the [[Water|water]] to Charley!” and becomes quite energetic about
 it. Grandfather looks at the cushion but has not sufficiently
 recovered his late exertion.
 
-“Ha!” he says when there is silence. “If that’s her name. She eats a
+“Ha!” he says when there is [[Silence|silence]]. “If that’s her name. She eats a
 deal. It would be better to allow her for her keep.”
 
 Judy, with her brother’s wink, shakes her head and purses up her
@@ -210,7 +210,7 @@ Judy answers with a nod of deepest meaning and calls, as she scrapes
 the butter on the loaf with every precaution against waste and cuts
 it into slices, “You, Charley, where are you?” Timidly obedient to
 the summons, a little girl in a rough apron and a large bonnet, with
-her hands covered with soap and water and a scrubbing brush in one of
+her hands covered with soap and [[Water|water]] and a scrubbing brush in one of
 them, appears, and curtsys.
 
 “What work are you about now?” says Judy, making an ancient snap at
@@ -223,8 +223,8 @@ me. Make haste! Go along!” cries Judy with a stamp upon the ground.
 “You girls are more trouble than you’re worth, by half.”
 
 On this severe matron, as she returns to her task of scraping the
-butter and cutting the bread, falls the shadow of her brother,
-looking in at the window. For whom, knife and loaf in hand, she opens
+butter and cutting the bread, falls the [[Shadow|shadow]] of her brother,
+looking in at the [[Window|window]]. For whom, knife and loaf in hand, she opens
 the street-door.
 
 “Aye, aye, Bart!” says Grandfather Smallweed. “Here you are, hey?”
@@ -281,28 +281,28 @@ restored to its usual place beside him, and the old lady, perhaps
 with her cap adjusted and perhaps not, is planted in her chair again,
 ready to be bowled down like a ninepin.
 
-Some time elapses in the present instance before the old gentleman is
+Some [[Time|time]] elapses in the present instance before the old gentleman is
 sufficiently cool to resume his discourse, and even then he mixes it
 up with several edifying expletives addressed to the unconscious
 partner of his bosom, who holds communication with nothing on earth
 but the trivets. As thus: “If your father, Bart, had lived longer, he
 might have been worth a deal of money—you brimstone chatterer!—but
-just as he was beginning to build up the house that he had been
+just as he was beginning to build up the [[house]] that he had been
 making the foundations for, through many a year—you jade of a
 magpie, jackdaw, and poll-parrot, what do you mean!—he took ill and
 died of a low fever, always being a sparing and a spare man, full of
 business care—I should like to throw a cat at you instead of a
-cushion, and I will too if you make such a confounded fool of
+cushion, and I will too if you make such a confounded [[Fool|fool]] of
 yourself!—and your mother, who was a prudent woman as dry as a chip,
 just dwindled away like touchwood after you and Judy were born—you
 are an old pig. You are a brimstone pig. You’re a head of swine!”
 
 Judy, not interested in what she has often heard, begins to collect
 in a basin various tributary streams of tea, from the bottoms of cups
-and saucers and from the bottom of the tea-pot for the little
+and saucers and from the [[Bottom|bottom]] of the tea-pot for the little
 charwoman’s evening meal. In like manner she gets together, in the
 iron bread-basket, as many outside fragments and worn-down heels of
-loaves as the rigid economy of the house has left in existence.
+loaves as the rigid economy of the [[house]] has left in existence.
 
 “But your father and me were partners, Bart,” says the old gentleman,
 “and when I am gone, you and Judy will have all there is. It’s rare
@@ -312,18 +312,18 @@ your living without it, and put more to it. When I am gone, Judy will
 go back to the flower business and you’ll still stick to the law.”
 
 One might infer from Judy’s appearance that her business rather lay
-with the thorns than the flowers, but she has in her time been
+with the thorns than the [[Flowers|flowers]], but she has in her [[Time|time]] been
 apprenticed to the art and mystery of artificial flower-making. A
 close observer might perhaps detect both in her eye and her
 brother’s, when their venerable grandsire anticipates his being gone,
 some little impatience to know when he may be going, and some
-resentful opinion that it is time he went.
+resentful opinion that it is [[Time|time]] he went.
 
 “Now, if everybody has done,” says Judy, completing her preparations,
 “I’ll have that girl in to her tea. She would never leave off if she
 took it by herself in the kitchen.”
 
-Charley is accordingly introduced, and under a heavy fire of eyes,
+Charley is accordingly introduced, and under a heavy [[Fire|fire]] of eyes,
 sits down to her basin and a Druidical ruin of bread and butter. In
 the active superintendence of this young person, Judy Smallweed
 appears to attain a perfectly geological age and to date from the
@@ -361,17 +361,17 @@ the eating and drinking terminated.
 It is one Mr. George, it appears. Without other announcement or
 ceremony, Mr. George walks in.
 
-“Whew!” says Mr. George. “You are hot here. Always a fire, eh? Well!
+“Whew!” says Mr. George. “You are hot here. Always a [[Fire|fire]], eh? [[Well]]!
 Perhaps you do right to get used to one.” Mr. George makes the latter
 remark to himself as he nods to Grandfather Smallweed.
 
 “Ho! It’s you!” cries the old gentleman. “How de do? How de do?”
 
 “Middling,” replies Mr. George, taking a chair. “Your granddaughter I
-have had the honour of seeing before; my service to you, miss.”
+have had the [[Honour|honour]] of seeing before; my service to you, miss.”
 
 “This is my grandson,” says Grandfather Smallweed. “You ha’n’t seen
-him before. He is in the law and not much at home.”
+him before. He is in the law and not much at [[Home|home]].”
 
 “My service to him, too! He is like his sister. He is very like his
 sister. He is devilish like his sister,” says Mr. George, laying a
@@ -382,18 +382,18 @@ inquires, slowly rubbing his legs.
 
 “Pretty much as usual. Like a football.”
 
-He is a swarthy brown man of fifty, well made, and good looking, with
+He is a swarthy brown man of fifty, [[Well|well]] made, and good looking, with
 crisp dark hair, bright eyes, and a broad chest. His sinewy and
 powerful hands, as sunburnt as his face, have evidently been used to
 a pretty rough life. What is curious about him is that he sits
 forward on his chair as if he were, from long habit, allowing space
 for some dress or accoutrements that he has altogether laid aside.
-His step too is measured and heavy and would go well with a weighty
+His step too is measured and heavy and would go [[Well|well]] with a weighty
 clash and jingle of spurs. He is close-shaved now, but his mouth is
 set as if his upper lip had been for years familiar with a great
 moustache; and his manner of occasionally laying the open palm of his
 broad brown hand upon it is to the same effect. Altogether one might
-guess Mr. George to have been a trooper once upon a time.
+guess Mr. George to have been a trooper once upon a [[Time|time]].
 
 A special contrast Mr. George makes to the Smallweed family. Trooper
 was never yet billeted upon a household more unlike him. It is a
@@ -404,7 +404,7 @@ are in the strongest and the strangest opposition. As he sits in the
 middle of the grim parlour, leaning a little forward, with his hands
 upon his thighs and his elbows squared, he looks as though, if he
 remained there long, he would absorb into himself the whole family
-and the whole four-roomed house, extra little back-kitchen and all.
+and the whole four-roomed [[house]], extra little back-kitchen and all.
 
 “Do you rub your legs to rub life into ’em?” he asks of Grandfather
 Smallweed after looking round the room.
@@ -421,7 +421,7 @@ carry my years. I’m older than HER,” nodding at his wife, “and see
 what she is? You’re a brimstone chatterer!” with a sudden revival of
 his late hostility.
 
-“Unlucky old soul!” says Mr. George, turning his head in that
+“Unlucky old [[Soul|soul]]!” says Mr. George, turning his head in that
 direction. “Don’t scold the old lady. Look at her here, with her poor
 cap half off her head and her poor hair all in a muddle. Hold up,
 ma’am. That’s better. There we are! Think of your mother, Mr.
@@ -456,18 +456,18 @@ document he has just received, and from the other takes another
 similar document which he hands to Mr. George, who twists it up for a
 pipelight. As the old man inspects, through his glasses, every
 up-stroke and down-stroke of both documents before he releases them
-from their leathern prison, and as he counts the money three times
+from their leathern [[Prison|prison]], and as he counts the money three times
 over and requires Judy to say every word she utters at least twice,
 and is as tremulously slow of speech and action as it is possible to
-be, this business is a long time in progress. When it is quite
+be, this business is a long [[Time|time]] in progress. When it is quite
 concluded, and not before, he disengages his ravenous eyes and
 fingers from it and answers Mr. George’s last remark by saying,
 “Afraid to order the pipe? We are not so mercenary as that, sir.
-Judy, see directly to the pipe and the glass of cold brandy-and-water
+Judy, see directly to the pipe and the glass of cold brandy-and-[[Water|water]]
 for Mr. George.”
 
 The sportive twins, who have been looking straight before them all
-this time except when they have been engrossed by the black leathern
+this [[Time|time]] except when they have been engrossed by the black leathern
 cases, retire together, generally disdainful of the visitor, but
 leaving him to the old man as two young cubs might leave a traveller
 to the parental bear.
@@ -479,7 +479,7 @@ with folded arms.
 
 “And don’t you occupy yourself at all?”
 
-“I watch the fire—and the boiling and the roasting—”
+“I watch the [[Fire|fire]]—and the boiling and the roasting—”
 
 “When there is any,” says Mr. George with great expression.
 
@@ -501,7 +501,7 @@ from him to the old woman and back again. “I say!” in a louder voice.
 
 “My dear friend!” cries Grandfather Smallweed, stretching out both
 hands to embrace him. “Never! Never, my dear friend! But my friend in
-the city that I got to lend you the money—HE might!”
+the [[City|city]] that I got to lend you the money—HE might!”
 
 “Oh! You can’t answer for him?” says Mr. George, finishing the
 inquiry in his lower key with the words “You lying old rascal!”
@@ -509,19 +509,19 @@ inquiry in his lower key with the words “You lying old rascal!”
 “My dear friend, he is not to be depended on. I wouldn’t trust him.
 He will have his bond, my dear friend.”
 
-“Devil doubt him,” says Mr. George. Charley appearing with a
+“Devil [[Doubt|doubt]] him,” says Mr. George. Charley appearing with a
 tray, on which are the pipe, a small paper of tobacco, and the
-brandy-and-water, he asks her, “How do you come here! You haven’t got
+brandy-and-[[Water|water]], he asks her, “How do you come here! You haven’t got
 the family face.”
 
 “I goes out to work, sir,” returns Charley.
 
 The trooper (if trooper he be or have been) takes her bonnet off,
 with a light touch for so strong a hand, and pats her on the head.
-“You give the house almost a wholesome look. It wants a bit of youth
+“You give the [[house]] almost a wholesome look. It wants a bit of youth
 as much as it wants fresh air.” Then he dismisses her, lights his
-pipe, and drinks to Mr. Smallweed’s friend in the city—the one
-solitary flight of that esteemed old gentleman’s imagination.
+pipe, and drinks to Mr. Smallweed’s friend in the [[City|city]]—the one
+solitary flight of that esteemed old gentleman’s [[Imagination|imagination]].
 
 “So you think he might be hard upon me, eh?”
 
@@ -529,7 +529,7 @@ solitary flight of that esteemed old gentleman’s imagination.
 says Grandfather Smallweed incautiously, “twenty times.”
 
 Incautiously, because his stricken better-half, who has been dozing
-over the fire for some time, is instantly aroused and jabbers “Twenty
+over the [[Fire|fire]] for some [[Time|time]], is instantly aroused and jabbers “Twenty
 thousand pounds, twenty twenty-pound notes in a money-box, twenty
 guineas, twenty million twenty per cent, twenty—” and is then cut
 short by the flying cushion, which the visitor, to whom this singular
@@ -538,7 +538,7 @@ crushes her in the usual manner.
 
 “You’re a brimstone idiot. You’re a scorpion—a brimstone scorpion!
 You’re a sweltering toad. You’re a chattering clattering broomstick
-witch that ought to be burnt!” gasps the old man, prostrate in his
+[[Witch|witch]] that ought to be burnt!” gasps the old man, prostrate in his
 chair. “My dear friend, will you shake me up a little?”
 
 Mr. George, who has been looking first at one of them and then at the
@@ -546,7 +546,7 @@ other, as if he were demented, takes his venerable acquaintance by
 the throat on receiving this request, and dragging him upright in his
 chair as easily as if he were a doll, appears in two minds whether or
 no to shake all future power of cushioning out of him and shake him
-into his grave. Resisting the temptation, but agitating him violently
+into his [[Grave|grave]]. Resisting the [[Temptation|temptation]], but agitating him violently
 enough to make his head roll like a harlequin’s, he puts him smartly
 down in his chair again and adjusts his skull-cap with such a rub
 that the old man winks with both eyes for a minute afterwards.
@@ -558,7 +558,7 @@ friend, who still stands over him looming larger than ever.
 
 The alarming presence, however, gradually subsides into its chair and
 falls to smoking in long puffs, consoling itself with the
-philosophical reflection, “The name of your friend in the city begins
+philosophical reflection, “The name of your friend in the [[City|city]] begins
 with a D, comrade, and you’re about right respecting the bond.”
 
 “Did you speak, Mr. George?” inquires the old man.
@@ -567,7 +567,7 @@ The trooper shakes his head, and leaning forward with his right elbow
 on his right knee and his pipe supported in that hand, while his
 other hand, resting on his left leg, squares his left elbow in a
 martial manner, continues to smoke. Meanwhile he looks at Mr.
-Smallweed with grave attention and now and then fans the cloud of
+Smallweed with [[Grave|grave]] attention and now and then fans the cloud of
 smoke away in order that he may see him the more clearly.
 
 “I take it,” he says, making just as much and as little change in his
@@ -575,7 +575,7 @@ position as will enable him to reach the glass to his lips with a
 round, full action, “that I am the only man alive (or dead either)
 that gets the value of a pipe out of YOU?”
 
-“Well,” returns the old man, “it’s true that I don’t see company, Mr.
+“[[Well]],” returns the old man, “it’s true that I don’t see company, Mr.
 George, and that I don’t treat. I can’t afford to it. But as you, in
 your pleasant way, made your pipe a condition—”
 
@@ -587,8 +587,8 @@ rubbing his legs.
 
 “Very. I always was.” Puff. “It’s a sure sign of my prudence that I
 ever found the way here.” Puff. “Also, that I am what I am.” Puff. “I
-am well known to be prudent,” says Mr. George, composedly smoking. “I
-rose in life that way.”
+am [[Well|well]] known to be prudent,” says Mr. George, composedly smoking. “I
+[[Rose|rose]] in life that way.”
 
 “Don’t be down-hearted, sir. You may rise yet.”
 
@@ -597,14 +597,14 @@ Mr. George laughs and drinks.
 “Ha’n’t you no relations, now,” asks Grandfather Smallweed with a
 twinkle in his eyes, “who would pay off this little principal or who
 would lend you a good name or two that I could persuade my friend in
-the city to make you a further advance upon? Two good names would be
-sufficient for my friend in the city. Ha’n’t you no such relations,
+the [[City|city]] to make you a further advance upon? Two good names would be
+sufficient for my friend in the [[City|city]]. Ha’n’t you no such relations,
 Mr. George?”
 
 Mr. George, still composedly smoking, replies, “If I had, I shouldn’t
 trouble them. I have been trouble enough to my belongings in my day.
 It MAY be a very good sort of penitence in a vagabond, who has wasted
-the best time of his life, to go back then to decent people that he
+the best [[Time|time]] of his life, to go back then to decent people that he
 never was a credit to and live upon them, but it’s not my sort. The
 best kind of amends then for having gone away is to keep away, in my
 opinion.”
@@ -625,9 +625,9 @@ his late attentions.
 out the captain, Mr. George, it would have been the making of you. If
 when you first came here, in consequence of our advertisement in the
 newspapers—when I say ‘our,’ I’m alluding to the advertisements of
-my friend in the city, and one or two others who embark their capital
+my friend in the [[City|city]], and one or two others who embark their capital
 in the same way, and are so friendly towards me as sometimes to give
-me a lift with my little pittance—if at that time you could have
+me a lift with my little pittance—if at that [[Time|time]] you could have
 helped us, Mr. George, it would have been the making of you.”
 
 “I was willing enough to be ‘made,’ as you call it,” says Mr. George,
@@ -645,7 +645,7 @@ in her slumber.)
 
 “And what two reasons, Mr. George? In the name of the—”
 
-“Of our friend in the city?” suggests Mr. George, composedly
+“Of our friend in the [[City|city]]?” suggests Mr. George, composedly
 drinking.
 
 “Aye, if you like. What two reasons?”
@@ -657,11 +657,11 @@ advertised that Mr. Hawdon (Captain Hawdon, if you hold to the saying
 ‘Once a captain, always a captain’) was to hear of something to his
 advantage.”
 
-“Well?” returns the old man shrilly and sharply.
+“[[Well]]?” returns the old man shrilly and sharply.
 
-“Well!” says Mr. George, smoking on. “It wouldn’t have been much to
-his advantage to have been clapped into prison by the whole bill and
-judgment trade of London.”
+“[[Well]]!” says Mr. George, smoking on. “It wouldn’t have been much to
+his advantage to have been clapped into [[Prison|prison]] by the whole bill and
+judgment trade of [[London]].”
 
 “How do you know that? Some of his rich relations might have paid his
 debts or compounded for ’em. Besides, he had taken US in. He owed us
@@ -676,9 +676,9 @@ his lips for a moment and carrying his eyes back from following the
 progress of the cushion to the pipe-bowl which is burning low, “that
 he carried on heavily and went to ruin. I have been at his right hand
 many a day when he was charging upon ruin full-gallop. I was with him
-when he was sick and well, rich and poor. I laid this hand upon him
+when he was sick and [[Well|well]], rich and poor. I laid this hand upon him
 after he had run through everything and broken down everything
-beneath him—when he held a pistol to his head.”
+beneath him—when he held a [[Pistol|pistol]] to his head.”
 
 “I wish he had let it off,” says the benevolent old man, “and blown
 his head into as many pieces as he owed pounds!”
@@ -688,7 +688,7 @@ his head into as many pieces as he owed pounds!”
 by, and I am glad I never found him, when he was neither, to lead to
 a result so much to his advantage. That’s reason number one.”
 
-“I hope number two’s as good?” snarls the old man.
+“I [[Hope|hope]] number two’s as good?” snarls the old man.
 
 “Why, no. It’s more of a selfish reason. If I had found him, I must
 have gone to the other world to look. He was there.”
@@ -699,11 +699,11 @@ have gone to the other world to look. He was there.”
 
 “How do you know he wasn’t here?”
 
-“Don’t lose your temper as well as your money,” says Mr. George,
+“Don’t lose your temper as [[Well|well]] as your money,” says Mr. George,
 calmly knocking the ashes out of his pipe. “He was drowned long
-before. I am convinced of it. He went over a ship’s side. Whether
+before. I am convinced of it. He went over a [[Ship|ship]]’s side. Whether
 intentionally or accidentally, I don’t know. Perhaps your friend in
-the city does. Do you know what that tune is, Mr. Smallweed?” he adds
+the [[City|city]] does. Do you know what that tune is, Mr. Smallweed?” he adds
 after breaking off to whistle one, accompanied on the table with the
 empty pipe.
 
@@ -712,12 +712,12 @@ empty pipe.
 “That’s the Dead March in Saul. They bury soldiers to it,
 so it’s the natural end of the subject. Now, if your pretty
 granddaughter—excuse me, miss—will condescend to take care of this
-pipe for two months, we shall save the cost of one next time. Good
+pipe for two months, we shall save the cost of one next [[Time|time]]. Good
 evening, Mr. Smallweed!”
 
 “My dear friend!” the old man gives him both his hands.
 
-“So you think your friend in the city will be hard upon me if I fall
+“So you think your friend in the [[City|city]] will be hard upon me if I fall
 in a payment?” says the trooper, looking down upon him like a giant.
 
 “My dear friend, I am afraid he will,” returns the old man, looking
@@ -732,29 +732,29 @@ grimace at the door as he shuts it. “But I’ll lime you, you dog, I’ll
 lime you!”
 
 After this amiable remark, his spirit soars into those enchanting
-regions of reflection which its education and pursuits have opened to
+regions of reflection which its [[Education|education]] and pursuits have opened to
 it, and again he and Mrs. Smallweed while away the rosy hours, two
 unrelieved sentinels forgotten as aforesaid by the Black Serjeant.
 
 While the twain are faithful to their post, Mr. George strides
-through the streets with a massive kind of swagger and a grave-enough
-face. It is eight o’clock now, and the day is fast drawing in. He
+through the streets with a massive kind of swagger and a [[Grave|grave]]-enough
+face. It is eight o’[[Clock|clock]] now, and the day is fast drawing in. He
 stops hard by Waterloo Bridge and reads a playbill, decides to go to
 Astley’s Theatre. Being there, is much delighted with the horses and
 the feats of strength; looks at the weapons with a critical eye;
 disapproves of the combats as giving evidences of unskilful
-swordsmanship; but is touched home by the sentiments. In the last
+swordsmanship; but is touched [[Home|home]] by the sentiments. In the last
 scene, when the Emperor of Tartary gets up into a cart and
-condescends to bless the united lovers by hovering over them with the
-Union Jack, his eyelashes are moistened with emotion.
+condescends to bless the united [[lovers]] by hovering over them with the
+[[Union]] Jack, his eyelashes are moistened with emotion.
 
-The theatre over, Mr. George comes across the water again and makes
+The theatre over, Mr. George comes across the [[Water|water]] again and makes
 his way to that curious region lying about the Haymarket and
 Leicester Square which is a centre of attraction to indifferent
 foreign hotels and indifferent foreigners, racket-courts,
 fighting-men, swordsmen, footguards, old china, gaming-houses,
 exhibitions, and a large medley of shabbiness and shrinking out of
-sight. Penetrating to the heart of this region, he arrives by a court
+sight. Penetrating to the heart of this region, he arrives by a [[Court|court]]
 and a long whitewashed passage at a great brick building composed of
 bare walls, floors, roof-rafters, and skylights, on the front of
 which, if it can be said to have any front, is painted GEORGE’S
@@ -765,7 +765,7 @@ gaslights (partly turned off now), and two whitened targets for
 rifle-shooting, and archery accommodation, and fencing appliances,
 and all necessaries for the British art of boxing. None of these
 sports or exercises being pursued in George’s Shooting Gallery
-to-night, which is so devoid of company that a little grotesque man
+to-[[Night|night]], which is so devoid of company that a little [[Grotesque|grotesque]] man
 with a large head has it all to himself and lies asleep upon the
 floor.
 
@@ -777,7 +777,7 @@ the strong, rough, primitive table with a vice upon it at which he
 has been working. He is a little man with a face all crushed
 together, who appears, from a certain blue and speckled appearance
 that one of his cheeks presents, to have been blown up, in the way of
-business, at some odd time or times.
+business, at some odd [[Time|time]] or times.
 
 “Phil!” says the trooper in a quiet voice.
 
@@ -786,7 +786,7 @@ business, at some odd time or times.
 “Anything been doing?”
 
 “Flat as ever so much swipes,” says Phil. “Five dozen rifle and a
-dozen pistol. As to aim!” Phil gives a howl at the recollection.
+dozen [[Pistol|pistol]]. As to aim!” Phil gives a howl at the recollection.
 
 “Shut up shop, Phil!”
 
@@ -806,7 +806,7 @@ called “Phil’s mark.”
 
 This custodian of George’s Gallery in George’s absence concludes his
 proceedings, when he has locked the great doors and turned out all
-the lights but one, which he leaves to glimmer, by dragging out from
+the lights but one, which he [[Leaves|leaves]] to glimmer, by dragging out from
 a wooden cabin in a corner two mattresses and bedding. These being
 drawn to opposite ends of the gallery, the trooper makes his own bed
 and Phil makes his.
@@ -821,13 +821,13 @@ were found in a doorway, weren’t you?”
 
 “As nat’ral as possible,” says Phil.
 
-“Good night!”
+“Good [[Night|night]]!”
 
-“Good night, guv’ner.”
+“Good [[Night|night]], guv’ner.”
 
 Phil cannot even go straight to bed, but finds it necessary to
 shoulder round two sides of the gallery and then tack off at his
 mattress. The trooper, after taking a turn or two in the
-rifle-distance and looking up at the moon now shining through the
+rifle-distance and looking up at the [[Moon|moon]] now shining through the
 skylights, strides to his own mattress by a shorter route and goes to
 bed too.

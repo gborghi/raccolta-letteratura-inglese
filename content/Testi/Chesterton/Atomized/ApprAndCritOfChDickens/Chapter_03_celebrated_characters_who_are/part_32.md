@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 32)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 32)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -18,7 +18,7 @@ life or the slums (the usual haunts for villains) but with the laborious
 
 respectability of the lower, middle classes. The other good conception
 
-is the boy, Bradley Headstone's pupil, with his dull, inexhaustible
+is the boy, [[Bradley Headstone]]'s pupil, with his dull, inexhaustible
 
 egoism, his pert, unconscious cruelty, and the strict decorum and
 
@@ -28,21 +28,21 @@ who was not only a radical and a social reformer, but one who would have
 
 been particularly concerned to maintain the principle of modern popular
 
-education, should nevertheless have seen so clearly this potential evil
+[[Education|education]], should nevertheless have seen so clearly this potential evil
 
-in the mere educationalism of our time--the fact that merely educating
+in the mere educationalism of our [[Time|time]]--the fact that merely educating
 
-the democracy may easily mean setting to work to despoil it of all the
+the [[Democracy|democracy]] may easily mean setting to work to despoil it of all the
 
-democratic virtues. It is better to be Lizzie Hexam and not know how to
+democratic virtues. It is better to be [[Lizzie Hexam]] and not know how to
 
 read and write than to be Charlie Hexam and not know how to appreciate
 
-Lizzie Hexam. It is not only necessary that the democracy should be
+[[Lizzie Hexam]]. It is not only necessary that the [[Democracy|democracy]] should be
 
-taught; it is also necessary that the democracy should be taught
+taught; it is also necessary that the [[Democracy|democracy]] should be taught
 
-democracy. Otherwise it will certainly fall a victim to that
+[[Democracy|democracy]]. Otherwise it will certainly fall a victim to that
 
 snobbishness and system of worldly standards which is the most natural
 
@@ -50,7 +50,7 @@ and easy of all the forms of human corruption. This is one of the many
 
 dangers which Dickens saw before it existed. Dickens was really a
 
-prophet; far more of a prophet than Carlyle.
+[[Prophet|prophet]]; far more of a [[Prophet|prophet]] than Carlyle.
 
 
 
@@ -66,7 +66,7 @@ prophet; far more of a prophet than Carlyle.
 
 
 
-EDWIN DROOD
+[[Edwin Drood|EDWIN DROOD]]
 
 
 
@@ -92,7 +92,7 @@ his literary end was melodramatic. Something more seems hinted at in the
 
 cutting short of _Edwin Drood_ by Dickens than the mere cutting short of
 
-a good novel by a great man. It seems rather like the last taunt of some
+a good [[Novel|novel]] by a great man. It seems rather like the last taunt of some
 
 elf, leaving the world, that it should be this story which is not ended,
 
@@ -122,37 +122,37 @@ a dramatic mystery. Any Thackerayan could have completed the plot of
 
 _Denis Duval_; except indeed that a really sympathetic Thackerayan might
 
-have had some doubt as to whether there was any plot to complete. But
+have had some [[Doubt|doubt]] as to whether there was any plot to complete. But
 
 Dickens, having had far too little plot in his stories previously, had
 
 far too much plot in the story he never told. Dickens dies in the act of
 
-telling, not his tenth novel, but his first news of murder. He drops
+telling, not his tenth [[Novel|novel]], but his first news of murder. He drops
 
 down dead as he is in the act of denouncing the assassin. It is
 
 permitted to Dickens, in short, to come to a literary end as strange as
 
-his literary beginning. He began by completing the old romance of
+his literary beginning. He began by completing the old [[Romance|romance]] of
 
-travel. He ended by inventing the new detective story.
+travel. He ended by inventing the new [[Detective|detective]] story.
 
 
 
-It is as a detective story first and last that we have to consider _The
+It is as a [[Detective|detective]] story first and last that we have to consider _The
 
 Mystery of Edwin Drood_. This does not mean, of course, that the details
 
-are not often admirable in their swift and penetrating humour; to say
+are not often admirable in their swift and penetrating [[Humour|humour]]; to say
 
 that of the book would be to say that Dickens did not write it. Nothing
 
 could be truer, for instance, than the manner in which the dazed and
 
-drunken dignity of Durdles illustrates a certain bitterness at the
+drunken dignity of [[Durdles]] illustrates a certain bitterness at the
 
-bottom of the bewilderment of the poor. Nothing could be better than the
+[[Bottom|bottom]] of the bewilderment of the poor. Nothing could be better than the
 
 way in which the haughty and allusive conversation between Miss
 
@@ -180,15 +180,15 @@ waiter" left the room, casting a glance which indicated "let it be
 
 understood that all emoluments are mine, and that Nil is the reward of
 
-this slave." Still, Dickens wrote the book as a detective story; he
+this slave." Still, Dickens wrote the book as a [[Detective|detective]] story; he
 
-wrote it as _The Mystery of Edwin Drood_. And alone, perhaps, among
+wrote it as _The Mystery of Edwin Drood_. And [[Alone|alone]], perhaps, among
 
-detective-story writers, he never lived to destroy his mystery. Here
+[[Detective|detective]]-story writers, he never lived to destroy his mystery. Here
 
-alone then among the Dickens novels it is necessary to speak of the plot
+[[Alone|alone]] then among the Dickens novels it is necessary to speak of the plot
 
-and of the plot alone. And when we speak of the plot it becomes
+and of the plot [[Alone|alone]]. And when we speak of the plot it becomes
 
 immediately necessary to speak of the two or three standing explanations
 
@@ -200,11 +200,11 @@ The story, so far as it was written by Dickens, can be read here. It
 
 describes, as will be seen, the disappearance of the young architect
 
-Edwin Drood after a night of festivity which was supposed to celebrate
+[[Edwin Drood]] after a [[Night|night]] of festivity which was supposed to celebrate
 
-his reconciliation with a temporary enemy, Neville Landless, and was
+his [[Reconciliation|reconciliation]] with a temporary enemy, [[Neville Landless]], and was
 
-held at the house of his uncle John Jasper. Dickens continued the tale
+held at the [[house]] of his uncle [[John Jasper]]. Dickens continued the tale
 
 long enough to explain or explode the first and most obvious of his
 

@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 3 (part 3)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 3 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -32,7 +32,7 @@ phosphorus on the paper in my last attempt. As I rubbed, he ran his
 
 nose against my hand with a slight snarl; but I was too greatly excited
 
-at the time to pay much attention to the circumstance. Soon afterward,
+at the [[Time|time]] to pay much attention to the circumstance. Soon afterward,
 
 it will be remembered, I threw myself on the mattress, and fell into a
 
@@ -50,13 +50,13 @@ Presently I relapsed into my stupor, from which I was again awakened in
 
 a similar manner. This was repeated three or four times, until finally
 
-his behaviour inspired me with so great a degree of fear that I became
+his behaviour inspired me with so great a degree of [[Fear|fear]] that I became
 
 fully aroused. He was now lying close by the door of the box, snarling
 
 fearfully, although in a kind of under tone, and grinding his teeth as
 
-if strongly convulsed. I had no doubt whatever that the want of water
+if strongly convulsed. I had no [[Doubt|doubt]] whatever that the want of [[Water|water]]
 
 or the confined atmosphere of the hold had driven him mad, and I was at
 
@@ -74,7 +74,7 @@ determined to make my way from the box at all hazards, and despatch
 
 him, if his opposition should render it necessary for me to do so. To
 
-get out, I had to pass directly over his body, and he already seemed to
+get out, I had to pass directly over his [[Body|body]], and he already seemed to
 
 anticipate my design--raising himself upon his fore legs (as I
 
@@ -92,7 +92,7 @@ possible, I made a movement towards the mouth of the box. No sooner did
 
 I do this than the dog sprang with a loud growl towards my throat. The
 
-whole weight of his body struck me on the right shoulder, and I fell
+whole weight of his [[Body|body]] struck me on the right shoulder, and I fell
 
 violently to the left, while the enraged animal passed entirely over
 
@@ -106,7 +106,7 @@ enveloped my neck--yet, luckily, without being able to penetrate all
 
 the folds. I was now beneath the dog, and a few moments would place me
 
-completely in his power. Despair gave me strength, and I rose bodily
+completely in his power. [[Despair]] gave me strength, and I [[Rose|rose]] bodily
 
 up, shaking him from me by main force, and dragging with me the
 
@@ -122,7 +122,7 @@ of provisions reduced to a single gill of liqueur. As this reflection
 
 crossed my mind, I felt myself actuated by one of those fits of
 
-perverseness which might be supposed to influence a spoiled child in
+perverseness which might be supposed to influence a spoiled [[Child|child]] in
 
 similar circumstances, and, raising the bottle to my lips, I drained it
 
@@ -164,7 +164,7 @@ the most horrible and loathsome of dungeons--and one word--one little
 
 syllable would save me--yet that single syllable I could not utter! I
 
-felt, I am sure, more than ten thousand times the agonies of death
+felt, I am sure, more than ten thousand times the agonies of [[Death|death]]
 
 itself. My brain reeled, and I fell, deadly sick, against the end of
 
@@ -186,7 +186,7 @@ but himself. All was silent for some moments. At length I again heard
 
 the word _Arthur!_ repeated in a low tone, and one full of hesitation.
 
-Reviving hope loosened at once my powers of speech, and I now screamed,
+Reviving [[Hope|hope]] loosened at once my powers of speech, and I now screamed,
 
 at the top of my voice, _"Augustus! oh Augustus!"_ "Hush--for God's
 
@@ -194,17 +194,17 @@ sake be silent!" he replied, in a voice trembling with agitation; "I
 
 will be with you immediately--as soon as I can make my way through the
 
-hold." For a long time I heard him moving among the lumber, and every
+hold." For a long [[Time|time]] I heard him moving among the lumber, and every
 
 moment seemed to me an age. At length I felt his hand upon my shoulder,
 
-and he placed at the same moment a bottle of water to my lips. Those
+and he placed at the same moment a bottle of [[Water|water]] to my lips. Those
 
 only who have been suddenly redeemed from the jaws of the tomb, or who
 
 have known the insufferable torments of thirst under circumstances as
 
-aggravated as those which encompassed me in my dreary prison, can form
+aggravated as those which encompassed me in my dreary [[Prison|prison]], can form
 
 any idea of the unutterable transports which that one long draught of
 

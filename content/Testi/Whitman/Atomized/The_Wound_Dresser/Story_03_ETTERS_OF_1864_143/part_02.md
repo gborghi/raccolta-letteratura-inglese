@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-He had been some time sick with his regiment in the field, in front, but
+He had been some [[Time|time]] sick with his regiment in the field, in front, but
 did his duty as long as he could; was in the battle of Fredericksburg;
 soon after was put in the regimental hospital. He kept getting
 worse--could not eat anything they had there; the doctor told him nothing
@@ -29,14 +29,14 @@ all. No one spoke to him or assisted him; he had nothing to eat or drink;
 was used (amid the great crowds of sick) either with perfect indifference,
 or, as in two or three instances, with heartless brutality.
 
-On the boat, when night came and when the air grew chilly, he tried a long
-time to undo the blankets he had in his knapsack, but was too feeble. He
+On the boat, when [[Night|night]] came and when the air grew chilly, he tried a long
+[[Time|time]] to undo the blankets he had in his knapsack, but was too feeble. He
 asked one of the employees, who was moving around deck, for a moment's
 assistance to get the blankets. The man asked him back if he could not get
 them himself. He answered, no, he had been trying for more than half an
 hour, and found himself too weak. The man rejoined, he might then go
 without them, and walked off. So H. lay chilled and damp on deck all
-night, without anything under or over him, while two good blankets were
+[[Night|night]], without anything under or over him, while two good blankets were
 within reach. It caused him a great injury--nearly cost him his life.
 
 Arrived at Washington, he was brought ashore and again left on the wharf,
@@ -50,8 +50,8 @@ with a growling order to get up: the rules, he said, permitted no man to
 lie down in that way with his own clothes on; he must sit up--must first
 go to the bath-room, be washed, and have his clothes completely changed.
 (A very good rule, properly applied.) He was taken to the bath-room and
-scrubbed well with cold water. The attendants, callous for a while, were
-soon alarmed, for suddenly the half-frozen and lifeless body fell limpsy
+scrubbed [[Well|well]] with cold [[Water|water]]. The attendants, callous for a while, were
+soon alarmed, for suddenly the half-frozen and lifeless [[Body|body]] fell limpsy
 in their hands, and they hurried it back to the cot, plainly insensible,
 perhaps dying.
 
@@ -60,15 +60,15 @@ friendly word or deed, but all kinds of upstart airs and impudent,
 unfeeling speeches and deeds, from all kinds of small officials (and some
 big ones), cutting like razors into that sensitive heart, had at last done
 the job. He now lay, at times out of his head but quite silent, asking
-nothing of any one, for some days, with death getting a closer and a surer
-grip upon him; he cared not, or rather he welcomed death. His heart was
+nothing of any one, for some days, with [[Death|death]] getting a closer and a surer
+grip upon him; he cared not, or rather he welcomed [[Death|death]]. His heart was
 broken. He felt the struggle to keep up any longer to be useless. God, the
 world, humanity--all had abandoned him. It would feel so good to shut his
 eyes forever on the cruel things around him and toward him.
 
-As luck would have it, at this time I found him. I was passing down Ward
+As luck would have it, at this [[Time|time]] I found him. I was passing down Ward
 No. 6 one day about dusk (4th January, I think), and noticed his glassy
-eyes, with a look of despair and hopelessness, sunk low in his thin,
+eyes, with a look of [[Despair|despair]] and hopelessness, sunk low in his thin,
 pallid-brown young face. One learns to divine quickly in the hospital, and
 as I stopped by him and spoke some commonplace remark (to which he made no
 reply), I saw as I looked that it was a case for ministering to the
@@ -77,7 +77,7 @@ by him without any fuss; talked a little; soon saw that it did him good;
 led him to talk a little himself; got him somewhat interested; wrote a
 letter for him to his folks in Massachusetts (to L. H. Campbell, Plymouth
 county); soothed him down as I saw he was getting a little too much
-agitated, and tears in his eyes; gave him some small gifts, and told him I
+agitated, and [[Tears|tears]] in his eyes; gave him some small gifts, and told him I
 should come again soon. (He has told me since that this little visit, at
 that hour, just saved him; a day more, and it would have been perhaps too
 late.)
@@ -108,14 +108,14 @@ young--and so much more American than I supposed. Reader, how can I
 describe to you the mute appealing look that rolls and moves from many a
 manly eye, from many a sick cot, following you as you walk slowly down one
 of these wards? To see these, and to be incapable of responding to them,
-except in a few cases (so very few compared to the whole of the suffering
+except in a few cases (so very few compared to the whole of the [[Suffering|suffering]]
 men), is enough to make one's heart crack. I go through in some cases,
 cheering up the men, distributing now and then little sums of money--and,
 regularly, letter-paper and envelopes, oranges, tobacco, jellies, etc.,
 etc.
 
 Many things invite comment, and some of them sharp criticism, in these
-hospitals. The Government, as I said, is anxious and liberal in its
+hospitals. The [[government|Government]], as I said, is anxious and liberal in its
 practice toward its sick; but the work has to be left, in its personal
 application to the men, to hundreds of officials of one grade or another
 about the hospitals, who are sometimes entirely lacking in the right
@@ -123,7 +123,7 @@ qualities. There are tyrants and shysters in all positions, and especially
 those dressed in subordinate authority. Some of the ward doctors are
 careless, rude, capricious, needlessly strict. One I found who prohibited
 the men from all enlivening amusements; I found him sending men to the
-guard-house for the most trifling offence. In general, perhaps, the
+guard-[[house]] for the most trifling offence. In general, perhaps, the
 officials--especially the new ones, with their straps or badges--put on
 too many airs. Of all places in the world, the hospitals of American young
 men and soldiers, wounded in the volunteer service of their country, ought

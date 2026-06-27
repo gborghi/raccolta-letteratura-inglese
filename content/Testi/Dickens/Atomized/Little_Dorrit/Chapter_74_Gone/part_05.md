@@ -15,14 +15,14 @@ tags:
 
 
 And they were married with the sun shining on them through the painted
-figure of Our Saviour on the window. And they went into the very room
-where Little Dorrit had slumbered after her party, to sign the Marriage
-Register. And there, Mr Pancks, (destined to be chief clerk to Doyce and
-Clennam, and afterwards partner in the house), sinking the Incendiary
+figure of Our Saviour on the [[Window|window]]. And they went into the very room
+where Little Dorrit had slumbered after her party, to sign the [[Marriage]]
+Register. And there, [[Mr Pancks]], (destined to be chief clerk to Doyce and
+Clennam, and afterwards partner in the [[house]]), sinking the Incendiary
 in the peaceful friend, looked in at the door to see it done, with Flora
 gallantly supported on one arm and Maggy on the other, and a back-ground
 of John Chivery and father and other turnkeys who had run round for the
-moment, deserting the parent Marshalsea for its happy child. Nor had
+moment, deserting the parent Marshalsea for its happy [[Child|child]]. Nor had
 Flora the least signs of seclusion upon her, notwithstanding her recent
 declaration; but, on the contrary, was wonderfully smart, and enjoyed
 the ceremonies mightily, though in a fluttered way.
@@ -37,14 +37,14 @@ with her pretty head on what I call the second volume; and she’s now
 a-writing her little name as a bride in what I call the third volume.’
 
 They all gave place when the signing was done, and Little Dorrit and her
-husband walked out of the church alone. They paused for a moment on the
+husband walked out of the church [[Alone|alone]]. They paused for a moment on the
 steps of the portico, looking at the fresh perspective of the street in
-the autumn morning sun’s bright rays, and then went down.
+the [[Autumn|autumn]] morning sun’s bright rays, and then went down.
 
 Went down into a modest life of usefulness and happiness. Went down
-to give a mother’s care, in the fulness of time, to Fanny’s neglected
+to give a mother’s care, in the fulness of [[Time|time]], to Fanny’s neglected
 children no less than to their own, and to leave that lady going into
-Society for ever and a day. Went down to give a tender nurse and friend
+Society for ever and a day. Went down to give a tender [[Nurse|nurse]] and friend
 to Tip for some few years, who was never vexed by the great exactions he
 made of her in return for the riches he might have given her if he had
 ever had them, and who lovingly closed his eyes upon the Marshalsea

@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 32: THIRTY TWO (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 32: THIRTY TWO (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -34,8 +34,8 @@ and also that the deadly Upas tree of Java had blighted him. His name
 was Moddle.
 
 Towards this most unhappy Moddle, Miss Pecksniff conducted herself at
-first with distant haughtiness, being in no humour to be entertained
-with dirges in honour of her married sister. The poor young gentleman
+first with distant haughtiness, being in no [[Humour|humour]] to be entertained
+with dirges in [[Honour|honour]] of her married sister. The poor young gentleman
 was additionally crushed by this, and remonstrated with Mrs Todgers on
 the subject.
 
@@ -47,7 +47,7 @@ retorted Mrs Todgers.
 ‘Cheerful, Mrs Todgers! cheerful!’ cried the youngest gentleman; ‘when
 she reminds me of days for ever fled, Mrs Todgers!’
 
-‘Then you had better avoid her for a short time, if she does,’ said Mrs
+‘Then you had better avoid her for a short [[Time|time]], if she does,’ said Mrs
 Todgers, ‘and come to know her again, by degrees. That’s my advice.’
 
 ‘But I can’t avoid her,’ replied Moddle, ‘I haven’t strength of mind to
@@ -60,32 +60,32 @@ particularly her nose. It’s so like;’ here he yielded to a burst of
 grief. ‘It’s so like hers who is Another’s, Mrs Todgers!’
 
 The observant matron did not fail to report this conversation to
-Charity, who laughed at the time, but treated Mr Moddle that very
+[[Charity]], who laughed at the [[Time|time]], but treated Mr Moddle that very
 evening with increased consideration, and presented her side face to him
 as much as possible. Mr Moddle was not less sentimental than usual;
 was rather more so, if anything; but he sat and stared at her with
 glistening eyes, and seemed grateful.
 
-‘Well, sir!’ said the lady of the Boarding-House next day. ‘You held up
-your head last night. You’re coming round, I think.’
+‘[[Well]], sir!’ said the lady of the Boarding-[[house|House]] next day. ‘You held up
+your head last [[Night|night]]. You’re coming round, I think.’
 
 ‘Only because she’s so like her who is Another’s, Mrs Todgers,’ rejoined
 the youth. ‘When she talks, and when she smiles, I think I’m looking on
 HER brow again, Mrs Todgers.’
 
-This was likewise carried to Charity, who talked and smiled next evening
+This was likewise carried to [[Charity]], who talked and smiled next evening
 in her most engaging manner, and rallying Mr Moddle on the lowness of
 his spirits, challenged him to play a rubber at cribbage. Mr Moddle
 taking up the gauntlet, they played several rubbers for sixpences, and
-Charity won them all. This may have been partially attributable to the
+[[Charity]] won them all. This may have been partially attributable to the
 gallantry of the youngest gentleman, but it was certainly referable to
 the state of his feelings also; for his eyes being frequently dimmed by
-tears, he thought that aces were tens, and knaves queens, which at times
+[[Tears|tears]], he thought that aces were tens, and knaves queens, which at times
 occasioned some confusion in his play.
 
-On the seventh night of cribbage, when Mrs Todgers, sitting by, proposed
-that instead of gambling they should play for ‘love,’ Mr Moddle was seen
-to change colour. On the fourteenth night, he kissed Miss Pecksniff’s
+On the seventh [[Night|night]] of cribbage, when Mrs Todgers, sitting by, proposed
+that instead of gambling they should play for ‘[[Love|love]],’ Mr Moddle was seen
+to change colour. On the fourteenth [[Night|night]], he kissed Miss Pecksniff’s
 snuffers, in the passage, when she went upstairs to bed; meaning to have
 kissed her hand, but missing it.
 
@@ -94,19 +94,19 @@ Pecksniff’s mission was to comfort him; and Miss Pecksniff began
 to speculate on the probability of its being her mission to become
 ultimately Mrs Moddle. He was a young gentleman (Miss Pecksniff was not
 a very young lady) with rising prospects, and ‘almost’ enough to live
-on. Really it looked very well.
+on. Really it looked very [[Well|well]].
 
 Besides--besides--he had been regarded as devoted to Merry. Merry had
 joked about him, and had once spoken of it to her sister as a conquest.
 He was better looking, better shaped, better spoken, better tempered,
 better mannered than Jonas. He was easy to manage, could be made to
-consult the humours of his Betrothed, and could be shown off like a lamb
+consult the humours of his Betrothed, and could be shown off like a [[Lamb|lamb]]
 when Jonas was a bear. There was the rub!
 
 In the meantime the cribbage went on, and Mrs Todgers went off; for the
 youngest gentleman, dropping her society, began to take Miss Pecksniff
-to the play. He also began, as Mrs Todgers said, to slip home ‘in his
-dinner-times,’ and to get away from ‘the office’ at unholy seasons;
+to the play. He also began, as Mrs Todgers said, to slip [[Home|home]] ‘in his
+dinner-times,’ and to get away from ‘the office’ at unholy [[Seasons|seasons]];
 and twice, as he informed Mrs Todgers himself, he received anonymous
 letters, enclosing cards from Furniture Warehouses--clearly the act of
 that ungentlemanly ruffian Jinkins; only he hadn’t evidence enough to
@@ -131,5 +131,5 @@ Mr Moddle a little encouragement, Miss Pecksniff, if you wish him to
 speak; and he’ll speak fast enough, depend upon it.’
 
 ‘I am sure I don’t know what encouragement he would have, Mrs Todgers,’
-returned Charity. ‘He walks with me, and plays cards with me, and he
-comes and sits alone with me.’
+returned [[Charity]]. ‘He walks with me, and plays cards with me, and he
+comes and sits [[Alone|alone]] with me.’

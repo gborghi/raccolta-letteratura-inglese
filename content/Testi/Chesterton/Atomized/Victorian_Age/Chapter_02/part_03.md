@@ -22,9 +22,9 @@ purity of the Victorian Age, that the age ended (save for the bursting
 
 of a single scandal) in a thing being everywhere called "Art," "The
 
-Greek Spirit," "The Platonic Ideal" and so on--which any navvy mending
+Greek Spirit," "The Platonic Ideal" and so on--which any navvy [[mending]]
 
-the road outside would have stamped with a word as vile and as vulgar as
+the [[Road|road]] outside would have stamped with a word as vile and as vulgar as
 
 it deserved.
 
@@ -52,7 +52,7 @@ limited. It could be content with nothing less than the whole cosmos:
 
 yet the cosmos with which it was content was small. It is false to say
 
-it was without humour: yet there was something by instinct unsmiling in
+it was without [[Humour|humour]]: yet there was something by instinct unsmiling in
 
 it. It was always saying solidly that things were "enough"; and proving
 
@@ -72,13 +72,13 @@ I begin with this great woman of letters for both the two reasons
 
 already mentioned. She represents the rationalism of the old Victorian
 
-Age at its highest. She and Mill are like two great mountains at the end
+Age at its highest. She and Mill are like two great [[Mountains|mountains]] at the end
 
 of that long, hard chain which is the watershed of the Early Victorian
 
-time. They alone rise high enough to be confused among the clouds--or
+[[Time|time]]. They [[Alone|alone]] rise high enough to be confused among the clouds--or
 
-perhaps confused among the stars. They certainly were seeking truth, as
+perhaps confused among the [[Stars|stars]]. They certainly were seeking [[Truth|truth]], as
 
 Newman and Carlyle were; the slow slope of the later Victorian vulgarity
 
@@ -86,9 +86,9 @@ does not lower their precipice and pinnacle. But I begin with this name
 
 also because it emphasises the idea of modern fiction as a fresh and
 
-largely a female thing. The novel of the nineteenth century was female;
+largely a female thing. The [[Novel|novel]] of the nineteenth century was female;
 
-as fully as the novel of the eighteenth century was male. It is quite
+as fully as the [[Novel|novel]] of the eighteenth century was male. It is quite
 
 certain that no woman could have written _Roderick Random_. It is not
 
@@ -102,7 +102,7 @@ George Eliot began to write.
 
 Her originals and even her contemporaries had shown the feminine power
 
-in fiction as well or better than she. Charlotte Brontë, understood
+in fiction as [[Well|well]] or better than she. Charlotte Brontë, understood
 
 along her own instincts, was as great; Jane Austen was greater. The
 
@@ -130,7 +130,7 @@ One of the characteristics of the central Victorian spirit was a
 
 tendency to substitute a certain more or less satisfied seriousness for
 
-the extremes of tragedy and comedy. This is marked by a certain change
+the extremes of [[Tragedy|tragedy]] and [[Comedy|comedy]]. This is marked by a certain change
 
 in George Eliot; as it is marked by a certain limitation or moderation
 
@@ -138,7 +138,7 @@ in Dickens. Dickens was the People, as it was in the eighteenth century
 
 and still largely is, in spite of all the talk for and against Board
 
-School Education: comic, tragic, realistic, free-spoken, far looser in
+School [[Education]]: comic, tragic, realistic, free-spoken, far looser in
 
 words than in deeds. It marks the silent strength and pressure of the
 
@@ -156,7 +156,7 @@ the same popular realities: and her first books (at least as compared
 
 with her latest) were full of sound fun and bitter pathos. Mr. Max
 
-Beerbohm has remarked (in his glorious essay called _Ichabod_, I think),
+Beerbohm has remarked (in his glorious [[Essay|essay]] called _Ichabod_, I think),
 
 that Silas Marner would not have forgotten his miserliness if George
 
@@ -168,7 +168,7 @@ means anything more than a cold calculation of the chances, if there is
 
 in it, as I believe, any deeper idea of detaching the spirit of life
 
-from the dull obstacles of life, of permitting human nature really to
+from the dull obstacles of life, of permitting human [[Nature|nature]] really to
 
 reveal itself as human, if (to put it shortly) literature has anything
 
@@ -176,11 +176,11 @@ on earth to do with being _interesting_--then I think we would rather
 
 have a few more Marners than that rich maturity that gave us the
 
-analysed dust-heaps of _Daniel Deronda_.
+analysed [[Dust|dust]]-heaps of _Daniel Deronda_.
 
 
 
-In her best novels there is real humour, of a cool sparkling sort; there
+In her best novels there is real [[Humour|humour]], of a cool sparkling sort; there
 
 is a strong sense of substantial character that has not yet degenerated
 
@@ -192,8 +192,8 @@ indescribable thing called _glamour_; which was the whole stock-in-trade
 
 of the Brontës, which we feel in Dickens when Quilp clambers amid rotten
 
-wood by the desolate river; and even in Thackeray when Esmond with his
+wood by the desolate [[River|river]]; and even in Thackeray when Esmond with his
 
-melancholy eyes wanders like some swarthy crow about the dismal avenues
+[[Melancholy|melancholy]] eyes wanders like some swarthy crow about the dismal avenues
 
 of Castlewood. Of this quality (which some have called, but hastily, the

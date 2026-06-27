@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 2 (part 3)"
+title: "[[Wuthering Heights]] — Chapter 2 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 I imagined, for a moment, that this piece of eloquence was addressed to
 me; and, sufficiently enraged, stepped towards the aged rascal with an
-intention of kicking him out of the door. Mrs. Heathcliff, however,
+intention of kicking him out of the door. Mrs. [[Heathcliff]], however,
 checked me by her answer.
 
 “You scandalous old hypocrite!” she replied. “Are you not afraid of
@@ -24,7 +24,7 @@ being carried away bodily, whenever you mention the devil’s name? I
 warn you to refrain from provoking me, or I’ll ask your abduction as a
 special favour! Stop! look here, Joseph,” she continued, taking a long,
 dark book from a shelf; “I’ll show you how far I’ve progressed in the
-Black Art: I shall soon be competent to make a clear house of it. The
+Black Art: I shall soon be competent to make a clear [[house]] of it. The
 red cow didn’t die by chance; and your rheumatism can hardly be
 reckoned among providential visitations!”
 
@@ -36,31 +36,31 @@ I’ll have you all modelled in wax and clay! and the first who passes
 the limits I fix shall—I’ll not say what he shall be done to—but,
 you’ll see! Go, I’m looking at you!”
 
-The little witch put a mock malignity into her beautiful eyes, and
+The little [[Witch|witch]] put a mock malignity into her beautiful eyes, and
 Joseph, trembling with sincere horror, hurried out, praying, and
 ejaculating “wicked” as he went. I thought her conduct must be prompted
-by a species of dreary fun; and, now that we were alone, I endeavoured
+by a species of dreary fun; and, now that we were [[Alone|alone]], I endeavoured
 to interest her in my distress.
 
-“Mrs. Heathcliff,” I said earnestly, “you must excuse me for troubling
+“Mrs. [[Heathcliff]],” I said earnestly, “you must excuse me for troubling
 you. I presume, because, with that face, I’m sure you cannot help being
 good-hearted. Do point out some landmarks by which I may know my way
-home: I have no more idea how to get there than you would have how to
-get to London!”
+[[Home|home]]: I have no more idea how to get there than you would have how to
+get to [[London]]!”
 
-“Take the road you came,” she answered, ensconcing herself in a chair,
+“Take the [[Road|road]] you came,” she answered, ensconcing herself in a chair,
 with a candle, and the long book open before her. “It is brief advice,
 but as sound as I can give.”
 
 “Then, if you hear of me being discovered dead in a bog or a pit full
-of snow, your conscience won’t whisper that it is partly your fault?”
+of [[Snow|snow]], your [[Conscience|conscience]] won’t whisper that it is partly your fault?”
 
 “How so? I cannot escort you. They wouldn’t let me go to the end of the
-garden wall.”
+[[Garden|garden]] wall.”
 
-“_You_! I should be sorry to ask you to cross the threshold, for my
-convenience, on such a night,” I cried. “I want you to _tell_ me my
-way, not to _show_ it: or else to persuade Mr. Heathcliff to give me a
+“_You_! I should be sorry to ask you to [[Cross|cross]] the threshold, for my
+convenience, on such a [[Night|night]],” I cried. “I want you to _tell_ me my
+way, not to _show_ it: or else to persuade Mr. [[Heathcliff]] to give me a
 guide.”
 
 “Who? There is himself, Earnshaw, Zillah, Joseph and I. Which would you
@@ -74,12 +74,12 @@ have?”
 
 “That you may settle with your host. I have nothing to do with it.”
 
-“I hope it will be a lesson to you to make no more rash journeys on
-these hills,” cried Heathcliff’s stern voice from the kitchen entrance.
+“I [[Hope|hope]] it will be a lesson to you to make no more rash journeys on
+these hills,” cried [[Heathcliff]]’s stern voice from the kitchen entrance.
 “As to staying here, I don’t keep accommodations for visitors: you must
 share a bed with Hareton or Joseph, if you do.”
 
-“I can sleep on a chair in this room,” I replied.
+“I can [[Sleep|sleep]] on a chair in this room,” I replied.
 
 “No, no! A stranger is a stranger, be he rich or poor: it will not suit
 me to permit any one the range of the place while I am off guard!” said
@@ -98,13 +98,13 @@ me.
 relation he bore. “And who is to look after the horses, eh?”
 
 “A man’s life is of more consequence than one evening’s neglect of the
-horses: somebody must go,” murmured Mrs. Heathcliff, more kindly than I
+horses: somebody must go,” murmured Mrs. [[Heathcliff]], more kindly than I
 expected.
 
 “Not at your command!” retorted Hareton. “If you set store on him,
 you’d better be quiet.”
 
-“Then I hope his ghost will haunt you; and I hope Mr. Heathcliff will
+“Then I [[Hope|hope]] his [[Ghost|ghost]] will haunt you; and I [[Hope|hope]] Mr. [[Heathcliff]] will
 never get another tenant till the Grange is a ruin,” she answered,
 sharply.
 
@@ -121,34 +121,34 @@ holld him!”
 
 On opening the little door, two hairy monsters flew at my throat,
 bearing me down, and extinguishing the light; while a mingled guffaw
-from Heathcliff and Hareton put the copestone on my rage and
+from [[Heathcliff]] and Hareton put the copestone on my rage and
 humiliation. Fortunately, the beasts seemed more bent on stretching
 their paws, and yawning, and flourishing their tails, than devouring me
-alive; but they would suffer no resurrection, and I was forced to lie
+alive; but they would suffer no [[Resurrection|resurrection]], and I was forced to lie
 till their malignant masters pleased to deliver me: then, hatless and
 trembling with wrath, I ordered the miscreants to let me out—on their
 peril to keep me one minute longer—with several incoherent threats of
 retaliation that, in their indefinite depth of virulency, smacked of
-King Lear.
+[[King Lear]].
 
 The vehemence of my agitation brought on a copious bleeding at the
-nose, and still Heathcliff laughed, and still I scolded. I don’t know
+nose, and still [[Heathcliff]] laughed, and still I scolded. I don’t know
 what would have concluded the scene, had there not been one person at
 hand rather more rational than myself, and more benevolent than my
 entertainer. This was Zillah, the stout housewife; who at length issued
-forth to inquire into the nature of the uproar. She thought that some
+forth to inquire into the [[Nature|nature]] of the uproar. She thought that some
 of them had been laying violent hands on me; and, not daring to attack
 her master, she turned her vocal artillery against the younger
 scoundrel.
 
-“Well, Mr. Earnshaw,” she cried, “I wonder what you’ll have agait next?
-Are we going to murder folk on our very door-stones? I see this house
+“[[Well]], Mr. Earnshaw,” she cried, “I [[Wonder|wonder]] what you’ll have agait next?
+Are we going to murder folk on our very door-stones? I see this [[house]]
 will never do for me—look at t’ poor lad, he’s fair choking! Wisht,
 wisht; you mun’n’t go on so. Come in, and I’ll cure that: there now,
 hold ye still.”
 
-With these words she suddenly splashed a pint of icy water down my
-neck, and pulled me into the kitchen. Mr. Heathcliff followed, his
+With these words she suddenly splashed a pint of icy [[Water|water]] down my
+neck, and pulled me into the kitchen. Mr. [[Heathcliff]] followed, his
 accidental merriment expiring quickly in his habitual moroseness.
 
 I was sick exceedingly, and dizzy, and faint; and thus compelled

@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 15 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 15 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -24,9 +24,9 @@ cheerfulness not its own. I need not dilate upon the feelings with
 
 which I approached the shrine of my former divinity—that spot teeming
 
-with a thousand delightful recollections and glorious dreams—all
+with a thousand delightful recollections and glorious [[Dreams|dreams]]—all
 
-darkened now by one disastrous truth.
+darkened now by one disastrous [[Truth|truth]].
 
 
 
@@ -44,9 +44,9 @@ Humphry Davy’s “Last Days of a Philosopher,” and on the first leaf was
 
 written, “Frederick Lawrence.” I closed the book, but kept it in my
 
-hand, and stood facing the door, with my back to the fire-place, calmly
+hand, and stood facing the door, with my back to the [[Fire|fire]]-place, calmly
 
-waiting her arrival; for I did not doubt she would come. And soon I
+waiting her arrival; for I did not [[Doubt|doubt]] she would come. And soon I
 
 heard her step in the hall. My heart was beginning to throb, but I
 
@@ -64,7 +64,7 @@ with a smile, and impudently enough,—
 
 
 
-“Well, I am come to hear your explanation.”
+“[[Well]], I am come to hear your explanation.”
 
 
 
@@ -74,11 +74,11 @@ of my confidence.”
 
 
 
-“Oh, very well,” replied I, moving to the door.
+“Oh, very [[Well|well]],” replied I, moving to the door.
 
 
 
-“Stay a moment,” said she. “This is the last time I shall see you:
+“Stay a moment,” said she. “This is the last [[Time|time]] I shall see you:
 
 don’t go just yet.”
 
@@ -96,7 +96,7 @@ against me; who told you; and what did they say?”
 
 I paused a moment. She met my eye as unflinchingly as if her bosom had
 
-been steeled with conscious innocence. She was resolved to know the
+been steeled with conscious [[innocence]]. She was resolved to know the
 
 worst, and determined to dare it too. “I can crush that bold spirit,”
 
@@ -136,7 +136,7 @@ yours?—because, if you have not—”
 
 “I will not be insulted, Mr. Markham!” cried she, almost infuriated at
 
-my manner. “So you had better leave the house at once, if you came only
+my manner. “So you had better leave the [[house]] at once, if you came only
 
 for that.”
 
@@ -164,7 +164,7 @@ once my tone of taunting sarcasm. “I heartily wish I could find them a
 
 jesting matter. And as to being easily led to suspect, God only knows
 
-what a blind, incredulous fool I have hitherto been, perseveringly
+what a blind, incredulous [[Fool|fool]] I have hitherto been, perseveringly
 
 shutting my eyes and stopping my ears against everything that
 
@@ -178,7 +178,7 @@ my infatuation!”
 
 
 
-“Well, I’ll tell you. You remember that evening when I was here last?”
+“[[Well]], I’ll tell you. You remember that evening when I was here last?”
 
 
 
@@ -190,7 +190,7 @@ my infatuation!”
 
 wiser man; but they had no such effect upon me: I went on trusting and
 
-believing, hoping against hope, and adoring where I could not
+believing, hoping against [[Hope|hope]], and adoring where I could not
 
 comprehend. It so happened, however, that after I left you I turned
 
@@ -198,19 +198,19 @@ back—drawn by pure depth of sympathy and ardour of affection—not daring
 
 to intrude my presence openly upon you, but unable to resist the
 
-temptation of catching one glimpse through the window, just to see how
+[[Temptation|temptation]] of catching one glimpse through the [[Window|window]], just to see how
 
 you were: for I had left you apparently in great affliction, and I
 
 partly blamed my own want of forbearance and discretion as the cause of
 
-it. If I did wrong, love alone was my incentive, and the punishment was
+it. If I did wrong, [[Love|love]] [[Alone|alone]] was my incentive, and the punishment was
 
 severe enough; for it was just as I had reached that tree, that you
 
-came out into the garden with your friend. Not choosing to show myself,
+came out into the [[Garden|garden]] with your friend. Not choosing to show myself,
 
-under the circumstances, I stood still, in the shadow, till you had
+under the circumstances, I stood still, in the [[Shadow|shadow]], till you had
 
 both passed by.”
 
@@ -220,7 +220,7 @@ both passed by.”
 
 
 
-“I heard quite enough, Helen. And it was well for me that I did hear
+“I heard quite enough, [[Helen]]. And it was [[Well|well]] for me that I did hear
 
 it; for nothing less could have cured my infatuation. I always said and
 
@@ -228,7 +228,7 @@ thought, that I would never believe a word against you, unless I heard
 
 it from your own lips. All the hints and affirmations of others I
 
-treated as malignant, baseless slanders; your own self-accusations I
+treated as malignant, baseless slanders; your own [[Self|self]]-accusations I
 
 believed to be overstrained; and all that seemed unaccountable in your
 

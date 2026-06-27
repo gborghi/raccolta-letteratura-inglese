@@ -1,5 +1,5 @@
 ---
-title: "Troilus and Cressida — Act V, Scene 10"
+title: "[[Troilus]] and [[Cressida]] — Act V, Scene 10"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/TROILUS-AND-CRESSIDA-(Shakespeare)"
@@ -16,11 +16,11 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | A retreat is sounded. Enter Agamemnon, Ajax, Menelaus, Nestor, Diomedes, and the rest, marching. A shout within |
-| AGAMEMNON | Hark, hark! What shout is that? |
+| *(didascalia)* | A retreat is sounded. Enter [[Agamemnon]], [[Ajax]], Menelaus, Nestor, Diomedes, and the rest, marching. A shout within |
+| [[Agamemnon|AGAMEMNON]] | Hark, hark! What shout is that? |
 | NESTOR | Peace, drums. |
-| MYRMIDONS | (within) Achilles!<br>Achilles! Hector’s slain! Achilles! |
-| DIOMEDES | The bruit is: Hector’s slain, and by Achilles. |
-| AJAX | If it be so, yet bragless let it be.<br>Great Hector was a man as good as he. |
-| AGAMEMNON | March patiently along. Let one be sent<br>To pray Achilles see us at our tent.<br>If in his death the gods have us befriended,<br>Great Troy is ours, and our sharp wars are ended. |
+| MYRMIDONS | (within) [[Achilles]]!<br>[[Achilles]]! [[Hector]]’s slain! [[Achilles]]! |
+| DIOMEDES | The bruit is: [[Hector]]’s slain, and by [[Achilles]]. |
+| [[Ajax|AJAX]] | If it be so, yet bragless let it be.<br>Great [[Hector]] was a man as good as he. |
+| [[Agamemnon|AGAMEMNON]] | March patiently along. Let one be sent<br>To pray [[Achilles]] see us at our tent.<br>If in his [[Death|death]] the gods have us befriended,<br>Great Troy is ours, and our sharp wars are ended. |
 | *(didascalia)* | Exeunt marching |

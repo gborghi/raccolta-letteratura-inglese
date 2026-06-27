@@ -18,14 +18,14 @@ CHAPTER XXXIX.
 Further Adventures of Captain Edward Cuttle, Mariner
 
 
-Time, sure of foot and strong of will, had so pressed onward, that the
+[[Time]], sure of foot and strong of will, had so pressed onward, that the
 year enjoined by the old Instrument-maker, as the term during which his
 friend should refrain from opening the sealed packet accompanying the
-letter he had left for him, was now nearly expired, and Captain Cuttle
+letter he had left for him, was now nearly expired, and [[Captain Cuttle]]
 began to look at it, of an evening, with feelings of mystery and
 uneasiness.
 
-The Captain, in his honour, would as soon have thought of opening the
+The Captain, in his [[Honour|honour]], would as soon have thought of opening the
 parcel one hour before the expiration of the term, as he would have
 thought of opening himself, to study his own anatomy. He merely brought
 it out, at a certain stage of his first evening pipe, laid it on the
@@ -36,7 +36,7 @@ hitch his chair, by degrees, farther and farther off, as if to get
 beyond the range of its fascination; but if this were his design, he
 never succeeded: for even when he was brought up by the parlour wall,
 the packet still attracted him; or if his eyes, in thoughtful
-wandering, roved to the ceiling or the fire, its image immediately
+wandering, roved to the ceiling or the [[Fire|fire]], its image immediately
 followed, and posted itself conspicuously among the coals, or took up
 an advantageous position on the whitewash.
 
@@ -44,26 +44,26 @@ In respect of Heart’s Delight, the Captain’s parental and admiration
 knew no change. But since his last interview with Mr Carker, Captain
 Cuttle had come to entertain doubts whether his former intervention in
 behalf of that young lady and his dear boy Wal”r, had proved altogether
-so favourable as he could have wished, and as he at the time believed.
+so favourable as he could have wished, and as he at the [[Time|time]] believed.
 The Captain was troubled with a serious misgiving that he had done more
 harm than good, in short; and in his remorse and modesty he made the
 best atonement he could think of, by putting himself out of the way of
 doing any harm to anyone, and, as it were, throwing himself overboard
 for a dangerous person.
 
-Self-buried, therefore, among the instruments, the Captain never went
-near Mr Dombey’s house, or reported himself in any way to Florence or
+[[Self]]-buried, therefore, among the instruments, the Captain never went
+near Mr Dombey’s [[house]], or reported himself in any way to Florence or
 Miss Nipper. He even severed himself from Mr Perch, on the occasion of
 his next visit, by dryly informing that gentleman, that he thanked him
 for his company, but had cut himself adrift from all such acquaintance,
 as he didn’t know what magazine he mightn’t blow up, without meaning of
-it. In this self-imposed retirement, the Captain passed whole days and
+it. In this [[Self|self]]-imposed retirement, the Captain passed whole days and
 weeks without interchanging a word with anyone but Rob the Grinder,
 whom he esteemed as a pattern of disinterested attachment and fidelity.
 In this retirement, the Captain, gazing at the packet of an evening,
 would sit smoking, and thinking of Florence and poor Walter, until they
 both seemed to his homely fancy to be dead, and to have passed away
-into eternal youth, the beautiful and innocent children of his first
+into eternal youth, the beautiful and [[Innocent|innocent]] children of his first
 remembrance.
 
 The Captain did not, however, in his musings, neglect his own
@@ -71,7 +71,7 @@ improvement, or the mental culture of Rob the Grinder. That young man
 was generally required to read out of some book to the Captain, for one
 hour, every evening; and as the Captain implicitly believed that all
 books were true, he accumulated, by this means, many remarkable facts.
-On Sunday nights, the Captain always read for himself, before going to
+On [[Sunday]] nights, the Captain always read for himself, before going to
 bed, a certain Divine Sermon once delivered on a Mount; and although he
 was accustomed to quote the text, without book, after his own manner,
 he appeared to read it with as reverent an understanding of its
@@ -84,14 +84,14 @@ admirable system of the Grinders’ School, had been developed by a
 perpetual bruising of his intellectual shins against all the proper
 names of all the tribes of Judah, and by the monotonous repetition of
 hard verses, especially by way of punishment, and by the parading of
-him at six years old in leather breeches, three times a Sunday, very
+him at six years old in leather breeches, three times a [[Sunday]], very
 high up, in a very hot church, with a great organ buzzing against his
 drowsy head, like an exceedingly busy bee—Rob the Grinder made a mighty
 show of being edified when the Captain ceased to read, and generally
 yawned and nodded while the reading was in progress. The latter fact
 being never so much as suspected by the good Captain.
 
-Captain Cuttle, also, as a man of business; took to keeping books. In
+[[Captain Cuttle]], also, as a man of business; took to keeping books. In
 these he entered observations on the weather, and on the currents of
 the waggons and other vehicles: which he observed, in that quarter, to
 set westward in the morning and during the greater part of the day, and
@@ -99,9 +99,9 @@ eastward towards the evening. Two or three stragglers appearing in one
 week, who “spoke him”—so the Captain entered it—on the subject of
 spectacles, and who, without positively purchasing, said they would
 look in again, the Captain decided that the business was improving, and
-made an entry in the day-book to that effect: the wind then blowing
+made an entry in the day-book to that effect: the [[Wind|wind]] then blowing
 (which he first recorded) pretty fresh, west and by north; having
-changed in the night.
+changed in the [[Night|night]].
 
 One of the Captain’s chief difficulties was Mr Toots, who called
 frequently, and who without saying much seemed to have an idea that the

@@ -17,17 +17,17 @@ tags:
 CHAPTER 15. Mrs Flintwinch has another Dream
 
 
-The debilitated old house in the city, wrapped in its mantle of soot,
-and leaning heavily on the crutches that had partaken of its decay and
+The debilitated old [[house]] in the [[City|city]], wrapped in its mantle of soot,
+and leaning heavily on the crutches that had partaken of its [[Decay|decay]] and
 worn out with it, never knew a healthy or a cheerful interval, let what
 would betide. If the sun ever touched it, it was but with a ray, and
 that was gone in half an hour; if the moonlight ever fell upon it, it
 was only to put a few patches on its doleful cloak, and make it look
-more wretched. The stars, to be sure, coldly watched it when the nights
+more wretched. The [[Stars|stars]], to be sure, coldly watched it when the nights
 and the smoke were clear enough; and all bad weather stood by it with
-a rare fidelity. You should alike find rain, hail, frost, and thaw
+a rare fidelity. You should alike find rain, hail, [[Frost|frost]], and thaw
 lingering in that dismal enclosure when they had vanished from other
-places; and as to snow, you should see it there for weeks, long after
+places; and as to [[Snow|snow]], you should see it there for weeks, long after
 it had changed from yellow to black, slowly weeping away its grimy life.
 The place had no other adherents. As to street noises, the rumbling of
 wheels in the lane merely rushed in at the gateway in going past, and
@@ -36,41 +36,41 @@ were deaf, and recovered the sense of hearing by instantaneous flashes.
 So with whistling, singing, talking, laughing, and all pleasant human
 sounds. They leaped the gap in a moment, and went upon their way.
 
-The varying light of fire and candle in Mrs Clennam’s room made the
+The varying light of [[Fire|fire]] and candle in [[Mrs Clennam]]’s room made the
 greatest change that ever broke the dead monotony of the spot. In her
-two long narrow windows, the fire shone sullenly all day, and sullenly
-all night. On rare occasions it flashed up passionately, as she did; but
+two long narrow windows, the [[Fire|fire]] shone sullenly all day, and sullenly
+all [[Night|night]]. On rare occasions it flashed up passionately, as she did; but
 for the most part it was suppressed, like her, and preyed upon itself
-evenly and slowly. During many hours of the short winter days, however,
+evenly and slowly. During many hours of the short [[Winter|winter]] days, however,
 when it was dusk there early in the afternoon, changing distortions of
 herself in her wheeled chair, of Mr Flintwinch with his wry neck, of
-Mistress Affery coming and going, would be thrown upon the house wall
+Mistress Affery coming and going, would be thrown upon the [[house]] wall
 that was over the gateway, and would hover there like shadows from a
-great magic lantern. As the room-ridden invalid settled for the night,
-these would gradually disappear: Mistress Affery’s magnified shadow
+great [[Magic|magic]] lantern. As the room-ridden invalid settled for the [[Night|night]],
+these would gradually disappear: Mistress Affery’s magnified [[Shadow|shadow]]
 always flitting about, last, until it finally glided away into the air,
-as though she were off upon a witch excursion. Then the solitary light
-would burn unchangingly, until it burned pale before the dawn, and at
-last died under the breath of Mrs Affery, as her shadow descended on it
-from the witch-region of sleep.
+as though she were off upon a [[Witch|witch]] excursion. Then the solitary light
+would burn unchangingly, until it burned pale before the [[Dawn|dawn]], and at
+last died under the breath of Mrs Affery, as her [[Shadow|shadow]] descended on it
+from the [[Witch|witch]]-region of [[Sleep|sleep]].
 
-Strange, if the little sick-room fire were in effect a beacon fire,
+Strange, if the little sick-room [[Fire|fire]] were in effect a beacon [[Fire|fire]],
 summoning some one, and that the most unlikely some one in the world, to
 the spot that _must_ be come to. Strange, if the little sick-room light
-were in effect a watch-light, burning in that place every night until an
+were in effect a watch-light, burning in that place every [[Night|night]] until an
 appointed event should be watched out! Which of the vast multitude of
-travellers, under the sun and the stars, climbing the dusty hills and
+travellers, under the sun and the [[Stars|stars]], climbing the dusty hills and
 toiling along the weary plains, journeying by land and journeying by
 sea, coming and going so strangely, to meet and to act and react on one
-another; which of the host may, with no suspicion of the journey’s end,
+another; which of the host may, with no suspicion of the [[Journey|journey]]’s end,
 be travelling surely hither?
 
-Time shall show us. The post of honour and the post of shame, the
+[[Time]] shall show us. The post of [[Honour|honour]] and the post of shame, the
 general’s station and the drummer’s, a peer’s statue in Westminster
 Abbey and a seaman’s hammock in the bosom of the deep, the mitre and
 the workhouse, the woolsack and the gallows, the throne and the
-guillotine--the travellers to all are on the great high road, but it
-has wonderful divergencies, and only Time shall show us whither each
+guillotine--the travellers to all are on the great high [[Road|road]], but it
+has wonderful divergencies, and only [[Time]] shall show us whither each
 traveller is bound.
 
 On a wintry afternoon at twilight, Mrs Flintwinch, having been heavy all
@@ -78,7 +78,7 @@ day, dreamed this dream:
 
 She thought she was in the kitchen getting the kettle ready for tea, and
 was warming herself with her feet upon the fender and the skirt of her
-gown tucked up, before the collapsed fire in the middle of the grate,
+gown tucked up, before the collapsed [[Fire|fire]] in the middle of the grate,
 bordered on either hand by a deep cold black ravine. She thought that
 as she sat thus, musing upon the question whether life was not for some
 people a rather dull invention, she was frightened by a sudden noise
@@ -88,17 +88,17 @@ and of three or four quick beats like a rapid step; while a shock or
 tremble was communicated to her heart, as if the step had shaken the
 floor, or even as if she had been touched by some awful hand. She
 thought that this revived within her certain old fears of hers that
-the house was haunted; and that she flew up the kitchen stairs without
+the [[house]] was haunted; and that she flew up the kitchen stairs without
 knowing how she got up, to be nearer company.
 
 Mistress Affery thought that on reaching the hall, she saw the door of
 her liege lord’s office standing open, and the room empty. That she went
-to the ripped-up window in the little room by the street door to connect
+to the ripped-up [[Window|window]] in the little room by the street door to connect
 her palpitating heart, through the glass, with living things beyond
-and outside the haunted house. That she then saw, on the wall over the
+and outside the haunted [[house]]. That she then saw, on the wall over the
 gateway, the shadows of the two clever ones in conversation above. That
 she then went upstairs with her shoes in her hand, partly to be near
-the clever ones as a match for most ghosts, and partly to hear what they
+the clever ones as a match for most [[Ghosts|ghosts]], and partly to hear what they
 were talking about.
 
 ‘None of your nonsense with me,’ said Mr Flintwinch. ‘I won’t take it
@@ -107,7 +107,7 @@ from you.’
 Mrs Flintwinch dreamed that she stood behind the door, which was just
 ajar, and most distinctly heard her husband say these bold words.
 
-‘Flintwinch,’ returned Mrs Clennam, in her usual strong low voice,
+‘Flintwinch,’ returned [[Mrs Clennam]], in her usual strong low voice,
 ‘there is a demon of anger in you. Guard against it.’
 
 ‘I don’t care whether there’s one or a dozen,’ said Mr Flintwinch,
@@ -132,7 +132,7 @@ obstinacy: ‘I mean dropped down upon me.’
 
 ‘I dropped down upon you, then, you ill-conditioned man,’ (Jeremiah
 chuckled at having forced her to adopt his phrase,) ‘for having been
-needlessly significant to Arthur that morning. I have a right to
+needlessly significant to [[arthur|Arthur]] that morning. I have a right to
 complain of it as almost a breach of confidence. You did not mean it--’
 
 ‘I won’t have it!’ interposed the contradictory Jeremiah, flinging back
@@ -161,19 +161,19 @@ The old man seemed to think so. There was another pause, and he had
 altered his position in the room, when he spoke again more mildly:
 
 ‘I was going to tell you why it was. Because, before you took your own
-part, I thought you ought to have taken the part of Arthur’s father.
-Arthur’s father! I had no particular love for Arthur’s father. I served
-Arthur’s father’s uncle, in this house, when Arthur’s father was not
+part, I thought you ought to have taken the part of [[arthur|Arthur]]’s father.
+[[arthur|Arthur]]’s father! I had no particular [[Love|love]] for [[arthur|Arthur]]’s father. I served
+[[arthur|Arthur]]’s father’s uncle, in this [[house]], when [[arthur|Arthur]]’s father was not
 much above me--was poorer as far as his pocket went--and when his uncle
 might as soon have left me his heir as have left him. He starved in the
 parlour, and I starved in the kitchen; that was the principal difference
 in our positions; there was not much more than a flight of breakneck
 stairs between us. I never took to him in those times; I don’t know that
-I ever took to him greatly at any time. He was an undecided, irresolute
-chap, who had everything but his orphan life scared out of him when he
-was young. And when he brought you home here, the wife his uncle
+I ever took to him greatly at any [[Time|time]]. He was an undecided, irresolute
+chap, who had everything but his [[Orphan|orphan]] life scared out of him when he
+was young. And when he brought you [[Home|home]] here, the wife his uncle
 had named for him, I didn’t need to look at you twice (you were a
-good-looking woman at that time) to know who’d be master. You have stood
+good-looking woman at that [[Time|time]]) to know who’d be master. You have stood
 of your own strength ever since. Stand of your own strength now. Don’t
 lean against the dead.’
 
@@ -182,7 +182,7 @@ lean against the dead.’
 ‘But you had a mind to do it, if I had submitted,’ growled Jeremiah,
 ‘and that’s why you drop down upon me. You can’t forget that I didn’t
 submit. I suppose you are astonished that I should consider it worth my
-while to have justice done to Arthur’s father? Hey? It doesn’t matter
+while to have justice done to [[arthur|Arthur]]’s father? Hey? It doesn’t matter
 whether you answer or not, because I know you are, and you know you are.
 Come, then, I’ll tell you how it is. I may be a bit of an oddity in
 point of temper, but this is my temper--I can’t let anybody have
@@ -206,13 +206,13 @@ question at present. However that may be, you carry out your purposes,
 and you make everything go down before them. Now, I won’t go down before
 them. I have been faithful to you, and useful to you, and I am attached
 to you. But I can’t consent, and I won’t consent, and I never did
-consent, and I never will consent to be lost in you. Swallow up
+consent, and I never will consent to be lost in you. [[Swallow]] up
 everybody else, and welcome. The peculiarity of my temper is, ma’am,
 that I won’t be swallowed up alive.’
 
 Perhaps this had originally been the mainspring of the understanding
 between them. Descrying thus much of force of character in Mr
-Flintwinch, perhaps Mrs Clennam had deemed alliance with him worth her
+Flintwinch, perhaps [[Mrs Clennam]] had deemed alliance with him worth her
 while.
 
 ‘Enough and more than enough of the subject,’ said she gloomily.
@@ -223,13 +223,13 @@ Flintwinch, ‘and then you must expect to hear of it again.’
 Mistress Affery dreamed that the figure of her lord here began walking
 up and down the room, as if to cool his spleen, and that she ran away;
 but that, as he did not issue forth when she had stood listening and
-trembling in the shadowy hall a little time, she crept up-stairs again,
-impelled as before by ghosts and curiosity, and once more cowered
+trembling in the shadowy hall a little [[Time|time]], she crept up-stairs again,
+impelled as before by [[Ghosts|ghosts]] and curiosity, and once more cowered
 outside the door.
 
-‘Please to light the candle, Flintwinch,’ Mrs Clennam was saying,
+‘Please to light the candle, Flintwinch,’ [[Mrs Clennam]] was saying,
 apparently wishing to draw him back into their usual tone. ‘It is nearly
-time for tea. Little Dorrit is coming, and will find me in the dark.’
+[[Time|time]] for tea. Little Dorrit is coming, and will find me in the dark.’
 
 Mr Flintwinch lighted the candle briskly, and said as he put it down
 upon the table:
@@ -246,9 +246,9 @@ gathered into the barn?’
 ‘Ay, ay! But since you have been lying here--not near dead--nothing like
 it--numbers of children and young people, blooming women, strong men,
 and what not, have been cut down and carried; and still here are you,
-you see, not much changed after all. Your time and mine may be a long
+you see, not much changed after all. Your [[Time|time]] and mine may be a long
 one yet. When I say for ever, I mean (though I am not poetical) through
-all our time.’ Mr Flintwinch gave this explanation with great calmness,
+all our [[Time|time]].’ Mr Flintwinch gave this explanation with great calmness,
 and calmly waited for an answer.
 
 ‘So long as Little Dorrit is quiet and industrious, and stands in need
@@ -266,7 +266,7 @@ remained looking at each other with the candle between them, and
 that she somehow derived an impression that they looked at each other
 fixedly.
 
-‘Do you happen to know, Mrs Clennam,’ Affery’s liege lord then demanded
+‘Do you happen to know, [[Mrs Clennam]],’ Affery’s liege lord then demanded
 in a much lower voice, and with an amount of expression that seemed
 quite out of proportion to the simple purpose of his words, ‘where she
 lives?’
@@ -286,7 +286,7 @@ any day?’
 Mr Flintwinch, having expelled a long significant breath said, with his
 former emphasis, ‘For I have accidentally--mind!--found out.’
 
-‘Wherever she lives,’ said Mrs Clennam, speaking in one unmodulated hard
+‘Wherever she lives,’ said [[Mrs Clennam]], speaking in one unmodulated hard
 voice, and separating her words as distinctly as if she were reading
 them off from separate bits of metal that she took up one by one, ‘she
 has made a secret of it, and she shall always keep her secret from me.’
@@ -320,7 +320,7 @@ a hasty jerk.
 More afraid of her husband at the moment than of the mysterious sound in
 the kitchen, Affery crept away as lightly and as quickly as she could,
 descended the kitchen stairs almost as rapidly as she had ascended them,
-resumed her seat before the fire, tucked up her skirt again, and finally
+resumed her seat before the [[Fire|fire]], tucked up her skirt again, and finally
 threw her apron over her head. Then the bell rang once more, and then
 once more, and then kept on ringing; in despite of which importunate
 summons, Affery still sat behind her apron, recovering her breath.
@@ -342,10 +342,10 @@ Reminded of her former achievement in that way, Mr Flintwinch held the
 candle to her head, as if he had some idea of lighting her up for the
 illumination of the kitchen.
 
-‘Don’t you know it’s her tea-time?’ he demanded with a vicious grin, and
+‘Don’t you know it’s her tea-[[Time|time]]?’ he demanded with a vicious grin, and
 giving one of the legs of Mistress Affery’s chair a kick.
 
-‘Jeremiah? Tea-time? I don’t know what’s come to me. But I got such a
+‘Jeremiah? Tea-[[Time|time]]? I don’t know what’s come to me. But I got such a
 dreadful turn, Jeremiah, before I went--off a-dreaming, that I think it
 must be that.’
 
@@ -358,11 +358,11 @@ Jeremiah held up his light and looked at the blackened ceiling, held
 down his light and looked at the damp stone floor, turned round with his
 light and looked about at the spotted and blotched walls.
 
-‘Rats, cats, water, drains,’ said Jeremiah.
+‘Rats, cats, [[Water|water]], drains,’ said Jeremiah.
 
 Mistress Affery negatived each with a shake of her head. ‘No, Jeremiah;
 I have felt it before. I have felt it up-stairs, and once on the
-staircase as I was going from her room to ours in the night--a rustle
+staircase as I was going from her room to ours in the [[Night|night]]--a rustle
 and a sort of trembling touch behind me.’
 
 ‘Affery, my woman,’ said Mr Flintwinch grimly, after advancing his nose
@@ -372,32 +372,32 @@ of a rustle and a touch that’ll send you flying to the other end of the
 kitchen.’
 
 This prediction stimulated Mrs Flintwinch to bestir herself, and to
-hasten up-stairs to Mrs Clennam’s chamber. But, for all that, she now
+hasten up-stairs to [[Mrs Clennam]]’s chamber. But, for all that, she now
 began to entertain a settled conviction that there was something wrong
-in the gloomy house. Henceforth, she was never at peace in it after
+in the gloomy [[house]]. Henceforth, she was never at peace in it after
 daylight departed; and never went up or down stairs in the dark without
 having her apron over her head, lest she should see something.
 
-What with these ghostly apprehensions and her singular dreams, Mrs
+What with these ghostly apprehensions and her singular [[Dreams|dreams]], Mrs
 Flintwinch fell that evening into a haunted state of mind, from which
 it may be long before this present narrative descries any trace of her
 recovery. In the vagueness and indistinctness of all her new experiences
 and perceptions, as everything about her was mysterious to herself she
 began to be mysterious to others: and became as difficult to be made out
-to anybody’s satisfaction as she found the house and everything in it
+to anybody’s satisfaction as she found the [[house]] and everything in it
 difficult to make out to her own.
 
-She had not yet finished preparing Mrs Clennam’s tea, when the soft
+She had not yet finished preparing [[Mrs Clennam]]’s tea, when the soft
 knock came to the door which always announced Little Dorrit. Mistress
 Affery looked on at Little Dorrit taking off her homely bonnet in the
 hall, and at Mr Flintwinch scraping his jaws and contemplating her in
-silence, as expecting some wonderful consequence to ensue which would
+[[Silence|silence]], as expecting some wonderful consequence to ensue which would
 frighten her out of her five wits or blow them all three to pieces.
 
-After tea there came another knock at the door, announcing Arthur.
+After tea there came another knock at the door, announcing [[arthur|Arthur]].
 Mistress Affery went down to let him in, and he said on entering,
 ‘Affery, I am glad it’s you. I want to ask you a question.’ Affery
-immediately replied, ‘For goodness sake don’t ask me nothing, Arthur! I
+immediately replied, ‘For goodness sake don’t ask me nothing, [[arthur|Arthur]]! I
 am frightened out of one half of my life, and dreamed out of the
 other. Don’t ask me nothing! I don’t know which is which, or what is
 what!’--and immediately started away from him, and came near him no
@@ -405,19 +405,19 @@ more.
 
 Mistress Affery having no taste for reading, and no sufficient light for
 needlework in the subdued room, supposing her to have the inclination,
-now sat every night in the dimness from which she had momentarily
-emerged on the evening of Arthur Clennam’s return, occupied with crowds
+now sat every [[Night|night]] in the dimness from which she had momentarily
+emerged on the evening of [[Arthur Clennam]]’s return, occupied with crowds
 of wild speculations and suspicions respecting her mistress and her
-husband and the noises in the house. When the ferocious devotional
+husband and the noises in the [[house]]. When the ferocious devotional
 exercises were engaged in, these speculations would distract Mistress
 Affery’s eyes towards the door, as if she expected some dark form to
 appear at those propitious moments, and make the party one too many.
 
 Otherwise, Affery never said or did anything to attract the attention of
 the two clever ones towards her in any marked degree, except on certain
-occasions, generally at about the quiet hour towards bed-time, when she
+occasions, generally at about the quiet hour towards bed-[[Time|time]], when she
 would suddenly dart out of her dim corner, and whisper with a face of
-terror to Mr Flintwinch, reading the paper near Mrs Clennam’s little
+terror to Mr Flintwinch, reading the paper near [[Mrs Clennam]]’s little
 table:
 
 ‘There, Jeremiah! Now! What’s that noise?’

@@ -1,5 +1,5 @@
 ---
-title: "A Descent Into the Maelstrom (part 7)"
+title: "[[A Descent Into the Maelstrom]] (part 7)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/A-Descent-Into-the-Maelstrom-(Poe)"
@@ -15,8 +15,8 @@ tags:
 
 
       “I no longer hesitated what to do. I resolved to lash myself
-      securely to the water cask upon which I now held, to cut it loose
-      from the counter, and to throw myself with it into the water. I
+      securely to the [[Water|water]] cask upon which I now held, to cut it loose
+      from the counter, and to throw myself with it into the [[Water|water]]. I
       attracted my brother’s attention by signs, pointed to the
       floating barrels that came near us, and did everything in my
       power to make him understand what I was about to do. I thought at
@@ -40,14 +40,14 @@ tags:
       succession, and, bearing my loved brother with it, plunged
       headlong, at once and forever, into the chaos of foam below. The
       barrel to which I was attached sunk very little farther than half
-      the distance between the bottom of the gulf and the spot at which
+      the distance between the [[Bottom|bottom]] of the gulf and the spot at which
       I leaped overboard, before a great change took place in the
       character of the whirlpool. The slope of the sides of the vast
       funnel became momently less and less steep. The gyrations of the
       whirl grew, gradually, less and less violent. By degrees, the
-      froth and the rainbow disappeared, and the bottom of the gulf
+      froth and the rainbow disappeared, and the [[Bottom|bottom]] of the gulf
       seemed slowly to uprise. The sky was clear, the winds had gone
-      down, and the full moon was setting radiantly in the west, when I
+      down, and the full [[Moon|moon]] was setting radiantly in the west, when I
       found myself on the surface of the ocean, in full view of the
       shores of Lofoden, and above the spot where the pool of the
       Moskoe-ström _had been_. It was the hour of the slack—but the sea
@@ -56,11 +56,11 @@ tags:
       and in a few minutes was hurried down the coast into the
       ‘grounds’ of the fishermen. A boat picked me up—exhausted from
       fatigue—and (now that the danger was removed) speechless from the
-      memory of its horror. Those who drew me on board were my old
+      [[Memory|memory]] of its horror. Those who drew me on board were my old
       mates and daily companions—but they knew me no more than they
       would have known a traveller from the spirit-land. My hair which
       had been raven-black the day before, was as white as you see it
       now. They say too that the whole expression of my countenance had
       changed. I told them my story—they did not believe it. I now tell
-      it to _you_—and I can scarcely expect you to put more faith in it
+      it to _you_—and I can scarcely expect you to put more [[Faith|faith]] in it
       than did the merry fishermen of Lofoden.”

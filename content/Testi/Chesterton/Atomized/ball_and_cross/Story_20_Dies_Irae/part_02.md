@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — Dies Irae (part 2)"
+title: "ball and [[Cross|cross]] — Dies Irae (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -19,7 +19,7 @@ Turnbull growled something which was presumably assent.
 The Master went on smoothly:  "It was in vain for us to urge that
 the incident was irrelevant; that there were many such fanatics,
 many such executions.  We were forced to take the thing thoroughly
-in hand, to investigate it in the spirit of scientific history,
+in hand, to investigate it in the spirit of scientific [[history]],
 and with the assistance of Mr. Turnbull and others we were happy
 in being able to announce that this alleged Crucifixion never
 occurred at all."
@@ -29,9 +29,9 @@ but Turnbull did not look up.
 
 "This, we found, was the only way with all superstitions,"
 continued the speaker; "it was necessary to deny them historically, and we
-have done it with great success in the case of miracles and such things.
-Now within our own time there arose an unfortunate fuss which threatened
-(as Mr. Turnbull would say) to galvanize the corpse of Christianity
+have done it with great [[success]] in the case of miracles and such things.
+Now within our own [[Time|time]] there arose an unfortunate fuss which threatened
+(as Mr. Turnbull would say) to galvanize the corpse of [[Christianity]]
 into a fictitious life--the alleged case of a Highland eccentric
 who wanted to fight for the Virgin."
 
@@ -40,18 +40,18 @@ not alter his easy attitude or his flow of words.  "Again we urged
 that this duel was not to be admired, that it was a mere brawl,
 but the people were ignorant and romantic.  There were signs of
 treating this alleged Highlander and his alleged opponent as heroes.
-We tried all other means of arresting this reactionary hero worship.
+We tried all other means of arresting this reactionary [[Hero|hero]] worship.
 Working men who betted on the duel were imprisoned for gambling.
 Working men who drank the health of a duellist were imprisoned
 for drunkenness.  But the popular excitement about the alleged
 duel continued, and we had to fall back on our old historical method.
 We investigated, on scientific principles, the story of
 MacIan's challenge, and we are happy to be able to inform
-you that the whole story of the attempted duel is a fable.
+you that the whole story of the attempted duel is a [[Fable|fable]].
 There never was any challenge.  There never was any man named MacIan.
 It is a melodramatic myth, like Calvary."
 
-Not a soul moved save Turnbull, who lifted his head; yet there
+Not a [[Soul|soul]] moved save Turnbull, who lifted his head; yet there
 was the sense of a silent explosion.
 
 "The whole story of the MacIan challenge," went on the Master,
@@ -69,7 +69,7 @@ out of the crowd in their indignation, but the speaker continued:
 
 "One poor woman we have with us," he said, in a compassionate voice,
 "believes she was in a motor-car with two such men; this is
-the well-known illusion of speed on which I need not dwell.
+the [[Well|well]]-known illusion of [[Speed|speed]] on which I need not dwell.
 Another wretched woman has the simple egotistic mania that she has
 caused the duel.  Madeleine Durand actually professes to have been
 the subject of the fight between MacIan and his enemy, a fight which,
@@ -80,12 +80,12 @@ That is why they are here."
 
 The Master looked round the room, just showing his perfect teeth
 with the perfection of artistic cruelty, exalted for a moment
-in the enormous simplicity of his success, and then walked across
+in the enormous simplicity of his [[success]], and then walked across
 the hall and vanished through an inner door.  His two lieutenants,
 Quayle and Hutton, were left standing at the head of the great army
 of servants and keepers.
 
-"I hope we shall have no more trouble," said Dr. Quayle pleasantly enough,
+"I [[Hope|hope]] we shall have no more trouble," said Dr. Quayle pleasantly enough,
 and addressing Turnbull, who was leaning heavily upon the back
 of a chair.
 
@@ -101,38 +101,38 @@ them all came a shriek as of something quite fresh and frightful.
 
 Two of the three passages leading out of the hall were choked with
 blue smoke.  Another instant and the hall was full of the fog of it,
-and red sparks began to swarm like scarlet bees.
+and red sparks began to swarm like scarlet [[Bees|bees]].
 
-"The place is on fire!" cried Quayle with a scream of indecent terror.
+"The place is on [[Fire|fire]]!" cried Quayle with a scream of indecent terror.
 "Oh, who can have done it?  How can it have happened?"
 
-A light had come into Turnbull's eyes.  "How did the French Revolution
+A light had come into Turnbull's eyes.  "How did the [[French Revolution]]
 happen?" he asked.
 
 "Oh, how should I know!" wailed the other.
 
 "Then I will tell you," said Turnbull; "it happened because some people
-fancied that a French grocer was as respectable as he looked."
+fancied that a French [[grocer]] was as respectable as he looked."
 
 Even as he spoke, as if by confirmation, old Mr. Durand re-entered
 the smoky room quite placidly, wiping the petroleum from his hands
-with a handkerchief.  He had set fire to the building in accordance
+with a handkerchief.  He had set [[Fire|fire]] to the building in accordance
 with the strict principles of the social contract.
 
 But MacIan had taken a stride forward and stood there shaken
 and terrible.  "Now," he cried, panting, "now is the judgement
 of the world.  The doctors will leave this place; the keepers will
 leave this place.  They will leave us in charge of the machinery
-and the machine-guns at the windows.  But we, the lunatics,
+and the [[Machine|machine]]-guns at the windows.  But we, the lunatics,
 will wait to be burned alive if only we may see them go."
 
 "How do you know we shall go?" asked Hutton, fiercely.
 
 "You believe nothing," said MacIan, simply, "and you are insupportably
-afraid of death."
+afraid of [[Death|death]]."
 
-"So this is suicide," sneered the doctor; "a somewhat doubtful
-sign of sanity."
+"So this is [[suicide]]," sneered the doctor; "a somewhat doubtful
+sign of [[Sanity|sanity]]."
 
 "Not at all--this is vengeance," answered Turnbull, quite calmly;
 "a thing which is completely healthy."

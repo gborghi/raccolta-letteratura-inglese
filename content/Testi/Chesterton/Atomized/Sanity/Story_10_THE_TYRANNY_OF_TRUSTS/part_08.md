@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE TYRANNY OF TRUSTS (part 8)"
+title: "[[Sanity]] — THE TYRANNY OF TRUSTS (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-I began by enunciating the paradox that one way of supporting small
+I began by enunciating the [[Paradox|paradox]] that one way of supporting small
 shops would be to support them.  Everybody could do it, but nobody
 can imagine it being done.  In one sense nothing is so simple,
 and in another nothing is so hard.  I went on to point out that without
@@ -35,7 +35,7 @@ that it was as possible to punish cornering as to punish coining.
 Yet to most readers to-day there seems a sort of vital contradiction,
 echoed in the verbal contradiction of saying, "Put not your
 trust in Trusts."  Yet to our fathers this would not seem even
-so much of a paradox as saying, "Put not your trust in princes,"
+so much of a [[Paradox|paradox]] as saying, "Put not your trust in princes,"
 but rather like saying, "Put not your trust in pirates."
 But in applying this to modern conditions, we are checked first
 by a very modern sophistry.
@@ -56,13 +56,13 @@ I am willing to believe that there are people so strangely constituted
 that they like to see a great nation held up by a small gang,
 more lawless than brigands but not so brave.  In short, I am
 willing to admit that there may be people who trust in Trusts.
-I admit it with tears, like those of the benevolent captain
+I admit it with [[Tears|tears]], like those of the benevolent captain
 in the Bab Ballads who said:
 
-    "It's human nature p'raps; if so,
-     Oh, isn't human nature low?"
+    "It's human [[Nature|nature]] p'raps; if so,
+     Oh, isn't human [[Nature|nature]] low?"
 
-I myself doubt whether it is quite so low as that; but I admit
+I myself [[Doubt|doubt]] whether it is quite so low as that; but I admit
 the possibility of this utter lowness; I admit it with weeping
 and lamentation.  But when they tell me it would be impossible to find
 out whether a man is making a Trust or not--that is quite another thing.
@@ -72,7 +72,7 @@ then I laugh; nay, I jeer.
 
 A murder is usually committed, we may infer, when one gentleman
 takes a dislike to the appearance of another gentleman in
-Piccadilly Circus at eleven o'clock in the morning; and steps up
+Piccadilly Circus at eleven o'[[Clock|clock]] in the morning; and steps up
 to the object of his distaste and dexterously cuts his throat.
 He then walks across to the kind policeman who is regulating the traffic,
 and draws his attention to the presence of the corpse on the pavement,
@@ -83,11 +83,11 @@ as brazenly, in communities where they can safely be discovered.
 But the theory of legal impotence looks very extraordinary
 when we consider the sort of things that the police do discover.
 Look at the sort of murders they discover.  An utterly ordinary
-and obscure man in some hole-and-corner house or tenement among ten
+and obscure man in some hole-and-corner [[house]] or tenement among ten
 thousand like it, washes his hands in a sink in a back scullery;
 the operation taking two minutes.  The police can discover that,
 but they could not possibly discover the meeting of men or the sending
-of messages that turn the whole commercial world upside down.
+of messages that turn the whole commercial [[World Upside Down|world upside down]].
 They can track a man that nobody has ever heard of to a place
 where nobody knew he was going, to do something that he took every
 possible precaution that nobody should see.  But they cannot keep
@@ -100,14 +100,14 @@ to know his movements; but they cannot tell when a great combination
 covering half the earth is on the move.  Are the police really
 so foolish as this; or are they at once so foolish and so wise?
 Or if the police were as helpless as Sherlock Holmes thought them,
-what about Sherlock Holmes?  What about the ardent amateur detective
+what about Sherlock Holmes?  What about the ardent amateur [[Detective|detective]]
 about whom all of us have read and some of us (alas!) have written.
 Is there no inspired sleuth to succeed where all the police
 have failed; and prove conclusively from a greasy spot on
 the tablecloth that Mr. Rockefeller is interested in oil?
 Is there no keen-faced man to infer from the late Lord Leverhulme
 buying up a crowd of soap-businesses that he was interested in soap?
-I feel inclined to write a new series of detective stories myself,
+I feel inclined to write a new series of [[Detective|detective]] stories myself,
 about the discovery of these obscure and cryptic things.  They would
 describe Sherlock Holmes with his monstrous magnifying-glass poring
 over a paper and making out one of the headlines letter by letter.

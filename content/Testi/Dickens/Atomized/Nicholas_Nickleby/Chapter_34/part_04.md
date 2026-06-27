@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 34 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 34 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -25,7 +25,7 @@ irritation.
 
 The necessity of a reply was superseded by the unlooked-for entrance
 of a third party--the individual in question--who, bringing his one
-eye (for he had but one) to bear on Ralph Nickleby, made a great many
+eye (for he had but one) to bear on [[Ralph Nickleby]], made a great many
 shambling bows, and sat himself down in an armchair, with his hands on
 his knees, and his short black trousers drawn up so high in the legs by
 the exertion of seating himself, that they scarcely reached below the
@@ -39,7 +39,7 @@ know your face, Mr. Squeers.’
 it hadn’t been for all that I’ve been a-going through. Just lift that
 little boy off the tall stool in the back-office, and tell him to come
 in here, will you, my man?’ said Squeers, addressing himself to Newman.
-‘Oh, he’s lifted his-self off. My son, sir, little Wackford. What do you
+‘Oh, he’s lifted his-[[Self|self]] off. My son, sir, little Wackford. What do you
 think of him, sir, for a specimen of the Dotheboys Hall feeding? Ain’t
 he fit to bust out of his clothes, and start the seams, and make the
 very buttons fly off with his fatness? Here’s flesh!’ cried Squeers,
@@ -54,20 +54,20 @@ father’s closing his finger and thumb in illustration of his remark,
 he uttered a sharp cry, and rubbed the place in the most natural manner
 possible.
 
-‘Well,’ remarked Squeers, a little disconcerted, ‘I had him there; but
+‘[[Well]],’ remarked Squeers, a little disconcerted, ‘I had him there; but
 that’s because we breakfasted early this morning, and he hasn’t had his
 lunch yet. Why you couldn’t shut a bit of him in a door, when he’s had
-his dinner. Look at them tears, sir,’ said Squeers, with a triumphant
+his dinner. Look at them [[Tears|tears]], sir,’ said Squeers, with a triumphant
 air, as Master Wackford wiped his eyes with the cuff of his jacket,
 ‘there’s oiliness!’
 
-‘He looks well, indeed,’ returned Ralph, who, for some purposes of his
+‘He looks [[Well|well]], indeed,’ returned Ralph, who, for some purposes of his
 own, seemed desirous to conciliate the schoolmaster. ‘But how is Mrs
 Squeers, and how are you?’
 
 ‘Mrs. Squeers, sir,’ replied the proprietor of Dotheboys, ‘is as she
 always is--a mother to them lads, and a blessing, and a comfort, and
-a joy to all them as knows her. One of our boys--gorging his-self with
+a joy to all them as knows her. One of our boys--gorging his-[[Self|self]] with
 vittles, and then turning in; that’s their way--got a abscess on him
 last week. To see how she operated upon him with a pen-knife! Oh Lor!’
 said Squeers, heaving a sigh, and nodding his head a great many times,
@@ -84,7 +84,7 @@ something.
 ‘I’ve only just done it, if I’ve done it now,’ replied Squeers. ‘I was
 one blessed bruise, sir,’ said Squeers, touching first the roots of his
 hair, and then the toes of his boots, ‘from HERE to THERE. Vinegar and
-brown paper, vinegar and brown paper, from morning to night. I suppose
+brown paper, vinegar and brown paper, from morning to [[Night|night]]. I suppose
 there was a matter of half a ream of brown paper stuck upon me, from
 first to last. As I laid all of a heap in our kitchen, plastered all
 over, you might have thought I was a large brown-paper parcel, chock
@@ -119,7 +119,7 @@ either sympathy or astonishment--just as the beholder was pleased to
 take it.
 
 ‘Yes, I paid it, every farthing,’ replied Squeers, who seemed to know
-the man he had to deal with, too well to suppose that any blinking of
+the man he had to deal with, too [[Well|well]] to suppose that any blinking of
 the question would induce him to subscribe towards the expenses; ‘I
 wasn’t out of pocket by it after all, either.’
 
@@ -134,7 +134,7 @@ unless we’re sure of our customers. Do you see?’
 ‘Very good,’ rejoined Squeers. ‘Then, after my bill was run up, we
 picked out five little boys (sons of small tradesmen, as was sure pay)
 that had never had the scarlet fever, and we sent one to a cottage where
-they’d got it, and he took it, and then we put the four others to sleep
+they’d got it, and he took it, and then we put the four others to [[Sleep|sleep]]
 with him, and THEY took it, and then the doctor came and attended ‘em
 once all round, and we divided my total among ‘em, and added it on to
 their little bills, and the parents paid it. Ha! ha! ha!’

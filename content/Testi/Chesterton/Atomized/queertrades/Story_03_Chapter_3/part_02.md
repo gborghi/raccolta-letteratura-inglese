@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 3 (part 2)"
+title: "[[queertrades]] — Chapter 3 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/queertrades-(Chesterton)"
@@ -21,15 +21,15 @@ to keep certain appointments and pay certain visits in the village.
 My first visit was to Mr Jervis, the treasurer of our League
 of Christian Amusements, with whom I concluded some business
 touching the claim made by Parkes the gardener in the matter
-of the rolling of our tennis lawn.  I then visited Mrs Arnett,
+of the [[rolling]] of our tennis lawn.  I then visited Mrs Arnett,
 a very earnest churchwoman, but permanently bedridden.
 She is the author of several small works of devotion, and of a book
-of verse, entitled (unless my memory misleads me) Eglantine."
+of verse, entitled (unless my [[Memory|memory]] misleads me) Eglantine."
 
 He uttered all this not only with deliberation, but with something
 that can only be called, by a contradictory phrase, eager deliberation.
-He had, I think, a vague memory in his head of the detectives
-in the detective stories, who always sternly require that nothing
+He had, I think, a vague [[Memory|memory]] in his head of the detectives
+in the [[Detective|detective]] stories, who always sternly require that nothing
 should be kept back.
 
 "I then proceeded," he went on, with the same maddening conscientiousness
@@ -37,7 +37,7 @@ of manner, "to Mr Carr (not Mr James Carr, of course; Mr Robert Carr)
 who is temporarily assisting our organist, and having consulted with him
 (on the subject of a choir boy who is accused, I cannot as yet
 say whether justly or not, of cutting holes in the organ pipes),
-I finally dropped in upon a Dorcas meeting at the house of Miss Brett.
+I finally dropped in upon a Dorcas meeting at the [[house]] of Miss Brett.
 The Dorcas meetings are usually held at the vicarage, but my wife
 being unwell, Miss Brett, a newcomer in our village, but very
 active in church work, had very kindly consented to hold them.
@@ -53,14 +53,14 @@ in these matters of full and exact exposition of the facts,
 to remember and repeat the actual details of a conversation,
 particularly a conversation which (though inspired with a most worthy
 and admirable zeal for good work) was one which did not greatly impress
-the hearer's mind at the time and was in fact--er--mostly about socks.
+the hearer's mind at the [[Time|time]] and was in fact--er--mostly about socks.
 I can, however, remember distinctly that one of the spinster ladies
 (she was a thin person with a woollen shawl, who appeared to feel
 the cold, and I am almost sure she was introduced to me as Miss James)
 remarked that the weather was very changeable.  Miss Brett then offered
 me a cup of tea, which I accepted, I cannot recall in what words.
 Miss Brett is a short and stout lady with white hair.  The only other
-figure in the group that caught my attention was a Miss Mowbray,
+figure in the group that caught my attention was a Miss [[Mowbray]],
 a small and neat lady of aristocratic manners, silver hair, and a high
 voice and colour.  She was the most emphatic member of the party;
 and her views on the subject of pinafores, though expressed with a
@@ -69,20 +69,20 @@ Beside her (although all five ladies were dressed simply in black)
 it could not be denied that the others looked in some way what you
 men of the world would call dowdy.
 
-"After about ten minutes' conversation I rose to go, and as I did so I
+"After about ten minutes' conversation I [[Rose|rose]] to go, and as I did so I
 heard something which--I cannot describe it--something which seemed to--
 but I really cannot describe it."
 
 "What did you hear?"  I asked, with some impatience.
 
-"I heard," said the vicar solemnly, "I heard Miss Mowbray
+"I heard," said the vicar solemnly, "I heard Miss [[Mowbray]]
 (the lady with the silver hair) say to Miss James (the lady
 with the woollen shawl), the following extraordinary words.
-I committed them to memory on the spot, and as soon as circumstances
+I committed them to [[Memory|memory]] on the spot, and as soon as circumstances
 set me free to do so, I noted them down on a piece of paper.
 I believe I have it here."  He fumbled in his breast-pocket, bringing out
 mild things, note-books, circulars and programmes of village concerts.
-"I heard Miss Mowbray say to Miss James, the following words:
+"I heard Miss [[Mowbray]] say to Miss James, the following words:
 `Now's your time, Bill.'"
 
 He gazed at me for a few moments after making this announcement,
@@ -97,10 +97,10 @@ may be incomplete; maiden ladies may have among themselves and in
 exclusively spinster circles wilder customs than I am aware of.
 But it seemed to me odd, and I could almost have sworn (if you will
 not misunderstand the phrase), I should have been strongly impelled
-to maintain at the time that the words, `Now's your time, Bill', were by
+to maintain at the [[Time|time]] that the words, `Now's your time, Bill', were by
 no means pronounced with that upper-class intonation which, as I have
 already said, had up to now characterized Miss Mowbray's conversation.
-In fact, the words, `Now's your time, Bill', would have been,
+In fact, the words, `Now's your [[Time|time]], Bill', would have been,
 I fancy, unsuitable if pronounced with that upper-class intonation.
 
 "I was surprised, I repeat, then, at the remark.  But I was still more
@@ -121,7 +121,7 @@ so I have only been able to render them phonetically.  But she said,"
 and Mr Shorter peered short-sightedly at his papers, "she said:
 `Chuck it, fat 'ead,' and she added something that sounded like `It's
 a kop', or (possibly) `a kopt'.  And then the last cord, either of my
-sanity or the sanity of the universe, snapped suddenly.  My esteemed
+[[Sanity|sanity]] or the [[Sanity|sanity]] of the universe, snapped suddenly.  My esteemed
 friend and helper, Miss Brett, standing by the mantelpiece, said:
 `Put 'is old 'ead in a bag, Sam, and tie 'im up before you start jawin'.
 You'll be kopt yourselves some o' these days with this way of coin'

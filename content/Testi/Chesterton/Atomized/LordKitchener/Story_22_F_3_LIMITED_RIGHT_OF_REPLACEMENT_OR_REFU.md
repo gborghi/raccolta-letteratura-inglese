@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a"
+title: "[[LordKitchener]] — F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/LordKitchener-(Chesterton)"

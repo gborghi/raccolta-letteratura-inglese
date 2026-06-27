@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 27: SAMUEL WELLER MAKES A PILGRIMAGE TO DORKING, AND BEHOLDS (part 2)"
+title: "The [[Pickwick]] Papers — Chapter 27: SAMUEL WELLER MAKES A PILGRIMAGE TO DORKING, AND BEHOLDS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -31,7 +31,7 @@ toast with fierce voracity.
 
 The appearance of the red-nosed man had induced Sam, at first sight, to
 more than half suspect that he was the deputy-shepherd of whom his
-estimable parent had spoken. The moment he saw him eat, all doubt on the
+estimable parent had spoken. The moment he saw him eat, all [[Doubt|doubt]] on the
 subject was removed, and he perceived at once that if he purposed to
 take up his temporary quarters where he was, he must make his footing
 good without delay. He therefore commenced proceedings by putting his
@@ -43,11 +43,11 @@ walking in.
 ‘Why, I do believe he is a Weller!’ said Mrs. W., raising her eyes to
 Sam’s face, with no very gratified expression of countenance.
 
-‘I rayther think he is,’ said the imperturbable Sam; ‘and I hope this
+‘I rayther think he is,’ said the imperturbable Sam; ‘and I [[Hope|hope]] this
 here reverend gen’l’m’n ‘ll excuse me saying that I wish I was _the
 _Weller as owns you, mother-in-law.’
 
-This was a double-barrelled compliment. It implied that Mrs. Weller was
+This was a [[Double|double]]-barrelled compliment. It implied that Mrs. Weller was
 a most agreeable female, and also that Mr. Stiggins had a clerical
 appearance. It made a visible impression at once; and Sam followed up
 his advantage by kissing his mother-in-law.
@@ -60,7 +60,7 @@ his advantage by kissing his mother-in-law.
 it ain’t the right sort o’ thing, ven mothers-in-law is young and good-
 looking, is it, Sir?’
 
-‘It’s all vanity,’ said Mr. Stiggins.
+‘It’s all [[Vanity|vanity]],’ said Mr. Stiggins.
 
 ‘Ah, so it is,’ said Mrs. Weller, setting her cap to rights.
 
@@ -98,12 +98,12 @@ Sam felt very strongly disposed to give the reverend Mr. Stiggins
 something to groan for, but he repressed his inclination, and merely
 asked, ‘What’s the old ‘un up to now?’
 
-‘Up to, indeed!’ said Mrs. Weller, ‘Oh, he has a hard heart. Night after
-night does this excellent man--don’t frown, Mr. Stiggins; I _will _say
+‘Up to, indeed!’ said Mrs. Weller, ‘Oh, he has a hard heart. [[Night]] after
+[[Night|night]] does this excellent man--don’t frown, Mr. Stiggins; I _will _say
 you _are _an excellent man--come and sit here, for hours together, and
 it has not the least effect upon him.’
 
-Well, that is odd,’ said Sam; ‘it ‘ud have a wery considerable effect
+[[Well]], that is odd,’ said Sam; ‘it ‘ud have a wery considerable effect
 upon me, if I wos in his place; I know that.’
 
 ‘The fact is, my young friend,’ said Mr. Stiggins solemnly, ‘he has an
@@ -134,14 +134,14 @@ say the infant negroes were?’ said Mrs. Weller.
 ‘Said the infant negroes were little humbugs,’ repeated Mrs. Weller. And
 they both groaned at the atrocious conduct of the elder Mr. Weller.
 
-A great many more iniquities of a similar nature might have been
+A great many more iniquities of a similar [[Nature|nature]] might have been
 disclosed, only the toast being all eaten, the tea having got very weak,
 and Sam holding out no indications of meaning to go, Mr. Stiggins
 suddenly recollected that he had a most pressing appointment with the
 shepherd, and took himself off accordingly.
 
 The tea-things had been scarcely put away, and the hearth swept up, when
-the London coach deposited Mr. Weller, senior, at the door; his legs
+the [[London]] coach deposited Mr. Weller, senior, at the door; his legs
 deposited him in the bar; and his eyes showed him his son.
 
 ‘What, Sammy!’ exclaimed the father.
@@ -152,14 +152,14 @@ deposited him in the bar; and his eyes showed him his son.
 you’ve managed to get over your mother-in-law, is a mystery to me. I
 only vish you’d write me out the receipt, that’s all.’
 
-‘Hush!’ said Sam, ‘she’s at home, old feller.’
+‘Hush!’ said Sam, ‘she’s at [[Home|home]], old feller.’
 
 She ain’t vithin hearin’,’ replied Mr. Weller; ‘she always goes and
 blows up, downstairs, for a couple of hours arter tea; so we’ll just
 give ourselves a damp, Sammy.’
 
-Saying this, Mr. Weller mixed two glasses of spirits-and-water, and
+Saying this, Mr. Weller mixed two glasses of spirits-and-[[Water|water]], and
 produced a couple of pipes. The father and son sitting down opposite
-each other; Sam on one side of the fire, in the high-backed chair, and
+each other; Sam on one side of the [[Fire|fire]], in the high-backed chair, and
 Mr. Weller, senior, on the other, in an easy ditto, they proceeded to
 enjoy themselves with all due gravity.

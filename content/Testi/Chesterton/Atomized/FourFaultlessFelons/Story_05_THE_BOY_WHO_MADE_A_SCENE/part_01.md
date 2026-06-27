@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE BOY WHO MADE A SCENE (part 1)"
+title: "[[FourFaultlessFelons]] — THE BOY WHO MADE A SCENE (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -38,25 +38,25 @@ unembarrassed; she is everything that a boy is not. But Barbara really
 
 was rather like a boy. That is, she was rather shy, obscurely
 
-imaginative, capable of intellectual friendships and at the same time of
+imaginative, capable of intellectual friendships and at the same [[Time|time]] of
 
 emotional brooding over them; capable of being morbid and by no means
 
 incapable of being secretive. She had that sense of misfit which
 
-embarrasses so many boys, the sense of the soul being too big to be seen
+embarrasses so many boys, the sense of the [[Soul|soul]] being too big to be seen
 
 or confessed, and the tendency to cover the undeveloped emotions with a
 
 convention. One effect of it was that she was of the sort troubled by
 
-Doubt. It might have been religious doubt, at the moment it was a sort of
+[[Doubt]]. It might have been religious [[Doubt|doubt]], at the moment it was a sort of
 
-patriotic doubt, though she would have furiously denied that there was
+patriotic [[Doubt|doubt]], though she would have furiously denied that there was
 
-any doubt about the matter. She had been upset by her glimpse of the
+any [[Doubt|doubt]] about the matter. She had been upset by her glimpse of the
 
-alleged grievances of Egypt or the alleged crimes of England, and the
+alleged grievances of [[Egypt]] or the alleged crimes of England, and the
 
 face of the stranger, the white face with the golden beard and the
 
@@ -72,17 +72,17 @@ them to anyone but herself.
 
 
 
-The Traills had a tragedy, or rather, perhaps, something that Barbara's
+The Traills had a [[Tragedy|tragedy]], or rather, perhaps, something that Barbara's
 
-brooding spirit had come to regard as the dawn of a tragedy. Her younger
+brooding spirit had come to regard as the [[Dawn|dawn]] of a [[Tragedy|tragedy]]. Her younger
 
 brother was still a boy; it might more truly be said that he was still a
 
-child. His mind had never come to a normal maturity, and though opinions
+[[Child|child]]. His mind had never come to a normal maturity, and though opinions
 
-differed about the nature of the deficiency, she was prone in her black
+differed about the [[Nature|nature]] of the deficiency, she was prone in her black
 
-moods to take the darkest view and let it darken the whole house of
+moods to take the darkest view and let it darken the whole [[house]] of
 
 Tallboys. Thus it happened that she said quickly, at the sight of her
 
@@ -106,15 +106,15 @@ matter with you."
 
 
 
-"Well," answered the other, "isn't there something the matter with all of
+"[[Well]]," answered the other, "isn't there something the matter with all of
 
 us?"
 
 
 
-With that she turned abruptly and went back towards the house, dropping
+With that she turned abruptly and went back towards the [[house]], dropping
 
-the flowers she had been making a pretence of gathering, and her sister
+the [[Flowers|flowers]] she had been making a pretence of gathering, and her sister
 
 followed, still deeply disturbed in mind.
 
@@ -122,7 +122,7 @@ followed, still deeply disturbed in mind.
 
 As they came near the portico and veranda, she heard the high voice of
 
-her uncle Tallboys, who was leaning back in a garden chair and talking to
+her uncle Tallboys, who was leaning back in a [[Garden|garden]] chair and talking to
 
 Olive's husband, the Deputy Governor. Tallboys was a lean figure with a
 
@@ -158,7 +158,7 @@ commonplace.
 
 
 
-"In short," the Governor was saying, "I believe the Government scheme is
+"In short," the Governor was saying, "I believe the [[government|Government]] scheme is
 
 admirably adapted to meet a somewhat difficult situation. Extremists of
 
@@ -180,7 +180,7 @@ unwelcome discovery that there were other people present. There was a
 
 very beautifully dressed young gentleman, with hair like black satin, who
 
-seemed to be the local secretary of the Governor; his name was Arthur
+seemed to be the local secretary of the Governor; his name was [[arthur|Arthur]]
 
 Meade. There was an old man with a very obvious chestnut wig and a very
 
@@ -194,11 +194,11 @@ to be the tail-end of a sort of afternoon tea, which made all the more
 
 odd and suspicious the strange behaviour of the only hostess, in straying
 
-to the other garden and tearing up the flowers. Barbara found herself set
+to the other [[Garden|garden]] and tearing up the [[Flowers|flowers]]. Barbara found herself set
 
 down beside a pleasant old clergyman with smooth, silver hair, and an
 
-equally smooth, silver  voice, who talked to her about the Bible and the
+equally smooth, silver  voice, who talked to her about the [[Bible]] and the
 
 Pyramids. She found herself committed to the highly uncomfortable
 
@@ -208,7 +208,7 @@ listen to another.
 
 
 
-This was the more difficult because the Rev. Ernest Snow, the clergyman
+This was the more difficult because the Rev. Ernest [[Snow]], the clergyman
 
 in question, had (for all his mildness) not a little gentle pertinacity.
 

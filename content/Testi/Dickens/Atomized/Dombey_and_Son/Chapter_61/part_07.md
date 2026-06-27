@@ -22,7 +22,7 @@ Miss Tox previously settling her head on one side, and making other
 little arrangements for engraving them on her heart.
 
 “During the six months or so, Richards, which have seen you an inmate
-of this house, you have done your duty. Desiring to connect some little
+of this [[house]], you have done your duty. Desiring to connect some little
 service to you with this occasion, I considered how I could best effect
 that object, and I also advised with my sister, Mrs—”
 
@@ -34,30 +34,30 @@ that object, and I also advised with my sister, Mrs—”
 appalling glance at Mr John, “that I was further assisted in my
 decision, by the recollection of a conversation I held with your
 husband in this room, on the occasion of your being hired, when he
-disclosed to me the melancholy fact that your family, himself at the
+disclosed to me the [[Melancholy|melancholy]] fact that your family, himself at the
 head, were sunk and steeped in ignorance.”
 
 Richards quailed under the magnificence of the reproof.
 
 “I am far from being friendly,” pursued Mr Dombey, “to what is called
-by persons of levelling sentiments, general education. But it is
+by persons of levelling sentiments, general [[Education|education]]. But it is
 necessary that the inferior classes should continue to be taught to
 know their position, and to conduct themselves properly. So far I
-approve of schools. Having the power of nominating a child on the
+approve of schools. Having the power of nominating a [[Child|child]] on the
 foundation of an ancient establishment, called (from a worshipful
 company) the Charitable Grinders; where not only is a wholesome
-education bestowed upon the scholars, but where a dress and badge is
+[[Education|education]] bestowed upon the scholars, but where a dress and badge is
 likewise provided for them; I have (first communicating, through Mrs
 Chick, with your family) nominated your eldest son to an existing
 vacancy; and he has this day, I am informed, assumed the habit. The
 number of her son, I believe,” said Mr Dombey, turning to his sister
-and speaking of the child as if he were a hackney-coach, is one hundred
+and speaking of the [[Child|child]] as if he were a hackney-coach, is one hundred
 and forty-seven. Louisa, you can tell her.”
 
 “One hundred and forty-seven,” said Mrs Chick “The dress, Richards, is
 a nice, warm, blue baize tailed coat and cap, turned up with orange
 coloured binding; red worsted stockings; and very strong leather
-small-clothes. One might wear the articles one’s self,” said Mrs Chick,
+small-clothes. One might wear the articles one’s [[Self|self]],” said Mrs Chick,
 with enthusiasm, “and be grateful.”
 
 “There, Richards!” said Miss Tox. “Now, indeed, you may be proud. The
@@ -65,15 +65,15 @@ Charitable Grinders!”
 
 “I am sure I am very much obliged, Sir,” returned Richards faintly,
 “and take it very kind that you should remember my little ones.” At the
-same time a vision of Biler as a Charitable Grinder, with his very
+same [[Time|time]] a vision of Biler as a Charitable Grinder, with his very
 small legs encased in the serviceable clothing described by Mrs Chick,
-swam before Richards’s eyes, and made them water.
+swam before Richards’s eyes, and made them [[Water|water]].
 
 “I am very glad to see you have so much feeling, Richards,” said Miss
 Tox.
 
-“It makes one almost hope, it really does,” said Mrs Chick, who prided
-herself on taking trustful views of human nature, “that there may yet
+“It makes one almost [[Hope|hope]], it really does,” said Mrs Chick, who prided
+herself on taking trustful views of human [[Nature|nature]], “that there may yet
 be some faint spark of gratitude and right feeling in the world.”
 
 Richards deferred to these compliments by curtseying and murmuring her
@@ -83,17 +83,17 @@ precocious nether garments, she gradually approached the door and was
 heartily relieved to escape by it.
 
 Such temporary indications of a partial thaw that had appeared with
-her, vanished with her; and the frost set in again, as cold and hard as
-ever. Mr Chick was twice heard to hum a tune at the bottom of the
-table, but on both occasions it was a fragment of the Dead March in
+her, vanished with her; and the [[Frost|frost]] set in again, as cold and hard as
+ever. Mr Chick was twice heard to hum a tune at the [[Bottom|bottom]] of the
+table, but on both occasions it was a [[Fragment|fragment]] of the Dead March in
 Saul. The party seemed to get colder and colder, and to be gradually
 resolving itself into a congealed and solid state, like the collation
 round which it was assembled. At length Mrs Chick looked at Miss Tox,
-and Miss Tox returned the look, and they both rose and said it was
-really time to go. Mr Dombey receiving this announcement with perfect
+and Miss Tox returned the look, and they both [[Rose|rose]] and said it was
+really [[Time|time]] to go. Mr Dombey receiving this announcement with perfect
 equanimity, they took leave of that gentleman, and presently departed
 under the protection of Mr Chick; who, when they had turned their backs
-upon the house and left its master in his usual solitary state, put his
+upon the [[house]] and left its master in his usual solitary state, put his
 hands in his pockets, threw himself back in the carriage, and whistled
 “With a hey ho chevy!” all through; conveying into his face as he did
 so, an expression of such gloomy and terrible defiance, that Mrs Chick
@@ -123,23 +123,23 @@ much, I think when he was asked.”
 “No, Mrs Richards, quite contrairy,” returned Susan, “and them two
 inspectors Tox and Chick, not intending to be on duty tomorrow, as I
 heard ’em say, me and Miss Floy will go along with you tomorrow
-morning, and welcome, Mrs Richards, if you like, for we may as well
+morning, and welcome, Mrs Richards, if you like, for we may as [[Well|well]]
 walk there as up and down a street, and better too.”
 
 Polly rejected the idea pretty stoutly at first; but by little and
 little she began to entertain it, as she entertained more and more
-distinctly the forbidden pictures of her children, and her own home. At
+distinctly the forbidden pictures of her children, and her own [[Home|home]]. At
 length, arguing that there could be no great harm in calling for a
 moment at the door, she yielded to the Nipper proposition.
 
 The matter being settled thus, little Paul began to cry most piteously,
 as if he had a foreboding that no good would come of it.
 
-“What’s the matter with the child?” asked Susan.
+“What’s the matter with the [[Child|child]]?” asked Susan.
 
 “He’s cold, I think,” said Polly, walking with him to and fro, and
 hushing him.
 
 It was a bleak autumnal afternoon indeed; and as she walked, and
 hushed, and, glancing through the dreary windows, pressed the little
-fellow closer to her breast, the withered leaves came showering down.
+fellow closer to her breast, the withered [[Leaves|leaves]] came showering down.

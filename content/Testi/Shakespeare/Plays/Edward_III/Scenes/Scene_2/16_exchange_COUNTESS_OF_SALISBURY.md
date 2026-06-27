@@ -1,5 +1,5 @@
 ---
-title: "Edward III — Scene 2 — exchange (COUNTESS OF SALISBURY) [16]"
+title: "[[Edward III]] — Scene 2 — exchange ([[Countess of Salisbury|COUNTESS OF SALISBURY]]) [16]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/EDWARD-III-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| COUNTESS OF SALISBURY | My lord and father, I have sought for you. My mother and the peers importune you To keep in presence of his majesty, And do your best to make his highness merry. |
+| [[Countess of Salisbury|COUNTESS OF SALISBURY]] | My lord and father, I have sought for you. My mother and the peers importune you To keep in presence of his majesty, And do your best to make his highness merry. |

@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 14"
+title: "[[The Professor]] — Chapter 14"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -30,7 +30,7 @@ heard a rapid, gabbling sound, which warned me that the “priere du midi”
 
 been impious to intrude my heretical presence during its progress. How
 
-the repeater of the prayer did cackle and splutter! I never before or
+the repeater of the [[Prayer|prayer]] did cackle and splutter! I never before or
 
 since heard language enounced with such steam-engine haste. “Notre Pere
 
@@ -46,15 +46,15 @@ and striding in fast, as it was my wont to do now; for I had found
 
 that in entering with aplomb, and mounting the estrade with emphasis,
 
-consisted the grand secret of ensuring immediate silence. The
+consisted the grand secret of ensuring immediate [[Silence|silence]]. The
 
-folding-doors between the two classes, opened for the prayer, were
+folding-doors between the two classes, opened for the [[Prayer|prayer]], were
 
 instantly closed; a maitresse, work-box in hand, took her seat at her
 
 appropriate desk; the pupils sat still with their pens and books before
 
-them; my three beauties in the van, now well humbled by a demeanour of
+them; my three beauties in the van, now [[Well|well]] humbled by a demeanour of
 
 consistent coolness, sat erect with their hands folded quietly on their
 
@@ -72,7 +72,7 @@ orbs as interpreters, I do not think I could have refrained from giving
 
 a kind and encouraging, perhaps an ardent reply now and then; but as it
 
-was, I found pleasure in answering the glance of vanity with the gaze
+was, I found pleasure in answering the glance of [[Vanity|vanity]] with the gaze
 
 of stoicism. Youthful, fair, brilliant, as were many of my pupils, I can
 
@@ -80,9 +80,9 @@ truly say that in me they never saw any other bearing than such as an
 
 austere, though just guardian, might have observed towards them. If any
 
-doubt the accuracy of this assertion, as inferring more conscientious
+[[Doubt|doubt]] the accuracy of this assertion, as inferring more conscientious
 
-self-denial or Scipio-like self-control than they feel disposed to
+[[Self|self]]-denial or Scipio-like [[Self|self]]-control than they feel disposed to
 
 give me credit for, let them take into consideration the following
 
@@ -104,19 +104,19 @@ muslin, with hair perfumed and curled, neck scarcely shaded by aerial
 
 lace, round white arms circled with bracelets, feet dressed for the
 
-gliding dance. It is not his business to whirl her through the waltz,
+gliding [[Dance|dance]]. It is not his business to whirl her through the waltz,
 
-to feed her with compliments, to heighten her beauty by the flush of
+to feed her with compliments, to heighten her [[Beauty|beauty]] by the flush of
 
-gratified vanity. Neither does he encounter her on the smooth-rolled,
+gratified [[Vanity|vanity]]. Neither does he encounter her on the smooth-rolled,
 
 tree shaded Boulevard, in the green and sunny park, whither she repairs
 
 clad in her becoming walking dress, her scarf thrown with grace over her
 
-shoulders, her little bonnet scarcely screening her curls, the red rose
+shoulders, her little bonnet scarcely screening her curls, the red [[Rose|rose]]
 
-under its brim adding a new tint to the softer rose on her cheek; her
+under its brim adding a new tint to the softer [[Rose|rose]] on her cheek; her
 
 face and eyes, too, illumined with smiles, perhaps as transient as the
 
@@ -130,11 +130,11 @@ her Blenheim spaniel or Italian greyhound. No: he finds her in the
 
 schoolroom, plainly dressed, with books before her. Owing to her
 
-education or her nature books are to her a nuisance, and she opens them
+[[Education|education]] or her [[Nature|nature]] books are to her a nuisance, and she opens them
 
 with aversion, yet her teacher must instil into her mind the contents
 
-of these books; that mind resists the admission of grave information, it
+of these books; that mind resists the admission of [[Grave|grave]] information, it
 
 recoils, it grows restive, sullen tempers are shown, disfiguring frowns
 
@@ -156,9 +156,9 @@ tutor, female youth, female charms are like tapestry hangings, of which
 
 the wrong side is continually turned towards him; and even when he sees
 
-the smooth, neat external surface he so well knows what knots, long
+the smooth, neat external surface he so [[Well|well]] knows what knots, long
 
-stitches, and jagged ends are behind that he has scarce a temptation to
+stitches, and jagged ends are behind that he has scarce a [[Temptation|temptation]] to
 
 admire too fondly the seemly forms and bright colours exposed to general
 
@@ -166,7 +166,7 @@ view.
 
 
 
-Our likings are regulated by our circumstances. The artist prefers a
+Our likings are regulated by our circumstances. The [[artist]] prefers a
 
 hilly country because it is picturesque; the engineer a flat one because
 
@@ -176,9 +176,9 @@ woman”--she suits him; the fashionable young gentleman admires the
 
 fashionable young lady--she is of his kind; the toil-worn, fagged,
 
-probably irritable tutor, blind almost to beauty, insensible to airs and
+probably irritable tutor, blind almost to [[Beauty|beauty]], insensible to airs and
 
-graces, glories chiefly in certain mental qualities: application, love
+graces, glories chiefly in certain mental qualities: application, [[Love|love]]
 
 of knowledge, natural capacity, docility, truthfulness, gratefulness,
 
@@ -188,7 +188,7 @@ seeks, but seldom meets; these, if by chance he finds, he would fain
 
 retain for ever, and when separation deprives him of them he feels as if
 
-some ruthless hand had snatched from him his only ewe-lamb. Such being
+some ruthless hand had snatched from him his only ewe-[[Lamb|lamb]]. Such being
 
 the case, and the case it is, my readers will agree with me that there
 
@@ -214,13 +214,13 @@ the second place had fallen to the lot of a certain Leonie Ledru, a
 
 diminutive, sharp-featured, and parchment-skinned creature of quick
 
-wits, frail conscience, and indurated feelings; a lawyer-like thing, of
+wits, frail [[Conscience|conscience]], and indurated feelings; a lawyer-like thing, of
 
 whom I used to say that, had she been a boy, she would have made a
 
 model of an unprincipled, clever attorney. Then came Eulalie, the proud
 
-beauty, the Juno of the school, whom six long years of drilling in the
+[[Beauty|beauty]], the Juno of the school, whom six long years of drilling in the
 
 simple grammar of the English language had compelled, despite the stiff
 
@@ -254,7 +254,7 @@ hand on her head, in token of approbation; I thought Sylvie was going to
 
 smile, her dim eye almost kindled; but, presently, she shrank from me;
 
-I was a man and a heretic; she, poor child! a destined nun and devoted
+I was a man and a heretic; she, poor [[Child|child]]! a destined nun and devoted
 
 Catholic: thus a four-fold wall of separation divided her mind from
 
@@ -264,7 +264,7 @@ testifying her gratification; Eulalie looked sullen and envious--she had
 
 hoped to be first. Hortense and Caroline exchanged a reckless grimace on
 
-hearing their names read out somewhere near the bottom of the list; the
+hearing their names read out somewhere near the [[Bottom|bottom]] of the list; the
 
 brand of mental inferiority was considered by them as no disgrace, their
 
@@ -276,7 +276,7 @@ This affair arranged, the regular lesson followed. During a brief
 
 interval, employed by the pupils in ruling their books, my eye, ranging
 
-carelessly over the benches, observed, for the first time, that the
+carelessly over the benches, observed, for the first [[Time|time]], that the
 
 farthest seat in the farthest row--a seat usually vacant--was
 
@@ -308,7 +308,7 @@ countenance, her lineaments, her figure, were all distinct from theirs,
 
 and, evidently, the type of another race--of a race less gifted with
 
-fullness of flesh and plenitude of blood; less jocund, material,
+fullness of flesh and plenitude of [[Blood|blood]]; less jocund, material,
 
 unthinking. When I first cast my eyes on her, she sat looking fixedly
 
@@ -318,11 +318,11 @@ till I commenced the lesson. None of the Belgian girls would have
 
 retained one position, and that a reflective one, for the same length of
 
-time. Yet, having intimated that her appearance was peculiar, as
+[[Time|time]]. Yet, having intimated that her appearance was peculiar, as
 
 being unlike that of her Flemish companions, I have little more to say
 
-respecting it; I can pronounce no encomiums on her beauty, for she was
+respecting it; I can pronounce no encomiums on her [[Beauty|beauty]], for she was
 
 not beautiful; nor offer condolence on her plainness, for neither
 
@@ -338,7 +338,7 @@ crotchety observer.
 
 Now, reader, though I have spent more than a page in describing Mdlle.
 
-Henri, I know well enough that I have left on your mind’s eye no
+Henri, I know [[Well|well]] enough that I have left on your mind’s eye no
 
 distinct picture of her; I have not painted her complexion, nor her
 
@@ -368,9 +368,9 @@ would not help her, I went on relentless. She looked at me; her eye
 
 said most plainly, “I cannot follow you.” I disregarded the appeal, and,
 
-carelessly leaning back in my chair, glancing from time to time with a
+carelessly leaning back in my chair, glancing from [[Time|time]] to [[Time|time]] with a
 
-NONCHALANT air out of the window, I dictated a little faster. On looking
+NONCHALANT air out of the [[Window|window]], I dictated a little faster. On looking
 
 towards her again, I perceived her face clouded with embarrassment, but
 
@@ -396,7 +396,7 @@ stupid. Glancing over her exercise, I found that several lines had been
 
 omitted, but what was written contained very few faults; I instantly
 
-inscribed “Bon” at the bottom of the page, and returned it to her; she
+inscribed “Bon” at the [[Bottom|bottom]] of the page, and returned it to her; she
 
 smiled, at first incredulously, then as if reassured, but did not
 

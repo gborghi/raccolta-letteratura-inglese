@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 8"
+title: "[[Sense and Sensibility]] — Chapter 8"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -34,13 +34,13 @@ weddings among all the young people of her acquaintance. She was
 
 remarkably quick in the discovery of attachments, and had enjoyed the
 
-advantage of raising the blushes and the vanity of many a young lady by
+advantage of raising the blushes and the [[Vanity|vanity]] of many a young lady by
 
 insinuations of her power over such a young man; and this kind of
 
 discernment enabled her soon after her arrival at Barton decisively to
 
-pronounce that Colonel Brandon was very much in love with Marianne
+pronounce that [[Colonel Brandon]] was very much in [[Love|love]] with Marianne
 
 Dashwood. She rather suspected it to be so, on the very first evening
 
@@ -54,7 +54,7 @@ It must be so. She was perfectly convinced of it. It would be an
 
 excellent match, for _he_ was rich, and _she_ was handsome. Mrs.
 
-Jennings had been anxious to see Colonel Brandon well married, ever
+Jennings had been anxious to see [[Colonel Brandon]] [[Well|well]] married, ever
 
 since her connection with Sir John first brought him to her knowledge;
 
@@ -94,11 +94,11 @@ wishing to throw ridicule on his age.
 
 “But at least, Mama, you cannot deny the absurdity of the accusation,
 
-though you may not think it intentionally ill-natured. Colonel Brandon
+though you may not think it intentionally ill-natured. [[Colonel Brandon]]
 
 is certainly younger than Mrs. Jennings, but he is old enough to be
 
-_my_ father; and if he were ever animated enough to be in love, must
+_my_ father; and if he were ever animated enough to be in [[Love|love]], must
 
 have long outlived every sensation of the kind. It is too ridiculous!
 
@@ -108,7 +108,7 @@ protect him?”
 
 
 
-“Infirmity!” said Elinor, “do you call Colonel Brandon infirm? I can
+“Infirmity!” said Elinor, “do you call [[Colonel Brandon]] infirm? I can
 
 easily suppose that his age may appear much greater to you than to my
 
@@ -124,19 +124,19 @@ commonest infirmity of declining life?”
 
 
 
-“My dearest child,” said her mother, laughing, “at this rate you must
+“My dearest [[Child|child]],” said her mother, laughing, “at this rate you must
 
-be in continual terror of _my_ decay; and it must seem to you a miracle
+be in continual terror of _my_ [[Decay|decay]]; and it must seem to you a miracle
 
 that my life has been extended to the advanced age of forty.”
 
 
 
-“Mama, you are not doing me justice. I know very well that Colonel
+“Mama, you are not doing me justice. I know very [[Well|well]] that Colonel
 
 Brandon is not old enough to make his friends yet apprehensive of
 
-losing him in the course of nature. He may live twenty years longer.
+losing him in the course of [[Nature|nature]]. He may live twenty years longer.
 
 But thirty-five has nothing to do with matrimony.”
 
@@ -148,7 +148,7 @@ any thing to do with matrimony together. But if there should by any
 
 chance happen to be a woman who is single at seven and twenty, I should
 
-not think Colonel Brandon’s being thirty-five any objection to his
+not think [[Colonel Brandon]]’s being thirty-five any objection to his
 
 marrying _her_.”
 
@@ -156,11 +156,11 @@ marrying _her_.”
 
 “A woman of seven and twenty,” said Marianne, after pausing a moment,
 
-“can never hope to feel or inspire affection again, and if her home be
+“can never [[Hope|hope]] to feel or inspire affection again, and if her [[Home|home]] be
 
 uncomfortable, or her fortune small, I can suppose that she might bring
 
-herself to submit to the offices of a nurse, for the sake of the
+herself to submit to the offices of a [[Nurse|nurse]], for the sake of the
 
 provision and security of a wife. In his marrying such a woman
 
@@ -168,7 +168,7 @@ therefore there would be nothing unsuitable. It would be a compact of
 
 convenience, and the world would be satisfied. In my eyes it would be
 
-no marriage at all, but that would be nothing. To me it would seem only
+no [[Marriage|marriage]] at all, but that would be nothing. To me it would seem only
 
 a commercial exchange, in which each wished to be benefited at the
 
@@ -180,9 +180,9 @@ expense of the other.”
 
 a woman of seven and twenty could feel for a man of thirty-five
 
-anything near enough to love, to make him a desirable companion to her.
+anything near enough to [[Love|love]], to make him a desirable companion to her.
 
-But I must object to your dooming Colonel Brandon and his wife to the
+But I must object to your dooming [[Colonel Brandon]] and his wife to the
 
 constant confinement of a sick chamber, merely because he chanced to
 
@@ -214,7 +214,7 @@ Soon after this, upon Elinor’s leaving the room, “Mama,” said Marianne,
 
 “I have an alarm on the subject of illness which I cannot conceal from
 
-you. I am sure Edward Ferrars is not well. We have now been here almost
+you. I am sure [[Edward Ferrars]] is not [[Well|well]]. We have now been here almost
 
 a fortnight, and yet he does not come. Nothing but real indisposition
 
@@ -246,7 +246,7 @@ yesterday of getting a new grate for the spare bedchamber, she observed
 
 that there was no immediate hurry for it, as it was not likely that the
 
-room would be wanted for some time.”
+room would be wanted for some [[Time|time]].”
 
 
 
@@ -262,12 +262,12 @@ distinction between Elinor and me: it was the good wishes of an
 
 affectionate brother to both. Twice did I leave them purposely together
 
-in the course of the last morning, and each time did he most
+in the course of the last morning, and each [[Time|time]] did he most
 
 unaccountably follow me out of the room. And Elinor, in quitting
 
-Norland and Edward, cried not as I did. Even now her self-command is
+Norland and Edward, cried not as I did. Even now her [[Self|self]]-command is
 
-invariable. When is she dejected or melancholy? When does she try to
+invariable. When is she dejected or [[Melancholy|melancholy]]? When does she try to
 
 avoid society, or appear restless and dissatisfied in it?”

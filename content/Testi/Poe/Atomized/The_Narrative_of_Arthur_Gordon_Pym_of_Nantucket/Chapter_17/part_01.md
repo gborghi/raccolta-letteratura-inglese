@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 18 (part 1)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 18 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -24,7 +24,7 @@ _January 18._ This morning[4] we continued to the southward, with the
 
 same pleasant weather as before. The sea was entirely smooth, the air
 
-tolerably warm and from the northeast, the temperature of the water
+tolerably warm and from the northeast, the temperature of the [[Water|water]]
 
 fifty-three. We now again got our sounding-gear in order, and, with a
 
@@ -32,7 +32,7 @@ hundred and fifty fathoms of line, found the current setting towards
 
 the pole at the rate of a mile an hour. This constant tendency to the
 
-southward, both in the wind and current, caused some degree of
+southward, both in the [[Wind|wind]] and current, caused some degree of
 
 speculation, and even of alarm, in different quarters of the schooner,
 
@@ -56,7 +56,7 @@ inches in height, with four very short legs, the feet armed with long
 
 claws of a brilliant scarlet, and resembling coral in substance. The
 
-body was covered with a straight silky hair, perfectly white. The tail
+[[Body|body]] was covered with a straight silky hair, perfectly white. The tail
 
 was peaked like that of a rat, and about a foot and a half long. The
 
@@ -72,11 +72,11 @@ scarlet as the claws.
 
 of to avoid confusion in my narrative, as far as possible, must not, of
 
-course, be taken in their ordinary sense. For a long time past we had
+course, be taken in their ordinary sense. For a long [[Time|time]] past we had
 
-had no night at all, the daylight being continual. The dates throughout
+had no [[Night|night]] at all, the daylight being continual. The dates throughout
 
-are according to nautical time, and the bearings must be understood as
+are according to nautical [[Time|time]], and the bearings must be understood as
 
 per compass. I would also remark in this place, that I cannot, in the
 
@@ -86,7 +86,7 @@ respect to dates, or latitudes and longitudes, having kept no regular
 
 journal until after the period of which this first portion treats. In
 
-many instances I have relied altogether upon memory.]
+many instances I have relied altogether upon [[Memory|memory]].]
 
 
 
@@ -98,25 +98,25 @@ from the masthead, and, upon a closer scrutiny, found it to be one of a
 
 group of very large islands. The shore was precipitous, and the
 
-interior seemed to be well wooded, a circumstance which occasioned us
+interior seemed to be [[Well|well]] wooded, a circumstance which occasioned us
 
 great joy. In about four hours from our first discovering the land we
 
-came to anchor in ten fathoms, sandy bottom, a league from the coast,
+came to anchor in ten fathoms, sandy [[Bottom|bottom]], a league from the coast,
 
 as a high surf, with strong ripples here and there, rendered a nearer
 
 approach of doubtful expediency. The two largest boats were now ordered
 
-out, and a party, well armed (among whom were Peters and myself),
+out, and a party, [[Well|well]] armed (among whom were Peters and myself),
 
 proceeded to look for an opening in the reef which appeared to encircle
 
-the island. After searching about for some time, we discovered an
+the island. After searching about for some [[Time|time]], we discovered an
 
 inlet, which we were entering, when we saw four large canoes put off
 
-from the shore, filled with men who seemed to be well armed. We waited
+from the shore, filled with men who seemed to be [[Well|well]] armed. We waited
 
 for them to come up, and, as they moved with great rapidity, they were
 
@@ -144,7 +144,7 @@ Their complexion a jet black, with thick and long woolly hair. They
 
 were clothed in skins of an unknown black animal, shaggy and silky, and
 
-made to fit the body with some degree of skill, the hair being inside,
+made to fit the [[Body|body]] with some degree of skill, the hair being inside,
 
 except where turned out about the neck, wrists, and ankles. Their arms
 
@@ -176,7 +176,7 @@ advanced towards us with his own. As soon as he came up with us he
 
 leaped on board the largest of our boats, and seated himself by the
 
-side of Captain Guy, pointing at the same time to the schooner, and
+side of Captain Guy, pointing at the same [[Time|time]] to the schooner, and
 
 repeating the words _Anamoo-moo!_ and _Lama-Lama!_ We now put back to
 
@@ -198,7 +198,7 @@ boats to be hoisted up, as a necessary precaution, and gave the chief
 
 (whose name we soon found to be _Too-wit_) to understand that we could
 
-admit no more than twenty of his men on deck at one time. With this
+admit no more than twenty of his men on deck at one [[Time|time]]. With this
 
 arrangement he appeared perfectly satisfied, and gave some directions
 

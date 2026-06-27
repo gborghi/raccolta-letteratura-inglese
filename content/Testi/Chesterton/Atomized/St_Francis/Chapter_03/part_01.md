@@ -28,7 +28,7 @@ and his companions called him "Francesco", or "The little Frenchman"
 because of his passion for the French poetry of the Troubadours.
 The more probable story is that his mother had him named John
 when he was born in the absence of his father, who shortly returned
-from a visit to France, Where his commercial success had filled
+from a visit to France, Where his commercial [[success]] had filled
 him with so much enthusiasm for French taste and social usage that
 he gave his son the new name signifying the Frank or Frenchman.
 In either case the name had a certain significance, as connecting
@@ -71,7 +71,7 @@ believed to be one of the habits of princes.  This first glimpse
 of the young man in the market is symbolic in more ways than one.
 An incident occurred which is perhaps the shortest and sharpest summary
 that could be given of certain curious things which were a part of
-his character, long before it was transfigured by transcendental faith.
+his character, long before it was transfigured by transcendental [[Faith|faith]].
 While he was selling velvet and fine embroideries to some solid
 merchant of the town a beggar came imploring alms; evidently in
 a somewhat tactless manner.  It was a rude and simple society
@@ -84,23 +84,23 @@ forbidding outsiders to interrupt a fair bargain; and it is possible
 that some such thing put the mendicant more than normally in the wrong.
 Francis had all his life a great liking for people who had been
 put hopelessly in the wrong.  On this occasion he seems to have
-dealt with the double interview with rather a divided mind;
+dealt with the [[Double|double]] interview with rather a divided mind;
 certainly with distraction, possibly with irritation.
 Perhaps he was all the more uneasy because of the almost
 fastidious standard of manners that came to him quite naturally.
 All are agreed that politeness flowed from him from the first,
 like one of the public fountains in such a sunny Italian market place.
-He might have written among his own poems as his own motto that verse
+He might have written among his own [[Poems|poems]] as his own motto that verse
 of Mr. Belloc's poem--
 
       "Of Courtesy, it is much less
-       Than courage of heart or holiness
+       Than [[Courage|courage]] of heart or holiness
        Yet in my walks it seems to me
        That the grace of God is in Courtesy."
 
-Nobody ever doubted that Francis Bernadone had courage of heart,
-even of the most manly and military sort; and a time was to come when
-there was quite as little doubt about the holiness and grace of God.
+Nobody ever doubted that Francis Bernadone had [[Courage|courage]] of heart,
+even of the most manly and military sort; and a [[Time|time]] was to come when
+there was quite as little [[Doubt|doubt]] about the holiness and grace of God.
 But I think that if there was one thing about which he was punctilious,
 it was punctiliousness.  If there was one thing of which so humble
 a man could be said to be proud, he was proud of good manners.

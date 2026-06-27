@@ -15,20 +15,20 @@ tags:
 
 
 What I mean about the Nationalist Party, and what may be called its
-prophetic shadow of the Sinn Fein mistake, may well be symbolised in
+prophetic [[Shadow|shadow]] of the Sinn Fein mistake, may [[Well|well]] be symbolised in
 one of the noblest figures of that party or any party.  An Irish poet,
 talking to me about the pointed diction of the Irish peasant,
 said he had recently rejoiced in the society of a drunken Kerry farmer,
-whose conversation was a litany of questions about everything
-in heaven and earth, each ending with a sort of chorus of "Will
+whose conversation was a [[litany]] of questions about everything
+in heaven and earth, each ending with a sort of [[Chorus|chorus]] of "Will
 ye tell me that now?"  And at the end of all he said abruptly,
 "Did ye know Tom Kettle?" and on my friend the poet assenting,
 the farmer said, as if in triumph, "And why are so many people alive
 that ought to be dead, and so many people dead that ought to be alive?
 Will ye tell me that now?"  That is not unworthy of an old heroic poem,
-and therefore not unworthy of the hero and poet of whom it was spoken.
-"Patroclus died, who was a better man than you."  Thomas Michael Kettle
-was perhaps the greatest example of that greatness of spirit which
+and therefore not unworthy of the [[Hero|hero]] and poet of whom it was spoken.
+"Patroclus died, who was a better man than you."  Thomas [[Michael]] Kettle
+was perhaps the greatest example of that [[Greatness|greatness]] of spirit which
 was so ill rewarded on both sides of the channel and of the quarrel,
 which marked Redmond's brother and so many of Redmond's followers.
 He was a wit, a scholar, an orator, a man ambitious in all the arts
@@ -46,8 +46,8 @@ of the great war.
   And a thousand thousand slimy things
   Lived on, and so did I."
 
-It is not a reflection that adds any inordinate self-satisfaction
-to the fact of one's own survival.
+It is not a reflection that adds any inordinate [[Self|self]]-satisfaction
+to the fact of one's own [[Survival|survival]].
 
 In turning over a collection of Kettle's extraordinary varied
 and vigorous writings, which contain some of the most pointed
@@ -70,10 +70,10 @@ were in vain, and whether he and his people were again being betrayed.
 I think nobody can deny that he was betrayed; and it was not by the
 English soldiers with whom he marched to war, but by those very English
 politicians with whom he sacrificed so much to remain at peace.
-No man will ever dare to say his death in battle was in vain,
+No man will ever dare to say his [[Death|death]] in battle was in vain,
 not only because in the highest sense it could never be, but because
 even in the lowest sense it was not.  He hated the icy insolence
-of Prussia; and that ice is broken, and already as weak as water.
+of Prussia; and that ice is broken, and already as weak as [[Water|water]].
 As Carlyle said of a far lesser thing, that at least will never
 through unending ages insult the face of the sun any more.
 The point is here that if any part of his fine work was in vain,
@@ -101,26 +101,26 @@ _VIII--An Example and a Question_
 
 WE all had occasion to rejoice at the return of Sherlock Holmes
 when he was supposed to be dead; and I presume we may soon rejoice
-in his return even when he is really dead.  Sir Arthur Conan Doyle,
+in his return even when he is really dead.  Sir [[arthur|Arthur]] Conan Doyle,
 in his widespread new campaign in favour of Spiritualism,
-ought at least to delight us with the comedy of Holmes as a control
+ought at least to delight us with the [[Comedy|comedy]] of Holmes as a control
 and Watson as a medium.  But I have for the moment a use for the great
-detective not concerned with the psychical side of the question.
+[[Detective|detective]] not concerned with the psychical side of the question.
 Of that I will only say, in passing, that in this as in many other cases,
 I find myself in agreement with an authority about where the line
 is drawn between good and bad, but have the misfortune to think
-his good bad, and his bad good.  Sir Arthur explains that he would
+his good bad, and his bad good.  Sir [[arthur|Arthur]] explains that he would
 lift Spiritualism to a graver and more elevated plane of idealism;
 and that he quite agrees with his critics that the mere
-tricks with tables and chairs are grotesque and vulgar.
+tricks with tables and chairs are [[Grotesque|grotesque]] and vulgar.
 I think this quite true if turned upside down, like the table.
-I do not mind the grotesque and vulgar part of Spiritualism;
-what I object to is the grave and elevating part.  After all,
+I do not mind the [[Grotesque|grotesque]] and vulgar part of Spiritualism;
+what I object to is the [[Grave|grave]] and elevating part.  After all,
 a miracle is a miracle and means something; it means that Materialism
 is nonsense.  But it is not true that a message is always a message;
 and it sometimes only means that Spiritualism is also nonsense.
 If the table at which I am now writing takes to itself wings and flies
-out of the window, perhaps carrying me along with it, the incident
+out of the [[Window|window]], perhaps carrying me along with it, the incident
 will arouse in me a real intelligent interest, verging on surprise.
 But if the pen with which I am writing begins to scrawl all by itself,
 the sort of things I have seen in spirit writing; if it begins
@@ -130,7 +130,7 @@ If a great man like the late Sir William Crookes says a table went
 walking upstairs, I am impressed by the news; but not by news from
 nowhere to the effect that all men are perpetually going upstairs,
 up a spiritual staircase which seems to be as mechanical and labour-saving
-as a moving staircase at Charing Cross.  Moreover, even a benevolent
+as a moving staircase at Charing [[Cross]].  Moreover, even a benevolent
 spirit might conceivably throw the furniture about merely for fun;
-whereas I doubt if anything but a devil from hell would say that all
+whereas I [[Doubt|doubt]] if anything but a devil from hell would say that all
 things are aspects of purity and peace.

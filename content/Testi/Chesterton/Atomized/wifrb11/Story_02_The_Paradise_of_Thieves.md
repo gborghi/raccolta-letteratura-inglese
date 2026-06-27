@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Paradise of Thieves"
+title: "[[wifrb11]] — The Paradise of Thieves"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -23,10 +23,10 @@ the Mediterranean, was covered by an awning and fenced by little lemon
 and orange trees.  Waiters in white aprons were already laying out
 on white tables the insignia of an early and elegant lunch;
 and this seemed to increase a satisfaction that already touched
-the top of swagger.  Muscari had an eagle nose like Dante;
+the top of swagger.  Muscari had an eagle nose like [[Dante]];
 his hair and neckerchief were dark and flowing; he carried a black cloak,
 and might almost have carried a black mask, so much did he bear with him
-a sort of Venetian melodrama.  He acted as if a troubadour had still
+a sort of Venetian [[Melodrama|melodrama]].  He acted as if a troubadour had still
 a definite social office, like a bishop.  He went as near as
 his century permitted to walking the world literally like Don Juan,
 with rapier and guitar.
@@ -35,12 +35,12 @@ with rapier and guitar.
 he had fought many brilliant duels, or without a corresponding case
 for his mandolin, with which he had actually serenaded Miss Ethel Harrogate,
 the highly conventional daughter of a Yorkshire banker on a holiday. 
-Yet he was neither a charlatan nor a child; but a hot, logical Latin
+Yet he was neither a charlatan nor a [[Child|child]]; but a hot, logical Latin
 who liked a certain thing and was it.  His poetry was as straightforward
-as anyone else's prose.  He desired fame or wine or the beauty of women
+as anyone else's prose.  He desired fame or wine or the [[Beauty|beauty]] of women
 with a torrid directness inconceivable among the cloudy ideals
 or cloudy compromises of the north; to vaguer races his intensity
-smelt of danger or even crime.  Like fire or the sea, he was too simple
+smelt of danger or even crime.  Like [[Fire|fire]] or the sea, he was too simple
 to be trusted.
 
      The banker and his beautiful English daughter were staying
@@ -50,8 +50,8 @@ told him at once, however, that the English party had not descended.
 The restaurant was glittering, but still comparatively empty. 
 Two priests were talking at a table in a corner, but Muscari
 (an ardent Catholic) took no more notice of them than of a couple of crows. 
-But from a yet farther seat, partly concealed behind a dwarf tree
-golden with oranges, there rose and advanced towards the poet a person
+But from a yet farther seat, partly concealed behind a [[Dwarf|dwarf]] tree
+golden with oranges, there [[Rose|rose]] and advanced towards the poet a person
 whose costume was the most aggressively opposite to his own.
 
      This figure was clad in tweeds of a piebald check, with a pink tie,
@@ -59,8 +59,8 @@ a sharp collar and protuberant yellow boots.  He contrived,
 in the true tradition of 'Arry at Margate, to look at once startling
 and commonplace.  But as the Cockney apparition drew nearer,
 Muscari was astounded to observe that the head was distinctly
-different from the body.  It was an Italian head: fuzzy, swarthy and
-very vivacious, that rose abruptly out of the standing collar
+different from the [[Body|body]].  It was an Italian head: fuzzy, swarthy and
+very vivacious, that [[Rose|rose]] abruptly out of the standing collar
 like cardboard and the comic pink tie.  In fact it was a head he knew. 
 He recognized it, above all the dire erection of English holiday array,
 as the face of an old but forgotten friend name Ezza.  This youth
@@ -69,11 +69,11 @@ when he was barely fifteen; but when he appeared in the world he failed,
 first publicly as a dramatist and a demagogue, and then privately
 for years on end as an actor, a traveller, a commission agent
 or a journalist.  Muscari had known him last behind the footlights;
-he was but too well attuned to the excitements of that profession,
+he was but too [[Well|well]] attuned to the excitements of that profession,
 and it was believed that some moral calamity had swallowed him up.
 
      "Ezza!" cried the poet, rising and shaking hands in
-a pleasant astonishment.  "Well, I've seen you in many costumes
+a pleasant astonishment.  "[[Well]], I've seen you in many costumes
 in the green room; but I never expected to see you dressed up
 as an Englishman."
 
@@ -84,7 +84,7 @@ but of the Italian of the future."
 the Italian of the past."
 
      "That is your old mistake, Muscari," said the man in tweeds,
-shaking his head; "and the mistake of Italy.  In the sixteenth century
+shaking his head; "and the mistake of [[Italy]].  In the sixteenth century
 we Tuscans made the morning:  we had the newest steel, the newest carving,
 the newest chemistry.  Why should we not now have the newest factories,
 the newest motors, the newest finance--the newest clothes?"
@@ -94,7 +94,7 @@ the newest motors, the newest finance--the newest clothes?"
 Men who see the short cut to good living will never go by
 the new elaborate roads."
 
-     "Well, to me Marconi, or D'Annunzio, is the star of Italy"
+     "[[Well]], to me Marconi, or D'Annunzio, is the star of [[Italy]]"
 said the other.  "That is why I have become a Futurist--and a courier."
 
      "A courier!" cried Muscari, laughing.  "Is that the last of your
@@ -107,7 +107,7 @@ with some eagerness.
 
      "That's the man," answered the courier.
 
-     "Does it pay well?" asked the troubadour innocently.
+     "Does it pay [[Well|well]]?" asked the troubadour innocently.
 
      "It will pay me," said Ezza, with a very enigmatic smile. 
 "But I am a rather curious sort of courier."  Then, as if
@@ -136,7 +136,7 @@ his heavy stoop he might have been a colonel.  He carried several
 unopened letters in his hand.  His son Frank was a really fine lad,
 curly-haired, sun-burnt and strenuous; but nobody looked at him either. 
 All eyes, as usual, were riveted, for the moment at least,
-upon Ethel Harrogate, whose golden Greek head and colour of the dawn
+upon Ethel Harrogate, whose golden Greek head and colour of the [[Dawn|dawn]]
 seemed set purposely above that sapphire sea, like a goddess's. 
 The poet Muscari drew a deep breath as if he were drinking something,
 as indeed he was.  He was drinking the Classic; which his fathers made. 
@@ -149,7 +149,7 @@ the courier Ezza to share their table and their talk.  In Ethel Harrogate
 conventionality crowned itself with a perfection and splendour of its own. 
 Proud of her father's prosperity, fond of fashionable pleasures,
 a fond daughter but an arrant flirt, she was all these things with
-a sort of golden good-nature that made her very pride pleasing
+a sort of golden good-[[Nature|nature]] that made her very [[Pride|pride]] pleasing
 and her worldly respectability a fresh and hearty thing.
 
      They were in an eddy of excitement about some alleged peril
@@ -160,16 +160,16 @@ of the modern legend, still haunted that ridge and held that pass
 of the Apennines.
 
      "They say," she cried, with the awful relish of a schoolgirl,
-"that all that country isn't ruled by the King of Italy, but by
-the King of Thieves.  Who is the King of Thieves?"
+"that all that country isn't ruled by the [[King]] of [[Italy]], but by
+the [[King]] of Thieves.  Who is the [[King]] of Thieves?"
 
      "A great man," replied Muscari, "worthy to rank with
-your own Robin Hood, signorina.  Montano, the King of Thieves,
-was first heard of in the mountains some ten years ago, when people
+your own [[Robin Hood]], signorina.  Montano, the [[King]] of Thieves,
+was first heard of in the [[Mountains|mountains]] some ten years ago, when people
 said brigands were extinct.  But his wild authority spread with
 the swiftness of a silent revolution.  Men found his fierce proclamations
 nailed in every mountain village; his sentinels, gun in hand,
-in every mountain ravine.  Six times the Italian Government
+in every mountain ravine.  Six times the Italian [[government|Government]]
 tried to dislodge him, and was defeated in six pitched battles
 as if by Napoleon."
 
@@ -179,20 +179,20 @@ choose another route.  But the courier thought it perfectly safe."
 
      "It is perfectly safe," said the courier contemptuously. 
 "I have been over it twenty times.  There may have been some old
-jailbird called a King in the time of our grandmothers;
-but he belongs to history if not to fable.  Brigandage is utterly
+jailbird called a [[King]] in the [[Time|time]] of our grandmothers;
+but he belongs to [[history]] if not to [[Fable|fable]].  Brigandage is utterly
 stamped out."
 
      "It can never be utterly stamped out," Muscari answered;
 "because armed revolt is a recreation natural to southerners. 
-Our peasants are like their mountains, rich in grace and green gaiety,
-but with the fires beneath.  There is a point of human despair where
+Our peasants are like their [[Mountains|mountains]], rich in grace and green gaiety,
+but with the fires beneath.  There is a point of human [[Despair|despair]] where
 the northern poor take to drink--and our own poor take to daggers."
 
      "A poet is privileged," replied Ezza, with a sneer. 
 "If Signor Muscari were English he would still be looking
 for highwaymen in Wandsworth.  Believe me, there is no more danger
-of being captured in Italy than of being scalped in Boston."
+of being captured in [[Italy]] than of being scalped in Boston."
 
      "Then you propose to attempt it?" asked Mr Harrogate, frowning.
 
@@ -203,9 +203,9 @@ glorious eyes on Muscari.  "Do you really think the pass is dangerous?"
 he said.  "I am crossing it tomorrow."
 
      The young Harrogate was left behind for a moment emptying a glass of
-white wine and lighting a cigarette, as the beauty retired with the banker,
-the courier and the poet, distributing peals of silvery satire. 
-At about the same instant the two priests in the corner rose;
+white wine and lighting a cigarette, as the [[Beauty|beauty]] retired with the banker,
+the courier and the poet, distributing peals of silvery [[Satire|satire]]. 
+At about the same instant the two priests in the corner [[Rose|rose]];
 the taller, a white-haired Italian, taking his leave.  The shorter priest
 turned and walked towards the banker's son, and the latter was astonished
 to realize that though a Roman priest the man was an Englishman. 
@@ -220,11 +220,11 @@ take care of your sister in her great sorrow."
 
      Even for Frank's truly fraternal indifference the radiance
 and derision of his sister still seemed to sparkle and ring;
-he could hear her laughter still from the garden of the hotel,
+he could hear her laughter still from the [[Garden|garden]] of the hotel,
 and he stared at his sombre adviser in puzzledom.
 
      "Do you mean the brigands?" he asked; and then, remembering
-a vague fear of his own, "or can you be thinking of Muscari?"
+a vague [[Fear|fear]] of his own, "or can you be thinking of Muscari?"
 
      "One is never thinking of the real sorrow," said the strange priest. 
 "One can only be kind when it comes."
@@ -236,10 +236,10 @@ with his mouth open.
 really crawling and staggering up the spurs of the menacing mountain range. 
 Between Ezza's cheery denial of the danger and Muscari's boisterous
 defiance of it, the financial family were firm in their original purpose;
-and Muscari made his mountain journey coincide with theirs. 
+and Muscari made his mountain [[Journey|journey]] coincide with theirs. 
 A more surprising feature was the appearance at the coast-town station
 of the little priest of the restaurant; he alleged merely
-that business led him also to cross the mountains of the midland. 
+that business led him also to [[Cross|cross]] the [[Mountains|mountains]] of the midland. 
 But young Harrogate could not but connect his presence with
 the mystical fears and warnings of yesterday.
 
@@ -257,25 +257,25 @@ the lovely Englishwoman; on the other side of her sat the priest,
 whose name was Brown and who was fortunately a silent individual;
 the courier and the father and son were on the banc behind. 
 Muscari was in towering spirits, seriously believing in the peril,
-and his talk to Ethel might well have made her think him a maniac. 
+and his talk to Ethel might [[Well|well]] have made her think him a maniac. 
 But there was something in the crazy and gorgeous ascent,
 amid crags like peaks loaded with woods like orchards, that dragged
-her spirit up alone with his into purple preposterous heavens
-with wheeling suns.  The white road climbed like a white cat;
+her spirit up [[Alone|alone]] with his into purple preposterous heavens
+with wheeling suns.  The white [[Road|road]] climbed like a white cat;
 it spanned sunless chasms like a tight-rope; it was flung round
 far-off headlands like a lasso.
 
-     And yet, however high they went, the desert still blossomed
-like the rose.  The fields were burnished in sun and wind
+     And yet, however high they went, the [[Desert|desert]] still blossomed
+like the [[Rose|rose]].  The fields were burnished in sun and [[Wind|wind]]
 with the colour of kingfisher and parrot and humming-bird,
-the hues of a hundred flowering flowers.  There are no lovelier meadows
+the hues of a hundred flowering [[Flowers|flowers]].  There are no lovelier meadows
 and woodlands than the English, no nobler crests or chasms than
 those of Snowdon and Glencoe.  But Ethel Harrogate had never before
 seen the southern parks tilted on the splintered northern peaks;
-the gorge of Glencoe laden with the fruits of Kent.  There was nothing here
+the gorge of Glencoe laden with the fruits of [[Kent]].  There was nothing here
 of that chill and desolation that in Britain one associates with
 high and wild scenery.  It was rather like a mosaic palace,
-rent with earthquakes; or like a Dutch tulip garden blown to the stars
+rent with earthquakes; or like a Dutch tulip [[Garden|garden]] blown to the [[Stars|stars]]
 with dynamite.
 
      "It's like Kew Gardens on Beachy Head," said Ethel.
@@ -287,22 +287,22 @@ and yet fruitful."
      "You are rather violent yourself," and she smiled at him.
 
      "And yet rather fruitless," he admitted; "if I die tonight
-I die unmarried and a fool."
+I die unmarried and a [[Fool|fool]]."
 
      "It is not my fault if you have come," she said after
-a difficult silence.
+a difficult [[Silence|silence]].
 
      "It is never your fault," answered Muscari; "it was not your fault
 that Troy fell."
 
      As they spoke they came under overwhelming cliffs that spread
 almost like wings above a corner of peculiar peril.  Shocked by the
-big shadow on the narrow ledge, the horses stirred doubtfully. 
+big [[Shadow|shadow]] on the narrow ledge, the horses stirred doubtfully. 
 The driver leapt to the earth to hold their heads, and they
-became ungovernable.  One horse reared up to his full height--
-the titanic and terrifying height of a horse when he becomes a biped. 
+became ungovernable.  One [[Horse|horse]] reared up to his full height--
+the [[titanic]] and terrifying height of a [[Horse|horse]] when he becomes a biped. 
 It was just enough to alter the equilibrium; the whole coach
-heeled over like a ship and crashed through the fringe of bushes
+heeled over like a [[Ship|ship]] and crashed through the fringe of bushes
 over the cliff.  Muscari threw an arm round Ethel, who clung to him,
 and shouted aloud.  It was for such moments that he lived.
 
@@ -311,13 +311,13 @@ the poet's head like a purple windmill a thing happened which was
 superficially even more startling.  The elderly and lethargic banker
 sprang erect in the coach and leapt over the precipice before
 the tilted vehicle could take him there.  In the first flash
-it looked as wild as suicide; but in the second it was as sensible as
+it looked as wild as [[suicide]]; but in the second it was as sensible as
 a safe investment.  The Yorkshireman had evidently more promptitude,
-as well as more sagacity, than Muscari had given him credit for;
+as [[Well|well]] as more sagacity, than Muscari had given him credit for;
 for he landed in a lap of land which might have been specially padded
 with turf and clover to receive him.  As it happened, indeed,
 the whole company were equally lucky, if less dignified in their
-form of ejection.  Immediately under this abrupt turn of the road
+form of ejection.  Immediately under this abrupt turn of the [[Road|road]]
 was a grassy and flowery hollow like a sunken meadow; a sort of
 green velvet pocket in the long, green, trailing garments of the hills. 
 Into this they were all tipped or tumbled with little damage,
@@ -325,7 +325,7 @@ save that their smallest baggage and even the contents of their pockets
 were scattered in the grass around them.  The wrecked coach still
 hung above, entangled in the tough hedge, and the horses plunged
 painfully down the slope.  The first to sit up was the little priest,
-who scratched his head with a face of foolish wonder.  Frank Harrogate
+who scratched his head with a face of foolish [[Wonder|wonder]].  Frank Harrogate
 heard him say to himself: "Now why on earth have we fallen just here?"
 
      He blinked at the litter around him, and recovered his own
@@ -343,13 +343,13 @@ waistcoat pocket.  "I think I'm justified," he said, "till I know
 a little more."
 
      He gazed painfully at the girl, at that moment being raised out of
-the flowers by Muscari, who was saying:  "We have fallen into heaven;
+the [[Flowers|flowers]] by Muscari, who was saying:  "We have fallen into heaven;
 it is a sign.  Mortals climb up and they fall down; but it is only
 gods and goddesses who can fall upwards."
 
-     And indeed she rose out of the sea of colours so beautiful and
+     And indeed she [[Rose|rose]] out of the sea of colours so beautiful and
 happy a vision that the priest felt his suspicion shaken and shifted. 
-"After all," he thought, "perhaps the poison isn't hers; perhaps it's
+"After all," he thought, "perhaps the [[Poison|poison]] isn't hers; perhaps it's
 one of Muscari's melodramatic tricks."
 
      Muscari set the lady lightly on her feet, made her an absurdly
@@ -367,7 +367,7 @@ and he did not answer.
 Muscari then perceived that another tanned and tattered man,
 with a short gun under his arm, was looking at them from
 the ledge just below, leaning his elbows on the edge of the turf. 
-Then he looked up at the road from which they had fallen and saw,
+Then he looked up at the [[Road|road]] from which they had fallen and saw,
 looking down on them, the muzzles of four other carbines and
 four other brown faces with bright but quite motionless eyes.
 
@@ -382,7 +382,7 @@ in his pockets, "happens to be a servant of Mr Harrogate's."
 "he was bribed to upset his master.  Then put the lady in the middle,
 and we will break the line up there--with a rush."
 
-     And, wading in wild grass and flowers, he advanced fearlessly
+     And, wading in wild grass and [[Flowers|flowers]], he advanced fearlessly
 on the four carbines; but finding that no one followed except
 young Harrogate, he turned, brandishing his cutlass to wave the others on. 
 He beheld the courier still standing slightly astride in the centre of
@@ -390,8 +390,8 @@ the grassy ring, his hands in his pockets; and his lean, ironical
 Italian face seemed to grow longer and longer in the evening light.
 
      "You thought, Muscari, I was the failure among our schoolfellows,"
-he said, "and you thought you were the success.  But I have succeeded
-more than you and fill a bigger place in history.  I have been
+he said, "and you thought you were the [[success]].  But I have succeeded
+more than you and fill a bigger place in [[history]].  I have been
 acting epics while you have been writing them."
 
      "Come on, I tell you!" thundered Muscari from above. 
@@ -399,8 +399,8 @@ acting epics while you have been writing them."
 to save and three strong men to help you?  What do you call yourself?"
 
      "I call myself Montano," cried the strange courier in a voice
-equally loud and full.  "I am the King of Thieves, and I welcome you all
-to my summer palace."
+equally loud and full.  "I am the [[King]] of Thieves, and I welcome you all
+to my [[Summer|summer]] palace."
 
      And even as he spoke five more silent men with weapons ready
 came out of the bushes, and looked towards him for their orders. 
@@ -411,7 +411,7 @@ went on the courier-brigand, with the same easy yet sinister smile,
 "is, together with some caves underneath it, known by the name of
 the Paradise of Thieves.  It is my principal stronghold on these hills;
 for (as you have doubtless noticed) the eyrie is invisible both from
-the road above and from the valley below.  It is something better
+the [[Road|road]] above and from the valley below.  It is something better
 than impregnable; it is unnoticeable.  Here I mostly live, and here
 I shall certainly die, if the gendarmes ever track me here. 
 I am not the kind of criminal that `reserves his defence,'
@@ -509,11 +509,11 @@ I must tell you I was lunching in that restaurant at the seaside.
 As four of you left the room, you and Miss Harrogate went ahead,
 talking and laughing; the banker and the courier came behind,
 speaking sparely and rather low.  But I could not help hearing Ezza
-say these words--`Well, let her have a little fun; you know the blow
+say these words--`[[Well]], let her have a little fun; you know the blow
 may smash her any minute.'  Mr Harrogate answered nothing;
 so the words must have had some meaning.  On the impulse of the moment
 I warned her brother that she might be in peril; I said nothing
-of its nature, for I did not know.  But if it meant this capture
+of its [[Nature|nature]], for I did not know.  But if it meant this capture
 in the hills, the thing is nonsense.  Why should the brigand-courier
 warn his patron, even by a hint, when it was his whole purpose to lure him
 into the mountain-mousetrap?  It could not have meant that. 
@@ -528,7 +528,7 @@ resumed the priest reflectively.  "And here is the second of them.
 Why did he put so prominently in his demand for ransom the fact that
 he had taken two thousand pounds from his victim on the spot? 
 It had no faintest tendency to evoke the ransom.  Quite the other way,
-in fact.  Harrogate's friends would be far likelier to fear for his fate
+in fact.  Harrogate's friends would be far likelier to [[Fear|fear]] for his fate
 if they thought the thieves were poor and desperate.  Yet the spoliation
 on the spot was emphasized and even put first in the demand. 
 Why should Ezza Montano want so specially to tell all Europe that
@@ -537,28 +537,28 @@ he had picked the pocket before he levied the blackmail?"
      "I cannot imagine," said Muscari, rubbing up his black hair
 for once with an unaffected gesture.  "You may think you enlighten me,
 but you are leading me deeper in the dark.  What may be the third
-objection to the King of the Thieves?"  "The third objection,"
-said Father Brown, still in meditation, "is this bank we are sitting on. 
+objection to the [[King]] of the Thieves?"  "The third objection,"
+said [[Father Brown]], still in meditation, "is this bank we are sitting on. 
 Why does our brigand-courier call this his chief fortress and
 the Paradise of Thieves?  It is certainly a soft spot to fall on
 and a sweet spot to look at.  It is also quite true, as he says,
 that it is invisible from valley and peak, and is therefore a hiding-place. 
 But it is not a fortress.  It never could be a fortress. 
 I think it would be the worst fortress in the world.  For it is actually
-commanded from above by the common high-road across the mountains--
+commanded from above by the common high-[[Road|road]] across the [[Mountains|mountains]]--
 the very place where the police would most probably pass. 
 Why, five shabby short guns held us helpless here about half an hour ago. 
 The quarter of a company of any kind of soldiers could have blown us
 over the precipice.  Whatever is the meaning of this odd little nook
-of grass and flowers, it is not an entrenched position. 
+of grass and [[Flowers|flowers]], it is not an entrenched position. 
 It is something else; it has some other strange sort of importance;
 some value that I do not understand.  It is more like an accidental theatre
-or a natural green-room; it is like the scene for some romantic comedy;
+or a natural green-room; it is like the scene for some romantic [[Comedy|comedy]];
 it is like...."
 
      As the little priest's words lengthened and lost themselves
 in a dull and dreamy sincerity, Muscari, whose animal senses were alert
-and impatient, heard a new noise in the mountains.  Even for him
+and impatient, heard a new noise in the [[Mountains|mountains]].  Even for him
 the sound was as yet very small and faint; but he could have sworn
 the evening breeze bore with it something like the pulsation of
 horses' hoofs and a distant hallooing.
@@ -566,34 +566,34 @@ horses' hoofs and a distant hallooing.
      At the same moment, and long before the vibration had touched
 the less-experienced English ears, Montano the brigand ran up
 the bank above them and stood in the broken hedge, steadying himself
-against a tree and peering down the road.  He was a strange figure
+against a tree and peering down the [[Road|road]].  He was a strange figure
 as he stood there, for he had assumed a flapped fantastic hat and
-swinging baldric and cutlass in his capacity of bandit king,
+swinging baldric and cutlass in his capacity of bandit [[King|king]],
 but the bright prosaic tweed of the courier showed through in patches
 all over him.
 
      The next moment he turned his olive, sneering face and made
 a movement with his hand.  The brigands scattered at the signal,
 not in confusion, but in what was evidently a kind of guerrilla discipline. 
-Instead of occupying the road along the ridge, they sprinkled themselves
+Instead of occupying the [[Road|road]] along the ridge, they sprinkled themselves
 along the side of it behind the trees and the hedge, as if watching unseen
 for an enemy.  The noise beyond grew stronger, beginning to shake
-the mountain road, and a voice could be clearly heard calling out orders. 
+the mountain [[Road|road]], and a voice could be clearly heard calling out orders. 
 The brigands swayed and huddled, cursing and whispering,
 and the evening air was full of little metallic noises as they
 cocked their pistols, or loosened their knives, or trailed their scabbards
 over the stones.  Then the noises from both quarters seemed to meet
-on the road above; branches broke, horses neighed, men cried out.
+on the [[Road|road]] above; branches broke, horses neighed, men cried out.
 
      "A rescue!" cried Muscari, springing to his feet and waving his hat;
-"the gendarmes are on them!  Now for freedom and a blow for it! 
+"the gendarmes are on them!  Now for [[Freedom|freedom]] and a blow for it! 
 Now to be rebels against robbers!  Come, don't let us leave everything
 to the police; that is so dreadfully modern.  Fall on the rear
 of these ruffians.  The gendarmes are rescuing us; come, friends,
 let us rescue the gendarmes!"
 
      And throwing his hat over the trees, he drew his cutlass once more
-and began to escalade the slope up to the road.  Frank Harrogate
+and began to escalade the slope up to the [[Road|road]].  Frank Harrogate
 jumped up and ran across to help him, revolver in hand, but was astounded
 to hear himself imperatively recalled by the raucous voice of his father,
 who seemed to be in great agitation.
@@ -607,32 +607,32 @@ led the way.  You wouldn't have it said that the English hung back."
      "It is useless," said the older man, who was trembling violently,
 "it is useless.  We must submit to our lot."
 
-     Father Brown looked at the banker; then he put his hand instinctively
-as if on his heart, but really on the little bottle of poison;
+     [[Father Brown]] looked at the banker; then he put his hand instinctively
+as if on his heart, but really on the little bottle of [[Poison|poison]];
 and a great light came into his face like the light of the revelation
-of death.
+of [[Death|death]].
 
      Muscari meanwhile, without waiting for support, had crested the bank
-up to the road, and struck the brigand king heavily on the shoulder,
+up to the [[Road|road]], and struck the brigand [[King|king]] heavily on the shoulder,
 causing him to stagger and swing round.  Montano also had
 his cutlass unsheathed, and Muscari, without further speech,
 sent a slash at his head which he was compelled to catch and parry. 
-But even as the two short blades crossed and clashed the King of Thieves
+But even as the two short blades crossed and clashed the [[King]] of Thieves
 deliberately dropped his point and laughed.
 
      "What's the good, old man?" he said in spirited Italian slang;
 "this damned farce will soon be over."
 
-     "What do you mean, you shuffler?" panted the fire-eating poet. 
-"Is your courage a sham as well as your honesty?"
+     "What do you mean, you shuffler?" panted the [[Fire|fire]]-eating poet. 
+"Is your [[Courage|courage]] a sham as [[Well|well]] as your honesty?"
 
      "Everything about me is a sham," responded the ex-courier
-in complete good humour.  "I am an actor; and if I ever had
+in complete good [[Humour|humour]].  "I am an actor; and if I ever had
 a private character, I have forgotten it.  I am no more a genuine brigand
 than I am a genuine courier.  I am only a bundle of masks,
 and you can't fight a duel with that."  And he laughed with boyish pleasure
 and fell into his old straddling attitude, with his back to the skirmish
-up the road.
+up the [[Road|road]].
 
      Darkness was deepening under the mountain walls, and it was not easy
 to discern much of the progress of the struggle, save that tall men
@@ -640,8 +640,8 @@ were pushing their horses' muzzles through a clinging crowd of brigands,
 who seemed more inclined to harass and hustle the invaders
 than to kill them.  It was more like a town crowd preventing
 the passage of the police than anything the poet had ever pictured
-as the last stand of doomed and outlawed men of blood.  Just as he was
-rolling his eyes in bewilderment he felt a touch on his elbow,
+as the [[Last Stand|last stand]] of doomed and outlawed men of [[Blood|blood]].  Just as he was
+[[rolling]] his eyes in bewilderment he felt a touch on his elbow,
 and found the odd little priest standing there like a small Noah
 with a large hat, and requesting the favour of a word or two.
 
@@ -656,19 +656,19 @@ Care enough to marry her and make her a good husband, I mean?"
 
      "Does she care about you?"
 
-     "I think so," was the equally grave reply.
+     "I think so," was the equally [[Grave|grave]] reply.
 
      "Then go over there and offer yourself," said the priest: 
 "offer her everything you can; offer her heaven and earth
-if you've got them.  The time is short."
+if you've got them.  The [[Time|time]] is short."
 
      "Why?" asked the astonished man of letters.
 
-     "Because," said Father Brown, "her Doom is coming up the road."
+     "Because," said [[Father Brown]], "her Doom is coming up the [[Road|road]]."
 
-     "Nothing is coming up the road," argued Muscari, "except the rescue."
+     "Nothing is coming up the [[Road|road]]," argued Muscari, "except the rescue."
 
-     "Well, you go over there," said his adviser, "and be ready
+     "[[Well]], you go over there," said his adviser, "and be ready
 to rescue her from the rescue."
 
      Almost as he spoke the hedges were broken all along the ridge
@@ -678,7 +678,7 @@ of the mounted gendarmerie were seen passing along above the broken hedge.
 Another order was given; there was a noise of dismounting,
 and a tall officer with cocked hat, a grey imperial, and a paper in his hand
 appeared in the gap that was the gate of the Paradise of Thieves.
-There was a momentary silence, broken in an extraordinary way by the banker,
+There was a momentary [[Silence|silence]], broken in an extraordinary way by the banker,
 who cried out in a hoarse and strangled voice: "Robbed!  I've been robbed!"
 
      "Why, that was hours ago," cried his son in astonishment:
@@ -688,7 +688,7 @@ who cried out in a hoarse and strangled voice: "Robbed!  I've been robbed!"
 and terrible composure, "only of a small bottle."
 
      The policeman with the grey imperial was striding across
-the green hollow.  Encountering the King of the Thieves in his path,
+the green hollow.  Encountering the [[King]] of the Thieves in his path,
 he clapped him on the shoulder with something between a caress
 and a buffet and gave him a push that sent him staggering away. 
 "You'll get into trouble, too," he said, "if you play these tricks."
@@ -703,15 +703,15 @@ Huddersfield Bank."
 seemed to reflect a moment, and before they could interpose took
 a half turn and a step that brought him to the edge of the outer
 mountain wall.  Then, flinging up his hands, he leapt exactly as he leapt
-out of the coach.  But this time he did not fall into a little meadow
+out of the coach.  But this [[Time|time]] he did not fall into a little meadow
 just beneath; he fell a thousand feet below, to become a wreck of bones
 in the valley.
 
      The anger of the Italian policeman, which he expressed volubly
-to Father Brown, was largely mixed with admiration.  "It was like him
+to [[Father Brown]], was largely mixed with admiration.  "It was like him
 to escape us at last," he said.  "He was a great brigand if you like. 
 This last trick of his I believe to be absolutely unprecedented. 
-He fled with the company's money to Italy, and actually got himself
+He fled with the company's money to [[Italy]], and actually got himself
 captured by sham brigands in his own pay, so as to explain both the
 disappearance of the money and the disappearance of himself. 
 That demand for ransom was really taken seriously by most of the police. 
@@ -720,7 +720,7 @@ as that.  He will be a serious loss to his family."
 
      Muscari was leading away the unhappy daughter, who held hard to him,
 as she did for many a year after.  But even in that tragic wreck
-he could not help having a smile and a hand of half-mocking friendship
+he could not help having a smile and a hand of half-mocking [[Friendship|friendship]]
 for the indefensible Ezza Montano.  "And where are you going next?"
 he asked him over his shoulder.
 

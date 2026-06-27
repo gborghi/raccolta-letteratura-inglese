@@ -17,12 +17,12 @@ tags:
 CHAPTER 30. The Word of a Gentleman
 
 
-When Mr and Mrs Flintwinch panted up to the door of the old house in the
+When Mr and Mrs Flintwinch panted up to the door of the old [[house]] in the
 twilight, Jeremiah within a second of Affery, the stranger started back.
-‘Death of my soul!’ he exclaimed. ‘Why, how did you get here?’
+‘[[Death]] of my [[Soul|soul]]!’ he exclaimed. ‘Why, how did you get here?’
 
 Mr Flintwinch, to whom these words were spoken, repaid the stranger’s
-wonder in full. He gazed at him with blank astonishment; he looked over
+[[Wonder|wonder]] in full. He gazed at him with blank astonishment; he looked over
 his own shoulder, as expecting to see some one he had not been aware of
 standing behind him; he gazed at the stranger again, speechlessly, at
 a loss to know what he meant; he looked to his wife for explanation;
@@ -46,7 +46,7 @@ relation playfully maintained. Listen! May I suggest that somebody
 up-stairs, in the dark, is becoming energetically curious to know what
 is going on here?’
 
-This reference to Mrs Clennam’s voice reminded Mr Flintwinch to step
+This reference to [[Mrs Clennam]]’s voice reminded Mr Flintwinch to step
 into the hall and call up the staircase. ‘It’s all right, I am here,
 Affery is coming with your light.’ Then he said to the latter
 flustered woman, who was putting her cap on, ‘Get out with you, and get
@@ -60,21 +60,21 @@ propose a candle.’
 you are while I get one.’
 
 The visitor was standing in the doorway, but turned a little into the
-gloom of the house as Mr Flintwinch turned, and pursued him with his
+gloom of the [[house]] as Mr Flintwinch turned, and pursued him with his
 eyes into the little room, where he groped about for a phosphorus box.
 When he found it, it was damp, or otherwise out of order; and match
 after match that he struck into it lighted sufficiently to throw a dull
 glare about his groping face, and to sprinkle his hands with pale little
-spots of fire, but not sufficiently to light the candle. The stranger,
+spots of [[Fire|fire]], but not sufficiently to light the candle. The stranger,
 taking advantage of this fitful illumination of his visage, looked
 intently and wonderingly at him. Jeremiah, when he at last lighted
 the candle, knew he had been doing this, by seeing the last shade of
 a lowering watchfulness clear away from his face, as it broke into the
 doubtful smile that was a large ingredient in its expression.
 
-‘Be so good,’ said Jeremiah, closing the house door, and taking a pretty
+‘Be so good,’ said Jeremiah, closing the [[house]] door, and taking a pretty
 sharp survey of the smiling visitor in his turn, ‘as to step into my
-counting-house.--It’s all right, I tell you!’ petulantly breaking off to
+counting-[[house]].--It’s all right, I tell you!’ petulantly breaking off to
 answer the voice up-stairs, still unsatisfied, though Affery was there,
 speaking in persuasive tones. ‘Don’t I tell you it’s all right? Preserve
 the woman, has she no reason at all in her!’
@@ -87,11 +87,11 @@ sir, let me tell you.’
 
 ‘Though an invalid?’
 
-‘Many years an invalid. Mrs Clennam. The only one of that name left
-in the House now. My partner.’
+‘Many years an invalid. [[Mrs Clennam]]. The only one of that name left
+in the [[house|House]] now. My partner.’
 
 Saying something apologetically as he crossed the hall, to the effect
-that at that time of night they were not in the habit of receiving any
+that at that [[Time|time]] of [[Night|night]] they were not in the habit of receiving any
 one, and were always shut up, Mr Flintwinch led the way into his own
 office, which presented a sufficiently business-like appearance. Here he
 put the light on his desk, and said to the stranger, with his wryest
@@ -102,9 +102,9 @@ twist upon him, ‘Your commands.’
 ‘Blandois. I don’t know it,’ said Jeremiah.
 
 ‘I thought it possible,’ resumed the other, ‘that you might have been
-advised from Paris--’
+advised from [[Paris]]--’
 
-‘We have had no advice from Paris respecting anybody of the name of
+‘We have had no advice from [[Paris]] respecting anybody of the name of
 Blandois,’ said Jeremiah.
 
 ‘No?’
@@ -119,7 +119,7 @@ were too near together:
 ‘You are so like a friend of mine! Not so identically the same as I
 supposed when I really did for the moment take you to be the same in the
 dusk--for which I ought to apologise; permit me to do so; a readiness
-to confess my errors is, I hope, a part of the frankness of my
+to confess my errors is, I [[Hope|hope]], a part of the frankness of my
 character--still, however, uncommonly like.’
 
 ‘Indeed?’ said Jeremiah, perversely. ‘But I have not received any letter
@@ -130,23 +130,23 @@ of advice from anywhere respecting anybody of the name of Blandois.’
 ‘_Just_ so,’ said Jeremiah.
 
 Mr Blandois, not at all put out by this omission on the part of the
-correspondents of the house of Clennam and Co., took his pocket-book
+correspondents of the [[house]] of Clennam and Co., took his pocket-book
 from his breast-pocket, selected a letter from that receptacle, and
-handed it to Mr Flintwinch. ‘No doubt you are well acquainted with the
+handed it to Mr Flintwinch. ‘No [[Doubt|doubt]] you are [[Well|well]] acquainted with the
 writing. Perhaps the letter speaks for itself, and requires no advice.
 You are a far more competent judge of such affairs than I am. It is my
 misfortune to be, not so much a man of business, as what the world calls
 (arbitrarily) a gentleman.’
 
-Mr Flintwinch took the letter, and read, under date of Paris, ‘We have
+Mr Flintwinch took the letter, and read, under date of [[Paris]], ‘We have
 to present to you, on behalf of a highly esteemed correspondent of our
-Firm, M. Blandois, of this city,’ &c. &c. ‘Such facilities as he may
+Firm, M. Blandois, of this [[City|city]],’ &c. &c. ‘Such facilities as he may
 require and such attentions as may lie in your power,’ &c. &c. ‘Also
-have to add that if you will honour M. Blandois’ drafts at sight to the
+have to add that if you will [[Honour|honour]] M. Blandois’ drafts at sight to the
 extent of, say Fifty Pounds sterling (50_l_.),’ &c. &c.
 
 ‘Very good, sir,’ said Mr Flintwinch. ‘Take a chair. To the extent of
-anything that our House can do--we are in a retired, old-fashioned,
+anything that our [[house|House]] can do--we are in a retired, old-fashioned,
 steady way of business, sir--we shall be happy to render you our best
 assistance. I observe, from the date of this, that we could not yet be
 advised of it. Probably you came over with the delayed mail that brings
@@ -160,15 +160,15 @@ packet within this half-hour. I ought to have been here hours ago,
 and then I should not have to apologise--permit me to apologise--for
 presenting myself so unreasonably, and frightening--no, by-the-bye, you
 said not frightening; permit me to apologise again--the esteemed lady,
-Mrs Clennam, in her invalid chamber above stairs.’
+[[Mrs Clennam]], in her invalid chamber above stairs.’
 
 Swagger and an air of authorised condescension do so much, that
 Mr Flintwinch had already begun to think this a highly gentlemanly
 personage. Not the less unyielding with him on that account, he scraped
-his chin and said, what could he have the honour of doing for Mr
-Blandois to-night, out of business hours?
+his chin and said, what could he have the [[Honour|honour]] of doing for Mr
+Blandois to-[[Night|night]], out of business hours?
 
-‘Faith!’ returned that gentleman, shrugging his cloaked shoulders,
+‘[[Faith]]!’ returned that gentleman, shrugging his cloaked shoulders,
 ‘I must change, and eat and drink, and be lodged somewhere. Have the
 kindness to advise me, a total stranger, where, and money is a matter of
 perfect indifference until to-morrow. The nearer the place, the better.
@@ -187,11 +187,11 @@ without the trouble of going one unnecessary inch to get it.’
 
 ‘There is,’ said Mr Flintwinch, with more than his usual deliberation,
 as he met, for a moment, Mr Blandois’ shining eyes, which were restless;
-‘there is a coffee-house and tavern close here, which, so far, I can
+‘there is a coffee-[[house]] and tavern close here, which, so far, I can
 recommend; but there’s no style about it.’
 
 ‘I dispense with style!’ said Mr Blandois, waving his hand. ‘Do me the
-honour to show me the house, and introduce me there (if I am not too
+[[Honour|honour]] to show me the [[house]], and introduce me there (if I am not too
 troublesome), and I shall be infinitely obliged.’
 
 Mr Flintwinch, upon this, looked up his hat, and lighted Mr Blandois
@@ -218,10 +218,10 @@ slight a lady; to slight a lady would be to be deficient in chivalry
 towards the sex; and chivalry towards the sex is a part of my
 character!’ Thus expressing himself, he threw the draggled skirt of his
 cloak over his shoulder, and accompanied Mr Flintwinch to the tavern;
-taking up on the road a porter who was waiting with his portmanteau on
+taking up on the [[Road|road]] a porter who was waiting with his portmanteau on
 the outer side of the gateway.
 
-The house was kept in a homely manner, and the condescension of Mr
+The [[house]] was kept in a homely manner, and the condescension of Mr
 Blandois was infinite. It seemed to fill to inconvenience the little bar
 in which the widow landlady and her two daughters received him; it was
 much too big for the narrow wainscoted room with a bagatelle-board in
@@ -229,70 +229,70 @@ it, that was first proposed for his reception; it perfectly swamped the
 little private holiday sitting-room of the family, which was finally
 given up to him. Here, in dry clothes and scented linen, with sleeked
 hair, a great ring on each forefinger and a massive show of watch-chain,
-Mr Blandois waiting for his dinner, lolling on a window-seat with his
+Mr Blandois waiting for his dinner, lolling on a [[Window|window]]-seat with his
 knees drawn up, looked (for all the difference in the setting of the
-jewel) fearfully and wonderfully like a certain Monsieur Rigaud who had
+[[Jewel|jewel]]) fearfully and wonderfully like a certain Monsieur [[Rigaud]] who had
 once so waited for his breakfast, lying on the stone ledge of the iron
 grating of a cell in a villainous dungeon at Marseilles.
 
-His greed at dinner, too, was closely in keeping with the greed of
-Monsieur Rigaud at breakfast. His avaricious manner of collecting all
+His [[Greed|greed]] at dinner, too, was closely in keeping with the [[Greed|greed]] of
+Monsieur [[Rigaud]] at breakfast. His avaricious manner of collecting all
 the eatables about him, and devouring some with his eyes while devouring
 others with his jaws, was the same manner. His utter disregard of
 other people, as shown in his way of tossing the little womanly toys
 of furniture about, flinging favourite cushions under his boots for a
-softer rest, and crushing delicate coverings with his big body and his
-great black head, had the same brute selfishness at the bottom of it.
+softer rest, and crushing delicate coverings with his big [[Body|body]] and his
+great black head, had the same brute selfishness at the [[Bottom|bottom]] of it.
 The softly moving hands that were so busy among the dishes had the old
 wicked facility of the hands that had clung to the bars. And when he
 could eat no more, and sat sucking his delicate fingers one by one and
 wiping them on a cloth, there wanted nothing but the substitution of
-vine-leaves to finish the picture.
+vine-[[Leaves|leaves]] to finish the picture.
 
 On this man, with his moustache going up and his nose coming down in
 that most evil of smiles, and with his surface eyes looking as if they
 belonged to his dyed hair, and had had their natural power of reflecting
-light stopped by some similar process, Nature, always true, and never
+light stopped by some similar process, [[Nature]], always true, and never
 working in vain, had set the mark, Beware! It was not her fault, if the
 warning were fruitless. She is never to blame in any such instance.
 
 Mr Blandois, having finished his repast and cleaned his fingers, took
-a cigar from his pocket, and, lying on the window-seat again, smoked it
+a cigar from his pocket, and, lying on the [[Window|window]]-seat again, smoked it
 out at his leisure, occasionally apostrophising the smoke as it parted
 from his thin lips in a thin stream:
 
-‘Blandois, you shall turn the tables on society, my little child. Haha!
-Holy blue, you have begun well, Blandois! At a pinch, an excellent
+‘Blandois, you shall turn the tables on society, my little [[Child|child]]. Haha!
+Holy blue, you have begun [[Well|well]], Blandois! At a pinch, an excellent
 master in English or French; a man for the bosom of families! You have
-a quick perception, you have humour, you have ease, you have insinuating
+a quick perception, you have [[Humour|humour]], you have ease, you have insinuating
 manners, you have a good appearance; in effect, you are a gentleman! A
 gentleman you shall live, my small boy, and a gentleman you shall die.
 You shall win, however the game goes. They shall all confess your merit,
 Blandois. You shall subdue the society which has grievously wronged
-you, to your own high spirit. Death of my soul! You are high spirited by
-right and by nature, my Blandois!’
+you, to your own high spirit. [[Death]] of my [[Soul|soul]]! You are high spirited by
+right and by [[Nature|nature]], my Blandois!’
 
 To such soothing murmurs did this gentleman smoke out his cigar and
 drink out his bottle of wine. Both being finished, he shook himself into
 a sitting attitude; and with the concluding serious apostrophe, ‘Hold,
 then! Blandois, you ingenious one, have all your wits about you!’ arose
-and went back to the house of Clennam and Co.
+and went back to the [[house]] of Clennam and Co.
 
 He was received at the door by Mistress Affery, who, under instructions
 from her lord, had lighted up two candles in the hall and a third on the
-staircase, and who conducted him to Mrs Clennam’s room. Tea was prepared
+staircase, and who conducted him to [[Mrs Clennam]]’s room. Tea was prepared
 there, and such little company arrangements had been made as usually
 attended the reception of expected visitors. They were slight on the
 greatest occasion, never extending beyond the production of the China
 tea-service, and the covering of the bed with a sober and sad drapery.
 For the rest, there was the bier-like sofa with the block upon it, and
-the figure in the widow’s dress, as if attired for execution; the fire
+the figure in the widow’s dress, as if attired for execution; the [[Fire|fire]]
 topped by the mound of damped ashes; the grate with its second little
 mound of ashes; the kettle and the smell of black dye; all as they had
 been for fifteen years.
 
 Mr Flintwinch presented the gentleman commended to the consideration of
-Clennam and Co. Mrs Clennam, who had the letter lying before her, bent
+Clennam and Co. [[Mrs Clennam]], who had the letter lying before her, bent
 her head and requested him to sit. They looked very closely at one
 another. That was but natural curiosity.
 
@@ -303,18 +303,18 @@ of sight, out of mind. While I am grateful for the exception, I don’t
 complain of the rule.’
 
 Mr Blandois, in his most gentlemanly manner, was afraid he had disturbed
-her by unhappily presenting himself at such an unconscionable time. For
+her by unhappily presenting himself at such an unconscionable [[Time|time]]. For
 which he had already offered his best apologies to Mr--he begged
-pardon--but by name had not the distinguished honour--
+pardon--but by name had not the distinguished [[Honour|honour]]--
 
-‘Mr Flintwinch has been connected with the House many years.’
+‘Mr Flintwinch has been connected with the [[house|House]] many years.’
 
 Mr Blandois was Mr Flintwinch’s most obedient humble servant. He
 entreated Mr Flintwinch to receive the assurance of his profoundest
 consideration.
 
-‘My husband being dead,’ said Mrs Clennam, ‘and my son preferring
-another pursuit, our old House has no other representative in these days
+‘My husband being dead,’ said [[Mrs Clennam]], ‘and my son preferring
+another pursuit, our old [[house|House]] has no other representative in these days
 than Mr Flintwinch.’
 
 ‘What do you call yourself?’ was the surly demand of that gentleman.
@@ -329,7 +329,7 @@ letter) have the kindness not to forget us, and we retain the power
 of doing what they entrust to us as efficiently as we ever did. This
 however is not interesting to you. You are English, sir?’
 
-‘Faith, madam, no; I am neither born nor bred in England. In effect, I
+‘[[Faith]], madam, no; I am neither born nor bred in England. In effect, I
 am of no country,’ said Mr Blandois, stretching out his leg and smiting
 it: ‘I descend from half-a-dozen countries.’
 
@@ -349,7 +349,7 @@ to fancy that she caught an expression in his eyes which attracted her
 own eyes so that she could not get them away. The effect of this fancy
 was to keep her staring at him with the tea-pot in her hand, not only to
 her own great uneasiness, but manifestly to his, too; and, through them
-both, to Mrs Clennam’s and Mr Flintwinch’s. Thus a few ghostly moments
+both, to [[Mrs Clennam]]’s and Mr Flintwinch’s. Thus a few ghostly moments
 supervened, when they were all confusedly staring without knowing why.
 
 ‘Affery,’ her mistress was the first to say, ‘what is the matter with
@@ -369,7 +369,7 @@ wanderer in her mind. She shall have a dose, she shall have such a dose!
 Get along with you, my woman,’ he added in her ear, ‘get along with you,
 while you know you’re Affery, and before you’re shaken to yeast.’
 
-Mistress Affery, sensible of the danger in which her identity stood,
+Mistress Affery, sensible of the danger in which her [[Identity|identity]] stood,
 relinquished the tea-pot as her husband seized it, put her apron over
 her head, and in a twinkling vanished. The visitor gradually broke into
 a smile, and sat down again.
@@ -382,11 +382,11 @@ take sugar, sir?’
 remarkable watch!’
 
 The tea-table was drawn up near the sofa, with a small interval between
-it and Mrs Clennam’s own particular table. Mr Blandois in his gallantry
+it and [[Mrs Clennam]]’s own particular table. Mr Blandois in his gallantry
 had risen to hand that lady her tea (her dish of toast was already
 there), and it was in placing the cup conveniently within her reach that
 the watch, lying before her as it always did, attracted his attention.
-Mrs Clennam looked suddenly up at him.
+[[Mrs Clennam]] looked suddenly up at him.
 
 ‘May I be permitted? Thank you. A fine old-fashioned watch,’ he said,
 taking it in his hand. ‘Heavy for use, but massive and genuine. I have
@@ -396,7 +396,7 @@ it from the outer case? Thank you. Aye? An old silk watch-lining, worked
 with beads! I have often seen these among old Dutch people and Belgians.
 Quaint things!’
 
-‘They are old-fashioned, too,’ said Mrs Clennam.
+‘They are old-fashioned, too,’ said [[Mrs Clennam]].
 
 ‘Very. But this is not so old as the watch, I think?’
 
@@ -408,19 +408,19 @@ It might be almost anything.’
 
 ‘Those are the letters.’
 
-Mr Flintwinch, who had been observantly pausing all this time with a cup
-of tea in his hand, and his mouth open ready to swallow the contents,
+Mr Flintwinch, who had been observantly pausing all this [[Time|time]] with a cup
+of tea in his hand, and his mouth open ready to [[Swallow|swallow]] the contents,
 began to do so: always entirely filling his mouth before he emptied it
 at a gulp; and always deliberating again before he refilled it.
 
 ‘D. N. F. was some tender, lovely, fascinating fair-creature, I make no
-doubt,’ observed Mr Blandois, as he snapped on the case again. ‘I adore
-her memory on the assumption. Unfortunately for my peace of mind,
+[[Doubt|doubt]],’ observed Mr Blandois, as he snapped on the case again. ‘I adore
+her [[Memory|memory]] on the assumption. Unfortunately for my peace of mind,
 I adore but too readily. It may be a vice, it may be a virtue, but
-adoration of female beauty and merit constitutes three parts of my
+adoration of female [[Beauty|beauty]] and merit constitutes three parts of my
 character, madam.’
 
-Mr Flintwinch had by this time poured himself out another cup of tea,
+Mr Flintwinch had by this [[Time|time]] poured himself out another cup of tea,
 which he was swallowing in gulps as before, with his eyes directed to
 the invalid.
 
@@ -445,13 +445,13 @@ speech:
 
 ‘No, sir, I do not forget. To lead a life as monotonous as mine has been
 during many years, is not the way to forget. To lead a life of
-self-correction is not the way to forget. To be sensible of having (as
+[[Self|self]]-correction is not the way to forget. To be sensible of having (as
 we all have, every one of us, all the children of Adam!) offences
-to expiate and peace to make, does not justify the desire to forget.
+to expiate and peace to make, does not justify the [[Desire|desire]] to forget.
 Therefore I have long dismissed it, and I neither forget nor wish to
 forget.’
 
-Mr Flintwinch, who had latterly been shaking the sediment at the bottom
+Mr Flintwinch, who had latterly been shaking the sediment at the [[Bottom|bottom]]
 of his tea-cup, round and round, here gulped it down, and putting the
 cup in the tea-tray, as done with, turned his eyes upon Mr Blandois as
 if to ask him what he thought of that?
@@ -461,13 +461,13 @@ white hand on his breast, ‘by the word “naturally,” which I am proud
 to have had sufficient apprehension and appreciation (but without
 appreciation I could not be Blandois) to employ.’
 
-‘Pardon me, sir,’ she returned, ‘if I doubt the likelihood of a
-gentleman of pleasure, and change, and politeness, accustomed to court
+‘Pardon me, sir,’ she returned, ‘if I [[Doubt|doubt]] the likelihood of a
+gentleman of pleasure, and change, and politeness, accustomed to [[Court|court]]
 and to be courted--’
 
 ‘Oh madam! By Heaven!’
 
-‘--If I doubt the likelihood of such a character quite comprehending
+‘--If I [[Doubt|doubt]] the likelihood of such a character quite comprehending
 what belongs to mine in my circumstances. Not to obtrude doctrine upon
 you,’ she looked at the rigid pile of hard pale books before her, ‘(for
 you go your own way, and the consequences are on your own head), I will
@@ -478,13 +478,13 @@ should not be half as chastened as I am.’
 
 It was curious how she seized the occasion to argue with some invisible
 opponent. Perhaps with her own better sense, always turning upon herself
-and her own deception.
+and her own [[Deception|deception]].
 
-‘If I forgot my ignorances in my life of health and freedom, I might
+‘If I forgot my ignorances in my life of health and [[Freedom|freedom]], I might
 complain of the life to which I am now condemned. I never do; I never
 have done. If I forgot that this scene, the Earth, is expressly meant to
 be a scene of gloom, and hardship, and dark trial, for the creatures who
-are made out of its dust, I might have some tenderness for its vanities.
+are made out of its [[Dust|dust]], I might have some tenderness for its vanities.
 But I have no such tenderness. If I did not know that we are, every one,
 the subject (most justly the subject) of a wrath that must be satisfied,
 and against which mere actions are nothing, I might repine at the
@@ -506,8 +506,8 @@ keeping his eyes fastened on the lady, and thoughtfully stroking his
 moustache with his two hands. Mr Flintwinch had been a little fidgety,
 and now struck in.
 
-‘There, there, there!’ said he. ‘That is quite understood, Mrs Clennam,
-and you have spoken piously and well. Mr Blandois, I suspect, is not
+‘There, there, there!’ said he. ‘That is quite understood, [[Mrs Clennam]],
+and you have spoken piously and [[Well|well]]. Mr Blandois, I suspect, is not
 of a pious cast.’
 
 ‘On the contrary, sir!’ that gentleman protested, snapping his fingers.
@@ -519,28 +519,28 @@ There was an inkling of suspicion in Mr Flintwinch’s face that he might
 be nothing, as he swaggered out of his chair (it was characteristic of
 this man, as it is of all men similarly marked, that whatever he did,
 he overdid, though it were sometimes by only a hairsbreadth), and
-approached to take his leave of Mrs Clennam.
+approached to take his leave of [[Mrs Clennam]].
 
 ‘With what will appear to you the egotism of a sick old woman, sir,’ she
 then said, ‘though really through your accidental allusion, I have
 been led away into the subject of myself and my infirmities. Being so
-considerate as to visit me, I hope you will be likewise so considerate
+considerate as to visit me, I [[Hope|hope]] you will be likewise so considerate
 as to overlook that. Don’t compliment me, if you please.’ For he was
 evidently going to do it. ‘Mr Flintwinch will be happy to render you any
-service, and I hope your stay in this city may prove agreeable.’
+service, and I [[Hope|hope]] your stay in this [[City|city]] may prove agreeable.’
 
 Mr Blandois thanked her, and kissed his hand several times. ‘This is an
 old room,’ he remarked, with a sudden sprightliness of manner, looking
 round when he got near the door, ‘I have been so interested that I have
 not observed it. But it’s a genuine old room.’
 
-‘It is a genuine old house,’ said Mrs Clennam, with her frozen smile. ‘A
+‘It is a genuine old [[house]],’ said [[Mrs Clennam]], with her frozen smile. ‘A
 place of no pretensions, but a piece of antiquity.’
 
-‘Faith!’ cried the visitor. ‘If Mr Flintwinch would do me the favour to
+‘[[Faith]]!’ cried the visitor. ‘If Mr Flintwinch would do me the favour to
 take me through the rooms on my way out, he could hardly oblige me more.
-An old house is a weakness with me. I have many weaknesses, but none
-greater. I love and study the picturesque in all its varieties. I have
+An old [[house]] is a weakness with me. I have many weaknesses, but none
+greater. I [[Love|love]] and study the picturesque in all its varieties. I have
 been called picturesque myself. It is no merit to be picturesque--I
 have greater merits, perhaps--but I may be, by an accident. Sympathy,
 sympathy!’
@@ -558,31 +558,31 @@ ravished!’
 
 Mr Flintwinch, therefore, wormed himself up the staircase, and Mr
 Blandois followed close. They ascended to the great garret bed-room
-which Arthur had occupied on the night of his return. ‘There, Mr
-Blandois!’ said Jeremiah, showing it, ‘I hope you may think that worth
+which [[arthur|Arthur]] had occupied on the [[Night|night]] of his return. ‘There, Mr
+Blandois!’ said Jeremiah, showing it, ‘I [[Hope|hope]] you may think that worth
 coming so high to see. I confess I don’t.’
 
 Mr Blandois being enraptured, they walked through other garrets and
-passages, and came down the staircase again. By this time Mr Flintwinch
+passages, and came down the staircase again. By this [[Time|time]] Mr Flintwinch
 had remarked that he never found the visitor looking at any room, after
 throwing one quick glance around, but always found the visitor looking
 at him, Mr Flintwinch. With this discovery in his thoughts, he turned
 about on the staircase for another experiment. He met his eyes directly;
 and on the instant of their fixing one another, the visitor, with
 that ugly play of nose and moustache, laughed (as he had done at every
-similar moment since they left Mrs Clennam’s chamber) a diabolically
+similar moment since they left [[Mrs Clennam]]’s chamber) a diabolically
 silent laugh.
 
 As a much shorter man than the visitor, Mr Flintwinch was at the
 physical disadvantage of being thus disagreeably leered at from a
 height; and as he went first down the staircase, and was usually a
-step or two lower than the other, this disadvantage was at the time
+step or two lower than the other, this disadvantage was at the [[Time|time]]
 increased. He postponed looking at Mr Blandois again until this
 accidental inequality was removed by their having entered the late Mr
 Clennam’s room. But, then twisting himself suddenly round upon him, he
 found his look unchanged.
 
-‘A most admirable old house,’ smiled Mr Blandois. ‘So mysterious. Do you
+‘A most admirable old [[house]],’ smiled Mr Blandois. ‘So mysterious. Do you
 never hear any haunted noises here?’
 
 ‘Noises,’ returned Mr Flintwinch. ‘No.’
@@ -615,7 +615,7 @@ can tell you of its pedigree.’
 up-stairs.’
 
 ‘Yes, sir,’ said Jeremiah, twisting himself at the visitor again, as he
-did during the whole of this dialogue, like some screw-machine that
+did during the whole of this dialogue, like some screw-[[Machine|machine]] that
 fell short of its grip; for the other never changed, and he always
 felt obliged to retreat a little. ‘She is a remarkable woman. Great
 fortitude--great strength of mind.’
@@ -630,18 +630,18 @@ and striding his legs wide apart, stood smiling down at Mr Flintwinch
 with the advancing nose and the retreating moustache.
 
 ‘As happy as most other married people, I suppose,’ returned Mr
-Flintwinch. ‘I can’t say. I don’t know. There are secrets in all
+Flintwinch. ‘I can’t say. I don’t know. There are [[Secrets|secrets]] in all
 families.’
 
-‘Secrets!’ cried Mr Blandois, quickly. ‘Say it again, my son.’
+‘[[Secrets]]!’ cried Mr Blandois, quickly. ‘Say it again, my son.’
 
 ‘I say,’ replied Mr Flintwinch, upon whom he had swelled himself so
 suddenly that Mr Flintwinch found his face almost brushed by the dilated
-chest. ‘I say there are secrets in all families.’
+chest. ‘I say there are [[Secrets|secrets]] in all families.’
 
 ‘So there are,’ cried the other, clapping him on both shoulders, and
-rolling him backwards and forwards. ‘Haha! you are right. So there are!
-Secrets! Holy Blue! There are the devil’s own secrets in some families,
+[[rolling]] him backwards and forwards. ‘Haha! you are right. So there are!
+[[Secrets]]! Holy Blue! There are the devil’s own [[Secrets|secrets]] in some families,
 Mr Flintwinch!’ With that, after clapping Mr Flintwinch on both
 shoulders several times, as if in a friendly and humorous way he were
 rallying him on a joke he had made, he threw up his arms, threw back
@@ -657,7 +657,7 @@ it--Do Not Forget--does he not, Mr Flintwinch? By Heaven, sir, he does!’
 
 As he returned the candle, he looked at him once more; and then,
 leisurely strolling out with him into the hall, declared it to be a
-charming old house indeed, and one which had so greatly pleased him that
+charming old [[house]] indeed, and one which had so greatly pleased him that
 he would not have missed inspecting it for a hundred pounds.
 
 Throughout these singular freedoms on the part of Mr Blandois, which
@@ -670,10 +670,10 @@ down, he outwardly maintained an equable composure. They had brought
 their survey to a close in the little room at the side of the hall, and
 he stood there, eyeing Mr Blandois.
 
-‘I am glad you are so well satisfied, sir,’ was his calm remark. ‘I
+‘I am glad you are so [[Well|well]] satisfied, sir,’ was his calm remark. ‘I
 didn’t expect it. You seem to be quite in good spirits.’
 
-‘In admirable spirits,’ returned Blandois. ‘Word of honour! never more
+‘In admirable spirits,’ returned Blandois. ‘Word of [[Honour|honour]]! never more
 refreshed in spirits. Do you ever have presentiments, Mr Flintwinch?’
 
 ‘I am not sure that I know what you mean by the term, sir,’ replied that
@@ -686,8 +686,8 @@ to come.’
 Flintwinch with the utmost gravity. ‘If I should find it coming on, I’ll
 mention it.’
 
-‘Now I,’ said Blandois, ‘I, my son, have a presentiment to-night that we
-shall be well acquainted. Do you find it coming on?’
+‘Now I,’ said Blandois, ‘I, my son, have a presentiment to-[[Night|night]] that we
+shall be [[Well|well]] acquainted. Do you find it coming on?’
 
 ‘N-no,’ returned Mr Flintwinch, deliberately inquiring of himself. ‘I
 can’t say I do.’
@@ -705,27 +705,27 @@ dog as he was.
 Without a moment’s indecision, Mr Flintwinch accepted the invitation,
 and they went out to the quarters where the traveller was lodged,
 through a heavy rain which had rattled on the windows, roofs, and
-pavements, ever since nightfall. The thunder and lightning had long ago
+pavements, ever since nightfall. The thunder and [[Lightning|lightning]] had long ago
 passed over, but the rain was furious. On their arrival at Mr Blandois’
 room, a bottle of port wine was ordered by that gallant gentleman; who
 (crushing every pretty thing he could collect, in the soft disposition
-of his dainty figure) coiled himself upon the window-seat, while Mr
+of his dainty figure) coiled himself upon the [[Window|window]]-seat, while Mr
 Flintwinch took a chair opposite to him, with the table between them. Mr
-Blandois proposed having the largest glasses in the house, to which Mr
+Blandois proposed having the largest glasses in the [[house]], to which Mr
 Flintwinch assented. The bumpers filled, Mr Blandois, with a roystering
-gaiety, clinked the top of his glass against the bottom of Mr
-Flintwinch’s, and the bottom of his glass against the top of Mr
+gaiety, clinked the top of his glass against the [[Bottom|bottom]] of Mr
+Flintwinch’s, and the [[Bottom|bottom]] of his glass against the top of Mr
 Flintwinch’s, and drank to the intimate acquaintance he foresaw.
 Mr Flintwinch gravely pledged him, and drank all the wine he could get,
 and said nothing. As often as Mr Blandois clinked glasses (which was
 at every replenishment), Mr Flintwinch stolidly did his part of the
 clinking, and would have stolidly done his companion’s part of the wine
-as well as his own: being, except in the article of palate, a mere cask.
+as [[Well|well]] as his own: being, except in the article of palate, a mere cask.
 
 In short, Mr Blandois found that to pour port wine into the reticent
 Flintwinch was, not to open him but to shut him up. Moreover, he had
-the appearance of a perfect ability to go on all night; or, if occasion
-were, all next day and all next night; whereas Mr Blandois soon grew
+the appearance of a perfect ability to go on all [[Night|night]]; or, if occasion
+were, all next day and all next [[Night|night]]; whereas Mr Blandois soon grew
 indistinctly conscious of swaggering too fiercely and boastfully. He
 therefore terminated the entertainment at the end of the third bottle.
 
@@ -733,13 +733,13 @@ therefore terminated the entertainment at the end of the third bottle.
 business-like face at parting.
 
 ‘My Cabbage,’ returned the other, taking him by the collar with both
-hands, ‘I’ll draw upon you; have no fear. Adieu, my Flintwinch. Receive
+hands, ‘I’ll draw upon you; have no [[Fear|fear]]. Adieu, my Flintwinch. Receive
 at parting;’ here he gave him a southern embrace, and kissed him soundly
 on both cheeks; ‘the word of a gentleman! By a thousand Thunders, you
 shall see me again!’
 
 He did not present himself next day, though the letter of advice came
-duly to hand. Inquiring after him at night, Mr Flintwinch found, with
+duly to hand. Inquiring after him at [[Night|night]], Mr Flintwinch found, with
 surprise, that he had paid his bill and gone back to the Continent by
 way of Calais. Nevertheless, Jeremiah scraped out of his cogitating
 face a lively conviction that Mr Blandois would keep his word on this

@@ -31,10 +31,10 @@ as an example of the untenable optimism which equalises all things.
 Walt Whitman has been singularly misunderstood on this point.
 Surely no one imagines that he really thought that all distinctions
 were unmeaning, that he drank coffee and arsenic in idle alternation,
-and went to bed on the kitchen fire as a change from his bedstead.
+and went to bed on the kitchen [[Fire|fire]] as a change from his bedstead.
 What he did say and mean was that there was one plane on which all things
 were equal, one point from which everything was the same, the point
-of view of unfathomable wonder at the energy of Being, the power of God.
+of view of unfathomable [[Wonder|wonder]] at the energy of Being, the power of God.
 There is no inconsistency in ranking things in ascending order on
 the practical plane and equalising them on the religious plane.
 
@@ -52,7 +52,7 @@ distinctions, in the realm of religion.  But in the realm of criticism,
 otherwise called the Battle of Gettysburg, Whitman would strain every
 nerve to blow the man into a thousand pieces.
 
-We hope we shall hear more from the author of The Greek View of Life.
+We [[Hope|hope]] we shall hear more from the author of The Greek View of Life.
 We think the present volume a singularly good one, and, as we
 have explained above, we have an arrogant conviction that we know
 the Meaning of Good.
@@ -63,12 +63,12 @@ Our English Goblins
 
 --February 23, 1901, The Speaker
 
-Ballads Of Ghostly Shires.  By George Bartram.  London:  Greening.
+Ballads Of Ghostly Shires.  By George Bartram.  [[London]]:  Greening.
 
 In a remote and secluded corner of the British Empire,
 much neglected by the Imperial student, there is a little island,
 or rather peninsula, which has in its way contributed something
-even to the greatness of colonial expansion, and to which,
+even to the [[Greatness|greatness]] of colonial expansion, and to which,
 in spite of its insignificance, its own inhabitants are deeply
 and mysteriously attached.  This little outpost (which is called
 by its denizens England) has been almost incredibly neglected
@@ -87,13 +87,13 @@ and it is for this reason that we hail with the greatest
 pleasure Mr. George Bartram's Ballads of Ghostly Shires,
 in which he makes a manly and spirited attempt to build again
 on the old foundations of English ballad and country tale,
-more especially those connected with the supernatural.
+more especially those connected with the [[Supernatural|supernatural]].
 This is not the first form in which Mr. George Bartram has
 attempted this wise and much-needed work of genuine patriotism:
 we have a pleasant remembrance of that quaint and vigorous
 tale of old rustic life, The People of Clopton.  But it
-is in connection with fable rather than truth that the chief
-need exists, for error seems closer to the earth and the blood
+is in connection with [[Fable|fable]] rather than [[Truth|truth]] that the chief
+need exists, for error seems closer to the earth and the [[Blood|blood]]
 of nationality than any facts.  Nations may safely import whole
 philosophies and constitutions, like so much tea or tobacco;
 but it goes ill with a people that has to import its superstition.
@@ -101,19 +101,19 @@ The justly exultant discoverers of Celtic lore say that the English
 have no fine folk-lore. It may be our own English partiality,
 but we fancy that this only means they have no folk-lore
 at all like the Celtic.  At the back of the Irish poetry and
-mythology there is an infinite hunger after beauty and rest:
+mythology there is an infinite hunger after [[Beauty|beauty]] and rest:
 the Irish spirit is for ever working to disentangle from the rope
 of life the one blue thread, like the thread in the Jewish
 priest's garment, which represents the eternal and the fulfilled.
-This is a great moral truth, and it has produced the noble
-folk-lore of the Secret Rose and the Country of the Young.
+This is a great moral [[Truth|truth]], and it has produced the noble
+folk-lore of the Secret [[Rose]] and the Country of the Young.
 But it is not the only splendid and eternal strand in the rope
 of life; through that rope there runs everlastingly a strand
-of the grotesque, the fierce and humorous energy in things,
-the defiant and wholesome ugliness of courage and experience.
+of the [[Grotesque|grotesque]], the fierce and humorous energy in things,
+the defiant and wholesome ugliness of [[Courage|courage]] and experience.
 It is this exuberant twist or gnarl in the wood that is our
 English speciality, and it gives as much of a definite philosophic
-character to "Robin Hood and the Sheriff of Nottingham"
+character to "[[Robin Hood]] and the Sheriff of Nottingham"
 as the thirst for perfection gives to the legends of the Gael.
 It is this spirit, the spirit of Robin Goodfellow,
 that Mr. George Bartram finely embodies in these ballads.
@@ -122,12 +122,12 @@ With a certain coarse universalism which smacks of old England
 to the bone, he accepts the grotesqueness of the world,
 even in its tragedies, gibbets, cudgels, broken skulls,
 and men hanging are swallowed with the appetite of a giant:
-but the feeling is not a love of death, but a love of life;
+but the feeling is not a [[Love|love]] of [[Death|death]], but a [[Love|love]] of life;
 it is not cruel, it is rather a sort of daredevil kindness.
 Stevenson had this amicable bloodymindedness and the neurotics
 have never understood it.  It is very significant that Mr. Bartram
-approaches the supernatural world in a very different tone and
+approaches the [[Supernatural|supernatural]] world in a very different tone and
 spirit from that in which it is approached by the average mystic.
 In a faulty but spirited poem which might be called an introduction
 to his whole work he describes himself as taking the kingdom
-of mystery, like the Kingdom of Heaven, by storm:-
+of mystery, like the Kingdom of Heaven, by [[Storm|storm]]:-

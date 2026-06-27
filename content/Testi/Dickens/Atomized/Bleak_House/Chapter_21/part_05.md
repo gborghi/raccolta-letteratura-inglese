@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 21 (part 5)"
+title: "Bleak [[house|House]] — Chapter 21 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -21,7 +21,7 @@ friend, who still stands over him looming larger than ever.
 
 The alarming presence, however, gradually subsides into its chair and
 falls to smoking in long puffs, consoling itself with the
-philosophical reflection, “The name of your friend in the city begins
+philosophical reflection, “The name of your friend in the [[City|city]] begins
 with a D, comrade, and you’re about right respecting the bond.”
 
 “Did you speak, Mr. George?” inquires the old man.
@@ -30,7 +30,7 @@ The trooper shakes his head, and leaning forward with his right elbow
 on his right knee and his pipe supported in that hand, while his
 other hand, resting on his left leg, squares his left elbow in a
 martial manner, continues to smoke. Meanwhile he looks at Mr.
-Smallweed with grave attention and now and then fans the cloud of
+Smallweed with [[Grave|grave]] attention and now and then fans the cloud of
 smoke away in order that he may see him the more clearly.
 
 “I take it,” he says, making just as much and as little change in his
@@ -38,7 +38,7 @@ position as will enable him to reach the glass to his lips with a
 round, full action, “that I am the only man alive (or dead either)
 that gets the value of a pipe out of YOU?”
 
-“Well,” returns the old man, “it’s true that I don’t see company, Mr.
+“[[Well]],” returns the old man, “it’s true that I don’t see company, Mr.
 George, and that I don’t treat. I can’t afford to it. But as you, in
 your pleasant way, made your pipe a condition—”
 
@@ -50,8 +50,8 @@ rubbing his legs.
 
 “Very. I always was.” Puff. “It’s a sure sign of my prudence that I
 ever found the way here.” Puff. “Also, that I am what I am.” Puff. “I
-am well known to be prudent,” says Mr. George, composedly smoking. “I
-rose in life that way.”
+am [[Well|well]] known to be prudent,” says Mr. George, composedly smoking. “I
+[[Rose|rose]] in life that way.”
 
 “Don’t be down-hearted, sir. You may rise yet.”
 
@@ -60,14 +60,14 @@ Mr. George laughs and drinks.
 “Ha’n’t you no relations, now,” asks Grandfather Smallweed with a
 twinkle in his eyes, “who would pay off this little principal or who
 would lend you a good name or two that I could persuade my friend in
-the city to make you a further advance upon? Two good names would be
-sufficient for my friend in the city. Ha’n’t you no such relations,
+the [[City|city]] to make you a further advance upon? Two good names would be
+sufficient for my friend in the [[City|city]]. Ha’n’t you no such relations,
 Mr. George?”
 
 Mr. George, still composedly smoking, replies, “If I had, I shouldn’t
 trouble them. I have been trouble enough to my belongings in my day.
 It MAY be a very good sort of penitence in a vagabond, who has wasted
-the best time of his life, to go back then to decent people that he
+the best [[Time|time]] of his life, to go back then to decent people that he
 never was a credit to and live upon them, but it’s not my sort. The
 best kind of amends then for having gone away is to keep away, in my
 opinion.”
@@ -88,9 +88,9 @@ his late attentions.
 out the captain, Mr. George, it would have been the making of you. If
 when you first came here, in consequence of our advertisement in the
 newspapers—when I say ‘our,’ I’m alluding to the advertisements of
-my friend in the city, and one or two others who embark their capital
+my friend in the [[City|city]], and one or two others who embark their capital
 in the same way, and are so friendly towards me as sometimes to give
-me a lift with my little pittance—if at that time you could have
+me a lift with my little pittance—if at that [[Time|time]] you could have
 helped us, Mr. George, it would have been the making of you.”
 
 “I was willing enough to be ‘made,’ as you call it,” says Mr. George,
@@ -108,7 +108,7 @@ in her slumber.)
 
 “And what two reasons, Mr. George? In the name of the—”
 
-“Of our friend in the city?” suggests Mr. George, composedly
+“Of our friend in the [[City|city]]?” suggests Mr. George, composedly
 drinking.
 
 “Aye, if you like. What two reasons?”
@@ -120,11 +120,11 @@ advertised that Mr. Hawdon (Captain Hawdon, if you hold to the saying
 ‘Once a captain, always a captain’) was to hear of something to his
 advantage.”
 
-“Well?” returns the old man shrilly and sharply.
+“[[Well]]?” returns the old man shrilly and sharply.
 
-“Well!” says Mr. George, smoking on. “It wouldn’t have been much to
-his advantage to have been clapped into prison by the whole bill and
-judgment trade of London.”
+“[[Well]]!” says Mr. George, smoking on. “It wouldn’t have been much to
+his advantage to have been clapped into [[Prison|prison]] by the whole bill and
+judgment trade of [[London]].”
 
 “How do you know that? Some of his rich relations might have paid his
 debts or compounded for ’em. Besides, he had taken US in. He owed us
@@ -139,6 +139,6 @@ his lips for a moment and carrying his eyes back from following the
 progress of the cushion to the pipe-bowl which is burning low, “that
 he carried on heavily and went to ruin. I have been at his right hand
 many a day when he was charging upon ruin full-gallop. I was with him
-when he was sick and well, rich and poor. I laid this hand upon him
+when he was sick and [[Well|well]], rich and poor. I laid this hand upon him
 after he had run through everything and broken down everything
-beneath him—when he held a pistol to his head.”
+beneath him—when he held a [[Pistol|pistol]] to his head.”

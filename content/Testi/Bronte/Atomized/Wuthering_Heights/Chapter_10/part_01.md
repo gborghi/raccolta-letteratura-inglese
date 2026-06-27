@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 10 (part 1)"
+title: "[[Wuthering Heights]] — Chapter 10 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -22,9 +22,9 @@ tossing, and sickness! Oh, these bleak winds and bitter northern skies,
 and impassable roads, and dilatory country surgeons! And oh, this
 dearth of the human physiognomy! and, worse than all, the terrible
 intimation of Kenneth that I need not expect to be out of doors till
-spring!
+[[Spring|spring]]!
 
-Mr. Heathcliff has just honoured me with a call. About seven days ago
+Mr. [[Heathcliff]] has just honoured me with a call. About seven days ago
 he sent me a brace of grouse—the last of the season. Scoundrel! He is
 not altogether guiltless in this illness of mine; and that I had a
 great mind to tell him. But, alas! how could I offend a man who was
@@ -33,23 +33,23 @@ other subject than pills and draughts, blisters and leeches? This is
 quite an easy interval. I am too weak to read; yet I feel as if I could
 enjoy something interesting. Why not have up Mrs. Dean to finish her
 tale? I can recollect its chief incidents, as far as she had gone. Yes:
-I remember her hero had run off, and never been heard of for three
+I remember her [[Hero|hero]] had run off, and never been heard of for three
 years; and the heroine was married. I’ll ring: she’ll be delighted to
 find me capable of talking cheerfully. Mrs. Dean came.
 
 “It wants twenty minutes, sir, to taking the medicine,” she commenced.
 
-“Away, away with it!” I replied; “I desire to have—”
+“Away, away with it!” I replied; “I [[Desire|desire]] to have—”
 
 “The doctor says you must drop the powders.”
 
 “With all my heart! Don’t interrupt me. Come and take your seat here.
 Keep your fingers from that bitter phalanx of vials. Draw your knitting
-out of your pocket—that will do—now continue the history of Mr.
-Heathcliff, from where you left off, to the present day. Did he finish
-his education on the Continent, and come back a gentleman? or did he
-get a sizar’s place at college, or escape to America, and earn honours
-by drawing blood from his foster-country? or make a fortune more
+out of your pocket—that will do—now continue the [[history]] of Mr.
+[[Heathcliff]], from where you left off, to the present day. Did he finish
+his [[Education|education]] on the Continent, and come back a gentleman? or did he
+get a sizar’s place at college, or escape to [[america|America]], and earn honours
+by drawing [[Blood|blood]] from his foster-country? or make a fortune more
 promptly on the English highways?”
 
 “He may have done a little in all these vocations, Mr. Lockwood; but I
@@ -74,34 +74,34 @@ her comfort, certainly. It was not the thorn bending to the
 honeysuckles, but the honeysuckles embracing the thorn. There were no
 mutual concessions: one stood erect, and the others yielded: and who
 _can_ be ill-natured and bad-tempered when they encounter neither
-opposition nor indifference? I observed that Mr. Edgar had a
-deep-rooted fear of ruffling her humour. He concealed it from her; but
+opposition nor indifference? I observed that Mr. [[Edgar]] had a
+deep-rooted [[Fear|fear]] of ruffling her [[Humour|humour]]. He concealed it from her; but
 if ever he heard me answer sharply, or saw any other servant grow
 cloudy at some imperious order of hers, he would show his trouble by a
 frown of displeasure that never darkened on his own account. He many a
-time spoke sternly to me about my pertness; and averred that the stab
+[[Time|time]] spoke sternly to me about my pertness; and averred that the stab
 of a knife could not inflict a worse pang than he suffered at seeing
 his lady vexed. Not to grieve a kind master, I learned to be less
 touchy; and, for the space of half a year, the gunpowder lay as
-harmless as sand, because no fire came near to explode it. Catherine
-had seasons of gloom and silence now and then: they were respected with
-sympathising silence by her husband, who ascribed them to an alteration
+harmless as sand, because no [[Fire|fire]] came near to explode it. Catherine
+had [[Seasons|seasons]] of gloom and [[Silence|silence]] now and then: they were respected with
+sympathising [[Silence|silence]] by her husband, who ascribed them to an alteration
 in her constitution, produced by her perilous illness; as she was never
 subject to depression of spirits before. The return of sunshine was
 welcomed by answering sunshine from him. I believe I may assert that
 they were really in possession of deep and growing happiness.
 
-It ended. Well, we _must_ be for ourselves in the long run; the mild
+It ended. [[Well]], we _must_ be for ourselves in the long run; the mild
 and generous are only more justly selfish than the domineering; and it
 ended when circumstances caused each to feel that the one’s interest
 was not the chief consideration in the other’s thoughts. On a mellow
-evening in September, I was coming from the garden with a heavy basket
-of apples which I had been gathering. It had got dusk, and the moon
-looked over the high wall of the court, causing undefined shadows to
+evening in September, I was coming from the [[Garden|garden]] with a heavy basket
+of apples which I had been gathering. It had got dusk, and the [[Moon|moon]]
+looked over the high wall of the [[Court|court]], causing undefined shadows to
 lurk in the corners of the numerous projecting portions of the
-building. I set my burden on the house-steps by the kitchen-door, and
+building. I set my burden on the [[house]]-steps by the kitchen-door, and
 lingered to rest, and drew in a few more breaths of the soft, sweet
-air; my eyes were on the moon, and my back to the entrance, when I
+air; my eyes were on the [[Moon|moon]], and my back to the entrance, when I
 heard a voice behind me say,—“Nelly, is that you?”
 
 It was a deep voice, and foreign in tone; yet there was something in
@@ -115,7 +115,7 @@ can it be?” I thought. “Mr. Earnshaw? Oh, no! The voice has no
 resemblance to his.”
 
 “I have waited here an hour,” he resumed, while I continued staring;
-“and the whole of that time all round has been as still as death. I
+“and the whole of that [[Time|time]] all round has been as still as [[Death|death]]. I
 dared not enter. You do not know me? Look, I’m not a stranger!”
 
 A ray fell on his features; the cheeks were sallow, and half covered
@@ -126,9 +126,9 @@ singular. I remembered the eyes.
 and I raised my hands in amazement. “What! you come back? Is it really
 you? Is it?”
 
-“Yes, Heathcliff,” he replied, glancing from me up to the windows,
+“Yes, [[Heathcliff]],” he replied, glancing from me up to the windows,
 which reflected a score of glittering moons, but showed no lights from
-within. “Are they at home? where is she? Nelly, you are not glad! you
+within. “Are they at [[Home|home]]? where is she? Nelly, you are not glad! you
 needn’t be so disturbed. Is she here? Speak! I want to have one word
 with her—your mistress. Go, and say some person from Gimmerton desires
 to see her.”

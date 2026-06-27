@@ -16,16 +16,16 @@ tags:
 
 ‘I won’t go so far as to say everything,’ returned Mr Boffin, on whom
 his manner seemed to grate, ‘because there’s some things that I never
-found among the dust. Well, sir. So Mrs Boffin and me grow older and
+found among the [[Dust|dust]]. [[Well]], sir. So Mrs Boffin and me grow older and
 older in the old man’s service, living and working pretty hard in it,
 till the old man is discovered dead in his bed. Then Mrs Boffin and me
 seal up his box, always standing on the table at the side of his bed,
 and having frequently heerd tell of the Temple as a spot where lawyer’s
-dust is contracted for, I come down here in search of a lawyer to
+[[Dust|dust]] is contracted for, I come down here in search of a lawyer to
 advise, and I see your young man up at this present elevation, chopping
-at the flies on the window-sill with his penknife, and I give him a Hoy!
+at the flies on the [[Window|window]]-sill with his penknife, and I give him a Hoy!
 not then having the pleasure of your acquaintance, and by that
-means come to gain the honour. Then you, and the gentleman in the
+means come to gain the [[Honour|honour]]. Then you, and the gentleman in the
 uncomfortable neck-cloth under the little archway in Saint Paul’s
 Churchyard—’
 
@@ -56,17 +56,17 @@ stand to it.’
 
 ‘But let me represent to you,’ returned Lightwood, ‘speaking now with
 professional profundity, and not with individual imbecility, that the
-offer of such an immense reward is a temptation to forced suspicion,
+offer of such an immense reward is a [[Temptation|temptation]] to forced suspicion,
 forced construction of circumstances, strained accusation, a whole
 tool-box of edged tools.’
 
-‘Well,’ said Mr Boffin, a little staggered, ‘that’s the sum we put o’
+‘[[Well]],’ said Mr Boffin, a little staggered, ‘that’s the sum we put o’
 one side for the purpose. Whether it shall be openly declared in the new
 notices that must now be put about in our names—’
 
 ‘In your name, Mr Boffin; in your name.’
 
-‘Very well; in my name, which is the same as Mrs Boffin’s, and means
+‘Very [[Well|well]]; in my name, which is the same as Mrs Boffin’s, and means
 both of us, is to be considered in drawing ’em up. But this is the first
 instruction that I, as the owner of the property, give to my lawyer on
 coming into it.’
@@ -99,7 +99,7 @@ can’t be loosed.’
 
 ‘Absolutely?’ repeated Mr Boffin, with a short sturdy laugh. ‘Hah! I
 should think so! It would be handsome in me to begin to bind Mrs Boffin
-at this time of day!’
+at this [[Time|time]] of day!’
 
 So that instruction, too, was taken by Mr Lightwood; and Mr Lightwood,
 having taken it, was in the act of showing Mr Boffin out, when Mr Eugene
@@ -108,7 +108,7 @@ said, in his cool manner, ‘Let me make you two known to one another,’
 and further signified that Mr Wrayburn was counsel learned in the
 law, and that, partly in the way of business and partly in the way of
 pleasure, he had imparted to Mr Wrayburn some of the interesting facts
-of Mr Boffin’s biography.
+of Mr Boffin’s [[Biography|biography]].
 
 ‘Delighted,’ said Eugene—though he didn’t look so—‘to know Mr Boffin.’
 
@@ -117,13 +117,13 @@ the law?’
 
 ‘A—not particularly,’ returned Eugene.
 
-‘Too dry for you, eh? Well, I suppose it wants some years of sticking
+‘Too dry for you, eh? [[Well]], I suppose it wants some years of sticking
 to, before you master it. But there’s nothing like work. Look at the
-bees.’
+[[Bees|bees]].’
 
 ‘I beg your pardon,’ returned Eugene, with a reluctant smile, ‘but will
 you excuse my mentioning that I always protest against being referred to
-the bees?’
+the [[Bees|bees]]?’
 
 ‘Do you!’ said Mr Boffin.
 
@@ -132,7 +132,7 @@ the bees?’
 ‘As a what?’ asked Mr Boffin.
 
 ‘As a two-footed creature;—I object on principle, as a two-footed
-creature, to being constantly referred to insects and four-footed
+creature, to being constantly referred to [[Insects|insects]] and four-footed
 creatures. I object to being required to model my proceedings according
 to the proceedings of the bee, or the dog, or the spider, or the camel.
 I fully admit that the camel, for instance, is an excessively temperate
@@ -148,9 +148,9 @@ bee? For the whole case is assumed. Conceding for a moment that there is
 any analogy between a bee, and a man in a shirt and pantaloons (which
 I deny), and that it is settled that the man is to learn from the bee
 (which I also deny), the question still remains, what is he to learn?
-To imitate? Or to avoid? When your friends the bees worry themselves to
+To imitate? Or to avoid? When your friends the [[Bees|bees]] worry themselves to
 that highly fluttered extent about their sovereign, and become perfectly
 distracted touching the slightest monarchical movement, are we men to
-learn the greatness of Tuft-hunting, or the littleness of the
-Court Circular? I am not clear, Mr Boffin, but that the hive may be
+learn the [[Greatness|greatness]] of Tuft-hunting, or the littleness of the
+[[Court]] Circular? I am not clear, Mr Boffin, but that the hive may be
 satirical.’

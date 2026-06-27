@@ -1,5 +1,5 @@
 ---
-title: "The Balloon-Hoax (part 3)"
+title: "[[The Balloon-Hoax]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Balloon-Hoax-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-      by means of slack-lime, so as to dispense altogether with fire,
+      by means of slack-lime, so as to dispense altogether with [[Fire|fire]],
 
       if it should be judged prudent to do so. All these articles, with
 
@@ -26,7 +26,7 @@ tags:
 
       light wicker, and is wonderfully strong, for so frail looking a
 
-      machine. Its rim is about four feet deep. The rudder is also very
+      [[Machine|machine]]. Its rim is about four feet deep. The rudder is also very
 
       much larger, in proportion, than that of the model; and the screw
 
@@ -52,11 +52,11 @@ tags:
 
       extent, even, of several hundred pounds; ballast has then to be
 
-      thrown out, or the machine may descend. This ballast being
+      thrown out, or the [[Machine|machine]] may descend. This ballast being
 
       discarded, and a clear sunshine evaporating the dew, and at the
 
-      same time expanding the gas in the silk, the whole will again
+      same [[Time|time]] expanding the gas in the silk, the whole will again
 
       rapidly ascend. To check this ascent, the only recourse is, (or
 
@@ -84,7 +84,7 @@ tags:
 
       example, there should be a deposition of moisture upon the silk,
 
-      and the machine begins to descend in consequence, there will be
+      and the [[Machine|machine]] begins to descend in consequence, there will be
 
       no necessity for discharging ballast to remedy the increase of
 
@@ -104,11 +104,11 @@ tags:
 
       resources, either in gas or ballast, remain comparatively
 
-      unimpaired. When passing over an expanse of water, it becomes
+      unimpaired. When passing over an expanse of [[Water|water]], it becomes
 
       necessary to employ small kegs of copper or wood, filled with
 
-      liquid ballast of a lighter nature than water. These float, and
+      liquid ballast of a lighter [[Nature|nature]] than [[Water|water]]. These float, and
 
       serve all the purposes of a mere rope on land. Another most
 
@@ -126,7 +126,7 @@ tags:
 
       In the same way, the angle formed by the rope with the vertical
 
-      axis of the machine, indicates the _velocity_. When there is _no_
+      axis of the [[Machine|machine]], indicates the _velocity_. When there is _no_
 
       angle—in other words, when the rope hangs perpendicularly, the
 
@@ -138,13 +138,13 @@ tags:
 
 
 
-      “As the original design was to cross the British Channel, and
+      “As the original design was to [[Cross|cross]] the British Channel, and
 
-      alight as near Paris as possible, the voyagers had taken the
+      alight as near [[Paris]] as possible, the voyagers had taken the
 
       precaution to prepare themselves with passports directed to all
 
-      parts of the Continent, specifying the nature of the expedition,
+      parts of the Continent, specifying the [[Nature|nature]] of the expedition,
 
       as in the case of the Nassau voyage, and entitling the
 
@@ -156,9 +156,9 @@ tags:
 
       “The inflation was commenced very quietly at daybreak, on
 
-      Saturday morning, the 6th instant, in the Court-Yard of Weal-Vor
+      Saturday morning, the 6th instant, in the [[Court]]-Yard of Weal-Vor
 
-      House, Mr. Osborne’s seat, about a mile from Penstruthal, in
+      [[house|House]], Mr. Osborne’s seat, about a mile from Penstruthal, in
 
       North Wales; and at 7 minutes past 11, every thing being ready
 
@@ -170,7 +170,7 @@ tags:
 
       now with the journal, as transcribed by Mr. Forsyth from the
 
-      joint MSS. of Mr. Monck Mason, and Mr. Ainsworth. The body of the
+      joint MSS. of Mr. Monck Mason, and Mr. Ainsworth. The [[Body|body]] of the
 
       journal, as given, is in the hand-writing of Mr. Mason, and a P.
 
@@ -178,7 +178,7 @@ tags:
 
       preparation, and will shortly give the public a more minute, and
 
-      no doubt, a thrillingly interesting account of the voyage.
+      no [[Doubt|doubt]], a thrillingly interesting account of the voyage.
 
 
 
@@ -188,15 +188,15 @@ tags:
 
       “_Saturday, April the 6th_.—Every preparation likely to embarrass
 
-      us, having been made over night, we commenced the inflation this
+      us, having been made over [[Night|night]], we commenced the inflation this
 
       morning at daybreak; but owing to a thick fog, which encumbered
 
       the folds of the silk and rendered it unmanageable, we did not
 
-      get through before nearly eleven o’clock. Cut loose, then, in
+      get through before nearly eleven o’[[Clock|clock]]. Cut loose, then, in
 
-      high spirits, and rose gently but steadily, with a light breeze
+      high spirits, and [[Rose|rose]] gently but steadily, with a light breeze
 
       at North, which bore us in the direction of the British Channel.
 

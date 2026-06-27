@@ -36,8 +36,8 @@ which may be heard from an intoxicated navvy. This is the kind of
 thing, and it goes on for pages:--
 
     "Long after the last of your number
-    Has ceased my front-court to encumber
-    While, treading down rose and ranunculus,
+    Has ceased my front-[[Court|court]] to encumber
+    While, treading down [[Rose|rose]] and ranunculus,
     You _Tommy-make-room-for-your-uncle_-us!
     Troop, all of you man or homunculus,
     Quick march! for Xanthippe, my housemaid,
@@ -52,9 +52,9 @@ thing, and it goes on for pages:--
 You can only call this, in the most literal sense of the word, the
 brute-force of language.
 
-In spite however of this monstrosity among poems, which gives its
+In spite however of this monstrosity among [[Poems|poems]], which gives its
 title to the volume, it contains some of the most beautiful verses
-that Browning ever wrote in that style of light philosophy in which he
+that Browning ever wrote in that style of light [[philosophy]] in which he
 was unequalled. Nothing ever gave so perfectly and artistically what
 is too loosely talked about as a thrill, as the poem called "Fears and
 Scruples," in which a man describes the mystifying conduct of an
@@ -67,16 +67,16 @@ It is the masterpiece of that excellent but much-abused literary
 quality, Sensationalism.
 
 The volume entitled _Pacchiarotto_, moreover, includes one or two of
-the most spirited poems on the subject of the poet in relation to
-publicity--"At the Mermaid," "House," and "Shop."
+the most spirited [[Poems|poems]] on the subject of the poet in relation to
+publicity--"At the [[Mermaid]]," "[[house|House]]," and "Shop."
 
 In spite of his increasing years, his books seemed if anything to
 come thicker and faster. Two were published in 1878--_La Saisiaz_, his
-great metaphysical poem on the conception of immortality, and that
-delightfully foppish fragment of the _ancien régime_, _The Two Poets
-of Croisic_. Those two poems would alone suffice to show that he had
+great metaphysical poem on the conception of [[Immortality|immortality]], and that
+delightfully foppish [[Fragment|fragment]] of the _ancien régime_, _The Two Poets
+of Croisic_. Those two [[Poems|poems]] would [[Alone|alone]] suffice to show that he had
 not forgotten the hard science of theology or the harder science of
-humour. Another collection followed in 1879, the first series of
+[[Humour|humour]]. Another collection followed in 1879, the first series of
 _Dramatic Idylls_, which contain such masterpieces as "Pheidippides"
 and "Ivàn Ivànovitch." Upon its heels, in 1880, came the second series
 of _Dramatic Idylls_, including "Muléykeh" and "Clive," possibly the
@@ -84,17 +84,17 @@ two best stories in poetry, told in the best manner of story-telling.
 Then only did the marvellous fountain begin to slacken in quantity,
 but never in quality. _Jocoseria_ did not appear till 1883. It
 contains among other things a cast-back to his very earliest manner in
-the lyric of "Never the Time and the Place," which we may call the
-most light-hearted love-song that was ever written by a man over
+the [[Lyric|lyric]] of "Never the [[Time]] and the Place," which we may call the
+most light-hearted [[Love|love]]-[[Song|song]] that was ever written by a man over
 seventy. In the next year appeared _Ferishtah's Fancies_, which
 exhibit some of his shrewdest cosmic sagacity, expressed in some of
 his quaintest and most characteristic images. Here perhaps more than
 anywhere else we see that supreme peculiarity of Browning--his sense
 of the symbolism of material trifles. Enormous problems, and yet more
-enormous answers, about pain, prayer, destiny, liberty, and conscience
+enormous answers, about [[Pain|pain]], [[prayer]], destiny, liberty, and [[Conscience|conscience]]
 are suggested by cherries, by the sun, by a melon-seller, by an eagle
 flying in the sky, by a man tilling a plot of ground. It is this
-spirit of grotesque allegory which really characterises Browning among
+spirit of [[Grotesque|grotesque]] [[Allegory|allegory]] which really characterises Browning among
 all other poets. Other poets might possibly have hit upon the same
 philosophical idea--some idea as deep, as delicate, and as spiritual.
 But it may be safely asserted that no other poet, having thought of a
@@ -107,11 +107,11 @@ their Day_, a book which consists of apostrophes, amicable, furious,
 reverential, satirical, emotional to a number of people of whom the
 vast majority even of cultivated people have never heard in their
 lives--Daniel Bartoli, Francis Furini, Gerard de Lairesse, and Charles
-Avison. This extraordinary knowledge of the fulness of history was a
+Avison. This extraordinary knowledge of the fulness of [[history]] was a
 thing which never ceased to characterise Browning even when he was
 unfortunate in every other literary quality. Apart altogether from
 every line he ever wrote, it may fairly be said that no mind so rich
-as his ever carried its treasures to the grave. All these later poems
+as his ever carried its treasures to the [[Grave|grave]]. All these later [[Poems|poems]]
 are vigorous, learned, and full-blooded. They are thoroughly
 characteristic of their author. But nothing in them is quite so
 characteristic of their author as this fact, that when he had
@@ -119,7 +119,7 @@ published all of them, and was already near to his last day, he turned
 with the energy of a boy let out of school, and began, of all things
 in the world, to re-write and improve "Pauline," the boyish poem that
 he had written fifty-five years before. Here was a man covered with
-glory and near to the doors of death, who was prepared to give himself
+glory and near to the doors of [[Death|death]], who was prepared to give himself
 the elaborate trouble of reconstructing the mood, and rebuilding the
 verses of a long juvenile poem which had been forgotten for fifty
 years in the blaze of successive victories. It is such things as these

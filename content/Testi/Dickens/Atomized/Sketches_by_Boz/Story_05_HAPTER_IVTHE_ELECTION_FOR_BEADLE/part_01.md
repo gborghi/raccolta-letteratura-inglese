@@ -52,7 +52,7 @@ favour of the liberty of the press, and advocates the repeal of the
 stamp duty on newspapers, because the daily journals who now have a
 monopoly of the public, never give _verbatim_ reports of vestry
 meetings. He would not appear egotistical for the world, but at the
-same time he must say, that there are _speeches_—that celebrated speech
+same [[Time|time]] he must say, that there are _speeches_—that celebrated speech
 of his own, on the emoluments of the sexton, and the duties of the
 office, for instance—which might be communicated to the public, greatly
 to their improvement and advantage.
@@ -64,9 +64,9 @@ whoever they may chance to be, and our other friend being their steady
 supporter, with an equal disregard of their individual merits, it will
 readily be supposed, that occasions for their coming into direct
 collision are neither few nor far between. They divided the vestry
-fourteen times on a motion for heating the church with warm water
+fourteen times on a motion for heating the church with warm [[Water|water]]
 instead of coals: and made speeches about liberty and expenditure, and
-prodigality and hot water, which threw the whole parish into a state of
+prodigality and hot [[Water|water]], which threw the whole parish into a state of
 excitement. Then the captain, when he was on the visiting committee,
 and his opponent overseer, brought forward certain distinct and
 specific charges relative to the management of the workhouse, boldly
@@ -76,7 +76,7 @@ prepared, together with any documents relating thereto.’ This the
 overseer steadily resisted; he fortified himself by precedent, appealed
 to the established usage, and declined to produce the papers, on the
 ground of the injury that would be done to the public service, if
-documents of a strictly private nature, passing between the master of
+documents of a strictly private [[Nature|nature]], passing between the master of
 the workhouse and the cook, were to be thus dragged to light on the
 motion of any individual member of the vestry. The motion was lost by a
 majority of two; and then the captain, who never allows himself to be
@@ -89,20 +89,20 @@ was going to be finally decided, the vestry found that somehow or
 other, they had become entangled in a point of form, from which it was
 impossible to escape with propriety. So, the motion was dropped, and
 everybody looked extremely important, and seemed quite satisfied with
-the meritorious nature of the whole proceeding.
+the meritorious [[Nature|nature]] of the whole proceeding.
 
 This was the state of affairs in our parish a week or two since, when
 Simmons, the beadle, suddenly died. The lamented deceased had
 over-exerted himself, a day or two previously, in conveying an aged
-female, highly intoxicated, to the strong room of the work-house. The
+female, highly intoxicated, to the strong room of the work-[[house]]. The
 excitement thus occasioned, added to a severe cold, which this
 indefatigable officer had caught in his capacity of director of the
-parish engine, by inadvertently playing over himself instead of a fire,
+parish engine, by inadvertently playing over himself instead of a [[Fire|fire]],
 proved too much for a constitution already enfeebled by age; and the
 intelligence was conveyed to the Board one evening that Simmons had
 died, and left his respects.
 
-The breath was scarcely out of the body of the deceased functionary,
+The breath was scarcely out of the [[Body|body]] of the deceased functionary,
 when the field was filled with competitors for the vacant office, each
 of whom rested his claims to public support, entirely on the number and
 extent of his family, as if the office of beadle were originally
@@ -111,7 +111,7 @@ species. ‘Bung for Beadle. Five small children!’—‘Hopkins for Beadle.
 Seven small children!!’—‘Timkins for Beadle. Nine small children!!!’
 Such were the placards in large black letters on a white ground, which
 were plentifully pasted on the walls, and posted in the windows of the
-principal shops. Timkins’s success was considered certain: several
+principal shops. Timkins’s [[success]] was considered certain: several
 mothers of families half promised their votes, and the nine small
 children would have run over the course, but for the production of
 another placard, announcing the appearance of a still more meritorious
@@ -119,11 +119,11 @@ candidate. ‘Spruggins for Beadle. Ten small children (two of them
 twins), and a wife!!!’ There was no resisting this; ten small children
 would have been almost irresistible in themselves, without the twins,
 but the touching parenthesis about that interesting production of
-nature, and the still more touching allusion to Mrs. Spruggins, must
-ensure success. Spruggins was the favourite at once, and the appearance
+[[Nature|nature]], and the still more touching allusion to Mrs. Spruggins, must
+ensure [[success]]. Spruggins was the favourite at once, and the appearance
 of his lady, as she went about to solicit votes (which encouraged
-confident hopes of a still further addition to the house of Spruggins
+confident hopes of a still further addition to the [[house]] of Spruggins
 at no remote period), increased the general prepossession in his
-favour. The other candidates, Bung alone excepted, resigned in despair.
+favour. The other candidates, Bung [[Alone|alone]] excepted, resigned in [[Despair|despair]].
 The day of election was fixed; and the canvass proceeded with briskness
 and perseverance on both sides.

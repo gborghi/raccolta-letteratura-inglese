@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 39"
+title: "[[Sense and Sensibility]] — Chapter 39"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -32,7 +32,7 @@ less anxious than herself for their removal, and only so much less bent
 
 on its being effected immediately, as that she was conscious of the
 
-difficulties of so long a journey, which Marianne could not be brought
+difficulties of so long a [[Journey|journey]], which Marianne could not be brought
 
 to acknowledge. She began, however, seriously to turn her thoughts
 
@@ -42,7 +42,7 @@ their kind hostess, who resisted them with all the eloquence of her
 
 good-will, when a plan was suggested, which, though detaining them from
 
-home yet a few weeks longer, appeared to Elinor altogether much more
+[[Home|home]] yet a few weeks longer, appeared to Elinor altogether much more
 
 eligible than any other. The Palmers were to remove to Cleveland about
 
@@ -94,7 +94,7 @@ feelings;—she only endeavoured to counteract them by working on
 
 others;—represented it, therefore, as a measure which would fix the
 
-time of her returning to that dear mother, whom she so much wished to
+[[Time|time]] of her returning to that dear mother, whom she so much wished to
 
 see, in a more eligible, more comfortable manner, than any other plan
 
@@ -102,13 +102,13 @@ could do, and perhaps without any greater delay. From Cleveland, which
 
 was within a few miles of Bristol, the distance to Barton was not
 
-beyond one day, though a long day’s journey; and their mother’s servant
+beyond one day, though a long day’s [[Journey|journey]]; and their mother’s servant
 
 might easily come there to attend them down; and as there could be no
 
 occasion of their staying above a week at Cleveland, they might now be
 
-at home in little more than three weeks’ time. As Marianne’s affection
+at [[Home|home]] in little more than three weeks’ [[Time|time]]. As Marianne’s affection
 
 for her mother was sincere, it must triumph with little difficulty,
 
@@ -138,7 +138,7 @@ Dashwoods;”—was Mrs. Jennings’s address to him when he first called on
 
 her, after their leaving her was settled—“for they are quite resolved
 
-upon going home from the Palmers;—and how forlorn we shall be, when I
+upon going [[Home|home]] from the Palmers;—and how forlorn we shall be, when I
 
 come back!—Lord! we shall sit and gape at one another as dull as two
 
@@ -146,7 +146,7 @@ cats.”
 
 
 
-Perhaps Mrs. Jennings was in hopes, by this vigorous sketch of their
+Perhaps Mrs. Jennings was in hopes, by this vigorous [[Sketch|sketch]] of their
 
 future ennui, to provoke him to make that offer, which might give
 
@@ -154,7 +154,7 @@ himself an escape from it; and if so, she had soon afterwards good
 
 reason to think her object gained; for, on Elinor’s moving to the
 
-window to take more expeditiously the dimensions of a print, which she
+[[Window|window]] to take more expeditiously the dimensions of a print, which she
 
 was going to copy for her friend, he followed her to it with a look of
 
@@ -178,9 +178,9 @@ Marianne’s turning from one lesson to another, some words of the
 
 Colonel’s inevitably reached her ear, in which he seemed to be
 
-apologising for the badness of his house. This set the matter beyond a
+apologising for the badness of his [[house]]. This set the matter beyond a
 
-doubt. She wondered, indeed, at his thinking it necessary to do so; but
+[[Doubt|doubt]]. She wondered, indeed, at his thinking it necessary to do so; but
 
 supposed it to be the proper etiquette. What Elinor said in reply she
 
@@ -206,7 +206,7 @@ Astonished and shocked at so unlover-like a speech, she was almost
 
 ready to cry out, “Lord! what should hinder it?”—but checking her
 
-desire, confined herself to this silent ejaculation.
+[[Desire|desire]], confined herself to this silent ejaculation.
 
 
 
@@ -272,9 +272,9 @@ doing—what she may drive her son to. I have seen Mr. Ferrars two or
 
 three times in Harley Street, and am much pleased with him. He is not a
 
-young man with whom one can be intimately acquainted in a short time,
+young man with whom one can be intimately acquainted in a short [[Time|time]],
 
-but I have seen enough of him to wish him well for his own sake, and as
+but I have seen enough of him to wish him [[Well|well]] for his own sake, and as
 
 a friend of yours, I wish it still more. I understand that he intends
 
@@ -286,11 +286,11 @@ if he think it worth his acceptance; but _that_, perhaps, so
 
 unfortunately circumstanced as he is now, it may be nonsense to appear
 
-to doubt; I only wish it were more valuable. It is a rectory, but a
+to [[Doubt|doubt]]; I only wish it were more valuable. It is a rectory, but a
 
 small one; the late incumbent, I believe, did not make more than 200£
 
-per annum, and though it is certainly capable of improvement, I fear,
+per annum, and though it is certainly capable of improvement, I [[Fear|fear]],
 
 not to such an amount as to afford him a very comfortable income. Such
 
@@ -316,9 +316,9 @@ cause; but whatever minor feelings less pure, less pleasing, might have
 
 a share in that emotion, her esteem for the general benevolence, and
 
-her gratitude for the particular friendship, which together prompted
+her gratitude for the particular [[Friendship|friendship]], which together prompted
 
-Colonel Brandon to this act, were strongly felt, and warmly expressed.
+[[Colonel Brandon]] to this act, were strongly felt, and warmly expressed.
 
 She thanked him for it with all her heart, spoke of Edward’s principles
 
@@ -328,13 +328,13 @@ promised to undertake the commission with pleasure, if it were really
 
 his wish to put off so agreeable an office to another. But at the same
 
-time, she could not help thinking that no one could so well perform it
+[[Time|time]], she could not help thinking that no one could so [[Well|well]] perform it
 
 as himself. It was an office in short, from which, unwilling to give
 
-Edward the pain of receiving an obligation from _her_, she would have
+Edward the [[Pain|pain]] of receiving an obligation from _her_, she would have
 
-been very glad to be spared herself; but Colonel Brandon, on motives of
+been very glad to be spared herself; but [[Colonel Brandon]], on motives of
 
 equal delicacy, declining it likewise, still seemed so desirous of its
 
@@ -346,11 +346,11 @@ fortunately she had heard his address from Miss Steele. She could
 
 undertake therefore to inform him of it, in the course of the day.
 
-After this had been settled, Colonel Brandon began to talk of his own
+After this had been settled, [[Colonel Brandon]] began to talk of his own
 
 advantage in securing so respectable and agreeable a neighbour, and
 
-_then_ it was that he mentioned with regret, that the house was small
+_then_ it was that he mentioned with regret, that the [[house]] was small
 
 and indifferent; an evil which Elinor, as Mrs. Jennings had supposed
 
@@ -358,7 +358,7 @@ her to do, made very light of, at least as far as regarded its size.
 
 
 
-“The smallness of the house,” said she, “I cannot imagine any
+“The smallness of the [[house]],” said she, “I cannot imagine any
 
 inconvenience to them, for it will be in proportion to their family and
 
@@ -368,7 +368,7 @@ income.”
 
 By which the Colonel was surprised to find that _she_ was considering
 
-Mr. Ferrars’s marriage as the certain consequence of the presentation;
+Mr. Ferrars’s [[Marriage|marriage]] as the certain consequence of the presentation;
 
 for he did not suppose it possible that Delaford living could supply
 
@@ -394,7 +394,7 @@ at present. What I am now doing indeed, seems nothing at all, since it
 
 can advance him so little towards what must be his principal, his only
 
-object of happiness. His marriage must still be a distant good; at
+object of happiness. His [[Marriage|marriage]] must still be a distant good; at
 
 least, I am afraid it cannot take place very soon.”
 
@@ -404,10 +404,10 @@ Such was the sentence which, when misunderstood, so justly offended the
 
 delicate feelings of Mrs. Jennings; but after this narration of what
 
-really passed between Colonel Brandon and Elinor, while they stood at
+really passed between [[Colonel Brandon]] and Elinor, while they stood at
 
-the window, the gratitude expressed by the latter on their parting, may
+the [[Window|window]], the gratitude expressed by the latter on their parting, may
 
 perhaps appear in general, not less reasonably excited, nor less
 
-properly worded than if it had arisen from an offer of marriage.
+properly worded than if it had arisen from an offer of [[Marriage|marriage]].

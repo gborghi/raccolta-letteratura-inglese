@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 4)"
+title: "The [[Pickwick]] Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -21,7 +21,7 @@ furnished with those useful instruments.
 ‘Plates, Joe, plates.’ A similar process employed in the distribution of
 the crockery.
 
-‘Now, Joe, the fowls. Damn that boy; he’s gone to sleep again. Joe!
+‘Now, Joe, the fowls. Damn that boy; he’s gone to [[Sleep|sleep]] again. Joe!
 Joe!’ (Sundry taps on the head with a stick, and the fat boy, with some
 difficulty, roused from his lethargy.) ‘Come, hand in the eatables.’
 
@@ -57,7 +57,7 @@ of destruction had commenced.
 
 ‘Joe!’
 
-‘Yes, Sir.’ (He wasn’t asleep this time, having just succeeded in
+‘Yes, Sir.’ (He wasn’t asleep this [[Time|time]], having just succeeded in
 abstracting a veal patty.)
 
 ‘Bottle of wine to the gentleman on the box. Glad to see you, Sir.’
@@ -77,17 +77,17 @@ spinster aunt, with true spinster-aunt-like envy, to her brother, Mr.
 Wardle.
 
 ‘Oh! I don’t know,’ said the jolly old gentleman; ‘all very natural, I
-dare say--nothing unusual. Mr. Pickwick, some wine, Sir?’ Mr. Pickwick,
+dare say--nothing unusual. Mr. [[Pickwick]], some wine, Sir?’ Mr. [[Pickwick]],
 who had been deeply investigating the interior of the pigeon-pie,
 readily assented.
 
 ‘Emily, my dear,’ said the spinster aunt, with a patronising air, ‘don’t
-talk so loud, love.’
+talk so loud, [[Love|love]].’
 
 ‘Lor, aunt!’
 
 ‘Aunt and the little old gentleman want to have it all to themselves, I
-think,’ whispered Miss Isabella Wardle to her sister Emily. The young
+think,’ whispered Miss [[Isabella]] Wardle to her sister Emily. The young
 ladies laughed very heartily, and the old one tried to look amiable, but
 couldn’t manage it.
 
@@ -105,7 +105,7 @@ the enchanting Rachael’s wrist with one hand, and gently elevating the
 bottle with the other. ‘Will you permit me?’
 
 ‘Oh, sir!’ Mr. Tupman looked most impressive; and Rachael expressed her
-fear that more guns were going off, in which case, of course, she should
+[[Fear|fear]] that more guns were going off, in which case, of course, she should
 have required support again.
 
 ‘Do you think my dear nieces pretty?’ whispered their affectionate aunt
@@ -126,10 +126,10 @@ candlelight?’
 say anything at all.
 
 ‘You were going to say that Isabel stoops--I know you were--you men are
-such observers. Well, so she does; it can’t be denied; and, certainly,
+such observers. [[Well]], so she does; it can’t be denied; and, certainly,
 if there is one thing more than another that makes a girl look ugly it
 is stooping. I often tell her that when she gets a little older she’ll
-be quite frightful. Well, you are a quiz!’
+be quite frightful. [[Well]], you are a quiz!’
 
 Mr. Tupman had no objection to earning the reputation at so cheap a
 rate: so he looked very knowing, and smiled mysteriously.
@@ -140,51 +140,51 @@ quite afraid of you.’
 ‘Afraid of me!’
 
 ‘Oh, you can’t disguise anything from me--I know what that smile means
-very well.’
+very [[Well|well]].’
 
 ‘What?’ said Mr. Tupman, who had not the slightest notion himself.
 
 ‘You mean,’ said the amiable aunt, sinking her voice still lower--‘you
-mean, that you don’t think Isabella’s stooping is as bad as Emily’s
-boldness. Well, she is bold! You cannot think how wretched it makes me
+mean, that you don’t think [[Isabella]]’s stooping is as bad as Emily’s
+boldness. [[Well]], she is bold! You cannot think how wretched it makes me
 sometimes--I’m sure I cry about it for hours together--my dear brother
 is _so_ good, and so unsuspicious, that he never sees it; if he did, I’m
 quite certain it would break his heart. I wish I could think it was only
-manner--I hope it may be--’ (Here the affectionate relative heaved a
+manner--I [[Hope|hope]] it may be--’ (Here the affectionate relative heaved a
 deep sigh, and shook her head despondingly).
 
 ‘I’m sure aunt’s talking about us,’ whispered Miss Emily Wardle to her
 sister--‘I’m quite certain of it--she looks so malicious.’
 
-‘Is she?’ replied Isabella.--‘Hem! aunt, dear!’
+‘Is she?’ replied [[Isabella]].--‘Hem! aunt, dear!’
 
-‘Yes, my dear love!’
+‘Yes, my dear [[Love|love]]!’
 
 ‘I’m _so_ afraid you’ll catch cold, aunt--have a silk handkerchief to
 tie round your dear old head--you really should take care of yourself--
 consider your age!’
 
-However well deserved this piece of retaliation might have been, it was
-as vindictive a one as could well have been resorted to. There is no
+However [[Well|well]] deserved this piece of retaliation might have been, it was
+as vindictive a one as could [[Well|well]] have been resorted to. There is no
 guessing in what form of reply the aunt’s indignation would have vented
 itself, had not Mr. Wardle unconsciously changed the subject, by calling
 emphatically for Joe.
 
-‘Damn that boy,’ said the old gentleman, ‘he’s gone to sleep again.’
+‘Damn that boy,’ said the old gentleman, ‘he’s gone to [[Sleep|sleep]] again.’
 
-‘Very extraordinary boy, that,’ said Mr. Pickwick; ‘does he always sleep
+‘Very extraordinary boy, that,’ said Mr. [[Pickwick]]; ‘does he always [[Sleep|sleep]]
 in this way?’
 
-‘Sleep!’ said the old gentleman, ‘he’s always asleep. Goes on errands
+‘[[Sleep]]!’ said the old gentleman, ‘he’s always asleep. Goes on errands
 fast asleep, and snores as he waits at table.’
 
-‘How very odd!’ said Mr. Pickwick.
+‘How very odd!’ said Mr. [[Pickwick]].
 
 ‘Ah! odd indeed,’ returned the old gentleman; ‘I’m proud of that boy--
 wouldn’t part with him on any account--he’s a natural curiosity! Here,
 Joe--Joe--take these things away, and open another bottle--d’ye hear?’
 
-The fat boy rose, opened his eyes, swallowed the huge piece of pie he
+The fat boy [[Rose|rose]], opened his eyes, swallowed the huge piece of pie he
 had been in the act of masticating when he last fell asleep, and slowly
 obeyed his master’s orders--gloating languidly over the remains of the
 feast, as he removed the plates, and deposited them in the hamper. The
@@ -196,22 +196,22 @@ and starting of ladies--and then a mine was sprung, to the gratification
 of everybody--and when the mine had gone off, the military and the
 company followed its example, and went off too.
 
-‘Now, mind,’ said the old gentleman, as he shook hands with Mr. Pickwick
+‘Now, mind,’ said the old gentleman, as he shook hands with Mr. [[Pickwick]]
 at the conclusion of a conversation which had been carried on at
 intervals, during the conclusion of the proceedings, ‘we shall see you
 all to-morrow.’
 
-‘Most certainly,’ replied Mr. Pickwick.
+‘Most certainly,’ replied Mr. [[Pickwick]].
 
 ‘You have got the address?’
 
-‘Manor Farm, Dingley Dell,’ said Mr. Pickwick, consulting his pocket-
+‘Manor Farm, Dingley Dell,’ said Mr. [[Pickwick]], consulting his pocket-
 book.
 
 ‘That’s it,’ said the old gentleman. ‘I don’t let you off, mind, under a
 week; and undertake that you shall see everything worth seeing. If
 you’ve come down for a country life, come to me, and I’ll give you
-plenty of it. Joe--damn that boy, he’s gone to sleep again--Joe, help
+plenty of it. Joe--damn that boy, he’s gone to [[Sleep|sleep]] again--Joe, help
 Tom put in the horses.’
 
 The horses were put in--the driver mounted--the fat boy clambered up by

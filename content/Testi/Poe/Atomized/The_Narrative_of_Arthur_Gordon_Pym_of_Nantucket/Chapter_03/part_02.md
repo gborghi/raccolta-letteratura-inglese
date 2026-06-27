@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 4 (part 2)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 4 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -18,7 +18,7 @@ six, finding themselves so greatly outnumbered and without arms,
 
 submitted after a brief struggle. The mate gave them fair words--no
 
-doubt with a view of inducing those below to yield, for they had no
+[[Doubt|doubt]] with a view of inducing those below to yield, for they had no
 
 difficulty in hearing all that was said on deck. The result proved his
 
@@ -70,7 +70,7 @@ was a perfect demon, and who seemed to exert as much influence, if not
 
 more, than the mate himself), would listen to no proposition of the
 
-kind, and rose repeatedly for the purpose of resuming his work at the
+kind, and [[Rose|rose]] repeatedly for the purpose of resuming his work at the
 
 gangway. Fortunately, he was so far overcome by intoxication as to be
 
@@ -84,7 +84,7 @@ fastnesses of the Black Hills near the source of the Missouri. His
 
 father was a fur-trader, I believe, or at least connected in some
 
-manner with the Indian trading-posts on Lewis river. Peters himself was
+manner with the Indian trading-posts on Lewis [[River|river]]. Peters himself was
 
 one of the most purely ferocious-looking men I ever beheld. He was
 
@@ -94,11 +94,11 @@ limbs were of the most Herculean mould. His hands, especially, were so
 
 enormously thick and broad as hardly to retain a human shape. His arms,
 
-as well as legs, were _bowed_ in the most singular manner, and appeared
+as [[Well|well]] as legs, were _bowed_ in the most singular manner, and appeared
 
 to possess no flexibility whatever. His head was equally deformed,
 
-being of immense size, with an indentation on the crown (like that on
+being of immense size, with an indentation on the [[Crown|crown]] (like that on
 
 the head of most negroes), and entirely bald. To conceal this latter
 
@@ -106,7 +106,7 @@ deficiency, which did not proceed from old age, he usually wore a wig
 
 formed of any hair-like material which presented itself--occasionally
 
-the skin of a Spanish dog or American grizzly bear. At the time spoken
+the skin of a Spanish dog or American grizzly bear. At the [[Time|time]] spoken
 
 of he had on a portion of one of these bearskins; and it added no
 
@@ -136,9 +136,9 @@ being many anecdotes were prevalent among the seafaring men of
 
 Nantucket. These anecdotes went to prove his prodigious strength when
 
-under excitement, and some of them had given rise to a doubt of his
+under excitement, and some of them had given rise to a [[Doubt|doubt]] of his
 
-sanity. But on board the Grampus, it seems, he was regarded at the time
+[[Sanity|sanity]]. But on board the Grampus, it seems, he was regarded at the [[Time|time]]
 
 of the mutiny with feelings more of derision than of anything else. I
 
@@ -152,13 +152,13 @@ mention him hereafter in the course of my narrative--a narrative, let
 
 me here say, which, in its latter portions, will be found to include
 
-incidents of a nature so entirely out of the range of human experience,
+incidents of a [[Nature|nature]] so entirely out of the range of human experience,
 
 and for this reason so far beyond the limits of human credulity, that I
 
 proceed in utter hopelessness of obtaining credence for all that I
 
-shall tell, yet confidently trusting in time and progressing science to
+shall tell, yet confidently trusting in [[Time|time]] and progressing science to
 
 verify some of the most important and most improbable of my statements.
 
@@ -178,7 +178,7 @@ living--for, it will be remembered, he was left below when the
 
 mutineers came up. Presently the two made their appearance, the captain
 
-pale as death, but somewhat recovered from the effects of his wound. He
+pale as [[Death|death]], but somewhat recovered from the effects of his wound. He
 
 spoke to the men in a voice hardly articulate, entreated them not to
 
@@ -186,7 +186,7 @@ set him adrift, but to return to their duty, and promising to land them
 
 wherever they chose, and to take no steps for bringing them to justice.
 
-He might as well have spoken to the winds. Two of the ruffians seized
+He might as [[Well|well]] have spoken to the winds. Two of the ruffians seized
 
 him by the arms and hurled him over the brig's side into the boat,
 

@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 32: THIRTY TWO (part 1)"
+title: "[[Martin Chuzzlewit]] — Chapter 32: THIRTY TWO (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -21,9 +21,9 @@ PLANTS UPON THE LEADS
 
 
 Early on the day next after that on which she bade adieu to the halls
-of her youth and the scenes of her childhood, Miss Pecksniff, arriving
-safely at the coach-office in London, was there received, and conducted
-to her peaceful home beneath the shadow of the Monument, by Mrs Todgers.
+of her youth and the scenes of her [[Childhood|childhood]], Miss Pecksniff, arriving
+safely at the coach-office in [[London]], was there received, and conducted
+to her peaceful [[Home|home]] beneath the [[Shadow|shadow]] of the Monument, by Mrs Todgers.
 M. Todgers looked a little worn by cares of gravy and other such
 solicitudes arising out of her establishment, but displayed her usual
 earnestness and warmth of manner.
@@ -32,19 +32,19 @@ earnestness and warmth of manner.
 
 Miss Pecksniff signified (in confidence) that he contemplated the
 introduction of a princely ma; and repeated the sentiment that she
-wasn’t blind, and wasn’t quite a fool, and wouldn’t bear it.
+wasn’t blind, and wasn’t quite a [[Fool|fool]], and wouldn’t bear it.
 
 Mrs Todgers was more shocked by the intelligence than any one could have
-expected. She was quite bitter. She said there was no truth in man and
+expected. She was quite bitter. She said there was no [[Truth|truth]] in man and
 that the warmer he expressed himself, as a general principle, the falser
 and more treacherous he was. She foresaw with astonishing clearness that
 the object of Mr Pecksniff’s attachment was designing, worthless, and
-wicked; and receiving from Charity the fullest confirmation of these
-views, protested with tears in her eyes that she loved Miss Pecksniff
+wicked; and receiving from [[Charity]] the fullest confirmation of these
+views, protested with [[Tears|tears]] in her eyes that she loved Miss Pecksniff
 like a sister, and felt her injuries as if they were her own.
 
 ‘Your real darling sister, I have not seen her more than once since her
-marriage,’ said Mrs Todgers, ‘and then I thought her looking poorly. My
+[[Marriage|marriage]],’ said Mrs Todgers, ‘and then I thought her looking poorly. My
 sweet Miss Pecksniff, I always thought that you was to be the lady?’
 
 ‘Oh dear no!’ cried Cherry, shaking her head. ‘Oh no, Mrs Todgers. Thank
@@ -52,7 +52,7 @@ you. No! not for any consideration he could offer.’
 
 ‘I dare say you are right,’ said Mrs Todgers with a sigh. ‘I feared
 it all along. But the misery we have had from that match, here among
-ourselves, in this house, my dear Miss Pecksniff, nobody would believe.’
+ourselves, in this [[house]], my dear Miss Pecksniff, nobody would believe.’
 
 ‘Lor, Mrs Todgers!’
 
@@ -72,16 +72,16 @@ manner. ‘What nonsense, Mrs Todgers!’
 and again, sitting over his pie at dinner, with his spoon a perfect
 fixture in his mouth, looking at your sister. I have seen him standing
 in a corner of our drawing-room, gazing at her, in such a lonely,
-melancholy state, that he was more like a Pump than a man, and might
-have drawed tears.’
+[[Melancholy|melancholy]] state, that he was more like a Pump than a man, and might
+have drawed [[Tears|tears]].’
 
 ‘I never saw it!’ cried Cherry; ‘that’s all I can say.’
 
-‘But when the marriage took place,’ said Mrs Todgers, proceeding
+‘But when the [[Marriage|marriage]] took place,’ said Mrs Todgers, proceeding
 with her subject, ‘when it was in the paper, and was read out here at
 breakfast, I thought he had taken leave of his senses, I did indeed.
 The violence of that young man, my dear Miss Pecksniff; the frightful
-opinions he expressed upon the subject of self-destruction; the
+opinions he expressed upon the subject of [[Self|self]]-destruction; the
 extraordinary actions he performed with his tea; the clenching way in
 which he bit his bread and butter; the manner in which he taunted Mr
 Jinkins; all combined to form a picture never to be forgotten.’
@@ -89,44 +89,44 @@ Jinkins; all combined to form a picture never to be forgotten.’
 ‘It’s a pity he didn’t destroy himself, I think,’ observed Miss
 Pecksniff.
 
-‘Himself!’ said Mrs Todgers, ‘it took another turn at night. He was for
+‘Himself!’ said Mrs Todgers, ‘it took another turn at [[Night|night]]. He was for
 destroying other people then. There was a little chaffing going on--I
-hope you don’t consider that a low expression, Miss Pecksniff; it is
+[[Hope|hope]] you don’t consider that a low expression, Miss Pecksniff; it is
 always in our gentlemen’s mouths--a little chaffing going on, my dear,
-among ‘em, all in good nature, when suddenly he rose up, foaming with
+among ‘em, all in good [[Nature|nature]], when suddenly he [[Rose|rose]] up, foaming with
 his fury, and but for being held by three would have had Mr Jinkins’s
 life with a bootjack.’
 
 Miss Pecksniff’s face expressed supreme indifference.
 
 ‘And now,’ said Mrs Todgers, ‘now he is the meekest of men. You can
-almost bring the tears into his eyes by looking at him. He sits with me
+almost bring the [[Tears|tears]] into his eyes by looking at him. He sits with me
 the whole day long on Sundays, talking in such a dismal way that I find
 it next to impossible to keep my spirits up equal to the accommodation
 of the boarders. His only comfort is in female society. He takes me
-half-price to the play, to an extent which I sometimes fear is beyond
-his means; and I see the tears a-standing in his eyes during the whole
-performance--particularly if it is anything of a comic nature. The turn
+half-price to the play, to an extent which I sometimes [[Fear|fear]] is beyond
+his means; and I see the [[Tears|tears]] a-standing in his eyes during the whole
+performance--particularly if it is anything of a comic [[Nature|nature]]. The turn
 I experienced only yesterday,’ said Mrs Todgers putting her hand to her
-side, ‘when the house-maid threw his bedside carpet out of the window of
+side, ‘when the [[house]]-maid threw his bedside carpet out of the [[Window|window]] of
 his room, while I was sitting here, no one can imagine. I thought it was
 him, and that he had done it at last!’
 
-The contempt with which Miss Charity received this pathetic account of
+The contempt with which Miss [[Charity]] received this pathetic account of
 the state to which the youngest gentleman in company was reduced,
 did not say much for her power of sympathising with that unfortunate
 character. She treated it with great levity, and went on to inform
 herself, then and afterwards, whether any other changes had occurred in
-the commercial boarding-house.
+the commercial boarding-[[house]].
 
-Mr Bailey was gone, and had been succeeded (such is the decay of human
-greatness!) by an old woman whose name was reported to be Tamaroo--which
-seemed an impossibility. Indeed it appeared in the fullness of time that
+Mr Bailey was gone, and had been succeeded (such is the [[Decay|decay]] of human
+[[Greatness|greatness]]!) by an old woman whose name was reported to be Tamaroo--which
+seemed an impossibility. Indeed it appeared in the fullness of [[Time|time]] that
 the jocular boarders had appropriated the word from an English ballad,
-in which it is supposed to express the bold and fiery nature of a
+in which it is supposed to express the bold and fiery [[Nature|nature]] of a
 certain hackney coachman; and that it was bestowed upon Mr Bailey’s
 successor by reason of her having nothing fiery about her, except an
-occasional attack of that fire which is called St. Anthony’s. This
+occasional attack of that [[Fire|fire]] which is called St. Anthony’s. This
 ancient female had been engaged, in fulfillment of a vow, registered by
 Mrs Todgers, that no more boys should darken the commercial doors; and
 she was chiefly remarkable for a total absence of all comprehension upon

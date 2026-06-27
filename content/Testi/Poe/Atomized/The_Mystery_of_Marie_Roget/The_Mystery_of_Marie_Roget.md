@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget"
+title: "[[The Mystery of Marie Roget]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -13,7 +13,7 @@ tags:
 </nav>
 
 
-A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
+A SEQUEL TO “[[The Murders in the Rue Morgue|THE MURDERS IN THE RUE MORGUE]].”
 
 
 
@@ -25,7 +25,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
   unvollkommen erscheint, und ihre Folgen gleichfalls unvollkommen
 
-  sind. So bei der Reformation; statt des Protestantismus kam das
+  sind. So bei der [[Reformation]]; statt des Protestantismus kam das
 
   Lutherthum hervor.
 
@@ -37,7 +37,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       its consequences are equally imperfect. Thus with the
 
-      Reformation; instead of Protestantism came
+      [[Reformation]]; instead of Protestantism came
 
       Lutheranism.—_Novalis_.(*2) _Moral Ansichten_.
 
@@ -47,7 +47,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       not occasionally been startled into a vague yet thrilling
 
-      half-credence in the supernatural, by coincidences of so
+      half-credence in the [[Supernatural|supernatural]], by coincidences of so
 
       seemingly marvellous a character that, as mere coincidences, the
 
@@ -63,7 +63,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       its essence, purely mathematical; and thus we have the anomaly of
 
-      the most rigidly exact in science applied to the shadow and
+      the most rigidly exact in science applied to the [[Shadow|shadow]] and
 
       spirituality of the most intangible in speculation.
 
@@ -71,17 +71,17 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       The extraordinary details which I am now called upon to make
 
-      public, will be found to form, as regards sequence of time, the
+      public, will be found to form, as regards sequence of [[Time|time]], the
 
       primary branch of a series of scarcely intelligible coincidences,
 
       whose secondary or concluding branch will be recognized by all
 
-      readers in the late murder of Mary Cecila Rogers, at New York.
+      readers in the late murder of Mary Cecila Rogers, at [[New York]].
 
 
 
-      When, in an article entitled “The Murders in the Rue Morgue,” I
+      When, in an article entitled “[[The Murders in the Rue Morgue]],” I
 
       endeavored, about a year ago, to depict some very remarkable
 
@@ -109,7 +109,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
 
 
-      Upon the winding up of the tragedy involved in the deaths of
+      Upon the winding up of the [[Tragedy|tragedy]] involved in the deaths of
 
       Madame L’Espanaye and her daughter, the Chevalier dismissed the
 
@@ -123,11 +123,11 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       winds, and slumbered tranquilly in the Present, weaving the dull
 
-      world around us into dreams.
+      world around us into [[Dreams|dreams]].
 
 
 
-      But these dreams were not altogether uninterrupted. It may
+      But these [[Dreams|dreams]] were not altogether uninterrupted. It may
 
       readily be supposed that the part played by my friend, in the
 
@@ -173,9 +173,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       unfortunate “cigar girl,” was the only daughter of the widow
 
-      Estelle Rogêt. The father had died during the child’s infancy,
+      Estelle Rogêt. The father had died during the [[Child|child]]’s infancy,
 
-      and from the period of his death, until within eighteen months
+      and from the period of his [[Death|death]], until within eighteen months
 
       before the assassination which forms the subject of our
 
@@ -185,7 +185,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       by Marie. Affairs went on thus until the latter had attained her
 
-      twenty-second year, when her great beauty attracted the notice of
+      twenty-second year, when her great [[Beauty|beauty]] attracted the notice of
 
       a perfumer, who occupied one of the shops in the basement of the
 
@@ -231,7 +231,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       replied to all questions, that the last week had been spent at
 
-      the house of a relation in the country. Thus the affair died
+      the [[house]] of a relation in the country. Thus the affair died
 
       away, and was generally forgotten; for the girl, ostensibly to
 
@@ -243,9 +243,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
 
 
-      It was about five months after this return home, that her friends
+      It was about five months after this return [[Home|home]], that her friends
 
-      were alarmed by her sudden disappearance for the second time.
+      were alarmed by her sudden disappearance for the second [[Time|time]].
 
       Three days elapsed, and nothing was heard of her. On the fourth
 
@@ -261,7 +261,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       The atrocity of this murder, (for it was at once evident that
 
-      murder had been committed,) the youth and beauty of the victim,
+      murder had been committed,) the youth and [[Beauty|beauty]] of the victim,
 
       and, above all, her previous notoriety, conspired to produce
 
@@ -285,13 +285,13 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       the murderer would be able to elude, for more than a very brief
 
-      period, the inquisition which was immediately set on foot. It was
+      period, the [[Inquisition|inquisition]] which was immediately set on foot. It was
 
       not until the expiration of a week that it was deemed necessary
 
       to offer a reward; and even then this reward was limited to a
 
-      thousand francs. In the mean time the investigation proceeded
+      thousand francs. In the mean [[Time|time]] the investigation proceeded
 
       with vigor, if not always with judgment, and numerous individuals
 
@@ -301,11 +301,11 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       greatly increased. At the end of the tenth day it was thought
 
-      advisable to double the sum originally proposed; and, at length,
+      advisable to [[Double|double]] the sum originally proposed; and, at length,
 
       the second week having elapsed without leading to any
 
-      discoveries, and the prejudice which always exists in Paris
+      discoveries, and the prejudice which always exists in [[Paris]]
 
       against the Police having given vent to itself in several serious
 
@@ -347,7 +347,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       and they were discharged forthwith. Strange as it may appear, the
 
-      third week from the discovery of the body had passed, and passed
+      third week from the discovery of the [[Body|body]] had passed, and passed
 
       without any light being thrown upon the subject, before even a
 
@@ -367,7 +367,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       thirteenth of July, 18—, and remained with us until late in the
 
-      night. He had been piqued by the failure of all his endeavors to
+      [[Night|night]]. He had been piqued by the failure of all his endeavors to
 
       ferret out the assassins. His reputation—so he said with a
 
@@ -383,7 +383,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       Dupin, and made him a direct, and certainly a liberal
 
-      proposition, the precise nature of which I do not feel myself at
+      proposition, the precise [[Nature|nature]] of which I do not feel myself at
 
       liberty to disclose, but which has no bearing upon the proper
 
@@ -403,9 +403,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       latter we were not yet in possession. He discoursed much, and
 
-      beyond doubt, learnedly; while I hazarded an occasional
+      beyond [[Doubt|doubt]], learnedly; while I hazarded an occasional
 
-      suggestion as the night wore drowsily away. Dupin, sitting
+      suggestion as the [[Night|night]] wore drowsily away. Dupin, sitting
 
       steadily in his accustomed arm-chair, was the embodiment of
 
@@ -439,7 +439,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       Marie Rogêt left the residence of her mother, in the Rue Pavée
 
-      St. Andrée, about nine o’clock in the morning of Sunday, June the
+      St. Andrée, about nine o’[[Clock|clock]] in the morning of [[Sunday]], June the
 
       twenty-second, 18—. In going out, she gave notice to a Monsieur
 
@@ -449,29 +449,29 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       Rue des Drômes is a short and narrow but populous thoroughfare,
 
-      not far from the banks of the river, and at a distance of some
+      not far from the banks of the [[River|river]], and at a distance of some
 
       two miles, in the most direct course possible, from the pension
 
       of Madame Rogêt. St. Eustache was the accepted suitor of Marie,
 
-      and lodged, as well as took his meals, at the pension. He was to
+      and lodged, as [[Well|well]] as took his meals, at the pension. He was to
 
       have gone for his betrothed at dusk, and to have escorted her
 
-      home. In the afternoon, however, it came on to rain heavily; and,
+      [[Home|home]]. In the afternoon, however, it came on to rain heavily; and,
 
-      supposing that she would remain all night at her aunt’s, (as she
+      supposing that she would remain all [[Night|night]] at her aunt’s, (as she
 
       had done under similar circumstances before,) he did not think
 
-      it necessary to keep his promise. As night drew on, Madame Rogêt
+      it necessary to keep his promise. As [[Night|night]] drew on, Madame Rogêt
 
       (who was an infirm old lady, seventy years of age,) was heard to
 
-      express a fear “that she should never see Marie again;” but this
+      express a [[Fear|fear]] “that she should never see Marie again;” but this
 
-      observation attracted little attention at the time.
+      observation attracted little attention at the [[Time|time]].
 
 
 
@@ -479,7 +479,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       Rue des Drômes; and when the day elapsed without tidings of her,
 
-      a tardy search was instituted at several points in the city, and
+      a tardy search was instituted at several points in the [[City|city]], and
 
       its environs. It was not, however until the fourth day from the
 
@@ -495,9 +495,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       St. Andrée, was informed that a corpse had just been towed ashore
 
-      by some fishermen, who had found it floating in the river. Upon
+      by some fishermen, who had found it floating in the [[River|river]]. Upon
 
-      seeing the body, Beauvais, after some hesitation, identified it
+      seeing the [[Body|body]], Beauvais, after some hesitation, identified it
 
       as that of the perfumery-girl. His friend recognized it more
 
@@ -505,7 +505,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
 
 
-      The face was suffused with dark blood, some of which issued from
+      The face was suffused with dark [[Blood|blood]], some of which issued from
 
       the mouth. No foam was seen, as in the case of the merely
 
@@ -521,9 +521,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       rope in more than one volution. A part of the right wrist, also,
 
-      was much chafed, as well as the back throughout its extent, but
+      was much chafed, as [[Well|well]] as the back throughout its extent, but
 
-      more especially at the shoulder-blades. In bringing the body to
+      more especially at the shoulder-blades. In bringing the [[Body|body]] to
 
       the shore the fishermen had attached to it a rope; but none of
 
@@ -537,9 +537,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       completely buried in the flesh, and was fastened by a knot which
 
-      lay just under the left ear. This alone would have sufficed to
+      lay just under the left ear. This [[Alone|alone]] would have sufficed to
 
-      produce death. The medical testimony spoke confidently of the
+      produce [[Death|death]]. The medical testimony spoke confidently of the
 
       virtuous character of the deceased. She had been subjected, it
 
@@ -555,7 +555,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       garment, a slip, about a foot wide, had been torn upward from the
 
-      bottom hem to the waist, but not torn off. It was wound three
+      [[Bottom|bottom]] hem to the waist, but not torn off. It was wound three
 
       times around the waist, and secured by a sort of hitch in the
 
@@ -597,7 +597,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       to the mother and friends of the deceased, and fully identified
 
-      as those worn by the girl upon leaving home.
+      as those worn by the girl upon leaving [[Home|home]].
 
 
 
@@ -607,13 +607,13 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       suspicion; and he failed, at first, to give an intelligible
 
-      account of his whereabouts during the Sunday on which Marie left
+      account of his whereabouts during the [[Sunday]] on which Marie left
 
-      home. Subsequently, however, he submitted to Monsieur G——,
+      [[Home|home]]. Subsequently, however, he submitted to Monsieur G——,
 
       affidavits, accounting satisfactorily for every hour of the day
 
-      in question. As time passed and no discovery ensued, a thousand
+      in question. As [[Time|time]] passed and no discovery ensued, a thousand
 
       contradictory rumors were circulated, and journalists busied
 
@@ -633,7 +633,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
 
 
-      “Mademoiselle Rogêt left her mother’s house on Sunday morning,
+      “Mademoiselle Rogêt left her mother’s [[house]] on [[Sunday]] morning,
 
       June the twenty-second, 18—, with the ostensible purpose of going
 
@@ -647,53 +647,53 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       left her mother’s door.... Now, though we have no evidence that
 
-      Marie Rogêt was in the land of the living after nine o’clock on
+      Marie Rogêt was in the land of the living after nine o’[[Clock|clock]] on
 
-      Sunday, June the twenty-second, we have proof that, up to that
+      [[Sunday]], June the twenty-second, we have proof that, up to that
 
-      hour, she was alive. On Wednesday noon, at twelve, a female body
+      hour, she was alive. On Wednesday [[Noon|noon]], at twelve, a female [[Body|body]]
 
       was discovered afloat on the shore of the Barrière de Roule. This
 
       was, even if we presume that Marie Rogêt was thrown into the
 
-      river within three hours after she left her mother’s house, only
+      [[River|river]] within three hours after she left her mother’s [[house]], only
 
-      three days from the time she left her home—three days to an hour.
+      three days from the [[Time|time]] she left her [[Home|home]]—three days to an hour.
 
       But it is folly to suppose that the murder, if murder was
 
-      committed on her body, could have been consummated soon enough to
+      committed on her [[Body|body]], could have been consummated soon enough to
 
-      have enabled her murderers to throw the body into the river
+      have enabled her murderers to throw the [[Body|body]] into the [[River|river]]
 
       before midnight. Those who are guilty of such horrid crimes
 
-      choose darkness rather the light.... Thus we see that if the body
+      choose darkness rather the light.... Thus we see that if the [[Body|body]]
 
-      found in the river was that of Marie Rogêt, it could only have
+      found in the [[River|river]] was that of Marie Rogêt, it could only have
 
-      been in the water two and a half days, or three at the outside.
+      been in the [[Water|water]] two and a half days, or three at the outside.
 
       All experience has shown that drowned bodies, or bodies thrown
 
-      into the water immediately after death by violence, require from
+      into the [[Water|water]] immediately after [[Death|death]] by violence, require from
 
       six to ten days for decomposition to take place to bring them to
 
-      the top of the water. Even where a cannon is fired over a corpse,
+      the top of the [[Water|water]]. Even where a cannon is fired over a corpse,
 
       and it rises before at least five or six days’ immersion, it
 
-      sinks again, if let alone. Now, we ask, what was there in this
+      sinks again, if let [[Alone|alone]]. Now, we ask, what was there in this
 
-      case to cause a departure from the ordinary course of nature?...
+      case to cause a departure from the ordinary course of [[Nature|nature]]?...
 
-      If the body had been kept in its mangled state on shore until
+      If the [[Body|body]] had been kept in its mangled state on shore until
 
-      Tuesday night, some trace would be found on shore of the
+      Tuesday [[Night|night]], some trace would be found on shore of the
 
-      murderers. It is a doubtful point, also, whether the body would
+      murderers. It is a doubtful point, also, whether the [[Body|body]] would
 
       be so soon afloat, even were it thrown in after having been dead
 
@@ -701,31 +701,31 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       villains who had committed such a murder as is here supposed,
 
-      would have thrown the body in without weight to sink it, when
+      would have thrown the [[Body|body]] in without weight to sink it, when
 
       such a precaution could have so easily been taken.”
 
 
 
-      The editor here proceeds to argue that the body must have been in
+      The editor here proceeds to argue that the [[Body|body]] must have been in
 
-      the water “not three days merely, but, at least, five times three
+      the [[Water|water]] “not three days merely, but, at least, five times three
 
       days,” because it was so far decomposed that Beauvais had great
 
       difficulty in recognizing it. This latter point, however, was
 
-      fully disproved. I continue the translation:
+      fully disproved. I continue the [[Translation|translation]]:
 
 
 
       “What, then, are the facts on which M. Beauvais says that he has
 
-      no doubt the body was that of Marie Rogêt? He ripped up the gown
+      no [[Doubt|doubt]] the [[Body|body]] was that of Marie Rogêt? He ripped up the gown
 
       sleeve, and says he found marks which satisfied him of the
 
-      identity. The public generally supposed those marks to have
+      [[Identity|identity]]. The public generally supposed those marks to have
 
       consisted of some description of scars. He rubbed the arm and
 
@@ -733,9 +733,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       readily be imagined—as little conclusive as finding an arm in the
 
-      sleeve. M. Beauvais did not return that night, but sent word to
+      sleeve. M. Beauvais did not return that [[Night|night]], but sent word to
 
-      Madame Rogêt, at seven o’clock, on Wednesday evening, that an
+      Madame Rogêt, at seven o’[[Clock|clock]], on Wednesday evening, that an
 
       investigation was still in progress respecting her daughter. If
 
@@ -745,17 +745,17 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       been some one who would have thought it worth while to go over
 
-      and attend the investigation, if they thought the body was that
+      and attend the investigation, if they thought the [[Body|body]] was that
 
       of Marie. Nobody went over. There was nothing said or heard about
 
       the matter in the Rue Pavée St. Andrée, that reached even the
 
-      occupants of the same building. M. St. Eustache, the lover and
+      occupants of the same building. M. St. Eustache, the [[Lover|lover]] and
 
-      intended husband of Marie, who boarded in her mother’s house,
+      intended husband of Marie, who boarded in her mother’s [[house]],
 
-      deposes that he did not hear of the discovery of the body of his
+      deposes that he did not hear of the discovery of the [[Body|body]] of his
 
       intended until the next morning, when M. Beauvais came into his
 
@@ -773,7 +773,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       hers. Its insinuations amount to this: that Marie, with the
 
-      connivance of her friends, had absented herself from the city for
+      connivance of her friends, had absented herself from the [[City|city]] for
 
       reasons involving a charge against her chastity; and that these
 
@@ -781,7 +781,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       resembling that of the girl, had availed themselves of the
 
-      opportunity to impress the public with the belief of her death.
+      opportunity to impress the public with the belief of her [[Death|death]].
 
       But L’Etoile was again over-hasty. It was distinctly proved that
 
@@ -819,7 +819,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       “Now, then, a change comes over the matter. We are told that on
 
-      one occasion, while a Madame B—— was at Madame Rogêt’s house, M.
+      one occasion, while a Madame B—— was at Madame Rogêt’s [[house]], M.
 
       Beauvais, who was going out, told her that a gendarme was
 
@@ -841,7 +841,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       representations, in a very singular manner. He seems to have been
 
-      very much averse to permitting the relatives to see the body.”
+      very much averse to permitting the relatives to see the [[Body|body]].”
 
 
 
@@ -851,7 +851,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       to the girl’s disappearance, and during the absence of its
 
-      occupant, had observed a rose in the key-hole of the door, and
+      occupant, had observed a [[Rose|rose]] in the key-hole of the door, and
 
       the name “Marie” inscribed upon a slate which hung near at hand.
 
@@ -863,7 +863,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       of a gang of desperadoes—that by these she had been borne across
 
-      the river, maltreated and murdered. Le Commerciel, (*11) however,
+      the [[River|river]], maltreated and murdered. Le Commerciel, (*11) however,
 
       a print of extensive influence, was earnest in combating this
 
@@ -875,7 +875,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       scent, so far as it has been directed to the Barrière du Roule.
 
-      It is impossible that a person so well known to thousands as this
+      It is impossible that a person so [[Well|well]] known to thousands as this
 
       young woman was, should have passed three blocks without some one
 
@@ -895,17 +895,17 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       expressed intentions, that she did go out at all. Her gown was
 
-      torn, bound round her, and tied; and by that the body was carried
+      torn, bound round her, and tied; and by that the [[Body|body]] was carried
 
       as a bundle. If the murder had been committed at the Barrière du
 
       Roule, there would have been no necessity for any such
 
-      arrangement. The fact that the body was found floating near the
+      arrangement. The fact that the [[Body|body]] was found floating near the
 
       Barrière, is no proof as to where it was thrown into the
 
-      water..... A piece of one of the unfortunate girl’s petticoats,
+      [[Water|water]]..... A piece of one of the unfortunate girl’s petticoats,
 
       two feet long and one foot wide, was torn out and tied under her
 
@@ -939,7 +939,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       the bushes were broken, and there was every evidence of a
 
-      struggle. Between the thicket and the river, the fences were
+      struggle. Between the thicket and the [[River|river]], the fences were
 
       found taken down, and the ground bore evidence of some heavy
 
@@ -977,7 +977,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       torn off, and were on the thorn bush, about a foot from the
 
-      ground..... There can be no doubt, therefore, that the spot of
+      ground..... There can be no [[Doubt|doubt]], therefore, that the spot of
 
       this appalling outrage has been discovered.”
 
@@ -987,19 +987,19 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       Deluc testified that she keeps a roadside inn not far from the
 
-      bank of the river, opposite the Barrière du Roule. The
+      bank of the [[River|river]], opposite the Barrière du Roule. The
 
-      neighborhood is secluded—particularly so. It is the usual Sunday
+      neighborhood is secluded—particularly so. It is the usual [[Sunday]]
 
-      resort of blackguards from the city, who cross the river in
+      resort of blackguards from the [[City|city]], who [[Cross|cross]] the [[River|river]] in
 
-      boats. About three o’clock, in the afternoon of the Sunday in
+      boats. About three o’[[Clock|clock]], in the afternoon of the [[Sunday]] in
 
       question, a young girl arrived at the inn, accompanied by a young
 
-      man of dark complexion. The two remained here for some time. On
+      man of dark complexion. The two remained here for some [[Time|time]]. On
 
-      their departure, they took the road to some thick woods in the
+      their departure, they took the [[Road|road]] to some thick woods in the
 
       vicinity. Madame Deluc’s attention was called to the dress worn
 
@@ -1013,7 +1013,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       payment, followed in the route of the young man and girl,
 
-      returned to the inn about dusk, and re-crossed the river as if in
+      returned to the inn about dusk, and re-crossed the [[River|river]] as if in
 
       great haste.
 
@@ -1021,7 +1021,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       It was soon after dark, upon this same evening, that Madame
 
-      Deluc, as well as her eldest son, heard the screams of a female
+      Deluc, as [[Well|well]] as her eldest son, heard the screams of a female
 
       in the vicinity of the inn. The screams were violent but brief.
 
@@ -1031,11 +1031,11 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       omnibus driver, Valence, (*13) now also testified that he saw
 
-      Marie Rogêt cross a ferry on the Seine, on the Sunday in
+      Marie Rogêt [[Cross|cross]] a ferry on the Seine, on the [[Sunday]] in
 
       question, in company with a young man of dark complexion. He,
 
-      Valence, knew Marie, and could not be mistaken in her identity.
+      Valence, knew Marie, and could not be mistaken in her [[Identity|identity]].
 
       The articles found in the thicket were fully identified by the
 
@@ -1053,17 +1053,17 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       the clothes as above described, the lifeless, or nearly lifeless
 
-      body of St. Eustache, Marie’s betrothed, was found in the
+      [[Body|body]] of St. Eustache, Marie’s betrothed, was found in the
 
       vicinity of what all now supposed the scene of the outrage. A
 
       phial labelled “laudanum,” and emptied, was found near him. His
 
-      breath gave evidence of the poison. He died without speaking.
+      breath gave evidence of the [[Poison|poison]]. He died without speaking.
 
-      Upon his person was found a letter, briefly stating his love for
+      Upon his person was found a letter, briefly stating his [[Love|love]] for
 
-      Marie, with his design of self-destruction.
+      Marie, with his design of [[Self|self]]-destruction.
 
 
 
@@ -1111,7 +1111,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       not so much ‘what has occurred?’ as ‘what has occurred that has
 
-      never occurred before?’ In the investigations at the house of
+      never occurred before?’ In the investigations at the [[house]] of
 
       Madame L’Espanaye, (*14) the agents of G—— were discouraged and
 
@@ -1119,9 +1119,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       regulated intellect, would have afforded the surest omen of
 
-      success; while this same intellect might have been plunged in
+      [[success]]; while this same intellect might have been plunged in
 
-      despair at the ordinary character of all that met the eye in the
+      [[Despair|despair]] at the ordinary character of all that met the eye in the
 
       case of the perfumery-girl, and yet told of nothing but easy
 
@@ -1131,13 +1131,13 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       “In the case of Madame L’Espanaye and her daughter there was,
 
-      even at the beginning of our investigation, no doubt that murder
+      even at the beginning of our investigation, no [[Doubt|doubt]] that murder
 
-      had been committed. The idea of suicide was excluded at once.
+      had been committed. The idea of [[suicide]] was excluded at once.
 
       Here, too, we are freed, at the commencement, from all
 
-      supposition of self-murder. The body found at the Barrière du
+      supposition of [[Self|self]]-murder. The [[Body|body]] found at the Barrière du
 
       Roule, was found under such circumstances as to leave us no room
 
@@ -1149,13 +1149,13 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       reward is offered, and respecting whom, solely, our agreement has
 
-      been arranged with the Prefect. We both know this gentleman well.
+      been arranged with the Prefect. We both know this gentleman [[Well|well]].
 
       It will not do to trust him too far. If, dating our inquiries
 
-      from the body found, and thence tracing a murderer, we yet
+      from the [[Body|body]] found, and thence tracing a murderer, we yet
 
-      discover this body to be that of some other individual than
+      discover this [[Body|body]] to be that of some other individual than
 
       Marie; or, if starting from the living Marie, we find her, yet
 
@@ -1167,7 +1167,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       indispensable that our first step should be the determination of
 
-      the identity of the corpse with the Marie Rogêt who is missing.
+      the [[Identity|identity]] of the corpse with the Marie Rogêt who is missing.
 
 
 
@@ -1187,11 +1187,11 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       object of our newspapers rather to create a sensation—to make a
 
-      point—than to further the cause of truth. The latter end is only
+      point—than to further the cause of [[Truth|truth]]. The latter end is only
 
       pursued when it seems coincident with the former. The print which
 
-      merely falls in with ordinary opinion (however well founded this
+      merely falls in with ordinary opinion (however [[Well|well]] founded this
 
       opinion may be) earns for itself no credit with the mob. The mass
 
@@ -1199,7 +1199,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       contradictions_ of the general idea. In ratiocination, not less
 
-      than in literature, it is the epigram which is the most
+      than in literature, it is the [[Epigram|epigram]] which is the most
 
       immediately and the most universally appreciated. In both, it is
 
@@ -1207,7 +1207,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
 
 
-      “What I mean to say is, that it is the mingled epigram and
+      “What I mean to say is, that it is the mingled [[Epigram|epigram]] and
 
       melodrame of the idea, that Marie Rogêt still lives, rather than
 
@@ -1235,31 +1235,31 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       outset. ‘It is folly to suppose,’ he says, ‘that the murder, if
 
-      murder was committed on her body, could have been consummated
+      murder was committed on her [[Body|body]], could have been consummated
 
-      soon enough to have enabled her murderers to throw the body into
+      soon enough to have enabled her murderers to throw the [[Body|body]] into
 
-      the river before midnight.’ We demand at once, and very
+      the [[River|river]] before midnight.’ We demand at once, and very
 
       naturally, why? Why is it folly to suppose that the murder was
 
       committed _within five minutes_ after the girl’s quitting her
 
-      mother’s house? Why is it folly to suppose that the murder was
+      mother’s [[house]]? Why is it folly to suppose that the murder was
 
       committed at any given period of the day? There have been
 
       assassinations at all hours. But, had the murder taken place at
 
-      any moment between nine o’clock in the morning of Sunday, and a
+      any moment between nine o’[[Clock|clock]] in the morning of [[Sunday]], and a
 
-      quarter before midnight, there would still have been time enough
+      quarter before midnight, there would still have been [[Time|time]] enough
 
-      ‘to throw the body into the river before midnight.’ This
+      ‘to throw the [[Body|body]] into the [[River|river]] before midnight.’ This
 
       assumption, then, amounts precisely to this—that the murder was
 
-      not committed on Sunday at all—and, if we allow L’Etoile to
+      not committed on [[Sunday]] at all—and, if we allow L’Etoile to
 
       assume this, we may permit it any liberties whatever. The
 
@@ -1271,13 +1271,13 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       folly to suppose that the murder, if murder was committed on the
 
-      body, could have been committed soon enough to have enabled her
+      [[Body|body]], could have been committed soon enough to have enabled her
 
-      murderers to throw the body into the river before midnight; it is
+      murderers to throw the [[Body|body]] into the [[River|river]] before midnight; it is
 
       folly, we say, to suppose all this, and to suppose at the same
 
-      time, (as we are resolved to suppose,) that the body was not
+      [[Time|time]], (as we are resolved to suppose,) that the [[Body|body]] was not
 
       thrown in until after midnight’—a sentence sufficiently
 
@@ -1293,7 +1293,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       leave it where it is. It is not, however, with L’Etoile that we
 
-      have to do, but with the truth. The sentence in question has but
+      have to do, but with the [[Truth|truth]]. The sentence in question has but
 
       one meaning, as it stands; and this meaning I have fairly stated;
 
@@ -1303,25 +1303,25 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       It was the design of the journalist to say that, at whatever
 
-      period of the day or night of Sunday this murder was committed,
+      period of the day or [[Night|night]] of [[Sunday]] this murder was committed,
 
       it was improbable that the assassins would have ventured to bear
 
-      the corpse to the river before midnight. And herein lies, really,
+      the corpse to the [[River|river]] before midnight. And herein lies, really,
 
       the assumption of which I complain. It is assumed that the murder
 
       was committed at such a position, and under such circumstances,
 
-      that the bearing it to the river became necessary. Now, the
+      that the bearing it to the [[River|river]] became necessary. Now, the
 
-      assassination might have taken place upon the river’s brink, or
+      assassination might have taken place upon the [[River|river]]’s brink, or
 
-      on the river itself; and, thus, the throwing the corpse in the
+      on the [[River|river]] itself; and, thus, the throwing the corpse in the
 
-      water might have been resorted to, at any period of the day or
+      [[Water|water]] might have been resorted to, at any period of the day or
 
-      night, as the most obvious and most immediate mode of disposal.
+      [[Night|night]], as the most obvious and most immediate mode of disposal.
 
       You will understand that I suggest nothing here as probable, or
 
@@ -1337,9 +1337,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       “Having prescribed thus a limit to suit its own preconceived
 
-      notions; having assumed that, if this were the body of Marie, it
+      notions; having assumed that, if this were the [[Body|body]] of Marie, it
 
-      could have been in the water but a very brief time, the journal
+      could have been in the [[Water|water]] but a very brief [[Time|time]], the journal
 
       goes on to say:
 
@@ -1347,21 +1347,21 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       ‘All experience has shown that drowned bodies, or bodies thrown
 
-      into the water immediately after death by violence, require from
+      into the [[Water|water]] immediately after [[Death|death]] by violence, require from
 
       six to ten days for sufficient decomposition to take place to
 
-      bring them to the top of the water. Even when a cannon is fired
+      bring them to the top of the [[Water|water]]. Even when a cannon is fired
 
       over a corpse, and it rises before at least five or six days’
 
-      immersion, it sinks again if let alone.’
+      immersion, it sinks again if let [[Alone|alone]].’
 
 
 
       “These assertions have been tacitly received by every paper in
 
-      Paris, with the exception of Le Moniteur. (*15) This latter print
+      [[Paris]], with the exception of Le Moniteur. (*15) This latter print
 
       endeavors to combat that portion of the paragraph which has
 
@@ -1369,7 +1369,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       instances in which the bodies of individuals known to be drowned
 
-      were found floating after the lapse of less time than is insisted
+      were found floating after the lapse of less [[Time|time]] than is insisted
 
       upon by L’Etoile. But there is something excessively
 
@@ -1385,7 +1385,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       examples could still have been properly regarded only as
 
-      exceptions to L’Etoile’s rule, until such time as the rule itself
+      exceptions to L’Etoile’s rule, until such [[Time|time]] as the rule itself
 
       should be confuted. Admitting the rule, (and this Le Moniteur
 
@@ -1395,7 +1395,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       this argument does not pretend to involve more than a question of
 
-      the probability of the body having risen to the surface in less
+      the probability of the [[Body|body]] having risen to the surface in less
 
       than three days; and this probability will be in favor of
 
@@ -1411,31 +1411,31 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       urged, if at all, against the rule itself; and for this end we
 
-      must examine the rationale of the rule. Now the human body, in
+      must examine the rationale of the rule. Now the human [[Body|body]], in
 
-      general, is neither much lighter nor much heavier than the water
+      general, is neither much lighter nor much heavier than the [[Water|water]]
 
       of the Seine; that is to say, the specific gravity of the human
 
-      body, in its natural condition, is about equal to the bulk of
+      [[Body|body]], in its natural condition, is about equal to the bulk of
 
-      fresh water which it displaces. The bodies of fat and fleshy
+      fresh [[Water|water]] which it displaces. The bodies of fat and fleshy
 
       persons, with small bones, and of women generally, are lighter
 
       than those of the lean and large-boned, and of men; and the
 
-      specific gravity of the water of a river is somewhat influenced
+      specific gravity of the [[Water|water]] of a [[River|river]] is somewhat influenced
 
       by the presence of the tide from sea. But, leaving this tide out
 
       of question, it may be said that very few human bodies will sink
 
-      at all, even in fresh water, of their own accord. Almost any one,
+      at all, even in fresh [[Water|water]], of their own accord. Almost any one,
 
-      falling into a river, will be enabled to float, if he suffer the
+      falling into a [[River|river]], will be enabled to float, if he suffer the
 
-      specific gravity of the water fairly to be adduced in comparison
+      specific gravity of the [[Water|water]] fairly to be adduced in comparison
 
       with his own—that is to say, if he suffer his whole person to be
 
@@ -1445,17 +1445,17 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       walker on land, with the head thrown fully back, and immersed;
 
-      the mouth and nostrils alone remaining above the surface. Thus
+      the mouth and nostrils [[Alone|alone]] remaining above the surface. Thus
 
       circumstanced, we shall find that we float without difficulty and
 
       without exertion. It is evident, however, that the gravities of
 
-      the body, and of the bulk of water displaced, are very nicely
+      the [[Body|body]], and of the bulk of [[Water|water]] displaced, are very nicely
 
       balanced, and that a trifle will cause either to preponderate. An
 
-      arm, for instance, uplifted from the water, and thus deprived of
+      arm, for instance, uplifted from the [[Water|water]], and thus deprived of
 
       its support, is an additional weight sufficient to immerse the
 
@@ -1471,15 +1471,15 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       immersion of the mouth and nostrils, and the inception, during
 
-      efforts to breathe while beneath the surface, of water into the
+      efforts to breathe while beneath the surface, of [[Water|water]] into the
 
-      lungs. Much is also received into the stomach, and the whole body
+      lungs. Much is also received into the stomach, and the whole [[Body|body]]
 
       becomes heavier by the difference between the weight of the air
 
       originally distending these cavities, and that of the fluid which
 
-      now fills them. This difference is sufficient to cause the body
+      now fills them. This difference is sufficient to cause the [[Body|body]]
 
       to sink, as a general rule; but is insufficient in the cases of
 
@@ -1489,11 +1489,11 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
 
 
-      “The corpse, being supposed at the bottom of the river, will
+      “The corpse, being supposed at the [[Bottom|bottom]] of the [[River|river]], will
 
       there remain until, by some means, its specific gravity again
 
-      becomes less than that of the bulk of water which it displaces.
+      becomes less than that of the bulk of [[Water|water]] which it displaces.
 
       This effect is brought about by decomposition, or otherwise. The
 
@@ -1507,7 +1507,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       without a corresponding increase of mass or weight, its specific
 
-      gravity becomes less than that of the water displaced, and it
+      gravity becomes less than that of the [[Water|water]] displaced, and it
 
       forthwith makes its appearance at the surface. But decomposition
 
@@ -1515,13 +1515,13 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       by innumerable agencies; for example, by the heat or cold of the
 
-      season, by the mineral impregnation or purity of the water, by
+      season, by the mineral impregnation or purity of the [[Water|water]], by
 
       its depth or shallowness, by its currency or stagnation, by the
 
-      temperament of the body, by its infection or freedom from disease
+      temperament of the [[Body|body]], by its infection or [[Freedom|freedom]] from disease
 
-      before death. Thus it is evident that we can assign no period,
+      before [[Death|death]]. Thus it is evident that we can assign no period,
 
       with any thing like accuracy, at which the corpse shall rise
 
@@ -1541,7 +1541,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       cavities from other causes), sufficient to induce a distension
 
-      which will bring the body to the surface. The effect produced by
+      which will bring the [[Body|body]] to the surface. The effect produced by
 
       the firing of a cannon is that of simple vibration. This may
 
@@ -1557,21 +1557,21 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
 
 
-      “Having thus before us the whole philosophy of this subject, we
+      “Having thus before us the whole [[philosophy]] of this subject, we
 
       can easily test by it the assertions of L’Etoile. ‘All experience
 
       shows,’ says this paper, ‘that drowned bodies, or bodies thrown
 
-      into the water immediately after death by violence, require from
+      into the [[Water|water]] immediately after [[Death|death]] by violence, require from
 
       six to ten days for sufficient decomposition to take place to
 
-      bring them to the top of the water. Even when a cannon is fired
+      bring them to the top of the [[Water|water]]. Even when a cannon is fired
 
       over a corpse, and it rises before at least five or six days’
 
-      immersion, it sinks again if let alone.’
+      immersion, it sinks again if let [[Alone|alone]].’
 
 
 
@@ -1585,37 +1585,37 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       science and experience show that the period of their rising is,
 
-      and necessarily must be, indeterminate. If, moreover, a body has
+      and necessarily must be, indeterminate. If, moreover, a [[Body|body]] has
 
       risen to the surface through firing of cannon, it will not ‘sink
 
-      again if let alone,’ until decomposition has so far progressed as
+      again if let [[Alone|alone]],’ until decomposition has so far progressed as
 
       to permit the escape of the generated gas. But I wish to call
 
       your attention to the distinction which is made between ‘drowned
 
-      bodies,’ and ‘bodies thrown into the water immediately after
+      bodies,’ and ‘bodies thrown into the [[Water|water]] immediately after
 
-      death by violence.’ Although the writer admits the distinction,
+      [[Death|death]] by violence.’ Although the writer admits the distinction,
 
       he yet includes them all in the same category. I have shown how
 
-      it is that the body of a drowning man becomes specifically
+      it is that the [[Body|body]] of a drowning man becomes specifically
 
-      heavier than its bulk of water, and that he would not sink at
+      heavier than its bulk of [[Water|water]], and that he would not sink at
 
       all, except for the struggles by which he elevates his arms above
 
       the surface, and his gasps for breath while beneath the
 
-      surface—gasps which supply by water the place of the original air
+      surface—gasps which supply by [[Water|water]] the place of the original air
 
       in the lungs. But these struggles and these gasps would not occur
 
-      in the body ‘thrown into the water immediately after death by
+      in the [[Body|body]] ‘thrown into the [[Water|water]] immediately after [[Death|death]] by
 
-      violence.’ Thus, in the latter instance, the body, as a general
+      violence.’ Thus, in the latter instance, the [[Body|body]], as a general
 
       rule, would not sink at all—a fact of which L’Etoile is evidently
 
@@ -1627,25 +1627,25 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
 
 
-      “And now what are we to make of the argument, that the body found
+      “And now what are we to make of the argument, that the [[Body|body]] found
 
       could not be that of Marie Rogêt, because, three days only having
 
-      elapsed, this body was found floating? If drowned, being a woman,
+      elapsed, this [[Body|body]] was found floating? If drowned, being a woman,
 
       she might never have sunk; or having sunk, might have reappeared
 
       in twenty-four hours, or less. But no one supposes her to have
 
-      been drowned; and, dying before being thrown into the river, she
+      been drowned; and, dying before being thrown into the [[River|river]], she
 
       might have been found floating at any period afterwards whatever.
 
 
 
-      “‘But,’ says L’Etoile, ‘if the body had been kept in its mangled
+      “‘But,’ says L’Etoile, ‘if the [[Body|body]] had been kept in its mangled
 
-      state on shore until Tuesday night, some trace would be found on
+      state on shore until Tuesday [[Night|night]], some trace would be found on
 
       shore of the murderers.’ Here it is at first difficult to
 
@@ -1653,9 +1653,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       what he imagines would be an objection to his theory—viz.: that
 
-      the body was kept on shore two days, suffering rapid
+      the [[Body|body]] was kept on shore two days, [[Suffering|suffering]] rapid
 
-      decomposition—more rapid than if immersed in water. He supposes
+      decomposition—more rapid than if immersed in [[Water|water]]. He supposes
 
       that, had this been the case, it might have appeared at the
 
@@ -1679,17 +1679,17 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       journal, ‘that any villains who had committed such a murder as is
 
-      here supposed, would have thrown the body in without weight to
+      here supposed, would have thrown the [[Body|body]] in without weight to
 
       sink it, when such a precaution could have so easily been taken.’
 
       Observe, here, the laughable confusion of thought! No one—not
 
-      even L’Etoile—disputes the murder committed _on the body found_.
+      even L’Etoile—disputes the murder committed _on the [[Body|body]] found_.
 
       The marks of violence are too obvious. It is our reasoner’s
 
-      object merely to show that this body is not Marie’s. He wishes to
+      object merely to show that this [[Body|body]] is not Marie’s. He wishes to
 
       prove that Marie is not assassinated—not that the corpse was not.
 
@@ -1701,13 +1701,13 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       in by murderers. This is all which is proved, if any thing is.
 
-      The question of identity is not even approached, and L’Etoile has
+      The question of [[Identity|identity]] is not even approached, and L’Etoile has
 
       been at great pains merely to gainsay now what it has admitted
 
       only a moment before. ‘We are perfectly convinced,’ it says,
 
-      ‘that the body found was that of a murdered female.’
+      ‘that the [[Body|body]] found was that of a murdered female.’
 
 
 
@@ -1723,9 +1723,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       person saw the girl from the moment of her leaving her mother’s
 
-      house. ‘We have no evidence,’ he says, ‘that Marie Rogêt was in
+      [[house]]. ‘We have no evidence,’ he says, ‘that Marie Rogêt was in
 
-      the land of the living after nine o’clock on Sunday, June the
+      the land of the living after nine o’[[Clock|clock]] on [[Sunday]], June the
 
       twenty-second.’ As his argument is obviously an ex parte one, he
 
@@ -1771,19 +1771,19 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       and garters are sold in packages. The same may be said of the
 
-      flowers in her hat. One thing upon which M. Beauvais strongly
+      [[Flowers|flowers]] in her hat. One thing upon which M. Beauvais strongly
 
       insists is, that the clasp on the garter found, had been set back
 
       to take it in. This amounts to nothing; for most women find it
 
-      proper to take a pair of garters home and fit them to the size of
+      proper to take a pair of garters [[Home|home]] and fit them to the size of
 
       the limbs they are to encircle, rather than to try them in the
 
       store where they purchase.’ Here it is difficult to suppose the
 
-      reasoner in earnest. Had M. Beauvais, in his search for the body
+      reasoner in earnest. Had M. Beauvais, in his search for the [[Body|body]]
 
       of Marie, discovered a corpse corresponding in general size and
 
@@ -1799,13 +1799,13 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       upon the living Marie, his opinion might have been justly
 
-      strengthened; and the increase of positiveness might well have
+      strengthened; and the increase of positiveness might [[Well|well]] have
 
       been in the ratio of the peculiarity, or unusualness, of the
 
       hairy mark. If, the feet of Marie being small, those of the
 
-      corpse were also small, the increase of probability that the body
+      corpse were also small, the increase of probability that the [[Body|body]]
 
       was that of Marie would not be an increase in a ratio merely
 
@@ -1817,11 +1817,11 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       packages,’ you so far augment the probability as to verge upon
 
-      the certain. What, of itself, would be no evidence of identity,
+      the certain. What, of itself, would be no evidence of [[Identity|identity]],
 
       becomes through its corroborative position, proof most sure. Give
 
-      us, then, flowers in the hat corresponding to those worn by the
+      us, then, [[Flowers|flowers]] in the hat corresponding to those worn by the
 
       missing girl, and we seek for nothing farther. If only one
 
@@ -1839,15 +1839,15 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       as her own had been tightened by Marie, shortly previous to her
 
-      leaving home. It is now madness or hypocrisy to doubt. What
+      leaving [[Home|home]]. It is now [[Madness|madness]] or hypocrisy to [[Doubt|doubt]]. What
 
       L’Etoile says in respect to this abbreviation of the garters
 
       being an usual occurrence, shows nothing beyond its own
 
-      pertinacity in error. The elastic nature of the clasp-garter is
+      pertinacity in error. The elastic [[Nature|nature]] of the clasp-garter is
 
-      self-demonstration of the unusualness of the abbreviation. What
+      [[Self|self]]-demonstration of the unusualness of the abbreviation. What
 
       is made to adjust itself, must of necessity require foreign
 
@@ -1855,19 +1855,19 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       strictest sense, that these garters of Marie needed the
 
-      tightening described. They alone would have amply established her
+      tightening described. They [[Alone|alone]] would have amply established her
 
-      identity. But it is not that the corpse was found to have the
+      [[Identity|identity]]. But it is not that the corpse was found to have the
 
       garters of the missing girl, or found to have her shoes, or her
 
-      bonnet, or the flowers of her bonnet, or her feet, or a peculiar
+      bonnet, or the [[Flowers|flowers]] of her bonnet, or her feet, or a peculiar
 
       mark upon the arm, or her general size and appearance—it is that
 
       the corpse had each, and _all collectively_. Could it be proved
 
-      that the editor of L’Etoile _really_ entertained a doubt, under
+      that the editor of L’Etoile _really_ entertained a [[Doubt|doubt]], under
 
       the circumstances, there would be no need, in his case, of a
 
@@ -1879,9 +1879,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       courts. I would here observe that very much of what is rejected
 
-      as evidence by a court, is the best of evidence to the intellect.
+      as evidence by a [[Court|court]], is the best of evidence to the intellect.
 
-      For the court, guiding itself by the general principles of
+      For the [[Court|court]], guiding itself by the general principles of
 
       evidence—the recognized and _booked_ principles—is averse from
 
@@ -1889,9 +1889,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       principle, with rigorous disregard of the conflicting exception,
 
-      is a sure mode of attaining the maximum of attainable truth, in
+      is a sure mode of attaining the maximum of attainable [[Truth|truth]], in
 
-      any long sequence of time. The practice, in mass, is therefore
+      any long sequence of [[Time|time]]. The practice, in mass, is therefore
 
       philosophical; but it is not the less certain that it engenders
 
@@ -1903,9 +1903,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       willing to dismiss them in a breath. You have already fathomed
 
-      the true character of this good gentleman. He is a busy-body,
+      the true character of this good gentleman. He is a busy-[[Body|body]],
 
-      with much of romance and little of wit. Any one so constituted
+      with much of [[Romance|romance]] and little of wit. Any one so constituted
 
       will readily so conduct himself, upon occasion of real
 
@@ -1929,7 +1929,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       that stronger evidence ‘to make others believe,’ could never have
 
-      been adduced, it may be remarked that a man may very well be
+      been adduced, it may be remarked that a man may very [[Well|well]] be
 
       understood to believe, in a case of this kind, without the
 
@@ -1937,7 +1937,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       party. Nothing is more vague than impressions of individual
 
-      identity. Each man recognizes his neighbor, yet there are few
+      [[Identity|identity]]. Each man recognizes his neighbor, yet there are few
 
       instances in which any one is prepared to give a reason for his
 
@@ -1951,15 +1951,15 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       tally much better with my hypothesis of romantic busy-bodyism,
 
-      than with the reasoner’s suggestion of guilt. Once adopting the
+      than with the reasoner’s suggestion of [[Guilt|guilt]]. Once adopting the
 
       more charitable interpretation, we shall find no difficulty in
 
-      comprehending the rose in the key-hole; the ‘Marie’ upon the
+      comprehending the [[Rose|rose]] in the key-hole; the ‘Marie’ upon the
 
       slate; the ‘elbowing the male relatives out of the way;’ the
 
-      ‘aversion to permitting them to see the body;’ the caution given
+      ‘aversion to permitting them to see the [[Body|body]];’ the caution given
 
       to Madame B——, that she must hold no conversation with the
 
@@ -1983,7 +1983,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       of their believing the corpse to be that of the perfumery-girl—we
 
-      shall now proceed as if the question of identity were settled to
+      shall now proceed as if the question of [[Identity|identity]] were settled to
 
       our perfect satisfaction.”
 
@@ -2007,15 +2007,15 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       of low ruffians not far from her mother’s door. ‘It is
 
-      impossible,’ it urges, ‘that a person so well known to thousands
+      impossible,’ it urges, ‘that a person so [[Well|well]] known to thousands
 
       as this young woman was, should have passed three blocks without
 
       some one having seen her.’ This is the idea of a man long
 
-      resident in Paris—a public man—and one whose walks to and fro in
+      resident in [[Paris]]—a public man—and one whose walks to and fro in
 
-      the city, have been mostly limited to the vicinity of the public
+      the [[City|city]], have been mostly limited to the vicinity of the public
 
       offices. He is aware that he seldom passes so far as a dozen
 
@@ -2041,7 +2041,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       who are led to observation of his person through interest in the
 
-      kindred nature of his occupation with their own. But the walks of
+      kindred [[Nature|nature]] of his occupation with their own. But the walks of
 
       Marie may, in general, be supposed discursive. In this particular
 
@@ -2053,7 +2053,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       the mind of Le Commerciel would only be sustained in the event of
 
-      the two individuals traversing the whole city. In this case,
+      the two individuals traversing the whole [[City|city]]. In this case,
 
       granting the personal acquaintances to be equal, the chances
 
@@ -2075,7 +2075,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       personal acquaintances of even the most noted individual in
 
-      Paris, and the entire population of Paris itself.
+      [[Paris]], and the entire population of [[Paris]] itself.
 
 
 
@@ -2087,13 +2087,13 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       was when the streets were full of people,’ says Le Commerciel,
 
-      ‘that she went out.’ But not so. It was at nine o’clock in the
+      ‘that she went out.’ But not so. It was at nine o’[[Clock|clock]] in the
 
-      morning. Now at nine o’clock of every morning in the week, _with
+      morning. Now at nine o’[[Clock|clock]] of every morning in the week, _with
 
-      the exception of Sunday_, the streets of the city are, it is
+      the exception of Sunday_, the streets of the [[City|city]] are, it is
 
-      true, thronged with people. At nine on Sunday, the populace are
+      true, thronged with people. At nine on [[Sunday]], the populace are
 
       chiefly within doors _preparing for church_. No observing person
 
@@ -2119,7 +2119,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       fellows who had no pocket-handkerchiefs.’ Whether this idea is,
 
-      or is not well founded, we will endeavor to see hereafter; but by
+      or is not [[Well|well]] founded, we will endeavor to see hereafter; but by
 
       ‘fellows who have no pocket-handkerchiefs’ the editor intends the
 
@@ -2169,15 +2169,15 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       You cannot fail to have remarked the extreme laxity of the
 
-      examination of the corpse. To be sure, the question of identity
+      examination of the corpse. To be sure, the question of [[Identity|identity]]
 
       was readily determined, or should have been; but there were other
 
-      points to be ascertained. Had the body been in any respect
+      points to be ascertained. Had the [[Body|body]] been in any respect
 
       despoiled? Had the deceased any articles of jewelry about her
 
-      person upon leaving home? if so, had she any when found? These
+      person upon leaving [[Home|home]]? if so, had she any when found? These
 
       are important questions utterly untouched by the evidence; and
 
@@ -2189,15 +2189,15 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       suspicion of this person; but let us proceed methodically. We
 
-      will ascertain beyond a doubt the validity of the affidavits in
+      will ascertain beyond a [[Doubt|doubt]] the validity of the affidavits in
 
-      regard to his whereabouts on the Sunday. Affidavits of this
+      regard to his whereabouts on the [[Sunday]]. Affidavits of this
 
-      character are readily made matter of mystification. Should there
+      character are readily made matter of [[Mystification|mystification]]. Should there
 
       be nothing wrong here, however, we will dismiss St. Eustache from
 
-      our investigations. His suicide, however corroborative of
+      our investigations. His [[suicide]], however corroborative of
 
       suspicion, were there found to be deceit in the affidavits, is,
 
@@ -2211,7 +2211,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       “In that which I now propose, we will discard the interior points
 
-      of this tragedy, and concentrate our attention upon its
+      of this [[Tragedy|tragedy]], and concentrate our attention upon its
 
       outskirts. Not the least usual error, in investigations such as
 
@@ -2223,15 +2223,15 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       the bounds of apparent relevancy. Yet experience has shown, and a
 
-      true philosophy will always show, that a vast, perhaps the larger
+      true [[philosophy]] will always show, that a vast, perhaps the larger
 
-      portion of truth, arises from the seemingly irrelevant. It is
+      portion of [[Truth|truth]], arises from the seemingly irrelevant. It is
 
       through the spirit of this principle, if not precisely through
 
       its letter, that modern science has resolved to calculate upon
 
-      the unforeseen. But perhaps you do not comprehend me. The history
+      the unforeseen. But perhaps you do not comprehend me. The [[history]]
 
       of human knowledge has so uninterruptedly shown that to
 
@@ -2259,7 +2259,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       “I repeat that it is no more than fact, that the larger portion
 
-      of all truth has sprung from the collateral; and it is but in
+      of all [[Truth|truth]] has sprung from the collateral; and it is but in
 
       accordance with the spirit of the principle involved in this
 
@@ -2287,9 +2287,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       of the affair of the affidavits. The result was a firm conviction
 
-      of their validity, and of the consequent innocence of St.
+      of their validity, and of the consequent [[innocence]] of St.
 
-      Eustache. In the mean time my friend occupied himself, with what
+      Eustache. In the mean [[Time|time]] my friend occupied himself, with what
 
       seemed to me a minuteness altogether objectless, in a scrutiny of
 
@@ -2307,7 +2307,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       Royal. At the end of a week, however, she re-appeared at her
 
-      customary comptoir, as well as ever, with the exception of a
+      customary comptoir, as [[Well|well]] as ever, with the exception of a
 
       slight paleness not altogether usual. It was given out by
 
@@ -2317,7 +2317,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       hushed up. We presume that the present absence is a freak of the
 
-      same nature, and that, at the expiration of a week, or perhaps of
+      same [[Nature|nature]], and that, at the expiration of a week, or perhaps of
 
       a month, we shall have her among us again.”—Evening Paper—Monday,
 
@@ -2327,7 +2327,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       “An evening journal of yesterday, refers to a former mysterious
 
-      disappearance of Mademoiselle Rogêt. It is well known that,
+      disappearance of Mademoiselle Rogêt. It is [[Well|well]] known that,
 
       during the week of her absence from Le Blanc’s parfumerie, she
 
@@ -2335,9 +2335,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       debaucheries. A quarrel, it is supposed, providentially led to
 
-      her return home. We have the name of the Lothario in question,
+      her return [[Home|home]]. We have the name of the Lothario in question,
 
-      who is, at present, stationed in Paris, but, for obvious reasons,
+      who is, at present, stationed in [[Paris]], but, for obvious reasons,
 
       forbear to make it public.”—Le Mercurie—Tuesday Morning, June 24.
 
@@ -2347,13 +2347,13 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       “An outrage of the most atrocious character was perpetrated near
 
-      this city the day before yesterday. A gentleman, with his wife
+      this [[City|city]] the day before yesterday. A gentleman, with his wife
 
       and daughter, engaged, about dusk, the services of six young men,
 
       who were idly rowing a boat to and fro near the banks of the
 
-      Seine, to convey him across the river. Upon reaching the opposite
+      Seine, to convey him across the [[River|river]]. Upon reaching the opposite
 
       shore, the three passengers stepped out, and had proceeded so far
 
@@ -2367,7 +2367,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       far from that at which she had originally entered the boat with
 
-      her parents. The villains have escaped for the time, but the
+      her parents. The villains have escaped for the [[Time|time]], but the
 
       police are upon their trail, and some of them will soon be
 
@@ -2397,7 +2397,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       victim of one of the numerous bands of blackguards which infest
 
-      the vicinity of the city upon Sunday. Our own opinion is
+      the vicinity of the [[City|city]] upon [[Sunday]]. Our own opinion is
 
       decidedly in favor of this supposition. We shall endeavor to make
 
@@ -2411,13 +2411,13 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       service, saw an empty boat floating down the Seine. Sails were
 
-      lying in the bottom of the boat. The bargeman towed it under the
+      lying in the [[Bottom|bottom]] of the boat. The bargeman towed it under the
 
       barge office. The next morning it was taken from thence, without
 
       the knowledge of any of the officers. The rudder is now at the
 
-      barge office.”—Le Diligence—Thursday, June 26.
+      barge office.”—Le Diligence—[[thursday|Thursday]], June 26.
 
 
 
@@ -2447,7 +2447,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       us admit the first elopement to have resulted in a quarrel
 
-      between the lovers, and the return home of the betrayed. We are
+      between the [[lovers]], and the return [[Home|home]] of the betrayed. We are
 
       now prepared to view a second elopement (if we know that an
 
@@ -2467,13 +2467,13 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       should have them made to her by another. And here let me call
 
-      your attention to the fact, that the time elapsing between the
+      your attention to the fact, that the [[Time|time]] elapsing between the
 
       first ascertained, and the second supposed elopement, is a few
 
       months more than the general period of the cruises of our
 
-      men-of-war. Had the lover been interrupted in his first villany
+      men-of-war. Had the [[Lover|lover]] been interrupted in his first villany
 
       by the necessity of departure to sea, and had he seized the first
 
@@ -2495,23 +2495,23 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       no honorable suitors of Marie. Of none other is there any thing
 
-      said. Who, then, is the secret lover, of whom the relatives (at
+      said. Who, then, is the secret [[Lover|lover]], of whom the relatives (at
 
       least most of them) know nothing, but whom Marie meets upon the
 
-      morning of Sunday, and who is so deeply in her confidence, that
+      morning of [[Sunday]], and who is so deeply in her confidence, that
 
       she hesitates not to remain with him until the shades of the
 
       evening descend, amid the solitary groves of the Barrière du
 
-      Roule? Who is that secret lover, I ask, of whom, at least, most
+      Roule? Who is that secret [[Lover|lover]], I ask, of whom, at least, most
 
       of the relatives know nothing? And what means the singular
 
       prophecy of Madame Rogêt on the morning of Marie’s departure?—‘I
 
-      fear that I shall never see Marie again.’
+      [[Fear|fear]] that I shall never see Marie again.’
 
 
 
@@ -2519,7 +2519,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       elopement, may we not at least suppose this design entertained by
 
-      the girl? Upon quitting home, she gave it to be understood that
+      the girl? Upon quitting [[Home|home]], she gave it to be understood that
 
       she was about to visit her aunt in the Rue des Drômes and St.
 
@@ -2529,15 +2529,15 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       let us reflect. That she did meet some companion, and proceed
 
-      with him across the river, reaching the Barrière du Roule at so
+      with him across the [[River|river]], reaching the Barrière du Roule at so
 
-      late an hour as three o’clock in the afternoon, is known. But in
+      late an hour as three o’[[Clock|clock]] in the afternoon, is known. But in
 
       consenting so to accompany this individual, (_for whatever
 
       purpose—to her mother known or unknown,_) she must have thought
 
-      of her expressed intention when leaving home, and of the surprise
+      of her expressed intention when leaving [[Home|home]], and of the surprise
 
       and suspicion aroused in the bosom of her affianced suitor, St.
 
@@ -2549,7 +2549,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       intelligence, he should become aware of her continued absence
 
-      from home. She must have thought of these things, I say. She must
+      from [[Home|home]]. She must have thought of these things, I say. She must
 
       have foreseen the chagrin of St. Eustache, the suspicion of all.
 
@@ -2567,7 +2567,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       only to myself. It is necessary that there be no chance of
 
-      interruption—there must be sufficient time given us to elude
+      interruption—there must be sufficient [[Time|time]] given us to elude
 
       pursuit—I will give it to be understood that I shall visit and
 
@@ -2575,15 +2575,15 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       Eustache not to call for me until dark—in this way, my absence
 
-      from home for the longest possible period, without causing
+      from [[Home|home]] for the longest possible period, without causing
 
       suspicion or anxiety, will be accounted for, and I shall gain
 
-      more time than in any other manner. If I bid St. Eustache call
+      more [[Time|time]] than in any other manner. If I bid St. Eustache call
 
       for me at dark, he will be sure not to call before; but, if I
 
-      wholly neglect to bid him call, my time for escape will be
+      wholly neglect to bid him call, my [[Time|time]] for escape will be
 
       diminished, since it will be expected that I return the earlier,
 
@@ -2597,7 +2597,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       that I have played him false—a fact of which I might keep him for
 
-      ever in ignorance, by leaving home without notifying him of my
+      ever in ignorance, by leaving [[Home|home]] without notifying him of my
 
       intention, by returning before dark, and by then stating that I
 
@@ -2605,7 +2605,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       design never to return—or not for some weeks—or not until certain
 
-      concealments are effected—the gaining of time is the only point
+      concealments are effected—the gaining of [[Time|time]] is the only point
 
       about which I need give myself any concern.’
 
@@ -2639,17 +2639,17 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       has been superinduced by the collateral event which is detailed
 
-      in the third of my extracts. All Paris is excited by the
+      in the third of my extracts. All [[Paris]] is excited by the
 
       discovered corpse of Marie, a girl young, beautiful and
 
       notorious. This corpse is found, bearing marks of violence, and
 
-      floating in the river. But it is now made known that, at the very
+      floating in the [[River|river]]. But it is now made known that, at the very
 
       period, or about the very period, in which it is supposed that
 
-      the girl was assassinated, an outrage similar in nature to that
+      the girl was assassinated, an outrage similar in [[Nature|nature]] to that
 
       endured by the deceased, although less in extent, was
 
@@ -2663,17 +2663,17 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       seemed so opportunely to afford it! Marie, too, was found in the
 
-      river; and upon this very river was this known outrage committed.
+      [[River|river]]; and upon this very [[River|river]] was this known outrage committed.
 
       The connexion of the two events had about it so much of the
 
-      palpable, that the true wonder would have been a failure of the
+      palpable, that the true [[Wonder|wonder]] would have been a failure of the
 
       populace to appreciate and to seize it. But, in fact, the one
 
       atrocity, known to be so committed, is, if any thing, evidence
 
-      that the other, committed at a time nearly coincident, was not so
+      that the other, committed at a [[Time|time]] nearly coincident, was not so
 
       committed. It would have been a miracle indeed, if, while a gang
 
@@ -2681,13 +2681,13 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       unheard-of wrong, there should have been another similar gang, in
 
-      a similar locality, in the same city, under the same
+      a similar locality, in the same [[City|city]], under the same
 
       circumstances, with the same means and appliances, engaged in a
 
       wrong of precisely the same aspect, at precisely the same period
 
-      of time! Yet in what, if not in this marvellous train of
+      of [[Time|time]]! Yet in what, if not in this marvellous train of
 
       coincidence, does the accidentally suggested opinion of the
 
@@ -2701,7 +2701,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       thicket, although dense, was in the close vicinity of a public
 
-      road. Within were three or four large stones, forming a kind of
+      [[Road|road]]. Within were three or four large stones, forming a kind of
 
       seat with a back and footstool. On the upper stone was discovered
 
@@ -2725,17 +2725,17 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       it was supposed to indicate the precise scene of the outrage, it
 
-      must be admitted that there was some very good reason for doubt.
+      must be admitted that there was some very good reason for [[Doubt|doubt]].
 
       That it was the scene, I may or I may not believe—but there was
 
-      excellent reason for doubt. Had the true scene been, as Le
+      excellent reason for [[Doubt|doubt]]. Had the true scene been, as Le
 
       Commerciel suggested, in the neighborhood of the Rue Pavée St.
 
       Andrée, the perpetrators of the crime, supposing them still
 
-      resident in Paris, would naturally have been stricken with terror
+      resident in [[Paris]], would naturally have been stricken with terror
 
       at the public attention thus acutely directed into the proper
 
@@ -2759,7 +2759,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       attention, during the twenty days elapsing between the fatal
 
-      Sunday and the afternoon upon which they were found by the boys.
+      [[Sunday]] and the afternoon upon which they were found by the boys.
 
       ‘They were all _mildewed_ down hard,’ says Le Soleil, adopting
 
@@ -2781,7 +2781,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       recollections, of two small boys; for these boys removed the
 
-      articles and took them home before they had been seen by a third
+      articles and took them [[Home|home]] before they had been seen by a third
 
       party. But grass will grow, especially in warm and damp weather,
 
@@ -2797,7 +2797,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       the word no less than three times in the brief paragraph just
 
-      quoted, is he really unaware of the nature of this mildew? Is he
+      quoted, is he really unaware of the [[Nature|nature]] of this mildew? Is he
 
       to be told that it is one of the many classes of fungus, of which
 
@@ -2819,9 +2819,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       remained in the thicket specified, for a longer period than a
 
-      single week—for a longer period than from one Sunday to the next.
+      single week—for a longer period than from one [[Sunday]] to the next.
 
-      Those who know any thing of the vicinity of Paris, know the
+      Those who know any thing of the vicinity of [[Paris]], know the
 
       extreme difficulty of finding seclusion unless at a great
 
@@ -2831,11 +2831,11 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       for a moment to be imagined. Let any one who, being at heart a
 
-      lover of nature, is yet chained by duty to the dust and heat of
+      [[Lover|lover]] of [[Nature|nature]], is yet chained by duty to the [[Dust|dust]] and heat of
 
       this great metropolis—let any such one attempt, even during the
 
-      weekdays, to slake his thirst for solitude amid the scenes of
+      weekdays, to slake his thirst for [[Solitude|solitude]] amid the scenes of
 
       natural loveliness which immediately surround us. At every second
 
@@ -2849,11 +2849,11 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       abound—here are the temples most desecrate. With sickness of the
 
-      heart the wanderer will flee back to the polluted Paris as to a
+      heart the wanderer will flee back to the polluted [[Paris]] as to a
 
       less odious because less incongruous sink of pollution. But if
 
-      the vicinity of the city is so beset during the working days of
+      the vicinity of the [[City|city]] is so beset during the working days of
 
       the week, how much more so on the Sabbath! It is now especially
 
@@ -2861,7 +2861,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       customary opportunities of crime, the town blackguard seeks the
 
-      precincts of the town, not through love of the rural, which in
+      precincts of the town, not through [[Love|love]] of the rural, which in
 
       his heart he despises, but by way of escape from the restraints
 
@@ -2869,7 +2869,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       and the green trees, than the utter license of the country. Here,
 
-      at the road-side inn, or beneath the foliage of the woods, he
+      at the [[Road|road]]-side inn, or beneath the foliage of the woods, he
 
       indulges, unchecked by any eye except those of his boon
 
@@ -2881,11 +2881,11 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       repeat that the circumstance of the articles in question having
 
-      remained undiscovered, for a longer period than from one Sunday
+      remained undiscovered, for a longer period than from one [[Sunday]]
 
       to another, in any thicket in the immediate neighborhood of
 
-      Paris, is to be looked upon as little less than miraculous.
+      [[Paris]], is to be looked upon as little less than miraculous.
 
 
 
@@ -2917,7 +2917,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       of the public attention by them directed, the articles were found
 
-      by the boys; but the suspicion might and may well have been, that
+      by the boys; but the suspicion might and may [[Well|well]] have been, that
 
       the articles were not before found by the boys, for the reason
 
@@ -2953,7 +2953,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       throne? Those who would hesitate at such a wager, have either
 
-      never been boys themselves, or have forgotten the boyish nature.
+      never been boys themselves, or have forgotten the boyish [[Nature|nature]].
 
       I repeat—it is exceedingly hard to comprehend how the articles
 
@@ -3017,9 +3017,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       a piece is ‘torn off,’ from any garment such as is now in
 
-      question, by the agency of a thorn. From the very nature of such
+      question, by the agency of a thorn. From the very [[Nature|nature]] of such
 
-      fabrics, a thorn or nail becoming entangled in them, tears them
+      fabrics, a thorn or nail becoming entangled in them, [[Tears|tears]] them
 
       rectangularly—divides them into two longitudinal rents, at right
 
@@ -3067,7 +3067,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       from the uncaged interior of the dress! These, I say, are things
 
-      which one may well be pardoned for disbelieving; yet, taken
+      which one may [[Well|well]] be pardoned for disbelieving; yet, taken
 
       collectedly, they form, perhaps, less of reasonable ground for
 
@@ -3097,7 +3097,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       bring you, by the most natural route, to a further contemplation
 
-      of the doubt whether this assassination has, or has not, been the
+      of the [[Doubt|doubt]] whether this assassination has, or has not, been the
 
       work of a gang.
 
@@ -3111,7 +3111,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       number of ruffians, have been properly ridiculed as unjust and
 
-      totally baseless, by all the reputable anatomists of Paris. Not
+      totally baseless, by all the reputable anatomists of [[Paris]]. Not
 
       that the matter might not have been as inferred, but that there
 
@@ -3145,7 +3145,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       thus only conceive, the struggle of so violent and so obstinate a
 
-      nature as to have left the ‘traces’ apparent.
+      [[Nature|nature]] as to have left the ‘traces’ apparent.
 
 
 
@@ -3155,7 +3155,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       at all in the thicket where discovered. It seems almost
 
-      impossible that these evidences of guilt should have been
+      impossible that these evidences of [[Guilt|guilt]] should have been
 
       accidentally left where found. There was sufficient presence of
 
@@ -3163,7 +3163,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       positive evidence than the corpse itself (whose features might
 
-      have been quickly obliterated by decay,) is allowed to lie
+      have been quickly obliterated by [[Decay|decay]],) is allowed to lie
 
       conspicuously in the scene of the outrage—I allude to the
 
@@ -3173,7 +3173,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       accident of an individual. Let us see. An individual has
 
-      committed the murder. He is alone with the ghost of the departed.
+      committed the murder. He is [[Alone|alone]] with the [[Ghost|ghost]] of the departed.
 
       He is appalled by what lies motionless before him. The fury of
 
@@ -3181,27 +3181,27 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       the natural awe of the deed. His is none of that confidence which
 
-      the presence of numbers inevitably inspires. He is alone with the
+      the presence of numbers inevitably inspires. He is [[Alone|alone]] with the
 
       dead. He trembles and is bewildered. Yet there is a necessity for
 
-      disposing of the corpse. He bears it to the river, but leaves
+      disposing of the corpse. He bears it to the [[River|river]], but [[Leaves|leaves]]
 
-      behind him the other evidences of guilt; for it is difficult, if
+      behind him the other evidences of [[Guilt|guilt]]; for it is difficult, if
 
       not impossible to carry all the burthen at once, and it will be
 
-      easy to return for what is left. But in his toilsome journey to
+      easy to return for what is left. But in his toilsome [[Journey|journey]] to
 
-      the water his fears redouble within him. The sounds of life
+      the [[Water|water]] his fears redouble within him. The sounds of life
 
       encompass his path. A dozen times he hears or fancies the step of
 
-      an observer. Even the very lights from the city bewilder him.
+      an observer. Even the very lights from the [[City|city]] bewilder him.
 
-      Yet, in time and by long and frequent pauses of deep agony, he
+      Yet, in [[Time|time]] and by long and frequent pauses of deep agony, he
 
-      reaches the river’s brink, and disposes of his ghastly
+      reaches the [[River|river]]’s brink, and disposes of his ghastly
 
       charge—perhaps through the medium of a boat. But now what
 
@@ -3211,7 +3211,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       murderer over that toilsome and perilous path, to the thicket and
 
-      its blood chilling recollections? He returns not, let the
+      its [[Blood|blood]] chilling recollections? He returns not, let the
 
       consequences be what they may. He could not return if he would.
 
@@ -3227,7 +3227,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       confidence; if, indeed confidence is ever wanting in the breast
 
-      of the arrant blackguard; and of arrant blackguards alone are the
+      of the arrant blackguard; and of arrant blackguards [[Alone|alone]] are the
 
       supposed gangs ever constituted. Their number, I say, would have
 
@@ -3249,13 +3249,13 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       corpse when found, ‘a slip, about a foot wide had been torn
 
-      upward from the bottom hem to the waist wound three times round
+      upward from the [[Bottom|bottom]] hem to the waist wound three times round
 
       the waist, and secured by a sort of hitch in the back.’ This was
 
       done with the obvious design of affording a handle by which to
 
-      carry the body. But would any number of men have dreamed of
+      carry the [[Body|body]]. But would any number of men have dreamed of
 
       resorting to such an expedient? To three or four, the limbs of
 
@@ -3265,7 +3265,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       and this brings us to the fact that ‘between the thicket and the
 
-      river, the rails of the fences were found taken down, and the
+      [[River|river]], the rails of the fences were found taken down, and the
 
       ground bore evident traces of some heavy burden having been
 
@@ -3357,7 +3357,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       about the neck, and so dragged his victim to the brink of the
 
-      river. That this ‘bandage,’ only attainable with trouble and
+      [[River|river]]. That this ‘bandage,’ only attainable with trouble and
 
       delay, and but imperfectly answering its purpose—that this
 
@@ -3369,9 +3369,9 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       arising, as we have imagined, after quitting the thicket, (if the
 
-      thicket it was), and on the road between the thicket and the
+      thicket it was), and on the [[Road|road]] between the thicket and the
 
-      river.
+      [[River|river]].
 
 
 
@@ -3381,11 +3381,11 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       thicket, at or about the epoch of the murder. This I grant. I
 
-      doubt if there were not a dozen gangs, such as described by
+      [[Doubt|doubt]] if there were not a dozen gangs, such as described by
 
       Madame Deluc, in and about the vicinity of the Barrière du Roule
 
-      at or about the period of this tragedy. But the gang which has
+      at or about the period of this [[Tragedy|tragedy]]. But the gang which has
 
       drawn upon itself the pointed animadversion, although the
 
@@ -3409,7 +3409,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       man and girl, returned to the inn about dusk, and recrossed the
 
-      river as if in great haste.’
+      [[River|river]] as if in great haste.’
 
 
 
@@ -3419,27 +3419,27 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       upon her violated cakes and ale—cakes and ale for which she might
 
-      still have entertained a faint hope of compensation. Why,
+      still have entertained a faint [[Hope|hope]] of compensation. Why,
 
       otherwise, since it was about dusk, should she make a point of
 
-      the haste? It is no cause for wonder, surely, that even a gang of
+      the haste? It is no cause for [[Wonder|wonder]], surely, that even a gang of
 
-      blackguards should make haste to get home, when a wide river is
+      blackguards should make haste to get [[Home|home]], when a wide [[River|river]] is
 
-      to be crossed in small boats, when storm impends, and when night
+      to be crossed in small boats, when [[Storm|storm]] impends, and when [[Night|night]]
 
       approaches.
 
 
 
-      “I say approaches; for the night had not yet arrived. It was only
+      “I say approaches; for the [[Night|night]] had not yet arrived. It was only
 
       about dusk that the indecent haste of these ‘miscreants’ offended
 
       the sober eyes of Madame Deluc. But we are told that it was upon
 
-      this very evening that Madame Deluc, as well as her eldest son,
+      this very evening that Madame Deluc, as [[Well|well]] as her eldest son,
 
       ‘heard the screams of a female in the vicinity of the inn.’ And
 
@@ -3473,11 +3473,11 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       irresistible. Under the circumstances of large reward offered,
 
-      and full pardon to any king’s evidence, it is not to be imagined,
+      and full pardon to any [[King|king]]’s evidence, it is not to be imagined,
 
       for a moment, that some member of a gang of low ruffians, or of
 
-      any body of men, would not long ago have betrayed his
+      any [[Body|body]] of men, would not long ago have betrayed his
 
       accomplices. Each one of a gang so placed, is not so much greedy
 
@@ -3499,7 +3499,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       under the roof of Madame Deluc, or of a murder perpetrated, in
 
-      the thicket at the Barrière du Roule, by a lover, or at least by
+      the thicket at the Barrière du Roule, by a [[Lover|lover]], or at least by
 
       an intimate and secret associate of the deceased. This associate
 
@@ -3511,7 +3511,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       gay, but not an abject young girl, designates him as above the
 
-      grade of the common sailor. Here the well written and urgent
+      grade of the common sailor. Here the [[Well|well]] written and urgent
 
       communications to the journals are much in the way of
 
@@ -3553,13 +3553,13 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       in evidence that he was seen with Marie—but it would have had no
 
-      force at the period of the deed. The first impulse of an innocent
+      force at the period of the deed. The first impulse of an [[Innocent|innocent]]
 
       man would have been to announce the outrage, and to aid in
 
       identifying the ruffians. This policy would have suggested. He
 
-      had been seen with the girl. He had crossed the river with her in
+      had been seen with the girl. He had crossed the [[River|river]] with her in
 
       an open ferry-boat. The denouncing of the assassins would have
 
@@ -3567,7 +3567,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       relieving himself from suspicion. We cannot suppose him, on the
 
-      night of the fatal Sunday, both innocent himself and incognizant
+      [[Night|night]] of the fatal [[Sunday]], both [[Innocent|innocent]] himself and incognizant
 
       of an outrage committed. Yet only under such circumstances is it
 
@@ -3577,13 +3577,13 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
 
 
-      “And what means are ours, of attaining the truth? We shall find
+      “And what means are ours, of attaining the [[Truth|truth]]? We shall find
 
       these means multiplying and gathering distinctness as we proceed.
 
-      Let us sift to the bottom this affair of the first elopement. Let
+      Let us sift to the [[Bottom|bottom]] this affair of the first elopement. Let
 
-      us know the full history of ‘the officer,’ with his present
+      us know the full [[history]] of ‘the officer,’ with his present
 
       circumstances, and his whereabouts at the precise period of the
 
@@ -3597,13 +3597,13 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       the morning paper, at a previous period, and insisting so
 
-      vehemently upon the guilt of Mennais. And, all this done, let us
+      vehemently upon the [[Guilt|guilt]] of Mennais. And, all this done, let us
 
       again compare these various communications with the known MSS. of
 
       the officer. Let us endeavor to ascertain, by repeated
 
-      questionings of Madame Deluc and her boys, as well as of the
+      questionings of Madame Deluc and her boys, as [[Well|well]] as of the
 
       omnibus driver, Valence, something more of the personal
 
@@ -3665,7 +3665,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       waters of the shore. The peculiar marks on the back and shoulders
 
-      of the victim tell of the bottom ribs of a boat. That the body
+      of the victim tell of the [[Bottom|bottom]] ribs of a boat. That the [[Body|body]]
 
       was found without weight is also corroborative of the idea. If
 
@@ -3675,7 +3675,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       neglected the precaution of supplying himself with it before
 
-      pushing off. In the act of consigning the corpse to the water, he
+      pushing off. In the act of consigning the corpse to the [[Water|water]], he
 
       would unquestionably have noticed his oversight; but then no
 
@@ -3685,7 +3685,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       of his ghastly charge, the murderer would have hastened to the
 
-      city. There, at some obscure wharf, he would have leaped on land.
+      [[City|city]]. There, at some obscure wharf, he would have leaped on land.
 
       But the boat—would he have secured it? He would have been in too
 
@@ -3711,13 +3711,13 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       locality, perhaps, which his duty compels him to frequent. The
 
-      next night, without daring to ask for the rudder, he removes it.
+      next [[Night|night]], without daring to ask for the rudder, he removes it.
 
       Now where is that rudderless boat? Let it be one of our first
 
       purposes to discover. With the first glimpse we obtain of it, the
 
-      dawn of our success shall begin. This boat shall guide us, with a
+      [[Dawn|dawn]] of our [[success]] shall begin. This boat shall guide us, with a
 
       rapidity which will surprise even ourselves, to him who employed
 
@@ -3751,7 +3751,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       What I have said above upon this topic must suffice. In my own
 
-      heart there dwells no faith in præter-nature. That Nature and its
+      heart there dwells no [[Faith|faith]] in præter-[[Nature|nature]]. That [[Nature]] and its
 
       God are two, no man who thinks, will deny. That the latter,
 
@@ -3759,7 +3759,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       unquestionable. I say “at will;” for the question is of will, and
 
-      not, as the insanity of logic has assumed, of power. It is not
+      not, as the insanity of [[logic]] has assumed, of power. It is not
 
       that the Deity cannot modify his laws, but that we insult him in
 
@@ -3779,7 +3779,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       that fate is known, and the fate of one Marie Rogêt up to a
 
-      certain epoch in her history, there has existed a parallel in the
+      certain epoch in her [[history]], there has existed a parallel in the
 
       contemplation of whose wonderful exactitude the reason becomes
 
@@ -3793,7 +3793,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       design to hint at an extension of the parallel, or even to
 
-      suggest that the measures adopted in Paris for the discovery of
+      suggest that the measures adopted in [[Paris]] for the discovery of
 
       the assassin of a grisette, or measures founded in any similar
 
@@ -3815,7 +3815,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       of multiplication at all points of the process, a result
 
-      enormously at variance with truth. And, in regard to the former
+      enormously at variance with [[Truth|truth]]. And, in regard to the former
 
       branch, we must not fail to hold in view that the very Calculus
 
@@ -3849,7 +3849,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       throw which exists only in the Future. The chance for throwing
 
-      sixes seems to be precisely as it was at any ordinary time—that
+      sixes seems to be precisely as it was at any ordinary [[Time|time]]—that
 
       is to say, subject only to the influence of the various other
 
@@ -3871,7 +3871,7 @@ A SEQUEL TO “THE MURDERS IN THE RUE MORGUE.”
 
       arise in the path of Reason through her propensity for seeking
 
-      truth in detail.
+      [[Truth|truth]] in detail.
 
 
 
@@ -3879,19 +3879,19 @@ FOOTNOTES—Marie Rogêt
 
 
 
-      (*1) Upon the original publication of “Marie Roget,” the
+      (*1) Upon the original publication of “[[Marie Roget]],” the
 
       foot-notes now appended were considered unnecessary; but the
 
-      lapse of several years since the tragedy upon which the tale is
+      lapse of several years since the [[Tragedy|tragedy]] upon which the tale is
 
       based, renders it expedient to give them, and also to say a few
 
       words in explanation of the general design. A young girl, Mary
 
-      Cecilia Rogers, was murdered in the vicinity of New York; and,
+      Cecilia Rogers, was murdered in the vicinity of [[New York]]; and,
 
-      although her death occasioned an intense and long-enduring
+      although her [[Death|death]] occasioned an intense and long-enduring
 
       excitement, the mystery attending it had remained unsolved at the
 
@@ -3905,9 +3905,9 @@ FOOTNOTES—Marie Rogêt
 
       the real murder of Mary Rogers. Thus all argument founded upon
 
-      the fiction is applicable to the truth: and the investigation of
+      the fiction is applicable to the [[Truth|truth]]: and the investigation of
 
-      the truth was the object. The “Mystery of Marie Roget” was
+      the [[Truth|truth]] was the object. The “Mystery of [[Marie Roget]]” was
 
       composed at a distance from the scene of the atrocity, and with
 
@@ -3959,17 +3959,17 @@ FOOTNOTES—Marie Rogêt
 
 
 
-      (*9) The New York “Mercury.”
+      (*9) The [[New York]] “Mercury.”
 
 
 
-      (*10) The New York “Brother Jonathan,” edited by H. Hastings
+      (*10) The [[New York]] “Brother Jonathan,” edited by H. [[Hastings]]
 
       Weld, Esq.
 
 
 
-      (*11) New York “Journal of Commerce.”
+      (*11) [[New York]] “Journal of Commerce.”
 
 
 
@@ -3987,7 +3987,7 @@ FOOTNOTES—Marie Rogêt
 
 
 
-      (*15) The New York “Commercial Advertiser,” edited by Col. Stone.
+      (*15) The [[New York]] “Commercial Advertiser,” edited by Col. Stone.
 
 
 
@@ -4011,15 +4011,15 @@ FOOTNOTES—Marie Rogêt
 
 
 
-      (*17) New York “Express”
+      (*17) [[New York]] “Express”
 
 
 
-      (*18) New York “Herald.”
+      (*18) [[New York]] “Herald.”
 
 
 
-      (*19) New York “Courier and Inquirer.”
+      (*19) [[New York]] “Courier and Inquirer.”
 
 
 
@@ -4029,11 +4029,11 @@ FOOTNOTES—Marie Rogêt
 
 
 
-      (*21) New York “Courier and Inquirer.”
+      (*21) [[New York]] “Courier and Inquirer.”
 
 
 
-      (*22) New York “Evening Post.”
+      (*22) [[New York]] “Evening Post.”
 
 
 

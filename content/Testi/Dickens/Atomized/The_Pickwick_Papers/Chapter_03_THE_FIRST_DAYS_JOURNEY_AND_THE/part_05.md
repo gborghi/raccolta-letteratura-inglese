@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 2: THE FIRST DAY’S JOURNEY, AND THE FIRST EVENING’S ADVENTURES; (part 5)"
+title: "The [[Pickwick]] Papers — Chapter 2: THE FIRST DAY’S [[Journey|JOURNEY]], AND THE FIRST EVENING’S ADVENTURES; (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -19,11 +19,11 @@ glistened with satisfaction as he said, ‘Just the thing.’
 
 Mr. Tupman looked round him. The wine, which had exerted its somniferous
 influence over Mr. Snodgrass and Mr. Winkle, had stolen upon the senses
-of Mr. Pickwick. That gentleman had gradually passed through the various
+of Mr. [[Pickwick]]. That gentleman had gradually passed through the various
 stages which precede the lethargy produced by dinner, and its
 consequences. He had undergone the ordinary transitions from the height
 of conviviality to the depth of misery, and from the depth of misery to
-the height of conviviality. Like a gas-lamp in the street, with the wind
+the height of conviviality. Like a gas-lamp in the street, with the [[Wind|wind]]
 in the pipe, he had exhibited for a moment an unnatural brilliancy, then
 sank so low as to be scarcely discernible; after a short interval, he
 had burst out again, to enlighten for a moment; then flickered with an
@@ -32,14 +32,14 @@ head was sunk upon his bosom, and perpetual snoring, with a partial
 choke occasionally, were the only audible indications of the great man’s
 presence.
 
-The temptation to be present at the ball, and to form his first
-impressions of the beauty of the Kentish ladies, was strong upon Mr.
-Tupman. The temptation to take the stranger with him was equally great.
+The [[Temptation|temptation]] to be present at the ball, and to form his first
+impressions of the [[Beauty|beauty]] of the Kentish ladies, was strong upon Mr.
+Tupman. The [[Temptation|temptation]] to take the stranger with him was equally great.
 He was wholly unacquainted with the place and its inhabitants, and the
 stranger seemed to possess as great a knowledge of both as if he had
 lived there from his infancy. Mr. Winkle was asleep, and Mr. Tupman had
 had sufficient experience in such matters to know that the moment he
-awoke he would, in the ordinary course of nature, roll heavily to bed.
+awoke he would, in the ordinary course of [[Nature|nature]], roll heavily to bed.
 He was undecided. ‘Fill your glass, and pass the wine,’ said the
 indefatigable visitor.
 
@@ -59,18 +59,18 @@ very good notion, that--very.’
 ‘We must purchase our tickets,’ said Mr. Tupman.
 
 ‘Not worth while splitting a guinea,’ said the stranger, ‘toss who shall
-pay for both--I call; you spin--first time--woman--woman--bewitching
+pay for both--I call; you spin--first [[Time|time]]--woman--woman--bewitching
 woman,’ and down came the sovereign with the dragon (called by courtesy
 a woman) uppermost.
 
 Mr. Tupman rang the bell, purchased the tickets, and ordered chamber
 candlesticks. In another quarter of an hour the stranger was completely
-arrayed in a full suit of Mr. Nathaniel Winkle’s.
+arrayed in a full suit of Mr. [[Nathaniel Winkle]]’s.
 
 ‘It’s a new coat,’ said Mr. Tupman, as the stranger surveyed himself
 with great complacency in a cheval glass; ‘the first that’s been made
 with our club button,’ and he called his companions’ attention to the
-large gilt button which displayed a bust of Mr. Pickwick in the centre,
+large gilt button which displayed a bust of Mr. [[Pickwick]] in the centre,
 and the letters ‘P. C.’ on either side.
 
 ‘“P. C.”’ said the stranger--‘queer set out--old fellow’s likeness, and
@@ -82,20 +82,20 @@ device.
 himself round to catch a glimpse in the glass of the waist buttons,
 which were half-way up his back. ‘Like a general postman’s coat--queer
 coats those--made by contract--no measuring--mysterious dispensations of
-Providence--all the short men get long coats--all the long men short
+[[Providence]]--all the short men get long coats--all the long men short
 ones.’ Running on in this way, Mr. Tupman’s new companion adjusted his
 dress, or rather the dress of Mr. Winkle; and, accompanied by Mr.
 Tupman, ascended the staircase leading to the ballroom.
 
-‘What names, sir?’ said the man at the door. Mr. Tracy Tupman was
+‘What names, sir?’ said the man at the door. Mr. [[Tracy Tupman]] was
 stepping forward to announce his own titles, when the stranger prevented
 him.
 
 ‘No names at all;’ and then he whispered Mr. Tupman, ‘names won’t do--
 not known--very good names in their way, but not great ones--capital
 names for a small party, but won’t make an impression in public
-assemblies--incog. the thing--gentlemen from London--distinguished
-foreigners--anything.’ The door was thrown open, and Mr. Tracy Tupman
+assemblies--incog. the thing--gentlemen from [[London]]--distinguished
+foreigners--anything.’ The door was thrown open, and Mr. [[Tracy Tupman]]
 and the stranger entered the ballroom.
 
 It was a long room, with crimson-covered benches, and wax candles in

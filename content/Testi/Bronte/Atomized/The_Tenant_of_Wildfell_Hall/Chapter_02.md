@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 2"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 2"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -24,13 +24,13 @@ I perceive, with joy, my most valued friend, that the cloud of your
 
 displeasure has passed away; the light of your countenance blesses me
 
-once more, and you desire the continuation of my story: therefore,
+once more, and you [[Desire|desire]] the continuation of my story: therefore,
 
 without more ado, you shall have it.
 
 
 
-I think the day I last mentioned was a certain Sunday, the latest in
+I think the day I last mentioned was a certain [[Sunday]], the latest in
 
 the October of 1827. On the following Tuesday I was out with my dog and
 
@@ -48,7 +48,7 @@ mount the steep acclivity of Wildfell, the wildest and the loftiest
 
 eminence in our neighbourhood, where, as you ascend, the hedges, as
 
-well as the trees, become scanty and stunted, the former, at length,
+[[Well|well]] as the trees, become scanty and stunted, the former, at length,
 
 giving place to rough stone fences, partly greened over with ivy and
 
@@ -70,7 +70,7 @@ these were not _my_ property.
 
 
 
-Near the top of this hill, about two miles from Linden-Car, stood
+Near the top of this [[Hill|hill]], about two miles from Linden-Car, stood
 
 Wildfell Hall, a superannuated mansion of the Elizabethan era, built of
 
@@ -78,9 +78,9 @@ dark grey stone, venerable and picturesque to look at, but doubtless,
 
 cold and gloomy enough to inhabit, with its thick stone mullions and
 
-little latticed panes, its time-eaten air-holes, and its too lonely,
+little latticed panes, its [[Time|time]]-eaten air-holes, and its too lonely,
 
-too unsheltered situation,—only shielded from the war of wind and
+too unsheltered situation,—only shielded from the war of [[Wind|wind]] and
 
 weather by a group of Scotch firs, themselves half blighted with
 
@@ -88,13 +88,13 @@ storms, and looking as stern and gloomy as the Hall itself. Behind it
 
 lay a few desolate fields, and then the brown heath-clad summit of the
 
-hill; before it (enclosed by stone walls, and entered by an iron gate,
+[[Hill|hill]]; before it (enclosed by stone walls, and entered by an iron gate,
 
 with large balls of grey granite—similar to those which decorated the
 
-roof and gables—surmounting the gate-posts) was a garden,—once stocked
+roof and gables—surmounting the gate-posts) was a [[Garden|garden]],—once stocked
 
-with such hard plants and flowers as could best brook the soil and
+with such hard plants and [[Flowers|flowers]] as could best brook the soil and
 
 climate, and such trees and shrubs as could best endure the gardener’s
 
@@ -102,7 +102,7 @@ torturing shears, and most readily assume the shapes he chose to give
 
 them,—now, having been left so many years untilled and untrimmed,
 
-abandoned to the weeds and the grass, to the frost and the wind, the
+abandoned to the weeds and the grass, to the [[Frost|frost]] and the [[Wind|wind]], the
 
 rain and the drought, it presented a very singular appearance indeed.
 
@@ -112,19 +112,19 @@ were two-thirds withered away, and the rest grown beyond all reasonable
 
 bounds; the old boxwood swan, that sat beside the scraper, had lost its
 
-neck and half its body: the castellated towers of laurel in the middle
+neck and half its [[Body|body]]: the castellated towers of laurel in the middle
 
-of the garden, the gigantic warrior that stood on one side of the
+of the [[Garden|garden]], the gigantic warrior that stood on one side of the
 
-gateway, and the lion that guarded the other, were sprouted into such
+gateway, and the [[Lion|lion]] that guarded the other, were sprouted into such
 
 fantastic shapes as resembled nothing either in heaven or earth, or in
 
-the waters under the earth; but, to my young imagination, they
+the waters under the earth; but, to my young [[Imagination|imagination]], they
 
-presented all of them a goblinish appearance, that harmonised well with
+presented all of them a goblinish appearance, that harmonised [[Well|well]] with
 
-the ghostly legions and dark traditions our old nurse had told us
+the ghostly legions and dark traditions our old [[Nurse|nurse]] had told us
 
 respecting the haunted hall and its departed occupants.
 
@@ -142,7 +142,7 @@ sauntered on, to have a look at the old place, and see what changes had
 
 been wrought in it by its new inhabitant. I did not like to go quite to
 
-the front and stare in at the gate; but I paused beside the garden
+the front and stare in at the gate; but I paused beside the [[Garden|garden]]
 
 wall, and looked, and saw no change—except in one wing, where the
 
@@ -160,7 +160,7 @@ in which old associations and the fair young hermit, now within those
 
 walls, bore a nearly equal part, I heard a slight rustling and
 
-scrambling just within the garden; and, glancing in the direction
+scrambling just within the [[Garden|garden]]; and, glancing in the direction
 
 whence the sound proceeded, I beheld a tiny hand elevated above the
 
@@ -182,7 +182,7 @@ with its muzzle to the ground. The little creature raised its face and
 
 called aloud to the dog. The good-natured animal paused, looked up, and
 
-wagged his tail, but made no further advances. The child (a little boy,
+wagged his tail, but made no further advances. The [[Child|child]] (a little boy,
 
 apparently about five years old) scrambled up to the top of the wall,
 
@@ -212,17 +212,17 @@ I wiped his eyes with his frock, told him he was all right and called
 
 Sancho to pacify him. He was just putting little hand on the dog’s neck
 
-and beginning to smile through his tears, when I heard behind me a
+and beginning to smile through his [[Tears|tears]], when I heard behind me a
 
 click of the iron gate, and a rustle of female garments, and lo! Mrs.
 
 Graham darted upon me—her neck uncovered, her black locks streaming in
 
-the wind.
+the [[Wind|wind]].
 
 
 
-“Give me the child!” she said, in a voice scarce louder than a whisper,
+“Give me the [[Child|child]]!” she said, in a voice scarce louder than a whisper,
 
 but with a tone of startling vehemence, and, seizing the boy, she
 
@@ -236,7 +236,7 @@ breathless, quivering with agitation.
 
 
 
-“I was not harming the child, madam,” said I, scarce knowing whether to
+“I was not harming the [[Child|child]], madam,” said I, scarce knowing whether to
 
 be most astonished or displeased; “he was tumbling off the wall there;
 
@@ -254,7 +254,7 @@ blush mantling on her cheek—“I did not know you;—and I thought—”
 
 
 
-She stooped to kiss the child, and fondly clasped her arm round his
+She stooped to kiss the [[Child|child]], and fondly clasped her arm round his
 
 neck.
 
@@ -290,7 +290,7 @@ so greatly flattered at the idea as I ought to have been.
 
 she, somewhat dubiously surveying my face;—“and I think I saw you at
 
-church on Sunday.”
+church on [[Sunday]].”
 
 
 
@@ -312,9 +312,9 @@ more provoking to me, because I could not think it affected.
 
 “Good-morning, Mr. Markham,” said she; and without another word or
 
-glance, she withdrew, with her child, into the garden; and I returned
+glance, she withdrew, with her [[Child|child]], into the [[Garden|garden]]; and I returned
 
-home, angry and dissatisfied—I could scarcely tell you why, and
+[[Home|home]], angry and dissatisfied—I could scarcely tell you why, and
 
 therefore will not attempt it.
 
@@ -334,7 +334,7 @@ I found her, as usual, busy with some piece of soft embroidery (the
 
 mania for Berlin wools had not yet commenced), while her sister was
 
-seated at the chimney-corner, with the cat on her knee, mending a heap
+seated at the chimney-corner, with the cat on her knee, [[mending]] a heap
 
 of stockings.
 
@@ -362,13 +362,13 @@ parish, and not likely to be back for an hour!”
 
 “Never mind; I can manage to spend a few minutes with his daughters, if
 
-they’ll allow me,” said I, bringing a chair to the fire, and seating
+they’ll allow me,” said I, bringing a chair to the [[Fire|fire]], and seating
 
 myself therein, without waiting to be asked.
 
 
 
-“Well, if you’ll be very good and amusing, we shall not object.”
+“[[Well]], if you’ll be very good and amusing, we shall not object.”
 
 
 
@@ -384,7 +384,7 @@ render my company agreeable; and what little effort I made, was
 
 apparently pretty successful, for Miss Eliza was never in a better
 
-humour. We seemed, indeed, to be mutually pleased with each other, and
+[[Humour|humour]]. We seemed, indeed, to be mutually pleased with each other, and
 
 managed to maintain between us a cheerful and animated though not very
 
@@ -436,9 +436,9 @@ impatiently pushed her away.
 
 
 
-But it was time for me to be going: make what haste I would, I should
+But it was [[Time|time]] for me to be going: make what haste I would, I should
 
-still be too late for tea; and my mother was the soul of order and
+still be too late for tea; and my mother was the [[Soul|soul]] of order and
 
 punctuality.
 
@@ -448,8 +448,8 @@ My fair friend was evidently unwilling to bid me adieu. I tenderly
 
 squeezed her little hand at parting; and she repaid me with one of her
 
-softest smiles and most bewitching glances. I went home very happy,
+softest smiles and most bewitching glances. I went [[Home|home]] very happy,
 
 with a heart brimful of complacency for myself, and overflowing with
 
-love for Eliza.
+[[Love|love]] for Eliza.

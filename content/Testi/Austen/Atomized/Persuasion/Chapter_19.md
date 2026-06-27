@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 19"
+title: "[[Persuasion]] — Chapter 19"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Persuasion-(Austen)"
@@ -20,13 +20,13 @@ CHAPTER XIX.
 
 
 
-While Admiral Croft was taking this walk with Anne, and expressing his
+While [[Admiral Croft]] was taking this walk with Anne, and expressing his
 
-wish of getting Captain Wentworth to Bath, Captain Wentworth was
+wish of getting [[Captain Wentworth]] to Bath, [[Captain Wentworth]] was
 
 already on his way thither. Before Mrs Croft had written, he was
 
-arrived, and the very next time Anne walked out, she saw him.
+arrived, and the very next [[Time|time]] Anne walked out, she saw him.
 
 
 
@@ -36,7 +36,7 @@ Milsom Street. It began to rain, not much, but enough to make shelter
 
 desirable for women, and quite enough to make it very desirable for
 
-Miss Elliot to have the advantage of being conveyed home in Lady
+Miss Elliot to have the advantage of being conveyed [[Home|home]] in Lady
 
 Dalrymple’s carriage, which was seen waiting at a little distance; she,
 
@@ -46,7 +46,7 @@ stepped to Lady Dalrymple, to request her assistance. He soon joined
 
 them again, successful, of course; Lady Dalrymple would be most happy
 
-to take them home, and would call for them in a few minutes.
+to take them [[Home|home]], and would call for them in a few minutes.
 
 
 
@@ -56,11 +56,11 @@ with any comfort. Miss Carteret was with her mother; consequently it
 
 was not reasonable to expect accommodation for all the three Camden
 
-Place ladies. There could be no doubt as to Miss Elliot. Whoever
+Place ladies. There could be no [[Doubt|doubt]] as to Miss Elliot. Whoever
 
 suffered inconvenience, she must suffer none, but it occupied a little
 
-time to settle the point of civility between the other two. The rain
+[[Time|time]] to settle the point of civility between the other two. The rain
 
 was a mere trifle, and Anne was most sincere in preferring a walk with
 
@@ -88,7 +88,7 @@ It was fixed accordingly, that Mrs Clay should be of the party in the
 
 carriage; and they had just reached this point, when Anne, as she sat
 
-near the window, descried, most decidedly and distinctly, Captain
+near the [[Window|window]], descried, most decidedly and distinctly, Captain
 
 Wentworth walking down the street.
 
@@ -104,7 +104,7 @@ confusion. She was lost, and when she had scolded back her senses, she
 
 found the others still waiting for the carriage, and Mr Elliot (always
 
-obliging) just setting off for Union Street on a commission of Mrs
+obliging) just setting off for [[Union]] Street on a commission of Mrs
 
 Clay’s.
 
@@ -114,7 +114,7 @@ She now felt a great inclination to go to the outer door; she wanted to
 
 see if it rained. Why was she to suspect herself of another motive?
 
-Captain Wentworth must be out of sight. She left her seat, she would
+[[Captain Wentworth]] must be out of sight. She left her seat, she would
 
 go; one half of her should not be always so much wiser than the other
 
@@ -122,7 +122,7 @@ half, or always suspecting the other of being worse than it was. She
 
 would see if it rained. She was sent back, however, in a moment by the
 
-entrance of Captain Wentworth himself, among a party of gentlemen and
+entrance of [[Captain Wentworth]] himself, among a party of gentlemen and
 
 ladies, evidently his acquaintance, and whom he must have joined a
 
@@ -130,7 +130,7 @@ little below Milsom Street. He was more obviously struck and confused
 
 by the sight of her than she had ever observed before; he looked quite
 
-red. For the first time, since their renewed acquaintance, she felt
+red. For the first [[Time|time]], since their renewed acquaintance, she felt
 
 that she was betraying the least sensibility of the two. She had the
 
@@ -140,7 +140,7 @@ overpowering, blinding, bewildering, first effects of strong surprise
 
 were over with her. Still, however, she had enough to feel! It was
 
-agitation, pain, pleasure, a something between delight and misery.
+agitation, [[Pain|pain]], pleasure, a something between delight and misery.
 
 
 
@@ -164,11 +164,11 @@ very much together, got to speak to each other with a considerable
 
 portion of apparent indifference and calmness; but he could not do it
 
-now. Time had changed him, or Louisa had changed him. There was
+now. [[Time]] had changed him, or Louisa had changed him. There was
 
-consciousness of some sort or other. He looked very well, not as if he
+consciousness of some sort or other. He looked very [[Well|well]], not as if he
 
-had been suffering in health or spirits, and he talked of Uppercross,
+had been [[Suffering|suffering]] in health or spirits, and he talked of Uppercross,
 
 of the Musgroves, nay, even of Louisa, and had even a momentary look of
 
@@ -186,7 +186,7 @@ him, that there was complete internal recognition on each side; she was
 
 convinced that he was ready to be acknowledged as an acquaintance,
 
-expecting it, and she had the pain of seeing her sister turn away with
+expecting it, and she had the [[Pain|pain]] of seeing her sister turn away with
 
 unalterable coldness.
 
@@ -204,7 +204,7 @@ understand that Lady Dalrymple was calling to convey Miss Elliot. At
 
 last Miss Elliot and her friend, unattended but by the servant, (for
 
-there was no cousin returned), were walking off; and Captain Wentworth,
+there was no cousin returned), were walking off; and [[Captain Wentworth]],
 
 watching them, turned again to Anne, and by manner, rather than words,
 
@@ -262,19 +262,19 @@ relation and friend. He came in with eagerness, appeared to see and
 
 think only of her, apologised for his stay, was grieved to have kept
 
-her waiting, and anxious to get her away without further loss of time
+her waiting, and anxious to get her away without further loss of [[Time|time]]
 
 and before the rain increased; and in another moment they walked off
 
 together, her arm under his, a gentle and embarrassed glance, and a
 
-“Good morning to you!” being all that she had time for, as she passed
+“Good morning to you!” being all that she had [[Time|time]] for, as she passed
 
 away.
 
 
 
-As soon as they were out of sight, the ladies of Captain Wentworth’s
+As soon as they were out of sight, the ladies of [[Captain Wentworth]]’s
 
 party began talking of them.
 
@@ -298,7 +298,7 @@ he is the most agreeable man she ever was in company with.”
 
 
 
-“She is pretty, I think; Anne Elliot; very pretty, when one comes to
+“She is pretty, I think; [[Anne Elliot]]; very pretty, when one comes to
 
 look at her. It is not the fashion to say so, but I confess I admire
 
@@ -326,19 +326,19 @@ nothing could exceed his solicitude and care, and though his subjects
 
 were principally such as were wont to be always interesting: praise,
 
-warm, just, and discriminating, of Lady Russell, and insinuations
+warm, just, and discriminating, of [[Lady Russell]], and insinuations
 
 highly rational against Mrs Clay. But just now she could think only of
 
-Captain Wentworth. She could not understand his present feelings,
+[[Captain Wentworth]]. She could not understand his present feelings,
 
-whether he were really suffering much from disappointment or not; and
+whether he were really [[Suffering|suffering]] much from disappointment or not; and
 
 till that point were settled, she could not be quite herself.
 
 
 
-She hoped to be wise and reasonable in time; but alas! alas! she must
+She hoped to be wise and reasonable in [[Time|time]]; but alas! alas! she must
 
 confess to herself that she was not wise yet.
 
@@ -352,7 +352,7 @@ recollect it. He might be only passing through. But it was more
 
 probable that he should be come to stay. In that case, so liable as
 
-every body was to meet every body in Bath, Lady Russell would in all
+every [[Body|body]] was to meet every [[Body|body]] in Bath, [[Lady Russell]] would in all
 
 likelihood see him somewhere. Would she recollect him? How would it all
 
@@ -360,13 +360,13 @@ be?
 
 
 
-She had already been obliged to tell Lady Russell that Louisa Musgrove
+She had already been obliged to tell [[Lady Russell]] that Louisa Musgrove
 
-was to marry Captain Benwick. It had cost her something to encounter
+was to marry [[Captain Benwick]]. It had cost her something to encounter
 
-Lady Russell’s surprise; and now, if she were by any chance to be
+[[Lady Russell]]’s surprise; and now, if she were by any chance to be
 
-thrown into company with Captain Wentworth, her imperfect knowledge of
+thrown into company with [[Captain Wentworth]], her imperfect knowledge of
 
 the matter might add another shade of prejudice against him.
 
@@ -384,25 +384,25 @@ greater part of the street. There were many other men about him, many
 
 groups walking the same way, but there was no mistaking him. She looked
 
-instinctively at Lady Russell; but not from any mad idea of her
+instinctively at [[Lady Russell]]; but not from any mad idea of her
 
 recognising him so soon as she did herself. No, it was not to be
 
-supposed that Lady Russell would perceive him till they were nearly
+supposed that [[Lady Russell]] would perceive him till they were nearly
 
-opposite. She looked at her however, from time to time, anxiously; and
+opposite. She looked at her however, from [[Time|time]] to [[Time|time]], anxiously; and
 
 when the moment approached which must point him out, though not daring
 
 to look again (for her own countenance she knew was unfit to be seen),
 
-she was yet perfectly conscious of Lady Russell’s eyes being turned
+she was yet perfectly conscious of [[Lady Russell]]’s eyes being turned
 
 exactly in the direction for him—of her being, in short, intently
 
 observing him. She could thoroughly comprehend the sort of fascination
 
-he must possess over Lady Russell’s mind, the difficulty it must be for
+he must possess over [[Lady Russell]]’s mind, the difficulty it must be for
 
 her to withdraw her eyes, the astonishment she must be feeling that
 
@@ -412,19 +412,19 @@ and in active service too, without robbing him of one personal grace!
 
 
 
-At last, Lady Russell drew back her head. “Now, how would she speak of
+At last, [[Lady Russell]] drew back her head. “Now, how would she speak of
 
 him?”
 
 
 
-“You will wonder,” said she, “what has been fixing my eye so long; but
+“You will [[Wonder|wonder]],” said she, “what has been fixing my eye so long; but
 
-I was looking after some window-curtains, which Lady Alicia and Mrs
+I was looking after some [[Window|window]]-curtains, which Lady Alicia and Mrs
 
-Frankland were telling me of last night. They described the
+Frankland were telling me of last [[Night|night]]. They described the
 
-drawing-room window-curtains of one of the houses on this side of the
+drawing-room [[Window|window]]-curtains of one of the houses on this side of the
 
 way, and this part of the street, as being the handsomest and best hung
 
@@ -464,25 +464,25 @@ concert for the benefit of a person patronised by Lady Dalrymple. Of
 
 course they must attend. It was really expected to be a good one, and
 
-Captain Wentworth was very fond of music. If she could only have a few
+[[Captain Wentworth]] was very fond of music. If she could only have a few
 
 minutes conversation with him again, she fancied she should be
 
 satisfied; and as to the power of addressing him, she felt all over
 
-courage if the opportunity occurred. Elizabeth had turned from him,
+[[Courage|courage]] if the opportunity occurred. Elizabeth had turned from him,
 
-Lady Russell overlooked him; her nerves were strengthened by these
+[[Lady Russell]] overlooked him; her nerves were strengthened by these
 
 circumstances; she felt that she owed him attention.
 
 
 
-She had once partly promised Mrs Smith to spend the evening with her;
+She had once partly promised Mrs [[smith|Smith]] to spend the evening with her;
 
 but in a short hurried call she excused herself and put it off, with
 
-the more decided promise of a longer visit on the morrow. Mrs Smith
+the more decided promise of a longer visit on the morrow. Mrs [[smith|Smith]]
 
 gave a most good-humoured acquiescence.
 
@@ -494,9 +494,9 @@ Who is your party?”
 
 
 
-Anne named them all. Mrs Smith made no reply; but when she was leaving
+Anne named them all. Mrs [[smith|Smith]] made no reply; but when she was leaving
 
-her said, and with an expression half serious, half arch, “Well, I
+her said, and with an expression half serious, half arch, “[[Well]], I
 
 heartily wish your concert may answer; and do not fail me to-morrow if
 

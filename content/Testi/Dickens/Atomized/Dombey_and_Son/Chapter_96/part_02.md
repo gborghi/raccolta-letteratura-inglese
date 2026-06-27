@@ -14,25 +14,25 @@ tags:
 </nav>
 
 
-He had been long communing with these thoughts, when one night he
-sought her in her own apartment, after he had heard her return home
-late. She was alone, in her brilliant dress, and had but that moment
-come from her mother’s room. Her face was melancholy and pensive, when
+He had been long communing with these thoughts, when one [[Night|night]] he
+sought her in her own apartment, after he had heard her return [[Home|home]]
+late. She was [[Alone|alone]], in her brilliant dress, and had but that moment
+come from her mother’s room. Her face was [[Melancholy|melancholy]] and pensive, when
 he came upon her; but it marked him at the door; for, glancing at the
-mirror before it, he saw immediately, as in a picture-frame, the
-knitted brow, and darkened beauty that he knew so well.
+[[Mirror|mirror]] before it, he saw immediately, as in a picture-frame, the
+knitted brow, and darkened [[Beauty|beauty]] that he knew so [[Well|well]].
 
 “Mrs Dombey,” he said, entering, “I must beg leave to have a few words
 with you.”
 
 “To-morrow,” she replied.
 
-“There is no time like the present, Madam,” he returned. “You mistake
+“There is no [[Time|time]] like the present, Madam,” he returned. “You mistake
 your position. I am used to choose my own times; not to have them
 chosen for me. I think you scarcely understand who and what I am, Mrs
 Dombey.”
 
-“I think,” she answered, “that I understand you very well.”
+“I think,” she answered, “that I understand you very [[Well|well]].”
 
 She looked upon him as she said so, and folding her white arms,
 sparkling with gold and gems, upon her swelling breast, turned away her
@@ -40,26 +40,26 @@ eyes.
 
 If she had been less handsome, and less stately in her cold composure,
 she might not have had the power of impressing him with the sense of
-disadvantage that penetrated through his utmost pride. But she had the
+disadvantage that penetrated through his utmost [[Pride|pride]]. But she had the
 power, and he felt it keenly. He glanced round the room: saw how the
 splendid means of personal adornment, and the luxuries of dress, were
 scattered here and there, and disregarded; not in mere caprice and
 carelessness (or so he thought), but in a steadfast haughty disregard
-of costly things: and felt it more and more. Chaplets of flowers,
+of costly things: and felt it more and more. Chaplets of [[Flowers|flowers]],
 plumes of feathers, jewels, laces, silks and satins; look where he
 would, he saw riches, despised, poured out, and made of no account. The
-very diamonds—a marriage gift—that rose and fell impatiently upon her
+very diamonds—a [[Marriage|marriage]] gift—that [[Rose|rose]] and fell impatiently upon her
 bosom, seemed to pant to break the chain that clasped them round her
 neck, and roll down on the floor where she might tread upon them.
 
 He felt his disadvantage, and he showed it. Solemn and strange among
 this wealth of colour and voluptuous glitter, strange and constrained
-towards its haughty mistress, whose repellent beauty it repeated, and
-presented all around him, as in so many fragments of a mirror, he was
+towards its haughty mistress, whose repellent [[Beauty|beauty]] it repeated, and
+presented all around him, as in so many fragments of a [[Mirror|mirror]], he was
 conscious of embarrassment and awkwardness. Nothing that ministered to
-her disdainful self-possession could fail to gall him. Galled and
+her disdainful [[Self|self]]-possession could fail to gall him. Galled and
 irritated with himself, he sat down, and went on, in no improved
-humour:
+[[Humour|humour]]:
 
 “Mrs Dombey, it is very necessary that there should be some
 understanding arrived at between us. Your conduct does not please me,
@@ -110,7 +110,7 @@ Still the fixed look, the trembling lips, the throbbing breast, the
 face now crimson and now white; and still the deep whisper Florence,
 Florence, speaking to her in the beating of her heart.
 
-His insolence of self-importance dilated as he saw this alteration in
+His insolence of [[Self|self]]-importance dilated as he saw this alteration in
 her. Swollen no less by her past scorn of him, and his so recent
 feeling of disadvantage, than by her present submission (as he took it
 to be), it became too mighty for his breast, and burst all bounds. Why,
@@ -129,7 +129,7 @@ making it.—To Me—To Me!” he added, with emphasis.
 No word from her. No change in her. Her eyes upon him.
 
 “I have learnt from your mother, Mrs Dombey,” said Mr Dombey, with
-magisterial importance, “what no doubt you know, namely, that Brighton
+magisterial importance, “what no [[Doubt|doubt]] you know, namely, that Brighton
 is recommended for her health. Mr Carker has been so good.”
 
 She changed suddenly. Her face and bosom glowed as if the red light of

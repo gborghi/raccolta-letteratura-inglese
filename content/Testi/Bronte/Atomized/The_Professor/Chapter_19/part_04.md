@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 18 (part 4)"
+title: "[[The Professor]] — Chapter 18 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -20,19 +20,19 @@ petite lecon dans votre etat d’instituteur.” (I wish I might write
 
 all she said to me in French--it loses sadly by being translated into
 
-English.) We had now reached THE garden-chair; the directress sat down,
+English.) We had now reached THE [[Garden|garden]]-chair; the directress sat down,
 
 and signed to me to sit by her, but I only rested my knee on the seat,
 
 and stood leaning my head and arm against the embowering branch of a
 
-huge laburnum, whose golden flowers, blent with the dusky green leaves
+huge laburnum, whose golden [[Flowers|flowers]], blent with the dusky green [[Leaves|leaves]]
 
 of a lilac-bush, formed a mixed arch of shade and sunshine over the
 
-retreat. Mdlle. Reuter sat silent a moment; some novel movements were
+retreat. Mdlle. Reuter sat silent a moment; some [[Novel|novel]] movements were
 
-evidently working in her mind, and they showed their nature on her
+evidently working in her mind, and they showed their [[Nature|nature]] on her
 
 astute brow; she was meditating some CHEF D’OEUVRE of policy. Convinced
 
@@ -40,11 +40,11 @@ by several months’ experience that the affectation of virtues she did
 
 not possess was unavailing to ensnare me--aware that I had read her real
 
-nature, and would believe nothing of the character she gave out as being
+[[Nature|nature]], and would believe nothing of the character she gave out as being
 
 hers--she had determined, at last, to try a new key, and see if the lock
 
-of my heart would yield to that; a little audacity, a word of truth, a
+of my heart would yield to that; a little audacity, a word of [[Truth|truth]], a
 
 glimpse of the real. “Yes, I will try,” was her inward resolve; and then
 
@@ -74,7 +74,7 @@ seek its natural mate and pleasant nest.
 
 
 
-“Well--and your lesson?” I demanded briefly.
+“[[Well]]--and your lesson?” I demanded briefly.
 
 
 
@@ -86,9 +86,9 @@ vulgarity, you need a lesson; here it is then: far more is to be done
 
 in this world by dexterity than by strength; but, perhaps, you knew
 
-that before, for there is delicacy as well as power in your
+that before, for there is delicacy as [[Well|well]] as power in your
 
-character--policy, as well as pride?”
+character--policy, as [[Well|well]] as [[Pride|pride]]?”
 
 
 
@@ -98,23 +98,23 @@ piquant, so finely seasoned. She caught the prohibited smile, though I
 
 passed my hand over my month to conceal it; and again she made room for
 
-me to sit beside her. I shook my head, though temptation penetrated to
+me to sit beside her. I shook my head, though [[Temptation|temptation]] penetrated to
 
 my senses at the moment, and once more I told her to go on.
 
 
 
-“Well, then, if ever you are at the head of a large establishment,
+“[[Well]], then, if ever you are at the head of a large establishment,
 
-dismiss nobody. To speak truth, monsieur (and to you I will speak
+dismiss nobody. To speak [[Truth|truth]], monsieur (and to you I will speak
 
-truth), I despise people who are always making rows, blustering, sending
+[[Truth|truth]]), I despise people who are always making rows, blustering, sending
 
 off one to the right, and another to the left, urging and hurrying
 
 circumstances. I’ll tell you what I like best to do, monsieur, shall I?”
 
- She looked up again; she had compounded her glance well this time--much
+ She looked up again; she had compounded her glance [[Well|well]] this [[Time|time]]--much
 
 archness, more deference, a spicy dash of coquetry, an unveiled
 
@@ -174,7 +174,7 @@ therefore you rendered it intolerable to her?”
 
 no, your moral sight is clear and piercing, but there you have failed
 
-to discover the truth. I took--I have always taken a real interest in
+to discover the [[Truth|truth]]. I took--I have always taken a real interest in
 
 Mdlle. Henri’s welfare; I did not like her going out in all weathers;
 
@@ -196,7 +196,7 @@ her address.”
 
 “Her address!” and a sombre and stony change came over the mien of
 
-the directress. “Her address? Ah?--well--I wish I could oblige you,
+the directress. “Her address? Ah?--[[Well|well]]--I wish I could oblige you,
 
 monsieur, but I cannot, and I will tell you why; whenever I myself asked
 
@@ -220,7 +220,7 @@ make a bugbear of her origin to me--I happen to know that she was a
 
 Swiss pastor’s daughter, neither more nor less; and, as to her narrow
 
-means, I care nothing for the poverty of her purse so long as her heart
+means, I care nothing for the [[Poverty|poverty]] of her purse so long as her heart
 
 overflows with affluence.”
 
@@ -234,7 +234,7 @@ temporary candour shut up; the little, red-coloured, piratical-looking
 
 pennon of audacity she had allowed to float a minute in the air, was
 
-furled, and the broad, sober-hued flag of dissimulation again hung
+furled, and the broad, sober-hued [[Flag|flag]] of dissimulation again hung
 
 low over the citadel. I did not like her thus, so I cut short the
 

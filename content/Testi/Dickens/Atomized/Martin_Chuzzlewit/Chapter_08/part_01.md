@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 8 (part 1)"
+title: "[[Martin Chuzzlewit]] — Chapter 8 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,8 +16,8 @@ tags:
 
 CHAPTER EIGHT
 
-ACCOMPANIES MR PECKSNIFF AND HIS CHARMING DAUGHTERS TO THE CITY OF
-LONDON; AND RELATES WHAT FELL OUT UPON THEIR WAY THITHER
+ACCOMPANIES MR PECKSNIFF AND HIS CHARMING DAUGHTERS TO THE [[City|CITY]] OF
+[[London|LONDON]]; AND RELATES WHAT FELL OUT UPON THEIR WAY THITHER
 
 
 When Mr Pecksniff and the two young ladies got into the heavy coach at
@@ -30,44 +30,44 @@ feel, in keen weather, that many other people are not as warm as
 you are. And this, he said, was quite natural, and a very beautiful
 arrangement; not confined to coaches, but extending itself into many
 social ramifications. ‘For’ (he observed), ‘if every one were warm and
-well-fed, we should lose the satisfaction of admiring the fortitude with
+[[Well|well]]-fed, we should lose the satisfaction of admiring the fortitude with
 which certain conditions of men bear cold and hunger. And if we were
 no better off than anybody else, what would become of our sense of
-gratitude; which,’ said Mr Pecksniff with tears in his eyes, as he shook
+gratitude; which,’ said Mr Pecksniff with [[Tears|tears]] in his eyes, as he shook
 his fist at a beggar who wanted to get up behind, ‘is one of the holiest
-feelings of our common nature.’
+feelings of our common [[Nature|nature]].’
 
 His children heard with becoming reverence these moral precepts from the
 lips of their father, and signified their acquiescence in the same, by
 smiles. That he might the better feed and cherish that sacred flame of
 gratitude in his breast, Mr Pecksniff remarked that he would trouble
-his eldest daughter, even in this early stage of their journey, for the
+his eldest daughter, even in this early stage of their [[Journey|journey]], for the
 brandy-bottle. And from the narrow neck of that stone vessel he imbibed
 a copious refreshment.
 
 ‘What are we?’ said Mr Pecksniff, ‘but coaches? Some of us are slow
 coaches’--
 
-‘Goodness, Pa!’ cried Charity.
+‘Goodness, Pa!’ cried [[Charity]].
 
 ‘Some of us, I say,’ resumed her parent with increased emphasis, ‘are
 slow coaches; some of us are fast coaches. Our passions are the horses;
-and rampant animals too--!’
+and rampant [[Animals|animals]] too--!’
 
 ‘Really, Pa,’ cried both the daughters at once. ‘How very unpleasant.’
 
-‘And rampant animals too’ repeated Mr Pecksniff with so much
+‘And rampant [[Animals|animals]] too’ repeated Mr Pecksniff with so much
 determination, that he may be said to have exhibited, at the moment a
 sort of moral rampancy himself;’--and Virtue is the drag. We start from
-The Mother’s Arms, and we run to The Dust Shovel.’
+The Mother’s Arms, and we run to The [[Dust]] Shovel.’
 
 When he had said this, Mr Pecksniff, being exhausted, took some further
 refreshment. When he had done that, he corked the bottle tight, with the
 air of a man who had effectually corked the subject also; and went to
-sleep for three stages.
+[[Sleep|sleep]] for three stages.
 
 The tendency of mankind when it falls asleep in coaches, is to wake up
-cross; to find its legs in its way; and its corns an aggravation.
+[[Cross|cross]]; to find its legs in its way; and its corns an aggravation.
 Mr Pecksniff not being exempt from the common lot of humanity found
 himself, at the end of his nap, so decidedly the victim of these
 infirmities, that he had an irresistible inclination to visit them upon
@@ -112,13 +112,13 @@ Pecksniff.’
 
 The voice and manner, together, now that he spoke out; the composure of
 the speaker; the presence of his son; and his knowledge of Mr Pecksniff;
-afforded a clue to his identity which it was impossible to mistake.
+afforded a clue to his [[Identity|identity]] which it was impossible to mistake.
 
 ‘Hem! I thought,’ said Mr Pecksniff, returning to his usual mildness,
 ‘that I addressed a stranger. I find that I address a relative, Mr
 Anthony Chuzzlewit and his son Mr Jonas--for they, my dear children,
 are our travelling companions--will excuse me for an apparently harsh
-remark. It is not MY desire to wound the feelings of any person with
+remark. It is not MY [[Desire|desire]] to wound the feelings of any person with
 whom I am connected in family bonds. I may be a Hypocrite,’ said Mr
 Pecksniff, cuttingly; ‘but I am not a Brute.’
 

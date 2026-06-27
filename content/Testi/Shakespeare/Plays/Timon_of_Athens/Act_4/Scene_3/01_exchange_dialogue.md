@@ -1,5 +1,5 @@
 ---
-title: "Timon of Athens — Act IV, Scene 3 — exchange (dialogue) [1]"
+title: "[[Timon]] of Athens — Act IV, Scene 3 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/TIMON-OF-ATHENS-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Timon from his cave in the woods, half naked, and with a spade |
+| *(didascalia)* | Enter [[Timon]] from his [[Cave|cave]] in the woods, half naked, and with a spade |

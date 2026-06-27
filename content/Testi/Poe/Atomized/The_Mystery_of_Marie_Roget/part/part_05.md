@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 5)"
+title: "[[The Mystery of Marie Roget]] (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -18,7 +18,7 @@ tags:
 
       hers. Its insinuations amount to this: that Marie, with the
 
-      connivance of her friends, had absented herself from the city for
+      connivance of her friends, had absented herself from the [[City|city]] for
 
       reasons involving a charge against her chastity; and that these
 
@@ -26,7 +26,7 @@ tags:
 
       resembling that of the girl, had availed themselves of the
 
-      opportunity to impress the public with the belief of her death.
+      opportunity to impress the public with the belief of her [[Death|death]].
 
       But L’Etoile was again over-hasty. It was distinctly proved that
 
@@ -64,7 +64,7 @@ tags:
 
       “Now, then, a change comes over the matter. We are told that on
 
-      one occasion, while a Madame B—— was at Madame Rogêt’s house, M.
+      one occasion, while a Madame B—— was at Madame Rogêt’s [[house]], M.
 
       Beauvais, who was going out, told her that a gendarme was
 
@@ -86,7 +86,7 @@ tags:
 
       representations, in a very singular manner. He seems to have been
 
-      very much averse to permitting the relatives to see the body.”
+      very much averse to permitting the relatives to see the [[Body|body]].”
 
 
 
@@ -96,7 +96,7 @@ tags:
 
       to the girl’s disappearance, and during the absence of its
 
-      occupant, had observed a rose in the key-hole of the door, and
+      occupant, had observed a [[Rose|rose]] in the key-hole of the door, and
 
       the name “Marie” inscribed upon a slate which hung near at hand.
 
@@ -108,7 +108,7 @@ tags:
 
       of a gang of desperadoes—that by these she had been borne across
 
-      the river, maltreated and murdered. Le Commerciel, (*11) however,
+      the [[River|river]], maltreated and murdered. Le Commerciel, (*11) however,
 
       a print of extensive influence, was earnest in combating this
 
@@ -120,7 +120,7 @@ tags:
 
       scent, so far as it has been directed to the Barrière du Roule.
 
-      It is impossible that a person so well known to thousands as this
+      It is impossible that a person so [[Well|well]] known to thousands as this
 
       young woman was, should have passed three blocks without some one
 
@@ -140,17 +140,17 @@ tags:
 
       expressed intentions, that she did go out at all. Her gown was
 
-      torn, bound round her, and tied; and by that the body was carried
+      torn, bound round her, and tied; and by that the [[Body|body]] was carried
 
       as a bundle. If the murder had been committed at the Barrière du
 
       Roule, there would have been no necessity for any such
 
-      arrangement. The fact that the body was found floating near the
+      arrangement. The fact that the [[Body|body]] was found floating near the
 
       Barrière, is no proof as to where it was thrown into the
 
-      water..... A piece of one of the unfortunate girl’s petticoats,
+      [[Water|water]]..... A piece of one of the unfortunate girl’s petticoats,
 
       two feet long and one foot wide, was torn out and tied under her
 
@@ -184,7 +184,7 @@ tags:
 
       the bushes were broken, and there was every evidence of a
 
-      struggle. Between the thicket and the river, the fences were
+      struggle. Between the thicket and the [[River|river]], the fences were
 
       found taken down, and the ground bore evidence of some heavy
 

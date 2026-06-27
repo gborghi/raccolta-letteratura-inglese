@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 30 (part 4)"
+title: "[[Villette]] — Chapter 30 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -15,9 +15,9 @@ tags:
 
 
 I knew what the result of such an experiment would be. I, to whom
-nature had denied the impromptu faculty; who, in public, was by nature
-a cypher; whose time of mental activity, even when alone, was not under
-the meridian sun; who needed the fresh silence of morning, or the
+[[Nature|nature]] had denied the impromptu faculty; who, in public, was by [[Nature|nature]]
+a cypher; whose [[Time|time]] of mental activity, even when [[Alone|alone]], was not under
+the meridian sun; who needed the fresh [[Silence|silence]] of morning, or the
 recluse peace of evening, to win from the Creative Impulse one evidence
 of his presence, one proof of his force; I, with whom that Impulse was
 the most intractable, the most capricious, the most maddening of
@@ -27,19 +27,19 @@ would not hear when appealed to, would not, when sought, be found; but
 would stand, all cold, all indurated, all granite, a dark Baal with
 carven lips and blank eye-balls, and breast like the stone face of a
 tomb; and again, suddenly, at some turn, some sound, some
-long-trembling sob of the wind, at some rushing past of an unseen
+long-trembling sob of the [[Wind|wind]], at some rushing past of an unseen
 stream of electricity, the irrational demon would wake unsolicited,
 would stir strangely alive, would rush from its pedestal like a
 perturbed Dagon, calling to its votary for a sacrifice, whatever the
-hour—to its victim for some blood, or some breath, whatever the
+hour—to its victim for some [[Blood|blood]], or some breath, whatever the
 circumstance or scene—rousing its priest, treacherously promising
 vaticination, perhaps filling its temple with a strange hum of oracles,
 but sure to give half the significance to fateful winds, and grudging
 to the desperate listener even a miserable remnant—yielding it
 sordidly, as though each word had been a drop of the deathless ichor of
-its own dark veins. And this tyrant I was to compel into bondage, and
+its own dark veins. And this [[Tyrant|tyrant]] I was to compel into bondage, and
 make it improvise a theme, on a school estrade, between a Mathilde and
-a Coralie, under the eye of a Madame Beck, for the pleasure, and to the
+a Coralie, under the eye of a [[Madame Beck]], for the pleasure, and to the
 inspiration of a bourgeois of Labassecour!
 
 Upon this argument M. Paul and I did battle more than once—strong
@@ -56,14 +56,14 @@ paused to take breath.
 “Would I speak now, and be tractable?”
 
 “Never would I be tractable in this matter. Law itself should not
-compel me. I would pay a fine, or undergo an imprisonment, rather than
+compel me. I would pay a fine, or undergo an [[Imprisonment|imprisonment]], rather than
 write for a show and to order, perched up on a platform.”
 
-“Could softer motives influence me? Would I yield for friendship’s
+“Could softer motives influence me? Would I yield for [[Friendship|friendship]]’s
 sake?”
 
-“Not a whit, not a hair-breadth. No form of friendship under the sun
-had a right to exact such a concession. No true friendship would harass
+“Not a whit, not a hair-breadth. No form of [[Friendship|friendship]] under the sun
+had a right to exact such a concession. No true [[Friendship|friendship]] would harass
 me thus.”
 
 He supposed then (with a sneer—M. Paul could sneer supremely, curling
@@ -76,7 +76,7 @@ said he, “eagerly subscribing to the sacrifice, passionately arming for
 the effort.”
 
 “Making a simpleton, a warning, and an example of myself, before a
-hundred and fifty of the ‘papas’ and ‘mammas’ of Villette.”
+hundred and fifty of the ‘papas’ and ‘mammas’ of [[Villette]].”
 
 And here, losing patience, I broke out afresh with a cry that I wanted
 to be liberated—to get out into the air—I was almost in a fever.
@@ -86,13 +86,13 @@ was not hot, with the stove close at his back; how could I suffer,
 thoroughly screened by his person?”
 
 “I did not understand his constitution. I knew nothing of the natural
-history of salamanders. For my own part, I was a phlegmatic islander,
+[[history]] of salamanders. For my own part, I was a phlegmatic islander,
 and sitting in an oven did not agree with me; at least, might I step to
-the well, and get a glass of water—the sweet apples had made me
+the [[Well|well]], and get a glass of [[Water|water]]—the sweet apples had made me
 thirsty?”
 
 “If that was all, he would do my errand.”
 
-He went to fetch the water. Of course, with a door only on the latch
+He went to fetch the [[Water|water]]. Of course, with a door only on the latch
 behind me, I lost not my opportunity. Ere his return, his half-worried
 prey had escaped.

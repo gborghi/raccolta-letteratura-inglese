@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 30 (part 4)"
+title: "[[Jane Eyre]] — Chapter 30 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -19,7 +19,7 @@ tags:
 Both the sisters seemed struck: not shocked or appalled; the tidings
 appeared in their eyes rather momentous than afflicting.
 
-“Dead?” repeated Diana.
+“Dead?” repeated [[Diana]].
 
 “Yes.”
 
@@ -30,11 +30,11 @@ she demanded, in a low voice.
 feature. “What then? Why—nothing. Read.”
 
 He threw the letter into her lap. She glanced over it, and handed it to
-Mary. Mary perused it in silence, and returned it to her brother. All
+Mary. Mary perused it in [[Silence|silence]], and returned it to her brother. All
 three looked at each other, and all three smiled—a dreary, pensive
 smile enough.
 
-“Amen! We can yet live,” said Diana at last.
+“Amen! We can yet live,” said [[Diana]] at last.
 
 “At any rate, it makes us no worse off than we were before,” remarked
 Mary.
@@ -45,10 +45,10 @@ with what _is_.”
 
 He folded the letter, locked it in his desk, and again went out.
 
-For some minutes no one spoke. Diana then turned to me.
+For some minutes no one spoke. [[Diana]] then turned to me.
 
-“Jane, you will wonder at us and our mysteries,” she said, “and think
-us hard-hearted beings not to be more moved at the death of so near a
+“Jane, you will [[Wonder|wonder]] at us and our mysteries,” she said, “and think
+us hard-hearted beings not to be more moved at the [[Death|death]] of so near a
 relation as an uncle; but we have never seen him or known him. He was
 my mother’s brother. My father and he quarrelled long ago. It was by
 his advice that my father risked most of his property in the
@@ -61,7 +61,7 @@ related than we. My father always cherished the idea that he would
 atone for his error by leaving his possessions to us; that letter
 informs us that he has bequeathed every penny to the other relation,
 with the exception of thirty guineas, to be divided between St. John,
-Diana, and Mary Rivers, for the purchase of three mourning rings. He
+[[Diana]], and Mary Rivers, for the purchase of three mourning rings. He
 had a right, of course, to do as he pleased: and yet a momentary damp
 is cast on the spirits by the receipt of such news. Mary and I would
 have esteemed ourselves rich with a thousand pounds each; and to St.
@@ -70,6 +70,6 @@ enabled him to do.”
 
 This explanation given, the subject was dropped, and no further
 reference made to it by either Mr. Rivers or his sisters. The next day
-I left Marsh End for Morton. The day after, Diana and Mary quitted it
+I left Marsh End for Morton. The day after, [[Diana]] and Mary quitted it
 for distant B——. In a week, Mr. Rivers and Hannah repaired to the
 parsonage: and so the old grange was abandoned.

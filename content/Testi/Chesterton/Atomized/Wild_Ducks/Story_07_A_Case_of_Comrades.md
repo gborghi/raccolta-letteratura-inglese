@@ -20,19 +20,19 @@ A Case of Comrades
 There was once a lady of a very beautiful character
 (delicate, yet decisive, for that is the definition of a lady)
 who asked me whether I did not believe in the possibility
-of a simple comradeship between the sexes.  Being somewhat in
-a corner, I replied that, as I understood the word comradeship,
+of a simple [[Comradeship|comradeship]] between the sexes.  Being somewhat in
+a corner, I replied that, as I understood the word [[Comradeship|comradeship]],
 I did not.
 
 I gave some of my reasons.  I did not give my first and firmest
 and most unhesitating reason, which was this:  that I knew quite
-well that if I had treated the lady herself for four consecutive
-minutes as a comrade she would have ordered me out of the house.
-But I gave some other reasons.  I remarked that comradeship was
-a quite special thing; that it was quite different from friendship.
+[[Well|well]] that if I had treated the lady herself for four consecutive
+minutes as a comrade she would have ordered me out of the [[house]].
+But I gave some other reasons.  I remarked that [[Comradeship|comradeship]] was
+a quite special thing; that it was quite different from [[Friendship|friendship]].
 I said (and this, oddly enough, I believe to be profoundly true)
 that a man can be the friend of a woman, but not her comrade.
-For friendship implies individuality; whereas comradeship really
+For [[Friendship|friendship]] implies individuality; whereas [[Comradeship|comradeship]] really
 implies the temporary subordination, if not the temporary
 swamping of individuality.  Friends are the better for being two;
 but comrades are the better for being two million.
@@ -40,13 +40,13 @@ but comrades are the better for being two million.
 In the Greek grammar, which I learnt with difficulty
 and forgot with ease, there was one thing, I remember,
 which would by itself prove that the Greeks were a great people.
-I mean the fact that there is in Greek a dual as well as a plural.
+I mean the fact that there is in Greek a dual as [[Well|well]] as a plural.
 Two is quite different from any other number, just as one is quite
-different from any other number:  that truth is the basis of marriage.
+different from any other number:  that [[Truth|truth]] is the basis of [[Marriage|marriage]].
 When I knew there was a Greek dual I could easily realise
-that the Greeks gave philosophy to the world.
+that the Greeks gave [[philosophy]] to the world.
 
-My concern here is that comradeship is essentially plural.
+My concern here is that [[Comradeship|comradeship]] is essentially plural.
 Now, women are not plural.  The very word `women' has about it,
 I think, a sort of bad taste:  it smacks of polygamous Turks or tired
 and cynical men-about-town. There are no such things as women.
@@ -115,7 +115,7 @@ throbbing to the echoes of the roof, alone:
 `I do not say that the corridor ran the whole length of the train.
 What I say, what I say emphatically and with the full responsibility
 of my intellect, is that it ran on the left-hand side of our carriage.
-And I know that I speak the truth.'
+And I know that I speak the [[Truth|truth]].'
 
 We all rushed to the spot.  I dropped England with one hand
 and Heaven with the other.  I craned my neck to find out
@@ -127,20 +127,20 @@ down the left-hand side or a kind of passage down the middle.
 Only three persons present had ever seen the car, and they
 could not agree; but we soon took it out of their puny hands.
 We argued it in the abstract.  We discussed whether in the
-nature of things the passage would have been in the middle.
+[[Nature|nature]] of things the passage would have been in the middle.
 I founded a sect of my own, midway between the Orthodox Passagist
 position and the Extreme Corridorians' position.  Some held
-that the nature of the luncheon should be taken into account
+that the [[Nature|nature]] of the luncheon should be taken into account
 in all evidence of the shape of the luncheon-car. We
 made maps of the car with forks and spoons on the table,
 and little lumps of sugar to show where the people sat.
 The whole discussion took nearly two hours.
 
 But, indeed, temporal measurements cannot express the length, for we
-talked as if we were the immortal Gods and had all eternity before us:
-for to be outside time is one of the strange elements of fraternity.
+talked as if we were the immortal Gods and had all [[Eternity|eternity]] before us:
+for to be outside [[Time|time]] is one of the strange elements of fraternity.
 We were only interrupted by some academic custom which required
-that the Union officials should be photographed.  And even then one
+that the [[Union]] officials should be photographed.  And even then one
 of them moved.  He kept on quivering and stirring until the photographer
 broke into pathetic complaint.  Then he, in return, broke out,
 `I never denied that there was a case for the corridor at the side.
@@ -156,4 +156,4 @@ it might even have become a tiring question.  O mightiest
 of all things, O mothers of the gods, they are only little
 things that you do not understand, only a few sports and follies
 of the stags of the herd.  Be you content as you are secure:
-you understand everything except comradeship.
+you understand everything except [[Comradeship|comradeship]].

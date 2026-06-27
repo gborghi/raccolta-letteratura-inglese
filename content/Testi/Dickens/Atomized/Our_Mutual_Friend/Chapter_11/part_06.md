@@ -14,22 +14,22 @@ tags:
 </nav>
 
 
-‘Sit close to the fire, father, dear, while I cook your breakfast.
+‘Sit close to the [[Fire|fire]], father, dear, while I cook your breakfast.
 It’s all ready for cooking, and only been waiting for you. You must be
 frozen.’
 
-‘Well, Lizzie, I ain’t of a glow; that’s certain. And my hands seem
+‘[[Well]], Lizzie, I ain’t of a glow; that’s certain. And my hands seem
 nailed through to the sculls. See how dead they are!’ Something
 suggestive in their colour, and perhaps in her face, struck him as he
-held them up; he turned his shoulder and held them down to the fire.
+held them up; he turned his shoulder and held them down to the [[Fire|fire]].
 
-‘You were not out in the perishing night, I hope, father?’
+‘You were not out in the perishing [[Night|night]], I [[Hope|hope]], father?’
 
-‘No, my dear. Lay aboard a barge, by a blazing coal-fire.—Where’s that
+‘No, my dear. Lay aboard a barge, by a blazing coal-[[Fire|fire]].—Where’s that
 boy?’
 
 ‘There’s a drop of brandy for your tea, father, if you’ll put it in
-while I turn this bit of meat. If the river was to get frozen, there
+while I turn this bit of meat. If the [[River|river]] was to get frozen, there
 would be a deal of distress; wouldn’t there, father?’
 
 ‘Ah! there’s always enough of that,’ said Gaffer, dropping the liquor
@@ -38,7 +38,7 @@ might seem more; ‘distress is for ever a going about, like sut in the
 air—Ain’t that boy up yet?’
 
 ‘The meat’s ready now, father. Eat it while it’s hot and comfortable.
-After you have finished, we’ll turn round to the fire and talk.’
+After you have finished, we’ll turn round to the [[Fire|fire]] and talk.’
 
 But, he perceived that he was evaded, and, having thrown a hasty angry
 glance towards the bunk, plucked at a corner of her apron and asked:
@@ -66,7 +66,7 @@ to be a burden on you, he gradually made up his mind to go seek his
 fortune out of learning. He went away this morning, father, and he cried
 very much at going, and he hoped you would forgive him.’
 
-‘Let him never come a nigh me to ask me my forgiveness,’ said the
+‘Let him never come a nigh me to ask me my [[Forgiveness|forgiveness]],’ said the
 father, again emphasizing his words with the knife. ‘Let him never come
 within sight of my eyes, nor yet within reach of my arm. His own father
 ain’t good enough for him. He’s disowned his own father. His own father
@@ -106,14 +106,14 @@ knife?’
 
 ‘What should I hurt?’
 
-‘Nothing, dear father. On my knees, I am certain, in my heart and soul
+‘Nothing, dear father. On my knees, I am certain, in my heart and [[Soul|soul]]
 I am certain, nothing! But it was too dreadful to bear; for it looked—’
 her hands covering her face again, ‘O it looked—’
 
 ‘What did it look like?’
 
 The recollection of his murderous figure, combining with her trial of
-last night, and her trial of the morning, caused her to drop at his
+last [[Night|night]], and her trial of the morning, caused her to drop at his
 feet, without having answered.
 
 He had never seen her so before. He raised her with the utmost
@@ -126,8 +126,8 @@ out at the door.
 
 He returned as hurriedly as he had gone, with the bottle still empty.
 He kneeled down by her, took her head on his arm, and moistened her lips
-with a little water into which he dipped his fingers: saying, fiercely,
+with a little [[Water|water]] into which he dipped his fingers: saying, fiercely,
 as he looked around, now over this shoulder, now over that:
 
-‘Have we got a pest in the house? Is there summ’at deadly sticking to my
+‘Have we got a pest in the [[house]]? Is there summ’at deadly sticking to my
 clothes? What’s let loose upon us? Who loosed it?’

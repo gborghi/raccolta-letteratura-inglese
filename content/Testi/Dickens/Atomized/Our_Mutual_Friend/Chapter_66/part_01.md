@@ -16,25 +16,25 @@ tags:
 
 Chapter 7
 
-BETTER TO BE ABEL THAN CAIN
+BETTER TO BE ABEL THAN [[Cain|CAIN]]
 
 
-Day was breaking at Plashwater Weir Mill Lock. Stars were yet visible,
-but there was dull light in the east that was not the light of night.
-The moon had gone down, and a mist crept along the banks of the river,
-seen through which the trees were the ghosts of trees, and the water
-was the ghost of water. This earth looked spectral, and so did the
-pale stars: while the cold eastern glare, expressionless as to heat or
+Day was breaking at Plashwater Weir Mill Lock. [[Stars]] were yet visible,
+but there was dull light in the east that was not the light of [[Night|night]].
+The [[Moon|moon]] had gone down, and a mist crept along the banks of the [[River|river]],
+seen through which the trees were the [[Ghosts|ghosts]] of trees, and the [[Water|water]]
+was the [[Ghost|ghost]] of [[Water|water]]. This earth looked spectral, and so did the
+pale [[Stars|stars]]: while the cold eastern glare, expressionless as to heat or
 colour, with the eye of the firmament quenched, might have been likened
 to the stare of the dead.
 
 Perhaps it was so likened by the lonely Bargeman, standing on the brink
-of the lock. For certain, Bradley Headstone looked that way, when a
+of the lock. For certain, [[Bradley Headstone]] looked that way, when a
 chill air came up, and when it passed on murmuring, as if it
-whispered something that made the phantom trees and water tremble—or
+whispered something that made the [[Phantom|phantom]] trees and [[Water|water]] tremble—or
 threaten—for fancy might have made it either.
 
-He turned away, and tried the Lock-house door. It was fastened on the
+He turned away, and tried the Lock-[[house]] door. It was fastened on the
 inside.
 
 ‘Is he afraid of me?’ he muttered, knocking.
@@ -52,12 +52,12 @@ expedient to soften it into a compliment.
 ‘But not you, governor, not you,’ he went on, stolidly shaking his head.
 ‘For what did I say to myself arter having amused myself with that there
 stretch of a comic idea, as a sort of a playful game? Why, I says to
-myself; “He’s a man o’ honour.” That’s what I says to myself. “He’s a
-man o’ double honour.”’
+myself; “He’s a man o’ [[Honour|honour]].” That’s what I says to myself. “He’s a
+man o’ [[Double|double]] [[Honour|honour]].”’
 
 Very remarkably, Riderhood put no question to him. He had looked at him
 on opening the door, and he now looked at him again (stealthily this
-time), and the result of his looking was, that he asked him no question.
+[[Time|time]]), and the result of his looking was, that he asked him no question.
 
 ‘You’ll be for another forty on ’em, governor, as I judges, afore you
 turns your mind to breakfast,’ said Riderhood, when his visitor sat
@@ -65,7 +65,7 @@ down, resting his chin on his hand, with his eyes on the ground. And
 very remarkably again: Riderhood feigned to set the scanty furniture in
 order, while he spoke, to have a show of reason for not looking at him.
 
-‘Yes. I had better sleep, I think,’ said Bradley, without changing his
+‘Yes. I had better [[Sleep|sleep]], I think,’ said Bradley, without changing his
 position.
 
 ‘I myself should recommend it, governor,’ assented Riderhood. ‘Might you
@@ -74,34 +74,34 @@ be anyways dry?’
 ‘Yes. I should like a drink,’ said Bradley; but without appearing to
 attend much.
 
-Mr Riderhood got out his bottle, and fetched his jug-full of water,
+Mr Riderhood got out his bottle, and fetched his jug-full of [[Water|water]],
 and administered a potation. Then, he shook the coverlet of his bed and
 spread it smooth, and Bradley stretched himself upon it in the clothes
 he wore. Mr Riderhood poetically remarking that he would pick the bones
-of his night’s rest, in his wooden chair, sat in the window as before;
-but, as before, watched the sleeper narrowly until he was very sound
-asleep. Then, he rose and looked at him close, in the bright daylight,
+of his [[Night|night]]’s rest, in his wooden chair, sat in the [[Window|window]] as before;
+but, as before, watched [[The Sleeper|the sleeper]] narrowly until he was very sound
+asleep. Then, he [[Rose|rose]] and looked at him close, in the bright daylight,
 on every side, with great minuteness. He went out to his Lock to sum up
 what he had seen.
 
 ‘One of his sleeves is tore right away below the elber, and the
 t’other’s had a good rip at the shoulder. He’s been hung on to, pretty
 tight, for his shirt’s all tore out of the neck-gathers. He’s been in
-the grass and he’s been in the water. And he’s spotted, and I know with
+the grass and he’s been in the [[Water|water]]. And he’s spotted, and I know with
 what, and with whose. Hooroar!’
 
 Bradley slept long. Early in the afternoon a barge came down. Other
 barges had passed through, both ways, before it; but the Lock-keeper
-hailed only this particular barge, for news, as if he had made a time
+hailed only this particular barge, for news, as if he had made a [[Time|time]]
 calculation with some nicety. The men on board told him a piece of news,
 and there was a lingering on their part to enlarge upon it.
 
 Twelve hours had intervened since Bradley’s lying down, when he got up.
 ‘Not that I swaller it,’ said Riderhood, squinting at his Lock, when he
-saw Bradley coming out of the house, ‘as you’ve been a sleeping all the
-time, old boy!’
+saw Bradley coming out of the [[house]], ‘as you’ve been a sleeping all the
+[[Time|time]], old boy!’
 
-Bradley came to him, sitting on his wooden lever, and asked what o’clock
+Bradley came to him, sitting on his wooden lever, and asked what o’[[Clock|clock]]
 it was? Riderhood told him it was between two and three.
 
 ‘When are you relieved?’ asked Bradley.
@@ -113,14 +113,14 @@ it was? Riderhood told him it was between two and three.
 ‘Not a inch sooner, governor.’
 
 On both sides, importance seemed attached to this question of relief.
-Riderhood quite petted his reply; saying a second time, and prolonging a
+Riderhood quite petted his reply; saying a second [[Time|time]], and prolonging a
 negative roll of his head, ‘n—n—not a inch sooner, governor.’
 
-‘Did I tell you I was going on to-night?’ asked Bradley.
+‘Did I tell you I was going on to-[[Night|night]]?’ asked Bradley.
 
 ‘No, governor,’ returned Riderhood, in a cheerful, affable, and
 conversational manner, ‘you did not tell me so. But most like you meant
-to it and forgot to it. How, otherways, could a doubt have come into
+to it and forgot to it. How, otherways, could a [[Doubt|doubt]] have come into
 your head about it, governor?’
 
 ‘As the sun goes down, I intend to go on,’ said Bradley.
@@ -146,5 +146,5 @@ having the sport of pursuing the clots of congealed gravy over the plain
 of the table, and successfully taking them into his mouth at last from
 the blade of his knife, in case of their not first sliding off it.
 
-Bradley Headstone was so remarkably awkward at these exercises, that the
+[[Bradley Headstone]] was so remarkably awkward at these exercises, that the
 Rogue observed it.

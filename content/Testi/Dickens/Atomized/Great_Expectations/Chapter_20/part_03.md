@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 20 (part 3)"
+title: "[[Great Expectations]] — Chapter 20 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -24,16 +24,16 @@ approaching Mr. Jaggers confidentially.
 
 “Oh!” said Mr. Jaggers, turning to the man, who was pulling a lock of
 hair in the middle of his forehead, like the Bull in Cock Robin pulling
-at the bell-rope; “your man comes on this afternoon. Well?”
+at the bell-rope; “your man comes on this afternoon. [[Well]]?”
 
-“Well, Mas’r Jaggers,” returned Mike, in the voice of a sufferer from a
+“[[Well]], Mas’r Jaggers,” returned Mike, in the voice of a sufferer from a
 constitutional cold; “arter a deal o’ trouble, I’ve found one, sir, as
 might do.”
 
 “What is he prepared to swear?”
 
-“Well, Mas’r Jaggers,” said Mike, wiping his nose on his fur cap this
-time; “in a general way, anythink.”
+“[[Well]], Mas’r Jaggers,” said Mike, wiping his nose on his fur cap this
+[[Time|time]]; “in a general way, anythink.”
 
 Mr. Jaggers suddenly became most irate. “Now, I warned you before,”
 said he, throwing his forefinger at the terrified client, “that if you
@@ -47,12 +47,12 @@ what he had done.
 elbow. “Soft Head! Need you say it face to face?”
 
 “Now, I ask you, you blundering booby,” said my guardian, very sternly,
-“once more and for the last time, what the man you have brought here is
+“once more and for the last [[Time|time]], what the man you have brought here is
 prepared to swear?”
 
 Mike looked hard at my guardian, as if he were trying to learn a lesson
 from his face, and slowly replied, “Ayther to character, or to having
-been in his company and never left him all the night in question.”
+been in his company and never left him all the [[Night|night]] in question.”
 
 “Now, be careful. In what station of life is this man?”
 
@@ -74,9 +74,9 @@ After some helpless casting about, Mike brightened and began again:—
 “I left him,” said Mike, “a setting on some doorsteps round the
 corner.”
 
-“Take him past that window, and let me see him.”
+“Take him past that [[Window|window]], and let me see him.”
 
-The window indicated was the office window. We all three went to it,
+The [[Window|window]] indicated was the office [[Window|window]]. We all three went to it,
 behind the wire blind, and presently saw the client go by in an
 accidental manner, with a murderous-looking tall individual, in a short
 suit of white linen and a paper cap. This guileless confectioner was
@@ -93,7 +93,7 @@ to bully his very sandwich as he ate it), informed me what arrangements
 he had made for me. I was to go to “Barnard’s Inn,” to young Mr.
 Pocket’s rooms, where a bed had been sent in for my accommodation; I
 was to remain with young Mr. Pocket until Monday; on Monday I was to go
-with him to his father’s house on a visit, that I might try how I liked
+with him to his father’s [[house]] on a visit, that I might try how I liked
 it. Also, I was told what my allowance was to be,—it was a very liberal
 one,—and had handed to me from one of my guardian’s drawers, the cards
 of certain tradesmen with whom I was to deal for all kinds of clothes,

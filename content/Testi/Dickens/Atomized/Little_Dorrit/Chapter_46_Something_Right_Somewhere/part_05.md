@@ -18,9 +18,9 @@ tags:
 together now--that you can quite see the end of that course?’
 
 ‘I can’t say I have so much as looked for it yet, my dear,’ answered
-Fanny, with supreme indifference; ‘all in good time. Such are my
+Fanny, with supreme indifference; ‘all in good [[Time|time]]. Such are my
 intentions. And really they have taken me so long to develop, that here
-we are at home. And Young Sparkler at the door, inquiring who is within.
+we are at [[Home|home]]. And Young Sparkler at the door, inquiring who is within.
 By the merest accident, of course!’
 
 In effect, the swain was standing up in his gondola, card-case in
@@ -33,22 +33,22 @@ by the chase, so neatly brought their own boat in the gentlest collision
 with the bark of Mr Sparkler, as to tip that gentleman over like a
 larger species of ninepin, and cause him to exhibit the soles of his
 shoes to the object of his dearest wishes: while the nobler portions of
-his anatomy struggled at the bottom of his boat in the arms of one of
+his anatomy struggled at the [[Bottom|bottom]] of his boat in the arms of one of
 his men.
 
 However, as Miss Fanny called out with much concern, Was the gentleman
-hurt, Mr Sparkler rose more restored than might have been expected, and
+hurt, Mr Sparkler [[Rose|rose]] more restored than might have been expected, and
 stammered for himself with blushes, ‘Not at all so.’ Miss Fanny had no
 recollection of having ever seen him before, and was passing on, with a
 distant inclination of her head, when he announced himself by name. Even
 then she was in a difficulty from being unable to call it to mind, until
-he explained that he had had the honour of seeing her at Martigny. Then
-she remembered him, and hoped his lady-mother was well.
+he explained that he had had the [[Honour|honour]] of seeing her at Martigny. Then
+she remembered him, and hoped his lady-mother was [[Well|well]].
 
-‘Thank you,’ stammered Mr Sparkler, ‘she’s uncommonly well--at least,
+‘Thank you,’ stammered Mr Sparkler, ‘she’s uncommonly [[Well|well]]--at least,
 poorly.’
 
-‘In Venice?’ said Miss Fanny.
+‘In [[Venice]]?’ said Miss Fanny.
 
 ‘In Rome,’ Mr Sparkler answered. ‘I am here by myself, myself. I came to
 call upon Mr Edward Dorrit myself. Indeed, upon Mr Dorrit likewise. In
@@ -58,7 +58,7 @@ Turning graciously to the attendants, Miss Fanny inquired whether her
 papa or brother was within? The reply being that they were both within,
 Mr Sparkler humbly offered his arm. Miss Fanny accepting it, was squired
 up the great staircase by Mr Sparkler, who, if he still believed (which
-there is not any reason to doubt) that she had no nonsense about her,
+there is not any reason to [[Doubt|doubt]]) that she had no nonsense about her,
 rather deceived himself.
 
 Arrived in a mouldering reception-room, where the faded hangings, of a
@@ -67,23 +67,23 @@ might have claimed kindred with the waifs of seaweed drifting under
 the windows, or clinging to the walls and weeping for their imprisoned
 relations, Miss Fanny despatched emissaries for her father and brother.
 Pending whose appearance, she showed to great advantage on a sofa,
-completing Mr Sparkler’s conquest with some remarks upon Dante--known
-to that gentleman as an eccentric man in the nature of an Old File,
-who used to put leaves round his head, and sit upon a stool for some
-unaccountable purpose, outside the cathedral at Florence.
+completing Mr Sparkler’s conquest with some remarks upon [[Dante]]--known
+to that gentleman as an eccentric man in the [[Nature|nature]] of an Old File,
+who used to put [[Leaves|leaves]] round his head, and sit upon a stool for some
+unaccountable purpose, outside the [[Cathedral|cathedral]] at Florence.
 
 Mr Dorrit welcomed the visitor with the highest urbanity, and most
 courtly manners. He inquired particularly after Mrs Merdle. He inquired
-particularly after Mr Merdle. Mr Sparkler said, or rather twitched out
+particularly after [[Mr Merdle]]. Mr Sparkler said, or rather twitched out
 of himself in small pieces by the shirt-collar, that Mrs Merdle having
-completely used up her place in the country, and also her house at
+completely used up her place in the country, and also her [[house]] at
 Brighton, and being, of course, unable, don’t you see, to remain in
-London when there wasn’t a soul there, and not feeling herself this year
+[[London]] when there wasn’t a [[Soul|soul]] there, and not feeling herself this year
 quite up to visiting about at people’s places, had resolved to have
 a touch at Rome, where a woman like herself, with a proverbially fine
 appearance, and with no nonsense about her, couldn’t fail to be a great
-acquisition. As to Mr Merdle, he was so much wanted by the men in the
-City and the rest of those places, and was such a doosed extraordinary
+acquisition. As to [[Mr Merdle]], he was so much wanted by the men in the
+[[City]] and the rest of those places, and was such a doosed extraordinary
 phenomenon in Buying and Banking and that, that Mr Sparkler doubted if
 the monetary system of the country would be able to spare him; though
 that his work was occasionally one too many for him, and that he would
@@ -92,15 +92,15 @@ climate, Mr Sparkler did not conceal. As to himself, Mr Sparkler
 conveyed to the Dorrit family that he was going, on rather particular
 business, wherever they were going.
 
-This immense conversational achievement required time, but was effected.
-Being effected, Mr Dorrit expressed his hope that Mr Sparkler would
+This immense conversational achievement required [[Time|time]], but was effected.
+Being effected, Mr Dorrit expressed his [[Hope|hope]] that Mr Sparkler would
 shortly dine with them. Mr Sparkler received the idea so kindly that Mr
 Dorrit asked what he was going to do that day, for instance? As he was
 going to do nothing that day (his usual occupation, and one for which he
 was particularly qualified), he was secured without postponement; being
 further bound over to accompany the ladies to the Opera in the evening.
 
-At dinner-time Mr Sparkler rose out of the sea, like Venus’s son taking
+At dinner-[[Time|time]] Mr Sparkler [[Rose|rose]] out of the sea, like [[Venus]]’s son taking
 after his mother, and made a splendid appearance ascending the great
 staircase. If Fanny had been charming in the morning, she was now thrice
 charming, very becomingly dressed in her most suitable colours, and with
@@ -116,7 +116,7 @@ cronies in fact.’
 ‘If I had thought of it, Amy,’ said Mr Dorrit, with a patronage as
 magnificent as that of Lord Decimus himself, ‘you should have despatched
 a note to them, asking them to dine to-day. Some of our people could
-have--ha--fetched them, and taken them home. We could have spared
+have--ha--fetched them, and taken them [[Home|home]]. We could have spared
 a--hum--gondola for that purpose. I am sorry to have forgotten this.
 Pray remind me of them to-morrow.’
 

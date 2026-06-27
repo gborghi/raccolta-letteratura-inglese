@@ -16,7 +16,7 @@ tags:
 
 CHAPTER II
 
-THE TRAGEDY OF THE PATRIOT
+THE [[Tragedy|TRAGEDY]] OF THE PATRIOT
 
 A book like this can be but a bare outline a life so full
 as that of William Cobbett.  Nevertheless an outline is needed,
@@ -26,7 +26,7 @@ formless and sprawling, through being too large to be seen.
 Cobbett produced a vast and voluminous mass of work; and vast
 and voluminous masses of work have been produced about Cobbett.
 Most of it is interesting and much of it is true; but none
-of it is the truth.  What is wanted in modern biography is
+of it is the [[Truth|truth]].  What is wanted in modern [[Biography|biography]] is
 something as simple as the single line that marks the sweeping
 curve or the sharp corner in a weather-chart, that yet more
 simple line that runs round the nose or chin is a caricature.
@@ -35,11 +35,11 @@ caricatured the wrong features.  They missed the point.
 The subject of Cobbett has been admirably simplified;
 but when it has been simplified, it has been simplified wrong.
 
-The story of Cobbett was a tragedy; a tragedy of a certain type.
-It was the disillusionment of a patriot.  That definition
+The story of Cobbett was a [[Tragedy|tragedy]]; a [[Tragedy|tragedy]] of a certain type.
+It was the [[Disillusionment|disillusionment]] of a patriot.  That definition
 covers all that is called its bewildering inconsistency.
 I do not mean to imply that he lost his patriotism.
-He most certainly retained it that was the tragedy.  But he began
+He most certainly retained it that was the [[Tragedy|tragedy]].  But he began
 by having the ordinary optimistic patriotism that looks outwards,
 and it changed into a pessimistic patriotism that looked inwards.
 His earlier and more cheerful attitude was one of mere defiance;
@@ -47,35 +47,35 @@ but it grew to be a much more gloomy attitude when it seriously
 passed from defiance to defence.  It was like the difference between
 a man blowing a trumpet and a man examining the condition of a gun.
 But there was also bound up in it the whole business of the modern
-economic problem; of the industrial individualism that produced
+economic problem; of the industrial [[Individualism|individualism]] that produced
 the proletarian peril; in short, the whole problem of modern England.
 We may, say of Cobbett, as of more than one great man, that some of
 the most important incidents in his life happened after he was dead.
-But the truth to seize at this stage is the truth about this transition
+But the [[Truth|truth]] to seize at this stage is the [[Truth|truth]] about this transition
 from a sort of centrifugal nationalism, that was cheery and even cheeky,
-to a sort of centripetal nationalism that was grave and even grim.
+to a sort of centripetal nationalism that was [[Grave|grave]] and even grim.
 A modern writer, resembling Cobbett only in having proved that the highest
 literary genius can be combined with publicity and popular journalism,
 has called one of his books of essays An Englishman Looks at the World.
-It would have fitted very well the first essays of Cobbett.
-But the time came when a deeper, a darker, a more withering experience
+It would have fitted very [[Well|well]] the first essays of Cobbett.
+But the [[Time|time]] came when a deeper, a darker, a more withering experience
 might have carried the title:  An Englishman Looks at England.
 
 The first fact about this first phase is that the patriotism
-of Cobbett was the passionate patriotism of the exile.
-He went to America while he was still quite young; so that even
-his memories of England were almost memories of childhood.
+of Cobbett was the passionate patriotism of the [[Exile|exile]].
+He went to [[america|America]] while he was still quite young; so that even
+his memories of England were almost memories of [[Childhood|childhood]].
 They had not only the glamour of distance, but the glamour of
-which Wordsworth wrote, the glory and the freshness of a dream.
+which Wordsworth wrote, the glory and the freshness of [[A Dream|a dream]].
 The islands of the blest were supposed to lie to the west
 like Atlantis; but every man who has really sailed to Atlantis
 knows that the islands of the blest are left behind.
 Certainly all the islanders who have ever set forth from these
 islands to the modern Atlantis are at one in having that homing
-imagination that wings its way backward into the sunrise.
+[[Imagination|imagination]] that wings its way backward into the sunrise.
 Greatly as they have disagreed among themselves, they all agree
 in that.  Perhaps the one rallying point for all Britons
-is that their songs in America have been songs of exile.
+is that their [[songs]] in [[america|America]] have been [[songs]] of [[Exile|exile]].
 The most familiar of them represents the Irishman with his bundle
 bound for Philadelphia, or the Englishman whistling `Falmouth
 is a fine town' as he walks down the street of Baltimore,
@@ -698,46 +698,46 @@ within a thousand miles of the man who does possess heroic fortitude,
 even for a moment.
 
 For if the common or conventional man is not to be condemned for
-failing to be a hero, still less is the other man to be condemned
-for succeeding in being half a hero or nine-tenths of a hero.
+failing to be a [[Hero|hero]], still less is the other man to be condemned
+for succeeding in being half a [[Hero|hero]] or nine-tenths of a [[Hero|hero]].
 The imperfect martyr may be judged by the perfect martyr,
 but not by anybody else; and the perfect martyr will probably
-have the charity as well as the patience of the perfect saint.
+have the [[Charity|charity]] as [[Well|well]] as the patience of the perfect saint.
 Nobody will pretend that Cobbett had the patience of the perfect saint.
-He had not enough of the charity, though he had more than many
+He had not enough of the [[Charity|charity]], though he had more than many
 might suppose, especially the people who make a point of being
-charitable to the rich.  It is true that even his heroism was
+charitable to the rich.  It is true that even his [[Heroism|heroism]] was
 incalculable and inconsequent; but the question of proportion
 and even of quantity does not touch the question of quality.
-One moment of Cobbett's courage is of a different quality
+One moment of Cobbett's [[Courage|courage]] is of a different quality
 from a lifetime of Macaulay's common sense.  Macaulay, in his
-life as in his logic, was nothing worse than superficial.
-It was the tragedy of Cobbett that he was fundamental.
+life as in his [[logic]], was nothing worse than superficial.
+It was the [[Tragedy|tragedy]] of Cobbett that he was fundamental.
 Of all our social critics lie was by far the most fundamental.
 He could not help seeing a fight of first principles deadly
 enough to daunt any fighter.  He could not help realising
-an evil too large for most men to realise, let alone resist.
+an evil too large for most men to realise, let [[Alone|alone]] resist.
 It was as if he had been given an appalling vision, in which the whole
 land he looked at, dotted with peaceful houses and indifferent men,
 had the lines and slopes of a slow earthquake.
 
-Macaulay, it has been noted, said about Cranmer that he could
-not be blamed for not being a hero and a martyr.  But for all that
+Macaulay, it has been noted, said about [[Cranmer]] that he could
+not be blamed for not being a [[Hero|hero]] and a martyr.  But for all that
 Macaulay blamed him a good deal for being a coward and a snob.
-Cobbett said about Cranmer that the very thought that such a being
+Cobbett said about [[Cranmer]] that the very thought that such a being
 had walked the earth on two legs was enough to make the reeling
-brain doubt the existence of God; but that peace and faith flow back
-again into the soul when we remember that he was burned alive.
-I quote the sentiment from memory; but that was the substance
+brain [[Doubt|doubt]] the existence of God; but that peace and [[Faith|faith]] flow back
+again into the [[Soul|soul]] when we remember that he was burned alive.
+I quote the sentiment from [[Memory|memory]]; but that was the substance
 of the remark.  It is a remark touched with a certain exaggeration.
 It is not an observation marked primarily by measure or
-precise proportion or the mellowing of truth with charity.
-Macaulay's criticism of Cranmer is more effective for everyday purposes;
+precise proportion or the mellowing of [[Truth|truth]] with [[Charity|charity]].
+Macaulay's criticism of [[Cranmer]] is more effective for everyday purposes;
 as when he says that the crime of the Tudor politician was not in being
 too indifferent to be killed, but in killing other people for things
 about which he was indifferent, and enacting laws against anyone
 `who should do from conviction what he had done from cowardice.'
-But there is a quality in that outburst of Cobbett about Cranmer
+But there is a quality in that outburst of Cobbett about [[Cranmer]]
 which we must learn to appreciate or leave off troubling about Cobbett.
 There is a volume and a violence of humanity in such hatred; a hatred
 straight from the heart like a knockout blow straight from the shoulder.
@@ -745,11 +745,11 @@ It is a blast from a furnace.  And it is only in such a furnace
 seven times heated that men suffer for an idea-or even suffer
 for an impulse.
 
-Anyhow, the only effect of the imprisonment was to turn
+Anyhow, the only effect of the [[Imprisonment|imprisonment]] was to turn
 an impulse into an idea.  He may have lacked some of the
-virtues of a philosopher; even including the philosophy.
-He may not have been perfect as a hero; or even have possessed
-any of the qualities of a martyr except the martyrdom.
+virtues of a philosopher; even including the [[philosophy]].
+He may not have been perfect as a [[Hero|hero]]; or even have possessed
+any of the qualities of a martyr except the [[Martyrdom|martyrdom]].
 But he was emphatically the sort of man with whom one cannot afford
 to be in the wrong.  It was suicidally silly to act with such
 injustice to a man with such a talent for expounding justice,
@@ -768,12 +768,12 @@ They threw him into gaol for nothing, or for anything,
 or for something more or less meritorious, for all the world
 as if he had been his own grandfather the agricultural labourer.
 
-Certainly if they put him in prison, they ought never to
+Certainly if they put him in [[Prison|prison]], they ought never to
 have let him out.  Surely the flexible British Constitution
 of Pitt and Castlereagh would have been equal to the necessity
 of sending him to Botany Bay for life.  For that Constitution
-was very free when it came to attacking freedom.
-The man who came out of that prison was not the man who went in.
+was very free when it came to attacking [[Freedom|freedom]].
+The man who came out of that [[Prison|prison]] was not the man who went in.
 It is not enough to say that he came out in a rage, and may be said
 to have remained in a rage; to have lived in a rage for thirty years,
 until he died in a rage in his own place upon the hills of Surrey.
@@ -784,7 +784,7 @@ vigorous English phrase, so much in his own literary manner,
 is symbolic of his intellectual importance.  He did indeed
 return in a towering passion, a passion that towered above towns
 and villages like a waterspout, or a cyclone visible from ten
-counties and crossing England like the stride of the storm.
+counties and crossing England like the stride of the [[Storm|storm]].
 The most terrible of human tongues was loosened and went through
 the country like a wandering bell, of incessant anger and alarum;
 till men must have wondered why, when it was in their power,

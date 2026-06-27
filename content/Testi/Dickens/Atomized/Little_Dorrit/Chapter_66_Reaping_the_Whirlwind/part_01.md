@@ -17,29 +17,29 @@ tags:
 CHAPTER 26. Reaping the Whirlwind
 
 
-With a precursory sound of hurried breath and hurried feet, Mr Pancks
-rushed into Arthur Clennam’s Counting-house. The Inquest was over, the
+With a precursory sound of hurried breath and hurried feet, [[Mr Pancks]]
+rushed into [[Arthur Clennam]]’s Counting-[[house]]. The Inquest was over, the
 letter was public, the Bank was broken, the other model structures of
-straw had taken fire and were turned to smoke. The admired piratical
-ship had blown up, in the midst of a vast fleet of ships of all rates,
+straw had taken [[Fire|fire]] and were turned to smoke. The admired piratical
+[[Ship|ship]] had blown up, in the midst of a vast fleet of ships of all rates,
 and boats of all sizes; and on the deep was nothing but ruin; nothing
-but burning hulls, bursting magazines, great guns self-exploded tearing
+but burning hulls, bursting magazines, great guns [[Self|self]]-exploded tearing
 friends and neighbours to pieces, drowning men clinging to unseaworthy
 spars and going down every minute, spent swimmers, floating dead, and
 sharks.
 
-The usual diligence and order of the Counting-house at the Works were
+The usual diligence and order of the Counting-[[house]] at the Works were
 overthrown. Unopened letters and unsorted papers lay strewn about the
 desk. In the midst of these tokens of prostrated energy and dismissed
-hope, the master of the Counting-house stood idle in his usual place,
+[[Hope|hope]], the master of the Counting-[[house]] stood idle in his usual place,
 with his arms crossed on the desk, and his head bowed down upon them.
 
-Mr Pancks rushed in and saw him, and stood still. In another minute, Mr
-Pancks’s arms were on the desk, and Mr Pancks’s head was bowed down
-upon them; and for some time they remained in these attitudes, idle and
+[[Mr Pancks]] rushed in and saw him, and stood still. In another minute, Mr
+Pancks’s arms were on the desk, and [[Mr Pancks]]’s head was bowed down
+upon them; and for some [[Time|time]] they remained in these attitudes, idle and
 silent, with the width of the little room between them.
 
-Mr Pancks was the first to lift up his head and speak.
+[[Mr Pancks]] was the first to lift up his head and speak.
 
 ‘I persuaded you to it, Mr Clennam. I know it. Say what you will. You
 can’t say more to me than I say to myself. You can’t say more than I
@@ -51,21 +51,21 @@ do I myself deserve!’
 ‘Better luck,’ said Pancks.
 
 ‘I,’ pursued Clennam, without attending to him, ‘who have ruined my
-partner! Pancks, Pancks, I have ruined Doyce! The honest, self-helpful,
+partner! Pancks, Pancks, I have ruined Doyce! The honest, [[Self|self]]-helpful,
 indefatigable old man who has worked his way all through his life;
 the man who has contended against so much disappointment, and who has
-brought out of it such a good and hopeful nature; the man I have felt
+brought out of it such a good and hopeful [[Nature|nature]]; the man I have felt
 so much for, and meant to be so true and useful to; I have ruined
 him--brought him to shame and disgrace--ruined him, ruined him!’
 
 The agony into which the reflection wrought his mind was so distressing
-to see, that Mr Pancks took hold of himself by the hair of his head, and
+to see, that [[Mr Pancks]] took hold of himself by the hair of his head, and
 tore it in desperation at the spectacle.
 
 ‘Reproach me!’ cried Pancks. ‘Reproach me, sir, or I’ll do myself an
-injury. Say,--You fool, you villain. Say,--Ass, how could you do it;
+injury. Say,--You [[Fool|fool]], you [[Villain|villain]]. Say,--Ass, how could you do it;
 Beast, what did you mean by it! Catch hold of me somewhere. Say
-something abusive to me!’ All the time, Mr Pancks was tearing at his
+something abusive to me!’ All the [[Time|time]], [[Mr Pancks]] was tearing at his
 tough hair in a most pitiless and cruel manner.
 
 ‘If you had never yielded to this fatal mania, Pancks,’ said Clennam,
@@ -88,19 +88,19 @@ leaders of the blind, Pancks! Blind leaders of the blind! But Doyce,
 Doyce, Doyce; my injured partner!’ That brought his head down on the
 desk once more.
 
-Their former attitudes and their former silence were once more first
+Their former attitudes and their former [[Silence|silence]] were once more first
 encroached upon by Pancks.
 
 ‘Not been to bed, sir, since it began to get about. Been high and low,
-on the chance of finding some hope of saving any cinders from the fire.
+on the chance of finding some [[Hope|hope]] of saving any cinders from the [[Fire|fire]].
 All in vain. All gone. All vanished.’
 
-‘I know it,’ returned Clennam, ‘too well.’
+‘I know it,’ returned Clennam, ‘too [[Well|well]].’
 
-Mr Pancks filled up a pause with a groan that came out of the very
-depths of his soul.
+[[Mr Pancks]] filled up a pause with a groan that came out of the very
+depths of his [[Soul|soul]].
 
-‘Only yesterday, Pancks,’ said Arthur; ‘only yesterday, Monday, I had
+‘Only yesterday, Pancks,’ said [[arthur|Arthur]]; ‘only yesterday, Monday, I had
 the fixed intention of selling, realising, and making an end of it.’
 
 ‘I can’t say as much for myself, sir,’ returned Pancks. ‘Though it’s
@@ -120,11 +120,11 @@ difficulty.
 
 ‘Everything.’
 
-Mr Pancks took hold of his tough hair again, and gave it such a wrench
+[[Mr Pancks]] took hold of his tough hair again, and gave it such a wrench
 that he pulled out several prongs of it. After looking at these with an
 eye of wild hatred, he put them in his pocket.
 
-‘My course,’ said Clennam, brushing away some tears that had been
+‘My course,’ said Clennam, brushing away some [[Tears|tears]] that had been
 silently dropping down his face, ‘must be taken at once. What wretched
 amends I can make must be made. I must clear my unfortunate partner’s
 reputation. I must retain nothing for myself. I must resign to our
@@ -138,9 +138,9 @@ in the rest of my days.’
 the business can pass out of my hands, the better for it. There are
 engagements to be met, this week, which would bring the catastrophe
 before many days were over, even if I would postpone it for a single day
-by going on for that space, secretly knowing what I know. All last night
+by going on for that space, secretly knowing what I know. All last [[Night|night]]
 I thought of what I would do; what remains is to do it.’
 
 ‘Not entirely of yourself?’ said Pancks, whose face was as damp as if
-his steam were turning into water as fast as he dismally blew it off.
+his steam were turning into [[Water|water]] as fast as he dismally blew it off.
 ‘Have some legal help.’

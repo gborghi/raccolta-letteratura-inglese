@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 16 (part 2)"
+title: "[[Mansfield Park]] — Chapter 16 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -29,7 +29,7 @@ play as they could, and now, to complete the business, are going to ask
 the help of a young man very slightly known to any of us. This is the
 end of all the privacy and propriety which was talked about at first. I
 know no harm of Charles Maddox; but the excessive intimacy which must
-spring from his being admitted among us in this manner is highly
+[[spring]] from his being admitted among us in this manner is highly
 objectionable, the _more_ than intimacy—the familiarity. I cannot think
 of it with any patience; and it does appear to me an evil of such
 magnitude as must, _if_ _possible_, be prevented. Do not you see it in
@@ -38,7 +38,7 @@ the same light?”
 “Yes; but what can be done? Your brother is so determined.”
 
 “There is but _one_ thing to be done, Fanny. I must take Anhalt myself.
-I am well aware that nothing else will quiet Tom.”
+I am [[Well|well]] aware that nothing else will quiet Tom.”
 
 Fanny could not answer him.
 
@@ -60,7 +60,7 @@ restraints. To think only of the licence which every rehearsal must
 tend to create. It is all very bad! Put yourself in Miss Crawford’s
 place, Fanny. Consider what it would be to act Amelia with a stranger.
 She has a right to be felt for, because she evidently feels for
-herself. I heard enough of what she said to you last night to
+herself. I heard enough of what she said to you last [[Night|night]] to
 understand her unwillingness to be acting with a stranger; and as she
 probably engaged in the part with different expectations—perhaps
 without considering the subject enough to know what was likely to be—it
@@ -77,11 +77,11 @@ others!”
 I act. But, however, triumph there certainly will be, and I must brave
 it. But if I can be the means of restraining the publicity of the
 business, of limiting the exhibition, of concentrating our folly, I
-shall be well repaid. As I am now, I have no influence, I can do
+shall be [[Well|well]] repaid. As I am now, I have no influence, I can do
 nothing: I have offended them, and they will not hear me; but when I
-have put them in good-humour by this concession, I am not without hopes
+have put them in good-[[Humour|humour]] by this concession, I am not without hopes
 of persuading them to confine the representation within a much smaller
-circle than they are now in the high road for. This will be a material
+circle than they are now in the high [[Road|road]] for. This will be a material
 gain. My object is to confine it to Mrs. Rushworth and the Grants. Will
 not this be worth gaining?”
 
@@ -99,29 +99,29 @@ it.”
 
 “If you are against me, I ought to distrust myself, and yet—But it is
 absolutely impossible to let Tom go on in this way, riding about the
-country in quest of anybody who can be persuaded to act—no matter whom:
+country in [[Quest|quest]] of anybody who can be persuaded to act—no matter whom:
 the look of a gentleman is to be enough. I thought _you_ would have
 entered more into Miss Crawford’s feelings.”
 
-“No doubt she will be very glad. It must be a great relief to her,”
+“No [[Doubt|doubt]] she will be very glad. It must be a great relief to her,”
 said Fanny, trying for greater warmth of manner.
 
 “She never appeared more amiable than in her behaviour to you last
-night. It gave her a very strong claim on my goodwill.”
+[[Night|night]]. It gave her a very strong claim on my goodwill.”
 
 “She _was_ very kind, indeed, and I am glad to have her spared”...
 
-She could not finish the generous effusion. Her conscience stopt her in
-the middle, but Edmund was satisfied.
+She could not finish the generous effusion. Her [[Conscience|conscience]] stopt her in
+the middle, but [[Edmund]] was satisfied.
 
 “I shall walk down immediately after breakfast,” said he, “and am sure
 of giving pleasure there. And now, dear Fanny, I will not interrupt you
 any longer. You want to be reading. But I could not be easy till I had
 spoken to you, and come to a decision. Sleeping or waking, my head has
-been full of this matter all night. It is an evil, but I am certainly
+been full of this matter all [[Night|night]]. It is an evil, but I am certainly
 making it less than it might be. If Tom is up, I shall go to him
 directly and get it over, and when we meet at breakfast we shall be all
-in high good-humour at the prospect of acting the fool together with
+in high good-[[Humour|humour]] at the prospect of acting the [[Fool|fool]] together with
 such unanimity. _You_, in the meanwhile, will be taking a trip into
 China, I suppose. How does Lord Macartney go on?”—opening a volume on
 the table and then taking up some others. “And here are Crabbe’s Tales,
@@ -135,7 +135,7 @@ had told her the most extraordinary, the most inconceivable, the most
 unwelcome news; and she could think of nothing else. To be acting!
 After all his objections—objections so just and so public! After all
 that she had heard him say, and seen him look, and known him to be
-feeling. Could it be possible? Edmund so inconsistent! Was he not
+feeling. Could it be possible? [[Edmund]] so inconsistent! Was he not
 deceiving himself? Was he not wrong? Alas! it was all Miss Crawford’s
 doing. She had seen her influence in every speech, and was miserable.
 The doubts and alarms as to her own conduct, which had previously

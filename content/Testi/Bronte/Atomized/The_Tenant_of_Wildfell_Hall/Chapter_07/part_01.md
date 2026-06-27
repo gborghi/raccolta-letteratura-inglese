@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 7 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 7 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,7 +22,7 @@ tags:
 
 Not many days after this, on a mild sunny morning—rather soft under
 
-foot; for the last fall of snow was only just wasted away, leaving yet
+foot; for the last fall of [[Snow|snow]] was only just wasted away, leaving yet
 
 a thin ridge, here and there, lingering on the fresh green grass
 
@@ -30,15 +30,15 @@ beneath the hedges; but beside them already, the young primroses were
 
 peeping from among their moist, dark foliage, and the lark above was
 
-singing of summer, and hope, and love, and every heavenly thing—I was
+singing of [[Summer|summer]], and [[Hope|hope]], and [[Love|love]], and every heavenly thing—I was
 
-out on the hill-side, enjoying these delights, and looking after the
+out on the [[Hill|hill]]-side, enjoying these delights, and looking after the
 
-well-being of my young lambs and their mothers, when, on glancing round
+[[Well|well]]-being of my young lambs and their mothers, when, on glancing round
 
 me, I beheld three persons ascending from the vale below. They were
 
-Eliza Millward, Fergus, and Rose; so I crossed the field to meet them;
+Eliza Millward, Fergus, and [[Rose]]; so I crossed the field to meet them;
 
 and, being told they were going to Wildfell Hall, I declared myself
 
@@ -56,7 +56,7 @@ accompanying me, not I them. You had all had a peep at this wonderful
 
 stranger but me, and I could endure my wretched ignorance no
 
-longer—come what would, I must be satisfied; so I begged Rose to go
+longer—come what would, I must be satisfied; so I begged [[Rose]] to go
 
 with me to the Hall, and introduce me to her at once. She swore she
 
@@ -64,7 +64,7 @@ would not, unless Miss Eliza would go too; so I ran to the vicarage and
 
 fetched her; and we’ve come hooked all the way, as fond as a pair of
 
-lovers—and now you’ve taken her from me; and you want to deprive me of
+[[lovers]]—and now you’ve taken her from me; and you want to deprive me of
 
 my walk and my visit besides. Go back to your fields and your cattle,
 
@@ -74,7 +74,7 @@ gentlemen like us, that have nothing to do but to run snooking about to
 
 our neighbours’ houses, peeping into their private corners, and
 
-scenting out their secrets, and picking holes in their coats, when we
+scenting out their [[Secrets|secrets]], and picking holes in their coats, when we
 
 don’t find them ready made to our hands—you don’t understand such
 
@@ -88,7 +88,7 @@ the speech.
 
 
 
-“Yes, both, to be sure!” cried Rose; “the more the merrier—and I’m sure
+“Yes, both, to be sure!” cried [[Rose]]; “the more the merrier—and I’m sure
 
 we shall want all the cheerfulness we can carry with us to that great,
 
@@ -98,9 +98,9 @@ furniture—unless she shows us into her studio again.”
 
 
 
-So we went all in a body; and the meagre old maid-servant, that opened
+So we went all in a [[Body|body]]; and the meagre old maid-servant, that opened
 
-the door, ushered us into an apartment such as Rose had described to me
+the door, ushered us into an apartment such as [[Rose]] had described to me
 
 as the scene of her first introduction to Mrs. Graham, a tolerably
 
@@ -110,7 +110,7 @@ windows, the ceiling, panels, and chimney-piece of grim black oak—the
 
 latter elaborately but not very tastefully carved,—with tables and
 
-chairs to match, an old bookcase on one side of the fire-place, stocked
+chairs to match, an old bookcase on one side of the [[Fire|fire]]-place, stocked
 
 with a motley assemblage of books, and an elderly cabinet piano on the
 
@@ -144,9 +144,9 @@ I do not think Mrs. Graham was particularly delighted to see us: there
 
 was something indescribably chilly in her quiet, calm civility; but I
 
-did not talk much to her. Seating myself near the window, a little back
+did not talk much to her. Seating myself near the [[Window|window]], a little back
 
-from the circle, I called Arthur to me, and he and I and Sancho amused
+from the circle, I called [[arthur|Arthur]] to me, and he and I and Sancho amused
 
 ourselves very pleasantly together, while the two young ladies baited
 
@@ -164,11 +164,11 @@ air, now interrupting the conversation, or filling up a pause (as the
 
 case might be) with some most impertinent question or remark. At one
 
-time it was,—“It, amazes me, Mrs. Graham, how you could choose such a
+[[Time|time]] it was,—“It, amazes me, Mrs. Graham, how you could choose such a
 
 dilapidated, rickety old place as this to live in. If you couldn’t
 
-afford to occupy the whole house, and have it mended up, why couldn’t
+afford to occupy the whole [[house]], and have it mended up, why couldn’t
 
 you take a neat little cottage?”
 
@@ -188,11 +188,11 @@ lumber-rooms, if I have anything to put in them; and they are very
 
 useful for my little boy to run about in on rainy days when he can’t go
 
-out; and then there is the garden for him to play in, and for me to
+out; and then there is the [[Garden|garden]] for him to play in, and for me to
 
 work in. You see I have effected some little improvement already,”
 
-continued she, turning to the window. “There is a bed of young
+continued she, turning to the [[Window|window]]. “There is a bed of young
 
 vegetables in that corner, and here are some snowdrops and primroses
 
@@ -204,7 +204,7 @@ sunshine.”
 
 “But then how can you bear such a situation—your nearest neighbours two
 
-miles distant, and nobody looking in or passing by? Rose would go stark
+miles distant, and nobody looking in or passing by? [[Rose]] would go stark
 
 mad in such a place. She can’t put on life unless she sees half a dozen
 
@@ -216,4 +216,4 @@ as an old woman carrying her eggs to market.”
 
 
 
-“I am not sure the loneliness of the place was not one of its chief
+“I am not sure the [[Loneliness|loneliness]] of the place was not one of its chief

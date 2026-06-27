@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 3)"
+title: "[[The Mystery of Marie Roget]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -22,9 +22,9 @@ tags:
 
       latter we were not yet in possession. He discoursed much, and
 
-      beyond doubt, learnedly; while I hazarded an occasional
+      beyond [[Doubt|doubt]], learnedly; while I hazarded an occasional
 
-      suggestion as the night wore drowsily away. Dupin, sitting
+      suggestion as the [[Night|night]] wore drowsily away. Dupin, sitting
 
       steadily in his accustomed arm-chair, was the embodiment of
 
@@ -58,7 +58,7 @@ tags:
 
       Marie Rogêt left the residence of her mother, in the Rue Pavée
 
-      St. Andrée, about nine o’clock in the morning of Sunday, June the
+      St. Andrée, about nine o’[[Clock|clock]] in the morning of [[Sunday]], June the
 
       twenty-second, 18—. In going out, she gave notice to a Monsieur
 
@@ -68,29 +68,29 @@ tags:
 
       Rue des Drômes is a short and narrow but populous thoroughfare,
 
-      not far from the banks of the river, and at a distance of some
+      not far from the banks of the [[River|river]], and at a distance of some
 
       two miles, in the most direct course possible, from the pension
 
       of Madame Rogêt. St. Eustache was the accepted suitor of Marie,
 
-      and lodged, as well as took his meals, at the pension. He was to
+      and lodged, as [[Well|well]] as took his meals, at the pension. He was to
 
       have gone for his betrothed at dusk, and to have escorted her
 
-      home. In the afternoon, however, it came on to rain heavily; and,
+      [[Home|home]]. In the afternoon, however, it came on to rain heavily; and,
 
-      supposing that she would remain all night at her aunt’s, (as she
+      supposing that she would remain all [[Night|night]] at her aunt’s, (as she
 
       had done under similar circumstances before,) he did not think
 
-      it necessary to keep his promise. As night drew on, Madame Rogêt
+      it necessary to keep his promise. As [[Night|night]] drew on, Madame Rogêt
 
       (who was an infirm old lady, seventy years of age,) was heard to
 
-      express a fear “that she should never see Marie again;” but this
+      express a [[Fear|fear]] “that she should never see Marie again;” but this
 
-      observation attracted little attention at the time.
+      observation attracted little attention at the [[Time|time]].
 
 
 
@@ -98,7 +98,7 @@ tags:
 
       Rue des Drômes; and when the day elapsed without tidings of her,
 
-      a tardy search was instituted at several points in the city, and
+      a tardy search was instituted at several points in the [[City|city]], and
 
       its environs. It was not, however until the fourth day from the
 
@@ -114,9 +114,9 @@ tags:
 
       St. Andrée, was informed that a corpse had just been towed ashore
 
-      by some fishermen, who had found it floating in the river. Upon
+      by some fishermen, who had found it floating in the [[River|river]]. Upon
 
-      seeing the body, Beauvais, after some hesitation, identified it
+      seeing the [[Body|body]], Beauvais, after some hesitation, identified it
 
       as that of the perfumery-girl. His friend recognized it more
 
@@ -124,7 +124,7 @@ tags:
 
 
 
-      The face was suffused with dark blood, some of which issued from
+      The face was suffused with dark [[Blood|blood]], some of which issued from
 
       the mouth. No foam was seen, as in the case of the merely
 
@@ -140,9 +140,9 @@ tags:
 
       rope in more than one volution. A part of the right wrist, also,
 
-      was much chafed, as well as the back throughout its extent, but
+      was much chafed, as [[Well|well]] as the back throughout its extent, but
 
-      more especially at the shoulder-blades. In bringing the body to
+      more especially at the shoulder-blades. In bringing the [[Body|body]] to
 
       the shore the fishermen had attached to it a rope; but none of
 
@@ -156,9 +156,9 @@ tags:
 
       completely buried in the flesh, and was fastened by a knot which
 
-      lay just under the left ear. This alone would have sufficed to
+      lay just under the left ear. This [[Alone|alone]] would have sufficed to
 
-      produce death. The medical testimony spoke confidently of the
+      produce [[Death|death]]. The medical testimony spoke confidently of the
 
       virtuous character of the deceased. She had been subjected, it
 
@@ -174,7 +174,7 @@ tags:
 
       garment, a slip, about a foot wide, had been torn upward from the
 
-      bottom hem to the waist, but not torn off. It was wound three
+      [[Bottom|bottom]] hem to the waist, but not torn off. It was wound three
 
       times around the waist, and secured by a sort of hitch in the
 

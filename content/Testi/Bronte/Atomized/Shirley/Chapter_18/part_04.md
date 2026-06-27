@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 18 (part 4)"
+title: "[[Shirley]] — Chapter 18 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -26,7 +26,7 @@ mercantile interests of this here land."
 
 
 
-"So am I, Joe," replied Shirley, who had rather a pleasure in teasing
+"So am I, Joe," replied [[Shirley]], who had rather a pleasure in teasing
 
 the overlooker, by persisting in talking on subjects with which he
 
@@ -34,7 +34,7 @@ opined she, as a woman, had no right to meddle--"partly, at least. I
 
 have rather a leaning to the agricultural interest, too; as good reason
 
-is, seeing that I don't desire England to be under the feet of France,
+is, seeing that I don't [[Desire|desire]] England to be under the feet of France,
 
 and that if a share of my income comes from Hollow's Mill, a larger
 
@@ -52,7 +52,7 @@ any measures injurious to the farmers, Joe, I think?"
 
 you that I am impervious to cold. I should not mind taking my turn to
 
-watch the mill one of these summer nights, armed with your musket, Joe."
+watch the mill one of these [[Summer|summer]] nights, armed with your musket, Joe."
 
 
 
@@ -70,7 +70,7 @@ we manufacturers and persons of business are sometimes a little--a _very
 
 little_--selfish and short-sighted in our views, and rather _too_
 
-regardless of human suffering, rather heartless in our pursuit of gain.
+regardless of human [[Suffering|suffering]], rather heartless in our pursuit of gain.
 
 Don't you agree with me, Joe?"
 
@@ -108,19 +108,19 @@ Paul's first Epistle to Timothy."
 
 
 
-"'Let the woman learn in silence, with all subjection. I suffer not a
+"'Let the woman learn in [[Silence|silence]], with all subjection. I suffer not a
 
 woman to teach, nor to usurp authority over the man, but to be in
 
-silence. For Adam was first formed, then Eve.'"
+[[Silence|silence]]. For Adam was first formed, then Eve.'"
 
 
 
-"What has that to do with the business?" interjected Shirley. "That
+"What has that to do with the business?" interjected [[Shirley]]. "That
 
 smacks of rights of primogeniture. I'll bring it up to Mr. Yorke the
 
-first time he inveighs against those rights."
+first [[Time|time]] he inveighs against those rights."
 
 
 
@@ -132,7 +132,7 @@ deceived was in the transgression."
 
 "More shame to Adam to sin with his eyes open!" cried Miss Keeldar. "To
 
-confess the honest truth, Joe, I never was easy in my mind concerning
+confess the honest [[Truth|truth]], Joe, I never was easy in my mind concerning
 
 that chapter. It puzzles me."
 
@@ -144,7 +144,7 @@ that chapter. It puzzles me."
 
 "He may read it in his own fashion," remarked Caroline, now joining in
 
-the dialogue for the first time. "You allow the right of private
+the dialogue for the first [[Time|time]]. "You allow the right of private
 
 judgment, I suppose, Joe?"
 
@@ -156,7 +156,7 @@ Book."
 
 
 
-"Women may exercise it as well as men?"
+"Women may exercise it as [[Well|well]] as men?"
 
 
 
@@ -166,17 +166,17 @@ religion. It's wholesomest for them."
 
 
 
-"Oh! oh!" exclaimed both Shirley and Caroline.
+"Oh! oh!" exclaimed both [[Shirley]] and Caroline.
 
 
 
-"To be sure; no doubt on't," persisted the stubborn overlooker.
+"To be sure; no [[Doubt|doubt]] on't," persisted the stubborn overlooker.
 
 
 
 "Consider yourself groaned down, and cried shame over, for such a stupid
 
-observation," said Miss Keeldar. "You might as well say men are to take
+observation," said Miss Keeldar. "You might as [[Well|well]] say men are to take
 
 the opinions of their priests without examination. Of what value would a
 
@@ -198,7 +198,7 @@ besides, I dare say, if I could read the original Greek, I should find
 
 that many of the words have been wrongly translated, perhaps
 
-misapprehended altogether. It would be possible, I doubt not, with a
+misapprehended altogether. It would be possible, I [[Doubt|doubt]] not, with a
 
 little ingenuity, to give the passage quite a contrary turn--to make it
 
@@ -224,15 +224,15 @@ were. I like William better than you."
 
 
 
-"Joe is well enough in his own house," said Shirley. "I have seen him as
+"Joe is [[Well|well]] enough in his own [[house]]," said [[Shirley]]. "I have seen him as
 
-quiet as a lamb at home. There is not a better nor a kinder husband in
+quiet as a [[Lamb|lamb]] at [[Home|home]]. There is not a better nor a kinder husband in
 
 Briarfield. He does not dogmatize to his wife."
 
 
 
-"My wife is a hard-working, plain woman; time and trouble has ta'en all
+"My wife is a hard-working, plain woman; [[Time|time]] and trouble has ta'en all
 
 the conceit out of her. But that is not the case with you, young misses.
 
@@ -242,7 +242,7 @@ only superficial sort o' vanities you're acquainted with. I can
 
 tell--happen a year sin'--one day Miss Caroline coming into our
 
-counting-house when I war packing up summat behind t' great desk, and
+counting-[[house]] when I war packing up summat behind t' great desk, and
 
 she didn't see me, and she brought a slate wi' a sum on it to t'
 
@@ -258,7 +258,7 @@ her how. And when he did show her, she couldn't understand him."
 
 
 
-"Nay, it's no nonsense. And Miss Shirley there reckons to hearken to t'
+"Nay, it's no nonsense. And Miss [[Shirley]] there reckons to hearken to t'
 
 maister when he's talking ower trade, so attentive like, as if she
 
@@ -266,11 +266,11 @@ followed him word for word, and all war as clear as a lady's
 
 looking-glass to her een; and all t' while she's peeping and peeping out
 
-o' t' window to see if t' mare stands quiet; and then looking at a bit
+o' t' [[Window|window]] to see if t' mare stands quiet; and then looking at a bit
 
 of a splash on her riding-skirt; and then glancing glegly round at wer
 
-counting-house cobwebs and dust, and thinking what mucky folk we are,
+counting-[[house]] cobwebs and [[Dust|dust]], and thinking what mucky folk we are,
 
 and what a grand ride she'll have just i' now ower Nunnely Common. She
 

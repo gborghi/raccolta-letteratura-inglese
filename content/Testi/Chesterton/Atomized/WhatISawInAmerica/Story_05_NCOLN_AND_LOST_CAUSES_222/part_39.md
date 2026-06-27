@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 39)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 39)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-morality. Then it seemed to me that a new sensation turned me hot and
+[[morality]]. Then it seemed to me that a new sensation turned me hot and
 
 cold; and I felt something I have never before felt in a foreign land.
 
@@ -48,13 +48,13 @@ politics the impression will be purely negative; I am sure that most
 
 Americans have no notion of the position of France or the position of
 
-Poland. But if English readers want the truth, I am sure this is the
+Poland. But if English readers want the [[Truth|truth]], I am sure this is the
 
-truth about their notion of the position of England. They are wondering,
+[[Truth|truth]] about their notion of the position of England. They are wondering,
 
-or those who are watching are wondering, whether the term of her success
+or those who are watching are wondering, whether the term of her [[success]]
 
-is come and she is going down the dark road after Prussia. Many are
+is come and she is going down the dark [[Road|road]] after Prussia. Many are
 
 sorry if this is so; some are glad if it is so; but all are seriously
 
@@ -62,15 +62,15 @@ considering the probability of its being so. And herein lay especially
 
 the horrible folly of our Black-and-Tan terrorism over the Irish people.
 
-I have noted that the newspapers told us that America had been chilled
+I have noted that the newspapers told us that [[America]] had been chilled
 
 in its Irish sympathies by Irish detachment during the war. It is the
 
-painful truth that any advantage we might have had from this we
+painful [[Truth|truth]] that any advantage we might have had from this we
 
 ourselves immediately proceeded to destroy. Ireland _might_ have put
 
-herself wrong with America by her attitude about Belgium, if England had
+herself wrong with [[America]] by her attitude about Belgium, if England had
 
 not instantly proceeded to put herself more wrong by her attitude
 
@@ -102,9 +102,9 @@ called firmness with what it called conciliation; as if when we made up
 
 our minds to soothe a man with a five-pound note, we always took care to
 
-undo our own action by giving him a kick as well. The English politician
+undo our own action by giving him a kick as [[Well|well]]. The English politician
 
-has often done that; though there is nothing to be said of such a fool,
+has often done that; though there is nothing to be said of such a [[Fool|fool]],
 
 except that he has wasted a fiver. But in this case he gave the kick
 
@@ -130,17 +130,17 @@ country by so many cultivated Americans; their memories of homely
 
 corners of historic counties from which their fathers came, of the
 
-cathedral that dwarfs the town, or the inn at the turning of the road.
+[[Cathedral|cathedral]] that dwarfs the town, or the inn at the turning of the [[Road|road]].
 
 There was something in their voices and the look in their eyes which
 
 from the first disturbed me. So I have heard good Englishmen, who died
 
-afterwards the death of soldiers, cry aloud in 1914, 'It seems
+afterwards the [[Death|death]] of soldiers, cry aloud in 1914, 'It seems
 
 impossible, of those jolly Bavarians!' or, 'I will never believe it,
 
-when I think of the time I had at Heidelberg!'
+when I think of the [[Time|time]] I had at Heidelberg!'
 
 
 
@@ -152,7 +152,7 @@ American public is much more familiar with the discussion of corruption
 
 than our own; and it is much more conscious of the corruption of our
 
-politics than we are. Almost any man in America may speak of the Marconi
+politics than we are. Almost any man in [[America]] may speak of the Marconi
 
 Case; many a man in England does not even know what it means. Many
 
@@ -164,7 +164,7 @@ Americans to say that one figure in that drama is ruling India and
 
 another is ruling Palestine. And this brings me to another problem,
 
-which is also dealt with much more openly in America than in England. I
+which is also dealt with much more openly in [[America]] than in England. I
 
 mention it here only because it is a perfect model of the
 

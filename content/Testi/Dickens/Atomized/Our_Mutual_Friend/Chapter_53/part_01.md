@@ -19,7 +19,7 @@ Chapter 12
 MEANING MISCHIEF
 
 
-Up came the sun, streaming all over London, and in its glorious
+Up came the sun, streaming all over [[London]], and in its glorious
 impartiality even condescending to make prismatic sparkles in the
 whiskers of Mr Alfred Lammle as he sat at breakfast. In need of some
 brightening from without, was Mr Alfred Lammle, for he had the air of
@@ -42,36 +42,36 @@ possibly have been the case. It doesn’t matter.’
 Was it the speciality of Mr and Mrs Lammle, or does it ever obtain
 with other loving couples? In these matrimonial dialogues they never
 addressed each other, but always some invisible presence that appeared
-to take a station about midway between them. Perhaps the skeleton in the
+to take a station about midway between them. Perhaps the [[skeleton]] in the
 cupboard comes out to be talked to, on such domestic occasions?
 
-‘I have never seen any money in the house,’ said Mrs Lammle to the
-skeleton, ‘except my own annuity. That I swear.’
+‘I have never seen any money in the [[house]],’ said Mrs Lammle to the
+[[skeleton]], ‘except my own annuity. That I swear.’
 
 ‘You needn’t take the trouble of swearing,’ said Mr Lammle to the
-skeleton; ‘once more, it doesn’t matter. You never turned your annuity
+[[skeleton]]; ‘once more, it doesn’t matter. You never turned your annuity
 to so good an account.’
 
 ‘Good an account! In what way?’ asked Mrs Lammle.
 
-‘In the way of getting credit, and living well,’ said Mr Lammle. Perhaps
-the skeleton laughed scornfully on being intrusted with this question
+‘In the way of getting credit, and living [[Well|well]],’ said Mr Lammle. Perhaps
+the [[skeleton]] laughed scornfully on being intrusted with this question
 and this answer; certainly Mrs Lammle did, and Mr Lammle did.
 
-‘And what is to happen next?’ asked Mrs Lammle of the skeleton.
+‘And what is to happen next?’ asked Mrs Lammle of the [[skeleton]].
 
 ‘Smash is to happen next,’ said Mr Lammle to the same authority.
 
-After this, Mrs Lammle looked disdainfully at the skeleton—but without
+After this, Mrs Lammle looked disdainfully at the [[skeleton]]—but without
 carrying the look on to Mr Lammle—and drooped her eyes. After that, Mr
 Lammle did exactly the same thing, and drooped HIS eyes. A servant then
-entering with toast, the skeleton retired into the closet, and shut
+entering with toast, the [[skeleton]] retired into the closet, and shut
 itself up.
 
 ‘Sophronia,’ said Mr Lammle, when the servant had withdrawn. And then,
 very much louder: ‘Sophronia!’
 
-‘Well?’
+‘[[Well]]?’
 
 ‘Attend to me, if you please.’ He eyed her sternly until she did attend,
 and then went on. ‘I want to take counsel with you. Come, come; no more
@@ -116,7 +116,7 @@ Fledgeby takes the credit of having got him to hold his hand.’
 believed you. But it looks like it.’
 
 Having given her this back-handed reminder of her mutinous observations
-to the skeleton, Mr Lammle rose from table—perhaps, the better to
+to the [[skeleton]], Mr Lammle [[Rose|rose]] from table—perhaps, the better to
 conceal a smile, and a white dint or two about his nose—and took a turn
 on the carpet and came to the hearthrug.
 
@@ -124,7 +124,7 @@ on the carpet and came to the hearthrug.
 that’s spilled milk.’
 
 As Lammle, standing gathering up the skirts of his dressing-gown with
-his back to the fire, said this, looking down at his wife, she turned
+his back to the [[Fire|fire]], said this, looking down at his wife, she turned
 pale and looked down at the ground. With a sense of disloyalty upon
 her, and perhaps with a sense of personal danger—for she was afraid of
 him—even afraid of his hand and afraid of his foot, though he had never
@@ -137,7 +137,7 @@ Sophronia,’ her husband struck in.
 
 ‘—Then, we could weather this?’
 
-‘No doubt. To offer another original and undeniable remark, Sophronia,
+‘No [[Doubt|doubt]]. To offer another original and undeniable remark, Sophronia,
 two and two make four.’
 
 But, seeing that she was turning something in her mind, he gathered up
@@ -163,12 +163,12 @@ She cast about in her thoughts again, and he kept his eye upon her as
 before.
 
 ‘Of course I have repeatedly thought of the Boffins, Sophronia,’ he
-resumed, after a fruitless silence; ‘but I have seen my way to nothing.
-They are well guarded. That infernal Secretary stands between them
+resumed, after a fruitless [[Silence|silence]]; ‘but I have seen my way to nothing.
+They are [[Well|well]] guarded. That infernal Secretary stands between them
 and—people of merit.’
 
 ‘If he could be got rid of?’ said she, brightening a little, after more
 casting about.
 
-‘Take time, Sophronia,’ observed her watchful husband, in a patronizing
+‘Take [[Time|time]], Sophronia,’ observed her watchful husband, in a patronizing
 manner.

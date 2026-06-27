@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-Here Mr Venus interposed, and remarked that he conceived Mr Boffin to
+Here [[Mr Venus]] interposed, and remarked that he conceived Mr Boffin to
 have taken the description literally; the rather, forasmuch as he, Mr
-Venus, had himself supposed the menial to have contracted an affliction
+[[Venus]], had himself supposed the menial to have contracted an affliction
 or a habit of the nose, involving a serious drawback on the pleasures of
 social intercourse, until he had discovered that Mr Wegg’s description
 of him was to be accepted as merely figurative.
@@ -26,8 +26,8 @@ is here. Now, I won’t have him here. So I call upon Boffin, before I say
 another word, to fetch him in and send him packing to the right-about.’
 
 The unsuspecting Sloppy was at that moment airing his many buttons
-within view of the window. Mr Boffin, after a short interval of
-impassive discomfiture, opened the window and beckoned him to come in.
+within view of the [[Window|window]]. Mr Boffin, after a short interval of
+impassive discomfiture, opened the [[Window|window]] and beckoned him to come in.
 
 ‘I call upon Boffin,’ said Wegg, with one arm a-kimbo and his head on
 one side, like a bullying counsel pausing for an answer from a witness,
@@ -42,18 +42,18 @@ want you, and you are to go from here.’
 ‘For good,’ said Mr Boffin.
 
 Sloppy stared, with both his eyes and all his buttons, and his mouth
-wide open; but was without loss of time escorted forth by Silas Wegg,
+wide open; but was without loss of [[Time|time]] escorted forth by [[Silas Wegg]],
 pushed out at the yard gate by the shoulders, and locked out.
 
 ‘The atomspear,’ said Wegg, stumping back into the room again, a
 little reddened by his late exertion, ‘is now freer for the purposes of
-respiration. Mr Venus, sir, take a chair. Boffin, you may sit down.’
+respiration. [[Mr Venus]], sir, take a chair. Boffin, you may sit down.’
 
 Mr Boffin, still with his hands ruefully stuck in his pockets, sat on
 the edge of the settle, shrunk into a small compass, and eyed the potent
 Silas with conciliatory looks.
 
-‘This gentleman,’ said Silas Wegg, pointing out Venus, ‘this gentleman,
+‘This gentleman,’ said [[Silas Wegg]], pointing out [[Venus]], ‘this gentleman,
 Boffin, is more milk and watery with you than I’ll be. But he hasn’t
 borne the Roman yoke as I have, nor yet he hasn’t been required to
 pander to your depraved appetite for miserly characters.’
@@ -66,7 +66,7 @@ You’ll find you’ve got quite enough to do. Now, you’re aware—are
 you—that you’re in possession of property to which you’ve no right at
 all? Are you aware of that?’
 
-‘Venus tells me so,’ said Mr Boffin, glancing towards him for any
+‘[[Venus]] tells me so,’ said Mr Boffin, glancing towards him for any
 support he could give.
 
 ‘I tell you so,’ returned Silas. ‘Now, here’s my hat, Boffin, and here’s
@@ -76,14 +76,14 @@ make a bargain with the rightful owner. Now, what do you say?’
 
 ‘I say,’ returned Mr Boffin, leaning forward in alarmed appeal, with his
 hands on his knees, ‘that I am sure I don’t want to trifle, Wegg. I have
-said so to Venus.’
+said so to [[Venus]].’
 
-‘You certainly have, sir,’ said Venus.
+‘You certainly have, sir,’ said [[Venus]].
 
 ‘You’re too milk and watery with our friend, you are indeed,’
 remonstrated Silas, with a disapproving shake of his wooden head. ‘Then
 at once you confess yourself desirous to come to terms, do you Boffin?
-Before you answer, keep this hat well in your mind and also this
+Before you answer, keep this hat [[Well|well]] in your mind and also this
 walking-stick.’
 
 ‘I am willing, Wegg, to come to terms.’
@@ -101,7 +101,7 @@ out of you in full, Boffin.’
 be allowed to come to terms, supposing your document is all correct.’
 
 ‘Don’t you be afraid of that,’ said Silas, poking his head at him. ‘You
-shall be satisfied by seeing it. Mr Venus will show it you, and I’ll
+shall be satisfied by seeing it. [[Mr Venus]] will show it you, and I’ll
 hold you the while. Then you want to know what the terms are. Is
 that about the sum and substance of it? Will you or won’t you answer,
 Boffin?’ For he had paused a moment.
@@ -110,18 +110,18 @@ Boffin?’ For he had paused a moment.
 that degree that I’m almost off my head. You hurry me so. Be so good as
 name the terms, Wegg.’
 
-‘Now, mark, Boffin,’ returned Silas: ‘Mark ’em well, because they’re
+‘Now, mark, Boffin,’ returned Silas: ‘Mark ’em [[Well|well]], because they’re
 the lowest terms and the only terms. You’ll throw your Mound (the little
 Mound as comes to you any way) into the general estate, and then you’ll
 divide the whole property into three parts, and you’ll keep one and hand
 over the others.’
 
-Mr Venus’s mouth screwed itself up, as Mr Boffin’s face lengthened
-itself, Mr Venus not having been prepared for such a rapacious demand.
+[[Mr Venus]]’s mouth screwed itself up, as Mr Boffin’s face lengthened
+itself, [[Mr Venus]] not having been prepared for such a rapacious demand.
 
 ‘Now, wait a bit, Boffin,’ Wegg proceeded, ‘there’s something more.
 You’ve been a squandering this property—laying some of it out on
-yourself. _That_ won’t do. You’ve bought a house. You’ll be charged for
+yourself. _That_ won’t do. You’ve bought a [[house]]. You’ll be charged for
 it.’
 
 ‘I shall be ruined, Wegg!’ Mr Boffin faintly protested.
@@ -147,4 +147,4 @@ upon you, have seen you dig up a Dutch bottle.’
 ‘What was in it, Boffin?’ inquired Silas.
 
 ‘Not gold, not silver, not bank notes, not jewels, nothing that you
-could turn into money, Wegg; upon my soul!’
+could turn into money, Wegg; upon my [[Soul|soul]]!’

@@ -21,7 +21,7 @@ suspicion had been awakened by his speech, his wiry hair, dull eyes,
 and sallow face would still have been strong witnesses against him. His
 attire was not, as he had himself hinted, remarkable for the  nicest
 arrangement, but was in a state of disorder which strongly induced the
-idea that he had gone to bed in it. It consisted of a brown body-coat
+idea that he had gone to bed in it. It consisted of a brown [[Body|body]]-coat
 with a great many brass buttons up the front and only one behind, a
 bright check neckerchief, a plaid waistcoat, soiled white trousers, and
 a very limp hat, worn with the wrong side foremost, to hide a hole in
@@ -36,7 +36,7 @@ strong savour of tobacco-smoke, and a prevailing greasiness of
 appearance) Mr Swiveller leant back in his chair with his eyes fixed on
 the ceiling, and occasionally pitching his voice to the needful key,
 obliged the company with a few bars of an intensely dismal air, and
-then, in the middle of a note, relapsed into his former silence.
+then, in the middle of a note, relapsed into his former [[Silence|silence]].
 
 The old man sat himself down in a chair, and with folded hands, looked
 sometimes at his grandson and sometimes at his strange companion, as if
@@ -49,13 +49,13 @@ looks--made the best feint I could of being occupied in examining some
 of the goods that were disposed for sale, and paying very little
 attention to a person before me.
 
-The silence was not of long duration, for Mr Swiveller, after favouring
+The [[Silence|silence]] was not of long duration, for Mr Swiveller, after favouring
 us with several melodious assurances that his heart was in the
 Highlands, and that he wanted but his Arab steed as a preliminary to
 the achievement of great feats of valour and loyalty, removed his eyes
 from the ceiling and subsided into prose again.
 
-‘Fred,’ said Mr Swiveller stopping short, as if the idea had suddenly
+‘[[Fred]],’ said Mr Swiveller stopping short, as if the idea had suddenly
 occurred to him, and speaking in the same audible whisper as before,
 ‘is the old min friendly?’
 
@@ -69,7 +69,7 @@ Emboldened as it seemed by this reply to enter into a more general
 conversation, Mr Swiveller plainly laid himself out to captivate our
 attention.
 
-He began by remarking that soda-water, though a good thing in the
+He began by remarking that soda-[[Water|water]], though a good thing in the
 abstract, was apt to lie cold upon the stomach unless qualified with
 ginger, or a small infusion of brandy, which latter article he held to
 be preferable in all cases, saving for the one consideration of
@@ -91,7 +91,7 @@ he increased in confidence and became yet more companionable and
 communicative.
 
 ‘It’s a devil of a thing, gentlemen,’ said Mr Swiveller, ‘when
-relations fall out and disagree. If the wing of friendship should never
+relations fall out and disagree. If the wing of [[Friendship|friendship]] should never
 moult a feather, the wing of relationship should never be clipped, but
 be always expanded and serene. Why should a grandson and grandfather
 peg away at each other with mutual wiolence when all might be bliss and
@@ -103,10 +103,10 @@ concord. Why not jine hands and forgit it?’
 Gentlemen, how does the case stand, upon the present occasion?  Here is
 a jolly old grandfather--I say it with the utmost respect--and here is
 a wild, young grandson. The jolly old grandfather says to the wild
-young grandson, “I have brought you up and educated you, Fred; I have
+young grandson, “I have brought you up and educated you, [[Fred]]; I have
 put you in the way of getting on in life; you have bolted a little out
 of course, as young fellows often do; and you shall never have another
-chance, nor the ghost of half a one.”  The wild young grandson makes
+chance, nor the [[Ghost|ghost]] of half a one.”  The wild young grandson makes
 answer to this and says, “You’re as rich as rich can be; you have been
 at no uncommon expense on my account, you’re saving up piles of money
 for my little sister that lives with you in a secret, stealthy,
@@ -114,7 +114,7 @@ hugger-muggering kind of way and with no manner of enjoyment--why can’t
 you stand a trifle for your grown-up relation?” The jolly old
 grandfather unto this, retorts, not only that he declines to fork out
 with that cheerful readiness which is always so agreeable and pleasant
-in a gentleman of his time of life, but that he will bow up, and call
+in a gentleman of his [[Time|time]] of life, but that he will bow up, and call
 names, and make reflections whenever they meet. Then the plain question
 is, an’t it a pity that this state of things should continue, and how
 much better would it be for the gentleman to hand over a reasonable
@@ -128,7 +128,7 @@ by adding one other word.
 ‘Why do you hunt and persecute me, God help me!’ said the old man
 turning to his grandson. ‘Why do you bring your prolifigate companions
 here? How often am I to tell you that my life is one of care and
-self-denial, and that I am poor?’
+[[Self|self]]-denial, and that I am poor?’
 
 ‘How often am I to tell you,’ returned the other, looking coldly at
 him, ‘that I know better?’
@@ -137,10 +137,10 @@ him, ‘that I know better?’
 Nell and me to toil and work.’
 
 ‘Nell will be a woman soon,’ returned the other, ‘and, bred in your
-faith, she’ll forget her brother unless he shows himself sometimes.’
+[[Faith|faith]], she’ll forget her brother unless he shows himself sometimes.’
 
 ‘Take care,’ said the old man with sparkling eyes, ‘that she does not
-forget you when you would have her memory keenest. Take care that the
+forget you when you would have her [[Memory|memory]] keenest. Take care that the
 day don’t come when you walk barefoot in the streets, and she rides by
 in a gay carriage of her own.’
 
@@ -149,8 +149,8 @@ poor man he talks!’
 
 ‘And yet,’ said the old man dropping his voice and speaking like one
 who thinks aloud, ‘how poor we are, and what a life it is! The cause is
-a young child’s guiltless of all harm or wrong, but nothing goes well
-with it! Hope and patience, hope and patience!’
+a young [[Child|child]]’s guiltless of all harm or wrong, but nothing goes [[Well|well]]
+with it! [[Hope]] and patience, [[Hope|hope]] and patience!’
 
 These words were uttered in too low a tone to reach the ears of the
 young men.  Mr Swiveller appeared to think that they implied some mental
@@ -160,4 +160,4 @@ administered ‘a clincher,’ and that he expected a commission on the
 profits. Discovering his mistake after a while, he appeared to grow
 rather sleepy and discontented, and had more than once suggested the
 propriety of an immediate departure, when the door opened, and the
-child herself appeared.
+[[Child|child]] herself appeared.

@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Other Philosopher (part 3)"
+title: "ball and [[Cross|cross]] — The Other Philosopher (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-"Yes," said MacIan, "it began in a Police Court."
+"Yes," said MacIan, "it began in a Police [[Court]]."
 
 The little man slung the bottle of wine twenty yards away like a stone.
 
@@ -32,15 +32,15 @@ aback by this boisterous and almost brutal hospitality.
 smooth lawn and your choice of swords and pistols.  Why, you fools,
 I adore fighting!  It's the only good thing in God's world!
 I've walked about these damned fields and longed to see somebody
-cut up and killed and the blood running.  Ha!  Ha!"
+cut up and killed and the [[Blood|blood]] running.  Ha!  Ha!"
 
 And he made sudden lunges with his stick at the trunk of a neighbouring
 tree so that the ferrule made fierce prints and punctures in the bark.
 
 "Excuse me," said MacIan suddenly with the wide-eyed curiosity
-of a child, "excuse me, but..."
+of a [[Child|child]], "excuse me, but..."
 
-"Well?" said the small fighter, brandishing his wooden weapon.
+"[[Well]]?" said the small fighter, brandishing his wooden weapon.
 
 "Excuse me," repeated MacIan, "but was that what you were doing
 at the door?"
@@ -52,20 +52,20 @@ broke into a guffaw.
 and taking quite suddenly to his heels.  "Come on!  Confound me,
 I'll see both of you eat and then I'll see one of you die.
 Lord bless me, the gods must exist after all--they have sent me
-one of my day-dreams!  Lord!  A duel!"
+one of my day-[[Dreams|dreams]]!  Lord!  A duel!"
 
 He had gone flying along a winding path between the borders
-of the kitchen garden, and in the increasing twilight he was
+of the kitchen [[Garden|garden]], and in the increasing twilight he was
 as hard to follow as a flying hare.  But at length the path
 after many twists betrayed its purpose and led abruptly up two
 or three steps to the door of a tiny but very clean cottage.
 There was nothing about the outside to distinguish it from other cottages,
 except indeed its ominous cleanliness and one thing that was out
 of all the custom and tradition of all cottages under the sun.
-In the middle of the little garden among the stocks and marigolds
+In the middle of the little [[Garden|garden]] among the stocks and marigolds
 there surged up in shapeless stone a South Sea Island idol.
 There was something gross and even evil in that eyeless and alien
-god among the most innocent of the English flowers.
+god among the most [[Innocent|innocent]] of the English [[Flowers|flowers]].
 
 "Come in!" cried the creature again.  "Come in! it's better inside!"
 
@@ -80,10 +80,10 @@ Cruel Assyrian bas-reliefs ran along the sides of the passage;
 cruel Turkish swords and daggers glinted above and below them;
 the two were separated by ages and fallen civilizations.
 Yet they seemed to sympathize since they were both harmonious
-and both merciless.  The house seemed to consist of chamber
-within chamber and created that impression as of a dream
+and both merciless.  The [[house]] seemed to consist of chamber
+within chamber and created that impression as of [[A Dream|a dream]]
 which belongs also to the Arabian Nights themselves.
-The innermost room of all was like the inside of a jewel.
+The innermost room of all was like the inside of a [[Jewel|jewel]].
 The little man who owned it all threw himself on a heap of scarlet
 and golden cushions and struck his hands together.  A negro in a white
 robe and turban appeared suddenly and silently behind them.
@@ -95,26 +95,26 @@ Make arrangements, please."
 
 The negro bowed and withdrew.
 
-Evan MacIan came out the next morning into the little garden
+[[Evan MacIan]] came out the next morning into the little [[Garden|garden]]
 to a fresh silver day, his long face looking more austere
 than ever in that cold light, his eyelids a little heavy.
-He carried one of the swords.  Turnbull was in the little house
+He carried one of the swords.  Turnbull was in the little [[house]]
 behind him, demolishing the end of an early breakfast and humming
-a tune to himself, which could be heard through the open window.
+a tune to himself, which could be heard through the open [[Window|window]].
 A moment or two later he leapt to his feet and came out into
-the sunlight, still munching toast, his own sword stuck under his
+the sunlight, still munching toast, his own [[Sword|sword]] stuck under his
 arm like a walking-stick.
 
 Their eccentric host had vanished from sight, with a polite gesture,
 some twenty minutes before.  They imagined him to be occupied
-on some concerns in the interior of the house, and they waited for
-his emergence, stamping the garden in silence--the garden of tall,
-fresh country flowers, in the midst of which the monstrous South Sea
-idol lifted itself as abruptly as the prow of a ship riding on a sea
+on some concerns in the interior of the [[house]], and they waited for
+his emergence, stamping the [[Garden|garden]] in [[Silence|silence]]--the [[Garden|garden]] of tall,
+fresh country [[Flowers|flowers]], in the midst of which the monstrous South Sea
+idol lifted itself as abruptly as the prow of a [[Ship|ship]] riding on a sea
 of red and white and gold.
 
 It was with a start, therefore, that they came upon the man
-himself already in the garden.  They were all the more startled
+himself already in the [[Garden|garden]].  They were all the more startled
 because of the still posture in which they found him.
 He was on his knees in front of the stone idol, rigid and motionless,
 like a saint in a trance or ecstasy.  Yet when Turnbull's tread
@@ -132,7 +132,7 @@ towards the heavy stone figure on the pedestal which had now its blank
 and shapeless back turned towards them.  "Don't you be afraid,"
 he added, "he can still see us."
 
-MacIan turned his blue, blinking eyes, which seemed still misty with sleep
+MacIan turned his blue, blinking eyes, which seemed still misty with [[Sleep|sleep]]
 (or sleeplessness) towards the idol, but his brows drew together.
 
 The little man with the long hair also had his eyes on the back

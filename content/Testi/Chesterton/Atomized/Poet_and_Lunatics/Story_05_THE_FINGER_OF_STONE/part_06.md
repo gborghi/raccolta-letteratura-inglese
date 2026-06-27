@@ -15,34 +15,34 @@ tags:
 
 
 Hundreds of faces were turned upon Bertrand with a frightful
-expression of inhuman eagerness; the turn of the debate had been
+expression of inhuman eagerness; the turn of the [[debate]] had been
 too dramatic to raise a cry.  Bertrand's very lips were pale,
 but they smiled as they formed the words:
 
-"And what did I do with the body?"
+"And what did I do with the [[Body|body]]?"
 
 "God grant you did nothing with it, dead or alive," answered the other.
 "I do not charge you; but if ever you are charged as I am unjustly,
 you may need a God on that day.  Though I were ten times guillotined,
-God could testify to my innocence; if it were by bidding me
+God could testify to my [[innocence]]; if it were by bidding me
 walk these streets, like St. Denis, with my head in my hand.
 I have no other proof.  I can call no other witness.
 He can deliver me if He will."
 
-There was a sudden silence, which was somehow stronger than a pause;
+There was a sudden [[Silence|silence]], which was somehow stronger than a pause;
 and in it Armitage could be heard saying sharply, and almost querulously:
 
 "Why, here's Gale again, after all.  Have you dropped from the sky?"
 
 Gale was indeed sauntering in a clear space round the corner of the statue
-with all the appearance of having just arrived at a crowded At Home;
+with all the appearance of having just arrived at a crowded At [[Home]];
 and Bertrand was quick to seize the chance of an anti-climax
 to the hermit's oratory.
 
 "This," he cried, "is a gentleman who thinks he can find
-the body himself.  Have you brought it with you, monsieur?"
+the [[Body|body]] himself.  Have you brought it with you, monsieur?"
 
-The joke about the poet as detective had already been passed round
+The joke about the poet as [[Detective|detective]] had already been passed round
 among many people, and the suggestion received a new kind of applause.
 Somebody called out in a high, piping voice, "He's got it in his pocket";
 and another, in deep sepulchral tones, "His waistcoat pocket."
@@ -51,31 +51,31 @@ Mr. Gale certainly had his hands in his pockets, whether or no
 he had anything else in them; and it was with great nonchalance
 that he replied:
 
-"Well, in that sense, I suppose I haven't got it.  But you have."
+"[[Well]], in that sense, I suppose I haven't got it.  But you have."
 
 The next moment he had astonished his friends, who were not used
 to seeing him so alert, by leaping on the chair, and himself
 addressing the crowd in clear tones, and in excellent French:
 
-"Well, my friends," he said, "the first thing I have to do is
+"[[Well]], my friends," he said, "the first thing I have to do is
 to associate myself with everything said by my honourable friend,
 if he will allow me to call him so, about the merits and high
 moral qualities of the late Professor Boyg.  Boyg, at any rate,
-is in every way worthy of all the honour you can pay to him.
+is in every way worthy of all the [[Honour|honour]] you can pay to him.
 Whatever else is doubtful, whatever else we differ about,
-we can all salute in him that search for truth which is the most
+we can all salute in him that search for [[Truth|truth]] which is the most
 disinterested of all our duties to God.  I agree with my friend
 Dr. Garth that he deserves to have a statue, not only in his own town,
 but in every town in the world."
 
 The anti-clericals began to cheer warmly, while their opponents watched
-in silence, wondering where this last eccentric development might lead.
-The poet seemed to realize their mystification, and smiled
+in [[Silence|silence]], wondering where this last eccentric development might lead.
+The poet seemed to realize their [[Mystification|mystification]], and smiled
 as he continued:
 
-"Perhaps you wonder why I should say that so emphatically.
-Well, I suppose you all have your own reasons for recognizing
-this genuine love of truth in the late Professor.  But I say it
+"Perhaps you [[Wonder|wonder]] why I should say that so emphatically.
+[[Well]], I suppose you all have your own reasons for recognizing
+this genuine [[Love|love]] of [[Truth|truth]] in the late Professor.  But I say it
 because I happen to know something that perhaps you don't know,
 which makes me specially certain about his honesty."
 
@@ -94,22 +94,22 @@ and with those last experiments.  I suspected it when I compared
 the current tale with his reputation as a simple and kindly man.
 I did not believe he would have gone merely to triumph over his
 worst enemy; it was far more probable that he thought it a point
-of honour to acknowledge his mistake.  For, without professing
+of [[Honour|honour]] to acknowledge his mistake.  For, without professing
 to know much about these things, I am sure it was a mistake.
 Things do not, after all, need all those thousand years to
 petrify in that particular fashion.  Under certain conditions,
 which chemists could explain better than I, they do not need
 more than one year, or even one day.  Something in the properties
-of the local water, applied or intensified by special methods,
+of the local [[Water|water]], applied or intensified by special methods,
 can really in a few hours turn an animal organism into a fossil.
 The scientific experiment has been made; and the proof is before you."
 
 He made a gesture with his hand, and went on, with something
 more like excitement:
 
-"M. Bertrand is right in saying that truth is not in a well, but on
+"M. Bertrand is right in saying that [[Truth|truth]] is not in a [[Well|well]], but on
 a tower.  It is on a pedestal.  You have looked at it every day.
-There is the body of Boyg!"
+There is the [[Body|body]] of Boyg!"
 
 And he pointed to the statue in the middle of the market-place,
 wreathed with laurel and defaced with stones, as it had stood so long
@@ -117,8 +117,8 @@ in that quiet square, and looked down at so many casual passers-by.
 
 "Somebody suggested just now," he went on, glancing over a sea
 of gaping faces, "that I carried the statue in my waistcoat pocket.
-Well, I don't carry all of it, of course, but this is a part of it,"
-and he took out a small object like a stick of grey chalk; "this is
+[[Well]], I don't carry all of it, of course, but this is a part of it,"
+and he took out a small object like a stick of grey [[chalk]]; "this is
 a finger of it knocked off by a stone.  I picked it up by the pedestal.
 If anybody who understands these things likes to look at it, he will
 agree that the consistency is precisely the same as the admitted
@@ -127,14 +127,14 @@ fossils in the geological museum."
 He held it out to them, but the whole mob stood still as if it
 also was a mob of men turned to stone.
 
-"Perhaps you think I'm mad," he said pleasantly.  "Well, I'm not
+"Perhaps you think I'm mad," he said pleasantly.  "[[Well]], I'm not
 exactly mad, but I have an odd sort of sympathy with madmen.
 I can manage them better than most people can, because I can fancy
 somehow the wild way their minds will work.  I understand the man
 who did this.  I know he did, because I talked to him for half
 the morning; and it's exactly the sort of thing he would do.
 And when first I heard talk of fossil shells and petrified
-insects and so on, I did the same thing that such men always do.
+[[Insects|insects]] and so on, I did the same thing that such men always do.
 I exaggerated it into a sort of extravagant vision, a vision of
 fossil forests, and fossil cattle, and fossil elephants and camels;
 and so, naturally, to another thought:  a coincidence that somehow

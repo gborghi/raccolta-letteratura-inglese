@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 10 (part 1)"
+title: "[[Shirley]] — Chapter 10 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,7 +24,7 @@ OLD MAIDS.
 
 
 
-Time wore on, and spring matured. The surface of England began to look
+[[Time]] wore on, and [[Spring|spring]] matured. The surface of England began to look
 
 pleasant: her fields grew green, her hills fresh, her gardens blooming;
 
@@ -32,7 +32,7 @@ but at heart she was no better. Still her poor were wretched, still
 
 their employers were harassed. Commerce, in some of its branches, seemed
 
-threatened with paralysis, for the war continued; England's blood was
+threatened with paralysis, for the war continued; England's [[Blood|blood]] was
 
 shed and her wealth lavished--all, it seemed, to attain most inadequate
 
@@ -40,7 +40,7 @@ ends. Some tidings there were indeed occasionally of successes in the
 
 Peninsula, but these came in slowly; long intervals occurred between, in
 
-which no note was heard but the insolent self-felicitations of Bonaparte
+which no note was heard but the insolent [[Self|self]]-felicitations of Bonaparte
 
 on his continued triumphs. Those who suffered from the results of the
 
@@ -74,13 +74,13 @@ certainly think too exclusively of making money; they are too oblivious
 
 of every national consideration but that of extending England's--that
 
-is, their own--commerce. Chivalrous feeling, disinterestedness, pride in
+is, their own--commerce. Chivalrous feeling, disinterestedness, [[Pride|pride]] in
 
-honour, is too dead in their hearts. A land ruled by them alone would
+[[Honour|honour]], is too dead in their hearts. A land ruled by them [[Alone|alone]] would
 
 too often make ignominious submission--not at all from the motives
 
-Christ teaches, but rather from those Mammon instils. During the late
+[[Christ]] teaches, but rather from those Mammon instils. During the late
 
 war, the tradesmen of England would have endured buffets from the
 
@@ -132,13 +132,13 @@ Long may it be ere England really becomes a nation of shop-keepers!
 
 
 
-We have already said that Moore was no self-sacrificing patriot, and we
+We have already said that Moore was no [[Self|self]]-sacrificing patriot, and we
 
 have also explained what circumstances rendered him specially prone to
 
 confine his attention and efforts to the furtherance of his individual
 
-interest; accordingly, when he felt himself urged a second time to the
+interest; accordingly, when he felt himself urged a second [[Time|time]] to the
 
 brink of ruin, none struggled harder than he against the influences
 
@@ -150,11 +150,11 @@ whose money and connections gave them more power than he possessed.
 
 Sometimes, by flashes, he felt there was little reason in the demands
 
-his party made on Government. When he heard of all Europe threatened by
+his party made on [[government|Government]]. When he heard of all Europe threatened by
 
-Bonaparte, and of all Europe arming to resist him; when he saw Russia
+Bonaparte, and of all Europe arming to resist him; when he saw [[Russia]]
 
-menaced, and beheld Russia rising, incensed and stern, to defend her
+menaced, and beheld [[Russia]] rising, incensed and stern, to defend her
 
 frozen soil, her wild provinces of serfs, her dark native despotism,
 
@@ -164,17 +164,17 @@ England, a free realm, could not _then_ depute her sons to make
 
 concessions and propose terms to the unjust, grasping French leader.
 
-When news came from time to time of the movements of that MAN then
+When news came from [[Time|time]] to [[Time|time]] of the movements of that MAN then
 
-representing England in the Peninsula, of his advance from success to
+representing England in the Peninsula, of his advance from [[success]] to
 
-success--that advance so deliberate but so unswerving, so circumspect
+[[success]]--that advance so deliberate but so unswerving, so circumspect
 
 but so certain, so "unhasting" but so "unresting;" when he read Lord
 
 Wellington's own dispatches in the columns of the newspapers, documents
 
-written by modesty to the dictation of truth--Moore confessed at heart
+written by modesty to the dictation of [[Truth|truth]]--Moore confessed at heart
 
 that a power was with the troops of Britain, of that vigilant, enduring,
 
@@ -184,7 +184,7 @@ in the end. In the end! But that end, he thought, was yet far off; and
 
 meantime he, Moore, as an individual, would be crushed, his hopes ground
 
-to dust. It was himself he had to care for, his hopes he had to pursue;
+to [[Dust|dust]]. It was himself he had to care for, his hopes he had to pursue;
 
 and he would fulfil his destiny.
 

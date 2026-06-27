@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 4)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-      My mind, however, was too much occupied to sleep, and I lay the
+      My mind, however, was too much occupied to [[Sleep|sleep]], and I lay the
 
-      whole night buried in meditation. Arising early in the morning,
+      whole [[Night|night]] buried in meditation. Arising early in the morning,
 
       and contriving again to escape the vigilance of my creditors, I
 
@@ -24,11 +24,11 @@ tags:
 
       little ready money I possessed, in the purchase of some volumes
 
-      of Mechanics and Practical Astronomy. Having arrived at home
+      of Mechanics and Practical Astronomy. Having arrived at [[Home|home]]
 
       safely with these, I devoted every spare moment to their perusal,
 
-      and soon made such proficiency in studies of this nature as I
+      and soon made such proficiency in studies of this [[Nature|nature]] as I
 
       thought sufficient for the execution of my plan. In the intervals
 
@@ -84,7 +84,7 @@ tags:
 
       and two astronomical instruments not so generally known. I then
 
-      took opportunities of conveying by night, to a retired situation
+      took opportunities of conveying by [[Night|night]], to a retired situation
 
       east of Rotterdam, five iron-bound casks, to contain about fifty
 
@@ -124,7 +124,7 @@ tags:
 
       individual in question may attempt a balloon ascension with the
 
-      novel gas and material I have spoken of, and I do not wish to
+      [[Novel|novel]] gas and material I have spoken of, and I do not wish to
 
       deprive him of the honor of a very singular invention.
 
@@ -168,13 +168,13 @@ tags:
 
       apparatus for condensation of the atmospheric air. I found this
 
-      machine, however, to require considerable alteration before it
+      [[Machine|machine]], however, to require considerable alteration before it
 
       could be adapted to the purposes to which I intended making it
 
       applicable. But, with severe labor and unremitting perseverance,
 
-      I at length met with entire success in all my preparations. My
+      I at length met with entire [[success]] in all my preparations. My
 
       balloon was soon completed. It would contain more than forty
 

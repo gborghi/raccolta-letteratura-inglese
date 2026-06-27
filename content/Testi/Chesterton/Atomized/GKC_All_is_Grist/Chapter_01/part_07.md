@@ -23,7 +23,7 @@ they do not so much discuss whether Empire Free Trade is false
 or true, as whether it is booming or slumping; whether it is based
 on an understanding of Mass Psychology, or whether its opponents
 or supporters have what Americans call Personality.  It is all
-great fun, and there is doubtless a truth in it, as in other things.
+great fun, and there is doubtless a [[Truth|truth]] in it, as in other things.
 But, whatever else it is, it is not a mark of stronger mentality,
 and any old Scotch Calvinist farmer, who could follow his minister's
 desolate and appalling sermon to Seventeenthly and Lastly,
@@ -39,8 +39,8 @@ The old tale against travellers' tales was that they magnified everything;
 that every lizard became a dragon and every savage tribe a race
 of giants.  But my experience is that travellers in a strange land,
 especially if they have travelled in it long, tend too much to forget
-its strangeness.  They become concerned with a dust of details,
-and tend to take the green lizards as casually as the green leaves.
+its strangeness.  They become concerned with a [[Dust|dust]] of details,
+and tend to take the green lizards as casually as the green [[Leaves|leaves]].
 The danger is rather, I think, that a man can live in a tribe
 of gigantic savages, and grow to remark and record all sorts
 of details about their tribal taxes or their coinage of tusks
@@ -54,9 +54,9 @@ been accused of telling lies, which have often afterwards
 turned out to be truths.  Modern research, which has justified
 so many medieval reputations, has made some reparation even to
 medieval travellers.  It was Marco Polo, I think, who reported
-that he had met in Africa men who had the heads of dogs.
+that he had met in Africa men who had the heads of [[dogs]].
 And most modern critics treated it as a manifest fairy-tale,
-as if he claimed to have seen birds with the heads of elephants.
+as if he claimed to have seen [[Birds|birds]] with the heads of elephants.
 But it is very likely indeed that the traveller saw baboons, or some
 of the larger apes; and his description is really more scientific
 and exact than the common popular impression about men and monkeys.
@@ -71,14 +71,14 @@ provocation to the myth of the Missing Link.  And I repeat that foreign
 sights have mostly affected me as the first ape must have affected
 the first explorer; not necessarily as something beautiful or charming,
 but certainly as something very surprising and entirely unexpected.
-When I first saw St. Mark's, Venice, I am by no means sure
+When I first saw St. Mark's, [[Venice]], I am by no means sure
 that I liked it; but I am quite sure that I was surprised by it;
 that it was not only quite different from anything I had ever seen,
 but quite different from anything I had ever expected.
 I thought it looked like Aladdin's Palace in a pantomime.
 And the impression was not altogether false for a man standing
-in that great merchant city of the Western Mediterranean is,
-by a paradox, standing deep in the golden gate of the East.  There was
+in that great merchant [[City|city]] of the Western Mediterranean is,
+by a [[Paradox|paradox]], standing deep in the golden gate of the East.  There was
 always something a little too Oriental about the Venetian republic;
 and this, it has been suggested, was why it did, in a sense, fall like
 Carthage rather than survive like Rome.  But, however that may be,
@@ -93,19 +93,19 @@ The queer thing is that what one would expect to be the first thing
 mentioned is generally the last thing mentioned.  I had heard a thousand
 things about Jerusalem ever since my babyhood, and seen views of it,
 and plans of it, and read controversies about it.  But, somehow or other,
-I had never got hold of the first fact that it is a mountain city.
-A city that is set upon a hill cannot be hid; but some how it seems
-as if the hill could be hid.  All the photographs and descriptions
+I had never got hold of the first fact that it is a mountain [[City|city]].
+A [[City|city]] that is set upon a [[Hill|hill]] cannot be hid; but some how it seems
+as if the [[Hill|hill]] could be hid.  All the photographs and descriptions
 I had seen were like glimpses of an Eastern bazaar; and suggested
-all the accompaniments of heat and stagnation and flat desert sands.
-Whereas the real city, relatively speaking, is much more like a castle
+all the accompaniments of heat and stagnation and flat [[Desert|desert]] sands.
+Whereas the real [[City|city]], relatively speaking, is much more like a [[Castle|castle]]
 on the crags of the Rhine, or set high among the rocks of Spain.
 From Spain itself it would be easy to take similar examples.
 I knew that the Escorial was a palace; I did not know that it
-looks much more like a prison; but especially I did not know
-the strange journey into the mountains by which it is reached,
-with the consequent sense of separation and unearthly loneliness
-in that huge habitation of a moody King.  In short, I have
+looks much more like a [[Prison|prison]]; but especially I did not know
+the strange [[Journey|journey]] into the [[Mountains|mountains]] by which it is reached,
+with the consequent sense of separation and unearthly [[Loneliness|loneliness]]
+in that huge habitation of a moody [[King]].  In short, I have
 sometimes positively disliked the famous spectacles of travel.
 But the thing I disliked was always utterly different from the thing
 that I was expected to like; so utterly different that I generally
@@ -125,7 +125,7 @@ far northward, almost as if he were going to the North Pole,
 or at least to find the North-West Passage.  He sees icebergs
 and the Northern Lights and the whales of the northern waters;
 a hundred signs recall to him the Arctic adventures of which he read
-as a boy.  Then the ship takes a sharp turn, which seems like one
+as a boy.  Then the [[Ship|ship]] takes a sharp turn, which seems like one
 of the sharpest turns in navigation, and enters a new, an enormous,
 and yet a secret world.  He feels, as the first explorers must
 have felt, that it is really a world set apart; that he had never
@@ -135,5 +135,5 @@ the narrowing coasts of that inland sea villages and the spires
 of churches that are not altogether like anything he has left behind.
 It is as if there were another Mediterranean, with another civilization
 in all its ports and shrines.  So a man sails up the great St. Lawrence,
-wondering more and more, until the broad river seems to split
+wondering more and more, until the broad [[River|river]] seems to split
 about the great rock of Quebec.

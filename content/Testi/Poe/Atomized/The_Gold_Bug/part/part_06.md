@@ -1,5 +1,5 @@
 ---
-title: "The Gold-Bug (part 6)"
+title: "[[The Gold-Bug]] (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Gold-Bug-(Poe)"
@@ -28,7 +28,7 @@ tags:
 
 
 
-      “Try the wood well, then, with your knife, and see if you think
+      “Try the wood [[Well|well]], then, with your knife, and see if you think
 
       it very rotten.”
 
@@ -68,7 +68,7 @@ tags:
 
 
 
-      “Well! now listen!—if you will venture out on the limb as far as
+      “[[Well]]! now listen!—if you will venture out on the limb as far as
 
       you think safe, and not let go the beetle, I’ll make you a
 
@@ -94,7 +94,7 @@ tags:
 
 
 
-      “Well!” cried Legrand, highly delighted, “what is it?”
+      “[[Well]]!” cried Legrand, highly delighted, “what is it?”
 
 
 
@@ -104,7 +104,7 @@ tags:
 
 
 
-      “A skull, you say!—very well—how is it fastened to the limb?—what
+      “A skull, you say!—very [[Well|well]]—how is it fastened to the limb?—what
 
       holds it on?”
 
@@ -118,7 +118,7 @@ tags:
 
 
 
-      “Well now, Jupiter, do exactly as I tell you—do you hear?”
+      “[[Well]] now, Jupiter, do exactly as I tell you—do you hear?”
 
 
 
@@ -232,11 +232,11 @@ tags:
 
 
 
-      To speak the truth, I had no especial relish for such amusement
+      To speak the [[Truth|truth]], I had no especial relish for such amusement
 
-      at any time, and, at that particular moment, would most willingly
+      at any [[Time|time]], and, at that particular moment, would most willingly
 
-      have declined it; for the night was coming on, and I felt much
+      have declined it; for the [[Night|night]] was coming on, and I felt much
 
       fatigued with the exercise already taken; but I saw no mode of
 
@@ -246,13 +246,13 @@ tags:
 
       I would have had no hesitation in attempting to get the lunatic
 
-      home by force; but I was too well assured of the old negro’s
+      [[Home|home]] by force; but I was too [[Well|well]] assured of the old negro’s
 
-      disposition, to hope that he would assist me, under any
+      disposition, to [[Hope|hope]] that he would assist me, under any
 
       circumstances, in a personal contest with his master. I made no
 
-      doubt that the latter had been infected with some of the
+      [[Doubt|doubt]] that the latter had been infected with some of the
 
       innumerable Southern superstitions about money buried, and that
 

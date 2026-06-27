@@ -1,5 +1,5 @@
 ---
-title: "Twelfth Night — Act V, Scene 1 — exchange (THE PERSONS OF THE PLAY) [9]"
+title: "[[Twelfth Night]] — Act V, Scene 1 — exchange (THE PERSONS OF THE PLAY) [9]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/TWELFTH-NIGHT-(Shakespeare)"
@@ -16,6 +16,6 @@ tags:
 | Chi parla | Battuta |
 |---|---|
 | THE PERSONS OF THE | PLAY |
-| PROLOGUE | Trojans PRIAM, King of Troy CASSANDRA, Priam’s daughter, a prophetess ANDROMACHE, wife of Hector PANDARUS, a lord CRESSIDA, his niece CALCHAS, her father, who has joined the Greeks HELEN, wife of Menelaus, now living with Paris ALEXANDER, servant of Cressida Servants of Troilus, musicians, soldiers, attendants Greeks AGAMEMNON, Commander-in-Chief MENELAUS, his brother |
-| ACHILLES | PATROCLUS, his companion |
-| THERSITES | MYRMIDONS, soldiers of Achilles Servants of Diomedes, soldiers |
+| PROLOGUE | Trojans PRIAM, [[King]] of Troy CASSANDRA, Priam’s daughter, a prophetess ANDROMACHE, wife of [[Hector]] [[Pandarus|PANDARUS]], a lord [[Cressida|CRESSIDA]], his niece CALCHAS, her father, who has joined the Greeks [[Helen|HELEN]], wife of Menelaus, now living with [[Paris]] ALEXANDER, servant of [[Cressida]] Servants of [[Troilus]], musicians, soldiers, attendants Greeks [[Agamemnon|AGAMEMNON]], Commander-in-Chief MENELAUS, his brother |
+| [[Achilles|ACHILLES]] | PATROCLUS, his companion |
+| [[Thersites|THERSITES]] | MYRMIDONS, soldiers of [[Achilles]] Servants of Diomedes, soldiers |

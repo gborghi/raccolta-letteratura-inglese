@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 39 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 39 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -48,7 +48,7 @@ long in his possession.”
 
 “You cannot mean that you will break your heart and die for the
 
-detestable conduct of an infamous villain like that!”
+detestable conduct of an infamous [[Villain|villain]] like that!”
 
 
 
@@ -74,11 +74,11 @@ and I mean to live as long as I can.”
 
 
 
-“But your child?”
+“But your [[Child|child]]?”
 
 
 
-“My child goes with me.”
+“My [[Child|child]] goes with me.”
 
 
 
@@ -96,17 +96,17 @@ Huntingdon?”
 
 
 
-“With my son: and possibly, his nurse.”
+“With my son: and possibly, his [[Nurse|nurse]].”
 
 
 
-“Alone—and unprotected! But where can you go? what can you do? He will
+“[[Alone]]—and unprotected! But where can you go? what can you do? He will
 
 follow you and bring you back.”
 
 
 
-“I have laid my plans too well for that. Let me once get clear of
+“I have laid my plans too [[Well|well]] for that. Let me once get clear of
 
 Grassdale, and I shall consider myself safe.”
 
@@ -116,7 +116,7 @@ Mr. Hargrave advanced one step towards me, looked me in the face, and
 
 drew in his breath to speak; but that look, that heightened colour,
 
-that sudden sparkle of the eye, made my blood rise in wrath: I abruptly
+that sudden sparkle of the eye, made my [[Blood|blood]] rise in wrath: I abruptly
 
 turned away, and, snatching up my brush, began to dash away at my
 
@@ -144,9 +144,9 @@ husband; he openly declares himself weary of you, and calmly gives you
 
 up to anybody that will take you; you are about to leave him; no one
 
-will believe that you go alone; all the world will say, ‘She has left
+will believe that you go [[Alone|alone]]; all the world will say, ‘She has left
 
-him at last, and who can wonder at it? Few can blame her, fewer still
+him at last, and who can [[Wonder|wonder]] at it? Few can blame her, fewer still
 
 can pity him; but who is the companion of her flight?’ Thus you will
 
@@ -158,7 +158,7 @@ credited but by those who suffer, from the effects of it, such cruel
 
 torments that they know it to be indeed reality. But what can you do in
 
-the cold, rough world alone? you, a young and inexperienced woman,
+the cold, rough world [[Alone|alone]]? you, a young and inexperienced woman,
 
 delicately nurtured, and utterly—”
 
@@ -166,11 +166,11 @@ delicately nurtured, and utterly—”
 
 “In a word, you would advise me to stay where I am,” interrupted I.
 
-“Well, I’ll see about it.”
+“[[Well]], I’ll see about it.”
 
 
 
-“By _all means_, leave him!” cried he earnestly; “but NOT alone! Helen!
+“By _all means_, leave him!” cried he earnestly; “but NOT [[Alone|alone]]! [[Helen]]!
 
 let _me_ protect you!”
 
@@ -212,13 +212,13 @@ grasp.
 
 
 
-His face was almost opposite the window as he knelt. With a slight
+His face was almost opposite the [[Window|window]] as he knelt. With a slight
 
 start, I saw him glance towards it; and then a gleam of malicious
 
 triumph lit up his countenance. Looking over my shoulder, I beheld a
 
-shadow just retiring round the corner.
+[[Shadow|shadow]] just retiring round the corner.
 
 
 
@@ -226,17 +226,17 @@ shadow just retiring round the corner.
 
 seen to Huntingdon and all the rest, with such embellishments as he
 
-thinks proper. He has no love for you, Mrs. Huntingdon—no reverence for
+thinks proper. He has no [[Love|love]] for you, Mrs. Huntingdon—no reverence for
 
 your sex, no belief in virtue, no admiration for its image. He will
 
-give such a version of this story as will leave no doubt at all about
+give such a version of this story as will leave no [[Doubt|doubt]] at all about
 
 your character, in the minds of those who hear it. Your fair fame is
 
 gone; and nothing that I or you can say can ever retrieve it. But give
 
-me the power to protect you, and show me the villain that dares to
+me the power to protect you, and show me the [[Villain|villain]] that dares to
 
 insult!”
 
@@ -254,7 +254,7 @@ divinity! I lay my powers at your feet, and you must and shall accept
 
 them!” he exclaimed, impetuously starting to his feet. “I _will_ be
 
-your consoler and defender! and if your conscience upbraid you for it,
+your consoler and defender! and if your [[Conscience|conscience]] upbraid you for it,
 
 say I overcame you, and you could not choose but yield!”
 
@@ -282,4 +282,4 @@ like you,” I continued, as deliberately and emphatically as I could, to
 
 give the greater efficacy to my words; “and if I were divorced from my
 
-husband, or if he were dead, I would not marry you. There now! I hope
+husband, or if he were dead, I would not marry you. There now! I [[Hope|hope]]

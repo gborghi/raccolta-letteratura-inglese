@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 25 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 25 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -16,7 +16,7 @@ tags:
 
 as if he had written it himself. “’Tis only from James, however,” as
 
-she looked at the direction. She opened it; it was from Oxford; and to
+she looked at the direction. She opened it; it was from [[Oxford]]; and to
 
 this purpose:
 
@@ -30,21 +30,21 @@ this purpose:
 
     Thorpe and me. I left her and Bath yesterday, never to see either
 
-    again. I shall not enter into particulars—they would only pain you
+    again. I shall not enter into particulars—they would only [[Pain|pain]] you
 
     more. You will soon hear enough from another quarter to know where
 
-    lies the blame; and I hope will acquit your brother of everything
+    lies the blame; and I [[Hope|hope]] will acquit your brother of everything
 
     but the folly of too easily thinking his affection returned. Thank
 
-    God! i am undeceived in time! but it is a heavy blow! after my
+    God! i am undeceived in [[Time|time]]! but it is a heavy blow! after my
 
     father’s consent had been so kindly given—but no more of this. She
 
     has made me miserable forever! let me soon hear from you, dear
 
-    Catherine; you are my only friend; _your_ love I do build upon. I
+    Catherine; you are my only friend; _your_ [[Love|love]] I do build upon. I
 
     wish your visit at Northanger may be over before Captain Tilney
 
@@ -84,7 +84,7 @@ this purpose:
 
 Catherine had not read three lines before her sudden change of
 
-countenance, and short exclamations of sorrowing wonder, declared her
+countenance, and short exclamations of sorrowing [[Wonder|wonder]], declared her
 
 to be receiving unpleasant news; and Henry, earnestly watching her
 
@@ -94,7 +94,7 @@ began. He was prevented, however, from even looking his surprise by his
 
 father’s entrance. They went to breakfast directly; but Catherine could
 
-hardly eat anything. Tears filled her eyes, and even ran down her
+hardly eat anything. [[Tears]] filled her eyes, and even ran down her
 
 cheeks as she sat. The letter was one moment in her hand, then in her
 
@@ -110,13 +110,13 @@ own room; but the housemaids were busy in it, and she was obliged to
 
 come down again. She turned into the drawing-room for privacy, but
 
-Henry and Eleanor had likewise retreated thither, and were at that
+Henry and [[Eleanor]] had likewise retreated thither, and were at that
 
 moment deep in consultation about her. She drew back, trying to beg
 
 their pardon, but was, with gentle violence, forced to return; and the
 
-others withdrew, after Eleanor had affectionately expressed a wish of
+others withdrew, after [[Eleanor]] had affectionately expressed a wish of
 
 being of use or comfort to her.
 
@@ -130,33 +130,33 @@ distress known to them was another consideration. Perhaps, if
 
 particularly questioned, she might just give an idea—just distantly
 
-hint at it—but not more. To expose a friend, such a friend as Isabella
+hint at it—but not more. To expose a friend, such a friend as [[Isabella]]
 
 had been to her—and then their own brother so closely concerned in it!
 
-She believed she must waive the subject altogether. Henry and Eleanor
+She believed she must waive the subject altogether. Henry and [[Eleanor]]
 
 were by themselves in the breakfast-room; and each, as she entered it,
 
 looked at her anxiously. Catherine took her place at the table, and,
 
-after a short silence, Eleanor said, “No bad news from Fullerton, I
+after a short [[Silence|silence]], [[Eleanor]] said, “No bad news from Fullerton, I
 
-hope? Mr. and Mrs. Morland—your brothers and sisters—I hope they are
+[[Hope|hope]]? Mr. and Mrs. Morland—your brothers and sisters—I [[Hope|hope]] they are
 
 none of them ill?”
 
 
 
-“No, I thank you” (sighing as she spoke); “they are all very well. My
+“No, I thank you” (sighing as she spoke); “they are all very [[Well|well]]. My
 
-letter was from my brother at Oxford.”
+letter was from my brother at [[Oxford]].”
 
 
 
 Nothing further was said for a few minutes; and then speaking through
 
-her tears, she added, “I do not think I shall ever wish for a letter
+her [[Tears|tears]], she added, “I do not think I shall ever wish for a letter
 
 again!”
 
@@ -198,13 +198,13 @@ give me notice of it, that I may go away.”
 
 something has happened that would make it very dreadful for me to be in
 
-the same house with Captain Tilney.”
+the same [[house]] with Captain Tilney.”
 
 
 
-Eleanor’s work was suspended while she gazed with increasing
+[[Eleanor]]’s work was suspended while she gazed with increasing
 
-astonishment; but Henry began to suspect the truth, and something, in
+astonishment; but Henry began to suspect the [[Truth|truth]], and something, in
 
 which Miss Thorpe’s name was included, passed his lips.
 
@@ -214,7 +214,7 @@ which Miss Thorpe’s name was included, passed his lips.
 
 And yet, when we talked about it in Bath, you little thought of its
 
-ending so. Isabella—no wonder _now_ I have not heard from her—Isabella
+ending so. [[Isabella]]—no [[Wonder|wonder]] _now_ I have not heard from her—[[Isabella]]
 
 has deserted my brother, and is to marry yours! could you have believed
 
@@ -224,7 +224,7 @@ bad in the world?”
 
 
 
-“I hope, so far as concerns my brother, you are misinformed. I hope he
+“I [[Hope|hope]], so far as concerns my brother, you are misinformed. I [[Hope|hope]] he
 
 has not had any material share in bringing on Mr. Morland’s
 
@@ -232,6 +232,6 @@ disappointment. His marrying Miss Thorpe is not probable. I think you
 
 must be deceived so far. I am very sorry for Mr. Morland—sorry that
 
-anyone you love should be unhappy; but my surprise would be greater at
+anyone you [[Love|love]] should be unhappy; but my surprise would be greater at
 
 Frederick’s marrying her than at any other part of the story.”

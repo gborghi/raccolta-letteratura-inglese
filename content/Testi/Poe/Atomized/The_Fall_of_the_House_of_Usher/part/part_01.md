@@ -1,5 +1,5 @@
 ---
-title: "The Fall of the House of Usher (part 1)"
+title: "[[The Fall of the House of Usher]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Fall-of-the-House-of-Usher-(Poe)"
@@ -19,39 +19,39 @@ Son cœur est un luth suspendu;
 
 —_De Béranger_.
 
-      During the whole of a dull, dark, and soundless day in the autumn
+      During the whole of a dull, dark, and soundless day in the [[Autumn|autumn]]
       of the year, when the clouds hung oppressively low in the
-      heavens, I had been passing alone, on horseback, through a
+      heavens, I had been passing [[Alone|alone]], on horseback, through a
       singularly dreary tract of country; and at length found myself,
       as the shades of the evening drew on, within view of the
-      melancholy House of Usher. I know not how it was—but, with the
+      [[Melancholy|melancholy]] [[house|House]] of Usher. I know not how it was—but, with the
       first glimpse of the building, a sense of insufferable gloom
       pervaded my spirit. I say insufferable; for the feeling was
       unrelieved by any of that half-pleasurable, because poetic,
       sentiment, with which the mind usually receives even the sternest
       natural images of the desolate or terrible. I looked upon the
-      scene before me—upon the mere house, and the simple landscape
+      scene before me—upon the mere [[house]], and the simple landscape
       features of the domain—upon the bleak walls—upon the vacant
       eye-like windows—upon a few rank sedges—and upon a few white
-      trunks of decayed trees—with an utter depression of soul which I
+      trunks of decayed trees—with an utter depression of [[Soul|soul]] which I
       can compare to no earthly sensation more properly than to the
       after-dream of the reveller upon opium—the bitter lapse into
       everyday life—the hideous dropping off of the veil. There was an
       iciness, a sinking, a sickening of the heart—an unredeemed
-      dreariness of thought which no goading of the imagination could
-      torture into aught of the sublime. What was it—I paused to
+      dreariness of thought which no goading of the [[Imagination|imagination]] could
+      torture into aught of the [[Sublime|sublime]]. What was it—I paused to
       think—what was it that so unnerved me in the contemplation of the
-      House of Usher? It was a mystery all insoluble; nor could I
+      [[house|House]] of Usher? It was a mystery all insoluble; nor could I
       grapple with the shadowy fancies that crowded upon me as I
       pondered. I was forced to fall back upon the unsatisfactory
-      conclusion, that while, beyond doubt, there _are_ combinations of
+      conclusion, that while, beyond [[Doubt|doubt]], there _are_ combinations of
       very simple natural objects which have the power of thus
       affecting us, still the analysis of this power lies among
       considerations beyond our depth. It was possible, I reflected,
       that a mere different arrangement of the particulars of the
       scene, of the details of the picture, would be sufficient to
       modify, or perhaps to annihilate its capacity for sorrowful
-      impression; and, acting upon this idea, I reined my horse to the
+      impression; and, acting upon this idea, I reined my [[Horse|horse]] to the
       precipitous brink of a black and lurid tarn that lay in unruffled
       lustre by the dwelling, and gazed down—but with a shudder even
       more thrilling than before—upon the remodelled and inverted
@@ -59,14 +59,14 @@ Son cœur est un luth suspendu;
       vacant and eye-like windows.
 
       Nevertheless, in this mansion of gloom I now proposed to myself a
-      sojourn of some weeks. Its proprietor, Roderick Usher, had been
+      sojourn of some weeks. Its proprietor, [[Roderick Usher]], had been
       one of my boon companions in boyhood; but many years had elapsed
       since our last meeting. A letter, however, had lately reached me
       in a distant part of the country—a letter from him—which, in its
-      wildly importunate nature, had admitted of no other than a
+      wildly importunate [[Nature|nature]], had admitted of no other than a
       personal reply. The MS. gave evidence of nervous agitation. The
       writer spoke of acute bodily illness—of a mental disorder which
-      oppressed him—and of an earnest desire to see me, as his best,
+      oppressed him—and of an earnest [[Desire|desire]] to see me, as his best,
       and indeed his only personal friend, with a view of attempting,
       by the cheerfulness of my society, some alleviation of his
       malady. It was the manner in which all this, and much more, was
@@ -77,14 +77,14 @@ Son cœur est un luth suspendu;
       Although, as boys, we had been even intimate associates, yet I
       really knew little of my friend. His reserve had been always
       excessive and habitual. I was aware, however, that his very
-      ancient family had been noted, time out of mind, for a peculiar
+      ancient family had been noted, [[Time|time]] out of mind, for a peculiar
       sensibility of temperament, displaying itself, through long ages,
       in many works of exalted art, and manifested, of late, in
-      repeated deeds of munificent yet unobtrusive charity, as well as
+      repeated deeds of munificent yet unobtrusive [[Charity|charity]], as [[Well|well]] as
       in a passionate devotion to the intricacies, perhaps even more
       than to the orthodox and easily recognisable beauties, of musical
       science. I had learned, too, the very remarkable fact, that the
-      stem of the Usher race, all time-honored as it was, had put
+      stem of the Usher race, all [[Time|time]]-honored as it was, had put
       forth, at no period, any enduring branch; in other words, that
       the entire family lay in the direct line of descent, and had
       always, with very trifling and very temporary variation, so lain.
@@ -97,22 +97,22 @@ Son cœur est un luth suspendu;
       undeviating transmission, from sire to son, of the patrimony with
       the name, which had, at length, so identified the two as to merge
       the original title of the estate in the quaint and equivocal
-      appellation of the “House of Usher”—an appellation which seemed
+      appellation of the “[[house|House]] of Usher”—an appellation which seemed
       to include, in the minds of the peasantry who used it, both the
       family and the family mansion.
 
       I have said that the sole effect of my somewhat childish
       experiment—that of looking down within the tarn—had been to
-      deepen the first singular impression. There can be no doubt that
+      deepen the first singular impression. There can be no [[Doubt|doubt]] that
       the consciousness of the rapid increase of my superstition—for
       why should I not so term it?—served mainly to accelerate the
       increase itself. Such, I have long known, is the paradoxical law
       of all sentiments having terror as a basis. And it might have
       been for this reason only, that, when I again uplifted my eyes to
-      the house itself, from its image in the pool, there grew in my
+      the [[house]] itself, from its image in the pool, there grew in my
       mind a strange fancy—a fancy so ridiculous, indeed, that I but
       mention it to show the vivid force of the sensations which
-      oppressed me. I had so worked upon my imagination as really to
+      oppressed me. I had so worked upon my [[Imagination|imagination]] as really to
       believe that about the whole mansion and domain there hung an
       atmosphere peculiar to themselves and their immediate vicinity—an
       atmosphere which had no affinity with the air of heaven, but

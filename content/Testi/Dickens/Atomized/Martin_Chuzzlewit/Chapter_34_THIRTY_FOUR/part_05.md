@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 5)"
+title: "[[Martin Chuzzlewit]] — Chapter 34: THIRTY FOUR (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-Mrs Hominy promptly rose, and proceeded to the door, whence she
+Mrs Hominy promptly [[Rose|rose]], and proceeded to the door, whence she
 returned, after a minute’s interval, with the two L. L.’s, whom she led,
 through the lane in the crowd, with all that stateliness of deportment
 which was so remarkably her own, up to the great Elijah Pogram. It was
 (as the shrill boy cried out in an ecstasy) quite the Last Scene from
-Coriolanus. One of the L. L.’s wore a brown wig of uncommon size.
+[[Coriolanus]]. One of the L. L.’s wore a brown wig of uncommon size.
 Sticking on the forehead of the other, by invisible means, was a massive
 cameo, in size and shape like the raspberry tart which is ordinarily
 sold for a penny, representing on its front the Capitol at Washington.
@@ -39,10 +39,10 @@ we give those titles, is a topic, Spirit searching, light abandoned,
 much too vast to enter on, at this unlooked-for crisis.’
 
 ‘Mind and matter,’ said the lady in the wig, ‘glide swift into the
-vortex of immensity. Howls the sublime, and softly sleeps the calm
-Ideal, in the whispering chambers of Imagination. To hear it, sweet
+vortex of immensity. Howls the [[Sublime|sublime]], and softly sleeps the calm
+Ideal, in the whispering chambers of [[Imagination]]. To hear it, sweet
 it is. But then, outlaughs the stern philosopher, and saith to the
-Grotesque, “What ho! arrest for me that Agency. Go, bring it here!” And
+[[Grotesque]], “What ho! arrest for me that Agency. Go, bring it here!” And
 so the vision fadeth.’
 
 After this, they both took Mr Pogram by the hand, and pressed it to
@@ -52,13 +52,13 @@ work in earnest, to bring poor Pogram out, and make him show himself in
 all his brilliant colours.
 
 How Pogram got out of his depth instantly, and how the three L. L.’s
-were never in theirs, is a piece of history not worth recording. Suffice
+were never in theirs, is a piece of [[history]] not worth recording. Suffice
 it, that being all four out of their depths, and all unable to swim,
 they splashed up words in all directions, and floundered about famously.
 On the whole, it was considered to have been the severest mental
-exercise ever heard in the National Hotel. Tears stood in the shrill
+exercise ever heard in the National Hotel. [[Tears]] stood in the shrill
 boy’s eyes several times; and the whole company observed that their
-heads ached with the effort--as well they might.
+heads ached with the effort--as [[Well|well]] they might.
 
 When it at last became necessary to release Elijah Pogram from the
 corner, and the Committee saw him safely back again to the next room,
@@ -73,23 +73,23 @@ ene-mies as you.”’
 
 There is some reason to suppose that it was rather terrible to its
 friends; being a statue of the Elevated or Goblin School, in which the
-Honourable Elijah Pogram was represented as in a very high wind, with
+Honourable Elijah Pogram was represented as in a very high [[Wind|wind]], with
 his hair all standing on end, and his nostrils blown wide open. But Mr
-Pogram thanked his friend and countryman for the aspiration to which he
+Pogram thanked his friend and countryman for the [[Aspiration|aspiration]] to which he
 had given utterance, and the Committee, after another solemn shaking of
 hands, retired to bed, except the Doctor; who immediately repaired to
 the newspaper-office, and there wrote a short poem suggested by the
-events of the evening, beginning with fourteen stars, and headed, ‘A
-Fragment. Suggested by witnessing the Honourable Elijah Pogram engaged
+events of the evening, beginning with fourteen [[Stars|stars]], and headed, ‘A
+[[Fragment]]. Suggested by witnessing the Honourable Elijah Pogram engaged
 in a philosophical disputation with three of Columbia’s fairest
 daughters. By Doctor Ginery Dunkle. Of Troy.’
 
 If Pogram was as glad to get to bed as Martin was, he must have been
-well rewarded for his labours. They started off again next day (Martin
+[[Well|well]] rewarded for his labours. They started off again next day (Martin
 and Mark previously disposing of their goods to the storekeepers of whom
 they had purchased them, for anything they would bring), and were fellow
-travellers to within a short distance of New York. When Pogram was about
-to leave them he grew thoughtful, and after pondering for some time,
+travellers to within a short distance of [[New York]]. When Pogram was about
+to leave them he grew thoughtful, and after pondering for some [[Time|time]],
 took Martin aside.
 
 ‘We air going to part, sir,’ said Pogram.
@@ -115,14 +115,14 @@ like.’
 If you are content to run the hazard, sir, here is one for your Lord
 Chancellor,’ producing it, ‘and one for Your principal Secretary of
 State. I should wish them to see it, sir, as expressing what my opinions
-air. That they may not plead ignorance at a future time. But don’t get
+air. That they may not plead ignorance at a future [[Time|time]]. But don’t get
 into danger, sir, on my account!’
 
 ‘There is not the least danger, I assure you,’ said Martin. So he put
 the pamphlets in his pocket, and they parted.
 
-Mr Bevan had written in his letter that, at a certain time, which fell
-out happily just then, he would be at a certain hotel in the city,
+Mr Bevan had written in his letter that, at a certain [[Time|time]], which fell
+out happily just then, he would be at a certain hotel in the [[City|city]],
 anxiously expecting to see them. To this place they repaired without a
 moment’s delay. They had the satisfaction of finding him within; and of
 being received by their good friend, with his own warmth and heartiness.

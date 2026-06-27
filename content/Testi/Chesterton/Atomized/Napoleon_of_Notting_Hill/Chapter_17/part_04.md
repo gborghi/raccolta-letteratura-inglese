@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting Hill — Chapter 1 (part 4)"
+title: "Napoleon of Notting [[Hill]] — Chapter 1 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Napoleon-of-Notting-Hill-(Chesterton)"
@@ -25,7 +25,7 @@ Finding General Turnbull, he put his hand on his shoulder with a queer
 affection and gravity, and said:
 
 "To-morrow, old man, we shall have a new experience, as fresh as
-the flowers of spring.  We shall be defeated.  You and I have been
+the [[Flowers|flowers]] of [[spring]].  We shall be defeated.  You and I have been
 through three battles together, and have somehow or other missed this
 peculiar delight.  It is unfortunate that we shall not probably be able
 to exchange our experiences, because, as it most annoyingly happens,
@@ -38,7 +38,7 @@ you say that we shall be defeated?"
 
 "The answer is very simple," replied Wayne, calmly.  "It is because we
 ought to be defeated.  We have been in the most horrible holes before now;
-but in all those I was perfectly certain that the stars were on our side,
+but in all those I was perfectly certain that the [[Stars|stars]] were on our side,
 and that we ought to get out.  Now, I know that we ought not to get out;
 and that takes away from me everything with which I won."
 
@@ -46,10 +46,10 @@ As Wayne spoke he started a little, for both men became aware
 that a third figure was listening to them...a small figure
 with wondering eyes.
 
-"Is it really true, my dear Wayne," said the King, interrupting,
+"Is it really true, my dear Wayne," said the [[King]], interrupting,
 "that you think you will be beaten to-morrow?"
 
-"There can be no doubt about it whatever," replied Adam Wayne;
+"There can be no [[Doubt|doubt]] about it whatever," replied [[Adam Wayne]];
 "the real reason is the one of which I have just spoken.
 But as a concession to your materialism, I will add that they
 have an organized army of a hundred allied cities against our one.
@@ -60,16 +60,16 @@ Quin, with his round eyes, seemed strangely insistent.
 "You are quite sure," he said, "that you must be beaten?"
 
 "I am afraid," said Turnbull, gloomily, "that there can be no
-doubt about it."
+[[Doubt|doubt]] about it."
 
-"Then," cried the King, flinging out his arms, "give me a halberd!
-Give me a halberd, somebody!  I desire all men to witness
-that I, Auberon, King of England, do here and now abdicate and implore
-the Provost of Notting Hill to permit me to enlist in his army.
+"Then," cried the [[King]], flinging out his arms, "give me a halberd!
+Give me a halberd, somebody!  I [[Desire|desire]] all men to witness
+that I, Auberon, [[King]] of England, do here and now abdicate and implore
+the Provost of Notting [[Hill]] to permit me to enlist in his army.
 Give me a halberd!"
 
 He seized one from some passing guard, and, shouldering it,
 stamped solemnly after the shouting columns of halberdiers which were,
-by this time, parading the streets.  He had, however, nothing to
+by this [[Time|time]], parading the streets.  He had, however, nothing to
 do with the wrecking of the statue of General Wilson, which took
 place before morning.

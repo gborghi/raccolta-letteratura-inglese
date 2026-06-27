@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 44 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 44 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -28,11 +28,11 @@ associating with people of better income than myself. Every year since
 
 my coming of age, or even before, I believe, had added to my debts; and
 
-though the death of my old cousin, Mrs. Smith, was to set me free; yet
+though the [[Death|death]] of my old cousin, Mrs. [[smith|Smith]], was to set me free; yet
 
 that event being uncertain, and possibly far distant, it had been for
 
-some time my intention to re-establish my circumstances by marrying a
+some [[Time|time]] my intention to re-establish my circumstances by marrying a
 
 woman of fortune. To attach myself to your sister, therefore, was not a
 
@@ -44,17 +44,17 @@ can ever reprobate too much,—I was acting in this manner, trying to
 
 engage her regard, without a thought of returning it. But one thing may
 
-be said for me: even in that horrid state of selfish vanity, I did not
+be said for me: even in that horrid state of selfish [[Vanity|vanity]], I did not
 
 know the extent of the injury I meditated, because I did not _then_
 
-know what it was to love. But have I ever known it? Well may it be
+know what it was to [[Love|love]]. But have I ever known it? [[Well]] may it be
 
 doubted; for, had I really loved, could I have sacrificed my feelings
 
-to vanity, to avarice? or, what is more, could I have sacrificed hers?
+to [[Vanity|vanity]], to avarice? or, what is more, could I have sacrificed hers?
 
-But I have done it. To avoid a comparative poverty, which her affection
+But I have done it. To avoid a comparative [[Poverty|poverty]], which her affection
 
 and her society would have deprived of all its horrors, I have, by
 
@@ -66,7 +66,7 @@ blessing.”
 
 “You did then,” said Elinor, a little softened, “believe yourself at
 
-one time attached to her?”
+one [[Time|time]] attached to her?”
 
 
 
@@ -90,15 +90,15 @@ so greatly embarrassed. I will not reason here—nor will I stop for
 
 _you_ to expatiate on the absurdity, and the worse than absurdity, of
 
-scrupling to engage my faith where my honour was already bound. The
+scrupling to engage my [[Faith|faith]] where my [[Honour|honour]] was already bound. The
 
-event has proved, that I was a cunning fool, providing with great
+event has proved, that I was a cunning [[Fool|fool]], providing with great
 
 circumspection for a possible opportunity of making myself contemptible
 
 and wretched for ever. At last, however, my resolution was taken, and I
 
-had determined, as soon as I could engage her alone, to justify the
+had determined, as soon as I could engage her [[Alone|alone]], to justify the
 
 attentions I had so invariably paid her, and openly assure her of an
 
@@ -112,7 +112,7 @@ circumstance occurred—an unlucky circumstance, to ruin all my
 
 resolution, and with it all my comfort. A discovery took place,”—here
 
-he hesitated and looked down. “Mrs. Smith had somehow or other been
+he hesitated and looked down. “Mrs. [[smith|Smith]] had somehow or other been
 
 informed, I imagine by some distant relation, whose interest it was to
 
@@ -130,7 +130,7 @@ probably heard the whole story long ago.”
 
 anew against any compassion for him, “I have heard it all. And how you
 
-will explain away any part of your guilt in that dreadful business, I
+will explain away any part of your [[Guilt|guilt]] in that dreadful business, I
 
 confess is beyond my comprehension.”
 
@@ -142,7 +142,7 @@ Could it be an impartial one? I acknowledge that her situation and her
 
 character ought to have been respected by me. I do not mean to justify
 
-myself, but at the same time cannot leave you to suppose that I have
+myself, but at the same [[Time|time]] cannot leave you to suppose that I have
 
 nothing to urge—that because she was injured she was irreproachable,
 
@@ -152,9 +152,9 @@ of her passions, the weakness of her understanding—I do not mean,
 
 however, to defend myself. Her affection for me deserved better
 
-treatment, and I often, with great self-reproach, recall the tenderness
+treatment, and I often, with great [[Self|self]]-reproach, recall the tenderness
 
-which, for a very short time, had the power of creating any return. I
+which, for a very short [[Time|time]], had the power of creating any return. I
 
 wish—I heartily wish it had never been. But I have injured more than
 
@@ -168,7 +168,7 @@ superior!”
 
 “Your indifference, however, towards that unfortunate girl—I must say
 
-it, unpleasant to me as the discussion of such a subject may well
+it, unpleasant to me as the discussion of such a subject may [[Well|well]]
 
 be—your indifference is no apology for your cruel neglect of her. Do
 
@@ -184,7 +184,7 @@ reduced to the extremest indigence.”
 
 
 
-“But, upon my soul, I did _not_ know it,” he warmly replied; “I did not
+“But, upon my [[Soul|soul]], I did _not_ know it,” he warmly replied; “I did not
 
 recollect that I had omitted to give her my direction; and common sense
 
@@ -192,7 +192,7 @@ might have told her how to find it out.”
 
 
 
-“Well, sir, and what said Mrs. Smith?”
+“[[Well]], sir, and what said Mrs. [[smith|Smith]]?”
 
 
 
@@ -204,12 +204,12 @@ ignorance of the world—every thing was against me. The matter itself I
 
 could not deny, and vain was every endeavour to soften it. She was
 
-previously disposed, I believe, to doubt the morality of my conduct in
+previously disposed, I believe, to [[Doubt|doubt]] the [[morality]] of my conduct in
 
 general, and was moreover discontented with the very little attention,
 
-the very little portion of my time that I had bestowed on her, in my
+the very little portion of my [[Time|time]] that I had bestowed on her, in my
 
 present visit. In short, it ended in a total breach. By one measure I
 
-might have saved myself. In the height of her morality, good woman! she
+might have saved myself. In the height of her [[morality]], good woman! she

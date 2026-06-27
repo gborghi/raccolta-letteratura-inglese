@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 20 (part 1)"
+title: "[[The Professor]] — Chapter 20 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -44,7 +44,7 @@ tenure.
 
 
 
-It is some time since I made any reference to M. Pelet. The moonlight
+It is some [[Time|time]] since I made any reference to M. Pelet. The moonlight
 
 walk is, I think, the last incident recorded in this narrative where
 
@@ -52,9 +52,9 @@ that gentleman cuts any conspicuous figure: the fact is, since that
 
 event, a change had come over the spirit of our intercourse. He, indeed,
 
-ignorant that the still hour, a cloudless moon, and an open lattice,
+ignorant that the still hour, a cloudless [[Moon|moon]], and an open lattice,
 
-had revealed to me the secret of his selfish love and false friendship,
+had revealed to me the secret of his selfish [[Love|love]] and false [[Friendship|friendship]],
 
 would have continued smooth and complaisant as ever; but I grew spiny as
 
@@ -70,7 +70,7 @@ directress (which he still continued) were heard with a grim calm very
 
 different from the petulant pleasure they were formerly wont to excite.
 
-For a long time Pelet bore with my frigid demeanour very patiently;
+For a long [[Time|time]] Pelet bore with my frigid demeanour very patiently;
 
 he even increased his attentions; but finding that even a cringing
 
@@ -88,9 +88,9 @@ I fancy, he succeeded, for he was not without penetration; perhaps, too,
 
 Mdlle. Zoraide might have aided him in the solution of the enigma; at
 
-any rate I soon found that the uncertainty of doubt had vanished from
+any rate I soon found that the uncertainty of [[Doubt|doubt]] had vanished from
 
-his manner; renouncing all pretence of friendship and cordiality, he
+his manner; renouncing all pretence of [[Friendship|friendship]] and cordiality, he
 
 adopted a reserved, formal, but still scrupulously polite deportment.
 
@@ -98,11 +98,11 @@ This was the point to which I had wished to bring him, and I was now
 
 again comparatively at my ease. I did not, it is true, like my position
 
-in his house; but being freed from the annoyance of false professions
+in his [[house]]; but being freed from the annoyance of false professions
 
-and double-dealing I could endure it, especially as no heroic sentiment
+and [[Double|double]]-dealing I could endure it, especially as no heroic sentiment
 
-of hatred or jealousy of the director distracted my philosophical soul;
+of hatred or [[Jealousy|jealousy]] of the director distracted my philosophical [[Soul|soul]];
 
 he had not, I found, wounded me in a very tender point, the wound was so
 
@@ -118,9 +118,9 @@ dark.
 
 This state of things continued till about the middle of July, and then
 
-there was a little change; Pelet came home one night, an hour after his
+there was a little change; Pelet came [[Home|home]] one [[Night|night]], an hour after his
 
-usual time, in a state of unequivocal intoxication, a thing anomalous
+usual [[Time|time]], in a state of unequivocal intoxication, a thing anomalous
 
 with him; for if he had some of the worst faults of his countrymen,
 
@@ -130,13 +130,13 @@ however, was he upon this occasion, that after having roused the whole
 
 establishment (except the pupils, whose dormitory being over the classes
 
-in a building apart from the dwelling-house, was consequently out of the
+in a building apart from the dwelling-[[house]], was consequently out of the
 
 reach of disturbance) by violently ringing the hall-bell and ordering
 
-lunch to be brought in immediately, for he imagined it was noon, whereas
+lunch to be brought in immediately, for he imagined it was [[Noon|noon]], whereas
 
-the city bells had just tolled midnight; after having furiously rated
+the [[City|city]] [[Bells|bells]] had just tolled midnight; after having furiously rated
 
 the servants for their want of punctuality, and gone near to chastise
 
@@ -154,17 +154,17 @@ became aware of a demand on his part for “Creemsvort” to be brought
 
 down to him that he might cut his throat on the hall-table and wash
 
-his honour, which he affirmed to be in a dirty condition, in infernal
+his [[Honour|honour]], which he affirmed to be in a dirty condition, in infernal
 
-British blood. “He is either mad or drunk,” thought I, “and in either
+British [[Blood|blood]]. “He is either mad or drunk,” thought I, “and in either
 
 case the old woman and the servants will be the better of a man’s
 
 assistance,” so I descended straight to the hall. I found him staggering
 
-about, his eyes in a fine frenzy rolling--a pretty sight he was, a just
+about, his eyes in a fine frenzy [[rolling]]--a pretty sight he was, a just
 
-medium between the fool and the lunatic.
+medium between the [[Fool|fool]] and the lunatic.
 
 
 
@@ -172,7 +172,7 @@ medium between the fool and the lunatic.
 
 his arm. His excitement, of course, increased greatly at sight and touch
 
-of the individual for whose blood he had been making application: he
+of the individual for whose [[Blood|blood]] he had been making application: he
 
 struggled and struck with fury--but a drunken man is no match for a
 
@@ -180,13 +180,13 @@ sober one; and, even in his normal state, Pelet’s worn out frame could
 
 not have stood against my sound one. I got him up-stairs, and, in
 
-process of time, to bed. During the operation he did not fail to
+process of [[Time|time]], to bed. During the operation he did not fail to
 
 utter comminations which, though broken, had a sense in them; while
 
 stigmatizing me as the treacherous spawn of a perfidious country, he,
 
-in the same breath, anathematized Zoraide Reuter; he termed her “femme
+in the same breath, anathematized [[Zoraide Reuter]]; he termed her “femme
 
 sotte et vicieuse,” who, in a fit of lewd caprice, had thrown herself
 

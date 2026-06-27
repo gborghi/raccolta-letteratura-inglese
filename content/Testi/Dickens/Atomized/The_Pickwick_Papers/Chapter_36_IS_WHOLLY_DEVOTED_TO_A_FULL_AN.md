@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE"
+title: "The [[Pickwick]] Papers — Chapter 34: IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -15,75 +15,75 @@ tags:
 
 
 CHAPTER XXXIV. IS WHOLLY DEVOTED TO A FULL AND FAITHFUL REPORT OF THE
-MEMORABLE TRIAL OF BARDELL AGAINST PICKWICK
+MEMORABLE TRIAL OF BARDELL AGAINST [[Pickwick|PICKWICK]]
 
-I wonder what the foreman of the jury, whoever he’ll be, has got for
+I [[Wonder|wonder]] what the foreman of the jury, whoever he’ll be, has got for
 breakfast,’ said Mr. Snodgrass, by way of keeping up a conversation on
 the eventful morning of the fourteenth of February.
 
-‘Ah!’ said Perker, ‘I hope he’s got a good one.’
+‘Ah!’ said Perker, ‘I [[Hope|hope]] he’s got a good one.’
 
-Why so?’ inquired Mr. Pickwick.
+Why so?’ inquired Mr. [[Pickwick]].
 
 ‘Highly important--very important, my dear Sir,’ replied Perker. ‘A
-good, contented, well-breakfasted juryman is a capital thing to get hold
+good, contented, [[Well|well]]-breakfasted juryman is a capital thing to get hold
 of. Discontented or hungry jurymen, my dear sir, always find for the
 plaintiff.’
 
-‘Bless my heart,’ said Mr. Pickwick, looking very blank, ‘what do they
+‘Bless my heart,’ said Mr. [[Pickwick]], looking very blank, ‘what do they
 do that for?’
 
-‘Why, I don’t know,’ replied the little man coolly; ‘saves time, I
-suppose. If it’s near dinner-time, the foreman takes out his watch when
+‘Why, I don’t know,’ replied the little man coolly; ‘saves [[Time|time]], I
+suppose. If it’s near dinner-[[Time|time]], the foreman takes out his watch when
 the jury has retired, and says, “Dear me, gentlemen, ten minutes to
 five, I declare! I dine at five, gentlemen.” “So do I,” says everybody
 else, except two men who ought to have dined at three and seem more than
 half disposed to stand out in consequence. The foreman smiles, and puts
-up his watch:--“Well, gentlemen, what do we say, plaintiff or defendant,
+up his watch:--“[[Well]], gentlemen, what do we say, plaintiff or defendant,
 gentlemen? I rather think, so far as I am concerned, gentlemen,--I say,
 I rather think--but don’t let that influence you--I _rather_ think the
 plaintiff’s the man.” Upon this, two or three other men are sure to say
 that they think so too--as of course they do; and then they get on very
 unanimously and comfortably. Ten minutes past nine!’ said the little
-man, looking at his watch. ‘Time we were off, my dear sir; breach of
-promise trial-court is generally full in such cases. You had better ring
+man, looking at his watch. ‘[[Time]] we were off, my dear sir; breach of
+promise trial-[[Court|court]] is generally full in such cases. You had better ring
 for a coach, my dear sir, or we shall be rather late.’
 
-Mr. Pickwick immediately rang the bell, and a coach having been
+Mr. [[Pickwick]] immediately rang the bell, and a coach having been
 procured, the four Pickwickians and Mr. Perker ensconced themselves
-therein, and drove to Guildhall; Sam Weller, Mr. Lowten, and the blue
+therein, and drove to Guildhall; [[Sam Weller]], Mr. Lowten, and the blue
 bag, following in a cab.
 
-‘Lowten,’ said Perker, when they reached the outer hall of the court,
-‘put Mr. Pickwick’s friends in the students’ box; Mr. Pickwick himself
+‘Lowten,’ said Perker, when they reached the outer hall of the [[Court|court]],
+‘put Mr. [[Pickwick]]’s friends in the students’ box; Mr. [[Pickwick]] himself
 had better sit by me. This way, my dear sir, this way.’ Taking Mr.
-Pickwick by the coat sleeve, the little man led him to the low seat just
-beneath the desks of the King’s Counsel, which is constructed for the
+[[Pickwick]] by the coat sleeve, the little man led him to the low seat just
+beneath the desks of the [[King]]’s Counsel, which is constructed for the
 convenience of attorneys, who from that spot can whisper into the ear of
 the leading counsel in the case, any instructions that may be necessary
 during the progress of the trial. The occupants of this seat are
-invisible to the great body of spectators, inasmuch as they sit on a
+invisible to the great [[Body|body]] of spectators, inasmuch as they sit on a
 much lower level than either the barristers or the audience, whose seats
 are raised above the floor. Of course they have their backs to both, and
 their faces towards the judge.
 
-‘That’s the witness-box, I suppose?’ said Mr. Pickwick, pointing to a
+‘That’s the witness-box, I suppose?’ said Mr. [[Pickwick]], pointing to a
 kind of pulpit, with a brass rail, on his left hand.
 
 ‘That’s the witness-box, my dear sir,’ replied Perker, disinterring a
 quantity of papers from the blue bag, which Lowten had just deposited at
 his feet.
 
-‘And that,’ said Mr. Pickwick, pointing to a couple of enclosed seats on
+‘And that,’ said Mr. [[Pickwick]], pointing to a couple of enclosed seats on
 his right, ‘that’s where the jurymen sit, is it not?’
 
 ‘The identical place, my dear Sir,’ replied Perker, tapping the lid of
 his snuff-box.
 
-Mr. Pickwick stood up in a state of great agitation, and took a glance
-at the court. There were already a pretty large sprinkling of spectators
+Mr. [[Pickwick]] stood up in a state of great agitation, and took a glance
+at the [[Court|court]]. There were already a pretty large sprinkling of spectators
 in the gallery, and a numerous muster of gentlemen in wigs, in the
-barristers’ seats, who presented, as a body, all that pleasing and
+barristers’ seats, who presented, as a [[Body|body]], all that pleasing and
 extensive variety of nose and whisker for which the Bar of England is so
 justly celebrated. Such of the gentlemen as had a brief to carry,
 carried it in as conspicuous a manner as possible, and occasionally
@@ -96,31 +96,31 @@ hands into their pockets, and looked as wise as they conveniently could;
 others, again, moved here and there with great restlessness and
 earnestness of manner, content to awaken thereby the admiration and
 astonishment of the uninitiated strangers. The whole, to the great
-wonderment of Mr. Pickwick, were divided into little groups, who were
+wonderment of Mr. [[Pickwick]], were divided into little groups, who were
 chatting and discussing the news of the day in the most unfeeling manner
 possible--just as if no trial at all were coming on.
 
 A bow from Mr. Phunky, as he entered, and took his seat behind the row
-appropriated to the King’s Counsel, attracted Mr. Pickwick’s attention;
+appropriated to the [[King]]’s Counsel, attracted Mr. [[Pickwick]]’s attention;
 and he had scarcely returned it, when Mr. Serjeant Snubbin appeared,
 followed by Mr. Mallard, who half hid the Serjeant behind a large
 crimson bag, which he placed on his table, and, after shaking hands with
 Perker, withdrew. Then there entered two or three more Serjeants; and
-among them, one with a fat body and a red face, who nodded in a friendly
+among them, one with a fat [[Body|body]] and a red face, who nodded in a friendly
 manner to Mr. Serjeant Snubbin, and said it was a fine morning.
 
 ‘Who’s that red-faced man, who said it was a fine morning, and nodded to
-our counsel?’ whispered Mr. Pickwick.
+our counsel?’ whispered Mr. [[Pickwick]].
 
 ‘Mr. Serjeant Buzfuz,’ replied Perker. ‘He’s opposed to us; he leads on
 the other side. That gentleman behind him is Mr. Skimpin, his junior.’
 
-Mr. Pickwick was on the point of inquiring, with great abhorrence of the
+Mr. [[Pickwick]] was on the point of inquiring, with great abhorrence of the
 man’s cold-blooded villainy, how Mr. Serjeant Buzfuz, who was counsel
 for the opposite party, dared to presume to tell Mr. Serjeant Snubbin,
 who was counsel for him, that it was a fine morning, when he was
 interrupted by a general rising of the barristers, and a loud cry of
-‘Silence!’ from the officers of the court. Looking round, he found that
+‘[[Silence]]!’ from the officers of the [[Court|court]]. Looking round, he found that
 this was caused by the entrance of the judge.
 
 Mr. Justice Stareleigh (who sat in the absence of the Chief Justice,
@@ -133,9 +133,9 @@ this, all you could see of him was two queer little eyes, one broad pink
 face, and somewhere about half of a big and very comical-looking wig.
 
 The judge had no sooner taken his seat, than the officer on the floor of
-the court called out ‘Silence!’ in a commanding tone, upon which another
-officer in the gallery cried ‘Silence!’ in an angry manner, whereupon
-three or four more ushers shouted ‘Silence!’ in a voice of indignant
+the [[Court|court]] called out ‘[[Silence]]!’ in a commanding tone, upon which another
+officer in the gallery cried ‘[[Silence]]!’ in an angry manner, whereupon
+three or four more ushers shouted ‘[[Silence]]!’ in a voice of indignant
 remonstrance. This being done, a gentleman in black, who sat below the
 judge, proceeded to call over the names of the jury; and after a great
 deal of bawling, it was discovered that only ten special jurymen were
@@ -144,7 +144,7 @@ in black then proceeded to press into the special jury, two of the
 common jurymen; and a greengrocer and a chemist were caught directly.
 
 ‘Answer to your names, gentlemen, that you may be sworn,’ said the
-gentleman in black. ‘Richard Upwitch.’
+gentleman in black. ‘[[Richard]] Upwitch.’
 
 ‘Here,’ said the greengrocer.
 
@@ -152,10 +152,10 @@ gentleman in black. ‘Richard Upwitch.’
 
 ‘Here,’ said the chemist.
 
-‘Take the book, gentlemen. You shall well and truly try--’
+‘Take the book, gentlemen. You shall [[Well|well]] and truly try--’
 
-‘I beg this court’s pardon,’ said the chemist, who was a tall, thin,
-yellow-visaged man, ‘but I hope this court will excuse my attendance.’
+‘I beg this [[Court|court]]’s pardon,’ said the chemist, who was a tall, thin,
+yellow-visaged man, ‘but I [[Hope|hope]] this [[Court|court]] will excuse my attendance.’
 
 ‘On what grounds, Sir?’ said Mr. Justice Stareleigh.
 
@@ -170,19 +170,19 @@ hire one.’
 reddening; for Mr. Justice Stareleigh’s temper bordered on the
 irritable, and brooked not contradiction.
 
-‘I know I _ought _to do, if I got on as well as I deserved; but I don’t,
+‘I know I _ought _to do, if I got on as [[Well|well]] as I deserved; but I don’t,
 my Lord,’ answered the chemist.
 
 ‘Swear the gentleman,’ said the judge peremptorily.
 
-The officer had got no further than the ‘You shall well and truly try,’
+The officer had got no further than the ‘You shall [[Well|well]] and truly try,’
 when he was again interrupted by the chemist.
 
 ‘I am to be sworn, my Lord, am I?’ said the chemist.
 
 ‘Certainly, sir,’ replied the testy little judge.
 
-‘Very well, my Lord,’ replied the chemist, in a resigned manner. ‘Then
+‘Very [[Well|well]], my Lord,’ replied the chemist, in a resigned manner. ‘Then
 there’ll be murder before this trial’s over; that’s all. Swear me, if
 you please, Sir;’ and sworn the chemist was, before the judge could find
 words to utter.
@@ -196,15 +196,15 @@ my Lord.’ With this, the tall chemist composed himself into a
 comfortable attitude, and, assuming a pleasant expression of
 countenance, appeared to have prepared himself for the worst.
 
-Mr. Pickwick was regarding the chemist with feelings of the deepest
-horror, when a slight sensation was perceptible in the body of the
-court; and immediately afterwards Mrs. Bardell, supported by Mrs.
+Mr. [[Pickwick]] was regarding the chemist with feelings of the deepest
+horror, when a slight sensation was perceptible in the [[Body|body]] of the
+[[Court|court]]; and immediately afterwards Mrs. Bardell, supported by Mrs.
 Cluppins, was led in, and placed, in a drooping state, at the other end
-of the seat on which Mr. Pickwick sat. An extra-sized umbrella was then
+of the seat on which Mr. [[Pickwick]] sat. An extra-sized umbrella was then
 handed in by Mr. Dodson, and a pair of pattens by Mr. Fogg, each of whom
-had prepared a most sympathising and melancholy face for the occasion.
+had prepared a most sympathising and [[Melancholy|melancholy]] face for the occasion.
 Mrs. Sanders then appeared, leading in Master Bardell. At sight of her
-child, Mrs. Bardell started; suddenly recollecting herself, she kissed
+[[Child|child]], Mrs. Bardell started; suddenly recollecting herself, she kissed
 him in a frantic manner; then relapsing into a state of hysterical
 imbecility, the good lady requested to be informed where she was. In
 reply to this, Mrs. Cluppins and Mrs. Sanders turned their heads away
@@ -214,23 +214,23 @@ white handkerchief, and gave an appealing look towards the jury, while
 the judge was visibly affected, and several of the beholders tried to
 cough down their emotion.
 
-‘Very good notion that indeed,’ whispered Perker to Mr. Pickwick.
+‘Very good notion that indeed,’ whispered Perker to Mr. [[Pickwick]].
 ‘Capital fellows those Dodson and Fogg; excellent ideas of effect, my
 dear Sir, excellent.’
 
 As Perker spoke, Mrs. Bardell began to recover by slow degrees, while
 Mrs. Cluppins, after a careful survey of Master Bardell’s buttons and
 the button-holes to which they severally belonged, placed him on the
-floor of the court in front of his mother--a commanding position in
+floor of the [[Court|court]] in front of his mother--a commanding position in
 which he could not fail to awaken the full commiseration and sympathy of
 both judge and jury. This was not done without considerable opposition,
-and many tears, on the part of the young gentleman himself, who had
+and many [[Tears|tears]], on the part of the young gentleman himself, who had
 certain inward misgivings that the placing him within the full glare of
 the judge’s eye was only a formal prelude to his being immediately
 ordered away for instant execution, or for transportation beyond the
 seas, during the whole term of his natural life, at the very least.
 
-‘Bardell and Pickwick,’ cried the gentleman in black, calling on the
+‘Bardell and [[Pickwick]],’ cried the gentleman in black, calling on the
 case, which stood first on the list.
 
 ‘I am for the plaintiff, my Lord,’ said Mr. Serjeant Buzfuz.
@@ -240,7 +240,7 @@ intimate that he was.
 
 ‘I appear for the defendant, my Lord,’ said Mr. Serjeant Snubbin.
 
-‘Anybody with you, Brother Snubbin?’ inquired the court.
+‘Anybody with you, Brother Snubbin?’ inquired the [[Court|court]].
 
 ‘Mr. Phunky, my Lord,’ replied Serjeant Snubbin.
 
@@ -259,14 +259,14 @@ in all reasonable probability, ever will.
 
 ‘Go on,’ said the judge.
 
-The ushers again called silence, and Mr. Skimpin proceeded to ‘open the
+The ushers again called [[Silence|silence]], and Mr. Skimpin proceeded to ‘open the
 case’; and the case appeared to have very little inside it when he had
 opened it, for he kept such particulars as he knew, completely to
 himself, and sat down, after a lapse of three minutes, leaving the jury
 in precisely the same advanced stage of wisdom as they were in before.
 
-Serjeant Buzfuz then rose with all the majesty and dignity which the
-grave nature of the proceedings demanded, and having whispered to
+Serjeant Buzfuz then [[Rose|rose]] with all the majesty and dignity which the
+[[Grave|grave]] [[Nature|nature]] of the proceedings demanded, and having whispered to
 Dodson, and conferred briefly with Fogg, pulled his gown over his
 shoulders, settled his wig, and addressed the jury.
 
@@ -277,7 +277,7 @@ a case with feelings of such deep emotion, or with such a heavy sense of
 the responsibility imposed upon him--a responsibility, he would say,
 which he could never have supported, were he not buoyed up and sustained
 by a conviction so strong, that it amounted to positive certainty that
-the cause of truth and justice, or, in other words, the cause of his
+the cause of [[Truth|truth]] and justice, or, in other words, the cause of his
 much-injured and most oppressed client, must prevail with the high-
 minded and intelligent dozen of men whom he now saw in that box before
 him.
@@ -288,10 +288,10 @@ must be. A visible effect was produced immediately, several jurymen
 beginning to take voluminous notes with the utmost eagerness.
 
 ‘You have heard from my learned friend, gentlemen,’ continued Serjeant
-Buzfuz, well knowing that, from the learned friend alluded to, the
+Buzfuz, [[Well|well]] knowing that, from the learned friend alluded to, the
 gentlemen of the jury had heard just nothing at all--‘you have heard
 from my learned friend, gentlemen, that this is an action for a breach
-of promise of marriage, in which the damages are laid at £1,500. But you
+of promise of [[Marriage|marriage]], in which the damages are laid at £1,500. But you
 have not heard from my learned friend, inasmuch as it did not come
 within my learned friend’s province to tell you, what are the facts and
 circumstances of the case. Those facts and circumstances, gentlemen, you
@@ -304,66 +304,66 @@ nodded admiration of the Serjeant, and indignant defiance of the
 defendant.
 
 ‘The plaintiff, gentlemen,’ continued Serjeant Buzfuz, in a soft and
-melancholy voice, ‘the plaintiff is a widow; yes, gentlemen, a widow.
+[[Melancholy|melancholy]] voice, ‘the plaintiff is a widow; yes, gentlemen, a widow.
 The late Mr. Bardell, after enjoying, for many years, the esteem and
 confidence of his sovereign, as one of the guardians of his royal
 revenues, glided almost imperceptibly from the world, to seek elsewhere
-for that repose and peace which a custom-house can never afford.’
+for that repose and peace which a custom-[[house]] can never afford.’
 
 At this pathetic description of the decease of Mr. Bardell, who had been
-knocked on the head with a quart-pot in a public-house cellar, the
+knocked on the head with a quart-pot in a public-[[house]] cellar, the
 learned serjeant’s voice faltered, and he proceeded, with emotion--
 
-‘Some time before his death, he had stamped his likeness upon a little
+‘Some [[Time|time]] before his [[Death|death]], he had stamped his likeness upon a little
 boy. With this little boy, the only pledge of her departed exciseman,
 Mrs. Bardell shrank from the world, and courted the retirement and
 tranquillity of Goswell Street; and here she placed in her front parlour
-window a written placard, bearing this inscription--“Apartments
+[[Window|window]] a written placard, bearing this [[Inscription|inscription]]--“Apartments
 furnished for a single gentleman. Inquire within.”’ Here Serjeant Buzfuz
 paused, while several gentlemen of the jury took a note of the document.
 
 ‘There is no date to that, is there?’ inquired a juror.
 
 ‘There is no date, gentlemen,’ replied Serjeant Buzfuz; ‘but I am
-instructed to say that it was put in the plaintiff’s parlour window just
-this time three years. I entreat the attention of the jury to the
+instructed to say that it was put in the plaintiff’s parlour [[Window|window]] just
+this [[Time|time]] three years. I entreat the attention of the jury to the
 wording of this document--“Apartments furnished for a single gentleman”!
 Mrs. Bardell’s opinions of the opposite sex, gentlemen, were derived
 from a long contemplation of the inestimable qualities of her lost
-husband. She had no fear, she had no distrust, she had no suspicion; all
+husband. She had no [[Fear|fear]], she had no distrust, she had no suspicion; all
 was confidence and reliance. “Mr. Bardell,” said the widow--“Mr. Bardell
-was a man of honour, Mr. Bardell was a man of his word, Mr. Bardell was
+was a man of [[Honour|honour]], Mr. Bardell was a man of his word, Mr. Bardell was
 no deceiver, Mr. Bardell was once a single gentleman himself; to single
 gentlemen I look for protection, for assistance, for comfort, and for
 consolation; in single gentlemen I shall perpetually see something to
 remind me of what Mr. Bardell was when he first won my young and untried
 affections; to a single gentleman, then, shall my lodgings be let.”
  Actuated by this beautiful and touching impulse (among the best impulses
-of our imperfect nature, gentlemen), the lonely and desolate widow dried
-her tears, furnished her first floor, caught her innocent boy to her
-maternal bosom, and put the bill up in her parlour window. Did it remain
+of our imperfect [[Nature|nature]], gentlemen), the lonely and desolate widow dried
+her [[Tears|tears]], furnished her first floor, caught her [[Innocent|innocent]] boy to her
+maternal bosom, and put the bill up in her parlour [[Window|window]]. Did it remain
 there long? No. The serpent was on the watch, the train was laid, the
 mine was preparing, the sapper and miner was at work. Before the bill
-had been in the parlour window three days--three days, gentlemen--a
+had been in the parlour [[Window|window]] three days--three days, gentlemen--a
 being, erect upon two legs, and bearing all the outward semblance of a
-man, and not of a monster, knocked at the door of Mrs. Bardell’s house.
+man, and not of a [[Monster|monster]], knocked at the door of Mrs. Bardell’s [[house]].
 He inquired within--he took the lodgings; and on the very next day he
-entered into possession of them. This man was Pickwick--Pickwick, the
+entered into possession of them. This man was [[Pickwick]]--[[Pickwick]], the
 defendant.’
 
 Serjeant Buzfuz, who had proceeded with such volubility that his face
-was perfectly crimson, here paused for breath. The silence awoke Mr.
+was perfectly crimson, here paused for breath. The [[Silence|silence]] awoke Mr.
 Justice Stareleigh, who immediately wrote down something with a pen
 without any ink in it, and looked unusually profound, to impress the
 jury with the belief that he always thought most deeply with his eyes
 shut. Serjeant Buzfuz proceeded--
 
-‘Of this man Pickwick I will say little; the subject presents but few
+‘Of this man [[Pickwick]] I will say little; the subject presents but few
 attractions; and I, gentlemen, am not the man, nor are you, gentlemen,
 the men, to delight in the contemplation of revolting heartlessness, and
 of systematic villainy.’
 
-Here Mr. Pickwick, who had been writhing in silence for some time, gave
+Here Mr. [[Pickwick]], who had been writhing in [[Silence|silence]] for some [[Time|time]], gave
 a violent start, as if some vague idea of assaulting Serjeant Buzfuz, in
 the august presence of justice and law, suggested itself to his mind. An
 admonitory gesture from Perker restrained him, and he listened to the
@@ -372,32 +372,32 @@ contrasted forcibly with the admiring faces of Mrs. Cluppins and Mrs.
 Sanders.
 
 ‘I say systematic villainy, gentlemen,’ said Serjeant Buzfuz, looking
-through Mr. Pickwick, and talking _at_ him; ‘and when I say systematic
-villainy, let me tell the defendant Pickwick, if he be in court, as I am
+through Mr. [[Pickwick]], and talking _at_ him; ‘and when I say systematic
+villainy, let me tell the defendant [[Pickwick]], if he be in [[Court|court]], as I am
 informed he is, that it would have been more decent in him, more
 becoming, in better judgment, and in better taste, if he had stopped
 away. Let me tell him, gentlemen, that any gestures of dissent or
-disapprobation in which he may indulge in this court will not go down
+disapprobation in which he may indulge in this [[Court|court]] will not go down
 with you; that you will know how to value and how to appreciate them;
 and let me tell him further, as my Lord will tell you, gentlemen, that a
 counsel, in the discharge of his duty to his client, is neither to be
 intimidated nor bullied, nor put down; and that any attempt to do either
 the one or the other, or the first, or the last, will recoil on the head
 of the attempter, be he plaintiff or be he defendant, be his name
-Pickwick, or Noakes, or Stoakes, or Stiles, or Brown, or Thompson.’
+[[Pickwick]], or Noakes, or Stoakes, or Stiles, or Brown, or Thompson.’
 
 
 This little divergence from the subject in hand, had, of course, the
-intended effect of turning all eyes to Mr. Pickwick. Serjeant Buzfuz,
+intended effect of turning all eyes to Mr. [[Pickwick]]. Serjeant Buzfuz,
 having partially recovered from the state of moral elevation into which
 he had lashed himself, resumed--
 
-‘I shall show you, gentlemen, that for two years, Pickwick continued to
+‘I shall show you, gentlemen, that for two years, [[Pickwick]] continued to
 reside constantly, and without interruption or intermission, at Mrs.
-Bardell’s house. I shall show you that Mrs. Bardell, during the whole of
-that time, waited on him, attended to his comforts, cooked his meals,
+Bardell’s [[house]]. I shall show you that Mrs. Bardell, during the whole of
+that [[Time|time]], waited on him, attended to his comforts, cooked his meals,
 looked out his linen for the washerwoman when it went abroad, darned,
-aired, and prepared it for wear, when it came home, and, in short,
+aired, and prepared it for wear, when it came [[Home|home]], and, in short,
 enjoyed his fullest trust and confidence. I shall show you that, on many
 occasions, he gave halfpence, and on some occasions even sixpences, to
 her little boy; and I shall prove to you, by a witness whose testimony
@@ -407,14 +407,14 @@ whether he had won any “_alley tors_” or “_commoneys_” lately (both of
 which I understand to be a particular species of marbles much prized by
 the youth of this town), made use of this remarkable expression, “How
 should you like to have another father?” I shall prove to you,
-gentlemen, that about a year ago, Pickwick suddenly began to absent
-himself from home, during long intervals, as if with the intention of
+gentlemen, that about a year ago, [[Pickwick]] suddenly began to absent
+himself from [[Home|home]], during long intervals, as if with the intention of
 gradually breaking off from my client; but I shall show you also, that
-his resolution was not at that time sufficiently strong, or that his
+his resolution was not at that [[Time|time]] sufficiently strong, or that his
 better feelings conquered, if better feelings he has, or that the charms
 and accomplishments of my client prevailed against his unmanly
 intentions, by proving to you, that on one occasion, when he returned
-from the country, he distinctly and in terms, offered her marriage:
+from the country, he distinctly and in terms, offered her [[Marriage|marriage]]:
 previously, however, taking special care that there would be no witness
 to their solemn contract; and I am in a situation to prove to you, on
 the testimony of three of his own friends--most unwilling witnesses,
@@ -434,30 +434,30 @@ epistles, breathing nothing but the language of affectionate attachment.
 They are covert, sly, underhanded communications, but, fortunately, far
 more conclusive than if couched in the most glowing language and the
 most poetic imagery--letters that must be viewed with a cautious and
-suspicious eye--letters that were evidently intended at the time, by
-Pickwick, to mislead and delude any third parties into whose hands they
-might fall. Let me read the first: “Garraways, twelve o’clock. Dear Mrs.
+suspicious eye--letters that were evidently intended at the [[Time|time]], by
+[[Pickwick]], to mislead and delude any third parties into whose hands they
+might fall. Let me read the first: “Garraways, twelve o’[[Clock|clock]]. Dear Mrs.
 B.--Chops and tomato sauce. Yours, _Pickwick_.” Gentlemen, what does
-this mean? Chops and tomato sauce. Yours, Pickwick! Chops! Gracious
+this mean? Chops and tomato sauce. Yours, [[Pickwick]]! Chops! Gracious
 heavens! and tomato sauce! Gentlemen, is the happiness of a sensitive
 and confiding female to be trifled away, by such shallow artifices as
 these? The next has no date whatever, which is in itself suspicious.
-“Dear Mrs. B., I shall not be at home till to-morrow. Slow coach.” And
+“Dear Mrs. B., I shall not be at [[Home|home]] till to-morrow. Slow coach.” And
 then follows this very remarkable expression. “Don’t trouble yourself
 about the warming-pan.” The warming-pan! Why, gentlemen, who _does
 _trouble himself about a warming-pan? When was the peace of mind of man
 or woman broken or disturbed by a warming-pan, which is in itself a
 harmless, a useful, and I will add, gentlemen, a comforting article of
 domestic furniture? Why is Mrs. Bardell so earnestly entreated not to
-agitate herself about this warming-pan, unless (as is no doubt the case)
-it is a mere cover for hidden fire--a mere substitute for some endearing
+agitate herself about this warming-pan, unless (as is no [[Doubt|doubt]] the case)
+it is a mere cover for hidden [[Fire|fire]]--a mere substitute for some endearing
 word or promise, agreeably to a preconcerted system of correspondence,
-artfully contrived by Pickwick with a view to his contemplated
+artfully contrived by [[Pickwick]] with a view to his contemplated
 desertion, and which I am not in a condition to explain? And what does
 this allusion to the slow coach mean? For aught I know, it may be a
-reference to Pickwick himself, who has most unquestionably been a
+reference to [[Pickwick]] himself, who has most unquestionably been a
 criminally slow coach during the whole of this transaction, but whose
-speed will now be very unexpectedly accelerated, and whose wheels,
+[[Speed|speed]] will now be very unexpectedly accelerated, and whose wheels,
 gentlemen, as he will find to his cost, will very soon be greased by
 you!’
 
@@ -474,15 +474,15 @@ deepest sympathies are awakened. My client’s hopes and prospects are
 ruined, and it is no figure of speech to say that her occupation is gone
 indeed. The bill is down--but there is no tenant. Eligible single
 gentlemen pass and repass--but there is no invitation for to inquire
-within or without. All is gloom and silence in the house; even the voice
-of the child is hushed; his infant sports are disregarded when his
+within or without. All is gloom and [[Silence|silence]] in the [[house]]; even the voice
+of the [[Child|child]] is hushed; his infant sports are disregarded when his
 mother weeps; his “alley tors” and his “commoneys” are alike neglected;
-he forgets the long familiar cry of “knuckle down,” and at tip-cheese,
-or odd and even, his hand is out. But Pickwick, gentlemen, Pickwick, the
-ruthless destroyer of this domestic oasis in the desert of Goswell
-Street--Pickwick who has choked up the well, and thrown ashes on the
-sward--Pickwick, who comes before you to-day with his heartless tomato
-sauce and warming-pans--Pickwick still rears his head with unblushing
+he forgets the long familiar cry of “knuckle down,” and at tip-[[cheese]],
+or odd and even, his hand is out. But [[Pickwick]], gentlemen, [[Pickwick]], the
+ruthless destroyer of this domestic oasis in the [[Desert|desert]] of Goswell
+Street--[[Pickwick]] who has choked up the [[Well|well]], and thrown ashes on the
+sward--[[Pickwick]], who comes before you to-day with his heartless tomato
+sauce and warming-pans--[[Pickwick]] still rears his head with unblushing
 effrontery, and gazes without a sigh on the ruin he has made. Damages,
 gentlemen--heavy damages is the only punishment with which you can visit
 him; the only recompense you can award to my client. And for those
@@ -497,18 +497,18 @@ afterwards, with renewed vigour.
 
 The nearest usher called for Elizabeth Tuppins; another one, at a little
 distance off, demanded Elizabeth Jupkins; and a third rushed in a
-breathless state into King Street, and screamed for Elizabeth Muffins
+breathless state into [[King]] Street, and screamed for Elizabeth Muffins
 till he was hoarse.
 
 Meanwhile Mrs. Cluppins, with the combined assistance of Mrs. Bardell,
 Mrs. Sanders, Mr. Dodson, and Mr. Fogg, was hoisted into the witness-
 box; and when she was safely perched on the top step, Mrs. Bardell stood
-on the bottom one, with the pocket-handkerchief and pattens in one hand,
+on the [[Bottom|bottom]] one, with the pocket-handkerchief and pattens in one hand,
 and a glass bottle that might hold about a quarter of a pint of
 smelling-salts in the other, ready for any emergency. Mrs. Sanders,
 whose eyes were intently fixed on the judge’s face, planted herself
 close by, with the large umbrella, keeping her right thumb pressed on
-the spring with an earnest countenance, as if she were fully prepared to
+the [[Spring|spring]] with an earnest countenance, as if she were fully prepared to
 put it up at a moment’s notice.
 
 ‘Mrs. Cluppins,’ said Serjeant Buzfuz, ‘pray compose yourself, ma’am.’
@@ -520,11 +520,11 @@ feelings being too many for her.
 ‘Do you recollect, Mrs. Cluppins,’ said Serjeant Buzfuz, after a few
 unimportant questions--‘do you recollect being in Mrs. Bardell’s back
 one pair of stairs, on one particular morning in July last, when she was
-dusting Pickwick’s apartment?’
+dusting [[Pickwick]]’s apartment?’
 
 ‘Yes, my Lord and jury, I do,’ replied Mrs. Cluppins.
 
-‘Mr. Pickwick’s sitting-room was the first-floor front, I believe?’
+‘Mr. [[Pickwick]]’s sitting-room was the first-floor front, I believe?’
 
 ‘Yes, it were, Sir,’ replied Mrs. Cluppins.
 
@@ -561,32 +561,32 @@ was the sound of voices in the front room, and--’
 ‘I would scorn the haction. The voices was very loud, Sir, and forced
 themselves upon my ear.’
 
-‘Well, Mrs. Cluppins, you were not listening, but you heard the voices.
-Was one of those voices Pickwick’s?’
+‘[[Well]], Mrs. Cluppins, you were not listening, but you heard the voices.
+Was one of those voices [[Pickwick]]’s?’
 
 ‘Yes, it were, Sir.’ And Mrs. Cluppins, after distinctly stating that
-Mr. Pickwick addressed himself to Mrs. Bardell, repeated by slow
+Mr. [[Pickwick]] addressed himself to Mrs. Bardell, repeated by slow
 degrees, and by dint of many questions, the conversation with which our
 readers are already acquainted.
 
 The jury looked suspicious, and Mr. Serjeant Buzfuz smiled as he sat
 down. They looked positively awful when Serjeant Snubbin intimated that
-he should not cross-examine the witness, for Mr. Pickwick wished it to
+he should not [[Cross|cross]]-examine the witness, for Mr. [[Pickwick]] wished it to
 be distinctly stated that it was due to her to say, that her account was
 in substance correct.
 
 Mrs. Cluppins having once broken the ice, thought it a favourable
 opportunity for entering into a short dissertation on her own domestic
-affairs; so she straightway proceeded to inform the court that she was
+affairs; so she straightway proceeded to inform the [[Court|court]] that she was
 the mother of eight children at that present speaking, and that she
 entertained confident expectations of presenting Mr. Cluppins with a
 ninth, somewhere about that day six months. At this interesting point,
 the little judge interposed most irascibly; and the effect of the
 interposition was, that both the worthy lady and Mrs. Sanders were
-politely taken out of court, under the escort of Mr. Jackson, without
+politely taken out of [[Court|court]], under the escort of Mr. Jackson, without
 further parley.
 
-‘Nathaniel Winkle!’ said Mr. Skimpin.
+‘[[Nathaniel Winkle]]!’ said Mr. Skimpin.
 
 ‘Here!’ replied a feeble voice. Mr. Winkle entered the witness-box, and
 having been duly sworn, bowed to the judge with considerable deference.
@@ -633,7 +633,7 @@ have got Daniel on my notes, unless you told me so, Sir?’
 
 This argument was, of course, unanswerable.
 
-‘Mr. Winkle has rather a short memory, my Lord,’ interposed Mr. Skimpin,
+‘Mr. Winkle has rather a short [[Memory|memory]], my Lord,’ interposed Mr. Skimpin,
 with another glance at the jury. ‘We shall find means to refresh it
 before we have quite done with him, I dare say.’
 
@@ -647,9 +647,9 @@ disconcerted pickpocket.
 ‘Now, Mr. Winkle,’ said Mr. Skimpin, ‘attend to me, if you please, Sir;
 and let me recommend you, for your own sake, to bear in mind his
 Lordship’s injunctions to be careful. I believe you are a particular
-friend of Mr. Pickwick, the defendant, are you not?’
+friend of Mr. [[Pickwick]], the defendant, are you not?’
 
-‘I have known Mr. Pickwick now, as well as I recollect at this moment,
+‘I have known Mr. [[Pickwick]] now, as [[Well|well]] as I recollect at this moment,
 nearly--’
 
 ‘Pray, Mr. Winkle, do not evade the question. Are you, or are you not, a
@@ -675,7 +675,7 @@ know the plaintiff too? Eh, Mr. Winkle?’
 tell the gentlemen of the jury what you mean by that, Mr. Winkle.’
 
 ‘I mean that I am not intimate with her, but I have seen her when I went
-to call on Mr. Pickwick, in Goswell Street.’
+to call on Mr. [[Pickwick]], in Goswell Street.’
 
 ‘How often have you seen her, Sir?’
 
@@ -698,8 +698,8 @@ being, that he had better take care of himself, and mind what he was
 about. The witness having been by these means reduced to the requisite
 ebb of nervous perplexity, the examination was continued as follows--
 
-‘Pray, Mr. Winkle, do you remember calling on the defendant Pickwick at
-these apartments in the plaintiff’s house in Goswell Street, on one
+‘Pray, Mr. Winkle, do you remember calling on the defendant [[Pickwick]] at
+these apartments in the plaintiff’s [[house]] in Goswell Street, on one
 particular morning, in the month of July last?’
 
 ‘Yes, I do.’
@@ -722,7 +722,7 @@ the jury what you saw on entering the defendant’s room, on this
 particular morning. Come; out with it, Sir; we must have it, sooner or
 later.’
 
-‘The defendant, Mr. Pickwick, was holding the plaintiff in his arms,
+‘The defendant, Mr. [[Pickwick]], was holding the plaintiff in his arms,
 with his hands clasping her waist,’ replied Mr. Winkle with natural
 hesitation, ‘and the plaintiff appeared to have fainted away.’
 
@@ -734,7 +734,7 @@ or words to that effect.’
 
 ‘Now, Mr. Winkle, I have only one more question to ask you, and I beg
 you to bear in mind his Lordship’s caution. Will you undertake to swear
-that Pickwick, the defendant, did not say on the occasion in question--
+that [[Pickwick]], the defendant, did not say on the occasion in question--
 “My dear Mrs. Bardell, you’re a good creature; compose yourself to this
 situation, for to this situation you must come,” or words to that
 effect?’
@@ -745,29 +745,29 @@ the staircase, and couldn’t hear distinctly; the impression on my mind
 is--’
 
 ‘The gentlemen of the jury want none of the impressions on your mind,
-Mr. Winkle, which I fear would be of little service to honest,
+Mr. Winkle, which I [[Fear|fear]] would be of little service to honest,
 straightforward men,’ interposed Mr. Skimpin. ‘You were on the
 staircase, and didn’t distinctly hear; but you will not swear that
-Pickwick did not make use of the expressions I have quoted? Do I
+[[Pickwick]] did not make use of the expressions I have quoted? Do I
 understand that?’
 
 ‘No, I will not,’ replied Mr. Winkle; and down sat Mr. Skimpin with a
 triumphant countenance.
 
-Mr. Pickwick’s case had not gone off in so particularly happy a manner,
-up to this point, that it could very well afford to have any additional
+Mr. [[Pickwick]]’s case had not gone off in so particularly happy a manner,
+up to this point, that it could very [[Well|well]] afford to have any additional
 suspicion cast upon it. But as it could afford to be placed in a rather
-better light, if possible, Mr. Phunky rose for the purpose of getting
-something important out of Mr. Winkle in cross-examination. Whether he
+better light, if possible, Mr. Phunky [[Rose|rose]] for the purpose of getting
+something important out of Mr. Winkle in [[Cross|cross]]-examination. Whether he
 did get anything important out of him, will immediately appear.
 
-‘I believe, Mr. Winkle,’ said Mr. Phunky, ‘that Mr. Pickwick is not a
+‘I believe, Mr. Winkle,’ said Mr. Phunky, ‘that Mr. [[Pickwick]] is not a
 young man?’
 
 ‘Oh, no,’ replied Mr. Winkle; ‘old enough to be my father.’
 
-‘You have told my learned friend that you have known Mr. Pickwick a long
-time. Had you ever any reason to suppose or believe that he was about to
+‘You have told my learned friend that you have known Mr. [[Pickwick]] a long
+[[Time|time]]. Had you ever any reason to suppose or believe that he was about to
 be married?’
 
 ‘Oh, no; certainly not;’ replied Mr. Winkle with so much eagerness, that
@@ -778,7 +778,7 @@ Winkle’s fate to figure in both characters.
 
 ‘I will even go further than this, Mr. Winkle,’ continued Mr. Phunky, in
 a most smooth and complacent manner. ‘Did you ever see anything in Mr.
-Pickwick’s manner and conduct towards the opposite sex, to induce you to
+[[Pickwick]]’s manner and conduct towards the opposite sex, to induce you to
 believe that he ever contemplated matrimony of late years, in any case?’
 
 ‘Oh, no; certainly not,’ replied Mr. Winkle.
@@ -788,7 +788,7 @@ of a man, who, having attained a pretty advanced period of life, content
 with his own occupations and amusements, treats them only as a father
 might his daughters?’
 
-‘Not the least doubt of it,’ replied Mr. Winkle, in the fulness of his
+‘Not the least [[Doubt|doubt]] of it,’ replied Mr. Winkle, in the fulness of his
 heart. ‘That is--yes--oh, yes--certainly.’
 
 ‘You have never known anything in his behaviour towards Mrs. Bardell, or
@@ -796,12 +796,12 @@ any other female, in the least degree suspicious?’ said Mr. Phunky,
 preparing to sit down; for Serjeant Snubbin was winking at him.
 
 ‘N-n-no,’ replied Mr. Winkle, ‘except on one trifling occasion, which, I
-have no doubt, might be easily explained.’
+have no [[Doubt|doubt]], might be easily explained.’
 
 Now, if the unfortunate Mr. Phunky had sat down when Serjeant Snubbin
 had winked at him, or if Serjeant Buzfuz had stopped this irregular
-cross-examination at the outset (which he knew better than to do;
-observing Mr. Winkle’s anxiety, and well knowing it would, in all
+[[Cross|cross]]-examination at the outset (which he knew better than to do;
+observing Mr. Winkle’s anxiety, and [[Well|well]] knowing it would, in all
 probability, lead to something serviceable to him), this unfortunate
 admission would not have been elicited. The moment the words fell from
 Mr. Winkle’s lips, Mr. Phunky sat down, and Serjeant Snubbin rather
@@ -821,10 +821,10 @@ to which you refer.’
 
 ‘Perhaps so,’ said the little judge; ‘but you must.’
 
-Amid the profound silence of the whole court, Mr. Winkle faltered out,
-that the trifling circumstance of suspicion was Mr. Pickwick’s being
+Amid the profound [[Silence|silence]] of the whole [[Court|court]], Mr. Winkle faltered out,
+that the trifling circumstance of suspicion was Mr. [[Pickwick]]’s being
 found in a lady’s sleeping-apartment at midnight; which had terminated,
-he believed, in the breaking off of the projected marriage of the lady
+he believed, in the breaking off of the projected [[Marriage|marriage]] of the lady
 in question, and had led, he knew, to the whole party being forcibly
 carried before George Nupkins, Esq., magistrate and justice of the
 peace, for the borough of Ipswich!
@@ -835,38 +835,38 @@ Vulture, where he was discovered some hours after, by the waiter,
 groaning in a hollow and dismal manner, with his head buried beneath the
 sofa cushions.
 
-Tracy Tupman, and Augustus Snodgrass, were severally called into the
+[[Tracy Tupman]], and [[Augustus Snodgrass]], were severally called into the
 box; both corroborated the testimony of their unhappy friend; and each
 was driven to the verge of desperation by excessive badgering.
 
 Susannah Sanders was then called, and examined by Serjeant Buzfuz, and
-cross-examined by Serjeant Snubbin. Had always said and believed that
-Pickwick would marry Mrs. Bardell; knew that Mrs. Bardell’s being
-engaged to Pickwick was the current topic of conversation in the
+[[Cross|cross]]-examined by Serjeant Snubbin. Had always said and believed that
+[[Pickwick]] would marry Mrs. Bardell; knew that Mrs. Bardell’s being
+engaged to [[Pickwick]] was the current topic of conversation in the
 neighbourhood, after the fainting in July; had been told it herself by
 Mrs. Mudberry which kept a mangle, and Mrs. Bunkin which clear-starched,
-but did not see either Mrs. Mudberry or Mrs. Bunkin in court. Had heard
-Pickwick ask the little boy how he should like to have another father.
-Did not know that Mrs. Bardell was at that time keeping company with the
+but did not see either Mrs. Mudberry or Mrs. Bunkin in [[Court|court]]. Had heard
+[[Pickwick]] ask the little boy how he should like to have another father.
+Did not know that Mrs. Bardell was at that [[Time|time]] keeping company with the
 baker, but did know that the baker was then a single man and is now
 married. Couldn’t swear that Mrs. Bardell was not very fond of the
 baker, but should think that the baker was not very fond of Mrs.
 Bardell, or he wouldn’t have married somebody else. Thought Mrs. Bardell
-fainted away on the morning in July, because Pickwick asked her to name
+fainted away on the morning in July, because [[Pickwick]] asked her to name
 the day: knew that she (witness) fainted away stone dead when Mr.
 Sanders asked her to name the day, and believed that everybody as called
 herself a lady would do the same, under similar circumstances. Heard
-Pickwick ask the boy the question about the marbles, but upon her oath
+[[Pickwick]] ask the boy the question about the marbles, but upon her oath
 did not know the difference between an ‘alley tor’ and a ‘commoney.’
 
 By the _court_.--During the period of her keeping company with Mr.
-Sanders, had received love letters, like other ladies. In the course of
+Sanders, had received [[Love|love]] letters, like other ladies. In the course of
 their correspondence Mr. Sanders had often called her a ‘duck,’ but
 never ‘chops,’ nor yet ‘tomato sauce.’ He was particularly fond of
 ducks. Perhaps if he had been as fond of chops and tomato sauce, he
 might have called her that, as a term of affection.
 
-Serjeant Buzfuz now rose with more importance than he had yet exhibited,
+Serjeant Buzfuz now [[Rose|rose]] with more importance than he had yet exhibited,
 if that were possible, and vociferated; ‘Call Samuel Weller.’
 
 It was quite unnecessary to call Samuel Weller; for Samuel Weller
@@ -877,7 +877,7 @@ remarkably cheerful and lively aspect.
 
 ‘What’s your name, sir?’ inquired the judge.
 
-‘Sam Weller, my Lord,’ replied that gentleman.
+‘[[Sam Weller]], my Lord,’ replied that gentleman.
 
 ‘Do you spell it with a “V” or a “W”?’ inquired the judge.
 
@@ -888,7 +888,7 @@ life, but I spells it with a “V.”’
 Here a voice in the gallery exclaimed aloud, ‘Quite right too, Samivel,
 quite right. Put it down a “we,” my Lord, put it down a “we.”’
 
-Who is that, who dares address the court?’ said the little judge,
+Who is that, who dares address the [[Court|court]]?’ said the little judge,
 looking up. ‘Usher.’
 
 ‘Yes, my Lord.’
@@ -909,7 +909,7 @@ as his indignation would allow him to speak, and said--
 ‘Do you see him here now?’ said the judge.
 
 ‘No, I don’t, my Lord,’ replied Sam, staring right up into the lantern
-at the roof of the court.
+at the roof of the [[Court|court]].
 
 ‘If you could have pointed him out, I would have committed him
 instantly,’ said the judge. Sam bowed his acknowledgments and turned,
@@ -919,7 +919,7 @@ with unimpaired cheerfulness of countenance, towards Serjeant Buzfuz.
 
 ‘Now, sir,’ replied Sam.
 
-‘I believe you are in the service of Mr. Pickwick, the defendant in this
+‘I believe you are in the service of Mr. [[Pickwick]], the defendant in this
 case? Speak up, if you please, Mr. Weller.’
 
 ‘I mean to speak up, Sir,’ replied Sam; ‘I am in the service o’ that
@@ -952,7 +952,7 @@ Hereupon there was a general laugh; and the little judge, looking with
 an angry countenance over his desk, said, ‘You had better be careful,
 Sir.’
 
-‘So Mr. Pickwick said at the time, my Lord,’ replied Sam; ‘and I was
+‘So Mr. [[Pickwick]] said at the [[Time|time]], my Lord,’ replied Sam; ‘and I was
 wery careful o’ that ‘ere suit o’ clothes; wery careful indeed, my
 Lord.’
 
@@ -976,7 +976,7 @@ show of taking down his answer. ‘You were in the passage, and yet saw
 nothing of what was going forward. Have you a pair of eyes, Mr. Weller?’
 
 ‘Yes, I have a pair of eyes,’ replied Sam, ‘and that’s just it. If they
-wos a pair o’ patent double million magnifyin’ gas microscopes of hextra
+wos a pair o’ patent [[Double|double]] million magnifyin’ gas microscopes of hextra
 power, p’raps I might be able to see through a flight o’ stairs and a
 deal door; but bein’ only eyes, you see, my wision ‘s limited.’
 
@@ -988,12 +988,12 @@ Dodson & Fogg, the learned Serjeant again turned towards Sam, and said,
 with a painful effort to conceal his vexation, ‘Now, Mr. Weller, I’ll
 ask you a question on another point, if you please.’
 
-‘If you please, Sir,’ rejoined Sam, with the utmost good-humour.
+‘If you please, Sir,’ rejoined Sam, with the utmost good-[[Humour|humour]].
 
-‘Do you remember going up to Mrs. Bardell’s house, one night in November
+‘Do you remember going up to Mrs. Bardell’s [[house]], one [[Night|night]] in November
 last?’
 
-Oh, yes, wery well.’
+Oh, yes, wery [[Well|well]].’
 
 ‘Oh, you do remember that, Mr. Weller,’ said Serjeant Buzfuz, recovering
 his spirits; ‘I thought we should get at something at last.’
@@ -1001,7 +1001,7 @@ his spirits; ‘I thought we should get at something at last.’
 ‘I rayther thought that, too, sir,’ replied Sam; and at this the
 spectators tittered again.
 
-‘Well; I suppose you went up to have a little talk about this trial--eh,
+‘[[Well]]; I suppose you went up to have a little talk about this trial--eh,
 Mr. Weller?’ said Serjeant Buzfuz, looking knowingly at the jury.
 
 ‘I went up to pay the rent; but we did get a-talkin’ about the trial,’
@@ -1019,13 +1019,13 @@ admiration at the honourable conduct of Mr. Dodson and Fogg--them two
 gen’l’men as is settin’ near you now.’ This, of course, drew general
 attention to Dodson & Fogg, who looked as virtuous as possible.
 
-‘The attorneys for the plaintiff,’ said Mr. Serjeant Buzfuz. ‘Well! They
+‘The attorneys for the plaintiff,’ said Mr. Serjeant Buzfuz. ‘[[Well]]! They
 spoke in high praise of the honourable conduct of Messrs. Dodson and
 Fogg, the attorneys for the plaintiff, did they?’
 
 ‘Yes,’ said Sam, ‘they said what a wery gen’rous thing it was o’ them to
 have taken up the case on spec, and to charge nothing at all for costs,
-unless they got ‘em out of Mr. Pickwick.’
+unless they got ‘em out of Mr. [[Pickwick]].’
 
 At this very unexpected reply, the spectators tittered again, and Dodson
 & Fogg, turning very red, leaned over to Serjeant Buzfuz, and in a
@@ -1034,7 +1034,7 @@ hurried manner whispered something in his ear.
 ‘You are quite right,’ said Serjeant Buzfuz aloud, with affected
 composure. ‘It’s perfectly useless, my Lord, attempting to get at any
 evidence through the impenetrable stupidity of this witness. I will not
-trouble the court by asking him any more questions. Stand down, sir.’
+trouble the [[Court|court]] by asking him any more questions. Stand down, sir.’
 
 ‘Would any other gen’l’man like to ask me anythin’?’ inquired Sam,
 taking up his hat, and looking round most deliberately.
@@ -1044,28 +1044,28 @@ taking up his hat, and looking round most deliberately.
 ‘You may go down, sir,’ said Serjeant Buzfuz, waving his hand
 impatiently. Sam went down accordingly, after doing Messrs. Dodson &
 Fogg’s case as much harm as he conveniently could, and saying just as
-little respecting Mr. Pickwick as might be, which was precisely the
+little respecting Mr. [[Pickwick]] as might be, which was precisely the
 object he had had in view all along.
 
 ‘I have no objection to admit, my Lord,’ said Serjeant Snubbin, ‘if it
-will save the examination of another witness, that Mr. Pickwick has
+will save the examination of another witness, that Mr. [[Pickwick]] has
 retired from business, and is a gentleman of considerable independent
 property.’
 
-‘Very well,’ said Serjeant Buzfuz, putting in the two letters to be
+‘Very [[Well|well]],’ said Serjeant Buzfuz, putting in the two letters to be
 read, ‘then that’s my case, my Lord.’
 
 Serjeant Snubbin then addressed the jury on behalf of the defendant; and
 a very long and a very emphatic address he delivered, in which he
 bestowed the highest possible eulogiums on the conduct and character of
-Mr. Pickwick; but inasmuch as our readers are far better able to form a
+Mr. [[Pickwick]]; but inasmuch as our readers are far better able to form a
 correct estimate of that gentleman’s merits and deserts, than Serjeant
 Snubbin could possibly be, we do not feel called upon to enter at any
 length into the learned gentleman’s observations. He attempted to show
 that the letters which had been exhibited, merely related to Mr.
-Pickwick’s dinner, or to the preparations for receiving him in his
+[[Pickwick]]’s dinner, or to the preparations for receiving him in his
 apartments on his return from some country excursion. It is sufficient
-to add in general terms, that he did the best he could for Mr. Pickwick;
+to add in general terms, that he did the best he could for Mr. [[Pickwick]];
 and the best, as everybody knows, on the infallible authority of the old
 adage, could do no more.
 
@@ -1073,19 +1073,19 @@ Mr. Justice Stareleigh summed up, in the old-established and most
 approved form. He read as much of his notes to the jury as he could
 decipher on so short a notice, and made running-comments on the evidence
 as he went along. If Mrs. Bardell were right, it was perfectly clear
-that Mr. Pickwick was wrong, and if they thought the evidence of Mrs.
+that Mr. [[Pickwick]] was wrong, and if they thought the evidence of Mrs.
 Cluppins worthy of credence they would believe it, and, if they didn’t,
 why, they wouldn’t. If they were satisfied that a breach of promise of
-marriage had been committed they would find for the plaintiff with such
+[[Marriage|marriage]] had been committed they would find for the plaintiff with such
 damages as they thought proper; and if, on the other hand, it appeared
-to them that no promise of marriage had ever been given, they would find
+to them that no promise of [[Marriage|marriage]] had ever been given, they would find
 for the defendant with no damages at all. The jury then retired to their
 private room to talk the matter over, and the judge retired to _his
 _private room, to refresh himself with a mutton chop and a glass of
 sherry.
 
 An anxious quarter of a hour elapsed; the jury came back; the judge was
-fetched in. Mr. Pickwick put on his spectacles, and gazed at the foreman
+fetched in. Mr. [[Pickwick]] put on his spectacles, and gazed at the foreman
 with an agitated countenance and a quickly-beating heart.
 
 ‘Gentlemen,’ said the individual in black, ‘are you all agreed upon your
@@ -1101,41 +1101,41 @@ For the plaintiff.’
 
 ‘Seven hundred and fifty pounds.’
 
-Mr. Pickwick took off his spectacles, carefully wiped the glasses,
+Mr. [[Pickwick]] took off his spectacles, carefully wiped the glasses,
 folded them into their case, and put them in his pocket; then, having
 drawn on his gloves with great nicety, and stared at the foreman all the
 while, he mechanically followed Mr. Perker and the blue bag out of
-court.
+[[Court|court]].
 
-They stopped in a side room while Perker paid the court fees; and here,
-Mr. Pickwick was joined by his friends. Here, too, he encountered
+They stopped in a side room while Perker paid the [[Court|court]] fees; and here,
+Mr. [[Pickwick]] was joined by his friends. Here, too, he encountered
 Messrs. Dodson & Fogg, rubbing their hands with every token of outward
 satisfaction.
 
-‘Well, gentlemen,’ said Mr. Pickwick.
+‘[[Well]], gentlemen,’ said Mr. [[Pickwick]].
 
-‘Well, Sir,’ said Dodson, for self and partner.
+‘[[Well]], Sir,’ said Dodson, for [[Self|self]] and partner.
 
 ‘You imagine you’ll get your costs, don’t you, gentlemen?’ said Mr.
-Pickwick.
+[[Pickwick]].
 
 Fogg said they thought it rather probable. Dodson smiled, and said
 they’d try.
 
 ‘You may try, and try, and try again, Messrs. Dodson and Fogg,’ said Mr.
-Pickwick vehemently, ‘but not one farthing of costs or damages do you
+[[Pickwick]] vehemently, ‘but not one farthing of costs or damages do you
 ever get from me, if I spend the rest of my existence in a debtor’s
-prison.’
+[[Prison|prison]].’
 
 ‘Ha! ha!’ laughed Dodson. ‘You’ll think better of that, before next
-term, Mr. Pickwick.’
+term, Mr. [[Pickwick]].’
 
-‘He, he, he! We’ll soon see about that, Mr. Pickwick,’ grinned Fogg.
+‘He, he, he! We’ll soon see about that, Mr. [[Pickwick]],’ grinned Fogg.
 
-Speechless with indignation, Mr. Pickwick allowed himself to be led by
+Speechless with indignation, Mr. [[Pickwick]] allowed himself to be led by
 his solicitor and friends to the door, and there assisted into a
 hackney-coach, which had been fetched for the purpose, by the ever-
-watchful Sam Weller.
+watchful [[Sam Weller]].
 
 Sam had put up the steps, and was preparing to jump upon the box, when
 he felt himself gently touched on the shoulder; and, looking round, his

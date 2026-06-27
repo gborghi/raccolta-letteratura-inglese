@@ -15,7 +15,7 @@ tags:
 
 
 The tower opened at his feet.  He looked down, and beheld his own form,
-lying at the bottom, on the outside: crushed and motionless.
+lying at the [[Bottom|bottom]], on the outside: crushed and motionless.
 
 ‘No more a living man!’ cried Trotty.  ‘Dead!’
 
@@ -31,49 +31,49 @@ outside of this tower in the dark, fell down—a year ago?’
 ‘Nine years ago!’ replied the figures.
 
 As they gave the answer, they recalled their outstretched hands; and
-where their figures had been, there the Bells were.
+where their figures had been, there [[The Bells|the Bells]] were.
 
-And they rung; their time being come again.  And once again, vast
+And they rung; their [[Time|time]] being come again.  And once again, vast
 multitudes of phantoms sprung into existence; once again, were
 incoherently engaged, as they had been before; once again, faded on the
 stopping of the Chimes; and dwindled into nothing.
 
 ‘What are these?’ he asked his guide.  ‘If I am not mad, what are these?’
 
-‘Spirits of the Bells.  Their sound upon the air,’ returned the child.
+‘Spirits of [[The Bells|the Bells]].  Their sound upon the air,’ returned the [[Child|child]].
 ‘They take such shapes and occupations as the hopes and thoughts of
 mortals, and the recollections they have stored up, give them.’
 
 ‘And you,’ said Trotty wildly.  ‘What are you?’
 
-‘Hush, hush!’ returned the child.  ‘Look here!’
+‘Hush, hush!’ returned the [[Child|child]].  ‘Look here!’
 
 In a poor, mean room; working at the same kind of embroidery which he had
 often, often seen before her; Meg, his own dear daughter, was presented
 to his view.  He made no effort to imprint his kisses on her face; he did
 not strive to clasp her to his loving heart; he knew that such
 endearments were, for him, no more.  But, he held his trembling breath,
-and brushed away the blinding tears, that he might look upon her; that he
+and brushed away the blinding [[Tears|tears]], that he might look upon her; that he
 might only see her.
 
 Ah!  Changed.  Changed.  The light of the clear eye, how dimmed.  The
 bloom, how faded from the cheek.  Beautiful she was, as she had ever
-been, but Hope, Hope, Hope, oh where was the fresh Hope that had spoken
+been, but [[Hope]], [[Hope]], [[Hope]], oh where was the fresh [[Hope]] that had spoken
 to him like a voice!
 
 She looked up from her work, at a companion.  Following her eyes, the old
 man started back.
 
 In the woman grown, he recognised her at a glance.  In the long silken
-hair, he saw the self-same curls; around the lips, the child’s expression
+hair, he saw the [[Self|self]]-same curls; around the lips, the [[Child|child]]’s expression
 lingering still.  See!  In the eyes, now turned inquiringly on Meg, there
-shone the very look that scanned those features when he brought her home!
+shone the very look that scanned those features when he brought her [[Home|home]]!
 
 Then what was this, beside him!
 
 Looking with awe into its face, he saw a something reigning there: a
 lofty something, undefined and indistinct, which made it hardly more than
-a remembrance of that child—as yonder figure might be—yet it was the
+a remembrance of that [[Child|child]]—as yonder figure might be—yet it was the
 same: the same: and wore the dress.
 
 Hark.  They were speaking!
@@ -105,7 +105,7 @@ not to live grandly or gaily, not to live upon enough, however coarse;
 but to earn bare bread; to scrape together just enough to toil upon, and
 want upon, and keep alive in us the consciousness of our hard fate!  Oh
 Meg, Meg!’ she raised her voice and twined her arms about her as she
-spoke, like one in pain.  ‘How can the cruel world go round, and bear to
+spoke, like one in [[Pain|pain]].  ‘How can the cruel world go round, and bear to
 look upon such lives!’
 
 ‘Lilly!’ said Meg, soothing her, and putting back her hair from her wet
@@ -116,24 +116,24 @@ her face imploringly.  ‘The worst of all, the worst of all!  Strike me
 old, Meg!  Wither me, and shrivel me, and free me from the dreadful
 thoughts that tempt me in my youth!’
 
-Trotty turned to look upon his guide.  But the Spirit of the child had
+Trotty turned to look upon his guide.  But the Spirit of the [[Child|child]] had
 taken flight.  Was gone.
 
 Neither did he himself remain in the same place; for, Sir Joseph Bowley,
 Friend and Father of the Poor, held a great festivity at Bowley Hall, in
-honour of the natal day of Lady Bowley.  And as Lady Bowley had been born
+[[Honour|honour]] of the natal day of Lady Bowley.  And as Lady Bowley had been born
 on New Year’s Day (which the local newspapers considered an especial
-pointing of the finger of Providence to number One, as Lady Bowley’s
+pointing of the finger of [[Providence]] to number One, as Lady Bowley’s
 destined figure in Creation), it was on a New Year’s Day that this
 festivity took place.
 
 Bowley Hall was full of visitors.  The red-faced gentleman was there, Mr.
-Filer was there, the great Alderman Cute was there—Alderman Cute had a
+Filer was there, the great [[Alderman Cute]] was there—[[Alderman Cute]] had a
 sympathetic feeling with great people, and had considerably improved his
 acquaintance with Sir Joseph Bowley on the strength of his attentive
 letter: indeed had become quite a friend of the family since then—and
-many guests were there.  Trotty’s ghost was there, wandering about, poor
-phantom, drearily; and looking for its guide.
+many guests were there.  Trotty’s [[Ghost|ghost]] was there, wandering about, poor
+[[Phantom|phantom]], drearily; and looking for its guide.
 
 There was to be a great dinner in the Great Hall.  At which Sir Joseph
 Bowley, in his celebrated character of Friend and Father of the Poor, was
@@ -147,5 +147,5 @@ But, there was more than this to happen.  Even more than this.  Sir
 Joseph Bowley, Baronet and Member of Parliament, was to play a match at
 skittles—real skittles—with his tenants!
 
-‘Which quite reminds me,’ said Alderman Cute, ‘of the days of old King
-Hal, stout King Hal, bluff King Hal.  Ah!  Fine character!’
+‘Which quite reminds me,’ said [[Alderman Cute]], ‘of the days of old [[King]]
+Hal, stout [[King]] Hal, bluff [[King]] Hal.  Ah!  Fine character!’

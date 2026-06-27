@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 6 (part 2)"
+title: "[[Shirley]] — Chapter 6 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-clerk, and sit with him in the counting-house, instead of sitting with
+clerk, and sit with him in the counting-[[house]], instead of sitting with
 
 Hortense in the parlour.
 
@@ -26,7 +26,7 @@ Hollow's Cottage. Sometimes during these visits Moore was away attending
 
 a market; sometimes he was gone to Mr. Yorke's; often he was engaged
 
-with a male visitor in another room; but sometimes, too, he was at home,
+with a male visitor in another room; but sometimes, too, he was at [[Home|home]],
 
 disengaged, free to talk with Caroline. When this was the case, the
 
@@ -44,11 +44,11 @@ There was a means, too, of rendering her delightful, by inducing her to
 
 take her guitar and sing and play. She then became quite good-natured.
 
-And as she played with skill, and had a well-toned voice, it was not
+And as she played with skill, and had a [[Well|well]]-toned voice, it was not
 
 disagreeable to listen to her. It would have been absolutely agreeable,
 
-except that her formal and self-important character modulated her
+except that her formal and [[Self|self]]-important character modulated her
 
 strains, as it impressed her manners and moulded her countenance.
 
@@ -90,7 +90,7 @@ Often, indeed, when pressed by Hortense to come, she would refuse,
 
 because Robert did not second, or but slightly seconded the request.
 
-This morning was the first time he had ever, of his own unprompted will,
+This morning was the first [[Time|time]] he had ever, of his own unprompted will,
 
 given her an invitation; and then he had spoken so kindly that in
 
@@ -128,7 +128,7 @@ last brought it into the room, she almost flung upon the table, with a
 
 look that expressed quite plainly, "I never dished such stuff i' my life
 
-afore; it's not fit for dogs." Notwithstanding Sarah's scorn, it was a
+afore; it's not fit for [[dogs]]." Notwithstanding Sarah's scorn, it was a
 
 savoury repast enough. The soup was a sort of purée of dried peas, which
 
@@ -136,7 +136,7 @@ mademoiselle had prepared amidst bitter lamentations that in this
 
 desolate country of England no haricot beans were to be had. Then came a
 
-dish of meat--nature unknown, but supposed to be
+dish of meat--[[Nature|nature]] unknown, but supposed to be
 
 miscellaneous--singularly chopped up with crumbs of bread, seasoned
 
@@ -156,7 +156,7 @@ sugar, completed the dinner.
 
 Caroline had no objection to this Belgian cookery--indeed she rather
 
-liked it for a change; and it was well she did so, for had she evinced
+liked it for a change; and it was [[Well|well]] she did so, for had she evinced
 
 any disrelish thereof, such manifestation would have injured her in
 
@@ -186,7 +186,7 @@ of requiring a change of scene, contrived to get the teacher aloft; and,
 
 once in the bedroom, she persuaded her that it was not worth while
 
-returning thither, and that she might as well make her toilet now; and
+returning thither, and that she might as [[Well|well]] make her toilet now; and
 
 while mademoiselle delivered a solemn homily on her own surpassing merit
 
@@ -202,8 +202,8 @@ thick handkerchief tied round the throat, and a large, servant-like
 
 black apron, which spoiled everything. On no account would mademoiselle
 
-have appeared in her own house without the thick handkerchief and the
+have appeared in her own [[house]] without the thick handkerchief and the
 
-voluminous apron. The first was a positive matter of morality--it was
+voluminous apron. The first was a positive matter of [[morality]]--it was
 
 quite improper not to wear a fichu; the second was the ensign of a good

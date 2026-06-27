@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered-8 — CHRISTMAS (part 4)"
+title: "[[AllThingsConsidered-8]] — CHRISTMAS (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
@@ -46,7 +46,7 @@ individual work is in the public domain in the United States and you are
 located in the United States, we do not claim a right to prevent you from
 copying, distributing, performing, displaying or creating derivative
 works based on the work as long as all references to Project Gutenberg
-are removed.  Of course, we hope that you will support the Project
+are removed.  Of course, we [[Hope|hope]] that you will support the Project
 Gutenberg-tm mission of promoting free access to electronic works by
 freely sharing Project Gutenberg-tm works in compliance with the terms of
 this agreement for keeping the Project Gutenberg-tm name associated with
@@ -106,7 +106,7 @@ prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 Gutenberg-tm License.
 
-1.E.6.  You may convert to and distribute this work in any binary,
+1.E.6.  You may [[convert]] to and distribute this work in any binary,
 compressed, marked up, nonproprietary or proprietary form, including any
 word processing or hypertext form.  However, if you provide access to or
 distribute copies of a Project Gutenberg-tm work in a format other than

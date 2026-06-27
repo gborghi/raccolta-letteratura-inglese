@@ -20,33 +20,33 @@ The captains, merchant bankers, eminent men of letters.
 The generous patrons of art, the statesmen and the rulers,
 Distinguished civil servants, chairmen of many committees,
 Industrial lords and petty contractors, all go into the dark,
-And dark the Sun and Moon, and the Almanach de Gotha
+And dark the Sun and [[Moon]], and the Almanach de Gotha
 And the Stock Exchange Gazette, the Directory of Directors,
 And cold the sense and lost the motive of action.
 And we all go with them, into the silent funeral,
 Nobody’s funeral, for there is no one to bury.
-I said to my soul, be still, and let the dark come upon you
+I said to my [[Soul|soul]], be still, and let the dark come upon you
 Which shall be the darkness of God. As, in a theatre,
 The lights are extinguished, for the scene to be changed
 With a hollow rumble of wings, with a movement of darkness on darkness,
 And we know that the hills and the trees, the distant panorama
 And the bold imposing façade are all being rolled away —
 Or as, when an underground train, in the tube, stops too long between stations
-And the conversation rises and slowly fades into silence
+And the conversation rises and slowly fades into [[Silence|silence]]
 And you see behind every face the mental emptiness deepen
 Leaving only the growing terror of nothing to think about;
 Or when, under ether, the mind is conscious but conscious of nothing—
-I said to my soul, be still, and wait without hope
-For hope would be hope for the wrong thing; wait without love
-For love would be love of the wrong thing; there is yet faith
-But the faith and the love and the hope are all in the waiting.
+I said to my [[Soul|soul]], be still, and wait without [[Hope|hope]]
+For [[Hope|hope]] would be [[Hope|hope]] for the wrong thing; wait without [[Love|love]]
+For [[Love|love]] would be [[Love|love]] of the wrong thing; there is yet [[Faith|faith]]
+But the [[Faith|faith]] and the [[Love|love]] and the [[Hope|hope]] are all in the waiting.
 Wait without thought, for you are not ready for thought:
 So the darkness shall be the light, and the stillness the dancing.
-Whisper of running streams, and winter lightning.
+Whisper of running streams, and [[Winter|winter]] [[Lightning|lightning]].
 The wild thyme unseen and the wild strawberry,
-The laughter in the garden, echoed ecstasy
+The laughter in the [[Garden|garden]], echoed ecstasy
 Not lost, but requiring, pointing to the agony
-Of death and birth.
+Of [[Death|death]] and birth.
                                   You say I am repeating
 Something I have said before. I shall say it again.
 Shall I say it again? In order to arrive there,

@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 8 (part 4)"
+title: "[[Great Expectations]] — Chapter 8 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -24,11 +24,11 @@ that needed counteraction.
 My sister’s bringing up had made me sensitive. In the little world in
 which children have their existence whosoever brings them up, there is
 nothing so finely perceived and so finely felt as injustice. It may be
-only small injustice that the child can be exposed to; but the child is
-small, and its world is small, and its rocking-horse stands as many
+only small injustice that the [[Child|child]] can be exposed to; but the [[Child|child]] is
+small, and its world is small, and its rocking-[[Horse|horse]] stands as many
 hands high, according to scale, as a big-boned Irish hunter. Within
 myself, I had sustained, from my babyhood, a perpetual conflict with
-injustice. I had known, from the time when I could speak, that my
+injustice. I had known, from the [[Time|time]] when I could speak, that my
 sister, in her capricious and violent coercion, was unjust to me. I had
 cherished a profound conviction that her bringing me up by hand gave
 her no right to bring me up by jerks. Through all my punishments,
@@ -37,15 +37,15 @@ nursed this assurance; and to my communing so much with it, in a
 solitary and unprotected way, I in great part refer the fact that I was
 morally timid and very sensitive.
 
-I got rid of my injured feelings for the time by kicking them into the
+I got rid of my injured feelings for the [[Time|time]] by kicking them into the
 brewery wall, and twisting them out of my hair, and then I smoothed my
 face with my sleeve, and came from behind the gate. The bread and meat
 were acceptable, and the beer was warming and tingling, and I was soon
 in spirits to look about me.
 
-To be sure, it was a deserted place, down to the pigeon-house in the
+To be sure, it was a deserted place, down to the pigeon-[[house]] in the
 brewery-yard, which had been blown crooked on its pole by some high
-wind, and would have made the pigeons think themselves at sea, if there
+[[Wind|wind]], and would have made the pigeons think themselves at sea, if there
 had been any pigeons there to be rocked by it. But there were no
 pigeons in the dove-cot, no horses in the stable, no pigs in the sty,
 no malt in the storehouse, no smells of grains and beer in the copper
@@ -56,13 +56,13 @@ better days lingering about them; but it was too sour to be accepted as
 a sample of the beer that was gone,—and in this respect I remember
 those recluses as being like most others.
 
-Behind the furthest end of the brewery, was a rank garden with an old
+Behind the furthest end of the brewery, was a rank [[Garden|garden]] with an old
 wall; not so high but that I could struggle up and hold on long enough
-to look over it, and see that the rank garden was the garden of the
-house, and that it was overgrown with tangled weeds, but that there was
+to look over it, and see that the rank [[Garden|garden]] was the [[Garden|garden]] of the
+[[house]], and that it was overgrown with tangled weeds, but that there was
 a track upon the green and yellow paths, as if some one sometimes
-walked there, and that Estella was walking away from me even then. But
-she seemed to be everywhere. For when I yielded to the temptation
+walked there, and that [[Estella]] was walking away from me even then. But
+she seemed to be everywhere. For when I yielded to the [[Temptation|temptation]]
 presented by the casks, and began to walk on them, I saw _her_ walking
 on them at the end of the yard of casks. She had her back towards me,
 and held her pretty brown hair spread out in her two hands, and never
@@ -82,17 +82,17 @@ nook of the building near me on my right hand, and I saw a figure
 hanging there by the neck. A figure all in yellow white, with but one
 shoe to the feet; and it hung so, that I could see that the faded
 trimmings of the dress were like earthy paper, and that the face was
-Miss Havisham’s, with a movement going over the whole countenance as if
+[[Miss Havisham]]’s, with a movement going over the whole countenance as if
 she were trying to call to me. In the terror of seeing the figure, and
 in the terror of being certain that it had not been there a moment
 before, I at first ran from it, and then ran towards it. And my terror
 was greatest of all when I found no figure there.
 
 Nothing less than the frosty light of the cheerful sky, the sight of
-people passing beyond the bars of the court-yard gate, and the reviving
+people passing beyond the bars of the [[Court|court]]-yard gate, and the reviving
 influence of the rest of the bread and meat and beer, would have
 brought me round. Even with those aids, I might not have come to myself
-as soon as I did, but that I saw Estella approaching with the keys, to
+as soon as I did, but that I saw [[Estella]] approaching with the keys, to
 let me out. She would have some fair reason for looking down upon me, I
 thought, if she saw me frightened; and she would have no fair reason.
 
@@ -110,11 +110,11 @@ you are near crying again now.”
 
 She laughed contemptuously, pushed me out, and locked the gate upon me.
 I went straight to Mr. Pumblechook’s, and was immensely relieved to
-find him not at home. So, leaving word with the shopman on what day I
-was wanted at Miss Havisham’s again, I set off on the four-mile walk to
+find him not at [[Home|home]]. So, leaving word with the shopman on what day I
+was wanted at [[Miss Havisham]]’s again, I set off on the four-mile walk to
 our forge; pondering, as I went along, on all I had seen, and deeply
 revolving that I was a common labouring-boy; that my hands were coarse;
 that my boots were thick; that I had fallen into a despicable habit of
 calling knaves Jacks; that I was much more ignorant than I had
-considered myself last night, and generally that I was in a low-lived
+considered myself last [[Night|night]], and generally that I was in a low-lived
 bad way.

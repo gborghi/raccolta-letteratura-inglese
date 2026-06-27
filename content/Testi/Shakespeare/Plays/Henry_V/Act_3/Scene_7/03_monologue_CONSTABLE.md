@@ -1,5 +1,5 @@
 ---
-title: "Henry V — Act III, Scene 7 — monologue (CONSTABLE) [3]"
+title: "[[Henry V]] — Act III, Scene 7 — monologue (CONSTABLE) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/HENRY-V-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| CONSTABLE | Indeed, my lord, it is a most absolute and excellent horse. BOURBON It is the prince of palfreys. His neigh is like the bidding of a monarch, and his countenance enforces homage. ORLÉANS No more, cousin. BOURBON Nay, the man hath no wit, that cannot from the rising of the lark to the lodging of the lamb vary deserved praise on my palfrey. It is a theme as fluent as the sea. Turn the sands into eloquent tongues, and my horse is argument for them all. ‘Tis a subject for a sovereign to reason on, and for a sovereign’s sovereign to ride on, and for the world, familiar to us and unknown, to lay apart their particular functions, and wonder at him. I once writ a sonnet in his praise, and began thus: ‘Wonder of nature!—’ ORLÉANS I have heard a sonnet begin so to one’s mistress. BOURBON Then did they imitate that which I composed to my courser, for my horse is my mistress. ORLÉANS Your mistress bears well. BOURBON Me well, which is the prescribed praise and perfection of a good and particular mistress. |
+| CONSTABLE | Indeed, my lord, it is a most absolute and excellent [[Horse|horse]]. BOURBON It is the prince of palfreys. His neigh is like the bidding of a monarch, and his countenance enforces homage. ORLÉANS No more, cousin. BOURBON Nay, the man hath no wit, that cannot from the rising of the lark to the lodging of the [[Lamb|lamb]] vary deserved praise on my palfrey. It is a theme as fluent as the sea. Turn the sands into eloquent tongues, and my [[Horse|horse]] is argument for them all. ‘Tis a subject for a sovereign to reason on, and for a sovereign’s sovereign to ride on, and for the world, familiar to us and unknown, to lay apart their particular functions, and [[Wonder|wonder]] at him. I once writ a [[Sonnet|sonnet]] in his praise, and began thus: ‘[[Wonder]] of [[Nature|nature]]!—’ ORLÉANS I have heard a [[Sonnet|sonnet]] begin so to one’s mistress. BOURBON Then did they imitate that which I composed to my courser, for my [[Horse|horse]] is my mistress. ORLÉANS Your mistress bears [[Well|well]]. BOURBON Me [[Well|well]], which is the prescribed praise and perfection of a good and particular mistress. |

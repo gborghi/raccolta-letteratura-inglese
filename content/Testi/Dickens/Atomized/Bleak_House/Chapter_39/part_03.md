@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 39 (part 3)"
+title: "Bleak [[house|House]] — Chapter 39 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -15,19 +15,19 @@ tags:
 
 
 “Yes, sir,” says Mr. Vholes, gently shaking his head and rapping the
-hollow desk, with a sound as if ashes were falling on ashes, and dust
-on dust, “a rock. That’s something. You are separately represented,
+hollow desk, with a sound as if ashes were falling on ashes, and [[Dust|dust]]
+on [[Dust|dust]], “a rock. That’s something. You are separately represented,
 and no longer hidden and lost in the interests of others. THAT’S
-something. The suit does not sleep; we wake it up, we air it, we walk
-it about. THAT’S something. It’s not all Jarndyce, in fact as well as
+something. The suit does not [[Sleep|sleep]]; we wake it up, we air it, we walk
+it about. THAT’S something. It’s not all Jarndyce, in fact as [[Well|well]] as
 in name. THAT’S something. Nobody has it all his own way now, sir.
 And THAT’S something, surely.”
 
-Richard, his face flushing suddenly, strikes the desk with his
+[[Richard]], his face flushing suddenly, strikes the desk with his
 clenched hand.
 
 “Mr. Vholes! If any man had told me when I first went to John
-Jarndyce’s house that he was anything but the disinterested friend he
+Jarndyce’s [[house]] that he was anything but the disinterested friend he
 seemed—that he was what he has gradually turned out to be—I could
 have found no words strong enough to repel the slander; I could not
 have defended him too ardently. So little did I know of the world!
@@ -35,12 +35,12 @@ Whereas now I do declare to you that he becomes to me the embodiment
 of the suit; that in place of its being an abstraction, it is John
 Jarndyce; that the more I suffer, the more indignant I am with him;
 that every new delay and every new disappointment is only a new
-injury from John Jarndyce’s hand.”
+injury from [[John Jarndyce]]’s hand.”
 
 “No, no,” says Vholes. “Don’t say so. We ought to have patience, all
 of us. Besides, I never disparage, sir. I never disparage.”
 
-“Mr. Vholes,” returns the angry client. “You know as well as I that
+“Mr. Vholes,” returns the angry client. “You know as [[Well|well]] as I that
 he would have strangled the suit if he could.”
 
 “He was not active in it,” Mr. Vholes admits with an appearance of
@@ -48,12 +48,12 @@ reluctance. “He certainly was not active in it. But however, but
 however, he might have had amiable intentions. Who can read the
 heart, Mr. C.!”
 
-“You can,” returns Richard.
+“You can,” returns [[Richard]].
 
 “I, Mr. C.?”
 
-“Well enough to know what his intentions were. Are or are not our
-interests conflicting? Tell—me—that!” says Richard, accompanying
+“[[Well]] enough to know what his intentions were. Are or are not our
+interests conflicting? Tell—me—that!” says [[Richard]], accompanying
 his last three words with three raps on his rock of trust.
 
 “Mr. C.,” returns Vholes, immovable in attitude and never winking his
@@ -67,16 +67,16 @@ families. I understand you to be now consulting me professionally as
 to your interests? You are so? I reply, then, they are not identical
 with those of Mr. Jarndyce.”
 
-“Of course they are not!” cries Richard. “You found that out long
+“Of course they are not!” cries [[Richard]]. “You found that out long
 ago.”
 
 “Mr. C.,” returns Vholes, “I wish to say no more of any third party
 than is necessary. I wish to leave my good name unsullied, together
 with any little property of which I may become possessed through
-industry and perseverance, to my daughters Emma, Jane, and Caroline.
-I also desire to live in amity with my professional brethren. When
-Mr. Skimpole did me the honour, sir—I will not say the very high
-honour, for I never stoop to flattery—of bringing us together in
+industry and perseverance, to my daughters [[Emma]], Jane, and Caroline.
+I also [[Desire|desire]] to live in amity with my professional brethren. When
+Mr. Skimpole did me the [[Honour|honour]], sir—I will not say the very high
+[[Honour|honour]], for I never stoop to flattery—of bringing us together in
 this room, I mentioned to you that I could offer no opinion or advice
 as to your interests while those interests were entrusted to another
 member of the profession. And I spoke in such terms as I was bound to
@@ -109,7 +109,7 @@ perhaps Mr. C. will favour him with an order on his agent for twenty
 pounds on account.
 
 “For there have been many little consultations and attendances of
-late, sir,” observes Vholes, turning over the leaves of his diary,
+late, sir,” observes Vholes, turning over the [[Leaves|leaves]] of his diary,
 “and these things mount up, and I don’t profess to be a man of
 capital. When we first entered on our present relations I stated to
 you openly—it is a principle of mine that there never can be too
@@ -124,5 +124,5 @@ The client, with his dejection insensibly relieved and his vague
 hopes rekindled, takes pen and ink and writes the draft, not without
 perplexed consideration and calculation of the date it may bear,
 implying scant effects in the agent’s hands. All the while, Vholes,
-buttoned up in body and mind, looks at him attentively. All the
+buttoned up in [[Body|body]] and mind, looks at him attentively. All the
 while, Vholes’s official cat watches the mouse’s hole.

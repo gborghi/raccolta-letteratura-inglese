@@ -1,5 +1,5 @@
 ---
-title: "aquinas — Chapter 8 (part 2)"
+title: "[[aquinas]] — Chapter 8 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/aquinas-(Chesterton)"
@@ -16,43 +16,43 @@ tags:
 
 M. Maritain has used an admirable metaphor, in his book Theonas,
 when he says that the external fact fertilises the internal intelligence,
-as the bee fertilises the flower.  Anyhow, upon that marriage,
+as the bee fertilises the flower.  Anyhow, upon that [[Marriage|marriage]],
 or whatever it may be called, the whole system of St. Thomas is founded;
 God made Man so that he was capable of coming in contact with reality;
 and those whom God hath joined, let no man put asunder.
 
-Now, it is worthy of remark that it is the only working philosophy.
+Now, it is worthy of remark that it is the only working [[philosophy]].
 Of nearly all other philosophies it is strictly true that their
 followers work in spite of them, or do not work at all.
 No sceptics work sceptically; no fatalists work fatalistically;
 all without exception work on the principle that it is
 possible to assume what it is not possible to believe.
 No materialist who thinks his mind was made up for him, by mud
-and blood and heredity, has any hesitation in making up his mind.
-No sceptic who believes that truth is subjective has any hesitation
+and [[Blood|blood]] and heredity, has any hesitation in making up his mind.
+No sceptic who believes that [[Truth|truth]] is subjective has any hesitation
 about treating it as objective.
 
 Thus St. Thomas' work has a constructive quality absent from almost
-all cosmic systems after him.  For he is already building a house,
+all cosmic systems after him.  For he is already building a [[house]],
 while the newer speculators are still at the stage of testing the rungs
 of a ladder, demonstrating the hopeless softness of the unbaked bricks,
 chemically analysing the spirit in the spirit-level, and generally
 quarrelling about whether they can even make the tools that will
-make the house.  Aquinas is whole intellectual aeons ahead of them,
+make the [[house]].  [[aquinas|Aquinas]] is whole intellectual aeons ahead of them,
 over and above the common chronological sense of saying a man
 is in advance of his age; he is ages in advance of our age.
-For he has thrown out a bridge across the abyss of the first doubt,
+For he has thrown out a bridge across the abyss of the first [[Doubt|doubt]],
 and found reality beyond and begun to build on it.
-Most modern philosophies are not philosophy but philosophic doubt;
-that is, doubt about whether there can be any philosophy.
+Most modern philosophies are not [[philosophy]] but philosophic [[Doubt|doubt]];
+that is, [[Doubt|doubt]] about whether there can be any [[philosophy]].
 If we accept St. Thomas's fundamental act or argument in the acceptance
 of reality, the further deductions from it will be equally real;
 they will be things and not words.  Unlike Kant and most of
-the Hegelians, he has a faith that is not merely a doubt about doubt.
-It is not merely what is commonly called a faith about faith;
-it is a faith about fact.  From this point he can go forward,
-and deduce and develop and decide, like a man planning a city
-and sitting in a judgment-seat. But never since that time has
+the Hegelians, he has a [[Faith|faith]] that is not merely a [[Doubt|doubt]] about [[Doubt|doubt]].
+It is not merely what is commonly called a [[Faith|faith]] about [[Faith|faith]];
+it is a [[Faith|faith]] about fact.  From this point he can go forward,
+and deduce and develop and decide, like a man planning a [[City|city]]
+and sitting in a judgment-seat. But never since that [[Time|time]] has
 any thinking man of that eminence thought that there is any real
 evidence for anything, not even the evidence of his senses,
 that was strong enough to bear the weight of a definite deduction.
@@ -80,7 +80,7 @@ very much what they vaguely mean by a Liberal.  I do not mean that any
 of his thousand political suggestions would suit any such definite
 political creed; if there are nowadays any definite political creeds.
 I mean, in the same sense, that he has a sort of atmosphere of
-believing in breadth and balance and debate.  He may not be a Liberal
+believing in breadth and balance and [[debate]].  He may not be a Liberal
 by the extreme demands of the moderns for we seem always to mean
 by the moderns the men of the last century, rather than this.  He was
 very much of a Liberal compared with the most modern of all moderns,
@@ -88,27 +88,27 @@ for they are nearly all of them turning into Fascists and Hitlerites.
 But the point is that he obviously preferred the sort of decisions
 that are reached by deliberation rather than despotic action;
 and while, like all his contemporaries and coreligionists, he has
-no doubt that true authority may be authoritative, he is rather averse
+no [[Doubt|doubt]] that true authority may be authoritative, he is rather averse
 to the whole savour of its being arbitrary.  He is much less of an
-Imperialist than Dante, and even his Papalism is not very Imperial.
+Imperialist than [[Dante]], and even his Papalism is not very Imperial.
 He is very fond of phrases like "a mob of free men" as the essential
-material of a city; and he is emphatic upon the fact that law,
+material of a [[City|city]]; and he is emphatic upon the fact that law,
 when it ceases to be justice, ceases even to be law.
 
 If this work were controversial, whole chapters could be given
-to the economics as well as the ethics of the Thomist system.
-It would be easy to show that, in this matter, he was a prophet as well
+to the economics as [[Well|well]] as the ethics of the Thomist system.
+It would be easy to show that, in this matter, he was a [[Prophet|prophet]] as [[Well|well]]
 as a philosopher.  He foresaw from the first the peril of that mere
-reliance on trade and exchange, which was beginning about his time;
-and which has culminated in a universal commercial collapse in our time.
+reliance on trade and exchange, which was beginning about his [[Time|time]];
+and which has culminated in a universal commercial collapse in our [[Time|time]].
 He did not merely assert that Usury is unnatural, though in saying
 that he only followed Aristotle and obvious common sense, which was
-never contradicted by anybody until the time of the commercialists,
+never contradicted by anybody until the [[Time|time]] of the commercialists,
 who have involved us in the collapse.  The modern world began
 by Bentham writing the Defence of Usury, and it has ended after
 a hundred years in even the vulgar newspaper opinion finding
 Finance indefensible.  But St. Thomas struck much deeper than that.
-He even mentioned the truth, ignored during the long idolatry of trade,
+He even mentioned the [[Truth|truth]], ignored during the long idolatry of trade,
 that things which men produce only to sell are likely to be worse
 in quality than the things they produce in order to consume.
 Something of our difficulty about the fine shades of Latin will be felt

@@ -16,7 +16,7 @@ tags:
 
 XXX
 
-The Little Birds Who Won't Sing
+The Little [[Birds]] Who Won't Sing
 
 On my last morning on the Flemish coast, when I knew that
 in a few hours I should be in England, my eye fell upon one
@@ -30,7 +30,7 @@ Some seemed to be sailors tugging at ropes; others, I think,
 were reaping; others were energetically pouring something
 into something else.  This is entirely characteristic of
 the pictures and carvings of the early thirteenth century,
-perhaps the most purely vigorous time in all history.
+perhaps the most purely vigorous [[Time|time]] in all [[history]].
 The great Greeks preferred to carve their gods and heroes
 doing nothing.  Splendid and philosophic as their composure
 is there is always about it something that marks the master
@@ -39,12 +39,12 @@ mediaevals liked it was representing people doing something--
 hunting or hawking, or rowing boats, or treading grapes,
 or making shoes, or cooking something in a pot.
 "Quicquid agunt homines, votum, timor, ira voluptas."
-(I quote from memory.)  The Middle Ages is full of that spirit
+(I quote from [[Memory|memory]].)  The Middle Ages is full of that spirit
 in all its monuments and manuscripts.  Chaucer retains it
 in his jolly insistence on everybody's type of trade and toil.
-It was the earliest and youngest resurrection of Europe,
-the time when social order was strengthening, but had not yet
-become oppressive; the time when religious faiths were strong,
+It was the earliest and youngest [[Resurrection|resurrection]] of Europe,
+the [[Time|time]] when social order was strengthening, but had not yet
+become oppressive; the [[Time|time]] when religious faiths were strong,
 but had not yet been exasperated.  For this reason
 the whole effect of Greek and Gothic carving is different.
 The figures in the Elgin marbles, though often reining
@@ -52,7 +52,7 @@ their steeds for an instant in the air, seem frozen for ever
 at that perfect instant.  But a mass of mediaeval carving
 seems actually a sort of bustle or hubbub in stone.
 Sometimes one cannot help feeling that the groups actually
-move and mix, and the whole front of a great cathedral has
+move and mix, and the whole front of a great [[Cathedral|cathedral]] has
 the hum of a huge hive.
 
 . . . . .
@@ -64,36 +64,36 @@ mouths open.  Whether or no this really meant anything or was
 an accident of nascent art I do not know; but in the course
 of wondering I recalled to my mind the fact that singing was
 connected with many of the tasks there suggested, that there
-were songs for reapers and songs for sailors hauling ropes.
+were [[songs]] for reapers and [[songs]] for sailors hauling ropes.
 I was still thinking about this small problem when I walked
 along the pier at Ostend; and I heard some sailors uttering
 a measured shout as they laboured, and I remembered that sailors
-still sing in chorus while they work, and even sing different
-songs according to what part of their work they are doing.
-And a little while afterwards, when my sea journey was over, the sight
+still sing in [[Chorus|chorus]] while they work, and even sing different
+[[songs]] according to what part of their work they are doing.
+And a little while afterwards, when my sea [[Journey|journey]] was over, the sight
 of men working in the English fields reminded me again that there
-are still songs for harvest and for many agricultural routines.
+are still [[songs]] for harvest and for many agricultural routines.
 And I suddenly wondered why if this were so it should be
 quite unknown, for any modern trade to have a ritual poetry.
-How did people come to chant rude poems while pulling certain
+How did people come to chant rude [[Poems|poems]] while pulling certain
 ropes or gathering certain fruit, and why did nobody do
 anything of the kind while producing any of the modern things?
-Why is a modern newspaper never printed by people singing in chorus?
+Why is a modern newspaper never printed by people singing in [[Chorus|chorus]]?
 Why do shopmen seldom, if ever, sing?
 
 . . . . .
 
 If reapers sing while reaping, why should not auditors sing while
-auditing and bankers while banking?  If there are songs for all
+auditing and bankers while banking?  If there are [[songs]] for all
 the separate things that have to be done in a boat, why are there
-not songs for all the separate things that have to be done in a bank?
+not [[songs]] for all the separate things that have to be done in a bank?
 As the train from Dover flew through the Kentish gardens,
-I tried to write a few songs suitable for commercial gentlemen.
+I tried to write a few [[songs]] suitable for commercial gentlemen.
 Thus, the work of bank clerks when casting up columns might begin
-with a thundering chorus in praise of Simple Addition.
+with a thundering [[Chorus|chorus]] in praise of Simple Addition.
 
-"Up my lads and lift the ledgers, sleep and ease are o'er.
-Hear the Stars of Morning shouting:  'Two and Two are four.'
+"Up my lads and lift the ledgers, [[Sleep|sleep]] and ease are o'er.
+Hear the [[Stars]] of Morning shouting:  'Two and Two are four.'
 Though the creeds and realms are reeling, though the sophists roar,
 Though we weep and pawn our watches, Two and Two are Four."
 
@@ -101,14 +101,14 @@ Though we weep and pawn our watches, Two and Two are Four."
 a crank and the Secretary drank,
  and the Upper Tooting Bank
 	Turns to bay!
-Stand close:  there is a run On the Bank.  Of our ship, our royal one,
+Stand close:  there is a run On the Bank.  Of our [[Ship|ship]], our royal one,
 let the ringing legend run,
  that she fired with every gun
 	Ere she sank.
 
 . . . . .
 
-And as I came into the cloud of London I met a friend of mine
+And as I came into the cloud of [[London]] I met a friend of mine
 who actually is in a bank, and submitted these suggestions
 in rhyme to him for use among his colleagues.  But he was not
 very hopeful about the matter.  It was not (he assured me)
@@ -122,46 +122,46 @@ the calculations of the Socialists.  They put down all our distress,
 not to a moral tone, but to the chaos of private enterprise.
 Now, banks are private; but post-offices are Socialistic:
 therefore I naturally expected that the post-office
-would fall into the collectivist idea of a chorus.
+would fall into the collectivist idea of a [[Chorus|chorus]].
 Judge of my surprise when the lady in my local post-office
 (whom I urged to sing) dismissed the idea with far more
 coldness than the bank clerk had done.  She seemed indeed,
 to be in a considerably greater state of depression than he.
 Should any one suppose that this was the effect of the verses
 themselves, it is only fair to say that the specimen verse
-of the Post-Office Hymn ran thus:
+of the Post-Office [[Hymn]] ran thus:
 
-"O'er London our letters are shaken like snow,
+"O'er [[London]] our letters are shaken like [[Snow|snow]],
  Our wires o'er the world like the thunderbolts go.
  The news that may marry a maiden in Sark,
  Or kill an old lady in Finsbury Park."
 
-Chorus (with a swing of joy and energy):
+[[Chorus]] (with a swing of joy and energy):
 
 "Or kill an old lady in Finsbury Park."
 
 And the more I thought about the matter the more painfully
 certain it seemed that the most important and typical modern
-things could not be done with a chorus.  One could not,
+things could not be done with a [[Chorus|chorus]].  One could not,
 for instance, be a great financier and sing; because the
 essence of being a great financier is that you keep quiet.
 You could not even in many modern circles be a public man
 and sing; because in those circles the essence of being
 a public man is that you do nearly everything in private.
-Nobody would imagine a chorus of money-lenders. Every one
+Nobody would imagine a [[Chorus|chorus]] of money-lenders. Every one
 knows the story of the solicitors' corps of volunteers who,
-when the Colonel on the battlefield cried "Charge!"
+when the Colonel on the [[Battlefield|battlefield]] cried "Charge!"
 all said simultaneously, "Six-and-eightpence." Men can sing
 while charging in a military, but hardly in a legal sense.
 And at the end of my reflections I had really got no further
 than the sub-conscious feeling of my friend the bank-clerk--
 that there is something spiritually suffocating about
 our life; not about our laws merely, but about our life.
-Bank-clerks are without songs, not because they are poor,
+Bank-clerks are without [[songs]], not because they are poor,
 but because they are sad.  Sailors are much poorer.
 As I passed homewards I passed a little tin building of some
 religious sort, which was shaken with shouting as a trumpet
 is torn with its own tongue.  THEY were singing anyhow;
 and I had for an instant a fancy I had often had before:
 that with us the super-human is the only place where you can find
-the human.  Human nature is hunted and has fled into sanctuary.
+the human.  Human [[Nature|nature]] is hunted and has fled into sanctuary.

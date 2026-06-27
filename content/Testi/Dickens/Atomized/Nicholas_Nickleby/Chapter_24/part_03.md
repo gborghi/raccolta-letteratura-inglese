@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 24 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 24 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -19,26 +19,26 @@ Snevellicci in particular was uncommonly good.’
 
 ‘She’s a genius,’ said Mr. Crummles; ‘quite a genius, that girl.
 By-the-bye, I’ve been thinking of bringing out that piece of yours on
-her bespeak night.’
+her bespeak [[Night|night]].’
 
 ‘When?’ asked Nicholas.
 
-‘The night of her bespeak. Her benefit night, when her friends and
+‘The [[Night|night]] of her bespeak. Her benefit [[Night|night]], when her friends and
 patrons bespeak the play,’ said Mr. Crummles.
 
 ‘Oh! I understand,’ replied Nicholas.
 
 ‘You see,’ said Mr. Crummles, ‘it’s sure to go, on such an occasion, and
-even if it should not work up quite as well as we expect, why it will be
+even if it should not work up quite as [[Well|well]] as we expect, why it will be
 her risk, you know, and not ours.’
 
 ‘Yours, you mean,’ said Nicholas.
 
 ‘I said mine, didn’t I?’ returned Mr. Crummles. ‘Next Monday week. What
-do you say? You’ll have done it, and are sure to be up in the lover’s
-part, long before that time.’
+do you say? You’ll have done it, and are sure to be up in the [[Lover|lover]]’s
+part, long before that [[Time|time]].’
 
-‘I don’t know about “long before,”’ replied Nicholas; ‘but BY that time
+‘I don’t know about “long before,”’ replied Nicholas; ‘but BY that [[Time|time]]
 I think I can undertake to be ready.’
 
 ‘Very good,’ pursued Mr. Crummles, ‘then we’ll call that settled. Now,
@@ -68,9 +68,9 @@ shouldn’t like to do that.’
 
 ‘The infant will accompany her,’ said Mr. Crummles. ‘The moment it was
 suggested to me, I gave permission for the infant to go. There will not
-be the smallest impropriety--Miss Snevellicci, sir, is the very soul
-of honour. It would be of material service--the gentleman from
-London--author of the new piece--actor in the new piece--first
+be the smallest impropriety--Miss Snevellicci, sir, is the very [[Soul|soul]]
+of [[Honour|honour]]. It would be of material service--the gentleman from
+[[London]]--author of the new piece--actor in the new piece--first
 appearance on any boards--it would lead to a great bespeak, Mr. Johnson.’
 
 ‘I am very sorry to throw a damp upon the prospects of anybody, and
@@ -86,36 +86,36 @@ Nicholas.
 
 ‘Objection!’ exclaimed Mrs. Crummles. ‘Can it be possible?’
 
-‘Oh, I hope not!’ cried Miss Snevellicci. ‘You surely are not so
-cruel--oh, dear me!--Well, I--to think of that now, after all one’s
+‘Oh, I [[Hope|hope]] not!’ cried Miss Snevellicci. ‘You surely are not so
+cruel--oh, dear me!--[[Well]], I--to think of that now, after all one’s
 looking forward to it!’
 
 ‘Mr. Johnson will not persist, my dear,’ said Mrs. Crummles. ‘Think better
 of him than to suppose it. Gallantry, humanity, all the best feelings of
-his nature, must be enlisted in this interesting cause.’
+his [[Nature|nature]], must be enlisted in this interesting cause.’
 
 ‘Which moves even a manager,’ said Mr. Crummles, smiling.
 
-‘And a manager’s wife,’ added Mrs. Crummles, in her accustomed tragedy
+‘And a manager’s wife,’ added Mrs. Crummles, in her accustomed [[Tragedy|tragedy]]
 tones. ‘Come, come, you will relent, I know you will.’
 
-‘It is not in my nature,’ said Nicholas, moved by these appeals, ‘to
+‘It is not in my [[Nature|nature]],’ said Nicholas, moved by these appeals, ‘to
 resist any entreaty, unless it is to do something positively wrong; and,
-beyond a feeling of pride, I know nothing which should prevent my doing
+beyond a feeling of [[Pride|pride]], I know nothing which should prevent my doing
 this. I know nobody here, and nobody knows me. So be it then. I yield.’
 
 Miss Snevellicci was at once overwhelmed with blushes and expressions of
 gratitude, of which latter commodity neither Mr. nor Mrs. Crummles was by
 any means sparing. It was arranged that Nicholas should call upon her,
 at her lodgings, at eleven next morning, and soon after they parted:
-he to return home to his authorship: Miss Snevellicci to dress for the
+he to return [[Home|home]] to his authorship: Miss Snevellicci to dress for the
 after-piece: and the disinterested manager and his wife to discuss the
 probable gains of the forthcoming bespeak, of which they were to have
 two-thirds of the profits by solemn treaty of agreement.
 
 At the stipulated hour next morning, Nicholas repaired to the lodgings
 of Miss Snevellicci, which were in a place called Lombard Street, at
-the house of a tailor. A strong smell of ironing pervaded the little
+the [[house]] of a tailor. A strong smell of ironing pervaded the little
 passage; and the tailor’s daughter, who opened the door, appeared in
 that flutter of spirits which is so often attendant upon the periodical
 getting up of a family’s linen.
@@ -140,12 +140,12 @@ saucers, Miss Snevellicci was then taking her breakfast in bed.
 short period of absence, during which the clinking in the back-room had
 ceased, and been succeeded by whispering--‘She won’t be long.’
 
-As she spoke, she pulled up the window-blind, and having by this means
+As she spoke, she pulled up the [[Window|window]]-blind, and having by this means
 (as she thought) diverted Mr. Johnson’s attention from the room to the
 street, caught up some articles which were airing on the fender, and had
 very much the appearance of stockings, and darted off.
 
-As there were not many objects of interest outside the window, Nicholas
+As there were not many objects of interest outside the [[Window|window]], Nicholas
 looked about the room with more curiosity than he might otherwise have
 bestowed upon it. On the sofa lay an old guitar, several thumbed
 pieces of music, and a scattered litter of curl-papers; together with a

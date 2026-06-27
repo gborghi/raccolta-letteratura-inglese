@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 28)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 28)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-been New York. One looked up in a sort of despair at the sky, not for a
+been [[New York]]. One looked up in a sort of [[Despair|despair]] at the sky, not for a
 
 sky-sign but in a sense for a sign, for some sentence of significance
 
@@ -22,7 +22,7 @@ and judgment; by the instinct that makes any man in such a scene seek
 
 for the only thing that has not been made by men. But even that was
 
-illogical, for it was night, and I could only expect to see the stars,
+illogical, for it was [[Night|night]], and I could only expect to see the [[Stars|stars]],
 
 which might have reminded me of Old Glory; but that was not the sign
 
@@ -60,7 +60,7 @@ therefore a bird of prey. But when he ultimately escaped to the land of
 
 the free, he might find the same bird on the American coinage figuring
 
-as a bird of freedom. Doubtless, he might find many other things to
+as a bird of [[Freedom|freedom]]. Doubtless, he might find many other things to
 
 surprise him in the land of the free, and many calculated to make him
 
@@ -68,13 +68,13 @@ think that the bird, if not imperial, was at least rather imperious. But
 
 I am not discussing those exceptional details here. It is equally
 
-obvious that a Russian reactionary might cross the world with a vow of
+obvious that a Russian reactionary might [[Cross|cross]] the world with a vow of
 
-vengeance against the red flag. But that authoritarian might have some
+vengeance against the red [[Flag|flag]]. But that authoritarian might have some
 
 difficulties with the authorities, if he shot a man for using the red
 
-flag on the railway between Willesden and Clapham Junction.
+[[Flag|flag]] on the railway between Willesden and Clapham Junction.
 
 
 
@@ -90,7 +90,7 @@ thing that he has seen and not merely expected to see.
 
 
 
-I gave the example of the great multitude of wooden houses in America;
+I gave the example of the great multitude of wooden houses in [[America]];
 
 we might say of wooden towns and wooden cities. But after he has seen
 
@@ -106,19 +106,19 @@ opposite things.
 
 
 
-For instance, a wooden house might suggest an almost savage solitude; a
+For instance, a wooden [[house]] might suggest an almost savage [[Solitude|solitude]]; a
 
 rude shanty put together by a pioneer in a forest; or it might mean a
 
 very recent and rapid solution of the housing problem, conducted cheaply
 
-and therefore on a very large scale. A wooden house might suggest the
+and therefore on a very large scale. A wooden [[house]] might suggest the
 
-very newest thing in America or one of the very oldest things in
+very newest thing in [[America]] or one of the very oldest things in
 
 England. It might mean a grey ruin at Stratford or a white exhibition at
 
-Earl's Court.
+Earl's [[Court]].
 
 
 
@@ -138,9 +138,9 @@ a fur coat.
 
 
 
-As it happened, I travelled about America with two sticks, like a
+As it happened, I travelled about [[America]] with two sticks, like a
 
-Japanese nobleman with his two swords. I fear the simile is too stately.
+Japanese nobleman with his two swords. I [[Fear|fear]] the simile is too stately.
 
 I bore more resemblance to a cripple with two crutches or a highly
 
@@ -152,15 +152,15 @@ them in my erratic travels. One is a very plain grey stick from the
 
 woods of Buckinghamshire, but as I took it with me to Palestine it
 
-partakes of the character of a pilgrim's staff. When I can say that I
+partakes of the character of a [[Pilgrim|pilgrim]]'s staff. When I can say that I
 
 have taken the same stick to Jerusalem and to Chicago, I think the stick
 
 and I may both have a rest. The other, which I value even more, was
 
-given me by the Knights of Columbus at Yale, and I wish I could think
+given me by the Knights of [[Columbus]] at Yale, and I wish I could think
 
-that their chivalric title allowed me to regard it as a sword.
+that their chivalric title allowed me to regard it as a [[Sword|sword]].
 
 
 
@@ -180,7 +180,7 @@ by Americans stand for something entirely different.
 
 
 
-In America a stick is commonly called a cane, and it has about it
+In [[America]] a stick is commonly called a cane, and it has about it
 
 something of the atmosphere which the poet described as the nice conduct
 
@@ -220,4 +220,4 @@ perhaps even cut it in his native woods.
 
 
 
-There are plenty of these vigorous loungers, no doubt, in the rural
+There are plenty of these vigorous loungers, no [[Doubt|doubt]], in the rural

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 37 (part 3)"
+title: "[[Shirley]] — Chapter 37 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -16,11 +16,11 @@ tags:
 
 mistress had shown herself exquisitely provoking, putting off her
 
-marriage day by day, week by week, month by month, at first coaxing him
+[[Marriage|marriage]] day by day, week by week, month by month, at first coaxing him
 
 with soft pretences of procrastination, and in the end rousing his whole
 
-deliberate but determined nature to revolt against her tyranny, at once
+deliberate but determined [[Nature|nature]] to revolt against her tyranny, at once
 
 so sweet and so intolerable.
 
@@ -30,17 +30,17 @@ It had needed a sort of tempest-shock to bring her to the point; but
 
 there she was at last, fettered to a fixed day. There she lay, conquered
 
-by love, and bound with a vow.
+by [[Love|love]], and bound with a vow.
 
 
 
 Thus vanquished and restricted, she pined, like any other chained
 
-denizen of deserts. Her captor alone could cheer her; his society only
+denizen of deserts. Her captor [[Alone|alone]] could cheer her; his society only
 
 could make amends for the lost privilege of liberty. In his absence she
 
-sat or wandered alone, spoke little, and ate less.
+sat or wandered [[Alone|alone]], spoke little, and ate less.
 
 
 
@@ -80,17 +80,17 @@ approaching nuptials, but Fortune had destined her another part.
 
 
 
-She came home in time to water her plants. She had performed this little
+She came [[Home|home]] in [[Time|time]] to [[Water|water]] her plants. She had performed this little
 
-task. The last flower attended to was a rose-tree, which bloomed in a
+task. The last flower attended to was a [[Rose|rose]]-tree, which bloomed in a
 
-quiet green nook at the back of the house. This plant had received the
+quiet green nook at the back of the [[house]]. This plant had received the
 
 refreshing shower; she was now resting a minute. Near the wall stood a
 
-fragment of sculptured stone--a monkish relic--once, perhaps, the base
+[[Fragment|fragment]] of sculptured stone--a monkish relic--once, perhaps, the base
 
-of a cross. She mounted it, that she might better command the view. She
+of a [[Cross|cross]]. She mounted it, that she might better command the view. She
 
 had still the watering pot in one hand; with the other her pretty dress
 
@@ -102,11 +102,11 @@ side against the sky; beyond a solitary thorn at the head of a solitary
 
 lane far off. She surveyed the dusk moors, where bonfires were kindling.
 
-The summer evening was warm; the bell-music was joyous; the blue smoke
+The [[Summer|summer]] evening was warm; the bell-music was joyous; the blue smoke
 
 of the fires looked soft, their red flame bright. Above them, in the sky
 
-whence the sun had vanished, twinkled a silver point--the star of love.
+whence the sun had vanished, twinkled a silver point--the star of [[Love|love]].
 
 
 
@@ -120,7 +120,7 @@ the touch unstartled.
 
 
 
-"I am looking at Venus, mamma. See, she is beautiful. How white her
+"I am looking at [[Venus]], mamma. See, she is beautiful. How white her
 
 lustre is, compared with the deep red of the bonfires!"
 
@@ -140,11 +140,11 @@ had a long conversation with her. Where, meantime, have you been?"
 
 
 
-"To Fieldhead. Shirley is as naughty as ever, Robert. She will neither
+"To Fieldhead. [[Shirley]] is as naughty as ever, Robert. She will neither
 
-say Yes nor No to any question put. She sits alone. I cannot tell
+say Yes nor No to any question put. She sits [[Alone|alone]]. I cannot tell
 
-whether she is melancholy or nonchalant. If you rouse her or scold her,
+whether she is [[Melancholy|melancholy]] or nonchalant. If you rouse her or scold her,
 
 she gives you a look, half wistful, half reckless, which sends you away
 
@@ -164,7 +164,7 @@ any one can. She tries him, however. He has had a stormy courtship for
 
 such a calm character; but you see it all ends in victory for him.
 
-Caroline, I have sought you to ask an audience. Why are those bells
+Caroline, I have sought you to ask an audience. Why are those [[Bells|bells]]
 
 ringing?"
 
@@ -176,7 +176,7 @@ are pleased, are you not?"
 
 
 
-"Yesterday evening at this time I was packing some books for a
+"Yesterday evening at this [[Time|time]] I was packing some books for a
 
 sea-voyage. They were the only possessions, except some clothes, seeds,
 
@@ -194,7 +194,7 @@ Her little fingers fastened on his arm; she spoke and looked affrighted.
 
 
 
-"Not now--not now. Examine my face--yes, look at me well. Is the despair
+"Not now--not now. Examine my face--yes, look at me [[Well|well]]. Is the [[Despair|despair]]
 
 of parting legible thereon?"
 
@@ -204,7 +204,7 @@ She looked into an illuminated countenance, whose characters were all
 
 beaming, though the page itself was dusk. This face, potent in the
 
-majesty of its traits, shed down on her hope, fondness, delight.
+majesty of its traits, shed down on her [[Hope|hope]], fondness, delight.
 
 
 
@@ -224,7 +224,7 @@ the cloth I have in my warehouses will be taken off my hands, and
 
 commissions given me for much more. This day lays for my fortunes a
 
-broad, firm foundation, on which, for the first time in my life, I can
+broad, firm foundation, on which, for the first [[Time|time]] in my life, I can
 
 securely build."
 
@@ -244,11 +244,11 @@ breath.
 
 
 
-"At last! Oh, Providence is kind! Thank Him, Robert."
+"At last! Oh, [[Providence]] is kind! Thank Him, Robert."
 
 
 
-"I do thank Providence."
+"I do thank [[Providence]]."
 
 
 

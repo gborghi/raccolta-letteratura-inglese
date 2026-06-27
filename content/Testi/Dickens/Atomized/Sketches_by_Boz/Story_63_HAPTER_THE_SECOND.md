@@ -23,11 +23,11 @@ feet of gravel which bordered the ‘lawn,’ on the Saturday morning which
 had been fixed upon for the Beulah Spa jaunt.
 
 ‘No, sir; I haven’t seen it,’ replied a gardener in a blue apron, who
-let himself out to do the ornamental for half-a-crown a day and his
+let himself out to do the ornamental for half-a-[[Crown|crown]] a day and his
 ‘keep.’
 
-‘Time Tottle was down,’ said Mr. Gabriel Parsons, ruminating—‘Oh, here
-he is, no doubt,’ added Gabriel, as a cab drove rapidly up the hill;
+‘[[Time]] Tottle was down,’ said Mr. Gabriel Parsons, ruminating—‘Oh, here
+he is, no [[Doubt|doubt]],’ added Gabriel, as a cab drove rapidly up the [[Hill|hill]];
 and he buttoned his dressing-gown, and opened the gate to receive the
 expected visitor. The cab stopped, and out jumped a man in a coarse
 Petersham great-coat, whity-brown neckerchief, faded black suit,
@@ -42,14 +42,14 @@ held in his hand, and addressing Gabriel with an inquiring air.
 
 ‘I’ve brought this here note,’ replied the individual in the painted
 tops, in a hoarse whisper: ‘I’ve brought this here note from a gen’lm’n
-as come to our house this mornin’.’
+as come to our [[house]] this mornin’.’
 
-‘I expected the gentleman at my house,’ said Parsons, as he broke the
+‘I expected the gentleman at my [[house]],’ said Parsons, as he broke the
 seal, which bore the impression of her Majesty’s profile as it is seen
 on a sixpence.
 
-‘I’ve no doubt the gen’lm’n would ha’ been here, replied the stranger,
-‘if he hadn’t happened to call at our house first; but we never trusts
+‘I’ve no [[Doubt|doubt]] the gen’lm’n would ha’ been here, replied the stranger,
+‘if he hadn’t happened to call at our [[house]] first; but we never trusts
 no gen’lm’n furder nor we can see him—no mistake about that
 there’—added the unknown, with a facetious grin; ‘beg your pardon, sir,
 no offence meant, only—once in, and I wish you may—catch the idea,
@@ -61,7 +61,7 @@ astonishment on his mysterious companion, and proceeded to unfold the
 note of which he had been the bearer. Once opened and the idea was
 caught with very little difficulty. Mr. Watkins Tottle had been
 suddenly arrested for 33_l._ 10_s._ 4_d._, and dated his communication
-from a lock-up house in the vicinity of Chancery-lane.
+from a lock-up [[house]] in the vicinity of Chancery-lane.
 
 ‘Unfortunate affair this!’ said Parsons, refolding the note.
 
@@ -69,23 +69,23 @@ from a lock-up house in the vicinity of Chancery-lane.
 Petersham.
 
 ‘Tom!’ exclaimed Parsons, after a few minutes’ consideration, ‘just put
-the horse in, will you?—Tell the gentleman that I shall be there almost
+the [[Horse|horse]] in, will you?—Tell the gentleman that I shall be there almost
 as soon as you are,’ he continued, addressing the sheriff-officer’s
 Mercury.
 
-‘Werry well,’ replied that important functionary; adding, in a
+‘Werry [[Well|well]],’ replied that important functionary; adding, in a
 confidential manner, ‘I’d adwise the gen’lm’n’s friends to settle. You
 see it’s a mere trifle; and, unless the gen’lm’n means to go up afore
-the court, it’s hardly worth while waiting for detainers, you know. Our
+the [[Court|court]], it’s hardly worth while waiting for detainers, you know. Our
 governor’s wide awake, he is. I’ll never say nothin’ agin him, nor no
-man; but he knows what’s o’clock, he does, uncommon.’ Having delivered
+man; but he knows what’s o’[[Clock|clock]], he does, uncommon.’ Having delivered
 this eloquent, and, to Parsons, particularly intelligible harangue, the
 meaning of which was eked out by divers nods and winks, the gentleman
 in the boots reseated himself in the cab, which went rapidly off, and
 was soon out of sight. Mr. Gabriel Parsons continued to pace up and
 down the pathway for some minutes, apparently absorbed in deep
 meditation. The result of his cogitations seemed to be perfectly
-satisfactory to himself, for he ran briskly into the house; said that
+satisfactory to himself, for he ran briskly into the [[house]]; said that
 business had suddenly summoned him to town; that he had desired the
 messenger to inform Mr. Watkins Tottle of the fact; and that they would
 return together to dinner. He then hastily equipped himself for a
@@ -95,7 +95,7 @@ in Cursitor-street, Chancery-lane.
 
 When a man is in a violent hurry to get on, and has a specific object
 in view, the attainment of which depends on the completion of his
-journey, the difficulties which interpose themselves in his way appear
+[[Journey|journey]], the difficulties which interpose themselves in his way appear
 not only to be innumerable, but to have been called into existence
 especially for the occasion. The remark is by no means a new one, and
 Mr. Gabriel Parsons had practical and painful experience of its justice
@@ -104,23 +104,23 @@ which prevent your driving with any degree of comfort or celerity
 through streets which are but little frequented—they are pigs,
 children, and old women. On the occasion we are describing, the pigs
 were luxuriating on cabbage-stalks, and the shuttlecocks fluttered from
-the little deal battledores, and the children played in the road; and
+the little deal battledores, and the children played in the [[Road|road]]; and
 women, with a basket in one hand, and the street-door key in the other,
-_would_ cross just before the horse’s head, until Mr. Gabriel Parsons
+_would_ [[Cross|cross]] just before the [[Horse|horse]]’s head, until Mr. Gabriel Parsons
 was perfectly savage with vexation, and quite hoarse with hoi-ing and
 imprecating. Then, when he got into Fleet-street, there was ‘a
 stoppage,’ in which people in vehicles have the satisfaction of
 remaining stationary for half an hour, and envying the slowest
 pedestrians; and where policemen rush about, and seize hold of horses’
-bridles, and back them into shop-windows, by way of clearing the road
+bridles, and back them into shop-windows, by way of clearing the [[Road|road]]
 and preventing confusion. At length Mr. Gabriel Parsons turned into
 Chancery-lane, and having inquired for, and been directed to
 Cursitor-street (for it was a locality of which he was quite ignorant),
-he soon found himself opposite the house of Mr. Solomon Jacobs.
-Confiding his horse and gig to the care of one of the fourteen boys who
+he soon found himself opposite the [[house]] of Mr. Solomon Jacobs.
+Confiding his [[Horse|horse]] and gig to the care of one of the fourteen boys who
 had followed him from the other side of Blackfriars-bridge on the
 chance of his requiring their services, Mr. Gabriel Parsons crossed the
-road and knocked at an inner door, the upper part of which was of
+[[Road|road]] and knocked at an inner door, the upper part of which was of
 glass, grated like the windows of this inviting mansion with iron
 bars—painted white to look comfortable.
 
@@ -138,7 +138,7 @@ had just brought her chin to a level with the passage-floor. ‘The
 gentleman’s in the coffee-room.’
 
 ‘Up-stairs, sir,’ said the boy, just opening the door wide enough to
-let Parsons in without squeezing him, and double-locking it the moment
+let Parsons in without squeezing him, and [[Double|double]]-locking it the moment
 he had made his way through the aperture—‘First floor—door on the
 left.’
 
@@ -152,17 +152,17 @@ object of his visit had just gone up-stairs to write a letter, he had
 leisure to sit down and observe the scene before him.
 
 The room—which was a small, confined den—was partitioned off into
-boxes, like the common-room of some inferior eating-house. The dirty
+boxes, like the common-room of some inferior eating-[[house]]. The dirty
 floor had evidently been as long a stranger to the scrubbing-brush as
 to carpet or floor-cloth: and the ceiling was completely blackened by
-the flare of the oil-lamp by which the room was lighted at night. The
+the flare of the oil-lamp by which the room was lighted at [[Night|night]]. The
 gray ashes on the edges of the tables, and the cigar ends which were
 plentifully scattered about the dusty grate, fully accounted for the
 intolerable smell of tobacco which pervaded the place; and the empty
 glasses and half-saturated slices of lemon on the tables, together with
 the porter pots beneath them, bore testimony to the frequent libations
 in which the individuals who honoured Mr. Solomon Jacobs by a temporary
-residence in his house indulged. Over the mantel-shelf was a paltry
+residence in his [[house]] indulged. Over the mantel-shelf was a paltry
 looking-glass, extending about half the width of the chimney-piece; but
 by way of counterpoise, the ashes were confined by a rusty fender about
 twice as long as the hearth.
@@ -193,12 +193,12 @@ lighting a pipe, and addressing his adversary at the close of the game;
 ‘one ’ud think you’d got luck in a pepper-cruet, and shook it out when
 you wanted it.’
 
-‘Well, that a’n’t a bad un,’ replied the other, who was a horse-dealer
+‘[[Well]], that a’n’t a bad un,’ replied the other, who was a [[Horse|horse]]-dealer
 from Islington.
 
 ‘No; I’m blessed if it is,’ interposed the jolly-looking fellow, who,
 having finished his dinner, was drinking out of the same glass as his
-wife, in truly conjugal harmony, some hot gin-and-water. The faithful
+wife, in truly conjugal harmony, some hot gin-and-[[Water|water]]. The faithful
 partner of his cares had brought a plentiful supply of the
 anti-temperance fluid in a large flat stone bottle, which looked like a
 half-gallon jar that had been successfully tapped for the dropsy.
@@ -208,7 +208,7 @@ this, sir?’
 ‘Thank’ee, sir,’ replied Mr. Walker, leaving his box, and advancing to
 the other to accept the proffered glass. ‘Here’s your health, sir, and
 your good ’ooman’s here. Gentlemen all—yours, and better luck still.
-Well, Mr. Willis,’ continued the facetious prisoner, addressing the
+[[Well]], Mr. Willis,’ continued the facetious prisoner, addressing the
 young man with the cigar, ‘you seem rather down to-day—floored, as one
 may say. What’s the matter, sir? Never say die, you know.’
 
@@ -227,20 +227,20 @@ winking to the company. ‘Not that you’re exactly obliged to stop here,
 only you can’t help it. No compulsion, you know, only you must—eh?’
 
 ‘A’n’t he a rum un?’ inquired the delighted individual, who had offered
-the gin-and-water, of his wife.
+the gin-and-[[Water|water]], of his wife.
 
 ‘Oh, he just is!’ replied the lady, who was quite overcome by these
-flashes of imagination.
+flashes of [[Imagination|imagination]].
 
 ‘Why, my case,’ frowned the victim, throwing the end of his cigar into
-the fire, and illustrating his argument by knocking the bottom of the
+the [[Fire|fire]], and illustrating his argument by knocking the [[Bottom|bottom]] of the
 pot on the table, at intervals,—‘my case is a very singular one. My
 father’s a man of large property, and I am his son.’
 
 ‘That’s a very strange circumstance!’ interrupted the jocose Mr.
 Walker, _en passant_.
 
-‘—I am his son, and have received a liberal education. I don’t owe no
+‘—I am his son, and have received a liberal [[Education|education]]. I don’t owe no
 man nothing—not the value of a farthing, but I was induced, you see, to
 put my name to some bills for a friend—bills to a large amount, I may
 say a very large amount, for which I didn’t receive no consideration.
@@ -259,12 +259,12 @@ with a somewhat sceptical air.
 ‘Oh! bless you, he’d never do it,’ replied the other, in a tone of
 expostulation—‘Never!’
 
-‘Well, it is very odd to—be—sure,’ interposed the owner of the flat
+‘[[Well]], it is very odd to—be—sure,’ interposed the owner of the flat
 bottle, mixing another glass, ‘but I’ve been in difficulties, as one
 may say, now for thirty year. I went to pieces when I was in a
 milk-walk, thirty year ago; arterwards, when I was a fruiterer, and
-kept a spring wan; and arter that again in the coal and ’tatur line—but
-all that time I never see a youngish chap come into a place of this
+kept a [[spring]] wan; and arter that again in the coal and ’tatur line—but
+all that [[Time|time]] I never see a youngish chap come into a place of this
 kind, who wasn’t going out again directly, and who hadn’t been arrested
 on bills which he’d given a friend and for which he’d received nothing
 whatsomever—not a fraction.’
@@ -274,7 +274,7 @@ that’s what makes me so wild. Why, I should have a much better opinion
 of an individual, if he’d say at once in an honourable and gentlemanly
 manner as he’d done everybody he possibly could.’
 
-‘Ay, to be sure,’ interposed the horse-dealer, with whose notions of
+‘Ay, to be sure,’ interposed the [[Horse|horse]]-dealer, with whose notions of
 bargain and sale the axiom perfectly coincided, ‘so should I.’ The
 young gentleman, who had given rise to these observations, was on the
 point of offering a rather angry reply to these sneers, but the rising
@@ -285,15 +285,15 @@ her excited feelings and delicate frame, rendered the support of her
 companion necessary as they quitted it together.
 
 There was an air of superiority about them both, and something in their
-appearance so unusual in such a place, that a respectful silence was
-observed until the _whirr—r—bang_ of the spring door announced that
+appearance so unusual in such a place, that a respectful [[Silence|silence]] was
+observed until the _whirr—r—bang_ of the [[spring]] door announced that
 they were out of hearing. It was broken by the wife of the
 ex-fruiterer.
 
 ‘Poor creetur!’ said she, quenching a sigh in a rivulet of
-gin-and-water. ‘She’s very young.’
+gin-and-[[Water|water]]. ‘She’s very young.’
 
-‘She’s a nice-looking ’ooman too,’ added the horse-dealer.
+‘She’s a nice-looking ’ooman too,’ added the [[Horse|horse]]-dealer.
 
 ‘What’s he in for, Ikey?’ inquired Walker, of an individual who was
 spreading a cloth with numerous blotches of mustard upon it, on one of
@@ -302,7 +302,7 @@ recognising as the man who had called upon him in the morning.
 
 ‘Vy,’ responded the factotum, ‘it’s one of the rummiest rigs you ever
 heard on. He come in here last Vensday, which by-the-bye he’s a-going
-over the water to-night—hows’ever that’s neither here nor there. You
+over the [[Water|water]] to-[[Night|night]]—hows’ever that’s neither here nor there. You
 see I’ve been a going back’ards and for’ards about his business, and
 ha’ managed to pick up some of his story from the servants and them;
 and so far as I can make it out, it seems to be summat to this here
@@ -312,11 +312,11 @@ effect—’
 experience that he of the top-boots was neither very concise nor
 intelligible in his narratives.
 
-‘Let me alone,’ replied Ikey, ‘and I’ll ha’ wound up, and made my lucky
+‘Let me [[Alone|alone]],’ replied Ikey, ‘and I’ll ha’ wound up, and made my lucky
 in five seconds. This here young gen’lm’n’s father—so I’m told, mind
 ye—and the father o’ the young voman, have always been on very bad,
 out-and-out, rig’lar knock-me-down sort o’ terms; but somehow or
-another, when he was a wisitin’ at some gentlefolk’s house, as he
+another, when he was a wisitin’ at some gentlefolk’s [[house]], as he
 knowed at college, he came into contract with the young lady. He seed
 her several times, and then he up and said he’d keep company with her,
 if so be as she vos agreeable. Vell, she vos as sweet upon him as he
@@ -328,12 +328,12 @@ such a combustion! Starvation vos the very least that vos to be done to
 himself off vith a wife; and the young lady’s father he behaved even
 worser and more unnat’ral, for he not only blow’d her up dreadful, and
 swore he’d never see her again, but he employed a chap as I knows—and
-as you knows, Mr. Valker, a precious sight too well—to go about and buy
+as you knows, Mr. Valker, a precious sight too [[Well|well]]—to go about and buy
 up the bills and them things on which the young husband, thinking his
 governor ’ud come round agin, had raised the vind just to blow himself
-on vith for a time; besides vich, he made all the interest he could to
+on vith for a [[Time|time]]; besides vich, he made all the interest he could to
 set other people agin him. Consequence vos, that he paid as long as he
-could; but things he never expected to have to meet till he’d had time
+could; but things he never expected to have to meet till he’d had [[Time|time]]
 to turn himself round, come fast upon him, and he vos nabbed. He vos
 brought here, as I said afore, last Vensday, and I think there’s
 about—ah, half-a-dozen detainers agin him down-stairs now. I have
@@ -357,7 +357,7 @@ might remain in the room under the pretext of having something to do.
 could be game as you call it, Mr. Walker, with a pale young creetur
 like that, hanging about him?—It’s enough to drive any man’s heart into
 his boots to see ’em together—and no mistake at all about it. I never
-shall forget her first comin’ here; he wrote to her on the Thursday to
+shall forget her first comin’ here; he wrote to her on the [[thursday|Thursday]] to
 come—I know he did, ’cos I took the letter. Uncommon fidgety he was all
 day to be sure, and in the evening he goes down into the office, and he
 says to Jacobs, says he, “Sir, can I have the loan of a private room
@@ -365,15 +365,15 @@ for a few minutes this evening, without incurring any additional
 expense—just to see my wife in?” says he. Jacobs looked as much as to
 say—“Strike me bountiful if you ain’t one of the modest sort!” but as
 the gen’lm’n who had been in the back parlour had just gone out, and
-had paid for it for that day, he says—werry grave—“Sir,” says he, “it’s
+had paid for it for that day, he says—werry [[Grave|grave]]—“Sir,” says he, “it’s
 agin our rules to let private rooms to our lodgers on gratis terms,
 but,” says he, “for a gentleman, I don’t mind breaking through them for
 once.” So then he turns round to me, and says, “Ikey, put two mould
 candles in the back parlour, and charge ’em to this gen’lm’n’s
 account,” vich I did. Vell, by-and-by a hackney-coach comes up to the
 door, and there, sure enough, was the young lady, wrapped up in a
-hopera-cloak, as it might be, and all alone. I opened the gate that
-night, so I went up when the coach come, and he vos a waitin’ at the
+hopera-cloak, as it might be, and all [[Alone|alone]]. I opened the gate that
+[[Night|night]], so I went up when the coach come, and he vos a waitin’ at the
 parlour door—and wasn’t he a trembling, neither? The poor creetur see
 him, and could hardly walk to meet him. “Oh, Harry!” she says, “that it
 should have come to this; and all for my sake,” says she, putting her
@@ -385,7 +385,7 @@ Kate,” says he—’
 ‘Here’s the gentleman you want,’ said Ikey, abruptly breaking off in
 his story, and introducing Mr. Gabriel Parsons to the crest-fallen
 Watkins Tottle, who at that moment entered the room. Watkins advanced
-with a wooden expression of passive endurance, and accepted the hand
+with a wooden expression of passive [[Endurance|endurance]], and accepted the hand
 which Mr. Gabriel Parsons held out.
 
 ‘I want to speak to you,’ said Gabriel, with a look strongly expressive
@@ -395,13 +395,13 @@ of his dislike of the company.
 drawing-room, where rich debtors did the luxurious at the rate of a
 couple of guineas a day.
 
-‘Well, here I am,’ said Mr. Watkins, as he sat down on the sofa; and
+‘[[Well]], here I am,’ said Mr. Watkins, as he sat down on the sofa; and
 placing the palms of his hands on his knees, anxiously glanced at his
 friend’s countenance.
 
 ‘Yes; and here you’re likely to be,’ said Gabriel, coolly, as he
 rattled the money in his unmentionable pockets, and looked out of the
-window.
+[[Window|window]].
 
 ‘What’s the amount with the costs?’ inquired Parsons, after an awkward
 pause.
@@ -422,7 +422,7 @@ owe me fifty pounds.’
 
 ‘And from all I see, I infer that you are likely to owe it to me.’
 
-‘I fear I am.’
+‘I [[Fear|fear]] I am.’
 
 ‘Though you have every disposition to pay me if you could?’
 
@@ -431,7 +431,7 @@ owe me fifty pounds.’
 ‘Then,’ said Mr. Gabriel Parsons, ‘listen: here’s my proposition. You
 know my way of old. Accept it—yes or no—I will or I won’t. I’ll pay the
 debt and costs, and I’ll lend you 10_l._ more (which, added to your
-annuity, will enable you to carry on the war well) if you’ll give me
+annuity, will enable you to carry on the war [[Well|well]]) if you’ll give me
 your note of hand to pay me one hundred and fifty pounds within six
 months after you are married to Miss Lillerton.’
 
@@ -442,7 +442,7 @@ Lillerton at once.’
 
 ‘At once! My dear Parsons, consider.’
 
-‘It’s for you to consider, not me. She knows you well from reputation,
+‘It’s for you to consider, not me. She knows you [[Well|well]] from reputation,
 though she did not know you personally until lately. Notwithstanding
 all her maiden modesty, I think she’d be devilish glad to get married
 out of hand with as little delay as possible. My wife has sounded her
@@ -456,7 +456,7 @@ but my wife, who is no bad judge in these cases, declared to me that
 what she had confessed was as good as to say that she was not
 insensible of your merits—in fact, that no other man should have her.’
 
-Mr. Watkins Tottle rose hastily from his seat, and rang the bell.
+Mr. Watkins Tottle [[Rose|rose]] hastily from his seat, and rang the bell.
 
 ‘What’s that for?’ inquired Parsons.
 
@@ -472,19 +472,19 @@ Jacobs’s establishment, on which most of his visitors were very happy
 when they found themselves once again—to wit, the _out_side.
 
 ‘Now,’ said Mr. Gabriel Parsons, as they drove to Norwood together—‘you
-shall have an opportunity to make the disclosure to-night, and mind you
+shall have an opportunity to make the disclosure to-[[Night|night]], and mind you
 speak out, Tottle.’
 
 ‘I will—I will!’ replied Watkins, valorously.
 
 ‘How I should like to see you together,’ ejaculated Mr. Gabriel
 Parsons.—‘What fun!’ and he laughed so long and so loudly, that he
-disconcerted Mr. Watkins Tottle, and frightened the horse.
+disconcerted Mr. Watkins Tottle, and frightened the [[Horse|horse]].
 
 ‘There’s Fanny and your intended walking about on the lawn,’ said
-Gabriel, as they approached the house. ‘Mind your eye, Tottle.’
+Gabriel, as they approached the [[house]]. ‘Mind your eye, Tottle.’
 
-‘Never fear,’ replied Watkins, resolutely, as he made his way to the
+‘Never [[Fear|fear]],’ replied Watkins, resolutely, as he made his way to the
 spot where the ladies were walking.
 
 ‘Here’s Mr. Tottle, my dear,’ said Mrs. Parsons, addressing Miss
@@ -502,13 +502,13 @@ somebody else,’ replied Tottle.
 ‘Pooh, nonsense!’ whispered Parsons again—‘it’s always the way with the
 women, young or old. They never show how delighted they are to see
 those whose presence makes their hearts beat. It’s the way with the
-whole sex, and no man should have lived to your time of life without
+whole sex, and no man should have lived to your [[Time|time]] of life without
 knowing it. Fanny confessed it to me, when we were first married, over
 and over again—see what it is to have a wife.’
 
-‘Certainly,’ whispered Tottle, whose courage was vanishing fast.
+‘Certainly,’ whispered Tottle, whose [[Courage|courage]] was vanishing fast.
 
-‘Well, now, you’d better begin to pave the way,’ said Parsons, who,
+‘[[Well]], now, you’d better begin to pave the way,’ said Parsons, who,
 having invested some money in the speculation, assumed the office of
 director.
 
@@ -520,9 +520,9 @@ a compliment, can’t you?’
 ‘No! not till after dinner,’ replied the bashful Tottle, anxious to
 postpone the evil moment.
 
-‘Well, gentlemen,’ said Mrs. Parsons, ‘you are really very polite; you
+‘[[Well]], gentlemen,’ said Mrs. Parsons, ‘you are really very polite; you
 stay away the whole morning, after promising to take us out, and when
-you do come home, you stand whispering together and take no notice of
+you do come [[Home|home]], you stand whispering together and take no notice of
 us.’
 
 ‘We were talking of the _business_, my dear, which detained us this
@@ -542,7 +542,7 @@ whether it required it or not.
 madam,’ said Watkins, ‘and that of Mrs. Parsons.’
 
 During this short dialogue, the ladies had been leading the way to the
-house.
+[[house]].
 
 ‘What the deuce did you stick Fanny into that last compliment for?’
 inquired Parsons, as they followed together; ‘it quite spoilt the
@@ -560,14 +560,14 @@ drawing-room, ‘mad from modesty.’
 Parsons, when they sat down to table: ‘Miss Lillerton is one of us,
 and, of course, we make no stranger of you.’
 
-Mr. Watkins Tottle expressed a hope that the Parsons family never would
+Mr. Watkins Tottle expressed a [[Hope|hope]] that the Parsons family never would
 make a stranger of him; and wished internally that his bashfulness
 would allow him to feel a little less like a stranger himself.
 
 ‘Take off the covers, Martha,’ said Mrs. Parsons, directing the
 shifting of the scenery with great anxiety. The order was obeyed, and a
 pair of boiled fowls, with tongue and et ceteras, were displayed at the
-top, and a fillet of veal at the bottom. On one side of the table two
+top, and a fillet of veal at the [[Bottom|bottom]]. On one side of the table two
 green sauce-tureens, with ladles of the same, were setting to each
 other in a green dish; and on the other was a curried rabbit, in a
 brown suit, turned up with lemon.
@@ -577,7 +577,7 @@ brown suit, turned up with lemon.
 ‘Thank you, no; I think I’ll trouble Mr. Tottle.’
 
 Watkins started—trembled—helped the rabbit—and broke a tumbler. The
-countenance of the lady of the house, which had been all smiles
+countenance of the lady of the [[house]], which had been all smiles
 previously, underwent an awful change.
 
 ‘Extremely sorry,’ stammered Watkins, assisting himself to currie and
@@ -607,7 +607,7 @@ circumstances, was really extraordinary.
 you.’ (The usual pantomimic ceremony of nodding and sipping gone
 through)—
 
-‘Tottle, were you ever in Suffolk?’ inquired the master of the house,
+‘Tottle, were you ever in Suffolk?’ inquired the master of the [[house]],
 who was burning to tell one of his seven stock stories.
 
 ‘No,’ responded Watkins, adding, by way of a saving clause, ‘but I’ve
@@ -621,7 +621,7 @@ Mr. Watkins Tottle _had_ happened to hear his friend mention it some
 four hundred times. Of course he expressed great curiosity, and evinced
 the utmost impatience to hear the story again. Mr. Gabriel Parsons
 forthwith attempted to proceed, in spite of the interruptions to which,
-as our readers must frequently have observed, the master of the house
+as our readers must frequently have observed, the master of the [[house]]
 is often exposed in such cases. We will attempt to give them an idea of
 our meaning.
 
@@ -632,10 +632,10 @@ pardon, my dear.’
 
 ‘When I was in Suffolk,’ resumed Mr. Parsons, with an impatient glance
 at his wife, who pretended not to observe it, ‘which is now years ago,
-business led me to the town of Bury St. Edmund’s. I had to stop at the
+business led me to the town of Bury St. [[Edmund]]’s. I had to stop at the
 principal places in my way, and therefore, for the sake of convenience,
-I travelled in a gig. I left Sudbury one dark night—it was winter
-time—about nine o’clock; the rain poured in torrents, the wind howled
+I travelled in a gig. I left Sudbury one dark [[Night|night]]—it was [[Winter|winter]]
+[[Time|time]]—about nine o’[[Clock|clock]]; the rain poured in torrents, the [[Wind|wind]] howled
 among the trees that skirted the roadside, and I was obliged to proceed
 at a foot-pace, for I could hardly see my hand before me, it was so
 dark—’
@@ -644,26 +644,26 @@ dark—’
 that gravy.’
 
 ‘Fanny,’ said Parsons impatiently, ‘I wish you’d defer these domestic
-reproofs to some more suitable time. Really, my dear, these constant
+reproofs to some more suitable [[Time|time]]. Really, my dear, these constant
 interruptions are very annoying.’
 
 ‘My dear, I didn’t interrupt you,’ said Mrs. Parsons.
 
 ‘But, my dear, you _did_ interrupt me,’ remonstrated Mr. Parsons.
 
-‘How very absurd you are, my love! I must give directions to the
+‘How very absurd you are, my [[Love|love]]! I must give directions to the
 servants; I am quite sure that if I sat here and allowed John to spill
 the gravy over the new carpet, you’d be the first to find fault when
 you saw the stain to-morrow morning.’
 
-‘Well,’ continued Gabriel with a resigned air, as if he knew there was
+‘[[Well]],’ continued Gabriel with a resigned air, as if he knew there was
 no getting over the point about the carpet, ‘I was just saying, it was
-so dark that I could hardly see my hand before me. The road was very
+so dark that I could hardly see my hand before me. The [[Road|road]] was very
 lonely, and I assure you, Tottle (this was a device to arrest the
 wandering attention of that individual, which was distracted by a
 confidential communication between Mrs. Parsons and Martha, accompanied
 by the delivery of a large bunch of keys), I assure you, Tottle, I
-became somehow impressed with a sense of the loneliness of my
+became somehow impressed with a sense of the [[Loneliness|loneliness]] of my
 situation—’
 
 ‘Pie to your master,’ interrupted Mrs. Parsons, again directing the
@@ -671,10 +671,10 @@ servant.
 
 ‘Now, pray, my dear,’ remonstrated Parsons once more, very pettishly.
 Mrs. P. turned up her hands and eyebrows, and appealed in dumb show to
-Miss Lillerton. ‘As I turned a corner of the road,’ resumed Gabriel,
-‘the horse stopped short, and reared tremendously. I pulled up, jumped
+Miss Lillerton. ‘As I turned a corner of the [[Road|road]],’ resumed Gabriel,
+‘the [[Horse|horse]] stopped short, and reared tremendously. I pulled up, jumped
 out, ran to his head, and found a man lying on his back in the middle
-of the road, with his eyes fixed on the sky. I thought he was dead; but
+of the [[Road|road]], with his eyes fixed on the sky. I thought he was dead; but
 no, he was alive, and there appeared to be nothing the matter with him.
 He jumped up, and putting his hand to his chest, and fixing upon me the
 most earnest gaze you can imagine, exclaimed—’
@@ -694,7 +694,7 @@ Really what she had to endure sometimes, was more than any one who saw
 her in every-day life could by possibility suppose.—The story was now a
 painful subject, and therefore Mr. Parsons declined to enter into any
 details, and contented himself by stating that the man was a maniac,
-who had escaped from a neighbouring mad-house.
+who had escaped from a neighbouring mad-[[house]].
 
 The cloth was removed; the ladies soon afterwards retired, and Miss
 Lillerton played the piano in the drawing-room overhead, very loudly,
@@ -702,7 +702,7 @@ for the edification of the visitor. Mr. Watkins Tottle and Mr. Gabriel
 Parsons sat chatting comfortably enough, until the conclusion of the
 second bottle, when the latter, in proposing an adjournment to the
 drawing-room, informed Watkins that he had concerted a plan with his
-wife, for leaving him and Miss Lillerton alone, soon after tea.
+wife, for leaving him and Miss Lillerton [[Alone|alone]], soon after tea.
 
 ‘I say,’ said Tottle, as they went up-stairs, ‘don’t you think it would
 be better if we put it off till-till-to-morrow?’
@@ -711,15 +711,15 @@ be better if we put it off till-till-to-morrow?’
 that wretched hole I found you in this morning?’ retorted Parsons
 bluntly.
 
-‘Well—well—I only made a suggestion,’ said poor Watkins Tottle, with a
+‘[[Well]]—[[Well|well]]—I only made a suggestion,’ said poor Watkins Tottle, with a
 deep sigh.
 
 Tea was soon concluded, and Miss Lillerton, drawing a small work-table
-on one side of the fire, and placing a little wooden frame upon it,
-something like a miniature clay-mill without the horse, was soon busily
+on one side of the [[Fire|fire]], and placing a little wooden frame upon it,
+something like a miniature clay-mill without the [[Horse|horse]], was soon busily
 engaged in making a watch-guard with brown silk.
 
-‘God bless me!’ exclaimed Parsons, starting up with well-feigned
+‘God bless me!’ exclaimed Parsons, starting up with [[Well|well]]-feigned
 surprise, ‘I’ve forgotten those confounded letters. Tottle, I know
 you’ll excuse me.’
 
@@ -731,11 +731,11 @@ He had scarcely left, when Martha put her head into the room,
 with—‘Please, ma’am, you’re wanted.’
 
 Mrs. Parsons left the room, shut the door carefully after her, and Mr.
-Watkins Tottle was left alone with Miss Lillerton.
+Watkins Tottle was left [[Alone|alone]] with Miss Lillerton.
 
-For the first five minutes there was a dead silence.—Mr. Watkins Tottle
+For the first five minutes there was a dead [[Silence|silence]].—Mr. Watkins Tottle
 was thinking how he should begin, and Miss Lillerton appeared to be
-thinking of nothing. The fire was burning low; Mr. Watkins Tottle
+thinking of nothing. The [[Fire|fire]] was burning low; Mr. Watkins Tottle
 stirred it, and put some coals on.
 
 ‘Hem!’ coughed Miss Lillerton; Mr. Watkins Tottle thought the fair
@@ -753,7 +753,7 @@ creature had spoken. ‘I beg your pardon,’ said he.
 look at them,’ said Miss Lillerton, after the lapse of another five
 minutes.
 
-‘No, thank you,’ returned Watkins; and then he added, with a courage
+‘No, thank you,’ returned Watkins; and then he added, with a [[Courage|courage]]
 which was perfectly astonishing, even to himself, ‘Madam, that is Miss
 Lillerton, I wish to speak to you.’
 
@@ -761,12 +761,12 @@ Lillerton, I wish to speak to you.’
 sliding her chair back a few paces.—‘Speak—to me!’
 
 ‘To you, madam—and on the subject of the state of your affections.’ The
-lady hastily rose and would have left the room; but Mr. Watkins Tottle
+lady hastily [[Rose|rose]] and would have left the room; but Mr. Watkins Tottle
 gently detained her by the hand, and holding it as far from him as the
 joint length of their arms would permit, he thus proceeded: ‘Pray do
 not misunderstand me, or suppose that I am led to address you, after so
 short an acquaintance, by any feeling of my own merits—for merits I
-have none which could give me a claim to your hand. I hope you will
+have none which could give me a claim to your hand. I [[Hope|hope]] you will
 acquit me of any presumption when I explain that I have been acquainted
 through Mrs. Parsons, with the state—that is, that Mrs. Parsons has
 told me—at least, not Mrs. Parsons, but—’ here Watkins began to wander,
@@ -783,7 +783,7 @@ girlish air, ‘what could induce _you_ to seek such an interview as
 this? What can your object be? How can I promote your happiness, Mr.
 Tottle?’
 
-Here was the time for a flourish—‘By allowing me,’ replied Watkins,
+Here was the [[Time|time]] for a flourish—‘By allowing me,’ replied Watkins,
 falling bump on his knees, and breaking two brace-buttons and a
 waistcoat-string, in the act—‘By allowing me to be your slave, your
 servant—in short, by unreservedly making me the confidant of your
@@ -840,7 +840,7 @@ up fortitude enough to name the day to my future husband.’
 ‘but I cannot do so without at once resorting to a third party.’
 
 ‘A third party!’ thought Watkins Tottle; ‘who the deuce is that to be,
-I wonder!’
+I [[Wonder|wonder]]!’
 
 ‘Mr. Tottle,’ continued Miss Lillerton, ‘you have made me a most
 disinterested and kind offer—that offer I accept. Will you at once be
@@ -853,7 +853,7 @@ averting her head, ‘you must understand whom I mean; Mr. Timson,
 the—the—clergyman.’
 
 ‘Mr. Timson, the clergyman!’ ejaculated Watkins Tottle, in a state of
-inexpressible beatitude, and positive wonder at his own success.
+inexpressible beatitude, and positive [[Wonder|wonder]] at his own [[success]].
 ‘Angel! Certainly—this moment!’
 
 ‘I’ll prepare it immediately,’ said Miss Lillerton, making for the
@@ -872,7 +872,7 @@ Mr. Watkins Tottle flung himself into an arm-chair, and indulged in the
 most delicious reveries of future bliss, in which the idea of ‘Five
 hundred pounds per annum, with an uncontrolled power of disposing of it
 by her last will and testament,’ was somehow or other the foremost. He
-had gone through the interview so well, and it had terminated so
+had gone through the interview so [[Well|well]], and it had terminated so
 admirably, that he almost began to wish he had expressly stipulated for
 the settlement of the annual five hundred on himself.
 
@@ -880,22 +880,22 @@ the settlement of the annual five hundred on himself.
 
 ‘You may,’ replied Watkins.
 
-‘Well, have you done it?’ anxiously inquired Gabriel.
+‘[[Well]], have you done it?’ anxiously inquired Gabriel.
 
 ‘Have I done it!’ said Watkins Tottle. ‘Hush—I’m going to the
 clergyman.’
 
-‘No!’ said Parsons. ‘How well you have managed it!’
+‘No!’ said Parsons. ‘How [[Well|well]] you have managed it!’
 
 ‘Where does Timson live?’ inquired Watkins.
 
 ‘At his uncle’s,’ replied Gabriel, ‘just round the lane. He’s waiting
 for a living, and has been assisting his uncle here for the last two or
-three months. But how well you have done it—I didn’t think you could
+three months. But how [[Well|well]] you have done it—I didn’t think you could
 have carried it off so!’
 
 Mr. Watkins Tottle was proceeding to demonstrate that the Richardsonian
-principle was the best on which love could possibly be made, when he
+principle was the best on which [[Love|love]] could possibly be made, when he
 was interrupted by the entrance of Martha, with a little pink note
 folded like a fancy cocked-hat.
 
@@ -911,15 +911,15 @@ Mr. Watkins Tottle.
 
 ‘Come,’ said Watkins, when the explosion of mirth, consequent on this
 practical jest, had subsided, ‘we’ll be off at once—let’s lose no
-time.’
+[[Time|time]].’
 
 ‘Capital!’ echoed Gabriel Parsons; and in five minutes they were at the
-garden-gate of the villa tenanted by the uncle of Mr. Timson.
+[[Garden|garden]]-gate of the villa tenanted by the uncle of Mr. Timson.
 
-‘Is Mr. Charles Timson at home?’ inquired Mr. Watkins Tottle of Mr.
+‘Is Mr. Charles Timson at [[Home|home]]?’ inquired Mr. Watkins Tottle of Mr.
 Charles Timson’s uncle’s man.
 
-‘Mr. Charles _is_ at home,’ replied the man, stammering; ‘but he
+‘Mr. Charles _is_ at [[Home|home]],’ replied the man, stammering; ‘but he
 desired me to say he couldn’t be interrupted, sir, by any of the
 parishioners.’
 
@@ -932,7 +932,7 @@ himself forward.
 practising the violoncello in his own bedroom, and gave strict orders
 not to be disturbed.’
 
-‘Say I’m here,’ replied Gabriel, leading the way across the garden;
+‘Say I’m here,’ replied Gabriel, leading the way across the [[Garden|garden]];
 ‘Mr. Parsons and Mr. Tottle, on private and particular business.’
 
 They were shown into the parlour, and the servant departed to deliver
@@ -956,7 +956,7 @@ Mr. Watkins Tottle sat down; and while Timson perused the note, fixed
 his eyes on an oyster-sauce-coloured portrait of the Archbishop of
 Canterbury, which hung over the fireplace.
 
-Mr. Timson rose from his seat when he had concluded the note, and
+Mr. Timson [[Rose|rose]] from his seat when he had concluded the note, and
 looked dubiously at Parsons. ‘May I ask,’ he inquired, appealing to
 Watkins Tottle, ‘whether our friend here is acquainted with the object
 of your visit?’
@@ -979,11 +979,11 @@ Mr. Watkins Tottle could not help thinking that this last remark was
 anything but complimentary. He therefore inquired, rather hastily,
 ‘When is it to be?’
 
-‘On Thursday,’ replied Timson,—‘on Thursday morning at half-past
+‘On [[thursday|Thursday]],’ replied Timson,—‘on [[thursday|Thursday]] morning at half-past
 eight.’
 
 ‘Uncommonly early,’ observed Watkins Tottle, with an air of triumphant
-self-denial. ‘I shall hardly be able to get down here by that hour.’
+[[Self|self]]-denial. ‘I shall hardly be able to get down here by that hour.’
 (This was intended for a joke.)
 
 ‘Never mind, my dear fellow,’ replied Timson, all suavity, shaking
@@ -1016,7 +1016,7 @@ goodness to tell me in three words the contents of that note?’
 ‘This note,’ replied Timson, ‘is from Miss Lillerton, to whom I have
 been for the last five weeks regularly engaged. Her singular scruples
 and strange feeling on some points have hitherto prevented my bringing
-the engagement to that termination which I so anxiously desire. She
+the engagement to that termination which I so anxiously [[Desire|desire]]. She
 informs me here, that she sounded Mrs. Parsons with the view of making
 her her confidante and go-between, that Mrs. Parsons informed this
 elderly gentleman, Mr. Tottle, of the circumstance, and that he, in the
@@ -1025,7 +1025,7 @@ undertook to convey this note, which contains the promise I have long
 sought in vain—an act of kindness for which I can never be sufficiently
 grateful.’
 
-‘Good night, Timson,’ said Parsons, hurrying off, and carrying the
+‘Good [[Night|night]], Timson,’ said Parsons, hurrying off, and carrying the
 bewildered Tottle with him.
 
 ‘Won’t you stay—and have something?’ said Timson.
@@ -1045,9 +1045,9 @@ Gabriel.
 
 ‘I don’t know anything about it,’ replied the bewildered Tottle.
 
-‘Well,’ said Parsons, turning on his heel to go home, ‘the next time
+‘[[Well]],’ said Parsons, turning on his heel to go [[Home|home]], ‘the next [[Time|time]]
 you make an offer, you had better speak plainly, and don’t throw a
-chance away. And the next time you’re locked up in a spunging-house,
+chance away. And the next [[Time|time]] you’re locked up in a spunging-[[house]],
 just wait there till I come and take you out, there’s a good fellow.’
 
 How, or at what hour, Mr. Watkins Tottle returned to Cecil-street is
@@ -1057,19 +1057,19 @@ emerged therefrom nor accepted sustenance for four-and-twenty hours. At
 the expiration of that period, and when a council of war was being held
 in the kitchen on the propriety of summoning the parochial beadle to
 break his door open, he rang his bell, and demanded a cup of
-milk-and-water. The next morning he went through the formalities of
+milk-and-[[Water|water]]. The next morning he went through the formalities of
 eating and drinking as usual, but a week afterwards he was seized with
 a relapse, while perusing the list of marriages in a morning paper,
 from which he never perfectly recovered.
 
-A few weeks after the last-named occurrence, the body of a gentleman
+A few weeks after the last-named occurrence, the [[Body|body]] of a gentleman
 unknown, was found in the Regent’s canal. In the trousers-pockets were
 four shillings and threepence halfpenny; a matrimonial advertisement
-from a lady, which appeared to have been cut out of a Sunday paper: a
+from a lady, which appeared to have been cut out of a [[Sunday]] paper: a
 tooth-pick, and a card-case, which it is confidently believed would
 have led to the identification of the unfortunate gentleman, but for
 the circumstance of there being none but blank cards in it. Mr. Watkins
 Tottle absented himself from his lodgings shortly before. A bill, which
 has not been taken up, was presented next morning; and a bill, which
 has not been taken down, was soon afterwards affixed in his
-parlour-window.
+parlour-[[Window|window]].

@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 6 (part 1)"
+title: "[[Jane Eyre]] — Chapter 6 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -19,14 +19,14 @@ CHAPTER VI
 
 The next day commenced as before, getting up and dressing by rushlight;
 but this morning we were obliged to dispense with the ceremony of
-washing; the water in the pitchers was frozen. A change had taken place
-in the weather the preceding evening, and a keen north-east wind,
-whistling through the crevices of our bedroom windows all night long,
+washing; the [[Water|water]] in the pitchers was frozen. A change had taken place
+in the weather the preceding evening, and a keen north-east [[Wind|wind]],
+whistling through the crevices of our bedroom windows all [[Night|night]] long,
 had made us shiver in our beds, and turned the contents of the ewers to
 ice.
 
-Before the long hour and a half of prayers and Bible-reading was over,
-I felt ready to perish with cold. Breakfast-time came at last, and this
+Before the long hour and a half of prayers and [[Bible]]-reading was over,
+I felt ready to perish with cold. Breakfast-[[Time|time]] came at last, and this
 morning the porridge was not burnt; the quality was eatable, the
 quantity small. How small my portion seemed! I wished it had been
 doubled.
@@ -37,7 +37,7 @@ only been a spectator of the proceedings at Lowood; I was now to become
 an actor therein. At first, being little accustomed to learn by heart,
 the lessons appeared to me both long and difficult; the frequent change
 from task to task, too, bewildered me; and I was glad when, about three
-o’clock in the afternoon, Miss Smith put into my hands a border of
+o’[[Clock|clock]] in the afternoon, Miss [[smith|Smith]] put into my hands a border of
 muslin two yards long, together with needle, thimble, &c., and sent me
 to sit in a quiet corner of the schoolroom, with directions to hem the
 same. At that hour most of the others were sewing likewise; but one
@@ -45,10 +45,10 @@ class still stood round Miss Scatcherd’s chair reading, and as all was
 quiet, the subject of their lessons could be heard, together with the
 manner in which each girl acquitted herself, and the animadversions or
 commendations of Miss Scatcherd on the performance. It was English
-history: among the readers I observed my acquaintance of the verandah:
+[[history]]: among the readers I observed my acquaintance of the verandah:
 at the commencement of the lesson, her place had been at the top of the
 class, but for some error of pronunciation, or some inattention to
-stops, she was suddenly sent to the very bottom. Even in that obscure
+stops, she was suddenly sent to the very [[Bottom|bottom]]. Even in that obscure
 position, Miss Scatcherd continued to make her an object of constant
 notice: she was continually addressing to her such phrases as the
 following:—
@@ -63,9 +63,9 @@ holding your head up; I will not have you before me in that attitude,”
 A chapter having been read through twice, the books were closed and the
 girls examined. The lesson had comprised part of the reign of Charles
 I., and there were sundry questions about tonnage and poundage and
-ship-money, which most of them appeared unable to answer; still, every
+[[Ship|ship]]-money, which most of them appeared unable to answer; still, every
 little difficulty was solved instantly when it reached Burns: her
-memory seemed to have retained the substance of the whole lesson, and
+[[Memory|memory]] seemed to have retained the substance of the whole lesson, and
 she was ready with answers on every point. I kept expecting that Miss
 Scatcherd would praise her attention; but, instead of that, she
 suddenly cried out—
@@ -73,14 +73,14 @@ suddenly cried out—
 “You dirty, disagreeable girl! you have never cleaned your nails this
 morning!”
 
-Burns made no answer: I wondered at her silence.
+Burns made no answer: I wondered at her [[Silence|silence]].
 
 “Why,” thought I, “does she not explain that she could neither clean
-her nails nor wash her face, as the water was frozen?”
+her nails nor wash her face, as the [[Water|water]] was frozen?”
 
-My attention was now called off by Miss Smith desiring me to hold a
-skein of thread: while she was winding it, she talked to me from time
-to time, asking whether I had ever been at school before, whether I
+My attention was now called off by Miss [[smith|Smith]] desiring me to hold a
+skein of thread: while she was winding it, she talked to me from [[Time|time]]
+to [[Time|time]], asking whether I had ever been at school before, whether I
 could mark, stitch, knit, &c.; till she dismissed me, I could not
 pursue my observations on Miss Scatcherd’s movements. When I returned
 to my seat, that lady was just delivering an order of which I did not
@@ -90,7 +90,7 @@ minute, carrying in her hand a bundle of twigs tied together at one
 end. This ominous tool she presented to Miss Scatcherd with a
 respectful curtesy; then she quietly, and without being told, unloosed
 her pinafore, and the teacher instantly and sharply inflicted on her
-neck a dozen strokes with the bunch of twigs. Not a tear rose to Burns’
+neck a dozen strokes with the bunch of twigs. Not a tear [[Rose|rose]] to Burns’
 eye; and, while I paused from my sewing, because my fingers quivered at
 this spectacle with a sentiment of unavailing and impotent anger, not a
 feature of her pensive face altered its ordinary expression.
@@ -104,7 +104,7 @@ pocket, and the trace of a tear glistened on her thin cheek.
 
 The play-hour in the evening I thought the pleasantest fraction of the
 day at Lowood: the bit of bread, the draught of coffee swallowed at
-five o’clock had revived vitality, if it had not satisfied hunger: the
+five o’[[Clock|clock]] had revived vitality, if it had not satisfied hunger: the
 long restraint of the day was slackened; the schoolroom felt warmer
 than in the morning—its fires being allowed to burn a little more
 brightly, to supply, in some measure, the place of candles, not yet
@@ -116,13 +116,13 @@ pupil, Burns, I wandered as usual among the forms and tables and
 laughing groups without a companion, yet not feeling lonely: when I
 passed the windows, I now and then lifted a blind, and looked out; it
 snowed fast, a drift was already forming against the lower panes;
-putting my ear close to the window, I could distinguish from the
-gleeful tumult within, the disconsolate moan of the wind outside.
+putting my ear close to the [[Window|window]], I could distinguish from the
+gleeful tumult within, the disconsolate moan of the [[Wind|wind]] outside.
 
-Probably, if I had lately left a good home and kind parents, this would
+Probably, if I had lately left a good [[Home|home]] and kind parents, this would
 have been the hour when I should most keenly have regretted the
-separation; that wind would then have saddened my heart; this obscure
+separation; that [[Wind|wind]] would then have saddened my heart; this obscure
 chaos would have disturbed my peace! as it was, I derived from both a
-strange excitement, and reckless and feverish, I wished the wind to
+strange excitement, and reckless and feverish, I wished the [[Wind|wind]] to
 howl more wildly, the gloom to deepen to darkness, and the confusion to
 rise to clamour.

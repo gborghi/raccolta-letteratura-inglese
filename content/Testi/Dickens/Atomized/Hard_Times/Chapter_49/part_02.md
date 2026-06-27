@@ -16,38 +16,38 @@ tags:
 
 ‘I were patient wi’ her.’
 
-(‘The more fool you, I think,’ said Mr. Bounderby, in confidence to his
+(‘The more [[Fool|fool]] you, I think,’ said Mr. Bounderby, in confidence to his
 wine-glass.)
 
 ‘I were very patient wi’ her.  I tried to wean her fra ’t ower and ower
-agen.  I tried this, I tried that, I tried t’other.  I ha’ gone home,
-many’s the time, and found all vanished as I had in the world, and her
+agen.  I tried this, I tried that, I tried t’other.  I ha’ gone [[Home|home]],
+many’s the [[Time|time]], and found all vanished as I had in the world, and her
 without a sense left to bless herseln lying on bare ground.  I ha’ dun ’t
-not once, not twice—twenty time!’
+not once, not twice—twenty [[Time|time]]!’
 
 Every line in his face deepened as he said it, and put in its affecting
-evidence of the suffering he had undergone.
+evidence of the [[Suffering|suffering]] he had undergone.
 
 ‘From bad to worse, from worse to worsen.  She left me.  She disgraced
 herseln everyways, bitter and bad.  She coom back, she coom back, she
 coom back.  What could I do t’ hinder her?  I ha’ walked the streets
-nights long, ere ever I’d go home.  I ha’ gone t’ th’ brigg, minded to
+nights long, ere ever I’d go [[Home|home]].  I ha’ gone t’ th’ brigg, minded to
 fling myseln ower, and ha’ no more on’t.  I ha’ bore that much, that I
 were owd when I were young.’
 
 Mrs. Sparsit, easily ambling along with her netting-needles, raised the
 Coriolanian eyebrows and shook her head, as much as to say, ‘The great
-know trouble as well as the small.  Please to turn your humble eye in My
+know trouble as [[Well|well]] as the small.  Please to turn your humble eye in My
 direction.’
 
 ‘I ha’ paid her to keep awa’ fra’ me.  These five year I ha’ paid her.  I
 ha’ gotten decent fewtrils about me agen.  I ha’ lived hard and sad, but
-not ashamed and fearfo’ a’ the minnits o’ my life.  Last night, I went
-home.  There she lay upon my har-stone!  There she is!’
+not ashamed and fearfo’ a’ the minnits o’ my life.  Last [[Night|night]], I went
+[[Home|home]].  There she lay upon my har-stone!  There she is!’
 
 In the strength of his misfortune, and the energy of his distress, he
 fired for the moment like a proud man.  In another moment, he stood as he
-had stood all the time—his usual stoop upon him; his pondering face
+had stood all the [[Time|time]]—his usual stoop upon him; his pondering face
 addressed to Mr. Bounderby, with a curious expression on it, half shrewd,
 half perplexed, as if his mind were set upon unravelling something very
 difficult; his hat held tight in his left hand, which rested on his hip;
@@ -60,23 +60,23 @@ the last clause, long ago.  It’s a bad job; that’s what it is.  You had
 better have been satisfied as you were, and not have got married.
 However, it’s too late to say that.’
 
-‘Was it an unequal marriage, sir, in point of years?’ asked Mrs. Sparsit.
+‘Was it an unequal [[Marriage|marriage]], sir, in point of years?’ asked Mrs. Sparsit.
 
-‘You hear what this lady asks.  Was it an unequal marriage in point of
+‘You hear what this lady asks.  Was it an unequal [[Marriage|marriage]] in point of
 years, this unlucky job of yours?’ said Mr. Bounderby.
 
 ‘Not e’en so.  I were one-and-twenty myseln; she were twenty nighbut.’
 
 ‘Indeed, sir?’ said Mrs. Sparsit to her Chief, with great placidity.  ‘I
-inferred, from its being so miserable a marriage, that it was probably an
+inferred, from its being so miserable a [[Marriage|marriage]], that it was probably an
 unequal one in point of years.’
 
 Mr. Bounderby looked very hard at the good lady in a side-long way that
 had an odd sheepishness about it.  He fortified himself with a little
 more sherry.
 
-‘Well?  Why don’t you go on?’ he then asked, turning rather irritably on
-Stephen Blackpool.
+‘[[Well]]?  Why don’t you go on?’ he then asked, turning rather irritably on
+[[Stephen Blackpool]].
 
 ‘I ha’ coom to ask yo, sir, how I am to be ridded o’ this woman.’
 Stephen infused a yet deeper gravity into the mixed expression of his
@@ -92,7 +92,7 @@ for worse.’
 best lass living or dead.  Haply, but for her, I should ha’ gone
 battering mad.’
 
-‘He wishes to be free, to marry the female of whom he speaks, I fear,
+‘He wishes to be free, to marry the female of whom he speaks, I [[Fear|fear]],
 sir,’ observed Mrs. Sparsit in an undertone, and much dejected by the
 immorality of the people.
 
@@ -124,11 +124,11 @@ mun be ridden o’ this woman, and I want t’ know how?’
 
 ‘If I was to live wi’ her an’ not marry her—saying such a thing could be,
 which it never could or would, an’ her so good—there’s a law to punish
-me, in every innocent child belonging to me?’
+me, in every [[Innocent|innocent]] [[Child|child]] belonging to me?’
 
 ‘Of course there is.’
 
-‘Now, a’ God’s name,’ said Stephen Blackpool, ‘show me the law to help
+‘Now, a’ God’s name,’ said [[Stephen Blackpool]], ‘show me the law to help
 me!’
 
 ‘Hem!  There’s a sanctity in this relation of life,’ said Mr. Bounderby,
@@ -139,8 +139,8 @@ me!’
 but I ha’ gotten een to see wi’ and eern to year wi’.  I read in th’
 papers every ’Sizes, every Sessions—and you read too—I know it!—with
 dismay—how th’ supposed unpossibility o’ ever getting unchained from one
-another, at any price, on any terms, brings blood upon this land, and
-brings many common married fok to battle, murder, and sudden death.  Let
+another, at any price, on any terms, brings [[Blood|blood]] upon this land, and
+brings many common married fok to battle, murder, and sudden [[Death|death]].  Let
 us ha’ this, right understood.  Mine’s a grievous case, an’ I want—if yo
 will be so good—t’ know the law that helps me.’
 

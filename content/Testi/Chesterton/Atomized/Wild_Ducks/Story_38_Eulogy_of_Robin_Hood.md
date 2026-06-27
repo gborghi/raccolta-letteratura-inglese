@@ -1,5 +1,5 @@
 ---
-title: "Wild Ducks — Eulogy of Robin Hood"
+title: "Wild Ducks — Eulogy of [[Robin Hood]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Wild-Ducks-(Chesterton)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-Eulogy of Robin Hood
+Eulogy of [[Robin Hood]]
 
 
 The notion that the historic past, and particularly the Middle Ages,
-was a mass of negligible darkness is pretty well gone by this time;
+was a mass of negligible darkness is pretty [[Well|well]] gone by this [[Time|time]];
 and there are quite a large number of people engaged in collecting
 the original costumes, and the genuine ballads, and the authentic
 frying pans of the twelfth century.  The only thing that I
@@ -27,21 +27,21 @@ admiring the doings of these ages, they do not merely do them.
 If ever there does appear a valid instance of these ancient
 observances continuing in actual operation at the present day,
 the antiquarians simply faint in the street at the sight of it.
-For example, most of my aesthetic friends lie awake at night
+For example, most of my aesthetic friends lie awake at [[Night|night]]
 dreaming of the reinstitution of some beautiful pagan festival,
 and yet none of them (for I have tempted them all) can eat four
 helpings of Christmas pudding.  Christmas, with its sausages and
-its stars, is the very historic thing that they are talking about,
+its [[Stars|stars]], is the very historic thing that they are talking about,
 but they resent it merely because it is still alive.
 
-Another and much stronger instance of this truth occurred to me
+Another and much stronger instance of this [[Truth|truth]] occurred to me
 the other day.  I was walking down a small and ugly street and happened
-to be reading the first printed version of a ballad of Robin Hood.
+to be reading the first printed version of a ballad of [[Robin Hood]].
 Raising my eyes (I had just knocked over a man selling matches)
 I found myself staring at a glaring stack of `penny dreadfuls' in a dirty
-paper shop.  They were inscribed, `The Adventures of Robin Hood'.
+paper shop.  They were inscribed, `The Adventures of [[Robin Hood]]'.
 `Here,' I said, `I have at last an unbroken English tradition,
-known in the time of Edward I, known in the time of Mr Harmsworth.'
+known in the [[Time|time]] of Edward I, known in the [[Time|time]] of Mr Harmsworth.'
 And the more I compared the old ballad with the `penny dreadful',
 the more I saw their resemblance to each other.  Both were traditional;
 both contained repetitions; both were multiplied endlessly;
@@ -70,16 +70,16 @@ In these Robin Hood ballads there is almost every bracing and
 popular element; there is one above all, the moral and melodramatic.
 We can all remember when we began first to feel that there was something
 pompous and ludicrous in the morals of the melodrama, began to feel
-uncomfortable when the heroine said, `Would you have me sell my child?'
-or when the burglar spared the infant because of the little ones at home.
+uncomfortable when the heroine said, `Would you have me sell my [[Child|child]]?'
+or when the burglar spared the infant because of the little ones at [[Home|home]].
 Then we read Kipling and the realists, and were refreshed and invigorated
-with their salt and stinging candour; we wept sacred tears when we read
+with their salt and stinging candour; we wept sacred [[Tears|tears]] when we read
 of a woman whose personal affection expressed itself not by saying,
 `How can I sell my own child?' but by saying, `Took for a common drunk.
 Gawd send they don't look at 'is boots.'  Artistically we were
 quite right.  The Kipling story, with its savage pleasantry and its
 colossal cynicism, is immeasurably superior in almost everything there
-is to the strained romantic melodrama; but it has one inferiority.
+is to the strained romantic [[Melodrama|melodrama]]; but it has one inferiority.
 It is not so like life.  The Adelphi play gives a much more
 accurate version of the solemn, magnanimous, vainglorious pose
 which the average man really adopts in matters he thinks important.
@@ -89,26 +89,26 @@ but that is simply their literature; slang is a kind of deliberate song.
 But when they are talking seriously they do talk pompously.
 A man has only to walk down the Battersea Highroad on a Saturday
 night to hear round him one universal chatter of such things as `How
-can I sell my own child?'  And as for the burglar who thinks of
-the little ones at home, every evidence in life and the newspapers
+can I sell my own [[Child|child]]?'  And as for the burglar who thinks of
+the little ones at [[Home|home]], every evidence in life and the newspapers
 seems to support the hypothesis that criminals are sentimental,
 and I can readily believe in that burglar.
 
-Now, these Robin Hood ballads, as I say, show among other things
+Now, these [[Robin Hood]] ballads, as I say, show among other things
 an amusing proof of this popularity, this antiquity, this intense
-realism of sentimental melodrama.  Let me give an example.
+realism of sentimental [[Melodrama|melodrama]].  Let me give an example.
 Mr W. S. Gilbert (perhaps the most brilliant Rationalist writer of
 the nineteenth century) made admirable fun in The Pirates of Penzance
 of the preposterous tradition of the generosity of freebooters.
 He represented the pirate as making it a rule to spare orphans,
 and being in consequence somewhat perplexed to find them apparently
 crossing the sea in shiploads.  But when we look at these rude and
-bloody legends of a rude and bloody age, the ballads of Robin Hood,
+bloody legends of a rude and bloody age, the ballads of [[Robin Hood]],
 we find an altruism wilder than that of the Pirate of Penzance.
-The capering satire of the nineteenth century is positively less
+The capering [[Satire|satire]] of the nineteenth century is positively less
 fantastic than the reality of the thirteenth.  For while Mr Gilbert's
 pirate only marked off one class, that of orphans, the oldest ballad
-of Robin Hood (which I was reading in the street) depicts that hero
+of [[Robin Hood]] (which I was reading in the street) depicts that [[Hero|hero]]
 as giving a whole catalogue of people who are not to be molested.
 And it is scarcely any exaggeration to say that the catalogue
 includes almost everyone whom it would occur to an outlaw to molest.
@@ -117,7 +117,7 @@ no brave knight kind to his people, etc., etc., is to be touched
 by these discriminating bandits.  What is the use of denouncing
 sentimentalism as something artificial and protected when we have it
 here plainly written in the black letter of a brutal and naked age?
-No, it is realism that is artificial and melodrama that is human.
+No, it is realism that is artificial and [[Melodrama|melodrama]] that is human.
 The slangy short stories are written by pale men in libraries;
 the melodramas are written by men of the people.  The case of the people
 is very like the similar case of schoolboys.  Stalky and Co.
@@ -126,18 +126,18 @@ by Little.  But Eric is immeasurably more like school life, and more
 like it precisely because it is crude, because it is precocious,
 because it is moral.
 
-I may be carried away by an excessive patriotism (I hope I am),
+I may be carried away by an excessive patriotism (I [[Hope|hope]] I am),
 but I cannot help fancying that there is something about this
 egregious nobility in the old ballads that is peculiarly English.
-There is certainly in these Robin Hood tales an element
+There is certainly in these [[Robin Hood]] tales an element
 which can only be described as a sort of stupid magnanimity,
 a certain kind of generosity which is quite distinct in its colour
 from the chivalry of France or the tenderness of Ireland.
 It consists in a great natural gusto in the recognition of opponents.
-The collected records of Robin Hood become perfectly monotonous
-at last, as they relate the number of people who vanquished the hero,
+The collected records of [[Robin Hood]] become perfectly monotonous
+at last, as they relate the number of people who vanquished the [[Hero|hero]],
 and whom he warmly commended.  There is, of course, a great deal
-of English vanity about these admissions; the implication is,
+of English [[Vanity|vanity]] about these admissions; the implication is,
 `How splendid you must be, as you have conquered such a one
 as I'. But this self-satisfaction is an eternal English trait.
 The great English generosity is really in these ballads.

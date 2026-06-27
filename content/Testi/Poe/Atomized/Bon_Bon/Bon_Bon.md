@@ -1,5 +1,5 @@
 ---
-title: "Bon-Bon"
+title: "[[Bon-Bon]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/Bon-Bon-(Poe)"
@@ -27,18 +27,18 @@ Quand un bon vin meuble mon estomac,
                     —_French Vaudeville_
 
 
-      That Pierre Bon-Bon was a _restaurateur_ of uncommon qualifications,
+      That Pierre [[Bon-Bon]] was a _restaurateur_ of uncommon qualifications,
       no man who, during the reign of——, frequented the little Câfé
       in the cul-de-sac Le Febre at Rouen, will, I imagine, feel himself at
-      liberty to dispute. That Pierre Bon-Bon was, in an equal degree, skilled
-      in the philosophy of that period is, I presume, still more especially
-      undeniable. His _patés à la fois_ were beyond doubt immaculate; but
+      liberty to dispute. That Pierre [[Bon-Bon]] was, in an equal degree, skilled
+      in the [[philosophy]] of that period is, I presume, still more especially
+      undeniable. His _patés à la fois_ were beyond [[Doubt|doubt]] immaculate; but
       what pen can do justice to his essays _sur la Nature_—his
       thoughts _sur l’Ame_—his observations _sur l’Esprit?_ If
       his _omelettes_—if his _fricandeaux_ were inestimable,
       what _littérateur_ of that day would not have given twice as much for
       an “_Idée de Bon-Bon_” as for all the trash of “_Idées_” of all
-      the rest of the _savants?_ Bon-Bon had ransacked libraries which no
+      the rest of the _savants?_ [[Bon-Bon]] had ransacked libraries which no
       other man had ransacked—had more than any other would have
       entertained a notion of reading—had understood more than any other
       would have conceived the possibility of understanding; and although, while
@@ -47,36 +47,36 @@ Quand un bon vin meuble mon estomac,
       depth of the Lyceum”—although, mark me, his doctrines were by no
       means very generally comprehended, still it did not follow that they were
       difficult of comprehension. It was, I think, on account of their
-      self-evidency that many persons were led to consider them abstruse. It is
-      to Bon-Bon—but let this go no farther—it is to Bon-Bon that
+      [[Self|self]]-evidency that many persons were led to consider them abstruse. It is
+      to [[Bon-Bon]]—but let this go no farther—it is to [[Bon-Bon]] that
       Kant himself is mainly indebted for his metaphysics. The former was indeed
       not a Platonist, nor strictly speaking an Aristotelian—nor did he,
       like the modern Leibnitz, waste those precious hours which might be
       employed in the invention of a _fricasée_ or, _facili gradú_,
       the analysis of a sensation, in frivolous attempts at reconciling the
-      obstinate oils and waters of ethical discussion. Not at all. Bon-Bon was
-      Ionic—Bon-Bon was equally Italic. He reasoned _à priori_—He
+      obstinate oils and waters of ethical discussion. Not at all. [[Bon-Bon]] was
+      Ionic—[[Bon-Bon]] was equally Italic. He reasoned _à priori_—He
       reasoned also _à posteriori_. His ideas were innate—or
       otherwise. He believed in George of Trebizonde—He believed in
-      Bossarion [Bessarion]. Bon-Bon was emphatically a—Bon-Bonist.
+      Bossarion [Bessarion]. [[Bon-Bon]] was emphatically a—Bon-Bonist.
 
       I have spoken of the philosopher in his capacity of _restaurateur_. I
       would not, however, have any friend of mine imagine that, in fulfilling
-      his hereditary duties in that line, our hero wanted a proper estimation of
+      his hereditary duties in that line, our [[Hero|hero]] wanted a proper estimation of
       their dignity and importance. Far from it. It was impossible to say in
-      which branch of his profession he took the greater pride. In his opinion
+      which branch of his profession he took the greater [[Pride|pride]]. In his opinion
       the powers of the intellect held intimate connection with the capabilities
       of the stomach. I am not sure, indeed, that he greatly disagreed with the
-      Chinese, who held that the soul lies in the abdomen. The Greeks at all
+      Chinese, who held that the [[Soul|soul]] lies in the abdomen. The Greeks at all
       events were right, he thought, who employed the same words for the mind
       and the diaphragm. (*1) By this I do not mean to insinuate a charge of
       gluttony, or indeed any other serious charge to the prejudice of the
-      metaphysician. If Pierre Bon-Bon had his failings—and what great man
-      has not a thousand?—if Pierre Bon-Bon, I say, had his failings, they
+      metaphysician. If Pierre [[Bon-Bon]] had his failings—and what great man
+      has not a thousand?—if Pierre [[Bon-Bon]], I say, had his failings, they
       were failings of very little importance—faults indeed which, in
       other tempers, have often been looked upon rather in the light of virtues.
       As regards one of these foibles, I should not even have mentioned it in
-      this history but for the remarkable prominency—the extreme _alto
+      this [[history]] but for the remarkable prominency—the extreme _alto
       relievo_—in which it jutted out from the plane of his general
       disposition. He could never let slip an opportunity of making a bargain.
 
@@ -92,10 +92,10 @@ Quand un bon vin meuble mon estomac,
       At any epoch it would not be very wonderful if a humor so peculiar as the
       one I have just mentioned, should elicit attention and remark. At the
       epoch of our narrative, had this peculiarity not attracted observation,
-      there would have been room for wonder indeed. It was soon reported that,
-      upon all occasions of the kind, the smile of Bon-Bon was wont to differ
+      there would have been room for [[Wonder|wonder]] indeed. It was soon reported that,
+      upon all occasions of the kind, the smile of [[Bon-Bon]] was wont to differ
       widely from the downright grin with which he would laugh at his own jokes,
-      or welcome an acquaintance. Hints were thrown out of an exciting nature;
+      or welcome an acquaintance. Hints were thrown out of an exciting [[Nature|nature]];
       stories were told of perilous bargains made in a hurry and repented of at
       leisure; and instances were adduced of unaccountable capacities, vague
       longings, and unnatural inclinations implanted by the author of all evil
@@ -105,49 +105,49 @@ Quand un bon vin meuble mon estomac,
       our serious examination. For example, there are few men of extraordinary
       profundity who are found wanting in an inclination for the bottle. Whether
       this inclination be an exciting cause, or rather a valid proof of such
-      profundity, it is a nice thing to say. Bon-Bon, as far as I can learn, did
+      profundity, it is a nice thing to say. [[Bon-Bon]], as far as I can learn, did
       not think the subject adapted to minute investigation;—nor do I. Yet
       in the indulgence of a propensity so truly classical, it is not to be
       supposed that the restaurateur would lose sight of that intuitive
-      discrimination which was wont to characterize, at one and the same time,
+      discrimination which was wont to characterize, at one and the same [[Time|time]],
       his essais and his omelettes. In his seclusions the Vin de Bourgogne had
       its allotted hour, and there were appropriate moments for the Cotes du
       Rhone. With him Sauterne was to Medoc what Catullus was to Homer. He would
       sport with a syllogism in sipping St. Peray, but unravel an argument over
-      Clos de Vougeot, and upset a theory in a torrent of Chambertin. Well had
+      Clos de Vougeot, and upset a theory in a torrent of Chambertin. [[Well]] had
       it been if the same quick sense of propriety had attended him in the
       peddling propensity to which I have formerly alluded—but this was by
-      no means the case. Indeed to say the truth, that trait of mind in the
-      philosophic Bon-Bon did begin at length to assume a character of strange
+      no means the case. Indeed to say the [[Truth|truth]], that trait of mind in the
+      philosophic [[Bon-Bon]] did begin at length to assume a character of strange
       intensity and mysticism, and appeared deeply tinctured with the diablerie
       of his favorite German studies.
 
       To enter the little _café_ in the _cul-de-sac_ Le Febre was, at the period of
-      our tale, to enter the sanctum of a man of genius. Bon-Bon was a man of
+      our tale, to enter the sanctum of a man of genius. [[Bon-Bon]] was a man of
       genius. There was not a sous-cusinier in Rouen, who could not have told
-      you that Bon-Bon was a man of genius. His very cat knew it, and forebore
+      you that [[Bon-Bon]] was a man of genius. His very cat knew it, and forebore
       to whisk her tail in the presence of the man of genius. His large
-      water-dog was acquainted with the fact, and upon the approach of his
+      [[Water|water]]-dog was acquainted with the fact, and upon the approach of his
       master, betrayed his sense of inferiority by a sanctity of deportment, a
       debasement of the ears, and a dropping of the lower jaw not altogether
       unworthy of a dog. It is, however, true that much of this habitual respect
       might have been attributed to the personal appearance of the
       metaphysician. A distinguished exterior will, I am constrained to say,
       have its way even with a beast; and I am willing to allow much in the
-      outward man of the restaurateur calculated to impress the imagination of
+      outward man of the restaurateur calculated to impress the [[Imagination|imagination]] of
       the quadruped. There is a peculiar majesty about the atmosphere of the
       little great—if I may be permitted so equivocal an expression—which
-      mere physical bulk alone will be found at all times inefficient in
-      creating. If, however, Bon-Bon was barely three feet in height, and if his
+      mere physical bulk [[Alone|alone]] will be found at all times inefficient in
+      creating. If, however, [[Bon-Bon]] was barely three feet in height, and if his
       head was diminutively small, still it was impossible to behold the
       rotundity of his stomach without a sense of magnificence nearly bordering
-      upon the sublime. In its size both dogs and men must have seen a type of
+      upon the [[Sublime|sublime]]. In its size both [[dogs]] and men must have seen a type of
       his acquirements—in its immensity a fitting habitation for his
-      immortal soul.
+      immortal [[Soul|soul]].
 
       I might here—if it so pleased me—dilate upon the matter of
       habiliment, and other mere circumstances of the external metaphysician. I
-      might hint that the hair of our hero was worn short, combed smoothly over
+      might hint that the hair of our [[Hero|hero]] was worn short, combed smoothly over
       his forehead, and surmounted by a conical-shaped white flannel cap and
       tassels—that his pea-green jerkin was not after the fashion of those
       worn by the common class of restaurateurs at that day—that the
@@ -163,7 +163,7 @@ Quand un bon vin meuble mon estomac,
       over with crimson devices, floated cavalierly upon his shoulders like a
       mist of the morning—and that his tout ensemble gave rise to the
       remarkable words of Benevenuta, the Improvisatrice of Florence, “that it
-      was difficult to say whether Pierre Bon-Bon was indeed a bird of Paradise,
+      was difficult to say whether Pierre [[Bon-Bon]] was indeed a bird of Paradise,
       or rather a very Paradise of perfection.” I might, I say, expatiate upon
       all these points if I pleased,—but I forbear, merely personal
       details may be left to historical novelists,—they are beneath the
@@ -186,7 +186,7 @@ Quand un bon vin meuble mon estomac,
       direct family communion, the properties of the kitchen and the
       _bibliotheque_. A dish of polemics stood peacefully upon the dresser. Here
       lay an ovenful of the latest ethics—there a kettle of dudecimo
-      _mélanges_. Volumes of German morality were hand and glove with the gridiron—a
+      _mélanges_. Volumes of German [[morality]] were hand and glove with the gridiron—a
       toasting-fork might be discovered by the side of Eusebius—Plato
       reclined at his ease in the frying-pan—and contemporary manuscripts
       were filed away upon the spit.
@@ -196,17 +196,17 @@ Quand un bon vin meuble mon estomac,
       On the right of the fireplace an open cupboard displayed a formidable
       array of labelled bottles.
 
-      It was here, about twelve o’clock one night during the severe
-      winter of ——, that Pierre Bon-Bon, after having listened to
+      It was here, about twelve o’[[Clock|clock]] one [[Night|night]] during the severe
+      [[Winter|winter]] of ——, that Pierre [[Bon-Bon]], after having listened to
       the comments of his neighbours upon his singular propensity—that
-      Pierre Bon-Bon, I say, having turned them all out of his house, locked
+      Pierre [[Bon-Bon]], I say, having turned them all out of his [[house]], locked
       the door upon them with an oath, and betook himself in no very pacific
-      mood to the comforts of a leather-bottomed arm-chair, and a fire of
+      mood to the comforts of a leather-bottomed arm-chair, and a [[Fire|fire]] of
       blazing fagots.
 
       It was one of those terrific nights which are only met with once or twice
-      during a century. It snowed fiercely, and the house tottered to its centre
-      with the floods of wind that, rushing through the crannies in the wall,
+      during a century. It snowed fiercely, and the [[house]] tottered to its centre
+      with the floods of [[Wind|wind]] that, rushing through the crannies in the wall,
       and pouring impetuously down the chimney, shook awfully the curtains of
       the philosopher’s bed, and disorganized the economy of his pate-pans and
       papers. The huge folio sign that swung without, exposed to the fury of the
@@ -215,7 +215,7 @@ Quand un bon vin meuble mon estomac,
 
       It was in no placid temper, I say, that the metaphysician drew up his
       chair to its customary station by the hearth. Many circumstances of a
-      perplexing nature had occurred during the day, to disturb the serenity of
+      perplexing [[Nature|nature]] had occurred during the day, to disturb the serenity of
       his meditations. In attempting _des oeufs à la Princesse_, he had
       unfortunately perpetrated an _omelette à la Reine;_ the discovery of a
       principle in ethics had been frustrated by the overturning of a stew; and
@@ -223,9 +223,9 @@ Quand un bon vin meuble mon estomac,
       which he at all times took such especial delight in bringing to a
       successful termination. But in the chafing of his mind at these
       unaccountable vicissitudes, there did not fail to be mingled some degree
-      of that nervous anxiety which the fury of a boisterous night is so well
+      of that nervous anxiety which the fury of a boisterous [[Night|night]] is so [[Well|well]]
       calculated to produce. Whistling to his more immediate vicinity the large
-      black water-dog we have spoken of before, and settling himself uneasily in
+      black [[Water|water]]-dog we have spoken of before, and settling himself uneasily in
       his chair, he could not help casting a wary and unquiet eye toward those
       distant recesses of the apartment whose inexorable shadows not even the
       red firelight itself could more than partially succeed in overcoming.
@@ -235,9 +235,9 @@ Quand un bon vin meuble mon estomac,
       manuscript, intended for publication on the morrow.
 
       He had been thus occupied for some minutes when “I am in no hurry,
-      Monsieur Bon-Bon,” suddenly whispered a whining voice in the apartment.
+      Monsieur [[Bon-Bon]],” suddenly whispered a whining voice in the apartment.
 
-      “The devil!” ejaculated our hero, starting to his feet, overturning the
+      “The devil!” ejaculated our [[Hero|hero]], starting to his feet, overturning the
       table at his side, and staring around him in astonishment.
 
       “Very true,” calmly replied the voice.
@@ -247,9 +247,9 @@ Quand un bon vin meuble mon estomac,
       full length upon the bed.
 
       “I was saying,” said the intruder, without attending to the
-      interrogatives,—“I was saying that I am not at all pushed for time—that
+      interrogatives,—“I was saying that I am not at all pushed for [[Time|time]]—that
       the business upon which I took the liberty of calling, is of no pressing
-      importance—in short, that I can very well wait until you have
+      importance—in short, that I can very [[Well|well]] wait until you have
       finished your Exposition.”
 
 
@@ -258,7 +258,7 @@ Quand un bon vin meuble mon estomac,
 
 
       “Hush!” replied the figure, in a shrill undertone; and, arising quickly
-      from the bed, he made a single step toward our hero, while an iron lamp
+      from the bed, he made a single step toward our [[Hero|hero]], while an iron lamp
       that depended over-head swung convulsively back from his approach.
 
       The philosopher’s amazement did not prevent a narrow scrutiny of the
@@ -269,17 +269,17 @@ Quand un bon vin meuble mon estomac,
       garments had evidently been intended for a much shorter person than their
       present owner. His ankles and wrists were left naked for several inches.
       In his shoes, however, a pair of very brilliant buckles gave the lie to
-      the extreme poverty implied by the other portions of his dress. His head
+      the extreme [[Poverty|poverty]] implied by the other portions of his dress. His head
       was bare, and entirely bald, with the exception of a hinder part, from
       which depended a queue of considerable length. A pair of green spectacles,
       with side glasses, protected his eyes from the influence of the light, and
-      at the same time prevented our hero from ascertaining either their color
+      at the same [[Time|time]] prevented our [[Hero|hero]] from ascertaining either their color
       or their conformation. About the entire person there was no evidence of a
       shirt, but a white cravat, of filthy appearance, was tied with extreme
       precision around the throat and the ends hanging down formally side by
       side gave (although I dare say unintentionally) the idea of an
       ecclesiastic. Indeed, many other points both in his appearance and
-      demeanor might have very well sustained a conception of that nature. Over
+      demeanor might have very [[Well|well]] sustained a conception of that [[Nature|nature]]. Over
       his left ear, he carried, after the fashion of a modern clerk, an
       instrument resembling the stylus of the ancients. In a breast-pocket of
       his coat appeared conspicuously a small black volume fastened with clasps
@@ -288,10 +288,10 @@ Quand un bon vin meuble mon estomac,
       letters upon the back. His entire physiognomy was interestingly saturnine—even
       cadaverously pale. The forehead was lofty, and deeply furrowed with the
       ridges of contemplation. The corners of the mouth were drawn down into an
-      expression of the most submissive humility. There was also a clasping of
-      the hands, as he stepped toward our hero—a deep sigh—and
+      expression of the most submissive [[Humility|humility]]. There was also a clasping of
+      the hands, as he stepped toward our [[Hero|hero]]—a deep sigh—and
       altogether a look of such utter sanctity as could not have failed to be
-      unequivocally preposessing. Every shadow of anger faded from the
+      unequivocally preposessing. Every [[Shadow|shadow]] of anger faded from the
       countenance of the metaphysician, as, having completed a satisfactory
       survey of his visitor’s person, he shook him cordially by the hand, and
       conducted him to a seat.
@@ -299,7 +299,7 @@ Quand un bon vin meuble mon estomac,
       There would however be a radical error in attributing this instantaneous
       transition of feeling in the philosopher, to any one of those causes which
       might naturally be supposed to have had an influence. Indeed, Pierre
-      Bon-Bon, from what I have been able to understand of his disposition, was
+      [[Bon-Bon]], from what I have been able to understand of his disposition, was
       of all men the least likely to be imposed upon by any speciousness of
       exterior deportment. It was impossible that so accurate an observer of men
       and things should have failed to discover, upon the moment, the real
@@ -308,7 +308,7 @@ Quand un bon vin meuble mon estomac,
       remarkable—he maintained lightly upon his head an inordinately tall
       hat—there was a tremulous swelling about the hinder part of his
       breeches—and the vibration of his coat tail was a palpable fact.
-      Judge, then, with what feelings of satisfaction our hero found himself
+      Judge, then, with what feelings of satisfaction our [[Hero|hero]] found himself
       thrown thus at once into the society of a person for whom he had at all
       times entertained the most unqualified respect. He was, however, too much
       of the diplomatist to let escape him any intimation of his suspicions in
@@ -316,13 +316,13 @@ Quand un bon vin meuble mon estomac,
       conscious of the high honor he thus unexpectedly enjoyed; but, by leading
       his guest into the conversation, to elicit some important ethical ideas,
       which might, in obtaining a place in his contemplated publication,
-      enlighten the human race, and at the same time immortalize himself—ideas
-      which, I should have added, his visitor’s great age, and well-known
-      proficiency in the science of morals, might very well have enabled him to
+      enlighten the human race, and at the same [[Time|time]] immortalize himself—ideas
+      which, I should have added, his visitor’s great age, and [[Well|well]]-known
+      proficiency in the science of morals, might very [[Well|well]] have enabled him to
       afford.
 
-      Actuated by these enlightened views, our hero bade the gentleman sit down,
-      while he himself took occasion to throw some fagots upon the fire, and
+      Actuated by these enlightened views, our [[Hero|hero]] bade the gentleman sit down,
+      while he himself took occasion to throw some fagots upon the [[Fire|fire]], and
       place upon the now re-established table some bottles of _Mousseux_. Having
       quickly completed these operations, he drew his chair _vis-à-vis_ to his
       companion’s, and waited until the latter should open the conversation. But
@@ -330,13 +330,13 @@ Quand un bon vin meuble mon estomac,
       their application—and the _restaurateur_ found himself _nonplussed_ by
       the very first words of his visitor’s speech.
 
-      “I see you know me, Bon-Bon,” said he; “ha! ha! ha!—he! he! he!—hi!
+      “I see you know me, [[Bon-Bon]],” said he; “ha! ha! ha!—he! he! he!—hi!
       hi! hi!—ho! ho! ho!—hu! hu! hu!”—and the devil, dropping
       at once the sanctity of his demeanor, opened to its fullest extent a mouth
       from ear to ear, so as to display a set of jagged and fang-like teeth,
       and, throwing back his head, laughed long, loudly, wickedly, and
       uproariously, while the black dog, crouching down upon his haunches,
-      joined lustily in the chorus, and the tabby cat, flying off at a tangent,
+      joined lustily in the [[Chorus|chorus]], and the tabby cat, flying off at a tangent,
       stood up on end, and shrieked in the farthest corner of the apartment.
 
       Not so the philosopher; he was too much a man of the world either to laugh
@@ -346,7 +346,7 @@ Quand un bon vin meuble mon estomac,
       guest’s pocket, momently changing both their color and their import, and
       in a few seconds, in place of the original title the words _Régitre des
       Condamnes_ blazed forth in characters of red. This startling circumstance,
-      when Bon-Bon replied to his visitor’s remark, imparted to his manner an
+      when [[Bon-Bon]] replied to his visitor’s remark, imparted to his manner an
       air of embarrassment which probably might, not otherwise have been
       observed.
 
@@ -357,12 +357,12 @@ Quand un bon vin meuble mon estomac,
       remarkable honor—”
 
 
-      “Oh!—ah!—yes!—very well!” interrupted his Majesty; “say
+      “Oh!—ah!—yes!—very [[Well|well]]!” interrupted his Majesty; “say
       no more—I see how it is.” And hereupon, taking off his green
       spectacles, he wiped the glasses carefully with the sleeve of his coat,
       and deposited them in his pocket.
 
-      If Bon-Bon had been astonished at the incident of the book, his amazement
+      If [[Bon-Bon]] had been astonished at the incident of the book, his amazement
       was now much increased by the spectacle which here presented itself to
       view. In raising his eyes, with a strong feeling of curiosity to ascertain
       the color of his guest’s, he found them by no means black, as he had
@@ -370,23 +370,23 @@ Quand un bon vin meuble mon estomac,
       hazel nor blue—nor indeed yellow nor red—nor purple—nor
       white—nor green—nor any other color in the heavens above, or
       in the earth beneath, or in the waters under the earth. In short, Pierre
-      Bon-Bon not only saw plainly that his Majesty had no eyes whatsoever, but
+      [[Bon-Bon]] not only saw plainly that his Majesty had no eyes whatsoever, but
       could discover no indications of their having existed at any previous
       period—for the space where eyes should naturally have been was, I am
       constrained to say, simply a dead level of flesh.
 
-      It was not in the nature of the metaphysician to forbear making some
+      It was not in the [[Nature|nature]] of the metaphysician to forbear making some
       inquiry into the sources of so strange a phenomenon, and the reply of his
       Majesty was at once prompt, dignified, and satisfactory.
 
-      “Eyes! my dear Bon-Bon—eyes! did you say?—oh!—ah!—I
+      “Eyes! my dear [[Bon-Bon]]—eyes! did you say?—oh!—ah!—I
       perceive! The ridiculous prints, eh, which are in, circulation, have given
       you a false idea of my personal appearance? Eyes!—true. Eyes, Pierre
-      Bon-Bon, are very well in their proper place—that, you would say, is
+      [[Bon-Bon]], are very [[Well|well]] in their proper place—that, you would say, is
       the head?—right—the head of a worm. To you, likewise, these
       optics are indispensable—yet I will convince you that my vision is
       more penetrating than your own. There is a cat I see in the corner—a
-      pretty cat—look at her—observe her well. Now, Bon-Bon, do you
+      pretty cat—look at her—observe her [[Well|well]]. Now, [[Bon-Bon]], do you
       behold the thoughts—the thoughts, I say,—the ideas—the
       reflections—which are being engendered in her pericranium? There it
       is, now—you do not! She is thinking we admire the length of her tail
@@ -394,14 +394,14 @@ Quand un bon vin meuble mon estomac,
       distinguished of ecclesiastics, and that you are the most superficial of
       metaphysicians. Thus you see I am not altogether blind; but to one of my
       profession, the eyes you speak of would be merely an incumbrance, liable
-      at any time to be put out by a toasting-iron, or a pitchfork. To you, I
-      allow, these optical affairs are indispensable. Endeavor, Bon-Bon, to use
-      them well;—my vision is the soul.”
+      at any [[Time|time]] to be put out by a toasting-iron, or a pitchfork. To you, I
+      allow, these optical affairs are indispensable. Endeavor, [[Bon-Bon]], to use
+      them [[Well|well]];—my vision is the [[Soul|soul]].”
 
 
       Hereupon the guest helped himself to the wine upon the table, and pouring
-      out a bumper for Bon-Bon, requested him to drink it without scruple, and
-      make himself perfectly at home.
+      out a bumper for [[Bon-Bon]], requested him to drink it without scruple, and
+      make himself perfectly at [[Home|home]].
 
       “A clever book that of yours, Pierre,” resumed his Majesty, tapping our
       friend knowingly upon the shoulder, as the latter put down his glass after
@@ -410,10 +410,10 @@ Quand un bon vin meuble mon estomac,
       of the matter, I think, however, might be improved, and many of your
       notions remind me of Aristotle. That philosopher was one of my most
       intimate acquaintances. I liked him as much for his terrible ill temper,
-      as for his happy knack at making a blunder. There is only one solid truth
+      as for his happy knack at making a blunder. There is only one solid [[Truth|truth]]
       in all that he has written, and for that I gave him the hint out of pure
-      compassion for his absurdity. I suppose, Pierre Bon-Bon, you very well
-      know to what divine moral truth I am alluding?”
+      compassion for his absurdity. I suppose, Pierre [[Bon-Bon]], you very [[Well|well]]
+      know to what divine moral [[Truth|truth]] I am alluding?”
 
 
       “Cannot say that I—”
@@ -429,14 +429,14 @@ Quand un bon vin meuble mon estomac,
 
       “There was Plato, too,” continued his Majesty, modestly
       declining the snuff-box and the compliment it implied—“there
-      was Plato, too, for whom I, at one time, felt all the affection of a
-      friend. You knew Plato, Bon-Bon?—ah, no, I beg a thousand pardons.
+      was Plato, too, for whom I, at one [[Time|time]], felt all the affection of a
+      friend. You knew Plato, [[Bon-Bon]]?—ah, no, I beg a thousand pardons.
       He met me at Athens, one day, in the Parthenon, and told me he was
       distressed for an idea. I bade him write, down that δ
       υοῦς εστιν
       αυλος. He said that he would do so, and went
-      home, while I stepped over to the pyramids. But my conscience smote me
-      for having uttered a truth, even to aid a friend, and hastening back to
+      [[Home|home]], while I stepped over to the pyramids. But my [[Conscience|conscience]] smote me
+      for having uttered a [[Truth|truth]], even to aid a friend, and hastening back to
       Athens, I arrived behind the philosopher’s chair as he was inditing
       the ‘αυλος.’
 
@@ -452,13 +452,13 @@ Quand un bon vin meuble mon estomac,
       bottle of Mousseux, and drew from the closet a larger supply of
       Chambertin.
 
-      “But once, Monsieur Bon-Bon, but once. There was a time,” said the devil,
-      as if reciting some passage from a book—“there was a time when
+      “But once, Monsieur [[Bon-Bon]], but once. There was a [[Time|time]],” said the devil,
+      as if reciting some passage from a book—“there was a [[Time|time]] when
       occurred an anarchy of five years, during which the republic, bereft of
       all its officers, had no magistracy besides the tribunes of the people,
       and these were not legally vested with any degree of executive power—at
-      that time, Monsieur Bon-Bon—at that time only I was in Rome, and I
-      have no earthly acquaintance, consequently, with any of its philosophy.”
+      that [[Time|time]], Monsieur [[Bon-Bon]]—at that [[Time|time]] only I was in Rome, and I
+      have no earthly acquaintance, consequently, with any of its [[philosophy]].”
        (*2)
 
      {*2} Ils ecrivaient sur la Philosophie (_Cicero, Lucretius,
@@ -471,30 +471,30 @@ Quand un bon vin meuble mon estomac,
       surely mean to find any fault with Epicurus! What do I think of Epicurus!
       Do you mean me, sir?—I am Epicurus! I am the same philosopher who
       wrote each of the three hundred treatises commemorated by Diogenes
-      Laertes.”
+      [[Laertes]].”
 
 
       “That’s a lie!” said the metaphysician, for the wine had gotten a little
       into his head.
 
-      “Very well!—very well, sir!—very well, indeed, sir!” said his
+      “Very [[Well|well]]!—very [[Well|well]], sir!—very [[Well|well]], indeed, sir!” said his
       Majesty, apparently much flattered.
 
       “That’s a lie!” repeated the restaurateur, dogmatically; “that’s a—hiccup!—a
       lie!”
 
 
-      “Well, well, have it your own way!” said the devil, pacifically, and
-      Bon-Bon, having beaten his Majesty at argument, thought it his duty to
+      “[[Well]], [[Well|well]], have it your own way!” said the devil, pacifically, and
+      [[Bon-Bon]], having beaten his Majesty at argument, thought it his duty to
       conclude a second bottle of Chambertin.
 
       “As I was saying,” resumed the visitor—“as I was observing a little
       while ago, there are some very _outré_ notions in that book of yours
-      Monsieur Bon-Bon. What, for instance, do you mean by all that humbug about
-      the soul? Pray, sir, what is the soul?”
+      Monsieur [[Bon-Bon]]. What, for instance, do you mean by all that humbug about
+      the [[Soul|soul]]? Pray, sir, what is the [[Soul|soul]]?”
 
 
-      “The—hiccup!—soul,” replied the metaphysician, referring to
+      “The—hiccup!—[[Soul|soul]],” replied the metaphysician, referring to
       his MS., “is undoubtedly—”
 
 
@@ -534,14 +534,14 @@ Quand un bon vin meuble mon estomac,
       “And beyond all question, a—”
 
 
-      “No sir, the soul is no such thing!” (Here the philosopher, looking
+      “No sir, the [[Soul|soul]] is no such thing!” (Here the philosopher, looking
       daggers, took occasion to make an end, upon the spot, of his third bottle
       of Chambertin.)
 
       “Then—hic-cup!—pray, sir—what—what is it?”
 
 
-      “That is neither here nor there, Monsieur Bon-Bon,” replied his Majesty,
+      “That is neither here nor there, Monsieur [[Bon-Bon]],” replied his Majesty,
       musingly. “I have tasted—that is to say, I have known some very bad
       souls, and some too—pretty good ones.” Here he smacked his lips,
       and, having unconsciously let fall his hand upon the volume in his pocket,
@@ -549,7 +549,7 @@ Quand un bon vin meuble mon estomac,
 
       He continued.
 
-      “There was the soul of Cratinus—passable: Aristophanes—racy:
+      “There was the [[Soul|soul]] of Cratinus—passable: Aristophanes—racy:
       Plato—exquisite—not _your_ Plato, but Plato the comic poet; your
       Plato would have turned the stomach of Cerberus—faugh! Then let me
       see! there were Naevius, and Andronicus, and Plautus, and Terentius. Then
@@ -560,7 +560,7 @@ Quand un bon vin meuble mon estomac,
       which cannot be said of a Quirite. Let us taste your Sauterne.”
 
 
-      Bon-Bon had by this time made up his mind to the _nil admirari_ and endeavored
+      [[Bon-Bon]] had by this [[Time|time]] made up his mind to the _nil admirari_ and endeavored
       to hand down the bottles in question. He was, however, conscious of a
       strange sound in the room like the wagging of a tail. Of this, although
       extremely indecent in his Majesty, the philosopher took no notice:—simply
@@ -573,9 +573,9 @@ Quand un bon vin meuble mon estomac,
       Livius was positively Polybius and none other.”
 
 
-      “Hic-cup!” here replied Bon-Bon, and his majesty proceeded:
+      “Hic-cup!” here replied [[Bon-Bon]], and his majesty proceeded:
 
-      “But if I have a penchant, Monsieur Bon-Bon—if I have a penchant, it
+      “But if I have a penchant, Monsieur [[Bon-Bon]]—if I have a penchant, it
       is for a philosopher. Yet, let me tell you, sir, it is not every dev—I
       mean it is not every gentleman who knows how to choose a philosopher. Long
       ones are not good; and the best, if not carefully shelled, are apt to be a
@@ -597,7 +597,7 @@ Quand un bon vin meuble mon estomac,
       him in the Styx—and after all he gave me the cholera morbus.”
 
 
-      “The—hiccup!—wretch!” ejaculated Bon-Bon, “the—hic-cup!—abortion
+      “The—hiccup!—wretch!” ejaculated [[Bon-Bon]], “the—hic-cup!—abortion
       of a pill-box!”—and the philosopher dropped a tear.
 
       “After all,” continued the visitor, “after all, if a dev—if a
@@ -610,7 +610,7 @@ Quand un bon vin meuble mon estomac,
 
       “Why, we are sometimes exceedingly pushed for provisions. You must know
       that, in a climate so sultry as mine, it is frequently impossible to keep
-      a spirit alive for more than two or three hours; and after death, unless
+      a spirit alive for more than two or three hours; and after [[Death|death]], unless
       pickled immediately (and a pickled spirit is not good), they will—smell—you
       understand, eh? Putrefaction is always to be apprehended when the souls
       are consigned to us in the usual way.”
@@ -621,8 +621,8 @@ Quand un bon vin meuble mon estomac,
 
       Here the iron lamp commenced swinging with redoubled violence, and the
       devil half started from his seat;—however, with a slight sigh, he
-      recovered his composure, merely saying to our hero in a low tone: “I tell
-      you what, Pierre Bon-Bon, we must have no more swearing.”
+      recovered his composure, merely saying to our [[Hero|hero]] in a low tone: “I tell
+      you what, Pierre [[Bon-Bon]], we must have no more swearing.”
 
 
       The host swallowed another bumper, by way of denoting thorough
@@ -630,27 +630,27 @@ Quand un bon vin meuble mon estomac,
 
       “Why, there are several ways of managing. The most of us starve: some put
       up with the pickle: for my part I purchase my spirits vivente corpore, in
-      which case I find they keep very well.”
+      which case I find they keep very [[Well|well]].”
 
 
-      “But the body!—hiccup!—the body!”
+      “But the [[Body|body]]!—hiccup!—the [[Body|body]]!”
 
 
-      “The body, the body—well, what of the body?—oh! ah! I
-      perceive. Why, sir, the body is not at all affected by the transaction. I
+      “The [[Body|body]], the [[Body|body]]—[[Well|well]], what of the [[Body|body]]?—oh! ah! I
+      perceive. Why, sir, the [[Body|body]] is not at all affected by the transaction. I
       have made innumerable purchases of the kind in my day, and the parties
-      never experienced any inconvenience. There were Cain and Nimrod, and
+      never experienced any inconvenience. There were [[Cain]] and Nimrod, and
       Nero, and Caligula, and Dionysius, and Pisistratus, and—and a
-      thousand others, who never knew what it was to have a soul during the
+      thousand others, who never knew what it was to have a [[Soul|soul]] during the
       latter part of their lives; yet, sir, these men adorned society. Why
-      isn’t there A——, now, who you know as well as I? Is
+      isn’t there A——, now, who you know as [[Well|well]] as I? Is
       _he_ not in possession of his faculties, mental and corporeal? Who
-      writes a keener epigram? Who reasons more wittily? Who—but stay! I
+      writes a keener [[Epigram|epigram]]? Who reasons more wittily? Who—but stay! I
       have his agreement in my pocket-book.”
 
 
       Thus saying, he produced a red leather wallet, and took from it a number
-      of papers. Upon some of these Bon-Bon caught a glimpse of the letters
+      of papers. Upon some of these [[Bon-Bon]] caught a glimpse of the letters
       _Machi—Maza—Robesp_—with the words _Caligula, George,
       Elizabeth_. His Majesty selected a narrow slip of parchment, and from it
       read aloud the following words:
@@ -658,48 +658,48 @@ Quand un bon vin meuble mon estomac,
       “In consideration of certain mental endowments which it is unnecessary to
       specify, and in further consideration of one thousand louis d’or, I being
       aged one year and one month, do hereby make over to the bearer of this
-      agreement all my right, title, and appurtenance in the shadow called my
-      soul. (Signed) A....” {*4} (Here His Majesty repeated a name which I did
+      agreement all my right, title, and appurtenance in the [[Shadow|shadow]] called my
+      [[Soul|soul]]. (Signed) A....” {*4} (Here His Majesty repeated a name which I did
       not feel justified in indicating more unequivocally.)
 
       {*4} Quere-Arouet?
 
-      “A clever fellow that,” resumed he; “but like you, Monsieur Bon-Bon, he
-      was mistaken about the soul. The soul a shadow, truly! The soul a shadow;
+      “A clever fellow that,” resumed he; “but like you, Monsieur [[Bon-Bon]], he
+      was mistaken about the [[Soul|soul]]. The [[Soul|soul]] a [[Shadow|shadow]], truly! The [[Soul|soul]] a [[Shadow|shadow]];
       Ha! ha! ha!—he! he! he!—hu! hu! hu! Only think of a fricasseed
-      shadow!”
+      [[Shadow|shadow]]!”
 
 
-      “_Only_ think—hiccup!—of a fricasséed shadow!” exclaimed our
-      hero, whose faculties were becoming much illuminated by the profundity of
+      “_Only_ think—hiccup!—of a fricasséed [[Shadow|shadow]]!” exclaimed our
+      [[Hero|hero]], whose faculties were becoming much illuminated by the profundity of
       his Majesty’s discourse.
 
-      “Only think of a hiccup!—fricasséed shadow!! Now, damme!—hiccup!—humph!
-      If _I_ would have been such a—hiccup!—nincompoop! _My_ soul, Mr.—humph!”
+      “Only think of a hiccup!—fricasséed [[Shadow|shadow]]!! Now, damme!—hiccup!—humph!
+      If _I_ would have been such a—hiccup!—nincompoop! _My_ [[Soul|soul]], Mr.—humph!”
 
 
-      “_Your_ soul, Monsieur Bon-Bon?”
+      “_Your_ [[Soul|soul]], Monsieur [[Bon-Bon]]?”
 
 
-      “Yes, sir—hiccup!—_my_ soul is—”
+      “Yes, sir—hiccup!—_my_ [[Soul|soul]] is—”
 
 
       “What, sir?”
 
 
-      “_No_ shadow, damme!”
+      “_No_ [[Shadow|shadow]], damme!”
 
 
       “Did you mean to say—”
 
 
-      “Yes, sir, my soul is—hiccup!—humph!—yes, sir.”
+      “Yes, sir, my [[Soul|soul]] is—hiccup!—humph!—yes, sir.”
 
 
       “Did you not intend to assert—”
 
 
-      “My soul is—hiccup!—peculiarly qualified for—hiccup!—a—”
+      “My [[Soul|soul]] is—hiccup!—peculiarly qualified for—hiccup!—a—”
 
 
       “What, sir?”
@@ -727,7 +727,7 @@ Quand un bon vin meuble mon estomac,
       have it—hiccup!—a bargain.” Here the philosopher slapped his
       Majesty upon the back.
 
-      “Couldn’t think of such a thing,” said the latter calmly, at the same time
+      “Couldn’t think of such a thing,” said the latter calmly, at the same [[Time|time]]
       rising from his seat. The metaphysician stared.
 
       “Am supplied at present,” said his Majesty.
@@ -756,7 +756,7 @@ Quand un bon vin meuble mon estomac,
 
 
       Here the visitor bowed and withdrew—in what manner could not
-      precisely be ascertained—but in a well-concerted effort to discharge
-      a bottle at “the villain,” the slender chain was severed that depended
+      precisely be ascertained—but in a [[Well|well]]-concerted effort to discharge
+      a bottle at “the [[Villain|villain]],” the slender chain was severed that depended
       from the ceiling, and the metaphysician prostrated by the downfall of the
       lamp.

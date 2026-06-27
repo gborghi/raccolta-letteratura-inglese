@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 43 (part 4)"
+title: "[[Pride and Prejudice]] — Chapter 43 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -15,10 +15,10 @@ tags:
 
 
 Mrs. Gardiner was standing a little behind; and on her pausing, he asked
-her if she would do him the honour of introducing him to her friends.
+her if she would do him the [[Honour|honour]] of introducing him to her friends.
 This was a stroke of civility for which she was quite unprepared; and
 she could hardly suppress a smile at his being now seeking the
-acquaintance of some of those very people, against whom his pride had
+acquaintance of some of those very people, against whom his [[Pride|pride]] had
 revolted, in his offer to herself. “What will be his surprise,” thought
 she, “when he knows who they are! He takes them now for people of
 fashion.”
@@ -39,38 +39,38 @@ his taste, or his good manners.
 The conversation soon turned upon fishing; and she heard Mr. Darcy
 invite him, with the greatest civility, to fish there as often as he
 chose, while he continued in the neighbourhood, offering at the same
-time to supply him with fishing tackle, and pointing out those parts of
+[[Time|time]] to supply him with fishing tackle, and pointing out those parts of
 the stream where there was usually most sport. Mrs. Gardiner, who was
 walking arm in arm with Elizabeth, gave her a look expressive of her
-wonder. Elizabeth said nothing, but it gratified her exceedingly; the
+[[Wonder|wonder]]. Elizabeth said nothing, but it gratified her exceedingly; the
 compliment must be all for herself. Her astonishment, however, was
 extreme; and continually was she repeating, “Why is he so altered? From
 what can it proceed? It cannot be for _me_, it cannot be for _my_ sake
 that his manners are thus softened. My reproofs at Hunsford could not
-work such a change as this. It is impossible that he should still love
+work such a change as this. It is impossible that he should still [[Love|love]]
 me.”
 
-After walking some time in this way, the two ladies in front, the two
+After walking some [[Time|time]] in this way, the two ladies in front, the two
 gentlemen behind, on resuming their places, after descending to the
-brink of the river for the better inspection of some curious
-water-plant, there chanced to be a little alteration. It originated in
+brink of the [[River|river]] for the better inspection of some curious
+[[Water|water]]-plant, there chanced to be a little alteration. It originated in
 Mrs. Gardiner, who, fatigued by the exercise of the morning, found
 Elizabeth’s arm inadequate to her support, and consequently preferred
 her husband’s. Mr. Darcy took her place by her niece, and they walked on
-together. After a short silence the lady first spoke. She wished him to
+together. After a short [[Silence|silence]] the lady first spoke. She wished him to
 know that she had been assured of his absence before she came to the
 place, and accordingly began by observing, that his arrival had been
 very unexpected--“for your housekeeper,” she added, “informed us that
 you would certainly not be here till to-morrow; and, indeed, before we
 left Bakewell, we understood that you were not immediately expected in
-the country.” He acknowledged the truth of it all; and said that
+the country.” He acknowledged the [[Truth|truth]] of it all; and said that
 business with his steward had occasioned his coming forward a few hours
 before the rest of the party with whom he had been travelling. “They
 will join me early to-morrow,” he continued, “and among them are some
 who will claim an acquaintance with you,--Mr. Bingley and his sisters.”
 
 Elizabeth answered only by a slight bow. Her thoughts were instantly
-driven back to the time when Mr. Bingley’s name had been last mentioned
+driven back to the [[Time|time]] when Mr. Bingley’s name had been last mentioned
 between them; and if she might judge from his complexion, _his_ mind was
 not very differently engaged.
 
@@ -81,36 +81,36 @@ during your stay at Lambton?”
 
 The surprise of such an application was great indeed; it was too great
 for her to know in what manner she acceded to it. She immediately felt
-that whatever desire Miss Darcy might have of being acquainted with her,
+that whatever [[Desire|desire]] Miss Darcy might have of being acquainted with her,
 must be the work of her brother, and without looking farther, it was
 satisfactory; it was gratifying to know that his resentment had not made
 him think really ill of her.
 
-They now walked on in silence; each of them deep in thought. Elizabeth
+They now walked on in [[Silence|silence]]; each of them deep in thought. Elizabeth
 was not comfortable; that was impossible; but she was flattered and
 pleased. His wish of introducing his sister to her was a compliment of
 the highest kind. They soon outstripped the others; and when they had
 reached the carriage, Mr. and Mrs. Gardiner were half a quarter of a
 mile behind.
 
-He then asked her to walk into the house--but she declared herself not
-tired, and they stood together on the lawn. At such a time much might
-have been said, and silence was very awkward. She wanted to talk, but
+He then asked her to walk into the [[house]]--but she declared herself not
+tired, and they stood together on the lawn. At such a [[Time|time]] much might
+have been said, and [[Silence|silence]] was very awkward. She wanted to talk, but
 there seemed an embargo on every subject. At last she recollected that
 she had been travelling, and they talked of Matlock and Dovedale with
-great perseverance. Yet time and her aunt moved slowly--and her patience
+great perseverance. Yet [[Time|time]] and her aunt moved slowly--and her patience
 and her ideas were nearly worn out before the _tête-à-tête_ was over.
 
 On Mr. and Mrs. Gardiner’s coming up they were all pressed to go into
-the house and take some refreshment; but this was declined, and they
+the [[house]] and take some refreshment; but this was declined, and they
 parted on each side with the utmost politeness. Mr. Darcy handed the
 ladies into the carriage; and when it drove off, Elizabeth saw him
-walking slowly towards the house.
+walking slowly towards the [[house]].
 
 The observations of her uncle and aunt now began; and each of them
 pronounced him to be infinitely superior to anything they had expected.
 
-“He is perfectly well-behaved, polite, and unassuming,” said her uncle.
+“He is perfectly [[Well|well]]-behaved, polite, and unassuming,” said her uncle.
 
 “There _is_ something a little stately in him, to be sure,” replied her
 aunt; “but it is confined to his air, and is not unbecoming. I can now

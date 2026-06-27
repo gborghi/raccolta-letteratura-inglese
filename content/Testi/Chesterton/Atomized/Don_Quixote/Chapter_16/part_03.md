@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 15 (part 3)"
+title: "[[Don Quixote]] — Chapter 15 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -21,12 +21,12 @@ stoop to laugh at them now you are fighting them; but you
 would laugh again if we were back in the old idle days.
 And yet those things are not altogether idle or laughable.
 Poetry sometimes talks plainer than prose, I think;
-and somebody said our souls are love and a perpetual farewell.
+and somebody said our souls are [[Love|love]] and a perpetual farewell.
 Did you ever read that part in Malory--about the parting
 of Lancelot and Guinevere?"
 
 "I can see it in your face," he said and kissed once, and they
-parted like the lovers of Camelot.
+parted like the [[lovers]] of Camelot.
 
 . . . . . . . .
 
@@ -45,17 +45,17 @@ He had hardly said a dozen words before it became apparent that
 he was talking in a tone that had been unusual in English politics.
 He had something to say that was of the final sort.
 He refused a tribunal; and in that there is something of the sort
-that always moves the deep element of epic poetry in a mob.
+that always moves the deep element of [[Epic|epic]] poetry in a mob.
 For nothing can really be approved or applauded except finality.
 That is why all the ethics of evolution and expansive ideas
 of indefinite progress have never taken hold upon any human crowd.
 
-The new seat of government had set up a seat of judgment, or chamber
+The new seat of [[government]] had set up a seat of judgment, or chamber
 of inquiry, for the settlement of the strike which Braintree led.
 It was a strike now largely confined to the Trade Unions
 of his own district; which were engaged in the manufacturing
 of dyes and paints, originally derived from Coal-Tar. The
-very genuine energy that supported the new government had
+very genuine energy that supported the new [[government]] had
 grappled immediately with the industrial problem in question.
 It was probable that it would be settled on somewhat saner
 and simpler lines than those of the complicated compromises
@@ -65,18 +65,18 @@ And that was what Braintree and the strikers very
 legitimately objected to.
 
 "For nearly a hundred, years," he said, "they have thundered at us
-about our duty to respect the Constitution:  the King and the House
-of Lords--and even the House of Commons.  We had to respect
+about our duty to respect the Constitution:  the [[King]] and the [[house|House]]
+of Lords--and even the [[house|House]] of Commons.  We had to respect
 that too.  (Laughter.) We were to be perfect Constitutionalists.
 Yes, my friends, we were to be the only Constitutionalists.
 We were the quiet people, the loyal subjects, the people who took
-the King and the lords seriously.  But they were to be free enough.
+the [[King]] and the lords seriously.  But they were to be free enough.
 Whenever the fancy took them to upset the Constitution,
 they were to be indulged in all the pleasures of revolution.
-They could in twenty-four hours turn the government of England
+They could in twenty-four hours turn the [[government]] of England
 upside down; and tell us that we were all not to be ruled
 by a Constitutional monarchy but by a fancy dress ball.
-Where is the King?  Who is the King?  I have heard he is a
+Where is the [[King]]?  Who is the [[King]]?  I have heard he is a
 librarian interested in the Hittites.  (Laughter.) And we are
 summoned before this revolutionary tribunal--(cheers)--to explain
 why we have for forty years, under intolerable provocation,
@@ -88,15 +88,15 @@ principles of continuity that never existed until the other day.
 But we will not listen to its judgment.  We would not submit
 to lawful Toryism.  We will not now submit to lawless Toryism.
 And if this Wardour Street curiosity shop sends us a message
-that we must attend its Court--our answer is in four words,
+that we must attend its [[Court]]--our answer is in four words,
 'We will not come.'"
 
 Braintree had described Herne as a librarian interested in Hittites
 but he never failed, in public or private to recognise him as a leader
-of men much more interested in the resurrection of the Middle Ages.
+of men much more interested in the [[Resurrection|resurrection]] of the Middle Ages.
 And yet it would have surprised Braintree very much to know how
 Herne was actually occupied at the moment the words were spoken.
-There was between them indeed that eternal cross purposes
+There was between them indeed that eternal [[Cross|cross]] purposes
 which arises between the two opposite types of truthful man.
 There was all the contrast between the man who knows from the start
 exactly what he stands for, whose circle of vision whether narrow
@@ -107,19 +107,19 @@ libraries before realising into what mind they have been absorbed,
 which can create fairy lands in which its own figure is invisible
 or at least transparent.  Braintree had known from the first,
 almost from the first quarrel in the long room at Seawood,
-the irony of his own irritated admiration.  He had felt the paradox
-of his impossible romance.  The pale and vivid face of Olive Ashley
+the irony of his own irritated admiration.  He had felt the [[Paradox|paradox]]
+of his impossible [[Romance|romance]].  The pale and vivid face of Olive Ashley
 with its lift and poise and pointed chin had entered his world
 like a wedge, like the spear of something external and antagonistic.
 He had hated all her world all the more for not hating her.
 
-But with a man like Michael Herne the whole of this process
-worked backwards.  He had hardly realised what personal romance
-was inspiring the impersonal romance of his historical revolution.
+But with a man like [[Michael]] Herne the whole of this process
+worked backwards.  He had hardly realised what personal [[Romance|romance]]
+was inspiring the impersonal [[Romance|romance]] of his historical revolution.
 He had had nothing but a sense of growing glory within;
 of a world that grew larger and loftier like an expanding sunrise
 or a rising tide; and which was yet of the same unconscious
-stuff as the day-dreams of his youth.  He had had at first
+stuff as the day-[[Dreams|dreams]] of his youth.  He had had at first
 the feeling that a hobby had become a holiday.  He had then had
 more and more feeling that the holiday had become a festival,
 in the sense of the solemn festival of a god.  Only at the back

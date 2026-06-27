@@ -1,5 +1,5 @@
 ---
-title: "GKC-Autobiography — Chapter 7 (part 5)"
+title: "[[GKC-Autobiography]] — Chapter 7 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/GKC-Autobiography-(Chesterton)"
@@ -36,8 +36,8 @@ And it is necessary in this chapter to say something of the tendencies
 by which I shifted nearer and nearer to the orthodox side;
 and eventually found myself, as I have described, in the very heart
 of a clerical group of canons and curates.  My first introduction,
-in Sydney Smith's phrase, came through very wild curates.
-Conrad Noel might have been the incarnate fulfilment of Sydney Smith's
+in Sydney [[smith|Smith]]'s phrase, came through very wild curates.
+Conrad Noel might have been the incarnate fulfilment of Sydney [[smith|Smith]]'s
 vision or fancy; and indeed it so happened that, in his case,
 while the wild curate was in every sense singular, the wild curates
 were also in the plural.  My old friend the Rev. A. L. Lilley now a
@@ -46,10 +46,10 @@ and his large and genial sympathies expressed themselves in the marked
 eccentricity of his assistant clergy.  For he was one of the two
 or three Broad Churchmen I have known who were actually broad.
 His curates were a group which we irreverently referred to at one
-time as a menagerie; one, I remember, was of gigantic stature with
+[[Time|time]] as a menagerie; one, I remember, was of gigantic stature with
 fierce grey hair, eyebrows and moustaches very like Mark Twain.
 Another was a Syrian and actually, I believe, a runaway monk
-from some monastery in the desert.  The third was Conrad Noel.
+from some monastery in the [[Desert|desert]].  The third was Conrad Noel.
 I have sometimes thought it must have been rather amusing to be
 a faithful parishioner of Paddington Green.
 
@@ -58,10 +58,10 @@ eccentric a borderland of orthodoxy.  And the reader must once
 more reconcile himself, with a groan, to some brief references to
 real beliefs, and the thing which some call theory, and I call thought.
 In the purely religious sense, I was brought up among people who were
-Unitarians and Universalists, but who were well aware that a great
+Unitarians and Universalists, but who were [[Well|well]] aware that a great
 many people around them were becoming agnostics or even atheists.
 Indeed there were two tendencies in what was called the emancipation
-of faith from the creeds and dogmas of the past.  The two tendencies
+of [[Faith|faith]] from the creeds and dogmas of the past.  The two tendencies
 were in flatly contrary directions; and it is thoroughly typical
 of that world that they were both called by the same name.
 Both were supposed to be liberal theology or the religion
@@ -71,14 +71,14 @@ all must be right with the world; with this world or with the next.
 The other half of them were specially bent on showing that it was very
 doubtful if there was any God in any heaven, and that it was so certain
 to the scientific eye that all is not right with the world, that it
-would be nearer the truth to say that all is wrong with the world.
+would be nearer the [[Truth|truth]] to say that all is wrong with the world.
 One of these movements of progress led into the glorious
 fairyland of George Macdonald, the other led into the stark
 and hollowed hills of Thomas Hardy.  The one school was specially
 insisting that God must be supremely perfect if He exists;
 the other that, if He exists, He must be grossly imperfect.
-And by the time I passed from boyhood to manhood, the pessimistic
-doubt had considerably clouded the optimistic dogma.
+And by the [[Time|time]] I passed from boyhood to manhood, the pessimistic
+[[Doubt|doubt]] had considerably clouded the optimistic dogma.
 
 Now I think the first thing that struck me as startling was
 exactly this; that these two schools, which were logically
@@ -91,29 +91,29 @@ themselves it did not seem even questionable.  I myself had sat at
 the feet of that large-hearted and poetic orator, Stopford Brooke,
 and I long accepted the sort of optimistic theism that he taught;
 it was substantially the same as that which I had learnt since
-childhood under the glamorous mysticism of George Macdonald.
-It was full and substantial faith in the Fatherhood of God, and little
+[[Childhood|childhood]] under the glamorous mysticism of George Macdonald.
+It was full and substantial [[Faith|faith]] in the Fatherhood of God, and little
 could be said against it, even in theological theory, except that it
 rather ignored the free-will of man.  Its Universalism was a sort
-of optimistic Calvinism.  But, anyhow, that was my first faith,
-before anything that could really be called my first doubt.
+of optimistic Calvinism.  But, anyhow, that was my first [[Faith|faith]],
+before anything that could really be called my first [[Doubt|doubt]].
 But what struck me as extraordinary, even at first, was that
 these optimists seemed to be in the same camp as the pessimists.
 To my simple mind, it seemed that there could be no connection
-except contradiction, between the man whose whole faith was
+except contradiction, between the man whose whole [[Faith|faith]] was
 in the Fatherhood of God, and the man who said there was no God
 or the man who said that God was no Father.  I pointed out something
 of the sort, long afterwards, when liberal literary critics were
 supposed to class together the philosophies of Meredith and Hardy.
 It seemed to me obvious that Meredith maintains on the whole that
-Nature is to be trusted, and Hardy that Nature is not to be trusted.
-To my innocent mind, these two ideas seemed a little inconsistent.
+[[Nature]] is to be trusted, and Hardy that [[Nature]] is not to be trusted.
+To my [[Innocent|innocent]] mind, these two ideas seemed a little inconsistent.
 I had not yet discovered the higher synthesis which connects them.
 For the higher synthesis which connects them consists in wearing
 liberty ties and curiously shaped beards and hats and meeting
 in cultured clubs where they drink coffee, or (in darker and more
 disreputable dens) cocoa.  That is the only connection there
-is between the ideas; but it took me a long time to find it out.
+is between the ideas; but it took me a long [[Time|time]] to find it out.
 These sceptical doctrinaires do not recognise each other by
 the doctrines.  They recognise each other by the beard or the clothes,
-as the lower animals know each other by the fur or the smell.
+as the lower [[Animals|animals]] know each other by the fur or the smell.

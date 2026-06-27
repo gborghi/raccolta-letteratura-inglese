@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 34)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 34)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -22,13 +22,13 @@ when he recovered from the attack, was doubtful about who had been his
 
 assailant. This might really explain, if a little fancifully, his coming
 
-back to the town in the character of a detective. He might think it due
+back to the town in the character of a [[Detective|detective]]. He might think it due
 
 to his uncle (whom he last remembered in a kind of murderous vision) to
 
 make an independent investigation as to whether he was really guilty or
 
-not. He might say, as Hamlet said of a vision equally terrifying, "I'll
+not. He might say, as [[Hamlet]] said of a vision equally terrifying, "I'll
 
 have grounds more relative than this." In fairness it must be said that
 
@@ -38,7 +38,7 @@ this respect; that there is a sort of farcical cheerfulness about
 
 Datchery which does not seem altogether appropriate to a lad who ought
 
-to be in an agony of doubt as to whether his best friend was or was not
+to be in an agony of [[Doubt|doubt]] as to whether his best friend was or was not
 
 his assassin. Still there are many such incongruities in Dickens; and
 
@@ -58,7 +58,7 @@ where it does end, not by accident but by design. The murder is
 
 explained. Jasper is ready to be hanged, and every one else in a decent
 
-novel ought to be ready to be married. If there was to be much more of
+[[Novel|novel]] ought to be ready to be married. If there was to be much more of
 
 anything, it must have been of anticlimax. Nevertheless there are
 
@@ -70,9 +70,9 @@ Datchery may be Bazzard; but it is not very exciting if he is; for we
 
 know nothing about Bazzard and care less. Again, he might be Grewgious;
 
-but there is something pointless about one grotesque character dressing
+but there is something pointless about one [[Grotesque|grotesque]] character dressing
 
-up as another grotesque character actually less amusing than himself.
+up as another [[Grotesque|grotesque]] character actually less amusing than himself.
 
 Now, Mr. Cumming Walters has at least had the distinction of inventing a
 
@@ -86,7 +86,7 @@ sulky Landless, has a sister even swarthier and, except for her queenly
 
 dignity, even sulkier than he. This barbaric princess is evidently meant
 
-to be (in a sombre way) in love with Crisparkle, the clergyman and
+to be (in a sombre way) in [[Love|love]] with Crisparkle, the clergyman and
 
 muscular Christian who represents the breezy element in the emotions of
 
@@ -94,7 +94,7 @@ the tale. Mr. Cumming Walters seriously maintains that it is this
 
 barbaric princess who puts on a wig and dresses up as Mr. Datchery. He
 
-urges his case with much ingenuity of detail. Helena Landless certainly
+urges his case with much ingenuity of detail. [[Helena Landless]] certainly
 
 had a motive; to save her brother, who was accused falsely, by accusing
 
@@ -102,23 +102,23 @@ Jasper justly. She certainly had some of the faculties; it is
 
 elaborately stated in the earlier part of her story that she was
 
-accustomed as a child to dress up in male costume and run into the
+accustomed as a [[Child|child]] to dress up in male costume and run into the
 
 wildest adventures. There may be something in Mr. Cumming Walters's
 
-argument that the very flippancy of Datchery is the self-conscious
+argument that the very flippancy of Datchery is the [[Self|self]]-conscious
 
 flippancy of a strong woman in such an odd situation; certainly there is
 
-the same flippancy in Portia and in Rosalind. Nevertheless, I think,
+the same flippancy in [[Portia]] and in [[Rosalind]]. Nevertheless, I think,
 
 there is one final objection to the theory; and that is simply this,
 
 that it is comic. It is generally wrong to represent a great master of
 
-the grotesque as being grotesque exactly where he does not intend to be.
+the [[Grotesque|grotesque]] as being [[Grotesque|grotesque]] exactly where he does not intend to be.
 
-And I am persuaded that if Dickens had really meant Helena to turn into
+And I am persuaded that if Dickens had really meant [[Helena]] to turn into
 
 Datchery, he would have made her from the first in some way more light,
 
@@ -130,7 +130,7 @@ incredible about the idea of a lady so dark and dignified dressing up as
 
 a swaggering old gentleman in a blue coat and grey trousers. We might
 
-almost as easily imagine Edith Dombey dressing up as Major Bagstock. We
+almost as easily imagine Edith Dombey dressing up as [[Major Bagstock]]. We
 
 might almost as easily imagine Rebecca in _Ivanhoe_ dressing up as Isaac
 
@@ -142,9 +142,9 @@ Of course such a question can never really be settled precisely, because
 
 it is the question not merely of a mystery but of a puzzle. For here the
 
-detective novel differs from every other kind of novel. The ordinary
+[[Detective|detective]] [[Novel|novel]] differs from every other kind of [[Novel|novel]]. The ordinary
 
-novelist desires to keep his readers to the point; the detective
+novelist desires to keep his readers to the point; the [[Detective|detective]]
 
 novelist actually desires to keep his readers off the point. In the
 
@@ -174,7 +174,7 @@ farcical. Mr. Walters says that all Mr. Lang's clues were blinds; Mr.
 
 Lang says that all Mr. Walters's clues were blinds. Mr. Walters can say
 
-that some passages seemed to show that Helena was Datchery; Mr. Lang can
+that some passages seemed to show that [[Helena]] was Datchery; Mr. Lang can
 
 reply that those passages were only meant to deceive simple people like
 

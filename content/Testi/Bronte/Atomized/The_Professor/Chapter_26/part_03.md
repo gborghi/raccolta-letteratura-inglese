@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 25 (part 3)"
+title: "[[The Professor]] — Chapter 25 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,7 +18,7 @@ mind; they felt too, and some of them received the impression of
 
 elevated sentiments; there was little fondling between mistress and
 
-girls, but some of Frances’ pupils in time learnt to love her sincerely,
+girls, but some of Frances’ pupils in [[Time|time]] learnt to [[Love|love]] her sincerely,
 
 all of them beheld her with respect; her general demeanour towards
 
@@ -30,15 +30,15 @@ In cases where reproof or punishment was called for she was usually
 
 forbearing enough; but if any took advantage of that forbearance, which
 
-sometimes happened, a sharp, sudden and lightning-like severity taught
+sometimes happened, a sharp, sudden and [[Lightning|lightning]]-like severity taught
 
 the culprit the extent of the mistake committed. Sometimes a gleam of
 
 tenderness softened her eyes and manner, but this was rare; only when
 
-a pupil was sick, or when it pined after home, or in the case of some
+a pupil was sick, or when it pined after [[Home|home]], or in the case of some
 
-little motherless child, or of one much poorer than its companions,
+little motherless [[Child|child]], or of one much poorer than its companions,
 
 whose scanty wardrobe and mean appointments brought on it the contempt
 
@@ -46,21 +46,21 @@ of the jewelled young countesses and silk-clad misses. Over such feeble
 
 fledglings the directress spread a wing of kindliest protection: it was
 
-to their bedside she came at night to tuck them warmly in; it was after
+to their bedside she came at [[Night|night]] to tuck them warmly in; it was after
 
-them she looked in winter to see that they always had a comfortable seat
+them she looked in [[Winter|winter]] to see that they always had a comfortable seat
 
 by the stove; it was they who by turns were summoned to the salon to
 
 receive some little dole of cake or fruit--to sit on a footstool at
 
-the fireside--to enjoy home comforts, and almost home liberty, for
+the fireside--to enjoy [[Home|home]] comforts, and almost [[Home|home]] liberty, for
 
 an evening together--to be spoken to gently and softly, comforted,
 
 encouraged, cherished--and when bedtime came, dismissed with a kiss
 
-of true tenderness. As to Julia and Georgiana G----, daughters of an
+of true tenderness. As to [[Julia]] and Georgiana G----, daughters of an
 
 English baronet, as to Mdlle. Mathilde de ----, heiress of a Belgian
 
@@ -70,7 +70,7 @@ careful of them as of the others, anxious for their progress, as for
 
 that of the rest--but it never seemed to enter her head to distinguish
 
-them by a mark of preference; one girl of noble blood she loved
+them by a mark of preference; one girl of noble [[Blood|blood]] she loved
 
 dearly--a young Irish baroness--lady Catherine ----; but it was for her
 
@@ -84,11 +84,11 @@ My afternoons were spent also in college, with the exception of an hour
 
 that my wife daily exacted of me for her establishment, and with which
 
-she would not dispense. She said that I must spend that time amongst her
+she would not dispense. She said that I must spend that [[Time|time]] amongst her
 
 pupils to learn their characters, to be AU COURANT with everything that
 
-was passing in the house, to become interested in what interested her,
+was passing in the [[house]], to become interested in what interested her,
 
 to be able to give her my opinion on knotty points when she required it,
 
@@ -108,13 +108,13 @@ joy to make me still the master in all things.
 
 
 
-At six o’clock P.M. my daily labours ceased. I then came home, for
+At six o’[[Clock|clock]] P.M. my daily labours ceased. I then came [[Home|home]], for
 
-my home was my heaven; ever at that hour, as I entered our private
+my [[Home|home]] was my heaven; ever at that hour, as I entered our private
 
 sitting-room, the lady-directress vanished from before my eyes, and
 
-Frances Henri, my own little lace-mender, was magically restored to my
+[[Frances Henri]], my own little lace-mender, was magically restored to my
 
 arms; much disappointed she would have been if her master had not been
 
@@ -126,7 +126,7 @@ been prompt to answer her soft, “Bon soir, monsieur.”
 
 Talk French to me she would, and many a punishment she has had for
 
-her wilfulness. I fear the choice of chastisement must have been
+her wilfulness. I [[Fear|fear]] the choice of chastisement must have been
 
 injudicious, for instead of correcting the fault, it seemed to encourage
 
@@ -138,7 +138,7 @@ spent them all in conversation, and my young Genevese, now that she was
 
 thoroughly accustomed to her English professor, now that she loved
 
-him too absolutely to fear him much, reposed in him a confidence so
+him too absolutely to [[Fear|fear]] him much, reposed in him a confidence so
 
 unlimited that topics of conversation could no more be wanting with him
 
@@ -146,7 +146,7 @@ than subjects for communion with her own heart. In those moments, happy
 
 as a bird with its mate, she would show me what she had of vivacity, of
 
-mirth, of originality in her well-dowered nature. She would show, too,
+mirth, of originality in her [[Well|well]]-dowered [[Nature|nature]]. She would show, too,
 
 some stores of raillery, of “malice,” and would vex, tease, pique me
 
@@ -182,7 +182,7 @@ had a difficulty in comprehending his deep, serene, and sober mind; his
 
 language, too, was not facile to her; she had to ask questions, to sue
 
-for explanations, to be like a child and a novice, and to acknowledge
+for explanations, to be like a [[Child|child]] and a novice, and to acknowledge
 
 me as her senior and director. Her instinct instantly penetrated and
 

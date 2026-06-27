@@ -1,5 +1,5 @@
 ---
-title: "VariedTypes — Bret Harte (part 3)"
+title: "[[VariedTypes]] — Bret Harte (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/VariedTypes-(Chesterton)"
@@ -16,13 +16,13 @@ tags:
 
 evening dress lifts up his voice in a superb lamentation over the
 
-tragedy of finding his old friend at last "a 'otel waiter." Then,
+[[Tragedy|tragedy]] of finding his old friend at last "a 'otel waiter." Then,
 
-vindictively pursuing the satire, he calls fiercely to his young friend,
+vindictively pursuing the [[Satire|satire]], he calls fiercely to his young friend,
 
 "Hi, Alphonse! bring me a patty de foy gras, damme." These are the
 
-things that make us love the eminent Bill. He is one of those who
+things that make us [[Love|love]] the eminent Bill. He is one of those who
 
 achieve the noblest and most difficult of all the triumphs of a
 
@@ -32,19 +32,19 @@ a great deal more in him than appears between the two boards of the
 
 story. Smaller characters give us the impression that the author has
 
-told the whole truth about them, greater characters give the impression
+told the whole [[Truth|truth]] about them, greater characters give the impression
 
-that the author has given of them, not the truth, but merely a few hints
+that the author has given of them, not the [[Truth|truth]], but merely a few hints
 
 and samples. In some mysterious way we seem to feel that even if
 
-Shakespeare was wrong about Falstaff, Falstaff existed and was real;
+Shakespeare was wrong about [[Falstaff]], [[Falstaff]] existed and was real;
 
 that even if Dickens was wrong about Micawber, Micawber existed and was
 
 real. So we feel that there is in the great salt-sea of Yuba Bill's
 
-humour as good fish as ever came out of it. The fleeting jests which
+[[Humour|humour]] as good fish as ever came out of it. The fleeting jests which
 
 Yuba Bill throws to the coach passengers only give us the opportunity of
 
@@ -66,23 +66,23 @@ the life of an entirely new people, a people who, having no certain
 
 past, could have no certain future. The strangest of all the sardonic
 
-jests that history has ever played may be found in this fact: that
+jests that [[history]] has ever played may be found in this fact: that
 
-there is a city which is of all cities the most typical of innovation
+there is a [[City|city]] which is of all cities the most typical of innovation
 
 and dissipation, and a certain almost splendid vulgarity, and that this
 
-city bears the name in a quaint old European language of the most
+[[City|city]] bears the name in a quaint old European language of the most
 
 perfect exponent of the simplicity and holiness of the Christian
 
-tradition; the city is called San Francisco. San Francisco, the capital
+tradition; the [[City|city]] is called San Francisco. San Francisco, the capital
 
-of the Bret Harte country, is a city typifying novelty in a manner in
+of the Bret Harte country, is a [[City|city]] typifying novelty in a manner in
 
 which it is typified by few modern localities. San Francisco has in all
 
-probability its cathedrals, but it may well be that its cathedrals are
+probability its cathedrals, but it may [[Well|well]] be that its cathedrals are
 
 less old and less traditional than many of our hotels. If its
 
@@ -92,7 +92,7 @@ worship we can find a trace, that temple would still be a modern thing
 
 compared with many taverns in Suffolk round which there lingers a faint
 
-tradition of Mr. Pickwick. And everything in that new gold country was
+tradition of Mr. [[Pickwick]]. And everything in that new gold country was
 
 new, even to the individual inhabitants. Good, bad, and indifferent,
 
@@ -100,7 +100,7 @@ heroes and dastards, they were all men from nowhere.
 
 
 
-Most of us have come across the practical problem of London landladies,
+Most of us have come across the practical problem of [[London]] landladies,
 
 the problem of the doubtful foreign gentleman in a street of respectable
 
@@ -108,11 +108,11 @@ English people. Those who have done so can form some idea of what it
 
 would be to live in a street full of doubtful foreign gentlemen, in a
 
-parish, in a city, in a nation composed entirely of doubtful foreign
+parish, in a [[City|city]], in a nation composed entirely of doubtful foreign
 
-gentlemen. Old California, at the time of the first rush after gold, was
+gentlemen. Old California, at the [[Time|time]] of the first rush after gold, was
 
-actually this paradox of the nation of foreigners. It was a republic of
+actually this [[Paradox|paradox]] of the nation of foreigners. It was a republic of
 
 incognitos: no one knew who anyone else was, and only the more
 
@@ -126,7 +126,7 @@ such a country everyone is an equal, because everyone is a stranger. In
 
 such a country it is not strange if men in moral matters feel something
 
-of the irresponsibility of a dream. To plan plans which are continually
+of the irresponsibility of [[A Dream|a dream]]. To plan plans which are continually
 
 miscarrying against men who are continually disappearing by the
 
@@ -152,18 +152,18 @@ fact that while modern barbarians of genius like Mr. Henley, and in his
 
 weaker moments Mr. Rudyard Kipling, delight in describing the coarseness
 
-and crude cynicism and fierce humour of the unlettered classes, the
+and crude cynicism and fierce [[Humour|humour]] of the unlettered classes, the
 
 unlettered classes are in reality highly sentimental and religious, and
 
 not in the least like the creations of Mr. Henley and Mr. Kipling. Bret
 
-Harte tells the truth about the wildest, the grossest, the most
+Harte tells the [[Truth|truth]] about the wildest, the grossest, the most
 
-rapacious of all the districts of the earth--the truth that, while it is
+rapacious of all the districts of the earth--the [[Truth|truth]] that, while it is
 
 very rare indeed in the world to find a thoroughly good man, it is
 
 rarer still, rare to the point of monstrosity, to find a man who does
 
-not either desire to be one, or imagine that he is one already.
+not either [[Desire|desire]] to be one, or imagine that he is one already.

@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 63: A VISITOR"
+title: "[[David Copperfield]] — Chapter 63: A VISITOR"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -18,13 +18,13 @@ CHAPTER 63. A VISITOR
 
 
 What I have purposed to record is nearly finished; but there is yet an
-incident conspicuous in my memory, on which it often rests with delight,
+incident conspicuous in my [[Memory|memory]], on which it often rests with delight,
 and without which one thread in the web I have spun would have a
 ravelled end.
 
 I had advanced in fame and fortune, my domestic joy was perfect, I had
-been married ten happy years. Agnes and I were sitting by the fire, in
-our house in London, one night in spring, and three of our children were
+been married ten happy years. Agnes and I were sitting by the [[Fire|fire]], in
+our [[house]] in [[London]], one [[Night|night]] in [[spring]], and three of our children were
 playing in the room, when I was told that a stranger wished to see me.
 
 He had been asked if he came on business, and had answered No; he had
@@ -35,9 +35,9 @@ As this sounded mysterious to the children, and moreover was like the
 beginning of a favourite story Agnes used to tell them, introductory
 to the arrival of a wicked old Fairy in a cloak who hated everybody, it
 produced some commotion. One of our boys laid his head in his mother’s
-lap to be out of harm’s way, and little Agnes (our eldest child) left
+lap to be out of harm’s way, and little Agnes (our eldest [[Child|child]]) left
 her doll in a chair to represent her, and thrust out her little heap
-of golden curls from between the window-curtains, to see what happened
+of golden curls from between the [[Window|window]]-curtains, to see what happened
 next.
 
 ‘Let him come in here!’ said I.
@@ -49,7 +49,7 @@ starting up, cried out to me, in a pleased and agitated voice, that it
 was Mr. Peggotty!
 
 It WAS Mr. Peggotty. An old man now, but in a ruddy, hearty, strong old
-age. When our first emotion was over, and he sat before the fire with
+age. When our first emotion was over, and he sat before the [[Fire|fire]] with
 the children on his knees, and the blaze shining on his face, he looked,
 to me, as vigorous and robust, withal as handsome, an old man, as ever I
 had seen.
@@ -61,26 +61,26 @@ more, ‘long with your own trew wife!’
 ‘A joyful hour indeed, old friend!’ cried I.
 
 ‘And these heer pretty ones,’ said Mr. Peggotty. ‘To look at these heer
-flowers! Why, Mas’r Davy, you was but the heighth of the littlest of
+[[Flowers|flowers]]! Why, Mas’r Davy, you was but the heighth of the littlest of
 these, when I first see you! When Em’ly warn’t no bigger, and our poor
 lad were BUT a lad!’
 
-‘Time has changed me more than it has changed you since then,’ said I.
-‘But let these dear rogues go to bed; and as no house in England but
+‘[[Time]] has changed me more than it has changed you since then,’ said I.
+‘But let these dear rogues go to bed; and as no [[house]] in England but
 this must hold you, tell me where to send for your luggage (is the old
-black bag among it, that went so far, I wonder!), and then, over a glass
+black bag among it, that went so far, I [[Wonder|wonder]]!), and then, over a glass
 of Yarmouth grog, we will have the tidings of ten years!’
 
-‘Are you alone?’ asked Agnes.
+‘Are you [[Alone|alone]]?’ asked Agnes.
 
-‘Yes, ma’am,’ he said, kissing her hand, ‘quite alone.’
+‘Yes, ma’am,’ he said, kissing her hand, ‘quite [[Alone|alone]].’
 
 We sat him between us, not knowing how to give him welcome enough; and
 as I began to listen to his old familiar voice, I could have fancied he
-was still pursuing his long journey in search of his darling niece.
+was still pursuing his long [[Journey|journey]] in search of his darling niece.
 
-‘It’s a mort of water,’ said Mr. Peggotty, ‘fur to come across, and
-on’y stay a matter of fower weeks. But water (‘specially when ‘tis salt)
+‘It’s a mort of [[Water|water]],’ said Mr. Peggotty, ‘fur to come across, and
+on’y stay a matter of fower weeks. But [[Water|water]] (‘specially when ‘tis salt)
 comes nat’ral to me; and friends is dear, and I am heer. --Which is
 verse,’ said Mr. Peggotty, surprised to find it out, ‘though I hadn’t
 such intentions.’
@@ -91,7 +91,7 @@ such intentions.’
 away. You see, I doen’t grow younger as the years comes round, and if
 I hadn’t sailed as ‘twas, most like I shouldn’t never have done ‘t. And
 it’s allus been on my mind, as I must come and see Mas’r Davy and your
-own sweet blooming self, in your wedded happiness, afore I got to be too
+own sweet blooming [[Self|self]], in your wedded happiness, afore I got to be too
 old.’
 
 He looked at us, as if he could never feast his eyes on us sufficiently.
@@ -105,7 +105,7 @@ nohows, but fared to thrive. We’ve allus thrived. We’ve worked as we
 ought to ‘t, and maybe we lived a leetle hard at first or so, but
 we have allus thrived. What with sheep-farming, and what with
 stock-farming, and what with one thing and what with t’other, we are as
-well to do, as well could be. Theer’s been kiender a blessing fell upon
+[[Well|well]] to do, as [[Well|well]] could be. Theer’s been kiender a blessing fell upon
 us,’ said Mr. Peggotty, reverentially inclining his head, ‘and we’ve
 done nowt but prosper. That is, in the long run. If not yesterday, why
 then today. If not today, why then tomorrow.’
@@ -113,7 +113,7 @@ then today. If not today, why then tomorrow.’
 ‘And Emily?’ said Agnes and I, both together.
 
 ‘Em’ly,’ said he, ‘arter you left her, ma’am--and I never heerd her
-saying of her prayers at night, t’other side the canvas screen, when we
+saying of her prayers at [[Night|night]], t’other side the canvas screen, when we
 was settled in the Bush, but what I heerd your name--and arter she and
 me lost sight of Mas’r Davy, that theer shining sundown--was that low,
 at first, that, if she had know’d then what Mas’r Davy kep from us so
@@ -132,53 +132,53 @@ roof. Theer come along one day, when I was out a-working on the land, a
 traveller from our own Norfolk or Suffolk in England (I doen’t rightly
 mind which), and of course we took him in, and giv him to eat and drink,
 and made him welcome. We all do that, all the colony over. He’d got an
-old newspaper with him, and some other account in print of the storm.
-That’s how she know’d it. When I came home at night, I found she know’d
+old newspaper with him, and some other account in print of the [[Storm|storm]].
+That’s how she know’d it. When I came [[Home|home]] at [[Night|night]], I found she know’d
 it.’
 
-He dropped his voice as he said these words, and the gravity I so well
+He dropped his voice as he said these words, and the gravity I so [[Well|well]]
 remembered overspread his face.
 
 ‘Did it change her much?’ we asked.
 
-‘Aye, for a good long time,’ he said, shaking his head; ‘if not to this
+‘Aye, for a good long [[Time|time]],’ he said, shaking his head; ‘if not to this
 present hour. But I think the solitoode done her good. And she had a
 deal to mind in the way of poultry and the like, and minded of it, and
-come through. I wonder,’ he said thoughtfully, ‘if you could see my
+come through. I [[Wonder|wonder]],’ he said thoughtfully, ‘if you could see my
 Em’ly now, Mas’r Davy, whether you’d know her!’
 
 ‘Is she so altered?’ I inquired.
 
 ‘I doen’t know. I see her ev’ry day, and doen’t know; But, odd-times, I
-have thowt so. A slight figure,’ said Mr. Peggotty, looking at the fire,
+have thowt so. A slight figure,’ said Mr. Peggotty, looking at the [[Fire|fire]],
 ‘kiender worn; soft, sorrowful, blue eyes; a delicate face; a pritty
 head, leaning a little down; a quiet voice and way--timid a’most. That’s
 Em’ly!’
 
-We silently observed him as he sat, still looking at the fire.
+We silently observed him as he sat, still looking at the [[Fire|fire]].
 
 ‘Some thinks,’ he said, ‘as her affection was ill-bestowed; some, as her
-marriage was broken off by death. No one knows how ‘tis. She might have
-married well, a mort of times, “but, uncle,” she says to me, “that’s
+[[Marriage|marriage]] was broken off by [[Death|death]]. No one knows how ‘tis. She might have
+married [[Well|well]], a mort of times, “but, uncle,” she says to me, “that’s
 gone for ever.” Cheerful along with me; retired when others is by;
-fond of going any distance fur to teach a child, or fur to tend a sick
+fond of going any distance fur to teach a [[Child|child]], or fur to tend a sick
 person, or fur to do some kindness tow’rds a young girl’s wedding (and
 she’s done a many, but has never seen one); fondly loving of her uncle;
 patient; liked by young and old; sowt out by all that has any trouble.
 That’s Em’ly!’
 
 He drew his hand across his face, and with a half-suppressed sigh looked
-up from the fire.
+up from the [[Fire|fire]].
 
 ‘Is Martha with you yet?’ I asked.
 
 ‘Martha,’ he replied, ‘got married, Mas’r Davy, in the second year. A
 young man, a farm-labourer, as come by us on his way to market with his
-mas’r’s drays--a journey of over five hundred mile, theer and back--made
+mas’r’s drays--a [[Journey|journey]] of over five hundred mile, theer and back--made
 offers fur to take her fur his wife (wives is very scarce theer), and
 then to set up fur their two selves in the Bush. She spoke to me fur to
 tell him her trew story. I did. They was married, and they live fower
-hundred mile away from any voices but their own and the singing birds.’
+hundred mile away from any voices but their own and the singing [[Birds|birds]].’
 
 ‘Mrs. Gummidge?’ I suggested.
 
@@ -188,7 +188,7 @@ been accustomed to do when he enjoyed himself in the long-shipwrecked
 boat.
 
 ‘Would you believe it!’ he said. ‘Why, someun even made offer fur to
-marry her! If a ship’s cook that was turning settler, Mas’r Davy, didn’t
+marry her! If a [[Ship|ship]]’s cook that was turning settler, Mas’r Davy, didn’t
 make offers fur to marry Missis Gummidge, I’m Gormed--and I can’t say no
 fairer than that!’
 
@@ -197,12 +197,12 @@ Peggotty was so delightful to her, that she could not leave off
 laughing; and the more she laughed the more she made me laugh, and the
 greater Mr. Peggotty’s ecstasy became, and the more he rubbed his legs.
 
-‘And what did Mrs. Gummidge say?’ I asked, when I was grave enough.
+‘And what did Mrs. Gummidge say?’ I asked, when I was [[Grave|grave]] enough.
 
 ‘If you’ll believe me,’ returned Mr. Peggotty, ‘Missis Gummidge, ‘stead
 of saying “thank you, I’m much obleeged to you, I ain’t a-going fur
-to change my condition at my time of life,” up’d with a bucket as was
-standing by, and laid it over that theer ship’s cook’s head ‘till he
+to change my condition at my [[Time|time]] of life,” up’d with a bucket as was
+standing by, and laid it over that theer [[Ship|ship]]’s cook’s head ‘till he
 sung out fur help, and I went in and reskied of him.’
 
 Mr. Peggotty burst into a great roar of laughter, and Agnes and I both
@@ -220,14 +220,14 @@ since she left England!’
 ‘Now, last, not least, Mr. Micawber,’ said I. ‘He has paid off every
 obligation he incurred here--even to Traddles’s bill, you remember my
 dear Agnes--and therefore we may take it for granted that he is doing
-well. But what is the latest news of him?’
+[[Well|well]]. But what is the latest news of him?’
 
 Mr. Peggotty, with a smile, put his hand in his breast-pocket, and
 produced a flat-folded, paper parcel, from which he took out, with much
 care, a little odd-looking newspaper.
 
 ‘You are to understan’, Mas’r Davy,’ said he, ‘as we have left the
-Bush now, being so well to do; and have gone right away round to Port
+Bush now, being so [[Well|well]] to do; and have gone right away round to Port
 Middlebay Harbour, wheer theer’s what we call a town.’
 
 ‘Mr. Micawber was in the Bush near you?’ said I.
@@ -244,25 +244,25 @@ read aloud as follows, from the Port Middlebay Times:
 
 
 ‘The public dinner to our distinguished fellow-colonist and townsman,
-WILKINS MICAWBER, ESQUIRE, Port Middlebay District Magistrate, came
+[[Wilkins Micawber|WILKINS MICAWBER]], ESQUIRE, Port Middlebay District Magistrate, came
 off yesterday in the large room of the Hotel, which was crowded to
 suffocation. It is estimated that not fewer than forty-seven persons
-must have been accommodated with dinner at one time, exclusive of the
-company in the passage and on the stairs. The beauty, fashion, and
-exclusiveness of Port Middlebay, flocked to do honour to one so
+must have been accommodated with dinner at one [[Time|time]], exclusive of the
+company in the passage and on the stairs. The [[Beauty|beauty]], fashion, and
+exclusiveness of Port Middlebay, flocked to do [[Honour|honour]] to one so
 deservedly esteemed, so highly talented, and so widely popular. Doctor
-Mell (of Colonial Salem-House Grammar School, Port Middlebay) presided,
+Mell (of Colonial Salem-[[house|House]] Grammar School, Port Middlebay) presided,
 and on his right sat the distinguished guest. After the removal of the
 cloth, and the singing of Non Nobis (beautifully executed, and in which
 we were at no loss to distinguish the bell-like notes of that gifted
-amateur, WILKINS MICAWBER, ESQUIRE, JUNIOR), the usual loyal and
+amateur, [[Wilkins Micawber|WILKINS MICAWBER]], ESQUIRE, JUNIOR), the usual loyal and
 patriotic toasts were severally given and rapturously received. Doctor
 Mell, in a speech replete with feeling, then proposed “Our distinguished
 Guest, the ornament of our town. May he never leave us but to better
-himself, and may his success among us be such as to render his bettering
+himself, and may his [[success]] among us be such as to render his bettering
 himself impossible!” The cheering with which the toast was received
-defies description. Again and again it rose and fell, like the waves
-of ocean. At length all was hushed, and WILKINS MICAWBER, ESQUIRE,
+defies description. Again and again it [[Rose|rose]] and fell, like the waves
+of ocean. At length all was hushed, and [[Wilkins Micawber|WILKINS MICAWBER]], ESQUIRE,
 presented himself to return thanks. Far be it from us, in the present
 comparatively imperfect state of the resources of our establishment,
 to endeavour to follow our distinguished townsman through the
@@ -273,17 +273,17 @@ career to its source, and warned the younger portion of his auditory
 from the shoals of ever incurring pecuniary liabilities which they were
 unable to liquidate, brought a tear into the manliest eye present. The
 remaining toasts were DOCTOR MELL; Mrs. MICAWBER (who gracefully bowed
-her acknowledgements from the side-door, where a galaxy of beauty was
+her acknowledgements from the side-door, where a galaxy of [[Beauty|beauty]] was
 elevated on chairs, at once to witness and adorn the gratifying scene),
-Mrs. RIDGER BEGS (late Miss Micawber); Mrs. MELL; WILKINS MICAWBER,
+Mrs. RIDGER BEGS (late Miss Micawber); Mrs. MELL; [[Wilkins Micawber|WILKINS MICAWBER]],
 ESQUIRE, JUNIOR (who convulsed the assembly by humorously remarking that
 he found himself unable to return thanks in a speech, but would do so,
-with their permission, in a song); Mrs. MICAWBER’S FAMILY (well known,
+with their permission, in a [[Song|song]]); Mrs. MICAWBER’S FAMILY ([[Well|well]] known,
 it is needless to remark, in the mother-country), &c. &c. &c. At the
-conclusion of the proceedings the tables were cleared as if by art-magic
+conclusion of the proceedings the tables were cleared as if by art-[[Magic|magic]]
 for dancing. Among the votaries of TERPSICHORE, who disported themselves
-until Sol gave warning for departure, Wilkins Micawber, Esquire, Junior,
-and the lovely and accomplished Miss Helena, fourth daughter of Doctor
+until Sol gave warning for departure, [[Wilkins Micawber]], Esquire, Junior,
+and the lovely and accomplished Miss [[Helena]], fourth daughter of Doctor
 Mell, were particularly remarkable.’
 
 
@@ -294,7 +294,7 @@ to another part of the paper, my eyes rested on my own name, and I read
 thus:
 
 
-‘TO DAVID COPPERFIELD, ESQUIRE,
+‘TO [[David Copperfield|DAVID COPPERFIELD]], ESQUIRE,
 
 ‘THE EMINENT AUTHOR.
 
@@ -322,7 +322,7 @@ Middlebay, for the gratification of which you are the ministering agent.
 
 ‘Go on, my dear Sir! You are not unknown here, you are not
 unappreciated. Though “remote”, we are neither “unfriended”,
-“melancholy”, nor (I may add) “slow”. Go on, my dear Sir, in your Eagle
+“[[Melancholy|melancholy]]”, nor (I may add) “slow”. Go on, my dear Sir, in your Eagle
 course! The inhabitants of Port Middlebay may at least aspire to watch
 it, with delight, with entertainment, with instruction!
 
@@ -333,7 +333,7 @@ will ever be found, while it has light and life,
                     ‘Eye
                          ‘Appertaining to
 
-                              ‘WILKINS MICAWBER,
+                              ‘[[Wilkins Micawber|WILKINS MICAWBER]],
                                    ‘Magistrate.’
 
 
@@ -347,14 +347,14 @@ and, unless I am very much mistaken, the Leading Article was his also.
 We talked much of Mr. Micawber, on many other evenings while Mr.
 Peggotty remained with us. He lived with us during the whole term of his
 stay,--which, I think, was something less than a month,--and his sister
-and my aunt came to London to see him. Agnes and I parted from him
-aboard-ship, when he sailed; and we shall never part from him more, on
+and my aunt came to [[London]] to see him. Agnes and I parted from him
+aboard-[[Ship|ship]], when he sailed; and we shall never part from him more, on
 earth.
 
 But before he left, he went with me to Yarmouth, to see a little tablet
-I had put up in the churchyard to the memory of Ham. While I was copying
-the plain inscription for him at his request, I saw him stoop, and
-gather a tuft of grass from the grave and a little earth.
+I had put up in the churchyard to the [[Memory|memory]] of Ham. While I was copying
+the plain [[Inscription|inscription]] for him at his request, I saw him stoop, and
+gather a tuft of grass from the [[Grave|grave]] and a little earth.
 
 ‘For Em’ly,’ he said, as he put it in his breast. ‘I promised, Mas’r
 Davy.’

@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 3 (part 1)"
+title: "[[queertrades]] — Chapter 3 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/queertrades-(Chesterton)"
@@ -24,7 +24,7 @@ has now been reduced to a singular condition.  It is the small
 things rather than the large things which make war against us and,
 I may add, beat us.  The bones of the last mammoth have long
 ago decayed, a mighty wreck; the tempests no longer devour our navies,
-nor the mountains with hearts of fire heap hell over our cities.
+nor the [[Mountains|mountains]] with hearts of [[Fire|fire]] heap hell over our cities.
 But we are engaged in a bitter and eternal war with small things;
 chiefly with microbes and with collar studs.  The stud with which I
 was engaged (on fierce and equal terms) as I made the above reflections,
@@ -51,12 +51,12 @@ could not conceal a depressing and gentlemanly excellence, "Asking the
 favour of a few moments' conversation on a most urgent matter."!
 
 I had already subdued the stud, thereby proclaiming that the image
-of God has supremacy over all matters (a valuable truth), and throwing
-on my dress-coat and waistcoat, hurried into the drawing-room. He rose
+of God has supremacy over all matters (a valuable [[Truth|truth]]), and throwing
+on my dress-coat and waistcoat, hurried into the drawing-room. He [[Rose|rose]]
 at my entrance, flapping like a seal; I can use no other description.
 He flapped a plaid shawl over his right arm; he flapped a pair
 of pathetic black gloves; he flapped his clothes; I may say,
-without exaggeration, that he flapped his eyelids, as he rose.
+without exaggeration, that he flapped his eyelids, as he [[Rose|rose]].
 He was a bald-browed, white-haired, white-whiskered old clergyman,
 of a flappy and floppy type.  He said:
 
@@ -70,13 +70,13 @@ I told him I forgave perfectly and waited.
 it is so dreadful--I have lived a quiet life."
 
 I was burning to get away, for it was already doubtful if I should
-be in time for dinner.  But there was something about the old man's
+be in [[Time|time]] for dinner.  But there was something about the old man's
 honest air of bitterness that seemed to open to me the possibilities
 of life larger and more tragic than my own.
 
 I said gently:  "Pray go on."
 
-Nevertheless the old gentleman, being a gentleman as well as old,
+Nevertheless the old gentleman, being a gentleman as [[Well|well]] as old,
 noticed my secret impatience and seemed still more unmanned.
 
 "I'm so sorry," he said meekly; "I wouldn't have come--but for--
@@ -86,13 +86,13 @@ your friend Major Brown recommended me to come here."
 
 "Yes," said the Reverend Mr Shorter, feverishly flapping his plaid
 shawl about.  "He told me you helped him in a great difficulty--
-and my difficulty!  Oh, my dear sir, it's a matter of life and death."
+and my difficulty!  Oh, my dear sir, it's a matter of life and [[Death|death]]."
 
-I rose abruptly, in an acute perplexity.  "Will it take long,
+I [[Rose|rose]] abruptly, in an acute perplexity.  "Will it take long,
 Mr Shorter?"  I asked.  "I have to go out to dinner almost at once."
 
-He rose also, trembling from head to foot, and yet somehow,
-with all his moral palsy, he rose to the dignity of his age
+He [[Rose|rose]] also, trembling from head to foot, and yet somehow,
+with all his moral palsy, he [[Rose|rose]] to the dignity of his age
 and his office.
 
 "I have no right, Mr Swinburne--I have no right at all," he said.
@@ -116,19 +116,19 @@ as if not smoking cigars was a social disgrace.
 
 "No, thank you, no, thank you; not just now," he repeated with that
 hysterical eagerness with which people who do not drink at all often
-try to convey that on any other night of the week they would sit
-up all night drinking rum-punch. "Not just now, thank you."
+try to convey that on any other [[Night|night]] of the week they would sit
+up all [[Night|night]] drinking rum-punch. "Not just now, thank you."
 
 "Nothing else I can get for you?"  I said, feeling genuinely sorry
-for the well-mannered old donkey.  "A cup of tea?"
+for the [[Well|well]]-mannered old [[donkey]].  "A cup of tea?"
 
 I saw a struggle in his eye and I conquered.  When the cup
 of tea came he drank it like a dipsomaniac gulping brandy.
 Then he fell back and said:
 
-"I have had such a time, Mr Swinburne.  I am not used to
+"I have had such a [[Time|time]], Mr Swinburne.  I am not used to
 these excitements.  As Vicar of Chuntsey, in Essex'--he threw this
-in with an indescribable airiness of vanity--'I have never known
+in with an indescribable airiness of [[Vanity|vanity]]--'I have never known
 such things happen."
 
 "What things happen?"  I asked.
@@ -141,7 +141,7 @@ character of an old woman.  Never once.  My experience may be small.
 It may be insufficient.  But it has never occurred to me before."
 
 "I have never heard of it," I said, "as among the duties of a clergyman.
-But I am not well up in church matters.  Excuse me if perhaps I
+But I am not [[Well|well]] up in church matters.  Excuse me if perhaps I
 failed to follow you correctly.  Dressed up--as what?"
 
 "As an old woman," said the vicar solemnly, "as an old woman."

@@ -20,7 +20,7 @@ tags:
 
 
 There was a sort of sequel which came to Garth's ears long afterwards;
-an epilogue to the crazy comedy of the pitchfork and the apple-tree.
+an epilogue to the crazy [[Comedy|comedy]] of the pitchfork and the apple-tree.
 Garth differed from Gale in having a more obvious turn for the rational,
 or at least the rationalistic; and he often found himself debating
 with the sceptics of various scientific clubs and groups; finding them
@@ -47,23 +47,23 @@ of the scientific materialist; for a pin has no effect on a pachyderm.
 The parson was the sort of man who seems to be rolled in layers
 within layers of solid substance resisting anything outside his own
 cheery and sensible mode of life.  But one curious episode had clung
-to the memory of Pond, and he recounted it to Garth, in something
-of the puzzled tone in which a materialist tells a ghost story.
+to the [[Memory|memory]] of Pond, and he recounted it to Garth, in something
+of the puzzled tone in which a materialist tells a [[Ghost|ghost]] story.
 The rival cricketers had been chipping each other in the usual
 friendly fashion, which did not go very much below the surface.
 The Vicar was doubtless a sincere Christian, though chiefly
 what used to be called a muscular Christian.  But it is not unfair
 to him to say that he was more deeply moved in saying that some
-action was not Cricket than in saying it was not Christianity.
+action was not Cricket than in saying it was not [[Christianity]].
 On this and other occasions, however, he relied chiefly on ragging
 his opponent with rather obvious jokes; such as the oft-repeated
 inquiry as to how often the hatter might be expected to do
-the hat-trick. Perhaps the repetition of this epigram eventually
+the hat-trick. Perhaps the repetition of this [[Epigram|epigram]] eventually
 annoyed the worthy freethinker; or perhaps there was something
 in the deeper and more positive tones with which the parson
 dealt with more serious matters, that had the same effect.
 It was with more than his usual breeziness that the reverend
-gentleman on this occasion affirmed the philosophy of his life.
+gentleman on this occasion affirmed the [[philosophy]] of his life.
 "God wants you to play the game," he said.  "That's all that God wants;
 people who will play the game."
 
@@ -71,7 +71,7 @@ people who will play the game."
 in unusual irritation.  "How do you know what God wants?
 You never were God, were you?"
 
-There was a silence; and the atheist was seen to be staring at
+There was a [[Silence|silence]]; and the atheist was seen to be staring at
 the red face of the parson in a somewhat unusual fashion.
 
 "Yes," said the clergyman in a queer quiet voice.
@@ -81,11 +81,11 @@ I found it was too much of a strain."
 With these words the Rev. Herbert Saunders went back to the cricket tent,
 where he mingled with Boy Scouts and village girls with all
 his usual heartiness and hilarity.  But Mr. Pond the atheist,
-sat for some time staring, like one who has seen a miracle.
+sat for some [[Time|time]] staring, like one who has seen a miracle.
 And he afterwards confided to Garth that for a moment the eyes of
 Saunders had looked out of his red, good-humoured face as out of a mask;
-with an instantaneous memory of something awful and appalling,
-and at the same time empty; something the other man could only figure
+with an instantaneous [[Memory|memory]] of something awful and appalling,
+and at the same [[Time|time]] empty; something the other man could only figure
 to himself in vague thoughts of some flat stark building with blank
 windows in a blind alley; and peering out of one of the windows
 the pale face of an idiot.

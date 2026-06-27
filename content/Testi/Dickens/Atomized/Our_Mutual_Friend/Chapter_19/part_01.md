@@ -29,9 +29,9 @@ Riderhood in his boat.
 Riderhood, staring disconsolate.
 
 As if with one accord, they all turned their eyes towards the light of
-the fire shining through the window. It was fainter and duller. Perhaps
-fire, like the higher animal and vegetable life it helps to sustain, has
-its greatest tendency towards death, when the night is dying and the day
+the [[Fire|fire]] shining through the [[Window|window]]. It was fainter and duller. Perhaps
+[[Fire|fire]], like the higher animal and vegetable life it helps to sustain, has
+its greatest tendency towards [[Death|death]], when the [[Night|night]] is dying and the day
 is not yet born.
 
 ‘If it was me that had the law of this here job in hand,’ growled
@@ -39,11 +39,11 @@ Riderhood with a threatening shake of his head, ‘blest if I wouldn’t lay
 hold of HER, at any rate!’
 
 ‘Ay, but it is not you,’ said Eugene. With something so suddenly fierce
-in him that the informer returned submissively; ‘Well, well, well,
+in him that the informer returned submissively; ‘[[Well]], [[Well|well]], [[Well|well]],
 t’other governor, I didn’t say it was. A man may speak.’
 
 ‘And vermin may be silent,’ said Eugene. ‘Hold your tongue, you
-water-rat!’
+[[Water|water]]-rat!’
 
 Astonished by his friend’s unusual heat, Lightwood stared too, and then
 said: ‘What can have become of this man?’
@@ -60,7 +60,7 @@ than she is. Come aboard of mine, and see for your own-selves.’
 There was a little backwardness in complying, for the freight looked too
 much for the boat; but on Riderhood’s protesting ‘that he had had half a
 dozen, dead and alive, in her afore now, and she was nothing deep in the
-water nor down in the stern even then, to speak of;’ they carefully took
+[[Water|water]] nor down in the stern even then, to speak of;’ they carefully took
 their places, and trimmed the crazy thing. While they were doing so,
 Riderhood still sat staring disconsolate.
 
@@ -77,7 +77,7 @@ a thing, nor carrying it out like a man!’
 embarking), as they bumped heavily against a pile; and then in a lower
 voice reversed his late apostrophe by remarking (‘I wish the boat of my
 honourable and gallant friend may be endowed with philanthropy enough
-not to turn bottom-upward and extinguish us!) Steady, steady! Sit close,
+not to turn [[Bottom|bottom]]-upward and extinguish us!) Steady, steady! Sit close,
 Mortimer. Here’s the hail again. See how it flies, like a troop of wild
 cats, at Mr Riderhood’s eyes!’
 
@@ -89,7 +89,7 @@ before the morning; there followed in its wake a ragged tear of light
 which ripped the dark clouds until they showed a great grey hole of day.
 
 They were all shivering, and everything about them seemed to be
-shivering; the river itself; craft, rigging, sails, such early smoke as
+shivering; the [[River|river]] itself; craft, rigging, sails, such early smoke as
 there yet was on the shore. Black with wet, and altered to the eye by
 white patches of hail and sleet, the huddled buildings looked lower
 than usual, as if they were cowering, and had shrunk with the cold. Very
@@ -99,37 +99,37 @@ and the staring black and white letters upon wharves and warehouses
 dead businesses.’
 
 As they glided slowly on, keeping under the shore and sneaking in and
-out among the shipping by back-alleys of water, in a pilfering way
+out among the shipping by back-alleys of [[Water|water]], in a pilfering way
 that seemed to be their boatman’s normal manner of progression, all
 the objects among which they crept were so huge in contrast with their
-wretched boat, as to threaten to crush it. Not a ship’s hull, with its
+wretched boat, as to threaten to crush it. Not a [[Ship|ship]]’s hull, with its
 rusty iron links of cable run out of hawse-holes long discoloured with
-the iron’s rusty tears, but seemed to be there with a fell intention.
+the iron’s rusty [[Tears|tears]], but seemed to be there with a fell intention.
 Not a figure-head but had the menacing look of bursting forward to run
 them down. Not a sluice gate, or a painted scale upon a post or wall,
-showing the depth of water, but seemed to hint, like the dreadfully
+showing the depth of [[Water|water]], but seemed to hint, like the dreadfully
 facetious Wolf in bed in Grandmamma’s cottage, ‘That’s to drown YOU in,
 my dears!’ Not a lumbering black barge, with its cracked and blistered
-side impending over them, but seemed to suck at the river with a
+side impending over them, but seemed to suck at the [[River|river]] with a
 thirst for sucking them under. And everything so vaunted the spoiling
-influences of water—discoloured copper, rotten wood, honey-combed
+influences of [[Water|water]]—discoloured copper, rotten wood, honey-combed
 stone, green dank deposit—that the after-consequences of being crushed,
-sucked under, and drawn down, looked as ugly to the imagination as the
+sucked under, and drawn down, looked as ugly to the [[Imagination|imagination]] as the
 main event.
 
 Some half-hour of this work, and Riderhood unshipped his sculls, stood
 holding on to a barge, and hand over hand long-wise along the barge’s
 side gradually worked his boat under her head into a secret little
-nook of scummy water. And driven into that nook, and wedged as he had
+nook of scummy [[Water|water]]. And driven into that nook, and wedged as he had
 described, was Gaffer’s boat; that boat with the stain still in it,
 bearing some resemblance to a muffled human form.
 
 ‘Now tell me I’m a liar!’ said the honest man.
 
 (‘With a morbid expectation,’ murmured Eugene to Lightwood, ‘that
-somebody is always going to tell him the truth.’)
+somebody is always going to tell him the [[Truth|truth]].’)
 
-‘This is Hexam’s boat,’ said Mr Inspector. ‘I know her well.’
+‘This is Hexam’s boat,’ said Mr Inspector. ‘I know her [[Well|well]].’
 
 ‘Look at the broken scull. Look at the t’other scull gone. NOW tell me I
 am a liar!’ said the honest man.

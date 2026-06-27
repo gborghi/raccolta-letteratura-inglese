@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 24: TWENTY FOUR (part 6)"
+title: "[[Martin Chuzzlewit]] — Chapter 24: TWENTY FOUR (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -25,13 +25,13 @@ one had tried to make me have him, I wouldn’t have had him at all.’
 said Martin.
 
 ‘Oh, good gracious! My dear Mr Chuzzlewit, it would be very hard to make
-him, though he IS a monster, accountable for other people’s vanity,’
+him, though he IS a [[Monster|monster]], accountable for other people’s [[Vanity|vanity]],’
 said Merry. ‘And poor dear Cherry is the vainest darling!’
 
 ‘It was her mistake, then?’
 
-‘I hope it was,’ cried Merry; ‘but, all along, the dear child has been
-so dreadfully jealous, and SO cross, that, upon my word and honour, it’s
+‘I [[Hope|hope]] it was,’ cried Merry; ‘but, all along, the dear [[Child|child]] has been
+so dreadfully jealous, and SO [[Cross|cross]], that, upon my word and [[Honour|honour]], it’s
 impossible to please her, and it’s of no use trying.’
 
 ‘Not forced, persuaded, or controlled,’ said Martin, thoughtfully. ‘And
@@ -48,7 +48,7 @@ and slowly, and in a softened voice, as if he would still invite her
 confidence:
 
 ‘Have you any wish--or is there anything within your breast that
-whispers you may form the wish, if you have time to think--to be
+whispers you may form the wish, if you have [[Time|time]] to think--to be
 released from this engagement?’
 
 Again Miss Merry pouted, and looked down, and plucked the grass, and
@@ -75,7 +75,7 @@ Jonas entered at the moment. And then, without waiting for his nephew,
 he passed out at another gate, and went away.
 
 ‘Oh, you terrible old man!’ cried the facetious Merry to herself. ‘What
-a perfectly hideous monster to be wandering about churchyards in the
+a perfectly hideous [[Monster|monster]] to be wandering about churchyards in the
 broad daylight, frightening people out of their wits! Don’t come here,
 Griffin, or I’ll go away directly.’
 
@@ -88,13 +88,13 @@ spite of this warning, and sulkily inquired:
 me.’
 
 ‘Oh, yes, I dare say! We all know that. He means to give you some
-present worth having, I hope. Did he say anything that looked like it?’
+present worth having, I [[Hope|hope]]. Did he say anything that looked like it?’
 
 ‘THAT he didn’t!’ cried Merry, most decisively.
 
-‘A stingy old dog he is,’ said Jonas. ‘Well?’
+‘A stingy old dog he is,’ said Jonas. ‘[[Well]]?’
 
-‘Griffin!’ cried Miss Mercy, in counterfeit amazement; ‘what are you
+‘Griffin!’ cried Miss [[Mercy]], in counterfeit amazement; ‘what are you
 doing, Griffin?’
 
 ‘Only giving you a squeeze,’ said the discomfited Jonas. ‘There’s no
@@ -105,8 +105,8 @@ agreeable,’ returned his cousin. ‘Do go along, will you? You make me so
 hot!’
 
 Mr Jonas withdrew his arm, and for a moment looked at her more like a
-murderer than a lover. But he cleared his brow by degrees, and broke
-silence with:
+murderer than a [[Lover|lover]]. But he cleared his brow by degrees, and broke
+[[Silence|silence]] with:
 
 ‘I say, Mel!’
 
@@ -117,15 +117,15 @@ betrothed.
 my life, I needn’t tell you, and Pecksniff says that father’s being so
 lately dead makes very little odds; for we can be married as quiet as we
 please down here, and my being lonely is a good reason to the neighbours
-for taking a wife home so soon, especially one that he knew. As to
+for taking a wife [[Home|home]] so soon, especially one that he knew. As to
 crossbones (my uncle, I mean), he’s sure not to put a spoke in the
-wheel, whatever we settle on, for he told Pecksniff only this morning,
+[[Wheel|wheel]], whatever we settle on, for he told Pecksniff only this morning,
 that if YOU liked it he’d nothing at all to say. So, Mel,’ said Jonas,
 venturing on another squeeze; ‘when shall it be?’
 
 ‘Upon my word!’ cried Merry.
 
-‘Upon my soul, if you like,’ said Jonas. ‘What do you say to next week,
+‘Upon my [[Soul|soul]], if you like,’ said Jonas. ‘What do you say to next week,
 now?’
 
 ‘To next week! If you had said next quarter, I should have wondered at
@@ -138,7 +138,7 @@ no! not next week. It shan’t be till I choose, and I may not choose it
 to be for months. There!’
 
 He glanced up at her from the ground, almost as darkly as he had looked
-at Tom Pinch; but held his peace.
+at [[Tom Pinch]]; but held his peace.
 
 ‘No fright of a Griffin with a patch over his eye shall dictate to me or
 have a voice in the matter,’ said Merry. ‘There!’
@@ -148,7 +148,7 @@ Still Mr Jonas held his peace.
 ‘If it’s next month, that shall be the very earliest; but I won’t say
 when it shall be till to-morrow; and if you don’t like that, it shall
 never be at all,’ said Merry; ‘and if you follow me about and won’t
-leave me alone, it shall never be at all. There! And if you don’t do
+leave me [[Alone|alone]], it shall never be at all. There! And if you don’t do
 everything I order you to do, it shall never be at all. So don’t follow
 me. There, Griffin!’
 
@@ -156,7 +156,7 @@ And with that, she skipped away, among the trees.
 
 ‘Ecod, my lady!’ said Jonas, looking after her, and biting a piece
 of straw, almost to powder; ‘you’ll catch it for this, when you ARE
-married. It’s all very well now--it keeps one on, somehow, and you know
+married. It’s all very [[Well|well]] now--it keeps one on, somehow, and you know
 it--but I’ll pay you off scot and lot by-and-bye. This is a plaguey dull
 sort of a place for a man to be sitting by himself in. I never could
 abide a mouldy old churchyard.’

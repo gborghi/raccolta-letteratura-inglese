@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 6 (part 3)"
+title: "[[thursday]] — Chapter 6 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-The President seemed to take the foreigner's incoherent satire
-with entire good humour.
+The President seemed to take the foreigner's incoherent [[Satire|satire]]
+with entire good [[Humour|humour]].
 
 "You can't get hold of it yet, Gogol," he said in a fatherly way.
 "When once they have heard us talking nonsense on that balcony
@@ -25,14 +25,14 @@ You don't seem to know anything about mankind."
 
 "I die for zem," cried the Pole in thick excitement, "and I slay
 zare oppressors.  I care not for these games of gonzealment.
-I would zmite ze tyrant in ze open square."
+I would zmite ze [[Tyrant|tyrant]] in ze open square."
 
 "I see, I see," said the President, nodding kindly as he seated
 himself at the top of a long table.  "You die for mankind first,
 and then you get up and smite their oppressors.  So that's all right.
 And now may I ask you to control your beautiful sentiments,
 and sit down with the other gentlemen at this table.
-For the first time this morning something intelligent is going
+For the first [[Time|time]] this morning something intelligent is going
 to be said."
 
 Syme, with the perturbed promptitude he had shown since
@@ -54,27 +54,27 @@ I suggest Comrade Saturday, Dr. Bull."
 
 They all stared at him; then they all started in their seats, for the
 next words, though not loud, had a living and sensational emphasis.
-Sunday struck the table.
+[[Sunday]] struck the table.
 
 "Not one word more about the plans and places must be said at this meeting.
 Not one tiny detail more about what we mean to do must be mentioned
 in this company."
 
-Sunday had spent his life in astonishing his followers;
+[[Sunday]] had spent his life in astonishing his followers;
 but it seemed as if he had never really astonished them until now.
 They all moved feverishly in their seats, except Syme.  He sat stiff in his,
 with his hand in his pocket, and on the handle of his loaded revolver.
 When the attack on him came he would sell his life dear.
 He would find out at least if the President was mortal.
 
-Sunday went on smoothly--
+[[Sunday]] went on smoothly--
 
 "You will probably understand that there is only one possible
-motive for forbidding free speech at this festival of freedom.
+motive for forbidding free speech at this festival of [[Freedom|freedom]].
 Strangers overhearing us matters nothing.  They assume that we
-are joking.  But what would matter, even unto death, is this,
+are joking.  But what would matter, even unto [[Death|death]], is this,
 that there should be one actually among us who is not of us,
-who knows our grave purpose, but does not share it, who--"
+who knows our [[Grave|grave]] purpose, but does not share it, who--"
 
 The Secretary screamed out suddenly like a woman.
 
@@ -87,14 +87,14 @@ of some huge fish.
 There is a traitor at this table.  I will waste no more words.
 His name--"
 
-Syme half rose from his seat, his finger firm on the trigger.
+Syme half [[Rose|rose]] from his seat, his finger firm on the trigger.
 
 "His name is Gogol," said the President.  "He is that hairy humbug
 over there who pretends to be a Pole."
 
-Gogol sprang to his feet, a pistol in each hand.
+Gogol sprang to his feet, a [[Pistol|pistol]] in each hand.
 With the same flash three men sprang at his throat.
-Even the Professor made an effort to rise.  But Syme saw little
+Even [[The Professor|the Professor]] made an effort to rise.  But Syme saw little
 of the scene, for he was blinded with a beneficent darkness;
 he had sunk down into his seat shuddering, in a palsy
 of passionate relief.

@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 1)"
+title: "[[David Copperfield]] — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -20,7 +20,7 @@ CHAPTER 14. MY AUNT MAKES UP HER MIND ABOUT ME
 On going down in the morning, I found my aunt musing so profoundly over
 the breakfast table, with her elbow on the tray, that the contents of
 the urn had overflowed the teapot and were laying the whole table-cloth
-under water, when my entrance put her meditations to flight. I felt sure
+under [[Water|water]], when my entrance put her meditations to flight. I felt sure
 that I had been the subject of her reflections, and was more than ever
 anxious to know her intentions towards me. Yet I dared not express my
 anxiety, lest it should give her offence.
@@ -41,7 +41,7 @@ choked myself with my tea, which persisted in going the wrong way
 instead of the right one, until I gave in altogether, and sat blushing
 under my aunt’s close scrutiny.
 
-‘Hallo!’ said my aunt, after a long time.
+‘Hallo!’ said my aunt, after a long [[Time|time]].
 
 I looked up, and met her sharp bright glance respectfully.
 
@@ -79,14 +79,14 @@ the room, which was dusted and arranged to a hair’s breadth already.
 When all these tasks were performed to her satisfaction, she took off
 the gloves and apron, folded them up, put them in the particular corner
 of the press from which they had been taken, brought out her work-box
-to her own table in the open window, and sat down, with the green fan
+to her own table in the open [[Window|window]], and sat down, with the green fan
 between her and the light, to work.
 
 ‘I wish you’d go upstairs,’ said my aunt, as she threaded her needle,
 ‘and give my compliments to Mr. Dick, and I’ll be glad to know how he
 gets on with his Memorial.’
 
-I rose with all alacrity, to acquit myself of this commission.
+I [[Rose|rose]] with all alacrity, to acquit myself of this commission.
 
 ‘I suppose,’ said my aunt, eyeing me as narrowly as she had eyed the
 needle in threading it, ‘you think Mr. Dick a short name, eh?’
@@ -94,7 +94,7 @@ needle in threading it, ‘you think Mr. Dick a short name, eh?’
 ‘I thought it was rather a short name, yesterday,’ I confessed.
 
 ‘You are not to suppose that he hasn’t got a longer name, if he chose
-to use it,’ said my aunt, with a loftier air. ‘Babley--Mr. Richard
+to use it,’ said my aunt, with a loftier air. ‘Babley--Mr. [[Richard]]
 Babley--that’s the gentleman’s true name.’
 
 I was going to suggest, with a modest sense of my youth and the
@@ -106,13 +106,13 @@ That’s a peculiarity of his. Though I don’t know that it’s much of a
 peculiarity, either; for he has been ill-used enough, by some that bear
 it, to have a mortal antipathy for it, Heaven knows. Mr. Dick is his
 name here, and everywhere else, now--if he ever went anywhere else,
-which he don’t. So take care, child, you don’t call him anything BUT Mr.
+which he don’t. So take care, [[Child|child]], you don’t call him anything BUT Mr.
 Dick.’
 
 I promised to obey, and went upstairs with my message; thinking, as I
 went, that if Mr. Dick had been working at his Memorial long, at the
 same rate as I had seen him working at it, through the open door, when
-I came down, he was probably getting on very well indeed. I found him
+I came down, he was probably getting on very [[Well|well]] indeed. I found him
 still driving at it with a long pen, and his head almost laid upon the
 paper. He was so intent upon it, that I had ample leisure to observe the
 large paper kite in a corner, the confusion of bundles of manuscript,
@@ -129,14 +129,14 @@ taking snuff from a round box on the table, and laughing heartily.
 Without presuming to give my opinion on this question, I delivered my
 message.
 
-‘Well,’ said Mr. Dick, in answer, ‘my compliments to her, and I--I
+‘[[Well]],’ said Mr. Dick, in answer, ‘my compliments to her, and I--I
 believe I have made a start. I think I have made a start,’ said Mr.
 Dick, passing his hand among his grey hair, and casting anything but a
 confident look at his manuscript. ‘You have been to school?’
 
-‘Yes, sir,’ I answered; ‘for a short time.’
+‘Yes, sir,’ I answered; ‘for a short [[Time|time]].’
 
 ‘Do you recollect the date,’ said Mr. Dick, looking earnestly at me, and
-taking up his pen to note it down, ‘when King Charles the First had his
+taking up his pen to note it down, ‘when [[King]] Charles the First had his
 head cut off?’ I said I believed it happened in the year sixteen hundred
 and forty-nine.

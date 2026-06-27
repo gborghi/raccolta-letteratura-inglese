@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 27 (part 2)"
+title: "[[Oliver Twist]] — Chapter 27 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 “So we are,” said the beadle.
 
 Nothing was said on either side, for a minute or two afterwards. By the
-expiration of that time, Mr. Bumble had illustrated the position by
+expiration of that [[Time|time]], Mr. Bumble had illustrated the position by
 removing his left arm from the back of Mrs. Corney’s chair, where it
 had previously rested, to Mrs. Corney’s apron-string, round which it
 gradually became entwined.
@@ -49,7 +49,7 @@ beadle, affectionately pressing her hand.
 
 “And candles,” replied Mrs. Corney, slightly returning the pressure.
 
-“Coals, candles, and house-rent free,” said Mr. Bumble. “Oh, Mrs.
+“Coals, candles, and [[house]]-rent free,” said Mr. Bumble. “Oh, Mrs.
 Corney, what an Angel you are!”
 
 The lady was not proof against this burst of feeling. She sank into Mr.
@@ -62,13 +62,13 @@ know that Mr. Slout is worse tonight, my fascinator?”
 “Yes,” replied Mrs. Corney, bashfully.
 
 “He can’t live a week, the doctor says,” pursued Mr. Bumble. “He is the
-master of this establishment; his death will cause a wacancy; that
+master of this establishment; his [[Death|death]] will cause a wacancy; that
 wacancy must be filled up. Oh, Mrs. Corney, what a prospect this opens!
 What a opportunity for a jining of hearts and housekeepings!”
 
 Mrs. Corney sobbed.
 
-“The little word?” said Mr. Bumble, bending over the bashful beauty.
+“The little word?” said Mr. Bumble, bending over the bashful [[Beauty|beauty]].
 “The one little, little, little word, my blessed Corney?”
 
 “Ye—ye—yes!” sighed out the matron.
@@ -77,7 +77,7 @@ Mrs. Corney sobbed.
 one more. When is it to come off?”
 
 Mrs. Corney twice essayed to speak: and twice failed. At length
-summoning up courage, she threw her arms around Mr. Bumble’s neck, and
+summoning up [[Courage|courage]], she threw her arms around Mr. Bumble’s neck, and
 said, it might be as soon as ever he pleased, and that he was “a
 irresistible duck.”
 
@@ -88,12 +88,12 @@ the lady’s spirits. While it was being disposed of, she acquainted Mr.
 Bumble with the old woman’s decease.
 
 “Very good,” said that gentleman, sipping his peppermint; “I’ll call at
-Sowerberry’s as I go home, and tell him to send tomorrow morning. Was
-it that as frightened you, love?”
+Sowerberry’s as I go [[Home|home]], and tell him to send tomorrow morning. Was
+it that as frightened you, [[Love|love]]?”
 
 “It wasn’t anything particular, dear,” said the lady evasively.
 
-“It must have been something, love,” urged Mr. Bumble. “Won’t you tell
+“It must have been something, [[Love|love]],” urged Mr. Bumble. “Won’t you tell
 your own B.?”
 
 “Not now,” rejoined the lady; “one of these days. After we’re married,
@@ -102,16 +102,16 @@ dear.”
 “After we’re married!” exclaimed Mr. Bumble. “It wasn’t any impudence
 from any of them male paupers as—”
 
-“No, no, love!” interposed the lady, hastily.
+“No, no, [[Love|love]]!” interposed the lady, hastily.
 
 “If I thought it was,” continued Mr. Bumble; “if I thought as any one
 of ’em had dared to lift his wulgar eyes to that lovely countenance—”
 
-“They wouldn’t have dared to do it, love,” responded the lady.
+“They wouldn’t have dared to do it, [[Love|love]],” responded the lady.
 
 “They had better not!” said Mr. Bumble, clenching his fist. “Let me see
 any man, porochial or extra-porochial, as would presume to do it; and I
-can tell him that he wouldn’t do it a second time!”
+can tell him that he wouldn’t do it a second [[Time|time]]!”
 
 Unembellished by any violence of gesticulation, this might have seemed
 no very high compliment to the lady’s charms; but, as Mr. Bumble
@@ -121,7 +121,7 @@ that he was indeed a dove.
 
 The dove then turned up his coat-collar, and put on his cocked hat;
 and, having exchanged a long and affectionate embrace with his future
-partner, once again braved the cold wind of the night: merely pausing,
+partner, once again braved the cold [[Wind|wind]] of the [[Night|night]]: merely pausing,
 for a few minutes, in the male paupers’ ward, to abuse them a little,
 with the view of satisfying himself that he could fill the office of
 workhouse-master with needful acerbity. Assured of his qualifications,
@@ -130,13 +130,13 @@ his future promotion: which served to occupy his mind until he reached
 the shop of the undertaker.
 
 Now, Mr. and Mrs. Sowerberry having gone out to tea and supper: and
-Noah Claypole not being at any time disposed to take upon himself a
+Noah Claypole not being at any [[Time|time]] disposed to take upon himself a
 greater amount of physical exertion than is necessary to a convenient
 performance of the two functions of eating and drinking, the shop was
 not closed, although it was past the usual hour of shutting-up. Mr.
 Bumble tapped with his cane on the counter several times; but,
 attracting no attention, and beholding a light shining through the
-glass-window of the little parlour at the back of the shop, he made
+glass-[[Window|window]] of the little parlour at the back of the shop, he made
 bold to peep in and see what was going forward; and when he saw what
 was going forward, he was not a little surprised.
 
@@ -146,7 +146,7 @@ upper end of the table, Mr. Noah Claypole lolled negligently in an
 easy-chair, with his legs thrown over one of the arms: an open
 clasp-knife in one hand, and a mass of buttered bread in the other.
 Close beside him stood Charlotte, opening oysters from a barrel: which
-Mr. Claypole condescended to swallow, with remarkable avidity. A more
+Mr. Claypole condescended to [[Swallow|swallow]], with remarkable avidity. A more
 than ordinary redness in the region of the young gentleman’s nose, and
 a kind of fixed wink in his right eye, denoted that he was in a slight
 degree intoxicated; these symptoms were confirmed by the intense relish

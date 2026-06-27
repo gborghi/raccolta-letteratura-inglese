@@ -1,5 +1,5 @@
 ---
-title: "King John — Act V, Scene 7 — exchange (THE PERSONS OF THE PLAY) [4]"
+title: "[[King John]] — Act V, Scene 7 — exchange (THE PERSONS OF THE PLAY) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/KING-JOHN-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| THE PERSONS OF THE | PLAY ANTONIO, a merchant of Venice BASSANIO, his friend and Portia’s suitor LEONARDO, Bassanio’s servant SHYLOCK, a Jew JESSICA, his daughter TUBAL, a Jew LANCELOT, a clown, first Shylock’s servant and then Bassanio’s GOBBO, his father PORTIA, an heiress NERISSA, her waiting-gentlewoman |
-| DUKE | of Venice Magnificoes of Venice A jailer, attendants, and servants |
+| THE PERSONS OF THE | PLAY [[Antonio|ANTONIO]], a merchant of [[Venice]] [[Bassanio|BASSANIO]], his friend and [[Portia]]’s suitor LEONARDO, [[Bassanio]]’s servant [[Shylock|SHYLOCK]], a Jew [[Jessica|JESSICA]], his daughter TUBAL, a Jew LANCELOT, a clown, first [[Shylock]]’s servant and then [[Bassanio]]’s GOBBO, his father [[Portia|PORTIA]], an heiress [[Nerissa|NERISSA]], her waiting-gentlewoman |
+| DUKE | of [[Venice]] Magnificoes of [[Venice]] A jailer, attendants, and servants |

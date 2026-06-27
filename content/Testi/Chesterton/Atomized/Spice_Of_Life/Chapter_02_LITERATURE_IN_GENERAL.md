@@ -365,7 +365,7 @@ of certain different secretions in the human body; as, for instance,
 that the predominance of phlegm produced the phlegmatic humour.
 By the time of the full consolidation of the English language,
 it had thus become possible for Ben Jonson and others to use
-the word `humour' rather in the sense of `the ruling passion'.
+the word `[[Humour|humour]]' rather in the sense of `the ruling passion'.
 With this there necessarily went an idea of exaggeration;
 and by the end of the process the character of a humorist was
 more or less identical with what we should call an eccentric.
@@ -379,34 +379,34 @@ The blend, and the beginnings of the modern meaning, may perhaps be dated
 at about the time of Walter Scott's Waverley Novels; when Guy Mannering
 complains of Councillor Pleydell as `a crack-brained humorist'.
 For Pleydell is indeed laughed at for his little vanities or whims;
-but he himself joins in the laugh and sees the humour of his humour.
+but he himself joins in the laugh and sees the [[Humour|humour]] of his [[Humour|humour]].
 Since then the word has come to be used more and more exclusively
-of conscious humour; and generally of a rather deep and delicate
+of conscious [[Humour|humour]]; and generally of a rather deep and delicate
 appreciation of the absurdities of others.
 
-Nevertheless there clings to the word Humour, especially when
+Nevertheless there clings to the word [[Humour]], especially when
 balanced against the word Wit, a sort of tradition or atmosphere
 that belongs to the old eccentrics whose eccentricity was always
 wilful and not infrequently blind.  The distinction is a fine one;
 but one of the elements remaining in this blend is a certain sense
-of being laughed at, as well as of laughing.  It involves some
+of being laughed at, as [[Well|well]] as of laughing.  It involves some
 confession of human weakness; whereas wit is rather the human intellect
 exerting its full strength, though perhaps upon a small point.
 Wit is reason on its judgment seat; and though the offenders may be
 touched lightly, the point is that the judge is not touched at all.
-But humour always has in it some idea of the humorist himself being
+But [[Humour|humour]] always has in it some idea of the humorist himself being
 at a disadvantage and caught in the entanglements and contradictions
-of human life.  It is a grave error to underrate Wit as something trivial;
-for certain purposes of satire it can truly be the sword
-of the spirit, and the satirist bears not the sword in vain.
-But it is essential to wit that he should bear the sword with ease;
+of human life.  It is a [[Grave|grave]] error to underrate Wit as something trivial;
+for certain purposes of [[Satire|satire]] it can truly be the [[Sword|sword]]
+of the spirit, and the satirist bears not the [[Sword|sword]] in vain.
+But it is essential to wit that he should bear the [[Sword|sword]] with ease;
 that for the wit the weapon should be light if the blow be heavy;
 that there should be no question of his being encumbered with his
-instrument or laying open his guard.  But humour can be of the
+instrument or laying open his guard.  But [[Humour|humour]] can be of the
 finest and yet lay open the guard or confess its inconsistency.
 When Voltaire said, commenting on the judicial murder of Byng, "In England
 they kill one Admiral to encourage the others," it would immediately
-be recognized as humour.  But we rightly class Voltaire as a wit,
+be recognized as [[Humour|humour]].  But we rightly class Voltaire as a wit,
 because he represents the consistent human reason detesting
 an inconsistency.  We shall be very wrong if we despise him as a wit,
 for that French clearness has depths of irony; there is, for instance,
@@ -687,26 +687,26 @@ to write about him.
 I was a great reader of novels until I began to review them,
 when I naturally left off reading them.  I do not mean to admit that I
 did them any injustice; I studied and sampled them with the purpose
-of being strictly fair; but I do not call that `novel reading'
+of being strictly fair; but I do not call that `[[Novel|novel]] reading'
 in the old enchanting sense.  If I read them thoroughly I still read
 them rapidly; which is quite against my instincts for the mere luxury
 of reading.  When I was a boy and really had a new adventure story,
-when I was a young man and read my first few detective stories,
+when I was a young man and read my first few [[Detective|detective]] stories,
 I did not enjoy precipitation, but actually enjoyed delay.
 The pleasure was so intense that I was always putting it off.
-For it is one of the two or three big blunders in modern morality to
+For it is one of the two or three big blunders in modern [[morality]] to
 suppose that the strongest eagerness expresses itself in extravagance.
 The strongest eagerness always expresses itself in thrift.
-That is why the French Revolution was French and not English;
+That is why the [[French Revolution]] was French and not English;
 why the careful peasants have turned the world upside-down,
 while the careless labourers have cheerfully left it as it was.
-When a child's soul is in the most starry ecstasy of greed
+When a [[Child|child]]'s [[Soul|soul]] is in the most starry ecstasy of [[Greed|greed]]
 he desires to have his cake, not to eat it.  I am English myself,
 and I have never managed to be thrifty about anything else.
 
-But about my early novel reading I was as thrifty as a French peasant--
+But about my early [[Novel|novel]] reading I was as thrifty as a French peasant--
 and as greedy.  I loved to look at the mere solid bulk of a
-sensational novel as one looks at the solid bulk of a cheese;
+sensational [[Novel|novel]] as one looks at the solid bulk of a [[cheese]];
 to open the first page, dally with the first paragraph, and then
 shut it again, feeling how little pleasure I had lost as yet.
 And my favourite novelists are still those great nineteenth-century
@@ -720,28 +720,28 @@ Burden_ must not only be read quickly but fiercely; they describe
 a short, sharp struggle; the mood both of writer and reader
 is heroic and abnormal, like that of two men fighting a duel.
 But Scott, Thackeray, and Dickens had the mysterious trick or talent
-of the inexhaustible novel.
+of the inexhaustible [[Novel|novel]].
 
 Even when we have come to the end of the story we somehow feel
-that it is endless.  People say they have read Pickwick five times
+that it is endless.  People say they have read [[Pickwick]] five times
 or fifty times or five hundred times.  For my part I have only read
-Pickwick once.  Since then I have lived in Pickwick; walked into it
+[[Pickwick]] once.  Since then I have lived in [[Pickwick]]; walked into it
 when and where I chose, as a man walks into his club.  But whenever
 I have walked in, it seemed to me that I found something new.
 I am not sure that stringent modern artists like Stevenson or Mr. Belloc
 do not actually suffer from the strictness and swiftness of their art.
-If a book is a book to be lived in, it should be (like a house
+If a book is a book to be lived in, it should be (like a [[house]]
 to be lived in) a little untidy.
 
-Apart from such chaotic classics as these, my own taste in novel
+Apart from such chaotic classics as these, my own taste in [[Novel|novel]]
 reading is one which I am prepared in a rather especial manner,
 not only to declare, but to defend.  My taste is for the
-sensational novel, the detective story, the story about death,
+sensational [[Novel|novel]], the [[Detective|detective]] story, the story about [[Death|death]],
 robbery and secret societies; a taste which I share in common
 with the bulk at least of the male population of this world.
-There was a time in my own melodramatic boyhood when I became quite
+There was a [[Time|time]] in my own melodramatic boyhood when I became quite
 fastidious in this respect.  I would look at the first chapter
-of any new novel as a final test of its merits.  If there was a
+of any new [[Novel|novel]] as a final test of its merits.  If there was a
 murdered man under the sofa in the first chapter, I read the story.
 If there was no murdered man under the sofa in the first chapter,
 I dismissed the story as tea-table twaddle, which it often really was.
@@ -751,33 +751,33 @@ I have come to compromise with the tea-table and to be less
 insistent about the sofa.  As long as a corpse or two turns up
 in the second, the third, nay even the fourth or fifth chapter,
 I make allowance for human weakness, and I ask no more.
-But a novel without any death in it is still to me a novel without
+But a [[Novel|novel]] without any [[Death|death]] in it is still to me a [[Novel|novel]] without
 any life in it.  I admit that the very best of the tea-table
-novels are great art--for instance, Emma or Northanger Abbey.
+novels are great art--for instance, [[Emma]] or [[Northanger Abbey]].
 Sheer elemental genius can make a work of art out of anything.
 Michelangelo might make a statue out of mud, and Jane Austen could
-make a novel out of tea--that much more contemptible substance.
+make a [[Novel|novel]] out of tea--that much more contemptible substance.
 But on the whole I think that a tale about one man killing another
 man is more likely to have something in it than a tale in which,
 all the characters are talking trivialities without any of that instant
-and silent presence of death which is one of the strong spiritual
-bonds of all mankind.  I still prefer the novel in which one person
-does another person to death to the novel in which all the persons
+and silent presence of [[Death|death]] which is one of the strong spiritual
+bonds of all mankind.  I still prefer the [[Novel|novel]] in which one person
+does another person to [[Death|death]] to the [[Novel|novel]] in which all the persons
 are feebly (and vainly) trying to get the others to come to life.
 
 But I have another and more important quarrel about the
-sensational novel.  There seems to be a very general idea that
-the romance of the tomahawk will be (or will run the risk of being)
-more immoral than the romance of the teapot.  This I violently deny.
+sensational [[Novel|novel]].  There seems to be a very general idea that
+the [[Romance|romance]] of the tomahawk will be (or will run the risk of being)
+more immoral than the [[Romance|romance]] of the teapot.  This I violently deny.
 And in this I have the support of practically all the old moral
 traditions of our civilization and of every civilization.
 High or low, good or bad, clever or stupid, a moral story almost always
 meant a murderous story.  For the old Greeks a moral play was one full
-of madness and slaying.  For the great medievals a moral play was one
+of [[Madness|madness]] and slaying.  For the great medievals a moral play was one
 which exhibited the dancing of the devil and the open jaws of hell.
 For the great Protestant moralists of the seventeenth and eighteenth
 centuries a moral story meant a story in which a parricide was
-struck by lightning or a boy was drowned for fishing on a Sunday.
+struck by [[Lightning|lightning]] or a boy was drowned for fishing on a [[Sunday]].
 For the more rationalistic moralists of the eighteenth century,
 such as Hogarth, Richardson, and the author of Sandford and Merton,
 all agreed that shocking calamities could properly be indicated
@@ -790,13 +790,13 @@ But I believe that sensational novels are the most moral part
 of modern fiction, and I believe it upon two converging lines,
 such as make all real conviction.  It is, I think,
 the fact that melodramatic fiction is moral and not immoral.
-And it is, I think, the abstract truth that any literature
+And it is, I think, the abstract [[Truth|truth]] that any literature
 that represents our life as dangerous and startling is truer
 than any literature that represents it as dubious and languid.
 For life is a fight and is not a conversation.
 
 
-THE SOUL IN EVERY LEGEND
+THE [[Soul|SOUL]] IN EVERY LEGEND
 
 I THINK it was that very fine and subtle writer, Vernon Lee, who lapsed
 into literary heresy by saying that a poet is always a pantheist.
@@ -806,16 +806,16 @@ It was precisely because Walt Whitman sometimes tried on principle
 to be a pantheist, that so great a genius just missed being a poet.
 Shelley did not miss being a poet; but he did miss being a pantheist.
 A deep imaginative instinct, beyond all his cheap philosophies,
-made him always do something which is the soul of imagination,
+made him always do something which is the [[Soul|soul]] of [[Imagination|imagination]],
 but the very opposite of universalism.  It made him insulate
 the object of which he wrote; making the cloud or the bird as
-solitary as possible in the sky.  Imagination demands an image.
+solitary as possible in the sky.  [[Imagination]] demands an image.
 An image demands a background.  The background should be equal
 and level, or vast and vague, but only for the sake of the image.
 In writing of the skylark Shelley compares that unfortunate
-wild fowl to a lady in a tower, to a star, to a rose, to all
+wild fowl to a lady in a tower, to a star, to a [[Rose|rose]], to all
 sorts of things that are not in the least like a skylark.
-But they all have one touch, the touch of separation and solitude.
+But they all have one touch, the touch of separation and [[Solitude|solitude]].
 Now pantheism means that nothing is thus separated; that the divine
 essence is equally distributed at any given moment in all the atoms
 of the universe; and that he who would see it imaginatively
@@ -824,49 +824,49 @@ the poet; whatever may have been done by Shelley the prig.
 When he heard the skylark speaking to him like a spirit out of heaven,
 I deny that he heard at the same moment the crowing of cocks,
 the screaming of cockatoos, the gobbling of turkeys, the cawing of rooks,
-the clucking of hens and the pandemonium of the parrot-house at the Zoo;
+the clucking of hens and the pandemonium of the parrot-[[house]] at the Zoo;
 or that for him, at that moment, all these things mingled in one
 harmony or music of the spheres.
 
 I do not deny that the poet may write an ode to a parrot
-as well as to a skylark; or for that matter a serenade to a
+as [[Well|well]] as to a skylark; or for that matter a serenade to a
 penguin or a pelican.  But he will prefer the parrot outside
-the parrot-house. He will prefer the pelican in the wilderness.
+the parrot-[[house]]. He will prefer the pelican in the wilderness.
 In short, he will aim at seeing the object against a background,
 as one sees a star in the sky or an island in the sea.  He will aim
 at seeing the object in the strict sense of distinguishing the object.
-And this element of distinction would alone distinguish such a poet
+And this element of distinction would [[Alone|alone]] distinguish such a poet
 from the vulgar universality of the ordinary pantheist.  For the rest,
-Shelley's poetry very seldom expressed Shelley's philosophy.
+Shelley's poetry very seldom expressed Shelley's [[philosophy]].
 When once he began to sing, he generally sang the creeds that he refused
 to say.  In the skylark, for instance, he does not in the least
-proclaim the doctrine of Universal Nature or the Immanence of God.
-What he does proclaim is the doctrine of Original Sin, or the Fall
+proclaim the doctrine of Universal [[Nature]] or the Immanence of God.
+What he does proclaim is the doctrine of [[Original Sin]], or the Fall
 of Man.  When the skylark ceases merely to flutter and begins really
 to fly, to sweep and to soar; when the verse takes on the swing
 and powerful pulsation of great poetry, it is not even about
 the isolation of the bird but the stranger isolation of the man.
-"We look before and after . . . our sweetest songs are those that tell
+"We look before and after . . . our sweetest [[songs]] are those that tell
 of saddest thought."
 
   But if we could scorn
-  Hate and pride and fear,
+  Hate and [[Pride|pride]] and [[Fear|fear]],
   If we were things born
   Not to shed a tear --
 
 There the pantheistic poet is telling a tale not told by all
 the parrots in the Zoological Gardens; but rather by the Bird
-of Paradise that came with us out of the Garden of Eden.
+of Paradise that came with us out of the [[Garden]] of Eden.
 
-Mr. Bernard Shaw, in a preface to one of his plays, advances a thesis
-in science and then propounds it as a thesis in philosophy.
-It might well be described as a progressive pantheism, as compared
+Mr. Bernard [[Shaw]], in a preface to one of his plays, advances a thesis
+in science and then propounds it as a thesis in [[philosophy]].
+It might [[Well|well]] be described as a progressive pantheism, as compared
 with the static pantheism more commonly associated with pantheists.
-The current criticism will probably be that it is all very well for
-Mr. Shaw to talk philosophy, but he knows nothing about science.
+The current criticism will probably be that it is all very [[Well|well]] for
+Mr. [[Shaw]] to talk [[philosophy]], but he knows nothing about science.
 To me this seems the exact contrary of the fact.  He has always
-been very well equipped with facts in his scientific controversies;
-and his logic, of which I can judge better, seems to me very
+been very [[Well|well]] equipped with facts in his scientific controversies;
+and his [[logic]], of which I can judge better, seems to me very
 conclusive on the purely scientific question.  He is strictly
 scientific in refusing the test of cutting off a mouse's tail,
 for instance, as affecting the question of acquired characteristics.
@@ -874,73 +874,73 @@ As he very sensibly points out, an arbitrary amputation
 by somebody else is not an acquired characteristic at all;
 any more than we can talk of a man acquiring a railway accident.
 The Lamarckian suggestion is that the will counts; and nobody wills
-a railway accident.  I think Mr. Shaw is entirely successful in
-his science; where I begin to doubt is precisely in his philosophy,
-and especially when he propounds it as a religion.  And I doubt it
+a railway accident.  I think Mr. [[Shaw]] is entirely successful in
+his science; where I begin to [[Doubt|doubt]] is precisely in his [[philosophy]],
+and especially when he propounds it as a religion.  And I [[Doubt|doubt]] it
 because it ignores, as the more static pantheism ignores the same
-rather indescribable element which I can only call identity.
+rather indescribable element which I can only call [[Identity|identity]].
 I can only dimly describe it as the conviction that it is It.
 
-Mr. Shaw suggests that we should all pool our legends and treat them
+Mr. [[Shaw]] suggests that we should all pool our legends and treat them
 all equally as legends; that is, as allegories.  This, I fancy,
 is very much what was really done by the Neo-Platonists and
 other syncretists of the pagan sunset on the Mediterranean.
 They made a pool of all the legends; and it was rather a stagnant pool.
 Indeed the Mediterranean itself would henceforth have been little
-more than a stagnant pool, but for the wind of the spirit that blew
+more than a stagnant pool, but for the [[Wind|wind]] of the spirit that blew
 on it from Bethlehem and Calvary; that is from real places alive
 with stories at least believed to be real.  When the new world found
-something to follow, it had to be a man and not a myth, a tragedy
+something to follow, it had to be a man and not a myth, a [[Tragedy|tragedy]]
 and not a mummery.  If the new world finds a new religion now,
 it is much more likely to be in Spiritualist miracles and a Spiritualist
 plan of heaven and earth, all to be believed down to the last detail,
 than in the weary impartiality of the pool of the Neo-Platonists.
 That pool may be a sea into which all religions ultimately run.
-It is certainly not a spring in which any religions originally rise.
-We shall never make a new legend by advertising for an allegory.
+It is certainly not a [[spring]] in which any religions originally rise.
+We shall never make a new legend by advertising for an [[Allegory|allegory]].
 The great myth comes from men who believe they have found a
-great truth, at least at first and that a vivid and final truth.
-If there be, as I believe, such a central truth, this is the only way
-in which men can receive that truth.  But even if it be only a delusion,
+great [[Truth|truth]], at least at first and that a vivid and final [[Truth|truth]].
+If there be, as I believe, such a central [[Truth|truth]], this is the only way
+in which men can receive that [[Truth|truth]].  But even if it be only a delusion,
 this is the only way in which it can be denied.
 
 In short, it is not enough for a religion to include everything.
 It must include everything and something over.  That is it
-must include everything and include something as well.
+must include everything and include something as [[Well|well]].
 It must answer that deep and mysterious human demand for everything;
-even if the nature of that demand be too deep to be easily defined
-in logic.  It will never cease to be described in poetry.
+even if the [[Nature|nature]] of that demand be too deep to be easily defined
+in [[logic]].  It will never cease to be described in poetry.
 We might almost say that all poetry is a description of it.
 Even when you have only natural religion, you will still have
-supernatural poetry.  And it will be poetic because it is particular,
+[[Supernatural|supernatural]] poetry.  And it will be poetic because it is particular,
 not because it is general.  The new priest may proclaim, "The sea is God,
 the land is God and the sky is God; but yet there are not three Gods,
 but one God."  But even if the old priest be silenced, the old
-poet will always answer, "God is in a cave; God is in a stable;
-God is disguised and hidden.  I alone know where he is; he is
+poet will always answer, "God is in a [[Cave|cave]]; God is in a stable;
+God is disguised and hidden.  I [[Alone|alone]] know where he is; he is
 herding the cattle of Admetus; he is pouring out the wine of Cana."
 The new republic may make the philosophical declaration, "We hold
-these truths to be self-evident, that all trees were evolved
+these truths to be [[Self|self]]-evident, that all trees were evolved
 equal and endowed with the dignity of creative evolution."
-But if in the silence that follows we overhear the poor nurse
+But if in the [[Silence|silence]] that follows we overhear the poor [[Nurse|nurse]]
 or the peasant mother telling fairy-tales to the children, she will
-always be saying, "And in the seventh garden beyond the seventh gate
+always be saying, "And in the seventh [[Garden|garden]] beyond the seventh gate
 was the tree with the golden apples", or "They sailed and sailed
 till they came to an island, and in the island was a meadow,
 and in the meadow the tree of life."
 
 Now according to the old rationalistic criticism, it was enough to say
 of a fancy that it was fanciful.  It was enough to say that a religion
-was a romance, and a romance a delusion.  But men like Mr. Shaw
+was a [[Romance|romance]], and a [[Romance|romance]] a delusion.  But men like Mr. [[Shaw]]
 have already left that behind, in the years of wandering starting
 from the Dublin of the Protestants and the Darwin of the Professors.
-They already realized that there is "a soul in every dogma",
+They already realized that there is "a [[Soul|soul]] in every dogma",
 that religion cannot be left out of account, that rationalism
 cannot be left in control.  Now if we are to look sympathetically
-for the soul in every dogma, surely we must look for that something
-in the soul which makes it clothe itself in every case in a particular
-and personal body.  If this particularism always stubbornly
-recurs even in poetry, how can it be left out of philosophy?
+for the [[Soul|soul]] in every dogma, surely we must look for that something
+in the [[Soul|soul]] which makes it clothe itself in every case in a particular
+and personal [[Body|body]].  If this particularism always stubbornly
+recurs even in poetry, how can it be left out of [[philosophy]]?
 What is the meaning of this incurable itch to give to airy nothing,
 or still more airy everything, a local habitation and a name?
 Why is it always something at once odd and objective, a precious
@@ -960,9 +960,9 @@ element in mythology, what is the real meaning of that element in it?
 I can see only one possible answer that satisfies the new more
 serious and sympathetic study of religion, even among sceptics;
 and that is that there really is something to which all these fancies
-are what forgeries are to a signature; that if the soul could
-be satisfied with the truth it would find it a tale as particular,
+are what forgeries are to a signature; that if the [[Soul|soul]] could
+be satisfied with the [[Truth|truth]] it would find it a tale as particular,
 as positive and as personal; that the light which we follow first
 as a wide white star actually narrows as we draw nearer to it,
 till we find that trailing meteor is something like a light in a
-window or a candle in a room.
+[[Window|window]] or a candle in a room.

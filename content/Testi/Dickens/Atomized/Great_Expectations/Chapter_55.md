@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 55"
+title: "[[Great Expectations]] — Chapter 55"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,14 +17,14 @@ tags:
 Chapter LV.
 
 
-He was taken to the Police Court next day, and would have been
+He was taken to the Police [[Court]] next day, and would have been
 immediately committed for trial, but that it was necessary to send down
-for an old officer of the prison-ship from which he had once escaped,
-to speak to his identity. Nobody doubted it; but Compeyson, who had
+for an old officer of the [[Prison|prison]]-[[Ship|ship]] from which he had once escaped,
+to speak to his [[Identity|identity]]. Nobody doubted it; but Compeyson, who had
 meant to depose to it, was tumbling on the tides, dead, and it happened
-that there was not at that time any prison officer in London who could
+that there was not at that [[Time|time]] any [[Prison|prison]] officer in [[London]] who could
 give the required evidence. I had gone direct to Mr. Jaggers at his
-private house, on my arrival over night, to retain his assistance, and
+private [[house]], on my arrival over [[Night|night]], to retain his assistance, and
 Mr. Jaggers on the prisoner’s behalf would admit nothing. It was the
 sole resource; for he told me that the case must be over in five
 minutes when the witness was there, and that no power on earth could
@@ -36,7 +36,7 @@ having “let it slip through my fingers,” and said we must memorialise
 by and by, and try at all events for some of it. But he did not conceal
 from me that, although there might be many cases in which the
 forfeiture would not be exacted, there were no circumstances in this
-case to make it one of them. I understood that very well. I was not
+case to make it one of them. I understood that very [[Well|well]]. I was not
 related to the outlaw, or connected with him by any recognisable tie;
 he had put his hand to no writing or settlement in my favour before his
 apprehension, and to do so now would be idle. I had no claim, and I
@@ -46,26 +46,26 @@ establish one.
 
 There appeared to be reason for supposing that the drowned informer had
 hoped for a reward out of this forfeiture, and had obtained some
-accurate knowledge of Magwitch’s affairs. When his body was found, many
-miles from the scene of his death, and so horribly disfigured that he
+accurate knowledge of Magwitch’s affairs. When his [[Body|body]] was found, many
+miles from the scene of his [[Death|death]], and so horribly disfigured that he
 was only recognisable by the contents of his pockets, notes were still
 legible, folded in a case he carried. Among these were the name of a
-banking-house in New South Wales, where a sum of money was, and the
+banking-[[house]] in New South Wales, where a sum of money was, and the
 designation of certain lands of considerable value. Both these heads of
-information were in a list that Magwitch, while in prison, gave to Mr.
+information were in a list that Magwitch, while in [[Prison|prison]], gave to Mr.
 Jaggers, of the possessions he supposed I should inherit. His
 ignorance, poor fellow, at last served him; he never mistrusted but
 that my inheritance was quite safe, with Mr. Jaggers’s aid.
 
-After three days’ delay, during which the crown prosecution stood over
-for the production of the witness from the prison-ship, the witness
+After three days’ delay, during which the [[Crown|crown]] prosecution stood over
+for the production of the witness from the [[Prison|prison]]-[[Ship|ship]], the witness
 came, and completed the easy case. He was committed to take his trial
 at the next Sessions, which would come on in a month.
 
-It was at this dark time of my life that Herbert returned home one
+It was at this dark [[Time|time]] of my life that Herbert returned [[Home|home]] one
 evening, a good deal cast down, and said,—
 
-“My dear Handel, I fear I shall soon have to leave you.”
+“My dear Handel, I [[Fear|fear]] I shall soon have to leave you.”
 
 His partner having prepared me for that, I was less surprised than he
 thought.
@@ -73,13 +73,13 @@ thought.
 “We shall lose a fine opportunity if I put off going to Cairo, and I am
 very much afraid I must go, Handel, when you most need me.”
 
-“Herbert, I shall always need you, because I shall always love you; but
-my need is no greater now than at another time.”
+“Herbert, I shall always need you, because I shall always [[Love|love]] you; but
+my need is no greater now than at another [[Time|time]].”
 
 “You will be so lonely.”
 
 “I have not leisure to think of that,” said I. “You know that I am
-always with him to the full extent of the time allowed, and that I
+always with him to the full extent of the [[Time|time]] allowed, and that I
 should be with him all day long, if I could. And when I come away from
 him, you know that my thoughts are with him.”
 
@@ -98,25 +98,25 @@ friendly words go, with me.”
 
 “I will,” said I.
 
-“In this branch house of ours, Handel, we must have a—”
+“In this branch [[house]] of ours, Handel, we must have a—”
 
 I saw that his delicacy was avoiding the right word, so I said, “A
 clerk.”
 
-“A clerk. And I hope it is not at all unlikely that he may expand (as a
+“A clerk. And I [[Hope|hope]] it is not at all unlikely that he may expand (as a
 clerk of your acquaintance has expanded) into a partner. Now,
 Handel,—in short, my dear boy, will you come to me?”
 
 There was something charmingly cordial and engaging in the manner in
-which after saying “Now, Handel,” as if it were the grave beginning of
+which after saying “Now, Handel,” as if it were the [[Grave|grave]] beginning of
 a portentous business exordium, he had suddenly given up that tone,
 stretched out his honest hand, and spoken like a schoolboy.
 
 “Clara and I have talked about it again and again,” Herbert pursued,
-“and the dear little thing begged me only this evening, with tears in
+“and the dear little thing begged me only this evening, with [[Tears|tears]] in
 her eyes, to say to you that, if you will live with us when we come
 together, she will do her best to make you happy, and to convince her
-husband’s friend that he is her friend too. We should get on so well,
+husband’s friend that he is her friend too. We should get on so [[Well|well]],
 Handel!”
 
 I thanked her heartily, and I thanked him heartily, but said I could
@@ -133,7 +133,7 @@ to your business, leave the question open for a little while—”
 “Not so long as that,” said I. “Two or three months at most.”
 
 Herbert was highly delighted when we shook hands on this arrangement,
-and said he could now take courage to tell me that he believed he must
+and said he could now take [[Courage|courage]] to tell me that he believed he must
 go away at the end of the week.
 
 “And Clara?” said I.
@@ -152,34 +152,34 @@ red book, and hasn’t a notion about her grandpapa. What a fortune for
 the son of my mother!”
 
 On the Saturday in that same week, I took my leave of Herbert,—full of
-bright hope, but sad and sorry to leave me,—as he sat on one of the
-seaport mail coaches. I went into a coffee-house to write a little note
-to Clara, telling her he had gone off, sending his love to her over and
-over again, and then went to my lonely home,—if it deserved the name;
-for it was now no home to me, and I had no home anywhere.
+bright [[Hope|hope]], but sad and sorry to leave me,—as he sat on one of the
+seaport mail coaches. I went into a coffee-[[house]] to write a little note
+to Clara, telling her he had gone off, sending his [[Love|love]] to her over and
+over again, and then went to my lonely [[Home|home]],—if it deserved the name;
+for it was now no [[Home|home]] to me, and I had no [[Home|home]] anywhere.
 
 On the stairs I encountered Wemmick, who was coming down, after an
 unsuccessful application of his knuckles to my door. I had not seen him
-alone since the disastrous issue of the attempted flight; and he had
+[[Alone|alone]] since the disastrous issue of the attempted flight; and he had
 come, in his private and personal capacity, to say a few words of
 explanation in reference to that failure.
 
 “The late Compeyson,” said Wemmick, “had by little and little got at
-the bottom of half of the regular business now transacted; and it was
+the [[Bottom|bottom]] of half of the regular business now transacted; and it was
 from the talk of some of his people in trouble (some of his people
 being always in trouble) that I heard what I did. I kept my ears open,
 seeming to have them shut, until I heard that he was absent, and I
-thought that would be the best time for making the attempt. I can only
+thought that would be the best [[Time|time]] for making the attempt. I can only
 suppose now, that it was a part of his policy, as a very clever man,
-habitually to deceive his own instruments. You don’t blame me, I hope,
+habitually to deceive his own instruments. You don’t blame me, I [[Hope|hope]],
 Mr. Pip? I am sure I tried to serve you, with all my heart.”
 
 “I am as sure of that, Wemmick, as you can be, and I thank you most
-earnestly for all your interest and friendship.”
+earnestly for all your interest and [[Friendship|friendship]].”
 
 “Thank you, thank you very much. It’s a bad job,” said Wemmick,
 scratching his head, “and I assure you I haven’t been so cut up for a
-long time. What I look at is the sacrifice of so much portable
+long [[Time|time]]. What I look at is the sacrifice of so much portable
 property. Dear me!”
 
 “What _I_ think of, Wemmick, is the poor owner of the property.”
@@ -218,10 +218,10 @@ stretch a point and manage it?”
 He had done so much for me at various times, that this was very little
 to do for him. I said I could manage it,—would manage it,—and he was so
 very much pleased by my acquiescence, that I was pleased too. At his
-particular request, I appointed to call for him at the Castle at half
-past eight on Monday morning, and so we parted for the time.
+particular request, I appointed to call for him at the [[Castle]] at half
+past eight on Monday morning, and so we parted for the [[Time|time]].
 
-Punctual to my appointment, I rang at the Castle gate on the Monday
+Punctual to my appointment, I rang at the [[Castle]] gate on the Monday
 morning, and was received by Wemmick himself, who struck me as looking
 tighter than usual, and having a sleeker hat on. Within, there were two
 glasses of rum and milk prepared, and two biscuits. The Aged must have
@@ -246,7 +246,7 @@ surprised, when he said, as if he were animated by a brilliant idea,—
 “Let’s go in!”
 
 We went in, Wemmick leaving his fishing-rod in the porch, and looked
-all round. In the mean time, Wemmick was diving into his coat-pockets,
+all round. In the mean [[Time|time]], Wemmick was diving into his coat-pockets,
 and getting something out of paper there.
 
 “Halloa!” said he. “Here’s a couple of pair of gloves! Let’s put ’em
@@ -259,7 +259,7 @@ door, escorting a lady.
 
 “Halloa!” said Wemmick. “Here’s Miss Skiffins! Let’s have a wedding.”
 
-That discreet damsel was attired as usual, except that she was now
+That discreet [[Damsel|damsel]] was attired as usual, except that she was now
 engaged in substituting for her green kid gloves a pair of white. The
 Aged was likewise occupied in preparing a similar sacrifice for the
 altar of Hymen. The old gentleman, however, experienced so much
@@ -303,7 +303,7 @@ wedding-party!”
 
 Breakfast had been ordered at a pleasant little tavern, a mile or so
 away upon the rising ground beyond the green; and there was a bagatelle
-board in the room, in case we should desire to unbend our minds after
+board in the room, in case we should [[Desire|desire]] to unbend our minds after
 the solemnity. It was pleasant to observe that Mrs. Wemmick no longer
 unwound Wemmick’s arm when it adapted itself to her figure, but sat in
 a high-backed chair against the wall, like a violoncello in its case,
@@ -313,7 +313,7 @@ done.
 We had an excellent breakfast, and when any one declined anything on
 table, Wemmick said, “Provided by contract, you know; don’t be afraid
 of it!” I drank to the new couple, drank to the Aged, drank to the
-Castle, saluted the bride at parting, and made myself as agreeable as I
+[[Castle]], saluted the bride at parting, and made myself as agreeable as I
 could.
 
 Wemmick came down to the door with me, and I again shook hands with
@@ -327,5 +327,5 @@ altogether a Walworth sentiment, please.”
 “I understand. Not to be mentioned in Little Britain,” said I.
 
 Wemmick nodded. “After what you let out the other day, Mr. Jaggers may
-as well not know of it. He might think my brain was softening, or
+as [[Well|well]] not know of it. He might think my brain was softening, or
 something of the kind.”

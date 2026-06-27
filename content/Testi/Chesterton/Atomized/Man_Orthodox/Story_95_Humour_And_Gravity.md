@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — Humour And Gravity"
+title: "Man Orthodox — [[Humour]] And Gravity"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-HUMOUR AND GRAVITY
+[[Humour|HUMOUR]] AND GRAVITY
 
 There is one very fixed, and I think very false, conception current
 in human life--the conception that to laugh at a thing is in some strange
@@ -36,7 +36,7 @@ impression that a man or a cause, when it becomes laughable,
 betrays itself and gives inherent signs of failure.  If that were so,
 scarcely one of the causes that have risen and ruled over
 the world of men would ever have come into any maturity at all.
-Science and Christianity, Democracy and Imperialism,
+Science and [[Christianity]], [[democracy|Democracy]] and Imperialism,
 conceptions and ideals of the most widely divergent character,
 are all alike in this one fact, that they were all, at the very
 first glance, absurd ... And the matter, of course, goes much
@@ -47,7 +47,7 @@ renders very probable this reaction of derision and entertainment.
 Have the humorists ever considered what was the meaning of that `mocking'
 to which so many martyrs and prophets are described as subject?
 The tyrants and the populace did not `mock' the martyr
-because they had a natural malice against courage or purity.
+because they had a natural malice against [[Courage|courage]] or purity.
 They `mocked' the hero or the prophet for a very excellent reason:
 because the hero and the prophet were really funny.
 
@@ -72,19 +72,19 @@ in one eudemonistic theory, in one worship of pleasure.
 But they are in truth vitally antagonistic.  If the hedonist asks,
 `Where is the glory that was Greece?  Where are the gods
 and priests of delight?', it ought to be easy to answer him.
-They have vanished at the first whisper of modern humour.
-It was not the monks nor the saints that slew them;
+They have vanished at the first whisper of modern [[Humour|humour]].
+It was not the [[Monks|monks]] nor the saints that slew them;
 it was the jesters.
 
 This vital kinship between gravity and pleasure is one of those
 principles which, once they are realized, explain a perpetually
 increasing mass of facts.  To take one man out of a thousand.
 Whether or no Gladstone was the best or the cleverest or
-greatest or most statesmanlike of any particular body of men,
-there can be no doubt as to one supreme fact about him--
+greatest or most statesmanlike of any particular [[Body|body]] of men,
+there can be no [[Doubt|doubt]] as to one supreme fact about him--
 he was certainly about the happiest man that ever lived.
 And this was considerably due to the fact that he was
-not tormented by any very strong sense of humour.
+not tormented by any very strong sense of [[Humour|humour]].
 To have splendid talents, to move in a thrilling theatre of events,
 to plan vast remedies, to defend them with dramatic pronouncements,
 to believe with equal intensity in one's own capacity and one's
@@ -97,6 +97,6 @@ No one who has enjoyed the wit and laughing wisdom of Disraeli
 and really understood its essence, would be surprised to hear
 that he was an unhappy man.  Let us rather pray for that appalling
 gravity which marks the happiest of all human creatures,
-lovers in ecstasy and children at play.
+[[lovers]] in ecstasy and children at play.
 
                                          Black and White, April 18th, 1903

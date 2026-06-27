@@ -16,7 +16,7 @@ tags:
 
 XIX.  On Gossip about Heredity
 
-A SHORT time ago a distinguished scientific expert, pleading for a more
+A SHORT [[Time|time]] ago a distinguished scientific expert, pleading for a more
 normal and less panic-stricken treatment of consumptives, summed up
 one aspect in the decisive words:  `Consumption is no more hereditary
 than measles.'  He said, of course, that it could attack successive
@@ -67,7 +67,7 @@ provincial homes that what they called Drink was hereditary.
 If they had used language in a rational manner they might have been
 quite right, for the disposition to drink something is a hereditary
 human instinct; and the objection to doing so, when it happens
-to be beer, is a superficial, artificial, and self-conscious pose.
+to be beer, is a superficial, artificial, and [[Self|self]]-conscious pose.
 But what they meant was alcoholism; and what they meant was nonsense.
 Nobody has ever tasted alcohol.  Nobody in the normal way has ever
 seen it.  Nobody most certainly has ever liked it.  What people
@@ -84,21 +84,21 @@ which is simple pleasure.  Now, all men have a craving for pleasure;
 and, though some men are weaker or more wilful in snatching at it,
 I cannot for the life of me see why such men should not snatch
 at other pleasures as much as this one.  If what is inherited is
-anything so vague as a lack of vigilance and self-control against
+anything so vague as a lack of vigilance and [[Self|self]]-control against
 pleasure itself, I cannot see why the drunkard should not have
-one son who was a jewel-thief and another who was always flirting
+one son who was a [[Jewel|jewel]]-thief and another who was always flirting
 with barmaids or bolting with ballet-girls. Of course, many children
 of drunken families are drunken; not because there is heredity,
 but because there are a great many other things besides heredity.
-There is such a thing as tradition, which is nearly half of true history;
+There is such a thing as tradition, which is nearly half of true [[history]];
 and there is such a thing as suggestion, which is nearly all
-of modern journalism; and there are such things as education
+of modern journalism; and there are such things as [[Education|education]]
 and environment, about which a still louder yell of human folly
 will go up--in short, there is something in morals which corresponds
 to infection in measles.
 
-But this wild romance of popular science spread wider and wider.
-What is odd about it is not its truth or untruth, but the unresisted
+But this wild [[Romance|romance]] of popular science spread wider and wider.
+What is odd about it is not its [[Truth|truth]] or untruth, but the unresisted
 smoothness with which it spread over one field after another.
 I know so little of the scientific study itself that I should not think
 of denying the possibility of some sort of inherited drunkenness;
@@ -107,14 +107,14 @@ But why were hundreds and thousands of people, who knew even less science
 than I do, instantly and calmly assured that drunkenness was hereditary?
 Why did they begin at once to watch the doubtful steps of the curate,
 because his great-uncle the Admiral was found drunk in a ditch on
-Trafalgar Day?  Why did they eagerly watch for the fire of alcoholic
+Trafalgar Day?  Why did they eagerly watch for the [[Fire|fire]] of alcoholic
 craving in the eyes of the new-born infant who was remotely descended
 from Three-Bottle Thumpington?  The question grows wilder as the
 application grew wider.  The next thing we heard was the cheerful news
 that Assassination was a regular family feature, like a family nose.
 As in the other cases, it was not so much stated by scientific people
 as spread by unscientific people as the last scientific news.
-A brilliant lady novelist lately based a whole novel upon it,
+A brilliant lady novelist lately based a whole [[Novel|novel]] upon it,
 called Red Sky at Morning, in which a hazy, good-natured youth kills
 somebody for a very insufficient reason, merely because his father
 fifty years ago had killed somebody quite different for a totally
@@ -129,5 +129,5 @@ But the number of lazy men who will murder a valet for waking them
 up is about as large as the number of impatient men who will murder
 him for keeping them waiting.  That is to say, it is very small.
 The mysterious moral inhibition, or its absence, by which men
-do or do not murder, is in the individual soul; and I defy anybody
+do or do not murder, is in the individual [[Soul|soul]]; and I defy anybody
 to show that it is hereditary.

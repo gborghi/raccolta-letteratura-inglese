@@ -14,28 +14,28 @@ tags:
 </nav>
 
 
-There was a pause, and then Gale, who seemed for the first time
+There was a pause, and then Gale, who seemed for the first [[Time|time]]
 somewhat impressed, asked abstractedly:
 
 "Where is his tomb?  Your tale is really rather strange and dramatic,
 and obviously it must go on to his tomb.  Your pilgrimage ought
 to end in finding a magnificent monument of marble and gold,
-like the tomb of Napoleon, and then finding that even the grave
+like the tomb of Napoleon, and then finding that even the [[Grave|grave]]
 had been desecrated."
 
 "He has no tomb," replied Garth sternly, "though he will have
-many monuments.  I hope to see the day when he will have a statue
+many monuments.  I [[Hope|hope]] to see the day when he will have a statue
 in every town, he whose statue is now insulted in his own town.
 But he will have no tomb."
 
 "And why not?" asked the staring Armitage.
 
-"His body cannot be found," answered the doctor; "no trace of him
+"His [[Body|body]] cannot be found," answered the doctor; "no trace of him
 can be found anywhere."
 
 "Then how do you know he is dead?" asked the other.
 
-There was an instant of silence, and then the doctor spoke out
+There was an instant of [[Silence|silence]], and then the doctor spoke out
 in a voice fuller and stronger than before:
 
 "Why, as to that," he said, "I think he is dead because I am sure
@@ -47,16 +47,16 @@ at the table.  "Go on with your story," he said.
 "Boyg's old servant," resumed the doctor, "who is a queer, silent,
 yellow-faced old card, was at last induced to tell me of the existence
 of Boyg's assistant, of whom I think he was rather jealous.
-The Professor's scientific helper and right-hand man is a man
+[[The Professor]]'s scientific helper and right-hand man is a man
 of the name of Bertrand, and a very able man, too, eminently worthy
 of the great man's confidence, and intensely devoted to his cause.
 He is carrying on Boyg's work so far as it can be carried on; and about
-Boyg's death or disappearance he knows the little that can be known.
-It was when I finally ran him to earth in a little house full of
-Boyg's books and instruments, at the bottom of the hill just beyond
-the town, that I first began to realize the nature of this sinister
+Boyg's [[Death|death]] or disappearance he knows the little that can be known.
+It was when I finally ran him to earth in a little [[house]] full of
+Boyg's books and instruments, at the [[Bottom|bottom]] of the [[Hill|hill]] just beyond
+the town, that I first began to realize the [[Nature|nature]] of this sinister
 and mysterious business.  Bertrand is a quiet man, though he has
-a little of the pardonable vanity which is not uncommon in assistants.
+a little of the pardonable [[Vanity|vanity]] which is not uncommon in assistants.
 One would sometimes fancy the great discovery was almost as much
 his as his master's; but that does no harm, since it only makes
 him fight for his master's fame almost as if it were his.
@@ -66,7 +66,7 @@ I had not looked for long at the dark bright eyes and keen face
 of that quiet young man before I realized that there was something
 else that he is trying to discover.  As a matter of fact, he is no
 longer merely a scientific assistant, or even a scientific student.
-Unless I am much mistaken, he is playing the part of an amateur detective.
+Unless I am much mistaken, he is playing the part of an amateur [[Detective|detective]].
 
 "Your artistic training, my friends, may be an excellent thing for
 discovering a poet, or even a sculptor; but you will forgive me for
@@ -94,7 +94,7 @@ Bertrand says he was called away to the crisis of an experiment
 in the laboratory; when he looked again he could not see his master,
 and he has never seen him from that day to this.
 
-"At the foot of the hill, and at the bottom of the flight of steps
+"At the foot of the [[Hill|hill]], and at the [[Bottom|bottom]] of the flight of steps
 which runs up to the hermitage, is the entrance to the great monastic
 buildings on the very edge of the town.  The very first thing you come
 to on that side is the great quadrangle, which is enclosed by cloisters,
@@ -109,11 +109,11 @@ Boyg could not possibly have gone past that secular barrier,
 dead or alive, without being under the eyes of crowds who were
 more excited about him than about anything else in the world.
 For the whole place was in a fuss, and even a riot for him
-as well as against him.  Something happened to him on
+as [[Well|well]] as against him.  Something happened to him on
 the hillside, or anyhow before he came to the internal barrier.
-My friend the amateur detective set to work to examine the hillside,
+My friend the amateur [[Detective|detective]] set to work to examine the hillside,
 or all of it that could seriously count; an enormous undertaking,
-but he did it as if with a microscope.  Well, he found that rocky field,
+but he did it as if with a microscope.  [[Well]], he found that rocky field,
 when examined closely, very much what it looks even from here.
 There are no caves or even holes, there are no chasms or even
 cracks in that surface of blank stone for miles and miles.

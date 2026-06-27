@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 3)"
+title: "[[David Copperfield]] — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 There never was such another drunken madman in that line of business,
-I hope. That he was well known in the neighbourhood, and enjoyed the
+I [[Hope|hope]]. That he was [[Well|well]] known in the neighbourhood, and enjoyed the
 reputation of having sold himself to the devil, I soon understood from
 the visits he received from the boys, who continually came skirmishing
 about the shop, shouting that legend, and calling to him to bring out
@@ -27,20 +27,20 @@ the purpose, exasperated him to such a degree, that the whole day was a
 succession of rushes on his part, and flights on the part of the boys.
 Sometimes in his rage he would take me for one of them, and come at me,
 mouthing as if he were going to tear me in pieces; then, remembering
-me, just in time, would dive into the shop, and lie upon his bed, as I
+me, just in [[Time|time]], would dive into the shop, and lie upon his bed, as I
 thought from the sound of his voice, yelling in a frantic way, to his
-own windy tune, the ‘Death of Nelson’; with an Oh! before every line,
+own windy tune, the ‘[[Death]] of Nelson’; with an Oh! before every line,
 and innumerable Goroos interspersed. As if this were not bad enough for
 me, the boys, connecting me with the establishment, on account of the
 patience and perseverance with which I sat outside, half-dressed, pelted
 me, and used me very ill all day.
 
 He made many attempts to induce me to consent to an exchange; at one
-time coming out with a fishing-rod, at another with a fiddle, at another
+[[Time|time]] coming out with a fishing-rod, at another with a fiddle, at another
 with a cocked hat, at another with a flute. But I resisted all these
-overtures, and sat there in desperation; each time asking him, with
-tears in my eyes, for my money or my jacket. At last he began to pay me
-in halfpence at a time; and was full two hours getting by easy stages to
+overtures, and sat there in desperation; each [[Time|time]] asking him, with
+[[Tears|tears]] in my eyes, for my money or my jacket. At last he began to pay me
+in halfpence at a [[Time|time]]; and was full two hours getting by easy stages to
 a shilling.
 
 ‘Oh, my eyes and limbs!’ he then cried, peeping hideously out of the
@@ -61,18 +61,18 @@ I was so faint and weary that I closed with this offer; and taking the
 money out of his claw, not without trembling, went away more hungry and
 thirsty than I had ever been, a little before sunset. But at an expense
 of threepence I soon refreshed myself completely; and, being in better
-spirits then, limped seven miles upon my road.
+spirits then, limped seven miles upon my [[Road|road]].
 
-My bed at night was under another haystack, where I rested comfortably,
+My bed at [[Night|night]] was under another haystack, where I rested comfortably,
 after having washed my blistered feet in a stream, and dressed them as
-well as I was able, with some cool leaves. When I took the road again
+[[Well|well]] as I was able, with some cool [[Leaves|leaves]]. When I took the [[Road|road]] again
 next morning, I found that it lay through a succession of hop-grounds
 and orchards. It was sufficiently late in the year for the orchards
 to be ruddy with ripe apples; and in a few places the hop-pickers were
 already at work. I thought it all extremely beautiful, and made up
-my mind to sleep among the hops that night: imagining some cheerful
+my mind to [[Sleep|sleep]] among the hops that [[Night|night]]: imagining some cheerful
 companionship in the long perspectives of poles, with the graceful
-leaves twining round them.
+[[Leaves|leaves]] twining round them.
 
 The trampers were worse than ever that day, and inspired me with a
 dread that is yet quite fresh in my mind. Some of them were most
@@ -84,7 +84,7 @@ who faced about and stared at me thus; and then roared to me in such a
 tremendous voice to come back, that I halted and looked round.
 
 ‘Come here, when you’re called,’ said the tinker, ‘or I’ll rip your
-young body open.’
+young [[Body|body]] open.’
 
 I thought it best to go back. As I drew nearer to them, trying to
 propitiate the tinker by my looks, I observed that the woman had a black
@@ -98,7 +98,7 @@ with his blackened hand.
 ‘Where do you come from?’ asked the tinker, giving his hand another turn
 in my shirt, to hold me more securely.
 
-‘I come from London,’ I said.
+‘I come from [[London]],’ I said.
 
 ‘What lay are you upon?’ asked the tinker. ‘Are you a prig?’
 
@@ -133,8 +133,8 @@ the word ‘Go!’ with her lips. Before I could obey, however, the tinker
 seized the handkerchief out of my hand with a roughness that threw me
 away like a feather, and putting it loosely round his own neck, turned
 upon the woman with an oath, and knocked her down. I never shall forget
-seeing her fall backward on the hard road, and lie there with her bonnet
-tumbled off, and her hair all whitened in the dust; nor, when I looked
+seeing her fall backward on the hard [[Road|road]], and lie there with her bonnet
+tumbled off, and her hair all whitened in the [[Dust|dust]]; nor, when I looked
 back from a distance, seeing her sitting on the pathway, which was a
-bank by the roadside, wiping the blood from her face with a corner of
+bank by the roadside, wiping the [[Blood|blood]] from her face with a corner of
 her shawl, while he went on ahead.

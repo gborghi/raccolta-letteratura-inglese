@@ -1,5 +1,5 @@
 ---
-title: "Napoleon of Notting Hill — Chapter 1 (part 1)"
+title: "Napoleon of Notting [[Hill]] — Chapter 1 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Napoleon-of-Notting-Hill-(Chesterton)"
@@ -23,13 +23,13 @@ big drapery stores in Kensington High Street, was locking up
 those premises, being the last to leave.  It was a wonderful
 evening of green and gold, but that did not trouble him very much.
 If you had pointed it out, he would have agreed seriously,
-for the rich always desire to be artistic.
+for the rich always [[Desire|desire]] to be artistic.
 
 He stepped out into the cool air, buttoning up his light coat,
 and blowing great clouds from his cigar, when a figure dashed up to him
 in another yellow overcoat, but unbuttoned and flying behind him.
 
-"Hullo, Barker!" said the draper.  "Any of our summer articles?
+"Hullo, Barker!" said the draper.  "Any of our [[Summer|summer]] articles?
 You're too late.  Factory Acts, Barker.  Humanity and progress, my boy."
 
 "Oh, don't chatter," cried Barker, stamping.  "We've been beaten."
@@ -38,7 +38,7 @@ You're too late.  Factory Acts, Barker.  Humanity and progress, my boy."
 
 "By Wayne."
 
-Buck looked at Barker's fierce white face for the first time,
+Buck looked at Barker's fierce white face for the first [[Time|time]],
 as it gleamed in the lamplight.
 
 "Come and have a drink," he said.
@@ -49,16 +49,16 @@ himself slowly and lazily in a seat, and pulled out his cigar-case.
 "Have a smoke," he said.
 
 Barker was still standing, and on the fret, but after a moment's
-hesitation, he sat down, as if he might spring up again the next minute.
-They ordered drinks in silence.
+hesitation, he sat down, as if he might [[spring]] up again the next minute.
+They ordered drinks in [[Silence|silence]].
 
 "How did it happen?" asked Buck, turning his big bold eyes on him.
 
 "How the devil do I know?" cried Barker.  "It happened
-like...like a dream.  How can two hundred men beat six hundred?
+like...like [[A Dream|a dream]].  How can two hundred men beat six hundred?
 How can they?"
 
-"Well," said Buck, coolly.  "How did they?  You ought to know."
+"[[Well]]," said Buck, coolly.  "How did they?  You ought to know."
 
 "I don't know.  I can't describe," said the other, drumming on the table.
 "It seemed like this.  We were six hundred and marched with those
@@ -74,8 +74,8 @@ When we also had reached northern side and turned up a small
 street that points, crookedly as it were, towards Pump Street,
 the whole thing felt different.  The street dodged and bent
 so much that the head of our line seemed lost altogether:
-it might as well have been in North America.  And all this time we
-hadn't seen a soul."
+it might as [[Well|well]] have been in North [[America]].  And all this [[Time|time]] we
+hadn't seen a [[Soul|soul]]."
 
 Buck, who was idly dabbing the ash of his cigar on the ash-tray,
 began to move it deliberately over the table, making feathery
@@ -92,18 +92,18 @@ whose head had been struck, or had been an electric cord.
 None of us knew why we were moving, but we moved and jostled.
 Then we recovered, and went on through the little dirty streets,
 round corners, and up twisted ways.  The little crooked streets
-began to give me a feeling I can't explain...as if it were a dream.
+began to give me a feeling I can't explain...as if it were [[A Dream|a dream]].
 I felt as if things had lost their reason, and we should never
 get out of the maze.  Odd to hear me talk like that, isn't it?
-The streets were quite well-known streets, all down on the map.
+The streets were quite [[Well|well]]-known streets, all down on the map.
 But the fact remains.  I wasn't afraid of something happening.
 I was afraid of nothing ever happening...nothing ever happening
-for all God's eternity."
+for all God's [[Eternity|eternity]]."
 
 He drained his glass and called for more whisky.  He drank it
 and went on.
 
-"And then something did happen.  Buck, it's the solemn truth,
+"And then something did happen.  Buck, it's the solemn [[Truth|truth]],
 that nothing has ever happened to you in your life.  Nothing had
 ever happened to me in my life."
 
@@ -122,28 +122,28 @@ But things happening!" and he shuddered ungovernably.
 "As we walked wearily round the corners, something happened.
 When something happens, it happens first, and you see it afterwards.
 It happens of itself, and you have nothing to do with it.  It proves
-a dreadful thing...that there are other things besides one's self.
+a dreadful thing...that there are other things besides one's [[Self|self]].
 I can only put it in this way.  We went round one turning, two turnings,
 three turnings, four turnings, five.  Then I lifted myself slowly
 up from the gutter where I had been shot half senseless, and was
 beaten down again by living men crashing on top of me, and the world
-was full of roaring, and big men rolling about like ninepins."
+was full of roaring, and big men [[rolling]] about like ninepins."
 
 Buck looked at his map with knitted brows.
 
-"Was that Portobello Road?" he asked.
+"Was that Portobello [[Road]]?" he asked.
 
-"Yes," said Barker.  "Yes; Portobello Road...I saw it afterwards;
+"Yes," said Barker.  "Yes; Portobello [[Road]]...I saw it afterwards;
 but, my God...what a place it was!  Buck, have you ever stood
 and let a six foot of a man lash and lash at your head with six feet
 of pole with six pounds of steel at the end?  Because, when you
 have had that experience, as Walt Whitman says, 'you re-examine
 philosophies and religions.'  "
 
-"I have no doubt," said Buck.  "If that was Portobello Road,
+"I have no [[Doubt|doubt]]," said Buck.  "If that was Portobello [[Road]],
 don't you see what happened?"
 
-"I know what happened exceedingly well.  I was knocked down four times;
+"I know what happened exceedingly [[Well|well]].  I was knocked down four times;
 an experience which, as I say, has an effect on the mental attitude.
 And another thing happened, too.  I knocked down two men.
 After the fourth fall (there was not much bloodshed...more brutal

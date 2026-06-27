@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 15 (part 4)"
+title: "[[Jane Eyre]] — Chapter 15 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -32,15 +32,15 @@ Something creaked: it was a door ajar; and that door was Mr.
 Rochester’s, and the smoke rushed in a cloud from thence. I thought no
 more of Mrs. Fairfax; I thought no more of Grace Poole, or the laugh:
 in an instant, I was within the chamber. Tongues of flame darted round
-the bed: the curtains were on fire. In the midst of blaze and vapour,
-Mr. Rochester lay stretched motionless, in deep sleep.
+the bed: the curtains were on [[Fire|fire]]. In the midst of blaze and vapour,
+Mr. Rochester lay stretched motionless, in deep [[Sleep|sleep]].
 
 “Wake! wake!” I cried. I shook him, but he only murmured and turned:
 the smoke had stupefied him. Not a moment could be lost: the very
 sheets were kindling, I rushed to his basin and ewer; fortunately, one
-was wide and the other deep, and both were filled with water. I heaved
+was wide and the other deep, and both were filled with [[Water|water]]. I heaved
 them up, deluged the bed and its occupant, flew back to my own room,
-brought my own water-jug, baptized the couch afresh, and, by God’s aid,
+brought my own [[Water|water]]-jug, baptized the couch afresh, and, by God’s aid,
 succeeded in extinguishing the flames which were devouring it.
 
 The hiss of the quenched element, the breakage of a pitcher which I
@@ -48,15 +48,15 @@ flung from my hand when I had emptied it, and, above all, the splash of
 the shower-bath I had liberally bestowed, roused Mr. Rochester at last.
 Though it was now dark, I knew he was awake; because I heard him
 fulminating strange anathemas at finding himself lying in a pool of
-water.
+[[Water|water]].
 
 “Is there a flood?” he cried.
 
-“No, sir,” I answered; “but there has been a fire: get up, do; you are
+“No, sir,” I answered; “but there has been a [[Fire|fire]]: get up, do; you are
 quenched now; I will fetch you a candle.”
 
-“In the name of all the elves in Christendom, is that Jane Eyre?” he
-demanded. “What have you done with me, witch, sorceress? Who is in the
+“In the name of all the elves in Christendom, is that [[Jane Eyre]]?” he
+demanded. “What have you done with me, [[Witch|witch]], sorceress? Who is in the
 room besides you? Have you plotted to drown me?”
 
 “I will fetch you a candle, sir; and, in Heaven’s name, get up.
@@ -69,15 +69,15 @@ here is my dressing-gown. Now run!”
 
 I did run; I brought the candle which still remained in the gallery. He
 took it from my hand, held it up, and surveyed the bed, all blackened
-and scorched, the sheets drenched, the carpet round swimming in water.
+and scorched, the sheets drenched, the carpet round swimming in [[Water|water]].
 
 “What is it? and who did it?” he asked.
 
 I briefly related to him what had transpired: the strange laugh I had
 heard in the gallery: the step ascending to the third storey; the
-smoke,—the smell of fire which had conducted me to his room; in what
+smoke,—the smell of [[Fire|fire]] which had conducted me to his room; in what
 state I had found matters there, and how I had deluged him with all the
-water I could lay hands on.
+[[Water|water]] I could lay hands on.
 
 
 “What is it and who did it?” he asked
@@ -89,7 +89,7 @@ concluded.
 “Shall I call Mrs. Fairfax?” I asked.
 
 “Mrs. Fairfax? No; what the deuce would you call her for? What can she
-do? Let her sleep unmolested.”
+do? Let her [[Sleep|sleep]] unmolested.”
 
 “Then I will fetch Leah, and wake John and his wife.”
 
@@ -105,11 +105,11 @@ He went: I watched the light withdraw. He passed up the gallery very
 softly, unclosed the staircase door with as little noise as possible,
 shut it after him, and the last ray vanished. I was left in total
 darkness. I listened for some noise, but heard nothing. A very long
-time elapsed. I grew weary: it was cold, in spite of the cloak; and
-then I did not see the use of staying, as I was not to rouse the house.
+[[Time|time]] elapsed. I grew weary: it was cold, in spite of the cloak; and
+then I did not see the use of staying, as I was not to rouse the [[house]].
 I was on the point of risking Mr. Rochester’s displeasure by disobeying
 his orders, when the light once more gleamed dimly on the gallery wall,
-and I heard his unshod feet tread the matting. “I hope it is he,”
+and I heard his unshod feet tread the matting. “I [[Hope|hope]] it is he,”
 thought I, “and not something worse.”
 
 He re-entered, pale and very gloomy. “I have found it all out,” said
@@ -133,15 +133,15 @@ think, or something like it?”
 laughs in that way. She is a singular person.”
 
 “Just so. Grace Poole—you have guessed it. She is, as you say,
-singular—very. Well, I shall reflect on the subject. Meantime, I am
+singular—very. [[Well]], I shall reflect on the subject. Meantime, I am
 glad that you are the only person, besides myself, acquainted with the
-precise details of to-night’s incident. You are no talking fool: say
+precise details of to-[[Night|night]]’s incident. You are no talking [[Fool|fool]]: say
 nothing about it. I will account for this state of affairs” (pointing
-to the bed): “and now return to your own room. I shall do very well on
-the sofa in the library for the rest of the night. It is near four:—in
+to the bed): “and now return to your own room. I shall do very [[Well|well]] on
+the sofa in the library for the rest of the [[Night|night]]. It is near four:—in
 two hours the servants will be up.”
 
-“Good-night, then, sir,” said I, departing.
+“Good-[[Night|night]], then, sir,” said I, departing.
 
 He seemed surprised—very inconsistently so, as he had just told me to
 go.
@@ -153,7 +153,7 @@ go.
 “But not without taking leave; not without a word or two of
 acknowledgment and good-will: not, in short, in that brief, dry
 fashion. Why, you have saved my life!—snatched me from a horrible and
-excruciating death! and you walk past me as if we were mutual
+excruciating [[Death|death]]! and you walk past me as if we were mutual
 strangers! At least shake hands.”
 
 He held out his hand; I gave him mine: he took it first in one, then in
@@ -167,17 +167,17 @@ but you: it is different;—I feel your benefits no burden, Jane.”
 He paused; gazed at me: words almost visible trembled on his lips,—but
 his voice was checked.
 
-“Good-night again, sir. There is no debt, benefit, burden, obligation,
+“Good-[[Night|night]] again, sir. There is no debt, benefit, burden, obligation,
 in the case.”
 
 “I knew,” he continued, “you would do me good in some way, at some
-time;—I saw it in your eyes when I first beheld you: their expression
+[[Time|time]];—I saw it in your eyes when I first beheld you: their expression
 and smile did not”—(again he stopped)—“did not” (he proceeded hastily)
 “strike delight to my very inmost heart so for nothing. People talk of
 natural sympathies; I have heard of good genii: there are grains of
-truth in the wildest fable. My cherished preserver, good-night!”
+[[Truth|truth]] in the wildest [[Fable|fable]]. My cherished preserver, good-[[Night|night]]!”
 
-Strange energy was in his voice, strange fire in his look.
+Strange energy was in his voice, strange [[Fire|fire]] in his look.
 
 “I am glad I happened to be awake,” I said: and then I was going.
 
@@ -191,14 +191,14 @@ expedient.
 
 “I think I hear Mrs. Fairfax move, sir,” said I.
 
-“Well, leave me:” he relaxed his fingers, and I was gone.
+“[[Well]], leave me:” he relaxed his fingers, and I was gone.
 
-I regained my couch, but never thought of sleep. Till morning dawned I
+I regained my couch, but never thought of [[Sleep|sleep]]. Till morning dawned I
 was tossed on a buoyant but unquiet sea, where billows of trouble
 rolled under surges of joy. I thought sometimes I saw beyond its wild
 waters a shore, sweet as the hills of Beulah; and now and then a
-freshening gale, wakened by hope, bore my spirit triumphantly towards
+freshening gale, wakened by [[Hope|hope]], bore my spirit triumphantly towards
 the bourne: but I could not reach it, even in fancy—a counteracting
 breeze blew off land, and continually drove me back. Sense would resist
-delirium: judgment would warn passion. Too feverish to rest, I rose as
+delirium: judgment would warn passion. Too feverish to rest, I [[Rose|rose]] as
 soon as day dawned.

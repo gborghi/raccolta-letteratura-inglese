@@ -1,5 +1,5 @@
 ---
-title: "The Poetic Principle (part 5)"
+title: "[[The Poetic Principle]] (part 5)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -16,17 +16,17 @@ tags:
       It was by no means my design, however, to expatiate upon the _merits
       _of what I should read you. These will necessarily speak for
       themselves. Boccalini, in his “Advertisements from Parnassus,” tells us
-      that Zoilus once presented Apollo a very caustic criticism upon a very
+      that Zoilus once presented [[Apollo]] a very caustic criticism upon a very
       admirable book:—whereupon the god asked him for the beauties of the
       work. He replied that he only busied himself about the errors. On hearing
-      this, Apollo, handing him a sack of unwinnowed wheat, bade him pick out _all
+      this, [[Apollo]], handing him a sack of unwinnowed wheat, bade him pick out _all
       the chaff _for his reward.
 
-      Now this fable answers very well as a hit at the critics—but I am by
+      Now this [[Fable|fable]] answers very [[Well|well]] as a hit at the critics—but I am by
       no means sure that the god was in the right. I am by no means certain that
       the true limits of the critical duty are not grossly misunderstood.
       Excellence, in a poem especially, may be considered in the light of an
-      axiom, which need only be properly _put, _to become self-evident. It
+      axiom, which need only be properly _put, _to become [[Self|self]]-evident. It
       is _not _excellence if it require to be demonstrated as such:—and
       thus to point out too particularly the merits of a work of Art, is to
       admit that they are _not _merits altogether.
@@ -36,24 +36,24 @@ tags:
       to his lines beginning—“Come, rest in this bosom.” The intense
       energy of their expression is not surpassed by anything in Byron. There
       are two of the lines in which a sentiment is conveyed that embodies the _all
-      in all _of the divine passion of Love—a sentiment which, perhaps,
+      in all _of the divine passion of [[Love]]—a sentiment which, perhaps,
       has found its echo in more, and in more passionate, human hearts than any
       other single sentiment ever embodied in words:—
 
      Come, rest in this bosom, my own stricken deer
-     Though the herd have fled from thee, thy home is still here;
+     Though the herd have fled from thee, thy [[Home|home]] is still here;
      Here still is the smile, that no cloud can o’ercast,
      And a heart and a hand all thy own to the last.
-     Oh! what was love made for, if ’tis not the same
+     Oh! what was [[Love|love]] made for, if ’tis not the same
      Through joy and through torment, through glory and shame?
-     I know not, I ask not, if guilt’s in that heart,
-     I but know that I love thee, whatever thou art.
+     I know not, I ask not, if [[Guilt|guilt]]’s in that heart,
+     I but know that I [[Love|love]] thee, whatever thou art.
      Thou hast call’d me thy Angel in moments of bliss,
      And thy Angel I’ll be, ‘mid the horrors of this,—
      Through the furnace, unshrinking, thy steps to pursue,
      And shield thee, and save thee,—or perish there too!
 
-      It has been the fashion of late days to deny Moore Imagination, while
+      It has been the fashion of late days to deny Moore [[Imagination]], while
       granting him Fancy—a distinction originating with Coleridge—than
       whom no man more fully comprehended the great powers of Moore. The fact
       is, that the fancy of this poet so far predominates over all his other
@@ -75,24 +75,24 @@ tags:
      To dazzle when the sun is down,
          And rob the world of rest;
      She took our daylight with her,
-         The smiles that we love best,
+         The smiles that we [[Love|love]] best,
      With morning blushes on her cheek,
          And pearls upon her breast.
      O turn again, fair Ines,
-         Before the fall of night,
-     For fear the moon should shine alone,
-         And stars unrivalltd bright;
-     And blessed will the lover be
+         Before the fall of [[Night|night]],
+     For [[Fear|fear]] the [[Moon|moon]] should shine [[Alone|alone]],
+         And [[Stars|stars]] unrivalltd bright;
+     And blessed will the [[Lover|lover]] be
          That walks beneath their light,
-     And breathes the love against thy cheek
+     And breathes the [[Love|love]] against thy cheek
          I dare not even write!
      Would I had been, fair Ines,
          That gallant cavalier,
      Who rode so gaily by thy side,
          And whisper’d thee so near!
-     Were there no bonny dames at home
-         Or no true lovers here,
-     That he should cross the seas to win
+     Were there no bonny dames at [[Home|home]]
+         Or no true [[lovers]] here,
+     That he should [[Cross|cross]] the seas to win
          The dearest of the dear?
      I saw thee, lovely Ines,
          Descend along the shore,
@@ -103,7 +103,7 @@ tags:
      It would have been a beauteous dream,
          If it had been no more!
      Alas, alas, fair Ines,
-         She went away with song,
+         She went away with [[Song|song]],
      With music waiting on her steps,
          And shootings of the throng;
      But some were sad and felt no mirth,
@@ -116,10 +116,10 @@ tags:
          Nor danced so light before,—
      Alas for pleasure on the sea,
          And sorrow on the shorel
-     The smile that blest one lover’s heart
+     The smile that blest one [[Lover|lover]]’s heart
          Has broken many more!
 
-      “The Haunted House,” by the same author, is one of the truest poems ever
+      “The Haunted [[house|House]],” by the same author, is one of the truest [[Poems|poems]] ever
       written,—one of the truest, one of the most unexceptionable, one of
       the most thoroughly artistic, both in its theme and in its execution. It
       is, moreover, powerfully ideal—imaginative. I regret that its length
@@ -129,7 +129,7 @@ tags:
      One more Unfortunate,
      Weary of breath,
      Rashly importunate
-     Gone to her death!
+     Gone to her [[Death|death]]!
      Take her up tenderly,
      Lift her with care;—
      Fashion’d so slenderly,
@@ -150,27 +150,27 @@ tags:
      Into her mutiny
      Rash and undutiful;
      Past all dishonor,
-     Death has left on her
+     [[Death]] has left on her
      Only the beautiful.
      Where the lamps quiver
-     So far in the river,
+     So far in the [[River|river]],
      With many a light
-     From window and casement
+     From [[Window|window]] and casement
      From garret to basement,
      She stood, with amazement,
-     Houseless by night.
-     The bleak wind of March
+     Houseless by [[Night|night]].
+     The bleak [[Wind|wind]] of March
      Made her tremble and shiver,
      But not the dark arch,
-     Or the black flowing river:
-     Mad from life’s history,
-     Glad to death’s mystery,
+     Or the black flowing [[River|river]]:
+     Mad from life’s [[history]],
+     Glad to [[Death|death]]’s mystery,
      Swift to be hurl’d—
      Anywhere, anywhere
      Out of the world!
      In she plunged boldly,
      No matter how coldly
-     The rough river ran,—
+     The rough [[River|river]] ran,—
      Over the brink of it,
      Picture it,—think of it,
      Dissolute Man!
@@ -184,7 +184,7 @@ tags:
      Escaped from the comb,
      Her fair auburn tresses;
      Whilst wonderment guesses
-     Where was her home?
+     Where was her [[Home|home]]?
      Who was her father?
      Who was her mother?
      Had she a sister?
@@ -193,17 +193,17 @@ tags:
      Still, and a nearer one
      Yet, than all other?
      Alas! for the rarity
-     Of Christian charity
+     Of Christian [[Charity|charity]]
      Under the sun!
      Oh! it was pitiful!
-     Near a whole city full,
-     Home she had none.
+     Near a whole [[City|city]] full,
+     [[Home]] she had none.
      Sisterly, brotherly,
      Fatherly, motherly,
      Feelings had changed:
-     Love, by harsh evidence,
+     [[Love]], by harsh evidence,
      Thrown from its eminence;
-     Even God’s providence
+     Even God’s [[Providence|providence]]
      Seeming estranged.
      Take her up tenderly;
      Lift her with care;
@@ -225,7 +225,7 @@ tags:
      Cold inhumanity,
      Burning insanity,
      Into her rest,—
-     Cross her hands humbly,
+     [[Cross]] her hands humbly,
      As if praying dumbly,
      Over her breast!
      Owning her weakness,

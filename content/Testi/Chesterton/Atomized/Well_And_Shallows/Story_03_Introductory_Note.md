@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — Introductory Note"
+title: "[[Well]] And Shallows — Introductory Note"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Well-And-Shallows-(Chesterton)"
@@ -47,7 +47,7 @@ really mean it.  Now anybody driven to the defence of what
 he does really mean must cover all the strategic field
 of the fight, and must fight at many points which he would
 not have chosen in fancy, but only in relation to fact.
-He cannot hope to deal only with heresies that amuse him;
+He cannot [[Hope|hope]] to deal only with heresies that amuse him;
 he must, in common fairness, deal seriously with heresies
 that bore him.  He must settle down to stating his real
 reasons for contradicting real statements, which are not made
@@ -55,9 +55,9 @@ by him as statements, and not chosen by him as subjects.
 All this seems to me, with my mild rationalistic mind,
 excellently summarised in the words, "Joking Apart."
 
-Anyhow, this is why I have opened this series with an essay
+Anyhow, this is why I have opened this series with an [[Essay|essay]]
 called "An Apology for Buffoons," because it is in some sense,
-I will not say a swan-song (that ornithological metaphor
+I will not say a swan-[[Song|song]] (that ornithological metaphor
 would not occur to me in relation to myself), but at least
 a sort of summary of my more frivolous mode of writing,
 and all that I still think may be fairly advanced for it.
@@ -66,13 +66,13 @@ false can hardly preserve the glorious immunity of a buffoon.
 He is forced to be serious, and even those who despise
 him most are driven desperately to take him seriously.
 But there is one other reason for adding this preliminary note,
-in connection with the preliminary essay.  Since I wrote it,
+in connection with the preliminary [[Essay|essay]].  Since I wrote it,
 I have come to appreciate much more warmly the admirable work
 of Mr. T. S. Eliot; and I should like to offer an apology to him
 for some errors that occurred accidentally in the article itself.
 It was not he, but another critic, with whom I confused him,
 who made the particular point against alliteration; and the quotation
-from him was made from memory; and I have not been able to trace
+from him was made from [[Memory|memory]]; and I have not been able to trace
 it so as to reproduce the exact order of words, the inaccuracy,
 if any, does not affect the argument; but the article which I
 had already planned to put in the same magazine, called "Apology
@@ -80,7 +80,7 @@ to T S Eliot" would have gone far beyond any such verbal point.
 It would be adding impudence to injury to dedicate a book
 to an author merely on the claim of having misquoted him;
 but I should be proud to dedicate this book to T. S. Eliot,
-and the return of true logic and a luminous tradition
+and the return of true [[logic]] and a luminous tradition
 to the world.
 
 -/-

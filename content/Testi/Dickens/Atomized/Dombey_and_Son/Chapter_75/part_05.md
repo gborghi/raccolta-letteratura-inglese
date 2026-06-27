@@ -23,22 +23,22 @@ emotion.
 
 “If,” said the other, retaining his hand while he spoke; “if when you
 come back, you miss me from my old corner, and should hear from anyone
-where I am lying, come and look upon my grave. Think that I might have
-been as honest and as happy as you! And let me think, when I know time
-is coming on, that some one like my former self may stand there, for a
-moment, and remember me with pity and forgiveness! Walter, good-bye!”
+where I am lying, come and look upon my [[Grave|grave]]. Think that I might have
+been as honest and as happy as you! And let me think, when I know [[Time|time]]
+is coming on, that some one like my former [[Self|self]] may stand there, for a
+moment, and remember me with pity and [[Forgiveness|forgiveness]]! Walter, good-bye!”
 
-His figure crept like a shadow down the bright, sun-lighted street, so
-cheerful yet so solemn in the early summer morning; and slowly passed
+His figure crept like a [[Shadow|shadow]] down the bright, sun-lighted street, so
+cheerful yet so solemn in the early [[Summer|summer]] morning; and slowly passed
 away.
 
 The relentless chronometer at last announced that Walter must turn his
 back upon the wooden Midshipman: and away they went, himself, his
 Uncle, and the Captain, in a hackney-coach to a wharf, where they were
-to take steam-boat for some Reach down the river, the name of which, as
+to take steam-boat for some Reach down the [[River|river]], the name of which, as
 the Captain gave it out, was a hopeless mystery to the ears of
-landsmen. Arrived at this Reach (whither the ship had repaired by last
-night’s tide), they were boarded by various excited watermen, and among
+landsmen. Arrived at this Reach (whither the [[Ship|ship]] had repaired by last
+[[Night|night]]’s tide), they were boarded by various excited watermen, and among
 others by a dirty Cyclops of the Captain’s acquaintance, who, with his
 one eye, had made the Captain out some mile and a half off, and had
 been exchanging unintelligible roars with him ever since. Becoming the
@@ -60,7 +60,7 @@ the hand, “a parting gift, my lad. Put it back half an hour every
 morning, and about another quarter towards the arternoon, and it’s a
 watch that’ll do you credit.”
 
-“Captain Cuttle! I couldn’t think of it!” cried Walter, detaining him,
+“[[Captain Cuttle]]! I couldn’t think of it!” cried Walter, detaining him,
 for he was running away. “Pray take it back. I have one already.”
 
 “Then, Wal”r,” said the Captain, suddenly diving into one of his
@@ -69,10 +69,10 @@ which he had armed himself to meet such an objection, “take this here
 trifle of plate, instead.”
 
 “No, no, I couldn’t indeed!” cried Walter, “a thousand thanks! Don’t
-throw them away, Captain Cuttle!” for the Captain was about to jerk
+throw them away, [[Captain Cuttle]]!” for the Captain was about to jerk
 them overboard. “They’ll be of much more use to you than me. Give me
 your stick. I have often thought I should like to have it. There!
-Good-bye, Captain Cuttle! Take care of my Uncle! Uncle Sol, God bless
+Good-bye, [[Captain Cuttle]]! Take care of my Uncle! Uncle Sol, God bless
 you!”
 
 They were over the side in the confusion, before Walter caught another
@@ -80,25 +80,25 @@ glimpse of either; and when he ran up to the stern, and looked after
 them, he saw his Uncle hanging down his head in the boat, and Captain
 Cuttle rapping him on the back with the great silver watch (it must
 have been very painful), and gesticulating hopefully with the teaspoons
-and sugar-tongs. Catching sight of Walter, Captain Cuttle dropped the
-property into the bottom of the boat with perfect unconcern, being
+and sugar-tongs. Catching sight of Walter, [[Captain Cuttle]] dropped the
+property into the [[Bottom|bottom]] of the boat with perfect unconcern, being
 evidently oblivious of its existence, and pulling off the glazed hat
 hailed him lustily. The glazed hat made quite a show in the sun with
 its glistening, and the Captain continued to wave it until he could be
 seen no longer. Then the confusion on board, which had been rapidly
 increasing, reached its height; two or three other boats went away with
 a cheer; the sails shone bright and full above, as Walter watched them
-spread their surface to the favourable breeze; the water flew in
+spread their surface to the favourable breeze; the [[Water|water]] flew in
 sparkles from the prow; and off upon her voyage went the Son and Heir,
 as hopefully and trippingly as many another son and heir, gone down,
 had started on his way before her.
 
-Day after day, old Sol and Captain Cuttle kept her reckoning in the
+Day after day, old Sol and [[Captain Cuttle]] kept her reckoning in the
 little back parlour and worked out her course, with the chart spread
-before them on the round table. At night, when old Sol climbed
+before them on the round table. At [[Night|night]], when old Sol climbed
 upstairs, so lonely, to the attic where it sometimes blew great guns,
-he looked up at the stars and listened to the wind, and kept a longer
-watch than would have fallen to his lot on board the ship. The last
+he looked up at the [[Stars|stars]] and listened to the [[Wind|wind]], and kept a longer
+watch than would have fallen to his lot on board the [[Ship|ship]]. The last
 bottle of the old Madeira, which had had its cruising days, and known
-its dangers of the deep, lay silently beneath its dust and cobwebs, in
+its dangers of the deep, lay silently beneath its [[Dust|dust]] and cobwebs, in
 the meanwhile, undisturbed.

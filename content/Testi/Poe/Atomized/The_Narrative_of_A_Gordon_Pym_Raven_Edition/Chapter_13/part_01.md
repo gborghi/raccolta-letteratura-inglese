@@ -30,7 +30,7 @@ CHAPTER 13
 
       for a fortnight even with great care, almost entirely without
 
-      water, and floating about at the mercy of every wind and wave on
+      [[Water|water]], and floating about at the [[Mercy|mercy]] of every [[Wind|wind]] and wave on
 
       the merest wreck in the world, still the infinitely more terrible
 
@@ -48,15 +48,15 @@ CHAPTER 13
 
       something from the storeroom, when, a smart shower coming on,
 
-      with some lightning, we turn our attention to the catching of
+      with some [[Lightning|lightning]], we turn our attention to the catching of
 
-      water by means of the sheet we had used before for this purpose.
+      [[Water|water]] by means of the sheet we had used before for this purpose.
 
       We had no other means of collecting the rain than by holding the
 
       sheet spread out with one of the forechain-plates in the middle
 
-      of it. The water, thus conducted to the centre, was drained
+      of it. The [[Water|water]], thus conducted to the centre, was drained
 
       through into our jug. We had nearly filled it in this manner,
 
@@ -72,21 +72,21 @@ CHAPTER 13
 
       anticipated or would have been imagined possible under the
 
-      circumstances. At noon the wind had freshened into a two-reef
+      circumstances. At [[Noon|noon]] the [[Wind|wind]] had freshened into a two-reef
 
-      breeze, and by night into a stiff gale, accompanied with a
+      breeze, and by [[Night|night]] into a stiff gale, accompanied with a
 
       tremendously heavy swell. Experience having taught us, however,
 
       the best method of arranging our lashings, we weathered this
 
-      dreary night in tolerable security, although thoroughly drenched
+      dreary [[Night|night]] in tolerable security, although thoroughly drenched
 
       at almost every instant by the sea, and in momentary dread of
 
       being washed off. Fortunately, the weather was so warm as to
 
-      render the water rather grateful than otherwise.
+      render the [[Water|water]] rather grateful than otherwise.
 
 
 
@@ -96,7 +96,7 @@ CHAPTER 13
 
       were able to keep ourselves dry upon the deck. To our great
 
-      grief, however, we found that two jars of our olives, as well as
+      grief, however, we found that two jars of our olives, as [[Well|well]] as
 
       the whole of our ham, had been washed overboard, in spite of the
 
@@ -106,7 +106,7 @@ CHAPTER 13
 
       present with a breakfast on a few of the olives, and a measure of
 
-      water each, which latter we mixed half and half, with wine,
+      [[Water|water]] each, which latter we mixed half and half, with wine,
 
       finding great relief and strength from the mixture, without the
 
@@ -124,9 +124,9 @@ CHAPTER 13
 
       we could not stand an instant without lashing ourselves. On this
 
-      account we passed a gloomy and uncomfortable day. At noon the sun
+      account we passed a gloomy and uncomfortable day. At [[Noon|noon]] the sun
 
-      appeared to be nearly vertical, and we had no doubt that we had
+      appeared to be nearly vertical, and we had no [[Doubt|doubt]] that we had
 
       been driven down by the long succession of northward and
 
@@ -136,9 +136,9 @@ CHAPTER 13
 
       audacious manner in which an enormously large one approached us.
 
-      At one time, a lurch throwing the deck very far beneath the
+      At one [[Time|time]], a lurch throwing the deck very far beneath the
 
-      water, the monster actually swam in upon us, floundering for some
+      [[Water|water]], the [[Monster|monster]] actually swam in upon us, floundering for some
 
       moments just over the companion-hatch, and striking Peters
 
@@ -150,7 +150,7 @@ CHAPTER 13
 
 
 
-      July 26. This morning, the wind having greatly abated, and the
+      July 26. This morning, the [[Wind|wind]] having greatly abated, and the
 
       sea not being very rough, we determined to renew our exertions in
 
@@ -160,13 +160,13 @@ CHAPTER 13
 
       quarter, the partitions of the room having been stove during the
 
-      night, and its contents swept into the hold. This discovery, as
+      [[Night|night]], and its contents swept into the hold. This discovery, as
 
-      may be supposed, filled us with despair.
+      may be supposed, filled us with [[Despair|despair]].
 
 
 
-      July 27. The sea nearly smooth, with a light wind, and still from
+      July 27. The sea nearly smooth, with a light [[Wind|wind]], and still from
 
       the northward and westward. The sun coming out hotly in the
 
@@ -184,17 +184,17 @@ CHAPTER 13
 
       July 28. Good weather still. The brig now began to lie along so
 
-      alarmingly that we feared she would eventually roll bottom up.
+      alarmingly that we feared she would eventually roll [[Bottom|bottom]] up.
 
-      Prepared ourselves as well as we could for this emergency,
+      Prepared ourselves as [[Well|well]] as we could for this emergency,
 
       lashing our tortoise, waterjug, and two remaining jars of olives
 
       as far as possible over to the windward, placing them outside the
 
-      hull below the main-chains. The sea very smooth all day, with
+      hull below the main-[[Chains|chains]]. The sea very smooth all day, with
 
-      little or no wind.
+      little or no [[Wind|wind]].
 
 
 
@@ -202,7 +202,7 @@ CHAPTER 13
 
       arm began to evince symptoms of mortification. He complained of
 
-      drowsiness and excessive thirst, but no acute pain. Nothing could
+      drowsiness and excessive thirst, but no acute [[Pain|pain]]. Nothing could
 
       be done for his relief beyond rubbing his wounds with a little of
 

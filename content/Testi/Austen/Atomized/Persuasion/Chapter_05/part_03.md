@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 5 (part 3)"
+title: "[[Persuasion]] — Chapter 5 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -18,19 +18,19 @@ word I say, and Walter is growing quite as bad.”
 
 
 
-“Well, you will soon be better now,” replied Anne, cheerfully. “You
+“[[Well]], you will soon be better now,” replied Anne, cheerfully. “You
 
 know I always cure you when I come. How are your neighbours at the
 
-Great House?”
+[[Great House]]?”
 
 
 
 “I can give you no account of them. I have not seen one of them to-day,
 
-except Mr Musgrove, who just stopped and spoke through the window, but
+except Mr Musgrove, who just stopped and spoke through the [[Window|window]], but
 
-without getting off his horse; and though I told him how ill I was, not
+without getting off his [[Horse|horse]]; and though I told him how ill I was, not
 
 one of them have been near me. It did not happen to suit the Miss
 
@@ -48,7 +48,7 @@ early.”
 
 much for me. Oh! Anne, I am so very unwell! It was quite unkind of you
 
-not to come on Thursday.”
+not to come on [[thursday|Thursday]].”
 
 
 
@@ -56,9 +56,9 @@ not to come on Thursday.”
 
 yourself! You wrote in the cheerfullest manner, and said you were
 
-perfectly well, and in no hurry for me; and that being the case, you
+perfectly [[Well|well]], and in no hurry for me; and that being the case, you
 
-must be aware that my wish would be to remain with Lady Russell to the
+must be aware that my wish would be to remain with [[Lady Russell]] to the
 
 last: and besides what I felt on her account, I have really been so
 
@@ -78,25 +78,25 @@ moment; but I can tell you some. I have been making a duplicate of the
 
 catalogue of my father’s books and pictures. I have been several times
 
-in the garden with Mackenzie, trying to understand, and make him
+in the [[Garden|garden]] with Mackenzie, trying to understand, and make him
 
-understand, which of Elizabeth’s plants are for Lady Russell. I have
+understand, which of Elizabeth’s plants are for [[Lady Russell]]. I have
 
 had all my own little concerns to arrange, books and music to divide,
 
-and all my trunks to repack, from not having understood in time what
+and all my trunks to repack, from not having understood in [[Time|time]] what
 
 was intended as to the waggons: and one thing I have had to do, Mary,
 
-of a more trying nature: going to almost every house in the parish, as
+of a more trying [[Nature|nature]]: going to almost every [[house]] in the parish, as
 
 a sort of take-leave. I was told that they wished it. But all these
 
-things took up a great deal of time.”
+things took up a great deal of [[Time|time]].”
 
 
 
-“Oh! well!” and after a moment’s pause, “but you have never asked me
+“Oh! [[Well|well]]!” and after a moment’s pause, “but you have never asked me
 
 one word about our dinner at the Pooles yesterday.”
 
@@ -108,7 +108,7 @@ must have been obliged to give up the party.”
 
 
 
-“Oh yes! I went. I was very well yesterday; nothing at all the matter
+“Oh yes! I went. I was very [[Well|well]] yesterday; nothing at all the matter
 
 with me till this morning. It would have been strange if I had not
 
@@ -116,7 +116,7 @@ gone.”
 
 
 
-“I am very glad you were well enough, and I hope you had a pleasant
+“I am very glad you were [[Well|well]] enough, and I [[Hope|hope]] you had a pleasant
 
 party.”
 
@@ -142,19 +142,19 @@ A little further perseverance in patience and forced cheerfulness on
 
 Anne’s side produced nearly a cure on Mary’s. She could soon sit
 
-upright on the sofa, and began to hope she might be able to leave it by
+upright on the sofa, and began to [[Hope|hope]] she might be able to leave it by
 
-dinner-time. Then, forgetting to think of it, she was at the other end
+dinner-[[Time|time]]. Then, forgetting to think of it, she was at the other end
 
 of the room, beautifying a nosegay; then, she ate her cold meat; and
 
-then she was well enough to propose a little walk.
+then she was [[Well|well]] enough to propose a little walk.
 
 
 
 “Where shall we go?” said she, when they were ready. “I suppose you
 
-will not like to call at the Great House before they have been to see
+will not like to call at the [[Great House]] before they have been to see
 
 you?”
 
@@ -164,13 +164,13 @@ you?”
 
 should never think of standing on such ceremony with people I know so
 
-well as Mrs and the Miss Musgroves.”
+[[Well|well]] as Mrs and the Miss Musgroves.”
 
 
 
 “Oh! but they ought to call upon you as soon as possible. They ought to
 
-feel what is due to you as _my_ sister. However, we may as well go and
+feel what is due to you as _my_ sister. However, we may as [[Well|well]] go and
 
 sit with them a little while, and when we have that over, we can enjoy
 
@@ -184,13 +184,13 @@ but she had ceased to endeavour to check it, from believing that,
 
 though there were on each side continual subjects of offence, neither
 
-family could now do without it. To the Great House accordingly they
+family could now do without it. To the [[Great House]] accordingly they
 
 went, to sit the full half hour in the old-fashioned square parlour,
 
 with a small carpet and shining floor, to which the present daughters
 
-of the house were gradually giving the proper air of confusion by a
+of the [[house]] were gradually giving the proper air of confusion by a
 
 grand piano-forte and a harp, flower-stands and little tables placed in
 
@@ -230,7 +230,7 @@ advantage, their faces were rather pretty, their spirits extremely
 
 good, their manner unembarrassed and pleasant; they were of consequence
 
-at home, and favourites abroad. Anne always contemplated them as some
+at [[Home|home]], and favourites abroad. Anne always contemplated them as some
 
 of the happiest creatures of her acquaintance; but still, saved as we
 
@@ -250,7 +250,7 @@ so little herself with either of her sisters.
 
 They were received with great cordiality. Nothing seemed amiss on the
 
-side of the Great House family, which was generally, as Anne very well
+side of the [[Great House]] family, which was generally, as Anne very [[Well|well]]
 
 knew, the least to blame. The half hour was chatted away pleasantly
 

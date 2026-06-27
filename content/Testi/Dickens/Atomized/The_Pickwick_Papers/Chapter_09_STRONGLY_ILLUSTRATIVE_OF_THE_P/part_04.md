@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF (part 4)"
+title: "The [[Pickwick]] Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -15,10 +15,10 @@ tags:
 
 
 ‘Miss Wardle,’ said Mr. Jingle, with affected earnestness, ‘forgive
-intrusion--short acquaintance--no time for ceremony--all discovered.’
+intrusion--short acquaintance--no [[Time|time]] for ceremony--all discovered.’
 
 ‘Sir!’ said the spinster aunt, rather astonished by the unexpected
-apparition and somewhat doubtful of Mr. Jingle’s sanity.
+apparition and somewhat doubtful of Mr. Jingle’s [[Sanity|sanity]].
 
 ‘Hush!’ said Mr. Jingle, in a stage-whisper--‘Large boy--dumpling face--
 round eyes--rascal!’ Here he shook his head expressively, and the
@@ -39,13 +39,13 @@ the tale--came to warn you of your danger--tender my services--prevent
 the hubbub. Never mind--think it an insult--leave the room’--and he
 turned, as if to carry the threat into execution.
 
-‘What _shall_ I do!’ said the poor spinster, bursting into tears. ‘My
+‘What _shall_ I do!’ said the poor spinster, bursting into [[Tears|tears]]. ‘My
 brother will be furious.’
 
 ‘Of course he will,’ said Mr. Jingle pausing--‘outrageous.’
 
 Oh, Mr. Jingle, what _can_ I say!’ exclaimed the spinster aunt, in
-another flood of despair.
+another flood of [[Despair|despair]].
 
 ‘Say he dreamt it,’ replied Mr. Jingle coolly.
 
@@ -70,7 +70,7 @@ suddenly withdrew them.
 the cause, with a view, if possible, to its removal?’
 
 ‘Ha!’ exclaimed Mr. Jingle, with another start--‘removal! remove my
-unhappiness, and your love bestowed upon a man who is insensible to the
+unhappiness, and your [[Love|love]] bestowed upon a man who is insensible to the
 blessing--who even now contemplates a design upon the affections of the
 niece of the creature who--but no; he is my friend; I will not expose
 his vices. Miss Wardle--farewell!’ At the conclusion of this address,
@@ -82,7 +82,7 @@ towards the door.
 an allusion to Mr. Tupman--explain it.’
 
 ‘Never!’ exclaimed Jingle, with a professional (i.e., theatrical) air.
-‘Never!’ and, by way of showing that he had no desire to be questioned
+‘Never!’ and, by way of showing that he had no [[Desire|desire]] to be questioned
 further, he drew a chair close to that of the spinster aunt and sat
 down.
 
@@ -106,9 +106,9 @@ Short girl--black eyes--niece Emily.’
 There was a pause.
 
 Now, if there was one individual in the whole world, of whom the
-spinster aunt entertained a mortal and deep-rooted jealousy, it was this
+spinster aunt entertained a mortal and deep-rooted [[Jealousy|jealousy]], it was this
 identical niece. The colour rushed over her face and neck, and she
-tossed her head in silence with an air of ineffable contempt. At last,
+tossed her head in [[Silence|silence]] with an air of ineffable contempt. At last,
 biting her thin lips, and bridling up, she said--
 
 ‘It can’t be. I won’t believe it.’
@@ -161,28 +161,28 @@ Yes.’
 ‘You shall.’
 
 Mr. Jingle fell on his knees, remained thereupon for five minutes
-thereafter; and rose the accepted lover of the spinster aunt--
+thereafter; and [[Rose|rose]] the accepted [[Lover|lover]] of the spinster aunt--
 conditionally upon Mr. Tupman’s perjury being made clear and manifest.
 
-The burden of proof lay with Mr. Alfred Jingle; and he produced his
+The burden of proof lay with Mr. [[Alfred Jingle]]; and he produced his
 evidence that very day at dinner. The spinster aunt could hardly believe
-her eyes. Mr. Tracy Tupman was established at Emily’s side, ogling,
+her eyes. Mr. [[Tracy Tupman]] was established at Emily’s side, ogling,
 whispering, and smiling, in opposition to Mr. Snodgrass. Not a word, not
-a look, not a glance, did he bestow upon his heart’s pride of the
+a look, not a glance, did he bestow upon his heart’s [[Pride|pride]] of the
 evening before.
 
 ‘Damn that boy!’ thought old Mr. Wardle to himself.--He had heard the
 story from his mother. ‘Damn that boy! He must have been asleep. It’s
-all imagination.’
+all [[Imagination|imagination]].’
 
 ‘Traitor!’ thought the spinster aunt. ‘Dear Mr. Jingle was not deceiving
 me. Ugh! how I hate the wretch!’
 
 The following conversation may serve to explain to our readers this
 apparently unaccountable alteration of deportment on the part of Mr.
-Tracy Tupman.
+[[Tracy Tupman]].
 
-The time was evening; the scene the garden. There were two figures
+The [[Time|time]] was evening; the scene the [[Garden|garden]]. There were two figures
 walking in a side path; one was rather short and stout; the other tall
 and slim. They were Mr. Tupman and Mr. Jingle. The stout figure
 commenced the dialogue.

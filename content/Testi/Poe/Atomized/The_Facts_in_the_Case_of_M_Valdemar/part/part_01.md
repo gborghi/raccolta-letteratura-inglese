@@ -1,5 +1,5 @@
 ---
-title: "The Facts in the Case of M. Valdemar (part 1)"
+title: "[[The Facts in the Case of M. Valdemar]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Facts-in-the-Case-of-M.-Valdemar-(Poe)"
@@ -15,9 +15,9 @@ tags:
 
 
 Of course I shall not pretend to consider it any matter for
-      wonder, that the extraordinary case of M. Valdemar has excited
+      [[Wonder|wonder]], that the extraordinary case of M. Valdemar has excited
       discussion. It would have been a miracle had it not—especially
-      under the circumstances. Through the desire of all parties
+      under the circumstances. Through the [[Desire|desire]] of all parties
       concerned, to keep the affair from the public, at least for the
       present, or until we had farther opportunities for
       investigation—through our endeavors to effect this—a garbled or
@@ -29,7 +29,7 @@ Of course I shall not pretend to consider it any matter for
       comprehend them myself. They are, succinctly, these:
 
       My attention, for the last three years, had been repeatedly drawn
-      to the subject of Mesmerism; and, about nine months ago it
+      to the subject of [[Mesmerism]]; and, about nine months ago it
       occurred to me, quite suddenly, that in the series of experiments
       made hitherto, there had been a very remarkable and most
       unaccountable omission:—no person had as yet been mesmerized in
@@ -37,7 +37,7 @@ Of course I shall not pretend to consider it any matter for
       condition, there existed in the patient any susceptibility to the
       magnetic influence; secondly, whether, if any existed, it was
       impaired or increased by the condition; thirdly, to what extent,
-      or for how long a period, the encroachments of Death might be
+      or for how long a period, the encroachments of [[Death]] might be
       arrested by the process. There were other points to be
       ascertained, but these most excited my curiosity—the last in
       especial, from the immensely important character of its
@@ -45,7 +45,7 @@ Of course I shall not pretend to consider it any matter for
 
       In looking around me for some subject by whose means I might test
       these particulars, I was brought to think of my friend, M. Ernest
-      Valdemar, the well-known compiler of the “Bibliotheca Forensica,”
+      Valdemar, the [[Well|well]]-known compiler of the “Bibliotheca Forensica,”
       and author (under the nom de plume of Issachar Marx) of the
       Polish versions of “Wallenstein” and “Gargantua.” M. Valdemar,
       who has resided principally at Harlem, N.Y., since the year 1839,
@@ -56,7 +56,7 @@ Of course I shall not pretend to consider it any matter for
       consequence, being very generally mistaken for a wig. His
       temperament was markedly nervous, and rendered him a good subject
       for mesmeric experiment. On two or three occasions I had put him
-      to sleep with little difficulty, but was disappointed in other
+      to [[Sleep|sleep]] with little difficulty, but was disappointed in other
       results which his peculiar constitution had naturally led me to
       anticipate. His will was at no period positively, or thoroughly,
       under my control, and in regard to clairvoyance, I could
@@ -70,15 +70,15 @@ Of course I shall not pretend to consider it any matter for
 
       When the ideas to which I have alluded first occurred to me, it
       was of course very natural that I should think of M. Valdemar. I
-      knew the steady philosophy of the man too well to apprehend any
-      scruples from him; and he had no relatives in America who would
+      knew the steady [[philosophy]] of the man too [[Well|well]] to apprehend any
+      scruples from him; and he had no relatives in [[America]] who would
       be likely to interfere. I spoke to him frankly upon the subject;
       and, to my surprise, his interest seemed vividly excited. I say
       to my surprise, for, although he had always yielded his person
       freely to my experiments, he had never before given me any tokens
       of sympathy with what I did. His disease was of that character
       which would admit of exact calculation in respect to the epoch of
-      its termination in death; and it was finally arranged between us
+      its termination in [[Death|death]]; and it was finally arranged between us
       that he would send for me about twenty-four hours before the
       period announced by his physicians as that of his decease.
 
@@ -87,9 +87,9 @@ Of course I shall not pretend to consider it any matter for
 
       MY DEAR P——,
 
-      You may as well come now. D—— and F—— are agreed that I cannot
+      You may as [[Well|well]] come now. D—— and F—— are agreed that I cannot
       hold out beyond to-morrow midnight; and I think they have hit the
-      time very nearly.
+      [[Time|time]] very nearly.
 
       VALDEMAR
 
@@ -125,4 +125,4 @@ Of course I shall not pretend to consider it any matter for
       aneurism of the aorta; but on this point the osseous symptoms
       rendered an exact diagnosis impossible. It was the opinion of
       both physicians that M. Valdemar would die about midnight on the
-      morrow (Sunday). It was then seven o’clock on Saturday evening.
+      morrow ([[Sunday]]). It was then seven o’[[Clock|clock]] on Saturday evening.

@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 14)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 14)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -18,17 +18,17 @@ tags:
 
 
 
-      “At six o’clock, I perceived a great portion of the earth’s
+      “At six o’[[Clock|clock]], I perceived a great portion of the earth’s
 
-      visible area to the eastward involved in thick shadow, which
+      visible area to the eastward involved in thick [[Shadow|shadow]], which
 
       continued to advance with great rapidity, until, at five minutes
 
       before seven, the whole surface in view was enveloped in the
 
-      darkness of night. It was not, however, until long after this
+      darkness of [[Night|night]]. It was not, however, until long after this
 
-      time that the rays of the setting sun ceased to illumine the
+      [[Time|time]] that the rays of the setting sun ceased to illumine the
 
       balloon; and this circumstance, although of course fully
 
@@ -52,13 +52,13 @@ tags:
 
 
 
-      “At ten o’clock, feeling sleepy, I determined to lie down for the
+      “At ten o’[[Clock|clock]], feeling sleepy, I determined to lie down for the
 
-      rest of the night; but here a difficulty presented itself, which,
+      rest of the [[Night|night]]; but here a difficulty presented itself, which,
 
       obvious as it may appear, had escaped my attention up to the very
 
-      moment of which I am now speaking. If I went to sleep as I
+      moment of which I am now speaking. If I went to [[Sleep|sleep]] as I
 
       proposed, how could the atmosphere in the chamber be regenerated
 
@@ -74,7 +74,7 @@ tags:
 
       after the dangers I had undergone, I should look upon this
 
-      business in so serious a light, as to give up all hope of
+      business in so serious a light, as to give up all [[Hope|hope]] of
 
       accomplishing my ultimate design, and finally make up my mind to
 
@@ -88,7 +88,7 @@ tags:
 
       rendered them habitual. It was very certain that I could not do
 
-      without sleep; but I might easily bring myself to feel no
+      without [[Sleep|sleep]]; but I might easily bring myself to feel no
 
       inconvenience from being awakened at intervals of an hour during
 
@@ -118,7 +118,7 @@ tags:
 
       awake, but to be aroused from slumber at regular intervals of
 
-      time. I at length hit upon the following expedient, which, simple
+      [[Time|time]]. I at length hit upon the following expedient, which, simple
 
       as it may seem, was hailed by me, at the moment of discovery, as
 
@@ -140,7 +140,7 @@ tags:
 
       circumstance favored me greatly in the project I now determined
 
-      to adopt. My supply of water had been put on board in kegs
+      to adopt. My supply of [[Water|water]] had been put on board in kegs
 
       containing five gallons each, and ranged very securely around the
 
@@ -154,7 +154,7 @@ tags:
 
       keg, and steadied it in a horizontal position. About eight inches
 
-      immediately below these ropes, and four feet from the bottom of
+      immediately below these ropes, and four feet from the [[Bottom|bottom]] of
 
       the car I fastened another shelf—but made of thin plank, being
 
@@ -170,7 +170,7 @@ tags:
 
       as might happen, until, after a few experiments, it arrived at
 
-      that exact degree of tightness, at which the water, oozing from
+      that exact degree of tightness, at which the [[Water|water]], oozing from
 
       the hole, and falling into the pitcher below, would fill the
 
@@ -178,7 +178,7 @@ tags:
 
       course, was a matter briefly and easily ascertained, by noticing
 
-      the proportion of the pitcher filled in any given time. Having
+      the proportion of the pitcher filled in any given [[Time|time]]. Having
 
       arranged all this, the rest of the plan is obvious. My bed was so
 
@@ -192,4 +192,4 @@ tags:
 
       which was somewhat lower than the rim. It was also evident, that
 
-      the water thus falling from a height of more than four feet,
+      the [[Water|water]] thus falling from a height of more than four feet,

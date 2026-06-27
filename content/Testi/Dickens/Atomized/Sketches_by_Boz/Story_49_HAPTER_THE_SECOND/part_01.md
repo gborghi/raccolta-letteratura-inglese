@@ -17,30 +17,30 @@ tags:
 CHAPTER THE SECOND.
 
 
-‘Well!’ said little Mrs. Tibbs to herself, as she sat in the front
-parlour of the Coram-street mansion one morning, mending a piece of
+‘[[Well]]!’ said little Mrs. Tibbs to herself, as she sat in the front
+parlour of the Coram-street mansion one morning, [[mending]] a piece of
 stair-carpet off the first Landings;—‘Things have not turned out so
 badly, either, and if I only get a favourable answer to the
 advertisement, we shall be full again.’
 
 Mrs. Tibbs resumed her occupation of making worsted lattice-work in the
 carpet, anxiously listening to the twopenny postman, who was hammering
-his way down the street, at the rate of a penny a knock. The house was
+his way down the street, at the rate of a penny a knock. The [[house]] was
 as quiet as possible. There was only one low sound to be heard—it was
 the unhappy Tibbs cleaning the gentlemen’s boots in the back kitchen,
 and accompanying himself with a buzzing noise, in wretched mockery of
 humming a tune.
 
-The postman drew near the house. He paused—so did Mrs. Tibbs. A knock—a
+The postman drew near the [[house]]. He paused—so did Mrs. Tibbs. A knock—a
 bustle—a letter—post-paid.
 
 
 ‘T. I. presents compt. to I. T. and T. I. begs To say that i see the
 advertisement And she will Do Herself the pleasure of calling On you at
-12 o’clock to-morrow morning.
+12 o’[[Clock|clock]] to-morrow morning.
 
 ‘T. I. as To apologise to I. T. for the shortness Of the notice But i
-hope it will not unconvenience you.
+[[Hope|hope]] it will not unconvenience you.
 
 ‘I remain yours Truly
 ‘Wednesday evening.’
@@ -57,18 +57,18 @@ pleasingly ornamented with a large red wafer, which, with the addition
 of divers ink-stains, bore a marvellous resemblance to a black beetle
 trodden upon. One thing, however, was perfectly clear to the perplexed
 Mrs. Tibbs. Somebody was to call at twelve. The drawing-room was
-forthwith dusted for the third time that morning; three or four chairs
+forthwith dusted for the third [[Time|time]] that morning; three or four chairs
 were pulled out of their places, and a corresponding number of books
 carefully upset, in order that there might be a due absence of
 formality. Down went the piece of stair-carpet before noticed, and up
 ran Mrs. Tibbs ‘to make herself tidy.’
 
-The clock of New Saint Pancras Church struck twelve, and the Foundling,
+The [[Clock|clock]] of New Saint Pancras Church struck twelve, and the Foundling,
 with laudable politeness, did the same ten minutes afterwards, Saint
 something else struck the quarter, and then there arrived a single lady
-with a double knock, in a pelisse the colour of the interior of a
+with a [[Double|double]] knock, in a pelisse the colour of the interior of a
 damson pie; a bonnet of the same, with a regular conservatory of
-artificial flowers; a white veil, and a green parasol, with a cobweb
+artificial [[Flowers|flowers]]; a white veil, and a green parasol, with a cobweb
 border.
 
 The visitor (who was very fat and red-faced) was shown into the
@@ -86,14 +86,14 @@ applicant full in the face—two things she always did on such occasions.
 living in a state of retirement and obtrusion.’
 
 Mrs. Tibbs, as a matter of course, acquiesced in such an exceedingly
-natural desire.
+natural [[Desire|desire]].
 
 ‘I am constantly attended by a medical man,’ resumed the pelisse
-wearer; ‘I have been a shocking unitarian for some time—I, indeed, have
-had very little peace since the death of Mr. Bloss.’
+wearer; ‘I have been a shocking unitarian for some [[Time|time]]—I, indeed, have
+had very little peace since the [[Death|death]] of Mr. Bloss.’
 
 Mrs. Tibbs looked at the relict of the departed Bloss, and thought he
-must have had very little peace in his time. Of course she could not
+must have had very little peace in his [[Time|time]]. Of course she could not
 say so; so she looked very sympathising.
 
 ‘I shall be a good deal of trouble to you,’ said Mrs. Bloss; ‘but, for
@@ -118,10 +118,10 @@ the second-floor front, for my bed-room?’
 ‘With the greatest pleasure;—James shall get it ready for you by
 Saturday.’
 
-‘And I’ll join the company at the breakfast-table on Sunday morning,’
+‘And I’ll join the company at the breakfast-table on [[Sunday]] morning,’
 said Mrs. Bloss. ‘I shall get up on purpose.’
 
-‘Very well,’ returned Mrs. Tibbs, in her most amiable tone; for
+‘Very [[Well|well]],’ returned Mrs. Tibbs, in her most amiable tone; for
 satisfactory references had ‘been given and required,’ and it was quite
 certain that the new-comer had plenty of money. ‘It’s rather singular,’
 continued Mrs. Tibbs, with what was meant for a most bewitching smile,

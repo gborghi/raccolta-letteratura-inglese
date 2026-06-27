@@ -1,5 +1,5 @@
 ---
-title: "The Murders in the Rue Morgue (part 4)"
+title: "[[The Murders in the Rue Morgue]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Murders-in-the-Rue-Morgue-(Poe)"
@@ -82,13 +82,13 @@ tags:
 
 
 
-      “_Extraordinary Murders_.—This morning, about three o’clock, the
+      “_Extraordinary Murders_.—This morning, about three o’[[Clock|clock]], the
 
-      inhabitants of the Quartier St. Roch were aroused from sleep by a
+      inhabitants of the Quartier St. Roch were aroused from [[Sleep|sleep]] by a
 
       succession of terrific shrieks, issuing, apparently, from the
 
-      fourth story of a house in the Rue Morgue, known to be in the
+      fourth story of a [[house]] in the Rue Morgue, known to be in the
 
       sole occupancy of one Madame L’Espanaye, and her daughter,
 
@@ -98,7 +98,7 @@ tags:
 
       gateway was broken in with a crowbar, and eight or ten of the
 
-      neighbors entered accompanied by two _gendarmes_. By this time
+      neighbors entered accompanied by two _gendarmes_. By this [[Time|time]]
 
       the cries had ceased; but, as the party rushed up the first
 
@@ -106,7 +106,7 @@ tags:
 
       were distinguished and seemed to proceed from the upper part of
 
-      the house. As the second landing was reached, these sounds, also,
+      the [[house]]. As the second landing was reached, these sounds, also,
 
       had ceased and everything remained perfectly quiet. The party
 
@@ -130,9 +130,9 @@ tags:
 
       middle of the floor. On a chair lay a razor, besmeared with
 
-      blood. On the hearth were two or three long and thick tresses of
+      [[Blood|blood]]. On the hearth were two or three long and thick tresses of
 
-      grey human hair, also dabbled in blood, and seeming to have been
+      grey human hair, also dabbled in [[Blood|blood]], and seeming to have been
 
       pulled out by the roots. Upon the floor were found four
 
@@ -156,7 +156,7 @@ tags:
 
       “Of Madame L’Espanaye no traces were here seen; but an unusual
 
-      quantity of soot being observed in the fire-place, a search was
+      quantity of soot being observed in the [[Fire|fire]]-place, a search was
 
       made in the chimney, and (horrible to relate!) the corpse of the
 
@@ -164,9 +164,9 @@ tags:
 
       thus forced up the narrow aperture for a considerable distance.
 
-      The body was quite warm. Upon examining it, many excoriations
+      The [[Body|body]] was quite warm. Upon examining it, many excoriations
 
-      were perceived, no doubt occasioned by the violence with which it
+      were perceived, no [[Doubt|doubt]] occasioned by the violence with which it
 
       had been thrust up and disengaged. Upon the face were many severe
 
@@ -174,11 +174,11 @@ tags:
 
       indentations of finger nails, as if the deceased had been
 
-      throttled to death.
+      throttled to [[Death|death]].
 
 
 
-      “After a thorough investigation of every portion of the house,
+      “After a thorough investigation of every portion of the [[house]],
 
       without farther discovery, the party made its way into a small
 
@@ -186,7 +186,7 @@ tags:
 
       the old lady, with her throat so entirely cut that, upon an
 
-      attempt to raise her, the head fell off. The body, as well as the
+      attempt to raise her, the head fell off. The [[Body|body]], as [[Well|well]] as the
 
       head, was fearfully mutilated—the former so much so as scarcely
 
@@ -204,7 +204,7 @@ tags:
 
 
 
-      “_The Tragedy in the Rue Morgue._—Many individuals have been
+      “_The [[Tragedy]] in the Rue Morgue._—Many individuals have been
 
       examined in relation to this most extraordinary and frightful
 

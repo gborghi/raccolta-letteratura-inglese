@@ -24,18 +24,18 @@ Fanny set her lips, and her eyes looked half triumphantly at her sister.
 
 ‘A son of two or three-and-twenty. He is a little gay, a thing Society
 is accustomed to in young men, and he is very impressible. Perhaps he
-inherits that misfortune. I am very impressible myself, by nature. The
+inherits that misfortune. I am very impressible myself, by [[Nature|nature]]. The
 weakest of creatures--my feelings are touched in a moment.’
 
-She said all this, and everything else, as coldly as a woman of snow;
+She said all this, and everything else, as coldly as a woman of [[Snow|snow]];
 quite forgetting the sisters except at odd times, and apparently
 addressing some abstraction of Society; for whose behoof, too, she
 occasionally arranged her dress, or the composition of her figure upon
 the ottoman.
 
 ‘So he is very impressible. Not a misfortune in our natural state I dare
-say, but we are not in a natural state. Much to be lamented, no doubt,
-particularly by myself, who am a child of nature if I could but show it;
+say, but we are not in a natural state. Much to be lamented, no [[Doubt|doubt]],
+particularly by myself, who am a [[Child|child]] of [[Nature|nature]] if I could but show it;
 but so it is. Society suppresses us and dominates us--Bird, be quiet!’
 
 The parrot had broken into a violent fit of laughter, after twisting
@@ -45,7 +45,7 @@ black tongue.
 ‘It is quite unnecessary to say to a person of your good sense, wide
 range of experience, and cultivated feeling,’ said Mrs Merdle from her
 nest of crimson and gold--and there put up her glass to refresh her
-memory as to whom she was addressing,--‘that the stage sometimes has
+[[Memory|memory]] as to whom she was addressing,--‘that the stage sometimes has
 a fascination for young men of that class of character. In saying the
 stage, I mean the people on it of the female sex. Therefore, when I
 heard that my son was supposed to be fascinated by a dancer, I knew what
@@ -59,7 +59,7 @@ hard sound.
 ‘As your sister will tell you, when I found what the theatre was I was
 much surprised and much distressed. But when I found that your sister,
 by rejecting my son’s advances (I must add, in an unexpected manner),
-had brought him to the point of proposing marriage, my feelings were
+had brought him to the point of proposing [[Marriage|marriage]], my feelings were
 of the profoundest anguish--acute.’
 
 She traced the outline of her left eyebrow, and put it right.
@@ -76,7 +76,7 @@ Merdle smiled.
 although you found me in that situation, I was so far above the rest,
 that I considered my family as good as your son’s; and that I had a
 brother who, knowing the circumstances, would be of the same opinion,
-and would not consider such a connection any honour.’
+and would not consider such a connection any [[Honour|honour]].’
 
 ‘Miss Dorrit,’ said Mrs Merdle, after frostily looking at her through
 her glass, ‘precisely what I was on the point of telling your sister,
@@ -101,7 +101,7 @@ origin; and that my father’s standing, even in the Society in which
 he now moved (what that was, was best known to myself), was eminently
 superior, and was acknowledged by every one.’
 
-‘Quite accurate,’ rejoined Mrs Merdle. ‘A most admirable memory.’
+‘Quite accurate,’ rejoined Mrs Merdle. ‘A most admirable [[Memory|memory]].’
 
 ‘Thank you, ma’am. Perhaps you will be so kind as to tell my sister the
 rest.’
@@ -111,23 +111,23 @@ of bosom which seemed essential to her having room enough to be
 unfeeling in, ‘but it is to your sister’s credit. I pointed out to your
 sister the plain state of the case; the impossibility of the Society
 in which we moved recognising the Society in which she moved--though
-charming, I have no doubt; the immense disadvantage at which she would
+charming, I have no [[Doubt|doubt]]; the immense disadvantage at which she would
 consequently place the family she had so high an opinion of, upon which
 we should find ourselves compelled to look down with contempt, and
 from which (socially speaking) we should feel obliged to recoil with
-abhorrence. In short, I made an appeal to that laudable pride in your
+abhorrence. In short, I made an appeal to that laudable [[Pride|pride]] in your
 sister.’
 
 ‘Let my sister know, if you please, Mrs Merdle,’ Fanny pouted, with a
-toss of her gauzy bonnet, ‘that I had already had the honour of telling
+toss of her gauzy bonnet, ‘that I had already had the [[Honour|honour]] of telling
 your son that I wished to have nothing whatever to say to him.’
 
-‘Well, Miss Dorrit,’ assented Mrs Merdle, ‘perhaps I might have
+‘[[Well]], Miss Dorrit,’ assented Mrs Merdle, ‘perhaps I might have
 mentioned that before. If I did not think of it, perhaps it was because
-my mind reverted to the apprehensions I had at the time that he might
+my mind reverted to the apprehensions I had at the [[Time|time]] that he might
 persevere and you might have something to say to him. I also mentioned
 to your sister--I again address the non-professional Miss Dorrit--that
-my son would have nothing in the event of such a marriage, and would be
+my son would have nothing in the event of such a [[Marriage|marriage]], and would be
 an absolute beggar. (I mention that merely as a fact which is part of
 the narrative, and not as supposing it to have influenced your sister,
 except in the prudent and legitimate way in which, constituted as our

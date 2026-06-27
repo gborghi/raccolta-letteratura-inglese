@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 63 (part 2)"
+title: "Bleak [[house|House]] — Chapter 63 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,34 +14,34 @@ tags:
 </nav>
 
 
-“We will show you at home what kind of news we think it, George,”
-returns his brother. “This is a great day at home, and you could not
+“We will show you at [[Home|home]] what kind of news we think it, George,”
+returns his brother. “This is a great day at [[Home|home]], and you could not
 have arrived, you bronzed old soldier, on a better. I make an
 agreement with my son Watt to-day that on this day twelvemonth he
 shall marry as pretty and as good a girl as you have seen in all your
-travels. She goes to Germany to-morrow with one of your nieces for a
-little polishing up in her education. We make a feast of the event,
-and you will be made the hero of it.”
+travels. She goes to [[Germany]] to-morrow with one of your nieces for a
+little polishing up in her [[Education|education]]. We make a feast of the event,
+and you will be made the [[Hero|hero]] of it.”
 
 Mr. George is so entirely overcome at first by this prospect that he
-resists the proposed honour with great earnestness. Being overborne,
+resists the proposed [[Honour|honour]] with great earnestness. Being overborne,
 however, by his brother and his nephew—concerning whom he renews his
 protestations that he never could have thought they would have been
-half so glad to see him—he is taken home to an elegant house in all
+half so glad to see him—he is taken [[Home|home]] to an elegant [[house]] in all
 the arrangements of which there is to be observed a pleasant mixture
 of the originally simple habits of the father and mother with such as
 are suited to their altered station and the higher fortunes of their
 children. Here Mr. George is much dismayed by the graces and
-accomplishments of his nieces that are and by the beauty of Rosa, his
+accomplishments of his nieces that are and by the [[Beauty|beauty]] of Rosa, his
 niece that is to be, and by the affectionate salutations of these
 young ladies, which he receives in a sort of dream. He is sorely
 taken aback, too, by the dutiful behaviour of his nephew and has a
 woeful consciousness upon him of being a scapegrace. However, there
 is great rejoicing and a very hearty company and infinite enjoyment,
 and Mr. George comes bluff and martial through it all, and his pledge
-to be present at the marriage and give away the bride is received
-with universal favour. A whirling head has Mr. George that night when
-he lies down in the state-bed of his brother’s house to think of all
+to be present at the [[Marriage|marriage]] and give away the bride is received
+with universal favour. A whirling head has Mr. George that [[Night|night]] when
+he lies down in the state-bed of his brother’s [[house]] to think of all
 these things and to see the images of his nieces (awful all the
 evening in their floating muslins) waltzing, after the German manner,
 over his counterpane.
@@ -74,15 +74,15 @@ you should undergo that process?”
 
 “Quite! Absolutely! I couldn’t be guilty of the meanness of coming
 back without it. I should never be safe not to be off again. I have
-not sneaked home to rob your children, if not yourself, brother, of
+not sneaked [[Home|home]] to rob your children, if not yourself, brother, of
 your rights. I, who forfeited mine long ago! If I am to remain and
 hold up my head, I must be scratched. Come. You are a man of
 celebrated penetration and intelligence, and you can tell me how it’s
 to be brought about.”
 
 “I can tell you, George,” replies the ironmaster deliberately, “how
-it is not to be brought about, which I hope may answer the purpose as
-well. Look at our mother, think of her, recall her emotion when she
+it is not to be brought about, which I [[Hope|hope]] may answer the purpose as
+[[Well|well]]. Look at our mother, think of her, recall her emotion when she
 recovered you. Do you believe there is a consideration in the world
 that would induce her to take such a step against her favourite son?
 Do you believe there is any chance of her consent, to balance against
@@ -90,7 +90,7 @@ the outrage it would be to her (loving dear old lady!) to propose it?
 If you do, you are wrong. No, George! You must make up your mind to
 remain UNscratched, I think.” There is an amused smile on the
 ironmaster’s face as he watches his brother, who is pondering, deeply
-disappointed. “I think you may manage almost as well as if the thing
+disappointed. “I think you may manage almost as [[Well|well]] as if the thing
 were done, though.”
 
 “How, brother?”
@@ -118,22 +118,22 @@ The brothers are very like each other, sitting face to face; but a
 certain massive simplicity and absence of usage in the ways of the
 world is all on the trooper’s side.
 
-“Well,” he proceeds, throwing off his disappointment, “next and last,
+“[[Well]],” he proceeds, throwing off his disappointment, “next and last,
 those plans of mine. You have been so brotherly as to propose to me
 to fall in here and take my place among the products of your
 perseverance and sense. I thank you heartily. It’s more than
 brotherly, as I said before, and I thank you heartily for it,”
-shaking him a long time by the hand. “But the truth is, brother, I am
+shaking him a long [[Time|time]] by the hand. “But the [[Truth|truth]] is, brother, I am
 a—I am a kind of a weed, and it’s too late to plant me in a regular
-garden.”
+[[Garden|garden]].”
 
 “My dear George,” returns the elder, concentrating his strong steady
 brow upon him and smiling confidently, “leave that to me, and let me
 try.”
 
-George shakes his head. “You could do it, I have not a doubt, if
+George shakes his head. “You could do it, I have not a [[Doubt|doubt]], if
 anybody could; but it’s not to be done. Not to be done, sir! Whereas
 it so falls out, on the other hand, that I am able to be of some
-trifle of use to Sir Leicester Dedlock since his illness—brought on
+trifle of use to [[Sir Leicester Dedlock]] since his illness—brought on
 by family sorrows—and that he would rather have that help from our
 mother’s son than from anybody else.”

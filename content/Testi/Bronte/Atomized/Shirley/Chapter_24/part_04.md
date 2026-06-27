@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 24 (part 4)"
+title: "[[Shirley]] — Chapter 24 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-"Yes, and the garden also. Dew glistens on the foliage."
+"Yes, and the [[Garden|garden]] also. Dew glistens on the foliage."
 
 
 
@@ -26,7 +26,7 @@ look turfy and flowery?"
 
 "I see closed daisy-heads gleaming like pearls on some mounds. Thomas
 
-has mown down the dock-leaves and rank grass, and cleared all away."
+has mown down the dock-[[Leaves|leaves]] and rank grass, and cleared all away."
 
 
 
@@ -34,7 +34,7 @@ has mown down the dock-leaves and rank grass, and cleared all away."
 
 in order. And, I dare say, within the church just now that moonlight
 
-shines as softly as in my room. It will fall through the east window
+shines as softly as in my room. It will fall through the east [[Window|window]]
 
 full on the Helstone monument. When I close my eyes I seem to see poor
 
@@ -44,19 +44,19 @@ room for other inscriptions underneath."
 
 
 
-"William Farren came to look after your flowers this morning. He was
+"William Farren came to look after your [[Flowers|flowers]] this morning. He was
 
 afraid, now you cannot tend them yourself, they would be neglected. He
 
-has taken two of your favourite plants home to nurse for you."
+has taken two of your favourite plants [[Home|home]] to [[Nurse|nurse]] for you."
 
 
 
-"If I were to make a will, I would leave William all my plants; Shirley
+"If I were to make a will, I would leave William all my plants; [[Shirley]]
 
 my trinkets--except one, which must not be taken off my neck; and you,
 
-ma'am, my books." After a pause--"Mrs. Pryor, I feel a longing wish for
+ma'am, my books." After a pause--"Mrs. Pryor, I feel a [[Longing|longing]] wish for
 
 something."
 
@@ -66,19 +66,19 @@ something."
 
 
 
-"You know I always delight to hear you sing. Sing me a hymn just now.
+"You know I always delight to hear you sing. Sing me a [[Hymn|hymn]] just now.
 
-Sing that hymn which begins,--
+Sing that [[Hymn|hymn]] which begins,--
 
 
 
     'Our God, our help in ages past,
 
-       Our hope for years to come,
+       Our [[Hope|hope]] for years to come,
 
      Our shelter from the stormy blast,
 
-       Our refuge, haven, home!'"
+       Our refuge, haven, [[Home|home]]!'"
 
 
 
@@ -86,9 +86,9 @@ Mrs. Pryor at once complied.
 
 
 
-No wonder Caroline liked to hear her sing. Her voice, even in speaking,
+No [[Wonder|wonder]] Caroline liked to hear her sing. Her voice, even in speaking,
 
-was sweet and silver clear; in song it was almost divine. Neither flute
+was sweet and silver clear; in [[Song|song]] it was almost divine. Neither flute
 
 nor dulcimer has tones so pure. But the tone was secondary, compared to
 
@@ -100,9 +100,9 @@ heart.
 
 The servants in the kitchen, hearing the strain, stole to the stair-foot
 
-to listen. Even old Helstone, as he walked in the garden, pondering over
+to listen. Even old Helstone, as he walked in the [[Garden|garden]], pondering over
 
-the unaccountable and feeble nature of women, stood still amongst his
+the unaccountable and feeble [[Nature|nature]] of women, stood still amongst his
 
 borders to catch the mournful melody more distinctly. Why it reminded
 
@@ -116,7 +116,7 @@ magistrate, a visit that evening. Low spirits and gloomy thoughts were
 
 very much his aversion. When they attacked him he usually found means to
 
-make them march in double-quick time. The hymn followed him faintly as
+make them march in [[Double|double]]-quick [[Time|time]]. The [[Hymn|hymn]] followed him faintly as
 
 he crossed the fields. He hastened his customary sharp pace, that he
 
@@ -124,11 +124,11 @@ might get beyond its reach.
 
 
 
-    "Thy word commands our flesh to dust,--
+    "Thy word commands our flesh to [[Dust|dust]],--
 
        'Return, ye sons of men;'
 
-     All nations rose from earth at first,
+     All nations [[Rose|rose]] from earth at first,
 
        And turn to earth again.
 
@@ -138,17 +138,17 @@ might get beyond its reach.
 
        Are like an evening gone--
 
-     Short as the watch that ends the night
+     Short as the watch that ends the [[Night|night]]
 
        Before the rising sun.
 
 
 
-    "Time, like an ever-rolling stream,
+    "[[Time]], like an ever-[[rolling]] stream,
 
        Bears all its sons away;
 
-     They fly, forgotten, as a dream
+     They fly, forgotten, as [[A Dream|a dream]]
 
        Dies at the opening day.
 
@@ -158,23 +158,23 @@ might get beyond its reach.
 
        Fresh in the morning light;
 
-     The flowers beneath the mower's hand
+     The [[Flowers|flowers]] beneath the mower's hand
 
-       Lie withering ere 'tis night.
+       Lie withering ere 'tis [[Night|night]].
 
 
 
     "Our God, our help in ages past,
 
-       Our hope for years to come,
+       Our [[Hope|hope]] for years to come,
 
      Be Thou our guard while troubles last--
 
-       O Father, be our home!"
+       O Father, be our [[Home|home]]!"
 
 
 
-"Now sing a song--a Scottish song," suggested Caroline, when the hymn
+"Now sing a [[Song|song]]--a Scottish [[Song|song]]," suggested Caroline, when the [[Hymn|hymn]]
 
 was over--"'Ye banks and braes o' bonnie Doon.'"
 
@@ -200,7 +200,7 @@ encircle her.
 
 "You often soothe me; let me soothe you," murmured the young girl,
 
-kissing her cheek. "I hope," she added, "it is not for me you weep?"
+kissing her cheek. "I [[Hope|hope]]," she added, "it is not for me you weep?"
 
 
 
@@ -234,7 +234,7 @@ think if an abundant gush of happiness came on me I could revive yet."
 
 
 
-"You love me, Caroline?"
+"You [[Love|love]] me, Caroline?"
 
 
 
@@ -260,17 +260,17 @@ intently on her face.
 
 
 
-"Then, if you love me," said she, speaking quickly, with an altered
+"Then, if you [[Love|love]] me," said she, speaking quickly, with an altered
 
 voice; "if you feel as if, to use your own words, you could 'grow to my
 
-heart,' it will be neither shock nor pain for you to know that _that_
+heart,' it will be neither shock nor [[Pain|pain]] for you to know that _that_
 
 heart is the source whence yours was filled; that from _my_ veins issued
 
 the tide which flows in _yours_; that you are _mine_--my daughter--my
 
-own child."
+own [[Child|child]]."
 
 
 
@@ -278,7 +278,7 @@ own child."
 
 
 
-"My own child!"
+"My own [[Child|child]]!"
 
 
 
@@ -306,6 +306,6 @@ _mine_. I have proved it. I thought perhaps you were all his, which
 
 would have been a cruel dispensation for me. I find it is _not_ so. God
 
-permitted me to be the parent of my child's mind. It belongs to me; it
+permitted me to be the parent of my [[Child|child]]'s mind. It belongs to me; it
 
 is my property--my _right_. These features are James's own. He had a

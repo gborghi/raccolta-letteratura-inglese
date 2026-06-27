@@ -15,11 +15,11 @@ tags:
 
 
 The virtuous servant, Roger Cly, swore his way through the case at a
-great rate. He had taken service with the prisoner, in good faith and
+great rate. He had taken service with the prisoner, in good [[Faith|faith]] and
 simplicity, four years ago. He had asked the prisoner, aboard the Calais
 packet, if he wanted a handy fellow, and the prisoner had engaged him.
 He had not asked the prisoner to take the handy fellow as an act of
-charity--never thought of such a thing. He began to have suspicions of
+[[Charity|charity]]--never thought of such a thing. He began to have suspicions of
 the prisoner, and to keep an eye upon him, soon afterwards. In arranging
 his clothes, while travelling, he had seen similar lists to these in the
 prisoner’s pockets, over and over again. He had taken these lists from
@@ -38,12 +38,12 @@ was a true Briton, and hoped there were many like him.
 The blue-flies buzzed again, and Mr. Attorney-General called Mr. Jarvis
 Lorry.
 
-“Mr. Jarvis Lorry, are you a clerk in Tellson’s bank?”
+“Mr. [[Jarvis Lorry]], are you a clerk in Tellson’s bank?”
 
 “I am.”
 
-“On a certain Friday night in November one thousand seven hundred and
-seventy-five, did business occasion you to travel between London and
+“On a certain Friday [[Night|night]] in November one thousand seven hundred and
+seventy-five, did business occasion you to travel between [[London]] and
 Dover by the mail?”
 
 “It did.”
@@ -52,7 +52,7 @@ Dover by the mail?”
 
 “Two.”
 
-“Did they alight on the road in the course of the night?”
+“Did they alight on the [[Road|road]] in the course of the [[Night|night]]?”
 
 “They did.”
 
@@ -62,7 +62,7 @@ Dover by the mail?”
 
 “Does he resemble either of these two passengers?”
 
-“Both were so wrapped up, and the night was so dark, and we were all so
+“Both were so wrapped up, and the [[Night|night]] was so dark, and we were all so
 reserved, that I cannot undertake to say even that.”
 
 “Mr. Lorry, look again upon the prisoner. Supposing him wrapped up as
@@ -93,24 +93,24 @@ certain knowledge, before?”
 “When?”
 
 “I was returning from France a few days afterwards, and, at Calais, the
-prisoner came on board the packet-ship in which I returned, and made the
+prisoner came on board the packet-[[Ship|ship]] in which I returned, and made the
 voyage with me.”
 
 “At what hour did he come on board?”
 
 “At a little after midnight.”
 
-“In the dead of the night. Was he the only passenger who came on board
+“In the dead of the [[Night|night]]. Was he the only passenger who came on board
 at that untimely hour?”
 
 “He happened to be the only one.”
 
 “Never mind about ‘happening,’ Mr. Lorry. He was the only passenger who
-came on board in the dead of the night?”
+came on board in the dead of the [[Night|night]]?”
 
 “He was.”
 
-“Were you travelling alone, Mr. Lorry, or with any companion?”
+“Were you travelling [[Alone|alone]], Mr. Lorry, or with any companion?”
 
 “With two companions. A gentleman and lady. They are here.”
 
@@ -122,17 +122,17 @@ I lay on a sofa, almost from shore to shore.”
 “Miss Manette!”
 
 The young lady, to whom all eyes had been turned before, and were now
-turned again, stood up where she had sat. Her father rose with her, and
+turned again, stood up where she had sat. Her father [[Rose|rose]] with her, and
 kept her hand drawn through his arm.
 
 “Miss Manette, look upon the prisoner.”
 
-To be confronted with such pity, and such earnest youth and beauty, was
+To be confronted with such pity, and such earnest youth and [[Beauty|beauty]], was
 far more trying to the accused than to be confronted with all the crowd.
-Standing, as it were, apart with her on the edge of his grave, not all
+Standing, as it were, apart with her on the edge of his [[Grave|grave]], not all
 the staring curiosity that looked on, could, for the moment, nerve him
 to remain quite still. His hurried right hand parcelled out the herbs
-before him into imaginary beds of flowers in a garden; and his efforts
+before him into imaginary beds of [[Flowers|flowers]] in a [[Garden|garden]]; and his efforts
 to control and steady his breathing shook the lips from which the colour
 rushed to his heart. The buzz of the great flies was loud again.
 
@@ -142,7 +142,7 @@ rushed to his heart. The buzz of the great flies was loud again.
 
 “Where?”
 
-“On board of the packet-ship just now referred to, sir, and on the same
+“On board of the packet-[[Ship|ship]] just now referred to, sir, and on the same
 occasion.”
 
 “You are the young lady just now referred to?”
@@ -174,12 +174,12 @@ her eyes lovingly to him as he stood beside her, “was much fatigued
 and in a very weak state of health. My father was so reduced that I was
 afraid to take him out of the air, and I had made a bed for him on the
 deck near the cabin steps, and I sat on the deck at his side to take
-care of him. There were no other passengers that night, but we four.
+care of him. There were no other passengers that [[Night|night]], but we four.
 The prisoner was so good as to beg permission to advise me how I could
-shelter my father from the wind and weather, better than I had done. I
-had not known how to do it well, not understanding how the wind would
+shelter my father from the [[Wind|wind]] and weather, better than I had done. I
+had not known how to do it [[Well|well]], not understanding how the [[Wind|wind]] would
 set when we were out of the harbour. He did it for me. He expressed
 great gentleness and kindness for my father’s state, and I am sure he
 felt it. That was the manner of our beginning to speak together.”
 
-“Let me interrupt you for a moment. Had he come on board alone?”
+“Let me interrupt you for a moment. Had he come on board [[Alone|alone]]?”

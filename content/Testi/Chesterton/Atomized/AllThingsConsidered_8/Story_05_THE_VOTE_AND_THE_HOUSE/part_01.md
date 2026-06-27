@@ -1,5 +1,5 @@
 ---
-title: "AllThingsConsidered-8 — THE VOTE AND THE HOUSE (part 1)"
+title: "[[AllThingsConsidered-8]] — THE VOTE AND THE [[house|HOUSE]] (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/AllThingsConsidered-8-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-THE VOTE AND THE HOUSE
+THE VOTE AND THE [[house|HOUSE]]
 
 
 Most of us will be canvassed soon, I suppose; some of us may
@@ -28,7 +28,7 @@ canvassers are fairly familiar to any one who has ever canvassed.
 They are printed on the little card which you carry about with you
 and lose.  There is a statement, I think, that you must not offer
 a voter food or drink.  However hospitable you may feel towards him
-in his own house, you must not carry his lunch about with you.
+in his own [[house]], you must not carry his lunch about with you.
 You must not produce a veal cutlet from your tail-coat pocket.
 You must not conceal poached eggs about your person.  You must not,
 like a kind of conjurer, produce baked potatoes from your hat.
@@ -39,7 +39,7 @@ is a point of law on which I have never been able to inform myself.
 When I found myself canvassing a gentleman, I have sometimes felt
 tempted to ask him if there was any rule against his giving me
 food and drink; but the matter seemed a delicate one to approach.
-His attitude to me also sometimes suggested a doubt as to whether
+His attitude to me also sometimes suggested a [[Doubt|doubt]] as to whether
 he would, even if he could.  But there are voters who might find it worth
 while to discover if there is any law against bribing a canvasser.
 They might bribe him to go away.
@@ -47,13 +47,13 @@ They might bribe him to go away.
 The second veto for canvassers which was printed on the little card
 said that you must not persuade any one to personate a voter.
 I have no idea what it means.  To dress up as an average voter
-seems a little vague.  There is no well-recognised uniform,
+seems a little vague.  There is no [[Well|well]]-recognised uniform,
 as far as I know, with civic waistcoat and patriotic whiskers.
 The enterprise resolves itself into one somewhat similar
 to the enterprise of a rich friend of mine who went to a
 fancy-dress ball dressed up as a gentleman.  Perhaps it means
 that there is a practice of personating some individual voter.
-The canvasser creeps to the house of his fellow-conspirator carrying
+The canvasser creeps to the [[house]] of his fellow-conspirator carrying
 a make-up in a bag.  He produces from it a pair of white moustaches
 and a single eyeglass, which are sufficient to give the most
 common-place person a startling resemblance to the Colonel at No. 80.
@@ -69,7 +69,7 @@ The third injunction on the card was one which seemed to me,
 if interpreted exactly and according to its words, to undermine
 the very foundations of our politics.  It told me that I
 must not "threaten a voter with any consequence whatever."
-No doubt this was intended to apply to threats of a personal and
+No [[Doubt|doubt]] this was intended to apply to threats of a personal and
 illegitimate character; as, for instance, if a wealthy candidate were
 to threaten to raise all the rents, or to put up a statue of himself.
 But as verbally and grammatically expressed, it certainly would
@@ -80,12 +80,12 @@ be ruined, he is threatening the voters with certain consequences.
 When the Free Trader says that if Tariffs are adopted the people in
 Brompton or Bayswater will crawl about eating grass, he is threatening
 them with consequences.  When the Tariff Reformer says that if
-Free Trade exists for another year St. Paul's Cathedral will be a ruin
-and Ludgate Hill as deserted as Stonehenge, he is also threatening.
+Free Trade exists for another year St. Paul's [[Cathedral]] will be a ruin
+and Ludgate [[Hill]] as deserted as Stonehenge, he is also threatening.
 And what is the good of being a Tariff Reformer if you can't say that?
 What is the use of being a politician or a Parliamentary candidate
 at all if one cannot tell the people that if the other man gets in,
-England will be instantly invaded and enslaved, blood be pouring
+England will be instantly invaded and enslaved, [[Blood|blood]] be pouring
 down the Strand, and all the English ladies carried off into harems.
 But these things are, after all, consequences, so to speak.
 
@@ -94,10 +94,10 @@ be heard abusing the practice of canvassing.  In the same way
 the majority of refined persons (commonly the same refined persons)
 may be heard abusing the practice of interviewing celebrities.
 It seems a very singular thing to me that this refined world reserves
-all its indignation for the comparatively open and innocent element
+all its indignation for the comparatively open and [[Innocent|innocent]] element
 in both walks of life.  There is really a vast amount of corruption
 and hypocrisy in our election politics; about the most honest thing
-in the whole mess is the canvassing.  A man has not got a right to "nurse"
+in the whole mess is the canvassing.  A man has not got a right to "[[Nurse|nurse]]"
 a constituency with aggressive charities, to buy it with great presents
 of parks and libraries, to open vague vistas of future benevolence;
 all this, which goes on unrebuked, is bribery and nothing else.
@@ -124,8 +124,8 @@ The whole error in both cases lies in the fact that the refined persons
 are attacking politics and journalism on the ground of vulgarity.
 Of course, politics and journalism are, as it happens, very vulgar.
 But their vulgarity is not the worst thing about them.
-Things are so bad with both that by this time their vulgarity is
+Things are so bad with both that by this [[Time|time]] their vulgarity is
 the best thing about them.  Their vulgarity is at least a noisy thing;
-and their great danger is that silence that always comes before decay.
-The conversational persuasion at elections is perfectly human
+and their great danger is that [[Silence|silence]] that always comes before [[Decay|decay]].
+The conversational [[Persuasion|persuasion]] at elections is perfectly human
 and rational; it is the silent persuasions that are utterly damnable.

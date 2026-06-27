@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 29: TWENTY NINE (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 29: TWENTY NINE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 ‘Wishin you lots of sickness, my darlin creetur,’ Mrs Gamp observed,
-‘and good places. It won’t be long, I hope, afore we works together, off
+‘and good places. It won’t be long, I [[Hope|hope]], afore we works together, off
 and on, again, Betsey; and may our next meetin’ be at a large family’s,
 where they all takes it reg’lar, one from another, turn and turn about,
 and has it business-like.’
@@ -30,7 +30,7 @@ along the footway.
 ‘Take care, take care here!’ cried the gentleman. ‘Halloo! My dear! Why,
 it’s Mrs Gamp!’
 
-‘What, Mr Mould!’ exclaimed the nurse. ‘And Mrs Mould! who would have
+‘What, Mr Mould!’ exclaimed the [[Nurse|nurse]]. ‘And Mrs Mould! who would have
 thought as we should ever have a meetin’ here, I’m sure!’
 
 ‘Going out of town, Mrs Gamp?’ cried Mould. ‘That’s unusual, isn’t it?’
@@ -40,7 +40,7 @@ The gent,’ she whispered, ‘as I spoke about.’
 
 ‘What, in the coach!’ cried Mould. ‘The one you thought of recommending?
 Very odd. My dear, this will interest you. The gentleman that Mrs Gamp
-thought likely to suit us is in the coach, my love.’
+thought likely to suit us is in the coach, my [[Love|love]].’
 
 Mrs Mould was greatly interested.
 
@@ -66,21 +66,21 @@ seem a stranger to me. I’m very much inclined to move my hat, my dear.’
 
 ‘Then I will!’ cried Mould. ‘How d’ye do, sir! I wish you good day. Ha!
 He bows too. Very gentlemanly. Mrs Gamp has the cards in her pocket, I
-have no doubt. This is very singular, my dear--and very pleasant. I am
+have no [[Doubt|doubt]]. This is very singular, my dear--and very pleasant. I am
 not superstitious, but it really seems as if one was destined to pay him
-those little melancholy civilities which belong to our peculiar line of
+those little [[Melancholy|melancholy]] civilities which belong to our peculiar line of
 business. There can be no kind of objection to your kissing your hand to
 him, my dear.’
 
 Mrs Mould did so.
 
 ‘Ha!’ said Mould. ‘He’s evidently gratified. Poor fellow! I am quite
-glad you did it, my love. Bye bye, Mrs Gamp!’ waving his hand. ‘There he
+glad you did it, my [[Love|love]]. Bye bye, Mrs Gamp!’ waving his hand. ‘There he
 goes; there he goes!’
 
 So he did; for the coach rolled off as the words were spoken. Mr and Mrs
-Mould, in high good humour, went their merry way. Mr Bailey retired
-with Poll Sweedlepipe as soon as possible; but some little time
+Mould, in high good [[Humour|humour]], went their merry way. Mr Bailey retired
+with Poll Sweedlepipe as soon as possible; but some little [[Time|time]]
 elapsed before he could remove his friend from the ground, owing to
 the impression wrought upon the barber’s nerves by Mrs Prig, whom he
 pronounced, in admiration of her beard, to be a woman of transcendent
@@ -88,5 +88,5 @@ charms.
 
 When the light cloud of bustle hanging round the coach was thus
 dispersed, Nadgett was seen in the darkest box of the Bull coffee-room,
-looking wistfully up at the clock--as if the man who never appeared were
-a little behind his time.
+looking wistfully up at the [[Clock|clock]]--as if the man who never appeared were
+a little behind his [[Time|time]].

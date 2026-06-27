@@ -17,15 +17,15 @@ tags:
 THE ALPHABET OF GIANTS
 
 IN one sense the most impressive building at Wembley Exhibition
-was probably the Queen's Dolls-House. The sense in which I
+was probably the [[Queen]]'s Dolls-[[house|House]]. The sense in which I
 say this refers to, the value of small models of big things.
 It seems to me that man has made things almost too great for his
-own imagination to measure.  He is too much at home in his house,
-and sometimes he can not see the city any more than he can
+own [[Imagination|imagination]] to measure.  He is too much at [[Home|home]] in his [[house]],
+and sometimes he can not see the [[City|city]] any more than he can
 see the earth.  It may be easier to use the copy rather
-than the real thing as a working model for real education.
+than the real thing as a working model for real [[Education|education]].
 For about the remains or ruins of the great art of building
-there is a curious paradox of popular misconception, which is
+there is a curious [[Paradox|paradox]] of popular misconception, which is
 not easy to describe.
 
 Architecture is the alphabet of giants; it is the largest system
@@ -99,10 +99,10 @@ in the most complicated figures of Euclid.  This element
 is emphasized wherever the Moslem creed is most emphatic.
 Round the great Mosque of Omar in Jerusalem the most
 apparently florid decoration consists only of handwriting,
-of elaborate Arabic script, defining the unity of God.
+of elaborate Arabic script, defining the [[unity]] of God.
 The heraldic symbol of the Caliphate does not rival the eagle
-of Rome or the lion of England, or even the lilies of France,
-except with the cold horns of the hollow moon.
+of Rome or the [[Lion|lion]] of England, or even the lilies of France,
+except with the cold horns of the hollow [[Moon|moon]].
 
 It is this austerity that makes a miracle even of Moslem luxury.
 The magnificence of a thing like the Taj Mahal is increased by a great
@@ -111,19 +111,19 @@ It boils, one might say it bubbles, with bodily representations.
 There are patterns made out of swaying figures with monstrous hips.
 There are gods many-headed as if everything were doubling and trebling;
 gods who wave wild arms to us like the numberless arms of a forest.
-Some have represented Asia as a nightmare of the over-population of
+Some have represented Asia as a [[nightmare]] of the over-population of
 the earth; and it would seem as if the very heavens were over populated.
 Taken by itself, this would be a superficial view of Indian polytheism.
 But the point is that the supercilious tourist could not see even
 the startling contrast between the iconoclast and the idolater.
-Therefore, he could never see the really reconciling truth about Islam--
+Therefore, he could never see the really reconciling [[Truth|truth]] about [[Islam]]--
 that it was much more of a war against the gods of Asia than against
 the God of Christendom.
 
 It is hardly surprising that the superior person
-could learn no history from the architecture of Asia,
+could learn no [[history]] from the architecture of Asia,
 for he could not learn it from the architecture of England.
-From the Renaissance to the Ruskinian epoch he went on
+From the [[Renaissance]] to the Ruskinian epoch he went on
 talking of the Middle Ages as merely benighted and barbaric.
 Yet in every other English village a colossal contrast
 contradicted him flatly.  A great medieval building stood up

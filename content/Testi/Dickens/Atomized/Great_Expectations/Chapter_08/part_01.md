@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 8 (part 1)"
+title: "[[Great Expectations]] — Chapter 8 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -27,34 +27,34 @@ and bulbs ever wanted of a fine day to break out of those jails, and
 bloom.
 
 It was in the early morning after my arrival that I entertained this
-speculation. On the previous night, I had been sent straight to bed in
+speculation. On the previous [[Night|night]], I had been sent straight to bed in
 an attic with a sloping roof, which was so low in the corner where the
 bedstead was, that I calculated the tiles as being within a foot of my
 eyebrows. In the same early morning, I discovered a singular affinity
 between seeds and corduroys. Mr. Pumblechook wore corduroys, and so did
 his shopman; and somehow, there was a general air and flavour about the
-corduroys, so much in the nature of seeds, and a general air and
-flavour about the seeds, so much in the nature of corduroys, that I
+corduroys, so much in the [[Nature|nature]] of seeds, and a general air and
+flavour about the seeds, so much in the [[Nature|nature]] of corduroys, that I
 hardly knew which was which. The same opportunity served me for
 noticing that Mr. Pumblechook appeared to conduct his business by
 looking across the street at the saddler, who appeared to transact
 _his_ business by keeping his eye on the coachmaker, who appeared to
 get on in life by putting his hands in his pockets and contemplating
-the baker, who in his turn folded his arms and stared at the grocer,
+the baker, who in his turn folded his arms and stared at the [[grocer]],
 who stood at his door and yawned at the chemist. The watchmaker, always
 poring over a little desk with a magnifying-glass at his eye, and
 always inspected by a group of smock-frocks poring over him through the
-glass of his shop-window, seemed to be about the only person in the
+glass of his shop-[[Window|window]], seemed to be about the only person in the
 High Street whose trade engaged his attention.
 
-Mr. Pumblechook and I breakfasted at eight o’clock in the parlour
+Mr. Pumblechook and I breakfasted at eight o’[[Clock|clock]] in the parlour
 behind the shop, while the shopman took his mug of tea and hunch of
 bread and butter on a sack of peas in the front premises. I considered
 Mr. Pumblechook wretched company. Besides being possessed by my
 sister’s idea that a mortifying and penitential character ought to be
 imparted to my diet,—besides giving me as much crumb as possible in
 combination with as little butter, and putting such a quantity of warm
-water into my milk that it would have been more candid to have left the
+[[Water|water]] into my milk that it would have been more candid to have left the
 milk out altogether,—his conversation consisted of nothing but
 arithmetic. On my politely bidding him Good-morning, he said,
 pompously, “Seven times nine, boy?” And how should _I_ be able to
@@ -67,24 +67,24 @@ sup, before the next came; while he sat at his ease guessing nothing,
 and eating bacon and hot roll, in (if I may be allowed the expression)
 a gorging and gormandizing manner.
 
-For such reasons, I was very glad when ten o’clock came and we started
-for Miss Havisham’s; though I was not at all at my ease regarding the
+For such reasons, I was very glad when ten o’[[Clock|clock]] came and we started
+for [[Miss Havisham]]’s; though I was not at all at my ease regarding the
 manner in which I should acquit myself under that lady’s roof. Within a
-quarter of an hour we came to Miss Havisham’s house, which was of old
+quarter of an hour we came to [[Miss Havisham]]’s [[house]], which was of old
 brick, and dismal, and had a great many iron bars to it. Some of the
 windows had been walled up; of those that remained, all the lower were
 rustily barred. There was a courtyard in front, and that was barred; so
 we had to wait, after ringing the bell, until some one should come to
 open it. While we waited at the gate, I peeped in (even then Mr.
 Pumblechook said, “And fourteen?” but I pretended not to hear him), and
-saw that at the side of the house there was a large brewery. No brewing
+saw that at the side of the [[house]] there was a large brewery. No brewing
 was going on in it, and none seemed to have gone on for a long long
-time.
+[[Time|time]].
 
-A window was raised, and a clear voice demanded “What name?” To which
+A [[Window|window]] was raised, and a clear voice demanded “What name?” To which
 my conductor replied, “Pumblechook.” The voice returned, “Quite right,”
-and the window was shut again, and a young lady came across the
-court-yard, with keys in her hand.
+and the [[Window|window]] was shut again, and a young lady came across the
+[[Court|court]]-yard, with keys in her hand.
 
 “This,” said Mr. Pumblechook, “is Pip.”
 
@@ -93,9 +93,9 @@ seemed very proud; “come in, Pip.”
 
 Mr. Pumblechook was coming in also, when she stopped him with the gate.
 
-“Oh!” she said. “Did you wish to see Miss Havisham?”
+“Oh!” she said. “Did you wish to see [[Miss Havisham]]?”
 
-“If Miss Havisham wished to see me,” returned Mr. Pumblechook,
+“If [[Miss Havisham]] wished to see me,” returned Mr. Pumblechook,
 discomfited.
 
 “Ah!” said the girl; “but you see she don’t.”
@@ -113,9 +113,9 @@ It was paved and clean, but grass was growing in every crevice. The
 brewery buildings had a little lane of communication with it, and the
 wooden gates of that lane stood open, and all the brewery beyond stood
 open, away to the high enclosing wall; and all was empty and disused.
-The cold wind seemed to blow colder there than outside the gate; and it
+The cold [[Wind|wind]] seemed to blow colder there than outside the gate; and it
 made a shrill noise in howling in and out at the open sides of the
-brewery, like the noise of wind in the rigging of a ship at sea.
+brewery, like the noise of [[Wind|wind]] in the rigging of a [[Ship|ship]] at sea.
 
 She saw me looking at it, and she said, “You could drink without hurt
 all the strong beer that’s brewed there now, boy.”
@@ -130,4 +130,4 @@ don’t you think so?”
 “Not that anybody means to try,” she added, “for that’s all done with,
 and the place will stand as idle as it is till it falls. As to strong
 beer, there’s enough of it in the cellars already, to drown the Manor
-House.”
+[[house|House]].”

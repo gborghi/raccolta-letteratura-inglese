@@ -16,7 +16,7 @@ tags:
 
       wildly romantic offering on the shrine of the most passionate
 
-      devotion? I but indistinctly recall the fact itself—what wonder
+      devotion? I but indistinctly recall the fact itself—what [[Wonder|wonder]]
 
       that I have utterly forgotten the circumstances which originated
 
@@ -24,13 +24,13 @@ tags:
 
       entitled _Romance_—if ever she, the wan and the misty-winged
 
-      _Ashtophet_ of idolatrous Egypt, presided, as they tell, over
+      _Ashtophet_ of idolatrous [[Egypt]], presided, as they tell, over
 
       marriages ill-omened, then most surely she presided over mine.
 
 
 
-      There is one dear topic, however, on which my memory fails me
+      There is one dear topic, however, on which my [[Memory|memory]] fails me
 
       not. It is the person of Ligeia. In stature she was tall,
 
@@ -40,13 +40,13 @@ tags:
 
       her demeanor, or the incomprehensible lightness and elasticity of
 
-      her footfall. She came and departed as a shadow. I was never made
+      her footfall. She came and departed as a [[Shadow|shadow]]. I was never made
 
       aware of her entrance into my closed study save by the dear music
 
       of her low sweet voice, as she placed her marble hand upon my
 
-      shoulder. In beauty of face no maiden ever equalled her. It was
+      shoulder. In [[Beauty|beauty]] of face no maiden ever equalled her. It was
 
       the radiance of an opium-dream—an airy and spirit-lifting vision
 
@@ -58,9 +58,9 @@ tags:
 
       worship in the classical labors of the heathen. “There is no
 
-      exquisite beauty,” says Bacon, Lord Verulam, speaking truly of
+      exquisite [[Beauty|beauty]],” says Bacon, Lord Verulam, speaking truly of
 
-      all the forms and genera of beauty, “without some strangeness in
+      all the forms and genera of [[Beauty|beauty]], “without some strangeness in
 
       the proportion.” Yet, although I saw that the features of Ligeia
 
@@ -70,7 +70,7 @@ tags:
 
       of “strangeness” pervading it, yet I have tried in vain to detect
 
-      the irregularity and to trace home my own perception of “the
+      the irregularity and to trace [[Home|home]] my own perception of “the
 
       strange.” I examined the contour of the lofty and pale
 
@@ -80,7 +80,7 @@ tags:
 
       commanding extent and repose, the gentle prominence of the
 
-      regions above the temples; and then the raven-black, the glossy,
+      regions above the temples; and then [[The Raven|the raven]]-black, the glossy,
 
       the luxuriant and naturally-curling tresses, setting forth the
 
@@ -114,7 +114,7 @@ tags:
 
       the fullness and the spirituality, of the Greek—the contour which
 
-      the god Apollo revealed but in a dream, to Cleomenes, the son of
+      the god [[Apollo]] revealed but in [[A Dream|a dream]], to Cleomenes, the son of
 
       the Athenian. And then I peered into the large eyes of Ligeia.
 
@@ -134,11 +134,11 @@ tags:
 
       excitement—that this peculiarity became more than slightly
 
-      noticeable in Ligeia. And at such moments was her beauty—in my
+      noticeable in Ligeia. And at such moments was her [[Beauty|beauty]]—in my
 
-      heated fancy thus it appeared perhaps—the beauty of beings either
+      heated fancy thus it appeared perhaps—the [[Beauty|beauty]] of beings either
 
-      above or apart from the earth—the beauty of the fabulous Houri of
+      above or apart from the earth—the [[Beauty|beauty]] of the fabulous Houri of
 
       the Turk. The hue of the orbs was the most brilliant of black,
 
@@ -148,7 +148,7 @@ tags:
 
       “strangeness,” however, which I found in the eyes, was of a
 
-      nature distinct from the formation, or the color, or the
+      [[Nature|nature]] distinct from the formation, or the color, or the
 
       brilliancy of the features, and must, after all, be referred to
 
@@ -160,15 +160,15 @@ tags:
 
       hours have I pondered upon it! How have I, through the whole of a
 
-      midsummer night, struggled to fathom it! What was it—that
+      midsummer [[Night|night]], struggled to fathom it! What was it—that
 
-      something more profound than the well of Democritus—which lay far
+      something more profound than the [[Well|well]] of Democritus—which lay far
 
       within the pupils of my beloved? What was it? I was possessed
 
       with a passion to discover. Those eyes! those large, those
 
-      shining, those divine orbs! they became to me twin stars of Leda,
+      shining, those divine orbs! they became to me twin [[Stars|stars]] of Leda,
 
       and I to them devoutest of astrologers.
 
@@ -180,7 +180,7 @@ tags:
 
       fact—never, I believe, noticed in the schools—that, in our
 
-      endeavors to recall to memory something long forgotten, we often
+      endeavors to recall to [[Memory|memory]] something long forgotten, we often
 
       find ourselves upon the very verge of remembrance, without being
 

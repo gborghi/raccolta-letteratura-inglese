@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 27 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 27 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -19,7 +19,7 @@ tags:
 ‘Pyke is right,’ muttered Mr. Pluck, after a short pause; ‘I was not to
 mention it. Pyke is very right. Thank you, Pyke.’
 
-‘Well now, really,’ thought Mrs. Nickleby within herself. ‘Such delicacy
+‘[[Well]] now, really,’ thought Mrs. Nickleby within herself. ‘Such delicacy
 as that, I never saw!’
 
 Mr. Pluck, after feigning to be in a condition of great embarrassment
@@ -28,29 +28,29 @@ to take no heed of what he had inadvertently said--to consider him
 imprudent, rash, injudicious. The only stipulation he would make in his
 own favour was, that she should give him credit for the best intentions.
 
-‘But when,’ said Mr. Pluck, ‘when I see so much sweetness and beauty on
+‘But when,’ said Mr. Pluck, ‘when I see so much sweetness and [[Beauty|beauty]] on
 the one hand, and so much ardour and devotion on the other, I--pardon
 me, Pyke, I didn’t intend to resume that theme. Change the subject,
 Pyke.’
 
 ‘We promised Sir Mulberry and Lord Frederick,’ said Pyke, ‘that we’d
-call this morning and inquire whether you took any cold last night.’
+call this morning and inquire whether you took any cold last [[Night|night]].’
 
-‘Not the least in the world last night, sir,’ replied Mrs. Nickleby,
+‘Not the least in the world last [[Night|night]], sir,’ replied Mrs. Nickleby,
 ‘with many thanks to his lordship and Sir Mulberry for doing me the
-honour to inquire; not the least--which is the more singular, as I
+[[Honour|honour]] to inquire; not the least--which is the more singular, as I
 really am very subject to colds, indeed--very subject. I had a cold
 once,’ said Mrs. Nickleby, ‘I think it was in the year eighteen hundred
 and seventeen; let me see, four and five are nine, and--yes, eighteen
 hundred and seventeen, that I thought I never should get rid of;
 actually and seriously, that I thought I never should get rid of. I
 was only cured at last by a remedy that I don’t know whether you ever
-happened to hear of, Mr. Pluck. You have a gallon of water as hot as
+happened to hear of, Mr. Pluck. You have a gallon of [[Water|water]] as hot as
 you can possibly bear it, with a pound of salt, and sixpen’orth of the
-finest bran, and sit with your head in it for twenty minutes every night
+finest bran, and sit with your head in it for twenty minutes every [[Night|night]]
 just before going to bed; at least, I don’t mean your head--your feet.
 It’s a most extraordinary cure--a most extraordinary cure. I used it
-for the first time, I recollect, the day after Christmas Day, and by the
+for the first [[Time|time]], I recollect, the day after Christmas Day, and by the
 middle of April following the cold was gone. It seems quite a miracle
 when you come to think of it, for I had it ever since the beginning of
 September.’
@@ -59,7 +59,7 @@ September.’
 
 ‘Perfectly horrid!’ exclaimed Mr. Pluck.
 
-‘But it’s worth the pain of hearing, only to know that Mrs. Nickleby
+‘But it’s worth the [[Pain|pain]] of hearing, only to know that Mrs. Nickleby
 recovered it, isn’t it, Pluck?’ cried Mr. Pyke.
 
 ‘That is the circumstance which gives it such a thrilling interest,’
@@ -70,7 +70,7 @@ not forget our mission in the pleasure of this interview. We come on a
 mission, Mrs. Nickleby.’
 
 ‘On a mission,’ exclaimed that good lady, to whose mind a definite
-proposal of marriage for Kate at once presented itself in lively
+proposal of [[Marriage|marriage]] for Kate at once presented itself in lively
 colours.
 
 ‘From Sir Mulberry,’ replied Pyke. ‘You must be very dull here.’
@@ -106,11 +106,11 @@ the worthy lady.
 ‘Mrs. Nickleby,’ said that excellent gentleman, lowering his voice,
 ‘there is the most trifling, the most excusable breach of confidence
 in what I am about to say; and yet if my friend Pyke there overheard
-it--such is that man’s delicate sense of honour, Mrs. Nickleby--he’d have
-me out before dinner-time.’
+it--such is that man’s delicate sense of [[Honour|honour]], Mrs. Nickleby--he’d have
+me out before dinner-[[Time|time]].’
 
 Mrs. Nickleby cast an apprehensive glance at the warlike Pyke, who had
-walked to the window; and Mr. Pluck, squeezing her hand, went on:
+walked to the [[Window|window]]; and Mr. Pluck, squeezing her hand, went on:
 
 ‘Your daughter has made a conquest--a conquest on which I may
 congratulate you. Sir Mulberry, my dear ma’am, Sir Mulberry is her
@@ -129,8 +129,8 @@ expression.’
 ‘I recognise it at this distance!’ exclaimed Mr. Pluck in a fit of
 enthusiasm. ‘Is it not, my dear madam, the faint similitude of--’
 
-‘It is my daughter’s portrait,’ said Mrs. Nickleby, with great pride. And
-so it was. And little Miss La Creevy had brought it home for inspection
+‘It is my daughter’s portrait,’ said Mrs. Nickleby, with great [[Pride|pride]]. And
+so it was. And little Miss La Creevy had brought it [[Home|home]] for inspection
 only two nights before.
 
 Mr. Pyke no sooner ascertained that he was quite right in his conjecture,
@@ -138,7 +138,7 @@ than he launched into the most extravagant encomiums of the divine
 original; and in the warmth of his enthusiasm kissed the picture a
 thousand times, while Mr. Pluck pressed Mrs. Nickleby’s hand to his heart,
 and congratulated her on the possession of such a daughter, with so much
-earnestness and affection, that the tears stood, or seemed to stand,
+earnestness and affection, that the [[Tears|tears]] stood, or seemed to stand,
 in his eyes. Poor Mrs. Nickleby, who had listened in a state of enviable
 complacency at first, became at length quite overpowered by these tokens
 of regard for, and attachment to, the family; and even the servant

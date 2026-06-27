@@ -36,7 +36,7 @@ tags:
 
       thundercloud—then, as if from its bowels, arose a tall stream of
 
-      vivid fire to the height, apparently, of a quarter of a mile—then
+      vivid [[Fire|fire]] to the height, apparently, of a quarter of a mile—then
 
       there came a sudden circular expansion of the flame—then the
 
@@ -86,9 +86,9 @@ tags:
 
 
 
-      Presently we saw a large body go off into the hills, whence they
+      Presently we saw a large [[Body|body]] go off into the hills, whence they
 
-      returned in a short time, carrying stakes of wood. These they
+      returned in a short [[Time|time]], carrying stakes of wood. These they
 
       brought to the station where the crowd was the thickest, which
 
@@ -102,7 +102,7 @@ tags:
 
       teeth and claws which the schooner had picked up at sea on the
 
-      eighteenth of January. Captain Guy had had the body preserved for
+      eighteenth of January. Captain Guy had had the [[Body|body]] preserved for
 
       the purpose of stuffing the skin and taking it to England. I
 

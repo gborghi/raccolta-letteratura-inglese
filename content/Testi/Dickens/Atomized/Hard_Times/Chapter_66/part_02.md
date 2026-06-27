@@ -25,37 +25,37 @@ had still to wait until the next train should come in, an hour and forty
 minutes hence.
 
 ‘This is a device to keep him out of the way,’ said Mrs. Sparsit,
-starting from the dull office window whence she had watched him last.
+starting from the dull office [[Window|window]] whence she had watched him last.
 ‘Harthouse is with his sister now!’
 
 It was the conception of an inspired moment, and she shot off with her
-utmost swiftness to work it out.  The station for the country house was
-at the opposite end of the town, the time was short, the road not easy;
+utmost swiftness to work it out.  The station for the country [[house]] was
+at the opposite end of the town, the [[Time|time]] was short, the [[Road|road]] not easy;
 but she was so quick in pouncing on a disengaged coach, so quick in
 darting out of it, producing her money, seizing her ticket, and diving
 into the train, that she was borne along the arches spanning the land of
 coal-pits past and present, as if she had been caught up in a cloud and
 whirled away.
 
-All the journey, immovable in the air though never left behind; plain to
+All the [[Journey|journey]], immovable in the air though never left behind; plain to
 the dark eyes of her mind, as the electric wires which ruled a colossal
 strip of music-paper out of the evening sky, were plain to the dark eyes
-of her body; Mrs. Sparsit saw her staircase, with the figure coming down.
-Very near the bottom now.  Upon the brink of the abyss.
+of her [[Body|body]]; Mrs. Sparsit saw her staircase, with the figure coming down.
+Very near the [[Bottom|bottom]] now.  Upon the brink of the abyss.
 
 An overcast September evening, just at nightfall, saw beneath its
 drooping eyelids Mrs. Sparsit glide out of her carriage, pass down the
-wooden steps of the little station into a stony road, cross it into a
-green lane, and become hidden in a summer-growth of leaves and branches.
-One or two late birds sleepily chirping in their nests, and a bat heavily
+wooden steps of the little station into a stony [[Road|road]], [[Cross|cross]] it into a
+green lane, and become hidden in a [[Summer|summer]]-growth of [[Leaves|leaves]] and branches.
+One or two late [[Birds|birds]] sleepily chirping in their nests, and a bat heavily
 crossing and recrossing her, and the reek of her own tread in the thick
-dust that felt like velvet, were all Mrs. Sparsit heard or saw until she
+[[Dust|dust]] that felt like velvet, were all Mrs. Sparsit heard or saw until she
 very softly closed a gate.
 
-She went up to the house, keeping within the shrubbery, and went round
-it, peeping between the leaves at the lower windows.  Most of them were
+She went up to the [[house]], keeping within the shrubbery, and went round
+it, peeping between the [[Leaves|leaves]] at the lower windows.  Most of them were
 open, as they usually were in such warm weather, but there were no lights
-yet, and all was silent.  She tried the garden with no better effect.
+yet, and all was silent.  She tried the [[Garden|garden]] with no better effect.
 She thought of the wood, and stole towards it, heedless of long grass and
 briers: of worms, snails, and slugs, and all the creeping things that be.
 With her dark eyes and her hook nose warily in advance of her, Mrs.
@@ -65,7 +65,7 @@ had been a wood of adders.
 
 Hark!
 
-The smaller birds might have tumbled out of their nests, fascinated by
+The smaller [[Birds|birds]] might have tumbled out of their nests, fascinated by
 the glittering of Mrs. Sparsit’s eyes in the gloom, as she stopped and
 listened.
 
@@ -75,18 +75,18 @@ tree.
 
 Bending low among the dewy grass, Mrs. Sparsit advanced closer to them.
 She drew herself up, and stood behind a tree, like Robinson Crusoe in his
-ambuscade against the savages; so near to them that at a spring, and that
+ambuscade against the savages; so near to them that at a [[Spring|spring]], and that
 no great one, she could have touched them both.  He was there secretly,
-and had not shown himself at the house.  He had come on horseback, and
-must have passed through the neighbouring fields; for his horse was tied
+and had not shown himself at the [[house]].  He had come on horseback, and
+must have passed through the neighbouring fields; for his [[Horse|horse]] was tied
 to the meadow side of the fence, within a few paces.
 
-‘My dearest love,’ said he, ‘what could I do?  Knowing you were alone,
+‘My dearest [[Love|love]],’ said he, ‘what could I do?  Knowing you were [[Alone|alone]],
 was it possible that I could stay away?’
 
 ‘You may hang your head, to make yourself the more attractive; _I_ don’t
 know what they see in you when you hold it up,’ thought Mrs. Sparsit;
-‘but you little think, my dearest love, whose eyes are on you!’
+‘but you little think, my dearest [[Love|love]], whose eyes are on you!’
 
 That she hung her head, was certain.  She urged him to go away, she
 commanded him to go away; but she neither turned her face to him, nor
@@ -95,7 +95,7 @@ amiable woman in ambuscade had seen her sit, at any period in her life.
 Her hands rested in one another, like the hands of a statue; and even her
 manner of speaking was not hurried.
 
-‘My dear child,’ said Harthouse; Mrs. Sparsit saw with delight that his
+‘My dear [[Child|child]],’ said Harthouse; Mrs. Sparsit saw with delight that his
 arm embraced her; ‘will you not bear with my society for a little while?’
 
 ‘Not here.’
@@ -104,7 +104,7 @@ arm embraced her; ‘will you not bear with my society for a little while?’
 
 ‘Not here.’
 
-‘But we have so little time to make so much of, and I have come so far,
+‘But we have so little [[Time|time]] to make so much of, and I have come so far,
 and am altogether so devoted, and distracted.  There never was a slave at
 once so devoted and ill-used by his mistress.  To look for your sunny
 welcome that has warmed me into life, and to be received in your frozen
@@ -118,8 +118,8 @@ They both started.  The listener started, guiltily, too; for she thought
 there was another listener among the trees.  It was only rain, beginning
 to fall fast, in heavy drops.
 
-‘Shall I ride up to the house a few minutes hence, innocently supposing
-that its master is at home and will be charmed to receive me?’
+‘Shall I ride up to the [[house]] a few minutes hence, innocently supposing
+that its master is at [[Home|home]] and will be charmed to receive me?’
 
 ‘No!’
 
@@ -134,9 +134,9 @@ Mrs. Sparsit saw him detain her with his encircling arm, and heard him
 then and there, within her (Mrs. Sparsit’s) greedy hearing, tell her how
 he loved her, and how she was the stake for which he ardently desired to
 play away all that he had in life.  The objects he had lately pursued,
-turned worthless beside her; such success as was almost in his grasp, he
+turned worthless beside her; such [[success]] as was almost in his grasp, he
 flung away from him like the dirt it was, compared with her.  Its
-pursuit, nevertheless, if it kept him near her, or its renunciation if it
+pursuit, nevertheless, if it kept him near her, or its [[Renunciation|renunciation]] if it
 took him from her, or flight if she shared it, or secrecy if she
 commanded it, or any fate, or every fate, all was alike to him, so that
 she was true to him,—the man who had seen how cast away she was, whom she
@@ -145,8 +145,8 @@ which he had thought himself incapable, whom she had received into her
 confidence, who was devoted to her and adored her.  All this, and more,
 in his hurry, and in hers, in the whirl of her own gratified malice, in
 the dread of being discovered, in the rapidly increasing noise of heavy
-rain among the leaves, and a thunderstorm rolling up—Mrs. Sparsit
+rain among the [[Leaves|leaves]], and a thunderstorm [[rolling]] up—Mrs. Sparsit
 received into her mind, set off with such an unavoidable halo of
 confusion and indistinctness, that when at length he climbed the fence
-and led his horse away, she was not sure where they were to meet, or
-when, except that they had said it was to be that night.
+and led his [[Horse|horse]] away, she was not sure where they were to meet, or
+when, except that they had said it was to be that [[Night|night]].

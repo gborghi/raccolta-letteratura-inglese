@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 49 (part 4)"
+title: "[[Sense and Sensibility]] — Chapter 49 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -18,7 +18,7 @@ of her welcome, and all the encouragement of her mother’s language, to
 
 make it cheerful. Among such friends, however, and such flattery, he
 
-did revive. No rumour of Lucy’s marriage had yet reached him:—he knew
+did revive. No rumour of Lucy’s [[Marriage|marriage]] had yet reached him:—he knew
 
 nothing of what had passed; and the first hours of his visit were
 
@@ -40,19 +40,19 @@ for it could not be otherwise. Their resemblance in good principles and
 
 good sense, in disposition and manner of thinking, would probably have
 
-been sufficient to unite them in friendship, without any other
+been sufficient to unite them in [[Friendship|friendship]], without any other
 
-attraction; but their being in love with two sisters, and two sisters
+attraction; but their being in [[Love|love]] with two sisters, and two sisters
 
 fond of each other, made that mutual regard inevitable and immediate,
 
-which might otherwise have waited the effect of time and judgment.
+which might otherwise have waited the effect of [[Time|time]] and judgment.
 
 
 
 The letters from town, which a few days before would have made every
 
-nerve in Elinor’s body thrill with transport, now arrived to be read
+nerve in Elinor’s [[Body|body]] thrill with transport, now arrived to be read
 
 with less emotion than mirth. Mrs. Jennings wrote to tell the wonderful
 
@@ -62,21 +62,21 @@ forth her compassion towards poor Mr. Edward, who, she was sure, had
 
 quite doted upon the worthless hussy, and was now, by all accounts,
 
-almost broken-hearted, at Oxford. “I do think,” she continued, “nothing
+almost broken-hearted, at [[Oxford]]. “I do think,” she continued, “nothing
 
 was ever carried on so sly; for it was but two days before Lucy called
 
-and sat a couple of hours with me. Not a soul suspected anything of the
+and sat a couple of hours with me. Not a [[Soul|soul]] suspected anything of the
 
-matter, not even Nancy, who, poor soul! came crying to me the day
+matter, not even [[Nancy]], who, poor [[Soul|soul]]! came crying to me the day
 
-after, in a great fright for fear of Mrs. Ferrars, as well as not
+after, in a great fright for [[Fear|fear]] of Mrs. Ferrars, as [[Well|well]] as not
 
 knowing how to get to Plymouth; for Lucy it seems borrowed all her
 
 money before she went off to be married, on purpose we suppose to make
 
-a show with, and poor Nancy had not seven shillings in the world; so I
+a show with, and poor [[Nancy]] had not seven shillings in the world; so I
 
 was very glad to give her five guineas to take her down to Exeter,
 
@@ -100,7 +100,7 @@ unfortunate of women—poor Fanny had suffered agonies of sensibility—and
 
 he considered the existence of each, under such a blow, with grateful
 
-wonder. Robert’s offence was unpardonable, but Lucy’s was infinitely
+[[Wonder|wonder]]. Robert’s offence was unpardonable, but Lucy’s was infinitely
 
 worse. Neither of them were ever again to be mentioned to Mrs. Ferrars;
 
@@ -114,7 +114,7 @@ carried on between them, was rationally treated as enormously
 
 heightening the crime, because, had any suspicion of it occurred to the
 
-others, proper measures would have been taken to prevent the marriage;
+others, proper measures would have been taken to prevent the [[Marriage|marriage]];
 
 and he called on Elinor to join with him in regretting that Lucy’s
 
@@ -132,9 +132,9 @@ surprise us; but, to our great astonishment, not a line has been
 
 received from him on the occasion. Perhaps, however, he is kept silent
 
-by his fear of offending, and I shall, therefore, give him a hint, by a
+by his [[Fear|fear]] of offending, and I shall, therefore, give him a hint, by a
 
-line to Oxford, that his sister and I both think a letter of proper
+line to [[Oxford]], that his sister and I both think a letter of proper
 
 submission from him, addressed perhaps to Fanny, and by her shown to
 
@@ -148,7 +148,7 @@ on good terms with her children.”
 
 This paragraph was of some importance to the prospects and conduct of
 
-Edward. It determined him to attempt a reconciliation, though not
+Edward. It determined him to attempt a [[Reconciliation|reconciliation]], though not
 
 exactly in the manner pointed out by their brother and sister.
 
@@ -158,7 +158,7 @@ exactly in the manner pointed out by their brother and sister.
 
 my mother’s pardon for Robert’s ingratitude to _her_, and breach of
 
-honour to _me?_ I can make no submission. I am grown neither humble nor
+[[Honour|honour]] to _me?_ I can make no submission. I am grown neither humble nor
 
 penitent by what has passed. I am grown very happy; but that would not
 
@@ -180,7 +180,7 @@ He agreed that he might.
 
 
 
-“And when she has forgiven you, perhaps a little humility may be
+“And when she has forgiven you, perhaps a little [[Humility|humility]] may be
 
 convenient while acknowledging a second engagement, almost as imprudent
 
@@ -196,26 +196,26 @@ as he declared a much greater willingness to make mean concessions by
 
 word of mouth than on paper, it was resolved that, instead of writing
 
-to Fanny, he should go to London, and personally intreat her good
+to Fanny, he should go to [[London]], and personally intreat her good
 
 offices in his favour. “And if they really _do_ interest themselves,”
 
 said Marianne, in her new character of candour, “in bringing about a
 
-reconciliation, I shall think that even John and Fanny are not entirely
+[[Reconciliation|reconciliation]], I shall think that even John and Fanny are not entirely
 
 without merit.”
 
 
 
-After a visit on Colonel Brandon’s side of only three or four days, the
+After a visit on [[Colonel Brandon]]’s side of only three or four days, the
 
 two gentlemen quitted Barton together. They were to go immediately to
 
 Delaford, that Edward might have some personal knowledge of his future
 
-home, and assist his patron and friend in deciding on what improvements
+[[Home|home]], and assist his patron and friend in deciding on what improvements
 
 were needed to it; and from thence, after staying there a couple of
 
-nights, he was to proceed on his journey to town.
+nights, he was to proceed on his [[Journey|journey]] to town.

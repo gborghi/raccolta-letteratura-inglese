@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 18 (part 4)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 18 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-fond and fervent a lover; and she’s thinking how pleasant it will be,
+fond and fervent a [[Lover|lover]]; and she’s thinking how pleasant it will be,
 
 and how tender and faithful he will find her.”
 
@@ -26,7 +26,7 @@ him.”
 
 
 
-“Perhaps, for there is no limit to the wild extravagance of Hope’s
+“Perhaps, for there is no limit to the wild extravagance of [[Hope]]’s
 
 imaginings at such an age.”
 
@@ -38,11 +38,11 @@ imaginings at such an age.”
 
 “No; my heart tells me it is not. I might have thought so once, but
 
-now, I say, give me the girl I love, and I will swear eternal constancy
+now, I say, give me the girl I [[Love|love]], and I will swear eternal constancy
 
-to her and her alone, through summer and winter, through youth and age,
+to her and her [[Alone|alone]], through [[Summer|summer]] and [[Winter|winter]], through youth and age,
 
-and life and death! if age and death _must_ come.”
+and life and [[Death|death]]! if age and [[Death|death]] _must_ come.”
 
 
 
@@ -90,11 +90,11 @@ portfolio from his hand, he deftly abstracted the greater part of its
 
 contents, and after turning them over a moment he cried out,—“Bless my
 
-stars, here’s another;” and slipped a small oval of ivory paper into
+[[Stars|stars]], here’s another;” and slipped a small oval of ivory paper into
 
 his waistcoat pocket—a complete miniature portrait that I had sketched
 
-with such tolerable success as to be induced to colour it with great
+with such tolerable [[success]] as to be induced to colour it with great
 
 pains and care. But I was determined he should not keep it.
 
@@ -112,7 +112,7 @@ But the more vehemently I insisted, the more he aggravated my distress
 
 by his insulting, gleeful laugh. At length, however, he restored it to
 
-me, saying,—“Well, well, since you value it so much, I’ll not deprive
+me, saying,—“[[Well]], [[Well|well]], since you value it so much, I’ll not deprive
 
 you of it.”
 
@@ -120,13 +120,13 @@ you of it.”
 
 To show him how I valued it, I tore it in two and threw it into the
 
-fire. He was not prepared for this. His merriment suddenly ceasing, he
+[[Fire|fire]]. He was not prepared for this. His merriment suddenly ceasing, he
 
 stared in mute amazement at the consuming treasure; and then, with a
 
 careless “Humph! I’ll go and shoot now,” he turned on his heel and
 
-vacated the apartment by the window as he came, and setting on his hat
+vacated the apartment by the [[Window|window]] as he came, and setting on his hat
 
 with an air, took up his gun and walked away, whistling as he went—and
 
@@ -148,17 +148,17 @@ We took a long ramble, and re-entered the park just as the sportsmen
 
 were returning from their expedition. Toil-spent and travel-stained,
 
-the main body of them crossed over the grass to avoid us, but Mr.
+the main [[Body|body]] of them crossed over the grass to avoid us, but Mr.
 
 Huntingdon, all spattered and splashed as he was, and stained with the
 
-blood of his prey—to the no small offence of my aunt’s strict sense of
+[[Blood|blood]] of his prey—to the no small offence of my aunt’s strict sense of
 
 propriety—came out of his way to meet us, with cheerful smiles and
 
 words for all but me, and placing himself between Annabella Wilmot and
 
-myself, walked up the road and began to relate the various exploits and
+myself, walked up the [[Road|road]] and began to relate the various exploits and
 
 disasters of the day, in a manner that would have convulsed me with
 
@@ -174,7 +174,7 @@ way but theirs, while my aunt and Milicent went before, linked arm in
 
 arm and gravely discoursing together. At length Mr. Huntingdon turned
 
-to me, and addressing me in a confidential whisper, said,—“Helen, why
+to me, and addressing me in a confidential whisper, said,—“[[Helen]], why
 
 did you burn my picture?”
 
@@ -194,7 +194,7 @@ to somebody that will.”
 
 I thought it was partly in jest—a half-playful mixture of mock
 
-resignation and pretended indifference: but immediately he resumed his
+[[Resignation|resignation]] and pretended indifference: but immediately he resumed his
 
 place beside Miss Wilmot, and from that hour to this—during all that
 
@@ -218,7 +218,7 @@ Miss Wilmot observes it, too, and triumphantly ascribes it to her own
 
 superior charms and blandishments; but I am truly miserable—more so
 
-than I like to acknowledge to myself. Pride refuses to aid me. It has
+than I like to acknowledge to myself. [[Pride]] refuses to aid me. It has
 
 brought me into the scrape, and will not help me out of it.
 
@@ -230,7 +230,7 @@ acrimonious resentment—so serious, so disproportioned to the
 
 offence—have so wounded his feelings, so deeply offended him, that I
 
-fear he will never forgive me—and all for a mere jest! He thinks I
+[[Fear|fear]] he will never forgive me—and all for a mere jest! He thinks I
 
 dislike him, and he must continue to think so. I must lose him for
 
@@ -244,17 +244,17 @@ wreck of my fond hopes for his advantage, and her unworthiness of his
 
 affection, and the injury he will do himself by trusting his happiness
 
-to her. _She_ does not love him: she thinks only of herself. She cannot
+to her. _She_ does not [[Love|love]] him: she thinks only of herself. She cannot
 
 appreciate the good that is in him: she will neither see it, nor value
 
 it, nor cherish it. She will neither deplore his faults nor attempt
 
-their amendment, but rather aggravate them by her own. And I doubt
+their amendment, but rather aggravate them by her own. And I [[Doubt|doubt]]
 
-whether she will not deceive him after all. I see she is playing double
+whether she will not deceive him after all. I see she is playing [[Double|double]]
 
-between him and Lord Lowborough, and while she amuses herself with the
+between him and [[Lord Lowborough]], and while she amuses herself with the
 
 lively Huntingdon, she tries her utmost to enslave his moody friend;
 
@@ -282,11 +282,11 @@ I could not _bear_ to do it. I am annoyed enough by their present
 
 persecutions without encouraging them further; and even if I did it
 
-would have precious little effect upon him. He sees me suffering under
+would have precious little effect upon him. He sees me [[Suffering|suffering]] under
 
 the condescending attentions and prosaic discourses of the one, and the
 
-repulsive obtrusions of the other, without so much as a shadow of
+repulsive obtrusions of the other, without so much as a [[Shadow|shadow]] of
 
 commiseration for me, or resentment against my tormentors. He never
 
@@ -294,7 +294,7 @@ could have loved me, or he would not have resigned me so willingly, and
 
 he would not go on talking to everybody else so cheerfully as he
 
-does—laughing and jesting with Lord Lowborough and my uncle, teasing
+does—laughing and jesting with [[Lord Lowborough]] and my uncle, teasing
 
 Milicent Hargrave, and flirting with Annabella Wilmot—as if nothing
 

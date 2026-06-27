@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 26: I FALL INTO CAPTIVITY"
+title: "[[David Copperfield]] — Chapter 26: I FALL INTO CAPTIVITY"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 CHAPTER 26. I FALL INTO CAPTIVITY
 
 
-I saw no more of Uriah Heep, until the day when Agnes left town. I was
+I saw no more of [[Uriah Heep]], until the day when Agnes left town. I was
 at the coach office to take leave of her and see her go; and there was
 he, returning to Canterbury by the same conveyance. It was some small
 satisfaction to me to observe his spare, short-waisted, high-shouldered,
@@ -25,76 +25,76 @@ mulberry-coloured great-coat perched up, in company with an umbrella
 like a small tent, on the edge of the back seat on the roof, while
 Agnes was, of course, inside; but what I underwent in my efforts to be
 friendly with him, while Agnes looked on, perhaps deserved that little
-recompense. At the coach window, as at the dinner-party, he hovered
+recompense. At the coach [[Window|window]], as at the dinner-party, he hovered
 about us without a moment’s intermission, like a great vulture: gorging
 himself on every syllable that I said to Agnes, or Agnes said to me.
 
-In the state of trouble into which his disclosure by my fire had thrown
+In the state of trouble into which his disclosure by my [[Fire|fire]] had thrown
 me, I had thought very much of the words Agnes had used in reference to
-the partnership. ‘I did what I hope was right. Feeling sure that it
+the partnership. ‘I did what I [[Hope|hope]] was right. Feeling sure that it
 was necessary for papa’s peace that the sacrifice should be made, I
 entreated him to make it.’ A miserable foreboding that she would
 yield to, and sustain herself by, the same feeling in reference to any
 sacrifice for his sake, had oppressed me ever since. I knew how she
-loved him. I knew what the devotion of her nature was. I knew from her
-own lips that she regarded herself as the innocent cause of his errors,
+loved him. I knew what the devotion of her [[Nature|nature]] was. I knew from her
+own lips that she regarded herself as the [[Innocent|innocent]] cause of his errors,
 and as owing him a great debt she ardently desired to pay. I had no
 consolation in seeing how different she was from this detestable Rufus
 with the mulberry-coloured great-coat, for I felt that in the very
-difference between them, in the self-denial of her pure soul and the
+difference between them, in the [[Self|self]]-denial of her pure [[Soul|soul]] and the
 sordid baseness of his, the greatest danger lay. All this, doubtless, he
-knew thoroughly, and had, in his cunning, considered well.
+knew thoroughly, and had, in his cunning, considered [[Well|well]].
 
 Yet I was so certain that the prospect of such a sacrifice afar off,
 must destroy the happiness of Agnes; and I was so sure, from her manner,
-of its being unseen by her then, and having cast no shadow on her yet;
+of its being unseen by her then, and having cast no [[Shadow|shadow]] on her yet;
 that I could as soon have injured her, as given her any warning of what
 impended. Thus it was that we parted without explanation: she waving
-her hand and smiling farewell from the coach window; her evil genius
+her hand and smiling farewell from the coach [[Window|window]]; her evil genius
 writhing on the roof, as if he had her in his clutches and triumphed.
 
-I could not get over this farewell glimpse of them for a long time. When
+I could not get over this farewell glimpse of them for a long [[Time|time]]. When
 Agnes wrote to tell me of her safe arrival, I was as miserable as when
 I saw her going away. Whenever I fell into a thoughtful state, this
 subject was sure to present itself, and all my uneasiness was sure to be
-redoubled. Hardly a night passed without my dreaming of it. It became a
+redoubled. Hardly a [[Night|night]] passed without my dreaming of it. It became a
 part of my life, and as inseparable from my life as my own head.
 
 I had ample leisure to refine upon my uneasiness: for Steerforth was at
-Oxford, as he wrote to me, and when I was not at the Commons, I was
-very much alone. I believe I had at this time some lurking distrust of
+[[Oxford]], as he wrote to me, and when I was not at the Commons, I was
+very much [[Alone|alone]]. I believe I had at this [[Time|time]] some lurking distrust of
 Steerforth. I wrote to him most affectionately in reply to his, but I
-think I was glad, upon the whole, that he could not come to London just
-then. I suspect the truth to be, that the influence of Agnes was upon
+think I was glad, upon the whole, that he could not come to [[London]] just
+then. I suspect the [[Truth|truth]] to be, that the influence of Agnes was upon
 me, undisturbed by the sight of him; and that it was the more powerful
 with me, because she had so large a share in my thoughts and interest.
 
 In the meantime, days and weeks slipped away. I was articled to Spenlow
-and Jorkins. I had ninety pounds a year (exclusive of my house-rent
+and Jorkins. I had ninety pounds a year (exclusive of my [[house]]-rent
 and sundry collateral matters) from my aunt. My rooms were engaged
 for twelve months certain: and though I still found them dreary of an
 evening, and the evenings long, I could settle down into a state of
 equable low spirits, and resign myself to coffee; which I seem, on
 looking back, to have taken by the gallon at about this period of my
-existence. At about this time, too, I made three discoveries: first,
+existence. At about this [[Time|time]], too, I made three discoveries: first,
 that Mrs. Crupp was a martyr to a curious disorder called ‘the
 spazzums’, which was generally accompanied with inflammation of the
 nose, and required to be constantly treated with peppermint; secondly,
 that something peculiar in the temperature of my pantry, made the
-brandy-bottles burst; thirdly, that I was alone in the world, and much
+brandy-bottles burst; thirdly, that I was [[Alone|alone]] in the world, and much
 given to record that circumstance in fragments of English versification.
 
 On the day when I was articled, no festivity took place, beyond my
 having sandwiches and sherry into the office for the clerks, and going
-alone to the theatre at night. I went to see The Stranger, as a Doctors’
+[[Alone|alone]] to the theatre at [[Night|night]]. I went to see The Stranger, as a Doctors’
 Commons sort of play, and was so dreadfully cut up, that I hardly knew
-myself in my own glass when I got home. Mr. Spenlow remarked, on this
+myself in my own glass when I got [[Home|home]]. Mr. Spenlow remarked, on this
 occasion, when we concluded our business, that he should have been
-happy to have seen me at his house at Norwood to celebrate our becoming
+happy to have seen me at his [[house]] at Norwood to celebrate our becoming
 connected, but for his domestic arrangements being in some disorder,
 on account of the expected return of his daughter from finishing her
-education at Paris. But, he intimated that when she came home he should
-hope to have the pleasure of entertaining me. I knew that he was a
+[[Education|education]] at [[Paris]]. But, he intimated that when she came [[Home|home]] he should
+[[Hope|hope]] to have the pleasure of entertaining me. I knew that he was a
 widower with one daughter, and expressed my acknowledgements.
 
 Mr. Spenlow was as good as his word. In a week or two, he referred to
@@ -104,14 +104,14 @@ Of course I said I would do him the favour; and he was to drive me down
 in his phaeton, and to bring me back.
 
 When the day arrived, my very carpet-bag was an object of veneration
-to the stipendiary clerks, to whom the house at Norwood was a sacred
+to the stipendiary clerks, to whom the [[house]] at Norwood was a sacred
 mystery. One of them informed me that he had heard that Mr. Spenlow
 ate entirely off plate and china; and another hinted at champagne being
 constantly on draught, after the usual custom of table-beer. The old
 clerk with the wig, whose name was Mr. Tiffey, had been down on business
 several times in the course of his career, and had on each occasion
 penetrated to the breakfast-parlour. He described it as an apartment of
-the most sumptuous nature, and said that he had drunk brown East India
+the most sumptuous [[Nature|nature]], and said that he had drunk brown East India
 sherry there, of a quality so precious as to make a man wink. We had
 an adjourned cause in the Consistory that day--about excommunicating a
 baker who had been objecting in a vestry to a paving-rate--and as the
@@ -127,8 +127,8 @@ and lifted up their legs as if they knew they belonged to Doctors’
 Commons. There was a good deal of competition in the Commons on all
 points of display, and it turned out some very choice equipages then;
 though I always have considered, and always shall consider, that in my
-time the great article of competition there was starch: which I think
-was worn among the proctors to as great an extent as it is in the nature
+[[Time|time]] the great article of competition there was starch: which I think
+was worn among the proctors to as great an extent as it is in the [[Nature|nature]]
 of man to bear.
 
 We were very pleasant, going down, and Mr. Spenlow gave me some hints in
@@ -147,7 +147,7 @@ business? He replied, that a good case of a disputed will, where there
 was a neat little estate of thirty or forty thousand pounds, was,
 perhaps, the best of all. In such a case, he said, not only were there
 very pretty pickings, in the way of arguments at every stage of the
-proceedings, and mountains upon mountains of evidence on interrogatory
+proceedings, and [[Mountains|mountains]] upon [[Mountains|mountains]] of evidence on interrogatory
 and counter-interrogatory (to say nothing of an appeal lying, first to
 the Delegates, and then to the Lords), but, the costs being pretty sure
 to come out of the estate at last, both sides went at it in a lively
@@ -155,14 +155,14 @@ and spirited manner, and expense was no consideration. Then, he launched
 into a general eulogium on the Commons. What was to be particularly
 admired (he said) in the Commons, was its compactness. It was the most
 conveniently organized place in the world. It was the complete idea of
-snugness. It lay in a nutshell. For example: You brought a divorce case,
+snugness. It lay in a nutshell. For example: You brought a [[divorce]] case,
 or a restitution case, into the Consistory. Very good. You tried it in
 the Consistory. You made a quiet little round game of it, among a family
 group, and you played it out at leisure. Suppose you were not satisfied
 with the Consistory, what did you do then? Why, you went into the
-Arches. What was the Arches? The same court, in the same room, with the
+Arches. What was the Arches? The same [[Court|court]], in the same room, with the
 same bar, and the same practitioners, but another judge, for there the
-Consistory judge could plead any court-day as an advocate. Well, you
+Consistory judge could plead any [[Court|court]]-day as an advocate. [[Well]], you
 played your round game out again. Still you were not satisfied. Very
 good. What did you do then? Why, you went to the Delegates. Who were the
 Delegates? Why, the Ecclesiastical Delegates were the advocates without
@@ -190,20 +190,20 @@ old friend the bushel brought in by the head and shoulders (as he always
 is, I observe), I give up a subject for lost.
 
 This is a digression. I was not the man to touch the Commons, and
-bring down the country. I submissively expressed, by my silence, my
+bring down the country. I submissively expressed, by my [[Silence|silence]], my
 acquiescence in all I had heard from my superior in years and knowledge;
 and we talked about The Stranger and the Drama, and the pairs of horses,
 until we came to Mr. Spenlow’s gate.
 
-There was a lovely garden to Mr. Spenlow’s house; and though that was
-not the best time of the year for seeing a garden, it was so beautifully
+There was a lovely [[Garden|garden]] to Mr. Spenlow’s [[house]]; and though that was
+not the best [[Time|time]] of the year for seeing a [[Garden|garden]], it was so beautifully
 kept, that I was quite enchanted. There was a charming lawn, there were
 clusters of trees, and there were perspective walks that I could just
 distinguish in the dark, arched over with trellis-work, on which shrubs
-and flowers grew in the growing season. ‘Here Miss Spenlow walks by
+and [[Flowers|flowers]] grew in the growing season. ‘Here Miss Spenlow walks by
 herself,’ I thought. ‘Dear me!’
 
-We went into the house, which was cheerfully lighted up, and into a hall
+We went into the [[house]], which was cheerfully lighted up, and into a hall
 where there were all sorts of hats, caps, great-coats, plaids, gloves,
 whips, and walking-sticks. ‘Where is Miss Dora?’ said Mr. Spenlow to the
 servant. ‘Dora!’ I thought. ‘What a beautiful name!’
@@ -211,27 +211,27 @@ servant. ‘Dora!’ I thought. ‘What a beautiful name!’
 We turned into a room near at hand (I think it was the identical
 breakfast-room, made memorable by the brown East Indian sherry), and I
 heard a voice say, ‘Mr. Copperfield, my daughter Dora, and my daughter
-Dora’s confidential friend!’ It was, no doubt, Mr. Spenlow’s voice,
+Dora’s confidential friend!’ It was, no [[Doubt|doubt]], Mr. Spenlow’s voice,
 but I didn’t know it, and I didn’t care whose it was. All was over in a
 moment. I had fulfilled my destiny. I was a captive and a slave. I loved
-Dora Spenlow to distraction!
+[[Dora Spenlow]] to distraction!
 
 She was more than human to me. She was a Fairy, a Sylph, I don’t
 know what she was--anything that no one ever saw, and everything that
-everybody ever wanted. I was swallowed up in an abyss of love in an
+everybody ever wanted. I was swallowed up in an abyss of [[Love|love]] in an
 instant. There was no pausing on the brink; no looking down, or looking
 back; I was gone, headlong, before I had sense to say a word to her.
 
-‘I,’ observed a well-remembered voice, when I had bowed and murmured
+‘I,’ observed a [[Well|well]]-remembered voice, when I had bowed and murmured
 something, ‘have seen Mr. Copperfield before.’
 
 The speaker was not Dora. No; the confidential friend, Miss Murdstone!
 
 I don’t think I was much astonished. To the best of my judgement,
 no capacity of astonishment was left in me. There was nothing worth
-mentioning in the material world, but Dora Spenlow, to be astonished
-about. I said, ‘How do you do, Miss Murdstone? I hope you are well.’ She
-answered, ‘Very well.’ I said, ‘How is Mr. Murdstone?’ She replied, ‘My
+mentioning in the material world, but [[Dora Spenlow]], to be astonished
+about. I said, ‘How do you do, Miss Murdstone? I [[Hope|hope]] you are [[Well|well]].’ She
+answered, ‘Very [[Well|well]].’ I said, ‘How is Mr. Murdstone?’ She replied, ‘My
 brother is robust, I am obliged to you.’
 
 Mr. Spenlow, who, I suppose, had been surprised to see us recognize each
@@ -261,9 +261,9 @@ that she was not very much inclined to be particularly confidential to
 her companion and protector, when a bell rang, which Mr. Spenlow said
 was the first dinner-bell, and so carried me off to dress.
 
-The idea of dressing one’s self, or doing anything in the way of action,
-in that state of love, was a little too ridiculous. I could only sit
-down before my fire, biting the key of my carpet-bag, and think of the
+The idea of dressing one’s [[Self|self]], or doing anything in the way of action,
+in that state of [[Love|love]], was a little too ridiculous. I could only sit
+down before my [[Fire|fire]], biting the key of my carpet-bag, and think of the
 captivating, girlish, bright-eyed lovely Dora. What a form she had, what
 a face she had, what a graceful, variable, enchanting manner!
 
@@ -287,7 +287,7 @@ what we had for dinner, besides Dora. My impression is, that I dined off
 Dora, entirely, and sent away half-a-dozen plates untouched. I sat next
 to her. I talked to her. She had the most delightful little voice, the
 gayest little laugh, the pleasantest and most fascinating little
-ways, that ever led a lost youth into hopeless slavery. She was rather
+ways, that ever led a lost youth into hopeless [[Slavery|slavery]]. She was rather
 diminutive altogether. So much the more precious, I thought.
 
 When she went out of the room with Miss Murdstone (no other ladies
@@ -296,24 +296,24 @@ apprehension that Miss Murdstone would disparage me to her. The amiable
 creature with the polished head told me a long story, which I think was
 about gardening. I think I heard him say, ‘my gardener’, several times.
 I seemed to pay the deepest attention to him, but I was wandering in a
-garden of Eden all the while, with Dora.
+[[Garden|garden]] of Eden all the while, with Dora.
 
 My apprehensions of being disparaged to the object of my engrossing
 affection were revived when we went into the drawing-room, by the grim
 and distant aspect of Miss Murdstone. But I was relieved of them in an
 unexpected manner.
 
-‘David Copperfield,’ said Miss Murdstone, beckoning me aside into a
-window. ‘A word.’
+‘[[David Copperfield]],’ said Miss Murdstone, beckoning me aside into a
+[[Window|window]]. ‘A word.’
 
-I confronted Miss Murdstone alone.
+I confronted Miss Murdstone [[Alone|alone]].
 
-‘David Copperfield,’ said Miss Murdstone, ‘I need not enlarge upon
+‘[[David Copperfield]],’ said Miss Murdstone, ‘I need not enlarge upon
 family circumstances. They are not a tempting subject.’ ‘Far from it,
 ma’am,’ I returned.
 
 ‘Far from it,’ assented Miss Murdstone. ‘I do not wish to revive
-the memory of past differences, or of past outrages. I have received
+the [[Memory|memory]] of past differences, or of past outrages. I have received
 outrages from a person--a female I am sorry to say, for the credit of my
 sex--who is not to be mentioned without scorn and disgust; and therefore
 I would rather not mention her.’
@@ -326,8 +326,8 @@ a decided tone.
 Miss Murdstone shut her eyes, and disdainfully inclined her head; then,
 slowly opening her eyes, resumed:
 
-‘David Copperfield, I shall not attempt to disguise the fact, that I
-formed an unfavourable opinion of you in your childhood. It may have
+‘[[David Copperfield]], I shall not attempt to disguise the fact, that I
+formed an unfavourable opinion of you in your [[Childhood|childhood]]. It may have
 been a mistaken one, or you may have ceased to justify it. That is not
 in question between us now. I belong to a family remarkable, I believe,
 for some firmness; and I am not the creature of circumstance or change.
@@ -337,7 +337,7 @@ I inclined my head, in my turn.
 
 ‘But it is not necessary,’ said Miss Murdstone, ‘that these opinions
 should come into collision here. Under existing circumstances, it is as
-well on all accounts that they should not. As the chances of life have
+[[Well|well]] on all accounts that they should not. As the chances of life have
 brought us together again, and may bring us together on other occasions,
 I would say, let us meet here as distant acquaintances. Family
 circumstances are a sufficient reason for our only meeting on that
@@ -354,17 +354,17 @@ touching the back of my hand with the tips of her cold, stiff fingers,
 she walked away, arranging the little fetters on her wrists and round
 her neck; which seemed to be the same set, in exactly the same state,
 as when I had seen her last. These reminded me, in reference to Miss
-Murdstone’s nature, of the fetters over a jail door; suggesting on the
+Murdstone’s [[Nature|nature]], of the fetters over a jail door; suggesting on the
 outside, to all beholders, what was to be expected within.
 
 All I know of the rest of the evening is, that I heard the empress of
 my heart sing enchanted ballads in the French language, generally to the
-effect that, whatever was the matter, we ought always to dance, Ta ra
+effect that, whatever was the matter, we ought always to [[Dance|dance]], Ta ra
 la, Ta ra la! accompanying herself on a glorified instrument, resembling
 a guitar. That I was lost in blissful delirium. That I refused
-refreshment. That my soul recoiled from punch particularly. That when
+refreshment. That my [[Soul|soul]] recoiled from punch particularly. That when
 Miss Murdstone took her into custody and led her away, she smiled and
-gave me her delicious hand. That I caught a view of myself in a mirror,
+gave me her delicious hand. That I caught a view of myself in a [[Mirror|mirror]],
 looking perfectly imbecile and idiotic. That I retired to bed in a most
 maudlin state of mind, and got up in a crisis of feeble infatuation.
 
@@ -376,14 +376,14 @@ tenderly, for I loved even him; but he showed his whole set of teeth,
 got under a chair expressly to snarl, and wouldn’t hear of the least
 familiarity.
 
-The garden was cool and solitary. I walked about, wondering what my
+The [[Garden|garden]] was cool and solitary. I walked about, wondering what my
 feelings of happiness would be, if I could ever become engaged to this
-dear wonder. As to marriage, and fortune, and all that, I believe I was
+dear [[Wonder|wonder]]. As to [[Marriage|marriage]], and fortune, and all that, I believe I was
 almost as innocently undesigning then, as when I loved little Em’ly. To
 be allowed to call her ‘Dora’, to write to her, to dote upon and worship
 her, to have reason to think that when she was with other people she was
-yet mindful of me, seemed to me the summit of human ambition--I am
-sure it was the summit of mine. There is no doubt whatever that I was
+yet mindful of me, seemed to me the summit of human [[Ambition|ambition]]--I am
+sure it was the summit of mine. There is no [[Doubt|doubt]] whatever that I was
 a lackadaisical young spooney; but there was a purity of heart in all
 this, that prevents my having quite a contemptuous recollection of it,
 let me laugh as I may.
@@ -394,12 +394,12 @@ my pen shakes in my hand.
 
 ‘You--are--out early, Miss Spenlow,’ said I.
 
-‘It’s so stupid at home,’ she replied, ‘and Miss Murdstone is so absurd!
+‘It’s so stupid at [[Home|home]],’ she replied, ‘and Miss Murdstone is so absurd!
 She talks such nonsense about its being necessary for the day to be
 aired, before I come out. Aired!’ (She laughed, here, in the most
-melodious manner.) ‘On a Sunday morning, when I don’t practise, I must
-do something. So I told papa last night I must come out. Besides, it’s
-the brightest time of the whole day. Don’t you think so?’
+melodious manner.) ‘On a [[Sunday]] morning, when I don’t practise, I must
+do something. So I told papa last [[Night|night]] I must come out. Besides, it’s
+the brightest [[Time|time]] of the whole day. Don’t you think so?’
 
 I hazarded a bold flight, and said (not without stammering) that it
 was very bright to me then, though it had been very dark to me a minute
@@ -409,27 +409,27 @@ before.
 changed?’
 
 I stammered worse than before, in replying that I meant no compliment,
-but the plain truth; though I was not aware of any change having taken
+but the plain [[Truth|truth]]; though I was not aware of any change having taken
 place in the weather. It was in the state of my own feelings, I added
 bashfully: to clench the explanation.
 
 I never saw such curls--how could I, for there never were such
 curls!--as those she shook out to hide her blushes. As to the straw hat
 and blue ribbons which was on the top of the curls, if I could only have
-hung it up in my room in Buckingham Street, what a priceless possession
+hung it up in my room in [[Buckingham]] Street, what a priceless possession
 it would have been!
 
-‘You have just come home from Paris,’ said I.
+‘You have just come [[Home|home]] from [[Paris]],’ said I.
 
 ‘Yes,’ said she. ‘Have you ever been there?’
 
 ‘No.’
 
-‘Oh! I hope you’ll go soon! You would like it so much!’
+‘Oh! I [[Hope|hope]] you’ll go soon! You would like it so much!’
 
 Traces of deep-seated anguish appeared in my countenance. That she
-should hope I would go, that she should think it possible I could go,
-was insupportable. I depreciated Paris; I depreciated France. I said I
+should [[Hope|hope]] I would go, that she should think it possible I could go,
+was insupportable. I depreciated [[Paris]]; I depreciated France. I said I
 wouldn’t leave England, under existing circumstances, for any earthly
 consideration. Nothing should induce me. In short, she was shaking the
 curls again, when the little dog came running along the walk to our
@@ -441,7 +441,7 @@ upon barking still. He wouldn’t let me touch him, when I tried; and then
 she beat him. It increased my sufferings greatly to see the pats she
 gave him for punishment on the bridge of his blunt nose, while he winked
 his eyes, and licked her hand, and still growled within himself like a
-little double-bass. At length he was quiet--well he might be with her
+little [[Double|double]]-bass. At length he was quiet--[[Well|well]] he might be with her
 dimpled chin upon his head!--and we walked away to look at a greenhouse.
 
 ‘You are not very intimate with Miss Murdstone, are you?’ said Dora.
@@ -460,7 +460,7 @@ Jip, dear?’
 He only winked lazily, when she kissed his ball of a head.
 
 ‘Papa calls her my confidential friend, but I am sure she is no such
-thing--is she, Jip? We are not going to confide in any such cross
+thing--is she, Jip? We are not going to confide in any such [[Cross|cross]]
 people, Jip and I. We mean to bestow our confidence where we like,
 and to find out our own friends, instead of having them found out for
 us--don’t we, Jip?’
@@ -483,12 +483,12 @@ the greenhouse was not far off, and these words brought us to it.
 It contained quite a show of beautiful geraniums. We loitered along in
 front of them, and Dora often stopped to admire this one or that one,
 and I stopped to admire the same one, and Dora, laughing, held the dog
-up childishly, to smell the flowers; and if we were not all three in
+up childishly, to smell the [[Flowers|flowers]]; and if we were not all three in
 Fairyland, certainly I was. The scent of a geranium leaf, at this day,
-strikes me with a half comical half serious wonder as to what change has
+strikes me with a half comical half serious [[Wonder|wonder]] as to what change has
 come over me in a moment; and then I see a straw hat and blue ribbons,
 and a quantity of curls, and a little black dog being held up, in two
-slender arms, against a bank of blossoms and bright leaves.
+slender arms, against a bank of blossoms and bright [[Leaves|leaves]].
 
 Miss Murdstone had been looking for us. She found us here; and presented
 her uncongenial cheek, the little wrinkles in it filled with hair
@@ -509,39 +509,39 @@ before her, and her eye upon us, keeping guard vigilantly. Ah! little
 did Mr. Spenlow imagine, when he sat opposite to me after dinner that
 day, with his pocket-handkerchief over his head, how fervently I was
 embracing him, in my fancy, as his son-in-law! Little did he think, when
-I took leave of him at night, that he had just given his full consent to
+I took leave of him at [[Night|night]], that he had just given his full consent to
 my being engaged to Dora, and that I was invoking blessings on his head!
 
 We departed early in the morning, for we had a Salvage case coming on in
-the Admiralty Court, requiring a rather accurate knowledge of the whole
+the Admiralty [[Court]], requiring a rather accurate knowledge of the whole
 science of navigation, in which (as we couldn’t be expected to know
 much about those matters in the Commons) the judge had entreated two old
-Trinity Masters, for charity’s sake, to come and help him out. Dora was
+Trinity Masters, for [[Charity|charity]]’s sake, to come and help him out. Dora was
 at the breakfast-table to make the tea again, however; and I had the
-melancholy pleasure of taking off my hat to her in the phaeton, as she
+[[Melancholy|melancholy]] pleasure of taking off my hat to her in the phaeton, as she
 stood on the door-step with Jip in her arms.
 
 What the Admiralty was to me that day; what nonsense I made of our case
 in my mind, as I listened to it; how I saw ‘DORA’ engraved upon the
 blade of the silver oar which they lay upon the table, as the emblem
-of that high jurisdiction; and how I felt when Mr. Spenlow went home
-without me (I had had an insane hope that he might take me back again),
-as if I were a mariner myself, and the ship to which I belonged had
-sailed away and left me on a desert island; I shall make no fruitless
-effort to describe. If that sleepy old court could rouse itself, and
+of that high jurisdiction; and how I felt when Mr. Spenlow went [[Home|home]]
+without me (I had had an insane [[Hope|hope]] that he might take me back again),
+as if I were a mariner myself, and the [[Ship|ship]] to which I belonged had
+sailed away and left me on a [[Desert|desert]] island; I shall make no fruitless
+effort to describe. If that sleepy old [[Court|court]] could rouse itself, and
 present in any visible form the daydreams I have had in it about Dora,
-it would reveal my truth.
+it would reveal my [[Truth|truth]].
 
-I don’t mean the dreams that I dreamed on that day alone, but day after
+I don’t mean the [[Dreams|dreams]] that I dreamed on that day [[Alone|alone]], but day after
 day, from week to week, and term to term. I went there, not to attend to
 what was going on, but to think about Dora. If ever I bestowed a thought
 upon the cases, as they dragged their slow length before me, it was only
-to wonder, in the matrimonial cases (remembering Dora), how it was
+to [[Wonder|wonder]], in the matrimonial cases (remembering Dora), how it was
 that married people could ever be otherwise than happy; and, in the
 Prerogative cases, to consider, if the money in question had been left
 to me, what were the foremost steps I should immediately have taken
 in regard to Dora. Within the first week of my passion, I bought four
-sumptuous waistcoats--not for myself; I had no pride in them; for
+sumptuous waistcoats--not for myself; I had no [[Pride|pride]] in them; for
 Dora--and took to wearing straw-coloured kid gloves in the streets, and
 laid the foundations of all the corns I have ever had. If the boots I
 wore at that period could only be produced and compared with the natural
@@ -549,24 +549,24 @@ size of my feet, they would show what the state of my heart was, in a
 most affecting manner.
 
 And yet, wretched cripple as I made myself by this act of homage to
-Dora, I walked miles upon miles daily in the hope of seeing her. Not
-only was I soon as well known on the Norwood Road as the postmen on that
-beat, but I pervaded London likewise. I walked about the streets where
+Dora, I walked miles upon miles daily in the [[Hope|hope]] of seeing her. Not
+only was I soon as [[Well|well]] known on the Norwood [[Road]] as the postmen on that
+beat, but I pervaded [[London]] likewise. I walked about the streets where
 the best shops for ladies were, I haunted the Bazaar like an unquiet
 spirit, I fagged through the Park again and again, long after I was
 quite knocked up. Sometimes, at long intervals and on rare occasions, I
-saw her. Perhaps I saw her glove waved in a carriage window; perhaps I
+saw her. Perhaps I saw her glove waved in a carriage [[Window|window]]; perhaps I
 met her, walked with her and Miss Murdstone a little way, and spoke to
 her. In the latter case I was always very miserable afterwards, to think
 that I had said nothing to the purpose; or that she had no idea of the
 extent of my devotion, or that she cared nothing about me. I was always
 looking out, as may be supposed, for another invitation to Mr. Spenlow’s
-house. I was always being disappointed, for I got none.
+[[house]]. I was always being disappointed, for I got none.
 
 Mrs. Crupp must have been a woman of penetration; for when this
-attachment was but a few weeks old, and I had not had the courage
+attachment was but a few weeks old, and I had not had the [[Courage|courage]]
 to write more explicitly even to Agnes, than that I had been to Mr.
-Spenlow’s house, ‘whose family,’ I added, ‘consists of one daughter’;--I
+Spenlow’s [[house]], ‘whose family,’ I added, ‘consists of one daughter’;--I
 say Mrs. Crupp must have been a woman of penetration, for, even in that
 early stage, she found it out. She came up to me one evening, when I
 was very low, to ask (she being then afflicted with the disorder I have
@@ -596,7 +596,7 @@ encouragement. ‘Never say die, sir! If She don’t smile upon you,
 there’s a many as will. You are a young gentleman to be smiled on, Mr.
 Copperfull, and you must learn your walue, sir.’
 
-Mrs. Crupp always called me Mr. Copperfull: firstly, no doubt, because
+Mrs. Crupp always called me Mr. Copperfull: firstly, no [[Doubt|doubt]], because
 it was not my name; and secondly, I am inclined to think, in some
 indistinct association with a washing-day.
 
@@ -606,8 +606,8 @@ Crupp?’ said I.
 ‘Mr. Copperfull,’ said Mrs. Crupp, with a great deal of feeling, ‘I’m a
 mother myself.’
 
-For some time Mrs. Crupp could only lay her hand upon her nankeen bosom,
-and fortify herself against returning pain with sips of her medicine. At
+For some [[Time|time]] Mrs. Crupp could only lay her hand upon her nankeen bosom,
+and fortify herself against returning [[Pain|pain]] with sips of her medicine. At
 length she spoke again.
 
 ‘When the present set were took for you by your dear aunt, Mr.
@@ -629,7 +629,7 @@ Mrs. Crupp shook her head in such a determined manner, that I had not an
 inch of vantage-ground left.
 
 ‘It was but the gentleman which died here before yourself,’ said Mrs.
-Crupp, ‘that fell in love--with a barmaid--and had his waistcoats took
+Crupp, ‘that fell in [[Love|love]]--with a barmaid--and had his waistcoats took
 in directly, though much swelled by drinking.’
 
 ‘Mrs. Crupp,’ said I, ‘I must beg you not to connect the young lady in
@@ -647,6 +647,6 @@ With these words, Mrs. Crupp, affecting to be very careful of the
 brandy--which was all gone--thanked me with a majestic curtsey, and
 retired. As her figure disappeared into the gloom of the entry, this
 counsel certainly presented itself to my mind in the light of a slight
-liberty on Mrs. Crupp’s part; but, at the same time, I was content
+liberty on Mrs. Crupp’s part; but, at the same [[Time|time]], I was content
 to receive it, in another point of view, as a word to the wise, and a
 warning in future to keep my secret better.

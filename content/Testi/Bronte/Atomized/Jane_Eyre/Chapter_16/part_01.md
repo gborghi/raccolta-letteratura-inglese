@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 16 (part 1)"
+title: "[[Jane Eyre]] — Chapter 16 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -18,7 +18,7 @@ CHAPTER XVI
 
 
 I both wished and feared to see Mr. Rochester on the day which followed
-this sleepless night: I wanted to hear his voice again, yet feared to
+this sleepless [[Night|night]]: I wanted to hear his voice again, yet feared to
 meet his eye. During the early part of the morning, I momentarily
 expected his coming; he was not in the frequent habit of entering the
 schoolroom, but he did step in for a few minutes sometimes, and I had
@@ -28,17 +28,17 @@ But the morning passed just as usual: nothing happened to interrupt the
 quiet course of Adèle’s studies; only soon after breakfast, I heard
 some bustle in the neighbourhood of Mr. Rochester’s chamber, Mrs.
 Fairfax’s voice, and Leah’s, and the cook’s—that is, John’s wife—and
-even John’s own gruff tones. There were exclamations of “What a mercy
+even John’s own gruff tones. There were exclamations of “What a [[Mercy|mercy]]
 master was not burnt in his bed!” “It is always dangerous to keep a
-candle lit at night.” “How providential that he had presence of mind to
-think of the water-jug!” “I wonder he waked nobody!” “It is to be hoped
+candle lit at [[Night|night]].” “How providential that he had presence of mind to
+think of the [[Water|water]]-jug!” “I [[Wonder|wonder]] he waked nobody!” “It is to be hoped
 he will not take cold with sleeping on the library sofa,” &c.
 
 To much confabulation succeeded a sound of scrubbing and setting to
 rights; and when I passed the room, in going downstairs to dinner, I
 saw through the open door that all was again restored to complete
 order; only the bed was stripped of its hangings. Leah stood up in the
-window-seat, rubbing the panes of glass dimmed with smoke. I was about
+[[Window|window]]-seat, rubbing the panes of glass dimmed with smoke. I was about
 to address her, for I wished to know what account had been given of the
 affair: but, on advancing, I saw a second person in the chamber—a woman
 sitting on a chair by the bedside, and sewing rings to new curtains.
@@ -50,11 +50,11 @@ her work, in which her whole thoughts seemed absorbed: on her hard
 forehead, and in her commonplace features, was nothing either of the
 paleness or desperation one would have expected to see marking the
 countenance of a woman who had attempted murder, and whose intended
-victim had followed her last night to her lair, and (as I believed),
+victim had followed her last [[Night|night]] to her lair, and (as I believed),
 charged her with the crime she wished to perpetrate. I was
 amazed—confounded. She looked up, while I still gazed at her: no start,
 no increase or failure of colour betrayed emotion, consciousness of
-guilt, or fear of detection. She said “Good morning, Miss,” in her
+[[Guilt|guilt]], or [[Fear|fear]] of detection. She said “Good morning, Miss,” in her
 usual phlegmatic and brief manner; and taking up another ring and more
 tape, went on with her sewing.
 
@@ -64,22 +64,22 @@ impenetrability is past comprehension.”
 “Good morning, Grace,” I said. “Has anything happened here? I thought I
 heard the servants all talking together a while ago.”
 
-“Only master had been reading in his bed last night; he fell asleep
-with his candle lit, and the curtains got on fire; but, fortunately, he
+“Only master had been reading in his bed last [[Night|night]]; he fell asleep
+with his candle lit, and the curtains got on [[Fire|fire]]; but, fortunately, he
 awoke before the bed-clothes or the wood-work caught, and contrived to
-quench the flames with the water in the ewer.”
+quench the flames with the [[Water|water]] in the ewer.”
 
 “A strange affair!” I said, in a low voice: then, looking at her
 fixedly—“Did Mr. Rochester wake nobody? Did no one hear him move?”
 
-She again raised her eyes to me, and this time there was something of
+She again raised her eyes to me, and this [[Time|time]] there was something of
 consciousness in their expression. She seemed to examine me warily;
 then she answered—
 
-“The servants sleep so far off, you know, Miss, they would not be
+“The servants [[Sleep|sleep]] so far off, you know, Miss, they would not be
 likely to hear. Mrs. Fairfax’s room and yours are the nearest to
 master’s; but Mrs. Fairfax said she heard nothing: when people get
-elderly, they often sleep heavy.” She paused, and then added, with a
+elderly, they often [[Sleep|sleep]] heavy.” She paused, and then added, with a
 sort of assumed indifference, but still in a marked and significant
 tone—“But you are young, Miss; and I should say a light sleeper:
 perhaps you may have heard a noise?”
@@ -106,14 +106,14 @@ conscious eye.
 “You did not think of opening your door and looking out into the
 gallery?” she further asked.
 
-She appeared to be cross-questioning me, attempting to draw from me
+She appeared to be [[Cross|cross]]-questioning me, attempting to draw from me
 information unawares. The idea struck me that if she discovered I knew
-or suspected her guilt, she would be playing of some of her malignant
+or suspected her [[Guilt|guilt]], she would be playing of some of her malignant
 pranks on me; I thought it advisable to be on my guard.
 
 “On the contrary,” said I, “I bolted my door.”
 
-“Then you are not in the habit of bolting your door every night before
+“Then you are not in the habit of bolting your door every [[Night|night]] before
 you get into bed?”
 
 “Fiend! she wants to know my habits, that she may lay her plans
@@ -126,14 +126,14 @@ to lie down.”
 
 “It will be wise so to do,” was her answer: “this neighbourhood is as
 quiet as any I know, and I never heard of the hall being attempted by
-robbers since it was a house; though there are hundreds of pounds’
-worth of plate in the plate-closet, as is well known. And you see, for
-such a large house, there are very few servants, because master has
+robbers since it was a [[house]]; though there are hundreds of pounds’
+worth of plate in the plate-closet, as is [[Well|well]] known. And you see, for
+such a large [[house]], there are very few servants, because master has
 never lived here much; and when he does come, being a bachelor, he
 needs little waiting on: but I always think it best to err on the safe
-side; a door is soon fastened, and it is as well to have a drawn bolt
+side; a door is soon fastened, and it is as [[Well|well]] to have a drawn bolt
 between one and any mischief that may be about. A deal of people, Miss,
-are for trusting all to Providence; but I say Providence will not
+are for trusting all to [[Providence]]; but I say [[Providence]] will not
 dispense with the means, though He often blesses them when they are
 used discreetly.” And here she closed her harangue: a long one for her,
 and uttered with the demureness of a Quakeress.

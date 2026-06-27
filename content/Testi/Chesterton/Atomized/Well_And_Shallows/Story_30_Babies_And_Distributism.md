@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — Babies And Distributism"
+title: "[[Well]] And Shallows — Babies And [[Distributism]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Well-And-Shallows-(Chesterton)"
@@ -14,16 +14,16 @@ tags:
 </nav>
 
 
-BABIES AND DISTRIBUTISM
+BABIES AND [[Distributism|DISTRIBUTISM]]
 
-I HOPE it is not a secret arrogance to say that I do not think I am
+I [[Hope|HOPE]] it is not a secret arrogance to say that I do not think I am
 exceptionally arrogant; or if I were, my religion would prevent me from
-being proud of my pride.  Nevertheless, for those of such a philosophy,
-there is a very terrible temptation to intellectual pride, in the welter
+being proud of my [[Pride|pride]].  Nevertheless, for those of such a [[philosophy]],
+there is a very terrible [[Temptation|temptation]] to intellectual [[Pride|pride]], in the welter
 of wordy and worthless philosophies that surround us to-day. Yet there
 are not many things that move me to anything like a personal contempt.
 I do not feel any contempt for an atheist, who is often a man oflimited
-and constrained by his own logic to a very sad simplification.
+and constrained by his own [[logic]] to a very sad simplification.
 I do not feel any contempt for a Bolshevist, who is a man driven to the
 same-negative simplification by a revolt against very positive wrongs.
 But there is one type of person for whom I feel what I can only
@@ -37,13 +37,13 @@ at first recoil from its real meaning.  The proceeding
 these quack doctors recommend does not control any birth.
 It only makes sure that there shall never be any birth to control.
 It cannot, for instance, determine sex, or even make any
-selection in the style of the pseudo-science of Eugenics.
+selection in the style of the pseudo-science of [[Eugenics]].
 Normal people can only act so as to produce birth;
 and these people can only act so as to prevent birth.
-But these people know perfectly well that they dare not write
+But these people know perfectly [[Well|well]] that they dare not write
 the plain word Birth-Prevention, in any one of the hundred
 places where they write the hypocritical word Birth-Control.
-They know as well as I do that the very word Birth-Prevention
+They know as [[Well|well]] as I do that the very word Birth-Prevention
 would strike a chill into the public, the instant it was
 blazoned on headlines, or proclaimed on platforms, or scattered
 in advertisements like any other quack medicine.  They dare not
@@ -53,14 +53,14 @@ which may make the quack medicine sound more innocuous.
 
 Second, I despise Birth-Control because it is a weak and wobbly
 and cowardly thing.  It is not even a step along the muddy
-road they call Eugenics; it is a flat refusal to take
-the first and most obvious step along the road of Eugenics.
-Once grant that their philosophy is right, and their course
+[[Road|road]] they call [[Eugenics]]; it is a flat refusal to take
+the first and most obvious step along the [[Road|road]] of [[Eugenics]].
+Once grant that their [[philosophy]] is right, and their course
 of action is obvious; and they dare not take it; they dare
 not even declare it.  If there is no authority in things
 which Christendom has called moral, because their origins
 were mystical, then they are clearly free to ignore all difference
-between animals and men; and treat men as we treat animals.
+between [[Animals|animals]] and men; and treat men as we treat [[Animals|animals]].
 They need not palter with the stale and timid compromise and
 convention called Birth-Control. Nobody applies it to the cat.
 The obvious course for Eugenists is to act towards babies as they
@@ -68,7 +68,7 @@ act towards kittens.  Let all the babies be born and then let us
 drown those we do not like.  I cannot see any objection to it;
 except the moral or mystical sort of objection that we advance
 against Birth-Prevention. And that would be real and even
-reasonable Eugenics; for we could then select the best, or at
+reasonable [[Eugenics]]; for we could then select the best, or at
 least the healthiest, and sacrifice what are called the unfit.
 By the weak compromise of Birth-Prevention, we are very
 probably sacrificing the fit and only producing the unfit.
@@ -93,10 +93,10 @@ or a loud-speaker. What makes me want to walk over such
 people like doormats is that they use the word "free."
 By every act of that sort they chain themselves to the most
 servile and mechanical system yet tolerated by men.
-The cinema is a machine for unrolling certain regular patterns
+The cinema is a [[Machine|machine]] for unrolling certain regular patterns
 called pictures; expressing the most vulgar millionaires'
 notion of the taste of the most vulgar millions.
-The gramophone is a machine for recording such tunes
+The gramophone is a [[Machine|machine]] for recording such tunes
 as certain shops and other organisations choose to sell.
 The wireless is better; but even that is marked by the modern
 mark of all three; the impotence of the receptive party.
@@ -106,7 +106,7 @@ the mob cannot pelt the modern speaker, especially when he is
 a loud-speaker. It is all a central mechanism giving out to men
 exactly what their masters think they should have.
 
-Now a child is the very sign and sacrament of personal freedom.
+Now a [[Child|child]] is the very sign and sacrament of personal [[Freedom|freedom]].
 He is a fresh free will added to the wills of the world;
 he is something that his parents have freely chosen to produce
 and which they freely agree to protect.  They can feel
@@ -125,7 +125,7 @@ the very dregs of life to the first fountains of life.
 They are preferring the last, crooked, indirect, borrowed,
 repeated and exhausted things of our dying Capitalist civilisation,
 to the reality which is the only rejuvenation of all civilisation.
-It is they who are hugging the chains of their old slavery;
-it is the child who is ready for the new world.
+It is they who are hugging the [[Chains|chains]] of their old [[Slavery|slavery]];
+it is the [[Child|child]] who is ready for the new world.
 
 -/-

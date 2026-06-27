@@ -38,7 +38,7 @@ not believe—”
 
 A haughty smile gave him reason to observe that he might repeat this.
 
-“I say, which I did not believe,—the time was likely to come, when such
+“I say, which I did not believe,—the [[Time|time]] was likely to come, when such
 an understanding as we have now arrived at, would be serviceable.”
 
 “Serviceable to whom, Sir?” she demanded scornfully.
@@ -54,13 +54,13 @@ commendation,’ and to speak in that tone of disparagement, even of him:
 being his chief counsellor and flatterer!”
 
 “Counsellor,—yes,” said Carker. “Flatterer,—no. A little reservation I
-fear I must confess to. But our interest and convenience commonly
+[[Fear|fear]] I must confess to. But our interest and convenience commonly
 oblige many of us to make professions that we cannot feel. We have
 partnerships of interest and convenience, friendships of interest and
 convenience, dealings of interest and convenience, marriages of
 interest and convenience, every day.”
 
-She bit her blood-red lip; but without wavering in the dark, stern
+She bit her [[Blood|blood]]-red lip; but without wavering in the dark, stern
 watch she kept upon him.
 
 “Madam,” said Mr Carker, sitting down in a chair that was near her,
@@ -82,7 +82,7 @@ possible to live with Mr Dombey as his wife, at once without submitting
 to him, and without coming into such violent collision with him. But,
 Madam, you did not know Mr Dombey (as you have since ascertained), when
 you thought that. You did not know how exacting and how proud he is, or
-how he is, if I may say so, the slave of his own greatness, and goes
+how he is, if I may say so, the slave of his own [[Greatness|greatness]], and goes
 yoked to his own triumphal car like a beast of burden, with no idea on
 earth but that it is behind him and is to be drawn on, over everything
 and through everything.”
@@ -121,7 +121,7 @@ would not have been about him; and it has always been, from the
 beginning, the very staple of his life. Mr Dombey has had to deal, in
 short, with none but submissive and dependent persons, who have bowed
 the knee, and bent the neck, before him. He has never known what it is
-to have angry pride and strong resentment opposed to him.”
+to have angry [[Pride|pride]] and strong resentment opposed to him.”
 
 “But he will know it now!” she seemed to say; though her lips did not
 part, nor her eyes falter. He saw the soft down tremble once again, and
@@ -135,5 +135,5 @@ consequence of the warp in his mind, that he—can I give a better
 instance than this!—he sincerely believes (you will excuse the folly of
 what I am about to say; it not being mine) that his severe expression
 of opinion to his present wife, on a certain special occasion she may
-remember, before the lamented death of Mrs Skewton, produced a
+remember, before the lamented [[Death|death]] of Mrs Skewton, produced a
 withering effect, and for the moment quite subdued her!”

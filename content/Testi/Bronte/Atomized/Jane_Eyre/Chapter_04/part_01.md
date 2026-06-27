@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 4 (part 1)"
+title: "[[Jane Eyre]] — Chapter 4 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -18,15 +18,15 @@ CHAPTER IV
 
 
 From my discourse with Mr. Lloyd, and from the above reported
-conference between Bessie and Abbot, I gathered enough of hope to
-suffice as a motive for wishing to get well: a change seemed near,—I
-desired and waited it in silence. It tarried, however: days and weeks
+conference between Bessie and Abbot, I gathered enough of [[Hope|hope]] to
+suffice as a motive for wishing to get [[Well|well]]: a change seemed near,—I
+desired and waited it in [[Silence|silence]]. It tarried, however: days and weeks
 passed: I had regained my normal state of health, but no new allusion
 was made to the subject over which I brooded. Mrs. Reed surveyed me at
 times with a severe eye, but seldom addressed me: since my illness, she
 had drawn a more marked line of separation than ever between me and her
-own children; appointing me a small closet to sleep in by myself,
-condemning me to take my meals alone, and pass all my time in the
+own children; appointing me a small closet to [[Sleep|sleep]] in by myself,
+condemning me to take my meals [[Alone|alone]], and pass all my [[Time|time]] in the
 nursery, while my cousins were constantly in the drawing-room. Not a
 hint, however, did she drop about sending me to school: still I felt an
 instinctive certainty that she would not long endure me under the same
@@ -43,7 +43,7 @@ his nose. I had indeed levelled at that prominent feature as hard a
 blow as my knuckles could inflict; and when I saw that either that or
 my look daunted him, I had the greatest inclination to follow up my
 advantage to purpose; but he was already with his mama. I heard him in
-a blubbering tone commence the tale of how “that nasty Jane Eyre” had
+a blubbering tone commence the tale of how “that nasty [[Jane Eyre]]” had
 flown at him like a mad cat: he was stopped rather harshly—
 
 “Don’t talk to me about her, John: I told you not to go near her; she
@@ -67,8 +67,8 @@ tongue pronounced words without my will consenting to their utterance:
 something spoke out of me over which I had no control.
 
 “What?” said Mrs. Reed under her breath: her usually cold composed grey
-eye became troubled with a look like fear; she took her hand from my
-arm, and gazed at me as if she really did not know whether I were child
+eye became troubled with a look like [[Fear|fear]]; she took her hand from my
+arm, and gazed at me as if she really did not know whether I were [[Child|child]]
 or fiend. I was now in for it.
 
 “My Uncle Reed is in heaven, and can see all you do and think; and so
@@ -78,7 +78,7 @@ you wish me dead.”
 Mrs. Reed soon rallied her spirits: she shook me most soundly, she
 boxed both my ears, and then left me without a word. Bessie supplied
 the hiatus by a homily of an hour’s length, in which she proved beyond
-a doubt that I was the most wicked and abandoned child ever reared
+a [[Doubt|doubt]] that I was the most wicked and abandoned [[Child|child]] ever reared
 under a roof. I half believed her; for I felt indeed only bad feelings
 surging in my breast.
 
@@ -95,7 +95,7 @@ jingling of glass and china as refreshments were handed, to the broken
 hum of conversation as the drawing-room door opened and closed. When
 tired of this occupation, I would retire from the stairhead to the
 solitary and silent nursery: there, though somewhat sad, I was not
-miserable. To speak truth, I had not the least wish to go into company,
+miserable. To speak [[Truth|truth]], I had not the least wish to go into company,
 for in company I was very rarely noticed; and if Bessie had but been
 kind and companionable, I should have deemed it a treat to spend the
 evenings quietly with her, instead of passing them under the formidable
@@ -103,26 +103,26 @@ eye of Mrs. Reed, in a room full of ladies and gentlemen. But Bessie,
 as soon as she had dressed her young ladies, used to take herself off
 to the lively regions of the kitchen and housekeeper’s room, generally
 bearing the candle along with her. I then sat with my doll on my knee
-till the fire got low, glancing round occasionally to make sure that
+till the [[Fire|fire]] got low, glancing round occasionally to make sure that
 nothing worse than myself haunted the shadowy room; and when the embers
 sank to a dull red, I undressed hastily, tugging at knots and strings
 as I best might, and sought shelter from cold and darkness in my crib.
-To this crib I always took my doll; human beings must love something,
+To this crib I always took my doll; human beings must [[Love|love]] something,
 and, in the dearth of worthier objects of affection, I contrived to
 find a pleasure in loving and cherishing a faded graven image, shabby
 as a miniature scarecrow. It puzzles me now to remember with what
 absurd sincerity I doated on this little toy, half fancying it alive
-and capable of sensation. I could not sleep unless it was folded in my
-night-gown; and when it lay there safe and warm, I was comparatively
+and capable of sensation. I could not [[Sleep|sleep]] unless it was folded in my
+[[Night|night]]-gown; and when it lay there safe and warm, I was comparatively
 happy, believing it to be happy likewise.
 
 Long did the hours seem while I waited the departure of the company,
 and listened for the sound of Bessie’s step on the stairs: sometimes
 she would come up in the interval to seek her thimble or her scissors,
 or perhaps to bring me something by way of supper—a bun or a
-cheese-cake—then she would sit on the bed while I ate it, and when I
+[[cheese]]-cake—then she would sit on the bed while I ate it, and when I
 had finished, she would tuck the clothes round me, and twice she kissed
-me, and said, “Good night, Miss Jane.” When thus gentle, Bessie seemed
+me, and said, “Good [[Night|night]], Miss Jane.” When thus gentle, Bessie seemed
 to me the best, prettiest, kindest being in the world; and I wished
 most intensely that she would always be so pleasant and amiable, and
 never push me about, or scold, or task me unreasonably, as she was too

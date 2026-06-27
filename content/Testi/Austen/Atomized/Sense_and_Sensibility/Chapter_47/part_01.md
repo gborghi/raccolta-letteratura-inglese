@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 47 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 47 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -24,19 +24,19 @@ Mrs. Dashwood did not hear unmoved the vindication of her former
 
 favourite. She rejoiced in his being cleared from some part of his
 
-imputed guilt;—she was sorry for him;—she wished him happy. But the
+imputed [[Guilt|guilt]];—she was sorry for him;—she wished him happy. But the
 
 feelings of the past could not be recalled.—Nothing could restore him
 
-with a faith unbroken—a character unblemished, to Marianne. Nothing
+with a [[Faith|faith]] unbroken—a character unblemished, to Marianne. Nothing
 
 could do away the knowledge of what the latter had suffered through his
 
-means, nor remove the guilt of his conduct towards Eliza. Nothing could
+means, nor remove the [[Guilt|guilt]] of his conduct towards Eliza. Nothing could
 
 replace him, therefore, in her former esteem, nor injure the interests
 
-of Colonel Brandon.
+of [[Colonel Brandon]].
 
 
 
@@ -56,7 +56,7 @@ had given calmness to her judgment, and sobered her own opinion of
 
 Willoughby’s deserts;—she wished, therefore, to declare only the simple
 
-truth, and lay open such facts as were really due to his character,
+[[Truth|truth]], and lay open such facts as were really due to his character,
 
 without any embellishment of tenderness to lead the fancy astray.
 
@@ -68,7 +68,7 @@ voluntarily to speak of him again;—but that it was not without an
 
 effort, the restless, unquiet thoughtfulness in which she had been for
 
-some time previously sitting—her rising colour, as she spoke,—and her
+some [[Time|time]] previously sitting—her rising colour, as she spoke,—and her
 
 unsteady voice, plainly showed.
 
@@ -76,7 +76,7 @@ unsteady voice, plainly showed.
 
 “I wish to assure you both,” said she, “that I see every thing—as you
 
-can desire me to do.”
+can [[Desire|desire]] me to do.”
 
 
 
@@ -84,7 +84,7 @@ Mrs. Dashwood would have interrupted her instantly with soothing
 
 tenderness, had not Elinor, who really wished to hear her sister’s
 
-unbiased opinion, by an eager sign, engaged her silence. Marianne
+unbiased opinion, by an eager sign, engaged her [[Silence|silence]]. Marianne
 
 slowly continued,—
 
@@ -112,9 +112,9 @@ practices!—With one who so injured the peace of the dearest of our
 
 friends, and the best of men!—No—my Marianne has not a heart to be made
 
-happy with such a man!—Her conscience, her sensitive conscience, would
+happy with such a man!—Her [[Conscience|conscience]], her sensitive [[Conscience|conscience]], would
 
-have felt all that the conscience of her husband ought to have felt.”
+have felt all that the [[Conscience|conscience]] of her husband ought to have felt.”
 
 
 
@@ -126,9 +126,9 @@ Marianne sighed, and repeated, “I wish for no change.”
 
 sound understanding must consider it; and I dare say you perceive, as
 
-well as myself, not only in this, but in many other circumstances,
+[[Well|well]] as myself, not only in this, but in many other circumstances,
 
-reason enough to be convinced that your marriage must have involved you
+reason enough to be convinced that your [[Marriage|marriage]] must have involved you
 
 in many certain troubles and disappointments, in which you would have
 
@@ -138,7 +138,7 @@ Had you married, you must have been always poor. His expensiveness is
 
 acknowledged even by himself, and his whole conduct declares that
 
-self-denial is a word hardly understood by him. His demands and your
+[[Self|self]]-denial is a word hardly understood by him. His demands and your
 
 inexperience together, on a small, very small income, must have brought
 
@@ -146,7 +146,7 @@ on distresses which would not be the _less_ grievous to you, from
 
 having been entirely unknown and unthought of before. _Your_ sense of
 
-honour and honesty would have led you, I know, when aware of your
+[[Honour|honour]] and honesty would have led you, I know, when aware of your
 
 situation, to attempt all the economy that would appear to you
 
@@ -156,7 +156,7 @@ your own comfort, you might have been suffered to practice it, but
 
 beyond that—and how little could the utmost of your single management
 
-do to stop the ruin which had begun before your marriage? Beyond
+do to stop the ruin which had begun before your [[Marriage|marriage]]? Beyond
 
 _that_, had you endeavoured, however reasonably, to abridge _his_
 
@@ -222,10 +222,10 @@ even to domestic happiness, than the mere temper of a wife.”
 
 
 
-“I have not a doubt of it,” said Marianne; “and I have nothing to
+“I have not a [[Doubt|doubt]] of it,” said Marianne; “and I have nothing to
 
 regret—nothing but my own folly.”
 
 
 
-“Rather say your mother’s imprudence, my child,” said Mrs. Dashwood;
+“Rather say your mother’s imprudence, my [[Child|child]],” said Mrs. Dashwood;

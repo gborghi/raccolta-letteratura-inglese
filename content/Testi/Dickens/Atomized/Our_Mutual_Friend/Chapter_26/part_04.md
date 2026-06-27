@@ -15,25 +15,25 @@ tags:
 
 
 The very breathing of the figure was contemptible, as it laboured and
-rattled in that operation, like a blundering clock.
+rattled in that operation, like a blundering [[Clock|clock]].
 
-‘Slave, slave, slave, from morning to night,’ pursued the person of the
-house, ‘and all for this! WHAT do you mean by it?’
+‘Slave, slave, slave, from morning to [[Night|night]],’ pursued the person of the
+[[house]], ‘and all for this! WHAT do you mean by it?’
 
 There was something in that emphasized ‘What,’ which absurdly frightened
-the figure. As often as the person of the house worked her way round to
+the figure. As often as the person of the [[house]] worked her way round to
 it—even as soon as he saw that it was coming—he collapsed in an extra
 degree.
 
 ‘I wish you had been taken up, and locked up,’ said the person of the
-house. ‘I wish you had been poked into cells and black holes, and run
+[[house]]. ‘I wish you had been poked into cells and black holes, and run
 over by rats and spiders and beetles. I know their tricks and their
 manners, and they’d have tickled you nicely. Ain’t you ashamed of
 yourself?’
 
 ‘Yes, my dear,’ stammered the father.
 
-‘Then,’ said the person of the house, terrifying him by a grand muster
+‘Then,’ said the person of the [[house]], terrifying him by a grand muster
 of her spirits and forces before recurring to the emphatic word, ‘WHAT
 do you mean by it?’
 
@@ -41,7 +41,7 @@ do you mean by it?’
 plea in extenuation.
 
 ‘I’LL circumstance you and control you too,’ retorted the person of the
-house, speaking with vehement sharpness, ‘if you talk in that way. I’ll
+[[house]], speaking with vehement sharpness, ‘if you talk in that way. I’ll
 give you in charge to the police, and have you fined five shillings when
 you can’t pay, and then I won’t pay the money for you, and you’ll be
 transported for life. How should you like to be transported for life?’
@@ -49,28 +49,28 @@ transported for life. How should you like to be transported for life?’
 ‘Shouldn’t like it. Poor shattered invalid. Trouble nobody long,’ cried
 the wretched figure.
 
-‘Come, come!’ said the person of the house, tapping the table near her
+‘Come, come!’ said the person of the [[house]], tapping the table near her
 in a business-like manner, and shaking her head and her chin; ‘you know
 what you’ve got to do. Put down your money this instant.’
 
 The obedient figure began to rummage in its pockets.
 
 ‘Spent a fortune out of your wages, I’ll be bound!’ said the person of
-the house. ‘Put it here! All you’ve got left! Every farthing!’
+the [[house]]. ‘Put it here! All you’ve got left! Every farthing!’
 
-Such a business as he made of collecting it from his dogs’-eared
+Such a business as he made of collecting it from his [[dogs]]’-eared
 pockets; of expecting it in this pocket, and not finding it; of not
 expecting it in that pocket, and passing it over; of finding no pocket
 where that other pocket ought to be!
 
-‘Is this all?’ demanded the person of the house, when a confused heap of
+‘Is this all?’ demanded the person of the [[house]], when a confused heap of
 pence and shillings lay on the table.
 
 ‘Got no more,’ was the rueful answer, with an accordant shake of the
 head.
 
 ‘Let me make sure. You know what you’ve got to do. Turn all your pockets
-inside out, and leave ’em so!’ cried the person of the house.
+inside out, and leave ’em so!’ cried the person of the [[house]].
 
 He obeyed. And if anything could have made him look more abject or more
 dismally ridiculous than before, it would have been his so displaying
@@ -102,7 +102,7 @@ himself on his bed. Within a little while afterwards, Lizzie came down.
 returned Miss Jenny, shrugging her shoulders.
 
 Lizzie laid a cloth upon the little bench (more handy for the person of
-the house than an ordinary table), and put upon it such plain fare as
+the [[house]] than an ordinary table), and put upon it such plain fare as
 they were accustomed to have, and drew up a stool for herself.
 
 ‘Now for supper! What are you thinking of, Jenny darling?’
@@ -118,27 +118,27 @@ deceive!’ With the little fist in full action. ‘And if so, I tell you
 what I think I’d do. When he was asleep, I’d make a spoon red hot, and
 I’d have some boiling liquor bubbling in a saucepan, and I’d take it
 out hissing, and I’d open his mouth with the other hand—or perhaps he’d
-sleep with his mouth ready open—and I’d pour it down his throat, and
+[[Sleep|sleep]] with his mouth ready open—and I’d pour it down his throat, and
 blister it and choke him.’
 
 ‘I am sure you would do no such horrible thing,’ said Lizzie.
 
-‘Shouldn’t I? Well; perhaps I shouldn’t. But I should like to!’
+‘Shouldn’t I? [[Well]]; perhaps I shouldn’t. But I should like to!’
 
 ‘I am equally sure you would not.’
 
-‘Not even like to? Well, you generally know best. Only you haven’t
+‘Not even like to? [[Well]], you generally know best. Only you haven’t
 always lived among it as I have lived—and your back isn’t bad and your
 legs are not queer.’
 
 As they went on with their supper, Lizzie tried to bring her round to
 that prettier and better state. But, the charm was broken. The person
-of the house was the person of a house full of sordid shames and cares,
+of the [[house]] was the person of a [[house]] full of sordid shames and cares,
 with an upper room in which that abased figure was infecting even
-innocent sleep with sensual brutality and degradation. The doll’s
+[[Innocent|innocent]] [[Sleep|sleep]] with sensual brutality and degradation. The doll’s
 dressmaker had become a little quaint shrew; of the world, worldly; of
 the earth, earthy.
 
 Poor doll’s dressmaker! How often so dragged down by hands that should
 have raised her up; how often so misdirected when losing her way on the
-eternal road, and asking guidance! Poor, poor little doll’s dressmaker!
+eternal [[Road|road]], and asking guidance! Poor, poor little doll’s dressmaker!

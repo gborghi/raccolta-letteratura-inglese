@@ -22,7 +22,7 @@ form of Anti-Semitism. In the controversies of Palestine and Syria,
 for instance, it is very common to hear the answer that the Jew is no
 worse than the Armenian.  The Armenian also is said to be unpopular
 as a money-lender and a mercantile upstart; yet the Armenian figures
-as a martyr for the Christian faith and a victim of the Moslem fury.
+as a martyr for the Christian [[Faith|faith]] and a victim of the Moslem fury.
 But this is one of those arguments which really carry their own answer.
 It is like the sceptical saying that man is only an animal,
 which of itself provokes the retort, "What an animal!"
@@ -33,7 +33,7 @@ talk of the competition of Armenians among Welsh shop-keepers,
 or of the crowd of Armenians on Brighton Parade?  Can Armenian usury
 be a common topic of talk in a camp in California and in a club
 in Piccadilly?  Does Shakespeare show us a tragic Armenian towering
-over the great Venice of the Renascence?  Does Dickens show us
+over the great [[Venice]] of the Renascence?  Does Dickens show us
 a realistic Armenian teaching in the thieves' kitchens of the slums?
 When we meet Mr. Vernon Vavasour, that brilliant financier, do we
 speculate on the probability of his really having an Armenian name
@@ -42,10 +42,10 @@ of people, from the peasants of Poland to the peasants of Portugal,
 can agree more or less upon the special subject of Armenia?  Obviously it
 is not in the least true; obviously the Armenian question is only
 a local question of certain Christians, who may be more avaricious
-than other Christians.  But it is the truth about the Jews.
-It is only half the truth, and one which by itself would be very unjust
-to the Jews.  But it is the truth, and we must realise it as sharply
-and clearly as we can.  The truth is that it is rather strange
+than other Christians.  But it is the [[Truth|truth]] about the Jews.
+It is only half the [[Truth|truth]], and one which by itself would be very unjust
+to the Jews.  But it is the [[Truth|truth]], and we must realise it as sharply
+and clearly as we can.  The [[Truth|truth]] is that it is rather strange
 that the Jews should be so anxious for international agreements.
 For one of the few really international agreements is a suspicion
 of the Jews.
@@ -67,41 +67,41 @@ The comparison helps us to clear away some of the cloudy evasions
 by which modern men have tried to escape from that experience.
 It is absurd to say that people are only prejudiced against the money
 methods of the Jews because the medieval church has left behind a hatred
-of their religion.  We might as well say that people only protect
+of their religion.  We might as [[Well|well]] say that people only protect
 the chickens from the gipsies because the medieval church undoubtedly
 condemned fortune-telling. It is unreasonable for a Jew to complain
-that Shakespeare makes Shylock and not Antonio the ruthless money-lender;
-or that Dickens makes Fagin and not Sikes the receiver of stolen goods.
-It is as if a gipsy were to complain when a novelist describes a child
+that Shakespeare makes [[Shylock]] and not [[Antonio]] the ruthless money-lender;
+or that Dickens makes [[Fagin]] and not Sikes the receiver of stolen goods.
+It is as if a gipsy were to complain when a novelist describes a [[Child|child]]
 as stolen by the gipsies, and not by the curate or the mothers' meeting.
 It is to complain of facts and probabilities.  There may be good gipsies;
 there may be good qualities which specially belong to them as gipsies;
 many students of the strange race have, for instance, praised a
-certain dignity and self-respect among the women of the Romany.
+certain dignity and [[Self|self]]-respect among the women of the Romany.
 But no student ever praised them for an exaggerated respect
 for private property, and the whole argument about gipsy theft can
 be roughly repeated about Hebrew usury.  Above all, there is one
 other respect in which the comparison is even more to the point.
 It is the essential fact of the whole business, that the Jews do not
 become national merely by becoming a political part of any nation.
-We might as well say that the gipsies had villas in Clapham,
+We might as [[Well|well]] say that the gipsies had villas in Clapham,
 when their caravans stood on Clapham Common.
 
 But, of course, even this comparison between the two wandering peoples
 fails in the presence of the greater problem.  Here again even the attempt
-at a parallel leaves the primary thing more unique.  The gipsies do
+at a parallel [[Leaves|leaves]] the primary thing more unique.  The gipsies do
 not become municipal merely by passing through a number of parishes,
 and it would seem equally obvious that a Jew need not become English
-merely by passing through England on his way from Germany to America.
+merely by passing through England on his way from [[Germany]] to [[America]].
 But the gipsy not only is not municipal, but he is not called municipal.
 His caravan is not immediately painted outside with the number and name
-of 123 Laburnam Road, Clapham.  The municipal authorities generally
+of 123 Laburnam [[Road]], Clapham.  The municipal authorities generally
 notice the wheels attached to the new cottage, and therefore do not
 fall into the error.  The gipsy may halt in a particular parish,
 but he is not as a rule immediately made a parish councillor.
 The cases in which a travelling tinker has been suddenly made
 the mayor of an important industrial town must be comparatively rare.
-And if the poor vagabonds of the Romany blood are bullied by mayors
+And if the poor vagabonds of the Romany [[Blood|blood]] are bullied by mayors
 and magistrates, kicked off the land by landlords, pursued by policemen
 and generally knocked about from pillar to post, nobody raises
 an outcry that _they_ are the victims of religious persecution;

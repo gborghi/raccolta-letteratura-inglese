@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 36 (part 6)"
+title: "[[Shirley]] — Chapter 36 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,7 +24,7 @@ or two.'
 
 "'Poor Tartar!' said she, touching and patting my hand--'poor fellow,
 
-stalwart friend, Shirley's pet and favourite, lie down!'
+stalwart friend, [[Shirley]]'s pet and favourite, lie down!'
 
 
 
@@ -52,7 +52,7 @@ unless I may pass it at your side.'
 
 "'Sir,' she said, starting up, 'at your peril you ever again name such
 
-sordid things as money, or poverty, or inequality. It will be absolutely
+sordid things as money, or [[Poverty|poverty]], or inequality. It will be absolutely
 
 dangerous to torment me with these maddening scruples. I defy you to do
 
@@ -74,9 +74,9 @@ countenance, 'teach me and help me to be good. I do not ask you to take
 
 off my shoulders all the cares and duties of property, but I ask you to
 
-share the burden, and to show me how to sustain my part well. Your
+share the burden, and to show me how to sustain my part [[Well|well]]. Your
 
-judgment is well balanced, your heart is kind, your principles are
+judgment is [[Well|well]] balanced, your heart is kind, your principles are
 
 sound. I know you are wise; I feel you are benevolent; I believe you are
 
@@ -110,13 +110,13 @@ I could not bear to be out of her presence; I returned to it, and basked
 
 in it, like Tartar in the sun. If she left the oak parlour,
 
-instinctively I rose and left it too. She chid me for this procedure
+instinctively I [[Rose|rose]] and left it too. She chid me for this procedure
 
 more than once. I did it with a vague, blundering idea of getting a word
 
 with her in the hall or elsewhere. Yesterday towards dusk I had her to
 
-myself for five minutes by the hall fire. We stood side by side; she was
+myself for five minutes by the hall [[Fire|fire]]. We stood side by side; she was
 
 railing at me, and I was enjoying the sound of her voice. The young
 
@@ -124,7 +124,7 @@ ladies passed, and looked at us; we did not separate. Ere long they
 
 repassed, and again looked. Mrs. Sympson came; we did not move. Mr.
 
-Sympson opened the dining-room door. Shirley flashed him back full
+Sympson opened the dining-room door. [[Shirley]] flashed him back full
 
 payment for his spying gaze. She curled her lip and tossed her tresses.
 
@@ -140,7 +140,7 @@ like Mr. Moore's society, and I dare you to find fault with my taste.'
 
 "'I do,' said she; 'but I leave the development to chance. There will be
 
-a scene. I neither invite it nor fear it; only, you must be present, for
+a scene. I neither invite it nor [[Fear|fear]] it; only, you must be present, for
 
 I am inexpressibly tired of facing him solus. I don't like to see him in
 
@@ -152,11 +152,11 @@ _commun, plat, bas--vilain et un peu méchant_. His ideas are not clean,
 
 Mr. Moore; they want scouring with soft soap and fuller's earth. I
 
-think, if he could add his imagination to the contents of Mrs. Gill's
+think, if he could add his [[Imagination|imagination]] to the contents of Mrs. Gill's
 
-bucking-basket, and let her boil it in her copper, with rain-water and
+bucking-basket, and let her boil it in her copper, with rain-[[Water|water]] and
 
-bleaching-powder (I hope you think me a tolerable laundress), it would
+bleaching-powder (I [[Hope|hope]] you think me a tolerable laundress), it would
 
 do him incalculable good.'
 
@@ -172,15 +172,15 @@ and dusting. She had risen betimes to finish some little keepsake she
 
 intended for Henry. I got only a cool reception, which I accepted till
 
-the girl was gone, taking my book to the window-seat very quietly. Even
+the girl was gone, taking my book to the [[Window|window]]-seat very quietly. Even
 
-when we were alone I was slow to disturb her. To sit with her in sight
+when we were [[Alone|alone]] I was slow to disturb her. To sit with her in sight
 
 was happiness, and the proper happiness, for early morning--serene,
 
 incomplete, but progressive. Had I been obtrusive, I knew I should have
 
-encountered rebuff. 'Not at home to suitors' was written on her brow.
+encountered rebuff. 'Not at [[Home|home]] to suitors' was written on her brow.
 
 Therefore I read on, stole now and then a look, watched her countenance
 
@@ -190,7 +190,7 @@ content of the moment.
 
 
 
-"The distance between us shrank, and the light hoar-frost thawed
+"The distance between us shrank, and the light hoar-[[Frost|frost]] thawed
 
 insensibly. Ere an hour elapsed I was at her side, watching her sew,
 
@@ -206,9 +206,9 @@ work, and to discern the eye of her needle. The door suddenly opened.
 
 "I believe, if I had just then started from her, she would have
 
-despised me. Thanks to the phlegm of my nature, I rarely start. When I
+despised me. Thanks to the phlegm of my [[Nature|nature]], I rarely start. When I
 
-am well-off, _bien_, comfortable, I am not soon stirred. _Bien_ I
+am [[Well|well]]-off, _bien_, comfortable, I am not soon stirred. _Bien_ I
 
 was--_très bien_--consequently immutable. No muscle moved. I hardly
 
@@ -222,13 +222,13 @@ on the threshold in a state of petrifaction.
 
 
 
-"'Have you been long downstairs, Miss Keeldar, and alone with Mr.
+"'Have you been long downstairs, Miss Keeldar, and [[Alone|alone]] with Mr.
 
 Moore?'
 
 
 
-"'Yes, a very long time. We both came down early; it was scarcely
+"'Yes, a very long [[Time|time]]. We both came down early; it was scarcely
 
 light.'
 
@@ -238,7 +238,7 @@ light.'
 
 
 
-"'It was at first, I was rather cross, and not civil; but you will
+"'It was at first, I was rather [[Cross|cross]], and not civil; but you will
 
 perceive that we are now friends.'
 
@@ -250,7 +250,7 @@ perceive that we are now friends.'
 
 "'Hardly, sir,' said I; 'we have no disguises. Will you permit me to
 
-intimate that any further observations you have to make may as well be
+intimate that any further observations you have to make may as [[Well|well]] be
 
 addressed to me? Henceforward I stand between Miss Keeldar and all
 

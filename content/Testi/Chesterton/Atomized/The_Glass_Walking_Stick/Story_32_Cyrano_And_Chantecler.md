@@ -21,8 +21,8 @@ critics upon `Chantecler' and the Rostand reputation generally--
 an attack taking the form of a charge of `mere rhetoric'
 and a protest against extravagant and even insolent puns.
 That some such hostile impression might exist in England I
-could well understand.  To begin with the simplest reason,
-the little I have happened to see in the way of English translation
+could [[Well|well]] understand.  To begin with the simplest reason,
+the little I have happened to see in the way of English [[Translation|translation]]
 of Rostand has been laughably inadequate.  I even remember
 seeing a version of `Cyrano de Bergerac' in which the last line
 of the Ballade of the Duel was translated quite literally.
@@ -57,13 +57,13 @@ The two spiritual roots of difference lie in two French
 qualities which the English scarcely possess at all;
 first the power of feeling that hatred is something holy;
 and second the power, not merely of laughing at oneself,
-but of laughing unmercifully.  Our English idea of a hero
+but of laughing unmercifully.  Our English idea of a [[Hero|hero]]
 is built upon the sailor, the accessible and open-hearted
 fellow who kills everybody with the kindest feelings.
-Our hero is Nelson or Harry V--I mean the genial and magnanimous
-Henry V of Shakespeare, not the morbid and cruel Henry of history.
+Our [[Hero|hero]] is Nelson or Harry V--I mean the genial and magnanimous
+[[Henry V]] of Shakespeare, not the morbid and cruel Henry of [[history]].
 Nelson wears his heart on his sleeve, as he wears his Orders
-on his coat.  Shakespeare's King Henry broods over his
+on his coat.  Shakespeare's [[King]] Henry broods over his
 beloved subjects and seeks to give them (in a splendid line)
 `a little touch of Harry in the night' But Cyrano,
 though he fills the stage, is by no means a universal gentlemen.
@@ -85,8 +85,8 @@ to imagine scorn as something fruitful and ever-festive; to behold
 that bitter tree bearing lovely blossoms and delightful fruit.
 It is hard for us to realize a pageant of blazing wit and
 romantic activity all produced by such stiff anger as has
-produced an anchorite or a suicide.  It is as if all the gay
-Athenian comedies had been written by Timon of Athens.
+produced an anchorite or a [[suicide]].  It is as if all the gay
+Athenian comedies had been written by [[Timon]] of Athens.
 But though this sentiment of sacred hate is not easy to us,
 that is no reason why we should not do justice to it.
 And France may fairly claim that much philanthropy has been
@@ -98,17 +98,17 @@ at himself, can laugh at himself till himself gets cross.
 It was very French to parade the fierce satiric poet Cyrano, the very
 romance of unpopularity, defying human society and taunting death.
 It was very French to devote a whole tragedy (as in `L'Aiglon')
-to the mere memory of Napoleon, the mere size of his shadow.
+to the mere [[Memory|memory]] of Napoleon, the mere size of his [[Shadow|shadow]].
 It had the same heroic impossibility as that great Spanish legend
 in which two knights led out the corpse of the Cid on horseback and all
 the armies of the Moors fled before it.  But it was most French of all,
 after exhibiting these towering heroes, suddenly to exhibit them again
 as clucking fowls in a farm-yard and a cock crowing on a dunghill.
-First, Cyrano's `panache', his high unbroken feather, brushes the stars;
+First, Cyrano's `panache', his high unbroken feather, brushes the [[Stars|stars]];
 next, it is only the feather of a chicken waddling about a yard.
-First, Napoleon's trumpet is like the trumpet of the Resurrection,
+First, Napoleon's trumpet is like the trumpet of the [[Resurrection]],
 calling to the quick and the dead; next, it is only cock-a-doodle-doo
-from the ragged hero of a hundred cock-fights.
+from the ragged [[Hero|hero]] of a hundred cock-fights.
 
 Precisely because Rostand, a romantic and patriotic Frenchman,
 laughs at the omnipotence of the Gallic cock, many foreigners are
@@ -122,11 +122,11 @@ is not much more insulted by one idea than by the other.
 There is mockery in the notion that those awful ancestral fires
 are encouraged when they hear the cock; there is surely equal
 mockery in the suggestion that they are discouraged if they do
-not see the Union Jack.  But the difference is that no patriotic
+not see the [[Union]] Jack.  But the difference is that no patriotic
 English poet will write a romantic drama to point out the cosmic
 comicality of supposing that the distant and fiery star needs,
-for its comfort, a little touch of John Bull in the night.
-But it is French satire that always scores off French heroism;
+for its comfort, a little touch of John Bull in the [[Night|night]].
+But it is French [[Satire|satire]] that always scores off French [[Heroism|heroism]];
 it is the same nation in the two moods; sometimes, as in Rostand's case,
 it is even the same individual.  France has claimed, not without reason,
 to be the Roman Eagle; she has claimed the eagle and earned it.

@@ -17,26 +17,26 @@ V
 Here we go round the prickly pear  
 Prickly pear prickly pear  
 Here we go round the prickly pear  
-At five o’clock in the morning.  
+At five o’[[Clock|clock]] in the morning.  
 Between the idea  
 And the reality  
 Between the motion  
 And the act  
-Falls the Shadow  
+Falls the [[Shadow]]  
 For Thine is the Kingdom  
 Between the conception  
 And the creation  
 Between the emotion  
 And the response  
-Falls the Shadow  
+Falls the [[Shadow]]  
 Life is very long  
-Between the desire  
+Between the [[Desire|desire]]  
 And the spasm  
 Between the potency  
 And the existence  
 Between the essence  
 And the descent  
-Falls the Shadow  
+Falls the [[Shadow]]  
 For Thine is the Kingdom  
 For Thine is  
 Life is  
@@ -46,5 +46,5 @@ This is the way the world ends
 This is the way the world ends  
 Not with a bang but a whimper.  
 
-ASH-WEDNESDAY  
+[[Ash-Wednesday|ASH-WEDNESDAY]]  
 1930  

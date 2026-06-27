@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 41: DORA’S AUNTS (part 1)"
+title: "[[David Copperfield]] — Chapter 41: DORA’S AUNTS (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -33,8 +33,8 @@ Mr. Copperfield would do them the favour to call, upon a certain day
 would be happy to hold some conversation on the subject.
 
 To this favour, Mr. Copperfield immediately replied, with his respectful
-compliments, that he would have the honour of waiting on the Misses
-Spenlow, at the time appointed; accompanied, in accordance with their
+compliments, that he would have the [[Honour|honour]] of waiting on the Misses
+Spenlow, at the [[Time|time]] appointed; accompanied, in accordance with their
 kind permission, by his friend Mr. Thomas Traddles of the Inner Temple.
 Having dispatched which missive, Mr. Copperfield fell into a condition
 of strong nervous agitation; and so remained until the day arrived.
@@ -47,19 +47,19 @@ climax, by taking it into his head that he would go to India. Why should
 he go to India, except to harass me? To be sure he had nothing to do
 with any other part of the world, and had a good deal to do with that
 part; being entirely in the India trade, whatever that was (I had
-floating dreams myself concerning golden shawls and elephants’ teeth);
+floating [[Dreams|dreams]] myself concerning golden shawls and elephants’ teeth);
 having been at Calcutta in his youth; and designing now to go out there
 again, in the capacity of resident partner. But this was nothing to me.
 However, it was so much to him that for India he was bound, and
-Julia with him; and Julia went into the country to take leave of
-her relations; and the house was put into a perfect suit of bills,
+[[Julia]] with him; and [[Julia]] went into the country to take leave of
+her relations; and the [[house]] was put into a perfect suit of bills,
 announcing that it was to be let or sold, and that the furniture (Mangle
 and all) was to be taken at a valuation. So, here was another earthquake
 of which I became the sport, before I had recovered from the shock of
 its predecessor!
 
 I was in several minds how to dress myself on the important day; being
-divided between my desire to appear to advantage, and my apprehensions
+divided between my [[Desire|desire]] to appear to advantage, and my apprehensions
 of putting on anything that might impair my severely practical character
 in the eyes of the Misses Spenlow. I endeavoured to hit a happy medium
 between these two extremes; my aunt approved the result; and Mr. Dick
@@ -87,24 +87,24 @@ the moment the weight was taken off. You have no idea what obstinate
 hair mine is, Copperfield. I am quite a fretful porcupine.’
 
 I was a little disappointed, I must confess, but thoroughly charmed by
-his good-nature too. I told him how I esteemed his good-nature; and said
+his good-[[Nature|nature]] too. I told him how I esteemed his good-[[Nature|nature]]; and said
 that his hair must have taken all the obstinacy out of his character,
 for he had none.
 
 ‘Oh!’ returned Traddles, laughing. ‘I assure you, it’s quite an old
 story, my unfortunate hair. My uncle’s wife couldn’t bear it. She said
 it exasperated her. It stood very much in my way, too, when I first fell
-in love with Sophy. Very much!’
+in [[Love|love]] with Sophy. Very much!’
 
 ‘Did she object to it?’
 
 ‘SHE didn’t,’ rejoined Traddles; ‘but her eldest sister--the one that’s
-the Beauty--quite made game of it, I understand. In fact, all the
+the [[Beauty]]--quite made game of it, I understand. In fact, all the
 sisters laugh at it.’
 
 ‘Agreeable!’ said I.
 
-‘Yes,’ returned Traddles with perfect innocence, ‘it’s a joke for us.
+‘Yes,’ returned Traddles with perfect [[innocence]], ‘it’s a joke for us.
 They pretend that Sophy has a lock of it in her desk, and is obliged to
 shut it in a clasped book, to keep it down. We laugh about it.’
 
@@ -131,7 +131,7 @@ the subject again, for months.’
 
 ‘You did at last?’ said I.
 
-‘Well, the Reverend Horace did,’ said Traddles. ‘He is an excellent man,
+‘[[Well]], the Reverend Horace did,’ said Traddles. ‘He is an excellent man,
 most exemplary in every way; and he pointed out to her that she ought,
 as a Christian, to reconcile herself to the sacrifice (especially as it
 was so uncertain), and to bear no uncharitable feeling towards me. As to

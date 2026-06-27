@@ -22,16 +22,16 @@ TRACKING THE BIRD OF PREY
 The two lime merchants, with their escort, entered the dominions of
 Miss Abbey Potterson, to whom their escort (presenting them and their
 pretended business over the half-door of the bar, in a confidential
-way) preferred his figurative request that ‘a mouthful of fire’ might
-be lighted in Cosy. Always well disposed to assist the constituted
+way) preferred his figurative request that ‘a mouthful of [[Fire|fire]]’ might
+be lighted in Cosy. Always [[Well|well]] disposed to assist the constituted
 authorities, Miss Abbey bade Bob Gliddery attend the gentlemen to
-that retreat, and promptly enliven it with fire and gaslight. Of this
+that retreat, and promptly enliven it with [[Fire|fire]] and gaslight. Of this
 commission the bare-armed Bob, leading the way with a flaming wisp of
 paper, so speedily acquitted himself, that Cosy seemed to leap out of a
-dark sleep and embrace them warmly, the moment they passed the lintels
+dark [[Sleep|sleep]] and embrace them warmly, the moment they passed the lintels
 of its hospitable door.
 
-‘They burn sherry very well here,’ said Mr Inspector, as a piece of
+‘They burn sherry very [[Well|well]] here,’ said Mr Inspector, as a piece of
 local intelligence. ‘Perhaps you gentlemen might like a bottle?’
 
 The answer being By all means, Bob Gliddery received his instructions
@@ -40,7 +40,7 @@ engendered by reverence for the majesty of the law.
 
 ‘It’s a certain fact,’ said Mr Inspector, ‘that this man we have
 received our information from,’ indicating Riderhood with his thumb over
-his shoulder, ‘has for some time past given the other man a bad name
+his shoulder, ‘has for some [[Time|time]] past given the other man a bad name
 arising out of your lime barges, and that the other man has been avoided
 in consequence. I don’t say what it means or proves, but it’s a certain
 fact. I had it first from one of the opposite sex of my acquaintance,’
@@ -50,7 +50,7 @@ away at a distance, over yonder.’
 Then probably Mr Inspector was not quite unprepared for their visit that
 evening? Lightwood hinted.
 
-‘Well you see,’ said Mr Inspector, ‘it was a question of making a move.
+‘[[Well]] you see,’ said Mr Inspector, ‘it was a question of making a move.
 It’s of no use moving if you don’t know what your move is. You had
 better by far keep still. In the matter of this lime, I certainly had
 an idea that it might lie betwixt the two men; I always had that idea.
@@ -67,7 +67,7 @@ circumstances; to the best of my judgment and ability.’
 ‘Which no man has a better right to do than yourself, you know,’ said Mr
 Inspector.
 
-‘I hope not,’ said Eugene; ‘my father having been a shipper of lime
+‘I [[Hope|hope]] not,’ said Eugene; ‘my father having been a shipper of lime
 before me, and my grandfather before him—in fact we having been a
 family immersed to the crowns of our heads in lime during several
 generations—I beg to observe that if this missing lime could be got
@@ -88,9 +88,9 @@ distress in that quarter. Indeed, I am sorry for that quarter.’
 ‘No,’ said Mr Inspector. ‘He has quitted those works. He is otherwise
 disposed of.’
 
-‘Will she be left alone then?’ asked Eugene.
+‘Will she be left [[Alone|alone]] then?’ asked Eugene.
 
-‘She will be left,’ said Mr Inspector, ‘alone.’
+‘She will be left,’ said Mr Inspector, ‘[[Alone|alone]].’
 
 Bob’s reappearance with a steaming jug broke off the conversation. But
 although the jug steamed forth a delicious perfume, its contents had not
@@ -98,15 +98,15 @@ received that last happy touch which the surpassing finish of the Six
 Jolly Fellowship Porters imparted on such momentous occasions. Bob
 carried in his left hand one of those iron models of sugar-loaf hats,
 before mentioned, into which he emptied the jug, and the pointed end of
-which he thrust deep down into the fire, so leaving it for a few moments
+which he thrust deep down into the [[Fire|fire]], so leaving it for a few moments
 while he disappeared and reappeared with three bright drinking-glasses.
-Placing these on the table and bending over the fire, meritoriously
-sensible of the trying nature of his duty, he watched the wreaths of
+Placing these on the table and bending over the [[Fire|fire]], meritoriously
+sensible of the trying [[Nature|nature]] of his duty, he watched the wreaths of
 steam, until at the special instant of projection he caught up the iron
 vessel and gave it one delicate twirl, causing it to send forth one
 gentle hiss. Then he restored the contents to the jug; held over the
 steam of the jug, each of the three bright glasses in succession;
-finally filled them all, and with a clear conscience awaited the
+finally filled them all, and with a clear [[Conscience|conscience]] awaited the
 applause of his fellow-creatures.
 
 It was bestowed (Mr Inspector having proposed as an appropriate
@@ -118,7 +118,7 @@ maintenance of this same lime fiction. Only it had been regarded by Mr
 Inspector as so uncommonly satisfactory, and so fraught with mysterious
 virtues, that neither of his clients had presumed to question it.
 
-Two taps were now heard on the outside of the window. Mr Inspector,
+Two taps were now heard on the outside of the [[Window|window]]. Mr Inspector,
 hastily fortifying himself with another glass, strolled out with a
 noiseless foot and an unoccupied countenance. As one might go to survey
 the weather and the general aspect of the heavenly bodies.
@@ -130,6 +130,6 @@ like this.’
 
 ‘Being here, let us stay. You ought to see it out, and I won’t leave
 you. Besides, that lonely girl with the dark hair runs in my head. It
-was little more than a glimpse we had of her that last time, and yet
-I almost see her waiting by the fire to-night. Do you feel like a dark
+was little more than a glimpse we had of her that last [[Time|time]], and yet
+I almost see her waiting by the [[Fire|fire]] to-[[Night|night]]. Do you feel like a dark
 combination of traitor and pickpocket when you think of that girl?’

@@ -17,7 +17,7 @@ tags:
 MR. ROBERT BOLTON: THE ‘GENTLEMAN CONNECTED WITH THE PRESS’
 
 
-In the parlour of the Green Dragon, a public-house in the immediate
+In the parlour of the Green Dragon, a public-[[house]] in the immediate
 neighbourhood of Westminster Bridge, everybody talks politics, every
 evening, the great political authority being Mr. Robert Bolton, an
 individual who defines himself as ‘a gentleman connected with the
@@ -51,23 +51,23 @@ cheats; as for the Poles, they’ve got no cash. I never have nothing to
 do with blockheads, unless I can’t awoid it (ironically), and a dead
 bear’s about as much use to me as I could be to a dead bear.’
 
-‘Well, then,’ urged the other, ‘there’s a book as belonged to Pope,
-Byron’s Poems, valued at forty pounds, because it’s got Pope’s
+‘[[Well]], then,’ urged the other, ‘there’s a book as belonged to Pope,
+Byron’s [[Poems]], valued at forty pounds, because it’s got Pope’s
 identical scratch on the back; what do you think of that for security?’
 
-‘Well, to be sure!’ cried the baker. ‘But how d’ye mean, Mr. Clip?’
+‘[[Well]], to be sure!’ cried the baker. ‘But how d’ye mean, Mr. Clip?’
 
 ‘Mean! why, that it’s got the _hottergruff_ of Pope.
 
 
-“Steal not this book, for fear of hangman’s rope;
+“Steal not this book, for [[Fear|fear]] of hangman’s rope;
 For it belongs to Alexander Pope.”
 
 
 All that’s written on the inside of the binding of the book; so, as my
 son says, we’re _bound_ to believe it.’
 
-‘Well, sir,’ observed the undertaker, deferentially, and in a
+‘[[Well]], sir,’ observed the undertaker, deferentially, and in a
 half-whisper, leaning over the table, and knocking over the
 hairdresser’s grog as he spoke, ‘that argument’s very easy upset.’
 
@@ -77,27 +77,27 @@ upset afore you thinks of another.’
 ‘Now,’ said the undertaker, bowing amicably to the hairdresser, ‘I
 _think_, I says I _think_—you’ll excuse me, Mr. Clip, I _think_, you
 see, that won’t go down with the present company—unfortunately, my
-master had the honour of making the coffin of that ere Lord’s
+master had the [[Honour|honour]] of making the coffin of that ere Lord’s
 housemaid, not no more nor twenty year ago. Don’t think I’m proud on
 it, gentlemen; others might be; but I hate rank of any sort. I’ve no
 more respect for a Lord’s footman than I have for any respectable
 tradesman in this room. I may say no more nor I have for Mr. Clip!
 (bowing). Therefore, that ere Lord must have been born long after Pope
 died. And it’s a logical interference to defer, that they neither of
-them lived at the same time. So what I mean is this here, that Pope
+them lived at the same [[Time|time]]. So what I mean is this here, that Pope
 never had no book, never seed, felt, never smelt no book (triumphantly)
 as belonged to that ere Lord. And, gentlemen, when I consider how
 patiently you have ’eared the ideas what I have expressed, I feel
 bound, as the best way to reward you for the kindness you have
 exhibited, to sit down without saying anything more—partickler as I
 perceive a worthier visitor nor myself is just entered. I am not in the
-habit of paying compliments, gentlemen; when I do, therefore, I hope I
-strikes with double force.’
+habit of paying compliments, gentlemen; when I do, therefore, I [[Hope|hope]] I
+strikes with [[Double|double]] force.’
 
-‘Ah, Mr. Murgatroyd! what’s all this about striking with double force?’
+‘Ah, Mr. Murgatroyd! what’s all this about striking with [[Double|double]] force?’
 said the object of the above remark, as he entered. ‘I never excuse a
-man’s getting into a rage during winter, even when he’s seated so close
-to the fire as you are. It is very injudicious to put yourself into
+man’s getting into a rage during [[Winter|winter]], even when he’s seated so close
+to the [[Fire|fire]] as you are. It is very injudicious to put yourself into
 such a perspiration. What is the cause of this extreme physical and
 mental excitement, sir?’
 
@@ -108,9 +108,9 @@ idea of the establishment of the ministerial organ, while to the
 initiated it signifies that no one paper can lay claim to the enjoyment
 of their services. Mr. Bolton was a young man, with a somewhat sickly
 and very dissipated expression of countenance. His habiliments were
-composed of an exquisite union of gentility, slovenliness, assumption,
+composed of an exquisite [[Union|union]] of gentility, slovenliness, assumption,
 simplicity, _newness_, and old age. Half of him was dressed for the
-winter, the other half for the summer. His hat was of the newest cut,
+[[Winter|winter]], the other half for the [[Summer|summer]]. His hat was of the newest cut,
 the D’Orsay; his trousers had been white, but the inroads of mud and
 ink, etc., had given them a pie-bald appearance; round his throat he
 wore a very high black cravat, of the most tyrannical stiffness; while

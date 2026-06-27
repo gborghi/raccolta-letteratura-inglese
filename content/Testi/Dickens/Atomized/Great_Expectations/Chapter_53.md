@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 53"
+title: "[[Great Expectations]] — Chapter 53"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,25 +17,25 @@ tags:
 Chapter LIII.
 
 
-It was a dark night, though the full moon rose as I left the enclosed
+It was a dark [[Night|night]], though the full [[Moon|moon]] [[Rose|rose]] as I left the enclosed
 lands, and passed out upon the marshes. Beyond their dark line there
 was a ribbon of clear sky, hardly broad enough to hold the red large
-moon. In a few minutes she had ascended out of that clear field, in
-among the piled mountains of cloud.
+[[Moon|moon]]. In a few minutes she had ascended out of that clear field, in
+among the piled [[Mountains|mountains]] of cloud.
 
-There was a melancholy wind, and the marshes were very dismal. A
+There was a [[Melancholy|melancholy]] [[Wind|wind]], and the marshes were very dismal. A
 stranger would have found them insupportable, and even to me they were
 so oppressive that I hesitated, half inclined to go back. But I knew
-them well, and could have found my way on a far darker night, and had
+them [[Well|well]], and could have found my way on a far darker [[Night|night]], and had
 no excuse for returning, being there. So, having come there against my
 inclination, I went on against it.
 
-The direction that I took was not that in which my old home lay, nor
+The direction that I took was not that in which my old [[Home|home]] lay, nor
 that in which we had pursued the convicts. My back was turned towards
 the distant Hulks as I walked on, and, though I could see the old
 lights away on the spits of sand, I saw them over my shoulder. I knew
-the limekiln as well as I knew the old Battery, but they were miles
-apart; so that, if a light had been burning at each point that night,
+the limekiln as [[Well|well]] as I knew the old Battery, but they were miles
+apart; so that, if a light had been burning at each point that [[Night|night]],
 there would have been a long strip of the blank horizon between the two
 bright specks.
 
@@ -51,16 +51,16 @@ lay directly in my way, and had been worked that day, as I saw by the
 tools and barrows that were lying about.
 
 Coming up again to the marsh level out of this excavation,—for the rude
-path lay through it,—I saw a light in the old sluice-house. I quickened
+path lay through it,—I saw a light in the old sluice-[[house]]. I quickened
 my pace, and knocked at the door with my hand. Waiting for some reply,
 I looked about me, noticing how the sluice was abandoned and broken,
-and how the house—of wood with a tiled roof—would not be proof against
+and how the [[house]]—of wood with a tiled roof—would not be proof against
 the weather much longer, if it were so even now, and how the mud and
 ooze were coated with lime, and how the choking vapour of the kiln
 crept in a ghostly way towards me. Still there was no answer, and I
 knocked again. No answer still, and I tried the latch.
 
-It rose under my hand, and the door yielded. Looking in, I saw a
+It [[Rose|rose]] under my hand, and the door yielded. Looking in, I saw a
 lighted candle on a table, a bench, and a mattress on a truckle
 bedstead. As there was a loft above, I called, “Is there any one here?”
 but no voice answered. Then I looked at my watch, and, finding that it
@@ -68,8 +68,8 @@ was past nine, called again, “Is there any one here?” There being still
 no answer, I went out at the door, irresolute what to do.
 
 It was beginning to rain fast. Seeing nothing save what I had seen
-already, I turned back into the house, and stood just within the
-shelter of the doorway, looking out into the night. While I was
+already, I turned back into the [[house]], and stood just within the
+shelter of the doorway, looking out into the [[Night|night]]. While I was
 considering that some one must have been there lately and must soon be
 coming back, or the candle would not be burning, it came into my head
 to look if the wick were long. I turned round to do so, and had taken
@@ -82,27 +82,27 @@ a strong running noose, thrown over my head from behind.
 “What is this?” I cried, struggling. “Who is it? Help, help, help!”
 
 Not only were my arms pulled close to my sides, but the pressure on my
-bad arm caused me exquisite pain. Sometimes, a strong man’s hand,
+bad arm caused me exquisite [[Pain|pain]]. Sometimes, a strong man’s hand,
 sometimes a strong man’s breast, was set against my mouth to deaden my
 cries, and with a hot breath always close to me, I struggled
 ineffectually in the dark, while I was fastened tight to the wall. “And
 now,” said the suppressed voice with another oath, “call out again, and
 I’ll make short work of you!”
 
-Faint and sick with the pain of my injured arm, bewildered by the
+Faint and sick with the [[Pain|pain]] of my injured arm, bewildered by the
 surprise, and yet conscious how easily this threat could be put in
 execution, I desisted, and tried to ease my arm were it ever so little.
 But, it was bound too tight for that. I felt as if, having been burnt
 before, it were now being boiled.
 
-The sudden exclusion of the night, and the substitution of black
+The sudden exclusion of the [[Night|night]], and the substitution of black
 darkness in its place, warned me that the man had closed a shutter.
 After groping about for a little, he found the flint and steel he
 wanted, and began to strike a light. I strained my sight upon the
 sparks that fell among the tinder, and upon which he breathed and
 breathed, match in hand, but I could only see his lips, and the blue
 point of the match; even those but fitfully. The tinder was damp,—no
-wonder there,—and one after another the sparks died out.
+[[Wonder|wonder]] there,—and one after another the sparks died out.
 
 The man was in no hurry, and struck again with the flint and steel. As
 the sparks fell thick and bright about him, I could see his hands, and
@@ -122,13 +122,13 @@ folded on the table and looked at me. I made out that I was fastened to
 a stout perpendicular ladder a few inches from the wall,—a fixture
 there,—the means of ascent to the loft above.
 
-“Now,” said he, when we had surveyed one another for some time, “I’ve
+“Now,” said he, when we had surveyed one another for some [[Time|time]], “I’ve
 got you.”
 
 “Unbind me. Let me go!”
 
-“Ah!” he returned, “_I_’ll let you go. I’ll let you go to the moon,
-I’ll let you go to the stars. All in good time.”
+“Ah!” he returned, “_I_’ll let you go. I’ll let you go to the [[Moon|moon]],
+I’ll let you go to the [[Stars|stars]]. All in good [[Time|time]].”
 
 “Why have you lured me here?”
 
@@ -141,7 +141,7 @@ two. O you enemy, you enemy!”
 
 His enjoyment of the spectacle I furnished, as he sat with his arms
 folded on the table, shaking his head at me and hugging himself, had a
-malignity in it that made me tremble. As I watched him in silence, he
+malignity in it that made me tremble. As I watched him in [[Silence|silence]], he
 put his hand into the corner at his side, and took up a gun with a
 brass-bound stock.
 
@@ -169,9 +169,9 @@ you no harm, if you had done yourself none.”
 
 “You’re a liar. And you’ll take any pains, and spend any money, to
 drive me out of this country, will you?” said he, repeating my words to
-Biddy in the last interview I had with her. “Now, I’ll tell you a piece
-of information. It was never so well worth your while to get me out of
-this country as it is to-night. Ah! If it was all your money twenty
+[[Biddy]] in the last interview I had with her. “Now, I’ll tell you a piece
+of information. It was never so [[Well|well]] worth your while to get me out of
+this country as it is to-[[Night|night]]. Ah! If it was all your money twenty
 times told, to the last brass farden!” As he shook his heavy hand at
 me, with his mouth snarling like a tiger’s, I felt that it was true.
 
@@ -184,30 +184,30 @@ a-going to have your life!”
 He leaned forward staring at me, slowly unclenched his hand and drew it
 across his mouth as if his mouth watered for me, and sat down again.
 
-“You was always in Old Orlick’s way since ever you was a child. You
-goes out of his way this present night. He’ll have no more on you.
+“You was always in Old Orlick’s way since ever you was a [[Child|child]]. You
+goes out of his way this present [[Night|night]]. He’ll have no more on you.
 You’re dead.”
 
-I felt that I had come to the brink of my grave. For a moment I looked
+I felt that I had come to the brink of my [[Grave|grave]]. For a moment I looked
 wildly round my trap for any chance of escape; but there was none.
 
 “More than that,” said he, folding his arms on the table again, “I
 won’t have a rag of you, I won’t have a bone of you, left on earth.
-I’ll put your body in the kiln,—I’d carry two such to it, on my
+I’ll put your [[Body|body]] in the kiln,—I’d carry two such to it, on my
 shoulders—and, let people suppose what they may of you, they shall
 never know nothing.”
 
 My mind, with inconceivable rapidity followed out all the consequences
-of such a death. Estella’s father would believe I had deserted him,
-would be taken, would die accusing me; even Herbert would doubt me,
+of such a [[Death|death]]. [[Estella]]’s father would believe I had deserted him,
+would be taken, would die accusing me; even Herbert would [[Doubt|doubt]] me,
 when he compared the letter I had left for him with the fact that I had
-called at Miss Havisham’s gate for only a moment; Joe and Biddy would
-never know how sorry I had been that night, none would ever know what I
+called at [[Miss Havisham]]’s gate for only a moment; Joe and [[Biddy]] would
+never know how sorry I had been that [[Night|night]], none would ever know what I
 had suffered, how true I had meant to be, what an agony I had passed
-through. The death close before me was terrible, but far more terrible
-than death was the dread of being misremembered after death. And so
-quick were my thoughts, that I saw myself despised by unborn
-generations,—Estella’s children, and their children,—while the wretch’s
+through. The [[Death|death]] close before me was terrible, but far more terrible
+than [[Death|death]] was the dread of being misremembered after [[Death|death]]. And so
+quick were my thoughts, that I saw myself despised by [[unborn]]
+generations,—[[Estella]]’s children, and their children,—while the wretch’s
 words were yet on his lips.
 
 “Now, wolf,” said he, “afore I kill you like any other beast,—which is
@@ -215,7 +215,7 @@ wot I mean to do and wot I have tied you up for,—I’ll have a good look
 at you and a good goad at you. O you enemy!”
 
 It had passed through my thoughts to cry out for help again; though few
-could know better than I, the solitary nature of the spot, and the
+could know better than I, the solitary [[Nature|nature]] of the spot, and the
 hopelessness of aid. But as he sat gloating over me, I was supported by
 a scornful detestation of him that sealed my lips. Above all things, I
 resolved that I would not entreat him, and that I would die making some
@@ -238,14 +238,14 @@ you somethink. It was you as did for your shrew sister.”
 
 Again my mind, with its former inconceivable rapidity, had exhausted
 the whole subject of the attack upon my sister, her illness, and her
-death, before his slow and hesitating speech had formed these words.
+[[Death|death]], before his slow and hesitating speech had formed these words.
 
-“It was you, villain,” said I.
+“It was you, [[Villain|villain]],” said I.
 
 “I tell you it was your doing,—I tell you it was done through you,” he
 retorted, catching up the gun, and making a blow with the stock at the
 vacant air between us. “I come upon her from behind, as I come upon you
-to-night. _I_ giv’ it her! I left her for dead, and if there had been a
+to-[[Night|night]]. _I_ giv’ it her! I left her for dead, and if there had been a
 limekiln as nigh her as there is now nigh you, she shouldn’t have come
 to life again. But it warn’t Old Orlick as did it; it was you. You was
 favoured, and he was bullied and beat. Old Orlick bullied and beat, eh?
@@ -256,7 +256,7 @@ bottle that there was no great quantity left in it. I distinctly
 understood that he was working himself up with its contents to make an
 end of me. I knew that every drop it held was a drop of my life. I knew
 that when I was changed into a part of the vapour that had crept
-towards me but a little while before, like my own warning ghost, he
+towards me but a little while before, like my own warning [[Ghost|ghost]], he
 would do as he had done in my sister’s case,—make all haste to the
 town, and be seen slouching about there drinking at the alehouses. My
 rapid mind pursued him to the town, made a picture of the street with
@@ -268,17 +268,17 @@ while he said a dozen words, but that what he did say presented
 pictures to me, and not mere words. In the excited and exalted state of
 my brain, I could not think of a place without seeing it, or of persons
 without seeing them. It is impossible to overstate the vividness of
-these images, and yet I was so intent, all the time, upon him
-himself,—who would not be intent on the tiger crouching to spring!—that
+these images, and yet I was so intent, all the [[Time|time]], upon him
+himself,—who would not be intent on the tiger crouching to [[spring]]!—that
 I knew of the slightest action of his fingers.
 
-When he had drunk this second time, he rose from the bench on which he
+When he had drunk this second [[Time|time]], he [[Rose|rose]] from the bench on which he
 sat, and pushed the table aside. Then, he took up the candle, and,
 shading it with his murderous hand so as to throw its light on me,
 stood before me, looking at me and enjoying the sight.
 
 “Wolf, I’ll tell you something more. It was Old Orlick as you tumbled
-over on your stairs that night.”
+over on your stairs that [[Night|night]].”
 
 I saw the staircase with its extinguished lamps. I saw the shadows of
 the heavy stair-rails, thrown by the watchman’s lantern on the wall. I
@@ -286,7 +286,7 @@ saw the rooms that I was never to see again; here, a door half open;
 there, a door closed; all the articles of furniture around.
 
 “And why was Old Orlick there? I’ll tell you something more, wolf. You
-and her _have_ pretty well hunted me out of this country, so far as
+and her _have_ pretty [[Well|well]] hunted me out of this country, so far as
 getting a easy living in it goes, and I’ve took up with new companions,
 and new masters. Some of ’em writes my letters when I wants ’em
 wrote,—do you mind?—writes my letters, wolf! They writes fifty hands;
@@ -306,7 +306,7 @@ out to sea!
 “_You_ with a uncle too! Why, I know’d you at Gargery’s when you was so
 small a wolf that I could have took your weazen betwixt this finger and
 thumb and chucked you away dead (as I’d thoughts o’ doing, odd times,
-when I see you loitering amongst the pollards on a Sunday), and you
+when I see you loitering amongst the pollards on a [[Sunday]]), and you
 hadn’t found no uncles then. No, not you! But when Old Orlick come for
 to hear that your uncle Provis had most like wore the leg-iron wot Old
 Orlick had picked up, filed asunder, on these meshes ever so many year
@@ -317,14 +317,14 @@ that—hey?”
 In his savage taunting, he flared the candle so close at me that I
 turned my face aside to save it from the flame.
 
-“Ah!” he cried, laughing, after doing it again, “the burnt child dreads
-the fire! Old Orlick knowed you was burnt, Old Orlick knowed you was
+“Ah!” he cried, laughing, after doing it again, “the burnt [[Child|child]] dreads
+the [[Fire|fire]]! Old Orlick knowed you was burnt, Old Orlick knowed you was
 smuggling your uncle Provis away, Old Orlick’s a match for you and
-know’d you’d come to-night! Now I’ll tell you something more, wolf, and
+know’d you’d come to-[[Night|night]]! Now I’ll tell you something more, wolf, and
 this ends it. There’s them that’s as good a match for your uncle Provis
 as Old Orlick has been for you. Let him ’ware them, when he’s lost his
 nevvy! Let him ’ware them, when no man can’t find a rag of his dear
-relation’s clothes, nor yet a bone of his body. There’s them that can’t
+relation’s clothes, nor yet a bone of his [[Body|body]]. There’s them that can’t
 and that won’t have Magwitch,—yes, _I_ know the name!—alive in the same
 land with them, and that’s had such sure information of him when he was
 alive in another land, as that he couldn’t and shouldn’t leave it
@@ -334,14 +334,14 @@ Compeyson, Magwitch, and the gallows!”
 
 He flared the candle at me again, smoking my face and hair, and for an
 instant blinding me, and turned his powerful back as he replaced the
-light on the table. I had thought a prayer, and had been with Joe and
-Biddy and Herbert, before he turned towards me again.
+light on the table. I had thought a [[Prayer|prayer]], and had been with Joe and
+[[Biddy]] and Herbert, before he turned towards me again.
 
 There was a clear space of a few feet between the table and the
 opposite wall. Within this space, he now slouched backwards and
 forwards. His great strength seemed to sit stronger upon him than ever
 before, as he did this with his hands hanging loose and heavy at his
-sides, and with his eyes scowling at me. I had no grain of hope left.
+sides, and with his eyes scowling at me. I had no grain of [[Hope|hope]] left.
 Wild as my inward hurry was, and wonderful the force of the pictures
 that rushed by me instead of thoughts, I could yet clearly understand
 that, unless he had resolved that I was within a few moments of surely
@@ -356,15 +356,15 @@ his hand, and licked up. Then, with a sudden hurry of violence and
 swearing horribly, he threw the bottle from him, and stooped; and I saw
 in his hand a stone-hammer with a long heavy handle.
 
-The resolution I had made did not desert me, for, without uttering one
+The resolution I had made did not [[Desert|desert]] me, for, without uttering one
 vain word of appeal to him, I shouted out with all my might, and
 struggled with all my might. It was only my head and my legs that I
 could move, but to that extent I struggled with all the force, until
 then unknown, that was within me. In the same instant I heard
 responsive shouts, saw figures and a gleam of light dash in at the
 door, heard voices and tumult, and saw Orlick emerge from a struggle of
-men, as if it were tumbling water, clear the table at a leap, and fly
-out into the night.
+men, as if it were tumbling [[Water|water]], clear the table at a leap, and fly
+out into the [[Night|night]].
 
 After a blank, I found that I was lying unbound, on the floor, in the
 same place, with my head on some one’s knee. My eyes were fixed on the
@@ -391,13 +391,13 @@ and I saw my supporter to be—
 “Remember what he is going to assist us in,” said Herbert, “and be
 calm.”
 
-The allusion made me spring up; though I dropped again from the pain in
-my arm. “The time has not gone by, Herbert, has it? What night is
-to-night? How long have I been here?” For, I had a strange and strong
-misgiving that I had been lying there a long time—a day and a
-night,—two days and nights,—more.
+The allusion made me [[spring]] up; though I dropped again from the [[Pain|pain]] in
+my arm. “The [[Time|time]] has not gone by, Herbert, has it? What [[Night|night]] is
+to-[[Night|night]]? How long have I been here?” For, I had a strange and strong
+misgiving that I had been lying there a long [[Time|time]]—a day and a
+[[Night|night]],—two days and nights,—more.
 
-“The time has not gone by. It is still Monday night.”
+“The [[Time|time]] has not gone by. It is still Monday [[Night|night]].”
 
 “Thank God!”
 
@@ -413,18 +413,18 @@ and inflamed, and I could scarcely endure to have it touched. But, they
 tore up their handkerchiefs to make fresh bandages, and carefully
 replaced it in the sling, until we could get to the town and obtain
 some cooling lotion to put upon it. In a little while we had shut the
-door of the dark and empty sluice-house, and were passing through the
+door of the dark and empty sluice-[[house]], and were passing through the
 quarry on our way back. Trabb’s boy—Trabb’s overgrown young man
 now—went before us with a lantern, which was the light I had seen come
-in at the door. But, the moon was a good two hours higher than when I
-had last seen the sky, and the night, though rainy, was much lighter.
+in at the door. But, the [[Moon|moon]] was a good two hours higher than when I
+had last seen the sky, and the [[Night|night]], though rainy, was much lighter.
 The white vapour of the kiln was passing from us as we went by, and as
-I had thought a prayer before, I thought a thanksgiving now.
+I had thought a [[Prayer|prayer]] before, I thought a thanksgiving now.
 
 Entreating Herbert to tell me how he had come to my rescue,—which at
 first he had flatly refused to do, but had insisted on my remaining
 quiet,—I learnt that I had in my hurry dropped the letter, open, in our
-chambers, where he, coming home to bring with him Startop whom he had
+chambers, where he, coming [[Home|home]] to bring with him Startop whom he had
 met in the street on his way to me, found it, very soon after I was
 gone. Its tone made him uneasy, and the more so because of the
 inconsistency between it and the hasty letter I had left for him. His
@@ -435,53 +435,53 @@ Finding that the afternoon coach was gone, and finding that his
 uneasiness grew into positive alarm, as obstacles came in his way, he
 resolved to follow in a post-chaise. So he and Startop arrived at the
 Blue Boar, fully expecting there to find me, or tidings of me; but,
-finding neither, went on to Miss Havisham’s, where they lost me.
-Hereupon they went back to the hotel (doubtless at about the time when
+finding neither, went on to [[Miss Havisham]]’s, where they lost me.
+Hereupon they went back to the hotel (doubtless at about the [[Time|time]] when
 I was hearing the popular local version of my own story) to refresh
 themselves and to get some one to guide them out upon the marshes.
 Among the loungers under the Boar’s archway happened to be Trabb’s
 Boy,—true to his ancient habit of happening to be everywhere where he
 had no business,—and Trabb’s boy had seen me passing from Miss
 Havisham’s in the direction of my dining-place. Thus Trabb’s boy became
-their guide, and with him they went out to the sluice-house, though by
+their guide, and with him they went out to the sluice-[[house]], though by
 the town way to the marshes, which I had avoided. Now, as they went
 along, Herbert reflected, that I might, after all, have been brought
 there on some genuine and serviceable errand tending to Provis’s
 safety, and, bethinking himself that in that case interruption must be
 mischievous, left his guide and Startop on the edge of the quarry, and
-went on by himself, and stole round the house two or three times,
+went on by himself, and stole round the [[house]] two or three times,
 endeavouring to ascertain whether all was right within. As he could
 hear nothing but indistinct sounds of one deep rough voice (this was
-while my mind was so busy), he even at last began to doubt whether I
+while my mind was so busy), he even at last began to [[Doubt|doubt]] whether I
 was there, when suddenly I cried out loudly, and he answered the cries,
 and rushed in, closely followed by the other two.
 
-When I told Herbert what had passed within the house, he was for our
-immediately going before a magistrate in the town, late at night as it
+When I told Herbert what had passed within the [[house]], he was for our
+immediately going before a magistrate in the town, late at [[Night|night]] as it
 was, and getting out a warrant. But, I had already considered that such
 a course, by detaining us there, or binding us to come back, might be
 fatal to Provis. There was no gainsaying this difficulty, and we
-relinquished all thoughts of pursuing Orlick at that time. For the
+relinquished all thoughts of pursuing Orlick at that [[Time|time]]. For the
 present, under the circumstances, we deemed it prudent to make rather
 light of the matter to Trabb’s boy; who, I am convinced, would have
 been much affected by disappointment, if he had known that his
 intervention saved me from the limekiln. Not that Trabb’s boy was of a
-malignant nature, but that he had too much spare vivacity, and that it
+malignant [[Nature|nature]], but that he had too much spare vivacity, and that it
 was in his constitution to want variety and excitement at anybody’s
 expense. When we parted, I presented him with two guineas (which seemed
 to meet his views), and told him that I was sorry ever to have had an
 ill opinion of him (which made no impression on him at all).
 
-Wednesday being so close upon us, we determined to go back to London
-that night, three in the post-chaise; the rather, as we should then be
-clear away before the night’s adventure began to be talked of. Herbert
+Wednesday being so close upon us, we determined to go back to [[London]]
+that [[Night|night]], three in the post-chaise; the rather, as we should then be
+clear away before the [[Night|night]]’s adventure began to be talked of. Herbert
 got a large bottle of stuff for my arm; and by dint of having this
-stuff dropped over it all the night through, I was just able to bear
-its pain on the journey. It was daylight when we reached the Temple,
+stuff dropped over it all the [[Night|night]] through, I was just able to bear
+its [[Pain|pain]] on the [[Journey|journey]]. It was daylight when we reached the Temple,
 and I went at once to bed, and lay in bed all day.
 
 My terror, as I lay there, of falling ill, and being unfitted for
-to-morrow, was so besetting, that I wonder it did not disable me of
+to-morrow, was so besetting, that I [[Wonder|wonder]] it did not disable me of
 itself. It would have done so, pretty surely, in conjunction with the
 mental wear and tear I had suffered, but for the unnatural strain upon
 me that to-morrow was. So anxiously looked forward to, charged with
@@ -492,7 +492,7 @@ communication with him that day; yet this again increased my
 restlessness. I started at every footstep and every sound, believing
 that he was discovered and taken, and this was the messenger to tell me
 so. I persuaded myself that I knew he was taken; that there was
-something more upon my mind than a fear or a presentiment; that the
+something more upon my mind than a [[Fear|fear]] or a presentiment; that the
 fact had occurred, and I had a mysterious knowledge of it. As the days
 wore on, and no ill news came, as the day closed in and darkness fell,
 my overshadowing dread of being disabled by illness before to-morrow
@@ -505,29 +505,29 @@ myself with a start, “Now it has come, and I am turning delirious!”
 
 They kept me very quiet all day, and kept my arm constantly dressed,
 and gave me cooling drinks. Whenever I fell asleep, I awoke with the
-notion I had had in the sluice-house, that a long time had elapsed and
+notion I had had in the sluice-[[house]], that a long [[Time|time]] had elapsed and
 the opportunity to save him was gone. About midnight I got out of bed
 and went to Herbert, with the conviction that I had been asleep for
 four-and-twenty hours, and that Wednesday was past. It was the last
-self-exhausting effort of my fretfulness, for after that I slept
+[[Self|self]]-exhausting effort of my fretfulness, for after that I slept
 soundly.
 
-Wednesday morning was dawning when I looked out of window. The winking
+Wednesday morning was dawning when I looked out of [[Window|window]]. The winking
 lights upon the bridges were already pale, the coming sun was like a
-marsh of fire on the horizon. The river, still dark and mysterious, was
+marsh of [[Fire|fire]] on the horizon. The [[River|river]], still dark and mysterious, was
 spanned by bridges that were turning coldly grey, with here and there
 at top a warm touch from the burning in the sky. As I looked along the
 clustered roofs, with church-towers and spires shooting into the
-unusually clear air, the sun rose up, and a veil seemed to be drawn
-from the river, and millions of sparkles burst out upon its waters.
-From me too, a veil seemed to be drawn, and I felt strong and well.
+unusually clear air, the sun [[Rose|rose]] up, and a veil seemed to be drawn
+from the [[River|river]], and millions of sparkles burst out upon its waters.
+From me too, a veil seemed to be drawn, and I felt strong and [[Well|well]].
 
 Herbert lay asleep in his bed, and our old fellow-student lay asleep on
 the sofa. I could not dress myself without help; but I made up the
-fire, which was still burning, and got some coffee ready for them. In
-good time they too started up strong and well, and we admitted the
+[[Fire|fire]], which was still burning, and got some coffee ready for them. In
+good [[Time|time]] they too started up strong and [[Well|well]], and we admitted the
 sharp morning air at the windows, and looked at the tide that was still
 flowing towards us.
 
-“When it turns at nine o’clock,” said Herbert, cheerfully, “look out
+“When it turns at nine o’[[Clock|clock]],” said Herbert, cheerfully, “look out
 for us, and stand ready, you over there at Mill Pond Bank!”

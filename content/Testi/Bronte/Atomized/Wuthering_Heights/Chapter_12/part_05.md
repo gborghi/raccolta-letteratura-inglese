@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 12 (part 5)"
+title: "[[Wuthering Heights]] — Chapter 12 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -19,7 +19,7 @@ tags:
 “Speak lower, Mary—What is the matter?” said Mr. Linton. “What ails
 your young lady?”
 
-“She’s gone, she’s gone! Yon’ Heathcliff’s run off wi’ her!” gasped the
+“She’s gone, she’s gone! Yon’ [[Heathcliff]]’s run off wi’ her!” gasped the
 girl.
 
 “That is not true!” exclaimed Linton, rising in agitation. “It cannot
@@ -29,23 +29,23 @@ is incredible: it cannot be.”
 As he spoke he took the servant to the door, and then repeated his
 demand to know her reasons for such an assertion.
 
-“Why, I met on the road a lad that fetches milk here,” she stammered,
+“Why, I met on the [[Road|road]] a lad that fetches milk here,” she stammered,
 “and he asked whether we weren’t in trouble at the Grange. I thought he
 meant for missis’s sickness, so I answered, yes. Then says he, ‘There’s
 somebody gone after ’em, I guess?’ I stared. He saw I knew nought about
-it, and he told how a gentleman and lady had stopped to have a horse’s
+it, and he told how a gentleman and lady had stopped to have a [[Horse|horse]]’s
 shoe fastened at a blacksmith’s shop, two miles out of Gimmerton, not
 very long after midnight! and how the blacksmith’s lass had got up to
 spy who they were: she knew them both directly. And she noticed the
-man—Heathcliff it was, she felt certain: nob’dy could mistake him,
+man—[[Heathcliff]] it was, she felt certain: nob’dy could mistake him,
 besides—put a sovereign in her father’s hand for payment. The lady had
-a cloak about her face; but having desired a sup of water, while she
-drank it fell back, and she saw her very plain. Heathcliff held both
+a cloak about her face; but having desired a sup of [[Water|water]], while she
+drank it fell back, and she saw her very plain. [[Heathcliff]] held both
 bridles as they rode on, and they set their faces from the village, and
 went as fast as the rough roads would let them. The lass said nothing
 to her father, but she told it all over Gimmerton this morning.”
 
-I ran and peeped, for form’s sake, into Isabella’s room; confirming,
+I ran and peeped, for form’s sake, into [[Isabella]]’s room; confirming,
 when I returned, the servant’s statement. Mr. Linton had resumed his
 seat by the bed; on my re-entrance, he raised his eyes, read the
 meaning of my blank aspect, and dropped them without giving an order,
@@ -61,5 +61,5 @@ disowned me.”
 
 And that was all he said on the subject: he did not make a single inquiry
 further, or mention her in any way, except directing me to send what
-property she had in the house to her fresh home, wherever it was, when
+property she had in the [[house]] to her fresh [[Home|home]], wherever it was, when
 I knew it.

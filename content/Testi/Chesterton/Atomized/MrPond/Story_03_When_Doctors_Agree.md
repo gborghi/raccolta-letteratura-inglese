@@ -1,5 +1,5 @@
 ---
-title: "MrPond — When Doctors Agree"
+title: "[[MrPond]] — When Doctors Agree"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/MrPond-(Chesterton)"
@@ -22,11 +22,11 @@ WHEN DOCTORS AGREE
 
 Mr. Ponds paradoxes were of a very peculiar kind.  They were indeed
 
-paradoxical defiances even of the law of paradox.  Paradox has been
+paradoxical defiances even of the law of [[Paradox|paradox]].  [[Paradox]] has been
 
-defined as "Truth standing on her head to attract attention."
+defined as "[[Truth]] standing on her head to attract attention."
 
-Paradox has been defended; on the ground that so many fashionable
+[[Paradox]] has been defended; on the ground that so many fashionable
 
 fallacies still stand firmly on their feet, because they have no
 
@@ -38,11 +38,11 @@ attention.  They set out conspicuously, in a single line in a play,
 
 or at the head or tail of a paragraph, remarks of this challenging
 
-kind; as when Mr. Bernard Shaw wrote:  "The Golden Rule is that
+kind; as when Mr. Bernard [[Shaw]] wrote:  "The Golden Rule is that
 
 there is no Golden Rule"; or Oscar Wilde observed:  "I can resist
 
-everything except temptation"; or a duller scribe (not to be named
+everything except [[Temptation|temptation]]"; or a duller scribe (not to be named
 
 with these and now doing penance for his earlier vices in the
 
@@ -120,11 +120,11 @@ got tipsy at once."  Broadly speaking, two kinds of people stopped
 
 him with stares or questions: the very stupid and the very clever.
 
-The stupid because the absurdity alone stuck out from a level of
+The stupid because the absurdity [[Alone|alone]] stuck out from a level of
 
 intelligence that baffled them; it was indeed in itself an example
 
-of the truth in paradox.  The only part of his conversation they
+of the [[Truth|truth]] in [[Paradox|paradox]].  The only part of his conversation they
 
 could understand was the part they could not understand.  And the
 
@@ -164,7 +164,7 @@ It was at a little dinner given by old Wotton to Gahagan and Pond
 
 and others, that we first got a glimpse of the real meaning of
 
-these wild parentheses of so tame a talker.  The truth was, to
+these wild parentheses of so tame a talker.  The [[Truth|truth]] was, to
 
 begin with, that Mr. Pond, in spite of his French beard, was very
 
@@ -186,7 +186,7 @@ unintelligible.  In trying to explain the eccentricity, it is best
 
 to begin with the simplest example, like a diagram in a primer of
 
-logic.  And I will begin with the short story, which was concealed
+[[logic]].  And I will begin with the [[Short Story|short story]], which was concealed
 
 in the shorter phrase, which puzzled poor old Wotton so completely
 
@@ -224,7 +224,7 @@ do sometimes differ a little from each other, you know.  Even we in
 
 Ireland have been known to differ from each other.  But you see the
 
-Pope denouncing the Bolshevists, or the French Revolution rending
+Pope denouncing the Bolshevists, or the [[French Revolution]] rending
 
 the Holy Roman Empire, and you still say in your hearts, 'What can
 
@@ -240,7 +240,7 @@ they agreed.  But remember what they agreed about."
 
 
 
-Wotton looked a little baffled and finally grunted:  "Well, if
+Wotton looked a little baffled and finally grunted:  "[[Well]], if
 
 these fellows have agreed, I suppose there will be a little peace."
 
@@ -292,7 +292,7 @@ thing was a curious story; to introduce a yet more curious sequel.
 
 Haggis had been a prominent and wealthy citizen, a bailie of the
 
-city and an elder of the kirk.  Nobody denied that even in these
+[[City|city]] and an elder of the kirk.  Nobody denied that even in these
 
 capacities he had sometimes been rather unpopular; but, to do him
 
@@ -302,11 +302,11 @@ unpopular causes.  He was the sort of old Radical who is more rigid
 
 and antiquated than any Tory; and, maintaining in theory the cause
 
-of Retrenchment and Reform, he managed to suggest that almost any
+of Retrenchment and [[Reform]], he managed to suggest that almost any
 
-Reform was too expensive for the needs of Retrenchment.  Thus he
+[[Reform]] was too expensive for the needs of Retrenchment.  Thus he
 
-had stood alone in opposition to the universal support given to old
+had stood [[Alone|alone]] in opposition to the universal support given to old
 
 Dr. Campbell's admirable campaign for fighting the epidemic in the
 
@@ -318,7 +318,7 @@ typhoid was perhaps an exaggerated inference.  Similarly, he was
 
 prominent in the Presbyterian councils as refusing all modern
 
-compromise with the logic of Calvinism; but to infer that he
+compromise with the [[logic]] of Calvinism; but to infer that he
 
 actually hoped all his neighbours were damned before they were born
 
@@ -330,7 +330,7 @@ On the other side, he was admittedly honest in business and
 
 faithful to his wife and family; so that there was a general
 
-reaction in favour of his memory when he was found stabbed to the
+reaction in favour of his [[Memory|memory]] when he was found stabbed to the
 
 heart in the meagre grass of the grim little churchyard that
 
@@ -350,7 +350,7 @@ a rather narrow Scottish merchant of the old school.
 
 It happened that Mr. Pond himself had been present at a little
 
-party where there was high debate about the murder as a mystery.
+party where there was high [[debate]] about the murder as a mystery.
 
 His host, Lord Glenorchy, had a hobby of reading books on
 
@@ -358,13 +358,13 @@ criminology; his hostess, Lady Glenorchy, had the less harmful
 
 hobby of reading those much more solid and scientific books which
 
-are called detective stories.  There were present, as the society
+are called [[Detective|detective]] stories.  There were present, as the society
 
 papers say, Major MacNabb, the Chief Constable, and Mr. Lancelot
 
-Browne, a brilliant London barrister who found it much more of a
+Browne, a brilliant [[London]] barrister who found it much more of a
 
-bore to be a lawyer than to pretend to be a detective; also, among
+bore to be a lawyer than to pretend to be a [[Detective|detective]]; also, among
 
 those present, was the venerable and venerated Dr. Campbell, whose
 
@@ -378,7 +378,7 @@ his scientific career.
 
 
 
-Responsible people naturally love to be irresponsible.  All these
+Responsible people naturally [[Love|love]] to be irresponsible.  All these
 
 persons delighted to throw theories about in private which they
 
@@ -408,7 +408,7 @@ and moral deformity are found only among poor people, he suspected
 
 a plot of local Communists (all with the wrong-shaped thumb and
 
-ear) and picked for his fancy a Socialist agitator of the city.
+ear) and picked for his fancy a Socialist agitator of the [[City|city]].
 
 Mr. Angus made bold to differ; his choice was an old lag, or
 
@@ -420,7 +420,7 @@ Then it was that the point was referred, not without a certain
 
 reverence, to the white-haired and wise old physician, who had now
 
-behind him a whole lifetime of charity and good works.  One of the
+behind him a whole lifetime of [[Charity|charity]] and good works.  One of the
 
 many ways in which Dr. Campbell seemed to have emerged from an
 
@@ -428,7 +428,7 @@ elder and perhaps honester world was the fact that he not only
 
 spoke with a Scottish accent but he spoke Scottish.  His speech
 
-will, therefore, be rendered here with difficulty and in doubt and
+will, therefore, be rendered here with difficulty and in [[Doubt|doubt]] and
 
 trembling.
 
@@ -438,13 +438,13 @@ trembling.
 
 ye fair at the start that I winna gie a bawbee to ken wha dirked
 
-Jamie Haggis.  Gin I kent, I wadna' say.  It's a sair thing, na
+Jamie Haggis.  Gin I [[Kent|kent]], I wadna' say.  It's a sair thing, na
 
 doot, that the freens and benefactors o' puir humanity should no be
 
 named and fitly celebrated; but like the masons that built our
 
-gran' cathedral and the gran' poets that wrote our ballads of
+gran' [[Cathedral|cathedral]] and the gran' poets that wrote our ballads of
 
 Otterburn and Sir Patrick Spens, the man that achieved the virtuous
 
@@ -458,7 +458,7 @@ seekin' a man of sic prudence and public spirit."
 
 
 
-There followed that sort of silence in which people are not certain
+There followed that sort of [[Silence|silence]] in which people are not certain
 
 whether to laugh, at a deliberate stroke of wit; but before they
 
@@ -512,7 +512,7 @@ it was at this point that she struck in.
 
 
 
-"Well, if Dr. Campbell won't pronounce for us, I suppose we must
+"[[Well]], if Dr. Campbell won't pronounce for us, I suppose we must
 
 all stick to our own suspicions.  I don't know whether you like
 
@@ -542,7 +542,7 @@ about now?"
 
 
 
-"I'm talking about hostesses," said Pond, with an air of pain.
+"I'm talking about hostesses," said Pond, with an air of [[Pain|pain]].
 
 "Good hostesses.  Really successful hostesses.  They will cut into
 
@@ -580,7 +580,7 @@ worse than murder; it's infanticide.  It's like killing a baby
 
 that's trying to come to life.  It can never be restored to life,
 
-though one rose from the dead.  A good light conversation can never
+though one [[Rose|rose]] from the dead.  A good light conversation can never
 
 be put together again when it's broken to pieces; because you can't
 
@@ -588,7 +588,7 @@ get all the pieces.  I remember a splendid talk at Trefusis's
 
 place, that began because there was a crack of thunder over the
 
-house and a cat howled in the garden, and somebody made a rather
+[[house]] and a cat howled in the [[Garden|garden]], and somebody made a rather
 
 crude joke about a catastrophe.  And then Gahagan here had a
 
@@ -602,7 +602,7 @@ about a political question on the Continent."
 
 "The Catalonian question, I suppose," said Gahagan, laughing, "but
 
-I fear I've quite forgotten my lovely theory."
+I [[Fear|fear]] I've quite forgotten my lovely theory."
 
 
 
@@ -614,15 +614,15 @@ worth starting again.  The hostess swept it all out of our heads,
 
 and then had the cheek to say afterwards that we could talk about
 
-it some other time.  Could we?  Could we make a contract with a
+it some other [[Time|time]].  Could we?  Could we make a contract with a
 
-cloud to break just over the roof, and tie a cat up in the garden
+cloud to break just over the roof, and tie a cat up in the [[Garden|garden]]
 
 and pull its tail at the right moment, and give Gahagan just enough
 
 champagne to inspire him with a theory so silly that he's forgotten
 
-it already?  It was then or never with that debate being started;
+it already?  It was then or never with that [[debate]] being started;
 
 and yet bad results enough followed from it being stopped.  But
 
@@ -630,7 +630,7 @@ that, as they say, is another story."
 
 
 
-"You must tell it to us another time," said Gahagan.  "At present I
+"You must tell it to us another [[Time|time]]," said Gahagan.  "At present I
 
 am still curious about the man who murdered another man because he
 
@@ -670,11 +670,11 @@ out of a very entertaining little tiff about the Ten Commandments.
 
 A mere trifle, too light and airy to recur to our minds at any
 
-other time.  But there was another trifle that did recur to my own
+other [[Time|time]].  But there was another trifle that did recur to my own
 
 mind afterwards; and kept my attention on a murder of which I might
 
-have thought little enough at the time, as De Quincey says.  I
+have thought little enough at the [[Time|time]], as De Quincey says.  I
 
 remembered once looking up Glenorchy in Who's Who, and seeing that
 
@@ -696,13 +696,13 @@ not Scottish.  If she had introduced the cigarettes at her father's
 
 dinner-table in Suffolk, such trifles as the Ten Commandments would
 
-instantly have been tossed away from everyone's mind and memory.
+instantly have been tossed away from everyone's mind and [[Memory|memory]].
 
 But I knew I was in Scotland and that the story had only just
 
 begun.  I have told you that old Campbell was tutoring or coaching
 
-young Angus for his medical degree.  It was a great honour for a
+young Angus for his medical degree.  It was a great [[Honour|honour]] for a
 
 lad like Angus to have Campbell for a coach; but it must have been
 
@@ -712,7 +712,7 @@ for a pupil.  For he had always been a most industrious and
 
 ambitious and intelligent pupil, and one likely to do the old man
 
-credit; and after the time I speak of, he seemed to grow more
+credit; and after the [[Time|time]] I speak of, he seemed to grow more
 
 industrious and ambitious than ever.  In fact, he shut himself up
 
@@ -734,11 +734,11 @@ statement that might seem to some to require expansion."
 
 order to expand it, we must go back for a moment to the mystery of
 
-Mr. Haggis's murder.  It had already spread a sort of detective
+Mr. Haggis's murder.  It had already spread a sort of [[Detective|detective]]
 
-fever in the neighbourhood; for all the Scots love arguing and it
+fever in the neighbourhood; for all the Scots [[Love|love]] arguing and it
 
-really was rather a fascinating riddle.  One great point in the
+really was rather a fascinating [[Riddle|riddle]].  One great point in the
 
 mystery was the wound, which seemed at first to have been made by a
 
@@ -760,7 +760,7 @@ medical authorities would consent even to guess what it was.
 
 People were perpetually ransacking the churchyard and the church in
 
-search of clues.  And just about this time young Angus, who had
+search of clues.  And just about this [[Time|time]] young Angus, who had
 
 been a strict supporter of this particular church, and had even
 
@@ -780,7 +780,7 @@ the right track."
 
 
 
-"I fear I did not realize that you were on any track," said
+"I [[Fear|fear]] I did not realize that you were on any track," said
 
 Gahagan.  "To speak with candour, my dear Pond, I should say that
 
@@ -790,7 +790,7 @@ have ever heard, the most rambling was the narrative we have just
 
 been privileged to hear from you.  First you tell us that two
 
-Scotsmen began a conversation about the morality of murder and
+Scotsmen began a conversation about the [[morality]] of murder and
 
 never finished it; then you go off on a tirade against society
 
@@ -830,7 +830,7 @@ story."
 
 
 
-"Well, then," said Gahagan, "let us try to get some sense out of
+"[[Well]], then," said Gahagan, "let us try to get some sense out of
 
 all this nonsense, which has not even the excuses of newspaper
 
@@ -854,13 +854,13 @@ for any examination."
 
 
 
-"Well, what were they doing?" asked Wotton gruffly.
+"[[Well]], what were they doing?" asked Wotton gruffly.
 
 
 
 "They were going on with the argument," cried Pond, in a squeak
 
-that was almost shrill.  "They hardly stopped to sleep or eat; but
+that was almost shrill.  "They hardly stopped to [[Sleep|sleep]] or eat; but
 
 they went on with the argument; the argument interrupted at the
 
@@ -892,9 +892,9 @@ what they did then:
 
 "And for hours and weeks and months they never turned aside from
 
-the same interminable debate on the thesis first propounded by Dr.
+the same interminable [[debate]] on the thesis first propounded by Dr.
 
-Campbell: that when a good man is well and truly convinced that a
+Campbell: that when a good man is [[Well|well]] and truly convinced that a
 
 bad man is actively bad for the community, and is doing evil on a
 
@@ -930,7 +930,7 @@ great deal about the stages of that stubborn and forcible
 
 controversy, about which nobody else knew anything at all.  For
 
-Angus was a genuine truth-seeker who wished to satisfy his soul and
+Angus was a genuine [[Truth|truth]]-seeker who wished to satisfy his [[Soul|soul]] and
 
 not merely to make his name; and Campbell was enough of a great man
 
@@ -938,7 +938,7 @@ to be quite as anxious to convince a pupil as to convince a crowd
 
 in a lecture-room.  But I am not going to tell you about those
 
-stages of the controversy at any great length.  To tell the truth,
+stages of the controversy at any great length.  To tell the [[Truth|truth]],
 
 I am not what people call impartial on this controversy.  How any
 
@@ -946,7 +946,7 @@ man can form any conviction, and remain what they call impartial on
 
 any controversy, is more than I have ever understood.  But I
 
-suppose they would say I couldn't describe the debate fairly;
+suppose they would say I couldn't describe the [[debate]] fairly;
 
 because the side I sympathize with was not the side that won.
 
@@ -998,7 +998,7 @@ of Voltaire.
 
 Voltaire.  It is not always certain whether philanthropy means a
 
-love of men, or of man, or of mankind.  There is a difference.  I
+[[Love|love]] of men, or of man, or of mankind.  There is a difference.  I
 
 think he cared less about the individual than about the public or
 
@@ -1016,7 +1016,7 @@ already said, he was a devout worshipper in the same dingy kirk as
 
 the late James Haggis; that is, one of the extreme irreconcilable
 
-sectaries of the seventeenth-century Puritanism.  And so the
+sectaries of the seventeenth-century [[Puritanism]].  And so the
 
 Scottish atheist and the Scottish Calvinist argued and argued and
 
@@ -1060,7 +1060,7 @@ the twentieth century A.D.," replied the unruffled Pond.  "I made
 
 him up just now; but you know the sort of thing I mean--the
 
-mythical nature of Mount Sinai proved from the parallel myth that
+mythical [[Nature|nature]] of Mount Sinai proved from the parallel myth that
 
 the ark rested on Mount Ararat, and the mountain that would not
 
@@ -1074,7 +1074,7 @@ to kirk on the Sabbath."
 
 
 
-The end of the debate may best be described more directly; for,
+The end of the [[debate]] may best be described more directly; for,
 
 indeed, Mr. Pond described it himself with a strange sort of
 
@@ -1086,7 +1086,7 @@ of the medical schools was the scene of the final phase of
 
 disagreement and agreement.  They had gone back there very late at
 
-night, when the schools were closed and the theatre deserted,
+[[Night|night]], when the schools were closed and the theatre deserted,
 
 because Angus fancied he had left some of his instruments there,
 
@@ -1112,19 +1112,19 @@ to him casually.
 
 Angus tossed the tool on the table like a man throwing down his
 
-sword, and turned on his companion with a new and transfigured air
+[[Sword|sword]], and turned on his companion with a new and transfigured air
 
 of candour and finality.
 
 
 
-"You needn't trouble about hymns any more; I may as well tell you
+"You needn't trouble about hymns any more; I may as [[Well|well]] tell you
 
 that I've done with them, for one.  You're too strong for me--or,
 
-rather, the truth is too strong for me.  I've defended my own
+rather, the [[Truth|truth]] is too strong for me.  I've defended my own
 
-nursery nightmare as long as I could; but you've woken me up at
+nursery [[nightmare]] as long as I could; but you've woken me up at
 
 last.  You are right, you must be right; I don't see any way out of
 
@@ -1132,21 +1132,21 @@ it."
 
 
 
-After a silence, Campbell answered very softly:  "I'll no mak'
+After a [[Silence|silence]], Campbell answered very softly:  "I'll no mak'
 
-apologies for fighting for the truth; but, man, ye made a real
+apologies for fighting for the [[Truth|truth]]; but, man, ye made a real
 
 bonny fight for the falsehood."
 
 
 
-It might well have seemed that the old blasphemer had never spoken
+It might [[Well|well]] have seemed that the old blasphemer had never spoken
 
 on the topic in a tone so delicate and respectful; and it seemed
 
-strange that his new convert did not respond to the appeal.
+strange that his new [[convert]] did not respond to the appeal.
 
-Looking up, Campbell saw that his new convert's attention had been
+Looking up, Campbell saw that his new [[convert]]'s attention had been
 
 abruptly abstracted; he was standing staring at the implement in
 
@@ -1170,35 +1170,35 @@ after a pause, he added, with equal calm:
 
 "Noo that we are agreed, and a' of one mind, aboot the need for sic
 
-social surgery, it's as weel ye should know the hale truth.  Aye,
+social surgery, it's as weel ye should know the hale [[Truth|truth]].  Aye,
 
 lad, I did it mysel'; and with a blade like yon.  That nicht ye
 
-took me to the kirk--weel, it's the fairst time, I hope, I've ever
+took me to the kirk--weel, it's the fairst [[Time|time]], I [[Hope|hope]], I've ever
 
 been hypocreetical; but I stayed behind to pray, and I think ye had
 
 hopes of my convairsion.  But I prayed because Jamie prayed; and
 
-when he rose from his prayers, I followed him and killed him i' the
+when he [[Rose|rose]] from his prayers, I followed him and killed him i' the
 
 kirkyard."
 
 
 
-Angus was still looking at the knife in silence; then he said
+Angus was still looking at the knife in [[Silence|silence]]; then he said
 
 suddenly:  "Why did you kill him?"
 
 
 
-"Ye needna ask, noo we are agreed in moral philosophy," replied the
+"Ye needna ask, noo we are agreed in moral [[philosophy]]," replied the
 
 old doctor simply.  "It was just plain surgery.  As we sacrifice a
 
-finger to save the body, so we maun sacrifice a man to save the
+finger to save the [[Body|body]], so we maun sacrifice a man to save the
 
-body politic.  I killed him because he was doing evil, and
+[[Body|body]] politic.  I killed him because he was doing evil, and
 
 inhumanly preventing what was guid for humanity: the scheme for the
 
@@ -1232,11 +1232,11 @@ same experience."
 
 but evil," answered Angus.  "I still think you were doing evil;
 
-even though you were serving truth.  You have convinced me that my
+even though you were serving [[Truth|truth]].  You have convinced me that my
 
-beliefs were dreams; but not that dreaming is worse than waking up.
+beliefs were [[Dreams|dreams]]; but not that dreaming is worse than waking up.
 
-You brutally broke the dreams of the humble, sneered at the weak
+You brutally broke the [[Dreams|dreams]] of the humble, sneered at the weak
 
 hopes of the bereaved.  You seem cruel and inhuman to me, just as
 
@@ -1272,11 +1272,11 @@ his voice.
 
 held back only by the superstition you have destroyed tonight.  Day
 
-after day, you have been battering down the scruples which alone
+after day, you have been battering down the scruples which [[Alone|alone]]
 
-defended you from death.  You wise thinker; you wary reasoner; you
+defended you from [[Death|death]].  You wise thinker; you wary reasoner; you
 
-fool!  It would be better for you to-night if I still believed in
+[[Fool|fool]]!  It would be better for you to-[[Night|night]] if I still believed in
 
 God and in his Commandment against murder."
 
@@ -1290,7 +1290,7 @@ table, where he lay as if fainting.  Round them and above them the
 
 empty tiers of concentric seats glimmered in the faint and frigid
 
-moonlight as desolate as the Colosseum under the moon; a deserted
+moonlight as desolate as the Colosseum under the [[Moon|moon]]; a deserted
 
 amphitheatre where there was no human voice to cry "Habet!"  The
 
@@ -1298,11 +1298,11 @@ red-haired slayer stood with the knife uplifted, as strange in
 
 shape as the flint knife of some prehistoric sacrifice; and still
 
-he talked on in the high tones of madness.
+he talked on in the high tones of [[Madness|madness]].
 
 
 
-"One thing alone protected you and kept the peace between us: that
+"One thing [[Alone|alone]] protected you and kept the peace between us: that
 
 we disagreed.  Now we agree, now we are at one in thought--and
 
@@ -1314,21 +1314,21 @@ at peace."
 
 And with the sound of that word he struck; and Andrew Campbell
 
-moved for the last time.  In his own cold temple, upon his own
+moved for the last [[Time|time]].  In his own cold temple, upon his own
 
 godless altar . . . he stirred and then lay still; and the murderer
 
-bent and fled from the building and from the city and across the
+bent and fled from the building and from the [[City|city]] and across the
 
-Highland line at night, to hide himself in the hills.
-
-
+Highland line at [[Night|night]], to hide himself in the hills.
 
 
 
 
 
-When Pond had told this story, Gahagan rose slowly to his gigantic
+
+
+When Pond had told this story, Gahagan [[Rose|rose]] slowly to his gigantic
 
 height and knocked out his cigar in an ashtray:  "I darkly suspect,
 
@@ -1348,7 +1348,7 @@ Poles or Prussians or other foreigners have agreed.  We don't often
 
 ask what they've agreed on.  But agreement can be rather risky,
 
-unless it's agreement with the truth."
+unless it's agreement with the [[Truth|truth]]."
 
 
 

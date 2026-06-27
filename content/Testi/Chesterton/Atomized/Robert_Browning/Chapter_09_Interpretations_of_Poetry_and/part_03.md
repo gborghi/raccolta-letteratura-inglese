@@ -23,7 +23,7 @@ this deduction as sound is to misunderstand Browning at the very start
 of every poem that he ever wrote. There is nothing that the man loved
 more, nothing that deserves more emphatically to be called a
 speciality of Browning, than the utterance of large and noble truths
-by the lips of mean and grotesque human beings. In his poetry praise
+by the lips of mean and [[Grotesque|grotesque]] human beings. In his poetry praise
 and wisdom were perfected not only out of the mouths of babes and
 sucklings, but out of the mouths of swindlers and snobs. Now what, as
 a matter of fact, is the outline and development of the poem of
@@ -35,16 +35,16 @@ a piece of trickery for which there is no conceivable explanation or
 palliation which will leave his moral character intact. He is
 therefore seized with a sudden resolution, partly angry, partly
 frightened, and partly humorous, to become absolutely frank, and to
-tell the whole truth about himself for the first time not only to his
+tell the whole [[Truth|truth]] about himself for the first [[Time|time]] not only to his
 dupe, but to himself. He excuses himself for the earlier stages of the
-trickster's life by a survey of the border-land between truth and
+[[Trickster|trickster]]'s life by a survey of the border-land between [[Truth|truth]] and
 fiction, not by any means a piece of sophistry or cynicism, but a
 perfectly fair statement of an ethical difficulty which does exist.
 There are some people who think that it must be immoral to admit that
-there are any doubtful cases of morality, as if a man should refrain
+there are any doubtful cases of [[morality]], as if a man should refrain
 from discussing the precise boundary at the upper end of the Isthmus
-of Panama, for fear the inquiry should shake his belief in the
-existence of North America. People of this kind quite consistently
+of Panama, for [[Fear|fear]] the inquiry should shake his belief in the
+existence of North [[america|America]]. People of this kind quite consistently
 think Sludge to be merely a scoundrel talking nonsense. It may be
 remembered that they thought the same thing of Newman. It is actually
 supposed, apparently in the current use of words, that casuistry is
@@ -57,9 +57,9 @@ and analytical thing, but a very warm and sympathetic thing. To know
 what combination of excuse might justify a man in manslaughter or
 bigamy, is not to have a callous indifference to virtue; it is rather
 to have so ardent an admiration for virtue as to seek it in the
-remotest desert and the darkest incognito.
+remotest [[Desert|desert]] and the darkest incognito.
 
-This is emphatically the case with the question of truth and falsehood
+This is emphatically the case with the question of [[Truth|truth]] and falsehood
 raised in "Sludge the Medium." To say that it is sometimes difficult
 to tell at what point the romancer turns into the liar is not to state
 a cynicism, but a perfectly honest piece of human observation. To
@@ -72,7 +72,7 @@ is the case of the fairy-tales. We think a father entirely pure and
 benevolent when he tells his children that a beanstalk grew up into
 heaven, and a pumpkin turned into a coach. We should consider that he
 lapsed from purity and benevolence if he told his children that in
-walking home that evening he had seen a beanstalk grow half-way up the
+walking [[Home|home]] that evening he had seen a beanstalk grow half-way up the
 church, or a pumpkin grow as large as a wheelbarrow. Again, few people
 would object to that general privilege whereby it is permitted to a
 person in narrating even a true anecdote to work up the climax by any
@@ -89,11 +89,11 @@ and ending with a gross abuse, it certainly is not possible to deny
 his right to be heard.
 
 We must recur, however, to the question of the main development of the
-Sludge self-analysis. He begins, as we have said, by urging a general
+Sludge [[Self|self]]-analysis. He begins, as we have said, by urging a general
 excuse by the fact that in the heat of social life, in the course of
 telling tales in the intoxicating presence of sympathisers and
 believers, he has slid into falsehood almost before he is aware of it.
-So far as this goes, there is truth in his plea. Sludge might indeed
+So far as this goes, there is [[Truth|truth]] in his plea. Sludge might indeed
 find himself unexpectedly justified if we had only an exact record of
 how true were the tales told about Conservatives in an exclusive
 circle of Radicals, or the stories told about Radicals in a circle of
@@ -105,5 +105,5 @@ He professes to know how to lay the foundations for every species of
 personal acquaintanceship, and how to remedy the slight and trivial
 slips of making Plato write Greek in naughts and crosses.
 
-    "As I fear, sir, he sometimes used to do
+    "As I [[Fear|fear]], sir, he sometimes used to do
     Before I found the useful book that knows."

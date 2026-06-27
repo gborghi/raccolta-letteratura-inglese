@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 44 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 44 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -55,18 +55,18 @@ particular one in which stood the residence of Madame Mantalini. The
 name of that lady no longer appeared on the flaming door-plate, that of
 Miss Knag being substituted in its stead; but the bonnets and dresses
 were still dimly visible in the first-floor windows by the decaying
-light of a summer’s evening, and excepting this ostensible alteration in
+light of a [[Summer|summer]]’s evening, and excepting this ostensible alteration in
 the proprietorship, the establishment wore its old appearance.
 
 ‘Humph!’ muttered Ralph, drawing his hand across his mouth with a
-connoisseur-like air, and surveying the house from top to bottom; ‘these
-people look pretty well. They can’t last long; but if I know of their
-going in good time, I am safe, and a fair profit too. I must keep them
+connoisseur-like air, and surveying the [[house]] from top to [[Bottom|bottom]]; ‘these
+people look pretty [[Well|well]]. They can’t last long; but if I know of their
+going in good [[Time|time]], I am safe, and a fair profit too. I must keep them
 closely in view; that’s all.’
 
 So, nodding his head very complacently, Ralph was leaving the spot, when
 his quick ear caught the sound of a confused noise and hubbub of voices,
-mingled with a great running up and down stairs, in the very house
+mingled with a great running up and down stairs, in the very [[house]]
 which had been the subject of his scrutiny; and while he was hesitating
 whether to knock at the door or listen at the keyhole a little longer, a
 female servant of Madame Mantalini’s (whom he had often seen) opened
@@ -76,7 +76,7 @@ air.
 ‘Hallo here. Stop!’ cried Ralph. ‘What’s the matter? Here am I. Didn’t
 you hear me knock?’
 
-‘Oh! Mr. Nickleby, sir,’ said the girl. ‘Go up, for the love of Gracious.
+‘Oh! Mr. Nickleby, sir,’ said the girl. ‘Go up, for the [[Love|love]] of Gracious.
 Master’s been and done it again.’
 
 ‘Done what?’ said Ralph, tartly; ‘what d’ye mean?’
@@ -89,7 +89,7 @@ along.’
 of the establishment. Come here; do you hear me, girl?’
 
 Without any further expostulation, he led or rather pulled the
-frightened handmaid into the house, and shut the door; then bidding her
+frightened handmaid into the [[house]], and shut the door; then bidding her
 walk upstairs before him, followed without more ceremony.
 
 Guided by the noise of a great many voices all talking together, and
@@ -100,8 +100,8 @@ himself.
 
 There were all the young-lady workers, some with bonnets and some
 without, in various attitudes expressive of alarm and consternation;
-some gathered round Madame Mantalini, who was in tears upon one chair;
-and others round Miss Knag, who was in opposition tears upon another;
+some gathered round Madame Mantalini, who was in [[Tears|tears]] upon one chair;
+and others round Miss Knag, who was in opposition [[Tears|tears]] upon another;
 and others round Mr. Mantalini, who was perhaps the most striking figure
 in the whole group, for Mr. Mantalini’s legs were extended at full length
 upon the floor, and his head and shoulders were supported by a very
@@ -111,7 +111,7 @@ comparatively straight, and his whiskers and moustache were limp, and
 his teeth were clenched, and he had a little bottle in his right hand,
 and a little tea-spoon in his left; and his hands, arms, legs, and
 shoulders, were all stiff and powerless. And yet Madame Mantalini was
-not weeping upon the body, but was scolding violently upon her chair;
+not weeping upon the [[Body|body]], but was scolding violently upon her chair;
 and all this amidst a clamour of tongues perfectly deafening, and which
 really appeared to have driven the unfortunate footman to the utmost
 verge of distraction.
@@ -124,5 +124,5 @@ himself’--‘He hasn’t’--‘Send for a doctor’--‘Don’t’--‘He’s
 isn’t, he’s only pretending’--with various other cries, poured forth
 with bewildering volubility, until Madame Mantalini was seen to address
 herself to Ralph, when female curiosity to know what she would say,
-prevailed, and, as if by general consent, a dead silence, unbroken by a
+prevailed, and, as if by general consent, a dead [[Silence|silence]], unbroken by a
 single whisper, instantaneously succeeded.

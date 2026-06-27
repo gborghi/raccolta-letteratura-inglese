@@ -1,5 +1,5 @@
 ---
-title: "Wuthering Heights — Chapter 13 (part 4)"
+title: "[[Wuthering Heights]] — Chapter 13 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Wuthering-Heights-(Bronte)"
@@ -21,17 +21,17 @@ He pointed into the second garret, only differing from the first in
 being more naked about the walls, and having a large, low, curtainless
 bed, with an indigo-coloured quilt, at one end.
 
-“What do I want with yours?” I retorted. “I suppose Mr. Heathcliff does
-not lodge at the top of the house, does he?”
+“What do I want with yours?” I retorted. “I suppose Mr. [[Heathcliff]] does
+not lodge at the top of the [[house]], does he?”
 
 “Oh! it’s Maister _Hathecliff’s_ ye’re wanting?” cried he, as if making
 a new discovery. “Couldn’t ye ha’ said soa, at onst? un’ then, I mud
 ha’ telled ye, baht all this wark, that that’s just one ye cannut
 see—he allas keeps it locked, un’ nob’dy iver mells on’t but hisseln.”
 
-“You’ve a nice house, Joseph,” I could not refrain from observing, “and
+“You’ve a nice [[house]], Joseph,” I could not refrain from observing, “and
 pleasant inmates; and I think the concentrated essence of all the
-madness in the world took up its abode in my brain the day I linked my
+[[Madness|madness]] in the world took up its abode in my brain the day I linked my
 fate with theirs! However, that is not to the present purpose—there are
 other rooms. For heaven’s sake be quick, and let me settle somewhere!”
 
@@ -39,7 +39,7 @@ He made no reply to this adjuration; only plodding doggedly down the
 wooden steps, and halting before an apartment which, from that halt
 and the superior quality of its furniture, I conjectured to be the best
 one. There was a carpet—a good one, but the pattern was obliterated by
-dust; a fireplace hung with cut-paper, dropping to pieces; a handsome
+[[Dust|dust]]; a fireplace hung with cut-paper, dropping to pieces; a handsome
 oak-bedstead with ample crimson curtains of rather expensive material
 and modern make; but they had evidently experienced rough usage: the
 vallances hung in festoons, wrenched from their rings, and the iron rod
@@ -47,8 +47,8 @@ supporting them was bent in an arc on one side, causing the drapery to
 trail upon the floor. The chairs were also damaged, many of them
 severely; and deep indentations deformed the panels of the walls. I was
 endeavouring to gather resolution for entering and taking possession,
-when my fool of a guide announced,—“This here is t’ maister’s.” My
-supper by this time was cold, my appetite gone, and my patience
+when my [[Fool|fool]] of a guide announced,—“This here is t’ maister’s.” My
+supper by this [[Time|time]] was cold, my appetite gone, and my patience
 exhausted. I insisted on being provided instantly with a place of
 refuge, and means of repose.
 
@@ -72,7 +72,7 @@ I nobbut wish he may catch ye i’ that plisky. I nobbut wish he may.”
 And so he went on scolding to his den beneath, taking the candle with
 him; and I remained in the dark. The period of reflection succeeding
 this silly action compelled me to admit the necessity of smothering my
-pride and choking my wrath, and bestirring myself to remove its
+[[Pride|pride]] and choking my wrath, and bestirring myself to remove its
 effects. An unexpected aid presently appeared in the shape of
 Throttler, whom I now recognised as a son of our old Skulker: it had
 spent its whelphood at the Grange, and was given by my father to Mr.
@@ -87,25 +87,25 @@ unsuccessful; as I guessed by a scutter downstairs, and a prolonged,
 piteous yelping. I had better luck: he passed on, entered his chamber,
 and shut the door. Directly after Joseph came up with Hareton, to put
 him to bed. I had found shelter in Hareton’s room, and the old man, on
-seeing me, said,—“They’s rahm for boath ye un’ yer pride, now, I sud
+seeing me, said,—“They’s rahm for boath ye un’ yer [[Pride|pride]], now, I sud
 think i’ the hahse. It’s empty; ye may hev’ it all to yerseln, un’ Him
 as allas maks a third, i’ sich ill company!”
 
 Gladly did I take advantage of this intimation; and the minute I flung
-myself into a chair, by the fire, I nodded, and slept. My slumber was
-deep and sweet, though over far too soon. Mr. Heathcliff awoke me; he
+myself into a chair, by the [[Fire|fire]], I nodded, and slept. My slumber was
+deep and sweet, though over far too soon. Mr. [[Heathcliff]] awoke me; he
 had just come in, and demanded, in his loving manner, what I was doing
 there? I told him the cause of my staying up so late—that he had the
 key of our room in his pocket. The adjective _our_ gave mortal offence.
 He swore it was not, nor ever should be, mine; and he’d—but I’ll not
 repeat his language, nor describe his habitual conduct: he is ingenious
-and unresting in seeking to gain my abhorrence! I sometimes wonder at
-him with an intensity that deadens my fear: yet, I assure you, a tiger
+and unresting in seeking to gain my abhorrence! I sometimes [[Wonder|wonder]] at
+him with an intensity that deadens my [[Fear|fear]]: yet, I assure you, a tiger
 or a venomous serpent could not rouse terror in me equal to that which
 he wakens. He told me of Catherine’s illness, and accused my brother of
-causing it; promising that I should be Edgar’s proxy in suffering, till
+causing it; promising that I should be [[Edgar]]’s proxy in [[Suffering|suffering]], till
 he could get hold of him.
 
-I do hate him—I am wretched—I have been a fool! Beware of uttering one
+I do hate him—I am wretched—I have been a [[Fool|fool]]! Beware of uttering one
 breath of this to any one at the Grange. I shall expect you every
-day—don’t disappoint me!—ISABELLA.
+day—don’t disappoint me!—[[Isabella|ISABELLA]].

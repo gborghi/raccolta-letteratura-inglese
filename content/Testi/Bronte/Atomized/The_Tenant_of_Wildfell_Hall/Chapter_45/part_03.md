@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 45 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 45 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -38,17 +38,17 @@ you may, but—”
 
 
 
-“I don’t, Helen.”
+“I don’t, [[Helen]].”
 
 
 
-“Well, never mind: you might if you would: but I have not spent my
+“[[Well]], never mind: you might if you would: but I have not spent my
 
-solitude in utter idleness, and I am not speaking now from the impulse
+[[Solitude|solitude]] in utter idleness, and I am not speaking now from the impulse
 
 of the moment, as you do. I have thought of all these matters again and
 
-again; I have argued these questions with myself, and pondered well our
+again; I have argued these questions with myself, and pondered [[Well|well]] our
 
 past, and present, and future career; and, believe me, I have come to
 
@@ -66,7 +66,7 @@ reason. It was hard enough to combat those suggestions as they were
 
 whispered within me; in your mouth they are ten times worse, and if you
 
-knew how much they pain me you would cease at once, I know. If you knew
+knew how much they [[Pain|pain]] me you would cease at once, I know. If you knew
 
 my present feelings, you would even try to relieve them at the expense
 
@@ -78,7 +78,7 @@ of your own.”
 
 said I, with bitter emphasis. “But, if we may never meet, and never
 
-hope to meet again, is it a crime to exchange our thoughts by letter?
+[[Hope|hope]] to meet again, is it a crime to exchange our thoughts by letter?
 
 May not kindred spirits meet, and mingle in communion, whatever be the
 
@@ -92,11 +92,11 @@ enthusiasm. “I thought of that too, Gilbert, but I feared to mention
 
 it, because I feared you would not understand my views upon the
 
-subject. I fear it even now—I fear any kind friend would tell us we are
+subject. I [[Fear|fear]] it even now—I [[Fear|fear]] any kind friend would tell us we are
 
 _both_ deluding ourselves with the idea of keeping up a spiritual
 
-intercourse without hope or prospect of anything further—without
+intercourse without [[Hope|hope]] or prospect of anything further—without
 
 fostering vain regrets and hurtful aspirations, and feeding thoughts
 
@@ -120,7 +120,7 @@ fresh food for scandal; and when I departed, I had intended that my new
 
 abode should be unknown to you as to the rest of the world; not that I
 
-should doubt your word if you promised not to visit me, but I thought
+should [[Doubt|doubt]] your word if you promised not to visit me, but I thought
 
 you would be more tranquil in your own mind if you knew you could not
 
@@ -146,27 +146,27 @@ answer you.”
 
 
 
-“Yes, to give your present ardour time to cool, and try the truth and
+“Yes, to give your present ardour [[Time|time]] to cool, and try the [[Truth|truth]] and
 
-constancy of your soul’s love for mine. And now, enough has been said
+constancy of your [[Soul|soul]]’s [[Love|love]] for mine. And now, enough has been said
 
 between us. Why can’t we part at once?” exclaimed she, almost wildly,
 
-after a moment’s pause, as she suddenly rose from her chair, with her
+after a moment’s pause, as she suddenly [[Rose|rose]] from her chair, with her
 
 hands resolutely clasped together. I thought it was my duty to go
 
 without delay; and I approached and half extended my hand as if to take
 
-leave—she grasped it in silence. But this thought of final separation
+leave—she grasped it in [[Silence|silence]]. But this thought of final separation
 
-was too intolerable: it seemed to squeeze the blood out of my heart;
+was too intolerable: it seemed to squeeze the [[Blood|blood]] out of my heart;
 
 and my feet were glued to the floor.
 
 
 
-“And must we never meet again?” I murmured, in the anguish of my soul.
+“And must we never meet again?” I murmured, in the anguish of my [[Soul|soul]].
 
 
 
@@ -188,7 +188,7 @@ this!—and a heart, perhaps, entirely estranged from me.”
 
 
 
-“No, Gilbert, there is perfect love in heaven!”
+“No, Gilbert, there is perfect [[Love|love]] in heaven!”
 
 
 
@@ -212,11 +212,11 @@ better.”
 
 “But if I am to be so changed that I shall cease to adore you with my
 
-whole heart and soul, and love you beyond every other creature, I shall
+whole heart and [[Soul|soul]], and [[Love|love]] you beyond every other creature, I shall
 
 not be myself; and though, if ever I win heaven at all, I must, I know,
 
-be infinitely better and happier than I am now, my earthly nature
+be infinitely better and happier than I am now, my earthly [[Nature|nature]]
 
 cannot rejoice in the anticipation of such beatitude, from which itself
 
@@ -224,7 +224,7 @@ and its chief joy must be excluded.”
 
 
 
-“Is your love _all_ earthly, then?”
+“Is your [[Love|love]] _all_ earthly, then?”
 
 
 
@@ -234,12 +234,12 @@ each other than with the rest.”
 
 
 
-“If so, it will be because we love them more, and not each other less.
+“If so, it will be because we [[Love|love]] them more, and not each other less.
 
-Increase of love brings increase of happiness, when it is mutual, and
+Increase of [[Love|love]] brings increase of happiness, when it is mutual, and
 
 pure as that will be.”
 
 
 
-“But can _you_, Helen, contemplate with delight this prospect of losing
+“But can _you_, [[Helen]], contemplate with delight this prospect of losing

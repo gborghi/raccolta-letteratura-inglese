@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 22"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 22"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -28,19 +28,19 @@ try to persuade myself that the sweetness overpowers it; I may call it
 
 a pleasant aromatic flavour; but say what I will, it is still there,
 
-and I cannot but taste it. I cannot shut my eyes to Arthur’s faults;
+and I cannot but taste it. I cannot shut my eyes to [[arthur|Arthur]]’s faults;
 
-and the more I love him the more they trouble me. His very heart, that
+and the more I [[Love|love]] him the more they trouble me. His very heart, that
 
-I trusted so, is, I fear, less warm and generous than I thought it. At
+I trusted so, is, I [[Fear|fear]], less warm and generous than I thought it. At
 
 least, he gave me a specimen of his character to-day that seemed to
 
-merit a harder name than thoughtlessness. He and Lord Lowborough were
+merit a harder name than thoughtlessness. He and [[Lord Lowborough]] were
 
 accompanying Annabella and me in a long, delightful ride; he was riding
 
-by my side, as usual, and Annabella and Lord Lowborough were a little
+by my side, as usual, and Annabella and [[Lord Lowborough]] were a little
 
 before us, the latter bending towards his companion as if in tender and
 
@@ -48,13 +48,13 @@ confidential discourse.
 
 
 
-“Those two will get the start of us, Helen, if we don’t look sharp,”
+“Those two will get the start of us, [[Helen]], if we don’t look sharp,”
 
 observed Huntingdon. “They’ll make a match of it, as sure as can be.
 
 That Lowborough’s fairly besotted. But he’ll find himself in a fix when
 
-he’s got her, I doubt.”
+he’s got her, I [[Doubt|doubt]].”
 
 
 
@@ -64,19 +64,19 @@ what I’ve heard of him is true.”
 
 
 
-“Not a bit of it. She knows what she’s about; but he, poor fool,
+“Not a bit of it. She knows what she’s about; but he, poor [[Fool|fool]],
 
 deludes himself with the notion that she’ll make him a good wife, and
 
 because she has amused him with some rodomontade about despising rank
 
-and wealth in matters of love and marriage, he flatters himself that
+and wealth in matters of [[Love|love]] and [[Marriage|marriage]], he flatters himself that
 
 she’s devotedly attached to him; that she will not refuse him for his
 
-poverty, and does not court him for his rank, but loves him for himself
+[[Poverty|poverty]], and does not [[Court|court]] him for his rank, but loves him for himself
 
-alone.”
+[[Alone|alone]].”
 
 
 
@@ -90,25 +90,25 @@ quite lost sight of it: it never enters his calculations, except merely
 
 as an essential without which, for the lady’s own sake, he could not
 
-think of marrying her. No; he’s fairly in love. He thought he never
+think of marrying her. No; he’s fairly in [[Love|love]]. He thought he never
 
 could be again, but he’s in for it once more. He was to have been
 
 married before, some two or three years ago; but he lost his bride by
 
-losing his fortune. He got into a bad way among us in London: he had an
+losing his fortune. He got into a bad way among us in [[London]]: he had an
 
 unfortunate taste for gambling; and surely the fellow was born under an
 
 unlucky star, for he always lost thrice where he gained once. That’s a
 
-mode of self-torment I never was much addicted to. When I spend my
+mode of [[Self|self]]-torment I never was much addicted to. When I spend my
 
 money I like to enjoy the full value of it: I see no fun in wasting it
 
 on thieves and blacklegs; and as for _gaining_ money, hitherto I have
 
-always had sufficient; it’s time enough to be clutching for more, I
+always had sufficient; it’s [[Time|time]] enough to be clutching for more, I
 
 think, when you begin to see the end of what you have. But I have
 
@@ -116,7 +116,7 @@ sometimes frequented the gaming-houses just to watch the on-goings of
 
 those mad votaries of chance—a very interesting study, I assure you,
 
-Helen, and sometimes very diverting: I’ve had many a laugh at the
+[[Helen]], and sometimes very diverting: I’ve had many a laugh at the
 
 boobies and bedlamites. Lowborough was quite infatuated—not willingly,
 
@@ -124,13 +124,13 @@ but of necessity,—he was always resolving to give it up, and always
 
 breaking his resolutions. Every venture was the “just once more:” if he
 
-gained a little, he hoped to gain a little more next time, and if he
+gained a little, he hoped to gain a little more next [[Time|time]], and if he
 
 lost, it would not do to leave off at that juncture; he must go on till
 
 he had retrieved that last misfortune, at least: bad luck could not
 
-last for ever; and every lucky hit was looked upon as the dawn of
+last for ever; and every lucky hit was looked upon as the [[Dawn|dawn]] of
 
 better times, till experience proved the contrary. At length he grew
 
@@ -144,15 +144,15 @@ to a check. He made a large stake, which he determined should be the
 
 last, whether he lost or won. He had often so determined before, to be
 
-sure, and as often broken his determination; and so it was this time.
+sure, and as often broken his determination; and so it was this [[Time|time]].
 
 He lost; and while his antagonist smilingly swept away the stakes, he
 
-turned chalky white, drew back in silence, and wiped his forehead. I
+turned chalky white, drew back in [[Silence|silence]], and wiped his forehead. I
 
-was present at the time; and while he stood with folded arms and eyes
+was present at the [[Time|time]]; and while he stood with folded arms and eyes
 
-fixed on the ground, I knew well enough what was passing in his mind.
+fixed on the ground, I knew [[Well|well]] enough what was passing in his mind.
 
 
 
@@ -206,7 +206,7 @@ And then he winked at me.
 
 “‘No; you heard my oath,’ answered Lowborough, turning away in quiet
 
-despair. And I took him by the arm and led him out.
+[[Despair|despair]]. And I took him by the arm and led him out.
 
 
 
@@ -218,9 +218,9 @@ street.
 
 “‘The last,’ he answered, somewhat against my expectation. And I took
 
-him home—that is, to our club—for he was as submissive as a child—and
+him [[Home|home]]—that is, to our club—for he was as submissive as a [[Child|child]]—and
 
-plied him with brandy-and-water till he began to look rather
+plied him with brandy-and-[[Water|water]] till he began to look rather
 
 brighter—rather more alive, at least.
 
@@ -228,13 +228,13 @@ brighter—rather more alive, at least.
 
 “‘Huntingdon, I’m ruined!’ said he, taking the third glass from my
 
-hand—he had drunk the others in dead silence.
+hand—he had drunk the others in dead [[Silence|silence]].
 
 
 
 “‘Not you,’ said I. ‘You’ll find a man can live without his money as
 
-merrily as a tortoise without its head, or a wasp without its body.’
+merrily as a tortoise without its head, or a wasp without its [[Body|body]].’
 
 
 
@@ -244,9 +244,9 @@ out of it.’
 
 
 
-“‘Well, what of that? Many a better man than you has lived and died in
+“‘[[Well]], what of that? Many a better man than you has lived and died in
 
-debt; and they can’t put you in prison, you know, because you’re a
+debt; and they can’t put you in [[Prison|prison]], you know, because you’re a
 
 peer.’ And I handed him his fourth tumbler.
 
@@ -278,7 +278,7 @@ one.’
 
 “‘There’s only one for me,’ he replied, with a dolorous sigh. ‘And if
 
-there were fifty more, who’s to get them, I wonder, without money?’
+there were fifty more, who’s to get them, I [[Wonder|wonder]], without money?’
 
 
 
@@ -334,7 +334,7 @@ tempt him.”
 
 
 
-“Well, what could we do?” replied he, deprecatingly.—“We meant it in
+“[[Well]], what could we do?” replied he, deprecatingly.—“We meant it in
 
 kindness—we couldn’t bear to see the poor fellow so miserable:—and
 
@@ -344,7 +344,7 @@ when he was under the threefold influence—of the loss of his
 
 sweetheart, the loss of his fortune, and the reaction of the lost
 
-night’s debauch; whereas, when he had something in him, if he was not
+[[Night|night]]’s debauch; whereas, when he had something in him, if he was not
 
 merry himself, he was an unfailing source of merriment to us. Even
 
@@ -356,13 +356,13 @@ when we were sitting over our wine, after one of our club dinners, and
 
 all had been hearty together,—Lowborough giving us mad toasts, and
 
-hearing our wild songs, and bearing a hand in the applause, if he did
+hearing our wild [[songs]], and bearing a hand in the applause, if he did
 
-not help us to sing them himself,—he suddenly relapsed into silence,
+not help us to sing them himself,—he suddenly relapsed into [[Silence|silence]],
 
 sinking his head on his hand, and never lifting his glass to his
 
-lips;—but this was nothing new; so we let him alone, and went on with
+lips;—but this was nothing new; so we let him [[Alone|alone]], and went on with
 
 our jollification, till, suddenly raising his head, he interrupted us
 
@@ -372,7 +372,7 @@ in the middle of a roar of laughter by exclaiming,—
 
 “Gentlemen, where is all this to end?—Will you just tell me _that_
 
-now?—Where is it all to end?” He rose.
+now?—Where is it all to end?” He [[Rose|rose]].
 
 
 
@@ -428,11 +428,11 @@ threw it out into the middle of the table.
 
 “‘Fill again!’ said I, handing him the bottle—‘and let us drink to your
 
-renunciation.’
+[[Renunciation|renunciation]].’
 
 
 
-“‘It’s rank poison,’ said he, grasping the bottle by the neck, ‘and I
+“‘It’s rank [[Poison|poison]],’ said he, grasping the bottle by the neck, ‘and I
 
 forswear it! I’ve given up gambling, and I’ll give up this too.’ He was
 
@@ -456,21 +456,21 @@ really began to think he was going to keep his word. At last, one
 
 evening, when we were most of us assembled together again, he entered,
 
-silent and grim as a ghost, and would have quietly slipped into his
+silent and grim as a [[Ghost|ghost]], and would have quietly slipped into his
 
-usual seat at my elbow, but we all rose to welcome him, and several
+usual seat at my elbow, but we all [[Rose|rose]] to welcome him, and several
 
 voices were raised to ask what he would have, and several hands were
 
 busy with bottle and glass to serve him; but I knew a smoking tumbler
 
-of brandy-and-water would comfort him best, and had nearly prepared it,
+of brandy-and-[[Water|water]] would comfort him best, and had nearly prepared it,
 
 when he peevishly pushed it away, saying,—
 
 
 
-“‘Do let me alone, Huntingdon! Do be quiet, all of you! I’m not come to
+“‘Do let me [[Alone|alone]], Huntingdon! Do be quiet, all of you! I’m not come to
 
 join you: I’m only come to be with you awhile, because I can’t bear my
 
@@ -480,7 +480,7 @@ we let him be. But I left the glass by him; and, after awhile, Grimsby
 
 directed my attention towards it, by a significant wink; and, on
 
-turning my head, I saw it was drained to the bottom. He made me a sign
+turning my head, I saw it was drained to the [[Bottom|bottom]]. He made me a sign
 
 to replenish, and quietly pushed up the bottle. I willingly complied;
 
@@ -494,11 +494,11 @@ me, and then bolted from the room.”
 
 
 
-“I hope he broke your head,” said I.
+“I [[Hope|hope]] he broke your head,” said I.
 
 
 
-“No, love,” replied he, laughing immoderately at the recollection of
+“No, [[Love|love]],” replied he, laughing immoderately at the recollection of
 
 the whole affair; “he would have done so,—and perhaps, spoilt my face,
 
@@ -522,19 +522,19 @@ contrary, he would cling to me, and follow me anywhere but to the club,
 
 and the gaming-houses, and such-like dangerous places of resort—he was
 
-so weary of his own moping, melancholy mind. At last, I got him to come
+so weary of his own moping, [[Melancholy|melancholy]] mind. At last, I got him to come
 
 in with me to the club, on condition that I would not tempt him to
 
-drink; and, for some time, he continued to look in upon us pretty
+drink; and, for some [[Time|time]], he continued to look in upon us pretty
 
 regularly of an evening,—still abstaining, with wonderful perseverance,
 
-from the ‘rank poison’ he had so bravely forsworn. But some of our
+from the ‘rank [[Poison|poison]]’ he had so bravely forsworn. But some of our
 
 members protested against this conduct. They did not like to have him
 
-sitting there like a skeleton at a feast, instead of contributing his
+sitting there like a [[skeleton]] at a feast, instead of contributing his
 
 quota to the general amusement, casting a cloud over all, and watching,
 
@@ -544,7 +544,7 @@ was not fair; and some of them maintained that he should either be
 
 compelled to do as others did, or expelled from the society; and swore
 
-that, next time he showed himself, they would tell him as much, and, if
+that, next [[Time|time]] he showed himself, they would tell him as much, and, if
 
 he did not take the warning, proceed to active measures. However, I
 
@@ -554,7 +554,7 @@ a while, intimating that, with a little patience on our parts, he would
 
 soon come round again. But, to be sure, it _was_ rather provoking; for,
 
-though he refused to drink like an honest Christian, it was well known
+though he refused to drink like an honest Christian, it was [[Well|well]] known
 
 to me that he kept a private bottle of laudanum about him, which he was
 
@@ -564,19 +564,19 @@ one day and exceeding the next—just like the spirits.
 
 
 
-“One night, however, during one of our orgies—one of our high
+“One [[Night|night]], however, during one of our orgies—one of our high
 
-festivals, I mean—he glided in, like the ghost in ‘Macbeth,’ and seated
+festivals, I mean—he glided in, like the [[Ghost|ghost]] in ‘[[Macbeth]],’ and seated
 
 himself, as usual, a little back from the table, in the chair we always
 
 placed for ‘the spectre,’ whether it chose to fill it or not. I saw by
 
-his face that he was suffering from the effects of an overdose of his
+his face that he was [[Suffering|suffering]] from the effects of an overdose of his
 
 insidious comforter; but nobody spoke to him, and he spoke to nobody. A
 
-few sidelong glances, and a whispered observation, that ‘the ghost was
+few sidelong glances, and a whispered observation, that ‘the [[Ghost|ghost]] was
 
 come,’ was all the notice he drew by his appearance, and we went on
 
@@ -588,7 +588,7 @@ and exclaiming with portentous solemnity,—
 
 
 
-‘Well! it puzzles me what you can find to be so merry about. What _you_
+‘[[Well]]! it puzzles me what you can find to be so merry about. What _you_
 
 see in life I don’t know—_I_ see only the blackness of darkness, and a
 
@@ -664,11 +664,11 @@ recommended him to ‘take a little wine for his stomach’s sake,’ and,
 
 when he was sufficiently re-established, to embrace the media-via,
 
-ni-jamais-ni-toujours plan—not to kill himself like a fool, and not to
+ni-jamais-ni-toujours plan—not to kill himself like a [[Fool|fool]], and not to
 
 abstain like a ninny—in a word, to enjoy himself like a rational
 
-creature, and do as I did; for, don’t think, Helen, that I’m a tippler;
+creature, and do as I did; for, don’t think, [[Helen]], that I’m a tippler;
 
 I’m nothing at all of the kind, and never was, and never shall be. I
 
@@ -688,11 +688,11 @@ more than it did.
 
 
 
-“And did Lord Lowborough profit by your advice?” I asked.
+“And did [[Lord Lowborough]] profit by your advice?” I asked.
 
 
 
-“Why, yes, in a manner. For a while he managed very well; indeed, he
+“Why, yes, in a manner. For a while he managed very [[Well|well]]; indeed, he
 
 was a model of moderation and prudence—something too much so for the
 
@@ -700,31 +700,31 @@ tastes of our wild community; but, somehow, Lowborough had not the gift
 
 of moderation: if he stumbled a little to one side, he must go down
 
-before he could right himself: if he overshot the mark one night, the
+before he could right himself: if he overshot the mark one [[Night|night]], the
 
 effects of it rendered him so miserable the next day that he must
 
 repeat the offence to mend it; and so on from day to day, till his
 
-clamorous conscience brought him to a stand. And then, in his sober
+clamorous [[Conscience|conscience]] brought him to a stand. And then, in his sober
 
 moments, he so bothered his friends with his remorse, and his terrors
 
-and woes, that they were obliged, in self-defence, to get him to drown
+and woes, that they were obliged, in [[Self|self]]-defence, to get him to drown
 
 his sorrows in wine, or any more potent beverage that came to hand; and
 
-when his first scruples of conscience were overcome, he would need no
+when his first scruples of [[Conscience|conscience]] were overcome, he would need no
 
 more persuading, he would often grow desperate, and be as great a
 
-blackguard as any of them could desire—but only to lament his own
+blackguard as any of them could [[Desire|desire]]—but only to lament his own
 
 unutterable wickedness and degradation the more when the fit was over.
 
 
 
-“At last, one day when he and I were alone together, after pondering
+“At last, one day when he and I were [[Alone|alone]] together, after pondering
 
 awhile in one of his gloomy, abstracted moods, with his arms folded and
 
@@ -742,17 +742,17 @@ grasping my arm, said,—
 
 
 
-“‘No; I’m going to reform.’
+“‘No; I’m going to [[Reform|reform]].’
 
 
 
-“‘Oh, _that’s_ nothing new! You’ve been going to reform these twelve
+“‘Oh, _that’s_ nothing new! You’ve been going to [[Reform|reform]] these twelve
 
 months and more.’
 
 
 
-“‘Yes, but you wouldn’t let me; and I was such a fool I couldn’t live
+“‘Yes, but you wouldn’t let me; and I was such a [[Fool|fool]] I couldn’t live
 
 without you. But now I see what it is that keeps me back, and what’s
 
@@ -768,7 +768,7 @@ last.
 
 
 
-“‘A wife,’ he answered; ‘for I can’t live alone, because my own mind
+“‘A wife,’ he answered; ‘for I can’t live [[Alone|alone]], because my own mind
 
 distracts me, and I can’t live with you, because you take the devil’s
 
@@ -792,19 +792,19 @@ straight in the world—’
 
 
 
-“‘And sweetness and goodness enough,’ he continued, ‘to make home
+“‘And sweetness and goodness enough,’ he continued, ‘to make [[Home|home]]
 
 tolerable, and to reconcile me to myself, I think I should do yet. I
 
-shall never be in love again, that’s certain; but perhaps that would be
+shall never be in [[Love|love]] again, that’s certain; but perhaps that would be
 
 no great matter, it would enable me to choose with my eyes open—and I
 
-should make a good husband in spite of it; but could any one be in love
+should make a good husband in spite of it; but could any one be in [[Love|love]]
 
 with _me?_—that’s the question. With _your_ good looks and powers of
 
-fascination’ (he was pleased to say), ‘I might hope; but as it is,
+fascination’ (he was pleased to say), ‘I might [[Hope|hope]]; but as it is,
 
 Huntingdon, do you think _any_body would take me—ruined and wretched as
 
@@ -820,25 +820,25 @@ I am?’
 
 
 
-“‘Why, any neglected old maid, fast sinking in despair, would be
+“‘Why, any neglected old maid, fast sinking in [[Despair|despair]], would be
 
 delighted to—’
 
 
 
-“‘No, no,’ said he—‘it must be somebody that I can love.’
+“‘No, no,’ said he—‘it must be somebody that I can [[Love|love]].’
 
 
 
-“‘Why, you just said you never could be in love again!’
+“‘Why, you just said you never could be in [[Love|love]] again!’
 
 
 
-“‘Well, love is not the word—but somebody that I can like. I’ll search
+“‘[[Well]], [[Love|love]] is not the word—but somebody that I can like. I’ll search
 
 all England through, at all events!’ he cried, with a sudden burst of
 
-hope, or desperation. ‘Succeed or fail, it will be better than rushing
+[[Hope|hope]], or desperation. ‘Succeed or fail, it will be better than rushing
 
 headlong to destruction at that d—d club: so farewell to it and you.
 
@@ -852,7 +852,7 @@ den!_’
 
 “This was shameful language, but I shook hands with him, and we parted.
 
-He kept his word; and from that time forward he has been a pattern of
+He kept his word; and from that [[Time|time]] forward he has been a pattern of
 
 propriety, as far as I can tell; but till lately I have not had very
 
@@ -862,7 +862,7 @@ frequently shrunk from it, fearing lest I should wile him back to
 
 destruction, and I found his not very entertaining, especially as he
 
-sometimes attempted to awaken my conscience and draw me from the
+sometimes attempted to awaken my [[Conscience|conscience]] and draw me from the
 
 perdition he considered himself to have escaped; but when I did happen
 
@@ -874,7 +874,7 @@ but a poor account. The mothers were repelled by his empty coffers and
 
 his reputation for gambling, and the daughters by his cloudy brow and
 
-melancholy temper—besides, he didn’t understand them; he wanted the
+[[Melancholy|melancholy]] temper—besides, he didn’t understand them; he wanted the
 
 spirit and assurance to carry his point.
 
@@ -884,13 +884,13 @@ spirit and assurance to carry his point.
 
 the year’s end, I found him still a disconsolate bachelor—though,
 
-certainly, looking somewhat less like an unblest exile from the tomb
+certainly, looking somewhat less like an unblest [[Exile|exile]] from the tomb
 
 than before. The young ladies had ceased to be afraid of him, and were
 
 beginning to think him quite interesting; but the mammas were still
 
-unrelenting. It was about this time, Helen, that my good angel brought
+unrelenting. It was about this [[Time|time]], [[Helen]], that my good angel brought
 
 me into conjunction with you; and then I had eyes and ears for nobody
 
@@ -898,7 +898,7 @@ else. But, meantime, Lowborough became acquainted with our charming
 
 friend, Miss Wilmot—through the intervention of _his_ good angel, no
 
-doubt he would tell you, though he did not dare to fix his hopes on one
+[[Doubt|doubt]] he would tell you, though he did not dare to fix his hopes on one
 
 so courted and admired, till after they were brought into closer
 
@@ -906,13 +906,13 @@ contact here at Staningley, and she, in the absence of her other
 
 admirers, indubitably courted his notice and held out every
 
-encouragement to his timid advances. Then, indeed, he began to hope for
+encouragement to his timid advances. Then, indeed, he began to [[Hope|hope]] for
 
-a dawn of brighter days; and if, for a while, I darkened his prospects
+a [[Dawn|dawn]] of brighter days; and if, for a while, I darkened his prospects
 
 by standing between him and his sun—and so nearly plunged him again
 
-into the abyss of despair—it only intensified his ardour and
+into the abyss of [[Despair|despair]]—it only intensified his ardour and
 
 strengthened his hopes when I chose to abandon the field in the pursuit
 
@@ -924,7 +924,7 @@ him considerable uneasiness; but now his passion and her art together
 
 have blinded him to everything but her perfections and his amazing good
 
-fortune. Last night he came to me brimful of his new-found felicity:
+fortune. Last [[Night|night]] he came to me brimful of his new-found felicity:
 
 
 
@@ -940,9 +940,9 @@ in this life—she loves me!’
 
 
 
-“‘No, but I can no longer doubt it. Do you not see how pointedly kind
+“‘No, but I can no longer [[Doubt|doubt]] it. Do you not see how pointedly kind
 
-and affectionate she is? And she knows the utmost extent of my poverty,
+and affectionate she is? And she knows the utmost extent of my [[Poverty|poverty]],
 
 and cares nothing about it! She knows all the folly and all the
 
@@ -952,7 +952,7 @@ and title are no allurements to her; for them she utterly disregards.
 
 She is the most generous, high-minded being that can be conceived of.
 
-She will save me, body and soul, from destruction. Already, she has
+She will save me, [[Body|body]] and [[Soul|soul]], from destruction. Already, she has
 
 ennobled me in my own estimation, and made me three times better,
 
@@ -978,7 +978,7 @@ pedigree, and ‘that delightful old family seat.’”
 
 “She told me so herself; she said, ‘As for the man himself, I
 
-thoroughly despise him; but then, I suppose, it is time to be making my
+thoroughly despise him; but then, I suppose, it is [[Time|time]] to be making my
 
 choice, and if I waited for some one capable of eliciting my esteem and
 
@@ -986,7 +986,7 @@ affection, I should have to pass my life in single blessedness, for I
 
 detest you all!’ Ha, ha! I suspect she was wrong there; but, however,
 
-it is evident she has no love for _him_, poor fellow.”
+it is evident she has no [[Love|love]] for _him_, poor fellow.”
 
 
 
@@ -996,41 +996,41 @@ it is evident she has no love for _him_, poor fellow.”
 
 “What! and spoil all her plans and prospects, poor girl? No, no: that
 
-would be a breach of confidence, wouldn’t it, Helen? Ha, ha! Besides,
+would be a breach of confidence, wouldn’t it, [[Helen]]? Ha, ha! Besides,
 
 it would break his heart.” And he laughed again.
 
 
 
-“Well, Mr. Huntingdon, I don’t know what you see so amazingly diverting
+“[[Well]], Mr. Huntingdon, I don’t know what you see so amazingly diverting
 
 in the matter; I see nothing to laugh at.”
 
 
 
-“I’m laughing at _you_, just now, love,” said he, redoubling his
+“I’m laughing at _you_, just now, [[Love|love]],” said he, redoubling his
 
 machinations.
 
 
 
-And leaving him to enjoy his merriment alone, I touched Ruby with the
+And leaving him to enjoy his merriment [[Alone|alone]], I touched Ruby with the
 
 whip, and cantered on to rejoin our companions; for we had been walking
 
-our horses all this time, and were consequently a long way behind.
+our horses all this [[Time|time]], and were consequently a long way behind.
 
-Arthur was soon at my side again; but not disposed to talk to him, I
+[[arthur|Arthur]] was soon at my side again; but not disposed to talk to him, I
 
 broke into a gallop. He did the same; and we did not slacken our pace
 
-till we came up with Miss Wilmot and Lord Lowborough, which was within
+till we came up with Miss Wilmot and [[Lord Lowborough]], which was within
 
 half a mile of the park-gates. I avoided all further conversation with
 
 him till we came to the end of our ride, when I meant to jump off my
 
-horse and vanish into the house, before he could offer his assistance;
+[[Horse|horse]] and vanish into the [[house]], before he could offer his assistance;
 
 but while I was disengaging my habit from the crutch, he lifted me off,
 
@@ -1046,11 +1046,11 @@ had forgiven him.
 
 “No, darling—God forbid that I should! but you are angry because it was
 
-to me that Annabella confessed her lack of esteem for her lover.”
+to me that Annabella confessed her lack of esteem for her [[Lover|lover]].”
 
 
 
-“No, Arthur, it is not _that_ that displeases me: it is the whole
+“No, [[arthur|Arthur]], it is not _that_ that displeases me: it is the whole
 
 system of your conduct towards your friend, and if you wish me to
 
@@ -1062,21 +1062,21 @@ happiness.”
 
 
 
-“I tell you, Helen, it would break his heart—it would be the death of
+“I tell you, [[Helen]], it would break his heart—it would be the [[Death|death]] of
 
 him—besides being a scandalous trick to poor Annabella. There is no
 
 help for him now; he is past praying for. Besides, she may keep up the
 
-deception to the end of the chapter; and then he will be just as happy
+[[Deception|deception]] to the end of the chapter; and then he will be just as happy
 
 in the illusion as if it were reality; or perhaps he will only discover
 
-his mistake when he has ceased to love her; and if not, it is much
+his mistake when he has ceased to [[Love|love]] her; and if not, it is much
 
-better that the truth should dawn gradually upon him. So now, my angel,
+better that the [[Truth|truth]] should [[Dawn|dawn]] gradually upon him. So now, my angel,
 
-I hope I have made out a clear case, and fully convinced you that I
+I [[Hope|hope]] I have made out a clear case, and fully convinced you that I
 
 cannot make the atonement you require. What other requisition have you
 
@@ -1118,7 +1118,7 @@ holding up her long habit.
 
 that tall, finely developed figure, and the reflection of the handsome
 
-face in the mirror before me, with the glossy dark hair, slightly and
+face in the [[Mirror|mirror]] before me, with the glossy dark hair, slightly and
 
 not ungracefully disordered by the breezy ride, the rich brown
 
@@ -1130,7 +1130,7 @@ with a laugh that savoured more of malice than of mirth,—
 
 
 
-“Why, Helen! what _have_ you been doing so long? I came to tell you my
+“Why, [[Helen]]! what _have_ you been doing so long? I came to tell you my
 
 good fortune,” she continued, regardless of Rachel’s presence. “Lord
 
@@ -1140,29 +1140,29 @@ him. Don’t you envy me, dear?”
 
 
 
-“No, love,” said I—“or him either,” I mentally added. “And do you like
+“No, [[Love|love]],” said I—“or him either,” I mentally added. “And do you like
 
 him, Annabella?”
 
 
 
-“Like him! yes, to be sure—over head and ears in love!”
+“Like him! yes, to be sure—over head and ears in [[Love|love]]!”
 
 
 
-“Well, I hope you’ll make him a good wife.”
+“[[Well]], I [[Hope|hope]] you’ll make him a good wife.”
 
 
 
-“Thank you, my dear! And what besides do you hope?”
+“Thank you, my dear! And what besides do you [[Hope|hope]]?”
 
 
 
-“I hope you will both love each other, and both be happy.”
+“I [[Hope|hope]] you will both [[Love|love]] each other, and both be happy.”
 
 
 
-“Thanks; and I hope you will make a _very_ good wife to Mr.
+“Thanks; and I [[Hope|hope]] you will make a _very_ good wife to Mr.
 
 Huntingdon!” said she, with a queenly bow, and retired.
 
@@ -1182,11 +1182,11 @@ a thing!”
 
 
 
-“Because I do hope it, or rather, I wish it; she’s almost past hope.”
+“Because I do [[Hope|hope]] it, or rather, I wish it; she’s almost past [[Hope|hope]].”
 
 
 
-“Well,” said she, “I’m sure I hope he’ll make _her_ a good husband.
+“[[Well]],” said she, “I’m sure I [[Hope|hope]] he’ll make _her_ a good husband.
 
 They tell queer things about him downstairs. They were saying—”
 
@@ -1224,7 +1224,7 @@ to make it appear as though they knew more than they do, and to throw
 
 out hints and things just to astonish the others. But I think, if I was
 
-you, Miss Helen, I’d look _very_ well before I leaped. I do believe a
+you, Miss [[Helen]], I’d look _very_ [[Well|well]] before I leaped. I do believe a
 
 young lady can’t be too careful who she marries.”
 
@@ -1238,13 +1238,13 @@ dressed.”
 
 And, indeed, I was anxious to be rid of the good woman, for I was in
 
-such a melancholy frame I could hardly keep the tears out of my eyes
+such a [[Melancholy|melancholy]] frame I could hardly keep the [[Tears|tears]] out of my eyes
 
-while she dressed me. It was not for Lord Lowborough—it was not for
+while she dressed me. It was not for [[Lord Lowborough]]—it was not for
 
-Annabella—it was not for myself—it was for Arthur Huntingdon that they
+Annabella—it was not for myself—it was for [[Arthur Huntingdon]] that they
 
-rose.
+[[Rose|rose]].
 
 
 
@@ -1256,15 +1256,15 @@ rose.
 
 13th.—They are gone, and he is gone. We are to be parted for more than
 
-two months, above ten weeks! a long, long time to live and not to see
+two months, above ten weeks! a long, long [[Time|time]] to live and not to see
 
 him. But he has promised to write often, and made me promise to write
 
 still oftener, because he will be busy settling his affairs, and I
 
-shall have nothing better to do. Well, I think I shall always have
+shall have nothing better to do. [[Well]], I think I shall always have
 
-plenty to say. But oh! for the time when we shall be always together,
+plenty to say. But oh! for the [[Time|time]] when we shall be always together,
 
 and can exchange our thoughts without the intervention of these cold
 
@@ -1278,11 +1278,11 @@ go-betweens, pen, ink, and paper!
 
 
 
-22nd.—I have had several letters from Arthur already. They are not
+22nd.—I have had several letters from [[arthur|Arthur]] already. They are not
 
 long, but passing sweet, and just like himself, full of ardent
 
-affection, and playful lively humour; but there is always a _but_ in
+affection, and playful lively [[Humour|humour]]; but there is always a _but_ in
 
 this imperfect world, and I do wish he would _sometimes_ be serious. I
 

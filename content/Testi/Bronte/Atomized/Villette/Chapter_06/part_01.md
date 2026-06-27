@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 6 (part 1)"
+title: "[[Villette]] — Chapter 6 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -15,20 +15,20 @@ tags:
 
 
 CHAPTER VI.
-LONDON.
+[[London|LONDON]].
 
 
-The next day was the first of March, and when I awoke, rose, and opened
+The next day was the first of March, and when I awoke, [[Rose|rose]], and opened
 my curtain, I saw the risen sun struggling through fog. Above my head,
-above the house-tops, co-elevate almost with the clouds, I saw a
+above the [[house]]-tops, co-elevate almost with the clouds, I saw a
 solemn, orbed mass, dark blue and dim—THE DOME. While I looked, my
-inner self moved; my spirit shook its always-fettered wings half loose;
+inner [[Self|self]] moved; my spirit shook its always-fettered wings half loose;
 I had a sudden feeling as if I, who never yet truly lived, were at last
-about to taste life. In that morning my soul grew as fast as Jonah’s
+about to taste life. In that morning my [[Soul|soul]] grew as fast as Jonah’s
 gourd.
 
-“I did well to come,” I said, proceeding to dress with speed and care.
-“I like the spirit of this great London which I feel around me. Who but
+“I did [[Well|well]] to come,” I said, proceeding to dress with [[Speed|speed]] and care.
+“I like the spirit of this great [[London]] which I feel around me. Who but
 a coward would pass his whole life in hamlets; and for ever abandon his
 faculties to the eating rust of obscurity?”
 
@@ -43,47 +43,47 @@ remember my two uncles, Charles and Wilmot, who, fifteen, years ago,
 were frequent visitors here. I mentioned their names; he recalled them
 perfectly, and with respect. Having intimated my connection, my
 position in his eyes was henceforth clear, and on a right footing. He
-said I was like my uncle Charles: I suppose he spoke truth, because
+said I was like my uncle Charles: I suppose he spoke [[Truth|truth]], because
 Mrs. Barrett was accustomed to say the same thing. A ready and obliging
 courtesy now replaced his former uncomfortably doubtful manner;
 henceforth I need no longer be at a loss for a civil answer to a
 sensible question.
 
-The street on which my little sitting-room window looked was narrow,
+The street on which my little sitting-room [[Window|window]] looked was narrow,
 perfectly quiet, and not dirty: the few passengers were just such as
 one sees in provincial towns: here was nothing formidable; I felt sure
-I might venture out alone.
+I might venture out [[Alone|alone]].
 
 Having breakfasted, out I went. Elation and pleasure were in my heart:
-to walk alone in London seemed of itself an adventure. Presently I
+to walk [[Alone|alone]] in [[London]] seemed of itself an adventure. Presently I
 found myself in Paternoster Row—classic ground this. I entered a
-bookseller’s shop, kept by one Jones: I bought a little book—a piece of
+bookseller’s shop, kept by one [[Jones]]: I bought a little book—a piece of
 extravagance I could ill afford; but I thought I would one day give or
-send it to Mrs. Barrett. Mr. Jones, a dried-in man of business, stood
+send it to Mrs. Barrett. Mr. [[Jones]], a dried-in man of business, stood
 behind his desk: he seemed one of the greatest, and I one of the
 happiest of beings.
 
 Prodigious was the amount of life I lived that morning. Finding myself
 before St. Paul’s, I went in; I mounted to the dome: I saw thence
-London, with its river, and its bridges, and its churches; I saw
+[[London]], with its [[River|river]], and its bridges, and its churches; I saw
 antique Westminster, and the green Temple Gardens, with sun upon them,
-and a glad, blue sky, of early spring above; and between them and it,
+and a glad, blue sky, of early [[spring]] above; and between them and it,
 not too dense, a cloud of haze.
 
 Descending, I went wandering whither chance might lead, in a still
-ecstasy of freedom and enjoyment; and I got—I know not how—I got into
-the heart of city life. I saw and felt London at last: I got into the
+ecstasy of [[Freedom|freedom]] and enjoyment; and I got—I know not how—I got into
+the heart of [[City|city]] life. I saw and felt [[London]] at last: I got into the
 Strand; I went up Cornhill; I mixed with the life passing along; I
-dared the perils of crossings. To do this, and to do it utterly alone,
+dared the perils of crossings. To do this, and to do it utterly [[Alone|alone]],
 gave me, perhaps an irrational, but a real pleasure. Since those days,
-I have seen the West End, the parks, the fine squares; but I love the
-city far better. The city seems so much more in earnest: its business,
+I have seen the West End, the parks, the fine squares; but I [[Love|love]] the
+[[City|city]] far better. The [[City|city]] seems so much more in earnest: its business,
 its rush, its roar, are such serious things, sights, and sounds. The
-city is getting its living—the West End but enjoying its pleasure. At
-the West End you may be amused, but in the city you are deeply excited.
+[[City|city]] is getting its living—the West End but enjoying its pleasure. At
+the West End you may be amused, but in the [[City|city]] you are deeply excited.
 
 Faint, at last, and hungry (it was years since I had felt such healthy
-hunger), I returned, about two o’clock, to my dark, old, and quiet inn.
+hunger), I returned, about two o’[[Clock|clock]], to my dark, old, and quiet inn.
 I dined on two dishes—a plain joint and vegetables; both seemed
 excellent: how much better than the small, dainty messes Miss
 Marchmont’s cook used to send up to my kind, dead mistress and me, and
@@ -97,17 +97,17 @@ such as most to favour the adoption of a new, resolute, and
 daring—perhaps desperate—line of action. I had nothing to lose.
 Unutterable loathing of a desolate existence past, forbade return. If I
 failed in what I now designed to undertake, who, save myself, would
-suffer? If I died far away from—home, I was going to say, but I had no
-home—from England, then, who would weep?
+suffer? If I died far away from—[[Home|home]], I was going to say, but I had no
+[[Home|home]]—from England, then, who would weep?
 
-I might suffer; I was inured to suffering: death itself had not, I
+I might suffer; I was inured to [[Suffering|suffering]]: [[Death|death]] itself had not, I
 thought, those terrors for me which it has for the softly reared. I
-had, ere this, looked on the thought of death with a quiet eye.
+had, ere this, looked on the thought of [[Death|death]] with a quiet eye.
 Prepared, then, for any consequences, I formed a project.
 
 That same evening I obtained from my friend, the waiter, information
 respecting, the sailing of vessels for a certain continental port,
-Boue-Marine. No time, I found, was to be lost: that very night I must
+Boue-Marine. No [[Time|time]], I found, was to be lost: that very [[Night|night]] I must
 take my berth. I might, indeed, have waited till the morning before
 going on board, but would not run the risk of being too late.
 
@@ -117,16 +117,16 @@ friend’s services at a rate which I now know was princely, and which in
 his eyes must have seemed absurd—and indeed, while pocketing the cash,
 he smiled a faint smile which intimated his opinion of the donor’s
 _savoir-faire_—he proceeded to call a coach. To the driver he also
-recommended me, giving at the same time an injunction about taking me,
+recommended me, giving at the same [[Time|time]] an injunction about taking me,
 I think, to the wharf, and not leaving me to the watermen; which that
 functionary promised to observe, but failed in keeping his promise: on
 the contrary, he offered me up as an oblation, served me as a dripping
 roast, making me alight in the midst of a throng of watermen.
 
-This was an uncomfortable crisis. It was a dark night. The coachman
+This was an uncomfortable crisis. It was a dark [[Night|night]]. The coachman
 instantly drove off as soon as he had got his fare: the watermen
 commenced a struggle for me and my trunk. Their oaths I hear at this
-moment: they shook my philosophy more than did the night, or the
+moment: they shook my [[philosophy]] more than did the [[Night|night]], or the
 isolation, or the strangeness of the scene. One laid hands on my trunk.
 I looked on and waited quietly; but when another laid hands on me, I
 spoke up, shook off his touch, stepped at once into a boat, desired

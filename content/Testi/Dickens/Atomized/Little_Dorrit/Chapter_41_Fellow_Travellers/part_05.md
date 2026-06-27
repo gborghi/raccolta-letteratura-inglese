@@ -15,21 +15,21 @@ tags:
 
 
 ‘It is true,’ said Monsieur. ‘We will--ha--not pursue the subject.
-You are--hum--quite accurate, I have no doubt. We will say no more.’
+You are--hum--quite accurate, I have no [[Doubt|doubt]]. We will say no more.’
 
 The supper having come to a close, he drew his chair away as he spoke,
-and moved back to his former place by the fire. As it was very cold
+and moved back to his former place by the [[Fire|fire]]. As it was very cold
 at the greater part of the table, the other guests also resumed their
-former seats by the fire, designing to toast themselves well before
-going to bed. The host, when they rose from the table, bowed to all
-present, wished them good night, and withdrew. But first the insinuating
+former seats by the [[Fire|fire]], designing to toast themselves [[Well|well]] before
+going to bed. The host, when they [[Rose|rose]] from the table, bowed to all
+present, wished them good [[Night|night]], and withdrew. But first the insinuating
 traveller had asked him if they could have some wine made hot; and as
 he had answered Yes, and had presently afterwards sent it in, that
 traveller, seated in the centre of the group, and in the full heat of
-the fire, was soon engaged in serving it out to the rest.
+the [[Fire|fire]], was soon engaged in serving it out to the rest.
 
-At this time, the younger of the two young ladies, who had been silently
-attentive in her dark corner (the fire-light was the chief light in the
+At this [[Time|time]], the younger of the two young ladies, who had been silently
+attentive in her dark corner (the [[Fire|fire]]-light was the chief light in the
 sombre room, the lamp being smoky and dull) to what had been said of the
 absent lady, glided out. She was at a loss which way to turn when she
 had softly closed the door; but, after a little hesitation among the
@@ -39,7 +39,7 @@ obtained a lamp, and a direction to the lady’s room.
 
 It was up the great staircase on the story above. Here and there, the
 bare white walls were broken by an iron grate, and she thought as she
-went along that the place was something like a prison. The arched door
+went along that the place was something like a [[Prison|prison]]. The arched door
 of the lady’s room, or cell, was not quite shut. After knocking at it
 two or three times without receiving an answer, she pushed it gently
 open, and looked in.
@@ -47,7 +47,7 @@ open, and looked in.
 The lady lay with closed eyes on the outside of the bed, protected from
 the cold by the blankets and wrappers with which she had been covered
 when she revived from her fainting fit. A dull light placed in the deep
-recess of the window, made little impression on the arched room. The
+recess of the [[Window|window]], made little impression on the arched room. The
 visitor timidly stepped to the bed, and said, in a soft whisper, ‘Are
 you better?’
 
@@ -58,7 +58,7 @@ her. Her visitor, standing quite still, looked at her attentively.
 face. O how unlike me!’
 
 It was a curious thing to say, but it had some hidden meaning, for it
-filled her eyes with tears.
+filled her eyes with [[Tears|tears]].
 
 ‘I know I must be right. I know he spoke of her that evening. I could
 very easily be wrong on any other subject, but not on this, not on
@@ -70,7 +70,7 @@ sleeper’s hair, and then touched the hand that lay outside the covering.
 ‘I like to look at her,’ she breathed to herself. ‘I like to see what
 has affected him so much.’
 
-She had not withdrawn her hand, when the sleeper opened her eyes and
+She had not withdrawn her hand, when [[The Sleeper|the sleeper]] opened her eyes and
 started.
 
 ‘Pray don’t be alarmed. I am only one of the travellers from
@@ -82,7 +82,7 @@ assistance?’
 
 ‘No, not I; that was my sister. Are you better?’
 
-‘Much better. It is only a slight bruise, and has been well looked to,
+‘Much better. It is only a slight bruise, and has been [[Well|well]] looked to,
 and is almost easy now. It made me giddy and faint in a moment. It had
 hurt me before; but at last it overpowered me all at once.’
 
@@ -97,12 +97,12 @@ quickly moved a part of some travelling wrapper from herself, and drew
 it over her, so that her arm, in keeping it about her, rested on her
 shoulder.
 
-‘You have so much the air of a kind nurse,’ said the lady, smiling on
-her, ‘that you seem as if you had come to me from home.’
+‘You have so much the air of a kind [[Nurse|nurse]],’ said the lady, smiling on
+her, ‘that you seem as if you had come to me from [[Home|home]].’
 
 ‘I am very glad of it.’
 
-‘I was dreaming of home when I woke just now. Of my old home, I mean,
+‘I was dreaming of [[Home|home]] when I woke just now. Of my old [[Home|home]], I mean,
 before I was married.’
 
 ‘And before you were so far away from it.’
@@ -116,7 +116,7 @@ which made her visitor refrain from looking at her for the moment.
 
 ‘It is a curious chance which at last brings us together, under this
 covering in which you have wrapped me,’ said the visitor after a
-pause; ‘for do you know, I think I have been looking for you some time.’
+pause; ‘for do you know, I think I have been looking for you some [[Time|time]].’
 
 ‘Looking for me?’
 
@@ -129,7 +129,7 @@ she did so. It was very short. She flushed a little as she put her lips
 to her visitor’s cheek, and pressed her hand.
 
 ‘The dear young friend to whom he presents me, may be a comfort to me
-at some time, he says. She is truly a comfort to me the first time I see
+at some [[Time|time]], he says. She is truly a comfort to me the first [[Time|time]] I see
 her.’
 
 ‘Perhaps you don’t,’ said the visitor, hesitating--‘perhaps you don’t

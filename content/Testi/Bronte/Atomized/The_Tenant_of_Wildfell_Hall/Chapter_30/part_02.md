@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 30 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 30 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,7 +20,7 @@ entreaty.”
 
 
 
-“Now, Helen,” said he emphatically, half rising from his recumbent
+“Now, [[Helen]],” said he emphatically, half rising from his recumbent
 
 posture, “if you bother me with another word, I’ll ring the bell and
 
@@ -42,7 +42,7 @@ every other comfort;” and sinking back into his former position, with
 
 an impatient expiration between a sigh and a groan, he languidly closed
 
-his eyes, as if to sleep.
+his eyes, as if to [[Sleep|sleep]].
 
 
 
@@ -52,15 +52,15 @@ for I never looked at it. With an elbow on each side of it, and my
 
 hands clasped before my eyes, I delivered myself up to silent weeping.
 
-But Arthur was not asleep: at the first slight sob, he raised his head
+But [[arthur|Arthur]] was not asleep: at the first slight sob, he raised his head
 
 and looked round, impatiently exclaiming, “What are you crying for,
 
-Helen? What the deuce is the matter _now?_”
+[[Helen]]? What the deuce is the matter _now?_”
 
 
 
-“I’m crying for you, Arthur,” I replied, speedily drying my tears; and
+“I’m crying for you, [[arthur|Arthur]],” I replied, speedily drying my [[Tears|tears]]; and
 
 starting up, I threw myself on my knees before him, and clasping his
 
@@ -72,11 +72,11 @@ and I not feel it?”
 
 
 
-“_Degrade_ myself, Helen?”
+“_Degrade_ myself, [[Helen]]?”
 
 
 
-“Yes, degrade! What have you been doing all this time?”
+“Yes, degrade! What have you been doing all this [[Time|time]]?”
 
 
 
@@ -86,23 +86,23 @@ and I not feel it?”
 
 “And you had better not tell; but you cannot deny that you _have_
 
-degraded yourself miserably. You have shamefully wronged yourself, body
+degraded yourself miserably. You have shamefully wronged yourself, [[Body|body]]
 
-and soul, and me too; and I can’t endure it quietly, and I won’t!”
+and [[Soul|soul]], and me too; and I can’t endure it quietly, and I won’t!”
 
 
 
-“Well, don’t squeeze my hand so frantically, and don’t agitate me so,
+“[[Well]], don’t squeeze my hand so frantically, and don’t agitate me so,
 
 for heaven’s sake! Oh, Hattersley! you were right: this woman will be
 
-the death of me, with her keen feelings and her interesting force of
+the [[Death|death]] of me, with her keen feelings and her interesting force of
 
 character. There, there, do spare me a little.”
 
 
 
-“Arthur, you _must_ repent!” cried I, in a frenzy of desperation,
+“[[arthur|Arthur]], you _must_ repent!” cried I, in a frenzy of desperation,
 
 throwing my arms around him and burying my face in his bosom. “You
 
@@ -110,7 +110,7 @@ _shall_ say you are sorry for what you have done!”
 
 
 
-“Well, well, I am.”
+“[[Well]], [[Well|well]], I am.”
 
 
 
@@ -122,7 +122,7 @@ _shall_ say you are sorry for what you have done!”
 
 replied he, pushing me from him. “You’ve nearly squeezed the breath out
 
-of my body.” He pressed his hand to his heart, and looked really
+of my [[Body|body]].” He pressed his hand to his heart, and looked really
 
 agitated and ill.
 
@@ -146,11 +146,11 @@ considerably.
 
 
 
-“If you knew all, my girl, you’d say rather, ‘What a wonder it is you
+“If you knew all, my girl, you’d say rather, ‘What a [[Wonder|wonder]] it is you
 
-can bear it so well as you do!’ I’ve lived more in these four months,
+can bear it so [[Well|well]] as you do!’ I’ve lived more in these four months,
 
-Helen, than you have in the whole course of your existence, or will to
+[[Helen]], than you have in the whole course of your existence, or will to
 
 the end of your days, if they numbered a hundred years; so I must
 
@@ -172,25 +172,25 @@ affection again, are you? I think it couldn’t have been very genuine
 
 stuff to begin with, if it’s so easily demolished. If you don’t mind,
 
-my pretty tyrant, you’ll make me regret my choice in good earnest, and
+my pretty [[Tyrant|tyrant]], you’ll make me regret my choice in good earnest, and
 
 envy my friend Hattersley his meek little wife: she’s quite a pattern
 
-to her sex, Helen. He had her with him in London all the season, and
+to her sex, [[Helen]]. He had her with him in [[London]] all the season, and
 
 she was no trouble at all. He might amuse himself just as he pleased,
 
 in regular bachelor style, and she never complained of neglect; he
 
-might come home at any hour of the night or morning, or not come home
+might come [[Home|home]] at any hour of the [[Night|night]] or morning, or not come [[Home|home]]
 
-at all; be sullen, sober, or glorious drunk; and play the fool or the
+at all; be sullen, sober, or glorious drunk; and play the [[Fool|fool]] or the
 
-madman to his own heart’s desire, without any fear or botheration. She
+madman to his own heart’s [[Desire|desire]], without any [[Fear|fear]] or botheration. She
 
 never gives him a word of reproach or complaint, do what he will. He
 
-says there’s not such a jewel in all England, and swears he wouldn’t
+says there’s not such a [[Jewel|jewel]] in all England, and swears he wouldn’t
 
 take a kingdom for her.”
 
@@ -206,7 +206,7 @@ long as he is enjoying himself.”
 
 
 
-“In that case she is as great a fool as he is; but it is not so. I have
+“In that case she is as great a [[Fool|fool]] as he is; but it is not so. I have
 
 several letters from her, expressing the greatest anxiety about his
 
@@ -214,7 +214,7 @@ proceedings, and complaining that you incite him to commit those
 
 extravagances—one especially, in which she implores me to use my
 
-influence with you to get you away from London, and affirms that her
+influence with you to get you away from [[London]], and affirms that her
 
 husband never did such things before you came, and would certainly
 
@@ -244,7 +244,7 @@ misery, I rather _feel_ it than _see_ it expressed in her letters.”
 
 
 
-“But she abuses _me;_ and no doubt you helped her.”
+“But she abuses _me;_ and no [[Doubt|doubt]] you helped her.”
 
 
 
@@ -252,11 +252,11 @@ misery, I rather _feel_ it than _see_ it expressed in her letters.”
 
 gladly draw you away from the temptations of the town if I could, but
 
-had little hope of success, and that I thought she was wrong in
+had little [[Hope|hope]] of [[success]], and that I thought she was wrong in
 
 supposing that you enticed Mr. Hattersley or any one else into error. I
 
-had myself held the _contrary_ opinion at one time, but I now believed
+had myself held the _contrary_ opinion at one [[Time|time]], but I now believed
 
 that you mutually corrupted each other; and, perhaps, if she used a
 

@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 26"
+title: "[[Jane Eyre]] — Chapter 26"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -23,20 +23,20 @@ impatient of my delay, sent up to ask why I did not come. She was just
 fastening my veil (the plain square of blond after all) to my hair with
 a brooch; I hurried from under her hands as soon as I could.
 
-“Stop!” she cried in French. “Look at yourself in the mirror: you have
+“Stop!” she cried in French. “Look at yourself in the [[Mirror|mirror]]: you have
 not taken one peep.”
 
 So I turned at the door: I saw a robed and veiled figure, so unlike my
-usual self that it seemed almost the image of a stranger. “Jane!”
+usual [[Self|self]] that it seemed almost the image of a stranger. “Jane!”
 called a voice, and I hastened down. I was received at the foot of the
 stairs by Mr. Rochester.
 
-“Lingerer!” he said, “my brain is on fire with impatience, and you
+“Lingerer!” he said, “my brain is on [[Fire|fire]] with impatience, and you
 tarry so long!”
 
 He took me into the dining-room, surveyed me keenly all over,
-pronounced me “fair as a lily, and not only the pride of his life, but
-the desire of his eyes,” and then telling me he would give me but ten
+pronounced me “fair as a lily, and not only the [[Pride|pride]] of his life, but
+the [[Desire|desire]] of his eyes,” and then telling me he would give me but ten
 minutes to eat some breakfast, he rang the bell. One of his lately
 hired servants, a footman, answered it.
 
@@ -68,12 +68,12 @@ coachman in his seat.”
 
 “Jane, are you ready?”
 
-I rose. There were no groomsmen, no bridesmaids, no relatives to wait
+I [[Rose|rose]]. There were no groomsmen, no bridesmaids, no relatives to wait
 for or marshal: none but Mr. Rochester and I. Mrs. Fairfax stood in the
 hall as we passed. I would fain have spoken to her, but my hand was
 held by a grasp of iron: I was hurried along by a stride I could hardly
 follow; and to look at Mr. Rochester’s face was to feel that not a
-second of delay would be tolerated for any purpose. I wonder what other
+second of delay would be tolerated for any purpose. I [[Wonder|wonder]] what other
 bridegroom ever looked as he did—so bent up to a purpose, so grimly
 resolute: or who, under such steadfast brows, ever revealed such
 flaming and flashing eyes.
@@ -86,19 +86,19 @@ glance fierce and fell. I wanted to feel the thoughts whose force he
 seemed breasting and resisting.
 
 At the churchyard wicket he stopped: he discovered I was quite out of
-breath. “Am I cruel in my love?” he said. “Delay an instant: lean on
+breath. “Am I cruel in my [[Love|love]]?” he said. “Delay an instant: lean on
 me, Jane.”
 
-And now I can recall the picture of the grey old house of God rising
+And now I can recall the picture of the grey old [[house]] of God rising
 calm before me, of a rook wheeling round the steeple, of a ruddy
 morning sky beyond. I remember something, too, of the green
-grave-mounds; and I have not forgotten, either, two figures of
+[[Grave|grave]]-mounds; and I have not forgotten, either, two figures of
 strangers straying amongst the low hillocks and reading the mementoes
 graven on the few mossy head-stones. I noticed them, because, as they
 saw us, they passed round to the back of the church; and I doubted not
 they were going to enter by the side-aisle door and witness the
 ceremony. By Mr. Rochester they were not observed; he was earnestly
-looking at my face, from which the blood had, I daresay, momentarily
+looking at my face, from which the [[Blood|blood]] had, I daresay, momentarily
 fled: for I felt my forehead dewy, and my cheeks and lips cold. When I
 rallied, which I soon did, he walked gently with me up the path to the
 porch.
@@ -108,8 +108,8 @@ surplice at the lowly altar, the clerk beside him. All was still: two
 shadows only moved in a remote corner. My conjecture had been correct:
 the strangers had slipped in before us, and they now stood by the vault
 of the Rochesters, their backs towards us, viewing through the rails
-the old time-stained marble tomb, where a kneeling angel guarded the
-remains of Damer de Rochester, slain at Marston Moor in the time of the
+the old [[Time|time]]-stained marble tomb, where a kneeling angel guarded the
+remains of Damer de Rochester, slain at Marston Moor in the [[Time|time]] of the
 civil wars, and of Elizabeth, his wife.
 
 Our place was taken at the communion rails. Hearing a cautious step
@@ -120,9 +120,9 @@ the clergyman came a step further forward, and, bending slightly
 towards Mr. Rochester, went on.
 
 “I require and charge you both (as ye will answer at the dreadful day
-of judgment, when the secrets of all hearts shall be disclosed), that
+of judgment, when the [[Secrets|secrets]] of all hearts shall be disclosed), that
 if either of you know any impediment why ye may not lawfully be joined
-together in matrimony, ye do now confess it; for be ye well assured
+together in matrimony, ye do now confess it; for be ye [[Well|well]] assured
 that so many as are coupled together otherwise than God’s Word doth
 allow, are not joined together by God, neither is their matrimony
 lawful.”
@@ -134,22 +134,22 @@ breath but for a moment, was proceeding: his hand was already stretched
 towards Mr. Rochester, as his lips unclosed to ask, “Wilt thou have
 this woman for thy wedded wife?”—when a distinct and near voice said—
 
-“The marriage cannot go on: I declare the existence of an impediment.”
+“The [[Marriage|marriage]] cannot go on: I declare the existence of an impediment.”
 
 The clergyman looked up at the speaker and stood mute; the clerk did
 the same; Mr. Rochester moved slightly, as if an earthquake had rolled
 under his feet: taking a firmer footing, and not turning his head or
 eyes, he said, “Proceed.”
 
-Profound silence fell when he had uttered that word, with deep but low
+Profound [[Silence|silence]] fell when he had uttered that word, with deep but low
 intonation. Presently Mr. Wood said—
 
 “I cannot proceed without some investigation into what has been
-asserted, and evidence of its truth or falsehood.”
+asserted, and evidence of its [[Truth|truth]] or falsehood.”
 
 “The ceremony is quite broken off,” subjoined the voice behind us. “I
 am in a condition to prove my allegation: an insuperable impediment to
-this marriage exists.”
+this [[Marriage|marriage]] exists.”
 
 Mr. Rochester heard, but heeded not: he stood stubborn and rigid,
 making no movement but to possess himself of my hand. What a hot and
@@ -157,7 +157,7 @@ strong grasp he had! and how like quarried marble was his pale, firm,
 massive front at this moment! How his eye shone, still watchful, and
 yet wild beneath!
 
-Mr. Wood seemed at a loss. “What is the nature of the impediment?” he
+Mr. Wood seemed at a loss. “What is the [[Nature|nature]] of the impediment?” he
 asked. “Perhaps it may be got over—explained away?”
 
 “Hardly,” was the answer. “I have called it insuperable, and I speak
@@ -166,12 +166,12 @@ advisedly.”
 The speaker came forward and leaned on the rails. He continued,
 uttering each word distinctly, calmly, steadily, but not loudly—
 
-“It simply consists in the existence of a previous marriage. Mr.
+“It simply consists in the existence of a previous [[Marriage|marriage]]. Mr.
 Rochester has a wife now living.”
 
 My nerves vibrated to those low-spoken words as they had never vibrated
-to thunder—my blood felt their subtle violence as it had never felt
-frost or fire; but I was collected, and in no danger of swooning. I
+to thunder—my [[Blood|blood]] felt their subtle violence as it had never felt
+[[Frost|frost]] or [[Fire|fire]]; but I was collected, and in no danger of swooning. I
 looked at Mr. Rochester: I made him look at me. His whole face was
 colourless rock: his eye was both spark and flint. He disavowed
 nothing: he seemed as if he would defy all things. Without speaking,
@@ -180,7 +180,7 @@ only twined my waist with his arm and riveted me to his side.
 
 “Who are you?” he asked of the intruder.
 
-“My name is Briggs, a solicitor of —— Street, London.”
+“My name is Briggs, a solicitor of —— Street, [[London]].”
 
 “And you would thrust on me a wife?”
 
@@ -198,8 +198,8 @@ fifteen years back), Edward Fairfax Rochester, of Thornfield Hall, in
 the county of ——, and of Ferndean Manor, in ——shire, England, was
 married to my sister, Bertha Antoinetta Mason, daughter of Jonas Mason,
 merchant, and of Antoinetta his wife, a Creole, at —— church, Spanish
-Town, Jamaica. The record of the marriage will be found in the register
-of that church—a copy of it is now in my possession. Signed, Richard
+Town, Jamaica. The record of the [[Marriage|marriage]] will be found in the register
+of that church—a copy of it is now in my possession. Signed, [[Richard]]
 Mason.’”
 
 “That—if a genuine document—may prove I have been married, but it does
@@ -219,16 +219,16 @@ goodness to step forward.”
 
 Mr. Rochester, on hearing the name, set his teeth; he experienced, too,
 a sort of strong convulsive quiver; near to him as I was, I felt the
-spasmodic movement of fury or despair run through his frame. The second
+spasmodic movement of fury or [[Despair|despair]] run through his frame. The second
 stranger, who had hitherto lingered in the background, now drew near; a
 pale face looked over the solicitor’s shoulder—yes, it was Mason
 himself. Mr. Rochester turned and glared at him. His eye, as I have
 often said, was a black eye: it had now a tawny, nay, a bloody light in
 its gloom; and his face flushed—olive cheek and hueless forehead
-received a glow as from spreading, ascending heart-fire: and he
+received a glow as from spreading, ascending heart-[[Fire|fire]]: and he
 stirred, lifted his strong arm—he could have struck Mason, dashed him
 on the church-floor, shocked by ruthless blow the breath from his
-body—but Mason shrank away, and cried faintly, “Good God!” Contempt
+[[Body|body]]—but Mason shrank away, and cried faintly, “Good God!” Contempt
 fell cool on Mr. Rochester—his passion died as if a blight had
 shrivelled it up: he only asked—“What have _you_ to say?”
 
@@ -241,7 +241,7 @@ what have _you_ to say?”
 sacred place.” Then addressing Mason, he inquired gently, “Are you
 aware, sir, whether or not this gentleman’s wife is still living?”
 
-“Courage,” urged the lawyer,—“speak out.”
+“[[Courage]],” urged the lawyer,—“speak out.”
 
 “She is now living at Thornfield Hall,” said Mason, in more articulate
 tones: “I saw her there last April. I am her brother.”
@@ -263,47 +263,47 @@ obeyed.
 
 Mr. Rochester continued, hardily and recklessly: “Bigamy is an ugly
 word!—I meant, however, to be a bigamist; but fate has out-manoeuvred
-me, or Providence has checked me,—perhaps the last. I am little better
+me, or [[Providence]] has checked me,—perhaps the last. I am little better
 than a devil at this moment; and, as my pastor there would tell me,
-deserve no doubt the sternest judgments of God, even to the quenchless
-fire and deathless worm. Gentlemen, my plan is broken up:—what this
+deserve no [[Doubt|doubt]] the sternest judgments of God, even to the quenchless
+[[Fire|fire]] and deathless worm. Gentlemen, my plan is broken up:—what this
 lawyer and his client say is true: I have been married, and the woman
 to whom I was married lives! You say you never heard of a Mrs.
-Rochester at the house up yonder, Wood; but I daresay you have many a
-time inclined your ear to gossip about the mysterious lunatic kept
+Rochester at the [[house]] up yonder, Wood; but I daresay you have many a
+[[Time|time]] inclined your ear to gossip about the mysterious lunatic kept
 there under watch and ward. Some have whispered to you that she is my
 bastard half-sister: some, my cast-off mistress. I now inform you that
-she is my wife, whom I married fifteen years ago,—Bertha Mason by name;
+she is my wife, whom I married fifteen years ago,—[[Bertha Mason]] by name;
 sister of this resolute personage, who is now, with his quivering limbs
 and white cheeks, showing you what a stout heart men may bear. Cheer
-up, Dick!—never fear me!—I’d almost as soon strike a woman as you.
-Bertha Mason is mad; and she came of a mad family; idiots and maniacs
-through three generations! Her mother, the Creole, was both a madwoman
+up, Dick!—never [[Fear|fear]] me!—I’d almost as soon strike a woman as you.
+[[Bertha Mason]] is mad; and she came of a mad family; idiots and maniacs
+through three generations! Her mother, the Creole, was both a [[Madwoman|madwoman]]
 and a drunkard!—as I found out after I had wed the daughter: for they
-were silent on family secrets before. Bertha, like a dutiful child,
+were silent on family [[Secrets|secrets]] before. Bertha, like a dutiful [[Child|child]],
 copied her parent in both points. I had a charming partner—pure, wise,
 modest: you can fancy I was a happy man. I went through rich scenes!
 Oh! my experience has been heavenly, if you only knew it! But I owe you
 no further explanation. Briggs, Wood, Mason, I invite you all to come
-up to the house and visit Mrs. Poole’s patient, and _my wife_! You
+up to the [[house]] and visit Mrs. Poole’s patient, and _my wife_! You
 shall see what sort of a being I was cheated into espousing, and judge
 whether or not I had a right to break the compact, and seek sympathy
 with something at least human. This girl,” he continued, looking at me,
 “knew no more than you, Wood, of the disgusting secret: she thought all
 was fair and legal; and never dreamt she was going to be entrapped into
-a feigned union with a defrauded wretch, already bound to a bad, mad,
+a feigned [[Union|union]] with a defrauded wretch, already bound to a bad, mad,
 and embruted partner! Come all of you—follow!”
 
 Still holding me fast, he left the church: the three gentlemen came
 after. At the front door of the hall we found the carriage.
 
-“Take it back to the coach-house, John,” said Mr. Rochester coolly; “it
+“Take it back to the coach-[[house]], John,” said Mr. Rochester coolly; “it
 will not be wanted to-day.”
 
 At our entrance, Mrs. Fairfax, Adèle, Sophie, Leah, advanced to meet
 and greet us.
 
-“To the right-about—every soul!” cried the master; “away with your
+“To the right-about—every [[Soul|soul]]!” cried the master; “away with your
 congratulations! Who wants them? Not I!—they are fifteen years too
 late!”
 
@@ -317,9 +317,9 @@ to the tapestried room, with its great bed and its pictorial cabinet.
 here.”
 
 He lifted the hangings from the wall, uncovering the second door: this,
-too, he opened. In a room without a window, there burnt a fire guarded
+too, he opened. In a room without a [[Window|window]], there burnt a [[Fire|fire]] guarded
 by a high and strong fender, and a lamp suspended from the ceiling by a
-chain. Grace Poole bent over the fire, apparently cooking something in
+chain. Grace Poole bent over the [[Fire|fire]], apparently cooking something in
 a saucepan. In the deep shade, at the farther end of the room, a figure
 ran backwards and forwards. What it was, whether beast or human being,
 one could not, at first sight, tell: it grovelled, seemingly, on all
@@ -334,7 +334,7 @@ your charge to-day?”
 mess carefully on to the hob: “rather snappish, but not ’rageous.”
 
 A fierce cry seemed to give the lie to her favourable report: the
-clothed hyena rose up, and stood tall on its hind-feet.
+clothed hyena [[Rose|rose]] up, and stood tall on its hind-feet.
 
 “Ah! sir, she sees you!” exclaimed Grace: “you’d better not stay.”
 
@@ -343,7 +343,7 @@ clothed hyena rose up, and stood tall on its hind-feet.
 “Take care then, sir!—for God’s sake, take care!”
 
 The maniac bellowed: she parted her shaggy locks from her visage, and
-gazed wildly at her visitors. I recognised well that purple face,—those
+gazed wildly at her visitors. I recognised [[Well|well]] that purple face,—those
 bloated features. Mrs. Poole advanced.
 
 “Keep out of the way,” said Mr. Rochester, thrusting her aside: “she
@@ -362,7 +362,7 @@ throat viciously, and laid her teeth to his cheek: they struggled. She
 was a big woman, in stature almost equalling her husband, and corpulent
 besides: she showed virile force in the contest—more than once she
 almost throttled him, athletic as he was. He could have settled her
-with a well-planted blow; but he would not strike: he would only
+with a [[Well|well]]-planted blow; but he would not strike: he would only
 wrestle. At last he mastered her arms; Grace Poole gave him a cord, and
 he pinioned them behind her: with more rope, which was at hand, he
 bound her to a chair. The operation was performed amidst the fiercest
@@ -372,7 +372,7 @@ spectators: he looked at them with a smile both acrid and desolate.
 “That is _my wife_,” said he. “Such is the sole conjugal embrace I am
 ever to know—such are the endearments which are to solace my leisure
 hours! And _this_ is what I wished to have” (laying his hand on my
-shoulder): “this young girl, who stands so grave and quiet at the mouth
+shoulder): “this young girl, who stands so [[Grave|grave]] and quiet at the mouth
 of hell, looking collectedly at the gambols of a demon, I wanted her
 just as a change after that fierce ragout. Wood and Briggs, look at the
 difference! Compare these clear eyes with the red balls yonder—this
@@ -391,18 +391,18 @@ returns to Madeira.”
 “My uncle! What of him? Do you know him?”
 
 “Mr. Mason does. Mr. Eyre has been the Funchal correspondent of his
-house for some years. When your uncle received your letter intimating
-the contemplated union between yourself and Mr. Rochester, Mr. Mason,
+[[house]] for some years. When your uncle received your letter intimating
+the contemplated [[Union|union]] between yourself and Mr. Rochester, Mr. Mason,
 who was staying at Madeira to recruit his health, on his way back to
 Jamaica, happened to be with him. Mr. Eyre mentioned the intelligence;
 for he knew that my client here was acquainted with a gentleman of the
 name of Rochester. Mr. Mason, astonished and distressed as you may
 suppose, revealed the real state of matters. Your uncle, I am sorry to
-say, is now on a sick bed; from which, considering the nature of his
+say, is now on a sick bed; from which, considering the [[Nature|nature]] of his
 disease—decline—and the stage it has reached, it is unlikely he will
 ever rise. He could not then hasten to England himself, to extricate
 you from the snare into which you had fallen, but he implored Mr. Mason
-to lose no time in taking steps to prevent the false marriage. He
+to lose no [[Time|time]] in taking steps to prevent the false [[Marriage|marriage]]. He
 referred him to me for assistance. I used all despatch, and am thankful
 I was not too late: as you, doubtless, must be also. Were I not morally
 certain that your uncle will be dead ere you reach Madeira, I would
@@ -416,11 +416,11 @@ clergyman stayed to exchange a few sentences, either of admonition or
 reproof, with his haughty parishioner; this duty done, he too departed.
 
 I heard him go as I stood at the half-open door of my own room, to
-which I had now withdrawn. The house cleared, I shut myself in,
+which I had now withdrawn. The [[house]] cleared, I shut myself in,
 fastened the bolt that none might intrude, and proceeded—not to weep,
 not to mourn, I was yet too calm for that, but—mechanically to take off
 the wedding dress, and replace it by the stuff gown I had worn
-yesterday, as I thought, for the last time. I then sat down: I felt
+yesterday, as I thought, for the last [[Time|time]]. I then sat down: I felt
 weak and tired. I leaned my arms on a table, and my head dropped on
 them. And now I thought: till now I had only heard, seen,
 moved—followed up and down where I was led or dragged—watched event
@@ -430,54 +430,54 @@ thought_.
 The morning had been a quiet morning enough—all except the brief scene
 with the lunatic: the transaction in the church had not been noisy;
 there was no explosion of passion, no loud altercation, no dispute, no
-defiance or challenge, no tears, no sobs: a few words had been spoken,
-a calmly pronounced objection to the marriage made; some stern, short
+defiance or challenge, no [[Tears|tears]], no sobs: a few words had been spoken,
+a calmly pronounced objection to the [[Marriage|marriage]] made; some stern, short
 questions put by Mr. Rochester; answers, explanations given, evidence
-adduced; an open admission of the truth had been uttered by my master;
+adduced; an open admission of the [[Truth|truth]] had been uttered by my master;
 then the living proof had been seen; the intruders were gone, and all
 was over.
 
 I was in my own room as usual—just myself, without obvious change:
 nothing had smitten me, or scathed me, or maimed me. And yet where was
-the Jane Eyre of yesterday?—where was her life?—where were her
+the [[Jane Eyre]] of yesterday?—where was her life?—where were her
 prospects?
 
-Jane Eyre, who had been an ardent, expectant woman—almost a bride, was
+[[Jane Eyre]], who had been an ardent, expectant woman—almost a bride, was
 a cold, solitary girl again: her life was pale; her prospects were
-desolate. A Christmas frost had come at midsummer; a white December
-storm had whirled over June; ice glazed the ripe apples, drifts crushed
+desolate. A Christmas [[Frost|frost]] had come at midsummer; a white December
+[[Storm|storm]] had whirled over June; ice glazed the ripe apples, drifts crushed
 the blowing roses; on hayfield and cornfield lay a frozen shroud: lanes
-which last night blushed full of flowers, to-day were pathless with
-untrodden snow; and the woods, which twelve hours since waved leafy and
+which last [[Night|night]] blushed full of [[Flowers|flowers]], to-day were pathless with
+untrodden [[Snow|snow]]; and the woods, which twelve hours since waved leafy and
 fragrant as groves between the tropics, now spread, waste, wild, and
 white as pine-forests in wintry Norway. My hopes were all dead—struck
-with a subtle doom, such as, in one night, fell on all the first-born
-in the land of Egypt. I looked on my cherished wishes, yesterday so
+with a subtle doom, such as, in one [[Night|night]], fell on all the first-born
+in the land of [[Egypt]]. I looked on my cherished wishes, yesterday so
 blooming and glowing; they lay stark, chill, livid corpses that could
-never revive. I looked at my love: that feeling which was my
+never revive. I looked at my [[Love|love]]: that feeling which was my
 master’s—which he had created; it shivered in my heart, like a
-suffering child in a cold cradle; sickness and anguish had seized it;
+[[Suffering|suffering]] [[Child|child]] in a cold cradle; sickness and anguish had seized it;
 it could not seek Mr. Rochester’s arms—it could not derive warmth from
-his breast. Oh, never more could it turn to him; for faith was
+his breast. Oh, never more could it turn to him; for [[Faith|faith]] was
 blighted—confidence destroyed! Mr. Rochester was not to me what he had
 been; for he was not what I had thought him. I would not ascribe vice
 to him; I would not say he had betrayed me; but the attribute of
-stainless truth was gone from his idea, and from his presence I must
-go: _that_ I perceived well. When—how—whither, I could not yet discern;
+stainless [[Truth|truth]] was gone from his idea, and from his presence I must
+go: _that_ I perceived [[Well|well]]. When—how—whither, I could not yet discern;
 but he himself, I doubted not, would hurry me from Thornfield. Real
 affection, it seemed, he could not have for me; it had been only fitful
-passion: that was balked; he would want me no more. I should fear even
-to cross his path now: my view must be hateful to him. Oh, how blind
+passion: that was balked; he would want me no more. I should [[Fear|fear]] even
+to [[Cross|cross]] his path now: my view must be hateful to him. Oh, how blind
 had been my eyes! How weak my conduct!
 
 My eyes were covered and closed: eddying darkness seemed to swim round
 me, and reflection came in as black and confused a flow.
-Self-abandoned, relaxed, and effortless, I seemed to have laid me down
-in the dried-up bed of a great river; I heard a flood loosened in
-remote mountains, and felt the torrent come: to rise I had no will, to
-flee I had no strength. I lay faint, longing to be dead. One idea only
+[[Self]]-abandoned, relaxed, and effortless, I seemed to have laid me down
+in the dried-up bed of a great [[River|river]]; I heard a flood loosened in
+remote [[Mountains|mountains]], and felt the torrent come: to rise I had no will, to
+flee I had no strength. I lay faint, [[Longing|longing]] to be dead. One idea only
 still throbbed life-like within me—a remembrance of God: it begot an
-unuttered prayer: these words went wandering up and down in my rayless
+unuttered [[prayer]]: these words went wandering up and down in my rayless
 mind, as something that should be whispered, but no energy was found to
 express them—
 
@@ -486,8 +486,8 @@ express them—
 It was near: and as I had lifted no petition to Heaven to avert it—as I
 had neither joined my hands, nor bent my knees, nor moved my lips—it
 came: in full heavy swing the torrent poured over me. The whole
-consciousness of my life lorn, my love lost, my hope quenched, my faith
-death-struck, swayed full and mighty above me in one sullen mass. That
-bitter hour cannot be described: in truth, “the waters came into my
-soul; I sank in deep mire: I felt no standing; I came into deep waters;
+consciousness of my life lorn, my [[Love|love]] lost, my [[Hope|hope]] quenched, my [[Faith|faith]]
+[[Death|death]]-struck, swayed full and mighty above me in one sullen mass. That
+bitter hour cannot be described: in [[Truth|truth]], “the waters came into my
+[[Soul|soul]]; I sank in deep mire: I felt no standing; I came into deep waters;
 the floods overflowed me.”

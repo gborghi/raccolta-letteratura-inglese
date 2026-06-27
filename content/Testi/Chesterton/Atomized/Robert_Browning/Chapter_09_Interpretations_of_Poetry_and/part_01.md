@@ -31,11 +31,11 @@ a feather wrong in their head-gear, and who generally have very few
 feelings and think very little about those they have. It is when we
 have grown to a greater and more civilised stature that we begin to
 realise and put to ourselves intellectually the great feelings that
-sleep in the depths of us. Thus it is that the literature of our day
+[[Sleep|sleep]] in the depths of us. Thus it is that the literature of our day
 has steadily advanced towards a passionate simplicity, and we become
 more primeval as the world grows older, until Whitman writes huge and
 chaotic psalms to express the sensations of a schoolboy out fishing,
-and Maeterlinck embodies in symbolic dramas the feelings of a child in
+and Maeterlinck embodies in symbolic dramas the feelings of a [[Child|child]] in
 the dark.
 
 Thus, Mr. Santayana is, perhaps, the most valuable of all the Browning
@@ -50,7 +50,7 @@ does the whole of every one else's poetry. Poetry deals entirely with
 those great eternal and mainly forgotten wishes which are the ultimate
 despots of existence. Poetry presents things as they are to our
 emotions, not as they are to any theory, however plausible, or any
-argument, however conclusive. If love is in truth a glorious vision,
+argument, however conclusive. If [[Love|love]] is in [[Truth|truth]] a glorious vision,
 poetry will say that it is a glorious vision, and no philosophers will
 persuade poetry to say that it is the exaggeration of the instinct of
 sex. If bereavement is a bitter and continually aching thing, poetry
@@ -65,7 +65,7 @@ the science of motives. Some actions are ugly, and therefore some
 parts of ethics are ugly. But all motives are beautiful, or present
 themselves for the moment as beautiful, and therefore all poetry is
 beautiful. If poetry deals with the basest matter, with the shedding
-of blood for gold, it ought to suggest the gold as well as the blood.
+of [[Blood|blood]] for gold, it ought to suggest the gold as [[Well|well]] as the [[Blood|blood]].
 Only poetry can realise motives, because motives are all pictures of
 happiness. And the supreme and most practical value of poetry is this,
 that in poetry, as in music, a note is struck which expresses beyond
@@ -73,21 +73,21 @@ the power of rational statement a condition of mind, and all actions
 arise from a condition of mind. Prose can only use a large and clumsy
 notation; it can only say that a man is miserable, or that a man is
 happy; it is forced to ignore that there are a million diverse kinds
-of misery and a million diverse kinds of happiness. Poetry alone, with
+of misery and a million diverse kinds of happiness. Poetry [[Alone|alone]], with
 the first throb of its metre, can tell us whether the depression is
-the kind of depression that drives a man to suicide, or the kind of
+the kind of depression that drives a man to [[suicide]], or the kind of
 depression that drives him to the Tivoli. Poetry can tell us whether
 the happiness is the happiness that sends a man to a restaurant, or
 the much richer and fuller happiness that sends him to church.
 
 Now the supreme value of Browning as an optimist lies in this that we
 have been examining, that beyond all his conclusions, and deeper than
-all his arguments, he was passionately interested in and in love with
+all his arguments, he was passionately interested in and in [[Love|love]] with
 existence. If the heavens had fallen, and all the waters of the earth
-run with blood, he would still have been interested in existence, if
+run with [[Blood|blood]], he would still have been interested in existence, if
 possible a little more so. He is a great poet of human joy for
 precisely the reason of which Mr. Santayana complains: that his
-happiness is primal, and beyond the reach of philosophy. He is
+happiness is primal, and beyond the reach of [[philosophy]]. He is
 something far more convincing, far more comforting, far more
 religiously significant than an optimist: he is a happy man.
 
@@ -95,10 +95,10 @@ This happiness he finds, as every man must find happiness, in his own
 way. He does not find the great part of his joy in those matters in
 which most poets find felicity. He finds much of it in those matters
 in which most poets find ugliness and vulgarity. He is to a
-considerable extent the poet of towns. "Do you care for nature much?"
+considerable extent the poet of towns. "Do you care for [[Nature|nature]] much?"
 a friend of his asked him. "Yes, a great deal," he said, "but for
-human beings a great deal more." Nature, with its splendid and
-soothing sanity, has the power of convincing most poets of the
+human beings a great deal more." [[Nature]], with its splendid and
+soothing [[Sanity|sanity]], has the power of convincing most poets of the
 essential worthiness of things. There are few poets who, if they
 escaped from the rowdiest waggonette of trippers, could not be quieted
 again and exalted by dropping into a small wayside field. The
@@ -107,14 +107,14 @@ exalted by the waggonette.
 
 To Browning, probably the beginning and end of all optimism was to be
 found in the faces in the street. To him they were all the masks of a
-deity, the heads of a hundred-headed Indian god of nature. Each one of
+deity, the heads of a hundred-headed Indian god of [[Nature|nature]]. Each one of
 them looked towards some quarter of the heavens, not looked upon by
 any other eyes. Each one of them wore some expression, some blend of
 eternal joy and eternal sorrow, not to be found in any other
 countenance. The sense of the absolute sanctity of human difference
 was the deepest of all his senses. He was hungrily interested in all
 human things, but it would have been quite impossible to have said of
-him that he loved humanity. He did not love humanity but men. His
+him that he loved humanity. He did not [[Love|love]] humanity but men. His
 sense of the difference between one man and another would have made
 the thought of melting them into a lump called humanity simply
 loathsome and prosaic. It would have been to him like playing four

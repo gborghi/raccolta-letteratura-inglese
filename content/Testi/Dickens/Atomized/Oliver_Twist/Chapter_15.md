@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 15"
+title: "[[Oliver Twist]] — Chapter 15"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -15,32 +15,32 @@ tags:
 
 
  CHAPTER XV.
-SHOWING HOW VERY FOND OF OLIVER TWIST, THE MERRY OLD JEW AND MISS NANCY
+SHOWING HOW VERY FOND OF [[Oliver Twist|OLIVER TWIST]], THE MERRY OLD JEW AND MISS [[Nancy|NANCY]]
 WERE
 
 
-In the obscure parlour of a low public-house, in the filthiest part of
-Little Saffron Hill; a dark and gloomy den, where a flaring gas-light
-burnt all day in the winter-time; and where no ray of sun ever shone in
-the summer: there sat, brooding over a little pewter measure and a
+In the obscure parlour of a low public-[[house]], in the filthiest part of
+Little Saffron [[Hill]]; a dark and gloomy den, where a flaring gas-light
+burnt all day in the [[Winter|winter]]-[[Time|time]]; and where no ray of sun ever shone in
+the [[Summer|summer]]: there sat, brooding over a little pewter measure and a
 small glass, strongly impregnated with the smell of liquor, a man in a
 velveteen coat, drab shorts, half-boots and stockings, whom even by
 that dim light no experienced agent of the police would have hesitated
 to recognise as Mr. William Sikes. At his feet, sat a white-coated,
 red-eyed dog; who occupied himself, alternately, in winking at his
-master with both eyes at the same time; and in licking a large, fresh
+master with both eyes at the same [[Time|time]]; and in licking a large, fresh
 cut on one side of his mouth, which appeared to be the result of some
 recent conflict.
 
 “Keep quiet, you warmint! Keep quiet!” said Mr. Sikes, suddenly
-breaking silence. Whether his meditations were so intense as to be
+breaking [[Silence|silence]]. Whether his meditations were so intense as to be
 disturbed by the dog’s winking, or whether his feelings were so wrought
 upon by his reflections that they required all the relief derivable
 from kicking an unoffending animal to allay them, is matter for
 argument and consideration. Whatever was the cause, the effect was a
 kick and a curse, bestowed upon the dog simultaneously.
 
-Dogs are not generally apt to revenge injuries inflicted upon them by
+[[dogs|Dogs]] are not generally apt to [[Revenge|revenge]] injuries inflicted upon them by
 their masters; but Mr. Sikes’s dog, having faults of temper in common
 with his owner, and labouring, perhaps, at this moment, under a
 powerful sense of injury, made no more ado but at once fixed his teeth
@@ -52,10 +52,10 @@ Sikes levelled at his head.
 deliberately opening with the other a large clasp-knife, which he drew
 from his pocket. “Come here, you born devil! Come here! D’ye hear?”
 
-The dog no doubt heard; because Mr. Sikes spoke in the very harshest
+The dog no [[Doubt|doubt]] heard; because Mr. Sikes spoke in the very harshest
 key of a very harsh voice; but, appearing to entertain some
 unaccountable objection to having his throat cut, he remained where he
-was, and growled more fiercely than before: at the same time grasping
+was, and growled more fiercely than before: at the same [[Time|time]] grasping
 the end of the poker between his teeth, and biting at it like a wild
 beast.
 
@@ -64,7 +64,7 @@ his knees, began to assail the animal most furiously. The dog jumped
 from right to left, and from left to right; snapping, growling, and
 barking; the man thrust and swore, and struck and blasphemed; and the
 struggle was reaching a most critical point for one or other; when, the
-door suddenly opening, the dog darted out: leaving Bill Sikes with the
+door suddenly opening, the dog darted out: leaving [[Bill Sikes]] with the
 poker and the clasp-knife in his hands.
 
 There must always be two parties to a quarrel, says the old adage. Mr.
@@ -74,7 +74,7 @@ transferred his share in the quarrel to the new comer.
 “What the devil do you come in between me and my dog for?” said Sikes,
 with a fierce gesture.
 
-“I didn’t know, my dear, I didn’t know,” replied Fagin, humbly; for the
+“I didn’t know, my dear, I didn’t know,” replied [[Fagin]], humbly; for the
 Jew was the new comer.
 
 “Didn’t know, you white-livered thief!” growled Sikes. “Couldn’t you
@@ -84,11 +84,11 @@ hear the noise?”
 
 “Oh no! You hear nothing, you don’t,” retorted Sikes with a fierce
 sneer. “Sneaking in and out, so as nobody hears how you come or go! I
-wish you had been the dog, Fagin, half a minute ago.”
+wish you had been the dog, [[Fagin]], half a minute ago.”
 
 “Why?” inquired the Jew with a forced smile.
 
-“’Cause the government, as cares for the lives of such men as you, as
+“’Cause the [[government]], as cares for the lives of such men as you, as
 haven’t half the pluck of curs, lets a man kill a dog how he likes,”
 replied Sikes, shutting up the knife with a very expressive look;
 “that’s why.”
@@ -99,23 +99,23 @@ ease, however.
 
 “Grin away,” said Sikes, replacing the poker, and surveying him with
 savage contempt; “grin away. You’ll never have the laugh at me, though,
-unless it’s behind a nightcap. I’ve got the upper hand over you, Fagin;
+unless it’s behind a nightcap. I’ve got the upper hand over you, [[Fagin]];
 and, d—me, I’ll keep it. There! If I go, you go; so take care of me.”
 
-“Well, well, my dear,” said the Jew, “I know all that; we—we—have a
+“[[Well]], [[Well|well]], my dear,” said the Jew, “I know all that; we—we—have a
 mutual interest, Bill,—a mutual interest.”
 
 “Humph,” said Sikes, as if he thought the interest lay rather more on
-the Jew’s side than on his. “Well, what have you got to say to me?”
+the Jew’s side than on his. “[[Well]], what have you got to say to me?”
 
-“It’s all passed safe through the melting-pot,” replied Fagin, “and
+“It’s all passed safe through the melting-pot,” replied [[Fagin]], “and
 this is your share. It’s rather more than it ought to be, my dear; but
-as I know you’ll do me a good turn another time, and—”
+as I know you’ll do me a good turn another [[Time|time]], and—”
 
 “Stow that gammon,” interposed the robber, impatiently. “Where is it?
 Hand over!”
 
-“Yes, yes, Bill; give me time, give me time,” replied the Jew,
+“Yes, yes, Bill; give me [[Time|time]], give me [[Time|time]],” replied the Jew,
 soothingly. “Here it is! All safe!” As he spoke, he drew forth an old
 cotton handkerchief from his breast; and untying a large knot in one
 corner, produced a small brown-paper packet. Sikes, snatching it from
@@ -128,16 +128,16 @@ contained.
 
 “You haven’t opened the parcel and swallowed one or two as you come
 along, have you?” inquired Sikes, suspiciously. “Don’t put on an
-injured look at the question; you’ve done it many a time. Jerk the
+injured look at the question; you’ve done it many a [[Time|time]]. Jerk the
 tinkler.”
 
 These words, in plain English, conveyed an injunction to ring the bell.
-It was answered by another Jew: younger than Fagin, but nearly as vile
+It was answered by another Jew: younger than [[Fagin]], but nearly as vile
 and repulsive in appearance.
 
-Bill Sikes merely pointed to the empty measure. The Jew, perfectly
+[[Bill Sikes]] merely pointed to the empty measure. The Jew, perfectly
 understanding the hint, retired to fill it: previously exchanging a
-remarkable look with Fagin, who raised his eyes for an instant, as if
+remarkable look with [[Fagin]], who raised his eyes for an instant, as if
 in expectation of it, and shook his head in reply; so slightly that the
 action would have been almost imperceptible to an observant third
 person. It was lost upon Sikes, who was stooping at the moment to tie
@@ -145,18 +145,18 @@ the boot-lace which the dog had torn. Possibly, if he had observed the
 brief interchange of signals, he might have thought that it boded no
 good to him.
 
-“Is anybody here, Barney?” inquired Fagin; speaking, now that
+“Is anybody here, Barney?” inquired [[Fagin]]; speaking, now that
 Sikes was looking on, without raising his eyes from the ground.
 
 “Dot a shoul,” replied Barney; whose words: whether they came from the
 heart or not: made their way through the nose.
 
-“Nobody?” inquired Fagin, in a tone of surprise: which perhaps might
-mean that Barney was at liberty to tell the truth.
+“Nobody?” inquired [[Fagin]], in a tone of surprise: which perhaps might
+mean that Barney was at liberty to tell the [[Truth|truth]].
 
 “Dobody but Biss Dadsy,” replied Barney.
 
-“Nancy!” exclaimed Sikes. “Where? Strike me blind, if I don’t honour
+“[[Nancy]]!” exclaimed Sikes. “Where? Strike me blind, if I don’t [[Honour|honour]]
 that ’ere girl, for her native talents.”
 
 “She’s bid havid a plate of boiled beef id the bar,” replied Barney.
@@ -164,28 +164,28 @@ that ’ere girl, for her native talents.”
 “Send her here,” said Sikes, pouring out a glass of liquor. “Send her
 here.”
 
-Barney looked timidly at Fagin, as if for permission; the Jew remaining
+Barney looked timidly at [[Fagin]], as if for permission; the Jew remaining
 silent, and not lifting his eyes from the ground, he retired; and
-presently returned, ushering in Nancy; who was decorated with the
+presently returned, ushering in [[Nancy]]; who was decorated with the
 bonnet, apron, basket, and street-door key, complete.
 
-“You are on the scent, are you, Nancy?” inquired Sikes, proffering the
+“You are on the scent, are you, [[Nancy]]?” inquired Sikes, proffering the
 glass.
 
 “Yes, I am, Bill,” replied the young lady, disposing of its contents;
 “and tired enough of it I am, too. The young brat’s been ill and
 confined to the crib; and—”
 
-“Ah, Nancy, dear!” said Fagin, looking up.
+“Ah, [[Nancy]], dear!” said [[Fagin]], looking up.
 
 Now, whether a peculiar contraction of the Jew’s red eye-brows, and a
-half closing of his deeply-set eyes, warned Miss Nancy that she was
+half closing of his deeply-set eyes, warned Miss [[Nancy]] that she was
 disposed to be too communicative, is not a matter of much importance.
 The fact is all we need care for here; and the fact is, that she
 suddenly checked herself, and with several gracious smiles upon Mr.
 Sikes, turned the conversation to other matters. In about ten minutes’
-time, Mr. Fagin was seized with a fit of coughing; upon which Nancy
-pulled her shawl over her shoulders, and declared it was time to go.
+[[Time|time]], Mr. [[Fagin]] was seized with a fit of coughing; upon which [[Nancy]]
+pulled her shawl over her shoulders, and declared it was [[Time|time]] to go.
 Mr. Sikes, finding that he was walking a short part of her way himself,
 expressed his intention of accompanying her; they went away together,
 followed, at a little distant, by the dog, who slunk out of a back-yard
@@ -197,7 +197,7 @@ fist; muttered a deep curse; and then, with a horrible grin, reseated
 himself at the table; where he was soon deeply absorbed in the
 interesting pages of the Hue-and-Cry.
 
-Meanwhile, Oliver Twist, little dreaming that he was within so very
+Meanwhile, [[Oliver Twist]], little dreaming that he was within so very
 short a distance of the merry old gentleman, was on his way to the
 book-stall. When he got into Clerkenwell, he accidently turned down a
 by-street which was not exactly in his way; but not discovering his
@@ -213,16 +213,16 @@ dear brother!” And he had hardly looked up, to see what the matter was,
 when he was stopped by having a pair of arms thrown tight round his
 neck.
 
-“Don’t,” cried Oliver, struggling. “Let go of me. Who is it? What are
+“Don’t,” cried [[Oliver]], struggling. “Let go of me. Who is it? What are
 you stopping me for?”
 
 The only reply to this, was a great number of loud lamentations from
 the young woman who had embraced him; and who had a little basket and a
 street-door key in her hand.
 
-“Oh my gracious!” said the young woman, “I have found him! Oh! Oliver!
-Oliver! Oh you naughty boy, to make me suffer such distress on your
-account! Come home, dear, come. Oh, I’ve found him. Thank gracious
+“Oh my gracious!” said the young woman, “I have found him! Oh! [[Oliver]]!
+[[Oliver]]! Oh you naughty boy, to make me suffer such distress on your
+account! Come [[Home|home]], dear, come. Oh, I’ve found him. Thank gracious
 goodness heavins, I’ve found him!” With these incoherent exclamations,
 the young woman burst into another fit of crying, and got so dreadfully
 hysterical, that a couple of women who came up at the moment asked a
@@ -231,8 +231,8 @@ also looking on, whether he didn’t think he had better run for the
 doctor. To which, the butcher’s boy: who appeared of a lounging, not to
 say indolent disposition: replied, that he thought not.
 
-“Oh, no, no, never mind,” said the young woman, grasping Oliver’s hand;
-“I’m better now. Come home directly, you cruel boy! Come!”
+“Oh, no, no, never mind,” said the young woman, grasping [[Oliver]]’s hand;
+“I’m better now. Come [[Home|home]] directly, you cruel boy! Come!”
 
 “Oh, ma’am,” replied the young woman, “he ran away, near a month ago,
 from his parents, who are hard-working and respectable people; and went
@@ -241,26 +241,26 @@ mother’s heart.”
 
 “Young wretch!” said one woman.
 
-“Go home, do, you little brute,” said the other.
+“Go [[Home|home]], do, you little brute,” said the other.
 
-“I am not,” replied Oliver, greatly alarmed. “I don’t know her. I
-haven’t any sister, or father and mother either. I’m an orphan; I live
+“I am not,” replied [[Oliver]], greatly alarmed. “I don’t know her. I
+haven’t any sister, or father and mother either. I’m an [[Orphan|orphan]]; I live
 at Pentonville.”
 
 “Only hear him, how he braves it out!” cried the young woman.
 
-“Why, it’s Nancy!” exclaimed Oliver; who now saw her face for the first
-time; and started back, in irrepressible astonishment.
+“Why, it’s [[Nancy]]!” exclaimed [[Oliver]]; who now saw her face for the first
+[[Time|time]]; and started back, in irrepressible astonishment.
 
-“You see he knows me!” cried Nancy, appealing to the bystanders. “He
-can’t help himself. Make him come home, there’s good people, or he’ll
+“You see he knows me!” cried [[Nancy]], appealing to the bystanders. “He
+can’t help himself. Make him come [[Home|home]], there’s good people, or he’ll
 kill his dear mother and father, and break my heart!”
 
 “What the devil’s this?” said a man, bursting out of a beer-shop, with
-a white dog at his heels; “young Oliver! Come home to your poor mother,
-you young dog! Come home directly.”
+a white dog at his heels; “young [[Oliver]]! Come [[Home|home]] to your poor mother,
+you young dog! Come [[Home|home]] directly.”
 
-“I don’t belong to them. I don’t know them. Help! help!” cried Oliver,
+“I don’t belong to them. I don’t know them. Help! help!” cried [[Oliver]],
 struggling in the man’s powerful grasp.
 
 “Help!” repeated the man. “Yes; I’ll help you, you young rascal! What
@@ -268,23 +268,23 @@ books are these? You’ve been a stealing ’em, have you? Give ’em here.”
 With these words, the man tore the volumes from his grasp, and struck
 him on the head.
 
-“That’s right!” cried a looker-on, from a garret-window. “That’s the
+“That’s right!” cried a looker-on, from a garret-[[Window|window]]. “That’s the
 only way of bringing him to his senses!”
 
 “To be sure!” cried a sleepy-faced carpenter, casting an approving look
-at the garret-window.
+at the garret-[[Window|window]].
 
 “It’ll do him good!” said the two women.
 
 “And he shall have it, too!” rejoined the man, administering another
-blow, and seizing Oliver by the collar. “Come on, you young villain!
+blow, and seizing [[Oliver]] by the collar. “Come on, you young [[Villain|villain]]!
 Here, Bull’s-eye, mind him, boy! Mind him!”
 
 Weak with recent illness; stupified by the blows and the suddenness of
 the attack; terrified by the fierce growling of the dog, and the
 brutality of the man; overpowered by the conviction of the bystanders
 that he really was the hardened little wretch he was described to be;
-what could one poor child do! Darkness had set in; it was a low
+what could one poor [[Child|child]] do! Darkness had set in; it was a low
 neighborhood; no help was near; resistance was useless. In another
 moment he was dragged into a labyrinth of dark narrow courts, and was
 forced along them at a pace which rendered the few cries he dared to
@@ -295,5 +295,5 @@ them, had they been ever so plain.
 
 The gas-lamps were lighted; Mrs. Bedwin was waiting anxiously at the
 open door; the servant had run up the street twenty times to see if
-there were any traces of Oliver; and still the two old gentlemen sat,
+there were any traces of [[Oliver]]; and still the two old gentlemen sat,
 perseveringly, in the dark parlour, with the watch between them.

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 5 (part 3)"
+title: "[[Shirley]] — Chapter 5 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 point was her dress--a stuff petticoat and a striped cotton camisole.
 
-The petticoat was short, displaying well a pair of feet and ankles which
+The petticoat was short, displaying [[Well|well]] a pair of feet and ankles which
 
 left much to be desired in the article of symmetry.
 
@@ -66,9 +66,9 @@ representatives of their decayed family, the persons of both were almost
 
 sacred in her eyes. Of Louis, however, she knew less than of Robert. He
 
-had been sent to England when a mere boy, and had received his education
+had been sent to England when a mere boy, and had received his [[Education|education]]
 
-at an English school. His education not being such as to adapt him for
+at an English school. His [[Education|education]] not being such as to adapt him for
 
 trade, perhaps, too, his natural bent not inclining him to mercantile
 
@@ -104,7 +104,7 @@ breakfast-table, and she had helped him to a portion of stewed pears,
 
 and cut him a good-sized Belgian tartine, she began to pour out a flood
 
-of amazement and horror at the transaction of last night, the
+of amazement and horror at the transaction of last [[Night|night]], the
 
 destruction of the frames.
 
@@ -134,7 +134,7 @@ she said I boiled it to rags, that English people would never be able to
 
 eat such a dish as our bouilli, that the bouillon was no better than
 
-greasy warm water, and as to the choucroute, she affirms she cannot
+greasy warm [[Water|water]], and as to the choucroute, she affirms she cannot
 
 touch it! That barrel we have in the cellar--delightfully prepared by my
 
@@ -190,21 +190,21 @@ but poor."
 
 "Precisely, and thus mercenary are mankind. Again, dear brother, last
 
-Sunday, if you recollect, was very wet; accordingly I went to church in
+[[Sunday]], if you recollect, was very wet; accordingly I went to church in
 
 my neat black sabots, objects one would not indeed wear in a fashionable
 
-city, but which in the country I have ever been accustomed to use for
+[[City|city]], but which in the country I have ever been accustomed to use for
 
 walking in dirty roads. Believe me, as I paced up the aisle, composed
 
 and tranquil, as I am always, four ladies, and as many gentlemen,
 
-laughed and hid their faces behind their prayer-books."
+laughed and hid their faces behind their [[prayer]]-books."
 
 
 
-"Well, well! don't put on the sabots again. I told you before I thought
+"[[Well]], [[Well|well]]! don't put on the sabots again. I told you before I thought
 
 they were not quite the thing for this country."
 

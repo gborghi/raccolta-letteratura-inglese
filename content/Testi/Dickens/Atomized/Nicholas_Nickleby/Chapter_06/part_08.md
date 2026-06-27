@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 6 (part 8)"
+title: "[[Nicholas Nickleby]] — Chapter 6 (part 8)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -34,7 +34,7 @@ lustreless eyes. “I should ask that question. How did you get here?”
 
 ‘“I will,” rejoined the baron.
 
-‘The figure looked at the bold Baron of Grogzwig for some time, and then
+‘The figure looked at the bold Baron of Grogzwig for some [[Time|time]], and then
 said familiarly,
 
 ‘“There’s no coming over you, I see. I’m not a man!”
@@ -45,13 +45,13 @@ said familiarly,
 
 ‘“You don’t look much like one,” returned the baron scornfully.
 
-‘“I am the Genius of Despair and Suicide,” said the apparition. “Now you
+‘“I am the Genius of [[Despair]] and [[suicide|Suicide]],” said the apparition. “Now you
 know me.”
 
 ‘With these words the apparition turned towards the baron, as if
 composing himself for a talk--and, what was very remarkable, was, that
 he threw his cloak aside, and displaying a stake, which was run through
-the centre of his body, pulled it out with a jerk, and laid it on the
+the centre of his [[Body|body]], pulled it out with a jerk, and laid it on the
 table, as composedly as if it had been a walking-stick.
 
 ‘“Now,” said the figure, glancing at the hunting-knife, “are you ready
@@ -64,7 +64,7 @@ for me?”
 ‘“You seem in a hurry,” said the baron.
 
 ‘“Why, yes, I am,” answered the figure; “they’re doing a pretty brisk
-business in my way, over in England and France just now, and my time is
+business in my way, over in England and France just now, and my [[Time|time]] is
 a good deal taken up.”
 
 ‘“Do you drink?” said the baron, touching the bottle with the bowl of
@@ -94,14 +94,14 @@ now, I find.”
 
 ‘“Going to kill himself because he has too much money!” exclaimed the
 baron, quite tickled. “Ha! ha! that’s a good one.” (This was the first
-time the baron had laughed for many a long day.)
+[[Time|time]] the baron had laughed for many a long day.)
 
 ‘“I say,” expostulated the figure, looking very much scared; “don’t do
 that again.”
 
 ‘“Why not?” demanded the baron.
 
-‘“Because it gives me pain all over,” replied the figure. “Sigh as much
+‘“Because it gives me [[Pain|pain]] all over,” replied the figure. “Sigh as much
 as you please: that does me good.”
 
 ‘The baron sighed mechanically at the mention of the word; the figure,
@@ -118,14 +118,14 @@ killing himself because he has none or little.”
 or whether he thought the baron’s mind was so thoroughly made up that it
 didn’t matter what he said, I have no means of knowing. I only know that
 the baron stopped his hand, all of a sudden, opened his eyes wide, and
-looked as if quite a new light had come upon him for the first time.
+looked as if quite a new light had come upon him for the first [[Time|time]].
 
 ‘“Why, certainly,” said Von Koeldwethout, “nothing is too bad to be
 retrieved.”
 
 ‘“Except empty coffers,” cried the genius.
 
-‘“Well; but they may be one day filled again,” said the baron.
+‘“[[Well]]; but they may be one day filled again,” said the baron.
 
 ‘“Scolding wives,” snarled the genius.
 
@@ -143,8 +143,8 @@ obliged to him.
 ‘“But I am not joking; I was never farther from it,” remonstrated the
 baron.
 
-‘“Well, I am glad to hear that,” said the genius, looking very grim,
-“because a joke, without any figure of speech, IS the death of me. Come!
+‘“[[Well]], I am glad to hear that,” said the genius, looking very grim,
+“because a joke, without any figure of speech, IS the [[Death|death]] of me. Come!
 Quit this dreary world at once.”
 
 ‘“I don’t know,” said the baron, playing with the knife; “it’s a dreary
@@ -164,7 +164,7 @@ and laughed so loud and boisterously, that the room rang with it.
 
 ‘The figure fell back a pace or two, regarding the baron meanwhile with
 a look of intense terror, and when he had ceased, caught up the stake,
-plunged it violently into its body, uttered a frightful howl, and
+plunged it violently into its [[Body|body]], uttered a frightful howl, and
 disappeared.
 
 ‘Von Koeldwethout never saw it again. Having once made up his mind
@@ -173,7 +173,7 @@ reason, and died many years afterwards: not a rich man that I am aware
 of, but certainly a happy one: leaving behind him a numerous family,
 who had been carefully educated in bear and boar-hunting under his own
 personal eye. And my advice to all men is, that if ever they become
-hipped and melancholy from similar causes (as very many men do), they
+hipped and [[Melancholy|melancholy]] from similar causes (as very many men do), they
 look at both sides of the question, applying a magnifying-glass to the
 best one; and if they still feel tempted to retire without leave, that
 they smoke a large pipe and drink a full bottle first, and profit by the
@@ -191,9 +191,9 @@ Sisters of York, and was, in fact, an inquiry whether he could inform
 him how much per annum the Yorkshire convents got in those days with
 their boarders.
 
-The journey was then resumed. Nicholas fell asleep towards morning, and,
+The [[Journey|journey]] was then resumed. Nicholas fell asleep towards morning, and,
 when he awoke, found, with great regret, that, during his nap, both the
 Baron of Grogzwig and the grey-haired gentleman had got down and were
-gone. The day dragged on uncomfortably enough. At about six o’clock that
-night, he and Mr. Squeers, and the little boys, and their united luggage,
+gone. The day dragged on uncomfortably enough. At about six o’[[Clock|clock]] that
+[[Night|night]], he and Mr. Squeers, and the little boys, and their united luggage,
 were all put down together at the George and New Inn, Greta Bridge.

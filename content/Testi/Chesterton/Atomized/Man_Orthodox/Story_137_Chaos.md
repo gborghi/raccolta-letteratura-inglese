@@ -16,9 +16,9 @@ tags:
 
 CHAOS
 
-Humanity has passed through every sort of storm and shipwreck,
-but never before was it so doubtful which was the storm and which
-the shipwreck, and which the ship and which the ship's crew;
+Humanity has passed through every sort of [[Storm|storm]] and shipwreck,
+but never before was it so doubtful which was the [[Storm|storm]] and which
+the shipwreck, and which the [[Ship|ship]] and which the [[Ship|ship]]'s crew;
 and what we are rescuing from what.
 
-                          New York Herald Tribune Magazine, July 5th, 1931
+                          [[New York]] Herald Tribune Magazine, July 5th, 1931

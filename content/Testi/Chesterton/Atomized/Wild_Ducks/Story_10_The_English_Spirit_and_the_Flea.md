@@ -28,9 +28,9 @@ with some interest.
 
 It was all about a flea.  I will not develop the topic, though Swift
 allegorised infinity under that image, and William Blake thought it
-worthwhile to paint a most careful portrait of the Ghost of a Flea.
+worthwhile to paint a most careful portrait of the [[Ghost]] of a Flea.
 In the East Anglian household, anyhow, there had never before been
-the ghost of a flea.  The solitary specimen was by the householder
+the [[Ghost|ghost]] of a flea.  The solitary specimen was by the householder
 connected in some way with the imprudence of his relative
 in some slumming adventure:  and it was held up before him,
 as it were, in derision and pursued with a wealth of detail.
@@ -47,7 +47,7 @@ it worthwhile to study, and of which this letter is a fragmentary
 but not quite valueless record.
 
 I do not idolatrize this animal.  I do not expect the German
-to fall dawn and worship the East Anglian inhabitant any
+to fall [[Dawn|dawn]] and worship the East Anglian inhabitant any
 more than the East Anglian flea--like an ancient Egyptian
 worshipping a beetle.  The qualities he displays in such
 cases are characteristics rather than abstract virtues.
@@ -59,8 +59,8 @@ be wayward and foolish and weak.  Like the other animal,
 he can be at his best an irritant and at his worst a parasite.
 The Englishman is not simply calm and wise and strong;
 but he is English.  I do not set my country above human temptations,
-like an allegory on a ceiling; I do not say that enemies could not
-conceivably perturb the British Lion or fluster the British Bulldog.
+like an [[Allegory|allegory]] on a ceiling; I do not say that enemies could not
+conceivably perturb the British [[Lion]] or fluster the British Bulldog.
 I do say that I am not, as a fact, perturbed, and specially
 not perturbed by people who say `The British Lion is drawing
 in his horns'--I perceive that they have no vivid mental
@@ -112,22 +112,22 @@ was much more sincerely expressed in the popular ejaculation,
 noble comic songs, and used to be uttered by people when they broke
 valuable teapots, or put their feet into cucumber-frames. Its excess
 was well satirised by Mr John Burns when he summed up Imperialism
-under the text, `The eyes of a fool are in the ends of the earth'.
+under the text, `The eyes of a [[Fool|fool]] are in the ends of the earth'.
 And it is true, as of every true national characteristic, that it
 has the defect of its quality, and often goes with an undue laxity
 about the rights of our own field or the laws of our own parish.
 But it goes also with more imaginative generosity about remote lands
 like Bulgaria or Japan than is common in more closely logical countries.
-And there really exists many a City clerk who is more concerned
-for bombs in Belgium than bombs in the City.
+And there really exists many a [[City]] clerk who is more concerned
+for bombs in Belgium than bombs in the [[City]].
 
 I repeat that I will have nothing to do with bragging about
 these good qualities as if they were the only good qualities.
 It is not a good quality, but a defect in us that we do not
 understand the French revanche; it only means that we have not long
 enough memories to make tyrants and enemies keep their promises.
-Our people are courageous, not because of pride and praise, but rather
-in spite of it.  In spite of our education we are still intelligent;
+Our people are courageous, not because of [[Pride|pride]] and praise, but rather
+in spite of it.  In spite of our [[Education|education]] we are still intelligent;
 and it was often in spite of our athletics that we were strong.
 The Battle of Waterloo was not won on Eton playing fields.
 The Battle of Waterloo (as the same authority said, and he certainly
@@ -138,5 +138,5 @@ or religion, and very nearly failed to save from starvation.
 It is these people who in the travail and agony of the hour,
 provide the note which is most needed and most unexpected;
 the note of frivolity.  And it is they, even more than their
-social superiors, who have seen the heavens filled with fire;
+social superiors, who have seen the heavens filled with [[Fire|fire]];
 and thought it less than a flea-bite.

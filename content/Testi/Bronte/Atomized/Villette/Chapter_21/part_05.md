@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 21 (part 5)"
+title: "[[Villette]] — Chapter 21 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -19,30 +19,30 @@ placing on my desk a letter—the very letter I had seen in Rosine’s
 hand—the letter whose face of enamelled white and single Cyclop’s-eye
 of vermilion-red had printed themselves so clear and perfect on the
 retina of an inward vision. I knew it, I felt it to be the letter of my
-hope, the fruition of my wish, the release from my doubt, the ransom
+[[Hope|hope]], the fruition of my wish, the release from my [[Doubt|doubt]], the ransom
 from my terror. This letter M. Paul, with his unwarrantably interfering
 habits, had taken from the portress, and now delivered it himself.
 
 I might have been angry, but had not a second for the sensation. Yes: I
 held in my hand not a slight note, but an envelope, which must, at
 least, contain a sheet: it felt not flimsy, but firm, substantial,
-satisfying. And here was the direction, “Miss Lucy Snowe,” in a clean,
+satisfying. And here was the direction, “Miss [[Lucy Snowe]],” in a clean,
 clear, equal, decided hand; and here was the seal, round, full, deftly
-dropped by untremulous fingers, stamped with the well-cut impress of
+dropped by untremulous fingers, stamped with the [[Well|well]]-cut impress of
 initials, “J. G. B.” I experienced a happy feeling—a glad emotion which
 went warm to my heart, and ran lively through all my veins. For once a
-hope was realized. I held in my hand a morsel of real solid joy: not a
+[[Hope|hope]] was realized. I held in my hand a morsel of real solid joy: not a
 dream, not an image of the brain, not one of those shadowy chances
-imagination pictures, and on which humanity starves but cannot live;
+[[Imagination|imagination]] pictures, and on which humanity starves but cannot live;
 not a mess of that manna I drearily eulogized awhile ago—which, indeed,
 at first melts on the lips with an unspeakable and preternatural
-sweetness, but which, in the end, our souls full surely loathe; longing
+sweetness, but which, in the end, our souls full surely loathe; [[Longing|longing]]
 deliriously for natural and earth-grown food, wildly praying Heaven’s
 Spirits to reclaim their own spirit-dew and essence—an aliment divine,
 but for mortals deadly. It was neither sweet hail nor small
 coriander-seed—neither slight wafer, nor luscious honey, I had lighted
 on; it was the wild, savoury mess of the hunter, nourishing and
-salubrious meat, forest-fed or desert-reared, fresh, healthful, and
+salubrious meat, forest-fed or [[Desert|desert]]-reared, fresh, healthful, and
 life-sustaining. It was what the old dying patriarch demanded of his
 son Esau, promising in requital the blessing of his last breath. It was
 a godsend; and I inwardly thanked the God who had vouchsafed it.
@@ -89,23 +89,23 @@ maîtresses, and confine himself to teaching the ABC to the babies of
 the third division.”
 
 What could I say to all this? Really nothing; and I hoped he would
-allow me to be silent. The storm recommenced.
+allow me to be silent. The [[Storm|storm]] recommenced.
 
 “Every answer to his queries was then refused? It seemed to be
 considered in _that_ place—that conceited boudoir of a first classe,
 with its pretentious book-cases, its green-baized desks, its rubbish of
 flower-stands, its trash of framed pictures and maps, and its foreign
 surveillante, forsooth!—it seemed to be the fashion to think _there_
-that the Professor of Literature was not worthy of a reply! These were
-new ideas; imported, he did not doubt, straight from ‘la Grande
+that [[The Professor|the Professor]] of Literature was not worthy of a reply! These were
+new ideas; imported, he did not [[Doubt|doubt]], straight from ‘la Grande
 Bretagne:’ they savoured of island insolence and arrogance.”
 
 Lull the second—the girls, not one of whom was ever known to weep a
 tear for the rebukes of any other master, now all melting like
-snow-statues before the intemperate heat of M. Emanuel: I not yet much
+[[Snow|snow]]-statues before the intemperate heat of M. Emanuel: I not yet much
 shaken, sitting down, and venturing to resume my work.
 
-Something—either in my continued silence or in the movement of my hand,
+Something—either in my continued [[Silence|silence]] or in the movement of my hand,
 stitching—transported M. Emanuel beyond the last boundary of patience;
 he actually sprang from his estrade. The stove stood near my desk, he
 attacked it; the little iron door was nearly dashed from its hinges,
@@ -113,15 +113,15 @@ the fuel was made to fly.
 
 “Est-ce que vous avez l’intention de m’insulter?” said he to me, in a
 low, furious voice, as he thus outraged, under pretence of arranging
-the fire.
+the [[Fire|fire]].
 
-It was time to soothe him a little if possible.
+It was [[Time|time]] to soothe him a little if possible.
 
 “Mais, Monsieur,” said I, “I would not insult you for the world. I
-remember too well that you once said we should be friends.”
+remember too [[Well|well]] that you once said we should be friends.”
 
 I did not intend my voice to falter, but it did: more, I think, through
-the agitation of late delight than in any spasm of present fear. Still
+the agitation of late delight than in any spasm of present [[Fear|fear]]. Still
 there certainly was something in M. Paul’s anger—a kind of passion of
-emotion—that specially tended to draw tears. I was not unhappy, nor
+emotion—that specially tended to draw [[Tears|tears]]. I was not unhappy, nor
 much afraid, yet I wept.

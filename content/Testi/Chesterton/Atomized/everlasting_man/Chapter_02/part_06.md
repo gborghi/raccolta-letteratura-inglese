@@ -27,21 +27,21 @@ is quite different.  It is also quite extraordinary, and the more sides
 we see of it the more extraordinary it seems.  It is emphatically
 not a thing that follows or flows naturally from anything else.
 If we imagine that an inhuman or impersonal intelligence could
-have felt from the first the general nature of the non-human world
+have felt from the first the general [[Nature|nature]] of the non-human world
 sufficiently to see that things would evolve in whatever way they
 did evolve, there would have been nothing whatever in all that
 natural world to prepare such a mind for such an unnatural novelty.
 To such a mind, man would most certainly not have seemed something
 like one herd out of a hundred herds finding richer pasture, or one
-swallow out of a hundred swallows making a summer under a strange sky.
+[[Swallow|swallow]] out of a hundred swallows making a [[Summer|summer]] under a strange sky.
 It would not be in the same scale and scarcely in the same dimension.
 We might as truly say that it would not be in the same universe.
 It would be more like seeing one cow out of a hundred cows suddenly
-jump over the moon or one pig out of a hundred pigs grow wings
+jump over the [[Moon|moon]] or one pig out of a hundred pigs grow wings
 in a flash and fly.  It would not be a question of the cattle finding
 their own grazing ground but of their building their own cattle-sheds,
-not a question of one swallow making a summer but of his making
-a summer house.  For the very fact that birds do build nests is
+not a question of one [[Swallow|swallow]] making a [[Summer|summer]] but of his making
+a [[Summer|summer]] [[house]].  For the very fact that [[Birds|birds]] do build nests is
 one of those similarities that sharpen the startling difference.
 The very fact that a bird can get as far as building a nest, and cannot
 get any farther, proves that he has not a mind as man has a mind;
@@ -50,21 +50,21 @@ If he built nothing at all, he might possibly be a philosopher of the
 Quietist or Buddhistic school, indifferent to all but the mind within.
 But when he builds as he does build and is satisfied and sings
 aloud with satisfaction, then we know there is really an invisible
-veil like a pane of glass between him and us, like the window
+veil like a pane of glass between him and us, like the [[Window|window]]
 on which a bird will beat in vain.  But suppose our abstract
-onlooker saw one of the birds begin to build as men build.
-Suppose in an incredibly short space of time there were seven styles
+onlooker saw one of the [[Birds|birds]] begin to build as men build.
+Suppose in an incredibly short space of [[Time|time]] there were seven styles
 of architecture for one style of nest.  Suppose the bird carefully
-selected forked twigs and pointed leaves to express the piercing piety
+selected forked twigs and pointed [[Leaves|leaves]] to express the piercing piety
 of Gothic, but turned to broad foliage and black mud when he sought
 in a darker mood to call up the heavy columns of Bel and Ashtaroth;
 making his nest indeed one of the hanging gardens of Babylon.
-Suppose the bird made little clay statues of birds celebrated
+Suppose the bird made little clay statues of [[Birds|birds]] celebrated
 in letters or politics and stuck them up in front of the nest.
-Suppose that one bird out of a thousand birds began to do one of
+Suppose that one bird out of a thousand [[Birds|birds]] began to do one of
 the thousand things that man had already done even in the morning
 of the world; and we can be quite certain that the onlooker would not
-regard such a bird as a mere evolutionary variety of the other birds;
+regard such a bird as a mere evolutionary variety of the other [[Birds|birds]];
 he would regard it as a very fearful wild-fowl indeed; possibly as a bird
 of ill-omen, certainly as an omen.  That bird would tell the augurs,
 not of something that would happen, but of some thing that had happened.
@@ -72,24 +72,24 @@ That something would be the appearance of a mind with a new
 dimension of depth; a mind like that of man.  If there be no God,
 no other mind could conceivably have foreseen it.
 
-Now, as a matter of fact, there is not a shadow of evidence that
+Now, as a matter of fact, there is not a [[Shadow|shadow]] of evidence that
 this thing was evolved at all.  There is not a particle of roof
 that this transition came slowly, or even that it came naturally.
 In a strictly scientific sense, we simply know nothing whatever
 about how it grew, or whether it grew, or what it is.  There may be
 a broken trail of stone and bone faintly suggesting the development
-of the human body.  There is nothing even faintly suggesting such
+of the human [[Body|body]].  There is nothing even faintly suggesting such
 a development of this human mind.  It was not and it was; we know
 not in what instant or in what infinity of years.  Something happened;
-and it has all the appearance of a transaction outside of time.
-It has therefore nothing to do with history in the ordinary sense.
+and it has all the appearance of a transaction outside of [[Time|time]].
+It has therefore nothing to do with [[history]] in the ordinary sense.
 The historian must take it or something like it for granted; it is not
 his business as a historian to explain it.  But if he cannot explain
 it as a historian, he will not explain it as a biologist.  In neither
 case is there any disgrace to him in accepting it without explaining it;
-for it is a reality, and history and biology deal with realities.
+for it is a reality, and [[history]] and biology deal with realities.
 He is quite justified in calmly confronting the pig with wings and the cow
-that jumped over the moon, merely because they have happened.  He can
+that jumped over the [[Moon|moon]], merely because they have happened.  He can
 reasonably accept man as a freak, because he accepts man as a fact.
 He can be perfectly comfortable in a crazy and disconnected world,
 or in a world that can produce such a crazy and disconnected thing.
@@ -98,10 +98,10 @@ seems related to anything else.  The thing is there; and that is
 enough for most of us.  But if we do indeed want to know how it can
 conceivably have come there, if we do indeed wish to see it related
 realistically to other things, if we do insist on seeing it evolved
-before our very eyes from an environment nearer to its own nature,
+before our very eyes from an environment nearer to its own [[Nature|nature]],
 then assuredly it is to very different things that we must go.
-We must stir very strange memories and return to very simple dreams,
-if we desire some origin that can make man other than a monster.
+We must stir very strange memories and return to very simple [[Dreams|dreams]],
+if we [[Desire|desire]] some origin that can make man other than a [[Monster|monster]].
 We shall have discovered very different causes before he becomes
 a creature of causation; and invoked other authority to turn
 him into something reasonable, or even into anything probable.

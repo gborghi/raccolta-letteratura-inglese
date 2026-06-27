@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 1 (part 2)"
+title: "[[Emma]] — Chapter 1 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -14,21 +14,21 @@ tags:
 </nav>
 
 
-All this spoken extremely fast obliged Miss Bates to stop for breath;
-and Emma said something very civil about the excellence of Miss
+All this spoken extremely fast obliged [[Miss Bates]] to stop for breath;
+and [[Emma]] said something very civil about the excellence of Miss
 Fairfax’s handwriting.
 
-“You are extremely kind,” replied Miss Bates, highly gratified; “you
+“You are extremely kind,” replied [[Miss Bates]], highly gratified; “you
 who are such a judge, and write so beautifully yourself. I am sure
 there is nobody’s praise that could give us so much pleasure as Miss
 Woodhouse’s. My mother does not hear; she is a little deaf you know.
 Ma’am,” addressing her, “do you hear what Miss Woodhouse is so obliging
 to say about Jane’s handwriting?”
 
-And Emma had the advantage of hearing her own silly compliment repeated
+And [[Emma]] had the advantage of hearing her own silly compliment repeated
 twice over before the good old lady could comprehend it. She was
 pondering, in the meanwhile, upon the possibility, without seeming very
-rude, of making her escape from Jane Fairfax’s letter, and had almost
+rude, of making her escape from [[Jane Fairfax]]’s letter, and had almost
 resolved on hurrying away directly under some slight excuse, when Miss
 Bates turned to her again and seized her attention.
 
@@ -38,7 +38,7 @@ she is sure to hear; but then she is used to my voice. But it is very
 remarkable that she should always hear Jane better than she does me.
 Jane speaks so distinct! However, she will not find her grandmama at
 all deafer than she was two years ago; which is saying a great deal at
-my mother’s time of life—and it really is full two years, you know,
+my mother’s [[Time|time]] of life—and it really is full two years, you know,
 since she was here. We never were so long without seeing her before,
 and as I was telling Mrs. Cole, we shall hardly know how to make enough
 of her now.”
@@ -49,8 +49,8 @@ of her now.”
 
 “Indeed!—that must be a very great pleasure.”
 
-“Thank you. You are very kind. Yes, next week. Every body is so
-surprized; and every body says the same obliging things. I am sure she
+“Thank you. You are very kind. Yes, next week. Every [[Body|body]] is so
+surprized; and every [[Body|body]] says the same obliging things. I am sure she
 will be as happy to see her friends at Highbury, as they can be to see
 her. Yes, Friday or Saturday; she cannot say which, because Colonel
 Campbell will be wanting the carriage himself one of those days. So
@@ -70,35 +70,35 @@ Three months, she says so, positively, as I am going to have the
 pleasure of reading to you. The case is, you see, that the Campbells
 are going to Ireland. Mrs. Dixon has persuaded her father and mother to
 come over and see her directly. They had not intended to go over till
-the summer, but she is so impatient to see them again—for till she
+the [[Summer|summer]], but she is so impatient to see them again—for till she
 married, last October, she was never away from them so much as a week,
 which must make it very strange to be in different kingdoms, I was
 going to say, but however different countries, and so she wrote a very
 urgent letter to her mother—or her father, I declare I do not know
 which it was, but we shall see presently in Jane’s letter—wrote in Mr.
-Dixon’s name as well as her own, to press their coming over directly,
+Dixon’s name as [[Well|well]] as her own, to press their coming over directly,
 and they would give them the meeting in Dublin, and take them back to
 their country seat, Baly-craig, a beautiful place, I fancy. Jane has
-heard a great deal of its beauty; from Mr. Dixon, I mean—I do not know
-that she ever heard about it from any body else; but it was very
+heard a great deal of its [[Beauty|beauty]]; from Mr. Dixon, I mean—I do not know
+that she ever heard about it from any [[Body|body]] else; but it was very
 natural, you know, that he should like to speak of his own place while
 he was paying his addresses—and as Jane used to be very often walking
 out with them—for Colonel and Mrs. Campbell were very particular about
 their daughter’s not walking out often with only Mr. Dixon, for which I
 do not at all blame them; of course she heard every thing he might be
-telling Miss Campbell about his own home in Ireland; and I think she
+telling Miss Campbell about his own [[Home|home]] in Ireland; and I think she
 wrote us word that he had shewn them some drawings of the place, views
 that he had taken himself. He is a most amiable, charming young man, I
-believe. Jane was quite longing to go to Ireland, from his account of
+believe. Jane was quite [[Longing|longing]] to go to Ireland, from his account of
 things.”
 
-At this moment, an ingenious and animating suspicion entering Emma’s
-brain with regard to Jane Fairfax, this charming Mr. Dixon, and the not
+At this moment, an ingenious and animating suspicion entering [[Emma]]’s
+brain with regard to [[Jane Fairfax]], this charming Mr. Dixon, and the not
 going to Ireland, she said, with the insidious design of farther
 discovery,
 
 “You must feel it very fortunate that Miss Fairfax should be allowed to
-come to you at such a time. Considering the very particular friendship
+come to you at such a [[Time|time]]. Considering the very particular [[Friendship|friendship]]
 between her and Mrs. Dixon, you could hardly have expected her to be
 excused from accompanying Colonel and Mrs. Campbell.”
 
@@ -111,12 +111,12 @@ Campbell; quite depend upon it; nothing can be more kind or pressing
 than their _joint_ invitation, Jane says, as you will hear presently;
 Mr. Dixon does not seem in the least backward in any attention. He is a
 most charming young man. Ever since the service he rendered Jane at
-Weymouth, when they were out in that party on the water, and she, by
+Weymouth, when they were out in that party on the [[Water|water]], and she, by
 the sudden whirling round of something or other among the sails, would
 have been dashed into the sea at once, and actually was all but gone,
 if he had not, with the greatest presence of mind, caught hold of her
 habit— (I can never think of it without trembling!)—But ever since we
-had the history of that day, I have been so fond of Mr. Dixon!”
+had the [[history]] of that day, I have been so fond of Mr. Dixon!”
 
 “But, in spite of all her friends’ urgency, and her own wish of seeing
-Ireland, Miss Fairfax prefers devoting the time to you and Mrs. Bates?”
+Ireland, Miss Fairfax prefers devoting the [[Time|time]] to you and Mrs. Bates?”

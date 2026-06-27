@@ -32,16 +32,16 @@ between us, although it may involve more personal confidence on my part
 than I have hitherto—”
 
 “Distinguished me with,” suggested Carker, bending his head again: “I
-will not say to you how honoured I am; for a man like you well knows
-how much honour he has in his power to bestow at pleasure.”
+will not say to you how honoured I am; for a man like you [[Well|well]] knows
+how much [[Honour|honour]] he has in his power to bestow at pleasure.”
 
 “Mrs Dombey and myself,” said Mr Dombey, passing this compliment with
-august self-denial, “are not quite agreed upon some points. We do not
+august [[Self|self]]-denial, “are not quite agreed upon some points. We do not
 appear to understand each other yet. Mrs Dombey has something to
 learn.”
 
 “Mrs Dombey is distinguished by many rare attractions; and has been
-accustomed, no doubt, to receive much adulation,” said the smooth,
+accustomed, no [[Doubt|doubt]], to receive much adulation,” said the smooth,
 sleek watcher of his slightest look and tone. “But where there is
 affection, duty, and respect, any little mistakes engendered by such
 causes are soon set right.”
@@ -49,21 +49,21 @@ causes are soon set right.”
 Mr Dombey’s thoughts instinctively flew back to the face that had
 looked at him in his wife’s dressing-room when an imperious hand was
 stretched towards the door; and remembering the affection, duty, and
-respect, expressed in it, he felt the blood rush to his own face quite
+respect, expressed in it, he felt the [[Blood|blood]] rush to his own face quite
 as plainly as the watchful eyes upon him saw it there.
 
 “Mrs Dombey and myself,” he went on to say, “had some discussion,
-before Mrs Skewton’s death, upon the causes of my dissatisfaction; of
+before Mrs Skewton’s [[Death|death]], upon the causes of my dissatisfaction; of
 which you will have formed a general understanding from having been a
 witness of what passed between Mrs Dombey and myself on the evening
-when you were at our—at my house.”
+when you were at our—at my [[house]].”
 
 “When I so much regretted being present,” said the smiling Carker.
 “Proud as a man in my position necessarily must be of your familiar
 notice—though I give you no credit for it; you may do anything you
 please without losing caste—and honoured as I was by an early
 presentation to Mrs Dombey, before she was made eminent by bearing your
-name, I almost regretted that night, I assure you, that I had been the
+name, I almost regretted that [[Night|night]], I assure you, that I had been the
 object of such especial good fortune.”
 
 That any man could, under any possible circumstances, regret the being
@@ -72,17 +72,17 @@ phenomenon which Mr Dombey could not comprehend. He therefore
 responded, with a considerable accession of dignity. “Indeed! And why,
 Carker?”
 
-“I fear,” returned the confidential agent, “that Mrs Dombey, never very
+“I [[Fear|fear]],” returned the confidential agent, “that Mrs Dombey, never very
 much disposed to regard me with favourable interest—one in my position
-could not expect that, from a lady naturally proud, and whose pride
-becomes her so well—may not easily forgive my innocent part in that
+could not expect that, from a lady naturally proud, and whose [[Pride|pride]]
+becomes her so [[Well|well]]—may not easily forgive my [[Innocent|innocent]] part in that
 conversation. Your displeasure is no light matter, you must remember;
 and to be visited with it before a third party—”
 
 “Carker,” said Mr Dombey, arrogantly; “I presume that I am the first
 consideration?”
 
-“Oh! Can there be a doubt about it?” replied the other, with the
+“Oh! Can there be a [[Doubt|doubt]] about it?” replied the other, with the
 impatience of a man admitting a notorious and incontrovertible fact.
 
 “Mrs Dombey becomes a secondary consideration, when we are both in
@@ -91,7 +91,7 @@ question, I imagine,” said Mr Dombey. “Is that so?”
 “Is it so?” returned Carker. “Do you know better than anyone, that you
 have no need to ask?”
 
-“Then I hope, Carker,” said Mr Dombey, “that your regret in the
+“Then I [[Hope|hope]], Carker,” said Mr Dombey, “that your regret in the
 acquisition of Mrs Dombey’s displeasure, may be almost counterbalanced
 by your satisfaction in retaining my confidence and good opinion.”
 
@@ -101,7 +101,7 @@ that displeasure. Mrs Dombey has expressed it to you?”
 “Mrs Dombey has expressed various opinions,” said Mr Dombey, with
 majestic coldness and indifference, “in which I do not participate, and
 which I am not inclined to discuss, or to recall. I made Mrs Dombey
-acquainted, some time since, as I have already told you, with certain
+acquainted, some [[Time|time]] since, as I have already told you, with certain
 points of domestic deference and submission on which I felt it
 necessary to insist. I failed to convince Mrs Dombey of the expediency
 of her immediately altering her conduct in those respects, with a view
@@ -112,14 +112,14 @@ agent.”
 
 Blended with the look that Carker bent upon him, was a devilish look at
 the picture over his head, that struck upon it like a flash of
-lightning.
+[[Lightning|lightning]].
 
 “Now, Carker,” said Mr Dombey, “I do not hesitate to say to you that I
 will carry my point. I am not to be trifled with. Mrs Dombey must
 understand that my will is law, and that I cannot allow of one
 exception to the whole rule of my life. You will have the goodness to
 undertake this charge, which, coming from me, is not unacceptable to
-you, I hope, whatever regret you may politely profess—for which I am
+you, I [[Hope|hope]], whatever regret you may politely profess—for which I am
 obliged to you on behalf of Mrs Dombey; and you will have the goodness,
 I am persuaded, to discharge it as exactly as any other commission.”
 

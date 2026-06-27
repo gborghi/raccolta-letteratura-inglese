@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 14 (part 2)"
+title: "[[Persuasion]] — Chapter 14 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -20,13 +20,13 @@ He is one of the dullest young men that ever lived. He has walked with
 
 me, sometimes, from one end of the sands to the other, without saying a
 
-word. He is not at all a well-bred young man. I am sure you will not
+word. He is not at all a [[Well|well]]-bred young man. I am sure you will not
 
 like him.”
 
 
 
-“There we differ, Mary,” said Anne. “I think Lady Russell would like
+“There we differ, Mary,” said Anne. “I think [[Lady Russell]] would like
 
 him. I think she would be so much pleased with his mind, that she would
 
@@ -34,9 +34,9 @@ very soon see no deficiency in his manner.”
 
 
 
-“So do I, Anne,” said Charles. “I am sure Lady Russell would like him.
+“So do I, Anne,” said Charles. “I am sure [[Lady Russell]] would like him.
 
-He is just Lady Russell’s sort. Give him a book, and he will read all
+He is just [[Lady Russell]]’s sort. Give him a book, and he will read all
 
 day long.”
 
@@ -52,7 +52,7 @@ Russell would like that?”
 
 
 
-Lady Russell could not help laughing. “Upon my word,” said she, “I
+[[Lady Russell]] could not help laughing. “Upon my word,” said she, “I
 
 should not have supposed that my opinion of any one could have admitted
 
@@ -72,13 +72,13 @@ opinion; but I am determined not to judge him beforehand.”
 
 
 
-Lady Russell began talking of something else. Mary spoke with animation
+[[Lady Russell]] began talking of something else. Mary spoke with animation
 
 of their meeting with, or rather missing, Mr Elliot so extraordinarily.
 
 
 
-“He is a man,” said Lady Russell, “whom I have no wish to see. His
+“He is a man,” said [[Lady Russell]], “whom I have no wish to see. His
 
 declining to be on cordial terms with the head of his family, has left
 
@@ -92,7 +92,7 @@ midst of the Elliot countenance.
 
 
 
-With regard to Captain Wentworth, though Anne hazarded no enquiries,
+With regard to [[Captain Wentworth]], though Anne hazarded no enquiries,
 
 there was voluntary communication sufficient. His spirits had been
 
@@ -110,29 +110,29 @@ going away for a week or ten days, till her head was stronger. He had
 
 talked of going down to Plymouth for a week, and wanted to persuade
 
-Captain Benwick to go with him; but, as Charles maintained to the last,
+[[Captain Benwick]] to go with him; but, as Charles maintained to the last,
 
-Captain Benwick seemed much more disposed to ride over to Kellynch.
+[[Captain Benwick]] seemed much more disposed to ride over to Kellynch.
 
 
 
-There can be no doubt that Lady Russell and Anne were both occasionally
+There can be no [[Doubt|doubt]] that [[Lady Russell]] and Anne were both occasionally
 
-thinking of Captain Benwick, from this time. Lady Russell could not
+thinking of [[Captain Benwick]], from this [[Time|time]]. [[Lady Russell]] could not
 
 hear the door-bell without feeling that it might be his herald; nor
 
 could Anne return from any stroll of solitary indulgence in her
 
-father’s grounds, or any visit of charity in the village, without
+father’s grounds, or any visit of [[Charity|charity]] in the village, without
 
-wondering whether she might see him or hear of him. Captain Benwick
+wondering whether she might see him or hear of him. [[Captain Benwick]]
 
 came not, however. He was either less disposed for it than Charles had
 
 imagined, or he was too shy; and after giving him a week’s indulgence,
 
-Lady Russell determined him to be unworthy of the interest which he had
+[[Lady Russell]] determined him to be unworthy of the interest which he had
 
 been beginning to excite.
 
@@ -150,7 +150,7 @@ quarters.
 
 
 
-Lady Russell and Anne paid their compliments to them once, when Anne
+[[Lady Russell]] and Anne paid their compliments to them once, when Anne
 
 could not but feel that Uppercross was already quite alive again.
 
@@ -174,13 +174,13 @@ on the other were tressels and trays, bending under the weight of brawn
 
 and cold pies, where riotous boys were holding high revel; the whole
 
-completed by a roaring Christmas fire, which seemed determined to be
+completed by a roaring Christmas [[Fire|fire]], which seemed determined to be
 
 heard, in spite of all the noise of the others. Charles and Mary also
 
 came in, of course, during their visit, and Mr Musgrove made a point of
 
-paying his respects to Lady Russell, and sat down close to her for ten
+paying his respects to [[Lady Russell]], and sat down close to her for ten
 
 minutes, talking with a very raised voice, but from the clamour of the
 
@@ -202,23 +202,23 @@ she had suffered herself by observing, with a happy glance round the
 
 room, that after all she had gone through, nothing was so likely to do
 
-her good as a little quiet cheerfulness at home.
+her good as a little quiet cheerfulness at [[Home|home]].
 
 
 
 Louisa was now recovering apace. Her mother could even think of her
 
-being able to join their party at home, before her brothers and sisters
+being able to join their party at [[Home|home]], before her brothers and sisters
 
 went to school again. The Harvilles had promised to come with her and
 
-stay at Uppercross, whenever she returned. Captain Wentworth was gone,
+stay at Uppercross, whenever she returned. [[Captain Wentworth]] was gone,
 
 for the present, to see his brother in Shropshire.
 
 
 
-“I hope I shall remember, in future,” said Lady Russell, as soon as
+“I [[Hope|hope]] I shall remember, in future,” said [[Lady Russell]], as soon as
 
 they were reseated in the carriage, “not to call at Uppercross in the
 
@@ -226,11 +226,11 @@ Christmas holidays.”
 
 
 
-Everybody has their taste in noises as well as in other matters; and
+Everybody has their taste in noises as [[Well|well]] as in other matters; and
 
 sounds are quite innoxious, or most distressing, by their sort rather
 
-than their quantity. When Lady Russell not long afterwards, was
+than their quantity. When [[Lady Russell]] not long afterwards, was
 
 entering Bath on a wet afternoon, and driving through the long course
 
@@ -242,7 +242,7 @@ newspapermen, muffin-men and milkmen, and the ceaseless clink of
 
 pattens, she made no complaint. No, these were noises which belonged to
 
-the winter pleasures; her spirits rose under their influence; and like
+the [[Winter|winter]] pleasures; her spirits [[Rose|rose]] under their influence; and like
 
 Mrs Musgrove, she was feeling, though not saying, that after being long
 
@@ -272,7 +272,7 @@ Elizabeth’s last letter had communicated a piece of news of some
 
 interest. Mr Elliot was in Bath. He had called in Camden Place; had
 
-called a second time, a third; had been pointedly attentive. If
+called a second [[Time|time]], a third; had been pointedly attentive. If
 
 Elizabeth and her father did not deceive themselves, had been taking
 
@@ -280,7 +280,7 @@ much pains to seek the acquaintance, and proclaim the value of the
 
 connection, as he had formerly taken pains to shew neglect. This was
 
-very wonderful if it were true; and Lady Russell was in a state of very
+very wonderful if it were true; and [[Lady Russell]] was in a state of very
 
 agreeable curiosity and perplexity about Mr Elliot, already recanting
 
@@ -302,6 +302,6 @@ than she could say for many other persons in Bath.
 
 
 
-She was put down in Camden Place; and Lady Russell then drove to her
+She was put down in Camden Place; and [[Lady Russell]] then drove to her
 
 own lodgings, in Rivers Street.

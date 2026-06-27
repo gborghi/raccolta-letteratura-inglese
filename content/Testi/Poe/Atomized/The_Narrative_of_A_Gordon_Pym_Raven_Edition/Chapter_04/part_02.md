@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-      black cook lifted him up in his arms as he would a child, and
+      black cook lifted him up in his arms as he would a [[Child|child]], and
 
       tossed him deliberately into the sea. Hearing the blow and the
 
-      plunge of the body, the men below could now be induced to venture
+      plunge of the [[Body|body]], the men below could now be induced to venture
 
       on deck neither by threats nor promises, until a proposition was
 
@@ -34,7 +34,7 @@ tags:
 
       arms, submitted after a brief struggle. The mate gave them fair
 
-      words—no doubt with a view of inducing those below to yield, for
+      words—no [[Doubt|doubt]] with a view of inducing those below to yield, for
 
       they had no difficulty in hearing all that was said on deck. The
 
@@ -90,7 +90,7 @@ tags:
 
       who seemed to exert as much influence, if not more, than the mate
 
-      himself), would listen to no proposition of the kind, and rose
+      himself), would listen to no proposition of the kind, and [[Rose|rose]]
 
       repeatedly for the purpose of resuming his work at the gangway.
 
@@ -108,7 +108,7 @@ tags:
 
       believe, or at least connected in some manner with the Indian
 
-      trading-posts on Lewis river. Peters himself was one of the most
+      trading-posts on Lewis [[River|river]]. Peters himself was one of the most
 
       ferocious-looking men I ever beheld. He was short in stature, not
 
@@ -116,13 +116,13 @@ tags:
 
       Herculean mould. His hands, especially, were so enormously thick
 
-      and broad as hardly to retain a human shape. His arms, as well as
+      and broad as hardly to retain a human shape. His arms, as [[Well|well]] as
 
       legs, were bowed in the most singular manner, and appeared to
 
       possess no flexibility whatever. His head was equally deformed,
 
-      being of immense size, with an indentation on the crown (like
+      being of immense size, with an indentation on the [[Crown|crown]] (like
 
       that on the head of most negroes), and entirely bald. To conceal
 
@@ -132,7 +132,7 @@ tags:
 
       presented itself—occasionally the skin of a Spanish dog or
 
-      American grizzly bear. At the time spoken of, he had on a portion
+      American grizzly bear. At the [[Time|time]] spoken of, he had on a portion
 
       of one of these bearskins; and it added no little to the natural
 
@@ -166,9 +166,9 @@ tags:
 
       strength when under excitement, and some of them had given rise
 
-      to a doubt of his sanity. But on board the Grampus, it seems, he
+      to a [[Doubt|doubt]] of his [[Sanity|sanity]]. But on board the Grampus, it seems, he
 
-      was regarded, at the time of the mutiny, with feelings more of
+      was regarded, at the [[Time|time]] of the mutiny, with feelings more of
 
       derision than of anything else. I have been thus particular in
 
@@ -182,7 +182,7 @@ tags:
 
       say, which, in its latter portions, will be found to include
 
-      incidents of a nature so entirely out of the range of human
+      incidents of a [[Nature|nature]] so entirely out of the range of human
 
       experience, and for this reason so far beyond the limits of human
 

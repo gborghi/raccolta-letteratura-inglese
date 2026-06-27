@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the Ghost's Bargain — Chapter 2 (part 3)"
+title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Haunted-Man-and-the-Ghost's-Bargain-(Dickens)"
@@ -21,7 +21,7 @@ care of her, or never look your mother in the face again.”
 
 “Nor your father, Johnny,” added Mr. Tetterby.
 
-Johnny, much affected by this conditional renunciation of him, looked
+Johnny, much affected by this conditional [[Renunciation|renunciation]] of him, looked
 down at Moloch’s eyes to see that they were all right, so far, and
 skilfully patted her back (which was uppermost), and rocked her with his
 foot.
@@ -33,18 +33,18 @@ chair, and dry yourself.”
 hands. “I an’t very wet, I don’t think. Does my face shine much,
 father?”
 
-“Well, it _does_ look waxy, my boy,” returned Mr. Tetterby.
+“[[Well]], it _does_ look waxy, my boy,” returned Mr. Tetterby.
 
 “It’s the weather, father,” said Adolphus, polishing his cheeks on the
-worn sleeve of his jacket. “What with rain, and sleet, and wind, and
-snow, and fog, my face gets quite brought out into a rash sometimes. And
+worn sleeve of his jacket. “What with rain, and sleet, and [[Wind|wind]], and
+[[Snow|snow]], and fog, my face gets quite brought out into a rash sometimes. And
 shines, it does—oh, don’t it, though!”
 
 Master Adolphus was also in the newspaper line of life, being employed,
 by a more thriving firm than his father and Co., to vend newspapers at a
 railway station, where his chubby little person, like a
 shabbily-disguised Cupid, and his shrill little voice (he was not much
-more than ten years old), were as well known as the hoarse panting of the
+more than ten years old), were as [[Well|well]] known as the hoarse panting of the
 locomotives, running in and out. His juvenility might have been at some
 loss for a harmless outlet, in this early application to traffic, but for
 a fortunate discovery he made of a means of entertaining himself, and of
@@ -53,9 +53,9 @@ business. This ingenious invention, remarkable, like many great
 discoveries, for its simplicity, consisted in varying the first vowel in
 the word “paper,” and substituting, in its stead, at different periods of
 the day, all the other vowels in grammatical succession. Thus, before
-daylight in the winter-time, he went to and fro, in his little oilskin
+daylight in the [[Winter|winter]]-[[Time|time]], he went to and fro, in his little oilskin
 cap and cape, and his big comforter, piercing the heavy air with his cry
-of “Morn-ing Pa-per!” which, about an hour before noon, changed to
+of “Morn-ing Pa-per!” which, about an hour before [[Noon|noon]], changed to
 “Morn-ing Pepper!” which, at about two, changed to “Morn-ing Pip-per!”
 which in a couple of hours changed to “Morn-ing Pop-per!” and so declined
 with the sun into “Eve-ning Pup-per!” to the great relief and comfort of
@@ -63,7 +63,7 @@ this young gentleman’s spirits.
 
 Mrs. Tetterby, his lady-mother, who had been sitting with her bonnet and
 shawl thrown back, as aforesaid, thoughtfully turning her wedding-ring
-round and round upon her finger, now rose, and divesting herself of her
+round and round upon her finger, now [[Rose|rose]], and divesting herself of her
 out-of-door attire, began to lay the cloth for supper.
 
 “Ah, dear me, dear me, dear me!” said Mrs. Tetterby. “That’s the way the
@@ -78,7 +78,7 @@ Mr. Tetterby elevated his eyebrows, folded his newspaper afresh, and
 carried his eyes up it, and down it, and across it, but was wandering in
 his attention, and not reading it.
 
-Mrs. Tetterby, at the same time, laid the cloth, but rather as if she
+Mrs. Tetterby, at the same [[Time|time]], laid the cloth, but rather as if she
 were punishing the table than preparing the family supper; hitting it
 unnecessarily hard with the knives and forks, slapping it with the
 plates, dinting it with the salt-cellar, and coming heavily down upon it
@@ -94,7 +94,7 @@ before. Which is the way the world goes?”
 
 “Sophia!” remonstrated her husband, “you said _that_ before, too.”
 
-“Well, I’ll say it again if you like,” returned Mrs. Tetterby. “Oh
+“[[Well]], I’ll say it again if you like,” returned Mrs. Tetterby. “Oh
 nothing—there! And again if you like, oh nothing—there! And again if
 you like, oh nothing—now then!”
 
@@ -108,7 +108,7 @@ put out at all? _I_ never did.”
 
 Mr. Tetterby gave up the perusal of his newspaper as a bad job, and,
 taking a slow walk across the room, with his hands behind him, and his
-shoulders raised—his gait according perfectly with the resignation of his
+shoulders raised—his gait according perfectly with the [[Resignation|resignation]] of his
 manner—addressed himself to his two eldest offspring.
 
 “Your supper will be ready in a minute, ’Dolphus,” said Mr. Tetterby.
@@ -131,14 +131,14 @@ tokens of contrition behind him, caught him round the neck, and wept.
 
 “Oh, Dolphus!” said Mrs. Tetterby, “how could I go and behave so?”
 
-This reconciliation affected Adolphus the younger and Johnny to that
+This [[Reconciliation|reconciliation]] affected Adolphus the younger and Johnny to that
 degree, that they both, as with one accord, raised a dismal cry, which
 had the effect of immediately shutting up the round eyes in the beds, and
-utterly routing the two remaining little Tetterbys, just then stealing in
+utterly routing the two remaining little [[Tetterbys]], just then stealing in
 from the adjoining closet to see what was going on in the eating way.
 
-“I am sure, ’Dolphus,” sobbed Mrs. Tetterby, “coming home, I had no more
-idea than a child unborn—”
+“I am sure, ’Dolphus,” sobbed Mrs. Tetterby, “coming [[Home|home]], I had no more
+idea than a [[Child|child]] [[unborn]]—”
 
 Mr. Tetterby seemed to dislike this figure of speech, and observed, “Say
 than the baby, my dear.”

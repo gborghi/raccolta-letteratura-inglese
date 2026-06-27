@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — ORD KITCHENER"
+title: "[[LordKitchener]] — ORD KITCHENER"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/LordKitchener-(Chesterton)"
@@ -20,7 +20,7 @@ tags:
 
 
 
-Horatio Herbert Kitchener was Irish by birth but English by
+[[Horatio]] Herbert Kitchener was Irish by birth but English by
 
 extraction, being born in County Kerry, the son of an English colonel.
 
@@ -28,13 +28,13 @@ The fanciful might see in this first and accidental fact the presence
 
 of this simple and practical man amid the more mystical western
 
-problems and dreams which were very distant from his mind, an element
+problems and [[Dreams|dreams]] which were very distant from his mind, an element
 
 which clings to all his career and gives it an unconscious poetry. He
 
-had many qualities of the epic hero, and especially this--that he was
+had many qualities of the [[Epic|epic]] [[Hero|hero]], and especially this--that he was
 
-the last man in the world to be the epic poet. There is something
+the last man in the world to be the [[Epic|epic]] poet. There is something
 
 almost provocative to superstition in the way in which he stands at
 
@@ -46,15 +46,15 @@ the peasants of Ireland to the moment when he died upon the sea,
 
 seeking at the other end of the world the other great peasant
 
-civilisation of Russia. Yet at each of these symbolic moments he is,
+civilisation of [[Russia]]. Yet at each of these symbolic moments he is,
 
 if not as unconscious as a symbol, then as silent as a symbol; he is
 
-speechless and supremely significant, like an ensign or a flag. The
+speechless and supremely significant, like an ensign or a [[Flag|flag]]. The
 
 superficial picturesqueness of his life, at least, lies very much in
 
-this--that he was like a hero condemned by fate to act an allegory.
+this--that he was like a [[Hero|hero]] condemned by fate to act an [[Allegory|allegory]].
 
 
 
@@ -68,7 +68,7 @@ intellectual interests of the soberest and most methodical sort,
 
 especially for the close study of mathematics. This also,
 
-incidentally, was typical enough, for his work in Egypt and the
+incidentally, was typical enough, for his work in [[Egypt]] and the
 
 Soudan, by which his fame was established, was based wholly upon such
 
@@ -76,7 +76,7 @@ calculations. It was not merely mathematical but literally
 
 geometrical. His work bore the same relation to Gordon's that a rigid
 
-mathematical diagram bears to a rough pencil sketch on which it is
+mathematical diagram bears to a rough pencil [[Sketch|sketch]] on which it is
 
 based. Yet the student thus bent on the strictest side of his
 
@@ -88,21 +88,21 @@ of war something so romantic that it has been counted incredible, yet
 
 something so relevant to the great reality of to-day that it might
 
-have been made up centuries after his death, as a myth is made up
+have been made up centuries after his [[Death|death]], as a myth is made up
 
 about a god. He happened to be in France in the most tragic hour that
 
 France has ever known or, please God, will ever know. She was bearing
 
-alone the weight of that alien tyranny, of that hopeless and almost
+[[Alone|alone]] the weight of that alien tyranny, of that hopeless and almost
 
 lifeless violence, which the other nations have since found to be the
 
 worst of all the terrors which God tolerates in this world. She trod
 
-that winepress alone; and of the peoples there were none to help her.
+that winepress [[Alone|alone]]; and of the peoples there were none to help her.
 
-In 1870 the Prussian had already encircled Paris, and General Chanzy
+In 1870 the Prussian had already encircled [[Paris]], and General Chanzy
 
 was fighting against enormous odds to push northwards to its relief,
 
@@ -114,11 +114,11 @@ never be known. France was still something of an ideal of civilisation
 
 for many of the more generous English gentry. Prussia was never really
 
-an ideal for anybody, even the Prussians, and mere success, which
+an ideal for anybody, even the Prussians, and mere [[success]], which
 
 could not make her an ideal, had not yet calamitously made her a
 
-model. There was in it also, no doubt, a touch of the schoolboy who
+model. There was in it also, no [[Doubt|doubt]], a touch of the schoolboy who
 
 runs away to sea--that touch of the schoolboy without the sense of
 
@@ -132,11 +132,11 @@ he was an English one. As Hannibal was dedicated in boyhood to war
 
 against the eagles of Rome, Kitchener was dedicated, almost in
 
-boyhood, to war against the eagles of Germany. Romance came to this
+boyhood, to war against the eagles of [[Germany]]. [[Romance]] came to this
 
-realist, whether by impulse or by accident, like a wind from without,
+realist, whether by impulse or by accident, like a [[Wind|wind]] from without,
 
-as first love will come to the woman-hater. He was already, both by
+as first [[Love|love]] will come to the woman-hater. He was already, both by
 
 fate and choice, something more than he had meant to be. The
 
@@ -164,7 +164,7 @@ practical exertions are always relieved against a curiously
 
 incongruous background--as if they were setting up telegraph-posts
 
-through the Garden of Eden or opening a railway station at the New
+through the [[Garden]] of Eden or opening a railway station at the New
 
 Jerusalem. But the contrast between antiquity and modernity was not
 
@@ -184,9 +184,9 @@ of a certain spirit, vivid and yet strangely negative, which dwells in
 
 such deserts. Walking among the olives of Gaza or looking on the
 
-Philistine plain, such travellers may well feel that they are treading
+Philistine plain, such travellers may [[Well|well]] feel that they are treading
 
-on cold volcanoes, as empty as the mountains of the moon. But the
+on cold volcanoes, as empty as the [[Mountains|mountains]] of the [[Moon|moon]]. But the
 
 mountain of Mahomet is not yet an extinct volcano.
 
@@ -222,9 +222,9 @@ hundred." It is characteristic of his type that he did not even think
 
 in round numbers. But there was in him, parallel to this almost
 
-arithmetical passion, another quality which is, in a double sense, the
+arithmetical passion, another quality which is, in a [[Double|double]] sense, the
 
-secret of his life. For it was the cause of at least half his success;
+secret of his life. For it was the cause of at least half his [[success]];
 
 and yet he very successfully concealed it--especially from his
 
@@ -232,7 +232,7 @@ admirers.
 
 
 
-The paradox of all this part of his life lies in this--that, destined
+The [[Paradox|paradox]] of all this part of his life lies in this--that, destined
 
 as he was to be the greatest enemy of Mahomedanism, he was quite
 
@@ -240,9 +240,9 @@ exceptionally a friend of Mahomedans. He had been first received in
 
 that land, so to speak, with a blow on the head with a club; he was
 
-destined to break the sword of the last Arab conqueror, to wreck his
+destined to break the [[Sword|sword]] of the last Arab conqueror, to wreck his
 
-holy city and treat all the religious traditions of it with a
+holy [[City|city]] and treat all the religious traditions of it with a
 
 deliberate desecration which has often been held oppressive and was
 
@@ -250,13 +250,13 @@ undoubtedly ruthless. Yet with the individual Moslem he had a sort of
 
 natural brotherhood which has never been explained. Had it been shown
 
-by a soldier of the Crusades, it would have been called witchcraft. In
+by a soldier of the [[Crusades]], it would have been called witchcraft. In
 
 this, as in many other cases, the advance of a larger enlightenment
 
 prevents us from calling it anything. There was mixed with it, no
 
-doubt, the deep Moslem admiration for mere masculinity, which has
+[[Doubt|doubt]], the deep Moslem admiration for mere masculinity, which has
 
 probably by its exaggeration permitted the Moslem subordination of
 
@@ -274,7 +274,7 @@ systematically for many years before the event, that prepared the
 
 ground for the overthrow of that wild papacy and wandering empire
 
-which so long hung in the desert, like a mirage to mislead and to
+which so long hung in the [[Desert|desert]], like a mirage to mislead and to
 
 destroy.
 
@@ -284,23 +284,23 @@ Kitchener was called away in 1878 to similar surveying duties in
 
 Cyprus, and afterwards in Anatolia, where the same faculty obtained
 
-him a _firman_, making him safe in all the Holy Cities of Islam. He
+him a _firman_, making him safe in all the Holy Cities of [[Islam]]. He
 
 also dealt much with the Turkish fugitives fleeing from the Russian
 
 guns to Erzerum--whither, so long after, the guns were to follow. But
 
-it is with his later summons to Egypt that we feel he has returned to
+it is with his later summons to [[Egypt]] that we feel he has returned to
 
 the theatre of the great things of his life. It is not necessary in
 
-this rough sketch to discuss the rights and wrongs or the general
+this rough [[Sketch|sketch]] to discuss the rights and wrongs or the general
 
-international origin of the British occupation of Egypt; the degree of
+international origin of the British occupation of [[Egypt]]; the degree of
 
 praise or blame to be given to the Khedive, who was the nominal ruler,
 
-or to Arabi, the Nationalist leader, who for a time seized the chief
+or to Arabi, the Nationalist leader, who for a [[Time|time]] seized the chief
 
 power in his place. Kitchener's services in the operations by which
 
@@ -310,9 +310,9 @@ immediately preceding the bombardment of Alexandria; and the problem
 
 with which his own personality became identified was not that of the
 
-Government of Egypt, but of the more barbaric power beyond, by which
+[[government|Government]] of [[Egypt]], but of the more barbaric power beyond, by which
 
-Egypt, and any powers ruling it, came to be increasingly imperilled.
+[[Egypt]], and any powers ruling it, came to be increasingly imperilled.
 
 And what advanced him rapidly to posts of real responsibility in the
 
@@ -330,27 +330,27 @@ knowledge of Arabs.
 
 
 
-There is in Islam a paradox which is perhaps a permanent menace. The
+There is in [[Islam]] a [[Paradox|paradox]] which is perhaps a permanent menace. The
 
-great creed born in the desert creates a kind of ecstasy out of the
+great creed born in the [[Desert|desert]] creates a kind of ecstasy out of the
 
 very emptiness of its own land, and even, one may say, out of the
 
 emptiness of its own theology. It affirms, with no little sublimity,
 
-something that is not merely the singleness but rather the solitude of
+something that is not merely the singleness but rather the [[Solitude|solitude]] of
 
 God. There is the same extreme simplification in the solitary figure
 
-of the Prophet; and yet this isolation perpetually reacts into its own
+of the [[Prophet]]; and yet this isolation perpetually reacts into its own
 
-opposite. A void is made in the heart of Islam which has to be filled
+opposite. A void is made in the heart of [[Islam]] which has to be filled
 
 up again and again by a mere repetition of the revolution that founded
 
 it. There are no sacraments; the only thing that can happen is a sort
 
-of apocalypse, as unique as the end of the world; so the apocalypse
+of [[Apocalypse|apocalypse]], as unique as the end of the world; so the [[Apocalypse|apocalypse]]
 
 can only be repeated and the world end again and again. There are no
 
@@ -366,7 +366,7 @@ whose more famous title was the Mahdi; and his more ferocious
 
 successor Abdullahi, who was generally known as the Khalifa. These
 
-great fanatics, or great creators of fanaticism, succeeded in making a
+great fanatics, or great creators of [[Fanaticism|fanaticism]], succeeded in making a
 
 militarism almost as famous and formidable as that of the Turkish
 
@@ -374,21 +374,21 @@ Empire on whose frontiers it hovered, and in spreading a reign of
 
 terror such as can seldom be organised except by civilisation. With
 
-Napoleonic suddenness and success the Mahdist hordes had fallen on the
+Napoleonic suddenness and [[success]] the Mahdist hordes had fallen on the
 
 army of Hicks Pasha, when it left its camp at Omdurman, on the Nile
 
 opposite Khartoum, and had cut it to pieces in a fashion incredible.
 
-They had established at Omdurman their Holy City, the Rome of their
+They had established at Omdurman their Holy [[City]], the Rome of their
 
 nomadic Roman Empire. Towards that terrible place many adventurous
 
 men, like poor Hicks, had gone and were destined to go. The sands that
 
-encircled it were like that entrance to the lion's cavern in the
+encircled it were like that entrance to the [[Lion|lion]]'s cavern in the
 
-fable, towards which many footprints pointed, and from which none
+[[Fable|fable]], towards which many footprints pointed, and from which none
 
 returned.
 
@@ -398,7 +398,7 @@ The last of these was Gordon, that romantic and even eccentric figure
 
 of whom so much might be said. Perhaps the most essential thing to say
 
-of him here is that fortune once again played the artist in sending
+of him here is that fortune once again played the [[Artist|artist]] in sending
 
 such a man, at once as the leader and the herald of a man like
 
@@ -406,29 +406,29 @@ Kitchener; to show the way and to make the occasion; to be a sacrifice
 
 and a signal for vengeance. Whatever else there was about Gordon,
 
-there was about him the air not only of a hero, but of the hero of a
+there was about him the air not only of a [[Hero|hero]], but of the [[Hero|hero]] of a
 
-tragedy. Something Oriental in his own mysticism, something most of
+[[Tragedy|tragedy]]. Something Oriental in his own mysticism, something most of
 
 his countrymen would have called moonshine, something perverse in his
 
-courage, something childish and beautiful in that perversity, marked
+[[Courage|courage]], something childish and beautiful in that perversity, marked
 
-him out as the man who walks to doom--the man who in a hundred poems
+him out as the man who walks to doom--the man who in a hundred [[Poems|poems]]
 
-or fables goes up to a city to be crucified. He had gone to Khartoum
+or fables goes up to a [[City|city]] to be crucified. He had gone to Khartoum
 
 to arrange the withdrawal of the troops from the Soudan, the
 
-Government having decided, if possible, to live at peace with the new
+[[government|Government]] having decided, if possible, to live at peace with the new
 
 Mahdist dictatorship; and he went through the deserts almost as
 
-solitary as a bird, on a journey as lonely as his end. He was cut off
+solitary as a bird, on a [[Journey|journey]] as lonely as his end. He was cut off
 
 and besieged in Khartoum by the Mahdist armies, and fell with the
 
-falling city. Long before his end he had been in touch with Kitchener,
+falling [[City|city]]. Long before his end he had been in touch with Kitchener,
 
 now of the Egyptian Intelligence Department, and weaving very
 
@@ -438,7 +438,7 @@ Gordon were to be taken at last.
 
 
 
-A well-known English journalist, Bennet Burleigh, wandering near
+A [[Well|well]]-known English journalist, Bennet Burleigh, wandering near
 
 Dongola, fell into conversation with an Arab who spoke excellent
 
@@ -454,9 +454,9 @@ great and extraordinary schemes with which Kitchener was already
 
 working to avenge the comrade who had fallen in Khartoum. This part of
 
-the work was as personal as that of a private detective plotting
+the work was as personal as that of a private [[Detective|detective]] plotting
 
-against a private murderer in a modern detective story. Kitchener had
+against a private murderer in a modern [[Detective|detective]] story. Kitchener had
 
 learned to speak the Arab tongue not only freely but sociably. He wore
 
@@ -472,7 +472,7 @@ himself and therefore enemies for the Mahdi. This was the first and
 
 superficially the most individual of the converging plans which were
 
-to checkmate the desert empire; and its effects were very
+to checkmate the [[Desert|desert]] empire; and its effects were very
 
 far-reaching. Again and again, in subsequent years, when the
 
@@ -480,7 +480,7 @@ missionaries of the Mahdist religion pushed northward, they found
 
 themselves entangled among tribes which the English power had not so
 
-much conquered as converted. The legend of the great Prophet
+much conquered as converted. The legend of the great [[Prophet]]
 
 encountered something more elusive than laws or military plans; it
 
@@ -488,29 +488,29 @@ encountered another legend--an influence which also carried the echoes
 
 of the voice of a man. The Ababdeh Arabs, it was said, made a chain
 
-across the desert, which the new and awful faith could not pass. The
+across the [[Desert|desert]], which the new and awful [[Faith|faith]] could not pass. The
 
 Mudir of Dongola was on the point of joining the ever-victorious
 
-Prophet of Omdurman. Kitchener, clad as an Arab, went out almost alone
+[[Prophet]] of Omdurman. Kitchener, clad as an Arab, went out almost [[Alone|alone]]
 
 to speak with him. What passed, perhaps, we can never tell; but
 
 before his guest had even left him the Mudir flew to arms, fell upon
 
-the Prophet's hosts at Korti, and drove them before him.
+the [[Prophet]]'s hosts at Korti, and drove them before him.
 
 
 
 The second and superficially more solid process of preparation is much
 
-better known. It was the education of the native Egyptian army. It is
+better known. It was the [[Education|education]] of the native Egyptian army. It is
 
-not necessary to swallow all the natural jingoism of English
+not necessary to [[Swallow|swallow]] all the natural jingoism of English
 
 journalism in order to see something truly historic about the English
 
-officer's work with the Fellaheen, or native race of Egypt. For
+officer's work with the Fellaheen, or native race of [[Egypt]]. For
 
 centuries they had lain as level as the slime of the Nile, and all the
 
@@ -520,7 +520,7 @@ pavement. Though professing the challenging creed of the Moslems, they
 
 seem to have reached something like the pessimist patience of the
 
-Hindoos. To have turned this slime once more into a human river, to
+Hindoos. To have turned this slime once more into a human [[River|river]], to
 
 have lifted this pavement once more into a human rampart or barricade,
 
@@ -536,17 +536,17 @@ it. There must be something more than a mere commercial common-sense
 
 in the nation in whose name it was done. It is easy enough, with
 
-sufficient dulness and greed of detail, to "organise" anything or
+sufficient dulness and [[Greed|greed]] of detail, to "organise" anything or
 
 anybody. It is easy enough to make people obey a bugle (or a factory
 
 hooter) as the Prussian soldiers obey a bugle. But it is no such
 
-trumpet that makes possible the resurrection of the dead.
+trumpet that makes possible the [[Resurrection|resurrection]] of the dead.
 
 
 
-The success of this second of the three converging designs of
+The [[success]] of this second of the three converging designs of
 
 Kitchener, the making of a new Egyptian army, was soon seen in the
 
@@ -578,7 +578,7 @@ whole new army; and the first work that fell to him was leading the
 
 new expedition. In three days after the order was received the force
 
-started at nightfall and marched southward into the night. The detail
+started at nightfall and marched southward into the [[Night|night]]. The detail
 
 is something more than picturesque; for on all accounts of that
 
@@ -590,23 +590,23 @@ very secret one, so that the cloud was as practical as a cloak; but it
 
 was also the re-entrance of a territory which an instinct has led the
 
-English to call the Dark Continent even under its blazing noon. There
+English to call the Dark Continent even under its blazing [[Noon|noon]]. There
 
-vast distances alone made a veil like that of darkness, and there the
+vast distances [[Alone|alone]] made a veil like that of darkness, and there the
 
 lives of Gordon and Hicks and hundreds more had been swallowed up in
 
-an ancient silence. Perhaps we cannot guess to-day, after the colder
+an ancient [[Silence|silence]]. Perhaps we cannot guess to-day, after the colder
 
 completion of Kitchener's work, what it meant for those who went on
 
-that nocturnal march; who crept up in two lines, one along the river
+that nocturnal march; who crept up in two lines, one along the [[River|river]]
 
 and the other along an abandoned railway track, moving through the
 
-black night; and in the black night encamped, and waited for the
+black [[Night|night]]; and in the black [[Night|night]] encamped, and waited for the
 
-rising of the moon. Anyhow, the tale told of it strikes this note,
+rising of the [[Moon|moon]]. Anyhow, the tale told of it strikes this note,
 
 especially in one touch of what can only be called a terrible
 
@@ -614,7 +614,7 @@ triviality. I mean the reference to the new noise heard just before
 
 day-break, revealing the nearness of the enemy: the dreadful drum of
 
-Islam, calling for prayer to an awful God--a God not to be worshipped
+[[Islam]], calling for [[Prayer|prayer]] to an awful God--a God not to be worshipped
 
 by the changing and sometimes cheerful notes of harp or organ, but
 
@@ -634,15 +634,15 @@ of Dongola itself. But Dongola was not the high place of the enemy; it
 
 was not there that Gordon died or that Abdullahi was still alive. Far
 
-away up the dark river were the twin cities of the tragedy, the city
+away up the dark [[River|river]] were the twin cities of the [[Tragedy|tragedy]], the [[City|city]]
 
-of the murder and the city of the murderer. It was in relation to this
+of the murder and the [[City|city]] of the murderer. It was in relation to this
 
 fixed point of fact that Kitchener's next proceeding is seen to be
 
 supremely characteristic. He was so anxious to do one thing that he
 
-was cautious about doing it. He was more concerned to obtain a success
+was cautious about doing it. He was more concerned to obtain a [[success]]
 
 than to appear to deserve it; he did not want a moral victory, but a
 
@@ -654,15 +654,15 @@ advance on the Mahdi's host a minute faster than men could follow him
 
 building a railway. He created behind him a colossal causeway of
 
-communications, going out alone into wastes where there was and had
+communications, going out [[Alone|alone]] into wastes where there was and had
 
 been no other mortal trace or track. The engineering genius of
 
 Girouard, a Canadian, designed and developed it with what was,
 
-considering the nature of the task, brilliant rapidity; but by the
+considering the [[Nature|nature]] of the task, brilliant rapidity; but by the
 
-standards of desert warfare it must have seemed that Kitchener and his
+standards of [[Desert|desert]] warfare it must have seemed that Kitchener and his
 
 English made war as slowly as grass grows or orchards bear fruit. The
 
@@ -672,33 +672,33 @@ if they were menaced by the advance of a giant snail. But it was a
 
 snail that left a shining track unknown to those sands; for the first
 
-time since Rome decayed something was being made there that could
+[[Time|time]] since Rome decayed something was being made there that could
 
-remain. The effect of this growing road, one might almost say this
+remain. The effect of this growing [[Road|road]], one might almost say this
 
-living road, began to be felt. Mahmoud, the Mahdist military leader,
+living [[Road|road]], began to be felt. Mahmoud, the Mahdist military leader,
 
 fell back from Berber, and gathered his hosts more closely round the
 
-sacred city on the Nile. Kitchener, making another night march up the
+sacred [[City|city]] on the Nile. Kitchener, making another [[Night|night]] march up the
 
-Atbara river, stormed the Arab camp and took Mahmoud prisoner. Then at
+Atbara [[River|river]], stormed the Arab camp and took Mahmoud prisoner. Then at
 
 last he moved finally up the western bank of the Nile and came in
 
 sight of Omdurman. It is somewhat of a disproportion to dwell on the
 
-fight that followed and the fall of the great city. The fighting had
+fight that followed and the fall of the great [[City|city]]. The fighting had
 
 been done already, and more than half of it was working; fighting a
 
 long fight against the centuries, against ages of sloth and the great
 
-sleep of the desert, where there had been nothing but visions, and
+[[Sleep|sleep]] of the [[Desert|desert]], where there had been nothing but visions, and
 
 against a racial decline that men had accepted as a doom. On the
 
-following Sunday a memorial service for Charles Gordon was held in the
+following [[Sunday]] a memorial service for Charles Gordon was held in the
 
 place where he was slain.
 
@@ -706,7 +706,7 @@ place where he was slain.
 
 The fact that Kitchener fought with rails as much as with guns rather
 
-fixed from this time forward the fashionable view of his character. He
+fixed from this [[Time|time]] forward the fashionable view of his character. He
 
 was talked of as if he were himself made of metal, with a head filled
 
@@ -716,11 +716,11 @@ true, in so far as it means that he was by temper what he was by
 
 trade, an engineer. He had conquered the Mahdi, where many had failed
 
-to do so. But what he had chiefly conquered was the desert--a great
+to do so. But what he had chiefly conquered was the [[Desert|desert]]--a great
 
 and greedy giant. He brought Cairo to Khartoum; we might say that he
 
-brought London or Liverpool with him to the gates of the strange city
+brought [[London]] or Liverpool with him to the gates of the strange [[City|city]]
 
 of Omdurman. Some parts of his action supported, even regrettably, the
 
@@ -730,9 +730,9 @@ triumph, been staring at him as at a stone sphinx of inflexible fate,
 
 that admirer would have been very much puzzled by the next passage of
 
-his life. Kitchener was something much more than a machine; for in the
+his life. Kitchener was something much more than a [[Machine|machine]]; for in the
 
-mind, as much as in the body, flexibility is far more masculine than
+mind, as much as in the [[Body|body]], flexibility is far more masculine than
 
 inflexibility.
 
@@ -740,13 +740,13 @@ inflexibility.
 
 A situation developed almost instantly after his victory in which he
 
-was to show that he was a diplomatist as well as a soldier. At
+was to show that he was a diplomatist as [[Well|well]] as a soldier. At
 
 Fashoda, a little farther up the Nile, he found something more
 
 surprising, and perhaps more romantic, than the wildest dervish of the
 
-desert solitudes. A French officer, and one of the most valiant and
+[[Desert|desert]] solitudes. A French officer, and one of the most valiant and
 
 distinguished of French officers, Major Marchand, had penetrated to
 
@@ -762,11 +762,11 @@ vegetables grown on the spot, a symbol of stable occupation. The
 
 story, if it be true, is admirably French; for it reveals at once the
 
-wit and the peasant. But the humour of the Englishman was worthily
+wit and the peasant. But the [[Humour|humour]] of the Englishman was worthily
 
-equal to the wit of the Frenchman; and it was humour of that sane sort
+equal to the wit of the Frenchman; and it was [[Humour|humour]] of that sane sort
 
-which we call good humour. Political papers in pacific England and
+which we call good [[Humour|humour]]. Political papers in pacific England and
 
 France raved and ranted over the crisis, responsible journals howled
 
@@ -778,7 +778,7 @@ the two grim tropical travellers and soldiers who faced each other on
 
 the burning sands of Fashoda. As we see them facing each other, we
 
-have again the vague sense of a sign or a parable which runs through
+have again the vague sense of a sign or a [[Parable|parable]] which runs through
 
 this story. For they were to meet again long afterwards as allies,
 
@@ -788,11 +788,11 @@ Great War.
 
 
 
-Something of the same shadow of prophecy is perhaps the deepest memory
+Something of the same [[Shadow|shadow]] of prophecy is perhaps the deepest [[Memory|memory]]
 
 left by the last war of Kitchener before the greatest. After further
 
-activities in Egypt and the Soudan, of which the attempt to educate
+activities in [[Egypt]] and the Soudan, of which the attempt to educate
 
 the Fellaheen by the Gordon Memorial College was the most remarkable,
 
@@ -824,11 +824,11 @@ war that so nearly began at Fashoda. It seemed almost as if God were
 
 pitting his heroes against each other in tournament, before they all
 
-rode together against the heathen pouring upon them out of Germany.
+rode together against the heathen pouring upon them out of [[Germany]].
 
 
 
-It is with that name of Germany that this mere skeleton of the facts
+It is with that name of [[Germany]] that this mere [[skeleton]] of the facts
 
 must end. After the South African War Kitchener had been made
 
@@ -842,17 +842,17 @@ in his dealings with the Sepoys, that obscure yet powerful sympathy
 
 with the mysterious intellect of the East. Thence he had been again
 
-shifted to Egypt; but the next summons that came to him swallowed up
+shifted to [[Egypt]]; but the next summons that came to him swallowed up
 
-all these things. A short time after war broke out with Germany he was
+all these things. A short [[Time|time]] after war broke out with [[Germany]] he was
 
 made Minister of War, and held that post until the dark season when he
 
-set out on a mission to Russia, which never reached its goal. But when
+set out on a mission to [[Russia]], which never reached its goal. But when
 
-his ship went down he had already done a work and registered a change
+his [[Ship|ship]] went down he had already done a work and registered a change
 
-in England, with some words about which this sketch may well conclude.
+in England, with some words about which this [[Sketch|sketch]] may [[Well|well]] conclude.
 
 Journalistic attacks were indeed made upon him, but in writing for a
 
@@ -864,7 +864,7 @@ the greatest. In his new work he was not only a very great man, but
 
 one dealing with very great things; and perhaps his most historic
 
-moment was when he broke his customary silence about the deeper
+moment was when he broke his customary [[Silence|silence]] about the deeper
 
 emotions of life, and became the mouthpiece of the national horror at
 
@@ -878,11 +878,11 @@ stretch of years the comparative chivalry and nobility of his dead
 
 enemies of the Soudan, and to announce that in the heart of Europe, in
 
-learned academies and ordered government offices, there had appeared a
+learned academies and ordered [[government]] offices, there had appeared a
 
 lunacy so cruel and unclean that the maddest dervish dead in the
 
-desert had a right to disdain it where he lay.
+[[Desert|desert]] had a right to disdain it where he lay.
 
 
 
@@ -892,17 +892,17 @@ England and even outside Europe. But it was in England, and after his
 
 return to England, that he did what will perhaps make his name most
 
-permanent in history. That return to England was indeed as symbolic as
+permanent in [[history]]. That return to England was indeed as symbolic as
 
-his last and tragic journey to Russia. Both will stand as symbols of
+his last and tragic [[Journey|journey]] to [[Russia]]. Both will stand as symbols of
 
-the deepest things which are moving mankind in the Great War. In truth
+the deepest things which are moving mankind in the Great War. In [[Truth|truth]]
 
 the whole of that great European movement which we call the cause of
 
-the Allies is in itself a homeward journey. It is a return to native
+the Allies is in itself a homeward [[Journey|journey]]. It is a return to native
 
-and historic ideals, after an exile in the howling wilderness of the
+and historic ideals, after an [[Exile|exile]] in the howling wilderness of the
 
 political pessimism and cynicism of Prussia. After his great
 
@@ -928,7 +928,7 @@ of English clubs and hotels into the solitudes of the Nile or up the
 
 passes of the Himalayas, and is infinitely ignorant of things
 
-infinitely nearer home. For this type of Englishman Cairo was nearer
+infinitely nearer [[Home|home]]. For this type of Englishman Cairo was nearer
 
 than Calais. Yet the typical figure which we associated with such
 
@@ -958,21 +958,21 @@ race. The English professional soldier of our youth had been
 
 conspicuous not only by his red coat but by his rarity. When rare
 
-things become common they do not become commonplace. The memory of
+things become common they do not become commonplace. The [[Memory|memory]] of
 
 their singularity is still strong enough to give them rather the
 
 appearance of a prodigy, as anyone can realise by imagining an army of
 
-hunchbacks or a city of one-eyed men. The English soldier had indeed
+hunchbacks or a [[City|city]] of one-eyed men. The English soldier had indeed
 
 been respected as a patriotic symbol, but rather as a priest or a
 
 prince can be a symbol, as being the exception and not the rule. A
 
-child was taken to see the soldier outside Buckingham Palace almost as
+[[Child|child]] was taken to see the soldier outside [[Buckingham]] Palace almost as
 
-he was taken to see the King driving out of Buckingham Palace. Hence
+he was taken to see the [[King]] driving out of [[Buckingham]] Palace. Hence
 
 the first effect of the enlargement of the armies was something almost
 
@@ -990,7 +990,7 @@ set himself to their organisation, consisted entirely of volunteers.
 
 It was not till long after the whole face of England had been
 
-transformed by this mobilisation that the Government resorted to
+transformed by this mobilisation that the [[government|Government]] resorted to
 
 compulsion to bring in a mere margin of men. Save for the personality
 
@@ -1000,9 +1000,9 @@ from the English. While it was as universal as a tax, it was as
 
 spontaneous as a riot. But it is obvious that to produce so large and
 
-novel an effect out of the mere psychology of a nation, apart from its
+[[Novel|novel]] an effect out of the mere psychology of a nation, apart from its
 
-organisation, was something which required tact as well as decision:
+organisation, was something which required tact as [[Well|well]] as decision:
 
 and it is this which illustrated a side of the English general's
 
@@ -1012,7 +1012,7 @@ misunderstood.
 
 
 
-It is of the nature of national heroes of Kitchener's type that their
+It is of the [[Nature|nature]] of national heroes of Kitchener's type that their
 
 admirers are unjust to them. They would have been better appreciated
 
@@ -1044,21 +1044,21 @@ is the boast of the Christian and the civilised man--that he is free
 
 and flexible, yet always returns to his true position, like a tempered
 
-sword. Now too much of the eulogy on a man like Kitchener tended to
+[[Sword|sword]]. Now too much of the eulogy on a man like Kitchener tended to
 
-praise him not as a sword but as a poker. He happened to rise into his
+praise him not as a [[Sword|sword]] but as a poker. He happened to rise into his
 
-first fame at a time when much of the English Press and governing
+first fame at a [[Time|time]] when much of the English Press and governing
 
-class was still entirely duped by Germany, and to some extent judged
+class was still entirely duped by [[Germany]], and to some extent judged
 
-everything by a Bismarckian test of blood and iron. It tended to
+everything by a Bismarckian test of [[Blood|blood]] and iron. It tended to
 
 neglect the very real disadvantages, even in practical life, which lie
 
-upon the man of blood and iron, as compared with the man of blood and
+upon the man of [[Blood|blood]] and iron, as compared with the man of [[Blood|blood]] and
 
-bone. It is one grave disadvantage, for instance, that if a man made
+bone. It is one [[Grave|grave]] disadvantage, for instance, that if a man made
 
 of iron were to break his bones, they would not heal. In other words,
 
@@ -1088,9 +1088,9 @@ what a hand of iron would not know; and that is exactly the error in
 
 the German ideal of a hand of iron. No candid critic of England can
 
-read its history fairly and fail to see a certain flexibility and
+read its [[history]] fairly and fail to see a certain flexibility and
 
-self-modification; illiberal policies followed by liberal ones; men
+[[Self|self]]-modification; illiberal policies followed by liberal ones; men
 
 failing in something and succeeding in something else; men sent to do
 
@@ -1116,7 +1116,7 @@ conventions were those of the ordinary English officer, especially the
 
 officer who has lived among Orientals--conventions which in any case
 
-tend in the direction of silence. He also really had, and to an extent
+tend in the direction of [[Silence|silence]]. He also really had, and to an extent
 
 of which some people complained, a certain English embarrassment about
 
@@ -1124,7 +1124,7 @@ making all his purposes clear, especially before they were clear to
 
 himself. He probably liked to think a thing out in his own way and
 
-therefore at his own time, which was not always the time at which
+therefore at his own [[Time|time]], which was not always the [[Time|time]] at which
 
 people thought they had a right to question him. In this way it is
 
@@ -1138,11 +1138,11 @@ to suppose that he took the Prussian pose of disdaining and
 
 disregarding everybody; that he settled everything in solitary egoism;
 
-that he was a Superman too self-sufficing to listen to friends and too
+that he was a Superman too [[Self|self]]-sufficing to listen to friends and too
 
 philosophical to listen to reason. It will be noted that every crisis
 
-of his life that is lit up by history contradicts the colours of this
+of his life that is lit up by [[history]] contradicts the colours of this
 
 picture. He could not only take counsel with his friends, but he was
 
@@ -1170,7 +1170,7 @@ of those who met him in such hours are quite sufficient to prove that
 
 he did not leave the impression of a Prussian arrogance. If he was
 
-silent, his silence must have been more friendly, I had almost said
+silent, his [[Silence|silence]] must have been more friendly, I had almost said
 
 more convivial, than many men's conversation. But on the larger
 
@@ -1178,13 +1178,13 @@ platform of the European War, this quiet but unique gift of
 
 open-mindedness and intellectual hospitality was destined to do two
 
-very decisive things, which may profoundly affect history. In the
+very decisive things, which may profoundly affect [[history]]. In the
 
 first he dealt with the more democratic and even revolutionary
 
 elements in England; and in the second he represents a very real
 
-change that has passed over the English traditions about Russia.
+change that has passed over the English traditions about [[Russia]].
 
 
 
@@ -1192,7 +1192,7 @@ Personally, as has already been noted, Lord Kitchener never was and
 
 never pretended to be anything more or less than the good military
 
-man, and by the time of the Great War he was already an elderly
+man, and by the [[Time|time]] of the Great War he was already an elderly
 
 military man. The type has much the same standards and traditions in
 
@@ -1264,7 +1264,7 @@ must be added the fact that the Unions, already national institutions,
 
 had just lately been in a ferment with new and violent doctrines:
 
-Syndicalists had invoked them as the future seats of government;
+Syndicalists had invoked them as the future seats of [[government]];
 
 historical speculators had seen in them the return to the great
 
@@ -1288,13 +1288,13 @@ rightly or wrongly, with implacable suspicion. The elderly and
 
 old-fashioned Anglo-Egyptian militarist, with his doctrine and
 
-discipline of the barrack-room and the drumhead court-martial, was
+discipline of the barrack-room and the drumhead [[Court|court]]-martial, was
 
 never regarded by the workers with a shade of suspicion. They simply
 
 took him at his word, and the leader of the most turbulent Trades
 
-Union element paid to him after his death the simplest tribute in the
+[[Union]] element paid to him after his [[Death|death]] the simplest tribute in the
 
 plainest and most popular language--"He was a straight man." I am so
 
@@ -1324,7 +1324,7 @@ Understanding his countrymen by instinct, he did not make a parade of
 
 efficiency; for the English dislike the symbols of dictatorship much
 
-more than dictatorship. They hate the crown and sceptre of the tyrant
+more than dictatorship. They hate the [[Crown|crown]] and sceptre of the [[Tyrant|tyrant]]
 
 much more than his tyranny. They have a national tradition which
 
@@ -1356,9 +1356,9 @@ closeness of grain and ruggedness of outline--when he was uprooted
 
 from the Arabian sands and replanted in the remote western island. Yet
 
-the oak not only grew green again and put forth new leaves; it was
+the oak not only grew green again and put forth new [[Leaves|leaves]]; it was
 
-almost as if, as in a legend, it could put forth a new kind of leaves.
+almost as if, as in a legend, it could put forth a new kind of [[Leaves|leaves]].
 
 Kitchener, with all his taciturnity, really began to put forth a new
 
@@ -1366,19 +1366,19 @@ order of ideas. If a change of opinions is unusual in an elderly man,
 
 it is almost unknown in an elderly military man. If the hardening of
 
-time was felt even by the poetic and emotional Grattan, it would not
+[[Time|time]] was felt even by the poetic and emotional Grattan, it would not
 
 have been strange if the hardening had been quite hopeless in the
 
 rigid and reticent Kitchener. Yet it was not hopeless; and the fact
 
-became the spring of much of the national hope. The grizzled martinet
+became the [[Spring|spring]] of much of the national [[Hope|hope]]. The grizzled martinet
 
-from India and Egypt showed a certain power which is in nearly all
+from India and [[Egypt]] showed a certain power which is in nearly all
 
 great men, but of which St. Paul has become the traditional type--the
 
-power of being a great convert as well as a great crusader. It is the
+power of being a great [[convert]] as [[Well|well]] as a great crusader. It is the
 
 real power of re-forming an opinion, which is the very opposite of
 
@@ -1396,23 +1396,23 @@ almost be called the discovery of Christendom. It can be called with
 
 greater precision, and indeed with almost complete precision, the
 
-discovery of Russia.
+discovery of [[Russia]].
 
 
 
 Military bureaucratic systems everywhere have too much tendency to
 
-work upon one idea, and there was a time when the military and
+work upon one idea, and there was a [[Time|time]] when the military and
 
 bureaucratic system of the British in the East worked on the idea of
 
-the fear of Russia. It is needless here to explain that sentiment, and
+the [[Fear|fear]] of [[Russia]]. It is needless here to explain that sentiment, and
 
 useless to explain it away. It was partly a mere tradition from the
 
 natural jingoism of the Crimean War; it was partly in itself a tribute
 
-to the epic majesty of the Russian march across mysterious Asia to the
+to the [[Epic|epic]] majesty of the Russian march across mysterious Asia to the
 
 legendary Chinese Wall. The point here is that it existed; and where
 
@@ -1434,7 +1434,7 @@ supreme importance of munitioning the magnificent Russian defence. He
 
 mystified all the English pessimists, in what seemed to them the
 
-blackest hour of pessimism, by announcing that Germany had "shot her
+blackest hour of pessimism, by announcing that [[Germany]] had "shot her
 
 bolt"; that she had already lost her chance, not by any of the Allied
 
@@ -1444,7 +1444,7 @@ retreat, which was more triumphant than any attack. It is this
 
 discovery that marks an epoch; for that great deliverance was not only
 
-the victory of Russia, but very specially the victory of the Russians.
+the victory of [[Russia]], but very specially the victory of the Russians.
 
 Never before was there such a war of men against guns--as awful and
 
@@ -1454,11 +1454,11 @@ a man with a modern gun is more like that between a man and an
 
 enormous dragon; nor is there anything on the weaker side save the
 
-ultimate and almost metaphysical truth, that a man can make a gun and
+ultimate and almost metaphysical [[Truth|truth]], that a man can make a gun and
 
 a gun cannot make a man. It is the man--the Russian soldier and
 
-peasant himself--who has emerged like the hero of an epic, and who is
+peasant himself--who has emerged like the [[Hero|hero]] of an [[Epic|epic]], and who is
 
 now secure for ever from the sophisticated scandal-mongering and the
 
@@ -1466,15 +1466,15 @@ cultured ignorance of the West.
 
 
 
-And it is this that lends an epic and almost primeval symbolism to the
+And it is this that lends an [[Epic|epic]] and almost primeval symbolism to the
 
-tragedy of Kitchener's end. Somehow the very fact that it was
+[[Tragedy|tragedy]] of Kitchener's end. Somehow the very fact that it was
 
-incomplete as an action makes it more complete as an allegory. English
+incomplete as an action makes it more complete as an [[Allegory|allegory]]. English
 
 in his very limitations, English in his late emancipation from them,
 
-he was setting forth on an eastward journey different indeed from the
+he was setting forth on an eastward [[Journey|journey]] different indeed from the
 
 many eastward journeys of his life. There are many such noble
 
@@ -1482,11 +1482,11 @@ tragedies of travel in the records of his country; it was so, silently
 
 without a trace, that the track of Franklin faded in the polar snows
 
-or the track of Gordon in the desert sands. But this was an adventure
+or the track of Gordon in the [[Desert|desert]] sands. But this was an adventure
 
 new for such adventurous men--the finding not of strange foes but of
 
-friends yet stranger. Many men of his blood and type--simple,
+friends yet stranger. Many men of his [[Blood|blood]] and type--simple,
 
 strenuous, somewhat prosaic--had threaded their way through some dark
 
@@ -1498,7 +1498,7 @@ continent--but which contains a much more noble treasure. The glory of
 
 a great people, long hidden from the English by accidents and by lies,
 
-lay before him at his journey's end. That journey was never ended. It
+lay before him at his [[Journey|journey]]'s end. That [[Journey|journey]] was never ended. It
 
 remains like a mighty bridge, the mightier for being broken, pointing
 
@@ -1506,7 +1506,7 @@ across a chasm, and promising a mightier thoroughfare between the east
 
 and west. In that waste of seas beyond the last northern islets where
 
-his ship went down one might fancy his spirit standing, a figure
+his [[Ship|ship]] went down one might fancy his spirit standing, a figure
 
 frustrated yet prophetic and pointing to the East, whence are the
 
@@ -1516,9 +1516,9 @@ light of the world and the reunion of Christian men.
 
 
 
-_Printed in Great Britain by_ THE FIELD & QUEEN (HORACE COX) LTD.,
+_Printed in Great Britain by_ THE FIELD & [[Queen|QUEEN]] (HORACE COX) LTD.,
 
-                 _Bream's Buildings, London, E.C. 4_.
+                 _Bream's Buildings, [[London]], E.C. 4_.
 
 
 

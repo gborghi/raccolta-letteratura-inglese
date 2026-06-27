@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 59: RETURN"
+title: "[[David Copperfield]] — Chapter 59: RETURN"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -17,21 +17,21 @@ tags:
 CHAPTER 59. RETURN
 
 
-I landed in London on a wintry autumn evening. It was dark and raining,
+I landed in [[London]] on a wintry [[Autumn|autumn]] evening. It was dark and raining,
 and I saw more fog and mud in a minute than I had seen in a year. I
-walked from the Custom House to the Monument before I found a coach;
-and although the very house-fronts, looking on the swollen gutters, were
+walked from the Custom [[house|House]] to the Monument before I found a coach;
+and although the very [[house]]-fronts, looking on the swollen gutters, were
 like old friends to me, I could not but admit that they were very dingy
 friends.
 
 I have often remarked--I suppose everybody has--that one’s going away
 from a familiar place, would seem to be the signal for change in it.
-As I looked out of the coach window, and observed that an old house on
-Fish-street Hill, which had stood untouched by painter, carpenter, or
+As I looked out of the coach [[Window|window]], and observed that an old [[house]] on
+Fish-street [[Hill]], which had stood untouched by painter, carpenter, or
 bricklayer, for a century, had been pulled down in my absence; and that
-a neighbouring street, of time-honoured insalubrity and inconvenience,
+a neighbouring street, of [[Time|time]]-honoured insalubrity and inconvenience,
 was being drained and widened; I half expected to find St. Paul’s
-Cathedral looking older.
+[[Cathedral]] looking older.
 
 For some changes in the fortunes of my friends, I was prepared. My aunt
 had long been re-established at Dover, and Traddles had begun to get
@@ -40,41 +40,41 @@ departure. He had chambers in Gray’s Inn, now; and had told me, in his
 last letters, that he was not without hopes of being soon united to the
 dearest girl in the world.
 
-They expected me home before Christmas; but had no idea of my returning
+They expected me [[Home|home]] before Christmas; but had no idea of my returning
 so soon. I had purposely misled them, that I might have the pleasure of
 taking them by surprise. And yet, I was perverse enough to feel a chill
-and disappointment in receiving no welcome, and rattling, alone and
+and disappointment in receiving no welcome, and rattling, [[Alone|alone]] and
 silent, through the misty streets.
 
-The well-known shops, however, with their cheerful lights, did something
-for me; and when I alighted at the door of the Gray’s Inn Coffee-house,
+The [[Well|well]]-known shops, however, with their cheerful lights, did something
+for me; and when I alighted at the door of the Gray’s Inn Coffee-[[house]],
 I had recovered my spirits. It recalled, at first, that so-different
-time when I had put up at the Golden Cross, and reminded me of the
+[[Time|time]] when I had put up at the Golden [[Cross]], and reminded me of the
 changes that had come to pass since then; but that was natural.
 
 ‘Do you know where Mr. Traddles lives in the Inn?’ I asked the waiter,
-as I warmed myself by the coffee-room fire.
+as I warmed myself by the coffee-room [[Fire|fire]].
 
-‘Holborn Court, sir. Number two.’
+‘Holborn [[Court]], sir. Number two.’
 
 ‘Mr. Traddles has a rising reputation among the lawyers, I believe?’
 said I.
 
-‘Well, sir,’ returned the waiter, ‘probably he has, sir; but I am not
+‘[[Well]], sir,’ returned the waiter, ‘probably he has, sir; but I am not
 aware of it myself.’
 
 This waiter, who was middle-aged and spare, looked for help to a waiter
-of more authority--a stout, potential old man, with a double chin,
+of more authority--a stout, potential old man, with a [[Double|double]] chin,
 in black breeches and stockings, who came out of a place like a
 churchwarden’s pew, at the end of the coffee-room, where he kept company
 with a cash-box, a Directory, a Law-list, and other books and papers.
 
-‘Mr. Traddles,’ said the spare waiter. ‘Number two in the Court.’
+‘Mr. Traddles,’ said the spare waiter. ‘Number two in the [[Court]].’
 
 The potential waiter waved him away, and turned, gravely, to me.
 
 ‘I was inquiring,’ said I, ‘whether Mr. Traddles, at number two in the
-Court, has not a rising reputation among the lawyers?’
+[[Court]], has not a rising reputation among the lawyers?’
 
 ‘Never heard his name,’ said the waiter, in a rich husky voice.
 
@@ -90,15 +90,15 @@ years, could not pursue such an insignificant subject. He asked me what
 I would have for dinner?
 
 I felt I was in England again, and really was quite cast down on
-Traddles’s account. There seemed to be no hope for him. I meekly ordered
-a bit of fish and a steak, and stood before the fire musing on his
+Traddles’s account. There seemed to be no [[Hope|hope]] for him. I meekly ordered
+a bit of fish and a steak, and stood before the [[Fire|fire]] musing on his
 obscurity.
 
 As I followed the chief waiter with my eyes, I could not help thinking
-that the garden in which he had gradually blown to be the flower he
+that the [[Garden|garden]] in which he had gradually blown to be the flower he
 was, was an arduous place to rise in. It had such a prescriptive,
 stiff-necked, long-established, solemn, elderly air. I glanced about the
-room, which had had its sanded floor sanded, no doubt, in exactly the
+room, which had had its sanded floor sanded, no [[Doubt|doubt]], in exactly the
 same manner when the chief waiter was a boy--if he ever was a boy,
 which appeared improbable; and at the shining tables, where I saw
 myself reflected, in unruffled depths of old mahogany; and at the lamps,
@@ -107,14 +107,14 @@ green curtains, with their pure brass rods, snugly enclosing the boxes;
 and at the two large coal fires, brightly burning; and at the rows of
 decanters, burly as if with the consciousness of pipes of expensive old
 port wine below; and both England, and the law, appeared to me to be
-very difficult indeed to be taken by storm. I went up to my bedroom
+very difficult indeed to be taken by [[Storm|storm]]. I went up to my bedroom
 to change my wet clothes; and the vast extent of that old wainscoted
 apartment (which was over the archway leading to the Inn, I remember),
 and the sedate immensity of the four-post bedstead, and the indomitable
 gravity of the chests of drawers, all seemed to unite in sternly
 frowning on the fortunes of Traddles, or on any such daring youth. I
 came down again to my dinner; and even the slow comfort of the meal,
-and the orderly silence of the place--which was bare of guests, the Long
+and the orderly [[Silence|silence]] of the place--which was bare of guests, the Long
 Vacation not yet being over--were eloquent on the audacity of Traddles,
 and his small hopes of a livelihood for twenty years to come.
 
@@ -128,13 +128,13 @@ Square, and worth a mint of money, which it was expected he would leave
 to his laundress’s daughter; likewise that it was rumoured that he had
 a service of plate in a bureau, all tarnished with lying by, though more
 than one spoon and a fork had never yet been beheld in his chambers
-by mortal vision. By this time, I quite gave Traddles up for lost; and
-settled in my own mind that there was no hope for him.
+by mortal vision. By this [[Time|time]], I quite gave Traddles up for lost; and
+settled in my own mind that there was no [[Hope|hope]] for him.
 
 Being very anxious to see the dear old fellow, nevertheless, I
 dispatched my dinner, in a manner not at all calculated to raise me in
 the opinion of the chief waiter, and hurried out by the back way. Number
-two in the Court was soon reached; and an inscription on the door-post
+two in the [[Court]] was soon reached; and an [[Inscription|inscription]] on the door-post
 informing me that Mr. Traddles occupied a set of chambers on the top
 storey, I ascended the staircase. A crazy old staircase I found it to
 be, feebly lighted on each landing by a club-headed little oil wick,
@@ -148,7 +148,7 @@ where the Honourable Society of Gray’s Inn had left a plank deficient,
 I fell down with some noise, and when I recovered my footing all was
 silent.
 
-Groping my way more carefully, for the rest of the journey, my heart
+Groping my way more carefully, for the rest of the [[Journey|journey]], my heart
 beat high when I found the outer door, which had Mr. TRADDLES painted on
 it, open. I knocked. A considerable scuffling within ensued, but nothing
 else. I therefore knocked again.
@@ -172,16 +172,16 @@ seated at a table, and bending over papers.
 ‘Good God!’ cried Traddles, looking up. ‘It’s Copperfield!’ and rushed
 into my arms, where I held him tight.
 
-‘All well, my dear Traddles?’
+‘All [[Well|well]], my dear Traddles?’
 
-‘All well, my dear, dear Copperfield, and nothing but good news!’
+‘All [[Well|well]], my dear, dear Copperfield, and nothing but good news!’
 
 We cried with pleasure, both of us.
 
 ‘My dear fellow,’ said Traddles, rumpling his hair in his excitement,
 which was a most unnecessary operation, ‘my dearest Copperfield, my
 long-lost and most welcome friend, how glad I am to see you! How
-brown you are! How glad I am! Upon my life and honour, I never was so
+brown you are! How glad I am! Upon my life and [[Honour|honour]], I never was so
 rejoiced, my beloved Copperfield, never!’
 
 I was equally at a loss to express my emotions. I was quite unable to
@@ -192,15 +192,15 @@ Copperfield! Good gracious me, WHEN did you come, WHERE have you come
 from, WHAT have you been doing?’
 
 Never pausing for an answer to anything he said, Traddles, who had
-clapped me into an easy-chair by the fire, all this time impetuously
-stirred the fire with one hand, and pulled at my neck-kerchief with
+clapped me into an easy-chair by the [[Fire|fire]], all this [[Time|time]] impetuously
+stirred the [[Fire|fire]] with one hand, and pulled at my neck-kerchief with
 the other, under some wild delusion that it was a great-coat. Without
 putting down the poker, he now hugged me again; and I hugged him; and,
 both laughing, and both wiping our eyes, we both sat down, and shook
 hands across the hearth.
 
 ‘To think,’ said Traddles, ‘that you should have been so nearly coming
-home as you must have been, my dear old boy, and not at the ceremony!’
+[[Home|home]] as you must have been, my dear old boy, and not at the ceremony!’
 
 ‘What ceremony, my dear Traddles?’
 
@@ -215,7 +215,7 @@ with both hands, and then putting his hands on my knees, ‘I am married!’
 ‘Married!’ I cried joyfully.
 
 ‘Lord bless me, yes!’ said Traddles--‘by the Reverend Horace--to
-Sophy--down in Devonshire. Why, my dear boy, she’s behind the window
+Sophy--down in Devonshire. Why, my dear boy, she’s behind the [[Window|window]]
 curtain! Look here!’
 
 To my amazement, the dearest girl in the world came at that same
@@ -225,8 +225,8 @@ more cheerful, amiable, honest, happy, bright-looking bride, I believe
 her as an old acquaintance should, and wished them joy with all my might
 of heart.
 
-‘Dear me,’ said Traddles, ‘what a delightful re-union this is! You are
-so extremely brown, my dear Copperfield! God bless my soul, how happy I
+‘Dear me,’ said Traddles, ‘what a delightful re-[[Union|union]] this is! You are
+so extremely brown, my dear Copperfield! God bless my [[Soul|soul]], how happy I
 am!’
 
 ‘And so am I,’ said I.
@@ -239,16 +239,16 @@ happy. Dear me, I declare I forgot them!’
 ‘Forgot?’ said I.
 
 ‘The girls,’ said Traddles. ‘Sophy’s sisters. They are staying with us.
-They have come to have a peep at London. The fact is, when--was it you
+They have come to have a peep at [[London]]. The fact is, when--was it you
 that tumbled upstairs, Copperfield?’
 
 ‘It was,’ said I, laughing.
 
-‘Well then, when you tumbled upstairs,’ said Traddles, ‘I was romping
+‘[[Well]] then, when you tumbled upstairs,’ said Traddles, ‘I was romping
 with the girls. In point of fact, we were playing at Puss in the Corner.
 But as that wouldn’t do in Westminster Hall, and as it wouldn’t look
 quite professional if they were seen by a client, they decamped. And
-they are now--listening, I have no doubt,’ said Traddles, glancing at
+they are now--listening, I have no [[Doubt|doubt]],’ said Traddles, glancing at
 the door of another room.
 
 ‘I am sorry,’ said I, laughing afresh, ‘to have occasioned such a
@@ -257,7 +257,7 @@ dispersion.’
 ‘Upon my word,’ rejoined Traddles, greatly delighted, ‘if you had seen
 them running away, and running back again, after you had knocked, to
 pick up the combs they had dropped out of their hair, and going on in
-the maddest manner, you wouldn’t have said so. My love, will you fetch
+the maddest manner, you wouldn’t have said so. My [[Love|love]], will you fetch
 the girls?’
 
 Sophy tripped away, and we heard her received in the adjoining room with
@@ -265,7 +265,7 @@ a peal of laughter.
 
 ‘Really musical, isn’t it, my dear Copperfield?’ said Traddles. ‘It’s
 very agreeable to hear. It quite lights up these old rooms. To an
-unfortunate bachelor of a fellow who has lived alone all his life, you
+unfortunate bachelor of a fellow who has lived [[Alone|alone]] all his life, you
 know, it’s positively delicious. It’s charming. Poor things, they have
 had a great loss in Sophy--who, I do assure you, Copperfield is, and
 ever was, the dearest girl!--and it gratifies me beyond expression
@@ -274,12 +274,12 @@ delightful thing, Copperfield. It’s not professional, but it’s very
 delightful.’
 
 Observing that he slightly faltered, and comprehending that in the
-goodness of his heart he was fearful of giving me some pain by what he
+goodness of his heart he was fearful of giving me some [[Pain|pain]] by what he
 had said, I expressed my concurrence with a heartiness that evidently
 relieved and pleased him greatly.
 
 ‘But then,’ said Traddles, ‘our domestic arrangements are, to say
-the truth, quite unprofessional altogether, my dear Copperfield. Even
+the [[Truth|truth]], quite unprofessional altogether, my dear Copperfield. Even
 Sophy’s being here, is unprofessional. And we have no other place of
 abode. We have put to sea in a cockboat, but we are quite prepared to
 rough it. And Sophy’s an extraordinary manager! You’ll be surprised how
@@ -287,7 +287,7 @@ those girls are stowed away. I am sure I hardly know how it’s done!’
 
 ‘Are many of the young ladies with you?’ I inquired.
 
-‘The eldest, the Beauty is here,’ said Traddles, in a low confidential
+‘The eldest, the [[Beauty]] is here,’ said Traddles, in a low confidential
 voice, ‘Caroline. And Sarah’s here--the one I mentioned to you as having
 something the matter with her spine, you know. Immensely better! And the
 two youngest that Sophy educated are with us. And Louisa’s here.’
@@ -296,13 +296,13 @@ two youngest that Sophy educated are with us. And Louisa’s here.’
 
 ‘Yes,’ said Traddles. ‘Now the whole set--I mean the chambers--is only
 three rooms; but Sophy arranges for the girls in the most wonderful way,
-and they sleep as comfortably as possible. Three in that room,’ said
+and they [[Sleep|sleep]] as comfortably as possible. Three in that room,’ said
 Traddles, pointing. ‘Two in that.’
 
 I could not help glancing round, in search of the accommodation
 remaining for Mr. and Mrs. Traddles. Traddles understood me.
 
-‘Well!’ said Traddles, ‘we are prepared to rough it, as I said just now,
+‘[[Well]]!’ said Traddles, ‘we are prepared to rough it, as I said just now,
 and we did improvise a bed last week, upon the floor here. But there’s
 a little room in the roof--a very nice room, when you’re up there--which
 Sophy papered herself, to surprise me; and that’s our room at present.
@@ -344,7 +344,7 @@ from the subject. Did I mention the Reverend Horace?’
 ‘True! Upon the fact that Sophy and I had been engaged for a long
 period, and that Sophy, with the permission of her parents, was more
 than content to take me--in short,’ said Traddles, with his old frank
-smile, ‘on our present Britannia-metal footing. Very well. I then
+smile, ‘on our present Britannia-metal footing. Very [[Well|well]]. I then
 proposed to the Reverend Horace--who is a most excellent clergyman,
 Copperfield, and ought to be a Bishop; or at least ought to have enough
 to live upon, without pinching himself--that if I could turn the corner,
@@ -353,7 +353,7 @@ way pretty clearly to that, or something better, next year; and could
 plainly furnish a little place like this, besides; then, and in that
 case, Sophy and I should be united. I took the liberty of representing
 that we had been patient for a good many years; and that the
-circumstance of Sophy’s being extraordinarily useful at home, ought not
+circumstance of Sophy’s being extraordinarily useful at [[Home|home]], ought not
 to operate with her affectionate parents, against her establishment in
 life--don’t you see?’
 
@@ -362,7 +362,7 @@ life--don’t you see?’
 ‘I am glad you think so, Copperfield,’ rejoined Traddles, ‘because,
 without any imputation on the Reverend Horace, I do think parents, and
 brothers, and so forth, are sometimes rather selfish in such cases.
-Well! I also pointed out, that my most earnest desire was, to be useful
+[[Well]]! I also pointed out, that my most earnest [[Desire|desire]] was, to be useful
 to the family; and that if I got on in the world, and anything should
 happen to him--I refer to the Reverend Horace--’
 
@@ -372,7 +372,7 @@ happen to him--I refer to the Reverend Horace--’
 wishes, to be a parent to the girls. He replied in a most admirable
 manner, exceedingly flattering to my feelings, and undertook to obtain
 the consent of Mrs. Crewler to this arrangement. They had a dreadful
-time of it with her. It mounted from her legs into her chest, and then
+[[Time|time]] of it with her. It mounted from her legs into her chest, and then
 into her head--’
 
 ‘What mounted?’ I asked.
@@ -384,10 +384,10 @@ her, usually settles in her legs; but on this occasion it mounted to the
 chest, and then to the head, and, in short, pervaded the whole system
 in a most alarming manner. However, they brought her through it by
 unremitting and affectionate attention; and we were married yesterday
-six weeks. You have no idea what a Monster I felt, Copperfield, when I
+six weeks. You have no idea what a [[Monster]] I felt, Copperfield, when I
 saw the whole family crying and fainting away in every direction! Mrs.
 Crewler couldn’t see me before we left--couldn’t forgive me, then, for
-depriving her of her child--but she is a good creature, and has done so
+depriving her of her [[Child|child]]--but she is a good creature, and has done so
 since. I had a delightful letter from her, only this morning.’
 
 ‘And in short, my dear friend,’ said I, ‘you feel as blest as you
@@ -397,7 +397,7 @@ deserve to feel!’
 most enviable state. I work hard, and read Law insatiably. I get up at
 five every morning, and don’t mind it at all. I hide the girls in the
 daytime, and make merry with them in the evening. And I assure you I am
-quite sorry that they are going home on Tuesday, which is the day before
+quite sorry that they are going [[Home|home]] on Tuesday, which is the day before
 the first day of Michaelmas Term. But here,’ said Traddles, breaking off
 in his confidence, and speaking aloud, ‘ARE the girls! Mr. Copperfield,
 Miss Crewler--Miss Sarah--Miss Louisa--Margaret and Lucy!’
@@ -405,37 +405,37 @@ Miss Crewler--Miss Sarah--Miss Louisa--Margaret and Lucy!’
 They were a perfect nest of roses; they looked so wholesome and fresh.
 They were all pretty, and Miss Caroline was very handsome; but there was
 a loving, cheerful, fireside quality in Sophy’s bright looks, which was
-better than that, and which assured me that my friend had chosen well.
-We all sat round the fire; while the sharp boy, who I now divined had
+better than that, and which assured me that my friend had chosen [[Well|well]].
+We all sat round the [[Fire|fire]]; while the sharp boy, who I now divined had
 lost his breath in putting the papers out, cleared them away again, and
-produced the tea-things. After that, he retired for the night, shutting
+produced the tea-things. After that, he retired for the [[Night|night]], shutting
 the outer door upon us with a bang. Mrs. Traddles, with perfect pleasure
 and composure beaming from her household eyes, having made the tea, then
-quietly made the toast as she sat in a corner by the fire.
+quietly made the toast as she sat in a corner by the [[Fire|fire]].
 
 She had seen Agnes, she told me while she was toasting. ‘Tom’ had taken
-her down into Kent for a wedding trip, and there she had seen my aunt,
-too; and both my aunt and Agnes were well, and they had all talked of
+her down into [[Kent]] for a wedding trip, and there she had seen my aunt,
+too; and both my aunt and Agnes were [[Well|well]], and they had all talked of
 nothing but me. ‘Tom’ had never had me out of his thoughts, she really
-believed, all the time I had been away. ‘Tom’ was the authority for
+believed, all the [[Time|time]] I had been away. ‘Tom’ was the authority for
 everything. ‘Tom’ was evidently the idol of her life; never to be shaken
 on his pedestal by any commotion; always to be believed in, and done
-homage to with the whole faith of her heart, come what might.
+homage to with the whole [[Faith|faith]] of her heart, come what might.
 
-The deference which both she and Traddles showed towards the Beauty,
+The deference which both she and Traddles showed towards the [[Beauty]],
 pleased me very much. I don’t know that I thought it very reasonable;
 but I thought it very delightful, and essentially a part of their
 character. If Traddles ever for an instant missed the tea-spoons that
-were still to be won, I have no doubt it was when he handed the Beauty
-her tea. If his sweet-tempered wife could have got up any self-assertion
+were still to be won, I have no [[Doubt|doubt]] it was when he handed the [[Beauty]]
+her tea. If his sweet-tempered wife could have got up any [[Self|self]]-assertion
 against anyone, I am satisfied it could only have been because she was
-the Beauty’s sister. A few slight indications of a rather petted and
-capricious manner, which I observed in the Beauty, were manifestly
+the [[Beauty]]’s sister. A few slight indications of a rather petted and
+capricious manner, which I observed in the [[Beauty]], were manifestly
 considered, by Traddles and his wife, as her birthright and natural
-endowment. If she had been born a Queen Bee, and they labouring Bees,
+endowment. If she had been born a [[Queen]] Bee, and they labouring [[Bees]],
 they could not have been more satisfied of that.
 
-But their self-forgetfulness charmed me. Their pride in these girls, and
+But their [[Self|self]]-forgetfulness charmed me. Their [[Pride|pride]] in these girls, and
 their submission of themselves to all their whims, was the pleasantest
 little testimony to their own worth I could have desired to see. If
 Traddles were addressed as ‘a darling’, once in the course of that
@@ -447,35 +447,35 @@ Sophy. Somebody’s hair fell down, and nobody but Sophy could put it up.
 Somebody forgot how a particular tune went, and nobody but Sophy could
 hum that tune right. Somebody wanted to recall the name of a place in
 Devonshire, and only Sophy knew it. Something was wanted to be written
-home, and Sophy alone could be trusted to write before breakfast in
+[[Home|home]], and Sophy [[Alone|alone]] could be trusted to write before breakfast in
 the morning. Somebody broke down in a piece of knitting, and no one but
 Sophy was able to put the defaulter in the right direction. They were
 entire mistresses of the place, and Sophy and Traddles waited on them.
-How many children Sophy could have taken care of in her time, I can’t
-imagine; but she seemed to be famous for knowing every sort of song that
-ever was addressed to a child in the English tongue; and she sang dozens
+How many children Sophy could have taken care of in her [[Time|time]], I can’t
+imagine; but she seemed to be famous for knowing every sort of [[Song|song]] that
+ever was addressed to a [[Child|child]] in the English tongue; and she sang dozens
 to order with the clearest little voice in the world, one after another
-(every sister issuing directions for a different tune, and the Beauty
+(every sister issuing directions for a different tune, and the [[Beauty]]
 generally striking in last), so that I was quite fascinated. The best
 of all was, that, in the midst of their exactions, all the sisters had
 a great tenderness and respect both for Sophy and Traddles. I am sure,
 when I took my leave, and Traddles was coming out to walk with me to the
-coffee-house, I thought I had never seen an obstinate head of hair, or
-any other head of hair, rolling about in such a shower of kisses.
+coffee-[[house]], I thought I had never seen an obstinate head of hair, or
+any other head of hair, [[rolling]] about in such a shower of kisses.
 
 Altogether, it was a scene I could not help dwelling on with pleasure,
-for a long time after I got back and had wished Traddles good night. If
+for a long [[Time|time]] after I got back and had wished Traddles good [[Night|night]]. If
 I had beheld a thousand roses blowing in a top set of chambers, in that
 withered Gray’s Inn, they could not have brightened it half so much.
 The idea of those Devonshire girls, among the dry law-stationers and the
-attorneys’ offices; and of the tea and toast, and children’s songs, in
+attorneys’ offices; and of the tea and toast, and children’s [[songs]], in
 that grim atmosphere of pounce and parchment, red-tape, dusty wafers,
 ink-jars, brief and draft paper, law reports, writs, declarations, and
 bills of costs; seemed almost as pleasantly fanciful as if I had
 dreamed that the Sultan’s famous family had been admitted on the roll of
 attorneys, and had brought the talking bird, the singing tree, and the
-golden water into Gray’s Inn Hall. Somehow, I found that I had taken
-leave of Traddles for the night, and come back to the coffee-house, with
+golden [[Water|water]] into Gray’s Inn Hall. Somehow, I found that I had taken
+leave of Traddles for the [[Night|night]], and come back to the coffee-[[house]], with
 a great change in my despondency about him. I began to think he would
 get on, in spite of all the many orders of chief waiters in England.
 
@@ -483,29 +483,29 @@ Drawing a chair before one of the coffee-room fires to think about him
 at my leisure, I gradually fell from the consideration of his happiness
 to tracing prospects in the live-coals, and to thinking, as they broke
 and changed, of the principal vicissitudes and separations that had
-marked my life. I had not seen a coal fire, since I had left England
-three years ago: though many a wood fire had I watched, as it crumbled
+marked my life. I had not seen a coal [[Fire|fire]], since I had left England
+three years ago: though many a wood [[Fire|fire]] had I watched, as it crumbled
 into hoary ashes, and mingled with the feathery heap upon the hearth,
 which not inaptly figured to me, in my despondency, my own dead hopes.
 
 I could think of the past now, gravely, but not bitterly; and could
-contemplate the future in a brave spirit. Home, in its best sense, was
-for me no more. She in whom I might have inspired a dearer love, I had
+contemplate the future in a brave spirit. [[Home]], in its best sense, was
+for me no more. She in whom I might have inspired a dearer [[Love|love]], I had
 taught to be my sister. She would marry, and would have new claimants on
-her tenderness; and in doing it, would never know the love for her that
+her tenderness; and in doing it, would never know the [[Love|love]] for her that
 had grown up in my heart. It was right that I should pay the forfeit of
 my headlong passion. What I reaped, I had sown.
 
 I was thinking. And had I truly disciplined my heart to this, and could
-I resolutely bear it, and calmly hold the place in her home which she
+I resolutely bear it, and calmly hold the place in her [[Home|home]] which she
 had calmly held in mine,--when I found my eyes resting on a countenance
-that might have arisen out of the fire, in its association with my early
+that might have arisen out of the [[Fire|fire]], in its association with my early
 remembrances.
 
 Little Mr. Chillip the Doctor, to whose good offices I was indebted in
-the very first chapter of this history, sat reading a newspaper in the
-shadow of an opposite corner. He was tolerably stricken in years by this
-time; but, being a mild, meek, calm little man, had worn so easily, that
+the very first chapter of this [[history]], sat reading a newspaper in the
+[[Shadow|shadow]] of an opposite corner. He was tolerably stricken in years by this
+[[Time|time]]; but, being a mild, meek, calm little man, had worn so easily, that
 I thought he looked at that moment just as he might have looked when he
 sat in our parlour, waiting for me to be born.
 
@@ -520,11 +520,11 @@ Chillip?’
 
 He was greatly fluttered by this unexpected address from a stranger, and
 replied, in his slow way, ‘I thank you, sir, you are very good. Thank
-you, sir. I hope YOU are well.’
+you, sir. I [[Hope|hope]] YOU are [[Well|well]].’
 
 ‘You don’t remember me?’ said I.
 
-‘Well, sir,’ returned Mr. Chillip, smiling very meekly, and shaking his
+‘[[Well]], sir,’ returned Mr. Chillip, smiling very meekly, and shaking his
 head as he surveyed me, ‘I have a kind of an impression that something
 in your countenance is familiar to me, sir; but I couldn’t lay my hand
 upon your name, really.’
@@ -532,16 +532,16 @@ upon your name, really.’
 ‘And yet you knew it, long before I knew it myself,’ I returned.
 
 ‘Did I indeed, sir?’ said Mr. Chillip. ‘Is it possible that I had the
-honour, sir, of officiating when--?’
+[[Honour|honour]], sir, of officiating when--?’
 
 ‘Yes,’ said I.
 
-‘Dear me!’ cried Mr. Chillip. ‘But no doubt you are a good deal changed
+‘Dear me!’ cried Mr. Chillip. ‘But no [[Doubt|doubt]] you are a good deal changed
 since then, sir?’
 
 ‘Probably,’ said I.
 
-‘Well, sir,’ observed Mr. Chillip, ‘I hope you’ll excuse me, if I am
+‘[[Well]], sir,’ observed Mr. Chillip, ‘I [[Hope|hope]] you’ll excuse me, if I am
 compelled to ask the favour of your name?’
 
 On my telling him my name, he was really moved. He quite shook hands
@@ -552,7 +552,7 @@ it. Even now, he put his hand in his coat-pocket as soon as he could
 disengage it, and seemed relieved when he had got it safe back.
 
 ‘Dear me, sir!’ said Mr. Chillip, surveying me with his head on one
-side. ‘And it’s Mr. Copperfield, is it? Well, sir, I think I should have
+side. ‘And it’s Mr. Copperfield, is it? [[Well]], sir, I think I should have
 known you, if I had taken the liberty of looking more closely at you.
 There’s a strong resemblance between you and your poor father, sir.’
 
@@ -568,19 +568,19 @@ said Mr. Chillip, tapping himself on the forehead with his forefinger.
 ‘What is your part of the country now?’ I asked, seating myself near
 him.
 
-‘I am established within a few miles of Bury St. Edmund’s, sir,’ said
+‘I am established within a few miles of Bury St. [[Edmund]]’s, sir,’ said
 Mr. Chillip. ‘Mrs. Chillip, coming into a little property in that
 neighbourhood, under her father’s will, I bought a practice down there,
-in which you will be glad to hear I am doing well. My daughter is
+in which you will be glad to hear I am doing [[Well|well]]. My daughter is
 growing quite a tall lass now, sir,’ said Mr. Chillip, giving his little
 head another little shake. ‘Her mother let down two tucks in her frocks
-only last week. Such is time, you see, sir!’
+only last week. Such is [[Time|time]], you see, sir!’
 
 As the little man put his now empty glass to his lips, when he made this
 reflection, I proposed to him to have it refilled, and I would keep him
-company with another. ‘Well, sir,’ he returned, in his slow way, ‘it’s
+company with another. ‘[[Well]], sir,’ he returned, in his slow way, ‘it’s
 more than I am accustomed to; but I can’t deny myself the pleasure
-of your conversation. It seems but yesterday that I had the honour of
+of your conversation. It seems but yesterday that I had the [[Honour|honour]] of
 attending you in the measles. You came through them charmingly, sir!’
 
 I acknowledged this compliment, and ordered the negus, which was soon
@@ -590,7 +590,7 @@ family, sir?’
 
 I shook my head.
 
-‘I was aware that you sustained a bereavement, sir, some time ago,’ said
+‘I was aware that you sustained a bereavement, sir, some [[Time|time]] ago,’ said
 Mr. Chillip. ‘I heard it from your father-in-law’s sister. Very decided
 character there, sir?’
 
@@ -622,7 +622,7 @@ Copperfield!’
 ‘And the brother and sister are pursuing their old course, are they?’
 said I.
 
-‘Well, sir,’ replied Mr. Chillip, ‘a medical man, being so much in
+‘[[Well]], sir,’ replied Mr. Chillip, ‘a medical man, being so much in
 families, ought to have neither eyes nor ears for anything but his
 profession. Still, I must say, they are very severe, sir: both as to
 this life and the next.’
@@ -638,15 +638,15 @@ Mr. Chillip shook his head, stirred his negus, and sipped it.
 
 ‘A charming woman indeed, sir,’ said Mr. Chillip; ‘as amiable, I am sure,
 as it was possible to be! Mrs. Chillip’s opinion is, that her spirit
-has been entirely broken since her marriage, and that she is all but
-melancholy mad. And the ladies,’ observed Mr. Chillip, timorously, ‘are
+has been entirely broken since her [[Marriage|marriage]], and that she is all but
+[[Melancholy|melancholy]] mad. And the ladies,’ observed Mr. Chillip, timorously, ‘are
 great observers, sir.’
 
 ‘I suppose she was to be subdued and broken to their detestable mould,
 Heaven help her!’ said I. ‘And she has been.’
 
-‘Well, sir, there were violent quarrels at first, I assure you,’ said
-Mr. Chillip; ‘but she is quite a shadow now. Would it be considered
+‘[[Well]], sir, there were violent quarrels at first, I assure you,’ said
+Mr. Chillip; ‘but she is quite a [[Shadow|shadow]] now. Would it be considered
 forward if I was to say to you, sir, in confidence, that since the
 sister came to help, the brother and sister between them have nearly
 reduced her to a state of imbecility?’
@@ -656,7 +656,7 @@ I told him I could easily believe it.
 ‘I have no hesitation in saying,’ said Mr. Chillip, fortifying himself
 with another sip of negus, ‘between you and me, sir, that her mother
 died of it--or that tyranny, gloom, and worry have made Mrs. Murdstone
-nearly imbecile. She was a lively young woman, sir, before marriage, and
+nearly imbecile. She was a lively young woman, sir, before [[Marriage|marriage]], and
 their gloom and austerity destroyed her. They go about with her, now,
 more like her keepers than her husband and sister-in-law. That was
 Mrs. Chillip’s remark to me, only last week. And I assure you, sir, the
@@ -670,7 +670,7 @@ red with the unwonted stimulus in which he was indulging. ‘One of Mrs.
 Chillip’s most impressive remarks. Mrs. Chillip,’ he proceeded, in the
 calmest and slowest manner, ‘quite electrified me, by pointing out
 that Mr. Murdstone sets up an image of himself, and calls it the Divine
-Nature. You might have knocked me down on the flat of my back, sir,
+[[Nature]]. You might have knocked me down on the flat of my back, sir,
 with the feather of a pen, I assure you, when Mrs. Chillip said so. The
 ladies are great observers, sir?’
 
@@ -680,7 +680,7 @@ ladies are great observers, sir?’
 rejoined. ‘It is not often that I venture to give a non-medical opinion,
 I assure you. Mr. Murdstone delivers public addresses sometimes, and it
 is said,--in short, sir, it is said by Mrs. Chillip,--that the darker
-tyrant he has lately been, the more ferocious is his doctrine.’
+[[Tyrant|tyrant]] he has lately been, the more ferocious is his doctrine.’
 
 ‘I believe Mrs. Chillip to be perfectly right,’ said I.
 
@@ -705,34 +705,34 @@ I found it not difficult, in the excitement of Mr. Chillip’s own brain,
 under his potations of negus, to divert his attention from this topic
 to his own affairs, on which, for the next half-hour, he was quite
 loquacious; giving me to understand, among other pieces of information,
-that he was then at the Gray’s Inn Coffee-house to lay his professional
+that he was then at the Gray’s Inn Coffee-[[house]] to lay his professional
 evidence before a Commission of Lunacy, touching the state of mind of a
 patient who had become deranged from excessive drinking. ‘And I assure
 you, sir,’ he said, ‘I am extremely nervous on such occasions. I could
 not support being what is called Bullied, sir. It would quite unman
-me. Do you know it was some time before I recovered the conduct of that
-alarming lady, on the night of your birth, Mr. Copperfield?’
+me. Do you know it was some [[Time|time]] before I recovered the conduct of that
+alarming lady, on the [[Night|night]] of your birth, Mr. Copperfield?’
 
-I told him that I was going down to my aunt, the Dragon of that night,
+I told him that I was going down to my aunt, the Dragon of that [[Night|night]],
 early in the morning; and that she was one of the most tender-hearted
-and excellent of women, as he would know full well if he knew her
+and excellent of women, as he would know full [[Well|well]] if he knew her
 better. The mere notion of the possibility of his ever seeing her again,
 appeared to terrify him. He replied with a small pale smile, ‘Is she so,
 indeed, sir? Really?’ and almost immediately called for a candle, and
 went to bed, as if he were not quite safe anywhere else. He did not
 actually stagger under the negus; but I should think his placid little
 pulse must have made two or three more beats in a minute, than it had
-done since the great night of my aunt’s disappointment, when she struck
+done since the great [[Night|night]] of my aunt’s disappointment, when she struck
 at him with her bonnet.
 
 Thoroughly tired, I went to bed too, at midnight; passed the next day on
 the Dover coach; burst safe and sound into my aunt’s old parlour while
 she was at tea (she wore spectacles now); and was received by her, and
 Mr. Dick, and dear old Peggotty, who acted as housekeeper, with open
-arms and tears of joy. My aunt was mightily amused, when we began to
+arms and [[Tears|tears]] of joy. My aunt was mightily amused, when we began to
 talk composedly, by my account of my meeting with Mr. Chillip, and of
 his holding her in such dread remembrance; and both she and Peggotty
 had a great deal to say about my poor mother’s second husband, and ‘that
-murdering woman of a sister’,--on whom I think no pain or penalty would
+murdering woman of a sister’,--on whom I think no [[Pain|pain]] or penalty would
 have induced my aunt to bestow any Christian or Proper Name, or any
 other designation.

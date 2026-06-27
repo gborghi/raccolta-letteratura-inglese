@@ -1,5 +1,5 @@
 ---
-title: "Edward III — Scene 4 — exchange (KING OF FRANCE) [7]"
+title: "[[Edward III]] — Scene 4 — exchange ([[King of France|KING OF FRANCE]]) [7]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/EDWARD-III-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| KING OF FRANCE | Then rests there nothing but, with present speed, To join our several forces all in one, And bid them battle ere they range too far. Come, gentle Philippe, let us hence depart; This soldier’s words have pierced thy father’s heart. Exeunt |
+| [[King of France|KING OF FRANCE]] | Then rests there nothing but, with present [[Speed|speed]], To join our several forces all in one, And bid them battle ere they range too far. Come, gentle Philippe, let us hence depart; This soldier’s words have pierced thy father’s heart. Exeunt |

@@ -1,5 +1,5 @@
 ---
-title: "The Devil in the Belfry"
+title: "[[The Devil in the Belfry]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/The-Devil-in-the-Belfry-(Poe)"
@@ -13,7 +13,7 @@ tags:
 </nav>
 
 
-What o’clock is it?—_Old Saying_.
+What o’[[Clock|clock]] is it?—_Old Saying_.
 
 
 
@@ -31,15 +31,15 @@ What o’clock is it?—_Old Saying_.
 
       proper that I should enter into some account of it. And this is
 
-      indeed the more necessary, as with the hope of enlisting public
+      indeed the more necessary, as with the [[Hope|hope]] of enlisting public
 
       sympathy in behalf of the inhabitants, I design here to give a
 
-      history of the calamitous events which have so lately occurred
+      [[history]] of the calamitous events which have so lately occurred
 
-      within its limits. No one who knows me will doubt that the duty
+      within its limits. No one who knows me will [[Doubt|doubt]] that the duty
 
-      thus self-imposed will be executed to the best of my ability,
+      thus [[Self|self]]-imposed will be executed to the best of my ability,
 
       with all that rigid impartiality, all that cautious examination
 
@@ -87,11 +87,11 @@ What o’clock is it?—_Old Saying_.
 
       Donder—Votteimittis, quasi und Bleitziz—Bleitziz obsol:—pro
 
-      Blitzen.” This derivative, to say the truth, is still
+      Blitzen.” This derivative, to say the [[Truth|truth]], is still
 
       countenanced by some traces of the electric fluid evident on the
 
-      summit of the steeple of the House of the Town-Council. I do not
+      summit of the steeple of the [[house|House]] of the Town-Council. I do not
 
       choose, however, to commit myself on a theme of such importance,
 
@@ -113,7 +113,7 @@ What o’clock is it?—_Old Saying_.
 
       foundation of Vondervotteimittis, and the derivation of its name,
 
-      there can be no doubt, as I said before, that it has always
+      there can be no [[Doubt|doubt]], as I said before, that it has always
 
       existed as we find it at this epoch. The oldest man in the
 
@@ -143,9 +143,9 @@ What o’clock is it?—_Old Saying_.
 
       of course, to the centre of the plain, which is just sixty yards
 
-      from the front door of each dwelling. Every house has a small
+      from the front door of each dwelling. Every [[house]] has a small
 
-      garden before it, with a circular path, a sun-dial, and
+      [[Garden|garden]] before it, with a circular path, a sun-dial, and
 
       twenty-four cabbages. The buildings themselves are so precisely
 
@@ -161,7 +161,7 @@ What o’clock is it?—_Old Saying_.
 
       upon a great scale. The gables are turned to the front, and there
 
-      are cornices, as big as all the rest of the house, over the eaves
+      are cornices, as big as all the rest of the [[house]], over the eaves
 
       and over the main doors. The windows are narrow and deep, with
 
@@ -171,13 +171,13 @@ What o’clock is it?—_Old Saying_.
 
       is of a dark hue and there is much carving about it, with but a
 
-      trifling variety of pattern for, time out of mind, the carvers of
+      trifling variety of pattern for, [[Time|time]] out of mind, the carvers of
 
       Vondervotteimittiss have never been able to carve more than two
 
-      objects—a time-piece and a cabbage. But these they do exceedingly
+      objects—a [[Time|time]]-piece and a cabbage. But these they do exceedingly
 
-      well, and intersperse them, with singular ingenuity, wherever
+      [[Well|well]], and intersperse them, with singular ingenuity, wherever
 
       they find room for the chisel.
 
@@ -191,15 +191,15 @@ What o’clock is it?—_Old Saying_.
 
       feet. The mantelpieces are wide and high, and have not only
 
-      time-pieces and cabbages sculptured over the front, but a real
+      [[Time|time]]-pieces and cabbages sculptured over the front, but a real
 
-      time-piece, which makes a prodigious ticking, on the top in the
+      [[Time|time]]-piece, which makes a prodigious ticking, on the top in the
 
       middle, with a flower-pot containing a cabbage standing on each
 
       extremity by way of outrider. Between each cabbage and the
 
-      time-piece, again, is a little China man having a large stomach
+      [[Time|time]]-piece, again, is a little China man having a large stomach
 
       with a great round hole in it, through which is seen the
 
@@ -209,11 +209,11 @@ What o’clock is it?—_Old Saying_.
 
       The fireplaces are large and deep, with fierce crooked-looking
 
-      fire-dogs. There is constantly a rousing fire, and a huge pot
+      [[Fire|fire]]-[[dogs]]. There is constantly a rousing [[Fire|fire]], and a huge pot
 
       over it, full of sauer-kraut and pork, to which the good woman of
 
-      the house is always busy in attending. She is a little fat old
+      the [[house]] is always busy in attending. She is a little fat old
 
       lady, with blue eyes and a red face, and wears a huge cap like a
 
@@ -241,7 +241,7 @@ What o’clock is it?—_Old Saying_.
 
 
 
-      The boys themselves are, all three of them, in the garden
+      The boys themselves are, all three of them, in the [[Garden|garden]]
 
       attending the pig. They are each two feet in height. They have
 
@@ -257,7 +257,7 @@ What o’clock is it?—_Old Saying_.
 
       then a look and a puff. The pig—which is corpulent and lazy—is
 
-      occupied now in picking up the stray leaves that fall from the
+      occupied now in picking up the stray [[Leaves|leaves]] that fall from the
 
       cabbages, and now in giving a kick behind at the gilt repeater,
 
@@ -271,11 +271,11 @@ What o’clock is it?—_Old Saying_.
 
       chair, with crooked legs and puppy feet like the tables, is
 
-      seated the old man of the house himself. He is an exceedingly
+      seated the old man of the [[house]] himself. He is an exceedingly
 
       puffy little old gentleman, with big circular eyes and a huge
 
-      double chin. His dress resembles that of the boys—and I need say
+      [[Double|double]] chin. His dress resembles that of the boys—and I need say
 
       nothing farther about it. All the difference is, that his pipe is
 
@@ -283,11 +283,11 @@ What o’clock is it?—_Old Saying_.
 
       them, he has a watch, but he carries his watch in his pocket. To
 
-      say the truth, he has something of more importance than a watch
+      say the [[Truth|truth]], he has something of more importance than a watch
 
       to attend to—and what that is, I shall presently explain. He sits
 
-      with his right leg upon his left knee, wears a grave countenance,
+      with his right leg upon his left knee, wears a [[Grave|grave]] countenance,
 
       and always keeps one of his eyes, at least, resolutely bent upon
 
@@ -295,11 +295,11 @@ What o’clock is it?—_Old Saying_.
 
 
 
-      This object is situated in the steeple of the House of the Town
+      This object is situated in the steeple of the [[house|House]] of the Town
 
       Council. The Town Council are all very little, round, oily,
 
-      intelligent men, with big saucer eyes and fat double chins, and
+      intelligent men, with big saucer eyes and fat [[Double|double]] chins, and
 
       have their coats much longer and their shoe-buckles much bigger
 
@@ -327,9 +327,9 @@ What o’clock is it?—_Old Saying_.
 
       Above the session-room of the Council is the steeple, and in the
 
-      steeple is the belfry, where exists, and has existed time out of
+      steeple is the belfry, where exists, and has existed [[Time|time]] out of
 
-      mind, the pride and wonder of the village—the great clock of the
+      mind, the [[Pride|pride]] and [[Wonder|wonder]] of the village—the great [[Clock|clock]] of the
 
       borough of Vondervotteimittiss. And this is the object to which
 
@@ -339,7 +339,7 @@ What o’clock is it?—_Old Saying_.
 
 
 
-      The great clock has seven faces—one in each of the seven sides of
+      The great [[Clock|clock]] has seven faces—one in each of the seven sides of
 
       the steeple—so that it can be readily seen from all quarters. Its
 
@@ -347,7 +347,7 @@ What o’clock is it?—_Old Saying_.
 
       is a belfry-man whose sole duty is to attend to it; but this duty
 
-      is the most perfect of sinecures—for the clock of
+      is the most perfect of sinecures—for the [[Clock|clock]] of
 
       Vondervotteimittis was never yet known to have anything the
 
@@ -361,9 +361,9 @@ What o’clock is it?—_Old Saying_.
 
       just the same with all the other clocks and watches in the
 
-      borough. Never was such a place for keeping the true time. When
+      borough. Never was such a place for keeping the true [[Time|time]]. When
 
-      the large clapper thought proper to say “Twelve o’clock!” all its
+      the large clapper thought proper to say “Twelve o’[[Clock|clock]]!” all its
 
       obedient followers opened their throats simultaneously, and
 
@@ -389,7 +389,7 @@ What o’clock is it?—_Old Saying_.
 
       old gentleman in the village; and as to his chin, it is not only
 
-      double, but triple.
+      [[Double|double]], but triple.
 
 
 
@@ -405,7 +405,7 @@ What o’clock is it?—_Old Saying_.
 
       the words had in them something of the spirit of prophecy. It
 
-      wanted five minutes of noon, on the day before yesterday, when
+      wanted five minutes of [[Noon|noon]], on the day before yesterday, when
 
       there appeared a very odd-looking object on the summit of the
 
@@ -417,17 +417,17 @@ What o’clock is it?—_Old Saying_.
 
       dismay upon the phenomenon, still keeping the other upon the
 
-      clock in the steeple.
+      [[Clock|clock]] in the steeple.
 
 
 
-      By the time that it wanted only three minutes to noon, the droll
+      By the [[Time|time]] that it wanted only three minutes to [[Noon|noon]], the droll
 
       object in question was perceived to be a very diminutive
 
       foreign-looking young man. He descended the hills at a great
 
-      rate, so that every body had soon a good look at him. He was
+      rate, so that every [[Body|body]] had soon a good look at him. He was
 
       really the most finicky little personage that had ever been seen
 
@@ -443,7 +443,7 @@ What o’clock is it?—_Old Saying_.
 
       face to be seen. His head was uncovered, and his hair neatly done
 
-      up in papillotes. His dress was a tight-fitting swallow-tailed
+      up in papillotes. His dress was a tight-fitting [[Swallow|swallow]]-tailed
 
       black coat (from one of whose pockets dangled a vast length of
 
@@ -457,11 +457,11 @@ What o’clock is it?—_Old Saying_.
 
       as big as himself. In his left hand was a gold snuff-box, from
 
-      which, as he capered down the hill, cutting all manner of
+      which, as he capered down the [[Hill|hill]], cutting all manner of
 
       fantastic steps, he took snuff incessantly with an air of the
 
-      greatest possible self-satisfaction. God bless me!—here was a
+      greatest possible [[Self|self]]-satisfaction. God bless me!—here was a
 
       sight for the honest burghers of Vondervotteimittiss!
 
@@ -479,13 +479,13 @@ What o’clock is it?—_Old Saying_.
 
       handkerchief which hung so obtrusively from the pocket of his
 
-      swallow-tailed coat. But what mainly occasioned a righteous
+      [[Swallow|swallow]]-tailed coat. But what mainly occasioned a righteous
 
       indignation was, that the scoundrelly popinjay, while he cut a
 
       fandango here, and a whirligig there, did not seem to have the
 
-      remotest idea in the world of such a thing as keeping time in his
+      remotest idea in the world of such a thing as keeping [[Time|time]] in his
 
       steps.
 
@@ -495,15 +495,15 @@ What o’clock is it?—_Old Saying_.
 
       get their eyes thoroughly open, when, just as it wanted half a
 
-      minute of noon, the rascal bounced, as I say, right into the
+      minute of [[Noon|noon]], the rascal bounced, as I say, right into the
 
       midst of them; gave a _chassez_ here, and a _balancez_ there; and
 
       then, after a _pirouette_ and a _pas-de-zephyr_, pigeon-winged
 
-      himself right up into the belfry of the House of the Town
+      himself right up into the belfry of the [[house|House]] of the Town
 
-      Council, where the wonder-stricken belfry-man sat smoking in a
+      Council, where the [[Wonder|wonder]]-stricken belfry-man sat smoking in a
 
       state of dignity and dismay. But the little chap seized him at
 
@@ -517,7 +517,7 @@ What o’clock is it?—_Old Saying_.
 
       fat, and the fiddle being so hollow, you would have sworn that
 
-      there was a regiment of double-bass drummers all beating the
+      there was a regiment of [[Double|double]]-bass drummers all beating the
 
       devil’s tattoo up in the belfry of the steeple of
 
@@ -529,25 +529,25 @@ What o’clock is it?—_Old Saying_.
 
       unprincipled attack might have aroused the inhabitants, but for
 
-      the important fact that it now wanted only half a second of noon.
+      the important fact that it now wanted only half a second of [[Noon|noon]].
 
       The bell was about to strike, and it was a matter of absolute and
 
-      pre-eminent necessity that every body should look well at his
+      pre-eminent necessity that every [[Body|body]] should look [[Well|well]] at his
 
       watch. It was evident, however, that just at this moment the
 
       fellow in the steeple was doing something that he had no business
 
-      to do with the clock. But as it now began to strike, nobody had
+      to do with the [[Clock|clock]]. But as it now began to strike, nobody had
 
-      any time to attend to his manœuvres, for they had all to count
+      any [[Time|time]] to attend to his manœuvres, for they had all to count
 
       the strokes of the bell as it sounded.
 
 
 
-      “One!” said the clock.
+      “One!” said the [[Clock|clock]].
 
 
 
@@ -619,7 +619,7 @@ What o’clock is it?—_Old Saying_.
 
       “Der Teufel!” groaned they, “Dirteen! Dirteen!!—Mein Gott, it is
 
-      Dirteen o’clock!!”
+      Dirteen o’[[Clock|clock]]!!”
 
 
 
@@ -693,7 +693,7 @@ What o’clock is it?—_Old Saying_.
 
       smoke. There he sat in the belfry upon the belfry-man, who was
 
-      lying flat upon his back. In his teeth the villain held the
+      lying flat upon his back. In his teeth the [[Villain|villain]] held the
 
       bell-rope, which he kept jerking about with his head, raising
 
@@ -701,7 +701,7 @@ What o’clock is it?—_Old Saying_.
 
       his lap lay the big fiddle, at which he was scraping, out of all
 
-      time and tune, with both hands, making a great show, the
+      [[Time|time]] and tune, with both hands, making a great show, the
 
       nincompoop! of playing “Judy O’Flannagan and Paddy O’Rafferty.”
 
@@ -709,9 +709,9 @@ What o’clock is it?—_Old Saying_.
 
       Affairs being thus miserably situated, I left the place in
 
-      disgust, and now appeal for aid to all lovers of correct time and
+      disgust, and now appeal for aid to all [[lovers]] of correct [[Time|time]] and
 
-      fine kraut. Let us proceed in a body to the borough, and restore
+      fine kraut. Let us proceed in a [[Body|body]] to the borough, and restore
 
       the ancient order of things in Vondervotteimittiss by ejecting
 

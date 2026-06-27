@@ -46,14 +46,14 @@ science of literature.
 Mr. Max Beerbohm, whose fine and classic criticism is full of those
 shining depths that many mistake for shallowness, has remarked
 truly enough on the rather wearisome repetitions in the newspapers,
-which did great harm to the Stevensonian fame at the time of
+which did great harm to the Stevensonian fame at the [[Time|time]] of
 the Stevensonian fashion.  He noticed especially that a certain
 phrase used by Stevenson about his early experiments in writing,
-that he has "played the sedulous ape" to Hazlitt or to Lamb, must be
+that he has "played the sedulous ape" to Hazlitt or to [[Lamb]], must be
 permanently kept in type in the journalistic offices, so frequently
 do the journalists quote it.  There are about a thousand things in
 Stevenson much more worth quoting, and much more really enlightening
-about his education in letters.  Every young writer, however original,
+about his [[Education|education]] in letters.  Every young writer, however original,
 does begin by imitating other people, consciously or unconsciously,
 and nearly every old writer would be quite as willing to admit it.
 The real irony in the incident seems never to have been noticed.
@@ -74,21 +74,21 @@ such words, is the thing I mean by the style of Stevenson.
 
 In the case of Stevenson, criticism has always tended
 to be hypercriticism.  It is as if the critic were strung up
-to be as strict with the artist as the artist was with himself.
+to be as strict with the [[Artist|artist]] as the [[Artist|artist]] was with himself.
 But they are not very consistent or considerate in the matter.  They blame
 him for being fastidious; and so become more fastidious themselves.
-They condemn him for wasting time in trying to find the right word;
-and then waste more time in not very successful attempts to
+They condemn him for wasting [[Time|time]] in trying to find the right word;
+and then waste more [[Time|time]] in not very successful attempts to
 prove it is the wrong word.  I remember that Mr. George Moore
 (who at least led the attack when Stevenson was alive and at
 the height of his popularity) professed in a somewhat mysterious
 manner to have exposed or exploded the whole trick of Stevenson,
 by dwelling at length on the word "interjected": in the passage
-which describes a man stopping a clock with interjected finger.
+which describes a man stopping a [[Clock|clock]] with interjected finger.
 There seemed to be some notion that because the word is unusual
 in that use, it showed that there was nothing but artificial
-verbalism in the whole tragedy of _Jekyll and Hyde_ or the fun of
-_The Wrong Box._ I think it is time that this sort of fastidiousness
+verbalism in the whole [[Tragedy|tragedy]] of _Jekyll and Hyde_ or the fun of
+_The Wrong Box._ I think it is [[Time|time]] that this sort of fastidiousness
 about fastidiousness should be corrected with a little common sense.
 The obvious question to ask Mr. Moore, if he objects
 to the word "interjected," is, "What word would you use?"
@@ -113,7 +113,7 @@ individually soothed or irritated by a style like that of Stevenson,
 whether we have any personal or impersonal reason for impatience
 with the style or the man, we ought really to have enough critical
 impartiality and justice to see what is the literary test.
-The test is whether the words are well or ill chosen, not for
+The test is whether the words are [[Well|well]] or ill chosen, not for
 the purpose of fitting our own taste in words, but for the purpose
 of satisfying everybody's sense of the realities of things.
 Now it is nonsense for anybody who pretends to like literature
@@ -126,14 +126,14 @@ That is the craft of letters; and the craftsman made a vast
 multitude of such images in all sorts of materials.  In this
 matter we may say of Stevenson very much what he said of Burns.
 He remarked that Burns surprised the polite world, with its
-aesthetes and antiquarians, by never writing poems on waterfalls,
+aesthetes and antiquarians, by never writing [[Poems|poems]] on waterfalls,
 ruined castles or other recognised places of interest; the very fact,
 of course, which showed Burns to be a poet and not a tourist.
 It is always the prosaic person who demands poetic subjects.
 They are the only subjects about which he can possibly be poetic.
 But Burns, as Stevenson said, had a natural gift of lively and flexible
 comment that could play as easily upon one thing as another; a kirk
-or a tavern or a group going to market or a pair of dogs in the street.
+or a tavern or a group going to market or a pair of [[dogs]] in the street.
 This gift must be judged by its aptness, its vividness and its range;
 and anybody who suggests that Stevenson's talent was only one
 piece of thin silver polished perpetually in its napkin does not,
@@ -142,30 +142,30 @@ Stevenson had exactly the talent he attributes to Burns of touching
 nothing that he did not animate.  And so far from hiding one talent
 in one napkin, it would be truer to say that he became ruler over
 ten cities; set in the ends of the earth.  Indeed the last phrase
-alone suggests an example or a text.
+[[Alone|alone]] suggests an example or a text.
 
 I will take the case of one of his books; I deliberately refrain
 from taking one of his best books.  I will take _The Wrecker,_ a book
 which many would call a failure and which nobody would call a faultless
-artistic success, least of all the artist.  The picture breaks
+artistic [[success]], least of all the [[Artist|artist]].  The picture breaks
 out of the frame; indeed it is rather a panorama than a picture.
 The story sprawls over three continents; and the climax has too much
 the air of being only the last of a long string of disconnected passages.
 It has the look of a scrap-book; indeed it is very exactly
-a sketch-book. It is merely the sketch-book of Loudon Dodd,
-the wandering art student never allowed to be fully an artist;
+a [[Sketch|sketch]]-book. It is merely the [[Sketch|sketch]]-book of Loudon Dodd,
+the wandering art student never allowed to be fully an [[Artist|artist]];
 just as his story is never allowed to be fully a work of art.
 He sketches people with the pen as he does with the pencil,
 in four or five incongruous societies, in the commercial school
-of Muskegon or the art school of Paris, in the east wind of Edinburgh
+of Muskegon or the art school of [[Paris]], in the east [[Wind|wind]] of Edinburgh
 or the black squall of the South Seas; just as he sketched the four
 fugitive murderers gesticulating and lying in the Californian saloon.
 The point is (on the strict principles of _l'art pour l'art,_
-so dear to Mr. Dodd) that he sketched devilish well.
+so dear to Mr. Dodd) that he sketched devilish [[Well|well]].
 We can take the portraits of twenty social types in turn,
 taken from six social worlds utterly shut out from each other,
 and find in every case that the strokes are at once few and final;
-that is, that the word is well chosen out of a hundred words
+that is, that the word is [[Well|well]] chosen out of a hundred words
 and that one word does the work of twenty.  The story starts:
 "The beginning of this yarn is my poor father's character";
 and the character is compact in one paragraph.  When Jim Pinkerton first
@@ -178,18 +178,18 @@ is first introduced as handling a big piece of business beyond his
 _metier,_ he bears himself "with a sort of shrinking assumption."
 The reader, especially if he is not a writer, may imagine
 that such words matter little; but if he supposes that it might
-just as well have been "flinching pride" or "quailing arrogance"
+just as [[Well|well]] have been "flinching [[Pride|pride]]" or "quailing arrogance"
 he knows nothing about writing and perhaps not much about reading.
 The whole point is in that hitting of the right nail on the head;
 and rather more so when the nail is such a very battered little tintack
 as Mr. Henry D. Bellairs of San Francisco.  When Loudon Dodd merely
 has to meet a naval officer and record that he got next to nothing
 out of him, that very negation has a touch of chilly life like a fish.
-"I judged he was suffering torments of alarm lest I should prove
+"I judged he was [[Suffering|suffering]] torments of alarm lest I should prove
 an undesirable acquaintance; diagnosed him for a shy, dull, vain,
 unamiable animal, without adequate defence--a sort of dis-housed snail."
-The visit to an English village, under the shadow of an English
-country house, is equally aptly appreciated; from the green framework
+The visit to an English village, under the [[Shadow|shadow]] of an English
+country [[house]], is equally aptly appreciated; from the green framework
 of the little town, "a domino of tiled houses and walled gardens,"
 to the reminiscences of the ex-butler about the exiled younger son;
 "near four generations of Carthews were touched upon without
@@ -200,11 +200,11 @@ could so much as manage to bring upon the stage my intimate friend,
 Mr. Norris. . . . He was the only person of the whole featureless
 series who seemed to have accomplished anything worth mentioning;
 and his achievements, poor dog, seemed to have been confined to going
-to the devil and leaving some regrets. . . . He had no pride about him,
+to the devil and leaving some regrets. . . . He had no [[Pride|pride]] about him,
 I was told; he would sit down with any man; and it was somewhat
 woundingly implied that I was indebted to this peculiarity for my
-own acquaintance with the hero."  But I must not be led away by
-the large temptation of quoting examples of the cool and collected
+own acquaintance with the [[Hero|hero]]."  But I must not be led away by
+the large [[Temptation|temptation]] of quoting examples of the cool and collected
 and sustained irony, with which Loudon Dodd tells his whole story.
 I am only giving random examples of his rapid sketches of very
 different sorts of societies and personalities; and the point is
@@ -221,14 +221,14 @@ and his private correspondence is full of the same lively and
 animated neatness.  In this one neglected volume of _The Wrecker_ there
 are thousands of such things; and everything to show that he could
 have written twenty more volumes, equally full of these felicities.
-A man who does this is not only an artist doing what most men
+A man who does this is not only an [[Artist|artist]] doing what most men
 cannot do, but he is certainly doing what most novelists do not do.
 Even very good novelists have not this particular knack of putting
 a whole human figure together with a few unforgettable words.
-By the end of a novel by Mr. Arnold Bennett or Mr. E. F. Benson I
+By the end of a [[Novel|novel]] by Mr. Arnold Bennett or Mr. E. F. Benson I
 have the sense that Lord Raingo or Lord Chesham is a real man,
 very rightly understood; but I never have at the beginning that
-feeling of magic; that a man has been brought to life by three words
+feeling of [[Magic|magic]]; that a man has been brought to life by three words
 of an incantation.
 
 This was the genius of Stevenson; and it is simply silly to complain
@@ -251,21 +251,21 @@ besides this particular element of picked and pointed phrase,
 or rather especially the combination of picked and pointed phrases.
 I might make much more than I have made out of something in his
 rapidly stepping sentences, especially in narrative, which corresponds
-to his philosophy of the militant attitude and the active virtues.
+to his [[philosophy]] of the militant attitude and the active virtues.
 That word angular, which I have been driven to use too often,
 belongs to the sharpness of his verbal gestures as much
 as to the cutlasses and choppers of his paste-board pirates.
-Those early theatrical figures, from the sketch-book of Skelt, were all
-of them in their nature like snapshots of people in swift action.
+Those early theatrical figures, from the [[Sketch|sketch]]-book of Skelt, were all
+of them in their [[Nature|nature]] like snapshots of people in swift action.
 Three-Fingered Jack could not have remained permanently with the cudgel
-or the sabre swung about his head nor Robin Hood with the arrow
+or the sabre swung about his head nor [[Robin Hood]] with the arrow
 drawn to his ear; and the descriptions of Stevenson's characters
 are seldom static but rather dynamic descriptions; and deal rather
 with how a man did or said something than with what he was like.
 The sharp and shrewd Scottish style of Ephraim Mackellar
 or David Balfour seems by its very sound exactly fitted to
 describe a man snapping his fingers or rapping with his stick.
-Doubtless so careful an artist as Stevenson varied his style to suit
+Doubtless so careful an [[Artist|artist]] as Stevenson varied his style to suit
 the subject and the speaker; we should not look for these dry
 or abrupt brevities in the dilettante deliberations of Loudon Dodd;
 but I know very few of the writer's works in which there are not,
@@ -273,13 +273,13 @@ at the crisis, phrases as short and sharp as the knife that Captain Wicks
 rammed through his own hand.  Something should also have been said,
 of course, of the passages in which Stevenson deliberately plays
 on a somewhat different musical instrument; as when he exercised upon
-Pan's Pipes in respectful imitation of Meredith upon a penny whistle.
-Something should have been said of the style of his poems; which are
+Pan's Pipes in respectful [[Imitation|imitation]] of Meredith upon a penny whistle.
+Something should have been said of the style of his [[Poems|poems]]; which are
 perhaps more successful in their phraseology than their poetry.
 But these again teem with these taut and trenchant separate phrases;
 the description of the interlacing branches like crossed swords in battle;
 the men upholding the falling skies like unfrowning caryatids;
-the loud stairs of honour and the bright eyes of danger.
+the loud stairs of [[Honour|honour]] and the bright eyes of danger.
 But I have already explained that I profess no scientific thoroughness
 about these problems of execution; and can only speak of the style
 of Stevenson as it specially affects my own taste and fancy.
@@ -292,16 +292,16 @@ As a part of the present criticism, such a statement is only another
 way of saying, in the old phrase, that the style is the man;
 and that the man was certainly a man and not only a man of letters.
 I find everywhere, even in his mere diction and syntax,
-that theme that is the whole philosophy of fairy-tales, of the old
+that theme that is the whole [[philosophy]] of fairy-tales, of the old
 romances and even of the absurd libretto of the little theatre--
-the conception that man is born with hope and courage indeed,
+the conception that man is born with [[Hope|hope]] and [[Courage|courage]] indeed,
 but born outside that which he was meant to attain; that there
-is a quest, a test, a trial by combat or pilgrimage of discovery;
+is a [[Quest|quest]], a test, a trial by combat or pilgrimage of discovery;
 or, in other words, that whatever else man is he is not
-sufficient to himself, either through peace or through despair.
+sufficient to himself, either through peace or through [[Despair|despair]].
 The very movement of the sentence is the movement of a man going
 somewhere and generally fighting something; and that is where optimism
 and pessimism are alike opposed to that ultimate or potential peace,
-which the violent take by storm.
+which the violent take by [[Storm|storm]].
 
 * * * *

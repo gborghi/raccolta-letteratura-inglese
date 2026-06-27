@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 29 (part 2)"
+title: "[[Pride and Prejudice]] — Chapter 29 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -25,7 +25,7 @@ regulated in so small a family as hers, and instructed her as to the
 care of her cows and her poultry. Elizabeth found that nothing was
 beneath this great lady’s attention which could furnish her with an
 occasion for dictating to others. In the intervals of her discourse with
-Mrs. Collins, she addressed a variety of questions to Maria and
+Mrs. Collins, she addressed a variety of questions to [[Maria]] and
 Elizabeth, but especially to the latter, of whose connections she knew
 the least, and who, she observed to Mrs. Collins, was a very genteel,
 pretty kind of girl. She asked her at different times how many sisters
@@ -44,7 +44,7 @@ Bennet?”
 
 “A little.”
 
-“Oh then--some time or other we shall be happy to hear you. Our
+“Oh then--some [[Time|time]] or other we shall be happy to hear you. Our
 instrument is a capital one, probably superior to ---- you shall try it
 some day. Do your sisters play and sing?”
 
@@ -61,17 +61,17 @@ you draw?”
 “Not one.”
 
 “That is very strange. But I suppose you had no opportunity. Your mother
-should have taken you to town every spring for the benefit of masters.”
+should have taken you to town every [[spring]] for the benefit of masters.”
 
-“My mother would have no objection, but my father hates London.”
+“My mother would have no objection, but my father hates [[London]].”
 
 “Has your governess left you?”
 
 “We never had any governess.”
 
-“No governess! How was that possible? Five daughters brought up at home
+“No governess! How was that possible? Five daughters brought up at [[Home|home]]
 without a governess! I never heard of such a thing. Your mother must
-have been quite a slave to your education.”
+have been quite a slave to your [[Education|education]].”
 
 Elizabeth could hardly help smiling, as she assured her that had not
 been the case.
@@ -84,12 +84,12 @@ wished to learn never wanted the means. We were always encouraged to
 read, and had all the masters that were necessary. Those who chose to be
 idle certainly might.”
 
-“Ay, no doubt: but that is what a governess will prevent; and if I had
+“Ay, no [[Doubt|doubt]]: but that is what a governess will prevent; and if I had
 known your mother, I should have advised her most strenuously to engage
-one. I always say that nothing is to be done in education without steady
+one. I always say that nothing is to be done in [[Education|education]] without steady
 and regular instruction, and nobody but a governess can give it. It is
 wonderful how many families I have been the means of supplying in that
-way. I am always glad to get a young person well placed out. Four nieces
+way. I am always glad to get a young person [[Well|well]] placed out. Four nieces
 of Mrs. Jenkinson are most delightfully situated through my means; and
 it was but the other day that I recommended another young person, who
 was merely accidentally mentioned to me, and the family are quite
@@ -130,7 +130,7 @@ conceal your age.”
 When the gentlemen had joined them, and tea was over, the card tables
 were placed. Lady Catherine, Sir William, and Mr. and Mrs. Collins sat
 down to quadrille; and as Miss De Bourgh chose to play at cassino, the
-two girls had the honour of assisting Mrs. Jenkinson to make up her
+two girls had the [[Honour|honour]] of assisting Mrs. Jenkinson to make up her
 party. Their table was superlatively stupid. Scarcely a syllable was
 uttered that did not relate to the game, except when Mrs. Jenkinson
 expressed her fears of Miss De Bourgh’s being too hot or too cold, or
@@ -139,13 +139,13 @@ other table. Lady Catherine was generally speaking--stating the mistakes
 of the three others, or relating some anecdote of herself. Mr. Collins
 was employed in agreeing to everything her Ladyship said, thanking her
 for every fish he won, and apologizing if he thought he won too many.
-Sir William did not say much. He was storing his memory with anecdotes
+Sir William did not say much. He was storing his [[Memory|memory]] with anecdotes
 and noble names.
 
 When Lady Catherine and her daughter had played as long as they chose,
 the tables were broken up, the carriage was offered to Mrs. Collins,
 gratefully accepted, and immediately ordered. The party then gathered
-round the fire to hear Lady Catherine determine what weather they were
+round the [[Fire|fire]] to hear Lady Catherine determine what weather they were
 to have on the morrow. From these instructions they were summoned by the
 arrival of the coach; and with many speeches of thankfulness on Mr.
 Collins’s side, and as many bows on Sir William’s, they departed. As

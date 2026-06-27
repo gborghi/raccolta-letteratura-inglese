@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 27 (part 5)"
+title: "[[Shirley]] — Chapter 27 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -42,9 +42,9 @@ Entering the schoolroom, she inclined her head with a decent obeisance,
 
 as had been her wont in former times. She removed her bonnet, and hung
 
-it up beside Henry's cap. Louis Moore sat at his desk, turning the
+it up beside Henry's cap. [[Louis Moore]] sat at his desk, turning the
 
-leaves of a book, open before him, and marking passages with his pencil.
+[[Leaves|leaves]] of a book, open before him, and marking passages with his pencil.
 
 He just moved, in acknowledgment of her curtsy, but did not rise.
 
@@ -82,7 +82,7 @@ curls dropped so low as to hide the page from him.
 
 
 
-For one moment Shirley looked not quite certain whether she would obey
+For one moment [[Shirley]] looked not quite certain whether she would obey
 
 the request or disregard it. A flicker of her eye beamed furtive on the
 
@@ -94,7 +94,7 @@ have rebelled, and the lesson had ended there and then; but he was only
 
 awaiting her compliance--as calm as marble, and as cool. She threw the
 
-veil of tresses behind her ear. It was well her face owned an agreeable
+veil of tresses behind her ear. It was [[Well|well]] her face owned an agreeable
 
 outline, and that her cheek possessed the polish and the roundness of
 
@@ -102,7 +102,7 @@ early youth, or, thus robbed of a softening shade, the contours might
 
 have lost their grace. But what mattered that in the present society?
 
-Neither Calypso nor Eucharis cared to fascinate Mentor.
+Neither Calypso nor Eucharis cared to fascinate [[Mentor]].
 
 
 
@@ -150,7 +150,7 @@ What _he_ read _she_ repeated. She caught his accent in three minutes.
 
 
 
-"I doubt you."
+"I [[Doubt|doubt]] you."
 
 
 
@@ -172,7 +172,7 @@ What _he_ read _she_ repeated. She caught his accent in three minutes.
 
 He proceeded to recite the following. He gave it in French, but we must
 
-translate, on pain of being unintelligible to some readers.
+translate, on [[Pain|pain]] of being unintelligible to some readers.
 
 
 
@@ -190,7 +190,7 @@ translate, on pain of being unintelligible to some readers.
 
 
 
-This was in the dawn of time, before the morning stars were set, and
+This was in the [[Dawn|dawn]] of [[Time|time]], before the morning [[Stars|stars]] were set, and
 
 while they yet sang together.
 
@@ -204,9 +204,9 @@ clear line of locality, evade perception and baffle research. It must
 
 suffice to know that the world then existed; that men peopled it; that
 
-man's nature, with its passions, sympathies, pains, and pleasures,
+man's [[Nature|nature]], with its passions, sympathies, pains, and pleasures,
 
-informed the planet and gave it soul.
+informed the planet and gave it [[Soul|soul]].
 
 
 
@@ -242,19 +242,19 @@ hunters, their flocks wander wild as their prey. Are they happy? No, not
 
 more happy than we are at this day. Are they good? No, not better than
 
-ourselves. Their nature is our nature--human both. There is one in this
+ourselves. Their [[Nature|nature]] is our [[Nature|nature]]--human both. There is one in this
 
-tribe too often miserable--a child bereaved of both parents. None cares
+tribe too often miserable--a [[Child|child]] bereaved of both parents. None cares
 
-for this child. She is fed sometimes, but oftener forgotten. A hut
+for this [[Child|child]]. She is fed sometimes, but oftener forgotten. A hut
 
-rarely receives her; the hollow tree and chill cavern are her home.
+rarely receives her; the hollow tree and chill cavern are her [[Home|home]].
 
 Forsaken, lost, and wandering, she lives more with the wild beast and
 
 bird than with her own kind. Hunger and cold are her comrades; sadness
 
-hovers over, and solitude besets her round. Unheeded and unvalued, she
+hovers over, and [[Solitude|solitude]] besets her round. Unheeded and unvalued, she
 
 should die; but she both lives and grows. The green wilderness nurses
 
@@ -268,7 +268,7 @@ There is something in the air of this clime which fosters life kindly.
 
 There must be something, too, in its dews which heals with sovereign
 
-balm. Its gentle seasons exaggerate no passion, no sense; its
+balm. Its gentle [[Seasons|seasons]] exaggerate no passion, no sense; its
 
 temperature tends to harmony; its breezes, you would say, bring down
 

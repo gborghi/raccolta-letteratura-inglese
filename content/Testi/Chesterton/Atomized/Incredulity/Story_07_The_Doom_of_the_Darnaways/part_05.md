@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Doom of the Darnaways (part 5)"
+title: "[[Incredulity]] — The Doom of the Darnaways (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -22,7 +22,7 @@ wore dark grey suits that looked almost like black.
 Perhaps this incongruity had been what the young man had meant
 by calling him a human being.  At that moment the young man
 himself turned abruptly in his chair and began to talk.
-A moment after the dazed artist knew that he was talking
+A moment after the dazed [[artist]] knew that he was talking
 about the most tremendous thing in the world.
 
 `Is there anything in it?' he was saying.  'That is
@@ -42,9 +42,9 @@ the problem of superstition being brought before that supremely
 superstitious tribunal.  He was sitting next to Darnaway
 and struck in before the priest could answer.
 
-`Well, the coincidences are curious, I admit,' he said,
+`[[Well]], the coincidences are curious, I admit,' he said,
 rather forcing a note of cheerfulness; `but surely we--`
-and then he stopped as if he had been struck by lightning.
+and then he stopped as if he had been struck by [[Lightning|lightning]].
 For Darnaway had turned his head sharply over his shoulder at
 the interruption, and with the movement, his left eyebrow jerked up
 far above its fellow and for an instant the face of the portrait
@@ -69,7 +69,7 @@ personally and point--blank, why, it's easy enough to answer.
 Of course there's no Doom of the Darnaways to prevent your
 marrying anybody you have any decent reason for marrying.
 A man isn't fated to fall into the smallest venial sin,
-let alone into crimes like suicide and murder.  You can't be
+let [[Alone|alone]] into crimes like [[suicide]] and murder.  You can't be
 made to do wicked things against your will because your name
 is Darnaway, any more than I can because my name is Brown.
 The Doom of the Browns,' he added with relish--`the Weird
@@ -91,7 +91,7 @@ about the best work your own religion has ever done in the world.
 I should have thought you'd have had some feeling for that sort of art;
 but I can't see why you should be so uncommonly keen on photography.'
 
-`I'm uncommonly keen on daylight,' answered Father Brown,
+`I'm uncommonly keen on daylight,' answered [[Father Brown]],
 `especially in this dingy business; and photography has
 the virtue of depending on daylight.  And if you don't know
 that I would grind all the Gothic arches in the world to powder
@@ -109,9 +109,9 @@ as if he felt something fey about the young man's defiance.
 
 `I am going to photograph the portrait,' replied Darnaway.
 
-Yet it was barely a week afterwards that the storm of the
+Yet it was barely a week afterwards that the [[Storm|storm]] of the
 catastrophe seemed to stoop out of the sky, darkening that sun
-of sanity to which the priest had appealed in vain, and plunging
+of [[Sanity|sanity]] to which the priest had appealed in vain, and plunging
 the mansion once more in the darkness of the Darnaway doom.
 It had been easy enough to fit up the new studio; and seen
 from inside it looked very like any other such studio,
@@ -119,13 +119,13 @@ empty except for the fullness of the white light.
 A man coming from the gloomy rooms below had more than normally
 the sense of stepping into a more than modern brilliancy,
 as blank as the future.  At the suggestion of Wood, who knew
-the castle well and had got over his first aesthetic grumblings,
+the [[Castle|castle]] [[Well|well]] and had got over his first aesthetic grumblings,
 a small room remaining intact in the upper ruins was easily turned
 into a dark room, into which Darnaway went out of the white
 daylight to grope by the crimson gleams of a red lamp.
 Wood said, laughing, that the red lamp had reconciled him
 to the vandalism; as that bloodshot darkness was as romantic
-as an alchemist's cave.
+as an alchemist's [[Cave|cave]].
 
 Darnaway had risen at daybreak on the day that he meant to photograph
 the mysterious portrait, and had it carried up from the library
@@ -133,7 +133,7 @@ by the single corkscrew staircase that connected the two floors.
 There he had set it up in the wide white daylight on a sort
 of easel and planted his photographic tripod in front of it.
 He said he was anxious to send a reproduction of it to a great
-antiquary who had written on the antiquities of the house;
+antiquary who had written on the antiquities of the [[house]];
 but the others knew that this was an excuse covering much deeper things.
 It was, if not exactly a spiritual duel between Darnaway and the
 demoniac picture, at least a duel between Darnaway and his own doubts.

@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 22 (part 2)"
+title: "[[Barnaby Rudge]] — Chapter 22 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -18,7 +18,7 @@ At first sight of this phenomenon (for Dolly was by no means accustomed
 to displays of this sort, rather learning from her mother’s example to
 avoid them as much as possible) Mrs Varden expressed her belief that
 never was any woman so beset as she; that her life was a continued scene
-of trial; that whenever she was disposed to be well and cheerful, so
+of trial; that whenever she was disposed to be [[Well|well]] and cheerful, so
 sure were the people around her to throw, by some means or other, a damp
 upon her spirits; and that, as she had enjoyed herself that day, and
 Heaven knew it was very seldom she did enjoy herself so she was now to
@@ -32,19 +32,19 @@ of policy, and though Dolly was in a swoon, it was rendered clear to
 the meanest capacity, that Mrs Varden was the sufferer. Thus when
 Dolly began to get a little better, and passed into that stage in which
 matrons hold that remonstrance and argument may be successfully applied,
-her mother represented to her, with tears in her eyes, that if she had
+her mother represented to her, with [[Tears|tears]] in her eyes, that if she had
 been flurried and worried that day, she must remember it was the common
 lot of humanity, and in especial of womankind, who through the whole
 of their existence must expect no less, and were bound to make up their
-minds to meek endurance and patient resignation. Mrs Varden entreated
+minds to meek [[Endurance|endurance]] and patient [[Resignation|resignation]]. Mrs Varden entreated
 her to remember that one of these days she would, in all probability,
 have to do violence to her feelings so far as to be married; and that
-marriage, as she might see every day of her life (and truly she did) was
+[[Marriage|marriage]], as she might see every day of her life (and truly she did) was
 a state requiring great fortitude and forbearance. She represented to
 her in lively colours, that if she (Mrs V.) had not, in steering her
-course through this vale of tears, been supported by a strong principle
-of duty which alone upheld and prevented her from drooping, she must
-have been in her grave many years ago; in which case she desired to know
+course through this vale of [[Tears|tears]], been supported by a strong principle
+of duty which [[Alone|alone]] upheld and prevented her from drooping, she must
+have been in her [[Grave|grave]] many years ago; in which case she desired to know
 what would have become of that errant spirit (meaning the locksmith), of
 whose eye she was the very apple, and in whose path she was, as it were,
 a shining light and guiding star?
@@ -60,14 +60,14 @@ before, she and her husband lived like cat and dog, and were in the
 habit of exchanging brass candlesticks, pot-lids, flat-irons, and other
 such strong resentments, they were now the happiest and affectionatest
 couple upon earth; as could be proved any day on application at Golden
-Lion Court, number twenty-sivin, second bell-handle on the right-hand
+[[Lion]] [[Court]], number twenty-sivin, second bell-handle on the right-hand
 doorpost. After glancing at herself as a comparatively worthless vessel,
-but still as one of some desert, she besought her to bear in mind that
+but still as one of some [[Desert|desert]], she besought her to bear in mind that
 her aforesaid dear and only mother was of a weakly constitution and
 excitable temperament, who had constantly to sustain afflictions in
 domestic life, compared with which thieves and robbers were as nothing,
-and yet never sunk down or gave way to despair or wrath, but, in
-prize-fighting phraseology, always came up to time with a cheerful
+and yet never sunk down or gave way to [[Despair|despair]] or wrath, but, in
+prize-fighting phraseology, always came up to [[Time|time]] with a cheerful
 countenance, and went in to win as if nothing had happened. When Miggs
 finished her solo, her mistress struck in again, and the two together
 performed a duet to the same purpose; the burden being, that Mrs Varden
@@ -76,16 +76,16 @@ mankind in that apartment, a creature of vicious and brutal habits,
 utterly insensible to the blessings he enjoyed. Of so refined a
 character, indeed, was their talent of assault under the mask of
 sympathy, that when Dolly, recovering, embraced her father tenderly,
-as in vindication of his goodness, Mrs Varden expressed her solemn hope
+as in vindication of his goodness, Mrs Varden expressed her solemn [[Hope|hope]]
 that this would be a lesson to him for the remainder of his life,
-and that he would do some little justice to a woman’s nature ever
-afterwards--in which aspiration Miss Miggs, by divers sniffs and
+and that he would do some little justice to a woman’s [[Nature|nature]] ever
+afterwards--in which [[Aspiration|aspiration]] Miss Miggs, by divers sniffs and
 coughs, more significant than the longest oration, expressed her entire
 concurrence.
 
 But the great joy of Miggs’s heart was, that she not only picked up
 a full account of what had happened, but had the exquisite delight of
-conveying it to Mr Tappertit for his jealousy and torture. For that
+conveying it to Mr Tappertit for his [[Jealousy|jealousy]] and torture. For that
 gentleman, on account of Dolly’s indisposition, had been requested to
 take his supper in the workshop, and it was conveyed thither by Miss
 Miggs’s own fair hands.
@@ -95,7 +95,7 @@ me, Simmun!’
 
 Mr Tappertit, who was not in the best of humours, and who disliked Miss
 Miggs more when she laid her hand on her heart and panted for breath
-than at any other time, as her deficiency of outline was most apparent
+than at any other [[Time|time]], as her deficiency of outline was most apparent
 under such circumstances, eyed her over in his loftiest style, and
 deigned to express no curiosity whatever.
 
@@ -108,32 +108,32 @@ his fair friend to be more explicit, and demanded to know what she meant
 by ‘her.’
 
 ‘Why, that Dolly,’ said Miggs, with an extremely sharp emphasis on the
-name. ‘But, oh upon my word and honour, young Joseph Willet is a brave
+name. ‘But, oh upon my word and [[Honour|honour]], young Joseph Willet is a brave
 one; and he do deserve her, that he do.’
 
 ‘Woman!’ said Mr Tappertit, jumping off the counter on which he was
 seated; ‘beware!’
 
-‘My stars, Simmun!’ cried Miggs, in affected astonishment. ‘You frighten
-me to death! What’s the matter?’
+‘My [[Stars|stars]], Simmun!’ cried Miggs, in affected astonishment. ‘You frighten
+me to [[Death|death]]! What’s the matter?’
 
-‘There are strings,’ said Mr Tappertit, flourishing his bread-and-cheese
+‘There are strings,’ said Mr Tappertit, flourishing his bread-and-[[cheese]]
 knife in the air, ‘in the human heart that had better not be wibrated.
 That’s what’s the matter.’
 
-‘Oh, very well--if you’re in a huff,’ cried Miggs, turning away.
+‘Oh, very [[Well|well]]--if you’re in a huff,’ cried Miggs, turning away.
 
 ‘Huff or no huff,’ said Mr Tappertit, detaining her by the wrist. ‘What
 do you mean, Jezebel? What were you going to say? Answer me!’
 
 Notwithstanding this uncivil exhortation, Miggs gladly did as she was
-required; and told him how that their young mistress, being alone in
+required; and told him how that their young mistress, being [[Alone|alone]] in
 the meadows after dark, had been attacked by three or four tall men, who
 would have certainly borne her away and perhaps murdered her, but for
 the timely arrival of Joseph Willet, who with his own single hand put
 them all to flight, and rescued her; to the lasting admiration of his
-fellow-creatures generally, and to the eternal love and gratitude of
-Dolly Varden.
+fellow-creatures generally, and to the eternal [[Love|love]] and gratitude of
+[[Dolly Varden]].
 
 ‘Very good,’ said Mr Tappertit, fetching a long breath when the tale was
 told, and rubbing his hair up till it stood stiff and straight on end
@@ -151,7 +151,7 @@ stimulated by quietness and Toby, had become talkative, and was disposed
 to take a cheerful review of the occurrences of the day. But Mrs
 Varden, whose practical religion (as is not uncommon) was usually of the
 retrospective order, cut him short by declaiming on the sinfulness of
-such junketings, and holding that it was high time to go to bed. To bed
+such junketings, and holding that it was high [[Time|time]] to go to bed. To bed
 therefore she withdrew, with an aspect as grim and gloomy as that of the
 Maypole’s own state couch; and to bed the rest of the establishment soon
 afterwards repaired.

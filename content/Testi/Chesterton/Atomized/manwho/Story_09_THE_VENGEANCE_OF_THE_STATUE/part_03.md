@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE VENGEANCE OF THE STATUE (part 3)"
+title: "[[manwho]] — THE VENGEANCE OF THE STATUE (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 of the eighteenth century; and a whole row of them ran as on a
 
-terrace along the last bank at the bottom, opposite the back door.
+terrace along the last bank at the [[Bottom|bottom]], opposite the back door.
 
 This detail fixed itself first in March's mind merely because it
 
@@ -36,7 +36,7 @@ venerable babies, and the baby had soft gray hair. Everything about
 
 him was soft, to his speech and his way of walking; but over and
 
-above that his chief function seemed to be sleep. People left alone
+above that his chief function seemed to be [[Sleep|sleep]]. People left [[Alone|alone]]
 
 with him got so used to his eyes being closed that they were almost
 
@@ -60,19 +60,19 @@ buttonhole and his festive trick of being always slightly
 
 overdressed. It was something of a euphemism to call him a
 
-well-known man about town. There was perhaps more mystery in the
+[[Well|well]]-known man about town. There was perhaps more mystery in the
 
 question of how a man who lived for pleasure seemed to get so little
 
 pleasure out of it. Sir David Archer, the Foreign Secretary, was the
 
-only one of them who was a self-made man, and the only one of them
+only one of them who was a [[Self-Made Man|self-made man]], and the only one of them
 
-who looked like an aristocrat. He was tall and thin and very
+who looked like an [[aristocrat]]. He was tall and thin and very
 
 handsome, with a grizzled beard; his gray hair was very curly, and
 
-even rose in front in two rebellious ringlets that seemed to the
+even [[Rose|rose]] in front in two rebellious ringlets that seemed to the
 
 fanciful to tremble like the antennae of some giant insect, or to
 
@@ -88,7 +88,7 @@ somewhat nervous condition, whatever might be the cause of it.
 
 crooked?" he said to March, as they walked up and down in the back
 
-garden below the line of dingy statues. "Women get into it when
+[[Garden|garden]] below the line of dingy statues. "Women get into it when
 
 they've worked too hard; and I've been working pretty hard lately,
 
@@ -104,11 +104,11 @@ topple over. The damned thing is that it doesn't topple over and be
 
 done with it. See, it's clamped with an iron prop. Don't be
 
-surprised if I get up in the middle of the night to hike it down."
+surprised if I get up in the middle of the [[Night|night]] to hike it down."
 
 
 
-They paced the path for a few moments in silence and then he
+They paced the path for a few moments in [[Silence|silence]] and then he
 
 continued. "It's odd those little things seem specially big when
 
@@ -120,9 +120,9 @@ some work."
 
 Horne Fisher evidently allowed for all the neurotic possibilities of
 
-Archer and the dissipated habits of Herries; and whatever his faith
+Archer and the dissipated habits of Herries; and whatever his [[Faith|faith]]
 
-in their present firmness, did not unduly tax their time and
+in their present firmness, did not unduly tax their [[Time|time]] and
 
 attention, even in the case of the Prime Minister. He had got the
 
@@ -136,7 +136,7 @@ Hewitt, a rather colorless country squire who had been a good
 
 soldier, and was the military adviser of the committee. He was
 
-charged with expediting the government pledge, along with the
+charged with expediting the [[government]] pledge, along with the
 
 concerted military plans, to the half-mutinous command in the west;
 
@@ -148,7 +148,7 @@ east. Over and above this military official, the only other person
 
 present was a police official, a certain Doctor Prince, originally a
 
-police surgeon and now a distinguished detective, sent to be a
+police surgeon and now a distinguished [[Detective|detective]], sent to be a
 
 bodyguard to the group. He was a square-faced man with big
 
@@ -168,17 +168,17 @@ chestnut hair and a long saturnine face with large but fine
 
 features. He was probably the one really efficient person in the
 
-house.
+[[house]].
 
 
 
 After about four days of the informal council, March had come to
 
-feel a sort of grotesque sublimity about these dubious figures,
+feel a sort of [[Grotesque|grotesque]] sublimity about these dubious figures,
 
 defiant in the twilight of danger, as if they were hunchbacks and
 
-cripples left alone to defend a town. All were working hard; and he
+cripples left [[Alone|alone]] to defend a town. All were working hard; and he
 
 himself looked up from writing a page of memoranda in a private room
 
@@ -190,7 +190,7 @@ moment that gentleman shut the door behind him and said, quietly:
 
 
 
-"Well, the worst has happened. Or nearly the worst."
+"[[Well]], the worst has happened. Or nearly the worst."
 
 
 

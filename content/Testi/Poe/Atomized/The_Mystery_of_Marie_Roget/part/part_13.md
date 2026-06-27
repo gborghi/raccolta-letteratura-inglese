@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 13)"
+title: "[[The Mystery of Marie Roget]] (part 13)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -24,7 +24,7 @@ tags:
 
       “I repeat that it is no more than fact, that the larger portion
 
-      of all truth has sprung from the collateral; and it is but in
+      of all [[Truth|truth]] has sprung from the collateral; and it is but in
 
       accordance with the spirit of the principle involved in this
 
@@ -52,9 +52,9 @@ tags:
 
       of the affair of the affidavits. The result was a firm conviction
 
-      of their validity, and of the consequent innocence of St.
+      of their validity, and of the consequent [[innocence]] of St.
 
-      Eustache. In the mean time my friend occupied himself, with what
+      Eustache. In the mean [[Time|time]] my friend occupied himself, with what
 
       seemed to me a minuteness altogether objectless, in a scrutiny of
 
@@ -72,7 +72,7 @@ tags:
 
       Royal. At the end of a week, however, she re-appeared at her
 
-      customary comptoir, as well as ever, with the exception of a
+      customary comptoir, as [[Well|well]] as ever, with the exception of a
 
       slight paleness not altogether usual. It was given out by
 
@@ -82,7 +82,7 @@ tags:
 
       hushed up. We presume that the present absence is a freak of the
 
-      same nature, and that, at the expiration of a week, or perhaps of
+      same [[Nature|nature]], and that, at the expiration of a week, or perhaps of
 
       a month, we shall have her among us again.”—Evening Paper—Monday,
 
@@ -92,7 +92,7 @@ tags:
 
       “An evening journal of yesterday, refers to a former mysterious
 
-      disappearance of Mademoiselle Rogêt. It is well known that,
+      disappearance of Mademoiselle Rogêt. It is [[Well|well]] known that,
 
       during the week of her absence from Le Blanc’s parfumerie, she
 
@@ -100,9 +100,9 @@ tags:
 
       debaucheries. A quarrel, it is supposed, providentially led to
 
-      her return home. We have the name of the Lothario in question,
+      her return [[Home|home]]. We have the name of the Lothario in question,
 
-      who is, at present, stationed in Paris, but, for obvious reasons,
+      who is, at present, stationed in [[Paris]], but, for obvious reasons,
 
       forbear to make it public.”—Le Mercurie—Tuesday Morning, June 24.
 
@@ -112,13 +112,13 @@ tags:
 
       “An outrage of the most atrocious character was perpetrated near
 
-      this city the day before yesterday. A gentleman, with his wife
+      this [[City|city]] the day before yesterday. A gentleman, with his wife
 
       and daughter, engaged, about dusk, the services of six young men,
 
       who were idly rowing a boat to and fro near the banks of the
 
-      Seine, to convey him across the river. Upon reaching the opposite
+      Seine, to convey him across the [[River|river]]. Upon reaching the opposite
 
       shore, the three passengers stepped out, and had proceeded so far
 
@@ -132,7 +132,7 @@ tags:
 
       far from that at which she had originally entered the boat with
 
-      her parents. The villains have escaped for the time, but the
+      her parents. The villains have escaped for the [[Time|time]], but the
 
       police are upon their trail, and some of them will soon be
 
@@ -162,7 +162,7 @@ tags:
 
       victim of one of the numerous bands of blackguards which infest
 
-      the vicinity of the city upon Sunday. Our own opinion is
+      the vicinity of the [[City|city]] upon [[Sunday]]. Our own opinion is
 
       decidedly in favor of this supposition. We shall endeavor to make
 
@@ -176,13 +176,13 @@ tags:
 
       service, saw an empty boat floating down the Seine. Sails were
 
-      lying in the bottom of the boat. The bargeman towed it under the
+      lying in the [[Bottom|bottom]] of the boat. The bargeman towed it under the
 
       barge office. The next morning it was taken from thence, without
 
       the knowledge of any of the officers. The rudder is now at the
 
-      barge office.”—Le Diligence—Thursday, June 26.
+      barge office.”—Le Diligence—[[thursday|Thursday]], June 26.
 
 
 
@@ -212,4 +212,4 @@ tags:
 
       us admit the first elopement to have resulted in a quarrel
 
-      between the lovers, and the return home of the betrayed. We are
+      between the [[lovers]], and the return [[Home|home]] of the betrayed. We are

@@ -1,5 +1,5 @@
 ---
-title: "Troilus and Cressida — Act II, Scene 3 — exchange (dialogue) [1]"
+title: "[[Troilus]] and [[Cressida]] — Act II, Scene 3 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/TROILUS-AND-CRESSIDA-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Thersites |
+| *(didascalia)* | Enter [[Thersites]] |

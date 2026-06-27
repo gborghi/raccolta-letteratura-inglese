@@ -1,5 +1,5 @@
 ---
-title: "trees of pride"
+title: "trees of [[Pride|pride]]"
 author: "Chesterton"
 unitType: work
 parentWork: "Works/trees-of-pride-(Chesterton)"
@@ -15,25 +15,25 @@ tags:
 
 Etext prepared by Dianne Bean of Phoenix, Arizona.
 
-THE TREES OF PRIDE
+THE TREES OF [[Pride|PRIDE]]
 
 by Gilbert K. Chesterton
 
 1922
 
-THE TREES OF PRIDE:
+THE TREES OF [[Pride|PRIDE]]:
 
   I. THE TALE OF THE PEACOCK TREES
   II. THE WAGER OF SQUIRE VANE
-  III. THE MYSTERY OF THE WELL
-  IV. THE CHASE AFTER THE TRUTH
+  III. THE MYSTERY OF THE [[Well|WELL]]
+  IV. THE CHASE AFTER THE [[Truth|TRUTH]]
 
-THE TREES OF PRIDE
+THE TREES OF [[Pride|PRIDE]]
 
 I. THE TALE OF THE PEACOCK TREES
 
-Squire Vane was an elderly schoolboy of English education and
-Irish extraction.  His English education, at one of the great
+Squire Vane was an elderly schoolboy of English [[Education|education]] and
+Irish extraction.  His English [[Education|education]], at one of the great
 public schools, had preserved his intellect perfectly and
 permanently at the stage of boyhood.  But his Irish extraction
 subconsciously upset in him the proper solemnity of an old boy,
@@ -46,10 +46,10 @@ an impartiality among the religions of India; but Vane's attempt
 to meet the Moslem halfway by kicking off one boot at the gates
 of the mosque, was felt not so much to indicate true impartiality
 as something that could only be called an aggressive indifference.
-Again, it is true that an English aristocrat can hardly enter
+Again, it is true that an English [[aristocrat]] can hardly enter
 fully into the feelings of either party in a quarrel between
 a Russian Jew and an Orthodox procession carrying relics;
-but Vane's idea that the procession might carry the Jew as well,
+but Vane's idea that the procession might carry the Jew as [[Well|well]],
 himself a venerable and historic relic, was misunderstood on both sides.
 In short, he was a man who particularly prided himself on having
 no nonsense about him; with the result that he was always doing
@@ -57,19 +57,19 @@ nonsensical things.  He seemed to be standing on his head merely
 to prove that he was hard-headed.
 
 He had just finished a hearty breakfast, in the society of his daughter,
-at a table under a tree in his garden by the Cornish coast.
+at a table under a tree in his [[Garden|garden]] by the Cornish coast.
 For, having a glorious circulation, he insisted on as many outdoor
-meals as possible, though spring had barely touched the woods
+meals as possible, though [[Spring|spring]] had barely touched the woods
 and warmed the seas round that southern extremity of England.
 His daughter Barbara, a good-looking girl with heavy red hair
-and a face as grave as one of the garden statues, still sat
-almost motionless as a statue when her father rose.  A fine tall
+and a face as [[Grave|grave]] as one of the [[Garden|garden]] statues, still sat
+almost motionless as a statue when her father [[Rose|rose]].  A fine tall
 figure in light clothes, with his white hair and mustache flying
 backwards rather fiercely from a face that was good-humored enough,
 for he carried his very wide Panama hat in his hand, he strode
-across the terraced garden, down some stone steps flanked with old
+across the terraced [[Garden|garden]], down some stone steps flanked with old
 ornamental urns to a more woodland path fringed with little trees,
-and so down a zigzag road which descended the craggy Cliff
+and so down a zigzag [[Road|road]] which descended the craggy Cliff
 to the shore, where he was to meet a guest arriving by boat.
 A yacht was already in the blue bay, and he could see a boat pulling
 toward the little paved pier.
@@ -80,9 +80,9 @@ unfamiliar phase which the world was inclined to call
 hot-headedness. The fact was that the Cornish peasantry, who composed
 his tenantry and domestic establishment, were far from being people
 with no nonsense about them.  There was, alas! a great deal of
-nonsense about them; with ghosts, witches, and traditions as old as
+nonsense about them; with [[Ghosts|ghosts]], witches, and traditions as old as
 Merlin, they seemed to surround him with a fairy ring of nonsense.
-But the magic circle had one center: there was one point in which the
+But the [[Magic|magic]] circle had one center: there was one point in which the
 curving conversation of the rustics always returned.  It was a point
 that always pricked the Squire to exasperation, and even in this short
 walk he seemed to strike it everywhere.  He paused before descending
@@ -99,23 +99,23 @@ trees shrubs, do you?  Fine tall trees--you ought to be proud of them."
 
 "Ill weeds grow apace," observed the gardener.  "Weeds can
 grow as houses when somebody plants them."  Then he added:
-"Him that sowed tares in the Bible, Squire."
+"Him that sowed tares in the [[Bible]], Squire."
 
 "Oh, blast your--" began the Squire, and then replaced the more apt
-and alliterative word "Bible" by the general word "superstition."
+and alliterative word "[[Bible]]" by the general word "superstition."
 He was himself a robust rationalist, but he went to church to set
 his tenants an example.  Of what, it would have puzzled him to say.
 
 A little way along the lower path by the trees he encountered
-a woodcutter, one Martin, who was more explicit, having more
-of a grievance.  His daughter was at that time seriously ill
+a [[Woodcutter|woodcutter]], one Martin, who was more explicit, having more
+of a grievance.  His daughter was at that [[Time|time]] seriously ill
 with a fever recently common on that coast, and the Squire,
 who was a kind-hearted gentleman, would normally have made allowances
 for low spirits and loss of temper.  But he came near to losing
-his own again when the peasant persisted in connecting his tragedy
+his own again when the peasant persisted in connecting his [[Tragedy|tragedy]]
 with the traditional monomania about the foreign trees.
 
-"If she were well enough I'd move her," said the woodcutter,
+"If she were [[Well|well]] enough I'd move her," said the [[Woodcutter|woodcutter]],
 "as we can't move them, I suppose.  I'd just like to get my chopper
 into them and feel 'em come crashing down."
 
@@ -146,7 +146,7 @@ the sunset, was itself almost as fantastic as a sunset cloud.
 It was cut out against the emerald or indigo of the sea in graven
 horns and crescents that might be the cast or mold of some such
 crested serpents; and, beneath, was pierced and fretted by caves
-and crevices, as if by the boring of some such titanic worms.
+and crevices, as if by the boring of some such [[titanic]] worms.
 Over and above this draconian architecture of the earth a veil
 of gray woods hung thinner like a vapor; woods which the witchcraft
 of the sea had, as usual, both blighted and blown out of shape.
@@ -158,14 +158,14 @@ It was here that the sight appeared to which so many eyes and minds
 seemed to be almost automatically turning.
 
 Out of the middle of this low, and more or less level wood,
-rose three separate stems that shot up and soared into the sky like a
+[[Rose|rose]] three separate stems that shot up and soared into the sky like a
 lighthouse out of the waves or a church spire out of the village roofs.
 They formed a clump of three columns close together, which might
-well be the mere bifurcation, or rather trifurcation, of one tree,
+[[Well|well]] be the mere bifurcation, or rather trifurcation, of one tree,
 the lower part being lost or sunken in the thick wood around.
 Everything about them suggested something stranger and more southern
 than anything even in that last peninsula of Britain which pushes
-out farthest toward Spain and Africa and the southern stars.
+out farthest toward Spain and Africa and the southern [[Stars|stars]].
 Their leathery leafage had sprouted in advance of the faint mist
 of yellow-green around them, and it was of another and less
 natural green, tinged with blue, like the colors of a kingfisher.
@@ -173,10 +173,10 @@ But one might fancy it the scales of some three-headed dragon
 towering over a herd of huddled and fleeing cattle.
 
 "I am exceedingly sorry your girl is so unwell," said Vane shortly.
-"But really--" and he strode down the steep road with plunging strides.
+"But really--" and he strode down the steep [[Road|road]] with plunging strides.
 
 The boat was already secured to the little stone jetty,
-and the boatman, a younger shadow of the woodcutter--and, indeed,
+and the boatman, a younger [[Shadow|shadow]] of the [[Woodcutter|woodcutter]]--and, indeed,
 a nephew of that useful malcontent--saluted his territorial lord
 with the sullen formality of the family.  The Squire acknowledged
 it casually and had soon forgotten all such things in shaking hands
@@ -190,12 +190,12 @@ straight from a considerable sea voyage; and he carried something
 in his hand which in his long European travels, and even longer
 European visits, he had almost forgotten to call a gripsack.
 
-Mr. Cyprian Paynter was an American who lived in Italy.
+Mr. Cyprian Paynter was an American who lived in [[Italy]].
 There was a good deal more to be said about him, for he was a
 very acute and cultivated gentleman; but those two facts would,
 perhaps, cover most of the others.  Storing his mind like a museum
-with the wonder of the Old World, but all lit up as by a window
-with the wonder of the New, he had fallen heir to some thing
+with the [[Wonder|wonder]] of the Old World, but all lit up as by a [[Window|window]]
+with the [[Wonder|wonder]] of the New, he had fallen heir to some thing
 of the unique critical position of Ruskin or Pater, and was further
 famous as a discoverer of minor poets.  He was a judicious discoverer,
 and he did not turn all his minor poets into major prophets.
@@ -207,7 +207,7 @@ He had a more humane sympathy with the modern flame kindled from
 the embers of Celtic mythology, and it was in reality the recent
 appearance of a Cornish poet, a sort of parallel to the new
 Irish poets, which had brought him on this occasion to Cornwall.
-He was, indeed, far too well-mannered to allow a host to guess
+He was, indeed, far too [[Well|well]]-mannered to allow a host to guess
 that any pleasure was being sought outside his own hospitality.
 He had a long standing invitation from Vane, whom he had met in Cyprus
 in the latter's days of undiplomatic diplomacy; and Vane was not aware
@@ -219,12 +219,12 @@ to lunch on the very day of the American critic's arrival.
 
 Mr. Paynter was still standing with his gripsack, gazing in a trance
 of true admiration at the hollowed crags, topped by the gray,
-grotesque wood, and crested finally by the three fantastic trees.
+[[Grotesque|grotesque]] wood, and crested finally by the three fantastic trees.
 
 "It is like being shipwrecked on the coast of fairyland," he said,
 
-"I hope you haven't been shipwrecked much," replied his host, smiling.
-"I fancy Jake here can look after you very well."
+"I [[Hope|hope]] you haven't been shipwrecked much," replied his host, smiling.
+"I fancy Jake here can look after you very [[Well|well]]."
 
 Mr. Paynter looked across at the boatman and smiled also.
 "I am afraid," he said, "our friend is not quite so enthusiastic
@@ -232,13 +232,13 @@ for this landscape as I am."
 
 "Oh, the trees, I suppose!" said the Squire wearily.
 
-The boatman was by normal trade a fisherman; but as his house,
+The boatman was by normal trade a fisherman; but as his [[house]],
 built of black tarred timber, stood right on the foreshore a few yards
 from the pier, he was employed in such cases as a sort of ferryman.
 He was a big, black-browed youth generally silent, but something
 seemed now to sting him into speech.
 
-"Well, sir," he said, "everybody knows it's not natural.
+"[[Well]], sir," he said, "everybody knows it's not natural.
 Everybody knows the sea blights trees and beats them under,
 when they're only just trees.  These things thrive like some
 unholy great seaweed that don't belong to the land at all.
@@ -246,21 +246,21 @@ It's like the--the blessed sea serpent got on shore, Squire,
 and eating everything up."
 
 "There is some stupid legend," said Squire Vane gruffly.
-"But come up into the garden; I want to introduce you to my daughter."
+"But come up into the [[Garden|garden]]; I want to introduce you to my daughter."
 
 When, however, they reached the little table under the tree,
 the apparently immovable young lady had moved away after all,
-and it was some time before they came upon the track of her.
+and it was some [[Time|time]] before they came upon the track of her.
 She had risen, though languidly, and wandered slowly along the upper
-path of the terraced garden looking down on the lower path where it
+path of the terraced [[Garden|garden]] looking down on the lower path where it
 ran closer to the main bulk of the little wood by the sea.
 
 Her languor was not a feebleness but rather a fullness of life,
-like that of a child half awake; she seemed to stretch herself and enjoy
+like that of a [[Child|child]] half awake; she seemed to stretch herself and enjoy
 everything without noticing anything.  She passed the wood, into the gray
 huddle of which a single white path vanished through a black hole.
 Along this part of the terrace ran something like a low rampart
-or balustrade, embowered with flowers at intervals; and she leaned
+or balustrade, embowered with [[Flowers|flowers]] at intervals; and she leaned
 over it, looking down at another glimpse of the glowing sea behind
 the clump of trees, and on another irregular path tumbling down
 to the pier and the boatman's cottage on the beach.
@@ -276,7 +276,7 @@ clothes common enough in texture, yet carried in an uncommon fashion.
 He wore what was presumably a light waterproof, perhaps through having
 come off the sea; but it was held at the throat by one button,
 and hung, sleeves and all, more like a cloak than a coat.
-He rested one bony hand on a black stick; under the shadow
+He rested one bony hand on a black stick; under the [[Shadow|shadow]]
 of his broad hat his black hair hung down in a tuft or two.
 His face, which was swarthy, but rather handsome in itself,
 wore something that may have been a slightly embarrassed smile,
@@ -302,7 +302,7 @@ so to speak, a jongleur."
 "A what?" asked Barbara.
 
 "A minstrel, shall we say?" answered the newcomer, and looked up
-at her more steadily.  During a rather odd silence their eyes
+at her more steadily.  During a rather odd [[Silence|silence]] their eyes
 rested on each other.  What she saw has been already noted,
 though by her, at any rate, not in the least understood.
 What he saw was a decidedly beautiful woman with a statuesque face
@@ -314,11 +314,11 @@ may really have looked over that wall and thrown him money?"
 
 "Do you want money?" she asked, all at sea.
 
-"Well," drawled the stranger, "in the sense of lacking it, perhaps, but I
-fear there is no place now for a minstrel, except nigger minstrel.
+"[[Well]]," drawled the stranger, "in the sense of lacking it, perhaps, but I
+[[Fear|fear]] there is no place now for a minstrel, except nigger minstrel.
 I must apologize for not blacking my face."
 
-She laughed a little in her bewilderment, and said:  "Well, I hardly
+She laughed a little in her bewilderment, and said:  "[[Well]], I hardly
 think you need do that."
 
 "You think the natives here are dark enough already, perhaps,"
@@ -331,13 +331,13 @@ and wondered what would happen next.
 "The prospect is certainly beautiful," he assented, in the same
 enigmatic manner.  "There is only one thing in it I am doubtful about."
 
-While she stood in silence he slowly lifted his black stick like a long
+While she stood in [[Silence|silence]] he slowly lifted his black stick like a long
 black finger and pointed it at the peacock trees above the wood.
 And a queer feeling of disquiet fell on the girl, as if he were,
 by that mere gesture, doing a destructive act and could send a blight
-upon the garden.
+upon the [[Garden|garden]].
 
-The strained and almost painful silence was broken by the voice
+The strained and almost painful [[Silence|silence]] was broken by the voice
 of Squire Vane, loud even while it was still distant.
 
 "We couldn't make out where you'd got to, Barbara," he said.
@@ -359,19 +359,19 @@ to the table under the tree.
 
 Cyprian Paynter followed, inwardly revolving a puzzle which had taken
 even his experience by surprise.  The American, if intellectually
-an aristocrat, was still socially and subconsciously a democrat.
+an [[aristocrat]], was still socially and subconsciously a democrat.
 It had never crossed his mind that the poet should be counted
 lucky to know the squire and not the squire to know the poet.
 The honest patronage in Vane's hospitality was something which made
-Paynter feel he was, after all, an exile in England.
+Paynter feel he was, after all, an [[Exile|exile]] in England.
 
 The Squire, anticipating the trial of luncheon with a strange
 literary man, had dealt with the case tactfully from his own standpoint.
-County society might have made the guest feel like a fish out of water;
+County society might have made the guest feel like a fish out of [[Water|water]];
 and, except for the American critic and the local lawyer and doctor,
 worthy middle-class people who fitted into the picture, he had kept it
 as a family party.  He was a widower, and when the meal had been laid
-out on the garden table, it was Barbara who presided as hostess.  She had
+out on the [[Garden|garden]] table, it was Barbara who presided as hostess.  She had
 the new poet on her right hand and it made her very uncomfortable.
 She had practically offered that fallacious jongleur money,
 and it did not make it easier to offer him lunch.
@@ -389,18 +389,18 @@ theater for anything dramatic."
 a faint satisfaction.  "It's all about those things over there
 we call the peacock trees--I suppose, because of the queer color
 of the leaf, you know, though I have heard they make a shrill noise
-in a high wind that's supposed to be like the shriek of a peacock;
+in a high [[Wind|wind]] that's supposed to be like the shriek of a peacock;
 something like a bamboo in the botanical structure, perhaps.
-Well, those trees are supposed to have been brought over from Barbary
+[[Well]], those trees are supposed to have been brought over from Barbary
 by my ancestor Sir Walter Vane, one of the Elizabethan patriots
 or pirates, or whatever you call them.  They say that at the end
 of his last voyage the villagers gathered on the beach down there
 and saw the boat standing in from the sea, and the new trees stood
-up in the boat like a mast, all gay with leaves out of season,
+up in the boat like a mast, all gay with [[Leaves|leaves]] out of season,
 like green bunting.  And as they watched they thought at first that
 the boat was steering oddly, and then that it wasn't steering at all;
 and when it drifted to the shore at last every man in that boat
-was dead, and Sir Walter Vane, with his sword drawn, was leaning
+was dead, and Sir Walter Vane, with his [[Sword|sword]] drawn, was leaning
 up against the tree trunk, as stiff as the tree."
 
 "Now this is rather curious," remarked Paynter thoughtfully.
@@ -410,7 +410,7 @@ comes hundreds of miles across the sea."
 
 He tapped meditatively on the table with his thin, taper fingers,
 like a man trying to recall a tune.  He had, indeed, made a hobby
-of such fables, and he was not without vanity about his artistic
+of such fables, and he was not without [[Vanity|vanity]] about his artistic
 touch in telling them.
 
 "Oh, do tell us your part of it?" cried Barbara Vane, whose air of sunny
@@ -421,47 +421,47 @@ and then began playing idly with a quaint ring on his long finger
 as he talked.
 
 "If you go down to the Barbary Coast, where the last wedge
-of the forest narrows down between the desert and the great
+of the forest narrows down between the [[Desert|desert]] and the great
 tideless sea, you will find the natives still telling a strange
 story about a saint of the Dark Ages.  There, on the twilight
 border of the Dark Continent, you feel the Dark Ages.
 I have only visited the place once, though it lies, so to speak,
-opposite to the Italian city where I lived for years, and yet you
+opposite to the Italian [[City|city]] where I lived for years, and yet you
 would hardly believe how the topsy-turvydom and transmigration of this
 myth somehow seemed less mad than they really are, with the wood
-loud with lions at night and that dark red solitude beyond.
+loud with lions at [[Night|night]] and that dark red [[Solitude|solitude]] beyond.
 They say that the hermit St. Securis, living there among trees,
-grew to love them like companions; since, though great giants
+grew to [[Love|love]] them like companions; since, though great giants
 with many arms like Briareus, they were the mildest and most
 blameless of the creatures; they did not devour like the lions,
-but rather opened their arms to all the little birds.
-And he prayed that they might be loosened from time to time
+but rather opened their arms to all the little [[Birds|birds]].
+And he prayed that they might be loosened from [[Time|time]] to [[Time|time]]
 to walk like other things.  And the trees were moved upon
-the prayers of Securis, as they were at the songs of Orpheus.
-The men of the desert were stricken from afar with fear, seeing the saint
+the prayers of Securis, as they were at the [[songs]] of Orpheus.
+The men of the [[Desert|desert]] were stricken from afar with [[Fear|fear]], seeing the saint
 walking with a walking grove, like a schoolmaster with his boys.
 For the trees were thus freed under strict conditions of discipline.
 They were to return at the sound of the hermit's bell, and, above all,
 to copy the wild beasts in walking only to destroy and devour nothing.
-Well, it is said that one of the trees heard a voice that was
-not the saint's; that in the warm green twilight of one summer
+[[Well]], it is said that one of the trees heard a voice that was
+not the saint's; that in the warm green twilight of one [[Summer|summer]]
 evening it became conscious of some thing sitting and speaking
 in its branches in the guise of a great bird, and it was that
 which once spoke from a tree in the guise of a great serpent.
-As the voice grew louder among its murmuring leaves the tree was
-torn with a great desire to stretch out and snatch at the birds
+As the voice grew louder among its murmuring [[Leaves|leaves]] the tree was
+torn with a great [[Desire|desire]] to stretch out and snatch at the [[Birds|birds]]
 that flew harmlessly about their nests, and pluck them to pieces.
-Finally, the tempter filled the tree-top with his own birds of pride,
+Finally, the tempter filled the tree-top with his own [[Birds|birds]] of [[Pride|pride]],
 the starry pageant of the peacocks.  And the spirit of the brute overcame
-the spirit of the tree, and it rent and consumed the blue-green birds
+the spirit of the tree, and it rent and consumed the blue-green [[Birds|birds]]
 till not a plume was left, and returned to the quiet tribe of trees.
-But they say that when spring came all the other trees put forth leaves,
+But they say that when [[Spring|spring]] came all the other trees put forth [[Leaves|leaves]],
 but this put forth feathers of a strange hue and pattern.
 And by that monstrous assimilation the saint knew of the sin,
 and he rooted that one tree to the earth with a judgment,
 so that evil should fall on any who removed it again.  That, Squire,
 is the beginning in the deserts of the tale that ended here,
-almost in this garden."
+almost in this [[Garden|garden]]."
 
 "And the end is about as reliable as the beginning, I should say,"
 said Vane.  "Yours is a nice plain tale for a small tea-party;
@@ -472,7 +472,7 @@ feel like a cannibal."
 
 "Ex Africa," said the lawyer, smiling.  "It comes from a
 cannibal country.  I think it's the touch of the tar-brush,
-that nightmare feeling that you don't know whether the hero is a plant
+that [[nightmare]] feeling that you don't know whether the [[Hero|hero]] is a plant
 or a man or a devil.  Don't you feel it sometimes in 'Uncle Remus'?"
 
 "True," said Paynter.  "Perfectly true."  And he looked at the lawyer
@@ -485,17 +485,17 @@ the head with the red hair was heavy and powerful; the figure
 in its dark, quiet clothes was comparatively insignificant,
 as was Napoleon's. He seemed more at ease in the Squire's society
 than the doctor, who, though a gentleman, was a shy one, and a mere
-shadow of his professional brother.
+[[Shadow|shadow]] of his professional brother.
 
 "As you truly say," remarked Paynter, "the story seems touched
 with quite barbarous elements, probably Negro.  Originally, though,
 I think there was really a hagiological story about some hermit,
 though some of the higher critics say St. Securis never existed,
-but was only an allegory of arboriculture, since his name is the Latin
+but was only an [[Allegory|allegory]] of arboriculture, since his name is the Latin
 for an ax."
 
 "Oh, if you come to that," remarked the poet Treherne, "you might
-as well say Squire Vane doesn't exist, and that he's only an allegory
+as [[Well|well]] say Squire Vane doesn't exist, and that he's only an [[Allegory|allegory]]
 for a weathercock."  Something a shade too cool about this sally
 drew the lawyer's red brows together.  He looked across the table
 and met the poet's somewhat equivocal smile.
@@ -514,27 +514,27 @@ piece of psychology.  You see men as trees?"
 "As I can't imagine why men should walk, I can't imagine why
 trees shouldn't," answered Treherne.
 
-"Obviously, it is the nature of the organism", interposed the
+"Obviously, it is the [[Nature|nature]] of the organism", interposed the
 medical guest, Dr. Burton Brown; "it is necessary in the very type
 of vegetable structure."
 
 "In other words, a tree sticks in the mud from year's end to
 year's end," answered Treherne.  "So do you stop in your consulting
 room from ten to eleven every day.  And don't you fancy a fairy,
-looking in at your window for a flash after having just jumped over
-the moon and played mulberry bush with the Pleiades, would think you
-were a vegetable structure, and that sitting still was the nature
+looking in at your [[Window|window]] for a flash after having just jumped over
+the [[Moon|moon]] and played mulberry bush with the Pleiades, would think you
+were a vegetable structure, and that sitting still was the [[Nature|nature]]
 of the organism?"
 
 "I don't happen to believe in fairies," said the doctor rather stiffly,
 for the argumentum ad hominem was becoming too common.
 A sulphurous subconscious anger seemed to radiate from the dark poet.
 
-"Well, I should hope not, Doctor," began the Squire, in his
+"[[Well]], I should [[Hope|hope]] not, Doctor," began the Squire, in his
 loud and friendly style, and then stopped, seeing the other's
 attention arrested.  The silent butler waiting on the guests
 had appeared behind the doctor's chair, and was saying
-something in the low, level tones of the well-trained servant.
+something in the low, level tones of the [[Well|well]]-trained servant.
 He was so smooth a specimen of the type that others never noticed,
 at first, that he also repeated the dark portrait, however varnished,
 so common in this particular family of Cornish Celts.
@@ -543,12 +543,12 @@ He went by the name of Miles.  Some felt oppressed by the tribal
 type in this tiny corner of England.  They felt somehow as if all
 these dark faces were the masks of a secret society.
 
-The doctor rose with a half apology.  "I must ask pardon for disturbing
+The doctor [[Rose|rose]] with a half apology.  "I must ask pardon for disturbing
 this pleasant party; I am called away on duty.  Please don't let
 anybody move.  We have to be ready for these things, you know.
 Perhaps Mr. Treherne will admit that my habits are not so very vegetable,
 after all."  With this Parthian shaft, at which there was some laughter,
-he strode away very rapidly across the sunny lawn to where the road
+he strode away very rapidly across the sunny lawn to where the [[Road|road]]
 dipped down toward the village.
 
 "He is very good among the poor," said the girl with
@@ -566,8 +566,8 @@ the lawyer conversationally.
 
 The Squire, too impatient to wait for the yellow-faced Miles, had betaken
 himself indoors for the cigars, and Barbara found herself once more
-paired off with the poet, as she floated along the terrace garden;
-but this time, symbolically enough, upon the same level of lawn.
+paired off with the poet, as she floated along the terrace [[Garden|garden]];
+but this [[Time|time]], symbolically enough, upon the same level of lawn.
 Mr. Treherne looked less eccentric after having shed his curious cloak,
 and seemed a quieter and more casual figure.
 
@@ -576,48 +576,48 @@ and seemed a quieter and more casual figure.
 "And that's the worst of it," replied the man of letters, "for I'm
 horribly afraid I did mean to be rude to you.  When I looked up
 and saw you up there something surged up in me that was in all
-the revolutions of history.  Oh, there was admiration in it too!
+the revolutions of [[history]].  Oh, there was admiration in it too!
 Perhaps there was idolatry in all the iconoclasts."
 
 He seemed to have a power of reaching rather intimate conversation
-in one silent and cat-like bound, as he had scaled the steep road,
+in one silent and cat-like bound, as he had scaled the steep [[Road|road]],
 and it made her feel him to be dangerous, and perhaps unscrupulous.
 She changed the subject sharply, not without it movement toward
 gratifying her own curiosity.
 
 "What DID you mean by all that about walking trees?" she asked.
-"Don't tell me you really believe in a magic tree that eats birds!"
+"Don't tell me you really believe in a [[Magic|magic]] tree that eats [[Birds|birds]]!"
 
 "I should probably surprise you," said Treherne gravely, "more by
 what I don't believe than by what I do."
 
 Then, after a pause, he made a general gesture toward
-the house and garden.  "I'm afraid I don't believe in all this;
+the [[house]] and [[Garden|garden]].  "I'm afraid I don't believe in all this;
 for instance, in Elizabethan houses and Elizabethan families
 and the way estates have been improved, and the rest of it.
-Look at our friend the woodcutter now."  And he pointed to the man
+Look at our friend the [[Woodcutter|woodcutter]] now."  And he pointed to the man
 with the quaint black beard, who was still plying his ax upon
 the timber below.
 
 "That man's family goes back for ages, and it was far richer
 and freer in what you call the Dark Ages than it is now.
-Wait till the Cornish peasant writes a history of Cornwall."
+Wait till the Cornish peasant writes a [[history]] of Cornwall."
 
 "But what in the world," she demanded, "has this to do with whether
-you believe in a tree eating birds?"
+you believe in a tree eating [[Birds|birds]]?"
 
 "Why should I confess what I believe in?" he said, a muffled drum
 of mutiny in his voice.  "The gentry came here and took our land
 and took our labor and took our customs.  And now, after exploitation,
-a viler thing, education!  They must take our dreams!"
+a viler thing, [[Education|education]]!  They must take our [[Dreams|dreams]]!"
 
-"Well, this dream was rather a nightmare, wasn't it?"
-asked Barbara, smiling; and the next moment grew quite grave,
+"[[Well]], this dream was rather a [[nightmare]], wasn't it?"
+asked Barbara, smiling; and the next moment grew quite [[Grave|grave]],
 saying almost anxiously:  "But here's Doctor Brown back again.
 Why, he looks quite upset."
 
 The doctor, a black figure on the green lawn, was, indeed, coming toward
-them at a very vigorous walk.  His body and gait very much younger
+them at a very vigorous walk.  His [[Body|body]] and gait very much younger
 than his face, which seemed prematurely lined as with worry;
 his brow was bald, and projected from the straight, dark hair behind it.
 He was visibly paler than when he left the lunch table.
@@ -630,22 +630,22 @@ half an hour ago."
 
 "So am I," said the doctor, and passed on rather abruptly; he ran
 down the stone steps between the stone urns; and they saw him in talk
-with the woodcutter.  They could not see the woodcutter's face.
+with the [[Woodcutter|woodcutter]].  They could not see the [[Woodcutter|woodcutter]]'s face.
 He stood with his back to them, but they saw something
 that seemed more moving than any change of countenance.
-The man's hand holding the ax rose high above his head,
+The man's hand holding the ax [[Rose|rose]] high above his head,
 and for a flash it seemed as if he would have cut down the doctor.
 But in fact he was not looking at the doctor.  His face was set toward
-the cliff, where, sheer out of the dwarf forest, rose, gigantic and
-gilded by the sun, the trees of pride.
+the cliff, where, sheer out of the [[Dwarf|dwarf]] forest, [[Rose|rose]], gigantic and
+gilded by the sun, the trees of [[Pride|pride]].
 
 The strong brown hand made a movement and was empty.
 The ax went circling swiftly through the air, its head showing
 like a silver crescent against the gray twilight of the trees.
 It did not reach its tall objective, but fell among the undergrowth,
-shaking up a flying litter of birds.  But in the poet's memory,
+shaking up a flying litter of [[Birds|birds]].  But in the poet's [[Memory|memory]],
 full of primal things, something seemed to say that he had seen
-the birds of some pagan augury, the ax of some pagan sacrifice.
+the [[Birds|birds]] of some pagan augury, the ax of some pagan sacrifice.
 
 A moment after the man made a heavy movement forward, as if to recover
 his tool; but the doctor put a hand on his arm.
@@ -655,7 +655,7 @@ his tool; but the doctor put a hand on his arm.
 
 Something made the girl look at Treherne.  He stood gazing, his head
 a little bent, and one of his black elf-locks had fallen forward
-over his forehead.  And again she had the sense of a shadow over
+over his forehead.  And again she had the sense of a [[Shadow|shadow]] over
 the grass; she almost felt as if the grass were a host of fairies,
 and that the fairies were not her friends.
 
@@ -663,9 +663,9 @@ II.  THE WAGER OF SQUIRE VANE
 
 It was more than a month before the legend of the peacock trees was
 again discussed in the Squire's circle.  It fell out one evening,
-when his eccentric taste for meals in the garden that gathered
+when his eccentric taste for meals in the [[Garden|garden]] that gathered
 the company round the same table, now lit with a lamp and laid out
-for dinner in a glowing spring twilight.  It was even the same company,
+for dinner in a glowing [[Spring|spring]] twilight.  It was even the same company,
 for in the few weeks intervening they had insensibly grown more and
 more into each other's lives, forming a little group like a club.
 The American aesthete was of course the most active agent, his resolution
@@ -685,7 +685,7 @@ that he announced a new discovery.
 "about those bogey trees of yours; I don't believe you know half the tales
 told round here about them.  It seems they have a way of eating things.
 Not that I have any ethical objection to eating things," he continued,
-helping himself elegantly to green cheese.  "But I have more or less,
+helping himself elegantly to green [[cheese]].  "But I have more or less,
 broadly speaking, an objection to eating people."
 
 "Eating people!" repeated Barbara Vane.
@@ -693,7 +693,7 @@ broadly speaking, an objection to eating people."
 "I know a globe-trotter mustn't be fastidious," replied Mr. Paynter.
 "But I repeat firmly, an objection to eating people.
 The peacock trees seem to have progressed since the happy days of
-innocence when they only ate peacocks.  If you ask the people here--
+[[innocence]] when they only ate peacocks.  If you ask the people here--
 the fisherman who lives on that beach, or the man that mows
 this very lawn in front of us--they'll tell you tales taller
 than any tropical one I brought you from the Barbary Coast.
@@ -703,7 +703,7 @@ in that little wood, tumbled down asleep under the wicked trees,
 and then--evaporated, vanished, was licked up like dew by the sun.
 If you ask them where Harry Hawke is, the widow's little son,
 they'll just tell you he's swallowed; that he was dared to climb
-the trees and sit there all night, and did it.  What the trees did
+the trees and sit there all [[Night|night]], and did it.  What the trees did
 God knows; the habits of a vegetable ogre leave one a little vague.
 But they even add the agreeable detail that a new branch appears
 on the tree when somebody has petered out in this style."
@@ -715,15 +715,15 @@ say you can tell the noise of them among other trees in a gale,
 and I dare say you can.  But even Cornwall isn't a lunatic asylum,
 and a tree that dines on a passing tourist--"
 
-"Well, the two tales are reconcilable enough," put in the poet quietly.
-"If there were a magic that killed men when they came close,
+"[[Well]], the two tales are reconcilable enough," put in the poet quietly.
+"If there were a [[Magic|magic]] that killed men when they came close,
 it's likely to strike them with sickness when they stand far off.
-In the old romance the dragon, that devours people, often blasts
+In the old [[Romance|romance]] the dragon, that devours people, often blasts
 others with a sort of poisonous breath."
 
 Ashe looked across at the speaker steadily, not to say stonily.
 
-"Do I understand," he inquired, "that you swallow the swallowing
+"Do I understand," he inquired, "that you [[Swallow|swallow]] the swallowing
 trees too?"
 
 Treherne's dark smile was still on the defensive; his fencing always
@@ -731,12 +731,12 @@ annoyed the other, and he seemed not without malice in the matter.
 
 "Swallowing is a metaphor," he said, "about me, if not about the trees.
 And metaphors take us at once into dreamland--no bad place, either.
-This garden, I think, gets more and more like a dream at this corner
-of the day and night, that might lead us anywhere."
+This [[Garden|garden]], I think, gets more and more like [[A Dream|a dream]] at this corner
+of the day and [[Night|night]], that might lead us anywhere."
 
-The yellow horn of the moon had appeared silently and as if suddenly
-over the black horns of the seaweed, seeming to announce as night
-something which till then had been evening.  A night breeze
+The yellow horn of the [[Moon|moon]] had appeared silently and as if suddenly
+over the black horns of the seaweed, seeming to announce as [[Night|night]]
+something which till then had been evening.  A [[Night|night]] breeze
 came in between the trees and raced stealthily across the turf,
 and as they ceased speaking they heard, not only the seething grass,
 but the sea itself move and sound in all the cracks and caves round
@@ -745,7 +745,7 @@ been struck--the American as an art critic and the poet as a poet;
 and the Squire, who believed himself boiling with an impatience
 purely rational, did not really understand his own impatience.
 In him, more perhaps than the others--more certainly than he knew himself--
-the sea wind went to the head like wine.
+the sea [[Wind|wind]] went to the head like wine.
 
 "Credulity is a curious thing," went on Treherne in a low voice.
 "It is more negative than positive, and yet it is infinite.
@@ -755,18 +755,18 @@ think God would throw a thunderbolt at them for such a thing.
 They don't know what would happen, that is just the point;
 but yet they step aside as from a precipice.  So the poor people
 here may or may not believe anything; they don't go into those
-trees at night."
+trees at [[Night|night]]."
 
 "I walk under a ladder whenever I can," cried Vane,
 in quite unnecessary excitement.
 
 "You belong to a Thirteen Club," said the poet.  "You walk under a ladder
 on Friday to dine thirteen at a table, everybody spilling the salt.
-But even you don't go into those trees at night."
+But even you don't go into those trees at [[Night|night]]."
 
-Squire Vane stood up, his silver hair flaming in the wind.
+Squire Vane stood up, his silver hair flaming in the [[Wind|wind]].
 
-"I'll stop all night in your tomfool wood and up your tomfool trees,"
+"I'll stop all [[Night|night]] in your tomfool wood and up your tomfool trees,"
 he said.  "I'll do it for twopence or two thousand pounds,
 if anyone will take the bet."
 
@@ -778,11 +778,11 @@ The stillness was broken by Miles, the butler, who dropped
 and broke one of the plates he carried.  He stood looking
 after his master with his long, angular chin thrust out,
 looking yellower where it caught the yellow light of the lamp below.
-His face was thus sharply in shadow, but Paynter fancied for
+His face was thus sharply in [[Shadow|shadow]], but Paynter fancied for
 a moment it was convulsed by some passion passing surprise.
 But the face was quite as usual when it turned, and Paynter
-realized that a night of fancies had begun, like the cross purposes
-of the "Midsummer Night's Dream."
+realized that a [[Night|night]] of fancies had begun, like the [[Cross|cross]] purposes
+of the "Midsummer [[Night]]'s Dream."
 
 The wood of the strange trees, toward which the Squire was walking,
 lay so far forward on the headland, which ultimately almost
@@ -791,11 +791,11 @@ which shone clearly like a silver ribbon in the twilight.
 The ribbon ran along the edge of the cliff, where the single
 row of deformed trees ran beside it all the way, and eventually
 plunged into the closer mass of trees by one natural gateway,
-a mere gap in the wood, looking dark, like a lion's mouth.
+a mere gap in the wood, looking dark, like a [[Lion|lion]]'s mouth.
 What became of the path inside could not be seen, but it
 doubtless led round the hidden roots of the great central trees.
 The Squire was already within a yard or two of this dark entry
-when his daughter rose from the table and took a step or two after
+when his daughter [[Rose|rose]] from the table and took a step or two after
 him as if to call him back.
 
 Treherne had also risen, and stood as if dazed at the effect of his
@@ -803,14 +803,14 @@ idle defiance.  When Barbara moved he seemed to recover himself,
 and stepping after her, said something which Paynter did not hear.
 He said it casually and even distantly enough, but it clearly suggested
 something to her mind; for, after a moment's thought, she nodded and
-walked back, not toward the table, but apparently toward the house.
+walked back, not toward the table, but apparently toward the [[house]].
 Paynter looked after her with a momentary curiosity, and when he turned
 again the Squire had vanished into the hole in the wood.
 
 "He's gone," said Treherne, with a clang of finality in his tones,
 like the slamming of a door.
 
-"Well, suppose he has?" cried the lawyer, roused at the voice.
+"[[Well]], suppose he has?" cried the lawyer, roused at the voice.
 "The Squire can go into his own wood, I suppose!  What the devil's
 all the fuss about, Mr. Paynter?  Don't tell me you think there's
 any harm in that plantation of sticks."
@@ -818,35 +818,35 @@ any harm in that plantation of sticks."
 "No, I don't," said Paynter, throwing one leg over another and lighting
 a cigar.  "But I shall stop here till he comes out."
 
-"Very well," said Ashe shortly, "I'll stop with you, if only to see
+"Very [[Well|well]]," said Ashe shortly, "I'll stop with you, if only to see
 the end of this farce."
 
 The doctor said nothing, but he also kept his seat and accepted
 one of the American's cigars.  If Treherne had been attending
 to the matter he might have noted, with his sardonic superstition,
 a curious fact--that, while all three men were tacitly condemning
-themselves to stay out all night if necessary, all, by one blank
+themselves to stay out all [[Night|night]] if necessary, all, by one blank
 omission or oblivion, assumed that it was impossible to follow
 their host into the wood just in front of them.  But Treherne,
-though still in the garden, had wandered away from the garden table,
+though still in the [[Garden|garden]], had wandered away from the [[Garden|garden]] table,
 and was pacing along the single line of trees against the dark sea.
 They had in their regular interstices, showing the sea as through a series
-of windows, something of the look of the ghost or skeleton of a cloister,
+of windows, something of the look of the [[Ghost|ghost]] or [[skeleton]] of a cloister,
 and he, having thrown his coat once more over his neck, like a cape,
-passed to and fro like the ghost of some not very sane monk.
+passed to and fro like the [[Ghost|ghost]] of some not very sane monk.
 
 All these men, whether skeptics or mystics, looked back for
-the rest of their lives on that night as on something unnatural.
-They sat still or started up abruptly, and paced the great garden
+the rest of their lives on that [[Night|night]] as on something unnatural.
+They sat still or started up abruptly, and paced the great [[Garden|garden]]
 in long detours, so that it seemed that no three of them were
-together at a time, and none knew who would be his companion;
+together at a [[Time|time]], and none knew who would be his companion;
 yet their rambling remained within the same dim and mazy space.
 They fell into snatches of uneasy slumber; these were very brief,
 and yet they felt as if the whole sitting, strolling, or occasional
 speaking had been parts of a single dream.
 
 Paynter woke once, and found Ashe sitting opposite him at a table
-otherwise empty; his face dark in shadow and his cigar-end like the red
+otherwise empty; his face dark in [[Shadow|shadow]] and his cigar-end like the red
 eye of a Cyclops.  Until the lawyer spoke, in his steady voice,
 Paynter was positively afraid of him.  He answered at random and
 nodded again; when he again woke the lawyer was gone, and what was
@@ -854,8 +854,8 @@ opposite him was the bald, pale brow of the doctor; there seemed suddenly
 something ominous in the familiar fact that he wore spectacles.
 And yet the vanishing Ashe had only vanished a few yards away,
 for he turned at that instant and strolled back to the table.
-With a jerk Paynter realized that his nightmare was but a trick
-of sleep or sleeplessness, and spoke in his natural voice,
+With a jerk Paynter realized that his [[nightmare]] was but a trick
+of [[Sleep|sleep]] or sleeplessness, and spoke in his natural voice,
 but rather loud.
 
 "So you've joined us again; where's Treherne?"
@@ -883,11 +883,11 @@ and was gazing at them with a singular attentiveness.
 
 "What?" snapped Ashe very abruptly.
 
-"The night, of course," replied Treherne in a motionless manner.
+"The [[Night|night]], of course," replied Treherne in a motionless manner.
 "The darkest hour has passed."
 
 "Didn't some other minor poet remark," inquired Paynter flippantly,
-"that the darkest hour before the dawn--?  My God, what was that?
+"that the darkest hour before the [[Dawn|dawn]]--?  My God, what was that?
 It was like a scream."
 
 "It was a scream," replied the poet.  "The scream of a peacock."
@@ -897,10 +897,10 @@ and said furiously:  "What the devil do you mean?"
 
 "Oh, perfectly natural causes, as Dr. Brown would say," replied Treherne.
 "Didn't the Squire tell us the trees had a shrill note of their own
-when the wind blew?  The wind's beating up again from the sea;
-I shouldn't wonder if there was a storm before dawn."
+when the [[Wind|wind]] blew?  The [[Wind|wind]]'s beating up again from the sea;
+I shouldn't [[Wonder|wonder]] if there was a [[Storm|storm]] before [[Dawn|dawn]]."
 
-Dawn indeed came gradually with a growing noise of wind,
+[[Dawn]] indeed came gradually with a growing noise of [[Wind|wind]],
 and the purple sea began to boil about the dark volcanic cliffs.
 The first change in the sky showed itself only in the shapes
 of the wood and the single stems growing darker but clearer;
@@ -908,28 +908,28 @@ and above the gray clump, against a glimpse of growing light,
 they saw aloft the evil trinity of the trees.  In their long lines
 there seemed to Paynter something faintly serpentine and even spiral.
 He could almost fancy he saw them slowly revolving as in some
-cyclic dance, but this, again, was but a last delusion of dreamland,
-for a few seconds later he was again asleep.  In dreams he toiled
+cyclic [[Dance|dance]], but this, again, was but a last delusion of dreamland,
+for a few seconds later he was again asleep.  In [[Dreams|dreams]] he toiled
 through a tangle of inconclusive tales, each filled with the same
-stress and noise of sea and sea wind; and above and outside all
-other voices the wailing of the Trees of Pride.
+stress and noise of sea and sea [[Wind|wind]]; and above and outside all
+other voices the wailing of the Trees of [[Pride]].
 
 When he woke it was broad day, and a bloom of early light lay
-on wood and garden and on fields and farms for miles away.
+on wood and [[Garden|garden]] and on fields and farms for miles away.
 The comparative common sense that daylight brings even to the sleepless
 drew him alertly to his feet, and showed him all his companions
 standing about the lawn in similar attitudes of expectancy.
 There was no need to ask what they were expecting.  They were waiting
 to hear the nocturnal experiences, comic or commonplace or whatever
 they might prove to be, of that eccentric friend, whose experiment
-(whether from some subconscious fear or some fancy of honor)
+(whether from some subconscious [[Fear|fear]] or some fancy of honor)
 they had not ventured to interrupt.  Hour followed hour,
 and still nothing stirred in the wood save an occasional bird.
 The Squire, like most men of his type, was an early riser,
-and it was not likely that he would in this case sleep late;
+and it was not likely that he would in this case [[Sleep|sleep]] late;
 it was much more likely, in the excitement in which he had left them,
-that he would not sleep at all.  Yet it was clear that he must
-be sleeping, perhaps by some reaction from a strain.  By the time
+that he would not [[Sleep|sleep]] at all.  Yet it was clear that he must
+be sleeping, perhaps by some reaction from a strain.  By the [[Time|time]]
 the sun was high in heaven Ashe the lawyer, turning to the others,
 spoke abruptly and to the point.
 
@@ -942,40 +942,40 @@ head in answer to their glances, he added:
 "No, do not trouble yourselves.  It is never the believer
 who is afraid."
 
-For the second time they saw a man mount the white curling path
-and disappear into the gray tangled wood, but this time they did
+For the second [[Time|time]] they saw a man mount the white curling path
+and disappear into the gray tangled wood, but this [[Time|time]] they did
 not have to wait long to see him again.
 
 A few minutes later he reappeared in the woodland gateway, and came
 slowly toward them across the grass.  He stopped before the doctor,
 who stood nearest, and said something.  It was repeated to the others,
-and went round the ring with low cries of incredulity.
+and went round the ring with low cries of [[Incredulity|incredulity]].
 The others plunged into the wood and returned wildly, and were seen
-speaking to others again who gathered from the house; the wild wireless
-telegraphy which is the education of countryside communities spread
+speaking to others again who gathered from the [[house]]; the wild wireless
+telegraphy which is the [[Education|education]] of countryside communities spread
 it farther and farther before the fact itself was fully realized;
 and before nightfall a quarter of the county knew that Squire Vane
 had vanished like a burst bubble.
 
 Widely as the wild story was repeated, and patiently as it was pondered,
 it was long before there was even the beginning of a sequel to it.
-In the interval Paynter had politely removed himself from the house
+In the interval Paynter had politely removed himself from the [[house]]
 of mourning, or rather of questioning, but only so far as the village inn;
 for Barbara Vane was glad of the traveler's experience and sympathy,
 in addition to that afforded her by the lawyer and doctor as old
 friends of the family.  Even Treherne was not discouraged from his
 occasional visits with a view to helping the hunt for the lost man.
-The five held many counsels round the old garden table, at which
-the unhappy master of the house had dined for the last time;
+The five held many counsels round the old [[Garden|garden]] table, at which
+the unhappy master of the [[house]] had dined for the last [[Time|time]];
 and Barbara wore her old mask of stone, if it was now a more tragic mask.
 She had shown no passion after the first morning of discovery,
 when she had broken forth once, speaking strangely enough in the view
 of some of her hearers.
 
-She had come slowly out of the house, to which her own or some one
-else's wisdom had relegated her during the night of the wager;
+She had come slowly out of the [[house]], to which her own or some one
+else's wisdom had relegated her during the [[Night|night]] of the wager;
 and it was clear from her face that somebody had told her
-the truth; Miles, the butler, stood on the steps behind her;
+the [[Truth|truth]]; Miles, the butler, stood on the steps behind her;
 and it was probably he.
 
 "Do not be much distressed, Miss Vane," said Doctor Brown, in a low
@@ -998,12 +998,12 @@ is to believe in God; for we can't help believing in devils."
 And she left them, still walking quite slowly, but in such a fashion
 that no one could go after her.
 
-The spring had already begun to ripen into summer, and spread a green
-tent from the tree over the garden table, when the American visitor,
-sitting there with his two professional companions, broke the silence
+The [[Spring|spring]] had already begun to ripen into [[Summer|summer]], and spread a green
+tent from the tree over the [[Garden|garden]] table, when the American visitor,
+sitting there with his two professional companions, broke the [[Silence|silence]]
 by saying what had long been in his mind.
 
-"Well," he said, "I suppose whatever we may think it wise
+"[[Well]]," he said, "I suppose whatever we may think it wise
 to say, we have all begun to think of a possible conclusion.
 It can't be put very delicately anyhow; but, after all,
 there's a very necessary business side to it.  What are we
@@ -1023,9 +1023,9 @@ A man couldn't have flown off those high cliffs over the sea;
 he could only have fallen off.  What else can he be but dead?"
 
 "I speak as a lawyer," returned Ashe, raising his eyebrows.
-"We can't presume his death, or have an inquest or anything till we
-find the poor fellow's body, or some remains that may reasonably
-be presumed to be his body."
+"We can't presume his [[Death|death]], or have an inquest or anything till we
+find the poor fellow's [[Body|body]], or some remains that may reasonably
+be presumed to be his [[Body|body]]."
 
 "I see," observed Paynter quietly.  "You speak as a lawyer;
 but I don't think it's very hard to guess what you think as a man."
@@ -1033,7 +1033,7 @@ but I don't think it's very hard to guess what you think as a man."
 "I own I'd rather be a man than a lawyer," said the doctor,
 rather roughly.  "I'd no notion the law was such an ass.
 What's the good of keeping the poor girl out of her property,
-and the estate all going to pieces?  Well, I must be off,
+and the estate all going to pieces?  [[Well]], I must be off,
 or my patients will be going to pieces too."
 
 And with a curt salutation he pursued his path down to the village.
@@ -1042,14 +1042,14 @@ And with a curt salutation he pursued his path down to the village.
 "We must pardon his--shall I say manners or manner?"
 
 "Oh, I bear him no malice," replied Ashe good-humoredly, "But I'm
-glad he's gone, because--well, because I don't want him to know
+glad he's gone, because--[[Well|well]], because I don't want him to know
 how jolly right he is."  And he leaned back in his chair and stared
-up at the roof of green leaves.
+up at the roof of green [[Leaves|leaves]].
 
 "You are sure," said Paynter, looking at the table,
 "that Squire Vane is dead?"
 
-"More than that," said Ashe, still staring at the leaves.
+"More than that," said Ashe, still staring at the [[Leaves|leaves]].
 "I'm sure of how he died."
 
 "Ah!" said the American, with an intake of breath, and they remained
@@ -1069,14 +1069,14 @@ of St. Securis.
 "The trees be damned!" snorted the lawyer.  "The tree had two legs
 on that evening.  What our friend the poet," he added, with a sneer,
 "would call a walking tree.  Apropos of our friend the poet,
-you seemed surprised that night to find he was not walking poetically
-by the sea all the time, and I fear I affected to share your ignorance.
+you seemed surprised that [[Night|night]] to find he was not walking poetically
+by the sea all the [[Time|time]], and I [[Fear|fear]] I affected to share your ignorance.
 I was not so sure then as I am now."
 
 "Sure of what?" demanded the other.
 
 "To begin with," said Ashe, "I'm sure our friend the poet followed
-Vane into the wood that night, for I saw him coming out again."
+Vane into the wood that [[Night|night]], for I saw him coming out again."
 
 Paynter leaned forward, suddenly pale with excitement, and struck
 the wooden table so that it rattled.
@@ -1088,15 +1088,15 @@ just what you don't. I know you think he gave you crooked answers,
 and seemed to be all smiles and black looks at once; but you don't
 understand the type.  I know now why you don't understand the Irish.
 Sometimes you think it's soft, and sometimes sly, and sometimes murderous,
-and sometimes uncivilized; and all the time it's only civilized;
+and sometimes uncivilized; and all the [[Time|time]] it's only civilized;
 quivering with the sensitive irony of understanding all that
 you don't understand."
 
-"Well," said Ashe shortly, "we'll see who's right."
+"[[Well]]," said Ashe shortly, "we'll see who's right."
 
-"We will," cried Cyprian, and rose suddenly from the table.
+"We will," cried Cyprian, and [[Rose|rose]] suddenly from the table.
 All the drooping of the aesthete had dropped from him; his Yankee
-accent rose high, like a horn of defiance, and there was nothing
+accent [[Rose|rose]] high, like a horn of defiance, and there was nothing
 about him but the New World.
 
 "I guess I will look into this myself," he said, stretching his
@@ -1128,16 +1128,16 @@ because of it, he eyed with rising relish the picturesque plan
 and sky line of the antiquated village, and especially the wooden
 square of the old inn sign that hung over his head; a shield,
 of which the charges seemed to him a mere medley of blue dolphins,
-gold crosses, and scarlet birds.  The colors and cubic corners
+gold crosses, and scarlet [[Birds|birds]].  The colors and cubic corners
 of that painted board pleased him like a play or a puppet show.
 He stood staring and straddling for some moments on the cobbles
 of the little market place; then he gave a short laugh and began
-to mount the steep streets toward the high park and garden beyond.
+to mount the steep streets toward the high park and [[Garden|garden]] beyond.
 From the high lawn, above the tree and table, he could see on one side
-the land stretch away past the house into a great rolling plain,
-which under the clear edges of the dawn seemed dotted with
+the land stretch away past the [[house]] into a great [[rolling]] plain,
+which under the clear edges of the [[Dawn|dawn]] seemed dotted with
 picturesque details.  The woods here and there on the plain looked
-like green hedgehogs, as grotesque as the incongruous beasts found
+like green hedgehogs, as [[Grotesque|grotesque]] as the incongruous beasts found
 unaccountably walking in the blank spaces of mediaeval maps.
 The land, cut up into colored fields, recalled the heraldry
 of the signboard; this also was at once ancient and gay.
@@ -1145,20 +1145,20 @@ On the other side the ground to seaward swept down and then up
 again to the famous or infamous wood; the square of strange trees
 lay silently tilted on the slope, also suggesting, if not a map,
 or least a bird's-eye view.  Only the triple centerpiece of the peacock
-trees rose clear of the sky line; and these stood up in tranquil
+trees [[Rose|rose]] clear of the sky line; and these stood up in tranquil
 sunlight as things almost classical, a triangular temple of the winds.
 They seemed pagan in a newer and more placid sense; and he felt
-a newer and more boyish curiosity and courage for the consulting
+a newer and more boyish curiosity and [[Courage|courage]] for the consulting
 of the oracle.  In all his wanderings he had never walked so lightly,
 for the connoisseur of sensations had found something to do at last;
 he was fighting for a friend.
 
 He was brought to a standstill once, however, and that at
-the very gateway of the garden of the trees of knowledge.
+the very gateway of the [[Garden|garden]] of the trees of knowledge.
 Just outside the black entry of the wood, now curtained with greener
 and larger leafage, he came on a solitary figure.
 
-It was Martin, the woodcutter, wading in the bracken and looking
+It was Martin, the [[Woodcutter|woodcutter]], wading in the bracken and looking
 about him in rather a lost fashion.  The man seemed to be
 talking to himself.
 
@@ -1175,23 +1175,23 @@ Is there even this extra branch the idiots talked about?"
 
 There had been growing on Paynter the suspicion that the man before
 him was not perfectly sane; yet he was much more startled by the
-sudden and cold sanity that looked for an instant out of the woodman's
+sudden and cold [[Sanity|sanity]] that looked for an instant out of the woodman's
 eyes, as he answered in his ordinary manner.
 
-"Well, sir, did you count the branches before?"
+"[[Well]], sir, did you count the branches before?"
 
 Then he seemed to relapse; and Paynter left him wandering and wavering
 in the undergrowth; and entered the wood like one across whose
-sunny path a shadow has fallen for an instant.
+sunny path a [[Shadow|shadow]] has fallen for an instant.
 
 Diving under the wood, he was soon threading a leafy path which,
-even under that summer sun, shone only with an emerald twilight,
+even under that [[Summer|summer]] sun, shone only with an emerald twilight,
 as if it were on the floor of the sea.  It wound about more shakily
 than he had supposed, as if resolved to approach the central
-trees as if they were the heart of the maze at Hampton Court.
+trees as if they were the heart of the maze at Hampton [[Court]].
 They were the heart of the maze for him, anyhow; he sought them
-as straight as a crooked road would carry him; and, turning a
-final corner, he beheld, for the first time, the foundations
+as straight as a crooked [[Road|road]] would carry him; and, turning a
+final corner, he beheld, for the first [[Time|time]], the foundations
 of those towers of vegetation he had as yet only seen from above,
 as they stood waist-high in the woodland.  He found the suspicion
 correct which supposed the tree branched from one great root,
@@ -1200,7 +1200,7 @@ fungoids, was quite near the ground, and offered a first foothold.
 He put his foot in it, and without a flash of hesitation went aloft,
 like Jack climbing the Bean stalk.
 
-Above him the green roof of leaves and boughs seemed sealed like
+Above him the green roof of [[Leaves|leaves]] and boughs seemed sealed like
 a firmament of foliage; but, by bending and breaking the branches
 to right and left he slowly forced a passage upward; and had at last,
 and suddenly, the sensation coming out on the top of the world.
@@ -1216,7 +1216,7 @@ it was not inappropriate.  He did feel as if he were a primitive
 adventurer just come to the New World, instead of a modern traveler
 just come from it.
 
-"I wonder," he proceeded, "whether I am really the first that ever
+"I [[Wonder|wonder]]," he proceeded, "whether I am really the first that ever
 burst into this silent tree.  It looks like it.  Those--"
 
 He stopped and sat on his branch quite motionless, but his eyes
@@ -1238,7 +1238,7 @@ tropical terrors of his own idle tale surrounded and suffocated him.
 It seemed indeed some demon tree of the swamps; a vegetable
 serpent that fed on men.  Even the hideous farce in the fancy
 of digesting a whole man with the exception of his hat, seemed only
-to simplify the nightmare.  And he found himself gazing dully
+to simplify the [[nightmare]].  And he found himself gazing dully
 at one leaf of the tree, which happened to be turned toward him,
 so that the odd markings, which had partly made the legend,
 really looked a little like the eye in a peacock's feather.
@@ -1247,10 +1247,10 @@ It was as if the sleeping tree had opened one eye upon him.
 With a sharp effort he steadied himself in mind and posture on the bough;
 his reason returned, and he began to descend with the hat in his teeth.
 When he was back in the underworld of the wood, he studied the hat
-again and with closer attention.  In one place in the crown
+again and with closer attention.  In one place in the [[Crown|crown]]
 there was a hole or rent, which certainly had not been there
-when it had last lain on the table under the garden tree.
-He sat down, lit a cigarette, and reflected for a long time.
+when it had last lain on the table under the [[Garden|garden]] tree.
+He sat down, lit a cigarette, and reflected for a long [[Time|time]].
 
 A wood, even a small wood, is not an easy thing to search minutely;
 but he provided himself with some practical tests in the matter.
@@ -1258,7 +1258,7 @@ In one sense the very density of the thicket was a help;
 he could at least see where anyone had strayed from the path,
 by broken and trampled growths of every kind.  After many hours'
 industry, he had made a sort of new map of the place;
-and had decided beyond doubt that some person or persons had
+and had decided beyond [[Doubt|doubt]] that some person or persons had
 so strayed, for some purpose, in several defined directions.
 There was a way burst through the bushes, making a short cut
 across a loop of the wandering path; there was another forking
@@ -1278,46 +1278,46 @@ it was a round lid and presented a quaint appearance, like a flat cap
 with green feathers.  For though the disc itself was made of wood,
 there was a layer of earth on it with the live grass still growing there.
 And the removal of the round lid revealed a round hole, black as
-night and seemingly bottomless.  Paynter understood it instantly.
-It was rather near the sea for a well to be sunk, but the traveler
-had known wells sunk even nearer.  He rose to his feet with
+[[Night|night]] and seemingly bottomless.  Paynter understood it instantly.
+It was rather near the sea for a [[Well|well]] to be sunk, but the traveler
+had known wells sunk even nearer.  He [[Rose|rose]] to his feet with
 the great knife in his hand, a frown on his face, and his
 doubts resolved.  He no longer shrank from naming what he knew.
-This was not the first corpse that had been thrown down a well;
-here, without stone or epitaph, was the grave of Squire Vane.
+This was not the first corpse that had been thrown down a [[Well|well]];
+here, without stone or epitaph, was the [[Grave|grave]] of Squire Vane.
 In a flash all the mythological follies about saints and peacocks
 were forgotten; he was knocked on the head, as with a stone club,
 by the human common sense of crime.
 
-Cyprian Paynter stood long by the well in the wood, walked round
+Cyprian Paynter stood long by the [[Well|well]] in the wood, walked round
 it in meditation, examined its rim and the ring of grass about it,
 searched the surrounding soil thoroughly, came back and stood beside
-the well once more.  His researches and reflections had been so long
+the [[Well|well]] once more.  His researches and reflections had been so long
 that he had not realized that the day had passed and that the wood
 and the world round it were beginning already to be steeped
 in the enrichment of evening.  The day had been radiantly calm;
-the sea seemed to be as still as the well, and the well was as still
-as a mirror.  And then, quite without warning, the mirror moved
+the sea seemed to be as still as the [[Well|well]], and the [[Well|well]] was as still
+as a [[Mirror|mirror]].  And then, quite without warning, the [[Mirror|mirror]] moved
 of itself like a living thing.
 
-In the well, in the wood, the water leapt and gurgled, with a
-grotesque noise like something swallowing, and then settled again
-with a second sound.  Cyprian could not see into the well clearly,
+In the [[Well|well]], in the wood, the [[Water|water]] leapt and gurgled, with a
+[[Grotesque|grotesque]] noise like something swallowing, and then settled again
+with a second sound.  Cyprian could not see into the [[Well|well]] clearly,
 for the opening, from where he stood, was an ellipse, a mere slit,
 and half masked by thistles and rank grass like a green beard.
-For where he stood now was three yards away from the well,
+For where he stood now was three yards away from the [[Well|well]],
 and he had not yet himself realized that he had sprung back all
-that distance from the brink when the water spoke.
+that distance from the brink when the [[Water|water]] spoke.
 
-III.  THE MYSTERY OF THE WELL
+III.  THE MYSTERY OF THE [[Well|WELL]]
 
 Cyprian Paynter did not know what he expected to see rise out
-of the well--the corpse of the murdered man or merely the spirit
-of the fountain.  Anyhow, neither of them rose out of it,
+of the [[Well|well]]--the corpse of the murdered man or merely the spirit
+of the fountain.  Anyhow, neither of them [[Rose|rose]] out of it,
 and he recognized after an instant that this was, after all,
 perhaps the more natural course of things.  Once more he pulled
-himself together, walked to the edge of the well and looked down.
-He saw, as before, a dim glimmer of water, at that depth no
+himself together, walked to the edge of the [[Well|well]] and looked down.
+He saw, as before, a dim glimmer of [[Water|water]], at that depth no
 brighter than ink; he fancied he still heard a faint convulsion
 and murmur, but it gradually subsided to an utter stillness.
 Short of suicidally diving in, there was nothing to be done.
@@ -1325,21 +1325,21 @@ He realized that, with all his equipment, he had not even brought anything
 like a rope or basket, and at length decided to return for them.
 As he retraced his steps to the entrance, he recurred to, and took
 stock of, his more solid discoveries.  Somebody had gone into the wood,
-killed the Squire and thrown him down the well, but he did not admit
+killed the Squire and thrown him down the [[Well|well]], but he did not admit
 for a moment that it was his friend the poet; but if the latter had
 actually been seen coming out of the wood the matter was serious.
 As he walked the rapidly darkening twilight was cloven with
 red gleams, that made him almost fancy for a moment that some
-fantastic criminal had set fire to the tiny forest as he fled.
+fantastic criminal had set [[Fire|fire]] to the tiny forest as he fled.
 A second glance showed him nothing but one of those red sunsets
 in which such serene days sometimes close.
 
 As he came out of the gloomy gate of trees into the full glow he saw
 a dark figure standing quite still in the dim bracken, on the spot
-where he had left the woodcutter.  It was not the woodcutter.
+where he had left the [[Woodcutter|woodcutter]].  It was not the [[Woodcutter|woodcutter]].
 
 It was topped by a tall black hat of a funeral type, and the whole
-figure stood so black against the field of crimson fire that edged
+figure stood so black against the field of crimson [[Fire|fire]] that edged
 the sky line that he could not for an instant understand or recall it.
 When he did, it was with an odd change in the whole channel
 of his thoughts.
@@ -1347,11 +1347,11 @@ of his thoughts.
 "Doctor Brown!" he cried.  "Why, what are you doing up here?"
 
 "I have been talking to poor Martin," answered the doctor,
-and made a rather awkward movement with his hand toward the road
+and made a rather awkward movement with his hand toward the [[Road|road]]
 down to the village.  Following the gesture, Paynter dimly saw
-another dark figure walking down in the blood-red distance.
+another dark figure walking down in the [[Blood|blood]]-red distance.
 He also saw that the hand motioning was really black, and not
-merely in shadow; and, coming nearer, found the doctor's dress
+merely in [[Shadow|shadow]]; and, coming nearer, found the doctor's dress
 was really funereal, down to the detail of the dark gloves.
 It gave the American a small but queer shock, as if this were actually
 an undertaker come up to bury the corpse that could not be found.
@@ -1370,35 +1370,35 @@ the doctor.  Dr. Burton Brown was a tall, alert man, neatly dressed,
 who would otherwise have had an almost military air but for his
 spectacles and an almost painful intellectualism in his lean brown
 face and bald brow.  The contrast was clinched by the fact that,
-while his face was of the ascetic type generally conceived
+while his face was of the [[ascetic]] type generally conceived
 as clean-shaven, he had a strip of dark mustache cut too short
 for him to bite, and yet a mouth that often moved as if trying
 to bite it.  He might have been a very intelligent army surgeon,
 but he had more the look of an engineer or one of those services
-that combine a military silence with a more than military science.
+that combine a military [[Silence|silence]] with a more than military science.
 Paynter had always respected something ruggedly reliable about the man,
 and after a little hesitation he told him all the discoveries.
 
 The doctor took the hat of the dead Squire in his hand,
 and examined it with frowning care.  He put one finger
-through the hole in the crown and moved it meditatively.
+through the hole in the [[Crown|crown]] and moved it meditatively.
 And Paynter realized how fanciful his own fatigue must have made him;
 for so silly a thing as the black finger waggling through
 the rent in that frayed white relic unreasonably displeased him.
 The doctor soon made the same discovery with professional acuteness,
 and applied it much further.  For when Paynter began to tell him
-of the moving water in the well he looked at him a moment through
+of the moving [[Water|water]] in the [[Well|well]] he looked at him a moment through
 his spectacles, and then said:
 
 "Did you have any lunch?"
 
-Paynter for the first time realized that he had, as a fact,
+Paynter for the first [[Time|time]] realized that he had, as a fact,
 worked and thought furiously all day without food.
 
 "Please don't fancy I mean you had too much lunch," said the medical man,
 with mournful humor.  "On the contrary, I mean you had too little.
 I think you are a bit knocked out, and your nerves exaggerate things.
-Anyhow, let me advise you not to do any more to-night. There's
+Anyhow, let me advise you not to do any more to-[[Night|night]]. There's
 nothing to be done without ropes or some sort of fishing tackle,
 if with that; but I think I can get you some of the sort
 of grappling irons the fishermen use for dragging.  Poor Jake's
@@ -1409,7 +1409,7 @@ I am sure you'll understand."
 
 Paynter understood sufficiently to assent, and hardly knew why
 he stood vacantly watching the doctor make his way down the steep
-road to the shore and the fisher's cottage.  Then he threw off
+[[Road|road]] to the shore and the fisher's cottage.  Then he threw off
 thoughts he had not examined, or even consciously entertained,
 and walked slowly and rather heavily back to the Vane Arms.
 
@@ -1419,31 +1419,31 @@ laden with what he had promised; an apparatus of hooks and a
 hanging net for hoisting up anything sunk to a reasonable depth.
 He was about to proceed on his professional round, and said
 nothing further to deter the American from proceeding on his own
-very unprofessional experiment as a detective.  That buoyant amateur
+very unprofessional experiment as a [[Detective|detective]].  That buoyant amateur
 had indeed recovered most, if not all, of yesterday's buoyancy,
-was now well fitted to pass any medical examination, and returned
+was now [[Well|well]] fitted to pass any medical examination, and returned
 with all his own energy to the scene of yesterday's labors.
 
-It may well have brightened and made breezier his second day's toil that
+It may [[Well|well]] have brightened and made breezier his second day's toil that
 he had not only the sunlight and the bird's singing in the little wood,
 to say nothing of a more scientific apparatus to work with,
 but also human companionship, and that of the most intelligent type.
 After leaving the doctor and before leaving the village he had
-bethought himself of seeking the little court or square where stood
-the quiet brown house of Andrew Ashe, solicitor, and the operations
-of dragging were worked in double harness.  Two heads were peering
-over the well in the wood:  one yellow-haired, lean and eager;
+bethought himself of seeking the little [[Court|court]] or square where stood
+the quiet brown [[house]] of Andrew Ashe, solicitor, and the operations
+of dragging were worked in [[Double|double]] harness.  Two heads were peering
+over the [[Well|well]] in the wood:  one yellow-haired, lean and eager;
 the other redhaired, heavy and pondering; and if it be true that two heads
 are better than one, it is truer that four hands are better than two.
 In any case, their united and repeated efforts bore fruit at last,
 if anything so hard and meager and forlorn can be called a fruit.
 It weighed loosely in the net as it was lifted, and rolled out on
-the grassy edge of the well; it was a bone.
+the grassy edge of the [[Well|well]]; it was a bone.
 
 Ashe picked it up and stood with it in his hand, frowning.
 
 "We want Doctor Brown here," he said.  "This may be the bone
-of some animal.  Any dog or sheep might fall into a hidden well."
+of some animal.  Any dog or sheep might fall into a hidden [[Well|well]]."
 Then he broke off, for his companion was already detaching a second
 bone from the net.
 
@@ -1457,7 +1457,7 @@ said the American.
 
 And he turned away a little as he handed the other a skull.
 
-There was no doubt of what sort of skull; there was the one unique
+There was no [[Doubt|doubt]] of what sort of skull; there was the one unique
 curve that holds the mystery of reason, and underneath it the two black
 holes that had held human eyes.  But just above that on the left
 was another and smaller black hole, which was not an eye.
@@ -1465,7 +1465,7 @@ was another and smaller black hole, which was not an eye.
 Then the lawyer said, with something like an effort:
 "We may admit it is a man without admitting it is--any particular man.
 There may be something, after all, in that yarn about the drunkard;
-he may have tumbled into the well.  Under certain conditions,
+he may have tumbled into the [[Well|well]].  Under certain conditions,
 after certain natural processes, I fancy, the bones might be
 stripped in this way, even without the skill of any assassin.
 We want the doctor again."
@@ -1487,24 +1487,24 @@ in the hat, and it lay exactly over the hole in the skull.
 vibrant voice.  "I think I am the older friend."
 
 Paynter nodded without speech, accepting the final identification.
-The last doubt, or hope, had departed, and he turned to the dragging
+The last [[Doubt|doubt]], or [[Hope|hope]], had departed, and he turned to the dragging
 apparatus, and did not speak till he had made his last find.
 
-The singing of the birds seemed to grow louder about them,
-and the dance of the green summer leaves was repeated beyond
-in the dance of the green summer sea.  Only the great roots
+The singing of the [[Birds|birds]] seemed to grow louder about them,
+and the [[Dance|dance]] of the green [[Summer|summer]] [[Leaves|leaves]] was repeated beyond
+in the [[Dance|dance]] of the green [[Summer|summer]] sea.  Only the great roots
 of the mysterious trees could be seen, the rest being far aloft,
 and all round it was a wood of little, lively and happy things.
-They might have been two innocent naturalists, or even two children
-fishing for eels or tittlebats on that summer holiday when Paynter
+They might have been two [[Innocent|innocent]] naturalists, or even two children
+fishing for eels or tittlebats on that [[Summer|summer]] holiday when Paynter
 pulled up something that weighed in the net more heavily than any bone.
 It nearly broke the meshes, and fell against a mossy stone
 with a clang.
 
-"Truth lies at the bottom of a well," cried the American, with lift
+"[[Truth]] lies at the [[Bottom|bottom]] of a [[Well|well]]," cried the American, with lift
 in his voice.  "The woodman's ax."
 
-It lay, indeed, flat and gleaming in the grasses by the well
+It lay, indeed, flat and gleaming in the grasses by the [[Well|well]]
 in the wood, just as it had lain in the thicket where the woodman
 threw it in the beginning of all these things.  But on one corner
 of the bright blade was a dull brown stain.
@@ -1534,7 +1534,7 @@ like Charles I's. He's looking for the ax still, and probably thinks
 it a holy relic."
 
 "For which reason," said Ashe, smiling, "he instantly chucked it
-down a well."
+down a [[Well|well]]."
 
 Paynter laughed.
 
@@ -1544,18 +1544,18 @@ were all watching the wood; but were we?  Frankly, I could almost
 fancy the peacock trees did strike me with a sort of sickness--
 a sleeping sickness."
 
-"Well," admitted Ashe, "you have me there too.  I'm afraid I
-couldn't swear I was awake all the time; but I don't put it down
-to magic trees--only to a private hobby of going to bed at night.
+"[[Well]]," admitted Ashe, "you have me there too.  I'm afraid I
+couldn't swear I was awake all the [[Time|time]]; but I don't put it down
+to [[Magic|magic]] trees--only to a private hobby of going to bed at [[Night|night]].
 But look here, Mr. Paynter; there's another and better argument
-against any outsider from the village or countryside having
+against any [[Outsider|outsider]] from the village or countryside having
 committed the crime.  Granted he might have slipped past us somehow,
 and gone for the Squire.  But why should he go for him in the wood?
 How did he know he was in the wood?  You remember how suddenly
 the poor old boy bolted into it, on what a momentary impulse.
 It's the last place where one would normally look for such a man,
-in the middle of the night.  No, it's an ugly thing to say, but we,
-the group round that garden table, were the only people who knew.
+in the middle of the [[Night|night]].  No, it's an ugly thing to say, but we,
+the group round that [[Garden|garden]] table, were the only people who knew.
 Which brings me back to the one point in your remarks which I happen
 to think perfectly true."
 
@@ -1567,18 +1567,18 @@ than poor old Martin."
 Paynter made a murmur of protest, and then fell silent.
 
 "Let us talk plainly," resumed the lawyer.  "Treherne had all
-those mad motives you yourself admit against the woodcutter.
+those mad motives you yourself admit against the [[Woodcutter|woodcutter]].
 He had the knowledge of Vane's whereabouts, which nobody can
-possibly attribute to the woodcutter.  But he had much more.
+possibly attribute to the [[Woodcutter|woodcutter]].  But he had much more.
 Who taunted and goaded the Squire to go into the wood
 at all?  Treherne.  Who practically prophesied, like an infernal
 quack astrologer, that something would happen to him if he did go
 into the wood?  Treherne.  Who was, for some reason, no matter what,
-obviously burning with rage and restlessness all that night, kicking his
+obviously burning with rage and restlessness all that [[Night|night]], kicking his
 legs impatiently to and fro on the cliff, and breaking out with wild
 words about it being all over soon?  Treherne.  And on top of all this,
 when I walked closer to the wood, whom did I see slip out of it swiftly
-and silently like a shadow, but turning his face once to the moon?
+and silently like a [[Shadow|shadow]], but turning his face once to the [[Moon|moon]]?
 On my oath and on my honor--Treherne."
 
 "It is awful," said Paynter, like a man stunned.  "What you say
@@ -1587,13 +1587,13 @@ is simply awful."
 "Yes," said Ashe seriously, "very awful, but very simple.
 Treherne knew where the ax was originally thrown.  I saw him,
 on that day he lunched here first, watching it like a wolf,
-while Miss Vane was talking to him.  On that dreadful night
+while Miss Vane was talking to him.  On that dreadful [[Night|night]]
 he could easily have picked it up as he went into the wood.
-He knew about the well, no doubt; who was so likely to know any old
+He knew about the [[Well|well]], no [[Doubt|doubt]]; who was so likely to know any old
 traditions about the peacock trees?  He hid the hat in the trees,
 where perhaps he hoped (though the point is unimportant)
 that nobody would dare to look.  Anyhow, he hid it, simply because it
-was the one thing that would not sink in the well.  Mr. Paynter,
+was the one thing that would not sink in the [[Well|well]].  Mr. Paynter,
 do you think I would say this of any man in mere mean dislike?
 Could any man say it of any man unless the case was complete,
 as this is complete?"
@@ -1611,7 +1611,7 @@ Ashe made a mournful gesture.
 "Even these dry bones--"
 
 And he stopped suddenly with his mouth open, a blinding light
-of wonder in his pale eyes.
+of [[Wonder|wonder]] in his pale eyes.
 
 "See here," he said hoarsely and hastily.  "You have said the word.
 What does it mean?  What can it mean?  Dry?  Why are these bones dry?"
@@ -1619,7 +1619,7 @@ What does it mean?  What can it mean?  Dry?  Why are these bones dry?"
 The lawyer started and stared down at the heap.
 
 "Your case complete!" cried Paynter, in mounting excitement.
-"Where is the water in the well?  The water I saw leap like a flame?
+"Where is the [[Water|water]] in the [[Well|well]]?  The [[Water|water]] I saw leap like a flame?
 Why did it leap?  Where is it gone to?  Complete!  We are
 buried under riddles."
 
@@ -1631,7 +1631,7 @@ Ashe stooped, picked up a bone and looked at it.
 "Yes, I am right," replied Cyprian.  "And your mystic is still
 as mysterious as a mystic."
 
-There was a long silence.  Ashe laid down the bone, picked up the ax
+There was a long [[Silence|silence]].  Ashe laid down the bone, picked up the ax
 and studied it more closely.  Beyond the dull stain at the corner
 of the steel there was nothing unusual about it save a broad white
 rag wrapped round the handle, perhaps to give a better grip.
@@ -1639,21 +1639,21 @@ The lawyer thought it worth noting, however, that the rag was certainly
 newer and cleaner than the chopper.  But both were quite dry.
 
 "Mr. Paynter," he said at last, "I admit you have scored,
-in the spirit if not in the letter.  In strict logic, this greater
+in the spirit if not in the letter.  In strict [[logic]], this greater
 puzzle is not a reply to my case.  If this ax has not been dipped
-in water, it has been dipped in blood; and the water jumping out of
-the well is not an explanation of the poet jumping out of the wood.
+in [[Water|water]], it has been dipped in [[Blood|blood]]; and the [[Water|water]] jumping out of
+the [[Well|well]] is not an explanation of the poet jumping out of the wood.
 But I admit that morally and practically it does make a vital difference.
 We are not faced with a colossal contradiction, and we don't
-know how far it extends.  The body might have been broken
+know how far it extends.  The [[Body|body]] might have been broken
 up or boiled down to its bones by the murderer, though it
 may be hard to connect it with the conditions of the murder.
-It might conceivably have been so reduced by some property in the water
+It might conceivably have been so reduced by some property in the [[Water|water]]
 and soil, for decomposition varies vastly with these things.
 I should not dismiss my strong prima facie case against the likely
 person because of these difficulties.  But here we have something
 entirely different.  That the bones themselves should remain dry
-in a well full of water, or a well that yesterday was full of water--
+in a [[Well|well]] full of [[Water|water]], or a [[Well|well]] that yesterday was full of [[Water|water]]--
 that brings us to the edge of something beyond which we can make
 no guess.  There is a new factor, enormous and quite unknown.
 While we can't fit together such prodigious facts, we can't fit
@@ -1667,14 +1667,14 @@ Paynter, beginning to follow, hesitated a moment, and then said:
 "Forgive me for a kind of liberty; as you say, you are an older
 friend of the family.  I entirely agree with your suggestion,
 but before you act on your present suspicions, do you know,
-I think Miss Vane ought to be warned a little?  I rather fear all
+I think Miss Vane ought to be warned a little?  I rather [[Fear|fear]] all
 this will be a new shock to her."
 
-"Very well," said Ashe, after looking at him steadily for an instant.
+"Very [[Well|well]]," said Ashe, after looking at him steadily for an instant.
 "Let us go across to her first."
 
 From the opening of the wood they could see Barbara Vane writing
-at the garden table, which was littered with correspondence,
+at the [[Garden|garden]] table, which was littered with correspondence,
 and the butler with his yellow face waiting behind her chair.
 As the lengths of grass lessened between them, and the little
 group at the table grew larger and clearer in the sunlight,
@@ -1687,12 +1687,12 @@ said the lawyer, with a touch of authority in his respect;
 and when the butler was dismissed he laid open the whole matter
 before her, speaking sympathetically, but leaving out nothing,
 from the strange escape of the poet from the wood to the last
-detail of the dry bones out of the well.  No fault could be
+detail of the dry bones out of the [[Well|well]].  No fault could be
 found with any one of his tones or phrases, and yet Cyprian,
 tingling in every nerve with the fine delicacy of his nation
 about the other sex, felt as if she were faced with an inquisitor.
 He stood about uneasily, watched the few colored clouds in the clear
-sky and the bright birds darting about the wood, and he heartily
+sky and the bright [[Birds|birds]] darting about the wood, and he heartily
 wished himself up the tree again.
 
 Soon, however, the way the girl took it began to move him to
@@ -1706,15 +1706,15 @@ her copper coils of hair, a brooding spirit that was itself a mystery.
 He could only tell himself that she was less merely receptive,
 either firmly or weakly, than he would have expected.
 It was as if she revolved, not their problem, but her own.
-She was silent a long time, and said at last:
+She was silent a long [[Time|time]], and said at last:
 
 "Thank you, Mr. Ashe, I am really very grateful for this.
 After all, it brings things to the point where they must have come sooner
 or later."  She looked dreamily at the wood and sea, and went on:
 "I've not only had myself to consider, you see; but if you're really
-thinking THAT, it's time I spoke out, without asking anybody.
+thinking THAT, it's [[Time|time]] I spoke out, without asking anybody.
 You say, as if it were something very dreadful, 'Mr. Treherne was
-in the wood that night.'  Well, it's not quite so dreadful to me,
+in the wood that [[Night|night]].'  [[Well]], it's not quite so dreadful to me,
 you see, because I know he was.  In fact, we were there together."
 
 "Together!" repeated the lawyer.
@@ -1727,7 +1727,7 @@ to be together."
 
 "No, no," she said.  "We were married."
 
-Then, amid a startled silence, she added, as a kind of afterthought:
+Then, amid a startled [[Silence|silence]], she added, as a kind of afterthought:
 
 "In fact, we are still."
 
@@ -1736,28 +1736,28 @@ sort of solid stupefaction at which Paynter could not help smiling.
 
 "You will ask me, of course," went on Barbara in the same measured manner,
 "why we should be married secretly, so that even my poor father did
-not know.  Well, I answer you quite frankly to begin with; because, if he
+not know.  [[Well]], I answer you quite frankly to begin with; because, if he
 had known, he would certainly have cut me off with a shilling.  He did
 not like my husband, and I rather fancy you do not like him either.
-And when I tell you this, I know perfectly well what you will say--
+And when I tell you this, I know perfectly [[Well|well]] what you will say--
 the usual adventurer getting hold of the usual heiress.
 It is quite reasonable, and, as it happens, it is quite wrong.
 If I had deceived my father for the sake of the money, or even for
 the sake of a man, I should be a little ashamed to talk to you about it.
 And I think you can see that I am not ashamed."
 
-"Yes," said the American, with a grave inclination, "yes, I can see that."
+"Yes," said the American, with a [[Grave|grave]] inclination, "yes, I can see that."
 
 She looked at him thoughtfully for a moment, as if seeking words
 for an obscure matter, and then said:
 
 "Do you remember, Mr. Paynter, that day you first lunched here
-and told us about the African trees?  Well, it was my birthday;
+and told us about the African trees?  [[Well]], it was my birthday;
 I mean my first birthday.  I was born then, or woke up or something.
-I had walked in this garden like a somnambulist in the sun.
+I had walked in this [[Garden|garden]] like a somnambulist in the sun.
 I think there are many such somnambulists in our set and our society;
 stunned with health, drugged with good manners, fitting their
-surroundings too well to be alive.  Well, I came alive somehow;
+surroundings too [[Well|well]] to be alive.  [[Well]], I came alive somehow;
 and you know how deep in us are the things we first realize when we
 were babies and began to take notice.  I began to take notice.
 One of the first things I noticed was your own story, Mr. Paynter.
@@ -1782,7 +1782,7 @@ sacred tradition, or, where a wicked god has been worshiped,
 to destroy his altar and to cut down his grove."
 
 "His grove," said Paynter automatically, and looked toward
-the little wood, where the sunbright birds were flying.
+the little wood, where the sunbright [[Birds|birds]] were flying.
 
 "Mrs. Treherne," said Ashe, with a formidable quietness, "I am
 not so unsympathetic with all this as you may perhaps suppose.
@@ -1797,12 +1797,12 @@ must keep our common sense.  There are reasons for everything,
 and when my old friend lies butchered do not come to me with even
 the most beautiful fairy tales about a saint and his enchanted grove."
 
-"Well, and you!" she cried, and rose radiantly and swiftly.
+"[[Well]], and you!" she cried, and [[Rose|rose]] radiantly and swiftly.
 "With what kind of fairy tales do you come to me?
 In what enchanted groves are YOU walking?  You come and tell
-me that Mr. Paynter found a well where the water danced and
+me that Mr. Paynter found a [[Well|well]] where the [[Water|water]] danced and
 then disappeared; but of course miracles are all moonshine!
-You tell me you yourself fished bones from under the same water,
+You tell me you yourself fished bones from under the same [[Water|water]],
 and every bone was as dry as a biscuit; but for Heaven's sake let us
 say nothing that makes anybody's head go round!  Really, Mr. Ashe,
 you must try to preserve your common sense!"
@@ -1810,7 +1810,7 @@ you must try to preserve your common sense!"
 She was smiling, but with blazing eyes; and Ashe got to his feet
 with an involuntary laugh of surrender.
 
-"Well, we must be going," he said.  "May I say that a tribute is
+"[[Well]], we must be going," he said.  "May I say that a tribute is
 really due to your new transcendental training?  If I may say so,
 I always knew you had brains; and you've been learning to use them."
 
@@ -1823,26 +1823,26 @@ of having it at once.
 "I shall be the coroner," he said, "and I think it will be a case
 of 'some person or persons unknown.'  Don't be surprised;
 it is often done to give the guilty a false security.
-This is not the first time the police have found it convenient
+This is not the first [[Time|time]] the police have found it convenient
 to have the inquest first and the inquiry afterward."
 
 But Paynter had paid little attention to the point; for his great gift
 of enthusiasm, long wasted on arts and affectations, was lifted to
-inspiration by the romance of real life into which he had just walked.
+inspiration by the [[Romance|romance]] of real life into which he had just walked.
 He was really a great critic; he had a genius for admiration,
 and his admiration varied fittingly with everything he admired.
 
 "A splendid girl and a splendid story," he cried.  "I feel as if I
-were in love again myself, not so much with her as with Eve or Helen
-of Troy, or some such tower of beauty in the morning of the world.
-Don't you love all heroic things, that gravity and great candor,
+were in [[Love|love]] again myself, not so much with her as with Eve or [[Helen]]
+of Troy, or some such tower of [[Beauty|beauty]] in the morning of the world.
+Don't you [[Love|love]] all heroic things, that gravity and great candor,
 and the way she took one step from a sort of throne to stand in a
 wilderness with a vagabond?  Oh, believe me, it is she who is the poet;
 she has the higher reason, and honor and valor are at rest
-in her soul."
+in her [[Soul|soul]]."
 
 "In short, she is uncommonly pretty," replied Ashe, with some cynicism.
-"I knew a murderess rather well who was very much like her,
+"I knew a murderess rather [[Well|well]] who was very much like her,
 and had just that colored hair."
 
 "You talk as if a murderer could be caught red-haired instead
@@ -1853,13 +1853,13 @@ by any chance?"
 Ashe looked up quickly, and then smiled.
 
 "I'm afraid I'm a connoisseur in murderers, as you are in poets," he
-answered, "and I assure you they are of all colors in hair as well as
+answered, "and I assure you they are of all colors in hair as [[Well|well]] as
 temperament.  I suppose it's inhumane, but mine is a monstrously
 interesting trade, even in a little place like this.  As for that
 girl, of course I've known her all her life, and--but--but that is
 just the question.  Have I known her all her life?  Have I known her
 at all?  Was she even there to be known?  You admire her for telling
-the truth; and so she did, by God, when she said that some people wake
+the [[Truth|truth]]; and so she did, by God, when she said that some people wake
 up late, who have never lived before.  Do we know what they might
 do--we, who have only seen them asleep?"
 
@@ -1873,13 +1873,13 @@ I think I know where to find him."
 They found him, in fact, before they expected him, sitting on the bench
 outside the Vane Arms, drinking a mug of cider and waiting for the return
 of his American friend; so it was not difficult to open conversation
-with him.  Nor did he in any way avoid the subject of the tragedy;
+with him.  Nor did he in any way avoid the subject of the [[Tragedy|tragedy]];
 and the lawyer, seating himself also on the long bench that fronted
 the little market place, was soon putting the last developments
 as lucidly as he had put them to Barbara.
 
-"Well," said Treherne at last, leaning back and frowning at the signboard,
-with the colored birds and dolphins, just about his head;
+"[[Well]]," said Treherne at last, leaning back and frowning at the signboard,
+with the colored [[Birds|birds]] and dolphins, just about his head;
 "suppose somebody did kill the Squire.  He'd killed a good many
 people with his hygiene and his enlightened landlordism."
 
@@ -1888,20 +1888,20 @@ but the poet went on quite coolly, with his hands in his pockets
 and his feet thrust out into the street.
 
 "When a man has the power of a Sultan in Turkey, and uses it with
-the ideas of a spinster in Tooting, I often wonder that nobody puts
+the ideas of a spinster in Tooting, I often [[Wonder|wonder]] that nobody puts
 a knife in him.  I wish there were more sympathy for murderers, somehow.
 I'm very sorry the poor old fellow's gone myself; but you gentlemen
 always seem to forget there are any other people in the world.
-He's all right; he was a good fellow, and his soul, I fancy,
+He's all right; he was a good fellow, and his [[Soul|soul]], I fancy,
 has gone to the happiest paradise of all."
 
 The anxious American could read nothing of the effect of this
 in the dark Napoleonic face of the lawyer, who merely said:
 "What do you mean?"
 
-"The fool's paradise," said Treherne, and drained his pot of cider.
+"The [[Fool|fool]]'s paradise," said Treherne, and drained his pot of cider.
 
-The lawyer rose.  He did not look at Treherne, or speak to him;
+The lawyer [[Rose|rose]].  He did not look at Treherne, or speak to him;
 but looked and spoke straight across him to the American, who found
 the utterance not a little unexpected.
 
@@ -1915,7 +1915,7 @@ to talk about the murder, and then at once deny it and defend it.
 No, if a man is concealing his crime, why should he go out of his
 way to apologize for it?"
 
-"Well," said Paynter, with his ready appreciation, "I always said
+"[[Well]]," said Paynter, with his ready appreciation, "I always said
 you were a remarkable man; and that's certainly a remarkable idea."
 
 "Do I understand," asked the poet, kicking his heels on the cobbles,
@@ -1929,32 +1929,32 @@ It would not have been for money or any mean thing, but for something
 a little wilder and worthier of a man of genius.  After all,
 I suppose, the poet has passions like great unearthly appetites;
 and the world has always judged more gently of his sins.
-But now that Mr. Ashe admits your innocence, I can honestly say I
+But now that Mr. Ashe admits your [[innocence]], I can honestly say I
 have always affirmed it."
 
-The poet rose also.  "Well, I am innocent, oddly enough," he said.
-"I think I can make a guess about your vanishing well,
-but of the death and dry bones I know no more than the dead;
+The poet [[Rose|rose]] also.  "[[Well]], I am [[Innocent|innocent]], oddly enough," he said.
+"I think I can make a guess about your vanishing [[Well|well]],
+but of the [[Death|death]] and dry bones I know no more than the dead;
 if so much.  And, by the way, my dear Paynter"--and he turned two
 bright eyes on the art critic--"I will excuse you from excusing me
-for all the things I haven't done; and you, I hope, will excuse
-me if I differ from you altogether about the morality of poets.
+for all the things I haven't done; and you, I [[Hope|hope]], will excuse
+me if I differ from you altogether about the [[morality]] of poets.
 As you suggest, it is a fashionable view, but I think it is a fallacy.
-No man has less right to be lawless than a man of imagination.
+No man has less right to be lawless than a man of [[Imagination|imagination]].
 For he has spiritual adventures, and can take his holidays when he likes.
 I could picture the poor Squire carried off to elfland whenever I wanted
 him carried off, and that wood needed no crime to make it wicked for me.
-That red sunset the other night was all that a murder would
+That red sunset the other [[Night|night]] was all that a murder would
 have been to many men.  No, Mr. Ashe; show, when next you sit
-in judgment, a little mercy to some wretched man who drinks and robs
+in judgment, a little [[Mercy|mercy]] to some wretched man who drinks and robs
 because he must drink beer to taste it, and take it to drink it.
 Have compassion on the next batch of poor thieves, who have to hold
 things in order to have them.  But if ever you find ME stealing
-one small farthing, when I can shut my eyes and see the city
+one small farthing, when I can shut my eyes and see the [[City|city]]
 of El Dorado, then"--and he lifted his head like a falcon--"show
-me no mercy, for I shall deserve none."
+me no [[Mercy|mercy]], for I shall deserve none."
 
-"Well," remarked Ashe, after a pause, "I must go and fix things up
+"[[Well]]," remarked Ashe, after a pause, "I must go and fix things up
 for the inquest.  Mr. Treherne, your attitude is singularly interesting;
 I really almost wish I could add you to my collection of murderers.
 They are a varied and extraordinary set."
@@ -1968,30 +1968,30 @@ of sins avoided."
 man in the street and ask him what crimes he never committed and why not.
 And I happen to be busy, so you'll excuse me."
 
-"What," asked the American, when he and the poet were alone,
-"is this guess of yours about the vanishing water?"
+"What," asked the American, when he and the poet were [[Alone|alone]],
+"is this guess of yours about the vanishing [[Water|water]]?"
 
-"Well, I'm not sure I'll tell you yet," answered Treherne,
+"[[Well]], I'm not sure I'll tell you yet," answered Treherne,
 something of the old mischief coming back into his dark eyes.
 "But I'll tell you something else, which may be connected with it;
 something I couldn't tell until my wife had told you about our
-meeting in the wood."  His face had grown grave again, and he resumed
+meeting in the wood."  His face had grown [[Grave|grave]] again, and he resumed
 after a pause:
 
 "When my wife started to follow her father I advised her to go back
-first to the house, to leave it by another door and to meet me in
+first to the [[house]], to leave it by another door and to meet me in
 the wood in half an hour.  We often made these assignations, of course,
-and generally thought them great fun, but this time the question
+and generally thought them great fun, but this [[Time|time]] the question
 was serious, and I didn't want the wrong thing done in a hurry.
 It was a question whether anything could be done to undo an experiment
 we both vaguely felt to be dangerous, and she especially thought,
 after reflection, that interference would make things worse.
 She thought the old sportsman, having been dared to do something,
 would certainly not be dissuaded by the very man who had dared him
-or by a woman whom he regarded as a child.  She left me at last in a
-sort of despair, but I lingered with a last hope of doing something,
+or by a woman whom he regarded as a [[Child|child]].  She left me at last in a
+sort of [[Despair|despair]], but I lingered with a last [[Hope|hope]] of doing something,
 and drew doubtfully near to the heart of the wood; and there,
-instead of the silence I expected, I heard a voice.  It seemed
+instead of the [[Silence|silence]] I expected, I heard a voice.  It seemed
 as if the Squire must be talking to himself, and I had the unpleasant
 fancy that he had already lost his reason in that wood of witchcraft.
 But I soon found that if he was talking he was talking with two voices.
@@ -2002,11 +2002,11 @@ the voice, for I had heard it twenty times across the table.
 It was the voice of that doctor of yours; I heard it as certainly
 as you hear my voice now."
 
-After a moment's silence, he resumed:  "I left the wood, I hardly
+After a moment's [[Silence|silence]], he resumed:  "I left the wood, I hardly
 knew why, and with wild and bewildered feelings; and as I came out
 into the faint moonshine I saw that old lawyer standing quietly,
 but staring at me like an owl.  At least, the light touched
-his red hair with fire, but his square old face was in shadow.
+his red hair with [[Fire|fire]], but his square old face was in [[Shadow|shadow]].
 But I knew, if I could have read it, that it was the face of
 a hanging judge."
 
@@ -2018,38 +2018,38 @@ patiently to hang the wrong man."
 his shoulders, sprawling on the ale bench, and played with
 his empty pot.
 
-IV.  THE CHASE AFTER THE TRUTH
+IV.  THE CHASE AFTER THE [[Truth|TRUTH]]
 
-Some time after the inquest, which had ended in the inconclusive
+Some [[Time|time]] after the inquest, which had ended in the inconclusive
 verdict which Mr. Andrew Ashe had himself predicted and achieved,
 Paynter was again sitting on the bench outside the village inn,
 having on the little table in front of it a tall glass of light ale,
 which he enjoyed much more as local color than as liquor.
 He had but one companion on the bench, and that a new one,
 for the little market place was empty at that hour, and he had lately,
-for the rest, been much alone.  He was not unhappy, for he resembled
+for the rest, been much [[Alone|alone]].  He was not unhappy, for he resembled
 his great countryman, Walt Whitman, in carrying a kind of universe
-with him like an open umbrella; but he was not only alone, but lonely.
-For Ashe had gone abruptly up to London, and since his return had been
+with him like an open umbrella; but he was not only [[Alone|alone]], but lonely.
+For Ashe had gone abruptly up to [[London]], and since his return had been
 occupied obscurely with legal matters, doubtless bearing on the murder.
 And Treherne had long since taken up his position openly,
-at the great house, as the husband of the great lady,
+at the [[Great House|great house]], as the husband of the great lady,
 and he and she were occupied with sweeping reforms on the estate.
-The lady especially, being of the sort whose very dreams "drive
+The lady especially, being of the sort whose very [[Dreams|dreams]] "drive
 at practice," was landscape gardening as with the gestures of a giantess.
 It was natural, therefore, that so sociable a spirit as Paynter should
 fall into speech with the one other stranger who happened to be staying
 at the inn, evidently a bird of passage like himself.  This man,
 who was smoking a pipe on the bench beside him, with his knapsack before
-him on the table, was an artist come to sketch on that romantic coast;
+him on the table, was an [[artist]] come to [[Sketch|sketch]] on that romantic coast;
 a tall man in a velvet jacket, with a shock of tow-colored hair,
 a long fair beard, but eyes of dark brown, the effect of which
 contrast reminded Paynter vaguely, he hardly knew why, of a Russian.
 The stranger carried his knapsack into many picturesque corners;
-he obtained permission to set up his easel in that high garden
+he obtained permission to set up his easel in that high [[Garden|garden]]
 where the late Squire had held his al fresco banquets.
-But Paynter had never had an opportunity of judging of the artist's work,
-nor did he find it easy to get the artist even to talk of his art.
+But Paynter had never had an opportunity of judging of the [[artist]]'s work,
+nor did he find it easy to get the [[artist]] even to talk of his art.
 Cyprian himself was always ready to talk of any art, and he talked
 of it excellently, but with little response.  He gave his own
 reasons for preferring the Cubists to the cult of Picasso,
@@ -2065,19 +2065,19 @@ of the peacock trees needed a mysterious stranger to round it off,
 and this man had much the air of being one, when the mysterious
 stranger himself said suddenly:
 
-"Well, I think I'd better show you the work I'm doing down here."
+"[[Well]], I think I'd better show you the work I'm doing down here."
 
 He had his knapsack before him on the table, and he smiled rather
 grimly as he began to unstrap it.  Paynter looked on with polite
-expressions of interest, but was considerably surprised when the artist
+expressions of interest, but was considerably surprised when the [[artist]]
 unpacked and placed on the table, not any recognizable works of art,
 even of the most Cubist description, but (first) a quire of foolscap
 closely written with notes in black and red ink, and (second), to the
 American's extreme amazement, the old woodman's ax with the linen wrapper,
-which he had himself found in the well long ago.
+which he had himself found in the [[Well|well]] long ago.
 
-"Sorry to give you a start, sir," said the Russian artist,
-with a marked London accent.  "But I'd better explain straight off
+"Sorry to give you a start, sir," said the Russian [[artist]],
+with a marked [[London]] accent.  "But I'd better explain straight off
 that I'm a policeman."
 
 "You don't look it," said Paynter.
@@ -2087,12 +2087,12 @@ down here from the Yard to investigate; but he told me to report
 to you when I'd got anything to go on.  Would you like to go into
 the matter now?
 
-"When I took this matter up," explained the detective, "I did it
+"When I took this matter up," explained the [[Detective|detective]], "I did it
 at Mr. Ashe's request, and largely, of course, on Mr. Ashe's lines.
 Mr. Ashe is a great criminal lawyer; with a beautiful brain, sir,
 as full as the Newgate Calendar.  I took, as a working notion,
 his view that only you five gentlemen round the table in the Squire's
-garden were acquainted with the Squire's movements.  But you gentlemen,
+[[Garden|garden]] were acquainted with the Squire's movements.  But you gentlemen,
 if I may say so, have a way of forgetting certain other things
 and other people which we are rather taught to look for first.
 And as I followed Mr. Ashe's inquiries through the stages you
@@ -2102,9 +2102,9 @@ in the end, which I think we should have considered at the beginning.
 Now, to begin with, it is not true that there were five men round
 the table.  There were six."
 
-The creepy conditions of that garden vigil vaguely returned upon Paynter;
-and he thought of a ghost, or something more nameless than a ghost.
-But the deliberate speech of the detective soon enlightened him.
+The creepy conditions of that [[Garden|garden]] vigil vaguely returned upon Paynter;
+and he thought of a [[Ghost|ghost]], or something more nameless than a [[Ghost|ghost]].
+But the deliberate speech of the [[Detective|detective]] soon enlightened him.
 
 "There were six men and five gentlemen, if you like to put it so,"
 he proceeded.  "That man Miles, the butler, saw the Squire vanish
@@ -2115,36 +2115,36 @@ A light of understanding dawned on Paynter's face.  "So that was it,
 was it!" he muttered.
 
 "Does all our mythological mystery end with a policeman collaring
-a butler?  Well, I agree with you he is far from an ordinary butler,
-even to look at; and the fault in imagination is mine.
-Like many faults in imagination, it was simply snobbishness."
+a butler?  [[Well]], I agree with you he is far from an ordinary butler,
+even to look at; and the fault in [[Imagination|imagination]] is mine.
+Like many faults in [[Imagination|imagination]], it was simply snobbishness."
 
 "We don't go quite so fast as that," observed the officer,
 in an impassive manner.  "I only said I found the inquiry
-pointing to Miles; and that he was well worthy of attention.
+pointing to Miles; and that he was [[Well|well]] worthy of attention.
 He was much more in the old Squire's confidence than many
-people supposed; and when I cross-examined him he told me a good deal
+people supposed; and when I [[Cross|cross]]-examined him he told me a good deal
 that was worth knowing.  I've got it all down in these notes here;
 but at the moment I'll only trouble you with one detail of it.
-One night this butler was just outside the Squire's dining-room door,
+One [[Night|night]] this butler was just outside the Squire's dining-room door,
 when he heard the noise of a violent quarrel.  The Squire was a
-violent gentleman, from time to time; but the curious thing about this
+violent gentleman, from [[Time|time]] to [[Time|time]]; but the curious thing about this
 scene was that the other gentleman was the more violent of the two.
 Miles heard him say repeatedly that the Squire was a public nuisance,
-and that his death would be a good riddance for everybody.
+and that his [[Death|death]] would be a good riddance for everybody.
 I only stop now to tell you that the other gentleman was Dr. Burton Brown,
 the medical man of this village.
 
-"The next examination I made was that of Martin, the woodcutter.
+"The next examination I made was that of Martin, the [[Woodcutter|woodcutter]].
 Upon one point at least his evidence is quite clear, and is,
 as you will see, largely confirmed by other witnesses.
 He says first that the doctor prevented him from recovering his ax,
 and this is corroborated by Mr. and Mrs. Treherne.  But he says further
 that the doctor admitted having the thing himself; and this again
 finds support in other evidence by the gardener, who saw the doctor,
-some time afterward, come by himself and pick up the chopper.
+some [[Time|time]] afterward, come by himself and pick up the chopper.
 Martin says that Doctor Brown repeatedly refused to give it up,
-alleging some fanciful excuse every time.  And, finally, Mr. Paynter,
+alleging some fanciful excuse every [[Time|time]].  And, finally, Mr. Paynter,
 we will hear the evidence of the ax itself."
 
 He laid the woodman's tool on the table in front of him, and began
@@ -2155,79 +2155,79 @@ just the odd thing about it, that it really is a bandage.
 This white stuff is the sort of lint they use in hospitals,
 cut into strips like this.  But most doctors keep some; and I
 have the evidence of Jake the fisherman, with whom Doctor Brown
-lived for some time, that the doctor had this useful habit.
+lived for some [[Time|time]], that the doctor had this useful habit.
 And, last," he added, flattening out a corner of the rag on the table,
 "isn't it odd that it should be marked T.B.B.?"
 
 The American gazed at the rudely inked initials, but hardly saw them.
-What he saw, as in a mirror in his darkened memory, was the black figure
-with the black gloves against the blood-red sunset, as he had seen
+What he saw, as in a [[Mirror|mirror]] in his darkened [[Memory|memory]], was the black figure
+with the black gloves against the [[Blood|blood]]-red sunset, as he had seen
 it when he came out of the wood, and which had always haunted him,
 he knew not why.
 
 "Of course, I see what you mean," he said, "and it's
 very painful for me, for I knew and respected the man.
 But surely, also, it's very far from explaining everything.
-If he is a murderer, is he a magician?  Why did the well water all
-evaporate in a night, and leave the dead man's bones dry as dust?
+If he is a murderer, is he a magician?  Why did the [[Well|well]] [[Water|water]] all
+evaporate in a [[Night|night]], and leave the dead man's bones dry as [[Dust|dust]]?
 That's not a common operation in the hospitals, is it?"
 
-"As to the water, we do know the explanation," said the detective.
+"As to the [[Water|water]], we do know the explanation," said the [[Detective|detective]].
 "I didn't tumble to it at first myself, being a Cockney; but a little talk
 with Jake and the other fisherman about the old smuggling days put me
 straight about that.  But I admit the dried remains still stump us all.
 All the same--"
 
-A shadow fell across the table, and his talk was sharply cut short.
+A [[Shadow|shadow]] fell across the table, and his talk was sharply cut short.
 Ashe was standing under the painted sign, buttoned up grimly
 in black, and with the face of the hanging judge, of which
-the poet had spoken, plain this time in the broad sunlight.
+the poet had spoken, plain this [[Time|time]] in the broad sunlight.
 Behind him stood two big men in plain clothes, very still;
 but Paynter knew instantly who they were.
 
 "We must move at once," said the lawyer.  "Dr. Burton Brown is
 leaving the village."
 
-The tall detective sprang to his feet, and Paynter instinctively
+The tall [[Detective|detective]] sprang to his feet, and Paynter instinctively
 imitated him.
 
 "He has gone up to the Trehernes possibly to say good-by," went on
-Ashe rapidly.  "I'm sorry, but we must arrest him in the garden there,
+Ashe rapidly.  "I'm sorry, but we must arrest him in the [[Garden|garden]] there,
 if necessary.  I've kept the lady out of the way, I think.
 But you"--addressing the factitious landscape painter--"must go up
 at once and rig up that easel of yours near the table and be ready.
 We will follow quietly, and come up behind the tree.
-We must be careful, for it's clear he's got wind of us, or he wouldn't
+We must be careful, for it's clear he's got [[Wind|wind]] of us, or he wouldn't
 be doing a bolt."
 
 "I don't like this job," remarked Paynter, as they mounted toward
-the park and garden, the detective darting on ahead.
+the park and [[Garden|garden]], the [[Detective|detective]] darting on ahead.
 
 "Do you suppose I do?" asked Ashe; and, indeed, his strong,
 heavy face looked so lined and old that the red hair seemed unnatural,
 like a red wig.  "I've known him longer than you, though perhaps
-I've suspected him longer as well."
+I've suspected him longer as [[Well|well]]."
 
-When they topped the slope of the garden the detective had
+When they topped the slope of the [[Garden|garden]] the [[Detective|detective]] had
 already erected his easel, though a strong breeze blowing toward
 the sea rattled and flapped his apparatus and blew about his fair
-(and false) beard in the wind.  Little clouds curled like feathers,
+(and false) beard in the [[Wind|wind]].  Little clouds curled like feathers,
 were scudding seaward across the many-colored landscape,
 which the American art critic had once surveyed on a happier morning;
 but it is doubtful if the landscape painter paid much attention to it.
 Treherne was dimly discernible in the doorway of what was now
-his house; he would come no nearer, for he hated such a public
+his [[house]]; he would come no nearer, for he hated such a public
 duty more bitterly than the rest.  The others posted themselves
 a little way behind the tree.  Between the lines of these masked
 batteries the black figure of the doctor could be seen coming
 across the green lawn, traveling straight, as a bullet,
-as he had done when he brought the bad news to the woodcutter.
+as he had done when he brought the bad news to the [[Woodcutter|woodcutter]].
 To-day he was smiling, under the dark mustache that was cut
 short of the upper lip, though they fancied him a little pale,
 and he seemed to pause a moment and peer through his spectacles
-at the artist.
+at the [[artist]].
 
-The artist turned from his easel with a natural movement, and then
+The [[artist]] turned from his easel with a natural movement, and then
 in a flash had captured the doctor by the coat collar.
 
 "I arrest you--" he began; but Doctor Brown plucked himself free
@@ -2236,20 +2236,20 @@ tore off his sham beard, tossing it into the air like one of the wild
 wisps of the cloud; then, with one wild kick, sent the easel
 flying topsy-turvy, and fled like a hare for the shore.
 Even at that dazzling instant Paynter felt that this wild reception
-was a novelty and almost an anticlimax; but he had no time for
+was a novelty and almost an anticlimax; but he had no [[Time|time]] for
 analysis when he and the whole pack had to follow in the hunt;
 even Treherne bringing up the rear with a renewed curiosity and energy.
 
 The fugitive collided with one of the policemen who ran to head him off,
 sending him sprawling down the slope; indeed, the fugitive seemed
 inspired with the strength of a wild ape.  He cleared at a bound
-the rampart of flowers, over which Barbara had once leaned to look
-at her future lover, and tumbled with blinding speed down the steep
+the rampart of [[Flowers|flowers]], over which Barbara had once leaned to look
+at her future [[Lover|lover]], and tumbled with blinding [[Speed|speed]] down the steep
 path up which that troubadour had climbed.  Racing with the rushing
-wind they all streamed across the garden after him, down the path,
+[[Wind|wind]] they all streamed across the [[Garden|garden]] after him, down the path,
 and finally on to the seashore by the fisher's cot, and the pierced
 crags and caverns the American had admired when he first landed.
-The runaway did not, however, make for the house he had long inhabited,
+The runaway did not, however, make for the [[house]] he had long inhabited,
 but rather for the pier, as if with a mind to seize the boat or to swim.
 Only when he reached the other end of the small stone jetty
 did he turn, and show them the pale face with the spectacles;
@@ -2264,20 +2264,20 @@ startled them as much as a shriek.
 "Gentleman," he said, "I won't protract your painful duties
 by asking you what you want; but I will ask at once for a
 small favor, which will not prejudice those duties in any way.
-I came down here rather in a hurry perhaps; but the truth is I
+I came down here rather in a hurry perhaps; but the [[Truth|truth]] is I
 thought I was late for an appointment."  He looked dispassionately
 at his watch.  "I find there is still some fifteen minutes.
-Will you wait with me here for that short time; after which I am
+Will you wait with me here for that short [[Time|time]]; after which I am
 quite at your service."
 
-There was a bewildered silence, and then Paynter said:
+There was a bewildered [[Silence|silence]], and then Paynter said:
 "For my part, I feel as if it would really be better to humor him."
 
 "Ashe," said the doctor, with a new note of seriousness, "for old
-friendship, grant me this last little indulgence.  It will make no
+[[Friendship|friendship]], grant me this last little indulgence.  It will make no
 difference; I have no arms or means of escape; you can search me if
 you like.  I know you think you are doing right, and I also know you
-will do it as fairly as you can.  Well, after all, you get friends to
+will do it as fairly as you can.  [[Well]], after all, you get friends to
 help you; look at our friend with the beard, or the remains of the
 beard.  Why shouldn't I have a friend to help me?  A man will be here
 in a few minutes in whom I put some confidence; a great authority on
@@ -2285,9 +2285,9 @@ these things.  Why not, if only out of curiosity, wait and hear his
 view of the case?"
 
 "This seems all moonshine," said Ashe, "but on the chance
-of any light on things--well, from the moon--I don't mind
-waiting a quarter of an hour.  Who is this friend, I wonder;
-some amateur detective, I suppose."
+of any light on things--[[Well|well]], from the [[Moon|moon]]--I don't mind
+waiting a quarter of an hour.  Who is this friend, I [[Wonder|wonder]];
+some amateur [[Detective|detective]], I suppose."
 
 "I thank you," said the doctor, with some dignity.  "I think you
 will trust him when you have talked to him a little.  And now,"
@@ -2299,9 +2299,9 @@ to be rather unique.  There is a very clear and conclusive combination
 of evidence against Thomas Burton Brown, otherwise myself.  But there is
 one peculiarity about that evidence, which you may perhaps have noticed.
 It all comes ultimately from one source, and that a rather unusual one.
-Thus, the woodcutter says I had his ax, but what makes him think so?
+Thus, the [[Woodcutter|woodcutter]] says I had his ax, but what makes him think so?
 He says I told him I had his ax; that I told him so again and again.
-Once more, Mr. Paynter here pulled up the ax out of the well; but how?
+Once more, Mr. Paynter here pulled up the ax out of the [[Well|well]]; but how?
 I think Mr. Paynter will testify that I brought him the tackle
 for fishing it up, tackle he might never have got in any other way.
 Curious, is it not?  Again, the ax is found to be wrapped in lint
@@ -2313,20 +2313,20 @@ Rather a singular thing to do; has anyone ever explained it?"
 His words, which had been heard at first with painful coldness
 were beginning to hold more and more of their attention.
 
-"Then there is the well itself," proceeded the doctor, with the same
-air of insane calm.  "I suppose some of you by this time know at
-least the secret of that.  The secret of the well is simply that it
-is not a well.  It is purposely shaped at the top so as to look
+"Then there is the [[Well|well]] itself," proceeded the doctor, with the same
+air of insane calm.  "I suppose some of you by this [[Time|time]] know at
+least the secret of that.  The secret of the [[Well|well]] is simply that it
+is not a [[Well|well]].  It is purposely shaped at the top so as to look
 like one, but it is really a sort of chimney opening from the roof
-of one of those caves over there; a cave that runs inland just
+of one of those caves over there; a [[Cave|cave]] that runs inland just
 under the wood, and indeed IS connected by tunnels and secret
 passages with other openings miles and miles away.  It is a sort
 of labyrinth used by smugglers and such people for ages past.
 This doubtless explains many of those disappearances we have heard of.
-But to return to the well that is not a well, in case some of you
+But to return to the [[Well|well]] that is not a [[Well|well]], in case some of you
 still don't know about it.  When the sea rises very high at
-certain seasons it fills the low cave, and even rises a little way
-in the funnel above, making it look more like a well than ever.
+certain [[Seasons|seasons]] it fills the low [[Cave|cave]], and even rises a little way
+in the funnel above, making it look more like a [[Well|well]] than ever.
 The noise Mr. Paynter heard was the natural eddy of a breaker
 from outside, and the whole experience depended on something
 so elementary as the tide."
@@ -2344,15 +2344,15 @@ there is only one possible answer.  The remains had NOT lain there
 since his disappearance.  The remains had been deliberately put
 there in the cavern under the wood, and put there AFTER Mr. Paynter
 had made his first investigation.  They were put there, in short,
-after the sea had retreated and the cave was again dry.
-That is why they were dry; of course, much drier than the cave.
-Who put them there, I wonder?"
+after the sea had retreated and the [[Cave|cave]] was again dry.
+That is why they were dry; of course, much drier than the [[Cave|cave]].
+Who put them there, I [[Wonder|wonder]]?"
 
 He was gazing gravely through his spectacles over their heads
 into vacancy, and suddenly he smiled.
 
 "Ah," he cried, jumping up from the rock with alacrity, "here is
-the amateur detective at last!"
+the amateur [[Detective|detective]] at last!"
 
 Ashe turned his head over his shoulder, and for a few seconds
 did not move it again, but stood as if with a stiff neck.
@@ -2361,23 +2361,23 @@ which it was everywhere cloven.  Advancing from this into the sunshine,
 as if from a narrow door, was Squire Vane, with a broad smile
 on his face.
 
-The wind was tearing from the top of the high cliff out to sea,
+The [[Wind|wind]] was tearing from the top of the high cliff out to sea,
 passing over their heads, and they had the sensation that
 everything was passing over their heads and out of their control.
 Paynter felt as if his head had been blown off like a hat.
 But none of this gale of unreason seemed to stir a hair on the white
-head of the Squire, whose bearing, though self-important and bordering
+head of the Squire, whose bearing, though [[Self|self]]-important and bordering
 on a swagger, seemed if anything more comfortable than in the old days.
 His red face was, however, burnt like a sailor's, and his light
 clothes had a foreign look.
 
-"Well, gentlemen," he said genially, "so this is the end of
+"[[Well]], gentlemen," he said genially, "so this is the end of
 the legend of the peacock trees.  Sorry to spoil that delightful
 traveller's tale, Mr. Paynter, but the joke couldn't be kept
 up forever.  Sorry to put a stop to your best poem, Mr. Treherne,
 but I thought all this poetry had been going a little too far.
 So Doctor Brown and I fixed up a little surprise for you.
-And I must say, without vanity, that you look a little surprised."
+And I must say, without [[Vanity|vanity]], that you look a little surprised."
 
 "What on earth," asked Ashe at last, "is the meaning of all this?"
 
@@ -2389,31 +2389,31 @@ But I want you to understand that the joke is really practical.
 I flatter myself it will be of very practical use to the cause of progress
 and common sense, and the killing of such superstitions everywhere.
 The best part of it, I admit, was the doctor's idea and not mine.
-All I meant to do was to pass a night in the trees, and then
+All I meant to do was to pass a [[Night|night]] in the trees, and then
 turn up as fresh as paint to tell you what fools you were.
 But Doctor Brown here followed me into the wood, and we had a little
 talk which rather changed my plans.  He told me that a disappearance
 for a few hours like that would never knock the nonsense on the head;
 most people would never even hear of it, and those who did would say
-that one night proved nothing.  He showed me a much better way, which had
+that one [[Night|night]] proved nothing.  He showed me a much better way, which had
 been tried in several cases where bogus miracles had been shown up.
 The thing to do was to get the thing really believed everywhere
 as a miracle, and then shown up everywhere as a sham miracle.
-I can't put all the arguments as well as he did, but that was
+I can't put all the arguments as [[Well|well]] as he did, but that was
 the notion, I think."
 
 The doctor nodded, gazing silently at the sand; and the Squire
 resumed with undiminished relish.
 
-"We agreed that I should drop through the hole into the cave,
+"We agreed that I should drop through the hole into the [[Cave|cave]],
 and make my way through the tunnels, where I often used to play
 as a boy, to the railway station a few miles from here,
-and there take a train for London.  It was necessary for the joke,
+and there take a train for [[London]].  It was necessary for the joke,
 of course, that I should disappear without being traced;
 so I made my way to a port, and put in a very pleasant month
 or two round my old haunts in Cyprus and the Mediterranean.
 There's no more to say of that part of the business, except that I
-arranged to be back by a particular time; and here I am.
+arranged to be back by a particular [[Time|time]]; and here I am.
 But I've heard enough of what's gone on round here to be satisfied
 that I've done the trick.  Everybody in Cornwall and most people
 in South England have heard of the Vanishing Squire; and thousands
@@ -2421,20 +2421,20 @@ of noodles have been nodding their heads over crystals and tarot
 cards at this marvelous proof of an unseen world.  I reckon the
 Reappearing Squire will scatter their cards and smash their crystals,
 so that such rubbish won't appear again in the twentieth century.
-I'll make the peacock trees the laughing stock of all Europe and America."
+I'll make the peacock trees the laughing stock of all Europe and [[America]]."
 
-"Well," said the lawyer, who was the first to rearrange his wits,
+"[[Well]]," said the lawyer, who was the first to rearrange his wits,
 "I'm sure we're all only too delighted to see you again, Squire;
 and I quite understand your explanation and your own very natural
 motives in the matter.  But I'm afraid I haven't got the hang
 of everything yet.  Granted that you wanted to vanish, was it
-necessary to put bogus bones in the cave, so as nearly to put
+necessary to put bogus bones in the [[Cave|cave]], so as nearly to put
 a halter round the neck of Doctor Brown?  And who put it there?
 The statement would appear perfectly maniacal; but so far as I can
 make head or tail out of anything, Doctor Brown seems to have put
 it there himself."
 
-The doctor lifted his head for the first time.
+The doctor lifted his head for the first [[Time|time]].
 
 "Yes; I put the bones there," he said.  "I believe I am the first
 son of Adam who ever manufactured all the evidence of a murder
@@ -2447,23 +2447,23 @@ looked rather wildly from one to the other.
 Whose bones?"
 
 "Your bones, in a manner of speaking," delicately conceded the doctor.
-"I had to make sure you had really died, and not disappeared by magic."
+"I had to make sure you had really died, and not disappeared by [[Magic|magic]]."
 
 The Squire in his turn seemed more hopelessly puzzled than the whole crowd
 of his friends had been over his own escapade.  "Why not?" he demanded.
-"I thought it was the whole point to make it look like magic.
+"I thought it was the whole point to make it look like [[Magic|magic]].
 Why did you want me to die so much?"
 
 Doctor Brown had lifted his head; and he now very slowly lifted
 his hand.  He pointed with outstretched arm at the headland
-overhanging the foreshore, just above the entrance to the cave.
+overhanging the foreshore, just above the entrance to the [[Cave|cave]].
 It was the exact part of the beach where Paynter had first landed,
-on that spring morning when he had looked up in his first fresh
-wonder at the peacock trees.  But the trees were gone.
+on that [[Spring|spring]] morning when he had looked up in his first fresh
+[[Wonder|wonder]] at the peacock trees.  But the trees were gone.
 
 The fact itself was no surprise to them; the clearance had naturally
 been one of the first of the sweeping changes of the Treherne regime.
-But though they knew it well, they had wholly forgotten it;
+But though they knew it [[Well|well]], they had wholly forgotten it;
 and its significance returned on them suddenly like a sign in heaven.
 
 "That is the reason," said the doctor.  "I have worked for that
@@ -2480,9 +2480,9 @@ to that of the vanishing trees.  The next half hour was full of his
 ravings and expostulations, which gradually died away into demands
 for explanation and incoherent questions repeated again and again.
 He had practically to be overruled at last, in spite of the respect
-in which he was held, before anything like a space and silence
+in which he was held, before anything like a space and [[Silence|silence]]
 were made in which the doctor could tell his own story.
-It was perhaps a singular story, of which he alone had ever had
+It was perhaps a singular story, of which he [[Alone|alone]] had ever had
 the knowledge; and though its narration was not uninterrupted,
 it may be set forth consecutively in his own words.
 
@@ -2490,11 +2490,11 @@ it may be set forth consecutively in his own words.
 I do not even give the nothing I believe a name; or I should be
 an atheist.  I have never had inside my head so much as a hint
 of heaven and hell.  I think it most likely we are worms in the mud;
-but I happen to be sorry for the other worms under the wheel.
+but I happen to be sorry for the other worms under the [[Wheel|wheel]].
 And I happen myself to be a sort of worm that turns when he can.
 If I care nothing for piety, I care less for poetry.  I'm not like
 Ashe here, who is crammed with criminology, but has all sorts of other
-culture as well.  I know nothing about culture, except bacteria culture.
+culture as [[Well|well]].  I know nothing about culture, except bacteria culture.
 I sometimes fancy Mr. Ashe is as much an art critic as Mr. Paynter;
 only he looks for his heroes, or villains, in real life.
 But I am a very practical man; and my stepping stones have been
@@ -2507,20 +2507,20 @@ But nobody had even a working hypothesis about it, except of course
 the ignorant peasantry, who said the peacock trees were in some
 wild way poisonous.
 
-"Well, the peacock trees were poisonous.  The peacock trees did produce
+"[[Well]], the peacock trees were poisonous.  The peacock trees did produce
 the fever.  I verified the fact in the plain plodding way required,
 comparing all the degrees and details of a vast number of cases;
 and there were a shocking number to compare.  At the end of it I had
-discovered the thing as Harvey discovered the circulation of the blood.
+discovered the thing as Harvey discovered the circulation of the [[Blood|blood]].
 Everybody was the worse for being near the things; those who came
 off best were exactly the exceptions that proved the rule,
 abnormally healthy and energetic people like the Squire and his daughter.
 In other words, the peasants were right.  But if I put it that way,
-somebody will cry:  'But do you believe it was supernatural then?'
+somebody will cry:  'But do you believe it was [[Supernatural|supernatural]] then?'
 In fact, that's what you'll all say; and that's exactly what I
 complain of.  I fancy hundreds of men have been left dead and
 diseases left undiscovered, by this suspicion of superstition,
-this stupid fear of fear.  Unless you see daylight through the forest
+this stupid [[Fear|fear]] of [[Fear|fear]].  Unless you see daylight through the forest
 of facts from the first, you won't venture into the wood at all.
 Unless we can promise you beforehand that there shall be what
 you call a natural explanation, to save your precious dignity
@@ -2530,12 +2530,12 @@ never find it!  Suppose I haven't a notion whether there is or not!
 What the devil has that to do with you, or with me in dealing
 with the facts I do know?  My own instinct is to think there is;
 that if my researches could be followed far enough it would
-be found that some horrible parody of hay fever, some effect
+be found that some horrible [[Parody|parody]] of hay fever, some effect
 analogous to that of pollen, would explain all the facts.
 I have never found the explanation.  What I have found are the facts.
-And the fact is that those trees on the top there dealt death
+And the fact is that those trees on the top there dealt [[Death|death]]
 right and left, as certainly as if they had been giants,
-standing on a hill and knocking men down in crowds with a club.
+standing on a [[Hill|hill]] and knocking men down in crowds with a club.
 It will be said that now I had only to produce my proofs and have
 the nuisance removed.  Perhaps I might have convinced the scientific
 world finally, when more and more processions of dead men had
@@ -2552,19 +2552,19 @@ It was the popular legend.
 in hay fever.  If there were a popular story about pollen, you would
 say that pollen was only a popular story.  I had something against
 me heavier and more hopeless than the hostility of the learned;
-I had the support of the ignorant.  My truth was hopelessly tangled up
+I had the support of the ignorant.  My [[Truth|truth]] was hopelessly tangled up
 with a tale that the educated were resolved to regard as entirely a lie.
 I never tried to explain again; on the contrary, I apologized,
-affected a conversion to the common-sense view, and watched events.
-And all the time the lines of a larger, if more crooked plan,
+affected a [[conversion]] to the common-sense view, and watched events.
+And all the [[Time|time]] the lines of a larger, if more crooked plan,
 began to get clearer in my mind.  I knew that Miss Vane,
 whether or no she were married to Mr. Treherne, as I afterward
 found she was, was so much under his influence that the first day
 of her inheritance would be the last day of the poisonous trees.
 But she could not inherit, or even interfere, till the Squire died.
-It became simply self-evident, to a rational mind, that the Squire
-must die.  But wishing to be humane as well as rational, I desired
-his death to be temporary.
+It became simply [[Self|self]]-evident, to a rational mind, that the Squire
+must die.  But wishing to be humane as [[Well|well]] as rational, I desired
+his [[Death|death]] to be temporary.
 
 "Doubtless my scheme was completed by a chapter of accidents, but I
 was watching for such accidents.  Thus I had a foreshadowing of how
@@ -2572,22 +2572,22 @@ the ax would figure in the tale when it was first flung at the trees;
 it would have surprised the woodman to know how near our minds were,
 and how I was but laying a more elaborate siege to the towers
 of pestilence.  But when the Squire spontaneously rushed on what half
-the countryside would call certain death, I jumped at my chance.
+the countryside would call certain [[Death|death]], I jumped at my chance.
 I followed him, and told him all that he has told you.
 I don't suppose he'll ever forgive me now, but that shan't
 prevent me saying that I admire him hugely for being what
 people would call a lunatic and what is really a sportsman.
 It takes rather a grand old man to make a joke in the grand style.
 He came down so quick from the tree he had climbed that he had no
-time to pull his hat off the bough it had caught in.
+[[Time|time]] to pull his hat off the bough it had caught in.
 
 "At first I found I had made a miscalculation.  I thought his
-disappearance would be taken as his death, at least after a little time;
+disappearance would be taken as his [[Death|death]], at least after a little [[Time|time]];
 but Ashe told me there could be no formalities without a corpse.
-I fear I was a little annoyed, but I soon set myself to the duty of
-manufacturing a corpse.  It's not hard for a doctor to get a skeleton;
+I [[Fear|fear]] I was a little annoyed, but I soon set myself to the duty of
+manufacturing a corpse.  It's not hard for a doctor to get a [[skeleton]];
 indeed, I had one, but Mr. Paynter's energy was a day too early for me,
-and I only got the bones into the well when he had already found it.
+and I only got the bones into the [[Well|well]] when he had already found it.
 His story gave me another chance, however; I noted where the hole
 was in the hat, and made a precisely corresponding hole in the skull.
 The reason for creating the other clues may not be so obvious.
@@ -2599,20 +2599,20 @@ So I'm not surprised you were puzzled about the purpose of the rag
 round the ax, because it had no purpose, except to incriminate
 the man who put it there.  The chase had to end with me, and when
 it was closing in at last the joke of it was too much for me,
-and I fear I took liberties with the gentleman's easel and beard.
+and I [[Fear|fear]] I took liberties with the gentleman's easel and beard.
 I was the only person who could risk it, being the only person who could
 at the last moment produce the Squire and prove there had been no crime
 at all.  That, gentlemen, is the true story of the peacock trees;
-and that bare crag up there, where the wind is whistling as it
+and that bare crag up there, where the [[Wind|wind]] is whistling as it
 would over a wilderness, is a waste place I have labored to make,
-as many men have labored to make a cathedral.
+as many men have labored to make a [[Cathedral|cathedral]].
 
 "I don't think there is any more to say, and yet something moves in my
-blood and I will try to say it.  Could you not have trusted a little
+[[Blood|blood]] and I will try to say it.  Could you not have trusted a little
 these peasants whom you already trust so much?  These men are men,
 and they meant something; even their fathers were not wholly fools.
 If your gardener told you of the trees you called him a madman,
-but he did not plan and plant your garden like a madman.
+but he did not plan and plant your [[Garden|garden]] like a madman.
 You would not trust your woodman about these trees, yet you trusted
 him with all the others.  Have you ever thought what all the work
 of the world would be like if the poor were so senseless as you
@@ -2621,31 +2621,31 @@ And your rational principle was that a thing must be false because
 thousands of men had found it true; that BECAUSE many human eyes
 had seen something it could not be there."
 
-He looked across at Ashe with a sort of challenge, but though the sea wind
+He looked across at Ashe with a sort of challenge, but though the sea [[Wind|wind]]
 ruffled the old lawyer's red mane, his Napoleonic mask was unruffled;
-it even had a sort of beauty from its new benignity.
+it even had a sort of [[Beauty|beauty]] from its new benignity.
 
 "I am too happy just now in thinking how wrong I have been,"
 he answered, "to quarrel with you, doctor, about our theories.
-And yet, in justice to the Squire as well as myself, I should demur
+And yet, in justice to the Squire as [[Well|well]] as myself, I should demur
 to your sweeping inference.  I respect these peasants, I respect
 your regard for them; but their stories are a different matter.
 I think I would do anything for them but believe them.
-Truth and fancy, after all, are mixed in them, when in the more
-instructed they are separate; and I doubt if you have considered
+[[Truth]] and fancy, after all, are mixed in them, when in the more
+instructed they are separate; and I [[Doubt|doubt]] if you have considered
 what would be involved in taking their word for anything.
-Half the ghosts of those who died of fever may be walking by now;
-and kind as these people are, I believe they might still burn a witch.
+Half the [[Ghosts|ghosts]] of those who died of fever may be walking by now;
+and kind as these people are, I believe they might still burn a [[Witch|witch]].
 No, doctor, I admit these people have been badly used, I admit they
 are in many ways our betters, but I still could not accept anything
 in their evidence."
 
 The doctor bowed gravely and respectfully enough, and then,
-for the last time that day, they saw his rather sinister smile.
+for the last [[Time|time]] that day, they saw his rather sinister smile.
 
 "Quite so," he said.  "But you would have hanged me on their evidence."
 
 And, turning his back on them, as if automatically, he set his face
 toward the village, where for so many years he had gone his round.
 
-End of The Trees of Pride, by G. K. Chesterton
+End of The Trees of [[Pride]], by G. K. Chesterton

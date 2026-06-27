@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 2 (part 1)"
+title: "[[The Professor]] — Chapter 2 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -20,27 +20,27 @@ A FINE October morning succeeded to the foggy evening that had witnessed
 
 my first introduction to Crimsworth Hall. I was early up and walking in
 
-the large park-like meadow surrounding the house. The autumn sun, rising
+the large park-like meadow surrounding the [[house]]. The [[Autumn|autumn]] sun, rising
 
 over the ----shire hills, disclosed a pleasant country; woods brown and
 
 mellow varied the fields from which the harvest had been lately carried;
 
-a river, gliding between the woods, caught on its surface the somewhat
+a [[River|river]], gliding between the woods, caught on its surface the somewhat
 
 cold gleam of the October sun and sky; at frequent intervals along the
 
-banks of the river, tall, cylindrical chimneys, almost like slender
+banks of the [[River|river]], tall, cylindrical chimneys, almost like slender
 
 round towers, indicated the factories which the trees half concealed;
 
 here and there mansions, similar to Crimsworth Hall, occupied agreeable
 
-sites on the hill-side; the country wore, on the whole, a cheerful,
+sites on the [[Hill|hill]]-side; the country wore, on the whole, a cheerful,
 
 active, fertile look. Steam, trade, machinery had long banished from
 
-it all romance and seclusion. At a distance of five miles, a valley,
+it all [[Romance|romance]] and seclusion. At a distance of five miles, a valley,
 
 opening between the low hills, held in its cups the great town of X----.
 
@@ -50,15 +50,15 @@ A dense, permanent vapour brooded over this locality--there lay Edward’s
 
 I forced my eye to scrutinize this prospect, I forced my mind to dwell
 
-on it for a time, and when I found that it communicated no pleasurable
+on it for a [[Time|time]], and when I found that it communicated no pleasurable
 
 emotion to my heart--that it stirred in me none of the hopes a man ought
 
 to feel, when he sees laid before him the scene of his life’s career--I
 
-said to myself, “William, you are a rebel against circumstances; you are
+said to myself, “William, you are a [[Rebel|rebel]] against circumstances; you are
 
-a fool, and know not what you want; you have chosen trade and you shall
+a [[Fool|fool]], and know not what you want; you have chosen trade and you shall
 
 be a tradesman. Look!” I continued mentally--“Look at the sooty smoke in
 
@@ -66,15 +66,15 @@ that hollow, and know that there is your post! There you cannot dream,
 
 you cannot speculate and theorize--there you shall out and work!”
 
-Thus self-schooled, I returned to the house. My brother was in the
+Thus [[Self|self]]-schooled, I returned to the [[house]]. My brother was in the
 
 breakfast-room. I met him collectedly--I could not meet him cheerfully;
 
-he was standing on the rug, his back to the fire--how much did I read in
+he was standing on the rug, his back to the [[Fire|fire]]--how much did I read in
 
 the expression of his eye as my glance encountered his, when I advanced
 
-to bid him good morning; how much that was contradictory to my nature!
+to bid him good morning; how much that was contradictory to my [[Nature|nature]]!
 
 He said “Good morning” abruptly and nodded, and then he snatched, rather
 
@@ -82,7 +82,7 @@ than took, a newspaper from the table, and began to read it with the air
 
 of a master who seizes a pretext to escape the bore of conversing with
 
-an underling. It was well I had taken a resolution to endure for a time,
+an underling. It was [[Well|well]] I had taken a resolution to endure for a [[Time|time]],
 
 or his manner would have gone far to render insupportable the disgust
 
@@ -90,7 +90,7 @@ I had just been endeavouring to subdue. I looked at him: I measured his
 
 robust frame and powerful proportions; I saw my own reflection in the
 
-mirror over the mantel-piece; I amused myself with comparing the two
+[[Mirror|mirror]] over the mantel-piece; I amused myself with comparing the two
 
 pictures. In face I resembled him, though I was not so handsome; my
 
@@ -100,7 +100,7 @@ form I was greatly inferior--thinner, slighter, not so tall. As an
 
 animal, Edward excelled me far; should he prove as paramount in mind
 
-as in person I must be a slave--for I must expect from him no lion-like
+as in person I must be a slave--for I must expect from him no [[Lion|lion]]-like
 
 generosity to one weaker than himself; his cold, avaricious eye, his
 
@@ -110,11 +110,11 @@ mind to cope with him? I did not know; I had never been tried.
 
 Mrs. Crimsworth’s entrance diverted my thoughts for a moment. She looked
 
-well, dressed in white, her face and her attire shining in morning
+[[Well|well]], dressed in white, her face and her attire shining in morning
 
 and bridal freshness. I addressed her with the degree of ease her last
 
-night’s careless gaiety seemed to warrant, but she replied with coolness
+[[Night|night]]’s careless gaiety seemed to warrant, but she replied with coolness
 
 and restraint: her husband had tutored her; she was not to be too
 
@@ -128,9 +128,9 @@ should expect me to be ready to go down with him to X----. I did not
 
 keep him waiting; we were soon dashing at a rapid rate along the
 
-road. The horse he drove was the same vicious animal about which Mrs.
+[[Road|road]]. The [[Horse|horse]] he drove was the same vicious animal about which Mrs.
 
-Crimsworth had expressed her fears the night before. Once or twice
+Crimsworth had expressed her fears the [[Night|night]] before. Once or twice
 
 Jack seemed disposed to turn restive, but a vigorous and determined
 
@@ -142,7 +142,7 @@ triumph in the result of the contest; he scarcely spoke to me during the
 
 whole of the brief drive, only opening his lips at intervals to damn his
 
-horse.
+[[Horse|horse]].
 
 X---- was all stir and bustle when we entered it; we left the clean
 
@@ -162,11 +162,11 @@ passing to and fro; a waggon was being laden with pieces. Mr. Crimsworth
 
 looked from side to side, and seemed at one glance to comprehend all
 
-that was going on; he alighted, and leaving his horse and gig to the
+that was going on; he alighted, and leaving his [[Horse|horse]] and gig to the
 
 care of a man who hastened to take the reins from his hand, he bid me
 
-follow him to the counting-house. We entered it; a very different place
+follow him to the counting-[[house]]. We entered it; a very different place
 
 from the parlours of Crimsworth Hall--a place for business, with a bare,
 
@@ -178,7 +178,7 @@ Mr. Crimsworth entered, and in an instant was again absorbed in his
 
 occupation of writing or calculating--I know not which.
 
-Mr. Crimsworth, having removed his mackintosh, sat down by the fire. I
+Mr. Crimsworth, having removed his mackintosh, sat down by the [[Fire|fire]]. I
 
 remained standing near the hearth; he said presently--
 
@@ -186,6 +186,6 @@ remained standing near the hearth; he said presently--
 
 with this gentleman. Come back when you hear the bell.”
 
-The individual at the desk rose and departed, closing the door as he
+The individual at the desk [[Rose|rose]] and departed, closing the door as he
 
-went out. Mr. Crimsworth stirred the fire, then folded his arms, and sat
+went out. Mr. Crimsworth stirred the [[Fire|fire]], then folded his arms, and sat

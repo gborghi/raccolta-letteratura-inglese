@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 27 (part 5)"
+title: "Bleak [[house|House]] — Chapter 27 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-“A family home,” he ruminates as he marches along, “however small it
-is, makes a man like me look lonely. But it’s well I never made that
+“A family [[Home|home]],” he ruminates as he marches along, “however small it
+is, makes a man like me look lonely. But it’s [[Well|well]] I never made that
 evolution of matrimony. I shouldn’t have been fit for it. I am such a
-vagabond still, even at my present time of life, that I couldn’t hold
+vagabond still, even at my present [[Time|time]] of life, that I couldn’t hold
 to the gallery a month together if it was a regular pursuit or if I
 didn’t camp there, gipsy fashion. Come! I disgrace nobody and cumber
 nobody; that’s something. I have not done that for many a long year!”
 
 So he whistles it off and marches on.
 
-Arrived in Lincoln’s Inn Fields and mounting Mr. Tulkinghorn’s stair,
+Arrived in [[Lincoln]]’s Inn Fields and mounting Mr. Tulkinghorn’s stair,
 he finds the outer door closed and the chambers shut, but the trooper
 not knowing much about outer doors, and the staircase being dark
 besides, he is yet fumbling and groping about, hoping to discover a
@@ -40,7 +40,7 @@ that? What are you doing there?”
 rather nettled.
 
 “Have you changed your mind? Or are you in the same mind?” Mr.
-Tulkinghorn demands. But he knows well enough at a glance.
+Tulkinghorn demands. But he knows [[Well|well]] enough at a glance.
 
 “In the same mind, sir.”
 
@@ -66,5 +66,5 @@ trooper growls with a hasty oath as he strides downstairs. “A
 threatening, murderous, dangerous fellow!” And looking up, he sees
 the clerk looking down at him and marking him as he passes a lamp.
 This so intensifies his dudgeon that for five minutes he is in an ill
-humour. But he whistles that off like the rest of it and marches home
+[[Humour|humour]]. But he whistles that off like the rest of it and marches [[Home|home]]
 to the shooting gallery.

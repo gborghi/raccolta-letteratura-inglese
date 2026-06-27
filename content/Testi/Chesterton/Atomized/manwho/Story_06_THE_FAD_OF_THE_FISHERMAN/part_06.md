@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE FAD OF THE FISHERMAN (part 6)"
+title: "[[manwho]] — THE FAD OF THE FISHERMAN (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-held your tongue for fear of being accused." Then after a silence he
+held your tongue for [[Fear|fear]] of being accused." Then after a [[Silence|silence]] he
 
 added, abstractedly: "Cyprus is a beautiful place, I believe.
 
@@ -24,7 +24,7 @@ man."
 
 
 
-The duke suddenly clenched his hands and said, thickly, "Well, I had
+The duke suddenly clenched his hands and said, thickly, "[[Well]], I had
 
 a motive."
 
@@ -42,7 +42,7 @@ bad dream come true, wasn't it?"
 
 While this curious conversation was passing, Harker had gone into
 
-the house, disregarding the demonstrations of the sulky nephew, and
+the [[house]], disregarding the demonstrations of the sulky nephew, and
 
 came back presently with a new air of animation and a sheaf of
 
@@ -54,7 +54,7 @@ papers in his hand.
 
 Fisher, "but I think I've done most of their work for them. I
 
-believe I've found out the truth. There's a paper here--" He
+believe I've found out the [[Truth|truth]]. There's a paper here--" He
 
 stopped, for Fisher was looking at him with a singular expression;
 
@@ -62,7 +62,7 @@ and it was Fisher who spoke next:
 
 
 
-"Are there any papers that are not there, I wonder? I mean that are
+"Are there any papers that are not there, I [[Wonder|wonder]]? I mean that are
 
 not there now?" After a pause he added: "Let us have the cards on
 
@@ -104,7 +104,7 @@ you swagger about with everlasting virtue because you haven't got
 
 other people's spoons in your pockets. But I was born in a Pimlico
 
-lodging house and I had to make my spoon, and there'd be plenty to
+lodging [[house]] and I had to make my spoon, and there'd be plenty to
 
 say I only spoiled a horn or an honest man. And if a struggling man
 
@@ -144,7 +144,7 @@ I believe that it clears us all."
 
 
 
-"Very well," said Fisher, in a louder and more cheerful tone; "let
+"Very [[Well|well]]," said Fisher, in a louder and more cheerful tone; "let
 
 us all have the benefit of it."
 
@@ -162,7 +162,7 @@ yourselves; but it makes a particular point of poor Hook's habit of
 
 fishing from the island. Above all, the man professes to be writing
 
-from a boat. And, since we alone went across to him," and he smiled
+from a boat. And, since we [[Alone|alone]] went across to him," and he smiled
 
 in a rather ugly fashion, "the crime must have been committed by a
 
@@ -172,21 +172,21 @@ man passing in a boat."
 
 "Why, dear me!" cried the duke, with something almost amounting to
 
-animation. "Why, I remember the man called Hugo quite well! He was a
+animation. "Why, I remember the man called Hugo quite [[Well|well]]! He was a
 
-sort of body servant and bodyguard of Sir Isaac. You see, Sir Isaac
+sort of [[Body|body]] servant and bodyguard of Sir Isaac. You see, Sir Isaac
 
-was in some fear of assault. He was--he was not very popular with
+was in some [[Fear|fear]] of assault. He was--he was not very popular with
 
 several people. Hugo was discharged after some row or other; but I
 
-remember him well. He was a great big Hungarian fellow with great
+remember him [[Well|well]]. He was a great big Hungarian fellow with great
 
 mustaches that stood out on each side of his face."
 
 
 
-A door opened in the darkness of Harold March's memory, or, rather,
+A door opened in the darkness of Harold March's [[Memory|memory]], or, rather,
 
 oblivion, and showed a shining landscape, like that of a lost dream.
 
@@ -208,7 +208,7 @@ on to the bridge and disappear.
 
 
 
-Horne Fisher and Harold March had their day on the river, after all,
+Horne Fisher and Harold March had their day on the [[River|river]], after all,
 
 for the little group broke up when the police arrived. They declared
 
@@ -220,7 +220,7 @@ Hungarian fugitive would ever be caught appeared to Horne Fisher to
 
 be highly doubtful; nor can it be pretended that he displayed any
 
-very demoniac detective energy in the matter as he leaned back in
+very demoniac [[Detective|detective]] energy in the matter as he leaned back in
 
 the boat cushions, smoking, and watching the swaying reeds slide
 
@@ -236,27 +236,27 @@ bank, and he's walked off the bridge without walking on to it, so to
 
 speak. He's got twenty-four hours' start; his mustaches will
 
-disappear, and then he will disappear. I think there is every hope
+disappear, and then he will disappear. I think there is every [[Hope|hope]]
 
 of his escape."
 
 
 
-"Hope?" repeated March, and stopped sculling for an instant.
+"[[Hope]]?" repeated March, and stopped sculling for an instant.
 
 
 
-"Yes, hope," repeated the other.  "To begin with, I'm not going to
+"Yes, [[Hope|hope]]," repeated the other.  "To begin with, I'm not going to
 
-be exactly consumed with Corsican revenge because somebody has
+be exactly consumed with Corsican [[Revenge|revenge]] because somebody has
 
-killed Hook. Perhaps you may guess by this time what Hook was. A
+killed Hook. Perhaps you may guess by this [[Time|time]] what Hook was. A
 
-damned blood-sucking blackmailer was that simple, strenuous,
+damned [[Blood|blood]]-sucking blackmailer was that simple, strenuous,
 
-self-made captain of industry. He had secrets against nearly
+[[Self|self]]-made captain of industry. He had [[Secrets|secrets]] against nearly
 
-everybody; one against poor old Westmoreland about an early marriage
+everybody; one against poor old Westmoreland about an early [[Marriage|marriage]]
 
 in Cyprus that might have put the duchess in a queer position; and
 

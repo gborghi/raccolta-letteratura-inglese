@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 2 (part 3)"
+title: "[[Shirley]] — Chapter 2 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -36,7 +36,7 @@ myself baffled at every turn by their untoward effects."
 
 warehouse yonder, and observe how it is piled to the roof with pieces.
 
-Roakes and Pearson are in the same condition. America used to be their
+Roakes and Pearson are in the same condition. [[America]] used to be their
 
 market, but the Orders in Council have cut that off."
 
@@ -64,7 +64,7 @@ bridal tour, and then to run through a round of visits, and then, I
 
 suppose, to be 'having a family.' Oh, que le diable emporte!" He broke
 
-off the aspiration into which he was launching with a certain energy,
+off the [[Aspiration|aspiration]] into which he was launching with a certain energy,
 
 and added, more calmly, "I believe women talk and think only of these
 
@@ -76,7 +76,7 @@ things, and they naturally fancy men's minds similarly occupied."
 
 whistled, looked impatiently round, and seemed to feel a great want of
 
-something. This time Moore caught and, it appeared, comprehended his
+something. This [[Time|time]] Moore caught and, it appeared, comprehended his
 
 demonstrations.
 
@@ -90,7 +90,7 @@ walk. I forget hospitality."
 
 "Not at all," rejoined Malone; but he looked as if the right nail was at
 
-last hit on the head, nevertheless. Moore rose and opened a cupboard.
+last hit on the head, nevertheless. Moore [[Rose|rose]] and opened a cupboard.
 
 
 
@@ -100,9 +100,9 @@ not to be dependent on the feminity in the cottage yonder for every
 
 mouthful I eat or every drop I drink. I often spend the evening and sup
 
-here alone, and sleep with Joe Scott in the mill. Sometimes I am my own
+here [[Alone|alone]], and [[Sleep|sleep]] with Joe Scott in the mill. Sometimes I am my own
 
-watchman. I require little sleep, and it pleases me on a fine night to
+watchman. I require little [[Sleep|sleep]], and it pleases me on a fine [[Night|night]] to
 
 wander for an hour or two with my musket about the hollow. Mr. Malone,
 
@@ -120,7 +120,7 @@ You know the secret of keeping the juices in?"
 
 
 
-"Never fear me; you shall see. Hand a knife and fork, please."
+"Never [[Fear|fear]] me; you shall see. Hand a knife and fork, please."
 
 
 
@@ -130,9 +130,9 @@ with vigour. The manufacturer placed on the table plates, a loaf of
 
 bread, a black bottle, and two tumblers. He then produced a small copper
 
-kettle--still from the same well-stored recess, his cupboard--filled it
+kettle--still from the same [[Well|well]]-stored recess, his cupboard--filled it
 
-with water from a large stone jar in a corner, set it on the fire beside
+with [[Water|water]] from a large stone jar in a corner, set it on the [[Fire|fire]] beside
 
 the hissing gridiron, got lemons, sugar, and a small china punch-bowl;
 
@@ -148,7 +148,7 @@ but while he was brewing the punch a tap at the door called him away.
 
 
 
-"No; I shall not be in to-night; I shall sleep in the mill. So lock the
+"No; I shall not be in to-[[Night|night]]; I shall [[Sleep|sleep]] in the mill. So lock the
 
 doors, and tell your mistress to go to bed."
 
@@ -164,7 +164,7 @@ as, with his fine face ruddy as the embers over which he bent, he
 
 assiduously turned the mutton chops. "You are not under petticoat
 
-government, like poor Sweeting, a man--whew! how the fat spits! it has
+[[government]], like poor Sweeting, a man--whew! how the fat spits! it has
 
 burnt my hand--destined to be ruled by women. Now you and I,
 
@@ -186,7 +186,7 @@ tractable, why not?"
 
 "There is a glassful. Taste it. When Joe Scott and his minions return
 
-they shall have a share of this, provided they bring home the frames
+they shall have a share of this, provided they bring [[Home|home]] the frames
 
 intact."
 
@@ -198,9 +198,9 @@ made bad jokes and applauded them himself, and, in short, grew
 
 unmeaningly noisy. His host, on the contrary, remained quiet as before.
 
-It is time, reader, that you should have some idea of the appearance of
+It is [[Time|time]], reader, that you should have some idea of the appearance of
 
-this same host. I must endeavour to sketch him as he sits at table.
+this same host. I must endeavour to [[Sketch|sketch]] him as he sits at table.
 
 
 
@@ -210,7 +210,7 @@ strange-looking man; for he is thin, dark, sallow, very foreign of
 
 aspect, with shadowy hair carelessly streaking his forehead. It appears
 
-that he spends but little time at his toilet, or he would arrange it
+that he spends but little [[Time|time]] at his toilet, or he would arrange it
 
 with more taste. He seems unconscious that his features are fine, that
 
@@ -218,11 +218,11 @@ they have a southern symmetry, clearness, regularity in their
 
 chiselling; nor does a spectator become aware of this advantage till he
 
-has examined him well, for an anxious countenance and a hollow, somewhat
+has examined him [[Well|well]], for an anxious countenance and a hollow, somewhat
 
-haggard, outline of face disturb the idea of beauty with one of care.
+haggard, outline of face disturb the idea of [[Beauty|beauty]] with one of care.
 
-His eyes are large, and grave, and gray; their expression is intent and
+His eyes are large, and [[Grave|grave]], and gray; their expression is intent and
 
 meditative, rather searching than soft, rather thoughtful than genial.
 
@@ -232,9 +232,9 @@ that it is frank or cheerful even then, but you feel the influence of a
 
 certain sedate charm, suggestive, whether truly or delusively, of a
 
-considerate, perhaps a kind nature, of feelings that may wear well at
+considerate, perhaps a kind [[Nature|nature]], of feelings that may wear [[Well|well]] at
 
-home--patient, forbearing, possibly faithful feelings. He is still
+[[Home|home]]--patient, forbearing, possibly faithful feelings. He is still
 
 young--not more than thirty; his stature is tall, his figure slender.
 

@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — E.1.  The following sentence, with active links to, or other immediate"
+title: "[[WhatISawInAmerica]] — E.1.  The following sentence, with active links to, or other immediate"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"

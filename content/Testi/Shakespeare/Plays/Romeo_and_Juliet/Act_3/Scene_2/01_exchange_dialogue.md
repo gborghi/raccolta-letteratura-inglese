@@ -1,5 +1,5 @@
 ---
-title: "Romeo and Juliet — Act III, Scene 2 — exchange (dialogue) [1]"
+title: "[[Romeo]] and [[Juliet]] — Act III, Scene 2 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/ROMEO-AND-JULIET-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Juliet |
+| *(didascalia)* | Enter [[Juliet]] |

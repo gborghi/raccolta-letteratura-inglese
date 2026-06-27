@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 20 (part 5)"
+title: "Bleak [[house|House]] — Chapter 20 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -18,7 +18,7 @@ The old man, in aiming a purposeless blow at Mr. Guppy, or at
 nothing, feebly swings himself round and comes with his face against
 the wall. So he remains for a minute or two, heaped up against it,
 and then staggers down the shop to the front door. The air, the
-movement in the court, the lapse of time, or the combination of these
+movement in the [[Court|court]], the lapse of [[Time|time]], or the combination of these
 things recovers him. He comes back pretty steadily, adjusting his fur
 cap on his head and looking keenly at them.
 
@@ -63,11 +63,11 @@ of the land.”
 Taking advantage of this auspicious moment, Mr. Guppy presents his
 friend under the impromptu name of Mr. Weevle and states the object
 of their visit. Krook, with his bottle under his arm (he never gets
-beyond a certain point of either drunkenness or sobriety), takes time
+beyond a certain point of either drunkenness or sobriety), takes [[Time|time]]
 to survey his proposed lodger and seems to approve of him. “You’d
 like to see the room, young man?” he says. “Ah! It’s a good room!
 Been whitewashed. Been cleaned down with soft soap and soda. Hi! It’s
-worth twice the rent, letting alone my company when you want it and
+worth twice the rent, letting [[Alone|alone]] my company when you want it and
 such a cat to keep the mice away.”
 
 Commending the room after this manner, the old man takes them
@@ -78,7 +78,7 @@ the Lord Chancellor cannot be hard on Mr. Guppy, associated as he is
 with Kenge and Carboy, Jarndyce and Jarndyce, and other famous claims
 on his professional consideration—and it is agreed that Mr. Weevle
 shall take possession on the morrow. Mr. Weevle and Mr. Guppy then
-repair to Cook’s Court, Cursitor Street, where the personal
+repair to Cook’s [[Court]], Cursitor Street, where the personal
 introduction of the former to Mr. Snagsby is effected and (more
 important) the vote and interest of Mrs. Snagsby are secured. They
 then report progress to the eminent Smallweed, waiting at the office
@@ -90,10 +90,10 @@ render it a hollow mockery.
 On the morrow, in the dusk of evening, Mr. Weevle modestly appears at
 Krook’s, by no means incommoded with luggage, and establishes himself
 in his new lodging, where the two eyes in the shutters stare at him
-in his sleep, as if they were full of wonder. On the following day
+in his [[Sleep|sleep]], as if they were full of [[Wonder|wonder]]. On the following day
 Mr. Weevle, who is a handy good-for-nothing kind of young fellow,
 borrows a needle and thread of Miss Flite and a hammer of his
-landlord and goes to work devising apologies for window-curtains, and
+landlord and goes to work devising apologies for [[Window|window]]-curtains, and
 knocking up apologies for shelves, and hanging up his two teacups,
 milkpot, and crockery sundries on a pennyworth of little hooks, like
 a shipwrecked sailor making the best of it.
@@ -102,12 +102,12 @@ But what Mr. Weevle prizes most of all his few possessions (next
 after his light whiskers, for which he has an attachment that only
 whiskers can awaken in the breast of man) is a choice collection of
 copper-plate impressions from that truly national work The Divinities
-of Albion, or Galaxy Gallery of British Beauty, representing ladies
+of Albion, or Galaxy Gallery of British [[Beauty]], representing ladies
 of title and fashion in every variety of smirk that art, combined
 with capital, is capable of producing. With these magnificent
 portraits, unworthily confined in a band-box during his seclusion
 among the market-gardens, he decorates his apartment; and as the
-Galaxy Gallery of British Beauty wears every variety of fancy dress,
+Galaxy Gallery of British [[Beauty]] wears every variety of fancy dress,
 plays every variety of musical instrument, fondles every variety of
 dog, ogles every variety of prospect, and is backed up by every
 variety of flower-pot and balustrade, the result is very imposing.
@@ -120,7 +120,7 @@ consolation to him. To know what member of what brilliant and
 distinguished circle accomplished the brilliant and distinguished
 feat of joining it yesterday or contemplates the no less brilliant
 and distinguished feat of leaving it to-morrow gives him a thrill of
-joy. To be informed what the Galaxy Gallery of British Beauty is
+joy. To be informed what the Galaxy Gallery of British [[Beauty]] is
 about, and means to be about, and what Galaxy marriages are on the
 tapis, and what Galaxy rumours are in circulation, is to become
 acquainted with the most glorious destinies of mankind. Mr. Weevle
@@ -128,15 +128,15 @@ reverts from this intelligence to the Galaxy portraits implicated,
 and seems to know the originals, and to be known of them.
 
 For the rest he is a quiet lodger, full of handy shifts and devices
-as before mentioned, able to cook and clean for himself as well as to
+as before mentioned, able to cook and clean for himself as [[Well|well]] as to
 carpenter, and developing social inclinations after the shades of
-evening have fallen on the court. At those times, when he is not
+evening have fallen on the [[Court|court]]. At those times, when he is not
 visited by Mr. Guppy or by a small light in his likeness quenched in
 a dark hat, he comes out of his dull room—where he has inherited the
 deal wilderness of desk bespattered with a rain of ink—and talks to
-Krook or is “very free,” as they call it in the court, commendingly,
+Krook or is “very free,” as they call it in the [[Court|court]], commendingly,
 with any one disposed for conversation. Wherefore, Mrs. Piper, who
-leads the court, is impelled to offer two remarks to Mrs. Perkins:
+leads the [[Court|court]], is impelled to offer two remarks to Mrs. Perkins:
 firstly, that if her Johnny was to have whiskers, she could wish ’em
 to be identically like that young man’s; and secondly, “Mark my
 words, Mrs. Perkins, ma’am, and don’t you be surprised, Lord bless

@@ -1,5 +1,5 @@
 ---
-title: "The Purloined Letter (part 2)"
+title: "[[The Purloined Letter]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Purloined-Letter-(Poe)"
@@ -23,7 +23,7 @@ tags:
       dangerous extent. The personage robbed is more thoroughly
       convinced, every day, of the necessity of reclaiming her letter.
       But this, of course, cannot be done openly. In fine, driven to
-      despair, she has committed the matter to me.”
+      [[Despair|despair]], she has committed the matter to me.”
 
       “Than whom,” said Dupin, amid a perfect whirlwind of smoke, “no
       more sagacious agent could, I suppose, be desired, or even
@@ -47,13 +47,13 @@ tags:
       “But,” said I, “you are quite au fait in these investigations.
       The Parisian police have done this thing often before.”
 
-      “Oh, yes; and for this reason I did not despair. The habits of
+      “Oh, yes; and for this reason I did not [[Despair|despair]]. The habits of
       the minister gave me, too, a great advantage. He is frequently
-      absent from home all night. His servants are by no means
-      numerous. They sleep at a distance from their master’s apartment,
+      absent from [[Home|home]] all [[Night|night]]. His servants are by no means
+      numerous. They [[Sleep|sleep]] at a distance from their master’s apartment,
       and, being chiefly Neapolitans, are readily made drunk. I have
       keys, as you know, with which I can open any chamber or cabinet
-      in Paris. For three months a night has not passed, during the
+      in [[Paris]]. For three months a [[Night|night]] has not passed, during the
       greater part of which I have not been engaged, personally, in
       ransacking the D—— Hotel. My honor is interested, and, to mention
       a great secret, the reward is enormous. So I did not abandon the
@@ -67,7 +67,7 @@ tags:
       may have concealed it elsewhere than upon his own premises?”
 
       “This is barely possible,” said Dupin. “The present peculiar
-      condition of affairs at court, and especially of those intrigues
+      condition of affairs at [[Court|court]], and especially of those intrigues
       in which D—— is known to be involved, would render the instant
       availability of the document—its susceptibility of being produced
       at a moment’s notice—a point of nearly equal importance with its
@@ -86,11 +86,11 @@ tags:
       inspection.”
 
       “You might have spared yourself this trouble,” said Dupin. “D——,
-      I presume, is not altogether a fool, and, if not, must have
+      I presume, is not altogether a [[Fool|fool]], and, if not, must have
       anticipated these waylayings, as a matter of course.”
 
-      “Not altogether a fool,” said G., “but then he’s a poet, which I
-      take to be only one remove from a fool.”
+      “Not altogether a [[Fool|fool]],” said G., “but then he’s a poet, which I
+      take to be only one remove from a [[Fool|fool]].”
 
       “True,” said Dupin, after a long and thoughtful whiff from his
       meerschaum, “although I have been guilty of certain doggrel
@@ -98,7 +98,7 @@ tags:
 
       “Suppose you detail,” said I, “the particulars of your search.”
 
-      “Why the fact is, we took our time, and we searched _everywhere_.
+      “Why the fact is, we took our [[Time|time]], and we searched _everywhere_.
       I have had long experience in these affairs. I took the entire
       building, room by room; devoting the nights of a whole week to
       each. We examined, first, the furniture of each apartment. We

@@ -16,26 +16,26 @@ tags:
 
 Captain Patrick Dalroy sprang out of the car so
 rapidly that he almost reeled and slipped upon the
-road.  The dog sprang after him, barking furiously.
+[[Road|road]].  The dog sprang after him, barking furiously.
 
 "Hump," said Patrick, quietly.  "I've found out
 everything about you.  I know what always bothered
 me about the Englishman."
 
-Then, after an instant's silence, he said, "That
+Then, after an instant's [[Silence|silence]], he said, "That
 Frenchman was right who said (I forget how he put
 it) that you march to Trafalgar Square to rid yourself
-of your temper; not to rid yourself of your tyrant.
-Our friend was quite ready to rebel, rushing away.
-To rebel sitting still was too much for him.  Do you
+of your temper; not to rid yourself of your [[Tyrant|tyrant]].
+Our friend was quite ready to [[Rebel|rebel]], rushing away.
+To [[Rebel|rebel]] sitting still was too much for him.  Do you
 read _Punch_?  I am sure you do.  Pump and _Punch_
 must be almost the only survivors of the Victorian
 Age.  Do you remember an old joke in an excellent
 picture, representing two ragged Irishmen with guns,
 waiting behind a stone wall to shoot a landlord?  One
 of the Irishmen says the landlord is late, and adds, 'I
-hope no accident's happened to the poor gentleman.'
-Well, it's all perfectly true; I knew that Irishman
+[[Hope|hope]] no accident's happened to the poor gentleman.'
+[[Well]], it's all perfectly true; I knew that Irishman
 intimately, but I want to tell you a secret about him.
 He was an Englishman."
 
@@ -65,12 +65,12 @@ a bundle over his arm.  Least of all would any
 motorist, however tall, have said to him from behind the
 cap and goggles, "Put on these things, Hump, and
 then we'll go into the milk shop.  I'm waiting for the
-car.  Which car, my seeker after truth?  Why the car
+car.  Which car, my seeker after [[Truth|truth]]?  Why the car
 I'm going to buy for you to drive."
 
 The remorseful chauffeur, after many adventures,
 did actually find his way back to the little moonlit
-wood where he had left his master and the donkey.
-But his master and the donkey had vanished.
+wood where he had left his master and the [[donkey]].
+But his master and the [[donkey]] had vanished.
 
 * * *

@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 33 (part 3)"
+title: "[[Jane Eyre]] — Chapter 33 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -23,20 +23,20 @@ tags:
 “It is written in letters, not figures,—twenty thousand.”
 
 I again felt rather like an individual of but average gastronomical
-powers sitting down to feast alone at a table spread with provisions
-for a hundred. Mr. Rivers rose now and put his cloak on.
+powers sitting down to feast [[Alone|alone]] at a table spread with provisions
+for a hundred. Mr. Rivers [[Rose|rose]] now and put his cloak on.
 
-“If it were not such a very wild night,” he said, “I would send Hannah
+“If it were not such a very wild [[Night|night]],” he said, “I would send Hannah
 down to keep you company: you look too desperately miserable to be left
-alone. But Hannah, poor woman! could not stride the drifts so well as
+[[Alone|alone]]. But Hannah, poor woman! could not stride the drifts so [[Well|well]] as
 I: her legs are not quite so long: so I must e’en leave you to your
-sorrows. Good-night.”
+sorrows. Good-[[Night|night]].”
 
 He was lifting the latch: a sudden thought occurred to me.
 
 “Stop one minute!” I cried.
 
-“Well?”
+“[[Well]]?”
 
 “It puzzles me to know why Mr. Briggs wrote to you about me; or how he
 knew you, or could fancy that you, living in such an out-of-the-way
@@ -52,9 +52,9 @@ allaying, piqued my curiosity more than ever.
 “It is a very strange piece of business,” I added; “I must know more
 about it.”
 
-“Another time.”
+“Another [[Time|time]].”
 
-“No; to-night!—to-night!” and as he turned from the door, I placed
+“No; to-[[Night|night]]!—to-[[Night|night]]!” and as he turned from the door, I placed
 myself between it and him. He looked rather embarrassed.
 
 “You certainly shall not go till you have told me all,” I said.
@@ -63,7 +63,7 @@ myself between it and him. He looked rather embarrassed.
 
 “You shall!—you must!”
 
-“I would rather Diana or Mary informed you.”
+“I would rather [[Diana]] or Mary informed you.”
 
 Of course these objections wrought my eagerness to a climax: gratified
 it must be, and that without delay; and I told him so.
@@ -78,15 +78,15 @@ And I am a hard woman,—impossible to put off
 
 “And then,” he pursued, “I am cold: no fervour infects me.”
 
-“Whereas I am hot, and fire dissolves ice. The blaze there has thawed
-all the snow from your cloak; by the same token, it has streamed on to
-my floor, and made it like a trampled street. As you hope ever to be
+“Whereas I am hot, and [[Fire|fire]] dissolves ice. The blaze there has thawed
+all the [[Snow|snow]] from your cloak; by the same token, it has streamed on to
+my floor, and made it like a trampled street. As you [[Hope|hope]] ever to be
 forgiven, Mr. Rivers, the high crime and misdemeanour of spoiling a
 sanded kitchen, tell me what I wish to know.”
 
-“Well, then,” he said, “I yield; if not to your earnestness, to your
+“[[Well]], then,” he said, “I yield; if not to your earnestness, to your
 perseverance: as stone is worn by continual dropping. Besides, you must
-know some day,—as well now as later. Your name is Jane Eyre?”
+know some day,—as [[Well|well]] now as later. Your name is [[Jane Eyre]]?”
 
 “Of course: that was all settled before.”
 
@@ -110,9 +110,9 @@ repeat his explanation.
 “My mother’s name was Eyre; she had two brothers; one a clergyman, who
 married Miss Jane Reed, of Gateshead; the other, John Eyre, Esq.,
 merchant, late of Funchal, Madeira. Mr. Briggs, being Mr. Eyre’s
-solicitor, wrote to us last August to inform us of our uncle’s death,
+solicitor, wrote to us last August to inform us of our uncle’s [[Death|death]],
 and to say that he had left his property to his brother the clergyman’s
-orphan daughter, overlooking us, in consequence of a quarrel, never
+[[Orphan|orphan]] daughter, overlooking us, in consequence of a quarrel, never
 forgiven, between him and my father. He wrote again a few weeks since,
 to intimate that the heiress was lost, and asking if we knew anything
 of her. A name casually written on a slip of paper has enabled me to
@@ -131,24 +131,24 @@ enough. I resumed—
 
 He bowed.
 
-“My uncle John was your uncle John? You, Diana, and Mary are his
-sister’s children, as I am his brother’s child?”
+“My uncle John was your uncle John? You, [[Diana]], and Mary are his
+sister’s children, as I am his brother’s [[Child|child]]?”
 
 “Undeniably.”
 
-“You three, then, are my cousins; half our blood on each side flows
+“You three, then, are my cousins; half our [[Blood|blood]] on each side flows
 from the same source?”
 
 “We are cousins; yes.”
 
 I surveyed him. It seemed I had found a brother: one I could be proud
-of,—one I could love; and two sisters, whose qualities were such, that,
+of,—one I could [[Love|love]]; and two sisters, whose qualities were such, that,
 when I knew them but as mere strangers, they had inspired me with
 genuine affection and admiration. The two girls, on whom, kneeling down
-on the wet ground, and looking through the low, latticed window of Moor
-House kitchen, I had gazed with so bitter a mixture of interest and
-despair, were my near kinswomen; and the young and stately gentleman
-who had found me almost dying at his threshold was my blood relation.
+on the wet ground, and looking through the low, latticed [[Window|window]] of Moor
+[[house|House]] kitchen, I had gazed with so bitter a mixture of interest and
+[[Despair|despair]], were my near kinswomen; and the young and stately gentleman
+who had found me almost dying at his threshold was my [[Blood|blood]] relation.
 Glorious discovery to a lonely wretch! This was wealth indeed!—wealth
 to the heart!—a mine of pure, genial affections. This was a blessing,
 bright, vivid, and exhilarating;—not like the ponderous gift of gold:

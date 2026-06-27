@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 19 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 19 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -25,8 +25,8 @@ that by so doing she might seem to countenance Sir Mulberry’s boast,
 which had been uttered with great coarseness and vulgarity of manner,
 raised her eyes, and looked him in the face. There was something so
 odious, so insolent, so repulsive in the look which met her, that,
-without the power to stammer forth a syllable, she rose and hurried from
-the room. She restrained her tears by a great effort until she was alone
+without the power to stammer forth a syllable, she [[Rose|rose]] and hurried from
+the room. She restrained her [[Tears|tears]] by a great effort until she was [[Alone|alone]]
 upstairs, and then gave them vent.
 
 ‘Capital!’ said Sir Mulberry Hawk, putting the stakes in his pocket.
@@ -52,13 +52,13 @@ prospect of seeing them no more, contributed greatly to calm her
 agitation, and, taking up a book, she composed herself to read.
 
 She started sometimes, when the sudden opening of the dining-room door
-let loose a wild shout of noisy revelry, and more than once rose in
+let loose a wild shout of noisy revelry, and more than once [[Rose|rose]] in
 great alarm, as a fancied footstep on the staircase impressed her
-with the fear that some stray member of the party was returning
-alone. Nothing occurring, however, to realise her apprehensions, she
+with the [[Fear|fear]] that some stray member of the party was returning
+[[Alone|alone]]. Nothing occurring, however, to realise her apprehensions, she
 endeavoured to fix her attention more closely on her book, in which
 by degrees she became so much interested, that she had read on through
-several chapters without heed of time or place, when she was terrified
+several chapters without heed of [[Time|time]] or place, when she was terrified
 by suddenly hearing her name pronounced by a man’s voice close at her
 ear.
 
@@ -72,7 +72,7 @@ it real, now, or only to display the eyelashes?’
 Kate, looking anxiously towards the door, made no reply.
 
 ‘I have looked at ‘em for five minutes,’ said Sir Mulberry. ‘Upon my
-soul, they’re perfect. Why did I speak, and destroy such a pretty little
+[[Soul|soul]], they’re perfect. Why did I speak, and destroy such a pretty little
 picture?’
 
 ‘Do me the favour to be silent now, sir,’ replied Kate.
@@ -80,7 +80,7 @@ picture?’
 ‘No, don’t,’ said Sir Mulberry, folding his crushed hat to lay his elbow
 on, and bringing himself still closer to the young lady; ‘upon my life,
 you oughtn’t to. Such a devoted slave of yours, Miss Nickleby--it’s an
-infernal thing to treat him so harshly, upon my soul it is.’
+infernal thing to treat him so harshly, upon my [[Soul|soul]] it is.’
 
 ‘I wish you to understand, sir,’ said Kate, trembling in spite of
 herself, but speaking with great indignation, ‘that your behaviour
@@ -91,7 +91,7 @@ remaining, you will leave me.’
 excessive rigour, my sweet creature? Now, be more natural--my dear Miss
 Nickleby, be more natural--do.’
 
-Kate hastily rose; but as she rose, Sir Mulberry caught her dress, and
+Kate hastily [[Rose|rose]]; but as she [[Rose|rose]], Sir Mulberry caught her dress, and
 forcibly detained her.
 
 ‘Let me go, sir,’ she cried, her heart swelling with anger. ‘Do you
@@ -105,22 +105,22 @@ hear? Instantly--this moment.’
 over, as if to replace her in her chair; but the young lady, making a
 violent effort to disengage herself, he lost his balance, and measured
 his length upon the ground. As Kate sprung forward to leave the room, Mr
-Ralph Nickleby appeared in the doorway, and confronted her.
+[[Ralph Nickleby]] appeared in the doorway, and confronted her.
 
 ‘What is this?’ said Ralph.
 
 ‘It is this, sir,’ replied Kate, violently agitated: ‘that beneath the
-roof where I, a helpless girl, your dead brother’s child, should most
+roof where I, a helpless girl, your dead brother’s [[Child|child]], should most
 have found protection, I have been exposed to insult which should make
 you shrink to look upon me. Let me pass you.’
 
 Ralph DID shrink, as the indignant girl fixed her kindling eye upon him;
 but he did not comply with her injunction, nevertheless: for he led her
 to a distant seat, and returning, and approaching Sir Mulberry Hawk, who
-had by this time risen, motioned towards the door.
+had by this [[Time|time]] risen, motioned towards the door.
 
 ‘Your way lies there, sir,’ said Ralph, in a suppressed voice, that some
-devil might have owned with pride.
+devil might have owned with [[Pride|pride]].
 
 ‘What do you mean by that?’ demanded his friend, fiercely.
 
@@ -130,7 +130,7 @@ wrung them; but he smiled disdainfully, and again pointed to the door.
 
 ‘Do you know me, you old madman?’ asked Sir Mulberry.
 
-‘Well,’ said Ralph. The fashionable vagabond for the moment quite
+‘[[Well]],’ said Ralph. The fashionable vagabond for the moment quite
 quailed under the steady look of the older sinner, and walked towards
 the door, muttering as he went.
 

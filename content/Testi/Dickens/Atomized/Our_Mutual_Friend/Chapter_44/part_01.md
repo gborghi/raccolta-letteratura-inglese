@@ -34,7 +34,7 @@ The doctor-seeking messenger meets the doctor halfway, coming under
 convoy of police. Doctor examines the dank carcase, and pronounces, not
 hopefully, that it is worth while trying to reanimate the same. All the
 best means are at once in action, and everybody present lends a hand,
-and a heart and soul. No one has the least regard for the man; with them
+and a heart and [[Soul|soul]]. No one has the least regard for the man; with them
 all, he has been an object of avoidance, suspicion, and aversion; but
 the spark of life within him is curiously separable from himself now,
 and they have a deep interest in it, probably because it IS life, and
@@ -53,7 +53,7 @@ Captain Joey, the bottle-nosed regular customer in the glazed hat, is a
 pupil of the much-respected old school, and (having insinuated himself
 into the chamber, in the execution of the important service of carrying
 the drowned man’s neck-kerchief) favours the doctor with a sagacious
-old-scholastic suggestion that the body should be hung up by the heels,
+old-scholastic suggestion that the [[Body|body]] should be hung up by the heels,
 ‘sim’lar’, says Captain Joey, ‘to mutton in a butcher’s shop,’ and
 should then, as a particularly choice manoeuvre for promoting easy
 respiration, be rolled upon casks. These scraps of the wisdom of the
@@ -67,15 +67,15 @@ regular customers, Bob Glamour, William Williams, and Jonathan (family
 name of the latter, if any, unknown to man-kind), who are quite enough.
 Miss Abbey having looked in to make sure that nothing is wanted,
 descends to the bar, and there awaits the result, with the gentle Jew
-and Miss Jenny Wren.
+and Miss [[Jenny Wren]].
 
 If you are not gone for good, Mr Riderhood, it would be something to
-know where you are hiding at present. This flabby lump of mortality that
+know where you are hiding at present. This flabby lump of [[Mortality|mortality]] that
 we work so hard at with such patient perseverance, yields no sign of
 you. If you are gone for good, Rogue, it is very solemn, and if you are
 coming back, it is hardly less so. Nay, in the suspense and mystery of
 the latter question, involving that of where you may be now, there is a
-solemnity even added to that of death, making us who are in attendance
+solemnity even added to that of [[Death|death]], making us who are in attendance
 alike afraid to look on you and to look off you, and making those below
 start at the least sound of a creaking plank in the floor.
 
@@ -97,9 +97,9 @@ Over and over again No. No. But try over and over again, nevertheless.
 
 See! A token of life! An indubitable token of life! The spark may
 smoulder and go out, or it may glow and expand, but see! The four
-rough fellows, seeing, shed tears. Neither Riderhood in this world, nor
-Riderhood in the other, could draw tears from them; but a striving human
-soul between the two can do it easily.
+rough fellows, seeing, shed [[Tears|tears]]. Neither Riderhood in this world, nor
+Riderhood in the other, could draw [[Tears|tears]] from them; but a striving human
+[[Soul|soul]] between the two can do it easily.
 
 He is struggling to come back. Now, he is almost here, now he is far
 away again. Now he is struggling harder to get back. And yet—like us
@@ -110,24 +110,24 @@ existence, and would be left dormant, if he could.
 Bob Gliddery returns with Pleasant Riderhood, who was out when sought
 for, and hard to find. She has a shawl over her head, and her first
 action, when she takes it off weeping, and curtseys to Miss Abbey, is to
-wind her hair up.
+[[Wind|wind]] her hair up.
 
 ‘Thank you, Miss Abbey, for having father here.’
 
 ‘I am bound to say, girl, I didn’t know who it was,’ returns Miss Abbey;
-‘but I hope it would have been pretty much the same if I had known.’
+‘but I [[Hope|hope]] it would have been pretty much the same if I had known.’
 
 Poor Pleasant, fortified with a sip of brandy, is ushered into the
 first-floor chamber. She could not express much sentiment about her
 father if she were called upon to pronounce his funeral oration, but she
 has a greater tenderness for him than he ever had for her, and crying
 bitterly when she sees him stretched unconscious, asks the doctor, with
-clasped hands: ‘Is there no hope, sir? O poor father! Is poor father
+clasped hands: ‘Is there no [[Hope|hope]], sir? O poor father! Is poor father
 dead?’
 
-To which the doctor, on one knee beside the body, busy and watchful,
+To which the doctor, on one knee beside the [[Body|body]], busy and watchful,
 only rejoins without looking round: ‘Now, my girl, unless you have the
-self-command to be perfectly quiet, I cannot allow you to remain in the
+[[Self|self]]-command to be perfectly quiet, I cannot allow you to remain in the
 room.’
 
 Pleasant, consequently, wipes her eyes with her back-hair, which is in
@@ -142,7 +142,7 @@ It is something so new to Pleasant to see her father an object of
 sympathy and interest, to find any one very willing to tolerate his
 society in this world, not to say pressingly and soothingly entreating
 him to belong to it, that it gives her a sensation she never experienced
-before. Some hazy idea that if affairs could remain thus for a long time
+before. Some hazy idea that if affairs could remain thus for a long [[Time|time]]
 it would be a respectable change, floats in her mind. Also some vague
 idea that the old evil is drowned out of him, and that if he should
 happily come back to resume his occupation of the empty form that lies

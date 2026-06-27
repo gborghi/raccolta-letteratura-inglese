@@ -1,5 +1,5 @@
 ---
-title: "The Winters Tale — Act V, Scene 3 — exchange (HERMIONE) [3]"
+title: "The Winters Tale — Act V, Scene 3 — exchange ([[Hermione|HERMIONE]]) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/THE-WINTER’S-TALE-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| HERMIONE | You gods, look down, And from your sacred vials pour your graces Upon my daughter’s head.—Tell me, mine own, Where hast thou been preserved? Where lived? How found Thy father’s court? For thou shalt hear that I, Knowing by Paulina that the oracle Gave hope thou wast in being, have preserved Myself to see the issue. |
-| PAULINA | There’s time enough for that, Lest they desire upon this push to trouble Your joys with like relation. Go together, You precious winners all; your exultation Partake to everyone. I, an old turtle, Will wing me to some withered bough, and there My mate, that’s never to be found again, Lament till I am lost. |
+| [[Hermione|HERMIONE]] | You gods, look down, And from your sacred vials pour your graces Upon my daughter’s head.—Tell me, mine own, Where hast thou been preserved? Where lived? How found Thy father’s [[Court|court]]? For thou shalt hear that I, Knowing by [[Paulina]] that the oracle Gave [[Hope|hope]] thou wast in being, have preserved Myself to see the issue. |
+| [[Paulina|PAULINA]] | There’s [[Time|time]] enough for that, Lest they [[Desire|desire]] upon this push to trouble Your joys with like relation. Go together, You precious winners all; your exultation Partake to everyone. I, an old turtle, Will wing me to some withered bough, and there My mate, that’s never to be found again, Lament till I am lost. |

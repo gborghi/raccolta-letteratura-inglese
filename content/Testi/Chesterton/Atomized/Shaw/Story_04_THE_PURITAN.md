@@ -1,5 +1,5 @@
 ---
-title: "Shaw — THE PURITAN"
+title: "[[Shaw]] — THE PURITAN"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Shaw-(Chesterton)"
@@ -16,25 +16,25 @@ tags:
 
 The Puritan
 
-IT has been said in the first section that Bernard Shaw
+IT has been said in the first section that Bernard [[Shaw]]
 draws from his own nation two unquestionable qualities,
 a kind of intellectual chastity, and the fighting spirit.
 He is so much of an idealist about his ideals that he can
-be a ruthless realist in his methods.  His soul has (in short)
-the virginity and the violence of Ireland.  But Bernard Shaw
+be a ruthless realist in his methods.  His [[Soul|soul]] has (in short)
+the virginity and the violence of Ireland.  But Bernard [[Shaw]]
 is not merely an Irishman; he is not even a typical one.
 He is a certain separated and peculiar kind of Irishman,
 which is not easy to describe.  Some Nationalist Irishmen
 have referred to him contemptuously as a "West Briton."
-But this is really unfair; for whatever Mr. Shaw's mental faults
+But this is really unfair; for whatever Mr. [[Shaw]]'s mental faults
 may be, the easy adoption of an unmeaning phrase like "Briton"
-is certainly not one of them.  It would be much nearer the truth
+is certainly not one of them.  It would be much nearer the [[Truth|truth]]
 to put the thing in the bold and bald terms of the old
-Irish song, and to call him "The anti-Irish Irishman."
+Irish [[Song|song]], and to call him "The anti-Irish Irishman."
 But it is only fair to say that the description is far less
 of a monstrosity than the anti-English Englishman would be;
-because the Irish are so much stronger in self-criticism.
-Compared with the constant self-flattery of the English,
+because the Irish are so much stronger in [[Self|self]]-criticism.
+Compared with the constant [[Self|self]]-flattery of the English,
 nearly every Irishman is an anti-Irish Irishman.
 But here again popular phraseology hits the right word.
 This fairly educated and fairly wealthy Protestant wedge
@@ -44,13 +44,13 @@ It cannot be described merely as a minority; for a minority means
 the part of a nation which is conquered.  But this thing means
 something that conquers, and is not entirely part of a nation.
 Nor can one even fall back on the phrase of aristocracy.
-For an aristocracy implies at least some chorus of
+For an aristocracy implies at least some [[Chorus|chorus]] of
 snobbish enthusiasm; it implies that some at least are willingly
 led by the leaders, if only towards vulgarity and vice.
 There is only one word for the minority in Ireland,
 and that is the word that public phraseology has found; I mean
 the word "Garrison." The Irish are essentially right when they
-talk as if all Protestant Unionists lived inside "The Castle."
+talk as if all Protestant Unionists lived inside "The [[Castle]]."
 They have all the virtues and limitations of a literal garrison
 in a fort.  That is, they are valiant, consistent, reliable in
 an obvious public sense; but their curse is that they can
@@ -58,9 +58,9 @@ only tread the flagstones of the courtyard or the cold rock
 of the ramparts; they have never so much as set their foot
 upon their native soil.
 
-We have considered Bernard Shaw as an Irishman.  The next step
-is to consider him as an exile from Ireland living in Ireland;
-that, some people would say, is a paradox after his own heart.
+We have considered Bernard [[Shaw]] as an Irishman.  The next step
+is to consider him as an [[Exile|exile]] from Ireland living in Ireland;
+that, some people would say, is a [[Paradox|paradox]] after his own heart.
 But, indeed, such a complication is not really difficult to expound.
 The great religion and the great national tradition which have
 persisted for so many centuries in Ireland have encouraged
@@ -70,23 +70,23 @@ has these qualities which are somewhat peculiar to Ireland,
 a strange purity and a strange pugnacity.  But the Irish peasant
 also has qualities which are common to all peasants, and his
 nation has qualities that are common to all healthy nations.
-I mean chiefly the things that most of us absorb in childhood;
-especially the sense of the supernatural and the sense of the natural;
-the love of the sky with its infinity of vision, and the love
+I mean chiefly the things that most of us absorb in [[Childhood|childhood]];
+especially the sense of the [[Supernatural|supernatural]] and the sense of the natural;
+the [[Love|love]] of the sky with its infinity of vision, and the [[Love|love]]
 of the soil with its strict hedges and solid shapes of ownership.
-But here comes the paradox of Shaw; the greatest of all
+But here comes the [[Paradox|paradox]] of [[Shaw]]; the greatest of all
 his paradoxes and the one of which he is unconscious.
 These one or two plain truths which quite stupid people learn
 at the beginning are exactly the one or two truths which
-Bernard Shaw may not learn even at the end.  He is a daring
-pilgrim who has set out from the grave to find the cradle.
+Bernard [[Shaw]] may not learn even at the end.  He is a daring
+[[Pilgrim|pilgrim]] who has set out from the [[Grave|grave]] to find the cradle.
 He started from points of view which no one else was clever
 enough to discover, and he is at last discovering points
 of view which no one else was ever stupid enough to ignore.
 This absence of the red-hot truisms of boyhood; this sense that he is
 not rooted in the ancient sagacities of infancy, has, I think,
 a great deal to do with his position as a member of an alien minority
-in Ireland.  He who has no real country can have no real home.
+in Ireland.  He who has no real country can have no real [[Home|home]].
 The average autochthonous Irishman is close to patriotism
 because he is close to the earth; he is close to domesticity
 because he is close to the earth; he is close to doctrinal
@@ -96,25 +96,25 @@ to the earth.  But we must not expect any of these elemental
 and collective virtues in the man of the garrison.
 He cannot be expected to exhibit the virtues of a people,
 but only (as Ibsen would say) of an enemy of the people.
-Mr. Shaw has no living traditions, no schoolboy tricks,
+Mr. [[Shaw]] has no living traditions, no schoolboy tricks,
 no college customs, to link him with other men.  Nothing about him
 can be supposed to refer to a family feud or to a family joke.
 He does not drink toasts; he does not keep anniversaries;
-musical as he is I doubt if he would consent to sing.
+musical as he is I [[Doubt|doubt]] if he would consent to sing.
 All this has something in it of a tree with its roots in the air.
-The best way to shorten winter is to prolong Christmas;
-and the only way to enjoy the sun of April is to be an April Fool.
-When people asked Bernard Shaw to attend the Stratford Tercentenary,
+The best way to shorten [[Winter|winter]] is to prolong Christmas;
+and the only way to enjoy the sun of April is to be an April [[Fool]].
+When people asked Bernard [[Shaw]] to attend the Stratford Tercentenary,
 he wrote back with characteristic contempt:  "I do not keep my
 own birthday, and I cannot see why I should keep Shakespeare's."
-I think that if Mr. Shaw had always kept his own birthday
+I think that if Mr. [[Shaw]] had always kept his own birthday
 he would be better able to understand Shakespeare's birthday--
 and Shakespeare's poetry.
 
 In conjecturally referring this negative side of the man,
-his lack of the smaller charities of our common childhood,
+his lack of the smaller charities of our common [[Childhood|childhood]],
 to his birth in the dominant Irish sect, I do not write
-without historic memory or reference to other cases.
+without historic [[Memory|memory]] or reference to other cases.
 That minority of Protestant exiles which mainly represented
 Ireland to England during the eighteenth century did
 contain some specimens of the Irish lounger and even of the
@@ -134,10 +134,10 @@ bitterer pleasure into judging the foreigner or the invader.
 The first and greatest of such figures was Swift.
 Thackeray simply denied that Swift was an Irishman, because he was
 not a stage Irishman.  He was not (in the English novelist's opinion)
-winning and agreeable enough to be Irish.  The truth is that
+winning and agreeable enough to be Irish.  The [[Truth|truth]] is that
 Swift was much too harsh and disagreeable to be English.
-There is a great deal of Jonathan Swift in Bernard Shaw.
-Shaw is like Swift, for instance, in combining extravagant fancy
+There is a great deal of Jonathan Swift in Bernard [[Shaw]].
+[[Shaw]] is like Swift, for instance, in combining extravagant fancy
 with a curious sort of coldness.  But he is most like Swift
 in that very quality which Thackeray said was impossible in
 an Irishman, benevolent bullying, a pity touched with contempt,
@@ -146,42 +146,42 @@ Characters in novels are often described as so amiable
 that they hate to be thanked.  It is not an amiable quality,
 and it is an extremely rare one; but Swift possessed it.
 When Swift was buried the Dublin poor came in crowds and wept by
-the grave of the broadest and most freehanded of their benefactors.
+the [[Grave|grave]] of the broadest and most freehanded of their benefactors.
 Swift deserved the public tribute; but he might have writhed
-and kicked in his grave at the thought of receiving it.
+and kicked in his [[Grave|grave]] at the thought of receiving it.
 There is in G. B. S. something of the same inhumane humanity.
-Irish history has offered a third instance of this
+Irish [[history]] has offered a third instance of this
 particular type of educated and Protestant Irishman,
-sincere, unsympathetic, aggressive, alone.  I mean Parnell;
+sincere, unsympathetic, aggressive, [[Alone|alone]].  I mean Parnell;
 and with him also a bewildered England tried the desperate
 dodge of saying that he was not Irish at all.  As if any
 thinkable sensible snobbish law-abiding Englishman would ever
-have defied all the drawing-rooms by disdaining the House
+have defied all the drawing-rooms by disdaining the [[house|House]]
 of Commons!  Despite the difference between taciturnity
 and a torrent of fluency there is much in common also between
-Shaw and Parnell; something in common even in the figures
+[[Shaw]] and Parnell; something in common even in the figures
 of the two men, in the bony bearded faces with their almost
-Satanic self-possession. It will not do to pretend that none
+Satanic [[Self|self]]-possession. It will not do to pretend that none
 of these three men belong to their own nation; but it is
 true that they belonged to one special, though recurring,
 type of that nation.  And they all three have this peculiar mark,
 that while Nationalists in their various ways they all
 give to the more genial English one common impression;
-I mean the impression that they do not so much love Ireland
+I mean the impression that they do not so much [[Love|love]] Ireland
 as hate England.
 
 I will not dogmatise upon the difficult question as to whether
 there is any religious significance in the fact that these
 three rather ruthless Irishmen were Protestant Irishmen.
-I incline to think myself that the Catholic Church has added
-charity and gentleness to the virtues of a people which would
+I incline to think myself that the [[Catholic Church]] has added
+[[Charity|charity]] and gentleness to the virtues of a people which would
 otherwise have been too keen and contemptuous, too aristocratic.
 But however this may be, there can surely be no question that
-Bernard Shaw's Protestant education in a Catholic country has
+Bernard [[Shaw]]'s Protestant [[Education|education]] in a Catholic country has
 made a great deal of difference to his mind.  It has affected
 it in two ways, the first negative and the second positive.
 It has affected him by cutting him off (as we have said)
-from the fields and fountains of his real home and history;
+from the fields and fountains of his real [[Home|home]] and [[history]];
 by making him an Orangeman.  And it has affected him by the
 particular colour of the particular religion which he received;
 by making him a Puritan.
@@ -189,9 +189,9 @@ by making him a Puritan.
 In one of his numerous prefaces he says, "I have always been on the side
 of the Puritans in the matter of Art"; and a closer study will, I think,
 reveal that he is on the side of the Puritans in almost everything.
-Puritanism was not a mere code of cruel regulations, though some of
+[[Puritanism]] was not a mere code of cruel regulations, though some of
 its regulations were more cruel than any that have disgraced Europe.
-Nor was Puritanism a mere nightmare, an evil shadow of eastern
+Nor was [[Puritanism]] a mere [[nightmare]], an evil [[Shadow|shadow]] of eastern
 gloom and fatalism, though this element did enter it, and was
 as it were the symptom and punishment of its essential error.
 Something much nobler (even if almost equally mistaken) was the original
@@ -199,25 +199,25 @@ energy in the Puritan creed.  And it must be defined with a little
 more delicacy if we are really to understand the attitude of G. B. S.,
 who is the greatest of the modern Puritans and perhaps the last.
 
-I should roughly define the first spirit in Puritanism thus.
+I should roughly define the first spirit in [[Puritanism]] thus.
 It was a refusal to contemplate God or goodness with anything lighter
 or milder than the most fierce concentration of the intellect.
 A Puritan meant originally a man whose mind had no holidays.
 To use his own favourite phrase, he would let no living thing
 come between him and his God; an attitude which involved eternal
 torture for him and a cruel contempt for all the living things.
-It was better to worship in a barn than in a cathedral for the
-specific and specified reason that the cathedral was beautiful.
-Physical beauty was a false and sensual symbol coming in between
+It was better to worship in a barn than in a [[Cathedral|cathedral]] for the
+specific and specified reason that the [[Cathedral|cathedral]] was beautiful.
+Physical [[Beauty|beauty]] was a false and sensual symbol coming in between
 the intellect and the object of its intellectual worship.
-The human brain ought to be at every instant a consuming fire
+The human brain ought to be at every instant a consuming [[Fire|fire]]
 which burns through all conventional images until they were
 as transparent as glass.
 
 This is the essential Puritan idea, that God can only be praised
 by direct contemplation of Him.  You must praise God only
 with your brain; it is wicked to praise Him with your passions
-or your physical habits or your gesture or instinct of beauty.
+or your physical habits or your gesture or instinct of [[Beauty|beauty]].
 Therefore it is wicked to worship by singing or dancing or drinking
 sacramental wines or building beautiful churches or saying prayers
 when you are half asleep.  We must not worship by dancing,
@@ -232,16 +232,16 @@ revival of the mediaeval energy and character in the two peoples.
 The English were always hearty and humane, and they have made up
 their minds to be hearty and humane in spite of the Puritans.
 The result is that Dickens and W. W. Jacobs have picked up the tradition
-of Chaucer and Robin Hood.  The Scotch were always romantic, and they
+of Chaucer and [[Robin Hood]].  The Scotch were always romantic, and they
 have made up their minds to be romantic in spite of the Puritans.
 The result is that Scott and Stevenson have picked up the tradition
 of Bruce, Blind Harry and the vagabond Scottish kings.
 England has become English again; Scotland has become Scottish again,
-in spite of the splendid incubus, the noble nightmare of Calvin.
+in spite of the splendid incubus, the noble [[nightmare]] of Calvin.
 There is only one place in the British Islands where one may naturally
 expect to find still surviving in its fulness the fierce detachment
 of the true Puritan.  That place is the Protestant part of Ireland.
-The Orange Calvinists can be disturbed by no national resurrection,
+The Orange Calvinists can be disturbed by no national [[Resurrection|resurrection]],
 for they have no nation.  In them, if in any people,
 will be found the rectangular consistency of the Calvinist.
 The Irish Protestant rioters are at least immeasurably
@@ -251,47 +251,47 @@ Irish Protestant rioters really believe in Protestant theology;
 and second, that the Irish Protestant rioters do really riot.
 Among these people, if anywhere, should be found the cult of
 theological clarity combined with barbarous external simplicity.
-Among these people Bernard Shaw was born.
+Among these people Bernard [[Shaw]] was born.
 
 There is at least one outstanding fact about the man we are studying;
-Bernard Shaw is never frivolous.  He never gives his opinions a holiday;
+Bernard [[Shaw]] is never frivolous.  He never gives his opinions a holiday;
 he is never irresponsible even for an instant.  He has no nonsensical
-second self which he can get into as one gets into a dressing-gown;
+second [[Self|self]] which he can get into as one gets into a dressing-gown;
 that ridiculous disguise which is yet more real than the real person.
 That collapse and humorous confession of futility was much of the force
-in Charles Lamb and in Stevenson.  There is nothing of this in Shaw;
-his wit is never a weakness; therefore it is never a sense of humour.
-For wit is always connected with the idea that truth is close
-and clear.  Humour, on the other hand, is always connected with
-the idea that truth is tricky and mystical and easily mistaken.
-What Charles Lamb said of the Scotchman is far truer of this type
+in Charles [[Lamb]] and in Stevenson.  There is nothing of this in [[Shaw]];
+his wit is never a weakness; therefore it is never a sense of [[Humour|humour]].
+For wit is always connected with the idea that [[Truth|truth]] is close
+and clear.  [[Humour]], on the other hand, is always connected with
+the idea that [[Truth|truth]] is tricky and mystical and easily mistaken.
+What Charles [[Lamb]] said of the Scotchman is far truer of this type
 of Puritan Irishman; he does not see things suddenly in a new light;
 all his brilliancy is a blindingly rapid calculation and deduction.
-Bernard Shaw never said an indefensible thing; that is, he never
+Bernard [[Shaw]] never said an indefensible thing; that is, he never
 said a thing that he was not prepared brilliantly to defend.
 He never breaks out into that cry beyond reason and conviction,
-that cry of Lamb when he cried, "We would indict our dreams!"
-or of Stevenson, "Shall we never shed blood?"  In short he is not
-a humorist, but a great wit, almost as great as Voltaire.  Humour is
+that cry of [[Lamb]] when he cried, "We would indict our [[Dreams|dreams]]!"
+or of Stevenson, "Shall we never shed [[Blood|blood]]?"  In short he is not
+a humorist, but a great wit, almost as great as Voltaire.  [[Humour]] is
 akin to agnosticism, which is only the negative side of mysticism.
-But pure wit is akin to Puritanism; to the perfect and painful
+But pure wit is akin to [[Puritanism]]; to the perfect and painful
 consciousness of the final fact in the universe.  Very briefly, the man
 who sees the consistency in things is a wit--and a Calvinist.  The man
 who sees the inconsistency in things is a humorist--and a Catholic.
-However this may be, Bernard Shaw exhibits all that is purest in
-the Puritan; the desire to see truth face to face even if it slay us,
+However this may be, Bernard [[Shaw]] exhibits all that is purest in
+the Puritan; the [[Desire|desire]] to see [[Truth|truth]] face to face even if it slay us,
 the high impatience with irrelevant sentiment or obstructive symbol;
-the constant effort to keep the soul at its highest pressure and speed.
+the constant effort to keep the [[Soul|soul]] at its highest pressure and [[Speed|speed]].
 His instincts upon all social customs and questions are Puritan.
 His favourite author is Bunyan.
 
-But along with what was inspiring and direct in Puritanism Bernard Shaw
+But along with what was inspiring and direct in [[Puritanism]] Bernard [[Shaw]]
 has inherited also some of the things that were cumbersome
-and traditional.  If ever Shaw exhibits a prejudice it
-is always a Puritan prejudice.  For Puritanism has not been
+and traditional.  If ever [[Shaw]] exhibits a prejudice it
+is always a Puritan prejudice.  For [[Puritanism]] has not been
 able to sustain through three centuries that native ecstasy
-of the direct contemplation of truth; indeed it was the whole
-mistake of Puritanism to imagine for a moment that it could.
+of the direct contemplation of [[Truth|truth]]; indeed it was the whole
+mistake of [[Puritanism]] to imagine for a moment that it could.
 One cannot be serious for three hundred years.  In institutions
 built so as to endure for ages you must have relaxation,
 symbolic relativity and healthy routine.  In eternal temples
@@ -300,43 +300,43 @@ unless you are only paying it a flying visit.
 
 By the middle of the nineteenth century this old austerity and actuality
 in the Puritan vision had fallen away into two principal lower forms.
-The first is a sort of idealistic garrulity upon which Bernard Shaw
+The first is a sort of idealistic garrulity upon which Bernard [[Shaw]]
 has made fierce and on the whole fruitful war.  Perpetual talk about
 righteousness and unselfishness, about things that should elevate
 and things which cannot but degrade, about social purity and true
 Christian manhood, all poured out with fatal fluency and with very little
-reference to the real facts of anybody's soul or salary--into this
+reference to the real facts of anybody's [[Soul|soul]] or salary--into this
 weak and lukewarm torrent has melted down much of that mountainous ice
 which sparkled in the seventeenth century, bleak indeed, but blazing.
 The hardest thing of the seventeenth century bids fair to be the softest
 thing of the twentieth.
 
-Of all this sentimental and deliquescent Puritanism Bernard Shaw has
+Of all this sentimental and deliquescent [[Puritanism]] Bernard [[Shaw]] has
 always been the antagonist; and the only respect in which it has
 soiled him was that he believed for only too long that such sloppy
 idealism was the whole idealism of Christendom and so used "idealist"
 itself as a term of reproach.  But there were other and negative
-effects of Puritanism which he did not escape so completely.
+effects of [[Puritanism]] which he did not escape so completely.
 I cannot think that he has wholly escaped that element
-in Puritanism which may fairly bear the title of the taboo.
+in [[Puritanism]] which may fairly bear the title of the taboo.
 For it is a singular fact that although extreme Protestantism
 is dying in elaborate and over-refined civilisation, yet it
 is the barbaric patches of it that live longest and die last.
 Of the creed of John Knox the modern Protestant has abandoned
 the civilised part and retained only the savage part.
-He has given up that great and systematic philosophy of Calvinism
+He has given up that great and systematic [[philosophy]] of Calvinism
 which had much in common with modern science and strongly
 resembles ordinary and recurrent determinism.  But he has retained
 the accidental veto upon cards or comic plays, which Knox only valued
 as mere proof of his people's concentration on their theology.
-All the awful but sublime affirmations of Puritan theology are gone.
+All the awful but [[Sublime|sublime]] affirmations of Puritan theology are gone.
 Only savage negations remain; such as that by which in Scotland
-on every seventh day the creed of fear lays his finger on all
-hearts and makes an evil silence in the streets.
+on every seventh day the creed of [[Fear|fear]] lays his finger on all
+hearts and makes an evil [[Silence|silence]] in the streets.
 
-By the middle of the nineteenth century when Shaw was born this
-dim and barbaric element in Puritanism, being all that remained
-of it, had added another taboo to its philosophy of taboos;
+By the middle of the nineteenth century when [[Shaw]] was born this
+dim and barbaric element in [[Puritanism]], being all that remained
+of it, had added another taboo to its [[philosophy]] of taboos;
 there had grown up a mystical horror of those fermented drinks
 which are part of the food of civilised mankind.  Doubtless many
 persons take an extreme line on this matter solely because of some
@@ -362,28 +362,28 @@ the inmates should have three glasses of beer a day.  The Puritan
 cannot call that excess; but he will find something to call it.
 For it is not the excess he objects to, but the beer.
 It is a transcendental taboo, and it is one of the two or three
-positive and painful prejudices with which Bernard Shaw began.
+positive and painful prejudices with which Bernard [[Shaw]] began.
 A similar severity of outlook ran through all his earlier attitude
 towards the drama; especially towards the lighter or looser drama.
 His Puritan teachers could not prevent him from taking
 up theatricals, but they made him take theatricals seriously.
 All his plays were indeed "plays for Puritans."  All his criticisms
 quiver with a refined and almost tortured contempt for the indulgencies
-of ballet and burlesque, for the tights and the DOUBLE ENTENTE.
+of ballet and burlesque, for the tights and the [[Double|DOUBLE]] ENTENTE.
 He can endure lawlessness but not levity.  He is not repelled
 by the divorces and the adulteries as he is by the "splits."
 And he has always been foremost among the fierce modern critics
 who ask indignantly, "Why do you object to a thing full of sincere
-philosophy like THE WILD DUCk while you tolerate a mere dirty joke
-like THE SPRING CHICKEN?"  I do not think he has ever understood
+[[philosophy]] like THE WILD DUCk while you tolerate a mere dirty joke
+like THE [[Spring|SPRING]] CHICKEN?"  I do not think he has ever understood
 what seems to me the very sensible answer of the man in the street,
-"I laugh at the dirty joke of THE SPRING CHICKEN because it is a joke.
-I criticise the philosophy of THE WILD DUCk because it
-is a philosophy."
+"I laugh at the dirty joke of THE [[Spring|SPRING]] CHICKEN because it is a joke.
+I criticise the [[philosophy]] of THE WILD DUCk because it
+is a [[philosophy]]."
 
-Shaw does not do justice to the democratic ease and sanity on
+[[Shaw]] does not do justice to the democratic ease and [[Sanity|sanity]] on
 this subject; but indeed, whatever else he is, he is not democratic.
-As an Irishman he is an aristocrat, as a Calvinist he is a soul apart;
+As an Irishman he is an [[aristocrat]], as a Calvinist he is a [[Soul|soul]] apart;
 he drew the breath of his nostrils from a land of fallen
 principalities and proud gentility, and the breath of his spirit
 from a creed which made a wall of crystal around the elect.

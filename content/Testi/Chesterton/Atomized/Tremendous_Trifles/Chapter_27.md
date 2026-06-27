@@ -24,25 +24,25 @@ because away to the last grey line of the sea there was only the look
 of galloping squadrons, impetuous, but with a common purpose.
 The sea came on like cavalry, and when it touched the shore it
 opened the blazing eyes and deafening tongues of the artillery.
-I saw the worst assault at night on a seaside parade where the sea
+I saw the worst assault at [[Night|night]] on a seaside parade where the sea
 smote on the doors of England with the hammers of earthquake,
 and a white smoke went up into the black heavens.  There one
 could thoroughly realise what an awful thing a wave really is.
 I talk like other people about the rushing swiftness of a wave.
 But the horrible thing about a wave is its hideous slowness.
-It lifts its load of water laboriously:  in that style at once
+It lifts its load of [[Water|water]] laboriously:  in that style at once
 slow and slippery in which a Titan might lift a load of rock
-and then let it slip at last to be shattered into shock of dust.
-In front of me that night the waves were not like water:
-they were like falling city walls.  The breaker rose first as if it
-did not wish to attack the earth; it wished only to attack the stars.
-For a time it stood up in the air as naturally as a tower; then it went
+and then let it slip at last to be shattered into shock of [[Dust|dust]].
+In front of me that [[Night|night]] the waves were not like [[Water|water]]:
+they were like falling [[City|city]] walls.  The breaker [[Rose|rose]] first as if it
+did not wish to attack the earth; it wished only to attack the [[Stars|stars]].
+For a [[Time|time]] it stood up in the air as naturally as a tower; then it went
 a little wrong in its outline, like a tower that might some day fall.
 When it fell it was as if a powder magazine blew up.
 
 . . . . .
 
-I have never seen such a sea.  All the time there blew across
+I have never seen such a sea.  All the [[Time|time]] there blew across
 the land one of those stiff and throttling winds that one can
 lean up against like a wall.  One expected anything to be blown
 out of shape at any instant; the lamp-post to be snapped
@@ -60,16 +60,16 @@ or place of entertainment, an undaunted brass band was playing
 against the cosmic uproar.  I do not know what band it was.
 Judging from the boisterous British Imperialism of most
 of the airs it played, I should think it was a German band.
-But there was no doubt about its energy, and when I came quite
-close under it it really drowned the storm.  It was playing such
+But there was no [[Doubt|doubt]] about its energy, and when I came quite
+close under it it really drowned the [[Storm|storm]].  It was playing such
 things as "Tommy Atkins" and "You Can Depend on Young Australia,"
 and many others of which I do not know the words, but I should
-think they would be "John, Pat, and Mac, With the Union Jack,"
+think they would be "John, Pat, and Mac, With the [[Union]] Jack,"
 or that fine though unwritten poem, "Wait till the Bull Dog
 gets a bite of you."  Now, I for one detest Imperialism,
 but I have a great deal of sympathy with Jingoism.
 And there seemed something so touching about this unbroken
-and innocent bragging under the brutal menace of Nature
+and [[Innocent|innocent]] bragging under the brutal menace of [[Nature]]
 that it made, if I may so put it, two tunes in my mind.
 It is so obvious and so jolly to be optimistic about England,
 especially when you are an optimist--and an Englishman.
@@ -77,7 +77,7 @@ But through all that glorious brass came the voice
 of the invasion, the undertone of that awful sea.
 I did a foolish thing.  As I could not express my meaning
 in an article, I tried to express it in a poem--a bad one.
-You can call it what you like.  It might be called "Doubt,"
+You can call it what you like.  It might be called "[[Doubt]],"
 or "Brighton." It might be called "The Patriot," or yet
 again "The German Band."  I would call it "The Two Voices,"
 but that title has been taken for a grossly inferior poem.
@@ -87,13 +87,13 @@ This is how it began--
 	   A lamp to light your lands from harm,
 	 They say you turn the seven seas
 	   To little brooks about your farm.
-	 I hear the sea and the new song
+	 I hear the sea and the new [[Song|song]]
 	 that calls you empress all day long.
 
 	"(O fallen and fouled! O you that lie
 	 Dying in swamps--you shall not die,
-	 Your rich have secrets, and stronge lust,
-	 Your poor are chased about like dust,
+	 Your rich have [[Secrets|secrets]], and stronge lust,
+	 Your poor are chased about like [[Dust|dust]],
 	 Emptied of anger and surprise--
 	 And God has gone out of their eyes,
 	 Your cohorts break--your captains lie,
@@ -102,11 +102,11 @@ This is how it began--
 Then I revived a little, remembering that after all there
 is an English country that the Imperialists have never found.
 The British Empire may annex what it likes, it will never annex England.
-It has not even discovered the island, let alone conquered it.
+It has not even discovered the island, let [[Alone|alone]] conquered it.
 I took up the two tunes again with a greater sympathy for the first--
 
 	"I know the bright baptismal rains,
-	   I love your tender troubled skies,
+	   I [[Love|love]] your tender troubled skies,
 	 I know your little climbing lanes,
 	   Are peering into Paradise,
 	 From open hearth to orchard cool,
@@ -116,7 +116,7 @@ I took up the two tunes again with a greater sympathy for the first--
 	O strangled and stabbed, you shall not die,
 	The frightful word is on your walls,
 	The east sea to the west sea calls,
-	The stars are dying in the sky,
+	The [[Stars|stars]] are dying in the sky,
 	You shall not die; you shall not die.)"
 
 Then the two great noises grew deafening together, the noise of the
@@ -134,10 +134,10 @@ and at random--
 	(O given to believe a lie,
 	O my mad mother, do do not die,
 	Whose eyes turn all ways but within,
-	Whose sin is innocence of sin,
-	Whose eyes, blinded with beams at noon,
-	Can see the motes upon the moon,
-	You shall your lover still pursue.
+	Whose sin is [[innocence]] of sin,
+	Whose eyes, blinded with beams at [[Noon|noon]],
+	Can see the motes upon the [[Moon|moon]],
+	You shall your [[Lover|lover]] still pursue.
 	To what last madhouse shelters you
 	I will uphold you, even I.
 	You that are dead.  You shall not die.)"

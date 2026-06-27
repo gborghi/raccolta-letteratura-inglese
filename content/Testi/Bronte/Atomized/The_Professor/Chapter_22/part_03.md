@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 21 (part 3)"
+title: "[[The Professor]] — Chapter 21 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -28,11 +28,11 @@ eventually, I saw, or seemed to see, a ray--pallid, indeed, and cold,
 
 and doubtful, but still a ray, for it showed that narrow path which
 
-conscience had promised after two, three hours’ torturing research in
+[[Conscience|conscience]] had promised after two, three hours’ torturing research in
 
-brain and memory, I disinterred certain remains of circumstances, and
+brain and [[Memory|memory]], I disinterred certain remains of circumstances, and
 
-conceived a hope that by putting them together an expedient might be
+conceived a [[Hope|hope]] that by putting them together an expedient might be
 
 framed, and a resource discovered. The circumstances were briefly these:
 
@@ -54,7 +54,7 @@ rowing round it in little boats. The boys having eaten an unlimited
 
 quantity of “gaufres,” and drank several bottles of Louvain beer, amid
 
-the shades of a garden made and provided for such crams, petitioned
+the shades of a [[Garden|garden]] made and provided for such crams, petitioned
 
 the director for leave to take a row on the etang. Half a dozen of the
 
@@ -70,7 +70,7 @@ personal development truly national. It chanced that Jean was the first
 
 lad to step into the boat; he stumbled, rolled to one side, the boat
 
-revolted at his weight and capsized. Vandenhuten sank like lead, rose,
+revolted at his weight and capsized. Vandenhuten sank like lead, [[Rose|rose]],
 
 sank again. My coat and waistcoat were off in an instant; I had not been
 
@@ -80,17 +80,17 @@ for nothing; it was a natural and easy act for me to leap to the rescue.
 
 The lads and the boatmen yelled; they thought there would be two deaths
 
-by drowning instead of one; but as Jean rose the third time, I clutched
+by drowning instead of one; but as Jean [[Rose|rose]] the third [[Time|time]], I clutched
 
 him by one leg and the collar, and in three minutes more both he and I
 
-were safe landed. To speak heaven’s truth, my merit in the action was
+were safe landed. To speak heaven’s [[Truth|truth]], my merit in the action was
 
 small indeed, for I had run no risk, and subsequently did not even catch
 
 cold from the wetting; but when M. and Madame Vandenhuten, of whom Jean
 
-Baptiste was the sole hope, came to hear of the exploit, they seemed
+Baptiste was the sole [[Hope|hope]], came to hear of the exploit, they seemed
 
 to think I had evinced a bravery and devotion which no thanks could
 
@@ -108,7 +108,7 @@ applying to him, give him a chance of discharging the obligation under
 
 which he affirmed I had laid him. These words, then, were my glimmer of
 
-light; it was here I found my sole outlet; and in truth, though the cold
+light; it was here I found my sole outlet; and in [[Truth|truth]], though the cold
 
 light roused, it did not cheer me; nor did the outlet seem such as I
 
@@ -122,7 +122,7 @@ chance of obtaining it lay in securing his recommendation. This I knew
 
 could be had by asking for it; not to ask, because the request revolted
 
-my pride and contradicted my habits, would, I felt, be an indulgence of
+my [[Pride|pride]] and contradicted my habits, would, I felt, be an indulgence of
 
 false and indolent fastidiousness. I might repent the omission all my
 
@@ -134,7 +134,7 @@ That evening I went to M. Vandenhuten’s; but I had bent the bow and
 
 adjusted the shaft in vain; the string broke. I rang the bell at the
 
-great door (it was a large, handsome house in an expensive part of the
+great door (it was a large, handsome [[house]] in an expensive part of the
 
 town); a manservant opened; I asked for M. Vandenhuten; M. Vandenhuten
 

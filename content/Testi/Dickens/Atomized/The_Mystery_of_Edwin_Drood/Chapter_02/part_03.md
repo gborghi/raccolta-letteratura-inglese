@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 2 (part 3)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 2 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -33,15 +33,15 @@ Crack!—on Mr. Jasper’s part.
 “How’s she looking, Jack?”
 
 Mr. Jasper’s concentrated face again includes the portrait as he
-returns: “Very like your sketch indeed.”
+returns: “Very like your [[Sketch|sketch]] indeed.”
 
 “I _am_ a little proud of it,” says the young fellow, glancing up at
-the sketch with complacency, and then shutting one eye, and taking a
+the [[Sketch|sketch]] with complacency, and then shutting one eye, and taking a
 corrected prospect of it over a level bridge of nut-crackers in the
-air: “Not badly hit off from memory. But I ought to have caught that
-expression pretty well, for I have seen it often enough.”
+air: “Not badly hit off from [[Memory|memory]]. But I ought to have caught that
+expression pretty [[Well|well]], for I have seen it often enough.”
 
-Crack!—on Edwin Drood’s part.
+Crack!—on [[Edwin Drood]]’s part.
 
 Crack!—on Mr. Jasper’s part.
 
@@ -53,9 +53,9 @@ at the portrait.
 
 Crack! crack! crack. Slowly, on Mr. Jasper’s part.
 
-Crack. Sharply on the part of Edwin Drood.
+Crack. Sharply on the part of [[Edwin Drood]].
 
-Silence on both sides.
+[[Silence]] on both sides.
 
 “Have you lost your tongue, Jack?”
 
@@ -74,12 +74,12 @@ all the pretty girls in the world.”
 “That’s what I complain of. My dead and gone father and Pussy’s dead
 and gone father must needs marry us together by anticipation. Why
 the—Devil, I was going to say, if it had been respectful to their
-memory—couldn’t they leave us alone?”
+[[Memory|memory]]—couldn’t they leave us [[Alone|alone]]?”
 
 “Tut, tut, dear boy,” Mr. Jasper remonstrates, in a tone of gentle
 deprecation.
 
-“Tut, tut? Yes, Jack, it’s all very well for _you_. _You_ can take it
+“Tut, tut? Yes, Jack, it’s all very [[Well|well]] for _you_. _You_ can take it
 easily. _Your_ life is not laid down to scale, and lined and dotted out
 for you, like a surveyor’s plan. _You_ have no uncomfortable suspicion
 that you are forced upon anybody, nor has anybody an uncomfortable
@@ -97,17 +97,17 @@ natural bloom on; it hasn’t been over-carefully wiped off for _you_—”
 come over your eyes.”
 
 Mr. Jasper, with a forced smile, stretches out his right hand, as if at
-once to disarm apprehension and gain time to get better. After a while
+once to disarm apprehension and gain [[Time|time]] to get better. After a while
 he says faintly:
 
-“I have been taking opium for a pain—an agony—that sometimes overcomes
+“I have been taking opium for a [[Pain|pain]]—an agony—that sometimes overcomes
 me. The effects of the medicine steal over me like a blight or a cloud,
 and pass. You see them in the act of passing; they will be gone
 directly. Look away from me. They will go all the sooner.”
 
 With a scared face the younger man complies by casting his eyes
 downward at the ashes on the hearth. Not relaxing his own gaze on the
-fire, but rather strengthening it with a fierce, firm grip upon his
+[[Fire|fire]], but rather strengthening it with a fierce, firm grip upon his
 elbow-chair, the elder sits for a few moments rigid, and then, with
 thick drops standing on his forehead, and a sharp catch of his breath,
 becomes as he was before. On his so subsiding in his chair, his nephew
@@ -116,11 +116,11 @@ is restored, he lays a tender hand upon his nephew’s shoulder, and, in
 a tone of voice less troubled than the purport of his words—indeed with
 something of raillery or banter in it—thus addresses him:
 
-“There is said to be a hidden skeleton in every house; but you thought
+“There is said to be a hidden [[skeleton]] in every [[house]]; but you thought
 there was none in mine, dear Ned.”
 
 “Upon my life, Jack, I did think so. However, when I come to consider
-that even in Pussy’s house—if she had one—and in mine—if I had one—”
+that even in Pussy’s [[house]]—if she had one—and in mine—if I had one—”
 
 “You were going to say (but that I interrupted you in spite of myself)
 what a quiet life mine is. No whirl and uproar around me, no
@@ -131,7 +131,7 @@ myself devoted to the art I pursue, my business my pleasure.”
 you, speaking of yourself, almost necessarily leave out much that I
 should have put in. For instance: I should have put in the foreground
 your being so much respected as Lay Precentor, or Lay Clerk, or
-whatever you call it, of this Cathedral; your enjoying the reputation
+whatever you call it, of this [[Cathedral]]; your enjoying the reputation
 of having done such wonders with the choir; your choosing your society,
 and holding such an independent position in this queer old place; your
 gift of teaching (why, even Pussy, who don’t like being taught, says

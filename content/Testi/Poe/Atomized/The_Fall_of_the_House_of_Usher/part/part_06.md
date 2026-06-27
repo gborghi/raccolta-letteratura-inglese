@@ -1,5 +1,5 @@
 ---
-title: "The Fall of the House of Usher (part 6)"
+title: "[[The Fall of the House of Usher]] (part 6)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Fall-of-the-House-of-Usher-(Poe)"
@@ -21,62 +21,62 @@ tags:
       countenance was, as usual, cadaverously wan—but, moreover, there
       was a species of mad hilarity in his eyes—an evidently restrained
       _hysteria_ in his whole demeanor. His air appalled me—but
-      anything was preferable to the solitude which I had so long
+      anything was preferable to the [[Solitude|solitude]] which I had so long
       endured, and I even welcomed his presence as a relief.
 
       “And you have not seen it?” he said abruptly, after having stared
-      about him for some moments in silence—“you have not then seen
+      about him for some moments in [[Silence|silence]]—“you have not then seen
       it?—but, stay! you shall.” Thus speaking, and having carefully
       shaded his lamp, he hurried to one of the casements, and threw it
-      freely open to the storm.
+      freely open to the [[Storm|storm]].
 
       The impetuous fury of the entering gust nearly lifted us from our
-      feet. It was, indeed, a tempestuous yet sternly beautiful night,
-      and one wildly singular in its terror and its beauty. A whirlwind
+      feet. It was, indeed, a tempestuous yet sternly beautiful [[Night|night]],
+      and one wildly singular in its terror and its [[Beauty|beauty]]. A whirlwind
       had apparently collected its force in our vicinity; for there
       were frequent and violent alterations in the direction of the
-      wind; and the exceeding density of the clouds (which hung so low
-      as to press upon the turrets of the house) did not prevent our
+      [[Wind|wind]]; and the exceeding density of the clouds (which hung so low
+      as to press upon the turrets of the [[house]]) did not prevent our
       perceiving the life-like velocity with which they flew careering
       from all points against each other, without passing away into the
       distance. I say that even their exceeding density did not prevent
-      our perceiving this—yet we had no glimpse of the moon or
-      stars—nor was there any flashing forth of the lightning. But the
-      under surfaces of the huge masses of agitated vapor, as well as
+      our perceiving this—yet we had no glimpse of the [[Moon|moon]] or
+      [[Stars|stars]]—nor was there any flashing forth of the [[Lightning|lightning]]. But the
+      under surfaces of the huge masses of agitated vapor, as [[Well|well]] as
       all terrestrial objects immediately around us, were glowing in
       the unnatural light of a faintly luminous and distinctly visible
       gaseous exhalation which hung about and enshrouded the mansion.
 
       “You must not—you shall not behold this!” said I, shudderingly,
-      to Usher, as I led him, with a gentle violence, from the window
+      to Usher, as I led him, with a gentle violence, from the [[Window|window]]
       to a seat. “These appearances, which bewilder you, are merely
       electrical phenomena not uncommon—or it may be that they have
       their ghastly origin in the rank miasma of the tarn. Let us close
       this casement;—the air is chilling and dangerous to your frame.
       Here is one of your favorite romances. I will read, and you shall
-      listen;—and so we will pass away this terrible night together.”
+      listen;—and so we will pass away this terrible [[Night|night]] together.”
 
       The antique volume which I had taken up was the “Mad Trist” of
       Sir Launcelot Canning; but I had called it a favorite of Usher’s
-      more in sad jest than in earnest; for, in truth, there is little
+      more in sad jest than in earnest; for, in [[Truth|truth]], there is little
       in its uncouth and unimaginative prolixity which could have had
       interest for the lofty and spiritual ideality of my friend. It
       was, however, the only book immediately at hand; and I indulged a
-      vague hope that the excitement which now agitated the
-      hypochondriac, might find relief (for the history of mental
+      vague [[Hope|hope]] that the excitement which now agitated the
+      hypochondriac, might find relief (for the [[history]] of mental
       disorder is full of similar anomalies) even in the extremeness of
       the folly which I should read. Could I have judged, indeed, by
       the wild overstrained air of vivacity with which he harkened, or
-      apparently harkened, to the words of the tale, I might well have
-      congratulated myself upon the success of my design.
+      apparently harkened, to the words of the tale, I might [[Well|well]] have
+      congratulated myself upon the [[success]] of my design.
 
-      I had arrived at that well-known portion of the story where
-      Ethelred, the hero of the Trist, having sought in vain for
+      I had arrived at that [[Well|well]]-known portion of the story where
+      Ethelred, the [[Hero|hero]] of the Trist, having sought in vain for
       peaceable admission into the dwelling of the hermit, proceeds to
       make good an entrance by force. Here, it will be remembered, the
       words of the narrative run thus:
 
-      “And Ethelred, who was by nature of a doughty heart, and who was
+      “And Ethelred, who was by [[Nature|nature]] of a doughty heart, and who was
       now mighty withal, on account of the powerfulness of the wine
       which he had drunken, waited no longer to hold parley with the
       hermit, who, in sooth, was of an obstinate and maliceful turn,
@@ -95,10 +95,10 @@ tags:
       indistinctly, to my ears, what might have been, in its exact
       similarity of character, the echo (but a stifled and dull one
       certainly) of the very cracking and ripping sound which Sir
-      Launcelot had so particularly described. It was, beyond doubt,
-      the coincidence alone which had arrested my attention; for, amid
+      Launcelot had so particularly described. It was, beyond [[Doubt|doubt]],
+      the coincidence [[Alone|alone]] which had arrested my attention; for, amid
       the rattling of the sashes of the casements, and the ordinary
-      commingled noises of the still increasing storm, the sound, in
+      commingled noises of the still increasing [[Storm|storm]], the sound, in
       itself, had nothing, surely, which should have interested or
       disturbed me. I continued the story:
 

@@ -19,38 +19,38 @@ Chapter 11
 SOME AFFAIRS OF THE HEART
 
 
-Little Miss Peecher, from her little official dwelling-house, with its
+Little Miss Peecher, from her little official dwelling-[[house]], with its
 little windows like the eyes in needles, and its little doors like the
 covers of school-books, was very observant indeed of the object of her
-quiet affections. Love, though said to be afflicted with blindness, is
-a vigilant watchman, and Miss Peecher kept him on double duty over Mr
-Bradley Headstone. It was not that she was naturally given to playing
+quiet affections. [[Love]], though said to be afflicted with blindness, is
+a vigilant watchman, and Miss Peecher kept him on [[Double|double]] duty over Mr
+[[Bradley Headstone]]. It was not that she was naturally given to playing
 the spy—it was not that she was at all secret, plotting, or mean—it
 was simply that she loved the irresponsive Bradley with all the
-primitive and homely stock of love that had never been examined or
+primitive and homely stock of [[Love|love]] that had never been examined or
 certificated out of her. If her faithful slate had had the latent
 qualities of sympathetic paper, and its pencil those of invisible ink,
 many a little treatise calculated to astonish the pupils would have come
-bursting through the dry sums in school-time under the warming influence
+bursting through the dry sums in school-[[Time|time]] under the warming influence
 of Miss Peecher’s bosom. For, oftentimes when school was not, and her
-calm leisure and calm little house were her own, Miss Peecher would
+calm leisure and calm little [[house]] were her own, Miss Peecher would
 commit to the confidential slate an imaginary description of how, upon
 a balmy evening at dusk, two figures might have been observed in the
-market-garden ground round the corner, of whom one, being a manly form,
+market-[[Garden|garden]] ground round the corner, of whom one, being a manly form,
 bent over the other, being a womanly form of short stature and some
-compactness, and breathed in a low voice the words, ‘Emma Peecher, wilt
+compactness, and breathed in a low voice the words, ‘[[Emma]] Peecher, wilt
 thou be my own?’ after which the womanly form’s head reposed upon the
 manly form’s shoulder, and the nightingales tuned up. Though all unseen,
-and unsuspected by the pupils, Bradley Headstone even pervaded the
+and unsuspected by the pupils, [[Bradley Headstone]] even pervaded the
 school exercises. Was Geography in question? He would come triumphantly
 flying out of Vesuvius and Aetna ahead of the lava, and would boil
 unharmed in the hot springs of Iceland, and would float majestically
-down the Ganges and the Nile. Did History chronicle a king of men?
+down the Ganges and the Nile. Did [[history|History]] chronicle a [[King|king]] of men?
 Behold him in pepper-and-salt pantaloons, with his watch-guard round
 his neck. Were copies to be written? In capital B’s and H’s most of the
 girls under Miss Peecher’s tuition were half a year ahead of every other
 letter in the alphabet. And Mental Arithmetic, administered by Miss
-Peecher, often devoted itself to providing Bradley Headstone with a
+Peecher, often devoted itself to providing [[Bradley Headstone]] with a
 wardrobe of fabulous extent: fourscore and four neck-ties at two and
 ninepence-halfpenny, two gross of silver watches at four pounds fifteen
 and sixpence, seventy-four black hats at eighteen shillings; and many
@@ -64,14 +64,14 @@ mind that was not in the scholastic syllabus. Putting this and that
 together—combining under the head ‘this,’ present appearances and the
 intimacy with Charley Hexam, and ranging under the head ‘that’ the
 visit to his sister, the watchman reported to Miss Peecher his strong
-suspicions that the sister was at the bottom of it.
+suspicions that the sister was at the [[Bottom|bottom]] of it.
 
-‘I wonder,’ said Miss Peecher, as she sat making up her weekly report on
+‘I [[Wonder|wonder]],’ said Miss Peecher, as she sat making up her weekly report on
 a half-holiday afternoon, ‘what they call Hexam’s sister?’
 
 Mary Anne, at her needlework, attendant and attentive, held her arm up.
 
-‘Well, Mary Anne?’
+‘[[Well]], Mary Anne?’
 
 ‘She is named Lizzie, ma’am.’
 
@@ -79,7 +79,7 @@ Mary Anne, at her needlework, attendant and attentive, held her arm up.
 Peecher, in a tunefully instructive voice. ‘Is Lizzie a Christian name,
 Mary Anne?’
 
-Mary Anne laid down her work, rose, hooked herself behind, as being
+Mary Anne laid down her work, [[Rose|rose]], hooked herself behind, as being
 under catechization, and replied: ‘No, it is a corruption, Miss
 Peecher.’
 
@@ -103,17 +103,17 @@ fiction of conducting the examination in a semiofficial manner for Mary
 Anne’s benefit, not her own, ‘where does this young woman, who is called
 but not named Lizzie, live? Think, now, before answering.’
 
-‘In Church Street, Smith Square, by Mill Bank, ma’am.’
+‘In Church Street, [[smith|Smith]] Square, by Mill Bank, ma’am.’
 
-‘In Church Street, Smith Square, by Mill Bank,’ repeated Miss Peecher,
+‘In Church Street, [[smith|Smith]] Square, by Mill Bank,’ repeated Miss Peecher,
 as if possessed beforehand of the book in which it was written. Exactly
 so. And what occupation does this young woman pursue, Mary Anne? Take
-time.’
+[[Time|time]].’
 
-‘She has a place of trust at an outfitter’s in the City, ma’am.’
+‘She has a place of trust at an outfitter’s in the [[City]], ma’am.’
 
 ‘Oh!’ said Miss Peecher, pondering on it; but smoothly added, in a
-confirmatory tone, ‘At an outfitter’s in the City. Ye-es?’
+confirmatory tone, ‘At an outfitter’s in the [[City]]. Ye-es?’
 
 ‘And Charley—’ Mary Anne was proceeding, when Miss Peecher stared.
 
@@ -126,16 +126,16 @@ Hexam—’
 that his sister won’t be guided by his advice, and persists in being
 guided by somebody else’s; and that—’
 
-‘Mr Headstone coming across the garden!’ exclaimed Miss Peecher, with a
-flushed glance at the looking-glass. ‘You have answered very well, Mary
+‘Mr Headstone coming across the [[Garden|garden]]!’ exclaimed Miss Peecher, with a
+flushed glance at the looking-glass. ‘You have answered very [[Well|well]], Mary
 Anne. You are forming an excellent habit of arranging your thoughts
 clearly. That will do.’
 
-The discreet Mary Anne resumed her seat and her silence, and stitched,
-and stitched, and was stitching when the schoolmaster’s shadow came in
+The discreet Mary Anne resumed her seat and her [[Silence|silence]], and stitched,
+and stitched, and was stitching when the schoolmaster’s [[Shadow|shadow]] came in
 before him, announcing that he might be instantly expected.
 
-‘Good evening, Miss Peecher,’ he said, pursuing the shadow, and taking
+‘Good evening, Miss Peecher,’ he said, pursuing the [[Shadow|shadow]], and taking
 its place.
 
 ‘Good evening, Mr Headstone. Mary Anne, a chair.’
@@ -148,11 +148,11 @@ kindness of you as a neighbour.’
 
 ‘On my way to—where I am going.’
 
-‘Church Street, Smith Square, by Mill Bank,’ repeated Miss Peecher, in
+‘Church Street, [[smith|Smith]] Square, by Mill Bank,’ repeated Miss Peecher, in
 her own thoughts.
 
 ‘Charley Hexam has gone to get a book or two he wants, and will probably
-be back before me. As we leave my house empty, I took the liberty of
+be back before me. As we leave my [[house]] empty, I took the liberty of
 telling him I would leave the key here. Would you kindly allow me to do
 so?’
 
@@ -160,7 +160,7 @@ so?’
 
 ‘Partly for a walk, and partly for—on business.’
 
-‘Business in Church Street, Smith Square, by Mill Bank,’ repeated Miss
+‘Business in Church Street, [[smith|Smith]] Square, by Mill Bank,’ repeated Miss
 Peecher to herself.
 
 ‘Having said which,’ pursued Bradley, laying his door-key on the table,
@@ -181,18 +181,18 @@ ME!’ And for all her quiet manner, and her quiet smile, she was full of
 trouble as he went his way.
 
 She was right touching his destination. He held as straight a course
-for the house of the dolls’ dressmaker as the wisdom of his ancestors,
+for the [[house]] of the dolls’ dressmaker as the wisdom of his ancestors,
 exemplified in the construction of the intervening streets, would let
 him, and walked with a bent head hammering at one fixed idea. It had
 been an immoveable idea since he first set eyes upon her. It seemed to
 him as if all that he could suppress in himself he had suppressed, as
-if all that he could restrain in himself he had restrained, and the time
-had come—in a rush, in a moment—when the power of self-command had
-departed from him. Love at first sight is a trite expression quite
+if all that he could restrain in himself he had restrained, and the [[Time|time]]
+had come—in a rush, in a moment—when the power of [[Self|self]]-command had
+departed from him. [[Love]] at first sight is a trite expression quite
 sufficiently discussed; enough that in certain smouldering natures like
-this man’s, that passion leaps into a blaze, and makes such head as fire
-does in a rage of wind, when other passions, but for its mastery, could
-be held in chains. As a multitude of weak, imitative natures are
+this man’s, that passion leaps into a blaze, and makes such head as [[Fire|fire]]
+does in a rage of [[Wind|wind]], when other passions, but for its mastery, could
+be held in [[Chains|chains]]. As a multitude of weak, imitative natures are
 always lying by, ready to go mad upon the next wrong idea that may be
 broached—in these times, generally some form of tribute to Somebody
 for something that never was done, or, if ever done, that was done by
@@ -203,24 +203,24 @@ The schoolmaster went his way, brooding and brooding, and a sense of
 being vanquished in a struggle might have been pieced out of his worried
 face. Truly, in his breast there lingered a resentful shame to find
 himself defeated by this passion for Charley Hexam’s sister, though in
-the very self-same moments he was concentrating himself upon the object
+the very [[Self|self]]-same moments he was concentrating himself upon the object
 of bringing the passion to a successful issue.
 
-He appeared before the dolls’ dressmaker, sitting alone at her work.
+He appeared before the dolls’ dressmaker, sitting [[Alone|alone]] at her work.
 ‘Oho!’ thought that sharp young personage, ‘it’s you, is it? I know your
 tricks and your manners, my friend!’
 
-‘Hexam’s sister,’ said Bradley Headstone, ‘is not come home yet?’
+‘Hexam’s sister,’ said [[Bradley Headstone]], ‘is not come [[Home|home]] yet?’
 
 ‘You are quite a conjuror,’ returned Miss Wren.
 
 ‘I will wait, if you please, for I want to speak to her.’
 
-‘Do you?’ returned Miss Wren. ‘Sit down. I hope it’s mutual.’ Bradley
+‘Do you?’ returned Miss Wren. ‘Sit down. I [[Hope|hope]] it’s mutual.’ Bradley
 glanced distrustfully at the shrewd face again bending over the work,
-and said, trying to conquer doubt and hesitation:
+and said, trying to conquer [[Doubt|doubt]] and hesitation:
 
-‘I hope you don’t imply that my visit will be unacceptable to Hexam’s
+‘I [[Hope|hope]] you don’t imply that my visit will be unacceptable to Hexam’s
 sister?’
 
 ‘There! Don’t call her that. I can’t bear you to call her that,’
@@ -242,7 +242,7 @@ returning to the accusation, a little injured. ‘Won’t you say, some of
 us?’
 
 ‘Meaning,’ returned the little creature, ‘every one of you, but you.
-Hah! Now look this lady in the face. This is Mrs Truth. The Honourable.
+Hah! Now look this lady in the face. This is Mrs [[Truth]]. The Honourable.
 Full-dressed.’
 
 Bradley glanced at the doll she held up for his observation—which had
@@ -274,8 +274,8 @@ and as a perfectly disinterested person.’
 
 ‘Really, Mrs T.,’ remarked the dressmaker, ‘since it comes to this, we
 must positively turn you with your face to the wall.’ She had hardly
-done so, when Lizzie Hexam arrived, and showed some surprise on seeing
-Bradley Headstone there, and Jenny shaking her little fist at him close
+done so, when [[Lizzie Hexam]] arrived, and showed some surprise on seeing
+[[Bradley Headstone]] there, and Jenny shaking her little fist at him close
 before her eyes, and the Honourable Mrs T. with her face to the wall.
 
 ‘Here’s a perfectly disinterested person, Lizzie dear,’ said the knowing
@@ -296,7 +296,7 @@ can’t retire gracefully unless you help her, Lizzie.’
 releasing the hand, and laying her own lightly on Miss Jenny’s curls.
 And then to Bradley: ‘From Charley, sir?’
 
-In an irresolute way, and stealing a clumsy look at her, Bradley rose to
+In an irresolute way, and stealing a clumsy look at her, Bradley [[Rose|rose]] to
 place a chair for her, and then returned to his own.
 
 ‘Strictly speaking,’ said he, ‘I come from Charley, because I left him
@@ -309,8 +309,8 @@ different way, sat looking at him too.
 
 ‘The fact is,’ began Bradley, with a mouth so dry that he had some
 difficulty in articulating his words: the consciousness of which
-rendered his manner still more ungainly and undecided; ‘the truth is,
-that Charley, having no secrets from me (to the best of my belief), has
+rendered his manner still more ungainly and undecided; ‘the [[Truth|truth]] is,
+that Charley, having no [[Secrets|secrets]] from me (to the best of my belief), has
 confided the whole of this matter to me.’
 
 He came to a stop, and Lizzie asked: ‘what matter, sir?’
@@ -361,25 +361,25 @@ of us are obliged habitually to keep it down. To keep it down. But to
 return to your brother. He has taken the matter so much to heart that
 he has remonstrated (in my presence he remonstrated) with Mr Eugene
 Wrayburn, if that be the name. He did so, quite ineffectually. As any
-one not blinded to the real character of Mr—Mr Eugene Wrayburn—would
+one not blinded to the real character of Mr—Mr [[Eugene Wrayburn]]—would
 readily suppose.’
 
 He looked at Lizzie again, and held the look. And his face turned from
 burning red to white, and from white back to burning red, and so for the
-time to lasting deadly white.
+[[Time|time]] to lasting deadly white.
 
-‘Finally, I resolved to come here alone, and appeal to you. I resolved
-to come here alone, and entreat you to retract the course you have
+‘Finally, I resolved to come here [[Alone|alone]], and appeal to you. I resolved
+to come here [[Alone|alone]], and entreat you to retract the course you have
 chosen, and instead of confiding in a mere stranger—a person of most
 insolent behaviour to your brother and others—to prefer your brother
 and your brother’s friend.’
 
-Lizzie Hexam had changed colour when those changes came over him, and
+[[Lizzie Hexam]] had changed colour when those changes came over him, and
 her face now expressed some anger, more dislike, and even a touch of
-fear. But she answered him very steadily.
+[[Fear|fear]]. But she answered him very steadily.
 
-‘I cannot doubt, Mr Headstone, that your visit is well meant. You have
-been so good a friend to Charley that I have no right to doubt it. I
+‘I cannot [[Doubt|doubt]], Mr Headstone, that your visit is [[Well|well]] meant. You have
+been so good a friend to Charley that I have no right to [[Doubt|doubt]] it. I
 have nothing to tell Charley, but that I accepted the help to which he
 so much objects before he made any plans for me; or certainly before I
 knew of any. It was considerately and delicately offered, and there were
@@ -392,12 +392,12 @@ himself; and limitation of her words to her brother.
 ‘I should have told Charley, if he had come to me,’ she resumed, as
 though it were an after-thought, ‘that Jenny and I find our teacher very
 able and very patient, and that she takes great pains with us. So much
-so, that we have said to her we hope in a very little while to be able
+so, that we have said to her we [[Hope|hope]] in a very little while to be able
 to go on by ourselves. Charley knows about teachers, and I should also
 have told him, for his satisfaction, that ours comes from an institution
 where teachers are regularly brought up.’
 
-‘I should like to ask you,’ said Bradley Headstone, grinding his words
+‘I should like to ask you,’ said [[Bradley Headstone]], grinding his words
 slowly out, as though they came from a rusty mill; ‘I should like to
 ask you, if I may without offence, whether you would have objected—no;
 rather, I should like to say, if I may without offence, that I wish I
@@ -406,7 +406,7 @@ poor abilities and experience to your service.’
 
 ‘Thank you, Mr Headstone.’
 
-‘But I fear,’ he pursued, after a pause, furtively wrenching at the seat
+‘But I [[Fear|fear]],’ he pursued, after a pause, furtively wrenching at the seat
 of his chair with one hand, as if he would have wrenched the chair to
 pieces, and gloomily observing her while her eyes were cast down, ‘that
 my humble services would not have found much favour with you?’
@@ -425,7 +425,7 @@ on the subject?’
 
 ‘With Charley, Mr Headstone?’
 
-‘With—well,’ he answered, breaking off, ‘yes! Say with him too.
+‘With—[[Well|well]],’ he answered, breaking off, ‘yes! Say with him too.
 Will you please come to the understanding that there must be another
 interview under more favourable circumstances, before the whole case can
 be submitted?’
@@ -439,13 +439,13 @@ being submitted to you in another interview.’
 ‘What case, Mr Headstone? What is wanting to it?’
 
 ‘You—you shall be informed in the other interview.’ Then he said, as
-if in a burst of irrepressible despair, ‘I—I leave it all incomplete!
+if in a burst of irrepressible [[Despair|despair]], ‘I—I leave it all incomplete!
 There is a spell upon me, I think!’ And then added, almost as if he
-asked for pity, ‘Good-night!’
+asked for pity, ‘Good-[[Night|night]]!’
 
 He held out his hand. As she, with manifest hesitation, not to say
 reluctance, touched it, a strange tremble passed over him, and his face,
-so deadly white, was moved as by a stroke of pain. Then he was gone.
+so deadly white, was moved as by a stroke of [[Pain|pain]]. Then he was gone.
 
 The dolls’ dressmaker sat with her attitude unchanged, eyeing the door
 by which he had departed, until Lizzie pushed her bench aside and sat
@@ -455,50 +455,50 @@ her jaws sometimes indulged, leaned back in her chair with folded arms,
 and thus expressed herself:
 
 ‘Humph! If he—I mean, of course, my dear, the party who is coming to
-court me when the time comes—should be THAT sort of man, he may spare
+[[Court|court]] me when the [[Time|time]] comes—should be THAT sort of man, he may spare
 himself the trouble. _He_ wouldn’t do to be trotted about and made
-useful. He’d take fire and blow up while he was about it.’
+useful. He’d take [[Fire|fire]] and blow up while he was about it.’
 
 ‘And so you would be rid of him,’ said Lizzie, humouring her.
 
-‘Not so easily,’ returned Miss Wren. ‘He wouldn’t blow up alone. He’d
+‘Not so easily,’ returned Miss Wren. ‘He wouldn’t blow up [[Alone|alone]]. He’d
 carry me up with him. I know his tricks and his manners.’
 
 ‘Would he want to hurt you, do you mean?’ asked Lizzie.
 
 ‘Mightn’t exactly want to do it, my dear,’ returned Miss Wren; ‘but a
-lot of gunpowder among lighted lucifer-matches in the next room might
-almost as well be here.’
+lot of gunpowder among lighted [[Lucifer|lucifer]]-matches in the next room might
+almost as [[Well|well]] be here.’
 
 ‘He is a very strange man,’ said Lizzie, thoughtfully.
 
 ‘I wish he was so very strange a man as to be a total stranger,’
 answered the sharp little thing.
 
-It being Lizzie’s regular occupation when they were alone of an evening
+It being Lizzie’s regular occupation when they were [[Alone|alone]] of an evening
 to brush out and smooth the long fair hair of the dolls’ dressmaker, she
 unfastened a ribbon that kept it back while the little creature was at
 her work, and it fell in a beautiful shower over the poor shoulders that
 were much in need of such adorning rain. ‘Not now, Lizzie, dear,’ said
-Jenny; ‘let us have a talk by the fire.’ With those words, she in her
+Jenny; ‘let us have a talk by the [[Fire|fire]].’ With those words, she in her
 turn loosened her friend’s dark hair, and it dropped of its own weight
 over her bosom, in two rich masses. Pretending to compare the colours
 and admire the contrast, Jenny so managed a mere touch or two of her
 nimble hands, as that she herself laying a cheek on one of the dark
-folds, seemed blinded by her own clustering curls to all but the fire,
+folds, seemed blinded by her own clustering curls to all but the [[Fire|fire]],
 while the fine handsome face and brow of Lizzie were revealed without
 obstruction in the sombre light.
 
-‘Let us have a talk,’ said Jenny, ‘about Mr Eugene Wrayburn.’
+‘Let us have a talk,’ said Jenny, ‘about Mr [[Eugene Wrayburn]].’
 
 Something sparkled down among the fair hair resting on the dark hair;
 and if it were not a star—which it couldn’t be—it was an eye; and
-if it were an eye, it was Jenny Wren’s eye, bright and watchful as the
+if it were an eye, it was [[Jenny Wren]]’s eye, bright and watchful as the
 bird’s whose name she had taken.
 
 ‘Why about Mr Wrayburn?’ Lizzie asked.
 
-‘For no better reason than because I’m in the humour. I wonder whether
+‘For no better reason than because I’m in the [[Humour|humour]]. I [[Wonder|wonder]] whether
 he’s rich!’
 
 ‘No, not rich.’
@@ -518,14 +518,14 @@ sparkled more brightly and appeared more watchful.
 
 ‘When He turns up, he shan’t be a gentleman; I’ll very soon send him
 packing, if he is. However, he’s not Mr Wrayburn; I haven’t captivated
-HIM. I wonder whether anybody has, Lizzie!’
+HIM. I [[Wonder|wonder]] whether anybody has, Lizzie!’
 
 ‘It is very likely.’
 
-‘Is it very likely? I wonder who!’
+‘Is it very likely? I [[Wonder|wonder]] who!’
 
 ‘Is it not very likely that some lady has been taken by him, and that he
-may love her dearly?’
+may [[Love|love]] her dearly?’
 
 ‘Perhaps. I don’t know. What would you think of him, Lizzie, if you were
 a lady?’
@@ -534,28 +534,28 @@ a lady?’
 
 ‘Yes. But say: just as a fancy, and for instance.’
 
-‘I a lady! I, a poor girl who used to row poor father on the river. I,
-who had rowed poor father out and home on the very night when I saw him
-for the first time. I, who was made so timid by his looking at me, that
+‘I a lady! I, a poor girl who used to row poor father on the [[River|river]]. I,
+who had rowed poor father out and [[Home|home]] on the very [[Night|night]] when I saw him
+for the first [[Time|time]]. I, who was made so timid by his looking at me, that
 I got up and went out!’
 
-(‘He did look at you, even that night, though you were not a lady!’
+(‘He did look at you, even that [[Night|night]], though you were not a lady!’
 thought Miss Wren.)
 
-‘I a lady!’ Lizzie went on in a low voice, with her eyes upon the fire.
-‘I, with poor father’s grave not even cleared of undeserved stain and
+‘I a lady!’ Lizzie went on in a low voice, with her eyes upon the [[Fire|fire]].
+‘I, with poor father’s [[Grave|grave]] not even cleared of undeserved stain and
 shame, and he trying to clear it for me! I a lady!’
 
 ‘Only as a fancy, and for instance,’ urged Miss Wren.
 
 ‘Too much, Jenny, dear, too much! My fancy is not able to get that far.’
-As the low fire gleamed upon her, it showed her smiling, mournfully and
+As the low [[Fire|fire]] gleamed upon her, it showed her smiling, mournfully and
 abstractedly.
 
-‘But I am in the humour, and I must be humoured, Lizzie, because after
-all I am a poor little thing, and have had a hard day with my bad child.
-Look in the fire, as I like to hear you tell how you used to do when you
-lived in that dreary old house that had once been a windmill. Look in
+‘But I am in the [[Humour|humour]], and I must be humoured, Lizzie, because after
+all I am a poor little thing, and have had a hard day with my bad [[Child|child]].
+Look in the [[Fire|fire]], as I like to hear you tell how you used to do when you
+lived in that dreary old [[house]] that had once been a windmill. Look in
 the—what was its name when you told fortunes with your brother that I
 DON’T like?’
 
@@ -566,7 +566,7 @@ DON’T like?’
 ‘More easily than I can make one of such material as myself, Jenny.’
 
 The sparkling eye looked steadfastly up, as the musing face looked
-thoughtfully down. ‘Well?’ said the dolls’ dressmaker, ‘We have found
+thoughtfully down. ‘[[Well]]?’ said the dolls’ dressmaker, ‘We have found
 our lady?’
 
 Lizzie nodded, and asked, ‘Shall she be rich?’
@@ -580,36 +580,36 @@ Lizzie nodded, and asked, ‘Shall she be rich?’
 ‘She is very handsome.’
 
 ‘What does she say about him?’ asked Miss Jenny, in a low voice:
-watchful, through an intervening silence, of the face looking down at
-the fire.
+watchful, through an intervening [[Silence|silence]], of the face looking down at
+the [[Fire|fire]].
 
 ‘She is glad, glad, to be rich, that he may have the money. She is glad,
 glad, to be beautiful, that he may be proud of her. Her poor heart—’
 
 ‘Eh? Her poor heart?’ said Miss Wren.
 
-‘Her heart—is given him, with all its love and truth. She would
+‘Her heart—is given him, with all its [[Love|love]] and [[Truth|truth]]. She would
 joyfully die with him, or, better than that, die for him. She knows he
 has failings, but she thinks they have grown up through his being like
 one cast away, for the want of something to trust in, and care for, and
-think well of. And she says, that lady rich and beautiful that I can
+think [[Well|well]] of. And she says, that lady rich and beautiful that I can
 never come near, “Only put me in that empty place, only try how little
 I mind myself, only prove what a world of things I will do and bear for
-you, and I hope that you might even come to be much better than you are,
+you, and I [[Hope|hope]] that you might even come to be much better than you are,
 through me who am so much worse, and hardly worth the thinking of beside
 you.”’
 
-As the face looking at the fire had become exalted and forgetful in the
+As the face looking at the [[Fire|fire]] had become exalted and forgetful in the
 rapture of these words, the little creature, openly clearing away
 her fair hair with her disengaged hand, had gazed at it with earnest
 attention and something like alarm. Now that the speaker ceased, the
 little creature laid down her head again, and moaned, ‘O me, O me, O
 me!’
 
-‘In pain, dear Jenny?’ asked Lizzie, as if awakened.
+‘In [[Pain|pain]], dear Jenny?’ asked Lizzie, as if awakened.
 
-‘Yes, but not the old pain. Lay me down, lay me down. Don’t go out of
-my sight to-night. Lock the door and keep close to me.’ Then turning away
+‘Yes, but not the old [[Pain|pain]]. Lay me down, lay me down. Don’t go out of
+my sight to-[[Night|night]]. Lock the door and keep close to me.’ Then turning away
 her face, she said in a whisper to herself, ‘My Lizzie, my poor Lizzie!
 O my blessed children, come back in the long bright slanting rows, and
 come for her, not me. She wants help more than I, my blessed children!’

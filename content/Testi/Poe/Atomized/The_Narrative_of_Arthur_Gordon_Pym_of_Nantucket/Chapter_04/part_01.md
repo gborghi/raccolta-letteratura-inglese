@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 5 (part 1)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 5 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -22,7 +22,7 @@ CHAPTER V.
 
 For some minutes after the cook had left the forecastle, Augustus
 
-abandoned himself to despair, never hoping to leave the berth alive. He
+abandoned himself to [[Despair|despair]], never hoping to leave the berth alive. He
 
 now came to the resolution of acquainting the first of the men who
 
@@ -30,7 +30,7 @@ should come down with my situation, thinking it better to let me take
 
 my chance with the mutineers than perish of thirst in the hold--for it
 
-had been ten days since I was first imprisoned, and my jug of water was
+had been ten days since I was first imprisoned, and my jug of [[Water|water]] was
 
 not a plentiful supply even for four. As he was thinking on this
 
@@ -72,7 +72,7 @@ of soft pine board, an inch thick, and he saw that he should have
 
 little trouble in cutting his way through. A voice was now heard at the
 
-forecastle companion-way, and he had just time to put his right hand
+forecastle companion-way, and he had just [[Time|time]] to put his right hand
 
 into its handcuff (the left had not been removed), and to draw the rope
 
@@ -84,7 +84,7 @@ had been brought on board by Augustus, who knew my attachment to the
 
 animal, and thought it would give me pleasure to have him with me
 
-during the voyage. He went up to our house for him immediately after
+during the voyage. He went up to our [[house]] for him immediately after
 
 first taking me into the hold, but did not think of mentioning the
 
@@ -102,11 +102,11 @@ which, not having room to turn round, he could not extricate himself.
 
 Peters at last let him out, and with a species of good feeling which my
 
-friend knew well how to appreciate, had now brought him to him in the
+friend knew [[Well|well]] how to appreciate, had now brought him to him in the
 
-forecastle as a companion, leaving at the same time some salt junk and
+forecastle as a companion, leaving at the same [[Time|time]] some salt junk and
 
-potatoes, with a can of water; he then went on deck, promising to come
+potatoes, with a can of [[Water|water]]; he then went on deck, promising to come
 
 down with something more to eat on the next day.
 
@@ -128,7 +128,7 @@ he would be able to conceal what had been done by letting the head of
 
 the mattress fall into its proper position. For the remainder of the
 
-day, however, no disturbance occurred, and by night he had completely
+day, however, no disturbance occurred, and by [[Night|night]] he had completely
 
 divided the plank. It should here be observed, that none of the crew
 
@@ -158,17 +158,17 @@ main hatch, although in so doing he had to scramble over tiers of
 
 oil-casks piled nearly as high as the upper deck, there being barely
 
-room enough left for his body. Upon reaching the hatch, he found that
+room enough left for his [[Body|body]]. Upon reaching the hatch, he found that
 
 Tiger had followed him below, squeezing between two rows of the casks.
 
-It was now too late, however, to attempt getting to me before dawn, as
+It was now too late, however, to attempt getting to me before [[Dawn|dawn]], as
 
 the chief difficulty lay in passing through the close stowage in the
 
 lower hold. He therefore resolved to return, and wait till the next
 
-night. With this design he proceeded to loosen the hatch, so that he
+[[Night|night]]. With this design he proceeded to loosen the hatch, so that he
 
 might have as little detention as possible when he should come again.
 
@@ -176,9 +176,9 @@ No sooner had he loosened it than Tiger sprang eagerly to the small
 
 opening produced, snuffed for a moment, and then uttered a long whine,
 
-scratching at the same time, as if anxious to remove the covering with
+scratching at the same [[Time|time]], as if anxious to remove the covering with
 
-his paws. There could be no doubt, from his behaviour, that he was
+his paws. There could be no [[Doubt|doubt]], from his behaviour, that he was
 
 aware of my being in the hold, and Augustus thought it possible that he
 

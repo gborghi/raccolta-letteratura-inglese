@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 31 (part 1)"
+title: "[[Oliver Twist]] — Chapter 31 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -34,9 +34,9 @@ the officer; “he’s in the gig, a-minding the prad. Have you got a coach
 ’us here, that you could put it up in, for five or ten minutes?”
 
 Brittles replying in the affirmative, and pointing out the building,
-the portly man stepped back to the garden-gate, and helped his
+the portly man stepped back to the [[Garden|garden]]-gate, and helped his
 companion to put up the gig: while Brittles lighted them, in a state of
-great admiration. This done, they returned to the house, and, being
+great admiration. This done, they returned to the [[house]], and, being
 shown into a parlour, took off their great-coats and hats, and showed
 like what they were.
 
@@ -55,7 +55,7 @@ This was addressed to Mr. Losberne, who now made his appearance; that
 gentleman, motioning Brittles to retire, brought in the two ladies, and
 shut the door.
 
-“This is the lady of the house,” said Mr. Losberne, motioning towards
+“This is the lady of the [[house]],” said Mr. Losberne, motioning towards
 Mrs. Maylie.
 
 Mr. Blathers made a bow. Being desired to sit down, he put his hat on
@@ -68,7 +68,7 @@ the head of his stick into his mouth, with some embarrassment.
 “Now, with regard to this here robbery, master,” said Blathers. “What
 are the circumstances?”
 
-Mr. Losberne, who appeared desirous of gaining time, recounted them at
+Mr. Losberne, who appeared desirous of gaining [[Time|time]], recounted them at
 great length, and with much circumlocution. Messrs. Blathers and Duff
 looked very knowing meanwhile, and occasionally exchanged a nod.
 
@@ -92,7 +92,7 @@ on?” said Blathers.
 
 “Nothing at all,” replied the doctor. “One of the frightened servants
 chose to take it into his head, that he had something to do with this
-attempt to break into the house; but it’s nonsense: sheer absurdity.”
+attempt to break into the [[house]]; but it’s nonsense: sheer absurdity.”
 
 “Wery easy disposed of, if it is,” remarked Duff.
 
@@ -103,7 +103,7 @@ give of himself? Where did he come from? He didn’t drop out of the
 clouds, did he, master?”
 
 “Of course not,” replied the doctor, with a nervous glance at the two
-ladies. “I know his whole history: but we can talk about that
+ladies. “I know his whole [[history]]: but we can talk about that
 presently. You would like, first, to see the place where the thieves
 made their attempt, I suppose?”
 
@@ -114,37 +114,37 @@ doing business.”
 Lights were then procured; and Messrs. Blathers and Duff, attended by
 the native constable, Brittles, Giles, and everybody else in short,
 went into the little room at the end of the passage and looked out at
-the window; and afterwards went round by way of the lawn, and looked in
-at the window; and after that, had a candle handed out to inspect the
+the [[Window|window]]; and afterwards went round by way of the lawn, and looked in
+at the [[Window|window]]; and after that, had a candle handed out to inspect the
 shutter with; and after that, a lantern to trace the footsteps with;
 and after that, a pitchfork to poke the bushes with. This done, amidst
 the breathless interest of all beholders, they came in again; and Mr.
 Giles and Brittles were put through a melodramatic representation of
-their share in the previous night’s adventures: which they performed
+their share in the previous [[Night|night]]’s adventures: which they performed
 some six times over: contradicting each other, in not more than one
-important respect, the first time, and in not more than a dozen the
+important respect, the first [[Time|time]], and in not more than a dozen the
 last. This consummation being arrived at, Blathers and Duff cleared the
 room, and held a long council together, compared with which, for
 secrecy and solemnity, a consultation of great doctors on the knottiest
-point in medicine, would be mere child’s play.
+point in medicine, would be mere [[Child|child]]’s play.
 
 Meanwhile, the doctor walked up and down the next room in a very uneasy
-state; and Mrs. Maylie and Rose looked on, with anxious faces.
+state; and Mrs. Maylie and [[Rose]] looked on, with anxious faces.
 
 “Upon my word,” he said, making a halt, after a great number of very
 rapid turns, “I hardly know what to do.”
 
-“Surely,” said Rose, “the poor child’s story, faithfully repeated to
+“Surely,” said [[Rose]], “the poor [[Child|child]]’s story, faithfully repeated to
 these men, will be sufficient to exonerate him.”
 
-“I doubt it, my dear young lady,” said the doctor, shaking his head. “I
+“I [[Doubt|doubt]] it, my dear young lady,” said the doctor, shaking his head. “I
 don’t think it would exonerate him, either with them, or with legal
 functionaries of a higher grade. What is he, after all, they would say?
 A runaway. Judged by mere worldly considerations and probabilities, his
 story is a very doubtful one.”
 
-“You believe it, surely?” interrupted Rose.
+“You believe it, surely?” interrupted [[Rose]].
 
-“_I_ believe it, strange as it is; and perhaps I may be an old fool for
+“_I_ believe it, strange as it is; and perhaps I may be an old [[Fool|fool]] for
 doing so,” rejoined the doctor; “but I don’t think it is exactly the
 tale for a practical police-officer, nevertheless.”

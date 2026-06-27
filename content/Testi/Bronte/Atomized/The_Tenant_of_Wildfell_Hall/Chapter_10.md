@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 10"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 10"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -24,15 +24,15 @@ When all were gone, I learnt that the vile slander had indeed been
 
 circulated throughout the company, in the very presence of the victim.
 
-Rose, however, vowed she did not and would not believe it, and my
+[[Rose]], however, vowed she did not and would not believe it, and my
 
-mother made the same declaration, though not, I fear, with the same
+mother made the same declaration, though not, I [[Fear|fear]], with the same
 
-amount of real, unwavering incredulity. It seemed to dwell continually
+amount of real, unwavering [[Incredulity|incredulity]]. It seemed to dwell continually
 
-on her mind, and she kept irritating me from time to time by such
+on her mind, and she kept irritating me from [[Time|time]] to [[Time|time]] by such
 
-expressions as—“Dear, dear, who would have thought it!—Well! I always
+expressions as—“Dear, dear, who would have thought it!—[[Well]]! I always
 
 thought there was something odd about her.—You see what it is for women
 
@@ -72,7 +72,7 @@ structure.”
 
 
 
-“Well, but, Gilbert, there must be something in her _manner_ to
+“[[Well]], but, Gilbert, there must be something in her _manner_ to
 
 countenance such reports.”
 
@@ -90,7 +90,7 @@ strange about her.”
 
 I believe it was on that very evening that I ventured on another
 
-invasion of Wildfell Hall. From the time of our party, which was
+invasion of Wildfell Hall. From the [[Time|time]] of our party, which was
 
 upwards of a week ago, I had been making daily efforts to meet its
 
@@ -100,7 +100,7 @@ it so on purpose), had nightly kept revolving in my mind some pretext
 
 for another call. At length I concluded that the separation could be
 
-endured no longer (by this time, you will see, I was pretty far gone);
+endured no longer (by this [[Time|time]], you will see, I was pretty far gone);
 
 and, taking from the book-case an old volume that I thought she might
 
@@ -110,9 +110,9 @@ condition, I had not yet ventured to offer it for perusal, I hastened
 
 away,—but not without sundry misgivings as to how she would receive me,
 
-or how I could summon courage to present myself with so slight an
+or how I could summon [[Courage|courage]] to present myself with so slight an
 
-excuse. But, perhaps, I might see her in the field or the garden, and
+excuse. But, perhaps, I might see her in the field or the [[Garden|garden]], and
 
 then there would be no great difficulty: it was the formal knocking at
 
@@ -126,19 +126,19 @@ disturbed me.
 
 My wish, however, was not gratified. Mrs. Graham herself was not to be
 
-seen; but there was Arthur playing with his frolicsome little dog in
+seen; but there was [[arthur|Arthur]] playing with his frolicsome little dog in
 
-the garden. I looked over the gate and called him to me. He wanted me
+the [[Garden|garden]]. I looked over the gate and called him to me. He wanted me
 
 to come in; but I told him I could not without his mother’s leave.
 
 
 
-“I’ll go and ask her,” said the child.
+“I’ll go and ask her,” said the [[Child|child]].
 
 
 
-“No, no, Arthur, you mustn’t do that; but if she’s not engaged, just
+“No, no, [[arthur|Arthur]], you mustn’t do that; but if she’s not engaged, just
 
 ask her to come here a minute. Tell her I want to speak to her.”
 
@@ -146,27 +146,27 @@ ask her to come here a minute. Tell her I want to speak to her.”
 
 He ran to perform my bidding, and quickly returned with his mother. How
 
-lovely she looked with her dark ringlets streaming in the light summer
+lovely she looked with her dark ringlets streaming in the light [[Summer|summer]]
 
 breeze, her fair cheek slightly flushed, and her countenance radiant
 
-with smiles. Dear Arthur! what did I not owe to you for this and every
+with smiles. Dear [[arthur|Arthur]]! what did I not owe to you for this and every
 
 other happy meeting? Through him I was at once delivered from all
 
-formality, and terror, and constraint. In love affairs, there is no
+formality, and terror, and constraint. In [[Love|love]] affairs, there is no
 
-mediator like a merry, simple-hearted child—ever ready to cement
+mediator like a merry, simple-hearted [[Child|child]]—ever ready to cement
 
 divided hearts, to span the unfriendly gulf of custom, to melt the ice
 
 of cold reserve, and overthrow the separating walls of dread formality
 
-and pride.
+and [[Pride|pride]].
 
 
 
-“Well, Mr. Markham, what is it?” said the young mother, accosting me
+“[[Well]], Mr. Markham, what is it?” said the young mother, accosting me
 
 with a pleasant smile.
 
@@ -182,7 +182,7 @@ importance.”
 
 
 
-“Tell him to come in, mamma,” said Arthur.
+“Tell him to come in, mamma,” said [[arthur|Arthur]].
 
 
 
@@ -190,7 +190,7 @@ importance.”
 
 
 
-“Yes; I should like to see your improvements in the garden.”
+“Yes; I should like to see your improvements in the [[Garden|garden]].”
 
 
 
@@ -200,7 +200,7 @@ as she opened the gate.
 
 
 
-And we sauntered through the garden, and talked of the flowers, the
+And we sauntered through the [[Garden|garden]], and talked of the [[Flowers|flowers]], the
 
 trees, and the book, and then of other things. The evening was kind and
 
@@ -210,9 +210,9 @@ tender than, perhaps, I had ever been before; but still I said nothing
 
 tangible, and she attempted no repulse, until, in passing a moss
 
-rose-tree that I had brought her some weeks since, in my sister’s name,
+[[Rose|rose]]-tree that I had brought her some weeks since, in my sister’s name,
 
-she plucked a beautiful half-open bud and bade me give it to Rose.
+she plucked a beautiful half-open bud and bade me give it to [[Rose]].
 
 
 
@@ -246,13 +246,13 @@ hand, and retreated a step or two back.
 
 must tell you plainly that I cannot do with this. I like your company,
 
-because I am alone here, and your conversation pleases me more than
+because I am [[Alone|alone]] here, and your conversation pleases me more than
 
 that of any other person; but if you cannot be content to regard me as
 
 a friend—a plain, cold, motherly, or sisterly friend—I must beg you to
 
-leave me now, and let me alone hereafter: in fact, we must be strangers
+leave me now, and let me [[Alone|alone]] hereafter: in fact, we must be strangers
 
 for the future.”
 
@@ -318,7 +318,7 @@ will serve to remind me of our contract.”
 
 She smiled, and once more bid me go; and at length I judged it prudent
 
-to obey, and she re-entered the house and I went down the hill. But as
+to obey, and she re-entered the [[house]] and I went down the [[Hill|hill]]. But as
 
 I went the tramp of horses’ hoofs fell on my ear, and broke the
 
@@ -338,7 +338,7 @@ better to continue his course as before. He accosted me with a slight
 
 bow, and, edging close to the wall, endeavoured to pass on; but I was
 
-not so minded. Seizing his horse by the bridle, I exclaimed,—“Now,
+not so minded. Seizing his [[Horse|horse]] by the bridle, I exclaimed,—“Now,
 
 Lawrence, I will have this mystery explained! Tell me where you are
 
@@ -378,7 +378,7 @@ till morning.”
 
 
 
-“Ask me some other time, when you can speak like a gentleman,” returned
+“Ask me some other [[Time|time]], when you can speak like a gentleman,” returned
 
 he, and he made an effort to pass me again; but I quickly re-captured
 
@@ -394,7 +394,7 @@ this manner by—?”
 
 
 
-“This is no time for business, sir!—I’ll tell you, now, what I think of
+“This is no [[Time|time]] for business, sir!—I’ll tell you, now, what I think of
 
 your conduct.”
 
@@ -402,7 +402,7 @@ your conduct.”
 
 “You’d better defer your opinion to a more convenient season,”
 
-interrupted he in a low tone—“here’s the vicar.” And, in truth, the
+interrupted he in a low tone—“here’s the vicar.” And, in [[Truth|truth]], the
 
 vicar was just behind me, plodding homeward from some remote corner of
 
@@ -414,7 +414,7 @@ saluting Mr. Millward as he passed.
 
 “What! quarrelling, Markham?” cried the latter, addressing himself to
 
-me,—“and about that young widow, I doubt?” he added, reproachfully
+me,—“and about that young widow, I [[Doubt|doubt]]?” he added, reproachfully
 
 shaking his head. “But let me tell you, young man” (here he put his
 

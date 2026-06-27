@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 43: SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES (part 3)"
+title: "The [[Pickwick]] Papers — Chapter 43: SHOWING HOW MR. SAMUEL WELLER GOT INTO DIFFICULTIES (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -38,9 +38,9 @@ Mr. Weller made no reply, but once more shook his head most learnedly.
 ‘Leave off rattlin’ that ‘ere nob o’ yourn, if you don’t want it to come
 off the springs altogether,’ said Sam impatiently, ‘and behave
 reasonable. I vent all the vay down to the Markis o’ Granby, arter you,
-last night.’
+last [[Night|night]].’
 
-‘Did you see the Marchioness o’ Granby, Sammy?’ inquired Mr. Weller,
+‘Did you see the [[Marchioness]] o’ Granby, Sammy?’ inquired Mr. Weller,
 with a sigh.
 
 ‘Yes, I did,’ replied Sam.
@@ -58,7 +58,7 @@ the same natur.’
 Mr. Weller seized his son’s hand, clasped it, and let it fall. There was
 an expression on his countenance in doing so--not of dismay or
 apprehension, but partaking more of the sweet and gentle character of
-hope. A gleam of resignation, and even of cheerfulness, passed over his
+[[Hope|hope]]. A gleam of [[Resignation|resignation]], and even of cheerfulness, passed over his
 face too, as he slowly said, ‘I ain’t quite certain, Sammy; I wouldn’t
 like to say I wos altogether positive, in case of any subsekent
 disappointment, but I rayther think, my boy, I rayther think, that the
@@ -78,7 +78,7 @@ which he was only wont to indulge when particularly pleased.
 ‘Vell, now,’ said Sam, ‘about my affair. Just open them ears o’ yourn,
 and don’t say nothin’ till I’ve done.’ With this preface, Sam related,
 as succinctly as he could, the last memorable conversation he had had
-with Mr. Pickwick.
+with Mr. [[Pickwick]].
 
 ‘Stop there by himself, poor creetur!’ exclaimed the elder Mr. Weller,
 ‘without nobody to take his part! It can’t be done, Samivel, it can’t be
@@ -94,7 +94,7 @@ Sam nodded his concurrence in the opinion.
 he’ll come out, done so ex-ceedin’ brown, that his most formiliar
 friends won’t know him. Roast pigeon’s nothin’ to it, Sammy.’
 
-Again Sam Weller nodded.
+Again [[Sam Weller]] nodded.
 
 ‘It oughtn’t to be, Samivel,’ said Mr. Weller gravely.
 
@@ -112,9 +112,9 @@ enough for you.’
 
 I know’d a ostler o’ that name,’ said Mr. Weller, musing.
 
-‘It warn’t him,’ said Sam. ‘This here gen’l’m’n was a prophet.’
+‘It warn’t him,’ said Sam. ‘This here gen’l’m’n was a [[Prophet|prophet]].’
 
-‘Wot’s a prophet?’ inquired Mr. Weller, looking sternly on his son.
+‘Wot’s a [[Prophet|prophet]]?’ inquired Mr. Weller, looking sternly on his son.
 
 ‘Wy, a man as tells what’s a-goin’ to happen,’ replied Sam.
 
@@ -124,8 +124,8 @@ on, just now. Hows’ever, if he’s dead, and ain’t left the bisness to
 nobody, there’s an end on it. Go on, Sammy,’ said Mr. Weller, with a
 sigh.
 
-‘Well,’ said Sam, ‘you’ve been a-prophecyin’ avay about wot’ll happen to
-the gov’ner if he’s left alone. Don’t you see any way o’ takin’ care on
+‘[[Well]],’ said Sam, ‘you’ve been a-prophecyin’ avay about wot’ll happen to
+the gov’ner if he’s left [[Alone|alone]]. Don’t you see any way o’ takin’ care on
 him?’
 
 ‘No, I don’t, Sammy,’ said Mr. Weller, with a reflective visage.
@@ -138,13 +138,13 @@ mouth to the ear of his offspring--‘unless it is getting him out in a
 turn-up bedstead, unbeknown to the turnkeys, Sammy, or dressin’ him up
 like a old ‘ooman vith a green wail.’
 
-Sam Weller received both of these suggestions with unexpected contempt,
+[[Sam Weller]] received both of these suggestions with unexpected contempt,
 and again propounded his question.
 
 ‘No,’ said the old gentleman; ‘if he von’t let you stop there, I see no
 vay at all. It’s no thoroughfare, Sammy, no thoroughfare.’
 
-‘Well, then, I’ll tell you wot it is,’ said Sam, ‘I’ll trouble you for
+‘[[Well]], then, I’ll tell you wot it is,’ said Sam, ‘I’ll trouble you for
 the loan of five-and-twenty pound.’
 
 ‘Wot good’ll that do?’ inquired Mr. Weller.
@@ -158,14 +158,14 @@ At this reply of Sam’s, the father and son exchanged a complete code of
 telegraph nods and gestures, after which, the elder Mr. Weller sat
 himself down on a stone step and laughed till he was purple.
 
-‘Wot a old image it is!’ exclaimed Sam, indignant at this loss of time.
+‘Wot a old image it is!’ exclaimed Sam, indignant at this loss of [[Time|time]].
 ‘What are you a-settin’ down there for, con-wertin’ your face into a
 street-door knocker, wen there’s so much to be done. Where’s the money?’
 
 ‘In the boot, Sammy, in the boot,’ replied Mr. Weller, composing his
 features. ‘Hold my hat, Sammy.’
 
-Having divested himself of this encumbrance, Mr. Weller gave his body a
+Having divested himself of this encumbrance, Mr. Weller gave his [[Body|body]] a
 sudden wrench to one side, and by a dexterous twist, contrived to get
 his right hand into a most capacious pocket, from whence, after a great
 deal of panting and exertion, he extricated a pocket-book of the large

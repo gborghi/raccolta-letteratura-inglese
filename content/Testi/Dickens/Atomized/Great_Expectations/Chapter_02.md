@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 2"
+title: "[[Great Expectations]] — Chapter 2"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,16 +17,16 @@ tags:
 Chapter II.
 
 
-My sister, Mrs. Joe Gargery, was more than twenty years older than I,
+My sister, Mrs. [[Joe Gargery]], was more than twenty years older than I,
 and had established a great reputation with herself and the neighbours
-because she had brought me up “by hand.” Having at that time to find
+because she had brought me up “by hand.” Having at that [[Time|time]] to find
 out for myself what the expression meant, and knowing her to have a
 hard and heavy hand, and to be much in the habit of laying it upon her
-husband as well as upon me, I supposed that Joe Gargery and I were both
+husband as [[Well|well]] as upon me, I supposed that [[Joe Gargery]] and I were both
 brought up by hand.
 
 She was not a good-looking woman, my sister; and I had a general
-impression that she must have made Joe Gargery marry her by hand. Joe
+impression that she must have made [[Joe Gargery]] marry her by hand. Joe
 was a fair man, with curls of flaxen hair on each side of his smooth
 face, and with eyes of such a very undecided blue that they seemed to
 have somehow got mixed with their own whites. He was a mild,
@@ -34,7 +34,7 @@ good-natured, sweet-tempered, easy-going, foolish, dear fellow,—a sort
 of Hercules in strength, and also in weakness.
 
 My sister, Mrs. Joe, with black hair and eyes, had such a prevailing
-redness of skin that I sometimes used to wonder whether it was possible
+redness of skin that I sometimes used to [[Wonder|wonder]] whether it was possible
 she washed herself with a nutmeg-grater instead of soap. She was tall
 and bony, and almost always wore a coarse apron, fastened over her
 figure behind with two loops, and having a square impregnable bib in
@@ -44,10 +44,10 @@ apron so much. Though I really see no reason why she should have worn
 it at all; or why, if she did wear it at all, she should not have taken
 it off, every day of her life.
 
-Joe’s forge adjoined our house, which was a wooden house, as many of
-the dwellings in our country were,—most of them, at that time. When I
-ran home from the churchyard, the forge was shut up, and Joe was
-sitting alone in the kitchen. Joe and I being fellow-sufferers, and
+Joe’s forge adjoined our [[house]], which was a wooden [[house]], as many of
+the dwellings in our country were,—most of them, at that [[Time|time]]. When I
+ran [[Home|home]] from the churchyard, the forge was shut up, and Joe was
+sitting [[Alone|alone]] in the kitchen. Joe and I being fellow-sufferers, and
 having confidences as such, Joe imparted a confidence to me, the moment
 I raised the latch of the door and peeped in at him opposite to it,
 sitting in the chimney corner.
@@ -60,19 +60,19 @@ out now, making it a baker’s dozen.”
 “Yes, Pip,” said Joe; “and what’s worse, she’s got Tickler with her.”
 
 At this dismal intelligence, I twisted the only button on my waistcoat
-round and round, and looked in great depression at the fire. Tickler
+round and round, and looked in great depression at the [[Fire|fire]]. Tickler
 was a wax-ended piece of cane, worn smooth by collision with my tickled
 frame.
 
 “She sot down,” said Joe, “and she got up, and she made a grab at
 Tickler, and she Ram-paged out. That’s what she did,” said Joe, slowly
-clearing the fire between the lower bars with the poker, and looking at
+clearing the [[Fire|fire]] between the lower bars with the poker, and looking at
 it; “she Ram-paged out, Pip.”
 
 “Has she been gone long, Joe?” I always treated him as a larger species
-of child, and as no more than my equal.
+of [[Child|child]], and as no more than my equal.
 
-“Well,” said Joe, glancing up at the Dutch clock, “she’s been on the
+“[[Well]],” said Joe, glancing up at the Dutch [[Clock|clock]], “she’s been on the
 Ram-page, this last spell, about five minutes, Pip. She’s a-coming! Get
 behind the door, old chap, and have the jack-towel betwixt you.”
 
@@ -107,13 +107,13 @@ It’s bad enough to be a blacksmith’s wife (and him a Gargery) without
 being your mother.”
 
 My thoughts strayed from that question as I looked disconsolately at
-the fire. For the fugitive out on the marshes with the ironed leg, the
+the [[Fire|fire]]. For the fugitive out on the marshes with the ironed leg, the
 mysterious young man, the file, the food, and the dreadful pledge I was
-under to commit a larceny on those sheltering premises, rose before me
+under to commit a larceny on those sheltering premises, [[Rose|rose]] before me
 in the avenging coals.
 
 “Hah!” said Mrs. Joe, restoring Tickler to his station. “Churchyard,
-indeed! You may well say churchyard, you two.” One of us, by the by,
+indeed! You may [[Well|well]] say churchyard, you two.” One of us, by the by,
 had not said it at all. “You’ll drive _me_ to the churchyard betwixt
 you, one of these days, and O, a pr-r-recious pair you’d be without
 me!”
@@ -147,15 +147,15 @@ my trousers.
 
 The effort of resolution necessary to the achievement of this purpose I
 found to be quite awful. It was as if I had to make up my mind to leap
-from the top of a high house, or plunge into a great depth of water.
+from the top of a high [[house]], or plunge into a great depth of [[Water|water]].
 And it was made the more difficult by the unconscious Joe. In our
 already-mentioned freemasonry as fellow-sufferers, and in his
 good-natured companionship with me, it was our evening habit to compare
 the way we bit through our slices, by silently holding them up to each
 other’s admiration now and then,—which stimulated us to new exertions.
-To-night, Joe several times invited me, by the display of his fast
+To-[[Night|night]], Joe several times invited me, by the display of his fast
 diminishing slice, to enter upon our usual friendly competition; but he
-found me, each time, with my yellow mug of tea on one knee, and my
+found me, each [[Time|time]], with my yellow mug of tea on one knee, and my
 untouched bread and butter on the other. At last, I desperately
 considered that the thing I contemplated must be done, and that it had
 best be done in the least improbable manner consistent with the
@@ -170,7 +170,7 @@ a pill. He was about to take another bite, and had just got his head on
 one side for a good purchase on it, when his eye fell on me, and he saw
 that my bread and butter was gone.
 
-The wonder and consternation with which Joe stopped on the threshold of
+The [[Wonder|wonder]] and consternation with which Joe stopped on the threshold of
 his bite and stared at me, were too evident to escape my sister’s
 observation.
 
@@ -186,7 +186,7 @@ stick somewhere. You can’t have chawed it, Pip.”
 it,” said Joe, all aghast. “Manners is manners, but still your elth’s
 your elth.”
 
-By this time, my sister was quite desperate, so she pounced on Joe,
+By this [[Time|time]], my sister was quite desperate, so she pounced on Joe,
 and, taking him by the two whiskers, knocked his head for a little
 while against the wall behind him, while I sat in the corner, looking
 guiltily on.
@@ -198,9 +198,9 @@ Joe looked at her in a helpless way, then took a helpless bite, and
 looked at me again.
 
 “You know, Pip,” said Joe, solemnly, with his last bite in his cheek,
-and speaking in a confidential voice, as if we two were quite alone,
+and speaking in a confidential voice, as if we two were quite [[Alone|alone]],
 “you and me is always friends, and I’d be the last to tell upon you,
-any time. But such a—” he moved his chair and looked about the floor
+any [[Time|time]]. But such a—” he moved his chair and looked about the floor
 between us, and then again at me—“such a most oncommon Bolt as that!”
 
 “Been bolting his food, has he?” cried my sister.
@@ -208,13 +208,13 @@ between us, and then again at me—“such a most oncommon Bolt as that!”
 “You know, old chap,” said Joe, looking at me, and not at Mrs. Joe,
 with his bite still in his cheek, “I Bolted, myself, when I was your
 age—frequent—and as a boy I’ve been among a many Bolters; but I never
-see your Bolting equal yet, Pip, and it’s a mercy you ain’t Bolted
+see your Bolting equal yet, Pip, and it’s a [[Mercy|mercy]] you ain’t Bolted
 dead.”
 
 My sister made a dive at me, and fished me up by the hair, saying
 nothing more than the awful words, “You come along and be dosed.”
 
-Some medical beast had revived Tar-water in those days as a fine
+Some medical beast had revived Tar-[[Water|water]] in those days as a fine
 medicine, and Mrs. Joe always kept a supply of it in the cupboard;
 having a belief in its virtues correspondent to its nastiness. At the
 best of times, so much of this elixir was administered to me as a
@@ -223,12 +223,12 @@ a new fence. On this particular evening the urgency of my case demanded
 a pint of this mixture, which was poured down my throat, for my greater
 comfort, while Mrs. Joe held my head under her arm, as a boot would be
 held in a bootjack. Joe got off with half a pint; but was made to
-swallow that (much to his disturbance, as he sat slowly munching and
-meditating before the fire), “because he had had a turn.” Judging from
+[[Swallow|swallow]] that (much to his disturbance, as he sat slowly munching and
+meditating before the [[Fire|fire]]), “because he had had a turn.” Judging from
 myself, I should say he certainly had a turn afterwards, if he had had
 none before.
 
-Conscience is a dreadful thing when it accuses man or boy; but when, in
+[[Conscience]] is a dreadful thing when it accuses man or boy; but when, in
 the case of a boy, that secret burden co-operates with another secret
 burden down the leg of his trousers, it is (as I can testify) a great
 punishment. The guilty knowledge that I was going to rob Mrs. Joe—I
@@ -236,23 +236,23 @@ never thought I was going to rob Joe, for I never thought of any of the
 housekeeping property as his—united to the necessity of always keeping
 one hand on my bread and butter as I sat, or when I was ordered about
 the kitchen on any small errand, almost drove me out of my mind. Then,
-as the marsh winds made the fire glow and flare, I thought I heard the
+as the marsh winds made the [[Fire|fire]] glow and flare, I thought I heard the
 voice outside, of the man with the iron on his leg who had sworn me to
 secrecy, declaring that he couldn’t and wouldn’t starve until
 to-morrow, but must be fed now. At other times, I thought, What if the
 young man who was with so much difficulty restrained from imbruing his
 hands in me should yield to a constitutional impatience, or should
-mistake the time, and should think himself accredited to my heart and
-liver to-night, instead of to-morrow! If ever anybody’s hair stood on
+mistake the [[Time|time]], and should think himself accredited to my heart and
+liver to-[[Night|night]], instead of to-morrow! If ever anybody’s hair stood on
 end with terror, mine must have done so then. But, perhaps, nobody’s
 ever did?
 
 It was Christmas Eve, and I had to stir the pudding for next day, with
-a copper-stick, from seven to eight by the Dutch clock. I tried it with
+a copper-stick, from seven to eight by the Dutch [[Clock|clock]]. I tried it with
 the load upon my leg (and that made me think afresh of the man with the
 load on _his_ leg), and found the tendency of exercise to bring the
 bread and butter out at my ankle, quite unmanageable. Happily I slipped
-away, and deposited that part of my conscience in my garret bedroom.
+away, and deposited that part of my [[Conscience|conscience]] in my garret bedroom.
 
 “Hark!” said I, when I had done my stirring, and was taking a final
 warm in the chimney corner before being sent up to bed; “was that great
@@ -263,14 +263,14 @@ guns, Joe?”
 “What does that mean, Joe?” said I.
 
 Mrs. Joe, who always took explanations upon herself, said, snappishly,
-“Escaped. Escaped.” Administering the definition like Tar-water.
+“Escaped. Escaped.” Administering the definition like Tar-[[Water|water]].
 
 While Mrs. Joe sat with her head bending over her needlework, I put my
 mouth into the forms of saying to Joe, “What’s a convict?” Joe put
 _his_ mouth into the forms of returning such a highly elaborate answer,
 that I could make out nothing of it but the single word “Pip.”
 
-“There was a conwict off last night,” said Joe, aloud, “after
+“There was a conwict off last [[Night|night]],” said Joe, aloud, “after
 sunset-gun. And they fired warning of him. And now it appears they’re
 firing warning of another.”
 
@@ -300,20 +300,20 @@ that but rather the contrary. “From the Hulks!”
 
 “Oh-h!” said I, looking at Joe. “Hulks!”
 
-Joe gave a reproachful cough, as much as to say, “Well, I told you so.”
+Joe gave a reproachful cough, as much as to say, “[[Well]], I told you so.”
 
 “And please, what’s Hulks?” said I.
 
 “That’s the way with this boy!” exclaimed my sister, pointing me out
 with her needle and thread, and shaking her head at me. “Answer him one
-question, and he’ll ask you a dozen directly. Hulks are prison-ships,
-right ’cross th’ meshes.” We always used that name for marshes, in our
+question, and he’ll ask you a dozen directly. Hulks are [[Prison|prison]]-ships,
+right ’[[Cross|cross]] th’ meshes.” We always used that name for marshes, in our
 country.
 
-“I wonder who’s put into prison-ships, and why they’re put there?” said
+“I [[Wonder|wonder]] who’s put into [[Prison|prison]]-ships, and why they’re put there?” said
 I, in a general way, and with quiet desperation.
 
-It was too much for Mrs. Joe, who immediately rose. “I tell you what,
+It was too much for Mrs. Joe, who immediately [[Rose|rose]]. “I tell you what,
 young fellow,” said she, “I didn’t bring you up by hand to badger
 people’s lives out. It would be blame to me and not praise, if I had.
 People are put in the Hulks because they murder, and because they rob,
@@ -327,49 +327,49 @@ felt fearfully sensible of the great convenience that the hulks were
 handy for me. I was clearly on my way there. I had begun by asking
 questions, and I was going to rob Mrs. Joe.
 
-Since that time, which is far enough away now, I have often thought
+Since that [[Time|time]], which is far enough away now, I have often thought
 that few people know what secrecy there is in the young under terror.
 No matter how unreasonable the terror, so that it be terror. I was in
 mortal terror of the young man who wanted my heart and liver; I was in
 mortal terror of my interlocutor with the iron leg; I was in mortal
 terror of myself, from whom an awful promise had been extracted; I had
-no hope of deliverance through my all-powerful sister, who repulsed me
+no [[Hope|hope]] of deliverance through my all-powerful sister, who repulsed me
 at every turn; I am afraid to think of what I might have done on
 requirement, in the secrecy of my terror.
 
-If I slept at all that night, it was only to imagine myself drifting
-down the river on a strong spring-tide, to the Hulks; a ghostly pirate
+If I slept at all that [[Night|night]], it was only to imagine myself drifting
+down the [[River|river]] on a strong [[Spring|spring]]-tide, to the Hulks; a ghostly pirate
 calling out to me through a speaking-trumpet, as I passed the
 gibbet-station, that I had better come ashore and be hanged there at
-once, and not put it off. I was afraid to sleep, even if I had been
-inclined, for I knew that at the first faint dawn of morning I must rob
-the pantry. There was no doing it in the night, for there was no
+once, and not put it off. I was afraid to [[Sleep|sleep]], even if I had been
+inclined, for I knew that at the first faint [[Dawn|dawn]] of morning I must rob
+the pantry. There was no doing it in the [[Night|night]], for there was no
 getting a light by easy friction then; to have got one I must have
 struck it out of flint and steel, and have made a noise like the very
-pirate himself rattling his chains.
+pirate himself rattling his [[Chains|chains]].
 
-As soon as the great black velvet pall outside my little window was
+As soon as the great black velvet pall outside my little [[Window|window]] was
 shot with grey, I got up and went downstairs; every board upon the way,
 and every crack in every board calling after me, “Stop thief!” and “Get
 up, Mrs. Joe!” In the pantry, which was far more abundantly supplied
 than usual, owing to the season, I was very much alarmed by a hare
 hanging up by the heels, whom I rather thought I caught, when my back
-was half turned, winking. I had no time for verification, no time for
-selection, no time for anything, for I had no time to spare. I stole
-some bread, some rind of cheese, about half a jar of mincemeat (which I
-tied up in my pocket-handkerchief with my last night’s slice), some
+was half turned, winking. I had no [[Time|time]] for verification, no [[Time|time]] for
+selection, no [[Time|time]] for anything, for I had no [[Time|time]] to spare. I stole
+some bread, some rind of [[cheese]], about half a jar of mincemeat (which I
+tied up in my pocket-handkerchief with my last [[Night|night]]’s slice), some
 brandy from a stone bottle (which I decanted into a glass bottle I had
 secretly used for making that intoxicating fluid,
-Spanish-liquorice-water, up in my room: diluting the stone bottle from
+Spanish-liquorice-[[Water|water]], up in my room: diluting the stone bottle from
 a jug in the kitchen cupboard), a meat bone with very little on it, and
 a beautiful round compact pork pie. I was nearly going away without the
 pie, but I was tempted to mount upon a shelf, to look what it was that
 was put away so carefully in a covered earthenware dish in a corner,
-and I found it was the pie, and I took it in the hope that it was not
-intended for early use, and would not be missed for some time.
+and I found it was the pie, and I took it in the [[Hope|hope]] that it was not
+intended for early use, and would not be missed for some [[Time|time]].
 
 There was a door in the kitchen, communicating with the forge; I
 unlocked and unbolted that door, and got a file from among Joe’s tools.
 Then I put the fastenings as I had found them, opened the door at which
-I had entered when I ran home last night, shut it, and ran for the
+I had entered when I ran [[Home|home]] last [[Night|night]], shut it, and ran for the
 misty marshes.

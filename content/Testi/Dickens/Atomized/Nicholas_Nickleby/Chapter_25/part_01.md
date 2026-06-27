@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 25 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 25 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 CHAPTER 25
 
-Concerning a young Lady from London, who joins the Company, and an
+Concerning a young Lady from [[London]], who joins the Company, and an
 elderly Admirer who follows in her Train; with an affecting Ceremony
 consequent on their Arrival
 
@@ -24,10 +24,10 @@ consequent on their Arrival
 The new piece being a decided hit, was announced for every evening of
 performance until further notice, and the evenings when the theatre was
 closed, were reduced from three in the week to two. Nor were these the
-only tokens of extraordinary success; for, on the succeeding Saturday,
+only tokens of extraordinary [[success]]; for, on the succeeding Saturday,
 Nicholas received, by favour of the indefatigable Mrs. Grudden, no less a
 sum than thirty shillings; besides which substantial reward, he enjoyed
-considerable fame and honour: having a presentation copy of Mr. Curdle’s
+considerable fame and [[Honour|honour]]: having a presentation copy of Mr. Curdle’s
 pamphlet forwarded to the theatre, with that gentleman’s own autograph
 (in itself an inestimable treasure) on the fly-leaf, accompanied with
 a note, containing many expressions of approval, and an unsolicited
@@ -52,13 +52,13 @@ season. No, no, not the pony.’
 ‘Very true,’ said Nicholas. ‘I beg your pardon. Then I don’t know what
 it is, I am sure.’
 
-‘What should you say to a young lady from London?’ inquired Mr. Crummles.
+‘What should you say to a young lady from [[London]]?’ inquired Mr. Crummles.
 ‘Miss So-and-so, of the Theatre Royal, Drury Lane?’
 
-‘I should say she would look very well in the bills,’ said Nicholas.
+‘I should say she would look very [[Well|well]] in the bills,’ said Nicholas.
 
 ‘You’re about right there,’ said Mr. Crummles; ‘and if you had said she
-would look very well upon the stage too, you wouldn’t have been far out.
+would look very [[Well|well]] upon the stage too, you wouldn’t have been far out.
 Look here; what do you think of this?’
 
 With this inquiry Mr. Crummles unfolded a red poster, and a blue poster,
@@ -69,9 +69,9 @@ Miss Petowker of the Theatre Royal, Drury Lane!’
 ‘Dear me!’ said Nicholas, ‘I know that lady.’
 
 ‘Then you are acquainted with as much talent as was ever compressed into
-one young person’s body,’ retorted Mr. Crummles, rolling up the bills
-again; ‘that is, talent of a certain sort--of a certain sort. “The Blood
-Drinker,”’ added Mr. Crummles with a prophetic sigh, ‘“The Blood Drinker”
+one young person’s [[Body|body]],’ retorted Mr. Crummles, [[rolling]] up the bills
+again; ‘that is, talent of a certain sort--of a certain sort. “The [[Blood]]
+Drinker,”’ added Mr. Crummles with a prophetic sigh, ‘“The [[Blood]] Drinker”
  will die with that girl; and she’s the only sylph I ever saw, who could
 stand upon one leg, and play the tambourine on her other knee, LIKE a
 sylph.’
@@ -81,7 +81,7 @@ sylph.’
 ‘We expect her today,’ replied Mr. Crummles. ‘She is an old friend of Mrs
 Crummles’s. Mrs. Crummles saw what she could do--always knew it from the
 first. She taught her, indeed, nearly all she knows. Mrs. Crummles was
-the original Blood Drinker.’
+the original [[Blood]] Drinker.’
 
 ‘Was she, indeed?’
 
@@ -105,11 +105,11 @@ upon the stage!’
 
 ‘Ah! extraordinary indeed,’ rejoined Mr. Crummles, taking a complacent
 pinch of snuff, and shaking his head gravely. ‘I pledge you my
-professional word I didn’t even know she could dance, till her last
-benefit, and then she played Juliet, and Helen Macgregor, and did the
-skipping-rope hornpipe between the pieces. The very first time I saw
+professional word I didn’t even know she could [[Dance|dance]], till her last
+benefit, and then she played [[Juliet]], and [[Helen]] Macgregor, and did the
+skipping-rope hornpipe between the pieces. The very first [[Time|time]] I saw
 that admirable woman, Johnson,’ said Mr. Crummles, drawing a little
-nearer, and speaking in the tone of confidential friendship, ‘she
+nearer, and speaking in the tone of confidential [[Friendship|friendship]], ‘she
 stood upon her head on the butt-end of a spear, surrounded with blazing
 fireworks.’
 
@@ -151,5 +151,5 @@ the Kenwigses in her conversations with the manager’s family, and had
 represented herself as having encountered Mr. Johnson in the very
 first and most fashionable circles; and on Nicholas receiving this
 intelligence with unfeigned surprise, she added, with a sweet glance,
-that she had a claim on his good nature now, and might tax it before
+that she had a claim on his good [[Nature|nature]] now, and might tax it before
 long.

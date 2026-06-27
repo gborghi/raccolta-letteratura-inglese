@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 45: FORTY FIVE (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 45: FORTY FIVE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -33,10 +33,10 @@ quite delighted. ‘Such an unlikely spot!’
 
 John rather disputed that. On the contrary, he considered it a very
 likely spot, indeed. He was constantly passing to and fro there, he
-said. He shouldn’t wonder if it were to happen again. His only wonder
+said. He shouldn’t [[Wonder|wonder]] if it were to happen again. His only [[Wonder|wonder]]
 was, that it had never happened before.
 
-By this time Ruth had got round on the farther side of her brother, and
+By this [[Time|time]] Ruth had got round on the farther side of her brother, and
 had taken his arm. She was squeezing it now, as much as to say ‘Are you
 going to stop here all day, you dear, old, blundering Tom?’
 
@@ -51,7 +51,7 @@ against the basin’s rim, and vanished.
 
 ‘Tom,’ said his friend, as they turned into the noisy street, ‘I have a
 proposition to make. It is, that you and your sister--if she will so far
-honour a poor bachelor’s dwelling--give me a great pleasure, and come
+[[Honour|honour]] a poor bachelor’s dwelling--give me a great pleasure, and come
 and dine with me.’
 
 ‘What, to-day?’ cried Tom.
@@ -61,7 +61,7 @@ It will be very disinterested, for I have nothing to give you.’
 
 ‘Oh! you must not believe that, Ruth,’ said Tom. ‘He is the most
 tremendous fellow, in his housekeeping, that I ever heard of, for a
-single man. He ought to be Lord Mayor. Well! what do you say? Shall we
+single man. He ought to be [[Lord Mayor]]. [[Well]]! what do you say? Shall we
 go?’
 
 ‘If you please, Tom,’ rejoined his dutiful little sister.
@@ -97,7 +97,7 @@ tickled to that degree at having found her out, that he stopped
 in Temple Bar to laugh; and it was no more to Tom, that he was
 anathematized and knocked about by the surly passengers, than it would
 have been to a post; for he continued to exclaim with unabated good
-humour, ‘flour and eggs! A beefsteak pudding made with flour and eggs!’
+[[Humour|humour]], ‘flour and eggs! A beefsteak pudding made with flour and eggs!’
 until John Westlock and his sister fairly ran away from him, and left
 him to have his laugh out by himself; which he had, and then came
 dodging across the crowded street to them, with such sweet temper and
@@ -107,7 +107,7 @@ been, as in the golden days gone by, embellished with a row of rotting
 human heads.
 
 There are snug chambers in those Inns where the bachelors live, and, for
-the desolate fellows they pretend to be, it is quite surprising how well
+the desolate fellows they pretend to be, it is quite surprising how [[Well|well]]
 they get on. John was very pathetic on the subject of his dreary life,
 and the deplorable makeshifts and apologetic contrivances it involved,
 but he really seemed to make himself pretty comfortable. His rooms were
@@ -115,7 +115,7 @@ the perfection of neatness and convenience at any rate; and if he were
 anything but comfortable, the fault was certainly not theirs.
 
 He had no sooner ushered Tom and his sister into his best room (where
-there was a beautiful little vase of fresh flowers on the table, all
+there was a beautiful little vase of fresh [[Flowers|flowers]] on the table, all
 ready for Ruth. Just as if he had expected her, Tom said), than, seizing
 his hat, he bustled out again, in his most energetically bustling, way;
 and presently came hurrying back, as they saw through the half-opened
@@ -126,25 +126,25 @@ polishing up the wine-glasses with his own hands, brightening the silver
 top of the pepper-caster on his coat-sleeve, drawing corks and filling
 decanters, with a skill and expedition that were quite dazzling. And
 as if, in the course of this rubbing and polishing, he had rubbed an
-enchanted lamp or a magic ring, obedient to which there were twenty
-thousand supernatural slaves at least, suddenly there appeared a being
+enchanted lamp or a [[Magic|magic]] ring, obedient to which there were twenty
+thousand [[Supernatural|supernatural]] slaves at least, suddenly there appeared a being
 in a white waistcoat, carrying under his arm a napkin, and attended by
 another being with an oblong box upon his head, from which a banquet,
 piping hot, was taken out and set upon the table.
 
-Salmon, lamb, peas, innocent young potatoes, a cool salad, sliced
+Salmon, [[Lamb|lamb]], peas, [[Innocent|innocent]] young potatoes, a cool salad, sliced
 cucumber, a tender duckling, and a tart--all there. They all came at the
-right time. Where they came from, didn’t appear; but the oblong box was
+right [[Time|time]]. Where they came from, didn’t appear; but [[The Oblong Box|the oblong box]] was
 constantly going and coming, and making its arrival known to the man in
 the white waistcoat by bumping modestly against the outside of the door;
 for, after its first appearance, it entered the room no more. He
-was never surprised, this man; he never seemed to wonder at the
+was never surprised, this man; he never seemed to [[Wonder|wonder]] at the
 extraordinary things he found in the box, but took them out with a face
 expressive of a steady purpose and impenetrable character, and put
 them on the table. He was a kind man; gentle in his manners, and much
 interested in what they ate and drank. He was a learned man, and knew
 the flavour of John Westlock’s private sauces, which he softly and
 feelingly described, as he handed the little bottles round. He was a
-grave man, and a noiseless; for dinner being done, and wine and fruit
+[[Grave|grave]] man, and a noiseless; for dinner being done, and wine and fruit
 arranged upon the board, he vanished, box and all, like something that
 had never been.

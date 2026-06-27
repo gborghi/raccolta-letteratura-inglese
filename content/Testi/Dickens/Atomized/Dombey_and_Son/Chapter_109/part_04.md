@@ -19,13 +19,13 @@ resumed in a hurry, as if he were anxious to get rid of his confession.
 
 “Before I knew what to do, or whether I could do anything, there was a
 second conversation between the same two brothers, in which their
-sister was mentioned. I had no scruples of conscience in suffering all
+sister was mentioned. I had no scruples of [[Conscience|conscience]] in [[Suffering|suffering]] all
 the waifs and strays of that conversation to float to me as freely as
 they would. I considered them mine by right. After that, I came here to
-see the sister for myself. The first time I stopped at the garden gate,
+see the sister for myself. The first [[Time|time]] I stopped at the [[Garden|garden]] gate,
 I made a pretext of inquiring into the character of a poor neighbour;
 but I wandered out of that tract, and I think Miss Harriet mistrusted
-me. The second time I asked leave to come in; came in; and said what I
+me. The second [[Time|time]] I asked leave to come in; came in; and said what I
 wished to say. Your sister showed me reasons which I dared not dispute,
 for receiving no assistance from me then; but I established a means of
 communication between us, which remained unbroken until within these
@@ -35,9 +35,9 @@ devolved upon me, from maintaining them.”
 “How little I have suspected this,” said John Carker, “when I have seen
 you every day, Sir! If Harriet could have guessed your name—”
 
-“Why, to tell you the truth, John,” interposed the visitor, “I kept it
+“Why, to tell you the [[Truth|truth]], John,” interposed the visitor, “I kept it
 to myself for two reasons. I don’t know that the first might have been
-binding alone; but one has no business to take credit for good
+binding [[Alone|alone]]; but one has no business to take credit for good
 intentions, and I made up my mind, at all events, not to disclose
 myself until I should be able to do you some real service or other. My
 second reason was, that I always hoped there might be some lingering
@@ -47,9 +47,9 @@ suspicious, watchful character, discovering that you had been secretly
 befriended by me, there was the chance of a new and fatal cause of
 division. I resolved, to be sure, at the risk of turning his
 displeasure against myself—which would have been no matter—to watch my
-opportunity of serving you with the head of the House; but the
-distractions of death, courtship, marriage, and domestic unhappiness,
-have left us no head but your brother for this long, long time. And it
+opportunity of serving you with the head of the [[house|House]]; but the
+distractions of [[Death|death]], courtship, [[Marriage|marriage]], and domestic unhappiness,
+have left us no head but your brother for this long, long [[Time|time]]. And it
 would have been better for us,” said the visitor, dropping his voice,
 “to have been a lifeless trunk.”
 
@@ -57,20 +57,20 @@ He seemed conscious that these latter words had escaped him against his
 will, and stretching out a hand to the brother, and a hand to the
 sister, continued:
 
-“All I could desire to say, and more, I have now said. All I mean goes
-beyond words, as I hope you understand and believe. The time has come,
+“All I could [[Desire|desire]] to say, and more, I have now said. All I mean goes
+beyond words, as I [[Hope|hope]] you understand and believe. The [[Time|time]] has come,
 John—though most unfortunately and unhappily come—when I may help you
 without interfering with that redeeming struggle, which has lasted
 through so many years; since you were discharged from it today by no
 act of your own. It is late; I need say no more tonight. You will
 guard the treasure you have here, without advice or reminder from me.”
 
-With these words he rose to go.
+With these words he [[Rose|rose]] to go.
 
 “But go you first, John,” he said goodhumouredly, “with a light,
 without saying what you want to say, whatever that may be;” John
 Carker’s heart was full, and he would have relieved it in speech, if he
-could; “and let me have a word with your sister. We have talked alone
+could; “and let me have a word with your sister. We have talked [[Alone|alone]]
 before, and in this room too; though it looks more natural with you
 here.”
 
@@ -94,17 +94,17 @@ Is it that?”
 
 “That he has abused his trust in many ways,” said Mr Morfin; “that he
 has oftener dealt and speculated to advantage for himself, than for the
-House he represented; that he has led the House on, to prodigious
+[[house|House]] he represented; that he has led the [[house|House]] on, to prodigious
 ventures, often resulting in enormous losses; that he has always
-pampered the vanity and ambition of his employer, when it was his duty
+pampered the [[Vanity|vanity]] and [[Ambition|ambition]] of his employer, when it was his duty
 to have held them in check, and shown, as it was in his power to do, to
 what they tended here or there; will not, perhaps, surprise you now.
-Undertakings have been entered on, to swell the reputation of the House
+Undertakings have been entered on, to swell the reputation of the [[house|House]]
 for vast resources, and to exhibit it in magnificent contrast to other
 merchants’ Houses, of which it requires a steady head to contemplate
 the possibly—a few disastrous changes of affairs might render them the
 probably—ruinous consequences. In the midst of the many transactions of
-the House, in most parts of the world: a great labyrinth of which only
+the [[house|House]], in most parts of the world: a great labyrinth of which only
 he has held the clue: he has had the opportunity, and he seems to have
 used it, of keeping the various results afloat, when ascertained, and
 substituting estimates and generalities for facts. But latterly—you
@@ -120,7 +120,7 @@ extraordinary ease. As if he had resolved to show his employer at one
 broad view what has been brought upon him by ministration to his ruling
 passion! That it has been his constant practice to minister to that
 passion basely, and to flatter it corruptly, is indubitable. In that,
-his criminality, as it is connected with the affairs of the House,
+his criminality, as it is connected with the affairs of the [[house|House]],
 chiefly consists.”
 
 “One other word before you leave me, dear Sir,” said Harriet. “There is
@@ -128,7 +128,7 @@ no danger in all this?”
 
 “How danger?” he returned, with a little hesitation.
 
-“To the credit of the House?”
+“To the credit of the [[house|House]]?”
 
 “I cannot help answering you plainly, and trusting you completely,”
 said Mr Morfin, after a moment’s survey of her face.

@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 3 (part 2)"
+title: "[[Persuasion]] — Chapter 3 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -40,7 +40,7 @@ Admiral Baldwin’s age.”
 
 “Nay, Sir Walter,” cried Mrs Clay, “this is being severe indeed. Have a
 
-little mercy on the poor men. We are not all born to be handsome. The
+little [[Mercy|mercy]] on the poor men. We are not all born to be handsome. The
 
 sea is no beautifier, certainly; sailors do grow old betimes; I have
 
@@ -52,7 +52,7 @@ active service, are not at all better off: and even in the quieter
 
 professions, there is a toil and a labour of the mind, if not of the
 
-body, which seldom leaves a man’s looks to the natural effect of time.
+[[Body|body]], which seldom [[Leaves|leaves]] a man’s looks to the natural effect of [[Time|time]].
 
 The lawyer plods, quite care-worn; the physician is up at all hours,
 
@@ -86,15 +86,15 @@ It seemed as if Mr Shepherd, in this anxiety to bespeak Sir Walter’s
 
 good will towards a naval officer as tenant, had been gifted with
 
-foresight; for the very first application for the house was from an
+foresight; for the very first application for the [[house]] was from an
 
-Admiral Croft, with whom he shortly afterwards fell into company in
+[[Admiral Croft]], with whom he shortly afterwards fell into company in
 
 attending the quarter sessions at Taunton; and indeed, he had received
 
-a hint of the Admiral from a London correspondent. By the report which
+a hint of the Admiral from a [[London]] correspondent. By the report which
 
-he hastened over to Kellynch to make, Admiral Croft was a native of
+he hastened over to Kellynch to make, [[Admiral Croft]] was a native of
 
 Somersetshire, who having acquired a very handsome fortune, was wishing
 
@@ -124,7 +124,7 @@ responsible, eligible tenant.
 
 
 
-“And who is Admiral Croft?” was Sir Walter’s cold suspicious inquiry.
+“And who is [[Admiral Croft]]?” was Sir Walter’s cold suspicious inquiry.
 
 
 
@@ -150,17 +150,17 @@ about as orange as the cuffs and capes of my livery.”
 
 
 
-Mr Shepherd hastened to assure him, that Admiral Croft was a very hale,
+Mr Shepherd hastened to assure him, that [[Admiral Croft]] was a very hale,
 
-hearty, well-looking man, a little weather-beaten, to be sure, but not
+hearty, [[Well|well]]-looking man, a little weather-beaten, to be sure, but not
 
 much, and quite the gentleman in all his notions and behaviour; not
 
 likely to make the smallest difficulty about terms, only wanted a
 
-comfortable home, and to get into it as soon as possible; knew he must
+comfortable [[Home|home]], and to get into it as soon as possible; knew he must
 
-pay for his convenience; knew what rent a ready-furnished house of that
+pay for his convenience; knew what rent a ready-furnished [[house]] of that
 
 consequence might fetch; should not have been surprised if Sir Walter
 
@@ -178,11 +178,11 @@ circumstances of the Admiral’s family, which made him peculiarly
 
 desirable as a tenant. He was a married man, and without children; the
 
-very state to be wished for. A house was never taken good care of, Mr
+very state to be wished for. A [[house]] was never taken good care of, Mr
 
 Shepherd observed, without a lady: he did not know, whether furniture
 
-might not be in danger of suffering as much where there was no lady, as
+might not be in danger of [[Suffering|suffering]] as much where there was no lady, as
 
 where there were many children. A lady, without a family, was the very
 
@@ -190,13 +190,13 @@ best preserver of furniture in the world. He had seen Mrs Croft, too;
 
 she was at Taunton with the admiral, and had been present almost all
 
-the time they were talking the matter over.
+the [[Time|time]] they were talking the matter over.
 
 
 
-“And a very well-spoken, genteel, shrewd lady, she seemed to be,”
+“And a very [[Well|well]]-spoken, genteel, shrewd lady, she seemed to be,”
 
-continued he; “asked more questions about the house, and terms, and
+continued he; “asked more questions about the [[house]], and terms, and
 
 taxes, than the Admiral himself, and seemed more conversant with
 

@@ -22,7 +22,7 @@ VOX POPULI VOX DEI
 with a somewhat constrained smile, "that after the
 eloquent and epoch-making speech to which we have
 listened there will be some questions asked, and we
-hope to have a debate afterwards.  I am sure somebody
+[[Hope|hope]] to have a [[debate]] afterwards.  I am sure somebody
 will ask a question."  Then he looked interrogatively
 at one weary looking gentleman in the fourth
 row and said, "Mr. Hinch?"
@@ -34,7 +34,7 @@ I really couldn't!"
 "We should be very pleased," said Mr. Leveson, "if
 any lady would ask a question."
 
-In the silence that followed it was somehow
+In the [[Silence|silence]] that followed it was somehow
 psychologically borne in on the whole audience that one
 particular great large lady (as the lecturer would say)
 sitting at the end of the second row was expected to
@@ -50,7 +50,7 @@ could be heard of "Now then, Garge!"--"Go it
 Garge!  Is there any questions!  Gor!"
 
 Mr. Leveson looked up with an alertness somewhat
-akin to alarm.  He realised for the first time that a few
+akin to alarm.  He realised for the first [[Time|time]] that a few
 quite common men in coarse, unclean clothes, had
 somehow strolled in through the open door.  They
 were not true rustics, but the semi-rustic labourers that
@@ -83,22 +83,22 @@ string.  He did not appear to have had any seat since
 his arrival, and made his remarks standing half way
 down what we may call the central aisle.
 
-"Well, I want to ask the proprietor," he began.
+"[[Well]], I want to ask the proprietor," he began.
 
 "Questions," said Mr. Leveson, swiftly seizing a
-chance for that construction of debate which is the
+chance for that construction of [[debate]] which is the
 main business of a modern chairman, "must be asked
 of the chair, if they are points of order.  If they
 concern the address, they should be asked of the lecturer."
 
-"Well, I ask the lecturer," said the patient Garge,
+"[[Well]], I ask the lecturer," said the patient Garge,
 "whether it ain't right that when you 'ave the thing
 outside you should 'ave the thing inside."  (Hoarse
 applause at the back.)
 
 Mr. Leveson was evidently puzzled and already
 suspicious that something was quite wrong.  But the
-enthusiasm of the Prophet of the Moon sprang up
+enthusiasm of the [[Prophet]] of the [[Moon]] sprang up
 instantly at any sort of question and swept the
 Chairman along with it.
 
@@ -107,7 +107,7 @@ cried, spreading out his arms to embrace the world,
 "that the outer manifestation should be one with the
 inner manifestation.  My friendss, it iss this very
 tru-uth our friend has stated, that iss responsible for
-our apparent lack of symbolism in Islam!  We appear
+our apparent lack of symbolism in [[Islam]]!  We appear
 to neglect the symbol because we insist on the
 satisfactory symbol.  My friend in the middle will
 walk round all our mosques and say loudly, 'Where is
@@ -118,7 +118,7 @@ statue of Allah?"
 Misysra Ammon sat down greatly satisfied with
 his answer, but it was doubted by many whether, he
 had conveyed the satisfaction to his friend in the
-middle.  That seeker after truth wiped his mouth with
+middle.  That seeker after [[Truth|truth]] wiped his mouth with
 the back of his hand with an unsatisfied air and said:
 
 "No offence, sir.  But ain't it the Law, sir, that if
@@ -128,33 +128,33 @@ place like this afore."  (Hoarse laughter behind.)
 
 "No apology is needed, my friend," cried the Eastern
 sage, eagerly, "I can conceive you are not perhaps
-du-uly conversant with such schools of truth.  But
+du-uly conversant with such schools of [[Truth|truth]].  But
 the Law is All.  The Law is Allah.  The inmost
-u-unity of--"
+u-[[unity]] of--"
 
-"Well, ain't it the Law?" repeated the dogged
-George, and every time he mentioned the Law the poor
+"[[Well]], ain't it the Law?" repeated the dogged
+George, and every [[Time|time]] he mentioned the Law the poor
 men who are its chief victims applauded loudly.  "I'm
 not one to make a fuss.  I never was one to make a
 fuss.  I'm a law-abidin' man, I am.  (More applause.)
 Ain't it the Law that if so be such is your sign and
 such is your profession, you ought to serve us?"
 
-"I fear I not quite follow," cried the eager Turk.
+"I [[Fear|fear]] I not quite follow," cried the eager Turk.
 "I ought?"
 
 "To serve us," shouted a throng of thick voices
 from the back of the hall, which was already much
 more crowded than before.
 
-"Serve you!" cried Misysra, leaping up like a spring
-released, "The Holy Prophet came from Heaven to
+"Serve you!" cried Misysra, leaping up like a [[spring]]
+released, "The Holy [[Prophet]] came from Heaven to
 serve you!  The virtue and valour of a thousand
 years, my friends, has had no hunger but to serve you!
-We are of all faiths, the most the faith of service.
-Our highest prophet is no more than the servant of
+We are of all faiths, the most the [[Faith|faith]] of service.
+Our highest [[Prophet|prophet]] is no more than the servant of
 God, as I am, as you all are.  Even for our symbol
-we choose a satellite, and honour the Moon because it
+we choose a satellite, and [[Honour|honour]] the [[Moon]] because it
 only serves the Earth, and does not pretend to be the
 Sun."
 
@@ -175,7 +175,7 @@ him:
 "You must get all the ladies away.  I can't imagine
 what's up, but something's up."
 
-"Well?" repeated the patient George.  "So be it's
+"[[Well]]?" repeated the patient George.  "So be it's
 the Law, where is it?"
 
 "Ladies and Gentlemen," said Mr. Leveson, in his
@@ -210,12 +210,12 @@ Away on the wettest edge of the sands by the sea the
 prints of two wheels and four hoofs were being slowly
 washed away by a slowly rising tide; which was,
 indeed, the only motive of the man Humphrey Pump,
-leading the donkey cart, in leading it almost ankle deep
-in water.
+leading the [[donkey]] cart, in leading it almost ankle deep
+in [[Water|water]].
 
-"I hope you're sober again now," he said with some
+"I [[Hope|hope]] you're sober again now," he said with some
 seriousness to his companion, a huge man walking
-heavily and even humbly with a straight sword swinging
+heavily and even humbly with a straight [[Sword|sword]] swinging
 to and fro at his hip--"for honestly it was a mug's
 game to go and stick up the old sign before that tin
 place.  I haven't often spoken to you like this,
@@ -227,34 +227,34 @@ hear the ladies screaming before we left."
 
 "I heard worse than that long before we left," said
 the large man, without lifting his head.  "I heard one
-of them laugh. . . .  Christ, do you think I shouldn't
+of them laugh. . . .  [[Christ]], do you think I shouldn't
 hear her laugh?"
 
-There was a silence.  "I didn't mean to speak
+There was a [[Silence|silence]].  "I didn't mean to speak
 sharp," said Humphrey Pump with that incorruptible
 kindliness which was the root of his Englishry, and
-may yet save the soul of the English.  "But it's the
-truth I was pretty well bothered about how to get out
+may yet save the [[Soul|soul]] of the English.  "But it's the
+[[Truth|truth]] I was pretty [[Well|well]] bothered about how to get out
 of this business.  You're braver than I am, you see,
 and I own I was frightened about both of us.  If I
 hadn't known my way to the lost tunnel, I should be
 fairly frightened still."
 
 "Known your way to what?" asked the Captain,
-lifting his red head for the first time.
+lifting his red head for the first [[Time|time]].
 
 "Oh, you know all about No More Ivywood's lost
 tunnel," said Pump, carelessly.  "Why, we all used
 to look for it when we were boys.  Only I happened
 to find it."
 
-"Have mercy on an exile," said Dalroy, humbly.
+"Have [[Mercy|mercy]] on an [[Exile|exile]]," said Dalroy, humbly.
 "I don't know which hurt him most, the things he
 forgets or the things he remembers."
 
 Mr. Pump was silent for a little while and then
-said, more seriously than usual, "Well, the people
-from London say you must put up placards and
+said, more seriously than usual, "[[Well]], the people
+from [[London]] say you must put up placards and
 statues and subscriptions and epitaphs and the Lord
 knows what, to the people who've found some new
 trick and made it come off.  But only a man that
@@ -269,22 +269,22 @@ ninety-two patients who hadn't got anything.  But
 Boone had to keep it dark; naturally, because all his
 lady patients grew mustaches.  It was a result of the
 treatment.  But it wasn't a result he wishes to dwell
-on.  Then there was old Dean Arthur, who discovered
+on.  Then there was old Dean [[arthur|Arthur]], who discovered
 balloons if ever a man did.  He discovered them
 long before they were discovered.  But people were
 suspicious about such things just then--there was a
-revival of the witch business in spite of all the parsons
+revival of the [[Witch|witch]] business in spite of all the parsons
 --and he had to sign a paper saying where he'd got the
-notion.  Well, it stands to reason, you wouldn't like to
+notion.  [[Well]], it stands to reason, you wouldn't like to
 sign a paper saying you'd got it from the village idiot
 when you were both blowing soap-bubbles; and that's
 all he could have signed, for he was an honest gentleman,
 the poor old Dean.  Then there was Jack Arlingham
 and the diving bell--but you remember all about
-that.  Well, it was just the same with the man that
+that.  [[Well]], it was just the same with the man that
 made this tunnel--one of the mad Ivywoods.  There's
 many a man, Captain, that has a statue in the great
-London squares for helping to make the railway
+[[London]] squares for helping to make the railway
 trains.  There's many a man has his name in
 Westminster Abbey for doing something in discovering
 steamboats.  Poor old Ivywood discovered both at
@@ -297,13 +297,13 @@ didn't like the tunnel even mentioned.  I don't think
 anybody knows where it is but me and Bunchy Robinson.
 We shall be there in a minute or two.  They've
 thrown the rocks about at this end; and let the thick
-plantation grow at the other, but I've got a race horse
+plantation grow at the other, but I've got a race [[Horse|horse]]
 through before now, to save it from Colonel Chepstow's
 little games, and I think I can manage this
-donkey.  Honestly, I think it's the only place we'll
+[[donkey]].  Honestly, I think it's the only place we'll
 be safe in after what we've left behind us at Pebblewick.
 But it's the best place in the world, there's no
-doubt, for lying low and starting afresh.  Here we
+[[Doubt|doubt]], for lying low and starting afresh.  Here we
 are.  You think you can't get behind that rock, but
 you can.  In fact, you have."
 
@@ -324,12 +324,12 @@ came glimmering through the trees was so broken
 and tremulous that it was hard to tell whether it was
 daybreak or moonrise.
 
-"I know there's water here," said Pump.  "They
+"I know there's [[Water|water]] here," said Pump.  "They
 couldn't keep it out of the stone-work when they
 made the tunnel, and old Ivywood hit the hydraulic
 engineer with a spirit level.  With the bit of covert
 here and the sea behind us we ought to be able to get
-food of one kind or another, when the cheese has given
+food of one kind or another, when the [[cheese]] has given
 out, and donkeys can eat anything.  By the way," he
 added with some embarrassment, "you don't mind my
 saying it, Captain, but I think we'd better keep that
@@ -346,7 +346,7 @@ which I will take a glass now, to celebrate our
 glorious victory over Leveson and his tin tabernacle."
 
 He drained one glass and then sat down on the
-cask, as if to put temptation behind him.  His blue
+cask, as if to put [[Temptation|temptation]] behind him.  His blue
 ruminant bull's eye seemed to plunge deeper and deeper
 into the emerald twilight of the trees in front of him,
 and it was long before he spoke again.
@@ -356,13 +356,13 @@ a friend of yours--a gentleman named Bunchy Robinson,
 I think--was also a _habitué_ here."
 
 "Yes, he knew the way," answered Pump, leading
-the donkey to the most suitable patch of pasturage.
+the [[donkey]] to the most suitable patch of pasturage.
 
 "May we, do you think, have the pleasure of a visit
 from Mr. Robinson?" inquired the Captain.
 
 "Not unless they're jolly careless up in Blackstone
-Gaol," replied Pump.  And he moved the cheese well
+Gaol," replied Pump.  And he moved the [[cheese]] [[Well|well]]
 into the arch of the tunnel.  Dalroy still sat with his
 square chin on his hand, staring at the mystery of the
 little wood.
@@ -371,18 +371,18 @@ little wood.
 Humphrey.
 
 "The deepest thoughts are all commonplaces," said
-Dalroy.  "That is why I believe in Democracy, which
-is more than you do, you foul blood-stained old British
+Dalroy.  "That is why I believe in [[democracy|Democracy]], which
+is more than you do, you foul [[Blood|blood]]-stained old British
 Tory.  And the deepest commonplace of all is that
-Vanitas Vanitatem, which is not pessimism but is
+[[Vanitas]] Vanitatem, which is not pessimism but is
 really the opposite of pessimism.  It is man's futility
 that makes us feel he must be a god.  And I think
 of this tunnel, and how the poor old lunatic walked
-about on this grass, watching it being built, the soul
-in him on fire with the future.  And he saw the whole
+about on this grass, watching it being built, the [[Soul|soul]]
+in him on [[Fire|fire]] with the future.  And he saw the whole
 world changed and the seas thronged with his new
 shipping; and now," and Dalroy's voice changed and
-broke, "now there is good pasture for the donkey
+broke, "now there is good pasture for the [[donkey]]
 and it is very quiet here."
 
 "Yes," said Pump, in some way that conveyed his
@@ -390,7 +390,7 @@ knowledge that the Captain was thinking of other
 things also.  The Captain went on dreamily:
 
 "And I think about another Lord Ivywood recorded
-in history who also had a great vision.  For it is a
+in [[history]] who also had a great vision.  For it is a
 great vision after all, and though the man is a prig,
 he is brave.  He also wants to drive a tunnel--between
 East and West--to make the Indian Empire more
@@ -404,11 +404,11 @@ be indeed enough life and growth in your England to
 leave it at last as this is left, buried in English forests
 and wasted by an English sea."
 
-The silence fell between them again, and again there
+The [[Silence|silence]] fell between them again, and again there
 was only the slight sound the animal made in eating.
 As Dalroy had said, it was very quiet there.
 
-But it was not quiet in Pebblewick that night;
+But it was not quiet in Pebblewick that [[Night|night]];
 when the Riot Act was read, and all the people who had
 seen the sign-board outside fought all the people who
 hadn't seen the sign-board outside; or when babies and

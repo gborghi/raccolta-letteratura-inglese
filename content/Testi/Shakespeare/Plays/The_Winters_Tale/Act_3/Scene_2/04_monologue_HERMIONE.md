@@ -1,5 +1,5 @@
 ---
-title: "The Winters Tale — Act III, Scene 2 — monologue (HERMIONE) [4]"
+title: "The Winters Tale — Act III, Scene 2 — monologue ([[Hermione|HERMIONE]]) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/THE-WINTER’S-TALE-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| HERMIONE | Sir, spare your threats. The bug which you would fright me with, I seek. To me can life be no commodity. The crown and comfort of my life, your favour, I do give lost, for I do feel it gone But know not how it went. My second joy, And first fruits of my body, from his presence I am barred, like one infectious. My third comfort, Starred most unluckily, is from my breast, The innocent milk in it most innocent mouth, Haled out to murder; myself on every post Proclaimed a strumpet, with immodest hatred The childbed privilege denied, which ‘longs To women of all fashion; lastly, hurried Here, to this place, i’th’ open air, before I have got strength of limit. Now, my liege, Tell me what blessings I have here alive, That I should fear to die. Therefore proceed. But yet hear this—mistake me not—no life, I prize it not a straw; but for mine honour, Which I would free: if I shall be condemned Upon surmises, all proofs sleeping else But what your jealousies awake, I tell you ’Tis rigour, and not law. Your honours all, I do refer me to the oracle. Apollo be my judge. |
+| [[Hermione|HERMIONE]] | Sir, spare your threats. The bug which you would fright me with, I seek. To me can life be no commodity. The [[Crown|crown]] and comfort of my life, your favour, I do give lost, for I do feel it gone But know not how it went. My second joy, And first fruits of my [[Body|body]], from his presence I am barred, like one infectious. My third comfort, Starred most unluckily, is from my breast, The [[Innocent|innocent]] milk in it most [[Innocent|innocent]] mouth, Haled out to murder; myself on every post Proclaimed a strumpet, with immodest hatred The childbed privilege denied, which ‘longs To women of all fashion; lastly, hurried Here, to this place, i’th’ open air, before I have got strength of limit. Now, my liege, Tell me what blessings I have here alive, That I should [[Fear|fear]] to die. Therefore proceed. But yet hear this—mistake me not—no life, I prize it not a straw; but for mine [[Honour|honour]], Which I would free: if I shall be condemned Upon surmises, all proofs sleeping else But what your jealousies awake, I tell you ’Tis rigour, and not law. Your honours all, I do refer me to the oracle. [[Apollo]] be my judge. |

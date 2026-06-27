@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 29 (part 2)"
+title: "Bleak [[house|House]] — Chapter 29 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -23,7 +23,7 @@ declining to accept a bow from the young man as he goes out and
 majestically supposing him to be some shoemaker of intrusive
 appearance.
 
-Lady Dedlock looks imperiously at her visitor when the servant has
+[[Lady Dedlock]] looks imperiously at her visitor when the servant has
 left the room, casting her eyes over him from head to foot. She
 suffers him to stand by the door and asks him what he wants.
 
@@ -47,7 +47,7 @@ short with but little ceremony. Say what you have to say, if you
 please.”
 
 My Lady, with a careless toss of her screen, turns herself towards
-the fire again, sitting almost with her back to the young man of the
+the [[Fire|fire]] again, sitting almost with her back to the young man of the
 name of Guppy.
 
 “With your ladyship’s permission, then,” says the young man, “I will
@@ -57,7 +57,7 @@ of not committing myself in writing, and therefore I did not mention
 to your ladyship the name of the firm with which I am connected and
 in which my standing—and I may add income—is tolerably good. I may
 now state to your ladyship, in confidence, that the name of that firm
-is Kenge and Carboy, of Lincoln’s Inn, which may not be altogether
+is Kenge and Carboy, of [[Lincoln]]’s Inn, which may not be altogether
 unknown to your ladyship in connexion with the case in Chancery of
 Jarndyce and Jarndyce.”
 
@@ -67,7 +67,7 @@ ceased to toss the screen and holds it as if she were listening.
 “Now, I may say to your ladyship at once,” says Mr. Guppy, a little
 emboldened, “it is no matter arising out of Jarndyce and Jarndyce
 that made me so desirous to speak to your ladyship, which conduct I
-have no doubt did appear, and does appear, obtrusive—in fact, almost
+have no [[Doubt|doubt]] did appear, and does appear, obtrusive—in fact, almost
 blackguardly.”
 
 After waiting for a moment to receive some assurance to the contrary,
@@ -88,7 +88,7 @@ myself entirely in your ladyship’s hands. If your ladyship was to
 make any complaint to Kenge and Carboy or to Mr. Tulkinghorn of the
 present visit, I should be placed in a very disagreeable situation.
 That, I openly admit. Consequently, I rely upon your ladyship’s
-honour.”
+[[Honour|honour]].”
 
 My Lady, with a disdainful gesture of the hand that holds the screen,
 assures him of his being worth no complaint from her.
@@ -97,9 +97,9 @@ assures him of his being worth no complaint from her.
 Now—I—dash it!—The fact is that I put down a head or two here of
 the order of the points I thought of touching upon, and they’re
 written short, and I can’t quite make out what they mean. If your
-ladyship will excuse me taking it to the window half a moment, I—”
+ladyship will excuse me taking it to the [[Window|window]] half a moment, I—”
 
-Mr. Guppy, going to the window, tumbles into a pair of love-birds, to
+Mr. Guppy, going to the [[Window|window]], tumbles into a pair of [[Love|love]]-[[Birds|birds]], to
 whom he says in his confusion, “I beg your pardon, I am sure.” This
 does not tend to the greater legibility of his notes. He murmurs,
 growing warm and red and holding the slip of paper now close to his
@@ -108,10 +108,10 @@ know! Yes, to be sure!” And comes back enlightened.
 
 “I am not aware,” says Mr. Guppy, standing midway between my Lady and
 his chair, “whether your ladyship ever happened to hear of, or to
-see, a young lady of the name of Miss Esther Summerson.”
+see, a young lady of the name of Miss [[Esther Summerson]].”
 
 My Lady’s eyes look at him full. “I saw a young lady of that name not
-long ago. This past autumn.”
+long ago. This past [[Autumn|autumn]].”
 
 “Now, did it strike your ladyship that she was like anybody?” asks
 Mr. Guppy, crossing his arms, holding his head on one side, and
@@ -128,16 +128,16 @@ My Lady removes her eyes from him no more.
 “I think your ladyship,” says Mr. Guppy, “can hardly remember Miss
 Summerson’s face?”
 
-“I remember the young lady very well. What has this to do with me?”
+“I remember the young lady very [[Well|well]]. What has this to do with me?”
 
 “Your ladyship, I do assure you that having Miss Summerson’s image
 imprinted on my ’eart—which I mention in confidence—I found, when I
-had the honour of going over your ladyship’s mansion of Chesney Wold
+had the [[Honour|honour]] of going over your ladyship’s mansion of Chesney Wold
 while on a short out in the county of Lincolnshire with a friend,
-such a resemblance between Miss Esther Summerson and your ladyship’s
+such a resemblance between Miss [[Esther Summerson]] and your ladyship’s
 own portrait that it completely knocked me over, so much so that I
 didn’t at the moment even know what it WAS that knocked me over. And
-now I have the honour of beholding your ladyship near (I have often,
+now I have the [[Honour|honour]] of beholding your ladyship near (I have often,
 since that, taken the liberty of looking at your ladyship in your
 carriage in the park, when I dare say you was not aware of me, but I
 never saw your ladyship so near), it’s really more surprising than I

@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 34: THIRTY FOUR (part 1)"
+title: "[[Martin Chuzzlewit]] — Chapter 34: THIRTY FOUR (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -30,7 +30,7 @@ down upon his coat; a little fringe of hair upon his chin; wore no
 neckcloth; a white hat; a suit of black, long in the sleeves and short
 in the legs; soiled brown stockings and laced shoes. His complexion,
 naturally muddy, was rendered muddier by too strict an economy of soap
-and water; and the same observation will apply to the washable part
+and [[Water|water]]; and the same observation will apply to the washable part
 of his attire, which he might have changed with comfort to himself and
 gratification to his friends. He was about five and thirty; was crushed
 and jammed up in a heap, under the shade of a large green cotton
@@ -95,13 +95,13 @@ our country, sir. There is a brow, sir, there!’
 ‘Quite remarkable,’ said Martin.
 
 ‘Yes, sir. Our own immortal Chiggle, sir, is said to have observed,
-when he made the celebrated Pogram statter in marble, which rose so much
+when he made the celebrated Pogram statter in marble, which [[Rose|rose]] so much
 con-test and preju-dice in Europe, that the brow was more than mortal.
 This was before the Pogram Defiance, and was, therefore, a pre-diction,
 cruel smart.’
 
 ‘What is the Pogram Defiance?’ asked Martin, thinking, perhaps, it was
-the sign of a public-house.
+the sign of a public-[[house]].
 
 ‘An o-ration, sir,’ returned his friend.
 
@@ -119,7 +119,7 @@ the dialogue--‘this is a gentleman from Europe, sir; from England, sir.
 But gen’rous ene-mies may meet upon the neutral sile of private life, I
 think.’
 
-The languid Mr Pogram shook hands with Martin, like a clock-work figure
+The languid Mr Pogram shook hands with Martin, like a [[Clock|clock]]-work figure
 that was just running down. But he made amends by chewing like one that
 was just wound up.
 
@@ -128,14 +128,14 @@ Congress is recessed, he makes himself acquainted with those free United
 States, of which he is the gifted son.’
 
 It occurred to Martin that if the Honourable Elijah Pogram had stayed at
-home, and sent his shoes upon a tour, they would have answered the
+[[Home|home]], and sent his shoes upon a tour, they would have answered the
 same purpose; for they were the only part of him in a situation to see
 anything.
 
-In course of time, however, Mr Pogram rose; and having ejected certain
+In course of [[Time|time]], however, Mr Pogram [[Rose|rose]]; and having ejected certain
 plugging consequences which would have impeded his articulation, took up
 a position where there was something to lean against, and began to talk
-to Martin; shading himself with the green umbrella all the time.
+to Martin; shading himself with the green umbrella all the [[Time|time]].
 
 As he began with the words, ‘How do you like--?’ Martin took him up and
 said:

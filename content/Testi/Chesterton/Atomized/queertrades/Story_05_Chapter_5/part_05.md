@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 5 (part 5)"
+title: "[[queertrades]] — Chapter 5 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/queertrades-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-The professor continued his antics with perfect placidity,
+[[The Professor|The professor]] continued his antics with perfect placidity,
 but Grant stopped abruptly.  The doctor had reappeared on the scene,
 and his shiny black eyes, under his shiny black hat, moved restlessly
 from one of them to the other.
@@ -28,7 +28,7 @@ Mr Bingham, of the British Museum, bowed in a manner that was
 respectful but a trifle bewildered.
 
 "Miss Chadd will excuse me," continued Basil easily, "if I know
-my way about the house."  And he led the dazed librarian rapidly
+my way about the [[house]]."  And he led the dazed librarian rapidly
 through the back door into the parlour.
 
 "Mr Bingham," said Basil, setting a chair for him, "I imagine
@@ -51,16 +51,16 @@ in his chair, drawing it up to the table.
 "I am delighted, of course," said the gentleman from the British Museum,
 coughing and drawing up his chair also.
 
-The clock on the mantelpiece ticked for just the moments required
+The [[Clock|clock]] on the mantelpiece ticked for just the moments required
 for Basil to clear his throat and collect his words, and then he said:
 
 "My proposal is this.  I do not know that in the strict use of words
 you could altogether call it a compromise, still it has something of
-that character.  My proposal is that the Government (acting, as I presume,
+that character.  My proposal is that the [[government|Government]] (acting, as I presume,
 through your Museum) should pay Professor Chadd L800 a year until
 he stops dancing."
 
-"Eight hundred a year!" said Mr Bingham, and for the first time lifted
+"Eight hundred a year!" said Mr Bingham, and for the first [[Time|time]] lifted
 his mild blue eyes to those of his interlocutor--and he raised them
 with a mild blue stare.  "I think I have not quite understood you.
 Did I understand you to say that Professor Chadd ought to be employed,
@@ -87,17 +87,17 @@ for life.  Not at all."
 
 "What for, then?" asked the meek Bingham, suppressing an instinct
 meekly to tear his hair.  "How long is this endowment to run?
-Not till his death?  Till the Judgement day?"
+Not till his [[Death|death]]?  Till the Judgement day?"
 
 "No," said Basil, beaming, "but just what I said.  Till he has
 stopped dancing."  And he lay back with satisfaction and his hands
 in his pockets.
 
-Bingham had by this time fastened his eyes keenly on Basil Grant
+Bingham had by this [[Time|time]] fastened his eyes keenly on Basil Grant
 and kept them there.
 
 "Come, Mr Grant," he said.  "Do I seriously understand you to suggest
-that the Government pay Professor Chadd an extraordinarily high salary
+that the [[government|Government]] pay Professor Chadd an extraordinarily high salary
 simply on the ground that he has (pardon the phrase) gone mad?
 That he should be paid more than four good clerks solely on the ground
 that he is flinging his boots about in the back yard?"
@@ -109,7 +109,7 @@ but actually to stop with the absurd dancing?"
 
 "One must stop somewhere," said Grant.  "Of course."
 
-Bingham rose and took up his perfect stick and gloves.
+Bingham [[Rose|rose]] and took up his perfect stick and gloves.
 
 "There is really nothing more to be said, Mr Grant," he said coldly.
 "What you are trying to explain to me may be a joke--
@@ -125,7 +125,7 @@ I am sorry to say, with the British Museum Library."
 He was stepping towards the door, but Grant's hand, flung out
 in dramatic warning, arrested him.
 
-"Stop!" said Basil sternly.  "Stop while there is yet time.
+"Stop!" said Basil sternly.  "Stop while there is yet [[Time|time]].
 Do you want to take part in a great work, Mr Bingham?  Do you
 want to help in the glory of Europe--in the glory of science?
 Do you want to carry your head in the air when it is bald or
@@ -147,7 +147,7 @@ Dr Colman was coming in.
 "the fact is, Mr Grant, I--er--have made a most disturbing discovery
 about Mr Chadd."
 
-Bingham looked at him with grave eyes.
+Bingham looked at him with [[Grave|grave]] eyes.
 
 "I was afraid so," he said.  "Drink, I imagine."
 

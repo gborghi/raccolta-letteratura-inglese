@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 2 (part 3)"
+title: "[[Emma]] — Chapter 2 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -14,55 +14,55 @@ tags:
 </nav>
 
 
-Frank turned instantly to Emma, to claim her former promise; and
+Frank turned instantly to [[Emma]], to claim her former promise; and
 boasted himself an engaged man, which his father looked his most
 perfect approbation of—and it then appeared that Mrs. Weston was
-wanting _him_ to dance with Mrs. Elton himself, and that their business
+wanting _him_ to [[Dance|dance]] with Mrs. Elton himself, and that their business
 was to help to persuade him into it, which was done pretty soon.—Mr.
-Weston and Mrs. Elton led the way, Mr. Frank Churchill and Miss
-Woodhouse followed. Emma must submit to stand second to Mrs. Elton,
+Weston and Mrs. Elton led the way, Mr. [[Frank Churchill]] and Miss
+Woodhouse followed. [[Emma]] must submit to stand second to Mrs. Elton,
 though she had always considered the ball as peculiarly for her. It was
 almost enough to make her think of marrying. Mrs. Elton had undoubtedly
-the advantage, at this time, in vanity completely gratified; for though
-she had intended to begin with Frank Churchill, she could not lose by
+the advantage, at this [[Time|time]], in [[Vanity|vanity]] completely gratified; for though
+she had intended to begin with [[Frank Churchill]], she could not lose by
 the change. Mr. Weston might be his son’s superior.—In spite of this
-little rub, however, Emma was smiling with enjoyment, delighted to see
+little rub, however, [[Emma]] was smiling with enjoyment, delighted to see
 the respectable length of the set as it was forming, and to feel that
 she had so many hours of unusual festivity before her.—She was more
 disturbed by Mr. Knightley’s not dancing than by any thing else.—There
 he was, among the standers-by, where he ought not to be; he ought to be
 dancing,—not classing himself with the husbands, and fathers, and
-whist-players, who were pretending to feel an interest in the dance
+whist-players, who were pretending to feel an interest in the [[Dance|dance]]
 till their rubbers were made up,—so young as he looked!—He could not
 have appeared to greater advantage perhaps anywhere, than where he had
 placed himself. His tall, firm, upright figure, among the bulky forms
-and stooping shoulders of the elderly men, was such as Emma felt must
-draw every body’s eyes; and, excepting her own partner, there was not
+and stooping shoulders of the elderly men, was such as [[Emma]] felt must
+draw every [[Body|body]]’s eyes; and, excepting her own partner, there was not
 one among the whole row of young men who could be compared with him.—He
 moved a few steps nearer, and those few steps were enough to prove in
 how gentlemanlike a manner, with what natural grace, he must have
 danced, would he but take the trouble.—Whenever she caught his eye, she
-forced him to smile; but in general he was looking grave. She wished he
-could love a ballroom better, and could like Frank Churchill better.—He
+forced him to smile; but in general he was looking [[Grave|grave]]. She wished he
+could [[Love|love]] a ballroom better, and could like [[Frank Churchill]] better.—He
 seemed often observing her. She must not flatter herself that he
 thought of her dancing, but if he were criticising her behaviour, she
 did not feel afraid. There was nothing like flirtation between her and
-her partner. They seemed more like cheerful, easy friends, than lovers.
-That Frank Churchill thought less of her than he had done, was
+her partner. They seemed more like cheerful, easy friends, than [[lovers]].
+That [[Frank Churchill]] thought less of her than he had done, was
 indubitable.
 
 The ball proceeded pleasantly. The anxious cares, the incessant
-attentions of Mrs. Weston, were not thrown away. Every body seemed
+attentions of Mrs. Weston, were not thrown away. Every [[Body|body]] seemed
 happy; and the praise of being a delightful ball, which is seldom
 bestowed till after a ball has ceased to be, was repeatedly given in
 the very beginning of the existence of this. Of very important, very
 recordable events, it was not more productive than such meetings
-usually are. There was one, however, which Emma thought something
+usually are. There was one, however, which [[Emma]] thought something
 of.—The two last dances before supper were begun, and Harriet had no
 partner;—the only young lady sitting down;—and so equal had been
 hitherto the number of dancers, that how there could be any one
-disengaged was the wonder!—But Emma’s wonder lessened soon afterwards,
-on seeing Mr. Elton sauntering about. He would not ask Harriet to dance
+disengaged was the [[Wonder|wonder]]!—But [[Emma]]’s [[Wonder|wonder]] lessened soon afterwards,
+on seeing Mr. Elton sauntering about. He would not ask Harriet to [[Dance|dance]]
 if it were possible to be avoided: she was sure he would not—and she
 was expecting him every moment to escape into the card-room.
 
@@ -70,8 +70,8 @@ Escape, however, was not his plan. He came to the part of the room
 where the sitters-by were collected, spoke to some, and walked about in
 front of them, as if to shew his liberty, and his resolution of
 maintaining it. He did not omit being sometimes directly before Miss
-Smith, or speaking to those who were close to her.—Emma saw it. She was
-not yet dancing; she was working her way up from the bottom, and had
+[[smith|Smith]], or speaking to those who were close to her.—[[Emma]] saw it. She was
+not yet dancing; she was working her way up from the [[Bottom|bottom]], and had
 therefore leisure to look around, and by only turning her head a little
 she saw it all. When she was half-way up the set, the whole group were
 exactly behind her, and she would no longer allow her eyes to watch;
@@ -80,26 +80,26 @@ which just then took place between him and Mrs. Weston; and she
 perceived that his wife, who was standing immediately above her, was
 not only listening also, but even encouraging him by significant
 glances.—The kind-hearted, gentle Mrs. Weston had left her seat to join
-him and say, “Do not you dance, Mr. Elton?” to which his prompt reply
-was, “Most readily, Mrs. Weston, if you will dance with me.”
+him and say, “Do not you [[Dance|dance]], Mr. Elton?” to which his prompt reply
+was, “Most readily, Mrs. Weston, if you will [[Dance|dance]] with me.”
 
 “Me!—oh! no—I would get you a better partner than myself. I am no
 dancer.”
 
-“If Mrs. Gilbert wishes to dance,” said he, “I shall have great
+“If Mrs. Gilbert wishes to [[Dance|dance]],” said he, “I shall have great
 pleasure, I am sure—for, though beginning to feel myself rather an old
 married man, and that my dancing days are over, it would give me very
-great pleasure at any time to stand up with an old friend like Mrs.
+great pleasure at any [[Time|time]] to stand up with an old friend like Mrs.
 Gilbert.”
 
-“Mrs. Gilbert does not mean to dance, but there is a young lady
-disengaged whom I should be very glad to see dancing—Miss Smith.” “Miss
-Smith!—oh!—I had not observed.—You are extremely obliging—and if I were
+“Mrs. Gilbert does not mean to [[Dance|dance]], but there is a young lady
+disengaged whom I should be very glad to see dancing—Miss [[smith|Smith]].” “Miss
+[[smith|Smith]]!—oh!—I had not observed.—You are extremely obliging—and if I were
 not an old married man.—But my dancing days are over, Mrs. Weston. You
 will excuse me. Any thing else I should be most happy to do, at your
 command—but my dancing days are over.”
 
-Mrs. Weston said no more; and Emma could imagine with what surprize and
+Mrs. Weston said no more; and [[Emma]] could imagine with what surprize and
 mortification she must be returning to her seat. This was Mr. Elton!
 the amiable, obliging, gentle Mr. Elton.—She looked round for a moment;
 he had joined Mr. Knightley at a little distance, and was arranging

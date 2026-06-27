@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 3 (part 6)"
+title: "[[queertrades]] — Chapter 3 (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/queertrades-(Chesterton)"
@@ -15,7 +15,7 @@ tags:
 
 
 And now I began to perceive something else, which added the last
-half-witted touch to my mystification.  The Rev. Ellis Shorter,
+half-witted touch to my [[Mystification|mystification]].  The Rev. Ellis Shorter,
 of Chuntsey, in Essex, was by no means behaving as I had previously
 noticed him to behave, or as, considering his age and station,
 I should have expected him to behave.  His power of dodging, leaping,
@@ -24,7 +24,7 @@ doddering old vicar looked like a sort of farcical fairy-tale. Moreover,
 he did not seem to be so much astonished as I had thought.
 There was even a look of something like enjoyment in his eyes;
 so there was in the eye of Basil.  In fact, the unintelligible
-truth must be told.  They were both laughing.
+[[Truth|truth]] must be told.  They were both laughing.
 
 At length Shorter was cornered.
 
@@ -39,7 +39,7 @@ your whiskers.  And your bald head.  Do they belong to Captain Fraser?"
 They don't belong to Captain Fraser."
 
 "What the deuce does all this mean?"  I almost screamed.
-"Are you all in an infernal nightmare?  Why should Mr Shorter's bald
+"Are you all in an infernal [[nightmare]]?  Why should Mr Shorter's bald
 head belong to Captain Fraser?  How could it?  What the deuce has
 Captain Fraser to do with the affair?  What is the matter with him?
 You dined with him, Basil."
@@ -49,16 +49,16 @@ You dined with him, Basil."
 "Didn't you go to Mrs Thornton's dinner-party?"  I asked, staring.
 "Why not?"
 
-"Well," said Basil, with a slow and singular smile, "the fact
+"[[Well]]," said Basil, with a slow and singular smile, "the fact
 is I was detained by a visitor.  I have him, as a point of fact,
 in my bedroom."
 
-"In your bedroom?"  I repeated; but my imagination had reached that point
+"In your bedroom?"  I repeated; but my [[Imagination|imagination]] had reached that point
 when he might have said in his coal scuttle or his waistcoat pocket.
 
 Grant stepped to the door of an inner room, flung it open and walked in.
 Then he came out again with the last of the bodily wonders of that
-wild night.  He introduced into the sitting-room, in an apologetic manner,
+wild [[Night|night]].  He introduced into the sitting-room, in an apologetic manner,
 and by the nape of the neck, a limp clergyman with a bald head,
 white whiskers and a plaid shawl.
 
@@ -86,7 +86,7 @@ are Professional Detainers."
 the Rev. Ellis Shorter, of Chuntsey, in Essex; and it gave me a shock
 indescribable to hear out of that pompous and familiar form come
 no longer its own pompous and familiar voice, but the brisk sharp
-tones of a young city man.  "It is really nothing very important.
+tones of a young [[City|city]] man.  "It is really nothing very important.
 We are paid by our clients to detain in conversation, on some
 harmless pretext, people whom they want out of the way for a few hours.
 And Captain Fraser--" and with that he hesitated and smiled.
@@ -96,13 +96,13 @@ Basil smiled also.  He intervened.
 "The fact is that Captain Fraser, who is one of my best friends,
 wanted us both out of the way very much.  He is sailing tonight
 for East Africa, and the lady with whom we were all to have dined is--
-er--what is I believe described as `the romance of his life'.
+er--what is I believe described as `the [[Romance|romance]] of his life'.
 He wanted that two hours with her, and employed these two reverend
 gentlemen to detain us at our houses so as to let him have
 the field to himself."
 
 "And of course," said the late Mr Shorter apologetically to me, "as I
-had to keep a gentleman at home from keeping an appointment with a lady,
+had to keep a gentleman at [[Home|home]] from keeping an appointment with a lady,
 I had to come with something rather hot and strong--rather urgent.
 It wouldn't have done to be tame."
 
@@ -116,7 +116,7 @@ revealing close red hair, and spoke dreamily, perhaps under
 the influence of Basil's admirable Burgundy.
 
 "It's wonderful how common it's getting, gentlemen.
-Our office is busy from morning till night.  I've no doubt you've
+Our office is busy from morning till [[Night|night]].  I've no [[Doubt|doubt]] you've
 often knocked up against us before.  You just take notice.
 When an old bachelor goes on boring you with hunting stories,
 when you're burning to be introduced to somebody, he's from our bureau.

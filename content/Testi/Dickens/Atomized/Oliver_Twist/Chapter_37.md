@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 37"
+title: "[[Oliver Twist]] — Chapter 37"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -20,18 +20,18 @@ MATRIMONIAL CASES
 
 
 Mr. Bumble sat in the workhouse parlour, with his eyes moodily fixed on
-the cheerless grate, whence, as it was summer time, no brighter gleam
+the cheerless grate, whence, as it was [[Summer|summer]] [[Time|time]], no brighter gleam
 proceeded, than the reflection of certain sickly rays of the sun, which
 were sent back from its cold and shining surface. A paper fly-cage
 dangled from the ceiling, to which he occasionally raised his eyes in
-gloomy thought; and, as the heedless insects hovered round the gaudy
+gloomy thought; and, as the heedless [[Insects|insects]] hovered round the gaudy
 net-work, Mr. Bumble would heave a deep sigh, while a more gloomy
-shadow overspread his countenance. Mr. Bumble was meditating; it might
-be that the insects brought to mind, some painful passage in his own
+[[Shadow|shadow]] overspread his countenance. Mr. Bumble was meditating; it might
+be that the [[Insects|insects]] brought to mind, some painful passage in his own
 past life.
 
 Nor was Mr. Bumble’s gloom the only thing calculated to awaken a
-pleasing melancholy in the bosom of a spectator. There were not wanting
+pleasing [[Melancholy|melancholy]] in the bosom of a spectator. There were not wanting
 other appearances, and those closely connected with his own person,
 which announced that a great change had taken place in the position of
 his affairs. The laced coat, and the cocked hat; where were they? He
@@ -76,7 +76,7 @@ complaint, had hazarded the foregoing remark at a venture.
 
 “Mrs. Bumble, ma’am!” said Mr. Bumble, with a sentimental sternness.
 
-“Well!” cried the lady.
+“[[Well]]!” cried the lady.
 
 “Have the goodness to look at me,” said Mr. Bumble, fixing his eyes
 upon her.
@@ -102,7 +102,7 @@ by the voice of his partner.
 
 “I am going to sit here, as long as I think proper, ma’am,” rejoined
 Mr. Bumble; “and although I was _not_ snoring, I shall snore, gape,
-sneeze, laugh, or cry, as the humour strikes me; such being my
+sneeze, laugh, or cry, as the [[Humour|humour]] strikes me; such being my
 prerogative.”
 
 “_Your_ prerogative!” sneered Mrs. Bumble, with ineffable contempt.
@@ -122,12 +122,12 @@ arrived, and that a blow struck for the mastership on one side or
 other, must necessarily be final and conclusive, no sooner heard this
 allusion to the dead and gone, than she dropped into a chair, and with
 a loud scream that Mr. Bumble was a hard-hearted brute, fell into a
-paroxysm of tears.
+paroxysm of [[Tears|tears]].
 
-But, tears were not the things to find their way to Mr. Bumble’s soul;
+But, [[Tears|tears]] were not the things to find their way to Mr. Bumble’s [[Soul|soul]];
 his heart was waterproof. Like washable beaver hats that improve with
 rain, his nerves were rendered stouter and more vigorous, by showers of
-tears, which, being tokens of weakness, and so far tacit admissions of
+[[Tears|tears]], which, being tokens of weakness, and so far tacit admissions of
 his own power, pleased and exalted him. He eyed his good lady with
 looks of great satisfaction, and begged, in an encouraging manner, that
 she should cry her hardest: the exercise being looked upon, by the
@@ -142,7 +142,7 @@ might, who felt he had asserted his superiority in a becoming manner,
 thrust his hands into his pockets, and sauntered towards the door, with
 much ease and waggishness depicted in his whole appearance.
 
-Now, Mrs. Corney that was, had tried the tears, because they were less
+Now, Mrs. Corney that was, had tried the [[Tears|tears]], because they were less
 troublesome than a manual assault; but, she was quite prepared to make
 trial of the latter mode of proceeding, as Mr. Bumble was not long in
 discovering.
@@ -154,15 +154,15 @@ head, the expert lady, clasping him tightly round the throat with one
 hand, inflicted a shower of blows (dealt with singular vigour and
 dexterity) upon it with the other. This done, she created a little
 variety by scratching his face, and tearing his hair; and, having, by
-this time, inflicted as much punishment as she deemed necessary for the
-offence, she pushed him over a chair, which was luckily well situated
+this [[Time|time]], inflicted as much punishment as she deemed necessary for the
+offence, she pushed him over a chair, which was luckily [[Well|well]] situated
 for the purpose: and defied him to talk about his prerogative again, if
 he dared.
 
 “Get up!” said Mrs. Bumble, in a voice of command. “And take yourself
 away from here, unless you want me to do something desperate.”
 
-Mr. Bumble rose with a very rueful countenance: wondering much what
+Mr. Bumble [[Rose|rose]] with a very rueful countenance: wondering much what
 something desperate might be. Picking up his hat, he looked towards the
 door.
 
@@ -189,7 +189,7 @@ impressing the reader with a just sense of his qualifications for
 office.
 
 But, the measure of his degradation was not yet full. After making a
-tour of the house, and thinking, for the first time, that the poor-laws
+tour of the [[house]], and thinking, for the first [[Time|time]], that the poor-laws
 really were too hard on people; and that men who ran away from their
 wives, leaving them chargeable to the parish, ought, in justice to be
 visited with no punishment at all, but rather rewarded as meritorious
@@ -214,7 +214,7 @@ here?”
 “I thought they were talking rather too much to be doing their work
 properly, my dear,” replied Mr. Bumble: glancing distractedly at a
 couple of old women at the wash-tub, who were comparing notes of
-admiration at the workhouse-master’s humility.
+admiration at the workhouse-master’s [[Humility|humility]].
 
 “_You_ thought they were talking too much?” said Mrs. Bumble. “What
 business is it of yours?”
@@ -228,15 +228,15 @@ business is it of yours?”
 
 “I’ll tell you what, Mr. Bumble,” returned his lady. “We don’t want any
 of your interference. You’re a great deal too fond of poking your nose
-into things that don’t concern you, making everybody in the house
+into things that don’t concern you, making everybody in the [[house]]
 laugh, the moment your back is turned, and making yourself look like a
-fool every hour in the day. Be off; come!”
+[[Fool|fool]] every hour in the day. Be off; come!”
 
 Mr. Bumble, seeing with excruciating feelings, the delight of the two
 old paupers, who were tittering together most rapturously, hesitated
 for an instant. Mrs. Bumble, whose patience brooked no delay, caught up
 a bowl of soap-suds, and motioning him towards the door, ordered him
-instantly to depart, on pain of receiving the contents upon his portly
+instantly to depart, on [[Pain|pain]] of receiving the contents upon his portly
 person.
 
 What could Mr. Bumble do? He looked dejectedly round, and slunk away;
@@ -267,14 +267,14 @@ street.
 
 The man who was seated there, was tall and dark, and wore a large
 cloak. He had the air of a stranger; and seemed, by a certain
-haggardness in his look, as well as by the dusty soils on his dress, to
+haggardness in his look, as [[Well|well]] as by the dusty soils on his dress, to
 have travelled some distance. He eyed Bumble askance, as he entered,
 but scarcely deigned to nod his head in acknowledgment of his
 salutation.
 
 Mr. Bumble had quite dignity enough for two; supposing even that the
-stranger had been more familiar: so he drank his gin-and-water in
-silence, and read the paper with great show of pomp and circumstance.
+stranger had been more familiar: so he drank his gin-and-[[Water|water]] in
+[[Silence|silence]], and read the paper with great show of pomp and circumstance.
 
 It so happened, however: as it will happen very often, when men fall
 into company under such circumstances: that Mr. Bumble felt, every now
@@ -287,9 +287,9 @@ bright, but shadowed by a scowl of distrust and suspicion, unlike
 anything he had ever observed before, and repulsive to behold.
 
 When they had encountered each other’s glance several times in this
-way, the stranger, in a harsh, deep voice, broke silence.
+way, the stranger, in a harsh, deep voice, broke [[Silence|silence]].
 
-“Were you looking for me,” he said, “when you peered in at the window?”
+“Were you looking for me,” he said, “when you peered in at the [[Window|window]]?”
 
 “Not that I am aware of, unless you’re Mr.—” Here Mr. Bumble stopped
 short; for he was curious to know the stranger’s name, and thought in
@@ -303,11 +303,11 @@ I would recommend you not to ask for it.”
 
 “And have done none,” said the stranger.
 
-Another silence succeeded this short dialogue: which was again broken
+Another [[Silence|silence]] succeeded this short dialogue: which was again broken
 by the stranger.
 
 “I have seen you before, I think?” said he. “You were differently
-dressed at that time, and I only passed you in the street, but I should
+dressed at that [[Time|time]], and I only passed you in the street, but I should
 know you again. You were beadle here, once; were you not?”
 
 “I was,” said Mr. Bumble, in some surprise; “porochial beadle.”
@@ -320,15 +320,15 @@ impressively, to check any undue familiarity the stranger might
 otherwise assume. “Master of the workhouse, young man!”
 
 “You have the same eye to your own interest, that you always had, I
-doubt not?” resumed the stranger, looking keenly into Mr. Bumble’s
+[[Doubt|doubt]] not?” resumed the stranger, looking keenly into Mr. Bumble’s
 eyes, as he raised them in astonishment at the question.
 
-“Don’t scruple to answer freely, man. I know you pretty well, you see.”
+“Don’t scruple to answer freely, man. I know you pretty [[Well|well]], you see.”
 
 “I suppose, a married man,” replied Mr. Bumble, shading his eyes with
 his hand, and surveying the stranger, from head to foot, in evident
 perplexity, “is not more averse to turning an honest penny when he can,
-than a single one. Porochial officers are not so well paid that they
+than a single one. Porochial officers are not so [[Well|well]] paid that they
 can afford to refuse any little extra fee, when it comes to them in a
 civil and proper manner.”
 
@@ -343,11 +343,11 @@ the landlord. “Let it be strong and hot. You like it so, I suppose?”
 “You understand what that means, landlord!” said the stranger, drily.
 
 The host smiled, disappeared, and shortly afterwards returned with a
-steaming jorum: of which, the first gulp brought the water into Mr.
+steaming jorum: of which, the first gulp brought the [[Water|water]] into Mr.
 Bumble’s eyes.
 
 “Now listen to me,” said the stranger, after closing the door and
-window. “I came down to this place, today, to find you out; and, by
+[[Window|window]]. “I came down to this place, today, to find you out; and, by
 one of those chances which the devil throws in the way of his friends
 sometimes, you walked into the very room I was sitting in, while you
 were uppermost in my mind. I want some information from you. I don’t
@@ -360,22 +360,22 @@ should be heard without. When Mr. Bumble had scrupulously examined the
 coins, to see that they were genuine, and had put them up, with much
 satisfaction, in his waistcoat-pocket, he went on:
 
-“Carry your memory back—let me see—twelve years, last winter.”
+“Carry your [[Memory|memory]] back—let me see—twelve years, last [[Winter|winter]].”
 
-“It’s a long time,” said Mr. Bumble. “Very good. I’ve done it.”
+“It’s a long [[Time|time]],” said Mr. Bumble. “Very good. I’ve done it.”
 
 “The scene, the workhouse.”
 
 “Good!”
 
-“And the time, night.”
+“And the [[Time|time]], [[Night|night]].”
 
 “Yes.”
 
 “And the place, the crazy hole, wherever it was, in which miserable
 drabs brought forth the life and health so often denied to
 themselves—gave birth to puling children for the parish to rear; and
-hid their shame, rot ’em in the grave!”
+hid their shame, rot ’em in the [[Grave|grave]]!”
 
 “The lying-in room, I suppose?” said Mr. Bumble, not quite following
 the stranger’s excited description.
@@ -386,43 +386,43 @@ the stranger’s excited description.
 
 “A murrain on the young devils!” cried the stranger; “I speak of one; a
 meek-looking, pale-faced boy, who was apprenticed down here, to a
-coffin-maker—I wish he had made his coffin, and screwed his body in
-it—and who afterwards ran away to London, as it was supposed.”
+coffin-maker—I wish he had made his coffin, and screwed his [[Body|body]] in
+it—and who afterwards ran away to [[London]], as it was supposed.”
 
-“Why, you mean Oliver! Young Twist!” said Mr. Bumble; “I remember him,
+“Why, you mean [[Oliver]]! Young Twist!” said Mr. Bumble; “I remember him,
 of course. There wasn’t a obstinater young rascal—”
 
 “It’s not of him I want to hear; I’ve heard enough of him,” said the
 stranger, stopping Mr. Bumble in the outset of a tirade on the subject
-of poor Oliver’s vices. “It’s of a woman; the hag that nursed his
+of poor [[Oliver]]’s vices. “It’s of a woman; the hag that nursed his
 mother. Where is she?”
 
-“Where is she?” said Mr. Bumble, whom the gin-and-water had rendered
+“Where is she?” said Mr. Bumble, whom the gin-and-[[Water|water]] had rendered
 facetious. “It would be hard to tell. There’s no midwifery there,
 whichever place she’s gone to; so I suppose she’s out of employment,
 anyway.”
 
 “What do you mean?” demanded the stranger, sternly.
 
-“That she died last winter,” rejoined Mr. Bumble.
+“That she died last [[Winter|winter]],” rejoined Mr. Bumble.
 
 The man looked fixedly at him when he had given this information, and
-although he did not withdraw his eyes for some time afterwards, his
+although he did not withdraw his eyes for some [[Time|time]] afterwards, his
 gaze gradually became vacant and abstracted, and he seemed lost in
-thought. For some time, he appeared doubtful whether he ought to be
+thought. For some [[Time|time]], he appeared doubtful whether he ought to be
 relieved or disappointed by the intelligence; but at length he breathed
 more freely; and withdrawing his eyes, observed that it was no great
-matter. With that he rose, as if to depart.
+matter. With that he [[Rose|rose]], as if to depart.
 
 But Mr. Bumble was cunning enough; and he at once saw that an
 opportunity was opened, for the lucrative disposal of some secret in
-the possession of his better half. He well remembered the night of old
-Sally’s death, which the occurrences of that day had given him good
+the possession of his better half. He [[Well|well]] remembered the [[Night|night]] of old
+Sally’s [[Death|death]], which the occurrences of that day had given him good
 reason to recollect, as the occasion on which he had proposed to Mrs.
 Corney; and although that lady had never confided to him the disclosure
 of which she had been the solitary witness, he had heard enough to know
 that it related to something that had occurred in the old woman’s
-attendance, as workhouse nurse, upon the young mother of Oliver Twist.
+attendance, as workhouse [[Nurse|nurse]], upon the young mother of [[Oliver Twist]].
 Hastily calling this circumstance to mind, he informed the stranger,
 with an air of mystery, that one woman had been closeted with the old
 harridan shortly before she died; and that she could, as he had reason
@@ -439,7 +439,7 @@ afresh by the intelligence.
 “Tomorrow,” rejoined Bumble.
 
 “At nine in the evening,” said the stranger, producing a scrap of
-paper, and writing down upon it, an obscure address by the water-side,
+paper, and writing down upon it, an obscure address by the [[Water|water]]-side,
 in characters that betrayed his agitation; “at nine in the evening,
 bring her to me there. I needn’t tell you to be secret. It’s your
 interest.”
@@ -447,7 +447,7 @@ interest.”
 With these words, he led the way to the door, after stopping to pay for
 the liquor that had been drunk. Shortly remarking that their roads were
 different, he departed, without more ceremony than an emphatic
-repetition of the hour of appointment for the following night.
+repetition of the hour of appointment for the following [[Night|night]].
 
 On glancing at the address, the parochial functionary observed that it
 contained no name. The stranger had not gone far, so he made after him
@@ -459,4 +459,4 @@ touched him on the arm. “Following me?”
 “Only to ask a question,” said the other, pointing to the scrap of
 paper. “What name am I to ask for?”
 
-“Monks!” rejoined the man; and strode hastily away.
+“[[Monks]]!” rejoined the man; and strode hastily away.

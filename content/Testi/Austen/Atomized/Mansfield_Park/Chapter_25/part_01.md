@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 25 (part 1)"
+title: "[[Mansfield Park]] — Chapter 25 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -18,7 +18,7 @@ CHAPTER XXV
 
 
 The intercourse of the two families was at this period more nearly
-restored to what it had been in the autumn, than any member of the old
+restored to what it had been in the [[Autumn|autumn]], than any member of the old
 intimacy had thought ever likely to be again. The return of Henry
 Crawford, and the arrival of William Price, had much to do with it, but
 much was still owing to Sir Thomas’s more than toleration of the
@@ -36,12 +36,12 @@ from giving a more willing assent to invitations on that account.
 His readiness, however, in agreeing to dine at the Parsonage, when the
 general invitation was at last hazarded, after many debates and many
 doubts as to whether it were worth while, “because Sir Thomas seemed so
-ill inclined, and Lady Bertram was so indolent!” proceeded from
-good-breeding and goodwill alone, and had nothing to do with Mr.
+ill inclined, and Lady [[Bertram]] was so indolent!” proceeded from
+good-breeding and goodwill [[Alone|alone]], and had nothing to do with Mr.
 Crawford, but as being one in an agreeable group: for it was in the
 course of that very visit that he first began to think that any one in
 the habit of such idle observations _would_ _have_ _thought_ that Mr.
-Crawford was the admirer of Fanny Price.
+Crawford was the admirer of [[Fanny Price]].
 
 The meeting was generally felt to be a pleasant one, being composed in
 a good proportion of those who would talk and those who would listen;
@@ -57,7 +57,7 @@ In the evening it was found, according to the predetermination of Mrs.
 Grant and her sister, that after making up the whist-table there would
 remain sufficient for a round game, and everybody being as perfectly
 complying and without a choice as on such occasions they always are,
-speculation was decided on almost as soon as whist; and Lady Bertram
+speculation was decided on almost as soon as whist; and Lady [[Bertram]]
 soon found herself in the critical situation of being applied to for
 her own choice between the games, and being required either to draw a
 card for whist or not. She hesitated. Luckily Sir Thomas was at hand.
@@ -69,63 +69,63 @@ Sir Thomas, after a moment’s thought, recommended speculation. He was a
 whist player himself, and perhaps might feel that it would not much
 amuse him to have her for a partner.
 
-“Very well,” was her ladyship’s contented answer; “then speculation, if
+“Very [[Well|well]],” was her ladyship’s contented answer; “then speculation, if
 you please, Mrs. Grant. I know nothing about it, but Fanny must teach
 me.”
 
 Here Fanny interposed, however, with anxious protestations of her own
 equal ignorance; she had never played the game nor seen it played in
-her life; and Lady Bertram felt a moment’s indecision again; but upon
+her life; and Lady [[Bertram]] felt a moment’s indecision again; but upon
 everybody’s assuring her that nothing could be so easy, that it was the
-easiest game on the cards, and Henry Crawford’s stepping forward with a
+easiest game on the cards, and [[Henry Crawford]]’s stepping forward with a
 most earnest request to be allowed to sit between her ladyship and Miss
 Price, and teach them both, it was so settled; and Sir Thomas, Mrs.
 Norris, and Dr. and Mrs. Grant being seated at the table of prime
 intellectual state and dignity, the remaining six, under Miss
 Crawford’s direction, were arranged round the other. It was a fine
-arrangement for Henry Crawford, who was close to Fanny, and with his
-hands full of business, having two persons’ cards to manage as well as
+arrangement for [[Henry Crawford]], who was close to Fanny, and with his
+hands full of business, having two persons’ cards to manage as [[Well|well]] as
 his own; for though it was impossible for Fanny not to feel herself
 mistress of the rules of the game in three minutes, he had yet to
 inspirit her play, sharpen her avarice, and harden her heart, which,
 especially in any competition with William, was a work of some
-difficulty; and as for Lady Bertram, he must continue in charge of all
+difficulty; and as for Lady [[Bertram]], he must continue in charge of all
 her fame and fortune through the whole evening; and if quick enough to
 keep her from looking at her cards when the deal began, must direct her
 in whatever was to be done with them to the end of it.
 
 He was in high spirits, doing everything with happy ease, and
 preeminent in all the lively turns, quick resources, and playful
-impudence that could do honour to the game; and the round table was
+impudence that could do [[Honour|honour]] to the game; and the round table was
 altogether a very comfortable contrast to the steady sobriety and
-orderly silence of the other.
+orderly [[Silence|silence]] of the other.
 
-Twice had Sir Thomas inquired into the enjoyment and success of his
-lady, but in vain; no pause was long enough for the time his measured
+Twice had Sir Thomas inquired into the enjoyment and [[success]] of his
+lady, but in vain; no pause was long enough for the [[Time|time]] his measured
 manner needed; and very little of her state could be known till Mrs.
 Grant was able, at the end of the first rubber, to go to her and pay
 her compliments.
 
-“I hope your ladyship is pleased with the game.”
+“I [[Hope|hope]] your ladyship is pleased with the game.”
 
 “Oh dear, yes! very entertaining indeed. A very odd game. I do not know
 what it is all about. I am never to see my cards; and Mr. Crawford does
 all the rest.”
 
-“Bertram,” said Crawford, some time afterwards, taking the opportunity
+“[[Bertram]],” said Crawford, some [[Time|time]] afterwards, taking the opportunity
 of a little languor in the game, “I have never told you what happened
-to me yesterday in my ride home.” They had been hunting together, and
+to me yesterday in my ride [[Home|home]].” They had been hunting together, and
 were in the midst of a good run, and at some distance from Mansfield,
-when his horse being found to have flung a shoe, Henry Crawford had
+when his [[Horse|horse]] being found to have flung a shoe, [[Henry Crawford]] had
 been obliged to give up, and make the best of his way back. “I told you
 I lost my way after passing that old farmhouse with the yew-trees,
 because I can never bear to ask; but I have not told you that, with my
 usual luck—for I never do wrong without gaining by it—I found myself in
-due time in the very place which I had a curiosity to see. I was
+due [[Time|time]] in the very place which I had a curiosity to see. I was
 suddenly, upon turning the corner of a steepish downy field, in the
 midst of a retired little village between gently rising hills; a small
 stream before me to be forded, a church standing on a sort of knoll to
 my right—which church was strikingly large and handsome for the place,
-and not a gentleman or half a gentleman’s house to be seen excepting
+and not a gentleman or half a gentleman’s [[house]] to be seen excepting
 one—to be presumed the Parsonage—within a stone’s throw of the said
 knoll and church. I found myself, in short, in Thornton Lacey.”

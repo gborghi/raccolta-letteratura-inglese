@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 1"
+title: "[[Shirley]] — Chapter 1"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -34,19 +34,19 @@ a great deal of good. But not of late years are we about to speak; we
 
 are going back to the beginning of this century: late years--present
 
-years are dusty, sunburnt, hot, arid; we will evade the noon, forget it
+years are dusty, sunburnt, hot, arid; we will evade the [[Noon|noon]], forget it
 
-in siesta, pass the midday in slumber, and dream of dawn.
+in siesta, pass the midday in slumber, and dream of [[Dawn|dawn]].
 
 
 
-If you think, from this prelude, that anything like a romance is
+If you think, from this prelude, that anything like a [[Romance|romance]] is
 
 preparing for you, reader, you never were more mistaken. Do you
 
 anticipate sentiment, and poetry, and reverie? Do you expect passion,
 
-and stimulus, and melodrama? Calm your expectations; reduce them to a
+and stimulus, and [[Melodrama|melodrama]]? Calm your expectations; reduce them to a
 
 lowly standard. Something real, cool, and solid lies before you;
 
@@ -64,7 +64,7 @@ Catholic--ay, even an Anglo-Catholic--might eat on Good Friday in
 
 Passion Week: it shall be cold lentils and vinegar without oil; it shall
 
-be unleavened bread with bitter herbs, and no roast lamb.
+be unleavened bread with bitter herbs, and no roast [[Lamb|lamb]].
 
 
 
@@ -72,29 +72,29 @@ Of late years, I say, an abundant shower of curates has fallen upon the
 
 north of England; but in eighteen-hundred-eleven-twelve that affluent
 
-rain had not descended. Curates were scarce then: there was no Pastoral
+rain had not descended. Curates were scarce then: there was no [[Pastoral]]
 
 Aid--no Additional Curates' Society to stretch a helping hand to
 
 worn-out old rectors and incumbents, and give them the wherewithal to
 
-pay a vigorous young colleague from Oxford or Cambridge. The present
+pay a vigorous young colleague from [[Oxford]] or Cambridge. The present
 
 successors of the apostles, disciples of Dr. Pusey and tools of the
 
-Propaganda, were at that time being hatched under cradle-blankets, or
+Propaganda, were at that [[Time|time]] being hatched under cradle-blankets, or
 
-undergoing regeneration by nursery-baptism in wash-hand basins. You
+undergoing [[Regeneration|regeneration]] by nursery-baptism in wash-hand basins. You
 
 could not have guessed by looking at any one of them that the
 
-Italian-ironed double frills of its net-cap surrounded the brows of a
+Italian-ironed [[Double|double]] frills of its net-cap surrounded the brows of a
 
 preordained, specially-sanctified successor of St. Paul, St. Peter, or
 
 St. John; nor could you have foreseen in the folds of its long
 
-night-gown the white surplice in which it was hereafter cruelly to
+[[Night|night]]-gown the white surplice in which it was hereafter cruelly to
 
 exercise the souls of its parishioners, and strangely to nonplus its
 
@@ -108,11 +108,11 @@ Yet even in those days of scarcity there were curates: the precious
 
 plant was rare, but it might be found. A certain favoured district in
 
-the West Riding of Yorkshire could boast three rods of Aaron blossoming
+the West Riding of Yorkshire could boast three rods of [[Aaron]] blossoming
 
 within a circuit of twenty miles. You shall see them, reader. Step into
 
-this neat garden-house on the skirts of Whinbury, walk forward into the
+this neat [[Garden|garden]]-[[house]] on the skirts of Whinbury, walk forward into the
 
 little parlour. There they are at dinner. Allow me to introduce them to
 
@@ -134,7 +134,7 @@ These gentlemen are in the bloom of youth; they possess all the activity
 
 of that interesting age--an activity which their moping old vicars would
 
-fain turn into the channel of their pastoral duties, often expressing a
+fain turn into the channel of their [[Pastoral|pastoral]] duties, often expressing a
 
 wish to see it expended in a diligent superintendence of the schools,
 
@@ -156,21 +156,21 @@ I allude to a rushing backwards and forwards, amongst themselves, to and
 
 from their respective lodgings--not a round, but a triangle of visits,
 
-which they keep up all the year through, in winter, spring, summer, and
+which they keep up all the year through, in [[Winter|winter]], [[Spring|spring]], [[Summer|summer]], and
 
-autumn. Season and weather make no difference; with unintelligible zeal
+[[Autumn|autumn]]. Season and weather make no difference; with unintelligible zeal
 
-they dare snow and hail, wind and rain, mire and dust, to go and dine,
+they dare [[Snow|snow]] and hail, [[Wind|wind]] and rain, mire and [[Dust|dust]], to go and dine,
 
 or drink tea, or sup with each other. What attracts them it would be
 
-difficult to say. It is not friendship, for whenever they meet they
+difficult to say. It is not [[Friendship|friendship]], for whenever they meet they
 
 quarrel. It is not religion--the thing is never named amongst them;
 
 theology they may discuss occasionally, but piety--never. It is not the
 
-love of eating and drinking: each might have as good a joint and
+[[Love|love]] of eating and drinking: each might have as good a joint and
 
 pudding, tea as potent, and toast as succulent, at his own lodgings, as
 
@@ -188,7 +188,7 @@ of mutual invasion.
 
 Mr. Donne and his guests, as I have said, are at dinner; Mrs. Gale waits
 
-on them, but a spark of the hot kitchen fire is in her eye. She
+on them, but a spark of the hot kitchen [[Fire|fire]] is in her eye. She
 
 considers that the privilege of inviting a friend to a meal
 
@@ -196,7 +196,7 @@ occasionally, without additional charge (a privilege included in the
 
 terms on which she lets her lodgings), has been quite sufficiently
 
-exercised of late. The present week is yet but at Thursday, and on
+exercised of late. The present week is yet but at [[thursday|Thursday]], and on
 
 Monday Mr. Malone, the curate of Briarfield, came to breakfast and
 
@@ -204,11 +204,11 @@ stayed dinner; on Tuesday Mr. Malone and Mr. Sweeting of Nunnely came to
 
 tea, remained to supper, occupied the spare bed, and favoured her with
 
-their company to breakfast on Wednesday morning; now, on Thursday, they
+their company to breakfast on Wednesday morning; now, on [[thursday|Thursday]], they
 
 are both here at dinner, and she is almost certain they will stay all
 
-night. "C'en est trop," she would say, if she could speak French.
+[[Night|night]]. "C'en est trop," she would say, if she could speak French.
 
 
 
@@ -226,7 +226,7 @@ they set everybody beneath their 'fit.' They treat her with less than
 
 civility, just because she doesn't keep a servant, but does the work of
 
-the house herself, as her mother did afore her; then they are always
+the [[house]] herself, as her mother did afore her; then they are always
 
 speaking against Yorkshire ways and Yorkshire folk," and by that very
 
@@ -272,7 +272,7 @@ Mrs. Gale offered the loaf.
 
 she followed her inclinations, she would have cut the parson also; her
 
-Yorkshire soul revolted absolutely from his manner of command.
+Yorkshire [[Soul|soul]] revolted absolutely from his manner of command.
 
 
 
@@ -282,13 +282,13 @@ ate a great deal of it. They swallowed, too, a tolerable allowance of
 
 the "flat beer," while a dish of Yorkshire pudding, and two tureens of
 
-vegetables, disappeared like leaves before locusts. The cheese, too,
+vegetables, disappeared like [[Leaves|leaves]] before locusts. The [[cheese]], too,
 
 received distinguished marks of their attention; and a "spice-cake,"
 
 which followed by way of dessert, vanished like a vision, and was no
 
-more found. Its elegy was chanted in the kitchen by Abraham, Mrs. Gale's
+more found. Its [[elegy]] was chanted in the kitchen by Abraham, Mrs. Gale's
 
 son and heir, a youth of six summers; he had reckoned upon the reversion
 
@@ -306,7 +306,7 @@ rather have had whisky; but Mr. Donne, being an Englishman, did not keep
 
 the beverage. While they sipped they argued, not on politics, nor on
 
-philosophy, nor on literature--these topics were now, as ever, totally
+[[philosophy]], nor on literature--these topics were now, as ever, totally
 
 without interest for them--not even on theology, practical or doctrinal,
 
@@ -370,7 +370,7 @@ anatomy the bowels of natural affection had somehow been omitted.
 
 The victims met these attacks each in his own way: Mr. Donne with a
 
-stilted self-complacency and half-sullen phlegm, the sole props of his
+stilted [[Self|self]]-complacency and half-sullen phlegm, the sole props of his
 
 otherwise somewhat rickety dignity; Mr. Sweeting with the indifference
 
@@ -384,7 +384,7 @@ When Malone's raillery became rather too offensive, which it soon did,
 
 they joined, in an attempt to turn the tables on him by asking him how
 
-many boys had shouted "Irish Peter!" after him as he came along the road
+many boys had shouted "Irish Peter!" after him as he came along the [[Road|road]]
 
 that day (Malone's name was Peter--the Rev. Peter Augustus Malone);
 
@@ -392,11 +392,11 @@ requesting to be informed whether it was the mode in Ireland for
 
 clergymen to carry loaded pistols in their pockets, and a shillelah in
 
-their hands, when they made pastoral visits; inquiring the signification
+their hands, when they made [[Pastoral|pastoral]] visits; inquiring the signification
 
 of such words as vele, firrum, hellum, storrum (so Mr. Malone invariably
 
-pronounced veil, firm, helm, storm), and employing such other methods of
+pronounced veil, firm, helm, [[Storm|storm]]), and employing such other methods of
 
 retaliation as the innate refinement of their minds suggested.
 
@@ -418,11 +418,11 @@ spoke of rags, beggary, and pestilence. The little parlour was in an
 
 uproar; you would have thought a duel must follow such virulent abuse;
 
-it seemed a wonder that Mr. and Mrs. Gale did not take alarm at the
+it seemed a [[Wonder|wonder]] that Mr. and Mrs. Gale did not take alarm at the
 
 noise, and send for a constable to keep the peace. But they were
 
-accustomed to such demonstrations; they well knew that the curates never
+accustomed to such demonstrations; they [[Well|well]] knew that the curates never
 
 dined or took tea together without a little exercise of the sort, and
 
@@ -430,13 +430,13 @@ were quite easy as to consequences, knowing that these clerical quarrels
 
 were as harmless as they were noisy, that they resulted in nothing, and
 
-that, on whatever terms the curates might part to-night, they would be
+that, on whatever terms the curates might part to-[[Night|night]], they would be
 
 sure to meet the best friends in the world to-morrow morning.
 
 
 
-As the worthy pair were sitting by their kitchen fire, listening to the
+As the worthy pair were sitting by their kitchen [[Fire|fire]], listening to the
 
 repeated and sonorous contact of Malone's fist with the mahogany plane
 
@@ -564,13 +564,13 @@ cavernous--"what! has the miracle of Pentecost been renewed? Have the
 
 cloven tongues come down again? Where are they? The sound filled the
 
-whole house just now. I heard the seventeen languages in full action:
+whole [[house]] just now. I heard the seventeen languages in full action:
 
 Parthians, and Medes, and Elamites, the dwellers in Mesopotamia, and in
 
 Judea, and Cappadocia, in Pontus and Asia, Phrygia and Pamphylia, in
 
-Egypt and in the parts of Libya about Cyrene, strangers of Rome, Jews
+[[Egypt]] and in the parts of Libya about Cyrene, strangers of Rome, Jews
 
 and proselytes, Cretes and Arabians; every one of these must have had
 
@@ -594,7 +594,7 @@ proceeded,--
 
 chapter, and book, and Testament--gospel for law, Acts for Genesis, the
 
-city of Jerusalem for the plain of Shinar. It was no gift but the
+[[City|city]] of Jerusalem for the plain of Shinar. It was no gift but the
 
 confusion of tongues which has gabbled me deaf as a post. _You_,
 
@@ -616,7 +616,7 @@ Dissenters? It sounded to me much more like settling his co-apostles.
 
 You were quarrelling together, making almost as much noise--you three
 
-alone--as Moses Barraclough, the preaching tailor, and all his hearers
+[[Alone|alone]]--as Moses Barraclough, the preaching tailor, and all his hearers
 
 are making in the Methodist chapel down yonder, where they are in the
 
@@ -654,7 +654,7 @@ ramrod, looking keen as a kite, presented, despite his clerical hat,
 
 black coat, and gaiters, more the air of a veteran officer chiding his
 
-subalterns than of a venerable priest exhorting his sons in the faith.
+subalterns than of a venerable priest exhorting his sons in the [[Faith|faith]].
 
 Gospel mildness, apostolic benignity, never seemed to have breathed
 
@@ -666,7 +666,7 @@ features, and sagacity had carved her own lines about them.
 
 "I met Supplehough," he continued, "plodding through the mud this wet
 
-night, going to preach at Milldean opposition shop. As I told you, I
+[[Night|night]], going to preach at Milldean opposition shop. As I told you, I
 
 heard Barraclough bellowing in the midst of a conventicle like a
 
@@ -674,15 +674,15 @@ possessed bull; and I find _you_, gentlemen, tarrying over your
 
 half-pint of muddy port wine, and scolding like angry old women. No
 
-wonder Supplehough should have dipped sixteen adult converts in a
+[[Wonder|wonder]] Supplehough should have dipped sixteen adult converts in a
 
-day--which he did a fortnight since; no wonder Barraclough, scamp and
+day--which he did a fortnight since; no [[Wonder|wonder]] Barraclough, scamp and
 
-hypocrite as he is, should attract all the weaver-girls in their flowers
+hypocrite as he is, should attract all the weaver-girls in their [[Flowers|flowers]]
 
 and ribbons, to witness how much harder are his knuckles than the wooden
 
-brim of his tub; as little wonder that _you_, when you are left to
+brim of his tub; as little [[Wonder|wonder]] that _you_, when you are left to
 
 yourselves, without your rectors--myself, and Hall, and Boultby--to back
 
@@ -698,7 +698,7 @@ Malone.--I have an errand unto thee, O captain!"
 
 "What is it?" inquired Malone discontentedly. "There can be no funeral
 
-to take at this time of day."
+to take at this [[Time|time]] of day."
 
 
 
@@ -716,7 +716,7 @@ to take at this time of day."
 
 "I have the pistols you gave me yourself. I never part with them. I lay
 
-them ready cocked on a chair by my bedside at night. I have my
+them ready cocked on a chair by my bedside at [[Night|night]]. I have my
 
 blackthorn."
 
@@ -730,19 +730,19 @@ blackthorn."
 
 
 
-"Nothing as yet, nor perhaps will be; but Moore is alone there. He has
+"Nothing as yet, nor perhaps will be; but Moore is [[Alone|alone]] there. He has
 
 sent all the workmen he can trust to Stilbro'; there are only two women
 
 left about the place. It would be a nice opportunity for any of his
 
-well-wishers to pay him a visit, if they knew how straight the path was
+[[Well|well]]-wishers to pay him a visit, if they knew how straight the path was
 
 made before them."
 
 
 
-"I am none of his well-wishers, sir. I don't care for him."
+"I am none of his [[Well|well]]-wishers, sir. I don't care for him."
 
 
 
@@ -762,7 +762,7 @@ would not stir a step."
 
 "But there _is_ a chance of a row; if a positive riot does not take
 
-place--of which, indeed, I see no signs--yet it is unlikely this night
+place--of which, indeed, I see no signs--yet it is unlikely this [[Night|night]]
 
 will pass quite tranquilly. You know Moore has resolved to have new
 
@@ -782,7 +782,7 @@ gone to fetch them."
 
 have, if it were only to bear evidence in case anything should happen. I
 
-call him very careless. He sits in the counting-house with the shutters
+call him very careless. He sits in the counting-[[house]] with the shutters
 
 unclosed; he goes out here and there after dark, wanders right up the
 
@@ -794,7 +794,7 @@ detestation--bore a 'charmed life,' as they say in tale-books. He takes
 
 no warning from the fate of Pearson, nor from that of Armitage--shot,
 
-one in his own house and the other on the moor."
+one in his own [[house]] and the other on the moor."
 
 
 
@@ -830,7 +830,7 @@ in outer darkness."
 
 
 
-"Well, that has nothing to do with Moore."
+"[[Well]], that has nothing to do with Moore."
 
 
 
@@ -842,9 +842,9 @@ sir."
 
 "I know. When he is very drunk, his mind is always running on regicide.
 
-Mike is not unacquainted with history, and it is rich to hear him going
+Mike is not unacquainted with [[history]], and it is rich to hear him going
 
-over the list of tyrants of whom, as he says, 'the revenger of blood has
+over the list of tyrants of whom, as he says, 'the revenger of [[Blood|blood]] has
 
 obtained satisfaction.' The fellow exults strangely in murder done on
 
@@ -884,7 +884,7 @@ perhaps a little of both."
 
 "Ay! He is a very Ezekiel or Daniel for visions. He came just when I was
 
-going to bed last Friday night to describe one that had been revealed to
+going to bed last Friday [[Night|night]] to describe one that had been revealed to
 
 him in Nunnely Park that very afternoon."
 
@@ -894,7 +894,7 @@ him in Nunnely Park that very afternoon."
 
 
 
-"Davy, thou hast an enormous organ of wonder in thy cranium. Malone, you
+"Davy, thou hast an enormous organ of [[Wonder|wonder]] in thy cranium. Malone, you
 
 see, has none. Neither murders nor visions interest him. See what a big
 
@@ -944,7 +944,7 @@ poured out and filled the park. He then perceived they were
 
 soldiers--thousands and tens of thousands; but they made no more noise
 
-than a swarm of midges on a summer evening. They formed in order, he
+than a swarm of midges on a [[Summer|summer]] evening. They formed in order, he
 
 affirmed, and marched, regiment after regiment, across the park. He
 
@@ -956,7 +956,7 @@ evolutions. A man clothed in scarlet stood in the centre and directed
 
 them. They extended, he declared, over fifty acres. They were in sight
 
-half an hour; then they marched away quite silently. The whole time he
+half an hour; then they marched away quite silently. The whole [[Time|time]] he
 
 heard neither voice nor tread--nothing but the faint music playing a
 
@@ -972,7 +972,7 @@ solemn march."
 
 when a column of smoke, such as might be vomited by a park of artillery,
 
-spread noiseless over the fields, the road, the common, and rolled, he
+spread noiseless over the fields, the [[Road|road]], the common, and rolled, he
 
 said, blue and dim, to his very feet. As it cleared away he looked again
 
@@ -1002,7 +1002,7 @@ like this kind of thing."
 
 "So I should have done, had I not unfortunately happened to engage
 
-Boultby to sup with me on his way home from the Bible Society meeting at
+Boultby to sup with me on his way [[Home|home]] from the [[Bible]] Society meeting at
 
 Nunnely. I promised to send you as my substitute; for which, by-the-bye,
 
@@ -1022,7 +1022,7 @@ a queer state, as you all know, and Moore and his mill and his machinery
 
 are held in sufficient odium. There are chivalric sentiments, there is
 
-high-beating courage, under those waistcoats of yours, I doubt not.
+high-beating [[Courage|courage]], under those waistcoats of yours, I [[Doubt|doubt]] not.
 
 Perhaps I am too partial to my favourite Peter. Little David shall be
 
@@ -1052,9 +1052,9 @@ Donne.
 
 
 
-"If you never touched a pistol, try the feel of it now, great satrap of
+"If you never touched a [[Pistol|pistol]], try the feel of it now, great satrap of
 
-Egypt. As to the little minstrel, he probably prefers encountering the
+[[Egypt]]. As to the little minstrel, he probably prefers encountering the
 
 Philistines with no other weapon than his flute.--Get their hats, Peter.
 
@@ -1074,14 +1074,14 @@ observed Donne.
 
 
 
-Helstone smiled sardonically; Malone laughed a horse-laugh. He then
+Helstone smiled sardonically; Malone laughed a [[Horse|horse]]-laugh. He then
 
 replaced his arms, took his hat and cudgel, and saying that "he never
 
 felt more in tune for a shindy in his life, and that he wished a score
 
-of greasy cloth-dressers might beat up Moore's quarters that night," he
+of greasy cloth-dressers might beat up Moore's quarters that [[Night|night]]," he
 
 made his exit, clearing the stairs at a stride or two, and making the
 
-house shake with the bang of the front-door behind him.
+[[house]] shake with the bang of the front-door behind him.

@@ -1,5 +1,5 @@
 ---
-title: "LordKitchener — E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm"
+title: "[[LordKitchener]] — E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/LordKitchener-(Chesterton)"
@@ -20,7 +20,7 @@ electronic work or group of works on different terms than are set
 
 forth in this agreement, you must obtain permission in writing from
 
-both the Project Gutenberg Literary Archive Foundation and Michael
+both the Project Gutenberg Literary Archive Foundation and [[Michael]]
 
 Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 

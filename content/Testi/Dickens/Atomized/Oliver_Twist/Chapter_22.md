@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 22"
+title: "[[Oliver Twist]] — Chapter 22"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -29,10 +29,10 @@ gentleman in, Barney; wake up first, if convenient.”
 
 The speaker appeared to throw a boot-jack, or some such article, at the
 person he addressed, to rouse him from his slumbers: for the noise of a
-wooden body, falling violently, was heard; and then an indistinct
-muttering, as of a man between sleep and awake.
+wooden [[Body|body]], falling violently, was heard; and then an indistinct
+muttering, as of a man between [[Sleep|sleep]] and awake.
 
-“Do you hear?” cried the same voice. “There’s Bill Sikes in the passage
+“Do you hear?” cried the same voice. “There’s [[Bill Sikes]] in the passage
 with nobody to do the civil to him; and you sleeping there, as if you
 took laudanum with your meals, and nothing stronger. Are you any
 fresher now, or do you want the iron candlestick to wake you
@@ -43,16 +43,16 @@ room, as this interrogatory was put; and there issued, from a door on
 the right hand; first, a feeble candle: and next, the form of the same
 individual who has been heretofore described as labouring under the
 infirmity of speaking through his nose, and officiating as waiter at
-the public-house on Saffron Hill.
+the public-[[house]] on Saffron [[Hill]].
 
 “Bister Sikes!” exclaimed Barney, with real or counterfeit joy; “cub
 id, sir; cub id.”
 
-“Here! you get on first,” said Sikes, putting Oliver in front of him.
+“Here! you get on first,” said Sikes, putting [[Oliver]] in front of him.
 “Quicker! or I shall tread upon your heels.”
 
-Muttering a curse upon his tardiness, Sikes pushed Oliver before him;
-and they entered a low dark room with a smoky fire, two or three broken
+Muttering a curse upon his tardiness, Sikes pushed [[Oliver]] before him;
+and they entered a low dark room with a smoky [[Fire|fire]], two or three broken
 chairs, a table, and a very old couch: on which, with his legs much
 higher than his head, a man was reposing at full length, smoking a long
 clay pipe. He was dressed in a smartly-cut snuff-coloured coat, with
@@ -71,65 +71,65 @@ contemplated, in their elevated situation, with lively satisfaction.
 case I should have made a personal wentur. Hallo!”
 
 Uttering this exclamation in a tone of great surprise, as his eyes
-rested on Oliver, Mr. Toby Crackit brought himself into a sitting
+rested on [[Oliver]], Mr. Toby Crackit brought himself into a sitting
 posture, and demanded who that was.
 
 “The boy. Only the boy!” replied Sikes, drawing a chair towards the
-fire.
+[[Fire|fire]].
 
 “Wud of Bister Fagid’s lads,” exclaimed Barney, with a grin.
 
-“Fagin’s, eh!” exclaimed Toby, looking at Oliver. “Wot an inwalable boy
+“[[Fagin]]’s, eh!” exclaimed Toby, looking at [[Oliver]]. “Wot an inwalable boy
 that’ll make, for the old ladies’ pockets in chapels! His mug is a
 fortin’ to him.”
 
 “There—there’s enough of that,” interposed Sikes, impatiently; and
 stooping over his recumbant friend, he whispered a few words in his
-ear: at which Mr. Crackit laughed immensely, and honoured Oliver with a
+ear: at which Mr. Crackit laughed immensely, and honoured [[Oliver]] with a
 long stare of astonishment.
 
 “Now,” said Sikes, as he resumed his seat, “if you’ll give us something
 to eat and drink while we’re waiting, you’ll put some heart in us; or
-in me, at all events. Sit down by the fire, younker, and rest yourself;
+in me, at all events. Sit down by the [[Fire|fire]], younker, and rest yourself;
 for you’ll have to go out with us again tonight, though not very far
 off.”
 
-Oliver looked at Sikes, in mute and timid wonder; and drawing a stool
-to the fire, sat with his aching head upon his hands, scarcely knowing
+[[Oliver]] looked at Sikes, in mute and timid [[Wonder|wonder]]; and drawing a stool
+to the [[Fire|fire]], sat with his aching head upon his hands, scarcely knowing
 where he was, or what was passing around him.
 
 “Here,” said Toby, as the young Jew placed some fragments of food, and
-a bottle upon the table, “Success to the crack!” He rose to honour the
+a bottle upon the table, “[[success|Success]] to the crack!” He [[Rose|rose]] to [[Honour|honour]] the
 toast; and, carefully depositing his empty pipe in a corner, advanced
 to the table, filled a glass with spirits, and drank off its contents.
 Mr. Sikes did the same.
 
 “A drain for the boy,” said Toby, half-filling a wine-glass. “Down with
-it, innocence.”
+it, [[innocence]].”
 
-“Indeed,” said Oliver, looking piteously up into the man’s face;
+“Indeed,” said [[Oliver]], looking piteously up into the man’s face;
 “indeed, I—”
 
 “Down with it!” echoed Toby. “Do you think I don’t know what’s good for
 you? Tell him to drink it, Bill.”
 
 “He had better!” said Sikes clapping his hand upon his pocket. “Burn my
-body, if he isn’t more trouble than a whole family of Dodgers. Drink
+[[Body|body]], if he isn’t more trouble than a whole family of Dodgers. Drink
 it, you perwerse imp; drink it!”
 
-Frightened by the menacing gestures of the two men, Oliver hastily
+Frightened by the menacing gestures of the two men, [[Oliver]] hastily
 swallowed the contents of the glass, and immediately fell into a
 violent fit of coughing: which delighted Toby Crackit and Barney, and
 even drew a smile from the surly Mr. Sikes.
 
-This done, and Sikes having satisfied his appetite (Oliver could eat
-nothing but a small crust of bread which they made him swallow), the
-two men laid themselves down on chairs for a short nap. Oliver retained
-his stool by the fire; Barney wrapped in a blanket, stretched himself
+This done, and Sikes having satisfied his appetite ([[Oliver]] could eat
+nothing but a small crust of bread which they made him [[Swallow|swallow]]), the
+two men laid themselves down on chairs for a short nap. [[Oliver]] retained
+his stool by the [[Fire|fire]]; Barney wrapped in a blanket, stretched himself
 on the floor: close outside the fender.
 
-They slept, or appeared to sleep, for some time; nobody stirring but
-Barney, who rose once or twice to throw coals on the fire. Oliver fell
+They slept, or appeared to [[Sleep|sleep]], for some [[Time|time]]; nobody stirring but
+Barney, who [[Rose|rose]] once or twice to throw coals on the [[Fire|fire]]. [[Oliver]] fell
 into a heavy doze: imagining himself straying along the gloomy lanes,
 or wandering about the dark churchyard, or retracing some one or other
 of the scenes of the past day: when he was roused by Toby Crackit
@@ -154,28 +154,28 @@ loaded them yourself.”
 fastening a small crowbar to a loop inside the skirt of his coat.
 
 “All right,” rejoined his companion. “Bring them bits of timber,
-Barney. That’s the time of day.”
+Barney. That’s the [[Time|time]] of day.”
 
 With these words, he took a thick stick from Barney’s hands, who,
 having delivered another to Toby, busied himself in fastening on
-Oliver’s cape.
+[[Oliver]]’s cape.
 
 “Now then!” said Sikes, holding out his hand.
 
-Oliver: who was completely stupified by the unwonted exercise, and the
+[[Oliver]]: who was completely stupified by the unwonted exercise, and the
 air, and the drink which had been forced upon him: put his hand
 mechanically into that which Sikes extended for the purpose.
 
 “Take his other hand, Toby,” said Sikes. “Look out, Barney.”
 
 The man went to the door, and returned to announce that all was quiet.
-The two robbers issued forth with Oliver between them. Barney, having
+The two robbers issued forth with [[Oliver]] between them. Barney, having
 made all fast, rolled himself up as before, and was soon asleep again.
 
 It was now intensely dark. The fog was much heavier than it had been in
-the early part of the night; and the atmosphere was so damp, that,
-although no rain fell, Oliver’s hair and eyebrows, within a few minutes
-after leaving the house, had become stiff with the half-frozen moisture
+the early part of the [[Night|night]]; and the atmosphere was so damp, that,
+although no rain fell, [[Oliver]]’s hair and eyebrows, within a few minutes
+after leaving the [[house]], had become stiff with the half-frozen moisture
 that was floating about. They crossed the bridge, and kept on towards
 the lights which he had seen before. They were at no great distance
 off; and, as they walked pretty briskly, they soon arrived at Chertsey.
@@ -185,64 +185,64 @@ way, tonight, to see us.”
 
 Toby acquiesced; and they hurried through the main street of the little
 town, which at that late hour was wholly deserted. A dim light shone at
-intervals from some bed-room window; and the hoarse barking of dogs
-occasionally broke the silence of the night. But there was nobody
+intervals from some bed-room [[Window|window]]; and the hoarse barking of [[dogs]]
+occasionally broke the [[Silence|silence]] of the [[Night|night]]. But there was nobody
 abroad. They had cleared the town, as the church-bell struck two.
 
-Quickening their pace, they turned up a road upon the left hand. After
-walking about a quarter of a mile, they stopped before a detached house
+Quickening their pace, they turned up a [[Road|road]] upon the left hand. After
+walking about a quarter of a mile, they stopped before a detached [[house]]
 surrounded by a wall: to the top of which, Toby Crackit, scarcely
 pausing to take breath, climbed in a twinkling.
 
 “The boy next,” said Toby. “Hoist him up; I’ll catch hold of him.”
 
-Before Oliver had time to look round, Sikes had caught him under the
+Before [[Oliver]] had [[Time|time]] to look round, Sikes had caught him under the
 arms; and in three or four seconds he and Toby were lying on the grass
 on the other side. Sikes followed directly. And they stole cautiously
-towards the house.
+towards the [[house]].
 
-And now, for the first time, Oliver, well-nigh mad with grief and
+And now, for the first [[Time|time]], [[Oliver]], [[Well|well]]-nigh mad with grief and
 terror, saw that housebreaking and robbery, if not murder, were the
 objects of the expedition. He clasped his hands together, and
 involuntarily uttered a subdued exclamation of horror. A mist came
 before his eyes; the cold sweat stood upon his ashy face; his limbs
 failed him; and he sank upon his knees.
 
-“Get up!” murmured Sikes, trembling with rage, and drawing the pistol
+“Get up!” murmured Sikes, trembling with rage, and drawing the [[Pistol|pistol]]
 from his pocket; “Get up, or I’ll strew your brains upon the grass.”
 
-“Oh! for God’s sake let me go!” cried Oliver; “let me run away and die
-in the fields. I will never come near London; never, never! Oh! pray
-have mercy on me, and do not make me steal. For the love of all the
-bright Angels that rest in Heaven, have mercy upon me!”
+“Oh! for God’s sake let me go!” cried [[Oliver]]; “let me run away and die
+in the fields. I will never come near [[London]]; never, never! Oh! pray
+have [[Mercy|mercy]] on me, and do not make me steal. For the [[Love|love]] of all the
+bright Angels that rest in Heaven, have [[Mercy|mercy]] upon me!”
 
 The man to whom this appeal was made, swore a dreadful oath, and had
-cocked the pistol, when Toby, striking it from his grasp, placed his
-hand upon the boy’s mouth, and dragged him to the house.
+cocked the [[Pistol|pistol]], when Toby, striking it from his grasp, placed his
+hand upon the boy’s mouth, and dragged him to the [[house]].
 
 “Hush!” cried the man; “it won’t answer here. Say another word, and
 I’ll do your business myself with a crack on the head. That makes no
 noise, and is quite as certain, and more genteel. Here, Bill, wrench
 the shutter open. He’s game enough now, I’ll engage. I’ve seen older
 hands of his age took the same way, for a minute or two, on a cold
-night.”
+[[Night|night]].”
 
-Sikes, invoking terrific imprecations upon Fagin’s head for sending
-Oliver on such an errand, plied the crowbar vigorously, but with little
+Sikes, invoking terrific imprecations upon [[Fagin]]’s head for sending
+[[Oliver]] on such an errand, plied the crowbar vigorously, but with little
 noise. After some delay, and some assistance from Toby, the shutter to
 which he had referred, swung open on its hinges.
 
-It was a little lattice window, about five feet and a half above the
-ground, at the back of the house: which belonged to a scullery, or
+It was a little lattice [[Window|window]], about five feet and a half above the
+ground, at the back of the [[house]]: which belonged to a scullery, or
 small brewing-place, at the end of the passage. The aperture was so
 small, that the inmates had probably not thought it worth while to
 defend it more securely; but it was large enough to admit a boy of
-Oliver’s size, nevertheless. A very brief exercise of Mr. Sikes’s art,
+[[Oliver]]’s size, nevertheless. A very brief exercise of Mr. Sikes’s art,
 sufficed to overcome the fastening of the lattice; and it soon stood
 wide open also.
 
 “Now listen, you young limb,” whispered Sikes, drawing a dark lantern
-from his pocket, and throwing the glare full on Oliver’s face; “I’m a
+from his pocket, and throwing the glare full on [[Oliver]]’s face; “I’m a
 going to put you through there. Take this light; go softly up the steps
 straight afore you, and along the little hall, to the street door;
 unfasten it, and let us in.”
@@ -264,17 +264,17 @@ Although Mr. Crackit spoke in a scarcely audible whisper, and laughed
 without noise, Sikes imperiously commanded him to be silent, and to get
 to work. Toby complied, by first producing his lantern, and placing it
 on the ground; then by planting himself firmly with his head against
-the wall beneath the window, and his hands upon his knees, so as to
+the wall beneath the [[Window|window]], and his hands upon his knees, so as to
 make a step of his back. This was no sooner done, than Sikes, mounting
-upon him, put Oliver gently through the window with his feet first;
+upon him, put [[Oliver]] gently through the [[Window|window]] with his feet first;
 and, without leaving hold of his collar, planted him safely on the
 floor inside.
 
 “Take this lantern,” said Sikes, looking into the room. “You see the
 stairs afore you?”
 
-Oliver, more dead than alive, gasped out, “Yes.” Sikes, pointing to the
-street-door with the pistol-barrel, briefly advised him to take notice
+[[Oliver]], more dead than alive, gasped out, “Yes.” Sikes, pointing to the
+street-door with the [[Pistol|pistol]]-barrel, briefly advised him to take notice
 that he was within shot all the way; and that if he faltered, he would
 fall dead that instant.
 
@@ -285,9 +285,9 @@ I leave go of you, do your work. Hark!”
 
 They listened intently.
 
-“Nothing,” said Sikes, releasing his hold of Oliver. “Now!”
+“Nothing,” said Sikes, releasing his hold of [[Oliver]]. “Now!”
 
-In the short time he had had to collect his senses, the boy had firmly
+In the short [[Time|time]] he had had to collect his senses, the boy had firmly
 resolved that, whether he died in the attempt or not, he would make one
 effort to dart upstairs from the hall, and alarm the family. Filled
 with this idea, he advanced at once, but stealthily.
@@ -295,7 +295,7 @@ with this idea, he advanced at once, but stealthily.
 “Come back!” suddenly cried Sikes aloud. “Back! back!”
 
 Scared by the sudden breaking of the dead stillness of the place, and
-by a loud cry which followed it, Oliver let his lantern fall, and knew
+by a loud cry which followed it, [[Oliver]] let his lantern fall, and knew
 not whether to advance or fly.
 
 The cry was repeated—a light appeared—a vision of two terrified
@@ -305,15 +305,15 @@ not,—and he staggered back.
 
 Sikes had disappeared for an instant; but he was up again, and had him
 by the collar before the smoke had cleared away. He fired his own
-pistol after the men, who were already retreating; and dragged the boy
+[[Pistol|pistol]] after the men, who were already retreating; and dragged the boy
 up.
 
 “Clasp your arm tighter,” said Sikes, as he drew him through the
-window. “Give me a shawl here. They’ve hit him. Quick! How the boy
+[[Window|window]]. “Give me a shawl here. They’ve hit him. Quick! How the boy
 bleeds!”
 
 Then came the loud ringing of a bell, mingled with the noise of
-fire-arms, and the shouts of men, and the sensation of being carried
+[[Fire|fire]]-arms, and the shouts of men, and the sensation of being carried
 over uneven ground at a rapid pace. And then, the noises grew confused
 in the distance; and a cold deadly feeling crept over the boy’s heart;
 and he saw or heard no more.

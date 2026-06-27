@@ -27,31 +27,31 @@ and he believed the English to be a race of bulldogs,
 of heroic squires, and hearty yeomen vassals, because he read all
 this in English Conservative papers, written by exhausted little
 Levantine clerks.  But his reading was naturally for the most part
-in the French Conservative papers (though he knew English well),
+in the French Conservative papers (though he knew English [[Well|well]]),
 and it was in these that he first heard of the horrible Budget.
 There he read of the confiscatory revolution planned by the
 Lord Chancellor of the Exchequer, the sinister Georges Lloyd.
-He also read how chivalrously Prince Arthur Balfour of Burleigh
+He also read how chivalrously Prince [[Arthur]] Balfour of Burleigh
 had defied that demagogue, assisted by Austen the Lord Chamberlain
 and the gay and witty Walter Lang.  And being a brisk partisan
 and a capable journalist, he decided to pay England a special visit
 and report to his paper upon the struggle.
 
-He drove for an eternity in an open fly through beautiful woods,
+He drove for an [[Eternity|eternity]] in an open fly through beautiful woods,
 with a letter of introduction in his pocket to one duke, who was
 to introduce him to another duke.  The endless and numberless avenues
 of bewildering pine woods gave him a queer feeling that he was driving
-through the countless corridors of a dream.  Yet the vast silence
+through the countless corridors of [[A Dream|a dream]].  Yet the vast [[Silence|silence]]
 and freshness healed his irritation at modern ugliness and unrest.
 It seemed a background fit for the return of chivalry.
-In such a forest a king and all his court might lose themselves hunting
-or a knight errant might perish with no companion but God.  The castle
+In such a forest a [[King|king]] and all his [[Court|court]] might lose themselves hunting
+or a knight errant might perish with no companion but God.  The [[Castle|castle]]
 itself when he reached it was somewhat smaller than he had expected,
 but he was delighted with its romantic and castellated outline.
 He was just about to alight when somebody opened two enormous gates
 at the side and the vehicle drove briskly through.
 
-"That is not the house?" he inquired politely of the driver.
+"That is not the [[house]]?" he inquired politely of the driver.
 
 "No, sir," said the driver, controlling the corners of his mouth.
 "The lodge, sir."
@@ -104,14 +104,14 @@ of aristocracy.  I regard this as the last great battle for the idea.
 Aristocracy, like any other thing, must justify itself to mankind.
 Aristocracy is good because it preserves a picture of human dignity
 in a world where that dignity is often obscured by servile necessities.
-Aristocracy alone can keep a certain high reticence of soul and body,
+Aristocracy [[Alone|alone]] can keep a certain high reticence of [[Soul|soul]] and [[Body|body]],
 a certain noble distance between the sexes."
 
 The Duke of Aylesbury, who had a clouded recollection of having squirted
-soda-water down the neck of a Countess on the previous evening,
+soda-[[Water|water]] down the neck of a Countess on the previous evening,
 looked somewhat gloomy, as if lamenting the theoretic spirit
 of the Latin race.  The elder Duke laughed heartily, and said:
-"Well, well, you know; we English are horribly practical.
+"[[Well]], [[Well|well]], you know; we English are horribly practical.
 With us the great question is the land.  Out here in the country
 ... do you know this part?"
 
@@ -124,4 +124,4 @@ and gayer under the enthusiastic leadership of their encouraging squires?
 Have you not the Maypole?  Have you not Merry England?"
 
 The Duke of Aylesbury made a noise in his throat, and then said
-very indistinctly:  "They all go to London."
+very indistinctly:  "They all go to [[London]]."

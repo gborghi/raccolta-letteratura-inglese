@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 43: FORTY THREE (part 6)"
+title: "[[Martin Chuzzlewit]] — Chapter 43: FORTY THREE (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -49,19 +49,19 @@ you!’
 ‘Do not unman me, sir,’ said Mr Pecksniff, shaking his hand vigorously,
 ‘or I shall be unequal to the task. It is not agreeable to my feelings,
 my good sir, to address the person who is now before us, for when I
-ejected him from this house, after hearing of his unnatural conduct from
-your lips, I renounced communication with him for ever. But you desire
+ejected him from this [[house]], after hearing of his unnatural conduct from
+your lips, I renounced communication with him for ever. But you [[Desire|desire]]
 it; and that is sufficient. Young man! The door is immediately behind
 the companion of your infamy. Blush if you can; begone without a blush,
 if you can’t.’
 
 Martin looked as steadily at his grandfather as if there had been a
-dead silence all this time. The old man looked no less steadily at Mr
+dead [[Silence|silence]] all this [[Time|time]]. The old man looked no less steadily at Mr
 Pecksniff.
 
-‘When I ordered you to leave this house upon the last occasion of your
+‘When I ordered you to leave this [[house]] upon the last occasion of your
 being dismissed from it with disgrace,’ said Mr Pecksniff; ‘when,
-stung and stimulated beyond endurance by your shameless conduct to this
+stung and stimulated beyond [[Endurance|endurance]] by your shameless conduct to this
 extraordinarily noble-minded individual, I exclaimed “Go forth!” I told
 you that I wept for your depravity. Do not suppose that the tear which
 stands in my eye at this moment, is shed for you. It is shed for him,
@@ -99,18 +99,18 @@ face.
 stronger in it as he felt how Pecksniff winced and shrunk beneath his
 contempt; ‘I only hear what you say to me, grandfather.’
 
-Perhaps it was well for Mr Pecksniff that his venerable friend found
+Perhaps it was [[Well|well]] for Mr Pecksniff that his venerable friend found
 in his (Mr Pecksniff’s) features an exclusive and engrossing object
 of contemplation, for if his eyes had gone astray, and he had compared
 young Martin’s bearing with that of his zealous defender, the latter
 disinterested gentleman would scarcely have shown to greater advantage
-than on the memorable afternoon when he took Tom Pinch’s last receipt
+than on the memorable afternoon when he took [[Tom Pinch]]’s last receipt
 in full of all demands. One really might have thought there was some
 quality in Mr Pecksniff--an emanation from the brightness and purity
 within him perhaps--which set off and adorned his foes; they looked so
 gallant and so manly beside him.
 
-‘Not a word?’ said Martin, for the second time.
+‘Not a word?’ said Martin, for the second [[Time|time]].
 
 ‘I remember that I have a word to say, Pecksniff,’ observed the old man.
 ‘But a word. You spoke of being indebted to the charitable help of some
@@ -120,16 +120,16 @@ in money did he render you?’
 Although he asked this question of Martin, he did not look towards him,
 but kept his eyes on Mr Pecksniff as before. It appeared to have become
 a habit with him, both in a literal and figurative sense, to look to Mr
-Pecksniff alone.
+Pecksniff [[Alone|alone]].
 
 Martin took out his pencil, tore a leaf from his pocket-book, and
 hastily wrote down the particulars of his debt to Mr Bevan. The old man
 stretched out his hand for the paper, and took it; but his eyes did not
 wander from Mr Pecksniff’s face.
 
-‘It would be a poor pride and a false humility,’ said Martin, in a
+‘It would be a poor [[Pride|pride]] and a false [[Humility|humility]],’ said Martin, in a
 low voice, ‘to say, I do not wish that to be paid, or that I have any
-present hope of being able to pay it. But I never felt my poverty so
+present [[Hope|hope]] of being able to pay it. But I never felt my [[Poverty|poverty]] so
 deeply as I feel it now.’
 
 ‘Read it to me, Pecksniff,’ said the old man.

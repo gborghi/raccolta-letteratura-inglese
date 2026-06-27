@@ -17,24 +17,24 @@ tags:
 CHAPTER 25. Conspirators and Others
 
 
-The private residence of Mr Pancks was in Pentonville, where he lodged
+The private residence of [[Mr Pancks]] was in Pentonville, where he lodged
 on the second-floor of a professional gentleman in an extremely small
-way, who had an inner-door within the street door, poised on a spring
+way, who had an inner-door within the street door, poised on a [[Spring|spring]]
 and starting open with a click like a trap; and who wrote up in the
 fan-light, RUGG, GENERAL AGENT, ACCOUNTANT, DEBTS RECOVERED.
 
 This scroll, majestic in its severe simplicity, illuminated a little
-slip of front garden abutting on the thirsty high-road, where a few
-of the dustiest of leaves hung their dismal heads and led a life of
+slip of front [[Garden|garden]] abutting on the thirsty high-[[Road|road]], where a few
+of the dustiest of [[Leaves|leaves]] hung their dismal heads and led a life of
 choking. A professor of writing occupied the first-floor, and enlivened
-the garden railings with glass-cases containing choice examples of what
+the [[Garden|garden]] railings with glass-cases containing choice examples of what
 his pupils had been before six lessons and while the whole of his young
 family shook the table, and what they had become after six lessons
-when the young family was under restraint. The tenancy of Mr Pancks was
+when the young family was under restraint. The tenancy of [[Mr Pancks]] was
 limited to one airy bedroom; he covenanting and agreeing with Mr Rugg
 his landlord, that in consideration of a certain scale of payments
 accurately defined, and on certain verbal notice duly given, he should
-be at liberty to elect to share the Sunday breakfast, dinner, tea, or
+be at liberty to elect to share the [[Sunday]] breakfast, dinner, tea, or
 supper, or each or any or all of those repasts or meals of Mr and Miss
 Rugg (his daughter) in the back-parlour.
 
@@ -43,7 +43,7 @@ together with much distinction in the neighbourhood, by having her
 heart severely lacerated and her feelings mangled by a middle-aged baker
 resident in the vicinity, against whom she had, by the agency of Mr
 Rugg, found it necessary to proceed at law to recover damages for a
-breach of promise of marriage. The baker having been, by the counsel for
+breach of promise of [[Marriage|marriage]]. The baker having been, by the counsel for
 Miss Rugg, witheringly denounced on that occasion up to the full amount
 of twenty guineas, at the rate of about eighteen-pence an epithet, and
 having been cast in corresponding damages, still suffered occasional
@@ -55,16 +55,16 @@ In the society of Mr Rugg, who had a round white visage, as if all his
 blushes had been drawn out of him long ago, and who had a ragged yellow
 head like a worn-out hearth broom; and in the society of Miss Rugg, who
 had little nankeen spots, like shirt buttons, all over her face, and
-whose own yellow tresses were rather scrubby than luxuriant; Mr Pancks
+whose own yellow tresses were rather scrubby than luxuriant; [[Mr Pancks]]
 had usually dined on Sundays for some few years, and had twice a week,
-or so, enjoyed an evening collation of bread, Dutch cheese, and porter.
-Mr Pancks was one of the very few marriageable men for whom Miss Rugg
+or so, enjoyed an evening collation of bread, Dutch [[cheese]], and porter.
+[[Mr Pancks]] was one of the very few marriageable men for whom Miss Rugg
 had no terrors, the argument with which he reassured himself being
 twofold; that is to say, firstly, ‘that it wouldn’t do twice,’ and
-secondly, ‘that he wasn’t worth it.’ Fortified within this double
-armour, Mr Pancks snorted at Miss Rugg on easy terms.
+secondly, ‘that he wasn’t worth it.’ Fortified within this [[Double|double]]
+armour, [[Mr Pancks]] snorted at Miss Rugg on easy terms.
 
-Up to this time, Mr Pancks had transacted little or no business at his
+Up to this [[Time|time]], [[Mr Pancks]] had transacted little or no business at his
 quarters in Pentonville, except in the sleeping line; but now that he
 had become a fortune-teller, he was often closeted after midnight
 with Mr Rugg in his little front-parlour office, and even after those
@@ -72,12 +72,12 @@ untimely hours, burnt tallow in his bed-room. Though his duties as his
 proprietor’s grubber were in no wise lessened; and though that service
 bore no greater resemblance to a bed of roses than was to be discovered
 in its many thorns; some new branch of industry made a constant demand
-upon him. When he cast off the Patriarch at night, it was only to take
+upon him. When he cast off the Patriarch at [[Night|night]], it was only to take
 an anonymous craft in tow, and labour away afresh in other waters.
 
 The advance from a personal acquaintance with the elder Mr Chivery to
 an introduction to his amiable wife and disconsolate son, may have been
-easy; but easy or not, Mr Pancks soon made it. He nestled in the bosom
+easy; but easy or not, [[Mr Pancks]] soon made it. He nestled in the bosom
 of the tobacco business within a week or two after his first appearance
 in the College, and particularly addressed himself to the cultivation of
 a good understanding with Young John. In this endeavour he so prospered
@@ -89,8 +89,8 @@ protested against it as detrimental to the Highland typification on the
 doorpost but for two forcible reasons; one, that her John was roused to
 take strong interest in the business which these starts were supposed
 to advance--and this she held to be good for his drooping spirits;
-the other, that Mr Pancks confidentially agreed to pay her, for the
-occupation of her son’s time, at the handsome rate of seven and sixpence
+the other, that [[Mr Pancks]] confidentially agreed to pay her, for the
+occupation of her son’s [[Time|time]], at the handsome rate of seven and sixpence
 per day. The proposal originated with himself, and was couched in the
 pithy terms, ‘If your John is weak enough, ma’am, not to take it,
 that is no reason why you should be, don’t you see? So, quite between
@@ -116,26 +116,26 @@ inner knowledge being to be found in his face, the Marshalsea key was as
 legible as an index to the individual characters and histories upon
 which it was turned.
 
-That Mr Pancks should be moved to invite any one to dinner at
+That [[Mr Pancks]] should be moved to invite any one to dinner at
 Pentonville, was an unprecedented fact in his calendar. But he invited
 Young John to dinner, and even brought him within range of the dangerous
 (because expensive) fascinations of Miss Rugg. The banquet was appointed
-for a Sunday, and Miss Rugg with her own hands stuffed a leg of mutton
+for a [[Sunday]], and Miss Rugg with her own hands stuffed a leg of mutton
 with oysters on the occasion, and sent it to the baker’s--not _the_
 baker’s but an opposition establishment. Provision of oranges, apples,
-and nuts was also made. And rum was brought home by Mr Pancks on
-Saturday night, to gladden the visitor’s heart.
+and nuts was also made. And rum was brought [[Home|home]] by [[Mr Pancks]] on
+Saturday [[Night|night]], to gladden the visitor’s heart.
 
 The store of creature comforts was not the chief part of the visitor’s
 reception. Its special feature was a foregone family confidence and
 sympathy. When Young John appeared at half-past one without the ivory
 hand and waistcoat of golden sprigs, the sun shorn of his beams by
-disastrous clouds, Mr Pancks presented him to the yellow-haired Ruggs as
+disastrous clouds, [[Mr Pancks]] presented him to the yellow-haired Ruggs as
 the young man he had so often mentioned who loved Miss Dorrit.
 
 ‘I am glad,’ said Mr Rugg, challenging him specially in that character,
 ‘to have the distinguished gratification of making your acquaintance,
-sir. Your feelings do you honour. You are young; may you never outlive
+sir. Your feelings do you [[Honour|honour]]. You are young; may you never outlive
 your feelings! If I was to outlive my own feelings, sir,’ said Mr Rugg,
 who was a man of many words, and was considered to possess a remarkably
 good address; ‘if I was to outlive my own feelings, I’d leave fifty
@@ -148,7 +148,7 @@ state of this young man’s affections. My daughter has had her trials,
 sir’--Mr Rugg might have used the word more pointedly in the singular
 number--‘and she can feel for you.’
 
-Young John, almost overwhelmed by the touching nature of this greeting,
+Young John, almost overwhelmed by the touching [[Nature|nature]] of this greeting,
 professed himself to that effect.
 
 ‘What I envy you, sir, is,’ said Mr Rugg, ‘allow me to take your hat--we
@@ -166,13 +166,13 @@ but he hoped he did it.
 ‘Sir,’ said Mr Rugg, taking him by the hand, ‘you are a young man that
 it does one good to come across. You are a young man that I should
 like to put in the witness-box, to humanise the minds of the legal
-profession. I hope you have brought your appetite with you, and intend
+profession. I [[Hope|hope]] you have brought your appetite with you, and intend
 to play a good knife and fork?’
 
 ‘Thank you, sir,’ returned Young John, ‘I don’t eat much at present.’
 
 Mr Rugg drew him a little apart. ‘My daughter’s case, sir,’ said he, ‘at
-the time when, in vindication of her outraged feelings and her sex, she
+the [[Time|time]] when, in vindication of her outraged feelings and her sex, she
 became the plaintiff in Rugg and Bawkins. I suppose I could have put it
 in evidence, Mr Chivery, if I had thought it worth my while, that the
 amount of solid sustenance my daughter consumed at that period did not
@@ -190,22 +190,22 @@ very sorry if there was.’
 
 ‘The sentiment,’ said Mr Rugg, ‘is what I should have expected from your
 known principles. It would affect my daughter greatly, sir, if she heard
-it. As I perceive the mutton, I am glad she didn’t hear it. Mr Pancks,
+it. As I perceive the mutton, I am glad she didn’t hear it. [[Mr Pancks]],
 on this occasion, pray face me. My dear, face Mr Chivery. For what we
 are going to receive, may we (and Miss Dorrit) be truly thankful!’
 
-But for a grave waggishness in Mr Rugg’s manner of delivering this
+But for a [[Grave|grave]] waggishness in Mr Rugg’s manner of delivering this
 introduction to the feast, it might have appeared that Miss Dorrit was
 expected to be one of the company. Pancks recognised the sally in
 his usual way, and took in his provender in his usual way. Miss Rugg,
 perhaps making up some of her arrears, likewise took very kindly to
 the mutton, and it rapidly diminished to the bone. A bread-and-butter
-pudding entirely disappeared, and a considerable amount of cheese and
+pudding entirely disappeared, and a considerable amount of [[cheese]] and
 radishes vanished by the same means. Then came the dessert.
 
-Then also, and before the broaching of the rum and water, came Mr
+Then also, and before the broaching of the rum and [[Water|water]], came Mr
 Pancks’s note-book. The ensuing business proceedings were brief but
-curious, and rather in the nature of a conspiracy. Mr Pancks looked over
+curious, and rather in the [[Nature|nature]] of a conspiracy. [[Mr Pancks]] looked over
 his note-book, which was now getting full, studiously; and picked out
 little extracts, which he wrote on separate slips of paper on the table;
 Mr Rugg, in the meanwhile, looking at him with close attention, and
@@ -219,7 +219,7 @@ it?’
 
 ‘I’ll take it, sir,’ returned Mr Rugg, ‘if no one bids.’
 
-Mr Pancks dealt him his card, and looked at his hand again.
+[[Mr Pancks]] dealt him his card, and looked at his hand again.
 
 ‘Now, there’s an Enquiry in York,’ said Pancks. ‘Who takes it?’
 
@@ -230,8 +230,8 @@ Mr Pancks dealt him his card, and looked at his hand again.
 Young John assenting, Pancks dealt him his card, and consulted his hand
 again.
 
-‘There’s a Church in London; I may as well take that. And a Family
-Bible; I may as well take that, too. That’s two to me. Two to me,’
+‘There’s a Church in [[London]]; I may as [[Well|well]] take that. And a Family
+[[Bible]]; I may as [[Well|well]] take that, too. That’s two to me. Two to me,’
 repeated Pancks, breathing hard over his cards. ‘Here’s a Clerk at
 Durham for you, John, and an old seafaring gentleman at Dunstable for
 you, Mr Rugg. Two to me, was it? Yes, two to me. Here’s a Stone; three
@@ -239,26 +239,26 @@ to me. And a Still-born Baby; four to me. And all, for the present,
 told.’
 
 When he had thus disposed of his cards, all being done very quietly and
-in a suppressed tone, Mr Pancks puffed his way into his own
+in a suppressed tone, [[Mr Pancks]] puffed his way into his own
 breast-pocket and tugged out a canvas bag; from which, with a sparing
 hand, he told forth money for travelling expenses in two little
 portions. ‘Cash goes out fast,’ he said anxiously, as he pushed a
 portion to each of his male companions, ‘very fast.’
 
-‘I can only assure you, Mr Pancks,’ said Young John, ‘that I deeply
+‘I can only assure you, [[Mr Pancks]],’ said Young John, ‘that I deeply
 regret my circumstances being such that I can’t afford to pay my own
-charges, or that it’s not advisable to allow me the time necessary for
+charges, or that it’s not advisable to allow me the [[Time|time]] necessary for
 my doing the distances on foot; because nothing would give me greater
 satisfaction than to walk myself off my legs without fee or reward.’
 
 This young man’s disinterestedness appeared so very ludicrous in
 the eyes of Miss Rugg, that she was obliged to effect a precipitate
 retirement from the company, and to sit upon the stairs until she had
-had her laugh out. Meanwhile Mr Pancks, looking, not without some pity,
+had her laugh out. Meanwhile [[Mr Pancks]], looking, not without some pity,
 at Young John, slowly and thoughtfully twisted up his canvas bag as if
 he were wringing its neck. The lady, returning as he restored it to his
-pocket, mixed rum and water for the party, not forgetting her fair self,
-and handed to every one his glass. When all were supplied, Mr Rugg rose,
+pocket, mixed rum and [[Water|water]] for the party, not forgetting her fair [[Self|self]],
+and handed to every one his glass. When all were supplied, Mr Rugg [[Rose|rose]],
 and silently holding out his glass at arm’s length above the centre of
 the table, by that gesture invited the other three to add theirs, and to
 unite in a general conspiratorial clink. The ceremony was effective up
@@ -266,7 +266,7 @@ to a certain point, and would have been wholly so throughout, if Miss
 Rugg, as she raised her glass to her lips in completion of it, had not
 happened to look at Young John; when she was again so overcome by the
 contemptible comicality of his disinterestedness as to splutter some
-ambrosial drops of rum and water around, and withdraw in confusion.
+ambrosial drops of rum and [[Water|water]] around, and withdraw in confusion.
 
 Such was the dinner without precedent, given by Pancks at Pentonville;
 and such was the busy and strange life Pancks led. The only waking
@@ -291,7 +291,7 @@ white teeth.
 It was uphill work for a foreigner, lame or sound, to make his way with
 the Bleeding Hearts. In the first place, they were vaguely persuaded
 that every foreigner had a knife about him; in the second, they held it
-to be a sound constitutional national axiom that he ought to go home to
+to be a sound constitutional national axiom that he ought to go [[Home|home]] to
 his own country. They never thought of inquiring how many of their own
 countrymen would be returned upon their hands from divers parts of the
 world, if the principle were generally recognised; they considered it
@@ -302,34 +302,34 @@ his country because it did things that England did not, and did not do
 things that England did. In this belief, to be sure, they had long been
 carefully trained by the Barnacles and Stiltstalkings, who were always
 proclaiming to them, officially, that no country which failed to submit
-itself to those two large families could possibly hope to be under the
-protection of Providence; and who, when they believed it, disparaged
+itself to those two large families could possibly [[Hope|hope]] to be under the
+protection of [[Providence]]; and who, when they believed it, disparaged
 them in private as the most prejudiced people under the sun.
 
 This, therefore, might be called a political position of the Bleeding
 Hearts; but they entertained other objections to having foreigners
 in the Yard. They believed that foreigners were always badly off; and
-though they were as ill off themselves as they could desire to be,
+though they were as ill off themselves as they could [[Desire|desire]] to be,
 that did not diminish the force of the objection. They believed that
 foreigners were dragooned and bayoneted; and though they certainly got
-their own skulls promptly fractured if they showed any ill-humour, still
+their own skulls promptly fractured if they showed any ill-[[Humour|humour]], still
 it was with a blunt instrument, and that didn’t count. They believed
 that foreigners were always immoral; and though they had an occasional
-assize at home, and now and then a divorce case or so, that had nothing
+assize at [[Home|home]], and now and then a [[divorce]] case or so, that had nothing
 to do with it. They believed that foreigners had no independent spirit,
 as never being escorted to the poll in droves by Lord Decimus Tite
 Barnacle, with colours flying and the tune of Rule Britannia playing.
 Not to be tedious, they had many other beliefs of a similar kind.
 
 Against these obstacles, the lame foreigner with the stick had to make
-head as well as he could; not absolutely single-handed, because Mr
-Arthur Clennam had recommended him to the Plornishes (he lived at the
-top of the same house), but still at heavy odds. However, the Bleeding
+head as [[Well|well]] as he could; not absolutely single-handed, because Mr
+[[Arthur Clennam]] had recommended him to the Plornishes (he lived at the
+top of the same [[house]]), but still at heavy odds. However, the Bleeding
 Hearts were kind hearts; and when they saw the little fellow cheerily
 limping about with a good-humoured face, doing no harm, drawing no
 knives, committing no outrageous immoralities, living chiefly on
 farinaceous and milk diet, and playing with Mrs Plornish’s children of
-an evening, they began to think that although he could never hope to be
+an evening, they began to think that although he could never [[Hope|hope]] to be
 an Englishman, still it would be hard to visit that affliction on his
 head. They began to accommodate themselves to his level, calling him ‘Mr
 Baptist,’ but treating him like a baby, and laughing immoderately at his
@@ -339,32 +339,32 @@ were stone deaf. They constructed sentences, by way of teaching him the
 language in its purity, such as were addressed by the savages to Captain
 Cook, or by Friday to Robinson Crusoe. Mrs Plornish was particularly
 ingenious in this art; and attained so much celebrity for saying ‘Me ope
-you leg well soon,’ that it was considered in the Yard but a very short
+you leg [[Well|well]] soon,’ that it was considered in the Yard but a very short
 remove indeed from speaking Italian. Even Mrs Plornish herself began to
 think that she had a natural call towards that language. As he became
 more popular, household objects were brought into requisition for his
 instruction in a copious vocabulary; and whenever he appeared in the
 Yard ladies would fly out at their doors crying ‘Mr Baptist--tea-pot!’
-‘Mr Baptist--dust-pan!’ ‘Mr Baptist--flour-dredger!’ ‘Mr
-Baptist--coffee-biggin!’ At the same time exhibiting those articles,
+‘Mr Baptist--[[Dust|dust]]-pan!’ ‘Mr Baptist--flour-dredger!’ ‘Mr
+Baptist--coffee-biggin!’ At the same [[Time|time]] exhibiting those articles,
 and penetrating him with a sense of the appalling difficulties of the
 Anglo-Saxon tongue.
 
 It was in this stage of his progress, and in about the third week of his
-occupation, that Mr Pancks’s fancy became attracted by the little man.
+occupation, that [[Mr Pancks]]’s fancy became attracted by the little man.
 Mounting to his attic, attended by Mrs Plornish as interpreter, he found
 Mr Baptist with no furniture but his bed on the ground, a table, and a
 chair, carving with the aid of a few simple tools, in the blithest way
 possible.
 
-‘Now, old chap,’ said Mr Pancks, ‘pay up!’
+‘Now, old chap,’ said [[Mr Pancks]], ‘pay up!’
 
 He had his money ready, folded in a scrap of paper, and laughingly
 handed it in; then with a free action, threw out as many fingers of his
 right hand as there were shillings, and made a cut crosswise in the air
 for an odd sixpence.
 
-‘Oh!’ said Mr Pancks, watching him, wonderingly. ‘That’s it, is it?
+‘Oh!’ said [[Mr Pancks]], watching him, wonderingly. ‘That’s it, is it?
 You’re a quick customer. It’s all right. I didn’t expect to receive it,
 though.’
 
@@ -372,32 +372,32 @@ Mrs Plornish here interposed with great condescension, and explained to
 Mr Baptist. ‘E please. E glad get money.’
 
 The little man smiled and nodded. His bright face seemed uncommonly
-attractive to Mr Pancks. ‘How’s he getting on in his limb?’ he asked Mrs
+attractive to [[Mr Pancks]]. ‘How’s he getting on in his limb?’ he asked Mrs
 Plornish.
 
 ‘Oh, he’s a deal better, sir,’ said Mrs Plornish. ‘We expect next week
 he’ll be able to leave off his stick entirely.’ (The opportunity
 being too favourable to be lost, Mrs Plornish displayed her great
-accomplishment by explaining with pardonable pride to Mr Baptist, ‘E ope
-you leg well soon.’)
+accomplishment by explaining with pardonable [[Pride|pride]] to Mr Baptist, ‘E ope
+you leg [[Well|well]] soon.’)
 
-‘He’s a merry fellow, too,’ said Mr Pancks, admiring him as if he were a
+‘He’s a merry fellow, too,’ said [[Mr Pancks]], admiring him as if he were a
 mechanical toy. ‘How does he live?’
 
 ‘Why, sir,’ rejoined Mrs Plornish, ‘he turns out to have quite a power
-of carving them flowers that you see him at now.’ (Mr Baptist, watching
+of carving them [[Flowers|flowers]] that you see him at now.’ (Mr Baptist, watching
 their faces as they spoke, held up his work. Mrs Plornish interpreted in
-her Italian manner, on behalf of Mr Pancks, ‘E please. Double good!’)
+her Italian manner, on behalf of [[Mr Pancks]], ‘E please. [[Double]] good!’)
 
-‘Can he live by that?’ asked Mr Pancks.
+‘Can he live by that?’ asked [[Mr Pancks]].
 
 ‘He can live on very little, sir, and it is expected as he will be able,
-in time, to make a very good living. Mr Clennam got it him to do, and
+in [[Time|time]], to make a very good living. Mr Clennam got it him to do, and
 gives him odd jobs besides in at the Works next door--makes ‘em for him,
 in short, when he knows he wants ‘em.’
 
 ‘And what does he do with himself, now, when he ain’t hard at it?’ said
-Mr Pancks.
+[[Mr Pancks]].
 
 ‘Why, not much as yet, sir, on accounts I suppose of not being able to
 walk much; but he goes about the Yard, and he chats without particular
@@ -405,7 +405,7 @@ understanding or being understood, and he plays with the children,
 and he sits in the sun--he’ll sit down anywhere, as if it was an
 arm-chair--and he’ll sing, and he’ll laugh!’
 
-‘Laugh!’ echoed Mr Pancks. ‘He looks to me as if every tooth in his head
+‘Laugh!’ echoed [[Mr Pancks]]. ‘He looks to me as if every tooth in his head
 was always laughing.’
 
 ‘But whenever he gets to the top of the steps at t’other end of the
@@ -429,11 +429,11 @@ Plornish.
 Altro!’
 
 Mr Baptist in his vivacious way repeating the word several times, Mr
-Pancks in his duller way gave it him back once. From that time it became
-a frequent custom with Pancks the gipsy, as he went home jaded at night,
+Pancks in his duller way gave it him back once. From that [[Time|time]] it became
+a frequent custom with Pancks the gipsy, as he went [[Home|home]] jaded at [[Night|night]],
 to pass round by Bleeding Heart Yard, go quietly up the stairs, look in
 at Mr Baptist’s door, and, finding him in his room, to say, ‘Hallo, old
 chap! Altro!’ To which Mr Baptist would reply with innumerable bright
 nods and smiles, ‘Altro, signore, altro, altro, altro!’ After this
-highly condensed conversation, Mr Pancks would go his way with an
+highly condensed conversation, [[Mr Pancks]] would go his way with an
 appearance of being lightened and refreshed.

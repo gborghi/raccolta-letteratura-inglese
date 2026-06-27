@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 37 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 37 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-as for others, the question is between ourselves alone: you cannot
+as for others, the question is between ourselves [[Alone|alone]]: you cannot
 
 injure your husband, you know, and no one else has any concern in the
 
@@ -24,13 +24,13 @@ matter.”
 
 “I have a son, Mr. Hargrave, and you have a mother,” said I, retiring
 
-from the window, whither he had followed me.
+from the [[Window|window]], whither he had followed me.
 
 
 
 “They need not know,” he began; but before anything more could be said
 
-on either side, Esther and Arthur re-entered the room. The former
+on either side, Esther and [[arthur|Arthur]] re-entered the room. The former
 
 glanced at Walter’s flushed, excited countenance, and then at mine—a
 
@@ -46,7 +46,7 @@ She seated herself on the sofa, and putting back her bright, golden
 
 ringlets, that were scattered in wild profusion over her face, she
 
-immediately began to talk about the garden and her little playfellow,
+immediately began to talk about the [[Garden|garden]] and her little playfellow,
 
 and continued to chatter away in her usual strain till her brother
 
@@ -62,7 +62,7 @@ me: I merely bowed, and her countenance fell. She thought it a poor
 
 return for Walter’s generous concession, and was disappointed in her
 
-friend. Poor child, she little knows the world she lives in!
+friend. Poor [[Child|child]], she little knows the world she lives in!
 
 
 
@@ -70,7 +70,7 @@ Mr. Hargrave had not an opportunity of meeting me again in private for
 
 several weeks after this; but when he did meet me there was less of
 
-pride and more of touching melancholy in his manner than before. Oh,
+[[Pride|pride]] and more of touching [[Melancholy|melancholy]] in his manner than before. Oh,
 
 _how_ he annoyed me! I was obliged at last almost entirely to remit my
 
@@ -90,7 +90,7 @@ not, Rachel did. That sharp-sighted woman soon guessed how matters
 
 stood between us, and descrying the enemy’s movements from her
 
-elevation at the nursery-window, she would give me a quiet intimation
+elevation at the nursery-[[Window|window]], she would give me a quiet intimation
 
 if she saw me preparing for a walk when she had reason to believe he
 
@@ -108,9 +108,9 @@ afflicted, I would take Rachel with me, and then I was never molested.
 
 But one mild, sunshiny day, early in November, I had ventured forth
 
-alone to visit the village school and a few of the poor tenants, and on
+[[Alone|alone]] to visit the village school and a few of the poor tenants, and on
 
-my return I was alarmed at the clatter of a horse’s feet behind me,
+my return I was alarmed at the clatter of a [[Horse|horse]]’s feet behind me,
 
 approaching at a rapid, steady trot. There was no stile or gap at hand
 
@@ -118,7 +118,7 @@ by which I could escape into the fields, so I walked quietly on, saying
 
 to myself, “It may not be he after all; and if it is, and if he _do_
 
-annoy me, it shall be for the last time, I am determined, if there be
+annoy me, it shall be for the last [[Time|time]], I am determined, if there be
 
 power in words and looks against cool impudence and mawkish
 
@@ -126,23 +126,23 @@ sentimentality so inexhaustible as his.”
 
 
 
-The horse soon overtook me, and was reined up close beside me. It _was_
+The [[Horse|horse]] soon overtook me, and was reined up close beside me. It _was_
 
 Mr. Hargrave. He greeted me with a smile intended to be soft and
 
-melancholy, but his triumphant satisfaction at having caught me at last
+[[Melancholy|melancholy]], but his triumphant satisfaction at having caught me at last
 
 so shone through that it was quite a failure. After briefly answering
 
 his salutation and inquiring after the ladies at the Grove, I turned
 
-away and walked on; but he followed and kept his horse at my side: it
+away and walked on; but he followed and kept his [[Horse|horse]] at my side: it
 
 was evident he intended to be my companion all the way.
 
 
 
-“Well! I don’t much care. If you want another rebuff, take it—and
+“[[Well]]! I don’t much care. If you want another rebuff, take it—and
 
 welcome,” was my inward remark. “Now, sir, what next?”
 
@@ -160,13 +160,13 @@ tones the following appeal to my humanity:—
 
 Huntingdon—_you_ may have forgotten the circumstance, but _I_ never
 
-can. I admired you then most deeply, but I dared not love you. In the
+can. I admired you then most deeply, but I dared not [[Love|love]] you. In the
 
-following autumn I saw so much of your perfections that I could not
+following [[Autumn|autumn]] I saw so much of your perfections that I could not
 
-fail to love you, though I dared not show it. For upwards of three
+fail to [[Love|love]] you, though I dared not show it. For upwards of three
 
-years I have endured a perfect martyrdom. From the anguish of
+years I have endured a perfect [[Martyrdom|martyrdom]]. From the anguish of
 
 suppressed emotions, intense and fruitless longings, silent sorrow,
 
@@ -174,9 +174,9 @@ crushed hopes, and trampled affections, I have suffered more than I can
 
 tell, or you imagine—and you were the cause of it, and not altogether
 
-the innocent cause. My youth is wasting away; my prospects are
+the [[Innocent|innocent]] cause. My youth is wasting away; my prospects are
 
-darkened; my life is a desolate blank; I have no rest day or night: I
+darkened; my life is a desolate blank; I have no rest day or [[Night|night]]: I
 
 am become a burden to myself and others, and you might save me by a
 
@@ -186,13 +186,13 @@ word—a glance, and will not do it—is this right?”
 
 “In the first place, _I_ don’t believe _you_,” answered I; “in the
 
-second, if you will be such a fool, I can’t hinder it.”
+second, if you will be such a [[Fool|fool]], I can’t hinder it.”
 
 
 
 “If you affect,” replied he, earnestly, “to regard as folly the best,
 
-the strongest, the most godlike impulses of our nature, I don’t believe
+the strongest, the most godlike impulses of our [[Nature|nature]], I don’t believe
 
 you. I know you are not the heartless, icy being you pretend to be—you
 
@@ -202,16 +202,16 @@ utterly unworthy of the treasure, you reclaimed it; and you will not
 
 _pretend_ that you loved that sensual, earthly-minded profligate so
 
-deeply, so devotedly, that you can never love another? I know that
+deeply, so devotedly, that you can never [[Love|love]] another? I know that
 
-there are feelings in your nature that have never yet been called
+there are feelings in your [[Nature|nature]] that have never yet been called
 
 forth; I know, too, that in your present neglected lonely state you are
 
 and _must_ be miserable. You have it in your power to raise two human
 
-beings from a state of actual suffering to such unspeakable beatitude
+beings from a state of actual [[Suffering|suffering]] to such unspeakable beatitude
 
-as only generous, noble, self-forgetting love can give (for you _can_
+as only generous, noble, [[Self|self]]-forgetting [[Love|love]] can give (for you _can_
 
-love me if you will); you may tell me that you scorn and detest me,
+[[Love|love]] me if you will); you may tell me that you scorn and detest me,

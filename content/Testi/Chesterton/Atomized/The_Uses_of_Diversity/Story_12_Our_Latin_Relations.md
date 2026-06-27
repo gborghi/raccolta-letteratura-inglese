@@ -19,7 +19,7 @@ Our Latin Relations
 IT is odd how often one may hear, in the middle of a very old and
 genuine English town, the remark, that it looks like a foreign town.
 I heard it only yesterday, standing on the ramparts of the noble
-hill of Rye, which overlooks the flats like a Mount of St. Michael
+[[Hill|hill]] of Rye, which overlooks the flats like a Mount of St. [[Michael]]
 left inland.  Most people know that Rye contains a mediaeval monument
 which might almost be called a mediaeval prophecy--a prophecy of modern
 things more awful than anything mediaeval.  It is an ancient tower,
@@ -29,10 +29,10 @@ Nothing could mark a thing as more continuously national than that
 Englishmen sundered by vast centuries should actually make the same
 mistake and should mispronounce the same word in the same way.
 
-There is in this small point a paradox we must understand,
+There is in this small point a [[Paradox|paradox]] we must understand,
 especially just now, if we are to have a really patriotic foreign policy.
-It is very unlucky that for some time our teaching of history
-has been rather the unteaching of history, because it has been
+It is very unlucky that for some [[Time|time]] our teaching of [[history]]
+has been rather the unteaching of [[history]], because it has been
 the unteaching of tradition.  Our histories told us we were Teuton;
 our legends told us we were Roman--and, as usual, the legends
 were right.  It is not only true that England is nowhere more
@@ -40,7 +40,7 @@ really English than where she is Roman--it is even true that she
 is nowhere more really English than where she is French.
 To take only the chance example, with which I began above, you could
 find nothing more national, more typical, more traditional, as a real
-piece of English history, than the very phrase "The Cinq Ports."
+piece of English [[history]], than the very phrase "The Cinq Ports."
 And it is all the more English because the word "cinq"
 is French and the word "port" is Latin.  A Teutonist professor,
 full of some folly about "folk-speech," might insist on our calling
@@ -62,7 +62,7 @@ Black Prince and a knight like Bertrand du Guesclin than there
 ever was between a sailor like Nelson and a soldier like Blucher.
 A town like Rye is full of memories of fighting with the French,
 especially in the Middle Ages; of raids to and fro across
-the narrow seas, in which the bells of the coast-town churches
+the narrow seas, in which [[The Bells|the bells]] of the coast-town churches
 were captured and recaptured; and there are spirited stories
 about the Abbot of Battle, worthy to be turned into ballads.
 But the very fact of these coast-town raids suggests that it
@@ -80,23 +80,23 @@ sang in their idle moments "Farewell and adieu to you,
 fine Spanish ladies," even when they had devoted their working
 hours to singeing the beards of the fine Spanish gentlemen.
 The children in the nurseries sang in imaginative triumph
-"The King of Spain's daughter came to visit me," though their
+"The [[King]] of Spain's daughter came to visit me," though their
 Elizabethan parents might have been lighting the beacons and
-calling out the train-bands to prevent the King of Spain's son,
-the noble Don John of Austria, from paying them such a visit.
+calling out the train-bands to prevent the [[King]] of Spain's son,
+the noble [[Don John of Austria]], from paying them such a visit.
 A thousand nursery rhymes and nonsense tags testify to a
 vast popular tradition that Southern Europe was the world
 to which we belonged.  We belonged to a system of which Rome
 was the sun, and of which the old Roman provinces were planets.
 We were never meant to pursue a meteor out of empty space,
 the comet of Teutonism.  Our place was in an order and a watch
-of stars, though one star might differ from another in glory.
-Our place was with that red star of Gaul which might well bear
-the name of Mars; or that morning and evening star which the Latins
-themselves named Lucifer, last to fade and first to return
-in every twilight of history; Italy, the light of the world.
+of [[Stars|stars]], though one star might differ from another in glory.
+Our place was with that red star of Gaul which might [[Well|well]] bear
+the name of Mars; or that morning and [[Evening Star|evening star]] which the Latins
+themselves named [[Lucifer]], last to fade and first to return
+in every twilight of [[history]]; [[Italy]], the light of the world.
 
-A Latin alliance is founded on our history, though not on
+A Latin alliance is founded on our [[history]], though not on
 our historians.  The French and English who fought each other
 round these southern harbours were also ready to help each other,
 and often did help each other.  Not only did they frequently go
@@ -106,13 +106,13 @@ Chaucer was exceedingly English, and therefore partly French;
 and he sends his ideal knight to fight the heathen in Prussia.
 Froissart was highly French, and therefore respectful to the English;
 and he says that the French and English always do courtesy,
-but the Germans never.  The truth is that all the old
+but the Germans never.  The [[Truth|truth]] is that all the old
 English traditions, scholarly and legendary, chivalric and vulgar,
 were at one in referring back to Roman culture, until we come
 to a new crop of very crude pedants in the nineteenth century.
 
 Most of them were prigs, and many of them were snobs--for it was
-largely a Court fashion, spread by Court poets and Court chaplains.
+largely a [[Court]] fashion, spread by [[Court]] poets and [[Court]] chaplains.
 It was like a huge, hideous, gilded German monument; and, fortunately,
 it has already fallen down.  But I think it undesirable that
 the mere discredited litter and lumber of it, left lying about,

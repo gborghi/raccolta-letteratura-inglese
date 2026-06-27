@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 47"
+title: "[[Oliver Twist]] — Chapter 47"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -18,13 +18,13 @@ tags:
 FATAL CONSEQUENCES
 
 
-It was nearly two hours before day-break; that time which in the autumn
-of the year, may be truly called the dead of night; when the streets
+It was nearly two hours before day-break; that [[Time|time]] which in the [[Autumn|autumn]]
+of the year, may be truly called the dead of [[Night|night]]; when the streets
 are silent and deserted; when even sounds appear to slumber, and
-profligacy and riot have staggered home to dream; it was at this still
-and silent hour, that Fagin sat watching in his old lair, with face so
-distorted and pale, and eyes so red and blood-shot, that he looked less
-like a man, than like some hideous phantom, moist from the grave, and
+profligacy and riot have staggered [[Home|home]] to dream; it was at this still
+and silent hour, that [[Fagin]] sat watching in his old lair, with face so
+distorted and pale, and eyes so red and [[Blood|blood]]-shot, that he looked less
+like a man, than like some hideous [[Phantom|phantom]], moist from the [[Grave|grave]], and
 worried by an evil spirit.
 
 He sat crouching over a cold hearth, wrapped in an old torn coverlet,
@@ -36,21 +36,21 @@ gums a few such fangs as should have been a dog’s or rat’s.
 Stretched upon a mattress on the floor, lay Noah Claypole, fast asleep.
 Towards him the old man sometimes directed his eyes for an instant, and
 then brought them back again to the candle; which with a long-burnt
-wick drooping almost double, and hot grease falling down in clots upon
+wick drooping almost [[Double|double]], and hot grease falling down in clots upon
 the table, plainly showed that his thoughts were busy elsewhere.
 
 Indeed they were. Mortification at the overthrow of his notable scheme;
 hatred of the girl who had dared to palter with strangers; and utter
 distrust of the sincerity of her refusal to yield him up; bitter
-disappointment at the loss of his revenge on Sikes; the fear of
-detection, and ruin, and death; and a fierce and deadly rage kindled by
+disappointment at the loss of his [[Revenge|revenge]] on Sikes; the [[Fear|fear]] of
+detection, and ruin, and [[Death|death]]; and a fierce and deadly rage kindled by
 all; these were the passionate considerations which, following close
 upon each other with rapid and ceaseless whirl, shot through the brain
-of Fagin, as every evil thought and blackest purpose lay working at his
+of [[Fagin]], as every evil thought and blackest purpose lay working at his
 heart.
 
 He sat without changing his attitude in the least, or appearing to take
-the smallest heed of time, until his quick ear seemed to be attracted
+the smallest heed of [[Time|time]], until his quick ear seemed to be attracted
 by a footstep in the street.
 
 “At last,” he muttered, wiping his dry and fevered mouth. “At last!”
@@ -64,7 +64,7 @@ outer coat, the man displayed the burly frame of Sikes.
 and do the most you can with it. It’s been trouble enough to get; I
 thought I should have been here, three hours ago.”
 
-Fagin laid his hand upon the bundle, and locking it in the cupboard,
+[[Fagin]] laid his hand upon the bundle, and locking it in the cupboard,
 sat down again without speaking. But he did not take his eyes off the
 robber, for an instant, during this action; and now that they sat over
 against each other, face to face, he looked fixedly at him, with his
@@ -74,50 +74,50 @@ his chair, and surveyed him with a look of real affright.
 
 “Wot now?” cried Sikes. “Wot do you look at a man so for?”
 
-Fagin raised his right hand, and shook his trembling forefinger in the
+[[Fagin]] raised his right hand, and shook his trembling forefinger in the
 air; but his passion was so great, that the power of speech was for the
 moment gone.
 
 “Damme!” said Sikes, feeling in his breast with a look of alarm. “He’s
 gone mad. I must look to myself here.”
 
-“No, no,” rejoined Fagin, finding his voice. “It’s not—you’re not the
+“No, no,” rejoined [[Fagin]], finding his voice. “It’s not—you’re not the
 person, Bill. I’ve no—no fault to find with you.”
 
 “Oh, you haven’t, haven’t you?” said Sikes, looking sternly at him, and
-ostentatiously passing a pistol into a more convenient pocket. “That’s
+ostentatiously passing a [[Pistol|pistol]] into a more convenient pocket. “That’s
 lucky—for one of us. Which one that is, don’t matter.”
 
-“I’ve got that to tell you, Bill,” said Fagin, drawing his chair
+“I’ve got that to tell you, Bill,” said [[Fagin]], drawing his chair
 nearer, “will make you worse than me.”
 
 “Aye?” returned the robber with an incredulous air. “Tell away! Look
 sharp, or Nance will think I’m lost.”
 
-“Lost!” cried Fagin. “She has pretty well settled that, in her own
+“Lost!” cried [[Fagin]]. “She has pretty [[Well|well]] settled that, in her own
 mind, already.”
 
 Sikes looked with an aspect of great perplexity into the Jew’s face,
-and reading no satisfactory explanation of the riddle there, clenched
+and reading no satisfactory explanation of the [[Riddle|riddle]] there, clenched
 his coat collar in his huge hand and shook him soundly.
 
 “Speak, will you!” he said; “or if you don’t, it shall be for want of
 breath. Open your mouth and say wot you’ve got to say in plain words.
 Out with it, you thundering old cur, out with it!”
 
-“Suppose that lad that’s laying there—” Fagin began.
+“Suppose that lad that’s laying there—” [[Fagin]] began.
 
 Sikes turned round to where Noah was sleeping, as if he had not
-previously observed him. “Well!” he said, resuming his former position.
+previously observed him. “[[Well]]!” he said, resuming his former position.
 
-“Suppose that lad,” pursued Fagin, “was to peach—to blow upon us
+“Suppose that lad,” pursued [[Fagin]], “was to peach—to blow upon us
 all—first seeking out the right folks for the purpose, and then having
 a meeting with ’em in the street to paint our likenesses, describe
 every mark that they might know us by, and the crib where we might be
 most easily taken. Suppose he was to do all this, and besides to blow
 upon a plan we’ve all been in, more or less—of his own fancy; not
 grabbed, trapped, tried, earwigged by the parson and brought to it on
-bread and water,—but of his own fancy; to please his own taste;
+bread and [[Water|water]],—but of his own fancy; to please his own taste;
 stealing out at nights to find those most interested against us, and
 peaching to them. Do you hear me?” cried the Jew, his eyes flashing
 with rage. “Suppose he did all this, what then?”
@@ -126,13 +126,13 @@ with rage. “Suppose he did all this, what then?”
 alive till I came, I’d grind his skull under the iron heel of my boot
 into as many grains as there are hairs upon his head.”
 
-“What if I did it!” cried Fagin almost in a yell. “I, that knows so
+“What if I did it!” cried [[Fagin]] almost in a yell. “I, that knows so
 much, and could hang so many besides myself!”
 
 “I don’t know,” replied Sikes, clenching his teeth and turning white at
 the mere suggestion. “I’d do something in the jail that ’ud get me put
 in irons; and if I was tried along with you, I’d fall upon you with
-them in the open court, and beat your brains out afore the people. I
+them in the open [[Court|court]], and beat your brains out afore the people. I
 should have such strength,” muttered the robber, poising his brawny
 arm, “that I could smash your head as if a loaded waggon had gone over
 it.”
@@ -146,20 +146,20 @@ it.”
 “I don’t care who,” replied Sikes impatiently. “Whoever it was, I’d
 serve them the same.”
 
-Fagin looked hard at the robber; and, motioning him to be silent,
-stooped over the bed upon the floor, and shook the sleeper to rouse
+[[Fagin]] looked hard at the robber; and, motioning him to be silent,
+stooped over the bed upon the floor, and shook [[The Sleeper|the sleeper]] to rouse
 him. Sikes leant forward in his chair: looking on with his hands upon
 his knees, as if wondering much what all this questioning and
 preparation was to end in.
 
-“Bolter, Bolter! Poor lad!” said Fagin, looking up with an expression
+“Bolter, Bolter! Poor lad!” said [[Fagin]], looking up with an expression
 of devilish anticipation, and speaking slowly and with marked emphasis.
 “He’s tired—tired with watching for her so long,—watching for _her_,
 Bill.”
 
 “Wot d’ye mean?” asked Sikes, drawing back.
 
-Fagin made no answer, but bending over the sleeper again, hauled him
+[[Fagin]] made no answer, but bending over [[The Sleeper|the sleeper]] again, hauled him
 into a sitting posture. When his assumed name had been repeated several
 times, Noah rubbed his eyes, and, giving a heavy yawn, looked sleepily
 about him.
@@ -169,13 +169,13 @@ pointing to Sikes as he spoke.
 
 “Tell yer what?” asked the sleepy Noah, shaking himself pettishly.
 
-“That about— _Nancy_,” said Fagin, clutching Sikes by the wrist, as if
-to prevent his leaving the house before he had heard enough. “You
+“That about— _Nancy_,” said [[Fagin]], clutching Sikes by the wrist, as if
+to prevent his leaving the [[house]] before he had heard enough. “You
 followed her?”
 
 “Yes.”
 
-“To London Bridge?”
+“To [[London]] Bridge?”
 
 “Yes.”
 
@@ -184,49 +184,49 @@ followed her?”
 “So she did.”
 
 “A gentleman and a lady that she had gone to of her own accord before,
-who asked her to give up all her pals, and Monks first, which she
-did—and to describe him, which she did—and to tell her what house it
+who asked her to give up all her pals, and [[Monks]] first, which she
+did—and to describe him, which she did—and to tell her what [[house]] it
 was that we meet at, and go to, which she did—and where it could be
-best watched from, which she did—and what time the people went there,
+best watched from, which she did—and what [[Time|time]] the people went there,
 which she did. She did all this. She told it all every word without a
-threat, without a murmur—she did—did she not?” cried Fagin, half mad
+threat, without a murmur—she did—did she not?” cried [[Fagin]], half mad
 with fury.
 
 “All right,” replied Noah, scratching his head. “That’s just what it
 was!”
 
-“What did they say, about last Sunday?”
+“What did they say, about last [[Sunday]]?”
 
-“About last Sunday!” replied Noah, considering. “Why I told yer that
+“About last [[Sunday]]!” replied Noah, considering. “Why I told yer that
 before.”
 
-“Again. Tell it again!” cried Fagin, tightening his grasp on Sikes, and
+“Again. Tell it again!” cried [[Fagin]], tightening his grasp on Sikes, and
 brandishing his other hand aloft, as the foam flew from his lips.
 
 “They asked her,” said Noah, who, as he grew more wakeful, seemed to
 have a dawning perception who Sikes was, “they asked her why she didn’t
-come, last Sunday, as she promised. She said she couldn’t.”
+come, last [[Sunday]], as she promised. She said she couldn’t.”
 
 “Why—why? Tell him that.”
 
-“Because she was forcibly kept at home by Bill, the man she had told
+“Because she was forcibly kept at [[Home|home]] by Bill, the man she had told
 them of before,” replied Noah.
 
-“What more of him?” cried Fagin. “What more of the man she had told
+“What more of him?” cried [[Fagin]]. “What more of the man she had told
 them of before? Tell him that, tell him that.”
 
 “Why, that she couldn’t very easily get out of doors unless he knew
-where she was going to,” said Noah; “and so the first time she went to
+where she was going to,” said Noah; “and so the first [[Time|time]] she went to
 see the lady, she—ha! ha! ha! it made me laugh when she said it, that
 it did—she gave him a drink of laudanum.”
 
-“Hell’s fire!” cried Sikes, breaking fiercely from the Jew. “Let me
+“Hell’s [[Fire|fire]]!” cried Sikes, breaking fiercely from the Jew. “Let me
 go!”
 
 Flinging the old man from him, he rushed from the room, and darted,
 wildly and furiously, up the stairs.
 
-“Bill, Bill!” cried Fagin, following him hastily. “A word. Only a
+“Bill, Bill!” cried [[Fagin]], following him hastily. “A word. Only a
 word.”
 
 The word would not have been exchanged, but that the housebreaker was
@@ -236,22 +236,22 @@ violence, when the Jew came panting up.
 “Let me out,” said Sikes. “Don’t speak to me; it’s not safe. Let me
 out, I say!”
 
-“Hear me speak a word,” rejoined Fagin, laying his hand upon the lock.
+“Hear me speak a word,” rejoined [[Fagin]], laying his hand upon the lock.
 “You won’t be—”
 
-“Well,” replied the other.
+“[[Well]],” replied the other.
 
 “You won’t be—too—violent, Bill?”
 
 The day was breaking, and there was light enough for the men to see
-each other’s faces. They exchanged one brief glance; there was a fire
+each other’s faces. They exchanged one brief glance; there was a [[Fire|fire]]
 in the eyes of both, which could not be mistaken.
 
-“I mean,” said Fagin, showing that he felt all disguise was now
+“I mean,” said [[Fagin]], showing that he felt all disguise was now
 useless, “not too violent for safety. Be crafty, Bill, and not too
 bold.”
 
-Sikes made no reply; but, pulling open the door, of which Fagin had
+Sikes made no reply; but, pulling open the door, of which [[Fagin]] had
 turned the lock, dashed into the silent streets.
 
 Without one pause, or moment’s consideration; without once turning his
@@ -261,11 +261,11 @@ resolution: his teeth so tightly compressed that the strained jaw
 seemed starting through his skin; the robber held on his headlong
 course, nor muttered a word, nor relaxed a muscle, until he reached his
 own door. He opened it, softly, with a key; strode lightly up the
-stairs; and entering his own room, double-locked the door, and lifting
+stairs; and entering his own room, [[Double|double]]-locked the door, and lifting
 a heavy table against it, drew back the curtain of the bed.
 
 The girl was lying, half-dressed, upon it. He had roused her from her
-sleep, for she raised herself with a hurried and startled look.
+[[Sleep|sleep]], for she raised herself with a hurried and startled look.
 
 “Get up!” said the man.
 
@@ -276,7 +276,7 @@ return.
 
 There was a candle burning, but the man hastily drew it from the
 candlestick, and hurled it under the grate. Seeing the faint light of
-early day without, the girl rose to undraw the curtain.
+early day without, the girl [[Rose|rose]] to undraw the curtain.
 
 “Let it be,” said Sikes, thrusting his hand before her. “There’s enough
 light for wot I’ve got to do.”
@@ -290,44 +290,44 @@ dragged her into the middle of the room, and looking once towards the
 door, placed his heavy hand upon her mouth.
 
 “Bill, Bill!” gasped the girl, wrestling with the strength of mortal
-fear,—“I—I won’t scream or cry—not once—hear me—speak to me—tell me
+[[Fear|fear]],—“I—I won’t scream or cry—not once—hear me—speak to me—tell me
 what I have done!”
 
 “You know, you she devil!” returned the robber, suppressing his breath.
 “You were watched tonight; every word you said was heard.”
 
-“Then spare my life for the love of Heaven, as I spared yours,”
+“Then spare my life for the [[Love|love]] of Heaven, as I spared yours,”
 rejoined the girl, clinging to him. “Bill, dear Bill, you cannot have
 the heart to kill me. Oh! think of all I have given up, only this one
-night, for you. You _shall_ have time to think, and save yourself this
+[[Night|night]], for you. You _shall_ have [[Time|time]] to think, and save yourself this
 crime; I will not loose my hold, you cannot throw me off. Bill, Bill,
 for dear God’s sake, for your own, for mine, stop before you spill my
-blood! I have been true to you, upon my guilty soul I have!”
+[[Blood|blood]]! I have been true to you, upon my guilty [[Soul|soul]] I have!”
 
 The man struggled violently, to release his arms; but those of the girl
 were clasped round his, and tear her as he would, he could not tear
 them away.
 
 “Bill,” cried the girl, striving to lay her head upon his breast, “the
-gentleman and that dear lady, told me tonight of a home in some
-foreign country where I could end my days in solitude and peace. Let me
-see them again, and beg them, on my knees, to show the same mercy and
+gentleman and that dear lady, told me tonight of a [[Home|home]] in some
+foreign country where I could end my days in [[Solitude|solitude]] and peace. Let me
+see them again, and beg them, on my knees, to show the same [[Mercy|mercy]] and
 goodness to you; and let us both leave this dreadful place, and far
 apart lead better lives, and forget how we have lived, except in
 prayers, and never see each other more. It is never too late to repent.
-They told me so—I feel it now—but we must have time—a little, little
-time!”
+They told me so—I feel it now—but we must have [[Time|time]]—a little, little
+[[Time|time]]!”
 
-The housebreaker freed one arm, and grasped his pistol. The certainty
+The housebreaker freed one arm, and grasped his [[Pistol|pistol]]. The certainty
 of immediate detection if he fired, flashed across his mind even in the
 midst of his fury; and he beat it twice with all the force he could
 summon, upon the upturned face that almost touched his own.
 
-She staggered and fell: nearly blinded with the blood that rained down
+She staggered and fell: nearly blinded with the [[Blood|blood]] that rained down
 from a deep gash in her forehead; but raising herself, with difficulty,
-on her knees, drew from her bosom a white handkerchief—Rose Maylie’s
+on her knees, drew from her bosom a white handkerchief—[[Rose Maylie]]’s
 own—and holding it up, in her folded hands, as high towards Heaven as
-her feeble strength would allow, breathed one prayer for mercy to her
+her feeble strength would allow, breathed one [[prayer]] for [[Mercy|mercy]] to her
 Maker.
 
 It was a ghastly figure to look upon. The murderer staggering backward

@@ -18,7 +18,7 @@ Mr Sparkler opined that he painted anything, if he could get the job.
 
 ‘He has no particular walk?’ said Mr Dorrit.
 
-Mr Sparkler, stimulated by Love to brilliancy, replied that for a
+Mr Sparkler, stimulated by [[Love]] to brilliancy, replied that for a
 particular walk a man ought to have a particular pair of shoes; as, for
 example, shooting, shooting-shoes; cricket, cricket-shoes. Whereas, he
 believed that Henry Gowan had no particular pair of shoes.
@@ -29,8 +29,8 @@ This being a very long word for Mr Sparkler, and his mind being
 exhausted by his late effort, he replied, ‘No, thank you. I seldom take
 it.’
 
-‘Well!’ said Mr Dorrit. ‘It would be very agreeable to me to present
-a gentleman so connected, with some--ha--Testimonial of my desire to
+‘[[Well]]!’ said Mr Dorrit. ‘It would be very agreeable to me to present
+a gentleman so connected, with some--ha--Testimonial of my [[Desire|desire]] to
 further his interests, and develop the--hum--germs of his genius. I
 think I must engage Mr Gowan to paint my picture. If the result should
 be--ha--mutually satisfactory, I might afterwards engage him to try his
@@ -45,7 +45,7 @@ express the idea, it returned to the skies.
 This was the more to be regretted as Miss Fanny greatly applauded the
 notion of the portrait, and urged her papa to act upon it. She surmised,
 she said, that Mr Gowan had lost better and higher opportunities by
-marrying his pretty wife; and Love in a cottage, painting pictures for
+marrying his pretty wife; and [[Love]] in a cottage, painting pictures for
 dinner, was so delightfully interesting, that she begged her papa to
 give him the commission whether he could paint a likeness or not: though
 indeed both she and Amy knew he could, from having seen a speaking
@@ -53,8 +53,8 @@ likeness on his easel that day, and having had the opportunity of
 comparing it with the original. These remarks made Mr Sparkler (as
 perhaps they were intended to do) nearly distracted; for while on
 the one hand they expressed Miss Fanny’s susceptibility of the tender
-passion, she herself showed such an innocent unconsciousness of his
-admiration that his eyes goggled in his head with jealousy of an unknown
+passion, she herself showed such an [[Innocent|innocent]] unconsciousness of his
+admiration that his eyes goggled in his head with [[Jealousy|jealousy]] of an unknown
 rival.
 
 Descending into the sea again after dinner, and ascending out of it
@@ -64,7 +64,7 @@ and Mr Sparkler entered on an evening of agony. The theatre being
 dark, and the box light, several visitors lounged in during the
 representation; in whom Fanny was so interested, and in conversation
 with whom she fell into such charming attitudes, as she had little
-confidences with them, and little disputes concerning the identity of
+confidences with them, and little disputes concerning the [[Identity|identity]] of
 people in distant boxes, that the wretched Sparkler hated all mankind.
 But he had two consolations at the close of the performance. She gave
 him her fan to hold while she adjusted her cloak, and it was his
@@ -77,10 +77,10 @@ with other lights were ready at many of the doors. The Dorrit Merman
 held his lantern low, to show the steps, and Mr Sparkler put on another
 heavy set of fetters over his former set, as he watched her radiant
 feet twinkling down the stairs beside him. Among the loiterers here, was
-Blandois of Paris. He spoke, and moved forward beside Fanny.
+Blandois of [[Paris]]. He spoke, and moved forward beside Fanny.
 
 Little Dorrit was in front with her brother and Mrs General (Mr Dorrit
-had remained at home), but on the brink of the quay they all came
+had remained at [[Home|home]]), but on the brink of the quay they all came
 together. She started again to find Blandois close to her, handing Fanny
 into the boat.
 
@@ -90,7 +90,7 @@ visit from fair ladies.’
 ‘A loss?’ repeated Fanny, relinquished by the bereaved Sparkler, and
 taking her seat.
 
-‘A loss,’ said Blandois. ‘His dog Lion.’
+‘A loss,’ said Blandois. ‘His dog [[Lion]].’
 
 Little Dorrit’s hand was in his, as he spoke.
 
@@ -99,6 +99,6 @@ Little Dorrit’s hand was in his, as he spoke.
 
 ‘Dead?’ echoed Little Dorrit. ‘That noble dog?’
 
-‘Faith, dear ladies!’ said Blandois, smiling and shrugging his
+‘[[Faith]], dear ladies!’ said Blandois, smiling and shrugging his
 shoulders, ‘somebody has poisoned that noble dog. He is as dead as the
 Doges!’

@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE VENGEANCE OF THE STATUE (part 8)"
+title: "[[manwho]] — THE VENGEANCE OF THE STATUE (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -18,7 +18,7 @@ had located the great enemy battery, and were pounding it to pieces.
 
 
 
-In the mad excitement of that moment March peered through the storm,
+In the mad excitement of that moment March peered through the [[Storm|storm]],
 
 looking again for the long lean figure that stood beside the stand
 
@@ -32,9 +32,9 @@ Before the fires of the rocket had faded from the sky, long before
 
 the first gun had sounded from the distant hills, a splutter of
 
-rifle fire had flashed and flickered all around from the hidden
+rifle [[Fire|fire]] had flashed and flickered all around from the hidden
 
-trenches of the enemy. Something lay in the shadow at the foot of
+trenches of the enemy. Something lay in the [[Shadow|shadow]] at the foot of
 
 the ridge, as stiff as the stick of the fallen rocket; and the man
 
@@ -212,7 +212,7 @@ copying, distributing, performing, displaying or creating derivative
 
 works based on the work as long as all references to Project Gutenberg
 
-are removed.  Of course, we hope that you will support the Project
+are removed.  Of course, we [[Hope|hope]] that you will support the Project
 
 Gutenberg-tm mission of promoting free access to electronic works by
 

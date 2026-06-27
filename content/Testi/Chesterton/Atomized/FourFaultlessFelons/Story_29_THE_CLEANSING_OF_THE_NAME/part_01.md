@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE CLEANSING OF THE NAME (part 1)"
+title: "[[FourFaultlessFelons]] — THE CLEANSING OF THE NAME (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -18,7 +18,7 @@ VI THE CLEANSING OF THE NAME
 
 
 
-THE trial and acquittal of Alan Nadoway in a court of law was only an
+THE trial and acquittal of Alan Nadoway in a [[Court|court]] of law was only an
 
 epilogue to the real drama. He would perhaps have said that it was only a
 
@@ -32,7 +32,7 @@ scenery, stiff and yet extravagant, with the jagged outlines of the
 
 foreign plants like the jaws of sharks and the low line of bow windows
 
-like the motor-goggles of a monster. With all its grotesqueness there had
+like the motor-goggles of a [[Monster|monster]]. With all its grotesqueness there had
 
 always mingled in her mind something almost operatic and yet genuine;
 
@@ -40,7 +40,7 @@ something of real sentiment or passion that there was in the Victorian
 
 nineteenth century, despite all that is said of Victorian primness and
 
-restraint. It was that essentially innocent, that faulty but not cynical
+restraint. It was that essentially [[Innocent|innocent]], that faulty but not cynical
 
 thing, the Romantic Movement. The man standing before her, with his
 
@@ -54,7 +54,7 @@ music was like an old tune.
 
 
 
-She had just said the words: "I cannot bear the silence, because it is
+She had just said the words: "I cannot bear the [[Silence|silence]], because it is
 
 unjust. It is unjust to you."
 
@@ -68,7 +68,7 @@ story."
 
 
 
-"I do not mind your talking in riddles," answered Millicent Milton
+"I do not mind your talking in riddles," answered Millicent [[Milton]]
 
 steadily, "but I want you to understand something more. It is unjust to
 
@@ -76,11 +76,11 @@ me."
 
 
 
-After a silence he said in a low voice: "Yes; that is what has got me.
+After a [[Silence|silence]] he said in a low voice: "Yes; that is what has got me.
 
 That is what has broken me across. I've come up against something bigger
 
-than the whole plan I made for my life. Well, I suppose I shall have to
+than the whole plan I made for my life. [[Well]], I suppose I shall have to
 
 tell you my story."
 
@@ -98,7 +98,7 @@ nothing but the important things left out."
 
 
 
-"Well," said Millicent, "I should certainly like to hear it with the
+"[[Well]]," said Millicent, "I should certainly like to hear it with the
 
 important things put in."
 
@@ -108,21 +108,21 @@ important things put in."
 
 described. The words all go wrong when you describe such things. They
 
-were bigger than shipwrecks or desert islands, but they all happened
+were bigger than shipwrecks or [[Desert|desert]] islands, but they all happened
 
 inside my head."
 
 
 
-After a silence he resumed, more slowly, like a man trying to find new
+After a [[Silence|silence]] he resumed, more slowly, like a man trying to find new
 
 words.
 
 
 
-"When I was drowning in the Pacific, I think I had a Vision. I rose for
+"When I was drowning in the Pacific, I think I had a Vision. I [[Rose|rose]] for
 
-the third time to the top of a great wave and I saw a Vision. I think
+the third [[Time|time]] to the top of a great wave and I saw a Vision. I think
 
 that what I saw was Religion."
 
@@ -148,9 +148,9 @@ hers. It was not in the least like Alfred de Musset.
 
 
 
-With the uncanny clairvoyance of the mystic he seemed to seize on her
+With the [[Uncanny|uncanny]] clairvoyance of the mystic he seemed to seize on her
 
-passing doubt and said cheerfully: "Oh, I don't mean that I met a Baptist
+passing [[Doubt|doubt]] and said cheerfully: "Oh, I don't mean that I met a Baptist
 
 missionary. There are two kinds of missionaries: the right kind and the
 
@@ -178,7 +178,7 @@ as a glimpse of Religion. It's an awful thing.
 
 "I learnt something about it from the lunatic with whom I lived on the
 
-desert island. I told you he had practically gone mad, as well as gone
+[[Desert|desert]] island. I told you he had practically gone mad, as [[Well|well]] as gone
 
 native. But there was something to learn from him, that can't be learnt
 
@@ -186,7 +186,7 @@ from ethical societies and popular preachers. The poor fellow had floated
 
 to shore by hanging on to a queer, old-fashioned umbrella, that happened
 
-to have the head carved in a grotesque face, and when he came raving out
+to have the head carved in a [[Grotesque|grotesque]] face, and when he came raving out
 
 of his delirium, so far as he ever came out of it, he regarded the
 
@@ -226,7 +226,7 @@ the top of the wave the vision of the divine umbrella."
 
 "And do you think," he asked, "that what I saw was a picture of angels
 
-playing harps out of the Family Bible? What I saw, so far as I can be
+playing harps out of the Family [[Bible]]? What I saw, so far as I can be
 
 said to have merely seen anything, was my father sitting at the head of
 

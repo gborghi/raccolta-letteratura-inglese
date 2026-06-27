@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 13 (part 5)"
+title: "[[Shirley]] — Chapter 13 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -34,7 +34,7 @@ sunshine at the bare mention of it."
 
 "I should like it much," returned Caroline, to whom, indeed, the notion
 
-of such a tour was not only pleasant, but gloriously reviving. Shirley
+of such a tour was not only pleasant, but gloriously reviving. [[Shirley]]
 
 rubbed her hands.
 
@@ -50,11 +50,11 @@ though, for I adore them), but, it may be, health to the drooping,
 
 strength to the weak, consolation to the sad. I was determined to make
 
-something of it better than a fine old house to live in, than satin
+something of it better than a fine old [[house]] to live in, than satin
 
 gowns to wear, better than deference from acquaintance and homage from
 
-the poor. Here is to begin. This summer, Caroline, Mrs. Pryor and I go
+the poor. Here is to begin. This [[Summer|summer]], Caroline, Mrs. Pryor and I go
 
 out into the North Atlantic, beyond the Shetland, perhaps to the Faroe
 
@@ -66,15 +66,15 @@ done her good."
 
 
 
-"I shall like to go, Shirley," again said Miss Helstone. "I long to hear
+"I shall like to go, [[Shirley]]," again said Miss Helstone. "I long to hear
 
 the sound of waves--ocean-waves--and to see them as I have imagined them
 
-in dreams, like tossing banks of green light, strewed with vanishing and
+in [[Dreams|dreams]], like tossing banks of green light, strewed with vanishing and
 
 reappearing wreaths of foam, whiter than lilies. I shall delight to pass
 
-the shores of those lone rock-islets where the sea-birds live and breed
+the shores of those lone rock-islets where the sea-[[Birds|birds]] live and breed
 
 unmolested. We shall be on the track of the old Scandinavians--of the
 
@@ -86,7 +86,7 @@ delight."
 
 
 
-"Will you think of Fitful Head now when you lie awake at night, of gulls
+"Will you think of Fitful Head now when you lie awake at [[Night|night]], of gulls
 
 shrieking round it, and waves tumbling in upon it, rather than of the
 
@@ -102,7 +102,7 @@ lying in the sunshine on solitary shores, where neither fisherman nor
 
 hunter ever come; of rock crevices full of pearly eggs bedded in
 
-seaweed; of unscared birds covering white sands in happy flocks."
+seaweed; of unscared [[Birds|birds]] covering white sands in happy flocks."
 
 
 
@@ -118,7 +118,7 @@ deep above a herd of whales rushing through the livid and liquid thunder
 
 down from the frozen zone--a hundred of them, perhaps, wallowing,
 
-flashing, rolling in the wake of a patriarch bull, huge enough to have
+flashing, [[rolling]] in the wake of a patriarch bull, huge enough to have
 
 been spawned before the Flood, such a creature as poor Smart had in his
 
@@ -132,7 +132,7 @@ mind when he said,--
 
 
 
-"I hope our bark will meet with no such shoal, or herd as you term it,
+"I [[Hope|hope]] our bark will meet with no such shoal, or herd as you term it,
 
 Caroline. (I suppose you fancy the sea-mammoths pasturing about the
 
@@ -144,7 +144,7 @@ like to be capsized by the patriarch bull."
 
 
 
-"I suppose you expect to see mermaids, Shirley?"
+"I suppose you expect to see mermaids, [[Shirley]]?"
 
 
 
@@ -154,9 +154,9 @@ appear in some such fashion as this. I am to be walking by myself on
 
 deck, rather late of an August evening, watching and being watched by a
 
-full harvest moon. Something is to rise white on the surface of the sea,
+full harvest [[Moon|moon]]. Something is to rise white on the surface of the sea,
 
-over which that moon mounts silent and hangs glorious. The object
+over which that [[Moon|moon]] mounts silent and hangs glorious. The object
 
 glitters and sinks. It rises again. I think I hear it cry with an
 
@@ -164,7 +164,7 @@ articulate voice; I call you up from the cabin; I show you an image,
 
 fair as alabaster, emerging from the dim wave. We both see the long
 
-hair, the lifted and foam-white arm, the oval mirror brilliant as a
+hair, the lifted and foam-white arm, the oval [[Mirror|mirror]] brilliant as a
 
 star. It glides nearer; a human face is plainly visible--a face in the
 
@@ -174,7 +174,7 @@ appropriate)--whose straight, pure lineaments paleness does not
 
 disfigure. It looks at us, but not with your eyes. I see a preternatural
 
-lure in its wily glance. It beckons. Were we men, we should spring at
+lure in its wily glance. It beckons. Were we men, we should [[spring]] at
 
 the sign--the cold billow would be dared for the sake of the colder
 
@@ -184,7 +184,7 @@ comprehends our unmoved gaze; she feels herself powerless; anger crosses
 
 her front; she cannot charm, but she will appal us; she rises high, and
 
-glides all revealed on the dark wave-ridge. Temptress-terror! monstrous
+glides all revealed on the dark wave-ridge. [[Temptress]]-terror! monstrous
 
 likeness of ourselves! Are you not glad, Caroline, when at last, and
 
@@ -192,7 +192,7 @@ with a wild shriek, she dives?"
 
 
 
-"But, Shirley, she is not like us. We are neither temptresses, nor
+"But, [[Shirley]], she is not like us. We are neither temptresses, nor
 
 terrors, nor monsters."
 
@@ -220,17 +220,17 @@ did? How can you find interest in speaking of a nonentity?"
 
 
 
-"I don't know," said Shirley.
+"I don't know," said [[Shirley]].
 
 
 
 "My dear, I think there is an arrival. I heard a step in the lane while
 
-you were talking; and is not that the garden-gate which creaks?"
+you were talking; and is not that the [[Garden|garden]]-gate which creaks?"
 
 
 
-Shirley stepped to the window.
+[[Shirley]] stepped to the [[Window|window]].
 
 
 

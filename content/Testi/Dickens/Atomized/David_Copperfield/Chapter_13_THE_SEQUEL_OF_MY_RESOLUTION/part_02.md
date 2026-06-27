@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 2)"
+title: "[[David Copperfield]] — Chapter 13: THE SEQUEL OF MY RESOLUTION (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,42 +14,42 @@ tags:
 </nav>
 
 
-What a different Sunday morning from the old Sunday morning at Yarmouth!
-In due time I heard the church-bells ringing, as I plodded on; and I met
+What a different [[Sunday]] morning from the old [[Sunday]] morning at Yarmouth!
+In due [[Time|time]] I heard the church-[[Bells|bells]] ringing, as I plodded on; and I met
 people who were going to church; and I passed a church or two where the
 congregation were inside, and the sound of singing came out into the
 sunshine, while the beadle sat and cooled himself in the shade of the
 porch, or stood beneath the yew-tree, with his hand to his forehead,
-glowering at me going by. But the peace and rest of the old Sunday
+glowering at me going by. But the peace and rest of the old [[Sunday]]
 morning were on everything, except me. That was the difference. I felt
-quite wicked in my dirt and dust, with my tangled hair. But for the
-quiet picture I had conjured up, of my mother in her youth and beauty,
-weeping by the fire, and my aunt relenting to her, I hardly think I
-should have had the courage to go on until next day. But it always went
+quite wicked in my dirt and [[Dust|dust]], with my tangled hair. But for the
+quiet picture I had conjured up, of my mother in her youth and [[Beauty|beauty]],
+weeping by the [[Fire|fire]], and my aunt relenting to her, I hardly think I
+should have had the [[Courage|courage]] to go on until next day. But it always went
 before me, and I followed.
 
-I got, that Sunday, through three-and-twenty miles on the straight
-road, though not very easily, for I was new to that kind of toil. I
+I got, that [[Sunday]], through three-and-twenty miles on the straight
+[[Road|road]], though not very easily, for I was new to that kind of toil. I
 see myself, as evening closes in, coming over the bridge at Rochester,
 footsore and tired, and eating bread that I had bought for supper.
 One or two little houses, with the notice, ‘Lodgings for Travellers’,
 hanging out, had tempted me; but I was afraid of spending the few pence
 I had, and was even more afraid of the vicious looks of the trampers I
 had met or overtaken. I sought no shelter, therefore, but the sky; and
-toiling into Chatham,--which, in that night’s aspect, is a mere dream of
-chalk, and drawbridges, and mastless ships in a muddy river, roofed
+toiling into Chatham,--which, in that [[Night|night]]’s aspect, is a mere dream of
+[[chalk]], and drawbridges, and mastless ships in a muddy [[River|river]], roofed
 like Noah’s arks,--crept, at last, upon a sort of grass-grown battery
 overhanging a lane, where a sentry was walking to and fro. Here I
 lay down, near a cannon; and, happy in the society of the sentry’s
 footsteps, though he knew no more of my being above him than the boys
-at Salem House had known of my lying by the wall, slept soundly until
+at Salem [[house|House]] had known of my lying by the wall, slept soundly until
 morning.
 
 Very stiff and sore of foot I was in the morning, and quite dazed by the
 beating of drums and marching of troops, which seemed to hem me in on
 every side when I went down towards the long narrow street. Feeling
 that I could go but a very little way that day, if I were to reserve any
-strength for getting to my journey’s end, I resolved to make the sale
+strength for getting to my [[Journey|journey]]’s end, I resolved to make the sale
 of my jacket its principal business. Accordingly, I took the jacket off,
 that I might learn to do without it; and carrying it under my arm, began
 a tour of inspection of the various slop-shops.
@@ -58,8 +58,8 @@ It was a likely place to sell a jacket in; for the dealers in
 second-hand clothes were numerous, and were, generally speaking, on the
 look-out for customers at their shop doors. But as most of them had,
 hanging up among their stock, an officer’s coat or two, epaulettes and
-all, I was rendered timid by the costly nature of their dealings, and
-walked about for a long time without offering my merchandise to anyone.
+all, I was rendered timid by the costly [[Nature|nature]] of their dealings, and
+walked about for a long [[Time|time]] without offering my merchandise to anyone.
 
 This modesty of mine directed my attention to the marine-store shops,
 and such shops as Mr. Dolloby’s, in preference to the regular dealers.
@@ -72,15 +72,15 @@ many sizes that they seemed various enough to open all the doors in the
 world.
 
 Into this shop, which was low and small, and which was darkened
-rather than lighted by a little window, overhung with clothes, and was
+rather than lighted by a little [[Window|window]], overhung with clothes, and was
 descended into by some steps, I went with a palpitating heart; which was
 not relieved when an ugly old man, with the lower part of his face all
 covered with a stubbly grey beard, rushed out of a dirty den behind it,
 and seized me by the hair of my head. He was a dreadful old man to look
 at, in a filthy flannel waistcoat, and smelling terribly of rum. His
 bedstead, covered with a tumbled and ragged piece of patchwork, was in
-the den he had come from, where another little window showed a prospect
-of more stinging-nettles, and a lame donkey.
+the den he had come from, where another little [[Window|window]] showed a prospect
+of more stinging-nettles, and a lame [[donkey]].
 
 ‘Oh, what do you want?’ grinned this old man, in a fierce, monotonous
 whine. ‘Oh, my eyes and limbs, what do you want? Oh, my lungs and liver,
@@ -97,7 +97,7 @@ himself, with an energy that made his eyes start in his head.
 
 ‘I wanted to know,’ I said, trembling, ‘if you would buy a jacket.’
 
-‘Oh, let’s see the jacket!’ cried the old man. ‘Oh, my heart on fire,
+‘Oh, let’s see the jacket!’ cried the old man. ‘Oh, my heart on [[Fire|fire]],
 show the jacket to us! Oh, my eyes and limbs, bring the jacket out!’
 
 With that he took his trembling hands, which were like the claws of a
@@ -107,18 +107,18 @@ ornamental to his inflamed eyes.
 ‘Oh, how much for the jacket?’ cried the old man, after examining it.
 ‘Oh--goroo!--how much for the jacket?’
 
-‘Half-a-crown,’ I answered, recovering myself.
+‘Half-a-[[Crown|crown]],’ I answered, recovering myself.
 
 ‘Oh, my lungs and liver,’ cried the old man, ‘no! Oh, my eyes, no! Oh,
 my limbs, no! Eighteenpence. Goroo!’
 
-Every time he uttered this ejaculation, his eyes seemed to be in danger
+Every [[Time|time]] he uttered this ejaculation, his eyes seemed to be in danger
 of starting out; and every sentence he spoke, he delivered in a sort
-of tune, always exactly the same, and more like a gust of wind, which
+of tune, always exactly the same, and more like a gust of [[Wind|wind]], which
 begins low, mounts up high, and falls again, than any other comparison I
 can find for it.
 
-‘Well,’ said I, glad to have closed the bargain, ‘I’ll take
+‘[[Well]],’ said I, glad to have closed the bargain, ‘I’ll take
 eighteenpence.’
 
 ‘Oh, my liver!’ cried the old man, throwing the jacket on a shelf. ‘Get

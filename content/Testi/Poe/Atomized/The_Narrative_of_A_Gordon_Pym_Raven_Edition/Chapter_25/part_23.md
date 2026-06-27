@@ -24,11 +24,11 @@ tags:
 
 
 
-      About all this there was a nobility of soul—a dignity of
+      About all this there was a nobility of [[Soul|soul]]—a dignity of
 
       candor—which delighted—which enchanted me—which eternally riveted
 
-      my chains. I could scarcely restrain the excessive transport
+      my [[Chains|chains]]. I could scarcely restrain the excessive transport
 
       which possessed me.
 
@@ -40,11 +40,11 @@ tags:
 
       what then? The customs of the world are so many conventional
 
-      follies. To those who love as ourselves, in what respect differs
+      follies. To those who [[Love|love]] as ourselves, in what respect differs
 
       a year from an hour? I am twenty-two, you say; granted: indeed,
 
-      you may as well call me, at once, twenty-three. Now you yourself,
+      you may as [[Well|well]] call me, at once, twenty-three. Now you yourself,
 
       my dearest Eugénie, can have numbered no more than—can have
 
@@ -76,13 +76,13 @@ tags:
 
       represents. Besides, upon the back of the trinket you may
 
-      discover, perhaps, the very information you seem to desire. It is
+      discover, perhaps, the very information you seem to [[Desire|desire]]. It is
 
       now, to be sure, growing rather dark—but you can examine it at
 
       your leisure in the morning. In the meantime, you shall be my
 
-      escort home to-night. My friends are about holding a little
+      escort [[Home|home]] to-[[Night|night]]. My friends are about holding a little
 
       musical _levée_. I can promise you, too, some good singing. We
 
@@ -94,7 +94,7 @@ tags:
 
 
 
-      With this, she took my arm, and I attended her home. The mansion
+      With this, she took my arm, and I attended her [[Home|home]]. The mansion
 
       was quite a fine one, and, I believe, furnished in good taste. Of
 
@@ -102,7 +102,7 @@ tags:
 
       it was just dark as we arrived; and in American mansions of the
 
-      better sort lights seldom, during the heat of summer, make their
+      better sort lights seldom, during the heat of [[Summer|summer]], make their
 
       appearance at this, the most pleasant period of the day. In about
 
@@ -116,11 +116,11 @@ tags:
 
       company chiefly assembled, remained, during the whole evening, in
 
-      a very agreeable shadow. This is a well-conceived custom, giving
+      a very agreeable [[Shadow|shadow]]. This is a [[Well|well]]-conceived custom, giving
 
       the party at least a choice of light or shade, and one which our
 
-      friends over the water could not do better than immediately
+      friends over the [[Water|water]] could not do better than immediately
 
       adopt.
 
@@ -136,7 +136,7 @@ tags:
 
       performers were many and of superior talents. The vocalists were
 
-      chiefly ladies, and no individual sang less than well. At length,
+      chiefly ladies, and no individual sang less than [[Well|well]]. At length,
 
       upon a peremptory call for “Madame Lalande,” she arose at once,
 
@@ -148,7 +148,7 @@ tags:
 
       main drawing-room. I would have escorted her myself, but felt
 
-      that, under the circumstances of my introduction to the house, I
+      that, under the circumstances of my introduction to the [[house]], I
 
       had better remain unobserved where I was. I was thus deprived of
 
@@ -162,7 +162,7 @@ tags:
 
       know not how adequately to describe it. It arose in part, no
 
-      doubt, from the sentiment of love with which I was imbued; but
+      [[Doubt|doubt]], from the sentiment of [[Love|love]] with which I was imbued; but
 
       chiefly from my conviction of the extreme sensibility of the
 
@@ -170,11 +170,11 @@ tags:
 
       recitative with more impassioned expression than was hers. Her
 
-      utterance of the romance in Otello—the tone with which she gave
+      utterance of the [[Romance|romance]] in Otello—the tone with which she gave
 
       the words “Sul mio sasso,” in the Capuletti—is ringing in my
 
-      memory yet. Her lower tones were absolutely miraculous. Her voice
+      [[Memory|memory]] yet. Her lower tones were absolutely miraculous. Her voice
 
       embraced three complete octaves, extending from the contralto D
 
@@ -196,7 +196,7 @@ tags:
 
 
 
-      Here, in imitation of Malibran, she modified the original phrase
+      Here, in [[Imitation|imitation]] of Malibran, she modified the original phrase
 
       of Bellini, so as to let her voice descend to the tenor G, when,
 

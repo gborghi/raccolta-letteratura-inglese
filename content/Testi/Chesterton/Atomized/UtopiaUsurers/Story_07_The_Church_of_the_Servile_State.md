@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Church of the Servile State"
+title: "[[UtopiaUsurers]] — The Church of the Servile State"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -28,7 +28,7 @@ believing in God should be a reason for my believing in Him.
 
 But the rather spinsterish flutter among some of the old Freethinkers
 
-has put one tiny ripple of truth in it; and that affects the idea which
+has put one tiny ripple of [[Truth|truth]] in it; and that affects the idea which
 
 I wish to emphasise even to monotony in these pages. I mean the idea
 
@@ -64,7 +64,7 @@ it--or he would be obviously below it. Take even the least attractive
 
 and popular side of the larger religions to-day; take the mere vetoes
 
-imposed by Islam on Atheism or Catholicism. The Moslem veto upon
+imposed by [[Islam]] on Atheism or Catholicism. The Moslem veto upon
 
 intoxicants cuts across all classes. But it is absolutely necessary for
 
@@ -76,7 +76,7 @@ between gin and champagne. The Atheist veto upon all miracles cuts
 
 across all classes. But it is absolutely necessary for the capitalist to
 
-make a distinction between his wife (who is an aristocrat and consults
+make a distinction between his wife (who is an [[aristocrat]] and consults
 
 crystal gazers and star gazers in the West End), and vulgar miracles
 
@@ -120,7 +120,7 @@ there are other pleasures of the poor which cannot mean profits for the
 
 rich? Watch this one contrast, and you will watch the whole creation of
 
-a careful slavery.
+a careful [[Slavery|slavery]].
 
 
 

@@ -14,14 +14,14 @@ tags:
 </nav>
 
 
-Taking a donkey towards his ordinary place of residence, is a very
+Taking a [[donkey]] towards his ordinary place of residence, is a very
 different thing, and a feat much more easily to be accomplished, than
 taking him from it. It requires a great deal of foresight and presence
 of mind in the one case, to anticipate the numerous flights of his
-discursive imagination; whereas, in the other, all you have to do, is,
+discursive [[Imagination|imagination]]; whereas, in the other, all you have to do, is,
 to hold on, and place a blind confidence in the animal. Mr. Cymon Tuggs
 adopted the latter expedient on his return; and his nerves were so
-little discomposed by the journey, that he distinctly understood they
+little discomposed by the [[Journey|journey]], that he distinctly understood they
 were all to meet again at the library in the evening.
 
 The library was crowded. There were the same ladies, and the same
@@ -29,7 +29,7 @@ gentlemen, who had been on the sands in the morning, and on the pier
 the day before. There were young ladies, in maroon-coloured gowns and
 black velvet bracelets, dispensing fancy articles in the shop, and
 presiding over games of chance in the concert-room. There were
-marriageable daughters, and marriage-making mammas, gaming and
+marriageable daughters, and [[Marriage|marriage]]-making mammas, gaming and
 promenading, and turning over music, and flirting. There were some male
 beaux doing the sentimental in whispers, and others doing the ferocious
 in moustache. There were Mrs. Tuggs in amber, Miss Tuggs in sky-blue,
@@ -59,7 +59,7 @@ of the numbers, crowded round the table.
 ‘Will you throw, ma’am?’ said the presiding goddess, handing the
 dice-box to the eldest daughter of a stout lady, with four girls.
 
-There was a profound silence among the lookers-on.
+There was a profound [[Silence|silence]] among the lookers-on.
 
 ‘Throw, Jane, my dear,’ said the stout lady. An interesting display of
 bashfulness—a little blushing in a cambric handkerchief—a whispering to
@@ -92,13 +92,13 @@ the individual first addressed, were perfectly contented.
 short female, in a blue velvet hat and feathers, was led into the
 orchestra, by a fat man in black tights and cloudy Berlins.
 
-‘Mrs. Tippin, of the London theatres,’ replied Belinda, referring to
+‘Mrs. Tippin, of the [[London]] theatres,’ replied Belinda, referring to
 the programme of the concert.
 
 The talented Tippin having condescendingly acknowledged the clapping of
 hands, and shouts of ‘bravo!’ which greeted her appearance, proceeded
 to sing the popular cavatina of ‘Bid me discourse,’ accompanied on the
-piano by Mr. Tippin; after which, Mr. Tippin sang a comic song,
+piano by Mr. Tippin; after which, Mr. Tippin sang a comic [[Song|song]],
 accompanied on the piano by Mrs. Tippin: the applause consequent upon
 which, was only to be exceeded by the enthusiastic approbation bestowed
 upon an air with variations on the guitar, by Miss Tippin, accompanied
@@ -106,15 +106,15 @@ on the chin by Master Tippin.
 
 Thus passed the evening; thus passed the days and evenings of the
 Tuggses, and the Waterses, for six weeks. Sands in the morning—donkeys
-at noon—pier in the afternoon—library at night—and the same people
+at [[Noon|noon]]—pier in the afternoon—library at [[Night|night]]—and the same people
 everywhere.
 
-On that very night six weeks, the moon was shining brightly over the
+On that very [[Night|night]] six weeks, the [[Moon|moon]] was shining brightly over the
 calm sea, which dashed against the feet of the tall gaunt cliffs, with
-just enough noise to lull the old fish to sleep, without disturbing the
+just enough noise to lull the old fish to [[Sleep|sleep]], without disturbing the
 young ones, when two figures were discernible—or would have been, if
 anybody had looked for them—seated on one of the wooden benches which
-are stationed near the verge of the western cliff. The moon had climbed
+are stationed near the verge of the western cliff. The [[Moon|moon]] had climbed
 higher into the heavens, by two hours’ journeying, since those figures
 first sat down—and yet they had moved not. The crowd of loungers had
 thinned and dispersed; the noise of itinerant musicians had died away;
@@ -122,26 +122,26 @@ light after light had appeared in the windows of the different houses
 in the distance; blockade-man after blockade-man had passed the spot,
 wending his way towards his solitary post; and yet those figures had
 remained stationary. Some portions of the two forms were in deep
-shadow, but the light of the moon fell strongly on a puce-coloured boot
+[[Shadow|shadow]], but the light of the [[Moon|moon]] fell strongly on a puce-coloured boot
 and a glazed stock. Mr. Cymon Tuggs and Mrs. Captain Waters were seated
 on that bench. They spoke not, but were silently gazing on the sea.
 
 ‘Walter will return to-morrow,’ said Mrs. Captain Waters, mournfully
-breaking silence.
+breaking [[Silence|silence]].
 
-Mr. Cymon Tuggs sighed like a gust of wind through a forest of
+Mr. Cymon Tuggs sighed like a gust of [[Wind|wind]] through a forest of
 gooseberry bushes, as he replied, ‘Alas! he will.’
 
 ‘Oh, Cymon!’ resumed Belinda, ‘the chaste delight, the calm happiness,
-of this one week of Platonic love, is too much for me!’ Cymon was about
+of this one week of Platonic [[Love|love]], is too much for me!’ Cymon was about
 to suggest that it was too little for him, but he stopped himself, and
 murmured unintelligibly.
 
-‘And to think that even this gleam of happiness, innocent as it is,’
+‘And to think that even this gleam of happiness, [[Innocent|innocent]] as it is,’
 exclaimed Belinda, ‘is now to be lost for ever!’
 
 ‘Oh, do not say for ever, Belinda,’ exclaimed the excitable Cymon, as
-two strongly-defined tears chased each other down his pale face—it was
+two strongly-defined [[Tears|tears]] chased each other down his pale face—it was
 so long that there was plenty of room for a chase. ‘Do not say for
 ever!’
 
@@ -151,24 +151,24 @@ ever!’
 harmless, that even your husband can never object to it.’
 
 ‘My husband!’ exclaimed Belinda. ‘You little know him. Jealous and
-revengeful; ferocious in his revenge—a maniac in his jealousy! Would
+revengeful; ferocious in his [[Revenge|revenge]]—a maniac in his [[Jealousy|jealousy]]! Would
 you be assassinated before my eyes?’ Mr. Cymon Tuggs, in a voice broken
 by emotion, expressed his disinclination to undergo the process of
 assassination before the eyes of anybody.
 
-‘Then leave me,’ said Mrs. Captain Waters. ‘Leave me, this night, for
+‘Then leave me,’ said Mrs. Captain Waters. ‘Leave me, this [[Night|night]], for
 ever. It is late: let us return.’
 
 Mr. Cymon Tuggs sadly offered the lady his arm, and escorted her to her
 lodgings. He paused at the door—he felt a Platonic pressure of his
-hand. ‘Good night,’ he said, hesitating.
+hand. ‘Good [[Night|night]],’ he said, hesitating.
 
-‘Good night,’ sobbed the lady. Mr. Cymon Tuggs paused again.
+‘Good [[Night|night]],’ sobbed the lady. Mr. Cymon Tuggs paused again.
 
 ‘Won’t you walk in, sir?’ said the servant. Mr. Tuggs hesitated. Oh,
 that hesitation! He _did_ walk in.
 
-‘Good night!’ said Mr. Cymon Tuggs again, when he reached the
+‘Good [[Night|night]]!’ said Mr. Cymon Tuggs again, when he reached the
 drawing-room.
 
-‘Good night!’ replied Belinda; ‘and, if at any period of my life,
+‘Good [[Night|night]]!’ replied Belinda; ‘and, if at any period of my life,

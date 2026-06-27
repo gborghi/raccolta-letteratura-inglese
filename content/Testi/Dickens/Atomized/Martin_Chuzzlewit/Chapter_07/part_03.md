@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 7 (part 3)"
+title: "[[Martin Chuzzlewit]] — Chapter 7 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -32,7 +32,7 @@ here just now, and think he would be cheaply got rid of, perhaps, for
 three or four pounds. You haven’t enough money to pay this bill, I
 suppose?’
 
-Tom shook his head to an extent that left no doubt of his entire
+Tom shook his head to an extent that left no [[Doubt|doubt]] of his entire
 sincerity.
 
 ‘That’s unfortunate, for I am poor too; and in case you had had it, I’d
@@ -47,12 +47,12 @@ this gentleman hitherto, perhaps you’ll tell him what we purpose doing;
 will you?’
 
 Mr Pinch, complying, at once imparted the intelligence to Mr Tigg, who
-shook him warmly by the hand in return, assuring him that his faith in
+shook him warmly by the hand in return, assuring him that his [[Faith|faith]] in
 anything and everything was again restored. It was not so much, he said,
 for the temporary relief of this assistance that he prized it, as for
-its vindication of the high principle that Nature’s Nobs felt with
-Nature’s Nobs, and that true greatness of soul sympathized with true
-greatness of soul, all the world over. It proved to him, he said, that
+its vindication of the high principle that [[Nature]]’s Nobs felt with
+[[Nature]]’s Nobs, and that true [[Greatness|greatness]] of [[Soul|soul]] sympathized with true
+[[Greatness|greatness]] of [[Soul|soul]], all the world over. It proved to him, he said, that
 like him they admired genius, even when it was coupled with the alloy
 occasionally visible in the metal of his friend Slyme; and on behalf
 of that friend, he thanked them; as warmly and heartily as if the
@@ -71,7 +71,7 @@ out-at-elbows who flourished on false pretences; and had conceived a
 particular aversion to Mr Tigg and his friend, as choice specimens of
 the species. The business in hand thus easily settled, Mr Pinch and
 Martin would have withdrawn immediately, but for the urgent entreaties
-of Mr Tigg that they would allow him the honour of presenting them
+of Mr Tigg that they would allow him the [[Honour|honour]] of presenting them
 to his friend Slyme, which were so very difficult of resistance that,
 yielding partly to these persuasions and partly to their own curiosity,
 they suffered themselves to be ushered into the presence of that
@@ -92,14 +92,14 @@ dissipated such means as he ever possessed, had formally established
 himself as a professor of Taste for a livelihood; and finding, too late,
 that something more than his old amount of qualifications was necessary
 to sustain him in this calling, had quickly fallen to his present level,
-where he retained nothing of his old self but his boastfulness and his
+where he retained nothing of his old [[Self|self]] but his boastfulness and his
 bile, and seemed to have no existence separate or apart from his friend
 Tigg. And now so abject and so pitiful was he--at once so maudlin,
 insolent, beggarly, and proud--that even his friend and parasite,
 standing erect beside him, swelled into a Man by contrast.
 
 ‘Chiv,’ said Mr Tigg, clapping him on the back, ‘my friend Pecksniff not
-being at home, I have arranged our trifling piece of business with Mr
+being at [[Home|home]], I have arranged our trifling piece of business with Mr
 Pinch and friend. Mr Pinch and friend, Mr Chevy Slyme! Chiv, Mr Pinch
 and friend!’
 
@@ -109,7 +109,7 @@ Pinch. ‘I am the most miserable man in the world, I believe!’
 
 Tom begged he wouldn’t mention it; and finding him in this condition,
 retired, after an awkward pause, followed by Martin. But Mr Tigg so
-urgently conjured them, by coughs and signs, to remain in the shadow of
+urgently conjured them, by coughs and signs, to remain in the [[Shadow|shadow]] of
 the door, that they stopped there.
 
 ‘I swear,’ cried Mr Slyme, giving the table an imbecile blow with his
@@ -117,7 +117,7 @@ fist, and then feebly leaning his head upon his hand, while some drunken
 drops oozed from his eyes, ‘that I am the wretchedest creature on
 record. Society is in a conspiracy against me. I’m the most literary
 man alive. I’m full of scholarship. I’m full of genius; I’m full of
-information; I’m full of novel views on every subject; yet look at my
+information; I’m full of [[Novel|novel]] views on every subject; yet look at my
 condition! I’m at this moment obliged to two strangers for a tavern
 bill!’
 

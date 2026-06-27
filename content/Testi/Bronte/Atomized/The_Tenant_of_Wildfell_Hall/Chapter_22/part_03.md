@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 22 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 22 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,11 +20,11 @@ me, and then bolted from the room.”
 
 
 
-“I hope he broke your head,” said I.
+“I [[Hope|hope]] he broke your head,” said I.
 
 
 
-“No, love,” replied he, laughing immoderately at the recollection of
+“No, [[Love|love]],” replied he, laughing immoderately at the recollection of
 
 the whole affair; “he would have done so,—and perhaps, spoilt my face,
 
@@ -48,19 +48,19 @@ contrary, he would cling to me, and follow me anywhere but to the club,
 
 and the gaming-houses, and such-like dangerous places of resort—he was
 
-so weary of his own moping, melancholy mind. At last, I got him to come
+so weary of his own moping, [[Melancholy|melancholy]] mind. At last, I got him to come
 
 in with me to the club, on condition that I would not tempt him to
 
-drink; and, for some time, he continued to look in upon us pretty
+drink; and, for some [[Time|time]], he continued to look in upon us pretty
 
 regularly of an evening,—still abstaining, with wonderful perseverance,
 
-from the ‘rank poison’ he had so bravely forsworn. But some of our
+from the ‘rank [[Poison|poison]]’ he had so bravely forsworn. But some of our
 
 members protested against this conduct. They did not like to have him
 
-sitting there like a skeleton at a feast, instead of contributing his
+sitting there like a [[skeleton]] at a feast, instead of contributing his
 
 quota to the general amusement, casting a cloud over all, and watching,
 
@@ -70,7 +70,7 @@ was not fair; and some of them maintained that he should either be
 
 compelled to do as others did, or expelled from the society; and swore
 
-that, next time he showed himself, they would tell him as much, and, if
+that, next [[Time|time]] he showed himself, they would tell him as much, and, if
 
 he did not take the warning, proceed to active measures. However, I
 
@@ -80,7 +80,7 @@ a while, intimating that, with a little patience on our parts, he would
 
 soon come round again. But, to be sure, it _was_ rather provoking; for,
 
-though he refused to drink like an honest Christian, it was well known
+though he refused to drink like an honest Christian, it was [[Well|well]] known
 
 to me that he kept a private bottle of laudanum about him, which he was
 
@@ -90,19 +90,19 @@ one day and exceeding the next—just like the spirits.
 
 
 
-“One night, however, during one of our orgies—one of our high
+“One [[Night|night]], however, during one of our orgies—one of our high
 
-festivals, I mean—he glided in, like the ghost in ‘Macbeth,’ and seated
+festivals, I mean—he glided in, like the [[Ghost|ghost]] in ‘[[Macbeth]],’ and seated
 
 himself, as usual, a little back from the table, in the chair we always
 
 placed for ‘the spectre,’ whether it chose to fill it or not. I saw by
 
-his face that he was suffering from the effects of an overdose of his
+his face that he was [[Suffering|suffering]] from the effects of an overdose of his
 
 insidious comforter; but nobody spoke to him, and he spoke to nobody. A
 
-few sidelong glances, and a whispered observation, that ‘the ghost was
+few sidelong glances, and a whispered observation, that ‘the [[Ghost|ghost]] was
 
 come,’ was all the notice he drew by his appearance, and we went on
 
@@ -114,7 +114,7 @@ and exclaiming with portentous solemnity,—
 
 
 
-‘Well! it puzzles me what you can find to be so merry about. What _you_
+‘[[Well]]! it puzzles me what you can find to be so merry about. What _you_
 
 see in life I don’t know—_I_ see only the blackness of darkness, and a
 
@@ -190,11 +190,11 @@ recommended him to ‘take a little wine for his stomach’s sake,’ and,
 
 when he was sufficiently re-established, to embrace the media-via,
 
-ni-jamais-ni-toujours plan—not to kill himself like a fool, and not to
+ni-jamais-ni-toujours plan—not to kill himself like a [[Fool|fool]], and not to
 
 abstain like a ninny—in a word, to enjoy himself like a rational
 
-creature, and do as I did; for, don’t think, Helen, that I’m a tippler;
+creature, and do as I did; for, don’t think, [[Helen]], that I’m a tippler;
 
 I’m nothing at all of the kind, and never was, and never shall be. I
 
@@ -214,11 +214,11 @@ more than it did.
 
 
 
-“And did Lord Lowborough profit by your advice?” I asked.
+“And did [[Lord Lowborough]] profit by your advice?” I asked.
 
 
 
-“Why, yes, in a manner. For a while he managed very well; indeed, he
+“Why, yes, in a manner. For a while he managed very [[Well|well]]; indeed, he
 
 was a model of moderation and prudence—something too much so for the
 

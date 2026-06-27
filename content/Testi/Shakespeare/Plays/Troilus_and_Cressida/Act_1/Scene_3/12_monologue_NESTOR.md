@@ -1,5 +1,5 @@
 ---
-title: "Troilus and Cressida — Act I, Scene 3 — monologue (NESTOR) [12]"
+title: "[[Troilus]] and [[Cressida]] — Act I, Scene 3 — monologue (NESTOR) [12]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/TROILUS-AND-CRESSIDA-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| NESTOR | Yes, ‘tis most meet. Who may you else oppose, That can from Hector bring his honour off, If not Achilles? Though’t be a sportful combat, Yet in this trial much opinion dwells, For here the Trojans taste our dear’st repute With their fin‘st palate. And trust to me, Ulysses, Our imputation shall be oddly poised In this wild action: for the success, Although particular, shall give a scantling Of good or bad unto the general— And in such indices, although small pricks To their subsequent volumes, there is seen The baby figure of the giant mass Of things to come at large. It is supposed He that meets Hector issues from our choice, And choice, being mutual act of all our souls, Makes merit her election, and doth boil, As ’twere, from forth us all a man distilled Out of our virtues—who miscarrying, What heart from hence receives the conqu‘ring part To steel a strong opinion to themselves? Which entertained, limbs are e’en his instruments, In no less working than are swords and bows Directive by the limbs. |
+| NESTOR | Yes, ‘tis most meet. Who may you else oppose, That can from [[Hector]] bring his [[Honour|honour]] off, If not [[Achilles]]? Though’t be a sportful combat, Yet in this trial much opinion dwells, For here the Trojans taste our dear’st repute With their fin‘st palate. And trust to me, [[Ulysses]], Our imputation shall be oddly poised In this wild action: for the [[success]], Although particular, shall give a scantling Of good or bad unto the general— And in such indices, although small pricks To their subsequent volumes, there is seen The baby figure of the giant mass Of things to come at large. It is supposed He that meets [[Hector]] issues from our choice, And choice, being mutual act of all our souls, Makes merit her election, and doth boil, As ’twere, from forth us all a man distilled Out of our virtues—who miscarrying, What heart from hence receives the conqu‘ring part To steel a strong opinion to themselves? Which entertained, limbs are e’en his instruments, In no less working than are swords and bows Directive by the limbs. |

@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 22 (part 3)"
+title: "[[The Professor]] — Chapter 22 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -34,7 +34,7 @@ all.”
 
 
 
-“That was your fault, not theirs. There are sensible, as well as
+“That was your fault, not theirs. There are sensible, as [[Well|well]] as
 
 handsome women in X----; women it is worth any man’s while to talk to,
 
@@ -60,11 +60,11 @@ you are generally unpopular, it is because you deserve to be so.”
 
 
 
-“No, you are not content; you see beauty always turning its back on
+“No, you are not content; you see [[Beauty|beauty]] always turning its back on
 
 you; you are mortified and then you sneer. I verily believe all that is
 
-desirable on earth--wealth, reputation, love--will for ever to you be
+desirable on earth--wealth, reputation, [[Love|love]]--will for ever to you be
 
 the ripe grapes on the high trellis: you’ll look up at them; they will
 
@@ -78,7 +78,7 @@ sour.”
 
 Cutting as these words might have been under some circumstances, they
 
-drew no blood now. My life was changed; my experience had been varied
+drew no [[Blood|blood]] now. My life was changed; my experience had been varied
 
 since I left X----, but Hunsden could not know this; he had seen me only
 
@@ -94,13 +94,13 @@ be scorned as worthless. He could not be aware that since then youth and
 
 loveliness had been to me everyday objects; that I had studied them at
 
-leisure and closely, and had seen the plain texture of truth under
+leisure and closely, and had seen the plain texture of [[Truth|truth]] under
 
 the embroidery of appearance; nor could he, keen-sighted as he
 
 was, penetrate into my heart, search my brain, and read my peculiar
 
-sympathies and antipathies; he had not known me long enough, or well
+sympathies and antipathies; he had not known me long enough, or [[Well|well]]
 
 enough, to perceive how low my feelings would ebb under some influences,
 
@@ -108,9 +108,9 @@ powerful over most minds; how high, how fast they would flow under
 
 other influences, that perhaps acted with the more intense force on me,
 
-because they acted on me alone. Neither could he suspect for an instant
+because they acted on me [[Alone|alone]]. Neither could he suspect for an instant
 
-the history of my communications with Mdlle. Reuter; secret to him
+the [[history]] of my communications with Mdlle. Reuter; secret to him
 
 and to all others was the tale of her strange infatuation; her
 
@@ -126,7 +126,7 @@ sarcasm; it kept me unbent by shame, and unstirred by wrath. But of all
 
 this I could say nothing--nothing decisive at least; uncertainty sealed
 
-my lips, and during the interval of silence by which alone I replied to
+my lips, and during the interval of [[Silence|silence]] by which [[Alone|alone]] I replied to
 
 Mr. Hunsden, I made up my mind to be for the present wholly misjudged
 
@@ -144,7 +144,7 @@ sense, every false step I made would be a good lesson.
 
 Just then I turned my face a little to the light; the approach of
 
-twilight, and my position in the window-seat, had, for the last ten
+twilight, and my position in the [[Window|window]]-seat, had, for the last ten
 
 minutes, prevented him from studying my countenance; as I moved,
 
@@ -152,7 +152,7 @@ however, he caught an expression which he thus interpreted:--
 
 
 
-“Confound it! How doggedly self-approving the lad looks! I thought he
+“Confound it! How doggedly [[Self|self]]-approving the lad looks! I thought he
 
 was fit to die with shame, and there he sits grinning smiles, as good as
 
@@ -166,15 +166,15 @@ independent of both Fate and Fortune.’”
 
 “Hunsden--you spoke of grapes; I was thinking of a fruit I like better
 
-than your X---- hot-house grapes--an unique fruit, growing wild, which I
+than your X---- hot-[[house]] grapes--an unique fruit, growing wild, which I
 
-have marked as my own, and hope one day to gather and taste. It is of no
+have marked as my own, and [[Hope|hope]] one day to gather and taste. It is of no
 
 use your offering me the draught of bitterness, or threatening me with
 
-death by thirst: I have the anticipation of sweetness on my palate; the
+[[Death|death]] by thirst: I have the anticipation of sweetness on my palate; the
 
-hope of freshness on my lips; I can reject the unsavoury, and endure the
+[[Hope|hope]] of freshness on my lips; I can reject the unsavoury, and endure the
 
 exhausting.”
 
@@ -184,7 +184,7 @@ exhausting.”
 
 
 
-“Till the next opportunity for effort; and as the prize of success will
+“Till the next opportunity for effort; and as the prize of [[success]] will
 
 be a treasure after my own heart, I’ll bring a bull’s strength to the
 
@@ -194,7 +194,7 @@ struggle.”
 
 “Bad luck crushes bulls as easily as bullaces; and, I believe, the fury
 
-dogs you: you were born with a wooden spoon in your mouth, depend on
+[[dogs]] you: you were born with a wooden spoon in your mouth, depend on
 
 it.”
 
@@ -208,7 +208,7 @@ wooden spoon will shovel up broth.”
 
 
 
-Hunsden rose: “I see,” said he; “I suppose you’re one of those who
+Hunsden [[Rose|rose]]: “I see,” said he; “I suppose you’re one of those who
 
 develop best unwatched, and act best unaided--work your own way. Now,
 
@@ -230,12 +230,12 @@ turned:--
 
 
 
-“What! Edward Crimsworth?”
+“What! [[Edward Crimsworth]]?”
 
 
 
-“Precisely; and his wife went home to her father’s; when affairs went
+“Precisely; and his wife went [[Home|home]] to her father’s; when affairs went
 
 awry, his temper sympathized with them; he used her ill; I told you he
 
-would be a tyrant to her some day; as to him--”
+would be a [[Tyrant|tyrant]] to her some day; as to him--”

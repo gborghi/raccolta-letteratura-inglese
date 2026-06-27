@@ -1,5 +1,5 @@
 ---
-title: "manalive — Part 2"
+title: "[[manalive]] — Part 2"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/manalive-(Chesterton)"
@@ -16,4 +16,4 @@ tags:
 
 			   Part II
 
-	     The Explanations of Innocent Smith
+	     The Explanations of [[Innocent]] [[smith|Smith]]

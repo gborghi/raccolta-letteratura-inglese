@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 58 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 58 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -23,17 +23,17 @@ display of military force in the streets, and was humanely anxious
 to give as little opportunity as possible for any attempt at rescue;
 knowing that it must lead to bloodshed and loss of life, and that if the
 civil authorities by whom he was accompanied, empowered him to order his
-men to fire, many innocent persons would probably fall, whom curiosity
+men to [[Fire|fire]], many [[Innocent|innocent]] persons would probably fall, whom curiosity
 or idleness had attracted to the spot. He therefore led the party
 briskly on, avoiding with a merciful prudence the more public and
 crowded thoroughfares, and pursuing those which he deemed least likely
 to be infested by disorderly persons. This wise proceeding not only
 enabled them to gain their quarters without any interruption, but
-completely baffled a body of rioters who had assembled in one of the
+completely baffled a [[Body|body]] of rioters who had assembled in one of the
 main streets, through which it was considered certain they would pass,
 and who remained gathered together for the purpose of releasing the
 prisoner from their hands, long after they had deposited him in a place
-of security, closed the barrack-gates, and set a double guard at every
+of security, closed the barrack-gates, and set a [[Double|double]] guard at every
 entrance for its better protection.
 
 Arrived at this place, poor Barnaby was marched into a stone-floored
@@ -65,7 +65,7 @@ ground-floor rooms, furbishing and brushing up their different articles
 of dress, who stopped to look at him, and whose voices as they
 spoke together echoed loudly through the empty galleries and
 passages;--everything, down to the stand of muskets before the
-guard-house, and the drum with a pipe-clayed belt attached, in one
+guard-[[house]], and the drum with a pipe-clayed belt attached, in one
 corner, impressed itself upon his observation, as though he had noticed
 them in the same place a hundred times, or had been a whole day among
 them, in place of one brief hurried minute.
@@ -88,7 +88,7 @@ the small apertures in the door. The footsteps of the sentinel echoed
 monotonously as he paced its stone pavement to and fro (reminding
 Barnaby of the watch he had so lately kept himself); and as he passed
 and repassed the door, he made the cell for an instant so black by the
-interposition of his body, that his going away again seemed like the
+interposition of his [[Body|body]], that his going away again seemed like the
 appearance of a new ray of light, and was quite a circumstance to look
 for.
 
@@ -111,7 +111,7 @@ that reached his ears, were these:
 ‘Why is he brought here then, if he has to be taken away again so soon?’
 
 ‘Why where would you have him go! Damme, he’s not as safe anywhere as
-among the king’s troops, is he? What WOULD you do with him? Would you
+among the [[King|king]]’s troops, is he? What WOULD you do with him? Would you
 hand him over to a pack of cowardly civilians, that shake in their
 shoes till they wear the soles out, with trembling at the threats of the
 ragamuffins he belongs to?’

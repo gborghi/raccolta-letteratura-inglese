@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 74)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 74)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -20,9 +20,9 @@ foundation of his own private vices. It would astound him to realise
 
 that they have actually, by their strange erratic path, avoided his
 
-vices as well as his virtues. His own faults are things with which he is
+vices as [[Well|well]] as his virtues. His own faults are things with which he is
 
-so much at home that he at once forgets and assumes them abroad. He is
+so much at [[Home|home]] that he at once forgets and assumes them abroad. He is
 
 so faintly conscious of them in himself that he is not even conscious of
 
@@ -36,9 +36,9 @@ goes on to be seriously angry with the Frenchman for having dared to
 
 complicate them by the French faults. The notion that the Frenchman has
 
-the French faults and _not_ the English faults is a paradox too wild to
+the French faults and _not_ the English faults is a [[Paradox|paradox]] too wild to
 
-cross his mind.
+[[Cross|cross]] his mind.
 
 
 
@@ -66,7 +66,7 @@ enough to have high-heeled shoes. Nor should we necessarily have come an
 
 inch nearer to the Chinese extravagances even if the chimney-pot hat
 
-rose higher than a factory chimney or the high heels had evolved into a
+[[Rose|rose]] higher than a factory chimney or the high heels had evolved into a
 
 sort of stilts. By the same fallacy the Englishman will not only curse
 
@@ -82,7 +82,7 @@ have top-hats but not pig-tails, so the Englishman cannot believe that
 
 peasants are not snobs even when they are savages. Or he sees that a
 
-Paris paper is violent and sensational; and then supposes that some
+[[Paris]] paper is violent and sensational; and then supposes that some
 
 millionaire owns twenty such papers and runs them as a newspaper trust.
 
@@ -96,7 +96,7 @@ because it belongs to a real and responsible person, and not to a ring
 
 of nameless millionaires. It is a pamphlet, and not an anonymous
 
-pamphlet. In a hundred other cases the same truth could be illustrated;
+pamphlet. In a hundred other cases the same [[Truth|truth]] could be illustrated;
 
 the situation in which the black man first assumes that all mankind is
 
@@ -106,7 +106,7 @@ their faces red and yellow, or the hypocrisy of white-washing
 
 themselves after the fashion of whited sepulchres. The particular case
 
-of it now before us is that of the English misunderstanding of America;
+of it now before us is that of the English misunderstanding of [[america|America]];
 
 and it is based, as in all these cases, on the English misunderstanding
 
@@ -114,17 +114,17 @@ of England.
 
 
 
-For the truth is that England has suffered of late from not having
+For the [[Truth|truth]] is that England has suffered of late from not having
 
 enough of the free shooting of Hannibal Chollop; from not understanding
 
-enough that the libation of freedom must sometimes be quaffed in blood.
+enough that the libation of [[Freedom|freedom]] must sometimes be quaffed in [[Blood|blood]].
 
 The prosperous Englishman will not admit this; but then the prosperous
 
 Englishman will not admit that he has suffered from anything. That is
 
-what he is suffering from. Until lately at least he refused to realise
+what he is [[Suffering|suffering]] from. Until lately at least he refused to realise
 
 that many of his modern habits had been bad habits, the worst of them
 
@@ -132,7 +132,7 @@ being contentment. For all the real virtue in contentment evaporates,
 
 when the contentment is only satisfaction and the satisfaction is only
 
-self-satisfaction. Now it is perfectly true that America and not England
+[[Self|self]]-satisfaction. Now it is perfectly true that [[america|America]] and not England
 
 has seen the most obvious and outrageous official denials of liberty.
 
@@ -146,17 +146,17 @@ character would ever be surprised if the weapons of Chollop began to be
 
 used in that most lawful lawlessness. It is perfectly true that the
 
-libation of freedom must sometimes be drunk in blood, and never more
+libation of [[Freedom|freedom]] must sometimes be drunk in [[Blood|blood]], and never more
 
 (one would think) than when mad millionaires forbid it to be drunk in
 
-beer. But America, as compared with England, is the country where one
+beer. But [[america|America]], as compared with England, is the country where one
 
 can still fancy men obtaining the libation of beer by the libation of
 
-blood. Vulgar plutocracy is almost omnipotent in both countries; but I
+[[Blood|blood]]. Vulgar plutocracy is almost omnipotent in both countries; but I
 
-think there is now more kick of reaction against it in America than in
+think there is now more kick of reaction against it in [[america|America]] than in
 
 England. The Americans may go mad when they make laws; but they recover
 
@@ -164,15 +164,15 @@ their reason when they disobey them. I wish I could believe that there
 
 was as much of that destructive repentance in England; as indeed there
 
-certainly was when Cobbett wrote. It faded gradually like a dying fire
+certainly was when Cobbett wrote. It faded gradually like a dying [[Fire|fire]]
 
 through the Victorian era; and it was one of the very few realities that
 
 Dickens did not understand. But any one who does understand it will know
 
-that the days of Cobbett saw the last lost fight for English democracy;
+that the days of Cobbett saw the last lost fight for English [[democracy]];
 
-and that if he had stood at that turning of the historic road, he would
+and that if he had stood at that turning of the historic [[Road|road]], he would
 
 have wished a better fate to the frame-breakers and the fury against the
 
@@ -180,14 +180,14 @@ first machinery, and luck to the Luddite fires.
 
 
 
-Anyhow, what is wanted is a new Martin Chuzzlewit, told by a wiser Mark
+Anyhow, what is wanted is a new [[Martin Chuzzlewit]], told by a wiser Mark
 
 Tapley. It is typical of something sombre and occasionally stale in the
 
 mood of Dickens when he wrote that book, that the comic servant is not
 
-really very comic. Mark Tapley is a very thin shadow of Sam Weller. But
+really very comic. [[Mark Tapley]] is a very thin [[Shadow|shadow]] of [[Sam Weller]]. But
 
 if Dickens had written it in a happier mood, there might have been a
 
-truer meaning in Mark Tapley's happiness. For it is true that this
+truer meaning in [[Mark Tapley]]'s happiness. For it is true that this

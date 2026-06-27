@@ -1,5 +1,5 @@
 ---
-title: "Mesmeric Revelation (part 2)"
+title: "[[Mesmeric Revelation]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Mesmeric-Revelation-(Poe)"
@@ -14,14 +14,14 @@ tags:
 </nav>
 
 
-      _P._ Does the idea of death afflict you?
+      _P._ Does the idea of [[Death|death]] afflict you?
 
       _V._ [_Very quickly_.] No—no!
 
       _P._ Are you pleased with the prospect?
 
       _V._ If I were awake I should like to die, but now it is no
-      matter. The mesmeric condition is so near death as to content me.
+      matter. The mesmeric condition is so near [[Death|death]] as to content me.
 
       _P._ I wish you would explain yourself, Mr. Vankirk.
 
@@ -45,7 +45,7 @@ tags:
       _P._ Is not God spirit?
 
       _V._ While I was awake I knew what you meant by “spirit,” but now
-      it seems only a word—such, for instance, as truth, beauty—a
+      it seems only a word—such, for instance, as [[Truth|truth]], [[Beauty|beauty]]—a
       quality, I mean.
 
       _P._ Is not God immaterial?
@@ -81,9 +81,9 @@ tags:
       _V._ Yes; and I now see the confusion of idea. Motion is the
       action of _mind_, not of _thinking_. The unparticled matter, or
       God, in quiescence, is (as nearly as we can conceive it) what men
-      call mind. And the power of self-movement (equivalent in effect
+      call mind. And the power of [[Self|self]]-movement (equivalent in effect
       to human volition) is, in the unparticled matter, the result of
-      its unity and omniprevalence; _how_ I know not, and now clearly
+      its [[unity]] and omniprevalence; _how_ I know not, and now clearly
       see that I shall never know. But the unparticled matter, set in
       motion by a law, or quality, existing within itself, is thinking.
 
@@ -92,7 +92,7 @@ tags:
 
       _V._ The matters of which man is cognizant escape the senses in
       gradation. We have, for example, a metal, a piece of wood, a drop
-      of water, the atmosphere, a gas, caloric, electricity, the
+      of [[Water|water]], the atmosphere, a gas, caloric, electricity, the
       luminiferous ether. Now we call all these things matter, and
       embrace all matter in one general definition; but in spite of
       this, there can be no two ideas more essentially distinct than
@@ -115,9 +115,9 @@ tags:
       point—there will be a degree of rarity, at which, if the atoms
       are sufficiently numerous, the interspaces must vanish, and the
       mass absolutely coalesce. But the consideration of the atomic
-      constitution being now taken away, the nature of the mass
+      constitution being now taken away, the [[Nature|nature]] of the mass
       inevitably glides into what we conceive of spirit. It is clear,
-      however, that it is as fully matter as before. The truth is, it
+      however, that it is as fully matter as before. The [[Truth|truth]] is, it
       is impossible to conceive spirit, since it is impossible to
       imagine what is not. When we flatter ourselves that we have
       formed its conception, we have merely deceived our understanding

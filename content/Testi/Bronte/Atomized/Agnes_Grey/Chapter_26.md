@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 25"
+title: "[[Agnes Grey]] — Chapter 25"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -18,7 +18,7 @@ CHAPTER XXV.
 CONCLUSION
 
 
-“Well, Agnes, you must not take such long walks again before
+“[[Well]], Agnes, you must not take such long walks again before
 breakfast,” said my mother, observing that I drank an extra cup of
 coffee and ate nothing—pleading the heat of the weather, and the
 fatigue of my long walk as an excuse. I certainly did feel feverish and
@@ -27,7 +27,7 @@ tired too.
 “You always do things by extremes: now, if you had taken a _short_ walk
 every morning, and would continue to do so, it would do you good.”
 
-“Well, mamma, I will.”
+“[[Well]], mamma, I will.”
 
 “But this is worse than lying in bed or bending over your books: you
 have quite put yourself into a fever.”
@@ -43,7 +43,7 @@ sands to-day, mamma.”
 “An old friend! Who could it be?”
 
 “Two old friends, indeed. One was a dog;” and then I reminded her of
-Snap, whose history I had recounted before, and related the incident of
+Snap, whose [[history]] I had recounted before, and related the incident of
 his sudden appearance and remarkable recognition; “and the other,”
 continued I, “was Mr. Weston, the curate of Horton.”
 
@@ -58,7 +58,7 @@ don’t remember.”
 mention him sometimes in contradistinction to Mr. Hatfield, as being a
 more efficient clergyman. However, he was on the sands this morning
 with the dog—he had bought it, I suppose, from the rat-catcher; and he
-knew me as well as it did—probably through its means: and I had a
+knew me as [[Well|well]] as it did—probably through its means: and I had a
 little conversation with him, in the course of which, as he asked about
 our school, I was led to say something about you, and your good
 management; and he said he should like to know you, and asked if I
@@ -72,29 +72,29 @@ is the new vicar of F——, and as he has only been there a few weeks, I
 suppose he has made no friends yet, and wants a little society.”
 
 The morrow came. What a fever of anxiety and expectation I was in from
-breakfast till noon—at which time he made his appearance! Having
-introduced him to my mother, I took my work to the window, and sat down
-to await the result of the interview. They got on extremely well
+breakfast till [[Noon|noon]]—at which [[Time|time]] he made his appearance! Having
+introduced him to my mother, I took my work to the [[Window|window]], and sat down
+to await the result of the interview. They got on extremely [[Well|well]]
 together—greatly to my satisfaction, for I had felt very anxious about
-what my mother would think of him. He did not stay long that time: but
-when he rose to take leave, she said she should be happy to see him,
+what my mother would think of him. He did not stay long that [[Time|time]]: but
+when he [[Rose|rose]] to take leave, she said she should be happy to see him,
 whenever he might find it convenient to call again; and when he was
-gone, I was gratified by hearing her say,—“Well! I think he’s a very
+gone, I was gratified by hearing her say,—“[[Well]]! I think he’s a very
 sensible man. But why did you sit back there, Agnes,” she added, “and
 talk so little?”
 
-“Because you talked so well, mamma, I thought you required no
+“Because you talked so [[Well|well]], mamma, I thought you required no
 assistance from me: and, besides, he was your visitor, not mine.”
 
 After that, he often called upon us—several times in the course of a
 week. He generally addressed most of his conversation to my mother: and
-no wonder, for she could converse. I almost envied the unfettered,
+no [[Wonder|wonder]], for she could converse. I almost envied the unfettered,
 vigorous fluency of her discourse, and the strong sense evinced by
 everything she said—and yet, I did not; for, though I occasionally
 regretted my own deficiencies for his sake, it gave me very great
 pleasure to sit and hear the two beings I loved and honoured above
 every one else in the world, discoursing together so amicably, so
-wisely, and so well. I was not always silent, however; nor was I at all
+wisely, and so [[Well|well]]. I was not always silent, however; nor was I at all
 neglected. I was quite as much noticed as I would wish to be: there was
 no lack of kind words and kinder looks, no end of delicate attentions,
 too fine and subtle to be grasped by words, and therefore
@@ -107,26 +107,26 @@ spoken at first, but, finding it gave no offence in any quarter, he
 seemed greatly to prefer that appellation to “Miss Grey;” and so did I.
 How tedious and gloomy were those days in which he did not come! And
 yet not miserable; for I had still the remembrance of the last visit
-and the hope of the next to cheer me. But when two or three days passed
+and the [[Hope|hope]] of the next to cheer me. But when two or three days passed
 without my seeing him, I certainly felt very anxious—absurdly,
 unreasonably so; for, of course, he had his own business and the
 affairs of his parish to attend to. And I dreaded the close of the
 holidays, when _my_ business also would begin, and I should be
 sometimes unable to see him, and sometimes—when my mother was in the
-schoolroom—obliged to be with him alone: a position I did not at all
-desire, in the house; though to meet him out of doors, and walk beside
+schoolroom—obliged to be with him [[Alone|alone]]: a position I did not at all
+[[Desire|desire]], in the [[house]]; though to meet him out of doors, and walk beside
 him, had proved by no means disagreeable.
 
 One evening, however, in the last week of the vacation, he
 arrived—unexpectedly: for a heavy and protracted thunder-shower during
 the afternoon had almost destroyed my hopes of seeing him that day; but
-now the storm was over, and the sun was shining brightly.
+now the [[Storm|storm]] was over, and the sun was shining brightly.
 
 “A beautiful evening, Mrs. Grey!” said he, as he entered. “Agnes, I
 want you to take a walk with me to ——” (he named a certain part of the
-coast—a bold hill on the land side, and towards the sea a steep
+coast—a bold [[Hill|hill]] on the land side, and towards the sea a steep
 precipice, from the summit of which a glorious view is to be had). “The
-rain has laid the dust, and cooled and cleared the air, and the
+rain has laid the [[Dust|dust]], and cooled and cleared the air, and the
 prospect will be magnificent. Will you come?”
 
 “Can I go, mamma?”
@@ -135,30 +135,30 @@ prospect will be magnificent. Will you come?”
 
 I went to get ready, and was down again in a few minutes; though, of
 course, I took a little more pains with my attire than if I had merely
-been going out on some shopping expedition alone. The thunder-shower
+been going out on some shopping expedition [[Alone|alone]]. The thunder-shower
 had certainly had a most beneficial effect upon the weather, and the
 evening was most delightful. Mr. Weston would have me to take his arm;
 he said little during our passage through the crowded streets, but
-walked very fast, and appeared grave and abstracted. I wondered what
+walked very fast, and appeared [[Grave|grave]] and abstracted. I wondered what
 was the matter, and felt an indefinite dread that something unpleasant
 was on his mind; and vague surmises, concerning what it might be,
-troubled me not a little, and made me grave and silent enough. But
+troubled me not a little, and made me [[Grave|grave]] and silent enough. But
 these fantasies vanished upon reaching the quiet outskirts of the town;
 for as soon as we came within sight of the venerable old church, and
-the —— hill, with the deep blue beyond it, I found my companion was
+the —— [[Hill|hill]], with the deep blue beyond it, I found my companion was
 cheerful enough.
 
 “I’m afraid I’ve been walking too fast for you, Agnes,” said he: “in my
 impatience to be rid of the town, I forgot to consult your convenience;
 but now we’ll walk as slowly as you please. I see, by those light
 clouds in the west, there will be a brilliant sunset, and we shall be
-in time to witness its effect upon the sea, at the most moderate rate
+in [[Time|time]] to witness its effect upon the sea, at the most moderate rate
 of progression.”
 
-When we had got about half-way up the hill, we fell into silence again;
+When we had got about half-way up the [[Hill|hill]], we fell into [[Silence|silence]] again;
 which, as usual, he was the first to break.
 
-“My house is desolate yet, Miss Grey,” he smilingly observed, “and I am
+“My [[house]] is desolate yet, Miss Grey,” he smilingly observed, “and I am
 acquainted now with all the ladies in my parish, and several in this
 town too; and many others I know by sight and by report; but not one of
 them will suit me for a companion; in fact, there is only one person in
@@ -172,7 +172,7 @@ decision?”
 He laid his hand on mine, that rested on his arm: he must have felt it
 tremble—but it was no great matter now.
 
-“I hope I have not been too precipitate,” he said, in a serious tone.
+“I [[Hope|hope]] I have not been too precipitate,” he said, in a serious tone.
 “You must have known that it was not my way to flatter and talk soft
 nonsense, or even to speak the admiration that I felt; and that a
 single word or glance of mine meant more than the honied phrases and
@@ -194,24 +194,24 @@ objections on her account. Have you any other?”
 
 “No—none.”
 
-“You love me then?” said he, fervently pressing my hand.
+“You [[Love|love]] me then?” said he, fervently pressing my hand.
 
 “Yes.”
 
 
 Here I pause. My Diary, from which I have compiled these pages, goes
 but little further. I could go on for years, but I will content myself
-with adding, that I shall never forget that glorious summer evening,
-and always remember with delight that steep hill, and the edge of the
+with adding, that I shall never forget that glorious [[Summer|summer]] evening,
+and always remember with delight that steep [[Hill|hill]], and the edge of the
 precipice where we stood together, watching the splendid sunset
 mirrored in the restless world of waters at our feet—with hearts filled
-with gratitude to heaven, and happiness, and love—almost too full for
+with gratitude to heaven, and happiness, and [[Love|love]]—almost too full for
 speech.
 
 A few weeks after that, when my mother had supplied herself with an
-assistant, I became the wife of Edward Weston; and never have found
+assistant, I became the wife of [[Edward Weston]]; and never have found
 cause to repent it, and am certain that I never shall. We have had
-trials, and we know that we must have them again; but we bear them well
+trials, and we know that we must have them again; but we bear them [[Well|well]]
 together, and endeavour to fortify ourselves and each other against the
 final separation—that greatest of all afflictions to the survivor. But,
 if we keep in mind the glorious heaven beyond, where both may meet
@@ -225,8 +225,8 @@ deserves; for whatever his faults may be as a man (and no one is
 entirely without), I defy anybody to blame him as a pastor, a husband,
 or a father.
 
-Our children, Edward, Agnes, and little Mary, promise well; their
-education, for the time being, is chiefly committed to me; and they
+Our children, Edward, Agnes, and little Mary, promise [[Well|well]]; their
+[[Education|education]], for the [[Time|time]] being, is chiefly committed to me; and they
 shall want no good thing that a mother’s care can give. Our modest
 income is amply sufficient for our requirements: and by practising the
 economy we learnt in harder times, and never attempting to imitate our

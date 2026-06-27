@@ -1,5 +1,5 @@
 ---
-title: "Richard II — Act III, Scene 1 — exchange (BISHOP OF CARLISLE) [5]"
+title: "[[Richard II]] — Act III, Scene 1 — exchange (BISHOP OF CARLISLE) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/RICHARD-II-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| BISHOP OF CARLISLE | Fear not, my lord. That power that made you king Hath power to keep you king in spite of all. |
+| BISHOP OF CARLISLE | [[Fear]] not, my lord. That power that made you [[King|king]] Hath power to keep you [[King|king]] in spite of all. |
 | AUMERLE | He means, my lord, that we are too remiss, Whilst Bolingbroke, through our security, Grows strong and great in substance and in friends. |

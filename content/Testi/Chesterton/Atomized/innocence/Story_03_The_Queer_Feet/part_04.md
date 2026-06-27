@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Queer Feet (part 4)"
+title: "[[innocence]] — The Queer Feet (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/innocence-(Chesterton)"
@@ -18,23 +18,23 @@ As has been remarked, there were twenty-four seats at
 the terrace table, and only twelve members of the club.
 Thus they could occupy the terrace in the most luxurious style of all,
 being ranged along the inner side of the table, with no one opposite,
-commanding an uninterrupted view of the garden, the colours
+commanding an uninterrupted view of the [[Garden|garden]], the colours
 of which were still vivid, though evening was closing in somewhat
-luridly for the time of year.  The chairman sat in the centre
+luridly for the [[Time|time]] of year.  The chairman sat in the centre
 of the line, and the vice-president at the right-hand end of it.
 When the twelve guests first trooped into their seats it was
 the custom (for some unknown reason) for all the fifteen waiters
-to stand lining the wall like troops presenting arms to the king,
+to stand lining the wall like troops presenting arms to the [[King|king]],
 while the fat proprietor stood and bowed to the club with
 radiant surprise, as if he had never heard of them before.
 But before the first chink of knife and fork this army of
 retainers had vanished, only the one or two required to collect
-and distribute the plates darting about in deathly silence.
+and distribute the plates darting about in deathly [[Silence|silence]].
 Mr. Lever, the proprietor, of course had disappeared in
 convulsions of courtesy long before.  It would be exaggerative,
 indeed irreverent, to say that he ever positively appeared again.
 But when the important course, the fish course, was being brought on,
-there was--how shall I put it?--a vivid shadow, a projection
+there was--how shall I put it?--a vivid [[Shadow|shadow]], a projection
 of his personality, which told that he was hovering near.
 The sacred fish course consisted (to the eyes of the vulgar)
 in a sort of monstrous pudding, about the size and shape of a
@@ -44,7 +44,7 @@ The Twelve True Fishermen took up their celebrated fish knives
 and fish forks, and approached it as gravely as if every inch
 of the pudding cost as much as the silver fork it was eaten with.
 So it did, for all I know.  This course was dealt with in
-eager and devouring silence; and it was only when his plate
+eager and devouring [[Silence|silence]]; and it was only when his plate
 was nearly empty that the young duke made the ritual remark:
 "They can't do this anywhere but here."
 
@@ -61,7 +61,7 @@ he said, shaking his head ruthlessly, like a hanging judge.
 "Nothing like it."
 
 "Overrated place," said a certain Colonel Pound, speaking (by the look of him)
-for the first time for some months.
+for the first [[Time|time]] for some months.
 
 "Oh, I don't know," said the Duke of Chester, who was an optimist,
 "it's jolly good for some things.  You can't beat it at--"
@@ -75,9 +75,9 @@ They felt as you and I would feel if the inanimate world disobeyed--
 if a chair ran away from us.
 
 The waiter stood staring a few seconds, while there deepened on every
-face at table a strange shame which is wholly the product of our time.
-It is the combination of modern humanitarianism with the horrible modern
-abyss between the souls of the rich and poor.  A genuine historic aristocrat
+face at table a strange shame which is wholly the product of our [[Time|time]].
+It is the combination of modern [[Humanitarianism|humanitarianism]] with the horrible modern
+abyss between the souls of the rich and poor.  A genuine historic [[aristocrat]]
 would have thrown things at the waiter, beginning with empty bottles,
 and very probably ending with money.  A genuine democrat would have asked him,
 with comrade-like clearness of speech, what the devil he was doing.
@@ -93,8 +93,8 @@ When he reappeared in the room, or rather in the doorway, it was in
 company with another waiter, with whom he whispered and gesticulated
 with southern fierceness.  Then the first waiter went away,
 leaving the second waiter, and reappeared with a third waiter.
-By the time a fourth waiter had joined this hurried synod, Mr. Audley
-felt it necessary to break the silence in the interests of Tact.  He used
+By the [[Time|time]] a fourth waiter had joined this hurried synod, Mr. Audley
+felt it necessary to break the [[Silence|silence]] in the interests of Tact.  He used
 a very loud cough, instead of a presidential hammer, and said:
 "Splendid work young Moocher's doing in Burmah.  Now, no other nation
 in the world could have--"
@@ -112,7 +112,7 @@ now it was a sickly yellow.
 "I have great apprehensions.  Your fish-plates, they are cleared away
 with the knife and fork on them!"
 
-"Well, I hope so," said the chairman, with some warmth.
+"[[Well]], I [[Hope|hope]] so," said the chairman, with some warmth.
 
 "You see him?" panted the excited hotel keeper; "you see the waiter
 who took them away?  You know him?"
@@ -127,7 +127,7 @@ them already away."
 Mr. Audley still looked rather too bewildered to be really the man
 the empire wants; none of the company could say anything except the man
 of wood--Colonel Pound--who seemed galvanised into an unnatural life.
-He rose rigidly from his chair, leaving all the rest sitting,
+He [[Rose|rose]] rigidly from his chair, leaving all the rest sitting,
 screwed his eyeglass into his eye, and spoke in a raucous undertone
 as if he had half-forgotten how to speak.  "Do you mean," he said,
 "that somebody has stolen our silver fish service?"

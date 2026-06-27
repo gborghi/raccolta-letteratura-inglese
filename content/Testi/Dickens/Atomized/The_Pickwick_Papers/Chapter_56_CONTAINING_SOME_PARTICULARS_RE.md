@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 54: CONTAINING SOME PARTICULARS RELATIVE TO THE DOUBLE KNOCK,"
+title: "The [[Pickwick]] Papers — Chapter 54: CONTAINING SOME PARTICULARS RELATIVE TO THE [[Double|DOUBLE]] KNOCK,"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,23 +14,23 @@ tags:
 </nav>
 
 
-CHAPTER LIV. CONTAINING SOME PARTICULARS RELATIVE TO THE DOUBLE KNOCK,
+CHAPTER LIV. CONTAINING SOME PARTICULARS RELATIVE TO THE [[Double|DOUBLE]] KNOCK,
 AND OTHER MATTERS: AMONG WHICH CERTAIN INTERESTING DISCLOSURES RELATIVE
 TO MR. SNODGRASS AND A YOUNG LADY ARE BY NO MEANS IRRELEVANT TO THIS
-HISTORY
+[[history|HISTORY]]
 
 The object that presented itself to the eyes of the astonished clerk,
 was a boy--a wonderfully fat boy--habited as a serving lad, standing
-upright on the mat, with his eyes closed as if in sleep. He had never
+upright on the mat, with his eyes closed as if in [[Sleep|sleep]]. He had never
 seen such a fat boy, in or out of a travelling caravan; and this,
 coupled with the calmness and repose of his appearance, so very
 different from what was reasonably to have been expected of the
-inflicter of such knocks, smote him with wonder.
+inflicter of such knocks, smote him with [[Wonder|wonder]].
 
 ‘What’s the matter?’ inquired the clerk.
 
 The extraordinary boy replied not a word; but he nodded once, and
-seemed, to the clerk’s imagination, to snore feebly.
+seemed, to the clerk’s [[Imagination|imagination]], to snore feebly.
 
 ‘Where do you come from?’ inquired the clerk.
 
@@ -51,18 +51,18 @@ angrily.
 ‘Why, like forty hackney-coachmen,’ replied the clerk.
 
 ‘Because master said, I wasn’t to leave off knocking till they opened
-the door, for fear I should go to sleep,’ said the boy.
+the door, for [[Fear|fear]] I should go to [[Sleep|sleep]],’ said the boy.
 
-‘Well,’ said the clerk, ‘what message have you brought?’
+‘[[Well]],’ said the clerk, ‘what message have you brought?’
 
 ‘He’s downstairs,’ rejoined the boy.
 
 ‘Who?’
 
-‘Master. He wants to know whether you’re at home.’
+‘Master. He wants to know whether you’re at [[Home|home]].’
 
 Mr. Lowten bethought himself, at this juncture, of looking out of the
-window. Seeing an open carriage with a hearty old gentleman in it,
+[[Window|window]]. Seeing an open carriage with a hearty old gentleman in it,
 looking up very anxiously, he ventured to beckon him; on which, the old
 gentleman jumped out directly.
 
@@ -74,8 +74,8 @@ All further inquiries were superseded by the appearance of old Wardle,
 who, running upstairs and just recognising Lowten, passed at once into
 Mr. Perker’s room.
 
-‘Pickwick!’ said the old gentleman. ‘Your hand, my boy! Why have I never
-heard until the day before yesterday of your suffering yourself to be
+‘[[Pickwick]]!’ said the old gentleman. ‘Your hand, my boy! Why have I never
+heard until the day before yesterday of your [[Suffering|suffering]] yourself to be
 cooped up in jail? And why did you let him do it, Perker?’
 
 ‘I couldn’t help it, my dear Sir,’ replied Perker, with a smile and a
@@ -85,66 +85,66 @@ pinch of snuff; ‘you know how obstinate he is?’
 heartily glad to see him, notwithstanding. I will not lose sight of him
 again, in a hurry.’
 
-With these words, Wardle shook Mr. Pickwick’s hand once more, and,
+With these words, Wardle shook Mr. [[Pickwick]]’s hand once more, and,
 having done the same by Perker, threw himself into an arm-chair, his
 jolly red face shining again with smiles and health.
 
-‘Well!’ said Wardle. ‘Here are pretty goings on--a pinch of your snuff,
+‘[[Well]]!’ said Wardle. ‘Here are pretty goings on--a pinch of your snuff,
 Perker, my boy--never were such times, eh?’
 
-‘What do you mean?’ inquired Mr. Pickwick.
+‘What do you mean?’ inquired Mr. [[Pickwick]].
 
 ‘Mean!’ replied Wardle. ‘Why, I think the girls are all running mad;
 that’s no news, you’ll say? Perhaps it’s not; but it’s true, for all
 that.’
 
-‘You have not come up to London, of all places in the world, to tell us
+‘You have not come up to [[London]], of all places in the world, to tell us
 that, my dear Sir, have you?’ inquired Perker.
 
 ‘No, not altogether,’ replied Wardle; ‘though it was the main cause of
 my coming. How’s Arabella?’
 
-‘Very well,’ replied Mr. Pickwick, ‘and will be delighted to see you, I
+‘Very [[Well|well]],’ replied Mr. [[Pickwick]], ‘and will be delighted to see you, I
 am sure.’
 
 ‘Black-eyed little jilt!’ replied Wardle. ‘I had a great idea of
 marrying her myself, one of these odd days. But I am glad of it too,
 very glad.’
 
-‘How did the intelligence reach you?’ asked Mr. Pickwick.
+‘How did the intelligence reach you?’ asked Mr. [[Pickwick]].
 
 ‘Oh, it came to my girls, of course,’ replied Wardle. ‘Arabella wrote,
 the day before yesterday, to say she had made a stolen match without her
 husband’s father’s consent, and so you had gone down to get it when his
 refusing it couldn’t prevent the match, and all the rest of it. I
-thought it a very good time to say something serious to my girls; so I
+thought it a very good [[Time|time]] to say something serious to my girls; so I
 said what a dreadful thing it was that children should marry without
 their parents’ consent, and so forth; but, bless your hearts, I couldn’t
 make the least impression upon them. They thought it such a much more
 dreadful thing that there should have been a wedding without
-bridesmaids, that I might as well have preached to Joe himself.’
+bridesmaids, that I might as [[Well|well]] have preached to Joe himself.’
 
 Here the old gentleman stopped to laugh; and having done so to his
 heart’s content, presently resumed--
 
-‘But this is not the best of it, it seems. This is only half the love-
+‘But this is not the best of it, it seems. This is only half the [[Love|love]]-
 making and plotting that have been going forward. We have been walking
 on mines for the last six months, and they’re sprung at last.’
 
-‘What do you mean?’ exclaimed Mr. Pickwick, turning pale; ‘no other
-secret marriage, I hope?’
+‘What do you mean?’ exclaimed Mr. [[Pickwick]], turning pale; ‘no other
+secret [[Marriage|marriage]], I [[Hope|hope]]?’
 
 ‘No, no,’ replied old Wardle; ‘not so bad as that; no.’
 
-‘What then?’ inquired Mr. Pickwick; ‘am I interested in it?’
+‘What then?’ inquired Mr. [[Pickwick]]; ‘am I interested in it?’
 
 ‘Shall I answer that question, Perker?’ said Wardle.
 
 ‘If you don’t commit yourself by doing so, my dear Sir.’
 
-‘Well then, you are,’ said Wardle.
+‘[[Well]] then, you are,’ said Wardle.
 
-‘How?’ asked Mr. Pickwick anxiously. ‘In what way?’
+‘How?’ asked Mr. [[Pickwick]] anxiously. ‘In what way?’
 
 ‘Really,’ replied Wardle, ‘you’re such a fiery sort of a young fellow
 that I am almost afraid to tell you; but, however, if Perker will sit
@@ -157,30 +157,30 @@ great disclosure in these words--
 ‘The fact is, that my daughter Bella--Bella, who married young Trundle,
 you know.’
 
-‘Yes, yes, we know,’ said Mr. Pickwick impatiently.
+‘Yes, yes, we know,’ said Mr. [[Pickwick]] impatiently.
 
 ‘Don’t alarm me at the very beginning. My daughter Bella--Emily having
 gone to bed with a headache after she had read Arabella’s letter to me--
 sat herself down by my side the other evening, and began to talk over
-this marriage affair. “Well, pa,” she says, “what do you think of it?”
- “Why, my dear,” I said, “I suppose it’s all very well; I hope it’s for
-the best.” I answered in this way because I was sitting before the fire
-at the time, drinking my grog rather thoughtfully, and I knew my
+this [[Marriage|marriage]] affair. “[[Well]], pa,” she says, “what do you think of it?”
+ “Why, my dear,” I said, “I suppose it’s all very [[Well|well]]; I [[Hope|hope]] it’s for
+the best.” I answered in this way because I was sitting before the [[Fire|fire]]
+at the [[Time|time]], drinking my grog rather thoughtfully, and I knew my
 throwing in an undecided word now and then, would induce her to continue
 talking. Both my girls are pictures of their dear mother, and as I grow
 old I like to sit with only them by me; for their voices and looks carry
 me back to the happiest period of my life, and make me, for the moment,
 as young as I used to be then, though not quite so light-hearted. “It’s
-quite a marriage of affection, pa,” said Bella, after a short silence.
+quite a [[Marriage|marriage]] of affection, pa,” said Bella, after a short [[Silence|silence]].
 “Yes, my dear,” said I, “but such marriages do not always turn out the
 happiest.”’
 
-‘I question that, mind!’ interposed Mr. Pickwick warmly.
+‘I question that, mind!’ interposed Mr. [[Pickwick]] warmly.
 
 ‘Very good,’ responded Wardle, ‘question anything you like when it’s
 your turn to speak, but don’t interrupt me.’
 
-‘I beg your pardon,’ said Mr. Pickwick.
+‘I beg your pardon,’ said Mr. [[Pickwick]].
 
 ‘Granted,’ replied Wardle. ‘“I am sorry to hear you express your opinion
 against marriages of affection, pa,” said Bella, colouring a little. “I
@@ -190,30 +190,30 @@ patting her cheek as kindly as a rough old fellow like me could pat it,
 pa,” said Bella. “The fact is, pa, I wanted to speak to you about
 Emily.”’
 
-Mr. Pickwick started.
+Mr. [[Pickwick]] started.
 
 ‘What’s the matter now?’ inquired Wardle, stopping in his narrative.
 
-‘Nothing,’ replied Mr. Pickwick. ‘Pray go on.’
+‘Nothing,’ replied Mr. [[Pickwick]]. ‘Pray go on.’
 
 ‘I never could spin out a story,’ said Wardle abruptly. ‘It must come
-out, sooner or later, and it’ll save us all a great deal of time if it
+out, sooner or later, and it’ll save us all a great deal of [[Time|time]] if it
 comes at once. The long and the short of it is, then, that Bella at last
-mustered up courage to tell me that Emily was very unhappy; that she and
+mustered up [[Courage|courage]] to tell me that Emily was very unhappy; that she and
 your young friend Snodgrass had been in constant correspondence and
 communication ever since last Christmas; that she had very dutifully
-made up her mind to run away with him, in laudable imitation of her old
+made up her mind to run away with him, in laudable [[Imitation|imitation]] of her old
 friend and school-fellow; but that having some compunctions of
-conscience on the subject, inasmuch as I had always been rather kindly
+[[Conscience|conscience]] on the subject, inasmuch as I had always been rather kindly
 disposed to both of them, they had thought it better in the first
 instance to pay me the compliment of asking whether I would have any
 objection to their being married in the usual matter-of-fact manner.
-There now, Mr. Pickwick, if you can make it convenient to reduce your
+There now, Mr. [[Pickwick]], if you can make it convenient to reduce your
 eyes to their usual size again, and to let me hear what you think we
 ought to do, I shall feel rather obliged to you!’
 
 The testy manner in which the hearty old gentleman uttered this last
-sentence was not wholly unwarranted; for Mr. Pickwick’s face had settled
+sentence was not wholly unwarranted; for Mr. [[Pickwick]]’s face had settled
 down into an expression of blank amazement and perplexity, quite curious
 to behold.
 
@@ -223,29 +223,29 @@ issued from the lips of the confounded gentleman.
 ‘Since last Christmas,’ replied Wardle; ‘that’s plain enough, and very
 bad spectacles we must have worn, not to have discovered it before.’
 
-‘I don’t understand it,’ said Mr. Pickwick, ruminating; ‘I cannot really
+‘I don’t understand it,’ said Mr. [[Pickwick]], ruminating; ‘I cannot really
 understand it.’
 
 ‘It’s easy enough to understand it,’ replied the choleric old gentleman.
 ‘If you had been a younger man, you would have been in the secret long
-ago; and besides,’ added Wardle, after a moment’s hesitation, ‘the truth
+ago; and besides,’ added Wardle, after a moment’s hesitation, ‘the [[Truth|truth]]
 is, that, knowing nothing of this matter, I have rather pressed Emily
 for four or five months past, to receive favourably (if she could; I
 would never attempt to force a girl’s inclinations) the addresses of a
-young gentleman down in our neighbourhood. I have no doubt that, girl-
+young gentleman down in our neighbourhood. I have no [[Doubt|doubt]] that, girl-
 like, to enhance her own value and increase the ardour of Mr. Snodgrass,
 she has represented this matter in very glowing colours, and that they
 have both arrived at the conclusion that they are a terribly-persecuted
 pair of unfortunates, and have no resource but clandestine matrimony, or
 charcoal. Now the question is, what’s to be done?’
 
-‘What have _you _done?’ inquired Mr. Pickwick.
+‘What have _you _done?’ inquired Mr. [[Pickwick]].
 
 ‘_I!_’
 
 ‘I mean what did you do when your married daughter told you this?’
 
-‘Oh, I made a fool of myself of course,’ rejoined Wardle.
+‘Oh, I made a [[Fool|fool]] of myself of course,’ rejoined Wardle.
 
 ‘Just so,’ interposed Perker, who had accompanied this dialogue with
 sundry twitchings of his watch-chain, vindictive rubbings of his nose,
@@ -262,7 +262,7 @@ unpleasant and making everybody miserable; so I hired a carriage at
 Muggleton, and, putting my own horses in it, came up to town, under
 pretence of bringing Emily to see Arabella.’
 
-‘Miss Wardle is with you, then?’ said Mr. Pickwick.
+‘Miss Wardle is with you, then?’ said Mr. [[Pickwick]].
 
 ‘To be sure she is,’ replied Wardle. ‘She is at Osborne’s Hotel in the
 Adelphi at this moment, unless your enterprising friend has run away
@@ -271,21 +271,21 @@ with her since I came out this morning.’
 ‘You are reconciled then?’ said Perker.
 
 ‘Not a bit of it,’ answered Wardle; ‘she has been crying and moping ever
-since, except last night, between tea and supper, when she made a great
+since, except last [[Night|night]], between tea and supper, when she made a great
 parade of writing a letter that I pretended to take no notice of.’
 
 ‘You want my advice in this matter, I suppose?’ said Perker, looking
-from the musing face of Mr. Pickwick to the eager countenance of Wardle,
+from the musing face of Mr. [[Pickwick]] to the eager countenance of Wardle,
 and taking several consecutive pinches of his favourite stimulant.
 
-‘I suppose so,’ said Wardle, looking at Mr. Pickwick.
+‘I suppose so,’ said Wardle, looking at Mr. [[Pickwick]].
 
 ‘Certainly,’ replied that gentleman.
 
-‘Well then,’ said Perker, rising and pushing his chair back, ‘my advice
+‘[[Well]] then,’ said Perker, rising and pushing his chair back, ‘my advice
 is, that you both walk away together, or ride away, or get away by some
 means or other, for I’m tired of you, and just talk this matter over
-between you. If you have not settled it by the next time I see you, I’ll
+between you. If you have not settled it by the next [[Time|time]] I see you, I’ll
 tell you what to do.’
 
 ‘This is satisfactory,’ said Wardle, hardly knowing whether to smile or
@@ -296,7 +296,7 @@ deal better than you know yourselves. You have settled it already, to
 all intents and purposes.’
 
 Thus expressing himself, the little gentleman poked his snuff-box first
-into the chest of Mr. Pickwick, and then into the waistcoat of Mr.
+into the chest of Mr. [[Pickwick]], and then into the waistcoat of Mr.
 Wardle, upon which they all three laughed, especially the two last-named
 gentlemen, who at once shook hands again, without any obvious or
 particular reason.
@@ -315,9 +315,9 @@ killed himself in his very first nap.
 Driving to the George and Vulture, they found that Arabella and her maid
 had sent for a hackney-coach immediately on the receipt of a short note
 from Emily announcing her arrival in town, and had proceeded straight to
-the Adelphi. As Wardle had business to transact in the city, they sent
+the Adelphi. As Wardle had business to transact in the [[City|city]], they sent
 the carriage and the fat boy to his hotel, with the information that he
-and Mr. Pickwick would return together to dinner at five o’clock.
+and Mr. [[Pickwick]] would return together to dinner at five o’[[Clock|clock]].
 
 Charged with this message, the fat boy returned, slumbering as peaceably
 in his dickey, over the stones, as if it had been a down bed on watch
@@ -334,7 +334,7 @@ undoubted fact that he walked into the sitting-room without previously
 knocking at the door; and so beheld a gentleman with his arms clasping
 his young mistress’s waist, sitting very lovingly by her side on a sofa,
 while Arabella and her pretty handmaid feigned to be absorbed in looking
-out of a window at the other end of the room. At the sight of this
+out of a [[Window|window]] at the other end of the room. At the sight of this
 phenomenon, the fat boy uttered an interjection, the ladies a scream,
 and the gentleman an oath, almost simultaneously.
 
@@ -347,7 +347,7 @@ To this the fat boy, considerably terrified, briefly responded,
 ‘What do you want me for,’ inquired Emily, turning her head aside, ‘you
 stupid creature?’
 
-‘Master and Mr. Pickwick is a-going to dine here at five,’ replied the
+‘Master and Mr. [[Pickwick]] is a-going to dine here at five,’ replied the
 fat boy.
 
 ‘Leave the room!’ said Mr. Snodgrass, glaring upon the bewildered youth.
@@ -375,8 +375,8 @@ The fat boy’s perception being slow, he looked rather puzzled at first
 to account for this sudden prepossession in his favour, and stared about
 him in a very alarming manner. At length his broad face began to show
 symptoms of a grin of proportionately broad dimensions; and then,
-thrusting half-a-crown into each of his pockets, and a hand and wrist
-after it, he burst into a horse laugh: being for the first and only time
+thrusting half-a-[[Crown|crown]] into each of his pockets, and a hand and wrist
+after it, he burst into a [[Horse|horse]] laugh: being for the first and only [[Time|time]]
 in his existence.
 
 ‘He understands us, I see,’ said Arabella.
@@ -403,7 +403,7 @@ porter.
 
 Having apostrophised his eye, in a species of rapture, five or six
 times, the youth took the head of the little table, and Mary seated
-herself at the bottom.
+herself at the [[Bottom|bottom]].
 
 ‘Will you have some of this?’ said the fat boy, plunging into the pie up
 to the very ferules of the knife and fork.
@@ -419,7 +419,7 @@ and fork in them, fall on his knees, said, very slowly--
 
 This was said in an admiring manner, and was, so far, gratifying; but
 still there was enough of the cannibal in the young gentleman’s eyes to
-render the compliment a double one.
+render the compliment a [[Double|double]] one.
 
 ‘Dear me, Joseph,’ said Mary, affecting to blush, ‘what do you mean?’
 
@@ -428,9 +428,9 @@ heavy sigh, and, remaining thoughtful for a few moments, drank a long
 draught of the porter. Having achieved this feat, he sighed again, and
 applied himself assiduously to the pie.
 
-‘What a nice young lady Miss Emily is!’ said Mary, after a long silence.
+‘What a nice young lady Miss Emily is!’ said Mary, after a long [[Silence|silence]].
 
-The fat boy had by this time finished the pie. He fixed his eyes on
+The fat boy had by this [[Time|time]] finished the pie. He fixed his eyes on
 Mary, and replied--
 
 ‘I knows a nicerer.’
@@ -454,11 +454,11 @@ ogle.
 
 ‘Don’t I, though?’ replied the fat boy. ‘I say?’
 
-‘Well?’
+‘[[Well]]?’
 
 ‘Are you going to come here regular?’
 
-‘No,’ rejoined Mary, shaking her head, ‘I’m going away again to-night.
+‘No,’ rejoined Mary, shaking her head, ‘I’m going away again to-[[Night|night]].
 Why?’
 
 ‘Oh,’ said the fat boy, in a tone of strong feeling; ‘how we should have
@@ -473,13 +473,13 @@ took out one of the half-crowns and glanced at it nervously.
 
 ‘Don’t you understand me?’ said Mary, looking slily in his fat face.
 
-Again he looked at the half-crown, and said faintly, ‘No.’
+Again he looked at the half-[[Crown|crown]], and said faintly, ‘No.’
 
 ‘The ladies want you not to say anything to the old gentleman about the
 young gentleman having been upstairs; and I want you too.’
 
 ‘Is that all?’ said the fat boy, evidently very much relieved, as he
-pocketed the half-crown again. ‘Of course I ain’t a-going to.’
+pocketed the half-[[Crown|crown]] again. ‘Of course I ain’t a-going to.’
 
 ‘You see,’ said Mary, ‘Mr. Snodgrass is very fond of Miss Emily, and
 Miss Emily’s very fond of him, and if you were to tell about it, the old
@@ -488,7 +488,7 @@ see nobody.’
 
 ‘No, no, I won’t tell,’ said the fat boy stoutly.
 
-‘That’s a dear,’ said Mary. ‘Now it’s time I went upstairs, and got my
+‘That’s a dear,’ said Mary. ‘Now it’s [[Time|time]] I went upstairs, and got my
 lady ready for dinner.’
 
 ‘Don’t go yet,’ urged the fat boy.
@@ -505,15 +505,15 @@ There was so much to say upstairs, and there were so many plans to
 concert for elopement and matrimony in the event of old Wardle
 continuing to be cruel, that it wanted only half an hour of dinner when
 Mr. Snodgrass took his final adieu. The ladies ran to Emily’s bedroom to
-dress, and the lover, taking up his hat, walked out of the room. He had
+dress, and the [[Lover|lover]], taking up his hat, walked out of the room. He had
 scarcely got outside the door, when he heard Wardle’s voice talking
 loudly, and looking over the banisters beheld him, followed by some
-other gentlemen, coming straight upstairs. Knowing nothing of the house,
+other gentlemen, coming straight upstairs. Knowing nothing of the [[house]],
 Mr. Snodgrass in his confusion stepped hastily back into the room he had
 just quitted, and passing thence into an inner apartment (Mr. Wardle’s
 bedchamber), closed the door softly, just as the persons he had caught a
 glimpse of entered the sitting-room. These were Mr. Wardle, Mr.
-Pickwick, Mr. Nathaniel Winkle, and Mr. Benjamin Allen, whom he had no
+[[Pickwick]], Mr. [[Nathaniel Winkle]], and Mr. Benjamin Allen, whom he had no
 difficulty in recognising by their voices.
 
 ‘Very lucky I had the presence of mind to avoid them,’ thought Mr.
@@ -543,7 +543,7 @@ had appeared under the head of ‘Police’ in that morning’s paper), he sat
 himself on a portmanteau, and trembled violently.
 
 ‘We won’t wait a minute for Perker,’ said Wardle, looking at his watch;
-‘he is always exact. He will be here, in time, if he means to come; and
+‘he is always exact. He will be here, in [[Time|time]], if he means to come; and
 if he does not, it’s of no use waiting. Ha! Arabella!’
 
 ‘My sister!’ exclaimed Mr. Benjamin Allen, folding her in a most
@@ -552,17 +552,17 @@ romantic embrace.
 ‘Oh, Ben, dear, how you do smell of tobacco,’ said Arabella, rather
 overcome by this mark of affection.
 
-‘Do I?’ said Mr. Benjamin Allen. ‘Do I, Bella? Well, perhaps I do.’
+‘Do I?’ said Mr. Benjamin Allen. ‘Do I, Bella? [[Well]], perhaps I do.’
 
 Perhaps he did, having just left a pleasant little smoking-party of
-twelve medical students, in a small back parlour with a large fire.
+twelve medical students, in a small back parlour with a large [[Fire|fire]].
 
 ‘But I am delighted to see you,’ said Mr. Ben Allen. ‘Bless you, Bella!’
 
 ‘There,’ said Arabella, bending forward to kiss her brother; ‘don’t take
 hold of me again, Ben, dear, because you tumble me so.’
 
-At this point of the reconciliation, Mr. Ben Allen allowed his feelings
+At this point of the [[Reconciliation|reconciliation]], Mr. Ben Allen allowed his feelings
 and the cigars and porter to overcome him, and looked round upon the
 beholders with damp spectacles.
 
@@ -570,10 +570,10 @@ beholders with damp spectacles.
 
 ‘A great deal,’ whispered Arabella, as she received the old gentleman’s
 hearty caress and congratulation. ‘You are a hard-hearted, unfeeling,
-cruel monster.’
+cruel [[Monster|monster]].’
 
-‘You are a little rebel,’ replied Wardle, in the same tone, ‘and I am
-afraid I shall be obliged to forbid you the house. People like you, who
+‘You are a little [[Rebel|rebel]],’ replied Wardle, in the same tone, ‘and I am
+afraid I shall be obliged to forbid you the [[house]]. People like you, who
 get married in spite of everybody, ought not to be let loose on society.
 But come!’ added the old gentleman aloud, ‘here’s the dinner; you shall
 sit by me. Joe; why, damn the boy, he’s awake!’
@@ -581,7 +581,7 @@ sit by me. Joe; why, damn the boy, he’s awake!’
 To the great distress of his master, the fat boy was indeed in a state
 of remarkable vigilance, his eyes being wide open, and looking as if
 they intended to remain so. There was an alacrity in his manner, too,
-which was equally unaccountable; every time his eyes met those of Emily
+which was equally unaccountable; every [[Time|time]] his eyes met those of Emily
 or Arabella, he smirked and grinned; once, Wardle could have sworn, he
 saw him wink.
 
@@ -634,7 +634,7 @@ box, lest his prolonged absence should lead to a discovery. He ruminated
 a little with a most disturbed expression of face, and left the room in
 search of Mary.
 
-But Mary had gone home after dressing her mistress, and the fat boy came
+But Mary had gone [[Home|home]] after dressing her mistress, and the fat boy came
 back again more disturbed than before.
 
 Wardle and Mr. Ben Allen exchanged glances.
@@ -648,36 +648,36 @@ Wardle and Mr. Ben Allen exchanged glances.
 The fat boy looked hopelessly in the face of everybody at table, and
 stammered out that he didn’t know.
 
-‘Oh,’ said Wardle, ‘you don’t know, eh? Take this cheese to Mr.
-Pickwick.’
+‘Oh,’ said Wardle, ‘you don’t know, eh? Take this [[cheese]] to Mr.
+[[Pickwick]].’
 
-Now, Mr. Pickwick being in the very best health and spirits, had been
-making himself perfectly delightful all dinner-time, and was at this
+Now, Mr. [[Pickwick]] being in the very best health and spirits, had been
+making himself perfectly delightful all dinner-[[Time|time]], and was at this
 moment engaged in an energetic conversation with Emily and Mr. Winkle;
 bowing his head, courteously, in the emphasis of his discourse, gently
 waving his left hand to lend force to his observations, and all glowing
-with placid smiles. He took a piece of cheese from the plate, and was on
+with placid smiles. He took a piece of [[cheese]] from the plate, and was on
 the point of turning round to renew the conversation, when the fat boy,
-stooping so as to bring his head on a level with that of Mr. Pickwick,
+stooping so as to bring his head on a level with that of Mr. [[Pickwick]],
 pointed with his thumb over his shoulder, and made the most horrible and
 hideous face that was ever seen out of a Christmas pantomime.
 
-‘Dear me!’ said Mr. Pickwick, starting, ‘what a very--Eh?’ He stopped,
+‘Dear me!’ said Mr. [[Pickwick]], starting, ‘what a very--Eh?’ He stopped,
 for the fat boy had drawn himself up, and was, or pretended to be, fast
 asleep.
 
 ‘What’s the matter?’ inquired Wardle.
 
-‘This is such an extremely singular lad!’ replied Mr. Pickwick, looking
+‘This is such an extremely singular lad!’ replied Mr. [[Pickwick]], looking
 uneasily at the boy. ‘It seems an odd thing to say, but upon my word I
 am afraid that, at times, he is a little deranged.’
 
-‘Oh! Mr. Pickwick, pray don’t say so,’ cried Emily and Arabella, both at
+‘Oh! Mr. [[Pickwick]], pray don’t say so,’ cried Emily and Arabella, both at
 once.
 
-‘I am not certain, of course,’ said Mr. Pickwick, amidst profound
-silence and looks of general dismay; ‘but his manner to me this moment
-really was very alarming. Oh!’ ejaculated Mr. Pickwick, suddenly jumping
+‘I am not certain, of course,’ said Mr. [[Pickwick]], amidst profound
+[[Silence|silence]] and looks of general dismay; ‘but his manner to me this moment
+really was very alarming. Oh!’ ejaculated Mr. [[Pickwick]], suddenly jumping
 up with a short scream. ‘I beg your pardon, ladies, but at that moment
 he ran some sharp instrument into my leg. Really, he is not safe.’
 
@@ -692,7 +692,7 @@ gentleman.
 
 ‘I ain’t mad; I’m sensible,’ rejoined the fat boy, beginning to cry.
 
-‘Then, what the devil did you run sharp instruments into Mr. Pickwick’s
+‘Then, what the devil did you run sharp instruments into Mr. [[Pickwick]]’s
 legs for?’ inquired Wardle angrily.
 
 ‘He wouldn’t look at me,’ replied the boy. ‘I wanted to speak to him.’
@@ -700,11 +700,11 @@ legs for?’ inquired Wardle angrily.
 ‘What did you want to say?’ asked half a dozen voices at once.
 
 The fat boy gasped, looked at the bedroom door, gasped again, and wiped
-two tears away with the knuckle of each of his forefingers.
+two [[Tears|tears]] away with the knuckle of each of his forefingers.
 
 ‘What did you want to say?’ demanded Wardle, shaking him.
 
-‘Stop!’ said Mr. Pickwick; ‘allow me. What did you wish to communicate
+‘Stop!’ said Mr. [[Pickwick]]; ‘allow me. What did you wish to communicate
 to me, my poor boy?’
 
 ‘I want to whisper to you,’ replied the fat boy.
@@ -713,7 +713,7 @@ to me, my poor boy?’
 him; he’s vicious; ring the bell, and let him be taken downstairs.’
 
 Just as Mr. Winkle caught the bell-rope in his hand, it was arrested by
-a general expression of astonishment; the captive lover, his face
+a general expression of astonishment; the captive [[Lover|lover]], his face
 burning with confusion, suddenly walked in from the bedroom, and made a
 comprehensive bow to the company.
 
@@ -732,8 +732,8 @@ knows--that I was no party to this concealment. Augustus, for Heaven’s
 sake, explain it!’
 
 Mr. Snodgrass, who had only waited for a hearing, at once recounted how
-he had been placed in his then distressing predicament; how the fear of
-giving rise to domestic dissensions had alone prompted him to avoid Mr.
+he had been placed in his then distressing predicament; how the [[Fear|fear]] of
+giving rise to domestic dissensions had [[Alone|alone]] prompted him to avoid Mr.
 Wardle on his entrance; how he merely meant to depart by another door,
 but, finding it locked, had been compelled to stay against his will. It
 was a painful situation to be placed in; but he now regretted it the
@@ -745,17 +745,17 @@ rolled their waters, he could never for an instant forget those happy
 days, when first--et cetera, et cetera.
 
 Having delivered himself to this effect, Mr. Snodgrass bowed again,
-looked into the crown of his hat, and stepped towards the door.
+looked into the [[Crown|crown]] of his hat, and stepped towards the door.
 
 ‘Stop!’ shouted Wardle. ‘Why, in the name of all that’s--’
 
-‘Inflammable,’ mildly suggested Mr. Pickwick, who thought something
+‘Inflammable,’ mildly suggested Mr. [[Pickwick]], who thought something
 worse was coming.
 
-‘Well--that’s inflammable,’ said Wardle, adopting the substitute;
+‘[[Well]]--that’s inflammable,’ said Wardle, adopting the substitute;
 ‘couldn’t you say all this to me in the first instance?’
 
-‘Or confide in me?’ added Mr. Pickwick.
+‘Or confide in me?’ added Mr. [[Pickwick]].
 
 ‘Dear, dear,’ said Arabella, taking up the defence, ‘what is the use of
 asking all that now, especially when you know you had set your covetous
@@ -778,7 +778,7 @@ drew his chair next Emily, without the smallest opposition on the old
 gentleman’s part.
 
 The evening was excellent. Little Mr. Perker came out wonderfully, told
-various comic stories, and sang a serious song which was almost as funny
+various comic stories, and sang a serious [[Song|song]] which was almost as funny
 as the anecdotes. Arabella was very charming, Mr. Wardle very jovial,
-Mr. Pickwick very harmonious, Mr. Ben Allen very uproarious, the lovers
+Mr. [[Pickwick]] very harmonious, Mr. Ben Allen very uproarious, the [[lovers]]
 very silent, Mr. Winkle very talkative, and all of them very happy.

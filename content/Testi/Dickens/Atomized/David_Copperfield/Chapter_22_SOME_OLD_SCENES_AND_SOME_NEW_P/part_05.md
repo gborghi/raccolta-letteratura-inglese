@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 5)"
+title: "[[David Copperfield]] — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -21,7 +21,7 @@ again.
 ‘What do you mean, Miss Mowcher?’ said Steerforth.
 
 ‘Ha! ha! ha! What a refreshing set of humbugs we are, to be sure, ain’t
-we, my sweet child?’ replied that morsel of a woman, feeling in the bag
+we, my sweet [[Child|child]]?’ replied that morsel of a woman, feeling in the bag
 with her head on one side and her eye in the air. ‘Look here!’ taking
 something out. ‘Scraps of the Russian Prince’s nails. Prince Alphabet
 turned topsy-turvy, I call him, for his name’s got all the letters in
@@ -32,16 +32,16 @@ it, higgledy-piggledy.’
 ‘I believe you, my pet,’ replied Miss Mowcher. ‘I keep his nails in
 order for him. Twice a week! Fingers and toes.’
 
-‘He pays well, I hope?’ said Steerforth.
+‘He pays [[Well|well]], I [[Hope|hope]]?’ said Steerforth.
 
-‘Pays, as he speaks, my dear child--through the nose,’ replied Miss
+‘Pays, as he speaks, my dear [[Child|child]]--through the nose,’ replied Miss
 Mowcher. ‘None of your close shavers the Prince ain’t. You’d say so, if
-you saw his moustachios. Red by nature, black by art.’
+you saw his moustachios. Red by [[Nature|nature]], black by art.’
 
 ‘By your art, of course,’ said Steerforth.
 
 Miss Mowcher winked assent. ‘Forced to send for me. Couldn’t help it.
-The climate affected his dye; it did very well in Russia, but it was no
+The climate affected his dye; it did very [[Well|well]] in [[Russia]], but it was no
 go here. You never saw such a rusty Prince in all your born days as he
 was. Like old iron!’ ‘Is that why you called him a humbug, just now?’
 inquired Steerforth.
@@ -59,10 +59,10 @@ Prince’s nails!’ said this least of women, trying to fold her short
 arms, and nodding her large head.
 
 Steerforth laughed heartily, and I laughed too. Miss Mowcher continuing
-all the time to shake her head (which was very much on one side), and to
+all the [[Time|time]] to shake her head (which was very much on one side), and to
 look into the air with one eye, and to wink with the other.
 
-‘Well, well!’ she said, smiting her small knees, and rising, ‘this is
+‘[[Well]], [[Well|well]]!’ she said, smiting her small knees, and rising, ‘this is
 not business. Come, Steerforth, let’s explore the polar regions, and
 have it over.’
 
@@ -73,13 +73,13 @@ and begging the assistance of my hand, mounted up, pretty nimbly, to the
 top, as if it were a stage.
 
 ‘If either of you saw my ankles,’ she said, when she was safely
-elevated, ‘say so, and I’ll go home and destroy myself!’
+elevated, ‘say so, and I’ll go [[Home|home]] and destroy myself!’
 
 ‘I did not,’ said Steerforth.
 
 ‘I did not,’ said I.
 
-‘Well then,’ cried Miss Mowcher, ‘I’ll consent to live. Now, ducky,
+‘[[Well]] then,’ cried Miss Mowcher, ‘I’ll consent to live. Now, ducky,
 ducky, ducky, come to Mrs. Bond and be killed.’
 
 This was an invitation to Steerforth to place himself under her hands;
@@ -98,8 +98,8 @@ polishing that shall keep your curls on for the next ten years!’
 With this, she tilted some of the contents of the little bottle on to
 one of the little bits of flannel, and, again imparting some of the
 virtues of that preparation to one of the little brushes, began rubbing
-and scraping away with both on the crown of Steerforth’s head in the
-busiest manner I ever witnessed, talking all the time.
+and scraping away with both on the [[Crown|crown]] of Steerforth’s head in the
+busiest manner I ever witnessed, talking all the [[Time|time]].
 
 ‘There’s Charley Pyegrave, the duke’s son,’ she said. ‘You know
 Charley?’ peeping round into his face.
@@ -129,8 +129,8 @@ by name. “Begging pardon, sir,” said the Griffin to Charley, “it’s
 not--not--not ROUGE, is it?” “Rouge,” said Charley to the Griffin. “What
 the unmentionable to ears polite, do you think I want with rouge?” “No
 offence, sir,” said the Griffin; “we have it asked for by so many names,
-I thought it might be.” Now that, my child,’ continued Miss Mowcher,
-rubbing all the time as busily as ever, ‘is another instance of
+I thought it might be.” Now that, my [[Child|child]],’ continued Miss Mowcher,
+rubbing all the [[Time|time]] as busily as ever, ‘is another instance of
 the refreshing humbug I was speaking of. I do something in that way
 myself--perhaps a good deal--perhaps a little--sharp’s the word, my dear
 boy--never mind!’
@@ -138,7 +138,7 @@ boy--never mind!’
 ‘In what way do you mean? In the rouge way?’ said Steerforth.
 
 ‘Put this and that together, my tender pupil,’ returned the wary
-Mowcher, touching her nose, ‘work it by the rule of Secrets in all
+Mowcher, touching her nose, ‘work it by the rule of [[Secrets]] in all
 trades, and the product will give you the desired result. I say I do a
 little in that way myself. One Dowager, SHE calls it lip-salve. Another,
 SHE calls it gloves. Another, SHE calls it tucker-edging. Another, SHE

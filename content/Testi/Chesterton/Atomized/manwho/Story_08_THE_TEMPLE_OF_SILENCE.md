@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE TEMPLE OF  SILENCE"
+title: "[[manwho]] — THE TEMPLE OF  [[Silence|SILENCE]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/manwho-(Chesterton)"
@@ -14,21 +14,21 @@ tags:
 </nav>
 
 
-VII. THE TEMPLE OF SILENCE
+VII. THE TEMPLE OF [[Silence|SILENCE]]
 
 
 
-Harold March and the few who cultivated the friendship of Horne
+Harold March and the few who cultivated the [[Friendship|friendship]] of Horne
 
 Fisher, especially if they saw something of him in his own social
 
-setting, were conscious of a certain solitude in his very
+setting, were conscious of a certain [[Solitude|solitude]] in his very
 
 sociability. They seemed to be always meeting his relations and
 
 never meeting his family. Perhaps it would be truer to say that they
 
-saw much of his family and nothing of his home. His cousins and
+saw much of his family and nothing of his [[Home|home]]. His cousins and
 
 connections ramified like a labyrinth all over the governing class
 
@@ -42,7 +42,7 @@ touching all sorts of topics, so that one could sometimes fancy that
 
 his culture, like his colorless, fair mustache and pale, drooping
 
-features, had the neutral nature of a chameleon. Anyhow, he could
+features, had the neutral [[Nature|nature]] of a chameleon. Anyhow, he could
 
 always get on with viceroys and Cabinet Ministers and all the great
 
@@ -52,7 +52,7 @@ his own subject, on the branch of study with which he was most
 
 seriously concerned. Thus he could converse with the Minister for
 
-War about silkworms, with the Minister of Education about detective
+War about silkworms, with the Minister of [[Education]] about [[Detective|detective]]
 
 stories, with the Minister of Labor about Limoges enamel, and with
 
@@ -62,7 +62,7 @@ title) about the pantomime boys of the last four decades. And as the
 
 first was his first cousin, the second his second cousin, the third
 
-his brother-in-law, and the fourth his uncle by marriage, this
+his brother-in-law, and the fourth his uncle by [[Marriage|marriage]], this
 
 conversational versatility certainly served in one sense to create a
 
@@ -72,11 +72,11 @@ domestic interior to which men of the middle classes are accustomed
 
 in their friendships, and which is indeed the foundation of
 
-friendship and love and everything else in any sane and stable
+[[Friendship|friendship]] and [[Love|love]] and everything else in any sane and stable
 
-society. He wondered whether Horne Fisher was both an orphan and an
+society. He wondered whether Horne Fisher was both an [[Orphan|orphan]] and an
 
-only child.
+only [[Child|child]].
 
 
 
@@ -102,15 +102,15 @@ much more smooth. He was very courteous, but a shade patronizing,
 
 not only to March, but even, as March fancied, to Horne Fisher as
 
-well. The latter gentleman, who had many intuitions about the
+[[Well|well]]. The latter gentleman, who had many intuitions about the
 
 half-formed thoughts of others, glanced at the topic himself as they
 
-came away from the great house in Berkeley Square.
+came away from the [[Great House|great house]] in Berkeley Square.
 
 
 
-"Why, don't you know," he observed quietly, "that I am the fool of
+"Why, don't you know," he observed quietly, "that I am the [[Fool|fool]] of
 
 the family?"
 
@@ -122,9 +122,9 @@ the family?"
 
 "Very gracefully expressed," replied Fisher; "that is the best of
 
-having a literary training. Well, perhaps it is an exaggeration to
+having a literary training. [[Well]], perhaps it is an exaggeration to
 
-say I am the fool of the family. It's enough to say I am the failure
+say I am the [[Fool|fool]] of the family. It's enough to say I am the failure
 
 of the family."
 
@@ -156,7 +156,7 @@ March, laughing.
 
 matter of fact, old chap, the other part of it was rather odd and
 
-interesting. Quite a detective story in its way, as well as the
+interesting. Quite a [[Detective|detective]] story in its way, as [[Well|well]] as the
 
 first lesson I had in what modern politics are made of. If you like,
 
@@ -200,7 +200,7 @@ knowing. England has had at least three or four such secret
 
 statesmen. An aristocratic polity produces every now and then an
 
-aristocrat who is also an accident, a man of intellectual
+[[aristocrat]] who is also an accident, a man of intellectual
 
 independence and insight, a Napoleon born in the purple. His vast
 
@@ -214,7 +214,7 @@ of the Fishers, and the unexpected opinion he expressed, which
 
 turned what might have been a dinner-table joke into a sort of small
 
-sensational novel.
+sensational [[Novel|novel]].
 
 
 
@@ -226,7 +226,7 @@ leaving the rest to their coffee and cigars. This had been a figure
 
 of some interest--a young Cambridge man named Eric Hughes who was
 
-the rising hope of the party of Reform, to which the Fisher family,
+the rising [[Hope|hope]] of the party of [[Reform]], to which the Fisher family,
 
 along with their friend Saltoun, had long been at least formally
 
@@ -234,7 +234,7 @@ attached. The personality of Hughes was substantially summed up in
 
 the fact that he talked eloquently and earnestly through the whole
 
-dinner, but left immediately after to be in time for an appointment.
+dinner, but left immediately after to be in [[Time|time]] for an appointment.
 
 All his actions had something at once ambitious and conscientious;
 
@@ -250,21 +250,21 @@ the powerful speech against squirarchy which he had just delivered;
 
 even in the Fisher circle everybody talked about it except Horne
 
-Fisher himself who sat in a corner, lowering over the fire.
+Fisher himself who sat in a corner, lowering over the [[Fire|fire]].
 
 
 
-"We jolly well have to thank him for putting some new life into the
+"We jolly [[Well|well]] have to thank him for putting some new life into the
 
 old party," Ashton Fisher was saying. "This campaign against the old
 
-squires just hits the degree of democracy there is in this county.
+squires just hits the degree of [[democracy]] there is in this county.
 
 This act for extending county council control is practically his
 
-bill; so you may say he's in the government even before he's in the
+bill; so you may say he's in the [[government]] even before he's in the
 
-House."
+[[house|House]]."
 
 
 
@@ -272,25 +272,25 @@ House."
 
 squire's a bigger pot than the county council in that county. Verner
 
-is pretty well rooted; all these rural places are what you call
+is pretty [[Well|well]] rooted; all these rural places are what you call
 
 reactionary. Damning aristocrats won't alter it."
 
 
 
-"He damns them rather well," observed Ashton.  "We never had a
+"He damns them rather [[Well|well]]," observed Ashton.  "We never had a
 
 better meeting than the one in Barkington, which generally goes
 
 Constitutional. And when he said, 'Sir Francis may boast of blue
 
-blood; let us show we have red blood,' and went on to talk about
+[[Blood|blood]]; let us show we have red [[Blood|blood]],' and went on to talk about
 
-manhood and liberty, the room simply rose at him."
+manhood and liberty, the room simply [[Rose|rose]] at him."
 
 
 
-"Speaks very well," said Lord Saltoun, gruffly, making his only
+"Speaks very [[Well|well]]," said Lord Saltoun, gruffly, making his only
 
 contribution to the conversation so far.
 
@@ -298,7 +298,7 @@ contribution to the conversation so far.
 
 Then the almost equally silent Horne Fisher suddenly spoke, without
 
-taking his brooding eyes off the fire.
+taking his brooding eyes off the [[Fire|fire]].
 
 
 
@@ -312,15 +312,15 @@ for the real reason."
 
 
 
-"Well, take Verner," continued Horne Fisher.  "If we want to attack
+"[[Well]], take Verner," continued Horne Fisher.  "If we want to attack
 
 Verner, why not attack him? Why compliment him on being a romantic
 
-reactionary aristocrat? Who is Verner? Where does he come from? His
+reactionary [[aristocrat]]? Who is Verner? Where does he come from? His
 
 name sounds old, but I never heard of it before, as the man said of
 
-the Crucifixion. Why talk about his blue blood? His blood may be
+the Crucifixion. Why talk about his blue [[Blood|blood]]? His [[Blood|blood]] may be
 
 gamboge yellow with green spots, for all anybody knows. All we know
 
@@ -390,7 +390,7 @@ American oil trust?"
 
 and his merry men, with their bows and bills, marching down to
 
-Somerset all in Lincoln green instead of Lincoln and Bennet hats?"
+Somerset all in [[Lincoln]] green instead of [[Lincoln]] and Bennet hats?"
 
 
 
@@ -400,7 +400,7 @@ think it would be an exceedingly serious and sensible idea."
 
 
 
-"Well, I'm jiggered!" cried Harry Fisher, staring at him. "I said
+"[[Well]], I'm jiggered!" cried Harry Fisher, staring at him. "I said
 
 just now it was the first fact you didn't know, and I should say
 
@@ -408,9 +408,9 @@ this is the first joke you didn't see."
 
 
 
-"I've seen a good many things in my time," said the old man, in his
+"I've seen a good many things in my [[Time|time]]," said the old man, in his
 
-rather sour fashion. "I've told a good many lies in my time, too,
+rather sour fashion. "I've told a good many lies in my [[Time|time]], too,
 
 and perhaps I've got rather sick of them. But there are lies and
 
@@ -430,7 +430,7 @@ Ancient Briton, I should say it would be a jolly good thing."
 
 
 
-In the rather startled silence that followed Horne Fisher sprang to
+In the rather startled [[Silence|silence]] that followed Horne Fisher sprang to
 
 his feet and all his dreary manner dropped off him.
 
@@ -474,7 +474,7 @@ accompanied by a light suitcase and a lively brother. It must not be
 
 supposed, however, that the brother's cheerful tone consisted
 
-entirely of chaff. He supported the new candidate with hope as well
+entirely of chaff. He supported the new candidate with [[Hope|hope]] as [[Well|well]]
 
 as hilarity; and at the back of his boisterous partnership there was
 
@@ -516,7 +516,7 @@ individual with humor, two political arts that seemed to come to him
 
 naturally. He certainly knew much more about rural problems than
 
-either Hughes, the Reform candidate, or Verner, the Constitutional
+either Hughes, the [[Reform]] candidate, or Verner, the Constitutional
 
 candidate. And he probed those problems with a human curiosity, and
 
@@ -534,9 +534,9 @@ the little local public houses, crafts half forgotten that had come
 
 down by sign of hand and tongue from remote ages when their fathers
 
-were free--all this created a curious and double excitement. It
+were free--all this created a curious and [[Double|double]] excitement. It
 
-startled the well informed by being a new and fantastic idea they
+startled the [[Well|well]] informed by being a new and fantastic idea they
 
 had never encountered. It startled the ignorant by being an old and
 
@@ -544,7 +544,7 @@ familiar idea they never thought to have seen revived. Men saw
 
 things in a new light, and knew not even whether it was the sunset
 
-or the dawn.
+or the [[Dawn|dawn]].
 
 
 
@@ -558,7 +558,7 @@ very bad landlord. Nor was the story of his acquisition of the land
 
 any more ancient and dignified than he had supposed; the story was
 
-well known in the county and in most respects was obvious enough.
+[[Well|well]] known in the county and in most respects was obvious enough.
 
 Hawker, the old squire, had been a loose, unsatisfactory sort of
 
@@ -570,13 +570,13 @@ Jewess with a fortune. But he must have worked his way through this
 
 fortune also with marvelous rapidity, for he had been compelled to
 
-sell the estate to Verner and had gone to live in South America,
+sell the estate to Verner and had gone to live in South [[America]],
 
 possibly on his wife's estates. But Fisher noticed that the laxity
 
 of the old squire was far less hated than the efficiency of the new
 
-squire. Verner's history seemed to be full of smart bargains and
+squire. Verner's [[history]] seemed to be full of smart bargains and
 
 financial flutters that left other people short of money and temper.
 
@@ -602,11 +602,11 @@ And as he pondered on the possibilities they grew darker and more
 
 distorted in his mind; he thought vaguely of things remote and
 
-repulsive, strange forms of slavery or sorcery, and then of ugly
+repulsive, strange forms of [[Slavery|slavery]] or sorcery, and then of ugly
 
-things yet more unnatural but nearer home. The figure of Verner
+things yet more unnatural but nearer [[Home|home]]. The figure of Verner
 
-seemed to be blackened and transfigured in his imagination, and to
+seemed to be blackened and transfigured in his [[Imagination|imagination]], and to
 
 stand against varied backgrounds and strange skies.
 
@@ -616,7 +616,7 @@ As he strode up a village street, brooding thus, his eyes
 
 encountered a complete contrast in the face of his other rival, the
 
-Reform candidate. Eric Hughes, with his blown blond hair and eager
+[[Reform]] candidate. Eric Hughes, with his blown blond hair and eager
 
 undergraduate face, was just getting into his motor car and saying a
 
@@ -654,9 +654,9 @@ an arch, and through a tangle of crooked cobbled streets the two
 
 threaded their way, the square, strutting figure in front and the
 
-lean, lounging figure behind him, like his shadow in the sunshine.
+lean, lounging figure behind him, like his [[Shadow|shadow]] in the sunshine.
 
-At length they came to a brown brick house with a brass plate, on
+At length they came to a brown brick [[house]] with a brass plate, on
 
 which was Mr. Gryce's name, and that individual turned and beheld
 
@@ -682,7 +682,7 @@ call, of course. Can't pretend to congratulate you on entering the
 
 contest, I'm afraid; you won't expect that. Here we've been keeping
 
-the old flag flying for freedom and reform, and you come in and
+the old [[Flag|flag]] flying for [[Freedom|freedom]] and [[Reform|reform]], and you come in and
 
 break the battle line."
 
@@ -696,17 +696,17 @@ man with a pugnacious cock of the eyebrow. He had been pickled in
 
 the politics of that countryside from boyhood, he knew everybody's
 
-secrets, and electioneering was the romance of his life.
+[[Secrets|secrets]], and electioneering was the [[Romance|romance]] of his life.
 
 
 
-"I suppose you think I'm devoured with ambition," said Horne Fisher,
+"I suppose you think I'm devoured with [[Ambition|ambition]]," said Horne Fisher,
 
 in his rather listless voice, "aiming at a dictatorship and all
 
-that. Well, I think I can clear myself of the charge of mere selfish
+that. [[Well]], I think I can clear myself of the charge of mere selfish
 
-ambition. I only want certain things done. I don't want to do them.
+[[Ambition|ambition]]. I only want certain things done. I don't want to do them.
 
 I very seldom want to do anything. And I've come here to say that
 
@@ -716,7 +716,7 @@ that we really want to do the same thing."
 
 
 
-The agent of the Reform party looked at him with an odd and slightly
+The agent of the [[Reform]] party looked at him with an odd and slightly
 
 puzzled expression, and before he could reply, Fisher went on in the
 
@@ -724,9 +724,9 @@ same level tones:
 
 
 
-"You'd hardly believe it, but I keep a conscience concealed about
+"You'd hardly believe it, but I keep a [[Conscience|conscience]] concealed about
 
-me; and I am in doubt about several things. For instance, we both
+me; and I am in [[Doubt|doubt]] about several things. For instance, we both
 
 want to turn Verner out of Parliament, but what weapon are we to
 
@@ -736,7 +736,7 @@ on mere gossip? Just as I want to be fair to you, so I want to be
 
 fair to him. If some of the things I've heard are true he ought to
 
-be turned out of Parliament and every other club in London. But I
+be turned out of Parliament and every other club in [[London]]. But I
 
 don't want to turn him out of Parliament if they aren't true."
 
@@ -744,13 +744,13 @@ don't want to turn him out of Parliament if they aren't true."
 
 At this point the light of battle sprang into Mr. Gryce's eyes and
 
-he became voluble, not to say violent. He, at any rate, had no doubt
+he became voluble, not to say violent. He, at any rate, had no [[Doubt|doubt]]
 
 that the stories were true; he could testify, to his own knowledge,
 
 that they were true. Verner was not only a hard landlord, but a mean
 
-landlord, a robber as well as a rackrenter; any gentleman would be
+landlord, a robber as [[Well|well]] as a rackrenter; any gentleman would be
 
 justified in hounding him out. He had cheated old Wilkins out of his
 
@@ -764,23 +764,23 @@ the poacher, till all the magistrates were ashamed of him.
 
 "So if you'll serve under the old banner," concluded Mr. Gryce, more
 
-genially, "and turn out a swindling tyrant like that, I'm sure
+genially, "and turn out a swindling [[Tyrant|tyrant]] like that, I'm sure
 
 you'll never regret it."
 
 
 
-"And if that is the truth," said Horne Fisher, "are you going to
+"And if that is the [[Truth|truth]]," said Horne Fisher, "are you going to
 
 tell it?"
 
 
 
-"What do you mean?  Tell the truth?" demanded Gryce.
+"What do you mean?  Tell the [[Truth|truth]]?" demanded Gryce.
 
 
 
-"I mean you are going to tell the truth as you have just told it,"
+"I mean you are going to tell the [[Truth|truth]] as you have just told it,"
 
 replied Fisher. "You are going to placard this town with the
 
@@ -794,9 +794,9 @@ the poacher he did it to. And you're going to find out by what trade
 
 this man made the money with which he bought the estate; and when
 
-you know the truth, as I said before, of course you are going to
+you know the [[Truth|truth]], as I said before, of course you are going to
 
-tell it. Upon those terms I come under the old flag, as you call it,
+tell it. Upon those terms I come under the old [[Flag|flag]], as you call it,
 
 and haul down my little pennon."
 
@@ -804,7 +804,7 @@ and haul down my little pennon."
 
 The agent was eying him with a curious expression, surly but not
 
-entirely unsympathetic. "Well," he said, slowly, "you have to do
+entirely unsympathetic. "[[Well]]," he said, slowly, "you have to do
 
 these things in a regular way, you know, or people don't understand.
 
@@ -866,11 +866,11 @@ the old party, we'd rather you ran your own risk by yourself. But
 
 because I like you and respect your pluck, I'll do you a good turn
 
-before we part. I don't want you to waste time barking up the wrong
+before we part. I don't want you to waste [[Time|time]] barking up the wrong
 
 tree. You talk about how the new squire got the money to buy, and
 
-the ruin of the old squire, and all the rest of it. Well, I'll give
+the ruin of the old squire, and all the rest of it. [[Well]], I'll give
 
 you a hint about that, a hint about something precious few people
 
@@ -900,21 +900,21 @@ still very thoughtful.
 
 His reflection seemed to end in resolution, and, falling into a more
 
-rapid stride, he passed out of the little town along a road leading
+rapid stride, he passed out of the little town along a [[Road|road]] leading
 
 toward the gate of the great park, the country seat of Sir Francis
 
-Verner. A glitter of sunlight made the early winter more like a late
+Verner. A glitter of sunlight made the early [[Winter|winter]] more like a late
 
-autumn, and the dark woods were touched here and there with red and
+[[Autumn|autumn]], and the dark woods were touched here and there with red and
 
-golden leaves, like the last rays of a lost sunset. From a higher
+golden [[Leaves|leaves]], like the last rays of a lost sunset. From a higher
 
-part of the road he had seen the long, classical facade of the great
+part of the [[Road|road]] he had seen the long, classical facade of the great
 
-house with its many windows, almost immediately beneath him, but
+[[house]] with its many windows, almost immediately beneath him, but
 
-when the road ran down under the wall of the estate, topped with
+when the [[Road|road]] ran down under the wall of the estate, topped with
 
 towering trees behind, he realized that it was half a mile round to
 
@@ -934,13 +934,13 @@ of a fairy tale.
 
 
 
-Horne Fisher had in him something of the aristocrat, which is very
+Horne Fisher had in him something of the [[aristocrat]], which is very
 
 near to the anarchist. It was characteristic of him that he turned
 
 into this dark and irregular entry as casually as into his own front
 
-door, merely thinking that it would be a short cut to the house. He
+door, merely thinking that it would be a short cut to the [[house]]. He
 
 made his way through the dim wood for some distance and with some
 
@@ -950,9 +950,9 @@ light, in lines of silver, which he did not at first understand. The
 
 next moment he had come out into the daylight at the top of a steep
 
-bank, at the bottom of which a path ran round the rim of a large
+bank, at the [[Bottom|bottom]] of which a path ran round the rim of a large
 
-ornamental lake. The sheet of water which he had seen shimmering
+ornamental lake. The sheet of [[Water|water]] which he had seen shimmering
 
 through the trees was of considerable extent, but was walled in on
 
@@ -998,15 +998,15 @@ did; and I suppose even the Druids believed in Druidism. But the
 
 eighteenth-century gentleman who built these temples didn't believe
 
-in Venus or Mercury any more than we do; that's why the reflection
+in [[Venus]] or Mercury any more than we do; that's why the reflection
 
-of those pale pillars in the lake is truly only the shadow of a
+of those pale pillars in the lake is truly only the [[Shadow|shadow]] of a
 
 shade. They were men of the age of Reason; they, who filled their
 
-gardens with these stone nymphs, had less hope than any men in all
+gardens with these stone nymphs, had less [[Hope|hope]] than any men in all
 
-history of really meeting a nymph in the forest."
+[[history]] of really meeting a nymph in the forest."
 
 
 
@@ -1032,17 +1032,17 @@ him more. A ring of dense trees ran round the back of the island
 
 temple, framing the facade of it in dark foliage, and he could have
 
-sworn he saw a stir as of something moving among the leaves. The
+sworn he saw a stir as of something moving among the [[Leaves|leaves]]. The
 
 next moment his suspicion was confirmed, for a rather ragged figure
 
-came from under the shadow of the temple and began to move along the
+came from under the [[Shadow|shadow]] of the temple and began to move along the
 
 causeway that led to the bank. Even at that distance the figure was
 
 conspicuous by its great height and Fisher could see that the man
 
-carried a gun under his arm. There came back into his memory at once
+carried a gun under his arm. There came back into his [[Memory|memory]] at once
 
 the name Long Adam, the poacher.
 
@@ -1064,9 +1064,9 @@ against it, he stood as if at bay; he was a comparatively young man,
 
 with fine lines in his lean face and figure and a mop of ragged red
 
-hair. The look in his eyes might well have been disquieting to
+hair. The look in his eyes might [[Well|well]] have been disquieting to
 
-anyone left alone with him on an island in the middle of a lake.
+anyone left [[Alone|alone]] with him on an island in the middle of a lake.
 
 
 
@@ -1074,7 +1074,7 @@ anyone left alone with him on an island in the middle of a lake.
 
 you were a murderer. But it seems unlikely, somehow, that the
 
-partridge rushed between us and died for love of me, like the
+partridge rushed between us and died for [[Love|love]] of me, like the
 
 heroines in the romances; so I suppose you are a poacher."
 
@@ -1088,7 +1088,7 @@ had that hard fastidiousness to be found in those who have made a
 
 fight for their own refinement among rough surroundings. "I consider
 
-I have a perfect right to shoot game in this place. But I am well
+I have a perfect right to shoot game in this place. But I am [[Well|well]]
 
 aware that people of your sort take me for a thief, and I suppose
 
@@ -1120,7 +1120,7 @@ was as wrong as being a thief. It seems to me against the whole
 
 normal notion of property that a man should own something because it
 
-flies across his garden. He might as well own the wind, or think he
+flies across his [[Garden|garden]]. He might as [[Well|well]] own the [[Wind|wind]], or think he
 
 could write his name on a morning cloud. Besides, if we want poor
 
@@ -1214,7 +1214,7 @@ With that he turned his back, evidently resolved to say no more, and
 
 walked past the temple to the extreme end of the islet, where he
 
-stood staring into the water. Fisher followed him, but, when his
+stood staring into the [[Water|water]]. Fisher followed him, but, when his
 
 repeated questions evoked no answer, turned back toward the shore.
 
@@ -1258,7 +1258,7 @@ married his second wife for her money. (3) Long Adam says the estate
 
 is really his. (4) Long Adam hangs round the island temple, which
 
-looks like a prison. (5) Squire Hawker was not poor when he gave up
+looks like a [[Prison|prison]]. (5) Squire Hawker was not poor when he gave up
 
 the estate. (6) Verner was poor when he got the estate."
 
@@ -1268,13 +1268,13 @@ He gazed at these notes with a gravity which gradually turned to a
 
 hard smile, threw away his cigarette, and resumed his search for a
 
-short cut to the great house. He soon picked up the path which,
+short cut to the [[Great House|great house]]. He soon picked up the path which,
 
 winding among clipped hedges and flower beds, brought him in front
 
 of its long Palladian facade. It had the usual appearance of being,
 
-not a private house, but a sort of public building sent into exile
+not a private [[house]], but a sort of public building sent into [[Exile|exile]]
 
 in the provinces.
 
@@ -1328,7 +1328,7 @@ that his name was Franz Werner.
 
 
 
-"No, thank you," replied Fisher.  "I fear this is not a friendly
+"No, thank you," replied Fisher.  "I [[Fear|fear]] this is not a friendly
 
 occasion, and I shall remain standing. Possibly you know that I am
 
@@ -1366,9 +1366,9 @@ retire from the election at once."
 
 "My psychology may be a little abnormal," replied Horne Fisher, in a
 
-rather hazy manner. "I am subject to dreams, especially day-dreams.
+rather hazy manner. "I am subject to [[Dreams|dreams]], especially day-[[Dreams|dreams]].
 
-Sometimes what is happening to me grows vivid in a curious double
+Sometimes what is happening to me grows vivid in a curious [[Double|double]]
 
 way, as if it had happened before. Have you ever had that mystical
 
@@ -1376,7 +1376,7 @@ feeling that things have happened before?"
 
 
 
-"I hope you are a harmless lunatic," said Verner.
+"I [[Hope|hope]] you are a harmless lunatic," said Verner.
 
 
 
@@ -1388,7 +1388,7 @@ the walls; then he looked again at Verner and resumed: "I have a
 
 feeling that this interview has happened before, here in this
 
-tapestried room, and we are two ghosts revisiting a haunted chamber.
+tapestried room, and we are two [[Ghosts|ghosts]] revisiting a haunted chamber.
 
 But it was Squire Hawker who sat where you sit and it was you who
 
@@ -1430,15 +1430,15 @@ the bell ropes of the old-fashioned, curtained room.
 
 
 
-"And who is Usher?" said Fisher, softly.  "I wonder how much Usher
+"And who is Usher?" said Fisher, softly.  "I [[Wonder|wonder]] how much Usher
 
-knows of the truth."
+knows of the [[Truth|truth]]."
 
 
 
 Verner's hand fell from the bell rope and, after standing for a
 
-moment with rolling eyes, he strode abruptly from the room. Fisher
+moment with [[rolling]] eyes, he strode abruptly from the room. Fisher
 
 went but by the other door, by which he had entered, and, seeing no
 
@@ -1448,13 +1448,13 @@ town.
 
 
 
-That night he put an electric torch in his pocket and set out alone
+That [[Night|night]] he put an electric torch in his pocket and set out [[Alone|alone]]
 
 in the darkness to add the last links to his argument. There was
 
 much that he did not know yet; but he thought he knew where he could
 
-find the knowledge. The night closed dark and stormy and the black
+find the knowledge. The [[Night|night]] closed dark and stormy and the black
 
 gap in the wall looked blacker than ever; the wood seemed to have
 
@@ -1462,13 +1462,13 @@ grown thicker and darker in a day. If the deserted lake with its
 
 black woods and gray urns and images looked desolate even by
 
-daylight, under the night and the growing storm it seemed still more
+daylight, under the [[Night|night]] and the growing [[Storm|storm]] it seemed still more
 
 like the pool of Acheron in the land of lost souls. As he stepped
 
 carefully along the jetty stones he seemed to be traveling farther
 
-and farther into the abyss of night, and to have left behind him the
+and farther into the abyss of [[Night|night]], and to have left behind him the
 
 last points from which it would be possible to signal to the land of
 
@@ -1478,11 +1478,11 @@ sea of black and slimy waters that slept with abominable serenity,
 
 as if they had washed out the world. There was so much of this
 
-nightmare sense of extension and expansion that he was strangely
+[[nightmare]] sense of extension and expansion that he was strangely
 
-surprised to come to his desert island so soon. But he knew it for a
+surprised to come to his [[Desert|desert]] island so soon. But he knew it for a
 
-place of inhuman silence and solitude; and he felt as if he had been
+place of inhuman [[Silence|silence]] and [[Solitude|solitude]]; and he felt as if he had been
 
 walking for years.
 
@@ -1562,7 +1562,7 @@ violence had in it a great element of haste, and before he could
 
 rise they had all rushed for the door to escape. Whatever bandits
 
-they were that infested this desert island, they were obviously
+they were that infested this [[Desert|desert]] island, they were obviously
 
 uneasy about their job and very anxious to be quit of it. He had the
 
@@ -1578,11 +1578,11 @@ rapidly as it happened, it did not happen before Fisher had done
 
 something that he wanted to to. Unable to rise from his sprawling
 
-attitude in that flash of time, he had shot out one of his long legs
+attitude in that flash of [[Time|time]], he had shot out one of his long legs
 
 and hooked it round the ankle of the last man disappearing through
 
-the door. The man swayed and toppled over inside the prison chamber,
+the door. The man swayed and toppled over inside the [[Prison|prison]] chamber,
 
 and the door closed between him and his fleeing companions. Clearly
 
@@ -1600,13 +1600,13 @@ struggle and he sat up on his sofa with something of his native
 
 nonchalance. But as he listened to the captive captor beating on the
 
-door of the prison, a new and curious reflection came to him.
+door of the [[Prison|prison]], a new and curious reflection came to him.
 
 
 
 The natural course for a man thus wishing to attract his friends'
 
-attention would be to call out, to shout as well as kick. This man
+attention would be to call out, to shout as [[Well|well]] as kick. This man
 
 was making as much noise as he could with his feet and hands, but
 
@@ -1618,7 +1618,7 @@ his fancy fell back on the ugly idea that the man was dumb. He
 
 hardly knew why it was so ugly an idea, but it affected his
 
-imagination in a dark and disproportionate fashion. There seemed to
+[[Imagination|imagination]] in a dark and disproportionate fashion. There seemed to
 
 be something creepy about the idea of being left in a dark room with
 
@@ -1632,7 +1632,7 @@ should not see the sun.
 
 
 
-Then he had a flash of sanity and also of insight. The explanation
+Then he had a flash of [[Sanity|sanity]] and also of insight. The explanation
 
 was very simple, but rather interesting. Obviously the man did not
 
@@ -1648,11 +1648,11 @@ these parts, and in the development of that strange story.
 
 
 
-"Now I wonder who you are," he said, aloud, with all his old lazy
+"Now I [[Wonder|wonder]] who you are," he said, aloud, with all his old lazy
 
 urbanity. "I suppose it's no use trying to throttle you in order to
 
-find out; it would be displeasing to pass the night with a corpse.
+find out; it would be displeasing to pass the [[Night|night]] with a corpse.
 
 Besides I might be the corpse. I've got no matches and I've smashed
 
@@ -1674,11 +1674,11 @@ address him in a flowing monologue.
 
 he's a landed proprietor; but he will permit me to inform him that,
 
-whatever he is, he's a fool. What hope can there ever be of a free
+whatever he is, he's a [[Fool|fool]]. What [[Hope|hope]] can there ever be of a free
 
 peasantry in England if the peasants themselves are such snobs as to
 
-want to be gentlemen? How can we make a democracy with no democrats?
+want to be gentlemen? How can we make a [[democracy]] with no democrats?
 
 As it is, you want to be a landlord and so you consent to be a
 
@@ -1688,9 +1688,9 @@ And, now I think of it, perhaps you are somebody else."
 
 
 
-There was a silence broken by breathing from the corner and the
+There was a [[Silence|silence]] broken by breathing from the corner and the
 
-murmur of the rising storm, that came in through the small grating
+murmur of the rising [[Storm|storm]], that came in through the small grating
 
 above the man's head. Horne Fisher continued:
 
@@ -1738,13 +1738,13 @@ extraordinary things in these paltry feuds of politics. Or if not
 
 the servant, is it the . . . No, I can't believe it . . . not the
 
-red blood of manhood and liberty . . . not the democratic ideal . . ."
+red [[Blood|blood]] of manhood and liberty . . . not the democratic ideal . . ."
 
 
 
 He sprang up in excitement, and at the same moment a growl of
 
-thunder came through the grating beyond. The storm had broken, and
+thunder came through the grating beyond. The [[Storm|storm]] had broken, and
 
 with it a new light broke on his mind. There was something else that
 
@@ -1774,17 +1774,17 @@ other was the face in the corner. It was the face of his brother.
 
 Nothing came from Horne Fisher's lips except a Christian name, which
 
-was followed by a silence more dreadful than the dark. At last the
+was followed by a [[Silence|silence]] more dreadful than the dark. At last the
 
 other figure stirred and sprang up, and the voice of Harry Fisher
 
-was heard for the first time in that horrible room.
+was heard for the first [[Time|time]] in that horrible room.
 
 
 
-"You've seen me, I suppose," he said, "and we may as well have a
+"You've seen me, I suppose," he said, "and we may as [[Well|well]] have a
 
-light now. You could have turned it on at any time, if you'd found
+light now. You could have turned it on at any [[Time|time]], if you'd found
 
 the switch."
 
@@ -1814,7 +1814,7 @@ the momentary oblivion of bigger matters.
 
 
 
-"This place was furnished from the great house," he said.
+"This place was furnished from the [[Great House|great house]]," he said.
 
 
 
@@ -1830,7 +1830,7 @@ both the bigamist and the bandit. His first wife was not dead when
 
 he married the Jewess; she was imprisoned on this island. She bore
 
-him a child here, who now haunts his birthplace under the name of
+him a [[Child|child]] here, who now haunts his birthplace under the name of
 
 Long Adam. A bankruptcy company promoter named Werner discovered the
 
@@ -1862,7 +1862,7 @@ what could you expect?"'
 
 said his brother, sulkily. "We all thought you were so clever. How
 
-could we know you were going to be--well, really, such a rotten
+could we know you were going to be--[[Well|well]], really, such a rotten
 
 failure?"
 
@@ -1870,7 +1870,7 @@ failure?"
 
 "This is rather curious," said the candidate, frowning.  "Without
 
-vanity, I was not under the impression that my candidature was a
+[[Vanity|vanity]], I was not under the impression that my candidature was a
 
 failure. All the big meetings were successful and crowds of people
 
@@ -1878,7 +1878,7 @@ have promised me votes."
 
 
 
-"I should jolly well think they had," said' Henry, grimly. "You've
+"I should jolly [[Well|well]] think they had," said' Henry, grimly. "You've
 
 made a landslide with your confounded acres and a cow, and Verner
 
@@ -1900,7 +1900,7 @@ to get in. He's to have the Exchequer next session, and there's the
 
 Egyptian loan and Lord knows what else. We only wanted you to split
 
-the Reform vote because accidents might happen after Hughes had made
+the [[Reform]] vote because accidents might happen after Hughes had made
 
 a score at Barkington."
 
@@ -1908,13 +1908,13 @@ a score at Barkington."
 
 "I see," said Fisher, "and you, I think, are a pillar and ornament
 
-of the Reform party. As you say, I am not clever."
+of the [[Reform]] party. As you say, I am not clever."
 
 
 
 The appeal to party loyalty fell on deaf ears; for the pillar of
 
-Reform was brooding on other things. At last he said, in a more
+[[Reform]] was brooding on other things. At last he said, in a more
 
 troubled voice:
 
@@ -1952,7 +1952,7 @@ old man. I'll have one if you don't mind."
 
 
 
-By the time that Horne Fisher had ended his telling of this story to
+By the [[Time|time]] that Horne Fisher had ended his telling of this story to
 
 Harold March they had come out into one of the public parks and
 
@@ -1966,7 +1966,7 @@ words with which the narration ended.
 
 "I have been in that room ever since," said Horne Fisher.  "I am in
 
-it now. I won the election, but I never went to the House. My life
+it now. I won the election, but I never went to the [[house|House]]. My life
 
 has been a life in that little room on that lonely island. Plenty of
 

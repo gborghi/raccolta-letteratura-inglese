@@ -21,29 +21,29 @@ then we must stick to tradition.  If you want practical experiments,
 alterations and improvements, then you must cling convulsively
 to the past.  Read new books if you want an artistic sensation
 of novelty, a feeling that you are smelling a fresh flower,
-but not if you want anything done in legislation or social reform;
+but not if you want anything done in legislation or social [[Reform|reform]];
 for tradition is the only thing that ever does anything.
 Read old books if you want new Blue Books.
 
 Man is an animal with his feet foremost and his face turned back.
 I defy anyone to mention any plain case of what is ordinarily called
-progress in human history in which the mind of the progressive
+progress in human [[history]] in which the mind of the progressive
 people was not specially fixed upon some ideal in the past.
-Of the Renaissance I need not speak; the very word Renaissance
-proves the point.  But the French Revolution is quite as clear
+Of the [[Renaissance]] I need not speak; the very word [[Renaissance]]
+proves the point.  But the [[French Revolution]] is quite as clear
 a case; it was founded upon a theory of primitive right and it
 was perpetually taking for its model the old pagan republics.
 Rousseau's theory of the social contract was purely an appeal
 to our human past; recent thinkers doubtless deny that human past,
-but most of them are sufficiently logical to deny democracy as well.
+but most of them are sufficiently logical to deny [[Democracy|democracy]] as [[Well|well]].
 There has not been actually any progress anywhere without some
 passionate admiration of the past.  ... Man is like Perseus; he cannot
-look at the Gorgon of the future except in the mirror of the past.
+look at the Gorgon of the future except in the [[Mirror|mirror]] of the past.
 All those who have tried to look at a fixed future directly have
 been turned to stone.  The human heart has been petrified in them.
 The old Calvinists, with their predestination and necessity,
 were turned to stone.  The modem scientific sociologists, with their
-anthropology and their absurd eugenics, are turned to stone.
+anthropology and their absurd [[Eugenics|eugenics]], are turned to stone.
 They make amusing statues.
 
 It is utterly useless to talk about enlarging one's mind with visions
@@ -52,7 +52,7 @@ The future is a blank wall on which I paint my own portrait as large as
 I like.  ... We are attracted to the future because it is what is called
 a soft job.  In front of us lies an unknown or unreal world which we can
 mould according to every cowardice or triviality in our own temperaments.
-But if we look back at our fathers, as they gather in the gate of history,
+But if we look back at our fathers, as they gather in the gate of [[history]],
 we see it like the gate of Eden described by one of them in verse
 which we cannot imitate:
 

@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 23 (part 1)"
+title: "[[Villette]] — Chapter 23 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -18,12 +18,12 @@ CHAPTER XXIII.
 VASHTI.
 
 
-To wonder sadly, did I say? No: a new influence began to act upon my
+To [[Wonder|wonder]] sadly, did I say? No: a new influence began to act upon my
 life, and sadness, for a certain space, was held at bay. Conceive a
 dell, deep-hollowed in forest secresy; it lies in dimness and mist: its
-turf is dank, its herbage pale and humid. A storm or an axe makes a
+turf is dank, its herbage pale and humid. A [[Storm|storm]] or an axe makes a
 wide gap amongst the oak-trees; the breeze sweeps in; the sun looks
-down; the sad, cold dell becomes a deep cup of lustre; high summer
+down; the sad, cold dell becomes a deep cup of lustre; high [[Summer|summer]]
 pours her blue glory and her golden light out of that beauteous sky,
 which till now the starved hollow never saw.
 
@@ -34,9 +34,9 @@ in that case, box, drawer up-stairs, casketed with that first letter,
 four companions like to it, traced by the same firm pen, sealed with
 the same clear seal, full of the same vital comfort. Vital comfort it
 seemed to me then: I read them in after years; they were kind letters
-enough—pleasing letters, because composed by one well pleased; in the
+enough—pleasing letters, because composed by one [[Well|well]] pleased; in the
 two last there were three or four closing lines half-gay, half-tender,
-“by _feeling_ touched, but not subdued.” Time, dear reader, mellowed
+“by _feeling_ touched, but not subdued.” [[Time]], dear reader, mellowed
 them to a beverage of this mild quality; but when I first tasted their
 elixir, fresh from the fount so honoured, it seemed juice of a divine
 vintage: a draught which Hebe might fill, and the very gods approve.
@@ -45,7 +45,7 @@ Does the reader, remembering what was said some pages back, care to ask
 how I answered these letters: whether under the dry, stinting check of
 Reason, or according to the full, liberal impulse of Feeling?
 
-To speak truth, I compromised matters; I served two masters: I bowed
+To speak [[Truth|truth]], I compromised matters; I served two masters: I bowed
 down in the houses of Rimmon, and lifted the heart at another shrine. I
 wrote to these letters two answers—one for my own relief, the other for
 Graham’s perusal.
@@ -60,8 +60,8 @@ sneaking suspicion of what are called “warmer feelings:” women do not
 entertain these “warmer feelings” where, from the commencement, through
 the whole progress of an acquaintance, they have never once been
 cheated of the conviction that, to do so would be to commit a mortal
-absurdity: nobody ever launches into Love unless he has seen or dreamed
-the rising of Hope’s star over Love’s troubled waters)—when, then, I
+absurdity: nobody ever launches into [[Love]] unless he has seen or dreamed
+the rising of [[Hope]]’s star over [[Love]]’s troubled waters)—when, then, I
 had given expression to a closely-clinging and deeply-honouring
 attachment—an attachment that wanted to attract to itself and take to
 its own lot all that was painful in the destiny of its object; that
@@ -87,24 +87,24 @@ professional skill, and gratified his natural benevolence, by a course
 of cordial and attentive treatment.
 
 One evening, the first in December, I was walking by myself in the
-carré; it was six o’clock; the classe-doors were closed; but within,
+carré; it was six o’[[Clock|clock]]; the classe-doors were closed; but within,
 the pupils, rampant in the licence of evening recreation, were
 counterfeiting a miniature chaos. The carré was quite dark, except a
 red light shining under and about the stove; the wide glass-doors and
 the long windows were frosted over; a crystal sparkle of starlight,
-here and there spangling this blanched winter veil, and breaking with
+here and there spangling this blanched [[Winter|winter]] veil, and breaking with
 scattered brilliance the paleness of its embroidery, proved it a clear
-night, though moonless. That I should dare to remain thus alone in
+[[Night|night]], though moonless. That I should dare to remain thus [[Alone|alone]] in
 darkness, showed that my nerves were regaining a healthy tone: I
 thought of the nun, but hardly feared her; though the staircase was
-behind me, leading up, through blind, black night, from landing to
+behind me, leading up, through blind, black [[Night|night]], from landing to
 landing, to the haunted grenier. Yet I own my heart quaked, my pulse
 leaped, when I suddenly heard breathing and rustling, and turning, saw
-in the deep shadow of the steps a deeper shadow still—a shape that
+in the deep [[Shadow|shadow]] of the steps a deeper [[Shadow|shadow]] still—a shape that
 moved and descended. It paused a while at the classe-door, and then it
 glided before me. Simultaneously came a clangor of the distant
 door-bell. Life-like sounds bring life-like feelings: this shape was
-too round and low for my gaunt nun: it was only Madame Beck on duty.
+too round and low for my gaunt nun: it was only [[Madame Beck]] on duty.
 
 “Mademoiselle Lucy!” cried Rosine, bursting in, lamp in hand, from the
 corridor, “on est là pour vous au salon.”

@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 45 (part 3)"
+title: "Bleak [[house|House]] — Chapter 45 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“Quite well. Lovelier than ever, Richard!”
+“Quite [[Well|well]]. Lovelier than ever, [[Richard]]!”
 
 “Ah!” he said, leaning back in his chair. “My poor cousin! I was
 writing to you, Esther.”
@@ -34,19 +34,19 @@ heard by chance of his being in difficulty and had come to consult
 with him what could best be done.
 
 “Like you, Esther, but useless, and so NOT like you!” said he with a
-melancholy smile. “I am away on leave this day—should have been gone
+[[Melancholy|melancholy]] smile. “I am away on leave this day—should have been gone
 in another hour—and that is to smooth it over, for my selling out.
-Well! Let bygones be bygones. So this calling follows the rest. I
+[[Well]]! Let bygones be bygones. So this calling follows the rest. I
 only want to have been in the church to have made the round of all
 the professions.”
 
-“Richard,” I urged, “it is not so hopeless as that?”
+“[[Richard]],” I urged, “it is not so hopeless as that?”
 
 “Esther,” he returned, “it is indeed. I am just so near disgrace as
 that those who are put in authority over me (as the catechism goes)
 would far rather be without me than with me. And they are right.
 Apart from debts and duns and all such drawbacks, I am not fit even
-for this employment. I have no care, no mind, no heart, no soul, but
+for this employment. I have no care, no mind, no heart, no [[Soul|soul]], but
 for one thing. Why, if this bubble hadn’t broken now,” he said,
 tearing the letter he had written into fragments and moodily casting
 them away, by driblets, “how could I have gone abroad? I must have
@@ -59,11 +59,11 @@ the hand I had laid upon his arm and touched my own lips with it to
 prevent me from going on.
 
 “No, Dame Durden! Two subjects I forbid—must forbid. The first is
-John Jarndyce. The second, you know what. Call it madness, and I tell
+[[John Jarndyce]]. The second, you know what. Call it [[Madness|madness]], and I tell
 you I can’t help it now, and can’t be sane. But it is no such thing;
 it is the one object I have to pursue. It is a pity I ever was
-prevailed upon to turn out of my road for any other. It would be
-wisdom to abandon it now, after all the time, anxiety, and pains I
+prevailed upon to turn out of my [[Road|road]] for any other. It would be
+wisdom to abandon it now, after all the [[Time|time]], anxiety, and pains I
 have bestowed upon it! Oh, yes, true wisdom. It would be very
 agreeable, too, to some people; but I never will.”
 
@@ -75,16 +75,16 @@ out Ada’s letter and put it in his hand.
 
 As I told him yes, he laid it on the table, and resting his head upon
 his hand, began. He had not read far when he rested his head upon his
-two hands—to hide his face from me. In a little while he rose as if
-the light were bad and went to the window. He finished reading it
+two hands—to hide his face from me. In a little while he [[Rose|rose]] as if
+the light were bad and went to the [[Window|window]]. He finished reading it
 there, with his back towards me, and after he had finished and had
 folded it up, stood there for some minutes with the letter in his
-hand. When he came back to his chair, I saw tears in his eyes.
+hand. When he came back to his chair, I saw [[Tears|tears]] in his eyes.
 
 “Of course, Esther, you know what she says here?” He spoke in a
 softened voice and kissed the letter as he asked me.
 
-“Yes, Richard.”
+“Yes, [[Richard]].”
 
 “Offers me,” he went on, tapping his foot upon the floor, “the little
 inheritance she is certain of so soon—just as little and as much as
@@ -92,28 +92,28 @@ I have wasted—and begs and prays me to take it, set myself right
 with it, and remain in the service.”
 
 “I know your welfare to be the dearest wish of her heart,” said I.
-“And, oh, my dear Richard, Ada’s is a noble heart.”
+“And, oh, my dear [[Richard]], Ada’s is a noble heart.”
 
 “I am sure it is. I—I wish I was dead!”
 
-He went back to the window, and laying his arm across it, leaned his
+He went back to the [[Window|window]], and laying his arm across it, leaned his
 head down on his arm. It greatly affected me to see him so, but I
 hoped he might become more yielding, and I remained silent. My
 experience was very limited; I was not at all prepared for his
 rousing himself out of this emotion to a new sense of injury.
 
-“And this is the heart that the same John Jarndyce, who is not
+“And this is the heart that the same [[John Jarndyce]], who is not
 otherwise to be mentioned between us, stepped in to estrange from
 me,” said he indignantly. “And the dear girl makes me this generous
-offer from under the same John Jarndyce’s roof, and with the same
-John Jarndyce’s gracious consent and connivance, I dare say, as a new
+offer from under the same [[John Jarndyce]]’s roof, and with the same
+[[John Jarndyce]]’s gracious consent and connivance, I dare say, as a new
 means of buying me off.”
 
-“Richard!” I cried out, rising hastily. “I will not hear you say such
-shameful words!” I was very angry with him indeed, for the first time
+“[[Richard]]!” I cried out, rising hastily. “I will not hear you say such
+shameful words!” I was very angry with him indeed, for the first [[Time|time]]
 in my life, but it only lasted a moment. When I saw his worn young
 face looking at me as if he were sorry, I put my hand on his shoulder
-and said, “If you please, my dear Richard, do not speak in such a
+and said, “If you please, my dear [[Richard]], do not speak in such a
 tone to me. Consider!”
 
 He blamed himself exceedingly and told me in the most generous manner
@@ -129,14 +129,14 @@ could show you which would convince you it is all over here. I have
 done with the red coat, believe me. But it is some satisfaction, in
 the midst of my troubles and perplexities, to know that I am pressing
 Ada’s interests in pressing my own. Vholes has his shoulder to the
-wheel, and he cannot help urging it on as much for her as for me,
+[[Wheel|wheel]], and he cannot help urging it on as much for her as for me,
 thank God!”
 
 His sanguine hopes were rising within him and lighting up his
 features, but they made his face more sad to me than it had been
 before.
 
-“No, no!” cried Richard exultingly. “If every farthing of Ada’s
+“No, no!” cried [[Richard]] exultingly. “If every farthing of Ada’s
 little fortune were mine, no part of it should be spent in retaining
 me in what I am not fit for, can take no interest in, and am weary
 of. It should be devoted to what promises a better return, and should

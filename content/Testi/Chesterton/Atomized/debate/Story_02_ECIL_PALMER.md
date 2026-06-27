@@ -1,5 +1,5 @@
 ---
-title: "debate — ECIL PALMER"
+title: "[[debate]] — ECIL PALMER"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/debate-(Chesterton)"
@@ -16,6 +16,6 @@ tags:
 
 CECIL PALMER
 
-London, 1928
+[[London]], 1928
 
 * * *

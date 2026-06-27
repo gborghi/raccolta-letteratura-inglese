@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 4 (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 4 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 As he said this, he touched the tip of his high nose, by way of
 intimation that he would let Mr Pecksniff into a secret presently; and
-pulling off his hat, began to search inside the crown among a mass of
+pulling off his hat, began to search inside the [[Crown|crown]] among a mass of
 crumpled documents and small pieces of what may be called the bark of
 broken cigars; whence he presently selected the cover of an old letter,
 begrimed with dirt and redolent of tobacco.
@@ -44,7 +44,7 @@ better not; you had indeed.’
 so tightly wedged into his threadbare sleeve that it looked like a cloth
 sausage. ‘Wait a bit!’
 
-He paused to establish himself immediately in front of the fire with his
+He paused to establish himself immediately in front of the [[Fire|fire]] with his
 back towards it. Then gathering the skirts of his coat under his left
 arm, and smoothing his moustache with his right thumb and forefinger, he
 resumed:
@@ -55,8 +55,8 @@ Sir, if there is a man on earth whom a gentleman would feel proud and
 honoured to be mistaken for, that man is my friend Slyme. For he is,
 without an exception, the highest-minded, the most independent-spirited,
 most original, spiritual, classical, talented, the most thoroughly
-Shakspearian, if not Miltonic, and at the same time the most
-disgustingly-unappreciated dog I know. But, sir, I have not the vanity
+Shakspearian, if not Miltonic, and at the same [[Time|time]] the most
+disgustingly-unappreciated dog I know. But, sir, I have not the [[Vanity|vanity]]
 to attempt to pass for Slyme. Any other man in the wide world, I am
 equal to; but Slyme is, I frankly confess, a great many cuts above me.
 Therefore you are wrong.’
@@ -64,7 +64,7 @@ Therefore you are wrong.’
 ‘I judged from this,’ said Mr Pecksniff, holding out the cover of the
 letter.
 
-‘No doubt you did,’ returned the gentleman. ‘But, Mr Pecksniff, the
+‘No [[Doubt|doubt]] you did,’ returned the gentleman. ‘But, Mr Pecksniff, the
 whole thing resolves itself into an instance of the peculiarities
 of genius. Every man of true genius has his peculiarity. Sir, the
 peculiarity of my friend Slyme is, that he is always waiting round the
@@ -85,7 +85,7 @@ search among my papers. I have taken a few notes in my poor way, of some
 of that man’s proceedings--my adopted brother, sir,--which would amaze
 you. He made use of an expression, sir, only on the fifteenth of last
 month when he couldn’t meet a little bill and the other party wouldn’t
-renew, which would have done honour to Napoleon Bonaparte in addressing
+renew, which would have done [[Honour|honour]] to Napoleon Bonaparte in addressing
 the French army.’
 
 ‘And pray,’ asked Mr Pecksniff, obviously not quite at his ease, ‘what
@@ -97,14 +97,14 @@ his proceedings?’
 say, that I object to that remark, and that I strongly and indignantly
 protest against it on behalf of my friend Slyme. In the next place, you
 will give me leave to introduce myself. My name, sir, is Tigg. The name
-of Montague Tigg will perhaps be familiar to you, in connection with the
+of [[Montague Tigg]] will perhaps be familiar to you, in connection with the
 most remarkable events of the Peninsular War?’
 
 Mr Pecksniff gently shook his head.
 
 ‘No matter,’ said the gentleman. ‘That man was my father, and I bear his
-name. I am consequently proud--proud as Lucifer. Excuse me one moment.
-I desire my friend Slyme to be present at the remainder of this
+name. I am consequently proud--proud as [[Lucifer]]. Excuse me one moment.
+I [[Desire|desire]] my friend Slyme to be present at the remainder of this
 conference.’
 
 With this announcement he hurried away to the outer door of the Blue
@@ -121,7 +121,7 @@ prepossessing friend, and calling Mr Pecksniff’s attention to him with
 the other, ‘you two are related; and relations never did agree, and
 never will; which is a wise dispensation and an inevitable thing, or
 there would be none but family parties, and everybody in the world
-would bore everybody else to death. If you were on good terms, I should
+would bore everybody else to [[Death|death]]. If you were on good terms, I should
 consider you a most confoundedly unnatural pair; but standing
 towards each other as you do, I took upon you as a couple of devilish
 deep-thoughted fellows, who may be reasoned with to any extent.’
@@ -142,5 +142,5 @@ requisition of small loans was another instance of the peculiarities of
 genius as developed in his friend Slyme; that he, Tigg, winked at the
 same, because of the strong metaphysical interest which these weaknesses
 possessed; and that in reference to his own personal advocacy of such
-small advances, he merely consulted the humour of his friend, without
+small advances, he merely consulted the [[Humour|humour]] of his friend, without
 the least regard to his own advantage or necessities.

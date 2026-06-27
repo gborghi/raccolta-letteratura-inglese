@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 71)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 71)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -28,7 +28,7 @@ they are bankrupt. The peasantries are growing not only more prosperous
 
 but more politically effective; the Russian moujik has held up the
 
-Bolshevist Government of Moscow and Petersburg; a huge concession has
+Bolshevist [[government|Government]] of Moscow and Petersburg; a huge concession has
 
 been made by England to Ireland; the League of Nations has decided for
 
@@ -42,17 +42,17 @@ culture is one of its ideas. Industrialism itself may perish; or on the
 
 other hand industrialism itself may survive, by some searching and
 
-scientific reform that will really guarantee economic security to all.
+scientific [[Reform|reform]] that will really guarantee economic security to all.
 
 It may really purge itself of the accidental maladies of anarchy and
 
-famine; and continue as a machine, but at least as a comparatively clean
+famine; and continue as a [[Machine|machine]], but at least as a comparatively clean
 
-and humanely shielded machine; at any rate no longer as a man-eating
+and humanely shielded [[Machine|machine]]; at any rate no longer as a man-eating
 
-machine. Capitalism may clear itself of its worst corruptions by such
+[[Machine|machine]]. Capitalism may clear itself of its worst corruptions by such
 
-reform as is open to it; by creating humane and healthy conditions for
+[[Reform|reform]] as is open to it; by creating humane and healthy conditions for
 
 labour, and setting the labouring classes to work under a lucid and
 
@@ -74,7 +74,7 @@ those graves in the Wilderness where lay the bones of so many gallant
 
 gentlemen; men who had also from their youth known and upheld such a
 
-social stratification, who had the courage to call a spade a spade and a
+social stratification, who had the [[Courage|courage]] to call a spade a spade and a
 
 slave a slave.
 
@@ -94,7 +94,7 @@ _A New Martin Chuzzlewit_
 
 The aim of this book, if it has one, is to suggest this thesis; that the
 
-very worst way of helping Anglo-American friendship is to be an
+very worst way of helping Anglo-American [[Friendship|friendship]] is to be an
 
 Anglo-American. There is only one thing lower, of course, which is being
 
@@ -106,11 +106,11 @@ an American and an Englishman in some way blended together. But if
 
 Angles and Saxons ever did exist, they are all fortunately dead now; and
 
-the wildest imagination cannot form the weakest idea of what sort of
+the wildest [[Imagination|imagination]] cannot form the weakest idea of what sort of
 
-monster would be made by mixing one with the other. But my thesis is
+[[Monster|monster]] would be made by mixing one with the other. But my thesis is
 
-that the whole hope, and the only hope, lies not in mixing two things
+that the whole [[Hope|hope]], and the only [[Hope|hope]], lies not in mixing two things
 
 together, but rather in cutting them very sharply asunder. That is the
 
@@ -122,13 +122,13 @@ different and yet supposed to be the same, there can be nothing but a
 
 divided mind and a staggering balance. It may be that in the first
 
-twilight of time man and woman walked about as one quadruped. But if
+twilight of [[Time|time]] man and woman walked about as one quadruped. But if
 
 they did, I am sure it was a quadruped that reared and bucked and kicked
 
-up its heels. Then the flaming sword of some angel divided them, and
+up its heels. Then the flaming [[Sword|sword]] of some angel divided them, and
 
-they fell in love with each other.
+they fell in [[Love|love]] with each other.
 
 
 
@@ -172,7 +172,7 @@ enmity. But so long as the two are sharply divided there can be no
 
 enmity because there can be no rivalry. Nobody can argue about whether
 
-the Swiss climb mountains better than the Dutch build dykes; just as
+the Swiss climb [[Mountains|mountains]] better than the Dutch build dykes; just as
 
 nobody can argue about whether a triangle is more triangular than a
 
@@ -186,7 +186,7 @@ but, having used it for convenience, I could easily give similar
 
 examples not of fancy but of fact. I had occasion recently to attend the
 
-Christmas festivity of a club in London for the exiles of one of the
+Christmas festivity of a club in [[London]] for the exiles of one of the
 
 Scandinavian nations. When I entered the room the first thing that
 
@@ -200,7 +200,7 @@ evidence; there were men dressed like myself (only better) in the garb
 
 of the modern middle classes; there was furniture like the furniture of
 
-any other room in London. Now, according to the ideal formula of the
+any other room in [[London]]. Now, according to the ideal formula of the
 
 ordinary internationalist, these things that we had in common ought to
 

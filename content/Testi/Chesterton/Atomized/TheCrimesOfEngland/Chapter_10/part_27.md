@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 27)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 27)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-indeed a very German fear of Germany. This also conceived the English as
+indeed a very German [[Fear|fear]] of [[Germany]]. This also conceived the English as
 
-Sea-Germans. It conceived Germany as at war with something like
+Sea-Germans. It conceived [[Germany]] as at war with something like
 
-itself--practical, prosaic, capitalist, competitive Germany, prepared to
+itself--practical, prosaic, capitalist, competitive [[Germany]], prepared to
 
-cut us up in battle as she cut us out in business. The time of our
+cut us up in battle as she cut us out in business. The [[Time|time]] of our
 
-larger vision was not yet, when we should realise that Germany was more
+larger vision was not yet, when we should realise that [[Germany]] was more
 
 deeply at war with things quite unlike herself, things from which we
 
@@ -32,7 +32,7 @@ whence we also had come; and far and high upon that mountain from which
 
 the Crescent was cast down, behold what was everywhere the real enemy of
 
-the Iron Cross--the peasant's cross, which is of wood.
+the Iron [[Cross]]--the peasant's [[Cross|cross]], which is of wood.
 
 
 
@@ -42,19 +42,19 @@ even shallow; and for the most part we were possessed and convinced of
 
 peace. That peace was not a noble one. We had indeed reached one of the
 
-lowest and flattest levels of all our undulating history; and it must be
+lowest and flattest levels of all our undulating [[history]]; and it must be
 
-admitted that the contemptuous calculation with which Germany counted on
+admitted that the contemptuous calculation with which [[Germany]] counted on
 
 our submission and abstention was not altogether unfounded, though it
 
 was, thank God, unfulfilled. The full fruition of our alliances against
 
-freedom had come. The meek acceptance of Kultur in our books and schools
+[[Freedom|freedom]] had come. The meek acceptance of Kultur in our books and schools
 
 had stiffened what was once a free country with a German formalism and a
 
-German fear. By a queer irony, even the same popular writer who had
+German [[Fear|fear]]. By a queer irony, even the same popular writer who had
 
 already warned us against the Prussians, had sought to preach among the
 
@@ -94,7 +94,7 @@ but the stones nearest the keystone would know there was only one. This
 
 part of itself, but anyone who ventured to deny that it was doing so. We
 
-were ruled, as it were, by a Wonderland king and queen, who cut off our
+were ruled, as it were, by a Wonderland [[King|king]] and [[Queen|queen]], who cut off our
 
 heads, not for saying they quarrelled but for saying they didn't. The
 
@@ -104,7 +104,7 @@ crush truths about public life. Representation had become mere
 
 misrepresentation; a maze of loopholes. This was mainly due to the
 
-monstrous presence of certain secret moneys, on which alone many men
+monstrous presence of certain secret moneys, on which [[Alone|alone]] many men
 
 could win the ruinous elections of the age, and which were contributed
 
@@ -144,15 +144,15 @@ invasion was lit up with a flame of moral lunacy, that turned the
 
 watching nations white who had never known the Prussian. The statistics
 
-of non-combatants killed and tortured by this time only stun the
+of non-combatants killed and tortured by this [[Time|time]] only stun the
 
-imagination. But two friends of my own have been in villages sacked by
+[[Imagination|imagination]]. But two friends of my own have been in villages sacked by
 
 the Prussian march. One saw a tabernacle containing the Sacrament
 
 patiently picked out in pattern by shot after shot. The other saw a
 
-rocking-horse and the wooden toys in a nursery laboriously hacked to
+rocking-[[Horse|horse]] and the wooden toys in a nursery laboriously hacked to
 
 pieces. Those two facts together will be enough to satisfy some of us of
 
@@ -190,4 +190,4 @@ the arms of men. In a throng that was at last three million men, the
 
 islanders went forth from their island, as simply as the mountaineers
 
-had gone forth from their mountain, with their faces to the dawn.
+had gone forth from their mountain, with their faces to the [[Dawn|dawn]].

@@ -36,7 +36,7 @@ belong to many young women.’
 ‘I now leave you to judge for yourself,’ said Mr. Gradgrind.  ‘I have
 stated the case, as such cases are usually stated among practical minds;
 I have stated it, as the case of your mother and myself was stated in its
-time.  The rest, my dear Louisa, is for you to decide.’
+[[Time|time]].  The rest, my dear Louisa, is for you to decide.’
 
 From the beginning, she had sat looking at him fixedly.  As he now leaned
 back in his chair, and bent his deep-set eyes upon her in his turn,
@@ -57,7 +57,7 @@ town, that he said, at length: ‘Are you consulting the chimneys of the
 Coketown works, Louisa?’
 
 ‘There seems to be nothing there but languid and monotonous smoke.  Yet
-when the night comes, Fire bursts out, father!’ she answered, turning
+when the [[Night|night]] comes, [[Fire]] bursts out, father!’ she answered, turning
 quickly.
 
 ‘Of course I know that, Louisa.  I do not see the application of the
@@ -68,7 +68,7 @@ her attention upon him again, said, ‘Father, I have often thought that
 life is very short.’—This was so distinctly one of his subjects that he
 interposed.
 
-‘It is short, no doubt, my dear.  Still, the average duration of human
+‘It is short, no [[Doubt|doubt]], my dear.  Still, the average duration of human
 life is proved to have increased of late years.  The calculations of
 various life assurance and annuity offices, among other figures which
 cannot go wrong, have established the fact.’
@@ -99,7 +99,7 @@ should wish him to know what I said.’
 
 ‘It is quite right, my dear,’ retorted her father approvingly, ‘to be
 exact.  I will observe your very proper request.  Have you any wish in
-reference to the period of your marriage, my child?’
+reference to the period of your [[Marriage|marriage]], my [[Child|child]]?’
 
 ‘None, father.  What does it matter!’
 
@@ -121,11 +121,11 @@ heart’s experiences?’
 correct me justly.  I merely wished to discharge my duty.’
 
 ‘What do _I_ know, father,’ said Louisa in her quiet manner, ‘of tastes
-and fancies; of aspirations and affections; of all that part of my nature
+and fancies; of aspirations and affections; of all that part of my [[Nature|nature]]
 in which such light things might have been nourished?  What escape have I
 had from problems that could be demonstrated, and realities that could be
 grasped?’  As she said it, she unconsciously closed her hand, as if upon
-a solid object, and slowly opened it as though she were releasing dust or
+a solid object, and slowly opened it as though she were releasing [[Dust|dust]] or
 ash.
 
 ‘My dear,’ assented her eminently practical parent, ‘quite true, quite
@@ -133,18 +133,18 @@ true.’
 
 ‘Why, father,’ she pursued, ‘what a strange question to ask _me_!  The
 baby-preference that even I have heard of as common among children, has
-never had its innocent resting-place in my breast.  You have been so
-careful of me, that I never had a child’s heart.  You have trained me so
-well, that I never dreamed a child’s dream.  You have dealt so wisely
-with me, father, from my cradle to this hour, that I never had a child’s
-belief or a child’s fear.’
+never had its [[Innocent|innocent]] resting-place in my breast.  You have been so
+careful of me, that I never had a [[Child|child]]’s heart.  You have trained me so
+[[Well|well]], that I never dreamed a [[Child|child]]’s dream.  You have dealt so wisely
+with me, father, from my cradle to this hour, that I never had a [[Child|child]]’s
+belief or a [[Child|child]]’s [[Fear|fear]].’
 
-Mr. Gradgrind was quite moved by his success, and by this testimony to
+Mr. Gradgrind was quite moved by his [[success]], and by this testimony to
 it.  ‘My dear Louisa,’ said he, ‘you abundantly repay my care.  Kiss me,
 my dear girl.’
 
 So, his daughter kissed him.  Detaining her in his embrace, he said, ‘I
-may assure you now, my favourite child, that I am made happy by the sound
+may assure you now, my favourite [[Child|child]], that I am made happy by the sound
 decision at which you have arrived.  Mr. Bounderby is a very remarkable
 man; and what little disparity can be said to exist between you—if any—is
 more than counterbalanced by the tone your mind has acquired.  It has

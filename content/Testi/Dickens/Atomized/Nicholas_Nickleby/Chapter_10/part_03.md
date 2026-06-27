@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 10 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 10 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -38,7 +38,7 @@ with--with a milliner and dressmaker, in short.’
 ‘A milliner!’ cried Mrs. Nickleby.
 
 ‘A milliner and dressmaker, ma’am,’ replied Ralph. ‘Dressmakers in
-London, as I need not remind you, ma’am, who are so well acquainted with
+[[London]], as I need not remind you, ma’am, who are so [[Well|well]] acquainted with
 all matters in the ordinary routine of life, make large fortunes, keep
 equipages, and become persons of great wealth and fortune.’
 
@@ -54,11 +54,11 @@ satisfaction.
 
 ‘What your uncle says is very true, Kate, my dear,’ said Mrs. Nickleby.
 ‘I recollect when your poor papa and I came to town after we were
-married, that a young lady brought me home a chip cottage-bonnet, with
+married, that a young lady brought me [[Home|home]] a chip cottage-bonnet, with
 white and green trimming, and green persian lining, in her own carriage,
 which drove up to the door full gallop;--at least, I am not quite
 certain whether it was her own carriage or a hackney chariot, but I
-remember very well that the horse dropped down dead as he was turning
+remember very [[Well|well]] that the [[Horse|horse]] dropped down dead as he was turning
 round, and that your poor papa said he hadn’t had any corn for a
 fortnight.’
 
@@ -72,15 +72,15 @@ Mantalini--Madame Mantalini. I know her. She lives near Cavendish
 Square. If your daughter is disposed to try after the situation, I’ll
 take her there directly.’
 
-‘Have you nothing to say to your uncle, my love?’ inquired Mrs. Nickleby.
+‘Have you nothing to say to your uncle, my [[Love|love]]?’ inquired Mrs. Nickleby.
 
 ‘A great deal,’ replied Kate; ‘but not now. I would rather speak to him
-when we are alone;--it will save his time if I thank him and say what I
+when we are [[Alone|alone]];--it will save his [[Time|time]] if I thank him and say what I
 wish to say to him, as we walk along.’
 
 With these words, Kate hurried away, to hide the traces of emotion that
 were stealing down her face, and to prepare herself for the walk, while
-Mrs. Nickleby amused her brother-in-law by giving him, with many tears, a
+Mrs. Nickleby amused her brother-in-law by giving him, with many [[Tears|tears]], a
 detailed account of the dimensions of a rosewood cabinet piano they had
 possessed in their days of affluence, together with a minute description
 of eight drawing-room chairs, with turned legs and green chintz squabs
@@ -89,7 +89,7 @@ apiece, and had gone at the sale for a mere nothing.
 
 These reminiscences were at length cut short by Kate’s return in her
 walking dress, when Ralph, who had been fretting and fuming during the
-whole time of her absence, lost no time, and used very little ceremony,
+whole [[Time|time]] of her absence, lost no [[Time|time]], and used very little ceremony,
 in descending into the street.
 
 ‘Now,’ he said, taking her arm, ‘walk as fast as you can, and you’ll get
@@ -98,9 +98,9 @@ So saying, he led Kate off, at a good round pace, towards Cavendish
 Square.
 
 ‘I am very much obliged to you, uncle,’ said the young lady, after they
-had hurried on in silence for some time; ‘very.’
+had hurried on in [[Silence|silence]] for some [[Time|time]]; ‘very.’
 
-‘I’m glad to hear it,’ said Ralph. ‘I hope you’ll do your duty.’
+‘I’m glad to hear it,’ said Ralph. ‘I [[Hope|hope]] you’ll do your duty.’
 
 ‘I will try to please, uncle,’ replied Kate: ‘indeed I--’
 
@@ -111,7 +111,7 @@ had hurried on in silence for some time; ‘very.’
 ‘It is,’ replied Ralph, stopping her short, ‘and very affected besides.
 Let me see no more of it.’
 
-Perhaps this was not the best way to dry the tears of a young and
+Perhaps this was not the best way to dry the [[Tears|tears]] of a young and
 sensitive female, about to make her first entry on an entirely new scene
 of life, among cold and uninterested strangers; but it had its effect
 notwithstanding. Kate coloured deeply, breathed quickly for a few
@@ -124,15 +124,15 @@ to lose him in the throng; and how the stern and hard-featured man of
 business went doggedly on, elbowing the passengers aside, and now and
 then exchanging a gruff salutation with some passing acquaintance, who
 turned to look back upon his pretty charge, with looks expressive of
-surprise, and seemed to wonder at the ill-assorted companionship. But,
+surprise, and seemed to [[Wonder|wonder]] at the ill-assorted companionship. But,
 it would have been a stranger contrast still, to have read the hearts
-that were beating side by side; to have laid bare the gentle innocence
+that were beating side by side; to have laid bare the gentle [[innocence]]
 of the one, and the rugged villainy of the other; to have hung upon the
 guileless thoughts of the affectionate girl, and been amazed that, among
 all the wily plots and calculations of the old man, there should not be
-one word or figure denoting thought of death or of the grave. But so it
+one word or figure denoting thought of [[Death|death]] or of the [[Grave|grave]]. But so it
 was; and stranger still--though this is a thing of every day--the warm
 young heart palpitated with a thousand anxieties and apprehensions,
 while that of the old worldly man lay rusting in its cell, beating only
-as a piece of cunning mechanism, and yielding no one throb of hope, or
-fear, or love, or care, for any living thing.
+as a piece of cunning mechanism, and yielding no one throb of [[Hope|hope]], or
+[[Fear|fear]], or [[Love|love]], or care, for any living thing.

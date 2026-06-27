@@ -46,17 +46,17 @@ CHAPTER 6
 
       door. We found him lying at full length, apparently in a deep
 
-      stupor, yet still alive. No time was to be lost, yet I could not
+      stupor, yet still alive. No [[Time|time]] was to be lost, yet I could not
 
       bring myself to abandon an animal who had now been twice
 
       instrumental in saving my life, without some attempt at
 
-      preserving him. We therefore dragged him along with us as well as
+      preserving him. We therefore dragged him along with us as [[Well|well]] as
 
       we could, although with the greatest difficulty and fatigue;
 
-      Augustus, during part of the time, being forced to clamber over
+      Augustus, during part of the [[Time|time]], being forced to clamber over
 
       the impediments in our way with the huge dog in his arms—a feat
 
@@ -94,7 +94,7 @@ CHAPTER 6
 
       by no means as careful or as experienced a seaman as the
 
-      hazardous nature of the service on which he was employed would
+      hazardous [[Nature|nature]] of the service on which he was employed would
 
       seem necessarily to demand. A proper stowage cannot be
 
@@ -116,7 +116,7 @@ CHAPTER 6
 
       great attention must be paid, not only to the bulk taken in, but
 
-      to the nature of the bulk, and whether there be a full or only a
+      to the [[Nature|nature]] of the bulk, and whether there be a full or only a
 
       partial cargo. In most kinds of freight the stowage is
 
@@ -126,7 +126,7 @@ CHAPTER 6
 
       vessel that the barrels or hogsheads, upon discharging, are found
 
-      to be completely flattened, and take some time to regain their
+      to be completely flattened, and take some [[Time|time]] to regain their
 
       original shape. This screwing, however, is resorted to
 
@@ -148,7 +148,7 @@ CHAPTER 6
 
       has been known, through the expansion of its bulk, to rend a
 
-      vessel asunder at sea. There can be no doubt either that the same
+      vessel asunder at sea. There can be no [[Doubt|doubt]] either that the same
 
       result would ensue in the case of tobacco, while undergoing its
 
@@ -164,9 +164,9 @@ CHAPTER 6
 
       always taken to guard against such misfortune. Only those who
 
-      have encountered a violent gale of wind, or rather who have
+      have encountered a violent gale of [[Wind|wind]], or rather who have
 
-      experienced the rolling of a vessel in a sudden calm after the
+      experienced the [[rolling]] of a vessel in a sudden calm after the
 
       gale, can form an idea of the tremendous force of the plunges,
 
@@ -190,7 +190,7 @@ CHAPTER 6
 
       lurches the whole of the cargo tumbles over to the side of the
 
-      vessel which lies upon the water, and, being thus prevented from
+      vessel which lies upon the [[Water|water]], and, being thus prevented from
 
       regaining her equilibrium, as she would otherwise necessarily do,
 

@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 80 (part 3)"
+title: "[[Barnaby Rudge]] — Chapter 80 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -35,10 +35,10 @@ towards Mrs Varden, and her eye on the rest of the company, as she
 alluded to them in her remarks, proceeded:
 
 ‘I’m quite delighted, I’m sure, to find sich independency, feeling sorry
-though, at the same time, mim, that you should have been forced into
+though, at the same [[Time|time]], mim, that you should have been forced into
 submissions when you couldn’t help yourself--he he he! It must be great
 vexations, ‘specially considering how ill you always spoke of Mr Joe--to
-have him for a son-in-law at last; and I wonder Miss Dolly can put
+have him for a son-in-law at last; and I [[Wonder|wonder]] Miss Dolly can put
 up with him, either, after being off and on for so many years with a
 coachmaker. But I HAVE heerd say, that the coachmaker thought twice
 about it--he he he!--and that he told a young man as was a frind of his,
@@ -55,7 +55,7 @@ heerd the neighbours make remark as some one as they was acquainted
 with, was a poor good-natur’d mean-spirited creetur, as went out
 fishing for a wife one day, and caught a Tartar. Of course I never to my
 knowledge see the poor person himself. Nor did you neither, mim--ho no.
-I wonder who it can be--don’t you, mim? No doubt you do, mim. Ho yes. He
+I [[Wonder|wonder]] who it can be--don’t you, mim? No [[Doubt|doubt]] you do, mim. Ho yes. He
 he he!’
 
 Again Miggs paused for a reply; and none being offered, was so oppressed
@@ -76,27 +76,27 @@ dustman!’
 Miss Miggs was about to add, and had, indeed, begun to add, that,
 taking them in the abstract, dustmen were far more eligible matches than
 soldiers, though, to be sure, when people were past choosing they must
-take the best they could get, and think themselves well off too; but her
+take the best they could get, and think themselves [[Well|well]] off too; but her
 vexation and chagrin being of that internally bitter sort which finds no
-relief in words, and is aggravated to madness by want of contradiction,
-she could hold out no longer, and burst into a storm of sobs and tears.
+relief in words, and is aggravated to [[Madness|madness]] by want of contradiction,
+she could hold out no longer, and burst into a [[Storm|storm]] of sobs and [[Tears|tears]].
 
 In this extremity she fell on the unlucky nephew, tooth and nail, and
 plucking a handful of hair from his head, demanded to know how long she
 was to stand there to be insulted, and whether or no he meant to help
 her to carry out the box again, and if he took a pleasure in hearing his
-family reviled: with other inquiries of that nature; at which disgrace
-and provocation, the small boy, who had been all this time gradually
-lashed into rebellion by the sight of unattainable pastry, walked off
+family reviled: with other inquiries of that [[Nature|nature]]; at which disgrace
+and provocation, the small boy, who had been all this [[Time|time]] gradually
+lashed into rebellion by the sight of [[Unattainable|unattainable]] pastry, walked off
 indignant, leaving his aunt and the box to follow at their leisure.
 Somehow or other, by dint of pushing and pulling, they did attain the
 street at last; where Miss Miggs, all blowzed with the exertion of
-getting there, and with her sobs and tears, sat down upon her property
+getting there, and with her sobs and [[Tears|tears]], sat down upon her property
 to rest and grieve, until she could ensnare some other youth to help her
-home.
+[[Home|home]].
 
 ‘It’s a thing to laugh at, Martha, not to care for,’ whispered the
-locksmith, as he followed his wife to the window, and good-humouredly
+locksmith, as he followed his wife to the [[Window|window]], and good-humouredly
 dried her eyes. ‘What does it matter? You had seen your fault before.
-Come! Bring up Toby again, my dear; Dolly shall sing us a song; and
+Come! Bring up Toby again, my dear; Dolly shall sing us a [[Song|song]]; and
 we’ll be all the merrier for this interruption!’

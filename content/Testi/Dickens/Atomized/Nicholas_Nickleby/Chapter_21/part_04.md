@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 21 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 21 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -15,11 +15,11 @@ tags:
 
 
 Upon this doubtful ground, lived Mrs. Wititterly, and at Mrs. Wititterly’s
-door Kate Nickleby knocked with trembling hand. The door was opened by
+door [[Kate Nickleby]] knocked with trembling hand. The door was opened by
 a big footman with his head floured, or chalked, or painted in some way
 (it didn’t look genuine powder), and the big footman, receiving the card
 of introduction, gave it to a little page; so little, indeed, that his
-body would not hold, in ordinary array, the number of small buttons
+[[Body|body]] would not hold, in ordinary array, the number of small buttons
 which are indispensable to a page’s costume, and they were consequently
 obliged to be stuck on four abreast. This young gentleman took the card
 upstairs on a salver, and pending his return, Kate and her mother were
@@ -40,7 +40,7 @@ for Mrs. Wititterly’s refreshment.
 
 The lady had an air of sweet insipidity, and a face of engaging
 paleness; there was a faded look about her, and about the furniture, and
-about the house. She was reclining on a sofa in such a very unstudied
+about the [[house]]. She was reclining on a sofa in such a very unstudied
 attitude, that she might have been taken for an actress all ready for
 the first scene in a ballet, and only waiting for the drop curtain to go
 up.
@@ -55,7 +55,7 @@ The page left it; but if ever an Alphonse carried plain Bill in his face
 and figure, that page was the boy.
 
 ‘I have ventured to call, ma’am,’ said Kate, after a few seconds of
-awkward silence, ‘from having seen your advertisement.’
+awkward [[Silence|silence]], ‘from having seen your advertisement.’
 
 ‘Yes,’ replied Mrs. Wititterly, ‘one of my people put it in the
 paper--Yes.’
@@ -80,9 +80,9 @@ I am her mother, ma’am.’
 ‘Oh!’ said Mrs. Wititterly, ‘I apprehend you.’
 
 ‘I assure you, ma’am,’ said Mrs. Nickleby, ‘that I very little thought,
-at one time, that it would be necessary for my daughter to go out into
+at one [[Time|time]], that it would be necessary for my daughter to go out into
 the world at all, for her poor dear papa was an independent gentleman,
-and would have been at this moment if he had but listened in time to my
+and would have been at this moment if he had but listened in [[Time|time]] to my
 constant entreaties and--’
 
 ‘Dear mama,’ said Kate, in a low voice.
@@ -108,7 +108,7 @@ agreed, so Mrs. Nickleby had no excuse for talking.
 ‘You are a good temper?’ asked Mrs. Wititterly, opening her eyes for an
 instant, and shutting them again.
 
-‘I hope so,’ rejoined Kate.
+‘I [[Hope|hope]] so,’ rejoined Kate.
 
 ‘And have a highly respectable reference for everything, have you?’
 
@@ -129,28 +129,28 @@ The page disappeared on this errand, and after a short interval, during
 which not a word was spoken on either side, opened the door for an
 important gentleman of about eight-and-thirty, of rather plebeian
 countenance, and with a very light head of hair, who leant over Mrs
-Wititterly for a little time, and conversed with her in whispers.
+Wititterly for a little [[Time|time]], and conversed with her in whispers.
 
 ‘Oh!’ he said, turning round, ‘yes. This is a most important matter. Mrs
-Wititterly is of a very excitable nature; very delicate, very fragile; a
+Wititterly is of a very excitable [[Nature|nature]]; very delicate, very fragile; a
 hothouse plant, an exotic.’
 
 ‘Oh! Henry, my dear,’ interposed Mrs. Wititterly.
 
-‘You are, my love, you know you are; one breath--’ said Mr. W., blowing
+‘You are, my [[Love|love]], you know you are; one breath--’ said Mr. W., blowing
 an imaginary feather away. ‘Pho! you’re gone!’
 
 The lady sighed.
 
-‘Your soul is too large for your body,’ said Mr. Wititterly. ‘Your
+‘Your [[Soul|soul]] is too large for your [[Body|body]],’ said Mr. Wititterly. ‘Your
 intellect wears you out; all the medical men say so; you know that there
 is not a physician who is not proud of being called in to you. What
 is their unanimous declaration? “My dear doctor,” said I to Sir Tumley
-Snuffim, in this very room, the very last time he came. “My dear doctor,
+Snuffim, in this very room, the very last [[Time|time]] he came. “My dear doctor,
 what is my wife’s complaint? Tell me all. I can bear it. Is it nerves?”
  “My dear fellow,” he said, “be proud of that woman; make much of her;
 she is an ornament to the fashionable world, and to you. Her complaint
-is soul. It swells, expands, dilates--the blood fires, the pulse
+is [[Soul|soul]]. It swells, expands, dilates--the [[Blood|blood]] fires, the pulse
 quickens, the excitement increases--Whew!”’ Here Mr. Wititterly, who, in
 the ardour of his description, had flourished his right hand to within
 something less than an inch of Mrs. Nickleby’s bonnet, drew it hastily

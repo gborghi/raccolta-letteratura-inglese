@@ -1,5 +1,5 @@
 ---
-title: "wifrb11 — The Purple Wig (part 5)"
+title: "[[wifrb11]] — The Purple Wig (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/wifrb11-(Chesterton)"
@@ -16,26 +16,26 @@ tags:
 
      "I spare you," said the Duke in a voice of inhuman pity. 
 "I refuse.  If I gave you the faintest hint of the load of horror
-I have to bear alone, you would lie shrieking at these feet of mine
+I have to bear [[Alone|alone]], you would lie shrieking at these feet of mine
 and begging to know no more.  I will spare you the hint. 
 You shall not spell the first letter of what is written on
 the altar of the Unknown God."
 
      "I know the Unknown God," said the little priest, with an
 unconscious grandeur of certitude that stood up like a granite tower. 
-"I know his name; it is Satan.  The true God was made flesh
+"I know his name; it is [[Satan]].  The true God was made flesh
 and dwelt among us.  And I say to you, wherever you find men ruled
 merely by mystery, it is the mystery of iniquity.  If the devil
 tells you something is too fearful to look at, look at it. 
 If he says something is too terrible to hear, hear it.  If you think
-some truth unbearable, bear it.  I entreat your Grace to end
-this nightmare now and here at this table."
+some [[Truth|truth]] unbearable, bear it.  I entreat your Grace to end
+this [[nightmare]] now and here at this table."
 
      "If I did," said the Duke in a low voice, "you and all you believe,
-and all by which alone you live, would be the first to shrivel and perish. 
+and all by which [[Alone|alone]] you live, would be the first to shrivel and perish. 
 You would have an instant to know the great Nothing before you died."
 
-     "The Cross of Christ be between me and harm," said Father Brown. 
+     "The [[Cross]] of [[Christ]] be between me and harm," said [[Father Brown]]. 
 "Take off your wig."
 
      I was leaning over the table in ungovernable excitement;
@@ -50,13 +50,13 @@ as if he had all hell to help him; but I forced his head until
 the hairy cap fell off it.  I admit that, whilst wrestling,
 I shut my eyes as it fell.
 
-     I was awakened by a cry from Mull, who was also by this time
+     I was awakened by a cry from Mull, who was also by this [[Time|time]]
 at the Duke's side.  His head and mine were both bending over
-the bald head of the wigless Duke.  Then the silence was snapped
+the bald head of the wigless Duke.  Then the [[Silence|silence]] was snapped
 by the librarian exclaiming:  "What can it mean?  Why, the man had
 nothing to hide.  His ears are just like everybody else's."
 
-     "Yes," said Father Brown, "that is what he had to hide."
+     "Yes," said [[Father Brown]], "that is what he had to hide."
 
      The priest walked straight up to him, but strangely enough
 did not even glance at his ears.  He stared with an almost comical
@@ -80,14 +80,14 @@ in the violent scene (which undoubtedly happened) in which he struck
 Green with the decanter.  But the contest ended very differently. 
 Green pressed his claim and got the estates; the dispossessed nobleman
 shot himself and died without issue.  After a decent interval
-the beautiful English Government revived the "extinct" peerage of Exmoor,
+the beautiful English [[government|Government]] revived the "extinct" peerage of Exmoor,
 and bestowed it, as is usual, on the most important person,
 the person who had got the property.
 
-     This man used the old feudal fables--properly, in his snobbish soul,
+     This man used the old feudal fables--properly, in his snobbish [[Soul|soul]],
 really envied and admired them.  So that thousands of poor English people
 trembled before a mysterious chieftain with an ancient destiny and
-a diadem of evil stars--when they are really trembling before
+a diadem of evil [[Stars|stars]]--when they are really trembling before
 a guttersnipe who was a pettifogger and a pawnbroker not twelve years ago. 
 I think it very typical of the real case against our aristocracy as it is,
 and as it will be till God sends us braver men.

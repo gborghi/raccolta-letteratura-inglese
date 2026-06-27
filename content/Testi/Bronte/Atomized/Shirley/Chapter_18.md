@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 18"
+title: "[[Shirley]] — Chapter 18"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -28,15 +28,15 @@ INTRODUCED.
 
 The evening was still and warm; close and sultry it even promised to
 
-become. Round the descending sun the clouds glowed purple; summer tints,
+become. Round the descending sun the clouds glowed purple; [[Summer|summer]] tints,
 
 rather Indian than English, suffused the horizon, and cast rosy
 
-reflections on hillside, house-front, tree-bole, on winding road and
+reflections on hillside, [[house]]-front, tree-bole, on winding [[Road|road]] and
 
 undulating pasture-ground. The two girls came down from the fields
 
-slowly. By the time they reached the churchyard the bells were hushed;
+slowly. By the [[Time|time]] they reached the churchyard [[The Bells|the bells]] were hushed;
 
 the multitudes were gathered into the church. The whole scene was
 
@@ -48,7 +48,7 @@ solitary.
 
 
 
-"And how hot it will be in the church!" responded Shirley. "And what a
+"And how hot it will be in the church!" responded [[Shirley]]. "And what a
 
 dreary long speech Dr. Boultby will make! And how the curates will
 
@@ -74,33 +74,33 @@ friendly homily, with all its racy Yorkshireisms; but here I must stay.
 
 The gray church and grayer tombs look divine with this crimson gleam on
 
-them. Nature is now at her evening prayers; she is kneeling before those
+them. [[Nature]] is now at her evening prayers; she is kneeling before those
 
 red hills. I see her prostrate on the great steps of her altar, praying
 
-for a fair night for mariners at sea, for travellers in deserts, for
+for a fair [[Night|night]] for mariners at sea, for travellers in deserts, for
 
-lambs on moors, and unfledged birds in woods. Caroline, I see her, and I
+lambs on moors, and unfledged [[Birds|birds]] in woods. Caroline, I see her, and I
 
 will tell you what she is like. She is like what Eve was when she and
 
-Adam stood alone on earth."
+Adam stood [[Alone|alone]] on earth."
 
 
 
-"And that is not Milton's Eve, Shirley."
+"And that is not [[Milton]]'s Eve, [[Shirley]]."
 
 
 
-"Milton's Eve! Milton's Eve! I repeat. No, by the pure Mother of God,
+"[[Milton]]'s Eve! [[Milton]]'s Eve! I repeat. No, by the pure Mother of God,
 
-she is not! Cary, we are alone; we may speak what we think. Milton was
+she is not! Cary, we are [[Alone|alone]]; we may speak what we think. [[Milton]] was
 
 great; but was he good? His brain was right; how was his heart? He saw
 
-heaven; he looked down on hell. He saw Satan, and Sin his daughter, and
+heaven; he looked down on hell. He saw [[Satan]], and Sin his daughter, and
 
-Death their horrible offspring. Angels serried before him their
+[[Death]] their horrible offspring. Angels serried before him their
 
 battalions; the long lines of adamantine shields flashed back on his
 
@@ -108,41 +108,41 @@ blind eyeballs the unutterable splendour of heaven. Devils gathered
 
 their legions in his sight; their dim, discrowned, and tarnished armies
 
-passed rank and file before him. Milton tried to see the first woman;
+passed rank and file before him. [[Milton]] tried to see the first woman;
 
 but, Cary, he saw her not."
 
 
 
-"You are bold to say so, Shirley."
+"You are bold to say so, [[Shirley]]."
 
 
 
 "Not more bold than faithful. It was his cook that he saw; or it was
 
-Mrs. Gill, as I have seen her, making custards, in the heat of summer,
+Mrs. Gill, as I have seen her, making custards, in the heat of [[Summer|summer]],
 
-in the cool dairy, with rose-trees and nasturtiums about the latticed
+in the cool dairy, with [[Rose|rose]]-trees and nasturtiums about the latticed
 
-window, preparing a cold collation for the rectors--preserves and
+[[Window|window]], preparing a cold collation for the rectors--preserves and
 
 'dulcet creams;' puzzled 'what choice to choose for delicacy best; what
 
-order so contrived as not to mix tastes, not well-joined, inelegant, but
+order so contrived as not to mix tastes, not [[Well|well]]-joined, inelegant, but
 
 bring taste after taste, upheld with kindliest change.'"
 
 
 
-"All very well too, Shirley."
+"All very [[Well|well]] too, [[Shirley]]."
 
 
 
 "I would beg to remind him that the first men of the earth were Titans,
 
-and that Eve was their mother; from her sprang Saturn, Hyperion,
+and that Eve was their mother; from her sprang [[Saturn]], [[Hyperion]],
 
-Oceanus; she bore Prometheus----"
+Oceanus; she bore [[Prometheus]]----"
 
 
 
@@ -158,17 +158,17 @@ world yielded the daring which could contend with Omnipotence, the
 
 strength which could bear a thousand years of bondage, the vitality
 
-which could feed that vulture death through uncounted ages, the
+which could feed that vulture [[Death|death]] through uncounted ages, the
 
-unexhausted life and uncorrupted excellence, sisters to immortality,
+unexhausted life and uncorrupted excellence, sisters to [[Immortality|immortality]],
 
 which, after millenniums of crimes, struggles, and woes, could conceive
 
 and bring forth a Messiah. The first woman was heaven-born. Vast was the
 
-heart whence gushed the well-spring of the blood of nations, and grand
+heart whence gushed the [[Well|well]]-[[Spring|spring]] of the [[Blood|blood]] of nations, and grand
 
-the undegenerate head where rested the consort-crown of creation."
+the undegenerate head where rested the consort-[[Crown|crown]] of creation."
 
 
 
@@ -188,7 +188,7 @@ outskirts of the heath, where yonder flock is grazing; a veil white as
 
 an avalanche sweeps from her head to her feet, and arabesques of
 
-lightning flame on its borders. Under her breast I see her zone, purple
+[[Lightning|lightning]] flame on its borders. Under her breast I see her zone, purple
 
 like that horizon; through its blush shines the star of evening. Her
 
@@ -196,9 +196,9 @@ steady eyes I cannot picture. They are clear, they are deep as lakes,
 
 they are lifted and full of worship, they tremble with the softness of
 
-love and the lustre of prayer. Her forehead has the expanse of a cloud,
+[[Love|love]] and the lustre of [[prayer]]. Her forehead has the expanse of a cloud,
 
-and is paler than the early moon, risen long before dark gathers. She
+and is paler than the early [[Moon|moon]], risen long before dark gathers. She
 
 reclines her bosom on the ridge of Stilbro' Moor; her mighty hands are
 
@@ -208,7 +208,7 @@ Eve is Jehovah's daughter, as Adam was His son."
 
 
 
-"She is very vague and visionary. Come, Shirley, we ought to go into
+"She is very vague and visionary. Come, [[Shirley]], we ought to go into
 
 church."
 
@@ -216,7 +216,7 @@ church."
 
 "Caroline, I will not; I will stay out here with my mother Eve, in these
 
-days called Nature. I love her--undying, mighty being! Heaven may have
+days called [[Nature]]. I [[Love|love]] her--undying, mighty being! Heaven may have
 
 faded from her brow when she fell in paradise, but all that is glorious
 
@@ -228,13 +228,13 @@ are both silent."
 
 
 
-"I will humour your whim; but you will begin talking again ere ten
+"I will [[Humour|humour]] your whim; but you will begin talking again ere ten
 
 minutes are over."
 
 
 
-Miss Keeldar, on whom the soft excitement of the warm summer evening
+Miss Keeldar, on whom the soft excitement of the warm [[Summer|summer]] evening
 
 seemed working with unwonted power, leaned against an upright headstone;
 
@@ -242,11 +242,11 @@ she fixed her eyes on the deep-burning west, and sank into a pleasurable
 
 trance. Caroline, going a little apart, paced to and fro beneath the
 
-rectory garden wall, dreaming too in her way. Shirley had mentioned the
+rectory [[Garden|garden]] wall, dreaming too in her way. [[Shirley]] had mentioned the
 
-word "mother." That word suggested to Caroline's imagination not the
+word "mother." That word suggested to Caroline's [[Imagination|imagination]] not the
 
-mighty and mystical parent of Shirley's visions, but a gentle human
+mighty and mystical parent of [[Shirley]]'s visions, but a gentle human
 
 form--the form she ascribed to her own mother, unknown, unloved, but not
 
@@ -254,19 +254,19 @@ unlonged for.
 
 
 
-"Oh that the day would come when she would remember her child! Oh that I
+"Oh that the day would come when she would remember her [[Child|child]]! Oh that I
 
-might know her, and knowing, love her!"
-
-
-
-Such was her aspiration.
+might know her, and knowing, [[Love|love]] her!"
 
 
 
-The longing of her childhood filled her soul again. The desire which
+Such was her [[Aspiration|aspiration]].
 
-many a night had kept her awake in her crib, and which fear of its
+
+
+The [[Longing|longing]] of her [[Childhood|childhood]] filled her [[Soul|soul]] again. The [[Desire|desire]] which
+
+many a [[Night|night]] had kept her awake in her crib, and which [[Fear|fear]] of its
 
 fallacy had of late years almost extinguished, relit suddenly, and
 
@@ -274,9 +274,9 @@ glowed warm in her heart, that her mother might come some happy day,
 
 and send for her to her presence, look upon her fondly with loving eyes,
 
-and say to her tenderly, in a sweet voice, "Caroline, my child, I have a
+and say to her tenderly, in a sweet voice, "Caroline, my [[Child|child]], I have a
 
-home for you; you shall live with me. All the love you have needed, and
+[[Home|home]] for you; you shall live with me. All the [[Love|love]] you have needed, and
 
 not tasted, from infancy, I have saved for you carefully. Come; it shall
 
@@ -284,7 +284,7 @@ cherish you now."
 
 
 
-A noise on the road roused Caroline from her filial hopes, and Shirley
+A noise on the [[Road|road]] roused Caroline from her filial hopes, and [[Shirley]]
 
 from her Titan visions. They listened, and heard the tramp of horses.
 
@@ -296,7 +296,7 @@ and orderly, six soldiers rode softly by.
 
 
 
-"The same we saw this afternoon," whispered Shirley. "They have been
+"The same we saw this afternoon," whispered [[Shirley]]. "They have been
 
 halting somewhere till now. They wish to be as little noticed as
 
@@ -310,7 +310,7 @@ long?"
 
 Scarcely were sight and sound of the soldiers lost, when another and
 
-somewhat different disturbance broke the night-hush--a child's impatient
+somewhat different disturbance broke the [[Night|night]]-hush--a [[Child|child]]'s impatient
 
 scream. They looked. A man issued from the church, carrying in his arms
 
@@ -318,11 +318,11 @@ an infant--a robust, ruddy little boy of some two years old--roaring
 
 with all the power of his lungs. He had probably just awaked from a
 
-church-sleep. Two little girls, of nine and ten, followed. The influence
+church-[[Sleep|sleep]]. Two little girls, of nine and ten, followed. The influence
 
-of the fresh air, and the attraction of some flowers gathered from a
+of the fresh air, and the attraction of some [[Flowers|flowers]] gathered from a
 
-grave, soon quieted the child. The man sat down with him, dandling him
+[[Grave|grave]], soon quieted the [[Child|child]]. The man sat down with him, dandling him
 
 on his knee as tenderly as any woman; the two little girls took their
 
@@ -330,7 +330,7 @@ places one on each side.
 
 
 
-"Good-evening, William," said Shirley, after due scrutiny of the man. He
+"Good-evening, William," said [[Shirley]], after due scrutiny of the man. He
 
 had seen her before, and apparently was waiting to be recognized. He now
 
@@ -358,7 +358,7 @@ with proud or insolent ladies, too, he was quite unmanageable, sometimes
 
 very resentful; but he was most sensible of, most tractable to,
 
-good-humour and civility. His nature--a stubborn one--was repelled by
+good-[[Humour|humour]] and civility. His [[Nature|nature]]--a stubborn one--was repelled by
 
 inflexibility in other natures; for which reason he had never been able
 
@@ -374,13 +374,13 @@ his austerity. Latterly he had often worked at Fieldhead. Miss Keeldar's
 
 frank, hospitable manners were perfectly charming to him. Caroline he
 
-had known from her childhood; unconsciously she was his ideal of a lady.
+had known from her [[Childhood|childhood]]; unconsciously she was his ideal of a lady.
 
 Her gentle mien, step, gestures, her grace of person and attire, moved
 
-some artist-fibres about his peasant heart. He had a pleasure in looking
+some [[Artist|artist]]-fibres about his peasant heart. He had a pleasure in looking
 
-at her, as he had in examining rare flowers or in seeing pleasant
+at her, as he had in examining rare [[Flowers|flowers]] or in seeing pleasant
 
 landscapes. Both the ladies liked William; it was their delight to lend
 
@@ -392,11 +392,11 @@ in station.
 
 
 
-"Who was speaking, William, when you came out?" asked Shirley.
+"Who was speaking, William, when you came out?" asked [[Shirley]].
 
 
 
-"A gentleman ye set a deal of store on, Miss Shirley--Mr. Donne."
+"A gentleman ye set a deal of store on, Miss [[Shirley]]--Mr. Donne."
 
 
 
@@ -406,7 +406,7 @@ Donne?"
 
 
 
-"Ay, Miss Shirley, there's a gleg light i' your een sometimes which
+"Ay, Miss [[Shirley]], there's a gleg light i' your een sometimes which
 
 betrays you. You look raight down scornful sometimes when Mr. Donne is
 
@@ -424,13 +424,13 @@ They talk to poor folk fair as if they thought they were beneath them.
 
 They're allus magnifying their office. It is a pity but their office
 
-could magnify them; but it does nought o' t' soart. I fair hate pride."
+could magnify them; but it does nought o' t' soart. I fair hate [[Pride|pride]]."
 
 
 
 "But you are proud in your own way yourself," interposed Caroline. "You
 
-are what you call house-proud: you like to have everything handsome
+are what you call [[house]]-proud: you like to have everything handsome
 
 about you. Sometimes you look as if you were almost too proud to take
 
@@ -454,11 +454,11 @@ nor twice your age. It is not _my_ part, then, I think, to tak fro'
 
 _ye_--to be under obligations (as they say) to _ye_. And that day ye
 
-came to our house, and called me to t' door, and offered me five
+came to our [[house]], and called me to t' door, and offered me five
 
-shillings, which I doubt ye could ill spare--for ye've no fortin', I
+shillings, which I [[Doubt|doubt]] ye could ill spare--for ye've no fortin', I
 
-know--that day I war fair a rebel, a radical, an insurrectionist; and
+know--that day I war fair a [[Rebel|rebel]], a radical, an insurrectionist; and
 
 _ye_ made me so. I thought it shameful that, willing and able as I was
 
@@ -474,19 +474,19 @@ o' brass."
 
 
 
-"I almost was, in a way. But I forgave ye varry soon. Ye meant well. Ay,
+"I almost was, in a way. But I forgave ye varry soon. Ye meant [[Well|well]]. Ay,
 
-_I am_ proud, and so are _ye_; but your pride and mine is t' raight
+_I am_ proud, and so are _ye_; but your [[Pride|pride]] and mine is t' raight
 
-mak--what we call i' Yorkshire clean pride--such as Mr. Malone and Mr.
+mak--what we call i' Yorkshire clean [[Pride|pride]]--such as Mr. Malone and Mr.
 
-Donne knows nought about. Theirs is mucky pride. Now, I shall teach my
+Donne knows nought about. Theirs is mucky [[Pride|pride]]. Now, I shall teach my
 
-lasses to be as proud as Miss Shirley there, and my lads to be as proud
+lasses to be as proud as Miss [[Shirley]] there, and my lads to be as proud
 
 as myseln; but I dare ony o' 'em to be like t' curates. I'd lick little
 
-Michael if I seed him show any signs o' that feeling."
+[[Michael]] if I seed him show any signs o' that feeling."
 
 
 
@@ -510,17 +510,17 @@ themseln aboon us."
 
 "Now, William, be humble enough to tell me truly how you are getting on
 
-in the world. Are you well off?"
+in the world. Are you [[Well|well]] off?"
 
 
 
-"Miss Shirley, I am varry well off. Since I got into t' gardening line,
+"Miss [[Shirley]], I am varry [[Well|well]] off. Since I got into t' gardening line,
 
 wi' Mr. Yorke's help, and since Mr. Hall (another o' t' raight sort)
 
 helped my wife to set up a bit of a shop, I've nought to complain of. My
 
-family has plenty to eat and plenty to wear. My pride makes me find
+family has plenty to eat and plenty to wear. My [[Pride|pride]] makes me find
 
 means to have an odd pound now and then against rainy days; for I think
 
@@ -550,7 +550,7 @@ condition--I'll say so mich!"
 
 "Do? Ye can do not mich, poor young lass! Ye've gi'en your brass; ye've
 
-done well. If ye could transport your tenant, Mr. Moore, to Botany Bay,
+done [[Well|well]]. If ye could transport your tenant, Mr. Moore, to Botany Bay,
 
 ye'd happen do better. Folks hate him."
 
@@ -570,7 +570,7 @@ talk so."
 
 
 
-"But," interposed Shirley, "supposing Moore was driven from the country,
+"But," interposed [[Shirley]], "supposing Moore was driven from the country,
 
 and his mill razed to the ground, would people have more work?"
 
@@ -584,7 +584,7 @@ he cannot better himself; and there is dishonest men plenty to guide
 
 them to the devil, scoundrels that reckons to be the 'people's friends,'
 
-and that knows nought about the people, and is as insincere as Lucifer.
+and that knows nought about the people, and is as insincere as [[Lucifer]].
 
 I've lived aboon forty year in the world, and I believe that 'the
 
@@ -600,7 +600,7 @@ then, sich as ye two young uns and me, that, being in a different
 
 sphere, can understand t' one t' other, and be friends wi'out
 
-slavishness o' one hand or pride o' t' other. Them that reckons to be
+slavishness o' one hand or [[Pride|pride]] o' t' other. Them that reckons to be
 
 friends to a lower class than their own fro' political motives is never
 
@@ -638,23 +638,23 @@ he stood.
 
 "And I'll warrant my maister," was the answer.--"Young ladies,"
 
-continued Joe, assuming a lordly air, "ye'd better go into th' house."
+continued Joe, assuming a lordly air, "ye'd better go into th' [[house]]."
 
 
 
-"I wonder what for?" inquired Shirley, to whom the overlooker's somewhat
+"I [[Wonder|wonder]] what for?" inquired [[Shirley]], to whom the overlooker's somewhat
 
 pragmatical manners were familiar, and who was often at war with him;
 
 for Joe, holding supercilious theories about women in general, resented
 
-greatly, in his secret soul, the fact of his master and his master's
+greatly, in his secret [[Soul|soul]], the fact of his master and his master's
 
-mill being, in a manner, under petticoat government, and had felt as
+mill being, in a manner, under petticoat [[government]], and had felt as
 
 wormwood and gall certain business visits of the heiress to the Hollow's
 
-counting-house.
+counting-[[house]].
 
 
 
@@ -662,13 +662,13 @@ counting-house.
 
 
 
-"Indeed! There is prayer and preaching agate in that church. Are we not
+"Indeed! There is [[prayer]] and preaching agate in that church. Are we not
 
 concerned in that?"
 
 
 
-"Ye have been present neither at the prayer nor preaching, ma'am, if I
+"Ye have been present neither at the [[prayer]] nor preaching, ma'am, if I
 
 have observed aright. What I alluded to was politics. William Farren
 
@@ -676,9 +676,9 @@ here was touching on that subject, if I'm not mista'en."
 
 
 
-"Well, what then? Politics are our habitual study, Joe. Do you know I
+"[[Well]], what then? Politics are our habitual study, Joe. Do you know I
 
-see a newspaper every day, and two of a Sunday?"
+see a newspaper every day, and two of a [[Sunday]]?"
 
 
 
@@ -696,13 +696,13 @@ look over the market prices. In short, I read just what gentlemen read."
 
 Joe looked as if he thought this talk was like the chattering of a pie.
 
-He replied to it by a disdainful silence.
+He replied to it by a disdainful [[Silence|silence]].
 
 
 
 "Joe," continued Miss Keeldar, "I never yet could ascertain properly
 
-whether you are a Whig or a Tory. Pray, which party has the honour of
+whether you are a Whig or a Tory. Pray, which party has the [[Honour|honour]] of
 
 your alliance?"
 
@@ -724,7 +724,7 @@ mercantile interests of this here land."
 
 
 
-"So am I, Joe," replied Shirley, who had rather a pleasure in teasing
+"So am I, Joe," replied [[Shirley]], who had rather a pleasure in teasing
 
 the overlooker, by persisting in talking on subjects with which he
 
@@ -732,7 +732,7 @@ opined she, as a woman, had no right to meddle--"partly, at least. I
 
 have rather a leaning to the agricultural interest, too; as good reason
 
-is, seeing that I don't desire England to be under the feet of France,
+is, seeing that I don't [[Desire|desire]] England to be under the feet of France,
 
 and that if a share of my income comes from Hollow's Mill, a larger
 
@@ -750,7 +750,7 @@ any measures injurious to the farmers, Joe, I think?"
 
 you that I am impervious to cold. I should not mind taking my turn to
 
-watch the mill one of these summer nights, armed with your musket, Joe."
+watch the mill one of these [[Summer|summer]] nights, armed with your musket, Joe."
 
 
 
@@ -768,7 +768,7 @@ we manufacturers and persons of business are sometimes a little--a _very
 
 little_--selfish and short-sighted in our views, and rather _too_
 
-regardless of human suffering, rather heartless in our pursuit of gain.
+regardless of human [[Suffering|suffering]], rather heartless in our pursuit of gain.
 
 Don't you agree with me, Joe?"
 
@@ -806,19 +806,19 @@ Paul's first Epistle to Timothy."
 
 
 
-"'Let the woman learn in silence, with all subjection. I suffer not a
+"'Let the woman learn in [[Silence|silence]], with all subjection. I suffer not a
 
 woman to teach, nor to usurp authority over the man, but to be in
 
-silence. For Adam was first formed, then Eve.'"
+[[Silence|silence]]. For Adam was first formed, then Eve.'"
 
 
 
-"What has that to do with the business?" interjected Shirley. "That
+"What has that to do with the business?" interjected [[Shirley]]. "That
 
 smacks of rights of primogeniture. I'll bring it up to Mr. Yorke the
 
-first time he inveighs against those rights."
+first [[Time|time]] he inveighs against those rights."
 
 
 
@@ -830,7 +830,7 @@ deceived was in the transgression."
 
 "More shame to Adam to sin with his eyes open!" cried Miss Keeldar. "To
 
-confess the honest truth, Joe, I never was easy in my mind concerning
+confess the honest [[Truth|truth]], Joe, I never was easy in my mind concerning
 
 that chapter. It puzzles me."
 
@@ -842,7 +842,7 @@ that chapter. It puzzles me."
 
 "He may read it in his own fashion," remarked Caroline, now joining in
 
-the dialogue for the first time. "You allow the right of private
+the dialogue for the first [[Time|time]]. "You allow the right of private
 
 judgment, I suppose, Joe?"
 
@@ -854,7 +854,7 @@ Book."
 
 
 
-"Women may exercise it as well as men?"
+"Women may exercise it as [[Well|well]] as men?"
 
 
 
@@ -864,17 +864,17 @@ religion. It's wholesomest for them."
 
 
 
-"Oh! oh!" exclaimed both Shirley and Caroline.
+"Oh! oh!" exclaimed both [[Shirley]] and Caroline.
 
 
 
-"To be sure; no doubt on't," persisted the stubborn overlooker.
+"To be sure; no [[Doubt|doubt]] on't," persisted the stubborn overlooker.
 
 
 
 "Consider yourself groaned down, and cried shame over, for such a stupid
 
-observation," said Miss Keeldar. "You might as well say men are to take
+observation," said Miss Keeldar. "You might as [[Well|well]] say men are to take
 
 the opinions of their priests without examination. Of what value would a
 
@@ -896,7 +896,7 @@ besides, I dare say, if I could read the original Greek, I should find
 
 that many of the words have been wrongly translated, perhaps
 
-misapprehended altogether. It would be possible, I doubt not, with a
+misapprehended altogether. It would be possible, I [[Doubt|doubt]] not, with a
 
 little ingenuity, to give the passage quite a contrary turn--to make it
 
@@ -922,15 +922,15 @@ were. I like William better than you."
 
 
 
-"Joe is well enough in his own house," said Shirley. "I have seen him as
+"Joe is [[Well|well]] enough in his own [[house]]," said [[Shirley]]. "I have seen him as
 
-quiet as a lamb at home. There is not a better nor a kinder husband in
+quiet as a [[Lamb|lamb]] at [[Home|home]]. There is not a better nor a kinder husband in
 
 Briarfield. He does not dogmatize to his wife."
 
 
 
-"My wife is a hard-working, plain woman; time and trouble has ta'en all
+"My wife is a hard-working, plain woman; [[Time|time]] and trouble has ta'en all
 
 the conceit out of her. But that is not the case with you, young misses.
 
@@ -940,7 +940,7 @@ only superficial sort o' vanities you're acquainted with. I can
 
 tell--happen a year sin'--one day Miss Caroline coming into our
 
-counting-house when I war packing up summat behind t' great desk, and
+counting-[[house]] when I war packing up summat behind t' great desk, and
 
 she didn't see me, and she brought a slate wi' a sum on it to t'
 
@@ -956,7 +956,7 @@ her how. And when he did show her, she couldn't understand him."
 
 
 
-"Nay, it's no nonsense. And Miss Shirley there reckons to hearken to t'
+"Nay, it's no nonsense. And Miss [[Shirley]] there reckons to hearken to t'
 
 maister when he's talking ower trade, so attentive like, as if she
 
@@ -964,11 +964,11 @@ followed him word for word, and all war as clear as a lady's
 
 looking-glass to her een; and all t' while she's peeping and peeping out
 
-o' t' window to see if t' mare stands quiet; and then looking at a bit
+o' t' [[Window|window]] to see if t' mare stands quiet; and then looking at a bit
 
 of a splash on her riding-skirt; and then glancing glegly round at wer
 
-counting-house cobwebs and dust, and thinking what mucky folk we are,
+counting-[[house]] cobwebs and [[Dust|dust]], and thinking what mucky folk we are,
 
 and what a grand ride she'll have just i' now ower Nunnely Common. She
 

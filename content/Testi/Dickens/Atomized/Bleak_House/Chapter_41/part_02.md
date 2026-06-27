@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 41 (part 2)"
+title: "Bleak [[house|House]] — Chapter 41 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -14,26 +14,26 @@ tags:
 </nav>
 
 
-“I will not trouble you, Lady Dedlock. Pray spare yourself.”
+“I will not trouble you, [[Lady Dedlock]]. Pray spare yourself.”
 
 “I have long expected this, as you know. I neither wish to spare
 myself nor to be spared. You can do nothing worse to me than you have
 done. Do what remains now.”
 
-“Lady Dedlock, there is nothing to be done. I will take leave to say
+“[[Lady Dedlock]], there is nothing to be done. I will take leave to say
 a few words when you have finished.”
 
 Their need for watching one another should be over now, but they do
-it all this time, and the stars watch them both through the opened
-window. Away in the moonlight lie the woodland fields at rest, and
-the wide house is as quiet as the narrow one. The narrow one! Where
-are the digger and the spade, this peaceful night, destined to add
-the last great secret to the many secrets of the Tulkinghorn
+it all this [[Time|time]], and the [[Stars|stars]] watch them both through the opened
+[[Window|window]]. Away in the moonlight lie the woodland fields at rest, and
+the wide [[house]] is as quiet as the narrow one. The narrow one! Where
+are the digger and the spade, this peaceful [[Night|night]], destined to add
+the last great secret to the many [[Secrets|secrets]] of the Tulkinghorn
 existence? Is the man born yet, is the spade wrought yet? Curious
 questions to consider, more curious perhaps not to consider, under
-the watching stars upon a summer night.
+the watching [[Stars|stars]] upon a [[Summer|summer]] [[Night|night]].
 
-“Of repentance or remorse or any feeling of mine,” Lady Dedlock
+“Of repentance or remorse or any feeling of mine,” [[Lady Dedlock]]
 presently proceeds, “I say not a word. If I were not dumb, you would
 be deaf. Let that go by. It is not for your ears.”
 
@@ -48,10 +48,10 @@ dress, in order that I might avoid observation. I went to be
 henceforward lost. Make this known. I leave no other charge with
 you.”
 
-“Excuse me, Lady Dedlock,” says Mr. Tulkinghorn, quite unmoved. “I am
+“Excuse me, [[Lady Dedlock]],” says Mr. Tulkinghorn, quite unmoved. “I am
 not sure that I understand you. You want—”
 
-“To be lost to all here. I leave Chesney Wold to-night. I go this
+“To be lost to all here. I leave Chesney Wold to-[[Night|night]]. I go this
 hour.”
 
 Mr. Tulkinghorn shakes his head. She rises, but he, without moving
@@ -60,19 +60,19 @@ shakes his head.
 
 “What? Not go as I have said?”
 
-“No, Lady Dedlock,” he very calmly replies.
+“No, [[Lady Dedlock]],” he very calmly replies.
 
 “Do you know the relief that my disappearance will be? Have you
 forgotten the stain and blot upon this place, and where it is, and
 who it is?”
 
-“No, Lady Dedlock, not by any means.”
+“No, [[Lady Dedlock]], not by any means.”
 
 Without deigning to rejoin, she moves to the inner door and has it in
 her hand when he says to her, without himself stirring hand or foot
-or raising his voice, “Lady Dedlock, have the goodness to stop and
+or raising his voice, “[[Lady Dedlock]], have the goodness to stop and
 hear me, or before you reach the staircase I shall ring the
-alarm-bell and rouse the house. And then I must speak out before
+alarm-bell and rouse the [[house]]. And then I must speak out before
 every guest and servant, every man and woman, in it.”
 
 He has conquered her. She falters, trembles, and puts her hand
@@ -80,13 +80,13 @@ confusedly to her head. Slight tokens these in any one else, but when
 so practised an eye as Mr. Tulkinghorn’s sees indecision for a moment
 in such a subject, he thoroughly knows its value.
 
-He promptly says again, “Have the goodness to hear me, Lady Dedlock,”
+He promptly says again, “Have the goodness to hear me, [[Lady Dedlock]],”
 and motions to the chair from which she has risen. She hesitates, but
 he motions again, and she sits down.
 
 “The relations between us are of an unfortunate description, Lady
 Dedlock; but as they are not of my making, I will not apologize for
-them. The position I hold in reference to Sir Leicester is so well
+them. The position I hold in reference to Sir Leicester is so [[Well|well]]
 known to you that I can hardly imagine but that I must long have
 appeared in your eyes the natural person to make this discovery.”
 
@@ -94,28 +94,28 @@ appeared in your eyes the natural person to make this discovery.”
 eyes are now fixed, “I had better have gone. It would have been far
 better not to have detained me. I have no more to say.”
 
-“Excuse me, Lady Dedlock, if I add a little more to hear.”
+“Excuse me, [[Lady Dedlock]], if I add a little more to hear.”
 
-“I wish to hear it at the window, then. I can’t breathe where I am.”
+“I wish to hear it at the [[Window|window]], then. I can’t breathe where I am.”
 
 His jealous glance as she walks that way betrays an instant’s
 misgiving that she may have it in her thoughts to leap over, and
 dashing against ledge and cornice, strike her life out upon the
 terrace below. But a moment’s observation of her figure as she stands
-in the window without any support, looking out at the stars—not
-up—gloomily out at those stars which are low in the heavens,
+in the [[Window|window]] without any support, looking out at the [[Stars|stars]]—not
+up—gloomily out at those [[Stars|stars]] which are low in the heavens,
 reassures him. By facing round as she has moved, he stands a little
 behind her.
 
-“Lady Dedlock, I have not yet been able to come to a decision
+“[[Lady Dedlock]], I have not yet been able to come to a decision
 satisfactory to myself on the course before me. I am not clear what
 to do or how to act next. I must request you, in the meantime, to
-keep your secret as you have kept it so long and not to wonder that I
+keep your secret as you have kept it so long and not to [[Wonder|wonder]] that I
 keep it too.”
 
 He pauses, but she makes no reply.
 
-“Pardon me, Lady Dedlock. This is an important subject. You are
+“Pardon me, [[Lady Dedlock]]. This is an important subject. You are
 honouring me with your attention?”
 
 “I am.”
@@ -126,27 +126,27 @@ have the habit of making sure of my ground, step by step, as I go on.
 The sole consideration in this unhappy case is Sir Leicester.”
 
 “Then why,” she asks in a low voice and without removing her gloomy
-look from those distant stars, “do you detain me in his house?”
+look from those distant [[Stars|stars]], “do you detain me in his [[house]]?”
 
-“Because he IS the consideration. Lady Dedlock, I have no occasion to
+“Because he IS the consideration. [[Lady Dedlock]], I have no occasion to
 tell you that Sir Leicester is a very proud man, that his reliance
-upon you is implicit, that the fall of that moon out of the sky would
+upon you is implicit, that the fall of that [[Moon|moon]] out of the sky would
 not amaze him more than your fall from your high position as his
 wife.”
 
 She breathes quickly and heavily, but she stands as unflinchingly as
 ever he has seen her in the midst of her grandest company.
 
-“I declare to you, Lady Dedlock, that with anything short of this
+“I declare to you, [[Lady Dedlock]], that with anything short of this
 case that I have, I would as soon have hoped to root up by means of
 my own strength and my own hands the oldest tree on this estate as to
 shake your hold upon Sir Leicester and Sir Leicester’s trust and
 confidence in you. And even now, with this case, I hesitate. Not that
-he could doubt (that, even with him, is impossible), but that nothing
+he could [[Doubt|doubt]] (that, even with him, is impossible), but that nothing
 can prepare him for the blow.”
 
 “Not my flight?” she returned. “Think of it again.”
 
-“Your flight, Lady Dedlock, would spread the whole truth, and a
-hundred times the whole truth, far and wide. It would be impossible
+“Your flight, [[Lady Dedlock]], would spread the whole [[Truth|truth]], and a
+hundred times the whole [[Truth|truth]], far and wide. It would be impossible
 to save the family credit for a day. It is not to be thought of.”

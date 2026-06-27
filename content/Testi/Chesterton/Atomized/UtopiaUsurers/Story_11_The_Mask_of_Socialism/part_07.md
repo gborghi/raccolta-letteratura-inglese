@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Mask of Socialism (part 7)"
+title: "[[UtopiaUsurers]] — The Mask of Socialism (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -16,11 +16,11 @@ tags:
 
 party discipline see nothing either past or present. And where there is
 
-nothing there is Satan.
+nothing there is [[Satan]].
 
 
 
-For a long time past in our politics there has not only been no real
+For a long [[Time|time]] past in our politics there has not only been no real
 
 battle, but no real bargain. No two men have bargained as Gladstone and
 
@@ -44,7 +44,7 @@ LIBERALISM: A SAMPLE
 
 There is a certain daily paper in England towards which I feel very much
 
-as Tom Pinch felt towards Mr. Pecksniff immediately after he had
+as [[Tom Pinch]] felt towards Mr. Pecksniff immediately after he had
 
 found him out. The war upon Dickens was part of the general war on all
 
@@ -62,11 +62,11 @@ and his successes alternate with his failures; but his successes
 
 are subtle quite as often as they are simple. Thus, to take "Martin
 
-Chuzzlewit" alone, I should call the joke about the Lord No-zoo a simple
+Chuzzlewit" [[Alone|alone]], I should call the joke about the Lord No-zoo a simple
 
 joke: but I should call the joke about Mrs. Todgers's vision of a wooden
 
-leg a subtle joke. And no frame of mind was ever so self-contradictory
+leg a subtle joke. And no frame of mind was ever so [[Self|self]]-contradictory
 
 and yet so realistic as that which Dickens describes when he says, in
 
@@ -84,7 +84,7 @@ a final incompatibility of temper, Pecksniff was not so Pecksniffian as
 
 he has since become. But the comparison is complete in so far as I share
 
-all the reluctance of Mr. Pinch. Some old heathen king was advised by
+all the reluctance of Mr. Pinch. Some old heathen [[King|king]] was advised by
 
 one of the Celtic saints, I think, to burn what he had adored and adore
 
@@ -134,7 +134,7 @@ hurry and fatigue, with which it flings down its argument--or rather its
 
 refusal to argue. It does not even write sophistry: it writes anything.
 
-It does not so much poison the reader's mind as simply assume that the
+It does not so much [[Poison|poison]] the reader's mind as simply assume that the
 
 reader hasn't got one. For instance, one of these papers printed an
 
@@ -142,11 +142,11 @@ article on Sir Stuart Samuel, who, having broken the great Liberal
 
 statute against corruption, will actually, perhaps, be asked to pay his
 
-own fine--in spite of the fact that he can well afford to do so. The
+own fine--in spite of the fact that he can [[Well|well]] afford to do so. The
 
 article says, if I remember aright, that the decision will cause general
 
-surprise and some indignation. That any modern Government making a very
+surprise and some indignation. That any modern [[government|Government]] making a very
 
 rich capitalist obey the law will cause general surprise, may be true.
 
@@ -176,13 +176,13 @@ offender of this kind. That, of course, can only mean that the matter
 
 will be decided by that instrument which still pretends to represent
 
-the whole power of the commonwealth. In other words, the Government will
+the whole power of the commonwealth. In other words, the [[government|Government]] will
 
-judge the Government.
+judge the [[government|Government]].
 
 
 
-Now this is a perfectly plain piece of brute logic. We need not go into
+Now this is a perfectly plain piece of brute [[logic]]. We need not go into
 
 the other delicious things in the article, as when it says that "in old
 

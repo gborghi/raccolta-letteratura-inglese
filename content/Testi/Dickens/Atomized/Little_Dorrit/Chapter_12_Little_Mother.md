@@ -17,33 +17,33 @@ tags:
 CHAPTER 9. Little Mother
 
 
-The morning light was in no hurry to climb the prison wall and look in
+The morning light was in no hurry to climb the [[Prison|prison]] wall and look in
 at the Snuggery windows; and when it did come, it would have been more
-welcome if it had come alone, instead of bringing a rush of rain with
+welcome if it had come [[Alone|alone]], instead of bringing a rush of rain with
 it. But the equinoctial gales were blowing out at sea, and the impartial
-south-west wind, in its flight, would not neglect even the narrow
+south-west [[Wind|wind]], in its flight, would not neglect even the narrow
 Marshalsea. While it roared through the steeple of St George’s Church,
 and twirled all the cowls in the neighbourhood, it made a swoop to beat
 the Southwark smoke into the jail; and, plunging down the chimneys
 of the few early collegians who were yet lighting their fires, half
 suffocated them.
 
-Arthur Clennam would have been little disposed to linger in bed, though
+[[Arthur Clennam]] would have been little disposed to linger in bed, though
 his bed had been in a more private situation, and less affected by the
-raking out of yesterday’s fire, the kindling of to-day’s under the
+raking out of yesterday’s [[Fire|fire]], the kindling of to-day’s under the
 collegiate boiler, the filling of that Spartan vessel at the pump, the
 sweeping and sawdusting of the common room, and other such preparations.
-Heartily glad to see the morning, though little rested by the night, he
+Heartily glad to see the morning, though little rested by the [[Night|night]], he
 turned out as soon as he could distinguish objects about him, and paced
 the yard for two heavy hours before the gate was opened.
 
 The walls were so near to one another, and the wild clouds hurried
 over them so fast, that it gave him a sensation like the beginning of
 sea-sickness to look up at the gusty sky. The rain, carried aslant by
-flaws of wind, blackened that side of the central building which he had
-visited last night, but left a narrow dry trough under the lee of the
-wall, where he walked up and down among the waits of straw and dust
-and paper, the waste droppings of the pump, and the stray leaves of
+flaws of [[Wind|wind]], blackened that side of the central building which he had
+visited last [[Night|night]], but left a narrow dry trough under the lee of the
+wall, where he walked up and down among the waits of straw and [[Dust|dust]]
+and paper, the waste droppings of the pump, and the stray [[Leaves|leaves]] of
 yesterday’s greens. It was as haggard a view of life as a man need look
 upon.
 
@@ -52,7 +52,7 @@ brought him there. Perhaps she glided out of her doorway and in at that
 where her father lived, while his face was turned from both; but he saw
 nothing of her. It was too early for her brother; to have seen him once,
 was to have seen enough of him to know that he would be sluggish to
-leave whatever frowsy bed he occupied at night; so, as Arthur Clennam
+leave whatever frowsy bed he occupied at [[Night|night]]; so, as [[Arthur Clennam]]
 walked up and down, waiting for the gate to open, he cast about in
 his mind for future rather than for present means of pursuing his
 discoveries.
@@ -60,8 +60,8 @@ discoveries.
 At last the lodge-gate turned, and the turnkey, standing on the step,
 taking an early comb at his hair, was ready to let him out. With a
 joyful sense of release he passed through the lodge, and found himself
-again in the little outer court-yard where he had spoken to the brother
-last night.
+again in the little outer [[Court|court]]-yard where he had spoken to the brother
+last [[Night|night]].
 
 There was a string of people already straggling in, whom it was not
 difficult to identify as the nondescript messengers, go-betweens, and
@@ -70,7 +70,7 @@ until the gate should open; others, who had timed their arrival
 with greater nicety, were coming up now, and passing in with damp
 whitey-brown paper bags from the grocers, loaves of bread, lumps of
 butter, eggs, milk, and the like. The shabbiness of these attendants
-upon shabbiness, the poverty of these insolvent waiters upon insolvency,
+upon shabbiness, the [[Poverty|poverty]] of these insolvent waiters upon insolvency,
 was a sight to see. Such threadbare coats and trousers, such fusty gowns
 and shawls, such squashed hats and bonnets, such boots and shoes, such
 umbrellas and walking-sticks, never were seen in Rag Fair. All of
@@ -91,9 +91,9 @@ dragged their clothes, frayed their button-holes, leaked out of their
 figures in dirty little ends of tape, and issued from their mouths in
 alcoholic breathings.
 
-As these people passed him standing still in the court-yard, and one of
+As these people passed him standing still in the [[Court|court]]-yard, and one of
 them turned back to inquire if he could assist him with his services,
-it came into Arthur Clennam’s mind that he would speak to Little Dorrit
+it came into [[Arthur Clennam]]’s mind that he would speak to Little Dorrit
 again before he went away. She would have recovered her first surprise,
 and might feel easier with him. He asked this member of the fraternity
 (who had two red herrings in his hand, and a loaf and a blacking brush
@@ -106,26 +106,26 @@ coffee-shop in the street within a stone’s throw.
 The nondescript knew two Miss Dorrits; one who was born inside--That was
 the one! That was the one? The nondescript had known her many years.
 In regard of the other Miss Dorrit, the nondescript lodged in the same
-house with herself and uncle.
+[[house]] with herself and uncle.
 
 This changed the client’s half-formed design of remaining at the
 coffee-shop until the nondescript should bring him word that Dorrit
 had issued forth into the street. He entrusted the nondescript with a
 confidential message to her, importing that the visitor who had waited
-on her father last night, begged the favour of a few words with her at
+on her father last [[Night|night]], begged the favour of a few words with her at
 her uncle’s lodging; he obtained from the same source full directions to
-the house, which was very near; dismissed the nondescript gratified with
-half-a-crown; and having hastily refreshed himself at the coffee-shop,
-repaired with all speed to the clarionet-player’s dwelling.
+the [[house]], which was very near; dismissed the nondescript gratified with
+half-a-[[Crown|crown]]; and having hastily refreshed himself at the coffee-shop,
+repaired with all [[Speed|speed]] to the clarionet-player’s dwelling.
 
-There were so many lodgers in this house that the doorpost seemed to be
-as full of bell-handles as a cathedral organ is of stops. Doubtful
+There were so many lodgers in this [[house]] that the doorpost seemed to be
+as full of bell-handles as a [[Cathedral|cathedral]] organ is of stops. Doubtful
 which might be the clarionet-stop, he was considering the point, when a
-shuttlecock flew out of the parlour window, and alighted on his hat.
-He then observed that in the parlour window was a blind with the
-inscription, MR CRIPPLES’s ACADEMY; also in another line, EVENING
+shuttlecock flew out of the parlour [[Window|window]], and alighted on his hat.
+He then observed that in the parlour [[Window|window]] was a blind with the
+[[Inscription|inscription]], MR CRIPPLES’s ACADEMY; also in another line, EVENING
 TUITION; and behind the blind was a little white-faced boy, with a slice
-of bread-and-butter and a battledore. The window being accessible from
+of bread-and-butter and a battledore. The [[Window|window]] being accessible from
 the footway, he looked in over the blind, returned the shuttlecock, and
 put his question.
 
@@ -136,13 +136,13 @@ The pupils of Mr Cripples appeared to have been making a copy-book of
 the street-door, it was so extensively scribbled over in pencil. The
 frequency of the inscriptions, ‘Old Dorrit,’ and ‘Dirty Dick,’ in
 combination, suggested intentions of personality on the part Of Mr
-Cripples’s pupils.  There was ample time to make these observations
+Cripples’s pupils.  There was ample [[Time|time]] to make these observations
 before the door was opened by the poor old man himself.
 
-‘Ha!’ said he, very slowly remembering Arthur, ‘you were shut in last
-night?’
+‘Ha!’ said he, very slowly remembering [[arthur|Arthur]], ‘you were shut in last
+[[Night|night]]?’
 
-‘Yes, Mr Dorrit. I hope to meet your niece here presently.’
+‘Yes, Mr Dorrit. I [[Hope|hope]] to meet your niece here presently.’
 
 ‘Oh!’ said he, pondering. ‘Out of my brother’s way? True. Would you come
 up-stairs and wait for her?’
@@ -150,7 +150,7 @@ up-stairs and wait for her?’
 ‘Thank you.’
 
 Turning himself as slowly as he turned in his mind whatever he heard or
-said, he led the way up the narrow stairs. The house was very close, and
+said, he led the way up the narrow stairs. The [[house]] was very close, and
 had an unwholesome smell. The little staircase windows looked in at the
 back windows of other houses as unwholesome as itself, with poles and
 lines thrust out of them, on which unsightly linen hung; as if the
@@ -168,20 +168,20 @@ and that, when the uncle tried to open it, there was a sharp adjuration
 of ‘Don’t, stupid!’ and an appearance of loose stocking and flannel,
 concluded that the young lady was in an undress. The uncle, without
 appearing to come to any conclusion, shuffled in again, sat down in his
-chair, and began warming his hands at the fire; not that it was cold, or
+chair, and began warming his hands at the [[Fire|fire]]; not that it was cold, or
 that he had any waking idea whether it was or not.
 
 ‘What did you think of my brother, sir?’ he asked, when he by-and-by
 discovered what he was doing, left off, reached over to the
 chimney-piece, and took his clarionet case down.
 
-‘I was glad,’ said Arthur, very much at a loss, for his thoughts were
-on the brother before him; ‘to find him so well and cheerful.’
+‘I was glad,’ said [[arthur|Arthur]], very much at a loss, for his thoughts were
+on the brother before him; ‘to find him so [[Well|well]] and cheerful.’
 
 ‘Ha!’ muttered the old man, ‘yes, yes, yes, yes, yes!’
 
-Arthur wondered what he could possibly want with the clarionet case. He
-did not want it at all. He discovered, in due time, that it was not the
+[[arthur|Arthur]] wondered what he could possibly want with the clarionet case. He
+did not want it at all. He discovered, in due [[Time|time]], that it was not the
 little paper of snuff (which was also on the chimney-piece), put it back
 again, took down the snuff instead, and solaced himself with a pinch. He
 was as feeble, spare, and slow in his pinches as in everything else, but
@@ -197,8 +197,8 @@ thought of her.’
 should all have been lost without Amy. She is a very good girl, Amy. She
 does her duty.’
 
-Arthur fancied that he heard in these praises a certain tone of custom,
-which he had heard from the father last night with an inward protest and
+[[arthur|Arthur]] fancied that he heard in these praises a certain tone of custom,
+which he had heard from the father last [[Night|night]] with an inward protest and
 feeling of antagonism. It was not that they stinted her praises, or
 were insensible to what she did for them; but that they were lazily
 habituated to her, as they were to all the rest of their condition.
@@ -206,7 +206,7 @@ He fancied that although they had before them, every day, the means of
 comparison between her and one another and themselves, they regarded her
 as being in her necessary place; as holding a position towards them all
 which belonged to her, like her name or her age. He fancied that they
-viewed her, not as having risen away from the prison atmosphere, but as
+viewed her, not as having risen away from the [[Prison|prison]] atmosphere, but as
 appertaining to it; as being vaguely what they had a right to expect,
 and nothing more.
 
@@ -220,7 +220,7 @@ She came up after him, in the usual plain dress, and with the usual
 timid manner. Her lips were a little parted, as if her heart beat faster
 than usual.
 
-‘Mr Clennam, Amy,’ said her uncle, ‘has been expecting you some time.’
+‘Mr Clennam, Amy,’ said her uncle, ‘has been expecting you some [[Time|time]].’
 
 ‘I took the liberty of sending you a message.’
 
@@ -236,30 +236,30 @@ be going? I can then speak to you as we walk, both without detaining you
 here, and without intruding longer here myself.’
 
 She looked embarrassed, but said, if he pleased. He made a pretence of
-having mislaid his walking-stick, to give her time to set the bedstead
+having mislaid his walking-stick, to give her [[Time|time]] to set the bedstead
 right, to answer her sister’s impatient knock at the wall, and to say a
 word softly to her uncle. Then he found it, and they went down-stairs;
 she first, he following; the uncle standing at the stair-head, and
 probably forgetting them before they had reached the ground floor.
 
-Mr Cripples’s pupils, who were by this time coming to school, desisted
+Mr Cripples’s pupils, who were by this [[Time|time]] coming to school, desisted
 from their morning recreation of cuffing one another with bags and
 books, to stare with all the eyes they had at a stranger who had been
-to see Dirty Dick. They bore the trying spectacle in silence, until the
+to see Dirty Dick. They bore the trying spectacle in [[Silence|silence]], until the
 mysterious visitor was at a safe distance; when they burst into pebbles
 and yells, and likewise into reviling dances, and in all respects buried
 the pipe of peace with so many savage ceremonies, that, if Mr Cripples
 had been the chief of the Cripplewayboo tribe with his war-paint on,
-they could scarcely have done greater justice to their education.
+they could scarcely have done greater justice to their [[Education|education]].
 
-In the midst of this homage, Mr Arthur Clennam offered his arm to Little
+In the midst of this homage, Mr [[Arthur Clennam]] offered his arm to Little
 Dorrit, and Little Dorrit took it. ‘Will you go by the Iron Bridge,’
 said he, ‘where there is an escape from the noise of the street?’ Little
-Dorrit answered, if he pleased, and presently ventured to hope that he
+Dorrit answered, if he pleased, and presently ventured to [[Hope|hope]] that he
 would ‘not mind’ Mr Cripples’s boys, for she had herself received
-her education, such as it was, in Mr Cripples’s evening academy. He
+her [[Education|education]], such as it was, in Mr Cripples’s evening academy. He
 returned, with the best will in the world, that Mr Cripples’s boys were
-forgiven out of the bottom of his soul. Thus did Cripples unconsciously
+forgiven out of the [[Bottom|bottom]] of his [[Soul|soul]]. Thus did Cripples unconsciously
 become a master of the ceremonies between them, and bring them more
 naturally together than Beau Nash might have done if they had lived
 in his golden days, and he had alighted from his coach and six for the
@@ -268,16 +268,16 @@ purpose.
 The morning remained squally, and the streets were miserably muddy, but
 no rain fell as they walked towards the Iron Bridge. The little creature
 seemed so young in his eyes, that there were moments when he found
-himself thinking of her, if not speaking to her, as if she were a child.
+himself thinking of her, if not speaking to her, as if she were a [[Child|child]].
 Perhaps he seemed as old in her eyes as she seemed young in his.
 
-‘I am sorry to hear you were so inconvenienced last night, sir, as to be
+‘I am sorry to hear you were so inconvenienced last [[Night|night]], sir, as to be
 locked in. It was very unfortunate.’
 
 It was nothing, he returned. He had had a very good bed.
 
 ‘Oh yes!’ she said quickly; ‘she believed there were excellent beds at
-the coffee-house.’ He noticed that the coffee-house was quite a majestic
+the coffee-[[house]].’ He noticed that the coffee-[[house]] was quite a majestic
 hotel to her, and that she treasured its reputation.
 
 ‘I believe it is very expensive,’ said Little Dorrit, ‘but my father has
@@ -286,12 +286,12 @@ added timidly.
 
 ‘Were you ever there?’
 
-‘Oh no! Only into the kitchen to fetch hot water.’
+‘Oh no! Only into the kitchen to fetch hot [[Water|water]].’
 
 To think of growing up with a kind of awe upon one as to the luxuries of
 that superb establishment, the Marshalsea Hotel!
 
-‘I asked you last night,’ said Clennam, ‘how you had become acquainted
+‘I asked you last [[Night|night]],’ said Clennam, ‘how you had become acquainted
 with my mother. Did you ever hear her name before she sent for you?’
 
 ‘No, sir.’
@@ -300,13 +300,13 @@ with my mother. Did you ever hear her name before she sent for you?’
 
 ‘No, sir.’
 
-He met her eyes raised to his with so much wonder in them (she was
+He met her eyes raised to his with so much [[Wonder|wonder]] in them (she was
 scared when the encounter took place, and shrunk away again), that he
 felt it necessary to say:
 
-‘I have a reason for asking, which I cannot very well explain; but you
-must, on no account, suppose it to be of a nature to cause you the least
-alarm or anxiety. Quite the reverse. And you think that at no time of
+‘I have a reason for asking, which I cannot very [[Well|well]] explain; but you
+must, on no account, suppose it to be of a [[Nature|nature]] to cause you the least
+alarm or anxiety. Quite the reverse. And you think that at no [[Time|time]] of
 your father’s life was my name of Clennam ever familiar to him?’
 
 ‘No, sir.’
@@ -316,16 +316,16 @@ him with those parted lips; therefore he looked before him, rather than
 make her heart beat quicker still by embarrassing her afresh.
 
 Thus they emerged upon the Iron Bridge, which was as quiet after the
-roaring streets as though it had been open country. The wind blew
+roaring streets as though it had been open country. The [[Wind|wind]] blew
 roughly, the wet squalls came rattling past them, skimming the pools on
-the road and pavement, and raining them down into the river. The clouds
+the [[Road|road]] and pavement, and raining them down into the [[River|river]]. The clouds
 raced on furiously in the lead-coloured sky, the smoke and mist raced
 after them, the dark tide ran fierce and strong in the same direction.
 Little Dorrit seemed the least, the quietest, and weakest of Heaven’s
 creatures.
 
 ‘Let me put you in a coach,’ said Clennam, very nearly adding ‘my poor
-child.’
+[[Child|child]].’
 
 She hurriedly declined, saying that wet or dry made little difference to
 her; she was used to go about in all weathers. He knew it to be so, and
@@ -333,15 +333,15 @@ was touched with more pity; thinking of the slight figure at his side,
 making its nightly way through the damp dark boisterous streets to such
 a place of rest.
 
-‘You spoke so feelingly to me last night, sir, and I found afterwards
+‘You spoke so feelingly to me last [[Night|night]], sir, and I found afterwards
 that you had been so generous to my father, that I could not resist your
 message, if it was only to thank you; especially as I wished very much
-to say to you--’ she hesitated and trembled, and tears rose in her eyes,
+to say to you--’ she hesitated and trembled, and [[Tears|tears]] [[Rose|rose]] in her eyes,
 but did not fall.
 
 ‘To say to me--?’
 
-‘That I hope you will not misunderstand my father. Don’t judge him, sir,
+‘That I [[Hope|hope]] you will not misunderstand my father. Don’t judge him, sir,
 as you would judge others outside the gates. He has been there so long!
 I never saw him outside, but I can understand that he must have grown
 different in some things since.’
@@ -357,21 +357,21 @@ true. It all happened just as he related it. He is very much respected.
 Everybody who comes in, is glad to know him. He is more courted than
 anyone else. He is far more thought of than the Marshal is.’
 
-If ever pride were innocent, it was innocent in Little Dorrit when she
+If ever [[Pride|pride]] were [[Innocent|innocent]], it was [[Innocent|innocent]] in Little Dorrit when she
 grew boastful of her father.
 
 ‘It is often said that his manners are a true gentleman’s, and quite
 a study. I see none like them in that place, but he is admitted to
 be superior to all the rest. This is quite as much why they make him
 presents, as because they know him to be needy. He is not to be blamed
-for being in need, poor love. Who could be in prison a quarter of a
+for being in need, poor [[Love|love]]. Who could be in [[Prison|prison]] a quarter of a
 century, and be prosperous!’
 
-What affection in her words, what compassion in her repressed tears,
-what a great soul of fidelity within her, how true the light that shed
+What affection in her words, what compassion in her repressed [[Tears|tears]],
+what a great [[Soul|soul]] of fidelity within her, how true the light that shed
 false brightness round him!
 
-‘If I have found it best to conceal where my home is, it is not because
+‘If I have found it best to conceal where my [[Home|home]] is, it is not because
 I am ashamed of him. God forbid! Nor am I so much ashamed of the place
 itself as might be supposed. People are not bad because they come there.
 I have known numbers of good, persevering, honest people come there
@@ -386,14 +386,14 @@ attachment for it, after all this.’
 She had relieved the faithful fulness of her heart, and modestly said,
 raising her eyes appealingly to her new friend’s, ‘I did not mean to say
 so much, nor have I ever but once spoken about this before. But it seems
-to set it more right than it was last night. I said I wished you had
+to set it more right than it was last [[Night|night]]. I said I wished you had
 not followed me, sir. I don’t wish it so much now, unless you should
 think--indeed I don’t wish it at all, unless I should have spoken so
 confusedly, that--that you can scarcely understand me, which I am afraid
 may be the case.’
 
-He told her with perfect truth that it was not the case; and putting
-himself between her and the sharp wind and rain, sheltered her as well
+He told her with perfect [[Truth|truth]] that it was not the case; and putting
+himself between her and the sharp [[Wind|wind]] and rain, sheltered her as [[Well|well]]
 as he could.
 
 ‘I feel permitted now,’ he said, ‘to ask you a little more concerning
@@ -405,40 +405,40 @@ your father. Has he many creditors?’
 
 ‘Oh yes! a great number.’
 
-‘Can you tell me--I can get the information, no doubt, elsewhere, if you
+‘Can you tell me--I can get the information, no [[Doubt|doubt]], elsewhere, if you
 cannot--who is the most influential of them?’
 
 Little Dorrit said, after considering a little, that she used to
 hear long ago of Mr Tite Barnacle as a man of great power. He was a
 commissioner, or a board, or a trustee, ‘or something.’ He lived
 in Grosvenor Square, she thought, or very near it. He was under
-Government--high in the Circumlocution Office. She appeared to have
+[[government|Government]]--high in the Circumlocution Office. She appeared to have
 acquired, in her infancy, some awful impression of the might of this
 formidable Mr Tite Barnacle of Grosvenor Square, or very near it, and
 the Circumlocution Office, which quite crushed her when she mentioned
 him.
 
-‘It can do no harm,’ thought Arthur, ‘if I see this Mr Tite Barnacle.’
+‘It can do no harm,’ thought [[arthur|Arthur]], ‘if I see this Mr Tite Barnacle.’
 
 The thought did not present itself so quietly but that her quickness
 intercepted it. ‘Ah!’ said Little Dorrit, shaking her head with the mild
-despair of a lifetime. ‘Many people used to think once of getting my
+[[Despair|despair]] of a lifetime. ‘Many people used to think once of getting my
 poor father out, but you don’t know how hopeless it is.’
 
 She forgot to be shy at the moment, in honestly warning him away from
-the sunken wreck he had a dream of raising; and looked at him with
+the sunken wreck he had [[A Dream|a dream]] of raising; and looked at him with
 eyes which assuredly, in association with her patient face, her fragile
-figure, her spare dress, and the wind and rain, did not turn him from
+figure, her spare dress, and the [[Wind|wind]] and rain, did not turn him from
 his purpose of helping her.
 
 ‘Even if it could be done,’ said she--‘and it never can be done
 now--where could father live, or how could he live? I have often thought
 that if such a change could come, it might be anything but a service to
-him now. People might not think so well of him outside as they do there.
+him now. People might not think so [[Well|well]] of him outside as they do there.
 He might not be so gently dealt with outside as he is there. He might
 not be so fit himself for the life outside as he is for that.’
 
-Here for the first time she could not restrain her tears from falling;
+Here for the first [[Time|time]] she could not restrain her [[Tears|tears]] from falling;
 and the little thin hands he had watched when they were so busy,
 trembled as they clasped each other.
 
@@ -448,9 +448,9 @@ you see, feeling helplessly shut up there. Such a good, good father!’
 
 He let the little burst of feeling go by before he spoke. It was soon
 gone. She was not accustomed to think of herself, or to trouble any one
-with her emotions. He had but glanced away at the piles of city roofs
-and chimneys among which the smoke was rolling heavily, and at the
-wilderness of masts on the river, and the wilderness of steeples on
+with her emotions. He had but glanced away at the piles of [[City|city]] roofs
+and chimneys among which the smoke was [[rolling]] heavily, and at the
+wilderness of masts on the [[River|river]], and the wilderness of steeples on
 the shore, indistinctly mixed together in the stormy haze, when she
 was again as quiet as if she had been plying her needle in his mother’s
 room.
@@ -459,17 +459,17 @@ room.
 
 ‘Oh very, very glad, sir!’
 
-‘Well, we will hope for him at least. You told me last night of a friend
+‘[[Well]], we will [[Hope|hope]] for him at least. You told me last [[Night|night]] of a friend
 you had?’
 
 His name was Plornish, Little Dorrit said.
 
 And where did Plornish live? Plornish lived in Bleeding Heart Yard. He
 was ‘only a plasterer,’ Little Dorrit said, as a caution to him not to
-form high social expectations of Plornish. He lived at the last house in
+form high social expectations of Plornish. He lived at the last [[house]] in
 Bleeding Heart Yard, and his name was over a little gateway.
 
-Arthur took down the address and gave her his. He had now done all he
+[[arthur|Arthur]] took down the address and gave her his. He had now done all he
 sought to do for the present, except that he wished to leave her with a
 reliance upon him, and to have something like a promise from her that
 she would cherish it.
@@ -477,9 +477,9 @@ she would cherish it.
 ‘There is one friend!’ he said, putting up his pocketbook. ‘As I take
 you back--you are going back?’
 
-‘Oh yes! going straight home.’
+‘Oh yes! going straight [[Home|home]].’
 
-‘--As I take you back,’ the word home jarred upon him, ‘let me ask you to
+‘--As I take you back,’ the word [[Home|home]] jarred upon him, ‘let me ask you to
 persuade yourself that you have another friend. I make no professions,
 and say no more.’
 
@@ -496,19 +496,19 @@ beginning of the destined interweaving of their stories, matters not
 here. He thought of her having been born and bred among these scenes,
 and shrinking through them now, familiar yet misplaced; he thought
 of her long acquaintance with the squalid needs of life, and of her
-innocence; of her solicitude for others, and her few years, and her
+[[innocence]]; of her solicitude for others, and her few years, and her
 childish aspect.
 
-They were come into the High Street, where the prison stood, when a
+They were come into the High Street, where the [[Prison|prison]] stood, when a
 voice cried, ‘Little mother, little mother!’ Little Dorrit stopping and
 looking back, an excited figure of a strange kind bounced against them
 (still crying ‘little mother’), fell down, and scattered the contents of
 a large basket, filled with potatoes, in the mud.
 
-‘Oh, Maggy,’ said Little Dorrit, ‘what a clumsy child you are!’
+‘Oh, Maggy,’ said Little Dorrit, ‘what a clumsy [[Child|child]] you are!’
 
 Maggy was not hurt, but picked herself up immediately, and then began
-to pick up the potatoes, in which both Little Dorrit and Arthur Clennam
+to pick up the potatoes, in which both Little Dorrit and [[Arthur Clennam]]
 helped. Maggy picked up very few potatoes and a great quantity of mud;
 but they were all recovered, and deposited in the basket. Maggy then
 smeared her muddy face with her shawl, and presenting it to Mr Clennam
@@ -526,12 +526,12 @@ by being constantly there. A great white cap, with a quantity of
 opaque frilling that was always flapping about, apologised for Maggy’s
 baldness, and made it so very difficult for her old black bonnet to
 retain its place upon her head, that it held on round her neck like a
-gipsy’s baby. A commission of haberdashers could alone have reported
+gipsy’s baby. A commission of haberdashers could [[Alone|alone]] have reported
 what the rest of her poor dress was made of, but it had a strong general
 resemblance to seaweed, with here and there a gigantic tea-leaf. Her
 shawl looked particularly like a tea-leaf after long infusion.
 
-Arthur Clennam looked at Little Dorrit with the expression of one
+[[Arthur Clennam]] looked at Little Dorrit with the expression of one
 saying, ‘May I ask who this is?’ Little Dorrit, whose hand this Maggy,
 still calling her little mother, had begun to fondle, answered in words
 (they were under a gateway into which the majority of the potatoes had
@@ -545,7 +545,7 @@ rolled).
 
 ‘Grand-daughter,’ echoed Maggy.
 
-‘Of my old nurse, who has been dead a long time. Maggy, how old are
+‘Of my old [[Nurse|nurse]], who has been dead a long [[Time|time]]. Maggy, how old are
 you?’
 
 ‘Ten, mother,’ said Maggy.
@@ -556,25 +556,25 @@ infinite tenderness.
 ‘Good _she_ is,’ echoed Maggy, transferring the pronoun in a most
 expressive way from herself to her little mother.
 
-‘Or how clever,’ said Little Dorrit. ‘She goes on errands as well as
+‘Or how clever,’ said Little Dorrit. ‘She goes on errands as [[Well|well]] as
 any one.’ Maggy laughed. ‘And is as trustworthy as the Bank of England.’
 Maggy laughed. ‘She earns her own living entirely. Entirely, sir!’ said
 Little Dorrit, in a lower and triumphant tone. ‘Really does!’
 
-‘What is her history?’ asked Clennam.
+‘What is her [[history]]?’ asked Clennam.
 
 ‘Think of that, Maggy?’ said Little Dorrit, taking her two large hands
 and clapping them together. ‘A gentleman from thousands of miles away,
-wanting to know your history!’
+wanting to know your [[history]]!’
 
-‘_My_ history?’ cried Maggy. ‘Little mother.’
+‘_My_ [[history]]?’ cried Maggy. ‘Little mother.’
 
 ‘She means me,’ said Little Dorrit, rather confused; ‘she is very much
 attached to me. Her old grandmother was not so kind to her as she should
 have been; was she, Maggy?’
 
 Maggy shook her head, made a drinking vessel of her clenched left hand,
-drank out of it, and said, ‘Gin.’ Then beat an imaginary child, and said,
+drank out of it, and said, ‘Gin.’ Then beat an imaginary [[Child|child]], and said,
 ‘Broom-handles and pokers.’
 
 ‘When Maggy was ten years old,’ said Little Dorrit, watching her face
@@ -586,7 +586,7 @@ hospital! So comfortable, wasn’t it? Oh so nice it was. Such a Ev’nly
 place!’
 
 ‘She had never been at peace before, sir,’ said Little Dorrit, turning
-towards Arthur for an instant and speaking low, ‘and she always runs off
+towards [[arthur|Arthur]] for an instant and speaking low, ‘and she always runs off
 upon that.’
 
 ‘Such beds there is there!’ cried Maggy. ‘Such lemonades! Such oranges!
@@ -594,7 +594,7 @@ Such d’licious broth and wine! Such Chicking! Oh, AIN’T it a delightful
 place to go and stop at!’
 
 ‘So Maggy stopped there as long as she could,’ said Little Dorrit,
-in her former tone of telling a child’s story; the tone designed for
+in her former tone of telling a [[Child|child]]’s story; the tone designed for
 Maggy’s ear, ‘and at last, when she could stop there no longer, she came
 out. Then, because she was never to be more than ten years old, however
 long she lived--’
@@ -604,44 +604,44 @@ long she lived--’
 ‘--And because she was very weak; indeed was so weak that when she began
 to laugh she couldn’t stop herself--which was a great pity--’
 
-(Maggy mighty grave of a sudden.)
+(Maggy mighty [[Grave|grave]] of a sudden.)
 
 ‘--Her grandmother did not know what to do with her, and for some years
-was very unkind to her indeed. At length, in course of time, Maggy began
+was very unkind to her indeed. At length, in course of [[Time|time]], Maggy began
 to take pains to improve herself, and to be very attentive and very
 industrious; and by degrees was allowed to come in and out as often as
 she liked, and got enough to do to support herself, and does support
 herself. And that,’ said Little Dorrit, clapping the two great hands
-together again, ‘is Maggy’s history, as Maggy knows!’
+together again, ‘is Maggy’s [[history]], as Maggy knows!’
 
-Ah! But Arthur would have known what was wanting to its completeness,
+Ah! But [[arthur|Arthur]] would have known what was wanting to its completeness,
 though he had never heard of the words Little mother; though he had
 never seen the fondling of the small spare hand; though he had had no
-sight for the tears now standing in the colourless eyes; though he had
+sight for the [[Tears|tears]] now standing in the colourless eyes; though he had
 had no hearing for the sob that checked the clumsy laugh. The dirty
-gateway with the wind and rain whistling through it, and the basket of
+gateway with the [[Wind|wind]] and rain whistling through it, and the basket of
 muddy potatoes waiting to be spilt again or taken up, never seemed the
 common hole it really was, when he looked back to it by these lights.
 Never, never!
 
 They were very near the end of their walk, and they now came out of the
 gateway to finish it. Nothing would serve Maggy but that they must stop
-at a grocer’s window, short of their destination, for her to show her
+at a [[grocer]]’s [[Window|window]], short of their destination, for her to show her
 learning. She could read after a sort; and picked out the fat figures in
 the tickets of prices, for the most part correctly. She also stumbled,
-with a large balance of success against her failures, through various
+with a large balance of [[success]] against her failures, through various
 philanthropic recommendations to Try our Mixture, Try our Family Black,
 Try our Orange-flavoured Pekoe, challenging competition at the head
 of Flowery Teas; and various cautions to the public against spurious
 establishments and adulterated articles. When he saw how pleasure
 brought a rosy tint into Little Dorrit’s face when Maggy made a hit,
-he felt that he could have stood there making a library of the grocer’s
-window until the rain and wind were tired.
+he felt that he could have stood there making a library of the [[grocer]]’s
+[[Window|window]] until the rain and [[Wind|wind]] were tired.
 
-The court-yard received them at last, and there he said goodbye to
+The [[Court|court]]-yard received them at last, and there he said goodbye to
 Little Dorrit. Little as she had always looked, she looked less than
 ever when he saw her going into the Marshalsea lodge passage, the little
-mother attended by her big child.
+mother attended by her big [[Child|child]].
 
 The cage door opened, and when the small bird, reared in captivity, had
 tamely fluttered in, he saw it shut again; and then he came away.

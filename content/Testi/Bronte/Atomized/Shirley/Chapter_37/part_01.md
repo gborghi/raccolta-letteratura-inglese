@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 37 (part 1)"
+title: "[[Shirley]] — Chapter 37 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -48,7 +48,7 @@ Impossible to trust ourselves with the touching tale of your deeds and
 
 destinies. Are you not aware, Peter, that a discriminating public has
 
-its crotchets; that the unvarnished truth does not answer; that plain
+its crotchets; that the unvarnished [[Truth|truth]] does not answer; that plain
 
 facts will not digest? Do you not know that the squeak of the real pig
 
@@ -60,13 +60,13 @@ shrieking hysterics, and there would be a wild cry for sal-volatile and
 
 burnt feathers. "Impossible!" would be pronounced here; "untrue!" would
 
-be responded there; "inartistic!" would be solemnly decided. Note well.
+be responded there; "inartistic!" would be solemnly decided. Note [[Well|well]].
 
-Whenever you present the actual, simple truth, it is, somehow, always
+Whenever you present the actual, simple [[Truth|truth]], it is, somehow, always
 
 denounced as a lie--they disown it, cast it off, throw it on the parish;
 
-whereas the product of your own imagination, the mere figment, the sheer
+whereas the product of your own [[Imagination|imagination]], the mere figment, the sheer
 
 fiction, is adopted, petted, termed pretty, proper, sweetly natural--the
 
@@ -144,7 +144,7 @@ quite unique. He begged of high and low--of the shoeless cottage brat
 
 and the coroneted duke. He sent out begging-letters far and wide--to old
 
-Queen Charlotte, to the princesses her daughters, to her sons the royal
+[[Queen]] Charlotte, to the princesses her daughters, to her sons the royal
 
 dukes, to the Prince Regent, to Lord Castlereagh, to every member of the
 
@@ -152,7 +152,7 @@ ministry then in office; and, what is more remarkable, he screwed
 
 something out of every one of these personages. It is on record that he
 
-got five pounds from the close-fisted old lady Queen Charlotte, and two
+got five pounds from the close-fisted old lady [[Queen]] Charlotte, and two
 
 guineas from the royal profligate her eldest son. When Mr. Donne set out
 
@@ -174,7 +174,7 @@ Perhaps I ought to remark that on the premature and sudden vanishing of
 
 Mr. Malone from the stage of Briarfield parish (you cannot know how it
 
-happened, reader; your curiosity must be robbed to pay your elegant love
+happened, reader; your curiosity must be robbed to pay your elegant [[Love|love]]
 
 of the pretty and pleasing), there came as his successor another Irish
 
@@ -188,7 +188,7 @@ conscientious as Peter was rampant, boisterous, and---- This last
 
 epithet I choose to suppress, because it would let the cat out of the
 
-bag. He laboured faithfully in the parish. The schools, both Sunday and
+bag. He laboured faithfully in the parish. The schools, both [[Sunday]] and
 
 day schools, flourished under his sway like green bay trees. Being
 
@@ -210,12 +210,12 @@ rational, diligent and charitable.
 
 
 
-I doubt not a justice-loving public will have remarked, ere this, that I
+I [[Doubt|doubt]] not a justice-loving public will have remarked, ere this, that I
 
 have thus far shown a criminal remissness in pursuing, catching, and
 
 bringing to condign punishment the would-be assassin of Mr. Robert
 
-Moore. Here was a fine opening to lead my willing readers a dance, at
+Moore. Here was a fine opening to lead my willing readers a [[Dance|dance]], at
 
-once decorous and exciting--a dance of law and gospel, of the dungeon,
+once decorous and exciting--a [[Dance|dance]] of law and gospel, of the dungeon,

@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 20 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 20 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -22,7 +22,7 @@ against the election; and so many people came to dine with us that I
 
 never saw before, it is quite charming! But, poor fellow! it is very
 
-fatiguing to him! for he is forced to make every body like him.”
+fatiguing to him! for he is forced to make every [[Body|body]] like him.”
 
 
 
@@ -78,7 +78,7 @@ by asking her whether she did not like Mr. Palmer excessively.
 
 
 
-“Well—I am so glad you do. I thought you would, he is so pleasant; and
+“[[Well]]—I am so glad you do. I thought you would, he is so pleasant; and
 
 Mr. Palmer is excessively pleased with you and your sisters I can tell
 
@@ -100,7 +100,7 @@ be gathered from the Middletons’ partial acquaintance with him; and she
 
 was eager to gain from any one, such a confirmation of his merits as
 
-might remove the possibility of fear from Marianne. She began by
+might remove the possibility of [[Fear|fear]] from Marianne. She began by
 
 inquiring if they saw much of Mr. Willoughby at Cleveland, and whether
 
@@ -108,7 +108,7 @@ they were intimately acquainted with him.
 
 
 
-“Oh dear, yes; I know him extremely well,” replied Mrs. Palmer;—“Not
+“Oh dear, yes; I know him extremely [[Well|well]],” replied Mrs. Palmer;—“Not
 
 that I ever spoke to him, indeed; but I have seen him for ever in town.
 
@@ -126,7 +126,7 @@ believe; but if he were ever so much there, I do not think Mr. Palmer
 
 would visit him, for he is in the opposition, you know, and besides it
 
-is such a way off. I know why you inquire about him, very well; your
+is such a way off. I know why you inquire about him, very [[Well|well]]; your
 
 sister is to marry him. I am monstrous glad of it, for then I shall
 
@@ -140,7 +140,7 @@ I do, if you have any reason to expect such a match.”
 
 
 
-“Don’t pretend to deny it, because you know it is what every body talks
+“Don’t pretend to deny it, because you know it is what every [[Body|body]] talks
 
 of. I assure you I heard of it in my way through town.”
 
@@ -150,19 +150,19 @@ of. I assure you I heard of it in my way through town.”
 
 
 
-“Upon my honour I did.—I met Colonel Brandon Monday morning in
+“Upon my [[Honour|honour]] I did.—I met [[Colonel Brandon]] Monday morning in
 
 Bond-street, just before we left town, and he told me of it directly.”
 
 
 
-“You surprise me very much. Colonel Brandon tell you of it! Surely you
+“You surprise me very much. [[Colonel Brandon]] tell you of it! Surely you
 
 must be mistaken. To give such intelligence to a person who could not
 
 be interested in it, even if it were true, is not what I should expect
 
-Colonel Brandon to do.”
+[[Colonel Brandon]] to do.”
 
 
 
@@ -196,11 +196,11 @@ I declare! When is it to take place?”
 
 
 
-“Mr. Brandon was very well I hope?”
+“Mr. Brandon was very [[Well|well]] I [[Hope|hope]]?”
 
 
 
-“Oh! yes, quite well; and so full of your praises, he did nothing but
+“Oh! yes, quite [[Well|well]]; and so full of your praises, he did nothing but
 
 say fine things of you.”
 
@@ -214,11 +214,11 @@ think him uncommonly pleasing.”
 
 “So do I. He is such a charming man, that it is quite a pity he should
 
-be so grave and so dull. Mama says _he_ was in love with your sister
+be so [[Grave|grave]] and so dull. Mama says _he_ was in [[Love|love]] with your sister
 
 too. I assure you it was a great compliment if he was, for he hardly
 
-ever falls in love with any body.”
+ever falls in [[Love|love]] with any [[Body|body]].”
 
 
 
@@ -228,7 +228,7 @@ Elinor.
 
 
 
-“Oh! yes, extremely well; that is, I do not believe many people are
+“Oh! yes, extremely [[Well|well]]; that is, I do not believe many people are
 
 acquainted with him, because Combe Magna is so far off; but they all
 
@@ -236,7 +236,7 @@ think him extremely agreeable I assure you. Nobody is more liked than
 
 Mr. Willoughby wherever he goes, and so you may tell your sister. She
 
-is a monstrous lucky girl to get him, upon my honour; not but that he
+is a monstrous lucky girl to get him, upon my [[Honour|honour]]; not but that he
 
 is much more lucky in getting her, because she is so very handsome and
 
@@ -246,7 +246,7 @@ think her hardly at all handsomer than you, I assure you; for I think
 
 you both excessively pretty, and so does Mr. Palmer too I am sure,
 
-though we could not get him to own it last night.”
+though we could not get him to own it last [[Night|night]].”
 
 
 
@@ -258,19 +258,19 @@ but any testimony in his favour, however small, was pleasing to her.
 
 “I am so glad we are got acquainted at last,” continued Charlotte.—“And
 
-now I hope we shall always be great friends. You can’t think how much I
+now I [[Hope|hope]] we shall always be great friends. You can’t think how much I
 
 longed to see you! It is so delightful that you should live at the
 
 cottage! Nothing can be like it, to be sure! And I am so glad your
 
-sister is going to be well married! I hope you will be a great deal at
+sister is going to be [[Well|well]] married! I [[Hope|hope]] you will be a great deal at
 
 Combe Magna. It is a sweet place, by all accounts.”
 
 
 
-“You have been long acquainted with Colonel Brandon, have not you?”
+“You have been long acquainted with [[Colonel Brandon]], have not you?”
 
 
 
@@ -288,7 +288,7 @@ Colonel, and we should have been married immediately.”
 
 
 
-“Did not Colonel Brandon know of Sir John’s proposal to your mother
+“Did not [[Colonel Brandon]] know of Sir John’s proposal to your mother
 
 before it was made? Had he never owned his affection to yourself?”
 

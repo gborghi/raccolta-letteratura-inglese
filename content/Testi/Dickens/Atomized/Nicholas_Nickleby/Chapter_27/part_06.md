@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 27 (part 6)"
+title: "[[Nicholas Nickleby]] — Chapter 27 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -22,13 +22,13 @@ safely off, turned their thoughts to Mrs. Wititterly, whose attention
 also they had now effectually distracted from the young lady, by
 throwing her into a state of the utmost bewilderment and consternation.
 At length, the conveyance in which she had come rolled off too with its
-load, and the four worthies, being left alone under the portico, enjoyed
+load, and the four worthies, being left [[Alone|alone]] under the portico, enjoyed
 a hearty laugh together.
 
 ‘There,’ said Sir Mulberry, turning to his noble friend. ‘Didn’t I tell
-you last night that if we could find where they were going by bribing a
+you last [[Night|night]] that if we could find where they were going by bribing a
 servant through my fellow, and then established ourselves close by with
-the mother, these people’s honour would be our own? Why here it is, done
+the mother, these people’s [[Honour|honour]] would be our own? Why here it is, done
 in four-and-twenty hours.’
 
 ‘Ye--es,’ replied the dupe. ‘But I have been tied to the old woman all
@@ -41,15 +41,15 @@ him in his plots and schemes again? Isn’t it an infernal shame?’
 Pyke asked Pluck whether it was not an infernal shame, and Pluck asked
 Pyke; but neither answered.
 
-‘Isn’t it the truth?’ demanded Verisopht. ‘Wasn’t it so?’
+‘Isn’t it the [[Truth|truth]]?’ demanded Verisopht. ‘Wasn’t it so?’
 
 ‘Wasn’t it so!’ repeated Sir Mulberry. ‘How would you have had it? How
 could we have got a general invitation at first sight--come when you
 like, go when you like, stop as long as you like, do what you like--if
 you, the lord, had not made yourself agreeable to the foolish mistress
-of the house? Do I care for this girl, except as your friend? Haven’t I
+of the [[house]]? Do I care for this girl, except as your friend? Haven’t I
 been sounding your praises in her ears, and bearing her pretty sulks and
-peevishness all night for you? What sort of stuff do you think I’m made
+peevishness all [[Night|night]] for you? What sort of stuff do you think I’m made
 of? Would I do this for every man? Don’t I deserve even gratitude in
 return?’
 
@@ -64,9 +64,9 @@ friend’s arm. ‘Upon my life you’re a deyvlish good fellow, Hawk.’
 
 ‘Ye--es, ye--es; like a friend,’ replied the other.
 
-‘Well then,’ replied Sir Mulberry, ‘I’m satisfied. And now let’s go and
-have our revenge on the German baron and the Frenchman, who cleaned you
-out so handsomely last night.’
+‘[[Well]] then,’ replied Sir Mulberry, ‘I’m satisfied. And now let’s go and
+have our [[Revenge|revenge]] on the German baron and the Frenchman, who cleaned you
+out so handsomely last [[Night|night]].’
 
 With these words the friendly creature took his companion’s arm and led
 him away, turning half round as he did so, and bestowing a wink and

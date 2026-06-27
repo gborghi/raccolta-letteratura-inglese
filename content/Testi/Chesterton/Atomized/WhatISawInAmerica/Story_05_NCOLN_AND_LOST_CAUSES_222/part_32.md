@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 32)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 32)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -26,23 +26,23 @@ very particular in American. There is a fine shade of distinction
 
 between succeeding and making good, precisely because there must always
 
-be a sort of ethical echo in the word good. America does vaguely feel a
+be a sort of ethical echo in the word good. [[America]] does vaguely feel a
 
 man making good as something analogous to a man being good or a man
 
-doing good. It is connected with his serious self-respect and his sense
+doing good. It is connected with his serious [[Self|self]]-respect and his sense
 
 of being worthy of those he loves. Nor is this curious crude idealism
 
 wholly insincere even when it drives him to what some of us would call
 
-stealing; any more than the duellist's honour was insincere when it
+stealing; any more than the duellist's [[Honour|honour]] was insincere when it
 
 drove him to what some would call murder. A very clever American play
 
 which I once saw acted contained a complete working model of this
 
-morality. A girl was loyal to, but distressed by, her engagement to a
+[[morality]]. A girl was loyal to, but distressed by, her engagement to a
 
 young man on whom there was a sort of cloud of humiliation. The
 
@@ -102,7 +102,7 @@ the mire of everything bad, that he would make good by bluffing, lying,
 
 swindling, and grinding the faces of the poor, did not seem to trouble
 
-them in the least. Against this fanaticism there is this shadow of truth
+them in the least. Against this [[Fanaticism|fanaticism]] there is this [[Shadow|shadow]] of [[Truth|truth]]
 
 even in the fiction of aristocracy; that a gentleman may at least be
 
@@ -114,13 +114,13 @@ Another objection to the phrase about the almighty dollar is that it is
 
 an almighty phrase, and therefore an almighty nuisance. I mean that it
 
-is made to explain everything, and to explain everything much too well;
+is made to explain everything, and to explain everything much too [[Well|well]];
 
 that is, much too easily. It does not really help people to understand a
 
 foreign country; but it gives them the fatal illusion that they do
 
-understand it. Dollars stood for America as frogs stood for France;
+understand it. Dollars stood for [[America]] as frogs stood for France;
 
 because it was necessary to connect particular foreigners with
 
@@ -130,7 +130,7 @@ or a Russian with a Red Indian. The only cure for this sort of satisfied
 
 familiarity is the shock of something really unfamiliar. When people can
 
-see nothing at all in American democracy except a Yankee running after a
+see nothing at all in American [[democracy]] except a Yankee running after a
 
 dollar, then the only thing to do is to trip them up as they run after
 
@@ -164,7 +164,7 @@ For instance, Americans are very unpunctual. That is the last thing that
 
 a critic expects who comes to condemn them for hustling and haggling and
 
-vulgar ambition. But it is almost the first fact that strikes the
+vulgar [[Ambition|ambition]]. But it is almost the first fact that strikes the
 
 spectator on the spot. The chief difference between the humdrum English
 
@@ -182,7 +182,7 @@ understand a crowd of commercial Americans not coming to my lectures at
 
 all; but there was something odd about their coming in a crowd, and the
 
-crowd being expected to turn up some time after the appointed hour. The
+crowd being expected to turn up some [[Time|time]] after the appointed hour. The
 
 managers of these lectures (I continue to call them lectures out of
 

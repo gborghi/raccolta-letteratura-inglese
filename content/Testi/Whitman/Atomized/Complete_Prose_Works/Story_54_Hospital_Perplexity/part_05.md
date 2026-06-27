@@ -28,26 +28,26 @@ are, however, serious deficiencies, wastes, sad want of system, in the
 commissions, contributions, and in all the voluntary, and a great part
 of the governmental nursing, edibles, medicines, stores, &c. (I do not
 say surgical attendance, because the surgeons cannot do more than human
-endurance permits.) Whatever puffing accounts there may be in the papers
+[[Endurance|endurance]] permits.) Whatever puffing accounts there may be in the papers
 of the North, this is the actual fact. No thorough previous preparation,
-no system, no foresight, no genius. Always plenty of stores, no doubt,
+no system, no foresight, no genius. Always plenty of stores, no [[Doubt|doubt]],
 but never where they are needed, and never the proper application.
 Of all harrowing experiences, none is greater than that of the days
 following a heavy battle. Scores, hundreds of the noblest men on earth,
-uncomplaining, lie helpless, mangled, faint, alone, and so bleed to
-death, or die from exhaustion, either actually untouch'd at all, or
+uncomplaining, lie helpless, mangled, faint, [[Alone|alone]], and so bleed to
+[[Death|death]], or die from exhaustion, either actually untouch'd at all, or
 merely the laying of them down and leaving them, when there ought to be
 means provided to save them.
 
 
 THE BLUE EVERYWHERE
 
-This city, its suburbs, the capitol, the front of the White House, the
+This [[City|city]], its suburbs, the capitol, the front of the White [[house|House]], the
 places of amusement, the Avenue, and all the main streets, swarm with
-soldiers this winter, more than ever before. Some are out from the
+soldiers this [[Winter|winter]], more than ever before. Some are out from the
 hospitals, some from the neighboring camps, &c. One source or another,
 they pour plenteously, and make, I should say, the mark'd feature in the
-human movement and costume-appearance of our national city. Their blue
+human movement and costume-appearance of our national [[City|city]]. Their blue
 pants and overcoats are everywhere. The clump of crutches is heard up
 the stairs of the paymasters' offices, and there are characteristic
 groups around the doors of the same, often waiting long and wearily
@@ -72,14 +72,14 @@ wounds. One Delaware soldier, William H. Millis, from Bridgeville, whom
 I had been with after the battles of the Wilderness, last May, where he
 receiv'd a very bad wound in the chest, with another in the left arm,
 and whose case was serious (pneumonia had set in) all last June and
-July, I now find well enough to do light duty. For three weeks at the
-time mention'd he just hovered between life and death.
+July, I now find [[Well|well]] enough to do light duty. For three weeks at the
+[[Time|time]] mention'd he just hovered between life and [[Death|death]].
 
 
 BOYS IN THE ARMY
 
-As I walk'd home about sunset, I saw in Fourteenth street a very young
-soldier, thinly clad, standing near the house I was about to enter. I
+As I walk'd [[Home|home]] about sunset, I saw in Fourteenth street a very young
+soldier, thinly clad, standing near the [[house]] I was about to enter. I
 stopt a moment in front of the door and call'd him to me. I knew that an
 old Tennessee regiment, and also an Indiana regiment, were temporarily
 stopping in new barracks, near Fourteenth street. This boy I found
@@ -104,17 +104,17 @@ pick'd them, moving along, rank by rank, there did not seem to be a
 single repulsive, brutal or markedly stupid face among them.
 
 
-BURIAL OF A LADY NURSE
+BURIAL OF A LADY [[Nurse|NURSE]]
 
 Here is an incident just occurr'd in one of the hospitals. A lady named
 Miss or Mrs. Billings, who has long been a practical friend of soldiers,
-and nurse in the army, and had become attached to it in a way that no
+and [[Nurse|nurse]] in the army, and had become attached to it in a way that no
 one can realize but him or her who has had experience, was taken sick,
-early this winter, linger'd some time, and finally died in the hospital.
+early this [[Winter|winter]], linger'd some [[Time|time]], and finally died in the hospital.
 It was her request that she should be buried among the soldiers, and
 after the military method. This request was fully carried out. Her
-coffin was carried to the grave by soldiers, with the usual escort,
-buried, and a salute fired over the grave. This was at Annapolis a few
+coffin was carried to the [[Grave|grave]] by soldiers, with the usual escort,
+buried, and a salute fired over the [[Grave|grave]]. This was at Annapolis a few
 days since.
 
 

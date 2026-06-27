@@ -18,8 +18,8 @@ If our social relations and records retain their continuity,
 if men really learn to apply reason to the accumulating facts
 of so crushing a story, it would seem that sooner or later even
 its enemies will learn from their incessant and interminable
-disappointments not to look for anything so simple as its death.
-They may continue to war with it, but it will be as they war with nature;
+disappointments not to look for anything so simple as its [[Death|death]].
+They may continue to war with it, but it will be as they war with [[Nature|nature]];
 as they war with the landscape, as they war with the skies.
 'Heaven and earth shall pass away, but my words shall not pass away.'
 They will watch for it to stumble; they will watch for it to err;
@@ -37,18 +37,18 @@ CONCLUSION
 THE SUMMARY OF THIS BOOK
 
 I have taken the liberty once or twice of borrowing the excellent
-phrase about an Outline of History; though this study of a special
-truth and a special error can of course claim no sort of comparison
-with the rich and many-sided encyclopedia of history, for which that name
+phrase about an Outline of [[history|History]]; though this study of a special
+[[Truth|truth]] and a special error can of course claim no sort of comparison
+with the rich and many-sided encyclopedia of [[history]], for which that name
 was chosen.  And yet there is a certain reason in the reference:
 and a sense in which the one thing touches and even cuts across
 the other.  For the story of the world as told by Mr. Wells could
 here only be criticised as an outline.  And, strangely enough,
 it seems to me that it is only wrong as an outline.
-It is admirable as an accumulation of history; it is splendid
-as a store-house or treasure of history; it is a fascinating
-disquisition on history; it is most attractive as an amplification
-of history; but it is quite false as an outline of history.
+It is admirable as an accumulation of [[history]]; it is splendid
+as a store-[[house]] or treasure of [[history]]; it is a fascinating
+disquisition on [[history]]; it is most attractive as an amplification
+of [[history]]; but it is quite false as an outline of [[history]].
 The one thing that seems to me quite wrong about it is the outline;
 the sort of outline that can really be a single line,
 like that which makes all the difference between a caricature
@@ -64,24 +64,24 @@ and what stands out as an exception.
 I do not say it as a small criticism of a great writer, and I have no
 reason to do so; for in my own much smaller task I feel I have failed
 in very much the same way.  I am very doubtful whether I have conveyed
-to the reader the main point I meant about the proportions of history,
+to the reader the main point I meant about the proportions of [[history]],
 and why I have dwelt so much more on some things than others.
-I doubt whether I have clearly fulfilled the plan that I set out
+I [[Doubt|doubt]] whether I have clearly fulfilled the plan that I set out
 in the introductory chapter; and for that reason I add these lines
 as a sort of summary in a concluding chapter.  I do believe that
 the things on which I have insisted are more essential to an outline
-of history than the things which I have subordinated or dismissed.
+of [[history]] than the things which I have subordinated or dismissed.
 I do not believe that the past is most truly pictured as a thing
-in which humanity merely fades away into nature, or civilisation merely
+in which humanity merely fades away into [[Nature|nature]], or civilisation merely
 fades away into barbarism, or religion fades away into mythology,
 or our own religion fades away into the religions of the world.
 In short I do not believe that the best way to produce an outline
-of history is to rub out the lines.  I believe that, of the two,
-it would be far nearer the truth to tell the tale very simply,
-like a primitive myth about a man who made the sun and stars
-or a god who entered the body of a sacred monkey.  I will therefore
+of [[history]] is to rub out the lines.  I believe that, of the two,
+it would be far nearer the [[Truth|truth]] to tell the tale very simply,
+like a primitive myth about a man who made the sun and [[Stars|stars]]
+or a god who entered the [[Body|body]] of a sacred monkey.  I will therefore
 sum up all that has gone before in what seems to me a realistic
-and reasonably proportioned statement; the short story of mankind.
+and reasonably proportioned statement; the [[Short Story|short story]] of mankind.
 
 In the land lit by that neighbouring star, whose blaze is the broad
 daylight, there are many and very various things motionless and moving.
@@ -92,15 +92,15 @@ individual illusion, like one bird pluming itself on its own plumes;
 it is a solid and a many-sided thing.  It is demonstrated
 in the very speculations that have led to its being denied.
 That men, the gods of this lower world, are linked with it in
-various ways is true; but it is another aspect of the same truth.
+various ways is true; but it is another aspect of the same [[Truth|truth]].
 That they grow as the grass grows and walk as the beasts walk
 is a secondary necessity that sharpens the primary distinction.
 It is like saying that a magician must after all have the appearance
-of a man; or that even the fairies could not dance without feet.
+of a man; or that even the fairies could not [[Dance|dance]] without feet.
 It has lately been the fashion to focus the mind entirely on these mild
 and subordinate resemblances and to forget the main fact altogether.
 It is customary to insist that man resembles the other creatures.
-Yes; and that very resemblance he alone can see.  The fish does not
+Yes; and that very resemblance he [[Alone|alone]] can see.  The fish does not
 trace the fish-bone pattern in the fowls of the air; or the elephant
 and the emu compare skeletons.  Even in the sense in which man
 is at one with the universe it is an utterly lonely universality.
@@ -108,7 +108,7 @@ The very sense that he is united with all things is enough to sunder
 him from all.
 
 Looking around him by this unique light, as lonely as
-the literal flame that he alone has kindled, this demigod
+the literal flame that he [[Alone|alone]] has kindled, this demigod
 or demon of the visible world makes that world visible.
 He sees around him a world of a certain style or type.
 It seems to proceed by certain rules or at least repetitions.
@@ -125,7 +125,7 @@ This impression, whether or no it be an illusion, has so profoundly
 influenced this race of thinkers and masters of the material world,
 that the vast majority have been moved to take a certain view of
 that world.  They have concluded, rightly or wrongly, that the world
-had a plan as the tree seemed to have a plan; and an end and crown
+had a plan as the tree seemed to have a plan; and an end and [[Crown|crown]]
 like the flower.  But so long as the race of thinkers was able
 to think, it was obvious that the admission of this idea of a plan
 brought with it another thought more thrilling and even terrible.
@@ -133,7 +133,7 @@ There was someone else, some strange and unseen being, who had designed
 these things, if indeed they were designed.  There was a stranger
 who was also a friend; a mysterious benefactor who had been before them
 and built up the woods and hills for their coming, and had kindled
-the sunrise against their rising, as a servant kindles a fire.
+the sunrise against their rising, as a servant kindles a [[Fire|fire]].
 Now this idea of a mind that gives a meaning to the universe has
 received more and more confirmation within the minds of men,
 by meditations and experiences much more subtle and searching
@@ -145,16 +145,16 @@ has such a final purpose and therefore such a first cause.
 But most men in some sense separated themselves from the wisest men,
 when it came to the treatment of that idea.  There came into
 existence two ways of treating that idea, which between them made
-up most of the religious history of the world.  The majority,
+up most of the religious [[history]] of the world.  The majority,
 like the minority, had this strong sense of a second meaning
 in things; of a strange master who knew the secret of the world.
 But the majority, the mob or mass of men, naturally tended to treat it
 rather in the spirit of gossip.  The gossip, like all gossip, contained a
-great deal of truth and falsehood.  The world began to tell itself
+great deal of [[Truth|truth]] and falsehood.  The world began to tell itself
 tales about the unknown being or his sons or servants or messengers.
 Some of the tales may truly be called old wives' tales; as professing
 only to be very remote memories of the morning of the world;
-myths about the baby moon or the half-baked mountains.  Some of them
+myths about the baby [[Moon|moon]] or the half-baked [[Mountains|mountains]].  Some of them
 might more truly be called travellers' tales; as being curious but
 contemporary tales brought from certain borderlands of experience;
 such as miraculous cures or those that bring whispers of what has
@@ -164,11 +164,11 @@ more or less conscious that there really is something rather
 marvellous behind the cosmic curtain.  But in a sense it is only going
 by appearances; even if the appearances are called apparitions.
 It is a matter of appearances--and disappearances.
-At the most these gods are ghosts; that is, they are glimpses.
+At the most these gods are [[Ghosts|ghosts]]; that is, they are glimpses.
 For most of us they are rather gossip about glimpses.
 And for the rest, the whole world is full of rumours,
 most of which are almost avowedly romances.  The great majority
-of the tales about gods and ghosts and the invisible king are told,
+of the tales about gods and [[Ghosts|ghosts]] and the invisible [[King|king]] are told,
 if not for the sake of the tale, at least for the sake of the topic.
 They are evidence of the eternal interest of the theme; they are
 not evidence of anything else, and they are not meant to be.

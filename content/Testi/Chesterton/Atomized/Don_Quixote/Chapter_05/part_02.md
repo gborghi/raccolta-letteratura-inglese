@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 4 (part 2)"
+title: "[[Don Quixote]] — Chapter 4 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -30,7 +30,7 @@ and hair seeming to bristle in every direction as he looked
 about him for enlightenment, found himself that afternoon
 (after a solemn and mysteriously futile interview with the
 great capitalist) turned loose by another door into the salon of
-the aristocracy of intellect which was to complete his education.
+the aristocracy of intellect which was to complete his [[Education|education]].
 He certainly looked rather incomplete; standing in that room
 with a stoop and a scowl, which were none the less sullen
 if they were unconsciously sullen.  He was not ugly;
@@ -46,12 +46,12 @@ whose whisper was a horrible yell.
 "What we want," he said, softly pulverising something in his hollow
 palm with his clenched fist, "what we want for industrial peace
 is industrial instruction.  Never listen to the reactionaries.
-Never you believe the fellows who say popular education is a mistake.
-Of course, the masses must have education.  But above all,
-economic education.  If once we can get into the people's heads
+Never you believe the fellows who say popular [[Education|education]] is a mistake.
+Of course, the masses must have [[Education|education]].  But above all,
+economic [[Education|education]].  If once we can get into the people's heads
 some notion of the laws of political economy, we shall hear
 no more of these disputes that drive trade out of the country
-and threaten to put a pistol to the head of the public.
+and threaten to put a [[Pistol|pistol]] to the head of the public.
 Whatever our opinions may be, we all want to prevent that.
 Whatever our party may be, we don't want that.  I don't
 say it in the interests of any party; I say it's something
@@ -63,7 +63,7 @@ of effective demand, isn't that above party?"
 The large man glanced at him quickly and almost covertly.
 Then he said, "Quite--Oh, quite."
 
-There was a silence and then a few gay remarks about the weather;
+There was a [[Silence|silence]] and then a few gay remarks about the weather;
 and then Braintree found that the large man had somehow
 smoothly and inoffensively passed from him, swimming like some
 silent leviathan into other seas.  The large man's bald head
@@ -73,7 +73,7 @@ His conversation had somehow given the impression that he was not.
 The first stage of Mr. Braintree's course in culture was,
 perhaps, unfortunate.  For it left that gloomy character
 with a growing inward impression, right or wrong, to the effect
-that the partisan of Economic Education for the Masses had not
+that the partisan of Economic [[Education]] for the Masses had not
 himself the very vaguest idea of what "effective demand" means.
 
 This first fiasco, however, cannot be counted fairly;
@@ -105,7 +105,7 @@ from which he correctly deduced that Braintree was not an art expert.
 The expert therefore felt free to be even more expert than usual.
 His hollow eyes rolled reproachfully from the tie to a
 picture on the wall, by Lippi or some Italian primitive;
-for Seawood Abbey possessed fine pictures as well as fine books.
+for Seawood Abbey possessed fine pictures as [[Well|well]] as fine books.
 Some association of ideas led Wister to echo unconsciously the
 complaint of Olive Ashley and remark that the red used for the wings
 of one of the angels was something of a lost technical secret.
@@ -115,13 +115,13 @@ Braintree assented civilly, having no very special knowledge
 of pictures and no knowledge at all of Pigments.  This ignorance,
 or indifference completed the case founded on the crude necktie.
 The expert, now fully realising that he was talking to
-an utter outsider, expanded with radiant condescension.
+an utter [[Outsider|outsider]], expanded with radiant condescension.
 He delivered a sort of lecture.
 
 "Ruskin is very sound upon that point," said Mr. Almeric Wister.
 "You would be quite safe in reading Ruskin, if only as a sort
 of introduction to the subject.  With the exception of Pater,
 of course, there has been no critic since having that atmosphere
-of authority.  Democracy, of course, is not favourable to authority.
-And I very much fear, Mr. Braintree, that democracy is not
+of authority.  [[democracy|Democracy]], of course, is not favourable to authority.
+And I very much [[Fear|fear]], Mr. Braintree, that [[democracy]] is not
 favourable to art."

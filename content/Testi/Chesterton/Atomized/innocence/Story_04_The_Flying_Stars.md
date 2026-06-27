@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Flying Stars"
+title: "[[innocence]] — The Flying [[Stars]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/innocence-(Chesterton)"
@@ -14,78 +14,78 @@ tags:
 </nav>
 
 
-                         The Flying Stars
+                         The Flying [[Stars]]
 
-"The most beautiful crime I ever committed," Flambeau would say in his
+"The most beautiful crime I ever committed," [[Flambeau]] would say in his
 highly moral old age, "was also, by a singular coincidence, my last.
-It was committed at Christmas.  As an artist I had always attempted
+It was committed at Christmas.  As an [[Artist|artist]] I had always attempted
 to provide crimes suitable to the special season or landscapes in which I
-found myself, choosing this or that terrace or garden for a catastrophe,
+found myself, choosing this or that terrace or [[Garden|garden]] for a catastrophe,
 as if for a statuary group.  Thus squires should be swindled in long rooms
 panelled with oak; while Jews, on the other hand, should rather find
 themselves unexpectedly penniless among the lights and screens of the
 Cafe Riche.  Thus, in England, if I wished to relieve a dean of his riches
 (which is not so easy as you might suppose), I wished to frame him, if I make
-myself clear, in the green lawns and grey towers of some cathedral town.
+myself clear, in the green lawns and grey towers of some [[Cathedral|cathedral]] town.
 Similarly, in France, when I had got money out of a rich and wicked peasant
 (which is almost impossible), it gratified me to get his indignant head
 relieved against a grey line of clipped poplars, and those solemn plains
 of Gaul over which broods the mighty spirit of Millet.
 
-"Well, my last crime was a Christmas crime, a cheery, cosy, English
+"[[Well]], my last crime was a Christmas crime, a cheery, cosy, English
 middle-class crime; a crime of Charles Dickens.  I did it in a good old
-middle-class house near Putney, a house with a crescent of carriage drive,
-a house with a stable by the side of it, a house with the name on the two
-outer gates, a house with a monkey tree.  Enough, you know the species.
-I really think my imitation of Dickens's style was dexterous and literary.
+middle-class [[house]] near Putney, a [[house]] with a crescent of carriage drive,
+a [[house]] with a stable by the side of it, a [[house]] with the name on the two
+outer gates, a [[house]] with a monkey tree.  Enough, you know the species.
+I really think my [[Imitation|imitation]] of Dickens's style was dexterous and literary.
 It seems almost a pity I repented the same evening."
 
-Flambeau would then proceed to tell the story from the inside;
+[[Flambeau]] would then proceed to tell the story from the inside;
 and even from the inside it was odd.  Seen from the outside
 it was perfectly incomprehensible, and it is from the outside
 that the stranger must study it.  From this standpoint the drama
-may be said to have begun when the front doors of the house
-with the stable opened on the garden with the monkey tree,
-and a young girl came out with bread to feed the birds
+may be said to have begun when the front doors of the [[house]]
+with the stable opened on the [[Garden|garden]] with the monkey tree,
+and a young girl came out with bread to feed the [[Birds|birds]]
 on the afternoon of Boxing Day.  She had a pretty face,
 with brave brown eyes; but her figure was beyond conjecture,
 for she was so wrapped up in brown furs that it was hard to say
 which was hair and which was fur.  But for the attractive face
 she might have been a small toddling bear.
 
-The winter afternoon was reddening towards evening,
+The [[Winter|winter]] afternoon was reddening towards evening,
 and already a ruby light was rolled over the bloomless beds,
-filling them, as it were, with the ghosts of the dead roses.
-On one side of the house stood the stable, on the other an alley
-or cloister of laurels led to the larger garden behind.
-The young lady, having scattered bread for the birds
-(for the fourth or fifth time that day, because the dog
+filling them, as it were, with the [[Ghosts|ghosts]] of the dead roses.
+On one side of the [[house]] stood the stable, on the other an alley
+or cloister of laurels led to the larger [[Garden|garden]] behind.
+The young lady, having scattered bread for the [[Birds|birds]]
+(for the fourth or fifth [[Time|time]] that day, because the dog
 ate it), passed unobutrusively down the lane of laurels
 and into a glimmering plantation of evergreens behind.
-Here she gave an exclamation of wonder, real or ritual,
-and looking up at the high garden wall above her, beheld it
+Here she gave an exclamation of [[Wonder|wonder]], real or ritual,
+and looking up at the high [[Garden|garden]] wall above her, beheld it
 fantastically bestridden by a somewhat fantastic figure.
 
 "Oh, don't jump, Mr. Crook," she called out in some alarm;
 "it's much too high."
 
-The individual riding the party wall like an aerial horse was a tall,
+The individual riding the party wall like an aerial [[Horse|horse]] was a tall,
 angular young man, with dark hair sticking up like a hair brush, intelligent
 and even distinguished lineaments, but a sallow and almost alien complexion.
 This showed the more plainly because he wore an aggressive red tie,
 the only part of his costume of which he seemed to take any care.
 Perhaps it was a symbol.  He took no notice of the girl's alarmed adjuration,
 but leapt like a grasshopper to the ground beside her, where he might
-very well have broken his legs.
+very [[Well|well]] have broken his legs.
 
 "I think I was meant to be a burglar," he said placidly,
-"and I have no doubt I should have been if I hadn't happened
-to be born in that nice house next door.  I can't see any harm
+"and I have no [[Doubt|doubt]] I should have been if I hadn't happened
+to be born in that nice [[house]] next door.  I can't see any harm
 in it, anyhow."
 
 "How can you say such things!" she remonstrated.
 
-"Well," said the young man, "if you're born on the wrong side of the wall,
+"[[Well]]," said the young man, "if you're born on the wrong side of the wall,
 I can't see that it's wrong to climb over it."
 
 "I never know what you will say or do next," she said.
@@ -97,8 +97,8 @@ on the right side of the wall now."
 
 "Whichever side you are on," said the young man named Crook.
 
-As they went together through the laurels towards the front garden a motor
-horn sounded thrice, coming nearer and nearer, and a car of splendid speed,
+As they went together through the laurels towards the front [[Garden|garden]] a motor
+horn sounded thrice, coming nearer and nearer, and a car of splendid [[Speed|speed]],
 great elegance, and a pale green colour swept up to the front doors like a
 bird and stood throbbing.
 
@@ -109,13 +109,13 @@ Miss Adams, that your Santa Claus was so modern as this."
 "Oh, that's my godfather, Sir Leopold Fischer.  He always comes
 on Boxing Day."
 
-Then, after an innocent pause, which unconsciously betrayed some lack
+Then, after an [[Innocent|innocent]] pause, which unconsciously betrayed some lack
 of enthusiasm, Ruby Adams added:
 
 "He is very kind."
 
-John Crook, journalist, had heard of that eminent City magnate;
-and it was not his fault if the City magnate had not heard of him;
+John Crook, journalist, had heard of that eminent [[City]] magnate;
+and it was not his fault if the [[City]] magnate had not heard of him;
 for in certain articles in The Clarion or The New Age Sir Leopold
 had been dealt with austerely.  But he said nothing and grimly watched
 the unloading of the motor-car, which was rather a long process.
@@ -135,7 +135,7 @@ had opened in the middle, and Colonel Adams (father of the furry
 young lady) had come out himself to invite his eminent guest inside.
 He was a tall, sunburnt, and very silent man, who wore a red smoking-cap
 like a fez, making him look like one of the English Sirdars or Pashas
-in Egypt.  With him was his brother-in-law, lately come from Canada,
+in [[Egypt]].  With him was his brother-in-law, lately come from Canada,
 a big and rather boisterous young gentleman-farmer, with a yellow beard,
 by name James Blount.  With him also was the more insignificant figure
 of the priest from the neighbouring Roman Church; for the colonel's
@@ -145,15 +145,15 @@ undistinguished about the priest, even down to his name, which was Brown;
 yet the colonel had always found something companionable about him,
 and frequently asked him to such family gatherings.
 
-In the large entrance hall of the house there was ample
+In the large entrance hall of the [[house]] there was ample
 room even for Sir Leopold and the removal of his wraps.
 Porch and vestibule, indeed, were unduly large in proportion
-to the house, and formed, as it were, a big room with the front
-door at one end, and the bottom of the staircase at the other.
-In front of the large hall fire, over which hung the colonel's sword,
+to the [[house]], and formed, as it were, a big room with the front
+door at one end, and the [[Bottom|bottom]] of the staircase at the other.
+In front of the large hall [[Fire|fire]], over which hung the colonel's [[Sword|sword]],
 the process was completed and the company, including the saturnine Crook,
 presented to Sir Leopold Fischer.  That venerable financier, however,
-still seemed struggling with portions of his well-lined attire,
+still seemed struggling with portions of his [[Well|well]]-lined attire,
 and at length produced from a very interior tail-coat pocket,
 a black oval case which he radiantly explained to be his Christmas
 present for his god-daughter. With an unaffected vain-glory
@@ -161,17 +161,17 @@ that had something disarming about it he held out the case
 before them all; it flew open at a touch and half-blinded them.
 It was just as if a crystal fountain had spurted in their eyes.
 In a nest of orange velvet lay like three eggs, three white and vivid
-diamonds that seemed to set the very air on fire all round them.
+diamonds that seemed to set the very air on [[Fire|fire]] all round them.
 Fischer stood beaming benevolently and drinking deep of the astonishment
 and ecstasy of the girl, the grim admiration and gruff thanks
-of the colonel, the wonder of the whole group.
+of the colonel, the [[Wonder|wonder]] of the whole group.
 
 "I'll put 'em back now, my dear," said Fischer, returning the case
 to the tails of his coat.  "I had to be careful of 'em coming down.
-They're the three great African diamonds called `The Flying Stars,'
+They're the three great African diamonds called `The Flying [[Stars]],'
 because they've been stolen so often.  All the big criminals are on the track;
 but even the rough men about in the streets and hotels could hardly have
-kept their hands off them.  I might have lost them on the road here.
+kept their hands off them.  I might have lost them on the [[Road|road]] here.
 It was quite possible."
 
 "Quite natural, I should say," growled the man in the red tie.
@@ -184,7 +184,7 @@ in a curious glow.  "You've only talked like that since you
 became a horrid what's-his-name. You know what I mean.
 What do you call a man who wants to embrace the chimney-sweep?"
 
-"A saint," said Father Brown.
+"A saint," said [[Father Brown]].
 
 "I think," said Sir Leopold, with a supercilious smile,
 "that Ruby means a Socialist."
@@ -211,8 +211,8 @@ entirely with soot--applied externally."
 
 The boisterous Canadian, Mr. Blount, was lifting his loud voice
 in applause, and the astonished financier his (in some considerable
-deprecation), when a knock sounded at the double front doors.
-The priest opened them, and they showed again the front garden of evergreens,
+deprecation), when a knock sounded at the [[Double|double]] front doors.
+The priest opened them, and they showed again the front [[Garden|garden]] of evergreens,
 monkey-tree and all, now gathering gloom against a gorgeous violet sunset.
 The scene thus framed was so coloured and quaint, like a back scene in a play,
 that they forgot a moment the insignificant figure standing in the door.
@@ -231,21 +231,21 @@ that famous French acrobat and comic actor; I knew him years ago out West
 though I hardly guess what."
 
 "Of course, of course," replied the colonel carelessly--"My dear chap,
-any friend of yours.  No doubt he will prove an acquisition."
+any friend of yours.  No [[Doubt|doubt]] he will prove an acquisition."
 
 "He'll black his face, if that's what you mean," cried Blount, laughing.
-"I don't doubt he'd black everyone else's eyes.  I don't care;
+"I don't [[Doubt|doubt]] he'd black everyone else's eyes.  I don't care;
 I'm not refined.  I like the jolly old pantomime where a man sits
 on his top hat."
 
 "Not on mine, please," said Sir Leopold Fischer, with dignity.
 
-"Well, well," observed Crook, airily, "don't let's quarrel.
+"[[Well]], [[Well|well]]," observed Crook, airily, "don't let's quarrel.
 There are lower jokes than sitting on a top hat."
 
 Dislike of the red-tied youth, born of his predatory opinions
 and evident intimacy with the pretty godchild, led Fischer to say,
-in his most sarcastic, magisterial manner:  "No doubt you
+in his most sarcastic, magisterial manner:  "No [[Doubt|doubt]] you
 have found something much lower than sitting on a top hat.
 What is it, pray?"
 
@@ -262,7 +262,7 @@ blazed in my brain like a bonfire ever since.  I came back to
 the old country only last year, and I find the thing's extinct.
 Nothing but a lot of snivelling fairy plays.  I want a hot
 poker and a policeman made into sausages, and they give me
-princesses moralising by moonlight, Blue Birds, or something.
+princesses moralising by moonlight, Blue [[Birds]], or something.
 Blue Beard's more in my line, and him I like best when he turned
 into the pantaloon."
 
@@ -282,7 +282,7 @@ Haven't killed a policeman lately."
 
 Blount frowned thoughtfully a space, and then smote his thigh.  "Yes, we can!"
 he cried.  "I've got Florian's address here, and he knows every costumier
-in London.  I'll phone him to bring a police dress when he comes."
+in [[London]].  I'll phone him to bring a police dress when he comes."
 And he went bounding away to the telephone.
 
 "Oh, it's glorious, godfather," cried Ruby, almost dancing.
@@ -292,7 +292,7 @@ The millionaire held himself stiff with a sort of heathen solemnity.
 "I think, my dear," he said, "you must get someone else for pantaloon."
 
 "I will be pantaloon, if you like," said Colonel Adams, taking his cigar
-out of his mouth, and speaking for the first and last time.
+out of his mouth, and speaking for the first and last [[Time|time]].
 
 "You ought to have a statue," cried the Canadian, as he came back,
 radiant, from the telephone.  "There, we are all fitted.  Mr. Crook
@@ -302,16 +302,16 @@ My friend Florian 'phones he's bringing the police costume;
 he's changing on the way.  We can act it in this very hall, the audience
 sitting on those broad stairs opposite, one row above another.
 These front doors can be the back scene, either open or shut.
-Shut, you see an English interior.  Open, a moonlit garden.
-It all goes by magic."  And snatching a chance piece of billiard
-chalk from his pocket, he ran it across the hall floor,
+Shut, you see an English interior.  Open, a moonlit [[Garden|garden]].
+It all goes by [[Magic|magic]]."  And snatching a chance piece of billiard
+[[chalk]] from his pocket, he ran it across the hall floor,
 half-way between the front door and the staircase, to mark the line
 of the footlights.
 
-How even such a banquet of bosh was got ready in the time remained
-a riddle.  But they went at it with that mixture of recklessness
-and industry that lives when youth is in a house; and youth
-was in that house that night, though not all may have isolated
+How even such a banquet of bosh was got ready in the [[Time|time]] remained
+a [[Riddle|riddle]].  But they went at it with that mixture of recklessness
+and industry that lives when youth is in a [[house]]; and youth
+was in that [[house]] that [[Night|night]], though not all may have isolated
 the two faces and hearts from which it flamed.  As always happens,
 the invention grew wilder and wilder through the very tameness
 of the bourgeois conventions from which it had to create.
@@ -325,11 +325,11 @@ prevented from smashing the old Victorian lustre chandeliers,
 that he might cover himself with resplendent crystals.
 In fact he would certainly have done so, had not Ruby unearthed
 some old pantomime paste jewels she had worn at a fancy dress party
-as the Queen of Diamonds.  Indeed, her uncle, James Blount, was getting
+as the [[Queen]] of Diamonds.  Indeed, her uncle, James Blount, was getting
 almost out of hand in his excitement; he was like a schoolboy.
-He put a paper donkey's head unexpectedly on Father Brown, who bore
+He put a paper [[donkey]]'s head unexpectedly on [[Father Brown]], who bore
 it patiently, and even found some private manner of moving his ears.
-He even essayed to put the paper donkey's tail to the coat-tails
+He even essayed to put the paper [[donkey]]'s tail to the coat-tails
 of Sir Leopold Fischer.  This, however, was frowned down.
 "Uncle is too absurd," cried Ruby to Crook, round whose
 shoulders she had seriously placed a string of sausages.
@@ -341,10 +341,10 @@ who makes the old jokes."
 "I wish you were the harlequin," she said, and left the string
 of sausages swinging.
 
-Father Brown, though he knew every detail done behind the scenes,
+[[Father Brown]], though he knew every detail done behind the scenes,
 and had even evoked applause by his transformation of a pillow into
 a pantomime baby, went round to the front and sat among the audience
-with all the solemn expectation of a child at his first matinee.
+with all the solemn expectation of a [[Child|child]] at his first matinee.
 The spectators were few, relations, one or two local friends,
 and the servants; Sir Leopold sat in the front seat, his full and still
 fur-collared figure largely obscuring the view of the little cleric
@@ -364,9 +364,9 @@ music equally absurd and appropriate.
 
 The climax of this, as of all else, was the moment when the two
 front doors at the back of the scene flew open, showing the lovely
-moonlit garden, but showing more prominently the famous
+moonlit [[Garden|garden]], but showing more prominently the famous
 professional guest; the great Florian, dressed up as a policeman.
-The clown at the piano played the constabulary chorus in the "Pirates
+The clown at the piano played the constabulary [[Chorus|chorus]] in the "Pirates
 of Penzance," but it was drowned in the deafening applause,
 for every gesture of the great comic actor was an admirable though
 restrained version of the carriage and manner of the police.
@@ -376,40 +376,40 @@ in admirably simulated astonishment, and then the leaping harlequin
 hit him again (the pianist suggesting a few bars of "Then we
 had another one"). Then the harlequin rushed right into the arms
 of the policeman and fell on top of him, amid a roar of applause.
-Then it was that the strange actor gave that celebrated imitation
+Then it was that the strange actor gave that celebrated [[Imitation|imitation]]
 of a dead man, of which the fame still lingers round Putney.  It was
 almost impossible to believe that a living person could
 appear so limp.
 
 The athletic harlequin swung him about like a sack or twisted or tossed
-him like an Indian club; all the time to the most maddeningly ludicrous
+him like an Indian club; all the [[Time|time]] to the most maddeningly ludicrous
 tunes from the piano.  When the harlequin heaved the comic constable
-heavily off the floor the clown played "I arise from dreams of thee."
+heavily off the floor the clown played "I arise from [[Dreams|dreams]] of thee."
 When he shuffled him across his back, "With my bundle on my shoulder,"
 and when the harlequin finally let fall the policeman with a most
 convincing thud, the lunatic at the instrument struck into a jingling
 measure with some words which are still believed to have been, "I sent
-a letter to my love and on the way I dropped it."
+a letter to my [[Love|love]] and on the way I dropped it."
 
-At about this limit of mental anarchy Father Brown's view was
-obscured altogether; for the City magnate in front of him rose to his
+At about this limit of mental anarchy [[Father Brown]]'s view was
+obscured altogether; for the [[City]] magnate in front of him [[Rose|rose]] to his
 full height and thrust his hands savagely into all his pockets.
 Then he sat down nervously, still fumbling, and then stood up again.
 For an instant it seemed seriously likely that he would stride across
 the footlights; then he turned a glare at the clown playing the piano;
-and then he burst in silence out of the room.
+and then he burst in [[Silence|silence]] out of the room.
 
 The priest had only watched for a few more minutes the absurd but not
-inelegant dance of the amateur harlequin over his splendidly unconscious foe.
+inelegant [[Dance|dance]] of the amateur harlequin over his splendidly unconscious foe.
 With real though rude art, the harlequin danced slowly backwards out
-of the door into the garden, which was full of moonlight and stillness.
+of the door into the [[Garden|garden]], which was full of moonlight and stillness.
 The vamped dress of silver paper and paste, which had been too glaring
 in the footlights, looked more and more magical and silvery as it danced
-away under a brilliant moon.  The audience was closing in with a cataract
+away under a brilliant [[Moon|moon]].  The audience was closing in with a cataract
 of applause, when Brown felt his arm abruptly touched, and he was asked
 in a whisper to come into the colonel's study.
 
-He followed his summoner with increasing doubt, which was not
+He followed his summoner with increasing [[Doubt|doubt]], which was not
 dispelled by a solemn comicality in the scene of the study.
 There sat Colonel Adams, still unaffectedly dressed as a pantaloon,
 with the knobbed whalebone nodding above his brow, but with his poor
@@ -417,28 +417,28 @@ old eyes sad enough to have sobered a Saturnalia.  Sir Leopold Fischer
 was leaning against the mantelpiece and heaving with all the
 importance of panic.
 
-"This is a very painful matter, Father Brown," said Adams.  "The truth is,
+"This is a very painful matter, [[Father Brown]]," said Adams.  "The [[Truth|truth]] is,
 those diamonds we all saw this afternoon seem to have vanished from my
 friend's tail-coat pocket.  And as you--"
 
-"As I," supplemented Father Brown, with a broad grin, "was sitting
+"As I," supplemented [[Father Brown]], with a broad grin, "was sitting
 just behind him--"
 
 "Nothing of the sort shall be suggested," said Colonel Adams, with a firm look
 at Fischer, which rather implied that some such thing had been suggested.
 "I only ask you to give me the assistance that any gentleman might give."
 
-"Which is turning out his pockets," said Father Brown, and proceeded to do so,
+"Which is turning out his pockets," said [[Father Brown]], and proceeded to do so,
 displaying seven and sixpence, a return ticket, a small silver crucifix,
 a small breviary, and a stick of chocolate.
 
 The colonel looked at him long, and then said, "Do you know, I should
 like to see the inside of your head more than the inside of your pockets.
-My daughter is one of your people, I know; well, she has lately--"
+My daughter is one of your people, I know; [[Well|well]], she has lately--"
 and he stopped.
 
 "She has lately," cried out old Fischer, "opened her father's
-house to a cut-throat Socialist, who says openly he would
+[[house]] to a cut-throat Socialist, who says openly he would
 steal anything from a richer man.  This is the end of it.
 Here is the richer man--and none the richer."
 
@@ -453,7 +453,7 @@ Both the others shifted sharply and the priest went on:
 "You see, we know these people, more or less.  That Socialist would no more
 steal a diamond than a Pyramid.  We ought to look at once to the one man we
 don't know.  The fellow acting the policeman--Florian.  Where is he exactly
-at this minute, I wonder."
+at this minute, I [[Wonder|wonder]]."
 
 The pantaloon sprang erect and strode out of the room.
 An interlude ensued, during which the millionaire stared at the priest,
@@ -461,7 +461,7 @@ and the priest at his breviary; then the pantaloon returned and said,
 with staccato gravity, "The policeman is still lying on the stage.
 The curtain has gone up and down six times; he is still lying there."
 
-Father Brown dropped his book and stood staring with a look of blank
+[[Father Brown]] dropped his book and stood staring with a look of blank
 mental ruin.  Very slowly a light began to creep in his grey eyes,
 and then he made the scarcely obvious answer.
 
@@ -476,16 +476,16 @@ We've got to go and look at that policeman!"
 
 They rushed on to the now curtained stage, breaking rudely past
 the columbine and clown (who seemed whispering quite contentedly),
-and Father Brown bent over the prostrate comic policeman.
+and [[Father Brown]] bent over the prostrate comic policeman.
 
-"Chloroform," he said as he rose; "I only guessed it just now."
+"Chloroform," he said as he [[Rose|rose]]; "I only guessed it just now."
 
 There was a startled stillness, and then the colonel said slowly,
 "Please say seriously what all this means."
 
-Father Brown suddenly shouted with laughter, then stopped, and only
+[[Father Brown]] suddenly shouted with laughter, then stopped, and only
 struggled with it for instants during the rest of his speech.
-"Gentlemen," he gasped, "there's not much time to talk.
+"Gentlemen," he gasped, "there's not much [[Time|time]] to talk.
 I must run after the criminal.  But this great French actor
 who played the policeman--this clever corpse the harlequin
 waltzed with and dandled and threw about--he was--" His voice
@@ -493,45 +493,45 @@ again failed him, and he turned his back to run.
 
 "He was?" called Fischer inquiringly.
 
-"A real policeman," said Father Brown, and ran away into the dark.
+"A real policeman," said [[Father Brown]], and ran away into the dark.
 
-There were hollows and bowers at the extreme end of that leafy garden,
+There were hollows and bowers at the extreme end of that leafy [[Garden|garden]],
 in which the laurels and other immortal shrubs showed against sapphire sky
-and silver moon, even in that midwinter, warm colours as of the south.
-The green gaiety of the waving laurels, the rich purple indigo of the night,
-the moon like a monstrous crystal, make an almost irresponsible
-romantic picture; and among the top branches of the garden trees a strange
+and silver [[Moon|moon]], even in that midwinter, warm colours as of the south.
+The green gaiety of the waving laurels, the rich purple indigo of the [[Night|night]],
+the [[Moon|moon]] like a monstrous crystal, make an almost irresponsible
+romantic picture; and among the top branches of the [[Garden|garden]] trees a strange
 figure is climbing, who looks not so much romantic as impossible.
 He sparkles from head to heel, as if clad in ten million moons; the real
-moon catches him at every movement and sets a new inch of him on fire.
+[[Moon|moon]] catches him at every movement and sets a new inch of him on [[Fire|fire]].
 But he swings, flashing and successful, from the short tree in this
-garden to the tall, rambling tree in the other, and only stops there
+[[Garden|garden]] to the tall, rambling tree in the other, and only stops there
 because a shade has slid under the smaller tree and has unmistakably
 called up to him.
 
-"Well, Flambeau," says the voice, "you really look like a Flying Star;
+"[[Well]], [[Flambeau]]," says the voice, "you really look like a Flying Star;
 but that always means a Falling Star at last."
 
 The silver, sparkling figure above seems to lean forward in the laurels and,
 confident of escape, listens to the little figure below.
-      "You never did anything better, Flambeau.  It was clever to
-come from Canada (with a Paris ticket, I suppose) just a week
+      "You never did anything better, [[Flambeau]].  It was clever to
+come from Canada (with a [[Paris]] ticket, I suppose) just a week
 after Mrs. Adams died, when no one was in a mood to ask questions.
-It was cleverer to have marked down the Flying Stars and the very day
+It was cleverer to have marked down the Flying [[Stars]] and the very day
 of Fischer's coming.  But there's no cleverness, but mere genius,
 in what followed.  Stealing the stones, I suppose, was nothing to you.
 You could have done it by sleight of hand in a hundred other ways besides
-that pretence of putting a paper donkey's tail to Fischer's coat.
+that pretence of putting a paper [[donkey]]'s tail to Fischer's coat.
 But in the rest you eclipsed yourself."
 
-The silvery figure among the green leaves seems to linger as if hypnotised,
+The silvery figure among the green [[Leaves|leaves]] seems to linger as if hypnotised,
 though his escape is easy behind him; he is staring at the man below.
 
 "Oh, yes," says the man below, "I know all about it.
-I know you not only forced the pantomime, but put it to a double use.
+I know you not only forced the pantomime, but put it to a [[Double|double]] use.
 You were going to steal the stones quietly; news came by an accomplice
 that you were already suspected, and a capable police officer
-was coming to rout you up that very night.  A common thief would
+was coming to rout you up that very [[Night|night]].  A common thief would
 have been thankful for the warning and fled; but you are a poet.
 You already had the clever notion of hiding the jewels in a blaze
 of false stage jewellery.  Now, you saw that if the dress were a
@@ -547,11 +547,11 @@ And now, by the way, you might give me back those diamonds."
 The green branch on which the glittering figure swung,
 rustled as if in astonishment; but the voice went on:
 
-"I want you to give them back, Flambeau, and I want you to give
-up this life.  There is still youth and honour and humour in you;
+"I want you to give them back, [[Flambeau]], and I want you to give
+up this life.  There is still youth and [[Honour|honour]] and [[Humour|humour]] in you;
 don't fancy they will last in that trade.  Men may keep a sort
 of level of good, but no man has ever been able to keep on one
-level of evil.  That road goes down and down.  The kind man
+level of evil.  That [[Road|road]] goes down and down.  The kind man
 drinks and turns cruel; the frank man kills and lies about it.
 Many a man I've known started like you to be an honest outlaw,
 a merry robber of the rich, and ended stamped into slime.
@@ -561,14 +561,14 @@ that both sides used and despised.  Harry Burke started
 his free money movement sincerely enough; now he's sponging
 on a half-starved sister for endless brandies and sodas.
 Lord Amber went into wild society in a sort of chivalry;
-now he's paying blackmail to the lowest vultures in London.
-Captain Barillon was the great gentleman-apache before your time;
-he died in a madhouse, screaming with fear of the "narks"
+now he's paying blackmail to the lowest vultures in [[London]].
+Captain Barillon was the great gentleman-apache before your [[Time|time]];
+he died in a madhouse, screaming with [[Fear|fear]] of the "narks"
 and receivers that had betrayed him and hunted him down.
-I know the woods look very free behind you, Flambeau; I know
+I know the woods look very free behind you, [[Flambeau]]; I know
 that in a flash you could melt into them like a monkey.
-But some day you will be an old grey monkey, Flambeau.  You will
-sit up in your free forest cold at heart and close to death,
+But some day you will be an old grey monkey, [[Flambeau]].  You will
+sit up in your free forest cold at heart and close to [[Death|death]],
 and the tree-tops will be very bare."
 
 Everything continued still, as if the small man below
@@ -585,8 +585,8 @@ Three flashing diamonds fell from the tree to the turf.
 The small man stooped to pick them up, and when he looked up
 again the green cage of the tree was emptied of its silver bird.
 
-The restoration of the gems (accidentally picked up by Father Brown,
+The restoration of the gems (accidentally picked up by [[Father Brown]],
 of all people) ended the evening in uproarious triumph; and Sir Leopold,
-in his height of good humour, even told the priest that though he himself
+in his height of good [[Humour|humour]], even told the priest that though he himself
 had broader views, he could respect those whose creed required them
 to be cloistered and ignorant of this world.

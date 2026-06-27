@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Crime of Captain Gahagan (part 2)"
+title: "[[MrPond]] — The Crime of Captain Gahagan (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -14,19 +14,19 @@ tags:
 </nav>
 
 
-Varney, that English aristocrat, made him like the American even
+Varney, that English [[aristocrat]], made him like the American even
 
 more.  The Honourable Violet was one of those wealthy women who pay
 
 to act badly; and blackleg the poorer people who might have been
 
-paid to act well.  She certainly was quite capable of diving in a
+paid to act [[Well|well]].  She certainly was quite capable of diving in a
 
 bathing dress, or in anything or nothing, if it were the only way
 
 to the stage and the spot-light.  She was quite capable of helping
 
-Miss Asa-Smith in her absurd play and talking similar nonsense
+Miss Asa-[[smith|Smith]] in her absurd play and talking similar nonsense
 
 about being modern and independent of selfish man.  But there was a
 
@@ -48,7 +48,7 @@ too tired to finish it; Artemis did so as if she were really too
 
 eager to get on to the next.  There was within her, somehow, a
 
-thing, a spirit of life, which survives every criticism of America.
+thing, a spirit of life, which survives every criticism of [[america|America]].
 
 
 
@@ -72,23 +72,23 @@ the precise and prosaic Mr. Pond.
 
 "Some say he's a rotter," said the candid American.  "I don't say
 
-that; but I do say he's a dark horse.  And he does shilly-shally
+that; but I do say he's a dark [[Horse|horse]].  And he does shilly-shally
 
-about Joan Varney, doesn't he?  Some say he's really in love with
+about Joan Varney, doesn't he?  Some say he's really in [[Love|love]] with
 
-the great Olivia--your only tragic actress.  Only she's so jolly
+the great [[Olivia]]--your only tragic actress.  Only she's so jolly
 
 tragic."
 
 
 
-"God send she doesn't play in a real tragedy," said Pond.
+"God send she doesn't play in a real [[Tragedy|tragedy]]," said Pond.
 
 
 
 He knew what he meant; but he had not the faintest foreshadowing of
 
-the awful tragedy of real life and death in which Olivia Feversham
+the awful [[Tragedy|tragedy]] of real life and [[Death|death]] in which [[Olivia]] Feversham
 
 was to play within the next twenty-four hours.
 
@@ -102,13 +102,13 @@ Gahagan lived the modern life, perhaps to excess, was a prop of
 
 nightclubs and a driver of sports cars, still comparatively young;
 
-but, for all that, he was a survival.  He belonged to the times of
+but, for all that, he was a [[Survival|survival]].  He belonged to the times of
 
 a more Byronic pose.  When Mr. W. B. Yeats wrote:  "Romantic
 
-Ireland's dead and gone; it's with O'Leary in the grave," he had
+Ireland's dead and gone; it's with O'Leary in the [[Grave|grave]]," he had
 
-never met Gahagan, who was not yet in the grave.  He was of that
+never met Gahagan, who was not yet in the [[Grave|grave]].  He was of that
 
 older tradition by a hundred tests; he had been a cavalry soldier
 
@@ -128,9 +128,9 @@ eighteenth-century way: the way of Garrick; and that eighteenth
 
 century that he recalled had a pretty pagan side to it.  Pond could
 
-not dismiss the chances of Gahagan having an affair with Olivia or
+not dismiss the chances of Gahagan having an affair with [[Olivia]] or
 
-anyone else; and if so a storm might be brewing.  For Olivia was
+anyone else; and if so a [[Storm|storm]] might be brewing.  For [[Olivia]] was
 
 married; and to no complaisant husband, either.
 
@@ -158,9 +158,9 @@ wife than with his solicitor.
 
 
 
-Through court after court Feversham passed, pursuing his rights and
+Through [[Court|court]] after [[Court|court]] Feversham passed, pursuing his rights and
 
-followed like a shadow by his solicitor, Luke, of the firm of
+followed like a [[Shadow|shadow]] by his solicitor, Luke, of the firm of
 
 Masters, Luke and Masters; a young man with flat, yellow hair and a
 
@@ -168,7 +168,7 @@ rather wooden face.  What he thought of his client's feuds and how
 
 far he ventured to restrain them, that wooden face would never
 
-reveal.  But he worked well for his client; and the two had
+reveal.  But he worked [[Well|well]] for his client; and the two had
 
 necessarily become in a way companions-in-arms.  Of one thing Pond
 
@@ -192,13 +192,13 @@ the problem of an ill-drawn will or a dubious signature.  It was
 
 the problem of a stiff and staring corpse, lying just inside a
 
-garden-gate and nailed there by a fencing-sword with the button
+[[Garden|garden]]-gate and nailed there by a fencing-[[Sword|sword]] with the button
 
 broken off.  Frederick Feversham, that legalist, had suffered at
 
 least one final and indisputable illegality; he had been stabbed to
 
-death as he entered his own home.
+[[Death|death]] as he entered his own [[Home|home]].
 
 
 
@@ -210,7 +210,7 @@ Long before certain facts, slowly collected, were put before the
 
 police, they were put before Mr. Pond.  This may seem odd, but
 
-there were reasons; indeed Mr. Pond, like many other Government
+there were reasons; indeed Mr. Pond, like many other [[government|Government]]
 
 officials, had rather secret and unsuspected spheres of influence;
 
@@ -224,4 +224,4 @@ labyrinth of the most unconstitutional of all constitutions.  In
 
 any case, his first warning of the trouble took the commonplace
 
-form of an ordinary legal letter, with the heading of the well-
+form of an ordinary legal letter, with the heading of the [[Well|well]]-

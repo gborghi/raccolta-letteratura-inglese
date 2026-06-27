@@ -21,5 +21,5 @@ tags:
 | FIRST FRIEND | Here. |
 | JAILER’S DAUGHTER | What kenn’st thou? |
 | SECOND FRIEND | A fair wood. |
-| JAILER’S DAUGHTER | Bear for it, master. Tack about! (Sings) ‘When Cynthia with her borrowed light ...’ Exeunt |
-| *(didascalia)* | 4.2 Enter Emilia, with two pictures |
+| JAILER’S DAUGHTER | Bear for it, master. Tack about! (Sings) ‘When [[Cynthia]] with her borrowed light ...’ Exeunt |
+| *(didascalia)* | 4.2 Enter [[Emilia]], with two pictures |

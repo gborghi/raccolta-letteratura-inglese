@@ -16,25 +16,25 @@ tags:
 
 But there is another cause for my being content for the moment,
 with this mere chaos of contrasts.  There is a very real reason
-for emphasising those contrasts, and for shunning the temptation
+for emphasising those contrasts, and for shunning the [[Temptation|temptation]]
 to shut our eyes to them even considered as contrasts.
 It is necessary to insist that the contrasts are not easy to turn
 into combinations; that the red robes of Rome and the green
-scarves of Islam will not very easily fade into a dingy russet;
+scarves of [[Islam]] will not very easily fade into a dingy russet;
 that the gold of Byzantium and the brass of Babylon will require
 a hot furnace to melt them into any kind of amalgam.  The reason
 for this is akin to what has already been said about Jerusalem as a
 knot of realities.  It is especially a knot of popular realities.
 Although it is so small a place, or rather because it is so
 small a place, it is a domain and a dominion for the masses.
-Democracy is never quite democratic except when it is quite direct;
+[[Democracy]] is never quite democratic except when it is quite direct;
 and it is never quite direct except when it is quite small.
 So soon as a mob has grown large enough to have delegates it has
 grown large enough to have despots; indeed the despots are often
 much the more representative of the two.  Now in a place so small
 as Jerusalem, what we call the rank and file really counts.
 And it is generally true, in religions especially, that the real
-enthusiasm or even fanaticism is to be found in the rank and file.
+enthusiasm or even [[Fanaticism|fanaticism]] is to be found in the rank and file.
 In all intense religions it is the poor who are more religious
 and the rich who are more irreligious.  It is certainly so with
 the creeds and causes that come to a collision in Jerusalem.
@@ -44,7 +44,7 @@ have shown when the Persian conqueror broke the Babylonian bondage.
 It was rather the plutocratic princes of Jewry who long hung back
 and hesitated about Zionism.  The mass of Mahometans really are
 ready to combine against the Zionists as they might have combined
-against the Crusades.  It is rather the responsible Mahometan
+against the [[Crusades]].  It is rather the responsible Mahometan
 leaders who will naturally be found more moderate and diplomatic.
 This popular spirit may take a good or a bad form; and a mob may cry
 out many things, right and wrong.  But a mob cries out "No Popery";
@@ -59,15 +59,15 @@ No rabble could roar at the top of its voice the collectivist
 formula of "The nationalisation of all the means of production,
 distribution, and exchange."  The mob of Jerusalem is no
 exception to the rule, but rather an extreme example of it.
-The mob of Jerusalem has cried some remarkable things in its time;
+The mob of Jerusalem has cried some remarkable things in its [[Time|time]];
 but they were not pedantic and they were not evasive.
 There was a day when it cried a single word; "Crucify." It was
 a thing to darken the sun and rend the veil of the temple;
-but there was no doubt about what it meant.
+but there was no [[Doubt|doubt]] about what it meant.
 
 This is an age of minorities; of minorities powerful and predominant,
 partly through the power of wealth and partly through the idolatry
-of education.  Their powers appeared in every crisis of the Great War,
+of [[Education|education]].  Their powers appeared in every crisis of the Great War,
 when a small group of pacifists and internationalists, a microscopic
 minority in every country, were yet constantly figuring as diplomatists
 and intermediaries and men on whose attitude great issues might depend.
@@ -75,9 +75,9 @@ A man like Mr. Macdonald, not a workman nor a formal or real
 representative of workmen, was followed everywhere by the limelight;
 while the millions of workmen who worked and fought were out
 of focus and therefore looked like a fog.  Just as such figures
-give a fictitious impression of unity between the crowds fighting
+give a fictitious impression of [[unity]] between the crowds fighting
 for different flags and frontiers, so there are similar figures
-giving a fictitious unity to the crowds following different creeds.
+giving a fictitious [[unity]] to the crowds following different creeds.
 There are already Moslems who are Modernists; there have always
 been a ruling class of Jews who are Materialists.  Perhaps it
 would be true to say about much of the philosophical controversy
@@ -105,15 +105,15 @@ with the impotent and even invisible majority.  And my sympathies,
 when I go beyond the things I myself believe, are with all
 the poor Jews who do believe in Judaism and all the Mahometans
 who do believe in Mahometanism, not to mention so obscure a crowd
-as the Christians who do believe in Christianity.  I feel I have
+as the Christians who do believe in [[Christianity]].  I feel I have
 more morally and even intellectually in common with these people,
 and even the religions of these people, than with the supercilious
 negations that make up the most part of what is called enlightenment.
 It is these masses whom we ought to consider everywhere; but it
 is especially these masses whom we must consider in Jerusalem.
 And the reason is in the reality I have described; that the place
-is like a Greek city or a medieval parish; it is sufficiently
-small and simple to be a democracy.  This is not a university town
+is like a Greek [[City|city]] or a medieval parish; it is sufficiently
+small and simple to be a [[Democracy|democracy]].  This is not a university town
 full of philosophies; it is a Zion of the hundred sieges raging
 with religions; not a place where resolutions can be voted and amended,
 but a place where men can be crowned and crucified.

@@ -1,5 +1,5 @@
 ---
-title: "Julius Caesar — Act III, Scene 2 — exchange (ALL THE PLEBEIANS) [6]"
+title: "[[Julius Caesar]] — Act III, Scene 2 — exchange (ALL THE PLEBEIANS) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/JULIUS-CAESAR-(Shakespeare)"

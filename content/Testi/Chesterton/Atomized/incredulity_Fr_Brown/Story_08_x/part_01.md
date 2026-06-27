@@ -1,5 +1,5 @@
 ---
-title: "incredulity Fr Brown — ' (part 1)"
+title: "[[Incredulity|incredulity]] Fr Brown — ' (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/incredulity-Fr-Brown-(Chesterton)"
@@ -41,30 +41,30 @@ mingling with it; something like a voice calling through the sound of
 the surf, dulled by it at first, but coming nearer and nearer. The next
 moment they were certain: someone was shouting outside in the dusk.
 
-Payne turned to the low window behind him and bent to look out. It was
-the window from which nothing could be seen except the moat with its
+Payne turned to the low [[Window|window]] behind him and bent to look out. It was
+the [[Window|window]] from which nothing could be seen except the moat with its
 reflection of bank and sky. But that inverted vision was not the same
-that he had seen before. From the hanging shadow of the bank in the
-water depended two dark shadows reflected from the feet and legs of a
+that he had seen before. From the hanging [[Shadow|shadow]] of the bank in the
+[[Water|water]] depended two dark shadows reflected from the feet and legs of a
 figure standing above upon the bank. Through that limited aperture they
 could see nothing but the two legs black against the reflection of a
 pale and livid sunset. But somehow that very fact of the head being
 invisible, as if in the clouds, gave something dreadful to the sound
 that followed; the voice of a man crying aloud what they could not
 properly hear or understand. Payne especially was peering out of the
-little window with an altered face, and he spoke with an altered voice:
+little [[Window|window]] with an altered face, and he spoke with an altered voice:
 
 'How queerly he's standing!'
 
 'No, no,' said Wood, in a sort of soothing whisper. 'Things often look
-like that in reflection. It's the wavering of the water that makes you
+like that in reflection. It's the wavering of the [[Water|water]] that makes you
 think that.'
 
 'Think what?' asked the priest shortly.
 
 'That his left leg is crooked,' said Wood.
 
-Payne had thought of the oval window as a sort of mystical mirror; and
+Payne had thought of the oval [[Window|window]] as a sort of mystical [[Mirror|mirror]]; and
 it seemed to him that there were in it other inscrutable images of doom.
 There was something else beside the figure that he did not understand;
 three thinner legs showing in dark lines against the light, as if some
@@ -95,13 +95,13 @@ his reception; but they could have sworn that he did not himself know
 the cause of it. The lady, supposed to be in some sense already
 betrothed to him, was certainly beautiful enough to attract him; but she
 evidently also frightened him. The old steward brought him a sort of
-feudal homage, yet treated him as if he were the family ghost. The
+feudal homage, yet treated him as if he were the family [[Ghost|ghost]]. The
 priest still looked at him with a face which was quite indecipherable,
 and therefore perhaps all the more unnerving. A new sort of irony, more
 like the Greek irony, began to pass over Payne's mind. He had dreamed of
 the stranger as a devil, but it seemed almost worse that he was an
 unconscious destiny. He seemed to march towards crime with the monstrous
-innocence of Oedipus. He had approached the family mansion in so blindly
+[[innocence]] of Oedipus. He had approached the family mansion in so blindly
 buoyant a spirit as to have set up his camera to photograph his first
 sight of it; and even the camera had taken on the semblance of the
 tripod of a tragic pythoness.
@@ -114,17 +114,17 @@ of his surroundings. He said in a low voice:
 place fairly gives me the jumps.'
 
 When Payne emerged out of those almost subterranean halls and came into
-the night air and the smell of the sea, he felt as if he had come out of
-that underworld of dreams in which events jumble on top of each other in
+the [[Night|night]] air and the smell of the sea, he felt as if he had come out of
+that underworld of [[Dreams|dreams]] in which events jumble on top of each other in
 a way at once unrestful and unreal.
 
 The arrival of the strange relative had been somehow unsatisfying and,
 as it were, unconvincing. The doubling of the same face in the old
-portrait and the new arrival troubled him like a two headed monster. And
-yet it was not altogether a nightmare; nor was it that face, perhaps,
+portrait and the new arrival troubled him like a two headed [[Monster|monster]]. And
+yet it was not altogether a [[nightmare]]; nor was it that face, perhaps,
 that he saw most vividly.
 
 'Did you say?' he asked of the doctor, as they strode together across
 the striped dark sands by the darkening sea; 'did you say that young man
 was betrothed to Miss Darnaway by a family compact or something? Sounds
-rather like a novel.'
+rather like a [[Novel|novel]].'

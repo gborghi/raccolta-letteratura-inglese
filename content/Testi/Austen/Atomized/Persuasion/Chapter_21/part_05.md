@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 21 (part 5)"
+title: "[[Persuasion]] — Chapter 21 (part 5)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -44,23 +44,23 @@ a very pretty silly wife, to whom he tells things which he had better
 
 not, and he repeats it all to her. She in the overflowing spirits of
 
-her recovery, repeats it all to her nurse; and the nurse knowing my
+her recovery, repeats it all to her [[Nurse|nurse]]; and the [[Nurse|nurse]] knowing my
 
 acquaintance with you, very naturally brings it all to me. On Monday
 
-evening, my good friend Mrs Rooke let me thus much into the secrets of
+evening, my good friend Mrs Rooke let me thus much into the [[Secrets|secrets]] of
 
-Marlborough Buildings. When I talked of a whole history, therefore, you
+Marlborough Buildings. When I talked of a whole [[history]], therefore, you
 
 see I was not romancing so much as you supposed.”
 
 
 
-“My dear Mrs Smith, your authority is deficient. This will not do. Mr
+“My dear Mrs [[smith|Smith]], your authority is deficient. This will not do. Mr
 
 Elliot’s having any views on me will not in the least account for the
 
-efforts he made towards a reconciliation with my father. That was all
+efforts he made towards a [[Reconciliation|reconciliation]] with my father. That was all
 
 prior to my coming to Bath. I found them on the most friendly terms
 
@@ -72,13 +72,13 @@ when I arrived.”
 
 
 
-“Indeed, Mrs Smith, we must not expect to get real information in such
+“Indeed, Mrs [[smith|Smith]], we must not expect to get real information in such
 
 a line. Facts or opinions which are to pass through the hands of so
 
 many, to be misconceived by folly in one, and ignorance in another, can
 
-hardly have much truth left.”
+hardly have much [[Truth|truth]] left.”
 
 
 
@@ -92,7 +92,7 @@ first inducement. He had seen you indeed, before he came to Bath, and
 
 admired you, but without knowing it to be you. So says my historian, at
 
-least. Is this true? Did he see you last summer or autumn, ‘somewhere
+least. Is this true? Did he see you last [[Summer|summer]] or [[Autumn|autumn]], ‘somewhere
 
 down in the west,’ to use her own words, without knowing it to be you?”
 
@@ -104,15 +104,15 @@ Lyme.”
 
 
 
-“Well,” continued Mrs Smith, triumphantly, “grant my friend the credit
+“[[Well]],” continued Mrs [[smith|Smith]], triumphantly, “grant my friend the credit
 
 due to the establishment of the first point asserted. He saw you then
 
-at Lyme, and liked you so well as to be exceedingly pleased to meet
+at Lyme, and liked you so [[Well|well]] as to be exceedingly pleased to meet
 
-with you again in Camden Place, as Miss Anne Elliot, and from that
+with you again in Camden Place, as Miss [[Anne Elliot]], and from that
 
-moment, I have no doubt, had a double motive in his visits there. But
+moment, I have no [[Doubt|doubt]], had a [[Double|double]] motive in his visits there. But
 
 there was another, and an earlier, which I will now explain. If there
 
@@ -138,7 +138,7 @@ the danger.”
 
 
 
-Here Mrs Smith paused a moment; but Anne had not a word to say, and she
+Here Mrs [[smith|Smith]] paused a moment; but Anne had not a word to say, and she
 
 continued—
 
@@ -158,11 +158,11 @@ for a day or two, as he happened to do a little before Christmas,
 
 Colonel Wallis made him acquainted with the appearance of things, and
 
-the reports beginning to prevail. Now you are to understand, that time
+the reports beginning to prevail. Now you are to understand, that [[Time|time]]
 
 had worked a very material change in Mr Elliot’s opinions as to the
 
-value of a baronetcy. Upon all points of blood and connexion he is a
+value of a baronetcy. Upon all points of [[Blood|blood]] and connexion he is a
 
 completely altered man. Having long had as much money as he could
 
@@ -180,7 +180,7 @@ friend could not be very agreeable, and you may guess what it produced;
 
 the resolution of coming back to Bath as soon as possible, and of
 
-fixing himself here for a time, with the view of renewing his former
+fixing himself here for a [[Time|time]], with the view of renewing his former
 
 acquaintance, and recovering such a footing in the family as might give
 

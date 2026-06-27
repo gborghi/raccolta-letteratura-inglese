@@ -1,5 +1,5 @@
 ---
-title: "Landor's Cottage (part 2)"
+title: "[[Landor's Cottage]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Landor's-Cottage-(Poe)"
@@ -16,8 +16,8 @@ tags:
 
       The first _coup d’œil_, as the sun slid into the position
       described, impressed me very much as I have been impressed, when
-      a boy, by the concluding scene of some well-arranged theatrical
-      spectacle or melodrama. Not even the monstrosity of color was
+      a boy, by the concluding scene of some [[Well|well]]-arranged theatrical
+      spectacle or [[Melodrama|melodrama]]. Not even the monstrosity of color was
       wanting; for the sunlight came out through the chasm, tinted all
       orange and purple; while the vivid green of the grass in the
       valley was reflected more or less upon all objects from the
@@ -46,12 +46,12 @@ tags:
       embankment; this fissure might have been ten yards wide at its
       widest point, so far as the eye could trace it. It seemed to lead
       up, up like a natural causeway, into the recesses of unexplored
-      mountains and forests. The other opening was directly at the
+      [[Mountains|mountains]] and forests. The other opening was directly at the
       southern end of the vale. Here, generally, the slopes were
       nothing more than gentle inclinations, extending from east to
       west about one hundred and fifty yards. In the middle of this
       extent was a depression, level with the ordinary floor of the
-      valley. As regards vegetation, as well as in respect to every
+      valley. As regards vegetation, as [[Well|well]] as in respect to every
       thing else, the scene softened and sloped to the south. To the
       north—on the craggy precipice—a few paces from the verge—up
       sprang the magnificent trunks of numerous hickories, black
@@ -63,8 +63,8 @@ tags:
       elm, succeeded by the sassafras and locust—these again by the
       softer linden, red-bud, catalpa, and maple—these yet again by
       still more graceful and more modest varieties. The whole face of
-      the southern declivity was covered with wild shrubbery alone—an
-      occasional silver willow or white poplar excepted. In the bottom
+      the southern declivity was covered with wild shrubbery [[Alone|alone]]—an
+      occasional silver willow or white poplar excepted. In the [[Bottom|bottom]]
       of the valley itself—(for it must be borne in mind that the
       vegetation hitherto mentioned grew only on the cliffs or
       hillsides)—were to be seen three insulated trees. One was an elm
@@ -73,20 +73,20 @@ tags:
       elm, and altogether a much finer tree, although both were
       exceedingly beautiful: it seemed to have taken charge of the
       northwestern entrance, springing from a group of rocks in the
-      very jaws of the ravine, and throwing its graceful body, at an
+      very jaws of the ravine, and throwing its graceful [[Body|body]], at an
       angle of nearly forty-five degrees, far out into the sunshine of
       the amphitheatre. About thirty yards east of this tree stood,
-      however, the pride of the valley, and beyond all question the
+      however, the [[Pride|pride]] of the valley, and beyond all question the
       most magnificent tree I have ever seen, unless, perhaps, among
       the cypresses of the Itchiatuckanee. It was a triple-stemmed
-      tulip-tree—the Liriodendron Tulipiferum—one of the natural order
+      tulip-tree—the Liriodendron Tulipiferum—one of the [[Natural Order|natural order]]
       of magnolias. Its three trunks separated from the parent at about
       three feet from the soil, and diverging very slightly and
       gradually, were not more than four feet apart at the point where
       the largest stem shot out into foliage: this was at an elevation
       of about eighty feet. The whole height of the principal division
-      was one hundred and twenty feet. Nothing can surpass in beauty
-      the form, or the glossy, vivid green of the leaves of the
+      was one hundred and twenty feet. Nothing can surpass in [[Beauty|beauty]]
+      the form, or the glossy, vivid green of the [[Leaves|leaves]] of the
       tulip-tree. In the present instance they were fully eight inches
       wide; but their glory was altogether eclipsed by the gorgeous
       splendor of the profuse blossoms. Conceive, closely congregated,
@@ -99,9 +99,9 @@ tags:
       majestic, filled the valley with more than Arabian perfumes.
 
       The general floor of the amphitheatre was grass of the same
-      character as that I had found in the road; if anything, more
+      character as that I had found in the [[Road|road]]; if anything, more
       deliciously soft, thick, velvety, and miraculously green. It was
-      hard to conceive how all this beauty had been attained.
+      hard to conceive how all this [[Beauty|beauty]] had been attained.
 
       I have spoken of two openings into the vale. From the one to the
       northwest issued a rivulet, which came, gently murmuring and
@@ -117,7 +117,7 @@ tags:
       (although roughly oval), that lay gleaming near the lower
       extremity of the vale. This lakelet was, perhaps, a hundred yards
       in diameter at its widest part. No crystal could be clearer than
-      its waters. Its bottom, which could be distinctly seen, consisted
+      its waters. Its [[Bottom|bottom]], which could be distinctly seen, consisted
       altogether, of pebbles brilliantly white. Its banks, of the
       emerald grass already described, rounded, rather than sloped, off
       into the clear heaven below; and so clear was this heaven, so
@@ -128,12 +128,12 @@ tags:
       almost inconveniently crowded, had all the appearance of
       veritable flying-fish. It was almost impossible to believe that
       they were not absolutely suspended in the air. A light birch
-      canoe that lay placidly on the water, was reflected in its
+      canoe that lay placidly on the [[Water|water]], was reflected in its
       minutest fibres with a fidelity unsurpassed by the most
-      exquisitely polished mirror. A small island, fairly laughing with
-      flowers in full bloom, and affording little more space than just
+      exquisitely polished [[Mirror|mirror]]. A small island, fairly laughing with
+      [[Flowers|flowers]] in full bloom, and affording little more space than just
       enough for a picturesque little building, seemingly a
-      fowl-house—arose from the lake not far from its northern shore—to
+      fowl-[[house]]—arose from the lake not far from its northern shore—to
       which it was connected by means of an inconceivably light-looking
       and yet very primitive bridge. It was formed of a single, broad
       and thick plank of the tulip wood. This was forty feet long, and

@@ -15,26 +15,26 @@ tags:
 
 
     "He is either himsell a devil frae hell,
-    Or else his mother a witch maun be;
-    I wadna have ridden that wan water
+    Or else his mother a [[Witch|witch]] maun be;
+    I wadna have ridden that wan [[Water|water]]
     For a' the gowd in Christentie,"
 
 is quite as pleasing to the ear in its own way as
 
     "There's a bower of roses by Bendemeer stream,
-    And the nightingale sings in it all the night long,"
+    And the [[Nightingale|nightingale]] sings in it all the [[Night|night]] long,"
 
 is in another way. Browning had an unrivalled ear for this particular
 kind of staccato music. The absurd notion that he had no sense of
 melody in verse is only possible to people who think that there is no
-melody in verse which is not an imitation of Swinburne. To give a
+melody in verse which is not an [[Imitation|imitation]] of Swinburne. To give a
 satisfactory idea of Browning's rhythmic originality would be
 impossible without quotations more copious than entertaining. But the
 essential point has been suggested.
 
     "They were purple of raiment and golden,
     Filled full of thee, fiery with wine,
-    Thy lovers in haunts unbeholden,
+    Thy [[lovers]] in haunts unbeholden,
     In marvellous chambers of thine,"
 
 is beautiful language, but not the only sort of beautiful language.
@@ -43,13 +43,13 @@ This, for instance, has also a tune in it--
     "I--'next poet.' No, my hearties,
     I nor am, nor fain would be!
     Choose your chiefs and pick your parties,
-    Not one soul revolt to me!
+    Not one [[Soul|soul]] revolt to me!
            *       *       *       *       *
     Which of you did I enable
     Once to slip inside my breast,
     There to catalogue and label
-    What I like least, what love best,
-    Hope and fear, believe and doubt of,
+    What I like least, what [[Love|love]] best,
+    [[Hope]] and [[Fear|fear]], believe and [[Doubt|doubt]] of,
     Seek and shun, respect, deride,
     Who has right to make a rout of
     Rarities he found inside?"
@@ -65,7 +65,7 @@ instance, that a really lofty and lucid line of Tennyson, such as--
 
     "Thou art the highest, and most human too"
 and
-    "We needs must love the highest when we see it"
+    "We needs must [[Love|love]] the highest when we see it"
 
 would really be made the worse for being translated into Browning. It
 would probably become
@@ -73,7 +73,7 @@ would probably become
     "High's human; man loves best, best visible,"
 
 and would lose its peculiar clarity and dignity and courtly plainness.
-But it is quite equally true that any really characteristic fragment
+But it is quite equally true that any really characteristic [[Fragment|fragment]]
 of Browning, if it were only the tempestuous scolding of the organist
 in "Master Hugues of Saxe-Gotha"--
 
@@ -83,7 +83,7 @@ in "Master Hugues of Saxe-Gotha"--
     Sweeping the church up for first morning-prayers,
     And find a poor devil has ended his cares
     At the foot of your rotten-runged rat-riddled stairs?
-    Do I carry the moon in my pocket?"
+    Do I carry the [[Moon|moon]] in my pocket?"
 
 --it is quite equally true that this outrageous gallop of rhymes
 ending with a frantic astronomical image would lose in energy and
@@ -98,12 +98,12 @@ ran--
 Is it not obvious that this statelier version might be excellent
 poetry of its kind, and yet would be bad exactly in so far as it was
 good; that it would lose all the swing, the rush, the energy of the
-preposterous and grotesque original? In fact, we may see how
+preposterous and [[Grotesque|grotesque]] original? In fact, we may see how
 unmanageable is this classical treatment of the essentially absurd in
 Tennyson himself. The humorous passages in _The Princess_, though
 often really humorous in themselves, always appear forced and feeble
 because they have to be restrained by a certain metrical dignity, and
-the mere idea of such restraint is incompatible with humour. If
+the mere idea of such restraint is incompatible with [[Humour|humour]]. If
 Browning had written the passage which opens _The Princess_,
 descriptive of the "larking" of the villagers in the magnate's park,
 he would have spared us nothing; he would not have spared us the
@@ -111,15 +111,15 @@ shrill uneducated voices and the unburied bottles of ginger beer. He
 would have crammed the poem with uncouth similes; he would have
 changed the metre a hundred times; he would have broken into doggerel
 and into rhapsody; but he would have left, when all is said and done,
-as he leaves in that paltry fragment of the grumbling organist, the
+as he [[Leaves|leaves]] in that paltry [[Fragment|fragment]] of the grumbling organist, the
 impression of a certain eternal human energy. Energy and joy, the
-father and the mother of the grotesque, would have ruled the poem. We
+father and the mother of the [[Grotesque|grotesque]], would have ruled the poem. We
 should have felt of that rowdy gathering little but the sensation of
 which Mr. Henley writes--
 
     "Praise the generous gods for giving,
     In this world of sin and strife,
-    With some little time for living,
+    With some little [[Time|time]] for living,
     Unto each the joy of life,"
 
 the thought that every wise man has when looking at a Bank Holiday
@@ -128,34 +128,34 @@ crowd at Margate.
 To ask why Browning enjoyed this perverse and fantastic style most
 would be to go very deep into his spirit indeed, probably a great
 deal deeper than it is possible to go. But it is worth while to
-suggest tentatively the general function of the grotesque in art
+suggest tentatively the general function of the [[Grotesque|grotesque]] in art
 generally and in his art in particular. There is one very curious idea
 into which we have been hypnotised by the more eloquent poets, and
-that is that nature in the sense of what is ordinarily called the
+that is that [[Nature|nature]] in the sense of what is ordinarily called the
 country is a thing entirely stately and beautiful as those terms are
 commonly understood. The whole world of the fantastic, all things
 top-heavy, lop-sided, and nonsensical are conceived as the work of
-man, gargoyles, German jugs, Chinese pots, political caricatures,
+man, [[gargoyles]], German jugs, Chinese pots, political caricatures,
 burlesque epics, the pictures of Mr. Aubrey Beardsley and the puns of
-Robert Browning. But in truth a part, and a very large part, of the
-sanity and power of nature lies in the fact that out of her comes all
-this instinct of caricature. Nature may present itself to the poet too
-often as consisting of stars and lilies; but these are not poets who
+Robert Browning. But in [[Truth|truth]] a part, and a very large part, of the
+[[Sanity|sanity]] and power of [[Nature|nature]] lies in the fact that out of her comes all
+this instinct of caricature. [[Nature]] may present itself to the poet too
+often as consisting of [[Stars|stars]] and lilies; but these are not poets who
 live in the country; they are men who go to the country for
 inspiration and could no more live in the country than they could go
-to bed in Westminster Abbey. Men who live in the heart of nature,
-farmers and peasants, know that nature means cows and pigs, and
-creatures more humorous than can be found in a whole sketch-book of
-Callot. And the element of the grotesque in art, like the element of
-the grotesque in nature, means, in the main, energy, the energy which
+to bed in Westminster Abbey. Men who live in the heart of [[Nature|nature]],
+farmers and peasants, know that [[Nature|nature]] means cows and pigs, and
+creatures more humorous than can be found in a whole [[Sketch|sketch]]-book of
+Callot. And the element of the [[Grotesque|grotesque]] in art, like the element of
+the [[Grotesque|grotesque]] in [[Nature|nature]], means, in the main, energy, the energy which
 takes its own forms and goes its own way. Browning's verse, in so far
-as it is grotesque, is not complex or artificial; it is natural and in
-the legitimate tradition of nature. The verse sprawls like the trees,
-dances like the dust; it is ragged like the thunder-cloud, it is
+as it is [[Grotesque|grotesque]], is not complex or artificial; it is natural and in
+the legitimate tradition of [[Nature|nature]]. The verse sprawls like the trees,
+dances like the [[Dust|dust]]; it is ragged like the thunder-cloud, it is
 top-heavy like the toadstool. Energy which disregards the standard of
-classical art is in nature as it is in Browning. The same sense of the
+classical art is in [[Nature|nature]] as it is in Browning. The same sense of the
 uproarious force in things which makes Browning dwell on the oddity of
 a fungus or a jellyfish makes him dwell on the oddity of a
 philosophical idea. Here, for example, we have a random instance from
-"The Englishman in Italy" of the way in which Browning, when he was
-most Browning, regarded physical nature.
+"The Englishman in [[Italy]]" of the way in which Browning, when he was
+most Browning, regarded physical [[Nature|nature]].

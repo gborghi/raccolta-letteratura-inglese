@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 30"
+title: "[[Jane Eyre]] — Chapter 30"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -17,21 +17,21 @@ tags:
 CHAPTER XXX
 
 
-The more I knew of the inmates of Moor House, the better I liked them.
+The more I knew of the inmates of Moor [[house|House]], the better I liked them.
 In a few days I had so far recovered my health that I could sit up all
-day, and walk out sometimes. I could join with Diana and Mary in all
+day, and walk out sometimes. I could join with [[Diana]] and Mary in all
 their occupations; converse with them as much as they wished, and aid
 them when and where they would allow me. There was a reviving pleasure
-in this intercourse, of a kind now tasted by me for the first time—the
+in this intercourse, of a kind now tasted by me for the first [[Time|time]]—the
 pleasure arising from perfect congeniality of tastes, sentiments, and
 principles.
 
 I liked to read what they liked to read: what they enjoyed, delighted
 me; what they approved, I reverenced. They loved their sequestered
-home. I, too, in the grey, small, antique structure, with its low roof,
+[[Home|home]]. I, too, in the grey, small, antique structure, with its low roof,
 its latticed casements, its mouldering walls, its avenue of aged
-firs—all grown aslant under the stress of mountain winds; its garden,
-dark with yew and holly—and where no flowers but of the hardiest
+firs—all grown aslant under the stress of mountain winds; its [[Garden|garden]],
+dark with yew and holly—and where no [[Flowers|flowers]] but of the hardiest
 species would bloom—found a charm both potent and permanent. They clung
 to the purple moors behind and around their dwelling—to the hollow vale
 into which the pebbly bridle-path leading from their gate descended,
@@ -40,33 +40,33 @@ wildest little pasture-fields that ever bordered a wilderness of heath,
 or gave sustenance to a flock of grey moorland sheep, with their little
 mossy-faced lambs:—they clung to this scene, I say, with a perfect
 enthusiasm of attachment. I could comprehend the feeling, and share
-both its strength and truth. I saw the fascination of the locality. I
-felt the consecration of its loneliness: my eye feasted on the outline
+both its strength and [[Truth|truth]]. I saw the fascination of the locality. I
+felt the consecration of its [[Loneliness|loneliness]]: my eye feasted on the outline
 of swell and sweep—on the wild colouring communicated to ridge and dell
 by moss, by heath-bell, by flower-sprinkled turf, by brilliant bracken,
 and mellow granite crag. These details were just to me what they were
 to them—so many pure and sweet sources of pleasure. The strong blast
 and the soft breeze; the rough and the halcyon day; the hours of
-sunrise and sunset; the moonlight and the clouded night, developed for
+sunrise and sunset; the moonlight and the clouded [[Night|night]], developed for
 me, in these regions, the same attraction as for them—wound round my
 faculties the same spell that entranced theirs.
 
-Indoors we agreed equally well. They were both more accomplished and
+Indoors we agreed equally [[Well|well]]. They were both more accomplished and
 better read than I was; but with eagerness I followed in the path of
 knowledge they had trodden before me. I devoured the books they lent
 me: then it was full satisfaction to discuss with them in the evening
 what I had perused during the day. Thought fitted thought; opinion met
 opinion: we coincided, in short, perfectly.
 
-If in our trio there was a superior and a leader, it was Diana.
+If in our trio there was a superior and a leader, it was [[Diana]].
 Physically, she far excelled me: she was handsome; she was vigorous. In
 her animal spirits there was an affluence of life and certainty of
-flow, such as excited my wonder, while it baffled my comprehension. I
+flow, such as excited my [[Wonder|wonder]], while it baffled my comprehension. I
 could talk a while when the evening commenced, but the first gush of
-vivacity and fluency gone, I was fain to sit on a stool at Diana’s
+vivacity and fluency gone, I was fain to sit on a stool at [[Diana]]’s
 feet, to rest my head on her knee, and listen alternately to her and
 Mary, while they sounded thoroughly the topic on which I had but
-touched. Diana offered to teach me German. I liked to learn of her: I
+touched. [[Diana]] offered to teach me German. I liked to learn of her: I
 saw the part of instructress pleased and suited her; that of scholar
 pleased and suited me no less. Our natures dovetailed: mutual
 affection—of the strongest kind—was the result. They discovered I could
@@ -80,47 +80,47 @@ like days.
 As to Mr. St John, the intimacy which had arisen so naturally and
 rapidly between me and his sisters did not extend to him. One reason of
 the distance yet observed between us was, that he was comparatively
-seldom at home: a large proportion of his time appeared devoted to
+seldom at [[Home|home]]: a large proportion of his [[Time|time]] appeared devoted to
 visiting the sick and poor among the scattered population of his
 parish.
 
-No weather seemed to hinder him in these pastoral excursions: rain or
+No weather seemed to hinder him in these [[Pastoral|pastoral]] excursions: rain or
 fair, he would, when his hours of morning study were over, take his
 hat, and, followed by his father’s old pointer, Carlo, go out on his
-mission of love or duty—I scarcely know in which light he regarded it.
+mission of [[Love|love]] or duty—I scarcely know in which light he regarded it.
 Sometimes, when the day was very unfavourable, his sisters would
 expostulate. He would then say, with a peculiar smile, more solemn than
 cheerful—
 
-“And if I let a gust of wind or a sprinkling of rain turn me aside from
+“And if I let a gust of [[Wind|wind]] or a sprinkling of rain turn me aside from
 these easy tasks, what preparation would such sloth be for the future I
 propose to myself?”
 
-Diana and Mary’s general answer to this question was a sigh, and some
+[[Diana]] and Mary’s general answer to this question was a sigh, and some
 minutes of apparently mournful meditation.
 
 But besides his frequent absences, there was another barrier to
-friendship with him: he seemed of a reserved, an abstracted, and even
-of a brooding nature. Zealous in his ministerial labours, blameless in
+[[Friendship|friendship]] with him: he seemed of a reserved, an abstracted, and even
+of a brooding [[Nature|nature]]. Zealous in his ministerial labours, blameless in
 his life and habits, he yet did not appear to enjoy that mental
 serenity, that inward content, which should be the reward of every
 sincere Christian and practical philanthropist. Often, of an evening,
-when he sat at the window, his desk and papers before him, he would
+when he sat at the [[Window|window]], his desk and papers before him, he would
 cease reading or writing, rest his chin on his hand, and deliver
 himself up to I know not what course of thought; but that it was
 perturbed and exciting might be seen in the frequent flash and
 changeful dilation of his eye.
 
-I think, moreover, that Nature was not to him that treasury of delight
+I think, moreover, that [[Nature]] was not to him that treasury of delight
 it was to his sisters. He expressed once, and but once in my hearing, a
 strong sense of the rugged charm of the hills, and an inborn affection
-for the dark roof and hoary walls he called his home; but there was
+for the dark roof and hoary walls he called his [[Home|home]]; but there was
 more of gloom than pleasure in the tone and words in which the
 sentiment was manifested; and never did he seem to roam the moors for
-the sake of their soothing silence—never seek out or dwell upon the
+the sake of their soothing [[Silence|silence]]—never seek out or dwell upon the
 thousand peaceful delights they could yield.
 
-Incommunicative as he was, some time elapsed before I had an
+Incommunicative as he was, some [[Time|time]] elapsed before I had an
 opportunity of gauging his mind. I first got an idea of its calibre
 when I heard him preach in his own church at Morton. I wish I could
 describe that sermon: but it is past my power. I cannot even render
@@ -147,9 +147,9 @@ it, I thought, than had I with my concealed and racking regrets for my
 broken idol and lost elysium—regrets to which I have latterly avoided
 referring, but which possessed me and tyrannised over me ruthlessly.
 
-Meantime a month was gone. Diana and Mary were soon to leave Moor
-House, and return to the far different life and scene which awaited
-them, as governesses in a large, fashionable, south-of-England city,
+Meantime a month was gone. [[Diana]] and Mary were soon to leave Moor
+[[house|House]], and return to the far different life and scene which awaited
+them, as governesses in a large, fashionable, south-of-England [[City|city]],
 where each held a situation in families by whose wealthy and haughty
 members they were regarded only as humble dependents, and who neither
 knew nor sought out their innate excellences, and appreciated only
@@ -157,9 +157,9 @@ their acquired accomplishments as they appreciated the skill of their
 cook or the taste of their waiting-woman. Mr. St. John had said nothing
 to me yet about the employment he had promised to obtain for me; yet it
 became urgent that I should have a vocation of some kind. One morning,
-being left alone with him a few minutes in the parlour, I ventured to
-approach the window-recess—which his table, chair, and desk consecrated
-as a kind of study—and I was going to speak, though not very well
+being left [[Alone|alone]] with him a few minutes in the parlour, I ventured to
+approach the [[Window|window]]-recess—which his table, chair, and desk consecrated
+as a kind of study—and I was going to speak, though not very [[Well|well]]
 knowing in what words to frame my inquiry—for it is at all times
 difficult to break the ice of reserve glassing over such natures as
 his—when he saved me the trouble by being the first to commence a
@@ -179,7 +179,7 @@ approaching departure from Marsh End should render yours necessary.”
 “And they will go in three days now?” I said.
 
 “Yes; and when they go, I shall return to the parsonage at Morton:
-Hannah will accompany me; and this old house will be shut up.”
+Hannah will accompany me; and this old [[house]] will be shut up.”
 
 I waited a few moments, expecting he would go on with the subject first
 broached: but he seemed to have entered another train of reflection:
@@ -187,7 +187,7 @@ his look denoted abstraction from me and my business. I was obliged to
 recall him to a theme which was of necessity one of close and anxious
 interest to me.
 
-“What is the employment you had in view, Mr. Rivers? I hope this delay
+“What is the employment you had in view, Mr. Rivers? I [[Hope|hope]] this delay
 will not have increased the difficulty of securing it.”
 
 “Oh, no; since it is an employment which depends only on me to give,
@@ -208,9 +208,9 @@ and the patch of moorish soil, with the yew-trees and holly-bushes in
 front. I am obscure: Rivers is an old name; but of the three sole
 descendants of the race, two earn the dependent’s crust among
 strangers, and the third considers himself an alien from his native
-country—not only for life, but in death. Yes, and deems, and is bound
+country—not only for life, but in [[Death|death]]. Yes, and deems, and is bound
 to deem, himself honoured by the lot, and aspires but after the day
-when the cross of separation from fleshly ties shall be laid on his
+when the [[Cross|cross]] of separation from fleshly ties shall be laid on his
 shoulders, and when the Head of that church-militant of whose humblest
 members he is one, shall give the word, ‘Rise, follow Me!’”
 
@@ -219,18 +219,18 @@ deep voice; with an unflushed cheek, and a coruscating radiance of
 glance. He resumed—
 
 “And since I am myself poor and obscure, I can offer you but a service
-of poverty and obscurity. _You_ may even think it degrading—for I see
+of [[Poverty|poverty]] and obscurity. _You_ may even think it degrading—for I see
 now your habits have been what the world calls refined: your tastes
 lean to the ideal, and your society has at least been amongst the
 educated; but _I_ consider that no service degrades which can better
 our race. I hold that the more arid and unreclaimed the soil where the
 Christian labourer’s task of tillage is appointed him—the scantier the
-meed his toil brings—the higher the honour. His, under such
+meed his toil brings—the higher the [[Honour|honour]]. His, under such
 circumstances, is the destiny of the pioneer; and the first pioneers of
 the Gospel were the Apostles—their captain was Jesus, the Redeemer,
 Himself.”
 
-“Well?” I said, as he again paused—“proceed.”
+“[[Well]]?” I said, as he again paused—“proceed.”
 
 He looked at me before he proceeded: indeed, he seemed leisurely to
 read my face, as if its features and lines were characters on a page.
@@ -240,7 +240,7 @@ succeeding observations.
 “I believe you will accept the post I offer you,” said he, “and hold it
 for a while: not permanently, though: any more than I could permanently
 keep the narrow and narrowing—the tranquil, hidden office of English
-country incumbent; for in your nature is an alloy as detrimental to
+country incumbent; for in your [[Nature|nature]] is an alloy as detrimental to
 repose as that in mine, though of a different kind.”
 
 “Do explain,” I urged, when he halted once more.
@@ -251,26 +251,26 @@ and that I am my own master. I shall leave the place probably in the
 course of a twelve-month; but while I do stay, I will exert myself to
 the utmost for its improvement. Morton, when I came to it two years
 ago, had no school: the children of the poor were excluded from every
-hope of progress. I established one for boys: I mean now to open a
+[[Hope|hope]] of progress. I established one for boys: I mean now to open a
 second school for girls. I have hired a building for the purpose, with
-a cottage of two rooms attached to it for the mistress’s house. Her
-salary will be thirty pounds a year: her house is already furnished,
-very simply, but sufficiently, by the kindness of a lady, Miss Oliver;
-the only daughter of the sole rich man in my parish—Mr. Oliver, the
+a cottage of two rooms attached to it for the mistress’s [[house]]. Her
+salary will be thirty pounds a year: her [[house]] is already furnished,
+very simply, but sufficiently, by the kindness of a lady, Miss [[Oliver]];
+the only daughter of the sole rich man in my parish—Mr. [[Oliver]], the
 proprietor of a needle-factory and iron-foundry in the valley. The same
-lady pays for the education and clothing of an orphan from the
+lady pays for the [[Education|education]] and clothing of an [[Orphan|orphan]] from the
 workhouse, on condition that she shall aid the mistress in such menial
-offices connected with her own house and the school as her occupation
-of teaching will prevent her having time to discharge in person. Will
+offices connected with her own [[house]] and the school as her occupation
+of teaching will prevent her having [[Time|time]] to discharge in person. Will
 you be this mistress?”
 
 He put the question rather hurriedly; he seemed half to expect an
 indignant, or at least a disdainful rejection of the offer: not knowing
 all my thoughts and feelings, though guessing some, he could not tell
-in what light the lot would appear to me. In truth it was humble—but
+in what light the lot would appear to me. In [[Truth|truth]] it was humble—but
 then it was sheltered, and I wanted a safe asylum: it was plodding—but
-then, compared with that of a governess in a rich house, it was
-independent; and the fear of servitude with strangers entered my soul
+then, compared with that of a governess in a rich [[house]], it was
+independent; and the [[Fear|fear]] of servitude with strangers entered my [[Soul|soul]]
 like iron: it was not ignoble—not unworthy—not mentally degrading, I
 made my decision.
 
@@ -290,17 +290,17 @@ mind—sentiments—tastes?”
 
 “I do.”
 
-He now smiled: and not a bitter or a sad smile, but one well pleased
+He now smiled: and not a bitter or a sad smile, but one [[Well|well]] pleased
 and deeply gratified.
 
 “And when will you commence the exercise of your function?”
 
-“I will go to my house to-morrow, and open the school, if you like,
+“I will go to my [[house]] to-morrow, and open the school, if you like,
 next week.”
 
-“Very well: so be it.”
+“Very [[Well|well]]: so be it.”
 
-He rose and walked through the room. Standing still, he again looked at
+He [[Rose|rose]] and walked through the room. Standing still, he again looked at
 me. He shook his head.
 
 “What do you disapprove of, Mr. Rivers?” I asked.
@@ -315,36 +315,36 @@ the maintenance of an even tenor in life.”
 “I am not ambitious.”
 
 He started at the word “ambitious.” He repeated, “No. What made you
-think of ambition? Who is ambitious? I know I am: but how did you find
+think of [[Ambition|ambition]]? Who is ambitious? I know I am: but how did you find
 it out?”
 
 “I was speaking of myself.”
 
-“Well, if you are not ambitious, you are—” He paused.
+“[[Well]], if you are not ambitious, you are—” He paused.
 
 “What?”
 
 “I was going to say, impassioned: but perhaps you would have
 misunderstood the word, and been displeased. I mean, that human
 affections and sympathies have a most powerful hold on you. I am sure
-you cannot long be content to pass your leisure in solitude, and to
+you cannot long be content to pass your leisure in [[Solitude|solitude]], and to
 devote your working hours to a monotonous labour wholly void of
 stimulus: any more than I can be content,” he added, with emphasis, “to
-live here buried in morass, pent in with mountains—my nature, that God
+live here buried in morass, pent in with [[Mountains|mountains]]—my [[Nature|nature]], that God
 gave me, contravened; my faculties, heaven-bestowed, paralysed—made
 useless. You hear now how I contradict myself. I, who preached
 contentment with a humble lot, and justified the vocation even of
-hewers of wood and drawers of water in God’s service—I, His ordained
-minister, almost rave in my restlessness. Well, propensities and
+hewers of wood and drawers of [[Water|water]] in God’s service—I, His ordained
+minister, almost rave in my restlessness. [[Well]], propensities and
 principles must be reconciled by some means.”
 
 He left the room. In this brief hour I had learnt more of him than in
 the whole previous month: yet still he puzzled me.
 
-Diana and Mary Rivers became more sad and silent as the day approached
-for leaving their brother and their home. They both tried to appear as
+[[Diana]] and Mary Rivers became more sad and silent as the day approached
+for leaving their brother and their [[Home|home]]. They both tried to appear as
 usual; but the sorrow they had to struggle against was one that could
-not be entirely conquered or concealed. Diana intimated that this would
+not be entirely conquered or concealed. [[Diana]] intimated that this would
 be a different parting from any they had ever yet known. It would
 probably, as far as St. John was concerned, be a parting for years: it
 might be a parting for life.
@@ -352,19 +352,19 @@ might be a parting for life.
 “He will sacrifice all to his long-framed resolves,” she said: “natural
 affection and feelings more potent still. St. John looks quiet, Jane;
 but he hides a fever in his vitals. You would think him gentle, yet in
-some things he is inexorable as death; and the worst of it is, my
-conscience will hardly permit me to dissuade him from his severe
+some things he is inexorable as [[Death|death]]; and the worst of it is, my
+[[Conscience|conscience]] will hardly permit me to dissuade him from his severe
 decision: certainly, I cannot for a moment blame him for it. It is
-right, noble, Christian: yet it breaks my heart!” And the tears gushed
+right, noble, Christian: yet it breaks my heart!” And the [[Tears|tears]] gushed
 to her fine eyes. Mary bent her head low over her work.
 
-“We are now without father: we shall soon be without home and brother,”
+“We are now without father: we shall soon be without [[Home|home]] and brother,”
 she murmured.
 
 At that moment a little accident supervened, which seemed decreed by
-fate purposely to prove the truth of the adage, that “misfortunes never
+fate purposely to prove the [[Truth|truth]] of the adage, that “misfortunes never
 come singly,” and to add to their distresses the vexing one of the slip
-between the cup and the lip. St. John passed the window reading a
+between the cup and the lip. St. John passed the [[Window|window]] reading a
 letter. He entered.
 
 “Our uncle John is dead,” said he.
@@ -372,7 +372,7 @@ letter. He entered.
 Both the sisters seemed struck: not shocked or appalled; the tidings
 appeared in their eyes rather momentous than afflicting.
 
-“Dead?” repeated Diana.
+“Dead?” repeated [[Diana]].
 
 “Yes.”
 
@@ -383,11 +383,11 @@ she demanded, in a low voice.
 feature. “What then? Why—nothing. Read.”
 
 He threw the letter into her lap. She glanced over it, and handed it to
-Mary. Mary perused it in silence, and returned it to her brother. All
+Mary. Mary perused it in [[Silence|silence]], and returned it to her brother. All
 three looked at each other, and all three smiled—a dreary, pensive
 smile enough.
 
-“Amen! We can yet live,” said Diana at last.
+“Amen! We can yet live,” said [[Diana]] at last.
 
 “At any rate, it makes us no worse off than we were before,” remarked
 Mary.
@@ -398,10 +398,10 @@ with what _is_.”
 
 He folded the letter, locked it in his desk, and again went out.
 
-For some minutes no one spoke. Diana then turned to me.
+For some minutes no one spoke. [[Diana]] then turned to me.
 
-“Jane, you will wonder at us and our mysteries,” she said, “and think
-us hard-hearted beings not to be more moved at the death of so near a
+“Jane, you will [[Wonder|wonder]] at us and our mysteries,” she said, “and think
+us hard-hearted beings not to be more moved at the [[Death|death]] of so near a
 relation as an uncle; but we have never seen him or known him. He was
 my mother’s brother. My father and he quarrelled long ago. It was by
 his advice that my father risked most of his property in the
@@ -414,7 +414,7 @@ related than we. My father always cherished the idea that he would
 atone for his error by leaving his possessions to us; that letter
 informs us that he has bequeathed every penny to the other relation,
 with the exception of thirty guineas, to be divided between St. John,
-Diana, and Mary Rivers, for the purchase of three mourning rings. He
+[[Diana]], and Mary Rivers, for the purchase of three mourning rings. He
 had a right, of course, to do as he pleased: and yet a momentary damp
 is cast on the spirits by the receipt of such news. Mary and I would
 have esteemed ourselves rich with a thousand pounds each; and to St.
@@ -423,6 +423,6 @@ enabled him to do.”
 
 This explanation given, the subject was dropped, and no further
 reference made to it by either Mr. Rivers or his sisters. The next day
-I left Marsh End for Morton. The day after, Diana and Mary quitted it
+I left Marsh End for Morton. The day after, [[Diana]] and Mary quitted it
 for distant B——. In a week, Mr. Rivers and Hannah repaired to the
 parsonage: and so the old grange was abandoned.

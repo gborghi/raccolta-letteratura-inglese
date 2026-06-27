@@ -22,7 +22,7 @@ tags:
 
       more than one wave broke over the hulk from windward in the
 
-      course of five minutes, and the wind had abated a great deal,
+      course of five minutes, and the [[Wind|wind]] had abated a great deal,
 
       although still blowing a severe gale. I had not heard any of my
 
@@ -40,7 +40,7 @@ tags:
 
       insensibility, during which the most pleasing images floated in
 
-      my imagination; such as green trees, waving meadows of ripe
+      my [[Imagination|imagination]]; such as green trees, waving meadows of ripe
 
       grain, processions of dancing girls, troops of cavalry, and other
 
@@ -48,9 +48,9 @@ tags:
 
       mind’s eye, motion was a predominant idea. Thus, I never fancied
 
-      any stationary object, such as a house, a mountain, or any thing
+      any stationary object, such as a [[house]], a mountain, or any thing
 
-      of that kind; but windmills, ships, large birds, balloons, people
+      of that kind; but windmills, ships, large [[Birds|birds]], balloons, people
 
       on horseback, carriages driving furiously, and similar moving
 
@@ -62,9 +62,9 @@ tags:
 
       recollection the various circumstances connected with my
 
-      situation, and for some time remained firmly convinced that I was
+      situation, and for some [[Time|time]] remained firmly convinced that I was
 
-      still in the hold of the brig, near the box, and that the body of
+      still in the hold of the brig, near the box, and that the [[Body|body]] of
 
       Parker was that of Tiger.
 
@@ -72,7 +72,7 @@ tags:
 
       When I at length completely came to my senses, I found that the
 
-      wind blew no more than a moderate breeze, and that the sea was
+      [[Wind|wind]] blew no more than a moderate breeze, and that the sea was
 
       comparatively calm; so much so that it only washed over the brig
 
@@ -84,7 +84,7 @@ tags:
 
       rope, which had worked from the shoulder downward. I was also in
 
-      great pain from another rope which went about my waist, and had
+      great [[Pain|pain]] from another rope which went about my waist, and had
 
       been drawn to an insufferable degree of tightness. Looking round
 
@@ -98,7 +98,7 @@ tags:
 
       Augustus gave no indication of life whatever, and was bent nearly
 
-      double across a splinter of the windlass. Parker spoke to me when
+      [[Double|double]] across a splinter of the windlass. Parker spoke to me when
 
       he saw me moving, and asked me if I had not sufficient strength
 
@@ -108,7 +108,7 @@ tags:
 
       save our lives; but that otherwise we must all perish. I told him
 
-      to take courage, and I would endeavor to free him. Feeling in my
+      to take [[Courage|courage]], and I would endeavor to free him. Feeling in my
 
       pantaloons’ pocket, I got hold of my penknife, and, after several
 
@@ -126,7 +126,7 @@ tags:
 
       advised me to lie quiet for a few minutes, holding on to the
 
-      windlass with my left hand, so as to allow time for the blood to
+      windlass with my left hand, so as to allow [[Time|time]] for the [[Blood|blood]] to
 
       circulate. Doing this, the numbness presently began to die away
 
@@ -140,13 +140,13 @@ tags:
 
       him, when, after a short delay, he also recovered the partial use
 
-      of his limbs. We now lost no time in getting loose the rope from
+      of his limbs. We now lost no [[Time|time]] in getting loose the rope from
 
       Peters. It had cut a deep gash through the waistband of his
 
       woollen pantaloons, and through two shirts, and made its way into
 
-      his groin, from which the blood flowed out copiously as we
+      his groin, from which the [[Blood|blood]] flowed out copiously as we
 
       removed the cordage. No sooner had we removed it, however, than
 
@@ -154,7 +154,7 @@ tags:
 
       move with much greater ease than either Parker or myself—this was
 
-      no doubt owing to the discharge of blood.
+      no [[Doubt|doubt]] owing to the discharge of [[Blood|blood]].
 
 
 
@@ -162,19 +162,19 @@ tags:
 
       signs of life; but, upon getting to him, we discovered that he
 
-      had merely swooned from the loss of blood, the bandages we had
+      had merely swooned from the loss of [[Blood|blood]], the bandages we had
 
-      placed around his wounded arm having been torn off by the water;
+      placed around his wounded arm having been torn off by the [[Water|water]];
 
       none of the ropes which held him to the windlass were drawn
 
-      sufficiently tight to occasion his death. Having relieved him
+      sufficiently tight to occasion his [[Death|death]]. Having relieved him
 
       from the fastenings, and got him clear of the broken wood about
 
       the windlass, we secured him in a dry place to windward, with his
 
-      head somewhat lower than his body, and all three of us busied
+      head somewhat lower than his [[Body|body]], and all three of us busied
 
       ourselves in chafing his limbs. In about half an hour he came to
 
@@ -182,7 +182,7 @@ tags:
 
       signs of recognizing any of us, or had sufficient strength to
 
-      speak. By the time we had thus got clear of our lashings it was
+      speak. By the [[Time|time]] we had thus got clear of our lashings it was
 
       quite dark, and it began to cloud up, so that we were again in
 
@@ -192,6 +192,6 @@ tags:
 
       were. By good fortune it continued very moderate during the
 
-      night, the sea subsiding every minute, which gave us great hopes
+      [[Night|night]], the sea subsiding every minute, which gave us great hopes
 
       of ultimate preservation. A gentle breeze still blew from the N.

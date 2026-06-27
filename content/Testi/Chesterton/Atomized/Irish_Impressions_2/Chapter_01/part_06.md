@@ -22,16 +22,16 @@ that the British Empire is both more liberal and more lasting
 than the Austrian Empire, or other large political combinations.
 But a combination like the Austrian Empire could go to pieces, and ten
 such combinations could go to pieces, before people like the Serbians
-ceased to desire to be peasants, and to demand to be free peasants.
+ceased to [[Desire|desire]] to be peasants, and to demand to be free peasants.
 And the British combination, precisely because it is a combination
-and not a community, is in its nature more lax and liable to real schism
+and not a community, is in its [[Nature|nature]] more lax and liable to real schism
 than this sort of community, which might almost be called a communion.
 Any attack on it is like an attempt to abolish grass; which is not
-only the symbol of it in the old national song, but it is a very true
-symbol of it in any new philosophic history; a symbol of its equality,
+only the symbol of it in the old national [[Song|song]], but it is a very true
+symbol of it in any new philosophic [[history]]; a symbol of its equality,
 its ubiquity, its multiplicity, and its mighty power to return.
 To fight against grass is to fight against God; we can only so mismanage
-our own city and our own citizenship that the grass grows in our
+our own [[City|city]] and our own citizenship that the grass grows in our
 own streets.  And even then it is our streets that will be dead;
 and the grass will still be alive.
 
@@ -39,11 +39,11 @@ and the grass will still be alive.
 
 _III--The Family and the Feud_
 
-THERE was an old joke of my childhood, to the effect that men
+THERE was an old joke of my [[Childhood|childhood]], to the effect that men
 might be grouped together with reference to their Christian names.
 I have forgotten the cases then under consideration; but contemporary
 examples would be sufficiently suggestive to-day. A ceremonial
-brotherhood-in-arms between Father Bernard Vaughan and Mr. Bernard Shaw
+brotherhood-in-arms between Father Bernard Vaughan and Mr. Bernard [[Shaw]]
 seems full of possibilities.  I am faintly pleased with the fancy
 of Mr. Arnold Bennett endeavouring to extract the larger humanities
 of fiction from the political differences of Mr. Arnold White
@@ -59,7 +59,7 @@ in the moral atmosphere of mediaevalism in some feast or pageant
 celebrating the fellowship of men who had the same patron saint.
 It seems mad and meaningless now, because the meaning of Christian
 names has been lost.  They have fallen into a kind of chaos and
-oblivion which is highly typical of our time.  I mean that there
+oblivion which is highly typical of our [[Time|time]].  I mean that there
 are still fashions in them, but no longer reasons for them.
 For a fashion is a custom without a cause.  A fashion is a custom to
 which men cannot get accustomed; simply because it is without a cause.
@@ -71,12 +71,12 @@ forgotten all that was meant by the custom of Christian names.
 We have forgotten all the original facts about a Christian name;
 but, above all, the fact that it was Christian.
 
-Now if we note this process going on in the world of London or Liverpool,
+Now if we note this process going on in the world of [[London]] or Liverpool,
 we shall see that it has already gone even farther and fared even worse.
 The surname also is losing its root and therefore its reason.
 The surname has become as solitary as a nickname.  For it might be argued
 that the first name is meant to be an individual and even isolated thing;
-but the last name is certainly meant, by all logic and history,
+but the last name is certainly meant, by all [[logic]] and [[history]],
 to link a man with his human origins, habits, or habitation.
 Historically, it was a word taken from the town he lived in or
 the trade guild to which he belonged; legally it is still the word
@@ -89,7 +89,7 @@ Any corporate social system built upon it would seem as much
 of a joke as the joke about Christian names with which I began.
 If it would seem odd to require a Thomas to make friends
 with any other Thomas, it would appear almost as perplexing
-to insist that any Thompson must love any other Thompson.
+to insist that any Thompson must [[Love|love]] any other Thompson.
 It may be that Sir Edward Henry, late of the Police Force,
 does not wish to be confined to the society of Mr. Edward Clodd.
 But would Sir Edward Henry necessarily have sought the society
@@ -109,7 +109,7 @@ In short, our Christian names are not the only Christian things
 that we may lose.
 
 Now the second solid fact which struck me in Ireland (after the
-success of small property and the _failure_ of large organisation)
+[[success]] of small property and the _failure_ of large organisation)
 was the fact that the family was in a flatly contrary position.
 All I have said above, in current language, about the whole
 trend of the modern world, is directly opposite to the whole
@@ -118,29 +118,29 @@ name a Christian name; but (what seems still more paradoxical
 and even pantomimic) the family name is really a family name.
 Touching the first of the two, it would be easy to trace out some
 very interesting truths about it, if they did not divert us from
-the main truth of this chapter:  the second great truth about Ireland.
-People contrasting the "education" of the two countries, or seeking
-to extend to the one the thing which is called education in the other,
+the main [[Truth|truth]] of this chapter:  the second great [[Truth|truth]] about Ireland.
+People contrasting the "[[Education|education]]" of the two countries, or seeking
+to extend to the one the thing which is called [[Education|education]] in the other,
 might indeed do worse than study the simple problem of the meaning
-of Christian names.  It might dawn at last, even on educationists,
-that there is a value in the content as well as the extent
+of Christian names.  It might [[Dawn|dawn]] at last, even on educationists,
+that there is a value in the content as [[Well|well]] as the extent
 of culture; or (in other words), that knowing nine hundred words
 is not always more important than knowing what some of them mean.
 It is strictly and soberly true that any peasant, in a mud cabin
-in County Clare, when he names his child Michael, may really have
-a sense of the presence that smote down Satan, the arms and plumage
-of the paladin of Paradise.  I doubt whether it is so overwhelmingly
+in County Clare, when he names his [[Child|child]] [[Michael]], may really have
+a sense of the presence that smote down [[Satan]], the arms and plumage
+of the paladin of Paradise.  I [[Doubt|doubt]] whether it is so overwhelmingly
 probable that any clerk in any villa on Clapham Common, when he names
-his son John, has a vision of the holy eagle of the Apocalypse,
+his son John, has a vision of the holy eagle of the [[Apocalypse]],
 or even of the mystical cup of the disciple whom Jesus loved.
-In the face of that simple fact, I have no doubt about which is
+In the face of that simple fact, I have no [[Doubt|doubt]] about which is
 the more educated man; and even a knowledge of the _Daily Mail_ does
 not redress the balance.  It is often said, and possibly truly,
-that the peasant named Michael cannot write his own name.
+that the peasant named [[Michael]] cannot write his own name.
 But it is quite equally true that the clerk named John cannot read
 his own name.  He cannot read it because it is in a foreign language,
 and he has never been made to realise what it stands for.
 He does not know that John means John, as the other man does know
-that Michael means Michael.  In that rigidly realistic sense,
+that [[Michael]] means [[Michael]].  In that rigidly realistic sense,
 the pupil of industrial intellectualism does not even know
 his own name.

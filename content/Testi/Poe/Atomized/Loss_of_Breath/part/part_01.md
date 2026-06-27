@@ -1,5 +1,5 @@
 ---
-title: "Loss of Breath (part 1)"
+title: "[[Loss of Breath]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Loss-of-Breath-(Poe)"
@@ -22,7 +22,7 @@ O breathe not, etc.
 
       The most notorious ill-fortune must in the end yield to the
 
-      untiring courage of philosophy—as the most stubborn city to the
+      untiring [[Courage|courage]] of [[philosophy]]—as the most stubborn [[City|city]] to the
 
       ceaseless vigilance of an enemy. Shalmanezer, as we have it in
 
@@ -32,7 +32,7 @@ O breathe not, etc.
 
       but to no purpose. Troy expired at the close of the second
 
-      lustrum; and Azoth, as Aristaeus declares upon his honour as a
+      lustrum; and Azoth, as Aristaeus declares upon his [[Honour|honour]] as a
 
       gentleman, opened at last her gates to Psammetichus, after having
 
@@ -42,7 +42,7 @@ O breathe not, etc.
 
       “Thou wretch!—thou vixen!—thou shrew!” said I to my wife on the
 
-      morning after our wedding; “thou witch!—thou hag!—thou
+      morning after our wedding; “thou [[Witch|witch]]!—thou hag!—thou
 
       whippersnapper—thou sink of iniquity!—thou fiery-faced
 
@@ -70,9 +70,9 @@ O breathe not, etc.
 
       could _bona fide_ and actually happen! Imagine—that is if you
 
-      have a fanciful turn—imagine, I say, my wonder—my
+      have a fanciful turn—imagine, I say, my [[Wonder|wonder]]—my
 
-      consternation—my despair!
+      consternation—my [[Despair|despair]]!
 
 
 
@@ -126,7 +126,7 @@ O breathe not, etc.
 
       entirely gone. I could not have stirred with it a feather if my
 
-      life had been at issue, or sullied even the delicacy of a mirror.
+      life had been at issue, or sullied even the delicacy of a [[Mirror|mirror]].
 
       Hard fate!—yet there was some alleviation to the first
 
@@ -150,23 +150,23 @@ O breathe not, etc.
 
 
 
-      Throwing myself upon a chair, I remained for some time absorbed
+      Throwing myself upon a chair, I remained for some [[Time|time]] absorbed
 
       in meditation. My reflections, be sure, were of no consolatory
 
       kind. A thousand vague and lachrymatory fancies took possession
 
-      of my soul—and even the idea of suicide flitted across my brain;
+      of my [[Soul|soul]]—and even the idea of [[suicide]] flitted across my brain;
 
-      but it is a trait in the perversity of human nature to reject the
+      but it is a trait in the perversity of human [[Nature|nature]] to reject the
 
       obvious and the ready, for the far-distant and equivocal. Thus I
 
-      shuddered at self-murder as the most decided of atrocities while
+      shuddered at [[Self|self]]-murder as the most decided of atrocities while
 
       the tabby cat purred strenuously upon the rug, and the very
 
-      water-dog wheezed assiduously under the table, each taking to
+      [[Water|water]]-dog wheezed assiduously under the table, each taking to
 
       itself much merit for the strength of its lungs, and all
 
@@ -194,7 +194,7 @@ O breathe not, etc.
 
       might even have a tangible form. Most philosophers, upon many
 
-      points of philosophy, are still very unphilosophical. William
+      points of [[philosophy]], are still very unphilosophical. William
 
       Godwin, however, says in his “Mandeville,” that “invisible things
 
@@ -204,7 +204,7 @@ O breathe not, etc.
 
       such asseverations of an undue quantum of absurdity. Anaxagoras,
 
-      it will be remembered, maintained that snow is black, and this I
+      it will be remembered, maintained that [[Snow|snow]] is black, and this I
 
       have since found to be the case.
 
@@ -216,6 +216,6 @@ O breathe not, etc.
 
       only a set of false teeth, two pair of hips, an eye, and a bundle
 
-      of billets-doux from Mr. Windenough to my wife. I might as well
+      of billets-doux from Mr. Windenough to my wife. I might as [[Well|well]]
 
       here observe that this confirmation of my lady’s partiality for

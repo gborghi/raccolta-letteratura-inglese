@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 5 (part 2)"
+title: "[[Oliver Twist]] — Chapter 5 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -14,28 +14,28 @@ tags:
 </nav>
 
 
-“Oh, you queer soul!” said Charlotte, bursting into a hearty laugh, in
+“Oh, you queer [[Soul|soul]]!” said Charlotte, bursting into a hearty laugh, in
 which she was joined by Noah; after which they both looked scornfully
-at poor Oliver Twist, as he sat shivering on the box in the coldest
+at poor [[Oliver Twist]], as he sat shivering on the box in the coldest
 corner of the room, and ate the stale pieces which had been specially
 reserved for him.
 
-Noah was a charity-boy, but not a workhouse orphan. No chance-child was
+Noah was a [[Charity|charity]]-boy, but not a workhouse [[Orphan|orphan]]. No chance-[[Child|child]] was
 he, for he could trace his genealogy all the way back to his parents,
 who lived hard by; his mother being a washerwoman, and his father a
 drunken soldier, discharged with a wooden leg, and a diurnal pension of
 twopence-halfpenny and an unstateable fraction. The shop-boys in the
 neighbourhood had long been in the habit of branding Noah in the public
-streets, with the ignominious epithets of “leathers,” “charity,” and
+streets, with the ignominious epithets of “leathers,” “[[Charity|charity]],” and
 the like; and Noah had borne them without reply. But, now that fortune
-had cast in his way a nameless orphan, at whom even the meanest could
+had cast in his way a nameless [[Orphan|orphan]], at whom even the meanest could
 point the finger of scorn, he retorted on him with interest. This
 affords charming food for contemplation. It shows us what a beautiful
-thing human nature may be made to be; and how impartially the same
+thing human [[Nature|nature]] may be made to be; and how impartially the same
 amiable qualities are developed in the finest lord and the dirtiest
-charity-boy.
+[[Charity|charity]]-boy.
 
-Oliver had been sojourning at the undertaker’s some three weeks or a
+[[Oliver]] had been sojourning at the undertaker’s some three weeks or a
 month. Mr. and Mrs. Sowerberry—the shop being shut up—were taking their
 supper in the little back-parlour, when Mr. Sowerberry, after several
 deferential glances at his wife, said,
@@ -43,7 +43,7 @@ deferential glances at his wife, said,
 “My dear—” He was going to say more; but, Mrs. Sowerberry looking up,
 with a peculiarly unpropitious aspect, he stopped short.
 
-“Well,” said Mrs. Sowerberry, sharply.
+“[[Well]],” said Mrs. Sowerberry, sharply.
 
 “Nothing, my dear, nothing,” said Mr. Sowerberry.
 
@@ -54,7 +54,7 @@ didn’t want to hear, my dear. I was only going to say—”
 
 “Oh, don’t tell me what you were going to say,” interposed Mrs.
 Sowerberry. “I am nobody; don’t consult me, pray. _I_ don’t want to
-intrude upon your secrets.” As Mrs. Sowerberry said this, she gave an
+intrude upon your [[Secrets|secrets]].” As Mrs. Sowerberry said this, she gave an
 hysterical laugh, which threatened violent consequences.
 
 “But, my dear,” said Sowerberry, “I want to ask your advice.”
@@ -73,12 +73,12 @@ good-looking boy, that, my dear.”
 
 “He need be, for he eats enough,” observed the lady.
 
-“There’s an expression of melancholy in his face, my dear,” resumed Mr.
+“There’s an expression of [[Melancholy|melancholy]] in his face, my dear,” resumed Mr.
 Sowerberry, “which is very interesting. He would make a delightful
-mute, my love.”
+mute, my [[Love|love]].”
 
 Mrs. Sowerberry looked up with an expression of considerable
-wonderment. Mr. Sowerberry remarked it and, without allowing time for
+wonderment. Mr. Sowerberry remarked it and, without allowing [[Time|time]] for
 any observation on the good lady’s part, proceeded.
 
 “I don’t mean a regular mute to attend grown-up people, my dear, but
@@ -92,7 +92,7 @@ compromising her dignity to have said so, under existing circumstances,
 she merely inquired, with much sharpness, why such an obvious
 suggestion had not presented itself to her husband’s mind before? Mr.
 Sowerberry rightly construed this, as an acquiescence in his
-proposition; it was speedily determined, therefore, that Oliver should
+proposition; it was speedily determined, therefore, that [[Oliver]] should
 be at once initiated into the mysteries of the trade; and, with this
 view, that he should accompany his master on the very next occasion of
 his services being required.
@@ -122,9 +122,9 @@ much.”
 
 “So it is,” acquiesced the undertaker.
 
-“We only heard of the family the night before last,” said the beadle;
+“We only heard of the family the [[Night|night]] before last,” said the beadle;
 “and we shouldn’t have known anything about them, then, only a woman
-who lodges in the same house made an application to the porochial
+who lodges in the same [[house]] made an application to the porochial
 committee for them to send the porochial surgeon to see a woman as was
 very bad. He had gone out to dinner; but his ’prentice (which is a very
 clever lad) sent ’em some medicine in a blacking-bottle, offhand.”
@@ -135,7 +135,7 @@ clever lad) sent ’em some medicine in a blacking-bottle, offhand.”
 what’s the ungrateful behaviour of these rebels, sir? Why, the husband
 sends back word that the medicine won’t suit his wife’s complaint, and
 so she shan’t take it—says she shan’t take it, sir! Good, strong,
-wholesome medicine, as was given with great success to two Irish
+wholesome medicine, as was given with great [[success]] to two Irish
 labourers and a coal-heaver, only a week before—sent ’em for nothing,
 with a blackin’-bottle in,—and he sends back word that she shan’t take
 it, sir!”

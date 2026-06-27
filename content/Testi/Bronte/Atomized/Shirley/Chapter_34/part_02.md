@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 34 (part 2)"
+title: "[[Shirley]] — Chapter 34 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -28,7 +28,7 @@ Helstone and his clerk were in the vestry.
 
 
 
-The bells ceased--the reading-desk was filled--the doors were
+[[The Bells|The bells]] ceased--the reading-desk was filled--the doors were
 
 closed--the service commenced. Void stood the rectory pew--she was not
 
@@ -62,7 +62,7 @@ So absorbed was the young cynic he forgot to rise from his knees at the
 
 proper place, and was still in an exemplary attitude of devotion when,
 
-the litany over, the first hymn was given out. To be so caught did not
+the [[litany]] over, the first [[Hymn|hymn]] was given out. To be so caught did not
 
 contribute to soothe him. He started up red (for he was as sensitive to
 
@@ -70,9 +70,9 @@ ridicule as any girl). To make the matter worse, the church door had
 
 reopened, and the aisles were filling: patter, patter, patter, a hundred
 
-little feet trotted in. It was the Sunday scholars. According to
+little feet trotted in. It was the [[Sunday]] scholars. According to
 
-Briarfield winter custom, these children had till now been kept where
+Briarfield [[Winter|winter]] custom, these children had till now been kept where
 
 there was a warm stove, and only led into church just before the
 
@@ -84,7 +84,7 @@ The little ones were settled first, and at last, when the boys and the
 
 younger girls were all arranged--when the organ was swelling high, and
 
-the choir and congregation were rising to uplift a spiritual song--a
+the choir and congregation were rising to uplift a spiritual [[Song|song]]--a
 
 tall class of young women came quietly in, closing the procession. Their
 
@@ -94,15 +94,15 @@ French-gray cloak and small beaver bonnet were known to Martin; it was
 
 the very costume his eyes had ached to catch. Miss Helstone had not
 
-suffered the storm to prove an impediment. After all, she was come to
+suffered the [[Storm|storm]] to prove an impediment. After all, she was come to
 
-church. Martin probably whispered his satisfaction to his hymn book; at
+church. Martin probably whispered his satisfaction to his [[Hymn|hymn]] book; at
 
 any rate, he therewith hid his face two minutes.
 
 
 
-Satisfied or not, he had time to get very angry with her again before
+Satisfied or not, he had [[Time|time]] to get very angry with her again before
 
 the sermon was over. She had never once looked his way; at least he had
 
@@ -116,7 +116,7 @@ her thoughts, I shall have a worse, a meaner opinion of her than ever.
 
 Most despicable would it be to come for the sake of those sheep-faced
 
-Sunday scholars, and not for my sake or that long skeleton Moore's."
+[[Sunday]] scholars, and not for my sake or that long [[skeleton]] Moore's."
 
 
 
@@ -128,7 +128,7 @@ congregation dispersed. She had not been near him.
 
 Now, indeed, as Martin set his face homeward, he felt that the sleet was
 
-sharp and the east wind cold.
+sharp and the east [[Wind|wind]] cold.
 
 
 
@@ -136,7 +136,7 @@ His nearest way lay through some fields. It was a dangerous, because an
 
 untrodden way. He did not care; he would take it. Near the second stile
 
-rose a clump of trees. Was that an umbrella waiting there? Yes, an
+[[Rose|rose]] a clump of trees. Was that an umbrella waiting there? Yes, an
 
 umbrella, held with evident difficulty against the blast; behind it
 
@@ -192,7 +192,7 @@ laugh. Your teeth--I hate ugly teeth; but yours are as pretty as a pearl
 
 necklace, and a necklace of which the pearls are very fair, even, and
 
-well matched too."
+[[Well|well]] matched too."
 
 
 
@@ -228,7 +228,7 @@ that he is like me, I need not add that he is handsome."
 
 
 
-"No; but wait awhile--just let me take my time. I mean to begin from
+"No; but wait awhile--just let me take my [[Time|time]]. I mean to begin from
 
 this day to cultivate, to polish, and we shall see."
 
@@ -260,6 +260,6 @@ obstinate. I _would_ go."
 
 
 
-"Exactly; I thought of nothing else. I greatly feared the snow would
+"Exactly; I thought of nothing else. I greatly feared the [[Snow|snow]] would
 
 hinder you from coming. You don't know how pleased I was to see you all

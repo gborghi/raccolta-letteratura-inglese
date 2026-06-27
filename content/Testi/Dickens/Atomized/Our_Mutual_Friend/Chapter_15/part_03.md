@@ -17,7 +17,7 @@ tags:
 ‘Mortimer, you wretch,’ says Lady Tippins, turning the eyeglass about
 and about, ‘where is your charge, the bridegroom?’
 
-‘Give you my honour,’ returns Mortimer, ‘I don’t know, and I don’t
+‘Give you my [[Honour|honour]],’ returns Mortimer, ‘I don’t know, and I don’t
 care.’
 
 ‘Miserable! Is that the way you do your duty?’
@@ -40,20 +40,20 @@ fellow, confound him!’ More carriages at the gate, and lo the rest of
 the characters. Whom Lady Tippins, standing on a cushion, surveying
 through the eye-glass, thus checks off. ‘Bride; five-and-forty if a
 day, thirty shillings a yard, veil fifteen pound, pocket-handkerchief
-a present. Bridesmaids; kept down for fear of outshining bride,
-consequently not girls, twelve and sixpence a yard, Veneering’s flowers,
+a present. Bridesmaids; kept down for [[Fear|fear]] of outshining bride,
+consequently not girls, twelve and sixpence a yard, Veneering’s [[Flowers|flowers]],
 snub-nosed one rather pretty but too conscious of her stockings, bonnets
 three pound ten. Twemlow; blessed release for the dear man if she really
-was his daughter, nervous even under the pretence that she is, well he
+was his daughter, nervous even under the pretence that she is, [[Well|well]] he
 may be. Mrs Veneering; never saw such velvet, say two thousand pounds
-as she stands, absolute jeweller’s window, father must have been a
+as she stands, absolute jeweller’s [[Window|window]], father must have been a
 pawnbroker, or how could these people do it? Attendant unknowns; pokey.’
 
 Ceremony performed, register signed, Lady Tippins escorted out of sacred
-edifice by Veneering, carriages rolling back to Stucconia, servants
-with favours and flowers, Veneering’s house reached, drawing-rooms most
+edifice by Veneering, carriages [[rolling]] back to Stucconia, servants
+with favours and [[Flowers|flowers]], Veneering’s [[house]] reached, drawing-rooms most
 magnificent. Here, the Podsnaps await the happy party; Mr Podsnap, with
-his hair-brushes made the most of; that imperial rocking-horse, Mrs
+his hair-brushes made the most of; that imperial rocking-[[Horse|horse]], Mrs
 Podsnap, majestically skittish. Here, too, are Boots and Brewer, and
 the two other Buffers; each Buffer with a flower in his button-hole, his
 hair curled, and his gloves buttoned on tight, apparently come prepared,
@@ -69,16 +69,16 @@ co-trustee, and that they are arranging about the fortune. Buffers are
 even overheard to whisper Thir-ty Thou-sand Pou-nds! with a smack and a
 relish suggestive of the very finest oysters. Pokey unknowns, amazed
 to find how intimately they know Veneering, pluck up spirit, fold
-their arms, and begin to contradict him before breakfast. What time Mrs
+their arms, and begin to contradict him before breakfast. What [[Time|time]] Mrs
 Veneering, carrying baby dressed as a bridesmaid, flits about among
-the company, emitting flashes of many-coloured lightning from diamonds,
+the company, emitting flashes of many-coloured [[Lightning|lightning]] from diamonds,
 emeralds, and rubies.
 
-The Analytical, in course of time achieving what he feels to be due to
+The Analytical, in course of [[Time|time]] achieving what he feels to be due to
 himself in bringing to a dignified conclusion several quarrels he has on
 hand with the pastrycook’s men, announces breakfast. Dining-room no less
 magnificent than drawing-room; tables superb; all the camels out, and
-all laden. Splendid cake, covered with Cupids, silver, and true-lovers’
+all laden. Splendid cake, covered with Cupids, silver, and true-[[lovers]]’
 knots. Splendid bracelet, produced by Veneering before going down, and
 clasped upon the arm of bride. Yet nobody seems to think much more of
 the Veneerings than if they were a tolerable landlord and landlady

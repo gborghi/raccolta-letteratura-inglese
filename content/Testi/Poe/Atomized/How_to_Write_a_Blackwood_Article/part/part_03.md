@@ -1,5 +1,5 @@
 ---
-title: "How to Write a Blackwood Article (part 3)"
+title: "[[How to Write a Blackwood Article]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/How-to-Write-a-Blackwood-Article-(Poe)"
@@ -50,7 +50,7 @@ tags:
 
       heterogeneous. In the former the merit consists in seeing into
 
-      the nature of affairs a very great deal farther than anybody
+      the [[Nature|nature]] of affairs a very great deal farther than anybody
 
       else. This second sight is very efficient when properly managed.
 
@@ -58,7 +58,7 @@ tags:
 
       Eschew, in this case, big words; get them as small as possible,
 
-      and write them upside down. Look over Channing’s poems and quote
+      and write them upside down. Look over Channing’s [[Poems|poems]] and quote
 
       what he says about a ‘fat little man with a delusive show of
 
@@ -100,7 +100,7 @@ tags:
 
       “Let us suppose now you have determined upon your incidents and
 
-      tone. The most important portion—in fact, the soul of the whole
+      tone. The most important portion—in fact, the [[Soul|soul]] of the whole
 
       business, is yet to be attended to—I allude to the filling up. It
 
@@ -122,7 +122,7 @@ tags:
 
       scraps of either learning or _bel-esprit-ism_, which are the very
 
-      thing for the spicing of a Blackwood article. You might as well
+      thing for the spicing of a Blackwood article. You might as [[Well|well]]
 
       note down a few while I read them to you. I shall make two
 
@@ -136,7 +136,7 @@ tags:
 
       “PIQUANT FACTS FOR SIMILES. ‘There were originally but three
 
-      Muses—Melete, Mneme, Aœde—meditation, memory, and singing.’ You
+      Muses—Melete, Mneme, Aœde—meditation, [[Memory|memory]], and singing.’ You
 
       may make a good deal of that little fact if properly worked. You
 
@@ -146,7 +146,7 @@ tags:
 
 
 
-      “Again. ‘The river Alpheus passed beneath the sea, and emerged
+      “Again. ‘The [[River|river]] Alpheus passed beneath the sea, and emerged
 
       without injury to the purity of its waters.’ Rather stale that,
 
@@ -166,7 +166,7 @@ tags:
 
       thing else in the botanical line. There’s nothing goes down so
 
-      well, especially with the help of a little Latin. Write!
+      [[Well|well]], especially with the help of a little Latin. Write!
 
 
 
@@ -182,7 +182,7 @@ tags:
 
 
 
-      “PIQUANT EXPRESSIONS. ‘_The Venerable Chinese novel Ju-Kiao-Li_.’
+      “PIQUANT EXPRESSIONS. ‘_The Venerable Chinese [[Novel|novel]] Ju-Kiao-Li_.’
 
       Good! By introducing these few words with dexterity you will
 
@@ -206,12 +206,12 @@ tags:
 
       the frequent repetition of the phrase, _la tendre Zaire_, in the
 
-      French tragedy of that name. Properly introduced, will show not
+      French [[Tragedy|tragedy]] of that name. Properly introduced, will show not
 
       only your knowledge of the language, but your general reading and
 
       wit. You can say, for instance, that the chicken you were eating
 
-      (write an article about being choked to death by a chicken-bone)
+      (write an article about being choked to [[Death|death]] by a chicken-bone)
 
       was not altogether _aussi tendre que Zaire_. Write!

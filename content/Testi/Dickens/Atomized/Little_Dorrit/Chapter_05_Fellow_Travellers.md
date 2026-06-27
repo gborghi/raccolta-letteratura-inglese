@@ -33,10 +33,10 @@ to be heard.’
 ‘I mean the French people. They’re always at it. As to Marseilles, we
 know what Marseilles is. It sent the most insurrectionary tune into the
 world that was ever composed. It couldn’t exist without allonging and
-marshonging to something or other--victory or death, or blazes, or
+marshonging to something or other--victory or [[Death|death]], or blazes, or
 something.’
 
-The speaker, with a whimsical good humour upon him all the time, looked
+The speaker, with a whimsical good [[Humour|humour]] upon him all the [[Time|time]], looked
 over the parapet-wall with the greatest disparagement of Marseilles; and
 taking up a determined position by putting his hands in his pockets and
 rattling his money at it, apostrophised it with a short laugh.
@@ -57,24 +57,24 @@ and as the East is the country of the plague--’
 ‘The plague!’ repeated the other. ‘That’s my grievance. I have had the
 plague continually, ever since I have been here. I am like a sane man
 shut up in a madhouse; I can’t stand the suspicion of the thing. I came
-here as well as ever I was in my life; but to suspect me of the plague
+here as [[Well|well]] as ever I was in my life; but to suspect me of the plague
 is to give me the plague. And I have had it--and I have got it.’
 
-‘You bear it very well, Mr Meagles,’ said the second speaker, smiling.
+‘You bear it very [[Well|well]], Mr Meagles,’ said the second speaker, smiling.
 
 ‘No. If you knew the real state of the case, that’s the last observation
-you would think of making. I have been waking up night after night, and
+you would think of making. I have been waking up [[Night|night]] after [[Night|night]], and
 saying, _now_ I have got it, _now_ it has developed itself, _now_ I am
 in for it, _now_ these fellows are making out their case for their
 precautions. Why, I’d as soon have a spit put through me, and be stuck
 upon a card in a collection of beetles, as lead the life I have been
 leading here.’
 
-‘Well, Mr Meagles, say no more about it now it’s over,’ urged a cheerful
+‘[[Well]], Mr Meagles, say no more about it now it’s over,’ urged a cheerful
 feminine voice.
 
 ‘Over!’ repeated Mr Meagles, who appeared (though without any
-ill-nature) to be in that peculiar state of mind in which the last word
+ill-[[Nature|nature]]) to be in that peculiar state of mind in which the last word
 spoken by anybody else is a new injury. ‘Over! and why should I say no
 more about it because it’s over?’
 
@@ -88,7 +88,7 @@ sake content yourself with Pet.’
 
 ‘With Pet?’ repeated Mr Meagles in his injured vein. Pet, however,
 being close behind him, touched him on the shoulder, and Mr Meagles
-immediately forgave Marseilles from the bottom of his heart.
+immediately forgave Marseilles from the [[Bottom|bottom]] of his heart.
 
 Pet was about twenty. A fair girl with rich brown hair hanging free in
 natural ringlets. A lovely girl, with a frank face, and wonderful eyes;
@@ -110,7 +110,7 @@ quarantine?’
 you for that remark. Now, Pet, my darling, you had better go along with
 Mother and get ready for the boat. The officer of health, and a variety
 of humbugs in cocked hats, are coming off to let us out of this at last:
-and all we jail-birds are to breakfast together in something approaching
+and all we jail-[[Birds|birds]] are to breakfast together in something approaching
 to a Christian style again, before we take wing for our different
 destinations. Tattycoram, stick you close to your young mistress.’
 
@@ -118,7 +118,7 @@ He spoke to a handsome girl with lustrous dark hair and eyes, and very
 neatly dressed, who replied with a half curtsey as she passed off in the
 train of Mrs Meagles and Pet. They crossed the bare scorched terrace
 all three together, and disappeared through a staring white archway.
-Mr Meagles’s companion, a grave dark man of forty, still stood looking
+Mr Meagles’s companion, a [[Grave|grave]] dark man of forty, still stood looking
 towards this archway after they were gone; until Mr Meagles tapped him
 on the arm.
 
@@ -152,11 +152,11 @@ gravity of his dark face.
 
 ‘Practical people. So one day, five or six years ago now, when we took
 Pet to church at the Foundling--you have heard of the Foundling Hospital
-in London? Similar to the Institution for the Found Children in Paris?’
+in [[London]]? Similar to the Institution for the Found Children in [[Paris]]?’
 
 ‘I have seen it.’
 
-‘Well! One day when we took Pet to church there to hear the
+‘[[Well]]! One day when we took Pet to church there to hear the
 music--because, as practical people, it is the business of our lives to
 show her everything that we think can please her--Mother (my usual name
 for Mrs Meagles) began to cry so, that it was necessary to take her out.
@@ -168,8 +168,8 @@ ever came into my head.” “That ever what came into your head, Mother?”
 children ranged tier above tier, and appealing from the father none of
 them has ever known on earth, to the great Father of us all in Heaven,
 I thought, does any wretched mother ever come here, and look among those
-young faces, wondering which is the poor child she brought into this
-forlorn world, never through all its life to know her love, her kiss,
+young faces, wondering which is the poor [[Child|child]] she brought into this
+forlorn world, never through all its life to know her [[Love|love]], her kiss,
 her face, her voice, even her name!” Now that was practical in Mother,
 and I told her so. I said, “Mother, that’s what I call practical in you,
 my dear.”’
@@ -182,8 +182,8 @@ to be a little maid to Pet. We are practical people. So if we should
 find her temper a little defective, or any of her ways a little wide
 of ours, we shall know what we have to take into account. We shall
 know what an immense deduction must be made from all the influences and
-experiences that have formed us--no parents, no child-brother or sister,
-no individuality of home, no Glass Slipper, or Fairy Godmother. And
+experiences that have formed us--no parents, no [[Child|child]]-brother or sister,
+no individuality of [[Home|home]], no Glass Slipper, or Fairy Godmother. And
 that’s the way we came by Tattycoram.’
 
 ‘And the name itself--’
@@ -204,18 +204,18 @@ is a beadle. You haven’t seen a beadle lately?’
 
 ‘Then,’ said Mr Meagles, laying his forefinger on his companion’s breast
 with great animation, ‘don’t you see a beadle, now, if you can help it.
-Whenever I see a beadle in full fig, coming down a street on a Sunday
-at the head of a charity school, I am obliged to turn and run away, or
+Whenever I see a beadle in full fig, coming down a street on a [[Sunday]]
+at the head of a [[Charity|charity]] school, I am obliged to turn and run away, or
 I should hit him. The name of Beadle being out of the question, and the
 originator of the Institution for these poor foundlings having been a
 blessed creature of the name of Coram, we gave that name to Pet’s little
-maid. At one time she was Tatty, and at one time she was Coram, until we
+maid. At one [[Time|time]] she was Tatty, and at one [[Time|time]] she was Coram, until we
 got into a way of mixing the two names together, and now she is always
 Tattycoram.’
 
 ‘Your daughter,’ said the other, when they had taken another silent turn
 to and fro, and, after standing for a moment at the wall glancing down
-at the sea, had resumed their walk, ‘is your only child, I know, Mr
+at the sea, had resumed their walk, ‘is your only [[Child|child]], I know, Mr
 Meagles. May I ask you--in no impertinent curiosity, but because I have
 had so much pleasure in your society, may never in this labyrinth of
 a world exchange a quiet word with you again, and wish to preserve an
@@ -223,11 +223,11 @@ accurate remembrance of you and yours--may I ask you, if I have not
 gathered from your good wife that you have had other children?’
 
 ‘No. No,’ said Mr Meagles. ‘Not exactly other children. One other
-child.’
+[[Child|child]].’
 
 ‘I am afraid I have inadvertently touched upon a tender theme.’
 
-‘Never mind,’ said Mr Meagles. ‘If I am grave about it, I am not at all
+‘Never mind,’ said Mr Meagles. ‘If I am [[Grave|grave]] about it, I am not at all
 sorrowful. It quiets me for a moment, but does not make me unhappy. Pet
 had a twin sister who died when we could just see her eyes--exactly like
 Pet’s--above the table, as she stood on tiptoe holding by it.’
@@ -239,12 +239,12 @@ the minds of Mrs Meagles and myself which perhaps you may--or perhaps
 you may not--understand. Pet and her baby sister were so exactly alike,
 and so completely one, that in our thoughts we have never been able
 to separate them since. It would be of no use to tell us that our dead
-child was a mere infant. We have changed that child according to the
-changes in the child spared to us and always with us. As Pet has grown,
-that child has grown; as Pet has become more sensible and womanly, her
+[[Child|child]] was a mere infant. We have changed that [[Child|child]] according to the
+changes in the [[Child|child]] spared to us and always with us. As Pet has grown,
+that [[Child|child]] has grown; as Pet has become more sensible and womanly, her
 sister has become more sensible and womanly by just the same degrees.
 It would be as hard to convince me that if I was to pass into the other
-world to-morrow, I should not, through the mercy of God, be received
+world to-morrow, I should not, through the [[Mercy|mercy]] of God, be received
 there by a daughter, just like Pet, as to persuade me that Pet herself
 is not a reality at my side.’
 
@@ -253,18 +253,18 @@ is not a reality at my side.’
 ‘As to her,’ pursued her father, ‘the sudden loss of her little picture
 and playfellow, and her early association with that mystery in which we
 all have our equal share, but which is not often so forcibly presented
-to a child, has necessarily had some influence on her character. Then,
+to a [[Child|child]], has necessarily had some influence on her character. Then,
 her mother and I were not young when we married, and Pet has always had
 a sort of grown-up life with us, though we have tried to adapt ourselves
 to her. We have been advised more than once when she has been a
 little ailing, to change climate and air for her as often as we
-could--especially at about this time of her life--and to keep her
+could--especially at about this [[Time|time]] of her life--and to keep her
 amused. So, as I have no need to stick at a bank-desk now (though I have
-been poor enough in my time I assure you, or I should have married Mrs
+been poor enough in my [[Time|time]] I assure you, or I should have married Mrs
 Meagles long before), we go trotting about the world. This is how you
 found us staring at the Nile, and the Pyramids, and the Sphinxes, and
-the Desert, and all the rest of it; and this is how Tattycoram will be a
-greater traveller in course of time than Captain Cook.’
+the [[Desert]], and all the rest of it; and this is how Tattycoram will be a
+greater traveller in course of [[Time|time]] than Captain Cook.’
 
 ‘I thank you,’ said the other, ‘very heartily for your confidence.’
 
@@ -275,8 +275,8 @@ come to a decision where to go next?’
 ‘Indeed, no. I am such a waif and stray everywhere, that I am liable to
 be drifted where any current may set.’
 
-‘It’s extraordinary to me--if you’ll excuse my freedom in saying
-so--that you don’t go straight to London,’ said Mr Meagles, in the tone
+‘It’s extraordinary to me--if you’ll excuse my [[Freedom|freedom]] in saying
+so--that you don’t go straight to [[London]],’ said Mr Meagles, in the tone
 of a confidential adviser.
 
 ‘Perhaps I shall.’
@@ -287,15 +287,15 @@ of a confidential adviser.
 that I can put in action now. Trained by main force; broken, not bent;
 heavily ironed with an object on which I was never consulted and which
 was never mine; shipped away to the other end of the world before I
-was of age, and exiled there until my father’s death there, a year ago;
+was of age, and exiled there until my father’s [[Death|death]] there, a year ago;
 always grinding in a mill I always hated; what is to be expected from me
-in middle life? Will, purpose, hope? All those lights were extinguished
+in middle life? Will, purpose, [[Hope|hope]]? All those lights were extinguished
 before I could sound the words.’
 
 ‘Light ‘em up again!’ said Mr Meagles.
 
 ‘Ah! Easily said. I am the son, Mr Meagles, of a hard father and
-mother. I am the only child of parents who weighed, measured, and priced
+mother. I am the only [[Child|child]] of parents who weighed, measured, and priced
 everything; for whom what could not be weighed, measured, and priced,
 had no existence. Strict people as the phrase is, professors of a stern
 religion, their very religion was a gloomy sacrifice of tastes and
@@ -303,11 +303,11 @@ sympathies that were never their own, offered up as a part of a bargain
 for the security of their possessions. Austere faces, inexorable
 discipline, penance in this world and terror in the next--nothing
 graceful or gentle anywhere, and the void in my cowed heart
-everywhere--this was my childhood, if I may so misuse the word as to
+everywhere--this was my [[Childhood|childhood]], if I may so misuse the word as to
 apply it to such a beginning of life.’
 
 ‘Really though?’ said Mr Meagles, made very uncomfortable by the picture
-offered to his imagination. ‘That was a tough commencement. But come!
+offered to his [[Imagination|imagination]]. ‘That was a tough commencement. But come!
 You must now study, and profit by, all that lies beyond it, like a
 practical man.’
 
@@ -318,11 +318,11 @@ direction--’
 
 ‘Are they indeed?’
 
-‘Well, I suppose so,’ returned Mr Meagles, thinking about it. ‘Eh? One
+‘[[Well]], I suppose so,’ returned Mr Meagles, thinking about it. ‘Eh? One
 can but _be_ practical, and Mrs Meagles and myself are nothing else.’
 
 ‘My unknown course is easier and more helpful than I had expected to
-find it, then,’ said Clennam, shaking his head with his grave smile.
+find it, then,’ said Clennam, shaking his head with his [[Grave|grave]] smile.
 ‘Enough of me. Here is the boat.’
 
 The boat was filled with the cocked hats to which Mr Meagles entertained
@@ -336,18 +336,18 @@ according to rule, and the travellers were at liberty to depart
 whithersoever they would.
 
 They made little account of stare and glare, in the new pleasure of
-recovering their freedom, but flitted across the harbour in gay boats,
+recovering their [[Freedom|freedom]], but flitted across the harbour in gay boats,
 and reassembled at a great hotel, whence the sun was excluded by closed
 lattices, and where bare paved floors, lofty ceilings, and resounding
 corridors tempered the intense heat. There, a great table in a great
 room was soon profusely covered with a superb repast; and the quarantine
 quarters became bare indeed, remembered among dainty dishes, southern
-fruits, cooled wines, flowers from Genoa, snow from the mountain tops,
+fruits, cooled wines, [[Flowers|flowers]] from Genoa, [[Snow|snow]] from the mountain tops,
 and all the colours of the rainbow flashing in the mirrors.
 
 ‘But I bear those monotonous walls no ill-will now,’ said Mr Meagles.
 ‘One always begins to forgive a place as soon as it’s left behind; I
-dare say a prisoner begins to relent towards his prison, after he is let
+dare say a prisoner begins to relent towards his [[Prison|prison]], after he is let
 out.’
 
 They were about thirty in company, and all talking; but necessarily in
@@ -356,7 +356,7 @@ the last three on one side of the table: on the opposite side sat Mr
 Clennam; a tall French gentleman with raven hair and beard, of a swart
 and terrible, not to say genteelly diabolical aspect, but who had
 shown himself the mildest of men; and a handsome young Englishwoman,
-travelling quite alone, who had a proud observant face, and had either
+travelling quite [[Alone|alone]], who had a proud observant face, and had either
 withdrawn herself from the rest or been avoided by the rest--nobody,
 herself excepted perhaps, could have quite decided which. The rest
 of the party were of the usual materials: travellers on business, and
@@ -372,7 +372,7 @@ herself off into the married state.
 
 The reserved Englishwoman took up Mr Meagles in his last remark.
 
-‘Do you mean that a prisoner forgives his prison?’ said she, slowly and
+‘Do you mean that a prisoner forgives his [[Prison|prison]]?’ said she, slowly and
 with emphasis.
 
 
@@ -398,7 +398,7 @@ forgive.’
 in many respects, for some years. It is our natural progress, I have
 heard.’
 
-‘Well, well! But it’s not natural to bear malice, I hope?’ said Mr
+‘[[Well]], [[Well|well]]! But it’s not natural to bear malice, I [[Hope|hope]]?’ said Mr
 Meagles, cheerily.
 
 ‘If I had been shut up in any place to pine and suffer, I should always
@@ -420,21 +420,21 @@ that as they had all been thrown together by chance, and had all
 preserved a good understanding together, and were now about to disperse,
 and were not likely ever to find themselves all together again, what
 could they do better than bid farewell to one another, and give one
-another good-speed in a simultaneous glass of cool champagne all round
+another good-[[Speed|speed]] in a simultaneous glass of cool champagne all round
 the table? It was done, and with a general shaking of hands the assembly
 broke up for ever.
 
-The solitary young lady all this time had said no more. She rose with
+The solitary young lady all this [[Time|time]] had said no more. She [[Rose|rose]] with
 the rest, and silently withdrew to a remote corner of the great room,
-where she sat herself on a couch in a window, seeming to watch the
-reflection of the water as it made a silver quivering on the bars of the
+where she sat herself on a couch in a [[Window|window]], seeming to watch the
+reflection of the [[Water|water]] as it made a silver quivering on the bars of the
 lattice. She sat, turned away from the whole length of the apartment, as
 if she were lonely of her own haughty choice. And yet it would have been
 as difficult as ever to say, positively, whether she avoided the rest,
 or was avoided.
 
-The shadow in which she sat, falling like a gloomy veil across her
-forehead, accorded very well with the character of her beauty. One could
+The [[Shadow|shadow]] in which she sat, falling like a gloomy veil across her
+forehead, accorded very [[Well|well]] with the character of her [[Beauty|beauty]]. One could
 hardly see the face, so still and scornful, set off by the arched
 dark eyebrows, and the folds of dark hair, without wondering what its
 expression would be if a change came over it. That it could soften or
@@ -443,13 +443,13 @@ any extreme of defiance, and that it must change in that direction when
 it changed at all, would have been its peculiar impression upon most
 observers. It was dressed and trimmed into no ceremony of expression.
 Although not an open face, there was no pretence in it. ‘I am
-self-contained and self-reliant; your opinion is nothing to me; I have
+[[Self|self]]-contained and [[Self|self]]-reliant; your opinion is nothing to me; I have
 no interest in you, care nothing for you, and see and hear you with
 indifference’--this it said plainly. It said so in the proud eyes, in
 the lifted nostril, in the handsome but compressed and even cruel mouth.
 Cover either two of those channels of expression, and the third would
 have said so still. Mask them all, and the mere turn of the head would
-have shown an unsubduable nature.
+have shown an unsubduable [[Nature|nature]].
 
 Pet had moved up to her (she had been the subject of remark among her
 family and Mr Clennam, who were now the only other occupants of the
@@ -488,10 +488,10 @@ undertake, I am sure.’
 I prefer to go my own way in my own manner.’
 
 ‘_Do_ you?’ said Mr Meagles to himself, as he surveyed her with a puzzled
-look. ‘Well! There’s character in that, too.’
+look. ‘[[Well]]! There’s character in that, too.’
 
 ‘I am not much used to the society of young ladies, and I am afraid I
-may not show my appreciation of it as others might. A pleasant journey
+may not show my appreciation of it as others might. A pleasant [[Journey|journey]]
 to you. Good-bye!’
 
 She would not have put out her hand, it seemed, but that Mr Meagles put
@@ -515,20 +515,20 @@ speaker.
 
 ‘Your pretty daughter,’ she said, ‘starts to think of such things. Yet,’
 looking full upon her, ‘you may be sure that there are men and women
-already on their road, who have their business to do with _you_, and who
+already on their [[Road|road]], who have their business to do with _you_, and who
 will do it. Of a certainty they will do it. They may be coming hundreds,
 thousands, of miles over the sea there; they may be close at hand now;
 they may be coming, for anything you know or anything you can do to
 prevent it, from the vilest sweepings of this very town.’
 
 With the coldest of farewells, and with a certain worn expression on her
-beauty that gave it, though scarcely yet in its prime, a wasted look,
+[[Beauty|beauty]] that gave it, though scarcely yet in its prime, a wasted look,
 she left the room.
 
 Now, there were many stairs and passages that she had to traverse in
-passing from that part of the spacious house to the chamber she had
+passing from that part of the spacious [[house]] to the chamber she had
 secured for her own occupation. When she had almost completed the
-journey, and was passing along the gallery in which her room was, she
+[[Journey|journey]], and was passing along the gallery in which her room was, she
 heard an angry sound of muttering and sobbing. A door stood open, and
 within she saw the attendant upon the girl she had just left; the maid
 with the curious name.
@@ -559,7 +559,7 @@ both times you found me. I am afraid of you.’
 
 ‘Yes. You seem to come like my own anger, my own malice, my
 own--whatever it is--I don’t know what it is. But I am ill-used, I am
-ill-used, I am ill-used!’ Here the sobs and the tears, and the tearing
+ill-used, I am ill-used!’ Here the sobs and the [[Tears|tears]], and the tearing
 hand, which had all been suspended together since the first surprise,
 went on together anew.
 
@@ -569,7 +569,7 @@ struggle she made as if she were rent by the Demons of old.
 
 ‘I am younger than she is by two or three years, and yet it’s me that
 looks after her, as if I was old, and it’s she that’s always petted and
-called Baby! I detest the name. I hate her! They make a fool of her,
+called Baby! I detest the name. I hate her! They make a [[Fool|fool]] of her,
 they spoil her. She thinks of nothing but herself, she thinks no more of
 me than if I was a stock and a stone!’ So the girl went on.
 
@@ -593,7 +593,7 @@ dissection and exposition of an analogous case.
 
 The girl raged and battled with all the force of her youth and fulness
 of life, until by little and little her passionate exclamations trailed
-off into broken murmurs as if she were in pain. By corresponding degrees
+off into broken murmurs as if she were in [[Pain|pain]]. By corresponding degrees
 she sank into a chair, then upon her knees, then upon the ground beside
 the bed, drawing the coverlet with her, half to hide her shamed head and
 wet hair in it, and half, as it seemed, to embrace it, rather than have
@@ -604,16 +604,16 @@ am mad. I know I might keep it off if I only tried hard enough, and
 sometimes I do try hard enough, and at other times I don’t and won’t.
 What have I said! I knew when I said it, it was all lies. They think I
 am being taken care of somewhere, and have all I want. They are nothing
-but good to me. I love them dearly; no people could ever be kinder to a
+but good to me. I [[Love|love]] them dearly; no people could ever be kinder to a
 thankless creature than they always are to me. Do, do go away, for I am
 afraid of you. I am afraid of myself when I feel my temper coming, and I
 am as much afraid of you. Go away from me, and let me pray and cry
 myself better!’
 
 The day passed on; and again the wide stare stared itself out; and the
-hot night was on Marseilles; and through it the caravan of the morning,
+hot [[Night|night]] was on Marseilles; and through it the caravan of the morning,
 all dispersed, went their appointed ways. And thus ever by day and
-night, under the sun and under the stars, climbing the dusty hills and
+[[Night|night]], under the sun and under the [[Stars|stars]], climbing the dusty hills and
 toiling along the weary plains, journeying by land and journeying by
 sea, coming and going so strangely, to meet and to act and react on one
 another, move all we restless travellers through the pilgrimage of life.

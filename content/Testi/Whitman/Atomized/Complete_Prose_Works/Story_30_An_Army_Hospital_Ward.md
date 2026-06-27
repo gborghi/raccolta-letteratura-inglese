@@ -18,17 +18,17 @@ AN ARMY HOSPITAL WARD
 
 Let me specialize a visit I made to the collection of barrack-like
 one-story edifices, Campbell hospital, out on the flats, at the end
-of the then horse railway route, on Seventh street. There is a long
+of the then [[Horse|horse]] railway route, on Seventh street. There is a long
 building appropriated to each ward. Let us go into ward 6. It contains,
 to-day, I should judge, eighty or a hundred patients, half sick, half
-wounded. The edifice is nothing but boards, well whitewash'd inside, and
+wounded. The edifice is nothing but boards, [[Well|well]] whitewash'd inside, and
 the usual slender-framed iron bedsteads, narrow and plain. You walk down
 the central passage, with a row on either side, their feet towards you,
 and their heads to the wall. There are fires in large stoves, and the
-prevailing white of the walls is reliev'd by some ornaments, stars,
+prevailing white of the walls is reliev'd by some ornaments, [[Stars|stars]],
 circles, &c., made of evergreens. The view of the whole edifice and
 occupants can be taken at once, for there is no partition. You may hear
-groans or other sounds of unendurable suffering from two or three of
+groans or other sounds of unendurable [[Suffering|suffering]] from two or three of
 the cots, but in the main there is quiet--almost a painful absence of
 demonstration; but the pallid face, the dull'd eye, and the moisture
 of the lip, are demonstration enough. Most of these sick or hurt are
@@ -36,8 +36,8 @@ evidently young fellows from the country, farmers' sons, and such like.
 Look at the fine large frames, the bright and broad countenances, and
 the many yet lingering proofs of strong constitution and physique. Look
 at the patient and mute manner of our American wounded as they lie in
-such a sad collection; representatives from all New England, and from
-New York, and New Jersey, and Pennsylvania--indeed from all the States
+such a sad collection; representatives from all [[New England]], and from
+[[New York]], and New Jersey, and Pennsylvania--indeed from all the States
 and all the cities--largely from the west. Most of them are entirely
 without friends or acquaintances here--no familiar face, and hardly a
 word of judicious sympathy or cheer, through their sometimes long and

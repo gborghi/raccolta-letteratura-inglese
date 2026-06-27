@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 17)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 17)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-this English Hamlet, as we shall see, played a great part, or rather
+this English [[Hamlet]], as we shall see, played a great part, or rather
 
 refused to play it.
 
@@ -30,53 +30,53 @@ that unconscious symbolism with which all this story develops, it was
 
 soon to be dramatically tested, by a definite political query, whether
 
-what we really respected was the Teutonic fantasy or the Teutonic fear.
+what we really respected was the Teutonic fantasy or the Teutonic [[Fear|fear]].
 
 
 
-The Germanisation of England, its transition and turning-point, was well
+The Germanisation of England, its transition and turning-point, was [[Well|well]]
 
-typified by the genius of Carlyle. The original charm of Germany had
+typified by the genius of Carlyle. The original charm of [[Germany]] had
 
-been the charm of the child. The Teutons were never so great as when
+been the charm of the [[Child|child]]. The Teutons were never so great as when
 
 they were childish; in their religious art and popular imagery the
 
-Christ-Child is really a child, though the Christ is hardly a man. The
+[[Christ]]-[[Child]] is really a [[Child|child]], though the [[Christ]] is hardly a man. The
 
-self-conscious fuss of their pedagogy is half-redeemed by the
+[[Self|self]]-conscious fuss of their pedagogy is half-redeemed by the
 
 unconscious grace which called a school not a seed-plot of citizens, but
 
-merely a garden of children. All the first and best forest-spirit is
+merely a [[Garden|garden]] of children. All the first and best forest-spirit is
 
-infancy, its wonder, its wilfulness, even its still innocent fear.
+infancy, its [[Wonder|wonder]], its wilfulness, even its still [[Innocent|innocent]] [[Fear|fear]].
 
-Carlyle marks exactly the moment when the German child becomes the
+Carlyle marks exactly the moment when the German [[Child|child]] becomes the
 
-spoilt child. The wonder turns to mere mysticism; and mere mysticism
+spoilt [[Child|child]]. The [[Wonder|wonder]] turns to mere mysticism; and mere mysticism
 
 always turns to mere immoralism. The wilfulness is no longer liked, but
 
-is actually obeyed. The fear becomes a philosophy. Panic hardens into
+is actually obeyed. The [[Fear|fear]] becomes a [[philosophy]]. Panic hardens into
 
 pessimism; or else, what is often equally depressing, optimism.
 
 
 
-Carlyle, the most influential English writer of that time, marks all
+Carlyle, the most influential English writer of that [[Time|time]], marks all
 
-this by the mental interval between his "French Revolution" and his
+this by the mental interval between his "[[French Revolution]]" and his
 
 "Frederick the Great." In both he was Germanic. Carlyle was really as
 
 sentimental as Goethe; and Goethe was really as sentimental as Werther.
 
-Carlyle understood everything about the French Revolution, except that
+Carlyle understood everything about the [[French Revolution]], except that
 
-it was a French revolution. He could not conceive that cold anger that
+it was a [[French Revolution|French revolution]]. He could not conceive that cold anger that
 
-comes from a love of insulted truth. It seemed to him absurd that a man
+comes from a [[Love|love]] of insulted [[Truth|truth]]. It seemed to him absurd that a man
 
 should die, or do murder, for the First Proposition of Euclid; should
 
@@ -88,7 +88,7 @@ who does not understand that does not understand the French
 
 Revolution--nor, for that matter, the American Revolution. "We hold
 
-these truths to be self-evident": it was the fanaticism of truism. But
+these truths to be [[Self|self]]-evident": it was the [[Fanaticism|fanaticism]] of truism. But
 
 though Carlyle had no real respect for liberty, he had a real reverence
 
@@ -102,23 +102,23 @@ Mountain, a Tory like Carlyle rather liked the Mountain and quite unduly
 
 despised the Girondists. This appetite for formless force belongs, of
 
-course, to the forests, to Germany. But when Carlyle got there, there
+course, to the forests, to [[Germany]]. But when Carlyle got there, there
 
-fell upon him a sort of spell which is his tragedy and the English
+fell upon him a sort of spell which is his [[Tragedy|tragedy]] and the English
 
-tragedy, and, in no small degree, the German tragedy too. The real
+[[Tragedy|tragedy]], and, in no small degree, the German [[Tragedy|tragedy]] too. The real
 
-romance of the Teutons was largely a romance of the Southern Teutons,
+[[Romance|romance]] of the Teutons was largely a [[Romance|romance]] of the Southern Teutons,
 
 with their castles, which are almost literally castles in the air, and
 
-their river which is walled with vineyards and rhymes so naturally to
+their [[River|river]] which is walled with vineyards and rhymes so naturally to
 
-wine. But as Carlyle's was rootedly a romance of conquest, he had to
+wine. But as Carlyle's was rootedly a [[Romance|romance]] of conquest, he had to
 
-prove that the thing which conquered in Germany was really more poetical
+prove that the thing which conquered in [[Germany]] was really more poetical
 
-than anything else in Germany. Now the thing that conquered in Germany
+than anything else in [[Germany]]. Now the thing that conquered in [[Germany]]
 
 was about the most prosaic thing of which the world ever grew weary.
 
@@ -128,7 +128,7 @@ that Swift could write charmingly about a broom-stick; and poor Carlyle
 
 had to write romantically about a ramrod. Compare him with Heine, who
 
-had also a detached taste in the mystical grotesques of Germany, but who
+had also a detached taste in the mystical grotesques of [[Germany]], but who
 
 saw what was their enemy: and offered to nail up the Prussian eagle like
 
@@ -144,11 +144,11 @@ simply feeble--and French. Thus Carlyle became continually gloomier as
 
 his fit of the blues deepened into Prussian blues; nor can there be any
 
-wonder. His philosophy had brought out the result that the Prussian was
+[[Wonder|wonder]]. His [[philosophy]] had brought out the result that the Prussian was
 
-the first of Germans, and, therefore, the first of men. No wonder he
+the first of Germans, and, therefore, the first of men. No [[Wonder|wonder]] he
 
-looked at the rest of us with little hope.
+looked at the rest of us with little [[Hope|hope]].
 
 
 
@@ -156,17 +156,17 @@ But a stronger test was coming both for Carlyle and England. Prussia,
 
 plodding, policing, as materialist as mud, went on solidifying and
 
-strengthening after unconquered Russia and unconquered England had
+strengthening after unconquered [[Russia]] and unconquered England had
 
 rescued her where she lay prostrate under Napoleon. In this interval the
 
 two most important events were the Polish national revival, with which
 
-Russia was half inclined to be sympathetic, but Prussia was implacably
+[[Russia]] was half inclined to be sympathetic, but Prussia was implacably
 
-coercionist; and the positive refusal of the crown of a united Germany
+coercionist; and the positive refusal of the [[Crown|crown]] of a united [[Germany]]
 
-by the King of Prussia, simply because it was constitutionally offered
+by the [[King]] of Prussia, simply because it was constitutionally offered
 
 by a free German Convention. Prussia did not want to lead the Germans:
 
@@ -176,13 +176,13 @@ people first. She had already found her brutal, if humorous, embodiment
 
 in Bismarck; and he began with a scheme full of brutality and not
 
-without humour. He took up, or rather pretended to take up, the claim of
+without [[Humour|humour]]. He took up, or rather pretended to take up, the claim of
 
 the Prince of Augustenberg to duchies which were a quite lawful part of
 
-the land of Denmark. In support of this small pretender he enlisted two
+the land of [[Denmark]]. In support of this small pretender he enlisted two
 
-large things, the Germanic body called the Bund and the Austrian Empire.
+large things, the Germanic [[Body|body]] called the Bund and the Austrian Empire.
 
 It is possibly needless to say that after he had seized the disputed
 
@@ -192,4 +192,4 @@ Augustenberg, kicked out the German Bund, and finally kicked out the
 
 Austrian Empire too, in the sudden campaign of Sadowa. He was a good
 
-husband and a good father; he did not paint in water colours; and of
+husband and a good father; he did not paint in [[Water|water]] colours; and of

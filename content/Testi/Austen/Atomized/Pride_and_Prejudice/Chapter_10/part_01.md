@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 10 (part 1)"
+title: "[[Pride and Prejudice]] — Chapter 10 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -50,10 +50,10 @@ year! Letters of business, too! How odious I should think them!”
 
 “Pray tell your sister that I long to see her.”
 
-“I have already told her so once, by your desire.”
+“I have already told her so once, by your [[Desire|desire]].”
 
 “I am afraid you do not like your pen. Let me mend it for you. I mend
-pens remarkably well.”
+pens remarkably [[Well|well]].”
 
 “Thank you--but I always mend my own.”
 
@@ -85,15 +85,15 @@ for words of four syllables. Do not you, Darcy?”
 “My style of writing is very different from yours.”
 
 “Oh,” cried Miss Bingley, “Charles writes in the most careless way
-imaginable. He leaves out half his words, and blots the rest.”
+imaginable. He [[Leaves|leaves]] out half his words, and blots the rest.”
 
-“My ideas flow so rapidly that I have not time to express them; by which
+“My ideas flow so rapidly that I have not [[Time|time]] to express them; by which
 means my letters sometimes convey no ideas at all to my correspondents.”
 
-“Your humility, Mr. Bingley,” said Elizabeth, “must disarm reproof.”
+“Your [[Humility|humility]], Mr. Bingley,” said Elizabeth, “must disarm reproof.”
 
 “Nothing is more deceitful,” said Darcy, “than the appearance of
-humility. It is often only carelessness of opinion, and sometimes an
+[[Humility|humility]]. It is often only carelessness of opinion, and sometimes an
 indirect boast.”
 
 “And which of the two do you call _my_ little recent piece of modesty?”
@@ -110,8 +110,8 @@ panegyric, of compliment to yourself; and yet what is there so very
 laudable in a precipitance which must leave very necessary business
 undone, and can be of no real advantage to yourself or anyone else?”
 
-“Nay,” cried Bingley, “this is too much, to remember at night all the
-foolish things that were said in the morning. And yet, upon my honour, I
+“Nay,” cried Bingley, “this is too much, to remember at [[Night|night]] all the
+foolish things that were said in the morning. And yet, upon my [[Honour|honour]], I
 believed what I said of myself to be true, and I believe it at this
 moment. At least, therefore, I did not assume the character of needless
 precipitance merely to show off before the ladies.”
@@ -119,7 +119,7 @@ precipitance merely to show off before the ladies.”
 “I daresay you believed it; but I am by no means convinced that you
 would be gone with such celerity. Your conduct would be quite as
 dependent on chance as that of any man I know; and if, as you were
-mounting your horse, a friend were to say, ‘Bingley, you had better stay
+mounting your [[Horse|horse]], a friend were to say, ‘Bingley, you had better stay
 till next week,’ you would probably do it--you would probably not
 go--and, at another word, might stay a month.”
 
@@ -143,7 +143,7 @@ himself.”
 “You expect me to account for opinions which you choose to call mine,
 but which I have never acknowledged. Allowing the case, however, to
 stand according to your representation, you must remember, Miss Bennet,
-that the friend who is supposed to desire his return to the house, and
+that the friend who is supposed to [[Desire|desire]] his return to the [[house]], and
 the delay of his plan, has merely desired it, asked it without offering
 one argument in favour of its propriety.”
 
@@ -154,12 +154,12 @@ with you.”
 either.”
 
 “You appear to me, Mr. Darcy, to allow nothing for the influence of
-friendship and affection. A regard for the requester would often make
+[[Friendship|friendship]] and affection. A regard for the requester would often make
 one readily yield to a request, without waiting for arguments to reason
 one into it. I am not particularly speaking of such a case as you have
-supposed about Mr. Bingley. We may as well wait, perhaps, till the
+supposed about Mr. Bingley. We may as [[Well|well]] wait, perhaps, till the
 circumstance occurs, before we discuss the discretion of his behaviour
 thereupon. But in general and ordinary cases, between friend and friend,
 where one of them is desired by the other to change a resolution of no
 very great moment, should you think ill of that person for complying
-with the desire, without waiting to be argued into it?”
+with the [[Desire|desire]], without waiting to be argued into it?”

@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 43 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 43 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -28,13 +28,13 @@ to him, I shall not trouble myself to describe. The day after his
 
 arrival, however, he surprised me by the announcement of an intention
 
-to procure a governess for little Arthur: I told him it was quite
+to procure a governess for little [[arthur|Arthur]]: I told him it was quite
 
 unnecessary, not to say ridiculous, at the present season: I thought I
 
 was fully competent to the task of teaching him myself—for some years
 
-to come, at least: the child’s education was the only pleasure and
+to come, at least: the [[Child|child]]’s [[Education|education]] was the only pleasure and
 
 business of my life; and since he had deprived me of every other
 
@@ -48,7 +48,7 @@ already reduced the boy to little better than an automaton; I had
 
 broken his fine spirit with my rigid severity; and I should freeze all
 
-the sunshine out of his heart, and make him as gloomy an ascetic as
+the sunshine out of his heart, and make him as gloomy an [[ascetic]] as
 
 myself, if I had the handling of him much longer. And poor Rachel, too,
 
@@ -58,7 +58,7 @@ because he knows she has a proper appreciation of him.
 
 
 
-I calmly defended our several qualifications as nurse and governess,
+I calmly defended our several qualifications as [[Nurse|nurse]] and governess,
 
 and still resisted the proposed addition to our family; but he cut me
 
@@ -88,7 +88,7 @@ particular account of her person and conversation, and so forth; but,
 
 if the old lady’s eulogies are correct, you will find her to possess
 
-all desirable qualifications for her position: an inordinate love of
+all desirable qualifications for her position: an inordinate [[Love|love]] of
 
 children among the rest.”
 
@@ -114,7 +114,7 @@ conceived against her. Her attainments were limited, her intellect
 
 noways above mediocrity. She had a fine voice, and could sing like a
 
-nightingale, and accompany herself sufficiently well on the piano; but
+[[Nightingale|nightingale]], and accompany herself sufficiently [[Well|well]] on the piano; but
 
 these were her only accomplishments. There was a look of guile and
 
@@ -136,7 +136,7 @@ occasional heaving of sighs, and uplifting of eyes to the ceiling, and
 
 the utterance of a few cant phrases. She told me she was a clergyman’s
 
-daughter, and had been left an orphan from her childhood, but had had
+daughter, and had been left an [[Orphan|orphan]] from her [[Childhood|childhood]], but had had
 
 the good fortune to obtain a situation in a very pious family; and then
 
@@ -144,9 +144,9 @@ she spoke so gratefully of the kindness she had experienced from its
 
 different members, that I reproached myself for my uncharitable
 
-thoughts and unfriendly conduct, and relented for a time, but not for
+thoughts and unfriendly conduct, and relented for a [[Time|time]], but not for
 
-long: my causes of dislike were too rational, my suspicions too well
+long: my causes of dislike were too rational, my suspicions too [[Well|well]]
 
 founded for that; and I knew it was my duty to watch and scrutinize
 
@@ -162,7 +162,7 @@ told me they were now on the Continent, and their present address was
 
 unknown to her. I never saw her speak much to Mr. Huntingdon; but he
 
-would frequently look into the school-room to see how little Arthur got
+would frequently look into the school-room to see how little [[arthur|Arthur]] got
 
 on with his new companion, when I was not there. In the evening, she
 
@@ -190,7 +190,7 @@ suspicious herself. She told me from the first she was “down of that
 
 new governess,” and I soon found she watched her quite as narrowly as I
 
-did; and I was glad of it, for I longed to know the truth: the
+did; and I was glad of it, for I longed to know the [[Truth|truth]]: the
 
 atmosphere of Grassdale seemed to stifle me, and I could only live by
 

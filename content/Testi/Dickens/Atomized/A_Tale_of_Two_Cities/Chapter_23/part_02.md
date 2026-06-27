@@ -15,16 +15,16 @@ tags:
 
 
 “How long,” demanded madame, composedly, “does it take to make and store
-the lightning? Tell me.”
+the [[Lightning|lightning]]? Tell me.”
 
 Defarge raised his head thoughtfully, as if there were something in that
 too.
 
-“It does not take a long time,” said madame, “for an earthquake to
-swallow a town. Eh well! Tell me how long it takes to prepare the
+“It does not take a long [[Time|time]],” said madame, “for an earthquake to
+[[Swallow|swallow]] a town. Eh [[Well|well]]! Tell me how long it takes to prepare the
 earthquake?”
 
-“A long time, I suppose,” said Defarge.
+“A long [[Time|time]], I suppose,” said Defarge.
 
 “But when it is ready, it takes place, and grinds to pieces everything
 before it. In the meantime, it is always preparing, though it is not
@@ -33,7 +33,7 @@ seen or heard. That is your consolation. Keep it.”
 She tied a knot with flashing eyes, as if it throttled a foe.
 
 “I tell thee,” said madame, extending her right hand, for emphasis,
-“that although it is a long time on the road, it is on the road and
+“that although it is a long [[Time|time]] on the [[Road|road]], it is on the [[Road|road]] and
 coming. I tell thee it never retreats, and never stops. I tell thee it
 is always advancing. Look around and consider the lives of all the world
 that we know, consider the faces of all the world that we know, consider
@@ -44,19 +44,19 @@ you.”
 “My brave wife,” returned Defarge, standing before her with his head
 a little bent, and his hands clasped at his back, like a docile and
 attentive pupil before his catechist, “I do not question all this. But
-it has lasted a long time, and it is possible--you know well, my wife,
+it has lasted a long [[Time|time]], and it is possible--you know [[Well|well]], my wife,
 it is possible--that it may not come, during our lives.”
 
-“Eh well! How then?” demanded madame, tying another knot, as if there
+“Eh [[Well|well]]! How then?” demanded madame, tying another knot, as if there
 were another enemy strangled.
 
-“Well!” said Defarge, with a half complaining and half apologetic shrug.
+“[[Well]]!” said Defarge, with a half complaining and half apologetic shrug.
 “We shall not see the triumph.”
 
 “We shall have helped it,” returned madame, with her extended hand in
 strong action. “Nothing that we do, is done in vain. I believe, with all
-my soul, that we shall see the triumph. But even if not, even if I knew
-certainly not, show me the neck of an aristocrat and tyrant, and still I
+my [[Soul|soul]], that we shall see the triumph. But even if not, even if I knew
+certainly not, show me the neck of an [[aristocrat]] and [[Tyrant|tyrant]], and still I
 would--”
 
 Then madame, with her teeth set, tied a very terrible knot indeed.
@@ -66,32 +66,32 @@ cowardice; “I too, my dear, will stop at nothing.”
 
 “Yes! But it is your weakness that you sometimes need to see your victim
 and your opportunity, to sustain you. Sustain yourself without that.
-When the time comes, let loose a tiger and a devil; but wait for the
-time with the tiger and the devil chained--not shown--yet always ready.”
+When the [[Time|time]] comes, let loose a tiger and a devil; but wait for the
+[[Time|time]] with the tiger and the devil chained--not shown--yet always ready.”
 
 Madame enforced the conclusion of this piece of advice by striking her
 little counter with her chain of money as if she knocked its brains
 out, and then gathering the heavy handkerchief under her arm in a serene
-manner, and observing that it was time to go to bed.
+manner, and observing that it was [[Time|time]] to go to bed.
 
 Next noontide saw the admirable woman in her usual place in the
-wine-shop, knitting away assiduously. A rose lay beside her, and if she
+wine-shop, knitting away assiduously. A [[Rose|rose]] lay beside her, and if she
 now and then glanced at the flower, it was with no infraction of her
 usual preoccupied air. There were a few customers, drinking or not
 drinking, standing or seated, sprinkled about. The day was very hot,
 and heaps of flies, who were extending their inquisitive and adventurous
 perquisitions into all the glutinous little glasses near madame, fell
-dead at the bottom. Their decease made no impression on the other flies
+dead at the [[Bottom|bottom]]. Their decease made no impression on the other flies
 out promenading, who looked at them in the coolest manner (as if they
 themselves were elephants, or something as far removed), until they met
 the same fate. Curious to consider how heedless flies are!--perhaps they
-thought as much at Court that sunny summer day.
+thought as much at [[Court]] that sunny [[Summer|summer]] day.
 
-A figure entering at the door threw a shadow on Madame Defarge which she
+A figure entering at the door threw a [[Shadow|shadow]] on [[Madame Defarge]] which she
 felt to be a new one. She laid down her knitting, and began to pin her
-rose in her head-dress, before she looked at the figure.
+[[Rose|rose]] in her head-dress, before she looked at the figure.
 
-It was curious. The moment Madame Defarge took up the rose, the
+It was curious. The moment [[Madame Defarge]] took up the [[Rose|rose]], the
 customers ceased talking, and began gradually to drop out of the
 wine-shop.
 
@@ -107,13 +107,13 @@ peculiar inclination towards the left cheek which imparts a sinister
 expression! Good day, one and all!”
 
 “Have the goodness to give me a little glass of old cognac, and a
-mouthful of cool fresh water, madame.”
+mouthful of cool fresh [[Water|water]], madame.”
 
 Madame complied with a polite air.
 
 “Marvellous cognac this, madame!”
 
-It was the first time it had ever been so complimented, and Madame
+It was the first [[Time|time]] it had ever been so complimented, and Madame
 Defarge knew enough of its antecedents to know better. She said,
 however, that the cognac was flattered, and took up her knitting. The
 visitor watched her fingers for a few moments, and took the opportunity
@@ -134,19 +134,19 @@ fingers moved nimbly.
 
 “Not for use?”
 
-“That depends. I may find a use for it one day. If I do--Well,” said
+“That depends. I may find a use for it one day. If I do--[[Well]],” said
 madame, drawing a breath and nodding her head with a stern kind of
 coquetry, “I’ll use it!”
 
 It was remarkable; but, the taste of Saint Antoine seemed to be
-decidedly opposed to a rose on the head-dress of Madame Defarge. Two
+decidedly opposed to a [[Rose|rose]] on the head-dress of [[Madame Defarge]]. Two
 men had entered separately, and had been about to order drink, when,
 catching sight of that novelty, they faltered, made a pretence of
 looking about as if for some friend who was not there, and went away.
 Nor, of those who had been there when this visitor entered, was there
 one left. They had all dropped off. The spy had kept his eyes open,
 but had been able to detect no sign. They had lounged away in a
-poverty-stricken, purposeless, accidental manner, quite natural and
+[[Poverty|poverty]]-stricken, purposeless, accidental manner, quite natural and
 unimpeachable.
 
 “_John_,” thought madame, checking off her work as her fingers knitted,

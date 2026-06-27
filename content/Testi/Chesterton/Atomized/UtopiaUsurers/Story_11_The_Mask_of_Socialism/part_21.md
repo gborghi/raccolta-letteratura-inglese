@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Mask of Socialism (part 21)"
+title: "[[UtopiaUsurers]] — The Mask of Socialism (part 21)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -30,9 +30,9 @@ unread until it was actually unreadable.
 
 If you retain the servile superstition that the Press, as run by the
 
-capitalists, is popular (in any sense except that in which dirty water
+capitalists, is popular (in any sense except that in which dirty [[Water|water]]
 
-in a desert is popular), consider the case of the solemn articles in
+in a [[Desert|desert]] is popular), consider the case of the solemn articles in
 
 praise of the men who own newspapers--men of the type of Cadbury or
 
@@ -48,7 +48,7 @@ Lyons about the hopes and fears of this, our native land? These few
 
 small-minded men publish, papers to praise themselves. You could no more
 
-get an intelligent poor man to praise a millionaire's soul, except for
+get an intelligent poor man to praise a millionaire's [[Soul|soul]], except for
 
 hire, than you could get him to sell a millionaire's soap, except for
 
@@ -56,7 +56,7 @@ hire. And I repeat that, though there are other aspects of the matter of
 
 the new plutocratic raid, one of the most important is mere journalistic
 
-jealousy. The Yellow Press is bad journalism: and wishes to stop the
+[[Jealousy|jealousy]]. The Yellow Press is bad journalism: and wishes to stop the
 
 appearance of good journalism.
 
@@ -112,11 +112,11 @@ Everyone but a consistent and contented capitalist, who must be
 
 something pretty near to a Satanist, must rejoice at the spirit and
 
-success of the Battle of the Buses. But one thing about it which happens
+[[success]] of the Battle of the Buses. But one thing about it which happens
 
 to please me particularly was that it was fought, in one aspect at
 
-least, on a point such as the plutocratic fool calls unpractical. It
+least, on a point such as the plutocratic [[Fool|fool]] calls unpractical. It
 
 was fought about a symbol, a badge, a thing attended with no kind of
 
@@ -128,9 +128,9 @@ from their homes. When a man has an eye for business, all that goes on
 
 on this earth in that style is simply invisible to him. But let us be
 
-charitable to the eye for business; the eye has been pretty well blacked
+charitable to the eye for business; the eye has been pretty [[Well|well]] blacked
 
-this time.
+this [[Time|time]].
 
 
 
@@ -138,9 +138,9 @@ But I wish to insist here that it is exactly what is called the
 
 unpractical part of the thing that is really the practical. The chief
 
-difference between men and the animals is that all men are artists;
+difference between men and the [[Animals|animals]] is that all men are artists;
 
-though the overwhelming majority of us are bad artists. As the old fable
+though the overwhelming majority of us are bad artists. As the old [[Fable|fable]]
 
 truly says, lions do not make statues; even the cunning of the fox can
 
@@ -156,7 +156,7 @@ trumpeting, it is only by human blandishments that he can be induced to
 
 play the drum. But man, savage or civilised, simple or complex
 
-always desires to see his own soul outside himself; in some material
+always desires to see his own [[Soul|soul]] outside himself; in some material
 
 embodiment. He always wishes to point to a table in a temple, or a cloth
 
@@ -180,7 +180,7 @@ The Symbolism of the Badge
 
 The badge on a Trade Unionist's coat is a piece of poetry in the
 
-genuine, lucid, and logical sense in which Milton defined poetry (and
+genuine, lucid, and logical sense in which [[Milton]] defined poetry (and
 
 he ought to know) when he said that it was simple, sensuous, and
 
@@ -194,7 +194,7 @@ Gods have been; and it is passionate in this perfectly practical sense,
 
 which the man with an eye to business may some day learn more thoroughly
 
-than he likes, that there are men who will allow you to cross a word
+than he likes, that there are men who will allow you to [[Cross|cross]] a word
 
 out in a theoretical document, but who will not allow you to pull a big
 
@@ -204,7 +204,7 @@ than they have. Now I think it is this sensuousness, this passion, and,
 
 above all, this simplicity that are most wanted in this promising revolt
 
-of our time. For this simplicity is perhaps the only thing in which the
+of our [[Time|time]]. For this simplicity is perhaps the only thing in which the
 
 best type of recent revolutionists have failed. It has been our
 
@@ -212,6 +212,6 @@ sorrow lately to salute the sunset of one of the very few clean and
 
 incorruptible careers in the most corruptible phase of Christendom. The
 
-death of Quelch naturally turns one's thoughts to those extreme Marxian
+[[Death|death]] of Quelch naturally turns one's thoughts to those extreme Marxian
 
-theorists, who, whatever we may hold about their philosophy, have
+theorists, who, whatever we may hold about their [[philosophy]], have

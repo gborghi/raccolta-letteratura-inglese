@@ -16,12 +16,12 @@ tags:
 
 And now the rest of the company, highly excited and interested, always
 excepting Bishop, who had not the slightest idea that anything was going
-on, formed in one group round the fire in the next drawing-room, and
+on, formed in one group round the [[Fire|fire]] in the next drawing-room, and
 pretended to be chatting easily on the infinite variety of small topics,
 while everybody’s thoughts and eyes were secretly straying towards the
-secluded pair. The Chorus were excessively nervous, perhaps as labouring
+secluded pair. The [[Chorus]] were excessively nervous, perhaps as labouring
 under the dreadful apprehension that some good thing was going to
-be diverted from them! Bishop alone talked steadily and evenly. He
+be diverted from them! Bishop [[Alone|alone]] talked steadily and evenly. He
 conversed with the great Physician on that relaxation of the throat with
 which young curates were too frequently afflicted, and on the means
 of lessening the great prevalence of that disorder in the church.
@@ -30,39 +30,39 @@ it was to know how to read, before you made a profession of reading.
 Bishop said dubiously, did he really think so? And Physician said,
 decidedly, yes he did.
 
-Ferdinand, meanwhile, was the only one of the party who skirmished on
+[[Ferdinand]], meanwhile, was the only one of the party who skirmished on
 the outside of the circle; he kept about mid-way between it and the
 two, as if some sort of surgical operation were being performed by Lord
-Decimus on Mr Merdle, or by Mr Merdle on Lord Decimus, and his services
+Decimus on [[Mr Merdle]], or by [[Mr Merdle]] on Lord Decimus, and his services
 might at any moment be required as Dresser. In fact, within a quarter
-of an hour Lord Decimus called to him ‘Ferdinand!’ and he went, and
+of an hour Lord Decimus called to him ‘[[Ferdinand]]!’ and he went, and
 took his place in the conference for some five minutes more. Then a
-half-suppressed gasp broke out among the Chorus; for Lord Decimus rose
-to take his leave. Again coached up by Ferdinand to the point of making
+half-suppressed gasp broke out among the [[Chorus]]; for Lord Decimus [[Rose|rose]]
+to take his leave. Again coached up by [[Ferdinand]] to the point of making
 himself popular, he shook hands in the most brilliant manner with the
-whole company, and even said to Bar, ‘I hope you were not bored by my
+whole company, and even said to Bar, ‘I [[Hope|hope]] you were not bored by my
 pears?’ To which Bar retorted, ‘Eton, my lord, or Parliamentary?’ neatly
 showing that he had mastered the joke, and delicately insinuating that
 he could never forget it while his life remained.
 
-All the grave importance that was buttoned up in Mr Tite Barnacle, took
-itself away next; and Ferdinand took himself away next, to the opera.
+All the [[Grave|grave]] importance that was buttoned up in Mr Tite Barnacle, took
+itself away next; and [[Ferdinand]] took himself away next, to the opera.
 Some of the rest lingered a little, marrying golden liqueur glasses to
-Buhl tables with sticky rings; on the desperate chance of Mr Merdle’s
+Buhl tables with sticky rings; on the desperate chance of [[Mr Merdle]]’s
 saying something. But Merdle, as usual, oozed sluggishly and muddily
 about his drawing-room, saying never a word.
 
-In a day or two it was announced to all the town, that Edmund Sparkler,
-Esquire, son-in-law of the eminent Mr Merdle of worldwide renown, was
+In a day or two it was announced to all the town, that [[Edmund]] Sparkler,
+Esquire, son-in-law of the eminent [[Mr Merdle]] of worldwide renown, was
 made one of the Lords of the Circumlocution Office; and proclamation was
 issued, to all true believers, that this admirable appointment was to
 be hailed as a graceful and gracious mark of homage, rendered by the
 graceful and gracious Decimus, to that commercial interest which must
 ever in a great commercial country--and all the rest of it, with
-blast of trumpet. So, bolstered by this mark of Government homage, the
+blast of trumpet. So, bolstered by this mark of [[government|Government]] homage, the
 wonderful Bank and all the other wonderful undertakings went on and went
 up; and gapers came to Harley Street, Cavendish Square, only to look at
-the house where the golden wonder lived.
+the [[house]] where the golden [[Wonder|wonder]] lived.
 
 And when they saw the Chief Butler looking out at the hall-door in
 his moments of condescension, the gapers said how rich he looked, and

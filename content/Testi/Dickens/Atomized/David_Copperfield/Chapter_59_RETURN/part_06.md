@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 59: RETURN (part 6)"
+title: "[[David Copperfield]] — Chapter 59: RETURN (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -19,7 +19,7 @@ I told him I could easily believe it.
 ‘I have no hesitation in saying,’ said Mr. Chillip, fortifying himself
 with another sip of negus, ‘between you and me, sir, that her mother
 died of it--or that tyranny, gloom, and worry have made Mrs. Murdstone
-nearly imbecile. She was a lively young woman, sir, before marriage, and
+nearly imbecile. She was a lively young woman, sir, before [[Marriage|marriage]], and
 their gloom and austerity destroyed her. They go about with her, now,
 more like her keepers than her husband and sister-in-law. That was
 Mrs. Chillip’s remark to me, only last week. And I assure you, sir, the
@@ -33,7 +33,7 @@ red with the unwonted stimulus in which he was indulging. ‘One of Mrs.
 Chillip’s most impressive remarks. Mrs. Chillip,’ he proceeded, in the
 calmest and slowest manner, ‘quite electrified me, by pointing out
 that Mr. Murdstone sets up an image of himself, and calls it the Divine
-Nature. You might have knocked me down on the flat of my back, sir,
+[[Nature]]. You might have knocked me down on the flat of my back, sir,
 with the feather of a pen, I assure you, when Mrs. Chillip said so. The
 ladies are great observers, sir?’
 
@@ -43,7 +43,7 @@ ladies are great observers, sir?’
 rejoined. ‘It is not often that I venture to give a non-medical opinion,
 I assure you. Mr. Murdstone delivers public addresses sometimes, and it
 is said,--in short, sir, it is said by Mrs. Chillip,--that the darker
-tyrant he has lately been, the more ferocious is his doctrine.’
+[[Tyrant|tyrant]] he has lately been, the more ferocious is his doctrine.’
 
 ‘I believe Mrs. Chillip to be perfectly right,’ said I.
 
@@ -68,34 +68,34 @@ I found it not difficult, in the excitement of Mr. Chillip’s own brain,
 under his potations of negus, to divert his attention from this topic
 to his own affairs, on which, for the next half-hour, he was quite
 loquacious; giving me to understand, among other pieces of information,
-that he was then at the Gray’s Inn Coffee-house to lay his professional
+that he was then at the Gray’s Inn Coffee-[[house]] to lay his professional
 evidence before a Commission of Lunacy, touching the state of mind of a
 patient who had become deranged from excessive drinking. ‘And I assure
 you, sir,’ he said, ‘I am extremely nervous on such occasions. I could
 not support being what is called Bullied, sir. It would quite unman
-me. Do you know it was some time before I recovered the conduct of that
-alarming lady, on the night of your birth, Mr. Copperfield?’
+me. Do you know it was some [[Time|time]] before I recovered the conduct of that
+alarming lady, on the [[Night|night]] of your birth, Mr. Copperfield?’
 
-I told him that I was going down to my aunt, the Dragon of that night,
+I told him that I was going down to my aunt, the Dragon of that [[Night|night]],
 early in the morning; and that she was one of the most tender-hearted
-and excellent of women, as he would know full well if he knew her
+and excellent of women, as he would know full [[Well|well]] if he knew her
 better. The mere notion of the possibility of his ever seeing her again,
 appeared to terrify him. He replied with a small pale smile, ‘Is she so,
 indeed, sir? Really?’ and almost immediately called for a candle, and
 went to bed, as if he were not quite safe anywhere else. He did not
 actually stagger under the negus; but I should think his placid little
 pulse must have made two or three more beats in a minute, than it had
-done since the great night of my aunt’s disappointment, when she struck
+done since the great [[Night|night]] of my aunt’s disappointment, when she struck
 at him with her bonnet.
 
 Thoroughly tired, I went to bed too, at midnight; passed the next day on
 the Dover coach; burst safe and sound into my aunt’s old parlour while
 she was at tea (she wore spectacles now); and was received by her, and
 Mr. Dick, and dear old Peggotty, who acted as housekeeper, with open
-arms and tears of joy. My aunt was mightily amused, when we began to
+arms and [[Tears|tears]] of joy. My aunt was mightily amused, when we began to
 talk composedly, by my account of my meeting with Mr. Chillip, and of
 his holding her in such dread remembrance; and both she and Peggotty
 had a great deal to say about my poor mother’s second husband, and ‘that
-murdering woman of a sister’,--on whom I think no pain or penalty would
+murdering woman of a sister’,--on whom I think no [[Pain|pain]] or penalty would
 have induced my aunt to bestow any Christian or Proper Name, or any
 other designation.

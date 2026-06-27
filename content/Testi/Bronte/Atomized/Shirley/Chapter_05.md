@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 5"
+title: "[[Shirley]] — Chapter 5"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,9 +24,9 @@ HOLLOW'S COTTAGE.
 
 
 
-Moore's good spirits were still with him when he rose next morning. He
+Moore's good spirits were still with him when he [[Rose|rose]] next morning. He
 
-and Joe Scott had both spent the night in the mill, availing themselves
+and Joe Scott had both spent the [[Night|night]] in the mill, availing themselves
 
 of certain sleeping accommodations producible from recesses in the front
 
@@ -34,7 +34,7 @@ and back counting-houses. The master, always an early riser, was up
 
 somewhat sooner even than usual. He awoke his man by singing a French
 
-song as he made his toilet.
+[[Song|song]] as he made his toilet.
 
 
 
@@ -52,7 +52,7 @@ Bruce, perhaps?"
 
 
 
-"And th' arrand (spider)? Yes, but I hev. I've read th' history o'
+"And th' arrand (spider)? Yes, but I hev. I've read th' [[history]] o'
 
 Scotland, and happen knaw as mich on't as ye; and I understand ye to
 
@@ -100,7 +100,7 @@ where I was born, does not make me a Frenchman."
 
 clumsy nose standing out, the mean forehead falling back, the pale blue
 
-eyes 'à fleur de tête'? Am I all body and no legs, like a Flamand? But
+eyes 'à fleur de tête'? Am I all [[Body|body]] and no legs, like a Flamand? But
 
 you don't know what they are like, those Netherlanders. Joe, I'm an
 
@@ -132,7 +132,7 @@ perhaps, when properly translated, should be _roughly_."
 
 "We allus speak our minds i' this country; and them young parsons and
 
-grand folk fro' London is shocked at wer 'incivility;' and we like weel
+grand folk fro' [[London]] is shocked at wer 'incivility;' and we like weel
 
 enough to gi'e 'em summat to be shocked at, 'cause it's sport to us to
 
@@ -170,7 +170,7 @@ there's many a one amang them greasy chaps 'at smells o' oil, and amang
 
 them dyers wi' blue and black skins, that has a long head, and that can
 
-tell what a fooil of a law is, as well as ye or old Yorke, and a deal
+tell what a fooil of a law is, as [[Well|well]] as ye or old Yorke, and a deal
 
 better nor soft uns like Christopher Sykes o' Whinbury, and greet
 
@@ -182,7 +182,7 @@ hectoring nowts like yond' Irish Peter, Helstone's curate."
 
 
 
-"Ay! I'm fairish. I can tell cheese fro' chalk, and I'm varry weel aware
+"Ay! I'm fairish. I can tell [[cheese]] fro' [[chalk]], and I'm varry weel aware
 
 that I've improved sich opportunities as I have had, a deal better nor
 
@@ -192,7 +192,7 @@ that's as good as me, and a two-three that's better."
 
 
 
-"You're a great man--you're a sublime fellow; but you're a prig, a
+"You're a great man--you're a [[Sublime|sublime]] fellow; but you're a prig, a
 
 conceited noodle with it all, Joe! You need not to think that because
 
@@ -200,7 +200,7 @@ you've picked up a little knowledge of practical mathematics, and
 
 because you have found some scantling of the elements of chemistry at
 
-the bottom of a dyeing vat, that therefore you're a neglected man of
+the [[Bottom|bottom]] of a dyeing vat, that therefore you're a neglected man of
 
 science; and you need not to suppose that because the course of trade
 
@@ -208,17 +208,17 @@ does not always run smooth, and you, and such as you, are sometimes
 
 short of work and of bread, that therefore your class are martyrs, and
 
-that the whole form of government under which you live is wrong. And,
+that the whole form of [[government]] under which you live is wrong. And,
 
 moreover, you need not for a moment to insinuate that the virtues have
 
 taken refuge in cottages and wholly abandoned slated houses. Let me tell
 
-you, I particularly abominate that sort of trash, because I know so well
+you, I particularly abominate that sort of trash, because I know so [[Well|well]]
 
-that human nature is human nature everywhere, whether under tile or
+that human [[Nature|nature]] is human [[Nature|nature]] everywhere, whether under tile or
 
-thatch, and that in every specimen of human nature that breathes, vice
+thatch, and that in every specimen of human [[Nature|nature]] that breathes, vice
 
 and virtue are ever found blended, in smaller or greater proportions,
 
@@ -228,15 +228,15 @@ villains who were rich, and I have seen villains who were poor, and I
 
 have seen villains who were neither rich nor poor, but who had realized
 
-Agar's wish, and lived in fair and modest competency. The clock is going
+Agar's wish, and lived in fair and modest competency. The [[Clock|clock]] is going
 
 to strike six. Away with you, Joe, and ring the mill bell."
 
 
 
-It was now the middle of the month of February; by six o'clock therefore
+It was now the middle of the month of February; by six o'[[Clock|clock]] therefore
 
-dawn was just beginning to steal on night, to penetrate with a pale ray
+[[Dawn|dawn]] was just beginning to steal on [[Night|night]], to penetrate with a pale ray
 
 its brown obscurity, and give a demi-translucence to its opaque shadows.
 
@@ -246,11 +246,11 @@ the east, no flush warmed it. To see what a heavy lid day slowly lifted,
 
 what a wan glance she flung along the hills, you would have thought the
 
-sun's fire quenched in last night's floods. The breath of this morning
+sun's [[Fire|fire]] quenched in last [[Night|night]]'s floods. The breath of this morning
 
-was chill as its aspect; a raw wind stirred the mass of night-cloud, and
+was chill as its aspect; a raw [[Wind|wind]] stirred the mass of [[Night|night]]-cloud, and
 
-showed, as it slowly rose, leaving a colourless, silver-gleaming ring
+showed, as it slowly [[Rose|rose]], leaving a colourless, silver-gleaming ring
 
 all round the horizon, not blue sky, but a stratum of paler vapour
 
@@ -262,15 +262,15 @@ and rivulets were full.
 
 The mill-windows were alight, the bell still rung loud, and now the
 
-little children came running in, in too great a hurry, let us hope, to
+little children came running in, in too great a hurry, let us [[Hope|hope]], to
 
 feel very much nipped by the inclement air; and indeed, by contrast,
 
 perhaps the morning appeared rather favourable to them than otherwise,
 
-for they had often come to their work that winter through snow-storms,
+for they had often come to their work that [[Winter|winter]] through [[Snow|snow]]-storms,
 
-through heavy rain, through hard frost.
+through heavy rain, through hard [[Frost|frost]].
 
 
 
@@ -292,9 +292,9 @@ the next repetition of the fault would cost him twopence.
 
 
 
-Rules, no doubt, are necessary in such cases, and coarse and cruel
+Rules, no [[Doubt|doubt]], are necessary in such cases, and coarse and cruel
 
-masters will make coarse and cruel rules, which, at the time we treat of
+masters will make coarse and cruel rules, which, at the [[Time|time]] we treat of
 
 at least, they used sometimes to enforce tyrannically; but though I
 
@@ -304,7 +304,7 @@ found to be more or less imperfect, my pen refusing to draw anything in
 
 the model line), I have not undertaken to handle degraded or utterly
 
-infamous ones. Child-torturers, slave masters and drivers, I consign to
+infamous ones. [[Child]]-torturers, slave masters and drivers, I consign to
 
 the hands of jailers. The novelist may be excused from sullying his page
 
@@ -312,17 +312,17 @@ with the record of their deeds.
 
 
 
-Instead, then, of harrowing up my reader's soul and delighting his organ
+Instead, then, of harrowing up my reader's [[Soul|soul]] and delighting his organ
 
-of wonder with effective descriptions of stripes and scourgings, I am
+of [[Wonder|wonder]] with effective descriptions of stripes and scourgings, I am
 
 happy to be able to inform him that neither Mr. Moore nor his overlooker
 
-ever struck a child in their mill. Joe had, indeed, once very severely
+ever struck a [[Child|child]] in their mill. Joe had, indeed, once very severely
 
 flogged a son of his own for telling a lie and persisting in it; but,
 
-like his employer, he was too phlegmatic, too calm, as well as too
+like his employer, he was too phlegmatic, too calm, as [[Well|well]] as too
 
 reasonable a man, to make corporal chastisement other than the exception
 
@@ -330,19 +330,19 @@ to his treatment of the young.
 
 
 
-Mr. Moore haunted his mill, his mill-yard, his dye-house, and his
+Mr. Moore haunted his mill, his mill-yard, his dye-[[house]], and his
 
-warehouse till the sickly dawn strengthened into day. The sun even
+warehouse till the sickly [[Dawn|dawn]] strengthened into day. The sun even
 
-rose--at least a white disc, clear, tintless, and almost chill-looking
+[[Rose|rose]]--at least a white disc, clear, tintless, and almost chill-looking
 
-as ice, peeped over the dark crest of a hill, changed to silver the
+as ice, peeped over the dark crest of a [[Hill|hill]], changed to silver the
 
 livid edge of the cloud above it, and looked solemnly down the whole
 
 length of the den, or narrow dale, to whose strait bounds we are at
 
-present limited. It was eight o'clock; the mill lights were all
+present limited. It was eight o'[[Clock|clock]]; the mill lights were all
 
 extinguished; the signal was given for breakfast; the children, released
 
@@ -350,7 +350,7 @@ for half an hour from toil, betook themselves to the little tin cans
 
 which held their coffee, and to the small baskets which contained their
 
-allowance of bread. Let us hope they have enough to eat; it would be a
+allowance of bread. Let us [[Hope|hope]] they have enough to eat; it would be a
 
 pity were it otherwise.
 
@@ -358,7 +358,7 @@ pity were it otherwise.
 
 And now at last Mr. Moore quitted the mill-yard, and bent his steps to
 
-his dwelling-house. It was only a short distance from the factory, but
+his dwelling-[[house]]. It was only a short distance from the factory, but
 
 the hedge and high bank on each side of the lane which conducted to it
 
@@ -366,19 +366,19 @@ seemed to give it something of the appearance and feeling of seclusion.
 
 It was a small, whitewashed place, with a green porch over the door;
 
-scanty brown stalks showed in the garden soil near this porch, and
+scanty brown stalks showed in the [[Garden|garden]] soil near this porch, and
 
 likewise beneath the windows--stalks budless and flowerless now, but
 
-giving dim prediction of trained and blooming creepers for summer days.
+giving dim prediction of trained and blooming creepers for [[Summer|summer]] days.
 
 A grass plat and borders fronted the cottage. The borders presented only
 
 black mould yet, except where, in sheltered nooks, the first shoots of
 
-snowdrop or crocus peeped, green as emerald, from the earth. The spring
+snowdrop or crocus peeped, green as emerald, from the earth. The [[Spring|spring]]
 
-was late; it had been a severe and prolonged winter; the last deep snow
+was late; it had been a severe and prolonged [[Winter|winter]]; the last deep [[Snow|snow]]
 
 had but just disappeared before yesterday's rains; on the hills, indeed,
 
@@ -388,23 +388,23 @@ peaks; the lawn was not verdant, but bleached, as was the grass on the
 
 bank, and under the hedge in the lane. Three trees, gracefully grouped,
 
-rose beside the cottage. They were not lofty, but having no rivals near,
+[[Rose|rose]] beside the cottage. They were not lofty, but having no rivals near,
 
-they looked well and imposing where they grew. Such was Mr. Moore's
+they looked [[Well|well]] and imposing where they grew. Such was Mr. Moore's
 
-home--a snug nest for content and contemplation, but one within which
+[[Home|home]]--a snug nest for content and contemplation, but one within which
 
-the wings of action and ambition could not long lie folded.
+the wings of action and [[Ambition|ambition]] could not long lie folded.
 
 
 
 Its air of modest comfort seemed to possess no particular attraction for
 
-its owner. Instead of entering the house at once he fetched a spade from
+its owner. Instead of entering the [[house]] at once he fetched a spade from
 
-a little shed and began to work in the garden. For about a quarter of an
+a little shed and began to work in the [[Garden|garden]]. For about a quarter of an
 
-hour he dug on uninterrupted. At length, however, a window opened, and a
+hour he dug on uninterrupted. At length, however, a [[Window|window]] opened, and a
 
 female voice called to him,--
 
@@ -432,7 +432,7 @@ is an English book, I shall translate it into English.
 
 
 
-He threw down his spade, and entered the house. The narrow passage
+He threw down his spade, and entered the [[house]]. The narrow passage
 
 conducted him to a small parlour, where a breakfast of coffee and bread
 
@@ -440,7 +440,7 @@ and butter, with the somewhat un-English accompaniment of stewed pears,
 
 was spread on the table. Over these viands presided the lady who had
 
-spoken from the window. I must describe her before I go any farther.
+spoken from the [[Window|window]]. I must describe her before I go any farther.
 
 
 
@@ -462,7 +462,7 @@ inclined to be half provoked with and half amused at. The strangest
 
 point was her dress--a stuff petticoat and a striped cotton camisole.
 
-The petticoat was short, displaying well a pair of feet and ankles which
+The petticoat was short, displaying [[Well|well]] a pair of feet and ankles which
 
 left much to be desired in the article of symmetry.
 
@@ -512,9 +512,9 @@ representatives of their decayed family, the persons of both were almost
 
 sacred in her eyes. Of Louis, however, she knew less than of Robert. He
 
-had been sent to England when a mere boy, and had received his education
+had been sent to England when a mere boy, and had received his [[Education|education]]
 
-at an English school. His education not being such as to adapt him for
+at an English school. His [[Education|education]] not being such as to adapt him for
 
 trade, perhaps, too, his natural bent not inclining him to mercantile
 
@@ -550,7 +550,7 @@ breakfast-table, and she had helped him to a portion of stewed pears,
 
 and cut him a good-sized Belgian tartine, she began to pour out a flood
 
-of amazement and horror at the transaction of last night, the
+of amazement and horror at the transaction of last [[Night|night]], the
 
 destruction of the frames.
 
@@ -580,7 +580,7 @@ she said I boiled it to rags, that English people would never be able to
 
 eat such a dish as our bouilli, that the bouillon was no better than
 
-greasy warm water, and as to the choucroute, she affirms she cannot
+greasy warm [[Water|water]], and as to the choucroute, she affirms she cannot
 
 touch it! That barrel we have in the cellar--delightfully prepared by my
 
@@ -636,21 +636,21 @@ but poor."
 
 "Precisely, and thus mercenary are mankind. Again, dear brother, last
 
-Sunday, if you recollect, was very wet; accordingly I went to church in
+[[Sunday]], if you recollect, was very wet; accordingly I went to church in
 
 my neat black sabots, objects one would not indeed wear in a fashionable
 
-city, but which in the country I have ever been accustomed to use for
+[[City|city]], but which in the country I have ever been accustomed to use for
 
 walking in dirty roads. Believe me, as I paced up the aisle, composed
 
 and tranquil, as I am always, four ladies, and as many gentlemen,
 
-laughed and hid their faces behind their prayer-books."
+laughed and hid their faces behind their [[prayer]]-books."
 
 
 
-"Well, well! don't put on the sabots again. I told you before I thought
+"[[Well]], [[Well|well]]! don't put on the sabots again. I told you before I thought
 
 they were not quite the thing for this country."
 
@@ -664,9 +664,9 @@ and Leuze--cities not very far removed from the elegant capital of
 
 Brussels--it is very seldom that the respectable people wear anything
 
-else for walking in winter. Let any one try to wade the mud of the
+else for walking in [[Winter|winter]]. Let any one try to wade the mud of the
 
-Flemish chaussées in a pair of Paris brodequins, on m'en dirait des
+Flemish chaussées in a pair of [[Paris]] brodequins, on m'en dirait des
 
 nouvelles!"
 
@@ -678,13 +678,13 @@ Romans do. And as to the camisole and jupon, I am not quite sure about
 
 them either. I never see an English lady dressed in such garments. Ask
 
-Caroline Helstone."
+[[Caroline Helstone]]."
 
 
 
 "Caroline! _I_ ask Caroline? _I_ consult her about my dress? It is _she_
 
-who on all points should consult _me_. She is a child."
+who on all points should consult _me_. She is a [[Child|child]]."
 
 
 
@@ -718,9 +718,9 @@ unassuming: let us keep her so."
 
 then she has more intimate opportunities of knowing me. She sees that I
 
-have education, intelligence, manner, principles--all, in short, which
+have [[Education|education]], intelligence, manner, principles--all, in short, which
 
-belongs to a person well born and well bred."
+belongs to a person [[Well|well]] born and [[Well|well]] bred."
 
 
 
@@ -730,7 +730,7 @@ belongs to a person well born and well bred."
 
 "For _fond_ I cannot say. I am not one who is prone to take violent
 
-fancies, and, consequently, my friendship is the more to be depended on.
+fancies, and, consequently, my [[Friendship|friendship]] is the more to be depended on.
 
 I have a regard for her as my relative; her position also inspires
 
@@ -740,11 +740,11 @@ to enhance than diminish the attachment that springs from other causes."
 
 
 
-"She behaves pretty well at lessons?"
+"She behaves pretty [[Well|well]] at lessons?"
 
 
 
-"To _me_ she behaves very well; but you are conscious, brother, that I
+"To _me_ she behaves very [[Well|well]]; but you are conscious, brother, that I
 
 have a manner calculated to repel over-familiarity, to win esteem, and
 
@@ -762,7 +762,7 @@ an account of her faults."
 
 "Dear brother, I am happy to see you eat your breakfast with relish,
 
-after the fatiguing night you have passed. Caroline, then, is defective;
+after the fatiguing [[Night|night]] you have passed. Caroline, then, is defective;
 
 but with my forming hand and almost motherly care she may improve. There
 
@@ -770,11 +770,11 @@ is about her an occasional something--a reserve, I think--which I do not
 
 quite like, because it is not sufficiently girlish and submissive; and
 
-there are glimpses of an unsettled hurry in her nature, which put me
+there are glimpses of an unsettled hurry in her [[Nature|nature]], which put me
 
 out. Yet she is usually most tranquil, too dejected and thoughtful
 
-indeed sometimes. In time, I doubt not, I shall make her uniformly
+indeed sometimes. In [[Time|time]], I [[Doubt|doubt]] not, I shall make her uniformly
 
 sedate and decorous, without being unaccountably pensive. I ever
 
@@ -806,11 +806,11 @@ the benefit of my instructions--besides, one should not be apathetic in
 
 studying standard works. The other day I put into her hands a volume of
 
-short fugitive pieces. I sent her to the window to learn one by heart,
+short fugitive pieces. I sent her to the [[Window|window]] to learn one by heart,
 
-and when I looked up I saw her turning the leaves over impatiently, and
+and when I looked up I saw her turning the [[Leaves|leaves]] over impatiently, and
 
-curling her lip, absolutely with scorn, as she surveyed the little poems
+curling her lip, absolutely with scorn, as she surveyed the little [[Poems|poems]]
 
 cursorily. I chid her. 'Ma cousine,' said she, 'tout cela m'ennuie à la
 
@@ -848,13 +848,13 @@ the perfect control and guidance of her feelings."
 
 
 
-"Be sure you do, Hortense. Here she comes. That was her shadow passed
+"Be sure you do, Hortense. Here she comes. That was her [[Shadow|shadow]] passed
 
-the window, I believe."
+the [[Window|window]], I believe."
 
 
 
-"Ah! truly. She is too early--half an hour before her time.--My child,
+"Ah! truly. She is too early--half an hour before her [[Time|time]].--My [[Child|child]],
 
 what brings you here before I have breakfasted?"
 
@@ -862,7 +862,7 @@ what brings you here before I have breakfasted?"
 
 This question was addressed to an individual who now entered the room, a
 
-young girl, wrapped in a winter mantle, the folds of which were gathered
+young girl, wrapped in a [[Winter|winter]] mantle, the folds of which were gathered
 
 with some grace round an apparently slender figure.
 
@@ -870,7 +870,7 @@ with some grace round an apparently slender figure.
 
 "I came in haste to see how you were, Hortense, and how Robert was too.
 
-I was sure you would be both grieved by what happened last night. I did
+I was sure you would be both grieved by what happened last [[Night|night]]. I did
 
 not hear till this morning. My uncle told me at breakfast."
 
@@ -916,7 +916,7 @@ one would particularly wish to assist."
 
 
 
-"Where are you going this morning? I saw Murgatroyd saddling your horse
+"Where are you going this morning? I saw Murgatroyd saddling your [[Horse|horse]]
 
 in the yard."
 
@@ -926,7 +926,7 @@ in the yard."
 
 
 
-"Mr. Yorke is going too. I met him in his gig. Come home with him."
+"Mr. Yorke is going too. I met him in his gig. Come [[Home|home]] with him."
 
 
 
@@ -952,15 +952,15 @@ late?--Will he be late, Cousin Hortense?"
 
 "It is too probable. He has often much business to transact at Whinbury.
 
-Have you brought your exercise-book, child?"
+Have you brought your exercise-book, [[Child|child]]?"
 
 
 
-"Yes.--What time will you return, Robert?"
+"Yes.--What [[Time|time]] will you return, Robert?"
 
 
 
-"I generally return at seven. Do you wish me to be at home earlier?"
+"I generally return at seven. Do you wish me to be at [[Home|home]] earlier?"
 
 
 
@@ -992,7 +992,7 @@ reluctant to speak out plainly, but at heart you think me liable to
 
 Pearson's fate, who was shot at--not, indeed, from behind a hedge, but
 
-in his own house, through his staircase window, as he was going to bed."
+in his own [[house]], through his staircase [[Window|window]], as he was going to bed."
 
 
 
@@ -1002,13 +1002,13 @@ Caroline gravely, as she folded her mantle and arranged it and her muff
 
 on a side-table. "You know," she continued, "there is a hedge all the
 
-way along the road from here to Whinbury, and there are the Fieldhead
+way along the [[Road|road]] from here to Whinbury, and there are the Fieldhead
 
 plantations to pass; but you will be back by six--or before?"
 
 
 
-"Certainly he will," affirmed Hortense. "And now, my child, prepare your
+"Certainly he will," affirmed Hortense. "And now, my [[Child|child]], prepare your
 
 lessons for repetition, while I put the peas to soak for the purée at
 
@@ -1048,11 +1048,11 @@ and other accomplishments, when they are acquired?"
 
 
 
-"You may well say, when they are acquired; for, as you are aware, till
+"You may [[Well|well]] say, when they are acquired; for, as you are aware, till
 
 Hortense began to teach me, I knew precious little. As to the life I am
 
-destined for, I cannot tell. I suppose to keep my uncle's house
+destined for, I cannot tell. I suppose to keep my uncle's [[house]]
 
 till----" She hesitated.
 
@@ -1108,11 +1108,11 @@ business, and making my way in life."
 
 "I could be apprenticed to your trade--the cloth-trade. I could learn it
 
-of you, as we are distant relations. I would do the counting-house work,
+of you, as we are distant relations. I would do the counting-[[house]] work,
 
 keep the books, and write the letters, while you went to market. I know
 
-you greatly desire to be rich, in order to pay your father's debts;
+you greatly [[Desire|desire]] to be rich, in order to pay your father's debts;
 
 perhaps I could help you to get rich."
 
@@ -1136,19 +1136,19 @@ have no large sympathies; it is their duty to be narrow."
 
 
 
-"Yes, Caroline. Poverty is necessarily selfish, contracted, grovelling,
+"Yes, Caroline. [[Poverty]] is necessarily selfish, contracted, grovelling,
 
 anxious. Now and then a poor man's heart, when certain beams and dews
 
-visit it, may smell like the budding vegetation in yonder garden on this
+visit it, may smell like the budding vegetation in yonder [[Garden|garden]] on this
 
-spring day, may feel ripe to evolve in foliage, perhaps blossom; but he
+[[Spring|spring]] day, may feel ripe to evolve in foliage, perhaps blossom; but he
 
 must not encourage the pleasant impulse; he must invoke Prudence to
 
 check it, with that frosty breath of hers, which is as nipping as any
 
-north wind."
+north [[Wind|wind]]."
 
 
 
@@ -1156,9 +1156,9 @@ north wind."
 
 
 
-"When I speak of poverty, I do not so much mean the natural, habitual
+"When I speak of [[Poverty|poverty]], I do not so much mean the natural, habitual
 
-poverty of the working-man, as the embarrassed penury of the man in
+[[Poverty|poverty]] of the working-man, as the embarrassed penury of the man in
 
 debt. My grub-worm is always a straitened, struggling, care-worn
 
@@ -1166,7 +1166,7 @@ tradesman."
 
 
 
-"Cherish hope, not anxiety. Certain ideas have become too fixed in your
+"Cherish [[Hope|hope]], not anxiety. Certain ideas have become too fixed in your
 
 mind. It may be presumptuous to say it, but I have the impression that
 
@@ -1180,7 +1180,7 @@ happiness, as there is in----" Second hesitation.
 
 
 
-"In (courage! let me speak the truth)--in your manner--mind, I say only
+"In ([[Courage|courage]]! let me speak the [[Truth|truth]])--in your manner--mind, I say only
 
 _manner_--to these Yorkshire workpeople."
 
@@ -1204,11 +1204,11 @@ phlegmatic, and joyless."
 
 "As if your living cloth-dressers were all machines like your frames and
 
-shears. In your own house you seem different."
+shears. In your own [[house]] you seem different."
 
 
 
-"To those of my own house I am no alien, which I am to these English
+"To those of my own [[house]] I am no alien, which I am to these English
 
 clowns. I might act the benevolent with them, but acting is not my
 
@@ -1220,7 +1220,7 @@ them."
 
 
 
-"You don't expect them to love you, of course?"
+"You don't expect them to [[Love|love]] you, of course?"
 
 
 
@@ -1260,7 +1260,7 @@ points."
 
 
 
-"If I were of Louis's calling I might stay at home and dedicate this
+"If I were of Louis's calling I might stay at [[Home|home]] and dedicate this
 
 morning to you and your studies, whereas I must spend it in Skyes's
 
@@ -1276,21 +1276,21 @@ wool-warehouse."
 
 
 
-As he finished mending the pens, a horse, saddled and bridled, was
+As he finished [[mending]] the pens, a [[Horse|horse]], saddled and bridled, was
 
-brought up to the garden-gate.
-
-
-
-"There, Fred is ready for me; I must go. I'll take one look to see what
-
-the spring has done in the south border, too, first."
+brought up to the [[Garden|garden]]-gate.
 
 
 
-He quitted the room, and went out into the garden ground behind the
+"There, [[Fred]] is ready for me; I must go. I'll take one look to see what
 
-mill. A sweet fringe of young verdure and opening flowers--snowdrop,
+the [[Spring|spring]] has done in the south border, too, first."
+
+
+
+He quitted the room, and went out into the [[Garden|garden]] ground behind the
+
+mill. A sweet fringe of young verdure and opening [[Flowers|flowers]]--snowdrop,
 
 crocus, even primrose--bloomed in the sunshine under the hot wall of the
 
@@ -1298,7 +1298,7 @@ factory. Moore plucked here and there a blossom and leaf, till he had
 
 collected a little bouquet. He returned to the parlour, pilfered a
 
-thread of silk from his sister's work-basket, tied the flowers, and laid
+thread of silk from his sister's work-basket, tied the [[Flowers|flowers]], and laid
 
 them on Caroline's desk.
 
@@ -1318,7 +1318,7 @@ He went to the door, stopped, opened his lips as if to speak, said
 
 nothing, and moved on. He passed through the wicket, and mounted his
 
-horse. In a second he had flung himself from his saddle again,
+[[Horse|horse]]. In a second he had flung himself from his saddle again,
 
 transferred the reins to Murgatroyd, and re-entered the cottage.
 
@@ -1328,7 +1328,7 @@ transferred the reins to Murgatroyd, and re-entered the cottage.
 
 side-table; then, as an impromptu thought, he remarked, "You have no
 
-binding engagement at home perhaps, Caroline?"
+binding engagement at [[Home|home]] perhaps, Caroline?"
 
 
 
@@ -1344,7 +1344,7 @@ Jewish than it--its contents and their prices--cannot be conceived. But
 
 I see something, a very tiny curl, at the corners of your lip, which
 
-tells me that you know its merits as well as I do. Forget the Jew's
+tells me that you know its merits as [[Well|well]] as I do. Forget the Jew's
 
 basket, then, and spend the day here as a change. Your uncle won't break
 
@@ -1362,9 +1362,9 @@ She smiled. "No."
 
 "Then stay and dine with Hortense; she will be glad of your company. I
 
-shall return in good time. We will have a little reading in the evening.
+shall return in good [[Time|time]]. We will have a little reading in the evening.
 
-The moon rises at half-past eight, and I will walk up to the rectory
+The [[Moon|moon]] rises at half-past eight, and I will walk up to the rectory
 
 with you at nine. Do you agree?"
 
@@ -1378,7 +1378,7 @@ Moore lingered yet two minutes. He bent over Caroline's desk and glanced
 
 at her grammar, he fingered her pen, he lifted her bouquet and played
 
-with it; his horse stamped impatient; Fred Murgatroyd hemmed and coughed
+with it; his [[Horse|horse]] stamped impatient; [[Fred]] Murgatroyd hemmed and coughed
 
 at the gate, as if he wondered what in the world his master was doing.
 

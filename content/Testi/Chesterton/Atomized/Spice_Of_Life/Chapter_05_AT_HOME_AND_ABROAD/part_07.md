@@ -1,5 +1,5 @@
 ---
-title: "Spice Of Life — Part 4: AT HOME AND ABROAD (part 7)"
+title: "Spice Of Life — Part 4: AT [[Home|HOME]] AND ABROAD (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Spice-Of-Life-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-There sat at this small table a poor Frenchman with his wife and child;
+There sat at this small table a poor Frenchman with his wife and [[Child|child]];
 he was rather shabbier than what we should call an artisan,
 but he was probably a small shopkeeper; he was independent;
 it had never occurred to him to pretend to be a gentleman.
@@ -31,9 +31,9 @@ and equality, gave him another gulp out of her glass of beer.
 At that moment a lame man came by begging; and the man at the table
 (who would have been turned away from many of our respectable
 houses as a beggar himself), took some small coins from his pocket
-and gave them to the child, with a few words in an undertone.
-The child then gave them to the beggar.  That was all.
-But one of the two strangers in that city knew he had been
+and gave them to the [[Child|child]], with a few words in an undertone.
+The [[Child|child]] then gave them to the beggar.  That was all.
+But one of the two strangers in that [[City|city]] knew he had been
 looking at the palladium and high citadel, round which rages
 the whole human war of our civilization and our century;
 and that all men are divided precisely and sharply by what they
@@ -52,14 +52,14 @@ and every thing practical means providing the huge human cafe with
 such tables--but separate tables.  They understand that when this
 has been done as fully and fairly as possible, there will still
 always be somebody limping by; and that he must not be forgotten.
-Above all, they understand the impulse that makes the most innocent
+Above all, they understand the impulse that makes the most [[Innocent|innocent]]
 the intermediary and the almoner; they understand propitiation
 and the priest.
 
-There are also other kinds of people.  For the well-dressed
-American rose from her table with a sort of snort and went on
-her way to see the sights of Paris.  We must not be hard on her;
-in truth the poor lady suffered from delusions; for she laboured
+There are also other kinds of people.  For the [[Well|well]]-dressed
+American [[Rose|rose]] from her table with a sort of snort and went on
+her way to see the sights of [[Paris]].  We must not be hard on her;
+in [[Truth|truth]] the poor lady suffered from delusions; for she laboured
 under the extraordinary notion that she had seen ignorant people
-giving a child Alcohol; and she was ridden with a sort of nightmare,
+giving a [[Child|child]] Alcohol; and she was ridden with a sort of [[nightmare]],
 to the effect that a beggar is a horrible thing.

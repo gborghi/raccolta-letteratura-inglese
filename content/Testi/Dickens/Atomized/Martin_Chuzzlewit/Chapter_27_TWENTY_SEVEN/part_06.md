@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 27: TWENTY SEVEN (part 6)"
+title: "[[Martin Chuzzlewit]] — Chapter 27: TWENTY SEVEN (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -15,27 +15,27 @@ tags:
 
 
 ‘Now you two gentlemen have business to discuss, I know,’ said the
-doctor, ‘and your time is precious. So is mine; for several lives are
+doctor, ‘and your [[Time|time]] is precious. So is mine; for several lives are
 waiting for me in the next room, and I have a round of visits to make
 after--after I have taken ‘em. Having had the happiness to introduce you
 to each other, I may go about my business. Good-bye. But allow me, Mr
 Montague, before I go, to say this of my friend who sits beside you:
 That gentleman has done more, sir,’ rapping his snuff-box solemnly, ‘to
-reconcile me to human nature, than any man alive or dead. Good-bye!’
+reconcile me to human [[Nature|nature]], than any man alive or dead. Good-bye!’
 
 With these words Jobling bolted abruptly out of the room, and proceeded
 in his own official department, to impress the lives in waiting with a
 sense of his keen conscientiousness in the discharge of his duty, and
 the great difficulty of getting into the Anglo-Bengalee; by feeling
 their pulses, looking at their tongues, listening at their ribs,
-poking them in the chest, and so forth; though, if he didn’t well know
+poking them in the chest, and so forth; though, if he didn’t [[Well|well]] know
 beforehand that whatever kind of lives they were, the Anglo-Bengalee
 would accept them readily, he was far from being the Jobling that his
 friend considered him; and was not the original Jobling, but a spurious
-imitation.
+[[Imitation|imitation]].
 
 Mr Crimple also departed on the business of the morning; and Jonas
-Chuzzlewit and Tigg were left alone.
+Chuzzlewit and Tigg were left [[Alone|alone]].
 
 ‘I learn from our friend,’ said Tigg, drawing his chair towards Jonas
 with a winning ease of manner, ‘that you have been thinking--’
@@ -46,7 +46,7 @@ coming here for such or such a purpose, why, that’s his lookout. I don’t
 stand committed by that.’
 
 Jonas said this offensively enough; for over and above the habitual
-distrust of his character, it was in his nature to seek to revenge
+distrust of his character, it was in his [[Nature|nature]] to seek to [[Revenge|revenge]]
 himself on the fine clothes and the fine furniture, in exact proportion
 as he had been unable to withstand their influence.
 
@@ -57,16 +57,16 @@ know,’ said Jonas.
 ‘My dear fellow!’ cried Tigg, clapping him on the shoulder, ‘I applaud
 your frankness. If men like you and I speak openly at first, all
 possible misunderstanding is avoided. Why should I disguise what you
-know so well, but what the crowd never dream of? We companies are all
-birds of prey; mere birds of prey. The only question is, whether in
-serving our own turn, we can serve yours too; whether in double-lining
+know so [[Well|well]], but what the crowd never dream of? We companies are all
+[[Birds|birds]] of prey; mere [[Birds|birds]] of prey. The only question is, whether in
+serving our own turn, we can serve yours too; whether in [[Double|double]]-lining
 our own nest, we can put a single living into yours. Oh, you’re in our
 secret. You’re behind the scenes. We’ll make a merit of dealing plainly
 with you, when we know we can’t help it.’
 
 It was remarked, on the first introduction of Mr Jonas into these pages,
 that there is a simplicity of cunning no less than a simplicity of
-innocence, and that in all matters involving a faith in knavery, he was
+[[innocence]], and that in all matters involving a [[Faith|faith]] in knavery, he was
 the most credulous of men. If Mr Tigg had preferred any claim to high
 and honourable dealing, Jonas would have suspected him though he had
 been a very model of probity; but when he gave utterance to Jonas’s own
@@ -80,14 +80,14 @@ more boastful attitude; and smiling in his miserable conceit rejoined:
 it, I WILL say.’
 
 ‘Tut, tut,’ said Tigg, nodding confidentially, and showing his white
-teeth; ‘we are not children, Mr Chuzzlewit; we are grown men, I hope.’
+teeth; ‘we are not children, Mr Chuzzlewit; we are grown men, I [[Hope|hope]].’
 
-Jonas assented, and said after a short silence, first spreading out his
-legs, and sticking one arm akimbo to show how perfectly at home he was,
+Jonas assented, and said after a short [[Silence|silence]], first spreading out his
+legs, and sticking one arm akimbo to show how perfectly at [[Home|home]] he was,
 
-‘The truth is--’
+‘The [[Truth|truth]] is--’
 
-‘Don’t say, the truth,’ interposed Tigg, with another grin. ‘It’s so
+‘Don’t say, the [[Truth|truth]],’ interposed Tigg, with another grin. ‘It’s so
 like humbug.’
 
 Greatly charmed by this, Jonas began again.
@@ -96,7 +96,7 @@ Greatly charmed by this, Jonas began again.
 
 ‘Better,’ muttered Tigg. ‘Much better!’
 
-‘--That I didn’t consider myself very well used by one or two of the old
+‘--That I didn’t consider myself very [[Well|well]] used by one or two of the old
 companies in some negotiations I have had with ‘em--once had, I mean.
 They started objections they had no right to start, and put questions
 they had no right to put, and carried things much too high for my
@@ -111,7 +111,7 @@ pleasantest manner:
 ‘Take a glass of wine.’
 
 ‘No, no,’ returned Jonas, with a cunning shake of the head; ‘none of
-that, thankee. No wine over business. All very well for you, but it
+that, thankee. No wine over business. All very [[Well|well]] for you, but it
 wouldn’t do for me.’
 
 ‘What an old hand you are, Mr Chuzzlewit!’ said Tigg, leaning back in
@@ -135,10 +135,10 @@ about it; which I’d much rather not do, for it’s just in a woman’s way
 to take it into her head, if you talk to her about such things, that
 she’s going to die directly.’
 
-‘So it is,’ cried Tigg, kissing his hand in honour of the sex. ‘You’re
+‘So it is,’ cried Tigg, kissing his hand in [[Honour|honour]] of the sex. ‘You’re
 quite right. Sweet, silly, fluttering little simpletons!’
 
-‘Well,’ said Jonas, ‘on that account, you know, and because offence
+‘[[Well]],’ said Jonas, ‘on that account, you know, and because offence
 has been given me in other quarters, I wouldn’t mind patronizing this
 Company. But I want to know what sort of security there is for the
 Company’s going on. That’s the--’

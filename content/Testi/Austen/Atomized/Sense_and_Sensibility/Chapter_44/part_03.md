@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 44 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 44 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -16,9 +16,9 @@ tags:
 
 offered to forgive the past, if I would marry Eliza. That could not
 
-be—and I was formally dismissed from her favour and her house. The
+be—and I was formally dismissed from her favour and her [[house]]. The
 
-night following this affair—I was to go the next morning—was spent by
+[[Night|night]] following this affair—I was to go the next morning—was spent by
 
 me in deliberating on what my future conduct should be. The struggle
 
@@ -26,7 +26,7 @@ was great—but it ended too soon. My affection for Marianne, my thorough
 
 conviction of her attachment to me—it was all insufficient to outweigh
 
-that dread of poverty, or get the better of those false ideas of the
+that dread of [[Poverty|poverty]], or get the better of those false ideas of the
 
 necessity of riches, which I was naturally inclined to feel, and
 
@@ -42,7 +42,7 @@ engaged to dine with you on that very day; some apology was therefore
 
 necessary for my breaking this engagement. But whether I should write
 
-this apology, or deliver it in person, was a point of long debate. To
+this apology, or deliver it in person, was a point of long [[debate]]. To
 
 see Marianne, I felt, would be dreadful, and I even doubted whether I
 
@@ -62,31 +62,31 @@ would have answered every purpose. Why was it necessary to call?”
 
 
 
-“It was necessary to my own pride. I could not bear to leave the
+“It was necessary to my own [[Pride|pride]]. I could not bear to leave the
 
 country in a manner that might lead you, or the rest of the
 
 neighbourhood, to suspect any part of what had really passed between
 
-Mrs. Smith and myself—and I resolved therefore on calling at the
+Mrs. [[smith|Smith]] and myself—and I resolved therefore on calling at the
 
 cottage, in my way to Honiton. The sight of your dear sister, however,
 
-was really dreadful; and, to heighten the matter, I found her alone.
+was really dreadful; and, to heighten the matter, I found her [[Alone|alone]].
 
 You were all gone I do not know where. I had left her only the evening
 
-before, so fully, so firmly resolved within my self on doing right! A
+before, so fully, so firmly resolved within my [[Self|self]] on doing right! A
 
 few hours were to have engaged her to me for ever; and I remember how
 
 happy, how gay were my spirits, as I walked from the cottage to
 
-Allenham, satisfied with myself, delighted with every body! But in
+Allenham, satisfied with myself, delighted with every [[Body|body]]! But in
 
-this, our last interview of friendship, I approached her with a sense
+this, our last interview of [[Friendship|friendship]], I approached her with a sense
 
-of guilt that almost took from me the power of dissembling. Her sorrow,
+of [[Guilt|guilt]] that almost took from me the power of dissembling. Her sorrow,
 
 her disappointment, her deep regret, when I told her that I was obliged
 
@@ -108,7 +108,7 @@ They were both silent for a few moments. Elinor first spoke.
 
 “I do not know what I told her,” he replied, impatiently; “less than
 
-was due to the past, beyond a doubt, and in all likelihood much more
+was due to the past, beyond a [[Doubt|doubt]], and in all likelihood much more
 
 than was justified by the future. I cannot think of it.—It won’t
 
@@ -122,17 +122,17 @@ gives me to look back on my own misery. I owe such a grudge to myself
 
 for the stupid, rascally folly of my own heart, that all my past
 
-sufferings under it are only triumph and exultation to me now. Well, I
+sufferings under it are only triumph and exultation to me now. [[Well]], I
 
 went, left all that I loved, and went to those to whom, at best, I was
 
-only indifferent. My journey to town—travelling with my own horses, and
+only indifferent. My [[Journey|journey]] to town—travelling with my own horses, and
 
 therefore so tediously—no creature to speak to—my own reflections so
 
 cheerful—when I looked forward every thing so inviting!—when I looked
 
-back at Barton, the picture so soothing!—oh, it was a blessed journey!”
+back at Barton, the picture so soothing!—oh, it was a blessed [[Journey|journey]]!”
 
 
 
@@ -140,7 +140,7 @@ He stopped.
 
 
 
-“Well, sir,” said Elinor, who, though pitying him, grew impatient for
+“[[Well]], sir,” said Elinor, who, though pitying him, grew impatient for
 
 his departure, “and this is all?”
 
@@ -158,7 +158,7 @@ Did she show it you?”
 
 “When the first of hers reached me (as it immediately did, for I was in
 
-town the whole time,) what I felt is—in the common phrase, not to be
+town the whole [[Time|time]],) what I felt is—in the common phrase, not to be
 
 expressed; in a more simple one—perhaps too simple to raise any
 
@@ -188,7 +188,7 @@ duty to check such ideas in her companion as the last.
 
 “This is not right, Mr. Willoughby.—Remember that you are married.
 
-Relate only what in your conscience you think necessary for me to
+Relate only what in your [[Conscience|conscience]] you think necessary for me to
 
 hear.”
 
@@ -200,13 +200,13 @@ former days,—that in spite of the many, many weeks we had been
 
 separated, she was as constant in her own feelings, and as full of
 
-faith in the constancy of mine as ever,—awakened all my remorse. I say
+[[Faith|faith]] in the constancy of mine as ever,—awakened all my remorse. I say
 
-awakened, because time and London, business and dissipation, had in
+awakened, because [[Time|time]] and [[London]], business and dissipation, had in
 
 some measure quieted it, and I had been growing a fine hardened
 
-villain, fancying myself indifferent to her, and chusing to fancy that
+[[Villain|villain]], fancying myself indifferent to her, and chusing to fancy that
 
 she too must have become indifferent to me; talking to myself of our
 
@@ -216,7 +216,7 @@ shoulders in proof of its being so, and silencing every reproach,
 
 overcoming every scruple, by secretly saying now and then, ‘I shall be
 
-heartily glad to hear she is well married.’ But this note made me know
+heartily glad to hear she is [[Well|well]] married.’ But this note made me know
 
 myself better. I felt that she was infinitely dearer to me than any
 

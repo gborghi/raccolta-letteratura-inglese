@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 35"
+title: "[[Villette]] — Chapter 35"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -18,50 +18,50 @@ CHAPTER XXXV.
 FRATERNITY.
 
 
-“Oubliez les Professeurs.” So said Madame Beck. Madame Beck was a wise
+“Oubliez les Professeurs.” So said [[Madame Beck]]. [[Madame Beck]] was a wise
 woman, but she should not have uttered those words. To do so was a
-mistake. That night she should have left me calm—not excited,
+mistake. That [[Night|night]] she should have left me calm—not excited,
 indifferent, not interested, isolated in my own estimation and that of
 others—not connected, even in idea, with this second person whom I was
 to forget.
 
 Forget him? Ah! they took a sage plan to make me forget him—the
 wiseheads! They showed me how good he was; they made of my dear little
-man a stainless little hero. And then they had prated about his manner
+man a stainless little [[Hero|hero]]. And then they had prated about his manner
 of loving. What means had I, before this day, of being certain whether
-he could love at all or not?
+he could [[Love|love]] at all or not?
 
 I had known him jealous, suspicious; I had seen about him certain
 tendernesses, fitfulnesses—a softness which came like a warm air, and a
 ruth which passed like early dew, dried in the heat of his
 irritabilities: _this_ was all I had seen. And they, Père Silas and
-Modeste Maria Beck (that these two wrought in concert I could not
-doubt) opened up the adytum of his heart—showed me one grand love, the
-child of this southern nature’s youth, born so strong and perfect, that
-it had laughed at Death himself, despised his mean rape of matter,
-clung to immortal spirit, and in victory and faith, had watched beside
+Modeste [[Maria]] Beck (that these two wrought in concert I could not
+[[Doubt|doubt]]) opened up the adytum of his heart—showed me one grand [[Love|love]], the
+[[Child|child]] of this southern [[Nature|nature]]’s youth, born so strong and perfect, that
+it had laughed at [[Death]] himself, despised his mean rape of matter,
+clung to immortal spirit, and in victory and [[Faith|faith]], had watched beside
 a tomb twenty years.
 
 This had been done—not idly: this was not a mere hollow indulgence of
 sentiment; he had proven his fidelity by the consecration of his best
 energies to an unselfish purpose, and attested it by limitless personal
 sacrifices: for those once dear to her he prized—he had laid down
-vengeance, and taken up a cross.
+vengeance, and taken up a [[Cross|cross]].
 
-Now, as for Justine Marie, I knew what she was as well as if I had seen
-her. I knew she was well enough; there were girls like her in Madame
+Now, as for Justine Marie, I knew what she was as [[Well|well]] as if I had seen
+her. I knew she was [[Well|well]] enough; there were girls like her in Madame
 Beck’s school—phlegmatics—pale, slow, inert, but kind-natured, neutral
 of evil, undistinguished for good.
 
 If she wore angels’ wings, I knew whose poet-fancy conferred them. If
 her forehead shone luminous with the reflex of a halo, I knew in the
-fire of whose irids that circlet of holy flame had generation.
+[[Fire|fire]] of whose irids that circlet of holy flame had generation.
 
 Was I, then, to be frightened by Justine Marie? Was the picture of a
 pale dead nun to rise, an eternal barrier? And what of the charities
 which absorbed his worldly goods? What of his heart sworn to virginity?
 
-Madame Beck—Père Silas—you should not have suggested these questions.
+[[Madame Beck]]—Père Silas—you should not have suggested these questions.
 They were at once the deepest puzzle, the strongest obstruction, and
 the keenest stimulus, I had ever felt. For a week of nights and days I
 fell asleep—I dreamt, and I woke upon these two questions. In the whole
@@ -72,33 +72,33 @@ and no little adust.
 
 After that visit to the Rue des Mages, I _did_ want to see him again. I
 felt as if—knowing what I now knew—his countenance would offer a page
-more lucid, more interesting than ever; I felt a longing to trace in it
+more lucid, more interesting than ever; I felt a [[Longing|longing]] to trace in it
 the imprint of that primitive devotedness, the signs of that
 half-knightly, half-saintly chivalry which the priest’s narrative
-imputed to his nature. He had become my Christian hero: under that
+imputed to his [[Nature|nature]]. He had become my Christian [[Hero|hero]]: under that
 character I wanted to view him.
 
 Nor was opportunity slow to favour; my new impressions underwent her
 test the next day. Yes: I was granted an interview with my “Christian
-hero”—an interview not very heroic, or sentimental, or biblical, but
+[[Hero|hero]]”—an interview not very heroic, or sentimental, or biblical, but
 lively enough in its way.
 
-About three o’clock of the afternoon, the peace of the first
+About three o’[[Clock|clock]] of the afternoon, the peace of the first
 classe—safely established, as it seemed, under the serene sway of
-Madame Beck, who, _in propria persona_, was giving one of her orderly
+[[Madame Beck]], who, _in propria persona_, was giving one of her orderly
 and useful lessons—this peace, I say, suffered a sudden fracture by the
 wild inburst of a paletôt.
 
 Nobody at the moment was quieter than myself. Eased of responsibility
-by Madame Beck’s presence, soothed by her uniform tones, pleased and
+by [[Madame Beck]]’s presence, soothed by her uniform tones, pleased and
 edified with her clear exposition of the subject in hand (for she
-taught well), I sat bent over my desk, drawing—that is, copying an
+taught [[Well|well]]), I sat bent over my desk, drawing—that is, copying an
 elaborate line engraving, tediously working up my copy to the finish of
 the original, for that was my practical notion of art; and, strange to
 say, I took extreme pleasure in the labour, and could even produce
 curiously finical Chinese facsimiles of steel or mezzotint
 plates—things about as valuable as so many achievements in
-worsted-work, but I thought pretty well of them in those days.
+worsted-work, but I thought pretty [[Well|well]] of them in those days.
 
 What was the matter? My drawing, my pencils, my precious copy, gathered
 into one crushed-up handful, perished from before my sight; I myself
@@ -109,13 +109,13 @@ sleeve, were borne afar; in a second, I followed the furniture; in two
 minutes they and I were fixed in the centre of the grand salle—a vast
 adjoining room, seldom used save for dancing and choral
 singing-lessons—fixed with an emphasis which seemed to prohibit the
-remotest hope of our ever being permitted to stir thence again.
+remotest [[Hope|hope]] of our ever being permitted to stir thence again.
 
 Having partially collected my scared wits, I found myself in the
 presence of two men, gentlemen, I suppose I should say—one dark, the
 other light—one having a stiff, half-military air, and wearing a
 braided surtout; the other partaking, in garb and bearing, more of the
-careless aspect of the student or artist class: both flourishing in
+careless aspect of the student or [[artist]] class: both flourishing in
 full magnificence of moustaches, whiskers, and imperial. M. Emanuel
 stood a little apart from these; his countenance and eyes expressed
 strong choler; he held forth his hand with his tribune gesture.
@@ -135,31 +135,31 @@ college—Messieurs Boissec and Rochemorte—a pair of cold-blooded fops
 and pedants, sceptics, and scoffers. It seems that M. Paul had been
 rashly exhibiting something I had written—something, he had never once
 praised, or even mentioned, in my hearing, and which I deemed
-forgotten. The essay was not remarkable at all; it only _seemed_
+forgotten. The [[Essay|essay]] was not remarkable at all; it only _seemed_
 remarkable, compared with the average productions of foreign
 school-girls; in an English establishment it would have passed scarce
 noticed. Messieurs Boissec and Rochemorte had thought proper to
 question its genuineness, and insinuate a cheat; I was now to bear my
-testimony to the truth, and to be put to the torture of their
+testimony to the [[Truth|truth]], and to be put to the torture of their
 examination.
 
 A memorable scene ensued.
 
-They began with classics. A dead blank. They went on to French history.
+They began with classics. A dead blank. They went on to French [[history]].
 I hardly knew Mérovée from Pharamond. They tried me in various
 ’ologies, and still only got a shake of the head, and an unchanging “Je
 n’en sais rien.”
 
 After an expressive pause, they proceeded to matters of general
-information, broaching one or two subjects which I knew pretty well,
+information, broaching one or two subjects which I knew pretty [[Well|well]],
 and on which I had often reflected. M. Emanuel, who had hitherto stood
-looking on, dark as the winter-solstice, brightened up somewhat; he
-thought I should now show myself at least no fool.
+looking on, dark as the [[Winter|winter]]-solstice, brightened up somewhat; he
+thought I should now show myself at least no [[Fool|fool]].
 
 He learned his error. Though answers to the questions surged up fast,
-my mind filling like a rising well, ideas were there, but not words. I
+my mind filling like a rising [[Well|well]], ideas were there, but not words. I
 either _could_ not, or _would_ not speak—I am not sure which: partly, I
-think, my nerves had got wrong, and partly my humour was crossed.
+think, my nerves had got wrong, and partly my [[Humour|humour]] was crossed.
 
 I heard one of my examiners—he of the braided surtout—whisper to his
 co-professor, “Est-elle donc idiote?”
@@ -181,25 +181,25 @@ I wish I could have spoken with calm and dignity, or I wish my sense
 had sufficed to make me hold my tongue; that traitor tongue tripped,
 faltered. Beholding the judges cast on M. Emanuel a hard look of
 triumph, and hearing the distressed tremor of my own voice, out I burst
-in a fit of choking tears. The emotion was far more of anger than
+in a fit of choking [[Tears|tears]]. The emotion was far more of anger than
 grief; had I been a man and strong, I could have challenged that pair
 on the spot—but it _was_ emotion, and I would rather have been scourged
 than betrayed it.
 
 The incapables! Could they not see at once the crude hand of a novice
 in that composition they called a forgery? The subject was classical.
-When M. Paul dictated the trait on which the essay was to turn, I heard
-it for the first time; the matter was new to me, and I had no material
+When M. Paul dictated the trait on which the [[Essay|essay]] was to turn, I heard
+it for the first [[Time|time]]; the matter was new to me, and I had no material
 for its treatment. But I got books, read up the facts, laboriously
-constructed a skeleton out of the dry bones of the real, and then
+constructed a [[skeleton]] out of the dry bones of the real, and then
 clothed them, and tried to breathe into them life, and in this last aim
-I had pleasure. With me it was a difficult and anxious time till my
+I had pleasure. With me it was a difficult and anxious [[Time|time]] till my
 facts were found, selected, and properly jointed; nor could I rest from
 research and effort till I was satisfied of correct anatomy; the
 strength of my inward repugnance to the idea of flaw or falsity
 sometimes enabled me to shun egregious blunders; but the knowledge was
-not there in my head, ready and mellow; it had not been sown in Spring,
-grown in Summer, harvested in Autumn, and garnered through Winter;
+not there in my head, ready and mellow; it had not been sown in [[spring|Spring]],
+grown in [[Summer]], harvested in [[Autumn]], and garnered through [[Winter]];
 whatever I wanted I must go out and gather fresh; glean of wild herbs
 my lapful, and shred them green into the pot. Messieurs Boissec and
 Rochemorte did not perceive this. They mistook my work for the work of
@@ -208,7 +208,7 @@ a ripe scholar.
 They would not yet let me go: I must sit down and write before them. As
 I dipped my pen in the ink with a shaking hand, and surveyed the white
 paper with eyes half-blinded and overflowing, one of my judges began
-mincingly to apologize for the pain he caused.
+mincingly to apologize for the [[Pain|pain]] he caused.
 
 “Nous agissons dans l’intérêt de la vérité. Nous ne voulons pas vous
 blesser,” said he.
@@ -223,19 +223,19 @@ Human Justice! What was I to make of it? Blank, cold abstraction,
 unsuggestive to me of one inspiring idea; and there stood M. Emanuel,
 sad as Saul, and stern as Joab, and there triumphed his accusers.
 
-At these two I looked. I was gathering my courage to tell them that I
+At these two I looked. I was gathering my [[Courage|courage]] to tell them that I
 would neither write nor speak another word for their satisfaction, that
 their theme did not suit, nor their presence inspire me, and that,
-notwithstanding, whoever threw the shadow of a doubt on M. Emanuel’s
-honour, outraged that truth of which they had announced themselves
+notwithstanding, whoever threw the [[Shadow|shadow]] of a [[Doubt|doubt]] on M. Emanuel’s
+[[Honour|honour]], outraged that [[Truth|truth]] of which they had announced themselves
 the—champions: I _meant_ to utter all this, I say, when suddenly, a
-light darted on memory.
+light darted on [[Memory|memory]].
 
 Those two faces looking out of the forest of long hair, moustache, and
 whisker—those two cold yet bold, trustless yet presumptuous
 visages—were the same faces, the very same that, projected in full
 gaslight from behind the pillars of a portico, had half frightened me
-to death on the night of my desolate arrival in Villette. These, I felt
+to [[Death|death]] on the [[Night|night]] of my desolate arrival in [[Villette]]. These, I felt
 morally certain, were the very heroes who had driven a friendless
 foreigner beyond her reckoning and her strength, chased her breathless
 over a whole quarter of the town.
@@ -245,22 +245,22 @@ were what she ought to be, you two would scarce hold your present post,
 or enjoy your present credit.”
 
 An idea once seized, I fell to work. “Human Justice” rushed before me
-in novel guise, a red, random beldame, with arms akimbo. I saw her in
-her house, the den of confusion: servants called to her for orders or
+in [[Novel|novel]] guise, a red, random beldame, with arms akimbo. I saw her in
+her [[house]], the den of confusion: servants called to her for orders or
 help which she did not give; beggars stood at her door waiting and
 starving unnoticed; a swarm of children, sick and quarrelsome, crawled
 round her feet, and yelled in her ears appeals for notice, sympathy,
 cure, redress. The honest woman cared for none of these things. She had
-a warm seat of her own by the fire, she had her own solace in a short
+a warm seat of her own by the [[Fire|fire]], she had her own solace in a short
 black pipe, and a bottle of Mrs. Sweeny’s soothing syrup; she smoked
 and she sipped, and she enjoyed her paradise; and whenever a cry of the
-suffering souls about her pierced her ears too keenly—my jolly dame
+[[Suffering|suffering]] souls about her pierced her ears too keenly—my jolly dame
 seized the poker or the hearth-brush: if the offender was weak,
 wronged, and sickly, she effectually settled him: if he was strong,
 lively, and violent, she only menaced, then plunged her hand in her
 deep pouch, and flung a liberal shower of sugar-plums.
 
-Such was the sketch of “Human Justice,” scratched hurriedly on paper,
+Such was the [[Sketch|sketch]] of “Human Justice,” scratched hurriedly on paper,
 and placed at the service of Messrs. Boissec and Rochemorte. M. Emanuel
 read it over my shoulder. Waiting no comment, I curtsied to the trio,
 and withdrew.
@@ -275,7 +275,7 @@ Not wishing him to go quite away, only desiring he should feel that
 such a transport as he had that day given way to, could not be indulged
 with perfect impunity, I was not sorry to see him, soon after,
 gardening in the berceau. He approached the glass door; I drew near
-also. We spoke of some flowers growing round it. By-and-by Monsieur
+also. We spoke of some [[Flowers|flowers]] growing round it. By-and-by Monsieur
 laid down his spade; by-and-by he recommenced conversation, passed to
 other subjects, and at last touched a point of interest.
 
@@ -284,12 +284,12 @@ charge of extravagance, M. Paul half apologized; he half regretted,
 too, the fitfulness of his moods at all times, yet he hinted that some
 allowance ought to be made for him. “But,” said he, “I can hardly
 expect it at your hands, Miss Lucy; you know neither me, nor my
-position, nor my history.”
+position, nor my [[history]].”
 
-His history. I took up the word at once; I pursued the idea.
+His [[history]]. I took up the word at once; I pursued the idea.
 
 “No, Monsieur,” I rejoined. “Of course, as you say, I know neither your
-history, nor your position, nor your sacrifices, nor any of your
+[[history]], nor your position, nor your sacrifices, nor any of your
 sorrows, or trials, or affections, or fidelities. Oh, no! I know
 nothing about you; you are for me altogether a stranger.”
 
@@ -304,12 +304,12 @@ thrust here and there, inconsiderate of their feelings. You seek your
 recreations in public, by the light of the evening chandelier: this
 school and yonder college are your workshops, where you fabricate the
 ware called pupils. I don’t so much as know where you live; it is
-natural to take it for granted that you have no home, and need none.”
+natural to take it for granted that you have no [[Home|home]], and need none.”
 
 “I am judged,” said he. “Your opinion of me is just what I thought it
 was. For you I am neither a man nor a Christian. You see me void of
 affection and religion, unattached by friend or family, unpiloted by
-principle or faith. It is well, Mademoiselle; such is our reward in
+principle or [[Faith|faith]]. It is [[Well|well]], Mademoiselle; such is our reward in
 this life.”
 
 “You are a philosopher, Monsieur; a cynic philosopher” (and I looked at
@@ -328,7 +328,7 @@ scorn the most decided, he broke out—
 
 “Je vis dans un trou! I inhabit a den, Miss—a cavern, where you would
 not put your dainty nose. Once, with base shame of speaking the whole
-truth, I talked about my ‘study’ in that college: know now that this
+[[Truth|truth]], I talked about my ‘study’ in that college: know now that this
 ‘study’ is my whole abode; my chamber is there and my drawing-room. As
 for my ‘establishment of servants’” (mimicking my voice) “they number
 ten; les voilà.”
@@ -343,7 +343,7 @@ And he grimly spread, close under my eyes, his ten fingers.
 supper takes care, of itself; I pass days laborious and loveless;
 nights long and lonely; I am ferocious, and bearded and monkish; and
 nothing now living in this world loves me, except some old hearts worn
-like my own, and some few beings, impoverished, suffering, poor in
+like my own, and some few beings, impoverished, [[Suffering|suffering]], poor in
 purse and in spirit, whom the kingdoms of this world own not, but to
 whom a will and testament not to be disputed has bequeathed the kingdom
 of heaven.”
@@ -352,7 +352,7 @@ of heaven.”
 
 “What do you know? many things, I verily believe; yet not me, Lucy!”
 
-“I know that you have a pleasant old house in a pleasant old square of
+“I know that you have a pleasant old [[house]] in a pleasant old square of
 the Basse-Ville—why don’t you go and live there?”
 
 “Hein?” muttered he again.
@@ -371,14 +371,14 @@ up all that? Who told you?” he asked.
 “Can I enter into your visions? Can I guess a woman’s waking thoughts,
 much less her sleeping fantasies?”
 
-“If I dreamt it, I saw in my dream human beings as well as a house. I
+“If I dreamt it, I saw in my dream human beings as [[Well|well]] as a [[house]]. I
 saw a priest, old, bent, and grey, and a domestic—old, too, and
 picturesque; and a lady, splendid but strange; her head would scarce
 reach to my elbow—her magnificence might ransom a duke. She wore a gown
 bright as lapis-lazuli—a shawl worth a thousand francs: she was decked
 with ornaments so brilliant, I never saw any with such a beautiful
 sparkle; but her figure looked as if it had been broken in two and bent
-double; she seemed also to have outlived the common years of humanity,
+[[Double|double]]; she seemed also to have outlived the common years of humanity,
 and to have attained those which are only labour and sorrow. She was
 become morose—almost malevolent; yet _somebody_, it appears, cared for
 her in her infirmities—somebody forgave her trespasses, hoping to have
@@ -389,15 +389,15 @@ under one kind wing.”
 He covered with his hand the upper part of his face, but did not
 conceal his mouth, where I saw hovering an expression I liked.
 
-“I see you have entered into my secrets,” said he, “but how was it
+“I see you have entered into my [[Secrets|secrets]],” said he, “but how was it
 done?”
 
-So I told him how—the commission on which I had been sent, the storm
+So I told him how—the commission on which I had been sent, the [[Storm|storm]]
 which had detained me, the abruptness of the lady, the kindness of the
 priest.
 
 “As I sat waiting for the rain to cease, Père Silas whiled away the
-time with a story,” I said.
+[[Time|time]] with a story,” I said.
 
 “A story! What story? Père Silas is no romancist.”
 
@@ -418,7 +418,7 @@ point. But what of the ‘Priest’s Pupil?’”
 
 “Oh! many things.”
 
-“You may as well define _what_ things. I mean to know.”
+“You may as [[Well|well]] define _what_ things. I mean to know.”
 
 “There was the pupil’s youth, the pupil’s manhood;—his avarice, his
 ingratitude, his implacability, his inconstancy. Such a bad pupil,
@@ -428,8 +428,8 @@ Monsieur!—so thankless, cold-hearted, unchivalrous, unforgiving!”
 
 “Et puis,” I pursued, “he underwent calamities which one did not
 pity—bore them in a spirit one did not admire—endured wrongs for which
-one felt no sympathy; finally took the unchristian revenge of heaping
-coals of fire on his adversary’s head.”
+one felt no sympathy; finally took the unchristian [[Revenge|revenge]] of heaping
+coals of [[Fire|fire]] on his adversary’s head.”
 
 “You have not told me all,” said he.
 
@@ -452,9 +452,9 @@ almost that of a priest—that his life was considered consecrated.”
 
 Some meditative minutes passed.
 
-“Now, Mademoiselle Lucy, look at me, and with that truth which I
+“Now, Mademoiselle Lucy, look at me, and with that [[Truth|truth]] which I
 believe you never knowingly violate, answer me one question. Raise your
-eyes; rest them on mine; have no hesitation; fear not to trust me—I am
+eyes; rest them on mine; have no hesitation; [[Fear|fear]] not to trust me—I am
 a man to be trusted.”
 
 I raised my eyes.
@@ -466,17 +466,17 @@ friends?”
 “If Monsieur wants a friend in me, I shall be glad to have a friend in
 him.”
 
-“But a close friend I mean—intimate and real—kindred in all but blood.
+“But a close friend I mean—intimate and real—kindred in all but [[Blood|blood]].
 Will Miss Lucy be the sister of a very poor, fettered, burdened,
 encumbered man?”
 
 I could not answer him in words, yet I suppose I _did_ answer him; he
 took my hand, which found comfort, in the shelter of his. _His_
-friendship was not a doubtful, wavering benefit—a cold, distant hope—a
+[[Friendship|friendship]] was not a doubtful, wavering benefit—a cold, distant [[Hope|hope]]—a
 sentiment so brittle as not to bear the weight of a finger: I at once
 felt (or _thought_ I felt) its support like that of some rock.
 
-“When I talk of friendship, I mean _true_ friendship,” he repeated
+“When I talk of [[Friendship|friendship]], I mean _true_ [[Friendship|friendship]],” he repeated
 emphatically; and I could hardly believe that words so earnest had
 blessed my ear; I hardly could credit the reality of that kind, anxious
 look he gave. If he _really_ wished for my confidence and regard, and
@@ -502,19 +502,19 @@ material in some hands.”
 
 While he spoke, the tone of his voice, the light of his now
 affectionate eye, gave me such a pleasure as, certainly, I had never
-felt. I envied no girl her lover, no bride her bridegroom, no wife her
-husband; I was content with this my voluntary, self-offering friend. If
+felt. I envied no girl her [[Lover|lover]], no bride her bridegroom, no wife her
+husband; I was content with this my voluntary, [[Self|self]]-offering friend. If
 he would but prove reliable, and he _looked_ reliable, what, beyond his
-friendship, could I ever covet? But, if all melted like a dream, as
+[[Friendship|friendship]], could I ever covet? But, if all melted like [[A Dream|a dream]], as
 once before had happened—?
 
 “Qu’est-ce donc? What is it?” said he, as this thought threw its weight
-on my heart, its shadow on my countenance. I told him; and after a
+on my heart, its [[Shadow|shadow]] on my countenance. I told him; and after a
 moment’s pause, and a thoughtful smile, he showed me how an equal
-fear—lest I should weary of him, a man of moods so difficult and
+[[Fear|fear]]—lest I should weary of him, a man of moods so difficult and
 fitful—had haunted his mind for more than one day, or one month.
 
-On hearing this, a quiet courage cheered me. I ventured a word of
+On hearing this, a quiet [[Courage|courage]] cheered me. I ventured a word of
 re-assurance. That word was not only tolerated; its repetition was
 courted. I grew quite happy—strangely happy—in making him secure,
 content, tranquil. Yesterday, I could not have believed that earth
@@ -524,7 +524,7 @@ darkly in; but to see unhoped-for happiness take form, find place, and
 grow more real as the seconds sped, was indeed a new experience.
 
 “Lucy,” said M. Paul, speaking low, and still holding my hand, “did you
-see a picture in the boudoir of the old house?”
+see a picture in the boudoir of the old [[house]]?”
 
 “I did; a picture painted on a panel.”
 
@@ -532,11 +532,11 @@ see a picture in the boudoir of the old house?”
 
 “Yes.”
 
-“You heard her history?”
+“You heard her [[history]]?”
 
 “Yes.”
 
-“You remember what we saw that night in the berceau?”
+“You remember what we saw that [[Night|night]] in the berceau?”
 
 “I shall never forget it.”
 

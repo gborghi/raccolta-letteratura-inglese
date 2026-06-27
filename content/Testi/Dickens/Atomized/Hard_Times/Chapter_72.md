@@ -21,8 +21,8 @@ LOST
 THE robbery at the Bank had not languished before, and did not cease to
 occupy a front place in the attention of the principal of that
 establishment now.  In boastful proof of his promptitude and activity, as
-a remarkable man, and a self-made man, and a commercial wonder more
-admirable than Venus, who had risen out of the mud instead of the sea, he
+a remarkable man, and a [[Self-Made Man|self-made man]], and a commercial [[Wonder|wonder]] more
+admirable than [[Venus]], who had risen out of the mud instead of the sea, he
 liked to show how little his domestic affairs abated his business ardour.
 Consequently, in the first few weeks of his resumed bachelorhood, he even
 advanced upon his usual display of bustle, and every day made such a rout
@@ -32,23 +32,23 @@ had it in hand almost wished it had never been committed.
 They were at fault too, and off the scent.  Although they had been so
 quiet since the first outbreak of the matter, that most people really did
 suppose it to have been abandoned as hopeless, nothing new occurred.  No
-implicated man or woman took untimely courage, or made a self-betraying
-step.  More remarkable yet, Stephen Blackpool could not be heard of, and
+implicated man or woman took untimely [[Courage|courage]], or made a [[Self|self]]-betraying
+step.  More remarkable yet, [[Stephen Blackpool]] could not be heard of, and
 the mysterious old woman remained a mystery.
 
 Things having come to this pass, and showing no latent signs of stirring
 beyond it, the upshot of Mr. Bounderby’s investigations was, that he
 resolved to hazard a bold burst.  He drew up a placard, offering Twenty
-Pounds reward for the apprehension of Stephen Blackpool, suspected of
-complicity in the robbery of Coketown Bank on such a night; he described
-the said Stephen Blackpool by dress, complexion, estimated height, and
+Pounds reward for the apprehension of [[Stephen Blackpool]], suspected of
+complicity in the robbery of Coketown Bank on such a [[Night|night]]; he described
+the said [[Stephen Blackpool]] by dress, complexion, estimated height, and
 manner, as minutely as he could; he recited how he had left the town, and
 in what direction he had been last seen going; he had the whole printed
 in great black letters on a staring broadsheet; and he caused the walls
-to be posted with it in the dead of night, so that it should strike upon
+to be posted with it in the dead of [[Night|night]], so that it should strike upon
 the sight of the whole population at one blow.
 
-The factory-bells had need to ring their loudest that morning to disperse
+The factory-[[Bells|bells]] had need to ring their loudest that morning to disperse
 the groups of workers who stood in the tardy daybreak, collected round
 the placards, devouring them with eager eyes.  Not the least eager of the
 eyes assembled, were the eyes of those who could not read.  These people,
@@ -61,7 +61,7 @@ of these placards, among turning spindles, rattling looms, and whirling
 wheels, for hours afterwards; and when the Hands cleared out again into
 the streets, there were still as many readers as before.
 
-Slackbridge, the delegate, had to address his audience too that night;
+Slackbridge, the delegate, had to address his audience too that [[Night|night]];
 and Slackbridge had obtained a clean bill from the printer, and had
 brought it in his pocket.  Oh, my friends and fellow-countrymen, the
 down-trodden operatives of Coketown, oh, my fellow-brothers and
@@ -70,13 +70,13 @@ there, when Slackbridge unfolded what he called ‘that damning document,’
 and held it up to the gaze, and for the execration of the working-man
 community!  ‘Oh, my fellow-men, behold of what a traitor in the camp of
 those great spirits who are enrolled upon the holy scroll of Justice and
-of Union, is appropriately capable!  Oh, my prostrate friends, with the
+of [[Union]], is appropriately capable!  Oh, my prostrate friends, with the
 galling yoke of tyrants on your necks and the iron foot of despotism
-treading down your fallen forms into the dust of the earth, upon which
+treading down your fallen forms into the [[Dust|dust]] of the earth, upon which
 right glad would your oppressors be to see you creeping on your bellies
-all the days of your lives, like the serpent in the garden—oh, my
+all the days of your lives, like the serpent in the [[Garden|garden]]—oh, my
 brothers, and shall I as a man not add, my sisters too, what do you say,
-_now_, of Stephen Blackpool, with a slight stoop in his shoulders and
+_now_, of [[Stephen Blackpool]], with a slight stoop in his shoulders and
 about five foot seven in height, as set forth in this degrading and
 disgusting document, this blighting bill, this pernicious placard, this
 abominable advertisement; and with what majesty of denouncement will you
@@ -88,7 +88,7 @@ to foot, I pursued him through all his intricate windings; you remember
 how he sneaked and slunk, and sidled, and splitted of straws, until, with
 not an inch of ground to which to cling, I hurled him out from amongst
 us: an object for the undying finger of scorn to point at, and for the
-avenging fire of every free and thinking mind to scorch and scar!  And
+avenging [[Fire|fire]] of every free and thinking mind to scorch and scar!  And
 now, my friends—my labouring friends, for I rejoice and triumph in that
 stigma—my friends whose hard but honest beds are made in toil, and whose
 scanty but independent pots are boiled in hardship; and now, I say, my
@@ -97,10 +97,10 @@ with the mask torn from his features, he stands before us in all his
 native deformity, a What?  A thief!  A plunderer!  A proscribed fugitive,
 with a price upon his head; a fester and a wound upon the noble character
 of the Coketown operative!  Therefore, my band of brothers in a sacred
-bond, to which your children and your children’s children yet unborn have
+bond, to which your children and your children’s children yet [[unborn]] have
 set their infant hands and seals, I propose to you on the part of the
 United Aggregate Tribunal, ever watchful for your welfare, ever zealous
-for your benefit, that this meeting does Resolve: That Stephen Blackpool,
+for your benefit, that this meeting does Resolve: That [[Stephen Blackpool]],
 weaver, referred to in this placard, having been already solemnly
 disowned by the community of Coketown Hands, the same are free from the
 shame of his misdeeds, and cannot as a class be reproached with his
@@ -136,9 +136,9 @@ reappeared with them directly.  Tom was last; and remained standing in
 the obscurest part of the room, near the door.
 
 ‘Mrs. Bounderby,’ said her husband, entering with a cool nod, ‘I don’t
-disturb you, I hope.  This is an unseasonable hour, but here is a young
+disturb you, I [[Hope|hope]].  This is an unseasonable hour, but here is a young
 woman who has been making statements which render my visit necessary.
-Tom Gradgrind, as your son, young Tom, refuses for some obstinate reason
+[[Tom Gradgrind]], as your son, young Tom, refuses for some obstinate reason
 or other to say anything at all about those statements, good or bad, I am
 obliged to confront her with your daughter.’
 
@@ -157,7 +157,7 @@ Tom coughed again.
 Rachael cast her eyes proudly towards Mr. Bounderby, and said, ‘Will you
 make it known, young lady, where, and who was there?’
 
-‘I went to the house where Stephen Blackpool lodged, on the night of his
+‘I went to the [[house]] where [[Stephen Blackpool]] lodged, on the [[Night|night]] of his
 discharge from his work, and I saw you there.  He was there too; and an
 old woman who did not speak, and whom I could scarcely see, stood in a
 dark corner.  My brother was with me.’
@@ -166,10 +166,10 @@ dark corner.  My brother was with me.’
 
 ‘I promised my sister I wouldn’t.’  Which Louisa hastily confirmed.  ‘And
 besides,’ said the whelp bitterly, ‘she tells her own story so precious
-well—and so full—that what business had I to take it out of her mouth!’
+[[Well|well]]—and so full—that what business had I to take it out of her mouth!’
 
 ‘Say, young lady, if you please,’ pursued Rachael, ‘why, in an evil hour,
-you ever came to Stephen’s that night.’
+you ever came to Stephen’s that [[Night|night]].’
 
 ‘I felt compassion for him,’ said Louisa, her colour deepening, ‘and I
 wished to know what he was going to do, and wished to offer him
@@ -187,18 +187,18 @@ Rachael cast her eyes towards Mr. Bounderby again.
 ridiculous and improbable account was true or not, I am bound to say it’s
 confirmed.’
 
-‘Young lady,’ said Rachael, ‘Stephen Blackpool is now named as a thief in
+‘Young lady,’ said Rachael, ‘[[Stephen Blackpool]] is now named as a thief in
 public print all over this town, and where else!  There have been a
-meeting to-night where he have been spoken of in the same shameful way.
+meeting to-[[Night|night]] where he have been spoken of in the same shameful way.
 Stephen!  The honestest lad, the truest lad, the best!’  Her indignation
 failed her, and she broke off sobbing.
 
 ‘I am very, very sorry,’ said Louisa.
 
-‘Oh, young lady, young lady,’ returned Rachael, ‘I hope you may be, but I
+‘Oh, young lady, young lady,’ returned Rachael, ‘I [[Hope|hope]] you may be, but I
 don’t know!  I can’t say what you may ha’ done!  The like of you don’t
 know us, don’t care for us, don’t belong to us.  I am not sure why you
-may ha’ come that night.  I can’t tell but what you may ha’ come wi’ some
+may ha’ come that [[Night|night]].  I can’t tell but what you may ha’ come wi’ some
 aim of your own, not mindin to what trouble you brought such as the poor
 lad.  I said then, Bless you for coming; and I said it of my heart, you
 seemed to take so pitifully to him; but I don’t know now, I don’t know!’
@@ -208,8 +208,8 @@ faithful to her idea of the man, and so afflicted.
 
 ‘And when I think,’ said Rachael through her sobs, ‘that the poor lad was
 so grateful, thinkin you so good to him—when I mind that he put his hand
-over his hard-worken face to hide the tears that you brought up there—Oh,
-I hope you may be sorry, and ha’ no bad cause to be it; but I don’t know,
+over his hard-worken face to hide the [[Tears|tears]] that you brought up there—Oh,
+I [[Hope|hope]] you may be sorry, and ha’ no bad cause to be it; but I don’t know,
 I don’t know!’
 
 ‘You’re a pretty article,’ growled the whelp, moving uneasily in his dark
@@ -225,14 +225,14 @@ give your mind to that; not this.’
 
 ‘’Deed, I am loath,’ returned Rachael, drying her eyes, ‘that any here
 should see me like this; but I won’t be seen so again.  Young lady, when
-I had read what’s put in print of Stephen—and what has just as much truth
+I had read what’s put in print of Stephen—and what has just as much [[Truth|truth]]
 in it as if it had been put in print of you—I went straight to the Bank
 to say I knew where Stephen was, and to give a sure and certain promise
 that he should be here in two days.  I couldn’t meet wi’ Mr. Bounderby
 then, and your brother sent me away, and I tried to find you, but you was
 not to be found, and I went back to work.  Soon as I come out of the Mill
-to-night, I hastened to hear what was said of Stephen—for I know wi’
-pride he will come back to shame it!—and then I went again to seek Mr.
+to-[[Night|night]], I hastened to hear what was said of Stephen—for I know wi’
+[[Pride|pride]] he will come back to shame it!—and then I went again to seek Mr.
 Bounderby, and I found him, and I told him every word I knew; and he
 believed no word I said, and brought me here.’
 
@@ -251,7 +251,7 @@ Bounderby, ‘that you yourself have been looked after now and then, not
 being considered quite free from suspicion in this business, on account
 of most people being judged according to the company they keep.  The
 post-office hasn’t been forgotten either.  What I’ll tell you is, that no
-letter to Stephen Blackpool has ever got into it.  Therefore, what has
+letter to [[Stephen Blackpool]] has ever got into it.  Therefore, what has
 become of yours, I leave you to guess.  Perhaps you’re mistaken, and
 never wrote any.’
 
@@ -263,20 +263,20 @@ another name.’
 ‘Oh, by George!’ cried Bounderby, shaking his head, with a whistle, ‘he
 changes his name, does he!  That’s rather unlucky, too, for such an
 immaculate chap.  It’s considered a little suspicious in Courts of
-Justice, I believe, when an Innocent happens to have many names.’
+Justice, I believe, when an [[Innocent]] happens to have many names.’
 
-‘What,’ said Rachael, with the tears in her eyes again, ‘what, young
-lady, in the name of Mercy, was left the poor lad to do!  The masters
+‘What,’ said Rachael, with the [[Tears|tears]] in her eyes again, ‘what, young
+lady, in the name of [[Mercy]], was left the poor lad to do!  The masters
 against him on one hand, the men against him on the other, he only wantin
-to work hard in peace, and do what he felt right.  Can a man have no soul
+to work hard in peace, and do what he felt right.  Can a man have no [[Soul|soul]]
 of his own, no mind of his own?  Must he go wrong all through wi’ this
 side, or must he go wrong all through wi’ that, or else be hunted like a
 hare?’
 
-‘Indeed, indeed, I pity him from my heart,’ returned Louisa; ‘and I hope
+‘Indeed, indeed, I pity him from my heart,’ returned Louisa; ‘and I [[Hope|hope]]
 that he will clear himself.’
 
-‘You need have no fear of that, young lady.  He is sure!’
+‘You need have no [[Fear|fear]] of that, young lady.  He is sure!’
 
 ‘All the surer, I suppose,’ said Mr. Bounderby, ‘for your refusing to
 tell where he is?  Eh?’
@@ -292,15 +292,15 @@ throws off the sea, ‘and he will be here, at furthest, in two days.’
 any sooner, he shall have an earlier opportunity of clearing himself.  As
 to you, I have nothing against you; what you came and told me turns out
 to be true, and I have given you the means of proving it to be true, and
-there’s an end of it.  I wish you good night all!  I must be off to look
+there’s an end of it.  I wish you good [[Night|night]] all!  I must be off to look
 a little further into this.’
 
 Tom came out of his corner when Mr. Bounderby moved, moved with him, kept
 close to him, and went away with him.  The only parting salutation of
-which he delivered himself was a sulky ‘Good night, father!’  With a
-brief speech, and a scowl at his sister, he left the house.
+which he delivered himself was a sulky ‘Good [[Night|night]], father!’  With a
+brief speech, and a scowl at his sister, he left the [[house]].
 
-Since his sheet-anchor had come home, Mr. Gradgrind had been sparing of
+Since his sheet-anchor had come [[Home|home]], Mr. Gradgrind had been sparing of
 speech.  He still sat silent, when Louisa mildly said:
 
 ‘Rachael, you will not distrust me one day, when you know me better.’
@@ -313,7 +313,7 @@ again, wi’ the poor lad so wronged.’
 
 ‘Did you tell him in your letter,’ inquired Sissy, ‘that suspicion seemed
 to have fallen upon him, because he had been seen about the Bank at
-night?  He would then know what he would have to explain on coming back,
+[[Night|night]]?  He would then know what he would have to explain on coming back,
 and would be ready.’
 
 ‘Yes, dear,’ she returned; ‘but I can’t guess what can have ever taken
@@ -321,12 +321,12 @@ him there.  He never used to go there.  It was never in his way.  His way
 was the same as mine, and not near it.’
 
 Sissy had already been at her side asking her where she lived, and
-whether she might come to-morrow night, to inquire if there were news of
+whether she might come to-morrow [[Night|night]], to inquire if there were news of
 him.
 
-‘I doubt,’ said Rachael, ‘if he can be here till next day.’
+‘I [[Doubt|doubt]],’ said Rachael, ‘if he can be here till next day.’
 
-‘Then I will come next night too,’ said Sissy.
+‘Then I will come next [[Night|night]] too,’ said Sissy.
 
 When Rachael, assenting to this, was gone, Mr. Gradgrind lifted up his
 head, and said to his daughter:
@@ -347,46 +347,46 @@ musing, ‘does the real culprit know of these accusations?  Where is he?
 Who is he?’
 
 His hair had latterly began to change its colour.  As he leaned upon his
-hand again, looking gray and old, Louisa, with a face of fear and pity,
+hand again, looking gray and old, Louisa, with a face of [[Fear|fear]] and pity,
 hurriedly went over to him, and sat close at his side.  Her eyes by
 accident met Sissy’s at the moment.  Sissy flushed and started, and
 Louisa put her finger on her lip.
 
-Next night, when Sissy returned home and told Louisa that Stephen was not
-come, she told it in a whisper.  Next night again, when she came home
+Next [[Night|night]], when Sissy returned [[Home|home]] and told Louisa that Stephen was not
+come, she told it in a whisper.  Next [[Night|night]] again, when she came [[Home|home]]
 with the same account, and added that he had not been heard of, she spoke
 in the same low frightened tone.  From the moment of that interchange of
 looks, they never uttered his name, or any reference to him, aloud; nor
 ever pursued the subject of the robbery, when Mr. Gradgrind spoke of it.
 
 The two appointed days ran out, three days and nights ran out, and
-Stephen Blackpool was not come, and remained unheard of.  On the fourth
+[[Stephen Blackpool]] was not come, and remained unheard of.  On the fourth
 day, Rachael, with unabated confidence, but considering her despatch to
 have miscarried, went up to the Bank, and showed her letter from him with
-his address, at a working colony, one of many, not upon the main road,
+his address, at a working colony, one of many, not upon the main [[Road|road]],
 sixty miles away.  Messengers were sent to that place, and the whole town
 looked for Stephen to be brought in next day.
 
-During this whole time the whelp moved about with Mr. Bounderby like his
-shadow, assisting in all the proceedings.  He was greatly excited,
+During this whole [[Time|time]] the whelp moved about with Mr. Bounderby like his
+[[Shadow|shadow]], assisting in all the proceedings.  He was greatly excited,
 horribly fevered, bit his nails down to the quick, spoke in a hard
 rattling voice, and with lips that were black and burnt up.  At the hour
 when the suspected man was looked for, the whelp was at the station;
 offering to wager that he had made off before the arrival of those who
-were sent in quest of him, and that he would not appear.
+were sent in [[Quest|quest]] of him, and that he would not appear.
 
-The whelp was right.  The messengers returned alone.  Rachael’s letter
-had gone, Rachael’s letter had been delivered.  Stephen Blackpool had
-decamped in that same hour; and no soul knew more of him.  The only doubt
-in Coketown was, whether Rachael had written in good faith, believing
+The whelp was right.  The messengers returned [[Alone|alone]].  Rachael’s letter
+had gone, Rachael’s letter had been delivered.  [[Stephen Blackpool]] had
+decamped in that same hour; and no [[Soul|soul]] knew more of him.  The only [[Doubt|doubt]]
+in Coketown was, whether Rachael had written in good [[Faith|faith]], believing
 that he really would come back, or warning him to fly.  On this point
 opinion was divided.
 
 Six days, seven days, far on into another week.  The wretched whelp
-plucked up a ghastly courage, and began to grow defiant.  ‘_Was_ the
+plucked up a ghastly [[Courage|courage]], and began to grow defiant.  ‘_Was_ the
 suspected fellow the thief?  A pretty question!  If not, where was the
 man, and why did he not come back?’
 
-Where was the man, and why did he not come back?  In the dead of night
+Where was the man, and why did he not come back?  In the dead of [[Night|night]]
 the echoes of his own words, which had rolled Heaven knows how far away
 in the daytime, came back instead, and abided by him until morning.

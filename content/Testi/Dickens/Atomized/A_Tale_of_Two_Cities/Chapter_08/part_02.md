@@ -15,14 +15,14 @@ tags:
 
 
 Mr. Cruncher reposed under a patchwork counterpane, like a Harlequin
-at home. At first, he slept heavily, but, by degrees, began to roll
-and surge in bed, until he rose above the surface, with his spiky hair
+at [[Home|home]]. At first, he slept heavily, but, by degrees, began to roll
+and surge in bed, until he [[Rose|rose]] above the surface, with his spiky hair
 looking as if it must tear the sheets to ribbons. At which juncture, he
 exclaimed, in a voice of dire exasperation:
 
 “Bust me, if she ain’t at it agin!”
 
-A woman of orderly and industrious appearance rose from her knees in a
+A woman of orderly and industrious appearance [[Rose|rose]] from her knees in a
 corner, with sufficient haste and trepidation to show that she was the
 person referred to.
 
@@ -32,7 +32,7 @@ agin, are you?”
 After hailing the morn with this second salutation, he threw a boot at
 the woman as a third. It was a very muddy boot, and may introduce the
 odd circumstance connected with Mr. Cruncher’s domestic economy, that,
-whereas he often came home after banking hours with clean boots, he
+whereas he often came [[Home|home]] after banking hours with clean boots, he
 often got up next morning to find the same boots covered with clay.
 
 “What,” said Mr. Cruncher, varying his apostrophe after missing his
@@ -50,7 +50,7 @@ your mother’s a nice woman, young Jerry, going a praying agin your
 father’s prosperity. You’ve got a dutiful mother, you have, my son.
 You’ve got a religious mother, you have, my boy: going and flopping
 herself down, and praying that the bread-and-butter may be snatched out
-of the mouth of her only child.”
+of the mouth of her only [[Child|child]].”
 
 Master Cruncher (who was in his shirt) took this very ill, and, turning
 to his mother, strongly deprecated any praying away of his personal
@@ -67,11 +67,11 @@ that.”
 much, then. Whether or no, I won’t be prayed agin, I tell you. I can’t
 afford it. I’m not a going to be made unlucky by _your_ sneaking. If
 you must go flopping yourself down, flop in favour of your husband and
-child, and not in opposition to ’em. If I had had any but a unnat’ral
+[[Child|child]], and not in opposition to ’em. If I had had any but a unnat’ral
 wife, and this poor boy had had any but a unnat’ral mother, I might
 have made some money last week instead of being counter-prayed and
 countermined and religiously circumwented into the worst of luck.
-B-u-u-ust me!” said Mr. Cruncher, who all this time had been putting
+B-u-u-ust me!” said Mr. Cruncher, who all this [[Time|time]] had been putting
 on his clothes, “if I ain’t, what with piety and one blowed thing and
 another, been choused this last week into as bad luck as ever a poor
 devil of a honest tradesman met with! Young Jerry, dress yourself, my
@@ -80,15 +80,15 @@ then, and if you see any signs of more flopping, give me a call. For, I
 tell you,” here he addressed his wife once more, “I won’t be gone agin,
 in this manner. I am as rickety as a hackney-coach, I’m as sleepy as
 laudanum, my lines is strained to that degree that I shouldn’t know, if
-it wasn’t for the pain in ’em, which was me and which somebody else, yet
+it wasn’t for the [[Pain|pain]] in ’em, which was me and which somebody else, yet
 I’m none the better for it in pocket; and it’s my suspicion that you’ve
-been at it from morning to night to prevent me from being the better for
+been at it from morning to [[Night|night]] to prevent me from being the better for
 it in pocket, and I won’t put up with it, Aggerawayter, and what do you
 say now!”
 
 Growling, in addition, such phrases as “Ah! yes! You’re religious, too.
 You wouldn’t put yourself in opposition to the interests of your husband
-and child, would you? Not you!” and throwing off other sarcastic sparks
+and [[Child|child]], would you? Not you!” and throwing off other sarcastic sparks
 from the whirling grindstone of his indignation, Mr. Cruncher betook
 himself to his boot-cleaning and his general preparation for business.
 In the meantime, his son, whose head was garnished with tenderer spikes,
@@ -109,29 +109,29 @@ His wife explained that she had merely “asked a blessing.”
 
 “Don’t do it!” said Mr. Crunches looking about, as if he rather expected
 to see the loaf disappear under the efficacy of his wife’s petitions. “I
-ain’t a going to be blest out of house and home. I won’t have my wittles
+ain’t a going to be blest out of [[house]] and [[Home|home]]. I won’t have my wittles
 blest off my table. Keep still!”
 
-Exceedingly red-eyed and grim, as if he had been up all night at a party
-which had taken anything but a convivial turn, Jerry Cruncher worried
+Exceedingly red-eyed and grim, as if he had been up all [[Night|night]] at a party
+which had taken anything but a convivial turn, [[Jerry Cruncher]] worried
 his breakfast rather than ate it, growling over it like any four-footed
-inmate of a menagerie. Towards nine o’clock he smoothed his ruffled
+inmate of a menagerie. Towards nine o’[[Clock|clock]] he smoothed his ruffled
 aspect, and, presenting as respectable and business-like an exterior as
-he could overlay his natural self with, issued forth to the occupation
+he could overlay his natural [[Self|self]] with, issued forth to the occupation
 of the day.
 
 It could scarcely be called a trade, in spite of his favourite
 description of himself as “a honest tradesman.” His stock consisted of
 a wooden stool, made out of a broken-backed chair cut down, which stool,
 young Jerry, walking at his father’s side, carried every morning to
-beneath the banking-house window that was nearest Temple Bar: where,
+beneath the banking-[[house]] [[Window|window]] that was nearest Temple Bar: where,
 with the addition of the first handful of straw that could be gleaned
 from any passing vehicle to keep the cold and wet from the odd-job-man’s
 feet, it formed the encampment for the day. On this post of his, Mr.
-Cruncher was as well known to Fleet-street and the Temple, as the Bar
+Cruncher was as [[Well|well]] known to Fleet-street and the Temple, as the Bar
 itself,--and was almost as in-looking.
 
-Encamped at a quarter before nine, in good time to touch his
+Encamped at a quarter before nine, in good [[Time|time]] to touch his
 three-cornered hat to the oldest of men as they passed in to Tellson’s,
 Jerry took up his station on this windy March morning, with young Jerry
 standing by him, when not engaged in making forays through the Bar, to
@@ -152,7 +152,7 @@ establishment was put through the door, and the word was given:
 
 “Hooray, father! Here’s an early job to begin with!”
 
-Having thus given his parent God speed, young Jerry seated himself on
+Having thus given his parent God [[Speed|speed]], young Jerry seated himself on
 the stool, entered on his reversionary interest in the straw his father
 had been chewing, and cogitated.
 

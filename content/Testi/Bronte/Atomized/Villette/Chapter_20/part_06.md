@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 20 (part 6)"
+title: "[[Villette]] — Chapter 20 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -19,10 +19,10 @@ impatience. “Lucy—mother—will you come a moment to the fresh air?”
 
 “Go with him, Lucy,” said Mrs. Bretton. “I would rather keep my seat.”
 
-Willingly would I have kept mine also, but Graham’s desire must take
+Willingly would I have kept mine also, but Graham’s [[Desire|desire]] must take
 precedence of my own; I accompanied him.
 
-We found the night-air keen; or at least I did: he did not seem to feel
+We found the [[Night|night]]-air keen; or at least I did: he did not seem to feel
 it; but it was very still, and the star-sown sky spread cloudless. I
 was wrapped in a fur shawl. We took some turns on the pavement; in
 passing under a lamp, Graham encountered my eye.
@@ -32,10 +32,10 @@ passing under a lamp, Graham encountered my eye.
 “I was only fearing that you were grieved.”
 
 “Not at all: so be of good cheer—as I am. Whenever I die, Lucy, my
-persuasion is that it will not be of heart-complaint. I may be stung, I
-may seem to droop for a time, but no pain or malady of sentiment has
+[[Persuasion|persuasion]] is that it will not be of heart-complaint. I may be stung, I
+may seem to droop for a [[Time|time]], but no [[Pain|pain]] or malady of sentiment has
 yet gone through my whole system. You have always seen me cheerful at
-home?”
+[[Home|home]]?”
 
 “Generally.”
 
@@ -52,7 +52,7 @@ from a mere puncture: a lancet-prick that will heal in a trice.”
 differently to-morrow.”
 
 “_I_ heated and indignant! You don’t know me. On the contrary, the heat
-is gone: I am as cool as the night—which, by the way, may be too cool
+is gone: I am as cool as the [[Night|night]]—which, by the way, may be too cool
 for you. We will go back.”
 
 “Dr. John, this is a sudden change.”
@@ -62,7 +62,7 @@ have told you one. But now let us re-enter.”
 
 We did not easily regain our seats; the lottery was begun, and all was
 excited confusion; crowds blocked the sort of corridor along which we
-had to pass: it was necessary to pause for a time. Happening to glance
+had to pass: it was necessary to pause for a [[Time|time]]. Happening to glance
 round—indeed I half fancied I heard my name pronounced—I saw quite
 near, the ubiquitous, the inevitable M. Paul. He was looking at me
 gravely and intently: at me, or rather at my pink dress—sardonic
@@ -71,7 +71,7 @@ strictures on the dress, both of the teachers and pupils, at Madame
 Beck’s—a habit which the former, at least, held to be an offensive
 impertinence: as yet I had not suffered from it—my sombre daily attire
 not being calculated to attract notice. I was in no mood to permit any
-new encroachment to-night: rather than accept his banter, I would
+new encroachment to-[[Night|night]]: rather than accept his banter, I would
 ignore his presence, and accordingly steadily turned my face to the
 sleeve of Dr. John’s coat; finding in that same black sleeve a prospect
 more redolent of pleasure and comfort, more genial, more friendly, I
@@ -92,9 +92,9 @@ sternest of nods in return.
 “Whom have you made angry, Lucy?” whispered Dr. Bretton, smiling. “Who
 is that savage-looking friend of yours?”
 
-“One of the professors at Madame Beck’s: a very cross little man.”
+“One of the professors at [[Madame Beck]]’s: a very [[Cross|cross]] little man.”
 
-“He looks mighty cross just now: what have you done to him? What is it
+“He looks mighty [[Cross|cross]] just now: what have you done to him? What is it
 all about? Ah, Lucy, Lucy! tell me the meaning of this.”
 
 “No mystery, I assure you. M. Emanuel is very exigeant, and because I
@@ -113,8 +113,8 @@ I thought so, too.
 Slowly and with difficulty we made our way along the passage, and at
 last regained our seats. The drawing of the lottery lasted nearly an
 hour; it was an animating and amusing scene; and as we each held
-tickets, we shared in the alternations of hope and fear raised by each
-turn of the wheel. Two little girls, of five and six years old, drew
+tickets, we shared in the alternations of [[Hope|hope]] and [[Fear|fear]] raised by each
+turn of the [[Wheel|wheel]]. Two little girls, of five and six years old, drew
 the numbers: and the prizes were duly proclaimed from the platform.
 These prizes were numerous, though of small value. It so fell out that
 Dr. John and I each gained one: mine was a cigar-case, his a lady’s
@@ -128,7 +128,7 @@ Dr. John, for his part, held his turban at arm’s length between his
 finger and thumb, and looked at it with a mixture of reverence and
 embarrassment highly provocative of laughter. The contemplation over,
 he was about coolly to deposit the delicate fabric on the ground
-between his feet; he seemed to have no shadow of an idea of the
+between his feet; he seemed to have no [[Shadow|shadow]] of an idea of the
 treatment or stowage it ought to receive: if his mother had not come to
 the rescue, I think he would finally have crushed it under his arm like
 an opera-hat; she restored it to the band-box whence it had issued.
@@ -140,7 +140,7 @@ in it no common mastery of the passions, and a fund of deep and healthy
 strength which, without any exhausting effort, bore down Disappointment
 and extracted her fang. His manner, now, reminded me of qualities I had
 noticed in him when professionally engaged amongst the poor, the
-guilty, and the suffering, in the Basse-Ville: he looked at once
+guilty, and the [[Suffering|suffering]], in the Basse-Ville: he looked at once
 determined, enduring, and sweet-tempered. Who could help liking him?
 _He_ betrayed no weakness which harassed all your feelings with
 considerations as to how its faltering must be propped; from _him_

@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 43 (part 5)"
+title: "[[Pride and Prejudice]] — Chapter 43 (part 5)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -19,8 +19,8 @@ or rather he has not Wickham’s countenance, for his features are
 perfectly good. But how came you to tell us that he was so
 disagreeable?”
 
-Elizabeth excused herself as well as she could: said that she had liked
-him better when they met in Kent than before, and that she had never
+Elizabeth excused herself as [[Well|well]] as she could: said that she had liked
+him better when they met in [[Kent]] than before, and that she had never
 seen him so pleasant as this morning.
 
 “But perhaps he may be a little whimsical in his civilities,” replied
@@ -37,7 +37,7 @@ anybody as he has done by poor Wickham. He has not an ill-natured look.
 On the contrary, there is something pleasing about his mouth when he
 speaks. And there is something of dignity in his countenance, that would
 not give one an unfavourable idea of his heart. But, to be sure, the
-good lady who showed us the house did give him a most flaming character!
+good lady who showed us the [[house]] did give him a most flaming character!
 I could hardly help laughing aloud sometimes. But he is a liberal
 master, I suppose, and _that_, in the eye of a servant, comprehends
 every virtue.”
@@ -45,7 +45,7 @@ every virtue.”
 Elizabeth here felt herself called on to say something in vindication of
 his behaviour to Wickham; and, therefore, gave them to understand, in as
 guarded a manner as she could, that by what she had heard from his
-relations in Kent, his actions were capable of a very different
+relations in [[Kent]], his actions were capable of a very different
 construction; and that his character was by no means so faulty, nor
 Wickham’s so amiable, as they had been considered in Hertfordshire. In
 confirmation of this, she related the particulars of all the pecuniary
@@ -57,13 +57,13 @@ approaching the scene of her former pleasures, every idea gave way to
 the charm of recollection; and she was too much engaged in pointing out
 to her husband all the interesting spots in its environs, to think of
 anything else. Fatigued as she had been by the morning’s walk, they had
-no sooner dined than she set off again in quest of her former
+no sooner dined than she set off again in [[Quest|quest]] of her former
 acquaintance, and the evening was spent in the satisfactions of an
 intercourse renewed after many years’ discontinuance.
 
 The occurrences of the day were too full of interest to leave Elizabeth
 much attention for any of these new friends; and she could do nothing
-but think, and think with wonder, of Mr. Darcy’s civility, and, above
+but think, and think with [[Wonder|wonder]], of Mr. Darcy’s civility, and, above
 all, of his wishing her to be acquainted with his sister.
 
 

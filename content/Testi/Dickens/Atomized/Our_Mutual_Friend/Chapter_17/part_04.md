@@ -16,9 +16,9 @@ tags:
 
 ‘Never mind that.’
 
-‘’Scuse ME, Lawyer Lightwood, it’s a part of the truth, and as such I
+‘’Scuse ME, Lawyer Lightwood, it’s a part of the [[Truth|truth]], and as such I
 do mind it, and I must mind it and I will mind it. “Rogue Riderhood,”
- he says, “words passed betwixt us on the river tonight.” Which they had;
+ he says, “words passed betwixt us on the [[River|river]] tonight.” Which they had;
 ask his daughter! “I threatened you,” he says, “to chop you over the
 fingers with my boat’s stretcher, or take a aim at your brains with my
 boathook. I did so on accounts of your looking too hard at what I had in
@@ -34,7 +34,7 @@ says, “Of foul play.” He falls a shaking worse, and he says, “There WAS
 foul play then. I done it for his money. Don’t betray me!” Those were
 the words as ever he used.’
 
-There was a silence, broken only by the fall of the ashes in the grate.
+There was a [[Silence|silence]], broken only by the fall of the ashes in the grate.
 An opportunity which the informer improved by smearing himself all
 over the head and neck and face with his drowned cap, and not at all
 improving his own appearance.
@@ -68,14 +68,14 @@ Mortimer glanced at Eugene, but Eugene sat glowering at his paper,
 and would give him no responsive glance. Mortimer again turned to the
 informer, to whom he said:
 
-‘You have been troubled in your mind a long time, man?’
+‘You have been troubled in your mind a long [[Time|time]], man?’
 
 Giving his wine a final chew, and swallowing it, the informer answered
 in a single word:
 
 ‘Hages!’
 
-‘When all that stir was made, when the Government reward was offered,
+‘When all that stir was made, when the [[government|Government]] reward was offered,
 when the police were on the alert, when the whole country rang with the
 crime!’ said Mortimer, impatiently.
 
@@ -83,7 +83,7 @@ crime!’ said Mortimer, impatiently.
 retrospective nods of his head. ‘Warn’t I troubled in my mind then!’
 
 ‘When conjecture ran wild, when the most extravagant suspicions were
-afloat, when half a dozen innocent people might have been laid by the
+afloat, when half a dozen [[Innocent|innocent]] people might have been laid by the
 heels any hour in the day!’ said Mortimer, almost warming.
 
 ‘Hah!’ Mr Riderhood chimed in, as before. ‘Warn’t I troubled in my mind
@@ -103,13 +103,13 @@ her!—but I couldn’t do it. At last, out comes the new bill with your
 own lawful name, Lawyer Lightwood, printed to it, and then I asks the
 question of my own intellects, Am I to have this trouble on my mind for
 ever? Am I never to throw it off? Am I always to think more of Gaffer
-than of my own self? If he’s got a daughter, ain’t I got a daughter?’
+than of my own [[Self|self]]? If he’s got a daughter, ain’t I got a daughter?’
 
 ‘And echo answered—?’ Eugene suggested.
 
 ‘“You have,”’ said Mr Riderhood, in a firm tone.
 
-‘Incidentally mentioning, at the same time, her age?’ inquired Eugene.
+‘Incidentally mentioning, at the same [[Time|time]], her age?’ inquired Eugene.
 
 ‘Yes, governor. Two-and-twenty last October. And then I put it to
 myself, “Regarding the money. It is a pot of money.” For it IS a pot,’
@@ -118,7 +118,7 @@ said Mr Riderhood, with candour, ‘and why deny it?’
 ‘Hear!’ from Eugene as he touched his drawing.
 
 ‘“It is a pot of money; but is it a sin for a labouring man that
-moistens every crust of bread he earns, with his tears—or if not with
+moistens every crust of bread he earns, with his [[Tears|tears]]—or if not with
 them, with the colds he catches in his head—is it a sin for that man to
 earn it? Say there is anything again earning it.” This I put to myself
 strong, as in duty bound; “how can it be said without blaming Lawyer
@@ -133,9 +133,9 @@ what was held out to me. And what’s more,’ he added, suddenly turning
 bloodthirsty, ‘I mean to have it! And now I tell you, once and away,
 Lawyer Lightwood, that Jesse Hexam, commonly called Gaffer, his hand and
 no other, done the deed, on his own confession to me. And I give him up
-to you, and I want him took. This night!’
+to you, and I want him took. This [[Night|night]]!’
 
-After another silence, broken only by the fall of the ashes in the
+After another [[Silence|silence]], broken only by the fall of the ashes in the
 grate, which attracted the informer’s attention as if it were the
 chinking of money, Mortimer Lightwood leaned over his friend, and said
 in a whisper:

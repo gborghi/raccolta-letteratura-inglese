@@ -15,7 +15,7 @@ tags:
 
 
 _Another_.--After the battles at Columbia, Tennessee, where we repuls'd
-about a score of vehement rebel charges, they left a great many wounded
+about a score of vehement [[Rebel|rebel]] charges, they left a great many wounded
 on the ground, mostly within our range. Whenever any of these wounded
 attempted to move away by any means, generally by crawling off, our men
 without exception brought them down by a bullet. They let none crawl
@@ -26,37 +26,37 @@ A YANKEE SOLDIER
 
 As I turn'd off the Avenue one cool October evening into Thirteenth
 street, a soldier with knapsack and overcoat stood at the corner
-inquiring his way. I found he wanted to go part of the road in my
+inquiring his way. I found he wanted to go part of the [[Road|road]] in my
 direction, so we walk'd on together. We soon fell into conversation. He
 was small and not very young, and a tough little fellow, as I judged in
 the evening light, catching glimpses by the lamps we pass'd. His answers
 were short, but clear. His name was Charles Carroll; he belong'd to
 one of the Massachusetts regiments, and was born in or near Lynn. His
 parents were living, but were very old. There were four sons, and all
-had enlisted. Two had died of starvation and misery in the prison at
+had enlisted. Two had died of starvation and misery in the [[Prison|prison]] at
 Andersonville, and one had been kill'd in the west. He only was left.
-He was now going home, and by the way he talk'd I inferr'd that his time
+He was now going [[Home|home]], and by the way he talk'd I inferr'd that his [[Time|time]]
 was nearly out. He made great calculations on being with his parents to
 comfort them the rest of their days.
 
 
-UNION PRISONERS SOUTH
+[[Union|UNION]] PRISONERS SOUTH
 
-Michael Stansbury, 48 years of age, a seafaring man, a southerner by
-birth and raising, formerly captain of U. S. light ship Long Shoal,
+[[Michael]] Stansbury, 48 years of age, a seafaring man, a southerner by
+birth and raising, formerly captain of U. S. light [[Ship|ship]] Long Shoal,
 station'd at Long Shoal point, Pamlico sound--though a southerner, a
-firm Union man--was captur'd Feb. 17, 1863, and has been nearly two
-years in the Confederate prisons; was at one time order'd releas'd by
-Governor Vance, but a rebel officer re-arrested him; then sent on to
+firm [[Union]] man--was captur'd Feb. 17, 1863, and has been nearly two
+years in the Confederate prisons; was at one [[Time|time]] order'd releas'd by
+Governor Vance, but a [[Rebel|rebel]] officer re-arrested him; then sent on to
 Richmond for exchange--but instead of being exchanged was sent down
 (as a southern citizen, not a soldier,) to Salisbury, N. C., where he
 remain'd until lately, when he escap'd among the exchang'd by assuming
 the name of a dead soldier, and coming up via Wilmington with the rest.
 Was about sixteen months in Salisbury.
 
-Subsequent to October, '64, there were about 11,000 Union prisoners in
+Subsequent to October, '64, there were about 11,000 [[Union]] prisoners in
 the stockade; about 100 of them southern unionists, 200 U. S. deserters.
-During the past winter 1500 of the prisoners, to save their lives,
+During the past [[Winter|winter]] 1500 of the prisoners, to save their lives,
 join'd the confederacy, on condition of being assign'd merely to guard
 duty. Out of the 11,000 not more than 2500 came out; 500 of these were
 pitiable, helpless wretches--the rest were in a condition to travel.
@@ -67,19 +67,19 @@ molasses. A diminutive ration of meat might possibly come once a month,
 not oftener. In the stockade, containing the 11,000 men, there was a
 partial show of tents, not enough for 2000. A large proportion of the
 men lived in holes in the ground, in the utmost wretchedness. Some froze
-to death, others had their hands and feet frozen. The rebel guards would
-occasionally, and on the least pretence, fire into the prison from mere
+to [[Death|death]], others had their hands and feet frozen. The [[Rebel|rebel]] guards would
+occasionally, and on the least pretence, [[Fire|fire]] into the [[Prison|prison]] from mere
 demonism and wantonness. All the horrors that can be named, starvation,
-lassitude, filth, vermin, despair, swift loss of self-respect, idiocy,
+lassitude, filth, vermin, [[Despair|despair]], swift loss of [[Self|self]]-respect, idiocy,
 insanity, and frequent murder, were there. Stansbury has a wife and
-child living in Newbern--has written to them from here--is in the U. S.
-light-house employ still--(had been home to Newbern to see his family,
-and on his return to the ship was captured in his boat.) Has seen men
+[[Child|child]] living in Newbern--has written to them from here--is in the U. S.
+light-[[house]] employ still--(had been [[Home|home]] to Newbern to see his family,
+and on his return to the [[Ship|ship]] was captured in his boat.) Has seen men
 brought there to Salisbury as hearty as you ever see in your life--in
 a few weeks completely dead gone, much of it from thinking on their
-condition--hope all gone. Has himself a hard, sad, strangely deaden'd
+condition--[[Hope|hope]] all gone. Has himself a hard, sad, strangely deaden'd
 kind of look, as of one chill' d for years in the cold and dark, where
-his good manly nature had no room to exercise itself.
+his good manly [[Nature|nature]] had no room to exercise itself.
 
 
 DESERTERS
@@ -92,7 +92,7 @@ some sickly, most of them dirty, shirts very dirty and long worn, &c.
 They tramp'd along without order, a huge huddling mass, not in ranks. I
 saw some of the spectators laughing, but I felt like anything else but
 laughing. These deserters are far more numerous than would be thought.
-Almost every day I see squads of them, sometimes two or three at a time,
+Almost every day I see squads of them, sometimes two or three at a [[Time|time]],
 with a small guard; sometimes ten or twelve, under a larger one. (I
 hear that desertions from the army now in the field have often averaged
 10,000 a month. One of the commonest sights in Washington is a squad of

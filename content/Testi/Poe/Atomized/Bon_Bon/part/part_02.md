@@ -1,5 +1,5 @@
 ---
-title: "Bon-Bon (part 2)"
+title: "[[Bon-Bon]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Bon-Bon-(Poe)"
@@ -15,31 +15,31 @@ tags:
 
 
       To enter the little _café_ in the _cul-de-sac_ Le Febre was, at the period of
-      our tale, to enter the sanctum of a man of genius. Bon-Bon was a man of
+      our tale, to enter the sanctum of a man of genius. [[Bon-Bon]] was a man of
       genius. There was not a sous-cusinier in Rouen, who could not have told
-      you that Bon-Bon was a man of genius. His very cat knew it, and forebore
+      you that [[Bon-Bon]] was a man of genius. His very cat knew it, and forebore
       to whisk her tail in the presence of the man of genius. His large
-      water-dog was acquainted with the fact, and upon the approach of his
+      [[Water|water]]-dog was acquainted with the fact, and upon the approach of his
       master, betrayed his sense of inferiority by a sanctity of deportment, a
       debasement of the ears, and a dropping of the lower jaw not altogether
       unworthy of a dog. It is, however, true that much of this habitual respect
       might have been attributed to the personal appearance of the
       metaphysician. A distinguished exterior will, I am constrained to say,
       have its way even with a beast; and I am willing to allow much in the
-      outward man of the restaurateur calculated to impress the imagination of
+      outward man of the restaurateur calculated to impress the [[Imagination|imagination]] of
       the quadruped. There is a peculiar majesty about the atmosphere of the
       little great—if I may be permitted so equivocal an expression—which
-      mere physical bulk alone will be found at all times inefficient in
-      creating. If, however, Bon-Bon was barely three feet in height, and if his
+      mere physical bulk [[Alone|alone]] will be found at all times inefficient in
+      creating. If, however, [[Bon-Bon]] was barely three feet in height, and if his
       head was diminutively small, still it was impossible to behold the
       rotundity of his stomach without a sense of magnificence nearly bordering
-      upon the sublime. In its size both dogs and men must have seen a type of
+      upon the [[Sublime|sublime]]. In its size both [[dogs]] and men must have seen a type of
       his acquirements—in its immensity a fitting habitation for his
-      immortal soul.
+      immortal [[Soul|soul]].
 
       I might here—if it so pleased me—dilate upon the matter of
       habiliment, and other mere circumstances of the external metaphysician. I
-      might hint that the hair of our hero was worn short, combed smoothly over
+      might hint that the hair of our [[Hero|hero]] was worn short, combed smoothly over
       his forehead, and surmounted by a conical-shaped white flannel cap and
       tassels—that his pea-green jerkin was not after the fashion of those
       worn by the common class of restaurateurs at that day—that the
@@ -55,7 +55,7 @@ tags:
       over with crimson devices, floated cavalierly upon his shoulders like a
       mist of the morning—and that his tout ensemble gave rise to the
       remarkable words of Benevenuta, the Improvisatrice of Florence, “that it
-      was difficult to say whether Pierre Bon-Bon was indeed a bird of Paradise,
+      was difficult to say whether Pierre [[Bon-Bon]] was indeed a bird of Paradise,
       or rather a very Paradise of perfection.” I might, I say, expatiate upon
       all these points if I pleased,—but I forbear, merely personal
       details may be left to historical novelists,—they are beneath the
@@ -78,7 +78,7 @@ tags:
       direct family communion, the properties of the kitchen and the
       _bibliotheque_. A dish of polemics stood peacefully upon the dresser. Here
       lay an ovenful of the latest ethics—there a kettle of dudecimo
-      _mélanges_. Volumes of German morality were hand and glove with the gridiron—a
+      _mélanges_. Volumes of German [[morality]] were hand and glove with the gridiron—a
       toasting-fork might be discovered by the side of Eusebius—Plato
       reclined at his ease in the frying-pan—and contemporary manuscripts
       were filed away upon the spit.
@@ -88,17 +88,17 @@ tags:
       On the right of the fireplace an open cupboard displayed a formidable
       array of labelled bottles.
 
-      It was here, about twelve o’clock one night during the severe
-      winter of ——, that Pierre Bon-Bon, after having listened to
+      It was here, about twelve o’[[Clock|clock]] one [[Night|night]] during the severe
+      [[Winter|winter]] of ——, that Pierre [[Bon-Bon]], after having listened to
       the comments of his neighbours upon his singular propensity—that
-      Pierre Bon-Bon, I say, having turned them all out of his house, locked
+      Pierre [[Bon-Bon]], I say, having turned them all out of his [[house]], locked
       the door upon them with an oath, and betook himself in no very pacific
-      mood to the comforts of a leather-bottomed arm-chair, and a fire of
+      mood to the comforts of a leather-bottomed arm-chair, and a [[Fire|fire]] of
       blazing fagots.
 
       It was one of those terrific nights which are only met with once or twice
-      during a century. It snowed fiercely, and the house tottered to its centre
-      with the floods of wind that, rushing through the crannies in the wall,
+      during a century. It snowed fiercely, and the [[house]] tottered to its centre
+      with the floods of [[Wind|wind]] that, rushing through the crannies in the wall,
       and pouring impetuously down the chimney, shook awfully the curtains of
       the philosopher’s bed, and disorganized the economy of his pate-pans and
       papers. The huge folio sign that swung without, exposed to the fury of the

@@ -1,5 +1,5 @@
 ---
-title: "The History of King Lear (Quarto Text) — Scene 2 — exchange (GLOUCESTER) [4]"
+title: "The [[history|History]] of [[King Lear]] (Quarto Text) — Scene 2 — exchange ([[Gloucester|GLOUCESTER]]) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/THE-HISTORY-OF-KING-LEAR---THE-QUARTO-TEXT-(Shakespeare)"
@@ -15,10 +15,10 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| GLOUCESTER | Think you so? |
-| EDMUND | If your honour judge it meet, I will place you where you shall hear us confer of this, and by an auricular assurance have your satisfaction, and that without any further delay than this very evening. |
-| GLOUCESTER | He cannot be such a monster. |
-| EDMUND | Nor is pilot, sure. |
-| GLOUCESTER | To his father, that so tenderly and entirely loves him—heaven and earth! Edmund seek him out, wind me into him. I pray you, frame your business after your own wisdom. I would unstate myself to be in a due resolution. |
-| EDMUND | I shall seek him, sir, presently, convey the business as I shall see means, and acquaint you withal. |
-| GLOUCESTER | These late eclipses in the sun and moon portend no good to us. Though the wisdom of nature can reason thus and thus, yet nature finds itself scourged by the sequent effects. Love cools, friendship falls off, brothers divide; in cities mutinies, in countries discords, palaces treason, the bond cracked between son and father. Find out this villain, Edmund; it shall lose thee nothing. Do it carefully. And the noble and true-hearted Kent banished, his offence honesty! Strange, strange! Exit |
+| [[Gloucester|GLOUCESTER]] | Think you so? |
+| [[Edmund|EDMUND]] | If your [[Honour|honour]] judge it meet, I will place you where you shall hear us confer of this, and by an auricular assurance have your satisfaction, and that without any further delay than this very evening. |
+| [[Gloucester|GLOUCESTER]] | He cannot be such a [[Monster|monster]]. |
+| [[Edmund|EDMUND]] | Nor is pilot, sure. |
+| [[Gloucester|GLOUCESTER]] | To his father, that so tenderly and entirely loves him—heaven and earth! [[Edmund]] seek him out, [[Wind|wind]] me into him. I pray you, frame your business after your own wisdom. I would unstate myself to be in a due resolution. |
+| [[Edmund|EDMUND]] | I shall seek him, sir, presently, convey the business as I shall see means, and acquaint you withal. |
+| [[Gloucester|GLOUCESTER]] | These late eclipses in the sun and [[Moon|moon]] portend no good to us. Though the wisdom of [[Nature|nature]] can reason thus and thus, yet [[Nature|nature]] finds itself scourged by the sequent effects. [[Love]] cools, [[Friendship|friendship]] falls off, brothers divide; in cities mutinies, in countries discords, palaces treason, the bond cracked between son and father. Find out this [[Villain|villain]], [[Edmund]]; it shall lose thee nothing. Do it carefully. And the noble and true-hearted [[Kent]] banished, his offence honesty! Strange, strange! Exit |

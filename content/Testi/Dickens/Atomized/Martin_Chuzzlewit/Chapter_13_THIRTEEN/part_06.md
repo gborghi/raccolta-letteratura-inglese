@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 13: THIRTEEN (part 6)"
+title: "[[Martin Chuzzlewit]] — Chapter 13: THIRTEEN (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-It might have yielded, however; and no doubt must have yielded soon, but
+It might have yielded, however; and no [[Doubt|doubt]] must have yielded soon, but
 for a very strange and unlooked-for occurrence.
 
 The five weeks had quite run out, and he was in a truly desperate
@@ -28,35 +28,35 @@ only a letter.’
 
 ‘A letter!’ cried Martin.
 
-‘For Mr Martin Chuzzlewit,’ said the landlord, reading the
-superscription of one he held in his hand. ‘Noon. Chief office. Paid.’
+‘For Mr [[Martin Chuzzlewit]],’ said the landlord, reading the
+superscription of one he held in his hand. ‘[[Noon]]. Chief office. Paid.’
 
 Martin took it from him, thanked him, and walked upstairs. It was not
 sealed, but pasted close; the handwriting was quite unknown to him.
 He opened it and found enclosed, without any name, address, or other
-inscription or explanation of any kind whatever, a Bank of England note
+[[Inscription|inscription]] or explanation of any kind whatever, a Bank of England note
 for Twenty Pounds.
 
 To say that he was perfectly stunned with astonishment and delight; that
 he looked again and again at the note and the wrapper; that he hurried
 below stairs to make quite certain that the note was a good note; and
-then hurried up again to satisfy himself for the fiftieth time that
+then hurried up again to satisfy himself for the fiftieth [[Time|time]] that
 he had not overlooked some scrap of writing on the wrapper; that he
 exhausted and bewildered himself with conjectures; and could make
 nothing of it but that there the note was, and he was suddenly enriched;
 would be only to relate so many matters of course to no purpose. The
-final upshot of the business at that time was, that he resolved to treat
+final upshot of the business at that [[Time|time]] was, that he resolved to treat
 himself to a comfortable but frugal meal in his own chamber; and having
-ordered a fire to be kindled, went out to purchase it forthwith.
+ordered a [[Fire|fire]] to be kindled, went out to purchase it forthwith.
 
 He bought some cold beef, and ham, and French bread, and butter, and
 came back with his pockets pretty heavily laden. It was somewhat of
 a damping circumstance to find the room full of smoke, which was
 attributable to two causes; firstly, to the flue being naturally vicious
 and a smoker; and secondly, to their having forgotten, in lighting the
-fire, an odd sack or two and some trifles, which had been put up the
+[[Fire|fire]], an odd sack or two and some trifles, which had been put up the
 chimney to keep the rain out. They had already remedied this oversight,
-however; and propped up the window-sash with a bundle of firewood to
+however; and propped up the [[Window|window]]-sash with a bundle of firewood to
 keep it open; so that except in being rather inflammatory to the eyes
 and choking to the lungs, the apartment was quite comfortable.
 
@@ -67,7 +67,7 @@ instructions relative to the production of something hot when he should
 ring the bell. The cold meat being wrapped in a playbill, Martin laid
 the cloth by spreading that document on the little round table with the
 print downwards, and arranging the collation upon it. The foot of the
-bed, which was very close to the fire, answered for a sideboard; and
+bed, which was very close to the [[Fire|fire]], answered for a sideboard; and
 when he had completed these preparations, he squeezed an old arm-chair
 into the warmest corner, and sat down to enjoy himself.
 
@@ -76,13 +76,13 @@ meanwhile with a triumphant anticipation of quitting it for ever on the
 morrow, when his attention was arrested by a stealthy footstep on the
 stairs, and presently by a knock at his chamber door, which, although
 it was a gentle knock enough, communicated such a start to the bundle of
-firewood, that it instantly leaped out of window, and plunged into the
+firewood, that it instantly leaped out of [[Window|window]], and plunged into the
 street.
 
 ‘More coals, I suppose,’ said Martin. ‘Come in!’
 
 ‘It an’t a liberty, sir, though it seems so,’ rejoined a man’s voice.
-‘Your servant, sir. Hope you’re pretty well, sir.’
+‘Your servant, sir. [[Hope]] you’re pretty [[Well|well]], sir.’
 
 Martin stared at the face that was bowing in the doorway, perfectly
 remembering the features and expression, but quite forgetting to whom
@@ -104,7 +104,7 @@ a man jolly, sir--I see you a-buying that.’
 
 Martin reddened as he pointed to the table, and said, somewhat hastily:
 
-‘Well! What then?’
+‘[[Well]]! What then?’
 
 ‘Why, then, sir,’ said Mark, ‘I made bold to foller; and as I told ‘em
 downstairs that you expected me, I was let up.’
@@ -139,6 +139,6 @@ and he sat down accordingly upon the bedstead.
 
 ‘If you don’t take it now, you’ll not have any,’ said Martin.
 
-‘Very good, sir,’ rejoined Mark. ‘That being your desire--now it is.’
+‘Very good, sir,’ rejoined Mark. ‘That being your [[Desire|desire]]--now it is.’
 With which reply he gravely helped himself and went on eating. Martin
-having done the like for a short time in silence, said abruptly:
+having done the like for a short [[Time|time]] in [[Silence|silence]], said abruptly:

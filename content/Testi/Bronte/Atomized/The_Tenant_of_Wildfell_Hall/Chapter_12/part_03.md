@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 12 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 12 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 the chimneys visible above my contracted horizon. I walked back to get
 
-a better view of it. When it rose in sight, I stood still a moment to
+a better view of it. When it [[Rose|rose]] in sight, I stood still a moment to
 
 look, and then continued moving towards the gloomy object of
 
@@ -24,11 +24,11 @@ attraction. Something called me nearer—nearer still—and why not, pray?
 
 Might I not find more benefit in the contemplation of that venerable
 
-pile with the full moon in the cloudless heaven shining so calmly above
+pile with the full [[Moon|moon]] in the cloudless heaven shining so calmly above
 
-it—with that warm yellow lustre peculiar to an August night—and the
+it—with that warm yellow lustre peculiar to an August [[Night|night]]—and the
 
-mistress of my soul within, than in returning to my home, where all
+mistress of my [[Soul|soul]] within, than in returning to my [[Home|home]], where all
 
 comparatively was light, and life, and cheerfulness, and therefore
 
@@ -36,7 +36,7 @@ inimical to me in my present frame of mind,—and the more so that its
 
 inmates all were more or less imbued with that detestable belief, the
 
-very _thought_ of which made my blood boil in my veins—and how could I
+very _thought_ of which made my [[Blood|blood]] boil in my veins—and how could I
 
 endure to hear it openly declared, or cautiously insinuated—which was
 
@@ -48,13 +48,13 @@ aloud, “It is false! I defy you to make me suppose it!”
 
 
 
-I could see the red firelight dimly gleaming from her parlour window. I
+I could see the red firelight dimly gleaming from her parlour [[Window|window]]. I
 
-went up to the garden wall, and stood leaning over it, with my eyes
+went up to the [[Garden|garden]] wall, and stood leaning over it, with my eyes
 
 fixed upon the lattice, wondering what she was doing, thinking, or
 
-suffering now, and wishing I could speak to her but one word, or even
+[[Suffering|suffering]] now, and wishing I could speak to her but one word, or even
 
 catch one glimpse of her, before I went.
 
@@ -62,9 +62,9 @@ catch one glimpse of her, before I went.
 
 I had not thus looked, and wished, and wondered long, before I vaulted
 
-over the barrier, unable to resist the temptation of taking one glance
+over the barrier, unable to resist the [[Temptation|temptation]] of taking one glance
 
-through the window, just to see if she were more composed than when we
+through the [[Window|window]], just to see if she were more composed than when we
 
 parted;—and if I found her still in deep distress, perhaps I might
 
@@ -76,17 +76,17 @@ stupid impetuosity. I looked. Her chair was vacant: so was the room.
 
 But at that moment some one opened the outer door, and a voice—_her_
 
-voice—said,—“Come out—I want to see the moon, and breathe the evening
+voice—said,—“Come out—I want to see the [[Moon|moon]], and breathe the evening
 
 air: they will do me good—if anything will.”
 
 
 
-Here, then, were she and Rachel coming to take a walk in the garden. I
+Here, then, were she and Rachel coming to take a walk in the [[Garden|garden]]. I
 
-wished myself safe back over the wall. I stood, however, in the shadow
+wished myself safe back over the wall. I stood, however, in the [[Shadow|shadow]]
 
-of the tall holly-bush, which, standing between the window and the
+of the tall holly-bush, which, standing between the [[Window|window]] and the
 
 porch, at present screened me from observation, but did not prevent me
 
@@ -102,9 +102,9 @@ Lawrence!
 
 
 
-“You should not let it worry you so much, Helen,” said he; “I will be
+“You should not let it worry you so much, [[Helen]],” said he; “I will be
 
-more cautious in future; and in time—”
+more cautious in future; and in [[Time|time]]—”
 
 
 
@@ -134,15 +134,15 @@ near me, if you think anything of that.”
 
 “Yes,” interrupted she, “it is all I could wish, if they could only
 
-have left me alone.”
+have left me [[Alone|alone]].”
 
 
 
-“But wherever you go, Helen, there will be the same sources of
+“But wherever you go, [[Helen]], there will be the same sources of
 
 annoyance. I cannot consent to lose you: I must go with you, or come to
 
-you; and there are meddling fools elsewhere, as well as here.”
+you; and there are meddling fools elsewhere, as [[Well|well]] as here.”
 
 
 
@@ -154,23 +154,23 @@ her waist, while she lovingly rested her hand on his shoulder;—and
 
 then, a tremulous darkness obscured my sight, my heart sickened and my
 
-head burned like fire: I half rushed, half staggered from the spot,
+head burned like [[Fire|fire]]: I half rushed, half staggered from the spot,
 
 where horror had kept me rooted, and leaped or tumbled over the wall—I
 
-hardly know which—but I know that, afterwards, like a passionate child,
+hardly know which—but I know that, afterwards, like a passionate [[Child|child]],
 
 I dashed myself on the ground and lay there in a paroxysm of anger and
 
-despair—how long, I cannot undertake to say; but it must have been a
+[[Despair|despair]]—how long, I cannot undertake to say; but it must have been a
 
-considerable time; for when, having partially relieved myself by a
+considerable [[Time|time]]; for when, having partially relieved myself by a
 
-torment of tears, and looked up at the moon, shining so calmly and
+torment of [[Tears|tears]], and looked up at the [[Moon|moon]], shining so calmly and
 
 carelessly on, as little influenced by my misery as I was by its
 
-peaceful radiance, and earnestly prayed for death or forgetfulness, I
+peaceful radiance, and earnestly prayed for [[Death|death]] or forgetfulness, I
 
 had risen and journeyed homewards—little regarding the way, but carried
 
@@ -188,7 +188,7 @@ and take your supper. I’ve got it all ready, though you don’t deserve
 
 it, for keeping me in such a fright, after the strange manner you left
 
-the house this evening. Mr. Millward was quite—Bless the boy! how ill
+the [[house]] this evening. Mr. Millward was quite—Bless the boy! how ill
 
 he looks. Oh, gracious! what is the matter?”
 
@@ -218,7 +218,7 @@ you look! Do tell me what it is? Has anything happened?”
 
 candle would not light. Then, suppressing my irritation, I added, “I’ve
 
-been walking too fast, that’s all. Good-night,” and marched off to bed,
+been walking too fast, that’s all. Good-[[Night|night]],” and marched off to bed,
 
 regardless of the “Walking too fast! where have you been?” that was
 
@@ -230,4 +230,4 @@ My mother followed me to the very door of my room with her questionings
 
 and advice concerning my health and my conduct; but I implored her to
 
-let me alone till morning; and she withdrew, and at length I had the
+let me [[Alone|alone]] till morning; and she withdrew, and at length I had the

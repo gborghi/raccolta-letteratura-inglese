@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 36 (part 3)"
+title: "[[Shirley]] — Chapter 36 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -30,13 +30,13 @@ know how far I may reveal my feelings, and when I must clasp the volume.
 
 I have advanced to a certain distance, as far as the true and sovereign
 
-and undegraded nature of my kind permits; now here I stand rooted. My
+and undegraded [[Nature|nature]] of my kind permits; now here I stand rooted. My
 
 heart may break if it is baffled; let it break. It shall never dishonour
 
-me; it shall never dishonour my sisterhood in me. Suffering before
+me; it shall never dishonour my sisterhood in me. [[Suffering]] before
 
-degradation! death before treachery!
+degradation! [[Death|death]] before treachery!
 
 
 
@@ -44,9 +44,9 @@ degradation! death before treachery!
 
 were lowly, I would take her in my arms. Her gold and her station are
 
-two griffins that guard her on each side. Love looks and longs, and
+two griffins that guard her on each side. [[Love]] looks and longs, and
 
-dares not; Passion hovers round, and is kept at bay; Truth and Devotion
+dares not; Passion hovers round, and is kept at bay; [[Truth]] and Devotion
 
 are scared. There is nothing to lose in winning her, no sacrifice to
 
@@ -56,7 +56,7 @@ make. It is all clear gain, and therefore unimaginably difficult.'
 
 "Difficult or not, something must be done, something must be said. I
 
-could not, and would not, sit silent with all that beauty modestly mute
+could not, and would not, sit silent with all that [[Beauty|beauty]] modestly mute
 
 in my presence. I spoke thus, and still I spoke with calm. Quiet as my
 
@@ -66,19 +66,19 @@ words were, I could hear they fell in a tone distinct, round, and deep.
 
 "'Still, I know I shall be strangely placed with that mountain nymph
 
-Liberty. She is, I suspect, akin to that Solitude which I once wooed,
+Liberty. She is, I suspect, akin to that [[Solitude]] which I once wooed,
 
-and from which I now seek a divorce. These Oreads are peculiar. They
+and from which I now seek a [[divorce]]. These Oreads are peculiar. They
 
 come upon you with an unearthly charm, like some starlight evening; they
 
-inspire a wild but not warm delight; their beauty is the beauty of
+inspire a wild but not warm delight; their [[Beauty|beauty]] is the [[Beauty|beauty]] of
 
-spirits; their grace is not the grace of life, but of seasons or scenes
+spirits; their grace is not the grace of life, but of [[Seasons|seasons]] or scenes
 
-in nature. Theirs is the dewy bloom of morning, the languid flush of
+in [[Nature|nature]]. Theirs is the dewy bloom of morning, the languid flush of
 
-evening, the peace of the moon, the changefulness of clouds. I want and
+evening, the peace of the [[Moon|moon]], the changefulness of clouds. I want and
 
 will have something different. This elfish splendour looks chill to my
 
@@ -86,11 +86,11 @@ vision, and feels frozen to my touch. I am not a poet; I cannot live
 
 with abstractions. You, Miss Keeldar, have sometimes, in your laughing
 
-satire, called me a material philosopher, and implied that I live
+[[Satire|satire]], called me a material philosopher, and implied that I live
 
 sufficiently for the substantial. Certainly I feel material from head to
 
-foot; and glorious as Nature is, and deeply as I worship her with the
+foot; and glorious as [[Nature]] is, and deeply as I worship her with the
 
 solid powers of a solid heart, I would rather behold her through the
 
@@ -106,9 +106,9 @@ the highest goddess of Olympus.'
 
 "'She could not; but I will tell you who could--some young, penniless,
 
-friendless orphan girl. I wish I could find such a one--pretty enough
+friendless [[Orphan|orphan]] girl. I wish I could find such a one--pretty enough
 
-for me to love, with something of the mind and heart suited to my taste;
+for me to [[Love|love]], with something of the mind and heart suited to my taste;
 
 not uneducated--honest and modest. I care nothing for attainments, but I
 
@@ -120,7 +120,7 @@ such a creature as this I should like to be first tutor and then
 
 husband. I would teach her my language, my habits and my principles, and
 
-then I would reward her with my love.'
+then I would reward her with my [[Love|love]].'
 
 
 
@@ -148,17 +148,17 @@ a blow to the metal of some souls.'
 
 
 
-"'And love the spark it elicits.'
+"'And [[Love|love]] the spark it elicits.'
 
 
 
-"'Who cares for the love that is but a spark--seen, flown upward, and
+"'Who cares for the [[Love|love]] that is but a spark--seen, flown upward, and
 
 gone?'
 
 
 
-"'I must find my orphan girl. Tell me how, Miss Keeldar.'
+"'I must find my [[Orphan|orphan]] girl. Tell me how, Miss Keeldar.'
 
 
 
@@ -182,7 +182,7 @@ first found her. I would stir her further.
 
 
 
-"'Why doubt it?'
+"'Why [[Doubt|doubt]] it?'
 
 
 
@@ -198,7 +198,7 @@ first found her. I would stir her further.
 
 
 
-"She charmed me in this mood--waxing disdainful, half insulting; pride,
+"She charmed me in this mood--waxing disdainful, half insulting; [[Pride|pride]],
 
 temper, derision, blent in her large fine eye, that had just now the
 
@@ -210,11 +210,11 @@ look of a merlin's.
 
 
 
-"'How will _you_ manage to marry, I wonder?'
+"'How will _you_ manage to marry, I [[Wonder|wonder]]?'
 
 
 
-"'I shall manage it with ease and speed when I find the proper person.'
+"'I shall manage it with ease and [[Speed|speed]] when I find the proper person.'
 
 
 
@@ -252,7 +252,7 @@ smile.
 
 
 
-"'Take a wife that has paid you court to save your modesty, and thrust
+"'Take a wife that has paid you [[Court|court]] to save your modesty, and thrust
 
 herself upon you to spare your scruples.'
 
@@ -272,9 +272,9 @@ these things.'
 
 
 
-"'Never would you have gathered the produce of the gold-bearing garden.
+"'Never would you have gathered the produce of the gold-bearing [[Garden|garden]].
 
-You have not courage to confront the sleepless dragon; you have not
+You have not [[Courage|courage]] to confront the sleepless dragon; you have not
 
 craft to borrow the aid of Atlas.'
 
@@ -284,9 +284,9 @@ craft to borrow the aid of Atlas.'
 
 
 
-"'And you far haughtier. Yours is the monstrous pride which counterfeits
+"'And you far haughtier. Yours is the monstrous [[Pride|pride]] which counterfeits
 
-humility.'
+[[Humility|humility]].'
 
 
 

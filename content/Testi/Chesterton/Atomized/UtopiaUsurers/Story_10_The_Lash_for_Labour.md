@@ -1,5 +1,5 @@
 ---
-title: "UtopiaUsurers — The Lash for Labour"
+title: "[[UtopiaUsurers]] — The Lash for Labour"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/UtopiaUsurers-(Chesterton)"
@@ -18,9 +18,9 @@ VIII. THE LASH FOR LABOUR
 
 
 
-If I were to prophesy that two hundred years hence a grocer would have
+If I were to prophesy that two hundred years hence a [[grocer]] would have
 
-the right and habit of beating the grocer's assistant with a stick, or
+the right and habit of beating the [[grocer]]'s assistant with a stick, or
 
 that shop girls might be flogged, as they already can be fined, many
 
@@ -28,13 +28,13 @@ would regard it as rather a rash remark. It would be a rash remark.
 
 Prophecy is always unreliable; unless we except the kind which is
 
-avowedly irrational, mystical and supernatural prophecy. But relatively
+avowedly irrational, mystical and [[Supernatural|supernatural]] prophecy. But relatively
 
 to nearly all the other prophecies that are being made around me to-day,
 
 I should say my prediction stood an exceptionally good chance. In short,
 
-I think the grocer with the stick is a figure we are far more likely to
+I think the [[grocer]] with the stick is a figure we are far more likely to
 
 see than the Superman or the Samurai, or the True Model Employer, or the
 
@@ -42,21 +42,21 @@ Perfect Fabian Official, or the citizen of the Collectivist State. And
 
 it is best for us to see the full ugliness of the transformation which
 
-is passing over our Society in some such abrupt and even grotesque image
+is passing over our Society in some such abrupt and even [[Grotesque|grotesque]] image
 
-at the end of it. The beginnings of a decline, in every age of history,
+at the end of it. The beginnings of a decline, in every age of [[history]],
 
 have always had the appearance of being reforms. Nero not only fiddled
 
 while Rome was burning, but he probably really paid more attention to
 
-the fiddle than to the fire. The Roi Soleil, like many other soleils,
+the fiddle than to the [[Fire|fire]]. The Roi Soleil, like many other soleils,
 
 was most splendid to all appearance a little before sunset. And if I
 
 ask myself what will be the ultimate and final fruit of all our
 
-social reforms, garden cities, model employers, insurances, exchanges,
+social reforms, [[Garden|garden]] cities, model employers, insurances, exchanges,
 
 arbitration courts, and so on, then, I say, quite seriously, "I think it
 
@@ -72,7 +72,7 @@ The Sultan and the Sack
 
 Let us arrange in some order a number of converging considerations that
 
-all point in this direction. (1) It is broadly true, no doubt, that the
+all point in this direction. (1) It is broadly true, no [[Doubt|doubt]], that the
 
 weapon of the employer has hitherto been the threat of dismissal, that
 
@@ -118,7 +118,7 @@ a chronic condition of breaking up for the holidays. And the reasons
 
 for the insufficiency of this extreme instrument are also varied and
 
-evident. The materialistic Sociologists, who talk about the survival of
+evident. The materialistic Sociologists, who talk about the [[Survival|survival]] of
 
 the fittest and the weakest going to the wall (and whose way of looking
 
@@ -138,7 +138,7 @@ his work and good in another; that he may be occasionally drunk and yet
 
 generally indispensable. Just as a practical school-master would know
 
-that a schoolboy can be at once the plague and the pride of the school.
+that a schoolboy can be at once the plague and the [[Pride|pride]] of the school.
 
 Under these circumstances small and varying penalties are obviously the
 
@@ -164,7 +164,7 @@ private property in some reasonable degree; but not only is this not
 
 true to-day, but it is not being made any truer, even by those who
 
-honestly believe that they are mending matters. The great employers will
+honestly believe that they are [[mending]] matters. The great employers will
 
 often do something towards improving what they call the "conditions"
 
@@ -182,25 +182,25 @@ employer of labour to tax her for punishment as it is for the Chancellor
 
 of the Exchequer to tax her for revenue. The next most obvious thing to
 
-think of, of course, would be imprisonment, and that might be effective
+think of, of course, would be [[Imprisonment|imprisonment]], and that might be effective
 
 enough under simpler conditions. An old-fashioned shopkeeper might have
 
 locked up his apprentice in his coal-cellar; but his coal-cellar would
 
-be a real, pitch dark coal-cellar, and the rest of his house would be a
+be a real, pitch dark coal-cellar, and the rest of his [[house]] would be a
 
-real human house. Everybody (especially the apprentice) would see a most
+real human [[house]]. Everybody (especially the apprentice) would see a most
 
 perceptible difference between the two. But, as I pointed out in the
 
 article before this, the whole tendency of the capitalist legislation
 
-and experiment is to make imprisonment much more general and automatic,
+and experiment is to make [[Imprisonment|imprisonment]] much more general and automatic,
 
 while making it, or professing to make it, more humane. In other words,
 
-the hygienic prison and the servile factory will become so uncommonly
+the hygienic [[Prison|prison]] and the servile factory will become so uncommonly
 
 like each other that the poor man will hardly know or care whether he
 
@@ -210,7 +210,7 @@ both places there will be the same sort of shiny tiles. In neither place
 
 will there be any cell so unwholesome as a coal-cellar or so wholesome
 
-as a home. The weapon of the prison, therefore, like the weapon of
+as a [[Home|home]]. The weapon of the [[Prison|prison]], therefore, like the weapon of
 
 the fine, will be found to have considerable limitations to its
 
@@ -236,7 +236,7 @@ punishment at last (as it did in every slave system I ever heard of,
 
 including some that were generally kindly, and even successful), will
 
-merely be struck with horror and incredulity, and feel that such a
+merely be struck with horror and [[Incredulity|incredulity]], and feel that such a
 
 barbarous revival is unthinkable in the modern atmosphere. How far it
 
@@ -246,7 +246,7 @@ ruder times I will discuss in a moment. But first, as another of the
 
 converging lines tending to corporal punishment, consider this: that for
 
-some reason or other the old full-blooded and masculine humanitarianism
+some reason or other the old full-blooded and masculine [[Humanitarianism|humanitarianism]]
 
 in this matter has weakened and fallen silent; it has weakened and
 
@@ -258,9 +258,9 @@ Nonconformist minister, the average Labour Member, the average
 
 middle-class Socialist, were, with all their good qualities, very
 
-deficient in what I consider a respect for the human soul. But I did
+deficient in what I consider a respect for the human [[Soul|soul]]. But I did
 
-imagine that they had the ordinary modern respect for the human body.
+imagine that they had the ordinary modern respect for the human [[Body|body]].
 
 The fact, however, is clear and incontrovertible. In spite of the horror
 
@@ -274,7 +274,7 @@ it to the newest and vaguest categories of crime. Thirty or forty years
 
 ago, nay, twenty years ago, when Mr. F. Hugh O'Donnell and others forced
 
-a Liberal Government to drop the cat-o'-nine-tails like a scorpion, we
+a Liberal [[government|Government]] to drop the cat-o'-nine-tails like a scorpion, we
 
 could have counted on a mass of honest hatred of such things. We cannot
 
@@ -290,7 +290,7 @@ the jambok or the knout. It could easily be developed out of the many
 
 forms of physical discipline which are already used by employers on the
 
-excuses of education or hygiene. Already in some factories girls are
+excuses of [[Education|education]] or hygiene. Already in some factories girls are
 
 obliged to swim whether they like it or not, or do gymnastics whether
 

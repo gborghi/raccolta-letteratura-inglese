@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 30 (part 2)"
+title: "[[Jane Eyre]] — Chapter 30 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Incommunicative as he was, some time elapsed before I had an
+Incommunicative as he was, some [[Time|time]] elapsed before I had an
 opportunity of gauging his mind. I first got an idea of its calibre
 when I heard him preach in his own church at Morton. I wish I could
 describe that sermon: but it is past my power. I cannot even render
@@ -41,9 +41,9 @@ it, I thought, than had I with my concealed and racking regrets for my
 broken idol and lost elysium—regrets to which I have latterly avoided
 referring, but which possessed me and tyrannised over me ruthlessly.
 
-Meantime a month was gone. Diana and Mary were soon to leave Moor
-House, and return to the far different life and scene which awaited
-them, as governesses in a large, fashionable, south-of-England city,
+Meantime a month was gone. [[Diana]] and Mary were soon to leave Moor
+[[house|House]], and return to the far different life and scene which awaited
+them, as governesses in a large, fashionable, south-of-England [[City|city]],
 where each held a situation in families by whose wealthy and haughty
 members they were regarded only as humble dependents, and who neither
 knew nor sought out their innate excellences, and appreciated only
@@ -51,9 +51,9 @@ their acquired accomplishments as they appreciated the skill of their
 cook or the taste of their waiting-woman. Mr. St. John had said nothing
 to me yet about the employment he had promised to obtain for me; yet it
 became urgent that I should have a vocation of some kind. One morning,
-being left alone with him a few minutes in the parlour, I ventured to
-approach the window-recess—which his table, chair, and desk consecrated
-as a kind of study—and I was going to speak, though not very well
+being left [[Alone|alone]] with him a few minutes in the parlour, I ventured to
+approach the [[Window|window]]-recess—which his table, chair, and desk consecrated
+as a kind of study—and I was going to speak, though not very [[Well|well]]
 knowing in what words to frame my inquiry—for it is at all times
 difficult to break the ice of reserve glassing over such natures as
 his—when he saved me the trouble by being the first to commence a
@@ -73,7 +73,7 @@ approaching departure from Marsh End should render yours necessary.”
 “And they will go in three days now?” I said.
 
 “Yes; and when they go, I shall return to the parsonage at Morton:
-Hannah will accompany me; and this old house will be shut up.”
+Hannah will accompany me; and this old [[house]] will be shut up.”
 
 I waited a few moments, expecting he would go on with the subject first
 broached: but he seemed to have entered another train of reflection:
@@ -81,7 +81,7 @@ his look denoted abstraction from me and my business. I was obliged to
 recall him to a theme which was of necessity one of close and anxious
 interest to me.
 
-“What is the employment you had in view, Mr. Rivers? I hope this delay
+“What is the employment you had in view, Mr. Rivers? I [[Hope|hope]] this delay
 will not have increased the difficulty of securing it.”
 
 “Oh, no; since it is an employment which depends only on me to give,
@@ -102,9 +102,9 @@ and the patch of moorish soil, with the yew-trees and holly-bushes in
 front. I am obscure: Rivers is an old name; but of the three sole
 descendants of the race, two earn the dependent’s crust among
 strangers, and the third considers himself an alien from his native
-country—not only for life, but in death. Yes, and deems, and is bound
+country—not only for life, but in [[Death|death]]. Yes, and deems, and is bound
 to deem, himself honoured by the lot, and aspires but after the day
-when the cross of separation from fleshly ties shall be laid on his
+when the [[Cross|cross]] of separation from fleshly ties shall be laid on his
 shoulders, and when the Head of that church-militant of whose humblest
 members he is one, shall give the word, ‘Rise, follow Me!’”
 
@@ -113,13 +113,13 @@ deep voice; with an unflushed cheek, and a coruscating radiance of
 glance. He resumed—
 
 “And since I am myself poor and obscure, I can offer you but a service
-of poverty and obscurity. _You_ may even think it degrading—for I see
+of [[Poverty|poverty]] and obscurity. _You_ may even think it degrading—for I see
 now your habits have been what the world calls refined: your tastes
 lean to the ideal, and your society has at least been amongst the
 educated; but _I_ consider that no service degrades which can better
 our race. I hold that the more arid and unreclaimed the soil where the
 Christian labourer’s task of tillage is appointed him—the scantier the
-meed his toil brings—the higher the honour. His, under such
+meed his toil brings—the higher the [[Honour|honour]]. His, under such
 circumstances, is the destiny of the pioneer; and the first pioneers of
 the Gospel were the Apostles—their captain was Jesus, the Redeemer,
 Himself.”

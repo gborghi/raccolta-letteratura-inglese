@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 1)"
+title: "The [[Pickwick]] Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -36,7 +36,7 @@ the very green gate from which Job Trotter had emerged, and gave a
 mighty pull at the bell-handle which hung at the side thereof. The ring
 was answered by a very smart and pretty-faced servant-girl, who, after
 holding up her hands in astonishment at the rebellious appearance of the
-prisoners, and the impassioned language of Mr. Pickwick, summoned Mr.
+prisoners, and the impassioned language of Mr. [[Pickwick]], summoned Mr.
 Muzzle. Mr. Muzzle opened one half of the carriage gate, to admit the
 sedan, the captured ones, and the specials; and immediately slammed it
 in the faces of the mob, who, indignant at being excluded, and anxious
@@ -49,14 +49,14 @@ which people will flatten their noses against the front windows of a
 chemist’s shop, when a drunken man, who has been run over by a dog-cart
 in the street, is undergoing a surgical inspection in the back-parlour.
 
-At the foot of a flight of steps, leading to the house door, which was
+At the foot of a flight of steps, leading to the [[house]] door, which was
 guarded on either side by an American aloe in a green tub, the sedan-
-chair stopped. Mr. Pickwick and his friends were conducted into the
+chair stopped. Mr. [[Pickwick]] and his friends were conducted into the
 hall, whence, having been previously announced by Muzzle, and ordered in
 by Mr. Nupkins, they were ushered into the worshipful presence of that
 public-spirited officer.
 
-The scene was an impressive one, well calculated to strike terror to the
+The scene was an impressive one, [[Well|well]] calculated to strike terror to the
 hearts of culprits, and to impress them with an adequate idea of the
 stern majesty of the law. In front of a big book-case, in a big chair,
 behind a big table, and before a big volume, sat Mr. Nupkins, looking a
@@ -69,7 +69,7 @@ his orders. Mr. Nupkins threw himself back with thrilling solemnity, and
 scrutinised the faces of his unwilling visitors.
 
 ‘Now, Grummer, who is that person?’ said Mr. Nupkins, pointing to Mr.
-Pickwick, who, as the spokesman of his friends, stood hat in hand,
+[[Pickwick]], who, as the spokesman of his friends, stood hat in hand,
 bowing with the utmost politeness and respect.
 
 ‘This here’s Pickvick, your Wash-up,’ said Grummer.
@@ -85,8 +85,8 @@ t’other side, Mr. Winkle--all wery nice gen’l’m’n, Sir, as you’ll be
 wery happy to have the acquaintance on; so the sooner you commits these
 here officers o’ yourn to the tread-mill for a month or two, the sooner
 we shall begin to be on a pleasant understanding. Business first,
-pleasure arterwards, as King Richard the Third said when he stabbed the
-t’other king in the Tower, afore he smothered the babbies.’
+pleasure arterwards, as [[King]] [[Richard]] the Third said when he stabbed the
+t’other [[King|king]] in the Tower, afore he smothered the babbies.’
 
 At the conclusion of this address, Mr. Weller brushed his hat with his
 right elbow, and nodded benignly to Jinks, who had heard him throughout
@@ -101,10 +101,10 @@ custody, and brought him here.’
 ‘You did quite right,’ replied the magistrate. ‘He is evidently a
 desperate ruffian.’
 
-‘He is my servant, Sir,’ said Mr. Pickwick angrily.
+‘He is my servant, Sir,’ said Mr. [[Pickwick]] angrily.
 
 ‘Oh! he is your servant, is he?’ said Mr. Nupkins. ‘A conspiracy to
-defeat the ends of justice, and murder its officers. Pickwick’s servant.
+defeat the ends of justice, and murder its officers. [[Pickwick]]’s servant.
 Put that down, Mr. Jinks.’
 
 Mr. Jinks did so.

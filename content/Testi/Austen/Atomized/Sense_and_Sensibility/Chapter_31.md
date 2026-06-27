@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 31"
+title: "[[Sense and Sensibility]] — Chapter 31"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER XXXI.
 
 
 
-From a night of more sleep than she had expected, Marianne awoke the
+From a [[Night|night]] of more [[Sleep|sleep]] than she had expected, Marianne awoke the
 
 next morning to the same consciousness of misery in which she had
 
@@ -38,7 +38,7 @@ Elinor’s side, the same impetuous feelings and varying opinions on
 
 Marianne’s, as before. Sometimes she could believe Willoughby to be as
 
-unfortunate and as innocent as herself, and at others, lost every
+unfortunate and as [[Innocent|innocent]] as herself, and at others, lost every
 
 consolation in the impossibility of acquitting him. At one moment she
 
@@ -50,7 +50,7 @@ could resist it with energy. In one thing, however, she was uniform,
 
 when it came to the point, in avoiding, where it was possible, the
 
-presence of Mrs. Jennings, and in a determined silence when obliged to
+presence of Mrs. Jennings, and in a determined [[Silence|silence]] when obliged to
 
 endure it. Her heart was hardened against the belief of Mrs. Jennings’s
 
@@ -60,7 +60,7 @@ entering into her sorrows with any compassion.
 
 “No, no, no, it cannot be,” she cried; “she cannot feel. Her kindness
 
-is not sympathy; her good-nature is not tenderness. All that she wants
+is not sympathy; her good-[[Nature|nature]] is not tenderness. All that she wants
 
 is gossip, and she only likes me now because I supply it.”
 
@@ -90,7 +90,7 @@ in their own room after breakfast, which sunk the heart of Mrs.
 
 Jennings still lower in her estimation; because, through her own
 
-weakness, it chanced to prove a source of fresh pain to herself, though
+weakness, it chanced to prove a source of fresh [[Pain|pain]] to herself, though
 
 Mrs. Jennings was governed in it by an impulse of the utmost goodwill.
 
@@ -98,7 +98,7 @@ Mrs. Jennings was governed in it by an impulse of the utmost goodwill.
 
 With a letter in her outstretched hand, and countenance gaily smiling,
 
-from the persuasion of bringing comfort, she entered their room,
+from the [[Persuasion|persuasion]] of bringing comfort, she entered their room,
 
 saying,
 
@@ -108,7 +108,7 @@ saying,
 
 
 
-Marianne heard enough. In one moment her imagination placed before her
+Marianne heard enough. In one moment her [[Imagination|imagination]] placed before her
 
 a letter from Willoughby, full of tenderness and contrition,
 
@@ -124,7 +124,7 @@ hand writing of her mother, never till then unwelcome, was before her;
 
 and, in the acuteness of the disappointment which followed such an
 
-ecstasy of more than hope, she felt as if, till that instant, she had
+ecstasy of more than [[Hope|hope]], she felt as if, till that instant, she had
 
 never suffered.
 
@@ -134,7 +134,7 @@ The cruelty of Mrs. Jennings no language, within her reach in her
 
 moments of happiest eloquence, could have expressed; and now she could
 
-reproach her only by the tears which streamed from her eyes with
+reproach her only by the [[Tears|tears]] which streamed from her eyes with
 
 passionate violence—a reproach, however, so entirely lost on its
 
@@ -158,7 +158,7 @@ other, that she wept with agony through the whole of it.
 
 
 
-All her impatience to be at home again now returned; her mother was
+All her impatience to be at [[Home|home]] again now returned; her mother was
 
 dearer to her than ever; dearer through the very excess of her mistaken
 
@@ -166,7 +166,7 @@ confidence in Willoughby, and she was wildly urgent to be gone. Elinor,
 
 unable herself to determine whether it were better for Marianne to be
 
-in London or at Barton, offered no counsel of her own except of
+in [[London]] or at Barton, offered no counsel of her own except of
 
 patience till their mother’s wishes could be known; and at length she
 
@@ -178,11 +178,11 @@ Mrs. Jennings left them earlier than usual; for she could not be easy
 
 till the Middletons and Palmers were able to grieve as much as herself;
 
-and positively refusing Elinor’s offered attendance, went out alone for
+and positively refusing Elinor’s offered attendance, went out [[Alone|alone]] for
 
 the rest of the morning. Elinor, with a very heavy heart, aware of the
 
-pain she was going to communicate, and perceiving, by Marianne’s
+[[Pain|pain]] she was going to communicate, and perceiving, by Marianne’s
 
 letter, how ill she had succeeded in laying any foundation for it, then
 
@@ -214,23 +214,23 @@ safe.”
 
 
 
-Marianne moved to the window.
+Marianne moved to the [[Window|window]].
 
 
 
-“It is Colonel Brandon!” said she, with vexation. “We are never safe
+“It is [[Colonel Brandon]]!” said she, with vexation. “We are never safe
 
 from _him_.”
 
 
 
-“He will not come in, as Mrs. Jennings is from home.”
+“He will not come in, as Mrs. Jennings is from [[Home|home]].”
 
 
 
 “I will not trust to _that_,” retreating to her own room. “A man who
 
-has nothing to do with his own time has no conscience in his intrusion
+has nothing to do with his own [[Time|time]] has no [[Conscience|conscience]] in his intrusion
 
 on that of others.”
 
@@ -238,11 +238,11 @@ on that of others.”
 
 The event proved her conjecture right, though it was founded on
 
-injustice and error; for Colonel Brandon _did_ come in; and Elinor, who
+injustice and error; for [[Colonel Brandon]] _did_ come in; and Elinor, who
 
 was convinced that solicitude for Marianne brought him thither, and who
 
-saw _that_ solicitude in his disturbed and melancholy look, and in his
+saw _that_ solicitude in his disturbed and [[Melancholy|melancholy]] look, and in his
 
 anxious though brief inquiry after her, could not forgive her sister
 
@@ -256,9 +256,9 @@ salutation, “and she encouraged me to come on; and I was the more
 
 easily encouraged, because I thought it probable that I might find you
 
-alone, which I was very desirous of doing. My object—my wish—my sole
+[[Alone|alone]], which I was very desirous of doing. My object—my wish—my sole
 
-wish in desiring it—I hope, I believe it is—is to be a means of giving
+wish in desiring it—I [[Hope|hope]], I believe it is—is to be a means of giving
 
 comfort;—no, I must not say comfort—not present comfort—but conviction,
 
@@ -268,11 +268,11 @@ yourself, for your mother—will you allow me to prove it, by relating
 
 some circumstances which nothing but a _very_ sincere regard—nothing
 
-but an earnest desire of being useful—I think I am justified—though
+but an earnest [[Desire|desire]] of being useful—I think I am justified—though
 
 where so many hours have been spent in convincing myself that I am
 
-right, is there not some reason to fear I may be wrong?” He stopped.
+right, is there not some reason to [[Fear|fear]] I may be wrong?” He stopped.
 
 
 
@@ -280,11 +280,11 @@ right, is there not some reason to fear I may be wrong?” He stopped.
 
 Willoughby, that will open his character farther. Your telling it will
 
-be the greatest act of friendship that can be shown Marianne. _My_
+be the greatest act of [[Friendship|friendship]] that can be shown Marianne. _My_
 
 gratitude will be insured immediately by any information tending to
 
-that end, and _hers_ must be gained by it in time. Pray, pray let me
+that end, and _hers_ must be gained by it in [[Time|time]]. Pray, pray let me
 
 hear it.”
 
@@ -300,7 +300,7 @@ short account of myself, I believe, will be necessary, and it _shall_
 
 be a short one. On such a subject,” sighing heavily, “can I have little
 
-temptation to be diffuse.”
+[[Temptation|temptation]] to be diffuse.”
 
 
 
@@ -314,7 +314,7 @@ on.
 
 supposed that it could make any impression on you)—a conversation
 
-between us one evening at Barton Park—it was the evening of a dance—in
+between us one evening at Barton Park—it was the evening of a [[Dance|dance]]—in
 
 which I alluded to a lady I had once known, as resembling, in some
 
@@ -330,17 +330,17 @@ pleased by this remembrance, and added,
 
 “If I am not deceived by the uncertainty, the partiality of tender
 
-recollection, there is a very strong resemblance between them, as well
+recollection, there is a very strong resemblance between them, as [[Well|well]]
 
 in mind as person. The same warmth of heart, the same eagerness of
 
-fancy and spirits. This lady was one of my nearest relations, an orphan
+fancy and spirits. This lady was one of my nearest relations, an [[Orphan|orphan]]
 
 from her infancy, and under the guardianship of my father. Our ages
 
 were nearly the same, and from our earliest years we were playfellows
 
-and friends. I cannot remember the time when I did not love Eliza; and
+and friends. I cannot remember the [[Time|time]] when I did not [[Love|love]] Eliza; and
 
 my affection for her, as we grew up, was such, as perhaps, judging from
 
@@ -356,13 +356,13 @@ for ever. She was married—married against her inclination to my
 
 brother. Her fortune was large, and our family estate much encumbered.
 
-And this, I fear, is all that can be said for the conduct of one, who
+And this, I [[Fear|fear]], is all that can be said for the conduct of one, who
 
 was at once her uncle and guardian. My brother did not deserve her; he
 
-did not even love her. I had hoped that her regard for me would support
+did not even [[Love|love]] her. I had hoped that her regard for me would support
 
-her under any difficulty, and for some time it did; but at last the
+her under any difficulty, and for some [[Time|time]] it did; but at last the
 
 misery of her situation, for she experienced great unkindness, overcame
 
@@ -374,13 +374,13 @@ were within a few hours of eloping together for Scotland. The
 
 treachery, or the folly, of my cousin’s maid betrayed us. I was
 
-banished to the house of a relation far distant, and she was allowed no
+banished to the [[house]] of a relation far distant, and she was allowed no
 
 liberty, no society, no amusement, till my father’s point was gained. I
 
 had depended on her fortitude too far, and the blow was a severe
 
-one—but had her marriage been happy, so young as I then was, a few
+one—but had her [[Marriage|marriage]] been happy, so young as I then was, a few
 
 months must have reconciled me to it, or at least I should not have now
 
@@ -396,25 +396,25 @@ natural. She resigned herself at first to all the misery of her
 
 situation; and happy had it been if she had not lived to overcome those
 
-regrets which the remembrance of me occasioned. But can we wonder that,
+regrets which the remembrance of me occasioned. But can we [[Wonder|wonder]] that,
 
 with such a husband to provoke inconstancy, and without a friend to
 
 advise or restrain her (for my father lived only a few months after
 
-their marriage, and I was with my regiment in the East Indies) she
+their [[Marriage|marriage]], and I was with my regiment in the East Indies) she
 
 should fall? Had I remained in England, perhaps—but I meant to promote
 
 the happiness of both by removing from her for years, and for that
 
-purpose had procured my exchange. The shock which her marriage had
+purpose had procured my exchange. The shock which her [[Marriage|marriage]] had
 
 given me,” he continued, in a voice of great agitation, “was of
 
 trifling weight—was nothing to what I felt when I heard, about two
 
-years afterwards, of her divorce. It was _that_ which threw this
+years afterwards, of her [[divorce]]. It was _that_ which threw this
 
 gloom,—even now the recollection of what I suffered—”
 
@@ -436,11 +436,11 @@ minutes more of silent exertion enabled him to proceed with composure.
 
 to England. My first care, when I _did_ arrive, was of course to seek
 
-for her; but the search was as fruitless as it was melancholy. I could
+for her; but the search was as fruitless as it was [[Melancholy|melancholy]]. I could
 
 not trace her beyond her first seducer, and there was every reason to
 
-fear that she had removed from him only to sink deeper in a life of
+[[Fear|fear]] that she had removed from him only to sink deeper in a life of
 
 sin. Her legal allowance was not adequate to her fortune, nor
 
@@ -458,13 +458,13 @@ had been six months in England, I _did_ find her. Regard for a former
 
 servant of my own, who had since fallen into misfortune, carried me to
 
-visit him in a spunging-house, where he was confined for debt; and
+visit him in a spunging-[[house]], where he was confined for debt; and
 
-there, in the same house, under a similar confinement, was my
+there, in the same [[house]], under a similar confinement, was my
 
-unfortunate sister. So altered—so faded—worn down by acute suffering of
+unfortunate sister. So altered—so faded—worn down by acute [[Suffering|suffering]] of
 
-every kind! hardly could I believe the melancholy and sickly figure
+every kind! hardly could I believe the [[Melancholy|melancholy]] and sickly figure
 
 before me, to be the remains of the lovely, blooming, healthful girl,
 
@@ -476,9 +476,9 @@ pained you too much already. That she was, to all appearance, in the
 
 last stage of a consumption, was—yes, in such a situation it was my
 
-greatest comfort. Life could do nothing for her, beyond giving time for
+greatest comfort. Life could do nothing for her, beyond giving [[Time|time]] for
 
-a better preparation for death; and that was given. I saw her placed in
+a better preparation for [[Death|death]]; and that was given. I saw her placed in
 
 comfortable lodgings, and under proper attendants; I visited her every
 
@@ -496,7 +496,7 @@ friend.
 
 
 
-“Your sister, I hope, cannot be offended,” said he, “by the resemblance
+“Your sister, I [[Hope|hope]], cannot be offended,” said he, “by the resemblance
 
 I have fancied between her and my poor disgraced relation. Their fates,
 
@@ -504,7 +504,7 @@ their fortunes, cannot be the same; and had the natural sweet
 
 disposition of the one been guarded by a firmer mind, or a happier
 
-marriage, she might have been all that you will live to see the other
+[[Marriage|marriage]], she might have been all that you will live to see the other
 
 be. But to what does all this lead? I seem to have been distressing you
 
@@ -512,27 +512,27 @@ for nothing. Ah! Miss Dashwood—a subject such as this—untouched for
 
 fourteen years—it is dangerous to handle it at all! I _will_ be more
 
-collected—more concise. She left to my care her only child, a little
+collected—more concise. She left to my care her only [[Child|child]], a little
 
 girl, the offspring of her first guilty connection, who was then about
 
-three years old. She loved the child, and had always kept it with her.
+three years old. She loved the [[Child|child]], and had always kept it with her.
 
 It was a valued, a precious trust to me; and gladly would I have
 
-discharged it in the strictest sense, by watching over her education
+discharged it in the strictest sense, by watching over her [[Education|education]]
 
-myself, had the nature of our situations allowed it; but I had no
+myself, had the [[Nature|nature]] of our situations allowed it; but I had no
 
-family, no home; and my little Eliza was therefore placed at school. I
+family, no [[Home|home]]; and my little Eliza was therefore placed at school. I
 
-saw her there whenever I could, and after the death of my brother,
+saw her there whenever I could, and after the [[Death|death]] of my brother,
 
 (which happened about five years ago, and which left to me the
 
 possession of the family property,) she visited me at Delaford. I
 
-called her a distant relation; but I am well aware that I have in
+called her a distant relation; but I am [[Well|well]] aware that I have in
 
 general been suspected of a much nearer connection with her. It is now
 
@@ -542,27 +542,27 @@ removed her from school, to place her under the care of a very
 
 respectable woman, residing in Dorsetshire, who had the charge of four
 
-or five other girls of about the same time of life; and for two years I
+or five other girls of about the same [[Time|time]] of life; and for two years I
 
 had every reason to be pleased with her situation. But last February,
 
 almost a twelvemonth back, she suddenly disappeared. I had allowed her,
 
-(imprudently, as it has since turned out,) at her earnest desire, to go
+(imprudently, as it has since turned out,) at her earnest [[Desire|desire]], to go
 
 to Bath with one of her young friends, who was attending her father
 
 there for his health. I knew him to be a very good sort of man, and I
 
-thought well of his daughter—better than she deserved, for, with a most
+thought [[Well|well]] of his daughter—better than she deserved, for, with a most
 
 obstinate and ill-judged secrecy, she would tell nothing, would give no
 
-clue, though she certainly knew all. He, her father, a well-meaning,
+clue, though she certainly knew all. He, her father, a [[Well|well]]-meaning,
 
 but not a quick-sighted man, could really, I believe, give no
 
-information; for he had been generally confined to the house, while the
+information; for he had been generally confined to the [[house]], while the
 
 girls were ranging over the town and making what acquaintance they
 
@@ -590,7 +590,7 @@ Delaford, and I received it on the very morning of our intended party
 
 to Whitwell; and this was the reason of my leaving Barton so suddenly,
 
-which I am sure must at the time have appeared strange to every body,
+which I am sure must at the [[Time|time]] have appeared strange to every [[Body|body]],
 
 and which I believe gave offence to some. Little did Mr. Willoughby
 
@@ -606,9 +606,9 @@ of your sister? No, he had already done that, which no man who _can_
 
 feel for another would do. He had left the girl whose youth and
 
-innocence he had seduced, in a situation of the utmost distress, with
+[[innocence]] he had seduced, in a situation of the utmost distress, with
 
-no creditable home, no help, no friends, ignorant of his address! He
+no creditable [[Home|home]], no help, no friends, ignorant of his address! He
 
 had left her, promising to return; he neither returned, nor wrote, nor
 
@@ -628,17 +628,17 @@ must have felt on seeing your sister as fond of him as ever, and on
 
 being assured that she was to marry him: guess what I must have felt
 
-for all your sakes. When I came to you last week and found you alone, I
+for all your sakes. When I came to you last week and found you [[Alone|alone]], I
 
-came determined to know the truth; though irresolute what to do when it
+came determined to know the [[Truth|truth]]; though irresolute what to do when it
 
 _was_ known. My behaviour must have seemed strange to you then; but now
 
 you will comprehend it. To suffer you all to be so deceived; to see
 
-your sister—but what could I do? I had no hope of interfering with
+your sister—but what could I do? I had no [[Hope|hope]] of interfering with
 
-success; and sometimes I thought your sister’s influence might yet
+[[success]]; and sometimes I thought your sister’s influence might yet
 
 reclaim him. But now, after such dishonorable usage, who can tell what
 
@@ -652,7 +652,7 @@ considers the wretched and hopeless situation of this poor girl, and
 
 pictures her to herself, with an affection for him so strong, still as
 
-strong as her own, and with a mind tormented by self-reproach, which
+strong as her own, and with a mind tormented by [[Self|self]]-reproach, which
 
 must attend her through life. Surely this comparison must have its use
 
@@ -696,7 +696,7 @@ perfect conviction of his unworthiness can do. Now, though at first she
 
 will suffer much, I am sure she will soon become easier. Have you,” she
 
-continued, after a short silence, “ever seen Mr. Willoughby since you
+continued, after a short [[Silence|silence]], “ever seen Mr. Willoughby since you
 
 left him at Barton?”
 
@@ -716,7 +716,7 @@ Elinor, startled by his manner, looked at him anxiously, saying,
 
 “I could meet him no other way. Eliza had confessed to me, though most
 
-reluctantly, the name of her lover; and when he returned to town, which
+reluctantly, the name of her [[Lover|lover]]; and when he returned to town, which
 
 was within a fortnight after myself, we met by appointment, he to
 
@@ -732,7 +732,7 @@ soldier she presumed not to censure it.
 
 
 
-“Such,” said Colonel Brandon, after a pause, “has been the unhappy
+“Such,” said [[Colonel Brandon]], after a pause, “has been the unhappy
 
 resemblance between the fate of mother and daughter! and so imperfectly
 
@@ -746,7 +746,7 @@ have I discharged my trust!”
 
 “No; as soon as she recovered from her lying-in, for I found her near
 
-her delivery, I removed her and her child into the country, and there
+her delivery, I removed her and her [[Child|child]] into the country, and there
 
 she remains.”
 

@@ -18,11 +18,11 @@ But when all this element in the great Englishman has been
 allowed for, it is still true that there was one quality
 in him that was not English.  He was extremely provocative.
 He was as provocative as an.  Irishman.  He refused to leave
-people alone.  He refused emphatically to let sleeping dogs lie.
+people [[Alone|alone]].  He refused emphatically to let sleeping [[dogs]] lie.
 It is not surprising that at the end he had the whole pack
 in full cry after him; and that it only gave him a further
 opportunity for turning on them and telling them they were all curs
-and mongrels, not to mention mad dogs.  He always trailed his coat,
+and mongrels, not to mention mad [[dogs]].  He always trailed his coat,
 especially so as to make men say that he had turned his coat.
 He rejoiced and exulted in a scene.  There is nothing more vivid than
 that scene on which Mr. Edward Thomas touched with great felicity,
@@ -35,10 +35,10 @@ with distended nostrils and the expression which in the prize
 ring is called being a glutton.
 
 Now, the combination in Cobbett of the deepest English humours
-and the love and understanding of England with this quality
+and the [[Love|love]] and understanding of England with this quality
 which is rare in England, the aggressive and challenging quality,
 is a sort of coincidence or contradiction which gave him his
-whole value in our politics and history.  It was exactly because
+whole value in our politics and [[history]].  It was exactly because
 he was English in everything else, and not English in this,
 that he did serve England, and very nearly saved England.
 He very nearly saved her from that oppression by oblivion,
@@ -46,10 +46,10 @@ that absent-minded cruelty of the mere capitalist, which has
 now brought upon her such accumulated and appalling problems in
 the industrial world.  He was capable of being candid about cruelty;
 and indeed of being cruel about cruelty.  He would not let sleeping
-dogs lie; he also would not let progressive politicians lie.
+[[dogs]] lie; he also would not let progressive politicians lie.
 While a rather oily optimism was being applied like oil,
 lie rubbed in his pessimism like pepper.  To a society that was
-more and more covering itself up with its own superficial success,
+more and more covering itself up with its own superficial [[success]],
 he was always deliberately digging up the mass of submerged failure.
 To use a metaphor that would have appealed to him, he was always
 refusing to judge our society by the top-layer of apples
@@ -58,10 +58,10 @@ shopkeeper was a swindler and the fruit underneath was rotten.
 While the whole of that version of things afterwards called
 Victorian was gently pressing everybody to judge England by an
 idealised version of the public schoolboy and the gentleman,
-he delighted to pester our very imagination with beggars and tramps.
+he delighted to pester our very [[Imagination|imagination]] with beggars and tramps.
 While the New Poor Law was putting away such people in prisons
 and police institutions, he delighted to exhibit them with all
-their sores like the cripples on the steps of a church in Italy.
+their sores like the cripples on the steps of a church in [[Italy]].
 
 But though in this he was an exception among Englishmen,
 he was still an English exception among Englishmen.
@@ -74,10 +74,10 @@ English things in revolt that are commonly in repose.
 But his way of reaching even these was very national;
 since it was very casual and almost entirely experimental.
 He did not start with theories but with things; with the things
-he saw.  A philosophy can be deduced from his comments;
-but we do not feel that they were deduced from a philosophy.
+he saw.  A [[philosophy]] can be deduced from his comments;
+but we do not feel that they were deduced from a [[philosophy]].
 
-Lastly, he embodied the English paradox:  because he was a sort
+Lastly, he embodied the English [[Paradox|paradox]]:  because he was a sort
 of poet whose ideal was prose.  He was easily infuriated;
 and he would have been immensely infuriated at being called a poet;
 or, still more, being called a mystic.  But there was much more
@@ -96,15 +96,15 @@ and debates and diatribes about Old Sarum; but they are all concerned
 with it as something on a map or even in a table of figures.
 The joke is an abstract and arithmetical joke.  The idea of anybody going
 to Old Sarum would seem somehow like going to the Other End of Nowhere.
-It is intensely characteristic of Cobbett that for him alone Old Sarum
+It is intensely characteristic of Cobbett that for him [[Alone|alone]] Old Sarum
 was a place; and because it happened to be a high and hilly place,
-it stood up in his imagination with the monstrosity of a mountain.
-He called it the Accursed Hill.  That single title, compared with
+it stood up in his [[Imagination|imagination]] with the monstrosity of a mountain.
+He called it the Accursed [[Hill]].  That single title, compared with
 the terms used by, pamphleteers and politicians, has in it something
-of the palpable apocalypse.  We can fancy him seeing it afar off
+of the palpable [[Apocalypse|apocalypse]].  We can fancy him seeing it afar off
 from some terrace of hills looking over the coloured counties,
 as some primitive traveller might have fancied he saw afar off
-the peak of Purgatory, or the volcanic prison of the Titans.
+the peak of Purgatory, or the volcanic [[Prison|prison]] of the Titans.
 He hated it not as arithmetical anomalies can be hated;
 but as places can be hated, which is almost as persons can be hated.
 And in all this, as compared with the contemporary rationalism,

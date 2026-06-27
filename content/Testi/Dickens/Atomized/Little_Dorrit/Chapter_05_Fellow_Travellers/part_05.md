@@ -15,13 +15,13 @@ tags:
 
 
 With the coldest of farewells, and with a certain worn expression on her
-beauty that gave it, though scarcely yet in its prime, a wasted look,
+[[Beauty|beauty]] that gave it, though scarcely yet in its prime, a wasted look,
 she left the room.
 
 Now, there were many stairs and passages that she had to traverse in
-passing from that part of the spacious house to the chamber she had
+passing from that part of the spacious [[house]] to the chamber she had
 secured for her own occupation. When she had almost completed the
-journey, and was passing along the gallery in which her room was, she
+[[Journey|journey]], and was passing along the gallery in which her room was, she
 heard an angry sound of muttering and sobbing. A door stood open, and
 within she saw the attendant upon the girl she had just left; the maid
 with the curious name.
@@ -52,7 +52,7 @@ both times you found me. I am afraid of you.’
 
 ‘Yes. You seem to come like my own anger, my own malice, my
 own--whatever it is--I don’t know what it is. But I am ill-used, I am
-ill-used, I am ill-used!’ Here the sobs and the tears, and the tearing
+ill-used, I am ill-used!’ Here the sobs and the [[Tears|tears]], and the tearing
 hand, which had all been suspended together since the first surprise,
 went on together anew.
 
@@ -62,7 +62,7 @@ struggle she made as if she were rent by the Demons of old.
 
 ‘I am younger than she is by two or three years, and yet it’s me that
 looks after her, as if I was old, and it’s she that’s always petted and
-called Baby! I detest the name. I hate her! They make a fool of her,
+called Baby! I detest the name. I hate her! They make a [[Fool|fool]] of her,
 they spoil her. She thinks of nothing but herself, she thinks no more of
 me than if I was a stock and a stone!’ So the girl went on.
 
@@ -86,7 +86,7 @@ dissection and exposition of an analogous case.
 
 The girl raged and battled with all the force of her youth and fulness
 of life, until by little and little her passionate exclamations trailed
-off into broken murmurs as if she were in pain. By corresponding degrees
+off into broken murmurs as if she were in [[Pain|pain]]. By corresponding degrees
 she sank into a chair, then upon her knees, then upon the ground beside
 the bed, drawing the coverlet with her, half to hide her shamed head and
 wet hair in it, and half, as it seemed, to embrace it, rather than have
@@ -97,16 +97,16 @@ am mad. I know I might keep it off if I only tried hard enough, and
 sometimes I do try hard enough, and at other times I don’t and won’t.
 What have I said! I knew when I said it, it was all lies. They think I
 am being taken care of somewhere, and have all I want. They are nothing
-but good to me. I love them dearly; no people could ever be kinder to a
+but good to me. I [[Love|love]] them dearly; no people could ever be kinder to a
 thankless creature than they always are to me. Do, do go away, for I am
 afraid of you. I am afraid of myself when I feel my temper coming, and I
 am as much afraid of you. Go away from me, and let me pray and cry
 myself better!’
 
 The day passed on; and again the wide stare stared itself out; and the
-hot night was on Marseilles; and through it the caravan of the morning,
+hot [[Night|night]] was on Marseilles; and through it the caravan of the morning,
 all dispersed, went their appointed ways. And thus ever by day and
-night, under the sun and under the stars, climbing the dusty hills and
+[[Night|night]], under the sun and under the [[Stars|stars]], climbing the dusty hills and
 toiling along the weary plains, journeying by land and journeying by
 sea, coming and going so strangely, to meet and to act and react on one
 another, move all we restless travellers through the pilgrimage of life.

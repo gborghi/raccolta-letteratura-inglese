@@ -20,9 +20,9 @@ tags:
 
       were a great many women and children, the former not altogether
 
-      wanting in what might be termed personal beauty. They were
+      wanting in what might be termed personal [[Beauty|beauty]]. They were
 
-      straight, tall, and well formed, with a grace and freedom of
+      straight, tall, and [[Well|well]] formed, with a grace and [[Freedom|freedom]] of
 
       carriage not to be found in civilized society. Their lips,
 
@@ -58,9 +58,9 @@ tags:
 
       skins fastened together with wooden skewers, was secured at the
 
-      bottom with pegs driven through it and into the ground. The floor
+      [[Bottom|bottom]] with pegs driven through it and into the ground. The floor
 
-      was strewed with a quantity of dry leaves by way of carpet.
+      was strewed with a quantity of dry [[Leaves|leaves]] by way of carpet.
 
 
 
@@ -68,7 +68,7 @@ tags:
 
       of the natives crowded in after us as possible. Too-wit seated
 
-      himself on the leaves, and made signs that we should follow his
+      himself on the [[Leaves|leaves]], and made signs that we should follow his
 
       example. This we did, and presently found ourselves in a
 
@@ -86,7 +86,7 @@ tags:
 
       probably was every individual on the whole island, the crowd
 
-      being prevented from trampling us to death only by the incessant
+      being prevented from trampling us to [[Death|death]] only by the incessant
 
       exertions and vociferations of Too-wit. Our chief security lay,
 
@@ -110,11 +110,11 @@ tags:
 
       strenuously insisted upon than the Lama-Lamas! We listened in
 
-      profound silence until the conclusion of this harangue, when
+      profound [[Silence|silence]] until the conclusion of this harangue, when
 
       Captain Guy replied by assuring the chief of his eternal
 
-      friendship and goodwill, concluding what he had to say by a
+      [[Friendship|friendship]] and goodwill, concluding what he had to say by a
 
       present of several strings of blue beads and a knife. At the
 
@@ -154,7 +154,7 @@ tags:
 
       When the monarch had made an end of his meal, we commenced a
 
-      series of cross-questioning in every ingenious manner we could
+      series of [[Cross|cross]]-questioning in every ingenious manner we could
 
       devise, with a view of discovering what were the chief
 

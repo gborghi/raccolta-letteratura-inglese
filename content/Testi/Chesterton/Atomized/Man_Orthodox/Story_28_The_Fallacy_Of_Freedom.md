@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — The Fallacy Of Freedom"
+title: "Man Orthodox — The Fallacy Of [[Freedom]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-THE FALLACY OF FREEDOM
+THE FALLACY OF [[Freedom|FREEDOM]]

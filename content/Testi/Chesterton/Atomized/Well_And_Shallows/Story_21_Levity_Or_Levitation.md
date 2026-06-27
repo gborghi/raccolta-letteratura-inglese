@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — Levity--Or Levitation"
+title: "[[Well]] And Shallows — Levity--Or Levitation"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Well-And-Shallows-(Chesterton)"
@@ -39,13 +39,13 @@ and said nothing whatever to suggest in any way that he was.
 He, however, is supremely capable of looking after himself,
 and the mere facts about this absurd muddle I have dealt with elsewhere.
 At the moment I only wish to wallow in sheer shameless enjoyment
-of the way in which the Psychic News attacks the Catholic Church
-and attacks me.  I admit that this is mere self-indulgence on my part.
+of the way in which the Psychic News attacks the [[Catholic Church]]
+and attacks me.  I admit that this is mere [[Self|self]]-indulgence on my part.
 I know that numbers of judicious friends will tell me that I
 ought not to take any notice of such an article.  But nothing
 that can be called human is uninteresting, and this involves,
 to begin with, one puzzle which always interests me very much.
-And that is why people who fly into a rage with the Catholic Church
+And that is why people who fly into a rage with the [[Catholic Church]]
 always use an extraordinary diction, or verbal style, in which
 all sorts of incommensurate things are jumbled up together,
 so that the very order of the words is a joke.  "Spiritualism depends
@@ -74,7 +74,7 @@ But I never read an attack on Catholicism without finding this ignorant
 gabble of terms all topsy-turvy. There is always some such medley
 of misused words, in which mitres, misereres, nones, albs, croziers,
 virgins and viaticums tumble over each other without the wildest
-hope that anybody could possibly know what any of them mean.
+[[Hope|hope]] that anybody could possibly know what any of them mean.
 That is the first curiosity about this kind of writing.
 We can now go back to the only sentence in the paragraph in which
 anything like a meaning is apparent.  It is that passage in which,
@@ -89,7 +89,7 @@ But, however that may be, the paper in question reveals some
 remarkable impressions about spiritual functions and degrees.
 There is an astonishing caption under a picture of St. Joan
 of Arc; saying that she did not care whether she was a saint
-or a witch, because "she had a job to do and did it."
+or a [[Witch|witch]], because "she had a job to do and did it."
 How refreshing this language is.  How full of the
 fifteenth century!  Joan was just all out to get that job.
 She reckoned she could hold down that job.  Gee!  Joan wasn't
@@ -99,10 +99,10 @@ The paper informs us that its religion is entirely founded on facts;
 but it seems possible to manufacture a good deal of abstract
 vulgarity without employing them.  It were vain, I suppose,
 to point out the historical fact that Joan debated desperately
-for days and days to prove she was not a witch, long after it
+for days and days to prove she was not a [[Witch|witch]], long after it
 was obvious that her job, as a job, was either done or done for.
 But might not the suggestion, that it does not matter whether
-one is a witch or a saint, explain something of the distrust
+one is a [[Witch|witch]] or a saint, explain something of the distrust
 that some of us feel about Spiritualism?
 
 As I am writing this for fun, I would not say very much about the central
@@ -114,7 +114,7 @@ Suppose Pope after Pope, and Priest after Priest, had stood up at
 the altar rails promising on the spot to prove Transubstantiation.
 And suppose Pope after Pope, and Priest after Priest, had been exposed
 as proving it by a faked apparatus in the Communion Table, by hidden
-wires in the cross and candles, and all the apparatus of fraud.
+wires in the [[Cross|cross]] and candles, and all the apparatus of fraud.
 Suppose, while many priests were doubtless honest men and perhaps
 honest dupes, it was a plain, palpable historical fact that the miracle
 had again and again been a mere conjuring trick, and the most famous

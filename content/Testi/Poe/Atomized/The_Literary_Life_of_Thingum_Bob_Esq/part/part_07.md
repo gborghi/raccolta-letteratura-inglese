@@ -1,5 +1,5 @@
 ---
-title: "The Literary Life of Thingum Bob, Esq (part 7)"
+title: "[[The Literary Life of Thingum Bob, Esq]] (part 7)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Literary-Life-of-Thingum-Bob,-Esq-(Poe)"
@@ -32,7 +32,7 @@ tags:
 
       appeared to take a paternal interest in my welfare, he suggested
 
-      to me that I might turn an honest penny, and, at the same time,
+      to me that I might turn an honest penny, and, at the same [[Time|time]],
 
       advance my reputation, by occasionally playing Thomas Hawk for
 
@@ -46,7 +46,7 @@ tags:
 
 
 
-      Here Mr. Crab again “made great eyes,” (as we say in Germany,)
+      Here Mr. Crab again “made great eyes,” (as we say in [[Germany]],)
 
       but at length, recovering himself from a profound attack of
 
@@ -80,7 +80,7 @@ tags:
 
       altogether, and thus it was easy to do the thing thoroughly and
 
-      well. My practice was this. I bought auction copies (cheap) of
+      [[Well|well]]. My practice was this. I bought auction copies (cheap) of
 
       “Lord Brougham’s Speeches,” “Cobbett’s Complete Works,” the “New
 
@@ -116,7 +116,7 @@ tags:
 
       captivating. Indeed, the reviews I brought to pass by this simple
 
-      expedient have never been approached, and were the wonder of the
+      expedient have never been approached, and were the [[Wonder|wonder]] of the
 
       world. At first, through bashfulness—the result of inexperience—I
 
@@ -150,9 +150,9 @@ tags:
 
       determine. The most reasonable conclusion is, that he wept
 
-      himself to death. At all events he disappeared instantaneously
+      himself to [[Death|death]]. At all events he disappeared instantaneously
 
-      from the face of the earth, and no man has seen even the ghost of
+      from the face of the earth, and no man has seen even the [[Ghost|ghost]] of
 
       him since.
 
@@ -172,7 +172,7 @@ tags:
 
       “My dear Thingum,” said he to me one day after dinner, “I respect
 
-      your abilities and love you as a son. You shall be my heir. When
+      your abilities and [[Love|love]] you as a son. You shall be my heir. When
 
       I die I will bequeath you the ‘Lollipop.’ In the meantime I will
 
@@ -226,4 +226,4 @@ tags:
 
       “I think, Mr. Bob, that what you propose would answer
 
-      sufficiently well—indeed remarkably well—that is to say, as far
+      sufficiently [[Well|well]]—indeed remarkably [[Well|well]]—that is to say, as far

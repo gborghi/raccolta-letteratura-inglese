@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 41: FORTY ONE (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 41: FORTY ONE (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Jonas left the window, and walked up close to him. He did not look
+Jonas left the [[Window|window]], and walked up close to him. He did not look
 him in the face; it was not his habit to do that; but he kept his eyes
 towards him--on his breast, or thereabouts--and was at great pains
 to speak slowly and distinctly in reply. Just as a man in a state of
@@ -56,7 +56,7 @@ Whichever it is, I dare say I’m no worse than other men.’
 ‘Not a bit,’ said Tigg. ‘Not a bit. We’re all alike--or nearly so.’
 
 ‘I want to know this,’ Jonas went on to say; ‘is it your own? You’ll not
-wonder at my asking the question.’
+[[Wonder|wonder]] at my asking the question.’
 
 ‘My own!’ repeated Montague.
 
@@ -66,7 +66,7 @@ Don’t waver about that.’
 ‘No!’ said Montague, without the smallest hesitation. ‘What would it be
 worth, do you think, unless I had the keeping of it?’
 
-Now, for the first time, Jonas looked at him. After a pause, he put out
+Now, for the first [[Time|time]], Jonas looked at him. After a pause, he put out
 his hand, and said, with a laugh:
 
 ‘Come! make things easy to me, and I’m yours. I don’t know that I may
@@ -81,22 +81,22 @@ lighter tone:
 ‘Immediately!’ cried Montague. ‘He cannot be enticed too soon.’
 
 ‘Ecod!’ cried Jonas, with a wild laugh. ‘There’s some fun in catching
-that old hypocrite. I hate him. Shall I go to-night?’
+that old hypocrite. I hate him. Shall I go to-[[Night|night]]?’
 
 ‘Aye! This,’ said Montague, ecstatically, ‘is like business! We
-understand each other now! To-night, my good fellow, by all means.’
+understand each other now! To-[[Night|night]], my good fellow, by all means.’
 
 ‘Come with me,’ cried Jonas. ‘We must make a dash; go down in state, and
 carry documents, for he’s a deep file to deal with, and must be drawn
 on with an artful hand, or he’ll not follow. I know him. As I can’t
 take your lodgings or your dinners down, I must take you. Will you come
-to-night?’
+to-[[Night|night]]?’
 
 His friend appeared to hesitate; and neither to have anticipated this
 proposal, nor to relish it very much.
 
-‘We can concert our plans upon the road,’ said Jonas. ‘We must not go
-direct to him, but cross over from some other place, and turn out of our
+‘We can concert our plans upon the [[Road|road]],’ said Jonas. ‘We must not go
+direct to him, but [[Cross|cross]] over from some other place, and turn out of our
 way to see him. I may not want to introduce you, but I must have you on
 the spot. I know the man, I tell you.’
 
@@ -109,11 +109,11 @@ now! No false hair then, no black dye! You were another sort of joker
 in those days, you were! You even spoke different then. You’ve acted
 the gentleman so seriously since, that you’ve taken in yourself. If he
 should know you, what does it matter? Such a change is a proof of your
-success. You know that, or you would not have made yourself known to me.
+[[success]]. You know that, or you would not have made yourself known to me.
 Will you come?’
 
 ‘My good fellow,’ said Montague, still hesitating, ‘I can trust you
-alone.’
+[[Alone|alone]].’
 
 ‘Trust me! Ecod, you may trust me now, far enough. I’ll try to go away
 no more--no more!’ He stopped, and added in a more sober tone, ‘I can’t
@@ -124,7 +124,7 @@ upon it.
 
 The boisterous manner which Jonas had exhibited during the latter part
 of this conversation, and which had gone on rapidly increasing with
-almost every word he had spoken, from the time when he looked his
+almost every word he had spoken, from the [[Time|time]] when he looked his
 honourable friend in the face until now, did not now subside, but,
 remaining at its height, abided by him. Most unusual with him at any
 period; most inconsistent with his temper and constitution; especially
@@ -133,15 +133,15 @@ him. It was not like the effect of wine, or any ardent drink, for he was
 perfectly coherent. It even made him proof against the usual influence
 of such means of excitement; for, although he drank deeply several times
 that day, with no reserve or caution, he remained exactly the same man,
-and his spirits neither rose nor fell in the least observable degree.
+and his spirits neither [[Rose|rose]] nor fell in the least observable degree.
 
-Deciding, after some discussion, to travel at night, in order that the
+Deciding, after some discussion, to travel at [[Night|night]], in order that the
 day’s business might not be broken in upon, they took counsel together
 in reference to the means. Mr Montague being of opinion that four horses
 were advisable, at all events for the first stage, as throwing a great
-deal of dust into people’s eyes, in more senses than one, a travelling
-chariot and four lay under orders for nine o’clock. Jonas did not go
-home; observing, that his being obliged to leave town on business in
+deal of [[Dust|dust]] into people’s eyes, in more senses than one, a travelling
+chariot and four lay under orders for nine o’[[Clock|clock]]. Jonas did not go
+[[Home|home]]; observing, that his being obliged to leave town on business in
 so great a hurry, would be a good excuse for having turned back so
 unexpectedly in the morning. So he wrote a note for his portmanteau, and
 sent it by a messenger, who duly brought his luggage back, with a short

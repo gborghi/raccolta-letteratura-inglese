@@ -23,12 +23,12 @@ He is staggering about from century to century, because he has
 no real standing-ground of his own; and he has no standing-ground
 because he has destroyed anything on which he could stand.
 Modern youth has been blamed for bringing in a fashion of negro dances;
-but the one nigger antic I really regret is the dance which was
+but the one nigger antic I really regret is the [[Dance|dance]] which was
 once called "The Breakdown," which breaks down the dancing-floor
-and ends with the disappearance of the dancer and the dance.
+and ends with the disappearance of the dancer and the [[Dance|dance]].
 The objection to all this merely destructive thought is that eventually
-such destruction is self-destruction. The game of "breaking up
-the happy home," even when it is, really a bright and breezy pastime,
+such destruction is [[Self|self]]-destruction. The game of "breaking up
+the happy [[Home|home]]," even when it is, really a bright and breezy pastime,
 is necessarily a brief pastime; and in the end it is the players who
 come out of the ruins, houseless and homeless, to become broken men.
 That is why the first thing to be felt for them is a profound
@@ -38,7 +38,7 @@ and paupers who are materially homeless, so we should be sorry
 for those who are morally homeless, and who suffer a philosophical
 starvation as deadly as physical starvation.  Not only is it
 true that some of the most modern philosophers are only trying
-to prove that we cannot have a philosophy; it is even more true
+to prove that we cannot have a [[philosophy]]; it is even more true
 that the most modern among the physical scientists are only trying
 to prove that science is not physical.  It would be even truer to say
 that some of them are trying to prove that science is not science.
@@ -48,22 +48,22 @@ All this, right or wrong, has left that generation in an unprecedented
 degree unprepared with any axioms on which to act, or any tests
 on which it could really rely.  And it is especially awkward,
 when the young man who has never learned anything except how to hate
-his own father and grandfather, is suddenly called upon to love
+his own father and grandfather, is suddenly called upon to [[Love|love]]
 all men like brothers.
 
 ~||~
 
 _XII About Poetry_
 
-THERE was printed recently a very reasonable and well-poised criticism
+THERE was printed recently a very reasonable and [[Well|well]]-poised criticism
 on the subject of Modern Poetry.  Perhaps it took some examples
 of Modern Poetry a little more seriously than I can manage to do;
-for the Moderns, who talk about irresistible temptations to love,
+for the Moderns, who talk about irresistible temptations to [[Love|love]],
 do not always realize that they themselves torture us with irresistible
 temptations to laughter.  But, on the whole, the critic justified
 himself in preserving his gravity; keeping a straight face
 (as the Chinese would say) in the presence of some extracts
-of a gravity-removing nature.  He did not merely despise the past;
+of a gravity-removing [[Nature|nature]].  He did not merely despise the past;
 he justified the present by appeals to the past.  His thesis was
 broadly this:  that when the particular inspiration of a poetical
 period is exhausted, those who begin the next period are almost
@@ -87,7 +87,7 @@ that this is very much the impression produced upon people of a
 more traditional culture by the ugliness of some modern verse.
 But it is perhaps an exaggeration to make Wordsworth a father
 and founder of the whole Romantic Movement, seeing that his friend
-Coleridge wrote a real old ballad in "The Ancient Mariner,"
+Coleridge wrote a real old ballad in "The [[Ancient Mariner]],"
 with only one line "for which he was indebted to Mr. Wordsworth";
 and seeing that Burns had already written and Byron was not far behind.
 And it marks something misleading in such sweeping classifications
@@ -98,23 +98,23 @@ an ingenious suggestion, which in some aspects is really suggestive.
 But it is rather a gloomy and blasting prophecy to say that anybody
 who is to renew the life of English poetry must of necessity begin
 with writing such abominably bad poetry as some of the first
-poems of Wordsworth.
+[[Poems|poems]] of Wordsworth.
 
-But another doubt stirred within me, after reading all such scientific
+But another [[Doubt|doubt]] stirred within me, after reading all such scientific
 analysis about the exhaustion of classic poetry in the eighteenth century,
-or of romantic poetry in the nineteenth century.  My own early education,
+or of romantic poetry in the nineteenth century.  My own early [[Education|education]],
 such as it was, dates from the very end of the nineteenth century; and it
-was a period in which people talked a great deal about religious doubt.
-Religious doubt produced a good deal of doubtful religion.
-We are now in a time when the world is more definitely divided
+was a period in which people talked a great deal about religious [[Doubt|doubt]].
+Religious [[Doubt|doubt]] produced a good deal of doubtful religion.
+We are now in a [[Time|time]] when the world is more definitely divided
 into denials and affirmations, and is no longer merely enjoying
 its doubts.  But I, for one, have found that one advantage of a man
-ceasing to doubt about religion is that he is much more free
-to doubt about everything else.  All the nineteenth-century
+ceasing to [[Doubt|doubt]] about religion is that he is much more free
+to [[Doubt|doubt]] about everything else.  All the nineteenth-century
 sceptics about the other world were dupes about this world.
 They accepted everything that was fashionable as if it were final;
 and the revolutionary romantics, who thought they would see the end
-of religion, never thought they would see the end of romance.
+of religion, never thought they would see the end of [[Romance|romance]].
 Hence they encouraged this excessive habit of setting one style
 or school against another, and treated the victory of romanticism
 over classicism as the final victory of light over darkness.

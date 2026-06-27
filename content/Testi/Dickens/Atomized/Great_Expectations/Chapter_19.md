@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 19"
+title: "[[Great Expectations]] — Chapter 19"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -21,23 +21,23 @@ Morning made a considerable difference in my general prospect of Life,
 and brightened it so much that it scarcely seemed the same. What lay
 heaviest on my mind was, the consideration that six days intervened
 between me and the day of departure; for I could not divest myself of a
-misgiving that something might happen to London in the meanwhile, and
+misgiving that something might happen to [[London]] in the meanwhile, and
 that, when I got there, it would be either greatly deteriorated or
 clean gone.
 
-Joe and Biddy were very sympathetic and pleasant when I spoke of our
+Joe and [[Biddy]] were very sympathetic and pleasant when I spoke of our
 approaching separation; but they only referred to it when I did. After
 breakfast, Joe brought out my indentures from the press in the best
-parlour, and we put them in the fire, and I felt that I was free. With
+parlour, and we put them in the [[Fire|fire]], and I felt that I was free. With
 all the novelty of my emancipation on me, I went to church with Joe,
 and thought perhaps the clergyman wouldn’t have read that about the
 rich man and the kingdom of Heaven, if he had known all.
 
-After our early dinner, I strolled out alone, purposing to finish off
+After our early dinner, I strolled out [[Alone|alone]], purposing to finish off
 the marshes at once, and get them done with. As I passed the church, I
-felt (as I had felt during service in the morning) a sublime compassion
-for the poor creatures who were destined to go there, Sunday after
-Sunday, all their lives through, and to lie obscurely at last among the
+felt (as I had felt during service in the morning) a [[Sublime|sublime]] compassion
+for the poor creatures who were destined to go there, [[Sunday]] after
+[[Sunday]], all their lives through, and to lie obscurely at last among the
 low green mounds. I promised myself that I would do something for them
 one of these days, and formed a plan in outline for bestowing a dinner
 of roast-beef and plum-pudding, a pint of ale, and a gallon of
@@ -45,9 +45,9 @@ condescension, upon everybody in the village.
 
 If I had often thought before, with something allied to shame, of my
 companionship with the fugitive whom I had once seen limping among
-those graves, what were my thoughts on this Sunday, when the place
+those graves, what were my thoughts on this [[Sunday]], when the place
 recalled the wretch, ragged and shivering, with his felon iron and
-badge! My comfort was, that it happened a long time ago, and that he
+badge! My comfort was, that it happened a long [[Time|time]] ago, and that he
 had doubtless been transported a long way off, and that he was dead to
 me, and might be veritably dead into the bargain.
 
@@ -55,17 +55,17 @@ No more low, wet grounds, no more dikes and sluices, no more of these
 grazing cattle,—though they seemed, in their dull manner, to wear a
 more respectful air now, and to face round, in order that they might
 stare as long as possible at the possessor of such great
-expectations,—farewell, monotonous acquaintances of my childhood,
-henceforth I was for London and greatness; not for smith’s work in
+expectations,—farewell, monotonous acquaintances of my [[Childhood|childhood]],
+henceforth I was for [[London]] and [[Greatness|greatness]]; not for [[smith]]’s work in
 general, and for you! I made my exultant way to the old Battery, and,
-lying down there to consider the question whether Miss Havisham
-intended me for Estella, fell asleep.
+lying down there to consider the question whether [[Miss Havisham]]
+intended me for [[Estella]], fell asleep.
 
 When I awoke, I was much surprised to find Joe sitting beside me,
 smoking his pipe. He greeted me with a cheerful smile on my opening my
 eyes, and said,—
 
-“As being the last time, Pip, I thought I’d foller.”
+“As being the last [[Time|time]], Pip, I thought I’d foller.”
 
 “And Joe, I am very glad you did so.”
 
@@ -75,9 +75,9 @@ eyes, and said,—
 “that I shall never forget you.”
 
 “No, no, Pip!” said Joe, in a comfortable tone, “_I_’m sure of that.
-Ay, ay, old chap! Bless you, it were only necessary to get it well
-round in a man’s mind, to be certain on it. But it took a bit of time
-to get it well round, the change come so oncommon plump; didn’t it?”
+Ay, ay, old chap! Bless you, it were only necessary to get it [[Well|well]]
+round in a man’s mind, to be certain on it. But it took a bit of [[Time|time]]
+to get it [[Well|well]] round, the change come so oncommon plump; didn’t it?”
 
 Somehow, I was not best pleased with Joe’s being so mightily secure of
 me. I should have liked him to have betrayed emotion, or to have said,
@@ -92,115 +92,115 @@ were one.
 “It’s a pity now, Joe,” said I, “that you did not get on a little more,
 when we had our lessons here; isn’t it?”
 
-“Well, I don’t know,” returned Joe. “I’m so awful dull. I’m only master
+“[[Well]], I don’t know,” returned Joe. “I’m so awful dull. I’m only master
 of my own trade. It were always a pity as I was so awful dull; but it’s
 no more of a pity now, than it was—this day twelvemonth—don’t you see?”
 
 What I had meant was, that when I came into my property and was able to
 do something for Joe, it would have been much more agreeable if he had
 been better qualified for a rise in station. He was so perfectly
-innocent of my meaning, however, that I thought I would mention it to
-Biddy in preference.
+[[Innocent|innocent]] of my meaning, however, that I thought I would mention it to
+[[Biddy]] in preference.
 
-So, when we had walked home and had had tea, I took Biddy into our
-little garden by the side of the lane, and, after throwing out in a
+So, when we had walked [[Home|home]] and had had tea, I took [[Biddy]] into our
+little [[Garden|garden]] by the side of the lane, and, after throwing out in a
 general way for the elevation of her spirits, that I should never
 forget her, said I had a favour to ask of her.
 
-“And it is, Biddy,” said I, “that you will not omit any opportunity of
+“And it is, [[Biddy]],” said I, “that you will not omit any opportunity of
 helping Joe on, a little.”
 
-“How helping him on?” asked Biddy, with a steady sort of glance.
+“How helping him on?” asked [[Biddy]], with a steady sort of glance.
 
-“Well! Joe is a dear good fellow,—in fact, I think he is the dearest
+“[[Well]]! Joe is a dear good fellow,—in fact, I think he is the dearest
 fellow that ever lived,—but he is rather backward in some things. For
-instance, Biddy, in his learning and his manners.”
+instance, [[Biddy]], in his learning and his manners.”
 
-Although I was looking at Biddy as I spoke, and although she opened her
+Although I was looking at [[Biddy]] as I spoke, and although she opened her
 eyes very wide when I had spoken, she did not look at me.
 
-“O, his manners! won’t his manners do then?” asked Biddy, plucking a
+“O, his manners! won’t his manners do then?” asked [[Biddy]], plucking a
 black-currant leaf.
 
-“My dear Biddy, they do very well here—”
+“My dear [[Biddy]], they do very [[Well|well]] here—”
 
-“O! they _do_ very well here?” interrupted Biddy, looking closely at
+“O! they _do_ very [[Well|well]] here?” interrupted [[Biddy]], looking closely at
 the leaf in her hand.
 
 “Hear me out,—but if I were to remove Joe into a higher sphere, as I
-shall hope to remove him when I fully come into my property, they would
+shall [[Hope|hope]] to remove him when I fully come into my property, they would
 hardly do him justice.”
 
-“And don’t you think he knows that?” asked Biddy.
+“And don’t you think he knows that?” asked [[Biddy]].
 
 It was such a very provoking question (for it had never in the most
 distant manner occurred to me), that I said, snappishly,—
 
-“Biddy, what do you mean?”
+“[[Biddy]], what do you mean?”
 
-Biddy, having rubbed the leaf to pieces between her hands,—and the
+[[Biddy]], having rubbed the leaf to pieces between her hands,—and the
 smell of a black-currant bush has ever since recalled to me that
-evening in the little garden by the side of the lane,—said, “Have you
+evening in the little [[Garden|garden]] by the side of the lane,—said, “Have you
 never considered that he may be proud?”
 
 “Proud?” I repeated, with disdainful emphasis.
 
-“O! there are many kinds of pride,” said Biddy, looking full at me and
-shaking her head; “pride is not all of one kind—”
+“O! there are many kinds of [[Pride|pride]],” said [[Biddy]], looking full at me and
+shaking her head; “[[Pride|pride]] is not all of one kind—”
 
-“Well? What are you stopping for?” said I.
+“[[Well]]? What are you stopping for?” said I.
 
-“Not all of one kind,” resumed Biddy. “He may be too proud to let any
+“Not all of one kind,” resumed [[Biddy]]. “He may be too proud to let any
 one take him out of a place that he is competent to fill, and fills
-well and with respect. To tell you the truth, I think he is; though it
+[[Well|well]] and with respect. To tell you the [[Truth|truth]], I think he is; though it
 sounds bold in me to say so, for you must know him far better than I
 do.”
 
-“Now, Biddy,” said I, “I am very sorry to see this in you. I did not
-expect to see this in you. You are envious, Biddy, and grudging. You
+“Now, [[Biddy]],” said I, “I am very sorry to see this in you. I did not
+expect to see this in you. You are envious, [[Biddy]], and grudging. You
 are dissatisfied on account of my rise in fortune, and you can’t help
 showing it.”
 
-“If you have the heart to think so,” returned Biddy, “say so. Say so
+“If you have the heart to think so,” returned [[Biddy]], “say so. Say so
 over and over again, if you have the heart to think so.”
 
-“If you have the heart to be so, you mean, Biddy,” said I, in a
+“If you have the heart to be so, you mean, [[Biddy]],” said I, in a
 virtuous and superior tone; “don’t put it off upon me. I am very sorry
-to see it, and it’s a—it’s a bad side of human nature. I did intend to
+to see it, and it’s a—it’s a bad side of human [[Nature|nature]]. I did intend to
 ask you to use any little opportunities you might have after I was
 gone, of improving dear Joe. But after this I ask you nothing. I am
-extremely sorry to see this in you, Biddy,” I repeated. “It’s a—it’s a
-bad side of human nature.”
+extremely sorry to see this in you, [[Biddy]],” I repeated. “It’s a—it’s a
+bad side of human [[Nature|nature]].”
 
-“Whether you scold me or approve of me,” returned poor Biddy, “you may
+“Whether you scold me or approve of me,” returned poor [[Biddy]], “you may
 equally depend upon my trying to do all that lies in my power, here, at
 all times. And whatever opinion you take away of me, shall make no
 difference in my remembrance of you. Yet a gentleman should not be
-unjust neither,” said Biddy, turning away her head.
+unjust neither,” said [[Biddy]], turning away her head.
 
-I again warmly repeated that it was a bad side of human nature (in
+I again warmly repeated that it was a bad side of human [[Nature|nature]] (in
 which sentiment, waiving its application, I have since seen reason to
-think I was right), and I walked down the little path away from Biddy,
-and Biddy went into the house, and I went out at the garden gate and
-took a dejected stroll until supper-time; again feeling it very
-sorrowful and strange that this, the second night of my bright
+think I was right), and I walked down the little path away from [[Biddy]],
+and [[Biddy]] went into the [[house]], and I went out at the [[Garden|garden]] gate and
+took a dejected stroll until supper-[[Time|time]]; again feeling it very
+sorrowful and strange that this, the second [[Night|night]] of my bright
 fortunes, should be as lonely and unsatisfactory as the first.
 
 But, morning once more brightened my view, and I extended my clemency
-to Biddy, and we dropped the subject. Putting on the best clothes I
-had, I went into town as early as I could hope to find the shops open,
+to [[Biddy]], and we dropped the subject. Putting on the best clothes I
+had, I went into town as early as I could [[Hope|hope]] to find the shops open,
 and presented myself before Mr. Trabb, the tailor, who was having his
 breakfast in the parlour behind his shop, and who did not think it
 worth his while to come out to me, but called me in to him.
 
-“Well!” said Mr. Trabb, in a hail-fellow-well-met kind of way. “How are
+“[[Well]]!” said Mr. Trabb, in a hail-fellow-[[Well|well]]-met kind of way. “How are
 you, and what can I do for you?”
 
 Mr. Trabb had sliced his hot roll into three feather-beds, and was
 slipping butter in between the blankets, and covering it up. He was a
-prosperous old bachelor, and his open window looked into a prosperous
-little garden and orchard, and there was a prosperous iron safe let
-into the wall at the side of his fireplace, and I did not doubt that
+prosperous old bachelor, and his open [[Window|window]] looked into a prosperous
+little [[Garden|garden]] and orchard, and there was a prosperous iron safe let
+into the wall at the side of his fireplace, and I did not [[Doubt|doubt]] that
 heaps of his prosperity were put away in it in bags.
 
 “Mr. Trabb,” said I, “it’s an unpleasant thing to have to mention,
@@ -209,14 +209,14 @@ property.”
 
 A change passed over Mr. Trabb. He forgot the butter in bed, got up
 from the bedside, and wiped his fingers on the tablecloth, exclaiming,
-“Lord bless my soul!”
+“Lord bless my [[Soul|soul]]!”
 
-“I am going up to my guardian in London,” said I, casually drawing some
+“I am going up to my guardian in [[London]],” said I, casually drawing some
 guineas out of my pocket and looking at them; “and I want a fashionable
 suit of clothes to go in. I wish to pay for them,” I added—otherwise I
 thought he might only pretend to make them, “with ready money.”
 
-“My dear sir,” said Mr. Trabb, as he respectfully bent his body, opened
+“My dear sir,” said Mr. Trabb, as he respectfully bent his [[Body|body]], opened
 his arms, and took the liberty of touching me on the outside of each
 elbow, “don’t hurt me by mentioning that. May I venture to congratulate
 you? Would you do me the favour of stepping into the shop?”
@@ -245,9 +245,9 @@ me have none of your tricks here,” said Mr. Trabb, “or you shall repent
 it, you young scoundrel, the longest day you have to live.”
 
 Mr. Trabb then bent over number four, and in a sort of deferential
-confidence recommended it to me as a light article for summer wear, an
+confidence recommended it to me as a light article for [[Summer|summer]] wear, an
 article much in vogue among the nobility and gentry, an article that it
-would ever be an honour to him to reflect upon a distinguished
+would ever be an [[Honour|honour]] to him to reflect upon a distinguished
 fellow-townsman’s (if he might claim me for a fellow-townsman) having
 worn. “Are you bringing numbers five and eight, you vagabond,” said Mr.
 Trabb to the boy after that, “or shall I kick you out of the shop and
@@ -262,8 +262,8 @@ calculated me in the parlour, as if I were an estate and he the finest
 species of surveyor, and gave himself such a world of trouble that I
 felt that no suit of clothes could possibly remunerate him for his
 pains. When he had at last done and had appointed to send the articles
-to Mr. Pumblechook’s on the Thursday evening, he said, with his hand
-upon the parlour lock, “I know, sir, that London gentlemen cannot be
+to Mr. Pumblechook’s on the [[thursday|Thursday]] evening, he said, with his hand
+upon the parlour lock, “I know, sir, that [[London]] gentlemen cannot be
 expected to patronise local work, as a rule; but if you would give me a
 turn now and then in the quality of a townsman, I should greatly esteem
 it. Good-morning, sir, much obliged.—Door!”
@@ -276,11 +276,11 @@ was, that it had morally laid upon his back Trabb’s boy.
 After this memorable event, I went to the hatter’s, and the
 bootmaker’s, and the hosier’s, and felt rather like Mother Hubbard’s
 dog whose outfit required the services of so many trades. I also went
-to the coach-office and took my place for seven o’clock on Saturday
+to the coach-office and took my place for seven o’[[Clock|clock]] on Saturday
 morning. It was not necessary to explain everywhere that I had come
 into a handsome property; but whenever I said anything to that effect,
 it followed that the officiating tradesman ceased to have his attention
-diverted through the window by the High Street, and concentrated his
+diverted through the [[Window|window]] by the High Street, and concentrated his
 mind upon me. When I had ordered everything I wanted, I directed my
 steps towards Pumblechook’s, and, as I approached that gentleman’s
 place of business, I saw him standing at his door.
@@ -291,8 +291,8 @@ prepared a collation for me in the Barnwell parlour, and he too ordered
 his shopman to “come out of the gangway” as my sacred person passed.
 
 “My dear friend,” said Mr. Pumblechook, taking me by both hands, when
-he and I and the collation were alone, “I give you joy of your good
-fortune. Well deserved, well deserved!”
+he and I and the collation were [[Alone|alone]], “I give you joy of your good
+fortune. [[Well]] deserved, [[Well|well]] deserved!”
 
 This was coming to the point, and I thought it a sensible way of
 expressing himself.
@@ -319,7 +319,7 @@ Joseph.
 “But my dear young friend,” said Mr. Pumblechook, “you must be hungry,
 you must be exhausted. Be seated. Here is a chicken had round from the
 Boar, here is a tongue had round from the Boar, here’s one or two
-little things had round from the Boar, that I hope you may not despise.
+little things had round from the Boar, that I [[Hope|hope]] you may not despise.
 But do I,” said Mr. Pumblechook, getting up again the moment after he
 had sat down, “see afore me, him as I ever sported with in his times of
 happy infancy? And may I—_may_ I—?”
@@ -351,8 +351,8 @@ did it at once. How he ever did it so often without wounding himself
 with my knife, I don’t know.
 
 “And your sister,” he resumed, after a little steady eating, “which had
-the honour of bringing you up by hand! It’s a sad picter, to reflect
-that she’s no longer equal to fully understanding the honour. May—”
+the [[Honour|honour]] of bringing you up by hand! It’s a sad picter, to reflect
+that she’s no longer equal to fully understanding the [[Honour|honour]]. May—”
 
 I saw he was about to come at me again, and I stopped him.
 
@@ -368,13 +368,13 @@ common person, have the appearance of repeating—but _may_ I—?”
 
 When he had done it, he resumed his seat and drank to my sister. “Let
 us never be blind,” said Mr. Pumblechook, “to her faults of temper, but
-it is to be hoped she meant well.”
+it is to be hoped she meant [[Well|well]].”
 
-At about this time, I began to observe that he was getting flushed in
+At about this [[Time|time]], I began to observe that he was getting flushed in
 the face; as to myself, I felt all face, steeped in wine and smarting.
 
 I mentioned to Mr. Pumblechook that I wished to have my new clothes
-sent to his house, and he was ecstatic on my so distinguishing him. I
+sent to his [[house]], and he was ecstatic on my so distinguishing him. I
 mentioned my reason for desiring to avoid observation in the village,
 and he lauded it to the skies. There was nobody but himself, he
 intimated, worthy of my confidence, and—in short, might he? Then he
@@ -391,12 +391,12 @@ By degrees he fell to reposing such great confidence in me, as to ask
 my advice in reference to his own affairs. He mentioned that there was
 an opportunity for a great amalgamation and monopoly of the corn and
 seed trade on those premises, if enlarged, such as had never occurred
-before in that or any other neighbourhood. What alone was wanting to
+before in that or any other neighbourhood. What [[Alone|alone]] was wanting to
 the realisation of a vast fortune, he considered to be More Capital.
 Those were the two little words, more capital. Now it appeared to him
 (Pumblechook) that if that capital were got into the business, through
 a sleeping partner, sir,—which sleeping partner would have nothing to
-do but walk in, by self or deputy, whenever he pleased, and examine the
+do but walk in, by [[Self|self]] or deputy, whenever he pleased, and examine the
 books,—and walk in twice a year and take his profits away in his
 pocket, to the tune of fifty per cent,—it appeared to him that that
 might be an opening for a young gentleman of spirit combined with
@@ -409,38 +409,38 @@ hands with me, but said he really must,—and did.
 We drank all the wine, and Mr. Pumblechook pledged himself over and
 over again to keep Joseph up to the mark (I don’t know what mark), and
 to render me efficient and constant service (I don’t know what
-service). He also made known to me for the first time in my life, and
-certainly after having kept his secret wonderfully well, that he had
+service). He also made known to me for the first [[Time|time]] in my life, and
+certainly after having kept his secret wonderfully [[Well|well]], that he had
 always said of me, “That boy is no common boy, and mark me, his fortun’
 will be no common fortun’.” He said with a tearful smile that it was a
 singular thing to think of now, and I said so too. Finally, I went out
 into the air, with a dim perception that there was something unwonted
 in the conduct of the sunshine, and found that I had slumberously got
-to the turnpike without having taken any account of the road.
+to the turnpike without having taken any account of the [[Road|road]].
 
 There, I was roused by Mr. Pumblechook’s hailing me. He was a long way
 down the sunny street, and was making expressive gestures for me to
 stop. I stopped, and he came up breathless.
 
-“No, my dear friend,” said he, when he had recovered wind for speech.
+“No, my dear friend,” said he, when he had recovered [[Wind|wind]] for speech.
 “Not if I can help it. This occasion shall not entirely pass without
-that affability on your part.—May I, as an old friend and well-wisher?
+that affability on your part.—May I, as an old friend and [[Well|well]]-wisher?
 _May_ I?”
 
-We shook hands for the hundredth time at least, and he ordered a young
+We shook hands for the hundredth [[Time|time]] at least, and he ordered a young
 carter out of my way with the greatest indignation. Then, he blessed me
 and stood waving his hand to me until I had passed the crook in the
-road; and then I turned into a field and had a long nap under a hedge
-before I pursued my way home.
+[[Road|road]]; and then I turned into a field and had a long nap under a hedge
+before I pursued my way [[Home|home]].
 
-I had scant luggage to take with me to London, for little of the little
+I had scant luggage to take with me to [[London]], for little of the little
 I possessed was adapted to my new station. But I began packing that
 same afternoon, and wildly packed up things that I knew I should want
 next morning, in a fiction that there was not a moment to be lost.
 
-So, Tuesday, Wednesday, and Thursday, passed; and on Friday morning I
+So, Tuesday, Wednesday, and [[thursday|Thursday]], passed; and on Friday morning I
 went to Mr. Pumblechook’s, to put on my new clothes and pay my visit to
-Miss Havisham. Mr. Pumblechook’s own room was given up to me to dress
+[[Miss Havisham]]. Mr. Pumblechook’s own room was given up to me to dress
 in, and was decorated with clean towels expressly for the event. My
 clothes were rather a disappointment, of course. Probably every new and
 eagerly expected garment ever put on since clothes came in, fell a
@@ -449,14 +449,14 @@ suit on some half an hour, and had gone through an immensity of
 posturing with Mr. Pumblechook’s very limited dressing-glass, in the
 futile endeavour to see my legs, it seemed to fit me better. It being
 market morning at a neighbouring town some ten miles off, Mr.
-Pumblechook was not at home. I had not told him exactly when I meant to
+Pumblechook was not at [[Home|home]]. I had not told him exactly when I meant to
 leave, and was not likely to shake hands with him again before
 departing. This was all as it should be, and I went out in my new
 array, fearfully ashamed of having to pass the shopman, and suspicious
 after all that I was at a personal disadvantage, something like Joe’s
-in his Sunday suit.
+in his [[Sunday]] suit.
 
-I went circuitously to Miss Havisham’s by all the back ways, and rang
+I went circuitously to [[Miss Havisham]]’s by all the back ways, and rang
 at the bell constrainedly, on account of the stiff long fingers of my
 gloves. Sarah Pocket came to the gate, and positively reeled back when
 she saw me so changed; her walnut-shell countenance likewise turned
@@ -464,21 +464,21 @@ from brown to green and yellow.
 
 “You?” said she. “You? Good gracious! What do you want?”
 
-“I am going to London, Miss Pocket,” said I, “and want to say good-bye
-to Miss Havisham.”
+“I am going to [[London]], Miss Pocket,” said I, “and want to say good-bye
+to [[Miss Havisham]].”
 
 I was not expected, for she left me locked in the yard, while she went
 to ask if I were to be admitted. After a very short delay, she returned
 and took me up, staring at me all the way.
 
-Miss Havisham was taking exercise in the room with the long spread
+[[Miss Havisham]] was taking exercise in the room with the long spread
 table, leaning on her crutch stick. The room was lighted as of yore,
 and at the sound of our entrance, she stopped and turned. She was then
 just abreast of the rotted bride-cake.
 
-“Don’t go, Sarah,” she said. “Well, Pip?”
+“Don’t go, Sarah,” she said. “[[Well]], Pip?”
 
-“I start for London, Miss Havisham, to-morrow,” I was exceedingly
+“I start for [[London]], [[Miss Havisham]], to-morrow,” I was exceedingly
 careful what I said, “and I thought you would kindly not mind my taking
 leave of you.”
 
@@ -487,34 +487,34 @@ round me, as if she, the fairy godmother who had changed me, were
 bestowing the finishing gift.
 
 “I have come into such good fortune since I saw you last, Miss
-Havisham,” I murmured. “And I am so grateful for it, Miss Havisham!”
+Havisham,” I murmured. “And I am so grateful for it, [[Miss Havisham]]!”
 
 “Ay, ay!” said she, looking at the discomfited and envious Sarah, with
 delight. “I have seen Mr. Jaggers. _I_ have heard about it, Pip. So you
 go to-morrow?”
 
-“Yes, Miss Havisham.”
+“Yes, [[Miss Havisham]].”
 
 “And you are adopted by a rich person?”
 
-“Yes, Miss Havisham.”
+“Yes, [[Miss Havisham]].”
 
 “Not named?”
 
-“No, Miss Havisham.”
+“No, [[Miss Havisham]].”
 
 “And Mr. Jaggers is made your guardian?”
 
-“Yes, Miss Havisham.”
+“Yes, [[Miss Havisham]].”
 
 She quite gloated on these questions and answers, so keen was her
-enjoyment of Sarah Pocket’s jealous dismay. “Well!” she went on; “you
+enjoyment of Sarah Pocket’s jealous dismay. “[[Well]]!” she went on; “you
 have a promising career before you. Be good—deserve it—and abide by Mr.
 Jaggers’s instructions.” She looked at me, and looked at Sarah, and
 Sarah’s countenance wrung out of her watchful face a cruel smile.
 “Good-bye, Pip!—you will always keep the name of Pip, you know.”
 
-“Yes, Miss Havisham.”
+“Yes, [[Miss Havisham]].”
 
 “Good-bye, Pip!”
 
@@ -525,20 +525,20 @@ with triumph in her weird eyes, and so I left my fairy godmother, with
 both her hands on her crutch stick, standing in the midst of the dimly
 lighted room beside the rotten bride-cake that was hidden in cobwebs.
 
-Sarah Pocket conducted me down, as if I were a ghost who must be seen
+Sarah Pocket conducted me down, as if I were a [[Ghost|ghost]] who must be seen
 out. She could not get over my appearance, and was in the last degree
 confounded. I said “Good-bye, Miss Pocket;” but she merely stared, and
 did not seem collected enough to know that I had spoken. Clear of the
-house, I made the best of my way back to Pumblechook’s, took off my new
-clothes, made them into a bundle, and went back home in my older dress,
-carrying it—to speak the truth—much more at my ease too, though I had
+[[house]], I made the best of my way back to Pumblechook’s, took off my new
+clothes, made them into a bundle, and went back [[Home|home]] in my older dress,
+carrying it—to speak the [[Truth|truth]]—much more at my ease too, though I had
 the bundle to carry.
 
 And now, those six days which were to have run out so slowly, had run
 out fast and were gone, and to-morrow looked me in the face more
 steadily than I could look at it. As the six evenings had dwindled
 away, to five, to four, to three, to two, I had become more and more
-appreciative of the society of Joe and Biddy. On this last evening, I
+appreciative of the society of Joe and [[Biddy]]. On this last evening, I
 dressed myself out in my new clothes for their delight, and sat in my
 splendour	 until bedtime. We had a hot supper on the occasion,
 graced by the inevitable roast fowl, and we had some flip to finish
@@ -547,40 +547,40 @@ spirits.
 
 I was to leave our village at five in the morning, carrying my little
 hand-portmanteau, and I had told Joe that I wished to walk away all
-alone. I am afraid—sore afraid—that this purpose originated in my sense
+[[Alone|alone]]. I am afraid—sore afraid—that this purpose originated in my sense
 of the contrast there would be between me and Joe, if we went to the
 coach together. I had pretended with myself that there was nothing of
 this taint in the arrangement; but when I went up to my little room on
-this last night, I felt compelled to admit that it might be so, and had
+this last [[Night|night]], I felt compelled to admit that it might be so, and had
 an impulse upon me to go down again and entreat Joe to walk with me in
 the morning. I did not.
 
-All night there were coaches in my broken sleep, going to wrong places
-instead of to London, and having in the traces, now dogs, now cats, now
+All [[Night|night]] there were coaches in my broken [[Sleep|sleep]], going to wrong places
+instead of to [[London]], and having in the traces, now [[dogs]], now cats, now
 pigs, now men,—never horses. Fantastic failures of journeys occupied me
-until the day dawned and the birds were singing. Then, I got up and
-partly dressed, and sat at the window to take a last look out, and in
+until the day dawned and the [[Birds|birds]] were singing. Then, I got up and
+partly dressed, and sat at the [[Window|window]] to take a last look out, and in
 taking it fell asleep.
 
-Biddy was astir so early to get my breakfast, that, although I did not
-sleep at the window an hour, I smelt the smoke of the kitchen fire when
+[[Biddy]] was astir so early to get my breakfast, that, although I did not
+[[Sleep|sleep]] at the [[Window|window]] an hour, I smelt the smoke of the kitchen [[Fire|fire]] when
 I started up with a terrible idea that it must be late in the
 afternoon. But long after that, and long after I had heard the clinking
 of the teacups and was quite ready, I wanted the resolution to go
 downstairs. After all, I remained up there, repeatedly unlocking and
 unstrapping my small portmanteau and locking and strapping it up again,
-until Biddy called to me that I was late.
+until [[Biddy]] called to me that I was late.
 
 It was a hurried breakfast with no taste in it. I got up from the meal,
 saying with a sort of briskness, as if it had only just occurred to me,
-“Well! I suppose I must be off!” and then I kissed my sister who was
-laughing and nodding and shaking in her usual chair, and kissed Biddy,
+“[[Well]]! I suppose I must be off!” and then I kissed my sister who was
+laughing and nodding and shaking in her usual chair, and kissed [[Biddy]],
 and threw my arms around Joe’s neck. Then I took up my little
 portmanteau and walked out. The last I saw of them was, when I
 presently heard a scuffle behind me, and looking back, saw Joe throwing
-an old shoe after me and Biddy throwing another old shoe. I stopped
+an old shoe after me and [[Biddy]] throwing another old shoe. I stopped
 then, to wave my hat, and dear old Joe waved his strong right arm above
-his head, crying huskily “Hooroar!” and Biddy put her apron to her
+his head, crying huskily “Hooroar!” and [[Biddy]] put her apron to her
 face.
 
 I walked away at a good pace, thinking it was easier to go than I had
@@ -588,27 +588,27 @@ supposed it would be, and reflecting that it would never have done to
 have had an old shoe thrown after the coach, in sight of all the High
 Street. I whistled and made nothing of going. But the village was very
 peaceful and quiet, and the light mists were solemnly rising, as if to
-show me the world, and I had been so innocent and little there, and all
+show me the world, and I had been so [[Innocent|innocent]] and little there, and all
 beyond was so unknown and great, that in a moment with a strong heave
-and sob I broke into tears. It was by the finger-post at the end of the
+and sob I broke into [[Tears|tears]]. It was by the finger-post at the end of the
 village, and I laid my hand upon it, and said, “Good-bye, O my dear,
 dear friend!”
 
-Heaven knows we need never be ashamed of our tears, for they are rain
-upon the blinding dust of earth, overlying our hard hearts. I was
+Heaven knows we need never be ashamed of our [[Tears|tears]], for they are rain
+upon the blinding [[Dust|dust]] of earth, overlying our hard hearts. I was
 better after I had cried than before,—more sorry, more aware of my own
 ingratitude, more gentle. If I had cried before, I should have had Joe
 with me then.
 
-So subdued I was by those tears, and by their breaking out again in the
+So subdued I was by those [[Tears|tears]], and by their breaking out again in the
 course of the quiet walk, that when I was on the coach, and it was
 clear of the town, I deliberated with an aching heart whether I would
 not get down when we changed horses and walk back, and have another
-evening at home, and a better parting. We changed, and I had not made
+evening at [[Home|home]], and a better parting. We changed, and I had not made
 up my mind, and still reflected for my comfort that it would be quite
 practicable to get down and walk back, when we changed again. And while
 I was occupied with these deliberations, I would fancy an exact
-resemblance to Joe in some man coming along the road towards us, and my
+resemblance to Joe in some man coming along the [[Road|road]] towards us, and my
 heart would beat high.—As if he could possibly be there!
 
 We changed again, and yet again, and it was now too late and too far to

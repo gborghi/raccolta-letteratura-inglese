@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 2"
+title: "The Mystery of [[Edwin Drood]] — Chapter 2"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -23,22 +23,22 @@ perhaps have noticed that when he wings his way homeward towards
 nightfall, in a sedate and clerical company, two rooks will suddenly
 detach themselves from the rest, will retrace their flight for some
 distance, and will there poise and linger; conveying to mere men the
-fancy that it is of some occult importance to the body politic, that
+fancy that it is of some occult importance to the [[Body|body]] politic, that
 this artful couple should pretend to have renounced connection with it.
 
-Similarly, service being over in the old Cathedral with the square
+Similarly, service being over in the old [[Cathedral]] with the square
 tower, and the choir scuffling out again, and divers venerable persons
 of rook-like aspect dispersing, two of these latter retrace their
 steps, and walk together in the echoing Close.
 
 Not only is the day waning, but the year. The low sun is fiery and yet
 cold behind the monastery ruin, and the Virginia creeper on the
-Cathedral wall has showered half its deep-red leaves down on the
+[[Cathedral]] wall has showered half its deep-red [[Leaves|leaves]] down on the
 pavement. There has been rain this afternoon, and a wintry shudder goes
-among the little pools on the cracked, uneven flag-stones, and through
-the giant elm-trees as they shed a gust of tears. Their fallen leaves
-lie strewn thickly about. Some of these leaves, in a timid rush, seek
-sanctuary within the low arched Cathedral door; but two men coming out
+among the little pools on the cracked, uneven [[Flag|flag]]-stones, and through
+the giant elm-trees as they shed a gust of [[Tears|tears]]. Their fallen [[Leaves|leaves]]
+lie strewn thickly about. Some of these [[Leaves|leaves]], in a timid rush, seek
+sanctuary within the low arched [[Cathedral]] door; but two men coming out
 resist them, and cast them forth again with their feet; this done, one
 of the two locks the door with a goodly key, and the other flits away
 with a folio music-book.
@@ -79,27 +79,27 @@ homage) condescendingly remarks, “would be preferable.”
 “Mr. Jasper’s breathing was so remarkably short”—thus discreetly does
 Mr. Tope work his way round the sunken rock—“when he came in, that it
 distressed him mightily to get his notes out: which was perhaps the
-cause of his having a kind of fit on him after a little. His memory
+cause of his having a kind of fit on him after a little. His [[Memory|memory]]
 grew DAZED.” Mr. Tope, with his eyes on the Reverend Mr. Crisparkle,
 shoots this word out, as defying him to improve upon it: “and a dimness
 and giddiness crept over him as strange as ever I saw: though he didn’t
-seem to mind it particularly, himself. However, a little time and a
-little water brought him out of his DAZE.” Mr. Tope repeats the word
-and its emphasis, with the air of saying: “As I _have_ made a success,
+seem to mind it particularly, himself. However, a little [[Time|time]] and a
+little [[Water|water]] brought him out of his DAZE.” Mr. Tope repeats the word
+and its emphasis, with the air of saying: “As I _have_ made a [[success]],
 I’ll make it again.”
 
-“And Mr. Jasper has gone home quite himself, has he?” asked the Dean.
+“And Mr. Jasper has gone [[Home|home]] quite himself, has he?” asked the Dean.
 
-“Your Reverence, he has gone home quite himself. And I’m glad to see
-he’s having his fire kindled up, for it’s chilly after the wet, and the
-Cathedral had both a damp feel and a damp touch this afternoon, and he
+“Your Reverence, he has gone [[Home|home]] quite himself. And I’m glad to see
+he’s having his [[Fire|fire]] kindled up, for it’s chilly after the wet, and the
+[[Cathedral]] had both a damp feel and a damp touch this afternoon, and he
 was very shivery.”
 
 They all three look towards an old stone gatehouse crossing the Close,
 with an arched thoroughfare passing beneath it. Through its latticed
-window, a fire shines out upon the fast-darkening scene, involving in
-shadow the pendent masses of ivy and creeper covering the building’s
-front. As the deep Cathedral-bell strikes the hour, a ripple of wind
+[[Window|window]], a [[Fire|fire]] shines out upon the fast-darkening scene, involving in
+[[Shadow|shadow]] the pendent masses of ivy and creeper covering the building’s
+front. As the deep [[Cathedral]]-bell strikes the hour, a ripple of [[Wind|wind]]
 goes through these at their distance, like a ripple of the solemn sound
 that hums through tomb and tower, broken niche and defaced statue, in
 the pile close at hand.
@@ -107,18 +107,18 @@ the pile close at hand.
 “Is Mr. Jasper’s nephew with him?” the Dean asks.
 
 “No, sir,” replied the Verger, “but expected. There’s his own solitary
-shadow betwixt his two windows—the one looking this way, and the one
+[[Shadow|shadow]] betwixt his two windows—the one looking this way, and the one
 looking down into the High Street—drawing his own curtains now.”
 
-“Well, well,” says the Dean, with a sprightly air of breaking up the
-little conference, “I hope Mr. Jasper’s heart may not be too much set
+“[[Well]], [[Well|well]],” says the Dean, with a sprightly air of breaking up the
+little conference, “I [[Hope|hope]] Mr. Jasper’s heart may not be too much set
 upon his nephew. Our affections, however laudable, in this transitory
 world, should never master us; we should guide them, guide them. I find
 I am not disagreeably reminded of my dinner, by hearing my dinner-bell.
-Perhaps, Mr. Crisparkle, you will, before going home, look in on
+Perhaps, Mr. Crisparkle, you will, before going [[Home|home]], look in on
 Jasper?”
 
-“Certainly, Mr. Dean. And tell him that you had the kindness to desire
+“Certainly, Mr. Dean. And tell him that you had the kindness to [[Desire|desire]]
 to know how he was?”
 
 “Ay; do so, do so. Certainly. Wished to know how he was. By all means.
@@ -126,19 +126,19 @@ Wished to know how he was.”
 
 With a pleasant air of patronage, the Dean as nearly cocks his quaint
 hat as a Dean in good spirits may, and directs his comely gaiters
-towards the ruddy dining-room of the snug old red-brick house where he
+towards the ruddy dining-room of the snug old red-brick [[house]] where he
 is at present, “in residence” with Mrs. Dean and Miss Dean.
 
 Mr. Crisparkle, Minor Canon, fair and rosy, and perpetually pitching
-himself head-foremost into all the deep running water in the
+himself head-foremost into all the deep running [[Water|water]] in the
 surrounding country; Mr. Crisparkle, Minor Canon, early riser, musical,
 classical, cheerful, kind, good-natured, social, contented, and
 boy-like; Mr. Crisparkle, Minor Canon and good man, lately “Coach” upon
 the chief Pagan high roads, but since promoted by a patron (grateful
-for a well-taught son) to his present Christian beat; betakes himself
-to the gatehouse, on his way home to his early tea.
+for a [[Well|well]]-taught son) to his present Christian beat; betakes himself
+to the gatehouse, on his way [[Home|home]] to his early tea.
 
-“Sorry to hear from Tope that you have not been well, Jasper.”
+“Sorry to hear from Tope that you have not been [[Well|well]], Jasper.”
 
 “O, it was nothing, nothing!”
 
@@ -146,7 +146,7 @@ to the gatehouse, on his way home to his early tea.
 
 “Do I? O, I don’t think so. What is better, I don’t feel so. Tope has
 made too much of it, I suspect. It’s his trade to make the most of
-everything appertaining to the Cathedral, you know.”
+everything appertaining to the [[Cathedral]], you know.”
 
 “I may tell the Dean—I call expressly from the Dean—that you are all
 right again?”
@@ -160,26 +160,26 @@ thanks to the Dean.”
 
 “Ah! He will do you more good than a doctor, Jasper.”
 
-“More good than a dozen doctors. For I love him dearly, and I don’t
-love doctors, or doctors’ stuff.”
+“More good than a dozen doctors. For I [[Love|love]] him dearly, and I don’t
+[[Love|love]] doctors, or doctors’ stuff.”
 
 Mr. Jasper is a dark man of some six-and-twenty, with thick, lustrous,
-well-arranged black hair and whiskers. He looks older than he is, as
+[[Well|well]]-arranged black hair and whiskers. He looks older than he is, as
 dark men often do. His voice is deep and good, his face and figure are
 good, his manner is a little sombre. His room is a little sombre, and
 may have had its influence in forming his manner. It is mostly in
-shadow. Even when the sun shines brilliantly, it seldom touches the
+[[Shadow|shadow]]. Even when the sun shines brilliantly, it seldom touches the
 grand piano in the recess, or the folio music-books on the stand, or
 the book-shelves on the wall, or the unfinished picture of a blooming
 schoolgirl hanging over the chimneypiece; her flowing brown hair tied
-with a blue riband, and her beauty remarkable for a quite childish,
+with a blue riband, and her [[Beauty|beauty]] remarkable for a quite childish,
 almost babyish, touch of saucy discontent, comically conscious of
 itself. (There is not the least artistic merit in this picture, which
 is a mere daub; but it is clear that the painter has made it
 humorously—one might almost say, revengefully—like the original.)
 
 “We shall miss you, Jasper, at the ‘Alternate Musical Wednesdays’
-to-night; but no doubt you are best at home. Good-night. God bless you!
+to-[[Night|night]]; but no [[Doubt|doubt]] you are best at [[Home|home]]. Good-[[Night|night]]. God bless you!
 ‘Tell me, shep-herds, te-e-ell me; tell me-e-e, have you seen (have you
 seen, have you seen, have you seen) my-y-y Flo-o-ora-a pass this way!’”
 Melodiously good Minor Canon the Reverend Septimus Crisparkle thus
@@ -225,7 +225,7 @@ his hands. “Look here, Jack; tell me; whose birthday is it?”
 “Not mine, you know? No; not mine, _I_ know! Pussy’s!”
 
 Fixed as the look the young fellow meets is, there is yet in it some
-strange power of suddenly including the sketch over the chimneypiece.
+strange power of suddenly including the [[Sketch|sketch]] over the chimneypiece.
 
 “Pussy’s, Jack! We must drink Many happy returns to her. Come, uncle;
 take your dutiful and sharp-set nephew in to dinner.”
@@ -253,7 +253,7 @@ table with a genial smile, “and so do you, Ned, that Uncle and Nephew
 are words prohibited here by common consent and express agreement. For
 what we are going to receive His holy name be praised!”
 
-“Done like the Dean! Witness, Edwin Drood! Please to carve, Jack, for I
+“Done like the Dean! Witness, [[Edwin Drood]]! Please to carve, Jack, for I
 can’t.”
 
 This sally ushers in the dinner. Little to the present purpose, or to
@@ -285,7 +285,7 @@ Pussy, Jack, and many of ’em! Happy returns, I mean.”
 
 Laying an affectionate and laughing touch on the boy’s extended hand,
 as if it were at once his giddy head and his light heart, Mr. Jasper
-drinks the toast in silence.
+drinks the toast in [[Silence|silence]].
 
 “Hip, hip, hip, and nine times nine, and one to finish with, and all
 that, understood. Hooray, hooray, hooray!—And now, Jack, let’s have a
@@ -306,15 +306,15 @@ Crack!—on Mr. Jasper’s part.
 “How’s she looking, Jack?”
 
 Mr. Jasper’s concentrated face again includes the portrait as he
-returns: “Very like your sketch indeed.”
+returns: “Very like your [[Sketch|sketch]] indeed.”
 
 “I _am_ a little proud of it,” says the young fellow, glancing up at
-the sketch with complacency, and then shutting one eye, and taking a
+the [[Sketch|sketch]] with complacency, and then shutting one eye, and taking a
 corrected prospect of it over a level bridge of nut-crackers in the
-air: “Not badly hit off from memory. But I ought to have caught that
-expression pretty well, for I have seen it often enough.”
+air: “Not badly hit off from [[Memory|memory]]. But I ought to have caught that
+expression pretty [[Well|well]], for I have seen it often enough.”
 
-Crack!—on Edwin Drood’s part.
+Crack!—on [[Edwin Drood]]’s part.
 
 Crack!—on Mr. Jasper’s part.
 
@@ -326,9 +326,9 @@ at the portrait.
 
 Crack! crack! crack. Slowly, on Mr. Jasper’s part.
 
-Crack. Sharply on the part of Edwin Drood.
+Crack. Sharply on the part of [[Edwin Drood]].
 
-Silence on both sides.
+[[Silence]] on both sides.
 
 “Have you lost your tongue, Jack?”
 
@@ -347,12 +347,12 @@ all the pretty girls in the world.”
 “That’s what I complain of. My dead and gone father and Pussy’s dead
 and gone father must needs marry us together by anticipation. Why
 the—Devil, I was going to say, if it had been respectful to their
-memory—couldn’t they leave us alone?”
+[[Memory|memory]]—couldn’t they leave us [[Alone|alone]]?”
 
 “Tut, tut, dear boy,” Mr. Jasper remonstrates, in a tone of gentle
 deprecation.
 
-“Tut, tut? Yes, Jack, it’s all very well for _you_. _You_ can take it
+“Tut, tut? Yes, Jack, it’s all very [[Well|well]] for _you_. _You_ can take it
 easily. _Your_ life is not laid down to scale, and lined and dotted out
 for you, like a surveyor’s plan. _You_ have no uncomfortable suspicion
 that you are forced upon anybody, nor has anybody an uncomfortable
@@ -370,17 +370,17 @@ natural bloom on; it hasn’t been over-carefully wiped off for _you_—”
 come over your eyes.”
 
 Mr. Jasper, with a forced smile, stretches out his right hand, as if at
-once to disarm apprehension and gain time to get better. After a while
+once to disarm apprehension and gain [[Time|time]] to get better. After a while
 he says faintly:
 
-“I have been taking opium for a pain—an agony—that sometimes overcomes
+“I have been taking opium for a [[Pain|pain]]—an agony—that sometimes overcomes
 me. The effects of the medicine steal over me like a blight or a cloud,
 and pass. You see them in the act of passing; they will be gone
 directly. Look away from me. They will go all the sooner.”
 
 With a scared face the younger man complies by casting his eyes
 downward at the ashes on the hearth. Not relaxing his own gaze on the
-fire, but rather strengthening it with a fierce, firm grip upon his
+[[Fire|fire]], but rather strengthening it with a fierce, firm grip upon his
 elbow-chair, the elder sits for a few moments rigid, and then, with
 thick drops standing on his forehead, and a sharp catch of his breath,
 becomes as he was before. On his so subsiding in his chair, his nephew
@@ -389,11 +389,11 @@ is restored, he lays a tender hand upon his nephew’s shoulder, and, in
 a tone of voice less troubled than the purport of his words—indeed with
 something of raillery or banter in it—thus addresses him:
 
-“There is said to be a hidden skeleton in every house; but you thought
+“There is said to be a hidden [[skeleton]] in every [[house]]; but you thought
 there was none in mine, dear Ned.”
 
 “Upon my life, Jack, I did think so. However, when I come to consider
-that even in Pussy’s house—if she had one—and in mine—if I had one—”
+that even in Pussy’s [[house]]—if she had one—and in mine—if I had one—”
 
 “You were going to say (but that I interrupted you in spite of myself)
 what a quiet life mine is. No whirl and uproar around me, no
@@ -404,7 +404,7 @@ myself devoted to the art I pursue, my business my pleasure.”
 you, speaking of yourself, almost necessarily leave out much that I
 should have put in. For instance: I should have put in the foreground
 your being so much respected as Lay Precentor, or Lay Clerk, or
-whatever you call it, of this Cathedral; your enjoying the reputation
+whatever you call it, of this [[Cathedral]]; your enjoying the reputation
 of having done such wonders with the choir; your choosing your society,
 and holding such an independent position in this queer old place; your
 gift of teaching (why, even Pussy, who don’t like being taught, says
@@ -433,12 +433,12 @@ face.
 
 “I know you thought so. They all think so.”
 
-“Well, I suppose they do,” says Edwin, meditating aloud. “Pussy thinks
+“[[Well]], I suppose they do,” says Edwin, meditating aloud. “Pussy thinks
 so.”
 
 “When did she tell you that?”
 
-“The last time I was here. You remember when. Three months ago.”
+“The last [[Time|time]] I was here. You remember when. Three months ago.”
 
 “How did she phrase it?”
 
@@ -448,7 +448,7 @@ made for your vocation.”
 The younger man glances at the portrait. The elder sees it in him.
 
 “Anyhow, my dear Ned,” Jasper resumes, as he shakes his head with a
-grave cheerfulness, “I must subdue myself to my vocation: which is much
+[[Grave|grave]] cheerfulness, “I must subdue myself to my vocation: which is much
 the same thing outwardly. It’s too late to find another now. This is a
 confidence between us.”
 
@@ -457,14 +457,14 @@ confidence between us.”
 “I have reposed it in you, because—”
 
 “I feel it, I assure you. Because we are fast friends, and because you
-love and trust me, as I love and trust you. Both hands, Jack.”
+[[Love|love]] and trust me, as I [[Love|love]] and trust you. Both hands, Jack.”
 
 As each stands looking into the other’s eyes, and as the uncle holds
 the nephew’s hands, the uncle thus proceeds:
 
 “You know now, don’t you, that even a poor monotonous chorister and
 grinder of music—in his niche—may be troubled with some stray sort of
-ambition, aspiration, restlessness, dissatisfaction, what shall we call
+[[Ambition|ambition]], [[Aspiration|aspiration]], restlessness, dissatisfaction, what shall we call
 it?”
 
 “Yes, dear Jack.”
@@ -482,16 +482,16 @@ words. The instant over, he says, sensibly touched:
 
 “I am afraid I am but a shallow, surface kind of fellow, Jack, and that
 my headpiece is none of the best. But I needn’t say I am young; and
-perhaps I shall not grow worse as I grow older. At all events, I hope I
+perhaps I shall not grow worse as I grow older. At all events, I [[Hope|hope]] I
 have something impressible within me, which feels—deeply feels—the
-disinterestedness of your painfully laying your inner self bare, as a
+disinterestedness of your painfully laying your inner [[Self|self]] bare, as a
 warning to me.”
 
 Mr. Jasper’s steadiness of face and figure becomes so marvellous that
 his breathing seems to have stopped.
 
 “I couldn’t fail to notice, Jack, that it cost you a great effort, and
-that you were very much moved, and very unlike your usual self. Of
+that you were very much moved, and very unlike your usual [[Self|self]]. Of
 course I knew that you were extremely fond of me, but I really was not
 prepared for your, as I may say, sacrificing yourself to me in that
 way.”
@@ -501,20 +501,20 @@ of transition between the two extreme states, lifts his shoulders,
 laughs, and waves his right arm.
 
 “No; don’t put the sentiment away, Jack; please don’t; for I am very
-much in earnest. I have no doubt that that unhealthy state of mind
+much in earnest. I have no [[Doubt|doubt]] that that unhealthy state of mind
 which you have so powerfully described is attended with some real
-suffering, and is hard to bear. But let me reassure you, Jack, as to
+[[Suffering|suffering]], and is hard to bear. But let me reassure you, Jack, as to
 the chances of its overcoming me. I don’t think I am in the way of it.
 In some few months less than another year, you know, I shall carry
-Pussy off from school as Mrs. Edwin Drood. I shall then go engineering
+Pussy off from school as Mrs. [[Edwin Drood]]. I shall then go engineering
 into the East, and Pussy with me. And although we have our little tiffs
 now, arising out of a certain unavoidable flatness that attends our
-love-making, owing to its end being all settled beforehand, still I
-have no doubt of our getting on capitally then, when it’s done and
-can’t be helped. In short, Jack, to go back to the old song I was
-freely quoting at dinner (and who knows old songs better than you?), my
-wife shall dance, and I will sing, so merrily pass the day. Of Pussy’s
-being beautiful there cannot be a doubt;—and when you are good besides,
+[[Love|love]]-making, owing to its end being all settled beforehand, still I
+have no [[Doubt|doubt]] of our getting on capitally then, when it’s done and
+can’t be helped. In short, Jack, to go back to the old [[Song|song]] I was
+freely quoting at dinner (and who knows old [[songs]] better than you?), my
+wife shall [[Dance|dance]], and I will sing, so merrily pass the day. Of Pussy’s
+being beautiful there cannot be a [[Doubt|doubt]];—and when you are good besides,
 Little Miss Impudence,” once more apostrophising the portrait, “I’ll
 burn your comic likeness, and paint your music-master another.”
 
@@ -523,7 +523,7 @@ benevolence on his face, has attentively watched every animated look
 and gesture attending the delivery of these words. He remains in that
 attitude after they are spoken, as if in a kind of fascination
 attendant on his strong interest in the youthful spirit that he loves
-so well. Then he says with a quiet smile:
+so [[Well|well]]. Then he says with a quiet smile:
 
 “You won’t be warned, then?”
 
@@ -537,7 +537,7 @@ danger, I don’t like your putting yourself in that position.”
 “Shall we go and walk in the churchyard?”
 
 “By all means. You won’t mind my slipping out of it for half a moment
-to the Nuns’ House, and leaving a parcel there? Only gloves for Pussy;
+to the Nuns’ [[house|House]], and leaving a parcel there? Only gloves for Pussy;
 as many pairs of gloves as she is years old to-day. Rather poetical,
 Jack?”
 
@@ -545,7 +545,7 @@ Mr. Jasper, still in the same attitude, murmurs: “‘Nothing half so
 sweet in life,’ Ned!”
 
 “Here’s the parcel in my greatcoat-pocket. They must be presented
-to-night, or the poetry is gone. It’s against regulations for me to
-call at night, but not to leave a packet. I am ready, Jack!”
+to-[[Night|night]], or the poetry is gone. It’s against regulations for me to
+call at [[Night|night]], but not to leave a packet. I am ready, Jack!”
 
 Mr. Jasper dissolves his attitude, and they go out together.

@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 48)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 48)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -14,17 +14,17 @@ tags:
 </nav>
 
 
-worst dreams detested; and the name of it is democracy. They would have
+worst [[Dreams|dreams]] detested; and the name of it is [[democracy]]. They would have
 
-found that there are disadvantages in birds of a feather flocking
+found that there are disadvantages in [[Birds|birds]] of a feather flocking
 
 together; and that one of them follows on a too complacent display of
 
-the white feather. The truth is that a certain flexible sympathy with
+the white feather. The [[Truth|truth]] is that a certain flexible sympathy with
 
 eccentrics of this kind is rather one of the advantages of an
 
-aristocratic tradition. The imprisonment of Mr. Debs, the American
+aristocratic tradition. The [[Imprisonment|imprisonment]] of Mr. Debs, the American
 
 Pacifist, which really was prolonged and oppressive, would probably have
 
@@ -40,25 +40,25 @@ gentleman may very probably have aunts and uncles who are quite as mad.
 
 He takes the matter personally, in the sense of being able to imagine
 
-the psychology of the persons. But democracy is no respecter of persons.
+the psychology of the persons. But [[democracy]] is no respecter of persons.
 
 It is no respecter of them, either in the bad and servile or in the good
 
-and sympathetic sense. And Debs was nothing to democracy. He was but one
+and sympathetic sense. And Debs was nothing to [[democracy]]. He was but one
 
 of the millions. This is a real problem, or question in the balance,
 
-touching different forms of government; which is, of course, quite
+touching different forms of [[government]]; which is, of course, quite
 
 neglected by the idealists who merely repeat long words. There was
 
-during the war a society called the Union of Democratic Control, which
+during the war a society called the [[Union]] of Democratic Control, which
 
-would have been instantly destroyed anywhere where democracy had any
+would have been instantly destroyed anywhere where [[democracy]] had any
 
-control, or where there was any union. And in this sense the United
+control, or where there was any [[Union|union]]. And in this sense the United
 
-States have most emphatically got a union. Nevertheless I think there is
+States have most emphatically got a [[Union|union]]. Nevertheless I think there is
 
 something rather more subtle than this simple popular solidity behind
 
@@ -70,7 +70,7 @@ And it is here that we have to remember that biological fancies like the
 
 herd instinct are only figures of speech, and cannot really cover
 
-anything human. For the Americans are in some ways a very self-conscious
+anything human. For the Americans are in some ways a very [[Self|self]]-conscious
 
 people. To compare their social enthusiasm to a stampede of cattle is to
 
@@ -82,15 +82,15 @@ certainly conscious of criticism and not merely of a blind and brutal
 
 appetite. But the peculiar point about them is that it is this very
 
-vividness in the self that often produces the similarity. It may be that
+vividness in the [[Self|self]] that often produces the similarity. It may be that
 
 when they are unconscious they are like bulls and cows. But it is when
 
-they are self-conscious that they are like each other.
+they are [[Self|self]]-conscious that they are like each other.
 
 
 
-Individualism is the death of individuality. It is so, if only because
+[[Individualism]] is the [[Death|death]] of individuality. It is so, if only because
 
 it is an 'ism.' Many Americans become almost impersonal in their worship
 
@@ -98,17 +98,17 @@ of personality. Where their natural selves might differ, their ideal
 
 selves tend to be the same. Anybody can see what I mean in those strong
 
-self-conscious photographs of American business men that can be seen in
+[[Self|self]]-conscious photographs of American business men that can be seen in
 
 any American magazine. Each may conceive himself to be a solitary
 
-Napoleon brooding at St. Helena; but the result is a multitude of
+Napoleon brooding at St. [[Helena]]; but the result is a multitude of
 
 Napoleons brooding all over the place. Each of them must have the eyes
 
 of a mesmerist; but the most weak-minded person cannot be mesmerised by
 
-more than one millionaire at a time. Each of the millionaires must
+more than one millionaire at a [[Time|time]]. Each of the millionaires must
 
 thrust forward his jaw, offering (if I may say so) to fight the world
 
@@ -134,25 +134,25 @@ abstract, so that people are actually thinking about how they can will,
 
 more than about what they want. To this I do think a certain corrective
 
-could be found in the nature of English eccentricity. Every man in his
+could be found in the [[Nature|nature]] of English eccentricity. Every man in his
 
-humour is most interesting when he is unconscious of his humour; or at
+[[Humour|humour]] is most interesting when he is unconscious of his [[Humour|humour]]; or at
 
-least when he is in an intermediate stage between humour in the old
+least when he is in an intermediate stage between [[Humour|humour]] in the old
 
 sense of oddity and in the new sense of irony. Much is said in these
 
-days against negative morality; and certainly most Americans would show
+days against negative [[morality]]; and certainly most Americans would show
 
-a positive preference for positive morality. The virtues they venerate
+a positive preference for positive [[morality]]. The virtues they venerate
 
-collectively are very active virtues; cheerfulness and courage and vim,
+collectively are very active virtues; cheerfulness and [[Courage|courage]] and vim,
 
 otherwise zip, also pep and similar things. But it is sometimes
 
-forgotten that negative morality is freer than positive morality.
+forgotten that negative [[morality]] is freer than positive [[morality]].
 
-Negative morality is a net of a larger and more open pattern, of which
+Negative [[morality]] is a net of a larger and more open pattern, of which
 
 the lines or cords constrict at longer intervals. A man like Dr. Johnson
 
@@ -160,9 +160,9 @@ could grow in his own way to his own stature in the net of the Ten
 
 Commandments; precisely because he was convinced there were only ten of
 
-them. He was not compressed into the mould of positive beauty, like
+them. He was not compressed into the mould of positive [[Beauty|beauty]], like
 
-that of the Apollo Belvedere or the American citizen.
+that of the [[Apollo]] Belvedere or the American citizen.
 
 
 

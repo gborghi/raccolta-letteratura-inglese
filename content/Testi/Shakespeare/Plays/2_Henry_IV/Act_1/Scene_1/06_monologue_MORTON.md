@@ -1,5 +1,5 @@
 ---
-title: "2 Henry IV — Act I, Scene 1 — monologue (MORTON) [6]"
+title: "2 [[Henry IV]] — Act I, Scene 1 — monologue (MORTON) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/2-HENRY-IV-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| MORTON | ‘Tis more than time; and, my most noble lord, I hear for certain, and dare speak the truth, The gentle Archbishop of York is up With well-appointed powers. He is a man Who with a double surety binds his followers. My lord, your son had only but the corpse, But shadows and the shows of men, to fight; For that same word ‘rebellion’ did divide The action of their bodies from their souls, And they did fight with queasiness, constrained, As men drink potions, that their weapons only Seemed on our side; but, for their spirits and souls, This word ‘rebellion’, it had froze them up, As fish are in a pond. But now the Bishop Turns insurrection to religion. Supposed sincere and holy in his thoughts, He’s followed both with body and with mind, And doth enlarge his rising with the blood Of fair King Richard, scraped from Pomfret stones; Derives from heaven his quarrel and his cause; Tells them he doth bestride a bleeding land Gasping for life under great Bolingbroke; And more and less do flock to follow him. |
+| MORTON | ‘Tis more than [[Time|time]]; and, my most noble lord, I hear for certain, and dare speak the [[Truth|truth]], The gentle Archbishop of York is up With [[Well|well]]-appointed powers. He is a man Who with a [[Double|double]] surety binds his followers. My lord, your son had only but the corpse, But shadows and the shows of men, to fight; For that same word ‘rebellion’ did divide The action of their bodies from their souls, And they did fight with queasiness, constrained, As men drink potions, that their weapons only Seemed on our side; but, for their spirits and souls, This word ‘rebellion’, it had froze them up, As fish are in a pond. But now the Bishop Turns insurrection to religion. Supposed sincere and holy in his thoughts, He’s followed both with [[Body|body]] and with mind, And doth enlarge his rising with the [[Blood|blood]] Of fair [[King]] [[Richard]], scraped from Pomfret stones; Derives from heaven his quarrel and his cause; Tells them he doth bestride a bleeding land Gasping for life under great Bolingbroke; And more and less do flock to follow him. |

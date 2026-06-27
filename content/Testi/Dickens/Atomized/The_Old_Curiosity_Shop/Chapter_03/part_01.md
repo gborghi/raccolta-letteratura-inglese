@@ -16,13 +16,13 @@ tags:
 
 CHAPTER 3
 
-The child was closely followed by an elderly man of remarkably hard
+The [[Child|child]] was closely followed by an elderly man of remarkably hard
 features and forbidding aspect, and so low in stature as to be quite a
-dwarf, though his head and face were large enough for the body of a
+[[Dwarf|dwarf]], though his head and face were large enough for the [[Body|body]] of a
 giant. His black eyes were restless, sly, and cunning; his mouth and
 chin, bristly with the stubble of a coarse hard beard; and his
 complexion was one of that kind which never looks clean or wholesome.
-But what added most to the grotesque expression of his face was a
+But what added most to the [[Grotesque|grotesque]] expression of his face was a
 ghastly smile, which, appearing to be the mere result of habit and to
 have no connection with any mirthful or complacent feeling, constantly
 revealed the few discoloured fangs that were yet scattered in his
@@ -35,40 +35,40 @@ hanging in a frowzy fringe about his ears. His hands, which were of a
 rough, coarse grain, were very dirty; his fingernails were crooked,
 long, and yellow.
 
-There was ample time to note these particulars, for besides that they
+There was ample [[Time|time]] to note these particulars, for besides that they
 were sufficiently obvious without very close observation, some moments
-elapsed before any one broke silence. The child advanced timidly
-towards her brother and put her hand in his, the dwarf (if we may call
+elapsed before any one broke [[Silence|silence]]. The [[Child|child]] advanced timidly
+towards her brother and put her hand in his, the [[Dwarf|dwarf]] (if we may call
 him so) glanced keenly at all present, and the curiosity-dealer, who
 plainly had not expected his uncouth visitor, seemed disconcerted and
 embarrassed.
 
-‘Ah!’ said the dwarf, who with his hand stretched out above his eyes
+‘Ah!’ said the [[Dwarf|dwarf]], who with his hand stretched out above his eyes
 had been surveying the young man attentively, ‘that should be your
 grandson, neighbour!’
 
 ‘Say rather that he should not be,’ replied the old man. ‘But he is.’
 
-‘And that?’ said the dwarf, pointing to Dick Swiveller.
+‘And that?’ said the [[Dwarf|dwarf]], pointing to [[Dick Swiveller]].
 
 ‘Some friend of his, as welcome here as he,’ said the old man.
 
-‘And that?’ inquired the dwarf, wheeling round and pointing straight at
+‘And that?’ inquired the [[Dwarf|dwarf]], wheeling round and pointing straight at
 me.
 
-‘A gentleman who was so good as to bring Nell home the other night when
-she lost her way, coming from your house.’
+‘A gentleman who was so good as to bring Nell [[Home|home]] the other [[Night|night]] when
+she lost her way, coming from your [[house]].’
 
-The little man turned to the child as if to chide her or express his
-wonder, but as she was talking to the young man, held his peace, and
+The little man turned to the [[Child|child]] as if to chide her or express his
+[[Wonder|wonder]], but as she was talking to the young man, held his peace, and
 bent his head to listen.
 
-‘Well, Nelly,’ said the young fellow aloud. ‘Do they teach you to hate
+‘[[Well]], Nelly,’ said the young fellow aloud. ‘Do they teach you to hate
 me, eh?’
 
-‘No, no. For shame. Oh, no!’ cried the child.
+‘No, no. For shame. Oh, no!’ cried the [[Child|child]].
 
-‘To love me, perhaps?’ pursued her brother with a sneer.
+‘To [[Love|love]] me, perhaps?’ pursued her brother with a sneer.
 
 ‘To do neither,’ she returned. ‘They never speak to me about you.
 Indeed they never do.’
@@ -76,34 +76,34 @@ Indeed they never do.’
 ‘I dare be bound for that,’ he said, darting a bitter look at the
 grandfather. ‘I dare be bound for that Nell. Oh! I believe you there!’
 
-‘But I love you dearly, Fred,’ said the child.
+‘But I [[Love|love]] you dearly, [[Fred]],’ said the [[Child|child]].
 
-‘No doubt!’
+‘No [[Doubt|doubt]]!’
 
-‘I do indeed, and always will,’ the child repeated with great emotion,
+‘I do indeed, and always will,’ the [[Child|child]] repeated with great emotion,
 ‘but oh! If you would leave off vexing him and making him unhappy, then
-I could love you more.’
+I could [[Love|love]] you more.’
 
-‘I see!’ said the young man, as he stooped carelessly over the child,
+‘I see!’ said the young man, as he stooped carelessly over the [[Child|child]],
 and having kissed her, pushed her from him: ‘There--get you away now
 you have said your lesson. You needn’t whimper. We part good friends
 enough, if that’s the matter.’
 
 He remained silent, following her with his eyes, until she had gained
-her little room and closed the door; and then turning to the dwarf,
+her little room and closed the door; and then turning to the [[Dwarf|dwarf]],
 said abruptly,
 
 ‘Harkee, Mr--’
 
-‘Meaning me?’ returned the dwarf. ‘Quilp is my name. You might
-remember. It’s not a long one--Daniel Quilp.’
+‘Meaning me?’ returned the [[Dwarf|dwarf]]. ‘Quilp is my name. You might
+remember. It’s not a long one--[[Daniel Quilp]].’
 
 ‘Harkee, Mr Quilp, then,’ pursued the other, ‘You have some influence
 with my grandfather there.’
 
 ‘Some,’ said Mr Quilp emphatically.
 
-‘And are in a few of his mysteries and secrets.’
+‘And are in a few of his mysteries and [[Secrets|secrets]].’
 
 ‘A few,’ replied Quilp, with equal dryness.
 
@@ -117,7 +117,7 @@ than I do for him. Let him say so. I care for the whim, then, of coming
 to and fro and reminding her of my existence. I WILL see her when I
 please. That’s my point. I came here to-day to maintain it, and I’ll
 come here again fifty times with the same object and always with the
-same success. I said I would stop till I had gained it.  I have done
+same [[success]]. I said I would stop till I had gained it.  I have done
 so, and now my visit’s ended. Come Dick.’
 
 ‘Stop!’ cried Mr Swiveller, as his companion turned toward the door.
@@ -131,7 +131,7 @@ sir,’ said Mr Swiveller, ‘I will with your permission, attempt a slight
 remark. I came here, sir, this day, under the impression that the old
 min was friendly.’
 
-‘Proceed, sir,’ said Daniel Quilp; for the orator had made a sudden
+‘Proceed, sir,’ said [[Daniel Quilp]]; for the orator had made a sudden
 stop.
 
 ‘Inspired by this idea and the sentiments it awakened, sir, and feeling
@@ -142,7 +142,7 @@ course which is THE course to be adopted to the present occasion.  Will
 you allow me to whisper half a syllable, sir?’
 
 Without waiting for the permission he sought, Mr Swiveller stepped up
-to the dwarf, and leaning on his shoulder and stooping down to get at
+to the [[Dwarf|dwarf]], and leaning on his shoulder and stooping down to get at
 his ear, said in a voice which was perfectly audible to all present,
 
 ‘The watch-word to the old min is--fork.’
@@ -152,10 +152,10 @@ his ear, said in a voice which was perfectly audible to all present,
 ‘Is fork, sir, fork,’ replied Mr Swiveller slapping his pocket. ‘You
 are awake, sir?’
 
-The dwarf nodded. Mr Swiveller drew back and nodded likewise, then drew
+The [[Dwarf|dwarf]] nodded. Mr Swiveller drew back and nodded likewise, then drew
 a little further back and nodded again, and so on. By these means he in
-time reached the door, where he gave a great cough to attract the
-dwarf’s attention and gain an opportunity of expressing in dumb show,
+[[Time|time]] reached the door, where he gave a great cough to attract the
+[[Dwarf|dwarf]]’s attention and gain an opportunity of expressing in dumb show,
 the closest confidence and most inviolable secrecy.  Having performed
 the serious pantomime that was necessary for the due conveyance of
 these idea, he cast himself upon his friend’s track, and vanished.

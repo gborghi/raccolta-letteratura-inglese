@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 50"
+title: "[[Barnaby Rudge]] — Chapter 50"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -19,7 +19,7 @@ Chapter 50
 
 They were among the first to reach the tavern, but they had not been
 there many minutes, when several groups of men who had formed part of
-the crowd, came straggling in. Among them were Simon Tappertit and Mr
+the crowd, came straggling in. Among them were [[Simon Tappertit]] and Mr
 Dennis; both of whom, but especially the latter, greeted Barnaby with
 the utmost warmth, and paid him many compliments on the prowess he had
 shown.
@@ -36,7 +36,7 @@ face in a half-gallon can. ‘Don’t you consider this a good beginning,
 mister?’
 
 ‘Give me security that it an’t a ending,’ rejoined the hangman. ‘When
-that soldier went down, we might have made London ours; but no;--we
+that soldier went down, we might have made [[London]] ours; but no;--we
 stand, and gape, and look on--the justice (I wish he had had a bullet in
 each eye, as he would have had, if we’d gone to work my way) says,
 “My lads, if you’ll give me your word to disperse, I’ll order off the
@@ -46,7 +46,7 @@ as they are. Ah,’ said the hangman, in a tone of deep disgust, ‘it makes
 me blush for my feller creeturs. I wish I had been born a ox, I do!’
 
 ‘You’d have been quite as agreeable a character if you had been, I
-think,’ returned Simon Tappertit, going out in a lofty manner.
+think,’ returned [[Simon Tappertit]], going out in a lofty manner.
 
 ‘Don’t be too sure of that,’ rejoined the hangman, calling after him;
 ‘if I was a horned animal at the present moment, with the smallest
@@ -71,18 +71,18 @@ indeed left matters worse than they had found them. Of those who had
 come to The Boot, many dropped off within an hour; such of them as were
 really honest and sincere, never, after the morning’s experience, to
 return, or to hold any communication with their late companions. Others
-remained but to refresh themselves, and then went home desponding;
+remained but to refresh themselves, and then went [[Home|home]] desponding;
 others who had theretofore been regular in their attendance, avoided the
 place altogether. The half-dozen prisoners whom the Guards had taken,
 were magnified by report into half-a-hundred at least; and their
 friends, being faint and sober, so slackened in their energy, and so
-drooped beneath these dispiriting influences, that by eight o’clock in
-the evening, Dennis, Hugh, and Barnaby, were left alone. Even they were
+drooped beneath these dispiriting influences, that by eight o’[[Clock|clock]] in
+the evening, Dennis, Hugh, and Barnaby, were left [[Alone|alone]]. Even they were
 fast asleep upon the benches, when Gashford’s entrance roused them.
 
 ‘Oh! you ARE here then?’ said the Secretary. ‘Dear me!’
 
-‘Why, where should we be, Muster Gashford!’ Dennis rejoined as he rose
+‘Why, where should we be, Muster Gashford!’ Dennis rejoined as he [[Rose|rose]]
 into a sitting posture.
 
 ‘Oh nowhere, nowhere,’ he returned with excessive mildness. ‘The streets
@@ -109,7 +109,7 @@ circumstances I regret. I am quite satisfied in all other respects.’
 
 As he said this, he took a penknife from his pocket, and putting his
 hat upon his knee, began to busy himself in ripping off the blue cockade
-which he had worn all day; at the same time humming a psalm tune which
+which he had worn all day; at the same [[Time|time]] humming a psalm tune which
 had been very popular in the morning, and dwelling on it with a gentle
 regret.
 
@@ -142,15 +142,15 @@ hundred pounds, or some such trifle, for his apprehension; and in case
 it should include another man who dropped into the lobby from the stairs
 above,’ said Gashford, coldly; ‘still, do nothing.’
 
-‘Fire and fury, master!’ cried Hugh, starting up. ‘What have we done,
+‘[[Fire]] and fury, master!’ cried Hugh, starting up. ‘What have we done,
 that you should talk to us like this!’
 
-‘Nothing,’ returned Gashford with a sneer. ‘If you are cast into prison;
+‘Nothing,’ returned Gashford with a sneer. ‘If you are cast into [[Prison|prison]];
 if the young man--’ here he looked hard at Barnaby’s attentive face--‘is
 dragged from us and from his friends; perhaps from people whom he loves,
-and whom his death would kill; is thrown into jail, brought out and
+and whom his [[Death|death]] would kill; is thrown into jail, brought out and
 hanged before their eyes; still, do nothing. You’ll find it your best
-policy, I have no doubt.’
+policy, I have no [[Doubt|doubt]].’
 
 ‘Come on!’ cried Hugh, striding towards the door. ‘Dennis--Barnaby--come
 on!’
@@ -158,10 +158,10 @@ on!’
 ‘Where? To do what?’ said Gashford, slipping past him, and standing with
 his back against it.
 
-‘Anywhere! Anything!’ cried Hugh. ‘Stand aside, master, or the window
-will serve our turn as well. Let us out!’
+‘Anywhere! Anything!’ cried Hugh. ‘Stand aside, master, or the [[Window|window]]
+will serve our turn as [[Well|well]]. Let us out!’
 
-‘Ha ha ha! You are of such--of such an impetuous nature,’ said Gashford,
+‘Ha ha ha! You are of such--of such an impetuous [[Nature|nature]],’ said Gashford,
 changing his manner for one of the utmost good fellowship and the
 pleasantest raillery; ‘you are such an excitable creature--but you’ll
 drink with me before you go?’
@@ -178,16 +178,16 @@ corroborated with sundry nods and muttered oaths--‘Once roused, he is a
 fellow of such fierce determination!’
 
 Hugh poised his sturdy arm aloft, and clapping Barnaby on the back,
-bade him fear nothing. They shook hands together--poor Barnaby evidently
+bade him [[Fear|fear]] nothing. They shook hands together--poor Barnaby evidently
 possessed with the idea that he was among the most virtuous and
 disinterested heroes in the world--and Gashford laughed again.
 
 ‘I hear,’ he said smoothly, as he stood among them with a great measure
 of liquor in his hand, and filled their glasses as quickly and as
 often as they chose, ‘I hear--but I cannot say whether it be true or
-false--that the men who are loitering in the streets to-night are half
+false--that the men who are loitering in the streets to-[[Night|night]] are half
 disposed to pull down a Romish chapel or two, and that they only want
-leaders. I even heard mention of those in Duke Street, Lincoln’s Inn
+leaders. I even heard mention of those in Duke Street, [[Lincoln]]’s Inn
 Fields, and in Warwick Street, Golden Square; but common report, you
 know--You are not going?’
 
@@ -199,36 +199,36 @@ are they? Now boys!’
 boisterous, most vehement fellow! A man who--’
 
 There was no need to finish the sentence, for they had rushed out of the
-house, and were far beyond hearing. He stopped in the middle of a laugh,
+[[house]], and were far beyond hearing. He stopped in the middle of a laugh,
 listened, drew on his gloves, and, clasping his hands behind him, paced
-the deserted room for a long time, then bent his steps towards the busy
+the deserted room for a long [[Time|time]], then bent his steps towards the busy
 town, and walked into the streets.
 
 They were filled with people, for the rumour of that day’s proceedings
-had made a great noise. Those persons who did not care to leave home,
+had made a great noise. Those persons who did not care to leave [[Home|home]],
 were at their doors or windows, and one topic of discourse prevailed
 on every side. Some reported that the riots were effectually put down;
-others that they had broken out again: some said that Lord George Gordon
+others that they had broken out again: some said that [[Lord George Gordon]]
 had been sent under a strong guard to the Tower; others that an attempt
-had been made upon the King’s life, that the soldiers had been again
+had been made upon the [[King]]’s life, that the soldiers had been again
 called out, and that the noise of musketry in a distant part of the town
 had been plainly heard within an hour. As it grew darker, these stories
 became more direful and mysterious; and often, when some frightened
 passenger ran past with tidings that the rioters were not far off,
 and were coming up, the doors were shut and barred, lower windows
-made secure, and as much consternation engendered, as if the city were
+made secure, and as much consternation engendered, as if the [[City|city]] were
 invaded by a foreign army.
 
 Gashford walked stealthily about, listening to all he heard, and
 diffusing or confirming, whenever he had an opportunity, such false
 intelligence as suited his own purpose; and, busily occupied in this
-way, turned into Holborn for the twentieth time, when a great many women
+way, turned into Holborn for the twentieth [[Time|time]], when a great many women
 and children came flying along the street--often panting and looking
 back--and the confused murmur of numerous voices struck upon his ear.
 Assured by these tokens, and by the red light which began to flash
 upon the houses on either side, that some of his friends were indeed
 approaching, he begged a moment’s shelter at a door which opened as he
-passed, and running with some other persons to an upper window, looked
+passed, and running with some other persons to an upper [[Window|window]], looked
 out upon the crowd.
 
 They had torches among them, and the chief faces were distinctly
@@ -236,7 +236,7 @@ visible. That they had been engaged in the destruction of some building
 was sufficiently apparent, and that it was a Catholic place of worship
 was evident from the spoils they bore as trophies, which were easily
 recognisable for the vestments of priests, and rich fragments of altar
-furniture. Covered with soot, and dirt, and dust, and lime; their
+furniture. Covered with soot, and dirt, and [[Dust|dust]], and lime; their
 garments torn to rags; their hair hanging wildly about them; their hands
 and faces jagged and bleeding with the wounds of rusty nails; Barnaby,
 Hugh, and Dennis hurried on before them all, like hideous madmen. After
@@ -263,5 +263,5 @@ little concourse, and could not see or hear what passed within; but one
 who had a better place, informed him that a widow woman had descried her
 son among the rioters.
 
-‘Is that all?’ said the secretary, turning his face homewards. ‘Well! I
+‘Is that all?’ said the secretary, turning his face homewards. ‘[[Well]]! I
 think this looks a little more like business!’

@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-Mr. Cruncher had by this time taken quite a lunch of rust off his
+Mr. Cruncher had by this [[Time|time]] taken quite a lunch of rust off his
 fingers in his following of the evidence. He had now to attend while Mr.
 Stryver fitted the prisoner’s case on the jury, like a compact suit
 of clothes; showing them how the patriot, Barsad, was a hired spy and
-traitor, an unblushing trafficker in blood, and one of the greatest
+traitor, an unblushing trafficker in [[Blood|blood]], and one of the greatest
 scoundrels upon earth since accursed Judas--which he certainly did look
 rather like. How the virtuous servant, Cly, was his friend and partner,
 and was worthy to be; how the watchful eyes of those forgers and false
@@ -28,18 +28,18 @@ those passages across the Channel--though what those affairs were, a
 consideration for others who were near and dear to him, forbade him,
 even for his life, to disclose. How the evidence that had been warped
 and wrested from the young lady, whose anguish in giving it they
-had witnessed, came to nothing, involving the mere little innocent
+had witnessed, came to nothing, involving the mere little [[Innocent|innocent]]
 gallantries and politenesses likely to pass between any young gentleman
 and young lady so thrown together;--with the exception of that
 reference to George Washington, which was altogether too extravagant and
 impossible to be regarded in any other light than as a monstrous joke.
-How it would be a weakness in the government to break down in this
+How it would be a weakness in the [[government]] to break down in this
 attempt to practise for popularity on the lowest national antipathies
 and fears, and therefore Mr. Attorney-General had made the most of it;
 how, nevertheless, it rested upon nothing, save that vile and infamous
 character of evidence too often disfiguring such cases, and of which the
 State Trials of this country were full. But, there my Lord interposed
-(with as grave a face as if it had not been true), saying that he could
+(with as [[Grave|grave]] a face as if it had not been true), saying that he could
 not sit upon that Bench and suffer those allusions.
 
 Mr. Stryver then called his few witnesses, and Mr. Cruncher had next to
@@ -48,14 +48,14 @@ Stryver had fitted on the jury, inside out; showing how Barsad and
 Cly were even a hundred times better than he had thought them, and the
 prisoner a hundred times worse. Lastly, came my Lord himself, turning
 the suit of clothes, now inside out, now outside in, but on the whole
-decidedly trimming and shaping them into grave-clothes for the prisoner.
+decidedly trimming and shaping them into [[Grave|grave]]-clothes for the prisoner.
 
 And now, the jury turned to consider, and the great flies swarmed again.
 
-Mr. Carton, who had so long sat looking at the ceiling of the court,
+Mr. Carton, who had so long sat looking at the ceiling of the [[Court|court]],
 changed neither his place nor his attitude, even in this excitement.
 While his learned friend, Mr. Stryver, massing his papers before him,
-whispered with those who sat near, and from time to time glanced
+whispered with those who sat near, and from [[Time|time]] to [[Time|time]] glanced
 anxiously at the jury; while all the spectators moved more or less, and
 grouped themselves anew; while even my Lord himself arose from his seat,
 and slowly paced up and down his platform, not unattended by a suspicion
@@ -81,7 +81,7 @@ Don’t you see she will fall!”
 
 There was much commiseration for her as she was removed, and much
 sympathy with her father. It had evidently been a great distress to
-him, to have the days of his imprisonment recalled. He had shown
+him, to have the days of his [[Imprisonment|imprisonment]] recalled. He had shown
 strong internal agitation when he was questioned, and that pondering or
 brooding look which made him old, had been upon him, like a heavy cloud,
 ever since. As he passed out, the jury, who had turned back and paused a
@@ -91,7 +91,7 @@ They were not agreed, and wished to retire. My Lord (perhaps with George
 Washington on his mind) showed some surprise that they were not agreed,
 but signified his pleasure that they should retire under watch and ward,
 and retired himself. The trial had lasted all day, and the lamps in
-the court were now being lighted. It began to be rumoured that the
+the [[Court|court]] were now being lighted. It began to be rumoured that the
 jury would be out a long while. The spectators dropped off to get
 refreshment, and the prisoner withdrew to the back of the dock, and sat
 down.
@@ -113,14 +113,14 @@ at the moment, and touched Mr. Lorry on the arm.
 “How is the young lady?”
 
 “She is greatly distressed; but her father is comforting her, and she
-feels the better for being out of court.”
+feels the better for being out of [[Court|court]].”
 
 “I’ll tell the prisoner so. It won’t do for a respectable bank gentleman
 like you, to be seen speaking to him publicly, you know.”
 
 Mr. Lorry reddened as if he were conscious of having debated the point
 in his mind, and Mr. Carton made his way to the outside of the bar.
-The way out of court lay in that direction, and Jerry followed him, all
+The way out of [[Court|court]] lay in that direction, and Jerry followed him, all
 eyes, ears, and spikes.
 
 “Mr. Darnay!”
@@ -128,7 +128,7 @@ eyes, ears, and spikes.
 The prisoner came forward directly.
 
 “You will naturally be anxious to hear of the witness, Miss Manette. She
-will do very well. You have seen the worst of her agitation.”
+will do very [[Well|well]]. You have seen the worst of her agitation.”
 
 “I am deeply sorry to have been the cause of it. Could you tell her so
 for me, with my fervent acknowledgments?”
@@ -148,7 +148,7 @@ Mr. Darnay?”
 “It’s the wisest thing to expect, and the likeliest. But I think their
 withdrawing is in your favour.”
 
-Loitering on the way out of court not being allowed, Jerry heard no
+Loitering on the way out of [[Court|court]] not being allowed, Jerry heard no
 more: but left them--so like each other in feature, so unlike each other
 in manner--standing side by side, both reflected in the glass above
 them.
@@ -157,7 +157,7 @@ An hour and a half limped heavily away in the thief-and-rascal crowded
 passages below, even though assisted off with mutton pies and ale.
 The hoarse messenger, uncomfortably seated on a form after taking that
 refection, had dropped into a doze, when a loud murmur and a rapid tide
-of people setting up the stairs that led to the court, carried him along
+of people setting up the stairs that led to the [[Court|court]], carried him along
 with them.
 
 “Jerry! Jerry!” Mr. Lorry was already calling at the door when he got
@@ -173,7 +173,7 @@ it?”
 Hastily written on the paper was the word “ACQUITTED.”
 
 “If you had sent the message, ‘Recalled to Life,’ again,” muttered
-Jerry, as he turned, “I should have known what you meant, this time.”
+Jerry, as he turned, “I should have known what you meant, this [[Time|time]].”
 
 He had no opportunity of saying, or so much as thinking, anything else,
 until he was clear of the Old Bailey; for, the crowd came pouring out

@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 10)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 10)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -24,7 +24,7 @@ most snobbish Tory that ever praised "our gallant Allies" in a frigid
 
 official speech, could not contain himself about the conduct of
 
-Blucher's men. Our middle classes did well to adorn their parlours with
+Blucher's men. Our middle classes did [[Well|well]] to adorn their parlours with
 
 the picture of the "Meeting of Wellington and Blucher." They should
 
@@ -32,15 +32,15 @@ have hung up a companion piece of Pilate and Herod shaking hands. Then,
 
 after that meeting amid the ashes of Hougomont, where they dreamed they
 
-had trodden out the embers of all democracy, the Prussians rode on
+had trodden out the embers of all [[democracy]], the Prussians rode on
 
-before, doing after their kind. After them went that ironical aristocrat
+before, doing after their kind. After them went that ironical [[aristocrat]]
 
 out of embittered Ireland, with what thoughts we know; and Blucher, with
 
-what thoughts we care not; and his soldiers entered Paris, and stole the
+what thoughts we care not; and his soldiers entered [[Paris]], and stole the
 
-sword of Joan of Arc.
+[[Sword|sword]] of Joan of Arc.
 
 
 
@@ -62,7 +62,7 @@ private and frivolous remarks which were valuable and ought to be
 
 immortal. He struck dead the stiff and false psychology of "social
 
-reform," with its suggestion that the number of public-houses made
+[[Reform|reform]]," with its suggestion that the number of public-houses made
 
 people drunk, by saying that there were a number of bedrooms at
 
@@ -76,11 +76,11 @@ he included the nation of Ireland in the "Celtic fringe" upon the west
 
 of England. It seems sufficient to remark that the fringe is
 
-considerably broader than the garment. But the fearful satire of time
+considerably broader than the garment. But the fearful [[Satire|satire]] of [[Time|time]]
 
 has very sufficiently avenged the Irish nation upon him, largely by the
 
-instrumentality of another fragment of the British robe which he cast
+instrumentality of another [[Fragment|fragment]] of the British robe which he cast
 
 away almost contemptuously in the North Sea. The name of it is
 
@@ -88,13 +88,13 @@ Heligoland; and he gave it to the Germans.
 
 
 
-The subsequent history of the two islands on either side of England has
+The subsequent [[history]] of the two islands on either side of England has
 
 been sufficiently ironical. If Lord Salisbury had foreseen exactly what
 
-would happen to Heligoland, as well as to Ireland, he might well have
+would happen to Heligoland, as [[Well|well]] as to Ireland, he might [[Well|well]] have
 
-found no sleep at Hatfield in one bedroom or a hundred. In the eastern
+found no [[Sleep|sleep]] at Hatfield in one bedroom or a hundred. In the eastern
 
 isle he was strengthening a fortress that would one day be called upon
 
@@ -108,7 +108,7 @@ of Heligoland; and in that day his old and once-imprisoned enemy, John
 
 Redmond, was to rise in the hour of English jeopardy, and be thanked in
 
-thunder for the free offer of the Irish sword. All that Robert Cecil
+thunder for the free offer of the Irish [[Sword|sword]]. All that Robert Cecil
 
 thought valueless has been our loss, and all that he thought feeble our
 
@@ -124,11 +124,11 @@ mistress; many knew that she was now in some sense a suppliant. Some
 
 knew that she deserved to be a suppliant. These were they who knew a
 
-little of the thing called history; and if they thought at all of such
+little of the thing called [[history]]; and if they thought at all of such
 
 dead catchwords as the "Celtic fringe" for a description of Ireland, it
 
-was to doubt whether we were worthy to kiss the hem of her garment. If
+was to [[Doubt|doubt]] whether we were worthy to kiss the hem of her garment. If
 
 there be still any Englishman who thinks such language extravagant, this
 
@@ -140,17 +140,17 @@ In the last two chapters I have sketched in outline the way in which
 
 England, partly by historical accident, but partly also by false
 
-philosophy, was drawn into the orbit of Germany, the centre of whose
+[[philosophy]], was drawn into the orbit of [[Germany]], the centre of whose
 
 circle was already at Berlin. I need not recapitulate the causes at all
 
 fully here. Luther was hardly a heresiarch for England, though a hobby
 
-for Henry VIII. But the negative Germanism of the Reformation, its drag
+for [[Henry VIII]]. But the negative Germanism of the [[Reformation]], its drag
 
 towards the north, its quarantine against Latin culture, was in a sense
 
-the beginning of the business. It is well represented in two facts; the
+the beginning of the business. It is [[Well|well]] represented in two facts; the
 
 barbaric refusal of the new astronomical calendar merely because it was
 
@@ -170,7 +170,7 @@ into which the Gallophil Stuarts might have carried her. Only one of the
 
 Hanoverians was actively German; so German that he actually gloried in
 
-the name of Briton, and spelt it wrong. Incidentally, he lost America.
+the name of Briton, and spelt it wrong. Incidentally, he lost [[america|America]].
 
 It is notable that all those eminent among the real Britons, who spelt
 
@@ -182,11 +182,11 @@ the earth-devouring Imperialist Chatham, even, in reality, the jog-trot
 
 Tory North. The intractability was in the Elector of Hanover more than
 
-in the King of England; in the narrow and petty German prince who was
+in the [[King]] of England; in the narrow and petty German prince who was
 
 bored by Shakespeare and approximately inspired by Handel. What really
 
-clinched the unlucky companionship of England and Germany was the first
+clinched the unlucky companionship of England and [[Germany]] was the first
 
 and second alliance with Prussia; the first in which we prevented the
 
@@ -194,10 +194,10 @@ hardening tradition of Frederick the Great being broken up by the Seven
 
 Years' War; the second in which we prevented it being broken up by the
 
-French Revolution and Napoleon. In the first we helped Prussia to escape
+[[French Revolution]] and Napoleon. In the first we helped Prussia to escape
 
 like a young brigand; in the second we helped the brigand to adjudicate
 
 as a respectable magistrate. Having aided his lawlessness, we defended
 
-his legitimacy. We helped to give the Bourbon prince his crown, though
+his legitimacy. We helped to give the Bourbon prince his [[Crown|crown]], though

@@ -1,5 +1,5 @@
 ---
-title: "2 Henry IV — Act IV, Scene 3 — exchange (KING HENRY) [6]"
+title: "2 [[Henry IV]] — Act IV, Scene 3 — exchange ([[King|KING]] HENRY) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/2-HENRY-IV-(Shakespeare)"
@@ -15,14 +15,14 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| KING HENRY | Warwick, Gloucester, Clarence! Enter the Earl of Warwick, and the Dukes of |
-| KING HENRY | Gloucester and Clarence |
-| CLARENCE | Doth the King call? |
+| [[King|KING]] HENRY | Warwick, [[Gloucester]], [[Clarence]]! Enter the [[Earl of Warwick]], and the Dukes of |
+| [[King|KING]] HENRY | [[Gloucester]] and [[Clarence]] |
+| [[Clarence|CLARENCE]] | Doth the [[King]] call? |
 | WARWICK | What would your majesty? How fares your grace? |
-| KING HENRY | Why did you leave me here alone, my lords? |
-| CLARENCE | We left the Prince my brother here, my liege, Who undertook to sit and watch by you. |
-| KING HENRY | The Prince of Wales? Where is he? Let me see him. |
+| [[King|KING]] HENRY | Why did you leave me here [[Alone|alone]], my lords? |
+| [[Clarence|CLARENCE]] | We left the Prince my brother here, my liege, Who undertook to sit and watch by you. |
+| [[King|KING]] HENRY | The Prince of Wales? Where is he? Let me see him. |
 | WARWICK | This door is open; he is gone this way. |
-| GLOUCESTER | He came not through the chamber where we stayed. |
-| KING HENRY | Where is the crown? Who took it from my pillow? |
+| [[Gloucester|GLOUCESTER]] | He came not through the chamber where we stayed. |
+| [[King|KING]] HENRY | Where is the [[Crown|crown]]? Who took it from my pillow? |
 | WARWICK | When we withdrew, my liege, we left it here. |

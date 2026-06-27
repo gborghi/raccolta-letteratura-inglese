@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 18 (part 1)"
+title: "[[The Professor]] — Chapter 18 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -42,7 +42,7 @@ improved productions wrung from me the avowal that those qualities in
 
 her I had termed taste and fancy ought rather to have been denominated
 
-judgment and imagination. When I intimated so much, which I did as usual
+judgment and [[Imagination|imagination]]. When I intimated so much, which I did as usual
 
 in dry and stinted phrase, I looked for the radiant and exulting smile
 
@@ -58,7 +58,7 @@ margin of her book.
 
 
 
-“Well, are you pleased that I am satisfied with your progress?” I asked.
+“[[Well]], are you pleased that I am satisfied with your progress?” I asked.
 
 
 
@@ -106,7 +106,7 @@ Frances did not become pale or feeble in consequence of her sedentary
 
 employment; perhaps the stimulus it communicated to her mind
 
-counterbalanced the inaction it imposed on her body. She changed,
+counterbalanced the inaction it imposed on her [[Body|body]]. She changed,
 
 indeed, changed obviously and rapidly; but it was for the better. When
 
@@ -116,19 +116,19 @@ she looked like one who had no source of enjoyment, no store of bliss
 
 anywhere in the world; now the cloud had passed from her mien, leaving
 
-space for the dawn of hope and interest, and those feelings rose like a
+space for the [[Dawn|dawn]] of [[Hope|hope]] and interest, and those feelings [[Rose|rose]] like a
 
 clear morning, animating what had been depressed, tinting what had been
 
 pale. Her eyes, whose colour I had not at first known, so dim were they
 
-with repressed tears, so shadowed with ceaseless dejection, now, lit by
+with repressed [[Tears|tears]], so shadowed with ceaseless dejection, now, lit by
 
 a ray of the sunshine that cheered her heart, revealed irids of bright
 
 hazel--irids large and full, screened with long lashes; and pupils
 
-instinct with fire. That look of wan emaciation which anxiety or low
+instinct with [[Fire|fire]]. That look of wan emaciation which anxiety or low
 
 spirits often communicates to a thoughtful, thin face, rather long than
 
@@ -148,7 +148,7 @@ though compact, elegant, flexible--the exquisite turning of waist,
 
 wrist, hand, foot, and ankle satisfied completely my notions of
 
-symmetry, and allowed a lightness and freedom of movement which
+symmetry, and allowed a lightness and [[Freedom|freedom]] of movement which
 
 corresponded with my ideas of grace.
 
@@ -168,7 +168,7 @@ of youth and health, and tolerated her as of their kind accordingly.
 
 
 
-To speak truth, I watched this change much as a gardener watches the
+To speak [[Truth|truth]], I watched this change much as a gardener watches the
 
 growth of a precious plant, and I contributed to it too, even as the
 
@@ -184,7 +184,7 @@ forbidden to expand. Constancy of attention--a kindness as mute
 
 as watchful, always standing by her, cloaked in the rough garb of
 
-austerity, and making its real nature known only by a rare glance of
+austerity, and making its real [[Nature|nature]] known only by a rare glance of
 
 interest, or a cordial and gentle word; real respect masked with seeming
 
@@ -194,7 +194,7 @@ that with devoted care: these were the means I used, for these means
 
 best suited Frances’ feelings, as susceptible as deep vibrating--her
 
-nature at once proud and shy.
+[[Nature|nature]] at once proud and shy.
 
 
 

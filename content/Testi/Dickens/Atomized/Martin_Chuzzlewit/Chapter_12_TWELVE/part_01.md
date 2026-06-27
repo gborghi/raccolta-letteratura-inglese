@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 12: TWELVE (part 1)"
+title: "[[Martin Chuzzlewit]] — Chapter 12: TWELVE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -18,17 +18,17 @@ CHAPTER TWELVE
 
 WILL BE SEEN IN THE LONG RUN, IF NOT IN THE SHORT ONE, TO CONCERN MR
 PINCH AND OTHERS, NEARLY. MR PECKSNIFF ASSERTS THE DIGNITY OF OUTRAGED
-VIRTUE. YOUNG MARTIN CHUZZLEWIT FORMS A DESPERATE RESOLUTION
+VIRTUE. YOUNG [[Martin Chuzzlewit|MARTIN CHUZZLEWIT]] FORMS A DESPERATE RESOLUTION
 
 
 Mr Pinch and Martin, little dreaming of the stormy weather that
 impended, made themselves very comfortable in the Pecksniffian halls,
-and improved their friendship daily. Martin’s facility, both of
+and improved their [[Friendship|friendship]] daily. Martin’s facility, both of
 invention and execution, being remarkable, the grammar-school proceeded
 with great vigour; and Tom repeatedly declared, that if there were
 anything like certainty in human affairs, or impartiality in human
 judges, a design so new and full of merit could not fail to carry off
-the first prize when the time of competition arrived. Without being
+the first prize when the [[Time|time]] of competition arrived. Without being
 quite so sanguine himself, Martin had his hopeful anticipations too; and
 they served to make him brisk and eager at his task.
 
@@ -41,7 +41,7 @@ build.’
 
 ‘Why, your fortune.’
 
-‘No!’ said Tom Pinch, quite as much delighted as if the thing were done.
+‘No!’ said [[Tom Pinch]], quite as much delighted as if the thing were done.
 ‘Would you though? How kind of you to say so.’
 
 ‘I’d build it up, Tom,’ returned Martin, ‘on such a strong foundation,
@@ -89,21 +89,21 @@ these observations.
 
 ‘I should be married to her then, Tom, of course,’ said Martin.
 
-What was that which checked Tom Pinch so suddenly, in the high flow
-of his gladness; bringing the blood into his honest cheeks, and a
+What was that which checked [[Tom Pinch]] so suddenly, in the high flow
+of his gladness; bringing the [[Blood|blood]] into his honest cheeks, and a
 remorseful feeling to his honest heart, as if he were unworthy of his
 friend’s regard?
 
 ‘I should be married to her then,’ said Martin, looking with a smile
-towards the light; ‘and we should have, I hope, children about us.
+towards the light; ‘and we should have, I [[Hope|hope]], children about us.
 They’d be very fond of you, Tom.’
 
 But not a word said Mr Pinch. The words he would have uttered died upon
-his lips, and found a life more spiritual in self-denying thoughts.
+his lips, and found a life more spiritual in [[Self|self]]-denying thoughts.
 
 ‘All the children hereabouts are fond of you, Tom, and mine would be,
 of course,’ pursued Martin. ‘Perhaps I might name one of ‘em after
-you. Tom, eh? Well, I don’t know. Tom’s not a bad name. Thomas Pinch
+you. Tom, eh? [[Well]], I don’t know. Tom’s not a bad name. Thomas Pinch
 Chuzzlewit. T. P. C. on his pinafores--no objection to that, I should
 say?’
 
@@ -111,18 +111,18 @@ Tom cleared his throat, and smiled.
 
 ‘SHE would like you, Tom, I know,’ said Martin.
 
-‘Aye!’ cried Tom Pinch, faintly.
+‘Aye!’ cried [[Tom Pinch]], faintly.
 
 ‘I can tell exactly what she would think of you,’ said Martin leaning
-his chin upon his hand, and looking through the window-glass as if he
-read there what he said; ‘I know her so well. She would smile, Tom,
+his chin upon his hand, and looking through the [[Window|window]]-glass as if he
+read there what he said; ‘I know her so [[Well|well]]. She would smile, Tom,
 often at first when you spoke to her, or when she looked at you--merrily
 too--but you wouldn’t mind that. A brighter smile you never saw.’
 
 ‘No, no,’ said Tom. ‘I wouldn’t mind that.’
 
 ‘She would be as tender with you, Tom,’ said Martin, ‘as if you were a
-child yourself. So you are almost, in some things, an’t you, Tom?’
+[[Child|child]] yourself. So you are almost, in some things, an’t you, Tom?’
 
 Mr Pinch nodded his entire assent.
 
@@ -134,14 +134,14 @@ knew you were burning to render; so that when she really pleased you
 most, she would try to make you think you most pleased her. She
 would take to you uncommonly, Tom; and would understand you far more
 delicately than I ever shall; and would often say, I know, that you were
-a harmless, gentle, well-intentioned, good fellow.’
+a harmless, gentle, [[Well|well]]-intentioned, good fellow.’
 
-How silent Tom Pinch was!
+How silent [[Tom Pinch]] was!
 
-‘In honour of old time,’ said Martin, ‘and of her having heard you play
+‘In [[Honour|honour]] of old [[Time|time]],’ said Martin, ‘and of her having heard you play
 the organ in this damp little church down here--for nothing too--we will
-have one in the house. I shall build an architectural music-room on a
+have one in the [[house]]. I shall build an architectural music-room on a
 plan of my own, and it’ll look rather knowing in a recess at one end.
 There you shall play away, Tom, till you tire yourself; and, as you like
-to do so in the dark, it shall BE dark; and many’s the summer evening
+to do so in the dark, it shall BE dark; and many’s the [[Summer|summer]] evening
 she and I will sit and listen to you, Tom; be sure of that!’

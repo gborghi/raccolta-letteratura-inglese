@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-In which state of affairs, the usual ceremonies rather droop and flag,
+In which state of affairs, the usual ceremonies rather droop and [[Flag|flag]],
 and the splendid cake when cut by the fair hand of the bride has but
 an indigestible appearance. However, all the things indispensable to
 be said are said, and all the things indispensable to be done are
 done (including Lady Tippins’s yawning, falling asleep, and waking
-insensible), and there is hurried preparation for the nuptial journey
+insensible), and there is hurried preparation for the nuptial [[Journey|journey]]
 to the Isle of Wight, and the outer air teems with brass bands and
 spectators. In full sight of whom, the malignant star of the Analytical
-has pre-ordained that pain and ridicule shall befall him. For he,
+has pre-ordained that [[Pain|pain]] and ridicule shall befall him. For he,
 standing on the doorsteps to grace the departure, is suddenly caught a
 most prodigious thump on the side of his head with a heavy shoe, which
 a Buffer in the hall, champagne-flushed and wild of aim, has borrowed on
@@ -39,21 +39,21 @@ Mortimer Lightwood and Eugene fade away, and Twemlow fades away, and
 the stoney aunt goes away—she declines to fade, proving rock to the
 last—and even the unknowns are slowly strained off, and it is all over.
 
-All over, that is to say, for the time being. But, there is another time
+All over, that is to say, for the [[Time|time]] being. But, there is another [[Time|time]]
 to come, and it comes in about a fortnight, and it comes to Mr and Mrs
 Lammle on the sands at Shanklin, in the Isle of Wight.
 
-Mr and Mrs Lammle have walked for some time on the Shanklin sands, and
+Mr and Mrs Lammle have walked for some [[Time|time]] on the Shanklin sands, and
 one may see by their footprints that they have not walked arm in arm,
 and that they have not walked in a straight track, and that they have
-walked in a moody humour; for, the lady has prodded little spirting
+walked in a moody [[Humour|humour]]; for, the lady has prodded little spirting
 holes in the damp sand before her with her parasol, and the gentleman
 has trailed his stick after him. As if he were of the Mephistopheles
 family indeed, and had walked with a drooping tail.
 
 ‘Do you mean to tell me, then, Sophronia—’
 
-Thus he begins after a long silence, when Sophronia flashes fiercely,
+Thus he begins after a long [[Silence|silence]], when Sophronia flashes fiercely,
 and turns upon him.
 
 ‘Don’t put it upon ME, sir. I ask you, do YOU mean to tell me?’
@@ -63,7 +63,7 @@ her nostrils and bites her under-lip; Mr Lammle takes his gingerous
 whiskers in his left hand, and, bringing them together, frowns furtively
 at his beloved, out of a thick gingerous bush.
 
-‘Do I mean to say!’ Mrs Lammle after a time repeats, with indignation.
+‘Do I mean to say!’ Mrs Lammle after a [[Time|time]] repeats, with indignation.
 ‘Putting it on me! The unmanly disingenuousness!’
 
 Mr Lammle stops, releases his whiskers, and looks at her. ‘The what?’
@@ -91,7 +91,7 @@ me?’
 As this happens to be true, Mrs Lammle is thrown on the feminine
 resource of saying, ‘I don’t care what you uttered or did not utter.’
 
-After a little more walking and a little more silence, Mr Lammle breaks
+After a little more walking and a little more [[Silence|silence]], Mr Lammle breaks
 the latter.
 
 ‘You shall proceed in your own way. You claim a right to ask me do I

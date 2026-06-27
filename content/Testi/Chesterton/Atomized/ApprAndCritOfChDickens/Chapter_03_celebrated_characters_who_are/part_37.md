@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 37)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 37)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -18,13 +18,13 @@ man. He could denounce his enemies and fight for his nightcap. He was
 
 fat; but he had a backbone. In _Master Humphrey's Clock_ the backbone
 
-seems somehow to be broken; his good nature seems limp instead of alert.
+seems somehow to be broken; his good [[Nature|nature]] seems limp instead of alert.
 
 He gushes out of his good heart; instead of taking a good heart for
 
 granted as a part of any decent gentleman's furniture as did the older
 
-and stronger Pickwick. The truth is, I think, that Mr. Pickwick in
+and stronger [[Pickwick]]. The [[Truth|truth]] is, I think, that Mr. [[Pickwick]] in
 
 complete repose loses some part of the whole point of his existence. The
 
@@ -34,7 +34,7 @@ fairy tales is a quality which all the great fairy tales possess, and
 
 which marks them out from most modern writing. A modern novelist
 
-generally endeavours to make his story interesting, by making his hero
+generally endeavours to make his story interesting, by making his [[Hero|hero]]
 
 odd. The most typical modern books are those in which the central figure
 
@@ -42,19 +42,19 @@ is himself or herself an exception, a cripple, a courtesan, a lunatic, a
 
 swindler, or a person of the most perverse temperament. Such stories,
 
-for instance, are _Sir Richard Calmady_, _Dodo_, _Quisante_, _La Bête
+for instance, are _Sir [[Richard]] Calmady_, _Dodo_, _Quisante_, _La Bête
 
 Humaine_, even the _Egoist_. But in a fairy tale the boy sees all the
 
 wonders of fairyland because he is an ordinary boy. In the same way Mr.
 
-Samuel Pickwick sees an extraordinary England because he is an ordinary
+[[Samuel Pickwick]] sees an extraordinary England because he is an ordinary
 
 old gentleman. He does not see things through the rosy spectacles of the
 
 modern optimist or the green-smoked spectacles of the pessimist; he sees
 
-it through the crystal glasses of his own innocence. One must see the
+it through the crystal glasses of his own [[innocence]]. One must see the
 
 world clearly even in order to see its wildest poetry. One must see it
 
@@ -62,11 +62,11 @@ sanely even in order to see that it is insane.
 
 
 
-Mr. Pickwick, then, relieved against a background of heavy kindliness
+Mr. [[Pickwick]], then, relieved against a background of heavy kindliness
 
 and quiet club life does not seem to be quite the same heroic figure as
 
-Mr. Pickwick relieved against a background of the fighting police
+Mr. [[Pickwick]] relieved against a background of the fighting police
 
 constables at Ipswich or the roaring mobs of Eatanswill. Of the
 
@@ -94,21 +94,21 @@ and could not appear for an instant without being amusing.
 
 The other elements in the make-up of _Master Humphrey's Clock_ come
 
-under the same paradox which I have applied to the whole work. Though
+under the same [[Paradox|paradox]] which I have applied to the whole work. Though
 
 not very important in literature they are somehow quite important in
 
 criticism. They show us better than anything else the whole unconscious
 
-trend of Dickens, the stuff of which his very dreams were made. If he
+trend of Dickens, the stuff of which his very [[Dreams|dreams]] were made. If he
 
-had made up tales to amuse himself when half-awake (as I have no doubt
+had made up tales to amuse himself when half-awake (as I have no [[Doubt|doubt]]
 
 he did) they would be just such tales as these. They would have been
 
-ghostly legends of the nooks and holes of London, echoes of old love and
+ghostly legends of the nooks and holes of [[London]], echoes of old [[Love|love]] and
 
-laughter from the taverns or the Inns of Court. In a sense also one may
+laughter from the taverns or the Inns of [[Court]]. In a sense also one may
 
 say that these tales are the great might-have-beens of Dickens. They are
 
@@ -120,13 +120,13 @@ incredible colours. Nothing, for instance, could have been nearer to the
 
 heart of Dickens than his great Gargantuan conception of Gog and Magog
 
-telling London legends to each other all through the night. Those two
+telling [[London]] legends to each other all through the [[Night|night]]. Those two
 
-giants might have stood on either side of some new great city of his
+giants might have stood on either side of some new great [[City|city]] of his
 
 invention, swarming with fanciful figures and noisy with new events.
 
-But as it is, the two giants stand alone in a wilderness, guarding
+But as it is, the two giants stand [[Alone|alone]] in a wilderness, guarding
 
 either side of a gate that leads nowhere.
 
@@ -148,15 +148,15 @@ Those abuses which are supposed to belong specially to religion belong
 
 to all human institutions. They are not the sins of supernaturalism, but
 
-the sins of nature. In this respect it is interesting to observe that
+the sins of [[Nature|nature]]. In this respect it is interesting to observe that
 
 all the evils which our Rationalist or Protestant tradition associates
 
 with the idolatrous veneration of sacred figures arises in the merely
 
-human atmosphere of literature and history. Every extravagance of
+human atmosphere of literature and [[history]]. Every extravagance of
 
-hagiology can be found in hero-worship. Every folly alleged in the
+hagiology can be found in [[Hero|hero]]-worship. Every folly alleged in the
 
 worship of saints can be found in the worship of poets. There are those
 
@@ -164,7 +164,7 @@ who are honourably and intensely opposed to the atmosphere of religious
 
 symbolism or religious archæology. There are people who have a vague
 
-idea that the worship of saints is worse than the imitation of sinners.
+idea that the worship of saints is worse than the [[Imitation|imitation]] of sinners.
 
 There are some, like a lady I once knew, who think that hagiology is the
 
@@ -174,11 +174,11 @@ generally have idolatries and superstitions of their own, particularly
 
 idolatries and superstitions in connection with celebrated people. Mr.
 
-Stead preserves a pistol belonging to Oliver Cromwell in the office of
+Stead preserves a [[Pistol|pistol]] belonging to [[Oliver]] Cromwell in the office of
 
 the _Review of Reviews_; and I am sure he worships it in his rare
 
-moments of solitude and leisure. A man, who could not be induced to
+moments of [[Solitude|solitude]] and leisure. A man, who could not be induced to
 
 believe in God by all the arguments of all the philosophers, professed
 
@@ -188,7 +188,7 @@ handwriting of Mr. Gladstone. Persons not otherwise noted for their
 
 religious exercise have been known to procure and preserve portions of
 
-the hair of Paderewski. Nay, by this time blasphemy itself is a sacred
+the hair of Paderewski. Nay, by this [[Time|time]] blasphemy itself is a sacred
 
 tradition, and almost as much respect would be paid to the alleged
 
@@ -204,4 +204,4 @@ Of all the instances of this there is none stranger than the case of
 
 Dickens. It should be pondered very carefully by those who reproach
 
-Christianity with having been easily corrupted into a system of
+[[Christianity]] with having been easily corrupted into a system of

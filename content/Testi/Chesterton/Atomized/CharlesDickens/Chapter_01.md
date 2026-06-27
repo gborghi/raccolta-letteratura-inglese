@@ -1,5 +1,5 @@
 ---
-title: "CharlesDickens — Part 1"
+title: "[[CharlesDickens]] — Part 1"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/CharlesDickens-(Chesterton)"
@@ -25,10 +25,10 @@ CONTENTS
                  * CHAPTER III
                    THE YOUTH OF DICKENS
                  * CHAPTER IV
-                   "THE PICKWICK PAPERS"
+                   "THE [[Pickwick|PICKWICK]] PAPERS"
                  * CHAPTER V
                    THE GREAT POPULARITY
                  * CHAPTER VI
-                   DICKENS AND AMERICA
+                   DICKENS AND [[America|AMERICA]]
 
 ----------------------------------------------------------------------------

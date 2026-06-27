@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 39"
+title: "[[Oliver Twist]] — Chapter 39"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -16,14 +16,14 @@ tags:
 
  CHAPTER XXXIX.
 INTRODUCES SOME RESPECTABLE CHARACTERS WITH WHOM THE READER IS ALREADY
-ACQUAINTED, AND SHOWS HOW MONKS AND THE JEW LAID THEIR WORTHY HEADS
+ACQUAINTED, AND SHOWS HOW [[Monks|MONKS]] AND THE JEW LAID THEIR WORTHY HEADS
 TOGETHER
 
 
 On the evening following that upon which the three worthies mentioned
 in the last chapter, disposed of their little matter of business as
 therein narrated, Mr. William Sikes, awakening from a nap, drowsily
-growled forth an inquiry what time of night it was.
+growled forth an inquiry what [[Time|time]] of [[Night|night]] it was.
 
 The room in which Mr. Sikes propounded this question, was not one of
 those he had tenanted, previous to the Chertsey expedition, although it
@@ -31,12 +31,12 @@ was in the same quarter of the town, and was situated at no great
 distance from his former lodgings. It was not, in appearance, so
 desirable a habitation as his old quarters: being a mean and
 badly-furnished apartment, of very limited size; lighted only by one
-small window in the shelving roof, and abutting on a close and dirty
+small [[Window|window]] in the shelving roof, and abutting on a close and dirty
 lane. Nor were there wanting other indications of the good gentleman’s
 having gone down in the world of late: for a great scarcity of
 furniture, and total absence of comfort, together with the
 disappearance of all such small moveables as spare clothes and linen,
-bespoke a state of extreme poverty; while the meagre and attenuated
+bespoke a state of extreme [[Poverty|poverty]]; while the meagre and attenuated
 condition of Mr. Sikes himself would have fully confirmed these
 symptoms, if they had stood in any need of corroboration.
 
@@ -46,17 +46,17 @@ improved by the cadaverous hue of illness, and the addition of a soiled
 nightcap, and a stiff, black beard of a week’s growth. The dog sat at
 the bedside: now eyeing his master with a wistful look, and now
 pricking his ears, and uttering a low growl as some noise in the
-street, or in the lower part of the house, attracted his attention.
-Seated by the window, busily engaged in patching an old waistcoat which
+street, or in the lower part of the [[house]], attracted his attention.
+Seated by the [[Window|window]], busily engaged in patching an old waistcoat which
 formed a portion of the robber’s ordinary dress, was a female: so pale
 and reduced with watching and privation, that there would have been
-considerable difficulty in recognising her as the same Nancy who has
+considerable difficulty in recognising her as the same [[Nancy]] who has
 already figured in this tale, but for the voice in which she replied to
 Mr. Sikes’s question.
 
 “Not long gone seven,” said the girl. “How do you feel tonight, Bill?”
 
-“As weak as water,” replied Mr. Sikes, with an imprecation on his eyes
+“As weak as [[Water|water]],” replied Mr. Sikes, with an imprecation on his eyes
 and limbs. “Here; lend us a hand, and let me get off this thundering
 bed anyhow.”
 
@@ -82,12 +82,12 @@ said the girl, laying her hand upon his shoulder.
 “Such a number of nights,” said the girl, with a touch of woman’s
 tenderness, which communicated something like sweetness of tone, even
 to her voice: “such a number of nights as I’ve been patient with you,
-nursing and caring for you, as if you had been a child: and this the
+nursing and caring for you, as if you had been a [[Child|child]]: and this the
 first that I’ve seen you like yourself; you wouldn’t have served me as
 you did just now, if you’d thought of that, would you? Come, come; say
 you wouldn’t.”
 
-“Well, then,” rejoined Mr. Sikes, “I wouldn’t. Why, damme, now, the
+“[[Well]], then,” rejoined Mr. Sikes, “I wouldn’t. Why, damme, now, the
 girls’s whining again!”
 
 “It’s nothing,” said the girl, throwing herself into a chair. “Don’t
@@ -97,24 +97,24 @@ you seem to mind me. It’ll soon be over.”
 are you up to, now, again? Get up and bustle about, and don’t come over
 me with your woman’s nonsense.”
 
-At any other time, this remonstrance, and the tone in which it was
+At any other [[Time|time]], this remonstrance, and the tone in which it was
 delivered, would have had the desired effect; but the girl being really
 weak and exhausted, dropped her head over the back of the chair, and
 fainted, before Mr. Sikes could get out a few of the appropriate oaths
 with which, on similar occasions, he was accustomed to garnish his
-threats. Not knowing, very well, what to do, in this uncommon
-emergency; for Miss Nancy’s hysterics were usually of that violent kind
+threats. Not knowing, very [[Well|well]], what to do, in this uncommon
+emergency; for Miss [[Nancy]]’s hysterics were usually of that violent kind
 which the patient fights and struggles out of, without much assistance;
 Mr. Sikes tried a little blasphemy: and finding that mode of treatment
 wholly ineffectual, called for assistance.
 
-“What’s the matter here, my dear?” said Fagin, looking in.
+“What’s the matter here, my dear?” said [[Fagin]], looking in.
 
 “Lend a hand to the girl, can’t you?” replied Sikes impatiently. “Don’t
 stand chattering and grinning at me!”
 
-With an exclamation of surprise, Fagin hastened to the girl’s
-assistance, while Mr. John Dawkins (otherwise the Artful Dodger), who
+With an exclamation of surprise, [[Fagin]] hastened to the girl’s
+assistance, while Mr. John Dawkins (otherwise the [[Artful Dodger]]), who
 had followed his venerable friend into the room, hastily deposited on
 the floor a bundle with which he was laden; and snatching a bottle from
 the grasp of Master Charles Bates who came close at his heels, uncorked
@@ -123,7 +123,7 @@ down the patient’s throat: previously taking a taste, himself, to
 prevent mistakes.
 
 “Give her a whiff of fresh air with the bellows, Charley,” said Mr.
-Dawkins; “and you slap her hands, Fagin, while Bill undoes the
+Dawkins; “and you slap her hands, [[Fagin]], while Bill undoes the
 petticuts.”
 
 These united restoratives, administered with great energy: especially
@@ -134,14 +134,14 @@ senses; and, staggering to a chair by the bedside, hid her face upon
 the pillow: leaving Mr. Sikes to confront the new comers, in some
 astonishment at their unlooked-for appearance.
 
-“Why, what evil wind has blowed you here?” he asked Fagin.
+“Why, what evil [[Wind|wind]] has blowed you here?” he asked [[Fagin]].
 
-“No evil wind at all, my dear, for evil winds blow nobody any good; and
+“No evil [[Wind|wind]] at all, my dear, for evil winds blow nobody any good; and
 I’ve brought something good with me, that you’ll be glad to see.
 Dodger, my dear, open the bundle; and give Bill the little trifles that
 we spent all our money on, this morning.”
 
-In compliance with Mr. Fagin’s request, the Artful untied this bundle,
+In compliance with Mr. [[Fagin]]’s request, the Artful untied this bundle,
 which was of large size, and formed of an old table-cloth; and handed
 the articles it contained, one by one, to Charley Bates: who placed
 them on the table, with various encomiums on their rarity and
@@ -151,11 +151,11 @@ excellence.
 to view a huge pasty; “sitch delicate creeturs, with sitch tender
 limbs, Bill, that the wery bones melt in your mouth, and there’s no
 occasion to pick ’em; half a pound of seven and six-penny green, so
-precious strong that if you mix it with biling water, it’ll go nigh to
+precious strong that if you mix it with biling [[Water|water]], it’ll go nigh to
 blow the lid of the tea-pot off; a pound and a half of moist sugar that
 the niggers didn’t work at all at, afore they got it up to sitch a
 pitch of goodness,—oh no! Two half-quartern brans; pound of best fresh;
-piece of double Glo’ster; and, to wind up all, some of the richest sort
+piece of [[Double|double]] Glo’ster; and, to [[Wind|wind]] up all, some of the richest sort
 you ever lushed!”
 
 Uttering this last panegyric, Master Bates produced, from one of his
@@ -164,7 +164,7 @@ Mr. Dawkins, at the same instant, poured out a wine-glassful of raw
 spirits from the bottle he carried: which the invalid tossed down his
 throat without a moment’s hesitation.
 
-“Ah!” said Fagin, rubbing his hands with great satisfaction. “You’ll
+“Ah!” said [[Fagin]], rubbing his hands with great satisfaction. “You’ll
 do, Bill; you’ll do now.”
 
 “Do!” exclaimed Mr. Sikes; “I might have been done for, twenty times
@@ -172,14 +172,14 @@ over, afore you’d have done anything to help me. What do you mean by
 leaving a man in this state, three weeks and more, you false-hearted
 wagabond?”
 
-“Only hear him, boys!” said Fagin, shrugging his shoulders. “And us
+“Only hear him, boys!” said [[Fagin]], shrugging his shoulders. “And us
 come to bring him all these beau-ti-ful things.”
 
-“The things is well enough in their way,” observed Mr. Sikes: a little
+“The things is [[Well|well]] enough in their way,” observed Mr. Sikes: a little
 soothed as he glanced over the table; “but what have you got to say for
 yourself, why you should leave me here, down in the mouth, health,
 blunt, and everything else; and take no more notice of me, all this
-mortal time, than if I was that ’ere dog.—Drive him down, Charley!”
+mortal [[Time|time]], than if I was that ’ere dog.—Drive him down, Charley!”
 
 “I never see such a jolly dog as that,” cried Master Bates, doing as he
 was desired. “Smelling the grub like a old lady a going to market! He’d
@@ -190,7 +190,7 @@ besides.”
 growling angrily. “What have you got to say for yourself, you withered
 old fence, eh?”
 
-“I was away from London, a week and more, my dear, on a plant,” replied
+“I was away from [[London]], a week and more, my dear, on a plant,” replied
 the Jew.
 
 “And what about the other fortnight?” demanded Sikes. “What about the
@@ -198,73 +198,73 @@ other fortnight that you’ve left me lying here, like a sick rat in his
 hole?”
 
 “I couldn’t help it, Bill. I can’t go into a long explanation before
-company; but I couldn’t help it, upon my honour.”
+company; but I couldn’t help it, upon my [[Honour|honour]].”
 
 “Upon your what?” growled Sikes, with excessive disgust. “Here! Cut me
 off a piece of that pie, one of you boys, to take the taste of that out
 of my mouth, or it’ll choke me dead.”
 
-“Don’t be out of temper, my dear,” urged Fagin, submissively. “I have
+“Don’t be out of temper, my dear,” urged [[Fagin]], submissively. “I have
 never forgot you, Bill; never once.”
 
 “No! I’ll pound it that you han’t,” replied Sikes, with a bitter grin.
 “You’ve been scheming and plotting away, every hour that I have laid
 shivering and burning here; and Bill was to do this; and Bill was to do
-that; and Bill was to do it all, dirt cheap, as soon as he got well:
+that; and Bill was to do it all, dirt cheap, as soon as he got [[Well|well]]:
 and was quite poor enough for your work. If it hadn’t been for the
 girl, I might have died.”
 
-“There now, Bill,” remonstrated Fagin, eagerly catching at the word.
-“If it hadn’t been for the girl! Who but poor ould Fagin was the means
+“There now, Bill,” remonstrated [[Fagin]], eagerly catching at the word.
+“If it hadn’t been for the girl! Who but poor ould [[Fagin]] was the means
 of your having such a handy girl about you?”
 
-“He says true enough there!” said Nancy, coming hastily forward. “Let
+“He says true enough there!” said [[Nancy]], coming hastily forward. “Let
 him be; let him be.”
 
-Nancy’s appearance gave a new turn to the conversation; for the boys,
+[[Nancy]]’s appearance gave a new turn to the conversation; for the boys,
 receiving a sly wink from the wary old Jew, began to ply her with
-liquor: of which, however, she took very sparingly; while Fagin,
+liquor: of which, however, she took very sparingly; while [[Fagin]],
 assuming an unusual flow of spirits, gradually brought Mr. Sikes into a
 better temper, by affecting to regard his threats as a little pleasant
 banter; and, moreover, by laughing very heartily at one or two rough
 jokes, which, after repeated applications to the spirit-bottle, he
 condescended to make.
 
-“It’s all very well,” said Mr. Sikes; “but I must have some blunt from
+“It’s all very [[Well|well]],” said Mr. Sikes; “but I must have some blunt from
 you tonight.”
 
 “I haven’t a piece of coin about me,” replied the Jew.
 
-“Then you’ve got lots at home,” retorted Sikes; “and I must have some
+“Then you’ve got lots at [[Home|home]],” retorted Sikes; “and I must have some
 from there.”
 
-“Lots!” cried Fagin, holding up his hands. “I haven’t so much as would—”
+“Lots!” cried [[Fagin]], holding up his hands. “I haven’t so much as would—”
 
 “I don’t know how much you’ve got, and I dare say you hardly know
-yourself, as it would take a pretty long time to count it,” said Sikes;
+yourself, as it would take a pretty long [[Time|time]] to count it,” said Sikes;
 “but I must have some tonight; and that’s flat.”
 
-“Well, well,” said Fagin, with a sigh, “I’ll send the Artful round
+“[[Well]], [[Well|well]],” said [[Fagin]], with a sigh, “I’ll send the Artful round
 presently.”
 
 “You won’t do nothing of the kind,” rejoined Mr. Sikes. “The Artful’s a
 deal too artful, and would forget to come, or lose his way, or get
 dodged by traps and so be perwented, or anything for an excuse, if you
-put him up to it. Nancy shall go to the ken and fetch it, to make all
+put him up to it. [[Nancy]] shall go to the ken and fetch it, to make all
 sure; and I’ll lie down and have a snooze while she’s gone.”
 
-After a great deal of haggling and squabbling, Fagin beat down the
+After a great deal of haggling and squabbling, [[Fagin]] beat down the
 amount of the required advance from five pounds to three pounds four
 and sixpence: protesting with many solemn asseverations that that would
-only leave him eighteen-pence to keep house with; Mr. Sikes sullenly
-remarking that if he couldn’t get any more he must accompany him home;
+only leave him eighteen-pence to keep [[house]] with; Mr. Sikes sullenly
+remarking that if he couldn’t get any more he must accompany him [[Home|home]];
 with the Dodger and Master Bates put the eatables in the cupboard. The
 Jew then, taking leave of his affectionate friend, returned homeward,
-attended by Nancy and the boys: Mr. Sikes, meanwhile, flinging himself
-on the bed, and composing himself to sleep away the time until the
+attended by [[Nancy]] and the boys: Mr. Sikes, meanwhile, flinging himself
+on the bed, and composing himself to [[Sleep|sleep]] away the [[Time|time]] until the
 young lady’s return.
 
-In due course, they arrived at Fagin’s abode, where they found Toby
+In due course, they arrived at [[Fagin]]’s abode, where they found Toby
 Crackit and Mr. Chitling intent upon their fifteenth game at cribbage,
 which it is scarcely necessary to say the latter gentleman lost, and
 with it, his fifteenth and last sixpence: much to the amusement of his
@@ -273,12 +273,12 @@ relaxing himself with a gentleman so much his inferior in station and
 mental endowments, yawned, and inquiring after Sikes, took up his hat
 to go.
 
-“Has nobody been, Toby?” asked Fagin.
+“Has nobody been, Toby?” asked [[Fagin]].
 
 “Not a living leg,” answered Mr. Crackit, pulling up his collar; “it’s
-been as dull as swipes. You ought to stand something handsome, Fagin,
-to recompense me for keeping house so long. Damme, I’m as flat as a
-juryman; and should have gone to sleep, as fast as Newgate, if I hadn’t
+been as dull as swipes. You ought to stand something handsome, [[Fagin]],
+to recompense me for keeping [[house]] so long. Damme, I’m as flat as a
+juryman; and should have gone to [[Sleep|sleep]], as fast as Newgate, if I hadn’t
 had the good natur’ to amuse this youngster. Horrid dull, I’m blessed
 if I an’t!”
 
@@ -295,29 +295,29 @@ didn’t value his losses the snap of his little finger.
 “Wot a rum chap you are, Tom!” said Master Bates, highly amused by this
 declaration.
 
-“Not a bit of it,” replied Mr. Chitling. “Am I, Fagin?”
+“Not a bit of it,” replied Mr. Chitling. “Am I, [[Fagin]]?”
 
-“A very clever fellow, my dear,” said Fagin, patting him on the
+“A very clever fellow, my dear,” said [[Fagin]], patting him on the
 shoulder, and winking to his other pupils.
 
-“And Mr. Crackit is a heavy swell; an’t he, Fagin?” asked Tom.
+“And Mr. Crackit is a heavy swell; an’t he, [[Fagin]]?” asked Tom.
 
-“No doubt at all of that, my dear.”
+“No [[Doubt|doubt]] at all of that, my dear.”
 
 “And it is a creditable thing to have his acquaintance; an’t it,
-Fagin?” pursued Tom.
+[[Fagin]]?” pursued Tom.
 
 “Very much so, indeed, my dear. They’re only jealous, Tom, because he
 won’t give it to them.”
 
 “Ah!” cried Tom, triumphantly, “that’s where it is! He has cleaned me
-out. But I can go and earn some more, when I like; can’t I, Fagin?”
+out. But I can go and earn some more, when I like; can’t I, [[Fagin]]?”
 
 “To be sure you can, and the sooner you go the better, Tom; so make up
-your loss at once, and don’t lose any more time. Dodger! Charley! It’s
-time you were on the lay. Come! It’s near ten, and nothing done yet.”
+your loss at once, and don’t lose any more [[Time|time]]. Dodger! Charley! It’s
+[[Time|time]] you were on the lay. Come! It’s near ten, and nothing done yet.”
 
-In obedience to this hint, the boys, nodding to Nancy, took up their
+In obedience to this hint, the boys, nodding to [[Nancy]], took up their
 hats, and left the room; the Dodger and his vivacious friend indulging,
 as they went, in many witticisms at the expense of Mr. Chitling; in
 whose conduct, it is but justice to say, there was nothing very
@@ -327,11 +327,11 @@ Chitling for being seen in good society: and a great number of fine
 gentlemen (composing the good society aforesaid) who established their
 reputation upon very much the same footing as flash Toby Crackit.
 
-“Now,” said Fagin, when they had left the room, “I’ll go and get you
-that cash, Nancy. This is only the key of a little cupboard where I
+“Now,” said [[Fagin]], when they had left the room, “I’ll go and get you
+that cash, [[Nancy]]. This is only the key of a little cupboard where I
 keep a few odd things the boys get, my dear. I never lock up my money,
 for I’ve got none to lock up, my dear—ha! ha! ha!—none to lock up. It’s
-a poor trade, Nancy, and no thanks; but I’m fond of seeing the young
+a poor trade, [[Nancy]], and no thanks; but I’m fond of seeing the young
 people about me; and I bear it all, I bear it all. Hush!” he said,
 hastily concealing the key in his breast; “who’s that? Listen!”
 
@@ -339,11 +339,11 @@ The girl, who was sitting at the table with her arms folded, appeared
 in no way interested in the arrival: or to care whether the person,
 whoever he was, came or went: until the murmur of a man’s voice reached
 her ears. The instant she caught the sound, she tore off her bonnet and
-shawl, with the rapidity of lightning, and thrust them under the table.
+shawl, with the rapidity of [[Lightning|lightning]], and thrust them under the table.
 The Jew, turning round immediately afterwards, she muttered a complaint
 of the heat: in a tone of languor that contrasted, very remarkably,
 with the extreme haste and violence of this action: which, however, had
-been unobserved by Fagin, who had his back towards her at the time.
+been unobserved by [[Fagin]], who had his back towards her at the [[Time|time]].
 
 “Bah!” he whispered, as though nettled by the interruption; “it’s the
 man I expected before; he’s coming downstairs. Not a word about the
@@ -355,48 +355,48 @@ the door, as a man’s step was heard upon the stairs without. He reached
 it, at the same moment as the visitor, who, coming hastily into the
 room, was close upon the girl before he observed her.
 
-It was Monks.
+It was [[Monks]].
 
-“Only one of my young people,” said Fagin, observing that Monks drew
-back, on beholding a stranger. “Don’t move, Nancy.”
+“Only one of my young people,” said [[Fagin]], observing that [[Monks]] drew
+back, on beholding a stranger. “Don’t move, [[Nancy]].”
 
-The girl drew closer to the table, and glancing at Monks with an air of
-careless levity, withdrew her eyes; but as he turned towards Fagin, she
+The girl drew closer to the table, and glancing at [[Monks]] with an air of
+careless levity, withdrew her eyes; but as he turned towards [[Fagin]], she
 stole another look; so keen and searching, and full of purpose, that if
 there had been any bystander to observe the change, he could hardly
 have believed the two looks to have proceeded from the same person.
 
-“Any news?” inquired Fagin.
+“Any news?” inquired [[Fagin]].
 
 “Great.”
 
-“And—and—good?” asked Fagin, hesitating as though he feared to vex the
+“And—and—good?” asked [[Fagin]], hesitating as though he feared to vex the
 other man by being too sanguine.
 
-“Not bad, any way,” replied Monks with a smile. “I have been prompt
-enough this time. Let me have a word with you.”
+“Not bad, any way,” replied [[Monks]] with a smile. “I have been prompt
+enough this [[Time|time]]. Let me have a word with you.”
 
 The girl drew closer to the table, and made no offer to leave the room,
-although she could see that Monks was pointing to her. The Jew: perhaps
+although she could see that [[Monks]] was pointing to her. The Jew: perhaps
 fearing she might say something aloud about the money, if he
-endeavoured to get rid of her: pointed upward, and took Monks out of
+endeavoured to get rid of her: pointed upward, and took [[Monks]] out of
 the room.
 
 “Not that infernal hole we were in before,” she could hear the man say
-as they went upstairs. Fagin laughed; and making some reply which did
+as they went upstairs. [[Fagin]] laughed; and making some reply which did
 not reach her, seemed, by the creaking of the boards, to lead his
 companion to the second story.
 
 Before the sound of their footsteps had ceased to echo through the
-house, the girl had slipped off her shoes; and drawing her gown loosely
+[[house]], the girl had slipped off her shoes; and drawing her gown loosely
 over her head, and muffling her arms in it, stood at the door,
 listening with breathless interest. The moment the noise ceased, she
 glided from the room; ascended the stairs with incredible softness and
-silence; and was lost in the gloom above.
+[[Silence|silence]]; and was lost in the gloom above.
 
 The room remained deserted for a quarter of an hour or more; the girl
 glided back with the same unearthly tread; and, immediately afterwards,
-the two men were heard descending. Monks went at once into the street;
+the two men were heard descending. [[Monks]] went at once into the street;
 and the Jew crawled upstairs again for the money. When he returned, the
 girl was adjusting her shawl and bonnet, as if preparing to be gone.
 
@@ -412,9 +412,9 @@ steadily at him.
 know how long and all,” replied the girl carelessly. “Come! Let me get
 back; that’s a dear.”
 
-With a sigh for every piece of money, Fagin told the amount into her
+With a sigh for every piece of money, [[Fagin]] told the amount into her
 hand. They parted without more conversation, merely interchanging a
-“good-night.”
+“good-[[Night|night]].”
 
 When the girl got into the open street, she sat down upon a doorstep;
 and seemed, for a few moments, wholly bewildered and unable to pursue
@@ -423,12 +423,12 @@ opposite to that in which Sikes was awaiting her return, quickened
 her pace, until it gradually resolved into a violent run. After
 completely exhausting herself, she stopped to take breath: and, as if
 suddenly recollecting herself, and deploring her inability to do
-something she was bent upon, wrung her hands, and burst into tears.
+something she was bent upon, wrung her hands, and burst into [[Tears|tears]].
 
-It might be that her tears relieved her, or that she felt the full
+It might be that her [[Tears|tears]] relieved her, or that she felt the full
 hopelessness of her condition; but she turned back; and hurrying with
 nearly as great rapidity in the contrary direction; partly to recover
-lost time, and partly to keep pace with the violent current of her own
+lost [[Time|time]], and partly to keep pace with the violent current of her own
 thoughts: soon reached the dwelling where she had left the
 housebreaker.
 
@@ -441,11 +441,11 @@ slumbers which her arrival had interrupted.
 It was fortunate for her that the possession of money occasioned him so
 much employment next day in the way of eating and drinking; and withal
 had so beneficial an effect in smoothing down the asperities of his
-temper; that he had neither time nor inclination to be very critical
+temper; that he had neither [[Time|time]] nor inclination to be very critical
 upon her behaviour and deportment. That she had all the abstracted and
 nervous manner of one who is on the eve of some bold and hazardous
 step, which it has required no common struggle to resolve upon, would
-have been obvious to the lynx-eyed Fagin, who would most probably have
+have been obvious to the lynx-eyed [[Fagin]], who would most probably have
 taken the alarm at once; but Mr. Sikes lacking the niceties of
 discrimination, and being troubled with no more subtle misgivings than
 those which resolve themselves into a dogged roughness of behaviour
@@ -455,17 +455,17 @@ demeanor, and indeed, troubled himself so little about her, that, had
 her agitation been far more perceptible than it was, it would have been
 very unlikely to have awakened his suspicions.
 
-As that day closed in, the girl’s excitement increased; and, when night
+As that day closed in, the girl’s excitement increased; and, when [[Night|night]]
 came on, and she sat by, watching until the housebreaker should drink
-himself asleep, there was an unusual paleness in her cheek, and a fire
+himself asleep, there was an unusual paleness in her cheek, and a [[Fire|fire]]
 in her eye, that even Sikes observed with astonishment.
 
-Mr. Sikes being weak from the fever, was lying in bed, taking hot water
+Mr. Sikes being weak from the fever, was lying in bed, taking hot [[Water|water]]
 with his gin to render it less inflammatory; and had pushed his glass
-towards Nancy to be replenished for the third or fourth time, when
+towards [[Nancy]] to be replenished for the third or fourth [[Time|time]], when
 these symptoms first struck him.
 
-“Why, burn my body!” said the man, raising himself on his hands as he
+“Why, burn my [[Body|body]]!” said the man, raising himself on his hands as he
 stared the girl in the face. “You look like a corpse come to life
 again. What’s the matter?”
 
@@ -485,7 +485,7 @@ which had preceded them.
 
 “I tell you wot it is,” said Sikes; “if you haven’t caught the fever,
 and got it comin’ on, now, there’s something more than usual in the
-wind, and something dangerous too. You’re not a-going to—. No, damme!
+[[Wind|wind]], and something dangerous too. You’re not a-going to—. No, damme!
 you wouldn’t do that!”
 
 “Do what?” asked the girl.
@@ -496,7 +496,7 @@ have cut her throat three months ago. She’s got the fever coming on;
 that’s it.”
 
 Fortifying himself with this assurance, Sikes drained the glass to the
-bottom, and then, with many grumbling oaths, called for his physic. The
+[[Bottom|bottom]], and then, with many grumbling oaths, called for his physic. The
 girl jumped up, with great alacrity; poured it quickly out, but with
 her back towards him; and held the vessel to his lips, while he drank
 off the contents.
@@ -511,19 +511,19 @@ closed once more; again opened. He shifted his position restlessly;
 and, after dozing again, and again, for two or three minutes, and as
 often springing up with a look of terror, and gazing vacantly about
 him, was suddenly stricken, as it were, while in the very attitude of
-rising, into a deep and heavy sleep. The grasp of his hand relaxed; the
+rising, into a deep and heavy [[Sleep|sleep]]. The grasp of his hand relaxed; the
 upraised arm fell languidly by his side; and he lay like one in a
 profound trance.
 
-“The laudanum has taken effect at last,” murmured the girl, as she rose
+“The laudanum has taken effect at last,” murmured the girl, as she [[Rose|rose]]
 from the bedside. “I may be too late, even now.”
 
 She hastily dressed herself in her bonnet and shawl: looking fearfully
-round, from time to time, as if, despite the sleeping draught, she
+round, from [[Time|time]] to [[Time|time]], as if, despite the sleeping draught, she
 expected every moment to feel the pressure of Sikes’s heavy hand upon
 her shoulder; then, stooping softly over the bed, she kissed the
 robber’s lips; and then opening and closing the room-door with
-noiseless touch, hurried from the house.
+noiseless touch, hurried from the [[house]].
 
 A watchman was crying half-past nine, down a dark passage through which
 she had to pass, in gaining the main thoroughfare.
@@ -533,12 +533,12 @@ she had to pass, in gaining the main thoroughfare.
 “It’ll strike the hour in another quarter,” said the man: raising his
 lantern to her face.
 
-“And I cannot get there in less than an hour or more,” muttered Nancy:
+“And I cannot get there in less than an hour or more,” muttered [[Nancy]]:
 brushing swiftly past him, and gliding rapidly down the street.
 
 Many of the shops were already closing in the back lanes and avenues
 through which she tracked her way, in making from Spitalfields towards
-the West-End of London. The clock struck ten, increasing her
+the West-End of [[London]]. The [[Clock|clock]] struck ten, increasing her
 impatience. She tore along the narrow pavement: elbowing the passengers
 from side to side; and darting almost under the horses’ heads, crossed
 crowded streets, where clusters of persons were eagerly watching their
@@ -552,12 +552,12 @@ comparatively deserted; and here her headlong progress excited a still
 greater curiosity in the stragglers whom she hurried past. Some
 quickened their pace behind, as though to see whither she was hastening
 at such an unusual rate; and a few made head upon her, and looked back,
-surprised at her undiminished speed; but they fell off one by one; and
-when she neared her place of destination, she was alone.
+surprised at her undiminished [[Speed|speed]]; but they fell off one by one; and
+when she neared her place of destination, she was [[Alone|alone]].
 
 It was a family hotel in a quiet but handsome street near Hyde Park. As
 the brilliant light of the lamp which burnt before its door, guided her
-to the spot, the clock struck eleven. She had loitered for a few paces
+to the spot, the [[Clock|clock]] struck eleven. She had loitered for a few paces
 as though irresolute, and making up her mind to advance; but the sound
 determined her, and she stepped into the hall. The porter’s seat was
 vacant. She looked round with an air of incertitude, and advanced
@@ -566,19 +566,19 @@ towards the stairs.
 “Now, young woman!” said a smartly-dressed female, looking out from a
 door behind her, “who do you want here?”
 
-“A lady who is stopping in this house,” answered the girl.
+“A lady who is stopping in this [[house]],” answered the girl.
 
 “A lady!” was the reply, accompanied with a scornful look. “What lady?”
 
-“Miss Maylie,” said Nancy.
+“Miss Maylie,” said [[Nancy]].
 
-The young woman, who had by this time, noted her appearance, replied
+The young woman, who had by this [[Time|time]], noted her appearance, replied
 only by a look of virtuous disdain; and summoned a man to answer her.
-To him, Nancy repeated her request.
+To him, [[Nancy]] repeated her request.
 
 “What name am I to say?” asked the waiter.
 
-“It’s of no use saying any,” replied Nancy.
+“It’s of no use saying any,” replied [[Nancy]].
 
 “Nor business?” said the man.
 
@@ -601,7 +601,7 @@ to interfere.
 “What’s the good?” replied the man. “You don’t suppose the young lady
 will see such as her; do you?”
 
-This allusion to Nancy’s doubtful character, raised a vast quantity of
+This allusion to [[Nancy]]’s doubtful character, raised a vast quantity of
 chaste wrath in the bosoms of four housemaids, who remarked, with great
 fervour, that the creature was a disgrace to her sex; and strongly
 advocated her being thrown, ruthlessly, into the kennel.
@@ -615,8 +615,8 @@ the man who had first appeared undertook its delivery.
 
 “What’s it to be?” said the man, with one foot on the stairs.
 
-“That a young woman earnestly asks to speak to Miss Maylie alone,” said
-Nancy; “and that if the lady will only hear the first word she has to
+“That a young woman earnestly asks to speak to Miss Maylie [[Alone|alone]],” said
+[[Nancy]]; “and that if the lady will only hear the first word she has to
 say, she will know whether to hear her business, or to have her turned
 out of doors as an impostor.”
 
@@ -625,7 +625,7 @@ out of doors as an impostor.”
 “You give the message,” said the girl firmly; “and let me hear the
 answer.”
 
-The man ran upstairs. Nancy remained, pale and almost breathless,
+The man ran upstairs. [[Nancy]] remained, pale and almost breathless,
 listening with quivering lip to the very audible expressions of scorn,
 of which the chaste housemaids were very prolific; and of which they
 became still more so, when the man returned, and said the young woman
@@ -633,13 +633,13 @@ was to walk upstairs.
 
 “It’s no good being proper in this world,” said the first housemaid.
 
-“Brass can do better than the gold what has stood the fire,” said the
+“Brass can do better than the gold what has stood the [[Fire|fire]],” said the
 second.
 
 The third contented herself with wondering “what ladies was made of”;
 and the fourth took the first in a quartette of “Shameful!” with which
 the Dianas concluded.
 
-Regardless of all this: for she had weightier matters at heart: Nancy
+Regardless of all this: for she had weightier matters at heart: [[Nancy]]
 followed the man, with trembling limbs, to a small ante-chamber,
 lighted by a lamp from the ceiling. Here he left her, and retired.

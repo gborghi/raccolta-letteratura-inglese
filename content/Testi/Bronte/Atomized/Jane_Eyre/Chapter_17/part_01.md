@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 17 (part 1)"
+title: "[[Jane Eyre]] — Chapter 17 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -19,7 +19,7 @@ CHAPTER XVII
 
 A week passed, and no news arrived of Mr. Rochester: ten days, and
 still he did not come. Mrs. Fairfax said she should not be surprised if
-he were to go straight from the Leas to London, and thence to the
+he were to go straight from the Leas to [[London]], and thence to the
 Continent, and not show his face again at Thornfield for a year to
 come; he had not unfrequently quitted it in a manner quite as abrupt
 and unexpected. When I heard this, I was beginning to feel a strange
@@ -38,8 +38,8 @@ grateful for such respectful and kind treatment as, if you do your
 duty, you have a right to expect at his hands. Be sure that is the only
 tie he seriously acknowledges between you and him; so don’t make him
 the object of your fine feelings, your raptures, agonies, and so forth.
-He is not of your order: keep to your caste, and be too self-respecting
-to lavish the love of the whole heart, soul, and strength, where such a
+He is not of your order: keep to your caste, and be too [[Self|self]]-respecting
+to lavish the [[Love|love]] of the whole heart, [[Soul|soul]], and strength, where such a
 gift is not wanted and would be despised.”
 
 I went on with my day’s business tranquilly; but ever and anon vague
@@ -56,11 +56,11 @@ I suppose we shall know whether we are to expect his return or not.”
 
 And while she broke the seal and perused the document, I went on taking
 my coffee (we were at breakfast): it was hot, and I attributed to that
-circumstance a fiery glow which suddenly rose to my face. Why my hand
+circumstance a fiery glow which suddenly [[Rose|rose]] to my face. Why my hand
 shook, and why I involuntarily spilt half the contents of my cup into
 my saucer, I did not choose to consider.
 
-“Well, I sometimes think we are too quiet; but we run a chance of being
+“[[Well]], I sometimes think we are too quiet; but we run a chance of being
 busy enough now: for a little while at least,” said Mrs. Fairfax, still
 holding the note before her spectacles.
 
@@ -70,18 +70,18 @@ another bun and refilled her mug with milk, I said, nonchalantly—
 
 “Mr. Rochester is not likely to return soon, I suppose?”
 
-“Indeed he is—in three days, he says: that will be next Thursday; and
-not alone either. I don’t know how many of the fine people at the Leas
+“Indeed he is—in three days, he says: that will be next [[thursday|Thursday]]; and
+not [[Alone|alone]] either. I don’t know how many of the fine people at the Leas
 are coming with him: he sends directions for all the best bedrooms to
 be prepared; and the library and drawing-rooms are to be cleaned out; I
 am to get more kitchen hands from the George Inn, at Millcote, and from
 wherever else I can; and the ladies will bring their maids and the
-gentlemen their valets: so we shall have a full house of it.” And Mrs.
+gentlemen their valets: so we shall have a full [[house]] of it.” And Mrs.
 Fairfax swallowed her breakfast and hastened away to commence
 operations.
 
 The three days were, as she had foretold, busy enough. I had thought
-all the rooms at Thornfield beautifully clean and well arranged; but it
+all the rooms at Thornfield beautifully clean and [[Well|well]] arranged; but it
 appears I was mistaken. Three women were got to help; and such
 scrubbing, such brushing, such washing of paint and beating of carpets,
 such taking down and putting up of pictures, such polishing of mirrors
@@ -97,11 +97,11 @@ piled-up bolsters and pillows before the enormous fires roaring in the
 chimneys. From school duties she was exonerated: Mrs. Fairfax had
 pressed me into her service, and I was all day in the storeroom,
 helping (or hindering) her and the cook; learning to make custards and
-cheese-cakes and French pastry, to truss game and garnish
-desert-dishes.
+[[cheese]]-cakes and French pastry, to truss game and garnish
+[[Desert|desert]]-dishes.
 
-The party were expected to arrive on Thursday afternoon, in time for
-dinner at six. During the intervening period I had no time to nurse
+The party were expected to arrive on [[thursday|Thursday]] afternoon, in [[Time|time]] for
+dinner at six. During the intervening period I had no [[Time|time]] to [[Nurse|nurse]]
 chimeras; and I believe I was as active and gay as anybody—Adèle
 excepted. Still, now and then, I received a damping check to my
 cheerfulness; and was, in spite of myself, thrown back on the region of
@@ -117,7 +117,7 @@ on. She would thus descend to the kitchen once a day, eat her dinner,
 smoke a moderate pipe on the hearth, and go back, carrying her pot of
 porter with her, for her private solace, in her own gloomy, upper
 haunt. Only one hour in the twenty-four did she pass with her
-fellow-servants below; all the rest of her time was spent in some
+fellow-servants below; all the rest of her [[Time|time]] was spent in some
 low-ceiled, oaken chamber of the second storey: there she sat and
 sewed—and probably laughed drearily to herself,—as companionless as a
 prisoner in his dungeon.

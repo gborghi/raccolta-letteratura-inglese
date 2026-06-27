@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Chapter 1: PAGE (part 2)"
+title: "[[ApprAndCritOfChDickens]] — Chapter 1: PAGE (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-through human history, that while reaction is indefensible, revolution
+through human [[history]], that while reaction is indefensible, revolution
 
 is unnecessary. Thackeray seems to have been quite content to think that
 
@@ -36,17 +36,17 @@ Dickens was a Socialist, but it is not absurd to say so. And it would
 
 be simply absurd to say it of any of the great Individualist novelists
 
-of the Victorian time. Dickens saw far enough ahead to know that the
+of the Victorian [[Time|time]]. Dickens saw far enough ahead to know that the
 
-time was coming when the people would be imploring the State to save
+[[Time|time]] was coming when the people would be imploring the State to save
 
-them from mere freedom, as from some frightful foreign oppressor. He
+them from mere [[Freedom|freedom]], as from some frightful foreign oppressor. He
 
 felt the society changing; and Thackeray never did.
 
 
 
-As talking about Socialism and Individualism is one of the greatest
+As talking about Socialism and [[Individualism]] is one of the greatest
 
 bores ever endured among men, I will take another instance to illustrate
 
@@ -62,23 +62,23 @@ there is an odd thing about which I cannot make up my mind; I do not
 
 know whether it is unconscious observation or fiendish irony. But it is
 
-this. In _Our Mutual Friend_ is an old patriarch named Aaron, who is a
+this. In _Our Mutual Friend_ is an old patriarch named [[Aaron]], who is a
 
 saintly Jew made to do the dirty work of an abominable Christian usurer.
 
-In an artistic sense I think the patriarch Aaron as much of a humbug as
+In an artistic sense I think the patriarch [[Aaron]] as much of a humbug as
 
-the patriarch Casby. In a moral sense there is no doubt at all that
+the patriarch Casby. In a moral sense there is no [[Doubt|doubt]] at all that
 
 Dickens introduced the Jew with a philanthropic idea of doing justice to
 
 Judaism, which he was told he had affronted by the great gargoyle of
 
-Fagin. If this was his motive, it was morally a most worthy one. But it
+[[Fagin]]. If this was his motive, it was morally a most worthy one. But it
 
 is certainly unfortunate for the Hebrew cause that the bad Jew should be
 
-so very much more convincing than the good one. Old Aaron is not an
+so very much more convincing than the good one. Old [[Aaron]] is not an
 
 exaggeration of Jewish virtues; he is simply not Jewish, because he is
 
@@ -116,7 +116,7 @@ furniture--of what stock was he? Mr. Lammle, with "too much nose in his
 
 face, too much ginger in his whiskers, too much sparkle in his studs and
 
-manners"--of what blood was he? Mr. Lammle's friends, coarse and
+manners"--of what [[Blood|blood]] was he? Mr. Lammle's friends, coarse and
 
 thick-lipped, with fingers so covered with rings that they could hardly
 
@@ -138,11 +138,11 @@ if he put in one good Jew whom nobody could believe in, and then
 
 balanced him with ten bad Jews whom nobody could fail to recognise. It
 
-seems as if he had avenged himself for the doubt about Fagin by
+seems as if he had avenged himself for the [[Doubt|doubt]] about [[Fagin]] by
 
 introducing five or six Fagins--triumphant Fagins, fashionable Fagins,
 
-Fagins who had changed their names. The impeccable old Aaron stands up
+Fagins who had changed their names. The impeccable old [[Aaron]] stands up
 
 in the middle of this ironic carnival with a peculiar solemnity and
 
@@ -156,13 +156,13 @@ be Englishmen.
 
 But this notion of a sneer is not admissible. Dickens was far too frank
 
-and generous a writer to employ such an elaborate plot of silence. His
+and generous a writer to employ such an elaborate plot of [[Silence|silence]]. His
 
-satire was always intended to attack, never to entrap; moreover, he was
+[[Satire|satire]] was always intended to attack, never to entrap; moreover, he was
 
-far too vain a man not to wish the crowd to see all his jokes. Vanity is
+far too vain a man not to wish the crowd to see all his jokes. [[Vanity]] is
 
-more divine than pride, because it is more democratic than pride. Third,
+more divine than [[Pride|pride]], because it is more democratic than [[Pride|pride]]. Third,
 
 and most important, Dickens was a good Liberal, and would have been
 
@@ -184,7 +184,7 @@ and cosmopolitan financier without even knowing that it was oriental or
 
 cosmopolitan. He had, in fact, fallen a victim to a very simple fallacy
 
-affecting this problem. Somebody said, with great wit and truth, that
+affecting this problem. Somebody said, with great wit and [[Truth|truth]], that
 
 treason cannot prosper, because when it prospers it cannot be called
 

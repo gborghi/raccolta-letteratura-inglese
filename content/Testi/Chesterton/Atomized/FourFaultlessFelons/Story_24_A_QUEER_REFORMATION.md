@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — A QUEER REFORMATION"
+title: "[[FourFaultlessFelons]] — A QUEER [[Reformation|REFORMATION]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-III A QUEER REFORMATION
+III A QUEER [[Reformation|REFORMATION]]

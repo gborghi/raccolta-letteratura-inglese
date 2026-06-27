@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 29 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 29 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,7 +22,7 @@ tags:
 
 Those were four miserable months, alternating between intense anxiety,
 
-despair, and indignation, pity for him and pity for myself. And yet,
+[[Despair|despair]], and indignation, pity for him and pity for myself. And yet,
 
 through all, I was not wholly comfortless: I had my darling, sinless,
 
@@ -38,17 +38,17 @@ But I remembered that I had brought all these afflictions, in a manner
 
 wilfully, upon myself; and I determined to bear them without a murmur.
 
-At the same time I resolved not to give myself up to misery for the
+At the same [[Time|time]] I resolved not to give myself up to misery for the
 
 transgressions of another, and endeavoured to divert myself as much as
 
-I could; and besides the companionship of my child, and my dear,
+I could; and besides the companionship of my [[Child|child]], and my dear,
 
 faithful Rachel, who evidently guessed my sorrows and felt for them,
 
 though she was too discreet to allude to them, I had my books and
 
-pencil, my domestic affairs, and the welfare and comfort of Arthur’s
+pencil, my domestic affairs, and the welfare and comfort of [[arthur|Arthur]]’s
 
 poor tenants and labourers to attend to: and I sometimes sought and
 
@@ -56,41 +56,41 @@ obtained amusement in the company of my young friend Esther Hargrave:
 
 occasionally I rode over to see her, and once or twice I had her to
 
-spend the day with me at the Manor. Mrs. Hargrave did not visit London
+spend the day with me at the Manor. Mrs. Hargrave did not visit [[London]]
 
-that season: having no daughter to marry, she thought it as well to
+that season: having no daughter to marry, she thought it as [[Well|well]] to
 
-stay at home and economise; and, for a wonder, Walter came down to join
+stay at [[Home|home]] and economise; and, for a [[Wonder|wonder]], Walter came down to join
 
 her in the beginning of June, and stayed till near the close of August.
 
 
 
-The first time I saw him was on a sweet, warm evening, when I was
+The first [[Time|time]] I saw him was on a sweet, warm evening, when I was
 
-sauntering in the park with little Arthur and Rachel, who is head-nurse
+sauntering in the park with little [[arthur|Arthur]] and Rachel, who is head-[[Nurse|nurse]]
 
 and lady’s-maid in one—for, with my secluded life and tolerably active
 
 habits, I require but little attendance, and as she had nursed me and
 
-coveted to nurse my child, and was moreover so very trustworthy, I
+coveted to [[Nurse|nurse]] my [[Child|child]], and was moreover so very trustworthy, I
 
 preferred committing the important charge to her, with a young
 
 nursery-maid under her directions, to engaging any one else: besides,
 
-it saves money; and since I have made acquaintance with Arthur’s
+it saves money; and since I have made acquaintance with [[arthur|Arthur]]’s
 
 affairs, I have learnt to regard that as no trifling recommendation;
 
-for, by my own desire, nearly the whole of the income of my fortune is
+for, by my own [[Desire|desire]], nearly the whole of the income of my fortune is
 
 devoted, for years to come, to the paying off of his debts, and the
 
-money he contrives to squander away in London is incomprehensible. But
+money he contrives to squander away in [[London]] is incomprehensible. But
 
-to return to Mr. Hargrave. I was standing with Rachel beside the water,
+to return to Mr. Hargrave. I was standing with Rachel beside the [[Water|water]],
 
 amusing the laughing baby in her arms with a twig of willow laden with
 
@@ -114,19 +114,19 @@ pleasure of my company to a friendly family dinner to-morrow.
 
 anxious to see you; and my mother fears you will feel solitary in this
 
-great house so much alone, and wishes she could persuade you to give
+[[Great House|great house]] so much [[Alone|alone]], and wishes she could persuade you to give
 
 her the pleasure of your company more frequently, and make yourself at
 
-home in our more humble dwelling, till Mr. Huntingdon’s return shall
+[[Home|home]] in our more humble dwelling, till Mr. Huntingdon’s return shall
 
 render this a little more conducive to your comfort.”
 
 
 
-“She is very kind,” I answered, “but I am not alone, you see;—and those
+“She is very kind,” I answered, “but I am not [[Alone|alone]], you see;—and those
 
-whose time is fully occupied seldom complain of solitude.”
+whose [[Time|time]] is fully occupied seldom complain of [[Solitude|solitude]].”
 
 
 
@@ -136,7 +136,7 @@ you refuse.”
 
 
 
-I did not relish being thus compassionated for my loneliness; but,
+I did not relish being thus compassionated for my [[Loneliness|loneliness]]; but,
 
 however, I promised to come.
 
@@ -144,7 +144,7 @@ however, I promised to come.
 
 “What a sweet evening this is!” observed he, looking round upon the
 
-sunny park, with its imposing swell and slope, its placid water, and
+sunny park, with its imposing swell and slope, its placid [[Water|water]], and
 
 majestic clumps of trees. “And what a paradise you live in!”
 
@@ -154,7 +154,7 @@ majestic clumps of trees. “And what a paradise you live in!”
 
 I had felt its loveliness, and how little of a paradise sweet Grassdale
 
-was to me—how still less to the voluntary exile from its scenes.
+was to me—how still less to the voluntary [[Exile|exile]] from its scenes.
 
 Whether Mr. Hargrave divined my thoughts, I cannot tell, but, with a
 
@@ -174,7 +174,7 @@ the ground.
 
 
 
-“Are you not lately returned from London?” I asked.
+“Are you not lately returned from [[London]]?” I asked.
 
 
 
@@ -190,13 +190,13 @@ the ground.
 
 
 
-“Was he well?”
+“Was he [[Well|well]]?”
 
 
 
 “Yes—that is,” said he, with increasing hesitation and an appearance of
 
-suppressed indignation, “he was as well as—as he deserved to be, but
+suppressed indignation, “he was as [[Well|well]] as—as he deserved to be, but
 
 under circumstances I should have deemed incredible for a man so
 
@@ -236,8 +236,8 @@ occupations, they are quite beyond me—lonely wanderer as I am. Where I
 
 have but sipped and tasted, he drains the cup to the dregs; and if ever
 
-for a moment I have sought to drown the voice of reflection in madness
+for a moment I have sought to drown the voice of reflection in [[Madness|madness]]
 
-and folly, or if I have wasted too much of my time and talents among
+and folly, or if I have wasted too much of my [[Time|time]] and talents among
 
 reckless and dissipated companions, God knows I would gladly renounce

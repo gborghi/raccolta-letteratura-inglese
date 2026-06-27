@@ -16,25 +16,25 @@ tags:
 
 THE PROTESTANT SUPERSTITIONS
 
-THAT delightful guessing game, which has long caused innocent merriment
+THAT delightful guessing game, which has long caused [[Innocent|innocent]] merriment
 in so many Catholic families, the game of guessing at exactly
 which line of an article say on Landscape or Latin Elegiacs, we shall
 find the Dean of St. Paul's introducing the Antidote to Antichrist;
 or the Popish Plot Revealed--that most familiar of our Catholic
-parlour games happened to be entertaining me some time ago,
+parlour games happened to be entertaining me some [[Time|time]] ago,
 as a sort of substitute for a crossword puzzle, when I found I had hit
 on a very lucky example.  I wrote above about "Catholic families,"
 and had almost, by force of associations written "Catholic firesides."
 And I imagine that the Dean really does think that even in this weather
-we keep the home-fires burning, like the fire of Vesta, in permanent
+we keep the [[Home|home]]-fires burning, like the [[Fire|fire]] of Vesta, in permanent
 expectation of relighting the fires of Smithfield.  Anyhow, this sort
 of guessing game or crossword puzzle is seldom disappointing.
-The Dean must by this time have tried quite a hundred ways of leading
+The Dean must by this [[Time|time]] have tried quite a hundred ways of leading
 up to his beloved topic; and even concealing it, like a masked battery,
 until he can let loose the cannonade in a perfect tornado of temper.
 Then the crossword puzzle is no longer a puzzle, though the crosswords
 are apparent and appropriate enough; especially those devoted
-to the great historical process of crossing out the Cross.
+to the great historical process of crossing out the [[Cross]].
 
 In the case of this particular article, it was only towards the end
 of it that the real subject was allowed to leap out from an ambush
@@ -48,7 +48,7 @@ But such a writer is not reasonable even when he is right.
 A man ought to have some more philosophical objection to stories
 of ill luck than merely calling them credulity; as certainly
 as a man ought to have some more philosophical objection
-to Mass than to call it Magic.  It is hardly a final refutation
+to Mass than to call it [[Magic]].  It is hardly a final refutation
 of Spiritualists to prove that they believe in Spirits; any more
 than a refutation of Deists to prove that they believe in Deity.
 Creed and credence and credulity are words of the same origin
@@ -69,13 +69,13 @@ in which the degraded apostate says that he is happy in his religion,
 and in being surrounded by the things of his religion; that he likes
 to have objects that have been blessed by the holy and beloved, that there
 is a sense of being protected by prayers, sacramentals and so on;
-and that happiness of this sort satisfies the soul.  The Dean,
+and that happiness of this sort satisfies the [[Soul|soul]].  The Dean,
 having given us this one ghastly glimpse of the Cardinal's spiritual
 condition, drops the curtain with a groan and says it is Paganism.
 How different from the Christian orthodoxy of Plotinus!
 
 Now it was exactly that little glimpse that interested me in this matter;
-not so much a glimpse into the soul of the Cardinal as into
+not so much a glimpse into the [[Soul|soul]] of the Cardinal as into
 the mind of the Dean.  I suddenly seemed to see, in much simpler
 form than I had yet realised, the real issue between him and us.
 And the curious thing about the issue is this; that what he thinks
@@ -95,20 +95,20 @@ I mean that it is in a special sense a LOCAL superstition.
 
 Dean Inge is a superstitious person because he is worshipping a relic;
 a relic in the sense of a remnant.  He is idolatrously adoring
-the broken fragment of something; simply because that something
+the broken [[Fragment|fragment]] of something; simply because that something
 happens to have lingered out of the past in the place called England;
-in the rather battered form called Protestant Christianity.
+in the rather battered form called Protestant [[Christianity]].
 It is as if a local patriot were to venerate the statue of Our Lady
 of Walsingham only because she was in Walsingham and without
 even remembering that she was in Heaven.  It is still more as
-if he venerated a fragment chipped from the toe of the statue
+if he venerated a [[Fragment|fragment]] chipped from the toe of the statue
 and forgot where it came from and ignored Our Lady altogether.
 I do not think it superstitious to respect the chip in relation
 to the statue, or the statue in relation to the saint,
-or the saint in relation to the scheme of theology and philosophy.
+or the saint in relation to the scheme of theology and [[philosophy]].
 But I do think it superstitious to venerate, or even to accept,
-the fragment because it happens to be there.  And Dean Inge does accept
-the fragment called Protestantism because it happens to be there.
+the [[Fragment|fragment]] because it happens to be there.  And Dean Inge does accept
+the [[Fragment|fragment]] called Protestantism because it happens to be there.
 
 Let us for a moment consider the whole matter as philosophers should;
 in a universal air above all local superstitions like the Dean's. It
@@ -125,10 +125,10 @@ which accepts the general idea that the world has a design
 and therefore a designer; but feels the Architect of the Universe
 to be inscrutable and remote, as remote from men as from microbes.
 That sort of theism is perfectly sane; and is really the ancient
-basis of the solid if somewhat stagnant sanity of Islam.
+basis of the solid if somewhat stagnant [[Sanity|sanity]] of [[Islam]].
 There is again the man who feels the burden of life so bitterly
-that he wishes to renounce all desire and all division, and rejoin
-a sort of spiritual unity and peace from which (as he thinks)
+that he wishes to renounce all [[Desire|desire]] and all division, and rejoin
+a sort of spiritual [[unity]] and peace from which (as he thinks)
 our separate selves should never have broken away.  That is the mood
 answered by buddhism and by many metaphysicians and mystics.
 Then there is a fourth sort of man, sometimes called a mystic
@@ -138,7 +138,7 @@ it is a twilight world and we know not where it ends.
 If we do not know enough for monotheism, neither do we know
 enough for monism.  There may be a borderland and a world beyond;
 but we can only catch hints of it as they come; we may meet
-a nymph in the forest; we may see the fairies on the mountains.
+a nymph in the forest; we may see the fairies on the [[Mountains|mountains]].
 We do not know enough about the natural to DENY the preternatural.
 That was, in ancient times, the healthiest aspect of Paganism.
 That is, in modern times, the rational part of Spiritualism.
@@ -152,7 +152,7 @@ of matter; the supreme spiritual power is now operating by the machinery
 of matter, dealing miraculously with the bodies and souls of men.
 It blesses all the five senses; as the senses of the baby are
 blessed at a Catholic christening.  It blesses even material gifts
-and keepsakes, as with relics or rosaries.  It works through water
+and keepsakes, as with relics or rosaries.  It works through [[Water|water]]
 or oil or bread or wine.  Now that sort of mystical materialism
 may please or displease the Dean, or anybody else.  But I cannot
 for the life of me understand why the Dean, or anybody else, does not
@@ -162,15 +162,15 @@ A Puritan may think it blasphemous that God should become a wafer.
 A Moslem thinks it blasphemous that God should become a workman
 in Galilee.  And he is perfectly right, from his point of view;
 and given his primary principle.  But if the Moslem has a principle,
-the Protestant has only a prejudice.  That is, he has only a fragment;
+the Protestant has only a prejudice.  That is, he has only a [[Fragment|fragment]];
 a relic; a superstition.  If it be profane that the miraculous should
 descend to the plane of matter, then certainly Catholicism is profane;
-and Protestantism is profane; and Christianity is profane.
-Of all human creeds or concepts, in that sense, Christianity is
+and Protestantism is profane; and [[Christianity]] is profane.
+Of all human creeds or concepts, in that sense, [[Christianity]] is
 the most utterly profane.  But why a man should accept a Creator who
-was a carpenter, and then worry about holy water, why he should accept
+was a carpenter, and then worry about holy [[Water|water]], why he should accept
 a local Protestant tradition that God was born in some particular
-place mentioned in the Bible, merely because the Bible had been
+place mentioned in the [[Bible]], merely because the [[Bible]] had been
 left lying about in England, and then say it is incredible that a
 blessing should linger on the bones of a saint, why he should accept
 the first and most stupendous part of the story of Heaven on Earth,

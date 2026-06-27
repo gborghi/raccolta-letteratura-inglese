@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 13 (part 1)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 13 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -28,9 +28,9 @@ placed, ignorant of our position, although certainly at a great
 
 distance from land, without more food than would last us for a
 
-fortnight even with great care, almost entirely without water, and
+fortnight even with great care, almost entirely without [[Water|water]], and
 
-floating about at the mercy of every wind and wave, on the merest wreck
+floating about at the [[Mercy|mercy]] of every [[Wind|wind]] and wave, on the merest wreck
 
 in the world, still the infinitely more terrible distresses and dangers
 
@@ -46,13 +46,13 @@ At sunrise we were preparing to renew our attempts at getting up
 
 something from the storeroom, when, a smart shower coming on, with some
 
-lightning, we turned our attention to the catching of water by means of
+[[Lightning|lightning]], we turned our attention to the catching of [[Water|water]] by means of
 
 the sheet we had used before for this purpose. We had no other means of
 
 collecting the rain than by holding the sheet spread out with one of
 
-the forechain-plates in the middle of it. The water, thus conducted to
+the forechain-plates in the middle of it. The [[Water|water]], thus conducted to
 
 the centre, was drained through into our jug. We had nearly filled it
 
@@ -68,19 +68,19 @@ awaited the event with far more calmness than could have been
 
 anticipated, or would have been imagined possible under the
 
-circumstances. At noon the wind had freshened into a two-reef breeze,
+circumstances. At [[Noon|noon]] the [[Wind|wind]] had freshened into a two-reef breeze,
 
-and by night into a stiff gale, accompanied with a tremendously heavy
+and by [[Night|night]] into a stiff gale, accompanied with a tremendously heavy
 
 swell. Experience having taught us, however, the best method of
 
-arranging our lashings, we weathered this dreary night in tolerable
+arranging our lashings, we weathered this dreary [[Night|night]] in tolerable
 
 security, although thoroughly drenched at almost every instant by the
 
 sea, and in momentary dread of being washed off. Fortunately, the
 
-weather was so warm as to render the water rather grateful than
+weather was so warm as to render the [[Water|water]] rather grateful than
 
 otherwise.
 
@@ -92,7 +92,7 @@ breeze, and the sea had gone down with it so considerably that we were
 
 able to keep ourselves dry upon the deck. To our great grief, however,
 
-we found that two jars of our olives, as well as the whole of our ham,
+we found that two jars of our olives, as [[Well|well]] as the whole of our ham,
 
 had been washed overboard, in spite of the careful manner in which they
 
@@ -100,7 +100,7 @@ had been fastened. We determined not to kill the tortoise as yet, and
 
 contented ourselves for the present with a breakfast on a few of the
 
-olives, and a measure of water each, which latter we mixed, half and
+olives, and a measure of [[Water|water]] each, which latter we mixed, half and
 
 half, with wine, finding great relief and strength from the mixture,
 
@@ -118,9 +118,9 @@ now observed that the hulk lay more along than ever, so that we could
 
 not stand an instant without lashing ourselves. On this account we
 
-passed a gloomy and uncomfortable day. At noon the sun appeared to be
+passed a gloomy and uncomfortable day. At [[Noon|noon]] the sun appeared to be
 
-nearly vertical, and we had no doubt that we had been driven down by
+nearly vertical, and we had no [[Doubt|doubt]] that we had been driven down by
 
 the long succession of northward and northwesterly winds into the near
 
@@ -128,9 +128,9 @@ vicinity of the equator. Towards evening saw several sharks, and were
 
 somewhat alarmed by the audacious manner in which an enormously large
 
-one approached us. At one time, a lurch throwing the deck very far
+one approached us. At one [[Time|time]], a lurch throwing the deck very far
 
-beneath the water, the monster actually swam in upon us, floundering
+beneath the [[Water|water]], the [[Monster|monster]] actually swam in upon us, floundering
 
 for some moments just over the companion-hatch, and striking Peters
 
@@ -142,7 +142,7 @@ him.
 
 
 
-_July 26._ This morning, the wind having greatly abated, and the sea
+_July 26._ This morning, the [[Wind|wind]] having greatly abated, and the sea
 
 not being very rough, we determined to renew our exertions in the
 
@@ -150,15 +150,15 @@ storeroom. After a great deal of hard labour during the whole day, we
 
 found that nothing further was to be expected from this quarter, the
 
-partitions of the room having been stove during the night, and its
+partitions of the room having been stove during the [[Night|night]], and its
 
 contents swept into the hold. This discovery, as may be supposed,
 
-filled us with despair.
+filled us with [[Despair|despair]].
 
 
 
-_July 27._ The sea nearly smooth, with a light wind, and still from the
+_July 27._ The sea nearly smooth, with a light [[Wind|wind]], and still from the
 
 northward and westward. The sun coming out hotly in the afternoon, we
 
@@ -174,15 +174,15 @@ several of which were seen swimming around the brig during the day.
 
 _July 28._ Good weather still. The brig now began to lie along so
 
-alarmingly that we feared she would eventually roll bottom up. Prepared
+alarmingly that we feared she would eventually roll [[Bottom|bottom]] up. Prepared
 
-ourselves as well as we could for this emergency, lashing our tortoise,
+ourselves as [[Well|well]] as we could for this emergency, lashing our tortoise,
 
-water-jug, and two remaining jars of olives as far as possible over to
+[[Water|water]]-jug, and two remaining jars of olives as far as possible over to
 
-the windward, placing them outside the hull, below the main-chains. The
+the windward, placing them outside the hull, below the main-[[Chains|chains]]. The
 
-sea very smooth all day, with little or no wind.
+sea very smooth all day, with little or no [[Wind|wind]].
 
 
 
@@ -190,7 +190,7 @@ _July 29._ A continuance of the same weather. Augustus's wounded arm
 
 began to evince symptoms of mortification. He complained of drowsiness
 
-and excessive thirst, but no acute pain. Nothing could be done for his
+and excessive thirst, but no acute [[Pain|pain]]. Nothing could be done for his
 
 relief beyond rubbing his wounds with a little of the vinegar from the
 
@@ -198,11 +198,11 @@ olives, and from this no benefit seemed to be experienced. We did
 
 everything in our power for his comfort, and trebled his allowance of
 
-water.
+[[Water|water]].
 
 
 
-_July 30._ An excessively hot day, with no wind. An enormous shark kept
+_July 30._ An excessively hot day, with no [[Wind|wind]]. An enormous shark kept
 
 close by the hulk during the whole of the forenoon. We made several
 

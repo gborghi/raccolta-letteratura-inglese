@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 1"
+title: "[[Agnes Grey]] — Chapter 1"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -21,11 +21,11 @@ THE PARSONAGE
 All true histories contain instruction; though, in some, the treasure
 may be hard to find, and when found, so trivial in quantity, that the
 dry, shrivelled kernel scarcely compensates for the trouble of cracking
-the nut. Whether this be the case with my history or not, I am hardly
+the nut. Whether this be the case with my [[history]] or not, I am hardly
 competent to judge. I sometimes think it might prove useful to some,
 and entertaining to others; but the world may judge for itself.
 Shielded by my own obscurity, and by the lapse of years, and a few
-fictitious names, I do not fear to venture; and will candidly lay
+fictitious names, I do not [[Fear|fear]] to venture; and will candidly lay
 before the public what I would not disclose to the most intimate
 friend.
 
@@ -39,38 +39,38 @@ must relinquish her carriage and her lady’s-maid, and all the luxuries
 and elegancies of affluence; which to her were little less than the
 necessaries of life. A carriage and a lady’s-maid were great
 conveniences; but, thank heaven, she had feet to carry her, and hands
-to minister to her own necessities. An elegant house and spacious
+to minister to her own necessities. An elegant [[house]] and spacious
 grounds were not to be despised; but she would rather live in a cottage
-with Richard Grey than in a palace with any other man in the world.
+with [[Richard]] Grey than in a palace with any other man in the world.
 
-Finding arguments of no avail, her father, at length, told the lovers
+Finding arguments of no avail, her father, at length, told the [[lovers]]
 they might marry if they pleased; but, in so doing, his daughter would
 forfeit every fraction of her fortune. He expected this would cool the
-ardour of both; but he was mistaken. My father knew too well my
+ardour of both; but he was mistaken. My father knew too [[Well|well]] my
 mother’s superior worth not to be sensible that she was a valuable
 fortune in herself: and if she would but consent to embellish his
 humble hearth he should be happy to take her on any terms; while she,
 on her part, would rather labour with her own hands than be divided
 from the man she loved, whose happiness it would be her joy to make,
-and who was already one with her in heart and soul. So her fortune went
+and who was already one with her in heart and [[Soul|soul]]. So her fortune went
 to swell the purse of a wiser sister, who had married a rich nabob; and
-she, to the wonder and compassionate regret of all who knew her, went
+she, to the [[Wonder|wonder]] and compassionate regret of all who knew her, went
 to bury herself in the homely village parsonage among the hills of ——.
 And yet, in spite of all this, and in spite of my mother’s high spirit
 and my father’s whims, I believe you might search all England through,
 and fail to find a happier couple.
 
 Of six children, my sister Mary and myself were the only two that
-survived the perils of infancy and early childhood. I, being the
-younger by five or six years, was always regarded as _the_ child, and
+survived the perils of infancy and early [[Childhood|childhood]]. I, being the
+younger by five or six years, was always regarded as _the_ [[Child|child]], and
 the pet of the family: father, mother, and sister, all combined to
 spoil me—not by foolish indulgence, to render me fractious and
 ungovernable, but by ceaseless kindness, to make me too helpless and
 dependent—too unfit for buffeting with the cares and turmoils of life.
 
 Mary and I were brought up in the strictest seclusion. My mother, being
-at once highly accomplished, well informed, and fond of employment,
-took the whole charge of our education on herself, with the exception
+at once highly accomplished, [[Well|well]] informed, and fond of employment,
+took the whole charge of our [[Education|education]] on herself, with the exception
 of Latin—which my father undertook to teach us—so that we never even
 went to school; and, as there was no society in the neighbourhood, our
 only intercourse with the world consisted in a stately tea-party, now
@@ -85,16 +85,16 @@ at least—a secret wish to see a little more of the world.
 
 I thought she must have been very happy: but she never seemed to regret
 past times. My father, however, whose temper was neither tranquil nor
-cheerful by nature, often unduly vexed himself with thinking of the
+cheerful by [[Nature|nature]], often unduly vexed himself with thinking of the
 sacrifices his dear wife had made for him; and troubled his head with
 revolving endless schemes for the augmentation of his little fortune,
 for her sake and ours. In vain my mother assured him she was quite
 satisfied; and if he would but lay by a little for the children, we
-should all have plenty, both for time present and to come: but saving
+should all have plenty, both for [[Time|time]] present and to come: but saving
 was not my father’s forte. He would not run in debt (at least, my
 mother took good care he should not), but while he had money he must
-spend it: he liked to see his house comfortable, and his wife and
-daughters well clothed, and well attended; and besides, he was
+spend it: he liked to see his [[house]] comfortable, and his wife and
+daughters [[Well|well]] clothed, and [[Well|well]] attended; and besides, he was
 charitably disposed, and liked to give to the poor, according to his
 means: or, as some might think, beyond them.
 
@@ -108,14 +108,14 @@ him with what he could spare; and he thought he might safely promise
 that whatever sum the latter chose to put into his hands, it should
 bring him in cent. per cent. The small patrimony was speedily sold, and
 the whole of its price was deposited in the hands of the friendly
-merchant; who as promptly proceeded to ship his cargo, and prepare for
+merchant; who as promptly proceeded to [[Ship|ship]] his cargo, and prepare for
 his voyage.
 
 My father was delighted, so were we all, with our brightening
 prospects. For the present, it is true, we were reduced to the narrow
 income of the curacy; but my father seemed to think there was no
 necessity for scrupulously restricting our expenditure to that; so,
-with a standing bill at Mr. Jackson’s, another at Smith’s, and a third
+with a standing bill at Mr. Jackson’s, another at [[smith|Smith]]’s, and a third
 at Hobson’s, we got along even more comfortably than before: though my
 mother affirmed we had better keep within bounds, for our prospects of
 wealth were but precarious, after all; and if my father would only
@@ -123,12 +123,12 @@ trust everything to her management, he should never feel himself
 stinted: but he, for once, was incorrigible.
 
 What happy hours Mary and I have passed while sitting at our work by
-the fire, or wandering on the heath-clad hills, or idling under the
-weeping birch (the only considerable tree in the garden), talking of
+the [[Fire|fire]], or wandering on the heath-clad hills, or idling under the
+weeping birch (the only considerable tree in the [[Garden|garden]]), talking of
 future happiness to ourselves and our parents, of what we would do, and
 see, and possess; with no firmer foundation for our goodly
 superstructure than the riches that were expected to flow in upon us
-from the success of the worthy merchant’s speculations. Our father was
+from the [[success]] of the worthy merchant’s speculations. Our father was
 nearly as bad as ourselves; only that he affected not to be so much in
 earnest: expressing his bright hopes and sanguine expectations in jests
 and playful sallies, that always struck me as being exceedingly witty
@@ -139,13 +139,13 @@ he be not disappointed! I know not how he would bear it.”
 
 Disappointed he was; and bitterly, too. It came like a thunder-clap on
 us all, that the vessel which contained our fortune had been wrecked,
-and gone to the bottom with all its stores, together with several of
+and gone to the [[Bottom|bottom]] with all its stores, together with several of
 the crew, and the unfortunate merchant himself. I was grieved for him;
 I was grieved for the overthrow of all our air-built castles: but, with
 the elasticity of youth, I soon recovered the shock.
 
-Though riches had charms, poverty had no terrors for an inexperienced
-girl like me. Indeed, to say the truth, there was something
+Though riches had charms, [[Poverty|poverty]] had no terrors for an inexperienced
+girl like me. Indeed, to say the [[Truth|truth]], there was something
 exhilarating in the idea of being driven to straits, and thrown upon
 our own resources. I only wished papa, mamma, and Mary were all of the
 same mind as myself; and then, instead of lamenting past calamities we
@@ -159,14 +159,14 @@ and sank into a state of dejection from which no effort of mine could
 rouse her. I could not possibly bring her to regard the matter on its
 bright side as I did: and indeed I was so fearful of being charged with
 childish frivolity, or stupid insensibility, that I carefully kept most
-of my bright ideas and cheering notions to myself; well knowing they
+of my bright ideas and cheering notions to myself; [[Well|well]] knowing they
 could not be appreciated.
 
 My mother thought only of consoling my father, and paying our debts and
 retrenching our expenditure by every available means; but my father was
 completely overwhelmed by the calamity: health, strength, and spirits
 sank beneath the blow, and he never wholly recovered them. In vain my
-mother strove to cheer him, by appealing to his piety, to his courage,
+mother strove to cheer him, by appealing to his piety, to his [[Courage|courage]],
 to his affection for herself and us. That very affection was his
 greatest torment: it was for our sakes he had so ardently longed to
 increase his fortune—it was our interest that had lent such brightness
@@ -175,24 +175,24 @@ distress. He now tormented himself with remorse at having neglected my
 mother’s advice; which would at least have saved him from the
 additional burden of debt—he vainly reproached himself for having
 brought her from the dignity, the ease, the luxury of her former
-station to toil with him through the cares and toils of poverty. It was
-gall and wormwood to his soul to see that splendid, highly-accomplished
+station to toil with him through the cares and toils of [[Poverty|poverty]]. It was
+gall and wormwood to his [[Soul|soul]] to see that splendid, highly-accomplished
 woman, once so courted and admired, transformed into an active managing
 housewife, with hands and head continually occupied with household
 labours and household economy. The very willingness with which she
 performed these duties, the cheerfulness with which she bore her
 reverses, and the kindness which withheld her from imputing the
 smallest blame to him, were all perverted by this ingenious
-self-tormentor into further aggravations of his sufferings. And thus
-the mind preyed upon the body, and disordered the system of the nerves,
+[[Self|self]]-tormentor into further aggravations of his sufferings. And thus
+the mind preyed upon the [[Body|body]], and disordered the system of the nerves,
 and they in turn increased the troubles of the mind, till by action and
 reaction his health was seriously impaired; and not one of us could
 convince him that the aspect of our affairs was not half so gloomy, so
-utterly hopeless, as his morbid imagination represented it to be.
+utterly hopeless, as his morbid [[Imagination|imagination]] represented it to be.
 
-The useful pony phaeton was sold, together with the stout, well-fed
+The useful pony phaeton was sold, together with the stout, [[Well|well]]-fed
 pony—the old favourite that we had fully determined should end its days
-in peace, and never pass from our hands; the little coach-house and
+in peace, and never pass from our hands; the little coach-[[house]] and
 stable were let; the servant boy, and the more efficient (being the
 more expensive) of the two maid-servants, were dismissed. Our clothes
 were mended, turned, and darned to the utmost verge of decency; our
@@ -202,37 +202,37 @@ painfully economized—the pair of candles reduced to one, and that most
 sparingly used; the coals carefully husbanded in the half-empty grate:
 especially when my father was out on his parish duties, or confined to
 bed through illness—then we sat with our feet on the fender, scraping
-the perishing embers together from time to time, and occasionally
-adding a slight scattering of the dust and fragments of coal, just to
-keep them alive. As for our carpets, they in time were worn threadbare,
+the perishing embers together from [[Time|time]] to [[Time|time]], and occasionally
+adding a slight scattering of the [[Dust|dust]] and fragments of coal, just to
+keep them alive. As for our carpets, they in [[Time|time]] were worn threadbare,
 and patched and darned even to a greater extent than our garments. To
-save the expense of a gardener, Mary and I undertook to keep the garden
+save the expense of a gardener, Mary and I undertook to keep the [[Garden|garden]]
 in order; and all the cooking and household work that could not easily
 be managed by one servant-girl, was done by my mother and sister, with
 a little occasional help from me: only a little, because, though a
-woman in my own estimation, I was still a child in theirs; and my
+woman in my own estimation, I was still a [[Child|child]] in theirs; and my
 mother, like most active, managing women, was not gifted with very
 active daughters: for this reason—that being so clever and diligent
 herself, she was never tempted to trust her affairs to a deputy, but,
-on the contrary, was willing to act and think for others as well as for
+on the contrary, was willing to act and think for others as [[Well|well]] as for
 number one; and whatever was the business in hand, she was apt to think
-that no one could do it so well as herself: so that whenever I offered
-to assist her, I received such an answer as—“No, love, you cannot
+that no one could do it so [[Well|well]] as herself: so that whenever I offered
+to assist her, I received such an answer as—“No, [[Love|love]], you cannot
 indeed—there’s nothing here you can do. Go and help your sister, or get
 her to take a walk with you—tell her she must not sit so much, and stay
-so constantly in the house as she does—she may well look thin and
+so constantly in the [[house]] as she does—she may [[Well|well]] look thin and
 dejected.”
 
 “Mary, mamma says I’m to help you; or get you to take a walk with me;
-she says you may well look thin and dejected, if you sit so constantly
-in the house.”
+she says you may [[Well|well]] look thin and dejected, if you sit so constantly
+in the [[house]].”
 
 “Help me you cannot, Agnes; and I cannot go out with _you_—I have far
 too much to do.”
 
 “Then let me help you.”
 
-“You cannot, indeed, dear child. Go and practise your music, or play
+“You cannot, indeed, dear [[Child|child]]. Go and practise your music, or play
 with the kitten.”
 
 There was always plenty of sewing on hand; but I had not been taught to
@@ -240,22 +240,22 @@ cut out a single garment, and except plain hemming and seaming, there
 was little I could do, even in that line; for they both asserted that
 it was far easier to do the work themselves than to prepare it for me:
 and besides, they liked better to see me prosecuting my studies, or
-amusing myself—it was time enough for me to sit bending over my work,
-like a grave matron, when my favourite little pussy was become a steady
+amusing myself—it was [[Time|time]] enough for me to sit bending over my work,
+like a [[Grave|grave]] matron, when my favourite little pussy was become a steady
 old cat. Under such circumstances, although I was not many degrees more
 useful than the kitten, my idleness was not entirely without excuse.
 
 Through all our troubles, I never but once heard my mother complain of
-our want of money. As summer was coming on she observed to Mary and me,
+our want of money. As [[Summer|summer]] was coming on she observed to Mary and me,
 “What a desirable thing it would be for your papa to spend a few weeks
 at a watering-place. I am convinced the sea-air and the change of scene
 would be of incalculable service to him. But then, you see, there’s no
 money,” she added, with a sigh. We both wished exceedingly that the
-thing might be done, and lamented greatly that it could not. “Well,
-well!” said she, “it’s no use complaining. Possibly something might be
+thing might be done, and lamented greatly that it could not. “[[Well]],
+[[Well|well]]!” said she, “it’s no use complaining. Possibly something might be
 done to further the project after all. Mary, you are a beautiful
 drawer. What do you say to doing a few more pictures in your best
-style, and getting them framed, with the water-coloured drawings you
+style, and getting them framed, with the [[Water|water]]-coloured drawings you
 have already done, and trying to dispose of them to some liberal
 picture-dealer, who has the sense to discern their merits?”
 
@@ -267,7 +267,7 @@ drawings, and I’ll endeavour to find a purchaser.”
 
 “I wish _I_ could do something,” said I.
 
-“You, Agnes! well, who knows? You draw pretty well, too: if you choose
+“You, Agnes! [[Well|well]], who knows? You draw pretty [[Well|well]], too: if you choose
 some simple piece for your subject, I daresay you will be able to
 produce something we shall all be proud to exhibit.”
 
@@ -282,12 +282,12 @@ My mother uttered an exclamation of surprise, and laughed. My sister
 dropped her work in astonishment, exclaiming, “_You_ a governess,
 Agnes! What can you be dreaming of?”
 
-“Well! I don’t see anything so _very_ extraordinary in it. I do not
+“[[Well]]! I don’t see anything so _very_ extraordinary in it. I do not
 pretend to be able to instruct great girls; but surely I could teach
 little ones: and I should like it so much: I am so fond of children. Do
 let me, mamma!”
 
-“But, my love, you have not learned to take care of _yourself _yet: and
+“But, my [[Love|love]], you have not learned to take care of _yourself _yet: and
 young children require more judgment and experience to manage than
 elder ones.”
 
@@ -295,7 +295,7 @@ elder ones.”
 myself, and others too. You do not know half the wisdom and prudence I
 possess, because I have never been tried.”
 
-“Only think,” said Mary, “what would you do in a house full of
+“Only think,” said Mary, “what would you do in a [[house]] full of
 strangers, without me or mamma to speak and act for you—with a parcel
 of children, besides yourself, to attend to; and no one to look to for
 advice? You would not even know what clothes to put on.”
@@ -320,7 +320,7 @@ to that pass yet.”
 “Oh, no!” said my mother. “There is no necessity whatever for such a
 step; it is merely a whim of her own. So you must hold your tongue, you
 naughty girl; for, though you are so ready to leave us, you know very
-well we cannot part with _you_.”
+[[Well|well]] we cannot part with _you_.”
 
 I was silenced for that day, and for many succeeding ones; but still I
 did not wholly relinquish my darling scheme. Mary got her drawing
@@ -333,9 +333,9 @@ father, mother, and sister, besides exonerating them from the provision
 of my food and clothing; to show papa what his little Agnes could do;
 to convince mamma and Mary that I was not quite the helpless,
 thoughtless being they supposed. And then, how charming to be entrusted
-with the care and education of children! Whatever others said, I felt I
+with the care and [[Education|education]] of children! Whatever others said, I felt I
 was fully competent to the task: the clear remembrance of my own
-thoughts in early childhood would be a surer guide than the
+thoughts in early [[Childhood|childhood]] would be a surer guide than the
 instructions of the most mature adviser. I had but to turn from my
 little pupils to myself at their age, and I should know, at once, how
 to win their confidence and affections: how to waken the contrition of
@@ -350,7 +350,7 @@ To teach the young idea how to shoot!
 To train the tender plants, and watch their buds unfolding day by day!
 
 Influenced by so many inducements, I determined still to persevere;
-though the fear of displeasing my mother, or distressing my father’s
+though the [[Fear|fear]] of displeasing my mother, or distressing my father’s
 feelings, prevented me from resuming the subject for several days. At
 length, again, I mentioned it to my mother in private; and, with some
 difficulty, got her to promise to assist me with her endeavours. My
@@ -359,8 +359,8 @@ still sighed her disapproval, my dear, kind mother began to look out
 for a situation for me. She wrote to my father’s relations, and
 consulted the newspaper advertisements—her own relations she had long
 dropped all communication with: a formal interchange of occasional
-letters was all she had ever had since her marriage, and she would not
-at any time have applied to them in a case of this nature. But so long
+letters was all she had ever had since her [[Marriage|marriage]], and she would not
+at any [[Time|time]] have applied to them in a case of this [[Nature|nature]]. But so long
 and so entire had been my parents’ seclusion from the world, that many
 weeks elapsed before a suitable situation could be procured. At last,
 to my great joy, it was decreed that I should take charge of the young
@@ -378,72 +378,72 @@ main—full of bright hopes and ardent expectations. With what peculiar
 pleasure I assisted at the making of my new clothes, and, subsequently,
 the packing of my trunks! But there was a feeling of bitterness
 mingling with the latter occupation too; and when it was done—when all
-was ready for my departure on the morrow, and the last night at home
+was ready for my departure on the morrow, and the last [[Night|night]] at [[Home|home]]
 approached—a sudden anguish seemed to swell my heart. My dear friends
 looked so sad, and spoke so very kindly, that I could scarcely keep my
 eyes from overflowing: but I still affected to be gay. I had taken my
-last ramble with Mary on the moors, my last walk in the garden, and
-round the house; I had fed, with her, our pet pigeons for the last
-time—the pretty creatures that we had tamed to peck their food from our
+last ramble with Mary on the moors, my last walk in the [[Garden|garden]], and
+round the [[house]]; I had fed, with her, our pet pigeons for the last
+[[Time|time]]—the pretty creatures that we had tamed to peck their food from our
 hands: I had given a farewell stroke to all their silky backs as they
 crowded in my lap. I had tenderly kissed my own peculiar favourites,
-the pair of snow-white fantails; I had played my last tune on the old
-familiar piano, and sung my last song to papa: not the last, I hoped,
-but the last for what appeared to me a very long time. And, perhaps,
+the pair of [[Snow|snow]]-white fantails; I had played my last tune on the old
+familiar piano, and sung my last [[Song|song]] to papa: not the last, I hoped,
+but the last for what appeared to me a very long [[Time|time]]. And, perhaps,
 when I did these things again it would be with different feelings:
-circumstances might be changed, and this house might never be my
-settled home again. My dear little friend, the kitten, would certainly
+circumstances might be changed, and this [[house]] might never be my
+settled [[Home|home]] again. My dear little friend, the kitten, would certainly
 be changed: she was already growing a fine cat; and when I returned,
 even for a hasty visit at Christmas, would, most likely, have forgotten
 both her playmate and her merry pranks. I had romped with her for the
-last time; and when I stroked her soft bright fur, while she lay
-purring herself to sleep in my lap, it was with a feeling of sadness I
-could not easily disguise. Then at bed-time, when I retired with Mary
+last [[Time|time]]; and when I stroked her soft bright fur, while she lay
+purring herself to [[Sleep|sleep]] in my lap, it was with a feeling of sadness I
+could not easily disguise. Then at bed-[[Time|time]], when I retired with Mary
 to our quiet little chamber, where already my drawers were cleared out
 and my share of the bookcase was empty—and where, hereafter, she would
-have to sleep alone, in dreary solitude, as she expressed it—my heart
+have to [[Sleep|sleep]] [[Alone|alone]], in dreary [[Solitude|solitude]], as she expressed it—my heart
 sank more than ever: I felt as if I had been selfish and wrong to
 persist in leaving her; and when I knelt once more beside our little
 bed, I prayed for a blessing on her and on my parents more fervently
 than ever I had done before. To conceal my emotion, I buried my face in
-my hands, and they were presently bathed in tears. I perceived, on
+my hands, and they were presently bathed in [[Tears|tears]]. I perceived, on
 rising, that she had been crying too: but neither of us spoke; and in
-silence we betook ourselves to our repose, creeping more closely
+[[Silence|silence]] we betook ourselves to our repose, creeping more closely
 together from the consciousness that we were to part so soon.
 
-But the morning brought a renewal of hope and spirits. I was to depart
-early; that the conveyance which took me (a gig, hired from Mr. Smith,
-the draper, grocer, and tea-dealer of the village) might return the
-same day. I rose, washed, dressed, swallowed a hasty breakfast,
+But the morning brought a renewal of [[Hope|hope]] and spirits. I was to depart
+early; that the conveyance which took me (a gig, hired from Mr. [[smith|Smith]],
+the draper, [[grocer]], and tea-dealer of the village) might return the
+same day. I [[Rose|rose]], washed, dressed, swallowed a hasty breakfast,
 received the fond embraces of my father, mother, and sister, kissed the
 cat—to the great scandal of Sally, the maid—shook hands with her,
 mounted the gig, drew my veil over my face, and then, but not till
-then, burst into a flood of tears. The gig rolled on; I looked back; my
+then, burst into a flood of [[Tears|tears]]. The gig rolled on; I looked back; my
 dear mother and sister were still standing at the door, looking after
 me, and waving their adieux. I returned their salute, and prayed God to
-bless them from my heart: we descended the hill, and I could see them
+bless them from my heart: we descended the [[Hill|hill]], and I could see them
 no more.
 
-“It’s a coldish mornin’ for you, Miss Agnes,” observed Smith; “and a
+“It’s a coldish mornin’ for you, Miss Agnes,” observed [[smith|Smith]]; “and a
 darksome ’un too; but we’s happen get to yon spot afore there come much
 rain to signify.”
 
-“Yes, I hope so,” replied I, as calmly as I could.
+“Yes, I [[Hope|hope]] so,” replied I, as calmly as I could.
 
-“It’s comed a good sup last night too.”
+“It’s comed a good sup last [[Night|night]] too.”
 
 “Yes.”
 
-“But this cold wind will happen keep it off.”
+“But this cold [[Wind|wind]] will happen keep it off.”
 
 “Perhaps it will.”
 
 Here ended our colloquy. We crossed the valley, and began to ascend the
-opposite hill. As we were toiling up, I looked back again; there was
+opposite [[Hill|hill]]. As we were toiling up, I looked back again; there was
 the village spire, and the old grey parsonage beyond it, basking in a
 slanting beam of sunshine—it was but a sickly ray, but the village and
 surrounding hills were all in sombre shade, and I hailed the wandering
-beam as a propitious omen to my home. With clasped hands I fervently
+beam as a propitious omen to my [[Home|home]]. With clasped hands I fervently
 implored a blessing on its inhabitants, and hastily turned away; for I
 saw the sunshine was departing; and I carefully avoided another glance,
-lest I should see it in gloomy shadow, like the rest of the landscape.
+lest I should see it in gloomy [[Shadow|shadow]], like the rest of the landscape.

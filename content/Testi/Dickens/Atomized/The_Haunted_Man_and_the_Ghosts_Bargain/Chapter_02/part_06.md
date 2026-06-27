@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the Ghost's Bargain — Chapter 2 (part 6)"
+title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2 (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Haunted-Man-and-the-Ghost's-Bargain-(Dickens)"
@@ -25,7 +25,7 @@ lagging last. The mother, glancing contemptuously round the sordid room,
 and tossing from her the fragments of their meal, stopped on the
 threshold of her task of clearing the table, and sat down, pondering idly
 and dejectedly. The father betook himself to the chimney-corner, and
-impatiently raking the small fire together, bent over it as if he would
+impatiently raking the small [[Fire|fire]] together, bent over it as if he would
 monopolise it all. They did not interchange a word.
 
 The Chemist, paler than before, stole upward like a thief; looking back
@@ -39,30 +39,30 @@ He looked round, but there was nothing there; and a passage now shutting
 out the little parlour from his view, he went on, directing his eyes
 before him at the way he went.
 
-“It is only since last night,” he muttered gloomily, “that I have
+“It is only since last [[Night|night]],” he muttered gloomily, “that I have
 remained shut up, and yet all things are strange to me. I am strange to
-myself. I am here, as in a dream. What interest have I in this place,
+myself. I am here, as in [[A Dream|a dream]]. What interest have I in this place,
 or in any place that I can bring to my remembrance? My mind is going
 blind!”
 
 There was a door before him, and he knocked at it. Being invited, by a
 voice within, to enter, he complied.
 
-“Is that my kind nurse?” said the voice. “But I need not ask her. There
+“Is that my kind [[Nurse|nurse]]?” said the voice. “But I need not ask her. There
 is no one else to come here.”
 
 It spoke cheerfully, though in a languid tone, and attracted his
 attention to a young man lying on a couch, drawn before the
 chimney-piece, with the back towards the door. A meagre scanty stove,
 pinched and hollowed like a sick man’s cheeks, and bricked into the
-centre of a hearth that it could scarcely warm, contained the fire, to
-which his face was turned. Being so near the windy house-top, it wasted
+centre of a hearth that it could scarcely warm, contained the [[Fire|fire]], to
+which his face was turned. Being so near the windy [[house]]-top, it wasted
 quickly, and with a busy sound, and the burning ashes dropped down fast.
 
 “They chink when they shoot out here,” said the student, smiling, “so,
 according to the gossips, they are not coffins, but purses. I shall be
-well and rich yet, some day, if it please God, and shall live perhaps to
-love a daughter Milly, in remembrance of the kindest nature and the
+[[Well|well]] and rich yet, some day, if it please God, and shall live perhaps to
+[[Love|love]] a daughter Milly, in remembrance of the kindest [[Nature|nature]] and the
 gentlest heart in the world.”
 
 He put up his hand as if expecting her to take it, but, being weakened,
@@ -73,16 +73,16 @@ The Chemist glanced about the room;—at the student’s books and papers,
 piled upon a table in a corner, where they, and his extinguished
 reading-lamp, now prohibited and put away, told of the attentive hours
 that had gone before this illness, and perhaps caused it;—at such signs
-of his old health and freedom, as the out-of-door attire that hung idle
+of his old health and [[Freedom|freedom]], as the out-of-door attire that hung idle
 on the wall;—at those remembrances of other and less solitary scenes, the
-little miniatures upon the chimney-piece, and the drawing of home;—at
+little miniatures upon the chimney-piece, and the drawing of [[Home|home]];—at
 that token of his emulation, perhaps, in some sort, of his personal
-attachment too, the framed engraving of himself, the looker-on. The time
+attachment too, the framed engraving of himself, the looker-on. The [[Time|time]]
 had been, only yesterday, when not one of these objects, in its remotest
 association of interest with the living figure before him, would have
 been lost on Redlaw. Now, they were but objects; or, if any gleam of
 such connexion shot upon him, it perplexed, and not enlightened him, as
-he stood looking round with a dull wonder.
+he stood looking round with a dull [[Wonder|wonder]].
 
 The student, recalling the thin hand which had remained so long
 untouched, raised himself on the couch, and turned his head.
@@ -99,7 +99,7 @@ averted towards the ground.
 
 “I heard, by an accident, by what accident is no matter, that one of my
 class was ill and solitary. I received no other description of him, than
-that he lived in this street. Beginning my inquiries at the first house
+that he lived in this street. Beginning my inquiries at the first [[house]]
 in it, I have found him.”
 
 “I have been ill, sir,” returned the student, not merely with a modest

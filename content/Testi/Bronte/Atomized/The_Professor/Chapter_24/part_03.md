@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 23 (part 3)"
+title: "[[The Professor]] — Chapter 23 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-     He little said; the time was brief,
+     He little said; the [[Time|time]] was brief,
 
-      The ship was soon to sail,
+      The [[Ship|ship]] was soon to sail,
 
      And while I sobbed in bitter grief,
 
@@ -40,11 +40,11 @@ tags:
 
      Will others to my darling bear
 
-      As true, as deep a love?
+      As true, as deep a [[Love|love]]?
 
 
 
-    “O God, watch o’er my foster child!
+    “O God, watch o’er my foster [[Child|child]]!
 
       O guard her gentle head!
 
@@ -60,7 +60,7 @@ tags:
 
      But when deceived, repulsed, opprest,
 
-      Come home to me again!”
+      Come [[Home|home]] to me again!”
 
 
 
@@ -68,11 +68,11 @@ I read--then dreamily made marks on the margin with my pencil; thinking
 
 all the while of other things; thinking that “Jane” was now at my side;
 
-no child, but a girl of nineteen; and she might be mine, so my heart
+no [[Child|child]], but a girl of nineteen; and she might be mine, so my heart
 
-affirmed; Poverty’s curse was taken off me; Envy and Jealousy were
+affirmed; [[Poverty]]’s curse was taken off me; Envy and [[Jealousy]] were
 
-far away, and unapprized of this our quiet meeting; the frost of the
+far away, and unapprized of this our quiet meeting; the [[Frost|frost]] of the
 
 Master’s manner might melt; I felt the thaw coming fast, whether I would
 
@@ -90,7 +90,7 @@ feelings drank the bliss of this hour.
 
 
 
-Frances rose, as if restless; she passed before me to stir the fire,
+Frances [[Rose|rose]], as if restless; she passed before me to stir the [[Fire|fire]],
 
 which did not want stirring; she lifted and put down the little
 
@@ -108,7 +108,7 @@ we have seen them. Perhaps, though, such impulses are seldom altogether
 
 bad; perhaps Reason, by a process as brief as quiet, a process that
 
-is finished ere felt, has ascertained the sanity of the deed. Instinct
+is finished ere felt, has ascertained the [[Sanity|sanity]] of the deed. Instinct
 
 meditates, and feels justified in remaining passive while it is
 
@@ -132,7 +132,7 @@ fury: after all, she was only a little nearer than she had ever been
 
 before, to one she habitually respected and trusted; embarrassment might
 
-have impelled her to contend, but self-respect checked resistance where
+have impelled her to contend, but [[Self|self]]-respect checked resistance where
 
 resistance was useless.
 
@@ -144,7 +144,7 @@ the situation was yet too new and surprising to permit speech. On this
 
 consideration, I compelled myself for some seconds to tolerate her
 
-silence, though impatient of it: presently, I repeated the same
+[[Silence|silence]], though impatient of it: presently, I repeated the same
 
 question--probably, not in the calmest of tones; she looked at me; my
 
@@ -164,9 +164,9 @@ said--
 
 
 
-In truth I became aware that I was holding the said “main droite” in
+In [[Truth|truth]] I became aware that I was holding the said “main droite” in
 
-a somewhat ruthless grasp: I did as desired; and, for the third time,
+a somewhat ruthless grasp: I did as desired; and, for the third [[Time|time]],
 
 asked more gently--
 
@@ -186,7 +186,7 @@ me as your husband?”
 
 
 
-I felt the agitation of the heart, I saw “the purple light of love” cast
+I felt the agitation of the heart, I saw “the purple light of [[Love|love]]” cast
 
 its glowing reflection on cheeks, temples, neck; I desired to consult
 
@@ -194,7 +194,7 @@ the eye, but sheltering lash and lid forbade.
 
 
 
-“Monsieur,” said the soft voice at last,--“Monsieur desire savoir si je
+“Monsieur,” said the soft voice at last,--“Monsieur [[Desire|desire]] savoir si je
 
 consens--si--enfin, si je veux me marier avec lui?”
 
@@ -280,7 +280,7 @@ consent to pass my life with you.”
 
 
 
-“Very well, Frances.”
+“Very [[Well|well]], Frances.”
 
 
 
@@ -288,7 +288,7 @@ I drew her a little nearer to my heart; I took a first kiss from her
 
 lips, thereby sealing the compact, now framed between us; afterwards she
 
-and I were silent, nor was our silence brief. Frances’ thoughts, during
+and I were silent, nor was our [[Silence|silence]] brief. Frances’ thoughts, during
 
 this interval, I know not, nor did I attempt to guess them; I was not
 

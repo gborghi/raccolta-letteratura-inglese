@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 41 (part 1)"
+title: "[[Barnaby Rudge]] — Chapter 41 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -40,14 +40,14 @@ tink.
 It was a perfect embodiment of the still small voice, free from
 all cold, hoarseness, huskiness, or unhealthiness of any kind;
 foot-passengers slackened their pace, and were disposed to linger near
-it; neighbours who had got up splenetic that morning, felt good-humour
+it; neighbours who had got up splenetic that morning, felt good-[[Humour|humour]]
 stealing on them as they heard it, and by degrees became quite
 sprightly; mothers danced their babies to its ringing; still the same
 magical tink, tink, tink, came gaily from the workshop of the Golden
 Key.
 
 Who but the locksmith could have made such music! A gleam of sun shining
-through the unsashed window, and chequering the dark workshop with a
+through the unsashed [[Window|window]], and chequering the dark workshop with a
 broad patch of light, fell full upon him, as though attracted by his
 sunny heart. There he stood working at his anvil, his face all radiant
 with exercise and gladness, his sleeves turned up, his wig pushed off
@@ -60,14 +60,14 @@ very locks that hung around had something jovial in their rust, and
 seemed like gouty gentlemen of hearty natures, disposed to joke on their
 infirmities. There was nothing surly or severe in the whole scene.
 It seemed impossible that any one of the innumerable keys could fit a
-churlish strong-box or a prison-door. Cellars of beer and wine, rooms
+churlish strong-box or a [[Prison|prison]]-door. Cellars of beer and wine, rooms
 where there were fires, books, gossip, and cheering laughter--these
 were their proper sphere of action. Places of distrust and cruelty, and
 restraint, they would have left quadruple-locked for ever.
 
 Tink, tink, tink. The locksmith paused at last, and wiped his brow. The
-silence roused the cat, who, jumping softly down, crept to the door,
-and watched with tiger eyes a bird-cage in an opposite window. Gabriel
+[[Silence|silence]] roused the cat, who, jumping softly down, crept to the door,
+and watched with tiger eyes a bird-cage in an opposite [[Window|window]]. Gabriel
 lifted Toby to his mouth, and took a hearty draught.
 
 Then, as he stood upright, with his head flung back, and his portly
@@ -76,20 +76,20 @@ clothed in military gear. Glancing at the wall beyond, there might
 have been espied, hanging on their several pegs, a cap and feather,
 broadsword, sash, and coat of scarlet; which any man learned in such
 matters would have known from their make and pattern to be the uniform
-of a serjeant in the Royal East London Volunteers.
+of a serjeant in the Royal East [[London]] Volunteers.
 
 As the locksmith put his mug down, empty, on the bench whence it had
 smiled on him before, he glanced at these articles with a laughing eye,
 and looking at them with his head a little on one side, as though he
 would get them all into a focus, said, leaning on his hammer:
 
-‘Time was, now, I remember, when I was like to run mad with the desire
+‘[[Time]] was, now, I remember, when I was like to run mad with the [[Desire|desire]]
 to wear a coat of that colour. If any one (except my father) had called
-me a fool for my pains, how I should have fired and fumed! But what a
-fool I must have been, sure-ly!’
+me a [[Fool|fool]] for my pains, how I should have fired and fumed! But what a
+[[Fool|fool]] I must have been, sure-ly!’
 
-‘Ah!’ sighed Mrs Varden, who had entered unobserved. ‘A fool indeed. A
-man at your time of life, Varden, should know better now.’
+‘Ah!’ sighed Mrs Varden, who had entered unobserved. ‘A [[Fool|fool]] indeed. A
+man at your [[Time|time]] of life, Varden, should know better now.’
 
 ‘Why, what a ridiculous woman you are, Martha,’ said the locksmith,
 turning round with a smile.
@@ -116,7 +116,7 @@ Mrs Varden looked at the ceiling, as in expectation that the consequence
 of this profanity would be the immediate descent of the four-post
 bedstead on the second floor, together with the best sitting-room on the
 first; but no visible judgment occurring, she heaved a deep sigh, and
-begged her husband, in a tone of resignation, to go on, and by all means
+begged her husband, in a tone of [[Resignation|resignation]], to go on, and by all means
 to blaspheme as much as possible, because he knew she liked it.
 
 The locksmith did for a moment seem disposed to gratify her, but he gave

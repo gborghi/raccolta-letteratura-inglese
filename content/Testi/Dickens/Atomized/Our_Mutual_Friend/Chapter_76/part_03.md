@@ -22,15 +22,15 @@ IN LIEU OF PREFACE
 When I devised this story, I foresaw the likelihood that a class of
 readers and commentators would suppose that I was at great pains to
 conceal exactly what I was at great pains to suggest: namely, that Mr
-John Harmon was not slain, and that Mr John Rokesmith was he. Pleasing
+[[John Harmon]] was not slain, and that Mr John Rokesmith was he. Pleasing
 myself with the idea that the supposition might in part arise out
 of some ingenuity in the story, and thinking it worth while, in the
-interests of art, to hint to an audience that an artist (of whatever
+interests of art, to hint to an audience that an [[Artist|artist]] (of whatever
 denomination) may perhaps be trusted to know what he is about in his
 vocation, if they will concede him a little patience, I was not alarmed
 by the anticipation.
 
-To keep for a long time unsuspected, yet always working itself out,
+To keep for a long [[Time|time]] unsuspected, yet always working itself out,
 another purpose originating in that leading incident, and turning it to
 a pleasant and useful account at last, was at once the most interesting
 and the most difficult part of my design. Its difficulty was much
@@ -41,7 +41,7 @@ complete, perceive the relations of its finer threads to the whole
 pattern which is always before the eyes of the story-weaver at his loom.
 Yet, that I hold the advantages of the mode of publication to outweigh
 its disadvantages, may be easily believed of one who revived it in the
-Pickwick Papers after long disuse, and has pursued it ever since.
+[[Pickwick]] Papers after long disuse, and has pursued it ever since.
 
 There is sometimes an odd disposition in this country to dispute as
 improbable in fiction, what are the commonest experiences in fact.
@@ -59,13 +59,13 @@ warm with me on the subject of my view of the Poor Law. My friend Mr
 Bounderby could never see any difference between leaving the Coketown
 ‘hands’ exactly as they were, and requiring them to be fed with turtle
 soup and venison out of gold spoons. Idiotic propositions of a parallel
-nature have been freely offered for my acceptance, and I have been
+[[Nature|nature]] have been freely offered for my acceptance, and I have been
 called upon to admit that I would give Poor Law relief to anybody,
 anywhere, anyhow. Putting this nonsense aside, I have observed a
 suspicious tendency in the champions to divide into two parties; the
-one, contending that there are no deserving Poor who prefer death by
+one, contending that there are no deserving Poor who prefer [[Death|death]] by
 slow starvation and bitter weather, to the mercies of some Relieving
-Officers and some Union Houses; the other, admitting that there are such
+Officers and some [[Union]] Houses; the other, admitting that there are such
 Poor, but denying that they have any cause or reason for what they do.
 The records in our newspapers, the late exposure by THE LANCET, and the
 common sense and senses of common people, furnish too abundant evidence
@@ -74,7 +74,7 @@ mistaken or misrepresented, I will state it. I believe there has been
 in England, since the days of the STUARTS, no law so often infamously
 administered, no law so often openly violated, no law habitually so
 ill-supervised. In the majority of the shameful cases of disease and
-death from destitution, that shock the Public and disgrace the country,
+[[Death|death]] from destitution, that shock the Public and disgrace the country,
 the illegality is quite equal to the inhumanity—and known language
 could say no more of their lawlessness.
 
@@ -84,8 +84,8 @@ were on the South Eastern Railway with me, in a terribly destructive
 accident. When I had done what I could to help others, I climbed back
 into my carriage—nearly turned over a viaduct, and caught aslant upon
 the turn—to extricate the worthy couple. They were much soiled, but
-otherwise unhurt. The same happy result attended Miss Bella Wilfer on
-her wedding day, and Mr Riderhood inspecting Bradley Headstone’s red
+otherwise unhurt. The same happy result attended Miss [[Bella Wilfer]] on
+her wedding day, and Mr Riderhood inspecting [[Bradley Headstone]]’s red
 neckerchief as he lay asleep. I remember with devout thankfulness that I
 can never be much nearer parting company with my readers for ever, than
 I was then, until there shall be written against my life, the two words

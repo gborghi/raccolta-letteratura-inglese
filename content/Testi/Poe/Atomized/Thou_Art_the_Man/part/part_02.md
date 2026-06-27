@@ -1,5 +1,5 @@
 ---
-title: "Thou Art the Man (part 2)"
+title: "[[Thou Art the Man]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Thou-Art-the-Man-(Poe)"
@@ -15,16 +15,16 @@ tags:
 
 
       At first he was too much overpowered with grief to be able to do any thing
-      at all, or to concert upon any plan of action; so that for a long time he
+      at all, or to concert upon any plan of action; so that for a long [[Time|time]] he
       endeavored to dissuade Mr. Shuttleworthy’s other friends from making a
       stir about the matter, thinking it best to wait awhile—say for a
       week or two, or a month, or two—to see if something wouldn’t turn
       up, or if Mr. Shuttleworthy wouldn’t come in the natural way, and explain
-      his reasons for sending his horse on before. I dare say you have often
+      his reasons for sending his [[Horse|horse]] on before. I dare say you have often
       observed this disposition to temporize, or to procrastinate, in people who
       are labouring under any very poignant sorrow. Their powers of mind seem to
       be rendered torpid, so that they have a horror of any thing like action,
-      and like nothing in the world so well as to lie quietly in bed and “nurse
+      and like nothing in the world so [[Well|well]] as to lie quietly in bed and “[[Nurse|nurse]]
       their grief,” as the old ladies express it—that is to say, ruminate
       over the trouble.
 
@@ -39,7 +39,7 @@ tags:
       nothing like reason in the matter of “lying quiet,” but insisted upon
       making immediate search for the “corpse of the murdered man.” This
       was the expression he employed; and Mr. Goodfellow acutely remarked at the
-      time, that it was “a singular expression, to say no more.” This remark of
+      [[Time|time]], that it was “a singular expression, to say no more.” This remark of
       “Old Charley’s,” too, had great effect upon the crowd; and one of the
       party was heard to ask, very impressively, “how it happened that young Mr.
       Pennifeather was so intimately cognizant of all the circumstances
@@ -51,18 +51,18 @@ tags:
       means a novelty, for little good-will had subsisted between the parties for
       the last three or four months; and matters had even gone so far that Mr.
       Pennifeather had actually knocked down his uncle’s friend for some alleged
-      excess of liberty that the latter had taken in the uncle’s house, of which
+      excess of liberty that the latter had taken in the uncle’s [[house]], of which
       the nephew was an inmate. Upon this occasion “Old Charley” is said to have
-      behaved with exemplary moderation and Christian charity. He arose from the
+      behaved with exemplary moderation and Christian [[Charity|charity]]. He arose from the
       blow, adjusted his clothes, and made no attempt at retaliation at all—merely
       muttering a few words about “taking summary vengeance at the first
       convenient opportunity,”—a natural and very justifiable ebullition
-      of anger, which meant nothing, however, and, beyond doubt, was no sooner
+      of anger, which meant nothing, however, and, beyond [[Doubt|doubt]], was no sooner
       given vent to than forgotten.
 
       However these matters may be (which have no reference to the point now at
       issue), it is quite certain that the people of Rattleborough, principally
-      through the persuasion of Mr. Pennifeather, came at length to the
+      through the [[Persuasion|persuasion]] of Mr. Pennifeather, came at length to the
       determination of dispersion over the adjacent country in search of the
       missing Mr. Shuttleworthy. I say they came to this determination in the
       first instance. After it had been fully resolved that a search should be
@@ -80,34 +80,34 @@ tags:
       “Old Charley,” whom everybody knew to have the eye of a lynx; but,
       although he led them into all manner of out-of-the-way holes and corners,
       by routes that nobody had ever suspected of existing in the neighbourhood,
-      and although the search was incessantly kept up day and night for nearly a
+      and although the search was incessantly kept up day and [[Night|night]] for nearly a
       week, still no trace of Mr. Shuttleworthy could be discovered. When I say
       no trace, however, I must not be understood to speak literally; for trace,
       to some extent, there certainly was. The poor gentleman had been tracked,
-      by his horse’s shoes (which were peculiar), to a spot about three miles to
-      the east of the borough, on the main road leading to the city. Here the
+      by his [[Horse|horse]]’s shoes (which were peculiar), to a spot about three miles to
+      the east of the borough, on the main [[Road|road]] leading to the [[City|city]]. Here the
       track made off into a by-path through a piece of woodland—the path
-      coming out again into the main road, and cutting off about half a mile of
+      coming out again into the main [[Road|road]], and cutting off about half a mile of
       the regular distance. Following the shoe-marks down this lane, the party
-      came at length to a pool of stagnant water, half hidden by the brambles,
+      came at length to a pool of stagnant [[Water|water]], half hidden by the brambles,
       to the right of the lane, and opposite this pool all vestige of the track
-      was lost sight of. It appeared, however, that a struggle of some nature
-      had here taken place, and it seemed as if some large and heavy body, much
+      was lost sight of. It appeared, however, that a struggle of some [[Nature|nature]]
+      had here taken place, and it seemed as if some large and heavy [[Body|body]], much
       larger and heavier than a man, had been drawn from the by-path to the
       pool. This latter was carefully dragged twice, but nothing was found; and
-      the party was upon the point of going away, in despair of coming to any
-      result, when Providence suggested to Mr. Goodfellow the expediency of
-      draining the water off altogether. This project was received with cheers,
+      the party was upon the point of going away, in [[Despair|despair]] of coming to any
+      result, when [[Providence]] suggested to Mr. Goodfellow the expediency of
+      draining the [[Water|water]] off altogether. This project was received with cheers,
       and many high compliments to “Old Charley” upon his sagacity and
       consideration. As many of the burghers had brought spades with them,
       supposing that they might possibly be called upon to disinter a corpse,
-      the drain was easily and speedily effected; and no sooner was the bottom
+      the drain was easily and speedily effected; and no sooner was the [[Bottom|bottom]]
       visible, than right in the middle of the mud that remained was discovered
       a black silk velvet waistcoat, which nearly every one present immediately
       recognized as the property of Mr. Pennifeather. This waistcoat was much
-      torn and stained with blood, and there were several persons among the
+      torn and stained with [[Blood|blood]], and there were several persons among the
       party who had a distinct remembrance of its having been worn by its owner
-      on the very morning of Mr. Shuttleworthy’s departure for the city; while
+      on the very morning of Mr. Shuttleworthy’s departure for the [[City|city]]; while
       there were others, again, ready to testify upon oath, if required, that
       Mr. P. did not wear the garment in question at any period during the
       remainder of that memorable day, nor could any one be found to say that he

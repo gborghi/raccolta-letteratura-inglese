@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 49 (part 4)"
+title: "Bleak [[house|House]] — Chapter 49 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 There is no way out of that yard.
 
 “Ain’t there really?” says Mr. Bucket. “I should have thought there
-might have been. Well, I don’t know as I ever saw a backyard that
+might have been. [[Well]], I don’t know as I ever saw a backyard that
 took my fancy more. Would you allow me to look at it? Thank you. No,
 I see there’s no way out. But what a very good-proportioned yard it
 is!”
@@ -50,7 +50,7 @@ old to be your boy, ma’am.”
 “I can certify at all events that he is not anybody else’s,” returns
 Mrs. Bagnet, laughing.
 
-“Well, you do surprise me! Yet he’s like you, there’s no denying.
+“[[Well]], you do surprise me! Yet he’s like you, there’s no denying.
 Lord, he’s wonderfully like you! But about what you may call the
 brow, you know, THERE his father comes out!” Mr. Bucket compares the
 faces with one eye shut up, while Mr. Bagnet smokes in stolid
@@ -75,7 +75,7 @@ you give us ‘British Grenadiers,’ my fine fellow?”
 Nothing could be more acceptable to the little circle than this call
 upon young Woolwich, who immediately fetches his fife and performs
 the stirring melody, during which performance Mr. Bucket, much
-enlivened, beats time and never fails to come in sharp with the
+enlivened, beats [[Time|time]] and never fails to come in sharp with the
 burden, “British Gra-a-anadeers!” In short, he shows so much musical
 taste that Mr. Bagnet actually takes his pipe from his lips to
 express his conviction that he is a singer. Mr. Bucket receives the
@@ -95,13 +95,13 @@ on his entrance, begins, in spite of himself, to be rather proud of
 him. He is so friendly, is a man of so many resources, and so easy to
 get on with, that it is something to have made him known there. Mr.
 Bagnet becomes, after another pipe, so sensible of the value of his
-acquaintance that he solicits the honour of his company on the old
+acquaintance that he solicits the [[Honour|honour]] of his company on the old
 girl’s next birthday. If anything can more closely cement and
 consolidate the esteem which Mr. Bucket has formed for the family, it
-is the discovery of the nature of the occasion. He drinks to Mrs.
+is the discovery of the [[Nature|nature]] of the occasion. He drinks to Mrs.
 Bagnet with a warmth approaching to rapture, engages himself for that
 day twelvemonth more than thankfully, makes a memorandum of the day
-in a large black pocket-book with a girdle to it, and breathes a hope
+in a large black pocket-book with a girdle to it, and breathes a [[Hope|hope]]
 that Mrs. Bucket and Mrs. Bagnet may before then become, in a manner,
 sisters. As he says himself, what is public life without private
 ties? He is in his humble way a public man, but it is not in that
@@ -112,12 +112,12 @@ It is natural, under these circumstances, that he, in his turn,
 should remember the friend to whom he is indebted for so promising an
 acquaintance. And he does. He keeps very close to him. Whatever the
 subject of the conversation, he keeps a tender eye upon him. He waits
-to walk home with him. He is interested in his very boots and
+to walk [[Home|home]] with him. He is interested in his very boots and
 observes even them attentively as Mr. George sits smoking
-cross-legged in the chimney-corner.
+[[Cross|cross]]-legged in the chimney-corner.
 
 At length Mr. George rises to depart. At the same moment Mr. Bucket,
-with the secret sympathy of friendship, also rises. He dotes upon the
+with the secret sympathy of [[Friendship|friendship]], also rises. He dotes upon the
 children to the last and remembers the commission he has undertaken
 for an absent friend.
 
@@ -133,5 +133,5 @@ rest of the big-wigs like a thorough workman. And you needn’t,” says
 Mr. Bucket in a considerate and private voice, “you needn’t commit
 yourself to too low a figure, governor. I don’t want to pay too large
 a price for my friend, but I want you to have your proper percentage
-and be remunerated for your loss of time. That is but fair. Every man
+and be remunerated for your loss of [[Time|time]]. That is but fair. Every man
 must live, and ought to it.”

@@ -19,11 +19,11 @@ PART ONE:  THE HOMELESSNESS OF MAN
  I      The Medical Mistake
  II     Wanted: An Unpractical Man
  III    The New Hypocrite
- IV     The Fear of the Past
+ IV     The [[Fear]] of the Past
  V      The Unfinished Temple
  VI     The Enemies of Property
  VII    The Free Family
  XIII   The Wildness of Domesticity
- IX     History of Hudge and Gudge
+ IX     [[history|History]] of Hudge and Gudge
  X      Oppression by Optimism
- XI     The Homelessness of Jones
+ XI     The Homelessness of [[Jones]]

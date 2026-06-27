@@ -14,16 +14,16 @@ tags:
 </nav>
 
 
-On this Sunday evening, he accompanied his brother to the gate with an
-air of endurance and clemency; being in a bland temper and graciously
-disposed to overlook the tears. In the flaring gaslight of the Lodge,
+On this [[Sunday]] evening, he accompanied his brother to the gate with an
+air of [[Endurance|endurance]] and clemency; being in a bland temper and graciously
+disposed to overlook the [[Tears|tears]]. In the flaring gaslight of the Lodge,
 several Collegians were basking; some taking leave of visitors, and
 some who had no visitors, watching the frequent turning of the key, and
 conversing with one another and with Mr Chivery. The paternal entrance
 made a sensation of course; and Mr Chivery, touching his hat (in a short
 manner though) with his key, hoped he found himself tolerable.
 
-‘Thank you, Chivery, quite well. And you?’
+‘Thank you, Chivery, quite [[Well|well]]. And you?’
 
 Mr Chivery said in a low growl, ‘Oh! _he_ was all right.’ Which was his
 general way of acknowledging inquiries after his health when a little
@@ -41,8 +41,8 @@ anywhere for nothing.
 
 ‘No odds,’ returned Mr Chivery. ‘Never mind. Mr Frederick going out?’
 
-‘Yes, Chivery, my brother is going home to bed. He is tired, and
-not quite well. Take care, Frederick, take care. Good night, my dear
+‘Yes, Chivery, my brother is going [[Home|home]] to bed. He is tired, and
+not quite [[Well|well]]. Take care, Frederick, take care. Good [[Night|night]], my dear
 Frederick!’
 
 Shaking hands with his brother, and touching his greasy hat to the
@@ -53,7 +53,7 @@ amiable solicitude of a superior being that he should come to no harm.
 ‘Be so kind as to keep the door open a moment, Chivery, that I may see
 him go along the passage and down the steps. Take care, Frederick! (He
 is very infirm.) Mind the steps! (He is so very absent.) Be careful
-how you cross, Frederick. (I really don’t like the notion of his going
+how you [[Cross|cross]], Frederick. (I really don’t like the notion of his going
 wandering at large, he is so extremely liable to be run over.)’
 
 With these words, and with a face expressive of many uneasy doubts and
@@ -64,27 +64,27 @@ went round among the Collegians assembled.
 
 But he did not receive it with unqualified assent; on the contrary, he
 said, No, gentlemen, no; let them not misunderstand him. His brother
-Frederick was much broken, no doubt, and it might be more comfortable to
+Frederick was much broken, no [[Doubt|doubt]], and it might be more comfortable to
 himself (the Father of the Marshalsea) to know that he was safe within
 the walls. Still, it must be remembered that to support an existence
 there during many years, required a certain combination of qualities--he
 did not say high qualities, but qualities--moral qualities. Now, had his
-brother Frederick that peculiar union of qualities? Gentlemen, he was a
+brother Frederick that peculiar [[Union|union]] of qualities? Gentlemen, he was a
 most excellent man, a most gentle, tender, and estimable man, with the
-simplicity of a child; but would he, though unsuited for most other
+simplicity of a [[Child|child]]; but would he, though unsuited for most other
 places, do for that place? No; he said confidently, no! And, he said,
 Heaven forbid that Frederick should be there in any other character
 than in his present voluntary character! Gentlemen, whoever came to
-that College, to remain there a length of time, must have strength of
+that College, to remain there a length of [[Time|time]], must have strength of
 character to go through a good deal and to come out of a good deal. Was
 his beloved brother Frederick that man? No. They saw him, even as it
 was, crushed. Misfortune crushed him. He had not power of recoil enough,
-not elasticity enough, to be a long time in such a place, and yet
-preserve his self-respect and feel conscious that he was a gentleman.
+not elasticity enough, to be a long [[Time|time]] in such a place, and yet
+preserve his [[Self|self]]-respect and feel conscious that he was a gentleman.
 Frederick had not (if he might use the expression) Power enough to see
 in any delicate little attentions and--and--Testimonials that he might
-under such circumstances receive, the goodness of human nature, the fine
-spirit animating the Collegians as a community, and at the same time
+under such circumstances receive, the goodness of human [[Nature|nature]], the fine
+spirit animating the Collegians as a community, and at the same [[Time|time]]
 no degradation to himself, and no depreciation of his claims as a
 gentleman. Gentlemen, God bless you!
 
@@ -98,23 +98,23 @@ Collegian in buttonless black who had no hopes, up his own poor shabby
 staircase to his own poor shabby room.
 
 There, the table was laid for his supper, and his old grey gown was
-ready for him on his chair-back at the fire. His daughter put her
-little prayer-book in her pocket--had she been praying for pity on all
-prisoners and captives!--and rose to welcome him.
+ready for him on his chair-back at the [[Fire|fire]]. His daughter put her
+little [[Prayer|prayer]]-book in her pocket--had she been praying for pity on all
+prisoners and captives!--and [[Rose|rose]] to welcome him.
 
-Uncle had gone home, then? she asked him, as she changed his coat and
-gave him his black velvet cap. Yes, uncle had gone home. Had her father
+Uncle had gone [[Home|home]], then? she asked him, as she changed his coat and
+gave him his black velvet cap. Yes, uncle had gone [[Home|home]]. Had her father
 enjoyed his walk? Why, not much, Amy; not much. No! Did he not feel
-quite well?
+quite [[Well|well]]?
 
 As she stood behind him, leaning over his chair so lovingly, he looked
-with downcast eyes at the fire. An uneasiness stole over him that was
+with downcast eyes at the [[Fire|fire]]. An uneasiness stole over him that was
 like a touch of shame; and when he spoke, as he presently did, it was in
 an unconnected and embarrassed manner.
 
 ‘Something, I--hem!--I don’t know what, has gone wrong with Chivery.
-He is not--ha!--not nearly so obliging and attentive as usual to-night.
-It--hem!--it’s a little thing, but it puts me out, my love. It’s
+He is not--ha!--not nearly so obliging and attentive as usual to-[[Night|night]].
+It--hem!--it’s a little thing, but it puts me out, my [[Love|love]]. It’s
 impossible to forget,’ turning his hands over and over and looking
 closely at them, ‘that--hem!--that in such a life as mine, I am
 unfortunately dependent on these men for something every hour in the
@@ -124,9 +124,9 @@ Her arm was on his shoulder, but she did not look in his face while he
 spoke. Bending her head she looked another way.
 
 ‘I--hem!--I can’t think, Amy, what has given Chivery offence. He is
-generally so--so very attentive and respectful. And to-night he was
+generally so--so very attentive and respectful. And to-[[Night|night]] he was
 quite--quite short with me. Other people there too! Why, good Heaven!
 if I was to lose the support and recognition of Chivery and his brother
-officers, I might starve to death here.’ While he spoke, he was opening
-and shutting his hands like valves; so conscious all the time of that
+officers, I might starve to [[Death|death]] here.’ While he spoke, he was opening
+and shutting his hands like valves; so conscious all the [[Time|time]] of that
 touch of shame, that he shrunk before his own knowledge of his meaning.

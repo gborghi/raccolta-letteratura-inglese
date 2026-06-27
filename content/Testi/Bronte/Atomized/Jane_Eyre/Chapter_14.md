@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 14"
+title: "[[Jane Eyre]] — Chapter 14"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -20,9 +20,9 @@ CHAPTER XIV
 For several subsequent days I saw little of Mr. Rochester. In the
 mornings he seemed much engaged with business, and, in the afternoon,
 gentlemen from Millcote or the neighbourhood called, and sometimes
-stayed to dine with him. When his sprain was well enough to admit of
-horse exercise, he rode out a good deal; probably to return these
-visits, as he generally did not come back till late at night.
+stayed to dine with him. When his sprain was [[Well|well]] enough to admit of
+[[Horse|horse]] exercise, he rode out a good deal; probably to return these
+visits, as he generally did not come back till late at [[Night|night]].
 
 During this interval, even Adèle was seldom sent for to his presence,
 and all my acquaintance with him was confined to an occasional
@@ -36,7 +36,7 @@ and flow depended on causes quite disconnected with me.
 One day he had had company to dinner, and had sent for my portfolio; in
 order, doubtless, to exhibit its contents: the gentlemen went away
 early, to attend a public meeting at Millcote, as Mrs. Fairfax informed
-me; but the night being wet and inclement, Mr. Rochester did not
+me; but the [[Night|night]] being wet and inclement, Mr. Rochester did not
 accompany them. Soon after they were gone he rang the bell: a message
 came that I and Adèle were to go downstairs. I brushed Adèle’s hair and
 made her neat, and having ascertained that I was myself in my usual
@@ -50,12 +50,12 @@ entered the dining-room. She appeared to know it by instinct.
 “Ma boite! ma boite!” exclaimed she, running towards it.
 
 “Yes, there is your ‘boite’ at last: take it into a corner, you genuine
-daughter of Paris, and amuse yourself with disembowelling it,” said the
+daughter of [[Paris]], and amuse yourself with disembowelling it,” said the
 deep and rather sarcastic voice of Mr. Rochester, proceeding from the
 depths of an immense easy-chair at the fireside. “And mind,” he
 continued, “don’t bother me with any details of the anatomical process,
 or any notice of the condition of the entrails: let your operation be
-conducted in silence: tiens-toi tranquille, enfant; comprends-tu?”
+conducted in [[Silence|silence]]: tiens-toi tranquille, enfant; comprends-tu?”
 
 Adèle seemed scarcely to need the warning; she had already retired to a
 sofa with her treasure, and was busy untying the cord which secured the
@@ -68,7 +68,7 @@ contemplation.
 “Is Miss Eyre there?” now demanded the master, half rising from his
 seat to look round to the door, near which I still stood.
 
-“Ah! well, come forward; be seated here.” He drew a chair near his own.
+“Ah! [[Well|well]], come forward; be seated here.” He drew a chair near his own.
 “I am not fond of the prattle of children,” he continued; “for, old
 bachelor as I am, I have no pleasant associations connected with their
 lisp. It would be intolerable to me to pass a whole evening
@@ -77,7 +77,7 @@ Eyre; sit down exactly where I placed it—if you please, that is.
 Confound these civilities! I continually forget them. Nor do I
 particularly affect simple-minded old ladies. By-the-bye, I must have
 mine in mind; it won’t do to neglect her; she is a Fairfax, or wed to
-one; and blood is said to be thicker than water.”
+one; and [[Blood|blood]] is said to be thicker than [[Water|water]].”
 
 He rang, and despatched an invitation to Mrs. Fairfax, who soon
 arrived, knitting-basket in hand.
@@ -106,26 +106,26 @@ it seemed a matter of course to obey him promptly.
 
 We were, as I have said, in the dining-room: the lustre, which had been
 lit for dinner, filled the room with a festal breadth of light; the
-large fire was all red and clear; the purple curtains hung rich and
-ample before the lofty window and loftier arch; everything was still,
+large [[Fire|fire]] was all red and clear; the purple curtains hung rich and
+ample before the lofty [[Window|window]] and loftier arch; everything was still,
 save the subdued chat of Adèle (she dared not speak loud), and, filling
-up each pause, the beating of winter rain against the panes.
+up each pause, the beating of [[Winter|winter]] rain against the panes.
 
 Mr. Rochester, as he sat in his damask-covered chair, looked different
 to what I had seen him look before; not quite so stern—much less
 gloomy. There was a smile on his lips, and his eyes sparkled, whether
 with wine or not, I am not sure; but I think it very probable. He was,
 in short, in his after-dinner mood; more expanded and genial, and also
-more self-indulgent than the frigid and rigid temper of the morning;
+more [[Self|self]]-indulgent than the frigid and rigid temper of the morning;
 still he looked preciously grim, cushioning his massive head against
-the swelling back of his chair, and receiving the light of the fire on
+the swelling back of his chair, and receiving the light of the [[Fire|fire]] on
 his granite-hewn features, and in his great, dark eyes; for he had
 great, dark eyes, and very fine eyes, too—not without a certain change
 in their depths sometimes, which, if it was not softness, reminded you,
 at least, of that feeling.
 
-He had been looking two minutes at the fire, and I had been looking the
-same length of time at him, when, turning suddenly, he caught my gaze
+He had been looking two minutes at the [[Fire|fire]], and I had been looking the
+same length of [[Time|time]] at him, when, turning suddenly, he caught my gaze
 fastened on his physiognomy.
 
 “You examine me, Miss Eyre,” said he: “do you think me handsome?”
@@ -135,7 +135,7 @@ something conventionally vague and polite; but the answer somehow
 slipped from my tongue before I was aware—“No, sir.”
 
 “Ah! By my word! there is something singular about you,” said he: “you
-have the air of a little _nonnette_; quaint, quiet, grave, and simple,
+have the air of a little _nonnette_; quaint, quiet, [[Grave|grave]], and simple,
 as you sit with your hands before you, and your eyes generally bent on
 the carpet (except, by-the-bye, when they are directed piercingly to my
 face; as just now, for instance); and when one asks you a question, or
@@ -145,10 +145,10 @@ by it?”
 
 “Sir, I was too plain; I beg your pardon. I ought to have replied that
 it was not easy to give an impromptu answer to a question about
-appearances; that tastes mostly differ; and that beauty is of little
+appearances; that tastes mostly differ; and that [[Beauty|beauty]] is of little
 consequence, or something of that sort.”
 
-“You ought to have replied no such thing. Beauty of little consequence,
+“You ought to have replied no such thing. [[Beauty]] of little consequence,
 indeed! And so, under pretence of softening the previous outrage, of
 stroking and soothing me into placidity, you stick a sly penknife under
 my ear! Go on: what fault do you find with me, pray? I suppose I have
@@ -165,7 +165,7 @@ brow, and showed a solid enough mass of intellectual organs, but an
 abrupt deficiency where the suave sign of benevolence should have
 risen.
 
-“Now, ma’am, am I a fool?”
+“Now, ma’am, am I a [[Fool|fool]]?”
 
 “Far from it, sir. You would, perhaps, think me rude if I inquired in
 return whether you are a philanthropist?”
@@ -173,7 +173,7 @@ return whether you are a philanthropist?”
 “There again! Another stick of the penknife, when she pretended to pat
 my head: and that is because I said I did not like the society of
 children and old women (low be it spoken!). No, young lady, I am not a
-general philanthropist; but I bear a conscience;” and he pointed to the
+general philanthropist; but I bear a [[Conscience|conscience]];” and he pointed to the
 prominences which are said to indicate that faculty, and which,
 fortunately for him, were sufficiently conspicuous; giving, indeed, a
 marked breadth to the upper part of his head: “and, besides, I once had
@@ -183,9 +183,9 @@ unlucky; but Fortune has knocked me about since: she has even kneaded
 me with her knuckles, and now I flatter myself I am hard and tough as
 an India-rubber ball; pervious, though, through a chink or two still,
 and with one sentient point in the middle of the lump. Yes: does that
-leave hope for me?”
+leave [[Hope|hope]] for me?”
 
-“Hope of what, sir?”
+“[[Hope]] of what, sir?”
 
 “Of my final re-transformation from India-rubber back to flesh?”
 
@@ -196,30 +196,30 @@ was capable of being re-transformed?
 “You looked very much puzzled, Miss Eyre; and though you are not pretty
 any more than I am handsome, yet a puzzled air becomes you; besides, it
 is convenient, for it keeps those searching eyes of yours away from my
-physiognomy, and busies them with the worsted flowers of the rug; so
+physiognomy, and busies them with the worsted [[Flowers|flowers]] of the rug; so
 puzzle on. Young lady, I am disposed to be gregarious and communicative
-to-night.”
+to-[[Night|night]].”
 
-With this announcement he rose from his chair, and stood, leaning his
+With this announcement he [[Rose|rose]] from his chair, and stood, leaning his
 arm on the marble mantelpiece: in that attitude his shape was seen
-plainly as well as his face; his unusual breadth of chest,
+plainly as [[Well|well]] as his face; his unusual breadth of chest,
 disproportionate almost to his length of limb. I am sure most people
 would have thought him an ugly man; yet there was so much unconscious
-pride in his port; so much ease in his demeanour; such a look of
+[[Pride|pride]] in his port; so much ease in his demeanour; such a look of
 complete indifference to his own external appearance; so haughty a
 reliance on the power of other qualities, intrinsic or adventitious, to
 atone for the lack of mere personal attractiveness, that, in looking at
 him, one inevitably shared the indifference, and, even in a blind,
-imperfect sense, put faith in the confidence.
+imperfect sense, put [[Faith|faith]] in the confidence.
 
-“I am disposed to be gregarious and communicative to-night,” he
-repeated, “and that is why I sent for you: the fire and the chandelier
+“I am disposed to be gregarious and communicative to-[[Night|night]],” he
+repeated, “and that is why I sent for you: the [[Fire|fire]] and the chandelier
 were not sufficient company for me; nor would Pilot have been, for none
 of these can talk. Adèle is a degree better, but still far below the
 mark; Mrs. Fairfax ditto; you, I am persuaded, can suit me if you will:
 you puzzled me the first evening I invited you down here. I have almost
 forgotten you since: other ideas have driven yours from my head; but
-to-night I am resolved to be at ease; to dismiss what importunes, and
+to-[[Night|night]] I am resolved to be at ease; to dismiss what importunes, and
 recall what pleases. It would please me now to draw you out—to learn
 more of you—therefore speak.”
 
@@ -248,8 +248,8 @@ pardon. The fact is, once for all, I don’t wish to treat you like an
 inferior: that is” (correcting himself), “I claim only such superiority
 as must result from twenty years’ difference in age and a century’s
 advance in experience. This is legitimate, _et j’y tiens_, as Adèle
-would say; and it is by virtue of this superiority, and this alone,
-that I desire you to have the goodness to talk to me a little now, and
+would say; and it is by virtue of this superiority, and this [[Alone|alone]],
+that I [[Desire|desire]] you to have the goodness to talk to me a little now, and
 divert my thoughts, which are galled with dwelling on one
 point—cankering as a rusty nail.”
 
@@ -265,7 +265,7 @@ be a little masterful, abrupt, perhaps exacting, sometimes, on the
 grounds I stated, namely, that I am old enough to be your father, and
 that I have battled through a varied experience with many men of many
 nations, and roamed over half the globe, while you have lived quietly
-with one set of people in one house?”
+with one set of people in one [[house]]?”
 
 “Do as you please, sir.”
 
@@ -275,7 +275,7 @@ evasive one. Reply clearly.”
 “I don’t think, sir, you have a right to command me, merely because you
 are older than I, or because you have seen more of the world than I
 have; your claim to superiority depends on the use you have made of
-your time and experience.”
+your [[Time|time]] and experience.”
 
 “Humph! Promptly spoken. But I won’t allow that, seeing that it would
 never suit my case, as I have made an indifferent, not to say a bad,
@@ -286,7 +286,7 @@ piqued or hurt by the tone of command. Will you?”
 I smiled: I thought to myself Mr. Rochester _is_ peculiar—he seems to
 forget that he pays me £30 per annum for receiving his orders.
 
-“The smile is very well,” said he, catching instantly the passing
+“The smile is very [[Well|well]],” said he, catching instantly the passing
 expression; “but speak too.”
 
 “I was thinking, sir, that very few masters would trouble themselves to
@@ -294,8 +294,8 @@ inquire whether or not their paid subordinates were piqued and hurt by
 their orders.”
 
 “Paid subordinates! What! you are my paid subordinate, are you? Oh yes,
-I had forgotten the salary! Well then, on that mercenary ground, will
-you agree to let me hector a little?”
+I had forgotten the salary! [[Well]] then, on that mercenary ground, will
+you agree to let me [[Hector|hector]] a little?”
 
 “No, sir, not on that ground; but, on the ground that you did forget
 it, and that you care whether or not a dependent is comfortable in his
@@ -319,44 +319,44 @@ misapprehension of one’s meaning are the usual rewards of candour. Not
 three in three thousand raw school-girl-governesses would have answered
 me as you have just done. But I don’t mean to flatter you: if you are
 cast in a different mould to the majority, it is no merit of yours:
-Nature did it. And then, after all, I go too fast in my conclusions:
+[[Nature]] did it. And then, after all, I go too fast in my conclusions:
 for what I yet know, you may be no better than the rest; you may have
 intolerable defects to counterbalance your few good points.”
 
 “And so may you,” I thought. My eye met his as the idea crossed my
 mind: he seemed to read the glance, answering as if its import had been
-spoken as well as imagined—
+spoken as [[Well|well]] as imagined—
 
 “Yes, yes, you are right,” said he; “I have plenty of faults of my own:
 I know it, and I don’t wish to palliate them, I assure you. God wot I
 need not be too severe about others; I have a past existence, a series
 of deeds, a colour of life to contemplate within my own breast, which
-might well call my sneers and censures from my neighbours to myself. I
+might [[Well|well]] call my sneers and censures from my neighbours to myself. I
 started, or rather (for like other defaulters, I like to lay half the
 blame on ill fortune and adverse circumstances) was thrust on to a
 wrong tack at the age of one-and-twenty, and have never recovered the
 right course since: but I might have been very different; I might have
 been as good as you—wiser—almost as stainless. I envy you your peace of
-mind, your clean conscience, your unpolluted memory. Little girl, a
-memory without blot or contamination must be an exquisite treasure—an
+mind, your clean [[Conscience|conscience]], your unpolluted [[Memory|memory]]. Little girl, a
+[[Memory|memory]] without blot or contamination must be an exquisite treasure—an
 inexhaustible source of pure refreshment: is it not?”
 
-“How was your memory when you were eighteen, sir?”
+“How was your [[Memory|memory]] when you were eighteen, sir?”
 
-“All right then; limpid, salubrious: no gush of bilge water had turned
+“All right then; limpid, salubrious: no gush of bilge [[Water|water]] had turned
 it to fetid puddle. I was your equal at eighteen—quite your equal.
-Nature meant me to be, on the whole, a good man, Miss Eyre; one of the
+[[Nature]] meant me to be, on the whole, a good man, Miss Eyre; one of the
 better kind, and you see I am not so. You would say you don’t see it;
 at least I flatter myself I read as much in your eye (beware,
 by-the-bye, what you express with that organ; I am quick at
 interpreting its language). Then take my word for it,—I am not a
-villain: you are not to suppose that—not to attribute to me any such
+[[Villain|villain]]: you are not to suppose that—not to attribute to me any such
 bad eminence; but, owing, I verily believe, rather to circumstances
 than to my natural bent, I am a trite commonplace sinner, hackneyed in
 all the poor petty dissipations with which the rich and worthless try
-to put on life. Do you wonder that I avow this to you? Know, that in
+to put on life. Do you [[Wonder|wonder]] that I avow this to you? Know, that in
 the course of your future life you will often find yourself elected the
-involuntary confidant of your acquaintances’ secrets: people will
+involuntary confidant of your acquaintances’ [[Secrets|secrets]]: people will
 instinctively find out, as I have done, that it is not your forte to
 tell of yourself, but to listen while others talk of themselves; they
 will feel, too, that you listen with no malevolent scorn of their
@@ -366,7 +366,7 @@ manifestations.”
 
 “How do you know?—how can you guess all this, sir?”
 
-“I know it well; therefore I proceed almost as freely as if I were
+“I know it [[Well|well]]; therefore I proceed almost as freely as if I were
 writing my thoughts in a diary. You would say, I should have been
 superior to circumstances; so I should—so I should; but you see I was
 not. When fate wronged me, I had not the wisdom to remain cool: I
@@ -374,11 +374,11 @@ turned desperate; then I degenerated. Now, when any vicious simpleton
 excites my disgust by his paltry ribaldry, I cannot flatter myself that
 I am better than he: I am forced to confess that he and I are on a
 level. I wish I had stood firm—God knows I do! Dread remorse when you
-are tempted to err, Miss Eyre; remorse is the poison of life.”
+are tempted to err, Miss Eyre; remorse is the [[Poison|poison]] of life.”
 
 “Repentance is said to be its cure, sir.”
 
-“It is not its cure. Reformation may be its cure; and I could reform—I
+“It is not its cure. [[Reformation]] may be its cure; and I could [[Reform|reform]]—I
 have strength yet for that—if—but where is the use of thinking of it,
 hampered, burdened, cursed as I am? Besides, since happiness is
 irrevocably denied me, I have a right to get pleasure out of life: and
@@ -399,11 +399,11 @@ you neophyte, that have not passed the porch of life, and are
 absolutely unacquainted with its mysteries.”
 
 “I only remind you of your own words, sir: you said error brought
-remorse, and you pronounced remorse the poison of existence.”
+remorse, and you pronounced remorse the [[Poison|poison]] of existence.”
 
 “And who talks of error now? I scarcely think the notion that flittered
 across my brain was an error. I believe it was an inspiration rather
-than a temptation: it was very genial, very soothing—I know that. Here
+than a [[Temptation|temptation]]: it was very genial, very soothing—I know that. Here
 it comes again! It is no devil, I assure you; or if it be, it has put
 on the robes of an angel of light. I think I must admit so fair a guest
 when it asks entrance to my heart.”
@@ -419,7 +419,7 @@ the suggestion had returned upon you. I feel sure it will work you more
 misery if you listen to it.”
 
 “Not at all—it bears the most gracious message in the world: for the
-rest, you are not my conscience-keeper, so don’t make yourself uneasy.
+rest, you are not my [[Conscience|conscience]]-keeper, so don’t make yourself uneasy.
 Here, come in, bonny wanderer!”
 
 He said this as if he spoke to a vision, viewless to any eye but his
@@ -427,15 +427,15 @@ own; then, folding his arms, which he had half extended, on his chest,
 he seemed to enclose in their embrace the invisible being.
 
 “Now,” he continued, again addressing me, “I have received the
-pilgrim—a disguised deity, as I verily believe. Already it has done me
+[[Pilgrim|pilgrim]]—a disguised deity, as I verily believe. Already it has done me
 good: my heart was a sort of charnel; it will now be a shrine.”
 
-“To speak truth, sir, I don’t understand you at all: I cannot keep up
+“To speak [[Truth|truth]], sir, I don’t understand you at all: I cannot keep up
 the conversation, because it has got out of my depth. Only one thing, I
 know: you said you were not as good as you should like to be, and that
 you regretted your own imperfection;—one thing I can comprehend: you
-intimated that to have a sullied memory was a perpetual bane. It seems
-to me, that if you tried hard, you would in time find it possible to
+intimated that to have a sullied [[Memory|memory]] was a perpetual bane. It seems
+to me, that if you tried hard, you would in [[Time|time]] find it possible to
 become what you yourself would approve; and that if from this day you
 began with resolution to correct your thoughts and actions, you would
 in a few years have laid up a new and stainless store of recollections,
@@ -453,7 +453,7 @@ been.”
 “And better?”
 
 “And better—so much better as pure ore is than foul dross. You seem to
-doubt me; I don’t doubt myself: I know what my aim is, what my motives
+[[Doubt|doubt]] me; I don’t [[Doubt|doubt]] myself: I know what my aim is, what my motives
 are; and at this moment I pass a law, unalterable as that of the Medes
 and Persians, that both are right.”
 
@@ -473,7 +473,7 @@ abuse it.”
 “I am: so are you—what then?”
 
 “The human and fallible should not arrogate a power with which the
-divine and perfect alone can be safely intrusted.”
+divine and perfect [[Alone|alone]] can be safely intrusted.”
 
 “What power?”
 
@@ -482,7 +482,7 @@ right.’”
 
 “‘Let it be right’—the very words: you have pronounced them.”
 
-“_May_ it be right then,” I said, as I rose, deeming it useless to
+“_May_ it be right then,” I said, as I [[Rose|rose]], deeming it useless to
 continue a discourse which was all darkness to me; and, besides,
 sensible that the character of my interlocutor was beyond my
 penetration; at least, beyond its present reach; and feeling the
@@ -498,19 +498,19 @@ conviction of ignorance.
 “Your language is enigmatical, sir: but though I am bewildered, I am
 certainly not afraid.”
 
-“You _are_ afraid—your self-love dreads a blunder.”
+“You _are_ afraid—your [[Self|self]]-[[Love|love]] dreads a blunder.”
 
 “In that sense I do feel apprehensive—I have no wish to talk nonsense.”
 
-“If you did, it would be in such a grave, quiet manner, I should
+“If you did, it would be in such a [[Grave|grave]], quiet manner, I should
 mistake it for sense. Do you never laugh, Miss Eyre? Don’t trouble
 yourself to answer—I see you laugh rarely; but you can laugh very
 merrily: believe me, you are not naturally austere, any more than I am
 naturally vicious. The Lowood constraint still clings to you somewhat;
 controlling your features, muffling your voice, and restricting your
-limbs; and you fear in the presence of a man and a brother—or father,
+limbs; and you [[Fear|fear]] in the presence of a man and a brother—or father,
 or master, or what you will—to smile too gaily, speak too freely, or
-move too quickly: but, in time, I think you will learn to be natural
+move too quickly: but, in [[Time|time]], I think you will learn to be natural
 with me, as I find it impossible to be conventional with you; and then
 your looks and movements will have more vivacity and variety than they
 dare offer now. I see at intervals the glance of a curious sort of bird
@@ -521,13 +521,13 @@ still bent on going?”
 “It has struck nine, sir.”
 
 “Never mind,—wait a minute: Adèle is not ready to go to bed yet. My
-position, Miss Eyre, with my back to the fire, and my face to the room,
+position, Miss Eyre, with my back to the [[Fire|fire]], and my face to the room,
 favours observation. While talking to you, I have also occasionally
 watched Adèle (I have my own reasons for thinking her a curious
 study,—reasons that I may, nay, that I shall, impart to you some day).
 She pulled out of her box, about ten minutes ago, a little pink silk
 frock; rapture lit her face as she unfolded it; coquetry runs in her
-blood, blends with her brains, and seasons the marrow of her bones. ‘Il
+[[Blood|blood]], blends with her brains, and [[Seasons|seasons]] the marrow of her bones. ‘Il
 faut que je l’essaie!’ cried she, ‘et à l’instant même!’ and she rushed
 out of the room. She is now with Sophie, undergoing a robing process:
 in a few minutes she will re-enter; and I know what I shall see,—a
@@ -538,7 +538,7 @@ it will be realised.”
 
 Ere long, Adèle’s little foot was heard tripping across the hall. She
 entered, transformed as her guardian had predicted. A dress of
-rose-coloured satin, very short, and as full in the skirt as it could
+[[Rose|rose]]-coloured satin, very short, and as full in the skirt as it could
 be gathered, replaced the brown frock she had previously worn; a wreath
 of rosebuds circled her forehead; her feet were dressed in silk
 stockings and small white satin sandals.
@@ -557,11 +557,11 @@ monsieur?”
 “Pre-cise-ly!” was the answer; “and, ‘comme cela,’ she charmed my
 English gold out of my British breeches’ pocket. I have been green,
 too, Miss Eyre,—ay, grass green: not a more vernal tint freshens you
-now than once freshened me. My Spring is gone, however, but it has left
+now than once freshened me. My [[Spring]] is gone, however, but it has left
 me that French floweret on my hands, which, in some moods, I would fain
 be rid of. Not valuing now the root whence it sprang; having found that
-it was of a sort which nothing but gold dust could manure, I have but
+it was of a sort which nothing but gold [[Dust|dust]] could manure, I have but
 half a liking to the blossom, especially when it looks so artificial as
 just now. I keep it and rear it rather on the Roman Catholic principle
 of expiating numerous sins, great or small, by one good work. I’ll
-explain all this some day. Good-night.”
+explain all this some day. Good-[[Night|night]].”

@@ -24,7 +24,7 @@ neck, and said, in a choking voice,
 
 “My dear Paul! He’s quite a Dombey!”
 
-“Well, well!” returned her brother—for Mr Dombey was her brother—“I
+“[[Well]], [[Well|well]]!” returned her brother—for Mr Dombey was her brother—“I
 think he is like the family. Don’t agitate yourself, Louisa.”
 
 “It’s very foolish of me,” said Louisa, sitting down, and taking out
@@ -32,7 +32,7 @@ her pocket-handkerchief, “but he’s—he’s such a perfect Dombey!”
 
 Mr Dombey coughed.
 
-“It’s so extraordinary,” said Louisa; smiling through her tears, which
+“It’s so extraordinary,” said Louisa; smiling through her [[Tears|tears]], which
 indeed were not overpowering, “as to be perfectly ridiculous. So
 completely our family. _I_ never saw anything like it in my life!”
 
@@ -43,7 +43,7 @@ Fanny?”
 it’s nothing whatever. There is exhaustion, certainly, but nothing like
 what I underwent myself, either with George or Frederick. An effort is
 necessary. That’s all. If dear Fanny were a Dombey!—But I daresay
-she’ll make it; I have no doubt she’ll make it. Knowing it to be
+she’ll make it; I have no [[Doubt|doubt]] she’ll make it. Knowing it to be
 required of her, as a duty, of course she’ll make it. My dear Paul,
 it’s very weak and silly of me, I know, to be so trembly and shaky from
 head to foot; but I am so very queer that I must ask you for a glass of
@@ -52,17 +52,17 @@ wine and a morsel of that cake.”
 Mr Dombey promptly supplied her with these refreshments from a tray on
 the table.
 
-“I shall not drink my love to you, Paul,” said Louisa: “I shall drink
+“I shall not drink my [[Love|love]] to you, Paul,” said Louisa: “I shall drink
 to the little Dombey. Good gracious me!—it’s the most astonishing thing
 I ever knew in all my days, he’s such a perfect Dombey.”
 
 Quenching this expression of opinion in a short hysterical laugh which
-terminated in tears, Louisa cast up her eyes, and emptied her glass.
+terminated in [[Tears|tears]], Louisa cast up her eyes, and emptied her glass.
 
 “I know it’s very weak and silly of me,” she repeated, “to be so
 trembly and shaky from head to foot, and to allow my feelings so
 completely to get the better of me, but I cannot help it. I thought I
-should have fallen out of the staircase window as I came down from
+should have fallen out of the staircase [[Window|window]] as I came down from
 seeing dear Fanny, and that tiddy ickle sing.” These last words
 originated in a sudden vivid reminiscence of the baby.
 
@@ -71,7 +71,7 @@ They were succeeded by a gentle tap at the door.
 “Mrs Chick,” said a very bland female voice outside, “how are you now,
 my dear friend?”
 
-“My dear Paul,” said Louisa in a low voice, as she rose from her seat,
+“My dear Paul,” said Louisa in a low voice, as she [[Rose|rose]] from her seat,
 “it’s Miss Tox. The kindest creature! I never could have got here
 without her! Miss Tox, my brother Mr Dombey. Paul, my dear, my very
 particular friend Miss Tox.”
@@ -83,7 +83,7 @@ washed out. But for this she might have been described as the very pink
 of general propitiation and politeness. From a long habit of listening
 admiringly to everything that was said in her presence, and looking at
 the speakers as if she were mentally engaged in taking off impressions
-of their images upon her soul, never to part with the same but with
+of their images upon her [[Soul|soul]], never to part with the same but with
 life, her head had quite settled on one side. Her hands had contracted
 a spasmodic habit of raising themselves of their own accord as in
 involuntary admiration. Her eyes were liable to a similar affection.
@@ -94,26 +94,26 @@ as in an invincible determination never to turn up at anything.
 
 Miss Tox’s dress, though perfectly genteel and good, had a certain
 character of angularity and scantiness. She was accustomed to wear odd
-weedy little flowers in her bonnets and caps. Strange grasses were
+weedy little [[Flowers|flowers]] in her bonnets and caps. Strange grasses were
 sometimes perceived in her hair; and it was observed by the curious, of
 all her collars, frills, tuckers, wristbands, and other gossamer
 articles—indeed of everything she wore which had two ends to it
 intended to unite—that the two ends were never on good terms, and
 wouldn’t quite meet without a struggle. She had furry articles for
-winter wear, as tippets, boas, and muffs, which stood up on end in
+[[Winter|winter]] wear, as tippets, boas, and muffs, which stood up on end in
 rampant manner, and were not at all sleek. She was much given to the
 carrying about of small bags with snaps to them, that went off like
 little pistols when they were shut up; and when full-dressed, she wore
 round her neck the barrenest of lockets, representing a fishy old eye,
 with no approach to speculation in it. These and other appearances of a
-similar nature, had served to propagate the opinion, that Miss Tox was
+similar [[Nature|nature]], had served to propagate the opinion, that Miss Tox was
 a lady of what is called a limited independence, which she turned to
 the best account. Possibly her mincing gait encouraged the belief, and
 suggested that her clipping a step of ordinary compass into two or
 three, originated in her habit of making the most of everything.
 
 “I am sure,” said Miss Tox, with a prodigious curtsey, “that to have
-the honour of being presented to Mr Dombey is a distinction which I
+the [[Honour|honour]] of being presented to Mr Dombey is a distinction which I
 have long sought, but very little expected at the present moment. My
 dear Mrs Chick—may I say Louisa!”
 

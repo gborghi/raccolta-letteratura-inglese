@@ -20,9 +20,9 @@ MR BOFFIN IN CONSULTATION
 
 
 Whosoever had gone out of Fleet Street into the Temple at the date of
-this history, and had wandered disconsolate about the Temple until he
+this [[history]], and had wandered disconsolate about the Temple until he
 stumbled on a dismal churchyard, and had looked up at the dismal windows
-commanding that churchyard until at the most dismal window of them
+commanding that churchyard until at the most dismal [[Window|window]] of them
 all he saw a dismal boy, would in him have beheld, at one grand
 comprehensive swoop of the eye, the managing clerk, junior clerk,
 common-law clerk, conveyancing clerk, chancery clerk, every refinement
@@ -32,9 +32,9 @@ the newspapers eminent solicitor.
 Mr Boffin having been several times in communication with this clerkly
 essence, both on its own ground and at the Bower, had no difficulty in
 identifying it when he saw it up in its dusty eyrie. To the second floor
-on which the window was situated, he ascended, much pre-occupied in mind
+on which the [[Window|window]] was situated, he ascended, much pre-occupied in mind
 by the uncertainties besetting the Roman Empire, and much regretting the
-death of the amiable Pertinax: who only last night had left the Imperial
+[[Death|death]] of the amiable Pertinax: who only last [[Night|night]] had left the Imperial
 affairs in a state of great confusion, by falling a victim to the fury
 of the praetorian guards.
 
@@ -47,14 +47,14 @@ Blight. ‘Governor in?’
 ‘I don’t want him to give it, you know,’ returned Mr Boffin; ‘I’ll pay
 my way, my boy.’
 
-‘No doubt, sir. Would you walk in? Mr Lightwood ain’t in at the present
+‘No [[Doubt|doubt]], sir. Would you walk in? Mr Lightwood ain’t in at the present
 moment, but I expect him back very shortly. Would you take a seat in Mr
 Lightwood’s room, sir, while I look over our Appointment Book?’
 Young Blight made a great show of fetching from his desk a long thin
 manuscript volume with a brown paper cover, and running his finger down
 the day’s appointments, murmuring, ‘Mr Aggs, Mr Baggs, Mr Caggs, Mr
 Daggs, Mr Faggs, Mr Gaggs, Mr Boffin. Yes, sir; quite right. You are a
-little before your time, sir. Mr Lightwood will be in directly.’
+little before your [[Time|time]], sir. Mr Lightwood will be in directly.’
 
 ‘I’m not in a hurry,’ said Mr Boffin
 
@@ -99,7 +99,7 @@ bitterness were past.
 ‘Fifteen shillings a week,’ said the boy.
 
 ‘About how long might it take you now, at a average rate of going, to be
-a Judge?’ asked Mr Boffin, after surveying his small stature in silence.
+a Judge?’ asked Mr Boffin, after surveying his small stature in [[Silence|silence]].
 
 The boy answered that he had not yet quite worked out that little
 calculation.
@@ -107,21 +107,21 @@ calculation.
 ‘I suppose there’s nothing to prevent your going in for it?’ said Mr
 Boffin.
 
-The boy virtually replied that as he had the honour to be a Briton who
+The boy virtually replied that as he had the [[Honour|honour]] to be a Briton who
 never never never, there was nothing to prevent his going in for it. Yet
 he seemed inclined to suspect that there might be something to prevent
 his coming out with it.
 
 ‘Would a couple of pound help you up at all?’ asked Mr Boffin.
 
-On this head, young Blight had no doubt whatever, so Mr Boffin made him
+On this head, young Blight had no [[Doubt|doubt]] whatever, so Mr Boffin made him
 a present of that sum of money, and thanked him for his attention to his
 (Mr Boffin’s) affairs; which, he added, were now, he believed, as good
 as settled.
 
 Then Mr Boffin, with his stick at his ear, like a Familiar Spirit
 explaining the office to him, sat staring at a little bookcase of Law
-Practice and Law Reports, and at a window, and at an empty blue bag, and
+Practice and Law Reports, and at a [[Window|window]], and at an empty blue bag, and
 at a stick of sealing-wax, and a pen, and a box of wafers, and an apple,
 and a writing-pad—all very dusty—and at a number of inky smears
 and blots, and at an imperfectly-disguised gun-case pretending to be
@@ -136,10 +136,10 @@ commiseration.
 
 Mr Lightwood, without explaining that his weariness was chronic,
 proceeded with his exposition that, all forms of law having been at
-length complied with, will of Harmon deceased having been proved, death
-of Harmon next inheriting having been proved, &c., and so forth, Court
+length complied with, will of Harmon deceased having been proved, [[Death|death]]
+of Harmon next inheriting having been proved, &c., and so forth, [[Court]]
 of Chancery having been moved, &c. and so forth, he, Mr Lightwood, had
-now the gratification, honour, and happiness, again &c. and so forth, of
+now the gratification, [[Honour|honour]], and happiness, again &c. and so forth, of
 congratulating Mr Boffin on coming into possession as residuary legatee,
 of upwards of one hundred thousand pounds, standing in the books of the
 Governor and Company of the Bank of England, again &c. and so forth.
@@ -148,11 +148,11 @@ Governor and Company of the Bank of England, again &c. and so forth.
 it involves no trouble. There are no estates to manage, no rents to
 return so much per cent upon in bad times (which is an extremely dear
 way of getting your name into the newspapers), no voters to become
-parboiled in hot water with, no agents to take the cream off the
+parboiled in hot [[Water|water]] with, no agents to take the cream off the
 milk before it comes to table. You could put the whole in a cash-box
-to-morrow morning, and take it with you to—say, to the Rocky Mountains.
+to-morrow morning, and take it with you to—say, to the Rocky [[Mountains]].
 Inasmuch as every man,’ concluded Mr Lightwood, with an indolent smile,
 ‘appears to be under a fatal spell which obliges him, sooner or later,
-to mention the Rocky Mountains in a tone of extreme familiarity to some
-other man, I hope you’ll excuse my pressing you into the service of that
+to mention the Rocky [[Mountains]] in a tone of extreme familiarity to some
+other man, I [[Hope|hope]] you’ll excuse my pressing you into the service of that
 gigantic range of geographical bores.’

@@ -19,18 +19,18 @@ CHAPTER 72
 When morning came, and they could speak more calmly on the subject of
 their grief, they heard how her life had closed.
 
-She had been dead two days.  They were all about her at the time,
+She had been dead two days.  They were all about her at the [[Time|time]],
 knowing that the end was drawing on.  She died soon after daybreak.
-They had read and talked to her in the earlier portion of the night,
-but as the hours crept on, she sunk to sleep.  They could tell, by what
-she faintly uttered in her dreams, that they were of her journeyings
+They had read and talked to her in the earlier portion of the [[Night|night]],
+but as the hours crept on, she sunk to [[Sleep|sleep]].  They could tell, by what
+she faintly uttered in her [[Dreams|dreams]], that they were of her journeyings
 with the old man; they were of no painful scenes, but of people who had
 helped and used them kindly, for she often said ‘God bless you!’ with
 great fervour.  Waking, she never wandered in her mind but once, and
 that was of beautiful music which she said was in the air.  God knows.
 It may have been.
 
-Opening her eyes at last, from a very quiet sleep, she begged that they
+Opening her eyes at last, from a very quiet [[Sleep|sleep]], she begged that they
 would kiss her once again.  That done, she turned to the old man with a
 lovely smile upon her face--such, they said, as they had never seen,
 and never could forget--and clung with both her arms about his neck.
@@ -39,47 +39,47 @@ They did not know that she was dead, at first.
 She had spoken very often of the two sisters, who, she said, were like
 dear friends to her.  She wished they could be told how much she
 thought about them, and how she had watched them as they walked
-together, by the river side at night.  She would like to see poor Kit,
+together, by the [[River|river]] side at [[Night|night]].  She would like to see poor Kit,
 she had often said of late.  She wished there was somebody to take her
-love to Kit.  And, even then, she never thought or spoke about him, but
+[[Love|love]] to Kit.  And, even then, she never thought or spoke about him, but
 with something of her old, clear, merry laugh.
 
 For the rest, she had never murmured or complained; but with a quiet
 mind, and manner quite unaltered--save that she every day became more
-earnest and more grateful to them--faded like the light upon a summer’s
+earnest and more grateful to them--faded like the light upon a [[Summer|summer]]’s
 evening.
 
-The child who had been her little friend came there, almost as soon as
-it was day, with an offering of dried flowers which he begged them to
-lay upon her breast.  It was he who had come to the window overnight
-and spoken to the sexton, and they saw in the snow traces of small
+The [[Child|child]] who had been her little friend came there, almost as soon as
+it was day, with an offering of dried [[Flowers|flowers]] which he begged them to
+lay upon her breast.  It was he who had come to the [[Window|window]] overnight
+and spoken to the sexton, and they saw in the [[Snow|snow]] traces of small
 feet, where he had been lingering near the room in which she lay,
 before he went to bed.  He had a fancy, it seemed, that they had left
-her there alone; and could not bear the thought.
+her there [[Alone|alone]]; and could not bear the thought.
 
 He told them of his dream again, and that it was of her being restored
 to them, just as she used to be.  He begged hard to see her, saying
-that he would be very quiet, and that they need not fear his being
-alarmed, for he had sat alone by his young brother all day long when he
+that he would be very quiet, and that they need not [[Fear|fear]] his being
+alarmed, for he had sat [[Alone|alone]] by his young brother all day long when he
 was dead, and had felt glad to be so near him.  They let him have his
 wish; and indeed he kept his word, and was, in his childish way, a
 lesson to them all.
 
-Up to that time, the old man had not spoken once--except to her--or
+Up to that [[Time|time]], the old man had not spoken once--except to her--or
 stirred from the bedside.  But, when he saw her little favourite, he
 was moved as they had not seen him yet, and made as though he would
-have him come nearer.  Then, pointing to the bed, he burst into tears
-for the first time, and they who stood by, knowing that the sight of
-this child had done him good, left them alone together.
+have him come nearer.  Then, pointing to the bed, he burst into [[Tears|tears]]
+for the first [[Time|time]], and they who stood by, knowing that the sight of
+this [[Child|child]] had done him good, left them [[Alone|alone]] together.
 
-Soothing him with his artless talk of her, the child persuaded him to
+Soothing him with his artless talk of her, the [[Child|child]] persuaded him to
 take some rest, to walk abroad, to do almost as he desired him.  And
 when the day came on, which must remove her in her earthly shape from
 earthly eyes for ever, he led him away, that he might not know when she
 was taken from him.
 
-They were to gather fresh leaves and berries for her bed.  It was
-Sunday--a bright, clear, wintry afternoon--and as they traversed the
+They were to gather fresh [[Leaves|leaves]] and berries for her bed.  It was
+[[Sunday]]--a bright, clear, wintry afternoon--and as they traversed the
 village street, those who were walking in their path drew back to make
 way for them, and gave them a softened greeting.  Some shook the old
 man kindly by the hand, some stood uncovered while he tottered by, and
@@ -100,24 +100,24 @@ Again the woman said she could not tell.
 ‘We must go back,’ said the old man, hurriedly.  ‘We must see what this
 is.’
 
-‘No, no,’ cried the child, detaining him.  ‘Remember what you promised.
+‘No, no,’ cried the [[Child|child]], detaining him.  ‘Remember what you promised.
 Our way is to the old green lane, where she and I so often were, and
 where you found us, more than once, making those garlands for her
-garden.  Do not turn back!’
+[[Garden|garden]].  Do not turn back!’
 
 ‘Where is she now?’ said the old man.  ‘Tell me that.’
 
-‘Do you not know?’ returned the child.  ‘Did we not leave her, but just
+‘Do you not know?’ returned the [[Child|child]].  ‘Did we not leave her, but just
 now?’
 
 ‘True.  True.  It was her we left--was it?’
 
 He pressed his hand upon his brow, looked vacantly round, and as if
-impelled by a sudden thought, crossed the road, and entered the
-sexton’s house.  He and his deaf assistant were sitting before the
-fire.  Both rose up, on seeing who it was.
+impelled by a sudden thought, crossed the [[Road|road]], and entered the
+sexton’s [[house]].  He and his deaf assistant were sitting before the
+[[Fire|fire]].  Both [[Rose|rose]] up, on seeing who it was.
 
-The child made a hasty sign to them with his hand.  It was the action
+The [[Child|child]] made a hasty sign to them with his hand.  It was the action
 of an instant, but that, and the old man’s look, were quite enough.
 
 ‘Do you--do you bury any one to-day?’ he said, eagerly.
@@ -130,8 +130,8 @@ of an instant, but that, and the old man’s look, were quite enough.
 have no work to do to-day.’
 
 ‘Why then, I’ll go where you will,’ said the old man, turning to the
-child.  ‘You’re sure of what you tell me?  You would not deceive me?  I
-am changed, even in the little time since you last saw me.’
+[[Child|child]].  ‘You’re sure of what you tell me?  You would not deceive me?  I
+am changed, even in the little [[Time|time]] since you last saw me.’
 
 ‘Go thy ways with him, Sir,’ cried the sexton, ‘and Heaven be with ye
 both!’
@@ -139,15 +139,15 @@ both!’
 ‘I am quite ready,’ said the old man, meekly.  ‘Come, boy, come--’ and
 so submitted to be led away.
 
-And now the bell--the bell she had so often heard, by night and day,
+And now the bell--the bell she had so often heard, by [[Night|night]] and day,
 and listened to with solemn pleasure almost as a living voice--rung
 its remorseless toll, for her, so young, so beautiful, so good.
 Decrepit age, and vigorous life, and blooming youth, and helpless
-infancy, poured forth--on crutches, in the pride of strength and
-health, in the full blush of promise, in the mere dawn of life--to
+infancy, poured forth--on crutches, in the [[Pride|pride]] of strength and
+health, in the full blush of promise, in the mere [[Dawn|dawn]] of life--to
 gather round her tomb.  Old men were there, whose eyes were dim and
 senses failing--grandmothers, who might have died ten years ago, and
 still been old--the deaf, the blind, the lame, the palsied, the living
-dead in many shapes and forms, to see the closing of that early grave.
-What was the death it would shut in, to that which still could crawl
+dead in many shapes and forms, to see the closing of that early [[Grave|grave]].
+What was the [[Death|death]] it would shut in, to that which still could crawl
 and creep above it!

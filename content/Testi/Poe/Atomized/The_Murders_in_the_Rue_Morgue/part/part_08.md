@@ -1,5 +1,5 @@
 ---
-title: "The Murders in the Rue Morgue (part 8)"
+title: "[[The Murders in the Rue Morgue]] (part 8)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Murders-in-the-Rue-Morgue-(Poe)"
@@ -18,7 +18,7 @@ tags:
 
       equivalent. It was his humor, now, to decline all conversation on
 
-      the subject of the murder, until about noon the next day. He then
+      the subject of the murder, until about [[Noon|noon]] the next day. He then
 
       asked me, suddenly, if I had observed any thing _peculiar_ at the
 
@@ -38,7 +38,7 @@ tags:
 
 
 
-      “The ‘Gazette,’” he replied, “has not entered, I fear, into the
+      “The ‘Gazette,’” he replied, “has not entered, I [[Fear|fear]], into the
 
       unusual horror of the thing. But dismiss the idle opinions of
 
@@ -64,7 +64,7 @@ tags:
 
       corpse thrust, with the head downward, up the chimney; the
 
-      frightful mutilation of the body of the old lady; these
+      frightful mutilation of the [[Body|body]] of the old lady; these
 
       considerations, with those just mentioned, and others which I
 
@@ -72,7 +72,7 @@ tags:
 
       putting completely at fault the boasted _acumen_, of the
 
-      government agents. They have fallen into the gross but common
+      [[government]] agents. They have fallen into the gross but common
 
       error of confounding the unusual with the abstruse. But it is by
 
@@ -106,11 +106,11 @@ tags:
 
       measure implicated in their perpetration. Of the worst portion of
 
-      the crimes committed, it is probable that he is innocent. I hope
+      the crimes committed, it is probable that he is [[Innocent|innocent]]. I [[Hope|hope]]
 
       that I am right in this supposition; for upon it I build my
 
-      expectation of reading the entire riddle. I look for the man
+      expectation of reading the entire [[Riddle|riddle]]. I look for the man
 
       here—in this room—every moment. It is true that he may not
 
@@ -142,11 +142,11 @@ tags:
 
       upon the stairs, were not the voices of the women themselves, was
 
-      fully proved by the evidence. This relieves us of all doubt upon
+      fully proved by the evidence. This relieves us of all [[Doubt|doubt]] upon
 
       the question whether the old lady could have first destroyed the
 
-      daughter and afterward have committed suicide. I speak of this
+      daughter and afterward have committed [[suicide]]. I speak of this
 
       point chiefly for the sake of method; for the strength of Madame
 
@@ -154,9 +154,9 @@ tags:
 
       thrusting her daughter’s corpse up the chimney as it was found;
 
-      and the nature of the wounds upon her own person entirely
+      and the [[Nature|nature]] of the wounds upon her own person entirely
 
-      preclude the idea of self-destruction. Murder, then, has been
+      preclude the idea of [[Self|self]]-destruction. Murder, then, has been
 
       committed by some third party; and the voices of this third party
 

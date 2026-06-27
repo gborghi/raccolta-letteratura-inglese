@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES"
+title: "The [[Pickwick]] Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -19,15 +19,15 @@ LEARNED THEREIN
 
 Scattered about, in various holes and corners of the Temple, are certain
 dark and dirty chambers, in and out of which, all the morning in
-vacation, and half the evening too in term time, there may be seen
+vacation, and half the evening too in term [[Time|time]], there may be seen
 constantly hurrying with bundles of papers under their arms, and
 protruding from their pockets, an almost uninterrupted succession of
 lawyers’ clerks. There are several grades of lawyers’ clerks. There is
 the articled clerk, who has paid a premium, and is an attorney in
 perspective, who runs a tailor’s bill, receives invitations to parties,
-knows a family in Gower Street, and another in Tavistock Square; who
+knows a family in [[Gower]] Street, and another in Tavistock Square; who
 goes out of town every long vacation to see his father, who keeps live
-horses innumerable; and who is, in short, the very aristocrat of clerks.
+horses innumerable; and who is, in short, the very [[aristocrat]] of clerks.
 There is the salaried clerk--out of door, or in door, as the case may
 be--who devotes the major part of his thirty shillings a week to his
 Personal pleasure and adornments, repairs half-price to the Adelphi
@@ -36,7 +36,7 @@ cider cellars afterwards, and is a dirty caricature of the fashion which
 expired six months ago. There is the middle-aged copying clerk, with a
 large family, who is always shabby, and often drunk. And there are the
 office lads in their first surtouts, who feel a befitting contempt for
-boys at day-schools, club as they go home at night, for saveloys and
+boys at day-schools, club as they go [[Home|home]] at [[Night|night]], for saveloys and
 porter, and think there’s nothing like ‘life.’ There are varieties of
 the genus, too numerous to recapitulate, but however numerous they may
 be, they are all to be seen, at certain regulated business hours,
@@ -50,11 +50,11 @@ of the practitioners of the law. They are, for the most part, low-
 roofed, mouldy rooms, where innumerable rolls of parchment, which have
 been perspiring in secret for the last century, send forth an agreeable
 odour, which is mingled by day with the scent of the dry-rot, and by
-night with the various exhalations which arise from damp cloaks,
+[[Night|night]] with the various exhalations which arise from damp cloaks,
 festering umbrellas, and the coarsest tallow candles.
 
-About half-past seven o’clock in the evening, some ten days or a
-fortnight after Mr. Pickwick and his friends returned to London, there
+About half-past seven o’[[Clock|clock]] in the evening, some ten days or a
+fortnight after Mr. [[Pickwick]] and his friends returned to [[London]], there
 hurried into one of these offices, an individual in a brown coat and
 brass buttons, whose long hair was scrupulously twisted round the rim of
 his napless hat, and whose soiled drab trousers were so tightly strapped
@@ -67,17 +67,17 @@ parchment with blanks for a name; and having filled up the blanks, put
 all the five documents in his pocket, and hurried away.
 
 The man in the brown coat, with the cabalistic documents in his pocket,
-was no other than our old acquaintance Mr. Jackson, of the house of
-Dodson & Fogg, Freeman’s Court, Cornhill. Instead of returning to the
-office whence he came, however, he bent his steps direct to Sun Court,
+was no other than our old acquaintance Mr. Jackson, of the [[house]] of
+Dodson & Fogg, Freeman’s [[Court]], Cornhill. Instead of returning to the
+office whence he came, however, he bent his steps direct to Sun [[Court]],
 and walking straight into the George and Vulture, demanded to know
-whether one Mr. Pickwick was within.
+whether one Mr. [[Pickwick]] was within.
 
-‘Call Mr. Pickwick’s servant, Tom,’ said the barmaid of the George and
+‘Call Mr. [[Pickwick]]’s servant, Tom,’ said the barmaid of the George and
 Vulture.
 
 ‘Don’t trouble yourself,’ said Mr. Jackson. ‘I’ve come on business. If
-you’ll show me Mr. Pickwick’s room I’ll step up myself.’
+you’ll show me Mr. [[Pickwick]]’s room I’ll step up myself.’
 
 ‘What name, Sir?’ said the waiter.
 
@@ -87,11 +87,11 @@ The waiter stepped upstairs to announce Mr. Jackson; but Mr. Jackson
 saved him the trouble by following close at his heels, and walking into
 the apartment before he could articulate a syllable.
 
-Mr. Pickwick had, that day, invited his three friends to dinner; they
-were all seated round the fire, drinking their wine, when Mr. Jackson
+Mr. [[Pickwick]] had, that day, invited his three friends to dinner; they
+were all seated round the [[Fire|fire]], drinking their wine, when Mr. Jackson
 presented himself, as above described.
 
-‘How de do, sir?’ said Mr. Jackson, nodding to Mr. Pickwick.
+‘How de do, sir?’ said Mr. Jackson, nodding to Mr. [[Pickwick]].
 
 That gentleman bowed, and looked somewhat surprised, for the physiognomy
 of Mr. Jackson dwelt not in his recollection.
@@ -99,13 +99,13 @@ of Mr. Jackson dwelt not in his recollection.
 ‘I have called from Dodson and Fogg’s,’ said Mr. Jackson, in an
 explanatory tone.
 
-Mr. Pickwick roused at the name. ‘I refer you to my attorney, Sir; Mr.
+Mr. [[Pickwick]] roused at the name. ‘I refer you to my attorney, Sir; Mr.
 Perker, of Gray’s Inn,’ said he. ‘Waiter, show this gentleman out.’
 
-‘Beg your pardon, Mr. Pickwick,’ said Jackson, deliberately depositing
+‘Beg your pardon, Mr. [[Pickwick]],’ said Jackson, deliberately depositing
 his hat on the floor, and drawing from his pocket the strip of
 parchment. ‘But personal service, by clerk or agent, in these cases, you
-know, Mr. Pickwick--nothing like caution, sir, in all legal forms--eh?’
+know, Mr. [[Pickwick]]--nothing like caution, sir, in all legal forms--eh?’
 
 Here Mr. Jackson cast his eye on the parchment; and, resting his hands
 on the table, and looking round with a winning and persuasive smile,
@@ -120,7 +120,7 @@ little something to trouble you with, Sir.’
 
 ‘Me!’ exclaimed Mr. Snodgrass.
 
-‘It’s only a subpoena in Bardell and Pickwick on behalf of the
+‘It’s only a subpoena in Bardell and [[Pickwick]] on behalf of the
 plaintiff,’ replied Jackson, singling out one of the slips of paper, and
 producing a shilling from his waistcoat pocket. ‘It’ll come on, in the
 settens after Term: fourteenth of Febooary, we expect; we’ve marked it a
@@ -134,7 +134,7 @@ Jackson, turning sharply upon him, said--
 
 ‘I think I ain’t mistaken when I say your name’s Tupman, am I?’
 
-Mr. Tupman looked at Mr. Pickwick; but, perceiving no encouragement in
+Mr. Tupman looked at Mr. [[Pickwick]]; but, perceiving no encouragement in
 that gentleman’s widely-opened eyes to deny his name, said--
 
 ‘Yes, my name is Tupman, Sir.’
@@ -146,28 +146,28 @@ dexterous Mr. Jackson.
 
 ‘Now,’ said Jackson, ‘I’m afraid you’ll think me rather troublesome, but
 I want somebody else, if it ain’t inconvenient. I have Samuel Weller’s
-name here, Mr. Pickwick.’
+name here, Mr. [[Pickwick]].’
 
-‘Send my servant here, waiter,’ said Mr. Pickwick. The waiter retired,
-considerably astonished, and Mr. Pickwick motioned Jackson to a seat.
+‘Send my servant here, waiter,’ said Mr. [[Pickwick]]. The waiter retired,
+considerably astonished, and Mr. [[Pickwick]] motioned Jackson to a seat.
 
-There was a painful pause, which was at length broken by the innocent
+There was a painful pause, which was at length broken by the [[Innocent|innocent]]
 defendant.
 
-‘I suppose, Sir,’ said Mr. Pickwick, his indignation rising while he
+‘I suppose, Sir,’ said Mr. [[Pickwick]], his indignation rising while he
 spoke--‘I suppose, Sir, that it is the intention of your employers to
 seek to criminate me upon the testimony of my own friends?’
 
 Mr. Jackson struck his forefinger several times against the left side of
-his nose, to intimate that he was not there to disclose the secrets of
-the prison house, and playfully rejoined--
+his nose, to intimate that he was not there to disclose the [[Secrets|secrets]] of
+the [[Prison|prison]] [[house]], and playfully rejoined--
 
 ‘Not knowin’, can’t say.’
 
-‘For what other reason, Sir,’ pursued Mr. Pickwick, ‘are these subpoenas
+‘For what other reason, Sir,’ pursued Mr. [[Pickwick]], ‘are these subpoenas
 served upon them, if not for this?’
 
-‘Very good plant, Mr. Pickwick,’ replied Jackson, slowly shaking his
+‘Very good plant, Mr. [[Pickwick]],’ replied Jackson, slowly shaking his
 head. ‘But it won’t do. No harm in trying, but there’s little to be got
 out of me.’
 
@@ -177,11 +177,11 @@ his right hand, thereby performing a very graceful piece of pantomime
 (then much in vogue, but now, unhappily, almost obsolete) which was
 familiarly denominated ‘taking a grinder.’
 
-‘No, no, Mr. Pickwick,’ said Jackson, in conclusion; ‘Perker’s people
+‘No, no, Mr. [[Pickwick]],’ said Jackson, in conclusion; ‘Perker’s people
 must guess what we’ve served these subpoenas for. If they can’t, they
 must wait till the action comes on, and then they’ll find out.’
 
-Mr. Pickwick bestowed a look of excessive disgust on his unwelcome
+Mr. [[Pickwick]] bestowed a look of excessive disgust on his unwelcome
 visitor, and would probably have hurled some tremendous anathema at the
 heads of Messrs. Dodson & Fogg, had not Sam’s entrance at the instant
 interrupted him.
@@ -201,7 +201,7 @@ Sam, in a most composed manner.
 
 ‘This,’ replied Jackson, shaking the parchment.
 
-‘Oh, that’s the ‘rig’nal, is it?’ said Sam. ‘Well, I’m wery glad I’ve
+‘Oh, that’s the ‘rig’nal, is it?’ said Sam. ‘[[Well]], I’m wery glad I’ve
 seen the ‘rig’nal, ‘cos it’s a gratifyin’ sort o’ thing, and eases vun’s
 mind so much.’
 
@@ -222,12 +222,12 @@ served the subpoenas, and had nothing more to say, he made a feint of
 putting on the one glove which he usually carried in his hand, for the
 sake of appearances; and returned to the office to report progress.
 
-Mr. Pickwick slept little that night; his memory had received a very
+Mr. [[Pickwick]] slept little that [[Night|night]]; his [[Memory|memory]] had received a very
 disagreeable refresher on the subject of Mrs. Bardell’s action. He
 breakfasted betimes next morning, and, desiring Sam to accompany him,
 set forth towards Gray’s Inn Square.
 
-‘Sam!’ said Mr. Pickwick, looking round, when they got to the end of
+‘Sam!’ said Mr. [[Pickwick]], looking round, when they got to the end of
 Cheapside.
 
 ‘Sir?’ said Sam, stepping up to his master.
@@ -236,56 +236,56 @@ Cheapside.
 
 Up Newgate Street.’
 
-Mr. Pickwick did not turn round immediately, but looked vacantly in
+Mr. [[Pickwick]] did not turn round immediately, but looked vacantly in
 Sam’s face for a few seconds, and heaved a deep sigh.
 
 ‘What’s the matter, sir?’ inquired Sam.
 
-‘This action, Sam,’ said Mr. Pickwick, ‘is expected to come on, on the
+‘This action, Sam,’ said Mr. [[Pickwick]], ‘is expected to come on, on the
 fourteenth of next month.’
 
 Remarkable coincidence that ‘ere, sir,’ replied Sam.
 
-‘Why remarkable, Sam?’ inquired Mr. Pickwick.
+‘Why remarkable, Sam?’ inquired Mr. [[Pickwick]].
 
 ‘Walentine’s day, sir,’ responded Sam; ‘reg’lar good day for a breach o’
 promise trial.’
 
 Mr. Weller’s smile awakened no gleam of mirth in his master’s
-countenance. Mr. Pickwick turned abruptly round, and led the way in
-silence.
+countenance. Mr. [[Pickwick]] turned abruptly round, and led the way in
+[[Silence|silence]].
 
-They had walked some distance, Mr. Pickwick trotting on before, plunged
+They had walked some distance, Mr. [[Pickwick]] trotting on before, plunged
 in profound meditation, and Sam following behind, with a countenance
 expressive of the most enviable and easy defiance of everything and
 everybody, when the latter, who was always especially anxious to impart
 to his master any exclusive information he possessed, quickened his pace
-until he was close at Mr. Pickwick’s heels; and, pointing up at a house
+until he was close at Mr. [[Pickwick]]’s heels; and, pointing up at a [[house]]
 they were passing, said--
 
 ‘Wery nice pork-shop that ‘ere, sir.’
 
-‘Yes, it seems so,’ said Mr. Pickwick.
+‘Yes, it seems so,’ said Mr. [[Pickwick]].
 
 ‘Celebrated sassage factory,’ said Sam.
 
-‘Is it?’ said Mr. Pickwick.
+‘Is it?’ said Mr. [[Pickwick]].
 
 ‘Is it!’ reiterated Sam, with some indignation; ‘I should rayther think
-it was. Why, sir, bless your innocent eyebrows, that’s where the
+it was. Why, sir, bless your [[Innocent|innocent]] eyebrows, that’s where the
 mysterious disappearance of a ‘spectable tradesman took place four years
 ago.’
 
-‘You don’t mean to say he was burked, Sam?’ said Mr. Pickwick, looking
+‘You don’t mean to say he was burked, Sam?’ said Mr. [[Pickwick]], looking
 hastily round.
 
 ‘No, I don’t indeed, sir,’ replied Mr. Weller, ‘I wish I did; far worse
 than that. He was the master o’ that ‘ere shop, sir, and the inwentor o’
 the patent-never-leavin’-off sassage steam-ingin, as ‘ud swaller up a
 pavin’ stone if you put it too near, and grind it into sassages as easy
-as if it was a tender young babby. Wery proud o’ that machine he was, as
+as if it was a tender young babby. Wery proud o’ that [[Machine|machine]] he was, as
 it was nat’ral he should be, and he’d stand down in the celler a-lookin’
-at it wen it was in full play, till he got quite melancholy with joy. A
+at it wen it was in full play, till he got quite [[Melancholy|melancholy]] with joy. A
 wery happy man he’d ha’ been, Sir, in the procession o’ that ‘ere ingin
 and two more lovely hinfants besides, if it hadn’t been for his wife,
 who was a most owdacious wixin. She was always a-follerin’ him about,
@@ -296,20 +296,20 @@ away to ‘Merriker; and that’s all about it.” “You’re a idle willin,”
  says she, “and I wish the ‘Merrikins joy of their bargain.” Arter which
 she keeps on abusin’ of him for half an hour, and then runs into the
 little parlour behind the shop, sets to a-screamin’, says he’ll be the
-death on her, and falls in a fit, which lasts for three good hours--one
-o’ them fits wich is all screamin’ and kickin’. Well, next mornin’, the
+[[Death|death]] on her, and falls in a fit, which lasts for three good hours--one
+o’ them fits wich is all screamin’ and kickin’. [[Well]], next mornin’, the
 husband was missin’. He hadn’t taken nothin’ from the till--hadn’t even
 put on his greatcoat--so it was quite clear he warn’t gone to ‘Merriker.
 Didn’t come back next day; didn’t come back next week; missis had bills
 printed, sayin’ that, if he’d come back, he should be forgiven
 everythin’ (which was very liberal, seein’ that he hadn’t done nothin’
 at all); the canals was dragged, and for two months arterwards, wenever
-a body turned up, it was carried, as a reg’lar thing, straight off to
+a [[Body|body]] turned up, it was carried, as a reg’lar thing, straight off to
 the sassage shop. Hows’ever, none on ‘em answered; so they gave out that
-he’d run away, and she kep’ on the bis’ness. One Saturday night, a
+he’d run away, and she kep’ on the bis’ness. One Saturday [[Night|night]], a
 little, thin, old gen’l’m’n comes into the shop in a great passion and
 says, “Are you the missis o’ this here shop?” “Yes, I am,” says she.
-“Well, ma’am,” says he, “then I’ve just looked in to say that me and my
+“[[Well]], ma’am,” says he, “then I’ve just looked in to say that me and my
 family ain’t a-goin’ to be choked for nothin’; and more than that,
 ma’am,” he says, “you’ll allow me to observe that as you don’t use the
 primest parts of the meat in the manafacter o’ sassages, I’d think you’d
@@ -321,7 +321,7 @@ buttons!” says the widder beginnin’ to faint, “What!” screams the little
 old gen’l’m’n, turnin’ wery pale. “I see it all,” says the widder; “in a
 fit of temporary insanity he rashly converted hisself into sassages!”
  And so he had, Sir,’ said Mr. Weller, looking steadily into Mr.
-Pickwick’s horror-stricken countenance, ‘or else he’d been draw’d into
+[[Pickwick]]’s horror-stricken countenance, ‘or else he’d been draw’d into
 the ingin; but however that might ha’ been, the little, old gen’l’m’n,
 who had been remarkably partial to sassages all his life, rushed out o’
 the shop in a wild state, and was never heerd on arterwards!’
@@ -330,9 +330,9 @@ The relation of this affecting incident of private life brought master
 and man to Mr. Perker’s chambers. Lowten, holding the door half open,
 was in conversation with a rustily-clad, miserable-looking man, in boots
 without toes and gloves without fingers. There were traces of privation
-and suffering--almost of despair--in his lank and care-worn countenance;
-he felt his poverty, for he shrank to the dark side of the staircase as
-Mr. Pickwick approached.
+and [[Suffering|suffering]]--almost of [[Despair|despair]]--in his lank and care-worn countenance;
+he felt his [[Poverty|poverty]], for he shrank to the dark side of the staircase as
+Mr. [[Pickwick]] approached.
 
 ‘It’s very unfortunate,’ said the stranger, with a sigh.
 
@@ -342,7 +342,7 @@ him?’
 
 ‘When do you think he’ll be back?’ inquired the stranger.
 
-‘Quite uncertain,’ replied Lowten, winking at Mr. Pickwick, as the
+‘Quite uncertain,’ replied Lowten, winking at Mr. [[Pickwick]], as the
 stranger cast his eyes towards the ground.
 
 ‘You don’t think it would be of any use my waiting for him?’ said the
@@ -353,78 +353,78 @@ into the centre of the doorway. ‘He’s certain not to be back this week,
 and it’s a chance whether he will be next; for when Perker once gets out
 of town, he’s never in a hurry to come back again.’
 
-‘Out of town!’ said Mr. Pickwick; ‘dear me, how unfortunate!’
+‘Out of town!’ said Mr. [[Pickwick]]; ‘dear me, how unfortunate!’
 
-‘Don’t go away, Mr. Pickwick,’ said Lowten, ‘I’ve got a letter for you.’
+‘Don’t go away, Mr. [[Pickwick]],’ said Lowten, ‘I’ve got a letter for you.’
 The stranger, seeming to hesitate, once more looked towards the ground,
-and the clerk winked slyly at Mr. Pickwick, as if to intimate that some
-exquisite piece of humour was going forward, though what it was Mr.
-Pickwick could not for the life of him divine.
+and the clerk winked slyly at Mr. [[Pickwick]], as if to intimate that some
+exquisite piece of [[Humour|humour]] was going forward, though what it was Mr.
+[[Pickwick]] could not for the life of him divine.
 
-‘Step in, Mr. Pickwick,’ said Lowten. ‘Well, will you leave a message,
+‘Step in, Mr. [[Pickwick]],’ said Lowten. ‘[[Well]], will you leave a message,
 Mr. Watty, or will you call again?’
 
 ‘Ask him to be so kind as to leave out word what has been done in my
 business,’ said the man; ‘for God’s sake don’t neglect it, Mr. Lowten.’
 
-‘No, no; I won’t forget it,’ replied the clerk. ‘Walk in, Mr. Pickwick.
+‘No, no; I won’t forget it,’ replied the clerk. ‘Walk in, Mr. [[Pickwick]].
 Good-morning, Mr. Watty; it’s a fine day for walking, isn’t it?’ Seeing
-that the stranger still lingered, he beckoned Sam Weller to follow his
+that the stranger still lingered, he beckoned [[Sam Weller]] to follow his
 master in, and shut the door in his face.
 
 ‘There never was such a pestering bankrupt as that since the world
 began, I do believe!’ said Lowten, throwing down his pen with the air of
 an injured man. ‘His affairs haven’t been in Chancery quite four years
 yet, and I’m d----d if he don’t come worrying here twice a week. Step
-this way, Mr. Pickwick. Perker _is_ in, and he’ll see you, I know.
+this way, Mr. [[Pickwick]]. Perker _is_ in, and he’ll see you, I know.
 Devilish cold,’ he added pettishly, ‘standing at that door, wasting
-one’s time with such seedy vagabonds!’ Having very vehemently stirred a
-particularly large fire with a particularly small poker, the clerk led
-the way to his principal’s private room, and announced Mr. Pickwick.
+one’s [[Time|time]] with such seedy vagabonds!’ Having very vehemently stirred a
+particularly large [[Fire|fire]] with a particularly small poker, the clerk led
+the way to his principal’s private room, and announced Mr. [[Pickwick]].
 
 ‘Ah, my dear Sir,’ said little Mr. Perker, bustling up from his chair.
-‘Well, my dear sir, and what’s the news about your matter, eh? Anything
-more about our friends in Freeman’s Court? They’ve not been sleeping, I
+‘[[Well]], my dear sir, and what’s the news about your matter, eh? Anything
+more about our friends in Freeman’s [[Court]]? They’ve not been sleeping, I
 know that. Ah, they’re very smart fellows; very smart, indeed.’
 
 As the little man concluded, he took an emphatic pinch of snuff, as a
 tribute to the smartness of Messrs. Dodson and Fogg.
 
-‘They are great scoundrels,’ said Mr. Pickwick.
+‘They are great scoundrels,’ said Mr. [[Pickwick]].
 
 ‘Aye, aye,’ said the little man; ‘that’s a matter of opinion, you know,
 and we won’t dispute about terms; because of course you can’t be
-expected to view these subjects with a professional eye. Well, we’ve
+expected to view these subjects with a professional eye. [[Well]], we’ve
 done everything that’s necessary. I have retained Serjeant Snubbin.’
 
-‘Is he a good man?’ inquired Mr. Pickwick.
+‘Is he a good man?’ inquired Mr. [[Pickwick]].
 
-‘Good man!’ replied Perker; ‘bless your heart and soul, my dear Sir,
+‘Good man!’ replied Perker; ‘bless your heart and [[Soul|soul]], my dear Sir,
 Serjeant Snubbin is at the very top of his profession. Gets treble the
-business of any man in court--engaged in every case. You needn’t mention
+business of any man in [[Court|court]]--engaged in every case. You needn’t mention
 it abroad; but we say--we of the profession--that Serjeant Snubbin leads
-the court by the nose.’
+the [[Court|court]] by the nose.’
 
 The little man took another pinch of snuff as he made this
-communication, and nodded mysteriously to Mr. Pickwick.
+communication, and nodded mysteriously to Mr. [[Pickwick]].
 
-‘They have subpoenaed my three friends,’ said Mr. Pickwick.
+‘They have subpoenaed my three friends,’ said Mr. [[Pickwick]].
 
 ‘Ah! of course they would,’ replied Perker. ‘Important witnesses; saw
 you in a delicate situation.’
 
-‘But she fainted of her own accord,’ said Mr. Pickwick. ‘She threw
+‘But she fainted of her own accord,’ said Mr. [[Pickwick]]. ‘She threw
 herself into my arms.’
 
 ‘Very likely, my dear Sir,’ replied Perker; ‘very likely and very
 natural. Nothing more so, my dear Sir, nothing. But who’s to prove it?’
 
-‘They have subpoenaed my servant, too,’ said Mr. Pickwick, quitting the
+‘They have subpoenaed my servant, too,’ said Mr. [[Pickwick]], quitting the
 other point; for there Mr. Perker’s question had somewhat staggered him.
 
 ‘Sam?’ said Perker.
 
-Mr. Pickwick replied in the affirmative.
+Mr. [[Pickwick]] replied in the affirmative.
 
 ‘Of course, my dear Sir; of course. I knew they would. I could have told
 you that, a month ago. You know, my dear Sir, if you _will _take the
@@ -433,48 +433,48 @@ your solicitor, you must also take the consequences.’ Here Mr. Perker
 drew himself up with conscious dignity, and brushed some stray grains of
 snuff from his shirt frill.
 
-‘And what do they want him to prove?’ asked Mr. Pickwick, after two or
-three minutes’ silence.
+‘And what do they want him to prove?’ asked Mr. [[Pickwick]], after two or
+three minutes’ [[Silence|silence]].
 
 ‘That you sent him up to the plaintiff ‘s to make some offer of a
 compromise, I suppose,’ replied Perker. ‘It don’t matter much, though; I
 don’t think many counsel could get a great deal out of _him_.’
 
-‘I don’t think they could,’ said Mr. Pickwick, smiling, despite his
+‘I don’t think they could,’ said Mr. [[Pickwick]], smiling, despite his
 vexation, at the idea of Sam’s appearance as a witness. ‘What course do
 we pursue?’
 
-‘We have only one to adopt, my dear Sir,’ replied Perker; ‘cross-examine
-the witnesses; trust to Snubbin’s eloquence; throw dust in the eyes of
+‘We have only one to adopt, my dear Sir,’ replied Perker; ‘[[Cross|cross]]-examine
+the witnesses; trust to Snubbin’s eloquence; throw [[Dust|dust]] in the eyes of
 the judge; throw ourselves on the jury.’
 
-‘And suppose the verdict is against me?’ said Mr. Pickwick.
+‘And suppose the verdict is against me?’ said Mr. [[Pickwick]].
 
-Mr. Perker smiled, took a very long pinch of snuff, stirred the fire,
+Mr. Perker smiled, took a very long pinch of snuff, stirred the [[Fire|fire]],
 shrugged his shoulders, and remained expressively silent.
 
-‘You mean that in that case I must pay the damages?’ said Mr. Pickwick,
+‘You mean that in that case I must pay the damages?’ said Mr. [[Pickwick]],
 who had watched this telegraphic answer with considerable sternness.
 
-Perker gave the fire another very unnecessary poke, and said, ‘I am
+Perker gave the [[Fire|fire]] another very unnecessary poke, and said, ‘I am
 afraid so.’
 
 ‘Then I beg to announce to you my unalterable determination to pay no
-damages whatever,’ said Mr. Pickwick, most emphatically. ‘None, Perker.
+damages whatever,’ said Mr. [[Pickwick]], most emphatically. ‘None, Perker.
 Not a pound, not a penny of my money, shall find its way into the
 pockets of Dodson and Fogg. That is my deliberate and irrevocable
-determination.’ Mr. Pickwick gave a heavy blow on the table before him,
+determination.’ Mr. [[Pickwick]] gave a heavy blow on the table before him,
 in confirmation of the irrevocability of his intention.
 
-‘Very well, my dear Sir, very well,’ said Perker. ‘You know best, of
+‘Very [[Well|well]], my dear Sir, very [[Well|well]],’ said Perker. ‘You know best, of
 course.’
 
-‘Of course,’ replied Mr. Pickwick hastily. ‘Where does Serjeant Snubbin
+‘Of course,’ replied Mr. [[Pickwick]] hastily. ‘Where does Serjeant Snubbin
 live?’
 
-In Lincoln’s Inn Old Square,’ replied Perker.
+In [[Lincoln]]’s Inn Old Square,’ replied Perker.
 
-‘I should like to see him,’ said Mr. Pickwick.
+‘I should like to see him,’ said Mr. [[Pickwick]].
 
 ‘See Serjeant Snubbin, my dear Sir!’ rejoined Perker, in utter
 amazement. ‘Pooh, pooh, my dear Sir, impossible. See Serjeant Snubbin!
@@ -482,16 +482,16 @@ Bless you, my dear Sir, such a thing was never heard of, without a
 consultation fee being previously paid, and a consultation fixed. It
 couldn’t be done, my dear Sir; it couldn’t be done.’
 
-Mr. Pickwick, however, had made up his mind not only that it could be
+Mr. [[Pickwick]], however, had made up his mind not only that it could be
 done, but that it should be done; and the consequence was, that within
 ten minutes after he had received the assurance that the thing was
 impossible, he was conducted by his solicitor into the outer office of
 the great Serjeant Snubbin himself.
 
 It was an uncarpeted room of tolerable dimensions, with a large writing-
-table drawn up near the fire, the baize top of which had long since lost
+table drawn up near the [[Fire|fire]], the baize top of which had long since lost
 all claim to its original hue of green, and had gradually grown gray
-with dust and age, except where all traces of its natural colour were
+with [[Dust|dust]] and age, except where all traces of its natural colour were
 obliterated by ink-stains. Upon the table were numerous little bundles
 of papers tied with red tape; and behind it, sat an elderly clerk, whose
 sleek appearance and heavy gold watch-chain presented imposing
@@ -518,7 +518,7 @@ ha-ha-ha!’
 ‘Which makes good for we know who, besides the serjeant, and draws a
 little more out of the clients, eh?’ said Perker; ‘Ha, ha, ha!’ At this
 the serjeant’s clerk laughed again--not a noisy boisterous laugh, but a
-silent, internal chuckle, which Mr. Pickwick disliked to hear. When a
+silent, internal chuckle, which Mr. [[Pickwick]] disliked to hear. When a
 man bleeds inwardly, it is a dangerous thing for himself; but when he
 laughs inwardly, it bodes no good to other people.
 
@@ -541,10 +541,10 @@ client here.’
 ‘Come, come,’ said the clerk, ‘that’s not bad either. See the Serjeant!
 come, that’s too absurd.’ Notwithstanding the absurdity of the proposal,
 however, the clerk allowed himself to be gently drawn beyond the hearing
-of Mr. Pickwick; and after a short conversation conducted in whispers,
+of Mr. [[Pickwick]]; and after a short conversation conducted in whispers,
 walked softly down a little dark passage, and disappeared into the legal
 luminary’s sanctum, whence he shortly returned on tiptoe, and informed
-Mr. Perker and Mr. Pickwick that the Serjeant had been prevailed upon,
+Mr. Perker and Mr. [[Pickwick]] that the Serjeant had been prevailed upon,
 in violation of all established rules and customs, to admit them at
 once.
 
@@ -557,17 +557,17 @@ laborious course of study; and which would have been sufficient, without
 the additional eyeglass which dangled from a broad black riband round
 his neck, to warn a stranger that he was very near-sighted. His hair was
 thin and weak, which was partly attributable to his having never devoted
-much time to its arrangement, and partly to his having worn for five-
+much [[Time|time]] to its arrangement, and partly to his having worn for five-
 and-twenty years the forensic wig which hung on a block beside him. The
 marks of hairpowder on his coat-collar, and the ill-washed and worse
 tied white neckerchief round his throat, showed that he had not found
-leisure since he left the court to make any alteration in his dress;
+leisure since he left the [[Court|court]] to make any alteration in his dress;
 while the slovenly style of the remainder of his costume warranted the
 inference that his personal appearance would not have been very much
 improved if he had. Books of practice, heaps of papers, and opened
 letters, were scattered over the table, without any attempt at order or
 arrangement; the furniture of the room was old and rickety; the doors of
-the book-case were rotting in their hinges; the dust flew out from the
+the book-case were rotting in their hinges; the [[Dust|dust]] flew out from the
 carpet in little clouds at every step; the blinds were yellow with age
 and dirt; the state of everything in the room showed, with a clearness
 not to be mistaken, that Mr. Serjeant Snubbin was far too much occupied
@@ -575,11 +575,11 @@ with his professional pursuits to take any great heed or regard of his
 personal comforts.
 
 The Serjeant was writing when his clients entered; he bowed abstractedly
-when Mr. Pickwick was introduced by his solicitor; and then, motioning
+when Mr. [[Pickwick]] was introduced by his solicitor; and then, motioning
 them to a seat, put his pen carefully in the inkstand, nursed his left
 leg, and waited to be spoken to.
 
-‘Mr. Pickwick is the defendant in Bardell and Pickwick, Serjeant
+‘Mr. [[Pickwick]] is the defendant in Bardell and [[Pickwick]], Serjeant
 Snubbin,’ said Perker.
 
 ‘I am retained in that, am I?’ said the Serjeant.
@@ -588,22 +588,22 @@ Snubbin,’ said Perker.
 
 The Serjeant nodded his head, and waited for something else.
 
-‘Mr. Pickwick was anxious to call upon you, Serjeant Snubbin,’ said
+‘Mr. [[Pickwick]] was anxious to call upon you, Serjeant Snubbin,’ said
 Perker, ‘to state to you, before you entered upon the case, that he
 denies there being any ground or pretence whatever for the action
-against him; and that unless he came into court with clean hands, and
+against him; and that unless he came into [[Court|court]] with clean hands, and
 without the most conscientious conviction that he was right in resisting
 the plaintiff’s demand, he would not be there at all. I believe I state
 your views correctly; do I not, my dear Sir?’ said the little man,
-turning to Mr. Pickwick.
+turning to Mr. [[Pickwick]].
 
 ‘Quite so,’ replied that gentleman.
 
 Mr. Serjeant Snubbin unfolded his glasses, raised them to his eyes; and,
-after looking at Mr. Pickwick for a few seconds with great curiosity,
+after looking at Mr. [[Pickwick]] for a few seconds with great curiosity,
 turned to Mr. Perker, and said, smiling slightly as he spoke--
 
-‘Has Mr. Pickwick a strong case?’
+‘Has Mr. [[Pickwick]] a strong case?’
 
 The attorney shrugged his shoulders.
 
@@ -616,40 +616,40 @@ his leg with increased violence; and, throwing himself back in his easy-
 chair, coughed dubiously.
 
 These tokens of the Serjeant’s presentiments on the subject, slight as
-they were, were not lost on Mr. Pickwick. He settled the spectacles,
+they were, were not lost on Mr. [[Pickwick]]. He settled the spectacles,
 through which he had attentively regarded such demonstrations of the
 barrister’s feelings as he had permitted himself to exhibit, more firmly
 on his nose; and said with great energy, and in utter disregard of all
 Mr. Perker’s admonitory winkings and frownings--
 
 ‘My wishing to wait upon you, for such a purpose as this, Sir, appears,
-I have no doubt, to a gentleman who sees so much of these matters as you
+I have no [[Doubt|doubt]], to a gentleman who sees so much of these matters as you
 must necessarily do, a very extraordinary circumstance.’
 
-The Serjeant tried to look gravely at the fire, but the smile came back
+The Serjeant tried to look gravely at the [[Fire|fire]], but the smile came back
 again.
 
-‘Gentlemen of your profession, Sir,’ continued Mr. Pickwick, ‘see the
-worst side of human nature. All its disputes, all its ill-will and bad
-blood, rise up before you. You know from your experience of juries (I
+‘Gentlemen of your profession, Sir,’ continued Mr. [[Pickwick]], ‘see the
+worst side of human [[Nature|nature]]. All its disputes, all its ill-will and bad
+[[Blood|blood]], rise up before you. You know from your experience of juries (I
 mean no disparagement to you, or them) how much depends upon effect; and
-you are apt to attribute to others, a desire to use, for purposes of
-deception and self-interest, the very instruments which you, in pure
-honesty and honour of purpose, and with a laudable desire to do your
-utmost for your client, know the temper and worth of so well, from
+you are apt to attribute to others, a [[Desire|desire]] to use, for purposes of
+[[Deception|deception]] and [[Self|self]]-interest, the very instruments which you, in pure
+honesty and [[Honour|honour]] of purpose, and with a laudable [[Desire|desire]] to do your
+utmost for your client, know the temper and worth of so [[Well|well]], from
 constantly employing them yourselves. I really believe that to this
 circumstance may be attributed the vulgar but very general notion of
-your being, as a body, suspicious, distrustful, and over-cautious.
+your being, as a [[Body|body]], suspicious, distrustful, and over-cautious.
 Conscious as I am, sir, of the disadvantage of making such a declaration
 to you, under such circumstances, I have come here, because I wish you
 distinctly to understand, as my friend Mr. Perker has said, that I am
-innocent of the falsehood laid to my charge; and although I am very well
+[[Innocent|innocent]] of the falsehood laid to my charge; and although I am very [[Well|well]]
 aware of the inestimable value of your assistance, Sir, I must beg to
 add, that unless you sincerely believe this, I would rather be deprived
 of the aid of your talents than have the advantage of them.’
 
 Long before the close of this address, which we are bound to say was of
-a very prosy character for Mr. Pickwick, the Serjeant had relapsed into
+a very prosy character for Mr. [[Pickwick]], the Serjeant had relapsed into
 a state of abstraction. After some minutes, however, during which he had
 reassumed his pen, he appeared to be again aware of the presence of his
 clients; raising his head from the paper, he said, rather snappishly--
@@ -665,10 +665,10 @@ must be a very young man.’
 the other day. Let me see--he has not been at the Bar eight years yet.’
 
 ‘Ah, I thought not,’ said the Serjeant, in that sort of pitying tone in
-which ordinary folks would speak of a very helpless little child. ‘Mr.
+which ordinary folks would speak of a very helpless little [[Child|child]]. ‘Mr.
 Mallard, send round to Mr.--Mr.--’
 
-Phunky’s--Holborn Court, Gray’s Inn,’ interposed Perker. (Holborn Court,
+Phunky’s--Holborn [[Court]], Gray’s Inn,’ interposed Perker. (Holborn [[Court]],
 by the bye, is South Square now.)--‘Mr. Phunky, and say I should be glad
 if he’d step here, a moment.’
 
@@ -707,14 +707,14 @@ waking or sleeping, throughout the two months during which he had been
 retained as Mr. Serjeant Snubbin’s junior, he turned a deeper red and
 bowed again.
 
-‘This is Mr. Pickwick,’ said the Serjeant, waving his pen in the
+‘This is Mr. [[Pickwick]],’ said the Serjeant, waving his pen in the
 direction in which that gentleman was standing.
 
-Mr. Phunky bowed to Mr. Pickwick, with a reverence which a first client
+Mr. Phunky bowed to Mr. [[Pickwick]], with a reverence which a first client
 must ever awaken; and again inclined his head towards his leader.
 
-‘Perhaps you will take Mr. Pickwick away,’ said the Serjeant, ‘and--and-
--and--hear anything Mr. Pickwick may wish to communicate. We shall have
+‘Perhaps you will take Mr. [[Pickwick]] away,’ said the Serjeant, ‘and--and-
+-and--hear anything Mr. [[Pickwick]] may wish to communicate. We shall have
 a consultation, of course.’ With that hint that he had been interrupted
 quite long enough, Mr. Serjeant Snubbin, who had been gradually growing
 more and more abstracted, applied his glass to his eyes for an instant,
@@ -724,15 +724,15 @@ the act of an individual, deceased a century or so ago, who had stopped
 up a pathway leading from some place which nobody ever came from, to
 some other place which nobody ever went to.
 
-Mr. Phunky would not hear of passing through any door until Mr. Pickwick
-and his solicitor had passed through before him, so it was some time
+Mr. Phunky would not hear of passing through any door until Mr. [[Pickwick]]
+and his solicitor had passed through before him, so it was some [[Time|time]]
 before they got into the Square; and when they did reach it, they walked
 up and down, and held a long conference, the result of which was, that
 it was a very difficult matter to say how the verdict would go; that
 nobody could presume to calculate on the issue of an action; that it was
 very lucky they had prevented the other party from getting Serjeant
-Snubbin; and other topics of doubt and consolation, common in such a
+Snubbin; and other topics of [[Doubt|doubt]] and consolation, common in such a
 position of affairs.
 
-Mr. Weller was then roused by his master from a sweet sleep of an hour’s
-duration; and, bidding adieu to Lowten, they returned to the city.
+Mr. Weller was then roused by his master from a sweet [[Sleep|sleep]] of an hour’s
+duration; and, bidding adieu to Lowten, they returned to the [[City|city]].

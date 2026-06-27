@@ -1,5 +1,5 @@
 ---
-title: "MrPond — When Doctors Agree (part 2)"
+title: "[[MrPond]] — When Doctors Agree (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -20,7 +20,7 @@ do sometimes differ a little from each other, you know.  Even we in
 
 Ireland have been known to differ from each other.  But you see the
 
-Pope denouncing the Bolshevists, or the French Revolution rending
+Pope denouncing the Bolshevists, or the [[French Revolution]] rending
 
 the Holy Roman Empire, and you still say in your hearts, 'What can
 
@@ -36,7 +36,7 @@ they agreed.  But remember what they agreed about."
 
 
 
-Wotton looked a little baffled and finally grunted:  "Well, if
+Wotton looked a little baffled and finally grunted:  "[[Well]], if
 
 these fellows have agreed, I suppose there will be a little peace."
 
@@ -88,7 +88,7 @@ thing was a curious story; to introduce a yet more curious sequel.
 
 Haggis had been a prominent and wealthy citizen, a bailie of the
 
-city and an elder of the kirk.  Nobody denied that even in these
+[[City|city]] and an elder of the kirk.  Nobody denied that even in these
 
 capacities he had sometimes been rather unpopular; but, to do him
 
@@ -98,11 +98,11 @@ unpopular causes.  He was the sort of old Radical who is more rigid
 
 and antiquated than any Tory; and, maintaining in theory the cause
 
-of Retrenchment and Reform, he managed to suggest that almost any
+of Retrenchment and [[Reform]], he managed to suggest that almost any
 
-Reform was too expensive for the needs of Retrenchment.  Thus he
+[[Reform]] was too expensive for the needs of Retrenchment.  Thus he
 
-had stood alone in opposition to the universal support given to old
+had stood [[Alone|alone]] in opposition to the universal support given to old
 
 Dr. Campbell's admirable campaign for fighting the epidemic in the
 
@@ -114,7 +114,7 @@ typhoid was perhaps an exaggerated inference.  Similarly, he was
 
 prominent in the Presbyterian councils as refusing all modern
 
-compromise with the logic of Calvinism; but to infer that he
+compromise with the [[logic]] of Calvinism; but to infer that he
 
 actually hoped all his neighbours were damned before they were born
 
@@ -126,7 +126,7 @@ On the other side, he was admittedly honest in business and
 
 faithful to his wife and family; so that there was a general
 
-reaction in favour of his memory when he was found stabbed to the
+reaction in favour of his [[Memory|memory]] when he was found stabbed to the
 
 heart in the meagre grass of the grim little churchyard that
 
@@ -146,7 +146,7 @@ a rather narrow Scottish merchant of the old school.
 
 It happened that Mr. Pond himself had been present at a little
 
-party where there was high debate about the murder as a mystery.
+party where there was high [[debate]] about the murder as a mystery.
 
 His host, Lord Glenorchy, had a hobby of reading books on
 
@@ -154,13 +154,13 @@ criminology; his hostess, Lady Glenorchy, had the less harmful
 
 hobby of reading those much more solid and scientific books which
 
-are called detective stories.  There were present, as the society
+are called [[Detective|detective]] stories.  There were present, as the society
 
 papers say, Major MacNabb, the Chief Constable, and Mr. Lancelot
 
-Browne, a brilliant London barrister who found it much more of a
+Browne, a brilliant [[London]] barrister who found it much more of a
 
-bore to be a lawyer than to pretend to be a detective; also, among
+bore to be a lawyer than to pretend to be a [[Detective|detective]]; also, among
 
 those present, was the venerable and venerated Dr. Campbell, whose
 
@@ -174,7 +174,7 @@ his scientific career.
 
 
 
-Responsible people naturally love to be irresponsible.  All these
+Responsible people naturally [[Love|love]] to be irresponsible.  All these
 
 persons delighted to throw theories about in private which they
 
@@ -204,7 +204,7 @@ and moral deformity are found only among poor people, he suspected
 
 a plot of local Communists (all with the wrong-shaped thumb and
 
-ear) and picked for his fancy a Socialist agitator of the city.
+ear) and picked for his fancy a Socialist agitator of the [[City|city]].
 
 Mr. Angus made bold to differ; his choice was an old lag, or
 
@@ -216,6 +216,6 @@ Then it was that the point was referred, not without a certain
 
 reverence, to the white-haired and wise old physician, who had now
 
-behind him a whole lifetime of charity and good works.  One of the
+behind him a whole lifetime of [[Charity|charity]] and good works.  One of the
 
 many ways in which Dr. Campbell seemed to have emerged from an

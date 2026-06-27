@@ -17,12 +17,12 @@ tags:
 CHAPTER 40
 
 Full of that vague kind of penitence which holidays awaken next
-morning, Kit turned out at sunrise, and, with his faith in last night’s
+morning, Kit turned out at sunrise, and, with his [[Faith|faith]] in last [[Night|night]]’s
 enjoyments a little shaken by cool daylight and the return to every-day
 duties and occupations, went to meet Barbara and her mother at the
 appointed place.  And being careful not to awaken any of the little
 household, who were yet resting from their unusual fatigues, Kit left
-his money on the chimney-piece, with an inscription in chalk calling
+his money on the chimney-piece, with an [[Inscription|inscription]] in [[chalk]] calling
 his mother’s attention to the circumstance, and informing her that it
 came from her dutiful son; and went his way, with a heart something
 heavier than his pockets, but free from any very great oppression
@@ -35,34 +35,34 @@ with a calm indifference or a pleasant effort of recollection! why will
 they hang about us, like the flavour of yesterday’s wine, suggestive of
 headaches and lassitude, and those good intentions for the future,
 which, under the earth, form the everlasting pavement of a large
-estate, and, upon it, usually endure until dinner-time or thereabouts!
+estate, and, upon it, usually endure until dinner-[[Time|time]] or thereabouts!
 
-Who will wonder that Barbara had a headache, or that Barbara’s mother
-was disposed to be cross, or that she slightly underrated Astley’s, and
-thought the clown was older than they had taken him to be last night?
+Who will [[Wonder|wonder]] that Barbara had a headache, or that Barbara’s mother
+was disposed to be [[Cross|cross]], or that she slightly underrated Astley’s, and
+thought the clown was older than they had taken him to be last [[Night|night]]?
 Kit was not surprised to hear her say so--not he.  He had already had a
 misgiving that the inconstant actors in that dazzling vision had been
-doing the same thing the night before last, and would do it again that
-night, and the next, and for weeks and months to come, though he would
+doing the same thing the [[Night|night]] before last, and would do it again that
+[[Night|night]], and the next, and for weeks and months to come, though he would
 not be there.  Such is the difference between yesterday and today.  We
-are all going to the play, or coming home from it.
+are all going to the play, or coming [[Home|home]] from it.
 
 However, the Sun himself is weak when he first rises, and gathers
-strength and courage as the day gets on.  By degrees, they began to
-recall circumstances more and more pleasant in their nature, until,
+strength and [[Courage|courage]] as the day gets on.  By degrees, they began to
+recall circumstances more and more pleasant in their [[Nature|nature]], until,
 what between talking, walking, and laughing, they reached Finchley in
 such good heart, that Barbara’s mother declared she never felt less
 tired or in better spirits.  And so said Kit.  Barbara had been silent
 all the way, but she said so too.  Poor little Barbara!  She was very
 quiet.
 
-They were at home in such good time that Kit had rubbed down the pony
-and made him as spruce as a race-horse, before Mr Garland came down to
+They were at [[Home|home]] in such good [[Time|time]] that Kit had rubbed down the pony
+and made him as spruce as a race-[[Horse|horse]], before Mr Garland came down to
 breakfast; which punctual and industrious conduct the old lady, and the
 old gentleman, and Mr Abel, highly extolled.  At his usual hour (or
-rather at his usual minute and second, for he was the soul of
-punctuality) Mr Abel walked out, to be overtaken by the London coach,
-and Kit and the old gentleman went to work in the garden.
+rather at his usual minute and second, for he was the [[Soul|soul]] of
+punctuality) Mr Abel walked out, to be overtaken by the [[London]] coach,
+and Kit and the old gentleman went to work in the [[Garden|garden]].
 
 This was not the least pleasant of Kit’s employments.  On a fine day
 they were quite a family party; the old lady sitting hard by with her
@@ -75,7 +75,7 @@ snip and hammer away, while the old gentleman, with a great interest in
 his proceedings, handed up the nails and shreds of cloth as he wanted
 them.  The old lady and Whisker looked on as usual.
 
-‘Well, Christopher,’ said Mr Garland, ‘and so you have made a new
+‘[[Well]], Christopher,’ said Mr Garland, ‘and so you have made a new
 friend, eh?’
 
 ‘I beg your pardon, Sir?’ returned Kit, looking down from the ladder.
@@ -102,21 +102,21 @@ his work and faced about on the ladder like some dexterous tumbler.
 ‘Oh!  But he is indeed,’ said Mr Garland.  ‘And he has told Mr Abel so.’
 
 ‘I never heard of such a thing!’ muttered Kit, looking ruefully at his
-master and mistress.  ‘I wonder at him; that I do.’
+master and mistress.  ‘I [[Wonder|wonder]] at him; that I do.’
 
 ‘You see, Christopher,’ said Mr Garland, ‘this is a point of much
 importance to you, and you should understand and consider it in that
 light.  This gentleman is able to give you more money than I--not, I
-hope, to carry through the various relations of master and servant,
+[[Hope|hope]], to carry through the various relations of master and servant,
 more kindness and confidence, but certainly, Christopher, to give you
 more money.’
 
-‘Well,’ said Kit, ‘after that, Sir--’
+‘[[Well]],’ said Kit, ‘after that, Sir--’
 
 ‘Wait a moment,’ interposed Mr Garland.  ‘That is not all.  You were a
 very faithful servant to your old employers, as I understand, and
 should this gentleman recover them, as it is his purpose to attempt
-doing by every means in his power, I have no doubt that you, being in
+doing by every means in his power, I have no [[Doubt|doubt]] that you, being in
 his service, would meet with your reward.  Besides,’ added the old
 gentleman with stronger emphasis, ‘besides having the pleasure of being
 again brought into communication with those to whom you seem to be very
@@ -132,34 +132,34 @@ think he might have done at first.
 
 ‘He has no right to think that I’d be led away to go to him, sir,’ said
 Kit, turning round again after half a minute’s hammering.  ‘Does he
-think I’m a fool?’
+think I’m a [[Fool|fool]]?’
 
 ‘He may, perhaps, Christopher, if you refuse his offer,’ said Mr
 Garland gravely.
 
 ‘Then let him, sir,’ retorted Kit; ‘what do I care, sir, what he
 thinks?  why should I care for his thinking, sir, when I know that I
-should be a fool, and worse than a fool, sir, to leave the kindest
+should be a [[Fool|fool]], and worse than a [[Fool|fool]], sir, to leave the kindest
 master and mistress that ever was or can be, who took me out of the
 streets a very poor and hungry lad indeed--poorer and hungrier perhaps
 than even you think for, sir--to go to him or anybody?  If Miss Nell
 was to come back, ma’am,’ added Kit, turning suddenly to his mistress,
 ‘why that would be another thing, and perhaps if she wanted me, I might
-ask you now and then to let me work for her when all was done at home.
+ask you now and then to let me work for her when all was done at [[Home|home]].
 But when she comes back, I see now that she’ll be rich as old master
 always said she would, and being a rich young lady, what could she want
 of me?  No, no,’ added Kit, shaking his head sorrowfully, ‘she’ll never
-want me any more, and bless her, I hope she never may, though I should
+want me any more, and bless her, I [[Hope|hope]] she never may, though I should
 like to see her too!’
 
 Here Kit drove a nail into the wall, very hard--much harder than was
 necessary--and having done so, faced about again.
 
 ‘There’s the pony, sir,’ said Kit--‘Whisker, ma’am (and he knows so
-well I’m talking about him that he begins to neigh directly,
+[[Well|well]] I’m talking about him that he begins to neigh directly,
 Sir)--would he let anybody come near him but me, ma’am?  Here’s the
-garden, sir, and Mr Abel, ma’am.  Would Mr Abel part with me, Sir, or
-is there anybody that could be fonder of the garden, ma’am?  It would
+[[Garden|garden]], sir, and Mr Abel, ma’am.  Would Mr Abel part with me, Sir, or
+is there anybody that could be fonder of the [[Garden|garden]], ma’am?  It would
 break mother’s heart, Sir, and even little Jacob would have sense
 enough to cry his eyes out, ma’am, if he thought that Mr Abel could
 wish to part with me so soon, after having told me, only the other day,
@@ -179,9 +179,9 @@ that Kit could not be more unwilling to part with them, than they would
 be to part with Kit; a sentiment which the old lady very generously
 echoed.
 
-‘At the same time, Christopher,’ added Mr Garland, glancing at the note
+‘At the same [[Time|time]], Christopher,’ added Mr Garland, glancing at the note
 in his hand, ‘if the gentleman should want to borrow you now and then
-for an hour or so, or even a day or so, at a time, we must consent to
+for an hour or so, or even a day or so, at a [[Time|time]], we must consent to
 lend you, and you must consent to be lent.--Oh! here is the young
 gentleman.  How do you do, Sir?’
 
@@ -189,13 +189,13 @@ This salutation was addressed to Mr Chuckster, who, with his hat
 extremely on one side, and his hair a long way beyond it, came
 swaggering up the walk.
 
-‘Hope I see you well sir,’ returned that gentleman.  ‘Hope I see YOU
-well, ma’am.  Charming box this, sir.  Delicious country to be sure.’
+‘[[Hope]] I see you [[Well|well]] sir,’ returned that gentleman.  ‘[[Hope]] I see YOU
+[[Well|well]], ma’am.  Charming box this, sir.  Delicious country to be sure.’
 
 ‘You want to take Kit back with you, I find?’ observed Mr Garland.
 
 ‘I have got a chariot-cab waiting on purpose,’ replied the clerk.  ‘A
-very spanking grey in that cab, sir, if you’re a judge of horse-flesh.’
+very spanking grey in that cab, sir, if you’re a judge of [[Horse|horse]]-flesh.’
 
 Declining to inspect the spanking grey, on the plea that he was but
 poorly acquainted with such matters, and would but imperfectly
@@ -227,31 +227,31 @@ footmen, and two daily changes of kid-gloves for a page.  Having
 entreated the old lady and gentleman to set their minds at rest on
 these absorbing points, for they might rely on his statement being the
 correct one, Mr Chuckster entertained them with theatrical chit-chat
-and the court circular; and so wound up a brilliant and fascinating
-conversation which he had maintained alone, and without any assistance
+and the [[Court|court]] circular; and so wound up a brilliant and fascinating
+conversation which he had maintained [[Alone|alone]], and without any assistance
 whatever, for upwards of three-quarters of an hour.
 
-‘And now that the nag has got his wind again,’ said Mr Chuckster rising
+‘And now that the nag has got his [[Wind|wind]] again,’ said Mr Chuckster rising
 in a graceful manner, ‘I’m afraid I must cut my stick.’
 
 Neither Mr nor Mrs Garland offered any opposition to his tearing
-himself away (feeling, no doubt, that such a man could ill be spared
+himself away (feeling, no [[Doubt|doubt]], that such a man could ill be spared
 from his proper sphere of action), and therefore Mr Chuckster and Kit
 were shortly afterwards upon their way to town; Kit being perched upon
 the box of the cabriolet beside the driver, and Mr Chuckster seated in
 solitary state inside, with one of his boots sticking out at each of
 the front windows.
 
-When they reached the Notary’s house, Kit followed into the office, and
+When they reached the Notary’s [[house]], Kit followed into the office, and
 was desired by Mr Abel to sit down and wait, for the gentleman who
-wanted him had gone out, and perhaps might not return for some time.
+wanted him had gone out, and perhaps might not return for some [[Time|time]].
 This anticipation was strictly verified, for Kit had had his dinner,
 and his tea, and had read all the lighter matter in the Law-List, and
 the Post-Office Directory, and had fallen asleep a great many times,
 before the gentleman whom he had seen before, came in; which he did at
 last in a very great hurry.
 
-He was closeted with Mr Witherden for some little time, and Mr Abel had
+He was closeted with Mr Witherden for some little [[Time|time]], and Mr Abel had
 been called in to assist at the conference, before Kit, wondering very
 much what he was wanted for, was summoned to attend them.
 
@@ -263,20 +263,20 @@ delight.  ‘Where are they, Sir?  How are they, Sir?  Are they--are they
 near here?’
 
 ‘A long way from here,’ returned the gentleman, shaking his head.  ‘But
-I am going away to-night to bring them back, and I want you to go with
+I am going away to-[[Night|night]] to bring them back, and I want you to go with
 me.’
 
 ‘Me, Sir?’ cried Kit, full of joy and surprise.
 
 ‘The place,’ said the strange gentleman, turning thoughtfully to the
-Notary, ‘indicated by this man of the dogs, is--how far from
+Notary, ‘indicated by this man of the [[dogs]], is--how far from
 here--sixty miles?’
 
 ‘From sixty to seventy.’
 
-‘Humph!  If we travel post all night, we shall reach there in good time
+‘Humph!  If we travel post all [[Night|night]], we shall reach there in good [[Time|time]]
 to-morrow morning.  Now, the only question is, as they will not know
-me, and the child, God bless her, would think that any stranger
+me, and the [[Child|child]], God bless her, would think that any stranger
 pursuing them had a design upon her grandfather’s liberty--can I do
 better than take this lad, whom they both know and will readily
 remember, as an assurance to them of my friendly intentions?’
@@ -305,7 +305,7 @@ person who would serve my purpose?’
 
 ‘Know her, Sir! why, she was always coming backwards and forwards.
 They were as kind to her as they were to me.  Bless you, Sir, she
-expected they’d come back to her house.’
+expected they’d come back to her [[house]].’
 
 ‘Then where the devil is the woman?’ said the impatient gentleman,
 catching up his hat.  ‘Why isn’t she here?  Why is that woman always
@@ -313,22 +313,22 @@ out of the way when she is most wanted?’
 
 In a word, the single gentleman was bursting out of the office, bent
 upon laying violent hands on Kit’s mother, forcing her into a
-post-chaise, and carrying her off, when this novel kind of abduction
+post-chaise, and carrying her off, when this [[Novel|novel]] kind of abduction
 was with some difficulty prevented by the joint efforts of Mr Abel and
 the Notary, who restrained him by dint of their remonstrances, and
 persuaded him to sound Kit upon the probability of her being able and
-willing to undertake such a journey on so short a notice.
+willing to undertake such a [[Journey|journey]] on so short a notice.
 
 This occasioned some doubts on the part of Kit, and some violent
 demonstrations on that of the single gentleman, and a great many
 soothing speeches on that of the Notary and Mr Abel.  The upshot of the
 business was, that Kit, after weighing the matter in his mind and
 considering it carefully, promised, on behalf of his mother, that she
-should be ready within two hours from that time to undertake the
+should be ready within two hours from that [[Time|time]] to undertake the
 expedition, and engaged to produce her in that place, in all respects
-equipped and prepared for the journey, before the specified period had
+equipped and prepared for the [[Journey|journey]], before the specified period had
 expired.
 
 Having given this pledge, which was rather a bold one, and not
-particularly easy of redemption, Kit lost no time in sallying forth,
+particularly easy of redemption, Kit lost no [[Time|time]] in sallying forth,
 and taking measures for its immediate fulfilment.

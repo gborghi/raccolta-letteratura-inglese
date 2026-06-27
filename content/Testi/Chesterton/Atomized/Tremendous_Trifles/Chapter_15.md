@@ -19,19 +19,19 @@ XIV
 In Topsy-Turvy Land
 
 Last week, in an idle metaphor, I took the tumbling of trees
-and the secret energy of the wind as typical of the visible world
+and the secret energy of the [[Wind|wind]] as typical of the visible world
 moving under the violence of the invisible.  I took this metaphor
 merely because I happened to be writing the article in a wood.
 Nevertheless, now that I return to Fleet Street (which seems to me,
 I confess, much better and more poetical than all the wild woods
 in the world), I am strangely haunted by this accidental comparison.
-The people's figures seem a forest and their soul a wind.
+The people's figures seem a forest and their [[Soul|soul]] a [[Wind|wind]].
 All the human personalities which speak or signal to me seem to have
 this fantastic character of the fringe of the forest against the sky.
 That man that talks to me, what is he but an articulate tree?
 That driver of a van who waves his hands wildly at me to tell me
 to get out of the way, what is he but a bunch of branches stirred
-and swayed by a spiritual wind, a sylvan object that I can continue
+and swayed by a spiritual [[Wind|wind]], a sylvan object that I can continue
 to contemplate with calm?  That policeman who lifts his hand
 to warn three omnibuses of the peril that they run in encountering
 my person, what is he but a shrub shaken for a moment with that
@@ -47,17 +47,17 @@ on which I see written in large black letters these remarkable words:
 
 . . . . .
 
-When I saw those words everything might just as well
+When I saw those words everything might just as [[Well|well]]
 have turned upside down.  The men in Fleet Street might
-have been walking about on their hands.  The cross of
+have been walking about on their hands.  The [[Cross|cross]] of
 St. Paul's might have been hanging in the air upside down.
 For I realise that I have really come into a topsy-turvy country;
 I have come into the country where men do definitely believe
-that the waving of the trees makes the wind.  That is to say,
+that the waving of the trees makes the [[Wind|wind]].  That is to say,
 they believe that the material circumstances, however black
 and twisted, are more important than the spiritual realities,
 however powerful and pure.  "Should Shop Assistants Marry?"  I am
-puzzled to think what some periods and schools of human history
+puzzled to think what some periods and schools of human [[history]]
 would have made of such a question.  The ascetics of the East
 or of some periods of the early Church would have thought
 that the question meant, "Are not shop assistants too saintly,
@@ -66,7 +66,7 @@ But I suppose that is not what the purple poster means.
 In some pagan cities it might have meant, "Shall slaves so vile
 as shop assistants even be allowed to propagate their abject race?"
 But I suppose that is not what the purple poster meant.
-We must face, I fear, the full insanity of what it does mean.
+We must face, I [[Fear|fear]], the full insanity of what it does mean.
 It does really mean that a section of the human race is asking
 whether the primary relations of the two human sexes are particularly
 good for modern shops.  The human race is asking whether Adam
@@ -75,7 +75,7 @@ If this is not topsy-turvy I cannot imagine what would be.
 We ask whether the universal institution will improve our
 (please God) temporary institution.  Yet I have known many
 such questions.  For instance, I have known a man ask seriously,
-"Does Democracy help the Empire?"  Which is like saying,
+"Does [[democracy|Democracy]] help the Empire?"  Which is like saying,
 "Is art favourable to frescoes?"
 
 I say that there are many such questions asked.
@@ -109,25 +109,25 @@ they never admit that healthy human life into the discussion
 at all, except suddenly and accidentally at odd moments;
 and then they only ask whether that healthy human life is suited
 to our streets and trades.  Perfection may be attainable or
-unattainable as an end.  It may or may not be possible to talk
+[[Unattainable|unattainable]] as an end.  It may or may not be possible to talk
 of imperfection as a means to perfection.  But surely it passes
 toleration to talk of perfection as a means to imperfection.
-The New Jerusalem may be a reality.  It may be a dream.
+The New Jerusalem may be a reality.  It may be [[A Dream|a dream]].
 But surely it is too outrageous to say that the New Jerusalem
-is a reality on the road to Birmingham.
+is a reality on the [[Road|road]] to Birmingham.
 
 . . . . .
 
-This is the most enormous and at the same time the most secret
+This is the most enormous and at the same [[Time|time]] the most secret
 of the modern tyrannies of materialism.  In theory the thing ought
 to be simple enough.  A really human human being would always put
 the spiritual things first.  A walking and speaking statue of God
 finds himself at one particular moment employed as a shop assistant.
-He has in himself a power of terrible love, a promise of paternity,
+He has in himself a power of terrible [[Love|love]], a promise of paternity,
 a thirst for some loyalty that shall unify life, and in the ordinary
 course of things he asks himself, "How far do the existing conditions
-of those assisting in shops fit in with my evident and epic destiny
-in the matter of love and marriage?"  But here, as I have said,
+of those assisting in shops fit in with my evident and [[Epic|epic]] destiny
+in the matter of [[Love|love]] and [[Marriage|marriage]]?"  But here, as I have said,
 comes in the quiet and crushing power of modern materialism.
 It prevents him rising in rebellion, as he would otherwise do.
 By perpetually talking about environment and visible things,
@@ -135,11 +135,11 @@ by perpetually talking about economics and physical necessity,
 painting and keeping repainted a perpetual picture of iron
 machinery and merciless engines, of rails of steel, and of
 towers of stone, modern materialism at last produces this
-tremendous impression in which the truth is stated upside down.
+tremendous impression in which the [[Truth|truth]] is stated upside down.
 At last the result is achieved.  The man does not say as
 he ought to have said, "Should married men endure being modern
 shop assistants?"  The man says, "Should shop assistants marry?"
 Triumph has completed the immense illusion of materialism.
-The slave does not say, "Are these chains worthy of me?"
+The slave does not say, "Are these [[Chains|chains]] worthy of me?"
 The slave says scientifically and contentedly, "Am I even worthy
-of these chains?"
+of these [[Chains|chains]]?"

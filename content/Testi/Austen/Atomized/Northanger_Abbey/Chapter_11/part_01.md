@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 10 (part 1)"
+title: "[[Northanger Abbey]] — Chapter 10 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -22,13 +22,13 @@ CHAPTER 10
 
 The Allens, Thorpes, and Morlands all met in the evening at the
 
-theatre; and, as Catherine and Isabella sat together, there was then an
+theatre; and, as Catherine and [[Isabella]] sat together, there was then an
 
 opportunity for the latter to utter some few of the many thousand
 
 things which had been collecting within her for communication in the
 
-immeasurable length of time which had divided them. “Oh, heavens! my
+immeasurable length of [[Time|time]] which had divided them. “Oh, heavens! my
 
 beloved Catherine, have I got you at last?” was her address on
 
@@ -44,11 +44,11 @@ not ask you, for you look delightfully. You really have done your hair
 
 in a more heavenly style than ever; you mischievous creature, do you
 
-want to attract everybody? I assure you, my brother is quite in love
+want to attract everybody? I assure you, my brother is quite in [[Love|love]]
 
 with you already; and as for Mr. Tilney—but _that_ is a settled
 
-thing—even _your_ modesty cannot doubt his attachment now; his coming
+thing—even _your_ modesty cannot [[Doubt|doubt]] his attachment now; his coming
 
 back to Bath makes it too plain. Oh! what would not I give to see him!
 
@@ -56,7 +56,7 @@ I really am quite wild with impatience. My mother says he is the most
 
 delightful young man in the world; she saw him this morning, you know;
 
-you must introduce him to me. Is he in the house now? Look about, for
+you must introduce him to me. Is he in the [[house]] now? Look about, for
 
 heaven’s sake! i assure you, I can hardly exist till I see him.”
 
@@ -72,7 +72,7 @@ gown? I think it does not look amiss; the sleeves were entirely my own
 
 thought. Do you know, I get so immoderately sick of Bath; your brother
 
-and I were agreeing this morning that, though it is vastly well to be
+and I were agreeing this morning that, though it is vastly [[Well|well]] to be
 
 here for a few weeks, we would not live here for millions. We soon
 
@@ -114,7 +114,7 @@ head.”
 
 
 
-Isabella smiled incredulously and talked the rest of the evening to
+[[Isabella]] smiled incredulously and talked the rest of the evening to
 
 James.
 
@@ -128,11 +128,11 @@ going to the pump-room, she felt some alarm from the dread of a second
 
 prevention. But nothing of that kind occurred, no visitors appeared to
 
-delay them, and they all three set off in good time for the pump-room,
+delay them, and they all three set off in good [[Time|time]] for the pump-room,
 
 where the ordinary course of events and conversation took place; Mr.
 
-Allen, after drinking his glass of water, joined some gentlemen to talk
+Allen, after drinking his glass of [[Water|water]], joined some gentlemen to talk
 
 over the politics of the day and compare the accounts of their
 
@@ -148,9 +148,9 @@ usual place by the side of her friend. James, who was now in constant
 
 attendance, maintained a similar position, and separating themselves
 
-from the rest of their party, they walked in that manner for some time,
+from the rest of their party, they walked in that manner for some [[Time|time]],
 
-till Catherine began to doubt the happiness of a situation which,
+till Catherine began to [[Doubt|doubt]] the happiness of a situation which,
 
 confining her entirely to her friend and brother, gave her very little
 
@@ -174,7 +174,7 @@ entering the room with Mrs. Hughes, and whom she instantly joined, with
 
 a firmer determination to be acquainted, than she might have had
 
-courage to command, had she not been urged by the disappointment of the
+[[Courage|courage]] to command, had she not been urged by the disappointment of the
 
 day before. Miss Tilney met her with great civility, returned her
 
@@ -188,13 +188,13 @@ either which had not been made and used some thousands of times before,
 
 under that roof, in every Bath season, yet the merit of their being
 
-spoken with simplicity and truth, and without personal conceit, might
+spoken with simplicity and [[Truth|truth]], and without personal conceit, might
 
 be something uncommon.
 
 
 
-“How well your brother dances!” was an artless exclamation of
+“How [[Well|well]] your brother dances!” was an artless exclamation of
 
 Catherine’s towards the close of their conversation, which at once
 
@@ -202,7 +202,7 @@ surprised and amused her companion.
 
 
 
-“Henry!” she replied with a smile. “Yes, he does dance very well.”
+“Henry!” she replied with a smile. “Yes, he does [[Dance|dance]] very [[Well|well]].”
 
 
 
@@ -212,7 +212,7 @@ other evening, when he saw me sitting down. But I really had been
 
 engaged the whole day to Mr. Thorpe.” Miss Tilney could only bow. “You
 
-cannot think,” added Catherine after a moment’s silence, “how surprised
+cannot think,” added Catherine after a moment’s [[Silence|silence]], “how surprised
 
 I was to see him again. I felt so sure of his being quite gone away.”
 

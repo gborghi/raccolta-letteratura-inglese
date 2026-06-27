@@ -1,5 +1,5 @@
 ---
-title: "manalive — Chapter 5 (part 3)"
+title: "[[manalive]] — Chapter 5 (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manalive-(Chesterton)"
@@ -17,74 +17,74 @@ tags:
 "He is really rather naughty sometimes," said Mary Gray,
 laughing softly as she buttoned her old gray gloves.
 
-"Oh, this is really mesmerism, or something," said Rosamund,
-and burst into tears.
+"Oh, this is really [[Mesmerism|mesmerism]], or something," said Rosamund,
+and burst into [[Tears|tears]].
 
 At the same moment the two black-clad doctors appeared out
-of the house with their great green-clad captive between them.
+of the [[house]] with their great green-clad captive between them.
 He made no resistance, but was still laughing in a groggy
-and half-witted style.  Arthur Inglewood followed in the rear,
+and half-witted style.  [[arthur|Arthur]] Inglewood followed in the rear,
 a dark and red study in the last shades of distress and shame.
 In this black, funereal, and painfully realistic style the exit
-from Beacon House was made by a man whose entrance a day before
+from Beacon [[house|House]] was made by a man whose entrance a day before
 had been effected by the happy leaping of a wall and the hilarious
-climbing of a tree.  No one moved of the groups in the garden
+climbing of a tree.  No one moved of the groups in the [[Garden|garden]]
 except Mary Gray, who stepped forward quite naturally,
-calling out, "Are you ready, Innocent?  Our cab's been waiting
-such a long time."
+calling out, "Are you ready, [[Innocent]]?  Our cab's been waiting
+such a long [[Time|time]]."
 
 "Ladies and gentlemen," said Dr. Warner firmly, "I must insist on asking
 this lady to stand aside.  We shall have trouble enough as it is,
 with the three of us in a cab."
 
-"But it IS our cab," persisted Mary.  "Why, there's Innocent's yellow
+"But it IS our cab," persisted Mary.  "Why, there's [[Innocent]]'s yellow
 bag on the top of it."
 
-"Stand aside," repeated Warner roughly.  "And you, Mr. Moon,
+"Stand aside," repeated Warner roughly.  "And you, Mr. [[Moon]],
 please be so obliging as to move a moment.  Come, come! the sooner
 this ugly business is over the better--and how can we open the gate
 if you will keep leaning on it?"
 
-Michael Moon looked at his long lean forefinger, and seemed
+[[Michael]] [[Moon]] looked at his long lean forefinger, and seemed
 to consider and reconsider this argument.  "Yes," he said at last;
 "but how can I lean on this gate if you keep on opening it?"
 
 "Oh, get out of the way!" cried Warner, almost good-humouredly.
-"You can lean on the gate any time."
+"You can lean on the gate any [[Time|time]]."
 
-"No," said Moon reflectively.  "Seldom the time and the place
+"No," said [[Moon]] reflectively.  "Seldom the [[Time|time]] and the place
 and the blue gate altogether; and it all depends whether you
 come of an old country family.  My ancestors leaned on gates
 before any one had discovered how to open them."
 
-"Michael!" cried Arthur Inglewood in a kind of agony, "are you going to get
+"[[Michael]]!" cried [[arthur|Arthur]] Inglewood in a kind of agony, "are you going to get
 out of the way?"
 
-"Why, no; I think not," said Michael, after some meditation,
+"Why, no; I think not," said [[Michael]], after some meditation,
 and swung himself slowly round, so that he confronted the company,
 while still, in a lounging attitude, occupying the path.
 
-"Hullo!" he called out suddenly; "what are you doing to Mr. Smith?"
+"Hullo!" he called out suddenly; "what are you doing to Mr. [[smith|Smith]]?"
 
 "Taking him away," answered Warner shortly, "to be examined."
 
-"Matriculation?" asked Moon brightly.
+"Matriculation?" asked [[Moon]] brightly.
 
 "By a magistrate," said the other curtly.
 
-"And what other magistrate," cried Michael, raising his voice,
+"And what other magistrate," cried [[Michael]], raising his voice,
 "dares to try what befell on this free soil, save only the ancient
-and independent Dukes of Beacon?  What other court dares to try
-one of our company, save only the High Court of Beacon?  Have you
-forgotten that only this afternoon we flew the flag of independence
+and independent Dukes of Beacon?  What other [[Court|court]] dares to try
+one of our company, save only the High [[Court]] of Beacon?  Have you
+forgotten that only this afternoon we flew the [[Flag|flag]] of independence
 and severed ourselves from all the nations of the earth?"
 
-"Michael," cried Rosamund, wringing her hands, "how can you stand
+"[[Michael]]," cried Rosamund, wringing her hands, "how can you stand
 there talking nonsense?  Why, you saw the dreadful thing yourself.
 You were there when he went mad.  It was you that helped the doctor
 up when he fell over the flower-pot."
 
-"And the High Court of Beacon," replied Moon with hauteur,
+"And the High [[Court]] of Beacon," replied [[Moon]] with hauteur,
 "has special powers in all cases concerning lunatics,
 flower-pots, and doctors who fall down in gardens.
 It's in our very first charter from Edward I:  `Si medicus
@@ -149,11 +149,11 @@ haven't even had the decency to consult Mrs. Duke."
 "Oh, that's no use," said Diana in an undertone to Rosamund; "Auntie can't
 say `Bo!' to a goose."
 
-"I am glad to hear it," answered Michael, "for with such a flock of geese
+"I am glad to hear it," answered [[Michael]], "for with such a flock of geese
 to say it to, the horrid expletive might be constantly on her lips.
 For my part, I simply refuse to let things be done in this light
-and airy style.  I appeal to Mrs. Duke--it's her house."
+and airy style.  I appeal to Mrs. Duke--it's her [[house]]."
 
 "Mrs. Duke?" repeated Inglewood doubtfully.
 
-"Yes, Mrs. Duke," said Michael firmly, "commonly called the Iron Duke."
+"Yes, Mrs. Duke," said [[Michael]] firmly, "commonly called the Iron Duke."

@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 21"
+title: "[[The Professor]] — Chapter 21"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -48,11 +48,11 @@ lady’s clear, fine autograph; the last I opened first:--
 
 “I FOUND out what you had done the very morning after your visit to me;
 
-you might be sure I should dust the china, every day; and, as no one but
+you might be sure I should [[Dust|dust]] the china, every day; and, as no one but
 
 you had been in my room for a week, and as fairy-money is not current
 
-in Brussels, I could not doubt who left the twenty francs on the
+in Brussels, I could not [[Doubt|doubt]] who left the twenty francs on the
 
 chimney-piece. I thought I heard you stir the vase when I was stooping
 
@@ -64,13 +64,13 @@ is not mine, and I shall not keep it; I will not send it in this note
 
 because it might be lost--besides, it is heavy; but I will restore it
 
-to you the first time I see you, and you must make no difficulties about
+to you the first [[Time|time]] I see you, and you must make no difficulties about
 
 taking it; because, in the first place, I am sure, monsieur, you can
 
 understand that one likes to pay one’s debts; that it is satisfactory
 
-to owe no man anything; and, in the second place, I can now very well
+to owe no man anything; and, in the second place, I can now very [[Well|well]]
 
 afford to be honest, as I am provided with a situation. This last
 
@@ -90,9 +90,9 @@ relation having made her a present of a veil and dress in costly old
 
 lace, as precious, they said, almost as jewels, but a little damaged by
 
-time, I was commissioned to put them in repair. I had to do it at the
+[[Time|time]], I was commissioned to put them in repair. I had to do it at the
 
-house; they gave me, besides, some embroidery to complete, and nearly
+[[house]]; they gave me, besides, some embroidery to complete, and nearly
 
 a week elapsed before I had finished everything. While I worked, Miss
 
@@ -100,9 +100,9 @@ Wharton often came into the room and sat with me, and so did Mrs.
 
 Wharton; they made me talk English; asked how I had learned to speak it
 
-so well; then they inquired what I knew besides--what books I had read;
+so [[Well|well]]; then they inquired what I knew besides--what books I had read;
 
-soon they seemed to make a sort of wonder of me, considering me no doubt
+soon they seemed to make a sort of [[Wonder|wonder]] of me, considering me no [[Doubt|doubt]]
 
 as a learned grisette. One afternoon, Mrs. Wharton brought in a Parisian
 
@@ -110,7 +110,7 @@ lady to test the accuracy of my knowledge of French; the result of
 
 it was that, owing probably in a great degree to the mother’s and
 
-daughter’s good humour about the marriage, which inclined them to
+daughter’s good [[Humour|humour]] about the [[Marriage|marriage]], which inclined them to
 
 do beneficent deeds, and partly, I think, because they are naturally
 
@@ -122,17 +122,17 @@ day they took me in their carriage to Mrs. D.’s, who is the directress
 
 of the first English school at Brussels. It seems she happened to be in
 
-want of a French lady to give lessons in geography, history, grammar,
+want of a French lady to give lessons in geography, [[history]], grammar,
 
 and composition, in the French language. Mrs. Wharton recommended me
 
 very warmly; and, as two of her younger daughters are pupils in the
 
-house, her patronage availed to get me the place. It was settled that I
+[[house]], her patronage availed to get me the place. It was settled that I
 
 am to attend six hours daily (for, happily, it was not required that
 
-I should live in the house; I should have been sorry to leave my
+I should live in the [[house]]; I should have been sorry to leave my
 
 lodgings), and, for this, Mrs. D. will give me twelve hundred francs per
 
@@ -148,17 +148,17 @@ beginning to be injured by constant working at fine lace; and I was
 
 getting, too, very weary of sitting up late at nights, and yet not being
 
-able to find time for reading or study. I began to fear that I should
+able to find [[Time|time]] for reading or study. I began to [[Fear|fear]] that I should
 
-fall ill, and be unable to pay my way; this fear is now, in a great
+fall ill, and be unable to pay my way; this [[Fear|fear]] is now, in a great
 
-measure, removed; and, in truth, monsieur, I am very grateful to God for
+measure, removed; and, in [[Truth|truth]], monsieur, I am very grateful to God for
 
 the relief; and I feel it necessary, almost, to speak of my happiness
 
 to some one who is kind-hearted enough to derive joy from seeing others
 
-joyful. I could not, therefore, resist the temptation of writing to you;
+joyful. I could not, therefore, resist the [[Temptation|temptation]] of writing to you;
 
 I argued with myself it is very pleasant for me to write, and it will
 
@@ -198,13 +198,13 @@ envelope; the note folded within ran as follows:
 
 
 
-“I have no doubt in the world that you are doing well in that greasy
+“I have no [[Doubt|doubt]] in the world that you are doing [[Well|well]] in that greasy
 
 Flanders; living probably on the fat of the unctuous land; sitting like
 
 a black-haired, tawny-skinned, long-nosed Israelite by the flesh-pots
 
-of Egypt; or like a rascally son of Levi near the brass cauldrons of the
+of [[Egypt]]; or like a rascally son of Levi near the brass cauldrons of the
 
 sanctuary, and every now and then plunging in a consecrated hook, and
 
@@ -256,7 +256,7 @@ blaspheme, so I’ll leave a blank)--cometh.
 
 
 
-“HUNSDEN YORKE HUNSDEN.”
+“HUNSDEN [[Yorke Hunsden|YORKE HUNSDEN]].”
 
 
 
@@ -270,7 +270,7 @@ between the autograph and the character: what affinity was there here?
 
 I recalled the writer’s peculiar face and certain traits I suspected,
 
-rather than knew, to appertain to his nature, and I answered, “A great
+rather than knew, to appertain to his [[Nature|nature]], and I answered, “A great
 
 deal.”
 
@@ -282,7 +282,7 @@ coming charged with the expectation of finding me on the summit of
 
 prosperity, about to be married, to step into a warm nest, to lie
 
-comfortably down by the side of a snug, well-fed little mate.
+comfortably down by the side of a snug, [[Well|well]]-fed little mate.
 
 
 
@@ -292,7 +292,7 @@ I. “What will he say when, instead of a pair of plump turtle doves,
 
 billing and cooing in a bower of roses, he finds a single lean
 
-cormorant, standing mateless and shelterless on poverty’s bleak cliff?
+cormorant, standing mateless and shelterless on [[Poverty|poverty]]’s bleak cliff?
 
 Oh, confound him! Let him come, and let him laugh at the contrast
 
@@ -324,17 +324,17 @@ it with me, met and satisfied the wish of my heart. Two results of her
 
 letter were then pleasant, sweet as two draughts of nectar; but applying
 
-my lips for the third time to the cup, and they were excoriated as with
+my lips for the third [[Time|time]] to the cup, and they were excoriated as with
 
 vinegar and gall.
 
 
 
-Two persons whose desires are moderate may live well enough in Brussels
+Two persons whose desires are moderate may live [[Well|well]] enough in Brussels
 
 on an income which would scarcely afford a respectable maintenance for
 
-one in London: and that, not because the necessaries of life are so
+one in [[London]]: and that, not because the necessaries of life are so
 
 much dearer in the latter capital, or taxes so much higher than in the
 
@@ -342,7 +342,7 @@ former, but because the English surpass in folly all the nations on
 
 God’s earth, and are more abject slaves to custom, to opinion, to
 
-the desire to keep up a certain appearance, than the Italians are to
+the [[Desire|desire]] to keep up a certain appearance, than the Italians are to
 
 priestcraft, the French to vain-glory, the Russians to their Czar, or
 
@@ -370,7 +370,7 @@ of 50l., have gone straight to her this very evening, and spoken out the
 
 words which, repressed, kept fretting my heart with fever; our united
 
-income would, as we should have managed it, have sufficed well for
+income would, as we should have managed it, have sufficed [[Well|well]] for
 
 our mutual support; since we lived in a country where economy was not
 
@@ -380,9 +380,9 @@ was not synonymous with vulgarity in these various points. But the
 
 placeless usher, bare of resource, and unsupported by connections, must
 
-not think of this; such a sentiment as love, such a word as marriage,
+not think of this; such a sentiment as [[Love|love]], such a word as [[Marriage|marriage]],
 
-were misplaced in his heart, and on his lips. Now for the first time did
+were misplaced in his heart, and on his lips. Now for the first [[Time|time]] did
 
 I truly feel what it was to be poor; now did the sacrifice I had made
 
@@ -394,9 +394,9 @@ fanatical; I took several turns in my room, under the goading influence
 
 of most poignant remorse; I walked a quarter of an hour from the wall to
 
-the window; and at the window, self-reproach seemed to face me; at the
+the [[Window|window]]; and at the [[Window|window]], [[Self|self]]-reproach seemed to face me; at the
 
-wall, self-disdain: all at once out spoke Conscience:--
+wall, [[Self|self]]-disdain: all at once out spoke [[Conscience]]:--
 
 
 
@@ -406,9 +406,9 @@ you shall not bait him thus by thoughts of what might have been; he
 
 relinquished a temporary and contingent good to avoid a permanent and
 
-certain evil he did well. Let him reflect now, and when your blinding
+certain evil he did [[Well|well]]. Let him reflect now, and when your blinding
 
-dust and deafening hum subside, he will discover a path.”
+[[Dust|dust]] and deafening hum subside, he will discover a path.”
 
 
 
@@ -430,11 +430,11 @@ eventually, I saw, or seemed to see, a ray--pallid, indeed, and cold,
 
 and doubtful, but still a ray, for it showed that narrow path which
 
-conscience had promised after two, three hours’ torturing research in
+[[Conscience|conscience]] had promised after two, three hours’ torturing research in
 
-brain and memory, I disinterred certain remains of circumstances, and
+brain and [[Memory|memory]], I disinterred certain remains of circumstances, and
 
-conceived a hope that by putting them together an expedient might be
+conceived a [[Hope|hope]] that by putting them together an expedient might be
 
 framed, and a resource discovered. The circumstances were briefly these:
 
@@ -456,7 +456,7 @@ rowing round it in little boats. The boys having eaten an unlimited
 
 quantity of “gaufres,” and drank several bottles of Louvain beer, amid
 
-the shades of a garden made and provided for such crams, petitioned
+the shades of a [[Garden|garden]] made and provided for such crams, petitioned
 
 the director for leave to take a row on the etang. Half a dozen of the
 
@@ -472,7 +472,7 @@ personal development truly national. It chanced that Jean was the first
 
 lad to step into the boat; he stumbled, rolled to one side, the boat
 
-revolted at his weight and capsized. Vandenhuten sank like lead, rose,
+revolted at his weight and capsized. Vandenhuten sank like lead, [[Rose|rose]],
 
 sank again. My coat and waistcoat were off in an instant; I had not been
 
@@ -482,17 +482,17 @@ for nothing; it was a natural and easy act for me to leap to the rescue.
 
 The lads and the boatmen yelled; they thought there would be two deaths
 
-by drowning instead of one; but as Jean rose the third time, I clutched
+by drowning instead of one; but as Jean [[Rose|rose]] the third [[Time|time]], I clutched
 
 him by one leg and the collar, and in three minutes more both he and I
 
-were safe landed. To speak heaven’s truth, my merit in the action was
+were safe landed. To speak heaven’s [[Truth|truth]], my merit in the action was
 
 small indeed, for I had run no risk, and subsequently did not even catch
 
 cold from the wetting; but when M. and Madame Vandenhuten, of whom Jean
 
-Baptiste was the sole hope, came to hear of the exploit, they seemed
+Baptiste was the sole [[Hope|hope]], came to hear of the exploit, they seemed
 
 to think I had evinced a bravery and devotion which no thanks could
 
@@ -510,7 +510,7 @@ applying to him, give him a chance of discharging the obligation under
 
 which he affirmed I had laid him. These words, then, were my glimmer of
 
-light; it was here I found my sole outlet; and in truth, though the cold
+light; it was here I found my sole outlet; and in [[Truth|truth]], though the cold
 
 light roused, it did not cheer me; nor did the outlet seem such as I
 
@@ -524,7 +524,7 @@ chance of obtaining it lay in securing his recommendation. This I knew
 
 could be had by asking for it; not to ask, because the request revolted
 
-my pride and contradicted my habits, would, I felt, be an indulgence of
+my [[Pride|pride]] and contradicted my habits, would, I felt, be an indulgence of
 
 false and indolent fastidiousness. I might repent the omission all my
 
@@ -536,7 +536,7 @@ That evening I went to M. Vandenhuten’s; but I had bent the bow and
 
 adjusted the shaft in vain; the string broke. I rang the bell at the
 
-great door (it was a large, handsome house in an expensive part of the
+great door (it was a large, handsome [[house]] in an expensive part of the
 
 town); a manservant opened; I asked for M. Vandenhuten; M. Vandenhuten
 

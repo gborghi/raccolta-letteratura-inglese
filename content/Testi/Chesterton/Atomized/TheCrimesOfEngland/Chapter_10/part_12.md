@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 12)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 12)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -16,21 +16,21 @@ tags:
 
 daughters of a race distinguished for a rare and detached purity, and of
 
-a religion which makes of innocence the Mother of God. In its bodily
+a religion which makes of [[innocence]] the Mother of God. In its bodily
 
 aspects it became like a war of devils upon angels; as if England could
 
 produce nothing but torturers, and Ireland nothing but martyrs. Such
 
-was a part of the price paid by the Irish body and the English soul, for
+was a part of the price paid by the Irish [[Body|body]] and the English [[Soul|soul]], for
 
 the privilege of patching up a Prussian after the sabre-stroke of Jena.
 
 
 
-But Germany was not merely present in the spirit: Germany was present in
+But [[Germany]] was not merely present in the spirit: [[Germany]] was present in
 
-the flesh. Without any desire to underrate the exploits of the English
+the flesh. Without any [[Desire|desire]] to underrate the exploits of the English
 
 or the Orangemen, I can safely say that the finest touches were added by
 
@@ -42,11 +42,11 @@ Germanie." An Irishman I know, whose brother is a soldier, and who has
 
 relatives in many distinguished posts of the British army, told me that
 
-in his childhood the legend (or rather the truth) of '98 was so
+in his [[Childhood|childhood]] the legend (or rather the [[Truth|truth]]) of '98 was so
 
 frightfully alive that his own mother would not have the word "soldier"
 
-spoken in her house. Wherever we thus find the tradition alive we find
+spoken in her [[house]]. Wherever we thus find the tradition alive we find
 
 that the hateful soldier means especially the German soldier. When the
 
@@ -66,7 +66,7 @@ in the make-up of the British army, came in with our German princes, and
 
 reappeared on many important occasions in our eighteenth-century
 
-history. They were probably among those who encamped triumphantly upon
+[[history]]. They were probably among those who encamped triumphantly upon
 
 Drumossie Moor, and also (which is a more gratifying thought) among
 
@@ -76,11 +76,11 @@ typical German, George III., narrow, serious, of a stunted culture and
 
 coarse in his very domesticity, quarrelled with all that was spirited,
 
-not only in the democracy of America but in the aristocracy of England,
+not only in the [[democracy]] of [[america|America]] but in the aristocracy of England,
 
 German troops were very fitted to be his ambassadors beyond the
 
-Atlantic. With their well-drilled formations they followed Burgoyne in
+Atlantic. With their [[Well|well]]-drilled formations they followed Burgoyne in
 
 that woodland march that failed at Saratoga; and with their wooden faces
 
@@ -96,7 +96,7 @@ thing that foreigners had to do. It vaguely increased the prestige of
 
 the Germans as the military people, to the disadvantage of the French,
 
-whom it was the interest of our vanity to underrate. The mere mixture of
+whom it was the interest of our [[Vanity|vanity]] to underrate. The mere mixture of
 
 their uniforms with ours made a background of pageantry in which it
 
@@ -134,29 +134,29 @@ the ideal Englishman was too much of a squire; but it is just to add
 
 that the ideal squire was a good squire. The best squire I know in
 
-fiction is Duke Theseus in "The Midsummer Night's Dream," who is kind to
+fiction is Duke [[Theseus]] in "The Midsummer [[Night]]'s Dream," who is kind to
 
-his people and proud of his dogs; and would be a perfect human being if
+his people and proud of his [[dogs]]; and would be a perfect human being if
 
 he were not just a little bit prone to be kind to both of them in the
 
-same way. But such natural and even pagan good-nature is consonant with
+same way. But such natural and even pagan good-[[Nature|nature]] is consonant with
 
 the warm wet woods and comfortable clouds of South England; it never had
 
 any place among the harsh and thrifty squires in the plains of East
 
-Prussia, the land of the East Wind. They were peevish as well as proud,
+Prussia, the land of the East [[Wind]]. They were peevish as [[Well|well]] as proud,
 
 and everything they created, but especially their army, was made
 
 coherent by sheer brutality. Discipline was cruel enough in all the
 
-eighteenth-century armies, created long after the decay of any faith or
+eighteenth-century armies, created long after the [[Decay|decay]] of any [[Faith|faith]] or
 
-hope that could hold men together. But the state that was first in
+[[Hope|hope]] that could hold men together. But the state that was first in
 
-Germany was first in ferocity. Frederick the Great had to forbid his
+[[Germany]] was first in ferocity. Frederick the Great had to forbid his
 
 English admirers to follow his regiments during the campaign, lest they
 
@@ -168,11 +168,11 @@ seen, left on Ireland a fearful mark which will never be effaced.
 
 English rule in Ireland had been bad before; but in the broadening light
 
-of the revolutionary century I doubt whether it could have continued as
+of the revolutionary century I [[Doubt|doubt]] whether it could have continued as
 
 bad, if we had not taken a side that forced us to flatter barbarian
 
-tyranny in Europe. We should hardly have seen such a nightmare as the
+tyranny in Europe. We should hardly have seen such a [[nightmare]] as the
 
 Anglicising of Ireland if we had not already seen the Germanising of
 
@@ -180,7 +180,7 @@ England. But even in England it was not without its effects; and one of
 
 its effects was to rouse a man who is, perhaps, the best English witness
 
-to the effect on the England of that time of the Alliance with Germany.
+to the effect on the England of that [[Time|time]] of the Alliance with [[Germany]].
 
 With that man I shall deal in the chapter that follows.
 
@@ -196,10 +196,10 @@ V--_The Lost England_
 
 
 
-Telling the truth about Ireland is not very pleasant to a patriotic
+Telling the [[Truth|truth]] about Ireland is not very pleasant to a patriotic
 
-Englishman; but it is very patriotic. It is the truth and nothing but
+Englishman; but it is very patriotic. It is the [[Truth|truth]] and nothing but
 
-the truth which I have but touched on in the last chapter. Several
+the [[Truth|truth]] which I have but touched on in the last chapter. Several
 
 times, and especially at the beginning of this war, we narrowly escaped

@@ -1,5 +1,5 @@
 ---
-title: "Othello — Act I, Scene 1 — exchange (dialogue) [1]"
+title: "[[Othello]] — Act I, Scene 1 — exchange (dialogue) [1]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/OTHELLO-(Shakespeare)"
@@ -15,7 +15,7 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Iago and Roderigo |
-| RODERIGO | Tush, never tell me! I take it much unkindly That thou, Iago, who hast had my purse As if the strings were thine, shouldst know of this. |
-| IAGO | ’Sblood, but you’ll not hear me! If ever I did dream of such a matter, abhor me. |
-| RODERIGO | Thou told’st me thou didst hold him in thy hate. |
+| *(didascalia)* | Enter [[Iago]] and [[Roderigo]] |
+| [[Roderigo|RODERIGO]] | Tush, never tell me! I take it much unkindly That thou, [[Iago]], who hast had my purse As if the strings were thine, shouldst know of this. |
+| [[Iago|IAGO]] | ’Sblood, but you’ll not hear me! If ever I did dream of such a matter, abhor me. |
+| [[Roderigo|RODERIGO]] | Thou told’st me thou didst hold him in thy hate. |

@@ -1,5 +1,5 @@
 ---
-title: "A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS (part 4)"
+title: "A Christmas [[carol|Carol]] — Stave 4: THE LAST OF THE SPIRITS (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Christmas-Carol-(Dickens)"
@@ -20,56 +20,56 @@ tags:
 
 "We are quite ruined?"
 
-"No. There is hope yet, Caroline."
+"No. There is [[Hope|hope]] yet, Caroline."
 
 "If he relents," she said, amazed, "there is! Nothing is
-past hope, if such a miracle has happened."
+past [[Hope|hope]], if such a miracle has happened."
 
 "He is past relenting," said her husband. "He is dead."
 
 She was a mild and patient creature if her face spoke
-truth; but she was thankful in her soul to hear it, and she
-said so, with clasped hands. She prayed forgiveness the next
+[[Truth|truth]]; but she was thankful in her [[Soul|soul]] to hear it, and she
+said so, with clasped hands. She prayed [[Forgiveness|forgiveness]] the next
 moment, and was sorry; but the first was the emotion of
 her heart.
 
 "What the half-drunken woman whom I told you of last
-night, said to me, when I tried to see him and obtain a
+[[Night|night]], said to me, when I tried to see him and obtain a
 week's delay; and what I thought was a mere excuse to avoid
 me; turns out to have been quite true. He was not only
 very ill, but dying, then."
 
 "To whom will our debt be transferred?"
 
-"I don't know. But before that time we shall be ready
+"I don't know. But before that [[Time|time]] we shall be ready
 with the money; and even though we were not, it would be
 a bad fortune indeed to find so merciless a creditor in his
-successor. We may sleep to-night with light hearts, Caroline!"
+successor. We may [[Sleep|sleep]] to-[[Night|night]] with light hearts, Caroline!"
 
 Yes. Soften it as they would, their hearts were lighter.
 The children's faces, hushed and clustered round to hear what
 they so little understood, were brighter; and it was a happier
-house for this man's death! The only emotion that the
-Ghost could show him, caused by the event, was one of
+[[house]] for this man's [[Death|death]]! The only emotion that the
+[[Ghost]] could show him, caused by the event, was one of
 pleasure.
 
-"Let me see some tenderness connected with a death," said
+"Let me see some tenderness connected with a [[Death|death]]," said
 Scrooge; "or that dark chamber, Spirit, which we left just
 now, will be for ever present to me."
 
-The Ghost conducted him through several streets familiar
+The [[Ghost]] conducted him through several streets familiar
 to his feet; and as they went along, Scrooge looked here and
 there to find himself, but nowhere was he to be seen. They
-entered poor Bob Cratchit's house; the dwelling he had
+entered poor [[Bob Cratchit]]'s [[house]]; the dwelling he had
 visited before; and found the mother and the children seated
-round the fire.
+round the [[Fire|fire]].
 
 Quiet. Very quiet. The noisy little Cratchits were as
 still as statues in one corner, and sat looking up at Peter,
 who had a book before him. The mother and her daughters
 were engaged in sewing. But surely they were very quiet!
 
-"'And He took a child, and set him in the midst of
+"'And He took a [[Child|child]], and set him in the midst of
 them.'"
 
 Where had Scrooge heard those words? He had not
@@ -82,12 +82,12 @@ hand up to her face.
 
 "The colour hurts my eyes," she said.
 
-The colour? Ah, poor Tiny Tim!
+The colour? Ah, poor [[Tiny Tim]]!
 
 "They're better now again," said Cratchit's wife. "It
 makes them weak by candle-light; and I wouldn't show weak
-eyes to your father when he comes home, for the world. It
-must be near his time."
+eyes to your father when he comes [[Home|home]], for the world. It
+must be near his [[Time|time]]."
 
 "Past it rather," Peter answered, shutting up his book.
 "But I think he has walked a little slower than he used,
@@ -97,7 +97,7 @@ They were very quiet again. At last she said, and in a
 steady, cheerful voice, that only faltered once:
 
 "I have known him walk with--I have known him walk
-with Tiny Tim upon his shoulder, very fast indeed."
+with [[Tiny Tim]] upon his shoulder, very fast indeed."
 
 "And so have I," cried Peter. "Often."
 
@@ -111,37 +111,37 @@ She hurried out to meet him; and little Bob in his comforter
 --he had need of it, poor fellow--came in. His tea
 was ready for him on the hob, and they all tried who should
 help him to it most. Then the two young Cratchits got
-upon his knees and laid, each child a little cheek, against
+upon his knees and laid, each [[Child|child]] a little cheek, against
 his face, as if they said, "Don't mind it, father. Don't be
 grieved!"
 
 Bob was very cheerful with them, and spoke pleasantly to
 all the family. He looked at the work upon the table, and
-praised the industry and speed of Mrs. Cratchit and the girls.
-They would be done long before Sunday, he said.
+praised the industry and [[Speed|speed]] of Mrs. Cratchit and the girls.
+They would be done long before [[Sunday]], he said.
 
-"Sunday! You went to-day, then, Robert?" said his
+"[[Sunday]]! You went to-day, then, Robert?" said his
 wife.
 
 "Yes, my dear," returned Bob. "I wish you could have
 gone. It would have done you good to see how green a
 place it is. But you'll see it often. I promised him that I
-would walk there on a Sunday. My little, little child!"
-cried Bob. "My little child!"
+would walk there on a [[Sunday]]. My little, little [[Child|child]]!"
+cried Bob. "My little [[Child|child]]!"
 
 He broke down all at once. He couldn't help it. If he
-could have helped it, he and his child would have been farther
+could have helped it, he and his [[Child|child]] would have been farther
 apart perhaps than they were.
 
 He left the room, and went up-stairs into the room above,
 which was lighted cheerfully, and hung with Christmas.
-There was a chair set close beside the child, and there were
+There was a chair set close beside the [[Child|child]], and there were
 signs of some one having been there, lately. Poor Bob sat
 down in it, and when he had thought a little and composed
 himself, he kissed the little face. He was reconciled to what
 had happened, and went down again quite happy.
 
-They drew about the fire, and talked; the girls and mother
+They drew about the [[Fire|fire]], and talked; the girls and mother
 working still. Bob told them of the extraordinary kindness
 of Mr. Scrooge's nephew, whom he had scarcely seen but
 once, and who, meeting him in the street that day, and seeing
@@ -158,16 +158,16 @@ By the bye, how he ever knew that, I don't know."
 
 "Everybody knows that!" said Peter.
 
-"Very well observed, my boy!" cried Bob. "I hope they
+"Very [[Well|well]] observed, my boy!" cried Bob. "I [[Hope|hope]] they
 do. 'Heartily sorry,' he said, 'for your good wife. If I
 can be of service to you in any way,' he said, giving me
 his card, 'that's where I live. Pray come to me.' Now, it
 wasn't," cried Bob, "for the sake of anything he might be
 able to do for us, so much as for his kind way, that this was
 quite delightful. It really seemed as if he had known our
-Tiny Tim, and felt with us."
+[[Tiny Tim]], and felt with us."
 
-"I'm sure he's a good soul!" said Mrs. Cratchit.
+"I'm sure he's a good [[Soul|soul]]!" said Mrs. Cratchit.
 
 "You would be surer of it, my dear," returned Bob, "if
 you saw and spoke to him. I shouldn't be at all surprised--

@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 27 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 27 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -18,7 +18,7 @@ Mrs. Jennings soon appeared, and the note being given her, she read it
 
 aloud. It was from Lady Middleton, announcing their arrival in Conduit
 
-Street the night before, and requesting the company of her mother and
+Street the [[Night|night]] before, and requesting the company of her mother and
 
 cousins the following evening. Business on Sir John’s part, and a
 
@@ -48,13 +48,13 @@ young people, and to amuse them with a ball. This was an affair,
 
 however, of which Lady Middleton did not approve. In the country, an
 
-unpremeditated dance was very allowable; but in London, where the
+unpremeditated [[Dance|dance]] was very allowable; but in [[London]], where the
 
 reputation of elegance was more important and less easily attained, it
 
 was risking too much for the gratification of a few girls, to have it
 
-known that Lady Middleton had given a small dance of eight or nine
+known that Lady Middleton had given a small [[Dance|dance]] of eight or nine
 
 couple, with two violins, and a mere side-board collation.
 
@@ -80,9 +80,9 @@ receive or communicate pleasure. After they had been assembled about an
 
 hour, Mr. Palmer sauntered towards the Miss Dashwoods to express his
 
-surprise on seeing them in town, though Colonel Brandon had been first
+surprise on seeing them in town, though [[Colonel Brandon]] had been first
 
-informed of their arrival at his house, and he had himself said
+informed of their arrival at his [[house]], and he had himself said
 
 something very droll on hearing that they were to come.
 
@@ -104,7 +104,7 @@ something very droll on hearing that they were to come.
 
 
 
-Never had Marianne been so unwilling to dance in her life, as she was
+Never had Marianne been so unwilling to [[Dance|dance]] in her life, as she was
 
 that evening, and never so much fatigued by the exercise. She
 
@@ -114,9 +114,9 @@ complained of it as they returned to Berkeley Street.
 
 “Aye, aye,” said Mrs. Jennings, “we know the reason of all that very
 
-well; if a certain person who shall be nameless, had been there, you
+[[Well|well]]; if a certain person who shall be nameless, had been there, you
 
-would not have been a bit tired: and to say the truth it was not very
+would not have been a bit tired: and to say the [[Truth|truth]] it was not very
 
 pretty of him not to give you the meeting when he was invited.”
 
@@ -154,7 +154,7 @@ business, and Elinor began her letter directly, while Marianne, too
 
 restless for employment, too anxious for conversation, walked from one
 
-window to the other, or sat down by the fire in melancholy meditation.
+[[Window|window]] to the other, or sat down by the [[Fire|fire]] in [[Melancholy|melancholy]] meditation.
 
 Elinor was very earnest in her application to her mother, relating all
 
@@ -168,21 +168,21 @@ of her real situation with respect to him.
 
 Her letter was scarcely finished, when a rap foretold a visitor, and
 
-Colonel Brandon was announced. Marianne, who had seen him from the
+[[Colonel Brandon]] was announced. Marianne, who had seen him from the
 
-window, and who hated company of any kind, left the room before he
+[[Window|window]], and who hated company of any kind, left the room before he
 
-entered it. He looked more than usually grave, and though expressing
+entered it. He looked more than usually [[Grave|grave]], and though expressing
 
-satisfaction at finding Miss Dashwood alone, as if he had somewhat in
+satisfaction at finding Miss Dashwood [[Alone|alone]], as if he had somewhat in
 
-particular to tell her, sat for some time without saying a word.
+particular to tell her, sat for some [[Time|time]] without saying a word.
 
 Elinor, persuaded that he had some communication to make in which her
 
 sister was concerned, impatiently expected its opening. It was not the
 
-first time of her feeling the same kind of conviction; for, more than
+first [[Time|time]] of her feeling the same kind of conviction; for, more than
 
 once before, beginning with the observation of “your sister looks
 
@@ -190,7 +190,7 @@ unwell to-day,” or “your sister seems out of spirits,” he had appeared
 
 on the point, either of disclosing, or of inquiring, something
 
-particular about her. After a pause of several minutes, their silence
+particular about her. After a pause of several minutes, their [[Silence|silence]]
 
 was broken, by his asking her in a voice of some agitation, when he was
 
@@ -216,7 +216,7 @@ He looked surprised and said, “I beg your pardon, I am afraid my
 
 inquiry has been impertinent; but I had not supposed any secrecy
 
-intended, as they openly correspond, and their marriage is universally
+intended, as they openly correspond, and their [[Marriage|marriage]] is universally
 
 talked of.”
 

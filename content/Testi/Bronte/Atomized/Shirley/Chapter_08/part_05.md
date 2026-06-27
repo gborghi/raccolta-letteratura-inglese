@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 8 (part 5)"
+title: "[[Shirley]] — Chapter 8 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-reappearing, held out a pistol.
+reappearing, held out a [[Pistol|pistol]].
 
 
 
@@ -24,7 +24,7 @@ reappearing, held out a pistol.
 
 Stepping backwards, facing the foe as he went, he guarded his prey to
 
-the counting-house. He ordered Joe Scott to pass in with Sugden and the
+the counting-[[house]]. He ordered Joe Scott to pass in with Sugden and the
 
 prisoner, and to bolt the door inside. For himself, he walked backwards
 
@@ -32,7 +32,7 @@ and forwards along the front of the mill, looking meditatively on the
 
 ground, his hand hanging carelessly by his side, but still holding the
 
-pistol. The eleven remaining deputies watched him some time, talking
+[[Pistol|pistol]]. The eleven remaining deputies watched him some [[Time|time]], talking
 
 under their breath to each other. At length one of them approached. This
 
@@ -42,7 +42,7 @@ spoken; he was hard-favoured, but modest and manly-looking.
 
 
 
-"I've not much faith i' Moses Barraclough," said he, "and I would speak
+"I've not much [[Faith|faith]] i' Moses Barraclough," said he, "and I would speak
 
 a word to you myseln, Mr. Moore. It's out o' no ill-will that I'm here,
 
@@ -58,9 +58,9 @@ say, wisht! and lig us down and dee? Nay; I've no grand words at my
 
 tongue's end, Mr. Moore, but I feel that it wad be a low principle for a
 
-reasonable man to starve to death like a dumb cratur. I willn't do't.
+reasonable man to starve to [[Death|death]] like a dumb cratur. I willn't do't.
 
-I'm not for shedding blood: I'd neither kill a man nor hurt a man; and
+I'm not for shedding [[Blood|blood]]: I'd neither kill a man nor hurt a man; and
 
 I'm not for pulling down mills and breaking machines--for, as ye say,
 
@@ -86,11 +86,11 @@ worry the mill-owners is absurd, and I for one won't stand it."
 
 "Ye're a raight hard un!" returned the workman. "Willn't ye gie us a bit
 
-o' time? Willn't ye consent to mak your changes rather more slowly?"
+o' [[Time|time]]? Willn't ye consent to mak your changes rather more slowly?"
 
 
 
-"Am I the whole body of clothiers in Yorkshire? Answer me that."
+"Am I the whole [[Body|body]] of clothiers in Yorkshire? Answer me that."
 
 
 
@@ -114,9 +114,9 @@ If you broke these, I would still get more. _I'll never give in._"
 
 
 
-Here the mill-bell rang twelve o'clock. It was the dinner-hour. Moore
+Here the mill-bell rang twelve o'[[Clock|clock]]. It was the dinner-hour. Moore
 
-abruptly turned from the deputation and re-entered his counting-house.
+abruptly turned from the deputation and re-entered his counting-[[house]].
 
 
 
@@ -146,11 +146,11 @@ was worn, dejected, austere, but still patient. How could Moore leave
 
 him thus, with the words, "I'll never give in," and not a whisper of
 
-good-will, or hope, or aid?
+good-will, or [[Hope|hope]], or aid?
 
 
 
-Farren, as he went home to his cottage--once, in better times, a decent,
+Farren, as he went [[Home|home]] to his cottage--once, in better times, a decent,
 
 clean, pleasant place, but now, though still clean, very dreary, because
 
@@ -174,7 +174,7 @@ that. Some of the younger children asked for more when they had done
 
 their portion--an application which disturbed William much. While his
 
-wife quieted them as well as she could, he left his seat and went to the
+wife quieted them as [[Well|well]] as she could, he left his seat and went to the
 
 door. He whistled a cheery stave, which did not, however, prevent a
 
@@ -190,7 +190,7 @@ followed.
 
 
 
-He still stood brooding in silence, when a gentleman in black came up--a
+He still stood brooding in [[Silence|silence]], when a gentleman in black came up--a
 
 clergyman, it might be seen at once, but neither Helstone, nor Malone,
 

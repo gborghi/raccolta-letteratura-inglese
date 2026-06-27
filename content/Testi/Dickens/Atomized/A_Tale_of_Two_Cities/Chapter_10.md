@@ -25,28 +25,28 @@ public enemy was not a correspondence of to-day, or of yesterday, or
 even of last year, or of the year before. That, it was certain the
 prisoner had, for longer than that, been in the habit of passing and
 repassing between France and England, on secret business of which
-he could give no honest account. That, if it were in the nature of
+he could give no honest account. That, if it were in the [[Nature|nature]] of
 traitorous ways to thrive (which happily it never was), the real
-wickedness and guilt of his business might have remained undiscovered.
-That Providence, however, had put it into the heart of a person who
-was beyond fear and beyond reproach, to ferret out the nature of the
+wickedness and [[Guilt|guilt]] of his business might have remained undiscovered.
+That [[Providence]], however, had put it into the heart of a person who
+was beyond [[Fear|fear]] and beyond reproach, to ferret out the [[Nature|nature]] of the
 prisoner’s schemes, and, struck with horror, to disclose them to his
 Majesty’s Chief Secretary of State and most honourable Privy Council.
 That, this patriot would be produced before them. That, his position and
-attitude were, on the whole, sublime. That, he had been the prisoner’s
+attitude were, on the whole, [[Sublime|sublime]]. That, he had been the prisoner’s
 friend, but, at once in an auspicious and an evil hour detecting his
 infamy, had resolved to immolate the traitor he could no longer cherish
 in his bosom, on the sacred altar of his country. That, if statues
-were decreed in Britain, as in ancient Greece and Rome, to public
+were decreed in Britain, as in [[Ancient Greece|ancient Greece]] and Rome, to public
 benefactors, this shining citizen would assuredly have had one. That, as
 they were not so decreed, he probably would not have one. That, Virtue,
-as had been observed by the poets (in many passages which he well
+as had been observed by the poets (in many passages which he [[Well|well]]
 knew the jury would have, word for word, at the tips of their tongues;
 whereat the jury’s countenances displayed a guilty consciousness that
 they knew nothing about the passages), was in a manner contagious; more
-especially the bright virtue known as patriotism, or love of country.
+especially the bright virtue known as patriotism, or [[Love|love]] of country.
 That, the lofty example of this immaculate and unimpeachable witness
-for the Crown, to refer to whom however unworthily was an honour, had
+for the [[Crown]], to refer to whom however unworthily was an [[Honour|honour]], had
 communicated itself to the prisoner’s servant, and had engendered in him
 a holy determination to examine his master’s table-drawers and pockets,
 and secrete his papers. That, he (Mr. Attorney-General) was prepared to
@@ -58,7 +58,7 @@ on the jury to come and do likewise. That, the evidence of these two
 witnesses, coupled with the documents of their discovering that would be
 produced, would show the prisoner to have been furnished with lists of
 his Majesty’s forces, and of their disposition and preparation, both by
-sea and land, and would leave no doubt that he had habitually conveyed
+sea and land, and would leave no [[Doubt|doubt]] that he had habitually conveyed
 such information to a hostile power. That, these lists could not be
 proved to be in the prisoner’s handwriting; but that it was all the
 same; that, indeed, it was rather the better for the prosecution, as
@@ -76,31 +76,31 @@ of their children laying their heads upon their pillows; in short, that
 there never more could be, for them or theirs, any laying of heads upon
 pillows at all, unless the prisoner’s head was taken off. That head
 Mr. Attorney-General concluded by demanding of them, in the name of
-everything he could think of with a round turn in it, and on the faith
+everything he could think of with a round turn in it, and on the [[Faith|faith]]
 of his solemn asseveration that he already considered the prisoner as
 good as dead and gone.
 
-When the Attorney-General ceased, a buzz arose in the court as if
+When the Attorney-General ceased, a buzz arose in the [[Court|court]] as if
 a cloud of great blue-flies were swarming about the prisoner, in
 anticipation of what he was soon to become. When toned down again, the
 unimpeachable patriot appeared in the witness-box.
 
 Mr. Solicitor-General then, following his leader’s lead, examined the
-patriot: John Barsad, gentleman, by name. The story of his pure soul was
+patriot: John Barsad, gentleman, by name. The story of his pure [[Soul|soul]] was
 exactly what Mr. Attorney-General had described it to be--perhaps, if
 it had a fault, a little too exactly. Having released his noble bosom
 of its burden, he would have modestly withdrawn himself, but that the
 wigged gentleman with the papers before him, sitting not far from Mr.
 Lorry, begged to ask him a few questions. The wigged gentleman sitting
-opposite, still looking at the ceiling of the court.
+opposite, still looking at the ceiling of the [[Court|court]].
 
 Had he ever been a spy himself? No, he scorned the base insinuation.
 What did he live upon? His property. Where was his property? He didn’t
 precisely remember where it was. What was it? No business of anybody’s.
 Had he inherited it? Yes, he had. From whom? Distant relation. Very
-distant? Rather. Ever been in prison? Certainly not. Never in a debtors’
-prison? Didn’t see what that had to do with it. Never in a debtors’
-prison?--Come, once again. Never? Yes. How many times? Two or three
+distant? Rather. Ever been in [[Prison|prison]]? Certainly not. Never in a debtors’
+[[Prison|prison]]? Didn’t see what that had to do with it. Never in a debtors’
+[[Prison|prison]]?--Come, once again. Never? Yes. How many times? Two or three
 times. Not five or six? Perhaps. Of what profession? Gentleman. Ever
 been kicked? Might have been. Frequently? No. Ever kicked downstairs?
 Decidedly not; once received a kick on the top of a staircase, and fell
@@ -113,17 +113,17 @@ Ever pay him? No. Was not this intimacy with the prisoner, in reality a
 very slight one, forced upon the prisoner in coaches, inns, and packets?
 No. Sure he saw the prisoner with these lists? Certain. Knew no more
 about the lists? No. Had not procured them himself, for instance? No.
-Expect to get anything by this evidence? No. Not in regular government
+Expect to get anything by this evidence? No. Not in regular [[government]]
 pay and employment, to lay traps? Oh dear no. Or to do anything? Oh dear
 no. Swear that? Over and over again. No motives but motives of sheer
 patriotism? None whatever.
 
 The virtuous servant, Roger Cly, swore his way through the case at a
-great rate. He had taken service with the prisoner, in good faith and
+great rate. He had taken service with the prisoner, in good [[Faith|faith]] and
 simplicity, four years ago. He had asked the prisoner, aboard the Calais
 packet, if he wanted a handy fellow, and the prisoner had engaged him.
 He had not asked the prisoner to take the handy fellow as an act of
-charity--never thought of such a thing. He began to have suspicions of
+[[Charity|charity]]--never thought of such a thing. He began to have suspicions of
 the prisoner, and to keep an eye upon him, soon afterwards. In arranging
 his clothes, while travelling, he had seen similar lists to these in the
 prisoner’s pockets, over and over again. He had taken these lists from
@@ -142,12 +142,12 @@ was a true Briton, and hoped there were many like him.
 The blue-flies buzzed again, and Mr. Attorney-General called Mr. Jarvis
 Lorry.
 
-“Mr. Jarvis Lorry, are you a clerk in Tellson’s bank?”
+“Mr. [[Jarvis Lorry]], are you a clerk in Tellson’s bank?”
 
 “I am.”
 
-“On a certain Friday night in November one thousand seven hundred and
-seventy-five, did business occasion you to travel between London and
+“On a certain Friday [[Night|night]] in November one thousand seven hundred and
+seventy-five, did business occasion you to travel between [[London]] and
 Dover by the mail?”
 
 “It did.”
@@ -156,7 +156,7 @@ Dover by the mail?”
 
 “Two.”
 
-“Did they alight on the road in the course of the night?”
+“Did they alight on the [[Road|road]] in the course of the [[Night|night]]?”
 
 “They did.”
 
@@ -166,7 +166,7 @@ Dover by the mail?”
 
 “Does he resemble either of these two passengers?”
 
-“Both were so wrapped up, and the night was so dark, and we were all so
+“Both were so wrapped up, and the [[Night|night]] was so dark, and we were all so
 reserved, that I cannot undertake to say even that.”
 
 “Mr. Lorry, look again upon the prisoner. Supposing him wrapped up as
@@ -197,24 +197,24 @@ certain knowledge, before?”
 “When?”
 
 “I was returning from France a few days afterwards, and, at Calais, the
-prisoner came on board the packet-ship in which I returned, and made the
+prisoner came on board the packet-[[Ship|ship]] in which I returned, and made the
 voyage with me.”
 
 “At what hour did he come on board?”
 
 “At a little after midnight.”
 
-“In the dead of the night. Was he the only passenger who came on board
+“In the dead of the [[Night|night]]. Was he the only passenger who came on board
 at that untimely hour?”
 
 “He happened to be the only one.”
 
 “Never mind about ‘happening,’ Mr. Lorry. He was the only passenger who
-came on board in the dead of the night?”
+came on board in the dead of the [[Night|night]]?”
 
 “He was.”
 
-“Were you travelling alone, Mr. Lorry, or with any companion?”
+“Were you travelling [[Alone|alone]], Mr. Lorry, or with any companion?”
 
 “With two companions. A gentleman and lady. They are here.”
 
@@ -226,17 +226,17 @@ I lay on a sofa, almost from shore to shore.”
 “Miss Manette!”
 
 The young lady, to whom all eyes had been turned before, and were now
-turned again, stood up where she had sat. Her father rose with her, and
+turned again, stood up where she had sat. Her father [[Rose|rose]] with her, and
 kept her hand drawn through his arm.
 
 “Miss Manette, look upon the prisoner.”
 
-To be confronted with such pity, and such earnest youth and beauty, was
+To be confronted with such pity, and such earnest youth and [[Beauty|beauty]], was
 far more trying to the accused than to be confronted with all the crowd.
-Standing, as it were, apart with her on the edge of his grave, not all
+Standing, as it were, apart with her on the edge of his [[Grave|grave]], not all
 the staring curiosity that looked on, could, for the moment, nerve him
 to remain quite still. His hurried right hand parcelled out the herbs
-before him into imaginary beds of flowers in a garden; and his efforts
+before him into imaginary beds of [[Flowers|flowers]] in a [[Garden|garden]]; and his efforts
 to control and steady his breathing shook the lips from which the colour
 rushed to his heart. The buzz of the great flies was loud again.
 
@@ -246,7 +246,7 @@ rushed to his heart. The buzz of the great flies was loud again.
 
 “Where?”
 
-“On board of the packet-ship just now referred to, sir, and on the same
+“On board of the packet-[[Ship|ship]] just now referred to, sir, and on the same
 occasion.”
 
 “You are the young lady just now referred to?”
@@ -278,15 +278,15 @@ her eyes lovingly to him as he stood beside her, “was much fatigued
 and in a very weak state of health. My father was so reduced that I was
 afraid to take him out of the air, and I had made a bed for him on the
 deck near the cabin steps, and I sat on the deck at his side to take
-care of him. There were no other passengers that night, but we four.
+care of him. There were no other passengers that [[Night|night]], but we four.
 The prisoner was so good as to beg permission to advise me how I could
-shelter my father from the wind and weather, better than I had done. I
-had not known how to do it well, not understanding how the wind would
+shelter my father from the [[Wind|wind]] and weather, better than I had done. I
+had not known how to do it [[Well|well]], not understanding how the [[Wind|wind]] would
 set when we were out of the harbour. He did it for me. He expressed
 great gentleness and kindness for my father’s state, and I am sure he
 felt it. That was the manner of our beginning to speak together.”
 
-“Let me interrupt you for a moment. Had he come on board alone?”
+“Let me interrupt you for a moment. Had he come on board [[Alone|alone]]?”
 
 “No.”
 
@@ -316,7 +316,7 @@ they looked at papers.”
 
 “The prisoner was as open in his confidence with me--which arose out
 of my helpless situation--as he was kind, and good, and useful to my
-father. I hope,” bursting into tears, “I may not repay him by doing him
+father. I [[Hope|hope]],” bursting into [[Tears|tears]], “I may not repay him by doing him
 harm to-day.”
 
 Buzzing from the blue-flies.
@@ -327,20 +327,20 @@ give--and which you cannot escape from giving--with great unwillingness,
 he is the only person present in that condition. Please to go on.”
 
 “He told me that he was travelling on business of a delicate and
-difficult nature, which might get people into trouble, and that he was
+difficult [[Nature|nature]], which might get people into trouble, and that he was
 therefore travelling under an assumed name. He said that this business
 had, within a few days, taken him to France, and might, at intervals,
 take him backwards and forwards between France and England for a long
-time to come.”
+[[Time|time]] to come.”
 
-“Did he say anything about America, Miss Manette? Be particular.”
+“Did he say anything about [[america|America]], Miss Manette? Be particular.”
 
 “He tried to explain to me how that quarrel had arisen, and he said
 that, so far as he could judge, it was a wrong and foolish one on
 England’s part. He added, in a jesting way, that perhaps George
-Washington might gain almost as great a name in history as George the
+Washington might gain almost as great a name in [[history]] as George the
 Third. But there was no harm in his way of saying this: it was said
-laughingly, and to beguile the time.”
+laughingly, and to beguile the [[Time|time]].”
 
 Any strongly marked expression of face on the part of a chief actor in
 a scene of great interest to whom many eyes are directed, will be
@@ -348,18 +348,18 @@ unconsciously imitated by the spectators. Her forehead was painfully
 anxious and intent as she gave this evidence, and, in the pauses when
 she stopped for the Judge to write it down, watched its effect upon
 the counsel for and against. Among the lookers-on there was the same
-expression in all quarters of the court; insomuch, that a great majority
+expression in all quarters of the [[Court|court]]; insomuch, that a great majority
 of the foreheads there, might have been mirrors reflecting the witness,
 when the Judge looked up from his notes to glare at that tremendous
 heresy about George Washington.
 
 Mr. Attorney-General now signified to my Lord, that he deemed it
 necessary, as a matter of precaution and form, to call the young lady’s
-father, Doctor Manette. Who was called accordingly.
+father, [[Doctor Manette]]. Who was called accordingly.
 
-“Doctor Manette, look upon the prisoner. Have you ever seen him before?”
+“[[Doctor Manette]], look upon the prisoner. Have you ever seen him before?”
 
-“Once. When he called at my lodgings in London. Some three years, or
+“Once. When he called at my lodgings in [[London]]. Some three years, or
 three years and a half ago.”
 
 “Can you identify him as your fellow-passenger on board the packet, or
@@ -372,10 +372,10 @@ either?”
 
 He answered, in a low voice, “There is.”
 
-“Has it been your misfortune to undergo a long imprisonment, without
-trial, or even accusation, in your native country, Doctor Manette?”
+“Has it been your misfortune to undergo a long [[Imprisonment|imprisonment]], without
+trial, or even accusation, in your native country, [[Doctor Manette]]?”
 
-He answered, in a tone that went to every heart, “A long imprisonment.”
+He answered, in a tone that went to every heart, “A long [[Imprisonment|imprisonment]].”
 
 “Were you newly released on the occasion in question?”
 
@@ -383,9 +383,9 @@ He answered, in a tone that went to every heart, “A long imprisonment.”
 
 “Have you no remembrance of the occasion?”
 
-“None. My mind is a blank, from some time--I cannot even say what
-time--when I employed myself, in my captivity, in making shoes, to the
-time when I found myself living in London with my dear daughter
+“None. My mind is a blank, from some [[Time|time]]--I cannot even say what
+[[Time|time]]--when I employed myself, in my captivity, in making shoes, to the
+[[Time|time]] when I found myself living in [[London]] with my dear daughter
 here. She had become familiar to me, when a gracious God restored
 my faculties; but, I am quite unable even to say how she had become
 familiar. I have no remembrance of the process.”
@@ -395,16 +395,16 @@ together.
 
 A singular circumstance then arose in the case. The object in hand being
 to show that the prisoner went down, with some fellow-plotter untracked,
-in the Dover mail on that Friday night in November five years ago, and
-got out of the mail in the night, as a blind, at a place where he did
+in the Dover mail on that Friday [[Night|night]] in November five years ago, and
+got out of the mail in the [[Night|night]], as a blind, at a place where he did
 not remain, but from which he travelled back some dozen miles or more,
 to a garrison and dockyard, and there collected information; a witness
-was called to identify him as having been at the precise time required,
+was called to identify him as having been at the precise [[Time|time]] required,
 in the coffee-room of an hotel in that garrison-and-dockyard town,
-waiting for another person. The prisoner’s counsel was cross-examining
+waiting for another person. The prisoner’s counsel was [[Cross|cross]]-examining
 this witness with no result, except that he had never seen the prisoner
-on any other occasion, when the wigged gentleman who had all this time
-been looking at the ceiling of the court, wrote a word or two on a
+on any other occasion, when the wigged gentleman who had all this [[Time|time]]
+been looking at the ceiling of the [[Court|court]], wrote a word or two on a
 little piece of paper, screwed it up, and tossed it to him. Opening
 this piece of paper in the next pause, the counsel looked with great
 attention and curiosity at the prisoner.
@@ -417,8 +417,8 @@ The witness was quite sure.
 
 Not so like (the witness said) as that he could be mistaken.
 
-“Look well upon that gentleman, my learned friend there,” pointing
-to him who had tossed the paper over, “and then look well upon the
+“Look [[Well|well]] upon that gentleman, my learned friend there,” pointing
+to him who had tossed the paper over, “and then look [[Well|well]] upon the
 prisoner. How say you? Are they very like each other?”
 
 Allowing for my learned friend’s appearance being careless and slovenly
@@ -436,11 +436,11 @@ confident, having seen it; and more. The upshot of which, was, to smash
 this witness like a crockery vessel, and shiver his part of the case to
 useless lumber.
 
-Mr. Cruncher had by this time taken quite a lunch of rust off his
+Mr. Cruncher had by this [[Time|time]] taken quite a lunch of rust off his
 fingers in his following of the evidence. He had now to attend while Mr.
 Stryver fitted the prisoner’s case on the jury, like a compact suit
 of clothes; showing them how the patriot, Barsad, was a hired spy and
-traitor, an unblushing trafficker in blood, and one of the greatest
+traitor, an unblushing trafficker in [[Blood|blood]], and one of the greatest
 scoundrels upon earth since accursed Judas--which he certainly did look
 rather like. How the virtuous servant, Cly, was his friend and partner,
 and was worthy to be; how the watchful eyes of those forgers and false
@@ -450,18 +450,18 @@ those passages across the Channel--though what those affairs were, a
 consideration for others who were near and dear to him, forbade him,
 even for his life, to disclose. How the evidence that had been warped
 and wrested from the young lady, whose anguish in giving it they
-had witnessed, came to nothing, involving the mere little innocent
+had witnessed, came to nothing, involving the mere little [[Innocent|innocent]]
 gallantries and politenesses likely to pass between any young gentleman
 and young lady so thrown together;--with the exception of that
 reference to George Washington, which was altogether too extravagant and
 impossible to be regarded in any other light than as a monstrous joke.
-How it would be a weakness in the government to break down in this
+How it would be a weakness in the [[government]] to break down in this
 attempt to practise for popularity on the lowest national antipathies
 and fears, and therefore Mr. Attorney-General had made the most of it;
 how, nevertheless, it rested upon nothing, save that vile and infamous
 character of evidence too often disfiguring such cases, and of which the
 State Trials of this country were full. But, there my Lord interposed
-(with as grave a face as if it had not been true), saying that he could
+(with as [[Grave|grave]] a face as if it had not been true), saying that he could
 not sit upon that Bench and suffer those allusions.
 
 Mr. Stryver then called his few witnesses, and Mr. Cruncher had next to
@@ -470,14 +470,14 @@ Stryver had fitted on the jury, inside out; showing how Barsad and
 Cly were even a hundred times better than he had thought them, and the
 prisoner a hundred times worse. Lastly, came my Lord himself, turning
 the suit of clothes, now inside out, now outside in, but on the whole
-decidedly trimming and shaping them into grave-clothes for the prisoner.
+decidedly trimming and shaping them into [[Grave|grave]]-clothes for the prisoner.
 
 And now, the jury turned to consider, and the great flies swarmed again.
 
-Mr. Carton, who had so long sat looking at the ceiling of the court,
+Mr. Carton, who had so long sat looking at the ceiling of the [[Court|court]],
 changed neither his place nor his attitude, even in this excitement.
 While his learned friend, Mr. Stryver, massing his papers before him,
-whispered with those who sat near, and from time to time glanced
+whispered with those who sat near, and from [[Time|time]] to [[Time|time]] glanced
 anxiously at the jury; while all the spectators moved more or less, and
 grouped themselves anew; while even my Lord himself arose from his seat,
 and slowly paced up and down his platform, not unattended by a suspicion
@@ -503,7 +503,7 @@ Don’t you see she will fall!”
 
 There was much commiseration for her as she was removed, and much
 sympathy with her father. It had evidently been a great distress to
-him, to have the days of his imprisonment recalled. He had shown
+him, to have the days of his [[Imprisonment|imprisonment]] recalled. He had shown
 strong internal agitation when he was questioned, and that pondering or
 brooding look which made him old, had been upon him, like a heavy cloud,
 ever since. As he passed out, the jury, who had turned back and paused a
@@ -513,7 +513,7 @@ They were not agreed, and wished to retire. My Lord (perhaps with George
 Washington on his mind) showed some surprise that they were not agreed,
 but signified his pleasure that they should retire under watch and ward,
 and retired himself. The trial had lasted all day, and the lamps in
-the court were now being lighted. It began to be rumoured that the
+the [[Court|court]] were now being lighted. It began to be rumoured that the
 jury would be out a long while. The spectators dropped off to get
 refreshment, and the prisoner withdrew to the back of the dock, and sat
 down.
@@ -535,14 +535,14 @@ at the moment, and touched Mr. Lorry on the arm.
 “How is the young lady?”
 
 “She is greatly distressed; but her father is comforting her, and she
-feels the better for being out of court.”
+feels the better for being out of [[Court|court]].”
 
 “I’ll tell the prisoner so. It won’t do for a respectable bank gentleman
 like you, to be seen speaking to him publicly, you know.”
 
 Mr. Lorry reddened as if he were conscious of having debated the point
 in his mind, and Mr. Carton made his way to the outside of the bar.
-The way out of court lay in that direction, and Jerry followed him, all
+The way out of [[Court|court]] lay in that direction, and Jerry followed him, all
 eyes, ears, and spikes.
 
 “Mr. Darnay!”
@@ -550,7 +550,7 @@ eyes, ears, and spikes.
 The prisoner came forward directly.
 
 “You will naturally be anxious to hear of the witness, Miss Manette. She
-will do very well. You have seen the worst of her agitation.”
+will do very [[Well|well]]. You have seen the worst of her agitation.”
 
 “I am deeply sorry to have been the cause of it. Could you tell her so
 for me, with my fervent acknowledgments?”
@@ -570,7 +570,7 @@ Mr. Darnay?”
 “It’s the wisest thing to expect, and the likeliest. But I think their
 withdrawing is in your favour.”
 
-Loitering on the way out of court not being allowed, Jerry heard no
+Loitering on the way out of [[Court|court]] not being allowed, Jerry heard no
 more: but left them--so like each other in feature, so unlike each other
 in manner--standing side by side, both reflected in the glass above
 them.
@@ -579,7 +579,7 @@ An hour and a half limped heavily away in the thief-and-rascal crowded
 passages below, even though assisted off with mutton pies and ale.
 The hoarse messenger, uncomfortably seated on a form after taking that
 refection, had dropped into a doze, when a loud murmur and a rapid tide
-of people setting up the stairs that led to the court, carried him along
+of people setting up the stairs that led to the [[Court|court]], carried him along
 with them.
 
 “Jerry! Jerry!” Mr. Lorry was already calling at the door when he got
@@ -595,7 +595,7 @@ it?”
 Hastily written on the paper was the word “ACQUITTED.”
 
 “If you had sent the message, ‘Recalled to Life,’ again,” muttered
-Jerry, as he turned, “I should have known what you meant, this time.”
+Jerry, as he turned, “I should have known what you meant, this [[Time|time]].”
 
 He had no opportunity of saying, or so much as thinking, anything else,
 until he was clear of the Old Bailey; for, the crowd came pouring out

@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 9"
+title: "[[Great Expectations]] — Chapter 9"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 Chapter IX.
 
 
-When I reached home, my sister was very curious to know all about Miss
+When I reached [[Home|home]], my sister was very curious to know all about Miss
 Havisham’s, and asked a number of questions. And I soon found myself
 getting heavily bumped from behind in the nape of the neck and the
 small of the back, and having my face ignominiously shoved against the
@@ -28,37 +28,37 @@ If a dread of not being understood be hidden in the breasts of other
 young people to anything like the extent to which it used to be hidden
 in mine,—which I consider probable, as I have no particular reason to
 suspect myself of having been a monstrosity,—it is the key to many
-reservations. I felt convinced that if I described Miss Havisham’s as
+reservations. I felt convinced that if I described [[Miss Havisham]]’s as
 my eyes had seen it, I should not be understood. Not only that, but I
-felt convinced that Miss Havisham too would not be understood; and
+felt convinced that [[Miss Havisham]] too would not be understood; and
 although she was perfectly incomprehensible to me, I entertained an
 impression that there would be something coarse and treacherous in my
-dragging her as she really was (to say nothing of Miss Estella) before
+dragging her as she really was (to say nothing of Miss [[Estella]]) before
 the contemplation of Mrs. Joe. Consequently, I said as little as I
 could, and had my face shoved against the kitchen wall.
 
 The worst of it was that that bullying old Pumblechook, preyed upon by
 a devouring curiosity to be informed of all I had seen and heard, came
-gaping over in his chaise-cart at tea-time, to have the details
+gaping over in his chaise-cart at tea-[[Time|time]], to have the details
 divulged to him. And the mere sight of the torment, with his fishy eyes
 and mouth open, his sandy hair inquisitively on end, and his waistcoat
 heaving with windy arithmetic, made me vicious in my reticence.
 
-“Well, boy,” Uncle Pumblechook began, as soon as he was seated in the
-chair of honour by the fire. “How did you get on up town?”
+“[[Well]], boy,” Uncle Pumblechook began, as soon as he was seated in the
+chair of [[Honour|honour]] by the [[Fire|fire]]. “How did you get on up town?”
 
-I answered, “Pretty well, sir,” and my sister shook her fist at me.
+I answered, “Pretty [[Well|well]], sir,” and my sister shook her fist at me.
 
-“Pretty well?” Mr. Pumblechook repeated. “Pretty well is no answer.
-Tell us what you mean by pretty well, boy?”
+“Pretty [[Well|well]]?” Mr. Pumblechook repeated. “Pretty [[Well|well]] is no answer.
+Tell us what you mean by pretty [[Well|well]], boy?”
 
 Whitewash on the forehead hardens the brain into a state of obstinacy
 perhaps. Anyhow, with whitewash from the wall on my forehead, my
-obstinacy was adamantine. I reflected for some time, and then answered
-as if I had discovered a new idea, “I mean pretty well.”
+obstinacy was adamantine. I reflected for some [[Time|time]], and then answered
+as if I had discovered a new idea, “I mean pretty [[Well|well]].”
 
 My sister with an exclamation of impatience was going to fly at me,—I
-had no shadow of defence, for Joe was busy in the forge,—when Mr.
+had no [[Shadow|shadow]] of defence, for Joe was busy in the forge,—when Mr.
 Pumblechook interposed with “No! Don’t lose your temper. Leave this lad
 to me, ma’am; leave this lad to me.” Mr. Pumblechook then turned me
 towards him, as if he were going to cut my hair, and said,—
@@ -72,7 +72,7 @@ pence-table from “twelve pence make one shilling,” up to “forty pence
 make three and fourpence,” and then triumphantly demanded, as if he had
 done for me, “_Now!_ How much is forty-three pence?” To which I
 replied, after a long interval of reflection, “I don’t know.” And I was
-so aggravated that I almost doubt if I did know.
+so aggravated that I almost [[Doubt|doubt]] if I did know.
 
 Mr. Pumblechook worked his head like a screw to screw it out of me, and
 said, “Is forty-three pence seven and sixpence three fardens, for
@@ -82,7 +82,7 @@ instance?”
 highly gratifying to me to see that the answer spoilt his joke, and
 brought him to a dead stop.
 
-“Boy! What like is Miss Havisham?” Mr. Pumblechook began again when he
+“Boy! What like is [[Miss Havisham]]?” Mr. Pumblechook began again when he
 had recovered; folding his arms tight on his chest and applying the
 screw.
 
@@ -91,30 +91,30 @@ screw.
 “Is she, uncle?” asked my sister.
 
 Mr. Pumblechook winked assent; from which I at once inferred that he
-had never seen Miss Havisham, for she was nothing of the kind.
+had never seen [[Miss Havisham]], for she was nothing of the kind.
 
 “Good!” said Mr. Pumblechook conceitedly. (“This is the way to have
 him! We are beginning to hold our own, I think, Mum?”)
 
 “I am sure, uncle,” returned Mrs. Joe, “I wish you had him always; you
-know so well how to deal with him.”
+know so [[Well|well]] how to deal with him.”
 
 “Now, boy! What was she a-doing of, when you went in today?” asked Mr.
 Pumblechook.
 
 “She was sitting,” I answered, “in a black velvet coach.”
 
-Mr. Pumblechook and Mrs. Joe stared at one another—as they well
+Mr. Pumblechook and Mrs. Joe stared at one another—as they [[Well|well]]
 might—and both repeated, “In a black velvet coach?”
 
-“Yes,” said I. “And Miss Estella—that’s her niece, I think—handed her
-in cake and wine at the coach-window, on a gold plate. And we all had
+“Yes,” said I. “And Miss [[Estella]]—that’s her niece, I think—handed her
+in cake and wine at the coach-[[Window|window]], on a gold plate. And we all had
 cake and wine on gold plates. And I got up behind the coach to eat
 mine, because she told me to.”
 
 “Was anybody else there?” asked Mr. Pumblechook.
 
-“Four dogs,” said I.
+“Four [[dogs]],” said I.
 
 “Large or small?”
 
@@ -127,7 +127,7 @@ torture,—and would have told them anything.
 
 “Where _was_ this coach, in the name of gracious?” asked my sister.
 
-“In Miss Havisham’s room.” They stared again. “But there weren’t any
+“In [[Miss Havisham]]’s room.” They stared again. “But there weren’t any
 horses to it.” I added this saving clause, in the moment of rejecting
 four richly caparisoned coursers which I had had wild thoughts of
 harnessing.
@@ -156,9 +156,9 @@ myself with amazement, when I recall the lies I told on this occasion.)
 
 “Flags!” echoed my sister.
 
-“Yes,” said I. “Estella waved a blue flag, and I waved a red one, and
-Miss Havisham waved one sprinkled all over with little gold stars, out
-at the coach-window. And then we all waved our swords and hurrahed.”
+“Yes,” said I. “[[Estella]] waved a blue [[Flag|flag]], and I waved a red one, and
+[[Miss Havisham]] waved one sprinkled all over with little gold [[Stars|stars]], out
+at the coach-[[Window|window]]. And then we all waved our swords and hurrahed.”
 
 “Swords!” repeated my sister. “Where did you get swords from?”
 
@@ -166,7 +166,7 @@ at the coach-window. And then we all waved our swords and hurrahed.”
 pills. And there was no daylight in the room, but it was all lighted up
 with candles.”
 
-“That’s true, Mum,” said Mr. Pumblechook, with a grave nod. “That’s the
+“That’s true, Mum,” said Mr. Pumblechook, with a [[Grave|grave]] nod. “That’s the
 state of the case, for that much I’ve seen myself.” And then they both
 stared at me, and I, with an obtrusive show of artlessness on my
 countenance, stared at them, and plaited the right leg of my trousers
@@ -186,22 +186,22 @@ experiences.
 Now, when I saw Joe open his blue eyes and roll them all round the
 kitchen in helpless amazement, I was overtaken by penitence; but only
 as regarded him,—not in the least as regarded the other two. Towards
-Joe, and Joe only, I considered myself a young monster, while they sat
-debating what results would come to me from Miss Havisham’s
-acquaintance and favour. They had no doubt that Miss Havisham would “do
+Joe, and Joe only, I considered myself a young [[Monster|monster]], while they sat
+debating what results would come to me from [[Miss Havisham]]’s
+acquaintance and favour. They had no [[Doubt|doubt]] that [[Miss Havisham]] would “do
 something” for me; their doubts related to the form that something
 would take. My sister stood out for “property.” Mr. Pumblechook was in
 favour of a handsome premium for binding me apprentice to some genteel
 trade,—say, the corn and seed trade, for instance. Joe fell into the
 deepest disgrace with both, for offering the bright suggestion that I
-might only be presented with one of the dogs who had fought for the
-veal-cutlets. “If a fool’s head can’t express better opinions than
+might only be presented with one of the [[dogs]] who had fought for the
+veal-cutlets. “If a [[Fool|fool]]’s head can’t express better opinions than
 that,” said my sister, “and you have got any work to do, you had better
 go and do it.” So he went.
 
 After Mr. Pumblechook had driven off, and when my sister was washing
 up, I stole into the forge to Joe, and remained by him until he had
-done for the night. Then I said, “Before the fire goes out, Joe, I
+done for the [[Night|night]]. Then I said, “Before the [[Fire|fire]] goes out, Joe, I
 should like to tell you something.”
 
 “Should you, Pip?” said Joe, drawing his shoeing-stool near the forge.
@@ -222,8 +222,8 @@ amazement. “You don’t mean to say it’s—”
 
 “But not all of it? Why sure you don’t mean to say, Pip, that there was
 no black welwet co—eh?” For, I stood shaking my head. “But at least
-there was dogs, Pip? Come, Pip,” said Joe, persuasively, “if there
-warn’t no weal-cutlets, at least there was dogs?”
+there was [[dogs]], Pip? Come, Pip,” said Joe, persuasively, “if there
+warn’t no weal-cutlets, at least there was [[dogs]]?”
 
 “No, Joe.”
 
@@ -246,7 +246,7 @@ wish my boots weren’t so thick nor my hands so coarse.”
 
 And then I told Joe that I felt very miserable, and that I hadn’t been
 able to explain myself to Mrs. Joe and Pumblechook, who were so rude to
-me, and that there had been a beautiful young lady at Miss Havisham’s
+me, and that there had been a beautiful young lady at [[Miss Havisham]]’s
 who was dreadfully proud, and that she had said I was common, and that
 I knew I was common, and that I wished I was not common, and that the
 lies had come of it somehow, though I didn’t know how.
@@ -265,58 +265,58 @@ small. Likewise you’re a oncommon scholar.”
 
 “No, I am ignorant and backward, Joe.”
 
-“Why, see what a letter you wrote last night! Wrote in print even! I’ve
+“Why, see what a letter you wrote last [[Night|night]]! Wrote in print even! I’ve
 seen letters—Ah! and from gentlefolks!—that I’ll swear weren’t wrote in
 print,” said Joe.
 
 “I have learnt next to nothing, Joe. You think much of me. It’s only
 that.”
 
-“Well, Pip,” said Joe, “be it so or be it son’t, you must be a common
-scholar afore you can be a oncommon one, I should hope! The king upon
-his throne, with his crown upon his ed, can’t sit and write his acts of
+“[[Well]], Pip,” said Joe, “be it so or be it son’t, you must be a common
+scholar afore you can be a oncommon one, I should [[Hope|hope]]! The [[King|king]] upon
+his throne, with his [[Crown|crown]] upon his ed, can’t sit and write his acts of
 Parliament in print, without having begun, when he were a unpromoted
 Prince, with the alphabet.—Ah!” added Joe, with a shake of the head
 that was full of meaning, “and begun at A too, and worked his way to Z.
 And _I_ know what that is to do, though I can’t say I’ve exactly done
 it.”
 
-There was some hope in this piece of wisdom, and it rather encouraged
+There was some [[Hope|hope]] in this piece of wisdom, and it rather encouraged
 me.
 
 “Whether common ones as to callings and earnings,” pursued Joe,
 reflectively, “mightn’t be the better of continuing for to keep company
 with common ones, instead of going out to play with oncommon
-ones,—which reminds me to hope that there were a flag, perhaps?”
+ones,—which reminds me to [[Hope|hope]] that there were a [[Flag|flag]], perhaps?”
 
 “No, Joe.”
 
-“(I’m sorry there weren’t a flag, Pip). Whether that might be or
+“(I’m sorry there weren’t a [[Flag|flag]], Pip). Whether that might be or
 mightn’t be, is a thing as can’t be looked into now, without putting
 your sister on the Rampage; and that’s a thing not to be thought of as
 being done intentional. Lookee here, Pip, at what is said to you by a
 true friend. Which this to you the true friend say. If you can’t get to
 be oncommon through going straight, you’ll never get to do it through
-going crooked. So don’t tell no more on ’em, Pip, and live well and die
+going crooked. So don’t tell no more on ’em, Pip, and live [[Well|well]] and die
 happy.”
 
 “You are not angry with me, Joe?”
 
 “No, old chap. But bearing in mind that them were which I meantersay of
 a stunning and outdacious sort,—alluding to them which bordered on
-weal-cutlets and dog-fighting,—a sincere well-wisher would adwise, Pip,
+weal-cutlets and dog-fighting,—a sincere [[Well|well]]-wisher would adwise, Pip,
 their being dropped into your meditations, when you go upstairs to bed.
 That’s all, old chap, and don’t never do it no more.”
 
 When I got up to my little room and said my prayers, I did not forget
 Joe’s recommendation, and yet my young mind was in that disturbed and
 unthankful state, that I thought long after I laid me down, how common
-Estella would consider Joe, a mere blacksmith; how thick his boots, and
+[[Estella]] would consider Joe, a mere blacksmith; how thick his boots, and
 how coarse his hands. I thought how Joe and my sister were then sitting
 in the kitchen, and how I had come up to bed from the kitchen, and how
-Miss Havisham and Estella never sat in a kitchen, but were far above
+[[Miss Havisham]] and [[Estella]] never sat in a kitchen, but were far above
 the level of such common doings. I fell asleep recalling what I “used
-to do” when I was at Miss Havisham’s; as though I had been there weeks
+to do” when I was at [[Miss Havisham]]’s; as though I had been there weeks
 or months, instead of hours; and as though it were quite an old subject
 of remembrance, instead of one that had arisen only that day.
 
@@ -324,5 +324,5 @@ That was a memorable day to me, for it made great changes in me. But it
 is the same with any life. Imagine one selected day struck out of it,
 and think how different its course would have been. Pause you who read
 this, and think for a moment of the long chain of iron or gold, of
-thorns or flowers, that would never have bound you, but for the
+thorns or [[Flowers|flowers]], that would never have bound you, but for the
 formation of the first link on one memorable day.

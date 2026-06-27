@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 4"
+title: "[[Persuasion]] — Chapter 4"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Persuasion-(Austen)"
@@ -28,9 +28,9 @@ brother, who being made commander in consequence of the action off St
 
 Domingo, and not immediately employed, had come into Somersetshire, in
 
-the summer of 1806; and having no parent living, found a home for half
+the [[Summer|summer]] of 1806; and having no parent living, found a [[Home|home]] for half
 
-a year at Monkford. He was, at that time, a remarkably fine young man,
+a year at Monkford. He was, at that [[Time|time]], a remarkably fine young man,
 
 with a great deal of intelligence, spirit, and brilliancy; and Anne an
 
@@ -38,11 +38,11 @@ extremely pretty girl, with gentleness, modesty, taste, and feeling.
 
 Half the sum of attraction, on either side, might have been enough, for
 
-he had nothing to do, and she had hardly anybody to love; but the
+he had nothing to do, and she had hardly anybody to [[Love|love]]; but the
 
 encounter of such lavish recommendations could not fail. They were
 
-gradually acquainted, and when acquainted, rapidly and deeply in love.
+gradually acquainted, and when acquainted, rapidly and deeply in [[Love|love]].
 
 It would be difficult to say which had seen highest perfection in the
 
@@ -58,17 +58,17 @@ Troubles soon arose. Sir Walter, on being applied to, without actually
 
 withholding his consent, or saying it should never be, gave it all the
 
-negative of great astonishment, great coldness, great silence, and a
+negative of great astonishment, great coldness, great [[Silence|silence]], and a
 
 professed resolution of doing nothing for his daughter. He thought it a
 
-very degrading alliance; and Lady Russell, though with more tempered
+very degrading alliance; and [[Lady Russell]], though with more tempered
 
-and pardonable pride, received it as a most unfortunate one.
+and pardonable [[Pride|pride]], received it as a most unfortunate one.
 
 
 
-Anne Elliot, with all her claims of birth, beauty, and mind, to throw
+[[Anne Elliot]], with all her claims of birth, [[Beauty|beauty]], and mind, to throw
 
 herself away at nineteen; involve herself at nineteen in an engagement
 
@@ -80,27 +80,27 @@ profession, and no connexions to secure even his farther rise in the
 
 profession, would be, indeed, a throwing away, which she grieved to
 
-think of! Anne Elliot, so young; known to so few, to be snatched off by
+think of! [[Anne Elliot]], so young; known to so few, to be snatched off by
 
 a stranger without alliance or fortune; or rather sunk by him into a
 
 state of most wearing, anxious, youth-killing dependence! It must not
 
-be, if by any fair interference of friendship, any representations from
+be, if by any fair interference of [[Friendship|friendship]], any representations from
 
-one who had almost a mother’s love, and mother’s rights, it would be
+one who had almost a mother’s [[Love|love]], and mother’s rights, it would be
 
 prevented.
 
 
 
-Captain Wentworth had no fortune. He had been lucky in his profession;
+[[Captain Wentworth]] had no fortune. He had been lucky in his profession;
 
 but spending freely, what had come freely, had realized nothing. But he
 
 was confident that he should soon be rich: full of life and ardour, he
 
-knew that he should soon have a ship, and soon be on a station that
+knew that he should soon have a [[Ship|ship]], and soon be on a station that
 
 would lead to everything he wanted. He had always been lucky; he knew
 
@@ -108,13 +108,13 @@ he should be so still. Such confidence, powerful in its own warmth, and
 
 bewitching in the wit which often expressed it, must have been enough
 
-for Anne; but Lady Russell saw it very differently. His sanguine
+for Anne; but [[Lady Russell]] saw it very differently. His sanguine
 
 temper, and fearlessness of mind, operated very differently on her. She
 
 saw in it but an aggravation of the evil. It only added a dangerous
 
-character to himself. He was brilliant, he was headstrong. Lady Russell
+character to himself. He was brilliant, he was headstrong. [[Lady Russell]]
 
 had little taste for wit, and of anything approaching to imprudence a
 
@@ -128,7 +128,7 @@ combat. Young and gentle as she was, it might yet have been possible to
 
 withstand her father’s ill-will, though unsoftened by one kind word or
 
-look on the part of her sister; but Lady Russell, whom she had always
+look on the part of her sister; but [[Lady Russell]], whom she had always
 
 loved and relied on, could not, with such steadiness of opinion, and
 
@@ -136,7 +136,7 @@ such tenderness of manner, be continually advising her in vain. She was
 
 persuaded to believe the engagement a wrong thing: indiscreet,
 
-improper, hardly capable of success, and not deserving it. But it was
+improper, hardly capable of [[success]], and not deserving it. But it was
 
 not a merely selfish caution, under which she acted, in putting an end
 
@@ -144,13 +144,13 @@ to it. Had she not imagined herself consulting his good, even more than
 
 her own, she could hardly have given him up. The belief of being
 
-prudent, and self-denying, principally for _his_ advantage, was her
+prudent, and [[Self|self]]-denying, principally for _his_ advantage, was her
 
 chief consolation, under the misery of a parting, a final parting; and
 
 every consolation was required, for she had to encounter all the
 
-additional pain of opinions, on his side, totally unconvinced and
+additional [[Pain|pain]] of opinions, on his side, totally unconvinced and
 
 unbending, and of his feeling himself ill used by so forced a
 
@@ -160,9 +160,9 @@ relinquishment. He had left the country in consequence.
 
 A few months had seen the beginning and the end of their acquaintance;
 
-but not with a few months ended Anne’s share of suffering from it. Her
+but not with a few months ended Anne’s share of [[Suffering|suffering]] from it. Her
 
-attachment and regrets had, for a long time, clouded every enjoyment of
+attachment and regrets had, for a long [[Time|time]], clouded every enjoyment of
 
 youth, and an early loss of bloom and spirits had been their lasting
 
@@ -170,13 +170,13 @@ effect.
 
 
 
-More than seven years were gone since this little history of sorrowful
+More than seven years were gone since this little [[history]] of sorrowful
 
-interest had reached its close; and time had softened down much,
+interest had reached its close; and [[Time|time]] had softened down much,
 
 perhaps nearly all of peculiar attachment to him, but she had been too
 
-dependent on time alone; no aid had been given in change of place
+dependent on [[Time|time]] [[Alone|alone]]; no aid had been given in change of place
 
 (except in one visit to Bath soon after the rupture), or in any novelty
 
@@ -184,9 +184,9 @@ or enlargement of society. No one had ever come within the Kellynch
 
 circle, who could bear a comparison with Frederick Wentworth, as he
 
-stood in her memory. No second attachment, the only thoroughly natural,
+stood in her [[Memory|memory]]. No second attachment, the only thoroughly natural,
 
-happy, and sufficient cure, at her time of life, had been possible to
+happy, and sufficient cure, at her [[Time|time]] of life, had been possible to
 
 the nice tone of her mind, the fastidiousness of her taste, in the
 
@@ -196,19 +196,19 @@ about two-and-twenty, to change her name, by the young man, who not
 
 long afterwards found a more willing mind in her younger sister; and
 
-Lady Russell had lamented her refusal; for Charles Musgrove was the
+[[Lady Russell]] had lamented her refusal; for Charles Musgrove was the
 
 eldest son of a man, whose landed property and general importance were
 
 second in that country, only to Sir Walter’s, and of good character and
 
-appearance; and however Lady Russell might have asked yet for something
+appearance; and however [[Lady Russell]] might have asked yet for something
 
 more, while Anne was nineteen, she would have rejoiced to see her at
 
 twenty-two so respectably removed from the partialities and injustice
 
-of her father’s house, and settled so permanently near herself. But in
+of her father’s [[house]], and settled so permanently near herself. But in
 
 this case, Anne had left nothing for advice to do; and though Lady
 
@@ -232,7 +232,7 @@ alluded to; but Anne, at seven-and-twenty, thought very differently
 
 from what she had been made to think at nineteen. She did not blame
 
-Lady Russell, she did not blame herself for having been guided by her;
+[[Lady Russell]], she did not blame herself for having been guided by her;
 
 but she felt that were any young person, in similar circumstances, to
 
@@ -240,7 +240,7 @@ apply to her for counsel, they would never receive any of such certain
 
 immediate wretchedness, such uncertain future good. She was persuaded
 
-that under every disadvantage of disapprobation at home, and every
+that under every disadvantage of disapprobation at [[Home|home]], and every
 
 anxiety attending his profession, all their probable fears, delays, and
 
@@ -270,21 +270,21 @@ the other step in rank, and must now, by successive captures, have made
 
 a handsome fortune. She had only navy lists and newspapers for her
 
-authority, but she could not doubt his being rich; and, in favour of
+authority, but she could not [[Doubt|doubt]] his being rich; and, in favour of
 
 his constancy, she had no reason to believe him married.
 
 
 
-How eloquent could Anne Elliot have been! how eloquent, at least, were
+How eloquent could [[Anne Elliot]] have been! how eloquent, at least, were
 
 her wishes on the side of early warm attachment, and a cheerful
 
 confidence in futurity, against that over-anxious caution which seems
 
-to insult exertion and distrust Providence! She had been forced into
+to insult exertion and distrust [[Providence]]! She had been forced into
 
-prudence in her youth, she learned romance as she grew older: the
+prudence in her youth, she learned [[Romance|romance]] as she grew older: the
 
 natural sequel of an unnatural beginning.
 
@@ -292,9 +292,9 @@ natural sequel of an unnatural beginning.
 
 With all these circumstances, recollections and feelings, she could not
 
-hear that Captain Wentworth’s sister was likely to live at Kellynch
+hear that [[Captain Wentworth]]’s sister was likely to live at Kellynch
 
-without a revival of former pain; and many a stroll, and many a sigh,
+without a revival of former [[Pain|pain]]; and many a stroll, and many a sigh,
 
 were necessary to dispel the agitation of the idea. She often told
 
@@ -308,15 +308,15 @@ apparent unconsciousness, among the only three of her own friends in
 
 the secret of the past, which seemed almost to deny any recollection of
 
-it. She could do justice to the superiority of Lady Russell’s motives
+it. She could do justice to the superiority of [[Lady Russell]]’s motives
 
-in this, over those of her father and Elizabeth; she could honour all
+in this, over those of her father and Elizabeth; she could [[Honour|honour]] all
 
 the better feelings of her calmness; but the general air of oblivion
 
 among them was highly important from whatever it sprung; and in the
 
-event of Admiral Croft’s really taking Kellynch Hall, she rejoiced anew
+event of [[Admiral Croft]]’s really taking Kellynch Hall, she rejoiced anew
 
 over the conviction which had always been most grateful to her, of the
 
@@ -330,7 +330,7 @@ received any information of their short-lived engagement. That brother
 
 had been long removed from the country and being a sensible man, and,
 
-moreover, a single man at the time, she had a fond dependence on no
+moreover, a single man at the [[Time|time]], she had a fond dependence on no
 
 human creature’s having heard of it from him.
 
@@ -340,7 +340,7 @@ The sister, Mrs Croft, had then been out of England, accompanying her
 
 husband on a foreign station, and her own sister, Mary, had been at
 
-school while it all occurred; and never admitted by the pride of some,
+school while it all occurred; and never admitted by the [[Pride|pride]] of some,
 
 and the delicacy of others, to the smallest knowledge of it afterwards.
 
@@ -348,7 +348,7 @@ and the delicacy of others, to the smallest knowledge of it afterwards.
 
 With these supports, she hoped that the acquaintance between herself
 
-and the Crofts, which, with Lady Russell, still resident in Kellynch,
+and the Crofts, which, with [[Lady Russell]], still resident in Kellynch,
 
 and Mary fixed only three miles off, must be anticipated, need not
 

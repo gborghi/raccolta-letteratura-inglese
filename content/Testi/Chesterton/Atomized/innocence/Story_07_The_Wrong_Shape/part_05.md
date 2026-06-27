@@ -1,5 +1,5 @@
 ---
-title: "innocence — The Wrong Shape (part 5)"
+title: "[[innocence]] — The Wrong Shape (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/innocence-(Chesterton)"
@@ -17,21 +17,21 @@ tags:
 "Who is to tell his wife?" asked Dr. Harris.  "Will you go and tell her now,
 while I send a servant for the police?"
 
-"As you will," said Father Brown indifferently.  And he went
+"As you will," said [[Father Brown]] indifferently.  And he went
 out to the hall door.
 
-Here also he found a drama, though of a more grotesque sort.
-It showed nothing less than his big friend Flambeau in an attitude
+Here also he found a drama, though of a more [[Grotesque|grotesque]] sort.
+It showed nothing less than his big friend [[Flambeau]] in an attitude
 to which he had long been unaccustomed, while upon the pathway
-at the bottom of the steps was sprawling with his boots
+at the [[Bottom|bottom]] of the steps was sprawling with his boots
 in the air the amiable Atkinson, his billycock hat and walking
 cane sent flying in opposite directions along the path.
-Atkinson had at length wearied of Flambeau's almost paternal custody,
+Atkinson had at length wearied of [[Flambeau]]'s almost paternal custody,
 and had endeavoured to knock him down, which was by no means
 a smooth game to play with the Roi des Apaches, even after
 that monarch's abdication.
 
-Flambeau was about to leap upon his enemy and secure him once more,
+[[Flambeau]] was about to leap upon his enemy and secure him once more,
 when the priest patted him easily on the shoulder.
 
 "Make it up with Mr. Atkinson, my friend," he said.
@@ -141,6 +141,6 @@ of paper.  It was crookeder than the dagger that killed him."
 "You mean the paper on which Quinton confessed his suicide," said Flambeau.
 
 "I mean the paper on which Quinton wrote, `I die by my own hand,'"
-answered Father Brown.  "The shape of that paper, my friend,
+answered [[Father Brown]].  "The shape of that paper, my friend,
 was the wrong shape; the wrong shape, if ever I have seen it
 in this wicked world."

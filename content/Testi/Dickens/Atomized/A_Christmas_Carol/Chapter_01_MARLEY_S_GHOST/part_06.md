@@ -1,5 +1,5 @@
 ---
-title: "A Christmas Carol — Stave 1: MARLEY'S GHOST (part 6)"
+title: "A Christmas [[carol|Carol]] — Stave 1: MARLEY'S [[Ghost|GHOST]] (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Christmas-Carol-(Dickens)"
@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-The Ghost, on hearing this, set up another cry, and
-clanked its chain so hideously in the dead silence of
-the night, that the Ward would have been justified in
+The [[Ghost]], on hearing this, set up another cry, and
+clanked its chain so hideously in the dead [[Silence|silence]] of
+the [[Night|night]], that the Ward would have been justified in
 indicting it for a nuisance.
 
-"Oh! captive, bound, and double-ironed," cried the
-phantom, "not to know, that ages of incessant labour
+"Oh! captive, bound, and [[Double|double]]-ironed," cried the
+[[Phantom|phantom]], "not to know, that ages of incessant labour
 by immortal creatures, for this earth must pass into
-eternity before the good of which it is susceptible is
+[[Eternity|eternity]] before the good of which it is susceptible is
 all developed. Not to know that any Christian spirit
 working kindly in its little sphere, whatever it may
 be, will find its mortal life too short for its vast
@@ -34,18 +34,18 @@ misused! Yet such was I! Oh! such was I!"
 Jacob," faltered Scrooge, who now began to apply this
 to himself.
 
-"Business!" cried the Ghost, wringing its hands
+"Business!" cried the [[Ghost]], wringing its hands
 again. "Mankind was my business. The common
-welfare was my business; charity, mercy, forbearance,
+welfare was my business; [[Charity|charity]], [[Mercy|mercy]], forbearance,
 and benevolence, were, all, my business. The dealings
-of my trade were but a drop of water in the
+of my trade were but a drop of [[Water|water]] in the
 comprehensive ocean of my business!"
 
 It held up its chain at arm's length, as if that were
 the cause of all its unavailing grief, and flung it
 heavily upon the ground again.
 
-"At this time of the rolling year," the spectre said,
+"At this [[Time|time]] of the [[rolling]] year," the spectre said,
 "I suffer most. Why did I walk through crowds of
 fellow-beings with my eyes turned down, and never
 raise them to that blessed Star which led the Wise
@@ -56,7 +56,7 @@ Scrooge was very much dismayed to hear the
 spectre going on at this rate, and began to quake
 exceedingly.
 
-"Hear me!" cried the Ghost. "My time is nearly
+"Hear me!" cried the [[Ghost]]. "My [[Time|time]] is nearly
 gone."
 
 "I will," said Scrooge. "But don't be hard upon
@@ -70,35 +70,35 @@ It was not an agreeable idea. Scrooge shivered,
 and wiped the perspiration from his brow.
 
 "That is no light part of my penance," pursued
-the Ghost. "I am here to-night to warn you, that you
-have yet a chance and hope of escaping my fate. A
-chance and hope of my procuring, Ebenezer."
+the [[Ghost]]. "I am here to-[[Night|night]] to warn you, that you
+have yet a chance and [[Hope|hope]] of escaping my fate. A
+chance and [[Hope|hope]] of my procuring, Ebenezer."
 
 "You were always a good friend to me," said
 Scrooge. "Thank'ee!"
 
-"You will be haunted," resumed the Ghost, "by
+"You will be haunted," resumed the [[Ghost]], "by
 Three Spirits."
 
 Scrooge's countenance fell almost as low as the
-Ghost's had done.
+[[Ghost]]'s had done.
 
-"Is that the chance and hope you mentioned,
+"Is that the chance and [[Hope|hope]] you mentioned,
 Jacob?" he demanded, in a faltering voice.
 
 "It is."
 
 "I--I think I'd rather not," said Scrooge.
 
-"Without their visits," said the Ghost, "you cannot
-hope to shun the path I tread. Expect the first to-morrow,
+"Without their visits," said the [[Ghost]], "you cannot
+[[Hope|hope]] to shun the path I tread. Expect the first to-morrow,
 when the bell tolls One."
 
 "Couldn't I take 'em all at once, and have it over,
 Jacob?" hinted Scrooge.
 
-"Expect the second on the next night at the same
-hour. The third upon the next night when the last
+"Expect the second on the next [[Night|night]] at the same
+hour. The third upon the next [[Night|night]] when the last
 stroke of Twelve has ceased to vibrate. Look to see
 me no more; and look that, for your own sake, you
 remember what has passed between us!"
@@ -108,37 +108,37 @@ wrapper from the table, and bound it round its head,
 as before. Scrooge knew this, by the smart sound its
 teeth made, when the jaws were brought together
 by the bandage. He ventured to raise his eyes again,
-and found his supernatural visitor confronting him
+and found his [[Supernatural|supernatural]] visitor confronting him
 in an erect attitude, with its chain wound over and
 about its arm.
 
 The apparition walked backward from him; and at
-every step it took, the window raised itself a little,
+every step it took, the [[Window|window]] raised itself a little,
 so that when the spectre reached it, it was wide open.
 
 It beckoned Scrooge to approach, which he did.
 When they were within two paces of each other,
-Marley's Ghost held up its hand, warning him to
+Marley's [[Ghost]] held up its hand, warning him to
 come no nearer. Scrooge stopped.
 
-Not so much in obedience, as in surprise and fear:
+Not so much in obedience, as in surprise and [[Fear|fear]]:
 for on the raising of the hand, he became sensible
 of confused noises in the air; incoherent sounds of
 lamentation and regret; wailings inexpressibly sorrowful and
-self-accusatory. The spectre, after listening for a moment,
-joined in the mournful dirge; and floated out upon the
-bleak, dark night.
+[[Self|self]]-accusatory. The spectre, after listening for a moment,
+joined in the mournful [[Dirge|dirge]]; and floated out upon the
+bleak, dark [[Night|night]].
 
-Scrooge followed to the window: desperate in his
+Scrooge followed to the [[Window|window]]: desperate in his
 curiosity. He looked out.
 
 The air was filled with phantoms, wandering hither
 and thither in restless haste, and moaning as they
-went. Every one of them wore chains like Marley's
-Ghost; some few (they might be guilty governments)
+went. Every one of them wore [[Chains|chains]] like Marley's
+[[Ghost]]; some few (they might be guilty governments)
 were linked together; none were free. Many had
 been personally known to Scrooge in their lives. He
-had been quite familiar with one old ghost, in a white
+had been quite familiar with one old [[Ghost|ghost]], in a white
 waistcoat, with a monstrous iron safe attached to
 its ankle, who cried piteously at being unable to assist
 a wretched woman with an infant, whom it saw below,
@@ -148,17 +148,17 @@ human matters, and had lost the power for ever.
 
 Whether these creatures faded into mist, or mist
 enshrouded them, he could not tell. But they and
-their spirit voices faded together; and the night became
-as it had been when he walked home.
+their spirit voices faded together; and the [[Night|night]] became
+as it had been when he walked [[Home|home]].
 
-Scrooge closed the window, and examined the door
-by which the Ghost had entered. It was double-locked,
+Scrooge closed the [[Window|window]], and examined the door
+by which the [[Ghost]] had entered. It was [[Double|double]]-locked,
 as he had locked it with his own hands, and
 the bolts were undisturbed. He tried to say "Humbug!"
 but stopped at the first syllable. And being,
 from the emotion he had undergone, or the fatigues
 of the day, or his glimpse of the Invisible World, or
-the dull conversation of the Ghost, or the lateness of
+the dull conversation of the [[Ghost]], or the lateness of
 the hour, much in need of repose; went straight to
 bed, without undressing, and fell asleep upon the
 instant.

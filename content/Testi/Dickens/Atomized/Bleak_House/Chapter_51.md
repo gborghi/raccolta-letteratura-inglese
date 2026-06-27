@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 51"
+title: "Bleak [[house|House]] — Chapter 51"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,14 +19,14 @@ CHAPTER LI
 Enlightened
 
 
-When Mr. Woodcourt arrived in London, he went, that very same day, to
+When Mr. Woodcourt arrived in [[London]], he went, that very same day, to
 Mr. Vholes’s in Symond’s Inn. For he never once, from the moment when
-I entreated him to be a friend to Richard, neglected or forgot his
+I entreated him to be a friend to [[Richard]], neglected or forgot his
 promise. He had told me that he accepted the charge as a sacred
 trust, and he was ever true to it in that spirit.
 
 He found Mr. Vholes in his office and informed Mr. Vholes of his
-agreement with Richard that he should call there to learn his
+agreement with [[Richard]] that he should call there to learn his
 address.
 
 “Just so, sir,” said Mr. Vholes. “Mr. C.’s address is not a hundred
@@ -43,7 +43,7 @@ influence with Mr. C. Indeed I am aware that you have.”
 “I was not aware of it myself,” returned Mr. Woodcourt; “but I
 suppose you know best.”
 
-“Sir,” rejoined Mr. Vholes, self-contained as usual, voice and all,
+“Sir,” rejoined Mr. Vholes, [[Self|self]]-contained as usual, voice and all,
 “it is a part of my professional duty to know best. It is a part of
 my professional duty to study and to understand a gentleman who
 confides his interests to me. In my professional duty I shall not be
@@ -73,11 +73,11 @@ nothing and have no interest in anything you say.”
 “Pardon me, sir!” retorted Mr. Vholes. “You do yourself an injustice.
 No, sir! Pardon me! You shall not—shall not in my office, if I know
 it—do yourself an injustice. You are interested in anything, and in
-everything, that relates to your friend. I know human nature much
+everything, that relates to your friend. I know human [[Nature|nature]] much
 better, sir, than to admit for an instant that a gentleman of your
 appearance is not interested in whatever concerns his friend.”
 
-“Well,” replied Mr. Woodcourt, “that may be. I am particularly
+“[[Well]],” replied Mr. Woodcourt, “that may be. I am particularly
 interested in his address.”
 
 “The number, sir,” said Mr. Vholes parenthetically, “I believe I have
@@ -101,7 +101,7 @@ Mr. Woodcourt rather sternly rejoined that he was glad to hear it.
 “I wish, sir,” said Mr. Vholes, “to leave a good name behind me.
 Therefore I take every opportunity of openly stating to a friend of
 Mr. C. how Mr. C. is situated. As to myself, sir, the labourer is
-worthy of his hire. If I undertake to put my shoulder to the wheel, I
+worthy of his hire. If I undertake to put my shoulder to the [[Wheel|wheel]], I
 do it, and I earn what I get. I am here for that purpose. My name is
 painted on the door outside, with that object.”
 
@@ -110,11 +110,11 @@ painted on the door outside, with that object.”
 “Sir,” returned Mr. Vholes, “as I believe I have already mentioned,
 it is next door. On the second story you will find Mr. C.’s
 apartments. Mr. C. desires to be near his professional adviser, and I
-am far from objecting, for I court inquiry.”
+am far from objecting, for I [[Court|court]] inquiry.”
 
 Upon this Mr. Woodcourt wished Mr. Vholes good day and went in search
-of Richard, the change in whose appearance he began to understand now
-but too well.
+of [[Richard]], the change in whose appearance he began to understand now
+but too [[Well|well]].
 
 He found him in a dull room, fadedly furnished, much as I had found
 him in his barrack-room but a little while before, except that he was
@@ -125,14 +125,14 @@ being perceived, and he told me that he never could forget the
 haggardness of his face and the dejection of his manner before he was
 aroused from his dream.
 
-“Woodcourt, my dear fellow,” cried Richard, starting up with extended
-hands, “you come upon my vision like a ghost.”
+“Woodcourt, my dear fellow,” cried [[Richard]], starting up with extended
+hands, “you come upon my vision like a [[Ghost|ghost]].”
 
-“A friendly one,” he replied, “and only waiting, as they say ghosts
+“A friendly one,” he replied, “and only waiting, as they say [[Ghosts|ghosts]]
 do, to be addressed. How does the mortal world go?” They were seated
 now, near together.
 
-“Badly enough, and slowly enough,” said Richard, “speaking at least
+“Badly enough, and slowly enough,” said [[Richard]], “speaking at least
 for my part of it.”
 
 “What part is that?”
@@ -140,12 +140,12 @@ for my part of it.”
 “The Chancery part.”
 
 “I never heard,” returned Mr. Woodcourt, shaking his head, “of its
-going well yet.”
+going [[Well|well]] yet.”
 
-“Nor I,” said Richard moodily. “Who ever did?” He brightened again in
+“Nor I,” said [[Richard]] moodily. “Who ever did?” He brightened again in
 a moment and said with his natural openness, “Woodcourt, I should be
 sorry to be misunderstood by you, even if I gained by it in your
-estimation. You must know that I have done no good this long time. I
+estimation. You must know that I have done no good this long [[Time|time]]. I
 have not intended to do much harm, but I seem to have been capable of
 nothing else. It may be that I should have done better by keeping out
 of the net into which my destiny has worked me, but I think not,
@@ -157,7 +157,7 @@ me.”
 
 “A bargain,” said Mr. Woodcourt. “Do as much by me in return.”
 
-“Oh! You,” returned Richard, “you can pursue your art for its own
+“Oh! You,” returned [[Richard]], “you can pursue your art for its own
 sake, and can put your hand upon the plough and never turn, and can
 strike a purpose out of anything. You and I are very different
 creatures.”
@@ -165,52 +165,52 @@ creatures.”
 He spoke regretfully and lapsed for a moment into his weary
 condition.
 
-“Well, well!” he cried, shaking it off. “Everything has an end. We
+“[[Well]], [[Well|well]]!” he cried, shaking it off. “Everything has an end. We
 shall see! So you will take me as I am, and make the best of me?”
 
 “Aye! Indeed I will.” They shook hands upon it laughingly, but in
 deep earnestness. I can answer for one of them with my heart of
 hearts.
 
-“You come as a godsend,” said Richard, “for I have seen nobody here
+“You come as a godsend,” said [[Richard]], “for I have seen nobody here
 yet but Vholes. Woodcourt, there is one subject I should like to
 mention, for once and for all, in the beginning of our treaty. You
 can hardly make the best of me if I don’t. You know, I dare say, that
 I have an attachment to my cousin Ada?”
 
 Mr. Woodcourt replied that I had hinted as much to him. “Now pray,”
-returned Richard, “don’t think me a heap of selfishness. Don’t
+returned [[Richard]], “don’t think me a heap of selfishness. Don’t
 suppose that I am splitting my head and half breaking my heart over
-this miserable Chancery suit for my own rights and interests alone.
+this miserable Chancery suit for my own rights and interests [[Alone|alone]].
 Ada’s are bound up with mine; they can’t be separated; Vholes works
 for both of us. Do think of that!”
 
 He was so very solicitous on this head that Mr. Woodcourt gave him
 the strongest assurances that he did him no injustice.
 
-“You see,” said Richard, with something pathetic in his manner of
+“You see,” said [[Richard]], with something pathetic in his manner of
 lingering on the point, though it was off-hand and unstudied, “to an
 upright fellow like you, bringing a friendly face like yours here, I
 cannot bear the thought of appearing selfish and mean. I want to see
-Ada righted, Woodcourt, as well as myself; I want to do my utmost to
-right her, as well as myself; I venture what I can scrape together to
-extricate her, as well as myself. Do, I beseech you, think of that!”
+Ada righted, Woodcourt, as [[Well|well]] as myself; I want to do my utmost to
+right her, as [[Well|well]] as myself; I venture what I can scrape together to
+extricate her, as [[Well|well]] as myself. Do, I beseech you, think of that!”
 
 Afterwards, when Mr. Woodcourt came to reflect on what had passed, he
-was so very much impressed by the strength of Richard’s anxiety on
+was so very much impressed by the strength of [[Richard]]’s anxiety on
 this point that in telling me generally of his first visit to
-Symond’s Inn he particularly dwelt upon it. It revived a fear I had
+Symond’s Inn he particularly dwelt upon it. It revived a [[Fear|fear]] I had
 had before that my dear girl’s little property would be absorbed by
-Mr. Vholes and that Richard’s justification to himself would be
+Mr. Vholes and that [[Richard]]’s justification to himself would be
 sincerely this. It was just as I began to take care of Caddy that the
-interview took place, and I now return to the time when Caddy had
+interview took place, and I now return to the [[Time|time]] when Caddy had
 recovered and the shade was still between me and my darling.
 
-I proposed to Ada that morning that we should go and see Richard. It
+I proposed to Ada that morning that we should go and see [[Richard]]. It
 a little surprised me to find that she hesitated and was not so
 radiantly willing as I had expected.
 
-“My dear,” said I, “you have not had any difference with Richard
+“My dear,” said I, “you have not had any difference with [[Richard]]
 since I have been so much away?”
 
 “No, Esther.”
@@ -219,17 +219,17 @@ since I have been so much away?”
 
 “Yes, I have heard of him,” said Ada.
 
-Such tears in her eyes, and such love in her face. I could not make
-my darling out. Should I go to Richard’s by myself? I said. No, Ada
+Such [[Tears|tears]] in her eyes, and such [[Love|love]] in her face. I could not make
+my darling out. Should I go to [[Richard]]’s by myself? I said. No, Ada
 thought I had better not go by myself. Would she go with me? Yes, Ada
 thought she had better go with me. Should we go now? Yes, let us go
-now. Well, I could not understand my darling, with the tears in her
-eyes and the love in her face!
+now. [[Well]], I could not understand my darling, with the [[Tears|tears]] in her
+eyes and the [[Love|love]] in her face!
 
 We were soon equipped and went out. It was a sombre day, and drops of
 chill rain fell at intervals. It was one of those colourless days
 when everything looks heavy and harsh. The houses frowned at us, the
-dust rose at us, the smoke swooped at us, nothing made any compromise
+[[Dust|dust]] [[Rose|rose]] at us, the smoke swooped at us, nothing made any compromise
 about itself or wore a softened aspect. I fancied my beautiful girl
 quite out of place in the rugged streets, and I thought there were
 more funerals passing along the dismal pavements than I had ever seen
@@ -237,7 +237,7 @@ before.
 
 We had first to find out Symond’s Inn. We were going to inquire in a
 shop when Ada said she thought it was near Chancery Lane. “We are not
-likely to be far out, my love, if we go in that direction,” said I.
+likely to be far out, my [[Love|love]], if we go in that direction,” said I.
 So to Chancery Lane we went, and there, sure enough, we saw it
 written up. Symond’s Inn.
 
@@ -249,28 +249,28 @@ it really was.
 Then came the question, which of the two next doors? I was going for
 the one, and my darling was going for the other; and my darling was
 right again. So up we went to the second story, when we came to
-Richard’s name in great white letters on a hearse-like panel.
+[[Richard]]’s name in great white letters on a hearse-like panel.
 
 I should have knocked, but Ada said perhaps we had better turn the
-handle and go in. Thus we came to Richard, poring over a table
+handle and go in. Thus we came to [[Richard]], poring over a table
 covered with dusty bundles of papers which seemed to me like dusty
 mirrors reflecting his own mind. Wherever I looked I saw the ominous
 words that ran in it repeated. Jarndyce and Jarndyce.
 
 He received us very affectionately, and we sat down. “If you had come
 a little earlier,” he said, “you would have found Woodcourt here.
-There never was such a good fellow as Woodcourt is. He finds time to
+There never was such a good fellow as Woodcourt is. He finds [[Time|time]] to
 look in between-whiles, when anybody else with half his work to do
 would be thinking about not being able to come. And he is so cheery,
 so fresh, so sensible, so earnest, so—everything that I am not, that
 the place brightens whenever he comes, and darkens whenever he goes
 again.”
 
-“God bless him,” I thought, “for his truth to me!”
+“God bless him,” I thought, “for his [[Truth|truth]] to me!”
 
-“He is not so sanguine, Ada,” continued Richard, casting his dejected
+“He is not so sanguine, Ada,” continued [[Richard]], casting his dejected
 look over the bundles of papers, “as Vholes and I are usually, but he
-is only an outsider and is not in the mysteries. We have gone into
+is only an [[Outsider|outsider]] and is not in the mysteries. We have gone into
 them, and he has not. He can’t be expected to know much of such a
 labyrinth.”
 
@@ -279,18 +279,18 @@ hands over his head, I noticed how sunken and how large his eyes
 appeared, how dry his lips were, and how his finger-nails were all
 bitten away.
 
-“Is this a healthy place to live in, Richard, do you think?” said I.
+“Is this a healthy place to live in, [[Richard]], do you think?” said I.
 
-“Why, my dear Minerva,” answered Richard with his old gay laugh, “it
+“Why, my dear Minerva,” answered [[Richard]] with his old gay laugh, “it
 is neither a rural nor a cheerful place; and when the sun shines
 here, you may lay a pretty heavy wager that it is shining brightly in
-an open spot. But it’s well enough for the time. It’s near the
+an open spot. But it’s [[Well|well]] enough for the [[Time|time]]. It’s near the
 offices and near Vholes.”
 
 “Perhaps,” I hinted, “a change from both—”
 
-“Might do me good?” said Richard, forcing a laugh as he finished the
-sentence. “I shouldn’t wonder! But it can only come in one way
+“Might do me good?” said [[Richard]], forcing a laugh as he finished the
+sentence. “I shouldn’t [[Wonder|wonder]]! But it can only come in one way
 now—in one of two ways, I should rather say. Either the suit must be
 ended, Esther, or the suitor. But it shall be the suit, my dear girl,
 the suit, my dear girl!”
@@ -299,7 +299,7 @@ These latter words were addressed to Ada, who was sitting nearest to
 him. Her face being turned away from me and towards him, I could not
 see it.
 
-“We are doing very well,” pursued Richard. “Vholes will tell you so.
+“We are doing very [[Well|well]],” pursued [[Richard]]. “Vholes will tell you so.
 We are really spinning along. Ask Vholes. We are giving them no rest.
 Vholes knows all their windings and turnings, and we are upon them
 everywhere. We have astonished them already. We shall rouse up that
@@ -313,69 +313,69 @@ me to the heart. But the commentary upon it now indelibly written in
 his handsome face made it far more distressing than it used to be. I
 say indelibly, for I felt persuaded that if the fatal cause could
 have been for ever terminated, according to his brightest visions, in
-that same hour, the traces of the premature anxiety, self-reproach,
+that same hour, the traces of the premature anxiety, [[Self|self]]-reproach,
 and disappointment it had occasioned him would have remained upon his
-features to the hour of his death.
+features to the hour of his [[Death|death]].
 
-“The sight of our dear little woman,” said Richard, Ada still
+“The sight of our dear little woman,” said [[Richard]], Ada still
 remaining silent and quiet, “is so natural to me, and her
 compassionate face is so like the face of old days—”
 
 Ah! No, no. I smiled and shook my head.
 
-“—So exactly like the face of old days,” said Richard in his cordial
+“—So exactly like the face of old days,” said [[Richard]] in his cordial
 voice, and taking my hand with the brotherly regard which nothing
 ever changed, “that I can’t make pretences with her. I fluctuate a
-little; that’s the truth. Sometimes I hope, my dear, and sometimes
-I—don’t quite despair, but nearly. I get,” said Richard,
+little; that’s the [[Truth|truth]]. Sometimes I [[Hope|hope]], my dear, and sometimes
+I—don’t quite [[Despair|despair]], but nearly. I get,” said [[Richard]],
 relinquishing my hand gently and walking across the room, “so tired!”
 
 He took a few turns up and down and sunk upon the sofa. “I get,” he
 repeated gloomily, “so tired. It is such weary, weary work!”
 
 He was leaning on his arm saying these words in a meditative voice
-and looking at the ground when my darling rose, put off her bonnet,
+and looking at the ground when my darling [[Rose|rose]], put off her bonnet,
 kneeled down beside him with her golden hair falling like sunlight on
 his head, clasped her two arms round his neck, and turned her face to
 me. Oh, what a loving and devoted face I saw!
 
-“Esther, dear,” she said very quietly, “I am not going home again.”
+“Esther, dear,” she said very quietly, “I am not going [[Home|home]] again.”
 
 A light shone in upon me all at once.
 
 “Never any more. I am going to stay with my dear husband. We have
-been married above two months. Go home without me, my own Esther; I
-shall never go home any more!” With those words my darling drew his
+been married above two months. Go [[Home|home]] without me, my own Esther; I
+shall never go [[Home|home]] any more!” With those words my darling drew his
 head down on her breast and held it there. And if ever in my life I
-saw a love that nothing but death could change, I saw it then before
+saw a [[Love|love]] that nothing but [[Death|death]] could change, I saw it then before
 me.
 
-“Speak to Esther, my dearest,” said Richard, breaking the silence
+“Speak to Esther, my dearest,” said [[Richard]], breaking the [[Silence|silence]]
 presently. “Tell her how it was.”
 
 I met her before she could come to me and folded her in my arms. We
 neither of us spoke, but with her cheek against my own I wanted to
-hear nothing. “My pet,” said I. “My love. My poor, poor girl!” I
-pitied her so much. I was very fond of Richard, but the impulse that
+hear nothing. “My pet,” said I. “My [[Love|love]]. My poor, poor girl!” I
+pitied her so much. I was very fond of [[Richard]], but the impulse that
 I had upon me was to pity her so much.
 
 “Esther, will you forgive me? Will my cousin John forgive me?”
 
-“My dear,” said I, “to doubt it for a moment is to do him a great
+“My dear,” said I, “to [[Doubt|doubt]] it for a moment is to do him a great
 wrong. And as to me!” Why, as to me, what had I to forgive!
 
 I dried my sobbing darling’s eyes and sat beside her on the sofa, and
-Richard sat on my other side; and while I was reminded of that so
-different night when they had first taken me into their confidence
+[[Richard]] sat on my other side; and while I was reminded of that so
+different [[Night|night]] when they had first taken me into their confidence
 and had gone on in their own wild happy way, they told me between
 them how it was.
 
-“All I had was Richard’s,” Ada said; “and Richard would not take it,
+“All I had was [[Richard]]’s,” Ada said; “and [[Richard]] would not take it,
 Esther, and what could I do but be his wife when I loved him dearly!”
 
 “And you were so fully and so kindly occupied, excellent Dame
-Durden,” said Richard, “that how could we speak to you at such a
-time! And besides, it was not a long-considered step. We went out one
+Durden,” said [[Richard]], “that how could we speak to you at such a
+[[Time|time]]! And besides, it was not a long-considered step. We went out one
 morning and were married.”
 
 “And when it was done, Esther,” said my darling, “I was always
@@ -387,15 +387,15 @@ tell what to do, and I fretted very much.”
 How selfish I must have been not to have thought of this before! I
 don’t know what I said now. I was so sorry, and yet I was so fond of
 them and so glad that they were fond of me; I pitied them so much,
-and yet I felt a kind of pride in their loving one another. I never
-had experienced such painful and pleasurable emotion at one time, and
+and yet I felt a kind of [[Pride|pride]] in their loving one another. I never
+had experienced such painful and pleasurable emotion at one [[Time|time]], and
 in my own heart I did not know which predominated. But I was not
 there to darken their way; I did not do that.
 
 When I was less foolish and more composed, my darling took her
 wedding-ring from her bosom, and kissed it, and put it on. Then I
-remembered last night and told Richard that ever since her marriage
-she had worn it at night when there was no one to see. Then Ada
+remembered last [[Night|night]] and told [[Richard]] that ever since her [[Marriage|marriage]]
+she had worn it at [[Night|night]] when there was no one to see. Then Ada
 blushingly asked me how did I know that, my dear. Then I told Ada how
 I had seen her hand concealed under her pillow and had little thought
 why, my dear. Then they began telling me how it was all over again,
@@ -403,23 +403,23 @@ and I began to be sorry and glad again, and foolish again, and to
 hide my plain old face as much as I could lest I should put them out
 of heart.
 
-Thus the time went on until it became necessary for me to think of
-returning. When that time arrived it was the worst of all, for then
+Thus the [[Time|time]] went on until it became necessary for me to think of
+returning. When that [[Time|time]] arrived it was the worst of all, for then
 my darling completely broke down. She clung round my neck, calling me
 by every dear name she could think of and saying what should she do
-without me! Nor was Richard much better; and as for me, I should have
+without me! Nor was [[Richard]] much better; and as for me, I should have
 been the worst of the three if I had not severely said to myself,
 “Now Esther, if you do, I’ll never speak to you again!”
 
 “Why, I declare,” said I, “I never saw such a wife. I don’t think she
-loves her husband at all. Here, Richard, take my child, for goodness’
+loves her husband at all. Here, [[Richard]], take my [[Child|child]], for goodness’
 sake.” But I held her tight all the while, and could have wept over
 her I don’t know how long.
 
 “I give this dear young couple notice,” said I, “that I am only going
 away to come back to-morrow and that I shall be always coming
 backwards and forwards until Symond’s Inn is tired of the sight of
-me. So I shall not say good-bye, Richard. For what would be the use
+me. So I shall not say good-bye, [[Richard]]. For what would be the use
 of that, you know, when I am coming back so soon!”
 
 I had given my darling to him now, and I meant to go; but I lingered
@@ -429,25 +429,25 @@ heart to turn from.
 So I said (in a merry bustling manner) that unless they gave me some
 encouragement to come back, I was not sure that I could take that
 liberty, upon which my dear girl looked up, faintly smiling through
-her tears, and I folded her lovely face between my hands, and gave it
+her [[Tears|tears]], and I folded her lovely face between my hands, and gave it
 one last kiss, and laughed, and ran away.
 
 And when I got downstairs, oh, how I cried! It almost seemed to me
 that I had lost my Ada for ever. I was so lonely and so blank without
-her, and it was so desolate to be going home with no hope of seeing
+her, and it was so desolate to be going [[Home|home]] with no [[Hope|hope]] of seeing
 her there, that I could get no comfort for a little while as I walked
 up and down in a dim corner sobbing and crying.
 
 I came to myself by and by, after a little scolding, and took a coach
-home. The poor boy whom I had found at St. Albans had reappeared a
-short time before and was lying at the point of death; indeed, was
+[[Home|home]]. The poor boy whom I had found at St. Albans had reappeared a
+short [[Time|time]] before and was lying at the point of [[Death|death]]; indeed, was
 then dead, though I did not know it. My guardian had gone out to
-inquire about him and did not return to dinner. Being quite alone, I
+inquire about him and did not return to dinner. Being quite [[Alone|alone]], I
 cried a little again, though on the whole I don’t think I behaved so
 very, very ill.
 
 It was only natural that I should not be quite accustomed to the loss
-of my darling yet. Three or four hours were not a long time after
+of my darling yet. Three or four hours were not a long [[Time|time]] after
 years. But my mind dwelt so much upon the uncongenial scene in which
 I had left her, and I pictured it as such an overshadowed
 stony-hearted one, and I so longed to be near her and taking some
@@ -457,20 +457,20 @@ to look up at her windows.
 It was foolish, I dare say, but it did not then seem at all so to me,
 and it does not seem quite so even now. I took Charley into my
 confidence, and we went out at dusk. It was dark when we came to the
-new strange home of my dear girl, and there was a light behind the
+new strange [[Home|home]] of my dear girl, and there was a light behind the
 yellow blinds. We walked past cautiously three or four times, looking
 up, and narrowly missed encountering Mr. Vholes, who came out of his
 office while we were there and turned his head to look up too before
-going home. The sight of his lank black figure and the lonesome air
+going [[Home|home]]. The sight of his lank black figure and the lonesome air
 of that nook in the dark were favourable to the state of my mind. I
-thought of the youth and love and beauty of my dear girl, shut up in
+thought of the youth and [[Love|love]] and [[Beauty|beauty]] of my dear girl, shut up in
 such an ill-assorted refuge, almost as if it were a cruel place.
 
-It was very solitary and very dull, and I did not doubt that I might
+It was very solitary and very dull, and I did not [[Doubt|doubt]] that I might
 safely steal upstairs. I left Charley below and went up with a light
 foot, not distressed by any glare from the feeble oil lanterns on the
-way. I listened for a few moments, and in the musty rotting silence
-of the house believed that I could hear the murmur of their young
+way. I listened for a few moments, and in the musty rotting [[Silence|silence]]
+of the [[house]] believed that I could hear the murmur of their young
 voices. I put my lips to the hearse-like panel of the door as a kiss
 for my dear and came quietly down again, thinking that one of these
 days I would confess to the visit.
@@ -481,8 +481,8 @@ separation between Ada and me and had brought us together again for
 those moments. I went back, not quite accustomed yet to the change,
 but all the better for that hovering about my darling.
 
-My guardian had come home and was standing thoughtfully by the dark
-window. When I went in, his face cleared and he came to his seat, but
+My guardian had come [[Home|home]] and was standing thoughtfully by the dark
+[[Window|window]]. When I went in, his face cleared and he came to his seat, but
 he caught the light upon my face as I took mine.
 
 “Little woman,” said he, “You have been crying.”
@@ -496,26 +496,26 @@ my words and my look at her empty place had prepared him.
 “Is she married, my dear?”
 
 I told him all about it and how her first entreaties had referred to
-his forgiveness.
+his [[Forgiveness|forgiveness]].
 
 “She has no need of it,” said he. “Heaven bless her and her husband!”
 But just as my first impulse had been to pity her, so was his. “Poor
 girl, poor girl! Poor Rick! Poor Ada!”
 
-Neither of us spoke after that, until he said with a sigh, “Well,
-well, my dear! Bleak House is thinning fast.”
+Neither of us spoke after that, until he said with a sigh, “[[Well]],
+[[Well|well]], my dear! Bleak [[house|House]] is thinning fast.”
 
 “But its mistress remains, guardian.” Though I was timid about saying
 it, I ventured because of the sorrowful tone in which he had spoken.
 “She will do all she can to make it happy,” said I.
 
-“She will succeed, my love!”
+“She will succeed, my [[Love|love]]!”
 
 The letter had made no difference between us except that the seat by
 his side had come to be mine; it made none now. He turned his old
 bright fatherly look upon me, laid his hand on my hand in his old
 way, and said again, “She will succeed, my dear. Nevertheless, Bleak
-House is thinning fast, O little woman!”
+[[house|House]] is thinning fast, O little woman!”
 
 I was sorry presently that this was all we said about that. I was
 rather disappointed. I feared I might not quite have been all I had

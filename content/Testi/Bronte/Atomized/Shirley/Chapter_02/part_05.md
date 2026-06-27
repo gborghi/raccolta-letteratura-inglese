@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 2 (part 5)"
+title: "[[Shirley]] — Chapter 2 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -20,7 +20,7 @@ in such cases, nobody took much notice. When a food-riot broke out in a
 
 manufacturing town, when a gig-mill was burnt to the ground, or a
 
-manufacturer's house was attacked, the furniture thrown into the
+manufacturer's [[house]] was attacked, the furniture thrown into the
 
 streets, and the family forced to flee for their lives, some local
 
@@ -58,7 +58,7 @@ buildings. In the parish of Briarfield, with which we have at present to
 
 do, Hollow's Mill was the place held most abominable; Gérard Moore, in
 
-his double character of semi-foreigner and thorough-going progressist,
+his [[Double|double]] character of semi-foreigner and thorough-going progressist,
 
 the man most abominated. And it perhaps rather agreed with Moore's
 
@@ -66,15 +66,15 @@ temperament than otherwise to be generally hated, especially when he
 
 believed the thing for which he was hated a right and an expedient
 
-thing; and it was with a sense of warlike excitement he, on this night,
+thing; and it was with a sense of warlike excitement he, on this [[Night|night]],
 
-sat in his counting-house waiting the arrival of his frame-laden wagons.
+sat in his counting-[[house]] waiting the arrival of his frame-laden wagons.
 
 Malone's coming and company were, it may be, most unwelcome to him. He
 
-would have preferred sitting alone; for he liked a silent, sombre,
+would have preferred sitting [[Alone|alone]]; for he liked a silent, sombre,
 
-unsafe solitude. His watchman's musket would have been company enough
+unsafe [[Solitude|solitude]]. His watchman's musket would have been company enough
 
 for him; the full-flowing beck in the den would have delivered
 
@@ -98,27 +98,27 @@ came between it and Malone. Moore raised his hand.
 
 "Chut!" he said in his French fashion, as Malone made a noise with his
 
-glass. He listened a moment, then rose, put his hat on, and went out at
+glass. He listened a moment, then [[Rose|rose]], put his hat on, and went out at
 
-the counting-house door.
+the counting-[[house]] door.
 
 
 
-The night was still, dark, and stagnant: the water yet rushed on full
+The [[Night|night]] was still, dark, and stagnant: the [[Water|water]] yet rushed on full
 
-and fast; its flow almost seemed a flood in the utter silence. Moore's
+and fast; its flow almost seemed a flood in the utter [[Silence|silence]]. Moore's
 
 ear, however, caught another sound, very distant but yet dissimilar,
 
 broken and rugged--in short, a sound of heavy wheels crunching a stony
 
-road. He returned to the counting-house and lit a lantern, with which he
+[[Road|road]]. He returned to the counting-[[house]] and lit a lantern, with which he
 
 walked down the mill-yard, and proceeded to open the gates. The big
 
 wagons were coming on; the dray-horses' huge hoofs were heard splashing
 
-in the mud and water. Moore hailed them.
+in the mud and [[Water|water]]. Moore hailed them.
 
 
 
@@ -138,7 +138,7 @@ leader's nose almost touched his.
 
 
 
-Some one jumped out from the foremost wagon into the road; a voice cried
+Some one jumped out from the foremost wagon into the [[Road|road]]; a voice cried
 
 aloud, "Ay, ay, divil; all's raight! We've smashed 'em."
 
@@ -158,7 +158,7 @@ was neither man nor machinery; they were empty and abandoned.
 
 Now Mr. Moore loved his machinery. He had risked the last of his capital
 
-on the purchase of these frames and shears which to-night had been
+on the purchase of these frames and shears which to-[[Night|night]] had been
 
 expected. Speculations most important to his interests depended on the
 
@@ -214,7 +214,7 @@ men are lying bound hand and foot in a ditch by the roadside. Take this
 
 as a warning from men that are starving, and have starving wives and
 
-children to go home to when they have done this deed. If you get new
+children to go [[Home|home]] to when they have done this deed. If you get new
 
 machines, or if you otherwise go on as you have done, you shall hear
 

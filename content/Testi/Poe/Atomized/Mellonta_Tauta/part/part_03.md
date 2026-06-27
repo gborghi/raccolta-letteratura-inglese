@@ -1,5 +1,5 @@
 ---
-title: "Mellonta Tauta (part 3)"
+title: "[[Mellonta Tauta]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Mellonta-Tauta-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-      of ages, for the repression of imagination was an evil not to be
+      of ages, for the repression of [[Imagination|imagination]] was an evil not to be
 
       compensated for by any superior certainty in the ancient modes of
 
@@ -46,7 +46,7 @@ tags:
 
       the long “established” axioms had been rejected. For example—“Ex
 
-      nihilo nihil fit”; “a body cannot act where it is not”; “there
+      nihilo nihil fit”; “a [[Body|body]] cannot act where it is not”; “there
 
       cannot exist antipodes”; “darkness cannot come out of light”—all
 
@@ -56,7 +56,7 @@ tags:
 
       speak, seen to be untenable. How absurd in these people, then, to
 
-      persist in putting faith in “axioms” as immutable bases of Truth!
+      persist in putting [[Faith|faith]] in “axioms” as immutable bases of [[Truth]]!
 
       But even out of the mouths of their soundest reasoners it is easy
 
@@ -72,13 +72,13 @@ tags:
 
       have been the rudiment of the Amriccan. Pundit says it is
 
-      decidedly the cleverest ancient work on its topic, Logic. The
+      decidedly the cleverest ancient work on its topic, [[logic|Logic]]. The
 
       author (who was much thought of in his day) was one Miller, or
 
       Mill; and we find it recorded of him, as a point of some
 
-      importance, that he had a mill-horse called Bentham. But let us
+      importance, that he had a mill-[[Horse|horse]] called Bentham. But let us
 
       glance at the treatise!
 
@@ -88,9 +88,9 @@ tags:
 
       properly, “is in no case to be received as a criterion of
 
-      axiomatic truth.” What modern in his senses would ever think of
+      axiomatic [[Truth|truth]].” What modern in his senses would ever think of
 
-      disputing this truism? The only wonder with us must be, how it
+      disputing this truism? The only [[Wonder|wonder]] with us must be, how it
 
       happened that Mr. Mill conceived it necessary even to hint at any
 
@@ -98,11 +98,11 @@ tags:
 
       What have we here?—“Contradictories cannot both be true—that is,
 
-      cannot co-exist in nature.” Here Mr. Mill means, for example,
+      cannot co-exist in [[Nature|nature]].” Here Mr. Mill means, for example,
 
       that a tree must be either a tree or not a tree—that it cannot be
 
-      at the same time a tree and not a tree. Very well; but I ask him
+      at the same [[Time|time]] a tree and not a tree. Very [[Well|well]]; but I ask him
 
       why. His reply is this—and never pretends to be any thing else
 
@@ -114,23 +114,23 @@ tags:
 
       “ability or inability to conceive is in no case to be received as
 
-      a criterion of axiomatic truth.”
+      a criterion of axiomatic [[Truth|truth]].”
 
 
 
       Now I do not complain of these ancients so much because their
 
-      logic is, by their own showing, utterly baseless, worthless and
+      [[logic]] is, by their own showing, utterly baseless, worthless and
 
       fantastic altogether, as because of their pompous and imbecile
 
-      proscription of all other roads of Truth, of all other means for
+      proscription of all other roads of [[Truth]], of all other means for
 
       its attainment than the two preposterous paths—the one of
 
       creeping and the one of crawling—to which they have dared to
 
-      confine the Soul that loves nothing so well as to soar.
+      confine the [[Soul]] that loves nothing so [[Well|well]] as to soar.
 
 
 
@@ -138,9 +138,9 @@ tags:
 
       these ancient dogmaticians to have determined by which of their
 
-      two roads it was that the most important and most sublime of all
+      two roads it was that the most important and most [[Sublime|sublime]] of all
 
-      their truths was, in effect, attained? I mean the truth of
+      their truths was, in effect, attained? I mean the [[Truth|truth]] of
 
       Gravitation. Newton owed it to Kepler. Kepler admitted that his
 
@@ -172,7 +172,7 @@ tags:
 
       not passing strange that, with their eternal prattling about
 
-      roads to Truth, these bigoted people missed what we now so
+      roads to [[Truth]], these bigoted people missed what we now so
 
       clearly perceive to be the great highway—that of Consistency?
 
@@ -180,7 +180,7 @@ tags:
 
       from the works of God the vital fact that a perfect consistency
 
-      must be an absolute truth! How plain has been our progress since
+      must be an absolute [[Truth|truth]]! How plain has been our progress since
 
       the late announcement of this proposition! Investigation has been
 
@@ -188,7 +188,7 @@ tags:
 
       to the true and only true thinkers, the men of ardent
 
-      imagination. These latter theorize. Can you not fancy the shout
+      [[Imagination|imagination]]. These latter theorize. Can you not fancy the shout
 
       of scorn with which my words would be received by our progenitors
 

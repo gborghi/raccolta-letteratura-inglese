@@ -19,7 +19,7 @@ and I put it first because it is the most practical test
 of the practical question of whether Ireland is misgoverned.
 It is strictly a fair test; for it is a test by the minimum and
 an argument _a fortiori._ A British official in Ireland can run
-a career of crime, punishing innocent people for his own felonies;
+a career of crime, punishing [[Innocent|innocent]] people for his own felonies;
 and when he is found out, he is found to be above the law.
 This may seem like putting things at the worst, but it is really
 putting them at the best.  This story was not told us on the word
@@ -36,10 +36,10 @@ It was not something done in those dark days of torture
 and terrorism, which happened in Ireland a hundred years ago;
 and which Englishmen talk of as having happened a million years ago.
 It was something that happened quite recently, in my own
-mature manhood, about the time that the better things like
+mature manhood, about the [[Time|time]] that the better things like
 the Land Acts were already before the world.  I remember writing
 to the _Westminster Gazette_ to emphasise it when it occurred; but it
-seems to have passed out of memory in an almost half-witted fashion.
+seems to have passed out of [[Memory|memory]] in an almost half-witted fashion.
 But that peephole into hell has afforded me, ever since a horrible
 amusement, when I hear the Irish softly rebuked for remembering
 old unhappy, far-off things and wrongs done in the Dark Ages.
@@ -47,8 +47,8 @@ Thus I was especially amused to find the Rev. R. J. Campbell saying
 that "Ireland has been petted and coddled more than any other part
 of the British Isles"; because Mr. Campbell was chiefly famous
 for a comfortable creed himself, for saying that evil is only "a
-shadow where light should be"; and there is no doubt here of his
-throwing a very black shadow where light is very much required.
+[[Shadow|shadow]] where light should be"; and there is no [[Doubt|doubt]] here of his
+throwing a very black [[Shadow|shadow]] where light is very much required.
 I will conceive the policeman at the corner of the street in which
 Mr. Campbell resides, as in the habit of killing a crossing-sweeper
 every now and then for his private entertainment, burgling the houses
@@ -61,17 +61,17 @@ But I have another reason for mentioning Mr. Campbell, a gentleman whom
 I heartily respect in many other aspects; and the reason is connected
 with his name, as it occurs in another connection on another page.
 It shows how in anything, but especially in anything coming from Ireland,
-the old facts of family and faith outweigh a million modern philosophies.
+the old facts of family and [[Faith|faith]] outweigh a million modern philosophies.
 The words in _Who's Who?_--"Ulster Protestant of Scottish ancestry"--
 give the really Irish and the really honourable reason for
 Mr. Campbell's extraordinary remark.  A man may preach for years,
-with radiant universalism, that many waters cannot quench love;
-but Boyne Water can.  Mr. Campbell appears very promptly with what
+with radiant universalism, that many waters cannot quench [[Love|love]];
+but Boyne [[Water]] can.  Mr. Campbell appears very promptly with what
 Kettle called "a bucketful of Boyne, to put the sunrise out."
 I will not take the opportunity of saying, like the Ulsterman,
-that there never was treason yet but a Campbell was at the bottom of it.
+that there never was treason yet but a Campbell was at the [[Bottom|bottom]] of it.
 But I will say that there never was Modernism yet, but a Calvinist
-was at the bottom of it.  The Old Theology is much livelier than
+was at the [[Bottom|bottom]] of it.  The Old Theology is much livelier than
 the New Theology.
 
 Many other such true tales could be told; but what we need here is a sort
@@ -79,15 +79,15 @@ of test.  This tale is a test; because it is the best that could be said,
 about the best that could be done, by the best Englishman ruling Ireland,
 in face of the English system established there; and it is the best,
 or at any rate the most, that we can know about that system.
-Another truth which might also serve as a test, is this:
+Another [[Truth|truth]] which might also serve as a test, is this:
 to note among the responsible English not only their testimony
 against each other, but their testimony against themselves.
 I mean the consideration of how very rapidly we realise that our
 own conduct in Ireland has been infamous, not in the remote past,
 but in the very recent past.  I have lived just long enough to see
-the wheel come full circle inside one generation; when I was a schoolboy,
+the [[Wheel|wheel]] come full circle inside one generation; when I was a schoolboy,
 the sort of Kensington middle class, to which I belong, was nearly
-solidly resisting, not only the first Home Rule Bill, but any suggestion
+solidly resisting, not only the first [[Home]] Rule Bill, but any suggestion
 that the Land League had a leg to stand on, or that the landlords
 need do anything but get their rents or kick out their tenants.
 The whole Unionist Press, which was three-quarters of the Press,
@@ -95,10 +95,10 @@ simply supported Clanricarde, and charged any one who did not
 do so with supporting the Clan-na-Gael. Mr. Balfour was simply
 admired for enforcing the system, which it is his real apologia
 to have tried to end, or at least to have allowed Wyndham to end.
-I am not yet far gone in senile decay; but already I have lived
-to hear my countrymen talk about their own blind policy in the time
+I am not yet far gone in senile [[Decay|decay]]; but already I have lived
+to hear my countrymen talk about their own blind policy in the [[Time|time]]
 of the Land League, exactly as they talked before of their blind
-policy in the time of the Limerick Treaty.  The shadow on our past
+policy in the [[Time|time]] of the Limerick Treaty.  The [[Shadow|shadow]] on our past
 shifts forward as we advance into the future; and always seems to end
 just behind us.  I was told in my youth that the age-long misgovernment
 of Ireland lasted down to about 1870; it is now agreed among all
@@ -110,18 +110,18 @@ Now I heard scores of such stories as the Sheridan story in Ireland,
 many of which I mention elsewhere; but I do not mention them here because
 they cannot be publicly tested; and that for a very simple reason.
 We must accept all the advantages and disadvantages of a rule
-of absolute and iron militarism.  We cannot impose silence
+of absolute and iron militarism.  We cannot impose [[Silence|silence]]
 and then sift stories; we cannot forbid argument and then ask
 for proof; we cannot destroy rights and then discover wrongs.
 I say this quite impartially in the matter of militarism itself.
 I am far from certain that soldiers are worse rulers than
 lawyers and merchants; and I am quite certain that a nation has
-a right to give abnormal power to its soldiers in time of war.
+a right to give abnormal power to its soldiers in [[Time|time]] of war.
 I only say that a soldier, if he is a sensible soldier,
 will know what he is doing and therefore what he cannot do;
-that he cannot gag a man and then cross-examine him, any more than
+that he cannot gag a man and then [[Cross|cross]]-examine him, any more than
 he can blow out his brains and then convince his intelligence.
 There may be--humanly speaking, there must be--a mass of injustices
-in the militaristic government of Ireland.  The militarism itself
+in the militaristic [[government]] of Ireland.  The militarism itself
 may be the least of them; but it must involve the concealment
 of all the rest.

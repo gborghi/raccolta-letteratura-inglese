@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 54 (part 4)"
+title: "[[Great Expectations]] — Chapter 54 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -16,8 +16,8 @@ tags:
 
 My first impulse was to call up Herbert, and show him the two men going
 away. But reflecting, before I got into his room, which was at the back
-of the house and adjoined mine, that he and Startop had had a harder
-day than I, and were fatigued, I forbore. Going back to my window, I
+of the [[house]] and adjoined mine, that he and Startop had had a harder
+day than I, and were fatigued, I forbore. Going back to my [[Window|window]], I
 could see the two men moving over the marsh. In that light, however, I
 soon lost them, and, feeling very cold, lay down to think of the
 matter, and fell asleep again.
@@ -25,12 +25,12 @@ matter, and fell asleep again.
 We were up early. As we walked to and fro, all four together, before
 breakfast, I deemed it right to recount what I had seen. Again our
 charge was the least anxious of the party. It was very likely that the
-men belonged to the Custom House, he said quietly, and that they had no
+men belonged to the Custom [[house|House]], he said quietly, and that they had no
 thought of us. I tried to persuade myself that it was so,—as, indeed,
 it might easily be. However, I proposed that he and I should walk away
 together to a distant point we could see, and that the boat should take
 us aboard there, or as near there as might prove feasible, at about
-noon. This being considered a good precaution, soon after breakfast he
+[[Noon|noon]]. This being considered a good precaution, soon after breakfast he
 and I set forth, without saying anything at the tavern.
 
 He smoked his pipe as we went along, and sometimes stopped to clap me
@@ -38,29 +38,29 @@ on the shoulder. One would have supposed that it was I who was in
 danger, not he, and that he was reassuring me. We spoke very little. As
 we approached the point, I begged him to remain in a sheltered place,
 while I went on to reconnoitre; for it was towards it that the men had
-passed in the night. He complied, and I went on alone. There was no
+passed in the [[Night|night]]. He complied, and I went on [[Alone|alone]]. There was no
 boat off the point, nor any boat drawn up anywhere near it, nor were
 there any signs of the men having embarked there. But, to be sure, the
-tide was high, and there might have been some footprints under water.
+tide was high, and there might have been some footprints under [[Water|water]].
 
 When he looked out from his shelter in the distance, and saw that I
 waved my hat to him to come up, he rejoined me, and there we waited;
 sometimes lying on the bank, wrapped in our coats, and sometimes moving
 about to warm ourselves, until we saw our boat coming round. We got
 aboard easily, and rowed out into the track of the steamer. By that
-time it wanted but ten minutes of one o’clock, and we began to look out
+[[Time|time]] it wanted but ten minutes of one o’[[Clock|clock]], and we began to look out
 for her smoke.
 
 But, it was half-past one before we saw her smoke, and soon afterwards
 we saw behind it the smoke of another steamer. As they were coming on
-at full speed, we got the two bags ready, and took that opportunity of
+at full [[Speed|speed]], we got the two bags ready, and took that opportunity of
 saying good-bye to Herbert and Startop. We had all shaken hands
 cordially, and neither Herbert’s eyes nor mine were quite dry, when I
 saw a four-oared galley shoot out from under the bank but a little way
 ahead of us, and row out into the same track.
 
 A stretch of shore had been as yet between us and the steamer’s smoke,
-by reason of the bend and wind of the river; but now she was visible,
+by reason of the bend and [[Wind|wind]] of the [[River|river]]; but now she was visible,
 coming head on. I called to Herbert and Startop to keep before the
 tide, that she might see us lying by for her, and I adjured Provis to
 sit quite still, wrapped in his cloak. He answered cheerily, “Trust to
@@ -77,11 +77,11 @@ either boat.
 Startop could make out, after a few minutes, which steamer was first,
 and gave me the word “Hamburg,” in a low voice, as we sat face to face.
 She was nearing us very fast, and the beating of her peddles grew
-louder and louder. I felt as if her shadow were absolutely upon us,
+louder and louder. I felt as if her [[Shadow|shadow]] were absolutely upon us,
 when the galley hailed us. I answered.
 
 “You have a returned Transport there,” said the man who held the lines.
-“That’s the man, wrapped in the cloak. His name is Abel Magwitch,
+“That’s the man, wrapped in the cloak. His name is [[Abel Magwitch]],
 otherwise Provis. I apprehend that man, and call upon him to surrender,
 and you to assist.”
 
@@ -101,7 +101,7 @@ shrinking sitter in the galley. Still in the same moment, I saw that
 the face disclosed, was the face of the other convict of long ago.
 Still, in the same moment, I saw the face tilt backward with a white
 terror on it that I shall never forget, and heard a great cry on board
-the steamer, and a loud splash in the water, and felt the boat sink
+the steamer, and a loud splash in the [[Water|water]], and felt the boat sink
 from under me.
 
 It was but for an instant that I seemed to struggle with a thousand
@@ -111,12 +111,12 @@ but our boat was gone, and the two convicts were gone.
 
 What with the cries aboard the steamer, and the furious blowing off of
 her steam, and her driving on, and our driving on, I could not at first
-distinguish sky from water or shore from shore; but the crew of the
-galley righted her with great speed, and, pulling certain swift strong
+distinguish sky from [[Water|water]] or shore from shore; but the crew of the
+galley righted her with great [[Speed|speed]], and, pulling certain swift strong
 strokes ahead, lay upon their oars, every man looking silently and
-eagerly at the water astern. Presently a dark object was seen in it,
+eagerly at the [[Water|water]] astern. Presently a dark object was seen in it,
 bearing towards us on the tide. No man spoke, but the steersman held up
-his hand, and all softly backed water, and kept the boat straight and
+his hand, and all softly backed [[Water|water]], and kept the boat straight and
 true before it. As it came nearer, I saw it to be Magwitch, swimming,
 but not swimming freely. He was taken on board, and instantly manacled
 at the wrists and ankles.

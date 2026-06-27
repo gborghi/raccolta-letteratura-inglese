@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 26 (part 4)"
+title: "[[Shirley]] — Chapter 26 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -16,25 +16,25 @@ tags:
 
 Mr. Hall, in answer to a question of Miss Helstone's as to what he
 
-thought of Louis Moore, replied promptly that he was the best fellow he
+thought of [[Louis Moore]], replied promptly that he was the best fellow he
 
 had met with since he left Cambridge.
 
 
 
-"But he is so grave," objected Caroline.
+"But he is so [[Grave|grave]]," objected Caroline.
 
 
 
-"Grave! the finest company in the world! Full of odd, quiet,
+"[[Grave]]! the finest company in the world! Full of odd, quiet,
 
-out-of-the-way humour. Never enjoyed an excursion so much in my life as
+out-of-the-way [[Humour|humour]]. Never enjoyed an excursion so much in my life as
 
 the one I took with him to the Lakes. His understanding and tastes are
 
 so superior, it does a man good to be within their influence; and as to
 
-his temper and nature, I call them fine."
+his temper and [[Nature|nature]], I call them fine."
 
 
 
@@ -64,7 +64,7 @@ enough to do justice to his merits."
 
 
 
-"Well, I suppose she doesn't know him," mused Caroline to herself, and
+"[[Well]], I suppose she doesn't know him," mused Caroline to herself, and
 
 by this hypothesis she endeavoured to account for what seemed else
 
@@ -98,7 +98,7 @@ little bundle of small marble-coloured cahiers, tied with tape. Henry
 
 looked at them. "What rubbish Mr. Moore stores up in his desk!" he
 
-said. "I hope he won't keep my old exercises so carefully."
+said. "I [[Hope|hope]] he won't keep my old exercises so carefully."
 
 
 
@@ -134,7 +134,7 @@ recognizable. She scarcely needed the further evidence of the name
 
 signed at the close of each theme to tell her whose they were. Yet that
 
-name astonished her--"Shirley Keeldar, Sympson Grove, ----shire" (a
+name astonished her--"[[Shirley Keeldar]], Sympson Grove, ----shire" (a
 
 southern county), and a date four years back.
 
@@ -146,7 +146,7 @@ half felt as if, in opening it, she had violated a confidence.
 
 
 
-"They are Shirley's, you see," said Henry carelessly.
+"They are [[Shirley]]'s, you see," said Henry carelessly.
 
 
 
@@ -168,7 +168,7 @@ us there. Mr. Moore taught her French; it is his native language."
 
 "She was a wild, laughing thing, but pleasant to have in the room. She
 
-made lesson-time charming. She learned fast--you could hardly tell when
+made lesson-[[Time|time]] charming. She learned fast--you could hardly tell when
 
 or how. French was nothing to her. She spoke it quick, quick--as quick
 
@@ -182,7 +182,7 @@ as Mr. Moore himself."
 
 "She gave plenty of trouble, in a way. She was giddy, but I liked her.
 
-I'm desperately fond of Shirley."
+I'm desperately fond of [[Shirley]]."
 
 
 
@@ -192,7 +192,7 @@ I'm desperately fond of Shirley."
 
 "I _am desperately_ fond of her. She is the light of my eyes. I said so
 
-to Mr. Moore last night."
+to Mr. Moore last [[Night|night]]."
 
 
 
@@ -208,7 +208,7 @@ Keeldar was no more than that, she was less than he took her to be; for
 
 I was but a dim-eyed, short-sighted little chap. I'm afraid I am a poor
 
-unfortunate, Miss Caroline Helstone. I am a cripple, you know."
+unfortunate, Miss [[Caroline Helstone]]. I am a cripple, you know."
 
 
 
@@ -220,7 +220,7 @@ and an excellent heart and brain."
 
 
 
-"I shall be despised. I sometimes think both Shirley and you despise
+"I shall be despised. I sometimes think both [[Shirley]] and you despise
 
 me."
 
@@ -230,7 +230,7 @@ me."
 
 horror of them. They seem to me little ruffians, who take an unnatural
 
-delight in killing and tormenting birds, and insects, and kittens, and
+delight in killing and tormenting [[Birds|birds]], and [[Insects|insects]], and kittens, and
 
 whatever is weaker than themselves. But you are so different I am quite
 
@@ -284,11 +284,11 @@ kept carefully."
 
 
 
-She showed the bundle. Shirley snatched it up. "Did not know one was in
+She showed the bundle. [[Shirley]] snatched it up. "Did not know one was in
 
 existence," she said. "I thought the whole lot had long since lit the
 
-kitchen fire, or curled the maid's hair at Sympson Grove.--What made you
+kitchen [[Fire|fire]], or curled the maid's hair at Sympson Grove.--What made you
 
 keep them, Henry?"
 

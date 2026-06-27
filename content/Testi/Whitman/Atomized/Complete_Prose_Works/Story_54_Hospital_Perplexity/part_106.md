@@ -18,7 +18,7 @@ There are, generally speaking, two points of view, two conditions of the
 world's attitude toward these matters; the first, the conventional one
 of good folks and good print everywhere, repressing any direct statement
 of them, and making allusions only at second or third hand--(as
-the Greeks did of death, which, in Hellenic social culture, was not
+the Greeks did of [[Death|death]], which, in Hellenic social culture, was not
 mention'd point-blank, but by euphemisms.) In the civilization of
 to-day, this condition--without stopping to elaborate the arguments and
 facts, which are many and varied and perplexing--has led to states of
@@ -27,7 +27,7 @@ forming certainly a main factor in the world's woe. A nonscientific,
 non-esthetic, and eminently non-religious condition, bequeath'd to us
 from the past, (its origins diverse, one of them the far-back lessons
 of benevolent and wise men to restrain the prevalent coarseness and
-animality of the tribal ages--with Puritanism, or perhaps Protestantism
+animality of the tribal ages--with [[Puritanism]], or perhaps Protestantism
 itself for another, and still another specified in the latter part
 of this memorandum)--to it is probably due most of the ill births,
 inefficient maturity, snickering pruriency, and of that human pathologic
@@ -48,10 +48,10 @@ most universal trait of all ages, all lands. This second condition,
 however bad, is at any rate like a disease which comes to the surface,
 and therefore less dangerous than a conceal'd one.
 
-The time seems to me to have arrived, and America to be the place, for
-a new departure--a third point of view. The same freedom and faith and
+The [[Time|time]] seems to me to have arrived, and [[America]] to be the place, for
+a new departure--a third point of view. The same [[Freedom|freedom]] and [[Faith|faith]] and
 earnestness which, after centuries of denial, struggle, repression,
-and martyrdom, the present day brings to the treatment of politics and
+and [[Martyrdom|martyrdom]], the present day brings to the treatment of politics and
 religion, must work out a plan and standard on this subject, not so
 much for what is call'd society, as for thoughtfulest men and women, and
 thoughtfulest literature. The same spirit that marks the physiological
@@ -61,39 +61,39 @@ less important field.
 
 In the present memorandum I only venture to indicate that plan and
 view--decided upon more than twenty years ago, for my own literary
-action, and formulated tangibly in my printed poems--(as Bacon says an
+action, and formulated tangibly in my printed [[Poems|poems]]--(as Bacon says an
 abstract thought or theory is of no moment unless it leads to a deed or
 work done, exemplifying it in the concrete)--that the sexual passion
 in itself, while normal and unperverted, is inherently legitimate,
 creditable, not necessarily an improper theme for poet, as confessedly
 not for scientist--that, with reference to the whole construction,
-organism, and intentions of "Leaves of Grass," anything short of
+organism, and intentions of "[[Leaves]] of Grass," anything short of
 confronting that theme, and making myself clear upon it as the enclosing
-basis of everything, (as the sanity of everything was to be the
-atmosphere of the poems,) I should beg the question in its most
+basis of everything, (as the [[Sanity|sanity]] of everything was to be the
+atmosphere of the [[Poems|poems]],) I should beg the question in its most
 momentous aspect, and the superstructure that follow'd, pretensive as
 it might assume to be, would all rest on a poor foundation, or no
-foundation at all. In short, as the assumption of the sanity of birth,
-Nature and humanity, is the key to any true theory of life and the
+foundation at all. In short, as the assumption of the [[Sanity|sanity]] of birth,
+[[Nature]] and humanity, is the key to any true theory of life and the
 universe--at any rate, the only theory out of which I wrote--it is, and
-must inevitably be, the only key to "Leaves of Grass," and every part
-of it. _That_, (and not a vain consistency or weak pride, as a late
+must inevitably be, the only key to "[[Leaves]] of Grass," and every part
+of it. _That_, (and not a vain consistency or weak [[Pride|pride]], as a late
 "Springfield Republican" charges,) is the reason that I have stood out
 for these particular verses uncompromisingly for over twenty years, and
 maintain them to this day. _That_ is what I felt in my inmost brain and
-heart, when I only answer'd Emerson's vehement arguments with silence,
+heart, when I only answer'd Emerson's vehement arguments with [[Silence|silence]],
 under the old elms of Boston Common.
 
 Indeed, might not every physiologist and every good physician pray
 for the redeeming of this subject from its hitherto relegation to the
 tongues and pens of blackguards, and boldly putting it for once at
-least, if no more, in the demesne of poetry and sanity--as something not
+least, if no more, in the demesne of poetry and [[Sanity|sanity]]--as something not
 in itself gross or impure, but entirely consistent with highest manhood
 and womanhood, and indispensable to both? Might not only every wife and
 every mother--not only every babe that comes into the world, if that
-were possible--not only all marriage, the foundation and _sine qua
+were possible--not only all [[Marriage|marriage]], the foundation and _sine qua
 non_ of the civilized state--bless and thank the showing, or taking for
-granted, that motherhood, fatherhood, sexuality, and all that belongs
+granted, that motherhood, fatherhood, [[Sexuality|sexuality]], and all that belongs
 to them, can be asserted, where it comes to question, openly, joyously,
 proudly, "without shame or the need of shame," from the highest artistic
 and human considerations--but, with reverence be it written, on such

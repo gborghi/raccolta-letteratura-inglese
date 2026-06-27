@@ -42,12 +42,12 @@ things quite explicit.
 
 Mr Fledgeby shook his head deploringly at Twemlow, and mutely expressed
 in reference to the venerable figure standing before him with eyes upon
-the ground: ‘What a Monster of an Israelite this is!’
+the ground: ‘What a [[Monster]] of an Israelite this is!’
 
 ‘Mr Riah,’ said Fledgeby.
 
 The old man lifted up his eyes once more to the little eyes in Mr
-Fledgeby’s head, with some reviving hope that the sign might be coming
+Fledgeby’s head, with some reviving [[Hope|hope]] that the sign might be coming
 yet.
 
 ‘Mr Riah, it’s of no use my holding back the fact. There’s a certain
@@ -68,7 +68,7 @@ will come off between Mr Twemlow and the said great party?’
 
 This required no answer, and received none. Poor Mr Twemlow, who had
 betrayed the keenest mental terrors since his noble kinsman loomed in
-the perspective, rose with a sigh to take his departure. ‘I thank you
+the perspective, [[Rose|rose]] with a sigh to take his departure. ‘I thank you
 very much, sir,’ he said, offering Fledgeby his feverish hand. ‘You have
 done me an unmerited service. Thank you, thank you!’
 
@@ -76,15 +76,15 @@ done me an unmerited service. Thank you, thank you!’
 stay behind, and take another touch at Mr Riah.’
 
 ‘Do not deceive yourself Mr Twemlow,’ said the Jew, then addressing him
-directly for the first time. ‘There is no hope for you. You must expect
+directly for the first [[Time|time]]. ‘There is no [[Hope|hope]] for you. You must expect
 no leniency here. You must pay in full, and you cannot pay too promptly,
 or you will be put to heavy charges. Trust nothing to me, sir. Money,
 money, money.’ When he had said these words in an emphatic manner, he
 acknowledged Mr Twemlow’s still polite motion of his head, and that
 amiable little worthy took his departure in the lowest spirits.
 
-Fascination Fledgeby was in such a merry vein when the counting-house
-was cleared of him, that he had nothing for it but to go to the window,
+Fascination Fledgeby was in such a merry vein when the counting-[[house]]
+was cleared of him, that he had nothing for it but to go to the [[Window|window]],
 and lean his arms on the frame of the blind, and have his silent laugh
 out, with his back to his subordinate. When he turned round again with a
 composed countenance, his subordinate still stood in the same place, and
@@ -95,9 +95,9 @@ Riah, and she has been waiting long enough too. Sell her her waste,
 please, and give her good measure if you can make up your mind to do the
 liberal thing for once.’
 
-He looked on for a time, as the Jew filled her little basket with such
+He looked on for a [[Time|time]], as the Jew filled her little basket with such
 scraps as she was used to buy; but, his merry vein coming on again, he
-was obliged to turn round to the window once more, and lean his arms on
+was obliged to turn round to the [[Window|window]] once more, and lean his arms on
 the blind.
 
 ‘There, my Cinderella dear,’ said the old man in a whisper, and with a
@@ -108,7 +108,7 @@ godmother!’
 
 She shook that emphatic little forefinger of hers in his face at
 parting, as earnestly and reproachfully as she had ever shaken it at her
-grim old child at home.
+grim old [[Child|child]] at [[Home|home]].
 
 ‘You are not the godmother at all!’ said she. ‘You are the Wolf in
 the Forest, the wicked Wolf! And if ever my dear Lizzie is sold and

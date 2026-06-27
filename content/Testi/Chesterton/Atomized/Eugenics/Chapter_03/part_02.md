@@ -1,5 +1,5 @@
 ---
-title: "Eugenics — Part 2 (part 2)"
+title: "[[Eugenics]] — Part 2 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Eugenics-(Chesterton)"
@@ -18,38 +18,38 @@ Now this modern refusal to undo what has been done is not only
 an intellectual fault, it is a moral fault also.  It is not merely
 our mental inability to understand the mistake we have made.
 It is also our spiritual refusal to admit that we have made a mistake.
-It was mere vanity in Mr. Brummell when he sent away trays full
+It was mere [[Vanity|vanity]] in Mr. Brummell when he sent away trays full
 of imperfectly knotted neck cloths, lightly remarking, "These are
-our failures."  It is a good instance of the nearness of vanity
-to humility, for at least he had to admit that they were failures.
-But it would have been spiritual pride in Mr. Brummell if he had
+our failures."  It is a good instance of the nearness of [[Vanity|vanity]]
+to [[Humility|humility]], for at least he had to admit that they were failures.
+But it would have been spiritual [[Pride|pride]] in Mr. Brummell if he had
 tied on all the cravats, one on top of the other, lest his valet
 should discover that he had ever tied one badly.  For in spiritual
-pride there is always an element of secrecy and solitude.
-Mr. Brummell would be satanic; also (which I fear would affect
+[[Pride|pride]] there is always an element of secrecy and [[Solitude|solitude]].
+Mr. Brummell would be satanic; also (which I [[Fear|fear]] would affect
 him more) he would be badly dressed.  But he would be a perfect
 presentation of the modern publicist, who cannot do anything right,
 because he must not admit that he ever did anything wrong.
 
 This strange, weak obstinacy, this persistence in the wrong path
 of progress, grows weaker and worse, as do all such weak things.
-And by the time in which I write its moral attitude has taken
+And by the [[Time|time]] in which I write its moral attitude has taken
 on something of the sinister and even the horrible.  Our mistakes
-have become our secrets.  Editors and journalists tear up with a
+have become our [[Secrets|secrets]].  Editors and journalists tear up with a
 guilty air all that reminds them of the party promises unfulfilled,
 or the party ideals reproaching them.  It is true of our statesmen
 (much more than of our bishops, of whom Mr. Wells said it),
 that socially in evidence they are intellectually in hiding.
 The society is heavy with unconfessed sins; its mind is sore and
-silent with painful subjects; it has a constipation of conscience.
+silent with painful subjects; it has a constipation of [[Conscience|conscience]].
 There are many things it has done and allowed to be done which it does
 not really dare to think about; it calls them by other names and tries
-to talk itself into faith in a false past, as men make up the things
+to talk itself into [[Faith|faith]] in a false past, as men make up the things
 they would have said in a quarrel.  Of these sins one lies buried
 deepest but most noisome, and though it is stifled, stinks, the true
 story of the relations of the rich man and the poor in England.
-The half-starved English proletarian is not only nearly a skeleton,
-but he is a skeleton in a cupboard.
+The half-starved English proletarian is not only nearly a [[skeleton]],
+but he is a [[skeleton]] in a cupboard.
 
 It may be said, in some surprise, that surely we hear to-day on every
 side the same story of the destitute proletariat and the social problem,
@@ -63,16 +63,16 @@ all about him; only he isn't there.  A common English workman is
 just as incapable of thinking of a German as anything but a German
 as he is of thinking of himself as anything but an Englishman.
 Then there is the opposite story; the story of the horrid man
-who is an atheist and wants to destroy the home, but who, for some
+who is an atheist and wants to destroy the [[Home|home]], but who, for some
 private reason, prefers to call this Socialism.  He isn't there either.
 The prosperous Socialists have homes exactly like yours and mine;
 and the poor Socialists are not allowed by the Individualists to have
 any at all.  There is the story of the Two Workmen, which is a very
 nice and exciting story, about how one passed all the public houses
-in Cheapside and was made Lord Mayor on arriving at the Guildhall,
+in Cheapside and was made [[Lord Mayor]] on arriving at the Guildhall,
 while the other went into all the public houses and emerged quite
-ineligible for such a dignity.  Alas! for this also is vanity.
-A thief might become Lord Mayor, but an honest workman certainly
+ineligible for such a dignity.  Alas! for this also is [[Vanity|vanity]].
+A thief might become [[Lord Mayor]], but an honest workman certainly
 couldn't. Then there is the story of "The Relentless Doom"
 by which rich men were, by economic laws, forced to go on taking
 away money from poor men, although they simply longed to leave off:
@@ -83,12 +83,12 @@ only this never happened either.  Then there is the story of
 the cunning Fabian who sat on six committees at once and so coaxed
 the rich man to become quite poor.  By simply repeating in a whisper,
 that there are "wheels within wheels," this talented man managed
-to take away the millionaire's motor car, one wheel at a time,
+to take away the millionaire's motor car, one [[Wheel|wheel]] at a [[Time|time]],
 till the millionaire had quite forgotten that he ever had one.
 It was very clever of him to do this, only he has not done it.
 There is not a screw loose in the millionaire's motor, which is
 capable of running over the Fabian and leaving him a flat corpse
-in the road at a moment's notice.  All these stories are very
+in the [[Road|road]] at a moment's notice.  All these stories are very
 fascinating stories to be told by the Individualist and Socialist
 in turn to the great Sultan of Capitalism, because if they left
 off amusing him for an instant he would cut off their heads.
@@ -100,30 +100,30 @@ by listening to these stories, to forget.  As we have said before
 in this chapter, he would prefer not to remember, because he has
 made up his mind not to repent.  It is a curious story, and I
 shall try to tell it truly in the two chapters that follow.
-In all ages the tyrant is hard because he is soft.  If his car
+In all ages the [[Tyrant|tyrant]] is hard because he is soft.  If his car
 crashes over bleeding and accusing crowds, it is because he has
 chosen the path of least resistance.  It is because it is much easier
-to ride down a human race than ride up a moderately steep hill.
+to ride down a human race than ride up a moderately steep [[Hill|hill]].
 The fight of the oppressor is always a pillow fight; commonly a war
 with cushions --- always a war for cushions.  Saladin, the great Sultan,
 if I remember rightly, accounted it the greatest feat of swordsmanship
 to cut a cushion.  And so indeed it is, as all of us can attest
 who have been for years past trying to cut into the swollen and windy
 corpulence of the modern compromise, that is at once cosy and cruel.
-For there is really in our world to-day the colour and silence of
-the cushioned divan; and that sense of palace within palace and garden
-within garden which makes the rich irresponsibility of the East.
-Have we not already the wordless dance, the wineless banquet,
+For there is really in our world to-day the colour and [[Silence|silence]] of
+the cushioned divan; and that sense of palace within palace and [[Garden|garden]]
+within [[Garden|garden]] which makes the rich irresponsibility of the East.
+Have we not already the wordless [[Dance|dance]], the wineless banquet,
 and all that strange unchristian conception of luxury
 without laughter?  Are we not already in an evil Arabian Nights,
-and walking the nightmare cities of an invisible despot?
+and walking the [[nightmare]] cities of an invisible despot?
 Does not our hangman strangle secretly, the bearer of the bow string?
 Are we not already eugenists --- that is, eunuch-makers?
 Do we not see the bright eyes, the motionless faces, and all
 the presence of something that is dead and yet sleepless?
-It is the presence of the sin that is sealed with pride
+It is the presence of the sin that is sealed with [[Pride|pride]]
 and impenitence; the story of how the Sultan got his throne.
 But it is not the story he is listening to just now, but another story
 which has been invented to cover it --- the story called "Eugenius:
 or the Adventures of One Not Born," a most varied and entrancing tale,
-which never fails to send him to sleep.
+which never fails to send him to [[Sleep|sleep]].

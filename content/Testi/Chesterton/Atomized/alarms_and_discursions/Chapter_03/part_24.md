@@ -15,13 +15,13 @@ tags:
 
 
 I strolled slowly back across the stretch of turf by the sunset,
-a field of the cloth of gold.  As I drew near my own house,
+a field of the cloth of gold.  As I drew near my own [[house]],
 its huge size began to horrify me; and when I came to the porch of it
-I discovered with an incredulity as strong as despair that my house
+I discovered with an [[Incredulity|incredulity]] as strong as [[Despair|despair]] that my [[house]]
 was actually bigger than myself.  A minute or two before there
-might well have seemed to be a monstrous and mythical competition
-about which of the two should swallow the other.  But I was Jonah;
-my house was the huge and hungry fish; and even as its jaws darkened
+might [[Well|well]] have seemed to be a monstrous and mythical competition
+about which of the two should [[Swallow|swallow]] the other.  But I was Jonah;
+my [[house]] was the huge and hungry fish; and even as its jaws darkened
 and closed about me I had again this dreadful fancy touching the dizzy
 altitude of all the works of man.  I climbed the stairs stubbornly,
 planting each foot with savage care, as if ascending a glacier.
@@ -32,7 +32,7 @@ The walls all round me failed and faded into infinity; I went up
 the ladder to my bedroom as Montrose went up the ladder to the gallows;
 _sic itur ad astra_.  Do you think this is a little fantastic--
 even a little fearful and nervous?  Believe me, it is only one of
-the wild and wonderful things that one can learn by stopping at home.
+the wild and wonderful things that one can learn by stopping at [[Home|home]].
 
 -/-
 
@@ -55,7 +55,7 @@ lines of real psychological cleavage.  I do not offer it lightly.
 It has been the fruit of more than eighteen minutes of earnest
 reflection and research.
 
-The class called People (to which you and I, with no little pride,
+The class called People (to which you and I, with no little [[Pride|pride]],
 attach ourselves) has certain casual, yet profound, assumptions,
 which are called "commonplaces," as that children are charming,
 or that twilight is sad and sentimental, or that one man fighting
@@ -64,12 +64,12 @@ they are not even simple.  The charm of children is very subtle;
 it is even complex, to the extent of being almost contradictory.
 It is, at its very plainest, mingled of a regard for hilarity and a
 regard for helplessness.  The sentiment of twilight, in the vulgarest
-drawing-room song or the coarsest pair of sweethearts, is, so far
+drawing-room [[Song|song]] or the coarsest pair of sweethearts, is, so far
 as it goes, a subtle sentiment.  It is strangely balanced between
-pain and pleasure; it might also be called pleasure tempting pain.
+[[Pain|pain]] and pleasure; it might also be called pleasure tempting [[Pain|pain]].
 The plunge of impatient chivalry by which we all admire a man
 fighting odds is not at all easy to define separately, it means
-many things, pity, dramatic surprise, a desire for justice, a delight
+many things, pity, dramatic surprise, a [[Desire|desire]] for justice, a delight
 in experiment and the indeterminate.  The ideas of the mob are really
 very subtle ideas; but the mob does not express them subtly.
 In fact, it does not express them at all, except on those occasions
@@ -79,18 +79,18 @@ Now, this accounts for the otherwise unreasonable fact of the existence
 of Poets.  Poets are those who share these popular sentiments,
 but can so express them that they prove themselves the strange
 and delicate things that they really are.  Poets draw out the shy
-refinement of the rabble.  Where the common man covers the queerest
+refinement of the rabble.  Where the [[Common Man|common man]] covers the queerest
 emotions by saying, "Rum little kid," Victor Hugo will write "L'art
 d'être grand-père"; where the stockbroker will only say abruptly,
 "Evenings closing in now," Mr. Yeats will write "Into the twilight";
 where the navvy can only mutter something about pluck and being
-"precious game," Homer will show you the hero in rags in his own hall
+"precious game," Homer will show you the [[Hero|hero]] in rags in his own hall
 defying the princes at their banquet.  The Poets carry the popular
 sentiments to a keener and more splendid pitch; but let it always be
 remembered that it is the popular sentiments that they are carrying.
-No man ever wrote any good poetry to show that childhood was shocking,
+No man ever wrote any good poetry to show that [[Childhood|childhood]] was shocking,
 or that twilight was gay and farcical, or that a man was
-contemptible because he had crossed his single sword with three.
+contemptible because he had crossed his single [[Sword|sword]] with three.
 The people who maintain this are the Professors, or Prigs.
 
 * * * * *
@@ -106,19 +106,19 @@ There are many weird elements in this situation.  The oddest of all
 perhaps is the fate of the two factors in practical politics.
 The Poets who embrace and admire the people are often pelted with stones
 and crucified.  The Prigs who despise the people are often loaded
-with lands and crowned.  In the House of Commons, for instance,
+with lands and crowned.  In the [[house|House]] of Commons, for instance,
 there are quite a number of prigs, but comparatively few poets.
 There are no People there at all.
 
 By poets, as I have said, I do not mean people who write poetry,
 or indeed people who write anything.  I mean such people as,
-having culture and imagination, use them to understand and share
+having culture and [[Imagination|imagination]], use them to understand and share
 the feelings of their fellows; as against those who use them
 to rise to what they call a higher plane.  Crudely, the poet
-differs from the mob by his sensibility; the professor differs
+differs from the mob by his sensibility; [[The Professor|the professor]] differs
 from the mob by his insensibility.  He has not sufficient
 finesse and sensitiveness to sympathise with the mob.
 His only notion is coarsely to contradict it, to cut across it,
 in accordance with some egotistical plan of his own; to tell
 himself that, whatever the ignorant say, they are probably wrong.
-He forgets that ignorance often has the exquisite intuitions of innocence.
+He forgets that ignorance often has the exquisite intuitions of [[innocence]].

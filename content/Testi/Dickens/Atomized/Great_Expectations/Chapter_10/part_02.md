@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 10 (part 2)"
+title: "[[Great Expectations]] — Chapter 10 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -37,15 +37,15 @@ The stranger, with a comfortable kind of grunt over his pipe, put his
 legs up on the settle that he had to himself. He wore a flapping
 broad-brimmed traveller’s hat, and under it a handkerchief tied over
 his head in the manner of a cap: so that he showed no hair. As he
-looked at the fire, I thought I saw a cunning expression, followed by a
+looked at the [[Fire|fire]], I thought I saw a cunning expression, followed by a
 half-laugh, come into his face.
 
 “I am not acquainted with this country, gentlemen, but it seems a
-solitary country towards the river.”
+solitary country towards the [[River|river]].”
 
 “Most marshes is solitary,” said Joe.
 
-“No doubt, no doubt. Do you find any gypsies, now, or tramps, or
+“No [[Doubt|doubt]], no [[Doubt|doubt]]. Do you find any gypsies, now, or tramps, or
 vagrants of any sort, out there?”
 
 “No,” said Joe; “none but a runaway convict now and then. And we don’t
@@ -79,14 +79,14 @@ infant, and is called by.”
 
 “Son of yours?”
 
-“Well,” said Joe, meditatively, not, of course, that it could be in
+“[[Well]],” said Joe, meditatively, not, of course, that it could be in
 anywise necessary to consider about it, but because it was the way at
 the Jolly Bargemen to seem to consider deeply about everything that was
-discussed over pipes,—“well—no. No, he ain’t.”
+discussed over pipes,—“[[Well|well]]—no. No, he ain’t.”
 
 “Nevvy?” said the strange man.
 
-“Well,” said Joe, with the same appearance of profound cogitation, “he
+“[[Well]],” said Joe, with the same appearance of profound cogitation, “he
 is not—no, not to deceive you, he is _not_—my nevvy.”
 
 “What the Blue Blazes is he?” asked the stranger. Which appeared to me
@@ -96,14 +96,14 @@ Mr. Wopsle struck in upon that; as one who knew all about
 relationships, having professional occasion to bear in mind what female
 relations a man might not marry; and expounded the ties between me and
 Joe. Having his hand in, Mr. Wopsle finished off with a most
-terrifically snarling passage from Richard the Third, and seemed to
+terrifically snarling passage from [[Richard]] the Third, and seemed to
 think he had done quite enough to account for it when he added, “—as
 the poet says.”
 
 And here I may remark that when Mr. Wopsle referred to me, he
 considered it a necessary part of such reference to rumple my hair and
 poke it into my eyes. I cannot conceive why everybody of his standing
-who visited at our house should always have put me through the same
+who visited at our [[house]] should always have put me through the same
 inflammatory process under similar circumstances. Yet I do not call to
 mind that I was ever in my earlier youth the subject of remark in our
 social family circle, but some large-handed person took some such
@@ -112,12 +112,12 @@ ophthalmic steps to patronise me.
 All this while, the strange man looked at nobody but me, and looked at
 me as if he were determined to have a shot at me at last, and bring me
 down. But he said nothing after offering his Blue Blazes observation,
-until the glasses of rum and water were brought; and then he made his
+until the glasses of rum and [[Water|water]] were brought; and then he made his
 shot, and a most extraordinary shot it was.
 
 It was not a verbal remark, but a proceeding in dumb-show, and was
-pointedly addressed to me. He stirred his rum and water pointedly at
-me, and he tasted his rum and water pointedly at me. And he stirred it
+pointedly addressed to me. He stirred his rum and [[Water|water]] pointedly at
+me, and he tasted his rum and [[Water|water]] pointedly at me. And he stirred it
 and he tasted it; not with a spoon that was brought to him, but _with a
 file_.
 
@@ -131,7 +131,7 @@ about turnips.
 There was a delicious sense of cleaning-up and making a quiet pause
 before going on in life afresh, in our village on Saturday nights,
 which stimulated Joe to dare to stay out half an hour longer on
-Saturdays than at other times. The half-hour and the rum and water
+Saturdays than at other times. The half-hour and the rum and [[Water|water]]
 running out together, Joe got up to go, and took me by the hand.
 
 “Stop half a moment, Mr. Gargery,” said the strange man. “I think I’ve
@@ -142,14 +142,14 @@ He looked it out from a handful of small change, folded it in some
 crumpled paper, and gave it to me. “Yours!” said he. “Mind! Your own.”
 
 I thanked him, staring at him far beyond the bounds of good manners,
-and holding tight to Joe. He gave Joe good-night, and he gave Mr.
-Wopsle good-night (who went out with us), and he gave me only a look
+and holding tight to Joe. He gave Joe good-[[Night|night]], and he gave Mr.
+Wopsle good-[[Night|night]] (who went out with us), and he gave me only a look
 with his aiming eye,—no, not a look, for he shut it up, but wonders may
 be done with an eye by hiding it.
 
-On the way home, if I had been in a humour for talking, the talk must
+On the way [[Home|home]], if I had been in a [[Humour|humour]] for talking, the talk must
 have been all on my side, for Mr. Wopsle parted from us at the door of
-the Jolly Bargemen, and Joe went all the way home with his mouth wide
+the Jolly Bargemen, and Joe went all the way [[Home|home]] with his mouth wide
 open, to rinse the rum out with as much air as possible. But I was in a
 manner stupefied by this turning up of my old misdeed and old
 acquaintance, and could think of nothing else.
@@ -174,16 +174,16 @@ sure that the man would not be there.
 Presently, Joe came back, saying that the man was gone, but that he,
 Joe, had left word at the Three Jolly Bargemen concerning the notes.
 Then my sister sealed them up in a piece of paper, and put them under
-some dried rose-leaves in an ornamental teapot on the top of a press in
-the state parlour. There they remained, a nightmare to me, many and
-many a night and day.
+some dried [[Rose|rose]]-[[Leaves|leaves]] in an ornamental teapot on the top of a press in
+the state parlour. There they remained, a [[nightmare]] to me, many and
+many a [[Night|night]] and day.
 
-I had sadly broken sleep when I got to bed, through thinking of the
+I had sadly broken [[Sleep|sleep]] when I got to bed, through thinking of the
 strange man taking aim at me with his invisible gun, and of the
 guiltily coarse and common thing it was, to be on secret terms of
 conspiracy with convicts,—a feature in my low career that I had
 previously forgotten. I was haunted by the file too. A dread possessed
 me that when I least expected it, the file would reappear. I coaxed
-myself to sleep by thinking of Miss Havisham’s, next Wednesday; and in
-my sleep I saw the file coming at me out of a door, without seeing who
+myself to [[Sleep|sleep]] by thinking of [[Miss Havisham]]’s, next Wednesday; and in
+my [[Sleep|sleep]] I saw the file coming at me out of a door, without seeing who
 held it, and I screamed myself awake.

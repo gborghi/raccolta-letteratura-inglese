@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 10 (part 2)"
+title: "[[Persuasion]] — Chapter 10 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -26,21 +26,21 @@ It was spoken with enthusiasm.
 
 
 
-“Had you?” cried he, catching the same tone; “I honour you!” And there
+“Had you?” cried he, catching the same tone; “I [[Honour|honour]] you!” And there
 
-was silence between them for a little while.
+was [[Silence|silence]] between them for a little while.
 
 
 
 Anne could not immediately fall into a quotation again. The sweet
 
-scenes of autumn were for a while put by, unless some tender sonnet,
+scenes of [[Autumn|autumn]] were for a while put by, unless some tender [[Sonnet|sonnet]],
 
 fraught with the apt analogy of the declining year, with declining
 
-happiness, and the images of youth and hope, and spring, all gone
+happiness, and the images of youth and [[Hope|hope]], and [[spring]], all gone
 
-together, blessed her memory. She roused herself to say, as they struck
+together, blessed her [[Memory|memory]]. She roused herself to say, as they struck
 
 by order into another path, “Is not this one of the ways to Winthrop?”
 
@@ -50,25 +50,25 @@ But nobody heard, or, at least, nobody answered her.
 
 Winthrop, however, or its environs—for young men are, sometimes to be
 
-met with, strolling about near home—was their destination; and after
+met with, strolling about near [[Home|home]]—was their destination; and after
 
 another half mile of gradual ascent through large enclosures, where the
 
 ploughs at work, and the fresh made path spoke the farmer counteracting
 
-the sweets of poetical despondence, and meaning to have spring again,
+the sweets of poetical despondence, and meaning to have [[spring]] again,
 
-they gained the summit of the most considerable hill, which parted
+they gained the summit of the most considerable [[Hill|hill]], which parted
 
 Uppercross and Winthrop, and soon commanded a full view of the latter,
 
-at the foot of the hill on the other side.
+at the foot of the [[Hill|hill]] on the other side.
 
 
 
-Winthrop, without beauty and without dignity, was stretched before
+Winthrop, without [[Beauty|beauty]] and without dignity, was stretched before
 
-them; an indifferent house, standing low, and hemmed in by the barns
+them; an indifferent [[house]], standing low, and hemmed in by the barns
 
 and buildings of a farm-yard.
 
@@ -76,7 +76,7 @@ and buildings of a farm-yard.
 
 Mary exclaimed, “Bless me! here is Winthrop. I declare I had no idea!
 
-Well now, I think we had better turn back; I am excessively tired.”
+[[Well]] now, I think we had better turn back; I am excessively tired.”
 
 
 
@@ -104,7 +104,7 @@ he recommended the advantage of resting herself a quarter of an hour at
 
 Winthrop, as she felt so tired, she resolutely answered, “Oh! no,
 
-indeed! walking up that hill again would do her more harm than any
+indeed! walking up that [[Hill|hill]] again would do her more harm than any
 
 sitting down could do her good;” and, in short, her look and manner
 
@@ -120,19 +120,19 @@ Henrietta should just run down for a few minutes, to see their aunt and
 
 cousins, while the rest of the party waited for them at the top of the
 
-hill. Louisa seemed the principal arranger of the plan; and, as she
+[[Hill|hill]]. Louisa seemed the principal arranger of the plan; and, as she
 
-went a little way with them, down the hill, still talking to Henrietta,
+went a little way with them, down the [[Hill|hill]], still talking to Henrietta,
 
 Mary took the opportunity of looking scornfully around her, and saying
 
-to Captain Wentworth—
+to [[Captain Wentworth]]—
 
 
 
 “It is very unpleasant, having such connexions! But, I assure you, I
 
-have never been in the house above twice in my life.”
+have never been in the [[house]] above twice in my life.”
 
 
 
@@ -144,13 +144,13 @@ perfectly knew the meaning of.
 
 
 
-The brow of the hill, where they remained, was a cheerful spot: Louisa
+The brow of the [[Hill|hill]], where they remained, was a cheerful spot: Louisa
 
 returned; and Mary, finding a comfortable seat for herself on the step
 
-of a stile, was very well satisfied so long as the others all stood
+of a stile, was very [[Well|well]] satisfied so long as the others all stood
 
-about her; but when Louisa drew Captain Wentworth away, to try for a
+about her; but when Louisa drew [[Captain Wentworth]] away, to try for a
 
 gleaning of nuts in an adjoining hedge-row, and they were gone by
 
@@ -164,7 +164,7 @@ better also. She turned through the same gate, but could not see them.
 
 Anne found a nice seat for her, on a dry sunny bank, under the
 
-hedge-row, in which she had no doubt of their still being, in some spot
+hedge-row, in which she had no [[Doubt|doubt]] of their still being, in some spot
 
 or other. Mary sat down for a moment, but it would not do; she was sure
 
@@ -176,7 +176,7 @@ she overtook her.
 
 Anne, really tired herself, was glad to sit down; and she very soon
 
-heard Captain Wentworth and Louisa in the hedge-row, behind her, as if
+heard [[Captain Wentworth]] and Louisa in the hedge-row, behind her, as if
 
 making their way back along the rough, wild sort of channel, down the
 
@@ -218,7 +218,7 @@ up, out of nonsensical complaisance!”
 
 you gave just now, which did but confirm my own observations, the last
 
-time I was in company with him, I need not affect to have no
+[[Time|time]] I was in company with him, I need not affect to have no
 
 comprehension of what is going on. I see that more than a mere dutiful
 

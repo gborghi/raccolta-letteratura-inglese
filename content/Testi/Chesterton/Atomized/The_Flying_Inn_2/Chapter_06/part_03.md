@@ -23,7 +23,7 @@ that sort of estate hardly ever is a nice man.  The
 landlord often is; and even Lord Ivywood had an
 arctic magnanimity of his own, which made most
 people want, if possible, to see him personally.  But Mr.
-Bullrose was petty.  Every really practical tyrant
+Bullrose was petty.  Every really practical [[Tyrant|tyrant]]
 must be petty.
 
 He evidently failed to understand the commotion in
@@ -43,7 +43,7 @@ aristocratic land system comes in.
 "Good-bye, my friends," the enormous man in the
 fantastic uniform was saying, "all roads lead to rum,
 as Lord Ivywood said in one of his gayer moments,
-and we hope to be back soon, establishing a first
+and we [[Hope|hope]] to be back soon, establishing a first
 class hotel here, of which prospectuses will soon be
 sent out."
 
@@ -62,12 +62,12 @@ miserable cottage.
 "I've got him now," muttered Mr. Bullrose.  "He
 can't possibly pay; and out he shall go."  And he
 walked swiftly towards the door of the cottage, almost
-at the same moment that Dalroy went to the donkey's
-head, as if to lead it off along the road.
+at the same moment that Dalroy went to the [[donkey]]'s
+head, as if to lead it off along the [[Road|road]].
 
 "Look here, my man," burst out Bullrose, the instant
 he was inside the cottage.  "You've cooked yourself
-this time.  His lordship has been a great deal too
+this [[Time|time]].  His lordship has been a great deal too
 indulgent with you; but this is going to be the end of
 it.  The insolence of what you've done outside,
 especially when you know his lordship's wishes in such
@@ -88,13 +88,13 @@ steadily than the cottager had done.
 thick, gross voice.  "Did you steal it?"
 
 "I ain't very spry for stealin'," said the old man in
-quavering comedy.
+quavering [[Comedy|comedy]].
 
 Bullrose looked at him and then at the money; and
 remembered with fury that Ivywood was a just though
 cold magistrate on the bench.
 
-"Well, anyhow," he cried, in a hot, heady way,
+"[[Well]], anyhow," he cried, in a hot, heady way,
 "we've got enough against you to turn you out of this.
 Haven't you broken the law, my man, to say nothing
 of the regulations for tenants, in sticking up that fancy
@@ -107,9 +107,9 @@ The tenant was silent.
 "Ar," replied the tenant.
 
 "Have you or have you not a sign-board outside
-this house?" shouted Bullrose, hammering the table.
+this [[house]]?" shouted Bullrose, hammering the table.
 
-The tenant looked at him for a long time with a
+The tenant looked at him for a long [[Time|time]] with a
 patient and venerable face, and then said: "Mubbe,
 yes.  Mubbe, no."
 
@@ -117,13 +117,13 @@ yes.  Mubbe, no."
 and sticking his silk hat on the back of his head.  "I
 don't know whether you people are too drunk to see
 anything, but I saw the thing with my own eyes out in
-the road.  Come out, and deny it if you dare!"
+the [[Road|road]].  Come out, and deny it if you dare!"
 
 "Ar," said Mr. Marne, dubiously.
 
 He tottered after the agent, who flung open the
 door with a businesslike fury and stood outside on the
-threshold.  He stood there quite a long time, and he
+threshold.  He stood there quite a long [[Time|time]], and he
 did not speak.  Deep in the hardened mud of his
 materialistic mind there had stirred two things that were its
 ancient enemies; the old fairy tale in which every

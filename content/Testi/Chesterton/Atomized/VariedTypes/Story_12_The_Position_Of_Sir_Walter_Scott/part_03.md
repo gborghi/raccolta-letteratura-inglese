@@ -1,5 +1,5 @@
 ---
-title: "VariedTypes — The Position Of Sir Walter Scott (part 3)"
+title: "[[VariedTypes]] — The Position Of Sir Walter Scott (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/VariedTypes-(Chesterton)"
@@ -20,7 +20,7 @@ upon which high words and great phrases are the resplendent foam is just
 
 now at a low ebb. We have even gone the length of congratulating
 
-ourselves because we can see the mud and the monsters at the bottom.
+ourselves because we can see the mud and the monsters at the [[Bottom|bottom]].
 
 
 
@@ -36,15 +36,15 @@ uses his material as Burke or Grattan (perhaps exaggeratively) would
 
 have used it--the speaker is content with facts and expositions of
 
-facts. In another age he might have risen and hurled that great song in
+facts. In another age he might have risen and hurled that great [[Song|song]] in
 
 prose, perfect as prose and yet rising into a chant, which Meg Merrilies
 
 hurled at Ellangowan, at the rulers of Britain: "Ride your ways. Laird
 
-of Ellangowan; ride your ways, Godfrey Bertram--this day have ye
+of Ellangowan; ride your ways, Godfrey [[Bertram]]--this day have ye
 
-quenched seven smoking hearths. See if the fire in your ain parlour
+quenched seven smoking hearths. See if the [[Fire|fire]] in your ain parlour
 
 burns the blyther for that. Ye have riven the thack of seven cottar
 
@@ -54,7 +54,7 @@ stable your stirks in the sheilings of Dern-cleugh. See that the hare
 
 does not couch on the hearthstane of Ellangowan. Ride your ways, Godfrey
 
-Bertram."
+[[Bertram]]."
 
 
 
@@ -68,7 +68,7 @@ of all eloquence is to find the least common denominator of men's souls,
 
 to fall just within the natural comprehension, it cannot obviously have
 
-any chance with a literary ambition which aims at falling just outside
+any chance with a literary [[Ambition|ambition]] which aims at falling just outside
 
 it. It is quite right to invent subtle analyses and detached criticisms,
 
@@ -80,13 +80,13 @@ central and simple sentiment, good or bad, but it is impossible to think
 
 of a mob shouting a distinction in terms. In the matter of eloquence,
 
-the whole question is one of the immediate effect of greatness, such as
+the whole question is one of the immediate effect of [[Greatness|greatness]], such as
 
 is produced even by fine bombast. It is absurd to call it merely
 
 superficial; here there is no question of superficiality; we might as
 
-well call a stone that strikes us between the eyes merely superficial.
+[[Well|well]] call a stone that strikes us between the eyes merely superficial.
 
 The very word "superficial" is founded on a fundamental mistake about
 
@@ -96,7 +96,7 @@ of the world is by far the deepest. What we really feel, naturally and
 
 casually, about the look of skies and trees and the face of friends,
 
-that and that alone will almost certainly remain our vital philosophy to
+that and that [[Alone|alone]] will almost certainly remain our vital [[philosophy]] to
 
 our dying day.
 
@@ -104,7 +104,7 @@ our dying day.
 
 Scott's bombast, therefore, will always be stirring to anyone who
 
-approaches it, as he should approach all literature, as a little child.
+approaches it, as he should approach all literature, as a little [[Child|child]].
 
 We could easily excuse the contemporary critic for not admiring
 
@@ -114,13 +114,13 @@ that it was a slight deficiency in his artistic sensibilities. Beyond
 
 all question, it marks a lack of literary instinct to be unable to
 
-simplify one's mind at the first signal of the advance of romance. "You
+simplify one's mind at the first signal of the advance of [[Romance|romance]]. "You
 
 do me wrong," said Brian de Bois-Guilbert to Rebecca. "Many a law, many
 
 a commandment have I broken, but my word, never." "Die," cries Balfour
 
-of Burley to the villain in "Old Mortality." "Die, hoping nothing,
+of Burley to the [[Villain|villain]] in "Old [[Mortality]]." "Die, hoping nothing,
 
 believing nothing--" "And fearing nothing," replies the other. This is
 
@@ -152,7 +152,7 @@ mounts higher and higher like a wave and falls in a crashing peroration.
 
 Perhaps the most thoroughly brilliant and typical man of this decade is
 
-Mr. Bernard Shaw. In his admirable play of "Candida" it is clearly a
+Mr. Bernard [[Shaw]]. In his admirable play of "Candida" it is clearly a
 
 part of the character of the Socialist clergyman that he should be
 
@@ -176,7 +176,7 @@ think.
 
 
 
-Of the faults of Scott as an artist it is not very necessary to speak,
+Of the faults of Scott as an [[Artist|artist]] it is not very necessary to speak,
 
 for faults are generally and easily pointed out, while there is yet no
 
@@ -184,7 +184,7 @@ adequate valuation of the varieties and contrasts of virtue. We have
 
 compiled a complete botanical classification of the weeds in the
 
-poetical garden, but the flowers still flourish, neglected and nameless.
+poetical [[Garden|garden]], but the [[Flowers|flowers]] still flourish, neglected and nameless.
 
 It is true, for example, that Scott had an incomparably stiff and
 
@@ -192,9 +192,9 @@ pedantic way of dealing with his heroines: he made a lively girl of
 
 eighteen refuse an offer in the language of Dr. Johnson. To him, as to
 
-most men of his time, woman was not an individual, but an institution--a
+most men of his [[Time|time]], woman was not an individual, but an institution--a
 
-toast that was drunk some time after that of Church and King. But it is
+toast that was drunk some [[Time|time]] after that of Church and [[King]]. But it is
 
 far better to consider the difference rather as a special merit, in that
 

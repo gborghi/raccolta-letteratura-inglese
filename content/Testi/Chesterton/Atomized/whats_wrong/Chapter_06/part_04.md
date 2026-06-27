@@ -24,13 +24,13 @@ That an ox may be eaten, while a man should not be eaten,
 is a doctrine.  That as little as possible of anything should be
 eaten is a prejudice; which is also sometimes called an ideal.
 Now a direction is always far more fantastic than a plan.
-I would rather have the most archaic map of the road to
+I would rather have the most archaic map of the [[Road|road]] to
 Brighton than a general recommendation to turn to the left.
 Straight lines that are not parallel must meet at last; but curves
-may recoil forever.  A pair of lovers might walk along the frontier
-of France and Germany, one on the one side and one on the other,
+may recoil forever.  A pair of [[lovers]] might walk along the frontier
+of France and [[Germany]], one on the one side and one on the other,
 so long as they were not vaguely told to keep away from each other.
-And this is a strictly true parable of the effect of our modern
+And this is a strictly true [[Parable|parable]] of the effect of our modern
 vagueness in losing and separating men as in a mist.
 
 It is not merely true that a creed unites men.  Nay, a difference
@@ -39,7 +39,7 @@ A boundary unites.  Many a magnanimous Moslem and chivalrous Crusader
 must have been nearer to each other, because they were both dogmatists,
 than any two homeless agnostics in a pew of Mr. Campbell's chapel.
 "I say God is One," and "I say God is One but also Three,"
-that is the beginning of a good quarrelsome, manly friendship.
+that is the beginning of a good quarrelsome, manly [[Friendship|friendship]].
 But our age would turn these creeds into tendencies.  It would tell
 the Trinitarian to follow multiplicity as such (because it was
 his "temperament"), and he would turn up later with three hundred
@@ -57,7 +57,7 @@ divides men, it does not fuse them.  Men will walk along the edge of a
 chasm in clear weather, but they will edge miles away from it in a fog.
 So a Tory can walk up to the very edge of Socialism, if he knows
 what is Socialism.  But if he is told that Socialism is a spirit,
-a sublime atmosphere, a noble, indefinable tendency, why, then he keeps
+a [[Sublime|sublime]] atmosphere, a noble, indefinable tendency, why, then he keeps
 out of its way; and quite right too.  One can meet an assertion
 with argument; but healthy bigotry is the only way in which one can
 meet a tendency.  I am told that the Japanese method of wrestling
@@ -68,12 +68,12 @@ But certainly there is no force so hard to fight as the force which it
 is easy to conquer; the force that always yields and then returns.
 Such is the force of a great impersonal prejudice, such as possesses
 the modern world on so many points.  Against this there is no weapon
-at all except a rigid and steely sanity, a resolution not to listen
+at all except a rigid and steely [[Sanity|sanity]], a resolution not to listen
 to fads, and not to be infected by diseases.
 
-In short, the rational human faith must armor itself with prejudice
-in an age of prejudices, just as it armoured itself with logic in
-an age of logic.  But the difference between the two mental methods
+In short, the rational human [[Faith|faith]] must armor itself with prejudice
+in an age of prejudices, just as it armoured itself with [[logic]] in
+an age of [[logic]].  But the difference between the two mental methods
 is marked and unmistakable.  The essential of the difference is this:
 that prejudices are divergent, whereas creeds are always in collision.
 Believers bump into each other; whereas bigots keep out of each other's
@@ -88,7 +88,7 @@ The really burning enthusiast never interrupts; he listens to the enemy's
 arguments as eagerly as a spy would listen to the enemy's arrangements.
 But if you attempt an actual argument with a modern paper of opposite
 politics, you will find that no medium is admitted between violence
-and evasion.  You will have no answer except slanging or silence.
+and evasion.  You will have no answer except slanging or [[Silence|silence]].
 A modern editor must not have that eager ear that goes with the
 honest tongue.  He may be deaf and silent; and that is called dignity.
 Or he may be deaf and noisy; and that is called slashing journalism.
@@ -116,8 +116,8 @@ he forgets the fetters.  To all this plausible modern argument
 for oppression, the only adequate answer is, that there is a permanent
 human ideal that must not be either confused or destroyed.
 The most important man on earth is the perfect man who is not there.
-The Christian religion has specially uttered the ultimate sanity of Man,
-says Scripture, who shall judge the incarnate and human truth.
+The Christian religion has specially uttered the ultimate [[Sanity|sanity]] of Man,
+says Scripture, who shall judge the incarnate and human [[Truth|truth]].
 Our lives and laws are not judged by divine superiority, but simply
 by human perfection.  It is man, says Aristotle, who is the measure.
 It is the Son of Man, says Scripture, who shall judge the quick

@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 24 (part 4)"
+title: "[[Villette]] — Chapter 24 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -17,31 +17,31 @@ tags:
 The keen, still cold of the morning was succeeded, later in the day, by
 a sharp breathing from Russian wastes: the cold zone sighed over the
 temperate zone, and froze it fast. A heavy firmament, dull, and thick
-with snow, sailed up from the north, and settled over expectant Europe.
+with [[Snow|snow]], sailed up from the north, and settled over expectant Europe.
 Towards afternoon began the descent. I feared no carriage would come,
 the white tempest raged so dense and wild. But trust my godmother! Once
-having asked, she would have her guest. About six o’clock I was lifted
+having asked, she would have her guest. About six o’[[Clock|clock]] I was lifted
 from the carriage over the already blocked-up front steps of the
 château, and put in at the door of La Terrasse.
 
 Running through the vestibule, and up-stairs to the drawing-room, there
-I found Mrs. Bretton—a summer-day in her own person. Had I been twice
+I found Mrs. Bretton—a [[Summer|summer]]-day in her own person. Had I been twice
 as cold as I was, her kind kiss and cordial clasp would have warmed me.
-Inured now for so long a time to rooms with bare boards, black benches,
+Inured now for so long a [[Time|time]] to rooms with bare boards, black benches,
 desks, and stoves, the blue saloon seemed to me gorgeous. In its
-Christmas-like fire alone there was a clear and crimson splendour which
+Christmas-like [[Fire|fire]] [[Alone|alone]] there was a clear and crimson splendour which
 quite dazzled me.
 
 When my godmother had held my hand for a little while, and chatted with
 me, and scolded me for having become thinner than when she last saw me,
-she professed to discover that the snow-wind had disordered my hair,
+she professed to discover that the [[Snow|snow]]-[[Wind|wind]] had disordered my hair,
 and sent me up-stairs to make it neat and remove my shawl.
 
 Repairing to my own little sea-green room, there also I found a bright
-fire, and candles too were lit: a tall waxlight stood on each side the
+[[Fire|fire]], and candles too were lit: a tall waxlight stood on each side the
 great looking-glass; but between the candles, and before the glass,
 appeared something dressing itself—an airy, fairy thing—small, slight,
-white—a winter spirit.
+white—a [[Winter|winter]] spirit.
 
 I declare, for one moment I thought of Graham and his spectral
 illusions. With distrustful eye I noted the details of this new vision.
@@ -66,10 +66,10 @@ of fine and delicate featuring, I could not but know her.
 inquire who then she might be, but waited voluntary information.
 
 “You are changed, but still you are yourself,” she said, approaching
-nearer. “I remember you well—your countenance, the colour of your hair,
+nearer. “I remember you [[Well|well]]—your countenance, the colour of your hair,
 the outline of your face….”
 
-I had moved to the fire, and she stood opposite, and gazed into me; and
+I had moved to the [[Fire|fire]], and she stood opposite, and gazed into me; and
 as she gazed, her face became gradually more and more expressive of
 thought and feeling, till at last a dimness quenched her clear vision.
 
@@ -78,29 +78,29 @@ being sorry, or sentimental, don’t think it: on the contrary, I am
 quite pleased and glad.”
 
 Interested, yet altogether at fault, I knew not what to say. At last I
-stammered, “I think I never met you till that night, some weeks ago,
+stammered, “I think I never met you till that [[Night|night]], some weeks ago,
 when you were hurt…?”
 
 She smiled. “You have forgotten then that I have sat on your knee, been
 lifted in your arms, even shared your pillow? You no longer remember
-the night when I came crying, like a naughty little child as I was, to
-your bedside, and you took me in. You have no memory for the comfort
+the [[Night|night]] when I came crying, like a naughty little [[Child|child]] as I was, to
+your bedside, and you took me in. You have no [[Memory|memory]] for the comfort
 and protection by which you soothed an acute distress? Go back to
-Bretton. Remember Mr. Home.”
+Bretton. Remember Mr. [[Home]].”
 
 At last I saw it all. “And you are little Polly?”
 
-“I am Paulina Mary Home de Bassompierre.”
+“I am [[Paulina]] Mary [[Home]] de Bassompierre.”
 
-How time can change! Little Polly wore in her pale, small features, her
+How [[Time|time]] can change! Little Polly wore in her pale, small features, her
 fairy symmetry, her varying expression, a certain promise of interest
-and grace; but Paulina Mary was become beautiful—not with the beauty
-that strikes the eye like a rose—orbed, ruddy, and replete; not with
+and grace; but [[Paulina]] Mary was become beautiful—not with the [[Beauty|beauty]]
+that strikes the eye like a [[Rose|rose]]—orbed, ruddy, and replete; not with
 the plump, and pink, and flaxen attributes of her blond cousin Ginevra;
 but her seventeen years had brought her a refined and tender charm
 which did not lie in complexion, though hers was fair and clear; nor in
 outline, though her features were sweet, and her limbs perfectly
-turned; but, I think, rather in a subdued glow from the soul outward.
+turned; but, I think, rather in a subdued glow from the [[Soul|soul]] outward.
 This was not an opaque vase, of material however costly, but a lamp
 chastely lucent, guarding from extinction, yet not hiding from worship,
 a flame vital and vestal. In speaking of her attractions, I would not
@@ -109,10 +109,10 @@ engaging. What though all was on a small scale, it was the perfume
 which gave this white violet distinction, and made it superior to the
 broadest camelia—the fullest dahlia that ever bloomed.
 
-“Ah! and you remember the old time at Bretton?”
+“Ah! and you remember the old [[Time|time]] at Bretton?”
 
 “Better,” said she, “better, perhaps, than you. I remember it with
-minute distinctness: not only the time, but the days of the time, and
+minute distinctness: not only the [[Time|time]], but the days of the [[Time|time]], and
 the hours of the days.”
 
 “You must have forgotten some things?”
@@ -124,23 +124,23 @@ this, have outgrown the impressions with which joy and grief, affection
 and bereavement, stamped your mind ten years ago.”
 
 “You think I have forgotten whom I liked, and in what degree I liked
-them when a child?”
+them when a [[Child|child]]?”
 
 “The sharpness must be gone—the point, the poignancy—the deep imprint
 must be softened away and effaced?”
 
-“I have a good memory for those days.”
+“I have a good [[Memory|memory]] for those days.”
 
 She looked as if she had. Her eyes were the eyes of one who can
-remember; one whose childhood does not fade like a dream, nor whose
+remember; one whose [[Childhood|childhood]] does not fade like [[A Dream|a dream]], nor whose
 youth vanish like a sunbeam. She would not take life, loosely and
 incoherently, in parts, and let one season slip as she entered on
 another: she would retain and add; often review from the commencement,
 and so grow in harmony and consistency as she grew in years. Still I
 could not quite admit the conviction that _all_ the pictures which now
 crowded upon me were vivid and visible to her. Her fond attachments,
-her sports and contests with a well-loved playmate, the patient, true
-devotion of her child’s heart, her fears, her delicate reserves, her
-little trials, the last piercing pain of separation…. I retraced these
-things, and shook my head incredulous. She persisted. “The child of
+her sports and contests with a [[Well|well]]-loved playmate, the patient, true
+devotion of her [[Child|child]]’s heart, her fears, her delicate reserves, her
+little trials, the last piercing [[Pain|pain]] of separation…. I retraced these
+things, and shook my head incredulous. She persisted. “The [[Child|child]] of
 seven years lives yet in the girl of seventeen,” said she.

@@ -15,42 +15,42 @@ tags:
 
 
 Mr Blandois, having finished his repast and cleaned his fingers, took
-a cigar from his pocket, and, lying on the window-seat again, smoked it
+a cigar from his pocket, and, lying on the [[Window|window]]-seat again, smoked it
 out at his leisure, occasionally apostrophising the smoke as it parted
 from his thin lips in a thin stream:
 
-‘Blandois, you shall turn the tables on society, my little child. Haha!
-Holy blue, you have begun well, Blandois! At a pinch, an excellent
+‘Blandois, you shall turn the tables on society, my little [[Child|child]]. Haha!
+Holy blue, you have begun [[Well|well]], Blandois! At a pinch, an excellent
 master in English or French; a man for the bosom of families! You have
-a quick perception, you have humour, you have ease, you have insinuating
+a quick perception, you have [[Humour|humour]], you have ease, you have insinuating
 manners, you have a good appearance; in effect, you are a gentleman! A
 gentleman you shall live, my small boy, and a gentleman you shall die.
 You shall win, however the game goes. They shall all confess your merit,
 Blandois. You shall subdue the society which has grievously wronged
-you, to your own high spirit. Death of my soul! You are high spirited by
-right and by nature, my Blandois!’
+you, to your own high spirit. [[Death]] of my [[Soul|soul]]! You are high spirited by
+right and by [[Nature|nature]], my Blandois!’
 
 To such soothing murmurs did this gentleman smoke out his cigar and
 drink out his bottle of wine. Both being finished, he shook himself into
 a sitting attitude; and with the concluding serious apostrophe, ‘Hold,
 then! Blandois, you ingenious one, have all your wits about you!’ arose
-and went back to the house of Clennam and Co.
+and went back to the [[house]] of Clennam and Co.
 
 He was received at the door by Mistress Affery, who, under instructions
 from her lord, had lighted up two candles in the hall and a third on the
-staircase, and who conducted him to Mrs Clennam’s room. Tea was prepared
+staircase, and who conducted him to [[Mrs Clennam]]’s room. Tea was prepared
 there, and such little company arrangements had been made as usually
 attended the reception of expected visitors. They were slight on the
 greatest occasion, never extending beyond the production of the China
 tea-service, and the covering of the bed with a sober and sad drapery.
 For the rest, there was the bier-like sofa with the block upon it, and
-the figure in the widow’s dress, as if attired for execution; the fire
+the figure in the widow’s dress, as if attired for execution; the [[Fire|fire]]
 topped by the mound of damped ashes; the grate with its second little
 mound of ashes; the kettle and the smell of black dye; all as they had
 been for fifteen years.
 
 Mr Flintwinch presented the gentleman commended to the consideration of
-Clennam and Co. Mrs Clennam, who had the letter lying before her, bent
+Clennam and Co. [[Mrs Clennam]], who had the letter lying before her, bent
 her head and requested him to sit. They looked very closely at one
 another. That was but natural curiosity.
 
@@ -61,18 +61,18 @@ of sight, out of mind. While I am grateful for the exception, I don’t
 complain of the rule.’
 
 Mr Blandois, in his most gentlemanly manner, was afraid he had disturbed
-her by unhappily presenting himself at such an unconscionable time. For
+her by unhappily presenting himself at such an unconscionable [[Time|time]]. For
 which he had already offered his best apologies to Mr--he begged
-pardon--but by name had not the distinguished honour--
+pardon--but by name had not the distinguished [[Honour|honour]]--
 
-‘Mr Flintwinch has been connected with the House many years.’
+‘Mr Flintwinch has been connected with the [[house|House]] many years.’
 
 Mr Blandois was Mr Flintwinch’s most obedient humble servant. He
 entreated Mr Flintwinch to receive the assurance of his profoundest
 consideration.
 
-‘My husband being dead,’ said Mrs Clennam, ‘and my son preferring
-another pursuit, our old House has no other representative in these days
+‘My husband being dead,’ said [[Mrs Clennam]], ‘and my son preferring
+another pursuit, our old [[house|House]] has no other representative in these days
 than Mr Flintwinch.’
 
 ‘What do you call yourself?’ was the surly demand of that gentleman.
@@ -87,7 +87,7 @@ letter) have the kindness not to forget us, and we retain the power
 of doing what they entrust to us as efficiently as we ever did. This
 however is not interesting to you. You are English, sir?’
 
-‘Faith, madam, no; I am neither born nor bred in England. In effect, I
+‘[[Faith]], madam, no; I am neither born nor bred in England. In effect, I
 am of no country,’ said Mr Blandois, stretching out his leg and smiting
 it: ‘I descend from half-a-dozen countries.’
 
@@ -107,7 +107,7 @@ to fancy that she caught an expression in his eyes which attracted her
 own eyes so that she could not get them away. The effect of this fancy
 was to keep her staring at him with the tea-pot in her hand, not only to
 her own great uneasiness, but manifestly to his, too; and, through them
-both, to Mrs Clennam’s and Mr Flintwinch’s. Thus a few ghostly moments
+both, to [[Mrs Clennam]]’s and Mr Flintwinch’s. Thus a few ghostly moments
 supervened, when they were all confusedly staring without knowing why.
 
 ‘Affery,’ her mistress was the first to say, ‘what is the matter with
@@ -127,7 +127,7 @@ wanderer in her mind. She shall have a dose, she shall have such a dose!
 Get along with you, my woman,’ he added in her ear, ‘get along with you,
 while you know you’re Affery, and before you’re shaken to yeast.’
 
-Mistress Affery, sensible of the danger in which her identity stood,
+Mistress Affery, sensible of the danger in which her [[Identity|identity]] stood,
 relinquished the tea-pot as her husband seized it, put her apron over
 her head, and in a twinkling vanished. The visitor gradually broke into
 a smile, and sat down again.

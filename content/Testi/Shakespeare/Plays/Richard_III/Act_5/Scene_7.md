@@ -1,5 +1,5 @@
 ---
-title: "Richard III — Act V, Scene 7"
+title: "[[Richard III]] — Act V, Scene 7"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/RICHARD-III-(Shakespeare)"
@@ -18,11 +18,11 @@ tags:
 |---|---|
 | *(didascalia)* | Alarum. Excursions. Enter Sir William Catesby |
 | CATESBY | calling<br>Rescue, my lord of Norfolk! Rescue, rescue! |
-| *(didascalia)* | To a soldier The King enacts more wonders than a man, |
-| CATESBY | Daring an opposite to every danger.<br>His horse is slain, and all on foot he fights,<br>Seeking for Richmond in the throat of death. |
+| *(didascalia)* | To a soldier The [[King]] enacts more wonders than a man, |
+| CATESBY | Daring an opposite to every danger.<br>His [[Horse|horse]] is slain, and all on foot he fights,<br>Seeking for Richmond in the throat of [[Death|death]]. |
 | *(didascalia)* | Calling Rescue, fair lord, or else the day is lost! |
-| *(didascalia)* | Alarums. Enter King Richard |
-| KING RICHARD | A horse! A horse! My kingdom for a horse! |
-| CATESBY | Withdraw, my lord. I’ll help you to a horse. |
-| KING RICHARD | Slave, I have set my life upon a cast,<br>And I will stand the hazard of the die.<br>I think there be six Richmonds in the field.<br>Five have I slain today, instead of him.<br>A horse! A horse! My kingdom for a horse! |
+| *(didascalia)* | Alarums. Enter [[King]] [[Richard]] |
+| [[King|KING]] [[Richard|RICHARD]] | A [[Horse|horse]]! A [[Horse|horse]]! My kingdom for a [[Horse|horse]]! |
+| CATESBY | Withdraw, my lord. I’ll help you to a [[Horse|horse]]. |
+| [[King|KING]] [[Richard|RICHARD]] | Slave, I have set my life upon a cast,<br>And I will stand the hazard of the die.<br>I think there be six Richmonds in the field.<br>Five have I slain today, instead of him.<br>A [[Horse|horse]]! A [[Horse|horse]]! My kingdom for a [[Horse|horse]]! |
 | *(didascalia)* | Exeunt |

@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 39 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 39 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -24,9 +24,9 @@ for such a purpose, and some of those I should thereafter paint.
 
 Besides this, I would contrive to dispose of my jewels, not the family
 
-jewels, but the few I brought with me from home, and those my uncle
+jewels, but the few I brought with me from [[Home|home]], and those my uncle
 
-gave me on my marriage. A few months’ arduous toil might well be borne
+gave me on my [[Marriage|marriage]]. A few months’ arduous toil might [[Well|well]] be borne
 
 by me with such an end in view; and in the interim my son could not be
 
@@ -46,13 +46,13 @@ project altogether, or delay the execution of it to an indefinite
 
 period, had not something occurred to confirm me in that determination,
 
-to which I still adhere, which I still think I did well to form, and
+to which I still adhere, which I still think I did [[Well|well]] to form, and
 
 shall do better to execute.
 
 
 
-Since Lord Lowborough’s departure I had regarded the library as
+Since [[Lord Lowborough]]’s departure I had regarded the library as
 
 entirely my own, a secure retreat at all hours of the day. None of our
 
@@ -72,7 +72,7 @@ wished. Here, then, I set up my easel, and here I worked at my canvas
 
 from daylight till dusk, with very little intermission, saving when
 
-pure necessity, or my duties to little Arthur, called me away: for I
+pure necessity, or my duties to little [[arthur|Arthur]], called me away: for I
 
 still thought proper to devote some portion of every day exclusively to
 
@@ -86,7 +86,7 @@ intrusion, and said he was only come for a book; but when he had got
 
 it, he condescended to cast a glance over my picture. Being a man of
 
-taste, he had something to say on this subject as well as another, and
+taste, he had something to say on this subject as [[Well|well]] as another, and
 
 having modestly commented on it, without much encouragement from me, he
 
@@ -100,7 +100,7 @@ encouragement in that either, he dropped it, but did not depart.
 
 after a brief pause, during which I went on coolly mixing and tempering
 
-my colours; “and I cannot wonder at it, for you must be heartily sick
+my colours; “and I cannot [[Wonder|wonder]] at it, for you must be heartily sick
 
 of us all. I myself am so thoroughly ashamed of my companions, and so
 
@@ -148,25 +148,25 @@ even the gentlemen themselves, I imagine. I’ll just tell you,” he
 
 continued, as if actuated by a sudden resolution, “what was said last
 
-night in the dining-room, after you left us: perhaps you will not mind
+[[Night|night]] in the dining-room, after you left us: perhaps you will not mind
 
 it, as you’re so _very_ philosophical on certain points,” he added with
 
-a slight sneer. “They were talking about Lord Lowborough and his
+a slight sneer. “They were talking about [[Lord Lowborough]] and his
 
 delectable lady, the cause of whose sudden departure is no secret
 
-amongst them; and her character is so well known to them all, that,
+amongst them; and her character is so [[Well|well]] known to them all, that,
 
 nearly related to me as she is, I could not attempt to defend it. Curse
 
 me!” he muttered, _par parenthése_, “if I don’t have vengeance for
 
-this! If the villain must disgrace the family, must he blazon it abroad
+this! If the [[Villain|villain]] must disgrace the family, must he blazon it abroad
 
 to every low-bred knave of his acquaintance? I beg your pardon, Mrs.
 
-Huntingdon. Well, they were talking of these things, and some of them
+Huntingdon. [[Well]], they were talking of these things, and some of them
 
 remarked that, as she was separated from her husband, he might see her
 
@@ -188,7 +188,7 @@ good husband, a good father, and so forth; as I do, when I get shut of
 
 you and all these rollicking devils you call your friends? I think it’s
 
-time; and your wife is fifty times too good for you, you _know_—’
+[[Time|time]]; and your wife is fifty times too good for you, you _know_—’
 
 
 
@@ -224,4 +224,4 @@ intend to take my advice.’
 
 
 
-“‘To turn over a new leaf, you double-dyed scoundrel,’ shouted Ralph,
+“‘To turn over a new leaf, you [[Double|double]]-dyed scoundrel,’ shouted Ralph,

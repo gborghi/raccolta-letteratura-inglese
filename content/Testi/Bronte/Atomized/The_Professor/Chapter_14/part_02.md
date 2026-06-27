@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 13 (part 2)"
+title: "[[The Professor]] — Chapter 13 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 witnessed its effect in the momentary pallor of her cheek--cheek unused
 
-to vary; yet how quickly, by dint of self-control, had she recovered
+to vary; yet how quickly, by dint of [[Self|self]]-control, had she recovered
 
 her composure! With what quiet dignity she now sat, almost at my side,
 
@@ -28,9 +28,9 @@ forehead!
 
 
 
-“There is metal there,” I said, as I gazed. “Would that there were fire
+“There is metal there,” I said, as I gazed. “Would that there were [[Fire|fire]]
 
-also, living ardour to make the steel glow--then I could love her.”
+also, living ardour to make the steel glow--then I could [[Love|love]] her.”
 
 
 
@@ -56,7 +56,7 @@ of addressing me again.
 
 
 
-While all was silence in the class--silence, but for the rustling of
+While all was [[Silence|silence]] in the class--[[Silence|silence]], but for the rustling of
 
 copy-books and the travelling of pens over their pages--a leaf of the
 
@@ -72,7 +72,7 @@ proceeded, still with an air of hurry and embarrassment, to open her
 
 cabas, to take out her books; and, while I was waiting for her to look
 
-up, in order to make out her identity--for, shortsighted as I was, I had
+up, in order to make out her [[Identity|identity]]--for, shortsighted as I was, I had
 
 not recognized her at her entrance--Mdlle. Reuter, leaving her chair,
 
@@ -90,13 +90,13 @@ by example as precept: “Monsieur Creemsvort, that young person, who has
 
 just entered, wishes to have the advantage of taking lessons with you in
 
-English; she is not a pupil of the house; she is, indeed, in one sense,
+English; she is not a pupil of the [[house]]; she is, indeed, in one sense,
 
-a teacher, for she gives instruction in lace-mending, and in little
+a teacher, for she gives instruction in lace-[[mending]], and in little
 
 varieties of ornamental needle-work. She very properly proposes to
 
-qualify herself for a higher department of education, and has asked
+qualify herself for a higher department of [[Education|education]], and has asked
 
 permission to attend your lessons, in order to perfect her knowledge
 
@@ -118,7 +118,7 @@ I replied, “Of course,” very laconically, almost abruptly.
 
 “Another word,” she said, with softness: “Mdlle. Henri has not received
 
-a regular education; perhaps her natural talents are not of the highest
+a regular [[Education|education]]; perhaps her natural talents are not of the highest
 
 order: but I can assure you of the excellence of her intentions, and
 
@@ -164,7 +164,7 @@ indulgent to the governess pupil, the more impatient I felt as I
 
 listened. I discerned so clearly that while her professed motive was a
 
-wish to aid the dull, though well-meaning Mdlle. Henri, her real one
+wish to aid the dull, though [[Well|well]]-meaning Mdlle. Henri, her real one
 
 was no other than a design to impress me with an idea of her own exalted
 
@@ -182,7 +182,7 @@ her--
 
 “You have come in too late to receive a lesson to-day; try to be more
 
-punctual next time.”
+punctual next [[Time|time]].”
 
 
 
@@ -216,7 +216,7 @@ begun to regard it almost as a fabulous quality. Whether her physiognomy
 
 announced it I could not tell, for her speedy exit had allowed me no
 
-time to ascertain the circumstance. I had, indeed, on two or three
+[[Time|time]] to ascertain the circumstance. I had, indeed, on two or three
 
 previous occasions, caught a passing view of her (as I believe has been
 
@@ -224,7 +224,7 @@ mentioned before); but I had never stopped to scrutinize either her face
 
 or person, and had but the most vague idea of her general appearance.
 
-Just as I had finished rolling up the compositions, the four o’clock
+Just as I had finished [[rolling]] up the compositions, the four o’[[Clock|clock]]
 
 bell rang; with my accustomed alertness in obeying that signal, I
 

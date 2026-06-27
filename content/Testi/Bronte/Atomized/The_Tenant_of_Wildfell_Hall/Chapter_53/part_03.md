@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 53 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 53 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -32,15 +32,15 @@ polite inquiries about my health.”
 
 the slightest encouragement or assistance to my too obstinate
 
-attachment.” Helen did not reply. “And he was perfectly right,” added
+attachment.” [[Helen]] did not reply. “And he was perfectly right,” added
 
-I. But she remained in silence, looking out upon the snowy lawn. “Oh, I
+I. But she remained in [[Silence|silence]], looking out upon the snowy lawn. “Oh, I
 
-will relieve her of my presence,” thought I; and immediately I rose and
+will relieve her of my presence,” thought I; and immediately I [[Rose|rose]] and
 
-advanced to take leave, with a most heroic resolution—but pride was at
+advanced to take leave, with a most heroic resolution—but [[Pride|pride]] was at
 
-the bottom of it, or it could not have carried me through.
+the [[Bottom|bottom]] of it, or it could not have carried me through.
 
 
 
@@ -54,13 +54,13 @@ immediately letting it go.
 
 
 
-“Wait till Arthur comes, at least.”
+“Wait till [[arthur|Arthur]] comes, at least.”
 
 
 
 Only too glad to obey, I stood and leant against the opposite side of
 
-the window.
+the [[Window|window]].
 
 
 
@@ -86,7 +86,7 @@ had when last we met?”
 
 “It was wrong to talk of it _then_, Gilbert; it would _not_ now—unless
 
-to do so would be to violate the truth.”
+to do so would be to violate the [[Truth|truth]].”
 
 
 
@@ -94,33 +94,33 @@ I was too much agitated to speak; but, without waiting for an answer,
 
 she turned away her glistening eye and crimson cheek, and threw up the
 
-window and looked out, whether to calm her own, excited feelings, or to
+[[Window|window]] and looked out, whether to calm her own, excited feelings, or to
 
 relieve her embarrassment, or only to pluck that beautiful half-blown
 
-Christmas-rose that grew upon the little shrub without, just peeping
+Christmas-[[Rose|rose]] that grew upon the little shrub without, just peeping
 
-from the snow that had hitherto, no doubt, defended it from the frost,
+from the [[Snow|snow]] that had hitherto, no [[Doubt|doubt]], defended it from the [[Frost|frost]],
 
 and was now melting away in the sun. Pluck it, however, she did, and
 
-having gently dashed the glittering powder from its leaves, approached
+having gently dashed the glittering powder from its [[Leaves|leaves]], approached
 
 it to her lips and said:
 
 
 
-“This rose is not so fragrant as a summer flower, but it has stood
+“This [[Rose|rose]] is not so fragrant as a [[Summer|summer]] flower, but it has stood
 
-through hardships none of _them_ could bear: the cold rain of winter
+through hardships none of _them_ could bear: the cold rain of [[Winter|winter]]
 
 has sufficed to nourish it, and its faint sun to warm it; the bleak
 
-winds have not blanched it, or broken its stem, and the keen frost has
+winds have not blanched it, or broken its stem, and the keen [[Frost|frost]] has
 
 not blighted it. Look, Gilbert, it is still fresh and blooming as a
 
-flower can be, with the cold snow even now on its petals.—Will you have
+flower can be, with the cold [[Snow|snow]] even now on its petals.—Will you have
 
 it?”
 
@@ -128,7 +128,7 @@ it?”
 
 I held out my hand: I dared not speak lest my emotion should overmaster
 
-me. She laid the rose across my palm, but I scarcely closed my fingers
+me. She laid the [[Rose|rose]] across my palm, but I scarcely closed my fingers
 
 upon it, so deeply was I absorbed in thinking what might be the meaning
 
@@ -138,13 +138,13 @@ to give way to my feelings or restrain them still. Misconstruing this
 
 hesitation into indifference—or reluctance even—to accept her gift,
 
-Helen suddenly snatched it from my hand, threw it out on to the snow,
+[[Helen]] suddenly snatched it from my hand, threw it out on to the [[Snow|snow]],
 
-shut down the window with an emphasis, and withdrew to the fire.
+shut down the [[Window|window]] with an emphasis, and withdrew to the [[Fire|fire]].
 
 
 
-“Helen, what means this?” I cried, electrified at this startling change
+“[[Helen]], what means this?” I cried, electrified at this startling change
 
 in her demeanour.
 
@@ -160,7 +160,7 @@ mistake, the only remedy I could think of was to take it away.”
 
 “You misunderstood me cruelly,” I replied, and in a minute I had opened
 
-the window again, leaped out, picked up the flower, brought it in, and
+the [[Window|window]] again, leaped out, picked up the flower, brought it in, and
 
 presented it to her, imploring her to give it me again, and I would
 
@@ -202,25 +202,25 @@ very indifferent.”
 
 
 
-“I am neither, Helen—Mrs. Huntingdon. If you could see my heart—”
+“I am neither, [[Helen]]—Mrs. Huntingdon. If you could see my heart—”
 
 
 
 “You _must_ be one,—if not both. And why Mrs. Huntingdon?—why not
 
-Helen, as before?”
+[[Helen]], as before?”
 
 
 
-“Helen, then—dear Helen!” I murmured. I was in an agony of mingled
+“[[Helen]], then—dear [[Helen]]!” I murmured. I was in an agony of mingled
 
-love, hope, delight, uncertainty, and suspense.
+[[Love|love]], [[Hope|hope]], delight, uncertainty, and suspense.
 
 
 
-“The rose I gave you was an emblem of my heart,” said she; “would you
+“The [[Rose|rose]] I gave you was an emblem of my heart,” said she; “would you
 
-take it away and leave me here alone?”
+take it away and leave me here [[Alone|alone]]?”
 
 
 
@@ -262,7 +262,7 @@ dared not believe in so much joy, and yet restrained myself to say,—
 
 bitterly disappoint me. If you have not sufficient confidence in my
 
-affection to believe this, let me alone.”
+affection to believe this, let me [[Alone|alone]].”
 
 
 
@@ -270,7 +270,7 @@ affection to believe this, let me alone.”
 
 the hand I still retained, and throwing my left arm around her, “you
 
-never shall repent, if it depend on me alone. But have you thought of
+never shall repent, if it depend on me [[Alone|alone]]. But have you thought of
 
 your aunt?” I trembled for the answer, and clasped her closer to my
 
@@ -280,11 +280,11 @@ heart in the instinctive dread of losing my new-found treasure.
 
 “My aunt must not know of it yet,” said she. “She would think it a
 
-rash, wild step, because she could not imagine how well I know you; but
+rash, wild step, because she could not imagine how [[Well|well]] I know you; but
 
 she must know you herself, and learn to like you. You must leave us
 
-now, after lunch, and come again in spring, and make a longer stay, and
+now, after lunch, and come again in [[spring]], and make a longer stay, and
 
 cultivate her acquaintance, and I know you will like each other.”
 

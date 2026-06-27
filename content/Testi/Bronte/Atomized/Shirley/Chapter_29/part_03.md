@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 29 (part 3)"
+title: "[[Shirley]] — Chapter 29 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -34,7 +34,7 @@ fresh, unsullied satin of the bag.
 
 "What a difference there is between S. and that pearl C. H.! Caroline, I
 
-fancy, is the soul of conscientious punctuality and nice exactitude. She
+fancy, is the [[Soul|soul]] of conscientious punctuality and nice exactitude. She
 
 would precisely suit the domestic habits of a certain fastidious kinsman
 
@@ -56,29 +56,29 @@ of the valley, untinted, needing no tint. What change could improve her?
 
 What pencil dare to paint? _My_ sweetheart, if I ever have one, must
 
-bear nearer affinity to the rose--a sweet, lively delight guarded with
+bear nearer affinity to the [[Rose|rose]]--a sweet, lively delight guarded with
 
 prickly peril. _My_ wife, if I ever marry, must stir my great frame with
 
 a sting now and then; she must furnish use to her husband's vast mass of
 
-patience. I was not made so enduring to be mated with a lamb; I should
+patience. I was not made so enduring to be mated with a [[Lamb|lamb]]; I should
 
 find more congenial responsibility in the charge of a young lioness or
 
 leopardess. I like few things sweet but what are likewise pungent--few
 
-things bright but what are likewise hot. I like the summer day, whose
+things bright but what are likewise hot. I like the [[Summer|summer]] day, whose
 
-sun makes fruit blush and corn blanch. Beauty is never so beautiful as
+sun makes fruit blush and corn blanch. [[Beauty]] is never so beautiful as
 
 when, if I tease it, it wreathes back on me with spirit. Fascination is
 
 never so imperial as when, roused and half ireful, she threatens
 
-transformation to fierceness. I fear I should tire of the mute,
+transformation to fierceness. I [[Fear|fear]] I should tire of the mute,
 
-monotonous innocence of the lamb; I should ere long feel as burdensome
+monotonous [[innocence]] of the [[Lamb|lamb]]; I should ere long feel as burdensome
 
 the nestling dove which never stirred in my bosom; but my patience would
 
@@ -90,7 +90,7 @@ _bête fauve_ my powers would revel.
 
 
 
-"O my pupil! O Peri! too mutinous for heaven, too innocent for hell,
+"O my pupil! O Peri! too mutinous for heaven, too [[Innocent|innocent]] for hell,
 
 never shall I do more than see, and worship, and wish for thee. Alas!
 
@@ -100,7 +100,7 @@ possessed by those who have not that power?
 
 
 
-"However kindly the hand, if it is feeble, it cannot bend Shirley; and
+"However kindly the hand, if it is feeble, it cannot bend [[Shirley]]; and
 
 she must be bent. It cannot curb her; and she must be curbed.
 
@@ -110,33 +110,33 @@ she must be bent. It cannot curb her; and she must be curbed.
 
 side, and observe her lips compressed, or her brow knit, in resolute
 
-endurance of some trait of your character which she neither admires nor
+[[Endurance|endurance]] of some trait of your character which she neither admires nor
 
 likes, in determined toleration of some weakness she believes atoned for
 
 by a virtue, but which annoys her despite that belief; I never mark the
 
-grave glow of her face, the unsmiling sparkle of her eye, the slight
+[[Grave|grave]] glow of her face, the unsmiling sparkle of her eye, the slight
 
 recoil of her whole frame when you draw a little too near, and gaze a
 
 little too expressively, and whisper a little too warmly--I never
 
-witness these things but I think of the fable of Semele reversed.
+witness these things but I think of the [[Fable|fable]] of Semele reversed.
 
 
 
 "It is not the daughter of Cadmus I see, nor do I realize her fatal
 
-longing to look on Jove in the majesty of his god-head. It is a priest
+[[Longing|longing]] to look on Jove in the majesty of his god-head. It is a priest
 
 of Juno that stands before me, watching late and lone at a shrine in an
 
-Argive temple. For years of solitary ministry he has lived on dreams.
+Argive temple. For years of solitary ministry he has lived on [[Dreams|dreams]].
 
-There is divine madness upon him. He loves the idol he serves, and prays
+There is divine [[Madness|madness]] upon him. He loves the idol he serves, and prays
 
-day and night that his frenzy may be fed, and that the Ox-eyed may smile
+day and [[Night|night]] that his frenzy may be fed, and that the Ox-eyed may smile
 
 on her votary. She has heard; she will be propitious. All Argos
 
@@ -146,17 +146,17 @@ altar.
 
 
 
-"A shock of heaven and earth is felt--not by the slumbering city, only
+"A shock of heaven and earth is felt--not by the slumbering [[City|city]], only
 
-by that lonely watcher, brave and unshaken in his fanaticism. In the
+by that lonely watcher, brave and unshaken in his [[Fanaticism|fanaticism]]. In the
 
-midst of silence, with no preluding sound, he is wrapped in sudden
+midst of [[Silence|silence]], with no preluding sound, he is wrapped in sudden
 
 light. Through the roof, through the rent, wide-yawning, vast,
 
 white-blazing blue of heaven above, pours a wondrous descent, dread as
 
-the downrushing of stars. He has what he asked. Withdraw--forbear to
+the downrushing of [[Stars|stars]]. He has what he asked. Withdraw--forbear to
 
 look--I am blinded. I hear in that fane an unspeakable sound. Would that
 
@@ -166,9 +166,9 @@ between the pillars. Gods be merciful and quench it!
 
 
 
-"A pious Argive enters to make an early offering in the cool dawn of
+"A pious Argive enters to make an early offering in the cool [[Dawn|dawn]] of
 
-morning. There was thunder in the night; the bolt fell here. The shrine
+morning. There was thunder in the [[Night|night]]; the bolt fell here. The shrine
 
 is shivered, the marble pavement round split and blackened. Saturnia's
 
@@ -192,7 +192,7 @@ will be seeking them to-morrow; she will have to come to me. I hear her:
 
 "So she will say, in her clear voice, speaking with reluctance, looking
 
-ashamed, conscious that this is the twentieth time of asking. I will
+ashamed, conscious that this is the twentieth [[Time|time]] of asking. I will
 
 tantalize her, keep her with me, expecting, doubting; and when I _do_
 
@@ -212,7 +212,7 @@ pleasure--display each exquisite variety of glance and curve, to
 
 delight, thrill, perhaps more hopelessly to enchain me. If I must be her
 
-slave, I will not lose my freedom for nothing."
+slave, I will not lose my [[Freedom|freedom]] for nothing."
 
 
 

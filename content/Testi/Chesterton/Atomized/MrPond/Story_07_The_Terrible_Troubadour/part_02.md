@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Terrible Troubadour (part 2)"
+title: "[[MrPond]] — The Terrible Troubadour (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -48,7 +48,7 @@ spot.
 
 
 
-Mr. Pond's friend, Sir Hubert Wotton, the well-known diplomatist,
+Mr. Pond's friend, Sir [[Hubert]] Wotton, the [[Well|well]]-known diplomatist,
 
 took the chair; but Mr. Little did not mind who took chairs so long
 
@@ -60,7 +60,7 @@ as he took charge.
 
 special assurance would have induced me to place my client's case
 
-before it.  Sir Hubert and Mr. Pond declare, I understand, that an
+before it.  Sir [[Hubert]] and Mr. Pond declare, I understand, that an
 
 explanation will be demanded here and now."
 
@@ -84,7 +84,7 @@ His friend, Wotton, looked at Pond for a moment with a frosty stare
 
 of surprise; but he stared a great deal more when he was startled
 
-by Gahagan himself, speaking, suddenly, for the first and last time
+by Gahagan himself, speaking, suddenly, for the first and last [[Time|time]]
 
 in all the first hours of the interview.
 
@@ -118,29 +118,29 @@ supervision.  But even as he heard it again in more exact form, he
 
 could not get rid of a feeling that the scene described was
 
-unnaturally vivid to him, but with the vividness of a nightmare.
+unnaturally vivid to him, but with the vividness of a [[nightmare]].
 
 
 
 There was no particular reason, at that stage, for comparing the
 
-story to a nightmare; except that the two principal incidents
+story to a [[nightmare]]; except that the two principal incidents
 
-happened at night.
+happened at [[Night|night]].
 
 
 
-They happened in the vicar's garden, close to the balcony of the
+They happened in the vicar's [[Garden|garden]], close to the balcony of the
 
-vicar's house; and perhaps the impression, which was rather like an
+vicar's [[house]]; and perhaps the impression, which was rather like an
 
-oppression, was somehow connected with another night darkening the
+oppression, was somehow connected with another [[Night|night]] darkening the
 
-night; a living night of vegetation; for it was suggested,
+[[Night|night]]; a living [[Night|night]] of vegetation; for it was suggested,
 
 throughout, that the balcony was loaded with pots and palms and
 
-clutched by climbing plants with heavy and pendent leaves.
+clutched by climbing plants with heavy and pendent [[Leaves|leaves]].
 
 
 
@@ -156,7 +156,7 @@ his creed of blind growth and a groping life-force in a godless
 
 dark; for Green developed his view of development with every fancy
 
-from botany as well as biology.
+from botany as [[Well|well]] as biology.
 
 
 
@@ -168,11 +168,11 @@ to describe in detail.  For the vicar had been obliged to explain,
 
 on both occasions, in order to make his tale intelligible, that the
 
-front of the balcony was scaled from below by a titanic, tropical
+front of the balcony was scaled from below by a [[titanic]], tropical
 
 creeper, with ribbed and interlaced limbs and large, fantastic
 
-leaves.  It is not altogether an exaggeration to say that the
+[[Leaves|leaves]].  It is not altogether an exaggeration to say that the
 
 creeper was the principal character in the story.
 
@@ -180,21 +180,21 @@ creeper was the principal character in the story.
 
 "This business happened during the Great War," explained the
 
-clergyman, "when my daughter and I were living in my house at
+clergyman, "when my daughter and I were living in my [[house]] at
 
 Hanging Burgess.  But the two houses on each side of us were empty,
 
-due to the drainage of human material common at the time.  At
+due to the drainage of human material common at the [[Time|time]].  At
 
 least, they were both empty for a considerable period, though they
 
-were handsome houses with large gardens, sloping down to the river.
+were handsome houses with large gardens, sloping down to the [[River|river]].
 
 Then my friend Dr. Green came down to be my next-door neighbour and
 
 prosecute his scientific researches in a quiet place.  He was
 
-writing a book, you know, on the domestication of animals; dogs and
+writing a book, you know, on the domestication of [[Animals|animals]]; [[dogs]] and
 
 cats and pet marmosets and monkeys, and so on; and my daughter, who
 
@@ -202,21 +202,21 @@ is interested in such pets, helped him a little with his work.
 
 
 
-"It is a happy time to look back upon, for us who were old cronies;
+"It is a happy [[Time|time]] to look back upon, for us who were old cronies;
 
-perhaps because it was a quiet time.
-
-
-
-"And then our solitude was broken, as it seemed by accident, and
-
-all the trouble and tragedy began.
+perhaps because it was a quiet [[Time|time]].
 
 
 
-"First of all, a young artist of the name of Albert Ayres rented
+"And then our [[Solitude|solitude]] was broken, as it seemed by accident, and
 
-the house next door, though he seemed to want it mostly for a base
+all the trouble and [[Tragedy|tragedy]] began.
+
+
+
+"First of all, a young [[Artist|artist]] of the name of Albert Ayres rented
+
+the [[house]] next door, though he seemed to want it mostly for a base
 
 in which to leave his baggage, for he was wandering over the
 
@@ -228,13 +228,13 @@ straight away next morning on one of his sketching tours.  I mean
 
 that we cannot, in any case, actually prove what became of him.
 
-Unfortunately, I know only too well what became of him.
+Unfortunately, I know only too [[Well|well]] what became of him.
 
 
 
 "He was an interesting individual; perhaps a little too like the
 
-old notion of an artist; the sort one can hardly call either
+old notion of an [[Artist|artist]]; the sort one can hardly call either
 
 carelessly or carefully picturesque; with a halo of yellow hair
 
@@ -248,7 +248,7 @@ relation to the war.  He had been invalided out, and what he was
 
 doing was a necessary job and not a funk-hole; and, at the moment,
 
-he was enjoying a short and very well-earned holiday.
+he was enjoying a short and very [[Well|well]]-earned holiday.
 
 
 
@@ -256,4 +256,4 @@ he was enjoying a short and very well-earned holiday.
 
 subsequent quarrel, even in the last, blackest days of hatred, and,
 
-I hope, of madness, which ended in murder, the Captain never
+I [[Hope|hope]], of [[Madness|madness]], which ended in murder, the Captain never

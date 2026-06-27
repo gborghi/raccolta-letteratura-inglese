@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE TYRANNY OF TRUSTS (part 6)"
+title: "[[Sanity]] — THE TYRANNY OF TRUSTS (part 6)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -36,7 +36,7 @@ all men into employers and employed.  I do not mean, of course,
 that this little legal alteration is the only one I have
 to propose; I mention it first because it is the most obvious.
 But I mention it also because it illustrates very clearly what I mean
-by the two stages:  the nature of the negative and positive reform.
+by the two stages:  the [[Nature|nature]] of the negative and positive [[Reform|reform]].
 If little shops began to gain custom and big shops began to lose it,
 it would mean two things, both indeed preliminary but both practical.
 It would mean that the mere centripetal rush was slowed down,
@@ -44,16 +44,16 @@ if not stopped, and might at last change to a centrifugal movement.
 And it would mean that there were a number of new citizens in the State to
 whom all the ordinary Socialist or servile arguments were inapplicable.
 Now when you have got your considerable sprinkling of small proprietors,
-of men with the psychology and philosophy of small property,
+of men with the psychology and [[philosophy]] of small property,
 then you can begin to talk to them about something more like a just
 general settlement upon their own lines; something more like a land
 fit for Christians to live in.  You can make them understand, as you
-cannot make plutocrats or proletarians understand, why the machine
+cannot make plutocrats or proletarians understand, why the [[Machine|machine]]
 must not exist save as the servant of the man, why the things we
 produce ourselves are precious like our own children, and why we can
 pay too dearly for the possession of luxury by the loss of liberty.
 If bodies of men only begin to be detached from the servile settlements,
-they will begin to form the body of our public opinion.
+they will begin to form the [[Body|body]] of our public opinion.
 Now there are a large number of other advantages that could be
 given to the small man, which can be considered in their place.
 In all of them I presuppose a deliberate policy of favouring
@@ -61,7 +61,7 @@ the small man.  But in the primary example here given we
 can hardly even say that there is any question of favour.
 You make a law that slave-owners shall free their slaves for a day:
 the man who has no slaves is outside the thing entirely; he does
-not come under it in law, because he does not come into it in logic.
+not come under it in law, because he does not come into it in [[logic]].
 He has been deliberately dragged into it; not in order that all
 slaves shall be free for a day, but in order that all free men
 shall be slaves for a lifetime.  But while some of the expedients
@@ -73,7 +73,7 @@ once more exist; and wherever they exist they count.  There are many
 other ways, which can be briefly described, by which the break-up
 of property can be encouraged on the legal and legislative side.
 I shall deal with some of them later, and especially with the real
-responsibility which Government might reasonably assume in a
+responsibility which [[government|Government]] might reasonably assume in a
 financial and economic condition which is becoming quite ludicrous.
 From the standpoint of any sane person, in any other society,
 the present problem of capitalist concentration is not only a question
@@ -81,9 +81,9 @@ of law but of criminal law, not to mention criminal lunacy.
 
 Of that monstrous megalomania of the big shops, with their blatant
 advertisements and stupid standardization, something is said elsewhere.
-But it may be well to add, in the matter of the small shops,
+But it may be [[Well|well]] to add, in the matter of the small shops,
 that when once they exist they generally have an organization of
-their own which is much more self-respecting and much less vulgar.
+their own which is much more [[Self|self]]-respecting and much less vulgar.
 This voluntary organization, as every one knows, is called a Guild;
 and it is perfectly capable of doing everything that really
 needs to be done in the way of holidays and popular festivals.
@@ -98,10 +98,10 @@ in the newspapers, that the confederation in question refuses
 to "make medical discoveries accessible to the general public."
 When we consider the wild and unbalanced nonsense that is made
 accessible to the general public by the public press, perhaps we have
-some reason to doubt whether our souls and bodies are not at least
+some reason to [[Doubt|doubt]] whether our souls and bodies are not at least
 as safe in the hands of a Guild as they are likely to be in the hands
 of a Trust.  For the moment the main point is that small shops
-can be governed even if they are not bossed by the Government.
+can be governed even if they are not bossed by the [[government|Government]].
 Horrible as this may seem to the democratic idealists of the day,
 they can be governed by themselves.
 
@@ -113,9 +113,9 @@ We have most of us met in literature, and even in life, a certain sort
 of old gentleman; he is very often represented by an old clergyman.
 He is the sort of man who has a horror of Socialists without any
 very definite idea of what they are.  He is the man of whom men
-say that he means well; by which they mean that he means nothing.
+say that he means [[Well|well]]; by which they mean that he means nothing.
 But this view is a little unjust to this social type.
-He is really something more than well-meaning; we might even go
+He is really something more than [[Well|well]]-meaning; we might even go
 so far as to say that he would probably be right-thinking,
 if he ever thought.  His principles would probably be sound enough
 if they were really applied; it is his practical ignorance that
@@ -124,15 +124,15 @@ He might really be right, only he has no notion of what is wrong.
 Those who have sat under this old gentleman know that he is in
 the habit of softening his stern repudiation of the mysterious
 Socialists by saying that, of course, it is a Christian duty to use
-our wealth well, to remember that property is a trust committed
-to us by Providence for the good of others as well as ourselves,
+our wealth [[Well|well]], to remember that property is a trust committed
+to us by [[Providence]] for the good of others as [[Well|well]] as ourselves,
 and even (unless the old gentleman is old enough to be a Modernist)
 that it is just possible that we may some day be asked a question
 or two about the abuse of such a trust.  Now all this is perfectly true,
 so far as it goes, but it happens to illustrate in a rather curious
-way the queer and even uncanny innocence of the old gentleman.
+way the queer and even [[Uncanny|uncanny]] [[innocence]] of the old gentleman.
 The very phrase that he uses, when he says that property is a
-trust committed to us by Providence, is a phrase which takes on,
+trust committed to us by [[Providence]], is a phrase which takes on,
 when it is uttered to the world around him, the character of an awful
 and appalling pun.  His pathetic little sentence returns in a hundred
 howling echoes, repeating it again and again like the laughter

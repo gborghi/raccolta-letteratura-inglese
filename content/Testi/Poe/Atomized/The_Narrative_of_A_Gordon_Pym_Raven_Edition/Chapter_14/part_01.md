@@ -24,11 +24,11 @@ CHAPTER 14
 
       and eighty tons burden. She was unusually sharp in the bows, and
 
-      on a wind, in moderate weather, the fastest sailer I have ever
+      on a [[Wind|wind]], in moderate weather, the fastest sailer I have ever
 
       seen. Her qualities, however, as a rough sea-boat, were not so
 
-      good, and her draught of water was by far too great for the trade
+      good, and her draught of [[Water|water]] was by far too great for the trade
 
       to which she was destined. For this peculiar service, a larger
 
@@ -40,11 +40,11 @@ CHAPTER 14
 
       different construction from the usual South Sea ships. It is
 
-      absolutely necessary that she should be well armed. She should
+      absolutely necessary that she should be [[Well|well]] armed. She should
 
       have, say ten or twelve twelve-pound carronades, and two or three
 
-      long twelves, with brass blunderbusses, and water-tight
+      long twelves, with brass blunderbusses, and [[Water|water]]-tight
 
       arm-chests for each top. Her anchors and cables should be of far
 
@@ -58,7 +58,7 @@ CHAPTER 14
 
       seamen, besides the captain and mate, but she was not altogether
 
-      as well armed or otherwise equipped, as a navigator acquainted
+      as [[Well|well]] armed or otherwise equipped, as a navigator acquainted
 
       with the difficulties and dangers of the trade could have
 
@@ -104,13 +104,13 @@ CHAPTER 14
 
       and steered southwest, stretching over toward the coast of
 
-      Brazil, so as to cross the equator between the meridians of
+      Brazil, so as to [[Cross|cross]] the equator between the meridians of
 
       twenty-eight and thirty degrees west longitude. This is the
 
       course usually taken by vessels bound from Europe to the Cape of
 
-      Good Hope, or by that route to the East Indies. By proceeding
+      Good [[Hope]], or by that route to the East Indies. By proceeding
 
       thus they avoid the calms and strong contrary currents which
 
@@ -136,7 +136,7 @@ CHAPTER 14
 
       distressed situation demanded. In about a fortnight, during which
 
-      time we continued steering to the southeast, with gentle breezes
+      [[Time|time]] we continued steering to the southeast, with gentle breezes
 
       and fine weather, both Peters and myself recovered entirely from
 
@@ -162,9 +162,9 @@ CHAPTER 14
 
       remembered, but not the feelings which the incidents elicited at
 
-      the time of their occurrence. I only know, that when they did
+      the [[Time|time]] of their occurrence. I only know, that when they did
 
-      occur, I then thought human nature could sustain nothing more of
+      occur, I then thought human [[Nature|nature]] could sustain nothing more of
 
       agony.
 
@@ -180,7 +180,7 @@ CHAPTER 14
 
       found south of the twenty-fifth parallel. On the sixteenth of
 
-      September, being in the vicinity of the Cape of Good Hope, the
+      September, being in the vicinity of the Cape of Good [[Hope]], the
 
       schooner encountered her first gale of any violence since leaving
 
@@ -194,10 +194,10 @@ CHAPTER 14
 
       of their most dangerous features is the instantaneous chopping
 
-      round of the wind, an occurrence almost certain to take place
+      round of the [[Wind|wind]], an occurrence almost certain to take place
 
       during the greatest force of the gale. A perfect hurricane will
 
       be blowing at one moment from the northward or northeast, and in
 
-      the next not a breath of wind will be felt in that direction,
+      the next not a breath of [[Wind|wind]] will be felt in that direction,

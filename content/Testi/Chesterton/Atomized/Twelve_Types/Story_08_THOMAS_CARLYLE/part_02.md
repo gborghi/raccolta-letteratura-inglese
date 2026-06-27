@@ -56,11 +56,11 @@ the nineteenth century held to be incontrovertible, and appealed
 
 directly to the very different class of matters which they knew to be
 
-true. He induced men to study less the truth of their reasoning, and
+true. He induced men to study less the [[Truth|truth]] of their reasoning, and
 
-more the truth of the assumptions upon which they reasoned. Even where
+more the [[Truth|truth]] of the assumptions upon which they reasoned. Even where
 
-his view was not the highest truth, it was always a refreshing and
+his view was not the highest [[Truth|truth]], it was always a refreshing and
 
 beneficent heresy. He denied every one of the postulates upon which the
 
@@ -80,13 +80,13 @@ He denied every type and species of prop or association or support which
 
 threw the responsibility upon civilisation or society, or anything but
 
-the individual conscience. He has often been called a prophet. The real
+the individual [[Conscience|conscience]]. He has often been called a [[Prophet|prophet]]. The real
 
-ground of the truth of this phrase is often neglected. Since the last
+ground of the [[Truth|truth]] of this phrase is often neglected. Since the last
 
-era of purely religious literature, the era of English Puritanism, there
+era of purely religious literature, the era of English [[Puritanism]], there
 
-has been no writer in whose eyes the soul stood so much alone.
+has been no writer in whose eyes the [[Soul|soul]] stood so much [[Alone|alone]].
 
 
 
@@ -110,13 +110,13 @@ ironical sanities. Philosophers might abolish kings a hundred times
 
 over, he maintained, they could not alter the fact that every man and
 
-woman does choose a king and repudiate all the pride of citizenship for
+woman does choose a [[King|king]] and repudiate all the [[Pride|pride]] of citizenship for
 
-the exultation of humility. If inequality of this kind was a weakness,
+the exultation of [[Humility|humility]]. If inequality of this kind was a weakness,
 
 it was a weakness bound up with the very strength of the universe.
 
-About hero worship, indeed, few critics have done the smallest justice
+About [[Hero|hero]] worship, indeed, few critics have done the smallest justice
 
 to Carlyle. Misled by those hasty and choleric passages in which he
 
@@ -124,29 +124,29 @@ sometimes expressed a preference for mere violence, passages which were
 
 a great deal more connected with his temperament than with his
 
-philosophy, they have finally imbibed the notion that Carlyle's theory
+[[philosophy]], they have finally imbibed the notion that Carlyle's theory
 
-of hero worship was a theory of terrified submission to stern and
+of [[Hero|hero]] worship was a theory of terrified submission to stern and
 
 arrogant men. As a matter of fact, Carlyle is really inhumane about some
 
-questions, but he is never inhumane about hero worship. His view is not
+questions, but he is never inhumane about [[Hero|hero]] worship. His view is not
 
-that human nature is so vulgar and silly a thing that it must be guided
+that human [[Nature|nature]] is so vulgar and silly a thing that it must be guided
 
-and driven; it is, on the contrary, that human nature is so chivalrous
+and driven; it is, on the contrary, that human [[Nature|nature]] is so chivalrous
 
 and fundamentally magnanimous a thing that even the meanest have it in
 
-them to love a leader more than themselves, and to prefer loyalty to
+them to [[Love|love]] a leader more than themselves, and to prefer loyalty to
 
-rebellion. When he speaks of this trait in human nature Carlyle's tone
+rebellion. When he speaks of this trait in human [[Nature|nature]] Carlyle's tone
 
 invariably softens. We feel that for the moment he is kindled with
 
-admiration of mankind, and almost reaches the verge of Christianity.
+admiration of mankind, and almost reaches the verge of [[Christianity]].
 
-Whatever else was acid and captious about Carlyle's utterances, his hero
+Whatever else was acid and captious about Carlyle's utterances, his [[Hero|hero]]
 
 worship was not only humane, it was almost optimistic. He admired great
 
@@ -154,9 +154,9 @@ men primarily, and perhaps correctly, because he thought that they were
 
 more human than other men. The evil side of the influence of Carlyle and
 
-his religion of hero worship did not consist in the emotional worship of
+his religion of [[Hero|hero]] worship did not consist in the emotional worship of
 
-valour and success; that was a part of him, as, indeed, it is a part of
+valour and [[success]]; that was a part of him, as, indeed, it is a part of
 
 all healthy children. Where Carlyle really did harm was in the fact that
 
@@ -166,7 +166,7 @@ modern habit of what is vulgarly called 'Going the whole hog.' Often in
 
 matters of passion and conquest it is a singularly hoggish hog. This
 
-remarkable modern craze for making one's philosophy, religion, politics,
+remarkable modern craze for making one's [[philosophy]], religion, politics,
 
 and temper all of a piece, of seeking in all incidents for opportunities
 
@@ -174,11 +174,11 @@ to assert and reassert some favourite mental attitude, is a thing which
 
 existed comparatively little in other centuries. Solomon and Horace,
 
-Petrarch and Shakespeare were pessimists when they were melancholy, and
+Petrarch and Shakespeare were pessimists when they were [[Melancholy|melancholy]], and
 
 optimists when they were happy. But the optimist of to-day seems obliged
 
-to prove that gout and unrequited love make him dance with joy, and the
+to prove that gout and unrequited [[Love|love]] make him [[Dance|dance]] with joy, and the
 
 pessimist of to-day to prove that sunshine and a good supper convulse
 
@@ -188,8 +188,8 @@ mania for spiritual consistency. He wished to take the same view of the
 
 wars of the angels and of the paltriest riot at Donnybrook Fair. It was
 
-this species of insane logic which led him into his chief errors, never
+this species of insane [[logic]] which led him into his chief errors, never
 
 his natural enthusiasms. Let us take an example. Carlyle's defence of
 
-slavery is a thoroughly ridiculous thing, weak alike in argument and in
+[[Slavery|slavery]] is a thoroughly ridiculous thing, weak alike in argument and in

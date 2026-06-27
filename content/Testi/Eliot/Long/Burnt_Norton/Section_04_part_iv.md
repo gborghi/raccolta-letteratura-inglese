@@ -14,7 +14,7 @@ tags:
 
 
 IV  
-Time and the bell have buried the day,  
+[[Time]] and the bell have buried the day,  
 The black cloud carries the sun away.  
 Will the sunflower turn to us, will the clematis  
 Stray down, bend to us; tendril and spray  

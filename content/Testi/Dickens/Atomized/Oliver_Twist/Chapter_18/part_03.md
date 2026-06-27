@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 18 (part 3)"
+title: "[[Oliver Twist]] — Chapter 18 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -22,14 +22,14 @@ tickers—”
 don’t know what you mean.”
 
 “If you don’t take pocket-handkechers and watches,” said the Dodger,
-reducing his conversation to the level of Oliver’s capacity, “some
+reducing his conversation to the level of [[Oliver]]’s capacity, “some
 other cove will; so that the coves that lose ’em will be all the worse,
 and you’ll be all the worse, too, and nobody half a ha’p’orth the
 better, except the chaps wot gets them—and you’ve just as good a right
 to them as they have.”
 
 “To be sure, to be sure!” said the Jew, who had entered unseen by
-Oliver. “It all lies in a nutshell my dear; in a nutshell, take the
+[[Oliver]]. “It all lies in a nutshell my dear; in a nutshell, take the
 Dodger’s word for it. Ha! ha! ha! He understands the catechism of his
 trade.”
 
@@ -37,8 +37,8 @@ The old man rubbed his hands gleefully together, as he corroborated the
 Dodger’s reasoning in these terms; and chuckled with delight at his
 pupil’s proficiency.
 
-The conversation proceeded no farther at this time, for the Jew had
-returned home accompanied by Miss Betsy, and a gentleman whom Oliver
+The conversation proceeded no farther at this [[Time|time]], for the Jew had
+returned [[Home|home]] accompanied by Miss Betsy, and a gentleman whom [[Oliver]]
 had never seen before, but who was accosted by the Dodger as Tom
 Chitling; and who, having lingered on the stairs to exchange a few
 gallantries with the lady, now made his appearance.
@@ -49,9 +49,9 @@ deportment towards that young gentleman which seemed to indicate that
 he felt himself conscious of a slight inferiority in point of genius
 and professional aquirements. He had small twinkling eyes, and a
 pock-marked face; wore a fur cap, a dark corduroy jacket, greasy
-fustian trousers, and an apron. His wardrobe was, in truth, rather out
+fustian trousers, and an apron. His wardrobe was, in [[Truth|truth]], rather out
 of repair; but he excused himself to the company by stating that his
-“time” was only out an hour before; and that, in consequence of having
+“[[Time|time]]” was only out an hour before; and that, in consequence of having
 worn the regimentals for six weeks past, he had not been able to bestow
 any attention on his private clothes. Mr. Chitling added, with strong
 marks of irritation, that the new way of fumigating clothes up yonder
@@ -63,45 +63,45 @@ that he had not touched a drop of anything for forty-two moral long
 hard-working days; and that he “wished he might be busted if he warn’t
 as dry as a lime-basket.”
 
-“Where do you think the gentleman has come from, Oliver?” inquired the
+“Where do you think the gentleman has come from, [[Oliver]]?” inquired the
 Jew, with a grin, as the other boys put a bottle of spirits on the
 table.
 
-“I—I—don’t know, sir,” replied Oliver.
+“I—I—don’t know, sir,” replied [[Oliver]].
 
 “Who’s that?” inquired Tom Chitling, casting a contemptuous look at
-Oliver.
+[[Oliver]].
 
 “A young friend of mine, my dear,” replied the Jew.
 
-“He’s in luck, then,” said the young man, with a meaning look at Fagin.
+“He’s in luck, then,” said the young man, with a meaning look at [[Fagin]].
 “Never mind where I came from, young ’un; you’ll find your way there,
-soon enough, I’ll bet a crown!”
+soon enough, I’ll bet a [[Crown|crown]]!”
 
 At this sally, the boys laughed. After some more jokes on the same
-subject, they exchanged a few short whispers with Fagin; and withdrew.
+subject, they exchanged a few short whispers with [[Fagin]]; and withdrew.
 
-After some words apart between the last comer and Fagin, they drew
-their chairs towards the fire; and the Jew, telling Oliver to come and
+After some words apart between the last comer and [[Fagin]], they drew
+their chairs towards the [[Fire|fire]]; and the Jew, telling [[Oliver]] to come and
 sit by him, led the conversation to the topics most calculated to
 interest his hearers. These were, the great advantages of the trade,
 the proficiency of the Dodger, the amiability of Charley Bates, and the
 liberality of the Jew himself. At length these subjects displayed signs
 of being thoroughly exhausted; and Mr. Chitling did the same: for the
-house of correction becomes fatiguing after a week or two. Miss Betsy
+[[house]] of correction becomes fatiguing after a week or two. Miss Betsy
 accordingly withdrew; and left the party to their repose.
 
-From this day, Oliver was seldom left alone; but was placed in almost
+From this day, [[Oliver]] was seldom left [[Alone|alone]]; but was placed in almost
 constant communication with the two boys, who played the old game with
-the Jew every day: whether for their own improvement or Oliver’s, Mr.
-Fagin best knew. At other times the old man would tell them stories of
+the Jew every day: whether for their own improvement or [[Oliver]]’s, Mr.
+[[Fagin]] best knew. At other times the old man would tell them stories of
 robberies he had committed in his younger days: mixed up with so much
-that was droll and curious, that Oliver could not help laughing
+that was droll and curious, that [[Oliver]] could not help laughing
 heartily, and showing that he was amused in spite of all his better
 feelings.
 
 In short, the wily old Jew had the boy in his toils. Having prepared
-his mind, by solitude and gloom, to prefer any society to the
+his mind, by [[Solitude|solitude]] and gloom, to prefer any society to the
 companionship of his own sad thoughts in such a dreary place, he was
-now slowly instilling into his soul the poison which he hoped would
+now slowly instilling into his [[Soul|soul]] the [[Poison|poison]] which he hoped would
 blacken it, and change its hue for ever.

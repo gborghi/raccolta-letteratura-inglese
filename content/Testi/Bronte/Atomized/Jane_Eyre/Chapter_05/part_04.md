@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 5 (part 4)"
+title: "[[Jane Eyre]] — Chapter 5 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -15,7 +15,7 @@ tags:
 
 
 “You had this morning a breakfast which you could not eat; you must be
-hungry:—I have ordered that a lunch of bread and cheese shall be served
+hungry:—I have ordered that a lunch of bread and [[cheese]] shall be served
 to all.”
 
 The teachers looked at her with a sort of surprise.
@@ -23,19 +23,19 @@ The teachers looked at her with a sort of surprise.
 “It is to be done on my responsibility,” she added, in an explanatory
 tone to them, and immediately afterwards left the room.
 
-The bread and cheese was presently brought in and distributed, to the
+The bread and [[cheese]] was presently brought in and distributed, to the
 high delight and refreshment of the whole school. The order was now
-given “To the garden!” Each put on a coarse straw bonnet, with strings
+given “To the [[Garden|garden]]!” Each put on a coarse straw bonnet, with strings
 of coloured calico, and a cloak of grey frieze. I was similarly
 equipped, and, following the stream, I made my way into the open air.
 
-The garden was a wide inclosure, surrounded with walls so high as to
+The [[Garden|garden]] was a wide inclosure, surrounded with walls so high as to
 exclude every glimpse of prospect; a covered verandah ran down one
 side, and broad walks bordered a middle space divided into scores of
 little beds: these beds were assigned as gardens for the pupils to
-cultivate, and each bed had an owner. When full of flowers they would
+cultivate, and each bed had an owner. When full of [[Flowers|flowers]] they would
 doubtless look pretty; but now, at the latter end of January, all was
-wintry blight and brown decay. I shuddered as I stood and looked round
+wintry blight and brown [[Decay|decay]]. I shuddered as I stood and looked round
 me: it was an inclement day for outdoor exercise; not positively rainy,
 but darkened by a drizzling yellow fog; all under foot was still
 soaking wet with the floods of yesterday. The stronger among the girls
@@ -54,11 +54,11 @@ thinking. My reflections were too undefined and fragmentary to merit
 record: I hardly yet knew where I was; Gateshead and my past life
 seemed floated away to an immeasurable distance; the present was vague
 and strange, and of the future I could form no conjecture. I looked
-round the convent-like garden, and then up at the house—a large
+round the convent-like [[Garden|garden]], and then up at the [[house]]—a large
 building, half of which seemed grey and old, the other half quite new.
 The new part, containing the schoolroom and dormitory, was lit by
 mullioned and latticed windows, which gave it a church-like aspect; a
-stone tablet over the door bore this inscription:—
+stone tablet over the door bore this [[Inscription|inscription]]:—
 
 LOWOOD INSTITUTION.
 
@@ -88,7 +88,7 @@ which she examined me.
 
 “What is it about?” I continued. I hardly know where I found the
 hardihood thus to open a conversation with a stranger; the step was
-contrary to my nature and habits: but I think her occupation touched a
+contrary to my [[Nature|nature]] and habits: but I think her occupation touched a
 chord of sympathy somewhere; for I too liked reading, though of a
 frivolous and childish kind; I could not digest or comprehend the
 serious or substantial.
@@ -105,25 +105,25 @@ relapse into her former studious mood: again I ventured to disturb her—
 “Can you tell me what the writing on that stone over the door means?
 What is Lowood Institution?”
 
-“This house where you are come to live.”
+“This [[house]] where you are come to live.”
 
 “And why do they call it Institution? Is it in any way different from
 other schools?”
 
-“It is partly a charity-school: you and I, and all the rest of us, are
-charity-children. I suppose you are an orphan: are not either your
+“It is partly a [[Charity|charity]]-school: you and I, and all the rest of us, are
+[[Charity|charity]]-children. I suppose you are an [[Orphan|orphan]]: are not either your
 father or your mother dead?”
 
 “Both died before I can remember.”
 
-“Well, all the girls here have lost either one or both parents, and
+“[[Well]], all the girls here have lost either one or both parents, and
 this is called an institution for educating orphans.”
 
 “Do we pay no money? Do they keep us for nothing?”
 
 “We pay, or our friends pay, fifteen pounds a year for each.”
 
-“Then why do they call us charity-children?”
+“Then why do they call us [[Charity|charity]]-children?”
 
 “Because fifteen pounds is not enough for board and teaching, and the
 deficiency is supplied by subscription.”
@@ -131,19 +131,19 @@ deficiency is supplied by subscription.”
 “Who subscribes?”
 
 “Different benevolent-minded ladies and gentlemen in this neighbourhood
-and in London.”
+and in [[London]].”
 
 “Who was Naomi Brocklehurst?”
 
-“The lady who built the new part of this house as that tablet records,
+“The lady who built the new part of this [[house]] as that tablet records,
 and whose son overlooks and directs everything here.”
 
 “Why?”
 
 “Because he is treasurer and manager of the establishment.”
 
-“Then this house does not belong to that tall lady who wears a watch,
-and who said we were to have some bread and cheese?”
+“Then this [[house]] does not belong to that tall lady who wears a watch,
+and who said we were to have some bread and [[cheese]]?”
 
 “To Miss Temple? Oh, no! I wish it did: she has to answer to Mr.
 Brocklehurst for all she does. Mr. Brocklehurst buys all our food and

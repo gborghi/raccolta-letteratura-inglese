@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 6)"
+title: "[[Martin Chuzzlewit]] — Chapter 39: THIRTY NINE (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -20,7 +20,7 @@ opened the door, which yielded to his hand very unwillingly, and with a
 horribly discordant sound. He took the key out, when he had done so, and
 gave it to Tom.
 
-‘Aye, aye!’ said Mr Fips. ‘The dust lies rather thick here.’
+‘Aye, aye!’ said Mr Fips. ‘The [[Dust|dust]] lies rather thick here.’
 
 Truly, it did. Mr Fips might have gone so far as to say, very thick.
 It had accumulated everywhere; lay deep on everything, and in one part,
@@ -28,9 +28,9 @@ where a ray of sun shone through a crevice in the shutter and struck
 upon the opposite wall, it went twirling round and round, like a
 gigantic squirrel-cage.
 
-Dust was the only thing in the place that had any motion about it. When
+[[Dust]] was the only thing in the place that had any motion about it. When
 their conductor admitted the light freely, and lifting up the heavy
-window-sash, let in the summer air, he showed the mouldering furniture,
+[[Window|window]]-sash, let in the [[Summer|summer]] air, he showed the mouldering furniture,
 discoloured wainscoting and ceiling, rusty stove, and ashy hearth, in
 all their inert neglect. Close to the door there stood a candlestick,
 with an extinguisher upon it; as if the last man who had been there
@@ -42,7 +42,7 @@ There were two rooms on that floor; and in the first or outer one a
 narrow staircase, leading to two more above. These last were fitted
 up as bed-chambers. Neither in them, nor in the rooms below, was any
 scarcity of convenient furniture observable, although the fittings
-were of a bygone fashion; but solitude and want of use seemed to have
+were of a bygone fashion; but [[Solitude|solitude]] and want of use seemed to have
 rendered it unfit for any purposes of comfort, and to have given it a
 grisly, haunted air.
 
@@ -71,7 +71,7 @@ for.
 
 ‘Oh!’ cried Mr Fips, pulling on his glove, ‘didn’t I? No, by-the-bye,
 I don’t think I did. Ah! I dare say he’ll be here soon. You will get on
-very well together, I have no doubt. I wish you success I am sure. You
+very [[Well|well]] together, I have no [[Doubt|doubt]]. I wish you [[success]] I am sure. You
 won’t forget to shut the door? It’ll lock of itself if you slam it.
 Half-past nine, you know. Let us say from half-past nine to four, or
 half-past four, or thereabouts; one day, perhaps, a little earlier,
@@ -104,7 +104,7 @@ give John an inch that way and he was sure to take several ells, being
 a jovial, good-tempered fellow, they looked about them more closely,
 groping among the lumber for any stray means of enlightenment that might
 turn up. But no scrap or shred of information could they find. The books
-were marked with a variety of owner’s names, having, no doubt, been
+were marked with a variety of owner’s names, having, no [[Doubt|doubt]], been
 bought at sales, and collected here and there at different times; but
 whether any one of these names belonged to Tom’s employer, and, if so,
 which of them, they had no means whatever of determining. It occurred to
@@ -126,11 +126,11 @@ a wig?’
 
 Tom, being in that state of mind in which any explanation is a great
 relief, adopted this last one (which indeed was quite as feasible as any
-other) readily, and said he had no doubt of it. Nor was his faith at all
+other) readily, and said he had no [[Doubt|doubt]] of it. Nor was his [[Faith|faith]] at all
 shaken by his having said exactly the same thing to each suggestion of
 his friend’s in turn, and being perfectly ready to say it again if he
 had any new solution to propose.
 
-As he had not, Tom drew down the window-sash, and folded the shutter;
+As he had not, Tom drew down the [[Window|window]]-sash, and folded the shutter;
 and they left the rooms. He closed the door heavily, as Mr Fips had
 desired him; tried it, found it all safe, and put the key in his pocket.

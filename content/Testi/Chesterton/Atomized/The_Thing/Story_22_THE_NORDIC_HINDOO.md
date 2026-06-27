@@ -37,7 +37,7 @@ It might run something like this:
 2.  To what provinces did it generally refer?
 
 3.  If Athens, Antioch, Rome and Jerusalem were provincial towns,
-what was their Metropolitan city?
+what was their Metropolitan [[City|city]]?
 
 4.  What reasons are there for supposing that Birmingham occupied
 this Metropolitan position from the earliest times?
@@ -45,7 +45,7 @@ this Metropolitan position from the earliest times?
 5.  Give a short account of the conquest of Southern Europe and
 the Near East by the Emperors of Birmingham.
 
-6.  At what date did the Papacy rebel against the Diocese of Birmingham?
+6.  At what date did the Papacy [[Rebel|rebel]] against the Diocese of Birmingham?
 
 7.  Explain the old proverb, "All roads lead to Birmingham."
 
@@ -57,7 +57,7 @@ than that of the Romans?
 
 10.  When will the Bishop of Birmingham go touring in the Provinces?
 
-Answers must be sent in before the time of the Disestablishment
+Answers must be sent in before the [[Time|time]] of the Disestablishment
 of the Church of England, and priests are forbidden to give their
 crafty assistance to the candidates.
 
@@ -67,7 +67,7 @@ It was rendered even more extraordinary, of course,
 by the further remarks on the subject of Chinamen and Hindoos.
 Now we know all about the Nordic Man, so far as anybody can know
 anything about a person who does not exist.  We know, for instance,
-that up to the autumn of 1914 he used to be called the Teutonic Man.
+that up to the [[Autumn|autumn]] of 1914 he used to be called the Teutonic Man.
 Dean Inge used to be frightfully fond of him in those days;
 even fonder than he is now.  He once quoted lavishly, and still
 quotes occasionally, from that great and glorious English patriot,
@@ -83,7 +83,7 @@ the sun, like the kings after Napoleon's fall in Mrs. Browning's poem.
 Like several other people, he changed his name during the War.
 He is now entirely Nordic and not at all Teutonic.  And, as it is,
 and always was, his whole profession in life to praise himself
-and exalt the virtue of pride, so much undervalued by Christians,
+and exalt the virtue of [[Pride|pride]], so much undervalued by Christians,
 it is perfectly natural that he should despise "Dagos"
 and talk about the lower culture of lesser breeds without the law.
 It is natural that he should insist that all Spaniards are cowardly
@@ -105,7 +105,7 @@ Why are we now told to learn from people who are even less
 light-haired and even further off from the Arctic Circle?  Are they
 not a lower race, conquered by the earth-shaking Imperialism
 of Birmingham?  Are they not a lesser breed without the law?
-Are we to go to Asia to escape from the folklore and magic?
+Are we to go to Asia to escape from the folklore and [[Magic|magic]]?
 Do the dear Indians never exhibit any of the errors that deface
 the deplorable Romans?  If the Latins are idolaters, do the Indians
 never have idols?  If Southern Europe is attached to mythology,
@@ -113,16 +113,16 @@ is Southern Asia a world of pure reason that has never been defaced
 by a myth?
 
 The explanation, the only explanation that I can suggest, is the one I
-have already suggested; and it is in a simple word; the word DESPAIR.
+have already suggested; and it is in a simple word; the word [[Despair|DESPAIR]].
 Everybody knows that when a military campaign begins to fail there
-is an inevitable and even pardonable temptation to every military
+is an inevitable and even pardonable [[Temptation|temptation]] to every military
 commander on the defeated side to lower the standard of military fitness
 and collect soldiers from anywhere, whatever be their military quality.
 This has happened again and again even among the white races;
 something similar is constantly happening in their relation to the
 other races.  So both the Dutch and the English in the South African
 quarrel have been continually tempted to make use of the natives
-for war as well as labour.  France has been blamed for relying on
+for war as [[Well|well]] as labour.  France has been blamed for relying on
 dark troops; though I never could see why she should be blamed by us,
 who drew dark troops from all over our own Empire.
 
@@ -133,10 +133,10 @@ to the Hindoos.  He has reached the position in which he will accept
 reinforcements from anywhere except Rome.  Rome must be provincial;
 even if it is the only place in the world that is provincial.
 Rome must be barbaric; if all the barbarians of the earth are called
-up to sack the city.
+up to sack the [[City|city]].
 
 And when we have reached that point, it is not difficult to see
-that the very invasion and spoliation proclaim it to be a Holy City;
+that the very invasion and spoliation proclaim it to be a Holy [[City]];
 unique and universal and towering over the tribes of men.
 
 
@@ -146,10 +146,10 @@ A SPIRITUALIST LOOKS BACK
 
 WE hear much about new religions; many of them based
 on the very latest novelties of Buddha and Pythagoras.
-But I have come to a conclusion which I fear will offend still more.
+But I have come to a conclusion which I [[Fear|fear]] will offend still more.
 I fancy that all modern religions are counter-religions; attacks on,
-or alternative to the Catholic Church.  They bear no likeness to
-the natural pagan speculations that existed before the Catholic Church,
+or alternative to the [[Catholic Church]].  They bear no likeness to
+the natural pagan speculations that existed before the [[Catholic Church]],
 or would exist if it had never existed.  The attitude of Dean Inge
 is certainly much more like that of Plotinus than that of Plato.
 But it is even more like that of Porphyry than that of Plotinus.
@@ -162,7 +162,7 @@ to insist that the word PROTESTANT had an old meaning which was not
 merely negative.  And he has certainly fulfilled an old meaning
 that is positive; if the word Protestant means a man who doth
 protest too much.  He is so very anxious to explain what he thinks
-about the Catholic Church that he cannot keep it out of any article
+about the [[Catholic Church]] that he cannot keep it out of any article
 about M. Coue or Monkey Glands.
 
 The Dean stands by himself; and must be presumably described as
@@ -172,14 +172,14 @@ to go out into the wilderness to stake out their own Promised Land,
 like the Mormons, are eventually found to be as much a mere reaction
 against orthodoxy as the Modernists.  Their march towards the new Utopia
 is found to be only a rather longer and more elaborate manoeuvre
-of one of the armies besieging the Holy City.  We imagined that these
+of one of the armies besieging the Holy [[City]].  We imagined that these
 new schismatics had finally gone off to pray; but we always find
 (a little while afterwards) that they have remained to scoff.
 They always come back to boo and riot in our churches when they
 have got tired of trying to build their own.
 
 One who thus reveals all that he does not know, and certainly ought
-to know, is Sir Arthur Conan Doyle.  He broke out the other day
+to know, is Sir [[arthur|Arthur]] Conan Doyle.  He broke out the other day
 into a diatribe, which was supposed to begin with the relations
 of his new religion to others, but which turned with incalculable
 rapidity into mere abuse of his old original family religion,
@@ -189,8 +189,8 @@ Perhaps he is right; and there is not.  But you would think
 a man fresh from founding a new religion might have a few
 new things to say about that; instead of old and negative
 things to say about something else.  But the special strictures
-of Sir Arthur Conan Doyle on Catholic orthodoxy had a certain
-very curious character, which alone makes them worth noting at all.
+of Sir [[arthur|Arthur]] Conan Doyle on Catholic orthodoxy had a certain
+very curious character, which [[Alone|alone]] makes them worth noting at all.
 In themselves they are almost indescribably stale and thin and shabby;
 and have been thrashed threadbare in a hundred controversies.
 But the odd thing which I want to remark about them is this;
@@ -207,7 +207,7 @@ For instance, he says, exactly as did our Calvinist great-grandmother,
 that the Confessional is a most indelicate institution; and that
 it is highly improper for a young lady of correct deportment,
 in the matter of prunes and prisms, to mention such things as sins
-to a strange gentleman who is a celibate.  Well, of course,
+to a strange gentleman who is a celibate.  [[Well]], of course,
 all Catholics know the answer to that; and hundreds of Catholics
 have answered it to Protestants who had some sort of right or reason
 to ask it.
@@ -217,9 +217,9 @@ detail in confessing to a priest as in confessing to a doctor.
 And the joke of it is that the Protestant great-grandmother,
 who objected to the gentleman priest, would have been
 the very first to object to a lady doctor.  What matters in
-the confessional is the moral guilt and not the material details.
+the confessional is the moral [[Guilt|guilt]] and not the material details.
 But the material details are everything in medicine, even for
-the most respectable and responsible physician, let alone all
+the most respectable and responsible physician, let [[Alone|alone]] all
 the anarchical quacks who have been let loose to hear confessions
 in the name of Psychoanalysis or Hypnotic Cures.  But though we all
 know the old and obvious answers, what I find startling is this:
@@ -233,15 +233,15 @@ She may sit side by side with him on a jury and discuss the details
 of the foulest and most perverted wickedness in the world,
 perhaps with a man's life hanging on the minuteness of the detail.
 She may read in novels and newspapers sins she has never
-heard of, let alone sins she is likely to commit or confess.
+heard of, let [[Alone|alone]] sins she is likely to commit or confess.
 She must not whisper to an impersonal presence behind a grating
 the most abstract allusion to the things that she hears shouted
 and cat-called in all the theatrical art and social conversation
 of the day.
 
-Sir Arthur Conan Doyle must know as well as I do that modesty
+Sir [[arthur|Arthur]] Conan Doyle must know as [[Well|well]] as I do that modesty
 of that sort is not being regarded at all by the modern world;
-and that nobody dreams of attempting to safeguard it so strictly as it
+and that nobody [[Dreams|dreams]] of attempting to safeguard it so strictly as it
 is safeguarded in Catholic conversation and Catholic confessions.
 We can say of Rome and Purity what Swinburne said, in another sense,
 about Rome and Liberty--"Who is against but all her men, and who
@@ -256,7 +256,7 @@ the only decent object in the landscape.
 
 I mean nothing flippant when I say that the only interesting thing
 about all this is its staleness.  I have no unfriendly feelings towards
-Sir Arthur Conan Doyle, to whom we all owe so much gratitude in the realm
+Sir [[arthur|Arthur]] Conan Doyle, to whom we all owe so much gratitude in the realm
 of literature and entertainment, and who often seems to me entirely
 right in his manner of defending Spiritualism against Materialism.
 But I do realize, even if he does not realize, that, at the back
@@ -276,27 +276,27 @@ remarks on the cult of the Blessed Virgin.  For I confess to a
 difficulty in remaining patient with blindness about that topic.
 But there are other parallel topics.
 
-He has some very innocent remarks about what he considers
-grotesque in the sacramental system; innocent, because apparently
-unconscious of what everybody else in the world considers grotesque
+He has some very [[Innocent|innocent]] remarks about what he considers
+[[Grotesque|grotesque]] in the sacramental system; [[Innocent|innocent]], because apparently
+unconscious of what everybody else in the world considers [[Grotesque|grotesque]]
 in the spiritualistic system.  If any Christian service was so
 conducted as to resemble a really successful seance, the world
-might well be excused for falling back on the word "grotesque,"
-a favourite word of Dr. Watson.  Indeed, we may well question whether
+might [[Well|well]] be excused for falling back on the word "[[Grotesque|grotesque]],"
+a favourite word of Dr. Watson.  Indeed, we may [[Well|well]] question whether
 the institution of the Red-Headed League or the episode of the Yellow Face
-at the window, or any of the fantasies of Mr. Sherlock Holmes,
+at the [[Window|window]], or any of the fantasies of Mr. Sherlock Holmes,
 were any more fantastic than some that have been submitted to us
-seriously enough by the school of Sir Arthur Conan Doyle.
+seriously enough by the school of Sir [[arthur|Arthur]] Conan Doyle.
 I do not say that this test of external extravagance ought
 to be final, or that no defence of such details could be made.
-But when Sir Arthur deliberately gibes at our ceremonies, we may
+But when Sir [[arthur|Arthur]] deliberately gibes at our ceremonies, we may
 at least be allowed to smile at his.  Suppose any Catholic rite
 before the altar consisted of binding a human being hand and foot
-with ropes; should we ever hear the last of the horrible survival
+with ropes; should we ever hear the last of the horrible [[Survival|survival]]
 of human sacrifice?  Suppose we declared that the priest went
 into a trance and that clouds of thick white stuff like cotton-wool
 came out of his mouth, as a manifestation of celestial grace;
-might not some of our critics be heard to murmur the word, "grotesque"?
+might not some of our critics be heard to murmur the word, "[[Grotesque|grotesque]]"?
 If we conducted a quiet little evening service in which a big brass
 trumpet careered about in the air and patted people on the head,
 caressed a lady with intimate gestures of affection, and generally
@@ -313,19 +313,19 @@ is driven to return upon himself, and to react against his origins,
 and to forget all else in making war upon his mother.
 
 The man of the modern religion does not quarrel with the modern world,
-as he well might, for its neglect of modesty.  He quarrels with
-the ancient mother, who is alone teaching it any modesty at all.
+as he [[Well|well]] might, for its neglect of modesty.  He quarrels with
+the ancient mother, who is [[Alone|alone]] teaching it any modesty at all.
 He does not devote himself to condemning the modern dances or
 the fashionable comedies for their vulgar and obvious indifference
-to dignity.  He brings his special charge of grotesque extravagance
+to dignity.  He brings his special charge of [[Grotesque|grotesque]] extravagance
 against the only ceremonial that really retains any dignity.
-It seems to him, somehow, more important that the Catholic Church
+It seems to him, somehow, more important that the [[Catholic Church]]
 should be, on the most minute point, open to misunderstanding,
-than that the whole world should go to the devil in a dance
-of death before his very eyes.  And he is quite right; at least,
+than that the whole world should go to the devil in a [[Dance|dance]]
+of [[Death|death]] before his very eyes.  And he is quite right; at least,
 the instinct of which this is a symbol is quite right.
 
-The world really pays the supreme compliment to the Catholic Church
+The world really pays the supreme compliment to the [[Catholic Church]]
 in being intolerant of her tolerating even the appearance
 of the evils which it tolerates in everything else.  A fierce
 light does indeed beat upon that throne and blacken every blot;
@@ -334,7 +334,7 @@ to be setting up new thrones or throwing new light are perpetually
 looking backwards at the original blaze if only to discover the blots.
 They have not really succeeded in getting out of the orbit
 of the system which they criticize.  They have not really found
-new stars; they are still pointing at alleged spots on the sun,
+new [[Stars|stars]]; they are still pointing at alleged spots on the sun,
 and thereby admitting that it is their native daylight and the centre
 of their solar system.
 

@@ -16,11 +16,11 @@ tags:
 
 You will note the utter chaos of terminology and definition,
 even in these few lines.  Some of us, to begin with, might hesitate
-to insist on the goodness of a mother who treated a child coldly.
+to insist on the goodness of a mother who treated a [[Child|child]] coldly.
 But what is meant by the mother being good, as distinct from her
 being moral?  What is meant by the mother's mysterious rival
 being immoral, as distinct from being wicked?  And what in
-the name of goodness (or morality) is meant by the mysterious
+the name of goodness (or [[morality]]) is meant by the mysterious
 word `even', which is reserved only for wickedness and for piety?
 The transference of these thoughts, from writer to reader,
 is a very negative transference indeed.  However, the writer,
@@ -32,15 +32,15 @@ be cold.  Revolt, we are told, sometimes leads to new ways of life,
 and it may be highly satisfactory that the boy should seek for the
 opposite of his mother.  But what is the opposite of your mother?
 As a point of logic, it seems rather subtle; nor does the logician
-here instructing us give us very much help.  `A rebel boy may,
+here instructing us give us very much help.  `A [[Rebel|rebel]] boy may,
 of course, become, like the proverbial minister's son, a good-for-naught
 or a crook; on the other hand, a boy like Balzac who hated his
 practical father, became a great novelist--his father's opposite.
 Or in a different way, Beethoven, whose father was a poor fiddler,
-a drunkard and ne'er-do-well, became one of the great composers of
+a drunkard and ne'er-do-[[Well|well]], became one of the great composers of
 the world, doggedly determined to protect his mother and be as unlike
 his father as possible.'  If that was his object, we can hardly say
-that he succeeded very well.  I am not quite sure what is the opposite
+that he succeeded very [[Well|well]].  I am not quite sure what is the opposite
 of a poor fiddler, but certainly it is not a great composer.
 There may be many a great composer who has been a poor fiddler,
 and many a poor fiddler who may yet be a great composer.
@@ -61,7 +61,7 @@ a great man.  Beethoven did not succeed because his father drank;
 it is much more likely that he was a composer for the same reason
 that made his father a fiddler.  These are only a few random examples
 of these random statements which are thrown about everywhere,
-that the people may learn Science from men who have never learnt Logic.
+that the people may learn Science from men who have never learnt [[logic|Logic]].
 Now that everybody is talking about the public being informed of this
 or that, is there any way of stopping the public being misinformed
 in this endless and exuberant fashion?
@@ -70,7 +70,7 @@ XXII.  On a Generally Accepted Mistake
 
 THE current cant, which is a cant against cant, has produced
 a crop of modern proverbs, or phrases, which everybody repeats
-for the hundredth time and nobody examines for the first time,
+for the hundredth [[Time|time]] and nobody examines for the first [[Time|time]],
 or they would instantly be found to be false.  A typical case is that
 which we have all heard again and again in some such form as this:
 `In every age people have thought their own time prosaic
@@ -88,7 +88,7 @@ has summarized the notion admirably in a poem about Romance being
 at all times actually in the present and apparently in the past--
 a poem beginning, I think:
 
-    `Farewell, Romance,' the cavemen cried,
+    `Farewell, [[Romance]],' the cavemen cried,
     With bone and flint he went away.
 
 I need hardly say that there is not a grain of anything remotely
@@ -102,40 +102,40 @@ said that society was degenerating through luxury or laxity,
 and many periods in which they were perfectly right in saying so.
 There have been some periods--not very many--in which men have
 been intensely interested in some special period of the past.
-So the men of the Renaissance vaguely regarded antiquity as a
+So the men of the [[Renaissance]] vaguely regarded antiquity as a
 heroic age.  But they did not regard their own as a prosaic age.
 Shakespeare might be thrilled by Plutarch's tales of great men
 in togas and tunics; but that did not prevent him from conceiving
-Hamlet as an ordinary Elizabethan gentleman, fencing with rapier
+[[Hamlet]] as an ordinary Elizabethan gentleman, fencing with rapier
 and dagger, wearing probably a ruff and almost certainly a beard.
-Every modern man, when he first heard of Hamlet in modern dress,
-felt a faint shiver of doubt; even if he was sympathetic,
+Every modern man, when he first heard of [[Hamlet]] in modern dress,
+felt a faint shiver of [[Doubt|doubt]]; even if he was sympathetic,
 he feared that it might be comic.  But Shakespeare probably
-did conceive Hamlet in modern dress--in his modern dress.
+did conceive [[Hamlet]] in modern dress--in his modern dress.
 And there is nothing to show that he thought it in the least comic.
 
-The truth is that no other age except the nineteenth century
+The [[Truth|truth]] is that no other age except the nineteenth century
 (and perhaps our little bit of the twentieth) ever did regard
 its own dress and habits as ugly and undignified.  The thing can
 be tested in a hundred ways, and one is even tolerably familiar.
 Sensational French artists, in the nineteenth century, deliberately
 and defiantly painted pictures from the Gospel in modern dress,
-with Christ standing among men in trousers and top-hats. It
+with [[Christ]] standing among men in trousers and top-hats. It
 was purposely done to `shock' the Salon; needless to say,
 it would have been far too shocking for the Royal Academy.
-Yet it was not the first time the thing had been done.
-It was only the first time it had been thought shocking.
+Yet it was not the first [[Time|time]] the thing had been done.
+It was only the first [[Time|time]] it had been thought shocking.
 There is not a single one of the previous epochs of Christian art,
 from the stiffest primitive Byzantine to the last realism of the Venetians
 or Dutch, when artists had not painted the Gospel scenes with the dress
-and habits of their own time.  It is not, in plain fact, a question of why
+and habits of their own [[Time|time]].  It is not, in plain fact, a question of why
 men think the present fashion ugly and the past fashion beautiful.
 It is a question of why they think this of trousers and top-hats,
 when they did not think it of trunk-hose or togas or tunics.
 Many subtle explanations might be suggested; but I incline myself
 to suspect that the dark secret can, after all, be stated more simply.
 Might I tentatively suggest that top-hats and trousers give us
-this uncanny impression of ugliness because they are ugly?
+this [[Uncanny|uncanny]] impression of ugliness because they are ugly?
 Might I suggest that the mercantile nineteenth century thought
 itself hideous because it was hideous?--and the perception did
-credit to its acumen and even to its humility.
+credit to its acumen and even to its [[Humility|humility]].

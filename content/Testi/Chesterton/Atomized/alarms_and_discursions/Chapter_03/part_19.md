@@ -14,21 +14,21 @@ tags:
 </nav>
 
 
-"All go to London?" repeated Pommard, with a blank stare.  "Why?"
+"All go to [[London]]?" repeated Pommard, with a blank stare.  "Why?"
 
-This time nobody answered, and Pommard had to attack again.
+This [[Time|time]] nobody answered, and Pommard had to attack again.
 
-"The spirit of aristocracy is essentially opposed to the greed
+"The spirit of aristocracy is essentially opposed to the [[Greed|greed]]
 of the industrial cities.  Yet in France there are actually
 one or two nobles so vile as to drive coal and gas trades,
 and drive them hard."  The Duke of Windsor looked at the carpet.
-The Duke of Aylesbury went and looked out of the window.
+The Duke of Aylesbury went and looked out of the [[Window|window]].
 At length the latter said:  "That's rather stiff, you know.
-One has to look after one's own business in town as well."
+One has to look after one's own business in town as [[Well|well]]."
 
 "Do not say it," cried the little Frenchman, starting up.
-"I tell you all Europe is one fight between business and honour.
-If we do not fight for honour, who will?  What other right have we
+"I tell you all Europe is one fight between business and [[Honour|honour]].
+If we do not fight for [[Honour|honour]], who will?  What other right have we
 poor two-legged sinners to titles and quartered shields except
 that we staggeringly support some idea of giving things which
 cannot be demanded and avoiding things which cannot be punished?
@@ -56,24 +56,24 @@ money-grubbers and adventurers whom gentlemen have no other business
 but to keep at bay.  I do not know what your people will do;
 but my people would kill you."
 
-Some seconds afterwards he had left the Duke's house, and some hours
+Some seconds afterwards he had left the Duke's [[house]], and some hours
 afterwards the Duke's estate.
 
 -/-
 
 The Glory of Grey
 
-I SUPPOSE that, taking this summer as a whole, people will not
-call it an appropriate time for praising the English climate.
+I SUPPOSE that, taking this [[Summer|summer]] as a whole, people will not
+call it an appropriate [[Time|time]] for praising the English climate.
 But for my part I will praise the English climate till I die--
 even if I die of the English climate.  There is no weather
 so good as English weather.  Nay, in a real sense there is no
 weather at all anywhere but in England.  In France you have much
-sun and some rain; in Italy you have hot winds and cold winds;
+sun and some rain; in [[Italy]] you have hot winds and cold winds;
 in Scotland and Ireland you have rain, either thick or thin;
-in America you have hells of heat and cold, and in the Tropics you have
+in [[america|America]] you have hells of heat and cold, and in the Tropics you have
 sunstrokes varied by thunderbolts.  But all these you have on a broad
-and brutal scale, and you settle down into contentment or despair.
+and brutal scale, and you settle down into contentment or [[Despair|despair]].
 Only in our own romantic country do you have the strictly romantic
 thing called Weather; beautiful and changing as a woman.
 The great English landscape painters (neglected now like everything
@@ -84,24 +84,24 @@ The Weather posed for Turner, and a deuce of a pose it was.
 This cannot truly be said of the greatest of their continental
 models or rivals.  Poussin and Claude painted objects,
 ancient cities or perfect Arcadian shepherds through a clear medium
-of the climate.  But in the English painters Weather is the hero;
-with Turner an Adelphi hero, taunting, flashing and fighting,
+of the climate.  But in the English painters Weather is the [[Hero|hero]];
+with Turner an Adelphi [[Hero|hero]], taunting, flashing and fighting,
 melodramatic but really magnificent.  The English climate,
-a tall and terrible protagonist, robed in rain and thunder and snow
+a tall and terrible protagonist, robed in rain and thunder and [[Snow|snow]]
 and sunlight, fills the whole canvas and the whole foreground.
 I admit the superiority of many other French things besides French art.
 But I will not yield an inch on the superiority of English weather and
 weather-painting. Why, the French have not even got a word for Weather:
 and you must ask for the weather in French as if you were asking
-for the time in English.
+for the [[Time|time]] in English.
 
 Then, again, variety of climate should always go with stability of abode.
-The weather in the desert is monotonous; and as a natural consequence
+The weather in the [[Desert|desert]] is monotonous; and as a natural consequence
 the Arabs wander about, hoping it may be different somewhere.
-But an Englishman's house is not only his castle; it is his fairy castle.
-Clouds and colours of every varied dawn and eve are perpetually
+But an Englishman's [[house]] is not only his [[Castle|castle]]; it is his fairy [[Castle|castle]].
+Clouds and colours of every varied [[Dawn|dawn]] and eve are perpetually
 touching and turning it from clay to gold, or from gold to ivory.
-There is a line of woodland beyond a corner of my garden
+There is a line of woodland beyond a corner of my [[Garden|garden]]
 which is literally different on every one of the three hundred
 and sixty-five days.  Sometimes it seems as near as a hedge,
 and sometimes as far as a faint and fiery evening cloud.
@@ -114,14 +114,14 @@ Now, among the heresies that are spoken in this matter is the habit
 of calling a grey day a "colourless" day.  Grey is a colour,
 and can be a very powerful and pleasing colour.  There is also an
 insulting style of speech about "one grey day just like another."
-You might as well talk about one green tree just like another.
+You might as [[Well|well]] talk about one green tree just like another.
 A grey clouded sky is indeed a canopy between us and the sun;
 so is a green tree, if it comes to that.  But the grey umbrellas differ
 as much as the green in their style and shape, in their tint and tilt.
 One day may be grey like steel, and another grey like dove's plumage.
-One may seem grey like the deathly frost, and another grey
+One may seem grey like the deathly [[Frost|frost]], and another grey
 like the smoke of substantial kitchens.  No things could seem
-further apart than the doubt of grey and the decision of scarlet.
+further apart than the [[Doubt|doubt]] of grey and the decision of scarlet.
 Yet grey and red can mingle, as they do in the morning clouds:
 and also in a sort of warm smoky stone of which they build the little
 towns in the west country.  In those towns even the houses that are wholly

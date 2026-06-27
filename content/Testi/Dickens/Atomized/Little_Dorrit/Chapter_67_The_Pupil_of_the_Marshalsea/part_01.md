@@ -17,13 +17,13 @@ tags:
 CHAPTER 27. The Pupil of the Marshalsea
 
 
-The day was sunny, and the Marshalsea, with the hot noon striking
-upon it, was unwontedly quiet. Arthur Clennam dropped into a solitary
+The day was sunny, and the Marshalsea, with the hot [[Noon|noon]] striking
+upon it, was unwontedly quiet. [[Arthur Clennam]] dropped into a solitary
 arm-chair, itself as faded as any debtor in the jail, and yielded
 himself to his thoughts.
 
 In the unnatural peace of having gone through the dreaded arrest, and
-got there,--the first change of feeling which the prison most commonly
+got there,--the first change of feeling which the [[Prison|prison]] most commonly
 induced, and from which dangerous resting-place so many men had slipped
 down to the depths of degradation and disgrace by so many ways,--he
 could think of some passages in his life, almost as if he were removed
@@ -32,13 +32,13 @@ was, the interest that had first brought him there when he had been free
 to keep away, and the gentle presence that was equally inseparable from
 the walls and bars about him and from the impalpable remembrances of his
 later life which no walls or bars could imprison, it was not remarkable
-that everything his memory turned upon should bring him round again to
+that everything his [[Memory|memory]] turned upon should bring him round again to
 Little Dorrit. Yet it was remarkable to him; not because of the fact
 itself, but because of the reminder it brought with it, how much the
 dear little creature had influenced his better resolutions.
 
 None of us clearly know to whom or to what we are indebted in this wise,
-until some marked stop in the whirling wheel of life brings the right
+until some marked stop in the whirling [[Wheel|wheel]] of life brings the right
 perception with it. It comes with sickness, it comes with sorrow, it
 comes with the loss of the dearly loved, it is one of the most frequent
 uses of adversity. It came to Clennam in his adversity, strongly and
@@ -47,9 +47,9 @@ set something like purpose before my jaded eyes, whom had I before me,
 toiling on, for a good object’s sake, without encouragement, without
 notice, against ignoble obstacles that would have turned an army of
 received heroes and heroines? One weak girl! When I tried to conquer
-my misplaced love, and to be generous to the man who was more fortunate
+my misplaced [[Love|love]], and to be generous to the man who was more fortunate
 than I, though he should never know it or repay me with a gracious word,
-in whom had I watched patience, self-denial, self-subdual, charitable
+in whom had I watched patience, [[Self|self]]-denial, [[Self|self]]-subdual, charitable
 construction, the noblest generosity of the affections? In the same poor
 girl! If I, a man, with a man’s advantages and means and energies, had
 slighted the whisper in my heart, that if my father had erred, it was my
@@ -57,7 +57,7 @@ first duty to conceal the fault and to repair it, what youthful figure
 with tender feet going almost bare on the damp ground, with spare hands
 ever working, with its slight shape but half protected from the
 sharp weather, would have stood before me to put me to shame? Little
-Dorrit’s.’ So always as he sat alone in the faded chair, thinking.
+Dorrit’s.’ So always as he sat [[Alone|alone]] in the faded chair, thinking.
 Always, Little Dorrit. Until it seemed to him as if he met the reward of
 having wandered away from her, and suffered anything to pass between him
 and his remembrance of her virtues.
@@ -75,7 +75,7 @@ make you hear.’
 
 ‘Did you knock?’ ‘Half-a-dozen times.’
 
-Rousing himself, Clennam observed that the prison had awakened from its
+Rousing himself, Clennam observed that the [[Prison|prison]] had awakened from its
 noontide doze, that the inmates were loitering about the shady yard, and
 that it was late in the afternoon. He had been thinking for hours.
 
@@ -84,7 +84,7 @@ that it was late in the afternoon. He had been thinking for hours.
 himself. Indeed he would have ‘em himself, and so I couldn’t send ‘em
 up. Mr Clennam, could I say a word to you?’
 
-‘Pray come in,’ said Arthur; for Mr Chivery’s head was still put in at
+‘Pray come in,’ said [[arthur|Arthur]]; for Mr Chivery’s head was still put in at
 the door a very little way, and Mr Chivery had but one ear upon him,
 instead of both eyes. This was native delicacy in Mr Chivery--true
 politeness; though his exterior had very much of a turnkey about it, and
@@ -99,20 +99,20 @@ where to find it, and we find it sitiwated correct.’
 With this mysterious speech, Mr Chivery took his ear away and shut the
 door. He might have been gone ten minutes, when his son succeeded him.
 
-‘Here’s your portmanteau,’ he said to Arthur, putting it carefully down.
+‘Here’s your portmanteau,’ he said to [[arthur|Arthur]], putting it carefully down.
 
 ‘It’s very kind of you. I am ashamed that you should have the trouble.’
 
 He was gone before it came to that; but soon returned, saying exactly as
 before, ‘Here’s your black box:’ which he also put down with care.
 
-‘I am very sensible of this attention. I hope we may shake hands now, Mr
+‘I am very sensible of this attention. I [[Hope|hope]] we may shake hands now, Mr
 John.’
 
 Young John, however, drew back, turning his right wrist in a socket made
 of his left thumb and middle-finger and said as he had said at first,
 ‘I don’t know as I can. No; I find I can’t!’ He then stood regarding the
-prisoner sternly, though with a swelling humour in his eyes that looked
+prisoner sternly, though with a swelling [[Humour|humour]] in his eyes that looked
 like pity.
 
 ‘Why are you angry with me,’ said Clennam, ‘and yet so ready to do me
@@ -128,6 +128,6 @@ against all rules of the Marshalsea--which it is; those feelings are
 such, that they would stimulate me, more to having it out with you in
 a Round on the present spot than to anything else I could name.’
 
-Arthur looked at him for a moment in some wonder, and some little anger.
-‘Well, well!’ he said. ‘A mistake, a mistake!’ Turning away, he sat down
+[[arthur|Arthur]] looked at him for a moment in some [[Wonder|wonder]], and some little anger.
+‘[[Well]], [[Well|well]]!’ he said. ‘A mistake, a mistake!’ Turning away, he sat down
 with a heavy sigh in the faded chair again.

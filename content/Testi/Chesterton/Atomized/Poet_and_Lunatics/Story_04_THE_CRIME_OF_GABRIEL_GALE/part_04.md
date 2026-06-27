@@ -14,22 +14,22 @@ tags:
 </nav>
 
 
-Two feet pointed skyward and two long legs upside down rose vertically
+Two feet pointed skyward and two long legs upside down [[Rose|rose]] vertically
 out of the tall grass, just beyond the smoke; and waved to them
 like arms, as if according to a preconcerted science of signalling.
 Then the legs seemed to give a leap and dive and the owner of the legs
-came the right side up and rose or surged slowly out of the depths
+came the right side up and [[Rose|rose]] or surged slowly out of the depths
 of green, gazing across at them with a misty and benevolent expression.
-He was smoking a long thin cigar:  the fire behind the smoke.
+He was smoking a long thin cigar:  the [[Fire|fire]] behind the smoke.
 
 He received them and their news with no air of triumph, still less
 of surprise.  Abandoning his grassy nest, he sat down with them on
-the garden-chairs which had also played their part in the mystery;
+the [[Garden|garden]]-chairs which had also played their part in the mystery;
 and only smiled a little as he handed back the telegram.
 
-"Well," he said; "do you still think I am mad?"
+"[[Well]]," he said; "do you still think I am mad?"
 
-"Well," said Butterworth, "I can't help wondering whether he is."
+"[[Well]]," said Butterworth, "I can't help wondering whether he is."
 
 Gale leaned across, showing his first eagerness, and said,
 "He isn't. But he jolly nearly was."
@@ -50,7 +50,7 @@ man it was rather symbolically expressed even in the look of him.
 It was like his growing out of his clothes, or being too big
 for his boots.  The inside gets too big for the outside.
 He doesn't know how to relate the two things; and generally he doesn't
-relate them at all.  In one way his own mind and self seem to be
+relate them at all.  In one way his own mind and [[Self|self]] seem to be
 colossal and cosmic and everything outside them small or distant.
 In another way the world is much too big for him; and his thoughts
 are fragile things to be hidden away.  There are any number
@@ -59,11 +59,11 @@ silent boys have been about incredible abuses in bad schools.
 Whether or no it's false to say a girl can't keep a secret,
 it's often really the ruin of a boy that he can keep a secret.
 
-"Now in that dangerous time, there's a dreadfully dangerous moment;
+"Now in that dangerous [[Time|time]], there's a dreadfully dangerous moment;
 when the first connexion is made between the subjective and objective:
 the first real bridge between the brain and real things.  It all
-depends what it is; because, while it confirms his self-consciousness,
-it may happen to confirm his self-deception. That young man had never
+depends what it is; because, while it confirms his [[Self|self]]-consciousness,
+it may happen to confirm his [[Self-Deception|self-deception]]. That young man had never
 really been noticed by anybody until Lady Flamborough happened to tell
 him that he had brought the bad weather.  It came just at the moment
 when his whole sense of proportions and possibilities had gone wild.
@@ -72,26 +72,26 @@ added Gale abruptly, "what was it that made you first suspect _me_
 of being mad?"
 
 "I think," said Garth slowly, "it was when you were staring out
-of the window at the storm."
+of the [[Window|window]] at the [[Storm|storm]]."
 
-"The storm?  Was there a storm?" asked Gale vaguely.  "Oh yes,
+"The [[Storm|storm]]?  Was there a [[Storm|storm]]?" asked Gale vaguely.  "Oh yes,
 now I come to think of it, there was."
 
 "But, hang it all," replied the doctor, "what else could you have
-been staring out of the window at, except the storm?"
+been staring out of the [[Window|window]] at, except the [[Storm|storm]]?"
 
-"I wasn't staring out of the window," answered Gale.
+"I wasn't staring out of the [[Window|window]]," answered Gale.
 
 "Really, my dear fellow," remonstrated Dr. Garth.
 
-"I was staring at the window," said the poet.  "I often stare
+"I was staring at the [[Window|window]]," said the poet.  "I often stare
 at windows.  So few people ever look at windows, unless they
 are stained glass-windows. But glass is a very beautiful thing,
 like diamonds; and transparency is a sort of transcendental colour.
 Besides, in this case there was something else; and something far
 more awful and thrilling than a thunderstorm."
 
-"Well, what _were_ you looking at, that was more awful
+"[[Well]], what _were_ you looking at, that was more awful
 than a thunderstorm?"
 
 "I was looking at two raindrops running down the pane," said Gale.
@@ -100,16 +100,16 @@ than a thunderstorm?"
 Seeing the others staring at him he continued:  "Oh yes, it's quite true;
 as the poet says," and he recited with great and unusual gravity:
 
-    "'Little drops of water,
+    "'Little drops of [[Water|water]],
       Little grains of sand,
-      Make the soul to stagger
-      Till the stars can hardly stand.'
+      Make the [[Soul|soul]] to stagger
+      Till the [[Stars|stars]] can hardly stand.'
 
 "Haven't I told you a thousand times," he continued with increasing
 earnestness and animation, "that I always find myself looking at some
 little thing, a stone or a starfish or what not, and that's the only
 way I can ever learn anything?  But when I looked at Saunders, I saw
-his eyes were fixed on the same spot on the window-pane;
+his eyes were fixed on the same spot on the [[Window|window]]-pane;
 and I shuddered from head to foot, for I knew I had guessed right.
 He was wearing a certain kind of unobtrusive smile.
 
@@ -128,11 +128,11 @@ secret megalomania, persuade yourself it is the one you have chosen.
 It is easy to imagine oneself controlling things hung so evenly.
 That was when I said to him, to test whether I was following his
 train of thought, 'It makes you feel like God.'  Did you think I
-was talking about the storm?  Storm!  Pooh!  Why should a storm make
+was talking about the [[Storm|storm]]?  [[Storm]]!  Pooh!  Why should a [[Storm|storm]] make
 a man think he's God?  If he'd got any sense it might make him feel
 he wasn't. But I knew that Saunders was just at the delicate crisis,
 where he was half trying to believe he was.  He was half trying to think
 he had really changed the weather and might change everything; and a
 game like that of the raindrops was just the thing to encourage him.
-He really felt as if he were Omnipotence looking at two falling stars:
-and he was the special providence in them.
+He really felt as if he were Omnipotence looking at two falling [[Stars|stars]]:
+and he was the special [[Providence|providence]] in them.

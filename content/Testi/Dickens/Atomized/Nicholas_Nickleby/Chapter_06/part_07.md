@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 6 (part 7)"
+title: "[[Nicholas Nickleby]] — Chapter 6 (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,11 +16,11 @@ tags:
 
 ‘“My hunting train, ma’am,” said the baron.
 
-‘“Disband them, love,” murmured the baroness.
+‘“Disband them, [[Love|love]],” murmured the baroness.
 
 ‘“Disband them!” cried the baron, in amazement.
 
-‘“To please me, love,” replied the baroness.
+‘“To please me, [[Love|love]],” replied the baroness.
 
 ‘“To please the devil, ma’am,” answered the baron.
 
@@ -28,7 +28,7 @@ tags:
 baron’s feet.
 
 ‘What could the baron do? He called for the lady’s maid, and roared
-for the doctor; and then, rushing into the yard, kicked the two Lincoln
+for the doctor; and then, rushing into the yard, kicked the two [[Lincoln]]
 greens who were the most used to it, and cursing the others all round,
 bade them go--but never mind where. I don’t know the German for it, or I
 would put it delicately that way.
@@ -43,26 +43,26 @@ is, that the Baroness Von Koeldwethout somehow or other acquired great
 control over the Baron Von Koeldwethout, and that, little by little, and
 bit by bit, and day by day, and year by year, the baron got the worst of
 some disputed question, or was slyly unhorsed from some old hobby;
-and that by the time he was a fat hearty fellow of forty-eight or
+and that by the [[Time|time]] he was a fat hearty fellow of forty-eight or
 thereabouts, he had no feasting, no revelry, no hunting train, and no
 hunting--nothing in short that he liked, or used to have; and that,
-although he was as fierce as a lion, and as bold as brass, he was
-decidedly snubbed and put down, by his own lady, in his own castle of
+although he was as fierce as a [[Lion|lion]], and as bold as brass, he was
+decidedly snubbed and put down, by his own lady, in his own [[Castle|castle]] of
 Grogzwig.
 
 ‘Nor was this the whole extent of the baron’s misfortunes. About a year
 after his nuptials, there came into the world a lusty young baron,
-in whose honour a great many fireworks were let off, and a great many
+in whose [[Honour|honour]] a great many fireworks were let off, and a great many
 dozens of wine drunk; but next year there came a young baroness, and
 next year another young baron, and so on, every year, either a baron or
 baroness (and one year both together), until the baron found himself
 the father of a small family of twelve. Upon every one of these
 anniversaries, the venerable Baroness Von Swillenhausen was nervously
-sensitive for the well-being of her child the Baroness Von Koeldwethout;
+sensitive for the [[Well|well]]-being of her [[Child|child]] the Baroness Von Koeldwethout;
 and although it was not found that the good lady ever did anything
-material towards contributing to her child’s recovery, still she made it
-a point of duty to be as nervous as possible at the castle of Grogzwig,
-and to divide her time between moral observations on the baron’s
+material towards contributing to her [[Child|child]]’s recovery, still she made it
+a point of duty to be as nervous as possible at the [[Castle|castle]] of Grogzwig,
+and to divide her [[Time|time]] between moral observations on the baron’s
 housekeeping, and bewailing the hard lot of her unhappy daughter. And if
 the Baron of Grogzwig, a little hurt and irritated at this, took heart,
 and ventured to suggest that his wife was at least no worse off than the
@@ -76,7 +76,7 @@ Grogzwig.
 ‘The poor baron bore it all as long as he could, and when he could bear
 it no longer lost his appetite and his spirits, and sat himself gloomily
 and dejectedly down. But there were worse troubles yet in store for
-him, and as they came on, his melancholy and sadness increased. Times
+him, and as they came on, his [[Melancholy|melancholy]] and sadness increased. Times
 changed. He got into debt. The Grogzwig coffers ran low, though the
 Swillenhausen family had looked upon them as inexhaustible; and just
 when the baroness was on the point of making a thirteenth addition to
@@ -94,7 +94,7 @@ call “an offer” at his throat.
 
 ‘The baron sharpened it again, and made another offer, when his hand was
 arrested by a loud screaming among the young barons and baronesses, who
-had a nursery in an upstairs tower with iron bars outside the window, to
+had a nursery in an upstairs tower with iron bars outside the [[Window|window]], to
 prevent their tumbling out into the moat.
 
 ‘“If I had been a bachelor,” said the baron sighing, “I might have done
@@ -118,18 +118,18 @@ locked the door.
 ‘“I’ll smoke a last pipe,” said the baron, “and then I’ll be off.” So,
 putting the knife upon the table till he wanted it, and tossing off a
 goodly measure of wine, the Lord of Grogzwig threw himself back in his
-chair, stretched his legs out before the fire, and puffed away.
+chair, stretched his legs out before the [[Fire|fire]], and puffed away.
 
 ‘He thought about a great many things--about his present troubles and
-past days of bachelorship, and about the Lincoln greens, long since
+past days of bachelorship, and about the [[Lincoln]] greens, long since
 dispersed up and down the country, no one knew whither: with the
 exception of two who had been unfortunately beheaded, and four who had
 killed themselves with drinking. His mind was running upon bears and
-boars, when, in the process of draining his glass to the bottom,
-he raised his eyes, and saw, for the first time and with unbounded
-astonishment, that he was not alone.
+boars, when, in the process of draining his glass to the [[Bottom|bottom]],
+he raised his eyes, and saw, for the first [[Time|time]] and with unbounded
+astonishment, that he was not [[Alone|alone]].
 
-‘No, he was not; for, on the opposite side of the fire, there sat with
+‘No, he was not; for, on the opposite side of the [[Fire|fire]], there sat with
 folded arms a wrinkled hideous figure, with deeply sunk and bloodshot
 eyes, and an immensely long cadaverous face, shadowed by jagged and
 matted locks of coarse black hair. He wore a kind of tunic of a dull
@@ -138,4 +138,4 @@ was clasped or ornamented down the front with coffin handles. His legs,
 too, were encased in coffin plates as though in armour; and over his
 left shoulder he wore a short dusky cloak, which seemed made of a
 remnant of some pall. He took no notice of the baron, but was intently
-eyeing the fire.
+eyeing the [[Fire|fire]].

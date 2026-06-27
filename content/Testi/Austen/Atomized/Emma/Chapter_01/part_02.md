@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 1 (part 2)"
+title: "[[Emma]] — Chapter 1 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Emma-(Austen)"
@@ -20,10 +20,10 @@ Mr. Weston ever thought of her!”
 “I cannot agree with you, papa; you know I cannot. Mr. Weston is such a
 good-humoured, pleasant, excellent man, that he thoroughly deserves a
 good wife;—and you would not have had Miss Taylor live with us for
-ever, and bear all my odd humours, when she might have a house of her
+ever, and bear all my odd humours, when she might have a [[house]] of her
 own?”
 
-“A house of her own!—But where is the advantage of a house of her own?
+“A [[house]] of her own!—But where is the advantage of a [[house]] of her own?
 This is three times as large.—And you have never any odd humours, my
 dear.”
 
@@ -43,9 +43,9 @@ visit?”
 
 “They are to be put into Mr. Weston’s stable, papa. You know we have
 settled all that already. We talked it all over with Mr. Weston last
-night. And as for James, you may be very sure he will always like going
+[[Night|night]]. And as for James, you may be very sure he will always like going
 to Randalls, because of his daughter’s being housemaid there. I only
-doubt whether he will ever take us anywhere else. That was your doing,
+[[Doubt|doubt]] whether he will ever take us anywhere else. That was your doing,
 papa. You got Hannah that good place. Nobody thought of Hannah till you
 mentioned her—James is so obliged to you!”
 
@@ -61,7 +61,7 @@ to have somebody about her that she is used to see. Whenever James goes
 over to see his daughter, you know, she will be hearing of us. He will
 be able to tell her how we all are.”
 
-Emma spared no exertions to maintain this happier flow of ideas, and
+[[Emma]] spared no exertions to maintain this happier flow of ideas, and
 hoped, by the help of backgammon, to get her father tolerably through
 the evening, and be attacked by no regrets but her own. The
 backgammon-table was placed; but a visitor immediately afterwards
@@ -69,45 +69,45 @@ walked in and made it unnecessary.
 
 Mr. Knightley, a sensible man about seven or eight-and-thirty, was not
 only a very old and intimate friend of the family, but particularly
-connected with it, as the elder brother of Isabella’s husband. He lived
+connected with it, as the elder brother of [[Isabella]]’s husband. He lived
 about a mile from Highbury, was a frequent visitor, and always welcome,
-and at this time more welcome than usual, as coming directly from their
-mutual connexions in London. He had returned to a late dinner, after
+and at this [[Time|time]] more welcome than usual, as coming directly from their
+mutual connexions in [[London]]. He had returned to a late dinner, after
 some days’ absence, and now walked up to Hartfield to say that all were
-well in Brunswick Square. It was a happy circumstance, and animated Mr.
-Woodhouse for some time. Mr. Knightley had a cheerful manner, which
-always did him good; and his many inquiries after “poor Isabella” and
+[[Well|well]] in Brunswick Square. It was a happy circumstance, and animated Mr.
+Woodhouse for some [[Time|time]]. Mr. Knightley had a cheerful manner, which
+always did him good; and his many inquiries after “poor [[Isabella]]” and
 her children were answered most satisfactorily. When this was over, Mr.
 Woodhouse gratefully observed, “It is very kind of you, Mr. Knightley,
 to come out at this late hour to call upon us. I am afraid you must
 have had a shocking walk.”
 
-“Not at all, sir. It is a beautiful moonlight night; and so mild that I
-must draw back from your great fire.”
+“Not at all, sir. It is a beautiful moonlight [[Night|night]]; and so mild that I
+must draw back from your great [[Fire|fire]].”
 
 “But you must have found it very damp and dirty. I wish you may not
 catch cold.”
 
 “Dirty, sir! Look at my shoes. Not a speck on them.”
 
-“Well! that is quite surprising, for we have had a vast deal of rain
+“[[Well]]! that is quite surprising, for we have had a vast deal of rain
 here. It rained dreadfully hard for half an hour while we were at
 breakfast. I wanted them to put off the wedding.”
 
-“By the bye—I have not wished you joy. Being pretty well aware of what
+“By the bye—I have not wished you joy. Being pretty [[Well|well]] aware of what
 sort of joy you must both be feeling, I have been in no hurry with my
-congratulations; but I hope it all went off tolerably well. How did you
+congratulations; but I [[Hope|hope]] it all went off tolerably [[Well|well]]. How did you
 all behave? Who cried most?”
 
 “Ah! poor Miss Taylor! ’Tis a sad business.”
 
 “Poor Mr. and Miss Woodhouse, if you please; but I cannot possibly say
-‘poor Miss Taylor.’ I have a great regard for you and Emma; but when it
+‘poor Miss Taylor.’ I have a great regard for you and [[Emma]]; but when it
 comes to the question of dependence or independence!—At any rate, it
 must be better to have only one to please than two.”
 
 “Especially when _one_ of those two is such a fanciful, troublesome
-creature!” said Emma playfully. “That is what you have in your head, I
+creature!” said [[Emma]] playfully. “That is what you have in your head, I
 know—and what you would certainly say if my father were not by.”
 
 “I believe it is very true, my dear, indeed,” said Mr. Woodhouse, with
@@ -119,20 +119,20 @@ myself. Mr. Knightley loves to find fault with me, you know—in a
 joke—it is all a joke. We always say what we like to one another.”
 
 Mr. Knightley, in fact, was one of the few people who could see faults
-in Emma Woodhouse, and the only one who ever told her of them: and
-though this was not particularly agreeable to Emma herself, she knew it
+in [[Emma Woodhouse]], and the only one who ever told her of them: and
+though this was not particularly agreeable to [[Emma]] herself, she knew it
 would be so much less so to her father, that she would not have him
 really suspect such a circumstance as her not being thought perfect by
-every body.
+every [[Body|body]].
 
-“Emma knows I never flatter her,” said Mr. Knightley, “but I meant no
-reflection on any body. Miss Taylor has been used to have two persons
+“[[Emma]] knows I never flatter her,” said Mr. Knightley, “but I meant no
+reflection on any [[Body|body]]. Miss Taylor has been used to have two persons
 to please; she will now have but one. The chances are that she must be
 a gainer.”
 
-“Well,” said Emma, willing to let it pass—“you want to hear about the
+“[[Well]],” said [[Emma]], willing to let it pass—“you want to hear about the
 wedding; and I shall be happy to tell you, for we all behaved
-charmingly. Every body was punctual, every body in their best looks:
+charmingly. Every [[Body|body]] was punctual, every [[Body|body]] in their best looks:
 not a tear, and hardly a long face to be seen. Oh no; we all felt that
 we were going to be only half a mile apart, and were sure of meeting
 every day.”

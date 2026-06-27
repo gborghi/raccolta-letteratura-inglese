@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 20 (part 3)"
+title: "[[Northanger Abbey]] — Chapter 20 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -20,7 +20,7 @@ room, and through this into several others, without perceiving anything
 
 very remarkable in either. In one perhaps there may be a dagger, in
 
-another a few drops of blood, and in a third the remains of some
+another a few drops of [[Blood|blood]], and in a third the remains of some
 
 instrument of torture; but there being nothing in all this out of the
 
@@ -36,13 +36,13 @@ examining the furniture before, you had passed unnoticed. Impelled by
 
 an irresistible presentiment, you will eagerly advance to it, unlock
 
-its folding doors, and search into every drawer—but for some time
+its folding doors, and search into every drawer—but for some [[Time|time]]
 
 without discovering anything of importance—perhaps nothing but a
 
 considerable hoard of diamonds. At last, however, by touching a secret
 
-spring, an inner compartment will open—a roll of paper appears—you
+[[spring]], an inner compartment will open—a roll of paper appears—you
 
 seize it—it contains many sheets of manuscript—you hasten with the
 
@@ -52,11 +52,11 @@ able to decipher ‘Oh thou, whomsoever thou mayst be, into whose hands
 
 these memoirs of the wretched Matilda may fall’—when your lamp suddenly
 
-expires in the socket, and leaves you in total darkness.”
+expires in the socket, and [[Leaves|leaves]] you in total darkness.”
 
 
 
-“Oh, no, no; do not say so. Well, go on.”
+“Oh, no, no; do not say so. [[Well]], go on.”
 
 
 
@@ -80,11 +80,11 @@ afraid.”
 
 
 
-As they drew near the end of their journey, her impatience for a sight
+As they drew near the end of their [[Journey|journey]], her impatience for a sight
 
-of the abbey—for some time suspended by his conversation on subjects
+of the abbey—for some [[Time|time]] suspended by his conversation on subjects
 
-very different—returned in full force, and every bend in the road was
+very different—returned in full force, and every bend in the [[Road|road]] was
 
 expected with solemn awe to afford a glimpse of its massy walls of grey
 
@@ -108,7 +108,7 @@ expected. To pass between lodges of a modern appearance, to find
 
 herself with such ease in the very precincts of the abbey, and driven
 
-so rapidly along a smooth, level road of fine gravel, without obstacle,
+so rapidly along a smooth, level [[Road|road]] of fine gravel, without obstacle,
 
 alarm, or solemnity of any kind, struck her as odd and inconsistent.
 
@@ -164,7 +164,7 @@ sure, the pointed arch was preserved—the form of them was Gothic—they
 
 might be even casements—but every pane was so large, so clear, so
 
-light! to an imagination which had hoped for the smallest divisions,
+light! to an [[Imagination|imagination]] which had hoped for the smallest divisions,
 
 and the heaviest stone-work, for painted glass, dirt, and cobwebs, the
 
@@ -202,9 +202,9 @@ landing-places, brought them upon a long, wide gallery. On one side it
 
 had a range of doors, and it was lighted on the other by windows which
 
-Catherine had only time to discover looked into a quadrangle, before
+Catherine had only [[Time|time]] to discover looked into a quadrangle, before
 
-Miss Tilney led the way into a chamber, and scarcely staying to hope
+Miss Tilney led the way into a chamber, and scarcely staying to [[Hope|hope]]
 
 she would find it comfortable, left her with an anxious entreaty that
 

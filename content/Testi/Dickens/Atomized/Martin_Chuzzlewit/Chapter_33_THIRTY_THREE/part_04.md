@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 33: THIRTY THREE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,16 +14,16 @@ tags:
 </nav>
 
 
-‘You won’t half feel yourself at home in Eden, now?’
+‘You won’t half feel yourself at [[Home|home]] in Eden, now?’
 
 ‘No,’ said Mark, ‘I don’t.’
 
-‘You miss the imposts of your country. You miss the house dues?’
+‘You miss the imposts of your country. You miss the [[house]] dues?’
 observed Chollop.
 
 ‘And the houses--rather,’ said Mark.
 
-‘No window dues here, sir,’ observed Chollop.
+‘No [[Window|window]] dues here, sir,’ observed Chollop.
 
 ‘And no windows to put ‘em on,’ said Mark.
 
@@ -33,10 +33,10 @@ thumbscrews, no pikes, no pillories,’ said Chollop.
 ‘Nothing but rewolwers and bowie-knives,’ returned Mark. ‘And what are
 they? Not worth mentioning!’
 
-The man who had met them on the night of their arrival came crawling up
+The man who had met them on the [[Night|night]] of their arrival came crawling up
 at this juncture, and looked in at the door.
 
-‘Well, sir,’ said Chollop. ‘How do YOU git along?’
+‘[[Well]], sir,’ said Chollop. ‘How do YOU git along?’
 
 He had considerable difficulty in getting along at all, and said as much
 in reply.
@@ -45,10 +45,10 @@ in reply.
 ought to be slicked up pretty smart to disputate between the Old World
 and the New, I do expect?’
 
-‘Well!’ returned the miserable shadow. ‘So he had.’
+‘[[Well]]!’ returned the miserable [[Shadow|shadow]]. ‘So he had.’
 
 ‘I was merely observing, sir,’ said Mark, addressing this new visitor,
-‘that I looked upon the city in which we have the honour to live, as
+‘that I looked upon the [[City|city]] in which we have the [[Honour|honour]] to live, as
 being swampy. What’s your sentiments?’
 
 ‘I opinionate it’s moist perhaps, at certain times,’ returned the man.
@@ -56,9 +56,9 @@ being swampy. What’s your sentiments?’
 ‘But not as moist as England, sir?’ cried Chollop, with a fierce
 expression in his face.
 
-‘Oh! Not as moist as England; let alone its Institutions,’ said the man.
+‘Oh! Not as moist as England; let [[Alone|alone]] its Institutions,’ said the man.
 
-‘I should hope there ain’t a swamp in all Americay, as don’t whip THAT
+‘I should [[Hope|hope]] there ain’t a swamp in all Americay, as don’t whip THAT
 small island into mush and molasses,’ observed Chollop, decisively. ‘You
 bought slick, straight, and right away, of Scadder, sir?’ to Mark.
 
@@ -75,7 +75,7 @@ Mr Chollop was so delighted at the smartness of his excellent countryman
 having been too much for the Britisher, and at the Britisher’s resenting
 it, that he could contain himself no longer, and broke forth in a shout
 of delight. But the strangest exposition of this ruling passion was
-in the other--the pestilence-stricken, broken, miserable shadow of a
+in the other--the pestilence-stricken, broken, miserable [[Shadow|shadow]] of a
 man--who derived so much entertainment from the circumstance that he
 seemed to forget his own ruin in thinking of it, and laughed outright
 when he said ‘that Scadder was a smart man, and had draw’d a lot of
@@ -84,10 +84,10 @@ British capital that way, as sure as sun-up.’
 After a full enjoyment of this joke, Mr Hannibal Chollop sat smoking and
 improving the circle, without making any attempts either to converse or
 to take leave; apparently labouring under the not uncommon delusion
-that for a free and enlightened citizen of the United States to convert
-another man’s house into a spittoon for two or three hours together, was
+that for a free and enlightened citizen of the United States to [[convert]]
+another man’s [[house]] into a spittoon for two or three hours together, was
 a delicate attention, full of interest and politeness, of which nobody
-could ever tire. At last he rose.
+could ever tire. At last he [[Rose|rose]].
 
 ‘I am a-going easy,’ he observed.
 
@@ -125,12 +125,12 @@ Tickler, and the revolvers, all ready for action on the shortest notice.
 ‘Come out from under the blanket, sir,’ said Mark, ‘he’s gone. What’s
 this!’ he added softly; kneeling down to look into his partner’s
 face, and taking his hot hand. ‘What’s come of all that chattering and
-swaggering? He’s wandering in his mind to-night, and don’t know me!’
+swaggering? He’s wandering in his mind to-[[Night|night]], and don’t know me!’
 
-Martin indeed was dangerously ill; very near his death. He lay in that
-state many days, during which time Mark’s poor friends, regardless of
-themselves, attended him. Mark, fatigued in mind and body; working
-all the day and sitting up at night; worn with hard living and the
+Martin indeed was dangerously ill; very near his [[Death|death]]. He lay in that
+state many days, during which [[Time|time]] Mark’s poor friends, regardless of
+themselves, attended him. Mark, fatigued in mind and [[Body|body]]; working
+all the day and sitting up at [[Night|night]]; worn with hard living and the
 unaccustomed toil of his new life; surrounded by dismal and discouraging
 circumstances of every kind; never complained or yielded in the least
 degree. If ever he had thought Martin selfish or inconsiderate, or had
@@ -159,6 +159,6 @@ were twenty times kinder to Mark. And now it was Martin’s turn to work,
 and sit beside the bed and watch, and listen through the long, long
 nights, to every sound in the gloomy wilderness; and hear poor Mr
 Tapley, in his wandering fancy, playing at skittles in the Dragon,
-making love-remonstrances to Mrs Lupin, getting his sea-legs on board
-the Screw, travelling with old Tom Pinch on English roads, and burning
+making [[Love|love]]-remonstrances to Mrs Lupin, getting his sea-legs on board
+the Screw, travelling with old [[Tom Pinch]] on English roads, and burning
 stumps of trees in Eden, all at once.

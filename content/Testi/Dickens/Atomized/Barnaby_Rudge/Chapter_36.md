@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 36"
+title: "[[Barnaby Rudge]] — Chapter 36"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -18,7 +18,7 @@ Chapter 36
 
 
 Gashford, with a smiling face, but still with looks of profound
-deference and humility, betook himself towards his master’s room,
+deference and [[Humility|humility]], betook himself towards his master’s room,
 smoothing his hair down as he went, and humming a psalm tune. As he
 approached Lord George’s door, he cleared his throat and hummed more
 vigorously.
@@ -34,7 +34,7 @@ seems to be asleep. Pray Heaven he is! Too much watching, too much care,
 too much thought--ah! Lord preserve him for a martyr! He is a saint, if
 ever saint drew breath on this bad earth.’
 
-Placing his light upon a table, he walked on tiptoe to the fire, and
+Placing his light upon a table, he walked on tiptoe to the [[Fire|fire]], and
 sitting in a chair before it with his back towards the bed, went on
 communing with himself like one who thought aloud:
 
@@ -60,17 +60,17 @@ in a hasty way across his eyes; ‘and why should I regret your having
 heard them?’
 
 ‘Gashford,’ said the poor lord, stretching out his hand with manifest
-emotion. ‘Do not regret it. You love me well, I know--too well. I don’t
+emotion. ‘Do not regret it. You [[Love|love]] me [[Well|well]], I know--too [[Well|well]]. I don’t
 deserve such homage.’
 
 Gashford made no reply, but grasped the hand and pressed it to his lips.
 Then rising, and taking from the trunk a little desk, he placed it on
-a table near the fire, unlocked it with a key he carried in his pocket,
+a table near the [[Fire|fire]], unlocked it with a key he carried in his pocket,
 sat down before it, took out a pen, and, before dipping it in the
 inkstand, sucked it--to compose the fashion of his mouth perhaps, on
 which a smile was hovering yet.
 
-‘How do our numbers stand since last enrolling-night?’ inquired Lord
+‘How do our numbers stand since last enrolling-[[Night|night]]?’ inquired Lord
 George. ‘Are we really forty thousand strong, or do we still speak in
 round numbers when we take the Association at that amount?’
 
@@ -80,12 +80,12 @@ replied, casting his eyes upon his papers.
 ‘The funds?’
 
 ‘Not VERY improving; but there is some manna in the wilderness, my lord.
-Hem! On Friday night the widows’ mites dropped in. “Forty scavengers,
+Hem! On Friday [[Night|night]] the widows’ mites dropped in. “Forty scavengers,
 three and fourpence. An aged pew-opener of St Martin’s parish, sixpence.
 A bell-ringer of the established church, sixpence. A Protestant infant,
 newly born, one halfpenny. The United Link Boys, three shillings--one
 bad. The anti-popish prisoners in Newgate, five and fourpence. A friend
-in Bedlam, half-a-crown. Dennis the hangman, one shilling.”’
+in Bedlam, half-a-[[Crown|crown]]. Dennis the hangman, one shilling.”’
 
 ‘That Dennis,’ said his lordship, ‘is an earnest man. I marked him in
 the crowd in Welbeck Street, last Friday.’
@@ -100,7 +100,7 @@ Gashford obeyed, and went on reading from his list:
 
 ‘“The Friends of Reason, half-a-guinea. The Friends of Liberty,
 half-a-guinea. The Friends of Peace, half-a-guinea. The Friends of
-Charity, half-a-guinea. The Friends of Mercy, half-a-guinea. The
+[[Charity]], half-a-guinea. The Friends of [[Mercy]], half-a-guinea. The
 Associated Rememberers of Bloody Mary, half-a-guinea. The United
 Bulldogs, half-a-guinea.”’
 
@@ -109,15 +109,15 @@ Bulldogs, half-a-guinea.”’
 
 ‘Formerly the ‘Prentice Knights, my lord. The indentures of the old
 members expiring by degrees, they changed their name, it seems, though
-they still have ‘prentices among them, as well as workmen.’
+they still have ‘prentices among them, as [[Well|well]] as workmen.’
 
 ‘What is their president’s name?’ inquired Lord George.
 
-‘President,’ said Gashford, reading, ‘Mr Simon Tappertit.’
+‘President,’ said Gashford, reading, ‘Mr [[Simon Tappertit]].’
 
 ‘I remember him. The little man, who sometimes brings an elderly sister
 to our meetings, and sometimes another female too, who is conscientious,
-I have no doubt, but not well-favoured?’
+I have no [[Doubt|doubt]], but not [[Well|well]]-favoured?’
 
 ‘The very same, my lord.’
 
@@ -125,15 +125,15 @@ I have no doubt, but not well-favoured?’
 Gashford?’
 
 ‘One of the foremost among them all, my lord. He snuffs the battle from
-afar, like the war-horse. He throws his hat up in the street as if he
+afar, like the war-[[Horse|horse]]. He throws his hat up in the street as if he
 were inspired, and makes most stirring speeches from the shoulders of
 his friends.’
 
-‘Make a note of Tappertit,’ said Lord George Gordon. ‘We may advance him
+‘Make a note of Tappertit,’ said [[Lord George Gordon]]. ‘We may advance him
 to a place of trust.’
 
 ‘That,’ rejoined the secretary, doing as he was told, ‘is all--except
-Mrs Varden’s box (fourteenth time of opening), seven shillings and
+Mrs Varden’s box (fourteenth [[Time|time]] of opening), seven shillings and
 sixpence in silver and copper, and half-a-guinea in gold; and Miggs
 (being the saving of a quarter’s wages), one-and-threepence.’
 
@@ -141,7 +141,7 @@ sixpence in silver and copper, and half-a-guinea in gold; and Miggs
 
 ‘The name is entered on the list as a woman,’ replied the secretary. ‘I
 think she is the tall spare female of whom you spoke just now, my
-lord, as not being well-favoured, who sometimes comes to hear the
+lord, as not being [[Well|well]]-favoured, who sometimes comes to hear the
 speeches--along with Tappertit and Mrs Varden.’
 
 ‘Mrs Varden is the elderly lady then, is she?’
@@ -160,30 +160,30 @@ such a wife. He remains in outer darkness and steadily refuses.’
 ‘My lord!’
 
 ‘You don’t think,’ he turned restlessly in his bed as he spoke, ‘these
-people will desert me, when the hour arrives? I have spoken boldly for
+people will [[Desert|desert]] me, when the hour arrives? I have spoken boldly for
 them, ventured much, suppressed nothing. They’ll not fall off, will
 they?’
 
-‘No fear of that, my lord,’ said Gashford, with a meaning look, which
+‘No [[Fear|fear]] of that, my lord,’ said Gashford, with a meaning look, which
 was rather the involuntary expression of his own thoughts than intended
 as any confirmation of his words, for the other’s face was turned away.
-‘Be sure there is no fear of that.’
+‘Be sure there is no [[Fear|fear]] of that.’
 
 ‘Nor,’ he said with a more restless motion than before, ‘of their--but
 they CAN sustain no harm from leaguing for this purpose. Right is on
 our side, though Might may be against us. You feel as sure of that as
 I--honestly, you do?’
 
-The secretary was beginning with ‘You do not doubt,’ when the other
+The secretary was beginning with ‘You do not [[Doubt|doubt]],’ when the other
 interrupted him, and impatiently rejoined:
 
-‘Doubt. No. Who says I doubt? If I doubted, should I cast away
+‘[[Doubt]]. No. Who says I [[Doubt|doubt]]? If I doubted, should I cast away
 relatives, friends, everything, for this unhappy country’s sake; this
 unhappy country,’ he cried, springing up in bed, after repeating the
 phrase ‘unhappy country’s sake’ to himself, at least a dozen times,
 ‘forsaken of God and man, delivered over to a dangerous confederacy of
 Popish powers; the prey of corruption, idolatry, and despotism! Who says
-I doubt? Am I called, and chosen, and faithful? Tell me. Am I, or am I
+I [[Doubt|doubt]]? Am I called, and chosen, and faithful? Tell me. Am I, or am I
 not?’
 
 ‘To God, the country, and yourself,’ cried Gashford.
@@ -200,8 +200,8 @@ taken in conjunction with his meagre aspect and ungraceful presence, it
 would scarcely have provoked a smile in any man of kindly feeling; or
 even if it had, he would have felt sorry and almost angry with himself
 next moment, for yielding to the impulse. This lord was sincere in his
-violence and in his wavering. A nature prone to false enthusiasm, and
-the vanity of being a leader, were the worst qualities apparent in his
+violence and in his wavering. A [[Nature|nature]] prone to false enthusiasm, and
+the [[Vanity|vanity]] of being a leader, were the worst qualities apparent in his
 composition. All the rest was weakness--sheer weakness; and it is
 the unhappy lot of thoroughly weak men, that their very sympathies,
 affections, confidences--all the qualities which in better constituted
@@ -218,18 +218,18 @@ Maypole couch, waved drearily and sadly as though it were a bier.
 Stopping on the staircase to listen that all was quiet, and to take off
 his shoes lest his footsteps should alarm any light sleeper who might
 be near at hand, he descended to the ground floor, and thrust one of his
-bills beneath the great door of the house. That done, he crept softly
-back to his own chamber, and from the window let another fall--carefully
-wrapt round a stone to save it from the wind--into the yard below.
+bills beneath the great door of the [[house]]. That done, he crept softly
+back to his own chamber, and from the [[Window|window]] let another fall--carefully
+wrapt round a stone to save it from the [[Wind|wind]]--into the yard below.
 
 They were addressed on the back ‘To every Protestant into whose hands
 this shall come,’ and bore within what follows:
 
 ‘Men and Brethren. Whoever shall find this letter, will take it as a
-warning to join, without delay, the friends of Lord George Gordon. There
+warning to join, without delay, the friends of [[Lord George Gordon]]. There
 are great events at hand; and the times are dangerous and troubled. Read
-this carefully, keep it clean, and drop it somewhere else. For King and
-Country. Union.’
+this carefully, keep it clean, and drop it somewhere else. For [[King]] and
+Country. [[Union]].’
 
-‘More seed, more seed,’ said Gashford as he closed the window. ‘When
+‘More seed, more seed,’ said Gashford as he closed the [[Window|window]]. ‘When
 will the harvest come!’

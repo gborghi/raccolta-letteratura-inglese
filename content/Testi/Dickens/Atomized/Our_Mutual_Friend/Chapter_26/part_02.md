@@ -34,9 +34,9 @@ misgiving that he sought her out, or heeded any personal attractions
 that he might descry in her? The poor girl, pure of heart and purpose,
 could not bear to think it. Sinking before her own eyes, as she
 suspected herself of it, she drooped her head as though she had done him
-some wicked and grievous injury, and broke into silent tears.
+some wicked and grievous injury, and broke into silent [[Tears|tears]].
 
-‘Don’t be distressed,’ said Eugene, very, very kindly. ‘I hope it is not
+‘Don’t be distressed,’ said Eugene, very, very kindly. ‘I [[Hope|hope]] it is not
 I who have distressed you. I meant no more than to put the matter in its
 true light before you; though I acknowledge I did it selfishly enough,
 for I am disappointed.’
@@ -49,10 +49,10 @@ fancy on doing this little thing for you and for our friend Miss Jenny.
 The novelty of my doing anything in the least useful, had its charms. I
 see, now, that I might have managed it better. I might have affected to
 do it wholly for our friend Miss J. I might have got myself up, morally,
-as Sir Eugene Bountiful. But upon my soul I can’t make flourishes, and I
+as Sir Eugene Bountiful. But upon my [[Soul|soul]] I can’t make flourishes, and I
 would rather be disappointed than try.’
 
-If he meant to follow home what was in Lizzie’s thoughts, it was
+If he meant to follow [[Home|home]] what was in Lizzie’s thoughts, it was
 skilfully done. If he followed it by mere fortuitous coincidence, it was
 done by an evil chance.
 
@@ -68,9 +68,9 @@ noted down with my own hand, and that you may be always sure of my best
 help, and incidentally of Lightwood’s too, in your efforts to clear
 your father. So, it gradually takes my fancy that I may help you—so
 easily!—to clear your father of that other blame which I mentioned
-a few minutes ago, and which is a just and real one. I hope I have
+a few minutes ago, and which is a just and real one. I [[Hope|hope]] I have
 explained myself; for I am heartily sorry to have distressed you. I hate
-to claim to mean well, but I really did mean honestly and simply well,
+to claim to mean [[Well|well]], but I really did mean honestly and simply [[Well|well]],
 and I want you to know it.’
 
 ‘I have never doubted that, Mr Wrayburn,’ said Lizzie; the more
@@ -82,23 +82,23 @@ would?’
 
 ‘I—don’t know that I should, Mr Wrayburn.’
 
-‘Well! Then why refuse now you do understand it?’
+‘[[Well]]! Then why refuse now you do understand it?’
 
 ‘It’s not easy for me to talk to you,’ returned Lizzie, in some
 confusion, ‘for you see all the consequences of what I say, as soon as I
 say it.’
 
 ‘Take all the consequences,’ laughed Eugene, ‘and take away my
-disappointment. Lizzie Hexam, as I truly respect you, and as I am your
+disappointment. [[Lizzie Hexam]], as I truly respect you, and as I am your
 friend and a poor devil of a gentleman, I protest I don’t even now
 understand why you hesitate.’
 
 There was an appearance of openness, trustfulness, unsuspecting
 generosity, in his words and manner, that won the poor girl over; and
 not only won her over, but again caused her to feel as though she had
-been influenced by the opposite qualities, with vanity at their head.
+been influenced by the opposite qualities, with [[Vanity|vanity]] at their head.
 
-‘I will not hesitate any longer, Mr Wrayburn. I hope you will not
+‘I will not hesitate any longer, Mr Wrayburn. I [[Hope|hope]] you will not
 think the worse of me for having hesitated at all. For myself and for
 Jenny—you let me answer for you, Jenny dear?’
 
@@ -110,10 +110,10 @@ seemed as if she had chopped the monosyllable than spoken it.
 ‘For myself and for Jenny, I thankfully accept your kind offer.’
 
 ‘Agreed! Dismissed!’ said Eugene, giving Lizzie his hand before lightly
-waving it, as if he waved the whole subject away. ‘I hope it may not be
+waving it, as if he waved the whole subject away. ‘I [[Hope|hope]] it may not be
 often that so much is made of so little!’
 
-Then he fell to talking playfully with Jenny Wren. ‘I think of setting
+Then he fell to talking playfully with [[Jenny Wren]]. ‘I think of setting
 up a doll, Miss Jenny,’ he said.
 
 ‘You had better not,’ replied the dressmaker.
@@ -129,7 +129,7 @@ sorts, makes good for MY trade.’
 ‘I don’t know about that,’ Miss Wren retorted; ‘but you had better by
 half set up a pen-wiper, and turn industrious, and use it.’
 
-‘Why, if we were all as industrious as you, little Busy-Body, we should
+‘Why, if we were all as industrious as you, little Busy-[[Body]], we should
 begin to work as soon as we could crawl, and there would be a bad
 thing!’
 

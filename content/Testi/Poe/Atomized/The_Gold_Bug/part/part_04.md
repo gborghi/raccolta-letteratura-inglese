@@ -1,5 +1,5 @@
 ---
-title: "The Gold-Bug (part 4)"
+title: "[[The Gold-Bug]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Gold-Bug-(Poe)"
@@ -46,7 +46,7 @@ tags:
 
       smile, “to reinstate me in my family possessions. Is it any
 
-      wonder, then, that I prize it? Since Fortune has thought fit to
+      [[Wonder|wonder]], then, that I prize it? Since Fortune has thought fit to
 
       bestow it upon me, I have only to use it properly and I shall
 
@@ -58,13 +58,13 @@ tags:
 
       “What! de bug, massa? I’d rudder not go fer trubble dat bug—you
 
-      mus’ git him for your own self.” Hereupon Legrand arose, with a
+      mus’ git him for your own [[Self|self]].” Hereupon Legrand arose, with a
 
-      grave and stately air, and brought me the beetle from a glass
+      [[Grave|grave]] and stately air, and brought me the beetle from a glass
 
       case in which it was enclosed. It was a beautiful scarabæus, and,
 
-      at that time, unknown to naturalists—of course a great prize in a
+      at that [[Time|time]], unknown to naturalists—of course a great prize in a
 
       scientific point of view. There were two round, black spots near
 
@@ -108,7 +108,7 @@ tags:
 
 
 
-      I felt it, and, to say the truth, found not the slightest
+      I felt it, and, to say the [[Truth|truth]], found not the slightest
 
       indication of fever.
 
@@ -120,11 +120,11 @@ tags:
 
 
 
-      “You are mistaken,” he interposed, “I am as well as I can expect
+      “You are mistaken,” he interposed, “I am as [[Well|well]] as I can expect
 
       to be under the excitement which I suffer. If you really wish me
 
-      well, you will relieve this excitement.”
+      [[Well|well]], you will relieve this excitement.”
 
 
 
@@ -172,7 +172,7 @@ tags:
 
 
 
-      “Probably all night. We shall start immediately, and be back, at
+      “Probably all [[Night|night]]. We shall start immediately, and be back, at
 
       all events, by sunrise.”
 
@@ -182,13 +182,13 @@ tags:
 
       of yours is over, and the bug business (good God!) settled to
 
-      your satisfaction, you will then return home and follow my advice
+      your satisfaction, you will then return [[Home|home]] and follow my advice
 
       implicitly, as that of your physician?”
 
 
 
-      “Yes; I promise; and now let us be off, for we have no time to
+      “Yes; I promise; and now let us be off, for we have no [[Time|time]] to
 
       lose.”
 
@@ -196,11 +196,11 @@ tags:
 
       With a heavy heart I accompanied my friend. We started about four
 
-      o’clock—Legrand, Jupiter, the dog, and myself. Jupiter had with
+      o’[[Clock|clock]]—Legrand, Jupiter, the dog, and myself. Jupiter had with
 
       him the scythe and spades—the whole of which he insisted upon
 
-      carrying—more through fear, it seemed to me, of trusting either
+      carrying—more through [[Fear|fear]], it seemed to me, of trusting either
 
       of the implements within reach of his master, than from any
 
@@ -208,7 +208,7 @@ tags:
 
       the extreme, and “dat deuced bug” were the sole words which
 
-      escaped his lips during the journey. For my own part, I had
+      escaped his lips during the [[Journey|journey]]. For my own part, I had
 
       charge of a couple of dark lanterns, while Legrand contented
 
@@ -220,11 +220,11 @@ tags:
 
       evidence of my friend’s aberration of mind, I could scarcely
 
-      refrain from tears. I thought it best, however, to humor his
+      refrain from [[Tears|tears]]. I thought it best, however, to humor his
 
       fancy, at least for the present, or until I could adopt some more
 
-      energetic measures with a chance of success. In the mean time I
+      energetic measures with a chance of [[success]]. In the mean [[Time|time]] I
 
       endeavored, but all in vain, to sound him in regard to the object
 

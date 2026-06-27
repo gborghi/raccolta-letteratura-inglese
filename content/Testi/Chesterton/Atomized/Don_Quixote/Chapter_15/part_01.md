@@ -1,5 +1,5 @@
 ---
-title: "Don Quixote — Chapter 14 (part 1)"
+title: "[[Don Quixote]] — Chapter 14 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Don-Quixote-(Chesterton)"
@@ -21,17 +21,17 @@ THE RETURN OF THE KNIGHT-ERRANT
 In the great General Election, which had been produced by the big
 menace of Braintree and his new Syndicalism, and which had led up
 to the launching of the movement in opposition to it, it was reported
-that Mr. Michael Herne had gone into a polling-booth to record
+that Mr. [[Michael]] Herne had gone into a polling-booth to record
 his vote; and had remained there for three-quarters of an hour,
-mysteriously occupied or possibly engaged in prayer.  He had apparently
+mysteriously occupied or possibly engaged in [[prayer]].  He had apparently
 never given a vote before; it not being a Palaeo-Hittite habit;
 but when it had been elaborately explained to him that he had
-only to make a cross on the piece of paper opposite the name
+only to make a [[Cross|cross]] on the piece of paper opposite the name
 of his favourite candidate, he seemed quite charmed and enchanted
-with the idea.  By this time, of course, his Palaeo-Hittite
+with the idea.  By this [[Time|time]], of course, his Palaeo-Hittite
 period had long become prehistoric and stratified in the past;
 and his later medieval enthusiasm devoured his days and nights.
-Nevertheless he could apparently spare a somewhat abnormal time for
+Nevertheless he could apparently spare a somewhat abnormal [[Time|time]] for
 the modern and rather mechanical process of voting; when he might have
 been engaged in drawing the long bow or tilting at a Saracen's head.
 Archer and his other colleagues became a little impatient, and not
@@ -39,7 +39,7 @@ a little mystified, by his mysterious immersion in the ballot box;
 they kicked their legs restlessly outside and eventually went inside,
 to see his tall and motionless back still immovable in its
 separate cell, as of a modern confessional.  They were at last
-goaded to the gross indelicacy of disturbing the Citizen when alone
+goaded to the gross indelicacy of disturbing the Citizen when [[Alone|alone]]
 with his Duty, by going up behind him and pulling his coat-tails.
 As this had no particular effect, they committed the anarchical
 and anti-democratic outrage of actually looking over his shoulder.
@@ -47,10 +47,10 @@ They found that he had set out on the little shelf, as on a table,
 all the illumination paints (presumably borrowed from Miss Ashley),
 paints of gold and silver and all the colours of the rainbow.
 With these he was engaged in doing his democratic duty with almost
-a painful care and patience.  He had been told to make a cross and
-he was making a cross.  He was doing it as it would have been done
+a painful care and patience.  He had been told to make a [[Cross|cross]] and
+he was making a [[Cross|cross]].  He was doing it as it would have been done
 by a monk in the Dark Ages; that is in very gay and glorified colours.
-The cross was of gold, in one corner of it were three blue birds,
+The [[Cross|cross]] was of gold, in one corner of it were three blue [[Birds|birds]],
 in another corner were three red fishes, in another plants,
 in another planets and so on; it seemed to be planned upon the scheme
 of the Canticle of the Creature of St. Francis of Assisi.
@@ -62,8 +62,8 @@ a ballot paper.
 
 Outside in the street, however, there were a good many people who
 thought that even the usual hasty scratch on the ballot paper was
-almost as much of a waste of time as Mr. Herne's elaborate ritual.
-It was the paradox of that particular General Election that it was a great
+almost as much of a waste of [[Time|time]] as Mr. Herne's elaborate ritual.
+It was the [[Paradox|paradox]] of that particular General Election that it was a great
 crisis because another thing was much greater; and it was intensely
 exciting because people were excited about something else.  It was
 rather like one of the elections that take place during a great war.
@@ -83,29 +83,29 @@ ejaculated sharp and even shrill protests.
 At the very moment when Herne was medievally occupied in the monastic cell
 of the polling-station, Braintree was filling the market-place of Milldyke
 with his thunderous voice in the most sensational speech of his career.
-It was sensational in substance as well as in style.  He no longer, as in
-the first stages of this history, demanded what he called Recognition.
+It was sensational in substance as [[Well|well]] as in style.  He no longer, as in
+the first stages of this [[history]], demanded what he called Recognition.
 He demanded Control.
 
 "Your masters tell you," he said, "that you are greedy materialists
 grown accustomed to clamour for more wages.  They are right.
 Your masters tell you that you lack ideals and do not understand
-ambition and the instinct to govern.  They are right.
+[[Ambition|ambition]] and the instinct to govern.  They are right.
 They imply that you are slaves and beasts of burden, in so far
 as you would only eat up stores and escape responsibility.
 They are right.  They are right so long as you are content to ask
-only for wages, only for food, only for well-paid service.
+only for wages, only for food, only for [[Well|well]]-paid service.
 But let us show our masters that we have profited
 by the moral lessons they are so good as to give us.
 Let us return to them penitent; let us tell them we mean to amend
 our faults of petty stipulation and merely materialistic demand.
-Let us tell them that we have an ambition; and it is to rule.
+Let us tell them that we have an [[Ambition|ambition]]; and it is to rule.
 That we have an ideal; and it is to rule equally.
 That we have a hunger and a high thirst for responsibility;
 for the glorious and joyous responsibility of ruling
 what they misrule, of managing what they have mismanaged,
 of sharing among ourselves as workers and comrades that direct
-and democratic government of our own industry which was
+and democratic [[government]] of our own industry which was
 hitherto served to keep a few parasites in luxury in their
 palaces and parks."
 

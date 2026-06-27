@@ -19,7 +19,7 @@ tags:
 'It's because the manager and the barman won't hear of any such person,
 that you dismiss the one really independent piece of evidence; the
 evidence of that boy outside cleaning the steps. He says that a man, who
-well may have been a bagman, but who did not, in fact, stick to the
+[[Well|well]] may have been a bagman, but who did not, in fact, stick to the
 other bagmen, went in and came out again almost immediately. The manager
 and the barman never saw him; or say they never saw him. But he got a
 glass of whisky from the bar somehow. Let us call him, for the sake of
@@ -27,16 +27,16 @@ argument, The Quick One. Now you know I don't often interfere with your
 business, which I know you do better than I should do it, or should want
 to do it. I've never had anything to do with setting police machinery at
 work, or running down criminals, or anything like that. But, for the
-first time in my life, I want to do it now. I want you to find The Quick
+first [[Time|time]] in my life, I want to do it now. I want you to find The Quick
 One; to follow The Quick One to the ends of the earth; to set the whole
 infernal official machinery at work like a drag - net across the
-nations, and jolly well recapture The Quick One. Because he is the man
+nations, and jolly [[Well|well]] recapture The Quick One. Because he is the man
 we want.'
 
 Greenwood made a despairing gesture. 'Has he face or form or any visible
 quality except quickness?' he inquired.
 
-'He was wearing a sort of Inverness cape,' said Father Brown, 'and he
+'He was wearing a sort of Inverness cape,' said [[Father Brown]], 'and he
 told the boy outside he must reach Edinburgh by next morning. That's all
 the boy outside remembers. But I know your organization has got on to
 people with less clue than that.'
@@ -68,7 +68,7 @@ think that the Prime Minister matters at all. As a mere matter of human
 importance, I should say he hardly exists at all. Do you suppose if he
 and the other public men were shot dead tomorrow, there wouldn't be
 other people to stand up and say that every avenue was being explored,
-or that the Government had the matter under the gravest consideration?
+or that the [[government|Government]] had the matter under the gravest consideration?
 The masters of the modern world don't matter. Even the real masters
 don't matter much. Hardly anybody you ever read about in a newspaper
 matters at all.'
@@ -77,25 +77,25 @@ He stood up, giving the table a small rap: one of his rare gestures; and
 his voice changed again. 'But Raggley did matter. He was one of a great
 line of some half a dozen men who might have saved England. They stand
 up stark and dark like disregarded sign - posts, down all that smooth
-descending road which has ended in this swamp of merely commercial
+descending [[Road|road]] which has ended in this swamp of merely commercial
 collapse. Dean Swift and Dr Johnson and old William Cobbett; they had
 all without exception the name of being surly or savage, and they were
 all loved by their friends, and they all deserved to be. Didn't you see
-how that old man, with the heart of a lion, stood up and forgave his
-enemy as only fighters can forgive? He jolly well did do what that
+how that old man, with the heart of a [[Lion|lion]], stood up and forgave his
+enemy as only fighters can forgive? He jolly [[Well|well]] did do what that
 temperance lecturer talked about; he set an example to us Christians and
-was a model of Christianity. And when there is foul and secret murder of
+was a model of [[Christianity]]. And when there is foul and secret murder of
 a man like that - then I do think it matters, matters so much that even
 the modern machinery of police will be a thing that any respectable
 person may make use of ... Oh, don't mention it. And so, for once in a
 way, I really do want to make use of you.'
 
 And so, for some stretch of those strange days and nights, we might
-almost say that the little figure of Father Brown drove before him into
-action all the armies and engines of the police forces of the Crown, as
+almost say that the little figure of [[Father Brown]] drove before him into
+action all the armies and engines of the police forces of the [[Crown]], as
 the little figure of Napoleon drove the batteries and the battle - lines
 of the vast strategy that covered Europe. Police stations and post
-offices worked all night; traffic was stopped, correspondence was
+offices worked all [[Night|night]]; traffic was stopped, correspondence was
 intercepted, inquiries were made in a hundred places, in order to track
 the flying trail of that ghostly figure, without face or name, with an
 Inverness cape and an Edinburgh ticket.
@@ -115,7 +115,7 @@ the primary responsibility, and therefore the primary suspicion, rests
 on the manager.'
 
 'Oh, I knew the primary suspicion would rest on the manager,' said
-Father Brown. 'That was why I didn't suspect him. You see, I rather
+[[Father Brown]]. 'That was why I didn't suspect him. You see, I rather
 fancied somebody else must have known that the primary suspicion would
 rest on the manager; or the servants of the hotel. That is why I said it
 would be easy to kill anybody in the hotel . . . But you'd better go and

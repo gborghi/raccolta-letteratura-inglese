@@ -19,22 +19,22 @@ HEARING THE LAST OF IT
 
 
 MRS. SPARSIT, lying by to recover the tone of her nerves in Mr.
-Bounderby’s retreat, kept such a sharp look-out, night and day, under her
+Bounderby’s retreat, kept such a sharp look-out, [[Night|night]] and day, under her
 Coriolanian eyebrows, that her eyes, like a couple of lighthouses on an
 iron-bound coast, might have warned all prudent mariners from that bold
 rock her Roman nose and the dark and craggy region in its neighbourhood,
 but for the placidity of her manner.  Although it was hard to believe
-that her retiring for the night could be anything but a form, so severely
+that her retiring for the [[Night|night]] could be anything but a form, so severely
 wide awake were those classical eyes of hers, and so impossible did it
 seem that her rigid nose could yield to any relaxing influence, yet her
 manner of sitting, smoothing her uncomfortable, not to say, gritty
 mittens (they were constructed of a cool fabric like a meat-safe), or of
 ambling to unknown places of destination with her foot in her cotton
 stirrup, was so perfectly serene, that most observers would have been
-constrained to suppose her a dove, embodied by some freak of nature, in
+constrained to suppose her a dove, embodied by some freak of [[Nature|nature]], in
 the earthly tabernacle of a bird of the hook-beaked order.
 
-She was a most wonderful woman for prowling about the house.  How she got
+She was a most wonderful woman for prowling about the [[house]].  How she got
 from story to story was a mystery beyond solution.  A lady so decorous in
 herself, and so highly connected, was not to be suspected of dropping
 over the banisters or sliding down them, yet her extraordinary facility
@@ -46,10 +46,10 @@ Neither was she ever seen by human vision to go at a great pace.
 
 She took very kindly to Mr. Harthouse, and had some pleasant conversation
 with him soon after her arrival.  She made him her stately curtsey in the
-garden, one morning before breakfast.
+[[Garden|garden]], one morning before breakfast.
 
 ‘It appears but yesterday, sir,’ said Mrs. Sparsit, ‘that I had the
-honour of receiving you at the Bank, when you were so good as to wish to
+[[Honour|honour]] of receiving you at the Bank, when you were so good as to wish to
 be made acquainted with Mr. Bounderby’s address.’
 
 ‘An occasion, I am sure, not to be forgotten by myself in the course of
@@ -58,19 +58,19 @@ most indolent of all possible airs.
 
 ‘We live in a singular world, sir,’ said Mrs. Sparsit.
 
-‘I have had the honour, by a coincidence of which I am proud, to have
+‘I have had the [[Honour|honour]], by a coincidence of which I am proud, to have
 made a remark, similar in effect, though not so epigrammatically
 expressed.’
 
 ‘A singular world, I would say, sir,’ pursued Mrs. Sparsit; after
 acknowledging the compliment with a drooping of her dark eyebrows, not
 altogether so mild in its expression as her voice was in its dulcet
-tones; ‘as regards the intimacies we form at one time, with individuals
+tones; ‘as regards the intimacies we form at one [[Time|time]], with individuals
 we were quite ignorant of, at another.  I recall, sir, that on that
 occasion you went so far as to say you were actually apprehensive of Miss
 Gradgrind.’
 
-‘Your memory does me more honour than my insignificance deserves.  I
+‘Your [[Memory|memory]] does me more [[Honour|honour]] than my insignificance deserves.  I
 availed myself of your obliging hints to correct my timidity, and it is
 unnecessary to add that they were perfectly accurate.  Mrs. Sparsit’s
 talent for—in fact for anything requiring accuracy—with a combination of
@@ -99,25 +99,25 @@ if she had been talking and thinking of no one else.  ‘How do you find
 yourself this morning, sir?  Pray let us see you cheerful, sir.’
 
 Now, these persistent assuagements of his misery, and lightenings of his
-load, had by this time begun to have the effect of making Mr. Bounderby
+load, had by this [[Time|time]] begun to have the effect of making Mr. Bounderby
 softer than usual towards Mrs. Sparsit, and harder than usual to most
 other people from his wife downward.  So, when Mrs. Sparsit said with
 forced lightness of heart, ‘You want your breakfast, sir, but I dare say
 Miss Gradgrind will soon be here to preside at the table,’ Mr. Bounderby
 replied, ‘If I waited to be taken care of by my wife, ma’am, I believe
-you know pretty well I should wait till Doomsday, so I’ll trouble _you_
+you know pretty [[Well|well]] I should wait till Doomsday, so I’ll trouble _you_
 to take charge of the teapot.’  Mrs. Sparsit complied, and assumed her
 old position at table.
 
 This again made the excellent woman vastly sentimental.  She was so
-humble withal, that when Louisa appeared, she rose, protesting she never
+humble withal, that when Louisa appeared, she [[Rose|rose]], protesting she never
 could think of sitting in that place under existing circumstances, often
-as she had had the honour of making Mr. Bounderby’s breakfast, before
+as she had had the [[Honour|honour]] of making Mr. Bounderby’s breakfast, before
 Mrs. Gradgrind—she begged pardon, she meant to say Miss Bounderby—she
 hoped to be excused, but she really could not get it right yet, though
 she trusted to become familiar with it by and by—had assumed her present
 position.  It was only (she observed) because Miss Gradgrind happened to
-be a little late, and Mr. Bounderby’s time was so very precious, and she
+be a little late, and Mr. Bounderby’s [[Time|time]] was so very precious, and she
 knew it of old to be so essential that he should breakfast to the moment,
 that she had taken the liberty of complying with his request; long as his
 will had been a law to her.

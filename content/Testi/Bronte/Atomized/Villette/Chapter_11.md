@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 11"
+title: "[[Villette]] — Chapter 11"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -18,12 +18,12 @@ CHAPTER XI.
 THE PORTRESS’S CABINET.
 
 
-It was summer and very hot. Georgette, the youngest of Madame Beck’s
+It was [[Summer|summer]] and very hot. Georgette, the youngest of [[Madame Beck]]’s
 children, took a fever. Désirée, suddenly cured of her ailments, was,
 together with Fifine, packed off to Bonne-Maman, in the country, by way
 of precaution against infection. Medical aid was now really needed, and
 Madame, choosing to ignore the return of Dr. Pillule, who had been at
-home a week, conjured his English rival to continue his visits. One or
+[[Home|home]] a week, conjured his English rival to continue his visits. One or
 two of the pensionnaires complained of headache, and in other respects
 seemed slightly to participate in Georgette’s ailment. “Now, at last,”
 I thought, “Dr. Pillule must be recalled: the prudent directress will
@@ -52,7 +52,7 @@ She met the alarmed parents with a good-humoured, easy grace for nobody
 matched her in, I know not whether to say the possession or the
 assumption of a certain “rondeur et franchise de bonne femme;” which on
 various occasions gained the point aimed at with instant and complete
-success, where severe gravity and serious reasoning would probably have
+[[success]], where severe gravity and serious reasoning would probably have
 failed.
 
 “Ce pauvre Docteur Jean!” she would say, chuckling and rubbing joyously
@@ -77,8 +77,8 @@ occasion in a spirit of motherly partiality: she came off with flying
 colours; people liked her as a directress better than ever.
 
 To this day I never fully understood why she thus risked her interest
-for the sake of Dr. John. What people said, of course I know well: the
-whole house—pupils, teachers, servants included—affirmed that she was
+for the sake of Dr. John. What people said, of course I know [[Well|well]]: the
+whole [[house]]—pupils, teachers, servants included—affirmed that she was
 going to marry him. So they had settled it; difference of age seemed to
 make no obstacle in their eyes: it was to be so.
 
@@ -86,7 +86,7 @@ It must be admitted that appearances did not wholly discountenance this
 idea; Madame seemed so bent on retaining his services, so oblivious of
 her former protégé, Pillule. She made, too, such a point of personally
 receiving his visits, and was so unfailingly cheerful, blithe, and
-benignant in her manner to him. Moreover, she paid, about this time,
+benignant in her manner to him. Moreover, she paid, about this [[Time|time]],
 marked attention to dress: the morning dishabille, the nightcap and
 shawl, were discarded; Dr. John’s early visits always found her with
 auburn braids all nicely arranged, silk dress trimly fitted on, neat
@@ -94,7 +94,7 @@ laced brodequins in lieu of slippers: in short the whole toilette
 complete as a model, and fresh as a flower. I scarcely think, however,
 that her intention in this went further than just to show a very
 handsome man that she was not quite a plain woman; and plain she was
-not. Without beauty of feature or elegance of form, she pleased.
+not. Without [[Beauty|beauty]] of feature or elegance of form, she pleased.
 Without youth and its gay graces, she cheered. One never tired of
 seeing her: she was never monotonous, or insipid, or colourless, or
 flat. Her unfaded hair, her eye with its temperate blue light, her
@@ -102,20 +102,20 @@ cheek with its wholesome fruit-like bloom—these things pleased in
 moderation, but with constancy.
 
 Had she, indeed, floating visions of adopting Dr. John as a husband,
-taking him to her well-furnished home, endowing him with her savings,
+taking him to her [[Well|well]]-furnished [[Home|home]], endowing him with her savings,
 which were said to amount to a moderate competency, and making him
 comfortable for the rest of his life? Did Dr. John suspect her of such
 visions? I have met him coming out of her presence with a mischievous
 half-smile about his lips, and in his eyes a look as of masculine
-vanity elate and tickled. With all his good looks and good-nature, he
+[[Vanity|vanity]] elate and tickled. With all his good looks and good-[[Nature|nature]], he
 was not perfect; he must have been very imperfect if he roguishly
 encouraged aims he never intended to be successful. But did he not
 intend them to be successful? People said he had no money, that he was
 wholly dependent upon his profession. Madame—though perhaps some
 fourteen years his senior—was yet the sort of woman never to grow old,
 never to wither, never to break down. They certainly were on good
-terms. _He_ perhaps was not in love; but how many people ever _do_
-love, or at least marry for love, in this world. We waited the end.
+terms. _He_ perhaps was not in [[Love|love]]; but how many people ever _do_
+[[Love|love]], or at least marry for [[Love|love]], in this world. We waited the end.
 
 For what _he_ waited, I do not know, nor for what he watched; but the
 peculiarity of his manner, his expectant, vigilant, absorbed, eager
@@ -139,7 +139,7 @@ her plaintive wail, appealing to me by her familiar term, “Minnie,
 Minnie, me very poorly!” till my heart ached. I descended to ascertain
 why he did not come. The corridor was empty. Whither was he vanished?
 Was he with Madame in the _salle-à-manger?_ Impossible: I had left her
-but a short time since, dressing in her own chamber. I listened. Three
+but a short [[Time|time]] since, dressing in her own chamber. I listened. Three
 pupils were just then hard at work practising in three proximate
 rooms—the dining-room and the greater and lesser drawing-rooms, between
 which and the corridor there was but the portress’s cabinet
@@ -160,11 +160,11 @@ baffled, tortured, anxious, and yet a tender meaning on his brow.
 
 The open door served me as a screen; but had I been full in his way, I
 believe he would have passed without seeing me. Some mortification,
-some strong vexation had hold of his soul: or rather, to write my
-impressions now as I received them at the time I should say some
-sorrow, some sense of injustice. I did not so much think his pride was
+some strong vexation had hold of his [[Soul|soul]]: or rather, to write my
+impressions now as I received them at the [[Time|time]] I should say some
+sorrow, some sense of injustice. I did not so much think his [[Pride|pride]] was
 hurt, as that his affections had been wounded—cruelly wounded, it
-seemed to me. But who was the torturer? What being in that house had
+seemed to me. But who was the torturer? What being in that [[house]] had
 him so much in her power? Madame I believed to be in her chamber; the
 room whence he had stepped was dedicated to the portress’s sole use;
 and she, Rosine Matou, an unprincipled though pretty little French
@@ -173,21 +173,21 @@ to _her_ hand he owed the ordeal through which he seemed to have
 passed?
 
 But while I pondered, her voice, clear, though somewhat sharp, broke
-out in a lightsome French song, trilling through the door still ajar: I
+out in a lightsome French [[Song|song]], trilling through the door still ajar: I
 glanced in, doubting my senses. There at the table she sat in a smart
-dress of “jaconas rose,” trimming a tiny blond cap: not a living thing
+dress of “jaconas [[Rose|rose]],” trimming a tiny blond cap: not a living thing
 save herself was in the room, except indeed some gold fish in a glass
-globe, some flowers in pots, and a broad July sunbeam.
+globe, some [[Flowers|flowers]] in pots, and a broad July sunbeam.
 
 Here was a problem: but I must go up-stairs to ask about the medicine.
 
 Dr. John sat in a chair at Georgette’s bedside; Madame stood before
 him; the little patient had been examined and soothed, and now lay
-composed in her crib. Madame Beck, as I entered, was discussing the
+composed in her crib. [[Madame Beck]], as I entered, was discussing the
 physician’s own health, remarking on some real or fancied change in his
 looks, charging him with over-work, and recommending rest and change of
 air. He listened good-naturedly, but with laughing indifference,
-telling her that she was “trop bonne,” and that he felt perfectly well.
+telling her that she was “trop bonne,” and that he felt perfectly [[Well|well]].
 Madame appealed to me—Dr. John following her movement with a slow
 glance which seemed to express languid surprise at reference being made
 to a quarter so insignificant.
@@ -205,14 +205,14 @@ significant.
 cause: Dr. John may have been vexed or harassed.” I cannot tell how he
 took this speech, as I never sought his face for information. Georgette
 here began to ask me in her broken English if she might have a glass of
-_eau sucrée_. I answered her in English. For the first time, I fancy,
+_eau sucrée_. I answered her in English. For the first [[Time|time]], I fancy,
 he noticed that I spoke his language; hitherto he had always taken me
 for a foreigner, addressing me as “Mademoiselle,” and giving in French
 the requisite directions about the children’s treatment. He seemed on
 the point of making a remark; but thinking better of it, held his
 tongue.
 
-Madame recommenced advising him; he shook his head, laughing, rose and
+Madame recommenced advising him; he shook his head, laughing, [[Rose|rose]] and
 bid her good-morning, with courtesy, but still with the regardless air
 of one whom too much unsolicited attention was surfeiting and spoiling.
 
@@ -223,25 +223,25 @@ She sighed; a single, but a deep sigh. A loud bell rang for
 morning-school. She got up; as she passed a dressing-table with a glass
 upon it, she looked at her reflected image. One single white hair
 streaked her nut-brown tresses; she plucked it out with a shudder. In
-the full summer daylight, her face, though it still had the colour,
+the full [[Summer|summer]] daylight, her face, though it still had the colour,
 could plainly be seen to have lost the texture of youth; and then,
 where were youth’s contours? Ah, Madame! wise as you were, even _you_
 knew weakness. Never had I pitied Madame before, but my heart softened
 towards her, when she turned darkly from the glass. A calamity had come
 upon her. That hag Disappointment was greeting her with a grisly
-“All-hail,” and her soul rejected the intimacy.
+“All-hail,” and her [[Soul|soul]] rejected the intimacy.
 
 But Rosine! My bewilderment there surpasses description. I embraced
 five opportunities of passing her cabinet that day, with a view to
 contemplating her charms, and finding out the secret of their
-influence. She was pretty, young, and wore a well-made dress. All very
+influence. She was pretty, young, and wore a [[Well|well]]-made dress. All very
 good points, and, I suppose, amply sufficient to account, in any
 philosophic mind, for any amount of agony and distraction in a young
 man, like Dr. John. Still, I could not help forming half a wish that
 the said doctor were my brother; or at least that he had a sister or a
 mother who would kindly sermonize him. I say _half_ a wish; I broke it,
 and flung it away before it became a whole one, discovering in good
-time its exquisite folly. “Somebody,” I argued, “might as well
+[[Time|time]] its exquisite folly. “Somebody,” I argued, “might as [[Well|well]]
 sermonize Madame about her young physician: and what good would that
 do?”
 
@@ -249,9 +249,9 @@ I believe Madame sermonized herself. She did not behave weakly, or make
 herself in any shape ridiculous. It is true she had neither strong
 feelings to overcome, nor tender feelings by which to be miserably
 pained. It is true likewise that she had an important avocation, a real
-business to fill her time, divert her thoughts, and divide her
+business to fill her [[Time|time]], divert her thoughts, and divide her
 interest. It is especially true that she possessed a genuine good sense
 which is not given to all women nor to all men; and by dint of these
-combined advantages she behaved wisely—she behaved well. Brava! once
-more, Madame Beck. I saw you matched against an Apollyon of a
+combined advantages she behaved wisely—she behaved [[Well|well]]. Brava! once
+more, [[Madame Beck]]. I saw you matched against an Apollyon of a
 predilection; you fought a good fight, and you overcame!

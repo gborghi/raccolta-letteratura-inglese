@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 15"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 15"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -24,9 +24,9 @@ That day was rainy like its predecessor; but towards evening it began
 
 to clear up a little, and the next morning was fair and promising. I
 
-was out on the hill with the reapers. A light wind swept over the corn,
+was out on the [[Hill|hill]] with the reapers. A light [[Wind|wind]] swept over the corn,
 
-and all nature laughed in the sunshine. The lark was rejoicing among
+and all [[Nature|nature]] laughed in the sunshine. The lark was rejoicing among
 
 the silvery floating clouds. The late rain had so sweetly freshened and
 
@@ -36,11 +36,11 @@ branch and blade, that not even the farmers could have the heart to
 
 blame it. But no ray of sunshine could reach my heart, no breeze could
 
-freshen it; nothing could fill the void my faith, and hope, and joy in
+freshen it; nothing could fill the void my [[Faith|faith]], and [[Hope|hope]], and joy in
 
-Helen Graham had left, or drive away the keen regrets and bitter dregs
+[[Helen]] Graham had left, or drive away the keen regrets and bitter dregs
 
-of lingering love that still oppressed it.
+of lingering [[Love|love]] that still oppressed it.
 
 
 
@@ -54,7 +54,7 @@ aroused me with the startling words,—“Mr. Markham, mamma wants you.”
 
 
 
-“Wants _me_, Arthur?”
+“Wants _me_, [[arthur|Arthur]]?”
 
 
 
@@ -100,19 +100,19 @@ I accompanied her through the gap.
 
 
 
-“Arthur, darling, run and gather those bluebells,” said she, pointing
+“[[arthur|Arthur]], darling, run and gather those bluebells,” said she, pointing
 
 to some that were gleaming at some distance under the hedge along which
 
-we walked. The child hesitated, as if unwilling to quit my side. “Go,
+we walked. The [[Child|child]] hesitated, as if unwilling to quit my side. “Go,
 
-love!” repeated she more urgently, and in a tone which, though not
+[[Love|love]]!” repeated she more urgently, and in a tone which, though not
 
 unkind, demanded prompt obedience, and obtained it.
 
 
 
-“Well, Mrs. Graham?” said I, calmly and coldly; for, though I saw she
+“[[Well]], Mrs. Graham?” said I, calmly and coldly; for, though I saw she
 
 was miserable, and pitied her, I felt glad to have it in my power to
 
@@ -128,7 +128,7 @@ and yet it made me smile.
 
 “I don’t ask the reason of this change, Gilbert,” said she, with bitter
 
-calmness: “I know it too well; but though I could see myself suspected
+calmness: “I know it too [[Well|well]]; but though I could see myself suspected
 
 and condemned by every one else, and bear it with calmness, I cannot
 
@@ -180,7 +180,7 @@ still beside her; and then she stood still, and cast one look behind.
 
 It was a look less expressive of anger than of bitter anguish and
 
-despair; but I immediately assumed an aspect of indifference, and
+[[Despair|despair]]; but I immediately assumed an aspect of indifference, and
 
 affected to be gazing carelessly around me, and I suppose she went on;
 
@@ -188,7 +188,7 @@ for after lingering awhile to see if she would come back or call, I
 
 ventured one more glance, and saw her a good way off, moving rapidly up
 
-the field, with little Arthur running by her side and apparently
+the field, with little [[arthur|Arthur]] running by her side and apparently
 
 talking as he went; but she kept her face averted from him, as if to
 
@@ -228,17 +228,17 @@ her once more, and fairly satisfy myself in what light to regard her,
 
 before we parted. Lost to me she was, for ever, of course; but still I
 
-could not bear to think that we had parted, for the last time, with so
+could not bear to think that we had parted, for the last [[Time|time]], with so
 
 much unkindness and misery on both sides. That last look of hers had
 
-sunk into my heart; I could not forget it. But what a fool I was! Had
+sunk into my heart; I could not forget it. But what a [[Fool|fool]] I was! Had
 
-she not deceived me, injured me—blighted my happiness for life? “Well,
+she not deceived me, injured me—blighted my happiness for life? “[[Well]],
 
 I’ll see her, however,” was my concluding resolve, “but not to-day:
 
-to-day and to-night she may think upon her sins, and be as miserable as
+to-day and to-[[Night|night]] she may think upon her sins, and be as miserable as
 
 she will: to-morrow I will see her once again, and know something more
 
@@ -264,9 +264,9 @@ cheerfulness not its own. I need not dilate upon the feelings with
 
 which I approached the shrine of my former divinity—that spot teeming
 
-with a thousand delightful recollections and glorious dreams—all
+with a thousand delightful recollections and glorious [[Dreams|dreams]]—all
 
-darkened now by one disastrous truth.
+darkened now by one disastrous [[Truth|truth]].
 
 
 
@@ -284,9 +284,9 @@ Humphry Davy’s “Last Days of a Philosopher,” and on the first leaf was
 
 written, “Frederick Lawrence.” I closed the book, but kept it in my
 
-hand, and stood facing the door, with my back to the fire-place, calmly
+hand, and stood facing the door, with my back to the [[Fire|fire]]-place, calmly
 
-waiting her arrival; for I did not doubt she would come. And soon I
+waiting her arrival; for I did not [[Doubt|doubt]] she would come. And soon I
 
 heard her step in the hall. My heart was beginning to throb, but I
 
@@ -304,7 +304,7 @@ with a smile, and impudently enough,—
 
 
 
-“Well, I am come to hear your explanation.”
+“[[Well]], I am come to hear your explanation.”
 
 
 
@@ -314,11 +314,11 @@ of my confidence.”
 
 
 
-“Oh, very well,” replied I, moving to the door.
+“Oh, very [[Well|well]],” replied I, moving to the door.
 
 
 
-“Stay a moment,” said she. “This is the last time I shall see you:
+“Stay a moment,” said she. “This is the last [[Time|time]] I shall see you:
 
 don’t go just yet.”
 
@@ -336,7 +336,7 @@ against me; who told you; and what did they say?”
 
 I paused a moment. She met my eye as unflinchingly as if her bosom had
 
-been steeled with conscious innocence. She was resolved to know the
+been steeled with conscious [[innocence]]. She was resolved to know the
 
 worst, and determined to dare it too. “I can crush that bold spirit,”
 
@@ -376,7 +376,7 @@ yours?—because, if you have not—”
 
 “I will not be insulted, Mr. Markham!” cried she, almost infuriated at
 
-my manner. “So you had better leave the house at once, if you came only
+my manner. “So you had better leave the [[house]] at once, if you came only
 
 for that.”
 
@@ -404,7 +404,7 @@ once my tone of taunting sarcasm. “I heartily wish I could find them a
 
 jesting matter. And as to being easily led to suspect, God only knows
 
-what a blind, incredulous fool I have hitherto been, perseveringly
+what a blind, incredulous [[Fool|fool]] I have hitherto been, perseveringly
 
 shutting my eyes and stopping my ears against everything that
 
@@ -418,7 +418,7 @@ my infatuation!”
 
 
 
-“Well, I’ll tell you. You remember that evening when I was here last?”
+“[[Well]], I’ll tell you. You remember that evening when I was here last?”
 
 
 
@@ -430,7 +430,7 @@ my infatuation!”
 
 wiser man; but they had no such effect upon me: I went on trusting and
 
-believing, hoping against hope, and adoring where I could not
+believing, hoping against [[Hope|hope]], and adoring where I could not
 
 comprehend. It so happened, however, that after I left you I turned
 
@@ -438,19 +438,19 @@ back—drawn by pure depth of sympathy and ardour of affection—not daring
 
 to intrude my presence openly upon you, but unable to resist the
 
-temptation of catching one glimpse through the window, just to see how
+[[Temptation|temptation]] of catching one glimpse through the [[Window|window]], just to see how
 
 you were: for I had left you apparently in great affliction, and I
 
 partly blamed my own want of forbearance and discretion as the cause of
 
-it. If I did wrong, love alone was my incentive, and the punishment was
+it. If I did wrong, [[Love|love]] [[Alone|alone]] was my incentive, and the punishment was
 
 severe enough; for it was just as I had reached that tree, that you
 
-came out into the garden with your friend. Not choosing to show myself,
+came out into the [[Garden|garden]] with your friend. Not choosing to show myself,
 
-under the circumstances, I stood still, in the shadow, till you had
+under the circumstances, I stood still, in the [[Shadow|shadow]], till you had
 
 both passed by.”
 
@@ -460,7 +460,7 @@ both passed by.”
 
 
 
-“I heard quite enough, Helen. And it was well for me that I did hear
+“I heard quite enough, [[Helen]]. And it was [[Well|well]] for me that I did hear
 
 it; for nothing less could have cured my infatuation. I always said and
 
@@ -468,7 +468,7 @@ thought, that I would never believe a word against you, unless I heard
 
 it from your own lips. All the hints and affirmations of others I
 
-treated as malignant, baseless slanders; your own self-accusations I
+treated as malignant, baseless slanders; your own [[Self|self]]-accusations I
 
 believed to be overstrained; and all that seemed unaccountable in your
 
@@ -498,13 +498,13 @@ protestations of attachment, without ever assigning a reason for the
 
 change. You should have told me all—no matter _how_ bitterly. It would
 
-have been better than this silence.”
+have been better than this [[Silence|silence]].”
 
 
 
 “To what end should I have done so? You could not have enlightened me
 
-further, on the subject which alone concerned me; nor could you have
+further, on the subject which [[Alone|alone]] concerned me; nor could you have
 
 made me discredit the evidence of my senses. I desired our intimacy to
 
@@ -536,11 +536,11 @@ I did, it was not for pleasure at the thoughts of the harm I had done
 
 you. Heaven knows I have had torment enough at the bare possibility of
 
-that; it was for joy to find that you had some depth of soul and
+that; it was for joy to find that you had some depth of [[Soul|soul]] and
 
-feeling after all, and to hope that I had not been utterly mistaken in
+feeling after all, and to [[Hope|hope]] that I had not been utterly mistaken in
 
-your worth. But smiles and tears are so alike with me, they are neither
+your worth. But smiles and [[Tears|tears]] are so alike with me, they are neither
 
 of them confined to any particular feelings: I often cry when I am
 
@@ -560,7 +560,7 @@ mistaken in your conclusions?”
 
 
 
-“How can you ask it, Helen?”
+“How can you ask it, [[Helen]]?”
 
 
 
@@ -586,19 +586,19 @@ whole frame trembled, now, with excess of agitation. She did not speak,
 
 but flew to her desk, and snatching thence what seemed a thick album or
 
-manuscript volume, hastily tore away a few leaves from the end, and
+manuscript volume, hastily tore away a few [[Leaves|leaves]] from the end, and
 
 thrust the rest into my hand, saying, “You needn’t read it all; but
 
-take it home with you,” and hurried from the room. But when I had left
+take it [[Home|home]] with you,” and hurried from the room. But when I had left
 
-the house, and was proceeding down the walk, she opened the window and
+the [[house]], and was proceeding down the walk, she opened the [[Window|window]] and
 
 called me back. It was only to say,—“Bring it back when you have read
 
 it; and don’t breathe a word of what it tells you to any living being.
 
-I trust to your honour.”
+I trust to your [[Honour|honour]].”
 
 
 
@@ -608,13 +608,13 @@ saw her cast herself back in the old oak chair, and cover her face with
 
 her hands. Her feelings had been wrought to a pitch that rendered it
 
-necessary to seek relief in tears.
+necessary to seek relief in [[Tears|tears]].
 
 
 
 Panting with eagerness, and struggling to suppress my hopes, I hurried
 
-home, and rushed up-stairs to my room, having first provided myself
+[[Home|home]], and rushed up-stairs to my room, having first provided myself
 
 with a candle, though it was scarcely twilight yet—then, shut and
 
@@ -622,7 +622,7 @@ bolted the door, determined to tolerate no interruption; and sitting
 
 down before the table, opened out my prize and delivered myself up to
 
-its perusal—first hastily turning over the leaves and snatching a
+its perusal—first hastily turning over the [[Leaves|leaves]] and snatching a
 
 sentence here and there, and then setting myself steadily to read it
 

@@ -1,5 +1,5 @@
 ---
-title: "A Child's History of England — UDFOG is a pleasant town—a remarkably pleasant town—situated in a (part 1)"
+title: "A [[Child]]'s [[history|History]] of England — UDFOG is a pleasant town—a remarkably pleasant town—situated in a (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Child's-History-of-England-(Dickens)"
@@ -15,19 +15,19 @@ tags:
 
 
 MUDFOG is a pleasant town—a remarkably pleasant town—situated in a
-charming hollow by the side of a river, from which river, Mudfog derives
+charming hollow by the side of a [[River|river]], from which [[River|river]], Mudfog derives
 an agreeable scent of pitch, tar, coals, and rope-yarn, a roving
 population in oilskin hats, a pretty steady influx of drunken bargemen,
 and a great many other maritime advantages.  There is a good deal of
-water about Mudfog, and yet it is not exactly the sort of town for a
-watering-place, either.  Water is a perverse sort of element at the best
-of times, and in Mudfog it is particularly so.  In winter, it comes
+[[Water|water]] about Mudfog, and yet it is not exactly the sort of town for a
+watering-place, either.  [[Water]] is a perverse sort of element at the best
+of times, and in Mudfog it is particularly so.  In [[Winter|winter]], it comes
 oozing down the streets and tumbling over the fields,—nay, rushes into
 the very cellars and kitchens of the houses, with a lavish prodigality
-that might well be dispensed with; but in the hot summer weather it
+that might [[Well|well]] be dispensed with; but in the hot [[Summer|summer]] weather it
 _will_ dry up, and turn green: and, although green is a very good colour
 in its way, especially in grass, still it certainly is not becoming to
-water; and it cannot be denied that the beauty of Mudfog is rather
+[[Water|water]]; and it cannot be denied that the [[Beauty|beauty]] of Mudfog is rather
 impaired, even by this trifling circumstance.  Mudfog is a healthy
 place—very healthy;—damp, perhaps, but none the worse for that.  It’s
 quite a mistake to suppose that damp is unwholesome: plants thrive best
@@ -43,37 +43,37 @@ of Mudfog.  There are a great many more public-houses in Mudfog—more than
 in Ratcliff Highway and Limehouse put together.  The public buildings,
 too, are very imposing.  We consider the town-hall one of the finest
 specimens of shed architecture, extant: it is a combination of the
-pig-sty and tea-garden-box orders; and the simplicity of its design is of
-surpassing beauty.  The idea of placing a large window on one side of the
+pig-sty and tea-[[Garden|garden]]-box orders; and the simplicity of its design is of
+surpassing [[Beauty|beauty]].  The idea of placing a large [[Window|window]] on one side of the
 door, and a small one on the other, is particularly happy.  There is a
-fine old Doric beauty, too, about the padlock and scraper, which is
+fine old Doric [[Beauty|beauty]], too, about the padlock and scraper, which is
 strictly in keeping with the general effect.
 
 In this room do the mayor and corporation of Mudfog assemble together in
 solemn council for the public weal.  Seated on the massive wooden
 benches, which, with the table in the centre, form the only furniture of
 the whitewashed apartment, the sage men of Mudfog spend hour after hour
-in grave deliberation.  Here they settle at what hour of the night the
+in [[Grave|grave]] deliberation.  Here they settle at what hour of the [[Night|night]] the
 public-houses shall be closed, at what hour of the morning they shall be
 permitted to open, how soon it shall be lawful for people to eat their
 dinner on church-days, and other great political questions; and
-sometimes, long after silence has fallen on the town, and the distant
+sometimes, long after [[Silence|silence]] has fallen on the town, and the distant
 lights from the shops and houses have ceased to twinkle, like far-off
-stars, to the sight of the boatmen on the river, the illumination in the
+[[Stars|stars]], to the sight of the boatmen on the [[River|river]], the illumination in the
 two unequal-sized windows of the town-hall, warns the inhabitants of
-Mudfog that its little body of legislators, like a larger and
-better-known body of the same genus, a great deal more noisy, and not a
+Mudfog that its little [[Body|body]] of legislators, like a larger and
+better-known [[Body|body]] of the same genus, a great deal more noisy, and not a
 whit more profound, are patriotically dozing away in company, far into
-the night, for their country’s good.
+the [[Night|night]], for their country’s good.
 
 Among this knot of sage and learned men, no one was so eminently
 distinguished, during many years, for the quiet modesty of his appearance
-and demeanour, as Nicholas Tulrumble, the well-known coal-dealer.
+and demeanour, as Nicholas Tulrumble, the [[Well|well]]-known coal-dealer.
 However exciting the subject of discussion, however animated the tone of
-the debate, or however warm the personalities exchanged, (and even in
+the [[debate]], or however warm the personalities exchanged, (and even in
 Mudfog we get personal sometimes,) Nicholas Tulrumble was always the
-same.  To say truth, Nicholas, being an industrious man, and always up
-betimes, was apt to fall asleep when a debate began, and to remain asleep
+same.  To say [[Truth|truth]], Nicholas, being an industrious man, and always up
+betimes, was apt to fall asleep when a [[debate]] began, and to remain asleep
 till it was over, when he would wake up very much refreshed, and give his
 vote with the greatest complacency.  The fact was, that Nicholas
 Tulrumble, knowing that everybody there had made up his mind beforehand,
@@ -81,38 +81,38 @@ considered the talking as just a long botheration about nothing at all;
 and to the present hour it remains a question, whether, on this point at
 all events, Nicholas Tulrumble was not pretty near right.
 
-Time, which strews a man’s head with silver, sometimes fills his pockets
+[[Time]], which strews a man’s head with silver, sometimes fills his pockets
 with gold.  As he gradually performed one good office for Nicholas
 Tulrumble, he was obliging enough, not to omit the other.  Nicholas began
 life in a wooden tenement of four feet square, with a capital of two and
 ninepence, and a stock in trade of three bushels and a-half of coals,
 exclusive of the large lump which hung, by way of sign-board, outside.
 Then he enlarged the shed, and kept a truck; then he left the shed, and
-the truck too, and started a donkey and a Mrs. Tulrumble; then he moved
+the truck too, and started a [[donkey]] and a Mrs. Tulrumble; then he moved
 again and set up a cart; the cart was soon afterwards exchanged for a
 waggon; and so he went on like his great predecessor Whittington—only
 without a cat for a partner—increasing in wealth and fame, until at last
 he gave up business altogether, and retired with Mrs. Tulrumble and
 family to Mudfog Hall, which he had himself erected, on something which
-he attempted to delude himself into the belief was a hill, about a
+he attempted to delude himself into the belief was a [[Hill|hill]], about a
 quarter of a mile distant from the town of Mudfog.
 
-About this time, it began to be murmured in Mudfog that Nicholas
-Tulrumble was growing vain and haughty; that prosperity and success had
+About this [[Time|time]], it began to be murmured in Mudfog that Nicholas
+Tulrumble was growing vain and haughty; that prosperity and [[success]] had
 corrupted the simplicity of his manners, and tainted the natural goodness
 of his heart; in short, that he was setting up for a public character,
 and a great gentleman, and affected to look down upon his old companions
-with compassion and contempt.  Whether these reports were at the time
-well-founded, or not, certain it is that Mrs. Tulrumble very shortly
-afterwards started a four-wheel chaise, driven by a tall postilion in a
+with compassion and contempt.  Whether these reports were at the [[Time|time]]
+[[Well|well]]-founded, or not, certain it is that Mrs. Tulrumble very shortly
+afterwards started a four-[[Wheel|wheel]] chaise, driven by a tall postilion in a
 yellow cap,—that Mr. Tulrumble junior took to smoking cigars, and calling
-the footman a ‘feller,’—and that Mr. Tulrumble from that time forth, was
+the footman a ‘feller,’—and that Mr. Tulrumble from that [[Time|time]] forth, was
 no more seen in his old seat in the chimney-corner of the Lighterman’s
-Arms at night.  This looked bad; but, more than this, it began to be
+Arms at [[Night|night]].  This looked bad; but, more than this, it began to be
 observed that Mr. Nicholas Tulrumble attended the corporation meetings
-more frequently than heretofore; and he no longer went to sleep as he had
+more frequently than heretofore; and he no longer went to [[Sleep|sleep]] as he had
 done for so many years, but propped his eyelids open with his two
-forefingers; that he read the newspapers by himself at home; and that he
+forefingers; that he read the newspapers by himself at [[Home|home]]; and that he
 was in the habit of indulging abroad in distant and mysterious allusions
 to ‘masses of people,’ and ‘the property of the country,’ and ‘productive
 power,’ and ‘the monied interest:’ all of which denoted and proved that

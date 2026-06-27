@@ -18,8 +18,8 @@ SIX: The Crime of the Communist
 
 Three men came out from under the lowbrowed Tudor arch in the mellow
 facade of Mandeville College, into the strong evening sunlight of a
-summer day which seemed as if it would never end; and in that sunlight
-they saw something that blasted like lightning; well - fitted to be the
+[[Summer|summer]] day which seemed as if it would never end; and in that sunlight
+they saw something that blasted like [[Lightning|lightning]]; [[Well|well]] - fitted to be the
 shock of their lives.
 
 Even before they had realized anything in the way of a catastrophe, they

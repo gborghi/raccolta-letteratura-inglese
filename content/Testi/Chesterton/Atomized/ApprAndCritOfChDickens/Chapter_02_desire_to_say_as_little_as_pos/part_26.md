@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 1: desire to say as little as possible; I will discuss any other (part 26)"
+title: "[[ApprAndCritOfChDickens]] — Book 1: [[Desire|desire]] to say as little as possible; I will discuss any other (part 26)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -14,21 +14,21 @@ tags:
 </nav>
 
 
-America in the spirit of a Government inspector dealing with something
+[[america|America]] in the spirit of a [[government|Government]] inspector dealing with something
 
 it was his duty to inspect. This is never felt either in his praise or
 
 blame of Continental countries. When he did not leave a foreign country
 
-to decay like a dead dog, he merely watched it at play like a kitten.
+to [[Decay|decay]] like a dead dog, he merely watched it at play like a kitten.
 
-France he mistook for a kitten. Italy he mistook for a dead dog.
+France he mistook for a kitten. [[Italy]] he mistook for a dead dog.
 
 
 
-But with America he could feel--and fear. There he could hate, because
+But with [[america|America]] he could feel--and [[Fear|fear]]. There he could hate, because
 
-he could love. There he could feel not the past alone nor the present,
+he could [[Love|love]]. There he could feel not the past [[Alone|alone]] nor the present,
 
 but the future also; and, like all brave men, when he saw the future he
 
@@ -48,21 +48,21 @@ the wrong one. The true patriot is always doubtful of victory; because
 
 he knows that he is dealing with a living thing; a thing with free will.
 
-To be certain of free will is to be uncertain of success.
+To be certain of free will is to be uncertain of [[success]].
 
 
 
 The subject matter of the real difference of opinion between Dickens and
 
-the public of America can only be understood if it is thus treated as a
+the public of [[america|America]] can only be understood if it is thus treated as a
 
 dispute between brothers about the destiny of a common heritage. The
 
 point at issue might be stated like this. Dickens, on his side, did not
 
-in his heart doubt for a moment that England would eventually follow
+in his heart [[Doubt|doubt]] for a moment that England would eventually follow
 
-America along the road towards real political equality and purely
+[[america|America]] along the [[Road|road]] towards real political equality and purely
 
 republican institutions. He lived, it must be remembered, before the
 
@@ -70,7 +70,7 @@ revival of aristocracy, which has since overwhelmed us--the revival of
 
 aristocracy worked through popular science and commercial dictatorship,
 
-and which has nowhere been more manifest than in America itself. He knew
+and which has nowhere been more manifest than in [[america|America]] itself. He knew
 
 nothing of this; in his heart he conceded to the Yankees that not only
 
@@ -94,17 +94,17 @@ had of current and present problems, though his criticism is useless to
 
 the point of nonentity about all things remote from him in style of
 
-civilisation or in time. His point about good manners is really
+civilisation or in [[Time|time]]. His point about good manners is really
 
 important. All his grumblings through this book of _American Notes_, all
 
-his shrieking satire in _Martin Chuzzlewit_ are expressions of a grave
+his shrieking [[Satire|satire]] in _Martin Chuzzlewit_ are expressions of a [[Grave|grave]]
 
-and reasonable fear he had touching the future of democracy. And
+and reasonable [[Fear|fear]] he had touching the future of [[democracy]]. And
 
 remember again what has been already remarked--instinctively he paid
 
-America the compliment of looking at her as the future of democracy.
+[[america|America]] the compliment of looking at her as the future of [[democracy]].
 
 
 
@@ -128,19 +128,19 @@ certain Socialist leaders call each other Tom, Dick, and Harry;
 
 especially when Tom is accusing Harry of having basely imposed upon the
 
-well-known imbecility of Dick. There is something quite undemocratic in
+[[Well|well]]-known imbecility of Dick. There is something quite undemocratic in
 
 all men calling each other by the special and affectionate term
 
 "comrade"; especially when they say it with a sneer and smart inquiry
 
-about the funds. Democracy would be quite satisfied if every man called
+about the funds. [[democracy|Democracy]] would be quite satisfied if every man called
 
-every other man "sir." Democracy would have no conceivable reason to
+every other man "sir." [[democracy|Democracy]] would have no conceivable reason to
 
 complain if every man called every other man "your excellency" or "your
 
-holiness" or "brother of the sun and moon." The only democratic
+holiness" or "brother of the sun and [[Moon|moon]]." The only democratic
 
 essential is that it should be a term of dignity and that it should be
 
@@ -154,7 +154,7 @@ was lacking in respect.
 
 
 
-Dickens saw America as markedly the seat of this danger. He saw that
+Dickens saw [[america|America]] as markedly the seat of this danger. He saw that
 
 there was a perilous possibility that republican ideals might be allied
 
@@ -168,7 +168,7 @@ hand to the plough, might put his feet on the tablecloth, and an
 
 impression prevail that it was all a part of the same rugged equality
 
-and freedom. Insolence might become a tradition. Bad manners might have
+and [[Freedom|freedom]]. Insolence might become a tradition. Bad manners might have
 
 all the sanctity of good manners. "There you are!" cries Martin
 
@@ -182,13 +182,13 @@ matter is that he would not thus have worried about the degradation of
 
 republican simplicity into general rudeness if he had not from first to
 
-last instinctively felt that America held human democracy in her hand,
+last instinctively felt that [[america|America]] held human [[democracy]] in her hand,
 
 to exalt it or to let it fall. In one of his gloomier moments he wrote
 
-down his fear that the greatest blow ever struck at liberty would be
+down his [[Fear|fear]] that the greatest blow ever struck at liberty would be
 
-struck by America in the failure of her mission upon the earth.
+struck by [[america|America]] in the failure of her mission upon the earth.
 
 
 

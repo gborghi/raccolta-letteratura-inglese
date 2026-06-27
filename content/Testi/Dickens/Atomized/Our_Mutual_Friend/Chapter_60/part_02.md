@@ -30,9 +30,9 @@ reply. ‘It’s safer talk too.’
 ‘Spites, affronts, offences giv’ and took, deadly aggrawations, such
 like,’ answered Riderhood.
 
-Do what Bradley Headstone would, he could not keep that former flush of
+Do what [[Bradley Headstone]] would, he could not keep that former flush of
 impatience out of his face, or so master his eyes as to prevent their
-again looking anxiously up the river.
+again looking anxiously up the [[River|river]].
 
 ‘Ha ha! Don’t be afeerd, T’otherest,’ said Riderhood. ‘The T’other’s got
 to make way agin the stream, and he takes it easy. You can soon come up
@@ -44,8 +44,8 @@ tide—say Richmond—and this, if you had a mind to it.’
 
 ‘I KNOW you have,’ said Riderhood.
 
-‘Well! I have, I have,’ Bradley admitted. ‘But,’ with another anxious
-look up the river, ‘he may land.’
+‘[[Well]]! I have, I have,’ Bradley admitted. ‘But,’ with another anxious
+look up the [[River|river]], ‘he may land.’
 
 ‘Easy you! He won’t be lost if he does land,’ said Riderhood. ‘He must
 leave his boat behind him. He can’t make a bundle or a parcel on it, and
@@ -67,10 +67,10 @@ tearing up a tuft of grass:
 
 ‘Damn him!’
 
-‘Hooroar!’ cried Riderhood. ‘Does you credit! Hooroar! I cry chorus to
+‘Hooroar!’ cried Riderhood. ‘Does you credit! Hooroar! I cry [[Chorus|chorus]] to
 the T’otherest.’
 
-‘What turn,’ said Bradley, with an effort at self-repression that forced
+‘What turn,’ said Bradley, with an effort at [[Self|self]]-repression that forced
 him to wipe his face, ‘did his insolence take to-day?’
 
 ‘It took the turn,’ answered Riderhood, with sullen ferocity, ‘of hoping
@@ -82,7 +82,7 @@ thinking of getting hanged. Let HIM get ready for HIS fate, when that
 comes about. There was more meaning in what he said than he knew of, or
 he wouldn’t have had brains enough to say it. Let him look to it; let
 him look to it! When men he has wronged, and on whom he has bestowed
-his insolence, are getting ready to be hanged, there is a death-bell
+his insolence, are getting ready to be hanged, there is a [[Death|death]]-bell
 ringing. And not for them.’
 
 Riderhood, looking fixedly at him, gradually arose from his recumbent
@@ -94,8 +94,8 @@ another.
 ‘Oh!’ said Riderhood, very deliberately spitting out the grass he had
 been chewing. ‘Then, I make out, T’otherest, as he is a-going to her?’
 
-‘He left London,’ answered Bradley, ‘yesterday. I have hardly a doubt,
-this time, that at last he is going to her.’
+‘He left [[London]],’ answered Bradley, ‘yesterday. I have hardly a [[Doubt|doubt]],
+this [[Time|time]], that at last he is going to her.’
 
 ‘You ain’t sure, then?’
 
@@ -139,24 +139,24 @@ Bradley held a sovereign between his fingers. Slouching at his side with
 his eyes upon the towing-path, Riderhood held his left hand open, with
 a certain slight drawing action towards himself. Bradley dipped in his
 purse for another sovereign, and two chinked in Riderhood’s hand, the
-drawing action of which, promptly strengthening, drew them home to his
+drawing action of which, promptly strengthening, drew them [[Home|home]] to his
 pocket.
 
-‘Now, I must follow him,’ said Bradley Headstone. ‘He takes this
-river-road—the fool!—to confuse observation, or divert attention, if
+‘Now, I must follow him,’ said [[Bradley Headstone]]. ‘He takes this
+[[River|river]]-[[Road|road]]—the [[Fool|fool]]!—to confuse observation, or divert attention, if
 not solely to baffle me. But he must have the power of making himself
 invisible before he can shake Me off.’
 
 Riderhood stopped. ‘If you don’t get disapinted agin, T’otherest, maybe
-you’ll put up at the Lock-house when you come back?’
+you’ll put up at the Lock-[[house]] when you come back?’
 
 ‘I will.’
 
 Riderhood nodded, and the figure of the bargeman went its way along the
 soft turf by the side of the towing-path, keeping near the hedge and
 moving quickly. They had turned a point from which a long stretch of
-river was visible. A stranger to the scene might have been certain that
+[[River|river]] was visible. A stranger to the scene might have been certain that
 here and there along the line of hedge a figure stood, watching the
 bargeman, and waiting for him to come up. So he himself had often
 believed at first, until his eyes became used to the posts, bearing the
-dagger that slew Wat Tyler, in the City of London shield.
+dagger that slew Wat Tyler, in the [[City]] of [[London]] shield.

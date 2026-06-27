@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 46 (part 3)"
+title: "[[Pride and Prejudice]] — Chapter 46 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -21,12 +21,12 @@ unnatural, in comparison of what is so often described as arising on a
 first interview with its object, and even before two words have been
 exchanged, nothing can be said in her defence, except that she had given
 somewhat of a trial to the latter method, in her partiality for Wickham,
-and that its ill success might, perhaps, authorize her to seek the other
+and that its ill [[success]] might, perhaps, authorize her to seek the other
 less interesting mode of attachment. Be that as it may, she saw him go
 with regret; and in this early example of what Lydia’s infamy must
 produce, found additional anguish as she reflected on that wretched
 business. Never since reading Jane’s second letter had she entertained a
-hope of Wickham’s meaning to marry her. No one but Jane, she thought,
+[[Hope|hope]] of Wickham’s meaning to marry her. No one but Jane, she thought,
 could flatter herself with such an expectation. Surprise was the least
 of all her feelings on this development. While the contents of the first
 letter remained on her mind, she was all surprise, all astonishment,
@@ -35,7 +35,7 @@ for money; and how Lydia could ever have attached him had appeared
 incomprehensible. But now it was all too natural. For such an attachment
 as this, she might have sufficient charms; and though she did not
 suppose Lydia to be deliberately engaging in an elopement, without the
-intention of marriage, she had no difficulty in believing that neither
+intention of [[Marriage|marriage]], she had no difficulty in believing that neither
 her virtue nor her understanding would preserve her from falling an easy
 prey.
 
@@ -48,7 +48,7 @@ fluctuating, but never without an object. The mischief of neglect and
 mistaken indulgence towards such a girl--oh! how acutely did she now
 feel it!
 
-She was wild to be at home--to hear, to see, to be upon the spot to
+She was wild to be at [[Home|home]]--to hear, to see, to be upon the spot to
 share with Jane in the cares that must now fall wholly upon her, in a
 family so deranged; a father absent, a mother incapable of exertion, and
 requiring constant attendance; and though almost persuaded that nothing
@@ -63,8 +63,8 @@ been a favourite with them, Mr. and Mrs. Gardiner could not but be
 deeply affected. Not Lydia only, but all were concerned in it; and after
 the first exclamations of surprise and horror, Mr. Gardiner readily
 promised every assistance in his power. Elizabeth, though expecting no
-less, thanked him with tears of gratitude; and all three being actuated
-by one spirit, everything relating to their journey was speedily
+less, thanked him with [[Tears|tears]] of gratitude; and all three being actuated
+by one spirit, everything relating to their [[Journey|journey]] was speedily
 settled. They were to be off as soon as possible. “But what is to be
 done about Pemberley?” cried Mrs. Gardiner. “John told us Mr. Darcy was
 here when you sent for us;--was it so?”
@@ -74,19 +74,19 @@ _That_ is all settled.”
 
 “What is all settled?” repeated the other, as she ran into her room to
 prepare. “And are they upon such terms as for her to disclose the real
-truth? Oh, that I knew how it was!”
+[[Truth|truth]]? Oh, that I knew how it was!”
 
 But wishes were vain; or, at best, could serve only to amuse her in the
 hurry and confusion of the following hour. Had Elizabeth been at leisure
 to be idle, she would have remained certain that all employment was
 impossible to one so wretched as herself; but she had her share of
-business as well as her aunt, and amongst the rest there were notes to
+business as [[Well|well]] as her aunt, and amongst the rest there were notes to
 be written to all their friends at Lambton, with false excuses for their
 sudden departure. An hour, however, saw the whole completed; and Mr.
 Gardiner, meanwhile, having settled his account at the inn, nothing
 remained to be done but to go; and Elizabeth, after all the misery of
-the morning, found herself, in a shorter space of time than she could
-have supposed, seated in the carriage, and on the road to Longbourn.
+the morning, found herself, in a shorter space of [[Time|time]] than she could
+have supposed, seated in the carriage, and on the [[Road|road]] to Longbourn.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "Richard III — Act V, Scene 8 — exchange (QUEEN ELIZABETH) [6]"
+title: "[[Richard III]] — Act V, Scene 8 — exchange ([[Queen Elizabeth|QUEEN ELIZABETH]]) [6]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/RICHARD-III-(Shakespeare)"
@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| QUEEN ELIZABETH | What were I best to say? Her father’s brother Would be her lord? Or shall I say her uncle? Or he that slew her brothers and her uncles? Under what title shall I woo for thee, That God, the law, my honour, and her love Can make seem pleasing to her tender years? |
+| [[Queen Elizabeth|QUEEN ELIZABETH]] | What were I best to say? Her father’s brother Would be her lord? Or shall I say her uncle? Or he that slew her brothers and her uncles? Under what title shall I woo for thee, That God, the law, my [[Honour|honour]], and her [[Love|love]] Can make seem pleasing to her tender years? |

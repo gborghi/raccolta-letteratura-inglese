@@ -16,7 +16,7 @@ tags:
 
 XXVII On Living for Posterity
 
-WE all remember the story of that excess of aspiration,
+WE all remember the story of that excess of [[Aspiration|aspiration]],
 in the sense of the use of aspirates, which led somebody to say
 of somebody, `If you give him a Hinch, he'll take a Hell.'
 Some recent extensions of social liberty have made the accident
@@ -132,6 +132,6 @@ If their novels and newspapers were less filled with the sublime
 spiritual liberation of eloping with the chauffeur, and more
 filled with the duty and dignity of remaining with the baby,
 I might admit that their faces are set towards the Future
-and their souls full of the song of `A Good Time Coming'.
-As it is, it seems to be an impatient and even pessimistic lyric
-about `A Good Time Now'.
+and their souls full of the song of `A Good [[Time]] Coming'.
+As it is, it seems to be an impatient and even pessimistic [[Lyric|lyric]]
+about `A Good [[Time]] Now'.

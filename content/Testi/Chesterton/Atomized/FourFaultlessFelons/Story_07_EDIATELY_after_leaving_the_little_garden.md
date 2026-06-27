@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — EDIATELY after leaving the little garden-party, Tom and his tutor"
+title: "[[FourFaultlessFelons]] — EDIATELY after leaving the little [[Garden|garden]]-party, Tom and his tutor"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-IMMEDIATELY after leaving the little garden-party, Tom and his tutor
+IMMEDIATELY after leaving the little [[Garden|garden]]-party, Tom and his tutor
 
 parted for the evening, for the former lived at the Governorate, while
 
-the latter had a sort of lodge or little bungalow higher up on the hill
+the latter had a sort of lodge or little bungalow higher up on the [[Hill|hill]]
 
 behind amid the taller trees. The tutor said in private what everybody
 
@@ -28,13 +28,13 @@ youth for his display of imitative drama.
 
 
 
-"Well, I won't like him," said Tom warningly. "I'd like to kill him. His
+"[[Well]], I won't like him," said Tom warningly. "I'd like to kill him. His
 
 nose sticks out."
 
 
 
-"You can hardly expect it to stick in," said Mr. Hume mildly. "I wonder
+"You can hardly expect it to stick in," said Mr. Hume mildly. "I [[Wonder|wonder]]
 
 whether there's an old story about the man whose nose stuck in."
 
@@ -56,7 +56,7 @@ running round outside, from which could be seen the whole district spread
 
 out like a map. The grey and green squares of the Governorate building
 
-and grounds; the path running straight under the low garden wall and
+and grounds; the path running straight under the low [[Garden|garden]] wall and
 
 parallel to the line of villas; the solitary sycamore breaking the line
 
@@ -64,7 +64,7 @@ at one point and farther along the closer rank of the olive-trees, like a
 
 broken cloister, and then another gap and then the corner of the wall,
 
-beyond which spread brown slopes of desert, patched here and there with
+beyond which spread brown slopes of [[Desert|desert]], patched here and there with
 
 green, where the ground was being turfed as part of some new public works
 
@@ -74,7 +74,7 @@ whole hung under him like a vast coloured cloud in the brief afterglow of
 
 the Eastern sunset; then it was rapidly rolled in the purple gloom in
 
-which the strong stars stood out over his head and seemed nearer than the
+which the strong [[Stars|stars]] stood out over his head and seemed nearer than the
 
 things of earth.
 
@@ -98,7 +98,7 @@ containing the verses of the principal French and Latin poets. A rack of
 
 pipes, all hanging crooked, gave the inevitable touch of the bachelor; a
 
-fishing-rod and an old double-barrelled gun leaned dusty and disused in a
+fishing-rod and an old [[Double|double]]-barrelled gun leaned dusty and disused in a
 
 corner; for it was long ago that this man, in other ways so remote from
 
@@ -130,13 +130,13 @@ unfathomable stillness around that hillside hermitage, until the distant
 
 strains of a more or less lively band floated up from below, as a signal
 
-that a dance at the Governorate was already in progress. He knew there
+that a [[Dance|dance]] at the Governorate was already in progress. He knew there
 
-was a dance that night and took no notice of it; he was not sentimental,
+was a [[Dance|dance]] that [[Night|night]] and took no notice of it; he was not sentimental,
 
 but some of the tunes stirred almost mechanical memories. The Tallboys
 
-family was a little old-fashioned, even for this rather earlier time.
+family was a little old-fashioned, even for this rather earlier [[Time|time]].
 
 They were old-fashioned in not pretending to be any more democratic than
 
@@ -146,15 +146,15 @@ not call themselves liberal because they dragged their sycophants into
 
 society. It had therefore never crossed the mind of the secretary or the
 
-tutor that the dance at the Governorate was any concern of theirs. They
+tutor that the [[Dance|dance]] at the Governorate was any concern of theirs. They
 
-were also old-fashioned in the arrangements of the dance itself, and the
+were also old-fashioned in the arrangements of the [[Dance|dance]] itself, and the
 
 date must also be allowed for. The new dances had only just begun to
 
-pierce, and nobody had dreamed of the wild and varied freedom of our new
+pierce, and nobody had dreamed of the wild and varied [[Freedom|freedom]] of our new
 
-fashion, by which a person has to walk about all night with the same
+fashion, by which a person has to walk about all [[Night|night]] with the same
 
 partner to the same tune. All this sense of distance, material and moral,
 
@@ -168,7 +168,7 @@ It seems for one instant as if, in rising through the mist, the tune had
 
 taken outline and colour and burst into his room with the bodily presence
 
-of a song, for the blues and greens of her patterned dress were like
+of a [[Song|song]], for the blues and greens of her patterned dress were like
 
 notes of music and her amazing face came to him like a cry, a cry out of
 
@@ -176,15 +176,15 @@ the old youth he had lost or never known. A princess flying out of
 
 fairyland would not have seemed more impossible than that girl from that
 
-ballroom, though he knew her well enough as the younger sister of his
+ballroom, though he knew her [[Well|well]] enough as the younger sister of his
 
 charge, and the ball was a few hundred yards away. Her face was like a
 
-pale face burning through a dream and itself as unconscious as a
+pale face burning through [[A Dream|a dream]] and itself as unconscious as a
 
 dreamer's, for Barbara Traill was curiously unconscious of that mask of
 
-beauty fixed on her brooding boyish soul. She had been counted less
+[[Beauty|beauty]] fixed on her brooding boyish [[Soul|soul]]. She had been counted less
 
 attractive than her sisters and her sulks had marked her almost as the
 
@@ -212,7 +212,7 @@ look after my charge. And I know that is the right way with him. Don't
 
 you be worried about him. He's perfectly all right if you understand him,
 
-and it's only a matter of making up for lost time."
+and it's only a matter of making up for lost [[Time|time]]."
 
 
 
@@ -222,7 +222,7 @@ abstraction; she had taken the chair he offered her apparently without
 
 noticing it and was staring at the comical diagrams, apparently without
 
-seeing them. Indeed, it might well have been supposed that she was not
+seeing them. Indeed, it might [[Well|well]] have been supposed that she was not
 
 listening at all, for the next remark she made appeared to be about a
 
@@ -248,13 +248,13 @@ one about to whistle. He stared at the girl and said softly: "Hullo! Has
 
 he turned up again? I thought there was some trouble coming. Yes, I know
 
-him-they call him Dr. Gregory, but I believe he comes from Germany,
+him-they call him Dr. Gregory, but I believe he comes from [[Germany]],
 
 though he often passes for English. He is a stormy petrel, anyhow; and
 
 wherever he goes there's a row. Some say we ought to have used him
 
-ourselves; I believe he once offered his talents to our Government. He's
+ourselves; I believe he once offered his talents to our [[government|Government]]. He's
 
 a very clever fellow and knows a frightful lot of the facts about these
 
@@ -282,25 +282,25 @@ all the things he said."
 
 a pretty rotten reputation about women; I won't go into details, but he'd
 
-have gone to prison twice but for suborning perjury. I only say, whatever
+have gone to [[Prison|prison]] twice but for suborning perjury. I only say, whatever
 
 you may come to believe, don't believe in him."
 
 
 
-"He dared to say that our Government broke its word," said Barbara
+"He dared to say that our [[government|Government]] broke its word," said Barbara
 
 indignantly.
 
 
 
-John Hume was silent. Something in his silence affected her like a
+John Hume was silent. Something in his [[Silence|silence]] affected her like a
 
 strain, and she said quite irrationally: "Oh, for the Lord's sake say
 
 something! Do you know he dared to say that somebody on Lord Jaffray's
 
-expedition shot a child? I don't mind their saying England's cold and
+expedition shot a [[Child|child]]? I don't mind their saying England's cold and
 
 hard and all that; I suppose that's natural prejudice. But can't we stop
 
@@ -308,7 +308,7 @@ these wild, wicked lies?"
 
 
 
-"Well," replied Hume rather wearily, "nobody can say that Jaffray is cold
+"[[Well]]," replied Hume rather wearily, "nobody can say that Jaffray is cold
 
 and hard. The excuse for the whole thing was that he was blind drunk."
 
@@ -322,15 +322,15 @@ and hard. The excuse for the whole thing was that he was blind drunk."
 
 dangerous condition of the Press and the public, when only the liars tell
 
-the truth."
+the [[Truth|truth]]."
 
 
 
-Something of a massive gravity in his grim humour for the moment
+Something of a massive gravity in his grim [[Humour|humour]] for the moment
 
 overpowered her breathless resentment, and she said in a quieter tone:
 
-"Do you believe in this demand for self-government?"
+"Do you believe in this demand for [[Self|self]]-[[government]]?"
 
 
 
@@ -356,7 +356,7 @@ didn't you make one for yourself?'"
 
 
 
-"Their politicians are often frauds, but they're not alone in that.
+"Their politicians are often frauds, but they're not [[Alone|alone]] in that.
 
 That's why I find myself forced into an intermediate position, a sort of
 
@@ -368,11 +368,11 @@ see I'm a Moderate."
 
 
 
-He laughed a little for the first time, and his plain face was suddenly
+He laughed a little for the first [[Time|time]], and his plain face was suddenly
 
 altered for the better. She was moved to say in a more friendly tone:
 
-"Well, we must prevent a real outbreak. You don't want all our people
+"[[Well]], we must prevent a real outbreak. You don't want all our people
 
 murdered."
 
@@ -408,11 +408,11 @@ I know what would be better than making an example."
 
 
 
-She said suddenly: "Well, why don't you do something yourself?"
+She said suddenly: "[[Well]], why don't you do something yourself?"
 
 
 
-There was a silence. Then he drew a deep breath. "Ah, there you have me.
+There was a [[Silence|silence]]. Then he drew a deep breath. "Ah, there you have me.
 
 I can't do anything myself. I am futile; naturally and inevitably futile.
 
@@ -436,35 +436,35 @@ slab of stone on a sarcophagus; she did not protest, and in her
 
 subconsciousness yawned a disappointment. She half realized the depth of
 
-her strange reliance and felt like one who had dug in the desert and
+her strange reliance and felt like one who had dug in the [[Desert|desert]] and
 
-found a very deep well, and found it dry.
+found a very deep [[Well|well]], and found it dry.
 
 
 
-When she went out on to the veranda the steep garden and plantation were
+When she went out on to the veranda the steep [[Garden|garden]] and plantation were
 
-grey in the moon, and a certain greyness spread over her own spirit, a
+grey in the [[Moon|moon]], and a certain greyness spread over her own spirit, a
 
-mood of fatalism and of dull fear. For the first time she realized
+mood of fatalism and of dull [[Fear|fear]]. For the first [[Time|time]] she realized
 
 something of what strikes a Western eye in Eastern places as the
 
-unnaturalness of nature. The squat, limbless growth of the prickly pear
+unnaturalness of [[Nature|nature]]. The squat, limbless growth of the prickly pear
 
-was not like the green growths of home, springing on light stalks to
+was not like the green growths of [[Home|home]], springing on light stalks to
 
-lovely flowers like butterflies captured out of air. It was more like the
+lovely [[Flowers|flowers]] like butterflies captured out of air. It was more like the
 
 dead blind bubbling of some green, squalid slime: a world of plants that
 
 were as plain and flat as stones. She hated the hairy surface of some of
 
-the squat and swollen trees of that grotesque garden; the tufts here and
+the squat and swollen trees of that [[Grotesque|grotesque]] [[Garden|garden]]; the tufts here and
 
 there irritated her fancy as they might have tickled her face. She felt
 
-that even the big, folded flowers, if they opened, would have a foul
+that even the big, folded [[Flowers|flowers]], if they opened, would have a foul
 
 fragrance. She had a latent sense of the savour of faint horror, lying
 
@@ -502,7 +502,7 @@ trippers, but it gave him in the moonlight something of the silver touch
 
 of a spectral harlequin. As he advanced he screwed the shining disk into
 
-his eye and it revealed in a flash the faint memory that had always
+his eye and it revealed in a flash the faint [[Memory|memory]] that had always
 
 escaped her. His face in repose was calm and classic and might have been
 
@@ -524,7 +524,7 @@ white negro.
 
 else he said. Broken phrases from what she had heard recently tumbled
 
-through her mind, mere words like "reputation" and "prison", and she
+through her mind, mere words like "reputation" and "[[Prison|prison]]", and she
 
 stepped back to increase the distance, but moving in the opposite
 
@@ -536,7 +536,7 @@ instantaneous impression of crushing and startling strength, like a
 
 chimpanzee, surprised her into a cry. Then she stumbled and ran, but not
 
-in the direction of the house of her own people.
+in the direction of the [[house]] of her own people.
 
 
 
@@ -546,7 +546,7 @@ went to meet someone who stumbled up the stair without.
 
 
 
-"My dear child," he said, and put a hand on her shaking shoulder, giving
+"My dear [[Child|child]]," he said, and put a hand on her shaking shoulder, giving
 
 and receiving a queer thrill like a dull electric shock. Then he went,
 
@@ -556,13 +556,13 @@ and without descending the steps, sprang over the rail to the ground
 
 below, standing waist-high in the wild and tangled vegetation. There was
 
-a screen of large leaves waving to and fro between Barbara and the rapid
+a screen of large [[Leaves|leaves]] waving to and fro between Barbara and the rapid
 
 drama that followed, but she saw, as in flashes of moonlight, the tutor
 
 dart across the path of the figure in white and heard the shock of blows
 
-and saw a kick like a catapult. There was a wheel of silver legs like the
+and saw a kick like a catapult. There was a [[Wheel|wheel]] of silver legs like the
 
 arms of the Isle of Man, and then out of the dense depth of the lower
 
@@ -570,13 +570,13 @@ thicket a spout of curses in a tongue that was not English, nor wholly
 
 German, but which shrieked and chattered in all the Ghettoes of the
 
-world. But one strange thing remained even in her disordered memory; that
+world. But one strange thing remained even in her disordered [[Memory|memory]]; that
 
 when the figure in white had risen tottering and turned to plunge down
 
-the hill, the white face and the furious gesture of malediction were
+the [[Hill|hill]], the white face and the furious gesture of malediction were
 
-turned, not towards the assailant, but towards the house of the Governor.
+turned, not towards the assailant, but towards the [[house]] of the Governor.
 
 
 
@@ -584,7 +584,7 @@ The tutor was frowning ponderously as he came again up the veranda steps,
 
 as if over some of his geometrical problems. She asked him rather wildly
 
-what he had done and he answered in his heavy voice: "I hope I half
+what he had done and he answered in his heavy voice: "I [[Hope|hope]] I half
 
 killed him. You know I am in favour of half measures."
 
@@ -606,15 +606,15 @@ vivid violet or some sort of blue that seemed warmer than any red; and
 
 the furry filaments of the great tree-trunks seemed like the quaint
 
-sea-beasts of childhood, which could be stroked and which unfolded their
+sea-beasts of [[Childhood|childhood]], which could be stroked and which unfolded their
 
 fingers. There was something upon them both beyond speech or even
 
-silence. He even went so far as to say it was a fine night.
+[[Silence|silence]]. He even went so far as to say it was a fine [[Night|night]].
 
 
 
-"Yes," she answered, "it is a fine night"; and felt instantly as if she
+"Yes," she answered, "it is a fine [[Night|night]]"; and felt instantly as if she
 
 had betrayed some secret.
 
@@ -624,4 +624,4 @@ They went through the inner gardens to the gate of the vestibule, which
 
 was crowded with people in uniform and evening dress. They parted with
 
-the utmost formality; and that night neither of them slept.
+the utmost formality; and that [[Night|night]] neither of them slept.

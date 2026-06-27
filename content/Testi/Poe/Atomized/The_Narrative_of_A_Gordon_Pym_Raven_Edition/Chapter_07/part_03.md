@@ -26,11 +26,11 @@ tags:
 
       convulsions; and the corpse presented in a few minutes after
 
-      death one of the most horrid and loathsome spectacles I ever
+      [[Death|death]] one of the most horrid and loathsome spectacles I ever
 
       remember to have seen. The stomach was swollen immensely, like
 
-      that of a man who has been drowned and lain under water for many
+      that of a man who has been drowned and lain under [[Water|water]] for many
 
       weeks. The hands were in the same condition, while the face was
 
@@ -42,17 +42,17 @@ tags:
 
       diagonally across the face, completely covering up an eye as if
 
-      with a band of red velvet. In this disgusting condition the body
+      with a band of red velvet. In this disgusting condition the [[Body|body]]
 
-      had been brought up from the cabin at noon to be thrown
+      had been brought up from the cabin at [[Noon|noon]] to be thrown
 
       overboard, when the mate getting a glimpse of it (for he now saw
 
-      it for the first time), and being either touched with remorse for
+      it for the first [[Time|time]]), and being either touched with remorse for
 
       his crime or struck with terror at so horrible a sight, ordered
 
-      the men to sew the body up in its hammock, and allow it the usual
+      the men to sew the [[Body|body]] up in its hammock, and allow it the usual
 
       rites of sea-burial. Having given these directions, he went
 
@@ -64,7 +64,7 @@ tags:
 
       The corpse, left to itself, was washed into the larboard
 
-      scuppers, where it still lay at the time of which I speak,
+      scuppers, where it still lay at the [[Time|time]] of which I speak,
 
       floundering about with the furious lurches of the brig.
 
@@ -78,7 +78,7 @@ tags:
 
       be stationed more as a watch upon the forecastle than for any
 
-      other purpose. The fate of this villain, however, was speedily
+      other purpose. The fate of this [[Villain|villain]], however, was speedily
 
       and silently decided; for Peters, approaching him in a careless
 
@@ -102,7 +102,7 @@ tags:
 
       set the pumps going, as it was evident the brig must be taking in
 
-      water very fast. After searching about for some time, we could
+      [[Water|water]] very fast. After searching about for some [[Time|time]], we could
 
       find nothing more fit for our purpose than the two pump-handles,
 
@@ -110,7 +110,7 @@ tags:
 
       these, we stripped off the shirt of the corpse and dropped the
 
-      body overboard. Peters and myself then went below, leaving
+      [[Body|body]] overboard. Peters and myself then went below, leaving
 
       Augustus to watch upon deck, where he took his station just where
 
@@ -126,7 +126,7 @@ tags:
 
       represent the corpse of Rogers. The shirt which we had taken from
 
-      the body aided us very much, for it was of singular form and
+      the [[Body|body]] aided us very much, for it was of singular form and
 
       character, and easily recognizable—a kind of smock, which the
 
@@ -134,7 +134,7 @@ tags:
 
       with large white stripes running across. Having put this on, I
 
-      proceeded to equip myself with a false stomach, in imitation of
+      proceeded to equip myself with a false stomach, in [[Imitation|imitation]] of
 
       the horrible deformity of the swollen corpse. This was soon
 
@@ -146,9 +146,9 @@ tags:
 
       offered themselves. Peters then arranged my face, first rubbing
 
-      it well over with white chalk, and afterward blotching it with
+      it [[Well|well]] over with white [[chalk]], and afterward blotching it with
 
-      blood, which he took from a cut in his finger. The streak across
+      [[Blood|blood]], which he took from a cut in his finger. The streak across
 
       the eye was not forgotten and presented a most shocking
 

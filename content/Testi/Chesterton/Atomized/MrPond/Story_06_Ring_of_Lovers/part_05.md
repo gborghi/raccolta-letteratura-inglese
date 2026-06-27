@@ -1,5 +1,5 @@
 ---
-title: "MrPond — Ring of Lovers (part 5)"
+title: "[[MrPond]] — Ring of [[lovers|Lovers]] (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -32,15 +32,15 @@ course, we all had to answer some questions about ourselves; but I
 
 need not tell you about the trail of official fussing that crossed
 
-the track of the tragedy.  It did not take long, since it was so
+the track of the [[Tragedy|tragedy]].  It did not take long, since it was so
 
-obviously a case of suicide; and the party broke up, straggling out
+obviously a case of [[suicide]]; and the party broke up, straggling out
 
-into the stormy night through the garden.  As they passed out, they
+into the stormy [[Night|night]] through the [[Garden|garden]].  As they passed out, they
 
 seemed to have taken on new shapes, new outlines.  Between the hot
 
-night and the horrible death and that foul fog of throttling hatred
+[[Night|night]] and the horrible [[Death|death]] and that foul fog of throttling hatred
 
 in which we had tried to breathe, I began to see something else
 
@@ -54,7 +54,7 @@ different enough; but they had something in common.
 
 
 
-"I liked the Pole best; he had a sense of humour, and admirable
+"I liked the Pole best; he had a sense of [[Humour|humour]], and admirable
 
 manners; but I knew what he meant when he so courteously declined
 
@@ -78,7 +78,7 @@ worst of them, I should say.  I wouldn't say anything worse of
 
 Blande than that he's probably too stupid to understand anything
 
-but his own body.  He hasn't enough mind to know that he has a
+but his own [[Body|body]].  He hasn't enough mind to know that he has a
 
 mind.  We all know Sir Oscar Marvell; I remember him marching out,
 
@@ -86,7 +86,7 @@ his furred cloak flapping as if it trailed behind it infinite
 
 echoes of the harmless applause of flappers--but of more foolish
 
-women as well.  As to the Italian tenor, he was uncommonly like the
+women as [[Well|well]].  As to the Italian tenor, he was uncommonly like the
 
 English actor.  One could not say any worse of him than that.
 
@@ -96,7 +96,7 @@ English actor.  One could not say any worse of him than that.
 
 selected by a clever if nearly crazy man as being the six men in
 
-London most likely to lay a plot to seduce his wife.  Then, with a
+[[London]] most likely to lay a plot to seduce his wife.  Then, with a
 
 great shock, I quite literally came to myself.  I actually realized
 
@@ -116,9 +116,9 @@ other men's wives. . . .  You know, Pond, that I was not really so
 
 bad as all that; but then, perhaps, neither were they.  We were all
 
-innocent in this case; and yet the thundercloud upon the garden
+[[Innocent|innocent]] in this case; and yet the thundercloud upon the [[Garden|garden]]
 
-rested on us like a judgment.  So was I innocent, in that case you
+rested on us like a judgment.  So was I [[Innocent|innocent]], in that case you
 
 remember, when I nearly got hanged for hanging round a woman I
 
@@ -130,7 +130,7 @@ the state of our souls, what the unspeakable bounders in the papers
 
 call sex-appeal.  That was why I nearly got hanged; and why there
 
-was a corpse in the house behind me.  And there went through my
+was a corpse in the [[house]] behind me.  And there went through my
 
 head like the tramp of armies, old lines written long ago, about
 
@@ -144,11 +144,11 @@ of iron:
 
 
 
-     "For well ye wot that of this life
+     "For [[Well|well]] ye wot that of this life
 
      There comes but lewd and bitter strife
 
-     And death of men and great travail.
+     And [[Death|death]] of men and great travail.
 
 
 
@@ -158,9 +158,9 @@ of iron:
 
 clearly seen myself doing it; till two judgments struck me like the
 
-storm out of the sky.  I nearly received a sentence from a judge in
+[[Storm|storm]] out of the sky.  I nearly received a sentence from a judge in
 
-a black cap and blood-red robes, that I should be hanged by the
+a black cap and [[Blood|blood]]-red robes, that I should be hanged by the
 
 neck until I was dead.  And, worse still, I received an invitation
 
@@ -168,15 +168,15 @@ from Lord Crome."
 
 
 
-He continued to gaze out of the window; but Pond heard him mutter
+He continued to gaze out of the [[Window|window]]; but Pond heard him mutter
 
-again, like the faint grumbling of the thunder:  "And death of men
+again, like the faint grumbling of the thunder:  "And [[Death|death]] of men
 
 and great travail."
 
 
 
-In the vast silence that followed, Mr. Pond said in a very small
+In the vast [[Silence|silence]] that followed, Mr. Pond said in a very small
 
 voice:
 
@@ -188,7 +188,7 @@ voice:
 
 Gahagan faced about, almost with the gesture of throwing up his
 
-hands, which seemed to fill the frame of the window with his own
+hands, which seemed to fill the frame of the [[Window|window]] with his own
 
 gigantic frame; but he was noticeably pale.
 
@@ -204,19 +204,19 @@ smile, and then went on:
 
 
 
-"Yes; I cared more for that dirty rag of vanity, worse than any
+"Yes; I cared more for that dirty rag of [[Vanity|vanity]], worse than any
 
 vice, than I did for any vices.  How many men have sold their souls
 
 to be admired by fools?  I nearly did it, merely to be suspected by
 
-fools.  To be the dangerous man, the dark horse, the man of whom
+fools.  To be the dangerous man, the dark [[Horse|horse]], the man of whom
 
-families should be afraid--that is the sort of abject ambition for
+families should be afraid--that is the sort of abject [[Ambition|ambition]] for
 
 which I wasted so much of my life, and nearly lost the fulfilment
 
-of my love.  I dawdled, I lounged about, because I could not give
+of my [[Love|love]].  I dawdled, I lounged about, because I could not give
 
 up a bad name.  And, by God, it nearly hanged the dog."
 

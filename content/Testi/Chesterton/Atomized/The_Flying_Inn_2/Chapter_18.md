@@ -20,10 +20,10 @@ THE POET IN PARLIAMENT
 
 DURING the singular entrance and exit of Dorian
 Wimpole, M.P., J.P., etc., Lady Joan was looking
-out of the magic casements of that turret room which
+out of the [[Magic|magic]] casements of that turret room which
 was now literally, and not only poetically, the last
-limit of Ivywood House.  The old broken hole and
-black staircase up which the lost dog Quoodle used to
+limit of Ivywood [[house|House]].  The old broken hole and
+black staircase up which the lost dog [[quoodle|Quoodle]] used to
 come and go, had long ago been sealed up and cemented
 with a wall of exquisite Eastern workmanship.
 All through the patterns Lord Ivywood had preserved
@@ -31,31 +31,31 @@ and repeated the principle that no animal shape must
 appear.  But, like all lucid dogmatists, he perceived
 all the liberties his dogma allowed him.  And he had
 irradiated this remote end of Ivywood with sun and
-moon and solar and starry systems, with the Milky
+[[Moon|moon]] and solar and starry systems, with the Milky
 Way for a dado and a few comets for comic relief.
-The thing was well done of its kind (as were all the
+The thing was [[Well|well]] done of its kind (as were all the
 things that Philip Ivywood got done for him); and
 if all the windows of the turret were closed with their
 peacock curtains, a poet with anything like a Hibbsian
 appreciation of the family champagne might almost
-fancy he was looking out across the sea on a night
-crowded with stars.  And (what was yet more
+fancy he was looking out across the sea on a [[Night|night]]
+crowded with [[Stars|stars]].  And (what was yet more
 important) even Misysra (that exact thinker) could not
-call the moon a live animal without falling into
+call the [[Moon|moon]] a live animal without falling into
 idolatry.
 
 But Joan, looking out of real windows on a real
 sky and sea, thought no more about the astronomical
 wall-paper than about any other wall-paper.  She was
 asking herself in sullen emotionalism, and for the
-thousandth time, a question she had never been able to
-decide.  It was the final choice between an ambition
-and a memory.  And there was this heavy weight in
-the scale: that the ambition would probably materialise,
-and the memory probably wouldn't.  It has been
+thousandth [[Time|time]], a question she had never been able to
+decide.  It was the final choice between an [[Ambition|ambition]]
+and a [[Memory|memory]].  And there was this heavy weight in
+the scale: that the [[Ambition|ambition]] would probably materialise,
+and the [[Memory|memory]] probably wouldn't.  It has been
 the same weight in the same scale a million times
-since Satan became the prince of this world.  But
-the evening stars were strengthening over the old
+since [[Satan]] became the prince of this world.  But
+the evening [[Stars|stars]] were strengthening over the old
 sea-shore, and they also wanted weighing like
 diamonds.
 
@@ -67,7 +67,7 @@ never came so fast save for serious cause.
 believe, could move him."  Joan looked at Lady Enid
 and realised that the lady was close on crying.  She
 turned a trifle pale and asked quietly for the question.
-"Philip says he's going to London now, with that leg
+"Philip says he's going to [[London]] now, with that leg
 and all," cried Enid, "and he won't let us say a word."
 
 "But how did it all happen?" asked Joan.
@@ -94,7 +94,7 @@ Mystery.  Reported Reappearance of the Vanishing
 Inn."  Underneath was printed, in smaller letters:
 
 "An almost incredible report from Wyddington announces
-that the mysterious 'Sign of the Old Ship' has once more
+that the mysterious 'Sign of the Old [[Ship]]' has once more
 been seen in this country; though it has long been relegated
 by scientific investigators to the limbo of old rustic
 superstitions.  According to the local version, Mr. Simmons, a
@@ -107,7 +107,7 @@ was a person of unusual stature.  In a few moments, this
 latter individual went out of the shop again and returned
 with a miserable specimen out of the street, one of the
 tattered loafers that linger about our most prosperous towns,
-tramping the streets all night and even begging in defiance
+tramping the streets all [[Night|night]] and even begging in defiance
 of the police.  The filth and disease of the creature were so
 squalid that Mr. Simmons at first refused to serve him with
 the glass of milk which the taller motorist wished to
@@ -137,7 +137,7 @@ prosecution if he permitted the consumption of alcohol in his
 shop; since he did not display a sign.  The motorist then
 made the amazing reply, 'But you _do_ display a sign, you
 jolly old man.  Did you think I couldn't find my way to the
-sign of The Old Ship, you sly boots?'  Mr. Simmons was
+sign of The Old [[Ship]], you sly boots?'  Mr. Simmons was
 now fully convinced of the intoxication of his visitors, and
 refusing a glass of rum rather boisterously offered him,
 went outside his shop to look round for a policeman.  To his
@@ -145,7 +145,7 @@ surprise he found the officer engaged in dispersing a
 considerable crowd, which was staring up at some object behind
 him.  On looking round (he states in his deposition) he
 'saw what was undoubtedly one of the low tavern signs at
-one time common in England.'  He was wholly unable to
+one [[Time|time]] common in England.'  He was wholly unable to
 explain its presence outside his premises, and as it undoubtedly
 legalised the motorist's action, the police declined to
 move in the matter.
@@ -168,7 +168,7 @@ bought the whole can; observing, as he tucked it under his
 arm, that it would help him to remember the address.
 
 "Later.  Our readers will be glad to hear that the legend
-of 'The Old Ship' sign has once more yielded to the
+of 'The Old [[Ship]]' sign has once more yielded to the
 wholesome scepticism of science.  Our representative reached
 Wyddington after the practical jokers, or whatever they
 were, had left; but he searched the whole frontage of Mr.
@@ -183,14 +183,14 @@ would also ruin all his previous plan of campaign.
 His pallid and classic profile was as immovable as a
 cameo; but anyone who had known him at all would
 have known that his brain was going like a motor
-car that has broken the speed limit long ago.
+car that has broken the [[Speed|speed]] limit long ago.
 
 Then he turned his head and said, "Please tell Hicks
 to bring round the long blue car in half an hour; it
 can be fitted up for a sofa.  And ask the gardener
 to cut a pole of about four feet nine inches, and put a
-cross-piece for a crutch.  I'm going up to London
-to-night."
+[[Cross|cross]]-piece for a crutch.  I'm going up to [[London]]
+to-[[Night|night]]."
 
 Mr. Leveson's lower jaw literally fell with
 astonishment.
@@ -210,13 +210,13 @@ It was a moment or two afterward that Enid Wimpole
 had come into the room, and striven in vain to
 shake his decision.  Then it was that Joan had been
 brought out of the turret and saw Philip standing,
-sustained upon a crutch of garden timber; and
+sustained upon a crutch of [[Garden|garden]] timber; and
 admired him as she had never admired him before.
 While he was being helped downstairs, while he was
 being propped in the car with such limited comfort
 as was possible, she did really feel in him something
 worthy of his ancient roots, worthy of such hills and
-of such a sea.  For she felt God's wind from nowhere
+of such a sea.  For she felt God's [[Wind|wind]] from nowhere
 which is called the Will; and is man's only excuse
 upon this earth.  In the small toot of the starting
 motor she could hear a hundred trumpets, such as
@@ -243,16 +243,16 @@ and Mr. Pump were quite clever enough to leave no
 more hints behind.
 
 Third, he guessed, by careful consideration of map
-and clock, that they could not get to so remote a
+and [[Clock|clock]], that they could not get to so remote a
 region in so cheap a car under something like two days,
 nor do anything very conclusive in less than three.
-Thus, he had just time to turn round in.
+Thus, he had just [[Time|time]] to turn round in.
 
 Fourth, he realised that ever since that day when
 Dalroy swung round the sign-board and smote the
 policeman into the ditch, Dalroy had swung round the
 Ivywood Act on Lord Ivywood.  He (Lord Ivywood)
-had thought, and might well have thought rightly, that
+had thought, and might [[Well|well]] have thought rightly, that
 by restricting the old sign-posts to a few places so
 select that they can afford to be eccentric, and forbidding
 such artistic symbols to all other places, he could
@@ -265,7 +265,7 @@ gentleman wished to claim the liberties of a Bohemian, the
 path would be open.  If a Bohemian wished to claim
 the liberties of a gentleman, the path would be shut.
 So, gradually, Lord Ivywood had thought, the old
-signs which can alone sell alcohol, will dwindle down
+signs which can [[Alone|alone]] sell alcohol, will dwindle down
 to mere curiosities, like Audit Ale or the Mead that
 may still be found in the New Forest.  The calculation
 was by no means unstatesmanlike.  But, like many
@@ -276,17 +276,17 @@ anywhere, it mattered little whether the result was
 enjoyment or disappointment for the populace.  In either
 case it must mean constant scandal or riot.  If there
 was one thing worse than the appearance of "The Old
-Ship" it was its disappearance.
+[[Ship]]" it was its disappearance.
 
 He realised that his own law was letting them loose
-every time; for the local authorities hesitated to act
+every [[Time|time]]; for the local authorities hesitated to act
 on the spot, in defiance of a symbol now so exclusive
 and therefore impressive.  He realised that the law
 must be altered.  Must be altered at once.  Must be
 altered, if possible, before the fugitives broke away
 from the Model Village of Peaceways.
 
-He realised that it was Thursday.  This was the
+He realised that it was [[thursday|Thursday]].  This was the
 day on which any private member of Parliament could
 introduce any private bill of the kind called "non-contentious," and pass it without a division, so long as no
 particular member made any particular fuss.  He
@@ -298,38 +298,38 @@ Act.
 Finally, he realised that the whole case could be
 met by so slight an improvement as this.  Change the
 words of the Act (which he knew by heart, as happier
-men might know a song): "If such sign be present
+men might know a [[Song|song]]): "If such sign be present
 liquids containing alcohol can be sold on the premises,"
 to these other words: "Liquids containing alcohol can
 be sold, if previously preserved for three days on the
 premises"; it was mate in a few moves.  Parliament
 could never reject or even examine so slight an
-emendation.  And the revolution of "The Old Ship" and
-the late King of Ithaca would be crushed for ever.
+emendation.  And the revolution of "The Old [[Ship]]" and
+the late [[King]] of Ithaca would be crushed for ever.
 
 It does undoubtedly show, as we have said, something
 Napoleonic in the man's mind that the whole of
 this excellent and even successful plan was complete
-long before he saw the great glowing clock on the
-towers of Westminster; and knew he was in time.
+long before he saw the great glowing [[Clock|clock]] on the
+towers of Westminster; and knew he was in [[Time|time]].
 
 It was unfortunate, perhaps, that about the same
-time, or not long after, another gentleman of the same
+[[Time|time]], or not long after, another gentleman of the same
 rank, and indirectly of the same family, having left
 the restaurant in Regent Street and the tangle of
 Piccadilly, had drifted serenely down Whitehall, and had
 seen the same great golden goblin's eye on the tall
 tower of St. Stephen.
 
-The Poet of the Birds, like most aesthetes, had
+The Poet of the [[Birds]], like most aesthetes, had
 known as little of the real town as he had of the real
 country.  But he had remembered a good place for
 supper; and as he passed certain great cold clubs,
 built of stone and looking like Assyrian Sarcophagi,
 he remembered that he belonged to many of them.
-And so when he saw afar off, sitting above the river,
+And so when he saw afar off, sitting above the [[River|river]],
 what has been very erroneously described as the best
-club in London, he suddenly remembered that he
+club in [[London]], he suddenly remembered that he
 belonged to that too.  He could not at the moment recall
 what constituency in South England it was that he sat
 for; but he knew he could walk into the place if he
@@ -338,68 +338,68 @@ but he knew that in an oligarchy things go by respect
 for persons and not for claims; by visiting cards and
 not by voting cards.  He had not been near the place
 for years, being permanently paired against a famous
-Patriot who had accepted an important government
+Patriot who had accepted an important [[government]]
 appointment in a private madhouse.  Even in his
 silliest days, he had never pretended to feel any respect
 for modern politics, and made all haste to put his "leaders"
-and the mad patriot's "leaders" on the well selected
+and the mad patriot's "leaders" on the [[Well|well]] selected
 list of the creatures whom man forgets.  He had
-made one really eloquent speech in the House (on the
+made one really eloquent speech in the [[house|House]] (on the
 subject of gorillas), and then found he was speaking
 against his party.  It was an indescribable sort of
 place, anyhow.  Even Lord Ivywood did not go to it
 except to do some business that could be done nowhere
-else; as was the case that night.
+else; as was the case that [[Night|night]].
 
 Ivywood was what is called a peer by courtesy;
-his place was in the Commons, and for the time being
+his place was in the Commons, and for the [[Time|time]] being
 on the Opposition side.  But, though he visited the
-House but seldom, he knew far too much about it
+[[house|House]] but seldom, he knew far too much about it
 to go into the Chamber itself.  He limped into the
 Smoking Room (though he did not smoke), procured
 a needless cigarette and a much-needed sheet of note-paper, and composed a curt but careful note to the
-one member of the government whom he knew must
-be in the House.  Having sent it up to him, he waited.
+one member of the [[government]] whom he knew must
+be in the [[house|House]].  Having sent it up to him, he waited.
 
 Outside, Mr. Dorian Wimpole also waited, leaning
 on the parapet of Westminster Bridge and looking
-down the river.  He was becoming one with the
+down the [[River|river]].  He was becoming one with the
 oysters in a more solemn and solid sense than he had
 hitherto conceived possible, and also with a strictly
-Vegetarian beverage which bears the noble and starry
+[[vegetarian|Vegetarian]] beverage which bears the noble and starry
 name of Nuits.  He felt at peace with all things, even
-in a manner with politics.  It was one of those magic
+in a manner with politics.  It was one of those [[Magic|magic]]
 hours of evening when the red and golden lights of
-men are already lit along the river, and look like the
+men are already lit along the [[River|river]], and look like the
 lights of goblins, but daylight still lingers in a cold
-and delicate green.  He felt about the river something
+and delicate green.  He felt about the [[River|river]] something
 of that smiling and glorious sadness which two
 Englishmen have expressed under the figure of the white
-wood of an old ship fading like a phantom; Turner,
+wood of an old [[Ship|ship]] fading like a [[Phantom|phantom]]; Turner,
 in painting, and Henry Newbolt, in poetry.  He had
-come back to earth like a man fallen from the moon;
-he was at bottom not only a poet but a patriot, and a
-patriot is always a little sad.  Yet his melancholy was
-mixed up with that immutable yet meaningless faith
+come back to earth like a man fallen from the [[Moon|moon]];
+he was at [[Bottom|bottom]] not only a poet but a patriot, and a
+patriot is always a little sad.  Yet his [[Melancholy|melancholy]] was
+mixed up with that immutable yet meaningless [[Faith|faith]]
 which few Englishmen, even in modern times, fail to
 feel at the unexpected sight either of Westminster
 or of that height on which stands the temple of St.
 Paul.
 
-    "While flows the sacred river,
-     While stands the sacred hill,"
+    "While flows the sacred [[River|river]],
+     While stands the sacred [[Hill|hill]],"
 
 he murmured in some schoolboy echo of the ballad
 of Lake Regillus,
 
-    "While flows the sacred river,
-     While stands the sacred hill,
+    "While flows the sacred [[River|river]],
+     While stands the sacred [[Hill|hill]],
      The proud old pantaloons and nincompoops,
      Who yawn at the very length of their own lies
      in that accursed sanhedrim where
      people put each other's hats on in a poisonous
      room with no more windows than hell
-     Shall have such honour still."
+     Shall have such [[Honour|honour]] still."
 
 Relieved by this rendering of Macaulay in the style
 known among his cultured friends as _vers libre_, or
@@ -408,7 +408,7 @@ strolled toward the members' entrance and went in.
 
 Lacking Lord Ivywood's experience, he strolled into
 the Common's Chamber itself and sat down on a
-green bench, under the impression that the House was
+green bench, under the impression that the [[house|House]] was
 not sitting.  He was, however, gradually able to
 distinguish some six or eight drowsy human forms
 from the seats on which they sat; and to hear a senile
@@ -421,16 +421,16 @@ regarded except in the right way and have tried to put it
 in the right way and cannot think the honourable member
 was altogether adding to his reputation in putting it in
 what those who think with me must of course consider the
-wrong way and I for one am free to say that if in his desire
+wrong way and I for one am free to say that if in his [[Desire|desire]]
 to settle this great question he takes this hasty course and
 this revolutionary course about slate pencils he may not
 be able to prevent the extremists behind him from applying
 it to lead pencils and while I should be the last to increase
 the heat and the excitement and the personalities of this
-debate if I could possibly help it I must confess that in
+[[debate]] if I could possibly help it I must confess that in
 my opinion the honourable gentleman has himself encouraged
 that heat and personality in a manner that he now
-doubtless regrets I have no desire to use abusive terms indeed
+doubtless regrets I have no [[Desire|desire]] to use abusive terms indeed
 you Mr. Speaker would not allow me of course to use
 abusive terms but I must tell the honourable member face
 to face that the perambulators with which he has twitted
@@ -439,16 +439,16 @@ last person. . . ."
 
 Dorian Wimpole had softly risen to go, when he
 was arrested by the sight of someone sliding into the
-House and handing a note to the solitary young man
+[[house|House]] and handing a note to the solitary young man
 with heavy eyelids who was at that moment governing
 all England from the Treasury Bench.  Seeing him
-go out, Dorian had a sickening sweetness of hope (as
-he might have said in his earlier poems), that something
+go out, Dorian had a sickening sweetness of [[Hope|hope]] (as
+he might have said in his earlier [[Poems|poems]]), that something
 intelligible might happen after all, and followed
 him out almost with alacrity.
 
 The solitary and sleepy governor of Great Britain
-went down into the lower crypts of its temple of freedom
+went down into the lower crypts of its temple of [[Freedom|freedom]]
 and turned into an apartment where Wimpole
 was astonished to see his cousin Ivywood sitting at a
 little table with a large crutch leaning beside him,
@@ -468,15 +468,15 @@ a bell rang in several rooms at once.  And whenever
 the bell rang, Lord Ivywood nodded, as if he were
 part of the electrical machinery.  And whenever Lord
 Ivywood nodded the young man turned and sped upstairs
-like a mountaineer, returning in a short time to
+like a mountaineer, returning in a short [[Time|time]] to
 resume the conversation.  On the third occasion the
 poet began to observe that many others from the other
 rooms could be heard running upstairs at the sound of
 this bell, and returning with the slightly less rapid step
 which expresses relief after a duty done.  Yet did he
-not know that this duty was Representative Government;
+not know that this duty was Representative [[government|Government]];
 and that it is thus that the cry of Cumberland
-or Cornwall can come to the ears of an English King.
+or Cornwall can come to the ears of an English [[King]].
 
 Suddenly the sleepy young man sprang erect, uninspired
 by any bell, and strode out once more.  The
@@ -496,7 +496,7 @@ said:
 
 "I want to apologise to you, Philip, for my rudeness
 this afternoon.  Honestly, I am sorry.  Pinewoods
-and prison-cells try a man's temper, but I had no
+and [[Prison|prison]]-cells try a man's temper, but I had no
 rag of excuse for not seeing that for neither of them
 were you to blame.  I'd no notion you were coming up
 to town tonight; with your leg and all.  You mustn't
@@ -517,13 +517,13 @@ you've come up to make a speech.  I _should_ like to
 hear it.  We haven't always agreed; but, by God, if
 there's anything good left in literature it's your
 speeches reported in a newspaper.  That thing of
-yours that ended, 'death and the last shutting of the
+yours that ended, '[[Death|death]] and the last shutting of the
 iron doors of defeat'--Why you must go back to
 Strafford's last speech for such English.  Do let me
 hear your speech!  I've got a seat upstairs, you know."
 
 "If you wish it," said Ivywood hurriedly, "but I
-shan't make much of a speech to-night."  And he
+shan't make much of a speech to-[[Night|night]]."  And he
 looked at the wall behind Wimpole's head with
 thunderous wrinkles thickening on his brow.  It was
 essential to his brilliant and rapid scheme, of course,
@@ -537,13 +537,13 @@ exalted cripple resolutely refused anything in the way
 of liquor, his cousin was so kind as to have a little
 more himself, and resumed his remarks.
 
-"It's about this public-house affair of yours, I
+"It's about this public-[[house]] affair of yours, I
 suppose.  I'd like to hear you speak on that.  P'raps I'll
 speak myself.  I've been thinking about it a good deal
-all day, and a good deal of last night, too.  Now, here's
-what I should say to the House, if I were you.  To
-begin with, can you abolish the public-house?  Are
-you _important_ enough now to abolish the public-house?
+all day, and a good deal of last [[Night|night]], too.  Now, here's
+what I should say to the [[house|House]], if I were you.  To
+begin with, can you abolish the public-[[house]]?  Are
+you _important_ enough now to abolish the public-[[house]]?
 Whether it's right or wrong, can you in the long run
 prevent haymakers having ale any more than you can
 prevent me having this glass of Chartreuse?"
@@ -556,26 +556,26 @@ he heard were such as he was less able to cope with.
 shaking his head at the functionary, "remember the
 sensible little High-Church curate, who when asked
 for a Temperance Sermon preached on the text 'Suffer
-us not to be overwhelmed in the water-floods.'  Indeed,
+us not to be overwhelmed in the [[Water|water]]-floods.'  Indeed,
 indeed, Philip, you are in deeper waters than you
-know.  _You_ will abolish ale!  _You_ will make Kent
+know.  _You_ will abolish ale!  _You_ will make [[Kent]]
 forget hop-poles, and Devonshire forget cider!  The
 fate of the Inn is to be settled in that hot little room
 upstairs!  Take care its fate and yours are not settled
 in the Inn.  Take care Englishmen don't sit in judgment
 on you as they do on many another corpse at an
-inquest--at a common public-house!  Take care that
+inquest--at a common public-[[house]]!  Take care that
 the one tavern that is really neglected and shut up and
-passed like a house of pestilence is not the tavern in
-which I drink to-night, and that merely because it is
-the worst tavern on the King's highway.  Take care
+passed like a [[house]] of pestilence is not the tavern in
+which I drink to-[[Night|night]], and that merely because it is
+the worst tavern on the [[King]]'s highway.  Take care
 this place where we sit does not get a name like any
 pub where sailors are hocussed or girls debauched.
 That is what I shall say to them," said he, rising cheerfully,
 "that's what I shall say.  See you to it," he cried
 with sudden passion and apparently to the waiter,
 "see you to it if the sign that is destroyed is not the
-sign of 'The Old Ship' but the sign of the Mace and
+sign of 'The Old [[Ship]]' but the sign of the Mace and
 Bauble, and, in the words of a highly historical brewer,
 if we see a dog bark at your going."
 
@@ -588,7 +588,7 @@ any speech, good or bad, would wreck his whole plan
 and send the wild inn flying again.  But the orator
 had resumed his seat and drained his glass, passing a
 hand across his brow.  And he remembered that a
-man who keeps a vigil in a wood all night and drinks
+man who keeps a vigil in a wood all [[Night|night]] and drinks
 wine on the following evening is liable to an accident
 that is not drunkenness, but something much healthier.
 
@@ -603,14 +603,14 @@ and feel pretty tired.  You'll let me know?"
 Stillness fell along all the rooms until Lord
 Ivywood broke it by saying:
 
-"Debate is a most necessary thing; but there are
+"[[debate|Debate]] is a most necessary thing; but there are
 times when it rather impedes than assists parliamentary
-government."
+[[government]]."
 
 He received no reply.  Dorian still sat as if looking
 at the table, but his eyelids had lightly fallen; he was
 asleep.  Almost at the same moment the Member of
-Government, who was nearly asleep, appeared at the
+[[government|Government]], who was nearly asleep, appeared at the
 entrance of the long room and made some sort of
 weary signal.
 
@@ -619,9 +619,9 @@ stood for a moment looking at the sleeping man.
 Then he and his crutch trailed out of the long room,
 leaving the sleeping man behind.  Nor was that the
 only thing that he left behind.  He also left behind an
-unlighted cigarette and his honour and all the England
+unlighted cigarette and his [[Honour|honour]] and all the England
 of his father's; everything that could really distinguish
-that high house beside the river from any tavern for
+that high [[house]] beside the [[River|river]] from any tavern for
 the hocussing of sailors.  He went upstairs and did
 his business in twenty minutes in the only speech he
 had ever delivered without any trace of eloquence.

@@ -24,7 +24,7 @@ tags:
 
       _“I have graven it within the hills, and my vengeance upon the
 
-      dust within the rock.”_
+      [[Dust|dust]] within the rock.”_
 
 
 
@@ -64,11 +64,11 @@ NOTES TO THE THIRD VOLUME
 
       belonging to him. On the fifteenth, having cleared the shoal of
 
-      Georges, she sprung a leak in a gale of wind from the southeast,
+      Georges, she sprung a leak in a gale of [[Wind|wind]] from the southeast,
 
       and was finally capsized; but, the masts going by the board, she
 
-      afterward righted. They remained in this situation, without fire,
+      afterward righted. They remained in this situation, without [[Fire|fire]],
 
       and with very little provision, for the period of one hundred and
 
@@ -78,7 +78,7 @@ NOTES TO THE THIRD VOLUME
 
       survivors, were taken off the wreck by the Fame, of Hull, Captain
 
-      Featherstone, bound home from Rio Janeiro. When picked up, they
+      Featherstone, bound [[Home|home]] from Rio Janeiro. When picked up, they
 
       were in latitude 28 degrees N., longitude 13 degrees W., having
 
@@ -96,7 +96,7 @@ NOTES TO THE THIRD VOLUME
 
       distance, upon the most frequented part of the Atlantic, and not
 
-      be discovered all this time. They were passed by more than a
+      be discovered all this [[Time|time]]. They were passed by more than a
 
       dozen sail, one of which came so nigh them that they could
 
@@ -112,11 +112,11 @@ NOTES TO THE THIRD VOLUME
 
       {*3} Among the vessels which at various times have professed to
 
-      meet with the Auroras may be mentioned the ship San Miguel, in
+      meet with the Auroras may be mentioned the [[Ship|ship]] San Miguel, in
 
-      1769; the ship Aurora, in 1774; the brig Pearl, in 1779; and the
+      1769; the [[Ship|ship]] Aurora, in 1774; the brig Pearl, in 1779; and the
 
-      ship Dolores, in 1790. They all agree in giving the mean latitude
+      [[Ship|ship]] Dolores, in 1790. They all agree in giving the mean latitude
 
       fifty-three degrees south.
 
@@ -126,11 +126,11 @@ NOTES TO THE THIRD VOLUME
 
       avoid confusion in my narrative, as far as possible, must not, of
 
-      course, be taken in their ordinary sense. For a long time past we
+      course, be taken in their ordinary sense. For a long [[Time|time]] past we
 
-      had had no night at all, the daylight being continual. The dates
+      had had no [[Night|night]] at all, the daylight being continual. The dates
 
-      throughout are according to nautical time, and the bearing must
+      throughout are according to nautical [[Time|time]], and the bearing must
 
       be understood as per compass. I would also remark, in this place,
 
@@ -142,7 +142,7 @@ NOTES TO THE THIRD VOLUME
 
       of which this first portion treats. In many instances I have
 
-      relied altogether upon memory.
+      relied altogether upon [[Memory|memory]].
 
 
 
@@ -184,25 +184,25 @@ LIGEIA
 
       mysteries of the will, with its vigor? For God is but a great
 
-      will pervading all things by nature of its intentness. Man doth
+      will pervading all things by [[Nature|nature]] of its intentness. Man doth
 
-      not yield himself to the angels, nor unto death utterly, save
+      not yield himself to the angels, nor unto [[Death|death]] utterly, save
 
       only through the weakness of his feeble will.—_Joseph Glanvill_.
 
 
 
-      I cannot, for my soul, remember how, when, or even precisely
+      I cannot, for my [[Soul|soul]], remember how, when, or even precisely
 
       where, I first became acquainted with the lady Ligeia. Long years
 
-      have since elapsed, and my memory is feeble through much
+      have since elapsed, and my [[Memory|memory]] is feeble through much
 
-      suffering. Or, perhaps, I cannot now bring these points to mind,
+      [[Suffering|suffering]]. Or, perhaps, I cannot now bring these points to mind,
 
-      because, in truth, the character of my beloved, her rare
+      because, in [[Truth|truth]], the character of my beloved, her rare
 
-      learning, her singular yet placid cast of beauty, and the
+      learning, her singular yet placid cast of [[Beauty|beauty]], and the
 
       thrilling and enthralling eloquence of her low musical language,
 
@@ -212,15 +212,15 @@ LIGEIA
 
       believe that I met her first and most frequently in some large,
 
-      old, decaying city near the Rhine. Of her family—I have surely
+      old, decaying [[City|city]] near the Rhine. Of her family—I have surely
 
       heard her speak. That it is of a remotely ancient date cannot be
 
-      doubted. Ligeia! Ligeia! Buried in studies of a nature more than
+      doubted. Ligeia! Ligeia! Buried in studies of a [[Nature|nature]] more than
 
       all else adapted to deaden impressions of the outward world, it
 
-      is by that sweet word alone—by Ligeia—that I bring before mine
+      is by that sweet word [[Alone|alone]]—by Ligeia—that I bring before mine
 
       eyes in fancy the image of her who is no more. And now, while I
 

@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 31)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 31)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -20,7 +20,7 @@ own days of single blessedness, and to whom he is mightily attached.
 Contrary to the usual custom, this bachelor friend is no less a friend
 of Mrs. Chirrup’s, and, consequently, whenever you dine with Mr. and
 Mrs. Chirrup, you meet the bachelor friend. It would put any
-reasonably-conditioned mortal into good-humour to observe the entire
+reasonably-conditioned mortal into good-[[Humour|humour]] to observe the entire
 unanimity which subsists between these three; but there is a quiet
 welcome dimpling in Mrs. Chirrup’s face, a bustling hospitality oozing
 as it were out of the waistcoat-pockets of Mr. Chirrup, and a
@@ -38,21 +38,21 @@ upon their knees at the altar rails, taking M. or N. for their wedded
 wives, before they know anything about the matter.
 
 However, this is no business of Mr. Chirrup’s, who talks, and laughs,
-and drinks his wine, and laughs again, and talks more, until it is time
+and drinks his wine, and laughs again, and talks more, until it is [[Time|time]]
 to repair to the drawing-room, where, coffee served and over, Mrs.
 Chirrup prepares for a round game, by sorting the nicest possible
 little fish into the nicest possible little pools, and calling Mr.
 Chirrup to assist her, which Mr. Chirrup does. As they stand side by
-side, you find that Mr. Chirrup is the least possible shadow of a shade
+side, you find that Mr. Chirrup is the least possible [[Shadow|shadow]] of a shade
 taller than Mrs. Chirrup, and that they are the neatest and
 best-matched little couple that can be, which the chances are ten to
-one against your observing with such effect at any other time, unless
+one against your observing with such effect at any other [[Time|time]], unless
 you see them in the street arm-in-arm, or meet them some rainy day
 trotting along under a very small umbrella. The round game (at which
 Mr. Chirrup is the merriest of the party) being done and over, in
-course of time a nice little tray appears, on which is a nice little
+course of [[Time|time]] a nice little tray appears, on which is a nice little
 supper; and when that is finished likewise, and you have said ‘Good
-night,’ you find yourself repeating a dozen times, as you ride home,
+[[Night|night]],’ you find yourself repeating a dozen times, as you ride [[Home|home]],
 that there never was such a nice little couple as Mr. and Mrs. Chirrup.
 
 Whether it is that pleasant qualities, being packed more closely in
@@ -61,8 +61,8 @@ are diffused over a wider space, and have to be gathered together for
 use, we don’t know, but as a general rule,—strengthened like all other
 rules by its exceptions,—we hold that little people are sprightly and
 good-natured. The more sprightly and good-natured people we have, the
-better; therefore, let us wish well to all nice little couples, and
-hope that they may increase and multiply.
+better; therefore, let us wish [[Well|well]] to all nice little couples, and
+[[Hope|hope]] that they may increase and multiply.
 
 
 
@@ -73,7 +73,7 @@ THE EGOTISTICAL COUPLE
 Egotism in couples is of two kinds.—It is our purpose to show this by
 two examples.
 
-The egotistical couple may be young, old, middle-aged, well to do, or
+The egotistical couple may be young, old, middle-aged, [[Well|well]] to do, or
 ill to do; they may have a small family, a large family, or no family
 at all. There is no outward sign by which an egotistical couple may be
 known and avoided. They come upon you unawares; there is no guarding
@@ -81,7 +81,7 @@ against them. No man can of himself be forewarned or forearmed against
 an egotistical couple.
 
 The egotistical couple have undergone every calamity, and experienced
-every pleasurable and painful sensation of which our nature is
+every pleasurable and painful sensation of which our [[Nature|nature]] is
 susceptible. You cannot by possibility tell the egotistical couple
 anything they don’t know, or describe to them anything they have not
 felt. They have been everything but dead. Sometimes we are tempted to
@@ -91,30 +91,30 @@ which are few and far between.
 We happened the other day, in the course of a morning call, to
 encounter an egotistical couple, nor were we suffered to remain long in
 ignorance of the fact, for our very first inquiry of the lady of the
-house brought them into active and vigorous operation. The inquiry was
+[[house]] brought them into active and vigorous operation. The inquiry was
 of course touching the lady’s health, and the answer happened to be,
-that she had not been very well. ‘Oh, my dear!’ said the egotistical
-lady, ‘don’t talk of not being well. We have been in _such_ a state
-since we saw you last!’—The lady of the house happening to remark that
-her lord had not been well either, the egotistical gentleman struck in:
-‘Never let Briggs complain of not being well—never let Briggs complain,
+that she had not been very [[Well|well]]. ‘Oh, my dear!’ said the egotistical
+lady, ‘don’t talk of not being [[Well|well]]. We have been in _such_ a state
+since we saw you last!’—The lady of the [[house]] happening to remark that
+her lord had not been [[Well|well]] either, the egotistical gentleman struck in:
+‘Never let Briggs complain of not being [[Well|well]]—never let Briggs complain,
 my dear Mrs. Briggs, after what I have undergone within these six
 weeks. He doesn’t know what it is to be ill, he hasn’t the least idea
 of it; not the faintest conception.’—‘My dear,’ interposed his wife
 smiling, ‘you talk as if it were almost a crime in Mr. Briggs not to
 have been as ill as we have been, instead of feeling thankful to
-Providence that both he and our dear Mrs. Briggs are in such blissful
-ignorance of real suffering.’—‘My love,’ returned the egotistical
+[[Providence]] that both he and our dear Mrs. Briggs are in such blissful
+ignorance of real [[Suffering|suffering]].’—‘My [[Love|love]],’ returned the egotistical
 gentleman, in a low and pious voice, ‘you mistake me;—I feel
 grateful—very grateful. I trust our friends may never purchase their
-experience as dearly as we have bought ours; I hope they never may!’
+experience as dearly as we have bought ours; I [[Hope|hope]] they never may!’
 
 Having put down Mrs. Briggs upon this theme, and settled the question
 thus, the egotistical gentleman turned to us, and, after a few
 preliminary remarks, all tending towards and leading up to the point he
 had in his mind, inquired if we happened to be acquainted with the
 Dowager Lady Snorflerer. On our replying in the negative, he presumed
-we had often met Lord Slang, or beyond all doubt, that we were on
+we had often met Lord Slang, or beyond all [[Doubt|doubt]], that we were on
 intimate terms with Sir Chipkins Glogwog. Finding that we were equally
 unable to lay claim to either of these distinctions, he expressed great
 astonishment, and turning to his wife with a retrospective smile,
@@ -128,9 +128,9 @@ certain that didn’t apply to the other anecdote about the Emperor of
 Austria and the pump?’ ‘Upon my word then, I think it did,’ replied his
 wife. ‘To be sure it did,’ said the egotistical gentleman, ‘it was
 Slang’s story, I remember now, perfectly.’ However, it turned out, a
-few seconds afterwards, that the egotistical gentleman’s memory was
+few seconds afterwards, that the egotistical gentleman’s [[Memory|memory]] was
 rather treacherous, as he began to have a misgiving that the story had
-been told by the Dowager Lady Snorflerer the very last time they dined
+been told by the Dowager Lady Snorflerer the very last [[Time|time]] they dined
 there; but there appearing, on further consideration, strong
 circumstantial evidence tending to show that this couldn’t be, inasmuch
 as the Dowager Lady Snorflerer had been, on the occasion in question,

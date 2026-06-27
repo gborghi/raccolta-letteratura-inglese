@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 10 (part 1)"
+title: "[[Sense and Sensibility]] — Chapter 10 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -46,7 +46,7 @@ though not so correct as her sister’s, in having the advantage of
 
 height, was more striking; and her face was so lovely, that when in the
 
-common cant of praise, she was called a beautiful girl, truth was less
+common cant of praise, she was called a beautiful girl, [[Truth|truth]] was less
 
 violently outraged than usually happens. Her skin was very brown, but,
 
@@ -92,7 +92,7 @@ authors were brought forward and dwelt upon with so rapturous a
 
 delight, that any young man of five and twenty must have been
 
-insensible indeed, not to become an immediate convert to the excellence
+insensible indeed, not to become an immediate [[convert]] to the excellence
 
 of such works, however disregarded before. Their taste was strikingly
 
@@ -110,9 +110,9 @@ the familiarity of a long-established acquaintance.
 
 
 
-“Well, Marianne,” said Elinor, as soon as he had left them, “for _one_
+“[[Well]], Marianne,” said Elinor, as soon as he had left them, “for _one_
 
-morning I think you have done pretty well. You have already ascertained
+morning I think you have done pretty [[Well|well]]. You have already ascertained
 
 Mr. Willoughby’s opinion in almost every matter of importance. You know
 
@@ -128,7 +128,7 @@ subject for discourse? You will soon have exhausted each favourite
 
 topic. Another meeting will suffice to explain his sentiments on
 
-picturesque beauty, and second marriages, and then you can have nothing
+picturesque [[Beauty|beauty]], and second marriages, and then you can have nothing
 
 farther to ask.”
 
@@ -150,7 +150,7 @@ reproach would have been spared.”
 
 
 
-“My love,” said her mother, “you must not be offended with Elinor—she
+“My [[Love|love]],” said her mother, “you must not be offended with Elinor—she
 
 was only in jest. I should scold her myself, if she were capable of
 
@@ -172,11 +172,11 @@ greater kindness, made such an excuse unnecessary before it had ceased
 
 to be possible, by Marianne’s perfect recovery. She was confined for
 
-some days to the house; but never had any confinement been less
+some days to the [[house]]; but never had any confinement been less
 
 irksome. Willoughby was a young man of good abilities, quick
 
-imagination, lively spirits, and open, affectionate manners. He was
+[[Imagination|imagination]], lively spirits, and open, affectionate manners. He was
 
 exactly formed to engage Marianne’s heart, for with all this, he joined
 

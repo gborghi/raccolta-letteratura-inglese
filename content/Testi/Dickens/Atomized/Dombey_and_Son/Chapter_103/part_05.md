@@ -19,21 +19,21 @@ between yourself and me; it is not enough that you can look here,”
 pointing at Carker, who still listened, with his eyes cast down, “and
 be reminded of the affronts you have put upon me; it is not enough that
 you can look here,” pointing to Florence with a hand that slightly
-trembled for the first and only time, “and think of what you have done,
+trembled for the first and only [[Time|time]], “and think of what you have done,
 and of the ingenious agony, daily, hourly, constant, you have made me
 feel in doing it; it is not enough that this day, of all others in the
-year, is memorable to me for a struggle (well-deserved, but not
+year, is memorable to me for a struggle ([[Well|well]]-deserved, but not
 conceivable by such as you) in which I wish I had died! You add to all
 this, do you, the last crowning meanness of making her a witness of the
 depth to which I have fallen; when you know that you have made me
 sacrifice to her peace, the only gentle feeling and interest of my
 life, when you know that for her sake, I would now if I could—but I can
-not, my soul recoils from you too much—submit myself wholly to your
+not, my [[Soul|soul]] recoils from you too much—submit myself wholly to your
 will, and be the meekest vassal that you have!”
 
-This was not the way to minister to Mr Dombey’s greatness. The old
+This was not the way to minister to Mr Dombey’s [[Greatness|greatness]]. The old
 feeling was roused by what she said, into a stronger and fiercer
-existence than it had ever had. Again, his neglected child, at this
+existence than it had ever had. Again, his neglected [[Child|child]], at this
 rough passage of his life, put forth by even this rebellious woman, as
 powerful where he was powerless, and everything where he was nothing!
 
@@ -53,7 +53,7 @@ you heed nothing else.”
 
 The arch of diamonds spanning her dark hair, flashed and glittered like
 a starry bridge. There was no warning in them, or they would have
-turned as dull and dim as tarnished honour. Carker still sat and
+turned as dull and dim as tarnished [[Honour|honour]]. Carker still sat and
 listened, with his eyes cast down.
 
 “Mrs Dombey,” said Mr Dombey, resuming as much as he could of his
@@ -67,10 +67,10 @@ nothing that you ask.”
 
 “I am not accustomed to ask, Mrs Dombey,” he observed; “I direct.”
 
-“I will hold no place in your house to-morrow, or on any recurrence of
+“I will hold no place in your [[house]] to-morrow, or on any recurrence of
 to-morrow. I will be exhibited to no one, as the refractory slave you
-purchased, such a time. If I kept my marriage day, I would keep it as a
-day of shame. Self-respect! appearances before the world! what are
+purchased, such a [[Time|time]]. If I kept my [[Marriage|marriage]] day, I would keep it as a
+day of shame. [[Self]]-respect! appearances before the world! what are
 these to me? You have done all you can to make them nothing to me, and
 they are nothing.”
 
@@ -112,7 +112,7 @@ separation between you and me, and therefore I the more advise you to
 be awakened to a sense of duty. And, Carker, as I was about to say to
 you—”
 
-Mr Carker, who had sat and listened all this time, now raised his eyes,
+Mr Carker, who had sat and listened all this [[Time|time]], now raised his eyes,
 in which there was a bright unusual light.
 
 “—As I was about to say to you,” resumed Mr Dombey, “I must beg you,
@@ -120,12 +120,12 @@ now that matters have come to this, to inform Mrs Dombey, that it is
 not the rule of my life to allow myself to be thwarted by
 anybody—anybody, Carker—or to suffer anybody to be paraded as a
 stronger motive for obedience in those who owe obedience to me than I
-am my self. The mention that has been made of my daughter, and the use
+am my [[Self|self]]. The mention that has been made of my daughter, and the use
 that is made of my daughter, in opposition to me, are unnatural.
 Whether my daughter is in actual concert with Mrs Dombey, I do not
 know, and do not care; but after what Mrs Dombey has said today, and my
 daughter has heard today, I beg you to make known to Mrs Dombey, that
-if she continues to make this house the scene of contention it has
+if she continues to make this [[house]] the scene of contention it has
 become, I shall consider my daughter responsible in some degree, on
 that lady’s own avowal, and shall visit her with my severe displeasure.
 Mrs Dombey has asked ‘whether it is not enough,’ that she had done this

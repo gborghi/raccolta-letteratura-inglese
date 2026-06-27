@@ -17,10 +17,10 @@ tags:
 III.  On Boys
 
 ONE of the old sayings repeated eternally by everybody, and rather
-especially by those who pride themselves on novelty and originality,
+especially by those who [[Pride|pride]] themselves on novelty and originality,
 is the statement that old people tend to be conservative,
 and that it is only the young who can really believe in change.
-And yet this saying seems to me to be rather less than a half-truth;
+And yet this saying seems to me to be rather less than a half-[[Truth|truth]];
 so much less as to be very nearly two-thirds of a lie.
 
 My own experience is this:  that I was really much more conservative
@@ -42,7 +42,7 @@ Capitalist system, in which the State is run by the big businesses.
 They are much nearer to each other than either is to my own ideal;
 of breaking up the big businesses into a multitude of small businesses.
 That would be really a change; but I am still ready for that change;
-and I see no reason to doubt that, when I am tottering on crutches
+and I see no reason to [[Doubt|doubt]] that, when I am tottering on crutches
 at the age of ninety, I shall still be ready for that change.
 What I was not ready for, in my youth, was something quite real
 and entirely different.  I did not know that the world itself changes,
@@ -80,7 +80,7 @@ But when I was a boy, which was just before the motor car burst
 upon the world, I never dreamed of doubting that the railway-train
 dominated the whole future of the world.  It was the latest great
 locomotive that man had invented.  And that conservative spirit
-of childhood always makes the child think of the latest as the last.
+of [[Childhood|childhood]] always makes the [[Child|child]] think of the latest as the last.
 To talk, as some people are now talking, of whether railways will
 become obsolete, or whether steam can be superseded, of whether railway
 stock will always be as safe as it was--all this would have been
@@ -91,15 +91,15 @@ of doubting that they would remain exactly the same after I died.
 They seemed to me simply the iron framework of England, and almost
 of existence; as if the embankments were built before the everlasting
 hills or the trains of Bradshaw followed their appointed circuit
-like the stars.  If there is any old gentleman still alive
-who remembers the time when there were no railways, he probably
+like the [[Stars|stars]].  If there is any old gentleman still alive
+who remembers the [[Time|time]] when there were no railways, he probably
 feels quite differently; he feels as I feel about motoring.
 I do not feel in this cosmic and conservative way about motoring;
 but I think it probable that the young who are younger than motoring
 really do.  If you talk to them of a future without motoring,
-of a coming time when petrol will be scarcer than coal and men will
+of a coming [[Time|time]] when petrol will be scarcer than coal and men will
 walk about on their feet for want of wheels to carry them, it will
-seem like an unthinkable nightmare of negation.  It will seem what
+seem like an unthinkable [[nightmare]] of negation.  It will seem what
 the amputation of all legs would seem to a population of pedestrians.
 But they also will learn in due course what they cannot conceive now,
 just as I have learnt in due course what I could not have conceived
@@ -111,7 +111,7 @@ but in fact makes it much more dangerous.  It may or may not be true
 that petrol will replace coal or cars replace railways.  But nobody
 supposes that Waterloo Station fell in a heap of ruins when the first
 taxicab went across Waterloo Bridge, or that bats and owls nested
-in Clapham Junction when the first petrol pump was set up on the road
+in Clapham Junction when the first petrol pump was set up on the [[Road|road]]
 to Clapham Common.  The point is not whether the changes are as rapid
 and revolutionary as the young are supposed generally to expect.
 The point is that they are not the changes they were expecting.
@@ -119,30 +119,30 @@ Above all, the point is that they are changes in the very material
 they propose to treat; not changes in the manner of treating it.
 It is not a question of a younger generation wishing to carve
 the Phrygian cap or the Tree of Liberty on a stone that has
-been marked out for decoration with the Crown or the Cross.
+been marked out for decoration with the [[Crown]] or the [[Cross]].
 It is a question of the stone crumbling away before it can be carved
 with any thing, because they have forgotten the air they breathe,
 and the sky and the weather of the world.
 
 We are always being told nowadays to allow for the natural impulses
 and instincts of youth.  Let us be careful to allow for this
-most profound instinct of youth:  its innocent conservatism.
+most profound instinct of youth:  its [[Innocent|innocent]] conservatism.
 Let us always remember that to the very young the world they
 see really seems to be eternal; and that, however much they
-may talk a current cant about novelty and mutability, they do
+may talk a current cant about novelty and [[Mutability|mutability]], they do
 not really expect the externals of their world to be profoundly
-altered by time.  Notice, for instance, what is the very phrase
+altered by [[Time|time]].  Notice, for instance, what is the very phrase
 used in defence of any novelty.  Observe what is really said
 in praise of the Electric Toothpick or the Petrol Pea-shooter.
 We are always assured that the discovery `has come to stay'.
 We, who have lived long enough to understand the real value of life,
-know perfectly well that nothing of that sort has ever come to stay.
+know perfectly [[Well|well]] that nothing of that sort has ever come to stay.
 It may do all sorts of other things; but there is one thing that it
 cannot do; and that is to stay.  We shall show no irritation,
 please God, on being repeatedly introduced to the Hat of the Future
-and the Umbrella of the New Age and the Goloshes of the Good Time Coming.
-But the only thing we really have learnt from life is that the good time
-will be going as well as coming, and that, in the book of fashions,
+and the Umbrella of the New Age and the Goloshes of the Good [[Time]] Coming.
+But the only thing we really have learnt from life is that the good [[Time|time]]
+will be going as [[Well|well]] as coming, and that, in the book of fashions,
 the Hat of the Future will be recorded as the Hat of the Past.
 It is now the custom to condemn youth as too frivolous.
 But youth is always too serious; and just now it is too serious

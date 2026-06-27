@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 12 (part 4)"
+title: "[[thursday]] — Chapter 12 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -18,21 +18,21 @@ tags:
 of his virtue.  "The poor chaps may be making a mistake.
 Give the Colonel a chance."
 
-"Shall we go back, then?" asked the Professor.
+"Shall we go back, then?" asked [[The Professor|the Professor]].
 
 "No," said Ratcliffe in a cold voice, "the street behind us is held too.
 In fact, I seem to see there another friend of yours, Syme."
 
 Syme spun round smartly, and stared backwards at the track
-which they had travelled.  He saw an irregular body of
+which they had travelled.  He saw an irregular [[Body|body]] of
 horsemen gathering and galloping towards them in the gloom.
-He saw above the foremost saddle the silver gleam of a sword,
+He saw above the foremost saddle the silver gleam of a [[Sword|sword]],
 and then as it grew nearer the silver gleam of an old man's hair.
 The next moment, with shattering violence, he had swung the motor
 round and sent it dashing down the steep side street to the sea,
 like a man that desired only to die.
 
-"What the devil is up?" cried the Professor, seizing his arm.
+"What the devil is up?" cried [[The Professor|the Professor]], seizing his arm.
 
 "The morning star has fallen!" said Syme, as his own car went
 down the darkness like a falling star.
@@ -40,14 +40,14 @@ down the darkness like a falling star.
 The others did not understand his words, but when they looked back at
 the street above they saw the hostile cavalry coming round the corner
 and down the slopes after them; and foremost of all rode the good innkeeper,
-flushed with the fiery innocence of the evening light.
+flushed with the fiery [[innocence]] of the evening light.
 
-"The world is insane!" said the Professor, and buried his face
+"The world is insane!" said [[The Professor|the Professor]], and buried his face
 in his hands.
 
-"No," said Dr. Bull in adamantine humility, "it is I."
+"No," said Dr. Bull in adamantine [[Humility|humility]], "it is I."
 
-"What are we going to do?" asked the Professor.
+"What are we going to do?" asked [[The Professor|the Professor]].
 
 "At this moment," said Syme, with a scientific detachment,
 "I think we are going to smash into a lamppost."
@@ -58,7 +58,7 @@ out from under a chaos of metal, and a tall lean lamp-post that
 had stood up straight on the edge of the marine parade stood out,
 bent and twisted, like the branch of a broken tree.
 
-"Well, we smashed something," said the Professor, with a faint smile.
+"[[Well]], we smashed something," said [[The Professor|the Professor]], with a faint smile.
 "That's some comfort."
 
 "You're becoming an anarchist," said Syme, dusting his clothes
@@ -68,7 +68,7 @@ with his instinct of daintiness.
 
 As they spoke, the white-haired horseman and his followers came
 thundering from above, and almost at the same moment a dark string
-of men ran shouting along the sea-front. Syme snatched a sword,
+of men ran shouting along the sea-front. Syme snatched a [[Sword|sword]],
 and took it in his teeth; he stuck two others under his arm-pits,
 took a fourth in his left hand and the lantern in his right,
 and leapt off the high parade on to the beach below.
@@ -106,12 +106,12 @@ and the whole black mass of men began to run and drip over the edge
 like black treacle.
 
 Foremost among the men on the beach Syme saw the peasant who had driven
-their cart.  He splashed into the surf on a huge cart-horse, and shook
+their cart.  He splashed into the surf on a huge cart-[[Horse|horse]], and shook
 his axe at them.
 
 "The peasant!" cried Syme.  "They have not risen since the Middle Ages."
 
-"Even if the police do come now," said the Professor mournfully,
+"Even if the police do come now," said [[The Professor|the Professor]] mournfully,
 "they can do nothing with this mob."
 
 "Nonsense!" said Bull desperately; "there must be some people
@@ -120,7 +120,7 @@ left in the town who are human."
 "No," said the hopeless Inspector, "the human being will soon be extinct.
 We are the last of mankind."
 
-"It may be," said the Professor absently.  Then he added in his dreamy voice,
+"It may be," said [[The Professor|the Professor]] absently.  Then he added in his dreamy voice,
 "What is all that at the end of the 'Dunciad'?
 
   "'Nor public flame; nor private, dares to shine;
@@ -142,17 +142,17 @@ and jingle of a disciplined cavalry.
 
 "They have unslung their carbines," cried Bull dancing with excitement.
 
-"Yes," said Ratcliffe, "and they are going to fire on us."
+"Yes," said Ratcliffe, "and they are going to [[Fire|fire]] on us."
 
 As he spoke there came a long crackle of musketry, and bullets seemed
 to hop like hailstones on the stones in front of them.
 
-"The gendarmes have joined them!" cried the Professor,
+"The gendarmes have joined them!" cried [[The Professor|the Professor]],
 and struck his forehead.
 
 "I am in the padded cell," said Bull solidly.
 
-There was a long silence, and then Ratcliffe said, looking out over
+There was a long [[Silence|silence]], and then Ratcliffe said, looking out over
 the swollen sea, all a sort of grey purple--
 
 "What does it matter who is mad or who is sane?  We shall all be dead soon."

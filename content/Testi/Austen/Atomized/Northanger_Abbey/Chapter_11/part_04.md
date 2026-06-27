@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 10 (part 4)"
+title: "[[Northanger Abbey]] — Chapter 10 (part 4)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-“And so I am at home—only I do not find so much of it. I walk about
+“And so I am at [[Home|home]]—only I do not find so much of it. I walk about
 
 here, and so I do there; but here I see a variety of people in every
 
@@ -28,7 +28,7 @@ Mr. Tilney was very much amused.
 
 “Only go and call on Mrs. Allen!” he repeated. “What a picture of
 
-intellectual poverty! however, when you sink into this abyss again, you
+intellectual [[Poverty|poverty]]! however, when you sink into this abyss again, you
 
 will have more to say. You will be able to talk of Bath, and of all
 
@@ -40,7 +40,7 @@ that you did here.”
 
 Mrs. Allen, or anybody else. I really believe I shall always be talking
 
-of Bath, when I am at home again—I _do_ like it so very much. If I
+of Bath, when I am at [[Home|home]] again—I _do_ like it so very much. If I
 
 could but have Papa and Mamma, and the rest of them here, I suppose I
 
@@ -64,13 +64,13 @@ of balls and plays, and everyday sights, is past with them.”
 
 
 
-Here their conversation closed, the demands of the dance becoming now
+Here their conversation closed, the demands of the [[Dance|dance]] becoming now
 
 too importunate for a divided attention.
 
 
 
-Soon after their reaching the bottom of the set, Catherine perceived
+Soon after their reaching the [[Bottom|bottom]] of the set, Catherine perceived
 
 herself to be earnestly regarded by a gentleman who stood among the
 
@@ -82,7 +82,7 @@ life; and with his eye still directed towards her, she saw him
 
 presently address Mr. Tilney in a familiar whisper. Confused by his
 
-notice, and blushing from the fear of its being excited by something
+notice, and blushing from the [[Fear|fear]] of its being excited by something
 
 wrong in her appearance, she turned away her head. But while she did
 
@@ -90,7 +90,7 @@ so, the gentleman retreated, and her partner, coming nearer, said, “I
 
 see that you guess what I have just been asked. That gentleman knows
 
-your name, and you have a right to know his. It is General Tilney, my
+your name, and you have a right to know his. It is [[General Tilney]], my
 
 father.”
 
@@ -100,7 +100,7 @@ Catherine’s answer was only “Oh!”—but it was an “Oh!” expressing
 
 everything needful: attention to his words, and perfect reliance on
 
-their truth. With real interest and strong admiration did her eye now
+their [[Truth|truth]]. With real interest and strong admiration did her eye now
 
 follow the General, as he moved through the crowd, and “How handsome a
 
@@ -128,20 +128,20 @@ off—let us go to-morrow.” This was readily agreed to, with only a
 
 proviso of Miss Tilney’s, that it did not rain, which Catherine was
 
-sure it would not. At twelve o’clock, they were to call for her in
+sure it would not. At twelve o’[[Clock|clock]], they were to call for her in
 
-Pulteney Street; and “Remember—twelve o’clock,” was her parting speech
+Pulteney Street; and “Remember—twelve o’[[Clock|clock]],” was her parting speech
 
 to her new friend. Of her other, her older, her more established
 
-friend, Isabella, of whose fidelity and worth she had enjoyed a
+friend, [[Isabella]], of whose fidelity and worth she had enjoyed a
 
 fortnight’s experience, she scarcely saw anything during the evening.
 
-Yet, though longing to make her acquainted with her happiness, she
+Yet, though [[Longing|longing]] to make her acquainted with her happiness, she
 
 cheerfully submitted to the wish of Mr. Allen, which took them rather
 
 early away, and her spirits danced within her, as she danced in her
 
-chair all the way home.
+chair all the way [[Home|home]].

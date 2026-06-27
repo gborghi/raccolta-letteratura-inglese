@@ -18,9 +18,9 @@ tags:
 
       enthusiastically of Talbot who she was, he concluded that I meant
 
-      the younger beauty, as a matter of course, and so informed me,
+      the younger [[Beauty|beauty]], as a matter of course, and so informed me,
 
-      with perfect truth, that she was “the celebrated widow, Madame
+      with perfect [[Truth|truth]], that she was “the celebrated widow, Madame
 
       Lalande.”
 
@@ -38,9 +38,9 @@ tags:
 
       relative discovered, much to her chagrin, that she had been
 
-      deceived in supposing me aware of her identity, and that I had
+      deceived in supposing me aware of her [[Identity|identity]], and that I had
 
-      been merely making a fool of myself in making open love, in a
+      been merely making a [[Fool|fool]] of myself in making open [[Love|love]], in a
 
       theatre, to an old woman unknown. By way of punishing me for this
 
@@ -68,7 +68,7 @@ tags:
 
       lady was intended; and it was she who arose to obey the call; my
 
-      great, great, grandmother, to further the deception, arising at
+      great, great, grandmother, to further the [[Deception|deception]], arising at
 
       the same moment and accompanying her to the piano in the main
 
@@ -78,13 +78,13 @@ tags:
 
       was; but my own prudential views rendered this unnecessary. The
 
-      songs which I so much admired, and which so confirmed my
+      [[songs]] which I so much admired, and which so confirmed my
 
       impression of the youth of my mistress, were executed by Madame
 
       Stéphanie Lalande. The eyeglass was presented by way of adding a
 
-      reproof to the hoax—a sting to the epigram of the deception. Its
+      reproof to the hoax—a sting to the [[Epigram|epigram]] of the [[Deception|deception]]. Its
 
       presentation afforded an opportunity for the lecture upon
 
@@ -108,7 +108,7 @@ tags:
 
       out of town. Talbot took a seat at his side. The two scoundrels
 
-      were thus “in at the death,” and through a half-open window of
+      were thus “in at the [[Death|death]],” and through a half-open [[Window|window]] of
 
       the back parlor of the inn, amused themselves in grinning at the
 
@@ -142,13 +142,13 @@ tags:
 
 
 
-KING PEST
+[[King|KING]] PEST
 
 
 
 
 
-      A Tale Containing an Allegory.
+      A Tale Containing an [[Allegory]].
 
 
 
@@ -156,11 +156,11 @@ KING PEST
 
      The things which they abhor in rascal routes.
 
-                    —_Buckhurst’s Tragedy of Ferrex and Porrex._
+                    —_Buckhurst’s [[Tragedy]] of Ferrex and Porrex._
 
 
 
-      About twelve o’clock, one night in the month of October, and
+      About twelve o’[[Clock|clock]], one [[Night|night]] in the month of October, and
 
       during the chivalrous reign of the third Edward, two seamen
 
@@ -168,11 +168,11 @@ KING PEST
 
       plying between Sluys and the Thames, and then at anchor in that
 
-      river, were much astonished to find themselves seated in the
+      [[River|river]], were much astonished to find themselves seated in the
 
-      tap-room of an ale-house in the parish of St. Andrews,
+      tap-room of an ale-[[house]] in the parish of St. Andrews,
 
-      London—which ale-house bore for sign the portraiture of a “Jolly
+      [[London]]—which ale-[[house]] bore for sign the portraiture of a “Jolly
 
       Tar.”
 
@@ -184,9 +184,9 @@ KING PEST
 
       such places at the period—was, nevertheless, in the opinion of
 
-      the grotesque groups scattered here and there within it,
+      the [[Grotesque|grotesque]] groups scattered here and there within it,
 
-      sufficiently well adapted to its purpose.
+      sufficiently [[Well|well]] adapted to its purpose.
 
 
 
@@ -200,7 +200,7 @@ KING PEST
 
       addressed by the characteristic appellation of “Legs,” was at the
 
-      same time much the taller of the two. He might have measured six
+      same [[Time|time]] much the taller of the two. He might have measured six
 
       feet and a half, and an habitual stoop in the shoulders seemed to
 
@@ -214,9 +214,9 @@ KING PEST
 
       a pennant at the mast-head, or, when sober, have served for a
 
-      jib-boom. But these jests, and others of a similar nature, had
+      jib-boom. But these jests, and others of a similar [[Nature|nature]], had
 
-      evidently produced, at no time, any effect upon the cachinnatory
+      evidently produced, at no [[Time|time]], any effect upon the cachinnatory
 
       muscles of the tar. With high cheek-bones, a large hawk-nose,
 

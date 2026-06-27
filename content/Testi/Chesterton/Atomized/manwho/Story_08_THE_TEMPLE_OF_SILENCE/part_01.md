@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE TEMPLE OF  SILENCE (part 1)"
+title: "[[manwho]] — THE TEMPLE OF  [[Silence|SILENCE]] (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -14,21 +14,21 @@ tags:
 </nav>
 
 
-VII. THE TEMPLE OF SILENCE
+VII. THE TEMPLE OF [[Silence|SILENCE]]
 
 
 
-Harold March and the few who cultivated the friendship of Horne
+Harold March and the few who cultivated the [[Friendship|friendship]] of Horne
 
 Fisher, especially if they saw something of him in his own social
 
-setting, were conscious of a certain solitude in his very
+setting, were conscious of a certain [[Solitude|solitude]] in his very
 
 sociability. They seemed to be always meeting his relations and
 
 never meeting his family. Perhaps it would be truer to say that they
 
-saw much of his family and nothing of his home. His cousins and
+saw much of his family and nothing of his [[Home|home]]. His cousins and
 
 connections ramified like a labyrinth all over the governing class
 
@@ -42,7 +42,7 @@ touching all sorts of topics, so that one could sometimes fancy that
 
 his culture, like his colorless, fair mustache and pale, drooping
 
-features, had the neutral nature of a chameleon. Anyhow, he could
+features, had the neutral [[Nature|nature]] of a chameleon. Anyhow, he could
 
 always get on with viceroys and Cabinet Ministers and all the great
 
@@ -52,7 +52,7 @@ his own subject, on the branch of study with which he was most
 
 seriously concerned. Thus he could converse with the Minister for
 
-War about silkworms, with the Minister of Education about detective
+War about silkworms, with the Minister of [[Education]] about [[Detective|detective]]
 
 stories, with the Minister of Labor about Limoges enamel, and with
 
@@ -62,7 +62,7 @@ title) about the pantomime boys of the last four decades. And as the
 
 first was his first cousin, the second his second cousin, the third
 
-his brother-in-law, and the fourth his uncle by marriage, this
+his brother-in-law, and the fourth his uncle by [[Marriage|marriage]], this
 
 conversational versatility certainly served in one sense to create a
 
@@ -72,11 +72,11 @@ domestic interior to which men of the middle classes are accustomed
 
 in their friendships, and which is indeed the foundation of
 
-friendship and love and everything else in any sane and stable
+[[Friendship|friendship]] and [[Love|love]] and everything else in any sane and stable
 
-society. He wondered whether Horne Fisher was both an orphan and an
+society. He wondered whether Horne Fisher was both an [[Orphan|orphan]] and an
 
-only child.
+only [[Child|child]].
 
 
 
@@ -102,15 +102,15 @@ much more smooth. He was very courteous, but a shade patronizing,
 
 not only to March, but even, as March fancied, to Horne Fisher as
 
-well. The latter gentleman, who had many intuitions about the
+[[Well|well]]. The latter gentleman, who had many intuitions about the
 
 half-formed thoughts of others, glanced at the topic himself as they
 
-came away from the great house in Berkeley Square.
+came away from the [[Great House|great house]] in Berkeley Square.
 
 
 
-"Why, don't you know," he observed quietly, "that I am the fool of
+"Why, don't you know," he observed quietly, "that I am the [[Fool|fool]] of
 
 the family?"
 
@@ -122,9 +122,9 @@ the family?"
 
 "Very gracefully expressed," replied Fisher; "that is the best of
 
-having a literary training. Well, perhaps it is an exaggeration to
+having a literary training. [[Well]], perhaps it is an exaggeration to
 
-say I am the fool of the family. It's enough to say I am the failure
+say I am the [[Fool|fool]] of the family. It's enough to say I am the failure
 
 of the family."
 
@@ -156,7 +156,7 @@ March, laughing.
 
 matter of fact, old chap, the other part of it was rather odd and
 
-interesting. Quite a detective story in its way, as well as the
+interesting. Quite a [[Detective|detective]] story in its way, as [[Well|well]] as the
 
 first lesson I had in what modern politics are made of. If you like,
 
@@ -200,7 +200,7 @@ knowing. England has had at least three or four such secret
 
 statesmen. An aristocratic polity produces every now and then an
 
-aristocrat who is also an accident, a man of intellectual
+[[aristocrat]] who is also an accident, a man of intellectual
 
 independence and insight, a Napoleon born in the purple. His vast
 
@@ -214,7 +214,7 @@ of the Fishers, and the unexpected opinion he expressed, which
 
 turned what might have been a dinner-table joke into a sort of small
 
-sensational novel.
+sensational [[Novel|novel]].
 
 
 
@@ -226,4 +226,4 @@ leaving the rest to their coffee and cigars. This had been a figure
 
 of some interest--a young Cambridge man named Eric Hughes who was
 
-the rising hope of the party of Reform, to which the Fisher family,
+the rising [[Hope|hope]] of the party of [[Reform]], to which the Fisher family,

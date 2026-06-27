@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 31 (part 1)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 31 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -20,11 +20,11 @@ tags:
 
 
 
-March 20th, 1824. The dreaded time is come, and Arthur is gone, as I
+March 20th, 1824. The dreaded [[Time|time]] is come, and [[arthur|Arthur]] is gone, as I
 
-expected. This time he announced it his intention to make but a short
+expected. This [[Time|time]] he announced it his intention to make but a short
 
-stay in London, and pass over to the Continent, where he should
+stay in [[London]], and pass over to the Continent, where he should
 
 probably stay a few weeks; but I shall not expect him till after the
 
@@ -44,7 +44,7 @@ with his injustice, his selfishness and hopeless _depravity_. I wish a
 
 milder word would do; I am no angel, and my corruption rises against
 
-it. My poor father died last week: Arthur was vexed to hear of it,
+it. My poor father died last week: [[arthur|Arthur]] was vexed to hear of it,
 
 because he saw that I was shocked and grieved, and he feared the
 
@@ -56,7 +56,7 @@ mourning, he exclaimed,—
 
 “Oh, I hate black! But, however, I suppose you must wear it awhile, for
 
-form’s sake; but I hope, Helen, you won’t think it your bounden duty to
+form’s sake; but I [[Hope|hope]], [[Helen]], you won’t think it your bounden duty to
 
 compose your face and manners into conformity with your funereal garb.
 
@@ -64,23 +64,23 @@ Why should you sigh and groan, and I be made uncomfortable, because an
 
 old gentleman in ——shire, a perfect stranger to us both, has thought
 
-proper to drink himself to death? There, now, I declare you’re crying!
+proper to drink himself to [[Death|death]]? There, now, I declare you’re crying!
 
-Well, it must be affectation.”
+[[Well]], it must be affectation.”
 
 
 
 He would not hear of my attending the funeral, or going for a day or
 
-two, to cheer poor Frederick’s solitude. It was quite unnecessary, he
+two, to cheer poor Frederick’s [[Solitude|solitude]]. It was quite unnecessary, he
 
 said, and I was unreasonable to wish it. What was my father to me? I
 
-had never seen him but once since I was a baby, and I well knew he had
+had never seen him but once since I was a baby, and I [[Well|well]] knew he had
 
 never cared a stiver about me; and my brother, too, was little better
 
-than a stranger. “Besides, dear Helen,” said he, embracing me with
+than a stranger. “Besides, dear [[Helen]],” said he, embracing me with
 
 flattering fondness, “I cannot spare you for a single day.”
 
@@ -90,7 +90,7 @@ flattering fondness, “I cannot spare you for a single day.”
 
 
 
-“Ah! then I was knocking about the world, now I am at home, and home
+“Ah! then I was knocking about the world, now I am at [[Home|home]], and [[Home|home]]
 
 without you, my household deity, would be intolerable.”
 
@@ -100,15 +100,15 @@ without you, my household deity, would be intolerable.”
 
 before, when you urged me to leave you, in order that you might get
 
-away from your home without me,” retorted I; but before the words were
+away from your [[Home|home]] without me,” retorted I; but before the words were
 
-well out of my mouth, I regretted having uttered them. It seemed so
+[[Well|well]] out of my mouth, I regretted having uttered them. It seemed so
 
 heavy a charge: if false, too gross an insult; if true, too humiliating
 
 a fact to be thus openly cast in his teeth. But I might have spared
 
-myself that momentary pang of self-reproach. The accusation awoke
+myself that momentary pang of [[Self|self]]-reproach. The accusation awoke
 
 neither shame nor indignation in him: he attempted neither denial nor
 
@@ -136,39 +136,39 @@ know how bitter I find it!
 
 August 20th.—We are shaken down again to about our usual position.
 
-Arthur has returned to nearly his former condition and habits; and I
+[[arthur|Arthur]] has returned to nearly his former condition and habits; and I
 
 have found it my wisest plan to shut my eyes against the past and
 
 future, as far as _he_ at least is concerned, and live only for the
 
-present: to love him when I can; to smile (if possible) when he smiles,
+present: to [[Love|love]] him when I can; to smile (if possible) when he smiles,
 
 be cheerful when he is cheerful, and pleased when he is agreeable; and
 
 when he is not, to try to make him so; and if that won’t answer, to
 
-bear with him, to excuse him, and forgive him as well as I can, and
+bear with him, to excuse him, and forgive him as [[Well|well]] as I can, and
 
 restrain my own evil passions from aggravating his; and yet, while I
 
 thus yield and minister to his more harmless propensities to
 
-self-indulgence, to do all in my power to save him from the worse.
+[[Self|self]]-indulgence, to do all in my power to save him from the worse.
 
 
 
-But we shall not be long alone together. I shall shortly be called upon
+But we shall not be long [[Alone|alone]] together. I shall shortly be called upon
 
-to entertain the same select body of friends as we had the autumn
+to entertain the same select [[Body|body]] of friends as we had the [[Autumn|autumn]]
 
 before last, with the addition of Mr. Hattersley and, at my special
 
-request, his wife and child. I long to see Milicent, and her little
+request, his wife and [[Child|child]]. I long to see Milicent, and her little
 
 girl too. The latter is now above a year old; she will be a charming
 
-playmate for my little Arthur.
+playmate for my little [[arthur|Arthur]].
 
 
 
@@ -200,7 +200,7 @@ detriment of your own fingers.
 
 
 
-Of late, however, I have seen nothing in her conduct towards Arthur to
+Of late, however, I have seen nothing in her conduct towards [[arthur|Arthur]] to
 
 anger or alarm me. During the first few days I thought she seemed very
 
@@ -212,7 +212,7 @@ but, to his praise be it spoken, her shafts fell powerless by his side.
 
 Her most bewitching smiles, her haughtiest frowns were ever received
 
-with the same immutable, careless good-humour; till, finding he was
+with the same immutable, careless good-[[Humour|humour]]; till, finding he was
 
 indeed impenetrable, she suddenly remitted her efforts, and became, to
 
@@ -224,7 +224,7 @@ conquest upon hers.
 
 
 
-This is as it should be; but Arthur never will let me be satisfied with
+This is as it should be; but [[arthur|Arthur]] never will let me be satisfied with
 
 him. I have never, for a single hour since I married him, known what it
 

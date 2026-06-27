@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 31"
+title: "[[Mansfield Park]] — Chapter 31"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -17,9 +17,9 @@ tags:
 CHAPTER XXXI
 
 
-Henry Crawford was at Mansfield Park again the next morning, and at an
+[[Henry Crawford]] was at [[Mansfield Park]] again the next morning, and at an
 earlier hour than common visiting warrants. The two ladies were
-together in the breakfast-room, and, fortunately for him, Lady Bertram
+together in the breakfast-room, and, fortunately for him, Lady [[Bertram]]
 was on the very point of quitting it as he entered. She was almost at
 the door, and not chusing by any means to take so much trouble in vain,
 she still went on, after a civil reception, a short sentence about
@@ -29,9 +29,9 @@ Henry, overjoyed to have her go, bowed and watched her off, and without
 losing another moment, turned instantly to Fanny, and, taking out some
 letters, said, with a most animated look, “I must acknowledge myself
 infinitely obliged to any creature who gives me such an opportunity of
-seeing you alone: I have been wishing it more than you can have any
+seeing you [[Alone|alone]]: I have been wishing it more than you can have any
 idea. Knowing as I do what your feelings as a sister are, I could
-hardly have borne that any one in the house should share with you in
+hardly have borne that any one in the [[house]] should share with you in
 the first knowledge of the news I now bring. He is made. Your brother
 is a lieutenant. I have the infinite satisfaction of congratulating you
 on your brother’s promotion. Here are the letters which announce it,
@@ -39,7 +39,7 @@ this moment come to hand. You will, perhaps, like to see them.”
 
 Fanny could not speak, but he did not want her to speak. To see the
 expression of her eyes, the change of her complexion, the progress of
-her feelings, their doubt, confusion, and felicity, was enough. She
+her feelings, their [[Doubt|doubt]], confusion, and felicity, was enough. She
 took the letters as he gave them. The first was from the Admiral to
 inform his nephew, in a few words, of his having succeeded in the
 object he had undertaken, the promotion of young Price, and enclosing
@@ -64,11 +64,11 @@ have known before all the world. I have not lost a moment, however. The
 post was late this morning, but there has not been since a moment’s
 delay. How impatient, how anxious, how wild I have been on the subject,
 I will not attempt to describe; how severely mortified, how cruelly
-disappointed, in not having it finished while I was in London! I was
-kept there from day to day in the hope of it, for nothing less dear to
-me than such an object would have detained me half the time from
+disappointed, in not having it finished while I was in [[London]]! I was
+kept there from day to day in the [[Hope|hope]] of it, for nothing less dear to
+me than such an object would have detained me half the [[Time|time]] from
 Mansfield. But though my uncle entered into my wishes with all the
-warmth I could desire, and exerted himself immediately, there were
+warmth I could [[Desire|desire]], and exerted himself immediately, there were
 difficulties from the absence of one friend, and the engagements of
 another, which at last I could no longer bear to stay the end of, and
 knowing in what good hands I left the cause, I came away on Monday,
@@ -85,14 +85,14 @@ voluntarily bestowed by my uncle after the evening they had passed
 together.”
 
 “Has this been all _your_ doing, then?” cried Fanny. “Good heaven! how
-very, very kind! Have you really—was it by _your_ desire? I beg your
+very, very kind! Have you really—was it by _your_ [[Desire|desire]]? I beg your
 pardon, but I am bewildered. Did Admiral Crawford apply? How was it? I
 am stupefied.”
 
 Henry was most happy to make it more intelligible, by beginning at an
 earlier stage, and explaining very particularly what he had done. His
-last journey to London had been undertaken with no other view than that
-of introducing her brother in Hill Street, and prevailing on the
+last [[Journey|journey]] to [[London]] had been undertaken with no other view than that
+of introducing her brother in [[Hill]] Street, and prevailing on the
 Admiral to exert whatever interest he might have for getting him on.
 This had been his business. He had communicated it to no creature: he
 had not breathed a syllable of it even to Mary; while uncertain of the
@@ -146,8 +146,8 @@ you are _not_ thinking of me. I know it is all nothing.”
 
 She had burst away from him, and at that moment Sir Thomas was heard
 speaking to a servant in his way towards the room they were in. It was
-no time for farther assurances or entreaty, though to part with her at
-a moment when her modesty alone seemed, to his sanguine and preassured
+no [[Time|time]] for farther assurances or entreaty, though to part with her at
+a moment when her modesty [[Alone|alone]] seemed, to his sanguine and preassured
 mind, to stand in the way of the happiness he sought, was a cruel
 necessity. She rushed out at an opposite door from the one her uncle
 was approaching, and was walking up and down the East room in the
@@ -164,19 +164,19 @@ not what to say, how to class, or how to regard it. She would not have
 him be serious, and yet what could excuse the use of such words and
 offers, if they meant but to trifle?
 
-But William was a lieutenant. _That_ was a fact beyond a doubt, and
+But William was a lieutenant. _That_ was a fact beyond a [[Doubt|doubt]], and
 without an alloy. She would think of it for ever and forget all the
 rest. Mr. Crawford would certainly never address her so again: he must
 have seen how unwelcome it was to her; and in that case, how gratefully
-she could esteem him for his friendship to William!
+she could esteem him for his [[Friendship|friendship]] to William!
 
 She would not stir farther from the East room than the head of the
 great staircase, till she had satisfied herself of Mr. Crawford’s
-having left the house; but when convinced of his being gone, she was
+having left the [[house]]; but when convinced of his being gone, she was
 eager to go down and be with her uncle, and have all the happiness of
-his joy as well as her own, and all the benefit of his information or
+his joy as [[Well|well]] as her own, and all the benefit of his information or
 his conjectures as to what would now be William’s destination. Sir
-Thomas was as joyful as she could desire, and very kind and
+Thomas was as joyful as she could [[Desire|desire]], and very kind and
 communicative; and she had so comfortable a talk with him about William
 as to make her feel as if nothing had occurred to vex her, till she
 found, towards the close, that Mr. Crawford was engaged to return and
@@ -202,7 +202,7 @@ dine there, screened her a little from view.
 relief of a tongue that has been stumbling at _Miss_ _Price_ for at
 least the last six weeks—I cannot let my brother go without sending you
 a few lines of general congratulation, and giving my most joyful
-consent and approval. Go on, my dear Fanny, and without fear; there can
+consent and approval. Go on, my dear Fanny, and without [[Fear|fear]]; there can
 be no difficulties worth naming. I chuse to suppose that the assurance
 of my consent will be something; so you may smile upon him with your
 sweetest smiles this afternoon, and send him back to me even happier
@@ -232,10 +232,10 @@ immediately directed towards her.
 
 She was more silent than ever. She would hardly join even when William
 was the subject, for his commission came all from the right hand too,
-and there was pain in the connexion.
+and there was [[Pain|pain]] in the connexion.
 
-She thought Lady Bertram sat longer than ever, and began to be in
-despair of ever getting away; but at last they were in the
+She thought Lady [[Bertram]] sat longer than ever, and began to be in
+[[Despair|despair]] of ever getting away; but at last they were in the
 drawing-room, and she was able to think as she would, while her aunts
 finished the subject of William’s appointment in their own style.
 
@@ -245,7 +245,7 @@ himself, which would make a vast difference to his uncle, for it was
 unknown how much he had cost his uncle; and, indeed, it would make some
 difference in _her_ presents too. She was very glad that she had given
 William what she did at parting, very glad, indeed, that it had been in
-her power, without material inconvenience, just at that time to give
+her power, without material inconvenience, just at that [[Time|time]] to give
 him something rather considerable; that is, for _her_, with _her_
 limited means, for now it would all be useful in helping to fit up his
 cabin. She knew he must be at some expense, that he would have many
@@ -253,12 +253,12 @@ things to buy, though to be sure his father and mother would be able to
 put him in the way of getting everything very cheap; but she was very
 glad she had contributed her mite towards it.”
 
-“I am glad you gave him something considerable,” said Lady Bertram,
+“I am glad you gave him something considerable,” said Lady [[Bertram]],
 with most unsuspicious calmness, “for _I_ gave him only £10.”
 
 “Indeed!” cried Mrs. Norris, reddening. “Upon my word, he must have
-gone off with his pockets well lined, and at no expense for his journey
-to London either!”
+gone off with his pockets [[Well|well]] lined, and at no expense for his [[Journey|journey]]
+to [[London]] either!”
 
 “Sir Thomas told me £10 would be enough.”
 
@@ -293,7 +293,7 @@ so slightly, so carelessly, so unfeelingly on all such points; who was
 everything to everybody, and seemed to find no one essential to him?
 And farther, how could it be supposed that his sister, with all her
 high and worldly notions of matrimony, would be forwarding anything of
-a serious nature in such a quarter? Nothing could be more unnatural in
+a serious [[Nature|nature]] in such a quarter? Nothing could be more unnatural in
 either. Fanny was ashamed of her own doubts. Everything might be
 possible rather than serious attachment, or serious approbation of it
 toward her. She had quite convinced herself of this before Sir Thomas
@@ -325,7 +325,7 @@ writing for her aunt, and prepared her materials without knowing what
 in the world to say. She had read Miss Crawford’s note only once, and
 how to reply to anything so imperfectly understood was most
 distressing. Quite unpractised in such sort of note-writing, had there
-been time for scruples and fears as to style she would have felt them
+been [[Time|time]] for scruples and fears as to style she would have felt them
 in abundance: but something must be instantly written; and with only
 one decided feeling, that of wishing not to appear to think anything
 really intended, she wrote thus, in great trembling both of spirits and
@@ -334,11 +334,11 @@ hand—
 “I am very much obliged to you, my dear Miss Crawford, for your kind
 congratulations, as far as they relate to my dearest William. The rest
 of your note I know means nothing; but I am so unequal to anything of
-the sort, that I hope you will excuse my begging you to take no farther
+the sort, that I [[Hope|hope]] you will excuse my begging you to take no farther
 notice. I have seen too much of Mr. Crawford not to understand his
-manners; if he understood me as well, he would, I dare say, behave
+manners; if he understood me as [[Well|well]], he would, I dare say, behave
 differently. I do not know what I write, but it would be a great favour
-of you never to mention the subject again. With thanks for the honour
+of you never to mention the subject again. With thanks for the [[Honour|honour]]
 of your note,
 
 
@@ -364,10 +364,10 @@ averted eyes walked towards the fireplace, where sat the others, he had
 nothing to do but to go in good earnest.
 
 Fanny thought she had never known a day of greater agitation, both of
-pain and pleasure; but happily the pleasure was not of a sort to die
+[[Pain|pain]] and pleasure; but happily the pleasure was not of a sort to die
 with the day; for every day would restore the knowledge of William’s
-advancement, whereas the pain, she hoped, would return no more. She had
-no doubt that her note must appear excessively ill-written, that the
-language would disgrace a child, for her distress had allowed no
+advancement, whereas the [[Pain|pain]], she hoped, would return no more. She had
+no [[Doubt|doubt]] that her note must appear excessively ill-written, that the
+language would disgrace a [[Child|child]], for her distress had allowed no
 arrangement; but at least it would assure them both of her being
 neither imposed on nor gratified by Mr. Crawford’s attentions.

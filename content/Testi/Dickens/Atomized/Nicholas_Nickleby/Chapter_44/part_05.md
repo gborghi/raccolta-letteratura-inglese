@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 44 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 44 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -27,9 +27,9 @@ something rather clever than otherwise.
 
 ‘I will, however,’ continued Madame Mantalini, drying her eyes, and
 speaking with great indignation, ‘say before you, and before everybody
-here, for the first time, and once for all, that I never will supply
+here, for the first [[Time|time]], and once for all, that I never will supply
 that man’s extravagances and viciousness again. I have been a dupe and a
-fool to him long enough. In future, he shall support himself if he
+[[Fool|fool]] to him long enough. In future, he shall support himself if he
 can, and then he may spend what money he pleases, upon whom and how he
 pleases; but it shall not be mine, and therefore you had better pause
 before you trust him further.’
@@ -48,7 +48,7 @@ once interfered by word or deed to save his life.
 
 ‘And I insist on being separated and left to myself,’ said Madame
 Mantalini, sobbing. ‘If he dares to refuse me a separation, I’ll have
-one in law--I can--and I hope this will be a warning to all girls who
+one in law--I can--and I [[Hope|hope]] this will be a warning to all girls who
 have seen this disgraceful exhibition.’
 
 Miss Knag, who was unquestionably the oldest girl in company, said with
@@ -62,14 +62,14 @@ voice. ‘You know you are not in earnest.’
 ‘I AM in earnest,’ replied Madame Mantalini, aloud, and retreating
 towards Miss Knag.
 
-‘Well, but consider,’ reasoned Ralph, who had a great interest in the
-matter. ‘It would be well to reflect. A married woman has no property.’
+‘[[Well]], but consider,’ reasoned Ralph, who had a great interest in the
+matter. ‘It would be [[Well|well]] to reflect. A married woman has no property.’
 
-‘Not a solitary single individual dem, my soul,’ and Mr. Mantalini,
+‘Not a solitary single individual dem, my [[Soul|soul]],’ and Mr. Mantalini,
 raising himself upon his elbow.
 
 ‘I am quite aware of that,’ retorted Madame Mantalini, tossing her head;
-‘and I have none. The business, the stock, this house, and everything in
+‘and I have none. The business, the stock, this [[house]], and everything in
 it, all belong to Miss Knag.’
 
 ‘That’s quite true, Madame Mantalini,’ said Miss Knag, with whom her
@@ -93,9 +93,9 @@ To do the excellent Miss Knag justice, she had been mainly instrumental
 in bringing about this altered state of things, for, finding by daily
 experience, that there was no chance of the business thriving, or even
 continuing to exist, while Mr. Mantalini had any hand in the expenditure,
-and having now a considerable interest in its well-doing, she had
+and having now a considerable interest in its [[Well|well]]-doing, she had
 sedulously applied herself to the investigation of some little matters
-connected with that gentleman’s private character, which she had so well
+connected with that gentleman’s private character, which she had so [[Well|well]]
 elucidated, and artfully imparted to Madame Mantalini, as to open her
 eyes more effectually than the closest and most philosophical reasoning
 could have done in a series of years. To which end, the accidental
@@ -108,7 +108,7 @@ piteously; and as she leant upon Miss Knag, and signed towards the door,
 that young lady and all the other young ladies with sympathising faces,
 proceeded to bear her out.
 
-‘Nickleby,’ said Mr. Mantalini in tears, ‘you have been made a witness
+‘Nickleby,’ said Mr. Mantalini in [[Tears|tears]], ‘you have been made a witness
 to this demnition cruelty, on the part of the demdest enslaver and
 captivator that never was, oh dem! I forgive that woman.’
 
@@ -119,7 +119,7 @@ world will blame me, the women will blame me; everybody will laugh,
 and scoff, and smile, and grin most demnebly. They will say, “She had a
 blessing. She did not know it. He was too weak; he was too good; he was
 a dem’d fine fellow, but he loved too strong; he could not bear her to
-be cross, and call him wicked names. It was a dem’d case, there never
+be [[Cross|cross]], and call him wicked names. It was a dem’d case, there never
 was a demder.” But I forgive her.’
 
 With this affecting speech Mr. Mantalini fell down again very flat, and

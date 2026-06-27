@@ -1,5 +1,5 @@
 ---
-title: "Sanity — THE TYRANNY OF TRUSTS (part 2)"
+title: "[[Sanity]] — THE TYRANNY OF TRUSTS (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Sanity-(Chesterton)"
@@ -17,20 +17,20 @@ tags:
 I think such people exaggerate the extent to which it pays
 to advertise; even if there is only the devil to pay.
 But in one sense this psychological case for advertising
-is of great practical importance to any programme of reform.
+is of great practical importance to any programme of [[Reform|reform]].
 The American advertisers have got hold of the wrong end of the stick;
 but it is a stick that can be used to beat something else besides
 their own absurd big drum.  It is a stick that can be used also to beat
-their own absurd business philosophy.  They are always telling us
-that the success of modern commerce depends on creating an atmosphere,
+their own absurd business [[philosophy]].  They are always telling us
+that the [[success]] of modern commerce depends on creating an atmosphere,
 on manufacturing a mentality, on assuming a point of view.
 In short, they insist that their commerce is not merely commercial,
 or even economic or political, but purely psychological.
-I hope they will go on saying it; for then some day everybody may
+I [[Hope|hope]] they will go on saying it; for then some day everybody may
 suddenly see that it is true.
 
-For the success of big shops and such things really is psychology;
-not to say psycho-analysis; or, in other words, nightmare.
+For the [[success]] of big shops and such things really is psychology;
+not to say psycho-analysis; or, in other words, [[nightmare]].
 It is not real and, therefore, not reliable.  This point concerns
 merely our immediate attitude, at the moment and on the spot,
 towards the whole plutocratic occupation of which such publicity
@@ -56,7 +56,7 @@ that I am first of all dealing here.  Now, when we ask what we can do,
 here and now, against the actual growth of monopoly, we are always
 given a very simple answer.  We are told that we can do nothing.
 By a natural and inevitable operation the large things are
-swallowing the small, as large fish might swallow little fish.
+swallowing the small, as large fish might [[Swallow|swallow]] little fish.
 The trust can absorb what it likes, like a dragon devouring what it likes,
 because it is already the largest creature left alive in the land.
 Some people are so finally resolved to accept this result that
@@ -66,12 +66,12 @@ The fatalists almost become sentimentalists when looking at the little
 shop that is being bought up by the big company.  They are ready to weep,
 so long as it is admitted that they weep because they weep in vain.
 They are willing to admit that the loss of a little toy-shop
-of their childhood, or a little tea-shop of their youth, is even
-in the true sense a tragedy.  For a tragedy means always a man's
+of their [[Childhood|childhood]], or a little tea-shop of their youth, is even
+in the true sense a [[Tragedy|tragedy]].  For a [[Tragedy|tragedy]] means always a man's
 struggle with that which is stronger than man.  And it is the feet
 of the gods themselves that are here trampling on our traditions;
-it is death and doom themselves that have broken our little toys
-like sticks; for against the stars of destiny none shall prevail.
+it is [[Death|death]] and doom themselves that have broken our little toys
+like sticks; for against the [[Stars|stars]] of destiny none shall prevail.
 It is amazing what a little bluff will do in this world.
 
 For they go on saying that the big fish eats the little fish,
@@ -83,32 +83,32 @@ and do not know the difference between fashion and fate.
 The necessitarians have here carefully chosen the one example of
 something that is certainly not necessary, whatever else is necessary.
 They have chosen the one thing that does happen still to be free,
-as a proof of the unbreakable chains in which all things are bound.
+as a proof of the unbreakable [[Chains|chains]] in which all things are bound.
 Very little is left free in the modern world; but private buying
 and selling are still supposed to be free; and indeed still
-are free; if anyone has a will free enough to use his freedom.
+are free; if anyone has a will free enough to use his [[Freedom|freedom]].
 Children may be driven by force to a particular school.  Men may be driven
-by force away from a public-house. All sorts of people, for all sorts
-of new and nonsensical reasons, may be driven by force to a prison.
+by force away from a public-[[house]]. All sorts of people, for all sorts
+of new and nonsensical reasons, may be driven by force to a [[Prison|prison]].
 But nobody is yet driven by force to a particular shop.
 
 I shall deal later with some practical remedies and reactions
 against the rush towards rings and corners.  But even before
-we consider these, it is well to have paused a moment on
+we consider these, it is [[Well|well]] to have paused a moment on
 the moral fact which is so elementary and so entirely ignored.
 Of all things in the world, the rush to the big shops is the thing
 that could be most easily stopped--by the people who rush there.
 We do not know what may come later; but they cannot be driven there
 by bayonets just yet.  American business enterprise, which has
 already used British soldiers for purposes of advertisement,
-may doubtless in time use British soldiers for purposes of coercion.
+may doubtless in [[Time|time]] use British soldiers for purposes of coercion.
 But we cannot yet be dragooned by guns and sabres into Yankee
 shops or international stores.  The alleged economic attraction,
 with which I will deal in due course, is quite a different thing:
 I am merely pointing out that if we came to the conclusion that big shops
 ought to be boycotted, we could boycott them as easily as we should
-(I hope) boycott shops selling instruments of torture or poisons
-for private use in the home.  In other words, this first and
+(I [[Hope|hope]]) boycott shops selling instruments of torture or poisons
+for private use in the [[Home|home]].  In other words, this first and
 fundamental question is not a question of necessity but of will.
 If we chose to make a vow, if we chose to make a league, for dealing
 only with little local shops and never with large centralized shops,
@@ -122,7 +122,7 @@ And if I be asked why, I answer at the end with the unanswerable
 fact with which I began at the beginning.  I know it is not merely
 a matter of business, for the simple reason that the business men
 themselves tell me it is merely a matter of bluff.  It is they
-who say that nothing succeeds like a mere appearance of success.
+who say that nothing succeeds like a mere appearance of [[success]].
 It is they who say that publicity influences us without our will
 or knowledge.  It is they who say that "It Pays to Advertise";
 that is, to tell people in a bullying way that they must "Do It Now,"

@@ -1,5 +1,5 @@
 ---
-title: "CharlesDickens — Chapter 9 (part 1)"
+title: "[[CharlesDickens]] — Chapter 9 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/CharlesDickens-(Chesterton)"
@@ -27,7 +27,7 @@ think that we can hardly make too evident a chasm between books which
 profess to be statements of all the ascertainable facts, and books which
 (like this one) profess only to contain a particular opinion or a
 summary deducible from the facts.  Books like Forster's exhaustive
-work and others exist, and are as accessible as St. Paul's Cathedral;
+work and others exist, and are as accessible as St. Paul's [[Cathedral]];
 we have them in common as we have the facts of the physical universe;
 and it seems highly desirable that the function of making an exhaustive
 catalogue and that of making an individual generalisation should not
@@ -38,10 +38,10 @@ Bat if a great many facts are given, the reader gains a blurred
 belief that all the facts are being given.  In a professedly personal
 judgment it is therefore clearer and more honest to give only a few
 illustrative facts, leaving the other obtainable facts to balance them.
-For thus it is made quite clear that the thing is a sketch, an affair
+For thus it is made quite clear that the thing is a [[Sketch|sketch]], an affair
 of a few lines.
 
-It is as well, however, to make at this point a pause sufficient
+It is as [[Well|well]], however, to make at this point a pause sufficient
 to indicate the main course of the later life of the novelist.
 And it is best to begin with the man himself, as he appeared
 in those last days of popularity and public distinction.
@@ -71,20 +71,20 @@ deathly about it, like a corpse galvanised by a god.  His face
 (if this was so) was curiously a counterpart of his character.
 For the essence of all Dickens's character was that it was
 at once tremulous and yet hard and sharp, just as the bright
-blade of a sword is tremulous and yet hard and sharp.
+blade of a [[Sword|sword]] is tremulous and yet hard and sharp.
 He vibrated at every touch and yet he was indestructible;
 you could bend him, but you could not break him.
 Brown of hair and beard, somewhat pale of visage (especially in
 his later days of excitement and ill-health), he had quite
 exceptionally bright and active eyes that were always darting
-about like brilliant birds to pick up all the tiny things
+about like brilliant [[Birds|birds]] to pick up all the tiny things
 of which he made more, perhaps, than any novelist has done;
 for he was a sort of poetical Sherlock Holmes.  The mouth behind
 the brown beard was large and mobile, like the mouth of an actor;
 indeed he was an actor, in many things too much of an actor.
 In his lectures, in later years, he could turn his strange
 face into any of the innumerable mad masks that were the faces
-of his grotesque characters.  He could make his face fall
+of his [[Grotesque|grotesque]] characters.  He could make his face fall
 suddenly into the blank inanity of Mrs. Raddle's servant,
 or swell, as if to twice its size, into the apoplectic energy of
 Mr. Serjeant Buzfuz.  But the outline of his face itself, from his
@@ -93,7 +93,7 @@ and in its own keen way, may even have looked effeminate.
 
 The dress of the comfortable classes during the later years of
 Dickens was, compared with ours, somewhat slipshod and somewhat gaudy.
-It was the time of loose pegtop trousers of an almost Turkish oddity,
+It was the [[Time|time]] of loose pegtop trousers of an almost Turkish oddity,
 of large ties, of loose short jackets and of loose long whiskers.
 Yet even this expansive period, it must be confessed,
 considered Dickens a little too flashy or, as some put it,
@@ -104,20 +104,20 @@ He did not mind being seen in sensational dressing-gowns;
 it is said he had his portrait painted in one of them.
 All this is not meritorious; neither is it particularly discreditable;
 it is a characteristic only, but an important one.
-He was an absolutely independent and entirely self-respecting man.
+He was an absolutely independent and entirely [[Self|self]]-respecting man.
 But he had none of that old lusty, half-dignified English
-feeling upon which Thackeray was so sensitive; I mean the desire
-to be regarded as a private gentleman, which means at bottom
-the desire to be left alone.  This again is not a merit;
+feeling upon which Thackeray was so sensitive; I mean the [[Desire|desire]]
+to be regarded as a private gentleman, which means at [[Bottom|bottom]]
+the [[Desire|desire]] to be left [[Alone|alone]].  This again is not a merit;
 it is only one of the milder aspects of aristocracy.
 But meritorious or not, Dickens did not possess it.
 He had no objection to being stared at, if he were also admired.
 He did not exactly pose in the oriental manner of Disraeli;
 his instincts were too clean for that; but he did pose
 somewhat in the French manner, of some leaders like Mirabeau
-and Gambetta.  Nor had he the dull desire to "get on"
+and Gambetta.  Nor had he the dull [[Desire|desire]] to "get on"
 which makes men die contented as inarticulate Under-Secretaries
-of State.  He did not desire success so much as fame,
-the old human glory, the applause and wonder of the people.
+of State.  He did not [[Desire|desire]] [[success]] so much as fame,
+the old human glory, the applause and [[Wonder|wonder]] of the people.
 Such he was as he walked down the street in his Frenchified clothes,
 probably with a slight swagger.

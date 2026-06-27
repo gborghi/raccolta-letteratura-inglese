@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 2 (part 1)"
+title: "[[Shirley]] — Chapter 2 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,17 +24,17 @@ THE WAGONS.
 
 
 
-The evening was pitch dark: star and moon were quenched in gray
+The evening was pitch dark: star and [[Moon|moon]] were quenched in gray
 
-rain-clouds--gray they would have been by day; by night they looked
+rain-clouds--gray they would have been by day; by [[Night|night]] they looked
 
-sable. Malone was not a man given to close observation of nature; her
+sable. Malone was not a man given to close observation of [[Nature|nature]]; her
 
 changes passed, for the most part, unnoticed by him. He could walk miles
 
 on the most varying April day and never see the beautiful dallying of
 
-earth and heaven--never mark when a sunbeam kissed the hill-tops, making
+earth and heaven--never mark when a sunbeam kissed the [[Hill|hill]]-tops, making
 
 them smile clear in green light, or when a shower wept over them, hiding
 
@@ -46,7 +46,7 @@ muffled, streaming vault, all black, save where, towards the east, the
 
 furnaces of Stilbro' ironworks threw a tremulous lurid shimmer on the
 
-horizon--with the same sky on an unclouded frosty night. He did not
+horizon--with the same sky on an unclouded frosty [[Night|night]]. He did not
 
 trouble himself to ask where the constellations and the planets were
 
@@ -60,7 +60,7 @@ way, leaning a little forward as he walked, and wearing his hat on the
 
 back of his head, as his Irish manner was. "Tramp, tramp," he went along
 
-the causeway, where the road boasted the privilege of such an
+the causeway, where the [[Road|road]] boasted the privilege of such an
 
 accommodation; "splash, splash," through the mire-filled cart ruts,
 
@@ -68,13 +68,13 @@ where the flags were exchanged for soft mud. He looked but for certain
 
 landmarks--the spire of Briarfield Church; farther on, the lights of
 
-Redhouse. This was an inn; and when he reached it, the glow of a fire
+Redhouse. This was an inn; and when he reached it, the glow of a [[Fire|fire]]
 
-through a half-curtained window, a vision of glasses on a round table,
+through a half-curtained [[Window|window]], a vision of glasses on a round table,
 
 and of revellers on an oaken settle, had nearly drawn aside the curate
 
-from his course. He thought longingly of a tumbler of whisky-and-water.
+from his course. He thought longingly of a tumbler of whisky-and-[[Water|water]].
 
 In a strange place he would instantly have realized the dream; but the
 
@@ -98,11 +98,11 @@ see a high gable, then a long front, then a low gable, then a thick,
 
 lofty stack of chimneys. There were some trees behind it. It was dark;
 
-not a candle shone from any window. It was absolutely still; the rain
+not a candle shone from any [[Window|window]]. It was absolutely still; the rain
 
 running from the eaves, and the rather wild but very low whistle of the
 
-wind round the chimneys and through the boughs were the sole sounds in
+[[Wind|wind]] round the chimneys and through the boughs were the sole sounds in
 
 its neighbourhood.
 
@@ -112,13 +112,13 @@ This building passed, the fields, hitherto flat, declined in a rapid
 
 descent. Evidently a vale lay below, through which you could hear the
 
-water run. One light glimmered in the depth. For that beacon Malone
+[[Water|water]] run. One light glimmered in the depth. For that beacon Malone
 
 steered.
 
 
 
-He came to a little white house--you could see it was white even through
+He came to a little white [[house]]--you could see it was white even through
 
 this dense darkness--and knocked at the door. A fresh-faced servant
 
@@ -132,7 +132,7 @@ walls and white floor, made the little interior look clean and fresh.
 
 
 
-"Mr. Moore is at home, I suppose?"
+"Mr. Moore is at [[Home|home]], I suppose?"
 
 
 
@@ -144,7 +144,7 @@ walls and white floor, made the little interior look clean and fresh.
 
 
 
-"At the mill--in the counting-house."
+"At the mill--in the counting-[[house]]."
 
 
 
@@ -154,7 +154,7 @@ Here one of the crimson doors opened.
 
 "Are the wagons come, Sarah?" asked a female voice, and a female head at
 
-the same time was apparent. It might not be the head of a
+the same [[Time|time]] was apparent. It might not be the head of a
 
 goddess--indeed a screw of curl-paper on each side the temples quite
 
@@ -202,7 +202,7 @@ politely but a little formally,--
 
 should have thought it necessary to trouble you so far. There was no
 
-necessity--I told him so--and on such a night; but walk forwards."
+necessity--I told him so--and on such a [[Night|night]]; but walk forwards."
 
 
 
@@ -212,15 +212,15 @@ the speaker into a light and bright room within--very light and bright
 
 indeed it seemed to eyes which, for the last hour, had been striving to
 
-penetrate the double darkness of night and fog; but except for its
+penetrate the [[Double|double]] darkness of [[Night|night]] and fog; but except for its
 
-excellent fire, and for a lamp of elegant design and vivid lustre
+excellent [[Fire|fire]], and for a lamp of elegant design and vivid lustre
 
 burning on a table, it was a very plain place. The boarded floor was
 
 carpetless; the three or four stiff-backed, green-painted chairs seemed
 
-once to have furnished the kitchen of some farm-house; a desk of strong,
+once to have furnished the kitchen of some farm-[[house]]; a desk of strong,
 
 solid formation, the table aforesaid, and some framed sheets on the
 

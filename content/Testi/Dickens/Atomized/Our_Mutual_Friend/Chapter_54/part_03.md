@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-The confiding young man besought him to state his case. The innocent
+The confiding young man besought him to state his case. The [[Innocent|innocent]]
 Twemlow, expecting Fledgeby to be astounded by what he should unfold,
 and not for an instant conceiving the possibility of its happening every
 day, but treating of it as a terrible phenomenon occurring in the course
@@ -27,7 +27,7 @@ he had reduced the principal by trifling sums, ‘having,’ said Twemlow,
 ‘always to observe great economy, being in the enjoyment of a fixed
 income limited in extent, and that depending on the munificence of
 a certain nobleman,’ and had always pinched the full interest out of
-himself with punctual pinches. How he had come, in course of time,
+himself with punctual pinches. How he had come, in course of [[Time|time]],
 to look upon this one only debt of his life as a regular quarterly
 drawback, and no worse, when ‘his name’ had some way fallen into the
 possession of Mr Riah, who had sent him notice to redeem it by paying up
@@ -38,7 +38,7 @@ to another office where his life was assured for somebody not wholly
 unconnected with the sherry trade whom he remembered by the remarkable
 circumstance that he had a Straduarius violin to dispose of, and also a
 Madonna, formed the sum and substance of Mr Twemlow’s narrative. Through
-which stalked the shadow of the awful Snigsworth, eyed afar off by
+which stalked the [[Shadow|shadow]] of the awful Snigsworth, eyed afar off by
 money-lenders as Security in the Mist, and menacing Twemlow with his
 baronial truncheon.
 
@@ -54,10 +54,10 @@ determined to call it in, it must come.’
 
 ‘Where?’ asked Twemlow, faintly.
 
-‘To prison,’ returned Fledgeby. Whereat Mr Twemlow leaned his innocent
+‘To [[Prison|prison]],’ returned Fledgeby. Whereat Mr Twemlow leaned his [[Innocent|innocent]]
 head upon his hand, and moaned a little moan of distress and disgrace.
 
-‘However,’ said Fledgeby, appearing to pluck up his spirits, ‘we’ll hope
+‘However,’ said Fledgeby, appearing to pluck up his spirits, ‘we’ll [[Hope|hope]]
 it’s not so bad as that comes to. If you’ll allow me, I’ll mention to Mr
 Riah when he comes in, who you are, and I’ll tell him you’re my friend,
 and I’ll say my say for you, instead of your saying it for yourself; I
@@ -81,7 +81,7 @@ quiet, don’t be hopeful. Here he is!—He looks quiet.’
 
 With these words, which had the effect of causing the harmless Twemlow
 painful agitation, Mr Fledgeby withdrew to his former post, and the old
-man entered the counting-house.
+man entered the counting-[[house]].
 
 ‘Why, Mr Riah,’ said Fledgeby, ‘I thought you were lost!’
 
@@ -102,7 +102,7 @@ Riah.’
 
 ‘Sir, I have,’ replied the old man in a low voice.
 
-‘Oh my eye!’ cried Fledgeby. ‘Tut, tut, tut! Dear, dear, dear! Well! I
+‘Oh my eye!’ cried Fledgeby. ‘Tut, tut, tut! Dear, dear, dear! [[Well]]! I
 knew you were a hard customer, Mr Riah, but I never thought you were as
 hard as that.’
 
@@ -125,15 +125,15 @@ and directed a wistful look at Fledgeby.
 be so devilish meek, for I know what’ll follow if you are. Look here, Mr
 Riah. This gentleman is Mr Twemlow.’
 
-The Jew turned to him and bowed. That poor lamb bowed in return; polite,
+The Jew turned to him and bowed. That poor [[Lamb|lamb]] bowed in return; polite,
 and terrified.
 
 ‘I have made such a failure,’ proceeded Fledgeby, ‘in trying to do
-anything with you for my friend Lammle, that I’ve hardly a hope of doing
+anything with you for my friend Lammle, that I’ve hardly a [[Hope|hope]] of doing
 anything with you for my friend (and connexion indeed) Mr Twemlow. But
 I do think that if you would do a favour for anybody, you would for me,
 and I won’t fail for want of trying, and I’ve passed my promise to Mr
 Twemlow besides. Now, Mr Riah, here is Mr Twemlow. Always good for his
-interest, always coming up to time, always paying his little way. Now,
+interest, always coming up to [[Time|time]], always paying his little way. Now,
 why should you press Mr Twemlow? You can’t have any spite against Mr
 Twemlow! Why not be easy with Mr Twemlow?’

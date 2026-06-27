@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Terrible Troubadour (part 1)"
+title: "[[MrPond]] — The Terrible Troubadour (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -20,7 +20,7 @@ THE TERRIBLE TROUBADOUR
 
 
 
-"In nature you must go very low to find things that go so high."
+"In [[Nature|nature]] you must go very low to find things that go so high."
 
 
 
@@ -194,7 +194,7 @@ rope-ladder and ends with a rope."
 
 Mr. Pond, as he heard the unequal step of his lame friend echoing
 
-away down the paved paths of the garden, relapsed into a gloomy
+away down the paved paths of the [[Garden|garden]], relapsed into a gloomy
 
 mood.  He was quite willing to accept his medical friend merely as
 
@@ -206,13 +206,13 @@ Cyprian was going to tell, it was another story against his
 
 unfortunate friend Peter Gahagan.  And Gahagan was so very
 
-unfortunate as to suggest to some a wild doubt about whether he was
+unfortunate as to suggest to some a wild [[Doubt|doubt]] about whether he was
 
 merely unfortunate.  Some had the sudden and horrible thought that,
 
 perhaps, he was fortunate.  Twice before, he had been mixed up in
 
-matters involving a mysterious and violent death; with, at least, a
+matters involving a mysterious and violent [[Death|death]]; with, at least, a
 
 savour of murder.  In both cases he had been cleared.  But three is
 
@@ -226,7 +226,7 @@ his frankness and fair-mindedness.
 
 
 
-Mr. Pond would never, at any time, have stooped to the stupid idea
+Mr. Pond would never, at any [[Time|time]], have stooped to the stupid idea
 
 that clergymen are stupid.  He did not take his ideas of real life
 
@@ -242,11 +242,11 @@ countryside with him in an indescribable suggestion of depth and
 
 background; he could not talk of common things without, somehow,
 
-suggesting the weather or the turn of night or day; he was a born
+suggesting the weather or the turn of [[Night|night]] or day; he was a born
 
-descriptive writer who only talked.  But nobody could doubt that it
+descriptive writer who only talked.  But nobody could [[Doubt|doubt]] that it
 
-was truth; or, at least, truthfulness.
+was [[Truth|truth]]; or, at least, truthfulness.
 
 
 

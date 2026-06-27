@@ -21,7 +21,7 @@ tags:
     ‘Ran away, a negro man named Henry; his left eye out, some scars from
     a dirk on and under his left arm, and much scarred with the whip.’
 
-    ‘One hundred dollars reward, for a negro fellow, Pompey, 40 years
+    ‘One hundred dollars reward, for a negro fellow, [[Pompey]], 40 years
     old.  He is branded on the left jaw.’
 
     ‘Committed to jail, a negro man.  Has no toes on the left foot.’
@@ -29,7 +29,7 @@ tags:
     ‘Ran away, a negro woman named Rachel.  Has lost all her toes except
     the large one.’
 
-    ‘Ran away, Sam.  He was shot a short time since through the hand, and
+    ‘Ran away, Sam.  He was shot a short [[Time|time]] since through the hand, and
     has several shots in his left arm and side.’
 
     ‘Ran away, my negro man Dennis.  Said negro has been shot in the left
@@ -39,13 +39,13 @@ tags:
     ‘Ran away, my negro man named Simon.  He has been shot badly, in his
     back and right arm.’
 
-    ‘Ran away, a negro named Arthur.  Has a considerable scar across his
+    ‘Ran away, a negro named [[arthur|Arthur]].  Has a considerable scar across his
     breast and each arm, made by a knife; loves to talk much of the
     goodness of God.’
 
     ‘Twenty-five dollars reward for my man Isaac.  He has a scar on his
     forehead, caused by a blow; and one on his back, made by a shot from
-    a pistol.’
+    a [[Pistol|pistol]].’
 
     ‘Ran away, a negro girl called Mary.  Has a small scar over her eye,
     a good many teeth missing, the letter A is branded on her cheek and
@@ -85,7 +85,7 @@ tags:
     of each ear, and the middle finger of the left hand cut off to the
     second joint.’
 
-    ‘Ran away, a negro woman named Maria.  Has a scar on one side of her
+    ‘Ran away, a negro woman named [[Maria]].  Has a scar on one side of her
     cheek, by a cut.  Some scars on her back.’
 
     ‘Ran away, the Mulatto wench Mary.  Has a cut on the left arm, a scar
@@ -94,8 +94,8 @@ tags:
 I should say, perhaps, in explanation of this latter piece of
 description, that among the other blessings which public opinion secures
 to the negroes, is the common practice of violently punching out their
-teeth.  To make them wear iron collars by day and night, and to worry
-them with dogs, are practices almost too ordinary to deserve mention.
+teeth.  To make them wear iron collars by day and [[Night|night]], and to worry
+them with [[dogs]], are practices almost too ordinary to deserve mention.
 
     ‘Ran away, my man Fountain.  Has holes in his ears, a scar on the
     right side of his forehead, has been shot in the hind part of his
@@ -108,7 +108,7 @@ them with dogs, are practices almost too ordinary to deserve mention.
     ‘Brought to jail, John.  Left ear cropt.’
 
     ‘Taken up, a negro man.  Is very much scarred about the face and
-    body, and has the left ear bit off.’
+    [[Body|body]], and has the left ear bit off.’
 
     ‘Ran away, a black girl, named Mary.  Has a scar on her cheek, and
     the end of one of her toes cut off.’
@@ -135,13 +135,13 @@ them with dogs, are practices almost too ordinary to deserve mention.
     the top of each ear.’
 
 While upon the subject of ears, I may observe that a distinguished
-abolitionist in New York once received a negro’s ear, which had been cut
+abolitionist in [[New York]] once received a negro’s ear, which had been cut
 off close to the head, in a general post letter.  It was forwarded by the
 free and independent gentleman who had caused it to be amputated, with a
 polite request that he would place the specimen in his ‘collection.’
 
 I could enlarge this catalogue with broken arms, and broken legs, and
-gashed flesh, and missing teeth, and lacerated backs, and bites of dogs,
+gashed flesh, and missing teeth, and lacerated backs, and bites of [[dogs]],
 and brands of red-hot irons innumerable: but as my readers will be
 sufficiently sickened and repelled already, I will turn to another branch
 of the subject.

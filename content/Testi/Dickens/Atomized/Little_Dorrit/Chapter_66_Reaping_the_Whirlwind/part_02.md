@@ -18,21 +18,21 @@ tags:
 
 ‘Have Rugg.’
 
-‘There is not much to do. He will do it as well as another.’
+‘There is not much to do. He will do it as [[Well|well]] as another.’
 
 ‘Shall I fetch Rugg, Mr Clennam?’
 
-‘If you could spare the time, I should be much obliged to you.’
+‘If you could spare the [[Time|time]], I should be much obliged to you.’
 
-Mr Pancks put on his hat that moment, and steamed away to Pentonville.
-While he was gone Arthur never raised his head from the desk, but
+[[Mr Pancks]] put on his hat that moment, and steamed away to Pentonville.
+While he was gone [[arthur|Arthur]] never raised his head from the desk, but
 remained in that one position.
 
-Mr Pancks brought his friend and professional adviser, Mr Rugg, back
-with him. Mr Rugg had had such ample experience, on the road, of Mr
+[[Mr Pancks]] brought his friend and professional adviser, Mr Rugg, back
+with him. Mr Rugg had had such ample experience, on the [[Road|road]], of Mr
 Pancks’s being at that present in an irrational state of mind, that he
 opened his professional mediation by requesting that gentleman to take
-himself out of the way. Mr Pancks, crushed and submissive, obeyed.
+himself out of the way. [[Mr Pancks]], crushed and submissive, obeyed.
 
 ‘He is not unlike what my daughter was, sir, when we began the Breach of
 Promise action of Rugg and Bawkins, in which she was Plaintiff,’ said
@@ -55,7 +55,7 @@ Clennam, ‘I should have cared far less.’
 ‘You surprise me. That’s singular, sir. I have generally found, in my
 experience, that it’s their own money people are most particular about.
 I have seen people get rid of a good deal of other people’s money, and
-bear it very well: very well indeed.’
+bear it very [[Well|well]]: very [[Well|well]] indeed.’
 
 With these comforting remarks, Mr Rugg seated himself on an office-stool
 at the desk and proceeded to business.
@@ -65,7 +65,7 @@ the state of the case. The question is simple. The question is the
 usual plain, straightforward, common-sense question. What can we do for
 ourself? What can we do for ourself?’
 
-‘This is not the question with me, Mr Rugg,’ said Arthur. ‘You mistake
+‘This is not the question with me, Mr Rugg,’ said [[arthur|Arthur]]. ‘You mistake
 it in the beginning. It is, what can I do for my partner, how can I best
 make reparation to him?’
 
@@ -98,24 +98,24 @@ importance, and that it particularly behoved himself publicly to accept
 the blame of what he had rashly done, and publicly to exonerate his
 partner from all participation in the responsibility of it, lest the
 successful conduct of that enterprise should be endangered by the
-slightest suspicion wrongly attaching to his partner’s honour and credit
+slightest suspicion wrongly attaching to his partner’s [[Honour|honour]] and credit
 in another country. He told Mr Rugg that to clear his partner morally,
 to the fullest extent, and publicly and unreservedly to declare that he,
-Arthur Clennam, of that Firm, had of his own sole act, and even
+[[Arthur Clennam]], of that Firm, had of his own sole act, and even
 expressly against his partner’s caution, embarked its resources in the
 swindles that had lately perished, was the only real atonement within
 his power; was a better atonement to the particular man than it would be
 to many men; and was therefore the atonement he had first to make. With
 this view, his intention was to print a declaration to the foregoing
 effect, which he had already drawn up; and, besides circulating it among
-all who had dealings with the House, to advertise it in the public
+all who had dealings with the [[house|House]], to advertise it in the public
 papers. Concurrently with this measure (the description of which cost Mr
 Rugg innumerable wry faces and great uneasiness in his limbs), he would
 address a letter to all the creditors, exonerating his partner in a
-solemn manner, informing them of the stoppage of the House until their
+solemn manner, informing them of the stoppage of the [[house|House]] until their
 pleasure could be known and his partner communicated with, and humbly
 submitting himself to their direction. If, through their consideration
-for his partner’s innocence, the affairs could ever be got into such
+for his partner’s [[innocence]], the affairs could ever be got into such
 train as that the business could be profitably resumed, and its present
 downfall overcome, then his own share in it should revert to his
 partner, as the only reparation he could make to him in money value for
@@ -129,7 +129,7 @@ required the propitiation of a Protest, that he made one. ‘I offer no
 objection, sir,’ said he, ‘I argue no point with you. I will carry out
 your views, sir; but, under protest.’ Mr Rugg then stated, not without
 prolixity, the heads of his protest. These were, in effect, because the
-whole town, or he might say the whole country, was in the first madness
+whole town, or he might say the whole country, was in the first [[Madness|madness]]
 of the late discovery, and the resentment against the victims would be
 very strong: those who had not been deluded being certain to wax
 exceedingly wroth with them for not having been as wise as they were:
@@ -138,9 +138,9 @@ for themselves, of which they were equally certain to see that other
 sufferers were wholly devoid: not to mention the great probability of
 every individual sufferer persuading himself, to his violent
 indignation, that but for the example of all the other sufferers he
-never would have put himself in the way of suffering. Because such a
-declaration as Clennam’s, made at such a time, would certainly draw down
-upon him a storm of animosity, rendering it impossible to calculate on
+never would have put himself in the way of [[Suffering|suffering]]. Because such a
+declaration as Clennam’s, made at such a [[Time|time]], would certainly draw down
+upon him a [[Storm|storm]] of animosity, rendering it impossible to calculate on
 forbearance in the creditors, or on unanimity among them; and exposing
-him a solitary target to a straggling cross-fire, which might bring him
+him a solitary target to a straggling [[Cross|cross]]-[[Fire|fire]], which might bring him
 down from half-a-dozen quarters at once.

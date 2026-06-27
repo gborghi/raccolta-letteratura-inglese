@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 12 (part 1)"
+title: "[[Jane Eyre]] — Chapter 12 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -21,14 +21,14 @@ The promise of a smooth career, which my first calm introduction to
 Thornfield Hall seemed to pledge, was not belied on a longer
 acquaintance with the place and its inmates. Mrs. Fairfax turned out to
 be what she appeared, a placid-tempered, kind-natured woman, of
-competent education and average intelligence. My pupil was a lively
-child, who had been spoilt and indulged, and therefore was sometimes
+competent [[Education|education]] and average intelligence. My pupil was a lively
+[[Child|child]], who had been spoilt and indulged, and therefore was sometimes
 wayward; but as she was committed entirely to my care, and no
 injudicious interference from any quarter ever thwarted my plans for
 her improvement, she soon forgot her little freaks, and became obedient
 and teachable. She had no great talents, no marked traits of character,
 no peculiar development of feeling or taste which raised her one inch
-above the ordinary level of childhood; but neither had she any
+above the ordinary level of [[Childhood|childhood]]; but neither had she any
 deficiency or vice which sunk her below it. She made reasonable
 progress, entertained for me a vivacious, though perhaps not very
 profound, affection; and by her simplicity, gay prattle, and efforts to
@@ -36,23 +36,23 @@ please, inspired me, in return, with a degree of attachment sufficient
 to make us both content in each other’s society.
 
 This, _par parenthèse_, will be thought cool language by persons who
-entertain solemn doctrines about the angelic nature of children, and
-the duty of those charged with their education to conceive for them an
+entertain solemn doctrines about the angelic [[Nature|nature]] of children, and
+the duty of those charged with their [[Education|education]] to conceive for them an
 idolatrous devotion: but I am not writing to flatter parental egotism,
-to echo cant, or prop up humbug; I am merely telling the truth. I felt
+to echo cant, or prop up humbug; I am merely telling the [[Truth|truth]]. I felt
 a conscientious solicitude for Adèle’s welfare and progress, and a
-quiet liking for her little self: just as I cherished towards Mrs.
+quiet liking for her little [[Self|self]]: just as I cherished towards Mrs.
 Fairfax a thankfulness for her kindness, and a pleasure in her society
 proportionate to the tranquil regard she had for me, and the moderation
 of her mind and character.
 
 Anybody may blame me who likes, when I add further, that, now and then,
 when I took a walk by myself in the grounds; when I went down to the
-gates and looked through them along the road; or when, while Adèle
-played with her nurse, and Mrs. Fairfax made jellies in the storeroom,
+gates and looked through them along the [[Road|road]]; or when, while Adèle
+played with her [[Nurse|nurse]], and Mrs. Fairfax made jellies in the storeroom,
 I climbed the three staircases, raised the trap-door of the attic, and
 having reached the leads, looked out afar over sequestered field and
-hill, and along dim sky-line—that then I longed for a power of vision
+[[Hill|hill]], and along dim sky-line—that then I longed for a power of vision
 which might overpass that limit; which might reach the busy world,
 towns, regions full of life I had heard of but never seen—that then I
 desired more of practical experience than I possessed; more of
@@ -62,17 +62,17 @@ and what was good in Adèle; but I believed in the existence of other
 and more vivid kinds of goodness, and what I believed in I wished to
 behold.
 
-Who blames me? Many, no doubt; and I shall be called discontented. I
-could not help it: the restlessness was in my nature; it agitated me to
-pain sometimes. Then my sole relief was to walk along the corridor of
-the third storey, backwards and forwards, safe in the silence and
-solitude of the spot, and allow my mind’s eye to dwell on whatever
-bright visions rose before it—and, certainly, they were many and
+Who blames me? Many, no [[Doubt|doubt]]; and I shall be called discontented. I
+could not help it: the restlessness was in my [[Nature|nature]]; it agitated me to
+[[Pain|pain]] sometimes. Then my sole relief was to walk along the corridor of
+the third storey, backwards and forwards, safe in the [[Silence|silence]] and
+[[Solitude|solitude]] of the spot, and allow my mind’s eye to dwell on whatever
+bright visions [[Rose|rose]] before it—and, certainly, they were many and
 glowing; to let my heart be heaved by the exultant movement, which,
 while it swelled it in trouble, expanded it with life; and, best of
 all, to open my inward ear to a tale that was never ended—a tale my
-imagination created, and narrated continuously; quickened with all of
-incident, life, fire, feeling, that I desired and had not in my actual
+[[Imagination|imagination]] created, and narrated continuously; quickened with all of
+incident, life, [[Fire|fire]], feeling, that I desired and had not in my actual
 existence.
 
 It is in vain to say human beings ought to be satisfied with
@@ -91,14 +91,14 @@ embroidering bags. It is thoughtless to condemn them, or laugh at them,
 if they seek to do more or learn more than custom has pronounced
 necessary for their sex.
 
-When thus alone, I not unfrequently heard Grace Poole’s laugh: the same
+When thus [[Alone|alone]], I not unfrequently heard Grace Poole’s laugh: the same
 peal, the same low, slow ha! ha! which, when first heard, had thrilled
 me: I heard, too, her eccentric murmurs; stranger than her laugh. There
 were days when she was quite silent; but there were others when I could
 not account for the sounds she made. Sometimes I saw her: she would
 come out of her room with a basin, or a plate, or a tray in her hand,
 go down to the kitchen and shortly return, generally (oh, romantic
-reader, forgive me for telling the plain truth!) bearing a pot of
+reader, forgive me for telling the plain [[Truth|truth]]!) bearing a pot of
 porter. Her appearance always acted as a damper to the curiosity raised
 by her oral oddities: hard-featured and staid, she had no point to
 which interest could attach. I made some attempts to draw her into
@@ -106,7 +106,7 @@ conversation, but she seemed a person of few words: a monosyllabic
 reply usually cut short every effort of that sort.
 
 The other members of the household, viz., John and his wife, Leah the
-housemaid, and Sophie the French nurse, were decent people; but in no
+housemaid, and Sophie the French [[Nurse|nurse]], were decent people; but in no
 respect remarkable; with Sophie I used to talk French, and sometimes I
 asked her questions about her native country; but she was not of a
 descriptive or narrative turn, and generally gave such vapid and
@@ -116,13 +116,13 @@ inquiry.
 October, November, December passed away. One afternoon in January, Mrs.
 Fairfax had begged a holiday for Adèle, because she had a cold; and, as
 Adèle seconded the request with an ardour that reminded me how precious
-occasional holidays had been to me in my own childhood, I accorded it,
-deeming that I did well in showing pliability on the point. It was a
+occasional holidays had been to me in my own [[Childhood|childhood]], I accorded it,
+deeming that I did [[Well|well]] in showing pliability on the point. It was a
 fine, calm day, though very cold; I was tired of sitting still in the
 library through a whole long morning: Mrs. Fairfax had just written a
 letter which was waiting to be posted, so I put on my bonnet and cloak
 and volunteered to carry it to Hay; the distance, two miles, would be a
-pleasant winter afternoon walk. Having seen Adèle comfortably seated in
+pleasant [[Winter|winter]] afternoon walk. Having seen Adèle comfortably seated in
 her little chair by Mrs. Fairfax’s parlour fireside, and given her her
 best wax doll (which I usually kept enveloped in silver paper in a
 drawer) to play with, and a story-book for change of amusement; and

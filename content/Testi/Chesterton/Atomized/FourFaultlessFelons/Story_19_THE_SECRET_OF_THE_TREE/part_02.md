@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE SECRET OF THE TREE (part 2)"
+title: "[[FourFaultlessFelons]] — THE SECRET OF THE TREE (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -20,9 +20,9 @@ have guessed it."
 
 
 
-"What he found," said the doctor, "was the skeleton of a man, stuffed
+"What he found," said the doctor, "was the [[skeleton]] of a man, stuffed
 
-into the hollow of the tree, evidently having been there for a long time,
+into the hollow of the tree, evidently having been there for a long [[Time|time]],
 
 marked by an unmistakable injury to the occiput, done by violence and
 
@@ -66,9 +66,9 @@ little, and seemed to approve of what he studied. Then he said with a
 
 smile: "I suppose you are one of those amateur detectives who read
 
-detective stories, or even write them. Well, I don't deny this is a bit
+[[Detective|detective]] stories, or even write them. [[Well]], I don't deny this is a bit
 
-of a detective story. And there is one question that's always turning up
+of a [[Detective|detective]] story. And there is one question that's always turning up
 
 in books and talk of that sort, and it's rather relevant here. You've
 
@@ -80,13 +80,13 @@ crime?"
 
 He ruminated a little and then went on. "From our point of view, the
 
-great problem in any crime of killing is always what to do with the body.
+great problem in any crime of killing is always what to do with the [[Body|body]].
 
 I expect that fact has saved many a man from being murdered. The fact
 
 that he is more dangerous to his enemy dead than alive. All sorts of
 
-tricks are tried; dismembering and dispersing the body, throwing it into
+tricks are tried; dismembering and dispersing the [[Body|body]], throwing it into
 
 kilns and furnaces, putting it under concrete floors, like Dr. Crippen.
 
@@ -128,11 +128,11 @@ killed, doubtless when his other companion's back was turned, and if he
 
 got away with it, would have skulked back and tried to scratch a shallow
 
-grave in the sandy heath. Or tried to cart away the corpse in a box under
+[[Grave|grave]] in the sandy heath. Or tried to cart away the corpse in a box under
 
 the eyes of all the servants at the inn. That is the difference between
 
-him and a man with imagination-an artist. The artist attempted something
+him and a man with [[Imagination|imagination]]-an [[artist]]. The [[artist]] attempted something
 
 perfectly wild and new, and apparently absurd; but something that has
 
@@ -148,21 +148,21 @@ in those few moments, when the other student had gone on ahead and was
 
 hidden beyond the sprawling tree, he struck Morse a mortal blow with his
 
-left hand and threw his body into the yawning cavern in the tree. It was
+left hand and threw his [[Body|body]] into the yawning cavern in the tree. It was
 
 a solitary spot and naturally nobody actually saw him do the deed. But
 
 long after the medical student had gone on to the hotel and caught a
 
-train to London, another traveller on the moor saw Windrush sitting
+train to [[London]], another traveller on the moor saw Windrush sitting
 
 staring at the tree and the pools, in a dark reverie doubtless full of
 
 his daring scheme. And it is an odd thing that even the passer-by thought
 
-his solitary figure looked as tragic as Cain, and the pools under the red
+his solitary figure looked as tragic as [[Cain]], and the pools under the red
 
-sunset looked like blood.
+sunset looked like [[Blood|blood]].
 
 
 
@@ -176,7 +176,7 @@ animal, without anybody thinking it any sillier than it seemed. You will
 
 notice that his caging grew more strict; when people began to touch or
 
-examine the tree, he locked everybody out of the garden. Except
+examine the tree, he locked everybody out of the [[Garden|garden]]. Except
 
 Harrington-and, apparently, you."
 
@@ -184,13 +184,13 @@ Harrington-and, apparently, you."
 
 "I suppose," said Judson, "that Harrington, or Wilmot, or whatever you
 
-call him, told you that the artist admitted being ambidexterous-doing
+call him, told you that the [[artist]] admitted being ambidexterous-doing
 
-things with his left hand as well as his right."
+things with his left hand as [[Well|well]] as his right."
 
 
 
-"Quite so," replied the Inspector. "Well, Dr. Judson, I have obliged you
+"Quite so," replied the Inspector. "[[Well]], Dr. Judson, I have obliged you
 
 and told you practically all I know at present. If there is anything more
 
@@ -218,7 +218,7 @@ never hang Walter Windrush."
 
 "Because," said the doctor, beaming at him, "Walter Windrush has been in
 
-a lunatic asylum for some little time. He was certified in the regular
+a lunatic asylum for some little [[Time|time]]. He was certified in the regular
 
 old official manner"--he talked of it as of something that happened a
 

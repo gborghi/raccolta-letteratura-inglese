@@ -1,5 +1,5 @@
 ---
-title: "The Pit and the Pendulum (part 5)"
+title: "[[The Pit and the Pendulum]] (part 5)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -26,24 +26,24 @@ tags:
       reach the latter, from the platter beside me, to my mouth, with
       great effort, but no farther. Could I have broken the fastenings
       above the elbow, I would have seized and attempted to arrest the
-      pendulum. I might as well have attempted to arrest an avalanche!
+      pendulum. I might as [[Well|well]] have attempted to arrest an avalanche!
 
       Down—still unceasingly—still inevitably down! I gasped and
       struggled at each vibration. I shrunk convulsively at its every
       sweep. My eyes followed its outward or upward whirls with the
-      eagerness of the most unmeaning despair; they closed themselves
-      spasmodically at the descent, although death would have been a
+      eagerness of the most unmeaning [[Despair|despair]]; they closed themselves
+      spasmodically at the descent, although [[Death|death]] would have been a
       relief, oh, how unspeakable! Still I quivered in every nerve to
       think how slight a sinking of the machinery would precipitate
-      that keen, glistening axe upon my bosom. It was hope that
-      prompted the nerve to quiver—the frame to shrink. It was hope—the
-      hope that triumphs on the rack—that whispers to the
-      death-condemned even in the dungeons of the Inquisition.
+      that keen, glistening axe upon my bosom. It was [[Hope|hope]] that
+      prompted the nerve to quiver—the frame to shrink. It was [[Hope|hope]]—the
+      [[Hope|hope]] that triumphs on the rack—that whispers to the
+      [[Death|death]]-condemned even in the dungeons of the [[Inquisition]].
 
       I saw that some ten or twelve vibrations would bring the steel in
       actual contact with my robe, and with this observation there
       suddenly came over my spirit all the keen, collected calmness of
-      despair. For the first time during many hours—or perhaps days—I
+      [[Despair|despair]]. For the first [[Time|time]] during many hours—or perhaps days—I
       thought. It now occurred to me that the bandage, or surcingle,
       which enveloped me, was unique. I was tied by no separate cord.
       The first stroke of the razorlike crescent athwart any portion of
@@ -54,9 +54,9 @@ tags:
       torturer had not foreseen and provided for this possibility? Was
       it probable that the bandage crossed my bosom in the track of the
       pendulum? Dreading to find my faint, and, as it seemed, my last
-      hope frustrated, I so far elevated my head as to obtain a
+      [[Hope|hope]] frustrated, I so far elevated my head as to obtain a
       distinct view of my breast. The surcingle enveloped my limbs and
-      body close in all directions—save in the path of the destroying
+      [[Body|body]] close in all directions—save in the path of the destroying
       crescent.
 
       Scarcely had I dropped my head back into its original position,
@@ -66,14 +66,14 @@ tags:
       indeterminately through my brain when I raised food to my burning
       lips. The whole thought was now present—feeble, scarcely sane,
       scarcely definite,—but still entire. I proceeded at once, with
-      the nervous energy of despair, to attempt its execution.
+      the nervous energy of [[Despair|despair]], to attempt its execution.
 
       For many hours the immediate vicinity of the low framework upon
       which I lay had been literally swarming with rats. They were
       wild, bold, ravenous—their red eyes glaring upon me as if they
       waited but for motionlessness on my part to make me their prey.
       “To what food,” I thought, “have they been accustomed in the
-      well?”
+      [[Well|well]]?”
 
       They had devoured, in spite of all my efforts to prevent them,
       all but a small remnant of the contents of the dish. I had fallen
@@ -85,13 +85,13 @@ tags:
       the bandage wherever I could reach it; then, raising my hand from
       the floor, I lay breathlessly still.
 
-      At first the ravenous animals were startled and terrified at the
+      At first the ravenous [[Animals|animals]] were startled and terrified at the
       change—at the cessation of movement. They shrank alarmedly back;
-      many sought the well. But this was only for a moment. I had not
+      many sought the [[Well|well]]. But this was only for a moment. I had not
       counted in vain upon their voracity. Observing that I remained
       without motion, one or two of the boldest leaped upon the
       frame-work, and smelt at the surcingle. This seemed the signal
-      for a general rush. Forth from the well they hurried in fresh
+      for a general rush. Forth from the [[Well|well]] they hurried in fresh
       troops. They clung to the wood—they overran it, and leaped in
       hundreds upon my person. The measured movement of the pendulum
       disturbed them not at all. Avoiding its strokes they busied
@@ -107,10 +107,10 @@ tags:
 
       Nor had I erred in my calculations—nor had I endured in vain. I
       at length felt that I was free. The surcingle hung in ribands
-      from my body. But the stroke of the pendulum already pressed upon
+      from my [[Body|body]]. But the stroke of the pendulum already pressed upon
       my bosom. It had divided the serge of the robe. It had cut
       through the linen beneath. Twice again it swung, and a sharp
-      sense of pain shot through every nerve. But the moment of escape
+      sense of [[Pain|pain]] shot through every nerve. But the moment of escape
       had arrived. At a wave of my hand my deliverers hurried
       tumultuously away. With a steady movement—cautious, sidelong,
       shrinking, and slow—I slid from the embrace of the bandage and

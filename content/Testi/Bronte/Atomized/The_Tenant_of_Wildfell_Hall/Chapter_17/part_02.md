@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 17 (part 2)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 17 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -38,15 +38,15 @@ season of torment was past.
 
 
 
-“Helen,” said he (he frequently called me Helen, and I never resented
+“[[Helen]],” said he (he frequently called me [[Helen]], and I never resented
 
-the freedom), “I want you to look at this picture. Mr. Wilmot will
+the [[Freedom|freedom]]), “I want you to look at this picture. Mr. Wilmot will
 
 excuse you a moment, I’m sure.”
 
 
 
-I rose with alacrity. He drew my arm within his, and led me across the
+I [[Rose|rose]] with alacrity. He drew my arm within his, and led me across the
 
 room to a splendid painting of Vandyke’s that I had noticed before, but
 
@@ -78,7 +78,7 @@ it is partly from a feeling of spite to your tormentors that makes me
 
 delighted to do the old fellows a bad turn, though I don’t think I have
 
-any great reason to dread them as rivals. Have I, Helen?”
+any great reason to dread them as rivals. Have I, [[Helen]]?”
 
 
 
@@ -94,7 +94,7 @@ any great reason to dread them as rivals. Have I, Helen?”
 
 
 
-“But what are your sentiments towards me? Helen—Speak! How do you
+“But what are your sentiments towards me? [[Helen]]—Speak! How do you
 
 regard me?”
 
@@ -120,7 +120,7 @@ said,—
 
 
 
-“Helen, I want you a moment,” said the distinct, low voice of my aunt,
+“[[Helen]], I want you a moment,” said the distinct, low voice of my aunt,
 
 close beside us. And I left him, muttering maledictions against his
 
@@ -128,9 +128,9 @@ evil angel.
 
 
 
-“Well, aunt, what is it? What do you want?” said I, following her to
+“[[Well]], aunt, what is it? What do you want?” said I, following her to
 
-the embrasure of the window.
+the embrasure of the [[Window|window]].
 
 
 
@@ -154,11 +154,11 @@ kindled by a complication of emotions, of which indignant, swelling
 
 anger was the chief. I offered no reply, however, but pushed aside the
 
-curtain and looked into the night—or rather into the lamp-lit square.
+curtain and looked into the [[Night|night]]—or rather into the lamp-lit square.
 
 
 
-“Was Mr. Huntingdon proposing to you, Helen?” inquired my too watchful
+“Was Mr. Huntingdon proposing to you, [[Helen]]?” inquired my too watchful
 
 relative.
 
@@ -176,7 +176,7 @@ relative.
 
 
 
-“And would you have accepted him, Helen, if he had proposed?”
+“And would you have accepted him, [[Helen]], if he had proposed?”
 
 
 
@@ -184,7 +184,7 @@ relative.
 
 
 
-“Oh! I’m glad, my dear, you have so much prudence left. Well, now,” she
+“Oh! I’m glad, my dear, you have so much prudence left. [[Well]], now,” she
 
 added, after a moment’s pause, “you have made yourself conspicuous
 
@@ -202,13 +202,13 @@ when you are sufficiently composed to appear as usual.”
 
 “Speak gently then, and don’t look so malicious,” said my calm, but
 
-provoking aunt. “We shall return home shortly, and then,” she added
+provoking aunt. “We shall return [[Home|home]] shortly, and then,” she added
 
 with solemn significance, “I have much to say to you.”
 
 
 
-So I went home prepared for a formidable lecture. Little was said by
+So I went [[Home|home]] prepared for a formidable lecture. Little was said by
 
 either party in the carriage during our short transit homewards; but
 
@@ -224,7 +224,7 @@ angles with mine, sat down. With due deference I offered her my more
 
 commodious seat. She declined it, and thus opened the conference: “Do
 
-you remember, Helen, our conversation the night but one before we left
+you remember, [[Helen]], our conversation the [[Night|night]] but one before we left
 
 Staningley?”
 
@@ -254,9 +254,9 @@ for uneasiness on your account; for you should never be _tempted_ to
 
 marry a man who was deficient in sense or principle, however handsome
 
-or charming in other respects he might be, for you could not love him;
+or charming in other respects he might be, for you could not [[Love|love]] him;
 
-you should hate—despise—pity—anything but love him—were not those your
+you should hate—despise—pity—anything but [[Love|love]] him—were not those your
 
 words?”
 
@@ -268,13 +268,13 @@ words?”
 
 “And did you not say that your affection _must_ be founded on
 
-approbation; and that, unless you could approve and honour and respect,
+approbation; and that, unless you could approve and [[Honour|honour]] and respect,
 
-you could not love?”
+you could not [[Love|love]]?”
 
 
 
-“Yes; but I do approve, and honour, and respect—”
+“Yes; but I do approve, and [[Honour|honour]], and respect—”
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 1)"
+title: "[[David Copperfield]] — Chapter 38: A DISSOLUTION OF PARTNERSHIP (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -29,7 +29,7 @@ something else, entirely different; the wonderful vagaries that were
 played by circles; the unaccountable consequences that resulted from
 marks like flies’ legs; the tremendous effects of a curve in a wrong
 place; not only troubled my waking hours, but reappeared before me in
-my sleep. When I had groped my way, blindly, through these difficulties,
+my [[Sleep|sleep]]. When I had groped my way, blindly, through these difficulties,
 and had mastered the alphabet, which was an Egyptian Temple in itself,
 there then appeared a procession of new horrors, called arbitrary
 characters; the most despotic characters I have ever known; who
@@ -53,12 +53,12 @@ This would not do, it was quite clear. I was flying too high, and should
 never get on, so. I resorted to Traddles for advice; who suggested
 that he should dictate speeches to me, at a pace, and with occasional
 stoppages, adapted to my weakness. Very grateful for this friendly aid,
-I accepted the proposal; and night after night, almost every night, for
-a long time, we had a sort of Private Parliament in Buckingham Street,
-after I came home from the Doctor’s.
+I accepted the proposal; and [[Night|night]] after [[Night|night]], almost every [[Night|night]], for
+a long [[Time|time]], we had a sort of Private Parliament in [[Buckingham]] Street,
+after I came [[Home|home]] from the Doctor’s.
 
 I should like to see such a Parliament anywhere else! My aunt and Mr.
-Dick represented the Government or the Opposition (as the case might
+Dick represented the [[government|Government]] or the Opposition (as the case might
 be), and Traddles, with the assistance of Enfield’s Speakers, or a
 volume of parliamentary orations, thundered astonishing invectives
 against them. Standing by the table, with his finger in the page to keep
@@ -82,12 +82,12 @@ his mind sometimes. I believe he actually began to be afraid he really
 had been doing something, tending to the annihilation of the British
 constitution, and the ruin of the country.
 
-Often and often we pursued these debates until the clock pointed to
+Often and often we pursued these debates until the [[Clock|clock]] pointed to
 midnight, and the candles were burning down. The result of so much good
 practice was, that by and by I began to keep pace with Traddles pretty
-well, and should have been quite triumphant if I had had the least idea
+[[Well|well]], and should have been quite triumphant if I had had the least idea
 what my notes were about. But, as to reading them after I had got them,
-I might as well have copied the Chinese inscriptions of an immense
+I might as [[Well|well]] have copied the Chinese inscriptions of an immense
 collection of tea-chests, or the golden characters on all the great red
 and green bottles in the chemists’ shops!
 
@@ -98,8 +98,8 @@ snail’s pace; stopping to examine minutely every speck in the way, on
 all sides, and making the most desperate efforts to know these elusive
 characters by sight wherever I met them. I was always punctual at
 the office; at the Doctor’s too: and I really did work, as the common
-expression is, like a cart-horse. One day, when I went to the Commons as
-usual, I found Mr. Spenlow in the doorway looking extremely grave, and
+expression is, like a cart-[[Horse|horse]]. One day, when I went to the Commons as
+usual, I found Mr. Spenlow in the doorway looking extremely [[Grave|grave]], and
 talking to himself. As he was in the habit of complaining of pains in
 his head--he had naturally a short throat, and I do seriously believe
 he over-starched himself--I was at first alarmed by the idea that he was
@@ -107,7 +107,7 @@ not quite right in that direction; but he soon relieved my uneasiness.
 
 Instead of returning my ‘Good morning’ with his usual affability, he
 looked at me in a distant, ceremonious manner, and coldly requested me
-to accompany him to a certain coffee-house, which, in those days, had
+to accompany him to a certain coffee-[[house]], which, in those days, had
 a door opening into the Commons, just within the little archway in St.
 Paul’s Churchyard. I complied, in a very uncomfortable state, and with a
 warm shooting all over me, as if my apprehensions were breaking out into

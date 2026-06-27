@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 13"
+title: "[[Sense and Sensibility]] — Chapter 13"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -30,15 +30,15 @@ not go at all.
 
 
 
-By ten o’clock the whole party was assembled at the park, where they
+By ten o’[[Clock|clock]] the whole party was assembled at the park, where they
 
 were to breakfast. The morning was rather favourable, though it had
 
-rained all night, as the clouds were then dispersing across the sky,
+rained all [[Night|night]], as the clouds were then dispersing across the sky,
 
 and the sun frequently appeared. They were all in high spirits and good
 
-humour, eager to be happy, and determined to submit to the greatest
+[[Humour|humour]], eager to be happy, and determined to submit to the greatest
 
 inconveniences and hardships rather than be otherwise.
 
@@ -46,7 +46,7 @@ inconveniences and hardships rather than be otherwise.
 
 While they were at breakfast the letters were brought in. Among the
 
-rest there was one for Colonel Brandon;—he took it, looked at the
+rest there was one for [[Colonel Brandon]];—he took it, looked at the
 
 direction, changed colour, and immediately left the room.
 
@@ -60,9 +60,9 @@ Nobody could tell.
 
 
 
-“I hope he has had no bad news,” said Lady Middleton. “It must be
+“I [[Hope|hope]] he has had no bad news,” said Lady Middleton. “It must be
 
-something extraordinary that could make Colonel Brandon leave my
+something extraordinary that could make [[Colonel Brandon]] leave my
 
 breakfast table so suddenly.”
 
@@ -72,7 +72,7 @@ In about five minutes he returned.
 
 
 
-“No bad news, Colonel, I hope;” said Mrs. Jennings, as soon as he
+“No bad news, Colonel, I [[Hope|hope]];” said Mrs. Jennings, as soon as he
 
 entered the room.
 
@@ -82,7 +82,7 @@ entered the room.
 
 
 
-“Was it from Avignon? I hope it is not to say that your sister is
+“Was it from Avignon? I [[Hope|hope]] it is not to say that your sister is
 
 worse.”
 
@@ -96,7 +96,7 @@ worse.”
 
 letter of business? Come, come, this won’t do, Colonel; so let us hear
 
-the truth of it.”
+the [[Truth|truth]] of it.”
 
 
 
@@ -114,7 +114,7 @@ Mrs. Jennings, without attending to her daughter’s reproof.
 
 
 
-“Well, then, I know who it is from, Colonel. And I hope she is well.”
+“[[Well]], then, I know who it is from, Colonel. And I [[Hope|hope]] she is [[Well|well]].”
 
 
 
@@ -136,13 +136,13 @@ requires my immediate attendance in town.”
 
 “In town!” cried Mrs. Jennings. “What can you have to do in town at
 
-this time of year?”
+this [[Time|time]] of year?”
 
 
 
 “My own loss is great,” he continued, “in being obliged to leave so
 
-agreeable a party; but I am the more concerned, as I fear my presence
+agreeable a party; but I am the more concerned, as I [[Fear|fear]] my presence
 
 is necessary to gain your admittance at Whitwell.”
 
@@ -170,7 +170,7 @@ near it. You cannot go to town till tomorrow, Brandon, that is all.”
 
 “I wish it could be so easily settled. But it is not in my power to
 
-delay my journey for one day!”
+delay my [[Journey|journey]] for one day!”
 
 
 
@@ -182,7 +182,7 @@ Jennings, “we might see whether it could be put off or not.”
 
 “You would not be six hours later,” said Willoughby, “if you were to
 
-defer your journey till our return.”
+defer your [[Journey|journey]] till our return.”
 
 
 
@@ -202,7 +202,7 @@ of his own writing.”
 
 
 
-“I have no doubt of it,” replied Marianne.
+“I have no [[Doubt|doubt]] of it,” replied Marianne.
 
 
 
@@ -210,29 +210,29 @@ of his own writing.”
 
 old,” said Sir John, “when once you are determined on anything. But,
 
-however, I hope you will think better of it. Consider, here are the two
+however, I [[Hope|hope]] you will think better of it. Consider, here are the two
 
 Miss Careys come over from Newton, the three Miss Dashwoods walked up
 
 from the cottage, and Mr. Willoughby got up two hours before his usual
 
-time, on purpose to go to Whitwell.”
+[[Time|time]], on purpose to go to Whitwell.”
 
 
 
-Colonel Brandon again repeated his sorrow at being the cause of
+[[Colonel Brandon]] again repeated his sorrow at being the cause of
 
-disappointing the party; but at the same time declared it to be
+disappointing the party; but at the same [[Time|time]] declared it to be
 
 unavoidable.
 
 
 
-“Well, then, when will you come back again?”
+“[[Well]], then, when will you come back again?”
 
 
 
-“I hope we shall see you at Barton,” added her ladyship, “as soon as
+“I [[Hope|hope]] we shall see you at Barton,” added her ladyship, “as soon as
 
 you can conveniently leave town; and we must put off the party to
 
@@ -264,7 +264,7 @@ something he is ashamed of.”
 
 
 
-Colonel Brandon’s horses were announced.
+[[Colonel Brandon]]’s horses were announced.
 
 
 
@@ -276,7 +276,7 @@ Colonel Brandon’s horses were announced.
 
 
 
-“Well, as you are resolved to go, I wish you a good journey. But you
+“[[Well]], as you are resolved to go, I wish you a good [[Journey|journey]]. But you
 
 had better change your mind.”
 
@@ -292,7 +292,7 @@ He then took leave of the whole party.
 
 “Is there no chance of my seeing you and your sisters in town this
 
-winter, Miss Dashwood?”
+[[Winter|winter]], Miss Dashwood?”
 
 
 
@@ -300,7 +300,7 @@ winter, Miss Dashwood?”
 
 
 
-“Then I must bid you farewell for a longer time than I should wish to
+“Then I must bid you farewell for a longer [[Time|time]] than I should wish to
 
 do.”
 
@@ -334,7 +334,7 @@ exultingly.
 
 
 
-“Can you, ma’am?” said almost every body.
+“Can you, ma’am?” said almost every [[Body|body]].
 
 
 
@@ -350,7 +350,7 @@ exultingly.
 
 heard of her before. She is a relation of the Colonel’s, my dear; a
 
-very near relation. We will not say how near, for fear of shocking the
+very near relation. We will not say how near, for [[Fear|fear]] of shocking the
 
 young ladies.” Then, lowering her voice a little, she said to Elinor,
 
@@ -396,9 +396,9 @@ the downs.
 
 
 
-It was settled that there should be a dance in the evening, and that
+It was settled that there should be a [[Dance|dance]] in the evening, and that
 
-every body should be extremely merry all day long. Some more of the
+every [[Body|body]] should be extremely merry all day long. Some more of the
 
 Careys came to dinner, and they had the pleasure of sitting down nearly
 
@@ -426,13 +426,13 @@ curricle?”
 
 
 
-“Yes, yes, Mr. Impudence, I know that very well, and I was determined
+“Yes, yes, Mr. Impudence, I know that very [[Well|well]], and I was determined
 
-to find out _where_ you had been to. I hope you like your house, Miss
+to find out _where_ you had been to. I [[Hope|hope]] you like your [[house]], Miss
 
 Marianne. It is a very large one, I know; and when I come to see you, I
 
-hope you will have new-furnished it, for it wanted it very much when I
+[[Hope|hope]] you will have new-furnished it, for it wanted it very much when I
 
 was there six years ago.”
 
@@ -446,17 +446,17 @@ had been, she had actually made her own woman enquire of Mr.
 
 Willoughby’s groom; and that she had by that method been informed that
 
-they had gone to Allenham, and spent a considerable time there in
+they had gone to Allenham, and spent a considerable [[Time|time]] there in
 
-walking about the garden and going all over the house.
+walking about the [[Garden|garden]] and going all over the [[house]].
 
 
 
 Elinor could hardly believe this to be true, as it seemed very unlikely
 
-that Willoughby should propose, or Marianne consent, to enter the house
+that Willoughby should propose, or Marianne consent, to enter the [[house]]
 
-while Mrs. Smith was in it, with whom Marianne had not the smallest
+while Mrs. [[smith|Smith]] was in it, with whom Marianne had not the smallest
 
 acquaintance.
 
@@ -474,13 +474,13 @@ with her for doubting it.
 
 “Why should you imagine, Elinor, that we did not go there, or that we
 
-did not see the house? Is not it what you have often wished to do
+did not see the [[house]]? Is not it what you have often wished to do
 
 yourself?”
 
 
 
-“Yes, Marianne, but I would not go while Mrs. Smith was there, and with
+“Yes, Marianne, but I would not go while Mrs. [[smith|Smith]] was there, and with
 
 no other companion than Mr. Willoughby.”
 
@@ -488,7 +488,7 @@ no other companion than Mr. Willoughby.”
 
 “Mr. Willoughby however is the only person who can have a right to show
 
-that house; and as he went in an open carriage, it was impossible to
+that [[house]]; and as he went in an open carriage, it was impossible to
 
 have any other companion. I never spent a pleasanter morning in my
 
@@ -506,7 +506,7 @@ does not always evince its propriety.”
 
 there had been any real impropriety in what I did, I should have been
 
-sensible of it at the time, for we always know when we are acting
+sensible of it at the [[Time|time]], for we always know when we are acting
 
 wrong, and with such a conviction I could have had no pleasure.”
 
@@ -514,7 +514,7 @@ wrong, and with such a conviction I could have had no pleasure.”
 
 “But, my dear Marianne, as it has already exposed you to some very
 
-impertinent remarks, do you not now begin to doubt the discretion of
+impertinent remarks, do you not now begin to [[Doubt|doubt]] the discretion of
 
 your own conduct?”
 
@@ -528,7 +528,7 @@ I value not her censure any more than I should do her commendation. I
 
 am not sensible of having done anything wrong in walking over Mrs.
 
-Smith’s grounds, or in seeing her house. They will one day be Mr.
+[[smith|Smith]]’s grounds, or in seeing her [[house]]. They will one day be Mr.
 
 Willoughby’s, and—”
 
@@ -544,11 +544,11 @@ She blushed at this hint; but it was even visibly gratifying to her;
 
 and after a ten minutes’ interval of earnest thought, she came to her
 
-sister again, and said with great good humour, “Perhaps, Elinor, it
+sister again, and said with great good [[Humour|humour]], “Perhaps, Elinor, it
 
 _was_ rather ill-judged in me to go to Allenham; but Mr. Willoughby
 
-wanted particularly to show me the place; and it is a charming house, I
+wanted particularly to show me the place; and it is a charming [[house]], I
 
 assure you.—There is one remarkably pretty sitting room up stairs; of a
 
@@ -556,7 +556,7 @@ nice comfortable size for constant use, and with modern furniture it
 
 would be delightful. It is a corner room, and has windows on two sides.
 
-On one side you look across the bowling-green, behind the house, to a
+On one side you look across the bowling-green, behind the [[house]], to a
 
 beautiful hanging wood, and on the other you have a view of the church
 
@@ -568,10 +568,10 @@ forlorn than the furniture,—but if it were newly fitted up—a couple of
 
 hundred pounds, Willoughby says, would make it one of the pleasantest
 
-summer-rooms in England.”
+[[Summer|summer]]-rooms in England.”
 
 
 
 Could Elinor have listened to her without interruption from the others,
 
-she would have described every room in the house with equal delight.
+she would have described every room in the [[house]] with equal delight.

@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 59: RETURN (part 2)"
+title: "[[David Copperfield]] — Chapter 59: RETURN (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -22,7 +22,7 @@ where the Honourable Society of Gray’s Inn had left a plank deficient,
 I fell down with some noise, and when I recovered my footing all was
 silent.
 
-Groping my way more carefully, for the rest of the journey, my heart
+Groping my way more carefully, for the rest of the [[Journey|journey]], my heart
 beat high when I found the outer door, which had Mr. TRADDLES painted on
 it, open. I knocked. A considerable scuffling within ensued, but nothing
 else. I therefore knocked again.
@@ -46,16 +46,16 @@ seated at a table, and bending over papers.
 ‘Good God!’ cried Traddles, looking up. ‘It’s Copperfield!’ and rushed
 into my arms, where I held him tight.
 
-‘All well, my dear Traddles?’
+‘All [[Well|well]], my dear Traddles?’
 
-‘All well, my dear, dear Copperfield, and nothing but good news!’
+‘All [[Well|well]], my dear, dear Copperfield, and nothing but good news!’
 
 We cried with pleasure, both of us.
 
 ‘My dear fellow,’ said Traddles, rumpling his hair in his excitement,
 which was a most unnecessary operation, ‘my dearest Copperfield, my
 long-lost and most welcome friend, how glad I am to see you! How
-brown you are! How glad I am! Upon my life and honour, I never was so
+brown you are! How glad I am! Upon my life and [[Honour|honour]], I never was so
 rejoiced, my beloved Copperfield, never!’
 
 I was equally at a loss to express my emotions. I was quite unable to
@@ -66,15 +66,15 @@ Copperfield! Good gracious me, WHEN did you come, WHERE have you come
 from, WHAT have you been doing?’
 
 Never pausing for an answer to anything he said, Traddles, who had
-clapped me into an easy-chair by the fire, all this time impetuously
-stirred the fire with one hand, and pulled at my neck-kerchief with
+clapped me into an easy-chair by the [[Fire|fire]], all this [[Time|time]] impetuously
+stirred the [[Fire|fire]] with one hand, and pulled at my neck-kerchief with
 the other, under some wild delusion that it was a great-coat. Without
 putting down the poker, he now hugged me again; and I hugged him; and,
 both laughing, and both wiping our eyes, we both sat down, and shook
 hands across the hearth.
 
 ‘To think,’ said Traddles, ‘that you should have been so nearly coming
-home as you must have been, my dear old boy, and not at the ceremony!’
+[[Home|home]] as you must have been, my dear old boy, and not at the ceremony!’
 
 ‘What ceremony, my dear Traddles?’
 
@@ -89,7 +89,7 @@ with both hands, and then putting his hands on my knees, ‘I am married!’
 ‘Married!’ I cried joyfully.
 
 ‘Lord bless me, yes!’ said Traddles--‘by the Reverend Horace--to
-Sophy--down in Devonshire. Why, my dear boy, she’s behind the window
+Sophy--down in Devonshire. Why, my dear boy, she’s behind the [[Window|window]]
 curtain! Look here!’
 
 To my amazement, the dearest girl in the world came at that same
@@ -99,8 +99,8 @@ more cheerful, amiable, honest, happy, bright-looking bride, I believe
 her as an old acquaintance should, and wished them joy with all my might
 of heart.
 
-‘Dear me,’ said Traddles, ‘what a delightful re-union this is! You are
-so extremely brown, my dear Copperfield! God bless my soul, how happy I
+‘Dear me,’ said Traddles, ‘what a delightful re-[[Union|union]] this is! You are
+so extremely brown, my dear Copperfield! God bless my [[Soul|soul]], how happy I
 am!’
 
 ‘And so am I,’ said I.
@@ -113,16 +113,16 @@ happy. Dear me, I declare I forgot them!’
 ‘Forgot?’ said I.
 
 ‘The girls,’ said Traddles. ‘Sophy’s sisters. They are staying with us.
-They have come to have a peep at London. The fact is, when--was it you
+They have come to have a peep at [[London]]. The fact is, when--was it you
 that tumbled upstairs, Copperfield?’
 
 ‘It was,’ said I, laughing.
 
-‘Well then, when you tumbled upstairs,’ said Traddles, ‘I was romping
+‘[[Well]] then, when you tumbled upstairs,’ said Traddles, ‘I was romping
 with the girls. In point of fact, we were playing at Puss in the Corner.
 But as that wouldn’t do in Westminster Hall, and as it wouldn’t look
 quite professional if they were seen by a client, they decamped. And
-they are now--listening, I have no doubt,’ said Traddles, glancing at
+they are now--listening, I have no [[Doubt|doubt]],’ said Traddles, glancing at
 the door of another room.
 
 ‘I am sorry,’ said I, laughing afresh, ‘to have occasioned such a
@@ -131,7 +131,7 @@ dispersion.’
 ‘Upon my word,’ rejoined Traddles, greatly delighted, ‘if you had seen
 them running away, and running back again, after you had knocked, to
 pick up the combs they had dropped out of their hair, and going on in
-the maddest manner, you wouldn’t have said so. My love, will you fetch
+the maddest manner, you wouldn’t have said so. My [[Love|love]], will you fetch
 the girls?’
 
 Sophy tripped away, and we heard her received in the adjoining room with
@@ -139,7 +139,7 @@ a peal of laughter.
 
 ‘Really musical, isn’t it, my dear Copperfield?’ said Traddles. ‘It’s
 very agreeable to hear. It quite lights up these old rooms. To an
-unfortunate bachelor of a fellow who has lived alone all his life, you
+unfortunate bachelor of a fellow who has lived [[Alone|alone]] all his life, you
 know, it’s positively delicious. It’s charming. Poor things, they have
 had a great loss in Sophy--who, I do assure you, Copperfield is, and
 ever was, the dearest girl!--and it gratifies me beyond expression
@@ -148,12 +148,12 @@ delightful thing, Copperfield. It’s not professional, but it’s very
 delightful.’
 
 Observing that he slightly faltered, and comprehending that in the
-goodness of his heart he was fearful of giving me some pain by what he
+goodness of his heart he was fearful of giving me some [[Pain|pain]] by what he
 had said, I expressed my concurrence with a heartiness that evidently
 relieved and pleased him greatly.
 
 ‘But then,’ said Traddles, ‘our domestic arrangements are, to say
-the truth, quite unprofessional altogether, my dear Copperfield. Even
+the [[Truth|truth]], quite unprofessional altogether, my dear Copperfield. Even
 Sophy’s being here, is unprofessional. And we have no other place of
 abode. We have put to sea in a cockboat, but we are quite prepared to
 rough it. And Sophy’s an extraordinary manager! You’ll be surprised how

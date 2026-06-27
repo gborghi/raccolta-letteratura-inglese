@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF (part 3)"
+title: "The [[Pickwick]] Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-It was the old lady’s habit on the fine summer mornings to repair to the
+It was the old lady’s habit on the fine [[Summer|summer]] mornings to repair to the
 arbour in which Mr. Tupman had already signalised himself, in form and
 manner following: first, the fat boy fetched from a peg behind the old
 lady’s bedroom door, a close black satin bonnet, a warm cotton shawl,
@@ -22,8 +22,8 @@ and a thick stick with a capacious handle; and the old lady, having put
 on the bonnet and shawl at her leisure, would lean one hand on the stick
 and the other on the fat boy’s shoulder, and walk leisurely to the
 arbour, where the fat boy would leave her to enjoy the fresh air for the
-space of half an hour; at the expiration of which time he would return
-and reconduct her to the house.
+space of half an hour; at the expiration of which [[Time|time]] he would return
+and reconduct her to the [[house]].
 
 The old lady was very precise and very particular; and as this ceremony
 had been observed for three successive summers without the slightest
@@ -44,7 +44,7 @@ it seemed to her, a threatening tone--
 
 ‘Missus!’
 
-Now it so happened that Mr. Jingle was walking in the garden close to
+Now it so happened that Mr. Jingle was walking in the [[Garden|garden]] close to
 the arbour at that moment. He too heard the shouts of ‘Missus,’ and
 stopped to hear more. There were three reasons for his doing so. In the
 first place, he was idle and curious; secondly, he was by no means
@@ -53,7 +53,7 @@ flowering shrubs. So there he stood, and there he listened.
 
 ‘Missus!’ shouted the fat boy.
 
-‘Well, Joe,’ said the trembling old lady. ‘I’m sure I have been a good
+‘[[Well]], Joe,’ said the trembling old lady. ‘I’m sure I have been a good
 mistress to you, Joe. You have invariably been treated very kindly. You
 have never had too much to do; and you have always had enough to eat.’
 
@@ -62,7 +62,7 @@ seemed touched, as he replied emphatically--
 
 ‘I knows I has.’
 
-‘Then what can you want to do now?’ said the old lady, gaining courage.
+‘Then what can you want to do now?’ said the old lady, gaining [[Courage|courage]].
 
 ‘I wants to make your flesh creep,’ replied the boy.
 
@@ -70,7 +70,7 @@ This sounded like a very bloodthirsty mode of showing one’s gratitude;
 and as the old lady did not precisely understand the process by which
 such a result was to be attained, all her former horrors returned.
 
-‘What do you think I see in this very arbour last night?’ inquired the
+‘What do you think I see in this very arbour last [[Night|night]]?’ inquired the
 boy.
 
 ‘Bless us! What?’ exclaimed the old lady, alarmed at the solemn manner
@@ -79,7 +79,7 @@ of the corpulent youth.
 ‘The strange gentleman--him as had his arm hurt--a-kissin’ and huggin’--
 ‘
 
-‘Who, Joe? None of the servants, I hope.’
+‘Who, Joe? None of the servants, I [[Hope|hope]].’
 
 Worser than that,’ roared the fat boy, in the old lady’s ear.
 
@@ -113,16 +113,16 @@ fat boy’s features as he said--
 If Mr. Jingle, from his place of concealment, could have beheld the
 expression which the old lady’s face assumed at this communication, the
 probability is that a sudden burst of laughter would have betrayed his
-close vicinity to the summer-house. He listened attentively. Fragments
-of angry sentences such as, ‘Without my permission!’--‘At her time of
+close vicinity to the [[Summer|summer]]-[[house]]. He listened attentively. Fragments
+of angry sentences such as, ‘Without my permission!’--‘At her [[Time|time]] of
 life’--‘Miserable old ‘ooman like me’--‘Might have waited till I was
 dead,’ and so forth, reached his ears; and then he heard the heels of
 the fat boy’s boots crunching the gravel, as he retired and left the old
-lady alone.
+lady [[Alone|alone]].
 
 It was a remarkable coincidence perhaps, but it was nevertheless a fact,
 that Mr. Jingle within five minutes of his arrival at Manor Farm on the
-preceding night, had inwardly resolved to lay siege to the heart of the
+preceding [[Night|night]], had inwardly resolved to lay siege to the heart of the
 spinster aunt, without delay. He had observation enough to see, that his
 off-hand manner was by no means disagreeable to the fair object of his
 attack; and he had more than a strong suspicion that she possessed that
@@ -130,19 +130,19 @@ most desirable of all requisites, a small independence. The imperative
 necessity of ousting his rival by some means or other, flashed quickly
 upon him, and he immediately resolved to adopt certain proceedings
 tending to that end and object, without a moment’s delay. Fielding tells
-us that man is fire, and woman tow, and the Prince of Darkness sets a
+us that man is [[Fire|fire]], and woman tow, and the Prince of Darkness sets a
 light to ‘em. Mr. Jingle knew that young men, to spinster aunts, are as
-lighted gas to gunpowder, and he determined to essay the effect of an
-explosion without loss of time.
+lighted gas to gunpowder, and he determined to [[Essay|essay]] the effect of an
+explosion without loss of [[Time|time]].
 
 Full of reflections upon this important decision, he crept from his
 place of concealment, and, under cover of the shrubs before mentioned,
-approached the house. Fortune seemed determined to favour his design.
-Mr. Tupman and the rest of the gentlemen left the garden by the side
+approached the [[house]]. Fortune seemed determined to favour his design.
+Mr. Tupman and the rest of the gentlemen left the [[Garden|garden]] by the side
 gate just as he obtained a view of it; and the young ladies, he knew,
-had walked out alone, soon after breakfast. The coast was clear.
+had walked out [[Alone|alone]], soon after breakfast. The coast was clear.
 
 The breakfast-parlour door was partially open. He peeped in. The
 spinster aunt was knitting. He coughed; she looked up and smiled.
-Hesitation formed no part of Mr. Alfred Jingle’s character. He laid his
+Hesitation formed no part of Mr. [[Alfred Jingle]]’s character. He laid his
 finger on his lips mysteriously, walked in, and closed the door.

@@ -15,13 +15,13 @@ tags:
 
 
 ‘There!  Go along with you,’ said the Alderman, ‘and repent.  Don’t make
-such a fool of yourself as to get married on New Year’s Day.  You’ll
+such a [[Fool|fool]] of yourself as to get married on New Year’s Day.  You’ll
 think very differently of it, long before next New Year’s Day: a trim
 young fellow like you, with all the girls looking after you.  There!  Go
 along with you!’
 
 They went along.  Not arm in arm, or hand in hand, or interchanging
-bright glances; but, she in tears; he, gloomy and down-looking.  Were
+bright glances; but, she in [[Tears|tears]]; he, gloomy and down-looking.  Were
 these the hearts that had so lately made old Toby’s leap up from its
 faintness?  No, no.  The Alderman (a blessing on his head!) had Put
 _them_ Down.
@@ -47,10 +47,10 @@ The Alderman cut him short by giving him the letter from his pocket.
 Toby would have got a shilling too; but Mr. Filer clearly showing that in
 that case he would rob a certain given number of persons of
 ninepence-halfpenny a-piece, he only got sixpence; and thought himself
-very well off to get that.
+very [[Well|well]] off to get that.
 
 Then the Alderman gave an arm to each of his friends, and walked off in
-high feather; but, he immediately came hurrying back alone, as if he had
+high feather; but, he immediately came hurrying back [[Alone|alone]], as if he had
 forgotten something.
 
 ‘Porter!’ said the Alderman.
@@ -62,7 +62,7 @@ forgotten something.
 ‘Even her good looks are stolen from somebody or other, I suppose,’
 thought Toby, looking at the sixpence in his hand, and thinking of the
 tripe.  ‘She’s been and robbed five hundred ladies of a bloom a-piece, I
-shouldn’t wonder.  It’s very dreadful!’
+shouldn’t [[Wonder|wonder]].  It’s very dreadful!’
 
 ‘She’s much too handsome, my man,’ repeated the Alderman.  ‘The chances
 are, that she’ll come to no good, I clearly see.  Observe what I say.
@@ -78,12 +78,12 @@ and sounding—but with no encouragement.  No, not a drop.
 word of all that fancy in it.  Why should there be?  I have no business
 with the New Year nor with the old one neither.  Let me die!’
 
-Still the Bells, pealing forth their changes, made the very air spin.
+Still [[The Bells|the Bells]], pealing forth their changes, made the very air spin.
 Put ’em down, Put ’em down!  Good old Times, Good old Times!  Facts and
 Figures, Facts and Figures!  Put ’em down, Put ’em down!  If they said
 anything they said this, until the brain of Toby reeled.
 
 He pressed his bewildered head between his hands, as if to keep it from
-splitting asunder.  A well-timed action, as it happened; for finding the
+splitting asunder.  A [[Well|well]]-timed action, as it happened; for finding the
 letter in one of them, and being by that means reminded of his charge, he
 fell, mechanically, into his usual trot, and trotted off.

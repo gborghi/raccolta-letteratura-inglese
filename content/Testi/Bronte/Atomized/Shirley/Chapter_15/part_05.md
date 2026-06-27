@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 15 (part 5)"
+title: "[[Shirley]] — Chapter 15 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -32,13 +32,13 @@ please."
 
 
 
-"Well," said Shirley nonchalantly, "what is it? I listen. All of me is
+"[[Well]]," said [[Shirley]] nonchalantly, "what is it? I listen. All of me is
 
 ear that is not eye."
 
 
 
-"I hope part of you is hand also," returned Donne, in his vulgarly
+"I [[Hope|hope]] part of you is hand also," returned Donne, in his vulgarly
 
 presumptuous and familiar style, "and part purse. It is to the hand and
 
@@ -54,7 +54,7 @@ of you----"
 
 "To beg of you a subscription to a school. I and Dr. Boultby intend to
 
-erect one in the hamlet of Ecclefigg, which is under our vicarage of
+erect one in the [[Hamlet|hamlet]] of Ecclefigg, which is under our vicarage of
 
 Whinbury. The Baptists have got possession of it. They have a chapel
 
@@ -70,7 +70,7 @@ there, and we want to dispute the ground."
 
 
 
-"Admirable creature!" muttered Shirley, under her breath. "Exquisite
+"Admirable creature!" muttered [[Shirley]], under her breath. "Exquisite
 
 address! Fine style! What raptures he excites in me!" Then aloud, "I am
 
@@ -96,13 +96,13 @@ Ecclefigg are a parcel of brutes; we want to civilize them."
 
 
 
-"I hope not--I expect success; but we must have money. There is the
+"I [[Hope|hope]] not--I expect [[success]]; but we must have money. There is the
 
 paper. Pray give a handsome sum."
 
 
 
-When asked for money, Shirley rarely held back. She put down her name
+When asked for money, [[Shirley]] rarely held back. She put down her name
 
 for £5. After the £300 she had lately given, and the many smaller sums
 
@@ -138,7 +138,7 @@ ashamed to give five pounds for a public object."
 
 
 
-Shirley, so rarely haughty, looked so now. Her slight frame became
+[[Shirley]], so rarely haughty, looked so now. Her slight frame became
 
 nerved; her distinguished face quickened with scorn.
 
@@ -182,7 +182,7 @@ the south."
 
 
 
-Shirley leaned forwards on the table, her nostrils dilating a little,
+[[Shirley]] leaned forwards on the table, her nostrils dilating a little,
 
 her taper fingers interlaced and compressing each other hard.
 
@@ -204,7 +204,7 @@ propa carriage or a reg'la butla is kep; and as to the poor--just look
 
 at them when they come crowding about the church doors on the occasion
 
-of a marriage or a funeral, clattering in clogs; the men in their
+of a [[Marriage|marriage]] or a funeral, clattering in clogs; the men in their
 
 shirt-sleeves and wool-combers' aprons, the women in mob-caps and
 
@@ -214,19 +214,19 @@ amongst them to rout their rabble-ranks. He-he! what fun it would be!"
 
 
 
-"There! you have reached the climax," said Shirley quietly. "You have
+"There! you have reached the climax," said [[Shirley]] quietly. "You have
 
 reached the climax," she repeated, turning her glowing glance towards
 
 him. "You cannot go beyond it, and," she added with emphasis, "you
 
-_shall_ not, in my house."
+_shall_ not, in my [[house]]."
 
 
 
-Up she rose--nobody could control her now, for she was
+Up she [[Rose|rose]]--nobody could control her now, for she was
 
-exasperated--straight she walked to her garden gates, wide she flung
+exasperated--straight she walked to her [[Garden|garden]] gates, wide she flung
 
 them open.
 
@@ -238,7 +238,7 @@ this pavement no more."
 
 
 
-Donne was astounded. He had thought all the time he was showing himself
+Donne was astounded. He had thought all the [[Time|time]] he was showing himself
 
 off to high advantage, as a lofty-souled person of the first "ton;" he
 
@@ -248,13 +248,13 @@ disdain of everything in Yorkshire? What more conclusive proof could be
 
 given that he was better than anything there? And yet here was he about
 
-to be turned like a dog out of a Yorkshire garden! Where, under such
+to be turned like a dog out of a Yorkshire [[Garden|garden]]! Where, under such
 
 circumstances, was the "concatenation accordingly"?
 
 
 
-"Rid me of you instantly--instantly!" reiterated Shirley, as he
+"Rid me of you instantly--instantly!" reiterated [[Shirley]], as he
 
 lingered.
 

@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 8 (part 4)"
+title: "[[Martin Chuzzlewit]] — Chapter 8 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-M. Todgers’s Commercial Boarding-House was a house of that sort which is
-likely to be dark at any time; but that morning it was especially dark.
+M. Todgers’s Commercial Boarding-[[house|House]] was a [[house]] of that sort which is
+likely to be dark at any [[Time|time]]; but that morning it was especially dark.
 There was an odd smell in the passage, as if the concentrated essence of
-all the dinners that had been cooked in the kitchen since the house was
+all the dinners that had been cooked in the kitchen since the [[house]] was
 built, lingered at the top of the kitchen stairs to that hour, and like
 the Black Friar in Don Juan, ‘wouldn’t be driven away.’ In particular,
 there was a sensation of cabbage; as if all the greens that had ever
@@ -26,11 +26,11 @@ The parlour was wainscoted, and communicated to strangers a magnetic
 and instinctive consciousness of rats and mice. The staircase was very
 gloomy and very broad, with balustrades so thick and heavy that they
 would have served for a bridge. In a sombre corner on the first landing,
-stood a gruff old giant of a clock, with a preposterous coronet of three
+stood a gruff old giant of a [[Clock|clock]], with a preposterous coronet of three
 brass balls on his head; whom few had ever seen--none ever looked in the
 face--and who seemed to continue his heavy tick for no other reason than
 to warn heedless people from running into him accidentally. It had not
-been papered or painted, hadn’t Todgers’s, within the memory of man. It
+been papered or painted, hadn’t Todgers’s, within the [[Memory|memory]] of man. It
 was very black, begrimed, and mouldy. And, at the top of the staircase,
 was an old, disjointed, rickety, ill-favoured skylight, patched
 and mended in all kinds of ways, which looked distrustfully down at
@@ -39,7 +39,7 @@ sort of human cucumber-frame, and only people of a peculiar growth were
 reared there.
 
 Mr Pecksniff and his fair daughters had not stood warming themselves at
-the fire ten minutes, when the sound of feet was heard upon the stairs,
+the [[Fire|fire]] ten minutes, when the sound of feet was heard upon the stairs,
 and the presiding deity of the establishment came hurrying in.
 
 M. Todgers was a lady, rather a bony and hard-featured lady, with a row
@@ -51,11 +51,11 @@ other hand she bore a flaming tallow candle, which, after surveying Mr
 Pecksniff for one instant by its light, she put down upon the table, to
 the end that she might receive him with the greater cordiality.
 
-‘Mr Pecksniff!’ cried Mrs Todgers. ‘Welcome to London! Who would have
+‘Mr Pecksniff!’ cried Mrs Todgers. ‘Welcome to [[London]]! Who would have
 thought of such a visit as this, after so--dear, dear!--so many years!
 How do you DO, Mr Pecksniff?’
 
-‘As well as ever; and as glad to see you, as ever;’ Mr Pecksniff made
+‘As [[Well|well]] as ever; and as glad to see you, as ever;’ Mr Pecksniff made
 response. ‘Why, you are younger than you used to be!’
 
 ‘YOU are, I am sure!’ said Mrs Todgers. ‘You’re not a bit changed.’
@@ -73,14 +73,14 @@ daughters, Mrs Todgers. Merely my daughters.’
 I think I should have known ‘em anywhere. My dear Miss Pecksniffs, how
 happy your Pa has made me!’
 
-She hugged them both; and being by this time overpowered by her feelings
+She hugged them both; and being by this [[Time|time]] overpowered by her feelings
 or the inclemency of the morning, jerked a little pocket handkerchief
 out of the little basket, and applied the same to her face.
 
 ‘Now, my good madam,’ said Mr Pecksniff, ‘I know the rules of your
 establishment, and that you only receive gentlemen boarders. But
-it occurred to me, when I left home, that perhaps you would give my
-daughters house room, and make an exception in their favour.’
+it occurred to me, when I left [[Home|home]], that perhaps you would give my
+daughters [[house]] room, and make an exception in their favour.’
 
 ‘Perhaps?’ cried Mrs Todgers ecstatically. ‘Perhaps?’
 
@@ -91,9 +91,9 @@ comfortable there, without appearing at the general table.’
 ‘Dear girls!’ said Mrs Todgers. ‘I must take that liberty once more.’
 
 Mrs Todgers meant by this that she must embrace them once more, which
-she accordingly did with great ardour. But the truth was that the house
+she accordingly did with great ardour. But the [[Truth|truth]] was that the [[house]]
 being full with the exception of one bed, which would now be occupied
-by Mr Pecksniff, she wanted time for consideration; and so much time too
+by Mr Pecksniff, she wanted [[Time|time]] for consideration; and so much [[Time|time]] too
 (for it was a knotty point how to dispose of them), that even when
 this second embrace was over, she stood for some moments gazing at the
 sisters, with affection beaming in one eye, and calculation shining out
@@ -111,7 +111,7 @@ directly, and the ladies were fatigued with travelling, would they step
 into her room at once?
 
 It was on the same floor; being, in fact, the back parlour; and had,
-as Mrs Todgers said, the great advantage (in London) of not being
+as Mrs Todgers said, the great advantage (in [[London]]) of not being
 overlooked; as they would see when the fog cleared off. Nor was this
 a vainglorious boast, for it commanded at a perspective of two feet,
 a brown wall with a black cistern on the top. The sleeping apartment
@@ -121,7 +121,7 @@ against by a strong person. It commanded from a similar point of sight
 another angle of the wall, and another side of the cistern. ‘Not the
 damp side,’ said Mrs Todgers. ‘THAT is Mr Jinkins’s.’
 
-In the first of these sanctuaries a fire was speedily kindled by the
+In the first of these sanctuaries a [[Fire|fire]] was speedily kindled by the
 youthful porter, who, whistling at his work in the absence of Mrs
 Todgers (not to mention his sketching figures on his corduroys with
 burnt firewood), and being afterwards taken by that lady in the fact,
@@ -131,15 +131,15 @@ room; where the joke at Mr Jinkins’s expense seemed to be proceeding
 rather noisily.
 
 ‘I won’t ask you yet, my dears,’ said Mr Pecksniff, looking in at the
-door, ‘how you like London. Shall I?’
+door, ‘how you like [[London]]. Shall I?’
 
 ‘We haven’t seen much of it, Pa!’ cried Merry.
 
-‘Nothing, I hope,’ said Cherry. (Both very miserably.)
+‘Nothing, I [[Hope|hope]],’ said Cherry. (Both very miserably.)
 
 ‘Indeed,’ said Mr Pecksniff, ‘that’s true. We have our pleasure, and our
-business too, before us. All in good time. All in good time!’
+business too, before us. All in good [[Time|time]]. All in good [[Time|time]]!’
 
-Whether Mr Pecksniff’s business in London was as strictly professional
+Whether Mr Pecksniff’s business in [[London]] was as strictly professional
 as he had given his new pupil to understand, we shall see, to adopt that
-worthy man’s phraseology, ‘all in good time.’
+worthy man’s phraseology, ‘all in good [[Time|time]].’

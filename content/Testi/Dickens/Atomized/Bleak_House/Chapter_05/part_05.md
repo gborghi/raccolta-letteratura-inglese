@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 5 (part 5)"
+title: "Bleak [[house|House]] — Chapter 5 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -24,12 +24,12 @@ sound of her footsteps might reveal to him what she had said.
 
 Passing through the shop on our way out, as we had passed through it
 on our way in, we found the old man storing a quantity of packets of
-waste-paper in a kind of well in the floor. He seemed to be working
+waste-paper in a kind of [[Well|well]] in the floor. He seemed to be working
 hard, with the perspiration standing on his forehead, and had a piece
-of chalk by him, with which, as he put each separate package or
+of [[chalk]] by him, with which, as he put each separate package or
 bundle down, he made a crooked mark on the panelling of the wall.
 
-Richard and Ada, and Miss Jellyby, and the little old lady had gone
+[[Richard]] and Ada, and Miss Jellyby, and the little old lady had gone
 by him, and I was going when he touched me on the arm to stay me, and
 chalked the letter J upon the wall—in a very curious manner,
 beginning with the end of the letter and shaping it backward. It was
@@ -45,7 +45,7 @@ clerk in Messrs. Kenge and Carboy’s office would have made.
 “J.”
 
 With another glance at me, and a glance at the door, he rubbed it out
-and turned an “a” in its place (not a capital letter this time), and
+and turned an “a” in its place (not a capital letter this [[Time|time]]), and
 said, “What’s that?”
 
 I told him. He then rubbed that out and turned the letter “r,” and
@@ -58,20 +58,20 @@ wall together.
 
 When I told him, he laughed. In the same odd way, yet with the same
 rapidity, he then produced singly, and rubbed out singly, the letters
-forming the words Bleak House. These, in some astonishment, I also
+forming the words Bleak [[house|House]]. These, in some astonishment, I also
 read; and he laughed again.
 
-“Hi!” said the old man, laying aside the chalk. “I have a turn for
-copying from memory, you see, miss, though I can neither read nor
+“Hi!” said the old man, laying aside the [[chalk]]. “I have a turn for
+copying from [[Memory|memory]], you see, miss, though I can neither read nor
 write.”
 
 He looked so disagreeable and his cat looked so wickedly at me, as if
-I were a blood-relation of the birds upstairs, that I was quite
-relieved by Richard’s appearing at the door and saying, “Miss
-Summerson, I hope you are not bargaining for the sale of your hair.
+I were a [[Blood|blood]]-relation of the [[Birds|birds]] upstairs, that I was quite
+relieved by [[Richard]]’s appearing at the door and saying, “Miss
+Summerson, I [[Hope|hope]] you are not bargaining for the sale of your hair.
 Don’t be tempted. Three sacks below are quite enough for Mr. Krook!”
 
-I lost no time in wishing Mr. Krook good morning and joining my
+I lost no [[Time|time]] in wishing Mr. Krook good morning and joining my
 friends outside, where we parted with the little old lady, who gave
 us her blessing with great ceremony and renewed her assurance of
 yesterday in reference to her intention of settling estates on Ada
@@ -80,33 +80,33 @@ and saw Mr. Krook standing at his shop-door, in his spectacles,
 looking after us, with his cat upon his shoulder, and her tail
 sticking up on one side of his hairy cap like a tall feather.
 
-“Quite an adventure for a morning in London!” said Richard with a
+“Quite an adventure for a morning in [[London]]!” said [[Richard]] with a
 sigh. “Ah, cousin, cousin, it’s a weary word this Chancery!”
 
 “It is to me, and has been ever since I can remember,” returned Ada.
 “I am grieved that I should be the enemy—as I suppose I am—of a
 great number of relations and others, and that they should be my
 enemies—as I suppose they are—and that we should all be ruining one
-another without knowing how or why and be in constant doubt and
+another without knowing how or why and be in constant [[Doubt|doubt]] and
 discord all our lives. It seems very strange, as there must be right
 somewhere, that an honest judge in real earnest has not been able to
 find out through all these years where it is.”
 
-“Ah, cousin!” said Richard. “Strange, indeed! All this wasteful,
-wanton chess-playing IS very strange. To see that composed court
+“Ah, cousin!” said [[Richard]]. “Strange, indeed! All this wasteful,
+wanton chess-playing IS very strange. To see that composed [[Court|court]]
 yesterday jogging on so serenely and to think of the wretchedness of
 the pieces on the board gave me the headache and the heartache both
 together. My head ached with wondering how it happened, if men were
 neither fools nor rascals; and my heart ached to think they could
 possibly be either. But at all events, Ada—I may call you Ada?”
 
-“Of course you may, cousin Richard.”
+“Of course you may, cousin [[Richard]].”
 
 “At all events, Chancery will work none of its bad influences on US.
 We have happily been brought together, thanks to our good kinsman,
 and it can’t divide us now!”
 
-“Never, I hope, cousin Richard!” said Ada gently.
+“Never, I [[Hope|hope]], cousin [[Richard]]!” said Ada gently.
 
 Miss Jellyby gave my arm a squeeze and me a very significant look. I
 smiled in return, and we made the rest of the way back very
@@ -114,7 +114,7 @@ pleasantly.
 
 In half an hour after our arrival, Mrs. Jellyby appeared; and in the
 course of an hour the various things necessary for breakfast
-straggled one by one into the dining-room. I do not doubt that Mrs.
+straggled one by one into the dining-room. I do not [[Doubt|doubt]] that Mrs.
 Jellyby had gone to bed and got up in the usual manner, but she
 presented no appearance of having changed her dress. She was greatly
 occupied during breakfast, for the morning’s post brought a heavy
@@ -122,17 +122,17 @@ correspondence relative to Borrioboola-Gha, which would occasion her
 (she said) to pass a busy day. The children tumbled about, and
 notched memoranda of their accidents in their legs, which were
 perfect little calendars of distress; and Peepy was lost for an hour
-and a half, and brought home from Newgate market by a policeman. The
+and a half, and brought [[Home|home]] from Newgate market by a policeman. The
 equable manner in which Mrs. Jellyby sustained both his absence and
 his restoration to the family circle surprised us all.
 
-She was by that time perseveringly dictating to Caddy, and Caddy was
+She was by that [[Time|time]] perseveringly dictating to Caddy, and Caddy was
 fast relapsing into the inky condition in which we had found her. At
-one o’clock an open carriage arrived for us, and a cart for our
+one o’[[Clock|clock]] an open carriage arrived for us, and a cart for our
 luggage. Mrs. Jellyby charged us with many remembrances to her good
 friend Mr. Jarndyce; Caddy left her desk to see us depart, kissed me
 in the passage, and stood biting her pen and sobbing on the steps;
-Peepy, I am happy to say, was asleep and spared the pain of
+Peepy, I am happy to say, was asleep and spared the [[Pain|pain]] of
 separation (I was not without misgivings that he had gone to Newgate
 market in search of me); and all the other children got up behind the
 barouche and fell off, and we saw them, with great concern, scattered

@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 15)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 15)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -22,7 +22,7 @@ tags:
 
 
 
-      “It was fully eleven by the time I had completed these
+      “It was fully eleven by the [[Time|time]] I had completed these
 
       arrangements, and I immediately betook myself to bed, with full
 
@@ -38,7 +38,7 @@ tags:
 
       my slumber caused me even less discomfort than I had anticipated;
 
-      and when I finally arose for the day, it was seven o’clock, and
+      and when I finally arose for the day, it was seven o’[[Clock|clock]], and
 
       the sun had attained many degrees above the line of my horizon.
 
@@ -68,7 +68,7 @@ tags:
 
       accurate a survey as I could wish. Much, however, might be
 
-      ascertained. Nothing else of an extraordinary nature occurred
+      ascertained. Nothing else of an extraordinary [[Nature|nature]] occurred
 
       during the day. My apparatus all continued in good order, and the
 
@@ -80,7 +80,7 @@ tags:
 
       bed, although it was for many hours afterward broad daylight all
 
-      around my immediate situation. The water-clock was punctual in
+      around my immediate situation. The [[Water|water]]-[[Clock|clock]] was punctual in
 
       its duty, and I slept until next morning soundly, with the
 
@@ -118,7 +118,7 @@ tags:
 
       while nearly the whole visible surface of the earth continued to
 
-      be involved in darkness. In time, however, the light spread
+      be involved in darkness. In [[Time|time]], however, the light spread
 
       itself over all, and I again saw the line of ice to the
 
@@ -144,11 +144,11 @@ tags:
 
       that if the balloon held its present course, it would soon arrive
 
-      above the Frozen Ocean, and I had now little doubt of ultimately
+      above the Frozen Ocean, and I had now little [[Doubt|doubt]] of ultimately
 
       seeing the Pole. During the whole of the day I continued to near
 
-      the ice. Toward night the limits of my horizon very suddenly and
+      the ice. Toward [[Night|night]] the limits of my horizon very suddenly and
 
       materially increased, owing undoubtedly to the earth’s form being
 
@@ -168,7 +168,7 @@ tags:
 
       what there could be no hesitation in supposing the northern Pole
 
-      itself. It was there, beyond a doubt, and immediately beneath my
+      itself. It was there, beyond a [[Doubt|doubt]], and immediately beneath my
 
       feet; but, alas! I had now ascended to so vast a distance, that
 
@@ -180,9 +180,9 @@ tags:
 
       second of April, and twenty minutes before nine A.M. of the same
 
-      day (at which time the barometer ran down), it might be fairly
+      day (at which [[Time|time]] the barometer ran down), it might be fairly
 
-      inferred that the balloon had now, at four o’clock in the morning
+      inferred that the balloon had now, at four o’[[Clock|clock]] in the morning
 
       of April the seventh, reached a height of not less, certainly,
 
@@ -190,7 +190,7 @@ tags:
 
       appear immense, but the estimate upon which it is calculated gave
 
-      a result in all probability far inferior to the truth. At all
+      a result in all probability far inferior to the [[Truth|truth]]. At all
 
       events I undoubtedly beheld the whole of the earth’s major
 

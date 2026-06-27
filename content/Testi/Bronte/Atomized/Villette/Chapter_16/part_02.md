@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 16 (part 2)"
+title: "[[Villette]] — Chapter 16 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -14,37 +14,37 @@ tags:
 </nav>
 
 
-I thought of Bedreddin Hassan, transported in his sleep from Cairo to
+I thought of Bedreddin Hassan, transported in his [[Sleep|sleep]] from Cairo to
 the gates of Damascus. Had a Genius stooped his dark wing down the
-storm to whose stress I had succumbed, and gathering me from the
+[[Storm|storm]] to whose stress I had succumbed, and gathering me from the
 church-steps, and “rising high into the air,” as the eastern tale said,
 had he borne me over land and ocean, and laid me quietly down beside a
-hearth of Old England? But no; I knew the fire of that hearth burned
+hearth of Old England? But no; I knew the [[Fire|fire]] of that hearth burned
 before its Lares no more—it went out long ago, and the household gods
 had been carried elsewhere.
 
 The bonne turned again to survey me, and seeing my eyes wide open, and,
 I suppose, deeming their expression perturbed and excited, she put down
 her knitting. I saw her busied for a moment at a little stand; she
-poured out water, and measured drops from a phial: glass in hand, she
+poured out [[Water|water]], and measured drops from a phial: glass in hand, she
 approached me. What dark-tinged draught might she now be offering? what
 Genii-elixir or Magi-distillation?
 
 It was too late to inquire—I had swallowed it passively, and at once. A
 tide of quiet thought now came gently caressing my brain; softer and
-softer rose the flow, with tepid undulations smoother than balm. The
-pain of weakness left my limbs, my muscles slept. I lost power to move;
-but, losing at the same time wish, it was no privation. That kind bonne
+softer [[Rose|rose]] the flow, with tepid undulations smoother than balm. The
+[[Pain|pain]] of weakness left my limbs, my muscles slept. I lost power to move;
+but, losing at the same [[Time|time]] wish, it was no privation. That kind bonne
 placed a screen between me and the lamp; I saw her rise to do this, but
 do not remember seeing her resume her place: in the interval between
-the two acts, I “fell on sleep.”
+the two acts, I “fell on [[Sleep|sleep]].”
 
 At waking, lo! all was again changed. The light of high day surrounded
-me; not, indeed, a warm, summer light, but the leaden gloom of raw and
-blustering autumn. I felt sure now that I was in the pensionnat—sure by
-the beating rain on the casement; sure by the “wuther” of wind amongst
-trees, denoting a garden outside; sure by the chill, the whiteness, the
-solitude, amidst which I lay. I say _whiteness_—for the dimity
+me; not, indeed, a warm, [[Summer|summer]] light, but the leaden gloom of raw and
+blustering [[Autumn|autumn]]. I felt sure now that I was in the pensionnat—sure by
+the beating rain on the casement; sure by the “wuther” of [[Wind|wind]] amongst
+trees, denoting a [[Garden|garden]] outside; sure by the chill, the whiteness, the
+[[Solitude|solitude]], amidst which I lay. I say _whiteness_—for the dimity
 curtains, dropped before a French bed, bounded my view.
 
 I lifted them; I looked out. My eye, prepared to take in the range of a
@@ -63,7 +63,7 @@ sufficiently furnished the tiny chamber.
 Reader; I felt alarmed! Why? you will ask. What was there in this
 simple and somewhat pretty sleeping-closet to startle the most timid?
 Merely this—These articles of furniture could not be real, solid
-arm-chairs, looking-glasses, and washstands—they must be the ghosts of
+arm-chairs, looking-glasses, and washstands—they must be the [[Ghosts|ghosts]] of
 such articles; or, if this were denied as too wild an hypothesis—and,
 confounded as I was, I _did_ deny it—there remained but to conclude
 that I had myself passed into an abnormal state of mind; in short, that
@@ -75,10 +75,10 @@ little snug chair itself, the carved, shining-black, foliated frame of
 that glass; the smooth, milky-green of the china vessels on the stand;
 the very stand too, with its top of grey marble, splintered at one
 corner;—all these I was compelled to recognise and to hail, as last
-night I had, perforce, recognised and hailed the rosewood, the drapery,
+[[Night|night]] I had, perforce, recognised and hailed the rosewood, the drapery,
 the porcelain, of the drawing-room.
 
-Bretton! Bretton! and ten years ago shone reflected in that mirror. And
+Bretton! Bretton! and ten years ago shone reflected in that [[Mirror|mirror]]. And
 why did Bretton and my fourteenth year haunt me thus? Why, if they came
 at all, did they not return complete? Why hovered before my distempered
 vision the mere furniture, while the rooms and the locality were gone?
@@ -95,26 +95,26 @@ the blind with which the lattice was shrouded, I looked out to try and
 discover _where_ I was; half-prepared to meet the calm, old, handsome
 buildings and clean grey pavement of St. Ann’s Street, and to see at
 the end the towers of the minster: or, if otherwise, fully expectant of
-a town view somewhere, a rue in Villette, if not a street in a pleasant
-and ancient English city.
+a town view somewhere, a rue in [[Villette]], if not a street in a pleasant
+and ancient English [[City|city]].
 
 I looked, on the contrary, through a frame of leafage, clustering round
 the high lattice, and forth thence to a grassy mead-like level, a
 lawn-terrace with trees rising from the lower ground beyond—high
 forest-trees, such as I had not seen for many a day. They were now
 groaning under the gale of October, and between their trunks I traced
-the line of an avenue, where yellow leaves lay in heaps and drifts, or
-were whirled singly before the sweeping west wind. Whatever landscape
+the line of an avenue, where yellow [[Leaves|leaves]] lay in heaps and drifts, or
+were whirled singly before the sweeping west [[Wind|wind]]. Whatever landscape
 might lie further must have been flat, and these tall beeches shut it
 out. The place seemed secluded, and was to me quite strange: I did not
 know it at all.
 
 Once more I lay down. My bed stood in a little alcove; on turning my
 face to the wall, the room with its bewildering accompaniments became
-excluded. Excluded? No! For as I arranged my position in this hope,
+excluded. Excluded? No! For as I arranged my position in this [[Hope|hope]],
 behold, on the green space between the divided and looped-up curtains,
 hung a broad, gilded picture-frame enclosing a portrait. It was
-drawn—well drawn, though but a sketch—in water-colours; a head, a boy’s
+drawn—[[Well|well]] drawn, though but a [[Sketch|sketch]]—in [[Water|water]]-colours; a head, a boy’s
 head, fresh, life-like, speaking, and animated. It seemed a youth of
 sixteen, fair-complexioned, with sanguine health in his cheek; hair
 long, not dark, and with a sunny sheen; penetrating eyes, an arch
@@ -122,7 +122,7 @@ mouth, and a gay smile. On the whole a most pleasant face to look at,
 especially for those claiming a right to that youth’s
 affections—parents, for instance, or sisters. Any romantic little
 school-girl might almost have loved it in its frame. Those eyes looked
-as if when somewhat older they would flash a lightning-response to
-love: I cannot tell whether they kept in store the steady-beaming shine
-of faith. For whatever sentiment met him in form too facile, his lips
+as if when somewhat older they would flash a [[Lightning|lightning]]-response to
+[[Love|love]]: I cannot tell whether they kept in store the steady-beaming shine
+of [[Faith|faith]]. For whatever sentiment met him in form too facile, his lips
 menaced, beautifully but surely, caprice and light esteem.

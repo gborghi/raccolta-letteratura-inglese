@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 5 (part 2)"
+title: "[[Great Expectations]] — Chapter 5 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 At last, Joe’s job was done, and the ringing and roaring stopped. As
-Joe got on his coat, he mustered courage to propose that some of us
+Joe got on his coat, he mustered [[Courage|courage]] to propose that some of us
 should go down with the soldiers and see what came of the hunt. Mr.
 Pumblechook and Mr. Hubble declined, on the plea of a pipe and ladies’
 society; but Mr. Wopsle said he would go, if Joe would. Joe said he was
@@ -26,13 +26,13 @@ you bring the boy back with his head blown to bits by a musket, don’t
 look to me to put it together again.”
 
 The sergeant took a polite leave of the ladies, and parted from Mr.
-Pumblechook as from a comrade; though I doubt if he were quite as fully
+Pumblechook as from a comrade; though I [[Doubt|doubt]] if he were quite as fully
 sensible of that gentleman’s merits under arid conditions, as when
 something moist was going. His men resumed their muskets and fell in.
 Mr. Wopsle, Joe, and I, received strict charge to keep in the rear, and
 to speak no word after we reached the marshes. When we were all out in
 the raw air and were steadily moving towards our business, I
-treasonably whispered to Joe, “I hope, Joe, we shan’t find them.” and
+treasonably whispered to Joe, “I [[Hope|hope]], Joe, we shan’t find them.” and
 Joe whispered to me, “I’d give a shilling if they had cut and run,
 Pip.”
 
@@ -46,11 +46,11 @@ hand, while two or three of his men dispersed themselves among the
 graves, and also examined the porch. They came in again without finding
 anything, and then we struck out on the open marshes, through the gate
 at the side of the churchyard. A bitter sleet came rattling against us
-here on the east wind, and Joe took me on his back.
+here on the east [[Wind|wind]], and Joe took me on his back.
 
 Now that we were out upon the dismal wilderness where they little
 thought I had been within eight or nine hours and had seen both men
-hiding, I considered for the first time, with great dread, if we should
+hiding, I considered for the first [[Time|time]], with great dread, if we should
 come upon them, would my particular convict suppose that it was I who
 had brought the soldiers there? He had asked me if I was a deceiving
 imp, and he had said I should be a fierce young hound if I joined the
@@ -63,26 +63,26 @@ hunter, and stimulating Mr. Wopsle not to tumble on his Roman nose, and
 to keep up with us. The soldiers were in front of us, extending into a
 pretty wide line with an interval between man and man. We were taking
 the course I had begun with, and from which I had diverged in the mist.
-Either the mist was not out again yet, or the wind had dispelled it.
+Either the mist was not out again yet, or the [[Wind|wind]] had dispelled it.
 Under the low red glare of sunset, the beacon, and the gibbet, and the
-mound of the Battery, and the opposite shore of the river, were plain,
+mound of the Battery, and the opposite shore of the [[River|river]], were plain,
 though all of a watery lead colour.
 
 With my heart thumping like a blacksmith at Joe’s broad shoulder, I
 looked all about for any sign of the convicts. I could see none, I
 could hear none. Mr. Wopsle had greatly alarmed me more than once, by
-his blowing and hard breathing; but I knew the sounds by this time, and
+his blowing and hard breathing; but I knew the sounds by this [[Time|time]], and
 could dissociate them from the object of pursuit. I got a dreadful
 start, when I thought I heard the file still going; but it was only a
 sheep-bell. The sheep stopped in their eating and looked timidly at us;
-and the cattle, their heads turned from the wind and sleet, stared
+and the cattle, their heads turned from the [[Wind|wind]] and sleet, stared
 angrily as if they held us responsible for both annoyances; but, except
 these things, and the shudder of the dying day in every blade of grass,
 there was no break in the bleak stillness of the marshes.
 
 The soldiers were moving on in the direction of the old Battery, and we
 were moving on a little way behind them, when, all of a sudden, we all
-stopped. For there had reached us on the wings of the wind and rain, a
+stopped. For there had reached us on the wings of the [[Wind|wind]] and rain, a
 long shout. It was repeated. It was at a distance towards the east, but
 it was long and loud. Nay, there seemed to be two or more shouts raised
 together,—if one might judge from a confusion in the sound.
@@ -92,12 +92,12 @@ their breath, when Joe and I came up. After another moment’s listening,
 Joe (who was a good judge) agreed, and Mr. Wopsle (who was a bad judge)
 agreed. The sergeant, a decisive man, ordered that the sound should not
 be answered, but that the course should be changed, and that his men
-should make towards it “at the double.” So we slanted to the right
+should make towards it “at the [[Double|double]].” So we slanted to the right
 (where the East was), and Joe pounded away so wonderfully, that I had
 to hold on tight to keep my seat.
 
 It was a run indeed now, and what Joe called, in the only two words he
-spoke all the time, “a Winder.” Down banks and up banks, and over
+spoke all the [[Time|time]], “a Winder.” Down banks and up banks, and over
 gates, and splashing into dikes, and breaking among coarse rushes: no
 man cared where he went. As we came nearer to the shouting, it became
 more and more apparent that it was made by more than one voice.
@@ -114,6 +114,6 @@ The sergeant ran in first, when we had run the noise quite down, and
 two of his men ran in close upon him. Their pieces were cocked and
 levelled when we all ran in.
 
-“Here are both men!” panted the sergeant, struggling at the bottom of a
+“Here are both men!” panted the sergeant, struggling at the [[Bottom|bottom]] of a
 ditch. “Surrender, you two! and confound you for two wild beasts! Come
 asunder!”

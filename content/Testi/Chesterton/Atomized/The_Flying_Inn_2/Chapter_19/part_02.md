@@ -16,7 +16,7 @@ tags:
 
 Patrick nodded, and then said:
 
-"I doubt if I could do it, if it weren't for the
+"I [[Doubt|doubt]] if I could do it, if it weren't for the
 comfort of looking at that," and he kicked the rum-keg,
 "and feeling we shall have a good swig at it some day.
 It feels like a fairy-tale, carrying that about--as if
@@ -28,14 +28,14 @@ I remember!  Where's that milk can of mine?"
 For the next twenty minutes he was industriously
 occupied with his milk can and the cask; Pump watching
 him with an interest amounting to anxiety.  Lifting
-his head, however, at the end of that time, he
+his head, however, at the end of that [[Time|time]], he
 knotted his red brows and said, "What's that?"
 
 "What's what?" asked the other traveller.
 
 "That!" said Captain Patrick Dalroy, and pointed
-to a figure approaching on the road parallel to the
-river, "I mean, what's it for?"
+to a figure approaching on the [[Road|road]] parallel to the
+[[River|river]], "I mean, what's it for?"
 
 The figure had a longish beard and very long hair
 falling far below its shoulders.  It had a serious and
@@ -58,7 +58,7 @@ But a madman has only one merit and last link with God.  A madman is
 always logical.  Now what is the logical connection between living on
 milk and wearing your hair long?  Most of us lived on milk when we had
 no hair at all.  How do they connect it up?  Are there any heads even
-for a synopsis?  Is it, say, 'milk--water--shaving-water--
+for a synopsis?  Is it, say, 'milk--[[Water|water]]--shaving-[[Water|water]]--
 shaving--hair?'  Is it 'milk--kindness--unkindness--convicts--hair?'
 What is the logical connection between having too much hair and having
 far too few boots?  What _can_ it be?  Is it 'hair--hair-trunk--
@@ -70,7 +70,7 @@ lunacies live together?"
 "Because all the lunatics should live together," said,
 Humphrey, "and if you'd seen what happened up at
 Crampton, with the farming-out idea, you'd know.  It's
-all very well, Captain; but if people can prevent a
+all very [[Well|well]], Captain; but if people can prevent a
 guest of great importance being buried up to the neck
 in farm manure, they will.  They will, really."  He
 coughed almost apologetically.  He was about to
@@ -81,9 +81,9 @@ car, and get into it himself.  "You drive," he said,
 
 They did not, however, arrive in the civic centre of
 such things without yet another delay.  They left the
-river and followed the man with the long hair and the
+[[River|river]] and followed the man with the long hair and the
 goatskin frock; and he stopped as it happened at a
-house on the outskirts of the village.  The adventurers
+[[house]] on the outskirts of the village.  The adventurers
 stopped also, out of curiosity, and were at first
 relieved to see the man almost instantly reappear,
 having transacted his business with a quickness that
@@ -91,17 +91,17 @@ seemed incredible.  A second glance showed them it
 was not the man, but another man dressed exactly like
 him.  A few minutes more of inquisitive delay, showed
 them many of the kilty and goatish sect going in and
-out of this particular place, each clad in his innocent
+out of this particular place, each clad in his [[Innocent|innocent]]
 uniform.
 
 "This must be the temple and chapel," muttered
 Patrick, "it must be here they sacrifice a glass of milk
-to a cow, or whatever it is they do.  Well, the joke
+to a cow, or whatever it is they do.  [[Well]], the joke
 is pretty obvious, but we must wait for a lull in the
 crowding of the congregation."
 
-When the last long-haired phantom had faded up
-the road, Dalroy sprang from the car and drove the
+When the last long-haired [[Phantom|phantom]] had faded up
+the [[Road|road]], Dalroy sprang from the car and drove the
 sign-board deep into the earth with savage violence,
 and then very quietly knocked at the door.
 
@@ -122,19 +122,19 @@ but he could not make head or tail of it in
 connection with the priggish perfections of Peaceways.
 It was all the odder because he was manifestly
 prosperous; his clothes were smartly cut in something of
-the sporting manner, and the inside of his house was
+the sporting manner, and the inside of his [[house]] was
 at least four times grander than the outside.
 
 But what mystified them most was this, that he did
 not so much exhibit the natural curiosity of a gentleman
-whose private house is entered by strangers, but
+whose private [[house]] is entered by strangers, but
 rather an embarrassed and restless expectation.  During
 Dalroy's eager apologies and courteous inquiries
 about the direction and accommodations of Peaceways,
 his eye (which was of the boiled gooseberry order)
 perpetually wandered from them to the cupboard
-and then again to the window, and at last he got up
-and went to look out into the road.
+and then again to the [[Window|window]], and at last he got up
+and went to look out into the [[Road|road]].
 
 "Oh, yes, sir; very healthy place, Peaceways," he
 said, peering through the lattice.  "Very . . .
@@ -146,7 +146,7 @@ place.  Of course they have their little ways."
 The householder looked at him with a rather wild
 eye and grunted.
 
-"Yes; so they say," and he went again to the window.
+"Yes; so they say," and he went again to the [[Window|window]].
 
 "I've bought some of it," said Patrick, patting his
 pet milk can, which he carried under his arm, as if

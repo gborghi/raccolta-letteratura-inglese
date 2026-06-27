@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE FAD OF THE FISHERMAN (part 1)"
+title: "[[manwho]] — THE FAD OF THE FISHERMAN (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -28,11 +28,11 @@ remains only a subconscious thing, to be stirred by some accident
 
 long after. It drifts apart like a forgotten dream; and it was in
 
-the hour of many dreams, at daybreak and very soon after the end of
+the hour of many [[Dreams|dreams]], at daybreak and very soon after the end of
 
 dark, that such a strange sight was given to a man sculling a boat
 
-down a river in the West country. The man was awake; indeed, he
+down a [[River|river]] in the West country. The man was awake; indeed, he
 
 considered himself rather wide awake, being the political
 
@@ -44,7 +44,7 @@ inconsequent that it might have been imaginary. It simply slipped
 
 past his mind and was lost in later and utterly different events;
 
-nor did he even recover the memory till he had long afterward
+nor did he even recover the [[Memory|memory]] till he had long afterward
 
 discovered the meaning.
 
@@ -52,9 +52,9 @@ discovered the meaning.
 
 Pale mists of morning lay on the fields and the rushes along one
 
-margin of the river; along the other side ran a wall of tawny brick
+margin of the [[River|river]]; along the other side ran a wall of tawny brick
 
-almost overhanging the water. He had shipped his oars and was
+almost overhanging the [[Water|water]]. He had shipped his oars and was
 
 drifting for a moment with the stream, when he turned his head and
 
@@ -64,9 +64,9 @@ rather an elegant eighteenth-century sort of bridge with little
 
 columns of white stone turning gray. There had been floods and the
 
-river still stood very high, with dwarfish trees waist deep in it,
+[[River|river]] still stood very high, with dwarfish trees waist deep in it,
 
-and rather a narrow arc of white dawn gleamed under the curve of the
+and rather a narrow arc of white [[Dawn|dawn]] gleamed under the curve of the
 
 bridge.
 
@@ -104,7 +104,7 @@ whenever he thought of it again, long afterward, when he understood
 
 the story in which it figured, it was always fixed in that one
 
-fantastic shape--as if those wild legs were a grotesque graven
+fantastic shape--as if those wild legs were a [[Grotesque|grotesque]] graven
 
 ornament of the bridge itself, in the manner of a gargoyle. At the
 
@@ -152,7 +152,7 @@ public had ever heard of Horne Fisher; but he had known the Prime
 
 Minister all his life. For these reasons, had the two taken the
 
-projected journey together, March might have been slightly disposed
+projected [[Journey|journey]] together, March might have been slightly disposed
 
 to hasten it and Fisher vaguely content to lengthen it out. For
 
@@ -164,17 +164,17 @@ and in his case bore some resemblance to being born tired. But he
 
 was distinctly annoyed to receive, just as he was doing a little
 
-light packing of fishing tackle and cigars for the journey, a
+light packing of fishing tackle and cigars for the [[Journey|journey]], a
 
 telegram from Willowood asking him to come down at once by train, as
 
-the Prime Minister had to leave that night. Fisher knew that his
+the Prime Minister had to leave that [[Night|night]]. Fisher knew that his
 
 friend the journalist could not possibly start till the next day,
 
 and he liked his friend the journalist, and had looked forward to a
 
-few days on the river. He did not particularly like or dislike the
+few days on the [[River|river]]. He did not particularly like or dislike the
 
 Prime Minister, but he intensely disliked the alternative of a few
 
@@ -186,9 +186,9 @@ not the revolutionist sent on earth to destroy. So he telephoned to
 
 March, asking him, with many apologetic curses and faint damns, to
 
-take the boat down the river as arranged, that they might meet at
+take the boat down the [[River|river]] as arranged, that they might meet at
 
-Willowood by the time settled; then he went outside and hailed a
+Willowood by the [[Time|time]] settled; then he went outside and hailed a
 
 taxicab to take him to the railway station. There he paused at the
 
@@ -210,4 +210,4 @@ one of the smaller seats of Sir Isaac Hook, the master of much
 
 shipping and many newspapers. He entered by the gate giving on the
 
-road, at the opposite side to the river, but there was a mixed
+[[Road|road]], at the opposite side to the [[River|river]], but there was a mixed

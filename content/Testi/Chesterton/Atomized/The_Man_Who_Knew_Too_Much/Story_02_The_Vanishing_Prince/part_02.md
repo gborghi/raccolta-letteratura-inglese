@@ -22,16 +22,16 @@ little rift in his popularity. These stories can now be told in some
 
 detail, not because they are the most marvelous of his many
 
-adventures, but because these alone were not covered with silence by
+adventures, but because these [[Alone|alone]] were not covered with [[Silence|silence]] by
 
-the loyalty of the peasantry. These alone found their way into
+the loyalty of the peasantry. These [[Alone|alone]] found their way into
 
 official reports, and it is these which three of the chief officials
 
 of the country were reading and discussing when the more remarkable
 
 part of this story begins.
-Night was far advanced and the lights shone in the cottage that
+[[Night]] was far advanced and the lights shone in the cottage that
 
 served for a temporary police station near the coast. On one side of
 
@@ -45,11 +45,11 @@ the prehistoric pattern still found in Ireland, standing up as
 
 slender as a column, but pointed like a pyramid. At a wooden table
 
-in front of the window, which normally looked out on this landscape,
+in front of the [[Window|window]], which normally looked out on this landscape,
 
 sat two men in plain clothes, but with something of a military
 
-bearing, for indeed they were the two chiefs of the detective
+bearing, for indeed they were the two chiefs of the [[Detective|detective]]
 
 service of that district. The senior of the two, both in age and
 
@@ -86,14 +86,14 @@ think he's hanging round the girl himself and is out against a
 
 rival. There's always some reason of that sort when we are told the
 
-truth about anything. And you bet the other girl told right enough."
-"Well, let's hope they'll be some sort of use," remarked Nolan, in a
+[[Truth|truth]] about anything. And you bet the other girl told right enough."
+"[[Well]], let's [[Hope|hope]] they'll be some sort of use," remarked Nolan, in a
 
 somewhat hopeless manner, gazing out into the darkness.
 "Anything is to the good," said Morton, "that lets us know anything
 
 about him."
-"Do we know anything about him?" asked the melancholy Irishman.
+"Do we know anything about him?" asked the [[Melancholy|melancholy]] Irishman.
 "We know one thing about him," said Wilson, "and it's the one thing
 
 that nobody ever knew before. We know where he is."
@@ -102,8 +102,8 @@ that nobody ever knew before. We know where he is."
 
 that tower over there by the shore. If you go near enough you'll see
 
-the candle burning in the window."
-As he spoke the noise of a horn sounded on the road outside, and a
+the candle burning in the [[Window|window]]."
+As he spoke the noise of a horn sounded on the [[Road|road]] outside, and a
 
 moment after they heard the throbbing of a motor car brought to a
 
@@ -124,13 +124,13 @@ little station the indescribable glow of the great cities and the
 luxuries of the great world.
 For this was Sir Walter Carey, an official of such eminence in
 
-Dublin Castle that nothing short of the case of Prince Michael would
+Dublin [[Castle]] that nothing short of the case of Prince [[Michael]] would
 
-have brought him on such a journey in the middle of the night. But
+have brought him on such a [[Journey|journey]] in the middle of the [[Night|night]]. But
 
-the case of Prince Michael, as it happened, was complicated by
+the case of Prince [[Michael]], as it happened, was complicated by
 
-legalism as well as lawlessness. On the last occasion he had escaped
+legalism as [[Well|well]] as lawlessness. On the last occasion he had escaped
 
 by a forensic quibble and not, as usual, by a private escapade; and
 
@@ -145,17 +145,17 @@ Despite the almost aggressive touch of luxury in the fur coat, it
 
 soon became apparent that Sir Walter's large leonine head was for
 
-use as well as ornament, and he considered the matter soberly and
+use as [[Well|well]] as ornament, and he considered the matter soberly and
 
 sanely enough. Five chairs were set round the plain deal table, for
 
 who should Sir Walter bring with him but his young relative and
 
-secretary, Horne Fisher. Sir Walter listened with grave attention,
+secretary, Horne Fisher. Sir Walter listened with [[Grave|grave]] attention,
 
 and his secretary with polite boredom, to the string of episodes by
 
-which the police had traced the flying rebel from the steps of the
+which the police had traced the flying [[Rebel|rebel]] from the steps of the
 
 hotel to the solitary tower beside the sea. There at least he was
 
@@ -169,19 +169,19 @@ have been typical of him to choose it as the place in which finally
 
 to turn to bay. He had some remote claim on it, as on a family
 
-castle; and those who knew him thought him capable of imitating the
+[[Castle|castle]]; and those who knew him thought him capable of imitating the
 
 primitive Irish chieftains who fell fighting against the sea.
 "I saw some queer-looking people leaving as I came in," said Sir
 
 Walter Carey. "I suppose they were your witnesses. But why do they
 
-turn up here at this time of night?"
-Morton smiled grimly. "They come here by night because they would
+turn up here at this [[Time|time]] of [[Night|night]]?"
+Morton smiled grimly. "They come here by [[Night|night]] because they would
 
 be dead men if they came here by day. They are criminals committing
 
 a crime that is more horrible here than theft or murder."
 "What crime do you mean?" asked the other, with some curiosity.
 "They are helping the law," said Morton.
-There was a silence, and Sir Walter considered the papers before him
+There was a [[Silence|silence]], and Sir Walter considered the papers before him

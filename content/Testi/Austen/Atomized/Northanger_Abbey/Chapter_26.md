@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 25"
+title: "[[Northanger Abbey]] — Chapter 25"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -20,7 +20,7 @@ CHAPTER 25
 
 
 
-The visions of romance were over. Catherine was completely awakened.
+The visions of [[Romance|romance]] were over. Catherine was completely awakened.
 
 Henry’s address, short as it had been, had more thoroughly opened her
 
@@ -34,7 +34,7 @@ sunk—but with Henry. Her folly, which now seemed even criminal, was all
 
 exposed to him, and he must despise her forever. The liberty which her
 
-imagination had dared to take with the character of his father—could he
+[[Imagination|imagination]] had dared to take with the character of his father—could he
 
 ever forgive it? The absurdity of her curiosity and her fears—could
 
@@ -46,9 +46,9 @@ shown something like affection for her. But now—in short, she made
 
 herself as miserable as possible for about half an hour, went down when
 
-the clock struck five, with a broken heart, and could scarcely give an
+the [[Clock|clock]] struck five, with a broken heart, and could scarcely give an
 
-intelligible answer to Eleanor’s inquiry if she was well. The
+intelligible answer to [[Eleanor]]’s inquiry if she was [[Well|well]]. The
 
 formidable Henry soon followed her into the room, and the only
 
@@ -64,7 +64,7 @@ The evening wore away with no abatement of this soothing politeness;
 
 and her spirits were gradually raised to a modest tranquillity. She did
 
-not learn either to forget or defend the past; but she learned to hope
+not learn either to forget or defend the past; but she learned to [[Hope|hope]]
 
 that it would never transpire farther, and that it might not cost her
 
@@ -72,11 +72,11 @@ Henry’s entire regard. Her thoughts being still chiefly fixed on what
 
 she had with such causeless terror felt and done, nothing could shortly
 
-be clearer than that it had been all a voluntary, self-created
+be clearer than that it had been all a voluntary, [[Self|self]]-created
 
 delusion, each trifling circumstance receiving importance from an
 
-imagination resolved on alarm, and everything forced to bend to one
+[[Imagination|imagination]] resolved on alarm, and everything forced to bend to one
 
 purpose by a mind which, before she entered the abbey, had been craving
 
@@ -96,15 +96,15 @@ Charming as were all Mrs. Radcliffe’s works, and charming even as were
 
 the works of all her imitators, it was not in them perhaps that human
 
-nature, at least in the Midland counties of England, was to be looked
+[[Nature|nature]], at least in the Midland counties of England, was to be looked
 
 for. Of the Alps and Pyrenees, with their pine forests and their vices,
 
-they might give a faithful delineation; and Italy, Switzerland, and the
+they might give a faithful delineation; and [[Italy]], Switzerland, and the
 
 south of France might be as fruitful in horrors as they were there
 
-represented. Catherine dared not doubt beyond her own country, and even
+represented. Catherine dared not [[Doubt|doubt]] beyond her own country, and even
 
 of that, if hard pressed, would have yielded the northern and western
 
@@ -114,7 +114,7 @@ security for the existence even of a wife not beloved, in the laws of
 
 the land, and the manners of the age. Murder was not tolerated,
 
-servants were not slaves, and neither poison nor sleeping potions to be
+servants were not slaves, and neither [[Poison|poison]] nor sleeping potions to be
 
 procured, like rhubarb, from every druggist. Among the Alps and
 
@@ -128,9 +128,9 @@ hearts and habits, there was a general though unequal mixture of good
 
 and bad. Upon this conviction, she would not be surprised if even in
 
-Henry and Eleanor Tilney, some slight imperfection might hereafter
+Henry and [[Eleanor Tilney]], some slight imperfection might hereafter
 
-appear; and upon this conviction she need not fear to acknowledge some
+appear; and upon this conviction she need not [[Fear|fear]] to acknowledge some
 
 actual specks in the character of their father, who, though cleared
 
@@ -148,7 +148,7 @@ always judging and acting in future with the greatest good sense, she
 
 had nothing to do but to forgive herself and be happier than ever; and
 
-the lenient hand of time did much for her by insensible gradations in
+the lenient hand of [[Time|time]] did much for her by insensible gradations in
 
 the course of another day. Henry’s astonishing generosity and nobleness
 
@@ -164,7 +164,7 @@ improvement by anything he said. There were still some subjects,
 
 indeed, under which she believed they must always tremble—the mention
 
-of a chest or a cabinet, for instance—and she did not love the sight of
+of a chest or a cabinet, for instance—and she did not [[Love|love]] the sight of
 
 japan in any shape: but even _she_ could allow that an occasional
 
@@ -174,23 +174,23 @@ memento of past folly, however painful, might not be without use.
 
 The anxieties of common life began soon to succeed to the alarms of
 
-romance. Her desire of hearing from Isabella grew every day greater.
+[[Romance|romance]]. Her [[Desire|desire]] of hearing from [[Isabella]] grew every day greater.
 
 She was quite impatient to know how the Bath world went on, and how the
 
 rooms were attended; and especially was she anxious to be assured of
 
-Isabella’s having matched some fine netting-cotton, on which she had
+[[Isabella]]’s having matched some fine netting-cotton, on which she had
 
 left her intent; and of her continuing on the best terms with James.
 
-Her only dependence for information of any kind was on Isabella. James
+Her only dependence for information of any kind was on [[Isabella]]. James
 
-had protested against writing to her till his return to Oxford; and
+had protested against writing to her till his return to [[Oxford]]; and
 
 Mrs. Allen had given her no hopes of a letter till she had got back to
 
-Fullerton. But Isabella had promised and promised again; and when she
+Fullerton. But [[Isabella]] had promised and promised again; and when she
 
 promised a thing, she was so scrupulous in performing it! this made it
 
@@ -208,7 +208,7 @@ letter, held out by Henry’s willing hand. She thanked him as heartily
 
 as if he had written it himself. “’Tis only from James, however,” as
 
-she looked at the direction. She opened it; it was from Oxford; and to
+she looked at the direction. She opened it; it was from [[Oxford]]; and to
 
 this purpose:
 
@@ -222,21 +222,21 @@ this purpose:
 
     Thorpe and me. I left her and Bath yesterday, never to see either
 
-    again. I shall not enter into particulars—they would only pain you
+    again. I shall not enter into particulars—they would only [[Pain|pain]] you
 
     more. You will soon hear enough from another quarter to know where
 
-    lies the blame; and I hope will acquit your brother of everything
+    lies the blame; and I [[Hope|hope]] will acquit your brother of everything
 
     but the folly of too easily thinking his affection returned. Thank
 
-    God! i am undeceived in time! but it is a heavy blow! after my
+    God! i am undeceived in [[Time|time]]! but it is a heavy blow! after my
 
     father’s consent had been so kindly given—but no more of this. She
 
     has made me miserable forever! let me soon hear from you, dear
 
-    Catherine; you are my only friend; _your_ love I do build upon. I
+    Catherine; you are my only friend; _your_ [[Love|love]] I do build upon. I
 
     wish your visit at Northanger may be over before Captain Tilney
 
@@ -276,7 +276,7 @@ this purpose:
 
 Catherine had not read three lines before her sudden change of
 
-countenance, and short exclamations of sorrowing wonder, declared her
+countenance, and short exclamations of sorrowing [[Wonder|wonder]], declared her
 
 to be receiving unpleasant news; and Henry, earnestly watching her
 
@@ -286,7 +286,7 @@ began. He was prevented, however, from even looking his surprise by his
 
 father’s entrance. They went to breakfast directly; but Catherine could
 
-hardly eat anything. Tears filled her eyes, and even ran down her
+hardly eat anything. [[Tears]] filled her eyes, and even ran down her
 
 cheeks as she sat. The letter was one moment in her hand, then in her
 
@@ -302,13 +302,13 @@ own room; but the housemaids were busy in it, and she was obliged to
 
 come down again. She turned into the drawing-room for privacy, but
 
-Henry and Eleanor had likewise retreated thither, and were at that
+Henry and [[Eleanor]] had likewise retreated thither, and were at that
 
 moment deep in consultation about her. She drew back, trying to beg
 
 their pardon, but was, with gentle violence, forced to return; and the
 
-others withdrew, after Eleanor had affectionately expressed a wish of
+others withdrew, after [[Eleanor]] had affectionately expressed a wish of
 
 being of use or comfort to her.
 
@@ -322,33 +322,33 @@ distress known to them was another consideration. Perhaps, if
 
 particularly questioned, she might just give an idea—just distantly
 
-hint at it—but not more. To expose a friend, such a friend as Isabella
+hint at it—but not more. To expose a friend, such a friend as [[Isabella]]
 
 had been to her—and then their own brother so closely concerned in it!
 
-She believed she must waive the subject altogether. Henry and Eleanor
+She believed she must waive the subject altogether. Henry and [[Eleanor]]
 
 were by themselves in the breakfast-room; and each, as she entered it,
 
 looked at her anxiously. Catherine took her place at the table, and,
 
-after a short silence, Eleanor said, “No bad news from Fullerton, I
+after a short [[Silence|silence]], [[Eleanor]] said, “No bad news from Fullerton, I
 
-hope? Mr. and Mrs. Morland—your brothers and sisters—I hope they are
+[[Hope|hope]]? Mr. and Mrs. Morland—your brothers and sisters—I [[Hope|hope]] they are
 
 none of them ill?”
 
 
 
-“No, I thank you” (sighing as she spoke); “they are all very well. My
+“No, I thank you” (sighing as she spoke); “they are all very [[Well|well]]. My
 
-letter was from my brother at Oxford.”
+letter was from my brother at [[Oxford]].”
 
 
 
 Nothing further was said for a few minutes; and then speaking through
 
-her tears, she added, “I do not think I shall ever wish for a letter
+her [[Tears|tears]], she added, “I do not think I shall ever wish for a letter
 
 again!”
 
@@ -390,13 +390,13 @@ give me notice of it, that I may go away.”
 
 something has happened that would make it very dreadful for me to be in
 
-the same house with Captain Tilney.”
+the same [[house]] with Captain Tilney.”
 
 
 
-Eleanor’s work was suspended while she gazed with increasing
+[[Eleanor]]’s work was suspended while she gazed with increasing
 
-astonishment; but Henry began to suspect the truth, and something, in
+astonishment; but Henry began to suspect the [[Truth|truth]], and something, in
 
 which Miss Thorpe’s name was included, passed his lips.
 
@@ -406,7 +406,7 @@ which Miss Thorpe’s name was included, passed his lips.
 
 And yet, when we talked about it in Bath, you little thought of its
 
-ending so. Isabella—no wonder _now_ I have not heard from her—Isabella
+ending so. [[Isabella]]—no [[Wonder|wonder]] _now_ I have not heard from her—[[Isabella]]
 
 has deserted my brother, and is to marry yours! could you have believed
 
@@ -416,7 +416,7 @@ bad in the world?”
 
 
 
-“I hope, so far as concerns my brother, you are misinformed. I hope he
+“I [[Hope|hope]], so far as concerns my brother, you are misinformed. I [[Hope|hope]] he
 
 has not had any material share in bringing on Mr. Morland’s
 
@@ -424,7 +424,7 @@ disappointment. His marrying Miss Thorpe is not probable. I think you
 
 must be deceived so far. I am very sorry for Mr. Morland—sorry that
 
-anyone you love should be unhappy; but my surprise would be greater at
+anyone you [[Love|love]] should be unhappy; but my surprise would be greater at
 
 Frederick’s marrying her than at any other part of the story.”
 
@@ -452,13 +452,13 @@ she had blushed before); “James only means to give me good advice.”
 
 He gladly received the letter, and, having read it through, with close
 
-attention, returned it saying, “Well, if it is to be so, I can only say
+attention, returned it saying, “[[Well]], if it is to be so, I can only say
 
 that I am sorry for it. Frederick will not be the first man who has
 
 chosen a wife with less sense than his family expected. I do not envy
 
-his situation, either as a lover or a son.”
+his situation, either as a [[Lover|lover]] or a son.”
 
 
 
@@ -486,7 +486,7 @@ into Miss Thorpe’s connections and fortune.
 
 
 
-“No, not very. I do not believe Isabella has any fortune at all: but
+“No, not very. I do not believe [[Isabella]] has any fortune at all: but
 
 that will not signify in your family. Your father is so very liberal!
 
@@ -494,7 +494,7 @@ He told me the other day that he only valued money as it allowed him to
 
 promote the happiness of his children.” The brother and sister looked
 
-at each other. “But,” said Eleanor, after a short pause, “would it be
+at each other. “But,” said [[Eleanor]], after a short pause, “would it be
 
 to promote his happiness, to enable him to marry such a girl? She must
 
@@ -520,7 +520,7 @@ suppose that she would part with one gentleman before the other was
 
 secured. It is all over with Frederick indeed! he is a deceased
 
-man—defunct in understanding. Prepare for your sister-in-law, Eleanor,
+man—defunct in understanding. Prepare for your sister-in-law, [[Eleanor]],
 
 and such a sister-in-law as you must delight in! open, candid, artless,
 
@@ -530,7 +530,7 @@ and knowing no disguise.”
 
 
 
-“Such a sister-in-law, Henry, I should delight in,” said Eleanor with a
+“Such a sister-in-law, Henry, I should delight in,” said [[Eleanor]] with a
 
 smile.
 
@@ -554,7 +554,7 @@ arrivals.”
 
 
 
-“You think it is all for ambition, then? And, upon my word, there are
+“You think it is all for [[Ambition|ambition]], then? And, upon my word, there are
 
 some things that seem very like it. I cannot forget that, when she
 
@@ -580,7 +580,7 @@ James, I suppose he will hardly ever recover it.”
 
 must not, in our concern for his sufferings, undervalue yours. You
 
-feel, I suppose, that in losing Isabella, you lose half yourself: you
+feel, I suppose, that in losing [[Isabella]], you lose half yourself: you
 
 feel a void in your heart which nothing else can occupy. Society is
 
@@ -600,9 +600,9 @@ difficulty, you could rely on. You feel all this?”
 
 “No,” said Catherine, after a few moments’ reflection, “I do not—ought
 
-I? To say the truth, though I am hurt and grieved, that I cannot still
+I? To say the [[Truth|truth]], though I am hurt and grieved, that I cannot still
 
-love her, that I am never to hear from her, perhaps never to see her
+[[Love|love]] her, that I am never to hear from her, perhaps never to see her
 
 again, I do not feel so very, very much afflicted as one would have
 
@@ -612,7 +612,7 @@ thought.”
 
 “You feel, as you always do, what is most to the credit of human
 
-nature. Such feelings ought to be investigated, that they may know
+[[Nature|nature]]. Such feelings ought to be investigated, that they may know
 
 themselves.”
 

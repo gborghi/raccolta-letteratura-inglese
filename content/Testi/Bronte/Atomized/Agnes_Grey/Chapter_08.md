@@ -1,5 +1,5 @@
 ---
-title: "Agnes Grey — Chapter 8"
+title: "[[Agnes Grey]] — Chapter 8"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Agnes-Grey-(Bronte)"
@@ -20,7 +20,7 @@ THE “COMING OUT”
 
 At eighteen, Miss Murray was to emerge from the quiet obscurity of the
 schoolroom into the full blaze of the fashionable world—as much of it,
-at least, as could be had out of London; for her papa could not be
+at least, as could be had out of [[London]]; for her papa could not be
 persuaded to leave his rural pleasures and pursuits, even for a few
 weeks’ residence in town. She was to make her _débût_ on the third of
 January, at a magnificent ball, which her mamma proposed to give to all
@@ -39,18 +39,18 @@ than that.”
 She seated herself on the low stool at my feet; and I, suppressing a
 sigh of vexation, began to fold up the epistle.
 
-“You should tell the good people at home not to bore you with such long
+“You should tell the good people at [[Home|home]] not to bore you with such long
 letters,” said she; “and, above all, do bid them write on proper
 note-paper, and not on those great vulgar sheets. You should see the
 charming little lady-like notes mamma writes to her friends.”
 
-“The good people at home,” replied I, “know very well that the longer
+“The good people at [[Home|home]],” replied I, “know very [[Well|well]] that the longer
 their letters are, the better I like them. I should be very sorry to
 receive a charming little lady-like note from any of them; and I
 thought you were too much of a lady yourself, Miss Murray, to talk
 about the ‘vulgarity’ of writing on a large sheet of paper.”
 
-“Well, I only said it to tease you. But now I want to talk about the
+“[[Well]], I only said it to tease you. But now I want to talk about the
 ball; and to tell you that you positively must put off your holidays
 till it is over.”
 
@@ -67,13 +67,13 @@ disappoint my friends by postponing my return so long.”
 
 “Oh, never mind your friends! Tell them we won’t let you go.”
 
-“But, to say the truth, it would be a disappointment to myself: I long
+“But, to say the [[Truth|truth]], it would be a disappointment to myself: I long
 to see them as much as they to see me—perhaps more.”
 
-“Well, but it is such a short time.”
+“[[Well]], but it is such a short [[Time|time]].”
 
 “Nearly a fortnight by my computation; and, besides, I cannot bear the
-thoughts of a Christmas spent from home: and, moreover, my sister is
+thoughts of a Christmas spent from [[Home|home]]: and, moreover, my sister is
 going to be married.”
 
 “Is she—when?”
@@ -102,30 +102,30 @@ and stupid, and won’t let me read.”
 
 “No; only middling.”
 
-“Oh, mercy! what a wretch! What sort of a house is it?”
+“Oh, [[Mercy|mercy]]! what a wretch! What sort of a [[house]] is it?”
 
 “A quiet little vicarage, with an ivy-clad porch, an old-fashioned
-garden, and—”
+[[Garden|garden]], and—”
 
 “Oh, stop!—you’ll make me sick. How _can_ she bear it?”
 
 “I expect she’ll not only be able to bear it, but to be very happy. You
 did not ask me if Mr. Richardson were a good, wise, or amiable man; I
 could have answered Yes, to all these questions—at least so Mary
-thinks, and I hope she will not find herself mistaken.”
+thinks, and I [[Hope|hope]] she will not find herself mistaken.”
 
 “But—miserable creature! how can she think of spending her life there,
-cooped up with that nasty old man; and no hope of change?”
+cooped up with that nasty old man; and no [[Hope|hope]] of change?”
 
 “He is not old: he’s only six or seven and thirty; and she herself is
 twenty-eight, and as sober as if she were fifty.”
 
-“Oh! that’s better then—they’re well matched; but do they call him the
+“Oh! that’s better then—they’re [[Well|well]] matched; but do they call him the
 ‘worthy vicar’?”
 
 “I don’t know; but if they do, I believe he merits the epithet.”
 
-“Mercy, how shocking! and will she wear a white apron and make pies and
+“[[Mercy]], how shocking! and will she wear a white apron and make pies and
 puddings?”
 
 “I don’t know about the white apron, but I dare say she will make pies
@@ -136,5 +136,5 @@ has done it before.”
 carrying tracts and bone soup to her husband’s poor parishioners?”
 
 “I’m not clear about that; but I dare say she will do her best to make
-them comfortable in body and mind, in accordance with our mother’s
+them comfortable in [[Body|body]] and mind, in accordance with our mother’s
 example.”

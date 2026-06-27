@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 31: THIRTY ONE (part 7)"
+title: "[[Martin Chuzzlewit]] — Chapter 31: THIRTY ONE (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,8 +14,8 @@ tags:
 </nav>
 
 
-‘God bless my soul!’ said Tom, wiping his eyes. ‘The kindness of people
-is enough to break one’s heart! I mean to go to Salisbury to-night, my
+‘God bless my [[Soul|soul]]!’ said Tom, wiping his eyes. ‘The kindness of people
+is enough to break one’s heart! I mean to go to Salisbury to-[[Night|night]], my
 dear good creature. If you’ll take care of my box for me till I write
 for it, I shall consider it the greatest kindness you can do me.’
 
@@ -48,12 +48,12 @@ toll-takers came screeching out, he had half a mind to run for it, and
 make a bolt across the country.
 
 ‘Why, deary Mr Pinch! oh, deary sir!’ cried the tollman’s wife. ‘What an
-unlikely time for you to be a-going this way with a bag!’
+unlikely [[Time|time]] for you to be a-going this way with a bag!’
 
 ‘I am going to Salisbury,’ said Tom.
 
 ‘Why, goodness, where’s the gig, then?’ cried the tollman’s wife,
-looking down the road, as if she thought Tom might have been upset
+looking down the [[Road|road]], as if she thought Tom might have been upset
 without observing it.
 
 ‘I haven’t got it,’ said Tom. ‘I--’ he couldn’t evade it; he felt she
@@ -62,7 +62,7 @@ left Mr Pecksniff.’
 
 The tollman--a crusty customer, always smoking solitary pipes in a
 Windsor chair, inside, set artfully between two little windows that
-looked up and down the road, so that when he saw anything coming up he
+looked up and down the [[Road|road]], so that when he saw anything coming up he
 might hug himself on having toll to take, and when he saw it going down,
 might hug himself on having taken it--the tollman was out in an instant.
 
@@ -73,19 +73,19 @@ might hug himself on having taken it--the tollman was out in an instant.
 The tollman looked at his wife, uncertain whether to ask her if she had
 anything to suggest, or to order her to mind the children. Astonishment
 making him surly, he preferred the latter, and sent her into the
-toll-house with a flea in her ear.
+toll-[[house]] with a flea in her ear.
 
 ‘You left Mr Pecksniff!’ cried the tollman, folding his arms, and
 spreading his legs. ‘I should as soon have thought of his head leaving
 him.’
 
-‘Aye!’ said Tom, ‘so should I, yesterday. Good night!’
+‘Aye!’ said Tom, ‘so should I, yesterday. Good [[Night|night]]!’
 
 If a heavy drove of oxen hadn’t come by immediately, the tollman would
 have gone down to the village straight, to inquire into it. As
 things turned out, he smoked another pipe, and took his wife into his
 confidence. But their united sagacity could make nothing of it, and they
-went to bed--metaphorically--in the dark. But several times that night,
+went to bed--metaphorically--in the dark. But several times that [[Night|night]],
 when a waggon or other vehicle came through, and the driver asked
 the tollkeeper ‘What news?’ he looked at the man by the light of his
 lantern, to assure himself that he had an interest in the subject, and
@@ -102,7 +102,7 @@ then said, wrapping his watch-coat round his legs:
 ‘They’ve parted.’
 
 After every one of these disclosures, the tollman plunged into his
-house again, and was seen no more, while the other side went on in great
+[[house]] again, and was seen no more, while the other side went on in great
 amazement.
 
 But this was long after Tom was abed, and Tom was now with his face
@@ -110,7 +110,7 @@ towards Salisbury, doing his best to get there. The evening was
 beautiful at first, but it became cloudy and dull at sunset, and the
 rain fell heavily soon afterwards. For ten long miles he plodded on, wet
 through, until at last the lights appeared, and he came into the welcome
-precincts of the city.
+precincts of the [[City|city]].
 
 He went to the inn where he had waited for Martin, and briefly answering
 their inquiries after Mr Pecksniff, ordered a bed. He had no heart for
@@ -127,11 +127,11 @@ remarkably fat ox hung over the fireplace, and the portrait of some
 former landlord (who might have been the ox’s brother, he was so like
 him) stared roundly in, at the foot of the bed. A variety of queer
 smells were partially quenched in the prevailing scent of very old
-lavender; and the window had not been opened for such a long space of
-time that it pleaded immemorial usage, and wouldn’t come open now.
+lavender; and the [[Window|window]] had not been opened for such a long space of
+[[Time|time]] that it pleaded immemorial usage, and wouldn’t come open now.
 
 These were trifles in themselves, but they added to the strangeness of
 the place, and did not induce Tom to forget his new position. Pecksniff
 had gone out of the world--had never been in it--and it was as much
 as Tom could do to say his prayers without him. But he felt happier
-afterwards, and went to sleep, and dreamed about him as he Never Was.
+afterwards, and went to [[Sleep|sleep]], and dreamed about him as he Never Was.

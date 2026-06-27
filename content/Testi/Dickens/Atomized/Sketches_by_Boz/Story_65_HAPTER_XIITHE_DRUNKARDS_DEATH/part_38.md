@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 38)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 38)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -19,13 +19,13 @@ looked as if for explanation to the tall postilion, but as the tall
 postilion was intently contemplating the gold tassel on the top of his
 yellow cap, and could have afforded no explanation whatever, even if
 his thoughts had been entirely disengaged, they contented themselves
-with coughing very dubiously, and looking very grave. The tall
+with coughing very dubiously, and looking very [[Grave|grave]]. The tall
 postilion then delivered another letter, in which Nicholas Tulrumble
 informed the corporation, that he intended repairing to the town-hall,
 in grand state and gorgeous procession, on the Monday afternoon next
 ensuing. At this the corporation looked still more solemn; but, as the
-epistle wound up with a formal invitation to the whole body to dine
-with the Mayor on that day, at Mudfog Hall, Mudfog Hill, Mudfog, they
+epistle wound up with a formal invitation to the whole [[Body|body]] to dine
+with the Mayor on that day, at Mudfog Hall, Mudfog [[Hill]], Mudfog, they
 began to see the fun of the thing directly, and sent back their
 compliments, and they’d be sure to come.
 
@@ -47,17 +47,17 @@ hand to anything when he chose to do it. He was by no means opposed to
 hard labour on principle, for he would work away at a cricket-match by
 the day together,—running, and catching, and batting, and bowling, and
 revelling in toil which would exhaust a galley-slave. He would have
-been invaluable to a fire-office; never was a man with such a natural
+been invaluable to a [[Fire|fire]]-office; never was a man with such a natural
 taste for pumping engines, running up ladders, and throwing furniture
 out of two-pair-of-stairs’ windows: nor was this the only element in
-which he was at home; he was a humane society in himself, a portable
+which he was at [[Home|home]]; he was a humane society in himself, a portable
 drag, an animated life-preserver, and had saved more people, in his
-time, from drowning, than the Plymouth life-boat, or Captain Manby’s
+[[Time|time]], from drowning, than the Plymouth life-boat, or Captain Manby’s
 apparatus. With all these qualifications, notwithstanding his
 dissipation, Bottle-nosed Ned was a general favourite; and the
 authorities of Mudfog, remembering his numerous services to the
 population, allowed him in return to get drunk in his own way, without
-the fear of stocks, fine, or imprisonment. He had a general licence,
+the [[Fear|fear]] of stocks, fine, or [[Imprisonment|imprisonment]]. He had a general licence,
 and he showed his sense of the compliment by making the most of it.
 
 We have been thus particular in describing the character and avocations
@@ -66,13 +66,13 @@ politely, without hauling it into the reader’s presence with indecent
 haste by the head and shoulders, and brings us very naturally to
 relate, that on the very same evening on which Mr. Nicholas Tulrumble
 and family returned to Mudfog, Mr. Tulrumble’s new secretary, just
-imported from London, with a pale face and light whiskers, thrust his
-head down to the very bottom of his neckcloth-tie, in at the tap-room
+imported from [[London]], with a pale face and light whiskers, thrust his
+head down to the very [[Bottom|bottom]] of his neckcloth-tie, in at the tap-room
 door of the Lighterman’s Arms, and inquiring whether one Ned Twigger
 was luxuriating within, announced himself as the bearer of a message
 from Nicholas Tulrumble, Esquire, requiring Mr. Twigger’s immediate
 attendance at the hall, on private and particular business. It being by
-no means Mr. Twigger’s interest to affront the Mayor, he rose from the
+no means Mr. Twigger’s interest to affront the Mayor, he [[Rose|rose]] from the
 fireplace with a slight sigh, and followed the light-whiskered
 secretary through the dirt and wet of Mudfog streets, up to Mudfog
 Hall, without further ado.
@@ -82,11 +82,11 @@ which he called his library, sketching out a plan of the procession on
 a large sheet of paper; and into the cavern the secretary ushered Ned
 Twigger.
 
-‘Well, Twigger!’ said Nicholas Tulrumble, condescendingly.
+‘[[Well]], Twigger!’ said Nicholas Tulrumble, condescendingly.
 
-There was a time when Twigger would have replied, ‘Well, Nick!’ but
+There was a [[Time|time]] when Twigger would have replied, ‘[[Well]], Nick!’ but
 that was in the days of the truck, and a couple of years before the
-donkey; so, he only bowed.
+[[donkey]]; so, he only bowed.
 
 ‘I want you to go into training, Twigger,’ said Mr. Tulrumble.
 
@@ -100,7 +100,7 @@ complete suit of brass armour, of gigantic dimensions.
 
 ‘I want you to wear this next Monday, Twigger,’ said the Mayor.
 
-‘Bless your heart and soul, sir!’ replied Ned, ‘you might as well ask
+‘Bless your heart and [[Soul|soul]], sir!’ replied Ned, ‘you might as [[Well|well]] ask
 me to wear a seventy-four pounder, or a cast-iron boiler.’
 
 ‘Nonsense, Twigger, nonsense!’ said the Mayor.
@@ -109,11 +109,11 @@ me to wear a seventy-four pounder, or a cast-iron boiler.’
 potatoes of me, if I attempted it.’
 
 ‘Pooh, pooh, Twigger!’ returned the Mayor. ‘I tell you I have seen it
-done with my own eyes, in London, and the man wasn’t half such a man as
+done with my own eyes, in [[London]], and the man wasn’t half such a man as
 you are, either.’
 
 ‘I should as soon have thought of a man’s wearing the case of an
-eight-day clock to save his linen,’ said Twigger, casting a look of
+eight-day [[Clock|clock]] to save his linen,’ said Twigger, casting a look of
 apprehension at the brass suit.
 
 ‘It’s the easiest thing in the world,’ rejoined the Mayor.

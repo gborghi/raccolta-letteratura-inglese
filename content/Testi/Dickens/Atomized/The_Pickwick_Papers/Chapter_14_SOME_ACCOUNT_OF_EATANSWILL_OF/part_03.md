@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 3)"
+title: "The [[Pickwick]] Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘Greatly excited, no doubt,’ interposed Mr. Perker, with a look of
+‘Greatly excited, no [[Doubt|doubt]],’ interposed Mr. Perker, with a look of
 slyness which was very likely accidental.
 
 ‘The contest,’ said Pott, ‘shall be prolonged so long as I have health
@@ -23,50 +23,50 @@ that contest, Sir, although it may unsettle men’s minds and excite their
 feelings, and render them incapable for the discharge of the everyday
 duties of ordinary life; from that contest, sir, I will never shrink,
 till I have set my heel upon the Eatanswill _Independent_. I wish the
-people of London, and the people of this country to know, sir, that they
-may rely upon me--that I will not desert them, that I am resolved to
+people of [[London]], and the people of this country to know, sir, that they
+may rely upon me--that I will not [[Desert|desert]] them, that I am resolved to
 stand by them, Sir, to the last.’
 
-Your conduct is most noble, Sir,’ said Mr. Pickwick; and he grasped the
+Your conduct is most noble, Sir,’ said Mr. [[Pickwick]]; and he grasped the
 hand of the magnanimous Pott.
 
 ‘You are, sir, I perceive, a man of sense and talent,’ said Mr. Pott,
 almost breathless with the vehemence of his patriotic declaration. ‘I am
 most happy, sir, to make the acquaintance of such a man.’
 
-‘And I,’ said Mr. Pickwick, ‘feel deeply honoured by this expression of
+‘And I,’ said Mr. [[Pickwick]], ‘feel deeply honoured by this expression of
 your opinion. Allow me, sir, to introduce you to my fellow-travellers,
 the other corresponding members of the club I am proud to have founded.’
 
 ‘I shall be delighted,’ said Mr. Pott.
 
-Mr. Pickwick withdrew, and returning with his friends, presented them in
+Mr. [[Pickwick]] withdrew, and returning with his friends, presented them in
 due form to the editor of the Eatanswill _Gazette_.
 
 ‘Now, my dear Pott,’ said little Mr. Perker, ‘the question is, what are
 we to do with our friends here?’
 
-‘We can stop in this house, I suppose,’ said Mr. Pickwick.
+‘We can stop in this [[house]], I suppose,’ said Mr. [[Pickwick]].
 
-‘Not a spare bed in the house, my dear sir--not a single bed.’
+‘Not a spare bed in the [[house]], my dear sir--not a single bed.’
 
-‘Extremely awkward,’ said Mr. Pickwick.
+‘Extremely awkward,’ said Mr. [[Pickwick]].
 
 ‘Very,’ said his fellow-voyagers.
 
 ‘I have an idea upon this subject,’ said Mr. Pott, ‘which I think may be
 very successfully adopted. They have two beds at the Peacock, and I can
 boldly say, on behalf of Mrs. Pott, that she will be delighted to
-accommodate Mr. Pickwick and any one of his friends, if the other two
+accommodate Mr. [[Pickwick]] and any one of his friends, if the other two
 gentlemen and their servant do not object to shifting, as they best can,
 at the Peacock.’
 
 After repeated pressings on the part of Mr. Pott, and repeated
-protestations on that of Mr. Pickwick that he could not think of
+protestations on that of Mr. [[Pickwick]] that he could not think of
 incommoding or troubling his amiable wife, it was decided that it was
 the only feasible arrangement that could be made. So it _was _made; and
 after dinner together at the Town Arms, the friends separated, Mr.
-Tupman and Mr. Snodgrass repairing to the Peacock, and Mr. Pickwick and
+Tupman and Mr. Snodgrass repairing to the Peacock, and Mr. [[Pickwick]] and
 Mr. Winkle proceeding to the mansion of Mr. Pott; it having been
 previously arranged that they should all reassemble at the Town Arms in
 the morning, and accompany the Honourable Samuel Slumkey’s procession to
@@ -82,9 +82,9 @@ justified in laying any particular stress upon the fact, because on the
 present occasion all Mrs. Pott’s most winning ways were brought into
 requisition to receive the two gentlemen.
 
-‘My dear,’ said Mr. Pott, ‘Mr. Pickwick--Mr. Pickwick of London.’
+‘My dear,’ said Mr. Pott, ‘Mr. [[Pickwick]]--Mr. [[Pickwick]] of [[London]].’
 
-Mrs. Pott received Mr. Pickwick’s paternal grasp of the hand with
+Mrs. Pott received Mr. [[Pickwick]]’s paternal grasp of the hand with
 enchanting sweetness; and Mr. Winkle, who had not been announced at all,
 sidled and bowed, unnoticed, in an obscure corner.
 
@@ -96,12 +96,12 @@ sidled and bowed, unnoticed, in an obscure corner.
 
 ‘I beg a thousand pardons,’ said Mr. Pott. ‘Permit me, Mrs. Pott, Mr.--’
 
-‘Winkle,’ said Mr. Pickwick.
+‘Winkle,’ said Mr. [[Pickwick]].
 
 ‘Winkle,’ echoed Mr. Pott; and the ceremony of introduction was
 complete.
 
-‘We owe you many apologies, ma’am,’ said Mr. Pickwick, ‘for disturbing
+‘We owe you many apologies, ma’am,’ said Mr. [[Pickwick]], ‘for disturbing
 your domestic arrangements at so short a notice.’
 
 ‘I beg you won’t mention it, sir,’ replied the feminine Pott, with
@@ -113,7 +113,7 @@ and seeing nobody.’
 
 ‘Nobody but you,’ retorted Mrs. Pott, with asperity.
 
-‘You see, Mr. Pickwick,’ said the host in explanation of his wife’s
+‘You see, Mr. [[Pickwick]],’ said the host in explanation of his wife’s
 lament, ‘that we are in some measure cut off from many enjoyments and
 pleasures of which we might otherwise partake. My public station, as
 editor of the Eatanswill _Gazette_, the position which that paper holds
@@ -126,10 +126,10 @@ in the country, my constant immersion in the vortex of politics--’
 ‘I wish, my dear, you would endeavour to find some topic of conversation
 in which these gentlemen might take some rational interest.’
 
-‘But, my love,’ said Mr. Pott, with great humility, ‘Mr. Pickwick does
+‘But, my [[Love|love]],’ said Mr. Pott, with great [[Humility|humility]], ‘Mr. [[Pickwick]] does
 take an interest in it.’
 
-‘It’s well for him if he can,’ said Mrs. Pott emphatically; ‘I am
+‘It’s [[Well|well]] for him if he can,’ said Mrs. Pott emphatically; ‘I am
 wearied out of my life with your politics, and quarrels with the
 _Independent_, and nonsense. I am quite astonished, P., at your making
 such an exhibition of your absurdity.’
@@ -141,17 +141,17 @@ Sir?’
 
 ‘I shall be very happy to learn under your tuition,’ replied Mr. Winkle.
 
-‘Well, then, draw that little table into this window, and let me get out
+‘[[Well]], then, draw that little table into this [[Window|window]], and let me get out
 of hearing of those prosy politics.’
 
 ‘Jane,’ said Mr. Pott, to the servant who brought in candles, ‘go down
 into the office, and bring me up the file of the _Gazette_ for eighteen
 hundred and twenty-six. I’ll read you,’ added the editor, turning to Mr.
-Pickwick--‘I’ll just read you a few of the leaders I wrote at that time
+[[Pickwick]]--‘I’ll just read you a few of the leaders I wrote at that [[Time|time]]
 upon the Buff job of appointing a new tollman to the turnpike here; I
 rather think they’ll amuse you.’
 
-‘I should like to hear them very much indeed,’ said Mr. Pickwick.
+‘I should like to hear them very much indeed,’ said Mr. [[Pickwick]].
 
-Up came the file, and down sat the editor, with Mr. Pickwick at his
+Up came the file, and down sat the editor, with Mr. [[Pickwick]] at his
 side.

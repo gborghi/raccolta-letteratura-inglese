@@ -1,5 +1,5 @@
 ---
-title: "CharlesDickens — Chapter 2 (part 4)"
+title: "[[CharlesDickens]] — Chapter 2 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/CharlesDickens-(Chesterton)"
@@ -28,7 +28,7 @@ If he learnt to whitewash the universe, it was in a blacking
 factory that he learnt it.
 
 As a fact, there is no shred of evidence to show that those
-who have had sad experiences tend to have a sad philosophy.
+who have had sad experiences tend to have a sad [[philosophy]].
 There are numberless points upon which Dickens is spiritually
 at one with the poor, that is, with the great mass of mankind.
 But there is no point in which he is more perfectly at one
@@ -49,13 +49,13 @@ not merely sing about the goodness of life, he positively
 rants and cants about it.  Rousseau, whom all his friends
 and acquaintances treated almost as badly as he treated them--
 Rousseau does not grow merely eloquent, he grows gushing
-and sentimental, about the inherent goodness of human nature.
+and sentimental, about the inherent goodness of human [[Nature|nature]].
 Charles Dickens, who was most miserable at the receptive age when
 most people are most happy, is afterwards happy when all men weep.
 Circumstances break men's bones; it has never been shown
 that they break men's optimism.  These great popular leaders
 do all kinds of desperate things under the immediate scourge
-of tragedy.  They become drunkards; they become demagogues;
+of [[Tragedy|tragedy]].  They become drunkards; they become demagogues;
 they become morphomaniacs.  They never become pessimists.
 Most unquestionably there are ragged and unhappy men whom we
 could easily understand being pessimists.  But as a matter
@@ -69,7 +69,7 @@ a cheap optimism; they are too poor to afford a dear one.
 They cannot indulge in any detailed or merely logical defence of life;
 that would be to delay the enjoyment of it.  These higher optimists,
 of whom Dickens was one, do not approve of the universe;
-they do not even admire the universe; they fall in love with it.
+they do not even admire the universe; they fall in [[Love|love]] with it.
 They embrace life too close to criticise or even to see it.
-Existence to such men has the wild beauty of a woman, and those
-love her with most intensity who love her with least cause.
+Existence to such men has the wild [[Beauty|beauty]] of a woman, and those
+[[Love|love]] her with most intensity who [[Love|love]] her with least cause.

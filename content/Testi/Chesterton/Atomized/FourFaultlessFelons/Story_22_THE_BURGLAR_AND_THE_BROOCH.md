@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE BURGLAR AND THE BROOCH"
+title: "[[FourFaultlessFelons]] — THE BURGLAR AND THE BROOCH"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"

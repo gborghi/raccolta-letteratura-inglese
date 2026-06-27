@@ -20,7 +20,7 @@ again, Mr Nandy. We shall soon be there now.’
 So she talked to him as she had talked before, and they came to the
 Lodge and found Mr Chivery on the lock, and went in. Now, it happened
 that the Father of the Marshalsea was sauntering towards the Lodge at
-the moment when they were coming out of it, entering the prison arm in
+the moment when they were coming out of it, entering the [[Prison|prison]] arm in
 arm. As the spectacle of their approach met his view, he displayed the
 utmost agitation and despondency of mind; and--altogether regardless of
 Old Nandy, who, making his reverence, stood with his hat in his hand, as
@@ -34,22 +34,22 @@ following her, and flouncing up with offended dignity. The three came
 into the room almost together; and the Father sat down in his chair,
 buried his face in his hands, and uttered a groan.
 
-‘Of course,’ said Fanny. ‘Very proper. Poor, afflicted Pa! Now, I hope
+‘Of course,’ said Fanny. ‘Very proper. Poor, afflicted Pa! Now, I [[Hope|hope]]
 you believe me, Miss?’
 
 ‘What is it, father?’ cried Little Dorrit, bending over him. ‘Have I
-made you unhappy, father? Not I, I hope!’
+made you unhappy, father? Not I, I [[Hope|hope]]!’
 
-‘You hope, indeed! I dare say! Oh, you’--Fanny paused for a sufficiently
+‘You [[Hope|hope]], indeed! I dare say! Oh, you’--Fanny paused for a sufficiently
 strong expression--‘you Common-minded little Amy! You complete
-prison-child!’
+[[Prison|prison]]-[[Child|child]]!’
 
 He stopped these angry reproaches with a wave of his hand, and sobbed
-out, raising his face and shaking his melancholy head at his younger
-daughter, ‘Amy, I know that you are innocent in intention. But you
-have cut me to the soul.’
+out, raising his face and shaking his [[Melancholy|melancholy]] head at his younger
+daughter, ‘Amy, I know that you are [[Innocent|innocent]] in intention. But you
+have cut me to the [[Soul|soul]].’
 
-‘Innocent in intention!’ the implacable Fanny struck in. ‘Stuff in
+‘[[Innocent]] in intention!’ the implacable Fanny struck in. ‘Stuff in
 intention! Low in intention! Lowering of the family in intention!’
 
 ‘Father!’ cried Little Dorrit, pale and trembling. ‘I am very sorry.
@@ -57,7 +57,7 @@ Pray forgive me. Tell me how it is, that I may not do it again!’
 
 ‘How it is, you prevaricating little piece of goods!’ cried Fanny. ‘You
 know how it is. I have told you already, so don’t fly in the face of
-Providence by attempting to deny it!’
+[[Providence]] by attempting to deny it!’
 
 ‘Hush! Amy,’ said the father, passing his pocket-handkerchief several
 times across his face, and then grasping it convulsively in the hand
@@ -89,8 +89,8 @@ you to be comforted and overlook it. But if I had not known that you
 were kind to the old man yourself, and took much notice of him, and were
 always glad to see him, I would not have come here with him, father, I
 would not, indeed. What I have been so unhappy as to do, I have done
-in mistake. I would not wilfully bring a tear to your eyes, dear love!’
-said Little Dorrit, her heart well-nigh broken, ‘for anything the world
+in mistake. I would not wilfully bring a tear to your eyes, dear [[Love|love]]!’
+said Little Dorrit, her heart [[Well|well]]-nigh broken, ‘for anything the world
 could give me, or anything it could take away.’
 
 Fanny, with a partly angry and partly repentant sob, began to cry
@@ -101,24 +101,24 @@ with everybody else--that she wished she were dead.
 The Father of the Marshalsea in the meantime took his younger daughter
 to his breast, and patted her head.
 
-‘There, there! Say no more, Amy, say no more, my child. I will forget it
+‘There, there! Say no more, Amy, say no more, my [[Child|child]]. I will forget it
 as soon as I can. I,’ with hysterical cheerfulness, ‘I--shall soon be
 able to dismiss it. It is perfectly true, my dear, that I am always glad
 to see my old pensioner--as such, as such--and that I do--ha--extend as
 much protection and kindness to the--hum--the bruised reed--I trust I
 may so call him without impropriety--as in my circumstances, I can. It
-is quite true that this is the case, my dear child. At the same
-time, I preserve in doing this, if I may--ha--if I may use the
+is quite true that this is the case, my dear [[Child|child]]. At the same
+[[Time|time]], I preserve in doing this, if I may--ha--if I may use the
 expression--Spirit. Becoming Spirit. And there are some things which
 are,’ he stopped to sob, ‘irreconcilable with that, and wound
 that--wound it deeply. It is not that I have seen my good Amy
 attentive, and--ha--condescending to my old pensioner--it is not _that_
 that hurts me. It is, if I am to close the painful subject by being
-explicit, that I have seen my child, my own child, my own daughter,
+explicit, that I have seen my [[Child|child]], my own [[Child|child]], my own daughter,
 coming into this College out of the public streets--smiling!
 smiling!--arm in arm with--O my God, a livery!’
 
-This reference to the coat of no cut and no time, the unfortunate
+This reference to the coat of no cut and no [[Time|time]], the unfortunate
 gentleman gasped forth, in a scarcely audible voice, and with his
 clenched pocket-handkerchief raised in the air. His excited feelings
 might have found some further painful utterance, but for a knock at the

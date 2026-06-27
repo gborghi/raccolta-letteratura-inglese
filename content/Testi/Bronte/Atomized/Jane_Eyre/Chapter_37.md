@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 37"
+title: "[[Jane Eyre]] — Chapter 37"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -17,21 +17,21 @@ tags:
 CHAPTER XXXVII
 
 
-The manor-house of Ferndean was a building of considerable antiquity,
+The manor-[[house]] of Ferndean was a building of considerable antiquity,
 moderate size, and no architectural pretensions, deep buried in a wood.
 I had heard of it before. Mr. Rochester often spoke of it, and
 sometimes went there. His father had purchased the estate for the sake
-of the game covers. He would have let the house, but could find no
+of the game covers. He would have let the [[house]], but could find no
 tenant, in consequence of its ineligible and insalubrious site.
 Ferndean then remained uninhabited and unfurnished, with the exception
 of some two or three rooms fitted up for the accommodation of the
 squire when he went there in the season to shoot.
 
-To this house I came just ere dark on an evening marked by the
+To this [[house]] I came just ere dark on an evening marked by the
 characteristics of sad sky, cold gale, and continued small penetrating
 rain. The last mile I performed on foot, having dismissed the chaise
-and driver with the double remuneration I had promised. Even when
-within a very short distance of the manor-house, you could see nothing
+and driver with the [[Double|double]] remuneration I had promised. Even when
+within a very short distance of the manor-[[house]], you could see nothing
 of it, so thick and dark grew the timber of the gloomy wood about it.
 Iron gates between granite pillars showed me where to enter, and
 passing through them, I found myself at once in the twilight of
@@ -42,22 +42,22 @@ and on, it wound far and farther: no sign of habitation or grounds was
 visible.
 
 I thought I had taken a wrong direction and lost my way. The darkness
-of natural as well as of sylvan dusk gathered over me. I looked round
-in search of another road. There was none: all was interwoven stem,
-columnar trunk, dense summer foliage—no opening anywhere.
+of natural as [[Well|well]] as of sylvan dusk gathered over me. I looked round
+in search of another [[Road|road]]. There was none: all was interwoven stem,
+columnar trunk, dense [[Summer|summer]] foliage—no opening anywhere.
 
 I proceeded: at last my way opened, the trees thinned a little;
-presently I beheld a railing, then the house—scarce, by this dim light,
+presently I beheld a railing, then the [[house]]—scarce, by this dim light,
 distinguishable from the trees; so dank and green were its decaying
 walls. Entering a portal, fastened only by a latch, I stood amidst a
 space of enclosed ground, from which the wood swept away in a
-semicircle. There were no flowers, no garden-beds; only a broad
+semicircle. There were no [[Flowers|flowers]], no [[Garden|garden]]-beds; only a broad
 gravel-walk girdling a grass-plat, and this set in the heavy frame of
-the forest. The house presented two pointed gables in its front; the
+the forest. The [[house]] presented two pointed gables in its front; the
 windows were latticed and narrow: the front door was narrow too, one
 step led up to it. The whole looked, as the host of the Rochester Arms
 had said, “quite a desolate spot.” It was as still as a church on a
-week-day: the pattering rain on the forest leaves was the only sound
+week-day: the pattering rain on the forest [[Leaves|leaves]] was the only sound
 audible in its vicinage.
 
 “Can there be life here?” I asked.
@@ -73,7 +73,7 @@ master, Edward Fairfax Rochester, and no other.
 
 I stayed my step, almost my breath, and stood to watch him—to examine
 him, myself unseen, and alas! to him invisible. It was a sudden
-meeting, and one in which rapture was kept well in check by pain. I had
+meeting, and one in which rapture was kept [[Well|well]] in check by [[Pain|pain]]. I had
 no difficulty in restraining my voice from exclamation, my step from
 hasty advance.
 
@@ -87,7 +87,7 @@ to approach in his sullen woe. The caged eagle, whose gold-ringed eyes
 cruelty has extinguished, might look as looked that sightless Samson.
 
 And, reader, do you think I feared him in his blind ferocity?—if you
-do, you little know me. A soft hope blent with my sorrow that soon I
+do, you little know me. A soft [[Hope|hope]] blent with my sorrow that soon I
 should dare to drop a kiss on that brow of rock, and on those lips so
 sternly sealed beneath it: but not yet. I would not accost him yet.
 
@@ -107,25 +107,25 @@ quarter.
 “Will you take my arm, sir?” he said; “there is a heavy shower coming
 on: had you not better go in?”
 
-“Let me alone,” was the answer.
+“Let me [[Alone|alone]],” was the answer.
 
 John withdrew without having observed me. Mr. Rochester now tried to
 walk about: vainly,—all was too uncertain. He groped his way back to
-the house, and, re-entering it, closed the door.
+the [[house]], and, re-entering it, closed the door.
 
 I now drew near and knocked: John’s wife opened for me. “Mary,” I said,
 “how are you?”
 
-She started as if she had seen a ghost: I calmed her. To her hurried
+She started as if she had seen a [[Ghost|ghost]]: I calmed her. To her hurried
 “Is it really you, miss, come at this late hour to this lonely place?”
 I answered by taking her hand; and then I followed her into the
-kitchen, where John now sat by a good fire. I explained to them, in few
+kitchen, where John now sat by a good [[Fire|fire]]. I explained to them, in few
 words, that I had heard all which had happened since I left Thornfield,
 and that I was come to see Mr. Rochester. I asked John to go down to
-the turn-pike-house, where I had dismissed the chaise, and bring my
+the turn-pike-[[house]], where I had dismissed the chaise, and bring my
 trunk, which I had left there: and then, while I removed my bonnet and
 shawl, I questioned Mary as to whether I could be accommodated at the
-Manor House for the night; and finding that arrangements to that
+Manor [[house|House]] for the [[Night|night]]; and finding that arrangements to that
 effect, though difficult, would not be impossible, I informed her I
 should stay. Just at this moment the parlour-bell rang.
 
@@ -137,7 +137,7 @@ speak to him, but do not give my name.”
 When she returned, I inquired what he had said.
 
 “You are to send in your name and your business,” she replied. She then
-proceeded to fill a glass with water, and place it on a tray, together
+proceeded to fill a glass with [[Water|water]], and place it on a tray, together
 with candles.
 
 “Is that what he rang for?” I asked.
@@ -147,10 +147,10 @@ with candles.
 “Give the tray to me; I will carry it in.”
 
 I took it from her hand: she pointed me out the parlour door. The tray
-shook as I held it; the water spilt from the glass; my heart struck my
+shook as I held it; the [[Water|water]] spilt from the glass; my heart struck my
 ribs loud and fast. Mary opened the door for me, and shut it behind me.
 
-This parlour looked gloomy: a neglected handful of fire burnt low in
+This parlour looked gloomy: a neglected handful of [[Fire|fire]] burnt low in
 the grate; and, leaning over it, with his head supported against the
 high, old-fashioned mantelpiece, appeared the blind tenant of the room.
 His old dog, Pilot, lay on one side, removed out of the way, and coiled
@@ -161,14 +161,14 @@ on the table; then patted him, and said softly, “Lie down!” Mr.
 Rochester turned mechanically to _see_ what the commotion was: but as
 he _saw_ nothing, he returned and sighed.
 
-“Give me the water, Mary,” he said.
+“Give me the [[Water|water]], Mary,” he said.
 
 I approached him with the now only half-filled glass; Pilot followed
 me, still excited.
 
 “What is the matter?” he inquired.
 
-“Down, Pilot!” I again said. He checked the water on its way to his
+“Down, Pilot!” I again said. He checked the [[Water|water]] on its way to his
 lips, and seemed to listen: he drank, and put the glass down. “This is
 you, Mary, is it not?”
 
@@ -180,7 +180,7 @@ as it seemed, to _see_ with those sightless eyes—unavailing and
 distressing attempt! “Answer me—speak again!” he ordered, imperiously
 and aloud.
 
-“Will you have a little more water, sir? I spilt half of what was in
+“Will you have a little more [[Water|water]], sir? I spilt half of what was in
 the glass,” I said.
 
 “_Who_ is it? _What_ is it? Who speaks?”
@@ -188,10 +188,10 @@ the glass,” I said.
 “Pilot knows me, and John and Mary know I am here. I came only this
 evening,” I answered.
 
-“Great God!—what delusion has come over me? What sweet madness has
+“Great God!—what delusion has come over me? What sweet [[Madness|madness]] has
 seized me?”
 
-“No delusion—no madness: your mind, sir, is too strong for delusion,
+“No delusion—no [[Madness|madness]]: your mind, sir, is too strong for delusion,
 your health too sound for frenzy.”
 
 “And where is the speaker? Is it only a voice? Oh! I _cannot_ see, but
@@ -211,19 +211,19 @@ shoulder—neck—waist—I was entwined and gathered to him.
 “And this her voice,” I added. “She is all here: her heart, too. God
 bless you, sir! I am glad to be so near you again.”
 
-“Jane Eyre!—Jane Eyre,” was all he said.
+“[[Jane Eyre]]!—[[Jane Eyre]],” was all he said.
 
-“My dear master,” I answered, “I am Jane Eyre: I have found you out—I
+“My dear master,” I answered, “I am [[Jane Eyre]]: I have found you out—I
 am come back to you.”
 
-“In truth?—in the flesh? My living Jane?”
+“In [[Truth|truth]]?—in the flesh? My living Jane?”
 
 “You touch me, sir,—you hold me, and fast enough: I am not cold like a
 corpse, nor vacant like air, am I?”
 
 “My living darling! These are certainly her limbs, and these her
-features; but I cannot be so blest, after all my misery. It is a dream;
-such dreams as I have had at night when I have clasped her once more to
+features; but I cannot be so blest, after all my misery. It is [[A Dream|a dream]];
+such [[Dreams|dreams]] as I have had at [[Night|night]] when I have clasped her once more to
 my heart, as I do now; and kissed her, as thus—and felt that she loved
 me, and trusted that she would not leave me.”
 
@@ -231,7 +231,7 @@ me, and trusted that she would not leave me.”
 
 “Never will, says the vision? But I always woke and found it an empty
 mockery; and I was desolate and abandoned—my life dark, lonely,
-hopeless—my soul athirst and forbidden to drink—my heart famished and
+hopeless—my [[Soul|soul]] athirst and forbidden to drink—my heart famished and
 never to be fed. Gentle, soft dream, nestling in my arms now, you will
 fly, too, as your sisters have all fled before you: but kiss me before
 you go—embrace me, Jane.”
@@ -257,26 +257,26 @@ not a pining outcast amongst strangers?”
 
 “Ah! this is practical—this is real!” he cried: “I should never dream
 that. Besides, there is that peculiar voice of hers, so animating and
-piquant, as well as soft: it cheers my withered heart; it puts life
+piquant, as [[Well|well]] as soft: it cheers my withered heart; it puts life
 into it.—What, Janet! Are you an independent woman? A rich woman?”
 
 “Quite rich, sir. If you won’t let me live with you, I can build a
-house of my own close up to your door, and you may come and sit in my
+[[house]] of my own close up to your door, and you may come and sit in my
 parlour when you want company of an evening.”
 
-“But as you are rich, Jane, you have now, no doubt, friends who will
+“But as you are rich, Jane, you have now, no [[Doubt|doubt]], friends who will
 look after you, and not suffer you to devote yourself to a blind
 lameter like me?”
 
-“I told you I am independent, sir, as well as rich: I am my own
+“I told you I am independent, sir, as [[Well|well]] as rich: I am my own
 mistress.”
 
 “And you will stay with me?”
 
-“Certainly—unless you object. I will be your neighbour, your nurse,
+“Certainly—unless you object. I will be your neighbour, your [[Nurse|nurse]],
 your housekeeper. I find you lonely: I will be your companion—to read
 to you, to walk with you, to sit with you, to wait on you, to be eyes
-and hands to you. Cease to look so melancholy, my dear master; you
+and hands to you. Cease to look so [[Melancholy|melancholy]], my dear master; you
 shall not be left desolate, so long as I live.”
 
 He replied not: he seemed serious—abstracted; he sighed; he half-opened
@@ -288,7 +288,7 @@ to be his wife: an expectation, not the less certain because
 unexpressed, had buoyed me up, that he would claim me at once as his
 own. But no hint to that effect escaping him and his countenance
 becoming more overcast, I suddenly remembered that I might have been
-all wrong, and was perhaps playing the fool unwittingly; and I began
+all wrong, and was perhaps playing the [[Fool|fool]] unwittingly; and I began
 gently to withdraw myself from his arms—but he eagerly snatched me
 closer.
 
@@ -296,23 +296,23 @@ closer.
 the comfort of your presence—the sweetness of your consolation: I
 cannot give up these joys. I have little left in myself—I must have
 you. The world may laugh—may call me absurd, selfish—but it does not
-signify. My very soul demands you: it will be satisfied, or it will
+signify. My very [[Soul|soul]] demands you: it will be satisfied, or it will
 take deadly vengeance on its frame.”
 
-“Well, sir, I will stay with you: I have said so.”
+“[[Well]], sir, I will stay with you: I have said so.”
 
 “Yes—but you understand one thing by staying with me; and I understand
 another. You, perhaps, could make up your mind to be about my hand and
-chair—to wait on me as a kind little nurse (for you have an
+chair—to wait on me as a kind little [[Nurse|nurse]] (for you have an
 affectionate heart and a generous spirit, which prompt you to make
 sacrifices for those you pity), and that ought to suffice for me no
-doubt. I suppose I should now entertain none but fatherly feelings for
+[[Doubt|doubt]]. I suppose I should now entertain none but fatherly feelings for
 you: do you think so? Come—tell me.”
 
-“I will think what you like, sir: I am content to be only your nurse,
+“I will think what you like, sir: I am content to be only your [[Nurse|nurse]],
 if you think it better.”
 
-“But you cannot always be my nurse, Janet: you are young—you must marry
+“But you cannot always be my [[Nurse|nurse]], Janet: you are young—you must marry
 one day.”
 
 “I don’t care about being married.”
@@ -321,32 +321,32 @@ one day.”
 you care—but—a sightless block!”
 
 He relapsed again into gloom. I, on the contrary, became more cheerful,
-and took fresh courage: these last words gave me an insight as to where
+and took fresh [[Courage|courage]]: these last words gave me an insight as to where
 the difficulty lay; and as it was no difficulty with me, I felt quite
 relieved from my previous embarrassment. I resumed a livelier vein of
 conversation.
 
-“It is time some one undertook to rehumanise you,” said I, parting his
+“It is [[Time|time]] some one undertook to rehumanise you,” said I, parting his
 thick and long uncut locks; “for I see you are being metamorphosed into
-a lion, or something of that sort. You have a ‘faux air’ of
+a [[Lion|lion]], or something of that sort. You have a ‘faux air’ of
 Nebuchadnezzar in the fields about you, that is certain: your hair
 reminds me of eagles’ feathers; whether your nails are grown like
-birds’ claws or not, I have not yet noticed.”
+[[Birds|birds]]’ claws or not, I have not yet noticed.”
 
 “On this arm, I have neither hand nor nails,” he said, drawing the
 mutilated limb from his breast, and showing it to me. “It is a mere
 stump—a ghastly sight! Don’t you think so, Jane?”
 
 “It is a pity to see it; and a pity to see your eyes—and the scar of
-fire on your forehead: and the worst of it is, one is in danger of
-loving you too well for all this; and making too much of you.”
+[[Fire|fire]] on your forehead: and the worst of it is, one is in danger of
+loving you too [[Well|well]] for all this; and making too much of you.”
 
 “I thought you would be revolted, Jane, when you saw my arm, and my
 cicatrised visage.”
 
 “Did you? Don’t tell me so—lest I should say something disparaging to
-your judgment. Now, let me leave you an instant, to make a better fire,
-and have the hearth swept up. Can you tell when there is a good fire?”
+your judgment. Now, let me leave you an instant, to make a better [[Fire|fire]],
+and have the hearth swept up. Can you tell when there is a good [[Fire|fire]]?”
 
 “Yes; with the right eye I see a glow—a ruddy haze.”
 
@@ -362,16 +362,16 @@ and have the hearth swept up. Can you tell when there is a good fire?”
 
 “I never take supper.”
 
-“But you shall have some to-night. I am hungry: so are you, I daresay,
+“But you shall have some to-[[Night|night]]. I am hungry: so are you, I daresay,
 only you forget.”
 
 Summoning Mary, I soon had the room in more cheerful order: I prepared
 him, likewise, a comfortable repast. My spirits were excited, and with
-pleasure and ease I talked to him during supper, and for a long time
+pleasure and ease I talked to him during supper, and for a long [[Time|time]]
 after. There was no harassing restraint, no repressing of glee and
 vivacity with him; for with him I was at perfect ease, because I knew I
 suited him; all I said or did seemed either to console or revive him.
-Delightful consciousness! It brought to life and light my whole nature:
+Delightful consciousness! It brought to life and light my whole [[Nature|nature]]:
 in his presence I thoroughly lived; and he lived in mine. Blind as he
 was, smiles played over his face, joy dawned on his forehead: his
 lineaments softened and warmed.
@@ -379,10 +379,10 @@ lineaments softened and warmed.
 After supper, he began to ask me many questions, of where I had been,
 what I had been doing, how I had found him out; but I gave him only
 very partial replies: it was too late to enter into particulars that
-night. Besides, I wished to touch no deep-thrilling chord—to open no
-fresh well of emotion in his heart: my sole present aim was to cheer
+[[Night|night]]. Besides, I wished to touch no deep-thrilling chord—to open no
+fresh [[Well|well]] of emotion in his heart: my sole present aim was to cheer
 him. Cheered, as I have said, he was: and yet but by fits. If a
-moment’s silence broke the conversation, he would turn restless, touch
+moment’s [[Silence|silence]] broke the conversation, he would turn restless, touch
 me, then say, “Jane.”
 
 “You are altogether a human being, Jane? You are certain of that?”
@@ -393,7 +393,7 @@ You are altogether a human being, Jane? You are certain of that?
 “I conscientiously believe so, Mr. Rochester.”
 
 “Yet how, on this dark and doleful evening, could you so suddenly rise
-on my lone hearth? I stretched my hand to take a glass of water from a
+on my lone hearth? I stretched my hand to take a glass of [[Water|water]] from a
 hireling, and it was given me by you: I asked a question, expecting
 John’s wife to answer me, and your voice spoke at my ear.”
 
@@ -401,13 +401,13 @@ John’s wife to answer me, and your voice spoke at my ear.”
 
 “And there is enchantment in the very hour I am now spending with you.
 Who can tell what a dark, dreary, hopeless life I have dragged on for
-months past? Doing nothing, expecting nothing; merging night in day;
-feeling but the sensation of cold when I let the fire go out, of hunger
+months past? Doing nothing, expecting nothing; merging [[Night|night]] in day;
+feeling but the sensation of cold when I let the [[Fire|fire]] go out, of hunger
 when I forgot to eat: and then a ceaseless sorrow, and, at times, a
-very delirium of desire to behold my Jane again. Yes: for her
+very delirium of [[Desire|desire]] to behold my Jane again. Yes: for her
 restoration I longed, far more than for that of my lost sight. How can
 it be that Jane is with me, and says she loves me? Will she not depart
-as suddenly as she came? To-morrow, I fear I shall find her no more.”
+as suddenly as she came? To-morrow, I [[Fear|fear]] I shall find her no more.”
 
 A commonplace, practical reply, out of the train of his own disturbed
 ideas, was, I was sure, the best and most reassuring for him in this
@@ -416,7 +416,7 @@ they were scorched, and that I would apply something which would make
 them grow as broad and black as ever.
 
 “Where is the use of doing me good in any way, beneficent spirit, when,
-at some fatal moment, you will again desert me—passing like a shadow,
+at some fatal moment, you will again [[Desert|desert]] me—passing like a [[Shadow|shadow]],
 whither and how to me unknown, and for me remaining afterwards
 undiscoverable?”
 
@@ -447,11 +447,11 @@ substantiality.”
 
 “Who have you been with, Jane?”
 
-“You shall not get it out of me to-night, sir; you must wait till
+“You shall not get it out of me to-[[Night|night]], sir; you must wait till
 to-morrow; to leave my tale half told, will, you know, be a sort of
 security that I shall appear at your breakfast table to finish it. By
 the bye, I must mind not to rise on your hearth with only a glass of
-water then: I must bring an egg at the least, to say nothing of fried
+[[Water|water]] then: I must bring an egg at the least, to say nothing of fried
 ham.”
 
 “You mocking changeling—fairy-born and human-bred! You make me feel as
@@ -461,14 +461,14 @@ harp.”
 
 “There, sir, you are redd up and made decent. Now I’ll leave you: I
 have been travelling these last three days, and I believe I am tired.
-Good night.”
+Good [[Night|night]].”
 
-“Just one word, Jane: were there only ladies in the house where you
+“Just one word, Jane: were there only ladies in the [[house]] where you
 have been?”
 
 I laughed and made my escape, still laughing as I ran upstairs. “A good
 idea!” I thought with glee. “I see I have the means of fretting him out
-of his melancholy for some time to come.”
+of his [[Melancholy|melancholy]] for some [[Time|time]] to come.”
 
 Very early the next morning I heard him up and astir, wandering from
 one room to another. As soon as Mary came down I heard the question:
@@ -496,19 +496,19 @@ I had wakened the glow: his features beamed.
 
 “Oh, you are indeed there, my skylark! Come to me. You are not gone:
 not vanished? I heard one of your kind an hour ago, singing high over
-the wood: but its song had no music for me, any more than the rising
+the wood: but its [[Song|song]] had no music for me, any more than the rising
 sun had rays. All the melody on earth is concentrated in my Jane’s
 tongue to my ear (I am glad it is not naturally a silent one): all the
 sunshine I can feel is in her presence.”
 
-The water stood in my eyes to hear this avowal of his dependence; just
+The [[Water|water]] stood in my eyes to hear this avowal of his dependence; just
 as if a royal eagle, chained to a perch, should be forced to entreat a
 sparrow to become its purveyor. But I would not be lachrymose: I dashed
 off the salt drops, and busied myself with preparing breakfast.
 
 Most of the morning was spent in the open air. I led him out of the wet
 and wild wood into some cheerful fields: I described to him how
-brilliantly green they were; how the flowers and hedges looked
+brilliantly green they were; how the [[Flowers|flowers]] and hedges looked
 refreshed; how sparklingly blue was the sky. I sought a seat for him in
 a hidden and lovely spot, a dry stump of a tree; nor did I refuse to
 let him, when seated, place me on his knee. Why should I, when both he
@@ -527,21 +527,21 @@ did she do? Let me hear now.”
 Thus urged, I began the narrative of my experience for the last year. I
 softened considerably what related to the three days of wandering and
 starvation, because to have told him all would have been to inflict
-unnecessary pain: the little I did say lacerated his faithful heart
+unnecessary [[Pain|pain]]: the little I did say lacerated his faithful heart
 deeper than I wished.
 
 I should not have left him thus, he said, without any means of making
 my way: I should have told him my intention. I should have confided in
 him: he would never have forced me to be his mistress. Violent as he
-had seemed in his despair, he, in truth, loved me far too well and too
-tenderly to constitute himself my tyrant: he would have given me half
+had seemed in his [[Despair|despair]], he, in [[Truth|truth]], loved me far too [[Well|well]] and too
+tenderly to constitute himself my [[Tyrant|tyrant]]: he would have given me half
 his fortune, without demanding so much as a kiss in return, rather than
 I should have flung myself friendless on the wide world. I had endured,
 he was certain, more than I had confessed to him.
 
-“Well, whatever my sufferings had been, they were very short,” I
+“[[Well]], whatever my sufferings had been, they were very short,” I
 answered: and then I proceeded to tell him how I had been received at
-Moor House; how I had obtained the office of schoolmistress, &c. The
+Moor [[house|House]]; how I had obtained the office of schoolmistress, &c. The
 accession of fortune, the discovery of my relations, followed in due
 order. Of course, St. John Rivers’ name came in frequently in the
 progress of my tale. When I had done, that name was immediately taken
@@ -555,7 +555,7 @@ up.
 
 “He was a very good man, sir; I could not help liking him.”
 
-“A good man. Does that mean a respectable well-conducted man of fifty?
+“A good man. Does that mean a respectable [[Well|well]]-conducted man of fifty?
 Or what does it mean?”
 
 “St John was only twenty-nine, sir.”
@@ -567,7 +567,7 @@ guiltlessness of vice, than in his prowess in virtue.”
 “He is untiringly active. Great and exalted deeds are what he lives to
 perform.”
 
-“But his brain? That is probably rather soft? He means well: but you
+“But his brain? That is probably rather soft? He means [[Well|well]]: but you
 shrug your shoulders to hear him talk?”
 
 “He talks little, sir: what he does say is ever to the point. His brain
@@ -591,16 +591,16 @@ they must suit it; they are polished, calm, and gentlemanlike.”
 appearance;—a sort of raw curate, half strangled with his white
 neckcloth, and stilted up on his thick-soled high-lows, eh?”
 
-“St. John dresses well. He is a handsome man: tall, fair, with blue
+“St. John dresses [[Well|well]]. He is a handsome man: tall, fair, with blue
 eyes, and a Grecian profile.”
 
 (Aside.) “Damn him!”—(To me.) “Did you like him, Jane?”
 
 “Yes, Mr. Rochester, I liked him: but you asked me that before.”
 
-I perceived, of course, the drift of my interlocutor. Jealousy had got
+I perceived, of course, the drift of my interlocutor. [[Jealousy]] had got
 hold of him: she stung him; but the sting was salutary: it gave him
-respite from the gnawing fang of melancholy. I would not, therefore,
+respite from the gnawing fang of [[Melancholy|melancholy]]. I would not, therefore,
 immediately charm the snake.
 
 “Perhaps you would rather not sit any longer on my knee, Miss Eyre?”
@@ -610,7 +610,7 @@ was the next somewhat unexpected observation.
 
 “The picture you have just drawn is suggestive of a rather too
 overwhelming contrast. Your words have delineated very prettily a
-graceful Apollo: he is present to your imagination,—tall, fair,
+graceful [[Apollo]]: he is present to your [[Imagination|imagination]],—tall, fair,
 blue-eyed, and with a Grecian profile. Your eyes dwell on a Vulcan,—a
 real blacksmith, brown, broad-shouldered: and blind and lame into the
 bargain.”
@@ -618,13 +618,13 @@ bargain.”
 “I never thought of it, before; but you certainly are rather like
 Vulcan, sir.”
 
-“Well, you can leave me, ma’am: but before you go” (and he retained me
+“[[Well]], you can leave me, ma’am: but before you go” (and he retained me
 by a firmer grasp than ever), “you will be pleased just to answer me a
 question or two.” He paused.
 
 “What questions, Mr. Rochester?”
 
-Then followed this cross-examination.
+Then followed this [[Cross|cross]]-examination.
 
 “St. John made you schoolmistress of Morton before he knew you were his
 cousin?”
@@ -661,10 +661,10 @@ was discovered?”
 
 “Five months.”
 
-“Did Rivers spend much time with the ladies of his family?”
+“Did Rivers spend much [[Time|time]] with the ladies of his family?”
 
 “Yes; the back parlour was both his study and ours: he sat near the
-window, and we by the table.”
+[[Window|window]], and we by the table.”
 
 “Did he study much?”
 
@@ -718,7 +718,7 @@ A second pause.
 
 “That is a fiction—an impudent invention to vex me.”
 
-“I beg your pardon, it is the literal truth: he asked me more than
+“I beg your pardon, it is the literal [[Truth|truth]]: he asked me more than
 once, and was as stiff about urging his point as ever you could be.”
 
 “Miss Eyre, I repeat it, you can leave me. How often am I to say the
@@ -731,16 +731,16 @@ have given you notice to quit?”
 with me: it is with this cousin—this St. John. Oh, till this moment, I
 thought my little Jane was all mine! I had a belief she loved me even
 when she left me: that was an atom of sweet in much bitter. Long as we
-have been parted, hot tears as I have wept over our separation, I never
+have been parted, hot [[Tears|tears]] as I have wept over our separation, I never
 thought that while I was mourning her, she was loving another! But it
 is useless grieving. Jane, leave me: go and marry Rivers.”
 
 “Shake me off, then, sir,—push me away, for I’ll not leave you of my
 own accord.”
 
-“Jane, I ever like your tone of voice: it still renews hope, it sounds
+“Jane, I ever like your tone of voice: it still renews [[Hope|hope]], it sounds
 so truthful. When I hear it, it carries me back a year. I forget that
-you have formed a new tie. But I am not a fool—go—”
+you have formed a new tie. But I am not a [[Fool|fool]]—go—”
 
 “Where must I go, sir?”
 
@@ -750,8 +750,8 @@ you have formed a new tie. But I am not a fool—go—”
 
 “You know—this St. John Rivers.”
 
-“He is not my husband, nor ever will be. He does not love me: I do not
-love him. He loves (as he _can_ love, and that is not as you love) a
+“He is not my husband, nor ever will be. He does not [[Love|love]] me: I do not
+[[Love|love]] him. He loves (as he _can_ [[Love|love]], and that is not as you [[Love|love]]) a
 beautiful young lady called Rosamond. He wanted to marry me only
 because he thought I should make a suitable missionary’s wife, which
 she would not have done. He is good and great, but severe; and, for me,
@@ -768,10 +768,10 @@ you and Rivers?”
 
 “Absolutely, sir! Oh, you need not be jealous! I wanted to tease you a
 little to make you less sad: I thought anger would be better than
-grief. But if you wish me to love you, could you but see how much I
-_do_ love you, you would be proud and content. All my heart is yours,
+grief. But if you wish me to [[Love|love]] you, could you but see how much I
+_do_ [[Love|love]] you, you would be proud and content. All my heart is yours,
 sir: it belongs to you; and with you it would remain, were fate to
-exile the rest of me from your presence for ever.”
+[[Exile|exile]] the rest of me from your presence for ever.”
 
 Again, as he kissed me, painful thoughts darkened his aspect.
 
@@ -782,14 +782,14 @@ wanted to speak for him, but dared not. As he turned aside his face a
 minute, I saw a tear slide from under the sealed eyelid, and trickle
 down the manly cheek. My heart swelled.
 
-“I am no better than the old lightning-struck chestnut-tree in
+“I am no better than the old [[Lightning|lightning]]-struck chestnut-tree in
 Thornfield orchard,” he remarked ere long. “And what right would that
-ruin have to bid a budding woodbine cover its decay with freshness?”
+ruin have to bid a budding woodbine cover its [[Decay|decay]] with freshness?”
 
-“You are no ruin, sir—no lightning-struck tree: you are green and
+“You are no ruin, sir—no [[Lightning|lightning]]-struck tree: you are green and
 vigorous. Plants will grow about your roots, whether you ask them or
-not, because they take delight in your bountiful shadow; and as they
-grow they will lean towards you, and wind round you, because your
+not, because they take delight in your bountiful [[Shadow|shadow]]; and as they
+grow they will lean towards you, and [[Wind|wind]] round you, because your
 strength offers them so safe a prop.”
 
 Again he smiled: I gave him comfort.
@@ -816,7 +816,7 @@ helped me.
 
 “Choose then, sir—_her who loves you best_.”
 
-“I will at least choose—_her I love best_. Jane, will you marry me?”
+“I will at least choose—_her I [[Love|love]] best_. Jane, will you marry me?”
 
 “Yes, sir.”
 
@@ -836,7 +836,7 @@ wait on?”
 “Oh! my darling! God bless you and reward you!”
 
 “Mr. Rochester, if ever I did a good deed in my life—if ever I thought
-a good thought—if ever I prayed a sincere and blameless prayer—if ever
+a good thought—if ever I prayed a sincere and blameless [[prayer]]—if ever
 I wished a righteous wish,—I am rewarded now. To be your wife is, for
 me, to be as happy as I can be on earth.”
 
@@ -844,23 +844,23 @@ me, to be as happy as I can be on earth.”
 
 “Sacrifice! What do I sacrifice? Famine for food, expectation for
 content. To be privileged to put my arms round what I value—to press my
-lips to what I love—to repose on what I trust: is that to make a
+lips to what I [[Love|love]]—to repose on what I trust: is that to make a
 sacrifice? If so, then certainly I delight in sacrifice.”
 
 “And to bear with my infirmities, Jane: to overlook my deficiencies.”
 
-“Which are none, sir, to me. I love you better now, when I can really
+“Which are none, sir, to me. I [[Love|love]] you better now, when I can really
 be useful to you, than I did in your state of proud independence, when
 you disdained every part but that of the giver and protector.”
 
 “Hitherto I have hated to be helped—to be led: henceforth, I feel I
 shall hate it no more. I did not like to put my hand into a hireling’s,
 but it is pleasant to feel it circled by Jane’s little fingers. I
-preferred utter loneliness to the constant attendance of servants; but
+preferred utter [[Loneliness|loneliness]] to the constant attendance of servants; but
 Jane’s soft ministry will be a perpetual joy. Jane suits me: do I suit
 her?”
 
-“To the finest fibre of my nature, sir.”
+“To the finest fibre of my [[Nature|nature]], sir.”
 
 “The case being so, we have nothing in the world to wait for: we must
 be married instantly.”
@@ -871,13 +871,13 @@ He looked and spoke with eagerness: his old impetuosity was rising.
 licence to get—then we marry.”
 
 “Mr. Rochester, I have just discovered the sun is far declined from its
-meridian, and Pilot is actually gone home to his dinner. Let me look at
+meridian, and Pilot is actually gone [[Home|home]] to his dinner. Let me look at
 your watch.”
 
 “Fasten it into your girdle, Janet, and keep it henceforward: I have no
 use for it.”
 
-“It is nearly four o’clock in the afternoon, sir. Don’t you feel
+“It is nearly four o’[[Clock|clock]] in the afternoon, sir. Don’t you feel
 hungry?”
 
 “The third day from this must be our wedding-day, Jane. Never mind fine
@@ -890,41 +890,41 @@ is quite hot.”
 fastened round my bronze scrag under my cravat? I have worn it since
 the day I lost my only treasure, as a memento of her.”
 
-“We will go home through the wood: that will be the shadiest way.”
+“We will go [[Home|home]] through the wood: that will be the shadiest way.”
 
 He pursued his own thoughts without heeding me.
 
 “Jane! you think me, I daresay, an irreligious dog: but my heart swells
 with gratitude to the beneficent God of this earth just now. He sees
 not as man sees, but far clearer: judges not as man judges, but far
-more wisely. I did wrong: I would have sullied my innocent
-flower—breathed guilt on its purity: the Omnipotent snatched it from
+more wisely. I did wrong: I would have sullied my [[Innocent|innocent]]
+flower—breathed [[Guilt|guilt]] on its purity: the Omnipotent snatched it from
 me. I, in my stiff-necked rebellion, almost cursed the dispensation:
 instead of bending to the decree, I defied it. Divine justice pursued
 its course; disasters came thick on me: I was forced to pass through
-the valley of the shadow of death. _His_ chastisements are mighty; and
+the valley of the [[Shadow|shadow]] of [[Death|death]]. _His_ chastisements are mighty; and
 one smote me which has humbled me for ever. You know I was proud of my
 strength: but what is it now, when I must give it over to foreign
-guidance, as a child does its weakness? Of late, Jane—only—only of
+guidance, as a [[Child|child]] does its weakness? Of late, Jane—only—only of
 late—I began to see and acknowledge the hand of God in my doom. I began
 to experience remorse, repentance; the wish for reconcilement to my
 Maker. I began sometimes to pray: very brief prayers they were, but
 very sincere.
 
 “Some days since: nay, I can number them—four; it was last Monday
-night, a singular mood came over me: one in which grief replaced
+[[Night|night]], a singular mood came over me: one in which grief replaced
 frenzy—sorrow, sullenness. I had long had the impression that since I
-could nowhere find you, you must be dead. Late that night—perhaps it
-might be between eleven and twelve o’clock—ere I retired to my dreary
+could nowhere find you, you must be dead. Late that [[Night|night]]—perhaps it
+might be between eleven and twelve o’[[Clock|clock]]—ere I retired to my dreary
 rest, I supplicated God, that, if it seemed good to Him, I might soon
 be taken from this life, and admitted to that world to come, where
-there was still hope of rejoining Jane.
+there was still [[Hope|hope]] of rejoining Jane.
 
-“I was in my own room, and sitting by the window, which was open: it
-soothed me to feel the balmy night-air; though I could see no stars and
-only by a vague, luminous haze, knew the presence of a moon. I longed
-for thee, Janet! Oh, I longed for thee both with soul and flesh! I
-asked of God, at once in anguish and humility, if I had not been long
+“I was in my own room, and sitting by the [[Window|window]], which was open: it
+soothed me to feel the balmy [[Night|night]]-air; though I could see no [[Stars|stars]] and
+only by a vague, luminous haze, knew the presence of a [[Moon|moon]]. I longed
+for thee, Janet! Oh, I longed for thee both with [[Soul|soul]] and flesh! I
+asked of God, at once in anguish and [[Humility|humility]], if I had not been long
 enough desolate, afflicted, tormented; and might not soon taste bliss
 and peace once more. That I merited all I endured, I acknowledged—that
 I could scarcely endure more, I pleaded; and the alpha and omega of my
@@ -936,53 +936,53 @@ Jane! Jane!’”
 “I did, Jane. If any listener had heard me, he would have thought me
 mad: I pronounced them with such frantic energy.”
 
-“And it was last Monday night, somewhere near midnight?”
+“And it was last Monday [[Night|night]], somewhere near midnight?”
 
-“Yes; but the time is of no consequence: what followed is the strange
+“Yes; but the [[Time|time]] is of no consequence: what followed is the strange
 point. You will think me superstitious,—some superstition I have in my
-blood, and always had: nevertheless, this is true—true at least it is
+[[Blood|blood]], and always had: nevertheless, this is true—true at least it is
 that I heard what I now relate.
 
 “As I exclaimed ‘Jane! Jane! Jane!’ a voice—I cannot tell whence the
 voice came, but I know whose voice it was—replied, ‘I am coming: wait
-for me;’ and a moment after, went whispering on the wind the
+for me;’ and a moment after, went whispering on the [[Wind|wind]] the
 words—‘Where are you?’
 
 “I’ll tell you, if I can, the idea, the picture these words opened to
 my mind: yet it is difficult to express what I want to express.
 Ferndean is buried, as you see, in a heavy wood, where sound falls
 dull, and dies unreverberating. ‘Where are you?’ seemed spoken amongst
-mountains; for I heard a hill-sent echo repeat the words. Cooler and
+[[Mountains|mountains]]; for I heard a [[Hill|hill]]-sent echo repeat the words. Cooler and
 fresher at the moment the gale seemed to visit my brow: I could have
 deemed that in some wild, lone scene, I and Jane were meeting. In
-spirit, I believe we must have met. You no doubt were, at that hour, in
-unconscious sleep, Jane: perhaps your soul wandered from its cell to
+spirit, I believe we must have met. You no [[Doubt|doubt]] were, at that hour, in
+unconscious [[Sleep|sleep]], Jane: perhaps your [[Soul|soul]] wandered from its cell to
 comfort mine; for those were your accents—as certain as I live—they
 were yours!”
 
-Reader, it was on Monday night—near midnight—that I too had received
+Reader, it was on Monday [[Night|night]]—near midnight—that I too had received
 the mysterious summons: those were the very words by which I replied to
 it. I listened to Mr. Rochester’s narrative, but made no disclosure in
 return. The coincidence struck me as too awful and inexplicable to be
 communicated or discussed. If I told anything, my tale would be such as
 must necessarily make a profound impression on the mind of my hearer:
 and that mind, yet from its sufferings too prone to gloom, needed not
-the deeper shade of the supernatural. I kept these things then, and
+the deeper shade of the [[Supernatural|supernatural]]. I kept these things then, and
 pondered them in my heart.
 
-“You cannot now wonder,” continued my master, “that when you rose upon
-me so unexpectedly last night, I had difficulty in believing you any
+“You cannot now [[Wonder|wonder]],” continued my master, “that when you [[Rose|rose]] upon
+me so unexpectedly last [[Night|night]], I had difficulty in believing you any
 other than a mere voice and vision, something that would melt to
-silence and annihilation, as the midnight whisper and mountain echo had
+[[Silence|silence]] and annihilation, as the midnight whisper and mountain echo had
 melted before. Now, I thank God! I know it to be otherwise. Yes, I
 thank God!”
 
-He put me off his knee, rose, and reverently lifting his hat from his
+He put me off his knee, [[Rose|rose]], and reverently lifting his hat from his
 brow, and bending his sightless eyes to the earth, he stood in mute
 devotion. Only the last words of the worship were audible.
 
 “I thank my Maker, that, in the midst of judgment, he has remembered
-mercy. I humbly entreat my Redeemer to give me strength to lead
+[[Mercy|mercy]]. I humbly entreat my Redeemer to give me strength to lead
 henceforth a purer life than I have done hitherto!”
 
 Then he stretched his hand out to be led. I took that dear hand, held

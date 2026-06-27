@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE (part 4)"
+title: "The [[Pickwick]] Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -23,7 +23,7 @@ of his having very little indeed to be merry about; and, being ordered
 to take the lady’s information, shambled to a seat, and proceeded to
 write it down.
 
-‘This man, Pickwick, is the principal, I understand?’ said the
+‘This man, [[Pickwick]], is the principal, I understand?’ said the
 magistrate, when the statement was finished.
 
 ‘He is,’ said the middle-aged lady.
@@ -40,8 +40,8 @@ Tupman is the second?’
 
 ‘Yes,’ replied Miss Witherfield, with a short cough.
 
-‘Very well,’ said the magistrate. ‘These are two cut-throats from
-London, who have come down here to destroy his Majesty’s population,
+‘Very [[Well|well]],’ said the magistrate. ‘These are two cut-throats from
+[[London]], who have come down here to destroy his Majesty’s population,
 thinking that at this distance from the capital, the arm of the law is
 weak and paralysed. They shall be made an example of. Draw up the
 warrants, Mr. Jinks. Muzzle!’
@@ -65,11 +65,11 @@ eye.
 
 ‘Is the town quiet now?’
 
-‘Pretty well, your Wash-up,’ replied Grummer. ‘Pop’lar feeling has in a
+‘Pretty [[Well|well]], your Wash-up,’ replied Grummer. ‘Pop’lar feeling has in a
 measure subsided, consekens o’ the boys having dispersed to cricket.’
 
 ‘Nothing but vigorous measures will do in these times, Grummer,’ said
-the magistrate, in a determined manner. ‘If the authority of the king’s
+the magistrate, in a determined manner. ‘If the authority of the [[King|king]]’s
 officers is set at naught, we must have the riot act read. If the civil
 power cannot protect these windows, Grummer, the military must protect
 the civil power, and the windows too. I believe that is a maxim of the
@@ -79,7 +79,7 @@ Certainly, sir,’ said Jinks.
 
 ‘Very good,’ said the magistrate, signing the warrants. ‘Grummer, you
 will bring these persons before me, this afternoon. You will find them
-at the Great White Horse. You recollect the case of the Middlesex
+at the Great White [[Horse]]. You recollect the case of the Middlesex
 Dumpling and the Suffolk Bantam, Grummer?’
 
 Mr. Grummer intimated, by a retrospective shake of the head, that he
@@ -93,12 +93,12 @@ undoubted prerogatives, Mr. Jinks?’
 
 ‘Expressly stipulated in Magna Charta, sir,’ said Mr. Jinks.
 
-‘One of the brightest jewels in the British crown, wrung from his
+‘One of the brightest jewels in the British [[Crown|crown]], wrung from his
 Majesty by the barons, I believe, Mr. Jinks?’ said the magistrate.
 
 ‘Just so, Sir,’ replied Mr. Jinks.
 
-‘Very well,’ said the magistrate, drawing himself up proudly, ‘it shall
+‘Very [[Well|well]],’ said the magistrate, drawing himself up proudly, ‘it shall
 not be violated in this portion of his dominions. Grummer, procure
 assistance, and execute these warrants with as little delay as possible.
 Muzzle!’
@@ -117,40 +117,40 @@ fastened upon himself, and the other representative of his Majesty--the
 beadle--in the course of the morning.
 
 While these resolute and determined preparations for the conservation of
-the king’s peace were pending, Mr. Pickwick and his friends, wholly
+the [[King|king]]’s peace were pending, Mr. [[Pickwick]] and his friends, wholly
 unconscious of the mighty events in progress, had sat quietly down to
-dinner; and very talkative and companionable they all were. Mr. Pickwick
-was in the very act of relating his adventure of the preceding night, to
+dinner; and very talkative and companionable they all were. Mr. [[Pickwick]]
+was in the very act of relating his adventure of the preceding [[Night|night]], to
 the great amusement of his followers, Mr. Tupman especially, when the
 door opened, and a somewhat forbidding countenance peeped into the room.
 The eyes in the forbidding countenance looked very earnestly at Mr.
-Pickwick, for several seconds, and were to all appearance satisfied with
-their investigation; for the body to which the forbidding countenance
+[[Pickwick]], for several seconds, and were to all appearance satisfied with
+their investigation; for the [[Body|body]] to which the forbidding countenance
 belonged, slowly brought itself into the apartment, and presented the
 form of an elderly individual in top-boots--not to keep the reader any
 longer in suspense, in short, the eyes were the wandering eyes of Mr.
-Grummer, and the body was the body of the same gentleman.
+Grummer, and the [[Body|body]] was the [[Body|body]] of the same gentleman.
 
 Mr. Grummer’s mode of proceeding was professional, but peculiar. His
 first act was to bolt the door on the inside; his second, to polish his
 head and countenance very carefully with a cotton handkerchief; his
 third, to place his hat, with the cotton handkerchief in it, on the
 nearest chair; and his fourth, to produce from the breast-pocket of his
-coat a short truncheon, surmounted by a brazen crown, with which he
-beckoned to Mr. Pickwick with a grave and ghost-like air.
+coat a short truncheon, surmounted by a brazen [[Crown|crown]], with which he
+beckoned to Mr. [[Pickwick]] with a [[Grave|grave]] and [[Ghost|ghost]]-like air.
 
-Mr. Snodgrass was the first to break the astonished silence. He looked
+Mr. Snodgrass was the first to break the astonished [[Silence|silence]]. He looked
 steadily at Mr. Grummer for a brief space, and then said emphatically,
 ‘This is a private room, Sir. A private room.’
 
 Mr. Grummer shook his head, and replied, ‘No room’s private to his
 Majesty when the street door’s once passed. That’s law. Some people
-maintains that an Englishman’s house is his castle. That’s gammon.’
+maintains that an Englishman’s [[house]] is his [[Castle|castle]]. That’s gammon.’
 
 The Pickwickians gazed on each other with wondering eyes.
 
 ‘Which is Mr. Tupman?’ inquired Mr. Grummer. He had an intuitive
-perception of Mr. Pickwick; he knew him at once.
+perception of Mr. [[Pickwick]]; he knew him at once.
 
 ‘My name’s Tupman,’ said that gentleman.
 
@@ -159,7 +159,7 @@ perception of Mr. Pickwick; he knew him at once.
 ‘What?’ said Mr. Tupman.
 
 ‘Law,’ replied Mr. Grummer--‘Law, civil power, and exekative; them’s my
-titles; here’s my authority. Blank Tupman, blank Pickwick--against the
-peace of our sufferin’ lord the king--stattit in the case made and
-purwided--and all regular. I apprehend you Pickwick! Tupman--the
+titles; here’s my authority. Blank Tupman, blank [[Pickwick]]--against the
+peace of our sufferin’ lord the [[King|king]]--stattit in the case made and
+purwided--and all regular. I apprehend you [[Pickwick]]! Tupman--the
 aforesaid.’

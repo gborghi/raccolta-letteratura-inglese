@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 9 (part 7)"
+title: "[[Shirley]] — Chapter 9 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -18,7 +18,7 @@ enfants terribles, que les vôtres!"
 
 
 
-Rose, who had been listening attentively to Mark's speech, replied to
+[[Rose]], who had been listening attentively to Mark's speech, replied to
 
 him, "There are different kinds of thoughts, ideas, and notions," said
 
@@ -30,23 +30,23 @@ was defending him."
 
 
 
-"That's my kind little advocate!" said Moore, taking Rose's hand.
+"That's my kind little advocate!" said Moore, taking [[Rose]]'s hand.
 
 
 
-"She was defending him," repeated Rose, "as I should have done had I
+"She was defending him," repeated [[Rose]], "as I should have done had I
 
 been in her place, for the other ladies seemed to speak spitefully."
 
 
 
-"Ladies always do speak spitefully," observed Martin. "It is the nature
+"Ladies always do speak spitefully," observed Martin. "It is the [[Nature|nature]]
 
 of womenites to be spiteful."
 
 
 
-Matthew now, for the first time, opened his lips. "What a fool Martin
+Matthew now, for the first [[Time|time]], opened his lips. "What a [[Fool|fool]] Martin
 
 is, to be always gabbling about what he does not understand!"
 
@@ -70,9 +70,9 @@ added, standing up at the table, and pointing across it to
 
 Matthew--"this fellow forgets, what every cottier in Briarfield knows,
 
-that all born of our house have that arched instep under which water can
+that all born of our [[house]] have that arched instep under which [[Water|water]] can
 
-flow--proof that there has not been a slave of the blood for three
+flow--proof that there has not been a slave of the [[Blood|blood]] for three
 
 hundred years."
 
@@ -90,11 +90,11 @@ mischief-maker. There would have been no disturbance but for you."
 
 "Indeed! Is that correct? Did I begin, or did Matthew? Had I spoken to
 
-him when he accused me of gabbling like a fool?"
+him when he accused me of gabbling like a [[Fool|fool]]?"
 
 
 
-"A presumptuous fool!" repeated Matthew.
+"A presumptuous [[Fool|fool]]!" repeated Matthew.
 
 
 
@@ -128,7 +128,7 @@ as he turned to leave the room.
 
 
 
-"Somewhere where I shall be safe from insult, if in this house I can
+"Somewhere where I shall be safe from insult, if in this [[house]] I can
 
 find any such place."
 
@@ -148,7 +148,7 @@ trembled through all his slight lad's frame; but he restrained himself.
 
 
 
-Martin went, and Matthew sent another insolent laugh after him. Rose,
+Martin went, and Matthew sent another insolent laugh after him. [[Rose]],
 
 lifting her fair head from Moore's shoulder, against which, for a
 
@@ -156,17 +156,17 @@ moment, it had been resting, said, as she directed a steady gaze to
 
 Matthew, "Martin is grieved, and you are glad; but I would rather be
 
-Martin than you. I dislike your nature."
+Martin than you. I dislike your [[Nature|nature]]."
 
 
 
 Here Mr. Moore, by way of averting, or at least escaping, a scene--which
 
-a sob from Mrs. Yorke warned him was likely to come on--rose, and
+a sob from Mrs. Yorke warned him was likely to come on--[[Rose|rose]], and
 
-putting Jessy off his knee, he kissed her and Rose, reminding them, at
+putting Jessy off his knee, he kissed her and [[Rose]], reminding them, at
 
-the same time, to be sure and come to the Hollow in good time to-morrow
+the same [[Time|time]], to be sure and come to the Hollow in good [[Time|time]] to-morrow
 
 afternoon; then, having taken leave of his hostess, he said to Mr.
 
@@ -218,13 +218,13 @@ cloth-dressers who came to me this morning to complain and threaten.
 
 William did not threaten. He only asked me to give them rather more
 
-time--to make my changes more slowly. You know I cannot do that:
+[[Time|time]]--to make my changes more slowly. You know I cannot do that:
 
 straitened on all sides as I am, I have nothing for it but to push on. I
 
 thought it would be idle to palaver long with them. I sent them away,
 
-after arresting a rascal amongst them, whom I hope to transport--a
+after arresting a rascal amongst them, whom I [[Hope|hope]] to transport--a
 
 fellow who preaches at the chapel yonder sometimes."
 
@@ -244,7 +244,7 @@ make a martyr. You've done a wise thing."
 
 
 
-"I've done a right thing. Well, the short and the long of it is, I'm
+"I've done a right thing. [[Well]], the short and the long of it is, I'm
 
 determined to get Farren a place, and I reckon on you to give him one."
 
@@ -268,7 +268,7 @@ great charge to undertake; but great or little, I'll none of it."
 
 "_I_ find! You'll make me use language I'm not accustomed to use. I wish
 
-you would go home. Here is the door; set off."
+you would go [[Home|home]]. Here is the door; set off."
 
 
 
@@ -288,7 +288,7 @@ don't understand this change."
 
 
 
-"I do. The fellow spoke to me nothing but truth and sense. I answered
+"I do. The fellow spoke to me nothing but [[Truth|truth]] and sense. I answered
 
 him just as roughly as I did the rest, who jabbered mere gibberish. I
 

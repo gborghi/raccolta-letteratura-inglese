@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 6 (part 2)"
+title: "[[The Professor]] — Chapter 6 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -30,11 +30,11 @@ my mouth.
 
 “Your bread was dirty, man!” cried Hunsden--“dirty and unwholesome!
 
-It came through the hands of a tyrant, for I tell you Crimsworth is a
+It came through the hands of a [[Tyrant|tyrant]], for I tell you Crimsworth is a
 
-tyrant,--a tyrant to his workpeople, a tyrant to his clerks, and will
+[[Tyrant|tyrant]],--a [[Tyrant|tyrant]] to his workpeople, a [[Tyrant|tyrant]] to his clerks, and will
 
-some day be a tyrant to his wife.”
+some day be a [[Tyrant|tyrant]] to his wife.”
 
 
 
@@ -134,7 +134,7 @@ countenance, he went on:
 
 “Yes, rejection and repulsion. Why do you ask me twice? How can hands
 
-stained with the ink of a counting-house, soiled with the grease of
+stained with the ink of a counting-[[house]], soiled with the grease of
 
 a wool-warehouse, ever again be permitted to come into contact with
 
@@ -142,9 +142,9 @@ aristocratic palms?”
 
 
 
-“There would be a difficulty, no doubt; still you are such a complete
+“There would be a difficulty, no [[Doubt|doubt]]; still you are such a complete
 
-Seacombe in appearance, feature, language, almost manner, I wonder they
+Seacombe in appearance, feature, language, almost manner, I [[Wonder|wonder]] they
 
 should disown you.”
 
@@ -208,19 +208,19 @@ devices at once?”
 
 “Exactly. I must follow my own devices--I must, till the day of my
 
-death; because I can neither comprehend, adopt, nor work out those of
+[[Death|death]]; because I can neither comprehend, adopt, nor work out those of
 
 other people.”
 
 
 
-Hunsden yawned. “Well,” said he, “in all this, I see but one thing
+Hunsden yawned. “[[Well]],” said he, “in all this, I see but one thing
 
 clearly-that is, that the whole affair is no business of mine.” He
 
-stretched himself and again yawned. “I wonder what time it is,” he went
+stretched himself and again yawned. “I [[Wonder|wonder]] what [[Time|time]] it is,” he went
 
-on: “I have an appointment for seven o’clock.”
+on: “I have an appointment for seven o’[[Clock|clock]].”
 
 
 
@@ -228,7 +228,7 @@ on: “I have an appointment for seven o’clock.”
 
 
 
-“Well, then I’ll go.” He got up. “You’ll not meddle with trade again?”
+“[[Well]], then I’ll go.” He got up. “You’ll not meddle with trade again?”
 
  said he, leaning his elbow on the mantelpiece.
 
@@ -238,13 +238,13 @@ on: “I have an appointment for seven o’clock.”
 
 
 
-“You would be a fool if you did. Probably, after all, you’ll think
+“You would be a [[Fool|fool]] if you did. Probably, after all, you’ll think
 
 better of your uncles’ proposal and go into the Church.”
 
 
 
-“A singular regeneration must take place in my whole inner and outer man
+“A singular [[Regeneration|regeneration]] must take place in my whole inner and outer man
 
 before I do that. A good clergyman is one of the best of men.”
 
@@ -258,7 +258,7 @@ before I do that. A good clergyman is one of the best of men.”
 
 make a good clergyman; and rather than adopt a profession for which I
 
-have no vocation, I would endure extremities of hardship from poverty.”
+have no vocation, I would endure extremities of hardship from [[Poverty|poverty]].”
 
 
 
@@ -276,7 +276,7 @@ you’ve no money. I’d recommend you to travel.”
 
 “You must travel in search of money, man. You can speak French--with
 
-a vile English accent, no doubt--still, you can speak it. Go on to the
+a vile English accent, no [[Doubt|doubt]]--still, you can speak it. Go on to the
 
 Continent, and see what will turn up for you there.”
 
@@ -298,9 +298,9 @@ for five or six pounds, if you know how to manage with economy.”
 
 “Go, then, and let your wits make a way for you when you get there. I
 
-know Brussels almost as well as I know X----, and I am sure it would
+know Brussels almost as [[Well|well]] as I know X----, and I am sure it would
 
-suit such a one as you better than London.”
+suit such a one as you better than [[London]].”
 
 
 

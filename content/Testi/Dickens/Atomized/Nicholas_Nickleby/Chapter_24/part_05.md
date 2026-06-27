@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 24 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 24 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 Miss Snevellicci made a graceful obeisance, and hoped Mrs. Curdle was
-well, as also Mr. Curdle, who at the same time appeared. Mrs. Curdle was
+[[Well|well]], as also Mr. Curdle, who at the same [[Time|time]] appeared. Mrs. Curdle was
 dressed in a morning wrapper, with a little cap stuck upon the top
 of her head. Mr. Curdle wore a loose robe on his back, and his right
 forefinger on his forehead after the portraits of Sterne, to whom
@@ -30,26 +30,26 @@ Snevellicci--the drama is gone, perfectly gone.’
 
 ‘As an exquisite embodiment of the poet’s visions, and a realisation of
 human intellectuality, gilding with refulgent light our dreamy moments,
-and laying open a new and magic world before the mental eye, the drama
+and laying open a new and [[Magic|magic]] world before the mental eye, the drama
 is gone, perfectly gone,’ said Mr. Curdle.
 
 ‘What man is there, now living, who can present before us all those
-changing and prismatic colours with which the character of Hamlet is
+changing and prismatic colours with which the character of [[Hamlet]] is
 invested?’ exclaimed Mrs. Curdle.
 
 ‘What man indeed--upon the stage,’ said Mr. Curdle, with a small
-reservation in favour of himself. ‘Hamlet! Pooh! ridiculous! Hamlet is
+reservation in favour of himself. ‘[[Hamlet]]! Pooh! ridiculous! [[Hamlet]] is
 gone, perfectly gone.’
 
 Quite overcome by these dismal reflections, Mr. and Mrs. Curdle sighed,
-and sat for some short time without speaking. At length, the lady,
+and sat for some short [[Time|time]] without speaking. At length, the lady,
 turning to Miss Snevellicci, inquired what play she proposed to have.
 
 ‘Quite a new one,’ said Miss Snevellicci, ‘of which this gentleman is
 the author, and in which he plays; being his first appearance on any
 stage. Mr. Johnson is the gentleman’s name.’
 
-‘I hope you have preserved the unities, sir?’ said Mr. Curdle.
+‘I [[Hope|hope]] you have preserved the unities, sir?’ said Mr. Curdle.
 
 ‘The original piece is a French one,’ said Nicholas. ‘There is abundance
 of incident, sprightly dialogue, strongly-marked characters--’
@@ -58,17 +58,17 @@ of incident, sprightly dialogue, strongly-marked characters--’
 returned Mr. Curdle. ‘The unities of the drama, before everything.’
 
 ‘Might I ask you,’ said Nicholas, hesitating between the respect he
-ought to assume, and his love of the whimsical, ‘might I ask you what
+ought to assume, and his [[Love|love]] of the whimsical, ‘might I ask you what
 the unities are?’
 
 Mr. Curdle coughed and considered. ‘The unities, sir,’ he said, ‘are a
 completeness--a kind of universal dovetailedness with regard to place
-and time--a sort of a general oneness, if I may be allowed to use so
+and [[Time|time]]--a sort of a general oneness, if I may be allowed to use so
 strong an expression. I take those to be the dramatic unities, so far as
 I have been enabled to bestow attention upon them, and I have read
 much upon the subject, and thought much. I find, running through the
-performances of this child,’ said Mr. Curdle, turning to the phenomenon,
-‘a unity of feeling, a breadth, a light and shade, a warmth of
+performances of this [[Child|child]],’ said Mr. Curdle, turning to the phenomenon,
+‘a [[unity]] of feeling, a breadth, a light and shade, a warmth of
 colouring, a tone, a harmony, a glow, an artistical development
 of original conceptions, which I look for, in vain, among older
 performers--I don’t know whether I make myself understood?’
@@ -89,7 +89,7 @@ we do not give THEM the sanction of our names, but that we confer the
 distinction merely upon Miss Snevellicci. That being clearly stated, I
 take it to be, as it were, a duty, that we should extend our patronage
 to a degraded stage, even for the sake of the associations with which
-it is entwined. Have you got two-and-sixpence for half-a-crown, Miss
+it is entwined. Have you got two-and-sixpence for half-a-[[Crown|crown]], Miss
 Snevellicci?’ said Mr. Curdle, turning over four of those pieces of
 money.
 
@@ -110,7 +110,7 @@ to keeping the places for them, and dusting the seat, and sending two
 clean bills as soon as they came out, rang the bell, as a signal for
 breaking up the conference.
 
-‘Odd people those,’ said Nicholas, when they got clear of the house.
+‘Odd people those,’ said Nicholas, when they got clear of the [[house]].
 
 ‘I assure you,’ said Miss Snevellicci, taking his arm, ‘that I think
 myself very lucky they did not owe all the money instead of being
@@ -118,18 +118,18 @@ sixpence short. Now, if you were to succeed, they would give people to
 understand that they had always patronised you; and if you were to fail,
 they would have been quite certain of that from the very beginning.’
 
-At the next house they visited, they were in great glory; for, there,
+At the next [[house]] they visited, they were in great glory; for, there,
 resided the six children who were so enraptured with the public actions
 of the phenomenon, and who, being called down from the nursery to be
 treated with a private view of that young lady, proceeded to poke their
 fingers into her eyes, and tread upon her toes, and show her many other
-little attentions peculiar to their time of life.
+little attentions peculiar to their [[Time|time]] of life.
 
 ‘I shall certainly persuade Mr. Borum to take a private box,’ said the
-lady of the house, after a most gracious reception. ‘I shall only
+lady of the [[house]], after a most gracious reception. ‘I shall only
 take two of the children, and will make up the rest of the party, of
 gentlemen--your admirers, Miss Snevellicci. Augustus, you naughty boy,
-leave the little girl alone.’
+leave the little girl [[Alone|alone]].’
 
 This was addressed to a young gentleman who was pinching the phenomenon
 behind, apparently with a view of ascertaining whether she was real.

@@ -18,25 +18,25 @@ CHAPTER I—THOUGHTS ABOUT PEOPLE
 
 
 It is strange with how little notice, good, bad, or indifferent, a man
-may live and die in London. He awakens no sympathy in the breast of any
+may live and die in [[London]]. He awakens no sympathy in the breast of any
 single person; his existence is a matter of interest to no one save
 himself; he cannot be said to be forgotten when he dies, for no one
 remembered him when he was alive. There is a numerous class of people
 in this great metropolis who seem not to possess a single friend, and
 whom nobody appears to care for. Urged by imperative necessity in the
-first instance, they have resorted to London in search of employment,
+first instance, they have resorted to [[London]] in search of employment,
 and the means of subsistence. It is hard, we know, to break the ties
 which bind us to our homes and friends, and harder still to efface the
 thousand recollections of happy days and old times, which have been
 slumbering in our bosoms for years, and only rush upon the mind, to
 bring before it associations connected with the friends we have left,
-the scenes we have beheld too probably for the last time, and the hopes
+the scenes we have beheld too probably for the last [[Time|time]], and the hopes
 we once cherished, but may entertain no more. These men, however,
 happily for themselves, have long forgotten such thoughts. Old country
 friends have died or emigrated; former correspondents have become lost,
-like themselves, in the crowd and turmoil of some busy city; and they
+like themselves, in the crowd and turmoil of some busy [[City|city]]; and they
 have gradually settled down into mere passive creatures of habit and
-endurance.
+[[Endurance|endurance]].
 
 We were seated in the enclosure of St. James’s Park the other day, when
 our attention was attracted by a man whom we immediately put down in
@@ -50,7 +50,7 @@ it for pleasure or recreation, but as if it were a matter of
 compulsion, just as he would walk to the office every morning from the
 back settlements of Islington. It was Monday; he had escaped for
 four-and-twenty hours from the thraldom of the desk; and was walking
-here for exercise and amusement—perhaps for the first time in his life.
+here for exercise and amusement—perhaps for the first [[Time|time]] in his life.
 We were inclined to think he had never had a holiday before, and that
 he did not know what to do with himself. Children were playing on the
 grass; groups of people were loitering about, chatting and laughing;
@@ -65,10 +65,10 @@ back office into which he walks every morning, hanging his hat on the
 same peg, and placing his legs beneath the same desk: first, taking off
 that black coat which lasts the year through, and putting on the one
 which did duty last year, and which he keeps in his desk to save the
-other. There he sits till five o’clock, working on, all day, as
+other. There he sits till five o’[[Clock|clock]], working on, all day, as
 regularly as the dial over the mantel-piece, whose loud ticking is as
 monotonous as his whole existence: only raising his head when some one
-enters the counting-house, or when, in the midst of some difficult
+enters the counting-[[house]], or when, in the midst of some difficult
 calculation, he looks up to the ceiling as if there were inspiration in
 the dusty skylight with a green knot in the centre of every pane of
 glass. About five, or half-past, he slowly dismounts from his
@@ -79,32 +79,32 @@ customer—and after inquiring ‘What’s in the best cut?’ and ‘What was u
 last?’ he orders a small plate of roast beef, with greens, and
 half-a-pint of porter. He has a small plate to-day, because greens are
 a penny more than potatoes, and he had ‘two breads’ yesterday, with the
-additional enormity of ‘a cheese’ the day before. This important point
+additional enormity of ‘a [[cheese]]’ the day before. This important point
 settled, he hangs up his hat—he took it off the moment he sat down—and
 bespeaks the paper after the next gentleman. If he can get it while he
 is at dinner, he eats with much greater zest; balancing it against the
-water-bottle, and eating a bit of beef, and reading a line or two,
+[[Water|water]]-bottle, and eating a bit of beef, and reading a line or two,
 alternately. Exactly at five minutes before the hour is up, he produces
 a shilling, pays the reckoning, carefully deposits the change in his
 waistcoat-pocket (first deducting a penny for the waiter), and returns
-to the office, from which, if it is not foreign post night, he again
-sallies forth, in about half an hour. He then walks home, at his usual
+to the office, from which, if it is not foreign post [[Night|night]], he again
+sallies forth, in about half an hour. He then walks [[Home|home]], at his usual
 pace, to his little back room at Islington, where he has his tea;
 perhaps solacing himself during the meal with the conversation of his
 landlady’s little boy, whom he occasionally rewards with a penny, for
 solving problems in simple addition. Sometimes, there is a letter or
 two to take up to his employer’s, in Russell-square; and then, the
 wealthy man of business, hearing his voice, calls out from the
-dining-parlour,—‘Come in, Mr. Smith:’ and Mr. Smith, putting his hat at
+dining-parlour,—‘Come in, Mr. [[smith|Smith]]:’ and Mr. [[smith|Smith]], putting his hat at
 the feet of one of the hall chairs, walks timidly in, and being
 condescendingly desired to sit down, carefully tucks his legs under his
 chair, and sits at a considerable distance from the table while he
 drinks the glass of sherry which is poured out for him by the eldest
 boy, and after drinking which, he backs and slides out of the room, in
 a state of nervous agitation from which he does not perfectly recover,
-until he finds himself once more in the Islington-road. Poor, harmless
+until he finds himself once more in the Islington-[[Road|road]]. Poor, harmless
 creatures such men are; contented but not happy; broken-spirited and
-humbled, they may feel no pain, but they never know pleasure.
+humbled, they may feel no [[Pain|pain]], but they never know pleasure.
 
 Compare these men with another class of beings who, like them, have
 neither friend nor companion, but whose position in society is the
@@ -120,10 +120,10 @@ luxury of their dinners; at theatres, by their always sitting in the
 same place and looking with a jaundiced eye on all the young people
 near them; at church, by the pomposity with which they enter, and the
 loud tone in which they repeat the responses; at parties, by their
-getting cross at whist and hating music. An old fellow of this kind
+getting [[Cross|cross]] at whist and hating music. An old fellow of this kind
 will have his chambers splendidly furnished, and collect books, plate,
 and pictures about him in profusion; not so much for his own
-gratification, as to be superior to those who have the desire, but not
+gratification, as to be superior to those who have the [[Desire|desire]], but not
 the means, to compete with him. He belongs to two or three clubs, and
 is envied, and flattered, and hated by the members of them all.
 Sometimes he will be appealed to by a poor relation—a married nephew
@@ -135,30 +135,30 @@ other unpardonable crimes; winding up his exhortations with a
 complacent review of his own conduct, and a delicate allusion to
 parochial relief. He dies, some day after dinner, of apoplexy, having
 bequeathed his property to a Public Society, and the Institution erects
-a tablet to his memory, expressive of their admiration of his Christian
+a tablet to his [[Memory|memory]], expressive of their admiration of his Christian
 conduct in this world, and their comfortable conviction of his
 happiness in the next.
 
 But, next to our very particular friends, hackney-coachmen, cabmen and
 cads, whom we admire in proportion to the extent of their cool
-impudence and perfect self-possession, there is no class of people who
-amuse us more than London apprentices. They are no longer an organised
-body, bound down by solemn compact to terrify his Majesty’s subjects
+impudence and perfect [[Self|self]]-possession, there is no class of people who
+amuse us more than [[London]] apprentices. They are no longer an organised
+[[Body|body]], bound down by solemn compact to terrify his Majesty’s subjects
 whenever it pleases them to take offence in their heads and staves in
 their hands. They are only bound, now, by indentures, and, as to their
 valour, it is easily restrained by the wholesome dread of the New
-Police, and a perspective view of a damp station-house, terminating in
+Police, and a perspective view of a damp station-[[house]], terminating in
 a police-office and a reprimand. They are still, however, a peculiar
 class, and not the less pleasant for being inoffensive. Can any one
-fail to have noticed them in the streets on Sunday? And were there ever
+fail to have noticed them in the streets on [[Sunday]]? And were there ever
 such harmless efforts at the grand and magnificent as the young fellows
-display! We walked down the Strand, a Sunday or two ago, behind a
+display! We walked down the Strand, a [[Sunday]] or two ago, behind a
 little group; and they furnished food for our amusement the whole way.
-They had come out of some part of the city; it was between three and
-four o’clock in the afternoon; and they were on their way to the Park.
+They had come out of some part of the [[City|city]]; it was between three and
+four o’[[Clock|clock]] in the afternoon; and they were on their way to the Park.
 There were four of them, all arm-in-arm, with white kid gloves like so
 many bridegrooms, light trousers of unprecedented patterns, and coats
-for which the English language has yet no name—a kind of cross between
+for which the English language has yet no name—a kind of [[Cross|cross]] between
 a great-coat and a surtout, with the collar of the one, the skirts of
 the other, and pockets peculiar to themselves.
 
@@ -168,8 +168,8 @@ four, by way of looking easy and unconcerned, were walking with a
 paralytic swagger irresistibly ludicrous. One of the party had a watch
 about the size and shape of a reasonable Ribstone pippin, jammed into
 his waistcoat-pocket, which he carefully compared with the clocks at
-St. Clement’s and the New Church, the illuminated clock at Exeter
-‘Change, the clock of St. Martin’s Church, and the clock of the Horse
+St. Clement’s and the New Church, the illuminated [[Clock|clock]] at Exeter
+‘Change, the [[Clock|clock]] of St. Martin’s Church, and the [[Clock|clock]] of the [[Horse]]
 Guards. When they at last arrived in St. James’s Park, the member of
 the party who had the best-made boots on, hired a second chair
 expressly for his feet, and flung himself on this two-pennyworth of
@@ -178,7 +178,7 @@ Brookes’s and Snooks’s, Crockford’s and Bagnigge Wells.
 
 We may smile at such people, but they can never excite our anger. They
 are usually on the best terms with themselves, and it follows almost as
-a matter of course, in good humour with every one about them. Besides,
+a matter of course, in good [[Humour|humour]] with every one about them. Besides,
 they are always the faint reflection of higher lights; and, if they do
 display a little occasional foolery in their own proper persons, it is
 surely more tolerable than precocious puppyism in the Quadrant,

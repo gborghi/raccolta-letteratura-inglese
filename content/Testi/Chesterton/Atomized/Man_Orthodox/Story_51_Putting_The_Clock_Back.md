@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — Putting The Clock Back"
+title: "Man Orthodox — Putting The [[Clock]] Back"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-PUTTING THE CLOCK BACK
+PUTTING THE [[Clock|CLOCK]] BACK

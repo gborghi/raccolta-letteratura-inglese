@@ -22,7 +22,7 @@ at?’
 ‘Me, madam?’
 
 ‘And the dismal evening, and--and everything,’ said Affery. ‘And here!
-The wind has been and blown the door to, and I can’t get in.’
+The [[Wind|wind]] has been and blown the door to, and I can’t get in.’
 
 ‘Hah!’ said the gentleman, who took that very coolly. ‘Indeed! Do you
 know such a name as Clennam about here?’
@@ -33,15 +33,15 @@ Affery, exasperated into a new wringing of hands by the inquiry.
 ‘Where about here?’
 
 ‘Where!’ cried Affery, goaded into another inspection of the keyhole.
-‘Where but here in this house? And she’s all alone in her room, and lost
+‘Where but here in this [[house]]? And she’s all [[Alone|alone]] in her room, and lost
 the use of her limbs and can’t stir to help herself or me, and t’other
 clever one’s out, and Lord forgive me!’ cried Affery, driven into a
-frantic dance by these accumulated considerations, ‘if I ain’t a-going
+frantic [[Dance|dance]] by these accumulated considerations, ‘if I ain’t a-going
 headlong out of my mind!’
 
 Taking a warmer view of the matter now that it concerned himself, the
-gentleman stepped back to glance at the house, and his eye soon rested
-on the long narrow window of the little room near the hall-door.
+gentleman stepped back to glance at the [[house]], and his eye soon rested
+on the long narrow [[Window|window]] of the little room near the hall-door.
 
 ‘Where may the lady be who has lost the use of her limbs, madam?’ he
 inquired, with that peculiar smile which Mistress Affery could not
@@ -49,13 +49,13 @@ choose but keep her eyes upon.
 
 ‘Up there!’ said Affery. ‘Them two windows.’
 
-‘Hah! I am of a fair size, but could not have the honour of presenting
+‘Hah! I am of a fair size, but could not have the [[Honour|honour]] of presenting
 myself in that room without a ladder. Now, madam, frankly--frankness is
 a part of my character--shall I open the door for you?’
 
 ‘Yes, bless you, sir, for a dear creetur, and do it at once,’ cried
 Affery, ‘for she may be a-calling to me at this very present minute, or
-may be setting herself a fire and burning herself to death, or there’s
+may be setting herself a [[Fire|fire]] and burning herself to [[Death|death]], or there’s
 no knowing what may be happening to her, and me a-going out of my mind
 at thinking of it!’
 
@@ -67,7 +67,7 @@ hand. ‘Business-hours, I apprehend, are over for the day?’
 ‘Let me make, then, a fair proposal. Fairness is a part of my character.
 I am just landed from the packet-boat, as you may see.’ He showed her
 that his cloak was very wet, and that his boots were saturated with
-water; she had previously observed that he was dishevelled and sallow,
+[[Water|water]]; she had previously observed that he was dishevelled and sallow,
 as if from a rough voyage, and so chilled that he could not keep his
 teeth from chattering. ‘I am just landed from the packet-boat, madam,
 and have been delayed by the weather: the infernal weather! In
@@ -82,7 +82,7 @@ feint of backing away.
 Mistress Affery, heartily glad to effect the proposed compromise, gave
 in her willing adhesion to it. The gentleman at once requested her to
 do him the favour of holding his cloak, took a short run at the narrow
-window, made a leap at the sill, clung his way up the bricks, and in
+[[Window|window]], made a leap at the sill, clung his way up the bricks, and in
 a moment had his hand at the sash, raising it. His eyes looked so very
 sinister, as he put his leg into the room and glanced round at Mistress
 Affery, that she thought with a sudden coldness, if he were to go
@@ -90,7 +90,7 @@ straight up-stairs to murder the invalid, what could she do to prevent
 him?
 
 Happily he had no such purpose; for he reappeared, in a moment, at the
-house door. ‘Now, my dear madam,’ he said, as he took back his cloak and
+[[house]] door. ‘Now, my dear madam,’ he said, as he took back his cloak and
 threw it on, ‘if you have the goodness to--what the Devil’s that!’
 
 The strangest of sounds. Evidently close at hand from the peculiar
@@ -120,14 +120,14 @@ the corner.’
 
 ‘Madam, I am a statue.’
 
-Affery had so vivid a fear of his going stealthily up-stairs the moment
+Affery had so vivid a [[Fear|fear]] of his going stealthily up-stairs the moment
 her back was turned, that after hurrying out of sight, she returned to
 the gateway to peep at him. Seeing him still on the threshold, more out
-of the house than in it, as if he had no love for darkness and no
-desire to probe its mysteries, she flew into the next street, and sent a
+of the [[house]] than in it, as if he had no [[Love|love]] for darkness and no
+[[Desire|desire]] to probe its mysteries, she flew into the next street, and sent a
 message into the tavern to Mr Flintwinch, who came out directly. The
 two returning together--the lady in advance, and Mr Flintwinch coming up
-briskly behind, animated with the hope of shaking her before she could
+briskly behind, animated with the [[Hope|hope]] of shaking her before she could
 get housed--saw the gentleman standing in the same place in the dark,
-and heard the strong voice of Mrs Clennam calling from her room, ‘Who is
+and heard the strong voice of [[Mrs Clennam]] calling from her room, ‘Who is
 it? What is it? Why does no one answer? Who _is_ that, down there?’

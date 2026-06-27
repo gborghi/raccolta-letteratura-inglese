@@ -17,7 +17,7 @@ tags:
 He bent down, over his boy, and kissed him. If his sight were dimmed as
 he did so, by something that for a moment blurred the little face, and
 made it indistinct to him, his mental vision may have been, for that
-short time, the clearer perhaps.
+short [[Time|time]], the clearer perhaps.
 
 “I shall see you soon, Paul. You are free on Saturdays and Sundays, you
 know.”
@@ -28,11 +28,11 @@ Sundays.”
 “And you’ll try and learn a great deal here, and be a clever man,” said
 Mr Dombey; “won’t you?”
 
-“I’ll try,” returned the child, wearily.
+“I’ll try,” returned the [[Child|child]], wearily.
 
 “And you’ll soon be grown up now!” said Mr Dombey.
 
-“Oh! very soon!” replied the child. Once more the old, old look passed
+“Oh! very soon!” replied the [[Child|child]]. Once more the old, old look passed
 rapidly across his features like a strange light. It fell on Mrs
 Pipchin, and extinguished itself in her black dress. That excellent
 ogress stepped forward to take leave and to bear off Florence, which
@@ -50,12 +50,12 @@ before she could clutch Florence. To which happy accident Paul stood
 afterwards indebted for the dear remembrance, that Florence ran back to
 throw her arms round his neck, and that hers was the last face in the
 doorway: turned towards him with a smile of encouragement, the brighter
-for the tears through which it beamed.
+for the [[Tears|tears]] through which it beamed.
 
 It made his childish bosom heave and swell when it was gone; and sent
 the globes, the books, blind Homer and Minerva, swimming round the
 room. But they stopped, all of a sudden; and then he heard the loud
-clock in the hall still gravely inquiring “how, is, my, lit, tle,
+[[Clock|clock]] in the hall still gravely inquiring “how, is, my, lit, tle,
 friend? how, is, my, lit, tle, friend?” as it had done before.
 
 He sat, with folded hands, upon his pedestal, silently listening. But

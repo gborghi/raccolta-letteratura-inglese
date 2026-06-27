@@ -58,13 +58,13 @@ CHAPTER 21
 
       conclusion that the walls of the fissure in which we had ventured
 
-      had, by some convulsion of nature, or probably from their own
+      had, by some convulsion of [[Nature|nature]], or probably from their own
 
       weight, caved in overhead, and that we were consequently lost for
 
-      ever, being thus entombed alive. For a long time we gave up
+      ever, being thus entombed alive. For a long [[Time|time]] we gave up
 
-      supinely to the most intense agony and despair, such as cannot be
+      supinely to the most intense agony and [[Despair|despair]], such as cannot be
 
       adequately imagined by those who have never been in a similar
 
@@ -80,7 +80,7 @@ CHAPTER 21
 
       stifling fumes from the damp earth, unite with the ghastly
 
-      considerations that we are beyond the remotest confines of hope,
+      considerations that we are beyond the remotest confines of [[Hope|hope]],
 
       and that such is the allotted portion of the dead, to carry into
 
@@ -92,11 +92,11 @@ CHAPTER 21
 
       At length Peters proposed that we should endeavour to ascertain
 
-      precisely the extent of our calamity, and grope about our prison;
+      precisely the extent of our calamity, and grope about our [[Prison|prison]];
 
       it being barely possible, he observed, that some opening might
 
-      yet be left us for escape. I caught eagerly at this hope, and,
+      yet be left us for escape. I caught eagerly at this [[Hope|hope]], and,
 
       arousing myself to exertion, attempted to force my way through
 
@@ -108,7 +108,7 @@ CHAPTER 21
 
       We now took some degree of heart, and encouraged each other to
 
-      hope for the best. Having scrambled over a bank of rubbish which
+      [[Hope|hope]] for the best. Having scrambled over a bank of rubbish which
 
       impeded our farther progress in the direction of the light, we
 
@@ -132,7 +132,7 @@ CHAPTER 21
 
       see through the whole extent of this opening; but, as a good deal
 
-      of light came down it, we had little doubt of finding at the top
+      of light came down it, we had little [[Doubt|doubt]] of finding at the top
 
       of it (if we could by any means reach the top) a clear passage
 
@@ -150,7 +150,7 @@ CHAPTER 21
 
       in of the earth above us, Peters at length cried out to me that
 
-      he had hold of our companion’s foot, and that his whole body was
+      he had hold of our companion’s foot, and that his whole [[Body|body]] was
 
       deeply buried beneath the rubbish beyond the possibility of
 
@@ -168,7 +168,7 @@ CHAPTER 21
 
       after one or two ineffectual efforts at getting up, we began once
 
-      more to despair. I have before said that the chain of hills
+      more to [[Despair|despair]]. I have before said that the chain of hills
 
       through which ran the main gorge was composed of a species of
 
@@ -182,9 +182,9 @@ CHAPTER 21
 
       places, where the ascent was nearly perpendicular, the difficulty
 
-      was, of course, much aggravated; and, indeed, for some time we
+      was, of course, much aggravated; and, indeed, for some [[Time|time]] we
 
-      thought insurmountable. We took courage, however, from despair,
+      thought insurmountable. We took [[Courage|courage]], however, from [[Despair|despair]],
 
       and what, by dint of cutting steps in the soft stone with our
 
@@ -216,13 +216,13 @@ CHAPTER 21
 
       the rescue by firing the pistols which still remained in our
 
-      girdles—the muskets as well as cutlasses had been lost among the
+      girdles—the muskets as [[Well|well]] as cutlasses had been lost among the
 
-      loose earth at the bottom of the chasm. Subsequent events proved
+      loose earth at the [[Bottom|bottom]] of the chasm. Subsequent events proved
 
       that, had we fired, we should have sorely repented it, but
 
-      luckily a half suspicion of foul play had by this time arisen in
+      luckily a half suspicion of foul play had by this [[Time|time]] arisen in
 
       my mind, and we forbore to let the savages know of our
 
@@ -288,7 +288,7 @@ CHAPTER 21
 
       from the edge of the gulf. Strong cords of grape vine were
 
-      attached to the stakes still remaining on the hill, and it was
+      attached to the stakes still remaining on the [[Hill|hill]], and it was
 
       evident that such cords had also been attached to each of the
 
@@ -300,7 +300,7 @@ CHAPTER 21
 
       our escape from inhumation will afford a further conception of
 
-      its nature. This was such that almost every natural convulsion
+      its [[Nature|nature]]. This was such that almost every natural convulsion
 
       would be sure to split the soil into perpendicular layers or
 
@@ -312,7 +312,7 @@ CHAPTER 21
 
       themselves to accomplish their treacherous ends. There can be no
 
-      doubt that, by the continuous line of stakes, a partial rupture
+      [[Doubt|doubt]] that, by the continuous line of stakes, a partial rupture
 
       of the soil had been brought about probably to the depth of one
 
@@ -324,11 +324,11 @@ CHAPTER 21
 
       leverage power was obtained, capable of hurling the whole face of
 
-      the hill, upon a given signal, into the bosom of the abyss below.
+      the [[Hill|hill]], upon a given signal, into the bosom of the abyss below.
 
       The fate of our poor companions was no longer a matter of
 
-      uncertainty. We alone had escaped from the tempest of that
+      uncertainty. We [[Alone|alone]] had escaped from the tempest of that
 
       overwhelming destruction. We were the only living white men upon
 

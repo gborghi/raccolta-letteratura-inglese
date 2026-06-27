@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — Sacrament Or Magic"
+title: "Man Orthodox — Sacrament Or [[Magic]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,11 +14,11 @@ tags:
 </nav>
 
 
-SACRAMENT OR MAGIC
+SACRAMENT OR [[Magic|MAGIC]]
 
 Whenever men really believe that they can get to the spiritual,
 they always employ the material.  When the purpose is good,
 it is bread and wine; when the purpose is evil, it is eye
 of newt and toe of frog.
 
-                             Illustrated London News, September 22nd, 1906
+                             Illustrated [[London]] News, September 22nd, 1906

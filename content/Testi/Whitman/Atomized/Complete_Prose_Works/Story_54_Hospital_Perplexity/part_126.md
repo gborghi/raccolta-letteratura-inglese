@@ -15,45 +15,45 @@ tags:
 
 
 On a large and fertile neck of land that juts out in the Sound,
-stretching to the east of New York city, there stood, in the latter part
+stretching to the east of [[New York]] [[City|city]], there stood, in the latter part
 of the last century, an old-fashion'd country-residence. It had been
 built by one of the first settlers of this section of the New World; and
 its occupant was originally owner of the extensive tract lying adjacent
-to his house, and pushing into the bosom of the salt waters. It was
+to his [[house]], and pushing into the bosom of the salt waters. It was
 during the troubled times which mark'd our American Revolution that
 the incidents occurr'd which are the foundation of my story. Some
-time before the commencement of the war, the owner, whom I shall call
-Vanhome, was taken sick and died. For some time before his death he had
-lived a widower; and his only child, a lad of ten years old, was thus
-left an orphan. By his father's will this child was placed implicitly
+[[Time|time]] before the commencement of the war, the owner, whom I shall call
+Vanhome, was taken sick and died. For some [[Time|time]] before his [[Death|death]] he had
+lived a widower; and his only [[Child|child]], a lad of ten years old, was thus
+left an [[Orphan|orphan]]. By his father's will this [[Child|child]] was placed implicitly
 under the guardianship of an uncle, a middle-aged man, who had been
 of late a resident in the family. His care and interest, however, were
 needed but a little while--not two years claps'd after the parents were
-laid away to their last repose before another grave had to be prepared
-for the son--the child who had been so haplessly deprived of their
+laid away to their last repose before another [[Grave|grave]] had to be prepared
+for the son--the [[Child|child]] who had been so haplessly deprived of their
 fostering care.
 
 The period now arrived when the great national convulsion burst
 forth. Sounds of strife and the clash of arms, and the angry voices of
 disputants, were borne along by the air, and week after week grew to
-still louder clamor. Families were divided; adherents to the crown, and
+still louder clamor. Families were divided; adherents to the [[Crown|crown]], and
 ardent upholders of the rebellion, were often found in the bosom of the
 same domestic circle. Vanhome, the uncle spoken of as guardian to the
 young heir, was a man who lean'd to the stern, the high-handed and the
 severe. He soon became known among the most energetic of the loyalists.
 So decided were his sentiments that, leaving the estate which he had
 inherited from his brother and nephew, he join'd the forces of the
-British king. Thenceforward, whenever his old neighbors heard of him, it
+British [[King|king]]. Thenceforward, whenever his old neighbors heard of him, it
 was as being engaged in the cruelest outrages, the boldest inroads, or
 the most determin'd attacks upon the army of his countrymen or their
-peaceful settlements. Eight years brought the rebel States and their
+peaceful settlements. Eight years brought the [[Rebel|rebel]] States and their
 leaders to that glorious epoch when the last remnant of a monarch's rule
 was to leave their shores--when the last waving of the royal standard
 was to flutter as it should be haul'd down from the staff, and its place
-fill'd by the proud testimonial of our warriors' success.
+fill'd by the proud testimonial of our warriors' [[success]].
 
-Pleasantly over the autumn fields shone the November sun, when a
-horseman, of somewhat military look, plodded slowly along the road that
+Pleasantly over the [[Autumn|autumn]] fields shone the November sun, when a
+horseman, of somewhat military look, plodded slowly along the [[Road|road]] that
 led to the old Vanhome farmhouse. There was nothing peculiar in his
 attire, unless it might be a red scarf which he wore tied round his
 waist. He was a dark-featured, sullen-eyed man; and as his glance was
@@ -62,16 +62,16 @@ be that of a person moving amid familiar and accustom'd scenes.
 Occasionally he stopp'd, and looking long and steadily at some object
 that attracted his attention, mutter'd to himself, like one in whose
 breast busy thoughts were moving. His course was evidently to the
-homestead itself, at which in due time he arrived. He dismounted, led
-his horse to the stables, and then, without knocking, though there were
+homestead itself, at which in due [[Time|time]] he arrived. He dismounted, led
+his [[Horse|horse]] to the stables, and then, without knocking, though there were
 evident signs of occupancy around the building, the traveler made his
 entrance as composedly and boldly as though he were master of the whole
 establishment.
 
-Now the house being in a measure deserted for many years, and the
+Now the [[house]] being in a measure deserted for many years, and the
 successful termination of the strife rendering it probable that the
-Vanhome estate would be confiscated to the new government, an aged,
-poverty-stricken couple had been encouraged by the neighbors to take
+Vanhome estate would be confiscated to the new [[government]], an aged,
+[[Poverty|poverty]]-stricken couple had been encouraged by the neighbors to take
 possession as tenants of the place. Their name was Gills; and these
 people the traveler found upon his entrance were likely to be his host
 and hostess. Holding their right as they did by so slight a tenure,
@@ -83,7 +83,7 @@ interloper, gloomy and taciturn, made no signs of departing. But as
 the evening advanced (whether the darkness was congenial to his sombre
 thoughts, or whether it merely chanced so) he seem'd to grow more
 affable and communicative, and informed Gills that he should pass the
-night there, tendering him at the same time ample remuneration, which
+[[Night|night]] there, tendering him at the same [[Time|time]] ample remuneration, which
 the latter accepted with many thanks.
 
 "Tell me," said he to his aged host, when they were all sitting around
@@ -96,7 +96,7 @@ ourselves at about the same place which we filled in the beginning."
 
 "Can you relate nothing, then?" rejoin'd the guest, and a singular
 smile pass'd over his features; "can you say nothing about your own
-place?--this house or its former inhabitants, or former history?"
+place?--this [[house]] or its former inhabitants, or former [[history]]?"
 
 The old man glanced across to his wife, and a look expressive of
 sympathetic feeling started in the face of each.
@@ -105,7 +105,7 @@ sympathetic feeling started in the face of each.
 upon you, instead of the pleasant feeling which it would be best to
 foster when in strange walls."
 
-"Strange walls!" echoed he of the red scarf, and for the first time
+"Strange walls!" echoed he of the red scarf, and for the first [[Time|time]]
 since his arrival he half laughed, but it was not the laugh which comes
 from a man's heart.
 

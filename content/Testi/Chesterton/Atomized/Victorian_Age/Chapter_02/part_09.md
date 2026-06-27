@@ -28,7 +28,7 @@ mortal enemies. They were much more opposed to each other than Newman
 
 was to Kingsley; or than Abelard was to St. Bernard. But then they
 
-collided in a sceptical age, which is like colliding in a London fog.
+collided in a sceptical age, which is like colliding in a [[London]] fog.
 
 There can never be any clear controversy in a sceptical age.
 
@@ -38,19 +38,19 @@ Nevertheless both Hardy and Meredith did mean something; and they did
 
 mean diametrically opposite things. Meredith was perhaps the only man
 
-in the modern world who has almost had the high honour of rising out of
+in the modern world who has almost had the high [[Honour|honour]] of rising out of
 
 the low estate of a Pantheist into the high estate of a Pagan. A Pagan
 
 is a person who can do what hardly any person for the last two thousand
 
-years could do: a person who can take Nature naturally. It is due to
+years could do: a person who can take [[Nature]] naturally. It is due to
 
 Meredith to say that no one outside a few of the great Greeks has ever
 
-taken Nature so naturally as he did. And it is also due to him to say
+taken [[Nature]] so naturally as he did. And it is also due to him to say
 
-that no one outside Colney Hatch ever took Nature so unnaturally as it
+that no one outside Colney Hatch ever took [[Nature]] so unnaturally as it
 
 was taken in what Mr. Hardy has had the blasphemy to call Wessex Tales.
 
@@ -70,7 +70,7 @@ Pan is the great god. But there is some sense in it, and the sense is
 
 this: that some people believe that this world is sufficiently good at
 
-bottom for us to trust ourselves to it without very much knowing why. It
+[[Bottom|bottom]] for us to trust ourselves to it without very much knowing why. It
 
 is the whole point in most of Meredith's tales that there is something
 
@@ -86,7 +86,7 @@ interesting epigrams: like that about passing Seraglio Point, but not
 
 doubling Cape Turk. Those who can see Meredith's mind in that are with
 
-those who can see Dickens' mind in Little Nell. Both were chivalrous
+those who can see Dickens' mind in [[Little Nell]]. Both were chivalrous
 
 pronouncements on behalf of oppressed females: neither has any earthly
 
@@ -108,7 +108,7 @@ is the opposite of what he was always attempting to say. So far from
 
 admitting any equality in the sexes, it logically admits that a man may
 
-use against a woman any chains or whips he has been in the habit of
+use against a woman any [[Chains|chains]] or whips he has been in the habit of
 
 using against a tiger or a bear. He stood as the special champion of
 
@@ -132,7 +132,7 @@ mastery: he, at any rate, has not doubled Cape Turk, nor even passed
 
 Seraglio Point. Now why is it that we all really feel that this
 
-Meredithian passage is not so insolently masculine as in mere logic it
+Meredithian passage is not so insolently masculine as in mere [[logic]] it
 
 would seem? I think it is for this simple reason: that there is
 
@@ -158,13 +158,13 @@ Dickens and Carlyle, as we have said, rebelled against the orthodox
 
 compromise: but Meredith has escaped from it. Cosmopolitanism,
 
-Socialism, Feminism are already in the air; and Queen Victoria has
+Socialism, Feminism are already in the air; and [[Queen]] Victoria has
 
-begun to look like Mrs. Grundy. But to escape from a city is one thing:
+begun to look like Mrs. Grundy. But to escape from a [[City|city]] is one thing:
 
-to choose a road is another. The free-thinker who found himself outside
+to choose a [[Road|road]] is another. The free-thinker who found himself outside
 
-the Victorian city, found himself also in the fork of two very different
+the Victorian [[City|city]], found himself also in the fork of two very different
 
 naturalistic paths. One of them went upwards through a tangled but
 
@@ -180,7 +180,7 @@ and blaspheming over the village idiot. It is largely because the
 
 free-thinkers, as a school, have hardly made up their minds whether they
 
-want to be more optimist or more pessimist than Christianity that their
+want to be more optimist or more pessimist than [[Christianity]] that their
 
 small but sincere movement has failed.
 
@@ -188,12 +188,12 @@ small but sincere movement has failed.
 
 For the duel is deadly; and any agnostic who wishes to be anything more
 
-than a Nihilist must sympathise with one version of nature or the
+than a Nihilist must sympathise with one version of [[Nature|nature]] or the
 
 other. The God of Meredith is impersonal; but he is often more healthy
 
 and kindly than any of the persons. That of Thomas Hardy is almost made
 
-personal by the intense feeling that he is poisonous. Nature is always
+personal by the intense feeling that he is poisonous. [[Nature]] is always
 
-coming in to save Meredith's women; Nature is always coming in to betray
+coming in to save Meredith's women; [[Nature]] is always coming in to betray

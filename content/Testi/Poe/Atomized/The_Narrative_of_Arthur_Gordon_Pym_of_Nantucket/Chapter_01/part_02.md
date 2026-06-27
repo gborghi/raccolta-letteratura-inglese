@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 2 (part 2)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 2 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -20,15 +20,15 @@ enveloped in a thick seaman's cloak, which he had brought with him, so
 
 that my person might not be easily recognised. Just as we turned the
 
-second corner, after passing Mr. Edmund's well, who should appear,
+second corner, after passing Mr. [[Edmund]]'s [[Well|well]], who should appear,
 
 standing right in front of me, and looking me full in the face, but old
 
-Mr. Peterson, my grandfather. "Why, bless my soul, Gordon," said he,
+Mr. Peterson, my grandfather. "Why, bless my [[Soul|soul]], Gordon," said he,
 
 after a long pause, "why, why--_whose_ dirty cloak is that you have
 
-on?" "Sir!" I replied, assuming, as well as I could, in the exigency of
+on?" "Sir!" I replied, assuming, as [[Well|well]] as I could, in the exigency of
 
 the moment, an air of offended surprise, and talking in the gruffest of
 
@@ -54,7 +54,7 @@ round, hobbled off down the street, shaking all the while with rage,
 
 and muttering between his teeth, "Won't do--new glasses--thought it was
 
-Gordon--d----d good-for-nothing salt water Long Tom."
+Gordon--d----d good-for-nothing salt [[Water|water]] Long Tom."
 
 
 
@@ -64,7 +64,7 @@ at our point of destination in safety. There were only one or two of
 
 the hands on board, and these were busy forward, doing something to the
 
-forecastle combings. Captain Barnard, we knew very well, was engaged at
+forecastle combings. Captain Barnard, we knew very [[Well|well]], was engaged at
 
 Lloyd and Vredenburgh's, and would remain there until late in the
 
@@ -86,9 +86,9 @@ valuable carpet covering the floor of both the cabin and staterooms.
 
 The ceiling was full seven feet high, and, in short, everything
 
-appeared of a more roomy and agreeable nature than I had anticipated.
+appeared of a more roomy and agreeable [[Nature|nature]] than I had anticipated.
 
-Augustus, however, would allow me but little time for observation,
+Augustus, however, would allow me but little [[Time|time]] for observation,
 
 insisting upon the necessity of my concealing myself as soon as
 
@@ -124,7 +124,7 @@ one corner of the space just mentioned, letting me know that a portion
 
 of the flooring, about sixteen inches square, had been neatly cut out
 
-and again adjusted. As he pressed, this portion rose up at one end
+and again adjusted. As he pressed, this portion [[Rose|rose]] up at one end
 
 sufficiently to allow the passage of his finger beneath. In this manner
 
@@ -170,7 +170,7 @@ cabin. In every other direction around was wedged as closely as
 
 possible, even up to the ceiling, a complete chaos of almost every
 
-species of ship-furniture, together with a heterogeneous medley of
+species of [[Ship|ship]]-furniture, together with a heterogeneous medley of
 
 crates, hampers, barrels, and bales, so that it seemed a matter no less
 
@@ -190,8 +190,8 @@ removed at pleasure. He slipped it aside and displayed the interior, at
 
 which I was excessively amused. A mattress from one of the cabin berths
 
-covered the whole of its bottom, and it contained almost every article
+covered the whole of its [[Bottom|bottom]], and it contained almost every article
 
 of mere comfort which could be crowded into so small a space, allowing
 
-me, at the same time, sufficient room for my accommodation, either in a
+me, at the same [[Time|time]], sufficient room for my accommodation, either in a

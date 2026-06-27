@@ -17,33 +17,33 @@ tags:
 Of all this, Cousin Feenix delivered himself with an obviously nervous
 and discomposed air. Then, giving his arm to Florence, and putting the
 strongest possible constraint upon his wilful legs, which seemed
-determined to go out into the garden, he led her to the door, and
+determined to go out into the [[Garden|garden]], he led her to the door, and
 handed her into a carriage that was ready for her reception.
 
 Walter entered after him, and they drove away.
 
 Their ride was six or eight miles long. When they drove through certain
-dull and stately streets, lying westward in London, it was growing
-dusk. Florence had, by this time, put her hand in Walter’s; and was
+dull and stately streets, lying westward in [[London]], it was growing
+dusk. Florence had, by this [[Time|time]], put her hand in Walter’s; and was
 looking very earnestly, and with increasing agitation, into every new
 street into which they turned.
 
-When the carriage stopped, at last, before that house in Brook Street,
-where her father’s unhappy marriage had been celebrated, Florence said,
+When the carriage stopped, at last, before that [[house]] in Brook Street,
+where her father’s unhappy [[Marriage|marriage]] had been celebrated, Florence said,
 “Walter, what is this? Who is here?” Walter cheering her, and not
-replying, she glanced up at the house-front, and saw that all the
+replying, she glanced up at the [[house]]-front, and saw that all the
 windows were shut, as if it were uninhabited. Cousin Feenix had by this
-time alighted, and was offering his hand.
+[[Time|time]] alighted, and was offering his hand.
 
 “Are you not coming, Walter?”
 
-“No, I will remain here. Don’t tremble there is nothing to fear,
+“No, I will remain here. Don’t tremble there is nothing to [[Fear|fear]],
 dearest Florence.”
 
 “I know that, Walter, with you so near. I am sure of that, but—”
 
 The door was softly opened, without any knock, and Cousin Feenix led
-her out of the summer evening air into the close dull house. More
+her out of the [[Summer|summer]] evening air into the close dull [[house]]. More
 sombre and brown than ever, it seemed to have been shut up from the
 wedding-day, and to have hoarded darkness and sadness ever since.
 
@@ -52,7 +52,7 @@ conductor, at the drawing-room door. He opened it, without speaking,
 and signed an entreaty to her to advance into the inner room, while he
 remained there. Florence, after hesitating an instant, complied.
 
-Sitting by the window at a table, where she seemed to have been writing
+Sitting by the [[Window|window]] at a table, where she seemed to have been writing
 or drawing, was a lady, whose head, turned away towards the dying
 light, was resting on her hand. Florence advancing, doubtfully, all at
 once stood still, as if she had lost the power of motion. The lady
@@ -60,17 +60,17 @@ turned her head.
 
 “Great Heaven!” she said, “what is this?”
 
-“No, no!” cried Florence, shrinking back as she rose up and putting out
+“No, no!” cried Florence, shrinking back as she [[Rose|rose]] up and putting out
 her hands to keep her off. “Mama!”
 
-They stood looking at each other. Passion and pride had worn it, but it
+They stood looking at each other. Passion and [[Pride|pride]] had worn it, but it
 was the face of Edith, and beautiful and stately yet. It was the face
 of Florence, and through all the terrified avoidance it expressed,
-there was pity in it, sorrow, a grateful tender memory. On each face,
-wonder and fear were painted vividly; each so still and silent, looking
+there was pity in it, sorrow, a grateful tender [[Memory|memory]]. On each face,
+[[Wonder|wonder]] and [[Fear|fear]] were painted vividly; each so still and silent, looking
 at the other over the black gulf of the irrevocable past.
 
-Florence was the first to change. Bursting into tears, she said from
+Florence was the first to change. Bursting into [[Tears|tears]], she said from
 her full heart, “Oh, Mama, Mama! why do we meet like this? Why were you
 ever kind to me when there was no one else, that we should meet like
 this?”
@@ -92,17 +92,17 @@ you are repentant; that you are changed,” said Florence, looking
 mournfully upon her; “and he will speak to Papa with me, I know. Is
 there anything but this that I can do?”
 
-Edith, breaking her silence, without moving eye or limb, answered
+Edith, breaking her [[Silence|silence]], without moving eye or limb, answered
 slowly:
 
-“The stain upon your name, upon your husband’s, on your child’s. Will
+“The stain upon your name, upon your husband’s, on your [[Child|child]]’s. Will
 that ever be forgiven, Florence?”
 
 “Will it ever be, Mama? It is! Freely, freely, both by Walter and by
 me. If that is any consolation to you, there is nothing that you may
 believe more certainly. You do not—you do not,” faltered Florence,
 “speak of Papa; but I am sure you wish that I should ask him for his
-forgiveness. I am sure you do.”
+[[Forgiveness|forgiveness]]. I am sure you do.”
 
 She answered not a word.
 
@@ -110,7 +110,7 @@ She answered not a word.
 then, perhaps, we may take leave of each other, more like what we used
 to be to one another. I have not,” said Florence very gently, and
 drawing nearer to her, “I have not shrunk back from you, Mama, because
-I fear you, or because I dread to be disgraced by you. I only wish to
+I [[Fear|fear]] you, or because I dread to be disgraced by you. I only wish to
 do my duty to Papa. I am very dear to him, and he is very dear to me.
 But I never can forget that you were very good to me. Oh, pray to
 Heaven,” cried Florence, falling on her bosom, “pray to Heaven, Mama,
@@ -122,29 +122,29 @@ caught her round the neck.
 
 “Florence!” she cried. “My better angel! Before I am mad again, before
 my stubbornness comes back and strikes me dumb, believe me, upon my
-soul I am innocent!”
+[[Soul|soul]] I am [[Innocent|innocent]]!”
 
 “Mama!”
 
 “Guilty of much! Guilty of that which sets a waste between us evermore.
 Guilty of what must separate me, through the whole remainder of my
-life, from purity and innocence—from you, of all the earth. Guilty of a
+life, from purity and [[innocence]]—from you, of all the earth. Guilty of a
 blind and passionate resentment, of which I do not, cannot, will not,
 even now, repent; but not guilty with that dead man. Before God!”
 
 Upon her knees upon the ground, she held up both her hands, and swore
 it.
 
-“Florence!” she said, “purest and best of natures,—whom I love—who
-might have changed me long ago, and did for a time work some change
-even in the woman that I am,—believe me, I am innocent of that; and
+“Florence!” she said, “purest and best of natures,—whom I [[Love|love]]—who
+might have changed me long ago, and did for a [[Time|time]] work some change
+even in the woman that I am,—believe me, I am [[Innocent|innocent]] of that; and
 once more, on my desolate heart, let me lay this dear head, for the
-last time!”
+last [[Time|time]]!”
 
 She was moved and weeping. Had she been oftener thus in older days, she
 had been happier now.
 
 “There is nothing else in all the world,” she said, “that would have
-wrung denial from me. No love, no hatred, no hope, no threat. I said
+wrung denial from me. No [[Love|love]], no hatred, no [[Hope|hope]], no threat. I said
 that I would die, and make no sign. I could have done so, and I would,
 if we had never met, Florence.”

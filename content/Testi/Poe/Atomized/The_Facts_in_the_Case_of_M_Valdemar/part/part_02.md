@@ -1,5 +1,5 @@
 ---
-title: "The Facts in the Case of M. Valdemar (part 2)"
+title: "[[The Facts in the Case of M. Valdemar]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Facts-in-the-Case-of-M.-Valdemar-(Poe)"
@@ -17,25 +17,25 @@ tags:
       On quitting the invalid’s bed-side to hold conversation with
       myself, Doctors D—— and F—— had bidden him a final farewell. It
       had not been their intention to return; but, at my request, they
-      agreed to look in upon the patient about ten the next night.
+      agreed to look in upon the patient about ten the next [[Night|night]].
 
       When they had gone, I spoke freely with M. Valdemar on the
-      subject of his approaching dissolution, as well as, more
+      subject of his approaching dissolution, as [[Well|well]] as, more
       particularly, of the experiment proposed. He still professed
       himself quite willing and even anxious to have it made, and urged
-      me to commence it at once. A male and a female nurse were in
+      me to commence it at once. A male and a female [[Nurse|nurse]] were in
       attendance; but I did not feel myself altogether at liberty to
       engage in a task of this character with no more reliable
       witnesses than these people, in case of sudden accident, might
       prove. I therefore postponed operations until about eight the
-      next night, when the arrival of a medical student with whom I had
+      next [[Night|night]], when the arrival of a medical student with whom I had
       some acquaintance, (Mr. Theodore L—l,) relieved me from farther
       embarrassment. It had been my design, originally, to wait for the
       physicians; but I was induced to proceed, first, by the urgent
       entreaties of M. Valdemar, and secondly, by my conviction that I
       had not a moment to lose, as he was evidently sinking fast.
 
-      Mr. L—l was so kind as to accede to my desire that he would take
+      Mr. L—l was so kind as to accede to my [[Desire|desire]] that he would take
       notes of all that occurred, and it is from his memoranda that
       what I now have to relate is, for the most part, either condensed
       or copied verbatim.
@@ -45,23 +45,23 @@ tags:
       L—l, whether he (M. Valdemar) was entirely willing that I should
       make the experiment of mesmerizing him in his then condition.
 
-      He replied feebly, yet quite audibly, “Yes, I wish to be. I fear
-      you have mesmerized”—adding immediately afterwards: “I fear you
+      He replied feebly, yet quite audibly, “Yes, I wish to be. I [[Fear|fear]]
+      you have mesmerized”—adding immediately afterwards: “I [[Fear|fear]] you
       have deferred it too long.”
 
       While he spoke thus, I commenced the passes which I had already
       found most effectual in subduing him. He was evidently influenced
       with the first lateral stroke of my hand across his forehead; but
       although I exerted all my powers, no further perceptible effect
-      was induced until some minutes after ten o’clock, when Doctors
+      was induced until some minutes after ten o’[[Clock|clock]], when Doctors
       D—— and F—— called, according to appointment. I explained to
       them, in a few words, what I designed, and as they opposed no
-      objection, saying that the patient was already in the death
+      objection, saying that the patient was already in the [[Death|death]]
       agony, I proceeded without hesitation—exchanging, however, the
       lateral passes for downward ones, and directing my gaze entirely
       into the right eye of the sufferer.
 
-      By this time his pulse was imperceptible and his breathing was
+      By this [[Time|time]] his pulse was imperceptible and his breathing was
       stertorous, and at intervals of half a minute.
 
       This condition was nearly unaltered for a quarter of an hour. At
@@ -74,9 +74,9 @@ tags:
       At five minutes before eleven I perceived unequivocal signs of
       the mesmeric influence. The glassy roll of the eye was changed
       for that expression of uneasy inward examination which is never
-      seen except in cases of sleep-waking, and which it is quite
+      seen except in cases of [[Sleep|sleep]]-waking, and which it is quite
       impossible to mistake. With a few rapid lateral passes I made the
-      lids quiver, as in incipient sleep, and with a few more I closed
+      lids quiver, as in incipient [[Sleep|sleep]], and with a few more I closed
       them altogether. I was not satisfied, however, with this, but
       continued the manipulations vigorously, and with the fullest
       exertion of the will, until I had completely stiffened the limbs
@@ -90,17 +90,17 @@ tags:
       condition. After a few experiments, they admitted him to be an
       unusually perfect state of mesmeric trance. The curiosity of both
       the physicians was greatly excited. Dr. D—— resolved at once to
-      remain with the patient all night, while Dr. F—— took leave with
+      remain with the patient all [[Night|night]], while Dr. F—— took leave with
       a promise to return at daybreak. Mr. L—l and the nurses remained.
 
       We left M. Valdemar entirely undisturbed until about three
-      o’clock in the morning, when I approached him and found him in
+      o’[[Clock|clock]] in the morning, when I approached him and found him in
       precisely the same condition as when Dr. F—— went away—that is to
       say, he lay in the same position; the pulse was imperceptible;
       the breathing was gentle (scarcely noticeable, unless through the
-      application of a mirror to the lips); the eyes were closed
+      application of a [[Mirror|mirror]] to the lips); the eyes were closed
       naturally; and the limbs were as rigid and as cold as marble.
-      Still, the general appearance was certainly not that of death.
+      Still, the general appearance was certainly not that of [[Death|death]].
 
       As I approached M. Valdemar I made a kind of half effort to
       influence his right arm into pursuit of my own, as I passed the

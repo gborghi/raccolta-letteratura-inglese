@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 21"
+title: "[[Nicholas Nickleby]] — Chapter 21"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -20,7 +20,7 @@ Madam Mantalini finds herself in a Situation of some Difficulty, and
 Miss Nickleby finds herself in no Situation at all
 
 
-The agitation she had undergone, rendered Kate Nickleby unable to resume
+The agitation she had undergone, rendered [[Kate Nickleby]] unable to resume
 her duties at the dressmaker’s for three days, at the expiration of
 which interval she betook herself at the accustomed hour, and with
 languid steps, to the temple of fashion where Madame Mantalini reigned
@@ -50,10 +50,10 @@ reflections, when the voice of Madame Mantalini, conveyed through
 the speaking-tube, ordered Miss Nickleby upstairs to assist in the
 arrangement of the show-room; a distinction which caused Miss Knag to
 toss her head so much, and bite her lips so hard, that her powers of
-conversation were, for the time, annihilated.
+conversation were, for the [[Time|time]], annihilated.
 
-‘Well, Miss Nickleby, child,’ said Madame Mantalini, when Kate presented
-herself; ‘are you quite well again?’
+‘[[Well]], Miss Nickleby, [[Child|child]],’ said Madame Mantalini, when Kate presented
+herself; ‘are you quite [[Well|well]] again?’
 
 ‘A great deal better, thank you,’ replied Kate.
 
@@ -62,51 +62,51 @@ herself with an air of weariness.
 
 ‘Are you ill?’ asked Kate. ‘I am very sorry for that.’
 
-‘Not exactly ill, but worried, child--worried,’ rejoined Madame.
+‘Not exactly ill, but worried, [[Child|child]]--worried,’ rejoined Madame.
 
 ‘I am still more sorry to hear that,’ said Kate, gently. ‘Bodily illness
 is more easy to bear than mental.’
 
 ‘Ah! and it’s much easier to talk than to bear either,’ said Madame,
 rubbing her nose with much irritability of manner. ‘There, get to your
-work, child, and put the things in order, do.’
+work, [[Child|child]], and put the things in order, do.’
 
 While Kate was wondering within herself what these symptoms of unusual
 vexation portended, Mr. Mantalini put the tips of his whiskers, and, by
 degrees, his head, through the half-opened door, and cried in a soft
 voice--
 
-‘Is my life and soul there?’
+‘Is my life and [[Soul|soul]] there?’
 
 ‘No,’ replied his wife.
 
 ‘How can it say so, when it is blooming in the front room like a little
-rose in a demnition flower-pot?’ urged Mantalini. ‘May its poppet come
+[[Rose|rose]] in a demnition flower-pot?’ urged Mantalini. ‘May its poppet come
 in and talk?’
 
 ‘Certainly not,’ replied Madame: ‘you know I never allow you here. Go
 along!’
 
 The poppet, however, encouraged perhaps by the relenting tone of this
-reply, ventured to rebel, and, stealing into the room, made towards
+reply, ventured to [[Rebel|rebel]], and, stealing into the room, made towards
 Madame Mantalini on tiptoe, blowing her a kiss as he came along.
 
 ‘Why will it vex itself, and twist its little face into bewitching
 nutcrackers?’ said Mantalini, putting his left arm round the waist of
-his life and soul, and drawing her towards him with his right.
+his life and [[Soul|soul]], and drawing her towards him with his right.
 
 ‘Oh! I can’t bear you,’ replied his wife.
 
 ‘Not--eh, not bear ME!’ exclaimed Mantalini. ‘Fibs, fibs. It couldn’t
 be. There’s not a woman alive, that could tell me such a thing to my
 face--to my own face.’ Mr. Mantalini stroked his chin, as he said this,
-and glanced complacently at an opposite mirror.
+and glanced complacently at an opposite [[Mirror|mirror]].
 
 ‘Such destructive extravagance,’ reasoned his wife, in a low tone.
 
 ‘All in its joy at having gained such a lovely creature, such a little
-Venus, such a demd, enchanting, bewitching, engrossing, captivating
-little Venus,’ said Mantalini.
+[[Venus]], such a demd, enchanting, bewitching, engrossing, captivating
+little [[Venus]],’ said Mantalini.
 
 ‘See what a situation you have placed me in!’ urged Madame.
 
@@ -126,7 +126,7 @@ Mantalini appeared to make reference, more than once, to certain debts
 incurred by Mr. Mantalini previous to her coverture; and also to an
 unexpected outlay of money in payment of the aforesaid debts; and
 furthermore, to certain agreeable weaknesses on that gentleman’s part,
-such as gaming, wasting, idling, and a tendency to horse-flesh; each
+such as gaming, wasting, idling, and a tendency to [[Horse|horse]]-flesh; each
 of which matters of accusation Mr. Mantalini disposed of, by one kiss
 or more, as its relative importance demanded. The upshot of it all
 was, that Madame Mantalini was in raptures with him, and that they went
@@ -166,7 +166,7 @@ your govvernor?’
 ‘My what--did you say?’ asked Kate, trembling; for she thought
 ‘governor’ might be slang for watch or money.
 
-‘Mister Muntlehiney,’ said the man. ‘Wot’s come on him? Is he at home?’
+‘Mister Muntlehiney,’ said the man. ‘Wot’s come on him? Is he at [[Home|home]]?’
 
 ‘He is above stairs, I believe,’ replied Kate, a little reassured by
 this inquiry. ‘Do you want him?’
@@ -179,12 +179,12 @@ With these words, the stranger put a thick square card into Kate’s hand,
 and, turning to his friend, remarked, with an easy air, ‘that the rooms
 was a good high pitch;’ to which the friend assented, adding, by way of
 illustration, ‘that there was lots of room for a little boy to grow up
-a man in either on ‘em, vithout much fear of his ever bringing his head
+a man in either on ‘em, vithout much [[Fear|fear]] of his ever bringing his head
 into contract vith the ceiling.’
 
 After ringing the bell which would summon Madame Mantalini, Kate glanced
 at the card, and saw that it displayed the name of ‘Scaley,’ together
-with some other information to which she had not had time to refer, when
+with some other information to which she had not had [[Time|time]] to refer, when
 her attention was attracted by Mr. Scaley himself, who, walking up to one
 of the cheval-glasses, gave it a hard poke in the centre with his stick,
 as coolly as if it had been made of cast iron.
@@ -208,7 +208,7 @@ the room, uttered an exclamation of surprise which roused him.
 
 ‘Then,’ said Mr. Scaley, producing a small document from his pocket and
 unfolding it very slowly, ‘this is a writ of execution, and if it’s not
-conwenient to settle we’ll go over the house at wunst, please, and take
+conwenient to settle we’ll go over the [[house]] at wunst, please, and take
 the inwentory.’
 
 Poor Madame Mantalini wrung her hands for grief, and rung the bell
@@ -228,7 +228,7 @@ Such was the posture of affairs when Mr. Mantalini hurried in; and as
 that distinguished specimen had had a pretty extensive intercourse with
 Mr. Scaley’s fraternity in his bachelor days, and was, besides, very
 far from being taken by surprise on the present agitating occasion, he
-merely shrugged his shoulders, thrust his hands down to the bottom of
+merely shrugged his shoulders, thrust his hands down to the [[Bottom|bottom]] of
 his pockets, elevated his eyebrows, whistled a bar or two, swore an oath
 or two, and, sitting astride upon a chair, put the best face upon the
 matter with great composure and decency.
@@ -247,11 +247,11 @@ went along with it, that I know on,’ observed Mr. Tix.
 
 ‘Not a button,’ said Scaley.
 
-‘Well,’ said the same gentleman, after a pause, ‘wot’s to be
+‘[[Well]],’ said the same gentleman, after a pause, ‘wot’s to be
 done--anything? Is it only a small crack, or a out-and-out smash? A
 break-up of the constitootion is it?--werry good. Then Mr. Tom Tix,
 esk-vire, you must inform your angel wife and lovely family as you won’t
-sleep at home for three nights to come, along of being in possession
+[[Sleep|sleep]] at [[Home|home]] for three nights to come, along of being in possession
 here. Wot’s the good of the lady a fretting herself?’ continued Mr
 Scaley, as Madame Mantalini sobbed. ‘A good half of wot’s here isn’t
 paid for, I des-say, and wot a consolation oughtn’t that to be to her
@@ -268,7 +268,7 @@ with a penitent air; ‘will you listen to me for two minutes?’
 ‘Oh! don’t speak to me,’ replied his wife, sobbing. ‘You have ruined me,
 and that’s enough.’
 
-Mr. Mantalini, who had doubtless well considered his part, no sooner
+Mr. Mantalini, who had doubtless [[Well|well]] considered his part, no sooner
 heard these words pronounced in a tone of grief and severity, than he
 recoiled several paces, assumed an expression of consuming mental agony,
 rushed headlong from the room, and was, soon afterwards, heard to slam
@@ -302,14 +302,14 @@ dash his head against the wall--taking very good care to be at least six
 feet from it.
 
 ‘Compose yourself, my own angel,’ said Madame. ‘It was nobody’s fault;
-it was mine as much as yours, we shall do very well yet. Come, Alfred,
+it was mine as much as yours, we shall do very [[Well|well]] yet. Come, Alfred,
 come.’
 
 Mr. Mantalini did not think proper to come to, all at once; but, after
-calling several times for poison, and requesting some lady or gentleman
+calling several times for [[Poison|poison]], and requesting some lady or gentleman
 to blow his brains out, gentler feelings came upon him, and he wept
 pathetically. In this softened frame of mind he did not oppose the
-capture of the knife--which, to tell the truth, he was rather glad to be
+capture of the knife--which, to tell the [[Truth|truth]], he was rather glad to be
 rid of, as an inconvenient and dangerous article for a skirt pocket--and
 finally he suffered himself to be led away by his affectionate partner.
 
@@ -328,18 +328,18 @@ that precise effect.
 to observe, had never said so before), ‘I say again, that a milliner’s
 and dressmaker’s is the very last description of business, Kate, that
 you should have thought of attaching yourself to. I don’t make it
-a reproach to you, my love; but still I will say, that if you had
+a reproach to you, my [[Love|love]]; but still I will say, that if you had
 consulted your own mother--’
 
-‘Well, well, mama,’ said Kate, mildly: ‘what would you recommend now?’
+‘[[Well]], [[Well|well]], mama,’ said Kate, mildly: ‘what would you recommend now?’
 
 ‘Recommend!’ cried Mrs. Nickleby, ‘isn’t it obvious, my dear, that of all
 occupations in this world for a young lady situated as you are, that
 of companion to some amiable lady is the very thing for which your
-education, and manners, and personal appearance, and everything else,
+[[Education|education]], and manners, and personal appearance, and everything else,
 exactly qualify you? Did you never hear your poor dear papa speak of the
 young lady who was the daughter of the old lady who boarded in the same
-house that he boarded in once, when he was a bachelor--what was her name
+[[house]] that he boarded in once, when he was a bachelor--what was her name
 again? I know it began with a B, and ended with g, but whether it was
 Waters or--no, it couldn’t have been that, either; but whatever her name
 was, don’t you know that that young lady went as companion to a married
@@ -347,14 +347,14 @@ lady who died soon afterwards, and that she married the husband, and had
 one of the finest little boys that the medical man had ever seen--all
 within eighteen months?’
 
-Kate knew, perfectly well, that this torrent of favourable recollection
+Kate knew, perfectly [[Well|well]], that this torrent of favourable recollection
 was occasioned by some opening, real or imaginary, which her mother had
 discovered, in the companionship walk of life. She therefore waited,
 very patiently, until all reminiscences and anecdotes, bearing or not
 bearing upon the subject, had been exhausted, and at last ventured
-to inquire what discovery had been made. The truth then came out. Mrs
+to inquire what discovery had been made. The [[Truth|truth]] then came out. Mrs
 Nickleby had, that morning, had a yesterday’s newspaper of the very
-first respectability from the public-house where the porter came from;
+first respectability from the public-[[house]] where the porter came from;
 and in this yesterday’s newspaper was an advertisement, couched in the
 purest and most grammatical English, announcing that a married lady was
 in want of a genteel young person as companion, and that the married
@@ -362,24 +362,24 @@ lady’s name and address were to be known, on application at a certain
 library at the west end of the town, therein mentioned.
 
 ‘And I say,’ exclaimed Mrs. Nickleby, laying the paper down in triumph,
-‘that if your uncle don’t object, it’s well worth the trial.’
+‘that if your uncle don’t object, it’s [[Well|well]] worth the trial.’
 
 Kate was too sick at heart, after the rough jostling she had already had
 with the world, and really cared too little at the moment what fate was
-reserved for her, to make any objection. Mr. Ralph Nickleby offered none,
+reserved for her, to make any objection. Mr. [[Ralph Nickleby]] offered none,
 but, on the contrary, highly approved of the suggestion; neither did he
 express any great surprise at Madame Mantalini’s sudden failure, indeed
 it would have been strange if he had, inasmuch as it had been procured
 and brought about chiefly by himself. So, the name and address were
-obtained without loss of time, and Miss Nickleby and her mama went off
-in quest of Mrs. Wititterly, of Cadogan Place, Sloane Street, that same
+obtained without loss of [[Time|time]], and Miss Nickleby and her mama went off
+in [[Quest|quest]] of Mrs. Wititterly, of Cadogan Place, Sloane Street, that same
 forenoon.
 
 Cadogan Place is the one slight bond that joins two great extremes; it
 is the connecting link between the aristocratic pavements of Belgrave
 Square, and the barbarism of Chelsea. It is in Sloane Street, but not of
 it. The people in Cadogan Place look down upon Sloane Street, and think
-Brompton low. They affect fashion too, and wonder where the New Road
+Brompton low. They affect fashion too, and [[Wonder|wonder]] where the New [[Road]]
 is. Not that they claim to be on precisely the same footing as the high
 folks of Belgrave Square and Grosvenor Place, but that they stand, with
 reference to them, rather in the light of those illegitimate children of
@@ -387,18 +387,18 @@ the great who are content to boast of their connections, although their
 connections disavow them. Wearing as much as they can of the airs
 and semblances of loftiest rank, the people of Cadogan Place have the
 realities of middle station. It is the conductor which communicates to
-the inhabitants of regions beyond its limit, the shock of pride of
+the inhabitants of regions beyond its limit, the shock of [[Pride|pride]] of
 birth and rank, which it has not within itself, but derives from a
 fountain-head beyond; or, like the ligament which unites the Siamese
 twins, it contains something of the life and essence of two distinct
 bodies, and yet belongs to neither.
 
 Upon this doubtful ground, lived Mrs. Wititterly, and at Mrs. Wititterly’s
-door Kate Nickleby knocked with trembling hand. The door was opened by
+door [[Kate Nickleby]] knocked with trembling hand. The door was opened by
 a big footman with his head floured, or chalked, or painted in some way
 (it didn’t look genuine powder), and the big footman, receiving the card
 of introduction, gave it to a little page; so little, indeed, that his
-body would not hold, in ordinary array, the number of small buttons
+[[Body|body]] would not hold, in ordinary array, the number of small buttons
 which are indispensable to a page’s costume, and they were consequently
 obliged to be stuck on four abreast. This young gentleman took the card
 upstairs on a salver, and pending his return, Kate and her mother were
@@ -419,7 +419,7 @@ for Mrs. Wititterly’s refreshment.
 
 The lady had an air of sweet insipidity, and a face of engaging
 paleness; there was a faded look about her, and about the furniture, and
-about the house. She was reclining on a sofa in such a very unstudied
+about the [[house]]. She was reclining on a sofa in such a very unstudied
 attitude, that she might have been taken for an actress all ready for
 the first scene in a ballet, and only waiting for the drop curtain to go
 up.
@@ -434,7 +434,7 @@ The page left it; but if ever an Alphonse carried plain Bill in his face
 and figure, that page was the boy.
 
 ‘I have ventured to call, ma’am,’ said Kate, after a few seconds of
-awkward silence, ‘from having seen your advertisement.’
+awkward [[Silence|silence]], ‘from having seen your advertisement.’
 
 ‘Yes,’ replied Mrs. Wititterly, ‘one of my people put it in the
 paper--Yes.’
@@ -459,9 +459,9 @@ I am her mother, ma’am.’
 ‘Oh!’ said Mrs. Wititterly, ‘I apprehend you.’
 
 ‘I assure you, ma’am,’ said Mrs. Nickleby, ‘that I very little thought,
-at one time, that it would be necessary for my daughter to go out into
+at one [[Time|time]], that it would be necessary for my daughter to go out into
 the world at all, for her poor dear papa was an independent gentleman,
-and would have been at this moment if he had but listened in time to my
+and would have been at this moment if he had but listened in [[Time|time]] to my
 constant entreaties and--’
 
 ‘Dear mama,’ said Kate, in a low voice.
@@ -487,7 +487,7 @@ agreed, so Mrs. Nickleby had no excuse for talking.
 ‘You are a good temper?’ asked Mrs. Wititterly, opening her eyes for an
 instant, and shutting them again.
 
-‘I hope so,’ rejoined Kate.
+‘I [[Hope|hope]] so,’ rejoined Kate.
 
 ‘And have a highly respectable reference for everything, have you?’
 
@@ -508,28 +508,28 @@ The page disappeared on this errand, and after a short interval, during
 which not a word was spoken on either side, opened the door for an
 important gentleman of about eight-and-thirty, of rather plebeian
 countenance, and with a very light head of hair, who leant over Mrs
-Wititterly for a little time, and conversed with her in whispers.
+Wititterly for a little [[Time|time]], and conversed with her in whispers.
 
 ‘Oh!’ he said, turning round, ‘yes. This is a most important matter. Mrs
-Wititterly is of a very excitable nature; very delicate, very fragile; a
+Wititterly is of a very excitable [[Nature|nature]]; very delicate, very fragile; a
 hothouse plant, an exotic.’
 
 ‘Oh! Henry, my dear,’ interposed Mrs. Wititterly.
 
-‘You are, my love, you know you are; one breath--’ said Mr. W., blowing
+‘You are, my [[Love|love]], you know you are; one breath--’ said Mr. W., blowing
 an imaginary feather away. ‘Pho! you’re gone!’
 
 The lady sighed.
 
-‘Your soul is too large for your body,’ said Mr. Wititterly. ‘Your
+‘Your [[Soul|soul]] is too large for your [[Body|body]],’ said Mr. Wititterly. ‘Your
 intellect wears you out; all the medical men say so; you know that there
 is not a physician who is not proud of being called in to you. What
 is their unanimous declaration? “My dear doctor,” said I to Sir Tumley
-Snuffim, in this very room, the very last time he came. “My dear doctor,
+Snuffim, in this very room, the very last [[Time|time]] he came. “My dear doctor,
 what is my wife’s complaint? Tell me all. I can bear it. Is it nerves?”
  “My dear fellow,” he said, “be proud of that woman; make much of her;
 she is an ornament to the fashionable world, and to you. Her complaint
-is soul. It swells, expands, dilates--the blood fires, the pulse
+is [[Soul|soul]]. It swells, expands, dilates--the [[Blood|blood]] fires, the pulse
 quickens, the excitement increases--Whew!”’ Here Mr. Wititterly, who, in
 the ardour of his description, had flourished his right hand to within
 something less than an inch of Mrs. Nickleby’s bonnet, drew it hastily
@@ -539,10 +539,10 @@ violent machinery.
 ‘You make me out worse than I am, Henry,’ said Mrs. Wititterly, with a
 faint smile.
 
-‘I do not, Julia, I do not,’ said Mr. W. ‘The society in which
+‘I do not, [[Julia]], I do not,’ said Mr. W. ‘The society in which
 you move--necessarily move, from your station, connection, and
 endowments--is one vortex and whirlpool of the most frightful
-excitement. Bless my heart and body, can I ever forget the night you
+excitement. Bless my heart and [[Body|body]], can I ever forget the [[Night|night]] you
 danced with the baronet’s nephew at the election ball, at Exeter! It was
 tremendous.’
 
@@ -561,7 +561,7 @@ think of all this?’
 ‘is sought after and courted by glittering crowds and brilliant circles.
 She is excited by the opera, the drama, the fine arts, the--the--the--’
 
-‘The nobility, my love,’ interposed Mrs. Wititterly.
+‘The nobility, my [[Love|love]],’ interposed Mrs. Wititterly.
 
 ‘The nobility, of course,’ said Mr. Wititterly. ‘And the military. She
 forms and expresses an immense variety of opinions on an immense variety
@@ -571,19 +571,19 @@ perhaps, quite as high as they do.’
 
 ‘Hush, Henry,’ said the lady; ‘this is scarcely fair.’
 
-‘I mention no names, Julia,’ replied Mr. Wititterly; ‘and nobody is
+‘I mention no names, [[Julia]],’ replied Mr. Wititterly; ‘and nobody is
 injured. I merely mention the circumstance to show that you are no
 ordinary person, that there is a constant friction perpetually going
-on between your mind and your body; and that you must be soothed and
+on between your mind and your [[Body|body]]; and that you must be soothed and
 tended. Now let me hear, dispassionately and calmly, what are this young
 lady’s qualifications for the office.’
 
 In obedience to this request, the qualifications were all gone through
-again, with the addition of many interruptions and cross-questionings
+again, with the addition of many interruptions and [[Cross|cross]]-questionings
 from Mr. Wititterly. It was finally arranged that inquiries should be
 made, and a decisive answer addressed to Miss Nickleby under cover
 of her uncle, within two days. These conditions agreed upon, the page
-showed them down as far as the staircase window; and the big footman,
+showed them down as far as the staircase [[Window|window]]; and the big footman,
 relieving guard at that point, piloted them in perfect safety to the
 street-door.
 
@@ -592,18 +592,18 @@ she took her daughter’s arm. ‘What a superior person Mrs. Wititterly is!’
 
 ‘Do you think so, mama?’ was all Kate’s reply.
 
-‘Why, who can help thinking so, Kate, my love?’ rejoined her mother.
-‘She is pale though, and looks much exhausted. I hope she may not be
+‘Why, who can help thinking so, Kate, my [[Love|love]]?’ rejoined her mother.
+‘She is pale though, and looks much exhausted. I [[Hope|hope]] she may not be
 wearing herself out, but I am very much afraid.’
 
 These considerations led the deep-sighted lady into a calculation of
 the probable duration of Mrs. Wititterly’s life, and the chances of the
 disconsolate widower bestowing his hand on her daughter. Before reaching
-home, she had freed Mrs. Wititterly’s soul from all bodily restraint;
+[[Home|home]], she had freed Mrs. Wititterly’s [[Soul|soul]] from all bodily restraint;
 married Kate with great splendour at St George’s, Hanover Square;
 and only left undecided the minor question, whether a splendid
 French-polished mahogany bedstead should be erected for herself in the
-two-pair back of the house in Cadogan Place, or in the three-pair front:
+two-pair back of the [[house]] in Cadogan Place, or in the three-pair front:
 between which apartments she could not quite balance the advantages, and
 therefore adjusted the question at last, by determining to leave it to
 the decision of her son-in-law.

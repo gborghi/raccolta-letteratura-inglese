@@ -118,23 +118,23 @@ and therefore to his reader.  There is an excellent illustration
 of his quieter method in one passage in the Rural Rides.
 He describes, in that plain and almost naked narrative style that seems
 to lie like strong morning daylight upon every detail of the day,
-how he started out riding with his son at dawn; how some hitch
+how he started out riding with his son at [[Dawn|dawn]]; how some hitch
 occurred about the inn at which he had intended to breakfast,
-and he rode on hoping to reach another hostelry in reasonable time;
+and he rode on hoping to reach another hostelry in reasonable [[Time|time]];
 how other hitches occurred which annoyed him, making him scold
 the boy for some small blunders about the strapping of a bag;
-and how he awoke at last to a sort of wonder as to why
-he should be so irritable with a child whom he loved so much.
+and how he awoke at last to a sort of [[Wonder|wonder]] as to why
+he should be so irritable with a [[Child|child]] whom he loved so much.
 And then it dawned upon him that it was for the very simple
 reason that he had had no breakfast.  He, who had fed
-well the night before and intended to feed well again,
-who was well clothed and well mounted, could not deny that
+[[Well|well]] the [[Night|night]] before and intended to feed [[Well|well]] again,
+who was [[Well|well]] clothed and [[Well|well]] mounted, could not deny that
 a good appetite might gradually turn into a bad temper.
 And then, with one of his dramatic turns or gestures, he suddenly
-summons up before us all the army of Englishmen who had no hope
+summons up before us all the army of Englishmen who had no [[Hope|hope]]
 of having any breakfast until they could somehow beg work from
 hard or indifferent men; who wandered about the world in a normal
-state of hunger and anger and blank despair about the future;
+state of hunger and anger and blank [[Despair|despair]] about the future;
 who were exposed to every insult and impotent under every wrong;
 and who were expected by the politicians and the papers to be
 perfectly mild and moderate in their language, perfectly loyal

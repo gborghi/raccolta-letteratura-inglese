@@ -1,5 +1,5 @@
 ---
-title: "A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS (part 2)"
+title: "A Christmas [[carol|Carol]] — Stave 3: THE SECOND OF THE THREE SPIRITS (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/A-Christmas-Carol-(Dickens)"
@@ -14,22 +14,22 @@ tags:
 </nav>
 
 
-The house fronts looked black enough, and the windows
-blacker, contrasting with the smooth white sheet of snow
-upon the roofs, and with the dirtier snow upon the ground;
+The [[house]] fronts looked black enough, and the windows
+blacker, contrasting with the smooth white sheet of [[Snow|snow]]
+upon the roofs, and with the dirtier [[Snow|snow]] upon the ground;
 which last deposit had been ploughed up in deep furrows by
 the heavy wheels of carts and waggons; furrows that crossed
 and re-crossed each other hundreds of times where the great
 streets branched off; and made intricate channels, hard to trace
-in the thick yellow mud and icy water. The sky was gloomy,
+in the thick yellow mud and icy [[Water|water]]. The sky was gloomy,
 and the shortest streets were choked up with a dingy mist,
 half thawed, half frozen, whose heavier particles descended
 in a shower of sooty atoms, as if all the chimneys in Great
-Britain had, by one consent, caught fire, and were blazing away
+Britain had, by one consent, caught [[Fire|fire]], and were blazing away
 to their dear hearts' content. There was nothing very cheerful
 in the climate or the town, and yet was there an air of
-cheerfulness abroad that the clearest summer air and brightest
-summer sun might have endeavoured to diffuse in vain.
+cheerfulness abroad that the clearest [[Summer|summer]] air and brightest
+[[Summer|summer]] sun might have endeavoured to diffuse in vain.
 
 For, the people who were shovelling away on the housetops
 were jovial and full of glee; calling out to one another
@@ -48,13 +48,13 @@ by, and glanced demurely at the hung-up mistletoe. There were
 pears and apples, clustered high in blooming pyramids; there
 were bunches of grapes, made, in the shopkeepers' benevolence
 to dangle from conspicuous hooks, that people's mouths might
-water gratis as they passed; there were piles of filberts, mossy
+[[Water|water]] gratis as they passed; there were piles of filberts, mossy
 and brown, recalling, in their fragrance, ancient walks among
 the woods, and pleasant shufflings ankle deep through withered
-leaves; there were Norfolk Biffins, squat and swarthy, setting
+[[Leaves|leaves]]; there were Norfolk Biffins, squat and swarthy, setting
 off the yellow of the oranges and lemons, and, in the great
 compactness of their juicy persons, urgently entreating and
-beseeching to be carried home in paper bags and eaten after
+beseeching to be carried [[Home|home]] in paper bags and eaten after
 dinner. The very gold and silver fish, set forth among
 these choice fruits in a bowl, though members of a dull and
 stagnant-blooded race, appeared to know that there was
@@ -63,7 +63,7 @@ round their little world in slow and passionless excitement.
 
 The Grocers'! oh, the Grocers'! nearly closed, with perhaps
 two shutters down, or one; but through those gaps such
-glimpses! It was not alone that the scales descending on the
+glimpses! It was not [[Alone|alone]] that the scales descending on the
 counter made a merry sound, or that the twine and roller
 parted company so briskly, or that the canisters were rattled
 up and down like juggling tricks, or even that the blended
@@ -81,7 +81,7 @@ promise of the day, that they tumbled up against each other
 at the door, crashing their wicker baskets wildly, and left
 their purchases upon the counter, and came running back to
 fetch them, and committed hundreds of the like mistakes, in
-the best humour possible; while the Grocer and his people
+the best [[Humour|humour]] possible; while the [[grocer|Grocer]] and his people
 were so frank and fresh that the polished hearts with which
 they fastened their aprons behind might have been their own,
 worn outside for general inspection, and for Christmas daws
@@ -90,7 +90,7 @@ to peck at if they chose.
 But soon the steeples called good people all, to church and
 chapel, and away they came, flocking through the streets in
 their best clothes, and with their gayest faces. And at the
-same time there emerged from scores of bye-streets, lanes, and
+same [[Time|time]] there emerged from scores of bye-streets, lanes, and
 nameless turnings, innumerable people, carrying their dinners
 to the bakers' shops. The sight of these poor revellers
 appeared to interest the Spirit very much, for he stood with
@@ -99,12 +99,12 @@ covers as their bearers passed, sprinkled incense on their
 dinners from his torch. And it was a very uncommon kind
 of torch, for once or twice when there were angry words
 between some dinner-carriers who had jostled each other, he
-shed a few drops of water on them from it, and their good
-humour was restored directly. For they said, it was a shame
-to quarrel upon Christmas Day. And so it was! God love
+shed a few drops of [[Water|water]] on them from it, and their good
+[[Humour|humour]] was restored directly. For they said, it was a shame
+to quarrel upon Christmas Day. And so it was! God [[Love|love]]
 it, so it was!
 
-In time the bells ceased, and the bakers were shut up; and
+In [[Time|time]] [[The Bells|the bells]] ceased, and the bakers were shut up; and
 yet there was a genial shadowing forth of all these dinners
 and the progress of their cooking, in the thawed blotch of
 wet above each baker's oven; where the pavement smoked as
@@ -124,9 +124,9 @@ asked Scrooge.
 
 "Because it needs it most."
 
-"Spirit," said Scrooge, after a moment's thought, "I wonder
+"Spirit," said Scrooge, after a moment's thought, "I [[Wonder|wonder]]
 you, of all the beings in the many worlds about us, should
-desire to cramp these people's opportunities of innocent
+[[Desire|desire]] to cramp these people's opportunities of [[Innocent|innocent]]
 enjoyment."
 
 "I!" cried the Spirit.

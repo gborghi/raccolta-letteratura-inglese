@@ -1,5 +1,5 @@
 ---
-title: "The Purloined Letter (part 4)"
+title: "[[The Purloined Letter]] (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Purloined-Letter-(Poe)"
@@ -33,13 +33,13 @@ tags:
       I merely laughed—but he seemed quite serious in all that he said.
 
       “The measures, then,” he continued, “were good in their kind, and
-      well executed; their defect lay in their being inapplicable to
+      [[Well|well]] executed; their defect lay in their being inapplicable to
       the case, and to the man. A certain set of highly ingenious
       resources are, with the Prefect, a sort of Procrustean bed, to
       which he forcibly adapts his designs. But he perpetually errs by
       being too deep or too shallow for the matter in hand; and many a
       schoolboy is a better reasoner than he. I knew one about eight
-      years of age, whose success at guessing in the game of ‘even and
+      years of age, whose [[success]] at guessing in the game of ‘even and
       odd’ attracted universal admiration. This game is simple, and is
       played with marbles. One player holds in his hand a number of
       these toys, and demands of another whether that number is even or
@@ -69,14 +69,14 @@ tags:
 
       “It is,” said Dupin; “and, upon inquiring of the boy by what
       means he effected the thorough identification in which his
-      success consisted, I received answer as follows: ‘When I wish to
+      [[success]] consisted, I received answer as follows: ‘When I wish to
       find out how wise, or how stupid, or how good, or how wicked is
       any one, or what are his thoughts at the moment, I fashion the
       expression of my face, as accurately as possible, in accordance
       with the expression of his, and then wait to see what thoughts or
       sentiments arise in my mind or heart, as if to match or
       correspond with the expression.’ This response of the schoolboy
-      lies at the bottom of all the spurious profundity which has been
+      lies at the [[Bottom|bottom]] of all the spurious profundity which has been
       attributed to Rochefoucault, to La Bougive, to Machiavelli, and
       to Campanella.”
 
@@ -131,7 +131,7 @@ tags:
       discovery would have been a matter altogether beyond question.
       This functionary, however, has been thoroughly mystified; and the
       remote source of his defeat lies in the supposition that the
-      Minister is a fool, because he has acquired renown as a poet. All
+      Minister is a [[Fool|fool]], because he has acquired renown as a poet. All
       fools are poets; this the Prefect feels; and he is merely guilty
       of a non distributio medii in thence inferring that all poets are
       fools.”

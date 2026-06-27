@@ -1,5 +1,5 @@
 ---
-title: "The Landscape Garden (part 3)"
+title: "[[The Landscape Garden]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Landscape-Garden-(Poe)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-      the artist, the arrangement of the parts will always be
+      the [[Artist|artist]], the arrangement of the parts will always be
 
       susceptible of improvement. In short, no position can be
 
@@ -26,43 +26,43 @@ tags:
 
       this! In all other matters we are justly instructed to regard
 
-      Nature as supreme. With her details we shrink from competition.
+      [[Nature]] as supreme. With her details we shrink from competition.
 
       Who shall presume to imitate the colors of the tulip, or to
 
       improve the proportions of the lily of the valley? The criticism
 
-      which says, of sculpture or of portraiture, that “Nature is to be
+      which says, of sculpture or of portraiture, that “[[Nature]] is to be
 
       exalted rather than imitated,” is in error. No pictorial or
 
       sculptural combinations of points of human loveliness, do more
 
-      than approach the living and breathing human beauty as it
+      than approach the living and breathing human [[Beauty|beauty]] as it
 
       gladdens our daily path. Byron, who often erred, erred not in
 
-      saying, I’ve seen more living beauty, ripe and real, than all the
+      saying, I’ve seen more living [[Beauty|beauty]], ripe and real, than all the
 
-      nonsense of their stone ideal. In landscape alone is the
+      nonsense of their stone ideal. In landscape [[Alone|alone]] is the
 
-      principle of the critic true; and, having felt its truth here, it
+      principle of the critic true; and, having felt its [[Truth|truth]] here, it
 
       is but the headlong spirit of generalization which has induced
 
       him to pronounce it true throughout all the domains of Art.
 
-      Having, I say, felt its truth here. For the feeling is no
+      Having, I say, felt its [[Truth|truth]] here. For the feeling is no
 
       affectation or chimera. The mathematics afford no more absolute
 
       demonstrations, than the sentiment of his Art yields to the
 
-      artist. He not only believes, but positively knows, that such and
+      [[Artist|artist]]. He not only believes, but positively knows, that such and
 
       such apparently arbitrary arrangements of matter, or form,
 
-      constitute, and alone constitute, the true Beauty. Yet his
+      constitute, and [[Alone|alone]] constitute, the true [[Beauty]]. Yet his
 
       reasons have not yet been matured into expression. It remains for
 
@@ -76,7 +76,7 @@ tags:
 
       mere arrangement of form; let this emendation be submitted to
 
-      every artist in the world; by each will its necessity be
+      every [[Artist|artist]] in the world; by each will its necessity be
 
       admitted. And even far more than this, in remedy of the defective
 
@@ -86,9 +86,9 @@ tags:
 
 
 
-      I repeat that in landscape arrangements, or collocations alone,
+      I repeat that in landscape arrangements, or collocations [[Alone|alone]],
 
-      is the physical Nature susceptible of “exaltation” and that,
+      is the physical [[Nature]] susceptible of “exaltation” and that,
 
       therefore, her susceptibility of improvement at this one point,
 
@@ -96,7 +96,7 @@ tags:
 
       Mr. Ellison who first suggested the idea that what we regarded as
 
-      improvement or exaltation of the natural beauty, was really such,
+      improvement or exaltation of the natural [[Beauty|beauty]], was really such,
 
       as respected only the mortal or human point of view; that each
 
@@ -108,7 +108,7 @@ tags:
 
       easily understood,” says Mr. Ellison, “that what might improve a
 
-      closely scrutinized detail, might, at the same time, injure a
+      closely scrutinized detail, might, at the same [[Time|time]], injure a
 
       general and more distantly observed effect.” He spoke upon this
 
@@ -126,7 +126,7 @@ tags:
 
       more especially than for our own, had been set in order by God
 
-      the great landscape-garden of the whole earth.
+      the great landscape-[[Garden|garden]] of the whole earth.
 
 
 
@@ -134,7 +134,7 @@ tags:
 
       quote some passages from a writer who has been supposed to have
 
-      well treated this theme.
+      [[Well|well]] treated this theme.
 
 
 
@@ -142,7 +142,7 @@ tags:
 
       landscape-gardening, the natural and the artificial. One seeks to
 
-      recall the original beauty of the country, by adapting its means
+      recall the original [[Beauty|beauty]] of the country, by adapting its means
 
       to the surrounding scenery; cultivating trees in harmony with the
 
@@ -152,7 +152,7 @@ tags:
 
       which, hid from the common observer, are revealed everywhere to
 
-      the experienced student of nature. The result of the natural
+      the experienced student of [[Nature|nature]]. The result of the natural
 
       style of gardening, is seen rather in the absence of all defects
 
@@ -174,7 +174,7 @@ tags:
 
       against the abuses of the artificial landscape-gardening, a
 
-      mixture of pure art in a garden scene, adds to it a great beauty.
+      mixture of pure art in a [[Garden|garden]] scene, adds to it a great [[Beauty|beauty]].
 
       This is partly pleasing to the eye, by the show of order and
 
@@ -192,6 +192,6 @@ tags:
 
       understand that I reject the idea, here expressed, of ‘recalling
 
-      the original beauty of the country.’ The original beauty is never
+      the original [[Beauty|beauty]] of the country.’ The original [[Beauty|beauty]] is never
 
       so great as that which may be introduced. Of course, much depends

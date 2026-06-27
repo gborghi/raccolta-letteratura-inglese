@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 20 (part 1)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 20 (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -26,7 +26,7 @@ supplied with fresh provision. We found the tortoises as fine as we had
 
 ever seen, and the ducks surpassed our best species of wild fowl, being
 
-exceedingly tender, juicy, and well-flavoured. Besides these, the
+exceedingly tender, juicy, and [[Well|well]]-flavoured. Besides these, the
 
 savages brought us, upon our making them comprehend our wishes, a vast
 
@@ -36,7 +36,7 @@ fish and some dried. The celery was a treat indeed, and the scurvy
 
 grass proved of incalculable benefit in restoring those of our men who
 
-had shown symptoms of disease. In a very short time we had not a single
+had shown symptoms of disease. In a very short [[Time|time]] we had not a single
 
 person on the sick-list. We had also plenty of other kinds of fresh
 
@@ -44,7 +44,7 @@ provision, among which may be mentioned a species of shellfish
 
 resembling the muscle in shape, but with the taste of an oyster.
 
-Shrimps, too, and prawns were abundant, and albatross and other birds'
+Shrimps, too, and prawns were abundant, and albatross and other [[Birds|birds]]'
 
 eggs with dark shells. We took in, too, a plentiful stock of the flesh
 
@@ -60,7 +60,7 @@ fully delighted in the exchange. We established a regular market on
 
 shore, just under the guns of the schooner, where our barterings were
 
-carried on with every appearance of good faith, and a degree of order
+carried on with every appearance of good [[Faith|faith]], and a degree of order
 
 which their conduct at the village of _Klock-klock_ had not led us to
 
@@ -118,7 +118,7 @@ should be ready on our return.
 
 
 
-A description of the nature of this important article of commerce, and
+A description of the [[Nature|nature]] of this important article of commerce, and
 
 the method of preparing it, may prove of some interest to my readers,
 
@@ -126,7 +126,7 @@ and I can find no more suitable place than this for introducing an
 
 account of it. The following comprehensive notice of the substance is
 
-taken from a modern history of a voyage to the South Seas.
+taken from a modern [[history]] of a voyage to the South Seas.
 
 
 
@@ -144,7 +144,7 @@ commands a great price, perhaps as much as their much-talked of edible
 
 bird's nests, which are probably made up of the gelatinous matter
 
-picked up by a species of swallow from the body of these molluscæ. They
+picked up by a species of [[Swallow|swallow]] from the [[Body|body]] of these molluscæ. They
 
 have no shell, no legs, nor any prominent part, except an _absorbing_
 
@@ -152,7 +152,7 @@ and an _excretory_, opposite organs; but, by their elastic wings, like
 
 caterpillars or worms, they creep in shallow waters, in which, when
 
-low, they can be seen by a kind of swallow, the sharp bill of which,
+low, they can be seen by a kind of [[Swallow|swallow]], the sharp bill of which,
 
 inserted in the soft animal, draws a gummy and filamentous substance,
 
@@ -168,13 +168,13 @@ eighteen inches in length; and I have seen a few that were not less
 
 than two feet long. They are nearly round, a little flattish on one
 
-side, which lies next the bottom of the sea; and they are from one to
+side, which lies next the [[Bottom|bottom]] of the sea; and they are from one to
 
-eight inches thick. They crawl up into shallow water at particular
+eight inches thick. They crawl up into shallow [[Water|water]] at particular
 
-seasons of the year, probably for the purpose of gendering, as we often
+[[Seasons|seasons]] of the year, probably for the purpose of gendering, as we often
 
-find them in pairs. It is when the sun has the most power on the water,
+find them in pairs. It is when the sun has the most power on the [[Water|water]],
 
 rendering it tepid, that they approach the shore; and they often go up
 
@@ -182,15 +182,15 @@ into places so shallow, that, on the tide's receding, they are left
 
 dry, exposed to the heat of the sun. But they do not bring forth their
 
-young in shallow water, as we never see any of their progeny, and the
+young in shallow [[Water|water]], as we never see any of their progeny, and the
 
-full-grown ones are always observed coming in from deep water. They
+full-grown ones are always observed coming in from deep [[Water|water]]. They
 
 feed principally on that class of zoophytes which produce the coral.
 
 
 
-"The _biche de mer_ is generally taken in three or four feet water;
+"The _biche de mer_ is generally taken in three or four feet [[Water|water]];
 
 after which they are brought on shore, and split at one end with a
 
@@ -204,4 +204,4 @@ deep. The article is then washed, and afterward boiled to a certain
 
 degree, which must not be too much or too little. They are then buried
 
-in the ground for four hours, then boiled again for a short time, after
+in the ground for four hours, then boiled again for a short [[Time|time]], after

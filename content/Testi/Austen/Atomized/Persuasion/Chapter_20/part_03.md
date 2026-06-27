@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 20 (part 3)"
+title: "[[Persuasion]] — Chapter 20 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Persuasion-(Austen)"
@@ -62,11 +62,11 @@ but in vain. He delighted in being asked, but he would not tell.
 
 
 
-“No, no, some time or other, perhaps, but not now. He would mention no
+“No, no, some [[Time|time]] or other, perhaps, but not now. He would mention no
 
 names now; but such, he could assure her, had been the fact. He had
 
-many years ago received such a description of Miss Anne Elliot as had
+many years ago received such a description of Miss [[Anne Elliot]] as had
 
 inspired him with the highest idea of her merit, and excited the
 
@@ -76,15 +76,15 @@ warmest curiosity to know her.”
 
 Anne could think of no one so likely to have spoken with partiality of
 
-her many years ago as the Mr Wentworth of Monkford, Captain Wentworth’s
+her many years ago as the Mr Wentworth of Monkford, [[Captain Wentworth]]’s
 
 brother. He might have been in Mr Elliot’s company, but she had not
 
-courage to ask the question.
+[[Courage|courage]] to ask the question.
 
 
 
-“The name of Anne Elliot,” said he, “has long had an interesting sound
+“The name of [[Anne Elliot]],” said he, “has long had an interesting sound
 
 to me. Very long has it possessed a charm over my fancy; and, if I
 
@@ -102,7 +102,7 @@ Dalrymple were speaking.
 
 
 
-“A well-looking man,” said Sir Walter, “a very well-looking man.”
+“A [[Well|well]]-looking man,” said Sir Walter, “a very [[Well|well]]-looking man.”
 
 
 
@@ -122,7 +122,7 @@ the Croft, who rents Kellynch.”
 
 Before Sir Walter had reached this point, Anne’s eyes had caught the
 
-right direction, and distinguished Captain Wentworth standing among a
+right direction, and distinguished [[Captain Wentworth]] standing among a
 
 cluster of men at a little distance. As her eyes fell on him, his
 
@@ -156,17 +156,17 @@ The first act was over. Now she hoped for some beneficial change; and,
 
 after a period of nothing-saying amongst the party, some of them did
 
-decide on going in quest of tea. Anne was one of the few who did not
+decide on going in [[Quest|quest]] of tea. Anne was one of the few who did not
 
-choose to move. She remained in her seat, and so did Lady Russell; but
+choose to move. She remained in her seat, and so did [[Lady Russell]]; but
 
 she had the pleasure of getting rid of Mr Elliot; and she did not mean,
 
-whatever she might feel on Lady Russell’s account, to shrink from
+whatever she might feel on [[Lady Russell]]’s account, to shrink from
 
-conversation with Captain Wentworth, if he gave her the opportunity.
+conversation with [[Captain Wentworth]], if he gave her the opportunity.
 
-She was persuaded by Lady Russell’s countenance that she had seen him.
+She was persuaded by [[Lady Russell]]’s countenance that she had seen him.
 
 
 
@@ -184,7 +184,7 @@ the gapes, as real or affected taste for it prevailed. To Anne, it
 
 chiefly wore the prospect of an hour of agitation. She could not quit
 
-that room in peace without seeing Captain Wentworth once more, without
+that room in peace without seeing [[Captain Wentworth]] once more, without
 
 the interchange of one friendly look.
 
@@ -220,7 +220,7 @@ Such was her situation, with a vacant space at hand, when Captain
 
 Wentworth was again in sight. She saw him not far off. He saw her too;
 
-yet he looked grave, and seemed irresolute, and only by very slow
+yet he looked [[Grave|grave]], and seemed irresolute, and only by very slow
 
 degrees came at last near enough to speak to her. She felt that
 
@@ -230,15 +230,15 @@ difference between his present air and what it had been in the Octagon
 
 Room was strikingly great. Why was it? She thought of her father, of
 
-Lady Russell. Could there have been any unpleasant glances? He began by
+[[Lady Russell]]. Could there have been any unpleasant glances? He began by
 
-speaking of the concert gravely, more like the Captain Wentworth of
+speaking of the concert gravely, more like the [[Captain Wentworth]] of
 
 Uppercross; owned himself disappointed, had expected singing; and in
 
 short, must confess that he should not be sorry when it was over. Anne
 
-replied, and spoke in defence of the performance so well, and yet in
+replied, and spoke in defence of the performance so [[Well|well]], and yet in
 
 allowance for his feelings so pleasantly, that his countenance
 
@@ -246,7 +246,7 @@ improved, and he replied again with almost a smile. They talked for a
 
 few minutes more; the improvement held; he even looked down towards the
 
-bench, as if he saw a place on it well worth occupying; when at that
+bench, as if he saw a place on it [[Well|well]] worth occupying; when at that
 
 moment a touch on her shoulder obliged Anne to turn round. It came from
 
@@ -256,7 +256,7 @@ Italian again. Miss Carteret was very anxious to have a general idea of
 
 what was next to be sung. Anne could not refuse; but never had she
 
-sacrificed to politeness with a more suffering spirit.
+sacrificed to politeness with a more [[Suffering|suffering]] spirit.
 
 
 
@@ -264,15 +264,15 @@ A few minutes, though as few as possible, were inevitably consumed; and
 
 when her own mistress again, when able to turn and look as she had done
 
-before, she found herself accosted by Captain Wentworth, in a reserved
+before, she found herself accosted by [[Captain Wentworth]], in a reserved
 
-yet hurried sort of farewell. “He must wish her good night; he was
+yet hurried sort of farewell. “He must wish her good [[Night|night]]; he was
 
-going; he should get home as fast as he could.”
+going; he should get [[Home|home]] as fast as he could.”
 
 
 
-“Is not this song worth staying for?” said Anne, suddenly struck by an
+“Is not this [[Song|song]] worth staying for?” said Anne, suddenly struck by an
 
 idea which made her yet more anxious to be encouraging.
 
@@ -284,7 +284,7 @@ and he was gone directly.
 
 
 
-Jealousy of Mr Elliot! It was the only intelligible motive. Captain
+[[Jealousy]] of Mr Elliot! It was the only intelligible motive. Captain
 
 Wentworth jealous of her affection! Could she have believed it a week
 
@@ -292,7 +292,7 @@ ago; three hours ago! For a moment the gratification was exquisite.
 
 But, alas! there were very different thoughts to succeed. How was such
 
-jealousy to be quieted? How was the truth to reach him? How, in all the
+[[Jealousy|jealousy]] to be quieted? How was the [[Truth|truth]] to reach him? How, in all the
 
 peculiar disadvantages of their respective situations, would he ever
 

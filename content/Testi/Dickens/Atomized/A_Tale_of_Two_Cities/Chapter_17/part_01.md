@@ -26,49 +26,49 @@ young men who could find any leisure and interest for the study of a
 living tongue spoken all over the world, and he cultivated a taste for
 its stores of knowledge and fancy. He could write of them, besides, in
 sound English, and render them into sound English. Such masters were not
-at that time easily found; Princes that had been, and Kings that were
+at that [[Time|time]] easily found; Princes that had been, and Kings that were
 to be, were not yet of the Teacher class, and no ruined nobility had
 dropped out of Tellson’s ledgers, to turn cooks and carpenters. As a
 tutor, whose attainments made the student’s way unusually pleasant and
 profitable, and as an elegant translator who brought something to his
 work besides mere dictionary knowledge, young Mr. Darnay soon became
-known and encouraged. He was well acquainted, more-over, with the
+known and encouraged. He was [[Well|well]] acquainted, more-over, with the
 circumstances of his country, and those were of ever-growing interest.
 So, with great perseverance and untiring industry, he prospered.
 
-In London, he had expected neither to walk on pavements of gold, nor
+In [[London]], he had expected neither to walk on pavements of gold, nor
 to lie on beds of roses; if he had had any such exalted expectation, he
 would not have prospered. He had expected labour, and he found it, and
 did it and made the best of it. In this, his prosperity consisted.
 
-A certain portion of his time was passed at Cambridge, where he
+A certain portion of his [[Time|time]] was passed at Cambridge, where he
 read with undergraduates as a sort of tolerated smuggler who drove a
 contraband trade in European languages, instead of conveying Greek
-and Latin through the Custom-house. The rest of his time he passed in
-London.
+and Latin through the Custom-[[house]]. The rest of his [[Time|time]] he passed in
+[[London]].
 
-Now, from the days when it was always summer in Eden, to these days
-when it is mostly winter in fallen latitudes, the world of a man has
-invariably gone one way--Charles Darnay’s way--the way of the love of a
+Now, from the days when it was always [[Summer|summer]] in Eden, to these days
+when it is mostly [[Winter|winter]] in fallen latitudes, the world of a man has
+invariably gone one way--[[Charles Darnay]]’s way--the way of the [[Love|love]] of a
 woman.
 
-He had loved Lucie Manette from the hour of his danger. He had never
+He had loved [[Lucie Manette]] from the hour of his danger. He had never
 heard a sound so sweet and dear as the sound of her compassionate voice;
 he had never seen a face so tenderly beautiful, as hers when it was
-confronted with his own on the edge of the grave that had been dug for
+confronted with his own on the edge of the [[Grave|grave]] that had been dug for
 him. But, he had not yet spoken to her on the subject; the assassination
-at the deserted chateau far away beyond the heaving water and the long,
+at the deserted chateau far away beyond the heaving [[Water|water]] and the long,
 long, dusty roads--the solid stone chateau which had itself become the
-mere mist of a dream--had been done a year, and he had never yet, by so
+mere mist of [[A Dream|a dream]]--had been done a year, and he had never yet, by so
 much as a single spoken word, disclosed to her the state of his heart.
 
-That he had his reasons for this, he knew full well. It was again a
-summer day when, lately arrived in London from his college occupation,
+That he had his reasons for this, he knew full [[Well|well]]. It was again a
+[[Summer|summer]] day when, lately arrived in [[London]] from his college occupation,
 he turned into the quiet corner in Soho, bent on seeking an opportunity
-of opening his mind to Doctor Manette. It was the close of the summer
-day, and he knew Lucie to be out with Miss Pross.
+of opening his mind to [[Doctor Manette]]. It was the close of the [[Summer|summer]]
+day, and he knew Lucie to be out with [[Miss Pross]].
 
-He found the Doctor reading in his arm-chair at a window. The energy
+He found the Doctor reading in his arm-chair at a [[Window|window]]. The energy
 which had at once supported him under his old sufferings and aggravated
 their sharpness, had been gradually restored to him. He was now a
 very energetic man indeed, with great firmness of purpose, strength
@@ -78,25 +78,25 @@ exercise of his other recovered faculties; but, this had never been
 frequently observable, and had grown more and more rare.
 
 He studied much, slept little, sustained a great deal of fatigue with
-ease, and was equably cheerful. To him, now entered Charles Darnay, at
+ease, and was equably cheerful. To him, now entered [[Charles Darnay]], at
 sight of whom he laid aside his book and held out his hand.
 
-“Charles Darnay! I rejoice to see you. We have been counting on your
-return these three or four days past. Mr. Stryver and Sydney Carton were
+“[[Charles Darnay]]! I rejoice to see you. We have been counting on your
+return these three or four days past. Mr. Stryver and [[Sydney Carton]] were
 both here yesterday, and both made you out to be more than due.”
 
 “I am obliged to them for their interest in the matter,” he answered,
 a little coldly as to them, though very warmly as to the Doctor. “Miss
 Manette--”
 
-“Is well,” said the Doctor, as he stopped short, “and your return will
+“Is [[Well|well]],” said the Doctor, as he stopped short, “and your return will
 delight us all. She has gone out on some household matters, but will
-soon be home.”
+soon be [[Home|home]].”
 
-“Doctor Manette, I knew she was from home. I took the opportunity of her
-being from home, to beg to speak to you.”
+“[[Doctor Manette]], I knew she was from [[Home|home]]. I took the opportunity of her
+being from [[Home|home]], to beg to speak to you.”
 
-There was a blank silence.
+There was a blank [[Silence|silence]].
 
 “Yes?” said the Doctor, with evident constraint. “Bring your chair here,
 and speak on.”
@@ -104,8 +104,8 @@ and speak on.”
 He complied as to the chair, but appeared to find the speaking on less
 easy.
 
-“I have had the happiness, Doctor Manette, of being so intimate here,”
- so he at length began, “for some year and a half, that I hope the topic
+“I have had the happiness, [[Doctor Manette]], of being so intimate here,”
+ so he at length began, “for some year and a half, that I [[Hope|hope]] the topic
 on which I am about to touch may not--”
 
 He was stayed by the Doctor’s putting out his hand to stop him. When he
@@ -115,13 +115,13 @@ had kept it so a little while, he said, drawing it back:
 
 “She is.”
 
-“It is hard for me to speak of her at any time. It is very hard for me
-to hear her spoken of in that tone of yours, Charles Darnay.”
+“It is hard for me to speak of her at any [[Time|time]]. It is very hard for me
+to hear her spoken of in that tone of yours, [[Charles Darnay]].”
 
-“It is a tone of fervent admiration, true homage, and deep love, Doctor
+“It is a tone of fervent admiration, true homage, and deep [[Love|love]], Doctor
 Manette!” he said deferentially.
 
-There was another blank silence before her father rejoined:
+There was another blank [[Silence|silence]] before her father rejoined:
 
 “I believe it. I do you justice; I believe it.”
 
@@ -138,9 +138,9 @@ Another blank.
 “You anticipate what I would say, though you cannot know how earnestly
 I say it, how earnestly I feel it, without knowing my secret heart, and
 the hopes and fears and anxieties with which it has long been
-laden. Dear Doctor Manette, I love your daughter fondly, dearly,
-disinterestedly, devotedly. If ever there were love in the world, I love
-her. You have loved yourself; let your old love speak for me!”
+laden. Dear [[Doctor Manette]], I [[Love|love]] your daughter fondly, dearly,
+disinterestedly, devotedly. If ever there were [[Love|love]] in the world, I [[Love|love]]
+her. You have loved yourself; let your old [[Love|love]] speak for me!”
 
 The Doctor sat with his face turned away, and his eyes bent on the
 ground. At the last words, he stretched out his hand again, hurriedly,

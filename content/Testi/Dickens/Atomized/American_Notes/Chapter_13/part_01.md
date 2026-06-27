@@ -19,23 +19,23 @@ FROM CINCINNATI TO LOUISVILLE IN ANOTHER WESTERN STEAMBOAT; AND FROM
 LOUISVILLE TO ST. LOUIS IN ANOTHER.  ST. LOUIS
 
 
-LEAVING Cincinnati at eleven o’clock in the forenoon, we embarked for
+LEAVING Cincinnati at eleven o’[[Clock|clock]] in the forenoon, we embarked for
 Louisville in the Pike steamboat, which, carrying the mails, was a packet
 of a much better class than that in which we had come from Pittsburg.  As
 this passage does not occupy more than twelve or thirteen hours, we
-arranged to go ashore that night: not coveting the distinction of
-sleeping in a state-room, when it was possible to sleep anywhere else.
+arranged to go ashore that [[Night|night]]: not coveting the distinction of
+sleeping in a state-room, when it was possible to [[Sleep|sleep]] anywhere else.
 
 There chanced to be on board this boat, in addition to the usual dreary
 crowd of passengers, one Pitchlynn, a chief of the Choctaw tribe of
 Indians, who _sent in his card_ to me, and with whom I had the pleasure
 of a long conversation.
 
-He spoke English perfectly well, though he had not begun to learn the
+He spoke English perfectly [[Well|well]], though he had not begun to learn the
 language, he told me, until he was a young man grown.  He had read many
 books; and Scott’s poetry appeared to have left a strong impression on
 his mind: especially the opening of The Lady of the Lake, and the great
-battle scene in Marmion, in which, no doubt from the congeniality of the
+battle scene in Marmion, in which, no [[Doubt|doubt]] from the congeniality of the
 subjects to his own pursuits and tastes, he had great interest and
 delight.  He appeared to understand correctly all he had read; and
 whatever fiction had enlisted his sympathy in its belief, had done so
@@ -45,15 +45,15 @@ and with indifferent grace.  On my telling him that I regretted not to
 see him in his own attire, he threw up his right arm, for a moment, as
 though he were brandishing some heavy weapon, and answered, as he let it
 fall again, that his race were losing many things besides their dress,
-and would soon be seen upon the earth no more: but he wore it at home, he
+and would soon be seen upon the earth no more: but he wore it at [[Home|home]], he
 added proudly.
 
-He told me that he had been away from his home, west of the Mississippi,
+He told me that he had been away from his [[Home|home]], west of the Mississippi,
 seventeen months: and was now returning.  He had been chiefly at
 Washington on some negotiations pending between his Tribe and the
-Government: which were not settled yet (he said in a melancholy way), and
+[[government|Government]]: which were not settled yet (he said in a [[Melancholy|melancholy]] way), and
 he feared never would be: for what could a few poor Indians do, against
-such well-skilled men of business as the whites?  He had no love for
+such [[Well|well]]-skilled men of business as the whites?  He had no [[Love|love]] for
 Washington; tired of towns and cities very soon; and longed for the
 Forest and the Prairie.
 
@@ -70,7 +70,7 @@ in his mind to the gradual fading away of his own people.
 This led us to speak of Mr. Catlin’s gallery, which he praised highly:
 observing that his own portrait was among the collection, and that all
 the likenesses were ‘elegant.’  Mr. Cooper, he said, had painted the Red
-Man well; and so would I, he knew, if I would go home with him and hunt
+Man [[Well|well]]; and so would I, he knew, if I would go [[Home|home]] with him and hunt
 buffaloes, which he was quite anxious I should do.  When I told him that
 supposing I went, I should not be very likely to damage the buffaloes
 much, he took it as a great joke and laughed heartily.
@@ -88,35 +88,35 @@ conquerors, they must be swept away before the strides of civilised
 society.
 
 When we shook hands at parting, I told him he must come to England, as he
-longed to see the land so much: that I should hope to see him there, one
-day: and that I could promise him he would be well received and kindly
+longed to see the land so much: that I should [[Hope|hope]] to see him there, one
+day: and that I could promise him he would be [[Well|well]] received and kindly
 treated.  He was evidently pleased by this assurance, though he rejoined
 with a good-humoured smile and an arch shake of his head, that the
 English used to be very fond of the Red Men when they wanted their help,
 but had not cared much for them, since.
 
-He took his leave; as stately and complete a gentleman of Nature’s
+He took his leave; as stately and complete a gentleman of [[Nature]]’s
 making, as ever I beheld; and moved among the people in the boat, another
 kind of being.  He sent me a lithographed portrait of himself soon
 afterwards; very like, though scarcely handsome enough; which I have
-carefully preserved in memory of our brief acquaintance.
+carefully preserved in [[Memory|memory]] of our brief acquaintance.
 
-There was nothing very interesting in the scenery of this day’s journey,
-which brought us at midnight to Louisville.  We slept at the Galt House;
+There was nothing very interesting in the scenery of this day’s [[Journey|journey]],
+which brought us at midnight to Louisville.  We slept at the Galt [[house|House]];
 a splendid hotel; and were as handsomely lodged as though we had been in
-Paris, rather than hundreds of miles beyond the Alleghanies.
+[[Paris]], rather than hundreds of miles beyond the Alleghanies.
 
-The city presenting no objects of sufficient interest to detain us on our
+The [[City|city]] presenting no objects of sufficient interest to detain us on our
 way, we resolved to proceed next day by another steamboat, the Fulton,
-and to join it, about noon, at a suburb called Portland, where it would
-be delayed some time in passing through a canal.
+and to join it, about [[Noon|noon]], at a suburb called Portland, where it would
+be delayed some [[Time|time]] in passing through a canal.
 
 The interval, after breakfast, we devoted to riding through the town,
 which is regular and cheerful: the streets being laid out at right
 angles, and planted with young trees.  The buildings are smoky and
-blackened, from the use of bituminous coal, but an Englishman is well
+blackened, from the use of bituminous coal, but an Englishman is [[Well|well]]
 used to that appearance, and indisposed to quarrel with it.  There did
 not appear to be much business stirring; and some unfinished buildings
-and improvements seemed to intimate that the city had been overbuilt in
-the ardour of ‘going-a-head,’ and was suffering under the re-action
+and improvements seemed to intimate that the [[City|city]] had been overbuilt in
+the ardour of ‘going-a-head,’ and was [[Suffering|suffering]] under the re-action
 consequent upon such feverish forcing of its powers.

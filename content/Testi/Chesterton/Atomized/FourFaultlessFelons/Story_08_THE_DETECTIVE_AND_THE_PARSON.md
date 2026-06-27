@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE DETECTIVE AND THE PARSON"
+title: "[[FourFaultlessFelons]] — THE [[Detective|DETECTIVE]] AND THE PARSON"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-IV THE DETECTIVE AND THE PARSON
+IV THE [[Detective|DETECTIVE]] AND THE PARSON

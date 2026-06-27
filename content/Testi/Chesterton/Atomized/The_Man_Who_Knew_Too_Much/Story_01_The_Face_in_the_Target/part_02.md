@@ -20,14 +20,14 @@ and a great motor car appeared. It topped the crest of cliff, black
 
 against the sun, like a battle-chariot rushing to destruction in
 
-some wild epic. March automatically put out his hand in one futile
+some wild [[Epic|epic]]. March automatically put out his hand in one futile
 
 gesture, as if to catch a falling tea-cup in a drawing-room.
 For the fraction of a flash it seemed to leave the ledge of rock
 
-like a flying ship; then the very sky seemed to turn over like a
+like a flying [[Ship|ship]]; then the very sky seemed to turn over like a
 
-wheel, and it lay a ruin amid the tall grasses below, a line of gray
+[[Wheel|wheel]], and it lay a ruin amid the tall grasses below, a line of gray
 
 smoke going up slowly from it into the silent air. A little lower
 
@@ -40,10 +40,10 @@ the spot, his new acquaintance following him. As they drew near
 
 there seemed a sort of monstrous irony in the fact that the dead
 
-machine was still throbbing and thundering as busily as a factory,
+[[Machine|machine]] was still throbbing and thundering as busily as a factory,
 
 while the man lay so still.
-He was unquestionably dead. The blood flowed in the grass from a
+He was unquestionably dead. The [[Blood|blood]] flowed in the grass from a
 
 hopelessly fatal fracture at the back of the skull; but the face,
 
@@ -82,11 +82,11 @@ moment, as if ruminating, then he merely said, "The poor fellow is
 quite gone," and added some scientific terms in which his auditor
 
 once more found himself out of his depth.
-"As things are," continued the same curiously well-informed person,
+"As things are," continued the same curiously [[Well|well]]-informed person,
 
-"it will be more legal for us to leave the body as it is until the
+"it will be more legal for us to leave the [[Body|body]] as it is until the
 
-police are informed. In fact, I think it will be well if nobody
+police are informed. In fact, I think it will be [[Well|well]] if nobody
 
 except the police is informed. Don't be surprised if I seem to be
 
@@ -103,9 +103,9 @@ Torwood Park to see him myself; only about his public work, of
 
 course, and the wonderful stand he is making for his principles. I
 
-think this Budget is the greatest thing in English history. If it
+think this Budget is the greatest thing in English [[history]]. If it
 
-fails, it will be the most heroic failure in English history. Are
+fails, it will be the most heroic failure in English [[history]]. Are
 
 you an admirer of your great kinsman, Mr. Fisher?"
 "Rather," said Mr. Fisher. "He's the best shot I know."
@@ -134,17 +134,17 @@ broken as with rocky teeth; broken boulders of all shapes and sizes
 
 lay near the edge; it was almost incredible that any one could have
 
-deliberately driven into such a death trap, especially in broad
+deliberately driven into such a [[Death|death]] trap, especially in broad
 
 daylight.
 "I can't make head or tail of it," said March. "Was he blind? Or
 
 blind drunk?"
 "Neither, by the look of him," replied the other.
-"Then it was suicide."
+"Then it was [[suicide]]."
 "It doesn't seem a cozy way of doing it," remarked the man called
 
-Fisher. "Besides, I don't fancy poor old Puggy would commit suicide,
+Fisher. "Besides, I don't fancy poor old Puggy would commit [[suicide]],
 
 somehow."
 "Poor old who?" inquired the wondering journalist. "Did you know
@@ -152,7 +152,7 @@ somehow."
 this unfortunate man?"
 "Nobody knew him exactly," replied Fisher, with some vagueness. "But
 
-one knew him, of course. He'd been a terror in his time, in
+one knew him, of course. He'd been a terror in his [[Time|time]], in
 
 Parliament and the courts, and so on; especially in that row about
 

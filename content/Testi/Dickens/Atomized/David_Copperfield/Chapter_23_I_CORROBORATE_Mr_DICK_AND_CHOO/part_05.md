@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 5)"
+title: "[[David Copperfield]] — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -14,18 +14,18 @@ tags:
 </nav>
 
 
-Mr. Spenlow conducted me through a paved courtyard formed of grave brick
+Mr. Spenlow conducted me through a paved courtyard formed of [[Grave|grave]] brick
 houses, which I inferred, from the Doctors’ names upon the doors, to be
 the official abiding-places of the learned advocates of whom Steerforth
 had told me; and into a large dull room, not unlike a chapel to my
 thinking, on the left hand. The upper part of this room was fenced off
 from the rest; and there, on the two sides of a raised platform of the
-horse-shoe form, sitting on easy old-fashioned dining-room chairs, were
+[[Horse|horse]]-shoe form, sitting on easy old-fashioned dining-room chairs, were
 sundry gentlemen in red gowns and grey wigs, whom I found to be the
 Doctors aforesaid. Blinking over a little desk like a pulpit-desk, in
-the curve of the horse-shoe, was an old gentleman, whom, if I had seen
+the curve of the [[Horse|horse]]-shoe, was an old gentleman, whom, if I had seen
 him in an aviary, I should certainly have taken for an owl, but who, I
-learned, was the presiding judge. In the space within the horse-shoe,
+learned, was the presiding judge. In the space within the [[Horse|horse]]-shoe,
 lower than these, that is to say, on about the level of the floor, were
 sundry other gentlemen, of Mr. Spenlow’s rank, and dressed like him in
 black gowns with white fur upon them, sitting at a long green table.
@@ -35,28 +35,28 @@ injustice, for when two or three of them had to rise and answer a
 question of the presiding dignitary, I never saw anything more sheepish.
 The public, represented by a boy with a comforter, and a shabby-genteel
 man secretly eating crumbs out of his coat pockets, was warming itself
-at a stove in the centre of the Court. The languid stillness of the
-place was only broken by the chirping of this fire and by the voice of
+at a stove in the centre of the [[Court]]. The languid stillness of the
+place was only broken by the chirping of this [[Fire|fire]] and by the voice of
 one of the Doctors, who was wandering slowly through a perfect library
-of evidence, and stopping to put up, from time to time, at little
-roadside inns of argument on the journey. Altogether, I have never,
+of evidence, and stopping to put up, from [[Time|time]] to [[Time|time]], at little
+roadside inns of argument on the [[Journey|journey]]. Altogether, I have never,
 on any occasion, made one at such a cosey, dosey, old-fashioned,
-time-forgotten, sleepy-headed little family-party in all my life; and
+[[Time|time]]-forgotten, sleepy-headed little family-party in all my life; and
 I felt it would be quite a soothing opiate to belong to it in any
 character--except perhaps as a suitor.
 
-Very well satisfied with the dreamy nature of this retreat, I informed
-Mr. Spenlow that I had seen enough for that time, and we rejoined
+Very [[Well|well]] satisfied with the dreamy [[Nature|nature]] of this retreat, I informed
+Mr. Spenlow that I had seen enough for that [[Time|time]], and we rejoined
 my aunt; in company with whom I presently departed from the Commons,
 feeling very young when I went out of Spenlow and Jorkins’s, on account
 of the clerks poking one another with their pens to point me out.
 
-We arrived at Lincoln’s Inn Fields without any new adventures, except
-encountering an unlucky donkey in a costermonger’s cart, who suggested
+We arrived at [[Lincoln]]’s Inn Fields without any new adventures, except
+encountering an unlucky [[donkey]] in a costermonger’s cart, who suggested
 painful associations to my aunt. We had another long talk about my
 plans, when we were safely housed; and as I knew she was anxious to
-get home, and, between fire, food, and pickpockets, could never be
-considered at her ease for half-an-hour in London, I urged her not to be
+get [[Home|home]], and, between [[Fire|fire]], food, and pickpockets, could never be
+considered at her ease for half-an-hour in [[London]], I urged her not to be
 uncomfortable on my account, but to leave me to take care of myself.
 
 ‘I have not been here a week tomorrow, without considering that too, my
@@ -65,10 +65,10 @@ let in the Adelphi, Trot, which ought to suit you to a marvel.’
 
 With this brief introduction, she produced from her pocket an
 advertisement, carefully cut out of a newspaper, setting forth that in
-Buckingham Street in the Adelphi there was to be let furnished, with a
-view of the river, a singularly desirable, and compact set of chambers,
+[[Buckingham]] Street in the Adelphi there was to be let furnished, with a
+view of the [[River|river]], a singularly desirable, and compact set of chambers,
 forming a genteel residence for a young gentleman, a member of one
-of the Inns of Court, or otherwise, with immediate possession. Terms
+of the Inns of [[Court]], or otherwise, with immediate possession. Terms
 moderate, and could be taken for a month only, if required.
 
 ‘Why, this is the very thing, aunt!’ said I, flushed with the possible
@@ -96,12 +96,12 @@ keys.
 
 So we went upstairs.
 
-They were on the top of the house--a great point with my aunt, being
-near the fire-escape--and consisted of a little half-blind entry where
+They were on the top of the [[house]]--a great point with my aunt, being
+near the [[Fire|fire]]-escape--and consisted of a little half-blind entry where
 you could see hardly anything, a little stone-blind pantry where you
 could see nothing at all, a sitting-room, and a bedroom. The furniture
 was rather faded, but quite good enough for me; and, sure enough, the
-river was outside the windows.
+[[River|river]] was outside the windows.
 
 As I was delighted with the place, my aunt and Mrs. Crupp withdrew into
 the pantry to discuss the terms, while I remained on the sitting-room
@@ -122,7 +122,7 @@ and--ugh! ugh! ugh! dear me!--and he died!’
 
 ‘Hey! What did he die of?’ asked my aunt.
 
-‘Well, ma’am, he died of drink,’ said Mrs. Crupp, in confidence. ‘And
+‘[[Well]], ma’am, he died of drink,’ said Mrs. Crupp, in confidence. ‘And
 smoke.’
 
 ‘Smoke? You don’t mean chimneys?’ said my aunt.
@@ -136,14 +136,14 @@ me.
 
 In short, my aunt, seeing how enraptured I was with the premises, took
 them for a month, with leave to remain for twelve months when that
-time was out. Mrs. Crupp was to find linen, and to cook; every other
+[[Time|time]] was out. Mrs. Crupp was to find linen, and to cook; every other
 necessary was already provided; and Mrs. Crupp expressly intimated that
 she should always yearn towards me as a son. I was to take possession
 the day after tomorrow, and Mrs. Crupp said, thank Heaven she had now
 found summun she could care for!
 
 On our way back, my aunt informed me how she confidently trusted that
-the life I was now to lead would make me firm and self-reliant, which
+the life I was now to lead would make me firm and [[Self|self]]-reliant, which
 was all I wanted. She repeated this several times next day, in the
 intervals of our arranging for the transmission of my clothes and books
 from Mr. Wickfield’s; relative to which, and to all my late holiday, I

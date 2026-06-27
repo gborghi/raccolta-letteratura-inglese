@@ -29,27 +29,27 @@ having descended thither from the inspection of the mantua-makers
 upstairs, who were busy on the family mourning. She delivered it for
 the behoof of Mr Chick, who was a stout bald gentleman, with a very
 large face, and his hands continually in his pockets, and who had a
-tendency in his nature to whistle and hum tunes, which, sensible of the
-indecorum of such sounds in a house of grief, he was at some pains to
+tendency in his [[Nature|nature]] to whistle and hum tunes, which, sensible of the
+indecorum of such sounds in a [[house]] of grief, he was at some pains to
 repress at present.
 
 “Don’t you over-exert yourself, Loo,” said Mr Chick, “or you’ll be laid
-up with spasms, I see. Right tol loor rul! Bless my soul, I forgot!
+up with spasms, I see. Right tol loor rul! Bless my [[Soul|soul]], I forgot!
 We’re here one day and gone the next!”
 
 Mrs Chick contented herself with a glance of reproof, and then
 proceeded with the thread of her discourse.
 
-“I am sure,” she said, “I hope this heart-rending occurrence will be a
+“I am sure,” she said, “I [[Hope|hope]] this heart-rending occurrence will be a
 warning to all of us, to accustom ourselves to rouse ourselves, and to
-make efforts in time where they’re required of us. There’s a moral in
+make efforts in [[Time|time]] where they’re required of us. There’s a moral in
 everything, if we would only avail ourselves of it. It will be our own
 faults if we lose sight of this one.”
 
-Mr Chick invaded the grave silence which ensued on this remark with the
+Mr Chick invaded the [[Grave|grave]] [[Silence|silence]] which ensued on this remark with the
 singularly inappropriate air of “A cobbler there was;” and checking
 himself, in some confusion, observed, that it was undoubtedly our own
-faults if we didn’t improve such melancholy occasions as the present.
+faults if we didn’t improve such [[Melancholy|melancholy]] occasions as the present.
 
 “Which might be better improved, I should think, Mr C.,” retorted his
 helpmate, after a short pause, “than by the introduction, either of the
@@ -94,17 +94,17 @@ expression about him.
 “It would have occurred to most men,” said Mrs Chick, “that poor dear
 Fanny being no more,—those words of mine will always be a balm and
 comfort to me,” here she dried her eyes; “it becomes necessary to
-provide a Nurse.”
+provide a [[Nurse]].”
 
-“Oh! Ah!” said Mr Chick. “Toor-ru!—such is life, I mean. I hope you are
+“Oh! Ah!” said Mr Chick. “Toor-ru!—such is life, I mean. I [[Hope|hope]] you are
 suited, my dear.”
 
 “Indeed I am not,” said Mrs Chick; “nor likely to be, so far as I can
-see, and in the meantime the poor child seems likely to be starved to
-death. Paul is so very particular—naturally so, of course, having set
+see, and in the meantime the poor [[Child|child]] seems likely to be starved to
+[[Death|death]]. Paul is so very particular—naturally so, of course, having set
 his whole heart on this one boy—and there are so many objections to
 everybody that offers, that I don’t see, myself, the least chance of an
-arrangement. Meanwhile, of course, the child is—”
+arrangement. Meanwhile, of course, the [[Child|child]] is—”
 
 “Going to the Devil,” said Mr Chick, thoughtfully, “to be sure.”
 
@@ -117,20 +117,20 @@ he added:
 
 If he had meant to bring the subject prematurely to a close, he could
 not have done it more effectually. After looking at him for some
-moments in silent resignation, Mrs Chick said she trusted he hadn’t
-said it in aggravation, because that would do very little honour to his
+moments in silent [[Resignation|resignation]], Mrs Chick said she trusted he hadn’t
+said it in aggravation, because that would do very little [[Honour|honour]] to his
 heart. She trusted he hadn’t said it seriously, because that would do
-very little honour to his head. As in any case, he couldn’t, however
-sanguine his disposition, hope to offer a remark that would be a
-greater outrage on human nature in general, we would beg to leave the
+very little [[Honour|honour]] to his head. As in any case, he couldn’t, however
+sanguine his disposition, [[Hope|hope]] to offer a remark that would be a
+greater outrage on human [[Nature|nature]] in general, we would beg to leave the
 discussion at that point.
 
-Mrs Chick then walked majestically to the window and peeped through the
+Mrs Chick then walked majestically to the [[Window|window]] and peeped through the
 blind, attracted by the sound of wheels. Mr Chick, finding that his
-destiny was, for the time, against him, said no more, and walked off.
+destiny was, for the [[Time|time]], against him, said no more, and walked off.
 But it was not always thus with Mr Chick. He was often in the ascendant
 himself, and at those times punished Louisa roundly. In their
-matrimonial bickerings they were, upon the whole, a well-matched,
+matrimonial bickerings they were, upon the whole, a [[Well|well]]-matched,
 fairly-balanced, give-and-take couple. It would have been, generally
 speaking, very difficult to have betted on the winner. Often when Mr
 Chick seemed beaten, he would suddenly make a start, turn the tables,
@@ -144,7 +144,7 @@ running into the room in a breathless condition.
 
 “My dear Louisa,” said Miss Tox, “is the vacancy still unsupplied?”
 
-“You good soul, yes,” said Mrs Chick.
+“You good [[Soul|soul]], yes,” said Mrs Chick.
 
-“Then, my dear Louisa,” returned Miss Tox, “I hope and believe—but in
+“Then, my dear Louisa,” returned Miss Tox, “I [[Hope|hope]] and believe—but in
 one moment, my dear, I’ll introduce the party.”

@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 19 (part 5)"
+title: "[[Shirley]] — Chapter 19 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,21 +14,21 @@ tags:
 </nav>
 
 
-responded Shirley.
+responded [[Shirley]].
 
 
 
 Shots were discharged by the rioters. Had the defenders waited for this
 
-signal? It seemed so. The hitherto inert and passive mill woke; fire
+signal? It seemed so. The hitherto inert and passive mill woke; [[Fire|fire]]
 
-flashed from its empty window-frames; a volley of musketry pealed sharp
+flashed from its empty [[Window|window]]-frames; a volley of musketry pealed sharp
 
 through the Hollow.
 
 
 
-"Moore speaks at last!" said Shirley, "and he seems to have the gift of
+"Moore speaks at last!" said [[Shirley]], "and he seems to have the gift of
 
 tongues. That was not a single voice."
 
@@ -56,13 +56,13 @@ trampling, and shouting between. The aim of the assailants seemed to be
 
 to enter the mill, that of the defenders to beat them off. They heard
 
-the rebel leader cry, "To the back, lads!" They heard a voice retort,
+the [[Rebel|rebel]] leader cry, "To the back, lads!" They heard a voice retort,
 
 "Come round; we will meet you."
 
 
 
-"To the counting-house!" was the order again.
+"To the counting-[[house]]!" was the order again.
 
 
 
@@ -70,7 +70,7 @@ the rebel leader cry, "To the back, lads!" They heard a voice retort,
 
 the fiercest blaze that had yet glowed, the loudest rattle that had yet
 
-been heard, burst from the counting-house front when the mass of rioters
+been heard, burst from the counting-[[house]] front when the mass of rioters
 
 rushed up to it.
 
@@ -78,11 +78,11 @@ rushed up to it.
 
 The voice that had spoken was Moore's own voice. They could tell by its
 
-tones that his soul was now warm with the conflict; they could guess
+tones that his [[Soul|soul]] was now warm with the conflict; they could guess
 
 that the fighting animal was roused in every one of those men there
 
-struggling together, and was for the time quite paramount above the
+struggling together, and was for the [[Time|time]] quite paramount above the
 
 rational human being.
 
@@ -94,11 +94,11 @@ they would do no good by rushing down into the _mêlée_. They desired
 
 neither to deal nor to receive blows; but they could not have run
 
-away--Caroline no more than Shirley; they could not have fainted; they
+away--Caroline no more than [[Shirley]]; they could not have fainted; they
 
 could not have taken their eyes from the dim, terrible scene--from the
 
-mass of cloud, of smoke, the musket-lightning--for the world.
+mass of cloud, of smoke, the musket-[[Lightning|lightning]]--for the world.
 
 
 
@@ -106,7 +106,7 @@ mass of cloud, of smoke, the musket-lightning--for the world.
 
 pulses. "Would a juncture arise in which they could be useful?" was what
 
-they waited to see; for though Shirley put off their too-late arrival
+they waited to see; for though [[Shirley]] put off their too-late arrival
 
 with a jest, and was ever ready to satirize her own or any other
 
@@ -134,9 +134,9 @@ they had found no resistance; an organized, resolute defence was what
 
 they never dreamed of encountering. When their leaders saw the steady
 
-fire kept up from the mill, witnessed the composure and determination of
+[[Fire|fire]] kept up from the mill, witnessed the composure and determination of
 
-its owner, heard themselves coolly defied and invited on to death, and
+its owner, heard themselves coolly defied and invited on to [[Death|death]], and
 
 beheld their men falling wounded round them, they felt that nothing was
 
@@ -146,13 +146,13 @@ from the building. A roll was called over, in which the men answered to
 
 figures instead of names. They dispersed wide over the fields, leaving
 
-silence and ruin behind them. The attack, from its commencement to its
+[[Silence|silence]] and ruin behind them. The attack, from its commencement to its
 
 termination, had not occupied an hour.
 
 
 
-Day was by this time approaching; the west was dim, the east beginning
+Day was by this [[Time|time]] approaching; the west was dim, the east beginning
 
 to gleam. It would have seemed that the girls who had watched this
 
@@ -172,13 +172,13 @@ whence they could see without being seen.
 
 It was no cheering spectacle. These premises were now a mere blot of
 
-desolation on the fresh front of the summer dawn. All the copse up the
+desolation on the fresh front of the [[Summer|summer]] [[Dawn|dawn]]. All the copse up the
 
-Hollow was shady and dewy, the hill at its head was green; but just
+Hollow was shady and dewy, the [[Hill|hill]] at its head was green; but just
 
 here, in the centre of the sweet glen, Discord, broken loose in the
 
-night from control, had beaten the ground with his stamping hoofs, and
+[[Night|night]] from control, had beaten the ground with his stamping hoofs, and
 
 left it waste and pulverized. The mill yawned all ruinous with unglazed
 
@@ -188,19 +188,19 @@ close under the mill, with the glittering fragments of the shattered
 
 windows, muskets and other weapons lay here and there. More than one
 
-deep crimson stain was visible on the gravel, a human body lay quiet on
+deep crimson stain was visible on the gravel, a human [[Body|body]] lay quiet on
 
 its face near the gates, and five or six wounded men writhed and moaned
 
-in the bloody dust.
+in the bloody [[Dust|dust]].
 
 
 
 Miss Keeldar's countenance changed at this view. It was the after-taste
 
-of the battle, death and pain replacing excitement and exertion. It was
+of the battle, [[Death|death]] and [[Pain|pain]] replacing excitement and exertion. It was
 
-the blackness the bright fire leaves when its blaze is sunk, its warmth
+the blackness the bright [[Fire|fire]] [[Leaves|leaves]] when its blaze is sunk, its warmth
 
 failed, and its glow faded.
 
@@ -214,23 +214,23 @@ betrayed the altered impulse of her heart.
 
 "But you could not prevent it; you did your best--it was in vain," said
 
-Caroline comfortingly. "Don't grieve, Shirley."
+Caroline comfortingly. "Don't grieve, [[Shirley]]."
 
 
 
 "I am sorry for those poor fellows," was the answer, while the spark in
 
-her glance dissolved to dew. "Are any within the mill hurt, I wonder? Is
+her glance dissolved to dew. "Are any within the mill hurt, I [[Wonder|wonder]]? Is
 
 that your uncle?"
 
 
 
-"It is, and there is Mr. Malone; and, O Shirley, there is Robert!"
+"It is, and there is Mr. Malone; and, O [[Shirley]], there is Robert!"
 
 
 
-"Well" (resuming her former tone), "don't squeeze your fingers quite
+"[[Well]]" (resuming her former tone), "don't squeeze your fingers quite
 
 into my hand. I see. There is nothing wonderful in that. We knew he, at
 

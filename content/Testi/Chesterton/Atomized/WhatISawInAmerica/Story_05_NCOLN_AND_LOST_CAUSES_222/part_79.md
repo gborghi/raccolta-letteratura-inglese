@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 79)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 79)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -30,21 +30,21 @@ generalises. This is the fallacy in the many modern attempts at a
 
 creedless creed, at something variously described as essential
 
-Christianity or undenominational religion or a world faith to embrace
+[[Christianity]] or undenominational religion or a world [[Faith|faith]] to embrace
 
 all the faiths in the world. It is that every sectarian is more
 
 sectarian in his unsectarianism than he is in his sect. The emancipation
 
-of a Baptist is a very Baptist emancipation. The charity of a Buddhist
+of a Baptist is a very Baptist emancipation. The [[Charity|charity]] of a Buddhist
 
-is a very Buddhist charity, and very different from Christian charity.
+is a very Buddhist [[Charity|charity]], and very different from Christian [[Charity|charity]].
 
-When a philosophy embraces everything it generally squeezes everything,
+When a [[philosophy]] embraces everything it generally squeezes everything,
 
 and squeezes it out of shape; when it digests it necessarily
 
-assimilates. When a theosophist absorbs Christianity it is rather as a
+assimilates. When a theosophist absorbs [[Christianity]] it is rather as a
 
 cannibal absorbs Christian missionaries. In this sense it is even
 
@@ -52,7 +52,7 @@ possible for the larger thing to be swallowed by the smaller; and for
 
 men to move about not only in a Clapham sect but in a Clapham cosmos
 
-under Clapham moon and stars.
+under Clapham [[Moon|moon]] and [[Stars|stars]].
 
 
 
@@ -106,7 +106,7 @@ sympathies than Herbert Spencer for the same reason; that Huxley was a
 
 fighter. They both fought in many ways for the limitations of their own
 
-rationalistic epoch; but they were nearer the truth than the men who
+rationalistic epoch; but they were nearer the [[Truth|truth]] than the men who
 
 simply assumed those limitations as rational. The war of the
 
@@ -118,9 +118,9 @@ before other nations than when he tries to arbitrate between them.
 
 
 
-I have by this time heard a great deal about the necessity of saving
+I have by this [[Time|time]] heard a great deal about the necessity of saving
 
-Anglo-American friendship, a necessity which I myself feel rather too
+Anglo-American [[Friendship|friendship]], a necessity which I myself feel rather too
 
 strongly to be satisfied with the ambassadorial and editorial style of
 
@@ -132,7 +132,7 @@ Anglo-Saxon. I am more and more convinced that the way for the
 
 Englishman to do it is to be English; but to know that he is English and
 
-not everything else as well. Thus the only sincere answer to Irish
+not everything else as [[Well|well]]. Thus the only sincere answer to Irish
 
 nationalism is English nationalism, which is a reality; and not English
 
@@ -158,7 +158,7 @@ ever in the attitude of a ruthless conqueror; not because he has
 
 conquered such people, but because he has not conquered them; but he is
 
-always trying to conquer them with a heroism worthy of a better cause.
+always trying to conquer them with a [[Heroism|heroism]] worthy of a better cause.
 
 For the really native and vigorous part of what is unfortunately called
 
@@ -182,7 +182,7 @@ different from him, so did he remain different from them. The adventurer
 
 saw a thousand strange things and remained a stranger. He was the
 
-Robinson Crusoe on a hundred desert islands; and on each he remained as
+Robinson Crusoe on a hundred [[Desert|desert]] islands; and on each he remained as
 
 insular as on his own island.
 
@@ -190,7 +190,7 @@ insular as on his own island.
 
 What is wanted for the cause of England to-day is an Englishman with
 
-enough imagination to love his country from the outside as well as the
+enough [[Imagination|imagination]] to [[Love|love]] his country from the outside as [[Well|well]] as the
 
 inside. That is, we need somebody who will do for the English what has
 

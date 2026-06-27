@@ -1,5 +1,5 @@
 ---
-title: "Lady Susan — ATHERINE VERNON."
+title: "[[Lady Susan]] — ATHERINE VERNON."
 author: "Austen"
 unitType: story
 parentWork: "Works/Lady-Susan-(Austen)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-CATHERINE VERNON.
+[[Catherine Vernon|CATHERINE VERNON]].
 
 
 
@@ -56,19 +56,19 @@ that sort of honest flirtation which satisfies most people, but aspires
 
 to the more delicious gratification of making a whole family miserable.
 
-By her behaviour to Mr. Mainwaring she gave jealousy and wretchedness
+By her behaviour to Mr. Mainwaring she gave [[Jealousy|jealousy]] and wretchedness
 
 to his wife, and by her attentions to a young man previously attached
 
-to Mr. Mainwaring’s sister deprived an amiable girl of her lover.
+to Mr. Mainwaring’s sister deprived an amiable girl of her [[Lover|lover]].
 
 
 
-I learnt all this from Mr. Smith, now in this neighbourhood (I have
+I learnt all this from Mr. [[smith|Smith]], now in this neighbourhood (I have
 
 dined with him, at Hurst and Wilford), who is just come from Langford
 
-where he was a fortnight with her ladyship, and who is therefore well
+where he was a fortnight with her ladyship, and who is therefore [[Well|well]]
 
 qualified to make the communication.
 
@@ -78,17 +78,17 @@ What a woman she must be! I long to see her, and shall certainly accept
 
 your kind invitation, that I may form some idea of those bewitching
 
-powers which can do so much—engaging at the same time, and in the same
+powers which can do so much—engaging at the same [[Time|time]], and in the same
 
-house, the affections of two men, who were neither of them at liberty
+[[house]], the affections of two men, who were neither of them at liberty
 
 to bestow them—and all this without the charm of youth! I am glad to
 
 find Miss Vernon does not accompany her mother to Churchhill, as she
 
-has not even manners to recommend her; and, according to Mr. Smith’s
+has not even manners to recommend her; and, according to Mr. [[smith|Smith]]’s
 
-account, is equally dull and proud. Where pride and stupidity unite
+account, is equally dull and proud. Where [[Pride|pride]] and stupidity unite
 
 there can be no dissimulation worthy notice, and Miss Vernon shall be
 
@@ -144,7 +144,7 @@ here in safety, and have no reason to complain of my reception from Mr.
 
 Vernon; but I confess myself not equally satisfied with the behaviour
 
-of his lady. She is perfectly well-bred, indeed, and has the air of a
+of his lady. She is perfectly [[Well|well]]-bred, indeed, and has the air of a
 
 woman of fashion, but her manners are not such as can persuade me of
 
@@ -166,11 +166,11 @@ ago, and which never succeeded at last.
 
 I am sometimes disposed to repent that I did not let Charles buy Vernon
 
-Castle, when we were obliged to sell it; but it was a trying
+[[Castle]], when we were obliged to sell it; but it was a trying
 
-circumstance, especially as the sale took place exactly at the time of
+circumstance, especially as the sale took place exactly at the [[Time|time]] of
 
-his marriage; and everybody ought to respect the delicacy of those
+his [[Marriage|marriage]]; and everybody ought to respect the delicacy of those
 
 feelings which could not endure that my husband’s dignity should be
 
@@ -178,7 +178,7 @@ lessened by his younger brother’s having possession of the family
 
 estate. Could matters have been so arranged as to prevent the necessity
 
-of our leaving the castle, could we have lived with Charles and kept
+of our leaving the [[Castle|castle]], could we have lived with Charles and kept
 
 him single, I should have been very far from persuading my husband to
 
@@ -196,15 +196,15 @@ dislike, a motive will never be wanting; and as to money matters it has
 
 not withheld him from being very useful to me. I really have a regard
 
-for him, he is so easily imposed upon! The house is a good one, the
+for him, he is so easily imposed upon! The [[house]] is a good one, the
 
 furniture fashionable, and everything announces plenty and elegance.
 
 Charles is very rich I am sure; when a man has once got his name in a
 
-banking-house he rolls in money; but they do not know what to do with
+banking-[[house]] he rolls in money; but they do not know what to do with
 
-it, keep very little company, and never go to London but on business.
+it, keep very little company, and never go to [[London]] but on business.
 
 We shall be as stupid as possible. I mean to win my sister-in-law’s
 
@@ -262,9 +262,9 @@ Churchhill.
 
 
 
-Well, my dear Reginald, I have seen this dangerous creature, and must
+[[Well]], my dear Reginald, I have seen this dangerous creature, and must
 
-give you some description of her, though I hope you will soon be able
+give you some description of her, though I [[Hope|hope]] you will soon be able
 
 to form your own judgment. She is really excessively pretty; however
 
@@ -272,7 +272,7 @@ you may choose to question the allurements of a lady no longer young, I
 
 must, for my own part, declare that I have seldom seen so lovely a
 
-woman as Lady Susan. She is delicately fair, with fine grey eyes and
+woman as [[Lady Susan]]. She is delicately fair, with fine grey eyes and
 
 dark eyelashes; and from her appearance one would not suppose her more
 
@@ -282,7 +282,7 @@ certainly not disposed to admire her, though always hearing she was
 
 beautiful; but I cannot help feeling that she possesses an uncommon
 
-union of symmetry, brilliancy, and grace. Her address to me was so
+[[Union|union]] of symmetry, brilliancy, and grace. Her address to me was so
 
 gentle, frank, and even affectionate, that, if I had not known how much
 
@@ -296,15 +296,15 @@ expect that an impudent address will naturally attend an impudent mind;
 
 at least I was myself prepared for an improper degree of confidence in
 
-Lady Susan; but her countenance is absolutely sweet, and her voice and
+[[Lady Susan]]; but her countenance is absolutely sweet, and her voice and
 
 manner winningly mild. I am sorry it is so, for what is this but
 
-deceit? Unfortunately, one knows her too well. She is clever and
+deceit? Unfortunately, one knows her too [[Well|well]]. She is clever and
 
 agreeable, has all that knowledge of the world which makes conversation
 
-easy, and talks very well, with a happy command of language, which is
+easy, and talks very [[Well|well]], with a happy command of language, which is
 
 too often used, I believe, to make black appear white. She has already
 
@@ -314,7 +314,7 @@ though I have been so long convinced to the contrary. She speaks of her
 
 with so much tenderness and anxiety, lamenting so bitterly the neglect
 
-of her education, which she represents however as wholly unavoidable,
+of her [[Education|education]], which she represents however as wholly unavoidable,
 
 that I am forced to recollect how many successive springs her ladyship
 
@@ -330,7 +330,7 @@ If her manners have so great an influence on my resentful heart, you
 
 may judge how much more strongly they operate on Mr. Vernon’s generous
 
-temper. I wish I could be as well satisfied as he is, that it was
+temper. I wish I could be as [[Well|well]] satisfied as he is, that it was
 
 really her choice to leave Langford for Churchhill; and if she had not
 
@@ -340,7 +340,7 @@ of living did not suit her situation or feelings, I might have believed
 
 that concern for the loss of such a husband as Mr. Vernon, to whom her
 
-own behaviour was far from unexceptionable, might for a time make her
+own behaviour was far from unexceptionable, might for a [[Time|time]] make her
 
 wish for retirement. But I cannot forget the length of her visit to the
 
@@ -354,7 +354,7 @@ though late the path of propriety, occasioned her removal from a family
 
 where she must in reality have been particularly happy. Your friend Mr.
 
-Smith’s story, however, cannot be quite correct, as she corresponds
+[[smith|Smith]]’s story, however, cannot be quite correct, as she corresponds
 
 regularly with Mrs. Mainwaring. At any rate it must be exaggerated. It
 

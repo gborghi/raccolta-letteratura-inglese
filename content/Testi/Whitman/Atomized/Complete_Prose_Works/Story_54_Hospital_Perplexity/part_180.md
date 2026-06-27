@@ -19,17 +19,17 @@ noble poetry--as of law, and of the profoundest wisdom and
 estheticism--is, (I would suggest,) from sane, completed, vital, capable
 old age.
 
-The final proof of song or personality is a sort of matured, accreted,
+The final proof of [[Song|song]] or personality is a sort of matured, accreted,
 superb, evoluted, almost divine, impalpable diffuseness and atmosphere
 or invisible magnetism, dissolving and embracing all--and not any
-special achievement of passion, pride, metrical form, epigram, plot,
-thought, or what is call'd beauty. The bud of the rose or the half-blown
+special achievement of passion, [[Pride|pride]], metrical form, [[Epigram|epigram]], plot,
+thought, or what is call'd [[Beauty|beauty]]. The bud of the [[Rose|rose]] or the half-blown
 flower is beautiful, of course, but only the perfected bloom or apple
 or finish'd wheat-head is beyond the rest. Completed fruitage like
 this comes (in my opinion) to a grand age, in man or woman, through an
 essentially sound continuated physiology and psychology (both important)
 and is the culminating glorious aureole of all and several preceding.
-Like the tree or vine just mention'd, it stands at last in a beauty,
+Like the tree or vine just mention'd, it stands at last in a [[Beauty|beauty]],
 power and productiveness of its own, above all others, and of a sort and
 style uniting all criticisms, proofs and adherences.
 
@@ -42,30 +42,30 @@ gentlemen in them, and plush and rosewood, and ground-glass lamps, and
 mahogany and ebony furniture, and a silver inkstand and scented satin
 paper to write on.
 
-Whittier stands for morality (not in any all-accepting philosophic or
+Whittier stands for [[morality]] (not in any all-accepting philosophic or
 Hegelian sense, but) filter'd through a Puritanical or Quaker filter--is
 incalculably valuable as a genuine utterance, (and the finest,)--with
-many local and Yankee and _genre_ bits--all hued with anti-slavery
-coloring--(the _genre_ and anti-slavery contributions all precious--all
+many local and Yankee and _genre_ bits--all hued with anti-[[Slavery|slavery]]
+coloring--(the _genre_ and anti-[[Slavery|slavery]] contributions all precious--all
 help.) Whittier's is rather a grand figure, but pretty lean and
-ascetic--no Greek-not universal and composite enough (don't try--don't
+[[ascetic]]--no Greek-not universal and composite enough (don't try--don't
 wish to be) for ideal Americanism. Ideal Americanism would take the
 Greek spirit and law, and democratize and scientize and (thence) truly
-Christianize them for the whole, the globe, all history, all ranks
+Christianize them for the whole, the globe, all [[history]], all ranks
 and lands, all facts, all good and bad. (Ah this _bad_--this
 nineteen-twentieths of us all! What a stumbling-block it remains for
 poets and metaphysicians--what a chance (the strange, clear-as-ever
-inscription on the old dug-up tablet) it offers yet for being
+[[Inscription|inscription]] on the old dug-up tablet) it offers yet for being
 translated--what can be its purpose in the God-scheme of this universe,
 and all?)
 
 Then William Cullen Bryant--meditative, serious, from first to last
 tending to threnodies--his genius mainly lyrical--when reading his
 pieces who could expect or ask for more magnificent ones than such
-as "The Battle-Field," and "A Forest Hymn"? Bryant, unrolling,
-prairie-like, notwithstanding his mountains and lakes--moral enough
+as "The Battle-Field," and "A Forest [[Hymn]]"? Bryant, unrolling,
+prairie-like, notwithstanding his [[Mountains|mountains]] and lakes--moral enough
 (yet worldly and conventional)--a naturalist, pedestrian, gardener
-and fruiter--well aware of books, but mixing to the last in cities and
+and fruiter--[[Well|well]] aware of books, but mixing to the last in cities and
 society. I am not sure but his name ought to lead the list of American
 bards. Years ago I thought Emerson pre eminent (and as to the last
 polish and intellectual cuteness may-be I think so still)--but, for
@@ -82,11 +82,11 @@ others, I fitly in essaying such a theme as this, and reverence for
 their memories, may at least give a heart-benison on the list of their
 names.
 
-Time and New World humanity having the venerable resemblances more than
+[[Time]] and New World humanity having the venerable resemblances more than
 anything else, and being "the same subject continued," just here in
 1890, one gets a curious nourishment and lift (I do) from all those
 grand old veterans, Bancroft, Kossuth, von Moltke--and such typical
-specimen-reminiscences as Sophocles and Goethe, genius, health, beauty
+specimen-reminiscences as Sophocles and Goethe, genius, health, [[Beauty|beauty]]
 of person, riches, rank, renown and length of days, all combining and
 centering in one case.
 
@@ -95,11 +95,11 @@ mellow, last-justifying, averaging, bringing-up of many, many years--a
 great old age amplified? Every really first-class production has likely
 to pass through the crucial tests of a generation, perhaps several
 generations. Lord Bacon says the first sight of any work really new
-and first-rate in beauty and originality always arouses something
+and first-rate in [[Beauty|beauty]] and originality always arouses something
 disagreeable and repulsive. Voltaire term'd the Shaksperean works "a
-huge dunghill"; Hamlet he described (to the Academy, whose members
+huge dunghill"; [[Hamlet]] he described (to the Academy, whose members
 listen'd with approbation) as "the dream of a drunken savage, with a
-few flashes of beautiful thoughts." And not the Ferney sage alone;
+few flashes of beautiful thoughts." And not the Ferney sage [[Alone|alone]];
 the orthodox judges and law-givers of France, such as La Harpe, J. L.
 Geoffrey, and Chateaubriand, either join'd in Voltaire's verdict, or
 went further. Indeed the classicists and regulars there still hold to
@@ -110,10 +110,10 @@ their lives were endanger'd. The same rage encounter'd the attempt in
 theatricals to perform women's parts by real women, which was publicly
 consider'd disgusting and outrageous. Byron thought Pope's verse
 incomparably ahead of Homer and Shakspere. One of the prevalent
-objections, in the days of Columbus was, the learn'd men boldly asserted
-that if a ship should reach India she would never get back again,
+objections, in the days of [[Columbus]] was, the learn'd men boldly asserted
+that if a [[Ship|ship]] should reach India she would never get back again,
 because the rotundity of the globe would present a kind of mountain, up
-which it would be impossible to sail even with the most favorable wind.
+which it would be impossible to sail even with the most favorable [[Wind|wind]].
 
 "Modern poets," says a leading Boston journal, "enjoy longevity.
 Browning lived to be seventy-seven. Wordsworth, Bryant, Emerson, and

@@ -1,5 +1,5 @@
 ---
-title: "The Literary Life of Thingum Bob, Esq (part 8)"
+title: "[[The Literary Life of Thingum Bob, Esq]] (part 8)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Literary-Life-of-Thingum-Bob,-Esq-(Poe)"
@@ -26,11 +26,11 @@ tags:
 
       After doing this, I really do not perceive that you can do any
 
-      more. However—it might be just as well to roll him once or twice
+      more. However—it might be just as [[Well|well]] to roll him once or twice
 
-      in the gutter, and then put him in charge of the police. Any time
+      in the gutter, and then put him in charge of the police. Any [[Time|time]]
 
-      the next morning you can call at the watch-house and swear an
+      the next morning you can call at the watch-[[house]] and swear an
 
       assault.”
 
@@ -62,7 +62,7 @@ tags:
 
 
 
-      My plan was exceedingly simple. I bought, for a song, a sixteenth
+      My plan was exceedingly simple. I bought, for a [[Song|song]], a sixteenth
 
       of the “Snapping-Turtle”:—that was all. The thing was _done_, and
 
@@ -94,7 +94,7 @@ tags:
 
       be termed philosophical and analytical investigation of the
 
-      literary merits of the “Goosetherumfoodle,” as well as of the
+      literary merits of the “Goosetherumfoodle,” as [[Well|well]] as of the
 
       personal character of the editor of the “Goosetherumfoodle.” At
 
@@ -118,7 +118,7 @@ tags:
 
       The fact is, I _thought_—I _really_ thought—I thought at the
 
-      time—I thought _then_—and have no reason for thinking otherwise
+      [[Time|time]]—I thought _then_—and have no reason for thinking otherwise
 
       _now_—that the “Goosetherumfoodle” _did_ make a mistake. With the
 
@@ -166,11 +166,11 @@ tags:
 
       enables me to say, with Chateaubriand, “I have made
 
-      history”—“_J’ai fait l’histoire_.”
+      [[history]]”—“_J’ai fait l’histoire_.”
 
 
 
-      I have indeed “made history.” From the bright epoch which I now
+      I have indeed “made [[history]].” From the bright epoch which I now
 
       record, my actions—my works—are the property of mankind. They are
 
@@ -198,7 +198,7 @@ tags:
 
 
 
-      Yes; I have made history. My fame is universal. It extends to the
+      Yes; I have made [[history]]. My fame is universal. It extends to the
 
       uttermost ends of the earth. You cannot take up a common
 
@@ -222,7 +222,7 @@ tags:
 
       did I _not_ write? I knew not the word “ease.” By day I adhered
 
-      to my desk, and at night, a pale student, I consumed the midnight
+      to my desk, and at [[Night|night]], a pale student, I consumed the midnight
 
       oil. You should have seen me—you _should_. I leaned to the right.
 

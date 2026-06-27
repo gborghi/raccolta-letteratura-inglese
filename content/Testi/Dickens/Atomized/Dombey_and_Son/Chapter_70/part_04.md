@@ -18,14 +18,14 @@ That was no reason why he should be deaf; but he must have been, he
 thought, for, by and by, he heard Mr Feeder calling in his ear, and
 gently shaking him to rouse his attention. And when he raised his head,
 quite scared, and looked about him, he found that Doctor Blimber had
-come into the room; and that the window was open, and that his forehead
-was wet with sprinkled water; though how all this had been done without
+come into the room; and that the [[Window|window]] was open, and that his forehead
+was wet with sprinkled [[Water|water]]; though how all this had been done without
 his knowledge, was very curious indeed.
 
-“Ah! Come, come! That’s well! How is my little friend now?” said Doctor
+“Ah! Come, come! That’s [[Well|well]]! How is my little friend now?” said Doctor
 Blimber, encouragingly.
 
-“Oh, quite well, thank you, Sir,” said Paul.
+“Oh, quite [[Well|well]], thank you, Sir,” said Paul.
 
 But there seemed to be something the matter with the floor, for he
 couldn’t stand upon it steadily; and with the walls too, for they were
@@ -37,12 +37,12 @@ astonishment that the door was in quite a different place from that in
 which he had expected to find it, and almost thought, at first, that Mr
 Toots was going to walk straight up the chimney.
 
-It was very kind of Mr Toots to carry him to the top of the house so
+It was very kind of Mr Toots to carry him to the top of the [[house]] so
 tenderly; and Paul told him that it was. But Mr Toots said he would do
 a great deal more than that, if he could; and indeed he did more as it
 was: for he helped Paul to undress, and helped him to bed, in the
 kindest manner possible, and then sat down by the bedside and chuckled
-very much; while Mr Feeder, B.A., leaning over the bottom of the
+very much; while Mr Feeder, B.A., leaning over the [[Bottom|bottom]] of the
 bedstead, set all the little bristles on his head bolt upright with his
 bony hands, and then made believe to spar at Paul with great science,
 on account of his being all right again, which was so uncommonly
@@ -52,7 +52,7 @@ once.
 
 How Mr Toots melted away, and Mr Feeder changed into Mrs Pipchin, Paul
 never thought of asking; neither was he at all curious to know; but
-when he saw Mrs Pipchin standing at the bottom of the bed, instead of
+when he saw Mrs Pipchin standing at the [[Bottom|bottom]] of the bed, instead of
 Mr Feeder, he cried out, “Mrs Pipchin, don’t tell Florence!”
 
 “Don’t tell Florence what, my little Paul?” said Mrs Pipchin, coming
@@ -70,7 +70,7 @@ Mrs Pipchin couldn’t guess.
 
 “I mean,” said Paul, “to put my money all together in one Bank, never
 try to get any more, go away into the country with my darling Florence,
-have a beautiful garden, fields, and woods, and live there with her all
+have a beautiful [[Garden|garden]], fields, and woods, and live there with her all
 my life!”
 
 “Indeed!” cried Mrs Pipchin.
@@ -82,7 +82,7 @@ Mrs Pipchin’s grey eye scanned his thoughtful face.
 
 “If I grow up,” said Paul. Then he went on immediately to tell Mrs
 Pipchin all about the party, about Florence’s invitation, about the
-pride he would have in the admiration that would be felt for her by all
+[[Pride|pride]] he would have in the admiration that would be felt for her by all
 the boys, about their being so kind to him and fond of him, about his
 being so fond of them, and about his being so glad of it. Then he told
 Mrs Pipchin about the analysis, and about his being certainly
@@ -91,7 +91,7 @@ whether she knew why it was, and what it meant. Mrs Pipchin denied the
 fact altogether, as the shortest way of getting out of the difficulty;
 but Paul was far from satisfied with that reply, and looked so
 searchingly at Mrs Pipchin for a truer answer, that she was obliged to
-get up and look out of the window to avoid his eyes.
+get up and look out of the [[Window|window]] to avoid his eyes.
 
 There was a certain calm Apothecary, who attended at the establishment
 when any of the young gentlemen were ill, and somehow he got into the
@@ -108,7 +108,7 @@ wondered!) and great constitutional weakness. That as the little fellow
 had set his heart on parting with his school-mates on the seventeenth,
 it would be better to indulge the fancy if he grew no worse. That he
 was glad to hear from Mrs Pipchin, that the little fellow would go to
-his friends in London on the eighteenth. That he would write to Mr
+his friends in [[London]] on the eighteenth. That he would write to Mr
 Dombey, when he should have gained a better knowledge of the case, and
 before that day. That there was no immediate cause for—what? Paul lost
 that word. And that the little fellow had a fine mind, but was an
@@ -120,18 +120,18 @@ people!
 
 He could neither make it out, nor trouble himself long with the effort.
 Mrs Pipchin was again beside him, if she had ever been away (he thought
-she had gone out with the Doctor, but it was all a dream perhaps), and
+she had gone out with the Doctor, but it was all [[A Dream|a dream]] perhaps), and
 presently a bottle and glass got into her hands magically, and she
 poured out the contents for him. After that, he had some real good
 jelly, which Mrs Blimber brought to him herself; and then he was so
-well, that Mrs Pipchin went home, at his urgent solicitation, and
+[[Well|well]], that Mrs Pipchin went [[Home|home]], at his urgent solicitation, and
 Briggs and Tozer came to bed. Poor Briggs grumbled terribly about his
 own analysis, which could hardly have discomposed him more if it had
 been a chemical process; but he was very good to Paul, and so was
 Tozer, and so were all the rest, for they every one looked in before
 going to bed, and said, “How are you now, Dombey?” “Cheer up, little
 Dombey!” and so forth. After Briggs had got into bed, he lay awake for
-a long time, still bemoaning his analysis, and saying he knew it was
+a long [[Time|time]], still bemoaning his analysis, and saying he knew it was
 all wrong, and they couldn’t have analysed a murderer worse, and—how
 would Doctor Blimber like it if his pocket-money depended on it? It was
 very easy, Briggs said, to make a galley-slave of a boy all the

@@ -21,7 +21,7 @@ FROM PITTSBURG TO CINCINNATI IN A WESTERN STEAMBOAT.  CINCINNATI
 THE Messenger was one among a crowd of high-pressure steamboats,
 clustered together by a wharf-side, which, looked down upon from the
 rising ground that forms the landing-place, and backed by the lofty bank
-on the opposite side of the river, appeared no larger than so many
+on the opposite side of the [[River|river]], appeared no larger than so many
 floating models.  She had some forty passengers on board, exclusive of
 the poorer persons on the lower deck; and in half an hour, or less,
 proceeded on her way.
@@ -33,8 +33,8 @@ great many times very gravely recommended to keep as far aft as possible,
 ‘because the steamboats generally blew up forward.’  Nor was this an
 unnecessary caution, as the occurrence and circumstances of more than one
 such fatality during our stay sufficiently testified.  Apart from this
-source of self-congratulation, it was an unspeakable relief to have any
-place, no matter how confined, where one could be alone: and as the row
+source of [[Self|self]]-congratulation, it was an unspeakable relief to have any
+place, no matter how confined, where one could be [[Alone|alone]]: and as the row
 of little chambers of which this was one, had each a second glass-door
 besides that in the ladies’ cabin, which opened on a narrow gallery
 outside the vessel, where the other passengers seldom came, and where one
@@ -42,36 +42,36 @@ could sit in peace and gaze upon the shifting prospect, we took
 possession of our new quarters with much pleasure.
 
 If the native packets I have already described be unlike anything we are
-in the habit of seeing on water, these western vessels are still more
+in the habit of seeing on [[Water|water]], these western vessels are still more
 foreign to all the ideas we are accustomed to entertain of boats.  I
 hardly know what to liken them to, or how to describe them.
 
 In the first place, they have no mast, cordage, tackle, rigging, or other
 such boat-like gear; nor have they anything in their shape at all
 calculated to remind one of a boat’s head, stem, sides, or keel.  Except
-that they are in the water, and display a couple of paddle-boxes, they
+that they are in the [[Water|water]], and display a couple of paddle-boxes, they
 might be intended, for anything that appears to the contrary, to perform
 some unknown service, high and dry, upon a mountain top.  There is no
 visible deck, even: nothing but a long, black, ugly roof covered with
 burnt-out feathery sparks; above which tower two iron chimneys, and a
-hoarse escape valve, and a glass steerage-house.  Then, in order as the
-eye descends towards the water, are the sides, and doors, and windows of
+hoarse escape valve, and a glass steerage-[[house]].  Then, in order as the
+eye descends towards the [[Water|water]], are the sides, and doors, and windows of
 the state-rooms, jumbled as oddly together as though they formed a small
 street, built by the varying tastes of a dozen men: the whole is
 supported on beams and pillars resting on a dirty barge, but a few inches
-above the water’s edge: and in the narrow space between this upper
+above the [[Water|water]]’s edge: and in the narrow space between this upper
 structure and this barge’s deck, are the furnace fires and machinery,
-open at the sides to every wind that blows, and every storm of rain it
+open at the sides to every [[Wind|wind]] that blows, and every [[Storm|storm]] of rain it
 drives along its path.
 
-Passing one of these boats at night, and seeing the great body of fire,
+Passing one of these boats at [[Night|night]], and seeing the great [[Body|body]] of [[Fire|fire]],
 exposed as I have just described, that rages and roars beneath the frail
 pile of painted wood: the machinery, not warded off or guarded in any
 way, but doing its work in the midst of the crowd of idlers and emigrants
 and children, who throng the lower deck: under the management, too, of
 reckless men whose acquaintance with its mysteries may have been of six
-months’ standing: one feels directly that the wonder is, not that there
-should be so many fatal accidents, but that any journey should be safely
+months’ standing: one feels directly that the [[Wonder|wonder]] is, not that there
+should be so many fatal accidents, but that any [[Journey|journey]] should be safely
 made.
 
 Within, there is one long narrow cabin, the whole length of the boat;
@@ -104,16 +104,16 @@ help themselves several times instead, usually suck their knives and
 forks meditatively, until they have decided what to take next: then pull
 them out of their mouths: put them in the dish; help themselves; and fall
 to work again.  At dinner, there is nothing to drink upon the table, but
-great jugs full of cold water.  Nobody says anything, at any meal, to
+great jugs full of cold [[Water|water]].  Nobody says anything, at any meal, to
 anybody.  All the passengers are very dismal, and seem to have tremendous
-secrets weighing on their minds.  There is no conversation, no laughter,
+[[Secrets|secrets]] weighing on their minds.  There is no conversation, no laughter,
 no cheerfulness, no sociality, except in spitting; and that is done in
 silent fellowship round the stove, when the meal is over.  Every man sits
 down, dull and languid; swallows his fare as if breakfasts, dinners, and
-suppers, were necessities of nature never to be coupled with recreation
-or enjoyment; and having bolted his food in a gloomy silence, bolts
+suppers, were necessities of [[Nature|nature]] never to be coupled with recreation
+or enjoyment; and having bolted his food in a gloomy [[Silence|silence]], bolts
 himself, in the same state.  But for these animal observances, you might
-suppose the whole male portion of the company to be the melancholy ghosts
+suppose the whole male portion of the company to be the [[Melancholy|melancholy]] [[Ghosts|ghosts]]
 of departed book-keepers, who had fallen dead at the desk: such is their
 weary air of business and calculation.  Undertakers on duty would be
 sprightly beside them; and a collation of funeral-baked meats, in

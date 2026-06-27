@@ -14,27 +14,27 @@ tags:
 </nav>
 
 
-Free love is the direct enemy of freedom.  It is the most obvious
-of all the bribes that can be offered by slavery.  In servile
+Free [[Love|love]] is the direct enemy of [[Freedom|freedom]].  It is the most obvious
+of all the bribes that can be offered by [[Slavery|slavery]].  In servile
 societies a vast amount of sexual laxity can go on in practice,
 and even in theory, save when now and then some cranky speculator
 or crazy squire has a fad for some special breed of slaves like
 a breed of cattle.  And even that lunacy would not last long;
-for lunatics are the minority among slave-owners. Slavery has a much
-more sane and a much more subtle appeal to human nature than that.
+for lunatics are the minority among slave-owners. [[Slavery]] has a much
+more sane and a much more subtle appeal to human [[Nature|nature]] than that.
 It is much more likely that, after a few such fads and freaks,
-the new Servile State would settle down into the sleepy resignation
-of the old Servile State; the old pagan repose in slavery,
-as it was before Christianity came to trouble and perplex the world
+the new Servile State would settle down into the sleepy [[Resignation|resignation]]
+of the old Servile State; the old pagan repose in [[Slavery|slavery]],
+as it was before [[Christianity]] came to trouble and perplex the world
 with ideals of liberty and chivalry.  One of the conveniences
 of that pagan world is that, below a certain level of society,
 nobody really need bother about pedigree or paternity at all.
 A new world began when slaves began to stand on their dignity as
 virgin martyrs.  Christendom is the civilization that such martyrs made;
-and slavery is its returning enemy.  But of all the bribes that the old
-pagan slavery can offer, this luxury and laxity is the strongest;
+and [[Slavery|slavery]] is its returning enemy.  But of all the bribes that the old
+pagan [[Slavery|slavery]] can offer, this luxury and laxity is the strongest;
 nor do I deny that the influences desiring the degradation of human
-dignity have here chosen their instrument well.
+dignity have here chosen their instrument [[Well|well]].
 
 --
 
@@ -69,12 +69,12 @@ our very noses for money, but yet we must not call them beggars.
 He follows this remark with several notes of exclamation, and I
 feel inclined to add a few of my own.  The most astonishing thing
 about the matter, to my mind, is that the journalist is quite
-innocent in his own indignation.  It never so much as crosses his
+[[Innocent|innocent]] in his own indignation.  It never so much as crosses his
 mind that organ-grinders are not classed as beggars because they
 are not beggars.  They may be as much of a nuisance as beggars;
 they may demand special legislation like beggars; it may be right
 and proper for every philanthropist to stop them, starve them,
-harry them, and hound them to death just as if they were beggars.
+harry them, and hound them to [[Death|death]] just as if they were beggars.
 But they are not beggars, by any possible definition of begging.
 Nobody can be said to be a mere mendicant who is offering something
 in exchange for money, especially if it is something which some people
@@ -113,14 +113,14 @@ It used to be said that this rough-and-ready method made
 the country richer; but it will be found less and less consoling
 to explain why the country is richer when the country is steadily
 growing poorer.  It will not comfort us in the hour of failure
-to listen to long and ingenious explanations of our success.
-The truth is that this sort of practical compromise has not led
-to practical success.  The success of England came as the culmination
+to listen to long and ingenious explanations of our [[success]].
+The [[Truth|truth]] is that this sort of practical compromise has not led
+to practical [[success]].  The [[success]] of England came as the culmination
 of the highly logical and theoretical eighteenth century.
-The method was already beginning to fail by the time we came to
+The method was already beginning to fail by the [[Time|time]] we came to
 the end of the compromising and constitutional nineteenth century.
 Modern scientific civilization was launched by logicians.
-It was only wrecked by practical men.  Anyhow, by this time everybody
+It was only wrecked by practical men.  Anyhow, by this [[Time|time]] everybody
 in England has given up pretending to be particularly rich.
 It is, therefore, no appropriate moment for proving that a course
 of being consistently unreasonable will always lead to riches.

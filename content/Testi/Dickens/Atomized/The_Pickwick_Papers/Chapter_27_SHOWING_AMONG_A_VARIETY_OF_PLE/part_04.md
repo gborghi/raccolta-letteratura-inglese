@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 4)"
+title: "The [[Pickwick]] Papers — Chapter 25: SHOWING, AMONG A VARIETY OF PLEASANT MATTERS, HOW MAJESTIC (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -17,17 +17,17 @@ tags:
 ‘But after all,’ said Mr. Nupkins, brightening for a moment, after a
 long pause; ‘after all, this is a mere statement. Captain Fitz-Marshall
 is a man of very engaging manners, and, I dare say, has many enemies.
-What proof have you of the truth of these representations?’
+What proof have you of the [[Truth|truth]] of these representations?’
 
-‘Confront me with him,’ said Mr. Pickwick, ‘that is all I ask, and all I
+‘Confront me with him,’ said Mr. [[Pickwick]], ‘that is all I ask, and all I
 require. Confront him with me and my friends here; you will want no
 further proof.’
 
 ‘Why,’ said Mr. Nupkins, ‘that might be very easily done, for he will be
-here to-night, and then there would be no occasion to make the matter
+here to-[[Night|night]], and then there would be no occasion to make the matter
 public, just--just--for the young man’s own sake, you know. I--I--should
 like to consult Mrs. Nupkins on the propriety of the step, in the first
-instance, though. At all events, Mr. Pickwick, we must despatch this
+instance, though. At all events, Mr. [[Pickwick]], we must despatch this
 legal business before we can do anything else. Pray step back into the
 next room.’
 
@@ -58,25 +58,25 @@ them up, his natural tendency to rambling, and his extreme confusion, he
 managed to get involved, in something under three minutes, in such a
 mass of entanglement and contradiction, that Mr. Nupkins at once
 declared he didn’t believe him. So the fines were remitted, and Mr.
-Jinks found a couple of bail in no time. And all these solemn
+Jinks found a couple of bail in no [[Time|time]]. And all these solemn
 proceedings having been satisfactorily concluded, Mr. Grummer was
 ignominiously ordered out--an awful instance of the instability of human
-greatness, and the uncertain tenure of great men’s favour.
+[[Greatness|greatness]], and the uncertain tenure of great men’s favour.
 
 Mrs. Nupkins was a majestic female in a pink gauze turban and a light
 brown wig. Miss Nupkins possessed all her mamma’s haughtiness without
-the turban, and all her ill-nature without the wig; and whenever the
+the turban, and all her ill-[[Nature|nature]] without the wig; and whenever the
 exercise of these two amiable qualities involved mother and daughter in
 some unpleasant dilemma, as they not infrequently did, they both
 concurred in laying the blame on the shoulders of Mr. Nupkins.
 Accordingly, when Mr. Nupkins sought Mrs. Nupkins, and detailed the
-communication which had been made by Mr. Pickwick, Mrs. Nupkins suddenly
+communication which had been made by Mr. [[Pickwick]], Mrs. Nupkins suddenly
 recollected that she had always expected something of the kind; that she
 had always said it would be so; that her advice was never taken; that
 she really did not know what Mr. Nupkins supposed she was; and so forth.
 
 ‘The idea!’ said Miss Nupkins, forcing a tear of very scanty proportions
-into the corner of each eye; ‘the idea of my being made such a fool of!’
+into the corner of each eye; ‘the idea of my being made such a [[Fool|fool]] of!’
 
 ‘Ah! you may thank your papa, my dear,’ said Mrs. Nupkins; ‘how I have
 implored and begged that man to inquire into the captain’s family
@@ -87,7 +87,7 @@ step! I am quite certain nobody would believe it--quite.’
 
 ‘Don’t talk to me, you aggravating thing, don’t!’ said Mrs. Nupkins.
 
-‘My love,’ said Mr. Nupkins, ‘you professed yourself very fond of
+‘My [[Love|love]],’ said Mr. Nupkins, ‘you professed yourself very fond of
 Captain Fitz-Marshall. You have constantly asked him here, my dear, and
 you have lost no opportunity of introducing him elsewhere.’
 
@@ -112,22 +112,22 @@ Nupkins.
 care! What is it to _him_!’ At this dreadful reflection, Mrs. Nupkins
 wept mental anguish, and Miss Nupkins followed on the same side.
 
-Mrs. Nupkins’s tears continued to gush forth, with great velocity, until
-she had gained a little time to think the matter over; when she decided,
-in her own mind, that the best thing to do would be to ask Mr. Pickwick
+Mrs. Nupkins’s [[Tears|tears]] continued to gush forth, with great velocity, until
+she had gained a little [[Time|time]] to think the matter over; when she decided,
+in her own mind, that the best thing to do would be to ask Mr. [[Pickwick]]
 and his friends to remain until the captain’s arrival, and then to give
-Mr. Pickwick the opportunity he sought. If it appeared that he had
-spoken truly, the captain could be turned out of the house without
+Mr. [[Pickwick]] the opportunity he sought. If it appeared that he had
+spoken truly, the captain could be turned out of the [[house]] without
 noising the matter abroad, and they could easily account to the
 Porkenhams for his disappearance, by saying that he had been appointed,
-through the Court influence of his family, to the governor-generalship
+through the [[Court]] influence of his family, to the governor-generalship
 of Sierra Leone, of Saugur Point, or any other of those salubrious
 climates which enchant Europeans so much, that when they once get there,
 they can hardly ever prevail upon themselves to come back again.
 
-When Mrs. Nupkins dried up her tears, Miss Nupkins dried up hers, and
+When Mrs. Nupkins dried up her [[Tears|tears]], Miss Nupkins dried up hers, and
 Mr. Nupkins was very glad to settle the matter as Mrs. Nupkins had
-proposed. So Mr. Pickwick and his friends, having washed off all marks
+proposed. So Mr. [[Pickwick]] and his friends, having washed off all marks
 of their late encounter, were introduced to the ladies, and soon
 afterwards to their dinner; and Mr. Weller, whom the magistrate, with
 his peculiar sagacity, had discovered in half an hour to be one of the

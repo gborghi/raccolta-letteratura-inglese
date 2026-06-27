@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 9 (part 1)"
+title: "[[Northanger Abbey]] — Chapter 9 (part 1)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -26,15 +26,15 @@ was as follows. It appeared first in a general dissatisfaction with
 
 everybody about her, while she remained in the rooms, which speedily
 
-brought on considerable weariness and a violent desire to go home.
+brought on considerable weariness and a violent [[Desire|desire]] to go [[Home|home]].
 
 This, on arriving in Pulteney Street, took the direction of
 
 extraordinary hunger, and when that was appeased, changed into an
 
-earnest longing to be in bed; such was the extreme point of her
+earnest [[Longing|longing]] to be in bed; such was the extreme point of her
 
-distress; for when there she immediately fell into a sound sleep which
+distress; for when there she immediately fell into a sound [[Sleep|sleep]] which
 
 lasted nine hours, and from which she awoke perfectly revived, in
 
@@ -44,7 +44,7 @@ of her heart was to improve her acquaintance with Miss Tilney, and
 
 almost her first resolution, to seek her for that purpose, in the
 
-pump-room at noon. In the pump-room, one so newly arrived in Bath must
+pump-room at [[Noon|noon]]. In the pump-room, one so newly arrived in Bath must
 
 be met with, and that building she had already found so favourable for
 
@@ -58,7 +58,7 @@ friend from within its walls. Her plan for the morning thus settled,
 
 she sat quietly down to her book after breakfast, resolving to remain
 
-in the same place and the same employment till the clock struck one;
+in the same place and the same employment till the [[Clock|clock]] struck one;
 
 and from habitude very little incommoded by the remarks and
 
@@ -76,21 +76,21 @@ whether there were anyone at leisure to answer her or not. At about
 
 half past twelve, a remarkably loud rap drew her in haste to the
 
-window, and scarcely had she time to inform Catherine of there being
+[[Window|window]], and scarcely had she [[Time|time]] to inform Catherine of there being
 
 two open carriages at the door, in the first only a servant, her
 
-brother driving Miss Thorpe in the second, before John Thorpe came
+brother driving Miss Thorpe in the second, before [[John Thorpe]] came
 
-running upstairs, calling out, “Well, Miss Morland, here I am. Have you
+running upstairs, calling out, “[[Well]], Miss Morland, here I am. Have you
 
 been waiting long? We could not come before; the old devil of a
 
-coachmaker was such an eternity finding out a thing fit to be got into,
+coachmaker was such an [[Eternity|eternity]] finding out a thing fit to be got into,
 
 and now it is ten thousand to one but they break down before we are out
 
-of the street. How do you do, Mrs. Allen? A famous ball last night, was
+of the street. How do you do, Mrs. Allen? A famous ball last [[Night|night]], was
 
 not it? Come, Miss Morland, be quick, for the others are in a
 
@@ -116,7 +116,7 @@ Mrs. Allen for her opinion; “but really I did not expect you.”
 
 
 
-“Not expect me! that’s a good one! and what a dust you would have made,
+“Not expect me! that’s a good one! and what a [[Dust|dust]] you would have made,
 
 if I had not come.”
 
@@ -128,15 +128,15 @@ away, for Mrs. Allen, not being at all in the habit of conveying any
 
 expression herself by a look, was not aware of its being ever intended
 
-by anybody else; and Catherine, whose desire of seeing Miss Tilney
+by anybody else; and Catherine, whose [[Desire|desire]] of seeing Miss Tilney
 
 again could at that moment bear a short delay in favour of a drive, and
 
 who thought there could be no impropriety in her going with Mr. Thorpe,
 
-as Isabella was going at the same time with James, was therefore
+as [[Isabella]] was going at the same [[Time|time]] with James, was therefore
 
-obliged to speak plainer. “Well, ma’am, what do you say to it? Can you
+obliged to speak plainer. “[[Well]], ma’am, what do you say to it? Can you
 
 spare me for an hour or two? Shall I go?”
 
@@ -148,19 +148,19 @@ placid indifference. Catherine took the advice, and ran off to get
 
 ready. In a very few minutes she reappeared, having scarcely allowed
 
-the two others time enough to get through a few short sentences in her
+the two others [[Time|time]] enough to get through a few short sentences in her
 
 praise, after Thorpe had procured Mrs. Allen’s admiration of his gig;
 
 and then receiving her friend’s parting good wishes, they both hurried
 
-downstairs. “My dearest creature,” cried Isabella, to whom the duty of
+downstairs. “My dearest creature,” cried [[Isabella]], to whom the duty of
 
-friendship immediately called her before she could get into the
+[[Friendship|friendship]] immediately called her before she could get into the
 
 carriage, “you have been at least three hours getting ready. I was
 
-afraid you were ill. What a delightful ball we had last night. I have a
+afraid you were ill. What a delightful ball we had last [[Night|night]]. I have a
 
 thousand things to say to you; but make haste and get in, for I long to
 
@@ -178,7 +178,7 @@ dote on her.”
 
 “You will not be frightened, Miss Morland,” said Thorpe, as he handed
 
-her in, “if my horse should dance about a little at first setting off.
+her in, “if my [[Horse|horse]] should [[Dance|dance]] about a little at first setting off.
 
 He will, most likely, give a plunge or two, and perhaps take the rest
 
@@ -198,7 +198,7 @@ knowledge of its owner, she sat peaceably down, and saw Thorpe sit down
 
 by her. Everything being then arranged, the servant who stood at the
 
-horse’s head was bid in an important voice “to let him go,” and off
+[[Horse|horse]]’s head was bid in an important voice “to let him go,” and off
 
 they went in the quietest manner imaginable, without a plunge or a
 
@@ -214,6 +214,6 @@ he had then held the reins, and the singular discernment and dexterity
 
 with which he had directed his whip. Catherine, though she could not
 
-help wondering that with such perfect command of his horse, he should
+help wondering that with such perfect command of his [[Horse|horse]], he should
 
 think it necessary to alarm her with a relation of its tricks,

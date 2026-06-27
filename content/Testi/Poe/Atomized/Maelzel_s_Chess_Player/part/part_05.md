@@ -1,5 +1,5 @@
 ---
-title: "Maelzel's Chess-Player (part 5)"
+title: "[[Maelzel's Chess-Player]] (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Maelzel's-Chess-Player-(Poe)"
@@ -30,21 +30,21 @@ tags:
 
       least the first attempt of which we ourselves have any knowledge,
 
-      was made in a large pamphlet printed at Paris in 1785. The
+      was made in a large pamphlet printed at [[Paris]] in 1785. The
 
-      author’s hypothesis amounted to this—that a dwarf actuated the
+      author’s hypothesis amounted to this—that a [[Dwarf|dwarf]] actuated the
 
-      machine. This dwarf he supposed to conceal himself during the
+      [[Machine|machine]]. This [[Dwarf|dwarf]] he supposed to conceal himself during the
 
       opening of the box by thrusting his legs into two hollow
 
       cylinders, which were represented to be (but which are not) among
 
-      the machinery in the cupboard No. I, while his body was out of
+      the machinery in the cupboard No. I, while his [[Body|body]] was out of
 
       the box entirely, and covered by the drapery of the Turk. When
 
-      the doors were shut, the dwarf was enabled to bring his body
+      the doors were shut, the [[Dwarf|dwarf]] was enabled to bring his [[Body|body]]
 
       within the box—the noise produced by some portion of the
 
@@ -56,7 +56,7 @@ tags:
 
       the author of this pamphlet, are satisfied that no one is within
 
-      any portion of the machine. This whole hypothesis was too
+      any portion of the [[Machine|machine]]. This whole hypothesis was too
 
       obviously absurd to require comment, or refutation, and
 
@@ -70,7 +70,7 @@ tags:
 
       Freyhere’s book was a pretty large one, and copiously illustrated
 
-      by colored engravings. His supposition was that “a well-taught
+      by colored engravings. His supposition was that “a [[Well|well]]-taught
 
       boy very thin and tall of his age (sufficiently so that he could
 
@@ -84,9 +84,9 @@ tags:
 
       and was in some measure believed to be the true solution of the
 
-      wonder, until the inventor put an end to the discussion by
+      [[Wonder|wonder]], until the inventor put an end to the discussion by
 
-      suffering a close examination of the top of the box.
+      [[Suffering|suffering]] a close examination of the top of the box.
 
 
 
@@ -98,29 +98,29 @@ tags:
 
       blunder upon a plausible solution—although we cannot consider it
 
-      altogether the true one. His Essay was first published in a
+      altogether the true one. His [[Essay]] was first published in a
 
       Baltimore weekly paper, was illustrated by cuts, and was entitled
 
       “An attempt to analyze the Automaton Chess-Player of M. Maelzel.”
 
-      This Essay we suppose to have been the original of the _pamphlet
+      This [[Essay]] we suppose to have been the original of the _pamphlet
 
       to _which Sir David Brewster alludes in his letters on Natural
 
-      Magic, and which he has no hesitation in declaring a thorough and
+      [[Magic]], and which he has no hesitation in declaring a thorough and
 
       satisfactory explanation. The _results _of the analysis are
 
       undoubtedly, in the main, just; but we can only account for
 
-      Brewster’s pronouncing the Essay a thorough and satisfactory
+      Brewster’s pronouncing the [[Essay]] a thorough and satisfactory
 
       explanation, by supposing him to have bestowed upon it a very
 
-      cursory and inattentive perusal. In the compendium of the Essay,
+      cursory and inattentive perusal. In the compendium of the [[Essay]],
 
-      made use of in the Letters on Natural Magic, it is quite
+      made use of in the Letters on Natural [[Magic]], it is quite
 
       impossible to arrive at any distinct conclusion in regard to the
 
@@ -138,19 +138,19 @@ tags:
 
       shifting the partitions _of the box, as to allow a human being,
 
-      concealed in the interior, to move portions of his body from one
+      concealed in the interior, to move portions of his [[Body|body]] from one
 
       part of the box to another, during the exhibition of the
 
       mechanism—thus eluding the scrutiny of the spectators. There can
 
-      be no doubt, as we have before observed, and as we will presently
+      be no [[Doubt|doubt]], as we have before observed, and as we will presently
 
       endeavor to show, that the principle, or rather the result, of
 
       this solution is the true one. Some person is concealed in the
 
-      box during the whole time of exhibiting the interior. We object,
+      box during the whole [[Time|time]] of exhibiting the interior. We object,
 
       however, to the whole verbose description of the _manner _in
 
@@ -174,7 +174,7 @@ tags:
 
       by which the same results may be obtained. The probability of the
 
-      one assumed proving the correct one is then as unity to infinity.
+      one assumed proving the correct one is then as [[unity]] to infinity.
 
       But, in reality, this particular point, the shifting of the
 
@@ -192,4 +192,4 @@ tags:
 
       pannel or the door, and the whole operations carried on, as the
 
-      author of the Essay himself shows, and as we shall attempt to
+      author of the [[Essay]] himself shows, and as we shall attempt to

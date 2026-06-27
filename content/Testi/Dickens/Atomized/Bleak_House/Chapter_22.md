@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 22"
+title: "Bleak [[house|House]] — Chapter 22"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,33 +19,33 @@ CHAPTER XXII
 Mr. Bucket
 
 
-Allegory looks pretty cool in Lincoln’s Inn Fields, though the
+[[Allegory]] looks pretty cool in [[Lincoln]]’s Inn Fields, though the
 evening is hot, for both Mr. Tulkinghorn’s windows are wide open, and
 the room is lofty, gusty, and gloomy. These may not be desirable
 characteristics when November comes with fog and sleet or January
-with ice and snow, but they have their merits in the sultry long
-vacation weather. They enable Allegory, though it has cheeks like
+with ice and [[Snow|snow]], but they have their merits in the sultry long
+vacation weather. They enable [[Allegory]], though it has cheeks like
 peaches, and knees like bunches of blossoms, and rosy swellings for
 calves to its legs and muscles to its arms, to look tolerably cool
-to-night.
+to-[[Night|night]].
 
-Plenty of dust comes in at Mr. Tulkinghorn’s windows, and plenty more
+Plenty of [[Dust|dust]] comes in at Mr. Tulkinghorn’s windows, and plenty more
 has generated among his furniture and papers. It lies thick
 everywhere. When a breeze from the country that has lost its way
 takes fright and makes a blind hurry to rush out again, it flings as
-much dust in the eyes of Allegory as the law—or Mr. Tulkinghorn, one
+much [[Dust|dust]] in the eyes of [[Allegory]] as the law—or Mr. Tulkinghorn, one
 of its trustiest representatives—may scatter, on occasion, in the
 eyes of the laity.
 
-In his lowering magazine of dust, the universal article into which
+In his lowering magazine of [[Dust|dust]], the universal article into which
 his papers and himself, and all his clients, and all things of earth,
 animate and inanimate, are resolving, Mr. Tulkinghorn sits at one of
 the open windows enjoying a bottle of old port. Though a hard-grained
 man, close, dry, and silent, he can enjoy old wine with the best. He
 has a priceless bin of port in some artful cellar under the Fields,
-which is one of his many secrets. When he dines alone in chambers, as
+which is one of his many [[Secrets|secrets]]. When he dines [[Alone|alone]] in chambers, as
 he has dined to-day, and has his bit of fish and his steak or chicken
-brought in from the coffee-house, he descends with a candle to the
+brought in from the coffee-[[house]], he descends with a candle to the
 echoing regions below the deserted mansion, and heralded by a remote
 reverberation of thundering doors, comes gravely back encircled by an
 earthy atmosphere and carrying a bottle from which he pours a radiant
@@ -53,22 +53,22 @@ nectar, two score and ten years old, that blushes in the glass to
 find itself so famous and fills the whole room with the fragrance of
 southern grapes.
 
-Mr. Tulkinghorn, sitting in the twilight by the open window, enjoys
-his wine. As if it whispered to him of its fifty years of silence and
+Mr. Tulkinghorn, sitting in the twilight by the open [[Window|window]], enjoys
+his wine. As if it whispered to him of its fifty years of [[Silence|silence]] and
 seclusion, it shuts him up the closer. More impenetrable than ever,
 he sits, and drinks, and mellows as it were in secrecy, pondering at
 that twilight hour on all the mysteries he knows, associated with
 darkening woods in the country, and vast blank shut-up houses in
 town, and perhaps sparing a thought or two for himself, and his
-family history, and his money, and his will—all a mystery to every
+family [[history]], and his money, and his will—all a mystery to every
 one—and that one bachelor friend of his, a man of the same mould and
 a lawyer too, who lived the same kind of life until he was
 seventy-five years old, and then suddenly conceiving (as it is
 supposed) an impression that it was too monotonous, gave his gold
-watch to his hair-dresser one summer evening and walked leisurely
-home to the Temple and hanged himself.
+watch to his hair-dresser one [[Summer|summer]] evening and walked leisurely
+[[Home|home]] to the Temple and hanged himself.
 
-But Mr. Tulkinghorn is not alone to-night to ponder at his usual
+But Mr. Tulkinghorn is not [[Alone|alone]] to-[[Night|night]] to ponder at his usual
 length. Seated at the same table, though with his chair modestly and
 uncomfortably drawn a little way from it, sits a bald, mild, shining
 man who coughs respectfully behind his hand when the lawyer bids him
@@ -80,7 +80,7 @@ again.”
 “If you please, sir.”
 
 “You told me when you were so good as to step round here last
-night—”
+[[Night|night]]—”
 
 “For which I must ask you to excuse me if it was a liberty, sir; but
 I remember that you had taken a sort of an interest in that person,
@@ -96,7 +96,7 @@ put on your hat and came round without mentioning your intention to
 your wife. That was prudent I think, because it’s not a matter of
 such importance that it requires to be mentioned.”
 
-“Well, sir,” returns Mr. Snagsby, “you see, my little woman is—not
+“[[Well]], sir,” returns Mr. Snagsby, “you see, my little woman is—not
 to put too fine a point upon it—inquisitive. She’s inquisitive. Poor
 little thing, she’s liable to spasms, and it’s good for her to have
 her mind employed. In consequence of which she employs it—I should
@@ -107,10 +107,10 @@ active mind, sir.”
 Mr. Snagsby drinks and murmurs with an admiring cough behind his
 hand, “Dear me, very fine wine indeed!”
 
-“Therefore you kept your visit to yourself last night?” says Mr.
-Tulkinghorn. “And to-night too?”
+“Therefore you kept your visit to yourself last [[Night|night]]?” says Mr.
+Tulkinghorn. “And to-[[Night|night]] too?”
 
-“Yes, sir, and to-night, too. My little woman is at present in—not
+“Yes, sir, and to-[[Night|night]], too. My little woman is at present in—not
 to put too fine a point on it—in a pious state, or in what she
 considers such, and attends the Evening Exertions (which is the name
 they go by) of a reverend party of the name of Chadband. He has a
@@ -139,7 +139,7 @@ smallclothes and leaning quietly back in his chair.
 “With pleasure, sir.”
 
 Then, with fidelity, though with some prolixity, the law-stationer
-repeats Jo’s statement made to the assembled guests at his house. On
+repeats Jo’s statement made to the assembled guests at his [[house]]. On
 coming to the end of his narrative, he gives a great start and breaks
 off with, “Dear me, sir, I wasn’t aware there was any other gentleman
 present!”
@@ -169,11 +169,11 @@ intelligent in such things. What do you say to this, Bucket?”
 
 “It’s very plain, sir. Since our people have moved this boy on, and
 he’s not to be found on his old lay, if Mr. Snagsby don’t object to
-go down with me to Tom-all-Alone’s and point him out, we can have him
-here in less than a couple of hours’ time. I can do it without Mr.
+go down with me to Tom-all-[[Alone]]’s and point him out, we can have him
+here in less than a couple of hours’ [[Time|time]]. I can do it without Mr.
 Snagsby, of course, but this is the shortest way.”
 
-“Mr. Bucket is a detective officer, Snagsby,” says the lawyer in
+“Mr. Bucket is a [[Detective|detective]] officer, Snagsby,” says the lawyer in
 explanation.
 
 “Is he indeed, sir?” says Mr. Snagsby with a strong tendency in his
@@ -184,7 +184,7 @@ place in question,” pursues the lawyer, “I shall feel obliged to you
 if you will do so.”
 
 In a moment’s hesitation on the part of Mr. Snagsby, Bucket dips down
-to the bottom of his mind.
+to the [[Bottom|bottom]] of his mind.
 
 “Don’t you be afraid of hurting the boy,” he says. “You won’t do
 that. It’s all right as far as the boy’s concerned. We shall only
@@ -194,7 +194,7 @@ job for him. I promise you, as a man, that you shall see the boy sent
 away all right. Don’t you be afraid of hurting him; you an’t going to
 do that.”
 
-“Very well, Mr. Tulkinghorn!” cries Mr. Snagsby cheerfully. And
+“Very [[Well|well]], Mr. Tulkinghorn!” cries Mr. Snagsby cheerfully. And
 reassured, “Since that’s the case—”
 
 “Yes! And lookee here, Mr. Snagsby,” resumes Bucket, taking him aside
@@ -217,7 +217,7 @@ Don’t you see? Quiet!”
 
 “I don’t mind telling YOU,” says Bucket with an engaging appearance
 of frankness, “that as far as I can understand it, there seems to be
-a doubt whether this dead person wasn’t entitled to a little
+a [[Doubt|doubt]] whether this dead person wasn’t entitled to a little
 property, and whether this female hasn’t been up to some games
 respecting that property, don’t you see?”
 
@@ -230,16 +230,16 @@ want.”
 
 “To be sure,” returns Mr. Snagsby with a nod.
 
-“On account of which, and at the same time to oblige a—do you call
+“On account of which, and at the same [[Time|time]] to oblige a—do you call
 it, in your business, customer or client? I forget how my uncle used
 to call it.”
 
 “Why, I generally say customer myself,” replies Mr. Snagsby.
 
 “You’re right!” returns Mr. Bucket, shaking hands with him quite
-affectionately. “—On account of which, and at the same time to
+affectionately. “—On account of which, and at the same [[Time|time]] to
 oblige a real good customer, you mean to go down with me, in
-confidence, to Tom-all-Alone’s and to keep the whole thing quiet ever
+confidence, to Tom-all-[[Alone]]’s and to keep the whole thing quiet ever
 afterwards and never mention it to any one. That’s about your
 intentions, if I understand you?”
 
@@ -282,16 +282,16 @@ notices things in general, with a face as unchanging as the great
 mourning ring on his little finger or the brooch, composed of not
 much diamond and a good deal of setting, which he wears in his shirt.
 
-When they come at last to Tom-all-Alone’s, Mr. Bucket stops for a
+When they come at last to Tom-all-[[Alone]]’s, Mr. Bucket stops for a
 moment at the corner and takes a lighted bull’s-eye from the
 constable on duty there, who then accompanies him with his own
 particular bull’s-eye at his waist. Between his two conductors, Mr.
 Snagsby passes along the middle of a villainous street, undrained,
-unventilated, deep in black mud and corrupt water—though the roads
+unventilated, deep in black mud and corrupt [[Water|water]]—though the roads
 are dry elsewhere—and reeking with such smells and sights that he,
-who has lived in London all his life, can scarce believe his senses.
+who has lived in [[London]] all his life, can scarce believe his senses.
 Branching from this street and its heaps of ruins are other streets
-and courts so infamous that Mr. Snagsby sickens in body and mind and
+and courts so infamous that Mr. Snagsby sickens in [[Body|body]] and mind and
 feels as if he were going every moment deeper down into the infernal
 gulf.
 
@@ -300,7 +300,7 @@ palanquin is borne towards them, surrounded by a noisy crowd. “Here’s
 the fever coming up the street!”
 
 As the unseen wretch goes by, the crowd, leaving that object of
-attraction, hovers round the three visitors like a dream of horrible
+attraction, hovers round the three visitors like [[A Dream|a dream]] of horrible
 faces and fades away up alleys and into ruins and behind walls, and
 with occasional cries and shrill whistles of warning, thenceforth
 flits about them until they leave the place.
@@ -316,7 +316,7 @@ poorly, Mr. Snagsby answers that he feels as if he couldn’t breathe
 the dreadful air.
 
 There is inquiry made at various houses for a boy named Jo. As few
-people are known in Tom-all-Alone’s by any Christian sign, there is
+people are known in Tom-all-[[Alone]]’s by any Christian sign, there is
 much reference to Mr. Snagsby whether he means Carrots, or the
 Colonel, or Gallows, or Young Chisel, or Terrier Tip, or Lanky, or
 the Brick. Mr. Snagsby describes over and over again. There are
@@ -330,15 +330,15 @@ about them up the alleys, and in the ruins, and behind the walls, as
 before.
 
 At last there is a lair found out where Toughy, or the Tough Subject,
-lays him down at night; and it is thought that the Tough Subject may
+lays him down at [[Night|night]]; and it is thought that the Tough Subject may
 be Jo. Comparison of notes between Mr. Snagsby and the proprietress
-of the house—a drunken face tied up in a black bundle, and flaring
+of the [[house]]—a drunken face tied up in a black bundle, and flaring
 out of a heap of rags on the floor of a dog-hutch which is her
 private apartment—leads to the establishment of this conclusion.
 Toughy has gone to the doctor’s to get a bottle of stuff for a sick
 woman but will be here anon.
 
-“And who have we got here to-night?” says Mr. Bucket, opening another
+“And who have we got here to-[[Night|night]]?” says Mr. Bucket, opening another
 door and glaring in with his bull’s-eye. “Two drunken men, eh? And
 two women? The men are sound enough,” turning back each sleeper’s arm
 from his face to look at him. “Are these your good men, my dears?”
@@ -349,7 +349,7 @@ from his face to look at him. “Are these your good men, my dears?”
 
 “Yes, sir.”
 
-“What are you doing here? You don’t belong to London.”
+“What are you doing here? You don’t belong to [[London]].”
 
 “No, sir. We belong to Hertfordshire.”
 
@@ -366,7 +366,7 @@ we have done no good by coming here, and shall do none, I expect.”
 head in the direction of the unconscious figures on the ground.
 
 “It an’t indeed,” replies the woman with a sigh. “Jenny and me knows
-it full well.”
+it full [[Well|well]].”
 
 The room, though two or three feet higher than the door, is so low
 that the head of the tallest of the visitors would touch the
@@ -375,7 +375,7 @@ sense; even the gross candle burns pale and sickly in the polluted
 air. There are a couple of benches and a higher bench by way of
 table. The men lie asleep where they stumbled down, but the women sit
 by the candle. Lying in the arms of the woman who has spoken is a
-very young child.
+very young [[Child|child]].
 
 “Why, what age do you call that little creature?” says Bucket. “It
 looks as if it was born yesterday.” He is not at all rough about it;
@@ -385,7 +385,7 @@ has seen in pictures.
 
 “He is not three weeks old yet, sir,” says the woman.
 
-“Is he your child?”
+“Is he your [[Child|child]]?”
 
 “Mine.”
 
@@ -400,39 +400,39 @@ Bucket.
 “Ah, Jenny, Jenny!” says the other woman to her. “Better so. Much
 better to think of dead than alive, Jenny! Much better!”
 
-“Why, you an’t such an unnatural woman, I hope,” returns Bucket
-sternly, “as to wish your own child dead?”
+“Why, you an’t such an unnatural woman, I [[Hope|hope]],” returns Bucket
+sternly, “as to wish your own [[Child|child]] dead?”
 
 “God knows you are right, master,” she returns. “I am not. I’d stand
-between it and death with my own life if I could, as true as any
+between it and [[Death|death]] with my own life if I could, as true as any
 pretty lady.”
 
 “Then don’t talk in that wrong manner,” says Mr. Bucket, mollified
 again. “Why do you do it?”
 
 “It’s brought into my head, master,” returns the woman, her eyes
-filling with tears, “when I look down at the child lying so. If it
+filling with [[Tears|tears]], “when I look down at the [[Child|child]] lying so. If it
 was never to wake no more, you’d think me mad, I should take on so. I
-know that very well. I was with Jenny when she lost hers—warn’t I,
+know that very [[Well|well]]. I was with Jenny when she lost hers—warn’t I,
 Jenny?—and I know how she grieved. But look around you at this
 place. Look at them,” glancing at the sleepers on the ground. “Look
 at the boy you’re waiting for, who’s gone out to do me a good turn.
 Think of the children that your business lays with often and often,
 and that YOU see grow up!”
 
-“Well, well,” says Mr. Bucket, “you train him respectable, and he’ll
+“[[Well]], [[Well|well]],” says Mr. Bucket, “you train him respectable, and he’ll
 be a comfort to you, and look after you in your old age, you know.”
 
 “I mean to try hard,” she answers, wiping her eyes. “But I have been
-a-thinking, being over-tired to-night and not well with the ague, of
+a-thinking, being over-tired to-[[Night|night]] and not [[Well|well]] with the ague, of
 all the many things that’ll come in his way. My master will be
-against it, and he’ll be beat, and see me beat, and made to fear his
-home, and perhaps to stray wild. If I work for him ever so much, and
+against it, and he’ll be beat, and see me beat, and made to [[Fear|fear]] his
+[[Home|home]], and perhaps to stray wild. If I work for him ever so much, and
 ever so hard, there’s no one to help me; and if he should be turned
-bad ‘spite of all I could do, and the time should come when I should
-sit by him in his sleep, made hard and changed, an’t it likely I
+bad ‘spite of all I could do, and the [[Time|time]] should come when I should
+sit by him in his [[Sleep|sleep]], made hard and changed, an’t it likely I
 should think of him as he lies in my lap now and wish he had died as
-Jenny’s child died!”
+Jenny’s [[Child|child]] died!”
 
 “There, there!” says Jenny. “Liz, you’re tired and ill. Let me take
 him.”
@@ -440,9 +440,9 @@ him.”
 In doing so, she displaces the mother’s dress, but quickly readjusts
 it over the wounded and bruised bosom where the baby has been lying.
 
-“It’s my dead child,” says Jenny, walking up and down as she nurses,
-“that makes me love this child so dear, and it’s my dead child that
-makes her love it so dear too, as even to think of its being taken
+“It’s my dead [[Child|child]],” says Jenny, walking up and down as she nurses,
+“that makes me [[Love|love]] this [[Child|child]] so dear, and it’s my dead [[Child|child]] that
+makes her [[Love|love]] it so dear too, as even to think of its being taken
 away from her now. While she thinks that, I think what fortune would
 I give to have my darling back. But we mean the same thing, if we
 knew how to say it, us two mothers does in our poor hearts!”
@@ -455,7 +455,7 @@ do?”
 “That’s Jo,” says Mr. Snagsby.
 
 Jo stands amazed in the disk of light, like a ragged figure in a
-magic-lantern, trembling to think that he has offended against the
+[[Magic|magic]]-lantern, trembling to think that he has offended against the
 law in not having moved on far enough. Mr. Snagsby, however, giving
 him the consolatory assurance, “It’s only a job you will be paid for,
 Jo,” he recovers; and on being taken outside by Mr. Bucket for a
@@ -465,16 +465,16 @@ out of breath.
 “I have squared it with the lad,” says Mr. Bucket, returning, “and
 it’s all right. Now, Mr. Snagsby, we’re ready for you.”
 
-First, Jo has to complete his errand of good nature by handing over
+First, Jo has to complete his errand of good [[Nature|nature]] by handing over
 the physic he has been to get, which he delivers with the laconic
 verbal direction that “it’s to be all took d’rectly.” Secondly, Mr.
-Snagsby has to lay upon the table half a crown, his usual panacea for
+Snagsby has to lay upon the table half a [[Crown|crown]], his usual panacea for
 an immense variety of afflictions. Thirdly, Mr. Bucket has to take Jo
 by the arm a little above the elbow and walk him on before him,
 without which observance neither the Tough Subject nor any other
-Subject could be professionally conducted to Lincoln’s Inn Fields.
-These arrangements completed, they give the women good night and come
-out once more into black and foul Tom-all-Alone’s.
+Subject could be professionally conducted to [[Lincoln]]’s Inn Fields.
+These arrangements completed, they give the women good [[Night|night]] and come
+out once more into black and foul Tom-all-[[Alone]]’s.
 
 By the noisome ways through which they descended into that pit, they
 gradually emerge from it, the crowd flitting, and whistling, and
@@ -488,13 +488,13 @@ Tulkinghorn’s gate.
 As they ascend the dim stairs (Mr. Tulkinghorn’s chambers being on
 the first floor), Mr. Bucket mentions that he has the key of the
 outer door in his pocket and that there is no need to ring. For a man
-so expert in most things of that kind, Bucket takes time to open the
+so expert in most things of that kind, Bucket takes [[Time|time]] to open the
 door and makes some noise too. It may be that he sounds a note of
 preparation.
 
 Howbeit, they come at last into the hall, where a lamp is burning,
 and so into Mr. Tulkinghorn’s usual room—the room where he drank his
-old wine to-night. He is not there, but his two old-fashioned
+old wine to-[[Night|night]]. He is not there, but his two old-fashioned
 candlesticks are, and the room is tolerably light.
 
 Mr. Bucket, still having his professional hold of Jo and appearing to
@@ -540,7 +540,7 @@ Jo shakes his head. “Not rings a bit like them. Not a hand like
 that.”
 
 “What are you talking of?” says Bucket, evidently pleased though, and
-well pleased too.
+[[Well|well]] pleased too.
 
 “Hand was a deal whiter, a deal delicater, and a deal smaller,”
 returns Jo.
@@ -566,14 +566,14 @@ rings, nor yet her woice. But that there’s the wale, the bonnet, and
 the gownd, and they’re wore the same way wot she wore ’em, and it’s
 her height wot she wos, and she giv me a sov’ring and hooked it.”
 
-“Well!” says Mr. Bucket slightly, “we haven’t got much good out of
+“[[Well]]!” says Mr. Bucket slightly, “we haven’t got much good out of
 YOU. But, however, here’s five shillings for you. Take care how you
 spend it, and don’t get yourself into trouble.” Bucket stealthily
 tells the coins from one hand into the other like counters—which is
 a way he has, his principal use of them being in these games of
 skill—and then puts them, in a little pile, into the boy’s hand and
 takes him out to the door, leaving Mr. Snagsby, not by any means
-comfortable under these mysterious circumstances, alone with the
+comfortable under these mysterious circumstances, [[Alone|alone]] with the
 veiled figure. But on Mr. Tulkinghorn’s coming into the room, the
 veil is raised and a sufficiently good-looking Frenchwoman is
 revealed, though her expression is something of the intensest.
@@ -598,17 +598,17 @@ recommendation?”
 
 “Receive the assurance of my devoted gratitude, dear sir.”
 
-“Good night.”
+“Good [[Night|night]].”
 
 Mademoiselle goes out with an air of native gentility; and Mr.
 Bucket, to whom it is, on an emergency, as natural to be groom of the
 ceremonies as it is to be anything else, shows her downstairs, not
 without gallantry.
 
-“Well, Bucket?” quoth Mr. Tulkinghorn on his return.
+“[[Well]], Bucket?” quoth Mr. Tulkinghorn on his return.
 
 “It’s all squared, you see, as I squared it myself, sir. There an’t a
-doubt that it was the other one with this one’s dress on. The boy was
+[[Doubt|doubt]] that it was the other one with this one’s dress on. The boy was
 exact respecting colours and everything. Mr. Snagsby, I promised you
 as a man that he should be sent away all right. Don’t say it wasn’t
 done!”
@@ -620,7 +620,7 @@ will be getting anxious—”
 “Thank you, Snagsby, no further use,” says Mr. Tulkinghorn. “I am
 quite indebted to you for the trouble you have taken already.”
 
-“Not at all, sir. I wish you good night.”
+“Not at all, sir. I wish you good [[Night|night]].”
 
 “You see, Mr. Snagsby,” says Mr. Bucket, accompanying him to the door
 and shaking hands with him over and over again, “what I like in you
@@ -638,10 +638,10 @@ in your way of business.”
 Mr. Snagsby makes a suitable response and goes homeward so confused
 by the events of the evening that he is doubtful of his being awake
 and out—doubtful of the reality of the streets through which he
-goes—doubtful of the reality of the moon that shines above him. He
+goes—doubtful of the reality of the [[Moon|moon]] that shines above him. He
 is presently reassured on these subjects by the unchallengeable
 reality of Mrs. Snagsby, sitting up with her head in a perfect
-beehive of curl-papers and night-cap, who has dispatched Guster to
+beehive of curl-papers and [[Night|night]]-cap, who has dispatched Guster to
 the police-station with official intelligence of her husband’s being
 made away with, and who within the last two hours has passed through
 every stage of swooning with the greatest decorum. But as the little

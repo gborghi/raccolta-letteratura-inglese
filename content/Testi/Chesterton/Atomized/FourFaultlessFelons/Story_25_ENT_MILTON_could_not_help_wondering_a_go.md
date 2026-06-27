@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — ENT MILTON could not help wondering a good deal, especially when"
+title: "[[FourFaultlessFelons]] — ENT [[Milton|MILTON]] could not help wondering a good deal, especially when"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-MILLICENT MILTON could not help wondering a good deal, especially when
+MILLICENT [[Milton|MILTON]] could not help wondering a good deal, especially when
 
-walking about the garden in her off hours, whether she would ever see the
+walking about the [[Garden|garden]] in her off hours, whether she would ever see the
 
 burglar again. In the ordinary way, it would seem improbable. But then,
 
@@ -32,7 +32,7 @@ asked questions of the other two brothers, but could get very little
 
 light on the situation. The acquisitive Alan had mockingly advised them
 
-to examine the house for the traces of his depredations. But he must have
+to examine the [[house]] for the traces of his depredations. But he must have
 
 conducted them with great secrecy and selection, for nobody seemed sure
 
@@ -42,25 +42,25 @@ that she could not solve, and could not see any particular probability
 
 that she ever would solve, when she looked up idly and saw him standing
 
-quite calmly on the top of the garden wall and looking down into the
+quite calmly on the top of the [[Garden|garden]] wall and looking down into the
 
-garden. The wind plucked the plumes of his dark hair one by one and
+[[Garden|garden]]. The [[Wind|wind]] plucked the plumes of his dark hair one by one and
 
-turned them over as he was turning the leaves of the tree nearest his
+turned them over as he was turning the [[Leaves|leaves]] of the tree nearest his
 
 perch.
 
 
 
-"Another way to burgle a house," he said, in a clear distant voice like a
+"Another way to burgle a [[house]]," he said, in a clear distant voice like a
 
-popular lecturer, "is to get over the garden wall. It sounds simple, but
+popular lecturer, "is to get over the [[Garden|garden]] wall. It sounds simple, but
 
 stealing things is generally simple. Only, in this case, I can't quite
 
 make up my mind what to steal. I think," he added calmly, "that I shall
 
-begin by stealing a little of your time. But don't be alarmed, in any
+begin by stealing a little of your [[Time|time]]. But don't be alarmed, in any
 
 secretarial sense. I assure you I have an appointment."
 
@@ -84,9 +84,9 @@ with you."
 
 
 
-She said nothing but gazed at the distant line of rather grotesque
+She said nothing but gazed at the distant line of rather [[Grotesque|grotesque]]
 
-palm-trees planted as a frontier in the garden and felt returning upon
+palm-trees planted as a frontier in the [[Garden|garden]] and felt returning upon
 
 her that irrational sense that this place had always been rather
 
@@ -126,15 +126,15 @@ with a touch of experimental irony.
 
 the story, even if they did hear it." Then after a brief reflective
 
-silence he said: "You see, my story is too simple to be understood. Too
+[[Silence|silence]] he said: "You see, my story is too simple to be understood. Too
 
-simple to be believed. It sounds exactly like a parable; that is, it
+simple to be believed. It sounds exactly like a [[Parable|parable]]; that is, it
 
-sounds like a fable and not a fact. There's my brother Norman now-he's a
+sounds like a [[Fable|fable]] and not a fact. There's my brother Norman now-he's a
 
 sincere man and very serious. He reads the parables in the New Testament
 
-every Sunday. But he could hardly believe in anything so simple as one of
+every [[Sunday]]. But he could hardly believe in anything so simple as one of
 
 those parables, if it happened in real life."
 
@@ -184,7 +184,7 @@ She began to feel a little bewildered. "Was what?" she asked.
 
 "There was me," said Alan. "You can't believe this story because there's
 
-a desert island in it. It's like telling a story with a dragon in it. All
+a [[Desert|desert]] island in it. It's like telling a story with a dragon in it. All
 
 the same, there's a moral to the dragon."
 
@@ -192,13 +192,13 @@ the same, there's a moral to the dragon."
 
 "Do you mean," she asked, growing rather impatient, "that you have been
 
-on a desert island?"
+on a [[Desert|desert]] island?"
 
 
 
 "Yes, and on one or two other odd things. But the extraordinary thing was
 
-that everything was all right till I came to an inhabited island. Well, I
+that everything was all right till I came to an inhabited island. [[Well]], I
 
 spent several years, to start with, in a pretty uninhabited part of a
 
@@ -210,19 +210,19 @@ till a run of bad luck forced me to crawl as best I could back to the
 
 towns. I was going to say back to civilization, but that sounds odd, if
 
-you know the towns. By the final stroke of luck my transport animals fell
+you know the towns. By the final stroke of luck my transport [[Animals|animals]] fell
 
 sick and died in a wilderness and I was left as if I had been on the
 
-other side of the moon. Nobody in these historical countries, of course,
+other side of the [[Moon|moon]]. Nobody in these historical countries, of course,
 
 has an idea of what the earth is like, or how a great lot of it might
 
-just as well be the moon. There seemed no more chance of getting across
+just as [[Well|well]] be the [[Moon|moon]]. There seemed no more chance of getting across
 
 those infinities of futile soil patched with wattle, than of persuading a
 
-comet that had knocked you into space to take you back home again. I
+comet that had knocked you into space to take you back [[Home|home]] again. I
 
 trudged along quite senselessly, till I saw something like a tall blue
 
@@ -230,15 +230,15 @@ bush that wasn't one of the monotonous mass of blue-grey bushes, and I
 
 saw it was smoke. It's a good proverb, by God, that where there's smoke
 
-there's fire. It's a greater proverb, and one too near to God to be
+there's [[Fire|fire]]. It's a greater proverb, and one too near to God to be
 
-written often, that where there's fire there's man, and nobody knows
+written often, that where there's [[Fire|fire]] there's man, and nobody knows
 
 which is the greater miracle.
 
 
 
-"Well, I found somebody; he wasn't anybody in particular; I dare say you
+"[[Well]], I found somebody; he wasn't anybody in particular; I dare say you
 
 would have found all sorts of deficiencies in him if he'd been in the
 
@@ -246,7 +246,7 @@ village or the club. But he was a magician all right; to me he had powers
 
 not given to beast or bird or tree, and he gave me some cooked food and
 
-set me on the right road to a settlement. At the settlement, a little
+set me on the right [[Road|road]] to a settlement. At the settlement, a little
 
 outpost in the wilds, it was the same. They didn't do much for me; they
 
@@ -258,9 +258,9 @@ and managed to make a bargain to work my passage with the master of a
 
 small craft. He wasn't a particularly nice man and I wasn't particularly
 
-comfortable, but it was not suicide but a sea-wave that swept me off
+comfortable, but it was not [[suicide]] but a sea-wave that swept me off
 
-suddenly one night, early enough to be seen and raise the cry of 'Man
+suddenly one [[Night|night]], early enough to be seen and raise the cry of 'Man
 
 overboard!' That nasty little boat, with its still more nasty little
 
@@ -270,9 +270,9 @@ couldn't be done, and I was eventually picked up by a sort of native
 
 canoe, rowed by a sort of half-native lunatic who really and truly lived
 
-on a desert island. I hailed him as I had just been vainly hailing the
+on a [[Desert|desert]] island. I hailed him as I had just been vainly hailing the
 
-ship, and he gave me brandy and shelter and the rest of it, as a matter
+[[Ship|ship]], and he gave me brandy and shelter and the rest of it, as a matter
 
 of course. He was quite a character, a white man, or whitish man, who had
 
@@ -282,27 +282,27 @@ god of his own he had made out of an old umbrella. But he didn't think it
 
 odd that I should ask him for help, and in his own way he gave it. Then
 
-came the day when we sighted a ship, very far out, but passing the
+came the day when we sighted a [[Ship|ship]], very far out, but passing the
 
 island, and I hailed and hailed and waved long sheets and towels and lit
 
-flares and all the rest. And eventually the ship did alter her course and
+flares and all the rest. And eventually the [[Ship|ship]] did alter her course and
 
 touched at the island to take us off; everybody was pretty dry and
 
-official, but they did it as a regular matter of duty. And all this time,
+official, but they did it as a regular matter of duty. And all this [[Time|time]],
 
 and especially on that last stretch of homeward voyage, I was singing to
 
-myself a song as old as the world: Coelum non animam-"By the waters of
+myself a [[Song|song]] as old as the world: Coelum non animam-"By the waters of
 
-Babylon"-or, in other words, of all things the worst is exile, and it
+Babylon"-or, in other words, of all things the worst is [[Exile|exile]], and it
 
-will be well with a man in his own home. After all my wild hairbreadth
+will be [[Well|well]] with a man in his own [[Home|home]]. After all my wild hairbreadth
 
 escapes I stepped on to the dock in Liverpool, as a schoolboy enters his
 
-father's house on the first day of the Christmas holidays. I had
+father's [[house]] on the first day of the Christmas holidays. I had
 
 forgotten that I had practically no money, and I asked a man to give or
 
@@ -312,7 +312,7 @@ as a criminal by sleeping in jail.
 
 
 
-"Now I suppose you see the point of the economic parable. I had been in
+"Now I suppose you see the point of the economic [[Parable|parable]]. I had been in
 
 the ends of the earth, and among the scum of the earth; I had been among
 
@@ -324,25 +324,25 @@ passing travellers and doubtless been heartily cursed for doing so. But
 
 nobody ever thought it odd that I should ask for the help. Nobody
 
-certainly thought it criminal that I should shriek at a ship when I was
+certainly thought it criminal that I should shriek at a [[Ship|ship]] when I was
 
-drowning, or crawl towards a camp-fire when I was dying. In all those
+drowning, or crawl towards a camp-[[Fire|fire]] when I was dying. In all those
 
 wild seas and waste places people did assume that they had to rescue the
 
 drowning and the dying. I was never actually punished for being in want
 
-till I came to a civilized city. I was never called a criminal for asking
+till I came to a civilized [[City|city]]. I was never called a criminal for asking
 
-for sympathy, till I returned to my own home.
+for sympathy, till I returned to my own [[Home|home]].
 
 
 
-"Well, if you have understood that parable of the New Prodigal Son, you
+"[[Well]], if you have understood that [[Parable|parable]] of the New Prodigal Son, you
 
 may possibly understand why he thinks he found the Swine when he came
 
-home; a lot more Swine than Fatted Calves. The rest of the story
+[[Home|home]]; a lot more Swine than Fatted Calves. The rest of the story
 
 consisted largely of assaults on the police, breaking and entering
 
@@ -364,15 +364,15 @@ happens inside people like me; and it's because I rather want you to
 
 understand it, before they begin jabbering, that I've told you what I
 
-call the parable of the exile. Always remember that as long as he was
+call the [[Parable|parable]] of the [[Exile|exile]]. Always remember that as long as he was
 
 among strangers, not to say scoundrels, he had a chance."
 
 
 
-They had been sitting on a garden seat during the conversation and
+They had been sitting on a [[Garden|garden]] seat during the conversation and
 
-Millicent rose from it, as she saw the black-clad group of the father and
+Millicent [[Rose|rose]] from it, as she saw the black-clad group of the father and
 
 brothers approaching across the lawn.
 
@@ -382,7 +382,7 @@ Alan Nadoway remained seated with somewhat ostentatious languor, and its
 
 significance was sharpened when she realized that old Jacob Nadoway was
 
-walking well ahead of the others and that his brows were black as a
+walking [[Well|well]] ahead of the others and that his brows were black as a
 
 thunderstorm in the sunshine. It was instantly apparent that something
 
@@ -404,11 +404,11 @@ of it, is a rather curious word. And what is the other?"
 
 
 
-"Mrs. Mowbray," said the father sternly, "went over yesterday to visit
+"Mrs. [[Mowbray]]," said the father sternly, "went over yesterday to visit
 
 her friend, Lady Crayle. She was naturally disturbed about what had
 
-happened in our own house, and it seems that something happened about an
+happened in our own [[house]], and it seems that something happened about an
 
 hour earlier at the Crayles."
 
@@ -434,7 +434,7 @@ conventionally shocked. "Unfortunately for whom?"
 
 
 
-"Unfortunately for you," said his father. There was a painful silence and
+"Unfortunately for you," said his father. There was a painful [[Silence|silence]] and
 
 John Nadoway broke into it in his blundering but unconquerably
 
@@ -446,11 +446,11 @@ good-humoured way.
 
 of games have got to stop. We could pass it off as a practical joke of a
 
-sort, when you did it to us, but even then you frightened Miss Milton,
+sort, when you did it to us, but even then you frightened Miss [[Milton]],
 
-and Mrs. Mowbray is all up in the air. But how the devil are we to keep
+and Mrs. [[Mowbray]] is all up in the air. But how the devil are we to keep
 
-you out of the police-court if you break into the neighbours' houses and
+you out of the police-[[Court|court]] if you break into the neighbours' houses and
 
 leave your cigar-case with a card inside?"
 
@@ -506,13 +506,13 @@ the police? But, by God, you can't be both."
 
 
 
-Alan's eyes roamed round the family house and garden and rested for a
+Alan's eyes roamed round the family [[house]] and [[Garden|garden]] and rested for a
 
 moment on Millicent, with a certain expression of pathos. Then he sat
 
-down on the garden seat again, with his elbows on his knees and buried
+down on the [[Garden|garden]] seat again, with his elbows on his knees and buried
 
-his head in his hands as if he were wrestling in prayer, or at least in
+his head in his hands as if he were wrestling in [[prayer]], or at least in
 
 perplexity of spirit. The three other men stood watching him with an
 
@@ -528,13 +528,13 @@ expression.
 
 
 
-"Well," said old Jacob, not without a new note of appeal, "won't you give
+"[[Well]]," said old Jacob, not without a new note of appeal, "won't you give
 
 up all this blackguard burglary business?"
 
 
 
-Alan Nadoway rose. "Yes, father," he said gravely. "Now I come to look at
+Alan Nadoway [[Rose|rose]]. "Yes, father," he said gravely. "Now I come to look at
 
 it seriously, I see you have a right to my promise. I will give up the
 
@@ -544,7 +544,7 @@ burglary business."
 
 "Thank God for that," said his brother Norman, his hard delicate voice
 
-shaken for the first time. "I'm not going to moralize now, but you'll
+shaken for the first [[Time|time]]. "I'm not going to moralize now, but you'll
 
 find there is one thing about any other job you get; it will be one in
 
@@ -554,9 +554,9 @@ which a man need not hide."
 
 "After all, it's a rotten job, burglary," said John with his jerky
 
-attempt at joviality and general reconciliation. "Must be a perfect
+attempt at joviality and general [[Reconciliation|reconciliation]]. "Must be a perfect
 
-nightmare always getting into the wrong house at the wrong end, something
+[[nightmare]] always getting into the wrong [[house]] at the wrong end, something
 
 like putting on your trousers upside down. It'll pay you better really,
 
@@ -570,7 +570,7 @@ sort of hampering complication about the life; learning the whereabouts
 
 of treasures and so on. No, I am going to turn over a new leaf. I am
 
-going to reform and go into a different line of life altogether. A
+going to [[Reform|reform]] and go into a different line of life altogether. A
 
 simpler, more straightforward line. I am told that picking pockets is
 
@@ -586,7 +586,7 @@ faces were turned towards him with an incredulous stare.
 
 "A friend of mine down Lambeth way," said Alan, "does most frightfully
 
-well with people coming out of tube stations and so on. Of course,
+[[Well|well]] with people coming out of tube stations and so on. Of course,
 
 they're much poorer than the people who own all these safes and jewels
 
@@ -600,11 +600,11 @@ awfully nifty with his fingers. I reckon I can learn the knack."
 
 
 
-There was a startled silence and then Norman said in a controlled voice:
+There was a startled [[Silence|silence]] and then Norman said in a controlled voice:
 
 "It would be of some importance to me to know that this is a joke. I will
 
-risk my reputation for humour."
+risk my reputation for [[Humour|humour]]."
 
 
 
@@ -618,21 +618,21 @@ offer me."
 
 "Then you can follow it to jail!" said the old man, and his voice rang
 
-out in the garden like a gun announcing sunset. "Clear out of this place
+out in the [[Garden|garden]] like a gun announcing sunset. "Clear out of this place
 
-in three minutes and I will not call the policeman down the road."
+in three minutes and I will not call the policeman down the [[Road|road]]."
 
 
 
 And with that he turned his back and strode away followed by his other
 
-sons, and Alan remained standing alone by the garden seat, and he might
+sons, and Alan remained standing [[Alone|alone]] by the [[Garden|garden]] seat, and he might
 
-have been a statue in the garden.
+have been a statue in the [[Garden|garden]].
 
 
 
-The garden indeed had grown more still, and in a manner grey and
+The [[Garden|garden]] indeed had grown more still, and in a manner grey and
 
 statuesque, with the creeping advance of twilight, and something of its
 
@@ -640,23 +640,23 @@ too florid character was veiled by dusk and damp vapours beginning to
 
 rise from the surrounding meadows, though overhead the sky was clear and
 
-beginning to show the points of stars in the general greyness. The points
+beginning to show the points of [[Stars|stars]] in the general greyness. The points
 
 brightened and the dusk sank deeper and deeper, and it did not seem for
 
-the moment that the two human statues left in the garden would move. Then
+the moment that the two human statues left in the [[Garden|garden]] would move. Then
 
 the woman moved very swiftly, walking straight across the lawn to where
 
-the man stood by the garden seat, and in that greater gravity and
+the man stood by the [[Garden|garden]] seat, and in that greater gravity and
 
 stillness he became conscious of the last incongruity. Her face, which
 
-was commonly very grave, was puckered with derision, like that of an elf.
+was commonly very [[Grave|grave]], was puckered with derision, like that of an elf.
 
 
 
-"Well," she said, "you've done it now."
+"[[Well]]," she said, "you've done it now."
 
 
 
@@ -696,23 +696,23 @@ last finishing touch that spoils a work of art."
 
 
 
-"Well, won't you tell me?" she inquired with a certain brightness.
+"[[Well]], won't you tell me?" she inquired with a certain brightness.
 
 
 
-After a strained silence he said with a curious intonation, "I would do
+After a strained [[Silence|silence]] he said with a curious intonation, "I would do
 
 anything for you."
 
 
 
-"Well," she answered, "everybody knows that the curse of my sex is
+"[[Well]]," she answered, "everybody knows that the curse of my sex is
 
 curiosity."
 
 
 
-He buried his head in his hands and after a silence said with a great
+He buried his head in his hands and after a [[Silence|silence]] said with a great
 
 groan: "Amor Vincit Omnia."
 
@@ -722,4 +722,4 @@ A moment or two later he lifted his head again and began to talk, and her
 
 eyes grew starry with astonishment as she stood and listened under the
 
-stars.
+[[Stars|stars]].

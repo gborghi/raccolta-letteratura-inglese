@@ -23,9 +23,9 @@ tags:
 | WOOER | A hundred times. |
 | JAILER’S DAUGHTER | And twenty. |
 | WOOER | Ay, and twenty. no |
-| JAILER’S DAUGHTER | And then we’ll sleep together. |
+| JAILER’S DAUGHTER | And then we’ll [[Sleep|sleep]] together. |
 | DOCTOR | (to the Wooer) Take her offer. |
 | WOOER | (to the Jailer’s Daughter) Yes, marry, will we. |
 | JAILER’S DAUGHTER | But you shall not hurt me. |
 | WOOER | I will not, sweet. |
-| JAILER’S DAUGHTER | If you do, love, I’ll cry. Exeunt |
+| JAILER’S DAUGHTER | If you do, [[Love|love]], I’ll cry. Exeunt |

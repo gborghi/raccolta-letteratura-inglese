@@ -17,11 +17,11 @@ tags:
 Said Mrs Podsnap then to Mr Podsnap, ‘Which will enable us to clear off
 all those people who are due.’
 
-So it came to pass that Mr and Mrs Podsnap requested the honour of the
+So it came to pass that Mr and Mrs Podsnap requested the [[Honour|honour]] of the
 company of seventeen friends of their souls at dinner; and that they
 substituted other friends of their souls for such of the seventeen
 original friends of their souls as deeply regretted that a prior
-engagement prevented their having the honour of dining with Mr and Mrs
+engagement prevented their having the [[Honour|honour]] of dining with Mr and Mrs
 Podsnap, in pursuance of their kind invitation; and that Mrs Podsnap
 said of all these inconsolable personages, as she checked them off with
 a pencil in her list, ‘Asked, at any rate, and got rid of;’ and that
@@ -32,8 +32,8 @@ There were still other friends of their souls who were not entitled to
 be asked to dinner, but had a claim to be invited to come and take a
 haunch of mutton vapour-bath at half-past nine. For the clearing off
 of these worthies, Mrs Podsnap added a small and early evening to the
-dinner, and looked in at the music-shop to bespeak a well-conducted
-automaton to come and play quadrilles for a carpet dance.
+dinner, and looked in at the music-shop to bespeak a [[Well|well]]-conducted
+automaton to come and play quadrilles for a carpet [[Dance|dance]].
 
 Mr and Mrs Veneering, and Mr and Mrs Veneering’s bran-new bride and
 bridegroom, were of the dinner company; but the Podsnap establishment
@@ -57,23 +57,23 @@ morsel they ate.
 
 The majority of the guests were like the plate, and included several
 heavy articles weighing ever so much. But there was a foreign gentleman
-among them: whom Mr Podsnap had invited after much debate with
+among them: whom Mr Podsnap had invited after much [[debate]] with
 himself—believing the whole European continent to be in mortal alliance
 against the young person—and there was a droll disposition, not only on
 the part of Mr Podsnap but of everybody else, to treat him as if he were
-a child who was hard of hearing.
+a [[Child|child]] who was hard of hearing.
 
 As a delicate concession to this unfortunately-born foreigner, Mr
 Podsnap, in receiving him, had presented his wife as ‘Madame Podsnap;’
 also his daughter as ‘Mademoiselle Podsnap,’ with some inclination to
 add ‘ma fille,’ in which bold venture, however, he checked himself. The
-Veneerings being at that time the only other arrivals, he had added (in
+Veneerings being at that [[Time|time]] the only other arrivals, he had added (in
 a condescendingly explanatory manner), ‘Monsieur Vey-nair-reeng,’ and
 had then subsided into English.
 
-‘How Do You Like London?’ Mr Podsnap now inquired from his station of
-host, as if he were administering something in the nature of a powder or
-potion to the deaf child; ‘London, Londres, London?’
+‘How Do You Like [[London]]?’ Mr Podsnap now inquired from his station of
+host, as if he were administering something in the [[Nature|nature]] of a powder or
+potion to the deaf [[Child|child]]; ‘[[London]], Londres, [[London]]?’
 
 The foreign gentleman admired it.
 
@@ -83,7 +83,7 @@ The foreign gentleman found it very large.
 
 ‘And Very Rich?’
 
-The foreign gentleman found it, without doubt, enormement riche.
+The foreign gentleman found it, without [[Doubt|doubt]], enormement riche.
 
 ‘Enormously Rich, We say,’ returned Mr Podsnap, in a condescending
 manner. ‘Our English adverbs do Not terminate in Mong, and We Pronounce
@@ -93,7 +93,7 @@ the “ch” as if there were a “t” before it. We say Ritch.’
 
 ‘And Do You Find, Sir,’ pursued Mr Podsnap, with dignity, ‘Many
 Evidences that Strike You, of our British Constitution in the Streets Of
-The World’s Metropolis, London, Londres, London?’
+The World’s Metropolis, [[London]], Londres, [[London]]?’
 
 The foreign gentleman begged to be pardoned, but did not altogether
 understand.
@@ -113,8 +113,8 @@ stopping dead.
 ‘Mais oui,’ said the foreign gentleman, turning towards him. ‘Est-ce
 que? Quoi donc?’
 
-But the gentleman with the lumpy forehead having for the time delivered
-himself of all that he found behind his lumps, spake for the time no
+But the gentleman with the lumpy forehead having for the [[Time|time]] delivered
+himself of all that he found behind his lumps, spake for the [[Time|time]] no
 more.
 
 ‘I Was Inquiring,’ said Mr Podsnap, resuming the thread of his
@@ -128,8 +128,8 @@ was tokenz?’
 
 ‘Ah! Of a Orse?’ inquired the foreign gentleman.
 
-‘We call it Horse,’ said Mr Podsnap, with forbearance. ‘In England,
-Angleterre, England, We Aspirate the “H,” and We Say “Horse.” Only our
+‘We call it [[Horse]],’ said Mr Podsnap, with forbearance. ‘In England,
+Angleterre, England, We Aspirate the “H,” and We Say “[[Horse]].” Only our
 Lower Classes Say “Orse!”’
 
 ‘Pardon,’ said the foreign gentleman; ‘I am alwiz wrong!’
@@ -143,5 +143,5 @@ But the lumpy gentleman, unwilling to give it up, again madly said,
 
 ‘It merely referred,’ Mr Podsnap explained, with a sense of meritorious
 proprietorship, ‘to Our Constitution, Sir. We Englishmen are Very Proud
-of our Constitution, Sir. It Was Bestowed Upon Us By Providence. No
+of our Constitution, Sir. It Was Bestowed Upon Us By [[Providence]]. No
 Other Country is so Favoured as This Country.’

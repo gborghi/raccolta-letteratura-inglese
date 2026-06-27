@@ -14,26 +14,26 @@ tags:
 </nav>
 
 
-That Mr Pancks should be moved to invite any one to dinner at
+That [[Mr Pancks]] should be moved to invite any one to dinner at
 Pentonville, was an unprecedented fact in his calendar. But he invited
 Young John to dinner, and even brought him within range of the dangerous
 (because expensive) fascinations of Miss Rugg. The banquet was appointed
-for a Sunday, and Miss Rugg with her own hands stuffed a leg of mutton
+for a [[Sunday]], and Miss Rugg with her own hands stuffed a leg of mutton
 with oysters on the occasion, and sent it to the baker’s--not _the_
 baker’s but an opposition establishment. Provision of oranges, apples,
-and nuts was also made. And rum was brought home by Mr Pancks on
-Saturday night, to gladden the visitor’s heart.
+and nuts was also made. And rum was brought [[Home|home]] by [[Mr Pancks]] on
+Saturday [[Night|night]], to gladden the visitor’s heart.
 
 The store of creature comforts was not the chief part of the visitor’s
 reception. Its special feature was a foregone family confidence and
 sympathy. When Young John appeared at half-past one without the ivory
 hand and waistcoat of golden sprigs, the sun shorn of his beams by
-disastrous clouds, Mr Pancks presented him to the yellow-haired Ruggs as
+disastrous clouds, [[Mr Pancks]] presented him to the yellow-haired Ruggs as
 the young man he had so often mentioned who loved Miss Dorrit.
 
 ‘I am glad,’ said Mr Rugg, challenging him specially in that character,
 ‘to have the distinguished gratification of making your acquaintance,
-sir. Your feelings do you honour. You are young; may you never outlive
+sir. Your feelings do you [[Honour|honour]]. You are young; may you never outlive
 your feelings! If I was to outlive my own feelings, sir,’ said Mr Rugg,
 who was a man of many words, and was considered to possess a remarkably
 good address; ‘if I was to outlive my own feelings, I’d leave fifty
@@ -46,7 +46,7 @@ state of this young man’s affections. My daughter has had her trials,
 sir’--Mr Rugg might have used the word more pointedly in the singular
 number--‘and she can feel for you.’
 
-Young John, almost overwhelmed by the touching nature of this greeting,
+Young John, almost overwhelmed by the touching [[Nature|nature]] of this greeting,
 professed himself to that effect.
 
 ‘What I envy you, sir, is,’ said Mr Rugg, ‘allow me to take your hat--we
@@ -64,13 +64,13 @@ but he hoped he did it.
 ‘Sir,’ said Mr Rugg, taking him by the hand, ‘you are a young man that
 it does one good to come across. You are a young man that I should
 like to put in the witness-box, to humanise the minds of the legal
-profession. I hope you have brought your appetite with you, and intend
+profession. I [[Hope|hope]] you have brought your appetite with you, and intend
 to play a good knife and fork?’
 
 ‘Thank you, sir,’ returned Young John, ‘I don’t eat much at present.’
 
 Mr Rugg drew him a little apart. ‘My daughter’s case, sir,’ said he, ‘at
-the time when, in vindication of her outraged feelings and her sex, she
+the [[Time|time]] when, in vindication of her outraged feelings and her sex, she
 became the plaintiff in Rugg and Bawkins. I suppose I could have put it
 in evidence, Mr Chivery, if I had thought it worth my while, that the
 amount of solid sustenance my daughter consumed at that period did not
@@ -88,22 +88,22 @@ very sorry if there was.’
 
 ‘The sentiment,’ said Mr Rugg, ‘is what I should have expected from your
 known principles. It would affect my daughter greatly, sir, if she heard
-it. As I perceive the mutton, I am glad she didn’t hear it. Mr Pancks,
+it. As I perceive the mutton, I am glad she didn’t hear it. [[Mr Pancks]],
 on this occasion, pray face me. My dear, face Mr Chivery. For what we
 are going to receive, may we (and Miss Dorrit) be truly thankful!’
 
-But for a grave waggishness in Mr Rugg’s manner of delivering this
+But for a [[Grave|grave]] waggishness in Mr Rugg’s manner of delivering this
 introduction to the feast, it might have appeared that Miss Dorrit was
 expected to be one of the company. Pancks recognised the sally in
 his usual way, and took in his provender in his usual way. Miss Rugg,
 perhaps making up some of her arrears, likewise took very kindly to
 the mutton, and it rapidly diminished to the bone. A bread-and-butter
-pudding entirely disappeared, and a considerable amount of cheese and
+pudding entirely disappeared, and a considerable amount of [[cheese]] and
 radishes vanished by the same means. Then came the dessert.
 
-Then also, and before the broaching of the rum and water, came Mr
+Then also, and before the broaching of the rum and [[Water|water]], came Mr
 Pancks’s note-book. The ensuing business proceedings were brief but
-curious, and rather in the nature of a conspiracy. Mr Pancks looked over
+curious, and rather in the [[Nature|nature]] of a conspiracy. [[Mr Pancks]] looked over
 his note-book, which was now getting full, studiously; and picked out
 little extracts, which he wrote on separate slips of paper on the table;
 Mr Rugg, in the meanwhile, looking at him with close attention, and
@@ -117,7 +117,7 @@ it?’
 
 ‘I’ll take it, sir,’ returned Mr Rugg, ‘if no one bids.’
 
-Mr Pancks dealt him his card, and looked at his hand again.
+[[Mr Pancks]] dealt him his card, and looked at his hand again.
 
 ‘Now, there’s an Enquiry in York,’ said Pancks. ‘Who takes it?’
 
@@ -128,8 +128,8 @@ Mr Pancks dealt him his card, and looked at his hand again.
 Young John assenting, Pancks dealt him his card, and consulted his hand
 again.
 
-‘There’s a Church in London; I may as well take that. And a Family
-Bible; I may as well take that, too. That’s two to me. Two to me,’
+‘There’s a Church in [[London]]; I may as [[Well|well]] take that. And a Family
+[[Bible]]; I may as [[Well|well]] take that, too. That’s two to me. Two to me,’
 repeated Pancks, breathing hard over his cards. ‘Here’s a Clerk at
 Durham for you, John, and an old seafaring gentleman at Dunstable for
 you, Mr Rugg. Two to me, was it? Yes, two to me. Here’s a Stone; three

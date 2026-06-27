@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 13 (part 4)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 13 (part 4)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -26,27 +26,27 @@ irritated our thirst far less than the barnacles. Seeing no trace of
 
 sharks among the seaweed, we also ventured to bathe, and remained in
 
-the water for four or five hours, during which we experienced a very
+the [[Water|water]] for four or five hours, during which we experienced a very
 
 sensible diminution of our thirst. Were greatly refreshed, and spent
 
-the night somewhat more comfortably than before, both of us snatching a
+the [[Night|night]] somewhat more comfortably than before, both of us snatching a
 
-little sleep.
+little [[Sleep|sleep]].
 
 
 
 _August 6._ This day we were blessed by a brisk and continual rain,
 
-lasting from about noon until after dark. Bitterly did we now regret
+lasting from about [[Noon|noon]] until after dark. Bitterly did we now regret
 
 the loss of our jug and carboy; for, in spite of the little means we
 
-had of catching the water, we might have filled one, if not both of
+had of catching the [[Water|water]], we might have filled one, if not both of
 
 them. As it was, we contrived to satisfy the cravings of thirst by
 
-suffering the shirts to become saturated, and then wringing them so as
+[[Suffering|suffering]] the shirts to become saturated, and then wringing them so as
 
 to let the grateful fluid trickle into our mouths. In this occupation
 
@@ -90,13 +90,13 @@ perpetrated at sea, under circumstances very nearly similar, and by
 
 beings who were regarded as belonging to the human species.[2] In this
 
-instance, however, by the mercy of God, we were destined to be most
+instance, however, by the [[Mercy|mercy]] of God, we were destined to be most
 
 happily deceived; for presently we were aware of a sudden commotion on
 
 the deck of the stranger, who immediately afterward run up a British
 
-flag, and, hauling her wind, bore up directly upon us. In half an hour
+[[Flag|flag]], and, hauling her [[Wind|wind]], bore up directly upon us. In half an hour
 
 more we found ourselves in her cabin. She proved to be the Jane Guy, of
 
@@ -124,11 +124,11 @@ together with a Mr. Hunt, and a negro girl belonging to him. On the
 
 fifteenth, having cleared the shoal of Georges, she sprung a leak in a
 
-gale of wind from the southeast, and was finally capsized; but, the
+gale of [[Wind|wind]] from the southeast, and was finally capsized; but, the
 
 mast going by the board, she afterward righted. They remained in this
 
-situation, without fire, and with very little provision, for the period
+situation, without [[Fire|fire]], and with very little provision, for the period
 
 of _one hundred and ninety-one days_ (from December the fifteenth to
 
@@ -136,7 +136,7 @@ June the twentieth) when Captain Casneau and Samuel Badger, the only
 
 survivers, were taken off the wreck by the Fame, of Hull, Captain
 
-Featherstone, bound home from Rio Janeiro. When picked up they were in
+Featherstone, bound [[Home|home]] from Rio Janeiro. When picked up they were in
 
 latitude _28 N., longitude 13 W., having drifted above two thousand
 
@@ -154,7 +154,7 @@ words.
 
 upon the most frequented part of the Atlantic, and not be discovered
 
-all this time. _They were passed by more than a dozen sail, one of
+all this [[Time|time]]. _They were passed by more than a dozen sail, one of
 
 which came so nigh them that they could distinctly see the people on
 

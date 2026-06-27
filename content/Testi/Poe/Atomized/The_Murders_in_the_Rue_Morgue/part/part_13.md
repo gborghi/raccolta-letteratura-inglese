@@ -1,5 +1,5 @@
 ---
-title: "The Murders in the Rue Morgue (part 13)"
+title: "[[The Murders in the Rue Morgue]] (part 13)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Murders-in-the-Rue-Morgue-(Poe)"
@@ -42,7 +42,7 @@ tags:
 
       is peculiar to the Maltese. I picked the ribbon up at the foot of
 
-      the lightning-rod. It could not have belonged to either of the
+      the [[Lightning|lightning]]-rod. It could not have belonged to either of the
 
       deceased. Now if, after all, I am wrong in my induction from this
 
@@ -56,11 +56,11 @@ tags:
 
       the trouble to inquire. But if I am right, a great point is
 
-      gained. Cognizant although innocent of the murder, the Frenchman
+      gained. Cognizant although [[Innocent|innocent]] of the murder, the Frenchman
 
       will naturally hesitate about replying to the advertisement—about
 
-      demanding the Ourang-Outang. He will reason thus:—‘I am innocent;
+      demanding the Ourang-Outang. He will reason thus:—‘I am [[Innocent|innocent]];
 
       I am poor; my Ourang-Outang is of great value—to one in my
 
@@ -78,7 +78,7 @@ tags:
 
       animal, it would be impossible to prove me cognizant of the
 
-      murder, or to implicate me in guilt on account of that
+      murder, or to implicate me in [[Guilt|guilt]] on account of that
 
       cognizance. Above all, _I am known._ The advertiser designates me
 
@@ -108,7 +108,7 @@ tags:
 
 
 
-      The front door of the house had been left open, and the visitor
+      The front door of the [[house]] had been left open, and the visitor
 
       had entered, without ringing, and advanced several steps upon the
 
@@ -116,7 +116,7 @@ tags:
 
       heard him descending. Dupin was moving quickly to the door, when
 
-      we again heard him coming up. He did not turn back a second time,
+      we again heard him coming up. He did not turn back a second [[Time|time]],
 
       but stepped up with decision, and rapped at the door of our
 
@@ -150,7 +150,7 @@ tags:
 
       about the Ourang-Outang. Upon my word, I almost envy you the
 
-      possession of him; a remarkably fine, and no doubt a very
+      possession of him; a remarkably fine, and no [[Doubt|doubt]] a very
 
       valuable animal. How old do you suppose him to be?”
 
@@ -194,7 +194,7 @@ tags:
 
 
 
-      “Well,” replied my friend, “that is all very fair, to be sure.
+      “[[Well]],” replied my friend, “that is all very fair, to be sure.
 
       Let me think!—what should I have? Oh! I will tell you. My reward
 
@@ -208,7 +208,7 @@ tags:
 
       Just as quietly, too, he walked toward the door, locked it and
 
-      put the key in his pocket. He then drew a pistol from his bosom
+      put the key in his pocket. He then drew a [[Pistol|pistol]] from his bosom
 
       and placed it, without the least flurry, upon the table.
 
@@ -220,9 +220,9 @@ tags:
 
       the next moment he fell back into his seat, trembling violently,
 
-      and with the countenance of death itself. He spoke not a word. I
+      and with the countenance of [[Death|death]] itself. He spoke not a word. I
 
-      pitied him from the bottom of my heart.
+      pitied him from the [[Bottom|bottom]] of my heart.
 
 
 

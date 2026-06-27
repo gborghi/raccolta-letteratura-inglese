@@ -1,5 +1,5 @@
 ---
-title: "Little Dorrit — Chapter 18: Little Dorrit’s Lover (part 3)"
+title: "Little Dorrit — Chapter 18: Little Dorrit’s [[Lover]] (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Little-Dorrit-(Dickens)"
@@ -33,7 +33,7 @@ equally confused.
 
 ‘Miss Amy, I am afraid I disturbed you by speaking to you.’
 
-‘Yes, rather. I--I came here to be alone, and I thought I was.’
+‘Yes, rather. I--I came here to be [[Alone|alone]], and I thought I was.’
 
 ‘Miss Amy, I took the liberty of walking this way, because Mr Dorrit
 chanced to mention, when I called upon him just now, that you--’
@@ -41,15 +41,15 @@ chanced to mention, when I called upon him just now, that you--’
 She caused him more dismay than before by suddenly murmuring, ‘O father,
 father!’ in a heartrending tone, and turning her face away.
 
-‘Miss Amy, I hope I don’t give you any uneasiness by naming Mr Dorrit.
-I assure you I found him very well and in the best of Spirits, and he
+‘Miss Amy, I [[Hope|hope]] I don’t give you any uneasiness by naming Mr Dorrit.
+I assure you I found him very [[Well|well]] and in the best of Spirits, and he
 showed me even more than his usual kindness; being so very kind as to
 say that I was not a stranger there, and in all ways gratifying me very
 much.’
 
-To the inexpressible consternation of her lover, Little Dorrit, with her
+To the inexpressible consternation of her [[Lover|lover]], Little Dorrit, with her
 hands to her averted face, and rocking herself where she stood as if she
-were in pain, murmured, ‘O father, how can you! O dear, dear father, how
+were in [[Pain|pain]], murmured, ‘O father, how can you! O dear, dear father, how
 can you, can you, do it!’
 
 The poor fellow stood gazing at her, overflowing with sympathy, but not
@@ -65,24 +65,24 @@ His trembling voice and unfeigned earnestness brought Little Dorrit to
 a stop. ‘Oh, I don’t know what to do,’ she cried, ‘I don’t know what to
 do!’
 
-To Young John, who had never seen her bereft of her quiet self-command,
-who had seen her from her infancy ever so reliable and self-suppressed,
+To Young John, who had never seen her bereft of her quiet [[Self|self]]-command,
+who had seen her from her infancy ever so reliable and [[Self|self]]-suppressed,
 there was a shock in her distress, and in having to associate himself
 with it as its cause, that shook him from his great hat to the
 pavement. He felt it necessary to explain himself. He might be
 misunderstood--supposed to mean something, or to have done something,
-that had never entered into his imagination. He begged her to hear him
+that had never entered into his [[Imagination|imagination]]. He begged her to hear him
 explain himself, as the greatest favour she could show him.
 
-‘Miss Amy, I know very well that your family is far above mine. It were
+‘Miss Amy, I know very [[Well|well]] that your family is far above mine. It were
 vain to conceal it. There never was a Chivery a gentleman that ever
 I heard of, and I will not commit the meanness of making a false
-representation on a subject so momentous. Miss Amy, I know very well
+representation on a subject so momentous. Miss Amy, I know very [[Well|well]]
 that your high-souled brother, and likewise your spirited sister, spurn
 me from a height. What I have to do is to respect them, to wish to be
-admitted to their friendship, to look up at the eminence on which they
+admitted to their [[Friendship|friendship]], to look up at the eminence on which they
 are placed from my lowlier station--for, whether viewed as tobacco or
-viewed as the lock, I well know it is lowly--and ever wish them well and
+viewed as the lock, I [[Well|well]] know it is lowly--and ever wish them [[Well|well]] and
 happy.’
 
 There really was a genuineness in the poor fellow, and a contrast
@@ -92,18 +92,18 @@ to disparage neither himself nor his station, and, above all things, to
 divest himself of any idea that she supposed hers to be superior. This
 gave him a little comfort.
 
-‘Miss Amy,’ he then stammered, ‘I have had for a long time--ages they
+‘Miss Amy,’ he then stammered, ‘I have had for a long [[Time|time]]--ages they
 seem to me--Revolving ages--a heart-cherished wish to say something to
 you. May I say it?’
 
 Little Dorrit involuntarily started from his side again, with the
-faintest shadow of her former look; conquering that, she went on at
-great speed half across the Bridge without replying!
+faintest [[Shadow|shadow]] of her former look; conquering that, she went on at
+great [[Speed|speed]] half across the Bridge without replying!
 
 ‘May I--Miss Amy, I but ask the question humbly--may I say it? I have
-been so unlucky already in giving you pain without having any such
-intentions, before the holy Heavens! that there is no fear of my saying
-it unless I have your leave. I can be miserable alone, I can be cut up
+been so unlucky already in giving you [[Pain|pain]] without having any such
+intentions, before the holy Heavens! that there is no [[Fear|fear]] of my saying
+it unless I have your leave. I can be miserable [[Alone|alone]], I can be cut up
 by myself, why should I also make miserable and cut up one that I would
 fling myself off that parapet to give half a moment’s joy to! Not that
 that’s much to do, for I’d do it for twopence.’
@@ -136,7 +136,7 @@ would be heartily glad to do anything she wished.
 
 ‘As to me,’ said Little Dorrit, ‘think as little of me as you can; the
 less, the better. When you think of me at all, John, let it only be as
-the child you have seen grow up in the prison with one set of duties
+the [[Child|child]] you have seen grow up in the [[Prison|prison]] with one set of duties
 always occupying her; as a weak, retired, contented, unprotected girl. I
 particularly want you to remember, that when I come outside the gate, I
 am unprotected and solitary.’
@@ -149,7 +149,7 @@ not to forget to-day, and not to say any more to me. You are so generous
 that I know I can trust to you for that; and I do and I always will. I
 am going to show you, at once, that I fully trust you. I like this place
 where we are speaking better than any place I know;’ her slight colour
-had faded, but her lover thought he saw it coming back just then; ‘and I
+had faded, but her [[Lover|lover]] thought he saw it coming back just then; ‘and I
 may be often here. I know it is only necessary for me to tell you so, to
 be quite sure that you will never come here again in search of me. And I
 am--quite sure!’
@@ -157,14 +157,14 @@ am--quite sure!’
 She might rely upon it, said Young John. He was a miserable wretch, but
 her word was more than a law for him.
 
-‘And good-bye, John,’ said Little Dorrit. ‘And I hope you will have a
+‘And good-bye, John,’ said Little Dorrit. ‘And I [[Hope|hope]] you will have a
 good wife one day, and be a happy man. I am sure you will deserve to be
 happy, and you will be, John.’
 
 As she held out her hand to him with these words, the heart that was
-under the waistcoat of sprigs--mere slop-work, if the truth must be
+under the waistcoat of sprigs--mere slop-work, if the [[Truth|truth]] must be
 known--swelled to the size of the heart of a gentleman; and the poor
-common little fellow, having no room to hold it, burst into tears.
+common little fellow, having no room to hold it, burst into [[Tears|tears]].
 
 ‘Oh, don’t cry,’ said Little Dorrit piteously. ‘Don’t, don’t! Good-bye,
 John. God bless you!’
@@ -177,11 +177,11 @@ her face against it too, as if her head were heavy, and her mind were
 sad.
 
 It was an affecting illustration of the fallacy of human projects,
-to behold her lover, with the great hat pulled over his eyes, the velvet
+to behold her [[Lover|lover]], with the great hat pulled over his eyes, the velvet
 collar turned up as if it rained, the plum-coloured coat buttoned
 to conceal the silken waistcoat of golden sprigs, and the little
-direction-post pointing inexorably home, creeping along by the worst
-back-streets, and composing, as he went, the following new inscription
+direction-post pointing inexorably [[Home|home]], creeping along by the worst
+back-streets, and composing, as he went, the following new [[Inscription|inscription]]
 for a tombstone in St George’s Churchyard:
 
 ‘Here lie the mortal remains Of JOHN CHIVERY, Never anything worth

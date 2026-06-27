@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM HOUSE (part 4)"
+title: "[[David Copperfield]] — Chapter 7: MY ‘FIRST HALF’ AT SALEM [[house|HOUSE]] (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -54,7 +54,7 @@ hands, sat, for some moments, quite still.
 
 ‘Mr. Mell,’ said Mr. Creakle, shaking him by the arm; and his whisper
 was so audible now, that Tungay felt it unnecessary to repeat his words;
-‘you have not forgotten yourself, I hope?’
+‘you have not forgotten yourself, I [[Hope|hope]]?’
 
 ‘No, sir, no,’ returned the Master, showing his face, and shaking his
 head, and rubbing his hands in great agitation. ‘No, sir. No. I have
@@ -91,7 +91,7 @@ turning angrily on his assistant.
 no pupil had a right to avail himself of his position of favouritism to
 degrade me.’
 
-‘To degrade YOU?’ said Mr. Creakle. ‘My stars! But give me leave to ask
+‘To degrade YOU?’ said Mr. Creakle. ‘My [[Stars|stars]]! But give me leave to ask
 you, Mr. What’s-your-name’; and here Mr. Creakle folded his arms, cane
 and all, upon his chest, and made such a knot of his brows that his
 little eyes were hardly visible below them; ‘whether, when you talk
@@ -113,10 +113,10 @@ be taken, I felt quite in a glow at this gallant speech. It made an
 impression on the boys too, for there was a low stir among them, though
 no one spoke a word.
 
-‘I am surprised, Steerforth--although your candour does you honour,’
-said Mr. Creakle, ‘does you honour, certainly--I am surprised,
+‘I am surprised, Steerforth--although your candour does you [[Honour|honour]],’
+said Mr. Creakle, ‘does you [[Honour|honour]], certainly--I am surprised,
 Steerforth, I must say, that you should attach such an epithet to any
-person employed and paid in Salem House, sir.’
+person employed and paid in Salem [[house|House]], sir.’
 
 Steerforth gave a short laugh.
 
@@ -140,7 +140,7 @@ kindly on the shoulder, but he looked at him.
 
 ‘Since you expect me, Mr. Creakle, to justify myself,’ said Steerforth,
 ‘and to say what I mean,--what I have to say is, that his mother lives
-on charity in an alms-house.’
+on [[Charity|charity]] in an alms-[[house]].’
 
 Mr. Mell still looked at him, and still patted me kindly on the
 shoulder, and said to himself, in a whisper, if I heard right: ‘Yes, I

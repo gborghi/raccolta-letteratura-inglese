@@ -37,17 +37,17 @@ sort of ill-adjusted alarum. The touch was still upon his arm. He fell
 silent; and after looking about the ceiling again for a little while,
 looked down at her. Her head drooped, and he could not see her face; but
 her touch was tender and quiet, and in the expression of her dejected
-figure there was no blame--nothing but love. He began to whimper, just
-as he had done that night in the prison when she afterwards sat at
+figure there was no blame--nothing but [[Love|love]]. He began to whimper, just
+as he had done that [[Night|night]] in the [[Prison|prison]] when she afterwards sat at
 his bedside till morning; exclaimed that he was a poor ruin and a poor
 wretch in the midst of his wealth; and clasped her in his arms. ‘Hush,
-hush, my own dear! Kiss me!’ was all she said to him. His tears
+hush, my own dear! Kiss me!’ was all she said to him. His [[Tears|tears]]
 were soon dried, much sooner than on the former occasion; and he was
 presently afterwards very high with his valet, as a way of righting
 himself for having shed any.
 
 With one remarkable exception, to be recorded in its place, this was
-the only time, in his life of freedom and fortune, when he spoke to his
+the only [[Time|time]], in his life of [[Freedom|freedom]] and fortune, when he spoke to his
 daughter Amy of the old days.
 
 But, now, the breakfast hour arrived; and with it Miss Fanny from her
@@ -58,16 +58,16 @@ she had become the victim of an insatiate mania for what she called
 times between sunset and sunrise, if so many opportunities had been at
 her disposal. As to Mr Edward, he, too, had a large acquaintance, and
 was generally engaged (for the most part, in diceing circles, or others
-of a kindred nature), during the greater part of every night. For this
+of a kindred [[Nature|nature]]), during the greater part of every [[Night|night]]. For this
 gentleman, when his fortunes changed, had stood at the great advantage
 of being already prepared for the highest associates, and having little
 to learn: so much was he indebted to the happy accidents which had made
-him acquainted with horse-dealing and billiard-marking.
+him acquainted with [[Horse|horse]]-dealing and billiard-marking.
 
 At breakfast, Mr Frederick Dorrit likewise appeared. As the old
 gentleman inhabited the highest story of the palace, where he might have
-practised pistol-shooting without much chance of discovery by the other
-inmates, his younger niece had taken courage to propose the restoration
+practised [[Pistol|pistol]]-shooting without much chance of discovery by the other
+inmates, his younger niece had taken [[Courage|courage]] to propose the restoration
 to him of his clarionet, which Mr Dorrit had ordered to be confiscated,
 but which she had ventured to preserve. Notwithstanding some objections
 from Miss Fanny, that it was a low instrument, and that she detested the
@@ -82,7 +82,7 @@ bought); and of passing hours and hours before the portraits of renowned
 Venetians. It was never made out what his dazed eyes saw in them;
 whether he had an interest in them merely as pictures, or whether he
 confusedly identified them with a glory that was departed, like the
-strength of his own mind. But he paid his court to them with great
+strength of his own mind. But he paid his [[Court|court]] to them with great
 exactness, and clearly derived pleasure from the pursuit. After the
 first few days, Little Dorrit happened one morning to assist at these
 attentions. It so evidently heightened his gratification that she often
@@ -97,7 +97,7 @@ seen in a gallery, on the previous day, the lady and gentleman whom they
 had encountered on the Great Saint Bernard, ‘I forget the name,’ said
 he. ‘I dare say you remember them, William? I dare say you do, Edward?’
 
-‘_I_ remember ‘em well enough,’ said the latter.
+‘_I_ remember ‘em [[Well|well]] enough,’ said the latter.
 
 ‘I should think so,’ observed Miss Fanny, with a toss of her head and
 a glance at her sister. ‘But they would not have been recalled to our
@@ -111,7 +111,7 @@ think not. On the whole I prefer my own expression.’
 
 This was always Miss Fanny’s way of receiving a suggestion from Mrs
 General. But she always stored it up in her mind, and adopted it at
-another time.
+another [[Time|time]].
 
 ‘I should have mentioned our having met Mr and Mrs Gowan, Fanny,’ said
 Little Dorrit, ‘even if Uncle had not. I have scarcely seen you since,

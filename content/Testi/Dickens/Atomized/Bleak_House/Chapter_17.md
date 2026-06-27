@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 17"
+title: "Bleak [[house|House]] — Chapter 17"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,7 +19,7 @@ CHAPTER XVII
 Esther’s Narrative
 
 
-Richard very often came to see us while we remained in London (though
+[[Richard]] very often came to see us while we remained in [[London]] (though
 he soon failed in his letter-writing), and with his quick abilities,
 his good spirits, his good temper, his gaiety and freshness, was
 always delightful. But though I liked him more and more the better I
@@ -32,25 +32,25 @@ always with fair credit and often with distinction, but in a fitful,
 dazzling way that had confirmed his reliance on those very qualities
 in himself which it had been most desirable to direct and train. They
 were good qualities, without which no high place can be meritoriously
-won, but like fire and water, though excellent servants, they were
-very bad masters. If they had been under Richard’s direction, they
-would have been his friends; but Richard being under their direction,
+won, but like [[Fire|fire]] and [[Water|water]], though excellent servants, they were
+very bad masters. If they had been under [[Richard]]’s direction, they
+would have been his friends; but [[Richard]] being under their direction,
 they became his enemies.
 
 I write down these opinions not because I believe that this or any
 other thing was so because I thought so, but only because I did think
 so and I want to be quite candid about all I thought and did. These
-were my thoughts about Richard. I thought I often observed besides
+were my thoughts about [[Richard]]. I thought I often observed besides
 how right my guardian was in what he had said, and that the
 uncertainties and delays of the Chancery suit had imparted to his
-nature something of the careless spirit of a gamester who felt that
+[[Nature|nature]] something of the careless spirit of a gamester who felt that
 he was part of a great gaming system.
 
 Mr. and Mrs. Bayham Badger coming one afternoon when my guardian was
-not at home, in the course of conversation I naturally inquired after
-Richard.
+not at [[Home|home]], in the course of conversation I naturally inquired after
+[[Richard]].
 
-“Why, Mr. Carstone,” said Mrs. Badger, “is very well and is, I assure
+“Why, Mr. Carstone,” said Mrs. Badger, “is very [[Well|well]] and is, I assure
 you, a great acquisition to our society. Captain Swosser used to say
 of me that I was always better than land a-head and a breeze a-starn
 to the midshipmen’s mess when the purser’s junk had become as tough as
@@ -79,7 +79,7 @@ compliment of saying so—”
 “No,” Mr. Badger called out like some one contradicting at a public
 meeting. “Not at all!”
 
-“Very well,” smiled Mrs. Badger, “we will say still young.”
+“Very [[Well|well]],” smiled Mrs. Badger, “we will say still young.”
 
 “Undoubtedly,” said Mr. Badger.
 
@@ -90,7 +90,7 @@ in the Mediterranean, I embraced every opportunity of knowing and
 befriending the midshipmen under Captain Swosser’s command. YOU never
 heard them called the young gentlemen, my dears, and probably would
 not understand allusions to their pipe-claying their weekly accounts,
-but it is otherwise with me, for blue water has been a second home to
+but it is otherwise with me, for blue [[Water|water]] has been a second [[Home|home]] to
 me, and I have been quite a sailor. Again, with Professor Dingo.”
 
 “A man of European reputation,” murmured Mr. Badger.
@@ -99,9 +99,9 @@ me, and I have been quite a sailor. Again, with Professor Dingo.”
 said Mrs. Badger, speaking of her former husbands as if they were
 parts of a charade, “I still enjoyed opportunities of observing
 youth. The class attendant on Professor Dingo’s lectures was a large
-one, and it became my pride, as the wife of an eminent scientific man
+one, and it became my [[Pride|pride]], as the wife of an eminent scientific man
 seeking herself in science the utmost consolation it could impart, to
-throw our house open to the students as a kind of Scientific
+throw our [[house]] open to the students as a kind of Scientific
 Exchange. Every Tuesday evening there was lemonade and a mixed
 biscuit for all who chose to partake of those refreshments. And there
 was science to an unlimited extent.”
@@ -130,13 +130,13 @@ impression in reference to it, I should say it was that it is a
 tiresome pursuit. Now, this is not promising. Young men like Mr.
 Allan Woodcourt who take it from a strong interest in all that it can
 do will find some reward in it through a great deal of work for a
-very little money and through years of considerable endurance and
+very little money and through years of considerable [[Endurance|endurance]] and
 disappointment. But I am quite convinced that this would never be the
 case with Mr. Carstone.”
 
 “Does Mr. Badger think so too?” asked Ada timidly.
 
-“Why,” said Mr. Badger, “to tell the truth, Miss Clare, this view of
+“Why,” said Mr. Badger, “to tell the [[Truth|truth]], Miss Clare, this view of
 the matter had not occurred to me until Mrs. Badger mentioned it. But
 when Mrs. Badger put it in that light, I naturally gave great
 consideration to it, knowing that Mrs. Badger’s mind, in addition to
@@ -149,17 +149,17 @@ conclusion.”
 “It was a maxim of Captain Swosser’s,” said Mrs. Badger, “speaking in
 his figurative naval manner, that when you make pitch hot, you cannot
 make it too hot; and that if you only have to swab a plank, you
-should swab it as if Davy Jones were after you. It appears to me that
-this maxim is applicable to the medical as well as to the nautical
+should swab it as if Davy [[Jones]] were after you. It appears to me that
+this maxim is applicable to the medical as [[Well|well]] as to the nautical
 profession.”
 
 “To all professions,” observed Mr. Badger. “It was admirably said by
 Captain Swosser. Beautifully said.”
 
 “People objected to Professor Dingo when we were staying in the north
-of Devon after our marriage,” said Mrs. Badger, “that he disfigured
+of Devon after our [[Marriage|marriage]],” said Mrs. Badger, “that he disfigured
 some of the houses and other buildings by chipping off fragments of
-those edifices with his little geological hammer. But the professor
+those edifices with his little geological hammer. But [[The Professor|the professor]]
 replied that he knew of no building save the Temple of Science. The
 principle is the same, I think?”
 
@@ -173,7 +173,7 @@ Although we could have dispensed with the length at which Mr. and
 Mrs. Badger pursued the conversation, we both felt that it was
 disinterested in them to express the opinion they had communicated to
 us and that there was a great probability of its being sound. We
-agreed to say nothing to Mr. Jarndyce until we had spoken to Richard;
+agreed to say nothing to Mr. Jarndyce until we had spoken to [[Richard]];
 and as he was coming next evening, we resolved to have a very serious
 talk with him.
 
@@ -181,10 +181,10 @@ So after he had been a little while with Ada, I went in and found my
 darling (as I knew she would be) prepared to consider him thoroughly
 right in whatever he said.
 
-“And how do you get on, Richard?” said I. I always sat down on the
+“And how do you get on, [[Richard]]?” said I. I always sat down on the
 other side of him. He made quite a sister of me.
 
-“Oh! Well enough!” said Richard.
+“Oh! [[Well]] enough!” said [[Richard]].
 
 “He can’t say better than that, Esther, can he?” cried my pet
 triumphantly.
@@ -192,113 +192,113 @@ triumphantly.
 I tried to look at my pet in the wisest manner, but of course I
 couldn’t.
 
-“Well enough?” I repeated.
+“[[Well]] enough?” I repeated.
 
-“Yes,” said Richard, “well enough. It’s rather jog-trotty and
-humdrum. But it’ll do as well as anything else!”
+“Yes,” said [[Richard]], “[[Well|well]] enough. It’s rather jog-trotty and
+humdrum. But it’ll do as [[Well|well]] as anything else!”
 
-“Oh! My dear Richard!” I remonstrated.
+“Oh! My dear [[Richard]]!” I remonstrated.
 
-“What’s the matter?” said Richard.
+“What’s the matter?” said [[Richard]].
 
-“Do as well as anything else!”
+“Do as [[Well|well]] as anything else!”
 
 “I don’t think there’s any harm in that, Dame Durden,” said Ada,
 looking so confidingly at me across him; “because if it will do as
-well as anything else, it will do very well, I hope.”
+[[Well|well]] as anything else, it will do very [[Well|well]], I [[Hope|hope]].”
 
-“Oh, yes, I hope so,” returned Richard, carelessly tossing his hair
+“Oh, yes, I [[Hope|hope]] so,” returned [[Richard]], carelessly tossing his hair
 from his forehead. “After all, it may be only a kind of probation
 till our suit is—I forgot though. I am not to mention the suit.
 Forbidden ground! Oh, yes, it’s all right enough. Let us talk about
 something else.”
 
-Ada would have done so willingly, and with a full persuasion that we
+Ada would have done so willingly, and with a full [[Persuasion|persuasion]] that we
 had brought the question to a most satisfactory state. But I thought
 it would be useless to stop there, so I began again.
 
-“No, but Richard,” said I, “and my dear Ada! Consider how important
-it is to you both, and what a point of honour it is towards your
-cousin, that you, Richard, should be quite in earnest without any
+“No, but [[Richard]],” said I, “and my dear Ada! Consider how important
+it is to you both, and what a point of [[Honour|honour]] it is towards your
+cousin, that you, [[Richard]], should be quite in earnest without any
 reservation. I think we had better talk about this, really, Ada. It
 will be too late very soon.”
 
-“Oh, yes! We must talk about it!” said Ada. “But I think Richard is
+“Oh, yes! We must talk about it!” said Ada. “But I think [[Richard]] is
 right.”
 
 What was the use of my trying to look wise when she was so pretty,
 and so engaging, and so fond of him!
 
-“Mr. and Mrs. Badger were here yesterday, Richard,” said I, “and they
+“Mr. and Mrs. Badger were here yesterday, [[Richard]],” said I, “and they
 seemed disposed to think that you had no great liking for the
 profession.”
 
-“Did they though?” said Richard. “Oh! Well, that rather alters the
+“Did they though?” said [[Richard]]. “Oh! [[Well]], that rather alters the
 case, because I had no idea that they thought so, and I should not
 have liked to disappoint or inconvenience them. The fact is, I don’t
-care much about it. But, oh, it don’t matter! It’ll do as well as
+care much about it. But, oh, it don’t matter! It’ll do as [[Well|well]] as
 anything else!”
 
 “You hear him, Ada!” said I.
 
-“The fact is,” Richard proceeded, half thoughtfully and half
+“The fact is,” [[Richard]] proceeded, half thoughtfully and half
 jocosely, “it is not quite in my way. I don’t take to it. And I get
 too much of Mrs. Bayham Badger’s first and second.”
 
 “I am sure THAT’S very natural!” cried Ada, quite delighted. “The
 very thing we both said yesterday, Esther!”
 
-“Then,” pursued Richard, “it’s monotonous, and to-day is too like
+“Then,” pursued [[Richard]], “it’s monotonous, and to-day is too like
 yesterday, and to-morrow is too like to-day.”
 
 “But I am afraid,” said I, “this is an objection to all kinds of
 application—to life itself, except under some very uncommon
 circumstances.”
 
-“Do you think so?” returned Richard, still considering. “Perhaps! Ha!
+“Do you think so?” returned [[Richard]], still considering. “Perhaps! Ha!
 Why, then, you know,” he added, suddenly becoming gay again, “we
-travel outside a circle to what I said just now. It’ll do as well as
+travel outside a circle to what I said just now. It’ll do as [[Well|well]] as
 anything else. Oh, it’s all right enough! Let us talk about something
 else.”
 
-But even Ada, with her loving face—and if it had seemed innocent and
+But even Ada, with her loving face—and if it had seemed [[Innocent|innocent]] and
 trusting when I first saw it in that memorable November fog, how much
-more did it seem now when I knew her innocent and trusting
+more did it seem now when I knew her [[Innocent|innocent]] and trusting
 heart—even Ada shook her head at this and looked serious. So I
-thought it a good opportunity to hint to Richard that if he were
+thought it a good opportunity to hint to [[Richard]] that if he were
 sometimes a little careless of himself, I was very sure he never
 meant to be careless of Ada, and that it was a part of his
 affectionate consideration for her not to slight the importance of a
 step that might influence both their lives. This made him almost
-grave.
+[[Grave|grave]].
 
 “My dear Mother Hubbard,” he said, “that’s the very thing! I have
 thought of that several times and have been quite angry with myself
 for meaning to be so much in earnest and—somehow—not exactly being
 so. I don’t know how it is; I seem to want something or other to
 stand by. Even you have no idea how fond I am of Ada (my darling
-cousin, I love you, so much!), but I don’t settle down to constancy
-in other things. It’s such uphill work, and it takes such a time!”
-said Richard with an air of vexation.
+cousin, I [[Love|love]] you, so much!), but I don’t settle down to constancy
+in other things. It’s such uphill work, and it takes such a [[Time|time]]!”
+said [[Richard]] with an air of vexation.
 
 “That may be,” I suggested, “because you don’t like what you have
 chosen.”
 
-“Poor fellow!” said Ada. “I am sure I don’t wonder at it!”
+“Poor fellow!” said Ada. “I am sure I don’t [[Wonder|wonder]] at it!”
 
 No. It was not of the least use my trying to look wise. I tried
 again, but how could I do it, or how could it have any effect if I
 could, while Ada rested her clasped hands upon his shoulder and while
 he looked at her tender blue eyes, and while they looked at him!
 
-“You see, my precious girl,” said Richard, passing her golden curls
+“You see, my precious girl,” said [[Richard]], passing her golden curls
 through and through his hand, “I was a little hasty perhaps; or I
 misunderstood my own inclinations perhaps. They don’t seem to lie in
 that direction. I couldn’t tell till I tried. Now the question is
 whether it’s worth-while to undo all that has been done. It seems
 like making a great disturbance about nothing particular.”
 
-“My dear Richard,” said I, “how CAN you say about nothing
+“My dear [[Richard]],” said I, “how CAN you say about nothing
 particular?”
 
 “I don’t mean absolutely that,” he returned. “I mean that it MAY be
@@ -306,15 +306,15 @@ nothing particular because I may never want it.”
 
 Both Ada and I urged, in reply, not only that it was decidedly
 worth-while to undo what had been done, but that it must be undone. I
-then asked Richard whether he had thought of any more congenial
+then asked [[Richard]] whether he had thought of any more congenial
 pursuit.
 
-“There, my dear Mrs. Shipton,” said Richard, “you touch me home. Yes,
+“There, my dear Mrs. Shipton,” said [[Richard]], “you touch me [[Home|home]]. Yes,
 I have. I have been thinking that the law is the boy for me.”
 
 “The law!” repeated Ada as if she were afraid of the name.
 
-“If I went into Kenge’s office,” said Richard, “and if I were placed
+“If I went into Kenge’s office,” said [[Richard]], “and if I were placed
 under articles to Kenge, I should have my eye on the—hum!—the
 forbidden ground—and should be able to study it, and master it, and
 to satisfy myself that it was not neglected and was being properly
@@ -328,72 +328,72 @@ a shade on Ada’s face. But I thought it best to encourage him in any
 project of continuous exertion, and only advised him to be quite sure
 that his mind was made up now.
 
-“My dear Minerva,” said Richard, “I am as steady as you are. I made a
+“My dear Minerva,” said [[Richard]], “I am as steady as you are. I made a
 mistake; we are all liable to mistakes; I won’t do so any more, and
 I’ll become such a lawyer as is not often seen. That is, you know,”
-said Richard, relapsing into doubt, “if it really is worth-while,
+said [[Richard]], relapsing into [[Doubt|doubt]], “if it really is worth-while,
 after all, to make such a disturbance about nothing particular!”
 
 This led to our saying again, with a great deal of gravity, all that
 we had said already and to our coming to much the same conclusion
-afterwards. But we so strongly advised Richard to be frank and open
+afterwards. But we so strongly advised [[Richard]] to be frank and open
 with Mr. Jarndyce, without a moment’s delay, and his disposition was
 naturally so opposed to concealment that he sought him out at once
 (taking us with him) and made a full avowal. “Rick,” said my
-guardian, after hearing him attentively, “we can retreat with honour,
+guardian, after hearing him attentively, “we can retreat with [[Honour|honour]],
 and we will. But we must be careful—for our cousin’s sake, Rick, for
 our cousin’s sake—that we make no more such mistakes. Therefore, in
 the matter of the law, we will have a good trial before we decide. We
-will look before we leap, and take plenty of time about it.”
+will look before we leap, and take plenty of [[Time|time]] about it.”
 
-Richard’s energy was of such an impatient and fitful kind that he
+[[Richard]]’s energy was of such an impatient and fitful kind that he
 would have liked nothing better than to have gone to Mr. Kenge’s
 office in that hour and to have entered into articles with him on the
 spot. Submitting, however, with a good grace to the caution that we
 had shown to be so necessary, he contented himself with sitting down
 among us in his lightest spirits and talking as if his one unvarying
-purpose in life from childhood had been that one which now held
+purpose in life from [[Childhood|childhood]] had been that one which now held
 possession of him. My guardian was very kind and cordial with him,
-but rather grave, enough so to cause Ada, when he had departed and we
-were going upstairs to bed, to say, “Cousin John, I hope you don’t
-think the worse of Richard?”
+but rather [[Grave|grave]], enough so to cause Ada, when he had departed and we
+were going upstairs to bed, to say, “Cousin John, I [[Hope|hope]] you don’t
+think the worse of [[Richard]]?”
 
-“No, my love,” said he.
+“No, my [[Love|love]],” said he.
 
-“Because it was very natural that Richard should be mistaken in such
+“Because it was very natural that [[Richard]] should be mistaken in such
 a difficult case. It is not uncommon.”
 
-“No, no, my love,” said he. “Don’t look unhappy.”
+“No, no, my [[Love|love]],” said he. “Don’t look unhappy.”
 
 “Oh, I am not unhappy, cousin John!” said Ada, smiling cheerfully,
 with her hand upon his shoulder, where she had put it in bidding him
-good night. “But I should be a little so if you thought at all the
-worse of Richard.”
+good [[Night|night]]. “But I should be a little so if you thought at all the
+worse of [[Richard]].”
 
 “My dear,” said Mr. Jarndyce, “I should think the worse of him only
 if you were ever in the least unhappy through his means. I should be
 more disposed to quarrel with myself even then, than with poor Rick,
 for I brought you together. But, tut, all this is nothing! He has
-time before him, and the race to run. I think the worse of him? Not
+[[Time|time]] before him, and the race to run. I think the worse of him? Not
 I, my loving cousin! And not you, I swear!”
 
 “No, indeed, cousin John,” said Ada, “I am sure I could not—I am
-sure I would not—think any ill of Richard if the whole world did. I
-could, and I would, think better of him then than at any other time!”
+sure I would not—think any ill of [[Richard]] if the whole world did. I
+could, and I would, think better of him then than at any other [[Time|time]]!”
 
 So quietly and honestly she said it, with her hands upon his
 shoulders—both hands now—and looking up into his face, like the
-picture of truth!
+picture of [[Truth|truth]]!
 
 “I think,” said my guardian, thoughtfully regarding her, “I think it
 must be somewhere written that the virtues of the mothers shall
-occasionally be visited on the children, as well as the sins of the
-father. Good night, my rosebud. Good night, little woman. Pleasant
-slumbers! Happy dreams!”
+occasionally be visited on the children, as [[Well|well]] as the sins of the
+father. Good [[Night|night]], my rosebud. Good [[Night|night]], little woman. Pleasant
+slumbers! Happy [[Dreams|dreams]]!”
 
-This was the first time I ever saw him follow Ada with his eyes with
-something of a shadow on their benevolent expression. I well
-remembered the look with which he had contemplated her and Richard
+This was the first [[Time|time]] I ever saw him follow Ada with his eyes with
+something of a [[Shadow|shadow]] on their benevolent expression. I [[Well|well]]
+remembered the look with which he had contemplated her and [[Richard]]
 when she was singing in the firelight; it was but a very little while
 since he had watched them passing down the room in which the sun was
 shining, and away into the shade; but his glance was changed, and
@@ -401,13 +401,13 @@ even the silent look of confidence in me which now followed it once
 more was not quite so hopeful and untroubled as it had originally
 been.
 
-Ada praised Richard more to me that night than ever she had praised
-him yet. She went to sleep with a little bracelet he had given her
+Ada praised [[Richard]] more to me that [[Night|night]] than ever she had praised
+him yet. She went to [[Sleep|sleep]] with a little bracelet he had given her
 clasped upon her arm. I fancied she was dreaming of him when I kissed
 her cheek after she had slept an hour and saw how tranquil and happy
 she looked.
 
-For I was so little inclined to sleep myself that night that I sat up
+For I was so little inclined to [[Sleep|sleep]] myself that [[Night|night]] that I sat up
 working. It would not be worth mentioning for its own sake, but I was
 wakeful and rather low-spirited. I don’t know why. At least I don’t
 think I know why. At least, perhaps I do, but I don’t think it
@@ -416,14 +416,14 @@ matters.
 At any rate, I made up my mind to be so dreadfully industrious that I
 would leave myself not a moment’s leisure to be low-spirited. For I
 naturally said, “Esther! You to be low-spirited. YOU!” And it really
-was time to say so, for I—yes, I really did see myself in the glass,
+was [[Time|time]] to say so, for I—yes, I really did see myself in the glass,
 almost crying. “As if you had anything to make you unhappy, instead
 of everything to make you happy, you ungrateful heart!” said I.
 
-If I could have made myself go to sleep, I would have done it
+If I could have made myself go to [[Sleep|sleep]], I would have done it
 directly, but not being able to do that, I took out of my basket some
-ornamental work for our house (I mean Bleak House) that I was busy
-with at that time and sat down to it with great determination. It was
+ornamental work for our [[house]] (I mean Bleak [[house|House]]) that I was busy
+with at that [[Time|time]] and sat down to it with great determination. It was
 necessary to count all the stitches in that work, and I resolved to
 go on with it until I couldn’t keep my eyes open, and then to go to
 bed.
@@ -447,9 +447,9 @@ I told him what I had come for.
 
 “At work so late, my dear?”
 
-“I am working late to-night,” said I, “because I couldn’t sleep and
+“I am working late to-[[Night|night]],” said I, “because I couldn’t [[Sleep|sleep]] and
 wished to tire myself. But, dear guardian, you are late too, and look
-weary. You have no trouble, I hope, to keep you waking?”
+weary. You have no trouble, I [[Hope|hope]], to keep you waking?”
 
 “None, little woman, that YOU would readily understand,” said he.
 
@@ -459,16 +459,16 @@ understand!”
 
 “Remain a moment, Esther,” said he, “You were in my thoughts.”
 
-“I hope I was not the trouble, guardian?”
+“I [[Hope|hope]] I was not the trouble, guardian?”
 
 He slightly waved his hand and fell into his usual manner. The change
 was so remarkable, and he appeared to make it by dint of so much
-self-command, that I found myself again inwardly repeating, “None
+[[Self|self]]-command, that I found myself again inwardly repeating, “None
 that I could understand!”
 
 “Little woman,” said my guardian, “I was thinking—that is, I have
 been thinking since I have been sitting here—that you ought to know
-of your own history all I know. It is very little. Next to nothing.”
+of your own [[history]] all I know. It is very little. Next to nothing.”
 
 “Dear guardian,” I replied, “when you spoke to me before on that
 subject—”
@@ -484,17 +484,17 @@ is perhaps my duty to impart to you the little I know.”
 distinctly. “My dear, I think so now. If any real disadvantage can
 attach to your position in the mind of any man or woman worth a
 thought, it is right that you at least of all the world should not
-magnify it to yourself by having vague impressions of its nature.”
+magnify it to yourself by having vague impressions of its [[Nature|nature]].”
 
 I sat down and said after a little effort to be as calm as I ought to
 be, “One of my earliest remembrances, guardian, is of these words:
-‘Your mother, Esther, is your disgrace, and you were hers. The time
+‘Your mother, Esther, is your disgrace, and you were hers. The [[Time|time]]
 will come, and soon enough, when you will understand this better, and
 will feel it too, as no one save a woman can.’” I had covered my face
 with my hands in repeating the words, but I took them away now with a
-better kind of shame, I hope, and told him that to him I owed the
-blessing that I had from my childhood to that hour never, never,
-never felt it. He put up his hand as if to stop me. I well knew that
+better kind of shame, I [[Hope|hope]], and told him that to him I owed the
+blessing that I had from my [[Childhood|childhood]] to that hour never, never,
+never felt it. He put up his hand as if to stop me. I [[Well|well]] knew that
 he was never to be thanked, and said no more.
 
 “Nine years, my dear,” he said after thinking for a little while,
@@ -503,21 +503,21 @@ seclusion, written with a stern passion and power that rendered it
 unlike all other letters I have ever read. It was written to me (as
 it told me in so many words), perhaps because it was the writer’s
 idiosyncrasy to put that trust in me, perhaps because it was mine to
-justify it. It told me of a child, an orphan girl then twelve years
+justify it. It told me of a [[Child|child]], an [[Orphan|orphan]] girl then twelve years
 old, in some such cruel words as those which live in your
 remembrance. It told me that the writer had bred her in secrecy from
 her birth, had blotted out all trace of her existence, and that if
-the writer were to die before the child became a woman, she would be
+the writer were to die before the [[Child|child]] became a woman, she would be
 left entirely friendless, nameless, and unknown. It asked me to
 consider if I would, in that case, finish what the writer had begun.”
 
-I listened in silence and looked attentively at him.
+I listened in [[Silence|silence]] and looked attentively at him.
 
 “Your early recollection, my dear, will supply the gloomy medium
 through which all this was seen and expressed by the writer, and the
 distorted religion which clouded her mind with impressions of the
-need there was for the child to expiate an offence of which she was
-quite innocent. I felt concerned for the little creature, in her
+need there was for the [[Child|child]] to expiate an offence of which she was
+quite [[Innocent|innocent]]. I felt concerned for the little creature, in her
 darkened life, and replied to the letter.”
 
 I took his hand and kissed it.
@@ -527,8 +527,8 @@ writer, who had long been estranged from all intercourse with the
 world, but who would see a confidential agent if I would appoint one.
 I accredited Mr. Kenge. The lady said, of her own accord and not of
 his seeking, that her name was an assumed one. That she was, if there
-were any ties of blood in such a case, the child’s aunt. That more
-than this she would never (and he was well persuaded of the
+were any ties of [[Blood|blood]] in such a case, the [[Child|child]]’s aunt. That more
+than this she would never (and he was [[Well|well]] persuaded of the
 steadfastness of her resolution) for any human consideration
 disclose. My dear, I have told you all.”
 
@@ -549,24 +549,24 @@ had given him a shock. I again inwardly repeated, wondering, “That I
 could readily understand. None that I could readily understand!” No,
 it was true. I did not understand it. Not for many and many a day.
 
-“Take a fatherly good night, my dear,” said he, kissing me on the
+“Take a fatherly good [[Night|night]], my dear,” said he, kissing me on the
 forehead, “and so to rest. These are late hours for working and
 thinking. You do that for all of us, all day long, little
 housekeeper!”
 
-I neither worked nor thought any more that night. I opened my
-grateful heart to heaven in thankfulness for its providence to me and
+I neither worked nor thought any more that [[Night|night]]. I opened my
+grateful heart to heaven in thankfulness for its [[Providence|providence]] to me and
 its care of me, and fell asleep.
 
 We had a visitor next day. Mr. Allan Woodcourt came. He came to take
 leave of us; he had settled to do so beforehand. He was going to
-China and to India as a surgeon on board ship. He was to be away a
-long, long time.
+China and to India as a surgeon on board [[Ship|ship]]. He was to be away a
+long, long [[Time|time]].
 
 I believe—at least I know—that he was not rich. All his widowed
 mother could spare had been spent in qualifying him for his
 profession. It was not lucrative to a young practitioner, with very
-little influence in London; and although he was, night and day, at
+little influence in [[London]]; and although he was, [[Night|night]] and day, at
 the service of numbers of poor people and did wonders of gentleness
 and skill for them, he gained very little by it in money. He was
 seven years older than I. Not that I need mention it, for it hardly
@@ -582,26 +582,26 @@ those who knew it best, and some of the greatest men belonging to it
 had a high opinion of him.
 
 When he came to bid us good-bye, he brought his mother with him for
-the first time. She was a pretty old lady, with bright black eyes,
-but she seemed proud. She came from Wales and had had, a long time
+the first [[Time|time]]. She was a pretty old lady, with bright black eyes,
+but she seemed proud. She came from Wales and had had, a long [[Time|time]]
 ago, an eminent person for an ancestor, of the name of Morgan
 ap-Kerrig—of some place that sounded like Gimlet—who was the most
 illustrious person that ever was known and all of whose relations
 were a sort of royal family. He appeared to have passed his life
-in always getting up into mountains and fighting somebody; and
+in always getting up into [[Mountains|mountains]] and fighting somebody; and
 a bard whose name sounded like Crumlinwallinwer had sung his
 praises in a piece which was called, as nearly as I could catch it,
 Mewlinnwillinwodd.
 
 Mrs. Woodcourt, after expatiating to us on the fame of her great
-kinsman, said that no doubt wherever her son Allan went he would
+kinsman, said that no [[Doubt|doubt]] wherever her son Allan went he would
 remember his pedigree and would on no account form an alliance below
 it. She told him that there were many handsome English ladies in
 India who went out on speculation, and that there were some to be
 picked up with property, but that neither charms nor wealth would
 suffice for the descendant from such a line without birth, which must
 ever be the first consideration. She talked so much about birth that
-for a moment I half fancied, and with pain—But what an idle fancy to
+for a moment I half fancied, and with [[Pain|pain]]—But what an idle fancy to
 suppose that she could think or care what MINE was!
 
 Mr. Woodcourt seemed a little distressed by her prolixity, but he was
@@ -614,14 +614,14 @@ treasured. And so we gave him our hands, one after another—at least,
 they did—and I did; and so he put his lips to Ada’s hand—and to
 mine; and so he went away upon his long, long voyage!
 
-I was very busy indeed all day and wrote directions home to the
+I was very busy indeed all day and wrote directions [[Home|home]] to the
 servants, and wrote notes for my guardian, and dusted his books and
 papers, and jingled my housekeeping keys a good deal, one way and
 another. I was still busy between the lights, singing and working by
-the window, when who should come in but Caddy, whom I had no
+the [[Window|window]], when who should come in but Caddy, whom I had no
 expectation of seeing!
 
-“Why, Caddy, my dear,” said I, “what beautiful flowers!”
+“Why, Caddy, my dear,” said I, “what beautiful [[Flowers|flowers]]!”
 
 She had such an exquisite little nosegay in her hand.
 
@@ -633,7 +633,7 @@ I ever saw.”
 “No,” answered Caddy, shaking her head and holding them to me to
 smell. “Not Prince.”
 
-“Well, to be sure, Caddy!” said I. “You must have two lovers!”
+“[[Well]], to be sure, Caddy!” said I. “You must have two [[lovers]]!”
 
 “What? Do they look like that sort of thing?” said Caddy.
 
@@ -641,9 +641,9 @@ smell. “Not Prince.”
 cheek.
 
 Caddy only laughed in return, and telling me that she had come for
-half an hour, at the expiration of which time Prince would be waiting
-for her at the corner, sat chatting with me and Ada in the window,
-every now and then handing me the flowers again or trying how they
+half an hour, at the expiration of which [[Time|time]] Prince would be waiting
+for her at the corner, sat chatting with me and Ada in the [[Window|window]],
+every now and then handing me the [[Flowers|flowers]] again or trying how they
 looked against my hair. At last, when she was going, she took me into
 my room and put them in my dress.
 
@@ -655,10 +655,10 @@ somebody.”
 “Left behind?”
 
 “At poor Miss Flite’s,” said Caddy. “Somebody who has been very good
-to her was hurrying away an hour ago to join a ship and left these
-flowers behind. No, no! Don’t take them out. Let the pretty little
+to her was hurrying away an hour ago to join a [[Ship|ship]] and left these
+[[Flowers|flowers]] behind. No, no! Don’t take them out. Let the pretty little
 things lie here,” said Caddy, adjusting them with a careful hand,
-“because I was present myself, and I shouldn’t wonder if somebody
+“because I was present myself, and I shouldn’t [[Wonder|wonder]] if somebody
 left them on purpose!”
 
 “Do they look like that sort of thing?” said Ada, coming laughingly

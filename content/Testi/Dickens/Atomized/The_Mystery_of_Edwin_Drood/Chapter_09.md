@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 8"
+title: "The Mystery of [[Edwin Drood]] — Chapter 8"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -19,25 +19,25 @@ DAGGERS DRAWN
 
 
 The two young men, having seen the damsels, their charges, enter the
-courtyard of the Nuns’ House, and finding themselves coldly stared at
+courtyard of the Nuns’ [[house|House]], and finding themselves coldly stared at
 by the brazen door-plate, as if the battered old beau with the glass in
 his eye were insolent, look at one another, look along the perspective
 of the moonlit street, and slowly walk away together.
 
 “Do you stay here long, Mr. Drood?” says Neville.
 
-“Not this time,” is the careless answer. “I leave for London again,
+“Not this [[Time|time]],” is the careless answer. “I leave for [[London]] again,
 to-morrow. But I shall be here, off and on, until next Midsummer; then
 I shall take my leave of Cloisterham, and England too; for many a long
 day, I expect.”
 
 “Are you going abroad?”
 
-“Going to wake up Egypt a little,” is the condescending answer.
+“Going to wake up [[Egypt]] a little,” is the condescending answer.
 
 “Are you reading?”
 
-“Reading?” repeats Edwin Drood, with a touch of contempt. “No. Doing,
+“Reading?” repeats [[Edwin Drood]], with a touch of contempt. “No. Doing,
 working, engineering. My small patrimony was left a part of the capital
 of the Firm I am with, by my father, a former partner; and I am a
 charge upon the Firm until I come of age; and then I step into my
@@ -54,28 +54,28 @@ of being at once hunter and hunted. Edwin has made his retort with an
 abruptness not at all polite. They stop and interchange a rather heated
 look.
 
-“I hope,” says Neville, “there is no offence, Mr. Drood, in my
+“I [[Hope|hope]],” says Neville, “there is no offence, Mr. Drood, in my
 innocently referring to your betrothal?”
 
 “By George!” cries Edwin, leading on again at a somewhat quicker pace;
-“everybody in this chattering old Cloisterham refers to it. I wonder no
-public-house has been set up, with my portrait for the sign of The
+“everybody in this chattering old Cloisterham refers to it. I [[Wonder|wonder]] no
+public-[[house]] has been set up, with my portrait for the sign of The
 Betrothed’s Head. Or Pussy’s portrait. One or the other.”
 
 “I am not accountable for Mr. Crisparkle’s mentioning the matter to me,
 quite openly,” Neville begins.
 
-“No; that’s true; you are not,” Edwin Drood assents.
+“No; that’s true; you are not,” [[Edwin Drood]] assents.
 
 “But,” resumes Neville, “I am accountable for mentioning it to you. And
 I did so, on the supposition that you could not fail to be highly proud
 of it.”
 
-Now, there are these two curious touches of human nature working the
-secret springs of this dialogue. Neville Landless is already enough
-impressed by Little Rosebud, to feel indignant that Edwin Drood (far
-below her) should hold his prize so lightly. Edwin Drood is already
-enough impressed by Helena, to feel indignant that Helena’s brother
+Now, there are these two curious touches of human [[Nature|nature]] working the
+secret springs of this dialogue. [[Neville Landless]] is already enough
+impressed by Little Rosebud, to feel indignant that [[Edwin Drood]] (far
+below her) should hold his prize so lightly. [[Edwin Drood]] is already
+enough impressed by [[Helena]], to feel indignant that [[Helena]]’s brother
 (far below her) should dispose of him so coolly, and put him out of the
 way so entirely.
 
@@ -88,36 +88,36 @@ like other people to talk about. But I live a busy life, and I speak
 under correction by you readers, who ought to know everything, and I
 daresay do.”
 
-By this time they had both become savage; Mr. Neville out in the open;
-Edwin Drood under the transparent cover of a popular tune, and a stop
+By this [[Time|time]] they had both become savage; Mr. Neville out in the open;
+[[Edwin Drood]] under the transparent cover of a popular tune, and a stop
 now and then to pretend to admire picturesque effects in the moonlight
 before him.
 
 “It does not seem to me very civil in you,” remarks Neville, at length,
 “to reflect upon a stranger who comes here, not having had your
-advantages, to try to make up for lost time. But, to be sure, I was not
+advantages, to try to make up for lost [[Time|time]]. But, to be sure, I was not
 brought up in ‘busy life,’ and my ideas of civility were formed among
 Heathens.”
 
 “Perhaps, the best civility, whatever kind of people we are brought up
-among,” retorts Edwin Drood, “is to mind our own business. If you will
+among,” retorts [[Edwin Drood]], “is to mind our own business. If you will
 set me that example, I promise to follow it.”
 
 “Do you know that you take a great deal too much upon yourself?” is the
 angry rejoinder, “and that in the part of the world I come from, you
 would be called to account for it?”
 
-“By whom, for instance?” asks Edwin Drood, coming to a halt, and
+“By whom, for instance?” asks [[Edwin Drood]], coming to a halt, and
 surveying the other with a look of disdain.
 
 But, here a startling right hand is laid on Edwin’s shoulder, and
 Jasper stands between them. For, it would seem that he, too, has
-strolled round by the Nuns’ House, and has come up behind them on the
-shadowy side of the road.
+strolled round by the Nuns’ [[house|House]], and has come up behind them on the
+shadowy side of the [[Road|road]].
 
 “Ned, Ned, Ned!” he says; “we must have no more of this. I don’t like
 this. I have overheard high words between you two. Remember, my dear
-boy, you are almost in the position of host to-night. You belong, as it
+boy, you are almost in the position of host to-[[Night|night]]. You belong, as it
 were, to the place, and in a manner represent it towards a stranger.
 Mr. Neville is a stranger, and you should respect the obligations of
 hospitality. And, Mr. Neville,” laying his left hand on the inner
@@ -128,10 +128,10 @@ there be nothing amiss, and the question is superfluous. We are all
 three on a good understanding, are we not?”
 
 After a silent struggle between the two young men who shall speak last,
-Edwin Drood strikes in with: “So far as I am concerned, Jack, there is
+[[Edwin Drood]] strikes in with: “So far as I am concerned, Jack, there is
 no anger in me.”
 
-“Nor in me,” says Neville Landless, though not so freely; or perhaps so
+“Nor in me,” says [[Neville Landless]], though not so freely; or perhaps so
 carelessly. “But if Mr. Drood knew all that lies behind me, far away
 from here, he might know better how it is that sharp-edged words have
 sharp edges to wound me.”
@@ -146,7 +146,7 @@ and freely, there is no anger in you, Mr. Neville?”
 or, be it said once again, not quite so carelessly perhaps.
 
 “All over then! Now, my bachelor gatehouse is a few yards from here,
-and the heater is on the fire, and the wine and glasses are on the
+and the heater is on the [[Fire|fire]], and the wine and glasses are on the
 table, and it is not a stone’s throw from Minor Canon Corner. Ned, you
 are up and away to-morrow. We will carry Mr. Neville in with us, to
 take a stirrup-cup.”
@@ -155,13 +155,13 @@ take a stirrup-cup.”
 
 “And with all mine, Mr. Jasper.” Neville feels it impossible to say
 less, but would rather not go. He has an impression upon him that he
-has lost hold of his temper; feels that Edwin Drood’s coolness, so far
+has lost hold of his temper; feels that [[Edwin Drood]]’s coolness, so far
 from being infectious, makes him red-hot.
 
 Mr. Jasper, still walking in the centre, hand to shoulder on either
-side, beautifully turns the Refrain of a drinking song, and they all go
+side, beautifully turns the Refrain of a drinking [[Song|song]], and they all go
 up to his rooms. There, the first object visible, when he adds the
-light of a lamp to that of the fire, is the portrait over the
+light of a lamp to that of the [[Fire|fire]], is the portrait over the
 chimneypiece. It is not an object calculated to improve the
 understanding between the two young men, as rather awkwardly reviving
 the subject of their difference. Accordingly, they both glance at it
@@ -178,7 +178,7 @@ the light upon it.
 it.”
 
 “I am sorry for that, Mr. Drood.” Neville apologises, with a real
-intention to apologise; “if I had known I was in the artist’s
+intention to apologise; “if I had known I was in the [[artist]]’s
 presence—”
 
 “O, a joke, sir, a mere joke,” Edwin cuts in, with a provoking yawn. “A
@@ -190,21 +190,21 @@ said, as the speaker throws himself back in a chair and clasps his
 hands at the back of his head, as a rest for it, is very exasperating
 to the excitable and excited Neville. Jasper looks observantly from the
 one to the other, slightly smiles, and turns his back to mix a jug of
-mulled wine at the fire. It seems to require much mixing and
+mulled wine at the [[Fire|fire]]. It seems to require much mixing and
 compounding.
 
 “I suppose, Mr. Neville,” says Edwin, quick to resent the indignant
 protest against himself in the face of young Landless, which is fully
-as visible as the portrait, or the fire, or the lamp: “I suppose that
-if you painted the picture of your lady love—”
+as visible as the portrait, or the [[Fire|fire]], or the lamp: “I suppose that
+if you painted the picture of your lady [[Love|love]]—”
 
 “I can’t paint,” is the hasty interruption.
 
 “That’s your misfortune, and not your fault. You would if you could.
 But if you could, I suppose you would make her (no matter what she was
-in reality), Juno, Minerva, Diana, and Venus, all in one. Eh?”
+in reality), Juno, Minerva, [[Diana]], and [[Venus]], all in one. Eh?”
 
-“I have no lady love, and I can’t say.”
+“I have no lady [[Love|love]], and I can’t say.”
 
 “If I were to try my hand,” says Edwin, with a boyish boastfulness
 getting up in him, “on a portrait of Miss Landless—in earnest, mind
@@ -214,37 +214,37 @@ you; in earnest—you should see what I could do!”
 never will be got, I am afraid I shall never see what you can do. I
 must bear the loss.”
 
-Jasper turns round from the fire, fills a large goblet glass for
+Jasper turns round from the [[Fire|fire]], fills a large goblet glass for
 Neville, fills a large goblet glass for Edwin, and hands each his own;
 then fills for himself, saying:
 
 “Come, Mr. Neville, we are to drink to my nephew, Ned. As it is his
 foot that is in the stirrup—metaphorically—our stirrup-cup is to be
-devoted to him. Ned, my dearest fellow, my love!”
+devoted to him. Ned, my dearest fellow, my [[Love|love]]!”
 
 Jasper sets the example of nearly emptying his glass, and Neville
-follows it. Edwin Drood says, “Thank you both very much,” and follows
-the double example.
+follows it. [[Edwin Drood]] says, “Thank you both very much,” and follows
+the [[Double|double]] example.
 
 “Look at him,” cries Jasper, stretching out his hand admiringly and
 tenderly, though rallyingly too. “See where he lounges so easily, Mr.
 Neville! The world is all before him where to choose. A life of
 stirring work and interest, a life of change and excitement, a life of
-domestic ease and love! Look at him!”
+domestic ease and [[Love|love]]! Look at him!”
 
-Edwin Drood’s face has become quickly and remarkably flushed with the
-wine; so has the face of Neville Landless. Edwin still sits thrown back
+[[Edwin Drood]]’s face has become quickly and remarkably flushed with the
+wine; so has the face of [[Neville Landless]]. Edwin still sits thrown back
 in his chair, making that rest of clasped hands for his head.
 
 “See how little he heeds it all!” Jasper proceeds in a bantering vein.
 “It is hardly worth his while to pluck the golden fruit that hangs ripe
 on the tree for him. And yet consider the contrast, Mr. Neville. You
 and I have no prospect of stirring work and interest, or of change and
-excitement, or of domestic ease and love. You and I have no prospect
+excitement, or of domestic ease and [[Love|love]]. You and I have no prospect
 (unless you are more fortunate than I am, which may easily be), but the
 tedious unchanging round of this dull place.”
 
-“Upon my soul, Jack,” says Edwin, complacently, “I feel quite
+“Upon my [[Soul|soul]], Jack,” says Edwin, complacently, “I feel quite
 apologetic for having my way smoothed as you describe. But you know
 what I know, Jack, and it may not be so very easy as it seems, after
 all. May it, Pussy?” To the portrait, with a snap of his thumb and
@@ -255,7 +255,7 @@ what I mean, Jack.”
 
 
 His speech has become thick and indistinct. Jasper, quiet and
-self-possessed, looks to Neville, as expecting his answer or comment.
+[[Self|self]]-possessed, looks to Neville, as expecting his answer or comment.
 When Neville speaks, _his_ speech is also thick and indistinct.
 
 “It might have been better for Mr. Drood to have known some hardships,”
@@ -273,7 +273,7 @@ merits.”
 
 Mr. Jasper quickly looks to his nephew for his rejoinder.
 
-“Have _you_ known hardships, may I ask?” says Edwin Drood, sitting
+“Have _you_ known hardships, may I ask?” says [[Edwin Drood]], sitting
 upright.
 
 Mr. Jasper quickly looks to the other for his retort.
@@ -285,7 +285,7 @@ Mr. Jasper quickly looks to the other for his retort.
 Mr. Jasper’s play of eyes between the two holds good throughout the
 dialogue, to the end.
 
-“I have told you once before to-night.”
+“I have told you once before to-[[Night|night]].”
 
 “You have done nothing of the sort.”
 
@@ -300,24 +300,24 @@ dialogue, to the end.
 “I said that in the part of the world I come from, you would be called
 to account for it.”
 
-“Only there?” cries Edwin Drood, with a contemptuous laugh. “A long way
+“Only there?” cries [[Edwin Drood]], with a contemptuous laugh. “A long way
 off, I believe? Yes; I see! That part of the world is at a safe
 distance.”
 
 “Say here, then,” rejoins the other, rising in a fury. “Say anywhere!
-Your vanity is intolerable, your conceit is beyond endurance; you talk
+Your [[Vanity|vanity]] is intolerable, your conceit is beyond [[Endurance|endurance]]; you talk
 as if you were some rare and precious prize, instead of a common
 boaster. You are a common fellow, and a common boaster.”
 
-“Pooh, pooh,” says Edwin Drood, equally furious, but more collected;
+“Pooh, pooh,” says [[Edwin Drood]], equally furious, but more collected;
 “how should you know? You may know a black common fellow, or a black
-common boaster, when you see him (and no doubt you have a large
+common boaster, when you see him (and no [[Doubt|doubt]] you have a large
 acquaintance that way); but you are no judge of white men.”
 
 This insulting allusion to his dark skin infuriates Neville to that
-violent degree, that he flings the dregs of his wine at Edwin Drood,
+violent degree, that he flings the dregs of his wine at [[Edwin Drood]],
 and is in the act of flinging the goblet after it, when his arm is
-caught in the nick of time by Jasper.
+caught in the nick of [[Time|time]] by Jasper.
 
 “Ned, my dear fellow!” he cries in a loud voice; “I entreat you, I
 command you, to be still!” There has been a rush of all the three, and
@@ -327,29 +327,29 @@ shame! Give this glass to me. Open your hand, sir. I WILL have it!”
 But Neville throws him off, and pauses for an instant, in a raging
 passion, with the goblet yet in his uplifted hand. Then, he dashes it
 down under the grate, with such force that the broken splinters fly out
-again in a shower; and he leaves the house.
+again in a shower; and he [[Leaves|leaves]] the [[house]].
 
-When he first emerges into the night air, nothing around him is still
+When he first emerges into the [[Night|night]] air, nothing around him is still
 or steady; nothing around him shows like what it is; he only knows that
-he stands with a bare head in the midst of a blood-red whirl, waiting
-to be struggled with, and to struggle to the death.
+he stands with a bare head in the midst of a [[Blood|blood]]-red whirl, waiting
+to be struggled with, and to struggle to the [[Death|death]].
 
-But, nothing happening, and the moon looking down upon him as if he
+But, nothing happening, and the [[Moon|moon]] looking down upon him as if he
 were dead after a fit of wrath, he holds his steam-hammer beating head
 and heart, and staggers away. Then, he becomes half-conscious of having
 heard himself bolted and barred out, like a dangerous animal; and
 thinks what shall he do?
 
-Some wildly passionate ideas of the river dissolve under the spell of
-the moonlight on the Cathedral and the graves, and the remembrance of
+Some wildly passionate ideas of the [[River|river]] dissolve under the spell of
+the moonlight on the [[Cathedral]] and the graves, and the remembrance of
 his sister, and the thought of what he owes to the good man who has but
 that very day won his confidence and given him his pledge. He repairs
 to Minor Canon Corner, and knocks softly at the door.
 
 It is Mr. Crisparkle’s custom to sit up last of the early household,
 very softly touching his piano and practising his favourite parts in
-concerted vocal music. The south wind that goes where it lists, by way
-of Minor Canon Corner on a still night, is not more subdued than Mr.
+concerted vocal music. The south [[Wind|wind]] that goes where it lists, by way
+of Minor Canon Corner on a still [[Night|night]], is not more subdued than Mr.
 Crisparkle at such times, regardful of the slumbers of the china
 shepherdess.
 
@@ -371,7 +371,7 @@ him into his own little book-room, and shuts the door.
 
 “Too true. You are not sober, Mr. Neville.”
 
-“I am afraid I am not, sir, though I can satisfy you at another time
+“I am afraid I am not, sir, though I can satisfy you at another [[Time|time]]
 that I have had a very little indeed to drink, and that it overcame me
 in the strangest and most sudden manner.”
 
@@ -384,14 +384,14 @@ Mr. Jasper’s nephew, sir.”
 “Very likely,” is the dry rejoinder.
 
 “We quarrelled, sir. He insulted me most grossly. He had heated that
-tigerish blood I told you of to-day, before then.”
+tigerish [[Blood|blood]] I told you of to-day, before then.”
 
 “Mr. Neville,” rejoins the Minor Canon, mildly, but firmly: “I request
 you not to speak to me with that clenched right hand. Unclench it, if
 you please.”
 
 “He goaded me, sir,” pursues the young man, instantly obeying, “beyond
-my power of endurance. I cannot say whether or no he meant it at first,
+my power of [[Endurance|endurance]]. I cannot say whether or no he meant it at first,
 but he did it. He certainly meant it at last. In short, sir,” with an
 irrepressible outburst, “in the passion into which he lashed me, I
 would have cut him down if I could, and I tried to do it.”
@@ -403,20 +403,20 @@ commentary.
 
 “You know your room, for I showed it you before dinner; but I will
 accompany you to it once more. Your arm, if you please. Softly, for the
-house is all a-bed.”
+[[house]] is all a-bed.”
 
 Scooping his hand into the same scientific elbow-rest as before, and
 backing it up with the inert strength of his arm, as skilfully as a
-Police Expert, and with an apparent repose quite unattainable by
+Police Expert, and with an apparent repose quite [[Unattainable|unattainable]] by
 novices, Mr. Crisparkle conducts his pupil to the pleasant and orderly
 old room prepared for him. Arrived there, the young man throws himself
 into a chair, and, flinging his arms upon his reading-table, rests his
-head upon them with an air of wretched self-reproach.
+head upon them with an air of wretched [[Self|self]]-reproach.
 
 The gentle Minor Canon has had it in his thoughts to leave the room,
 without a word. But looking round at the door, and seeing this dejected
 figure, he turns back to it, touches it with a mild hand, says “Good
-night!” A sob is his only acknowledgment. He might have had many a
+[[Night|night]]!” A sob is his only acknowledgment. He might have had many a
 worse; perhaps, could have had few better.
 
 Another soft knock at the outer door attracts his attention as he goes
@@ -433,28 +433,28 @@ Mr. Crisparkle remonstrates: “No, no, no. Do not use such strong
 words.”
 
 “He might have laid my dear boy dead at my feet. It is no fault of his,
-that he did not. But that I was, through the mercy of God, swift and
+that he did not. But that I was, through the [[Mercy|mercy]] of God, swift and
 strong with him, he would have cut him down on my hearth.”
 
-The phrase smites home. “Ah!” thinks Mr. Crisparkle, “his own words!”
+The phrase smites [[Home|home]]. “Ah!” thinks Mr. Crisparkle, “his own words!”
 
-“Seeing what I have seen to-night, and hearing what I have heard,” adds
+“Seeing what I have seen to-[[Night|night]], and hearing what I have heard,” adds
 Jasper, with great earnestness, “I shall never know peace of mind when
 there is danger of those two coming together, with no one else to
 interfere. It was horrible. There is something of the tiger in his dark
-blood.”
+[[Blood|blood]].”
 
 “Ah!” thinks Mr. Crisparkle, “so he said!”
 
 “You, my dear sir,” pursues Jasper, taking his hand, “even you, have
 accepted a dangerous charge.”
 
-“You need have no fear for me, Jasper,” returns Mr. Crisparkle, with a
+“You need have no [[Fear|fear]] for me, Jasper,” returns Mr. Crisparkle, with a
 quiet smile. “I have none for myself.”
 
 “I have none for myself,” returns Jasper, with an emphasis on the last
 pronoun, “because I am not, nor am I in the way of being, the object of
-his hostility. But you may be, and my dear boy has been. Good night!”
+his hostility. But you may be, and my dear boy has been. Good [[Night|night]]!”
 
 Mr. Crisparkle goes in, with the hat that has so easily, so almost
 imperceptibly, acquired the right to be hung up in his hall; hangs it

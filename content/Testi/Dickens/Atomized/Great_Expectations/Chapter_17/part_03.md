@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 17 (part 3)"
+title: "[[Great Expectations]] — Chapter 17 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -14,44 +14,44 @@ tags:
 </nav>
 
 
-We talked a good deal as we walked, and all that Biddy said seemed
-right. Biddy was never insulting, or capricious, or Biddy to-day and
-somebody else to-morrow; she would have derived only pain, and no
-pleasure, from giving me pain; she would far rather have wounded her
+We talked a good deal as we walked, and all that [[Biddy]] said seemed
+right. [[Biddy]] was never insulting, or capricious, or [[Biddy]] to-day and
+somebody else to-morrow; she would have derived only [[Pain|pain]], and no
+pleasure, from giving me [[Pain|pain]]; she would far rather have wounded her
 own breast than mine. How could it be, then, that I did not like her
 much the better of the two?
 
-“Biddy,” said I, when we were walking homeward, “I wish you could put
+“[[Biddy]],” said I, when we were walking homeward, “I wish you could put
 me right.”
 
-“I wish I could!” said Biddy.
+“I wish I could!” said [[Biddy]].
 
-“If I could only get myself to fall in love with you,—you don’t mind my
+“If I could only get myself to fall in [[Love|love]] with you,—you don’t mind my
 speaking so openly to such an old acquaintance?”
 
-“Oh dear, not at all!” said Biddy. “Don’t mind me.”
+“Oh dear, not at all!” said [[Biddy]]. “Don’t mind me.”
 
 “If I could only get myself to do it, _that_ would be the thing for
 me.”
 
-“But you never will, you see,” said Biddy.
+“But you never will, you see,” said [[Biddy]].
 
 It did not appear quite so unlikely to me that evening, as it would
 have done if we had discussed it a few hours before. I therefore
-observed I was not quite sure of that. But Biddy said she _was_, and
+observed I was not quite sure of that. But [[Biddy]] said she _was_, and
 she said it decisively. In my heart I believed her to be right; and yet
 I took it rather ill, too, that she should be so positive on the point.
 
-When we came near the churchyard, we had to cross an embankment, and
+When we came near the churchyard, we had to [[Cross|cross]] an embankment, and
 get over a stile near a sluice-gate. There started up, from the gate,
 or from the rushes, or from the ooze (which was quite in his stagnant
 way), Old Orlick.
 
 “Halloa!” he growled, “where are you two going?”
 
-“Where should we be going, but home?”
+“Where should we be going, but [[Home|home]]?”
 
-“Well, then,” said he, “I’m jiggered if I don’t see you home!”
+“[[Well]], then,” said he, “I’m jiggered if I don’t see you [[Home|home]]!”
 
 This penalty of being jiggered was a favourite supposititious case of
 his. He attached no definite meaning to the word that I am aware of,
@@ -60,14 +60,14 @@ and convey an idea of something savagely damaging. When I was younger,
 I had had a general belief that if he had jiggered me personally, he
 would have done it with a sharp and twisted hook.
 
-Biddy was much against his going with us, and said to me in a whisper,
+[[Biddy]] was much against his going with us, and said to me in a whisper,
 “Don’t let him come; I don’t like him.” As I did not like him either, I
 took the liberty of saying that we thanked him, but we didn’t want
-seeing home. He received that piece of information with a yell of
+seeing [[Home|home]]. He received that piece of information with a yell of
 laughter, and dropped back, but came slouching after us at a little
 distance.
 
-Curious to know whether Biddy suspected him of having had a hand in
+Curious to know whether [[Biddy]] suspected him of having had a hand in
 that murderous attack of which my sister had never been able to give
 any account, I asked her why she did not like him.
 
@@ -76,47 +76,47 @@ any account, I asked her why she did not like him.
 
 “Did he ever tell you he liked you?” I asked indignantly.
 
-“No,” said Biddy, glancing over her shoulder again, “he never told me
+“No,” said [[Biddy]], glancing over her shoulder again, “he never told me
 so; but he dances at me, whenever he can catch my eye.”
 
-However novel and peculiar this testimony of attachment, I did not
-doubt the accuracy of the interpretation. I was very hot indeed upon
+However [[Novel|novel]] and peculiar this testimony of attachment, I did not
+[[Doubt|doubt]] the accuracy of the interpretation. I was very hot indeed upon
 Old Orlick’s daring to admire her; as hot as if it were an outrage on
 myself.
 
-“But it makes no difference to you, you know,” said Biddy, calmly.
+“But it makes no difference to you, you know,” said [[Biddy]], calmly.
 
-“No, Biddy, it makes no difference to me; only I don’t like it; I don’t
+“No, [[Biddy]], it makes no difference to me; only I don’t like it; I don’t
 approve of it.”
 
-“Nor I neither,” said Biddy. “Though _that_ makes no difference to
+“Nor I neither,” said [[Biddy]]. “Though _that_ makes no difference to
 you.”
 
 “Exactly,” said I; “but I must tell you I should have no opinion of
-you, Biddy, if he danced at you with your own consent.”
+you, [[Biddy]], if he danced at you with your own consent.”
 
-I kept an eye on Orlick after that night, and, whenever circumstances
-were favourable to his dancing at Biddy, got before him to obscure that
+I kept an eye on Orlick after that [[Night|night]], and, whenever circumstances
+were favourable to his dancing at [[Biddy]], got before him to obscure that
 demonstration. He had struck root in Joe’s establishment, by reason of
 my sister’s sudden fancy for him, or I should have tried to get him
 dismissed. He quite understood and reciprocated my good intentions, as
 I had reason to know thereafter.
 
 And now, because my mind was not confused enough before, I complicated
-its confusion fifty thousand-fold, by having states and seasons when I
-was clear that Biddy was immeasurably better than Estella, and that the
+its confusion fifty thousand-fold, by having states and [[Seasons|seasons]] when I
+was clear that [[Biddy]] was immeasurably better than [[Estella]], and that the
 plain honest working life to which I was born had nothing in it to be
-ashamed of, but offered me sufficient means of self-respect and
+ashamed of, but offered me sufficient means of [[Self|self]]-respect and
 happiness. At those times, I would decide conclusively that my
 disaffection to dear old Joe and the forge was gone, and that I was
 growing up in a fair way to be partners with Joe and to keep company
-with Biddy,—when all in a moment some confounding remembrance of the
+with [[Biddy]],—when all in a moment some confounding remembrance of the
 Havisham days would fall upon me like a destructive missile, and
-scatter my wits again. Scattered wits take a long time picking up; and
-often before I had got them well together, they would be dispersed in
+scatter my wits again. Scattered wits take a long [[Time|time]] picking up; and
+often before I had got them [[Well|well]] together, they would be dispersed in
 all directions by one stray thought, that perhaps after all Miss
-Havisham was going to make my fortune when my time was out.
+Havisham was going to make my fortune when my [[Time|time]] was out.
 
-If my time had run out, it would have left me still at the height of my
+If my [[Time|time]] had run out, it would have left me still at the height of my
 perplexities, I dare say. It never did run out, however, but was
 brought to a premature end, as I proceed to relate.

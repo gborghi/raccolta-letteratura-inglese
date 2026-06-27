@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 37 (part 4)"
+title: "[[Jane Eyre]] — Chapter 37 (part 4)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -33,11 +33,11 @@ substantiality.”
 
 “Who have you been with, Jane?”
 
-“You shall not get it out of me to-night, sir; you must wait till
+“You shall not get it out of me to-[[Night|night]], sir; you must wait till
 to-morrow; to leave my tale half told, will, you know, be a sort of
 security that I shall appear at your breakfast table to finish it. By
 the bye, I must mind not to rise on your hearth with only a glass of
-water then: I must bring an egg at the least, to say nothing of fried
+[[Water|water]] then: I must bring an egg at the least, to say nothing of fried
 ham.”
 
 “You mocking changeling—fairy-born and human-bred! You make me feel as
@@ -47,14 +47,14 @@ harp.”
 
 “There, sir, you are redd up and made decent. Now I’ll leave you: I
 have been travelling these last three days, and I believe I am tired.
-Good night.”
+Good [[Night|night]].”
 
-“Just one word, Jane: were there only ladies in the house where you
+“Just one word, Jane: were there only ladies in the [[house]] where you
 have been?”
 
 I laughed and made my escape, still laughing as I ran upstairs. “A good
 idea!” I thought with glee. “I see I have the means of fretting him out
-of his melancholy for some time to come.”
+of his [[Melancholy|melancholy]] for some [[Time|time]] to come.”
 
 Very early the next morning I heard him up and astir, wandering from
 one room to another. As soon as Mary came down I heard the question:
@@ -82,19 +82,19 @@ I had wakened the glow: his features beamed.
 
 “Oh, you are indeed there, my skylark! Come to me. You are not gone:
 not vanished? I heard one of your kind an hour ago, singing high over
-the wood: but its song had no music for me, any more than the rising
+the wood: but its [[Song|song]] had no music for me, any more than the rising
 sun had rays. All the melody on earth is concentrated in my Jane’s
 tongue to my ear (I am glad it is not naturally a silent one): all the
 sunshine I can feel is in her presence.”
 
-The water stood in my eyes to hear this avowal of his dependence; just
+The [[Water|water]] stood in my eyes to hear this avowal of his dependence; just
 as if a royal eagle, chained to a perch, should be forced to entreat a
 sparrow to become its purveyor. But I would not be lachrymose: I dashed
 off the salt drops, and busied myself with preparing breakfast.
 
 Most of the morning was spent in the open air. I led him out of the wet
 and wild wood into some cheerful fields: I described to him how
-brilliantly green they were; how the flowers and hedges looked
+brilliantly green they were; how the [[Flowers|flowers]] and hedges looked
 refreshed; how sparklingly blue was the sky. I sought a seat for him in
 a hidden and lovely spot, a dry stump of a tree; nor did I refuse to
 let him, when seated, place me on his knee. Why should I, when both he
@@ -113,21 +113,21 @@ did she do? Let me hear now.”
 Thus urged, I began the narrative of my experience for the last year. I
 softened considerably what related to the three days of wandering and
 starvation, because to have told him all would have been to inflict
-unnecessary pain: the little I did say lacerated his faithful heart
+unnecessary [[Pain|pain]]: the little I did say lacerated his faithful heart
 deeper than I wished.
 
 I should not have left him thus, he said, without any means of making
 my way: I should have told him my intention. I should have confided in
 him: he would never have forced me to be his mistress. Violent as he
-had seemed in his despair, he, in truth, loved me far too well and too
-tenderly to constitute himself my tyrant: he would have given me half
+had seemed in his [[Despair|despair]], he, in [[Truth|truth]], loved me far too [[Well|well]] and too
+tenderly to constitute himself my [[Tyrant|tyrant]]: he would have given me half
 his fortune, without demanding so much as a kiss in return, rather than
 I should have flung myself friendless on the wide world. I had endured,
 he was certain, more than I had confessed to him.
 
-“Well, whatever my sufferings had been, they were very short,” I
+“[[Well]], whatever my sufferings had been, they were very short,” I
 answered: and then I proceeded to tell him how I had been received at
-Moor House; how I had obtained the office of schoolmistress, &c. The
+Moor [[house|House]]; how I had obtained the office of schoolmistress, &c. The
 accession of fortune, the discovery of my relations, followed in due
 order. Of course, St. John Rivers’ name came in frequently in the
 progress of my tale. When I had done, that name was immediately taken
@@ -141,5 +141,5 @@ up.
 
 “He was a very good man, sir; I could not help liking him.”
 
-“A good man. Does that mean a respectable well-conducted man of fifty?
+“A good man. Does that mean a respectable [[Well|well]]-conducted man of fifty?
 Or what does it mean?”

@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 49 (part 3)"
+title: "[[Sense and Sensibility]] — Chapter 49 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -14,19 +14,19 @@ tags:
 </nav>
 
 
-meanness of wanton ill-nature. Though his eyes had been long opened,
+meanness of wanton ill-[[Nature|nature]]. Though his eyes had been long opened,
 
 even before his acquaintance with Elinor began, to her ignorance and a
 
 want of liberality in some of her opinions—they had been equally
 
-imputed, by him, to her want of education; and till her last letter
+imputed, by him, to her want of [[Education|education]]; and till her last letter
 
-reached him, he had always believed her to be a well-disposed,
+reached him, he had always believed her to be a [[Well|well]]-disposed,
 
 good-hearted girl, and thoroughly attached to himself. Nothing but such
 
-a persuasion could have prevented his putting an end to an engagement,
+a [[Persuasion|persuasion]] could have prevented his putting an end to an engagement,
 
 which, long before the discovery of it laid him open to his mother’s
 
@@ -42,7 +42,7 @@ renounced by my mother, and stood to all appearance without a friend in
 
 the world to assist me. In such a situation as that, where there seemed
 
-nothing to tempt the avarice or the vanity of any living creature, how
+nothing to tempt the avarice or the [[Vanity|vanity]] of any living creature, how
 
 could I suppose, when she so earnestly, so warmly insisted on sharing
 
@@ -56,13 +56,13 @@ be to her, to be fettered to a man for whom she had not the smallest
 
 regard, and who had only two thousand pounds in the world. She could
 
-not foresee that Colonel Brandon would give me a living.”
+not foresee that [[Colonel Brandon]] would give me a living.”
 
 
 
 “No; but she might suppose that something would occur in your favour;
 
-that your own family might in time relent. And at any rate, she lost
+that your own family might in [[Time|time]] relent. And at any rate, she lost
 
 nothing by continuing the engagement, for she has proved that it
 
@@ -78,7 +78,7 @@ be better for her to marry _you_ than be single.”
 
 Edward was, of course, immediately convinced that nothing could have
 
-been more natural than Lucy’s conduct, nor more self-evident than the
+been more natural than Lucy’s conduct, nor more [[Self|self]]-evident than the
 
 motive of it.
 
@@ -86,7 +86,7 @@ motive of it.
 
 Elinor scolded him, harshly as ladies always scold the imprudence which
 
-compliments themselves, for having spent so much time with them at
+compliments themselves, for having spent so much [[Time|time]] with them at
 
 Norland, when he must have felt his own inconstancy.
 
@@ -112,9 +112,9 @@ another, there could be no danger in my being with you; and that the
 
 consciousness of my engagement was to keep my heart as safe and sacred
 
-as my honour. I felt that I admired you, but I told myself it was only
+as my [[Honour|honour]]. I felt that I admired you, but I told myself it was only
 
-friendship; and till I began to make comparisons between yourself and
+[[Friendship|friendship]]; and till I began to make comparisons between yourself and
 
 Lucy, I did not know how far I was got. After that, I suppose, I _was_
 
@@ -132,7 +132,7 @@ Elinor smiled, and shook her head.
 
 
 
-Edward heard with pleasure of Colonel Brandon’s being expected at the
+Edward heard with pleasure of [[Colonel Brandon]]’s being expected at the
 
 Cottage, as he really wished not only to be better acquainted with him,
 
@@ -150,11 +150,11 @@ _Now_ he felt astonished himself that he had never yet been to the
 
 place. But so little interest had he taken in the matter, that he owed
 
-all his knowledge of the house, garden, and glebe, extent of the
+all his knowledge of the [[house]], [[Garden|garden]], and glebe, extent of the
 
 parish, condition of the land, and rate of the tithes, to Elinor
 
-herself, who had heard so much of it from Colonel Brandon, and heard it
+herself, who had heard so much of it from [[Colonel Brandon]], and heard it
 
 with so much attention, as to be entirely mistress of the subject.
 
@@ -176,7 +176,7 @@ that they could call their own; for it was impossible that Mrs.
 
 Dashwood should advance anything; and they were neither of them quite
 
-enough in love to think that three hundred and fifty pounds a-year
+enough in [[Love|love]] to think that three hundred and fifty pounds a-year
 
 would supply them with the comforts of life.
 
@@ -192,25 +192,25 @@ be unable to marry Miss Morton, and his chusing herself had been spoken
 
 of in Mrs. Ferrars’s flattering language as only a lesser evil than his
 
-chusing Lucy Steele, she feared that Robert’s offence would serve no
+chusing [[Lucy Steele]], she feared that Robert’s offence would serve no
 
 other purpose than to enrich Fanny.
 
 
 
-About four days after Edward’s arrival Colonel Brandon appeared, to
+About four days after Edward’s arrival [[Colonel Brandon]] appeared, to
 
 complete Mrs. Dashwood’s satisfaction, and to give her the dignity of
 
-having, for the first time since her living at Barton, more company
+having, for the first [[Time|time]] since her living at Barton, more company
 
-with her than her house would hold. Edward was allowed to retain the
+with her than her [[house]] would hold. Edward was allowed to retain the
 
-privilege of first comer, and Colonel Brandon therefore walked every
+privilege of first comer, and [[Colonel Brandon]] therefore walked every
 
-night to his old quarters at the Park; from whence he usually returned
+[[Night|night]] to his old quarters at the Park; from whence he usually returned
 
-in the morning, early enough to interrupt the lovers’ first tête-à-tête
+in the morning, early enough to interrupt the [[lovers]]’ first tête-à-tête
 
 before breakfast.
 

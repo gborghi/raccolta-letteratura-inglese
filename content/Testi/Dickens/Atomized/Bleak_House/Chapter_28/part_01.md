@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 28 (part 1)"
+title: "Bleak [[house|House]] — Chapter 28 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -19,26 +19,26 @@ CHAPTER XXVIII
 The Ironmaster
 
 
-Sir Leicester Dedlock has got the better, for the time being, of the
+[[Sir Leicester Dedlock]] has got the better, for the [[Time|time]] being, of the
 family gout and is once more, in a literal no less than in a
 figurative point of view, upon his legs. He is at his place in
 Lincolnshire; but the waters are out again on the low-lying grounds,
-and the cold and damp steal into Chesney Wold, though well defended,
+and the cold and damp steal into Chesney Wold, though [[Well|well]] defended,
 and eke into Sir Leicester’s bones. The blazing fires of faggot and
 coal—Dedlock timber and antediluvian forest—that blaze upon the
 broad wide hearths and wink in the twilight on the frowning woods,
 sullen to see how trees are sacrificed, do not exclude the enemy. The
-hot-water pipes that trail themselves all over the house, the
+hot-[[Water|water]] pipes that trail themselves all over the [[house]], the
 cushioned doors and windows, and the screens and curtains fail to
 supply the fires’ deficiencies and to satisfy Sir Leicester’s need.
 Hence the fashionable intelligence proclaims one morning to the
-listening earth that Lady Dedlock is expected shortly to return to
+listening earth that [[Lady Dedlock]] is expected shortly to return to
 town for a few weeks.
 
-It is a melancholy truth that even great men have their poor
+It is a [[Melancholy|melancholy]] [[Truth|truth]] that even great men have their poor
 relations. Indeed great men have often more than their fair share of
-poor relations, inasmuch as very red blood of the superior quality,
-like inferior blood unlawfully shed, WILL cry aloud and WILL be
+poor relations, inasmuch as very red [[Blood|blood]] of the superior quality,
+like inferior [[Blood|blood]] unlawfully shed, WILL cry aloud and WILL be
 heard. Sir Leicester’s cousins, in the remotest degree, are so many
 Murders in the respect that they “will out.” Among whom there are
 cousins who are so poor that one might almost dare to think it would
@@ -55,20 +55,20 @@ that are never of their own making, and so go through high life. The
 rich family sum has been divided by so many figures, and they are the
 something over that nobody knows what to do with.
 
-Everybody on Sir Leicester Dedlock’s side of the question and of his
+Everybody on [[Sir Leicester Dedlock]]’s side of the question and of his
 way of thinking would appear to be his cousin more or less. From my
 Lord Boodle, through the Duke of Foodle, down to Noodle, Sir
 Leicester, like a glorious spider, stretches his threads of
 relationship. But while he is stately in the cousinship of the
 Everybodys, he is a kind and generous man, according to his dignified
-way, in the cousinship of the Nobodys; and at the present time, in
+way, in the cousinship of the Nobodys; and at the present [[Time|time]], in
 despite of the damp, he stays out the visit of several such cousins
 at Chesney Wold with the constancy of a martyr.
 
-Of these, foremost in the front rank stands Volumnia Dedlock, a young
-lady (of sixty) who is doubly highly related, having the honour to be
+Of these, foremost in the front rank stands [[Volumnia]] Dedlock, a young
+lady (of sixty) who is doubly highly related, having the [[Honour|honour]] to be
 a poor relation, by the mother’s side, to another great family. Miss
-Volumnia, displaying in early life a pretty talent for cutting
+[[Volumnia]], displaying in early life a pretty talent for cutting
 ornaments out of coloured paper, and also for singing to the guitar
 in the Spanish tongue, and propounding French conundrums in country
 houses, passed the twenty years of her existence between twenty and
@@ -79,43 +79,43 @@ an annual present from Sir Leicester and whence she makes occasional
 resurrections in the country houses of her cousins. She has an
 extensive acquaintance at Bath among appalling old gentlemen with
 thin legs and nankeen trousers, and is of high standing in that
-dreary city. But she is a little dreaded elsewhere in consequence of
+dreary [[City|city]]. But she is a little dreaded elsewhere in consequence of
 an indiscreet profusion in the article of rouge and persistency in an
 obsolete pearl necklace like a rosary of little bird’s-eggs.
 
-In any country in a wholesome state, Volumnia would be a clear case
+In any country in a wholesome state, [[Volumnia]] would be a clear case
 for the pension list. Efforts have been made to get her on it, and
 when William Buffy came in, it was fully expected that her name would
 be put down for a couple of hundred a year. But William Buffy somehow
 discovered, contrary to all expectation, that these were not the
 times when it could be done, and this was the first clear indication
-Sir Leicester Dedlock had conveyed to him that the country was going
+[[Sir Leicester Dedlock]] had conveyed to him that the country was going
 to pieces.
 
 There is likewise the Honourable Bob Stables, who can make warm
 mashes with the skill of a veterinary surgeon and is a better shot
-than most gamekeepers. He has been for some time particularly
+than most gamekeepers. He has been for some [[Time|time]] particularly
 desirous to serve his country in a post of good emoluments,
-unaccompanied by any trouble or responsibility. In a well-regulated
-body politic this natural desire on the part of a spirited young
+unaccompanied by any trouble or responsibility. In a [[Well|well]]-regulated
+[[Body|body]] politic this natural [[Desire|desire]] on the part of a spirited young
 gentleman so highly connected would be speedily recognized, but
 somehow William Buffy found when he came in that these were not times
 in which he could manage that little matter either, and this was the
-second indication Sir Leicester Dedlock had conveyed to him that the
+second indication [[Sir Leicester Dedlock]] had conveyed to him that the
 country was going to pieces.
 
 The rest of the cousins are ladies and gentlemen of various ages and
 capacities, the major part amiable and sensible and likely to have
-done well enough in life if they could have overcome their
+done [[Well|well]] enough in life if they could have overcome their
 cousinship; as it is, they are almost all a little worsted by it, and
 lounge in purposeless and listless paths, and seem to be quite as
 much at a loss how to dispose of themselves as anybody else can be
 how to dispose of them.
 
-In this society, and where not, my Lady Dedlock reigns supreme.
+In this society, and where not, my [[Lady Dedlock]] reigns supreme.
 Beautiful, elegant, accomplished, and powerful in her little world
 (for the world of fashion does not stretch ALL the way from pole to
-pole), her influence in Sir Leicester’s house, however haughty and
+pole), her influence in Sir Leicester’s [[house]], however haughty and
 indifferent her manner, is greatly to improve it and refine it. The
 cousins, even those older cousins who were paralysed when Sir
 Leicester married her, do her feudal homage; and the Honourable Bob

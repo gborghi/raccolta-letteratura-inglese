@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 11 (part 2)"
+title: "[[thursday]] — Chapter 11 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -14,10 +14,10 @@ tags:
 </nav>
 
 
-"As a lecture on English history for the little ones," said Syme,
+"As a lecture on English [[history]] for the little ones," said Syme,
 "this is all very nice; but I have not yet grasped its application."
 
-"Its application is," said his informant, "that most of old Sunday's
+"Its application is," said his informant, "that most of old [[Sunday]]'s
 right-hand men are South African and American millionaires.
 That is why he has got hold of all the communications;
 and that is why the last four champions of the anti-anarchist
@@ -26,24 +26,24 @@ police force are running through a wood like rabbits."
 "Millionaires I can understand," said Syme thoughtfully, "they are nearly
 all mad.  But getting hold of a few wicked old gentlemen with hobbies
 is one thing; getting hold of great Christian nations is another.
-I would bet the nose off my face (forgive the allusion) that Sunday would
+I would bet the nose off my face (forgive the allusion) that [[Sunday]] would
 stand perfectly helpless before the task of converting any ordinary
 healthy person anywhere."
 
-"Well," said the other, "it rather depends what sort of person you mean."
+"[[Well]]," said the other, "it rather depends what sort of person you mean."
 
-"Well, for instance," said Syme, "he could never convert that person,"
+"[[Well]], for instance," said Syme, "he could never [[convert]] that person,"
 and he pointed straight in front of him.
 
 They had come to an open space of sunlight, which seemed
 to express to Syme the final return of his own good sense;
 and in the middle of this forest clearing was a figure that might
-well stand for that common sense in an almost awful actuality.
-Burnt by the sun and stained with perspiration, and grave
+[[Well|well]] stand for that common sense in an almost awful actuality.
+Burnt by the sun and stained with perspiration, and [[Grave|grave]]
 with the bottomless gravity of small necessary toils,
 a heavy French peasant was cutting wood with a hatchet.
 His cart stood a few yards off, already half full of timber;
-and the horse that cropped the grass was, like his master,
+and the [[Horse|horse]] that cropped the grass was, like his master,
 valorous but not desperate; like his master, he was
 even prosperous, but yet was almost sad.  The man was a Norman,
 taller than the average of the French and very angular;
@@ -63,7 +63,7 @@ But I forgot that in your country you are not used to peasants being wealthy."
 "Quite so," said the Colonel; "that is why he is rich."
 
 "I have an idea," called out Dr. Bull suddenly; "how much would
-he take to give us a lift in his cart?  Those dogs are all on foot,
+he take to give us a lift in his cart?  Those [[dogs]] are all on foot,
 and we could soon leave them behind."
 
 "Oh, give him anything!" said Syme eagerly.  "I have piles
@@ -83,7 +83,7 @@ pursuers behind them, they had to stand and stamp while the French Colonel
 talked to the French wood-cutter with all the leisurely badinage
 and bickering of market-day. At the end of the four minutes, however,
 they saw that the Colonel was right, for the wood-cutter entered into
-their plans, not with the vague servility of a tout too-well paid,
+their plans, not with the vague servility of a tout too-[[Well|well]] paid,
 but with the seriousness of a solicitor who had been paid the proper fee.
 He told them that the best thing they could do was to make their way
 down to the little inn on the hills above Lancy, where the innkeeper,
@@ -94,7 +94,7 @@ of wood, and went rocking in the rude cart down the other and steeper
 side of the woodland.  Heavy and ramshackle as was the vehicle,
 it was driven quickly enough, and they soon had the exhilarating
 impression of distancing altogether those, whoever they were,
-who were hunting them.  For, after all, the riddle as to where
+who were hunting them.  For, after all, the [[Riddle|riddle]] as to where
 the anarchists had got all these followers was still unsolved.
 One man's presence had sufficed for them; they had fled at the first
 sight of the deformed smile of the Secretary.  Syme every now and then
@@ -116,23 +116,23 @@ like a staring army of automatons.
 
 Syme pointed this out to Ratcliffe.
 
-"Yes," replied the policeman, "that's discipline.  That's Sunday.  He is
-perhaps five hundred miles off, but the fear of him is on all of them,
+"Yes," replied the policeman, "that's discipline.  That's [[Sunday]].  He is
+perhaps five hundred miles off, but the [[Fear|fear]] of him is on all of them,
 like the finger of God.  Yes, they are walking regularly; and you bet
 your boots that they are talking regularly, yes, and thinking regularly.
 But the one important thing for us is that they are disappearing regularly."
 
 Syme nodded.  It was true that the black patch of the pursuing men
-was growing smaller and smaller as the peasant belaboured his horse.
+was growing smaller and smaller as the peasant belaboured his [[Horse|horse]].
 
 The level of the sunlit landscape, though flat as a whole, fell away
 on the farther side of the wood in billows of heavy slope towards
 the sea, in a way not unlike the lower slopes of the Sussex downs.
-The only difference was that in Sussex the road would have been
+The only difference was that in Sussex the [[Road|road]] would have been
 broken and angular like a little brook, but here the white
-French road fell sheer in front of them like a waterfall.
+French [[Road|road]] fell sheer in front of them like a waterfall.
 Down this direct descent the cart clattered at a considerable angle,
-and in a few minutes, the road growing yet steeper, they saw below
+and in a few minutes, the [[Road|road]] growing yet steeper, they saw below
 them the little harbour of Lancy and a great blue arc of the sea.
 The travelling cloud of their enemies had wholly disappeared
 from the horizon.

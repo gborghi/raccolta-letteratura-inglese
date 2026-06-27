@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Arrow of Heaven (part 8)"
+title: "[[Incredulity]] — The Arrow of Heaven (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -25,13 +25,13 @@ answered Peter Wain; `and I've heard the story that he's the son
 of old Horder, and that's why he's the avenger of blood.
 Anyhow, he's certainly looking for the man called Doom.'
 
-`Well,' said Father Brown, `he has found him.'
+`[[Well]],' said [[Father Brown]], `he has found him.'
 
 Peter Wain sprang to his feet in excitement.
 
 `The murderer!' he cried.  `Is the murderer in the lock--up already?'
 
-`No,' said Father Brown, gravely; `I said the news
+`No,' said [[Father Brown]], gravely; `I said the news
 was serious, and it's more serious than that.
 I'm afraid poor Wilton has taken a terrible responsibility.
 I'm afraid he's going to put a terrible responsibility on us.
@@ -55,7 +55,7 @@ if we lose our laws and liberties we shall regret it.
 Besides, it seems to me illogical to say there is something
 to be said for Wilton committing murder, without even inquiring
 whether there was anything to be said for Doom committing it.
-I rather doubt whether Doom was merely a vulgar assassin;
+I rather [[Doubt|doubt]] whether Doom was merely a vulgar assassin;
 he may have been a sort of outlaw with a mania about the cup,
 demanding it with threats and only killing after a struggle;
 both victims were thrown down just outside their houses.
@@ -71,11 +71,11 @@ and there's an end of it.'
 
 Father Brown's face had a yet heavier gravity as he looked slowly round
 the semicircle effaces.  `Is that really what you all think?' he asked.
-Even as he did so he realized that he was an Englishman and an exile.
+Even as he did so he realized that he was an Englishman and an [[Exile|exile]].
 He realized that he was among foreigners, even if he was among friends.
-Around that ring of foreigners ran a restless fire that was not
+Around that ring of foreigners ran a restless [[Fire|fire]] that was not
 native to his own breed; the fiercer spirit of the western nation
-that can rebel and lynch, and above all, combine.  He knew that they
+that can [[Rebel|rebel]] and lynch, and above all, combine.  He knew that they
 had already combined.
 
 `Well,' said Father Brown, with a sigh, `I am to understand, then,
@@ -84,7 +84,7 @@ or act of private justice, or whatever you call it.
 In that case it will not hurt him if I tell you a little
 more about it.'
 
-He rose suddenly to his feet; and though they saw no meaning
+He [[Rose|rose]] suddenly to his feet; and though they saw no meaning
 in his movement, it seemed in some way to change or chill
 the very air in the room.
 
@@ -110,7 +110,7 @@ Again there was a sort of strangled and yet swollen and bursting silence,
 and young Wain began:  `You mean--`
 
 `I mean that your friend Merton was Daniel Doom,'
-said Father Brown firmly;' and the only Daniel Doom you'll
+said [[Father Brown]] firmly;' and the only Daniel Doom you'll
 ever find.  Your friend Merton was always crazy after that
 Coptic Cup that he used to worship like an idol every day;
 and in his wild youth he had really killed two men
@@ -118,11 +118,11 @@ to get it, though I still think the deaths may have been
 in a sense accidents of the robbery.  Anyhow, he had it;
 and that man Drage knew the story and was blackmailing him.
 But Wilton was after him for a very different purpose; I fancy
-he only discovered the truth when he'd got into this house.
-But anyhow, it was in this house, and in that room, that this
+he only discovered the [[Truth|truth]] when he'd got into this [[house]].
+But anyhow, it was in this [[house]], and in that room, that this
 hunt ended, and he slew the slayer of his father.'
 
-For a long time nobody answered.  Then old Crake could be heard
+For a long [[Time|time]] nobody answered.  Then old Crake could be heard
 drumming with his fingers on the table and muttering:
 
 `Brander must have been mad.  He must have been mad.'
@@ -139,7 +139,7 @@ Father Brown struck the table so that the glasses on it rang;
 and they could almost fancy a ghostly echo from the mysterious
 chalice that still stood in the room beyond.
 
-`No!' he cried, in a voice like a pistol--shot.  `There shall
+`No!' he cried, in a voice like a [[Pistol|pistol]]--shot.  `There shall
 be no difference.  I gave you your chance of pitying
 the poor devil when you thought he was a common criminal.
 You wouldn't listen then; you were all for private vengeance then.
@@ -160,7 +160,7 @@ replied Father Brown.  `Your respect for the law comes rather late,
 Mr Barnard Blake.'
 
 After a pause he resumed in a milder tone:  'I, for one,
-am ready to tell the truth if the proper authorities ask me;
+am ready to tell the [[Truth|truth]] if the proper authorities ask me;
 and the rest of you can do as you like.  But as a fact,
 it will make very little difference.  Wilton only rang me up
 to tell me that I was now free to lay his confession before you;

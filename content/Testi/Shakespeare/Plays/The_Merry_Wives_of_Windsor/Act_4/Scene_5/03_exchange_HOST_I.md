@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| HOST | I will hear you, Master Fenton, and I will at the least keep your counsel. |
+| HOST | I will hear you, Master [[Fenton]], and I will at the least keep your counsel. |

@@ -18,7 +18,7 @@ Lizzie put up the pretty brown hair that came tumbling down, owing to
 the energy with which Bella shook her head; and she remonstrated while
 thus engaged, ‘My dear!’
 
-‘Oh, it’s all very well to call me your dear,’ said Bella, with a
+‘Oh, it’s all very [[Well|well]] to call me your dear,’ said Bella, with a
 pettish whimper, ‘and I am glad to be called so, though I have slight
 enough claim to be. But I AM such a nasty little thing!’
 
@@ -45,22 +45,22 @@ chatter like a Magpie.’
 wrong—what I thought I should never say to any one. Does that look
 ill?’
 
-‘No, I hope it doesn’t,’ pouted Bella, stopping herself in something
+‘No, I [[Hope|hope]] it doesn’t,’ pouted Bella, stopping herself in something
 between a humoured laugh and a humoured sob.
 
-‘I used once to see pictures in the fire,’ said Lizzie playfully, ‘to
-please my brother. Shall I tell you what I see down there where the fire
+‘I used once to see pictures in the [[Fire|fire]],’ said Lizzie playfully, ‘to
+please my brother. Shall I tell you what I see down there where the [[Fire|fire]]
 is glowing?’
 
-They had risen, and were standing on the hearth, the time being come for
+They had risen, and were standing on the hearth, the [[Time|time]] being come for
 separating; each had drawn an arm around the other to take leave.
 
 ‘Shall I tell you,’ asked Lizzie, ‘what I see down there?’
 
 ‘Limited little b?’ suggested Bella with her eyebrows raised.
 
-‘A heart well worth winning, and well won. A heart that, once won, goes
-through fire and water for the winner, and never changes, and is never
+‘A heart [[Well|well]] worth winning, and [[Well|well]] won. A heart that, once won, goes
+through [[Fire|fire]] and [[Water|water]] for the winner, and never changes, and is never
 daunted.’
 
 ‘Girl’s heart?’ asked Bella, with accompanying eyebrows.
@@ -82,9 +82,9 @@ remark.
 
 ‘I feel rather serious,’ returned Miss Wilfer.
 
-She had nothing else to tell him but that Lizzie Hexam’s secret had
+She had nothing else to tell him but that [[Lizzie Hexam]]’s secret had
 no reference whatever to the cruel charge, or its withdrawal. Oh yes
-though! said Bella; she might as well mention one other thing; Lizzie
+though! said Bella; she might as [[Well|well]] mention one other thing; Lizzie
 was very desirous to thank her unknown friend who had sent her the
 written retractation. Was she, indeed? observed the Secretary. Ah! Bella
 asked him, had he any notion who that unknown friend might be? He had no
@@ -97,18 +97,18 @@ and Bella and the Secretary, set out to walk to it. Few rustic paths are
 wide enough for five, and Bella and the Secretary dropped behind.
 
 ‘Can you believe, Mr Rokesmith,’ said Bella, ‘that I feel as if whole
-years had passed since I went into Lizzie Hexam’s cottage?’
+years had passed since I went into [[Lizzie Hexam]]’s cottage?’
 
 ‘We have crowded a good deal into the day,’ he returned, ‘and you were
 much affected in the churchyard. You are over-tired.’
 
 ‘No, I am not at all tired. I have not quite expressed what I mean. I
-don’t mean that I feel as if a great space of time had gone by, but that
+don’t mean that I feel as if a great space of [[Time|time]] had gone by, but that
 I feel as if much had happened—to myself, you know.’
 
-‘For good, I hope?’
+‘For good, I [[Hope|hope]]?’
 
-‘I hope so,’ said Bella.
+‘I [[Hope|hope]] so,’ said Bella.
 
 ‘You are cold; I felt you tremble. Pray let me put this wrapper of mine
 about you. May I fold it over this shoulder without injuring your dress?
@@ -124,7 +124,7 @@ she gave me her full confidence.’
 
 ‘She could not withhold it,’ said the Secretary.
 
-‘I wonder how you come,’ said Bella, stopping short as she glanced at
+‘I [[Wonder|wonder]] how you come,’ said Bella, stopping short as she glanced at
 him, ‘to say to me just what she said about it!’
 
 ‘I infer that it must be because I feel just as she felt about it.’
@@ -138,10 +138,10 @@ The railway, at this point, knowingly shutting a green eye and opening
 a red one, they had to run for it. As Bella could not run easily so
 wrapped up, the Secretary had to help her. When she took her opposite
 place in the carriage corner, the brightness in her face was so charming
-to behold, that on her exclaiming, ‘What beautiful stars and what a
-glorious night!’ the Secretary said ‘Yes,’ but seemed to prefer to see
-the night and the stars in the light of her lovely little countenance,
-to looking out of window.
+to behold, that on her exclaiming, ‘What beautiful [[Stars|stars]] and what a
+glorious [[Night|night]]!’ the Secretary said ‘Yes,’ but seemed to prefer to see
+the [[Night|night]] and the [[Stars|stars]] in the light of her lovely little countenance,
+to looking out of [[Window|window]].
 
 O boofer lady, fascinating boofer lady! If I were but legally executor
 of Johnny’s will! If I had but the right to pay your legacy and to take

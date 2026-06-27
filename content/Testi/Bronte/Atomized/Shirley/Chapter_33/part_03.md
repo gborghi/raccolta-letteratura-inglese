@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 33 (part 3)"
+title: "[[Shirley]] — Chapter 33 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -26,7 +26,7 @@ want of filial affection."
 
 
 
-"Martin, you are an evil cross between an imp and a page. What is she
+"Martin, you are an evil [[Cross|cross]] between an imp and a page. What is she
 
 like?"
 
@@ -56,7 +56,7 @@ chamber by a tall, thin, wasted figure, who took both her hands.
 
 "I give you a quarter of an hour," said Martin, as he withdrew, "no
 
-more. Say what you have to say in that time. Till it is past I will wait
+more. Say what you have to say in that [[Time|time]]. Till it is past I will wait
 
 in the gallery; nothing shall approach; I'll see you safe away. Should
 
@@ -64,9 +64,9 @@ you persist in staying longer, I leave you to your fate."
 
 
 
-He shut the door. In the gallery he was as elate as a king. He had never
+He shut the door. In the gallery he was as elate as a [[King|king]]. He had never
 
-been engaged in an adventure he liked so well, for no adventure had ever
+been engaged in an adventure he liked so [[Well|well]], for no adventure had ever
 
 invested him with so much importance or inspired him with so much
 
@@ -86,7 +86,7 @@ with hollow eyes.
 
 "For a month, near two months, we have been very near; and I have been
 
-in sad pain, and danger, and misery, Cary."
+in sad [[Pain|pain]], and danger, and misery, Cary."
 
 
 
@@ -100,7 +100,7 @@ miles apart."
 
 
 
-There was pain and there was pleasure in the girl's face as she listened
+There was [[Pain|pain]] and there was pleasure in the girl's face as she listened
 
 to these implied reproaches. It was sweet, it was bitter to defend
 
@@ -138,7 +138,7 @@ down and talk about it."
 
 They sat down. Caroline drew her chair up to his. The air was now dark
 
-with snow; an Iceland blast was driving it wildly. This pair neither
+with [[Snow|snow]]; an Iceland blast was driving it wildly. This pair neither
 
 heard the long "wuthering" rush, nor saw the white burden it drifted.
 
@@ -152,15 +152,15 @@ Each seemed conscious but of one thing--the presence of the other.
 
 "And Mrs. Yorke did treat us strangely. We asked to see you. 'No,' said
 
-she, 'not in my house. I am at present responsible for his life; it
+she, 'not in my [[house]]. I am at present responsible for his life; it
 
 shall not be forfeited for half an hour's idle gossip.' But I must not
 
 tell you all she said; it was very disagreeable. However, we came yet
 
-again--mamma, Miss Keeldar, and I. This time we thought we should
+again--mamma, Miss Keeldar, and I. This [[Time|time]] we thought we should
 
-conquer, as we were three against one, and Shirley was on our side. But
+conquer, as we were three against one, and [[Shirley]] was on our side. But
 
 Mrs. Yorke opened such a battery."
 
@@ -170,13 +170,13 @@ Moore smiled. "What did she say?"
 
 
 
-"Things that astonished us. Shirley laughed at last; I cried; mamma was
+"Things that astonished us. [[Shirley]] laughed at last; I cried; mamma was
 
 seriously annoyed. We were all three driven from the field. Since that
 
-time I have only walked once a day past the house, just for the
+[[Time|time]] I have only walked once a day past the [[house]], just for the
 
-satisfaction of looking up at your window, which I could distinguish by
+satisfaction of looking up at your [[Window|window]], which I could distinguish by
 
 the drawn curtains. I really dared not come in."
 
@@ -196,29 +196,29 @@ If I had but most distantly imagined such a possibility----"
 
 
 
-"She would not. Stratagem should have been tried, if persuasion failed.
+"She would not. Stratagem should have been tried, if [[Persuasion|persuasion]] failed.
 
 I would have come to the kitchen door; the servants should have let me
 
 in, and I would have walked straight upstairs. In fact, it was far more
 
-the fear of intrusion--the fear of yourself--that baffled me than the
+the [[Fear|fear]] of intrusion--the [[Fear|fear]] of yourself--that baffled me than the
 
-fear of Mrs. Yorke."
+[[Fear|fear]] of Mrs. Yorke."
 
 
 
-"Only last night I despaired of ever seeing you again. Weakness has
+"Only last [[Night|night]] I despaired of ever seeing you again. Weakness has
 
 wrought terrible depression in me--terrible depression."
 
 
 
-"And you sit alone?"
+"And you sit [[Alone|alone]]?"
 
 
 
-"Worse than alone."
+"Worse than [[Alone|alone]]."
 
 
 
@@ -226,13 +226,13 @@ wrought terrible depression in me--terrible depression."
 
 
 
-"I doubt whether I shall live. I see nothing for it, after such
+"I [[Doubt|doubt]] whether I shall live. I see nothing for it, after such
 
 exhaustion, but decline."
 
 
 
-"You--you shall go home to the Hollow."
+"You--you shall go [[Home|home]] to the Hollow."
 
 
 
@@ -270,15 +270,15 @@ mamma."
 
 
 
-"Do you suffer pain, Robert?"
+"Do you suffer [[Pain|pain]], Robert?"
 
 
 
-"Not so much pain now; but I am hopelessly weak, and the state of my
+"Not so much [[Pain|pain]] now; but I am hopelessly weak, and the state of my
 
 mind is inexpressible--dark, barren, impotent. Do you not read it all in
 
-my face? I look a mere ghost."
+my face? I look a mere [[Ghost|ghost]]."
 
 
 
@@ -294,9 +294,9 @@ very ill."
 
 
 
-"I thought I should die. The tale of my life seemed told. Every night,
+"I thought I should die. The tale of my life seemed told. Every [[Night|night]],
 
-just at midnight, I used to wake from awful dreams; and the book lay
+just at midnight, I used to wake from awful [[Dreams|dreams]]; and the book lay
 
 open before me at the last page, where was written 'Finis.' I had
 

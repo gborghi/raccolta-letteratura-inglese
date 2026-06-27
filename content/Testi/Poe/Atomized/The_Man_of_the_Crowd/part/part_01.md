@@ -1,5 +1,5 @@
 ---
-title: "The Man of the Crowd (part 1)"
+title: "[[The Man of the Crowd]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Man-of-the-Crowd-(Poe)"
@@ -17,18 +17,18 @@ tags:
 Ce grand malheur, de ne pouvoir être seul.—_La Bruyère_.
 
 
-      It was well said of a certain German book that “_er lasst sich nicht
+      It was [[Well|well]] said of a certain German book that “_er lasst sich nicht
       lesen_”—it does not permit itself to be read. There are some
-      secrets which do not permit themselves to be told. Men die nightly in
+      [[Secrets|secrets]] which do not permit themselves to be told. Men die nightly in
       their beds, wringing the hands of ghostly confessors and looking them
-      piteously in the eyes—die with despair of heart and convulsion of
+      piteously in the eyes—die with [[Despair|despair]] of heart and convulsion of
       throat, on account of the hideousness of mysteries which will not suffer
-      themselves to be revealed. Now and then, alas, the conscience of man takes
+      themselves to be revealed. Now and then, alas, the [[Conscience|conscience]] of man takes
       up a burthen so heavy in horror that it can be thrown down only into the
-      grave. And thus the essence of all crime is undivulged.
+      [[Grave|grave]]. And thus the essence of all crime is undivulged.
 
-      Not long ago, about the closing in of an evening in autumn, I sat at the
-      large bow window of the D—— Coffee-House in London. For some
+      Not long ago, about the closing in of an evening in [[Autumn|autumn]], I sat at the
+      large bow [[Window|window]] of the D—— Coffee-[[house|House]] in [[London]]. For some
       months I had been ill in health, but was now convalescent, and, with
       returning strength, found myself in one of those happy moods which are so
       precisely the converse of _ennui_—moods of the keenest
@@ -38,15 +38,15 @@ Ce grand malheur, de ne pouvoir être seul.—_La Bruyère_.
       surpasses as greatly its every-day condition, as does the vivid yet
       candid reason of Leibnitz, the mad and flimsy rhetoric of Gorgias. Merely
       to breathe was enjoyment; and I derived positive pleasure even from many
-      of the legitimate sources of pain. I felt a calm but inquisitive interest
+      of the legitimate sources of [[Pain|pain]]. I felt a calm but inquisitive interest
       in every thing. With a cigar in my mouth and a newspaper in my lap, I had
       been amusing myself for the greater part of the afternoon, now in poring
       over advertisements, now in observing the promiscuous company in the
       room, and now in peering through the smoky panes into the street.
 
-      This latter is one of the principal thoroughfares of the city, and had
+      This latter is one of the principal thoroughfares of the [[City|city]], and had
       been very much crowded during the whole day. But, as the darkness came on,
-      the throng momently increased; and, by the time the lamps were well
+      the throng momently increased; and, by the [[Time|time]] the lamps were [[Well|well]]
       lighted, two dense and continuous tides of population were rushing past
       the door. At this particular period of the evening I had never before been
       in a similar situation, and the tumultuous sea of human heads filled me,
@@ -66,7 +66,7 @@ Ce grand malheur, de ne pouvoir être seul.—_La Bruyère_.
       when pushed against by fellow-wayfarers they evinced no symptom of
       impatience, but adjusted their clothes and hurried on. Others, still a
       numerous class, were restless in their movements, had flushed faces, and
-      talked and gesticulated to themselves, as if feeling in solitude on
+      talked and gesticulated to themselves, as if feeling in [[Solitude|solitude]] on
       account of the very denseness of the company around. When impeded in their
       progress, these people suddenly ceased muttering, but re-doubled their
       gesticulations, and awaited, with an absent and overdone smile upon the
@@ -82,7 +82,7 @@ Ce grand malheur, de ne pouvoir être seul.—_La Bruyère_.
 
       The tribe of clerks was an obvious one and here I discerned two remarkable
       divisions. There were the junior clerks of flash houses—young
-      gentlemen with tight coats, bright boots, well-oiled hair, and
+      gentlemen with tight coats, bright boots, [[Well|well]]-oiled hair, and
       supercilious lips. Setting aside a certain dapperness of carriage, which
       may be termed deskism for want of a better word, the manner of these
       persons seemed to me an exact fac-simile of what had been the perfection
@@ -97,7 +97,7 @@ Ce grand malheur, de ne pouvoir être seul.—_La Bruyère_.
       gaiters. They had all slightly bald heads, from which the right
       ears, long used to pen-holding, had an odd habit of standing off on end. I
       observed that they always removed or settled their hats with both hands,
-      and wore watches, with short gold chains of a substantial and ancient
+      and wore watches, with short gold [[Chains|chains]] of a substantial and ancient
       pattern. Theirs was the affectation of respectability—if indeed
       there be an affectation so honorable.
 

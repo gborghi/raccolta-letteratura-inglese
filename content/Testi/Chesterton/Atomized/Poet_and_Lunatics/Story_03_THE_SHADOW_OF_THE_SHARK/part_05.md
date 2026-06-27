@@ -1,5 +1,5 @@
 ---
-title: "Poet and Lunatics — THE SHADOW OF THE SHARK (part 5)"
+title: "Poet and Lunatics — THE [[Shadow|SHADOW]] OF THE SHARK (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Poet-and-Lunatics-(Chesterton)"
@@ -20,13 +20,13 @@ going crazy.  And if there is one thing I strongly object to,
 it is going crazy.  What use should I be to all my brother lunatics,
 if I once really lost my balance on the tight-rope over the abyss?"
 
-He sat staring into vacancy for some time, trying to fit in this
+He sat staring into vacancy for some [[Time|time]], trying to fit in this
 small and stubborn fancy with a much steadier stream of much
 deeper thoughts that were already driving in a certain direction.
-At last, the light of a possibility began to dawn in his eyes;
+At last, the light of a possibility began to [[Dawn|dawn]] in his eyes;
 and it was evidently something very simple when it was realized;
 something which he felt he ought to have thought of before;
-for he laughed shortly and scornfully at himself as he rose
+for he laughed shortly and scornfully at himself as he [[Rose|rose]]
 to his feet.
 
 "If Boon goes about everywhere introducing his shark and I go into
@@ -49,7 +49,7 @@ of Amos Boon.
 He seemed to consider for a moment the advisability of a meeting;
 then he turned away and moved towards the stairway up the cliff.
 Mr. Boon was apparently occupied in idly drawing lines on the sand with
-his shabby umbrella; like one drawing plans for a child's sand-castle,
+his shabby umbrella; like one drawing plans for a [[Child|child]]'s sand-[[Castle|castle]],
 but apparently without any such intelligent object or excuse.
 Gale had often seen the man mooning about with equally meaningless
 and automatic gestures; but as the poet mounted the rocky steps,
@@ -60,8 +60,8 @@ above a void in which many imaginative men were swallowed up.
 Then he looked down again at the drop of the dizzy cliffs
 to the flats that seemed to be swimming below him like a sea.
 And he saw the long, loose lines drawn in the sand unified into
-a shape, as flat as a picture on a wall.  He had often seen a child,
-in the same fashion, draw on the sand a pig as large as a house.
+a shape, as flat as a picture on a wall.  He had often seen a [[Child|child]],
+in the same fashion, draw on the sand a pig as large as a [[house]].
 But in this case he could not shake off his former feeling of
 something archaic, like a palaeolithic drawing, about the scratching
 of the brown sand.  And Mr. Boon had not drawn a pig, but a shark;
@@ -104,10 +104,10 @@ Garth gazed silently out to sea, and said at last:
 
 "Yes," replied the poet, "that's the way it works is it?"
 
-"Well, the investigation soon began to show that Simon knew rather
+"[[Well]], the investigation soon began to show that Simon knew rather
 more than he said.  He was on the spot before you; and for some
-time he wouldn't admit what it was he saw before you turned up.
-We guessed it was because he was afraid to tell the truth;
+[[Time|time]] he wouldn't admit what it was he saw before you turned up.
+We guessed it was because he was afraid to tell the [[Truth|truth]];
 and in one sense he was."
 
 "Simon doesn't talk enough," said Gale thoughtfully.  "He doesn't
@@ -119,12 +119,12 @@ As long as a thing terrified him, he couldn't talk about it."
 
 "I don't know how you guessed it," said Garth, "but that is something
 like the line of discoveries.  At first they thought that Simon's
-silence was guilt, but it was only a fear of something more than guilt;
-of some diabolic destiny and entanglement.  The truth is,
+[[Silence|silence]] was [[Guilt|guilt]], but it was only a [[Fear|fear]] of something more than [[Guilt|guilt]];
+of some diabolic destiny and entanglement.  The [[Truth|truth]] is,
 that when he went up before you to the cliff-head at daybreak,
 he saw something that hag-rode his morbid spirit ever since.
 He saw the figure of this man Boon poised on the brink of the precipice,
-black against the dawn, and waving his arms in some unearthly
+black against the [[Dawn|dawn]], and waving his arms in some unearthly
 fashion as if he were going to fly.  Simon thought the man was
 talking to himself, and perhaps even singing.  Then the strange
 creature passed on towards the village and was lost in the twilight;
@@ -135,11 +135,11 @@ dead far out on the sands below, beside his easel."
 seen sharks everywhere."
 
 "You are right again," said the doctor.  "He has admitted since
-that a shadow on the blind or a cloud on the moon would have
+that a [[Shadow|shadow]] on the blind or a cloud on the [[Moon|moon]] would have
 the unmistakable shape of the fish with the fin erect.  But, in fact,
 it is a very mistakable shape; anything with a triangular top to it
-would suggest it to a man in his state of nerves.  But the truth
-is that so long as he thought Boon had dealt death from a distance
+would suggest it to a man in his state of nerves.  But the [[Truth|truth]]
+is that so long as he thought Boon had dealt [[Death|death]] from a distance
 by some sort of curse or spell, we could get nothing out of him.
 Our only chance was to show him that Boon might have done it even
 by natural means.  And we did show it, after all."

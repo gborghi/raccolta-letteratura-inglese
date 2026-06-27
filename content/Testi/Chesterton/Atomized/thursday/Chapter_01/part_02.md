@@ -1,5 +1,5 @@
 ---
-title: "thursday — Chapter 1 (part 2)"
+title: "[[thursday]] — Chapter 1 (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/thursday-(Chesterton)"
@@ -21,29 +21,29 @@ who had her brother's braids of red hair, but a kindlier face
 underneath them, laughed with such mixture of admiration
 and disapproval as she gave commonly to the family oracle.
 
-Gregory resumed in high oratorical good humour.
+Gregory resumed in high oratorical good [[Humour|humour]].
 
-"An artist is identical with an anarchist," he cried.
-"You might transpose the words anywhere.  An anarchist is an artist.
-The man who throws a bomb is an artist, because he prefers
+"An [[Artist|artist]] is identical with an anarchist," he cried.
+"You might transpose the words anywhere.  An anarchist is an [[Artist|artist]].
+The man who throws a bomb is an [[Artist|artist]], because he prefers
 a great moment to everything.  He sees how much more valuable
 is one burst of blazing light, one peal of perfect thunder,
 than the mere common bodies of a few shapeless policemen.
-An artist disregards all governments, abolishes all conventions.
+An [[Artist|artist]] disregards all governments, abolishes all conventions.
 The poet delights in disorder only.  If it were not so, the most
 poetical thing in the world would be the Underground Railway."
 
 "So it is," said Mr. Syme.
 
 "Nonsense!" said Gregory, who was very rational when anyone
-else attempted paradox.  "Why do all the clerks and navvies in
+else attempted [[Paradox|paradox]].  "Why do all the clerks and navvies in
 the railway trains look so sad and tired, so very sad and tired?
 I will tell you.  It is because they know that the train is going right.
 It is because they know that whatever place they have taken a ticket
 for that place they will reach.  It is because after they have passed
 Sloane Square they know that the next station must be Victoria,
 and nothing but Victoria.  Oh, their wild rapture! oh, their eyes
-like stars and their souls again in Eden, if the next station
+like [[Stars|stars]] and their souls again in Eden, if the next station
 were unaccountably Baker Street!"
 
 "It is you who are unpoetical," replied the poet Syme.  "If what you
@@ -54,16 +54,16 @@ with one wild arrow strikes a distant bird.  Is it not also epical
 when man with one wild engine strikes a distant station?
 Chaos is dull; because in chaos the train might indeed go anywhere,
 to Baker Street or to Bagdad.  But man is a magician,
-and his whole magic is in this, that he does say Victoria,
+and his whole [[Magic|magic]] is in this, that he does say Victoria,
 and lo! it is Victoria.  No, take your books of mere poetry
-and prose; let me read a time table, with tears of pride.
+and prose; let me read a [[Time|time]] table, with [[Tears|tears]] of [[Pride|pride]].
 Take your Byron, who commemorates the defeats of man;
 give me Bradshaw, who commemorates his victories.
 Give me Bradshaw, I say!"
 
 "Must you go?" inquired Gregory sarcastically.
 
-"I tell you," went on Syme with passion, "that every time
+"I tell you," went on Syme with passion, "that every [[Time|time]]
 a train comes in I feel that it has broken past batteries
 of besiegers, and that man has won a battle against chaos.
 You say contemptuously that when one has left Sloane Square
@@ -84,7 +84,7 @@ will be discontented even in the streets of heaven.
 The poet is always in revolt."
 
 "There again," said Syme irritably, "what is there poetical
-about being in revolt?  You might as well say that it is poetical
+about being in revolt?  You might as [[Well|well]] say that it is poetical
 to be sea-sick. Being sick is a revolt.  Both being sick and being
 rebellious may be the wholesome thing on certain desperate occasions;
 but I'm hanged if I can see why they are poetical.
@@ -96,7 +96,7 @@ was too hot to heed her.
 "It is things going right," he cried, "that is poetical!
 Our digestions, for instance, going sacredly and silently right,
 that is the foundation of all poetry.  Yes, the most poetical thing,
-more poetical than the flowers, more poetical than the stars--
+more poetical than the [[Flowers|flowers]], more poetical than the [[Stars|stars]]--
 the most poetical thing in the world is not being sick."
 
 "Really," said Gregory superciliously, "the examples you choose--"
@@ -104,7 +104,7 @@ the most poetical thing in the world is not being sick."
 "I beg your pardon," said Syme grimly, "I forgot we had
 abolished all conventions."
 
-For the first time a red patch appeared on Gregory's forehead.
+For the first [[Time|time]] a red patch appeared on Gregory's forehead.
 
 "You don't expect me," he said, "to revolutionise society on this lawn?"
 
@@ -113,8 +113,8 @@ Syme looked straight into his eyes and smiled sweetly.
 "No, I don't," he said; "but I suppose that if you were serious
 about your anarchism, that is exactly what you would do."
 
-Gregory's big bull's eyes blinked suddenly like those of an angry lion,
-and one could almost fancy that his red mane rose.
+Gregory's big bull's eyes blinked suddenly like those of an angry [[Lion|lion]],
+and one could almost fancy that his red mane [[Rose|rose]].
 
 "Don't you think, then," he said in a dangerous voice, "that I am
 serious about my anarchism?"
@@ -135,17 +135,17 @@ Syme smiled.
 
 "Do you?" he asked.
 
-"What do you mean?" asked the girl, with grave eyes.
+"What do you mean?" asked the girl, with [[Grave|grave]] eyes.
 
 "My dear Miss Gregory," said Syme gently, "there are many kinds
 of sincerity and insincerity.  When you say 'thank you' for the salt,
 do you mean what you say?  No. When you say 'the world is round,'
 do you mean what you say?  No. It is true, but you don't mean it.
 Now, sometimes a man like your brother really finds a thing he does mean.
-It may be only a half-truth, quarter-truth, tenth-truth; but then
+It may be only a half-[[Truth|truth]], quarter-[[Truth|truth]], tenth-[[Truth|truth]]; but then
 he says more than he means--from sheer force of meaning it."
 
-She was looking at him from under level brows; her face was grave
-and open, and there had fallen upon it the shadow of that unreasoning
-responsibility which is at the bottom of the most frivolous woman,
+She was looking at him from under level brows; her face was [[Grave|grave]]
+and open, and there had fallen upon it the [[Shadow|shadow]] of that unreasoning
+responsibility which is at the [[Bottom|bottom]] of the most frivolous woman,
 the maternal watch which is as old as the world.

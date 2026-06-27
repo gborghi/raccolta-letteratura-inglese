@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 65)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 65)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-only defenders. But however this may be, it is as well to bear witness
+only defenders. But however this may be, it is as [[Well|well]] to bear witness
 
 to some of the elements of my own experience; and I can answer for it,
 
 at least, that there are some people in the South who will not be
 
-pleased at being swept into the rubbish heap of history as rebels and
+pleased at being swept into the rubbish heap of [[history]] as rebels and
 
 ruffians; and who will not, I regret to say, by any means enjoy even
 
@@ -42,25 +42,25 @@ very much indeed when that particular cause was lost. These are not days
 
 in which it is exactly obvious that an agricultural society was more
 
-dangerous than an industrial one. And even Southern slavery had this one
+dangerous than an industrial one. And even Southern [[Slavery|slavery]] had this one
 
 moral merit, that it was decadent; it has this one historic advantage,
 
-that it is dead. The Northern slavery, industrial slavery, or what is
+that it is dead. The Northern [[Slavery|slavery]], industrial [[Slavery|slavery]], or what is
 
-called wage slavery, is not decaying but increasing; and the end of it
+called wage [[Slavery|slavery]], is not decaying but increasing; and the end of it
 
-is not yet. But in any case, it would be well for us to realise that the
+is not yet. But in any case, it would be [[Well|well]] for us to realise that the
 
 reproach of resembling the Confederacy does not ring in all ears as an
 
-unanswerable condemnation. It is scarcely a self-evident or sufficient
+unanswerable condemnation. It is scarcely a [[Self|self]]-evident or sufficient
 
 argument, to some hearers, even to prove that the English are as
 
 delicate and philanthropic as Sherman, still less that the Irish are as
 
-criminal and lawless as Lee. Nor will it soothe every single soul on the
+criminal and lawless as Lee. Nor will it soothe every single [[Soul|soul]] on the
 
 American continent to say that the English victory in Ireland will be
 
@@ -82,17 +82,17 @@ I do not incline to accept the parallel in that sense any more than in
 
 the opposite sense. For reasons I have already given elsewhere, I do
 
-believe that in the main Abraham Lincoln was right. But right in what?
+believe that in the main [[Abraham Lincoln]] was right. But right in what?
 
 
 
-If Lincoln was right, he was right in guessing that there was not
+If [[Lincoln]] was right, he was right in guessing that there was not
 
 really a Northern nation and a Southern nation, but only one American
 
 nation. And if he has been proved right, he has been proved right by the
 
-fact that men in the South, as well as the North, do now feel a
+fact that men in the South, as [[Well|well]] as the North, do now feel a
 
 patriotism for that American nation. His wisdom, if it really was
 
@@ -102,7 +102,7 @@ being converted. Now, if the English politicians must insist on this
 
 parallel, they ought to see that the parallel is fatal to themselves.
 
-The very test which proved Lincoln right has proved them wrong. The very
+The very test which proved [[Lincoln]] right has proved them wrong. The very
 
 judgment which may have justified him quite unquestionably condemns
 
@@ -110,17 +110,17 @@ them. We have again and again conquered Ireland, and have never come an
 
 inch nearer to converting Ireland. We have had not one Gettysburg, but
 
-twenty Gettysburgs; but we have had no Union. And that is where, as I
+twenty Gettysburgs; but we have had no [[Union]]. And that is where, as I
 
 have remarked, it is relevant to remember that flying fantastic vision
 
 on the films that told so many people what no histories have told them.
 
-I heard when I was in America rumours of the local reappearance of the
+I heard when I was in [[america|America]] rumours of the local reappearance of the
 
 Ku-Klux Klan; but the smallness and mildness of the manifestation, as
 
-compared with the old Southern or the new Irish case, is alone a
+compared with the old Southern or the new Irish case, is [[Alone|alone]] a
 
 sufficient example of the exception that proves the rule. To approximate
 
@@ -128,13 +128,13 @@ to any resemblance to recent Irish events, we must imagine the Ku-Klux
 
 Klan riding again in more than the terrors of that vision, wild as the
 
-wind, white as the moon, terrible as an army with banners. If there were
+[[Wind|wind]], white as the [[Moon|moon]], terrible as an army with banners. If there were
 
 really such a revival of the Southern action, there would equally be a
 
 revival of the Southern argument. It would be clear that Lee was right
 
-and Lincoln was wrong; that the Southern States were national and were
+and [[Lincoln]] was wrong; that the Southern States were national and were
 
 as indestructible as nations. If the South were as rebellious as
 
@@ -142,7 +142,7 @@ Ireland, the North would be as wrong as England.
 
 
 
-But I desire a new English diplomacy that will exhibit, not the things
+But I [[Desire|desire]] a new English diplomacy that will exhibit, not the things
 
 in which England is wrong but the things in which England is right. And
 
@@ -162,15 +162,15 @@ England. That is why I insist on the stupidity of ignoring and insulting
 
 the opinions of those few Virginians and other Southerners who really
 
-have some inherited notion of why Englishmen love England; and even love
+have some inherited notion of why Englishmen [[Love|love]] England; and even [[Love|love]]
 
 it in something of the same fashion themselves. Politicians who do not
 
-know the English spirit when they see it at home, cannot of course be
+know the English spirit when they see it at [[Home|home]], cannot of course be
 
 expected to recognise it abroad. Publicists are eloquently praising
 
-Abraham Lincoln, for all the wrong reasons; but fundamentally for that
+[[Abraham Lincoln]], for all the wrong reasons; but fundamentally for that
 
 worst and vilest of all reasons--that he succeeded. None of them seems
 
@@ -178,7 +178,7 @@ to have the least notion of how to look for England in England; and they
 
 would see something fantastic in the figure of a traveller who found it
 
-elsewhere, or anywhere but in New England. And it is well, perhaps, that
+elsewhere, or anywhere but in [[New England]]. And it is [[Well|well]], perhaps, that
 
 they have not yet found England where it is hidden in England; for if
 
@@ -188,8 +188,8 @@ they found it, they would kill it.
 
 All I am concerned to consider here is the inevitable failure of this
 
-sort of Anglo-American propaganda to create a friendship. To praise
+sort of Anglo-American propaganda to create a [[Friendship|friendship]]. To praise
 
-Lincoln as an Englishman is about as appropriate as if we were praising
+[[Lincoln]] as an Englishman is about as appropriate as if we were praising
 
-Lincoln as an English town. We are talking about something totally
+[[Lincoln]] as an English town. We are talking about something totally

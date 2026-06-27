@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 18"
+title: "[[Northanger Abbey]] — Chapter 18"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -22,7 +22,7 @@ CHAPTER 18
 
 With a mind thus full of happiness, Catherine was hardly aware that two
 
-or three days had passed away, without her seeing Isabella for more
+or three days had passed away, without her seeing [[Isabella]] for more
 
 than a few minutes together. She began first to be sensible of this,
 
@@ -30,7 +30,7 @@ and to sigh for her conversation, as she walked along the pump-room one
 
 morning, by Mrs. Allen’s side, without anything to say or to hear; and
 
-scarcely had she felt a five minutes’ longing of friendship, before the
+scarcely had she felt a five minutes’ [[Longing|longing]] of [[Friendship|friendship]], before the
 
 object of it appeared, and inviting her to a secret conference, led the
 
@@ -42,7 +42,7 @@ everybody entering at either; “it is so out of the way.”
 
 
 
-Catherine, observing that Isabella’s eyes were continually bent towards
+Catherine, observing that [[Isabella]]’s eyes were continually bent towards
 
 one door or the other, as in eager expectation, and remembering how
 
@@ -50,7 +50,7 @@ often she had been falsely accused of being arch, thought the present a
 
 fine opportunity for being really so; and therefore gaily said, “Do not
 
-be uneasy, Isabella, James will soon be here.”
+be uneasy, [[Isabella]], James will soon be here.”
 
 
 
@@ -86,13 +86,13 @@ minds of a certain stamp.”
 
 
 
-“But I thought, Isabella, you had something in particular to tell me?”
+“But I thought, [[Isabella]], you had something in particular to tell me?”
 
 
 
 “Oh yes, and so I have. But here is a proof of what I was saying. My
 
-poor head, I had quite forgot it. Well, the thing is this: I have just
+poor head, I had quite forgot it. [[Well]], the thing is this: I have just
 
 had a letter from John; you can guess the contents.”
 
@@ -102,27 +102,27 @@ had a letter from John; you can guess the contents.”
 
 
 
-“My sweet love, do not be so abominably affected. What can he write
+“My sweet [[Love|love]], do not be so abominably affected. What can he write
 
-about, but yourself? You know he is over head and ears in love with
+about, but yourself? You know he is over head and ears in [[Love|love]] with
 
 you.”
 
 
 
-“With _me_, dear Isabella!”
+“With _me_, dear [[Isabella]]!”
 
 
 
 “Nay, my sweetest Catherine, this is being quite absurd! modesty, and
 
-all that, is very well in its way, but really a little common honesty
+all that, is very [[Well|well]] in its way, but really a little common honesty
 
 is sometimes quite as becoming. I have no idea of being so
 
 overstrained! it is fishing for compliments. His attentions were such
 
-as a child must have noticed. And it was but half an hour before he
+as a [[Child|child]] must have noticed. And it was but half an hour before he
 
 left Bath that you gave him the most positive encouragement. He says so
 
@@ -136,17 +136,17 @@ to affect ignorance.”
 
 
 
-Catherine, with all the earnestness of truth, expressed her
+Catherine, with all the earnestness of [[Truth|truth]], expressed her
 
-astonishment at such a charge, protesting her innocence of every
+astonishment at such a charge, protesting her [[innocence]] of every
 
-thought of Mr. Thorpe’s being in love with her, and the consequent
+thought of Mr. Thorpe’s being in [[Love|love]] with her, and the consequent
 
 impossibility of her having ever intended to encourage him. “As to any
 
-attentions on his side, I do declare, upon my honour, I never was
+attentions on his side, I do declare, upon my [[Honour|honour]], I never was
 
-sensible of them for a moment—except just his asking me to dance the
+sensible of them for a moment—except just his asking me to [[Dance|dance]] the
 
 first day of his coming. And as to making me an offer, or anything like
 
@@ -154,7 +154,7 @@ it, there must be some unaccountable mistake. I could not have
 
 misunderstood a thing of that kind, you know! and, as I ever wish to be
 
-believed, I solemnly protest that no syllable of such a nature ever
+believed, I solemnly protest that no syllable of such a [[Nature|nature]] ever
 
 passed between us. The last half hour before he went away! it must be
 
@@ -166,19 +166,19 @@ morning.”
 
 “But _that_ you certainly did, for you spent the whole morning in
 
-Edgar’s Buildings—it was the day your father’s consent came—and I am
+[[Edgar]]’s Buildings—it was the day your father’s consent came—and I am
 
-pretty sure that you and John were alone in the parlour some time
+pretty sure that you and John were [[Alone|alone]] in the parlour some [[Time|time]]
 
-before you left the house.”
+before you left the [[house]].”
 
 
 
-“Are you? Well, if you say it, it was so, I dare say—but for the life
+“Are you? [[Well]], if you say it, it was so, I dare say—but for the life
 
 of me, I cannot recollect it. I _do_ remember now being with you, and
 
-seeing him as well as the rest—but that we were ever alone for five
+seeing him as [[Well|well]] as the rest—but that we were ever [[Alone|alone]] for five
 
 minutes— However, it is not worth arguing about, for whatever might pass
 
@@ -196,11 +196,11 @@ tell him I beg his pardon—that is—I do not know what I ought to say—but
 
 make him understand what I mean, in the properest way. I would not
 
-speak disrespectfully of a brother of yours, Isabella, I am sure; but
+speak disrespectfully of a brother of yours, [[Isabella]], I am sure; but
 
-you know very well that if I could think of one man more than
+you know very [[Well|well]] that if I could think of one man more than
 
-another—_he_ is not the person.” Isabella was silent. “My dear friend,
+another—_he_ is not the person.” [[Isabella]] was silent. “My dear friend,
 
 you must not be angry with me. I cannot suppose your brother cares so
 
@@ -210,7 +210,7 @@ very much about me. And, you know, we shall still be sisters.”
 
 “Yes, yes” (with a blush), “there are more ways than one of our being
 
-sisters. But where am I wandering to? Well, my dear Catherine, the case
+sisters. But where am I wandering to? [[Well]], my dear Catherine, the case
 
 seems to be that you are determined against poor John—is not it so?”
 
@@ -236,7 +236,7 @@ You have both of you something, to be sure, but it is not a trifle that
 
 will support a family nowadays; and after all that romancers may say,
 
-there is no doing without money. I only wonder John could think of it;
+there is no doing without money. I only [[Wonder|wonder]] John could think of it;
 
 he could not have received my last.”
 
@@ -250,9 +250,9 @@ till this moment?”
 
 
 
-“Oh! as to that,” answered Isabella laughingly, “I do not pretend to
+“Oh! as to that,” answered [[Isabella]] laughingly, “I do not pretend to
 
-determine what your thoughts and designs in time past may have been.
+determine what your thoughts and designs in [[Time|time]] past may have been.
 
 All that is best known to yourself. A little harmless flirtation or so
 
@@ -292,7 +292,7 @@ they are so amazingly changeable and inconstant. What I say is, why
 
 should a brother’s happiness be dearer to me than a friend’s? You know
 
-I carry my notions of friendship pretty high. But, above all things, my
+I carry my notions of [[Friendship|friendship]] pretty high. But, above all things, my
 
 dear Catherine, do not be in a hurry. Take my word for it, that if you
 
@@ -306,7 +306,7 @@ comes; never mind, he will not see us, I am sure.”
 
 
 
-Catherine, looking up, perceived Captain Tilney; and Isabella,
+Catherine, looking up, perceived Captain Tilney; and [[Isabella]],
 
 earnestly fixing her eye on him as she spoke, soon caught his notice.
 
@@ -320,7 +320,7 @@ proxy!”
 
 
 
-“Psha, nonsense!” was Isabella’s answer in the same half whisper. “Why
+“Psha, nonsense!” was [[Isabella]]’s answer in the same half whisper. “Why
 
 do you put such things into my head? If I could believe it—my spirit,
 
@@ -344,9 +344,9 @@ none of you any hearts.”
 
 “Do they? I am sorry for it; I am sorry they find anything so
 
-disagreeable in me. I will look another way. I hope this pleases you”
+disagreeable in me. I will look another way. I [[Hope|hope]] this pleases you”
 
-(turning her back on him); “I hope your eyes are not tormented now.”
+(turning her back on him); “I [[Hope|hope]] your eyes are not tormented now.”
 
 
 
@@ -358,11 +358,11 @@ once too much and too little.”
 
 Catherine heard all this, and quite out of countenance, could listen no
 
-longer. Amazed that Isabella could endure it, and jealous for her
+longer. Amazed that [[Isabella]] could endure it, and jealous for her
 
-brother, she rose up, and saying she should join Mrs. Allen, proposed
+brother, she [[Rose|rose]] up, and saying she should join Mrs. Allen, proposed
 
-their walking. But for this Isabella showed no inclination. She was so
+their walking. But for this [[Isabella]] showed no inclination. She was so
 
 amazingly tired, and it was so odious to parade about the pump-room;
 
@@ -374,29 +374,29 @@ excuse her, and must sit quietly down again. But Catherine could be
 
 stubborn too; and Mrs. Allen just then coming up to propose their
 
-returning home, she joined her and walked out of the pump-room, leaving
+returning [[Home|home]], she joined her and walked out of the pump-room, leaving
 
-Isabella still sitting with Captain Tilney. With much uneasiness did
+[[Isabella]] still sitting with Captain Tilney. With much uneasiness did
 
 she thus leave them. It seemed to her that Captain Tilney was falling
 
-in love with Isabella, and Isabella unconsciously encouraging him;
+in [[Love|love]] with [[Isabella]], and [[Isabella]] unconsciously encouraging him;
 
-unconsciously it must be, for Isabella’s attachment to James was as
+unconsciously it must be, for [[Isabella]]’s attachment to James was as
 
-certain and well acknowledged as her engagement. To doubt her truth or
+certain and [[Well|well]] acknowledged as her engagement. To [[Doubt|doubt]] her [[Truth|truth]] or
 
 good intentions was impossible; and yet, during the whole of their
 
-conversation her manner had been odd. She wished Isabella had talked
+conversation her manner had been odd. She wished [[Isabella]] had talked
 
-more like her usual self, and not so much about money, and had not
+more like her usual [[Self|self]], and not so much about money, and had not
 
-looked so well pleased at the sight of Captain Tilney. How strange that
+looked so [[Well|well]] pleased at the sight of Captain Tilney. How strange that
 
 she should not perceive his admiration! catherine longed to give her a
 
-hint of it, to put her on her guard, and prevent all the pain which her
+hint of it, to put her on her guard, and prevent all the [[Pain|pain]] which her
 
 too lively behaviour might otherwise create both for him and her
 
@@ -404,7 +404,7 @@ brother.
 
 
 
-The compliment of John Thorpe’s affection did not make amends for this
+The compliment of [[John Thorpe]]’s affection did not make amends for this
 
 thoughtlessness in his sister. She was almost as far from believing as
 
@@ -414,13 +414,13 @@ mistake, and his assertion of the offer and of her encouragement
 
 convinced her that his mistakes could sometimes be very egregious. In
 
-vanity, therefore, she gained but little; her chief profit was in
+[[Vanity|vanity]], therefore, she gained but little; her chief profit was in
 
-wonder. That he should think it worth his while to fancy himself in
+[[Wonder|wonder]]. That he should think it worth his while to fancy himself in
 
-love with her was a matter of lively astonishment. Isabella talked of
+[[Love|love]] with her was a matter of lively astonishment. [[Isabella]] talked of
 
-his attentions; _she_ had never been sensible of any; but Isabella had
+his attentions; _she_ had never been sensible of any; but [[Isabella]] had
 
 said many things which she hoped had been spoken in haste, and would
 

@@ -20,12 +20,12 @@ The Ballade of a Strange Town
 
 My friend and I, in fooling about Flanders, fell into
 a fixed affection for the town of Mechlin or Malines.
-Our rest there was so restful that we almost felt it as a home,
+Our rest there was so restful that we almost felt it as a [[Home|home]],
 and hardly strayed out of it.
 
 We sat day after day in the market-place, under little trees
 growing in wooden tubs, and looked up at the noble converging lines
-of the Cathedral tower, from which the three riders from Ghent,
+of the [[Cathedral]] tower, from which the three riders from Ghent,
 in the poem, heard the bell which told them they were not too late.
 But we took as much pleasure in the people, in the little boys
 with open, flat Flemish faces and fur collars round their necks,
@@ -34,7 +34,7 @@ oval faces, hair strained tightly off the temples, and mouths
 at once hard, meek, and humorous, exactly reproduced the late
 mediaeval faces in Memling and Van Eyck.
 
-But one afternoon, as it happened, my friend rose from under his
+But one afternoon, as it happened, my friend [[Rose|rose]] from under his
 little tree, and pointing to a sort of toy train that was puffing smoke
 in one corner of the clear square, suggested that we should go by it.
 We got into the little train, which was meant really to take
@@ -57,9 +57,9 @@ I think it was Waerlowe.
 We clasped our hands and said it was the place we had been seeking
 from boyhood, and when we had got there we descended with promptitude.
 
-For a moment I had a horrible fear that it really was the field
+For a moment I had a horrible [[Fear|fear]] that it really was the field
 of Waterloo; but I was comforted by remembering that it was
-in quite a different part of Belgium.  It was a cross-roads,
+in quite a different part of Belgium.  It was a [[Cross|cross]]-roads,
 with one cottage at the corner, a perspective of tall trees like
 Hobbema's "Avenue," and beyond only the infinite flat chess-board
 of the little fields.  It was the scene of peace and prosperity;
@@ -71,22 +71,22 @@ walk away it began to rain.
 
 . . . . .
 
-We arrived back at the cross-roads sodden and dripping, and,
+We arrived back at the [[Cross|cross]]-roads sodden and dripping, and,
 finding the train waiting, climbed into it with some relief.
 The officer on this train could speak nothing but Flemish,
 but he understood the name Mechlin, and indicated that when we came
 to Mechlin Station he would put us down, which, after the right
-interval of time, he did.
+interval of [[Time|time]], he did.
 
 We got down, under a steady downpour, evidently on
 the edge of Mechlin, though the features could not easily
 be recognised through the grey screen of the rain.
 I do not generally agree with those who find rain depressing.
 A shower-bath is not depressing; it is rather startling.
-And if it is exciting when a man throws a pail of water over you,
+And if it is exciting when a man throws a pail of [[Water|water]] over you,
 why should it not also be exciting when the gods throw many pails?
 But on this soaking afternoon, whether it was the dull sky-line
-of the Netherlands or the fact that we were returning home without
+of the Netherlands or the fact that we were returning [[Home|home]] without
 any adventure, I really did think things a trifle dreary.
 As soon as we could creep under the shelter of a street
 we turned into a little café, kept by one woman.
@@ -112,7 +112,7 @@ Mechlin is ten miles, twenty miles off--God knows what!
 We're somewhere near Antwerp."
 
 "What!"  I cried, leaping from my seat, and sending the furniture flying.
-"Then all is well, after all!  Poetry only hid her face
+"Then all is [[Well|well]], after all!  Poetry only hid her face
 for an instant behind a cloud.  Positively for a moment I
 was feeling depressed because we were in the right town.
 But if we are in the wrong town--why, we have our adventure after all!
@@ -130,22 +130,22 @@ sacrifice an ox, and it would be a bore to build a temple.
 Let us write a poem."
 
 With but slight encouragement, I took out an old envelope
-and one of those pencils that turn bright violet in water.
-There was plenty of water about, and the violet ran down
+and one of those pencils that turn bright violet in [[Water|water]].
+There was plenty of [[Water|water]] about, and the violet ran down
 the paper, symbolising the rich purple of that romantic hour.
 I began, choosing the form of an old French ballade;
 it is the easiest because it is the most restricted--
 
 	"Can Man to Mount Olympus rise,
-	   And fancy Primrose Hill the scene?
+	   And fancy Primrose [[Hill]] the scene?
 	 Can a man walk in Paradise
 	   And think he is in Turnham Green?
 	 And could I take you for Malines,
 	   Not knowing the nobler thing you were?
-	 O Pearl of all the plain, and queen,
-	The lovely city of Lierre.
+	 O Pearl of all the plain, and [[Queen|queen]],
+	The lovely [[City|city]] of Lierre.
 
-	"Through memory's mist in glimmering guise
+	"Through [[Memory|memory]]'s mist in glimmering guise
 	   Shall shine your streets of sloppy sheen.
 	 And wet shall grow my dreaming eyes,
 	   To think how wet my boots have been
@@ -159,7 +159,7 @@ the muse had folded her wings.  I rewrote--
 	"Now if I die a Rural Dean,
 	  Or rob a bank I do not care,
 	 Or turn a Tory.  I have seen
-	  The lovely city of Lierre."
+	  The lovely [[City|city]] of Lierre."
 
 "The next line," I resumed, warming to it; but my friend interrupted me.
 
@@ -174,7 +174,7 @@ Here is the station."
 
 We did not speak again until we had left Lierre, in its sacred
 cloud of rain, and were coming to Mechlin, under a clearer sky,
-that even made one think of stars.  Then I leant forward and said
+that even made one think of [[Stars|stars]].  Then I leant forward and said
 to my friend in a low voice--"I have found out everything.
 We have come to the wrong star."
 
@@ -186,21 +186,21 @@ tires us because it tells us we fit into this world.  The true
 happiness is that we don't fit.  We come from somewhere else.
 We have lost our way."
 
-He silently nodded, staring out of the window, but whether I had impressed
+He silently nodded, staring out of the [[Window|window]], but whether I had impressed
 or only fatigued him I could not tell.  "This," I added, "is suggested
 in the last verse of a fine poem you have grossly neglected--
 
 	"'Happy is he and more than wise
 	   Who sees with wondering eyes and clean
 	 The world through all the grey disguise
-	   Of sleep and custom in between.
+	   Of [[Sleep|sleep]] and custom in between.
 	 Yes; we may pass the heavenly screen,
 	   But shall we know when we are there?
 	 Who know not what these dead stones mean,
-	   The lovely city of Lierre.'"
+	   The lovely [[City|city]] of Lierre.'"
 
 Here the train stopped abruptly.  And from Mechlin church steeple
-we heard the half-chime: and Joris broke silence with "No bally
+we heard the half-chime: and Joris broke [[Silence|silence]] with "No bally
 HORS D'OEUVRES for me:  I shall get on to something solid at once."
 
                 L'Envoy
@@ -208,4 +208,4 @@ HORS D'OEUVRES for me:  I shall get on to something solid at once."
 	Prince, wide your Empire spreads, I ween,
 	  Yet happier is that moistened Mayor,
 	Who drinks her cognac far from fine,
-	  The lovely city of Lierre.
+	  The lovely [[City|city]] of Lierre.

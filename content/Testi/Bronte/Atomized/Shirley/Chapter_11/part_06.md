@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 11 (part 6)"
+title: "[[Shirley]] — Chapter 11 (part 6)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-"You speak my sentiments precisely, ma'am," said Shirley, "and I thank
+"You speak my sentiments precisely, ma'am," said [[Shirley]], "and I thank
 
 you for anticipating me.--Let me tell you," she continued, turning again
 
@@ -66,7 +66,7 @@ Mr. Helstone.
 
 "Ay! ay! Your tenant--so he is. You have seen a good deal of him, no
 
-doubt, since you came?"
+[[Doubt|doubt]], since you came?"
 
 
 
@@ -74,7 +74,7 @@ doubt, since you came?"
 
 Business! Really the word makes me conscious I am indeed no longer a
 
-girl, but quite a woman and something more. I am an esquire! Shirley
+girl, but quite a woman and something more. I am an esquire! [[Shirley]]
 
 Keeldar, Esquire, ought to be my style and title. They gave me a man's
 
@@ -86,7 +86,7 @@ Anglo-Belgian--that Gérard Moore--before me, gravely talking to me of
 
 business, really I feel quite gentlemanlike. You must choose me for your
 
-churchwarden, Mr. Helstone, the next time you elect new ones. They ought
+churchwarden, Mr. Helstone, the next [[Time|time]] you elect new ones. They ought
 
 to make me a magistrate and a captain of yeomanry. Tony Lumpkin's mother
 
@@ -112,7 +112,7 @@ sense; but as a neighbour, what is he? Again and again I have entreated
 
 Mrs. Pryor to say what she thinks of him, but she still evades returning
 
-a direct answer. I hope you will be less oracular, Mr. Helstone, and
+a direct answer. I [[Hope|hope]] you will be less oracular, Mr. Helstone, and
 
 pronounce at once. Do you like him?"
 
@@ -138,7 +138,7 @@ to the eyes.
 
 
 
-"What are Moore's politics?" inquired Shirley.
+"What are Moore's politics?" inquired [[Shirley]].
 
 
 
@@ -160,7 +160,7 @@ But what other objection have you to him?"
 
 
 
-"He looks the gentleman, in my sense of the term," pursued Shirley, "and
+"He looks the gentleman, in my sense of the term," pursued [[Shirley]], "and
 
 it pleases me to think he is such."
 
@@ -168,7 +168,7 @@ it pleases me to think he is such."
 
 Caroline rent the Tyrian petals of the one brilliant flower in her
 
-bouquet, and answered in distinct tones, "Decidedly he is." Shirley,
+bouquet, and answered in distinct tones, "Decidedly he is." [[Shirley]],
 
 hearing this courageous affirmation, flashed an arch, searching glance
 
@@ -188,7 +188,7 @@ Moore is my cousin."
 
 
 
-"Oh, then, you can tell me all about him. Just give me a sketch of his
+"Oh, then, you can tell me all about him. Just give me a [[Sketch|sketch]] of his
 
 character."
 
@@ -196,7 +196,7 @@ character."
 
 Insuperable embarrassment seized Caroline when this demand was made. She
 
-could not, and did not, attempt to comply with it. Her silence was
+could not, and did not, attempt to comply with it. Her [[Silence|silence]] was
 
 immediately covered by Mrs. Pryor, who proceeded to address sundry
 
@@ -204,9 +204,9 @@ questions to Mr. Helstone regarding a family or two in the
 
 neighbourhood, with whose connections in the south she said she was
 
-acquainted. Shirley soon withdrew her gaze from Miss Helstone's face.
+acquainted. [[Shirley]] soon withdrew her gaze from Miss Helstone's face.
 
-She did not renew her interrogations, but returning to her flowers,
+She did not renew her interrogations, but returning to her [[Flowers|flowers]],
 
 proceeded to choose a nosegay for the rector. She presented it to him as
 
@@ -228,13 +228,13 @@ captain of yeomanry, this young squire of Briarfield, in a word. Don't
 
 let him exert himself too much; don't let him break his neck in hunting;
 
-especially, let him mind how he rides down that dangerous hill near the
+especially, let him mind how he rides down that dangerous [[Hill|hill]] near the
 
 Hollow."
 
 
 
-"I like a descent," said Shirley; "I like to clear it rapidly; and
+"I like a descent," said [[Shirley]]; "I like to clear it rapidly; and
 
 especially I like that romantic Hollow with all my heart."
 
@@ -250,13 +250,13 @@ admirable in its way."
 
 
 
-"And the counting-house, Mr. Keeldar?"
+"And the counting-[[house]], Mr. Keeldar?"
 
 
 
-"The counting-house is better than my bloom-coloured drawing-room. I
+"The counting-[[house]] is better than my bloom-coloured drawing-room. I
 
-adore the counting-house."
+adore the counting-[[house]]."
 
 
 
@@ -268,7 +268,7 @@ adore the counting-house."
 
 
 
-"And the tradesman is a hero? Good!"
+"And the tradesman is a [[Hero|hero]]? Good!"
 
 
 
@@ -282,7 +282,7 @@ bandied words with the old Cossack, who almost equally enjoyed the tilt.
 
 
 
-"Captain Keeldar, you have no mercantile blood in your veins. Why are
+"Captain Keeldar, you have no mercantile [[Blood|blood]] in your veins. Why are
 
 you so fond of trade?"
 

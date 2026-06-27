@@ -20,8 +20,8 @@ THE VOICE OF SOCIETY
 
 
 Behoves Mortimer Lightwood, therefore, to answer a dinner card from Mr
-and Mrs Veneering requesting the honour, and to signify that Mr Mortimer
-Lightwood will be happy to have the other honour. The Veneerings have
+and Mrs Veneering requesting the [[Honour|honour]], and to signify that Mr Mortimer
+Lightwood will be happy to have the other [[Honour|honour]]. The Veneerings have
 been, as usual, indefatigably dealing dinner cards to Society, and
 whoever desires to take a hand had best be quick about it, for it is
 written in the Books of the Insolvent Fates that Veneering shall make a
@@ -33,22 +33,22 @@ Veneering will accept the Chiltern Hundreds, that the legal gentleman in
 Britannia’s confidence will again accept the Pocket-Breaches Thousands,
 and that the Veneerings will retire to Calais, there to live on Mrs
 Veneering’s diamonds (in which Mr Veneering, as a good husband, has from
-time to time invested considerable sums), and to relate to Neptune and
-others, how that, before Veneering retired from Parliament, the House
+[[Time|time]] to [[Time|time]] invested considerable sums), and to relate to Neptune and
+others, how that, before Veneering retired from Parliament, the [[house|House]]
 of Commons was composed of himself and the six hundred and fifty-seven
 dearest and oldest friends he had in the world. It shall likewise come
 to pass, at as nearly as possible the same period, that Society will
 discover that it always did despise Veneering, and distrust Veneering,
 and that when it went to Veneering’s to dinner it always had
-misgivings—though very secretly at the time, it would seem, and in a
+misgivings—though very secretly at the [[Time|time]], it would seem, and in a
 perfectly private and confidential manner.
 
 The next week’s books of the Insolvent Fates, however, being not yet
 opened, there is the usual rush to the Veneerings, of the people who go
-to their house to dine with one another and not with them. There is Lady
+to their [[house]] to dine with one another and not with them. There is Lady
 Tippins. There are Podsnap the Great, and Mrs Podsnap. There is Twemlow.
 There are Buffer, Boots, and Brewer. There is the Contractor, who
-is Providence to five hundred thousand men. There is the Chairman,
+is [[Providence]] to five hundred thousand men. There is the Chairman,
 travelling three thousand miles per week. There is the brilliant genius
 who turned the shares into that remarkably exact sum of three hundred
 and seventy five thousand pounds, no shillings, and nopence.
@@ -62,8 +62,8 @@ swain. She summons the deserter to her with her fan; but the deserter,
 predetermined not to come, talks Britain with Podsnap. Podsnap always
 talks Britain, and talks as if he were a sort of Private Watchman
 employed, in the British interests, against the rest of the world. ‘We
-know what Russia means, sir,’ says Podsnap; ‘we know what France wants;
-we see what America is up to; but we know what England is. That’s enough
+know what [[Russia]] means, sir,’ says Podsnap; ‘we know what France wants;
+we see what [[america|America]] is up to; but we know what England is. That’s enough
 for us.’
 
 However, when dinner is served, and Lightwood drops into his old place
@@ -71,7 +71,7 @@ over against Lady Tippins, she can be fended off no longer. ‘Long
 banished Robinson Crusoe,’ says the charmer, exchanging salutations,
 ‘how did you leave the Island?’
 
-‘Thank you,’ says Lightwood. ‘It made no complaint of being in pain
+‘Thank you,’ says Lightwood. ‘It made no complaint of being in [[Pain|pain]]
 anywhere.’
 
 ‘Say, how did you leave the savages?’ asks Lady Tippins.
@@ -91,7 +91,7 @@ married pair. You were at the wedding.’
 
 Mortimer looks gloomy, and declines to answer.
 
-‘I hope she steered herself, skiffed herself, paddled herself,
+‘I [[Hope|hope]] she steered herself, skiffed herself, paddled herself,
 larboarded and starboarded herself, or whatever the technical term may
 be, to the ceremony?’ proceeds the playful Tippins.
 
@@ -108,12 +108,12 @@ utmost indifference.
 ‘You shall not escape me in this way, you morose backwoodsman,’ retorts
 Lady Tippins. ‘You shall not evade the question, to screen your friend
 Eugene, who has made this exhibition of himself. The knowledge shall be
-brought home to you that such a ridiculous affair is condemned by the
+brought [[Home|home]] to you that such a ridiculous affair is condemned by the
 voice of Society. My dear Mrs Veneering, do let us resolve ourselves
-into a Committee of the whole House on the subject.’
+into a Committee of the whole [[house|House]] on the subject.’
 
 Mrs Veneering, always charmed by this rattling sylph, cries. ‘Oh yes!
-Do let us resolve ourselves into a Committee of the whole House!
+Do let us resolve ourselves into a Committee of the whole [[house|House]]!
 So delicious!’ Veneering says, ‘As many as are of that opinion, say
 Aye,—contrary, No—the Ayes have it.’ But nobody takes the slightest
 notice of his joke.
@@ -124,14 +124,14 @@ notice of his joke.
 attends.)
 
 ‘And this,’ pursues the sprightly one, ‘is a Committee of the whole
-House to what-you-may-call-it—elicit, I suppose—the voice of Society.
+[[house|House]] to what-you-may-call-it—elicit, I suppose—the voice of Society.
 The question before the Committee is, whether a young man of very fair
-family, good appearance, and some talent, makes a fool or a wise man of
+family, good appearance, and some talent, makes a [[Fool|fool]] or a wise man of
 himself in marrying a female waterman, turned factory girl.’
 
 ‘Hardly so, I think,’ the stubborn Mortimer strikes in. ‘I take the
 question to be, whether such a man as you describe, Lady Tippins, does
-right or wrong in marrying a brave woman (I say nothing of her beauty),
+right or wrong in marrying a brave woman (I say nothing of her [[Beauty|beauty]]),
 who has saved his life, with a wonderful energy and address; whom he
 knows to be virtuous, and possessed of remarkable qualities; whom he has
 long admired, and who is deeply attached to him.’

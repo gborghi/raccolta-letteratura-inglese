@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘You are quite wrong, my love, in your guess at my meaning. What I
+‘You are quite wrong, my [[Love|love]], in your guess at my meaning. What I
 insinuated was, that my Georgiana’s little heart was growing conscious
 of a vacancy.’
 
@@ -54,10 +54,10 @@ devoted to Sophronia.’
 ‘Sophronia!’ murmured Alfred. ‘My life!’ and kissed her hand. In return
 for which she kissed his watch-chain.
 
-‘But it was not I who was to be taken away and trampled upon, I hope?’
+‘But it was not I who was to be taken away and trampled upon, I [[Hope|hope]]?’
 said Alfred, drawing a seat between them.
 
-‘Ask Georgiana, my soul,’ replied his wife.
+‘Ask Georgiana, my [[Soul|soul]],’ replied his wife.
 
 Alfred touchingly appealed to Georgiana.
 
@@ -67,10 +67,10 @@ Alfred touchingly appealed to Georgiana.
 are,’ said the happy and fond Sophronia, smiling, ‘it was any one who
 should venture to aspire to Georgiana.’
 
-‘Sophronia, my love,’ remonstrated Mr Lammle, becoming graver, ‘you are
+‘Sophronia, my [[Love|love]],’ remonstrated Mr Lammle, becoming graver, ‘you are
 not serious?’
 
-‘Alfred, my love,’ returned his wife, ‘I dare say Georgiana was not, but
+‘Alfred, my [[Love|love]],’ returned his wife, ‘I dare say Georgiana was not, but
 I am.’
 
 ‘Now this,’ said Mr Lammle, ‘shows the accidental combinations that
@@ -83,12 +83,12 @@ told me.’
 ‘You dear one! And I anything that YOU told me.’
 
 How delightful those interchanges, and the looks accompanying them! Now,
-if the skeleton up-stairs had taken that opportunity, for instance, of
+if the [[skeleton]] up-stairs had taken that opportunity, for instance, of
 calling out ‘Here I am, suffocating in the closet!’
 
-‘I give you my honour, my dear Sophronia—’
+‘I give you my [[Honour|honour]], my dear Sophronia—’
 
-‘And I know what that is, love,’ said she.
+‘And I know what that is, [[Love|love]],’ said she.
 
 ‘You do, my darling—that I came into the room all but uttering young
 Fledgeby’s name. Tell Georgiana, dearest, about young Fledgeby.’
@@ -101,14 +101,14 @@ unresisting hands, and playfully holding them in her own at arms’
 length, sometimes near together and sometimes wide apart, went on:
 
 ‘You must know, you dearly beloved little goose, that once upon a
-time there was a certain person called young Fledgeby. And this young
+[[Time|time]] there was a certain person called young Fledgeby. And this young
 Fledgeby, who was of an excellent family and rich, was known to two
 other certain persons, dearly attached to one another and called Mr and
-Mrs Alfred Lammle. So this young Fledgeby, being one night at the play,
+Mrs Alfred Lammle. So this young Fledgeby, being one [[Night|night]] at the play,
 there sees with Mr and Mrs Alfred Lammle, a certain heroine called—’
 
 ‘No, don’t say Georgiana Podsnap!’ pleaded that young lady almost in
-tears. ‘Please don’t. Oh do do do say somebody else! Not Georgiana
+[[Tears|tears]]. ‘Please don’t. Oh do do do say somebody else! Not Georgiana
 Podsnap. Oh don’t, don’t, don’t!’
 
 ‘No other,’ said Mrs Lammle, laughing airily, and, full of affectionate
@@ -129,10 +129,10 @@ all the same for saying it.’
 ‘the poor young fellow only says that he is stricken all of a heap.’
 
 ‘Oh, what shall I ever do!’ interposed Georgiana. ‘Oh my goodness what a
-Fool he must be!’
+[[Fool]] he must be!’
 
 ‘—And implores to be asked to dinner, and to make a fourth at the play
-another time. And so he dines to-morrow and goes to the Opera with
+another [[Time|time]]. And so he dines to-morrow and goes to the Opera with
 us. That’s all. Except, my dear Georgiana—and what will you think of
 this!—that he is infinitely shyer than you, and far more afraid of you
 than you ever were of any one in all your days!’
@@ -148,7 +148,7 @@ was to come to admire, and that Georgiana was to come to be admired; and
 Georgiana with the entirely new sensation in her breast of having that
 prospect before her, and with many kisses from her dear Sophronia in
 present possession, preceded six feet one of discontented footman (an
-amount of the article that always came for her when she walked home) to
+amount of the article that always came for her when she walked [[Home|home]]) to
 her father’s dwelling.
 
 The happy pair being left together, Mrs Lammle said to her husband:

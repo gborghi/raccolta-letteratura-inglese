@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 51 (part 4)"
+title: "[[Nicholas Nickleby]] — Chapter 51 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 ‘I know he did,’ said Ralph; ‘what then?’
 
 ‘What then? Why, then he lurked about and dogged me in the street. He
-follows me, night after night, and urges me to bring him face to face
+follows me, [[Night|night]] after [[Night|night]], and urges me to bring him face to face
 with you; as he says he has been once, and not long ago either. He
 wants to see you face to face, he says, and you’ll soon hear him out, he
 warrants.’
@@ -27,8 +27,8 @@ drudge.
 
 ‘That it’s no business of mine, and I won’t. I told him he might catch
 you in the street, if that was all he wanted, but no! that wouldn’t do.
-You wouldn’t hear a word there, he said. He must have you alone in a
-room with the door locked, where he could speak without fear, and you’d
+You wouldn’t hear a word there, he said. He must have you [[Alone|alone]] in a
+room with the door locked, where he could speak without [[Fear|fear]], and you’d
 soon change your tone, and hear him patiently.’
 
 ‘An audacious dog!’ Ralph muttered.
@@ -39,7 +39,7 @@ do.’
 
 ‘I think I do,’ replied Ralph.
 
-‘Well,’ retored Newman, sulkily, ‘don’t expect me to know him too;
+‘[[Well]],’ retored Newman, sulkily, ‘don’t expect me to know him too;
 that’s all. You’ll ask me, next, why I never told you this before. What
 would you say, if I was to tell you all that people say of you? What
 do you call me when I sometimes do? “Brute, ass!” and snap at me like a
@@ -51,10 +51,10 @@ in fact, upon Ralph’s lips at the moment.
 ‘He is an idle ruffian,’ said Ralph; ‘a vagabond from beyond the sea
 where he travelled for his crimes; a felon let loose to run his neck
 into the halter; a swindler, who has the audacity to try his schemes on
-me who know him well. The next time he tampers with you, hand him over
+me who know him [[Well|well]]. The next [[Time|time]] he tampers with you, hand him over
 to the police, for attempting to extort money by lies and threats,--d’ye
 hear?--and leave the rest to me. He shall cool his heels in jail a
-little time, and I’ll be bound he looks for other folks to fleece, when
+little [[Time|time]], and I’ll be bound he looks for other folks to fleece, when
 he comes out. You mind what I say, do you?’
 
 ‘I hear,’ said Newman.
@@ -63,16 +63,16 @@ he comes out. You mind what I say, do you?’
 
 Newman readily availed himself of the permission, and, shutting himself
 up in his little office, remained there, in very serious cogitation,
-all day. When he was released at night, he proceeded, with all the
-expedition he could use, to the city, and took up his old position
-behind the pump, to watch for Nicholas. For Newman Noggs was proud in
+all day. When he was released at [[Night|night]], he proceeded, with all the
+expedition he could use, to the [[City|city]], and took up his old position
+behind the pump, to watch for Nicholas. For [[Newman Noggs]] was proud in
 his way, and could not bear to appear as his friend, before the brothers
 Cheeryble, in the shabby and degraded state to which he was reduced.
 
 He had not occupied this position many minutes, when he was rejoiced to
 see Nicholas approaching, and darted out from his ambuscade to meet him.
 Nicholas, on his part, was no less pleased to encounter his friend, whom
-he had not seen for some time; so, their greeting was a warm one.
+he had not seen for some [[Time|time]]; so, their greeting was a warm one.
 
 ‘I was thinking of you, at that moment,’ said Nicholas.
 
@@ -116,17 +116,17 @@ Cecilia Bobster.
 ‘And that reminds me,’ said Newman, ‘that you never told me the young
 lady’s real name.’
 
-‘Madeline!’ said Nicholas.
+‘[[Madeline]]!’ said Nicholas.
 
-‘Madeline!’ cried Newman. ‘What Madeline? Her other name. Say her other
+‘[[Madeline]]!’ cried Newman. ‘What [[Madeline]]? Her other name. Say her other
 name.’
 
 ‘Bray,’ said Nicholas, in great astonishment.
 
 ‘It’s the same!’ cried Newman. ‘Sad story! Can you stand idly by, and
-let that unnatural marriage take place without one attempt to save her?’
+let that unnatural [[Marriage|marriage]] take place without one attempt to save her?’
 
-‘What do you mean?’ exclaimed Nicholas, starting up; ‘marriage! are you
+‘What do you mean?’ exclaimed Nicholas, starting up; ‘[[Marriage|marriage]]! are you
 mad?’
 
 ‘Are you? Is she? Are you blind, deaf, senseless, dead?’ said Newman.
@@ -137,24 +137,24 @@ there alive, to a hoary wretch--a devil born and bred, and grey in
 devils’ ways?’
 
 ‘Be careful what you say,’ replied Nicholas. ‘For Heaven’s sake be
-careful! I am left here alone, and those who could stretch out a hand to
+careful! I am left here [[Alone|alone]], and those who could stretch out a hand to
 rescue her are far away. What is it that you mean?’
 
 ‘I never heard her name,’ said Newman, choking with his energy. ‘Why
 didn’t you tell me? How was I to know? We might, at least, have had some
-time to think!’
+[[Time|time]] to think!’
 
 ‘What is it that you mean?’ cried Nicholas.
 
 It was not an easy task to arrive at this information; but, after a
 great quantity of extraordinary pantomime, which in no way assisted it,
-Nicholas, who was almost as wild as Newman Noggs himself, forced the
+Nicholas, who was almost as wild as [[Newman Noggs]] himself, forced the
 latter down upon his seat and held him down until he began his tale.
 
-Rage, astonishment, indignation, and a storm of passions, rushed through
+Rage, astonishment, indignation, and a [[Storm|storm]] of passions, rushed through
 the listener’s heart, as the plot was laid bare. He no sooner understood
 it all, than with a face of ashy paleness, and trembling in every limb,
-he darted from the house.
+he darted from the [[house]].
 
 ‘Stop him!’ cried Newman, bolting out in pursuit. ‘He’ll be doing
 something desperate; he’ll murder somebody. Hallo! there, stop him. Stop

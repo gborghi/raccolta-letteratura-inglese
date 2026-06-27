@@ -30,7 +30,7 @@ CHAPTER 11
 
       all other cares and considerations. Nothing, however, could be
 
-      done until the morning, and, securing ourselves as well as
+      done until the morning, and, securing ourselves as [[Well|well]] as
 
       possible, we endeavoured to snatch a little repose. In this I
 
@@ -54,7 +54,7 @@ CHAPTER 11
 
       storeroom, thinking it possible that he might be able to force it
 
-      open, provided he could get at it in sufficient time; and this he
+      open, provided he could get at it in sufficient [[Time|time]]; and this he
 
       hoped to do, as the hulk lay much more steadily than before.
 
@@ -62,13 +62,13 @@ CHAPTER 11
 
       He succeeded very quickly in reaching the door, when, loosening
 
-      one of the chains from his ankle, he made every exertion to force
+      one of the [[Chains|chains]] from his ankle, he made every exertion to force
 
       the passage with it, but in vain, the framework of the room being
 
       far stronger than was anticipated. He was quite exhausted with
 
-      his long stay under water, and it became absolutely necessary
+      his long stay under [[Water|water]], and it became absolutely necessary
 
       that some other one of us should take his place. For this service
 
@@ -88,7 +88,7 @@ CHAPTER 11
 
 
 
-      Peters had left one of the chains in the passage, and I found,
+      Peters had left one of the [[Chains|chains]] in the passage, and I found,
 
       upon plunging in, that I had not sufficient balance to keep me
 
@@ -98,7 +98,7 @@ CHAPTER 11
 
       along the floor of the passage for this, I felt a hard substance,
 
-      which I immediately grasped, not having time to ascertain what it
+      which I immediately grasped, not having [[Time|time]] to ascertain what it
 
       was, but returning and ascending instantly to the surface. The
 
@@ -124,17 +124,17 @@ CHAPTER 11
 
       descended, and now recovered the chain, with which I instantly
 
-      came up. I then fastened it on and went down for the third time,
+      came up. I then fastened it on and went down for the third [[Time|time]],
 
       when I became fully satisfied that no exertions whatever, in that
 
       situation, would enable me to force open the door of the
 
-      storeroom. I therefore returned in despair.
+      storeroom. I therefore returned in [[Despair|despair]].
 
 
 
-      There seemed now to be no longer any room for hope, and I could
+      There seemed now to be no longer any room for [[Hope|hope]], and I could
 
       perceive in the countenances of my companions that they had made
 
@@ -164,13 +164,13 @@ CHAPTER 11
 
       belonging to Captain Barnard. This was immediately opened in the
 
-      faint hope that it might contain something to eat or drink. We
+      faint [[Hope|hope]] that it might contain something to eat or drink. We
 
       found nothing, however, except a box of razors and two linen
 
-      shirts. I now went down again, and returned without any success.
+      shirts. I now went down again, and returned without any [[success]].
 
-      As my head came above water I heard a crash on deck, and, upon
+      As my head came above [[Water|water]] I heard a crash on deck, and, upon
 
       getting up, saw that my companions had ungratefully taken
 
@@ -180,9 +180,9 @@ CHAPTER 11
 
       I saw them. I remonstrated with them on the heartlessness of
 
-      their conduct, when Augustus burst into tears. The other two
+      their conduct, when Augustus burst into [[Tears|tears]]. The other two
 
-      endeavoured to laugh the matter off as a joke, but I hope never
+      endeavoured to laugh the matter off as a joke, but I [[Hope|hope]] never
 
       again to behold laughter of such a species: the distortion of
 
@@ -200,17 +200,17 @@ CHAPTER 11
 
 
 
-      I now found myself, as it were, alone in the brig, and my
+      I now found myself, as it were, [[Alone|alone]] in the brig, and my
 
       reflections, to be sure, were of the most fearful and gloomy
 
-      nature. No prospect offered itself to my view but a lingering
+      [[Nature|nature]]. No prospect offered itself to my view but a lingering
 
-      death by famine, or, at the best, by being overwhelmed in the
+      [[Death|death]] by famine, or, at the best, by being overwhelmed in the
 
-      first gale which should spring up, for in our present exhausted
+      first gale which should [[Spring|spring]] up, for in our present exhausted
 
-      condition we could have no hope of living through another.
+      condition we could have no [[Hope|hope]] of living through another.
 
 
 
@@ -222,11 +222,11 @@ CHAPTER 11
 
       of the leather trunk, and endeavoured to eat it, but found it
 
-      utterly impossible to swallow a single morsel, although I fancied
+      utterly impossible to [[Swallow|swallow]] a single morsel, although I fancied
 
-      that some little alleviation of my suffering was obtained by
+      that some little alleviation of my [[Suffering|suffering]] was obtained by
 
-      chewing small pieces of it and spitting them out. Toward night my
+      chewing small pieces of it and spitting them out. Toward [[Night|night]] my
 
       companions awoke, one by one, each in an indescribable state of
 
@@ -234,15 +234,15 @@ CHAPTER 11
 
       evaporated. They shook as if with a violent ague, and uttered the
 
-      most lamentable cries for water. Their condition affected me in
+      most lamentable cries for [[Water|water]]. Their condition affected me in
 
-      the most lively degree, at the same time causing me to rejoice in
+      the most lively degree, at the same [[Time|time]] causing me to rejoice in
 
       the fortunate train of circumstances which had prevented me from
 
       indulging in the wine, and consequently from sharing their
 
-      melancholy and most distressing sensations. Their conduct,
+      [[Melancholy|melancholy]] and most distressing sensations. Their conduct,
 
       however, gave me great uneasiness and alarm; for it was evident
 
@@ -262,9 +262,9 @@ CHAPTER 11
 
       I endeavoured, by every means in my power, to rouse him. Thinking
 
-      that a plunge in the sea-water might have a beneficial effect, I
+      that a plunge in the sea-[[Water|water]] might have a beneficial effect, I
 
-      contrived to fasten the end of a rope around his body, and then,
+      contrived to fasten the end of a rope around his [[Body|body]], and then,
 
       leading him to the companion-way (he remaining quite passive all
 
@@ -290,7 +290,7 @@ CHAPTER 11
 
       by reading in some medical work the good effect of the
 
-      shower-bath in a case where the patient was suffering from _mania
+      shower-bath in a case where the patient was [[Suffering|suffering]] from _mania
 
       a potu_.
 
@@ -312,17 +312,17 @@ CHAPTER 11
 
       articles, until I was completely exhausted, but brought up
 
-      nothing else. During the night Parker and Peters occupied
+      nothing else. During the [[Night|night]] Parker and Peters occupied
 
       themselves by turns in the same manner; but nothing coming to
 
-      hand, we now gave up this attempt in despair, concluding that we
+      hand, we now gave up this attempt in [[Despair|despair]], concluding that we
 
       were exhausting ourselves in vain.
 
 
 
-      We passed the remainder of this night in a state of the most
+      We passed the remainder of this [[Night|night]] in a state of the most
 
       intense mental and bodily anguish that can possibly be imagined.
 
@@ -358,7 +358,7 @@ CHAPTER 11
 
       gone as the other two. He suffered with great patience, making no
 
-      complaint, and endeavouring to inspire us with hope in every
+      complaint, and endeavouring to inspire us with [[Hope|hope]] in every
 
       manner he could devise. For myself, although at the commencement
 
@@ -372,7 +372,7 @@ CHAPTER 11
 
       intellect, and seemed to be brought to a species of second
 
-      childhood, generally simpering in their expressions, with idiotic
+      [[Childhood|childhood]], generally simpering in their expressions, with idiotic
 
       smiles, and uttering the most absurd platitudes. At intervals,
 
@@ -380,11 +380,11 @@ CHAPTER 11
 
       at once with a consciousness of their condition, when they would
 
-      spring upon their feet in a momentary flash of vigour, and speak,
+      [[Spring|spring]] upon their feet in a momentary flash of vigour, and speak,
 
       for a short period, of their prospects, in a manner altogether
 
-      rational, although full of the most intense despair. It is
+      rational, although full of the most intense [[Despair|despair]]. It is
 
       possible, however, that my companions may have entertained the
 
@@ -398,7 +398,7 @@ CHAPTER 11
 
 
 
-      About noon Parker declared that he saw land off the larboard
+      About [[Noon|noon]] Parker declared that he saw land off the larboard
 
       quarter, and it was with the utmost difficulty I could restrain
 
@@ -410,15 +410,15 @@ CHAPTER 11
 
       direction pointed out, I could not perceive the faintest
 
-      appearance of the shore—indeed, I was too well aware that we were
+      appearance of the shore—indeed, I was too [[Well|well]] aware that we were
 
-      far from any land to indulge in a hope of that nature. It was a
+      far from any land to indulge in a [[Hope|hope]] of that [[Nature|nature]]. It was a
 
-      long time, nevertheless, before I could convince Parker of his
+      long [[Time|time]], nevertheless, before I could convince Parker of his
 
-      mistake. He then burst into a flood of tears, weeping like a
+      mistake. He then burst into a flood of [[Tears|tears]], weeping like a
 
-      child, with loud cries and sobs, for two or three hours, when
+      [[Child|child]], with loud cries and sobs, for two or three hours, when
 
       becoming exhausted, he fell asleep.
 
@@ -426,7 +426,7 @@ CHAPTER 11
 
       Peters and Augustus now made several ineffectual efforts to
 
-      swallow portions of the leather. I advised them to chew it and
+      [[Swallow|swallow]] portions of the leather. I advised them to chew it and
 
       spit it out; but they were too excessively debilitated to be able
 
@@ -434,7 +434,7 @@ CHAPTER 11
 
       intervals, and found some relief from so doing; my chief distress
 
-      was for water, and I was only prevented from taking a draught
+      was for [[Water|water]], and I was only prevented from taking a draught
 
       from the sea by remembering the horrible consequences which thus
 
@@ -448,7 +448,7 @@ CHAPTER 11
 
       to the eastward, and on our larboard bow. She appeared to be a
 
-      large ship, and was coming nearly athwart us, being probably
+      large [[Ship|ship]], and was coming nearly athwart us, being probably
 
       twelve or fifteen miles distant. None of my companions had as yet
 
@@ -470,19 +470,19 @@ CHAPTER 11
 
       tearing their hair, and praying and cursing by turns. I was so
 
-      affected by their conduct, as well as by what I considered a sure
+      affected by their conduct, as [[Well|well]] as by what I considered a sure
 
       prospect of deliverance, that I could not refrain from joining in
 
-      with their madness, and gave way to the impulses of my gratitude
+      with their [[Madness|madness]], and gave way to the impulses of my gratitude
 
-      and ecstasy by lying and rolling on the deck, clapping my hands,
+      and ecstasy by lying and [[rolling]] on the deck, clapping my hands,
 
       shouting, and other similar acts, until I was suddenly called to
 
       my recollection, and once more to the extreme human misery and
 
-      despair, by perceiving the ship all at once with her stern fully
+      [[Despair|despair]], by perceiving the [[Ship|ship]] all at once with her stern fully
 
       presented toward us, and steering in a direction nearly opposite
 
@@ -490,7 +490,7 @@ CHAPTER 11
 
 
 
-      It was some time before I could induce my poor companions to
+      It was some [[Time|time]] before I could induce my poor companions to
 
       believe that this sad reverse in our prospects had actually taken
 
@@ -502,11 +502,11 @@ CHAPTER 11
 
       affected me. In spite of all I could say or do to the contrary,
 
-      he persisted in saying that the ship was rapidly nearing us, and
+      he persisted in saying that the [[Ship|ship]] was rapidly nearing us, and
 
       in making preparations to go on board of her. Some seaweed
 
-      floating by the brig, he maintained that it was the ship’s boat,
+      floating by the brig, he maintained that it was the [[Ship|ship]]’s boat,
 
       and endeavoured to throw himself upon it, howling and shrieking
 
@@ -518,7 +518,7 @@ CHAPTER 11
 
       Having become in some degree pacified, we continued to watch the
 
-      ship until we finally lost sight of her, the weather becoming
+      [[Ship|ship]] until we finally lost sight of her, the weather becoming
 
       hazy, with a light breeze springing up. As soon as she was
 
@@ -526,7 +526,7 @@ CHAPTER 11
 
       expression of countenance which made me shudder. There was about
 
-      him an air of self-possession which I had not noticed in him
+      him an air of [[Self|self]]-possession which I had not noticed in him
 
       until now, and before he opened his lips my heart told me what he
 

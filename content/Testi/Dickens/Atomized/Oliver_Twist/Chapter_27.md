@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 27"
+title: "[[Oliver Twist]] — Chapter 27"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -20,13 +20,13 @@ MOST UNCEREMONIOUSLY
 
 
 As it would be, by no means, seemly in a humble author to keep so
-mighty a personage as a beadle waiting, with his back to the fire, and
-the skirts of his coat gathered up under his arms, until such time as
+mighty a personage as a beadle waiting, with his back to the [[Fire|fire]], and
+the skirts of his coat gathered up under his arms, until such [[Time|time]] as
 it might suit his pleasure to relieve him; and as it would still less
 become his station, or his gallantry to involve in the same neglect a
 lady on whom that beadle had looked with an eye of tenderness and
 affection, and in whose ear he had whispered sweet words, which, coming
-from such a quarter, might well thrill the bosom of maid or matron of
+from such a quarter, might [[Well|well]] thrill the bosom of maid or matron of
 whatsoever degree; the historian whose pen traces these words—trusting
 that he knows his place, and that he entertains a becoming reverence
 for those upon earth to whom high and important authority is
@@ -38,39 +38,39 @@ this place, a dissertation touching the divine right of beadles, and
 elucidative of the position, that a beadle can do no wrong: which could
 not fail to have been both pleasurable and profitable to the
 right-minded reader but which he is unfortunately compelled, by want of
-time and space, to postpone to some more convenient and fitting
+[[Time|time]] and space, to postpone to some more convenient and fitting
 opportunity; on the arrival of which, he will be prepared to show, that
 a beadle properly constituted: that is to say, a parochial beadle,
 attached to a parochial workhouse, and attending in his official
 capacity the parochial church: is, in right and virtue of his office,
 possessed of all the excellences and best qualities of humanity; and
 that to none of those excellences, can mere companies’ beadles, or
-court-of-law beadles, or even chapel-of-ease beadles (save the last,
+[[Court|court]]-of-law beadles, or even chapel-of-ease beadles (save the last,
 and they in a very lowly and inferior degree), lay the remotest
 sustainable claim.
 
 Mr. Bumble had re-counted the teaspoons, re-weighed the sugar-tongs,
 made a closer inspection of the milk-pot, and ascertained to a nicety
-the exact condition of the furniture, down to the very horse-hair seats
+the exact condition of the furniture, down to the very [[Horse|horse]]-hair seats
 of the chairs; and had repeated each process full half a dozen times;
-before he began to think that it was time for Mrs. Corney to return.
+before he began to think that it was [[Time|time]] for Mrs. Corney to return.
 Thinking begets thinking; as there were no sounds of Mrs. Corney’s
-approach, it occured to Mr. Bumble that it would be an innocent and
-virtuous way of spending the time, if he were further to allay his
+approach, it occured to Mr. Bumble that it would be an [[Innocent|innocent]] and
+virtuous way of spending the [[Time|time]], if he were further to allay his
 curiousity by a cursory glance at the interior of Mrs. Corney’s chest
 of drawers.
 
 Having listened at the keyhole, to assure himself that nobody was
-approaching the chamber, Mr. Bumble, beginning at the bottom, proceeded
+approaching the chamber, Mr. Bumble, beginning at the [[Bottom|bottom]], proceeded
 to make himself acquainted with the contents of the three long drawers:
 which, being filled with various garments of good fashion and texture,
 carefully preserved between two layers of old newspapers, speckled with
 dried lavender: seemed to yield him exceeding satisfaction. Arriving,
-in course of time, at the right-hand corner drawer (in which was the
+in course of [[Time|time]], at the right-hand corner drawer (in which was the
 key), and beholding therein a small padlocked box, which, being shaken,
 gave forth a pleasant sound, as of the chinking of coin, Mr. Bumble
 returned with a stately walk to the fireplace; and, resuming his old
-attitude, said, with a grave and determined air, “I’ll do it!” He
+attitude, said, with a [[Grave|grave]] and determined air, “I’ll do it!” He
 followed up this remarkable declaration, by shaking his head in a
 waggish manner for ten minutes, as though he were remonstrating with
 himself for being such a pleasant dog; and then, he took a view of his
@@ -139,7 +139,7 @@ principle.
 “So we are,” said the beadle.
 
 Nothing was said on either side, for a minute or two afterwards. By the
-expiration of that time, Mr. Bumble had illustrated the position by
+expiration of that [[Time|time]], Mr. Bumble had illustrated the position by
 removing his left arm from the back of Mrs. Corney’s chair, where it
 had previously rested, to Mrs. Corney’s apron-string, round which it
 gradually became entwined.
@@ -171,7 +171,7 @@ beadle, affectionately pressing her hand.
 
 “And candles,” replied Mrs. Corney, slightly returning the pressure.
 
-“Coals, candles, and house-rent free,” said Mr. Bumble. “Oh, Mrs.
+“Coals, candles, and [[house]]-rent free,” said Mr. Bumble. “Oh, Mrs.
 Corney, what an Angel you are!”
 
 The lady was not proof against this burst of feeling. She sank into Mr.
@@ -184,13 +184,13 @@ know that Mr. Slout is worse tonight, my fascinator?”
 “Yes,” replied Mrs. Corney, bashfully.
 
 “He can’t live a week, the doctor says,” pursued Mr. Bumble. “He is the
-master of this establishment; his death will cause a wacancy; that
+master of this establishment; his [[Death|death]] will cause a wacancy; that
 wacancy must be filled up. Oh, Mrs. Corney, what a prospect this opens!
 What a opportunity for a jining of hearts and housekeepings!”
 
 Mrs. Corney sobbed.
 
-“The little word?” said Mr. Bumble, bending over the bashful beauty.
+“The little word?” said Mr. Bumble, bending over the bashful [[Beauty|beauty]].
 “The one little, little, little word, my blessed Corney?”
 
 “Ye—ye—yes!” sighed out the matron.
@@ -199,7 +199,7 @@ Mrs. Corney sobbed.
 one more. When is it to come off?”
 
 Mrs. Corney twice essayed to speak: and twice failed. At length
-summoning up courage, she threw her arms around Mr. Bumble’s neck, and
+summoning up [[Courage|courage]], she threw her arms around Mr. Bumble’s neck, and
 said, it might be as soon as ever he pleased, and that he was “a
 irresistible duck.”
 
@@ -210,12 +210,12 @@ the lady’s spirits. While it was being disposed of, she acquainted Mr.
 Bumble with the old woman’s decease.
 
 “Very good,” said that gentleman, sipping his peppermint; “I’ll call at
-Sowerberry’s as I go home, and tell him to send tomorrow morning. Was
-it that as frightened you, love?”
+Sowerberry’s as I go [[Home|home]], and tell him to send tomorrow morning. Was
+it that as frightened you, [[Love|love]]?”
 
 “It wasn’t anything particular, dear,” said the lady evasively.
 
-“It must have been something, love,” urged Mr. Bumble. “Won’t you tell
+“It must have been something, [[Love|love]],” urged Mr. Bumble. “Won’t you tell
 your own B.?”
 
 “Not now,” rejoined the lady; “one of these days. After we’re married,
@@ -224,16 +224,16 @@ dear.”
 “After we’re married!” exclaimed Mr. Bumble. “It wasn’t any impudence
 from any of them male paupers as—”
 
-“No, no, love!” interposed the lady, hastily.
+“No, no, [[Love|love]]!” interposed the lady, hastily.
 
 “If I thought it was,” continued Mr. Bumble; “if I thought as any one
 of ’em had dared to lift his wulgar eyes to that lovely countenance—”
 
-“They wouldn’t have dared to do it, love,” responded the lady.
+“They wouldn’t have dared to do it, [[Love|love]],” responded the lady.
 
 “They had better not!” said Mr. Bumble, clenching his fist. “Let me see
 any man, porochial or extra-porochial, as would presume to do it; and I
-can tell him that he wouldn’t do it a second time!”
+can tell him that he wouldn’t do it a second [[Time|time]]!”
 
 Unembellished by any violence of gesticulation, this might have seemed
 no very high compliment to the lady’s charms; but, as Mr. Bumble
@@ -243,7 +243,7 @@ that he was indeed a dove.
 
 The dove then turned up his coat-collar, and put on his cocked hat;
 and, having exchanged a long and affectionate embrace with his future
-partner, once again braved the cold wind of the night: merely pausing,
+partner, once again braved the cold [[Wind|wind]] of the [[Night|night]]: merely pausing,
 for a few minutes, in the male paupers’ ward, to abuse them a little,
 with the view of satisfying himself that he could fill the office of
 workhouse-master with needful acerbity. Assured of his qualifications,
@@ -252,13 +252,13 @@ his future promotion: which served to occupy his mind until he reached
 the shop of the undertaker.
 
 Now, Mr. and Mrs. Sowerberry having gone out to tea and supper: and
-Noah Claypole not being at any time disposed to take upon himself a
+Noah Claypole not being at any [[Time|time]] disposed to take upon himself a
 greater amount of physical exertion than is necessary to a convenient
 performance of the two functions of eating and drinking, the shop was
 not closed, although it was past the usual hour of shutting-up. Mr.
 Bumble tapped with his cane on the counter several times; but,
 attracting no attention, and beholding a light shining through the
-glass-window of the little parlour at the back of the shop, he made
+glass-[[Window|window]] of the little parlour at the back of the shop, he made
 bold to peep in and see what was going forward; and when he saw what
 was going forward, he was not a little surprised.
 
@@ -268,7 +268,7 @@ upper end of the table, Mr. Noah Claypole lolled negligently in an
 easy-chair, with his legs thrown over one of the arms: an open
 clasp-knife in one hand, and a mass of buttered bread in the other.
 Close beside him stood Charlotte, opening oysters from a barrel: which
-Mr. Claypole condescended to swallow, with remarkable avidity. A more
+Mr. Claypole condescended to [[Swallow|swallow]], with remarkable avidity. A more
 than ordinary redness in the region of the young gentleman’s nose, and
 a kind of fixed wink in his right eye, denoted that he was in a slight
 degree intoxicated; these symptoms were confirmed by the intense relish
@@ -302,7 +302,7 @@ Charlotte, and I’ll kiss yer.”
 
 Charlotte uttered a scream, and hid her face in her apron. Mr.
 Claypole, without making any further change in his position than
-suffering his legs to reach the ground, gazed at the beadle in drunken
+[[Suffering|suffering]] his legs to reach the ground, gazed at the beadle in drunken
 terror.
 
 “Say it again, you wile, owdacious fellow!” said Mr. Bumble. “How dare
@@ -317,11 +317,11 @@ a-kissing of me, whether I like it, or not.”
 
 “Yer are; yer know yer are!” retorted Noah. “She’s always a-doin’ of
 it, Mr. Bumble, sir; she chucks me under the chin, please, sir; and
-makes all manner of love!”
+makes all manner of [[Love|love]]!”
 
-“Silence!” cried Mr. Bumble, sternly. “Take yourself downstairs, ma’am.
+“[[Silence]]!” cried Mr. Bumble, sternly. “Take yourself downstairs, ma’am.
 Noah, you shut up the shop; say another word till your master comes
-home, at your peril; and, when he does come home, tell him that Mr.
+[[Home|home]], at your peril; and, when he does come [[Home|home]], tell him that Mr.
 Bumble said he was to send a old woman’s shell after breakfast
 tomorrow morning. Do you hear sir? Kissing!” cried Mr. Bumble, holding
 up his hands. “The sin and wickedness of the lower orders in this
@@ -330,7 +330,7 @@ abominable courses under consideration, this country’s ruined, and the
 character of the peasantry gone for ever!” With these words, the beadle
 strode, with a lofty and gloomy air, from the undertaker’s premises.
 
-And now that we have accompanied him so far on his road home, and have
+And now that we have accompanied him so far on his [[Road|road]] [[Home|home]], and have
 made all necessary preparations for the old woman’s funeral, let us set
-on foot a few inquires after young Oliver Twist, and ascertain whether
+on foot a few inquires after young [[Oliver Twist]], and ascertain whether
 he be still lying in the ditch where Toby Crackit left him.

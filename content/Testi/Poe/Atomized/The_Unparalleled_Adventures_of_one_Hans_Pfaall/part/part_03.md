@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 3)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -22,19 +22,19 @@ tags:
 
       and all that sort of thing. People who were formerly, the very
 
-      best customers in the world, had now not a moment of time to
+      best customers in the world, had now not a moment of [[Time|time]] to
 
       think of us at all. They had, so they said, as much as they could
 
       do to read about the revolutions, and keep up with the march of
 
-      intellect and the spirit of the age. If a fire wanted fanning, it
+      intellect and the spirit of the age. If a [[Fire|fire]] wanted fanning, it
 
-      could readily be fanned with a newspaper, and as the government
+      could readily be fanned with a newspaper, and as the [[government]]
 
-      grew weaker, I have no doubt that leather and iron acquired
+      grew weaker, I have no [[Doubt|doubt]] that leather and iron acquired
 
-      durability in proportion, for, in a very short time, there was
+      durability in proportion, for, in a very short [[Time|time]], there was
 
       not a pair of bellows in all Rotterdam that ever stood in need of
 
@@ -50,23 +50,23 @@ tags:
 
       Duns, in the meantime, left me little leisure for contemplation.
 
-      My house was literally besieged from morning till night, so that
+      My [[house]] was literally besieged from morning till [[Night|night]], so that
 
       I began to rave, and foam, and fret like a caged tiger against
 
       the bars of his enclosure. There were three fellows in particular
 
-      who worried me beyond endurance, keeping watch continually about
+      who worried me beyond [[Endurance|endurance]], keeping watch continually about
 
       my door, and threatening me with the law. Upon these three I
 
-      internally vowed the bitterest revenge, if ever I should be so
+      internally vowed the bitterest [[Revenge|revenge]], if ever I should be so
 
       happy as to get them within my clutches; and I believe nothing in
 
       the world but the pleasure of this anticipation prevented me from
 
-      putting my plan of suicide into immediate execution, by blowing
+      putting my plan of [[suicide]] into immediate execution, by blowing
 
       my brains out with a blunderbuss. I thought it best, however, to
 
@@ -80,7 +80,7 @@ tags:
 
       “One day, having given my creditors the slip, and feeling more
 
-      than usually dejected, I continued for a long time to wander
+      than usually dejected, I continued for a long [[Time|time]] to wander
 
       about the most obscure streets without object whatever, until at
 
@@ -98,31 +98,31 @@ tags:
 
       somewhat similar name. I had some little tincture of information
 
-      on matters of this nature, and soon became more and more absorbed
+      on matters of this [[Nature|nature]], and soon became more and more absorbed
 
       in the contents of the book, reading it actually through twice
 
       before I awoke to a recollection of what was passing around me.
 
-      By this time it began to grow dark, and I directed my steps
+      By this [[Time|time]] it began to grow dark, and I directed my steps
 
-      toward home. But the treatise had made an indelible impression on
+      toward [[Home|home]]. But the treatise had made an indelible impression on
 
       my mind, and, as I sauntered along the dusky streets, I revolved
 
-      carefully over in my memory the wild and sometimes unintelligible
+      carefully over in my [[Memory|memory]] the wild and sometimes unintelligible
 
       reasonings of the writer. There are some particular passages
 
-      which affected my imagination in a powerful and extraordinary
+      which affected my [[Imagination|imagination]] in a powerful and extraordinary
 
       manner. The longer I meditated upon these the more intense grew
 
-      the interest which had been excited within me. The limited nature
+      the interest which had been excited within me. The limited [[Nature|nature]]
 
-      of my education in general, and more especially my ignorance on
+      of my [[Education|education]] in general, and more especially my ignorance on
 
-      subjects connected with natural philosophy, so far from rendering
+      subjects connected with natural [[philosophy]], so far from rendering
 
       me diffident of my own ability to comprehend what I had read, or
 
@@ -130,9 +130,9 @@ tags:
 
       in consequence, merely served as a farther stimulus to
 
-      imagination; and I was vain enough, or perhaps reasonable enough,
+      [[Imagination|imagination]]; and I was vain enough, or perhaps reasonable enough,
 
-      to doubt whether those crude ideas which, arising in
+      to [[Doubt|doubt]] whether those crude ideas which, arising in
 
       ill-regulated minds, have all the appearance, may not often in
 
@@ -142,17 +142,17 @@ tags:
 
       farther, profundity itself might not, in matters of a purely
 
-      speculative nature, be detected as a legitimate source of falsity
+      speculative [[Nature|nature]], be detected as a legitimate source of falsity
 
       and error. In other words, I believed, and still do believe, that
 
-      truth, is frequently of its own essence, superficial, and that,
+      [[Truth|truth]], is frequently of its own essence, superficial, and that,
 
       in many cases, the depth lies more in the abysses where we seek
 
       her, than in the actual situations wherein she may be found.
 
-      Nature herself seemed to afford me corroboration of these ideas.
+      [[Nature]] herself seemed to afford me corroboration of these ideas.
 
       In the contemplation of the heavenly bodies it struck me forcibly
 
@@ -162,9 +162,9 @@ tags:
 
       undeviating attention, as when I suffered my eye only to glance
 
-      in its vicinity alone. I was not, of course, at that time aware
+      in its vicinity [[Alone|alone]]. I was not, of course, at that [[Time|time]] aware
 
-      that this apparent paradox was occasioned by the center of the
+      that this apparent [[Paradox|paradox]] was occasioned by the center of the
 
       visual area being less susceptible of feeble impressions of light
 
@@ -188,4 +188,4 @@ tags:
 
 
 
-      “It was late when I reached home, and I went immediately to bed.
+      “It was late when I reached [[Home|home]], and I went immediately to bed.

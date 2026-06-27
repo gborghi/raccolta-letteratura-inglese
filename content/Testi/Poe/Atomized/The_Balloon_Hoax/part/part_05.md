@@ -1,5 +1,5 @@
 ---
-title: "The Balloon-Hoax (part 5)"
+title: "[[The Balloon-Hoax]] (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Balloon-Hoax-(Poe)"
@@ -14,21 +14,21 @@ tags:
 </nav>
 
 
-      doubt, aided our progress materially. As the sun went down, the
+      [[Doubt|doubt]], aided our progress materially. As the sun went down, the
 
       gale freshened into an absolute hurricane, and the ocean beneath
 
-      was clearly visible on account of its phosphorescence. The wind
+      was clearly visible on account of its phosphorescence. The [[Wind|wind]]
 
-      was from the East all night, and gave us the brightest omen of
+      was from the East all [[Night|night]], and gave us the brightest omen of
 
-      success. We suffered no little from cold, and the dampness of the
+      [[success]]. We suffered no little from cold, and the dampness of the
 
       atmosphere was most unpleasant; but the ample space in the car
 
       enabled us to lie down, and by means of cloaks and a few
 
-      blankets, we did sufficiently well.
+      blankets, we did sufficiently [[Well|well]].
 
 
 
@@ -40,11 +40,11 @@ tags:
 
       adventure such as this. May God grant that we succeed! I ask not
 
-      success for mere safety to my insignificant person, but for the
+      [[success]] for mere safety to my insignificant person, but for the
 
       sake of human knowledge and—for the vastness of the triumph. And
 
-      yet the feat is only so evidently feasible that the sole wonder
+      yet the feat is only so evidently feasible that the sole [[Wonder|wonder]]
 
       is why men have scrupled to attempt it before. One single gale
 
@@ -56,7 +56,7 @@ tags:
 
       coast. In view of such a gale the broad Atlantic becomes a mere
 
-      lake. I am more struck, just now, with the supreme silence which
+      lake. I am more struck, just now, with the supreme [[Silence|silence]] which
 
       reigns in the sea beneath us, notwithstanding its agitation, than
 
@@ -68,7 +68,7 @@ tags:
 
       of innumerable dumb gigantic fiends struggling in impotent agony.
 
-      In a night such as is this to me, a man _lives_—lives a whole
+      In a [[Night|night]] such as is this to me, a man _lives_—lives a whole
 
       century of ordinary life—nor would I forego this rapturous
 
@@ -94,13 +94,13 @@ tags:
 
       the teeth of a gale) as no longer problematical. We could not
 
-      have made head against the strong wind of yesterday; but, by
+      have made head against the strong [[Wind|wind]] of yesterday; but, by
 
       ascending, we might have got out of its influence, if requisite.
 
       Against a pretty stiff breeze, I feel convinced, we can make our
 
-      way with the propeller. At noon, to-day, ascended to an elevation
+      way with the propeller. At [[Noon|noon]], to-day, ascended to an elevation
 
       of nearly 25,000 feet, by discharging ballast. Did this to search
 
@@ -110,7 +110,7 @@ tags:
 
       small pond, even should the voyage last three weeks. I have not
 
-      the slightest fear for the result. The difficulty has been
+      the slightest [[Fear|fear]] for the result. The difficulty has been
 
       strangely exaggerated and misapprehended. I can choose my
 
@@ -118,7 +118,7 @@ tags:
 
       very tolerable headway with the propeller. We have had no
 
-      incidents worth recording. The night promises fair.
+      incidents worth recording. The [[Night|night]] promises fair.
 
 
 
@@ -144,7 +144,7 @@ tags:
 
       feat after all. _Omne ignotum pro magnifico. Mem:_ at 25,000 feet
 
-      elevation the sky appears nearly black, and the stars are
+      elevation the sky appears nearly black, and the [[Stars|stars]] are
 
       distinctly visible; while the sea does not seem convex (as one
 
@@ -158,11 +158,11 @@ tags:
 
       some little trouble with the rod of the propeller, which must be
 
-      entirely remodelled, for fear of serious accident—I mean the
+      entirely remodelled, for [[Fear|fear]] of serious accident—I mean the
 
       steel rod—not the vanes. The latter could not be improved. The
 
-      wind has been blowing steadily and strongly from the north-east
+      [[Wind|wind]] has been blowing steadily and strongly from the north-east
 
       all day and so far fortune seems bent upon favoring us. Just
 
@@ -170,7 +170,7 @@ tags:
 
       concussions in the balloon, accompanied with the apparent rapid
 
-      subsidence of the whole machine. These phenomena were occasioned
+      subsidence of the whole [[Machine|machine]]. These phenomena were occasioned
 
       by the expansion of the gas, through increase of heat in the
 
@@ -178,15 +178,15 @@ tags:
 
       of ice with which the network had become encrusted during the
 
-      night. Threw down several bottles to the vessels below. Saw one
+      [[Night|night]]. Threw down several bottles to the vessels below. Saw one
 
-      of them picked up by a large ship—seemingly one of the New York
+      of them picked up by a large [[Ship|ship]]—seemingly one of the [[New York]]
 
       line packets. Endeavored to make out her name, but could not be
 
       sure of it. Mr. Osborne’s telescope made it out something like
 
-      “Atalanta.” It is now 12, at night, and we are still going nearly
+      “Atalanta.” It is now 12, at [[Night|night]], and we are still going nearly
 
       west, at a rapid pace. The sea is peculiarly phosphorescent.
 
@@ -194,6 +194,6 @@ tags:
 
       “P.S. [By Mr. Ainsworth.] It is now 2, A.M., and nearly calm, as
 
-      well as I can judge—but it is very difficult to determine this
+      [[Well|well]] as I can judge—but it is very difficult to determine this
 
       point, since we move _with_ the air so completely. I have not

@@ -16,15 +16,15 @@ tags:
 
 Rather startled, Bella made and clasped a girdle of her arms round
 Lizzie’s waist, and then asked quietly, in a soft voice, as they both
-looked at the fire:
+looked at the [[Fire|fire]]:
 
 ‘Kill him! Is this man so jealous, then?’
 
 ‘Of a gentleman,’ said Lizzie. ‘—I hardly know how to tell you—of a
-gentleman far above me and my way of life, who broke father’s death to
+gentleman far above me and my way of life, who broke father’s [[Death|death]] to
 me, and has shown an interest in me since.’
 
-‘Does he love you?’
+‘Does he [[Love|love]] you?’
 
 Lizzie shook her head.
 
@@ -42,18 +42,18 @@ get the least clue where to find me.’
 quickly added, reading Lizzie’s face: ‘No. Don’t say why. That was a
 foolish question of mine. I see, I see.’
 
-There was silence between them. Lizzie, with a drooping head, glanced
-down at the glow in the fire where her first fancies had been nursed,
+There was [[Silence|silence]] between them. Lizzie, with a drooping head, glanced
+down at the glow in the [[Fire|fire]] where her first fancies had been nursed,
 and her first escape made from the grim life out of which she had
 plucked her brother, foreseeing her reward.
 
 ‘You know all now,’ she said, raising her eyes to Bella’s. ‘There is
 nothing left out. This is my reason for living secret here, with the aid
 of a good old man who is my true friend. For a short part of my life
-at home with father, I knew of things—don’t ask me what—that I set my
+at [[Home|home]] with father, I knew of things—don’t ask me what—that I set my
 face against, and tried to better. I don’t think I could have done more,
 then, without letting my hold on father go; but they sometimes lie heavy
-on my mind. By doing all for the best, I hope I may wear them out.’
+on my mind. By doing all for the best, I [[Hope|hope]] I may wear them out.’
 
 ‘And wear out too,’ said Bella soothingly, ‘this weakness, Lizzie, in
 favour of one who is not worthy of it.’
@@ -62,11 +62,11 @@ favour of one who is not worthy of it.’
 want to believe, nor do I believe, that he is not worthy of it. What
 should I gain by that, and how much should I lose!’
 
-Bella’s expressive little eyebrows remonstrated with the fire for some
-short time before she rejoined:
+Bella’s expressive little eyebrows remonstrated with the [[Fire|fire]] for some
+short [[Time|time]] before she rejoined:
 
 ‘Don’t think that I press you, Lizzie; but wouldn’t you gain in peace,
-and hope, and even in freedom? Wouldn’t it be better not to live a
+and [[Hope|hope]], and even in [[Freedom|freedom]]? Wouldn’t it be better not to live a
 secret life in hiding, and not to be shut out from your natural and
 wholesome prospects? Forgive my asking you, would that be no gain?’
 
@@ -75,7 +75,7 @@ spoken of,’ returned Lizzie, ‘seek to gain anything?’
 
 The question was so directly at variance with Bella’s views in life, as
 set forth to her father, that she said internally, ‘There, you little
-mercenary wretch! Do you hear that? Ain’t you ashamed of your self?’
+mercenary wretch! Do you hear that? Ain’t you ashamed of your [[Self|self]]?’
 and unclasped the girdle of her arms, expressly to give herself a
 penitential poke in the side.
 
@@ -96,7 +96,7 @@ which I somehow feel that I could not do a mean or a wrong thing before.
 I should leave off prizing the remembrance that he has done me nothing
 but good since I have known him, and that he has made a change within
 me, like—like the change in the grain of these hands, which were
-coarse, and cracked, and hard, and brown when I rowed on the river with
+coarse, and cracked, and hard, and brown when I rowed on the [[River|river]] with
 father, and are softened and made supple by this new work as you see
 them now.’
 
@@ -107,7 +107,7 @@ the possibility of his being anything to me on this earth but the
 kind picture that I know I could not make you understand, if the
 understanding was not in your own breast already. I have no more dreamed
 of the possibility of MY being his wife, than he ever has—and words
-could not be stronger than that. And yet I love him. I love him so much,
+could not be stronger than that. And yet I [[Love|love]] him. I [[Love|love]] him so much,
 and so dearly, that when I sometimes think my life may be but a weary
 one, I am proud of it and glad of it. I am proud and glad to suffer
 something for him, even though it is of no service to him, and he will
@@ -115,13 +115,13 @@ never know of it or care for it.’
 
 Bella sat enchained by the deep, unselfish passion of this girl or woman
 of her own age, courageously revealing itself in the confidence of her
-sympathetic perception of its truth. And yet she had never experienced
+sympathetic perception of its [[Truth|truth]]. And yet she had never experienced
 anything like it, or thought of the existence of anything like it.
 
-‘It was late upon a wretched night,’ said Lizzie, ‘when his eyes first
-looked at me in my old river-side home, very different from this. His
+‘It was late upon a wretched [[Night|night]],’ said Lizzie, ‘when his eyes first
+looked at me in my old [[River|river]]-side [[Home|home]], very different from this. His
 eyes may never look at me again. I would rather that they never did; I
-hope that they never may. But I would not have the light of them taken
+[[Hope|hope]] that they never may. But I would not have the light of them taken
 out of my life, for anything my life can give me. I have told you
 everything now, my dear. If it comes a little strange to me to have
 parted with it, I am not sorry. I had no thought of ever parting with a

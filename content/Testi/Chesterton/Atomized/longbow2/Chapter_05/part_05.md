@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 5 (part 5)"
+title: "[[longbow2]] — Chapter 5 (part 5)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 "I said I had found out something by going round the world,"
 said Crane.  "You young people think I am an old Tory; but remember
-I am also an old traveller.  Well, it's part of the same thing. 
+I am also an old traveller.  [[Well]], it's part of the same thing. 
 I'm a traditionalist because I'm a traveller.  I told you when I
 came back to the club that I'd come back to the tribe.  I told you
 the best man was the man who wore a nose-ring where nose-rings
@@ -42,7 +42,7 @@ that the clergyman started from his trance and made a mechanical
 gesture as if to feel for that feature.  "Do you suppose a man like
 you doesn't carry his nationality as plain as the nose on his face? 
 Do you think a man as hopelessly English as you are wouldn't be
-laughed at in America?  You can't be a good Englishman without
+laughed at in [[America]]?  You can't be a good Englishman without
 being a good joke.  The better Englishman you are the more of a
 joke you are; but still it's better to be better.  Nose-rings are
 funny to people who don't wear 'em.  Nations are funny to people
@@ -56,7 +56,7 @@ hardly understood how much he had been roused in defence of a guest
 and of his own deep delicacies about the point of hospitality. 
 He went on with undiminished warmth:
 
-"Well, it's like that with poor Oates.  He has, as we see it,
+"[[Well]], it's like that with poor Oates.  He has, as we see it,
 certain disproportions, certain insensibilities, certain prejudices
 that stand out in our eyes like deformities.  They offend you;
 they offend me, possibly rather more than they do you. 
@@ -67,7 +67,7 @@ but we know they are only tastes.  And we know, at any rate I know,
 that Oates is far more likely to be an honest man, a good husband
 and a good father, because he stinks of the rankest hickory patch
 in the Middle West, than if he were some fashionable New Yorker
-pretending to be an English aristocrat or playing the aesthete
+pretending to be an English [[aristocrat]] or playing the aesthete
 in Florence."
 
 "Don't say a good husband," pleaded Pierce with a faint shudder. 
@@ -80,7 +80,7 @@ I feel I would rather die than have anything to do with it.
 But that has nothing to do with my point.  I don't belong to the tribe
 who wear nose-rings; nor to the tribe who talk through their noses."
 
-"Well, aren't you a little thankful for that?" asked White.
+"[[Well]], aren't you a little thankful for that?" asked White.
 
 "I'm thankful I can be fair in spite of it," answered Crane.  "When I
 put a cabbage on my head, I didn't expect people not to stare at it. 
@@ -123,12 +123,12 @@ have been the last man in the world to wish to hurt the feelings
 of a harmless stranger; and he had a deep and almost secret respect
 for the opinions of the older soldier.  So, finding himself
 soon afterwards passing the great gilded gateways of the highly
-American hotel that was the London residence of the American,
+American hotel that was the [[London]] residence of the American,
 he paused a moment in hesitation and then went in and gave his name
 to various overpowering officials in uniforms that might have been
 those of the German General Staff.  He was relieved when the large
 American came out to meet him with a simple and lumbering affability,
-and offered his large limp hand as if there had never been a shadow
+and offered his large limp hand as if there had never been a [[Shadow|shadow]]
 of misunderstanding.  It was somehow borne in upon Pierce that his
 own rather intoxicated behaviour that evening had merely been noted
 down along with the architectural styles and the mellow mediaevalism

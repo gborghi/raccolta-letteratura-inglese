@@ -15,64 +15,64 @@ tags:
 
 
 "The old owners of this place," continued the white-haired narrator,
-"were well off in the world, and bore a good name among their neighbors.
+"were [[Well|well]] off in the world, and bore a good name among their neighbors.
 The brother of Sergeant Vanhome, now the only one of the name, died ten
-or twelve years since, leaving a son--a child so small that the father's
+or twelve years since, leaving a son--a [[Child|child]] so small that the father's
 willmade provision for his being brought up by his uncle, whom I
 mention'd but now as of the British army. He was a strange man, this
 uncle; disliked by all who knew him; passionate, vindictive, and, it was
-said, very avaricious, even from his childhood.
+said, very avaricious, even from his [[Childhood|childhood]].
 
-"Well, not long after the death of the parents, dark stories began to
+"[[Well]], not long after the [[Death|death]] of the parents, dark stories began to
 be circulated about cruelty and punishment and whippings and starvation
 inflicted by the new master upon his nephew. People who had business
 at the homestead would frequently, when they came away, relate the most
-fearful things of its manager, and how he misused his brother's child.
+fearful things of its manager, and how he misused his brother's [[Child|child]].
 It was half hinted that he strove to get the youngster out of the way in
 order that the whole estate might fall into his own hands. As I told you
 before, however, nobody liked the man; and perhaps they judged him too
 uncharitably.
 
-"After things had gone on in this way for some time, a countryman,
+"After things had gone on in this way for some [[Time|time]], a countryman,
 a laborer, who was hired to do farm-work upon the place, one evening
-observed that the little orphan Vanhome was more faint and pale even
+observed that the little [[Orphan|orphan]] Vanhome was more faint and pale even
 than usual, for he was always delicate, and that is one reason why I
-think it possible that his death, of which I am now going to tell you,
+think it possible that his [[Death|death]], of which I am now going to tell you,
 was but the result of his own weak constitution, and nothing else. The
-laborer slept that night at the farmhouse. Just before the time at which
+laborer slept that [[Night|night]] at the farmhouse. Just before the [[Time|time]] at which
 they usually retired to bed, this person, feeling sleepy with his day's
 toil, left the kitchen hearth and wended his way to rest. In going to
 his place of repose he had to pass a chamber--the very chamber where
-you, sir, are to sleep to-night--and there he heard the voice of the
-orphan child uttering half-suppress'd exclamations as if in pitiful
+you, sir, are to [[Sleep|sleep]] to-[[Night|night]]--and there he heard the voice of the
+[[Orphan|orphan]] [[Child|child]] uttering half-suppress'd exclamations as if in pitiful
 entreaty. Upon stopping, he heard also the tones of the elder Vanhome,
 but they were harsh and bitter. The sound of blows followed. As each one
 fell it was accompanied by a groan or shriek, and so they continued for
-some time. Shock'd and indignant, the countryman would have burst
+some [[Time|time]]. Shock'd and indignant, the countryman would have burst
 open the door and interfered to prevent this brutal proceeding, but he
 bethought him that he might get himself into trouble, and perhaps find
 that he could do no good after all, and so he passed on to his room.
 
-"Well, sir, the following day the child did not come out among the
+"[[Well]], sir, the following day the [[Child|child]] did not come out among the
 work-people as usual. He was taken very ill. No physician was sent for
 until the next afternoon; and though one arrived in the course of the
-night, it was too late--the poor boy died before morning.
+[[Night|night]], it was too late--the poor boy died before morning.
 
 "People talk'd threateningly upon the subject, but nothing could be
 proved against Vanhome. At one period there were efforts made to have
 the whole affair investigated. Perhaps that would have taken place, had
-not every one's attention been swallow'd up by the rumors of difficulty
+not every one's attention been [[Swallow|swallow]]'d up by the rumors of difficulty
 and war, which were then beginning to disturb the country.
 
-"Vanhome joined the army of the king. His enemies said that he feared to
+"Vanhome joined the army of the [[King|king]]. His enemies said that he feared to
 be on the side of the rebels, because if they were routed his property
 would be taken from him. But events have shown that, if this was indeed
 what he dreaded, it has happen'd to him from the very means which he
 took to prevent it."
 
 The old man paused. He had quite wearied himself with so long talking.
-For some minutes there was unbroken silence. Presently the stranger
-signified his intention of retiring for the night. He rose, and his host
+For some minutes there was unbroken [[Silence|silence]]. Presently the stranger
+signified his intention of retiring for the [[Night|night]]. He [[Rose|rose]], and his host
 took a light for the purpose of ushering him to his apartment.
 
 When Gills return'd to his accustom'd situation in the large arm-chair
@@ -80,42 +80,42 @@ by the chimney-hearth, his ancient helpmate had retired to rest. With
 the simplicity of their times, the bed stood in the same room where the
 three had been seated during the last few hours; and now the remaining
 two talk'd together about the singular events of the evening. As the
-time wore on, Gills show'd no disposition to leave his cosy chair;
+[[Time|time]] wore on, Gills show'd no disposition to leave his cosy chair;
 but sat toasting his feet, and bending over the coals. Gradually the
 insidious heat and the lateness of the hour began to exercise their
 influence over the old man. The drowsy indolent feeling which every one
 has experienced in getting thoroughly heated through by close contact
-with a glowing fire, spread in each vein and sinew, and relax'd its
+with a glowing [[Fire|fire]], spread in each vein and sinew, and relax'd its
 tone. He lean'd back in his chair and slept.
 
-For a long time his repose went on quietly and soundly. He could not
+For a long [[Time|time]] his repose went on quietly and soundly. He could not
 tell how many hours elapsed; but, a while after midnight, the torpid
 senses of the slumberer were awaken'd by a startling shock. It was a
 cry as of a strong man in his agony--a shrill, not very loud cry, but
-fearful, and creeping into the blood like cold, polish'd steel. The old
+fearful, and creeping into the [[Blood|blood]] like cold, polish'd steel. The old
 man raised himself in his seat and listen'd, at once fully awake. For a
-minute, all was the solemn stillness of midnight. Then rose that horrid
+minute, all was the solemn stillness of midnight. Then [[Rose|rose]] that horrid
 tone again, wailing and wild, and making the hearer's hair to stand on
 end. One moment more, and the trampling of hasty feet sounded in the
 passage outside. The door was thrown open, and the form of the stranger,
 more like a corpse than living man, rushed into the room.
 
-"All white!" yell'd the conscience-stricken creature--"all white, and
-with the grave-clothes around him. One shoulder was bare, and I saw,"
+"All white!" yell'd the [[Conscience|conscience]]-stricken creature--"all white, and
+with the [[Grave|grave]]-clothes around him. One shoulder was bare, and I saw,"
 he whisper'd, "I saw blue streaks upon it. It was horrible, and I cried
 aloud. He stepp'd toward me! He came to my very bedside; his small hand
 almost touch'd my face. I could not bear it, and fled."
 
 The miserable man bent his head down upon his bosom; convulsive
 rattlings shook his throat; and his whole frame waver'd to and fro
-like a tree in a storm. Bewilder'd and shock'd, Gills look'd at his
+like a tree in a [[Storm|storm]]. Bewilder'd and shock'd, Gills look'd at his
 apparently deranged guest, and knew not what answer to make, or what
 course of conduct to pursue.
 
 Thrusting out his arms and his extended fingers, and bending down
-his eyes, as men do when shading them from a glare of lightning, the
+his eyes, as men do when shading them from a glare of [[Lightning|lightning]], the
 stranger stagger'd from the door, and, in a moment further, dash'd madly
-through the passage which led through the kitchen into the outer road.
+through the passage which led through the kitchen into the outer [[Road|road]].
 The old man heard the noise of his falling footsteps, sounding fainter
 and fainter in the distance, and then, retreating, dropp'd his own
 exhausted limbs into the chair from which he had been arous'd so

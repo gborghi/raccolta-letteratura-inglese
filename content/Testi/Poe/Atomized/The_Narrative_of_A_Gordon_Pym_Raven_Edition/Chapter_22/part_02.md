@@ -16,7 +16,7 @@ tags:
 
       forty of the savages outright, while a hundred of them, at least,
 
-      were thrown into the water, the most of them dreadfully wounded.
+      were thrown into the [[Water|water]], the most of them dreadfully wounded.
 
       The remainder, frightened out of their senses, commenced at once
 
@@ -24,7 +24,7 @@ tags:
 
       companions, who were swimming about in every direction, screaming
 
-      and yelling for aid. This great success, however, came too late
+      and yelling for aid. This great [[success]], however, came too late
 
       for the salvation of our devoted people. The canoe party were
 
@@ -32,7 +32,7 @@ tags:
 
       hundred and fifty, the most of them having succeeded in
 
-      scrambling up the chains and over the boarding-netting even
+      scrambling up the [[Chains|chains]] and over the boarding-netting even
 
       before the matches had been applied to the larboard guns. Nothing
 
@@ -52,7 +52,7 @@ tags:
 
       The decks were split open and ripped up; the cordage, sails, and
 
-      everything movable on deck demolished as if by magic, while, by
+      everything movable on deck demolished as if by [[Magic|magic]], while, by
 
       dint of pushing at the stern, towing with the canoes, and hauling
 
@@ -76,13 +76,13 @@ tags:
 
       Too-wit’s descent left us at liberty to quit our hiding place and
 
-      reconnoitre the hill in the vicinity of the chasm. At about fifty
+      reconnoitre the [[Hill|hill]] in the vicinity of the chasm. At about fifty
 
-      yards from the mouth of it we saw a small spring of water, at
+      yards from the mouth of it we saw a small [[Spring|spring]] of [[Water|water]], at
 
       which we slaked the burning thirst that now consumed us. Not far
 
-      from the spring we discovered several of the filbert-bushes which
+      from the [[Spring|spring]] we discovered several of the filbert-bushes which
 
       I mentioned before. Upon tasting the nuts we found them
 
@@ -122,7 +122,7 @@ tags:
 
       We now went out again to look about us, and ventured a
 
-      considerable distance down the southern declivity of the hill,
+      considerable distance down the southern declivity of the [[Hill|hill]],
 
       but met with nothing else which could serve us for food. We
 
@@ -132,7 +132,7 @@ tags:
 
       village, laden with the plunder of the vessel, and who, we were
 
-      apprehensive, might discover us in passing beneath the hill.
+      apprehensive, might discover us in passing beneath the [[Hill|hill]].
 
 
 
@@ -156,7 +156,7 @@ tags:
 
       remain within the ravine itself, and not venture out upon the
 
-      hill, We could perceive no traces of the savages having ever been
+      [[Hill|hill]], We could perceive no traces of the savages having ever been
 
       within this hollow; but, indeed, when we came to reflect upon the
 
@@ -170,7 +170,7 @@ tags:
 
       as fearful lest there should be absolutely no means left us for
 
-      descent. We resolved to explore the summit of the hill
+      descent. We resolved to explore the summit of the [[Hill|hill]]
 
       thoroughly, when a good opportunity should offer. In the meantime
 
@@ -180,7 +180,7 @@ tags:
 
       They had already made a complete wreck of the vessel, and were
 
-      now preparing to set her on fire. In a little while we saw the
+      now preparing to set her on [[Fire|fire]]. In a little while we saw the
 
       smoke ascending in huge volumes from her main hatchway, and,
 
@@ -188,7 +188,7 @@ tags:
 
       forecastle. The rigging, masts and what remained of the sails
 
-      caught immediately, and the fire spread rapidly along the decks.
+      caught immediately, and the [[Fire|fire]] spread rapidly along the decks.
 
       Still a great many of the savages retained their stations about
 

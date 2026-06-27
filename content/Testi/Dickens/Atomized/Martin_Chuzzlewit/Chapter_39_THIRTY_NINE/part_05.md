@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 39: THIRTY NINE (part 5)"
+title: "[[Martin Chuzzlewit]] — Chapter 39: THIRTY NINE (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-‘Dark indeed,’ John whispered in Tom Pinch’s ear. ‘Not a bad place to
+‘Dark indeed,’ John whispered in [[Tom Pinch]]’s ear. ‘Not a bad place to
 dispose of a countryman in, I should think, Tom.’
 
 Tom had been already turning over in his mind the possibility of their
@@ -27,19 +27,19 @@ wore black shorts and powder, dispelled his doubts.
 They walked in. And a mighty yellow-jaundiced little office Mr Fips
 had of it; with a great, black, sprawling splash upon the floor in one
 corner, as if some old clerk had cut his throat there, years ago, and
-had let out ink instead of blood.
+had let out ink instead of [[Blood|blood]].
 
 ‘I have brought my friend Mr Pinch, sir,’ said John Westlock.
 
 ‘Be pleased to sit,’ said Mr Fips.
 
 They occupied the two chairs, and Mr Fips took the office stool from the
-stuffing whereof he drew forth a piece of horse-hair of immense length,
+stuffing whereof he drew forth a piece of [[Horse|horse]]-hair of immense length,
 which he put into his mouth with a great appearance of appetite.
 
-He looked at Tom Pinch curiously, but with an entire freedom from any
+He looked at [[Tom Pinch]] curiously, but with an entire [[Freedom|freedom]] from any
 such expression as could be reasonably construed into an unusual
-display of interest. After a short silence, during which Mr Fips was
+display of interest. After a short [[Silence|silence]], during which Mr Fips was
 so perfectly unembarrassed as to render it manifest that he could have
 broken it sooner without hesitation, if he had felt inclined to do so,
 he asked if Mr Westlock had made his offer fully known to Mr Pinch.
@@ -56,7 +56,7 @@ exceedingly obliged to you for the offer.’
 
 ‘To your friend, sir, then,’ said Tom. ‘To the gentleman with whom I am
 to engage, and whose confidence I shall endeavour to deserve. When he
-knows me better, sir, I hope he will not lose his good opinion of me.
+knows me better, sir, I [[Hope|hope]] he will not lose his good opinion of me.
 He will find me punctual and vigilant, and anxious to do what is right.
 That I think I can answer for, and so,’ looking towards him, ‘can Mr
 Westlock.’
@@ -81,22 +81,22 @@ Fips, taking off a very deep impression of the wafer-stamp upon the calf
 of his left leg, and looking steadily at Tom, ‘I don’t know that it’s a
 matter of much consequence.’
 
-Poor Tom inclined his head deferentially, but appeared to doubt that.
+Poor Tom inclined his head deferentially, but appeared to [[Doubt|doubt]] that.
 
 ‘I say,’ repeated Mr Fips, ‘that I don’t know it’s a matter of much
 consequence. The business lies entirely between yourself and me, Mr
 Pinch. With reference to your duties, I can set you going; and with
 reference to your salary, I can pay it. Weekly,’ said Mr Fips, putting
-down the wafer-stamp, and looking at John Westlock and Tom Pinch by
-turns, ‘weekly; in this office; at any time between the hours of four
-and five o’clock in the afternoon.’ As Mr Fips said this, he made up his
+down the wafer-stamp, and looking at John Westlock and [[Tom Pinch]] by
+turns, ‘weekly; in this office; at any [[Time|time]] between the hours of four
+and five o’[[Clock|clock]] in the afternoon.’ As Mr Fips said this, he made up his
 face as if he were going to whistle. But he didn’t.
 
 ‘You are very good,’ said Tom, whose countenance was now suffused with
 pleasure; ‘and nothing can be more satisfactory or straightforward. My
 attendance will be required--’
 
-‘From half-past nine to four o’clock or so, I should say,’ interrupted
+‘From half-past nine to four o’[[Clock|clock]] or so, I should say,’ interrupted
 Mr Fips. ‘About that.’
 
 ‘I did not mean the hours of attendance,’ retorted Tom, ‘which are light
@@ -114,7 +114,7 @@ place.’
 
 ‘You may consider yourself engaged, by all means,’ said Mr Fips; ‘you
 couldn’t meet me at the Temple Gate in Fleet Street, in an hour from
-this time, I suppose, could you?’
+this [[Time|time]], I suppose, could you?’
 
 Certainly Tom could.
 
@@ -135,16 +135,16 @@ fulfillment of the appointment they had made with Mr Fips.
 
 After looking at John Westlock’s chambers, and devoting a few spare
 minutes to the Boar’s Head, they issued forth again to the place of
-meeting. The time agreed upon had not quite come; but Mr Fips was
+meeting. The [[Time|time]] agreed upon had not quite come; but Mr Fips was
 already at the Temple Gate, and expressed his satisfaction at their
 punctuality.
 
 He led the way through sundry lanes and courts, into one more quiet and
-more gloomy than the rest, and, singling out a certain house, ascended
+more gloomy than the rest, and, singling out a certain [[house]], ascended
 a common staircase; taking from his pocket, as he went, a bunch of rusty
 keys. Stopping before a door upon an upper story, which had nothing
 but a yellow smear of paint where custom would have placed the
-tenant’s name, he began to beat the dust out of one of these keys, very
+tenant’s name, he began to beat the [[Dust|dust]] out of one of these keys, very
 deliberately, upon the great broad handrail of the balustrade.
 
 ‘You had better have a little plug made,’ he said, looking round at Tom,

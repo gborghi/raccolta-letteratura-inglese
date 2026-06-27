@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 9)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 9)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -20,11 +20,11 @@ of God is always a premature burial. If the bugles of Bonaparte raised
 
 the living populace of the passing hour, she could blow that yet more
 
-revolutionary trumpet that shall raise all the democracy of the dead.
+revolutionary trumpet that shall raise all the [[democracy]] of the dead.
 
 But if we concede that collision was inevitable between the new Republic
 
-on the one hand and Holy Russia and the Holy Roman Empire on the other,
+on the one hand and Holy [[Russia]] and the Holy Roman Empire on the other,
 
 there remain two great European forces which, in different attitudes and
 
@@ -56,19 +56,19 @@ tyrannies, and that she stood at the parting of the ways. England was
 
 indeed an aristocracy, but a liberal one; and the ideas growing in the
 
-middle classes were those which had already made America, and were
+middle classes were those which had already made [[america|America]], and were
 
 remaking France. The fiercest Jacobins, such as Danton, were deep in the
 
 liberal literature of England. The people had no religion to fight for,
 
-as in Russia or La Vendée. The parson was no longer a priest, and had
+as in [[Russia]] or La Vendée. The parson was no longer a priest, and had
 
 long been a small squire. Already that one great blank in our land had
 
 made snobbishness the only religion of South England; and turned rich
 
-men into a mythology. The effect can be well summed up in that decorous
+men into a mythology. The effect can be [[Well|well]] summed up in that decorous
 
 abbreviation by which our rustics speak of "Lady's Bedstraw," where they
 
@@ -76,7 +76,7 @@ once spoke of "Our Lady's Bedstraw." We have dropped the comparatively
 
 democratic adjective, and kept the aristocratic noun. South England is
 
-still, as it was called in the Middle Ages, a garden; but it is the kind
+still, as it was called in the Middle Ages, a [[Garden|garden]]; but it is the kind
 
 where grow the plants called "lords and ladies."
 
@@ -84,7 +84,7 @@ where grow the plants called "lords and ladies."
 
 We became more and more insular even about our continental conquests; we
 
-stood upon our island as if on an anchored ship. We never thought of
+stood upon our island as if on an anchored [[Ship|ship]]. We never thought of
 
 Nelson at Naples, but only eternally at Trafalgar; and even that Spanish
 
@@ -92,9 +92,9 @@ name we managed to pronounce wrong. But even if we regard the first
 
 attack upon Napoleon as a national necessity, the general trend remains
 
-true. It only changes the tale from a tragedy of choice to a tragedy of
+true. It only changes the tale from a [[Tragedy|tragedy]] of choice to a [[Tragedy|tragedy]] of
 
-chance. And the tragedy was that, for a second time, we were at one with
+chance. And the [[Tragedy|tragedy]] was that, for a second [[Time|time]], we were at one with
 
 the Germans.
 
@@ -108,7 +108,7 @@ sense, the spirit that denies. It is as certain that she was fighting
 
 against liberty in Napoleon as it is that she was fighting against
 
-religion in Maria Theresa. What she was fighting for she would have
+religion in [[Maria]] Theresa. What she was fighting for she would have
 
 found it quite impossible to tell you. At the best, it was for Prussia;
 
@@ -120,15 +120,15 @@ him. She professed to restore the Bourbons, and tried to rob them while
 
 she was restoring them. For her own hand she would have wrecked the
 
-Restoration with the Revolution. Alone in all that agony of peoples, she
+Restoration with the Revolution. [[Alone]] in all that agony of peoples, she
 
-had not the star of one solitary ideal to light the night of her
+had not the star of one solitary ideal to light the [[Night|night]] of her
 
 nihilism.
 
 
 
-The French Revolution has a quality which all men feel; and which may be
+The [[French Revolution]] has a quality which all men feel; and which may be
 
 called a sudden antiquity. Its classicalism was not altogether a cant.
 
@@ -154,33 +154,33 @@ its last were both primarily symbols; and but for this visionary
 
 character, were in a manner vain. It began with the taking of the old
 
-and almost empty prison called the Bastille; and we always think of it
+and almost empty [[Prison|prison]] called the Bastille; and we always think of it
 
 as the beginning of the Revolution, though the real Revolution did not
 
-come till some time after. And it ended when Wellington and Blucher met
+come till some [[Time|time]] after. And it ended when Wellington and Blucher met
 
 in 1815; and we always think of it as the end of Napoleon; though
 
 Napoleon had really fallen before. And the popular imagery is right, as
 
-it generally is in such things: for the mob is an artist, though not a
+it generally is in such things: for the mob is an [[artist]], though not a
 
 man of science. The riot of the 14th of July did not specially deliver
 
 prisoners inside the Bastille, but it did deliver the prisoners outside.
 
-Napoleon when he returned was indeed a _revenant_, that is, a ghost. But
+Napoleon when he returned was indeed a _revenant_, that is, a [[Ghost|ghost]]. But
 
-Waterloo was all the more final in that it was a spectral resurrection
+Waterloo was all the more final in that it was a spectral [[Resurrection|resurrection]]
 
-and a second death. And in this second case there were other elements
+and a second [[Death|death]]. And in this second case there were other elements
 
-that were yet more strangely symbolic. That doubtful and double battle
+that were yet more strangely symbolic. That doubtful and [[Double|double]] battle
 
-before Waterloo was like the dual personality in a dream. It
+before Waterloo was like the dual personality in [[A Dream|a dream]]. It
 
-corresponded curiously to the double mind of the Englishman. We connect
+corresponded curiously to the [[Double|double]] mind of the Englishman. We connect
 
 Quatre Bras with things romantically English to the verge of
 
@@ -190,8 +190,8 @@ sympathise with Wellington against Ney. We do not sympathise, and even
 
 then we did not really sympathise, with Blucher against Napoleon.
 
-Germany has complained that we passed over lightly the presence of
+[[Germany]] has complained that we passed over lightly the presence of
 
-Prussians at the decisive action. And well we might. Even at the time
+Prussians at the decisive action. And [[Well|well]] we might. Even at the [[Time|time]]
 
-our sentiment was not solely jealousy, but very largely shame.
+our sentiment was not solely [[Jealousy|jealousy]], but very largely shame.

@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE FAD OF THE FISHERMAN (part 4)"
+title: "[[manwho]] — THE FAD OF THE FISHERMAN (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -14,15 +14,15 @@ tags:
 </nav>
 
 
-Harold March, whose journey had begun far away up the river in the
+Harold March, whose [[Journey|journey]] had begun far away up the [[River|river]] in the
 
 earliest hours of that day. He arrived late in the afternoon, having
 
 stopped for tea in a large riverside town, and he had a pink evening
 
-paper sticking out of his pocket. He fell on the riverside garden
+paper sticking out of his pocket. He fell on the riverside [[Garden|garden]]
 
-like a quiet and well-behaved thunderbolt, but he was a thunderbolt
+like a quiet and [[Well|well]]-behaved thunderbolt, but he was a thunderbolt
 
 without knowing it.
 
@@ -42,7 +42,7 @@ though he sat within a stone's throw of where they stood.
 
 "You see it's his only hobby," observed Harker, apologetically,
 
-"and, after all, it's his own house; and he's very hospitable in
+"and, after all, it's his own [[house]]; and he's very hospitable in
 
 other ways."
 
@@ -54,15 +54,15 @@ becoming more of a mania than a hobby. I know how it is when a man
 
 of that age begins to collect things, if it's only collecting those
 
-rotten little river fish. You remember Talbot's uncle with his
+rotten little [[River|river]] fish. You remember Talbot's uncle with his
 
 toothpicks, and poor old Buzzy and the waste of cigar ashes. Hook
 
-has done a lot of big things in his time--the great deal in the
+has done a lot of big things in his [[Time|time]]--the great deal in the
 
 Swedish timber trade and the Peace Conference at Chicago--but I
 
-doubt whether he cares now for any of those big things as he cares
+[[Doubt|doubt]] whether he cares now for any of those big things as he cares
 
 for those little fish."
 
@@ -80,9 +80,9 @@ or shipping, he would drop his fun and his fish all right."
 
 
 
-"Well, I wonder," said Horne Fisher, looking sleepily at the island
+"[[Well]], I [[Wonder|wonder]]," said Horne Fisher, looking sleepily at the island
 
-in the river.
+in the [[River|river]].
 
 
 
@@ -118,7 +118,7 @@ the paper to Fisher without a tremor, he simply said:
 
 
 
-"Well, here's a chance for the bet. You've got your big news to
+"[[Well]], here's a chance for the bet. You've got your big news to
 
 disturb the old man's fishing."
 
@@ -194,15 +194,15 @@ inestimable. It is also quite incredible."
 
 He gazed again at the gray and green colors of the island and the
 
-river, and his rather dreary eye traveled slowly round to the hedges
+[[River|river]], and his rather dreary eye traveled slowly round to the hedges
 
 and the lawns.
 
 
 
-"I felt this garden was a sort of dream," he said, "and I suppose I
+"I felt this [[Garden|garden]] was a sort of dream," he said, "and I suppose I
 
-must be dreaming. But there is grass growing and water moving; and
+must be dreaming. But there is grass growing and [[Water|water]] moving; and
 
 something impossible has happened."
 
@@ -216,7 +216,7 @@ appeared in the gap of the hedge just above him.
 
 "You have won your bet," said Harker, in a harsh and almost croaking
 
-voice. "The old fool cares for nothing but fishing. He cursed me and
+voice. "The old [[Fool|fool]] cares for nothing but fishing. He cursed me and
 
 told me he would talk no politics."
 
@@ -232,19 +232,19 @@ going to do next?"
 
 "I must find out exactly what has happened. I've got to speak for
 
-the Government myself to-morrow." And he hurried away toward the
+the [[government|Government]] myself to-morrow." And he hurried away toward the
 
-house.
+[[house]].
 
 
 
-In the silence that followed, a very bewildering silence so far as
+In the [[Silence|silence]] that followed, a very bewildering [[Silence|silence]] so far as
 
 March was concerned, they saw the quaint figure of the Duke of
 
 Westmoreland, with his white hat and whiskers, approaching them
 
-across the garden. Fisher instantly stepped toward him with the pink
+across the [[Garden|garden]]. Fisher instantly stepped toward him with the pink
 
 paper in his hand, and, with a few words, pointed out the
 

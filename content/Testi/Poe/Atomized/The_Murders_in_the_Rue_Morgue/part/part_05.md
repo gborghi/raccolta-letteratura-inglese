@@ -1,5 +1,5 @@
 ---
-title: "The Murders in the Rue Morgue (part 5)"
+title: "[[The Murders in the Rue Morgue]] (part 5)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Murders-in-the-Rue-Morgue-(Poe)"
@@ -26,9 +26,9 @@ tags:
 
       that Madame L. told fortunes for a living. Was reputed to have
 
-      money put by. Never met any persons in the house when she called
+      money put by. Never met any persons in the [[house]] when she called
 
-      for the clothes or took them home. Was sure that they had no
+      for the clothes or took them [[Home|home]]. Was sure that they had no
 
       servant in employ. There appeared to be no furniture in any part
 
@@ -44,11 +44,11 @@ tags:
 
       and has always resided there. The deceased and her daughter had
 
-      occupied the house in which the corpses were found, for more than
+      occupied the [[house]] in which the corpses were found, for more than
 
       six years. It was formerly occupied by a jeweller, who under-let
 
-      the upper rooms to various persons. The house was the property of
+      the upper rooms to various persons. The [[house]] was the property of
 
       Madame L. She became dissatisfied with the abuse of the premises
 
@@ -72,7 +72,7 @@ tags:
 
       “Many other persons, neighbors, gave evidence to the same effect.
 
-      No one was spoken of as frequenting the house. It was not known
+      No one was spoken of as frequenting the [[house]]. It was not known
 
       whether there were any living connexions of Madame L. and her
 
@@ -80,7 +80,7 @@ tags:
 
       Those in the rear were always closed, with the exception of the
 
-      large back room, fourth story. The house was a good house—not
+      large back room, fourth story. The [[house]] was a good [[house]]—not
 
       very old.
 
@@ -88,7 +88,7 @@ tags:
 
       “_Isidore Musèt_, _gendarme_, deposes that he was called to the
 
-      house about three o’clock in the morning, and found some twenty
+      [[house]] about three o’[[Clock|clock]] in the morning, and found some twenty
 
       or thirty persons at the gateway, endeavoring to gain admittance.
 
@@ -96,7 +96,7 @@ tags:
 
       but little difficulty in getting it open, on account of its being
 
-      a double or folding gate, and bolted neither at bottom not top.
+      a [[Double|double]] or folding gate, and bolted neither at [[Bottom|bottom]] not top.
 
       The shrieks were continued until the gate was forced—and then
 
@@ -128,9 +128,9 @@ tags:
 
 
 
-      “_Henri Duval_, a neighbor, and by trade a silver-smith, deposes
+      “_Henri Duval_, a neighbor, and by trade a silver-[[smith]], deposes
 
-      that he was one of the party who first entered the house.
+      that he was one of the party who first entered the [[house]].
 
       Corroborates the testimony of Musèt in general. As soon as they
 
@@ -160,9 +160,9 @@ tags:
 
       testimony. Not speaking French, was examined through an
 
-      interpreter. Is a native of Amsterdam. Was passing the house at
+      interpreter. Is a native of Amsterdam. Was passing the [[house]] at
 
-      the time of the shrieks. They lasted for several minutes—probably
+      the [[Time|time]] of the shrieks. They lasted for several minutes—probably
 
       ten. They were long and loud—very awful and distressing. Was one
 
@@ -174,7 +174,7 @@ tags:
 
       uttered. They were loud and quick—unequal—spoken apparently in
 
-      fear as well as in anger. The voice was harsh—not so much shrill
+      [[Fear|fear]] as [[Well|well]] as in anger. The voice was harsh—not so much shrill
 
       as harsh. Could not call it a shrill voice. The gruff voice said
 
@@ -186,15 +186,15 @@ tags:
 
       Deloraine. Is the elder Mignaud. Madame L’Espanaye had some
 
-      property. Had opened an account with his banking house in the
+      property. Had opened an account with his banking [[house]] in the
 
-      spring of the year—(eight years previously). Made frequent
+      [[Spring|spring]] of the year—(eight years previously). Made frequent
 
       deposits in small sums. Had checked for nothing until the third
 
-      day before her death, when she took out in person the sum of 4000
+      day before her [[Death|death]], when she took out in person the sum of 4000
 
-      francs. This sum was paid in gold, and a clerk went home with the
+      francs. This sum was paid in gold, and a clerk went [[Home|home]] with the
 
       money.
 
@@ -202,6 +202,6 @@ tags:
 
       “_Adolphe Le Bon_, clerk to Mignaud et Fils, deposes that on the
 
-      day in question, about noon, he accompanied Madame L’Espanaye to
+      day in question, about [[Noon|noon]], he accompanied Madame L’Espanaye to
 
       her residence with the 4000 francs, put up in two bags. Upon the

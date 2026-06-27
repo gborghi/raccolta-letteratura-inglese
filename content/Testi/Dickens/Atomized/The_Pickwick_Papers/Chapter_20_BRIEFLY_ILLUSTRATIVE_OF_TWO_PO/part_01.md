@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 18: BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF (part 1)"
+title: "The [[Pickwick]] Papers — Chapter 18: BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -22,14 +22,14 @@ remained at Eatanswill, anxiously awaiting the arrival of some
 intelligence from their revered leader. Mr. Tupman and Mr. Snodgrass
 were once again left to their own means of amusement; for Mr. Winkle, in
 compliance with a most pressing invitation, continued to reside at Mr.
-Pott’s house, and to devote his time to the companionship of his amiable
+Pott’s [[house]], and to devote his [[Time|time]] to the companionship of his amiable
 lady. Nor was the occasional society of Mr. Pott himself wanting to
 complete their felicity. Deeply immersed in the intensity of his
 speculations for the public weal and the destruction of the
 _Independent_, it was not the habit of that great man to descend from
 his mental pinnacle to the humble level of ordinary minds. On this
 occasion, however, and as if expressly in compliment to any follower of
-Mr. Pickwick’s, he unbent, relaxed, stepped down from his pedestal, and
+Mr. [[Pickwick]]’s, he unbent, relaxed, stepped down from his pedestal, and
 walked upon the ground, benignly adapting his remarks to the
 comprehension of the herd, and seeming in outward form, if not in
 spirit, to be one of them.
@@ -37,7 +37,7 @@ spirit, to be one of them.
 Such having been the demeanour of this celebrated public character
 towards Mr. Winkle, it will be readily imagined that considerable
 surprise was depicted on the countenance of the latter gentleman, when,
-as he was sitting alone in the breakfast-room, the door was hastily
+as he was sitting [[Alone|alone]] in the breakfast-room, the door was hastily
 thrown open, and as hastily closed, on the entrance of Mr. Pott, who,
 stalking majestically towards him, and thrusting aside his proffered
 hand, ground his teeth, as if to put a sharper edge on what he was about
@@ -50,20 +50,20 @@ to utter, and exclaimed, in a saw-like voice--
 ‘Serpent, Sir,’ repeated Mr. Pott, raising his voice, and then suddenly
 depressing it: ‘I said, serpent, sir--make the most of it.’
 
-When you have parted with a man at two o’clock in the morning, on terms
+When you have parted with a man at two o’[[Clock|clock]] in the morning, on terms
 of the utmost good-fellowship, and he meets you again, at half-past
 nine, and greets you as a serpent, it is not unreasonable to conclude
-that something of an unpleasant nature has occurred meanwhile. So Mr.
+that something of an unpleasant [[Nature|nature]] has occurred meanwhile. So Mr.
 Winkle thought. He returned Mr. Pott’s gaze of stone, and in compliance
 with that gentleman’s request, proceeded to make the most he could of
 the ‘serpent.’ The most, however, was nothing at all; so, after a
-profound silence of some minutes’ duration, he said,--
+profound [[Silence|silence]] of some minutes’ duration, he said,--
 
 ‘Serpent, Sir! Serpent, Mr. Pott! What can you mean, Sir?--this is
 pleasantry.’
 
 ‘Pleasantry, sir!’ exclaimed Pott, with a motion of the hand, indicative
-of a strong desire to hurl the Britannia metal teapot at the head of the
+of a strong [[Desire|desire]] to hurl the Britannia metal teapot at the head of the
 visitor. ‘Pleasantry, sir!--But--no, I will be calm; I will be calm,
 Sir;’ in proof of his calmness, Mr. Pott flung himself into a chair, and
 foamed at the mouth.
@@ -73,7 +73,7 @@ foamed at the mouth.
 ‘_DEAR _Sir!’ replied Pott. ‘How dare you address me, as dear Sir, Sir?
 How dare you look me in the face and do it, sir?’
 
-‘Well, Sir, if you come to that,’ responded Mr. Winkle, ‘how dare you
+‘[[Well]], Sir, if you come to that,’ responded Mr. Winkle, ‘how dare you
 look me in the face, and call me a serpent, sir?’
 
 ‘Because you are one,’ replied Mr. Pott.
@@ -106,11 +106,11 @@ this article, from a talented fellow-townsman and correspondent?
 ‘“LINES TO A BRASS POT
 
 ‘“Oh Pott! if you’d known How false she’d have grown, When you heard the
-marriage bells tinkle; You’d have done then, I vow, What you cannot help
+[[Marriage|marriage]] [[Bells|bells]] tinkle; You’d have done then, I vow, What you cannot help
 now,
 
 
-‘What,’ said Mr. Pott solemnly--‘what rhymes to “tinkle,” villain?’
+‘What,’ said Mr. Pott solemnly--‘what rhymes to “tinkle,” [[Villain|villain]]?’
 
 ‘What rhymes to tinkle?’ said Mrs. Pott, whose entrance at the moment
 forestalled the reply. ‘What rhymes to tinkle? Why, Winkle, I should
@@ -135,13 +135,13 @@ Eatanswill _Independent_ at her feet.
 the paper. ‘Upon my word, Sir!’
 
 Mr. Pott winced beneath the contemptuous gaze of his wife. He had made a
-desperate struggle to screw up his courage, but it was fast coming
+desperate struggle to screw up his [[Courage|courage]], but it was fast coming
 unscrewed again.
 
 There appears nothing very tremendous in this little sentence, ‘Upon my
 word, sir,’ when it comes to be read; but the tone of voice in which it
 was delivered, and the look that accompanied it, both seeming to bear
-reference to some revenge to be thereafter visited upon the head of
+reference to some [[Revenge|revenge]] to be thereafter visited upon the head of
 Pott, produced their effect upon him. The most unskilful observer could
 have detected in his troubled countenance, a readiness to resign his
 Wellington boots to any efficient substitute who would have consented to

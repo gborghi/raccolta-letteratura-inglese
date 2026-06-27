@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 6"
+title: "[[TheCrimesOfEngland]] — Chapter 6"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -18,7 +18,7 @@ CHAPTER VI
 
 
 
-HAMLET AND THE DANES
+[[Hamlet|HAMLET]] AND THE DANES
 
 
 
@@ -30,12 +30,12 @@ Mistake of being Deep--The
 
 Germanisation of Shakespeare--Carlyle and
 
-the Spoilt Child--The Test of Teutonism--
+the Spoilt [[Child]]--The Test of Teutonism--
 
 Hell or Hans Andersen--Causes of English
 
 Inaction--Barbarism and Splendid Isolation--
 
-The Peace of the Plutocrats--Hamlet
+The Peace of the Plutocrats--[[Hamlet]]
 
 the Englishman--The Triumph of Bismarck.

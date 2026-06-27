@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 22 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 22 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -22,15 +22,15 @@ to be neat and simple, thought it right to encourage the manufacture of
 
 his country; and for his part, to his uncritical palate, the tea was as
 
-well flavoured from the clay of Staffordshire, as from that of Dresden
+[[Well|well]] flavoured from the clay of Staffordshire, as from that of Dresden
 
 or Sêve. But this was quite an old set, purchased two years ago. The
 
-manufacture was much improved since that time; he had seen some
+manufacture was much improved since that [[Time|time]]; he had seen some
 
 beautiful specimens when last in town, and had he not been perfectly
 
-without vanity of that kind, might have been tempted to order a new
+without [[Vanity|vanity]] of that kind, might have been tempted to order a new
 
 set. He trusted, however, that an opportunity might ere long occur of
 
@@ -44,13 +44,13 @@ Shortly after breakfast Henry left them for Woodston, where business
 
 required and would keep him two or three days. They all attended in the
 
-hall to see him mount his horse, and immediately on re-entering the
+hall to see him mount his [[Horse|horse]], and immediately on re-entering the
 
-breakfast-room, Catherine walked to a window in the hope of catching
+breakfast-room, Catherine walked to a [[Window|window]] in the [[Hope|hope]] of catching
 
 another glimpse of his figure. “This is a somewhat heavy call upon your
 
-brother’s fortitude,” observed the General to Eleanor. “Woodston will
+brother’s fortitude,” observed the General to [[Eleanor]]. “Woodston will
 
 make but a sombre appearance to-day.”
 
@@ -60,15 +60,15 @@ make but a sombre appearance to-day.”
 
 
 
-“What say you, Eleanor? Speak your opinion, for ladies can best tell
+“What say you, [[Eleanor]]? Speak your opinion, for ladies can best tell
 
-the taste of ladies in regard to places as well as men. I think it
+the taste of ladies in regard to places as [[Well|well]] as men. I think it
 
 would be acknowledged by the most impartial eye to have many
 
-recommendations. The house stands among fine meadows facing the
+recommendations. The [[house]] stands among fine meadows facing the
 
-south-east, with an excellent kitchen-garden in the same aspect; the
+south-east, with an excellent kitchen-[[Garden|garden]] in the same aspect; the
 
 walls surrounding which I built and stocked myself about ten years ago,
 
@@ -102,13 +102,13 @@ private man in the county, has his profession.”
 
 The imposing effect of this last argument was equal to his wishes. The
 
-silence of the lady proved it to be unanswerable.
+[[Silence|silence]] of the lady proved it to be unanswerable.
 
 
 
 Something had been said the evening before of her being shown over the
 
-house, and he now offered himself as her conductor; and though
+[[house]], and he now offered himself as her conductor; and though
 
 Catherine had hoped to explore it accompanied only by his daughter, it
 
@@ -122,15 +122,15 @@ netting-box, just leisurely drawn forth, was closed with joyful haste,
 
 and she was ready to attend him in a moment. “And when they had gone
 
-over the house, he promised himself moreover the pleasure of
+over the [[house]], he promised himself moreover the pleasure of
 
-accompanying her into the shrubberies and garden.” She curtsied her
+accompanying her into the shrubberies and [[Garden|garden]].” She curtsied her
 
 acquiescence. “But perhaps it might be more agreeable to her to make
 
 those her first object. The weather was at present favourable, and at
 
-this time of year the uncertainty was very great of its continuing so.
+this [[Time|time]] of year the uncertainty was very great of its continuing so.
 
 Which would she prefer? He was equally at her service. Which did his
 
@@ -138,7 +138,7 @@ daughter think would most accord with her fair friend’s wishes? But he
 
 thought he could discern. Yes, he certainly read in Miss Morland’s eyes
 
-a judicious desire of making use of the present smiling weather. But
+a judicious [[Desire|desire]] of making use of the present smiling weather. But
 
 when did she judge amiss? The abbey would be always safe and dry. He
 
@@ -156,7 +156,7 @@ little confusion, “I believe it will be wisest to take the morning
 
 while it is so fine; and do not be uneasy on my father’s account; he
 
-always walks out at this time of day.”
+always walks out at this [[Time|time]] of day.”
 
 
 
@@ -170,7 +170,7 @@ And was not it odd that he should _always_ take his walk so early?
 
 Neither her father nor Mr. Allen did so. It was certainly very
 
-provoking. She was all impatience to see the house, and had scarcely
+provoking. She was all impatience to see the [[house]], and had scarcely
 
 any curiosity about the grounds. If Henry had been with them indeed!
 
@@ -184,9 +184,9 @@ in patient discontent.
 
 She was struck, however, beyond her expectation, by the grandeur of the
 
-abbey, as she saw it for the first time from the lawn. The whole
+abbey, as she saw it for the first [[Time|time]] from the lawn. The whole
 
-building enclosed a large court; and two sides of the quadrangle, rich
+building enclosed a large [[Court|court]]; and two sides of the quadrangle, rich
 
 in Gothic ornaments, stood forward for admiration. The remainder was
 
@@ -200,7 +200,7 @@ compare with it; and her feelings of delight were so strong, that
 
 without waiting for any better authority, she boldly burst forth in
 
-wonder and praise. The General listened with assenting gratitude; and
+[[Wonder|wonder]] and praise. The General listened with assenting gratitude; and
 
 it seemed as if his own estimation of Northanger had waited unfixed
 
@@ -208,4 +208,4 @@ till that hour.
 
 
 
-The kitchen-garden was to be next admired, and he led the way to it
+The kitchen-[[Garden|garden]] was to be next admired, and he led the way to it

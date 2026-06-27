@@ -15,27 +15,27 @@ tags:
 
 
 He had to think, too, of Mr Toots, and Mr Feeder, B.A., of all the
-boys; and of Doctor Blimber, Mrs Blimber, and Miss Blimber; of home,
+boys; and of Doctor Blimber, Mrs Blimber, and Miss Blimber; of [[Home|home]],
 and of his aunt and Miss Tox; of his father; Dombey and Son, Walter
 with the poor old Uncle who had got the money he wanted, and that
 gruff-voiced Captain with the iron hand. Besides all this, he had a
 number of little visits to pay, in the course of the day; to the
 schoolroom, to Doctor Blimber’s study, to Mrs Blimber’s private
 apartment, to Miss Blimber’s, and to the dog. For he was free of the
-whole house now, to range it as he chose; and, in his desire to part
+whole [[house]] now, to range it as he chose; and, in his [[Desire|desire]] to part
 with everybody on affectionate terms, he attended, in his way, to them
 all. Sometimes he found places in books for Briggs, who was always
 losing them; sometimes he looked up words in dictionaries for other
 young gentlemen who were in extremity; sometimes he held skeins of silk
-for Mrs Blimber to wind; sometimes he put Cornelia’s desk to rights;
+for Mrs Blimber to [[Wind|wind]]; sometimes he put Cornelia’s desk to rights;
 sometimes he would even creep into the Doctor’s study, and, sitting on
 the carpet near his learned feet, turn the globes softly, and go round
-the world, or take a flight among the far-off stars.
+the world, or take a flight among the far-off [[Stars|stars]].
 
 In those days immediately before the holidays, in short, when the other
 young gentlemen were labouring for dear life through a general
 resumption of the studies of the whole half-year, Paul was such a
-privileged pupil as had never been seen in that house before. He could
+privileged pupil as had never been seen in that [[house]] before. He could
 hardly believe it himself; but his liberty lasted from hour to hour,
 and from day to day; and little Dombey was caressed by everyone. Doctor
 Blimber was so particular about him, that he requested Johnson to
@@ -55,17 +55,17 @@ At last the party-day arrived; and Doctor Blimber said at breakfast,
 “Gentlemen, we will resume our studies on the twenty-fifth of next
 month.” Mr Toots immediately threw off his allegiance, and put on his
 ring: and mentioning the Doctor in casual conversation shortly
-afterwards, spoke of him as “Blimber”! This act of freedom inspired the
+afterwards, spoke of him as “Blimber”! This act of [[Freedom|freedom]] inspired the
 older pupils with admiration and envy; but the younger spirits were
 appalled, and seemed to marvel that no beam fell down and crushed him.
 
 Not the least allusion was made to the ceremonies of the evening,
-either at breakfast or at dinner; but there was a bustle in the house
+either at breakfast or at dinner; but there was a bustle in the [[house]]
 all day, and in the course of his perambulations, Paul made
 acquaintance with various strange benches and candlesticks, and met a
 harp in a green greatcoat standing on the landing outside the
 drawing-room door. There was something queer, too, about Mrs Blimber’s
-head at dinner-time, as if she had screwed her hair up too tight; and
+head at dinner-[[Time|time]], as if she had screwed her hair up too tight; and
 though Miss Blimber showed a graceful bunch of plaited hair on each
 temple, she seemed to have her own little curls in paper underneath,
 and in a play-bill too; for Paul read “Theatre Royal” over one of her
@@ -74,7 +74,7 @@ sparkling spectacles, and “Brighton” over the other.
 There was a grand array of white waistcoats and cravats in the young
 gentlemen’s bedrooms as evening approached; and such a smell of singed
 hair, that Doctor Blimber sent up the footman with his compliments, and
-wished to know if the house was on fire. But it was only the
+wished to know if the [[house]] was on [[Fire|fire]]. But it was only the
 hairdresser curling the young gentlemen, and over-heating his tongs in
 the ardour of business.
 
@@ -91,7 +91,7 @@ Mama; a little squeezed in appearance, but very charming.
 Mr Toots and Mr Feeder were the next arrivals. Each of these gentlemen
 brought his hat in his hand, as if he lived somewhere else; and when
 they were announced by the butler, Doctor Blimber said, “Ay, ay, ay!
-God bless my soul!” and seemed extremely glad to see them. Mr Toots was
+God bless my [[Soul|soul]]!” and seemed extremely glad to see them. Mr Toots was
 one blaze of jewellery and buttons; and he felt the circumstance so
 strongly, that when he had shaken hands with the Doctor, and had bowed
 to Mrs Blimber and Miss Blimber, he took Paul aside, and said, “What do
@@ -99,12 +99,12 @@ you think of this, Dombey?”
 
 But notwithstanding this modest confidence in himself, Mr Toots
 appeared to be involved in a good deal of uncertainty whether, on the
-whole, it was judicious to button the bottom button of his waistcoat,
+whole, it was judicious to button the [[Bottom|bottom]] button of his waistcoat,
 and whether, on a calm revision of all the circumstances, it was best
 to wear his waistbands turned up or turned down. Observing that Mr
 Feeder’s were turned up, Mr Toots turned his up; but the waistbands of
 the next arrival being turned down, Mr Toots turned his down. The
-differences in point of waistcoat-buttoning, not only at the bottom,
+differences in point of waistcoat-buttoning, not only at the [[Bottom|bottom]],
 but at the top too, became so numerous and complicated as the arrivals
 thickened, that Mr Toots was continually fingering that article of
 dress, as if he were performing on some instrument; and appeared to
@@ -114,7 +114,7 @@ All the young gentlemen, tightly cravatted, curled, and pumped, and
 with their best hats in their hands, having been at different times
 announced and introduced, Mr Baps, the dancing-master, came,
 accompanied by Mrs Baps, to whom Mrs Blimber was extremely kind and
-condescending. Mr Baps was a very grave gentleman, with a slow and
+condescending. Mr Baps was a very [[Grave|grave]] gentleman, with a slow and
 measured manner of speaking; and before he had stood under the lamp
 five minutes, he began to talk to Toots (who had been silently
 comparing pumps with him) about what you were to do with your raw

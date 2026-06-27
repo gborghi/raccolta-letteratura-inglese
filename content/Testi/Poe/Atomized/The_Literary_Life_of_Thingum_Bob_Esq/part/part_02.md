@@ -1,5 +1,5 @@
 ---
-title: "The Literary Life of Thingum Bob, Esq (part 2)"
+title: "[[The Literary Life of Thingum Bob, Esq]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Literary-Life-of-Thingum-Bob,-Esq-(Poe)"
@@ -24,7 +24,7 @@ tags:
 
 
 
-      Having made fair copies of these poems, I signed every one of
+      Having made fair copies of these [[Poems|poems]], I signed every one of
 
       them “Oppodeldoc,” (a fine sonorous name,) and, doing each up
 
@@ -32,15 +32,15 @@ tags:
 
       four principal Magazines, with a request for speedy insertion and
 
-      prompt pay. The result of this well conceived plan, however, (the
+      prompt pay. The result of this [[Well|well]] conceived plan, however, (the
 
-      success of which would have saved me much trouble in after life,)
+      [[success]] of which would have saved me much trouble in after life,)
 
       served to convince me that some editors are not to be bamboozled,
 
       and gave the _coup-de-grace_ (as they say in France,) to my
 
-      nascent hopes, (as they say in the city of the transcendentals.)
+      nascent hopes, (as they say in the [[City|city]] of the transcendentals.)
 
 
 
@@ -64,15 +64,15 @@ tags:
 
       to say _flat_. ‘Oppodeldoc,’ (whoever he is,) is entirely devoid
 
-      of imagination—and imagination, in our humble opinion, is not
+      of [[Imagination|imagination]]—and [[Imagination|imagination]], in our humble opinion, is not
 
-      only the soul of Poesy, but also its very heart. ‘Oppodeldoc,’
+      only the [[Soul|soul]] of Poesy, but also its very heart. ‘Oppodeldoc,’
 
       (whoever he is,) has the audacity to demand of us, for his
 
       twattle, a ‘speedy insertion and prompt pay.’ We neither insert
 
-      nor purchase any stuff of the sort. There can be no doubt,
+      nor purchase any stuff of the sort. There can be no [[Doubt|doubt]],
 
       however, that he would meet with a ready sale for all the
 
@@ -102,7 +102,7 @@ tags:
 
       a person (whoever he is,) signing himself ‘Oppodeldoc’—thus
 
-      desecrating the greatness of the illustrious Roman Emperor so
+      desecrating the [[Greatness|greatness]] of the illustrious Roman Emperor so
 
       named. Accompanying the letter of ‘Oppodeldoc,’ (whoever he is,)
 
@@ -126,7 +126,7 @@ tags:
 
       This was bitter indeed upon poor “Oppodeldoc”; but, in this
 
-      instance, the weight of the satire falls upon the “Hum-drum,” the
+      instance, the weight of the [[Satire|satire]] falls upon the “Hum-drum,” the
 
       “Lollipop,” and the “Goosetherumfoodle,” who are pungently styled
 
@@ -150,7 +150,7 @@ tags:
 
 
 
-      Achilles’ wrath, to Greece the direful spring
+      [[Achilles]]’ wrath, to Greece the direful [[Spring|spring]]
 
       Of woes unnumbered, &c., &c., &c., &c.
 
@@ -194,7 +194,7 @@ tags:
 
       the poor fellow. But the “Goosetherumfoodle” showed, if possible,
 
-      less mercy than the “Lollipop.” It was the “Goosetherumfoodle”
+      less [[Mercy|mercy]] than the “Lollipop.” It was the “Goosetherumfoodle”
 
       that said:
 
@@ -224,6 +224,6 @@ tags:
 
       inform us, also, how frozen rain can be, at one and the same
 
-      time, both ‘holy light,’ (whatever that is,) and an
+      [[Time|time]], both ‘holy light,’ (whatever that is,) and an
 
       ‘offspring?’—which latter term, (if we understand any thing about

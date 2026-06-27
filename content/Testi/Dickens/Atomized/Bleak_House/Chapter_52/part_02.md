@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 52 (part 2)"
+title: "Bleak [[house|House]] — Chapter 52 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -26,7 +26,7 @@ comfort, George?”
 “For your personal comfort. Is there anything you want that would
 lessen the hardship of this confinement?”
 
-“Well, sir,” replied George, after a little cogitation, “I am equally
+“[[Well]], sir,” replied George, after a little cogitation, “I am equally
 obliged to you, but tobacco being against the rules, I can’t say that
 there is.”
 
@@ -35,19 +35,19 @@ you do, George, let us know.”
 
 “Thank you, sir. Howsoever,” observed Mr. George with one of his
 sunburnt smiles, “a man who has been knocking about the world in a
-vagabond kind of a way as long as I have gets on well enough in a
+vagabond kind of a way as long as I have gets on [[Well|well]] enough in a
 place like the present, so far as that goes.”
 
 “Next, as to your case,” observed my guardian.
 
 “Exactly so, sir,” returned Mr. George, folding his arms upon his
-breast with perfect self-possession and a little curiosity.
+breast with perfect [[Self|self]]-possession and a little curiosity.
 
 “How does it stand now?”
 
 “Why, sir, it is under remand at present. Bucket gives me to
 understand that he will probably apply for a series of remands from
-time to time until the case is more complete. How it is to be made
+[[Time|time]] to [[Time|time]] until the case is more complete. How it is to be made
 more complete I don’t myself see, but I dare say Bucket will manage
 it somehow.”
 
@@ -56,21 +56,21 @@ old oddity and vehemence, “you talk of yourself as if you were
 somebody else!”
 
 “No offence, sir,” said Mr. George. “I am very sensible of your
-kindness. But I don’t see how an innocent man is to make up his mind
+kindness. But I don’t see how an [[Innocent|innocent]] man is to make up his mind
 to this kind of thing without knocking his head against the walls
 unless he takes it in that point of view.”
 
 “That is true enough to a certain extent,” returned my guardian,
-softened. “But my good fellow, even an innocent man must take
+softened. “But my good fellow, even an [[Innocent|innocent]] man must take
 ordinary precautions to defend himself.”
 
 “Certainly, sir. And I have done so. I have stated to the
-magistrates, ‘Gentlemen, I am as innocent of this charge as
+magistrates, ‘Gentlemen, I am as [[Innocent|innocent]] of this charge as
 yourselves; what has been stated against me in the way of facts is
 perfectly true; I know no more about it.’ I intend to continue
-stating that, sir. What more can I do? It’s the truth.”
+stating that, sir. What more can I do? It’s the [[Truth|truth]].”
 
-“But the mere truth won’t do,” rejoined my guardian.
+“But the mere [[Truth|truth]] won’t do,” rejoined my guardian.
 
 “Won’t it indeed, sir? Rather a bad look-out for me!” Mr. George
 good-humouredly observed.
@@ -104,7 +104,7 @@ Unfolding his arms and changing his position, he stood with one
 massive hand upon the table and the other on his hip, as complete a
 picture of a man who was not to be moved from a fixed purpose as ever
 I saw. It was in vain that we all three talked to him and endeavoured
-to persuade him; he listened with that gentleness which went so well
+to persuade him; he listened with that gentleness which went so [[Well|well]]
 with his bluff bearing, but was evidently no more shaken by our
 representations that his place of confinement was.
 
@@ -112,7 +112,7 @@ representations that his place of confinement was.
 reference to your case?”
 
 “I certainly could wish it to be tried, miss,” he returned, “by
-court-martial; but that is out of the question, as I am well aware.
+[[Court|court]]-martial; but that is out of the question, as I am [[Well|well]] aware.
 If you will be so good as to favour me with your attention for a
 couple of minutes, miss, not more, I’ll endeavour to explain myself
 as clearly as I can.”
@@ -127,7 +127,7 @@ shooting gallery is rummaged, high and low, by Bucket; such property
 as I have—’tis small—is turned this way and that till it don’t know
 itself; and (as aforesaid) here I am! I don’t particular complain of
 that. Though I am in these present quarters through no immediately
-preceding fault of mine, I can very well understand that if I hadn’t
+preceding fault of mine, I can very [[Well|well]] understand that if I hadn’t
 gone into the vagabond way in my youth, this wouldn’t have happened.
 It HAS happened. Then comes the question how to meet it.”
 
@@ -141,7 +141,7 @@ but he had, what I should call if he was living, a devil of a tight
 hold of me. I don’t like his trade the better for that. If I had kept
 clear of his trade, I should have kept outside this place. But that’s
 not what I mean. Now, suppose I had killed him. Suppose I really had
-discharged into his body any one of those pistols recently fired off
+discharged into his [[Body|body]] any one of those pistols recently fired off
 that Bucket has found at my place, and dear me, might have found
 there any day since it has been my place. What should I have done as
 soon as I was hard and fast here? Got a lawyer.”
@@ -152,9 +152,9 @@ purpose opened, I will mention presently.
 
 “I should have got a lawyer, and he would have said (as I have often
 read in the newspapers), ‘My client says nothing, my client reserves
-his defence’: my client this, that, and t’other. Well, ’tis not the
+his defence’: my client this, that, and t’other. [[Well]], ’tis not the
 custom of that breed to go straight, according to my opinion, or to
-think that other men do. Say I am innocent and I get a lawyer. He
+think that other men do. Say I am [[Innocent|innocent]] and I get a lawyer. He
 would be as likely to believe me guilty as not; perhaps more. What
 would he do, whether or not? Act as if I was—shut my mouth up, tell
 me not to commit myself, keep circumstances back, chop the evidence

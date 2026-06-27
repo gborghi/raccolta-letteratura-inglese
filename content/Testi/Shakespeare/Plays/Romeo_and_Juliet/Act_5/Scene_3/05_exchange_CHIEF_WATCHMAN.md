@@ -1,5 +1,5 @@
 ---
-title: "Romeo and Juliet — Act V, Scene 3 — exchange (CHIEF WATCHMAN) [5]"
+title: "[[Romeo]] and [[Juliet]] — Act V, Scene 3 — exchange (CHIEF WATCHMAN) [5]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/ROMEO-AND-JULIET-(Shakespeare)"
@@ -15,22 +15,22 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| CHIEF WATCHMAN | Hold him in safety till the Prince come hither. Enter another Watchman with Friar Laurence |
+| CHIEF WATCHMAN | Hold him in safety till the Prince come hither. Enter another Watchman with [[Friar Laurence]] |
 | THIRD WATCHMAN | Here is a friar that trembles, sighs, and weeps. We took this mattock and this spade from him As he was coming from this churchyard’s side. |
 | CHIEF WATCHMAN | A great suspicion. Stay the friar, too. Enter the Prince with others |
-| PRINCE | What misadventure is so early up, That calls our person from our morning rest? Enter Capulet and his Wife |
-| CAPULET | What should it be that is so shrieked abroad? |
-| CAPULET’S WIFE | O, the people in the street cry ‘Romeo’, Some ‘Juliet’, and some ‘Paris’, and all run With open outcry toward our monument. |
-| PRINCE | What fear is this which startles in our ears? |
-| CHIEF WATCHMAN | Sovereign, here lies the County Paris slain, And Romeo dead, and Juliet, dead before, Warm, and new killed. |
+| PRINCE | What misadventure is so early up, That calls our person from our morning rest? Enter [[Capulet]] and his Wife |
+| [[Capulet|CAPULET]] | What should it be that is so shrieked abroad? |
+| [[Capulet|CAPULET]]’S WIFE | O, the people in the street cry ‘[[Romeo]]’, Some ‘[[Juliet]]’, and some ‘[[Paris]]’, and all run With open outcry toward our monument. |
+| PRINCE | What [[Fear|fear]] is this which startles in our ears? |
+| CHIEF WATCHMAN | Sovereign, here lies the County [[Paris]] slain, And [[Romeo]] dead, and [[Juliet]], dead before, Warm, and new killed. |
 | PRINCE | Search, seek, and know how this foul murder comes. |
-| CHIEF WATCHMAN | Here is a friar, and slaughtered Romeo’s man, With instruments upon them fit to open These dead men’s tombs. |
-| CAPULET | O heavens! O wife, look how our daughter bleeds! This dagger hath mista’en, for lo, his house Is empty on the back of Montague, And it mis-sheathèd in my daughter’s bosom. |
-| CAPULET’S WIFE | O me, this sight of death is as a bell 205 That warns my old age to a sepulchre. Enter Montague |
+| CHIEF WATCHMAN | Here is a friar, and slaughtered [[Romeo]]’s man, With instruments upon them fit to open These dead men’s tombs. |
+| [[Capulet|CAPULET]] | O heavens! O wife, look how our daughter bleeds! This dagger hath mista’en, for lo, his [[house]] Is empty on the back of Montague, And it mis-sheathèd in my daughter’s bosom. |
+| [[Capulet|CAPULET]]’S WIFE | O me, this sight of [[Death|death]] is as a bell 205 That warns my old age to a sepulchre. Enter Montague |
 | PRINCE | Come, Montague, for thou art early up To see thy son and heir more early down. |
-| MONTAGUE | Alas, my liege, my wife is dead tonight. Grief of my son’s exile hath stopped her breath. 210 What further woe conspires against mine age? |
+| MONTAGUE | Alas, my liege, my wife is dead tonight. Grief of my son’s [[Exile|exile]] hath stopped her breath. 210 What further woe conspires against mine age? |
 | PRINCE | Look, and thou shalt see. |
-| MONTAGUE | (seeing Romeo’s body) O thou untaught! What manners is in this, To press before thy father to a grave? |
-| PRINCE | Seal up the mouth of outrage for a while, 215 Till we can clear these ambiguities And know their spring, their head, their true descent; And then will I be general of your woes, And lead you even to death. Meantime, forbear, And let mischance be slave to patience. 220 Bring forth the parties of suspicion. |
-| FRIAR LAURENCE | I am the greatest, able to do least, Yet most suspected, as the time and place Doth make against me, of this direful murder; And here I stand, both to impeach and purge Myself condemned and myself excused. |
+| MONTAGUE | (seeing [[Romeo]]’s [[Body|body]]) O thou untaught! What manners is in this, To press before thy father to a [[Grave|grave]]? |
+| PRINCE | Seal up the mouth of outrage for a while, 215 Till we can clear these ambiguities And know their [[Spring|spring]], their head, their true descent; And then will I be general of your woes, And lead you even to [[Death|death]]. Meantime, forbear, And let mischance be slave to patience. 220 Bring forth the parties of suspicion. |
+| [[Friar Laurence|FRIAR LAURENCE]] | I am the greatest, able to do least, Yet most suspected, as the [[Time|time]] and place Doth make against me, of this direful murder; And here I stand, both to impeach and purge Myself condemned and myself excused. |
 | PRINCE | Then say at once what thou dost know in this. |

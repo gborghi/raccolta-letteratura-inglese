@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — R. WALTER WINDRUSH, the eminent and eccentric painter and poet, lived in (part 2)"
+title: "[[FourFaultlessFelons]] — R. WALTER WINDRUSH, the eminent and eccentric painter and poet, lived in (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-daylight peer through its caverns like hell in Milton's poem; cloven as
+daylight peer through its caverns like hell in [[Milton]]'s poem; cloven as
 
-if by Alph the subterranean river and rising stark and clear of the
+if by Alph the subterranean [[River|river]] and rising stark and clear of the
 
 clinging earth like the dead at the trump of doom. I have never seen
 
@@ -24,9 +24,9 @@ anything like it. I do not really want to see anything else."
 
 
 
-There was perhaps some excuse for his freak of imagination, in the
+There was perhaps some excuse for his freak of [[Imagination|imagination]], in the
 
-momentary conditions that added mystery to the freak of nature. The
+momentary conditions that added mystery to the freak of [[Nature|nature]]. The
 
 stormy sky above the heath had changed from grey to purple, and from that
 
@@ -38,7 +38,7 @@ bizarre outline of the tree had really the appearance of something more
 
 mystical than a natural object; as if a tree were trying to walk or a
 
-monster from the waters rising in a wild effort to fly. But even if
+[[Monster|monster]] from the waters rising in a wild effort to fly. But even if
 
 Windrush's companions had been more sympathetic with such moods than they
 
@@ -90,15 +90,15 @@ business with me."
 
 
 
-"Don't be a fool, Windrush," said his other companion sharply, "you can't
+"Don't be a [[Fool|fool]], Windrush," said his other companion sharply, "you can't
 
-really want to be left here all night."
+really want to be left here all [[Night|night]]."
 
 
 
 "That happens to be exactly what I do want," replied Windrush. "I have
 
-seen the sun sink in my own private pool, and I want to see the moon rise
+seen the sun sink in my own private pool, and I want to see the [[Moon|moon]] rise
 
 out of it. You can't blame a prospective purchaser for testing the
 
@@ -124,9 +124,9 @@ style and gesture, bowing with sweeping motions of courtesy.
 
 
 
-"I beg your pardon," he said magnificently; "I do hope you will come down
+"I beg your pardon," he said magnificently; "I do [[Hope|hope]] you will come down
 
-to my little place again. I fear I have failed in hospitality."
+to my little place again. I [[Fear|fear]] I have failed in hospitality."
 
 
 
@@ -136,15 +136,15 @@ resumed his seat on the bank, he sat gazing in a fascinated manner at the
 
 pools before him which, in the last intensity of sunset, gleamed like
 
-lakes of blood. He actually remained thus for many hours, seeing the red
+lakes of [[Blood|blood]]. He actually remained thus for many hours, seeing the red
 
-pools turn black with night and white with moonlight; as if he were
+pools turn black with [[Night|night]] and white with moonlight; as if he were
 
 indeed some Hindoo hermit who had gone into a stony ecstasy. But when he
 
 first moved on the following morning, he seemed filled with a far more
 
-novel and surprising practicality. He betook himself to the agents of the
+[[Novel|novel]] and surprising practicality. He betook himself to the agents of the
 
 estate; he explained and negotiated for several months, and at length
 
@@ -154,11 +154,11 @@ surrounding his favourite freak of vegetation, and proceeded to fence it
 
 in with the most mathematical rigidity, like a settler staking out a
 
-claim in a desert. The rest of his extraordinary enterprise was all the
+claim in a [[Desert|desert]]. The rest of his extraordinary enterprise was all the
 
 more extraordinary for being comparatively ordinary. He built a small
 
-house on the land; he betook himself to habits of literary industry and
+[[house]] on the land; he betook himself to habits of literary industry and
 
 respectability which soon enabled him to turn it into a very presentable
 
@@ -166,29 +166,29 @@ country dwelling. In due course he even completed his social
 
 solidification by marrying a wife, who died after presenting him with one
 
-child, a daughter. The daughter grew up happily enough in these rustic
+[[Child|child]], a daughter. The daughter grew up happily enough in these rustic
 
 but not rude conditions, and the life of Mr. Walter Windrush continued in
 
-sufficient serenity, until the coming of the great tragedy of his later
+sufficient serenity, until the coming of the great [[Tragedy|tragedy]] of his later
 
 life.
 
 
 
-The name of that tragedy was London. The endless expansion of the city
+The name of that [[Tragedy|tragedy]] was [[London]]. The endless expansion of the [[City|city]]
 
 came crawling over those hills and commons like a rising sea, and the
 
-rest of his history, or of that part of his history, was entirely
+rest of his [[history]], or of that part of his [[history]], was entirely
 
 concerned with his moods of defiance and measures of defence in the face
 
-of so incongruous a deluge. He swore by all the Muses that if this
+of so incongruous a [[deluge]]. He swore by all the Muses that if this
 
 loathsome labyrinth of ugliness and vulgarity must indeed surround his
 
-sacred tree and his secret garden, at least it should not touch them. He
+sacred tree and his secret [[Garden|garden]], at least it should not touch them. He
 
 erected a ridiculously high wall all round the spot; he observed the
 
@@ -196,7 +196,7 @@ utmost ceremony about admitting anyone into it, and indeed, towards the
 
 end, the ceremony rather hardened into suspicion. Some unwary guests had
 
-treated the garden as if it were a garden; nay, even the tree as if it
+treated the [[Garden|garden]] as if it were a [[Garden|garden]]; nay, even the tree as if it
 
 were a tree. And as it was his boast that this his hermitage was the last
 
@@ -204,13 +204,13 @@ free space of the earth left in England, and the refuge of a poetry
 
 everywhere else conquered by prose, he fell latterly into a habit of
 
-locking the door into the garden and putting the key in his pocket. In
+locking the door into the [[Garden|garden]] and putting the key in his pocket. In
 
 every other aspect of life he was quite hospitable and humane; he gave
 
-his daughter a very good time in every other direction, but he tended
+his daughter a very good [[Time|time]] in every other direction, but he tended
 
-more and more to treating this place as sacred to his own solitude, and
+more and more to treating this place as sacred to his own [[Solitude|solitude]], and
 
 through long days and nights nothing ever stirred in that strange
 

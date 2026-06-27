@@ -1,5 +1,5 @@
 ---
-title: "history — Chapter 4"
+title: "[[history]] — Chapter 4"
 author: "Chesterton"
 unitType: chapter
 parentWork: "Works/history-(Chesterton)"
@@ -28,12 +28,12 @@ But it is as disastrously long-sighted to be interested only
 in what is prehistoric.  And this disaster has befallen a large
 proportion of the learned who grope in the darkness of unrecorded
 epochs for the roots of their favourite race or races.
-The wars, the enslavements, the primitive marriage customs,
+The wars, the enslavements, the primitive [[Marriage|marriage]] customs,
 the colossal migrations and massacres upon which their
-theories repose, are no part of history or even of legend.
+theories repose, are no part of [[history]] or even of legend.
 And rather than trust with entire simplicity to these it would
 be infinitely wiser to trust to legend of the loosest and most
-local sort.  In any case, it is well to record even so simple
+local sort.  In any case, it is [[Well|well]] to record even so simple
 a conclusion as that what is prehistoric is unhistorical.
 
 But there is another way in which common sense can be brought
@@ -50,15 +50,15 @@ They could show how the long-sighted people were always cut
 to pieces in hand-to-hand struggles with axe and knife;
 until, with the invention of bows and arrows, the advantage veered
 to the long-sighted, and their enemies were shot down in droves.
-I could easily write a ruthless romance about it, and still more
+I could easily write a ruthless [[Romance|romance]] about it, and still more
 easily a ruthless anthropological theory.  According to that thesis
 which refers all moral to material changes, they could explain
 the tradition that old people grow conservative in politics
-by the well-known fact that old people grow more long-sighted.
+by the [[Well|well]]-known fact that old people grow more long-sighted.
 But I think there might be one thing about this theory which
 would stump us, and might even, if it be possible, stump them.
 Suppose it were pointed out that through all the three thousand
-years of recorded history, abounding in literature of every
+years of recorded [[history]], abounding in literature of every
 conceivable kind, there was not so much as a mention of
 the oculist question for which all had been dared and done.
 Suppose not one of the living or dead languages of mankind
@@ -67,19 +67,19 @@ Suppose, in short, the question that had torn the whole world
 in two was never even asked at all, until some spectacle-maker
 suggested it somewhere about 1750.  In that case I think we
 should find it hard to believe that this physical difference
-had really played so fundamental a part in human history.
+had really played so fundamental a part in human [[history]].
 And that is exactly the case with the physical difference
 between the Celts, the Teutons and the Latins.
 
 I know of no way in which fair-haired people can be prevented
-from falling in love with dark-haired people; and I do not believe
+from falling in [[Love|love]] with dark-haired people; and I do not believe
 that whether a man was long-headed or round-headed ever made
 much difference to any one who felt inclined to break his head.
 To all mortal appearance, in all mortal records and experience,
 people seem to have killed or spared, married or refrained
-from marriage, made kings or made slaves, with reference
+from [[Marriage|marriage]], made kings or made slaves, with reference
 to almost any other consideration except this one.
-There was the love of a valley or a village, a site or a family;
+There was the [[Love|love]] of a valley or a village, a site or a family;
 there were enthusiasms for a prince and his hereditary office;
 there were passions rooted in locality, special emotions about
 sea-fold or mountain-fold; there were historic memories of a cause
@@ -92,7 +92,7 @@ they never had a cause; and it was only a few years ago that they
 began even to have a cant.
 
 The orthodox modern historian, notably Green, remarks on
-the singularity of Britain in being alone of all Roman
+the singularity of Britain in being [[Alone|alone]] of all Roman
 provinces wholly cleared and repeopled by a Germanic race.
 He does not entertain, as an escape from the singularity of this even,
 the possibility that it never happened.  In the same spirit he deals
@@ -111,7 +111,7 @@ British chronicler, does not describe the great Teutonic system.
 In the opinion of Gildas, a modification of that of Gregory,
 it was a case of non Angli sed diaboli.  The modern Teutonist
 is `disappointed' that the contemporary authority saw nothing in his
-Teutons except wolves, dogs, and whelps from the kennel of barbarism.
+Teutons except wolves, [[dogs]], and whelps from the kennel of barbarism.
 But it is at least faintly tenable that there was nothing else
 to be seen.
 
@@ -121,24 +121,24 @@ visitations which civilized these islands, he did not see any
 ethnological problems, whatever there may have been to be seen.
 With him or his converts the chain of literary testimony is
 taken up again; and we must look at the world as they saw it.
-He found a king ruling in Kent, beyond whose borders lay other
+He found a [[King|king]] ruling in [[Kent]], beyond whose borders lay other
 kingdoms of about the same size, the kings of which were all
 apparently heathen.  The names of these kings were mostly what we
 call Teutonic names; but those who write the almost entirely
 hagiological records did not say, and apparently did not ask,
-whether the populations were in this sense of unmixed blood.
+whether the populations were in this sense of unmixed [[Blood|blood]].
 It is at least possible that, as on the Continent,
 the kings and courts were almost the only Teutonic element.
 The Christians found converts, they found patrons,
 they found persecutors; but they did not find Ancient Britons
 because they did not look for them; and if they moved
 among pure Anglo-Saxons they had not the gratification
-of knowing it.  There was, indeed, what all history attests,
+of knowing it.  There was, indeed, what all [[history]] attests,
 a marked change of feeling towards the marches of Wales.
-But all history also attests that this is always found,
+But all [[history]] also attests that this is always found,
 apart from any difference in race, in the transition from
 the lowlands to the mountain country.  But of all the things they
-found the thing that counts most in English history is this:
+found the thing that counts most in English [[history]] is this:
 that some of the kingdoms at least did correspond to genuine
 human divisions, which not only existed then but which exist now.
 Northumbria is still a truer thing than Northumberland.
@@ -147,64 +147,64 @@ Saxon kingdom whose name is not even to be found upon the map,
 the kingdom of Wessex, is called the West Country and is to-day
 the most real of them all.
 
-The last of the heathen kingdoms to accept the cross was Mercia,
+The last of the heathen kingdoms to accept the [[Cross|cross]] was Mercia,
 which corresponds very roughly to what we call the Midlands.
-The unbaptized king, Penda, has even achieved a certain picturesqueness
+The unbaptized [[King|king]], Penda, has even achieved a certain picturesqueness
 through this fact, and through the forays and furious ambitions
 which constituted the rest of his reputation; so much so that
 the other day one of those mystics who will believe anything but
-Christianity proposed to "continue the work of Penda" in Ealing:
+[[Christianity]] proposed to "continue the work of Penda" in Ealing:
 fortunately not on any large scale.  What that prince believed or
 disbelieved it is now impossible and perhaps unnecessary to discover;
-but the last stand of his central kingdom is not insignificant.
+but the [[Last Stand|last stand]] of his central kingdom is not insignificant.
 The isolation of the Mercian was perhaps due to the fact
-that Christianity grew from the eastern and western coasts.
+that [[Christianity]] grew from the eastern and western coasts.
 The eastern growth was, of course, the Augustinian mission,
 which had already made Canterbury the spiritual capital of the island.
-The western grew from whatever was left of the British Christianity.
+The western grew from whatever was left of the British [[Christianity]].
 The two clashed, not in creed but in customs; and the Augustinians
 ultimately prevailed.  But the work from the west had already
 been enormous.  It is possible that some prestige went with the possession
 of Glastonbury, which was like a piece of the Holy Land; but behind
 Glastonbury there was an even grander and more impressive power.
-There irradiated to all Europe at that time the glory of the golden
+There irradiated to all Europe at that [[Time|time]] the glory of the golden
 age of Ireland.  There the Celts were the classics of Christian art,
-opened in the Book of Kells four hundred years before its time.
+opened in the Book of Kells four hundred years before its [[Time|time]].
 There the baptism of the whole people had been a spontaneous popular
 festival which reads almost like a picnic; and thence came crowds
 of enthusiasts for the Gospel almost literally like men running with
 good news.  This must be remembered through the development of that dark
 dual destiny that has bound us to Ireland:  for doubts have been thrown
-on a national unity which was not from the first a political unity.
+on a national [[unity]] which was not from the first a political [[unity]].
 But if Ireland was not one kingdom it was in reality one bishopric.
-Ireland was not converted but created by Christianity, as a stone church
+Ireland was not converted but created by [[Christianity]], as a stone church
 is created; and all its elements were gathered as under a garment,
 under the genius of St. Patrick.  It was the more individual because
 the religion was mere religion, without the secular conveniences.
 Ireland was never Roman, and it was always Romanist.
 
 But indeed this is, in a lesser degree, true of our more
-immediate subject.  It is the paradox of this time that only
-the unworldly things had any worldly success.  The politics are
-a nightmare; the kings are unstable and the kingdoms shifting;
+immediate subject.  It is the [[Paradox|paradox]] of this [[Time|time]] that only
+the unworldly things had any worldly [[success]].  The politics are
+a [[nightmare]]; the kings are unstable and the kingdoms shifting;
 and we are really never on solid ground except on consecrated ground.
 The material ambitions are not always unfruitful but nearly
 always unfulfilled.  The castles are all castles in the air;
 it is only the churches that are built on the ground.
 The visionaries are the only practical men, as in that
 extraordinary thing, the monastery, which was, in many ways,
-to be the key of our history.  The time was to come when it was
+to be the key of our [[history]].  The [[Time|time]] was to come when it was
 to be rooted out of our country with a curious and careful violence;
 and the modern English reader has therefore a very feeble
 idea of it and hence of the ages in which it worked.
-Even in these pages a word or two about its primary nature
+Even in these pages a word or two about its primary [[Nature|nature]]
 is therefore quite indispensable.
 
 In the tremendous testament of our religion there are present
 certain ideals that seem wilder than impieties, which have
 in later times produced wild sects professing an almost inhuman
 perfection on certain points; as in the Quakers who renounce
-the right of self-defence, or the Communists who refuse any
+the right of [[Self|self]]-defence, or the Communists who refuse any
 personal possessions.  Rightly or wrongly, the Christian Church
 had from the first dealt with these visions as being special
 spiritual adventures which were to the adventurous.  She reconciled
@@ -216,7 +216,7 @@ family, or property as a sort of exception that proved the rule.
 Now the interesting fact is that he really did prove it.
 This madman who would not mind his own business becomes the business
 man of the age.  The very word "monk" is a revolution, for it means
-solitude and came to mean community--one might call it sociability.
+[[Solitude|solitude]] and came to mean community--one might call it sociability.
 What happened was that this communal life became a sort
 of reserve and refuge behind the individual life; a hospital
 for every kind of hospitality.  We shall see later how this
@@ -224,23 +224,23 @@ same function of the common life was given to the common land.
 It is hard to find an image for it in individualist times;
 but in private life we most of us know the friend of the family
 who helps it by being outside, like a fairy godmother.
-It is not merely flippant to say that monks and nuns stood
+It is not merely flippant to say that [[Monks|monks]] and nuns stood
 to mankind as a sort of sanctified league of aunts and uncles.
 It is a commonplace that they did everything that nobody
 else would do; that the abbeys kept the world's diary,
 faced the plagues of all flesh, taught the first technical arts,
 preserved the pagan literature, and, above all, kept the poor
-from the most distant sight of their modern despair.
+from the most distant sight of their modern [[Despair|despair]].
 We still find it necessary to have a reserve of philanthropists,
 but we trust it to men who have made themselves rich, not to men
 who have made themselves poor.  Finally, the abbots and abbesses
-were elective.  They introduced representative government,
-unknown to ancient democracy, and in itself a semi-sacramental idea.
+were elective.  They introduced representative [[government]],
+unknown to ancient [[Democracy|democracy]], and in itself a semi-sacramental idea.
 If we could look from the outside at our own institutions, we should
 see that the very notion of turning a thousand men into one large man
-walking to Westminster is not only an act of faith, but a fairy tale.
-The fruitful and effective history of Anglo-Saxon England would
-be almost entirely a history of its monasteries.  Mile by mile,
+walking to Westminster is not only an act of [[Faith|faith]], but a fairy tale.
+The fruitful and effective [[history]] of Anglo-Saxon England would
+be almost entirely a [[history]] of its monasteries.  Mile by mile,
 and almost man by man, they taught and enriched the land.
 And then, about the beginning of the ninth century, there came
 a turn, as of the twinkling of an eye, and it seemed that all
@@ -250,38 +250,38 @@ The outer world of universal anarchy that lay beyond Christendom
 heaved another of its colossal and almost cosmic waves and swept
 everything away.  Through all the eastern gates, left open,
 as it were, by the first barbarian auxiliaries, burst a plague
-of seafaring savages from Denmark and Scandinavia; and the recently
+of seafaring savages from [[Denmark]] and Scandinavia; and the recently
 baptized barbarians were again flooded by the unbaptized.
-All this time, it must be remembered, the actual central mechanism
-of Roman government had been running down like a click.
+All this [[Time|time]], it must be remembered, the actual central mechanism
+of Roman [[government]] had been running down like a click.
 It was really a race between the driving energy of the
 missionaries on the edges of the Empire and the galloping
-paralysis of the city at the centre.  In the ninth century
+paralysis of the [[City|city]] at the centre.  In the ninth century
 the heart had stopped before the hands could bring help to it.
 All the monastic civilization which had grown up in Britain
 under a vague Roman protection perished unprotected.
 The toy kingdoms of the quarrelling Saxons were smashed
-like sticks; Guthrum, the pirate chief, slew St. Edmund,
-assumed the crown of East England, took tribute from the panic
+like sticks; Guthrum, the pirate chief, slew St. [[Edmund]],
+assumed the [[Crown|crown]] of East England, took tribute from the panic
 of Mercia, and towered in menace over Wessex, the last of
 the Christian lands.  The story that follows, page after page,
-is only the story of its despair and its destruction.
+is only the story of its [[Despair|despair]] and its destruction.
 The story is a string of Christian defeats alternated
 with victories so vain as to be more desolate than defeats.
 It is only in one of these, the fine but fruitless victory
 at Ashdown, that we first see in the dim struggle,
 in a desperate and secondary part, the figure who has
 given his title to the ultimate turning of the tide.
-For the victor was not then the king, but only the king's
+For the victor was not then the [[King|king]], but only the [[King|king]]'s
 younger brother.  There is, from the first, something humble
 and even accidental about Alfred.  He was a great understudy.
 The interest of his daily life lies in this:  that he combined
 an almost commonplace coolness, and readiness for the ceaseless
 small bargains and shifting combinations of all that period,
 with the flaming patience of saints in times of persecution.
-While he would dare anything for the faith, he would
-bargain in anything except the faith.  He was a conqueror,
-with no ambition; an author only too glad to be a translator;
+While he would dare anything for the [[Faith|faith]], he would
+bargain in anything except the [[Faith|faith]].  He was a conqueror,
+with no [[Ambition|ambition]]; an author only too glad to be a translator;
 a simple, concentrated, wary man, watching the fortunes
 of one thing, which he piloted both boldly and cautiously,
 and which he saved at last.
@@ -295,7 +295,7 @@ But Alfred, as he himself wrote in words that are his challenge
 to the period, held that a Christian man was unconcerned with fate.
 He began once more to draw to him the bows and spears of the broken
 levies of the western shires, especially the men of Somerset;
-and in the spring of 878 he flung them at the lines before
+and in the [[spring]] of 878 he flung them at the lines before
 the fenced camp of the victorious Danes at Ethandune.
 His sudden assault was as successful as that at Ashdown,
 and it was followed by a siege which was successful in a
@@ -308,19 +308,19 @@ The modern reader will smile at the baptism, and turn with great
 interest to the terms of the treaty.  In this acute attitude
 the modern reader will be vitally and hopelessly wrong.
 He must support the tedium of frequent references to the religious
-element in this part of English history, for without it
-there would never have been any English history at all.
-And nothing could clinch this truth more than the case of the Danes.
+element in this part of English [[history]], for without it
+there would never have been any English [[history]] at all.
+And nothing could clinch this [[Truth|truth]] more than the case of the Danes.
 In all the facts that followed, the baptism of Guthrum
 is really much more important than the Treaty of Wedmore.
 The treaty itself was a compromise, and even as such did
-not endure; a century afterwards a Danish king like Canute
+not endure; a century afterwards a Danish [[King|king]] like Canute
 was really ruling in England.  But though the Dane got
-the crown, he did not get rid of the cross.  It was precisely
+the [[Crown|crown]], he did not get rid of the [[Cross|cross]].  It was precisely
 Alfred's religious exaction that remained unalterable.
 And Canute himself is actually now only remembered by men
 as a witness to the futility of merely pagan power;
-as the king who put his crown upon the image of Christ,
+as the [[King|king]] who put his [[Crown|crown]] upon the image of [[Christ]],
 and solemnly surrendered to heaven the Scandinavian empire
 of the sea.
 

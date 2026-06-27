@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 9: I HAVE A MEMORABLE BIRTHDAY (part 2)"
+title: "[[David Copperfield]] — Chapter 9: I HAVE A MEMORABLE BIRTHDAY (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -19,40 +19,40 @@ tags:
 ‘Yes, sir.’
 
 ‘Will you come with me, young sir, if you please,’ he said, opening the
-door, ‘and I shall have the pleasure of taking you home.’
+door, ‘and I shall have the pleasure of taking you [[Home|home]].’
 
 I put my hand in his, wondering who he was, and we walked away to a
 shop in a narrow street, on which was written OMER, DRAPER, TAILOR,
 HABERDASHER, FUNERAL FURNISHER, &c. It was a close and stifling little
 shop; full of all sorts of clothing, made and unmade, including
-one window full of beaver-hats and bonnets. We went into a little
+one [[Window|window]] full of beaver-hats and bonnets. We went into a little
 back-parlour behind the shop, where we found three young women at work
 on a quantity of black materials, which were heaped upon the table,
 and little bits and cuttings of which were littered all over the floor.
-There was a good fire in the room, and a breathless smell of warm black
+There was a good [[Fire|fire]] in the room, and a breathless smell of warm black
 crape--I did not know what the smell was then, but I know now.
 
 The three young women, who appeared to be very industrious and
 comfortable, raised their heads to look at me, and then went on with
-their work. Stitch, stitch, stitch. At the same time there came from
-a workshop across a little yard outside the window, a regular sound
+their work. Stitch, stitch, stitch. At the same [[Time|time]] there came from
+a workshop across a little yard outside the [[Window|window]], a regular sound
 of hammering that kept a kind of tune: RAT--tat-tat, RAT--tat-tat,
 RAT--tat-tat, without any variation.
 
-‘Well,’ said my conductor to one of the three young women. ‘How do you
+‘[[Well]],’ said my conductor to one of the three young women. ‘How do you
 get on, Minnie?’
 
-‘We shall be ready by the trying-on time,’ she replied gaily, without
+‘We shall be ready by the trying-on [[Time|time]],’ she replied gaily, without
 looking up. ‘Don’t you be afraid, father.’
 
 Mr. Omer took off his broad-brimmed hat, and sat down and panted. He was
-so fat that he was obliged to pant some time before he could say:
+so fat that he was obliged to pant some [[Time|time]] before he could say:
 
 ‘That’s right.’
 
 ‘Father!’ said Minnie, playfully. ‘What a porpoise you do grow!’
 
-‘Well, I don’t know how it is, my dear,’ he replied, considering about
+‘[[Well]], I don’t know how it is, my dear,’ he replied, considering about
 it. ‘I am rather so.’
 
 ‘You are such a comfortable man, you see,’ said Minnie. ‘You take things
@@ -63,7 +63,7 @@ so easy.’
 ‘No, indeed,’ returned his daughter. ‘We are all pretty gay here, thank
 Heaven! Ain’t we, father?’
 
-‘I hope so, my dear,’ said Mr. Omer. ‘As I have got my breath now, I
+‘I [[Hope|hope]] so, my dear,’ said Mr. Omer. ‘As I have got my breath now, I
 think I’ll measure this young scholar. Would you walk into the shop,
 Master Copperfield?’
 
@@ -86,7 +86,7 @@ been beyond me under any circumstances; and Mr. Omer took me back into
 the parlour, breathing with some difficulty on the way.
 
 He then called down a little break-neck range of steps behind a door:
-‘Bring up that tea and bread-and-butter!’ which, after some time,
+‘Bring up that tea and bread-and-butter!’ which, after some [[Time|time]],
 during which I sat looking about me and thinking, and listening to the
 stitching in the room and the tune that was being hammered across the
 yard, appeared on a tray, and turned out to be for me.
@@ -94,7 +94,7 @@ yard, appeared on a tray, and turned out to be for me.
 ‘I have been acquainted with you,’ said Mr. Omer, after watching me
 for some minutes, during which I had not made much impression on the
 breakfast, for the black things destroyed my appetite, ‘I have been
-acquainted with you a long time, my young friend.’
+acquainted with you a long [[Time|time]], my young friend.’
 
 ‘Have you, sir?’
 
@@ -124,23 +124,23 @@ dead.’
 My wounds broke out afresh at this intelligence. I left the
 scarcely-tasted breakfast, and went and rested my head on another table,
 in a corner of the little room, which Minnie hastily cleared, lest I
-should spot the mourning that was lying there with my tears. She was
+should spot the mourning that was lying there with my [[Tears|tears]]. She was
 a pretty, good-natured girl, and put my hair away from my eyes with a
 soft, kind touch; but she was very cheerful at having nearly finished
-her work and being in good time, and was so different from me!
+her work and being in good [[Time|time]], and was so different from me!
 
 Presently the tune left off, and a good-looking young fellow came across
 the yard into the room. He had a hammer in his hand, and his mouth was
 full of little nails, which he was obliged to take out before he could
 speak.
 
-‘Well, Joram!’ said Mr. Omer. ‘How do you get on?’
+‘[[Well]], Joram!’ said Mr. Omer. ‘How do you get on?’
 
 ‘All right,’ said Joram. ‘Done, sir.’
 
 Minnie coloured a little, and the other two girls smiled at one another.
 
-‘What! you were at it by candle-light last night, when I was at the
+‘What! you were at it by candle-light last [[Night|night]], when I was at the
 club, then? Were you?’ said Mr. Omer, shutting up one eye.
 
 ‘Yes,’ said Joram. ‘As you said we could make a little trip of it, and

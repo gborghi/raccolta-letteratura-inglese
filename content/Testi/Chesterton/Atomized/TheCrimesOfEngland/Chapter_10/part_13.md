@@ -1,5 +1,5 @@
 ---
-title: "TheCrimesOfEngland — Chapter 10 (part 13)"
+title: "[[TheCrimesOfEngland]] — Chapter 10 (part 13)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/TheCrimesOfEngland-(Chesterton)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-ruin because we neglected that truth, and would insist on treating our
+ruin because we neglected that [[Truth|truth]], and would insist on treating our
 
 crimes of the '98 and after as very distant; while in Irish feeling, and
 
@@ -28,21 +28,21 @@ be forgiven.
 
 
 
-The truth about Ireland is simply this: that the relations between
+The [[Truth|truth]] about Ireland is simply this: that the relations between
 
 England and Ireland are the relations between two men who have to travel
 
 together, one of whom tried to stab the other at the last stopping-place
 
-or to poison the other at the last inn. Conversation may be courteous,
+or to [[Poison|poison]] the other at the last inn. Conversation may be courteous,
 
 but it will be occasionally forced. The topic of attempted murder, its
 
-examples in history and fiction, may be tactfully avoided in the
+examples in [[history]] and fiction, may be tactfully avoided in the
 
 sallies; but it will be occasionally present in the thoughts. Silences,
 
-not devoid of strain, will fall from time to time. The partially
+not devoid of strain, will fall from [[Time|time]] to [[Time|time]]. The partially
 
 murdered person may even think an assault unlikely to recur; but it is
 
@@ -56,9 +56,9 @@ unmistakable manner--as by saving the other from robbers at great
 
 personal risk--the victim may still be unable to repress an abstract
 
-psychological wonder about when his companion first began to feel like
+psychological [[Wonder|wonder]] about when his companion first began to feel like
 
-that. Now this is not in the least an exaggerated parable of the
+that. Now this is not in the least an exaggerated [[Parable|parable]] of the
 
 position of England towards Ireland, not only in '98, but far back from
 
@@ -74,7 +74,7 @@ conduct during the Famine was quite simply the conduct of the first man
 
 if he entertained the later moments of the second man, by remarking in a
 
-chatty manner on the very hopeful chances of his bleeding to death. The
+chatty manner on the very hopeful chances of his bleeding to [[Death|death]]. The
 
 British Prime Minister publicly refused to stop the Famine by the use of
 
@@ -86,7 +86,7 @@ ones. The common verdict of a coroner's jury upon some emaciated wretch
 
 was "Wilful murder by Lord John Russell": and that verdict was not only
 
-the verdict of Irish public opinion, but is the verdict of history. But
+the verdict of Irish public opinion, but is the verdict of [[history]]. But
 
 there were those in influential positions in England who were not
 
@@ -96,11 +96,11 @@ motive. The _Times_, which had then a national authority and
 
 respectability which gave its words a weight unknown in modern
 
-journalism, openly exulted in the prospect of a Golden Age when the kind
+journalism, openly exulted in the prospect of a [[Golden Age]] when the kind
 
 of Irishman native to Ireland would be "as rare on the banks of the
 
-Liffey as a red man on the banks of the Manhattan." It seems
+Liffey as a red man on the banks of the [[Manhattan]]." It seems
 
 sufficiently frantic that such a thing should have been said by one
 
@@ -108,7 +108,7 @@ European of another, or even of a Red Indian, if Red Indians had
 
 occupied anything like the place of the Irish then and since; if there
 
-were to be a Red Indian Lord Chief Justice and a Red Indian
+were to be a Red Indian [[Lord Chief Justice]] and a Red Indian
 
 Commander-in-Chief, if the Red Indian Party in Congress, containing
 
@@ -144,9 +144,9 @@ ordinary misrule in the vital matter of its object. The coercion was not
 
 imposed that the people might live quietly, but that the people might
 
-die quietly. And then we sit in an owlish innocence of our sin, and
+die quietly. And then we sit in an owlish [[innocence]] of our sin, and
 
-debate whether the Irish might conceivably succeed in saving Ireland.
+[[debate]] whether the Irish might conceivably succeed in saving Ireland.
 
 We, as a matter of fact, have not even failed to save Ireland. We have
 
@@ -162,7 +162,7 @@ English in the matter? There is: though the English never by any chance
 
 say it. Nor do the Irish say it; though it is in a sense a weakness as
 
-well as a defence. One would think the Irish had reason to say anything
+[[Well|well]] as a defence. One would think the Irish had reason to say anything
 
 that can be said against the English ruling class, but they have not
 
@@ -170,9 +170,9 @@ said, indeed they have hardly discovered, one quite simple fact--that it
 
 rules England. They are right in asking that the Irish should have a say
 
-in the Irish government, but they are quite wrong in supposing that the
+in the Irish [[government]], but they are quite wrong in supposing that the
 
-English have any particular say in English government. And I seriously
+English have any particular say in English [[government]]. And I seriously
 
 believe I am not deceived by any national bias, when I say that the
 

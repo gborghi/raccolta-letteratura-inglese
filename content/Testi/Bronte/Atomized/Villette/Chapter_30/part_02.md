@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 29 (part 2)"
+title: "[[Villette]] — Chapter 29 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -15,10 +15,10 @@ tags:
 
 
 “How wisely you have acted to keep your money, Miss Lucie,” she said:
-“silly I have gone and thrown away two francs on a bouquet of hot-house
-flowers!”
+“silly I have gone and thrown away two francs on a bouquet of hot-[[house]]
+[[Flowers|flowers]]!”
 
-And she showed with pride her splendid nosegay.
+And she showed with [[Pride|pride]] her splendid nosegay.
 
 But hush! a step: _the_ step. It came prompt, as usual, but with a
 promptitude, we felt disposed to flatter ourselves, inspired by other
@@ -27,22 +27,22 @@ thought our Professor’s “foot-fall” (to speak romantically) had in it a
 friendly promise this morning; and so it had.
 
 He entered in a mood which made him as good as a new sunbeam to the
-already well-lit first classe. The morning light playing amongst our
+already [[Well|well]]-lit first classe. The morning light playing amongst our
 plants and laughing on our walls, caught an added lustre from M. Paul’s
 all-benignant salute. Like a true Frenchman (though I don’t know why I
 should say so, for he was of strain neither French nor Labassecourien),
 he had dressed for the “situation” and the occasion. Not by the vague
 folds, sinister and conspirator-like, of his soot-dark paletôt were the
 outlines of his person obscured; on the contrary, his figure (such as
-it was, I don’t boast of it) was well set off by a civilized coat and a
+it was, I don’t boast of it) was [[Well|well]] set off by a civilized coat and a
 silken vest quite pretty to behold. The defiant and pagan bonnet-grec
 had vanished: bare-headed, he came upon us, carrying a Christian hat in
-his gloved hand. The little man looked well, very well; there was a
+his gloved hand. The little man looked [[Well|well]], very [[Well|well]]; there was a
 clearness of amity in his blue eye, and a glow of good feeling on his
-dark complexion, which passed perfectly in the place of beauty: one
+dark complexion, which passed perfectly in the place of [[Beauty|beauty]]: one
 really did not care to observe that his nose, though far from small,
 was of no particular shape, his cheek thin, his brow marked and square,
-his mouth no rose-bud: one accepted him as he was, and felt his
+his mouth no [[Rose|rose]]-bud: one accepted him as he was, and felt his
 presence the reverse of damping or insignificant.
 
 He passed to his desk; he placed on the same his hat and gloves. “Bon
@@ -53,7 +53,7 @@ he had belonging to himself—a voice used when his heart passed the
 words to his lips. That same heart did speak sometimes; though an
 irritable, it was not an ossified organ: in its core was a place,
 tender beyond a man’s tenderness; a place that humbled him to little
-children, that bound him to girls and women to whom, rebel as he would,
+children, that bound him to girls and women to whom, [[Rebel|rebel]] as he would,
 he could not disown his affinity, nor quite deny that, on the whole, he
 was better with them than with his own sex.
 
@@ -69,16 +69,16 @@ with the gliding step foreigners practise, left their tributes as they
 went by. Each girl so dexterously adjusted her separate gift, that when
 the last bouquet was laid on the desk, it formed the apex to a blooming
 pyramid—a pyramid blooming, spreading, and towering with such
-exuberance as, in the end, to eclipse the hero behind it. This ceremony
-over, seats were resumed, and we sat in dead silence, expectant of a
+exuberance as, in the end, to eclipse the [[Hero|hero]] behind it. This ceremony
+over, seats were resumed, and we sat in dead [[Silence|silence]], expectant of a
 speech.
 
 I suppose five minutes might have elapsed, and the hush remained
 unbroken; ten—and there was no sound.
 
-Many present began, doubtless, to wonder for what Monsieur waited; as
-well they might. Voiceless and viewless, stirless and wordless, he kept
-his station behind the pile of flowers.
+Many present began, doubtless, to [[Wonder|wonder]] for what Monsieur waited; as
+[[Well|well]] they might. Voiceless and viewless, stirless and wordless, he kept
+his station behind the pile of [[Flowers|flowers]].
 
 At last there issued forth a voice, rather deep, as if it spoke out of
 a hollow:—
@@ -96,8 +96,8 @@ signified as much.
 “Est-ce là tout?” was reiterated in an intonation which, deep before,
 had now descended some notes lower.
 
-“Monsieur,” said Mademoiselle St. Pierre, rising, and this time
-speaking with her own sweet smile, “I have the honour to tell you that,
+“Monsieur,” said Mademoiselle St. Pierre, rising, and this [[Time|time]]
+speaking with her own sweet smile, “I have the [[Honour|honour]] to tell you that,
 with a single exception, every person in classe has offered her
 bouquet. For Meess Lucie, Monsieur will kindly make allowance; as a
 foreigner she probably did not know our customs, or did not appreciate
@@ -109,12 +109,12 @@ when you begin.”
 
 The answer vouchsafed to Mademoiselle St Pierre from the estrade was
 given in the gesticulation of a hand from behind the pyramid. This
-manual action seemed to deprecate words, to enjoin silence.
+manual action seemed to deprecate words, to enjoin [[Silence|silence]].
 
 A form, ere long, followed the hand. Monsieur emerged from his eclipse;
 and producing himself on the front of his estrade, and gazing straight
 and fixedly before him at a vast “mappe-monde” covering the wall
-opposite, he demanded a third time, and now in really tragic tones—
+opposite, he demanded a third [[Time|time]], and now in really tragic tones—
 
 “Est-ce là tout?”
 
@@ -131,8 +131,8 @@ tragic, and took my defection so seriously, he deserved to be vexed. I
 kept, then, both my box and my countenance, and sat insensate as any
 stone.
 
-“It is well!” dropped at length from the lips of M. Paul; and having
-uttered this phrase, the shadow of some great paroxysm—the swell of
+“It is [[Well|well]]!” dropped at length from the lips of M. Paul; and having
+uttered this phrase, the [[Shadow|shadow]] of some great paroxysm—the swell of
 wrath, scorn, resolve—passed over his brow, rippled his lips, and lined
 his cheeks. Gulping down all further comment, he launched into his
 customary “discours.”

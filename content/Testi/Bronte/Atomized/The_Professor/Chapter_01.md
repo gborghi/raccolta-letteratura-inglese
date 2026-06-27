@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 25"
+title: "[[The Professor]] — Chapter 25"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Professor-(Bronte)"
@@ -36,7 +36,7 @@ PREFACE.
 
 
 
-This little book was written before either “Jane Eyre” or “Shirley,”
+This little book was written before either “[[Jane Eyre]]” or “[[Shirley]],”
 
  and yet no indulgence can be solicited for it on the plea of a first
 
@@ -44,7 +44,7 @@ attempt. A first attempt it certainly was not, as the pen which wrote it
 
 had been previously worn a good deal in a practice of some years. I had
 
-not indeed published anything before I commenced “The Professor,” but
+not indeed published anything before I commenced “[[The Professor]],” but
 
 in many a crude effort, destroyed almost as soon as composed, I had
 
@@ -52,7 +52,7 @@ got over any such taste as I might once have had for ornamented and
 
 redundant composition, and come to prefer what was plain and homely.
 
-At the same time I had adopted a set of principles on the subject of
+At the same [[Time|time]] I had adopted a set of principles on the subject of
 
 incident, &c., such as would be generally approved in theory, but the
 
@@ -62,7 +62,7 @@ author more surprise than pleasure.
 
 
 
-I said to myself that my hero should work his way through life as I had
+I said to myself that my [[Hero|hero]] should work his way through life as I had
 
 seen real living men work theirs--that he should never get a shilling
 
@@ -74,7 +74,7 @@ should be won by the sweat of his brow; that, before he could find so
 
 much as an arbour to sit down in, he should master at least half the
 
-ascent of “the Hill of Difficulty;” that he should not even marry a
+ascent of “the [[Hill]] of Difficulty;” that he should not even marry a
 
 beautiful girl or a lady of rank. As Adam’s son he should share Adam’s
 
@@ -92,7 +92,7 @@ a taste for pathos, with sentiments more tender, elevated, unworldly.
 
 Indeed, until an author has tried to dispose of a manuscript of this
 
-kind, he can never know what stores of romance and sensibility lie
+kind, he can never know what stores of [[Romance|romance]] and sensibility lie
 
 hidden in breasts he would not have suspected of casketing such
 
@@ -114,13 +114,13 @@ through some struggles--which indeed it has. And after all, its
 
 worst struggle and strongest ordeal is yet to come but it takes
 
-comfort--subdues fear--leans on the staff of a moderate expectation--and
+comfort--subdues [[Fear|fear]]--leans on the staff of a moderate expectation--and
 
 mutters under its breath, while lifting its eye to that of the public,
 
 
 
-“He that is low need fear no fall.”
+“He that is low need [[Fear|fear]] no fall.”
 
 
 
@@ -130,15 +130,15 @@ CURRER BELL.
 
 The foregoing preface was written by my wife with a view to the
 
-publication of “The Professor,” shortly after the appearance of
+publication of “[[The Professor]],” shortly after the appearance of
 
-“Shirley.” Being dissuaded from her intention, the authoress made some
+“[[Shirley]].” Being dissuaded from her intention, the authoress made some
 
-use of the materials in a subsequent work--“Villette.” As, however,
+use of the materials in a subsequent work--“[[Villette]].” As, however,
 
 these two stories are in most respects unlike, it has been represented
 
-to me that I ought not to withhold “The Professor” from the public. I
+to me that I ought not to withhold “[[The Professor]]” from the public. I
 
 have therefore consented to its publication.
 

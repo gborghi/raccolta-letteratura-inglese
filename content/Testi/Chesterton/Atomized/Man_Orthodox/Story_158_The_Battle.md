@@ -16,15 +16,15 @@ tags:
 
 THE BATTLE
 
-The true secret and hope of human life is something much more dark
-and beautiful than it would be if suffering were a mark of sin.
+The true secret and [[Hope|hope]] of human life is something much more dark
+and beautiful than it would be if [[Suffering|suffering]] were a mark of sin.
 A mere scheme of rewards and punishments would be some thing much meaner
 and more mechanical than this exasperating and inspiring life of ours.
 An automatic scheme of `Karma' or `reaping what we sow' would be
 just as gross and material as sowing beans or reaping barley.
 It might satisfy mechanicians or monists or theosophists or
-cautious financiers, but not brave men.  It is no paradox to say
-that the one thing that would make suffering intolerable would
+cautious financiers, but not brave men.  It is no [[Paradox|paradox]] to say
+that the one thing that would make [[Suffering|suffering]] intolerable would
 be the thought that it was systematically inflicted upon sinners.
 The one thing that would make our agony infamous would be the idea
 that it was deserved.  On the other hand, the doctrine which makes

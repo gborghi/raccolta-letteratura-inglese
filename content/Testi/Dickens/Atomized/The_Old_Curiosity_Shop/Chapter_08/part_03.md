@@ -19,13 +19,13 @@ useful ally, for not confining herself to expressing by scornful smiles
 a contempt for Mr Swiveller’s accomplishments, she took every
 opportunity of whispering into Miss Sophy’s ear expressions of
 condolence and sympathy on her being worried by such a ridiculous
-creature, declaring that she was frightened to death lest Alick should
+creature, declaring that she was frightened to [[Death|death]] lest Alick should
 fall upon, and beat him, in the fulness of his wrath, and entreating
-Miss Sophy to observe how the eyes of the said Alick gleamed with love
+Miss Sophy to observe how the eyes of the said Alick gleamed with [[Love|love]]
 and fury; passions, it may be observed, which being too much for his
 eyes rushed into his nose also, and suffused it with a crimson glow.
 
-‘You must dance with Miss Cheggs,’ said Miss Sophy to Dick Swiviller,
+‘You must [[Dance|dance]] with Miss Cheggs,’ said Miss Sophy to Dick Swiviller,
 after she had herself danced twice with Mr Cheggs and made great show
 of encouraging his advances. ‘She’s a nice girl--and her brother’s
 quite delightful.’
@@ -37,7 +37,7 @@ Here Miss Jane (previously instructed for the purpose) interposed her
 many curls and whispered her sister to observe how jealous Mr Cheggs
 was.
 
-‘Jealous! Like his impudence!’ said Richard Swiviller.
+‘Jealous! Like his impudence!’ said [[Richard]] Swiviller.
 
 ‘His impudence, Mr Swiviller!’ said Miss Jane, tossing her head.  ‘Take
 care he don’t hear you, sir, or you may be sorry for it.’
@@ -51,7 +51,7 @@ if he hasn’t already. You know best about that, Sophy!’
 
 Though this was a concerted plot between Miss Sophy and her sister,
 originating in humane intentions and having for its object the inducing
-Mr Swiviller to declare himself in time, it failed in its effect; for
+Mr Swiviller to declare himself in [[Time|time]], it failed in its effect; for
 Miss Jane being one of those young ladies who are prematurely shrill
 and shrewish, gave such undue importance to her part that Mr Swiviller
 retired in dudgeon, resigning his mistress to Mr Cheggs and conveying a
@@ -78,7 +78,7 @@ to smile again, sir. Perhaps you wished to speak to me, sir.’
 ‘Perhaps you may have nothing to say to me now, sir,’ said Mr Cheggs
 fiercely.
 
-At these words Richard Swiviller withdrew his eyes from Mr Chegg’s
+At these words [[Richard]] Swiviller withdrew his eyes from Mr Chegg’s
 face, and travelling down the middle of his nose and down his waistcoat
 and down his right leg, reached his toes again, and carefully surveyed
 him; this done, he crossed over, and coming up the other leg, and
@@ -98,10 +98,10 @@ frowning mutually. Mr Cheggs hastened to tender his hand to Miss Sophy,
 and Mr Swiviller sat himself down in a corner in a very moody state.
 
 Hard by this corner, Mrs Wackles and Miss Wackles were seated, looking
-on at the dance; and unto Mrs and Miss Wackles, Miss Cheggs
+on at the [[Dance|dance]]; and unto Mrs and Miss Wackles, Miss Cheggs
 occasionally darted when her partner was occupied with his share of the
 figure, and made some remark or other which was gall and wormwood to
-Richard Swiviller’s soul. Looking into the eyes of Mrs and Miss Wackles
+[[Richard]] Swiviller’s [[Soul|soul]]. Looking into the eyes of Mrs and Miss Wackles
 for encouragement, and sitting very upright and uncomfortable on a
 couple of hard stools, were two of the day-scholars; and when Miss
 Wackles smiled, and Mrs Wackles smiled, the two little girls on the
@@ -110,7 +110,7 @@ acknowledgement of which attention the old lady frowned them down
 instantly, and said that if they dared to be guilty of such an
 impertinence again, they should be sent under convoy to their
 respective homes. This threat caused one of the young ladies, she being
-of a weak and trembling temperament, to shed tears, and for this
+of a weak and trembling temperament, to shed [[Tears|tears]], and for this
 offense they were both filed off immediately, with a dreadful
 promptitude that struck terror into the souls of all the pupils.
 
@@ -123,15 +123,15 @@ it’s quite serious and in earnest, that’s clear.’
 ‘All manner of things,’ replied Miss Cheggs, ‘you can’t think how out
 he has been speaking!’
 
-Richard Swiviller considered it advisable to hear no more, but taking
+[[Richard]] Swiviller considered it advisable to hear no more, but taking
 advantage of a pause in the dancing, and the approach of Mr Cheggs to
-pay his court to the old lady, swaggered with an extremely careful
+pay his [[Court|court]] to the old lady, swaggered with an extremely careful
 assumption of extreme carelessness toward the door, passing on the way
 Miss Jane Wackles, who in all the glory of her curls was holding a
 flirtation, (as good practice when no better was to be had) with a
 feeble old gentleman who lodged in the parlour. Near the door sat Miss
 Sophy, still fluttered and confused by the attentions of Mr Cheggs, and
-by her side Richard Swiveller lingered for a moment to exchange a few
+by her side [[Richard]] Swiveller lingered for a moment to exchange a few
 parting words.
 
 ‘My boat is on the shore and my bark is on the sea, but before I pass

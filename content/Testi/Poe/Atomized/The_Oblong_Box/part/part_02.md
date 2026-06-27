@@ -1,5 +1,5 @@
 ---
-title: "The Oblong Box (part 2)"
+title: "[[The Oblong Box]] (part 2)"
 author: "Poe"
 unitType: excerpt
 tags:
@@ -19,7 +19,7 @@ tags:
 
       pine box, which was every thing that seemed to be expected.
 
-      Immediately upon its arrival we made sail, and in a short time
+      Immediately upon its arrival we made sail, and in a short [[Time|time]]
 
       were safely over the bar and standing out to sea.
 
@@ -35,7 +35,7 @@ tags:
 
       accuracy of my guessing. I had reached the conclusion, it will be
 
-      remembered, that the extra baggage of my friend, the artist,
+      remembered, that the extra baggage of my friend, the [[artist]],
 
       would prove to be pictures, or at least a picture; for I knew he
 
@@ -47,21 +47,21 @@ tags:
 
       a copy of this very “Last Supper,” done by Rubini the younger, at
 
-      Florence, I had known, for some time, to be in the possession of
+      Florence, I had known, for some [[Time|time]], to be in the possession of
 
       Nicolino. This point, therefore, I considered as sufficiently
 
       settled. I chuckled excessively when I thought of my acumen. It
 
-      was the first time I had ever known Wyatt to keep from me any of
+      was the first [[Time|time]] I had ever known Wyatt to keep from me any of
 
-      his artistical secrets; but here he evidently intended to steal a
+      his artistical [[Secrets|secrets]]; but here he evidently intended to steal a
 
-      march upon me, and smuggle a fine picture to New York, under my
+      march upon me, and smuggle a fine picture to [[New York]], under my
 
       very nose; expecting me to know nothing of the matter. I resolved
 
-      to quiz him well, now and hereafter.
+      to quiz him [[Well|well]], now and hereafter.
 
 
 
@@ -71,7 +71,7 @@ tags:
 
       there, too, it remained, occupying very nearly the whole of the
 
-      floor—no doubt to the exceeding discomfort of the artist and his
+      floor—no [[Doubt|doubt]] to the exceeding discomfort of the [[artist]] and his
 
       wife;—this the more especially as the tar or paint with which it
 
@@ -89,21 +89,21 @@ tags:
 
       Now, I was aware that Mrs. Adelaide Curtis, of Albany, was the
 
-      artist’s wife’s mother,—but then I looked upon the whole address
+      [[artist]]’s wife’s mother,—but then I looked upon the whole address
 
-      as a mystification, intended especially for myself. I made up my
+      as a [[Mystification|mystification]], intended especially for myself. I made up my
 
       mind, of course, that the box and contents would never get
 
       farther north than the studio of my misanthropic friend, in
 
-      Chambers Street, New York.
+      Chambers Street, [[New York]].
 
 
 
       For the first three or four days we had fine weather, although
 
-      the wind was dead ahead; having chopped round to the northward,
+      the [[Wind|wind]] was dead ahead; having chopped round to the northward,
 
       immediately upon our losing sight of the coast. The passengers
 
@@ -139,7 +139,7 @@ tags:
 
       coquet with the men. She amused us all very much. I say
 
-      “amused”—and scarcely know how to explain myself. The truth is, I
+      “amused”—and scarcely know how to explain myself. The [[Truth|truth]] is, I
 
       soon found that Mrs. W. was far oftener laughed at than with. The
 
@@ -149,7 +149,7 @@ tags:
 
       looking, totally uneducated, and decidedly vulgar.” The great
 
-      wonder was, how Wyatt had been entrapped into such a match.
+      [[Wonder|wonder]] was, how Wyatt had been entrapped into such a match.
 
       Wealth was the general solution—but this I knew to be no solution
 
@@ -157,9 +157,9 @@ tags:
 
       dollar nor had any expectations from any source whatever. “He had
 
-      married,” he said, “for love, and for love only; and his bride
+      married,” he said, “for [[Love|love]], and for [[Love|love]] only; and his bride
 
-      was far more than worthy of his love.” When I thought of these
+      was far more than worthy of his [[Love|love]].” When I thought of these
 
       expressions, on the part of my friend, I confess that I felt
 
@@ -185,7 +185,7 @@ tags:
 
       the most pointed manner, and, for the most part, shut himself up
 
-      alone in his state-room, where, in fact, he might have been said
+      [[Alone|alone]] in his state-room, where, in fact, he might have been said
 
       to live altogether, leaving his wife at full liberty to amuse
 
@@ -195,7 +195,7 @@ tags:
 
 
 
-      My conclusion, from what I saw and heard, was, that, the artist,
+      My conclusion, from what I saw and heard, was, that, the [[artist]],
 
       by some unaccountable freak of fate, or perhaps in some fit of
 

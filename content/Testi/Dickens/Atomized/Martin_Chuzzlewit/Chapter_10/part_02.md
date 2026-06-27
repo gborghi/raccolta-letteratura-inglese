@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 10 (part 2)"
+title: "[[Martin Chuzzlewit]] — Chapter 10 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 ‘Most assuredly not,’ said Mr Pecksniff.
 
 ‘How do you know?’ returned the other quickly. ‘You are to begin to know
-it now. You are to test and prove it, in time to come. You and yours are
+it now. You are to test and prove it, in [[Time|time]] to come. You and yours are
 to find that I can be constant, and am not to be diverted from my end.
 Do you hear?’
 
@@ -44,12 +44,12 @@ those grey hairs!’
 ‘Regrets,’ said Martin, ‘are the natural property of grey hairs; and
 I enjoy, in common with all other men, at least my share of such
 inheritance. And so enough of that. I regret having been severed from
-you so long. If I had known you sooner, and sooner used you as you well
+you so long. If I had known you sooner, and sooner used you as you [[Well|well]]
 deserve, I might have been a happier man.’
 
 Mr Pecksniff looked up to the ceiling, and clasped his hands in rapture.
 
-‘Your daughters,’ said Martin, after a short silence. ‘I don’t know
+‘Your daughters,’ said Martin, after a short [[Silence|silence]]. ‘I don’t know
 them. Are they like you?’
 
 ‘In the nose of my eldest and the chin of my youngest, Mr Chuzzlewit,’
@@ -66,14 +66,14 @@ have done my best, sir.’
 They were, very near; for they had in fact been listening at the
 door from the beginning of this conversation until now, when they
 precipitately retired. Having wiped the signs of weakness from his eyes,
-and so given them time to get upstairs, Mr Pecksniff opened the door,
+and so given them [[Time|time]] to get upstairs, Mr Pecksniff opened the door,
 and mildly cried in the passage,
 
 ‘My own darlings, where are you?’
 
-‘Here, my dear pa!’ replied the distant voice of Charity.
+‘Here, my dear pa!’ replied the distant voice of [[Charity]].
 
-‘Come down into the back parlour, if you please, my love,’ said Mr
+‘Come down into the back parlour, if you please, my [[Love|love]],’ said Mr
 Pecksniff, ‘and bring your sister with you.’
 
 ‘Yes, my dear pa,’ cried Merry; and down they came directly (being all
@@ -89,7 +89,7 @@ fell upon the old man’s neck. And when they had embraced him with
 such fervour of affection that no words can describe it, they grouped
 themselves about his chair, and hung over him, as figuring to themselves
 no earthly joy like that of ministering to his wants, and crowding into
-the remainder of his life, the love they would have diffused over their
+the remainder of his life, the [[Love|love]] they would have diffused over their
 whole existence, from infancy, if he--dear obdurate!--had but consented
 to receive the precious offering.
 
@@ -99,7 +99,7 @@ Pecksniff, several times.
 ‘What,’ he asked of Mr Pecksniff, happening to catch his eye in its
 descent; for until now it had been piously upraised, with something of
 that expression which the poetry of ages has attributed to a domestic
-bird, when breathing its last amid the ravages of an electric storm:
+bird, when breathing its last amid the ravages of an electric [[Storm|storm]]:
 ‘What are their names?’
 
 Mr Pecksniff told him, and added, rather hastily; his caluminators
@@ -110,7 +110,7 @@ but affection may prize them.’
 
 ‘Affection,’ said the old man, ‘will expend itself on the living
 originals. Do not trouble yourselves, my girls, I shall not so easily
-forget you, Charity and Mercy, as to need such tokens of remembrance.
+forget you, [[Charity]] and [[Mercy]], as to need such tokens of remembrance.
 Cousin!’
 
 ‘Sir!’ said Mr Pecksniff, with alacrity.
@@ -118,16 +118,16 @@ Cousin!’
 ‘Do you never sit down?’
 
 ‘Why--yes--occasionally, sir,’ said Mr Pecksniff, who had been standing
-all this time.
+all this [[Time|time]].
 
 ‘Will you do so now?’
 
 ‘Can you ask me,’ returned Mr Pecksniff, slipping into a chair
-immediately, ‘whether I will do anything that you desire?’
+immediately, ‘whether I will do anything that you [[Desire|desire]]?’
 
-‘You talk confidently,’ said Martin, ‘and you mean well; but I fear you
+‘You talk confidently,’ said Martin, ‘and you mean [[Well|well]]; but I [[Fear|fear]] you
 don’t know what an old man’s humours are. You don’t know what it is to
-be required to court his likings and dislikings; to adapt yourself to
+be required to [[Court|court]] his likings and dislikings; to adapt yourself to
 his prejudices; to do his bidding, be it what it may; to bear with his
 distrusts and jealousies; and always still be zealous in his service.
 When I remember how numerous these failings are in me, and judge of
@@ -145,4 +145,4 @@ every one about you in the worst light!’
 ‘We always said, my girls and I,’ cried Mr Pecksniff with increasing
 obsequiousness, ‘that while we mourned the heaviness of our misfortune
 in being confounded with the base and mercenary, still we could not
-wonder at it. My dears, you remember?’
+[[Wonder|wonder]] at it. My dears, you remember?’

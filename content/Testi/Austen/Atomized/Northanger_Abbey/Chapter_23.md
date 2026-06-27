@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 22"
+title: "[[Northanger Abbey]] — Chapter 22"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -20,15 +20,15 @@ CHAPTER 22
 
 
 
-The housemaid’s folding back her window-shutters at eight o’clock the
+The housemaid’s folding back her [[Window|window]]-shutters at eight o’[[Clock|clock]] the
 
 next day was the sound which first roused Catherine; and she opened her
 
 eyes, wondering that they could ever have been closed, on objects of
 
-cheerfulness; her fire was already burning, and a bright morning had
+cheerfulness; her [[Fire|fire]] was already burning, and a bright morning had
 
-succeeded the tempest of the night. Instantaneously, with the
+succeeded the tempest of the [[Night|night]]. Instantaneously, with the
 
 consciousness of existence, returned her recollection of the
 
@@ -78,7 +78,7 @@ then suppose, by the negligence of a servant in the place whence she
 
 had taken them) which had filled her with expectation and alarm, and
 
-robbed her of half her night’s rest! she felt humbled to the dust.
+robbed her of half her [[Night|night]]’s rest! she felt humbled to the [[Dust|dust]].
 
 Could not the adventure of the chest have taught her wisdom? A corner
 
@@ -108,7 +108,7 @@ smallest curiosity about it. This was the only comfort that occurred.
 
 Impatient to get rid of those hateful evidences of her folly, those
 
-detestable papers then scattered over the bed, she rose directly, and
+detestable papers then scattered over the bed, she [[Rose|rose]] directly, and
 
 folding them up as nearly as possible in the same shape as before,
 
@@ -136,13 +136,13 @@ fastener, darted into her head, and cost her another blush.
 
 She got away as soon as she could from a room in which her conduct
 
-produced such unpleasant reflections, and found her way with all speed
+produced such unpleasant reflections, and found her way with all [[Speed|speed]]
 
 to the breakfast-parlour, as it had been pointed out to her by Miss
 
-Tilney the evening before. Henry was alone in it; and his immediate
+Tilney the evening before. Henry was [[Alone|alone]] in it; and his immediate
 
-hope of her having been undisturbed by the tempest, with an arch
+[[Hope|hope]] of her having been undisturbed by the tempest, with an arch
 
 reference to the character of the building they inhabited, was rather
 
@@ -150,13 +150,13 @@ distressing. For the world would she not have her weakness suspected,
 
 and yet, unequal to an absolute falsehood, was constrained to
 
-acknowledge that the wind had kept her awake a little. “But we have a
+acknowledge that the [[Wind|wind]] had kept her awake a little. “But we have a
 
 charming morning after it,” she added, desiring to get rid of the
 
 subject; “and storms and sleeplessness are nothing when they are over.
 
-What beautiful hyacinths! i have just learnt to love a hyacinth.”
+What beautiful hyacinths! i have just learnt to [[Love|love]] a hyacinth.”
 
 
 
@@ -170,23 +170,23 @@ pains, year after year, to make me like them; but I never could, till I
 
 saw them the other day in Milsom Street; I am naturally indifferent
 
-about flowers.”
+about [[Flowers|flowers]].”
 
 
 
-“But now you love a hyacinth. So much the better. You have gained a new
+“But now you [[Love|love]] a hyacinth. So much the better. You have gained a new
 
-source of enjoyment, and it is well to have as many holds upon
+source of enjoyment, and it is [[Well|well]] to have as many holds upon
 
-happiness as possible. Besides, a taste for flowers is always desirable
+happiness as possible. Besides, a taste for [[Flowers|flowers]] is always desirable
 
 in your sex, as a means of getting you out of doors, and tempting you
 
 to more frequent exercise than you would otherwise take. And though the
 
-love of a hyacinth may be rather domestic, who can tell, the sentiment
+[[Love|love]] of a hyacinth may be rather domestic, who can tell, the sentiment
 
-once raised, but you may in time come to love a rose?”
+once raised, but you may in [[Time|time]] come to [[Love|love]] a [[Rose|rose]]?”
 
 
 
@@ -194,15 +194,15 @@ once raised, but you may in time come to love a rose?”
 
 pleasure of walking and breathing fresh air is enough for me, and in
 
-fine weather I am out more than half my time. Mamma says I am never
+fine weather I am out more than half my [[Time|time]]. Mamma says I am never
 
 within.”
 
 
 
-“At any rate, however, I am pleased that you have learnt to love a
+“At any rate, however, I am pleased that you have learnt to [[Love|love]] a
 
-hyacinth. The mere habit of learning to love is the thing; and a
+hyacinth. The mere habit of learning to [[Love|love]] is the thing; and a
 
 teachableness of disposition in a young lady is a great blessing. Has
 
@@ -230,15 +230,15 @@ to be neat and simple, thought it right to encourage the manufacture of
 
 his country; and for his part, to his uncritical palate, the tea was as
 
-well flavoured from the clay of Staffordshire, as from that of Dresden
+[[Well|well]] flavoured from the clay of Staffordshire, as from that of Dresden
 
 or Sêve. But this was quite an old set, purchased two years ago. The
 
-manufacture was much improved since that time; he had seen some
+manufacture was much improved since that [[Time|time]]; he had seen some
 
 beautiful specimens when last in town, and had he not been perfectly
 
-without vanity of that kind, might have been tempted to order a new
+without [[Vanity|vanity]] of that kind, might have been tempted to order a new
 
 set. He trusted, however, that an opportunity might ere long occur of
 
@@ -252,13 +252,13 @@ Shortly after breakfast Henry left them for Woodston, where business
 
 required and would keep him two or three days. They all attended in the
 
-hall to see him mount his horse, and immediately on re-entering the
+hall to see him mount his [[Horse|horse]], and immediately on re-entering the
 
-breakfast-room, Catherine walked to a window in the hope of catching
+breakfast-room, Catherine walked to a [[Window|window]] in the [[Hope|hope]] of catching
 
 another glimpse of his figure. “This is a somewhat heavy call upon your
 
-brother’s fortitude,” observed the General to Eleanor. “Woodston will
+brother’s fortitude,” observed the General to [[Eleanor]]. “Woodston will
 
 make but a sombre appearance to-day.”
 
@@ -268,15 +268,15 @@ make but a sombre appearance to-day.”
 
 
 
-“What say you, Eleanor? Speak your opinion, for ladies can best tell
+“What say you, [[Eleanor]]? Speak your opinion, for ladies can best tell
 
-the taste of ladies in regard to places as well as men. I think it
+the taste of ladies in regard to places as [[Well|well]] as men. I think it
 
 would be acknowledged by the most impartial eye to have many
 
-recommendations. The house stands among fine meadows facing the
+recommendations. The [[house]] stands among fine meadows facing the
 
-south-east, with an excellent kitchen-garden in the same aspect; the
+south-east, with an excellent kitchen-[[Garden|garden]] in the same aspect; the
 
 walls surrounding which I built and stocked myself about ten years ago,
 
@@ -310,13 +310,13 @@ private man in the county, has his profession.”
 
 The imposing effect of this last argument was equal to his wishes. The
 
-silence of the lady proved it to be unanswerable.
+[[Silence|silence]] of the lady proved it to be unanswerable.
 
 
 
 Something had been said the evening before of her being shown over the
 
-house, and he now offered himself as her conductor; and though
+[[house]], and he now offered himself as her conductor; and though
 
 Catherine had hoped to explore it accompanied only by his daughter, it
 
@@ -330,15 +330,15 @@ netting-box, just leisurely drawn forth, was closed with joyful haste,
 
 and she was ready to attend him in a moment. “And when they had gone
 
-over the house, he promised himself moreover the pleasure of
+over the [[house]], he promised himself moreover the pleasure of
 
-accompanying her into the shrubberies and garden.” She curtsied her
+accompanying her into the shrubberies and [[Garden|garden]].” She curtsied her
 
 acquiescence. “But perhaps it might be more agreeable to her to make
 
 those her first object. The weather was at present favourable, and at
 
-this time of year the uncertainty was very great of its continuing so.
+this [[Time|time]] of year the uncertainty was very great of its continuing so.
 
 Which would she prefer? He was equally at her service. Which did his
 
@@ -346,7 +346,7 @@ daughter think would most accord with her fair friend’s wishes? But he
 
 thought he could discern. Yes, he certainly read in Miss Morland’s eyes
 
-a judicious desire of making use of the present smiling weather. But
+a judicious [[Desire|desire]] of making use of the present smiling weather. But
 
 when did she judge amiss? The abbey would be always safe and dry. He
 
@@ -364,7 +364,7 @@ little confusion, “I believe it will be wisest to take the morning
 
 while it is so fine; and do not be uneasy on my father’s account; he
 
-always walks out at this time of day.”
+always walks out at this [[Time|time]] of day.”
 
 
 
@@ -378,7 +378,7 @@ And was not it odd that he should _always_ take his walk so early?
 
 Neither her father nor Mr. Allen did so. It was certainly very
 
-provoking. She was all impatience to see the house, and had scarcely
+provoking. She was all impatience to see the [[house]], and had scarcely
 
 any curiosity about the grounds. If Henry had been with them indeed!
 
@@ -392,9 +392,9 @@ in patient discontent.
 
 She was struck, however, beyond her expectation, by the grandeur of the
 
-abbey, as she saw it for the first time from the lawn. The whole
+abbey, as she saw it for the first [[Time|time]] from the lawn. The whole
 
-building enclosed a large court; and two sides of the quadrangle, rich
+building enclosed a large [[Court|court]]; and two sides of the quadrangle, rich
 
 in Gothic ornaments, stood forward for admiration. The remainder was
 
@@ -408,7 +408,7 @@ compare with it; and her feelings of delight were so strong, that
 
 without waiting for any better authority, she boldly burst forth in
 
-wonder and praise. The General listened with assenting gratitude; and
+[[Wonder|wonder]] and praise. The General listened with assenting gratitude; and
 
 it seemed as if his own estimation of Northanger had waited unfixed
 
@@ -416,17 +416,17 @@ till that hour.
 
 
 
-The kitchen-garden was to be next admired, and he led the way to it
+The kitchen-[[Garden|garden]] was to be next admired, and he led the way to it
 
 across a small portion of the park.
 
 
 
-The number of acres contained in this garden was such as Catherine
+The number of acres contained in this [[Garden|garden]] was such as Catherine
 
-could not listen to without dismay, being more than double the extent
+could not listen to without dismay, being more than [[Double|double]] the extent
 
-of all Mr. Allen’s, as well as her father’s, including church-yard and
+of all Mr. Allen’s, as [[Well|well]] as her father’s, including church-yard and
 
 orchard. The walls seemed countless in number, endless in length; a
 
@@ -438,33 +438,33 @@ of surprise, which told him almost as plainly, as he soon forced her to
 
 tell him in words, that she had never seen any gardens at all equal to
 
-them before; and he then modestly owned that, “without any ambition of
+them before; and he then modestly owned that, “without any [[Ambition|ambition]] of
 
 that sort himself—without any solicitude about it—he did believe them
 
-to be unrivalled in the kingdom. If he had a hobby-horse, it was
+to be unrivalled in the kingdom. If he had a hobby-[[Horse|horse]], it was
 
-_that_. He loved a garden. Though careless enough in most matters of
+_that_. He loved a [[Garden|garden]]. Though careless enough in most matters of
 
 eating, he loved good fruit—or if he did not, his friends and children
 
-did. There were great vexations, however, attending such a garden as
+did. There were great vexations, however, attending such a [[Garden|garden]] as
 
 his. The utmost care could not always secure the most valuable fruits.
 
 The pinery had yielded only one hundred in the last year. Mr. Allen, he
 
-supposed, must feel these inconveniences as well as himself.”
+supposed, must feel these inconveniences as [[Well|well]] as himself.”
 
 
 
-“No, not at all. Mr. Allen did not care about the garden, and never
+“No, not at all. Mr. Allen did not care about the [[Garden|garden]], and never
 
 went into it.”
 
 
 
-With a triumphant smile of self-satisfaction, the General wished he
+With a triumphant smile of [[Self|self]]-satisfaction, the General wished he
 
 could do the same, for he never entered his, without being vexed in
 
@@ -472,15 +472,15 @@ some way or other, by its falling short of his plan.
 
 
 
-“How were Mr. Allen’s succession-houses worked?” describing the nature
+“How were Mr. Allen’s succession-houses worked?” describing the [[Nature|nature]]
 
 of his own as they entered them.
 
 
 
-“Mr. Allen had only one small hot-house, which Mrs. Allen had the use
+“Mr. Allen had only one small hot-[[house]], which Mrs. Allen had the use
 
-of for her plants in winter, and there was a fire in it now and then.”
+of for her plants in [[Winter|winter]], and there was a [[Fire|fire]] in it now and then.”
 
 
 
@@ -498,11 +498,11 @@ girls at last to seize the advantage of an outer door, and then
 
 expressing his wish to examine the effect of some recent alterations
 
-about the tea-house, proposed it as no unpleasant extension of their
+about the tea-[[house]], proposed it as no unpleasant extension of their
 
 walk, if Miss Morland were not tired. “But where are you going,
 
-Eleanor? Why do you choose that cold, damp path to it? Miss Morland
+[[Eleanor]]? Why do you choose that cold, damp path to it? Miss Morland
 
 will get wet. Our best way is across the park.”
 
@@ -534,7 +534,7 @@ spirits were relieved by the separation. The shock, however, being less
 
 real than the relief, offered it no injury; and she began to talk with
 
-easy gaiety of the delightful melancholy which such a grove inspired.
+easy gaiety of the delightful [[Melancholy|melancholy]] which such a grove inspired.
 
 
 
@@ -554,11 +554,11 @@ which she waited for something more.
 
 
 
-“I used to walk here so often with her!” added Eleanor; “though I never
+“I used to walk here so often with her!” added [[Eleanor]]; “though I never
 
-loved it then, as I have loved it since. At that time indeed I used to
+loved it then, as I have loved it since. At that [[Time|time]] indeed I used to
 
-wonder at her choice. But her memory endears it now.”
+[[Wonder|wonder]] at her choice. But her [[Memory|memory]] endears it now.”
 
 
 
@@ -566,7 +566,7 @@ wonder at her choice. But her memory endears it now.”
 
 Yet the General would not enter it.” Miss Tilney continuing silent, she
 
-ventured to say, “Her death must have been a great affliction!”
+ventured to say, “Her [[Death|death]] must have been a great affliction!”
 
 
 
@@ -610,13 +610,13 @@ passed by; and Catherine’s interest in the deceased Mrs. Tilney
 
 augmented with every question, whether answered or not. Of her
 
-unhappiness in marriage, she felt persuaded. The General certainly had
+unhappiness in [[Marriage|marriage]], she felt persuaded. The General certainly had
 
-been an unkind husband. He did not love her walk: could he therefore
+been an unkind husband. He did not [[Love|love]] her walk: could he therefore
 
 have loved her? And besides, handsome as he was, there was a something
 
-in the turn of his features which spoke his not having behaved well to
+in the turn of his features which spoke his not having behaved [[Well|well]] to
 
 her.
 
@@ -630,9 +630,9 @@ question, “hangs in your father’s room?”
 
 “No; it was intended for the drawing-room; but my father was
 
-dissatisfied with the painting, and for some time it had no place. Soon
+dissatisfied with the painting, and for some [[Time|time]] it had no place. Soon
 
-after her death I obtained it for my own, and hung it in my
+after her [[Death|death]] I obtained it for my own, and hung it in my
 
 bed-chamber—where I shall be happy to show it you; it is very like.”
 
@@ -642,7 +642,7 @@ valued by the husband! he must have been dreadfully cruel to her!
 
 
 
-Catherine attempted no longer to hide from herself the nature of the
+Catherine attempted no longer to hide from herself the [[Nature|nature]] of the
 
 feelings which, in spite of all his attentions, he had previously
 
@@ -672,11 +672,11 @@ began to walk with lassitude; the General perceived it, and with a
 
 concern for her health, which seemed to reproach her for her opinion of
 
-him, was most urgent for returning with his daughter to the house. He
+him, was most urgent for returning with his daughter to the [[house]]. He
 
 would follow them in a quarter of an hour. Again they parted—but
 
-Eleanor was called back in half a minute to receive a strict charge
+[[Eleanor]] was called back in half a minute to receive a strict charge
 
 against taking her friend round the abbey till his return. This second
 

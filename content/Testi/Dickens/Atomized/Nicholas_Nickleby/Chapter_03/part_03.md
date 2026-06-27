@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 3 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 3 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -47,14 +47,14 @@ some seconds without speaking. The face of the old man was stern,
 hard-featured, and forbidding; that of the young one, open, handsome,
 and ingenuous. The old man’s eye was keen with the twinklings of avarice
 and cunning; the young man’s bright with the light of intelligence and
-spirit. His figure was somewhat slight, but manly and well formed; and,
+spirit. His figure was somewhat slight, but manly and [[Well|well]] formed; and,
 apart from all the grace of youth and comeliness, there was an emanation
 from the warm young heart in his look and bearing which kept the old man
 down.
 
 However striking such a contrast as this may be to lookers-on, none ever
 feel it with half the keenness or acuteness of perfection with which it
-strikes to the very soul of him whose inferiority it marks. It galled
+strikes to the very [[Soul|soul]] of him whose inferiority it marks. It galled
 Ralph to the heart’s core, and he hated Nicholas from that hour.
 
 The mutual inspection was at length brought to a close by Ralph
@@ -64,13 +64,13 @@ gentlemen towards their juniors: probably with the view of deluding
 society into the belief that if they could be young again, they wouldn’t
 on any account.
 
-‘Well, ma’am,’ said Ralph, impatiently, ‘the creditors have
+‘[[Well]], ma’am,’ said Ralph, impatiently, ‘the creditors have
 administered, you tell me, and there’s nothing left for you?’
 
 ‘Nothing,’ replied Mrs. Nickleby.
 
 ‘And you spent what little money you had, in coming all the way to
-London, to see what I could do for you?’ pursued Ralph.
+[[London]], to see what I could do for you?’ pursued Ralph.
 
 ‘I hoped,’ faltered Mrs. Nickleby, ‘that you might have an opportunity of
 doing something for your brother’s children. It was his dying wish that
@@ -81,20 +81,20 @@ I should appeal to you in their behalf.’
 seems to think he has a right to dispose of other people’s. What is your
 daughter fit for, ma’am?’
 
-‘Kate has been well educated,’ sobbed Mrs. Nickleby. ‘Tell your uncle, my
+‘Kate has been [[Well|well]] educated,’ sobbed Mrs. Nickleby. ‘Tell your uncle, my
 dear, how far you went in French and extras.’
 
 The poor girl was about to murmur something, when her uncle stopped her,
 very unceremoniously.
 
 ‘We must try and get you apprenticed at some boarding-school,’ said
-Ralph. ‘You have not been brought up too delicately for that, I hope?’
+Ralph. ‘You have not been brought up too delicately for that, I [[Hope|hope]]?’
 
 ‘No, indeed, uncle,’ replied the weeping girl. ‘I will try to do
-anything that will gain me a home and bread.’
+anything that will gain me a [[Home|home]] and bread.’
 
-‘Well, well,’ said Ralph, a little softened, either by his niece’s
-beauty or her distress (stretch a point, and say the latter). ‘You must
+‘[[Well]], [[Well|well]],’ said Ralph, a little softened, either by his niece’s
+[[Beauty|beauty]] or her distress (stretch a point, and say the latter). ‘You must
 try it, and if the life is too hard, perhaps dressmaking or tambour-work
 will come lighter. Have YOU ever done anything, sir?’ (turning to his
 nephew.)
@@ -104,7 +104,7 @@ nephew.)
 ‘No, I thought not!’ said Ralph. ‘This is the way my brother brought up
 his children, ma’am.’
 
-‘Nicholas has not long completed such education as his poor father could
+‘Nicholas has not long completed such [[Education|education]] as his poor father could
 give him,’ rejoined Mrs. Nickleby, ‘and he was thinking of--’
 
 ‘Of making something of him someday,’ said Ralph. ‘The old story; always
@@ -119,8 +119,8 @@ and nobody, I am sure, can have better reason to feel that, than you.’
 This appeal set the widow upon thinking that perhaps she might have made
 a more successful venture with her one thousand pounds, and then she
 began to reflect what a comfortable sum it would have been just then;
-which dismal thoughts made her tears flow faster, and in the excess of
-these griefs she (being a well-meaning woman enough, but weak withal)
+which dismal thoughts made her [[Tears|tears]] flow faster, and in the excess of
+these griefs she (being a [[Well|well]]-meaning woman enough, but weak withal)
 fell first to deploring her hard fate, and then to remarking, with many
 sobs, that to be sure she had been a slave to poor Nicholas, and had
 often told him she might have married better (as indeed she had, very
@@ -133,7 +133,7 @@ to profit by her advice, save on one occasion; which was a strictly
 veracious statement, inasmuch as he had only acted upon it once, and had
 ruined himself in consequence.
 
-Mr. Ralph Nickleby heard all this with a half-smile; and when the widow
+Mr. [[Ralph Nickleby]] heard all this with a half-smile; and when the widow
 had finished, quietly took up the subject where it had been left before
 the above outbreak.
 
@@ -142,8 +142,8 @@ the above outbreak.
 ‘Of course I am,’ replied Nicholas haughtily.
 
 ‘Then see here, sir,’ said his uncle. ‘This caught my eye this morning,
-and you may thank your stars for it.’
+and you may thank your [[Stars|stars]] for it.’
 
-With this exordium, Mr. Ralph Nickleby took a newspaper from his
-pocket, and after unfolding it, and looking for a short time among the
+With this exordium, Mr. [[Ralph Nickleby]] took a newspaper from his
+pocket, and after unfolding it, and looking for a short [[Time|time]] among the
 advertisements, read as follows:

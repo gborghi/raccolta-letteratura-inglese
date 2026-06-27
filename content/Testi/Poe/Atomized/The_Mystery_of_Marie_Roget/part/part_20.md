@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Marie Roget (part 20)"
+title: "[[The Mystery of Marie Roget]] (part 20)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Marie-Roget-(Poe)"
@@ -16,13 +16,13 @@ tags:
 
       in evidence that he was seen with Marie—but it would have had no
 
-      force at the period of the deed. The first impulse of an innocent
+      force at the period of the deed. The first impulse of an [[Innocent|innocent]]
 
       man would have been to announce the outrage, and to aid in
 
       identifying the ruffians. This policy would have suggested. He
 
-      had been seen with the girl. He had crossed the river with her in
+      had been seen with the girl. He had crossed the [[River|river]] with her in
 
       an open ferry-boat. The denouncing of the assassins would have
 
@@ -30,7 +30,7 @@ tags:
 
       relieving himself from suspicion. We cannot suppose him, on the
 
-      night of the fatal Sunday, both innocent himself and incognizant
+      [[Night|night]] of the fatal [[Sunday]], both [[Innocent|innocent]] himself and incognizant
 
       of an outrage committed. Yet only under such circumstances is it
 
@@ -40,13 +40,13 @@ tags:
 
 
 
-      “And what means are ours, of attaining the truth? We shall find
+      “And what means are ours, of attaining the [[Truth|truth]]? We shall find
 
       these means multiplying and gathering distinctness as we proceed.
 
-      Let us sift to the bottom this affair of the first elopement. Let
+      Let us sift to the [[Bottom|bottom]] this affair of the first elopement. Let
 
-      us know the full history of ‘the officer,’ with his present
+      us know the full [[history]] of ‘the officer,’ with his present
 
       circumstances, and his whereabouts at the precise period of the
 
@@ -60,13 +60,13 @@ tags:
 
       the morning paper, at a previous period, and insisting so
 
-      vehemently upon the guilt of Mennais. And, all this done, let us
+      vehemently upon the [[Guilt|guilt]] of Mennais. And, all this done, let us
 
       again compare these various communications with the known MSS. of
 
       the officer. Let us endeavor to ascertain, by repeated
 
-      questionings of Madame Deluc and her boys, as well as of the
+      questionings of Madame Deluc and her boys, as [[Well|well]] as of the
 
       omnibus driver, Valence, something more of the personal
 
@@ -128,7 +128,7 @@ tags:
 
       waters of the shore. The peculiar marks on the back and shoulders
 
-      of the victim tell of the bottom ribs of a boat. That the body
+      of the victim tell of the [[Bottom|bottom]] ribs of a boat. That the [[Body|body]]
 
       was found without weight is also corroborative of the idea. If
 
@@ -138,7 +138,7 @@ tags:
 
       neglected the precaution of supplying himself with it before
 
-      pushing off. In the act of consigning the corpse to the water, he
+      pushing off. In the act of consigning the corpse to the [[Water|water]], he
 
       would unquestionably have noticed his oversight; but then no
 
@@ -148,7 +148,7 @@ tags:
 
       of his ghastly charge, the murderer would have hastened to the
 
-      city. There, at some obscure wharf, he would have leaped on land.
+      [[City|city]]. There, at some obscure wharf, he would have leaped on land.
 
       But the boat—would he have secured it? He would have been in too
 
@@ -174,13 +174,13 @@ tags:
 
       locality, perhaps, which his duty compels him to frequent. The
 
-      next night, without daring to ask for the rudder, he removes it.
+      next [[Night|night]], without daring to ask for the rudder, he removes it.
 
       Now where is that rudderless boat? Let it be one of our first
 
       purposes to discover. With the first glimpse we obtain of it, the
 
-      dawn of our success shall begin. This boat shall guide us, with a
+      [[Dawn|dawn]] of our [[success]] shall begin. This boat shall guide us, with a
 
       rapidity which will surprise even ourselves, to him who employed
 

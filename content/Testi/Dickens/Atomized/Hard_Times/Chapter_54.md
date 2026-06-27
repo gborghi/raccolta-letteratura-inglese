@@ -29,12 +29,12 @@ foresee.  However, as it must be done, he had no choice but to do it; so,
 after attempting several letters, and failing in them all, he resolved to
 do it by word of mouth.
 
-On his way home, on the evening he set aside for this momentous purpose,
+On his way [[Home|home]], on the evening he set aside for this momentous purpose,
 he took the precaution of stepping into a chemist’s shop and buying a
 bottle of the very strongest smelling-salts.  ‘By George!’ said Mr.
 Bounderby, ‘if she takes it in the fainting way, I’ll have the skin off
 her nose, at all events!’  But, in spite of being thus forearmed, he
-entered his own house with anything but a courageous air; and appeared
+entered his own [[house]] with anything but a courageous air; and appeared
 before the object of his misgivings, like a dog who was conscious of
 coming direct from the pantry.
 
@@ -63,7 +63,7 @@ pockets, and assuring himself with his right hand that the cork of the
 little bottle was ready for use, ‘I have no occasion to say to you, that
 you are not only a lady born and bred, but a devilish sensible woman.’
 
-‘Sir,’ returned the lady, ‘this is indeed not the first time that you
+‘Sir,’ returned the lady, ‘this is indeed not the first [[Time|time]] that you
 have honoured me with similar expressions of your good opinion.’
 
 ‘Mrs. Sparsit, ma’am,’ said Mr. Bounderby, ‘I am going to astonish you.’
@@ -72,13 +72,13 @@ have honoured me with similar expressions of your good opinion.’
 tranquil manner possible.  She generally wore mittens, and she now laid
 down her work, and smoothed those mittens.
 
-‘I am going, ma’am,’ said Bounderby, ‘to marry Tom Gradgrind’s daughter.’
+‘I am going, ma’am,’ said Bounderby, ‘to marry [[Tom Gradgrind]]’s daughter.’
 
-‘Yes, sir,’ returned Mrs. Sparsit.  ‘I hope you may be happy, Mr.
-Bounderby.  Oh, indeed I hope you may be happy, sir!’  And she said it
-with such great condescension as well as with such great compassion for
+‘Yes, sir,’ returned Mrs. Sparsit.  ‘I [[Hope|hope]] you may be happy, Mr.
+Bounderby.  Oh, indeed I [[Hope|hope]] you may be happy, sir!’  And she said it
+with such great condescension as [[Well|well]] as with such great compassion for
 him, that Bounderby,—far more disconcerted than if she had thrown her
-workbox at the mirror, or swooned on the hearthrug,—corked up the
+workbox at the [[Mirror|mirror]], or swooned on the hearthrug,—corked up the
 smelling-salts tight in his pocket, and thought, ‘Now confound this
 woman, who could have even guessed that she would take it in this way!’
 
@@ -86,9 +86,9 @@ woman, who could have even guessed that she would take it in this way!’
 manner; somehow she seemed, in a moment, to have established a right to
 pity him ever afterwards; ‘that you may be in all respects very happy.’
 
-‘Well, ma’am,’ returned Bounderby, with some resentment in his tone:
+‘[[Well]], ma’am,’ returned Bounderby, with some resentment in his tone:
 which was clearly lowered, though in spite of himself, ‘I am obliged to
-you.  I hope I shall be.’
+you.  I [[Hope|hope]] I shall be.’
 
 ‘_Do_ you, sir!’ said Mrs. Sparsit, with great affability.  ‘But
 naturally you do; of course you do.’
@@ -97,13 +97,13 @@ A very awkward pause on Mr. Bounderby’s part, succeeded.  Mrs. Sparsit
 sedately resumed her work and occasionally gave a small cough, which
 sounded like the cough of conscious strength and forbearance.
 
-‘Well, ma’am,’ resumed Bounderby, ‘under these circumstances, I imagine
+‘[[Well]], ma’am,’ resumed Bounderby, ‘under these circumstances, I imagine
 it would not be agreeable to a character like yours to remain here,
 though you would be very welcome here.’
 
 ‘Oh, dear no, sir, I could on no account think of that!’ Mrs. Sparsit
 shook her head, still in her highly superior manner, and a little changed
-the small cough—coughing now, as if the spirit of prophecy rose within
+the small cough—coughing now, as if the spirit of prophecy [[Rose|rose]] within
 her, but had better be coughed down.
 
 ‘However, ma’am,’ said Bounderby, ‘there are apartments at the Bank,
@@ -113,7 +113,7 @@ catch than otherwise; and if the same terms—’
 ‘I beg your pardon, sir.  You were so good as to promise that you would
 always substitute the phrase, annual compliment.’
 
-‘Well, ma’am, annual compliment.  If the same annual compliment would be
+‘[[Well]], ma’am, annual compliment.  If the same annual compliment would be
 acceptable there, why, I see nothing to part us, unless you do.’
 
 ‘Sir,’ returned Mrs. Sparsit.  ‘The proposal is like yourself, and if the
@@ -139,9 +139,9 @@ dependence:’ she might have said the sweetbread, for that delicate
 article in a savoury brown sauce was her favourite supper: ‘and I would
 rather receive it from your hand, than from any other.  Therefore, sir, I
 accept your offer gratefully, and with many sincere acknowledgments for
-past favours.  And I hope, sir,’ said Mrs. Sparsit, concluding in an
-impressively compassionate manner, ‘I fondly hope that Miss Gradgrind may
-be all you desire, and deserve!’
+past favours.  And I [[Hope|hope]], sir,’ said Mrs. Sparsit, concluding in an
+impressively compassionate manner, ‘I fondly [[Hope|hope]] that Miss Gradgrind may
+be all you [[Desire|desire]], and deserve!’
 
 Nothing moved Mrs. Sparsit from that position any more.  It was in vain
 for Bounderby to bluster or to assert himself in any of his explosive
@@ -149,29 +149,29 @@ ways; Mrs. Sparsit was resolved to have compassion on him, as a Victim.
 She was polite, obliging, cheerful, hopeful; but, the more polite, the
 more obliging, the more cheerful, the more hopeful, the more exemplary
 altogether, she; the forlorner Sacrifice and Victim, he.  She had that
-tenderness for his melancholy fate, that his great red countenance used
+tenderness for his [[Melancholy|melancholy]] fate, that his great red countenance used
 to break out into cold perspirations when she looked at him.
 
-Meanwhile the marriage was appointed to be solemnized in eight weeks’
-time, and Mr. Bounderby went every evening to Stone Lodge as an accepted
-wooer.  Love was made on these occasions in the form of bracelets; and,
+Meanwhile the [[Marriage|marriage]] was appointed to be solemnized in eight weeks’
+[[Time|time]], and Mr. Bounderby went every evening to Stone Lodge as an accepted
+wooer.  [[Love]] was made on these occasions in the form of bracelets; and,
 on all occasions during the period of betrothal, took a manufacturing
 aspect.  Dresses were made, jewellery was made, cakes and gloves were
 made, settlements were made, and an extensive assortment of Facts did
-appropriate honour to the contract.  The business was all Fact, from
+appropriate [[Honour|honour]] to the contract.  The business was all Fact, from
 first to last.  The Hours did not go through any of those rosy
 performances, which foolish poets have ascribed to them at such times;
 neither did the clocks go any faster, or any slower, than at other
-seasons.  The deadly statistical recorder in the Gradgrind observatory
+[[Seasons|seasons]].  The deadly statistical recorder in the Gradgrind observatory
 knocked every second on the head as it was born, and buried it with his
 accustomed regularity.
 
 So the day came, as all other days come to people who will only stick to
 reason; and when it came, there were married in the church of the florid
-wooden legs—that popular order of architecture—Josiah Bounderby Esquire
-of Coketown, to Louisa eldest daughter of Thomas Gradgrind Esquire of
+wooden legs—that popular order of architecture—[[Josiah Bounderby]] Esquire
+of Coketown, to Louisa eldest daughter of [[Thomas Gradgrind]] Esquire of
 Stone Lodge, M.P. for that borough.  And when they were united in holy
-matrimony, they went home to breakfast at Stone Lodge aforesaid.
+matrimony, they went [[Home|home]] to breakfast at Stone Lodge aforesaid.
 
 There was an improving party assembled on the auspicious occasion, who
 knew what everything they had to eat and drink was made of, and how it
@@ -183,47 +183,47 @@ the company.
 
 After breakfast, the bridegroom addressed them in the following terms:
 
-‘Ladies and gentlemen, I am Josiah Bounderby of Coketown.  Since you have
-done my wife and myself the honour of drinking our healths and happiness,
+‘Ladies and gentlemen, I am [[Josiah Bounderby]] of Coketown.  Since you have
+done my wife and myself the [[Honour|honour]] of drinking our healths and happiness,
 I suppose I must acknowledge the same; though, as you all know me, and
 know what I am, and what my extraction was, you won’t expect a speech
 from a man who, when he sees a Post, says “that’s a Post,” and when he
 sees a Pump, says “that’s a Pump,” and is not to be got to call a Post a
 Pump, or a Pump a Post, or either of them a Toothpick.  If you want a
-speech this morning, my friend and father-in-law, Tom Gradgrind, is a
+speech this morning, my friend and father-in-law, [[Tom Gradgrind]], is a
 Member of Parliament, and you know where to get it.  I am not your man.
 However, if I feel a little independent when I look around this table
-to-day, and reflect how little I thought of marrying Tom Gradgrind’s
+to-day, and reflect how little I thought of marrying [[Tom Gradgrind]]’s
 daughter when I was a ragged street-boy, who never washed his face unless
-it was at a pump, and that not oftener than once a fortnight, I hope I
-may be excused.  So, I hope you like my feeling independent; if you
+it was at a pump, and that not oftener than once a fortnight, I [[Hope|hope]] I
+may be excused.  So, I [[Hope|hope]] you like my feeling independent; if you
 don’t, I can’t help it.  I _do_ feel independent.  Now I have mentioned,
-and you have mentioned, that I am this day married to Tom Gradgrind’s
+and you have mentioned, that I am this day married to [[Tom Gradgrind]]’s
 daughter.  I am very glad to be so.  It has long been my wish to be so.
 I have watched her bringing-up, and I believe she is worthy of me.  At
-the same time—not to deceive you—I believe I am worthy of her.  So, I
+the same [[Time|time]]—not to deceive you—I believe I am worthy of her.  So, I
 thank you, on both our parts, for the good-will you have shown towards
 us; and the best wish I can give the unmarried part of the present
-company, is this: I hope every bachelor may find as good a wife as I have
-found.  And I hope every spinster may find as good a husband as my wife
+company, is this: I [[Hope|hope]] every bachelor may find as good a wife as I have
+found.  And I [[Hope|hope]] every spinster may find as good a husband as my wife
 has found.’
 
 Shortly after which oration, as they were going on a nuptial trip to
 Lyons, in order that Mr. Bounderby might take the opportunity of seeing
 how the Hands got on in those parts, and whether they, too, required to
 be fed with gold spoons; the happy pair departed for the railroad.  The
-bride, in passing down-stairs, dressed for her journey, found Tom waiting
+bride, in passing down-stairs, dressed for her [[Journey|journey]], found Tom waiting
 for her—flushed, either with his feelings, or the vinous part of the
 breakfast.
 
 ‘What a game girl you are, to be such a first-rate sister, Loo!’
 whispered Tom.
 
-She clung to him as she should have clung to some far better nature that
+She clung to him as she should have clung to some far better [[Nature|nature]] that
 day, and was a little shaken in her reserved composure for the first
-time.
+[[Time|time]].
 
-‘Old Bounderby’s quite ready,’ said Tom.  ‘Time’s up.  Good-bye!  I shall
+‘Old Bounderby’s quite ready,’ said Tom.  ‘[[Time]]’s up.  Good-bye!  I shall
 be on the look-out for you, when you come back.  I say, my dear Loo!
 AN’T it uncommonly jolly now!’
 

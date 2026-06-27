@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 1"
+title: "[[Barnaby Rudge]] — Chapter 1"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -18,27 +18,27 @@ Chapter 1
 
 
 In the year 1775, there stood upon the borders of Epping Forest, at a
-distance of about twelve miles from London--measuring from the Standard
+distance of about twelve miles from [[London]]--measuring from the Standard
 in Cornhill, or rather from the spot on or near to which the Standard
-used to be in days of yore--a house of public entertainment called the
+used to be in days of yore--a [[house]] of public entertainment called the
 Maypole; which fact was demonstrated to all such travellers as
-could neither read nor write (and at that time a vast number both of
+could neither read nor write (and at that [[Time|time]] a vast number both of
 travellers and stay-at-homes were in this condition) by the emblem
-reared on the roadside over against the house, which, if not of those
+reared on the roadside over against the [[house]], which, if not of those
 goodly proportions that Maypoles were wont to present in olden times,
 was a fair young ash, thirty feet in height, and straight as any arrow
 that ever English yeoman drew.
 
-The Maypole--by which term from henceforth is meant the house, and not
+The Maypole--by which term from henceforth is meant the [[house]], and not
 its sign--the Maypole was an old building, with more gable ends than a
 lazy man would care to count on a sunny day; huge zig-zag chimneys, out
 of which it seemed as though even smoke could not choose but come in
 more than naturally fantastic shapes, imparted to it in its tortuous
 progress; and vast stables, gloomy, ruinous, and empty. The place was
-said to have been built in the days of King Henry the Eighth; and there
-was a legend, not only that Queen Elizabeth had slept there one night
+said to have been built in the days of [[King]] Henry the Eighth; and there
+was a legend, not only that [[Queen Elizabeth]] had slept there one [[Night|night]]
 while upon a hunting excursion, to wit, in a certain oak-panelled room
-with a deep bay window, but that next morning, while standing on a
+with a deep bay [[Window|window]], but that next morning, while standing on a
 mounting block before the door with one foot in the stirrup, the virgin
 monarch had then and there boxed and cuffed an unlucky page for some
 neglect of duty. The matter-of-fact and doubtful folks, of whom there
@@ -50,52 +50,52 @@ pointed out that there it stood in the same place to that very day, the
 doubters never failed to be put down by a large majority, and all true
 believers exulted as in a victory.
 
-Whether these, and many other stories of the like nature, were true or
-untrue, the Maypole was really an old house, a very old house, perhaps
+Whether these, and many other stories of the like [[Nature|nature]], were true or
+untrue, the Maypole was really an old [[house]], a very old [[house]], perhaps
 as old as it claimed to be, and perhaps older, which will sometimes
 happen with houses of an uncertain, as with ladies of a certain, age.
 Its windows were old diamond-pane lattices, its floors were sunken
-and uneven, its ceilings blackened by the hand of time, and heavy with
+and uneven, its ceilings blackened by the hand of [[Time|time]], and heavy with
 massive beams. Over the doorway was an ancient porch, quaintly and
-grotesquely carved; and here on summer evenings the more favoured
-customers smoked and drank--ay, and sang many a good song too,
+grotesquely carved; and here on [[Summer|summer]] evenings the more favoured
+customers smoked and drank--ay, and sang many a good [[Song|song]] too,
 sometimes--reposing on two grim-looking high-backed settles, which,
 like the twin dragons of some fairy tale, guarded the entrance to the
 mansion.
 
 In the chimneys of the disused rooms, swallows had built their nests
-for many a long year, and from earliest spring to latest autumn whole
+for many a long year, and from earliest [[spring]] to latest [[Autumn|autumn]] whole
 colonies of sparrows chirped and twittered in the eaves. There were more
 pigeons about the dreary stable-yard and out-buildings than anybody
 but the landlord could reckon up. The wheeling and circling flights
 of runts, fantails, tumblers, and pouters, were perhaps not quite
-consistent with the grave and sober character of the building, but the
+consistent with the [[Grave|grave]] and sober character of the building, but the
 monotonous cooing, which never ceased to be raised by some among them
 all day long, suited it exactly, and seemed to lull it to rest. With its
 overhanging stories, drowsy little panes of glass, and front bulging
-out and projecting over the pathway, the old house looked as if it were
-nodding in its sleep. Indeed, it needed no very great stretch of fancy
+out and projecting over the pathway, the old [[house]] looked as if it were
+nodding in its [[Sleep|sleep]]. Indeed, it needed no very great stretch of fancy
 to detect in it other resemblances to humanity. The bricks of which it
 was built had originally been a deep dark red, but had grown yellow and
 discoloured like an old man’s skin; the sturdy timbers had decayed like
 teeth; and here and there the ivy, like a warm garment to comfort it in
-its age, wrapt its green leaves closely round the time-worn walls.
+its age, wrapt its green [[Leaves|leaves]] closely round the [[Time|time]]-worn walls.
 
-It was a hale and hearty age though, still: and in the summer or
-autumn evenings, when the glow of the setting sun fell upon the oak and
-chestnut trees of the adjacent forest, the old house, partaking of its
+It was a hale and hearty age though, still: and in the [[Summer|summer]] or
+[[Autumn|autumn]] evenings, when the glow of the setting sun fell upon the oak and
+chestnut trees of the adjacent forest, the old [[house]], partaking of its
 lustre, seemed their fit companion, and to have many good years of life
 in him yet.
 
-The evening with which we have to do, was neither a summer nor an autumn
-one, but the twilight of a day in March, when the wind howled dismally
+The evening with which we have to do, was neither a [[Summer|summer]] nor an [[Autumn|autumn]]
+one, but the twilight of a day in March, when the [[Wind|wind]] howled dismally
 among the bare branches of the trees, and rumbling in the wide chimneys
 and driving the rain against the windows of the Maypole Inn, gave such
 of its frequenters as chanced to be there at the moment an undeniable
 reason for prolonging their stay, and caused the landlord to prophesy
-that the night would certainly clear at eleven o’clock precisely,--which
+that the [[Night|night]] would certainly clear at eleven o’[[Clock|clock]] precisely,--which
 by a remarkable coincidence was the hour at which he always closed his
-house.
+[[house]].
 
 The name of him upon whom the spirit of prophecy thus descended was
 John Willet, a burly, large-headed man with a fat face, which betokened
@@ -106,45 +106,45 @@ assertion could, in one sense at least, be by no means gainsaid, seeing
 that he was in everything unquestionably the reverse of fast, and withal
 one of the most dogged and positive fellows in existence--always sure
 that what he thought or said or did was right, and holding it as a thing
-quite settled and ordained by the laws of nature and Providence, that
+quite settled and ordained by the laws of [[Nature|nature]] and [[Providence]], that
 anybody who said or did or thought otherwise must be inevitably and of
 necessity wrong.
 
-Mr Willet walked slowly up to the window, flattened his fat nose
+Mr Willet walked slowly up to the [[Window|window]], flattened his fat nose
 against the cold glass, and shading his eyes that his sight might not
-be affected by the ruddy glow of the fire, looked abroad. Then he
+be affected by the ruddy glow of the [[Fire|fire]], looked abroad. Then he
 walked slowly back to his old seat in the chimney-corner, and, composing
 himself in it with a slight shiver, such as a man might give way to and
 so acquire an additional relish for the warm blaze, said, looking round
 upon his guests:
 
-‘It’ll clear at eleven o’clock. No sooner and no later. Not before and
+‘It’ll clear at eleven o’[[Clock|clock]]. No sooner and no later. Not before and
 not arterwards.’
 
 ‘How do you make out that?’ said a little man in the opposite corner.
-‘The moon is past the full, and she rises at nine.’
+‘The [[Moon|moon]] is past the full, and she rises at nine.’
 
 John looked sedately and solemnly at his questioner until he had brought
 his mind to bear upon the whole of his observation, and then made
-answer, in a tone which seemed to imply that the moon was peculiarly his
+answer, in a tone which seemed to imply that the [[Moon|moon]] was peculiarly his
 business and nobody else’s:
 
-‘Never you mind about the moon. Don’t you trouble yourself about her.
-You let the moon alone, and I’ll let you alone.’
+‘Never you mind about the [[Moon|moon]]. Don’t you trouble yourself about her.
+You let the [[Moon|moon]] [[Alone|alone]], and I’ll let you [[Alone|alone]].’
 
-‘No offence I hope?’ said the little man.
+‘No offence I [[Hope|hope]]?’ said the little man.
 
 Again John waited leisurely until the observation had thoroughly
 penetrated to his brain, and then replying, ‘No offence as YET,’ applied
-a light to his pipe and smoked in placid silence; now and then casting
+a light to his pipe and smoked in placid [[Silence|silence]]; now and then casting
 a sidelong look at a man wrapped in a loose riding-coat with huge cuffs
 ornamented with tarnished silver lace and large metal buttons, who
-sat apart from the regular frequenters of the house, and wearing a hat
+sat apart from the regular frequenters of the [[house]], and wearing a hat
 flapped over his face, which was still further shaded by the hand on
 which his forehead rested, looked unsociable enough.
 
 There was another guest, who sat, booted and spurred, at some distance
-from the fire also, and whose thoughts--to judge from his folded
+from the [[Fire|fire]] also, and whose thoughts--to judge from his folded
 arms and knitted brows, and from the untasted liquor before him--were
 occupied with other matters than the topics under discussion or
 the persons who discussed them. This was a young man of about
@@ -153,11 +153,11 @@ slight figure, gracefully and strongly made. He wore his own dark hair,
 and was accoutred in a riding dress, which together with his large boots
 (resembling in shape and fashion those worn by our Life Guardsmen at
 the present day), showed indisputable traces of the bad condition of
-the roads. But travel-stained though he was, he was well and even richly
+the roads. But travel-stained though he was, he was [[Well|well]] and even richly
 attired, and without being overdressed looked a gallant gentleman.
 
 Lying upon the table beside him, as he had carelessly thrown them down,
-were a heavy riding-whip and a slouched hat, the latter worn no doubt as
+were a heavy riding-whip and a slouched hat, the latter worn no [[Doubt|doubt]] as
 being best suited to the inclemency of the weather. There, too, were a
 pair of pistols in a holster-case, and a short riding-cloak. Little of
 his face was visible, except the long dark lashes which concealed his
@@ -171,45 +171,45 @@ neighbour. It was plain that John and the young gentleman had often met
 before. Finding that his look was not returned, or indeed observed by
 the person to whom it was addressed, John gradually concentrated the
 whole power of his eyes into one focus, and brought it to bear upon the
-man in the flapped hat, at whom he came to stare in course of time with
+man in the flapped hat, at whom he came to stare in course of [[Time|time]] with
 an intensity so remarkable, that it affected his fireside cronies, who
 all, as with one accord, took their pipes from their lips, and stared
 with open mouths at the stranger likewise.
 
 The sturdy landlord had a large pair of dull fish-like eyes, and the
-little man who had hazarded the remark about the moon (and who was the
+little man who had hazarded the remark about the [[Moon|moon]] (and who was the
 parish-clerk and bell-ringer of Chigwell, a village hard by) had little
 round black shiny eyes like beads; moreover this little man wore at the
 knees of his rusty black breeches, and on his rusty black coat, and
 all down his long flapped waistcoat, little queer buttons like nothing
 except his eyes; but so like them, that as they twinkled and glistened
-in the light of the fire, which shone too in his bright shoe-buckles,
+in the light of the [[Fire|fire]], which shone too in his bright shoe-buckles,
 he seemed all eyes from head to foot, and to be gazing with every one of
-them at the unknown customer. No wonder that a man should grow restless
+them at the unknown customer. No [[Wonder|wonder]] that a man should grow restless
 under such an inspection as this, to say nothing of the eyes belonging
 to short Tom Cobb the general chandler and post-office keeper, and long
 Phil Parkes the ranger, both of whom, infected by the example of their
 companions, regarded him of the flapped hat no less attentively.
 
 The stranger became restless; perhaps from being exposed to this raking
-fire of eyes, perhaps from the nature of his previous meditations--most
+[[Fire|fire]] of eyes, perhaps from the [[Nature|nature]] of his previous meditations--most
 probably from the latter cause, for as he changed his position and
 looked hastily round, he started to find himself the object of such keen
 regard, and darted an angry and suspicious glance at the fireside group.
 It had the effect of immediately diverting all eyes to the chimney,
 except those of John Willet, who finding himself as it were, caught in
 the fact, and not being (as has been already observed) of a very ready
-nature, remained staring at his guest in a particularly awkward and
+[[Nature|nature]], remained staring at his guest in a particularly awkward and
 disconcerted manner.
 
-‘Well?’ said the stranger.
+‘[[Well]]?’ said the stranger.
 
-Well. There was not much in well. It was not a long speech. ‘I thought
+[[Well]]. There was not much in [[Well|well]]. It was not a long speech. ‘I thought
 you gave an order,’ said the landlord, after a pause of two or three
 minutes for consideration.
 
 The stranger took off his hat, and disclosed the hard features of a man
-of sixty or thereabouts, much weatherbeaten and worn by time, and
+of sixty or thereabouts, much weatherbeaten and worn by [[Time|time]], and
 the naturally harsh expression of which was not improved by a dark
 handkerchief which was bound tightly round his head, and, while it
 served the purpose of a wig, shaded his forehead, and almost hid his
@@ -219,7 +219,7 @@ must have laid bare his cheekbone, the object was but indifferently
 attained, for it could scarcely fail to be noted at a glance. His
 complexion was of a cadaverous hue, and he had a grizzly jagged beard
 of some three weeks’ date. Such was the figure (very meanly and poorly
-clad) that now rose from the seat, and stalking across the room sat down
+clad) that now [[Rose|rose]] from the seat, and stalking across the room sat down
 in a corner of the chimney, which the politeness or fears of the little
 clerk very readily assigned to him.
 
@@ -229,21 +229,21 @@ clerk very readily assigned to him.
 Parkes. ‘It’s a better business than you think for, Tom, and highwaymen
 don’t need or use to be shabby, take my word for it.’
 
-Meanwhile the subject of their speculations had done due honour to the
-house by calling for some drink, which was promptly supplied by the
+Meanwhile the subject of their speculations had done due [[Honour|honour]] to the
+[[house]] by calling for some drink, which was promptly supplied by the
 landlord’s son Joe, a broad-shouldered strapping young fellow of twenty,
 whom it pleased his father still to consider a little boy, and to treat
-accordingly. Stretching out his hands to warm them by the blazing fire,
+accordingly. Stretching out his hands to warm them by the blazing [[Fire|fire]],
 the man turned his head towards the company, and after running his eye
-sharply over them, said in a voice well suited to his appearance:
+sharply over them, said in a voice [[Well|well]] suited to his appearance:
 
-‘What house is that which stands a mile or so from here?’
+‘What [[house]] is that which stands a mile or so from here?’
 
-‘Public-house?’ said the landlord, with his usual deliberation.
+‘Public-[[house]]?’ said the landlord, with his usual deliberation.
 
-‘Public-house, father!’ exclaimed Joe, ‘where’s the public-house
-within a mile or so of the Maypole? He means the great house--the
-Warren--naturally and of course. The old red brick house, sir, that
+‘Public-[[house]], father!’ exclaimed Joe, ‘where’s the public-[[house]]
+within a mile or so of the Maypole? He means the [[Great House|great house]]--the
+Warren--naturally and of course. The old red brick [[house]], sir, that
 stands in its own grounds--?’
 
 ‘Aye,’ said the stranger.
@@ -257,9 +257,9 @@ has been I don’t care to know, and what it is I can see for myself.’
 
 The heir-apparent to the Maypole pressed his finger on his lips, and
 glancing at the young gentleman already noticed, who had changed his
-attitude when the house was first mentioned, replied in a lower tone:
+attitude when the [[house]] was first mentioned, replied in a lower tone:
 
-‘The owner’s name is Haredale, Mr Geoffrey Haredale, and’--again
+‘The owner’s name is Haredale, Mr [[Geoffrey Haredale]], and’--again
 he glanced in the same direction as before--‘and a worthy gentleman
 too--hem!’
 
@@ -273,14 +273,14 @@ daughter?’
 ‘Why, how should I know, honest man?’ replied Joe, contriving in the
 course of some arrangements about the hearth, to advance close to his
 questioner and pluck him by the sleeve, ‘I didn’t see the young lady,
-you know. Whew! There’s the wind again--AND rain--well it IS a night!’
+you know. Whew! There’s the [[Wind|wind]] again--AND rain--[[Well|well]] it IS a [[Night|night]]!’
 
 Rough weather indeed!’ observed the strange man.
 
 ‘You’re used to it?’ said Joe, catching at anything which seemed to
 promise a diversion of the subject.
 
-‘Pretty well,’ returned the other. ‘About the young lady--has Mr
+‘Pretty [[Well|well]],’ returned the other. ‘About the young lady--has Mr
 Haredale a daughter?’
 
 ‘No, no,’ said the young fellow fretfully, ‘he’s a single
@@ -298,9 +298,9 @@ him again, ‘You’ll come in for it presently, I know you will!’
 
 ‘I mean no harm’--returned the traveller boldly, ‘and have said none
 that I know of. I ask a few questions--as any stranger may, and not
-unnaturally--about the inmates of a remarkable house in a neighbourhood
+unnaturally--about the inmates of a remarkable [[house]] in a neighbourhood
 which is new to me, and you are as aghast and disturbed as if I were
-talking treason against King George. Perhaps you can tell me why, sir,
+talking treason against [[King]] George. Perhaps you can tell me why, sir,
 for (as I say) I am a stranger, and this is Greek to me?’
 
 The latter observation was addressed to the obvious cause of Joe
@@ -309,12 +309,12 @@ preparatory to sallying abroad. Briefly replying that he could give him
 no information, the young man beckoned to Joe, and handing him a piece
 of money in payment of his reckoning, hurried out attended by young
 Willet himself, who taking up a candle followed to light him to the
-house-door.
+[[house]]-door.
 
 While Joe was absent on this errand, the elder Willet and his three
 companions continued to smoke with profound gravity, and in a deep
-silence, each having his eyes fixed on a huge copper boiler that was
-suspended over the fire. After some time John Willet slowly shook his
+[[Silence|silence]], each having his eyes fixed on a huge copper boiler that was
+suspended over the [[Fire|fire]]. After some [[Time|time]] John Willet slowly shook his
 head, and thereupon his friends slowly shook theirs; but no man withdrew
 his eyes from the boiler, or altered the solemn expression of his
 countenance in the slightest degree.
@@ -322,22 +322,22 @@ countenance in the slightest degree.
 At length Joe returned--very talkative and conciliatory, as though with
 a strong presentiment that he was going to be found fault with.
 
-‘Such a thing as love is!’ he said, drawing a chair near the fire, and
-looking round for sympathy. ‘He has set off to walk to London,--all
-the way to London. His nag gone lame in riding out here this blessed
+‘Such a thing as [[Love|love]] is!’ he said, drawing a chair near the [[Fire|fire]], and
+looking round for sympathy. ‘He has set off to walk to [[London]],--all
+the way to [[London]]. His nag gone lame in riding out here this blessed
 afternoon, and comfortably littered down in our stable at this minute;
 and he giving up a good hot supper and our best bed, because Miss
 Haredale has gone to a masquerade up in town, and he has set his heart
 upon seeing her! I don’t think I could persuade myself to do that,
-beautiful as she is,--but then I’m not in love (at least I don’t think I
+beautiful as she is,--but then I’m not in [[Love|love]] (at least I don’t think I
 am) and that’s the whole difference.’
 
-‘He is in love then?’ said the stranger.
+‘He is in [[Love|love]] then?’ said the stranger.
 
-‘Rather,’ replied Joe. ‘He’ll never be more in love, and may very easily
+‘Rather,’ replied Joe. ‘He’ll never be more in [[Love|love]], and may very easily
 be less.’
 
-‘Silence, sir!’ cried his father.
+‘[[Silence]], sir!’ cried his father.
 
 ‘What a chap you are, Joe!’ said Long Parkes.
 
@@ -348,20 +348,20 @@ face!’ exclaimed the parish-clerk, metaphorically.
 
 ‘What HAVE I done?’ reasoned poor Joe.
 
-‘Silence, sir!’ returned his father, ‘what do you mean by talking, when
+‘[[Silence]], sir!’ returned his father, ‘what do you mean by talking, when
 you see people that are more than two or three times your age, sitting
 still and silent and not dreaming of saying a word?’
 
-‘Why that’s the proper time for me to talk, isn’t it?’ said Joe
+‘Why that’s the proper [[Time|time]] for me to talk, isn’t it?’ said Joe
 rebelliously.
 
-‘The proper time, sir!’ retorted his father, ‘the proper time’s no
-time.’
+‘The proper [[Time|time]], sir!’ retorted his father, ‘the proper [[Time|time]]’s no
+[[Time|time]].’
 
 ‘Ah to be sure!’ muttered Parkes, nodding gravely to the other two who
 nodded likewise, observing under their breaths that that was the point.
 
-‘The proper time’s no time, sir,’ repeated John Willet; ‘when I was
+‘The proper [[Time|time]]’s no [[Time|time]], sir,’ repeated John Willet; ‘when I was
 your age I never talked, I never wanted to talk. I listened and improved
 myself that’s what I did.’
 
@@ -375,10 +375,10 @@ argeyment is a gift of Natur. If Natur has gifted a man with powers
 of argeyment, a man has a right to make the best of ‘em, and has not
 a right to stand on false delicacy, and deny that he is so gifted; for
 that is a turning of his back on Natur, a flouting of her, a slighting
-of her precious caskets, and a proving of one’s self to be a swine that
+of her precious caskets, and a proving of one’s [[Self|self]] to be a swine that
 isn’t worth her scattering pearls before.’
 
-The landlord pausing here for a very long time, Mr Parkes naturally
+The landlord pausing here for a very long [[Time|time]], Mr Parkes naturally
 concluded that he had brought his discourse to an end; and therefore,
 turning to the young man with some austerity, exclaimed:
 
@@ -391,7 +391,7 @@ him that he had put in his oar, as the vulgar say, with unbecoming
 and irreverent haste; ‘IF, sir, Natur has fixed upon me the gift of
 argeyment, why should I not own to it, and rather glory in the same?
 Yes, sir, I AM a tough customer that way. You are right, sir. My
-toughness has been proved, sir, in this room many and many a time, as I
+toughness has been proved, sir, in this room many and many a [[Time|time]], as I
 think you know; and if you don’t know,’ added John, putting his pipe in
 his mouth again, ‘so much the better, for I an’t proud and am not going
 to tell you.’
@@ -400,20 +400,20 @@ A general murmur from his three cronies, and a general shaking of
 heads at the copper boiler, assured John Willet that they had had good
 experience of his powers and needed no further evidence to assure them
 of his superiority. John smoked with a little more dignity and surveyed
-them in silence.
+them in [[Silence|silence]].
 
 ‘It’s all very fine talking,’ muttered Joe, who had been fidgeting in
 his chair with divers uneasy gestures. ‘But if you mean to tell me that
 I’m never to open my lips--’
 
-‘Silence, sir!’ roared his father. ‘No, you never are. When your
+‘[[Silence]], sir!’ roared his father. ‘No, you never are. When your
 opinion’s wanted, you give it. When you’re spoke to, you speak. When
 your opinion’s not wanted and you’re not spoke to, don’t you give an
 opinion and don’t you speak. The world’s undergone a nice alteration
-since my time, certainly. My belief is that there an’t any boys
+since my [[Time|time]], certainly. My belief is that there an’t any boys
 left--that there isn’t such a thing as a boy--that there’s nothing now
 between a male baby and a man--and that all the boys went out with his
-blessed Majesty King George the Second.’
+blessed Majesty [[King]] George the Second.’
 
 ‘That’s a very true observation, always excepting the young princes,’
 said the parish-clerk, who, as the representative of church and state in
@@ -426,7 +426,7 @@ like boys, then the young princes must be boys and cannot be otherwise.’
 ‘Certainly I have,’ replied the clerk.
 
 ‘Very good,’ said Mr Willet. ‘According to the constitution of mermaids,
-so much of a mermaid as is not a woman must be a fish. According to the
+so much of a [[Mermaid|mermaid]] as is not a woman must be a fish. According to the
 constitution of young princes, so much of a young prince (if anything)
 as is not actually an angel, must be godly and righteous. Therefore if
 it’s becoming and godly and righteous in the young princes (as it is
@@ -434,13 +434,13 @@ at their ages) that they should be boys, they are and must be boys, and
 cannot by possibility be anything else.’
 
 This elucidation of a knotty point being received with such marks of
-approval as to put John Willet into a good humour, he contented himself
-with repeating to his son his command of silence, and addressing the
+approval as to put John Willet into a good [[Humour|humour]], he contented himself
+with repeating to his son his command of [[Silence|silence]], and addressing the
 stranger, said:
 
 ‘If you had asked your questions of a grown-up person--of me or any of
 these gentlemen--you’d have had some satisfaction, and wouldn’t have
-wasted breath. Miss Haredale is Mr Geoffrey Haredale’s niece.’
+wasted breath. Miss Haredale is Mr [[Geoffrey Haredale]]’s niece.’
 
 ‘Is her father alive?’ said the man, carelessly.
 
@@ -453,7 +453,7 @@ wasted breath. Miss Haredale is Mr Geoffrey Haredale’s niece.’
 The cronies nodded to each other, and Mr Parkes remarked in an
 undertone, shaking his head meanwhile as who should say, ‘let no man
 contradict me, for I won’t believe him,’ that John Willet was in amazing
-force to-night, and fit to tackle a Chief Justice.
+force to-[[Night|night]], and fit to tackle a Chief Justice.
 
 The stranger suffered a short pause to elapse, and then asked abruptly,
 ‘What do you mean?’
@@ -465,13 +465,13 @@ there’s more meaning in them words than you suspect.’
 do you speak in such mysteries for? You tell me, first, that a man is
 not alive, nor yet dead--then, that he’s not dead in a common sort of
 way--then, that you mean a great deal more than I think for. To tell
-you the truth, you may do that easily; for so far as I can make out, you
+you the [[Truth|truth]], you may do that easily; for so far as I can make out, you
 mean nothing. What DO you mean, I ask again?’
 
 ‘That,’ returned the landlord, a little brought down from his dignity
-by the stranger’s surliness, ‘is a Maypole story, and has been any time
+by the stranger’s surliness, ‘is a Maypole story, and has been any [[Time|time]]
 these four-and-twenty years. That story is Solomon Daisy’s story. It
-belongs to the house; and nobody but Solomon Daisy has ever told it
+belongs to the [[house]]; and nobody but Solomon Daisy has ever told it
 under this roof, or ever shall--that’s more.’
 
 The man glanced at the parish-clerk, whose air of consciousness and
@@ -481,13 +481,13 @@ whiff to keep it alight, and was evidently about to tell his story
 without further solicitation, gathered his large coat about him, and
 shrinking further back was almost lost in the gloom of the spacious
 chimney-corner, except when the flame, struggling from under a great
-faggot, whose weight almost crushed it for the time, shot upward with a
+faggot, whose weight almost crushed it for the [[Time|time]], shot upward with a
 strong and sudden glare, and illumining his figure for a moment, seemed
 afterwards to cast it into deeper obscurity than before.
 
 By this flickering light, which made the old room, with its heavy
 timbers and panelled walls, look as if it were built of polished
-ebony--the wind roaring and howling without, now rattling the latch
+ebony--the [[Wind|wind]] roaring and howling without, now rattling the latch
 and creaking the hinges of the stout oaken door, and now driving at
 the casement as though it would beat it in--by this light, and under
 circumstances so auspicious, Solomon Daisy began his tale:
@@ -512,7 +512,7 @@ years ago was the owner of the Warren, which, as Joe has said--not that
 you remember it, Joe, for a boy like you can’t do that, but because you
 have often heard me say so--was then a much larger and better place, and
 a much more valuable property than it is now. His lady was lately
-dead, and he was left with one child--the Miss Haredale you have been
+dead, and he was left with one [[Child|child]]--the Miss Haredale you have been
 inquiring about--who was then scarcely a year old.’
 
 Although the speaker addressed himself to the man who had shown so much
@@ -526,7 +526,7 @@ show his sense of such indecent behaviour.
 
 ‘Mr Haredale,’ said Solomon, turning his back upon the strange man,
 ‘left this place when his lady died, feeling it lonely like, and went
-up to London, where he stopped some months; but finding that place as
+up to [[London]], where he stopped some months; but finding that place as
 lonely as this--as I suppose and have always heard say--he suddenly
 came back again with his little girl to the Warren, bringing with him
 besides, that day, only two women servants, and his steward, and a
@@ -538,23 +538,23 @@ enjoyment of the tobacco and strong pulling at the pipe, and afterwards
 with increasing distinctness:
 
 ‘--Bringing with him two women servants, and his steward, and a
-gardener. The rest stopped behind up in London, and were to follow next
-day. It happened that that night, an old gentleman who lived at Chigwell
+gardener. The rest stopped behind up in [[London]], and were to follow next
+day. It happened that that [[Night|night]], an old gentleman who lived at Chigwell
 Row, and had long been poorly, deceased, and an order came to me at half
-after twelve o’clock at night to go and toll the passing-bell.’
+after twelve o’[[Clock|clock]] at [[Night|night]] to go and toll the passing-bell.’
 
 There was a movement in the little group of listeners, sufficiently
 indicative of the strong repugnance any one of them would have felt to
-have turned out at such a time upon such an errand. The clerk felt and
+have turned out at such a [[Time|time]] upon such an errand. The clerk felt and
 understood it, and pursued his theme accordingly.
 
-‘It WAS a dreary thing, especially as the grave-digger was laid up in
+‘It WAS a dreary thing, especially as the [[Grave|grave]]-digger was laid up in
 his bed, from long working in a damp soil and sitting down to take his
 dinner on cold tombstones, and I was consequently under obligation to go
-alone, for it was too late to hope to get any other companion. However,
+[[Alone|alone]], for it was too late to [[Hope|hope]] to get any other companion. However,
 I wasn’t unprepared for it; as the old gentleman had often made it a
 request that the bell should be tolled as soon as possible after the
-breath was out of his body, and he had been expected to go for some
+breath was out of his [[Body|body]], and he had been expected to go for some
 days. I put as good a face upon it as I could, and muffling myself up
 (for it was mortal cold), started out with a lighted lantern in one hand
 and the key of the church in the other.’
@@ -566,66 +566,66 @@ to Joe whether this was the case. Joe shaded his eyes with his hand and
 peered into the corner, but could make out nothing, and so shook his
 head.
 
-‘It was just such a night as this; blowing a hurricane, raining heavily,
+‘It was just such a [[Night|night]] as this; blowing a hurricane, raining heavily,
 and very dark--I often think now, darker than I ever saw it before or
 since; that may be my fancy, but the houses were all close shut and the
 folks in doors, and perhaps there is only one other man who knows how
 dark it really was. I got into the church, chained the door back so that
-it should keep ajar--for, to tell the truth, I didn’t like to be shut
-in there alone--and putting my lantern on the stone seat in the little
+it should keep ajar--for, to tell the [[Truth|truth]], I didn’t like to be shut
+in there [[Alone|alone]]--and putting my lantern on the stone seat in the little
 corner where the bell-rope is, sat down beside it to trim the candle.
 
 ‘I sat down to trim the candle, and when I had done so I could not
 persuade myself to get up again, and go about my work. I don’t know how
-it was, but I thought of all the ghost stories I had ever heard, even
+it was, but I thought of all the [[Ghost|ghost]] stories I had ever heard, even
 those that I had heard when I was a boy at school, and had forgotten
 long ago; and they didn’t come into my mind one after another, but
 all crowding at once, like. I recollected one story there was in the
-village, how that on a certain night in the year (it might be that very
-night for anything I knew), all the dead people came out of the ground
+village, how that on a certain [[Night|night]] in the year (it might be that very
+[[Night|night]] for anything I knew), all the dead people came out of the ground
 and sat at the heads of their own graves till morning. This made me
 think how many people I had known, were buried between the church-door
 and the churchyard gate, and what a dreadful thing it would be to have
 to pass among them and know them again, so earthy and unlike themselves.
-I had known all the niches and arches in the church from a child; still,
+I had known all the niches and arches in the church from a [[Child|child]]; still,
 I couldn’t persuade myself that those were their natural shadows which
 I saw on the pavement, but felt sure there were some ugly figures hiding
 among ‘em and peeping out. Thinking on in this way, I began to think of
 the old gentleman who was just dead, and I could have sworn, as I looked
 up the dark chancel, that I saw him in his usual place, wrapping his
-shroud about him and shivering as if he felt it cold. All this time I
+shroud about him and shivering as if he felt it cold. All this [[Time|time]] I
 sat listening and listening, and hardly dared to breathe. At length
 I started up and took the bell-rope in my hands. At that minute there
 rang--not that bell, for I had hardly touched the rope--but another!
 
 ‘I heard the ringing of another bell, and a deep bell too, plainly. It
-was only for an instant, and even then the wind carried the sound away,
-but I heard it. I listened for a long time, but it rang no more. I had
+was only for an instant, and even then the [[Wind|wind]] carried the sound away,
+but I heard it. I listened for a long [[Time|time]], but it rang no more. I had
 heard of corpse candles, and at last I persuaded myself that this must
 be a corpse bell tolling of itself at midnight for the dead. I tolled my
-bell--how, or how long, I don’t know--and ran home to bed as fast as I
+bell--how, or how long, I don’t know--and ran [[Home|home]] to bed as fast as I
 could touch the ground.
 
-‘I was up early next morning after a restless night, and told the story
+‘I was up early next morning after a restless [[Night|night]], and told the story
 to my neighbours. Some were serious and some made light of it; I don’t
 think anybody believed it real. But, that morning, Mr Reuben Haredale
 was found murdered in his bedchamber; and in his hand was a piece of the
 cord attached to an alarm-bell outside the roof, which hung in his room
-and had been cut asunder, no doubt by the murderer, when he seized it.
+and had been cut asunder, no [[Doubt|doubt]] by the murderer, when he seized it.
 
 ‘That was the bell I heard.
 
 ‘A bureau was found opened, and a cash-box, which Mr Haredale had
 brought down that day, and was supposed to contain a large sum of money,
 was gone. The steward and gardener were both missing and both suspected
-for a long time, but they were never found, though hunted far and wide.
+for a long [[Time|time]], but they were never found, though hunted far and wide.
 And far enough they might have looked for poor Mr Rudge the steward,
-whose body--scarcely to be recognised by his clothes and the watch and
-ring he wore--was found, months afterwards, at the bottom of a piece of
-water in the grounds, with a deep gash in the breast where he had been
+whose [[Body|body]]--scarcely to be recognised by his clothes and the watch and
+ring he wore--was found, months afterwards, at the [[Bottom|bottom]] of a piece of
+[[Water|water]] in the grounds, with a deep gash in the breast where he had been
 stabbed with a knife. He was only partly dressed; and people all agreed
 that he had been sitting up reading in his own room, where there were
-many traces of blood, and was suddenly fallen upon and killed before his
+many traces of [[Blood|blood]], and was suddenly fallen upon and killed before his
 master.
 
 Everybody now knew that the gardener must be the murderer, and though

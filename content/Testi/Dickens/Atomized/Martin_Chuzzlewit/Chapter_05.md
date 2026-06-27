@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 5"
+title: "[[Martin Chuzzlewit]] — Chapter 5"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -21,88 +21,88 @@ PUPIL INTO THE BOSOM OF MR PECKSNIFF’S FAMILY. WITH ALL THE FESTIVITIES
 HELD ON THAT OCCASION, AND THE GREAT ENJOYMENT OF MR PINCH
 
 
-The best of architects and land surveyors kept a horse, in whom the
+The best of architects and land surveyors kept a [[Horse|horse]], in whom the
 enemies already mentioned more than once in these pages pretended to
 detect a fanciful resemblance to his master. Not in his outward
-person, for he was a raw-boned, haggard horse, always on a much shorter
+person, for he was a raw-boned, haggard [[Horse|horse]], always on a much shorter
 allowance of corn than Mr Pecksniff; but in his moral character,
 wherein, said they, he was full of promise, but of no performance.
 He was always in a manner, going to go, and never going. When at his
 slowest rate of travelling he would sometimes lift up his legs so high,
 and display such mighty action, that it was difficult to believe he was
 doing less than fourteen miles an hour; and he was for ever so
-perfectly satisfied with his own speed, and so little disconcerted by
+perfectly satisfied with his own [[Speed|speed]], and so little disconcerted by
 opportunities of comparing himself with the fastest trotters, that the
 illusion was the more difficult of resistance. He was a kind of animal
-who infused into the breasts of strangers a lively sense of hope, and
-possessed all those who knew him better with a grim despair. In what
+who infused into the breasts of strangers a lively sense of [[Hope|hope]], and
+possessed all those who knew him better with a grim [[Despair|despair]]. In what
 respect, having these points of character, he might be fairly likened
 to his master, that good man’s slanderers only can explain. But it is a
-melancholy truth, and a deplorable instance of the uncharitableness of
+[[Melancholy|melancholy]] [[Truth|truth]], and a deplorable instance of the uncharitableness of
 the world, that they made the comparison.
 
-In this horse, and the hooded vehicle, whatever its proper name might
+In this [[Horse|horse]], and the hooded vehicle, whatever its proper name might
 be, to which he was usually harnessed--it was more like a gig with a
 tumour than anything else--all Mr Pinch’s thoughts and wishes centred,
 one bright frosty morning; for with this gallant equipage he was about
-to drive to Salisbury alone, there to meet with the new pupil, and
-thence to bring him home in triumph.
+to drive to Salisbury [[Alone|alone]], there to meet with the new pupil, and
+thence to bring him [[Home|home]] in triumph.
 
-Blessings on thy simple heart, Tom Pinch, how proudly dost thou button
+Blessings on thy simple heart, [[Tom Pinch]], how proudly dost thou button
 up that scanty coat, called by a sad misnomer, for these many years,
 a ‘great’ one; and how thoroughly, as with thy cheerful voice thou
 pleasantly adjurest Sam the hostler ‘not to let him go yet,’ dost thou
 believe that quadruped desires to go, and would go if he might! Who
-could repress a smile--of love for thee, Tom Pinch, and not in jest at
+could repress a smile--of [[Love|love]] for thee, [[Tom Pinch]], and not in jest at
 thy expense, for thou art poor enough already, Heaven knows--to think
 that such a holiday as lies before thee should awaken that quick flow
 and hurry of the spirits, in which thou settest down again, almost
-untasted, on the kitchen window-sill, that great white mug (put by, by
-thy own hands, last night, that breakfast might not hold thee late), and
-layest yonder crust upon the seat beside thee, to be eaten on the road,
+untasted, on the kitchen [[Window|window]]-sill, that great white mug (put by, by
+thy own hands, last [[Night|night]], that breakfast might not hold thee late), and
+layest yonder crust upon the seat beside thee, to be eaten on the [[Road|road]],
 when thou art calmer in thy high rejoicing! Who, as thou drivest off, a
 happy, man, and noddest with a grateful lovingness to Pecksniff in his
-nightcap at his chamber-window, would not cry, ‘Heaven speed thee, Tom,
-and send that thou wert going off for ever to some quiet home where thou
+nightcap at his chamber-[[Window|window]], would not cry, ‘Heaven [[Speed|speed]] thee, Tom,
+and send that thou wert going off for ever to some quiet [[Home|home]] where thou
 mightst live at peace, and sorrow should not touch thee!’
 
-What better time for driving, riding, walking, moving through the air by
-any means, than a fresh, frosty morning, when hope runs cheerily through
-the veins with the brisk blood, and tingles in the frame from head to
-foot! This was the glad commencement of a bracing day in early winter,
-such as may put the languid summer season (speaking of it when it can’t
-be had) to the blush, and shame the spring for being sometimes cold by
-halves. The sheep-bells rang as clearly in the vigorous air, as if they
+What better [[Time|time]] for driving, riding, walking, moving through the air by
+any means, than a fresh, frosty morning, when [[Hope|hope]] runs cheerily through
+the veins with the brisk [[Blood|blood]], and tingles in the frame from head to
+foot! This was the glad commencement of a bracing day in early [[Winter|winter]],
+such as may put the languid [[Summer|summer]] season (speaking of it when it can’t
+be had) to the blush, and shame the [[Spring|spring]] for being sometimes cold by
+halves. The sheep-[[Bells|bells]] rang as clearly in the vigorous air, as if they
 felt its wholesome influence like living creatures; the trees, in lieu
-of leaves or blossoms, shed upon the ground a frosty rime that sparkled
-as it fell, and might have been the dust of diamonds. So it was to Tom.
+of [[Leaves|leaves]] or blossoms, shed upon the ground a frosty rime that sparkled
+as it fell, and might have been the [[Dust|dust]] of diamonds. So it was to Tom.
 From cottage chimneys, smoke went streaming up high, high, as if the
 earth had lost its grossness, being so fair, and must not be oppressed
 by heavy vapour. The crust of ice on the else rippling brook was so
-transparent, and so thin in texture, that the lively water might of its
+transparent, and so thin in texture, that the lively [[Water|water]] might of its
 own free will have stopped--in Tom’s glad mind it had--to look upon the
 lovely morning. And lest the sun should break this charm too eagerly,
 there moved between him and the ground, a mist like that which waits
-upon the moon on summer nights--the very same to Tom--and wooed him to
+upon the [[Moon|moon]] on [[Summer|summer]] nights--the very same to Tom--and wooed him to
 dissolve it gently.
 
-Tom Pinch went on; not fast, but with a sense of rapid motion, which did
-just as well; and as he went, all kinds of things occurred to keep him
+[[Tom Pinch]] went on; not fast, but with a sense of rapid motion, which did
+just as [[Well|well]]; and as he went, all kinds of things occurred to keep him
 happy. Thus when he came within sight of the turnpike, and was--oh a
 long way off!--he saw the tollman’s wife, who had that moment checked a
-waggon, run back into the little house again like mad, to say (she knew)
+waggon, run back into the little [[house]] again like mad, to say (she knew)
 that Mr Pinch was coming up. And she was right, for when he drew within
 hail of the gate, forth rushed the tollman’s children, shrieking in tiny
-chorus, ‘Mr Pinch!’ to Tom’s intense delight. The very tollman, though
+[[Chorus|chorus]], ‘Mr Pinch!’ to Tom’s intense delight. The very tollman, though
 an ugly chap in general, and one whom folks were rather shy of handling,
 came out himself to take the toll, and give him rough good morning; and
 that with all this, and a glimpse of the family breakfast on a little
-round table before the fire, the crust Tom Pinch had brought away with
+round table before the [[Fire|fire]], the crust [[Tom Pinch]] had brought away with
 him acquired as rich a flavour as though it had been cut from a fairy
 loaf.
 
 But there was more than this. It was not only the married people and the
-children who gave Tom Pinch a welcome as he passed. No, no. Sparkling
+children who gave [[Tom Pinch]] a welcome as he passed. No, no. Sparkling
 eyes and snowy breasts came hurriedly to many an upper casement as he
 clattered by, and gave him back his greeting: not stinted either, but
 sevenfold, good measure. They were all merry. They all laughed. And some
@@ -110,14 +110,14 @@ of the wickedest among them even kissed their hands as Tom looked back.
 For who minded poor Mr Pinch? There was no harm in HIM.
 
 And now the morning grew so fair, and all things were so wide awake and
-gay, that the sun seeming to say--Tom had no doubt he said--‘I can’t
+gay, that the sun seeming to say--Tom had no [[Doubt|doubt]] he said--‘I can’t
 stand it any longer; I must have a look,’ streamed out in radiant
 majesty. The mist, too shy and gentle for such lusty company, fled off,
 quite scared, before it; and as it swept away, the hills and mounds and
 distant pasture lands, teeming with placid sheep and noisy crows, came
 out as bright as though they were unrolled bran new for the occasion. In
 compliment to which discovery, the brook stood still no longer, but ran
-briskly off to bear the tidings to the water-mill, three miles away.
+briskly off to bear the tidings to the [[Water|water]]-mill, three miles away.
 
 Mr Pinch was jogging along, full of pleasant thoughts and cheerful
 influences, when he saw, upon the path before him, going in the same
@@ -126,7 +126,7 @@ quick step, and sang as he went--for certain in a very loud voice, but
 not unmusically. He was a young fellow, of some five or six-and-twenty
 perhaps, and was dressed in such a free and fly-away fashion, that the
 long ends of his loose red neckcloth were streaming out behind him
-quite as often as before; and the bunch of bright winter berries in the
+quite as often as before; and the bunch of bright [[Winter|winter]] berries in the
 buttonhole of his velveteen coat was as visible to Mr Pinch’s rearward
 observation, as if he had worn that garment wrong side foremost. He
 continued to sing with so much energy, that he did not hear the sound
@@ -134,8 +134,8 @@ of wheels until it was close behind him; when he turned a whimsical
 face and a very merry pair of blue eyes on Mr Pinch, and checked himself
 directly.
 
-‘Why, Mark?’ said Tom Pinch, stopping. ‘Who’d have thought of seeing you
-here? Well! this is surprising!’
+‘Why, Mark?’ said [[Tom Pinch]], stopping. ‘Who’d have thought of seeing you
+here? [[Well]]! this is surprising!’
 
 Mark touched his hat, and said, with a very sudden decrease of vivacity,
 that he was going to Salisbury.
@@ -144,38 +144,38 @@ that he was going to Salisbury.
 pleasure. ‘Really, I didn’t think you were half such a tight-made
 fellow, Mark!’
 
-‘Thankee, Mr Pinch. Pretty well for that, I believe. It’s not my fault,
+‘Thankee, Mr Pinch. Pretty [[Well|well]] for that, I believe. It’s not my fault,
 you know. With regard to being spruce, sir, that’s where it is, you
 see.’ And here he looked particularly gloomy.
 
 ‘Where what is?’ Mr Pinch demanded.
 
 ‘Where the aggravation of it is. Any man may be in good spirits and good
-temper when he’s well dressed. There an’t much credit in that. If I was
+temper when he’s [[Well|well]] dressed. There an’t much credit in that. If I was
 very ragged and very jolly, then I should begin to feel I had gained a
 point, Mr Pinch.’
 
 ‘So you were singing just now, to bear up, as it were, against being
-well dressed, eh, Mark?’ said Pinch.
+[[Well|well]] dressed, eh, Mark?’ said Pinch.
 
 ‘Your conversation’s always equal to print, sir,’ rejoined Mark, with a
 broad grin. ‘That was it.’
 
-‘Well!’ cried Pinch, ‘you are the strangest young man, Mark, I ever knew
+‘[[Well]]!’ cried Pinch, ‘you are the strangest young man, Mark, I ever knew
 in my life. I always thought so; but now I am quite certain of it. I am
 going to Salisbury, too. Will you get in? I shall be very glad of your
 company.’
 
 The young fellow made his acknowledgments and accepted the offer;
 stepping into the carriage directly, and seating himself on the very
-edge of the seat with his body half out of it, to express his being
+edge of the seat with his [[Body|body]] half out of it, to express his being
 there on sufferance, and by the politeness of Mr Pinch. As they went
 along, the conversation proceeded after this manner.
 
 ‘I more than half believed, just now, seeing you so very smart,’ said
 Pinch, ‘that you must be going to be married, Mark.’
 
-‘Well, sir, I’ve thought of that, too,’ he replied. ‘There might be some
+‘[[Well]], sir, I’ve thought of that, too,’ he replied. ‘There might be some
 credit in being jolly with a wife, ‘specially if the children had the
 measles and that, and was very fractious indeed. But I’m a’most afraid
 to try it. I don’t see my way clear.’
@@ -207,12 +207,12 @@ astonishment. ‘Why, Mark, you take my breath away!’
 ‘Yes, sir,’ he rejoined, looking straight before him and a long way off,
 as men do sometimes when they cogitate profoundly. ‘What’s the use of my
 stopping at the Dragon? It an’t at all the sort of place for ME. When
-I left London (I’m a Kentish man by birth, though), and took that
+I left [[London]] (I’m a Kentish man by birth, though), and took that
 situation here, I quite made up my mind that it was the dullest little
 out-of-the-way corner in England, and that there would be some credit in
 being jolly under such circumstances. But, Lord, there’s no dullness at
-the Dragon! Skittles, cricket, quoits, nine-pins, comic songs, choruses,
-company round the chimney corner every winter’s evening. Any man could
+the Dragon! Skittles, cricket, quoits, nine-pins, comic [[songs]], choruses,
+company round the chimney corner every [[Winter|winter]]’s evening. Any man could
 be jolly at the Dragon. There’s no credit in THAT.’
 
 ‘But if common report be true for once, Mark, as I think it is, being
@@ -222,7 +222,7 @@ cause of half this merriment, and set it going.’
 ‘There may be something in that, too, sir,’ answered Mark. ‘But that’s
 no consolation.’
 
-‘Well!’ said Mr Pinch, after a short silence, his usually subdued tone
+‘[[Well]]!’ said Mr Pinch, after a short [[Silence|silence]], his usually subdued tone
 being even now more subdued than ever. ‘I can hardly think enough of
 what you tell me. Why, what will become of Mrs Lupin, Mark?’
 
@@ -239,7 +239,7 @@ I know.’
 ‘I never,’ Mark replied, in some confusion, ‘said nothing as was in a
 direct way courting-like to her, nor she to me, but I don’t know what I
 mightn’t do one of these odd times, and what she mightn’t say in answer.
-Well, sir, THAT wouldn’t suit.’
+[[Well]], sir, THAT wouldn’t suit.’
 
 ‘Not to be landlord of the Dragon, Mark?’ cried Mr Pinch.
 
@@ -253,24 +253,24 @@ Dragon’s being jolly? Why, he couldn’t help it, if he tried.’
 
 ‘I haven’t broke it to her yet, sir, but I must. I’m looking out this
 morning for something new and suitable,’ he said, nodding towards the
-city.
+[[City|city]].
 
 ‘What kind of thing now?’ Mr Pinch demanded.
 
-‘I was thinking,’ Mark replied, ‘of something in the grave-digging
+‘I was thinking,’ Mark replied, ‘of something in the [[Grave|grave]]-digging
 way.’
 
 ‘Good gracious, Mark?’ cried Mr Pinch.
 
 ‘It’s a good damp, wormy sort of business, sir,’ said Mark, shaking his
 head argumentatively, ‘and there might be some credit in being jolly,
-with one’s mind in that pursuit, unless grave-diggers is usually given
+with one’s mind in that pursuit, unless [[Grave|grave]]-diggers is usually given
 that way; which would be a drawback. You don’t happen to know how that
 is in general, do you, sir?’
 
 ‘No,’ said Mr Pinch, ‘I don’t indeed. I never thought upon the subject.’
 
-‘In case of that not turning out as well as one could wish, you know,’
+‘In case of that not turning out as [[Well|well]] as one could wish, you know,’
 said Mark, musing again, ‘there’s other businesses. Undertaking now.
 That’s gloomy. There might be credit to be gained there. A broker’s man
 in a poor neighbourhood wouldn’t be bad perhaps. A jailor sees a deal of
@@ -283,10 +283,10 @@ Mr Pinch was so perfectly overwhelmed by these remarks that he could
 do nothing but occasionally exchange a word or two on some indifferent
 subject, and cast sidelong glances at the bright face of his odd friend
 (who seemed quite unconscious of his observation), until they reached a
-certain corner of the road, close upon the outskirts of the city, when
+certain corner of the [[Road|road]], close upon the outskirts of the [[City|city]], when
 Mark said he would jump down there, if he pleased.
 
-‘But bless my soul, Mark,’ said Mr Pinch, who in the progress of
+‘But bless my [[Soul|soul]], Mark,’ said Mr Pinch, who in the progress of
 his observation just then made the discovery that the bosom of his
 companion’s shirt was as much exposed as if it was Midsummer, and was
 ruffled by every breath of air, ‘why don’t you wear a waistcoat?’
@@ -295,30 +295,30 @@ ruffled by every breath of air, ‘why don’t you wear a waistcoat?’
 
 ‘Good of one?’ said Mr Pinch. ‘Why, to keep your chest warm.’
 
-‘Lord love you, sir!’ cried Mark, ‘you don’t know me. My chest don’t
+‘Lord [[Love|love]] you, sir!’ cried Mark, ‘you don’t know me. My chest don’t
 want no warming. Even if it did, what would no waistcoat bring it to?
-Inflammation of the lungs, perhaps? Well, there’d be some credit in
+Inflammation of the lungs, perhaps? [[Well]], there’d be some credit in
 being jolly, with a inflammation of the lungs.’
 
 As Mr Pinch returned no other answer than such as was conveyed in his
 breathing very hard, and opening his eyes very wide, and nodding his
 head very much, Mark thanked him for his ride, and without troubling
 him to stop, jumped lightly down. And away he fluttered, with his red
-neckerchief, and his open coat, down a cross-lane; turning back from
-time to time to nod to Mr Pinch, and looking one of the most careless,
+neckerchief, and his open coat, down a [[Cross|cross]]-lane; turning back from
+[[Time|time]] to [[Time|time]] to nod to Mr Pinch, and looking one of the most careless,
 good-humoured comical fellows in life. His late companion, with a
 thoughtful face pursued his way to Salisbury.
 
 Mr Pinch had a shrewd notion that Salisbury was a very desperate sort of
-place; an exceeding wild and dissipated city; and when he had put up the
-horse, and given the hostler to understand that he would look in again
+place; an exceeding wild and dissipated [[City|city]]; and when he had put up the
+[[Horse|horse]], and given the hostler to understand that he would look in again
 in the course of an hour or two to see him take his corn, he set forth
 on a stroll about the streets with a vague and not unpleasant idea that
 they teemed with all kinds of mystery and bedevilment. To one of
 his quiet habits this little delusion was greatly assisted by the
 circumstance of its being market-day, and the thoroughfares about the
 market-place being filled with carts, horses, donkeys, baskets, waggons,
-garden-stuff, meat, tripe, pies, poultry and huckster’s wares of every
+[[Garden|garden]]-stuff, meat, tripe, pies, poultry and huckster’s wares of every
 opposite description and possible variety of character. Then there were
 young farmers and old farmers with smock-frocks, brown great-coats, drab
 great-coats, red worsted comforters, leather-leggings, wonderful shaped
@@ -331,7 +331,7 @@ Also there were farmers’ wives in beaver bonnets and red cloaks, riding
 shaggy horses purged of all earthly passions, who went soberly into all
 manner of places without desiring to know why, and who, if required,
 would have stood stock still in a china shop, with a complete
-dinner-service at each hoof. Also a great many dogs, who were strongly
+dinner-service at each hoof. Also a great many [[dogs]], who were strongly
 interested in the state of the market and the bargains of their masters;
 and a great confusion of tongues, both brute and human.
 
@@ -340,14 +340,14 @@ was particularly struck by the itinerant cutlery, which he considered
 of the very keenest kind, insomuch that he purchased a pocket knife with
 seven blades in it, and not a cut (as he afterwards found out) among
 them. When he had exhausted the market-place, and watched the farmers
-safe into the market dinner, he went back to look after the horse.
+safe into the market dinner, he went back to look after the [[Horse|horse]].
 Having seen him eat unto his heart’s content he issued forth again,
 to wander round the town and regale himself with the shop windows;
 previously taking a long stare at the bank, and wondering in what
 direction underground the caverns might be where they kept the money;
 and turning to look back at one or two young men who passed him, whom
 he knew to be articled to solicitors in the town; and who had a sort of
-fearful interest in his eyes, as jolly dogs who knew a thing or two, and
+fearful interest in his eyes, as jolly [[dogs]] who knew a thing or two, and
 kept it up tremendously.
 
 But the shops. First of all there were the jewellers’ shops, with all
@@ -365,34 +365,34 @@ rich enough to buy it.
 But what were even gold and silver, precious stones and clockwork, to
 the bookshops, whence a pleasant smell of paper freshly pressed came
 issuing forth, awakening instant recollections of some new grammar had
-at school, long time ago, with ‘Master Pinch, Grove House Academy,’
-inscribed in faultless writing on the fly-leaf! That whiff of russia
+at school, long [[Time|time]] ago, with ‘Master Pinch, Grove [[house|House]] Academy,’
+inscribed in faultless writing on the fly-leaf! That whiff of [[Russia|russia]]
 leather, too, and all those rows on rows of volumes neatly ranged
-within--what happiness did they suggest! And in the window were
-the spick-and-span new works from London, with the title-pages, and
+within--what happiness did they suggest! And in the [[Window|window]] were
+the spick-and-span new works from [[London]], with the title-pages, and
 sometimes even the first page of the first chapter, laid wide open;
 tempting unwary men to begin to read the book, and then, in the
 impossibility of turning over, to rush blindly in, and buy it! Here too
 were the dainty frontispiece and trim vignette, pointing like handposts
 on the outskirts of great cities, to the rich stock of incident beyond;
-and store of books, with many a grave portrait and time-honoured name,
-whose matter he knew well, and would have given mines to have, in any
+and store of books, with many a [[Grave|grave]] portrait and [[Time|time]]-honoured name,
+whose matter he knew [[Well|well]], and would have given mines to have, in any
 form, upon the narrow shell beside his bed at Mr Pecksniff’s. What a
 heart-breaking shop it was!
 
 There was another; not quite so bad at first, but still a trying shop;
 where children’s books were sold, and where poor Robinson Crusoe
-stood alone in his might, with dog and hatchet, goat-skin cap and
+stood [[Alone|alone]] in his might, with dog and hatchet, goat-skin cap and
 fowling-pieces; calmly surveying Philip Quarn and the host of imitators
 round him, and calling Mr Pinch to witness that he, of all the crowd,
-impressed one solitary footprint on the shore of boyish memory, whereof
+impressed one solitary footprint on the shore of boyish [[Memory|memory]], whereof
 the tread of generations should not stir the lightest grain of sand.
 And there too were the Persian tales, with flying chests and students of
 enchanted books shut up for years in caverns; and there too was Abudah,
 the merchant, with the terrible little old woman hobbling out of the box
 in his bedroom; and there the mighty talisman, the rare Arabian Nights,
-with Cassim Baba, divided by four, like the ghost of a dreadful sum,
-hanging up, all gory, in the robbers’ cave. Which matchless wonders,
+with Cassim Baba, divided by four, like the [[Ghost|ghost]] of a dreadful sum,
+hanging up, all gory, in the robbers’ [[Cave|cave]]. Which matchless wonders,
 coming fast on Mr Pinch’s mind, did so rub up and chafe that wonderful
 lamp within him, that when he turned his face towards the busy street,
 a crowd of phantoms waited on his pleasure, and he lived again, with new
@@ -408,14 +408,14 @@ some strange transformation always looked amazing there, and never
 appeared at all like the same thing anywhere else. But he stopped to
 read the playbill at the theatre and surveyed the doorway with a kind
 of awe, which was not diminished when a sallow gentleman with long dark
-hair came out, and told a boy to run home to his lodgings and bring down
+hair came out, and told a boy to run [[Home|home]] to his lodgings and bring down
 his broadsword. Mr Pinch stood rooted to the spot on hearing this, and
-might have stood there until dark, but that the old cathedral bell began
+might have stood there until dark, but that the old [[Cathedral|cathedral]] bell began
 to ring for vesper service, on which he tore himself away.
 
 Now, the organist’s assistant was a friend of Mr Pinch’s, which was a
-good thing, for he too was a very quiet gentle soul, and had been, like
-Tom, a kind of old-fashioned boy at school, though well liked by the
+good thing, for he too was a very quiet gentle [[Soul|soul]], and had been, like
+Tom, a kind of old-fashioned boy at school, though [[Well|well]] liked by the
 noisy fellow too. As good luck would have it (Tom always said he had
 great good luck) the assistant chanced that very afternoon to be on duty
 by himself, with no one in the dusty organ loft but Tom; so while he
@@ -426,48 +426,48 @@ was mingled with a murky red. As the grand tones resounded through
 the church, they seemed, to Tom, to find an echo in the depth of every
 ancient tomb, no less than in the deep mystery of his own heart. Great
 thoughts and hopes came crowding on his mind as the rich music rolled
-upon the air and yet among them--something more grave and solemn in
+upon the air and yet among them--something more [[Grave|grave]] and solemn in
 their purpose, but the same--were all the images of that day, down to
-its very lightest recollection of childhood. The feeling that the sounds
+its very lightest recollection of [[Childhood|childhood]]. The feeling that the sounds
 awakened, in the moment of their existence, seemed to include his whole
 life and being; and as the surrounding realities of stone and wood
 and glass grew dimmer in the darkness, these visions grew so much the
 brighter that Tom might have forgotten the new pupil and the expectant
 master, and have sat there pouring out his grateful heart till midnight,
-but for a very earthy old verger insisting on locking up the cathedral
+but for a very earthy old verger insisting on locking up the [[Cathedral|cathedral]]
 forthwith. So he took leave of his friend, with many thanks, groped his
-way out, as well as he could, into the now lamp-lighted streets, and
+way out, as [[Well|well]] as he could, into the now lamp-lighted streets, and
 hurried off to get his dinner.
 
-All the farmers being by this time jogging homewards, there was nobody
-in the sanded parlour of the tavern where he had left the horse; so he
-had his little table drawn out close before the fire, and fell to
-work upon a well-cooked steak and smoking hot potatoes, with a strong
+All the farmers being by this [[Time|time]] jogging homewards, there was nobody
+in the sanded parlour of the tavern where he had left the [[Horse|horse]]; so he
+had his little table drawn out close before the [[Fire|fire]], and fell to
+work upon a [[Well|well]]-cooked steak and smoking hot potatoes, with a strong
 appreciation of their excellence, and a very keen sense of enjoyment.
 Beside him, too, there stood a jug of most stupendous Wiltshire beer;
 and the effect of the whole was so transcendent, that he was obliged
 every now and then to lay down his knife and fork, rub his hands, and
-think about it. By the time the cheese and celery came, Mr Pinch had
+think about it. By the [[Time|time]] the [[cheese]] and celery came, Mr Pinch had
 taken a book out of his pocket, and could afford to trifle with the
 viands; now eating a little, now drinking a little, now reading a
-little, and now stopping to wonder what sort of a young man the new
+little, and now stopping to [[Wonder|wonder]] what sort of a young man the new
 pupil would turn out to be. He had passed from this latter theme and was
 deep in his book again, when the door opened, and another guest came in,
 bringing with him such a quantity of cold air, that he positively seemed
-at first to put the fire out.
+at first to put the [[Fire|fire]] out.
 
-‘Very hard frost to-night, sir,’ said the newcomer, courteously
+‘Very hard [[Frost|frost]] to-[[Night|night]], sir,’ said the newcomer, courteously
 acknowledging Mr Pinch’s withdrawal of the little table, that he might
 have place: ‘Don’t disturb yourself, I beg.’
 
 Though he said this with a vast amount of consideration for Mr Pinch’s
 comfort, he dragged one of the great leather-bottomed chairs to the
 very centre of the hearth, notwithstanding; and sat down in front of the
-fire, with a foot on each hob.
+[[Fire|fire]], with a foot on each hob.
 
 ‘My feet are quite numbed. Ah! Bitter cold to be sure.’
 
-‘You have been in the air some considerable time, I dare say?’ said Mr
+‘You have been in the air some considerable [[Time|time]], I dare say?’ said Mr
 Pinch.
 
 ‘All day. Outside a coach, too.’
@@ -476,7 +476,7 @@ Pinch.
 fellow! How thoroughly chilled he must be!’
 
 The stranger became thoughtful likewise, and sat for five or ten minutes
-looking at the fire in silence. At length he rose and divested himself
+looking at the [[Fire|fire]] in [[Silence|silence]]. At length he [[Rose|rose]] and divested himself
 of his shawl and great-coat, which (far different from Mr Pinch’s) was
 a very warm and thick one; but he was not a whit more conversational out
 of his great-coat than in it, for he sat down again in the same place
@@ -486,16 +486,16 @@ and a quickness of look and manner which made Tom sensible of a great
 contrast in his own bearing, and caused him to feel even more shy than
 usual.
 
-There was a clock in the room, which the stranger often turned to
+There was a [[Clock|clock]] in the room, which the stranger often turned to
 look at. Tom made frequent reference to it also; partly from a nervous
 sympathy with its taciturn companion; and partly because the new pupil
 was to inquire for him at half after six, and the hands were getting
 on towards that hour. Whenever the stranger caught him looking at this
-clock, a kind of confusion came upon Tom as if he had been found out in
+[[Clock|clock]], a kind of confusion came upon Tom as if he had been found out in
 something; and it was a perception of his uneasiness which caused the
 younger man to say, perhaps, with a smile:
 
-‘We both appear to be rather particular about the time. The fact is, I
+‘We both appear to be rather particular about the [[Time|time]]. The fact is, I
 have an engagement to meet a gentleman here.’
 
 ‘So have I,’ said Mr Pinch.
@@ -506,15 +506,15 @@ have an engagement to meet a gentleman here.’
 other looked at him with some surprise.
 
 ‘The young gentleman, I expect,’ remarked Tom, timidly, ‘was to inquire
-at that time for a person by the name of Pinch.’
+at that [[Time|time]] for a person by the name of Pinch.’
 
 ‘Dear me!’ cried the other, jumping up. ‘And I have been keeping the
-fire from you all this while! I had no idea you were Mr Pinch. I am the
+[[Fire|fire]] from you all this while! I had no idea you were Mr Pinch. I am the
 Mr Martin for whom you were to inquire. Pray excuse me. How do you do?
 Oh, do draw nearer, pray!’
 
 ‘Thank you,’ said Tom, ‘thank you. I am not at all cold, and you are;
-and we have a cold ride before us. Well, if you wish it, I will. I--I am
+and we have a cold ride before us. [[Well]], if you wish it, I will. I--I am
 very glad,’ said Tom, smiling with an embarrassed frankness peculiarly
 his, and which was as plainly a confession of his own imperfections, and
 an appeal to the kindness of the person he addressed, as if he had drawn
@@ -529,23 +529,23 @@ Mr Pinch’s turning out like you.’
 ‘No, really!’ said Tom, with great pleasure. ‘Are you serious?’
 
 ‘Upon my word I am,’ replied his new acquaintance. ‘You and I will get
-on excellently well, I know; which it’s no small relief to me to feel,
-for to tell you the truth, I am not at all the sort of fellow who could
+on excellently [[Well|well]], I know; which it’s no small relief to me to feel,
+for to tell you the [[Truth|truth]], I am not at all the sort of fellow who could
 get on with everybody, and that’s the point on which I had the greatest
 doubts. But they’re quite relieved now.--Do me the favour to ring the
 bell, will you?’
 
-Mr Pinch rose, and complied with great alacrity--the handle hung just
+Mr Pinch [[Rose|rose]], and complied with great alacrity--the handle hung just
 over Martin’s head, as he warmed himself--and listened with a smiling
 face to what his friend went on to say. It was:
 
 ‘If you like punch, you’ll allow me to order a glass apiece, as hot
-as it can be made, that we may usher in our friendship in a becoming
+as it can be made, that we may usher in our [[Friendship|friendship]] in a becoming
 manner. To let you into a secret, Mr Pinch, I never was so much in want
 of something warm and cheering in my life; but I didn’t like to run the
 chance of being found drinking it, without knowing what kind of person
 you were; for first impressions, you know, often go a long way, and last
-a long time.’
+a long [[Time|time]].’
 
 Mr Pinch assented, and the punch was ordered. In due course it came; hot
 and strong. After drinking to each other in the steaming mixture, they
@@ -561,7 +561,7 @@ if you can make that out. I can’t.’
 ‘Then Martin is your Christian name?’ said Mr Pinch, thoughtfully. ‘Oh!’
 
 ‘Of course it is,’ returned his friend: ‘I wish it was my surname for
-my own is not a very pretty one, and it takes a long time to sign.
+my own is not a very pretty one, and it takes a long [[Time|time]] to sign.
 Chuzzlewit is my name.’
 
 ‘Dear me!’ cried Mr Pinch, with an involuntary start.
@@ -569,7 +569,7 @@ Chuzzlewit is my name.’
 ‘You’re not surprised at my having two names, I suppose?’ returned the
 other, setting his glass to his lips. ‘Most people have.’
 
-‘Oh, no,’ said Mr Pinch, ‘not at all. Oh dear no! Well!’ And then
+‘Oh, no,’ said Mr Pinch, ‘not at all. Oh dear no! [[Well]]!’ And then
 remembering that Mr Pecksniff had privately cautioned him to say nothing
 in reference to the old gentleman of the same name who had lodged at
 the Dragon, but to reserve all mention of that person for him, he had
@@ -578,7 +578,7 @@ to his mouth. They looked at each other out of their respective tumblers
 for a few seconds, and then put them down empty.
 
 ‘I told them in the stable to be ready for us ten minutes ago,’ said Mr
-Pinch, glancing at the clock again. ‘Shall we go?’
+Pinch, glancing at the [[Clock|clock]] again. ‘Shall we go?’
 
 ‘If you please,’ returned the other.
 
@@ -586,7 +586,7 @@ Pinch, glancing at the clock again. ‘Shall we go?’
 consciousness of the splendour of his offer. ‘You shall, if you wish.’
 
 ‘Why, that depends, Mr Pinch,’ said Martin, laughing, ‘upon what sort
-of a horse you have. Because if he’s a bad one, I would rather keep my
+of a [[Horse|horse]] you have. Because if he’s a bad one, I would rather keep my
 hands warm by holding them comfortably in my greatcoat pockets.’
 
 He appeared to think this such a good joke, that Mr Pinch was quite sure
@@ -608,40 +608,40 @@ somehow, and Mr Chuzzlewit helped him. It was all on Mr Pinch’s side,
 and Mr Chuzzlewit said he was very much afraid it would encumber him; to
 which Tom said, ‘Not at all;’ though it forced him into such an awkward
 position, that he had much ado to see anything but his own knees. But it
-is an ill wind that blows nobody any good; and the wisdom of the saying
+is an ill [[Wind|wind]] that blows nobody any good; and the wisdom of the saying
 was verified in this instance; for the cold air came from Mr Pinch’s
 side of the carriage, and by interposing a perfect wall of box and
 man between it and the new pupil, he shielded that young gentleman
 effectually; which was a great comfort.
 
-It was a clear evening, with a bright moon. The whole landscape was
-silvered by its light and by the hoar-frost; and everything looked
+It was a clear evening, with a bright [[Moon|moon]]. The whole landscape was
+silvered by its light and by the hoar-[[Frost|frost]]; and everything looked
 exquisitely beautiful. At first, the great serenity and peace through
-which they travelled, disposed them both to silence; but in a very short
-time the punch within them and the healthful air without, made them
-loquacious, and they talked incessantly. When they were halfway home,
-and stopped to give the horse some water, Martin (who was very generous
+which they travelled, disposed them both to [[Silence|silence]]; but in a very short
+[[Time|time]] the punch within them and the healthful air without, made them
+loquacious, and they talked incessantly. When they were halfway [[Home|home]],
+and stopped to give the [[Horse|horse]] some [[Water|water]], Martin (who was very generous
 with his money) ordered another glass of punch, which they drank between
 them, and which had not the effect of making them less conversational
 than before. Their principal topic of discourse was naturally Mr
 Pecksniff and his family; of whom, and of the great obligations they had
-heaped upon him, Tom Pinch, with the tears standing in his eyes, drew
+heaped upon him, [[Tom Pinch]], with the [[Tears|tears]] standing in his eyes, drew
 such a picture as would have inclined any one of common feeling
 almost to revere them; and of which Mr Pecksniff had not the slightest
 foresight or preconceived idea, or he certainly (being very humble)
-would not have sent Tom Pinch to bring the pupil home.
+would not have sent [[Tom Pinch]] to bring the pupil [[Home|home]].
 
 In this way they went on, and on, and on--in the language of the
 story-books--until at last the village lights appeared before them, and
 the church spire cast a long reflection on the graveyard grass; as if
 it were a dial (alas, the truest in the world!) marking, whatever light
 shone out of Heaven, the flight of days and weeks and years, by some new
-shadow on that solemn ground.
+[[Shadow|shadow]] on that solemn ground.
 
 ‘A pretty church!’ said Martin, observing that his companion slackened
-the slack pace of the horse, as they approached.
+the slack pace of the [[Horse|horse]], as they approached.
 
-‘Is it not?’ cried Tom, with great pride. ‘There’s the sweetest little
+‘Is it not?’ cried Tom, with great [[Pride|pride]]. ‘There’s the sweetest little
 organ there you ever heard. I play it for them.’
 
 ‘Indeed?’ said Martin. ‘It is hardly worth the trouble, I should think.
@@ -649,9 +649,9 @@ What do you get for that, now?’
 
 ‘Nothing,’ answered Tom.
 
-‘Well,’ returned his friend, ‘you ARE a very strange fellow!’
+‘[[Well]],’ returned his friend, ‘you ARE a very strange fellow!’
 
-To which remark there succeeded a brief silence.
+To which remark there succeeded a brief [[Silence|silence]].
 
 ‘When I say nothing,’ observed Mr Pinch, cheerfully, ‘I am wrong, and
 don’t say what I mean, because I get a great deal of pleasure from it,
@@ -665,10 +665,10 @@ dare say?’
 and most beautiful faces you can possibly picture to yourself.’
 
 ‘And yet I am able to picture a beautiful one,’ said his friend,
-thoughtfully, ‘or should be, if I have any memory.’
+thoughtfully, ‘or should be, if I have any [[Memory|memory]].’
 
 ‘She came’ said Tom, laying his hand upon the other’s arm, ‘for the
-first time very early in the morning, when it was hardly light; and when
+first [[Time|time]] very early in the morning, when it was hardly light; and when
 I saw her, over my shoulder, standing just within the porch, I turned
 quite cold, almost believing her to be a spirit. A moment’s reflection
 got the better of that, of course, and fortunately it came to my relief
@@ -689,7 +689,7 @@ her; and might return.’
 ‘And did she?’
 
 ‘Certainly she did. Next morning, and next evening too; but always when
-there were no people about, and always alone. I rose earlier and sat
+there were no people about, and always [[Alone|alone]]. I [[Rose|rose]] earlier and sat
 there later, that when she came, she might find the church door open,
 and the organ playing, and might not be disappointed. She strolled that
 way for some days, and always stayed to listen. But she is gone now,
@@ -702,22 +702,22 @@ improbable that I shall ever look upon her face again.’
 
 ‘And you never followed her when she went away?’
 
-‘Why should I distress her by doing that?’ said Tom Pinch. ‘Is it likely
+‘Why should I distress her by doing that?’ said [[Tom Pinch]]. ‘Is it likely
 that she wanted my company? She came to hear the organ, not to see me;
 and would you have had me scare her from a place she seemed to grow
 quite fond of? Now, Heaven bless her!’ cried Tom, ‘to have given her but
 a minute’s pleasure every day, I would have gone on playing the organ
 at those times until I was an old man; quite contented if she sometimes
 thought of a poor fellow like me, as a part of the music; and more than
-recompensed if she ever mixed me up with anything she liked as well as
+recompensed if she ever mixed me up with anything she liked as [[Well|well]] as
 she liked that!’
 
 The new pupil was clearly very much amazed by Mr Pinch’s weakness, and
 would probably have told him so, and given him some good advice, but
 for their opportune arrival at Mr Pecksniff’s door; the front door this
-time, on account of the occasion being one of ceremony and rejoicing.
-The same man was in waiting for the horse who had been adjured by Mr
-Pinch in the morning not to yield to his rabid desire to start;
+[[Time|time]], on account of the occasion being one of ceremony and rejoicing.
+The same man was in waiting for the [[Horse|horse]] who had been adjured by Mr
+Pinch in the morning not to yield to his rabid [[Desire|desire]] to start;
 and after delivering the animal into his charge, and beseeching Mr
 Chuzzlewit in a whisper never to reveal a syllable of what he had just
 told him in the fullness of his heart, Tom led the pupil in, for instant
@@ -727,12 +727,12 @@ Mr Pecksniff had clearly not expected them for hours to come; for he was
 surrounded by open books, and was glancing from volume to volume, with a
 black lead-pencil in his mouth, and a pair of compasses in his hand,
 at a vast number of mathematical diagrams, of such extraordinary shapes
-that they looked like designs for fireworks. Neither had Miss Charity
+that they looked like designs for fireworks. Neither had Miss [[Charity]]
 expected them, for she was busied, with a capacious wicker basket before
 her, in making impracticable nightcaps for the poor. Neither had Miss
-Mercy expected them, for she was sitting upon her stool, tying on
+[[Mercy]] expected them, for she was sitting upon her stool, tying on
 the--oh good gracious!--the petticoat of a large doll that she was
-dressing for a neighbour’s child--really, quite a grown-up doll, which
+dressing for a neighbour’s [[Child|child]]--really, quite a grown-up doll, which
 made it more confusing--and had its little bonnet dangling by the ribbon
 from one of her fair curls, to which she had fastened it lest it should
 be lost or sat upon. It would be difficult, if not impossible, to
@@ -741,7 +741,7 @@ were, on this occasion.
 
 Bless my life!’ said Mr Pecksniff, looking up, and gradually exchanging
 his abstracted face for one of joyful recognition. ‘Here already!
-Martin, my dear boy, I am delighted to welcome you to my poor house!’
+Martin, my dear boy, I am delighted to welcome you to my poor [[house]]!’
 
 With this kind greeting, Mr Pecksniff fairly took him to his arms, and
 patted him several times upon the back with his right hand the while,
@@ -756,10 +756,10 @@ to give you the reception of a visitor, Martin, in our little room of
 state,’ said Mr Pecksniff, smiling, ‘but I like this better, I like this
 better!’
 
-Oh blessed star of Innocence, wherever you may be, how did you glitter
-in your home of ether, when the two Miss Pecksniffs put forth each her
+Oh blessed star of [[innocence|Innocence]], wherever you may be, how did you glitter
+in your [[Home|home]] of ether, when the two Miss Pecksniffs put forth each her
 lily hand, and gave the same, with mantling cheeks, to Martin! How did
-you twinkle, as if fluttering with sympathy, when Mercy, reminded of
+you twinkle, as if fluttering with sympathy, when [[Mercy]], reminded of
 the bonnet in her hair, hid her fair face and turned her head aside; the
 while her gentle sister plucked it out, and smote her with a sister’s
 soft reproof, upon her buxom shoulder!
@@ -768,9 +768,9 @@ soft reproof, upon her buxom shoulder!
 these passages, and taking Mr Pinch in a friendly manner by the elbow,
 ‘how has our friend used you, Martin?’
 
-‘Very well indeed, sir. We are on the best terms, I assure you.’
+‘Very [[Well|well]] indeed, sir. We are on the best terms, I assure you.’
 
-‘Old Tom Pinch!’ said Mr Pecksniff, looking on him with affectionate
+‘Old [[Tom Pinch]]!’ said Mr Pecksniff, looking on him with affectionate
 sadness. ‘Ah! It seems but yesterday that Thomas was a boy fresh from
 a scholastic course. Yet years have passed, I think, since Thomas Pinch
 and I first walked the world together!’
@@ -779,25 +779,25 @@ Mr Pinch could say nothing. He was too much moved. But he pressed his
 master’s hand, and tried to thank him.
 
 ‘And Thomas Pinch and I,’ said Mr Pecksniff, in a deeper voice, ‘will
-walk it yet, in mutual faithfulness and friendship! And if it comes to
+walk it yet, in mutual faithfulness and [[Friendship|friendship]]! And if it comes to
 pass that either of us be run over in any of those busy crossings which
 divide the streets of life, the other will convey him to the hospital in
-Hope, and sit beside his bed in Bounty!’
+[[Hope]], and sit beside his bed in Bounty!’
 
-‘Well, well, well!’ he added in a happier tone, as he shook Mr Pinch’s
+‘[[Well]], [[Well|well]], [[Well|well]]!’ he added in a happier tone, as he shook Mr Pinch’s
 elbow hard. ‘No more of this! Martin, my dear friend, that you may be at
-home within these walls, let me show you how we live, and where. Come!’
+[[Home|home]] within these walls, let me show you how we live, and where. Come!’
 
 With that he took up a lighted candle, and, attended by his young
 relative, prepared to leave the room. At the door, he stopped.
 
-‘You’ll bear us company, Tom Pinch?’
+‘You’ll bear us company, [[Tom Pinch]]?’
 
-Aye, cheerfully, though it had been to death, would Tom have followed
+Aye, cheerfully, though it had been to [[Death|death]], would Tom have followed
 him; glad to lay down his life for such a man!
 
 ‘This,’ said Mr Pecksniff, opening the door of an opposite parlour, ‘is
-the little room of state, I mentioned to you. My girls have pride in it,
+the little room of state, I mentioned to you. My girls have [[Pride|pride]] in it,
 Martin! This,’ opening another door, ‘is the little chamber in which my
 works (slight things at best) have been concocted. Portrait of myself
 by Spiller. Bust by Spoker. The latter is considered a good likeness.
@@ -814,17 +814,17 @@ the wall, ‘connected with our pursuit. I have scribbled myself, but
 have not yet published. Be careful how you come upstairs. This,’ opening
 another door, ‘is my chamber. I read here when the family suppose I have
 retired to rest. Sometimes I injure my health rather more than I can
-quite justify to myself, by doing so; but art is long and time is short.
+quite justify to myself, by doing so; but art is long and [[Time|time]] is short.
 Every facility you see for jotting down crude notions, even here.’
 
 These latter words were explained by his pointing to a small round table
 on which were a lamp, divers sheets of paper, a piece of India rubber,
 and a case of instruments; all put ready, in case an architectural idea
-should come into Mr Pecksniff’s head in the night; in which event he
+should come into Mr Pecksniff’s head in the [[Night|night]]; in which event he
 would instantly leap out of bed, and fix it for ever.
 
 Mr Pecksniff opened another door on the same floor, and shut it again,
-all at once, as if it were a Blue Chamber. But before he had well done
+all at once, as if it were a Blue Chamber. But before he had [[Well|well]] done
 so, he looked smilingly round, and said, ‘Why not?’
 
 Martin couldn’t say why not, because he didn’t know anything at all
@@ -832,10 +832,10 @@ about it. So Mr Pecksniff answered himself, by throwing open the door,
 and saying:
 
 ‘My daughters’ room. A poor first-floor to us, but a bower to them. Very
-neat. Very airy. Plants you observe; hyacinths; books again; birds.’
-These birds, by the bye, comprised, in all, one staggering old sparrow
+neat. Very airy. Plants you observe; hyacinths; books again; [[Birds|birds]].’
+These [[Birds|birds]], by the bye, comprised, in all, one staggering old sparrow
 without a tail, which had been borrowed expressly from the kitchen.
-‘Such trifles as girls love are here. Nothing more. Those who seek
+‘Such trifles as girls [[Love|love]] are here. Nothing more. Those who seek
 heartless splendour, would seek here in vain.’
 
 With that he led them to the floor above.
@@ -849,16 +849,16 @@ architects have been bred in this room; a few, I think, Mr Pinch?’
 Tom fully assented; and, what is more, fully believed it.
 
 ‘You see,’ said Mr Pecksniff, passing the candle rapidly from roll to
-roll of paper, ‘some traces of our doings here. Salisbury Cathedral
+roll of paper, ‘some traces of our doings here. Salisbury [[Cathedral]]
 from the north. From the south. From the east. From the west. From the
 south-east. From the nor’west. A bridge. An almshouse. A jail. A
-church. A powder-magazine. A wine-cellar. A portico. A summer-house. An
-ice-house. Plans, elevations, sections, every kind of thing. And this,’
-he added, having by this time reached another large chamber on the same
+church. A powder-magazine. A wine-cellar. A portico. A [[Summer|summer]]-[[house]]. An
+ice-[[house]]. Plans, elevations, sections, every kind of thing. And this,’
+he added, having by this [[Time|time]] reached another large chamber on the same
 story, with four little beds in it, ‘this is your room, of which Mr
 Pinch here is the quiet sharer. A southern aspect; a charming prospect;
 Mr Pinch’s little library, you perceive; everything agreeable and
-appropriate. If there is any additional comfort you would desire to have
+appropriate. If there is any additional comfort you would [[Desire|desire]] to have
 here at anytime, pray mention it. Even to strangers, far less to you, my
 dear Martin, there is no restriction on that point.’
 
@@ -868,7 +868,7 @@ anything in this way that suggested itself to his fancy. Some young
 gentlemen had gone on mentioning the very same thing for five years
 without ever being stopped.
 
-‘The domestic assistants,’ said Mr Pecksniff, ‘sleep above; and that
+‘The domestic assistants,’ said Mr Pecksniff, ‘[[Sleep|sleep]] above; and that
 is all.’ After which, and listening complacently as he went, to the
 encomiums passed by his young friend on the arrangements generally, he
 led the way to the parlour again.
@@ -876,30 +876,30 @@ led the way to the parlour again.
 Here a great change had taken place; for festive preparations on
 a rather extensive scale were already completed, and the two Miss
 Pecksniffs were awaiting their return with hospitable looks. There were
-two bottles of currant wine, white and red; a dish of sandwiches (very
+two bottles of currant wine, [[White and Red|white and red]]; a dish of sandwiches (very
 long and very slim); another of apples; another of captain’s biscuits
 (which are always a moist and jovial sort of viand); a plate of oranges
 cut up small and gritty; with powdered sugar, and a highly geological
-home-made cake. The magnitude of these preparations quite took away Tom
+[[Home|home]]-made cake. The magnitude of these preparations quite took away Tom
 Pinch’s breath; for though the new pupils were usually let down softly,
 as one may say, particularly in the wine department, which had so many
 stages of declension, that sometimes a young gentleman was a whole
 fortnight in getting to the pump; still this was a banquet; a sort of
-Lord Mayor’s feast in private life; a something to think of, and hold on
+[[Lord Mayor]]’s feast in private life; a something to think of, and hold on
 by, afterwards.
 
 To this entertainment, which apart from its own intrinsic merits, had
 the additional choice quality, that it was in strict keeping with the
-night, being both light and cool, Mr Pecksniff besought the company to
+[[Night|night]], being both light and cool, Mr Pecksniff besought the company to
 do full justice.
 
 ‘Martin,’ he said, ‘will seat himself between you two, my dears, and
 Mr Pinch will come by me. Let us drink to our new inmate, and may we be
-happy together! Martin, my dear friend, my love to you! Mr Pinch, if you
+happy together! Martin, my dear friend, my [[Love|love]] to you! Mr Pinch, if you
 spare the bottle we shall quarrel.’
 
 And trying (in his regard for the feelings of the rest) to look as if
-the wine were not acid and didn’t make him wink, Mr Pecksniff did honour
+the wine were not acid and didn’t make him wink, Mr Pecksniff did [[Honour|honour]]
 to his own toast.
 
 ‘This,’ he said, in allusion to the party, not the wine, ‘is a mingling
@@ -907,15 +907,15 @@ that repays one for much disappointment and vexation. Let us be merry.’
 Here he took a captain’s biscuit. ‘It is a poor heart that never
 rejoices; and our hearts are not poor. No!’
 
-With such stimulants to merriment did he beguile the time, and do the
+With such stimulants to merriment did he beguile the [[Time|time]], and do the
 honours of the table; while Mr Pinch, perhaps to assure himself that
 what he saw and heard was holiday reality, and not a charming dream, ate
 of everything, and in particular disposed of the slim sandwiches to a
 surprising extent. Nor was he stinted in his draughts of wine; but on
 the contrary, remembering Mr Pecksniff’s speech, attacked the bottle
-with such vigour, that every time he filled his glass anew, Miss
-Charity, despite her amiable resolves, could not repress a fixed and
-stony glare, as if her eyes had rested on a ghost. Mr Pecksniff also
+with such vigour, that every [[Time|time]] he filled his glass anew, Miss
+[[Charity]], despite her amiable resolves, could not repress a fixed and
+stony glare, as if her eyes had rested on a [[Ghost|ghost]]. Mr Pecksniff also
 became thoughtful at those moments, not to say dejected; but as he
 knew the vintage, it is very likely he may have been speculating on the
 probable condition of Mr Pinch upon the morrow, and discussing within
@@ -923,7 +923,7 @@ himself the best remedies for colic.
 
 Martin and the young ladies were excellent friends already, and compared
 recollections of their childish days, to their mutual liveliness and
-entertainment. Miss Mercy laughed immensely at everything that was said;
+entertainment. Miss [[Mercy]] laughed immensely at everything that was said;
 and sometimes, after glancing at the happy face of Mr Pinch, was
 seized with such fits of mirth as brought her to the very confines of
 hysterics. But for these bursts of gaiety, her sister, in her better
@@ -933,12 +933,12 @@ creature; though it generally ended in her laughing too--but much more
 moderately--and saying that indeed it was a little too ridiculous and
 intolerable to be serious about.
 
-At length it became high time to remember the first clause of that great
+At length it became high [[Time|time]] to remember the first clause of that great
 discovery made by the ancient philosopher, for securing health, riches,
 and wisdom; the infallibility of which has been for generations verified
 by the enormous fortunes constantly amassed by chimney-sweepers and
 other persons who get up early and go to bed betimes. The young ladies
-accordingly rose, and having taken leave of Mr Chuzzlewit with much
+accordingly [[Rose|rose]], and having taken leave of Mr Chuzzlewit with much
 sweetness, and of their father with much duty and of Mr Pinch with
 much condescension, retired to their bower. Mr Pecksniff insisted on
 accompanying his young friend upstairs for personal superintendence of
@@ -953,36 +953,36 @@ Mr Pinch, only too happy to be useful, went off directly.
 
 ‘You will excuse Thomas Pinch’s want of polish, Martin,’ said Mr
 Pecksniff, with a smile of patronage and pity, as soon as he had left
-the room. ‘He means well.’
+the room. ‘He means [[Well|well]].’
 
 ‘He is a very good fellow, sir.’
 
-‘Oh, yes,’ said Mr Pecksniff. ‘Yes. Thomas Pinch means well. He is very
+‘Oh, yes,’ said Mr Pecksniff. ‘Yes. Thomas Pinch means [[Well|well]]. He is very
 grateful. I have never regretted having befriended Thomas Pinch.’
 
 ‘I should think you never would, sir.’
 
-‘No,’ said Mr Pecksniff. ‘No. I hope not. Poor fellow, he is always
+‘No,’ said Mr Pecksniff. ‘No. I [[Hope|hope]] not. Poor fellow, he is always
 disposed to do his best; but he is not gifted. You will make him useful
 to you, Martin, if you please. If Thomas has a fault, it is that he is
 sometimes a little apt to forget his position. But that is soon checked.
-Worthy soul! You will find him easy to manage. Good night!’
+Worthy [[Soul|soul]]! You will find him easy to manage. Good [[Night|night]]!’
 
-‘Good night, sir.’
+‘Good [[Night|night]], sir.’
 
-By this time Mr Pinch had returned with the snuffers.
+By this [[Time|time]] Mr Pinch had returned with the snuffers.
 
-‘And good night to YOU, Mr Pinch,’ said Pecksniff. ‘And sound sleep to
+‘And good [[Night|night]] to YOU, Mr Pinch,’ said Pecksniff. ‘And sound [[Sleep|sleep]] to
 you both. Bless you! Bless you!’
 
 Invoking this benediction on the heads of his young friends with great
 fervour, he withdrew to his own room; while they, being tired, soon fell
 asleep. If Martin dreamed at all, some clue to the matter of his visions
-may possibly be gathered from the after-pages of this history. Those
+may possibly be gathered from the after-pages of this [[history]]. Those
 of Thomas Pinch were all of holidays, church organs, and seraphic
-Pecksniffs. It was some time before Mr Pecksniff dreamed at all, or even
-sought his pillow, as he sat for full two hours before the fire in his
+Pecksniffs. It was some [[Time|time]] before Mr Pecksniff dreamed at all, or even
+sought his pillow, as he sat for full two hours before the [[Fire|fire]] in his
 own chamber, looking at the coals and thinking deeply. But he, too,
-slept and dreamed at last. Thus in the quiet hours of the night, one
-house shuts in as many incoherent and incongruous fancies as a madman’s
+slept and dreamed at last. Thus in the quiet hours of the [[Night|night]], one
+[[house]] shuts in as many incoherent and incongruous fancies as a madman’s
 head.

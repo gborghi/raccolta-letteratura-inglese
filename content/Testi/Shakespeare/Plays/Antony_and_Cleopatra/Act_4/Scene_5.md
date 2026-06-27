@@ -1,5 +1,5 @@
 ---
-title: "Antony and Cleopatra — Act IV, Scene 5"
+title: "Antony and [[Cleopatra]] — Act IV, Scene 5"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/ANTONY-AND-CLEOPATRA-(Shakespeare)"
@@ -21,11 +21,11 @@ tags:
 | ANTONY | Would thou and those thy scars had once prevailed<br>To make me fight at land! |
 | SOLDIER | Hadst thou done so, The kings that have revolted, and the soldier<br>That has this morning left thee, would have still<br>Followed thy heels. |
 | ANTONY | Who’s gone this morning? |
-| SOLDIER | Who? One ever near thee. Call for Enobarbus,<br>He shall not hear thee, or from Caesar’s camp<br>Say ‘I am none of thine’. |
+| SOLDIER | Who? One ever near thee. Call for [[Enobarbus]],<br>He shall not hear thee, or from Caesar’s camp<br>Say ‘I am none of thine’. |
 | ANTONY | What sayest thou? |
 | SOLDIER | Sir, he is with Caesar. |
 | EROS | (to Antony)<br>Sir, his chests and treasure<br>He has not with him. |
 | ANTONY | Is he gone? |
 | SOLDIER | Most certain. |
-| ANTONY | Go, Eros, send his treasure after. Do it.<br>Detain no jot, I charge thee. Write to him—<br>I will subscribe—gentle adieus and greetings.<br>Say that I wish he never find more cause 15<br>To change a master. O, my fortunes have<br>Corrupted honest men! Dispatch. Enobarbus! |
+| ANTONY | Go, Eros, send his treasure after. Do it.<br>Detain no jot, I charge thee. Write to him—<br>I will subscribe—gentle adieus and greetings.<br>Say that I wish he never find more cause 15<br>To change a master. O, my fortunes have<br>Corrupted honest men! Dispatch. [[Enobarbus]]! |
 | *(didascalia)* | Exeunt |

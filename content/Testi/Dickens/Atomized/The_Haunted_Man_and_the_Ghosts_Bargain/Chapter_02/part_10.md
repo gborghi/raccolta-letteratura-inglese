@@ -1,5 +1,5 @@
 ---
-title: "The Haunted Man and the Ghost's Bargain — Chapter 2 (part 10)"
+title: "The Haunted Man and the [[Ghost]]'s Bargain — Chapter 2 (part 10)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Haunted-Man-and-the-Ghost's-Bargain-(Dickens)"
@@ -27,7 +27,7 @@ beginning to get up.
 “Give me some money first, then, and go.”
 
 The Chemist laid a few shillings, one by one, in his extended hand. To
-count them was beyond the boy’s knowledge, but he said “one,” every time,
+count them was beyond the boy’s knowledge, but he said “one,” every [[Time|time]],
 and avariciously looked at each as it was given, and at the donor. He
 had nowhere to put them, out of his hand, but in his mouth; and he put
 them there.
@@ -35,7 +35,7 @@ them there.
 Redlaw then wrote with his pencil on a leaf of his pocket-book, that the
 boy was with him; and laying it on the table, signed to him to follow.
 Keeping his rags together, as usual, the boy complied, and went out with
-his bare head and naked feet into the winter night.
+his bare head and naked feet into the [[Winter|winter]] [[Night|night]].
 
 Preferring not to depart by the iron gate by which he had entered, where
 they were in danger of meeting her whom he so anxiously avoided, the
@@ -59,33 +59,33 @@ The first occasion was when they were crossing an old churchyard, and
 Redlaw stopped among the graves, utterly at a loss how to connect them
 with any tender, softening, or consolatory thought.
 
-The second was, when the breaking forth of the moon induced him to look
+The second was, when the breaking forth of the [[Moon|moon]] induced him to look
 up at the Heavens, where he saw her in her glory, surrounded by a host of
-stars he still knew by the names and histories which human science has
+[[Stars|stars]] he still knew by the names and histories which human science has
 appended to them; but where he saw nothing else he had been wont to see,
 felt nothing he had been wont to feel, in looking up there, on a bright
-night.
+[[Night|night]].
 
 The third was when he stopped to listen to a plaintive strain of music,
 but could only hear a tune, made manifest to him by the dry mechanism of
 the instruments and his own ears, with no address to any mystery within
 him, without a whisper in it of the past, or of the future, powerless
-upon him as the sound of last year’s running water, or the rushing of
-last year’s wind.
+upon him as the sound of last year’s running [[Water|water]], or the rushing of
+last year’s [[Wind|wind]].
 
 At each of these three times, he saw with horror that, in spite of the
 vast intellectual distance between them, and their being unlike each
 other in all physical respects, the expression on the boy’s face was the
 expression on his own.
 
-They journeyed on for some time—now through such crowded places, that he
+They journeyed on for some [[Time|time]]—now through such crowded places, that he
 often looked over his shoulder thinking he had lost his guide, but
-generally finding him within his shadow on his other side; now by ways so
+generally finding him within his [[Shadow|shadow]] on his other side; now by ways so
 quiet, that he could have counted his short, quick, naked footsteps
 coming on behind—until they arrived at a ruinous collection of houses,
 and the boy touched him and stopped.
 
-“In there!” he said, pointing out one house where there were scattered
+“In there!” he said, pointing out one [[house]] where there were scattered
 lights in the windows, and a dim lantern in the doorway, with “Lodgings
 for Travellers” painted on it.
 
@@ -95,23 +95,23 @@ unfenced, undrained, unlighted, and bordered by a sluggish ditch; from
 that, to the sloping line of arches, part of some neighbouring viaduct or
 bridge with which it was surrounded, and which lessened gradually towards
 them, until the last but one was a mere kennel for a dog, the last a
-plundered little heap of bricks; from that, to the child, close to him,
+plundered little heap of bricks; from that, to the [[Child|child]], close to him,
 cowering and trembling with the cold, and limping on one little foot,
 while he coiled the other round his leg to warm it, yet staring at all
 these things with that frightful likeness of expression so apparent in
 his face, that Redlaw started from him.
 
-“In there!” said the boy, pointing out the house again. “I’ll wait.”
+“In there!” said the boy, pointing out the [[house]] again. “I’ll wait.”
 
 “Will they let me in?” asked Redlaw.
 
 “Say you’re a doctor,” he answered with a nod. “There’s plenty ill
 here.”
 
-Looking back on his way to the house-door, Redlaw saw him trail himself
-upon the dust and crawl within the shelter of the smallest arch, as if he
+Looking back on his way to the [[house]]-door, Redlaw saw him trail himself
+upon the [[Dust|dust]] and crawl within the shelter of the smallest arch, as if he
 were a rat. He had no pity for the thing, but he was afraid of it; and
-when it looked out of its den at him, he hurried to the house as a
+when it looked out of its den at him, he hurried to the [[house]] as a
 retreat.
 
 “Sorrow, wrong, and trouble,” said the Chemist, with a painful effort at
@@ -125,7 +125,7 @@ head was bent down on her hands and knees. As it was not easy to pass
 without treading on her, and as she was perfectly regardless of his near
 approach, he stopped, and touched her on the shoulder. Looking up, she
 showed him quite a young face, but one whose bloom and promise were all
-swept away, as if the haggard winter should unnaturally kill the spring.
+swept away, as if the haggard [[Winter|winter]] should unnaturally kill the [[Spring|spring]].
 
 With little or no show of concern on his account, she moved nearer to the
 wall to leave him a wider passage.
@@ -140,5 +140,5 @@ disfigured; and something, which was not compassion—for the springs in
 which a true compassion for such miseries has its rise, were dried up in
 his breast—but which was nearer to it, for the moment, than any feeling
 that had lately struggled into the darkening, but not yet wholly
-darkened, night of his mind—mingled a touch of softness with his next
+darkened, [[Night|night]] of his mind—mingled a touch of softness with his next
 words.

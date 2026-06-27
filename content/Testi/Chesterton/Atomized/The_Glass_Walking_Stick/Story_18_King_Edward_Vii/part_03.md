@@ -1,5 +1,5 @@
 ---
-title: "The Glass Walking Stick — King Edward Vii (part 3)"
+title: "The Glass Walking Stick — [[King]] Edward Vii (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/The-Glass-Walking-Stick-(Chesterton)"
@@ -14,12 +14,12 @@ tags:
 </nav>
 
 
-And yet again, in connexion with those aspects of the late King
+And yet again, in connexion with those aspects of the late [[King]]
 which may be and are approved on more serious and statesmanlike grounds
 (as, for instance, his international attitude towards peace),
 this value of a working convention can still be found.  It is easy
 to say airily, in an ethical textbook or a debating club resolution,
-that Spaniards should love Chinamen, or that Highlanders should suddenly
+that Spaniards should [[Love|love]] Chinamen, or that Highlanders should suddenly
 embrace Hindus.  But, as men are in daily life, such brotherhood
 is corrupted and confused, though never actually contradicted.
 It is the fundamental fact that we are all men; but there
@@ -41,21 +41,21 @@ more historic, more national; but that, surely, is obvious.
 Nevertheless, for cosmopolitan purposes, such as diplomacy,
 a gentleman may be used--with caution.  And the reason that has
 made aristocrats effective as diplomatists is the same that made
-King Edward effective; the existence of a convention or convenient
+[[King]] Edward effective; the existence of a convention or convenient
 form that is understood everywhere and makes action and utterance
 easy for everyone.  Language itself is only an enormous ceremony.
-King Edward completely understood that nameless Volapuk or Esperanto
+[[King]] Edward completely understood that nameless Volapuk or Esperanto
 on which modern Europe practically reposes.  He never put himself
 in a position that Europe could possibly misunderstand, as the Kaiser
 did by his theocratic outbursts, even if they were logical;
 or the Tsar by his sweeping repressions, even if they were provoked.
-Partly a German, by blood, partly a Frenchman, by preference,
+Partly a German, by [[Blood|blood]], partly a Frenchman, by preference,
 inter-married with all the thrones of Europe and quite conscious
 of their very various perplexities, he had the right to be called
 a great citizen of Europe.  There are only two things that can bind
-men together; a convention and a creed.  King Edward was the last,
+men together; a convention and a creed.  [[King]] Edward was the last,
 the most popular, and probably the most triumphant example of Europe
-combining with success upon a large and genial convention.
+combining with [[success]] upon a large and genial convention.
 Tact and habit and humanity had in him their final exponent in all
 the Courts, reviews, race-courses, and hotels of Christendom.
 If these are not enough, if it is not found sufficient for Europe

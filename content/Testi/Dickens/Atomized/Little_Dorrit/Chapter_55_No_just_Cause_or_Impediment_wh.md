@@ -21,21 +21,21 @@ should not be joined together
 Mr Dorrit, on being informed by his elder daughter that she had accepted
 matrimonial overtures from Mr Sparkler, to whom she had plighted her
 troth, received the communication at once with great dignity and with a
-large display of parental pride; his dignity dilating with the widened
+large display of parental [[Pride|pride]]; his dignity dilating with the widened
 prospect of advantageous ground from which to make acquaintances, and
-his parental pride being developed by Miss Fanny’s ready sympathy with
+his parental [[Pride|pride]] being developed by Miss Fanny’s ready sympathy with
 that great object of his existence. He gave her to understand that her
-noble ambition found harmonious echoes in his heart; and bestowed
-his blessing on her, as a child brimful of duty and good principle,
-self-devoted to the aggrandisement of the family name.
+noble [[Ambition|ambition]] found harmonious echoes in his heart; and bestowed
+his blessing on her, as a [[Child|child]] brimful of duty and good principle,
+[[Self|self]]-devoted to the aggrandisement of the family name.
 
 To Mr Sparkler, when Miss Fanny permitted him to appear, Mr Dorrit said,
-he would not disguise that the alliance Mr Sparkler did him the honour
+he would not disguise that the alliance Mr Sparkler did him the [[Honour|honour]]
 to propose was highly congenial to his feelings; both as being in unison
 with the spontaneous affections of his daughter Fanny, and as opening
-a family connection of a gratifying nature with Mr Merdle, the
+a family connection of a gratifying [[Nature|nature]] with [[Mr Merdle]], the
 master spirit of the age. Mrs Merdle also, as a leading lady rich in
-distinction, elegance, grace, and beauty, he mentioned in very laudatory
+distinction, elegance, grace, and [[Beauty|beauty]], he mentioned in very laudatory
 terms. He felt it his duty to remark (he was sure a gentleman of Mr
 Sparkler’s fine sense would interpret him with all delicacy), that he
 could not consider this proposal definitely determined on, until he
@@ -60,21 +60,21 @@ half-crowns from him in the days that were gone.
 Mr Sparkler, finding himself stunned by the words thus heaped upon his
 inoffensive head, made a brief though pertinent rejoinder; the same
 being neither more nor less than that he had long perceived Miss Fanny
-to have no nonsense about her, and that he had no doubt of its being all
+to have no nonsense about her, and that he had no [[Doubt|doubt]] of its being all
 right with his Governor. At that point the object of his affections shut
-him up like a box with a spring lid, and sent him away.
+him up like a box with a [[Spring|spring]] lid, and sent him away.
 
 Proceeding shortly afterwards to pay his respects to the Bosom, Mr
 Dorrit was received by it with great consideration. Mrs Merdle had heard
-of this affair from Edmund. She had been surprised at first, because she
-had not thought Edmund a marrying man. Society had not thought Edmund
+of this affair from [[Edmund]]. She had been surprised at first, because she
+had not thought [[Edmund]] a marrying man. Society had not thought [[Edmund]]
 a marrying man. Still, of course she had seen, as a woman (we women
-did instinctively see these things, Mr Dorrit!), that Edmund had been
+did instinctively see these things, Mr Dorrit!), that [[Edmund]] had been
 immensely captivated by Miss Dorrit, and she had openly said that Mr
 Dorrit had much to answer for in bringing so charming a girl abroad to
 turn the heads of his countrymen.
 
-‘Have I the honour to conclude, madam,’ said Mr Dorrit, ‘that the
+‘Have I the [[Honour|honour]] to conclude, madam,’ said Mr Dorrit, ‘that the
 direction which Mr Sparkler’s affections have taken, is--ha-approved of
 by you?’
 
@@ -86,12 +86,12 @@ That was very gratifying to Mr Dorrit.
 ‘Personally,’ repeated Mrs Merdle, ‘charmed.’
 
 This casual repetition of the word ‘personally,’ moved Mr Dorrit to
-express his hope that Mr Merdle’s approval, too, would not be wanting?
+express his [[Hope|hope]] that [[Mr Merdle]]’s approval, too, would not be wanting?
 
 ‘I cannot,’ said Mrs Merdle, ‘take upon myself to answer positively for
-Mr Merdle; gentlemen, especially gentlemen who are what Society calls
+[[Mr Merdle]]; gentlemen, especially gentlemen who are what Society calls
 capitalists, having their own ideas of these matters. But I should
-think--merely giving an opinion, Mr Dorrit--I should think Mr Merdle
+think--merely giving an opinion, Mr Dorrit--I should think [[Mr Merdle]]
 would be upon the whole,’ here she held a review of herself before
 adding at her leisure, ‘quite charmed.’
 
@@ -101,13 +101,13 @@ Merdle had observed it, and went on to take up the cue.
 
 ‘Though, indeed, Mr Dorrit, it is scarcely necessary for me to make that
 remark, except in the mere openness of saying what is uppermost to one
-whom I so highly regard, and with whom I hope I may have the pleasure
+whom I so highly regard, and with whom I [[Hope|hope]] I may have the pleasure
 of being brought into still more agreeable relations. For one cannot
 but see the great probability of your considering such things from Mr
 Merdle’s own point of view, except indeed that circumstances have made
-it Mr Merdle’s accidental fortune, or misfortune, to be engaged in
+it [[Mr Merdle]]’s accidental fortune, or misfortune, to be engaged in
 business transactions, and that they, however vast, may a little cramp
-his horizons. I am a very child as to having any notion of business,’
+his horizons. I am a very [[Child|child]] as to having any notion of business,’
 said Mrs Merdle; ‘but I am afraid, Mr Dorrit, it may have that
 tendency.’
 
@@ -120,28 +120,28 @@ being supposed, even by Mrs Merdle, the accomplished and graceful
 Merdle’s, apart as they were from the puny undertakings of the rest of
 men, had any lower tendency than to enlarge and expand the genius in
 which they were conceived. ‘You are generosity itself,’ said Mrs Merdle
-in return, smiling her best smile; ‘let us hope so. But I confess I am
+in return, smiling her best smile; ‘let us [[Hope|hope]] so. But I confess I am
 almost superstitious in my ideas about business.’
 
 Mr Dorrit threw in another compliment here, to the effect that business,
-like the time which was precious in it, was made for slaves; and that it
+like the [[Time|time]] which was precious in it, was made for slaves; and that it
 was not for Mrs Merdle, who ruled all hearts at her supreme pleasure,
 to have anything to do with it. Mrs Merdle laughed, and conveyed to
 Mr Dorrit an idea that the Bosom flushed--which was one of her best
 effects.
 
-‘I say so much,’ she then explained, ‘merely because Mr Merdle has
-always taken the greatest interest in Edmund, and has always expressed
-the strongest desire to advance his prospects. Edmund’s public position,
-I think you know. His private position rests solely with Mr Merdle. In
+‘I say so much,’ she then explained, ‘merely because [[Mr Merdle]] has
+always taken the greatest interest in [[Edmund]], and has always expressed
+the strongest [[Desire|desire]] to advance his prospects. [[Edmund]]’s public position,
+I think you know. His private position rests solely with [[Mr Merdle]]. In
 my foolish incapacity for business, I assure you I know no more.’
 
 Mr Dorrit again expressed, in his own way, the sentiment that business
 was below the ken of enslavers and enchantresses. He then mentioned his
-intention, as a gentleman and a parent, of writing to Mr Merdle. Mrs
+intention, as a gentleman and a parent, of writing to [[Mr Merdle]]. Mrs
 Merdle concurred with all her heart--or with all her art, which was
 exactly the same thing--and herself despatched a preparatory letter by
-the next post to the eighth wonder of the world.
+the next post to the eighth [[Wonder|wonder]] of the world.
 
 In his epistolary communication, as in his dialogues and discourses on
 the great question to which it related, Mr Dorrit surrounded the
@@ -150,9 +150,9 @@ ciphering-books: where the titles of the elementary rules of
 arithmetic diverge into swans, eagles, griffins, and other calligraphic
 recreations, and where the capital letters go out of their minds and
 bodies into ecstasies of pen and ink. Nevertheless, he did render the
-purport of his letter sufficiently clear, to enable Mr Merdle to make a
-decent pretence of having learnt it from that source. Mr Merdle replied
-to it accordingly. Mr Dorrit replied to Mr Merdle; Mr Merdle replied to
+purport of his letter sufficiently clear, to enable [[Mr Merdle]] to make a
+decent pretence of having learnt it from that source. [[Mr Merdle]] replied
+to it accordingly. Mr Dorrit replied to [[Mr Merdle]]; [[Mr Merdle]] replied to
 Mr Dorrit; and it was soon announced that the corresponding powers had
 come to a satisfactory understanding.
 
@@ -160,7 +160,7 @@ Now, and not before, Miss Fanny burst upon the scene, completely arrayed
 for her new part. Now and not before, she wholly absorbed Mr Sparkler in
 her light, and shone for both, and twenty more. No longer feeling that
 want of a defined place and character which had caused her so much
-trouble, this fair ship began to steer steadily on a shaped course, and
+trouble, this fair [[Ship|ship]] began to steer steadily on a shaped course, and
 to swim with a weight and balance that developed her sailing qualities.
 
 ‘The preliminaries being so satisfactorily arranged, I think I will now,
@@ -170,7 +170,7 @@ my dear,’ said Mr Dorrit, ‘announce--ha--formally, to Mrs General--’
 what Mrs General has got to do with it.’
 
 ‘My dear,’ said Mr Dorrit, ‘it will be an act of courtesy to--hum--a
-lady, well bred and refined--’
+lady, [[Well|well]] bred and refined--’
 
 ‘Oh! I am sick of Mrs General’s good breeding and refinement, papa,’
 said Fanny. ‘I am tired of Mrs General.’
@@ -179,24 +179,24 @@ said Fanny. ‘I am tired of Mrs General.’
 General.’
 
 ‘Quite disgusted with her, papa,’ said Fanny. ‘I really don’t see what
-she has to do with my marriage. Let her keep to her own matrimonial
+she has to do with my [[Marriage|marriage]]. Let her keep to her own matrimonial
 projects--if she has any.’
 
-‘Fanny,’ returned Mr Dorrit, with a grave and weighty slowness upon him,
+‘Fanny,’ returned Mr Dorrit, with a [[Grave|grave]] and weighty slowness upon him,
 contrasting strongly with his daughter’s levity: ‘I beg the favour of
 your explaining--ha--what it is you mean.’
 
 ‘I mean, papa,’ said Fanny, ‘that if Mrs General should happen to have
 any matrimonial projects of her own, I dare say they are quite enough to
-occupy her spare time. And that if she has not, so much the better; but
-still I don’t wish to have the honour of making announcements to her.’
+occupy her spare [[Time|time]]. And that if she has not, so much the better; but
+still I don’t wish to have the [[Honour|honour]] of making announcements to her.’
 
 ‘Permit me to ask you, Fanny,’ said Mr Dorrit, ‘why not?’
 
 ‘Because she can find my engagement out for herself, papa,’ retorted
 Fanny. ‘She is watchful enough, I dare say. I think I have seen her
 so. Let her find it out for herself. If she should not find it out for
-herself, she will know it when I am married. And I hope you will not
+herself, she will know it when I am married. And I [[Hope|hope]] you will not
 consider me wanting in affection for you, papa, if I say it strikes me
 that will be quite enough for Mrs General.’
 
@@ -207,21 +207,21 @@ towards--ha--Mrs General.’
 ‘Do not, if you please, papa,’ urged Fanny, ‘call it animosity, because
 I assure you I do not consider Mrs General worth my animosity.’
 
-At this, Mr Dorrit rose from his chair with a fixed look of severe
+At this, Mr Dorrit [[Rose|rose]] from his chair with a fixed look of severe
 reproof, and remained standing in his dignity before his daughter. His
 daughter, turning the bracelet on her arm, and now looking at him, and
-now looking from him, said, ‘Very well, papa. I am truly sorry if you
-don’t like it; but I can’t help it. I am not a child, and I am not Amy,
+now looking from him, said, ‘Very [[Well|well]], papa. I am truly sorry if you
+don’t like it; but I can’t help it. I am not a [[Child|child]], and I am not Amy,
 and I must speak.’
 
-‘Fanny,’ gasped Mr Dorrit, after a majestic silence, ‘if I request
+‘Fanny,’ gasped Mr Dorrit, after a majestic [[Silence|silence]], ‘if I request
 you to remain here, while I formally announce to Mrs General, as
 an exemplary lady, who is--hum--a trusted member of this family,
 the--ha--the change that is contemplated among us; if I--ha--not only
 request it, but--hum--insist upon it--’
 
 ‘Oh, papa,’ Fanny broke in with pointed significance, ‘if you make so
-much of it as that, I have in duty nothing to do but comply. I hope I
+much of it as that, I have in duty nothing to do but comply. I [[Hope|hope]] I
 may have my thoughts upon the subject, however, for I really cannot help
 it under the circumstances.’ So, Fanny sat down with a meekness which,
 in the junction of extremes, became defiance; and her father, either not
@@ -279,7 +279,7 @@ upright again.
 ‘--That my daughter Fanny is--ha--contracted to be married to Mr
 Sparkler, with whom you are acquainted. Hence, madam, you will be
 relieved of half your difficult charge--ha--difficult charge.’ Mr
-Dorrit repeated it with his angry eye on Fanny. ‘But not, I hope, to
+Dorrit repeated it with his angry eye on Fanny. ‘But not, I [[Hope|hope]], to
 the--hum--diminution of any other portion, direct or indirect, of the
 footing you have at present the kindness to occupy in my family.’
 
@@ -289,7 +289,7 @@ appreciative of my friendly services.’
 
 (Miss Fanny coughed, as much as to say, ‘You are right.’)
 
-‘Miss Dorrit has no doubt exercised the soundest discretion of which
+‘Miss Dorrit has no [[Doubt|doubt]] exercised the soundest discretion of which
 the circumstances admitted, and I trust will allow me to offer her my
 sincere congratulations. When free from the trammels of passion,’ Mrs
 General closed her eyes at the word, as if she could not utter it, and
@@ -303,7 +303,7 @@ face, ‘Papa, potatoes, poultry, Prunes, and prism.’
 
 ‘Mr Dorrit,’ she superadded aloud, ‘is ever most obliging; and for
 the attention, and I will add distinction, of having this confidence
-imparted to me by himself and Miss Dorrit at this early time, I beg to
+imparted to me by himself and Miss Dorrit at this early [[Time|time]], I beg to
 offer the tribute of my thanks. My thanks, and my congratulations, are
 equally the meed of Mr Dorrit and of Miss Dorrit.’
 
@@ -320,11 +320,11 @@ and the left undermost, with a Prunes and Prism smile.
 smile with one in which there was no trace of those ingredients, ‘will
 of course be the highest object of my married life; to lose it, would of
 course be perfect wretchedness. I am sure your great kindness will
-not object, and I hope papa will not object, to my correcting a
+not object, and I [[Hope|hope]] papa will not object, to my correcting a
 small mistake you have made, however. The best of us are so liable to
 mistakes, that even you, Mrs General, have fallen into a little error.
 The attention and distinction you have so impressively mentioned, Mrs
-General, as attaching to this confidence, are, I have no doubt, of the
+General, as attaching to this confidence, are, I have no [[Doubt|doubt]], of the
 most complimentary and gratifying description; but they don’t at all
 proceed from me. The merit of having consulted you on the subject would
 have been so great in me, that I feel I must not lay claim to it when it
@@ -332,8 +332,8 @@ really is not mine. It is wholly papa’s. I am deeply obliged to you for
 your encouragement and patronage, but it was papa who asked for it.
 I have to thank you, Mrs General, for relieving my breast of a great
 weight by so handsomely giving your consent to my engagement, but you
-have really nothing to thank me for. I hope you will always approve of
-my proceedings after I have left home and that my sister also may long
+have really nothing to thank me for. I [[Hope|hope]] you will always approve of
+my proceedings after I have left [[Home|home]] and that my sister also may long
 remain the favoured object of your condescension, Mrs General.’
 
 With this address, which was delivered in her politest manner, Fanny
@@ -344,10 +344,10 @@ her eyes, tell her what had passed below, and ask her what she thought
 of Pa now?
 
 Towards Mrs Merdle, the young lady comported herself with great
-independence and self-possession; but not as yet with any more decided
+independence and [[Self|self]]-possession; but not as yet with any more decided
 opening of hostilities. Occasionally they had a slight skirmish, as when
 Fanny considered herself patted on the back by that lady, or as when Mrs
-Merdle looked particularly young and well; but Mrs Merdle always soon
+Merdle looked particularly young and [[Well|well]]; but Mrs Merdle always soon
 terminated those passages of arms by sinking among her cushions with the
 gracefullest indifference, and finding her attention otherwise engaged.
 Society (for that mysterious creature sat upon the Seven Hills too)
@@ -367,38 +367,38 @@ taken, did whatever he was told, felt that for his bride-elect to be
 distinguished was for him to be distinguished on the easiest terms, and
 was truly grateful for being so openly acknowledged.
 
-The winter passing on towards the spring while this condition of affairs
+The [[Winter|winter]] passing on towards the [[Spring|spring]] while this condition of affairs
 prevailed, it became necessary for Mr Sparkler to repair to England, and
 take his appointed part in the expression and direction of its genius,
-learning, commerce, spirit, and sense. The land of Shakespeare, Milton,
+learning, commerce, spirit, and sense. The land of Shakespeare, [[Milton]],
 Bacon, Newton, Watt, the land of a host of past and present abstract
-philosophers, natural philosophers, and subduers of Nature and Art in
+philosophers, natural philosophers, and subduers of [[Nature]] and Art in
 their myriad forms, called to Mr Sparkler to come and take care of it,
 lest it should perish. Mr Sparkler, unable to resist the agonised cry
-from the depths of his country’s soul, declared that he must go.
+from the depths of his country’s [[Soul|soul]], declared that he must go.
 
 It followed that the question was rendered pressing when, where, and
 how Mr Sparkler should be married to the foremost girl in all this world
 with no nonsense about her. Its solution, after some little mystery and
 secrecy, Miss Fanny herself announced to her sister.
 
-‘Now, my child,’ said she, seeking her out one day, ‘I am going to tell
+‘Now, my [[Child|child]],’ said she, seeking her out one day, ‘I am going to tell
 you something. It is only this moment broached; and naturally I hurry to
 you the moment it _is_ broached.’
 
-‘Your marriage, Fanny?’
+‘Your [[Marriage|marriage]], Fanny?’
 
-‘My precious child,’ said Fanny, ‘don’t anticipate me. Let me impart my
+‘My precious [[Child|child]],’ said Fanny, ‘don’t anticipate me. Let me impart my
 confidence to you, you flurried little thing, in my own way. As to your
 guess, if I answered it literally, I should answer no. For really it is
-not my marriage that is in question, half as much as it is Edmund’s.’
+not my [[Marriage|marriage]] that is in question, half as much as it is [[Edmund]]’s.’
 
 Little Dorrit looked, and perhaps not altogether without cause, somewhat
 at a loss to understand this fine distinction.
 
 ‘I am in no difficulty,’ exclaimed Fanny, ‘and in no hurry. I am not
 wanted at any public office, or to give any vote anywhere else.
-But Edmund is. And Edmund is deeply dejected at the idea of going away
+But [[Edmund]] is. And [[Edmund]] is deeply dejected at the idea of going away
 by himself, and, indeed, I don’t like that he should be trusted by
 himself. For, if it’s possible--and it generally is--to do a foolish
 thing, he is sure to do it.’
@@ -408,27 +408,27 @@ safely placed upon her future husband, she took off, with an air of
 business, the bonnet she wore, and dangled it by its strings upon the
 ground.
 
-‘It is far more Edmund’s question, therefore, than mine. However, we
-need say no more about that. That is self-evident on the face of it.
-Well, my dearest Amy! The point arising, is he to go by himself, or is
+‘It is far more [[Edmund]]’s question, therefore, than mine. However, we
+need say no more about that. That is [[Self|self]]-evident on the face of it.
+[[Well]], my dearest Amy! The point arising, is he to go by himself, or is
 he not to go by himself, this other point arises, are we to be married
-here and shortly, or are we to be married at home months hence?’
+here and shortly, or are we to be married at [[Home|home]] months hence?’
 
 ‘I see I am going to lose you, Fanny.’
 
 ‘What a little thing you are,’ cried Fanny, half tolerant and half
 impatient, ‘for anticipating one! Pray, my darling, hear me out. That
 woman,’ she spoke of Mrs Merdle, of course, ‘remains here until after
-Easter; so, in the case of my being married here and going to London
-with Edmund, I should have the start of her. That is something. Further,
+Easter; so, in the case of my being married here and going to [[London]]
+with [[Edmund]], I should have the start of her. That is something. Further,
 Amy. That woman being out of the way, I don’t know that I greatly object
-to Mr Merdle’s proposal to Pa that Edmund and I should take up our abode
-in that house--_you_ know--where you once went with a dancer, my dear,
-until our own house can be chosen and fitted up. Further still, Amy.
-Papa having always intended to go to town himself, in the spring,--you
-see, if Edmund and I were married here, we might go off to Florence,
-where papa might join us, and we might all three travel home together.
-Mr Merdle has entreated Pa to stay with him in that same mansion I have
+to [[Mr Merdle]]’s proposal to Pa that [[Edmund]] and I should take up our abode
+in that [[house]]--_you_ know--where you once went with a dancer, my dear,
+until our own [[house]] can be chosen and fitted up. Further still, Amy.
+Papa having always intended to go to town himself, in the [[Spring|spring]],--you
+see, if [[Edmund]] and I were married here, we might go off to Florence,
+where papa might join us, and we might all three travel [[Home|home]] together.
+[[Mr Merdle]] has entreated Pa to stay with him in that same mansion I have
 mentioned, and I suppose he will. But he is master of his own actions;
 and upon that point (which is not at all material) I can’t speak
 positively.’
@@ -441,7 +441,7 @@ wish that she had been included in the plans for visiting England.
 
 ‘And these are the arrangements, Fanny dear?’
 
-‘Arrangements!’ repeated Fanny. ‘Now, really, child, you are a little
+‘Arrangements!’ repeated Fanny. ‘Now, really, [[Child|child]], you are a little
 trying. You know I particularly guarded myself against laying my words
 open to any such construction. What I said was, that certain questions
 present themselves; and these are the questions.’
@@ -467,50 +467,50 @@ all, in her arms.
 ‘Don’t suppose I am hasty or unkind, darling, because I really am not.
 But you are such a little oddity! You make one bite your head off,
 when one wants to be soothing beyond everything. Didn’t I tell you, you
-dearest baby, that Edmund can’t be trusted by himself? And don’t you
+dearest baby, that [[Edmund]] can’t be trusted by himself? And don’t you
 know that he can’t?’
 
 ‘Yes, yes, Fanny. You said so, I know.’
 
-‘And you know it, I know,’ retorted Fanny. ‘Well, my precious child! If
+‘And you know it, I know,’ retorted Fanny. ‘[[Well]], my precious [[Child|child]]! If
 he is not to be trusted by himself, it follows, I suppose, that I should
 go with him?’
 
-‘It--seems so, love,’ said Little Dorrit.
+‘It--seems so, [[Love|love]],’ said Little Dorrit.
 
 ‘Therefore, having heard the arrangements that are feasible to carry
 out that object, am I to understand, dearest Amy, that on the whole you
 advise me to make them?’
 
-‘It--seems so, love,’ said Little Dorrit again.
+‘It--seems so, [[Love|love]],’ said Little Dorrit again.
 
-‘Very well,’ cried Fanny with an air of resignation, ‘then I suppose it
-must be done! I came to you, my sweet, the moment I saw the doubt, and
+‘Very [[Well|well]],’ cried Fanny with an air of [[Resignation|resignation]], ‘then I suppose it
+must be done! I came to you, my sweet, the moment I saw the [[Doubt|doubt]], and
 the necessity of deciding. I have now decided. So let it be.’
 
 After yielding herself up, in this pattern manner, to sisterly advice
 and the force of circumstances, Fanny became quite benignant: as one
 who had laid her own inclinations at the feet of her dearest friend, and
-felt a glow of conscience in having made the sacrifice. ‘After all, my
+felt a glow of [[Conscience|conscience]] in having made the sacrifice. ‘After all, my
 Amy,’ she said to her sister, ‘you are the best of small creatures, and
 full of good sense; and I don’t know what I shall ever do without you!’
 
 With which words she folded her in a closer embrace, and a really fond
 one.
 
-‘Not that I contemplate doing without You, Amy, by any means, for I hope
+‘Not that I contemplate doing without You, Amy, by any means, for I [[Hope|hope]]
 we shall ever be next to inseparable. And now, my pet, I am going
-to give you a word of advice. When you are left alone here with Mrs
+to give you a word of advice. When you are left [[Alone|alone]] here with Mrs
 General--’
 
-‘I am to be left alone here with Mrs General?’ said Little Dorrit,
+‘I am to be left [[Alone|alone]] here with Mrs General?’ said Little Dorrit,
 quietly.
 
 ‘Why, of course, my precious, till papa comes back! Unless you call
 Edward company, which he certainly is not, even when he is here, and
 still more certainly is not when he is away at Naples or in Sicily. I
 was going to say--but you are such a beloved little Marplot for putting
-one out--when you are left alone here with Mrs General, Amy, don’t you
+one out--when you are left [[Alone|alone]] here with Mrs General, Amy, don’t you
 let her slide into any sort of artful understanding with you that she is
 looking after Pa, or that Pa is looking after her. She will if she can.
 I know her sly manner of feeling her way with those gloves of hers. But
@@ -527,7 +527,7 @@ without asserting it in making every one about you as uncomfortable as
 possible. I don’t expect you to stand by it--indeed, I know you won’t,
 Pa being concerned--but I wish to rouse you to a sense of duty. As to
 any help from me, or as to any opposition that I can offer to such a
-match, you shall not be left in the lurch, my love. Whatever weight
+match, you shall not be left in the lurch, my [[Love|love]]. Whatever weight
 I may derive from my position as a married girl not wholly devoid of
 attractions--used, as that position always shall be, to oppose that
 woman--I will bring to bear, you May depend upon it, on the head and
@@ -541,7 +541,7 @@ it. Having now, as it were, formally wound up her single life and
 arranged her worldly affairs, Fanny proceeded with characteristic ardour
 to prepare for the serious change in her condition.
 
-The preparation consisted in the despatch of her maid to Paris under the
+The preparation consisted in the despatch of her maid to [[Paris]] under the
 protection of the Courier, for the purchase of that outfit for a bride
 on which it would be extremely low, in the present narrative, to bestow
 an English name, but to which (on a vulgar principle it observes
@@ -556,20 +556,20 @@ that unless the Courier had expended just one bushel and a half of
 silver money relieving their distresses, they would have worn the
 wardrobe out before it got to Rome, by turning it over and over. Through
 all such dangers, however, it was triumphantly brought, inch by inch,
-and arrived at its journey’s end in fine condition.
+and arrived at its [[Journey|journey]]’s end in fine condition.
 
 There it was exhibited to select companies of female viewers, in whose
 gentle bosoms it awakened implacable feelings. Concurrently, active
 preparations were made for the day on which some of its treasures were
 to be publicly displayed. Cards of breakfast-invitation were sent out
-to half the English in the city of Romulus; the other half made
+to half the English in the [[City|city]] of Romulus; the other half made
 arrangements to be under arms, as criticising volunteers, at various
 outer points of the solemnity. The most high and illustrious English
 Signor Edgardo Dorrit, came post through the deep mud and ruts (from
 forming a surface under the improving Neapolitan nobility), to grace
 the occasion. The best hotel and all its culinary myrmidons, were set to
 work to prepare the feast. The drafts of Mr Dorrit almost constituted a
-run on the Torlonia Bank. The British Consul hadn’t had such a marriage
+run on the Torlonia Bank. The British Consul hadn’t had such a [[Marriage|marriage]]
 in the whole of his Consularity.
 
 The day came, and the She-Wolf in the Capitol might have snarled with
@@ -578,33 +578,33 @@ The murderous-headed statues of the wicked Emperors of the Soldiery,
 whom sculptors had not been able to flatter out of their villainous
 hideousness, might have come off their pedestals to run away with the
 Bride. The choked old fountain, where erst the gladiators washed, might
-have leaped into life again to honour the ceremony. The Temple of
+have leaped into life again to [[Honour|honour]] the ceremony. The Temple of
 Vesta might have sprung up anew from its ruins, expressly to lend its
 countenance to the occasion. Might have done; but did not. Like sentient
 things--even like the lords and ladies of creation sometimes--might
 have done much, but did nothing. The celebration went off with admirable
-pomp; monks in black robes, white robes, and russet robes stopped to
+pomp; [[Monks|monks]] in black robes, white robes, and russet robes stopped to
 look after the carriages; wandering peasants in fleeces of sheep, begged
-and piped under the house-windows; the English volunteers defiled; the
+and piped under the [[house]]-windows; the English volunteers defiled; the
 day wore on to the hour of vespers; the festival wore away; the thousand
-churches rang their bells without any reference to it; and St Peter
+churches rang their [[Bells|bells]] without any reference to it; and St Peter
 denied that he had anything to do with it.
 
-But by that time the Bride was near the end of the first day’s journey
+But by that [[Time|time]] the Bride was near the end of the first day’s [[Journey|journey]]
 towards Florence. It was the peculiarity of the nuptials that they
 were all Bride. Nobody noticed the Bridegroom. Nobody noticed the first
 Bridesmaid. Few could have seen Little Dorrit (who held that post) for
 the glare, even supposing many to have sought her. So, the Bride had
 mounted into her handsome chariot, incidentally accompanied by the
-Bridegroom; and after rolling for a few minutes smoothly over a fair
+Bridegroom; and after [[rolling]] for a few minutes smoothly over a fair
 pavement, had begun to jolt through a Slough of Despond, and through a
 long, long avenue of wrack and ruin. Other nuptial carriages are said to
-have gone the same road, before and since.
+have gone the same [[Road|road]], before and since.
 
 If Little Dorrit found herself left a little lonely and a little low
-that night, nothing would have done so much against her feeling of
+that [[Night|night]], nothing would have done so much against her feeling of
 depression as the being able to sit at work by her father, as in the old
-time, and help him to his supper and his rest. But that was not to be
+[[Time|time]], and help him to his supper and his rest. But that was not to be
 thought of now, when they sat in the state-equipage with Mrs General on
 the coach-box. And as to supper! If Mr Dorrit had wanted supper, there
 was an Italian cook and there was a Swiss confectioner, who must
@@ -612,15 +612,15 @@ have put on caps as high as the Pope’s Mitre, and have performed the
 mysteries of Alchemists in a copper-saucepaned laboratory below, before
 he could have got it.
 
-He was sententious and didactic that night. If he had been simply
+He was sententious and didactic that [[Night|night]]. If he had been simply
 loving, he would have done Little Dorrit more good; but she accepted him
 as he was--when had she not accepted him as he was!--and made the most
 and best of him. Mrs General at length retired. Her retirement for the
-night was always her frostiest ceremony, as if she felt it necessary
-that the human imagination should be chilled into stone to prevent
+[[Night|night]] was always her frostiest ceremony, as if she felt it necessary
+that the human [[Imagination|imagination]] should be chilled into stone to prevent
 its following her. When she had gone through her rigid preliminaries,
 amounting to a sort of genteel platoon-exercise, she withdrew. Little
-Dorrit then put her arm round her father’s neck, to bid him good night.
+Dorrit then put her arm round her father’s neck, to bid him good [[Night|night]].
 
 ‘Amy, my dear,’ said Mr Dorrit, taking her by the hand, ‘this is the
 close of a day, that has--ha--greatly impressed and gratified me.’
@@ -635,16 +635,16 @@ Little Dorrit was glad to find him in such heart, and smiled from her
 own heart.
 
 ‘My dear,’ he continued, ‘this is an occasion--ha--teeming with a good
-example. With a good example, my favourite and attached child--hum--to
+example. With a good example, my favourite and attached [[Child|child]]--hum--to
 you.’
 
 Little Dorrit, fluttered by his words, did not know what to say, though
 he stopped as if he expected her to say something.
 
 ‘Amy,’ he resumed; ‘your dear sister, our Fanny, has contracted
-ha hum--a marriage, eminently calculated to extend the basis of
+ha hum--a [[Marriage|marriage]], eminently calculated to extend the basis of
 our--ha--connection, and to--hum--consolidate our social relations. My
-love, I trust that the time is not far distant when some--ha--eligible
+[[Love|love]], I trust that the [[Time|time]] is not far distant when some--ha--eligible
 partner may be found for you.’
 
 ‘Oh no! Let me stay with you. I beg and pray that I may stay with you! I
@@ -657,34 +657,34 @@ and foolish. You have a--ha--responsibility imposed upon you by your
 position. It is to develop that position, and be--hum--worthy of that
 position. As to taking care of me; I can--ha--take care of myself.
 Or,’ he added after a moment, ‘if I should need to be taken care of,
-I--hum--can, with the--ha--blessing of Providence, be taken care of,
-I--ha hum--I cannot, my dear child, think of engrossing, and--ha--as it
+I--hum--can, with the--ha--blessing of [[Providence]], be taken care of,
+I--ha hum--I cannot, my dear [[Child|child]], think of engrossing, and--ha--as it
 were, sacrificing you.’
 
-O what a time of day at which to begin that profession of self-denial;
+O what a [[Time|time]] of day at which to begin that profession of [[Self|self]]-denial;
 at which to make it, with an air of taking credit for it; at which to
 believe it, if such a thing could be!
 
 ‘Don’t speak, Amy. I positively say I cannot do it. I--ha--must not do
-it. My--hum--conscience would not allow it. I therefore, my love, take
+it. My--hum--[[Conscience|conscience]] would not allow it. I therefore, my [[Love|love]], take
 the opportunity afforded by this gratifying and impressive occasion
 of--ha--solemnly remarking, that it is now a cherished wish and purpose
 of mine to see you--ha--eligibly (I repeat eligibly) married.’
 
 ‘Oh no, dear! Pray!’
 
-‘Amy,’ said Mr Dorrit, ‘I am well persuaded that if the topic were
+‘Amy,’ said Mr Dorrit, ‘I am [[Well|well]] persuaded that if the topic were
 referred to any person of superior social knowledge, of superior
 delicacy and sense--let us say, for instance, to--ha--Mrs General--that
 there would not be two opinions as to the--hum--affectionate character
 and propriety of my sentiments. But, as I know your loving and dutiful
-nature from--hum--from experience, I am quite satisfied that it is
+[[Nature|nature]] from--hum--from experience, I am quite satisfied that it is
 necessary to say no more. I have--hum--no husband to propose at
 present, my dear: I have not even one in view. I merely wish that we
-should--ha--understand each other. Hum. Good night, my dear and sole
-remaining daughter. Good night. God bless you!’
+should--ha--understand each other. Hum. Good [[Night|night]], my dear and sole
+remaining daughter. Good [[Night|night]]. God bless you!’
 
-If the thought ever entered Little Dorrit’s head that night, that he
+If the thought ever entered Little Dorrit’s head that [[Night|night]], that he
 could give her up lightly now in his prosperity, and when he had it in
 his mind to replace her with a second wife, she drove it away. Faithful
 to him still, as in the worst times through which she had borne him
@@ -696,7 +696,7 @@ they should continue rich, and grow richer.
 They sat in their equipage of state, with Mrs General on the box, for
 three weeks longer, and then he started for Florence to join Fanny.
 Little Dorrit would have been glad to bear him company so far, only for
-the sake of her own love, and then to have turned back alone, thinking
+the sake of her own [[Love|love]], and then to have turned back [[Alone|alone]], thinking
 of dear England. But, though the Courier had gone on with the Bride, the
 Valet was next in the line; and the succession would not have come to
 her, as long as any one could be got for money.
@@ -704,18 +704,18 @@ her, as long as any one could be got for money.
 Mrs General took life easily--as easily, that is, as she could
 take anything--when the Roman establishment remained in their sole
 occupation; and Little Dorrit would often ride out in a hired carriage
-that was left them, and alight alone and wander among the ruins of old
+that was left them, and alight [[Alone|alone]] and wander among the ruins of old
 Rome. The ruins of the vast old Amphitheatre, of the old Temples, of the
 old commemorative Arches, of the old trodden highways, of the old
 tombs, besides being what they were, to her were ruins of the old
 Marshalsea--ruins of her own old life--ruins of the faces and forms
 that of old peopled it--ruins of its loves, hopes, cares, and joys. Two
-ruined spheres of action and suffering were before the solitary girl
-often sitting on some broken fragment; and in the lonely places, under
+ruined spheres of action and [[Suffering|suffering]] were before the solitary girl
+often sitting on some broken [[Fragment|fragment]]; and in the lonely places, under
 the blue sky, she saw them both together.
 
 Up, then, would come Mrs General; taking all the colour out of
-everything, as Nature and Art had taken it out of herself; writing
+everything, as [[Nature]] and Art had taken it out of herself; writing
 Prunes and Prism, in Mr Eustace’s text, wherever she could lay a hand;
 looking everywhere for Mr Eustace and company, and seeing nothing else;
 scratching up the driest little bones of antiquity, and bolting them

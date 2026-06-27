@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 6: AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE (part 1)"
+title: "The [[Pickwick]] Papers — Chapter 6: AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -17,15 +17,15 @@ tags:
 CHAPTER VI. AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE
 STORY OF THE CONVICT’S RETURN
 
-Several guests who were assembled in the old parlour rose to greet Mr.
-Pickwick and his friends upon their entrance; and during the performance
-of the ceremony of introduction, with all due formalities, Mr. Pickwick
+Several guests who were assembled in the old parlour [[Rose|rose]] to greet Mr.
+[[Pickwick]] and his friends upon their entrance; and during the performance
+of the ceremony of introduction, with all due formalities, Mr. [[Pickwick]]
 had leisure to observe the appearance, and speculate upon the characters
 and pursuits, of the persons by whom he was surrounded--a habit in which
 he, in common with many other great men, delighted to indulge.
 
 A very old lady, in a lofty cap and faded silk gown--no less a personage
-than Mr. Wardle’s mother--occupied the post of honour on the right-hand
+than Mr. Wardle’s mother--occupied the post of [[Honour|honour]] on the right-hand
 corner of the chimney-piece; and various certificates of her having been
 brought up in the way she should go when young, and of her not having
 departed from it when old, ornamented the walls, in the form of samplers
@@ -38,53 +38,53 @@ bottle, while a fourth was busily engaged in patting and punching the
 pillows which were arranged for her support. On the opposite side sat a
 bald-headed old gentleman, with a good-humoured, benevolent face--the
 clergyman of Dingley Dell; and next him sat his wife, a stout, blooming
-old lady, who looked as if she were well skilled, not only in the art
-and mystery of manufacturing home-made cordials greatly to other
+old lady, who looked as if she were [[Well|well]] skilled, not only in the art
+and mystery of manufacturing [[Home|home]]-made cordials greatly to other
 people’s satisfaction, but of tasting them occasionally very much to her
 own. A little hard-headed, Ripstone pippin-faced man, was conversing
 with a fat old gentleman in one corner; and two or three more old
 gentlemen, and two or three more old ladies, sat bolt upright and
-motionless on their chairs, staring very hard at Mr. Pickwick and his
+motionless on their chairs, staring very hard at Mr. [[Pickwick]] and his
 fellow-voyagers.
 
-‘Mr. Pickwick, mother,’ said Mr. Wardle, at the very top of his voice.
+‘Mr. [[Pickwick]], mother,’ said Mr. Wardle, at the very top of his voice.
 
 ‘Ah!’ said the old lady, shaking her head; ‘I can’t hear you.’
 
-‘Mr. Pickwick, grandma!’ screamed both the young ladies together.
+‘Mr. [[Pickwick]], grandma!’ screamed both the young ladies together.
 
-‘Ah!’ exclaimed the old lady. ‘Well, it don’t much matter. He don’t care
+‘Ah!’ exclaimed the old lady. ‘[[Well]], it don’t much matter. He don’t care
 for an old ‘ooman like me, I dare say.’
 
-‘I assure you, ma’am,’ said Mr. Pickwick, grasping the old lady’s hand,
+‘I assure you, ma’am,’ said Mr. [[Pickwick]], grasping the old lady’s hand,
 and speaking so loud that the exertion imparted a crimson hue to his
 benevolent countenance--‘I assure you, ma’am, that nothing delights me
-more than to see a lady of your time of life heading so fine a family,
-and looking so young and well.’
+more than to see a lady of your [[Time|time]] of life heading so fine a family,
+and looking so young and [[Well|well]].’
 
 ‘Ah!’ said the old lady, after a short pause: ‘it’s all very fine, I
 dare say; but I can’t hear him.’
 
-‘Grandma’s rather put out now,’ said Miss Isabella Wardle, in a low
+‘Grandma’s rather put out now,’ said Miss [[Isabella]] Wardle, in a low
 tone; ‘but she’ll talk to you presently.’
 
-Mr. Pickwick nodded his readiness to humour the infirmities of age, and
+Mr. [[Pickwick]] nodded his readiness to [[Humour|humour]] the infirmities of age, and
 entered into a general conversation with the other members of the
 circle.
 
-‘Delightful situation this,’ said Mr. Pickwick.
+‘Delightful situation this,’ said Mr. [[Pickwick]].
 
 ‘Delightful!’ echoed Messrs. Snodgrass, Tupman, and Winkle.
 
-‘Well, I think it is,’ said Mr. Wardle.
+‘[[Well]], I think it is,’ said Mr. Wardle.
 
-‘There ain’t a better spot o’ ground in all Kent, sir,’ said the hard-
+‘There ain’t a better spot o’ ground in all [[Kent]], sir,’ said the hard-
 headed man with the pippin--face; ‘there ain’t indeed, sir--I’m sure
 there ain’t, Sir.’ The hard-headed man looked triumphantly round, as if
 he had been very much contradicted by somebody, but had got the better
 of him at last.
 
-‘There ain’t a better spot o’ ground in all Kent,’ said the hard-headed
+‘There ain’t a better spot o’ ground in all [[Kent]],’ said the hard-headed
 man again, after a pause.
 
 ‘’Cept Mullins’s Meadows,’ observed the fat man solemnly.
@@ -121,7 +121,7 @@ above a whisper, drew herself up, and looked carving-knives at the hard-
 headed delinquent.
 
 ‘Come, come,’ said the bustling host, with a natural anxiety to change
-the conversation, ‘what say you to a rubber, Mr. Pickwick?’
+the conversation, ‘what say you to a rubber, Mr. [[Pickwick]]?’
 
 ‘I should like it of all things,’ replied that gentleman; ‘but pray
 don’t make up one on my account.’
@@ -137,7 +137,7 @@ the card-tables.’
 
 The lethargic youth contrived without any additional rousing to set out
 two card-tables; the one for Pope Joan, and the other for whist. The
-whist-players were Mr. Pickwick and the old lady, Mr. Miller and the fat
+whist-players were Mr. [[Pickwick]] and the old lady, Mr. Miller and the fat
 gentleman. The round game comprised the rest of the company.
 
 The rubber was conducted with all that gravity of deportment and
@@ -148,5 +148,5 @@ table, on the other hand, was so boisterously merry as materially to
 interrupt the contemplations of Mr. Miller, who, not being quite so much
 absorbed as he ought to have been, contrived to commit various high
 crimes and misdemeanours, which excited the wrath of the fat gentleman
-to a very great extent, and called forth the good-humour of the old lady
+to a very great extent, and called forth the good-[[Humour|humour]] of the old lady
 in a proportionate degree.

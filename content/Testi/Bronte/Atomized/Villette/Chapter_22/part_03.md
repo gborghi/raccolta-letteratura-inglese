@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 22 (part 3)"
+title: "[[Villette]] — Chapter 22 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -20,21 +20,21 @@ Lucy, give me that letter—you don’t really care for it.”
 To this provocative speech I made no answer. Graham in mirthful mood
 must not be humoured too far. Just now there was a new sort of smile
 playing about his lips—very sweet, but it grieved me somehow—a new sort
-of light sparkling in his eyes: not hostile, but not reassuring. I rose
-to go—I bid him good-night a little sadly.
+of light sparkling in his eyes: not hostile, but not reassuring. I [[Rose|rose]]
+to go—I bid him good-[[Night|night]] a little sadly.
 
-His sensitiveness—that peculiar, apprehensive, detective faculty of
+His sensitiveness—that peculiar, apprehensive, [[Detective|detective]] faculty of
 his—felt in a moment the unspoken complaint—the scarce-thought
 reproach. He asked quietly if I was offended. I shook my head as
 implying a negative.
 
 “Permit me, then, to speak a little seriously to you before you go. You
 are in a highly nervous state. I feel sure from what is apparent in
-your look and manner, however well controlled, that whilst alone this
+your look and manner, however [[Well|well]] controlled, that whilst [[Alone|alone]] this
 evening in that dismal, perishing sepulchral garret—that dungeon under
 the leads, smelling of damp and mould, rank with phthisis and catarrh:
 a place you never ought to enter—that you saw, or _thought_ you saw,
-some appearance peculiarly calculated to impress the imagination. I
+some appearance peculiarly calculated to impress the [[Imagination|imagination]]. I
 know that you _are_ not, nor ever were, subject to material terrors,
 fears of robbers, &c.—I am not so sure that a visitation, bearing a
 spectral character, would not shake your very mind. Be calm now. This
@@ -49,13 +49,13 @@ though he has not grey hair.”
 “You will not laugh?”
 
 “Perhaps I may, to do you good: but not in scorn. Lucy, I feel as a
-friend towards you, though your timid nature is slow to trust.”
+friend towards you, though your timid [[Nature|nature]] is slow to trust.”
 
 He now looked like a friend: that indescribable smile and sparkle were
 gone; those formidable arched curves of lip, nostril, eyebrow, were
 depressed; repose marked his attitude—attention sobered his aspect. Won
 to confidence, I told him exactly what I had seen: ere now I had
-narrated to him the legend of the house—whiling away with that
+narrated to him the legend of the [[house]]—whiling away with that
 narrative an hour of a certain mild October afternoon, when he and I
 rode through Bois l’Etang.
 
@@ -79,7 +79,7 @@ start.”
 brain, and is now gone in there, and may glide out again at an hour and
 a day when I look not for her?”
 
-“I think it a case of spectral illusion: I fear, following on and
+“I think it a case of spectral illusion: I [[Fear|fear]], following on and
 resulting from long-continued mental conflict.”
 
 “Oh, Doctor John—I shudder at the thought of being liable to such an
@@ -91,23 +91,23 @@ No mockery in this world ever sounds to me so hollow as that of being
 told to _cultivate_ happiness. What does such advice mean? Happiness is
 not a potato, to be planted in mould, and tilled with manure. Happiness
 is a glory shining far down upon us out of Heaven. She is a divine dew
-which the soul, on certain of its summer mornings, feels dropping upon
+which the [[Soul|soul]], on certain of its [[Summer|summer]] mornings, feels dropping upon
 it from the amaranth bloom and golden fruitage of Paradise.
 
 “Cultivate happiness!” I said briefly to the doctor: “do _you_
 cultivate happiness? How do you manage?”
 
-“I am a cheerful fellow by nature: and then ill-luck has never dogged
+“I am a cheerful fellow by [[Nature|nature]]: and then ill-luck has never dogged
 me. Adversity gave me and my mother one passing scowl and brush, but we
 defied her, or rather laughed at her, and she went by.”.
 
 “There is no cultivation in all this.”
 
-“I do not give way to melancholy.”
+“I do not give way to [[Melancholy|melancholy]].”
 
 “Yes: I have seen you subdued by that feeling.”
 
-“About Ginevra Fanshawe—eh?”
+“About [[Ginevra Fanshawe]]—eh?”
 
 “Did she not sometimes make you miserable?”
 
@@ -126,7 +126,7 @@ gold on the spot just to see you snap your fingers. Try the manœuvre.”
 “If I were to bring Miss Fanshawe into your presence just now?”
 
 “I vow, Lucy, she should not move me: or, she should move me but by one
-thing—true, yes, and passionate love. I would accord forgiveness at no
+thing—true, yes, and passionate [[Love|love]]. I would accord [[Forgiveness|forgiveness]] at no
 less a price.”
 
 “Indeed! a smile of hers would have been a fortune to you a while
@@ -141,15 +141,15 @@ more than ease—a mood which was disdain of his past bondage.
 
 “Miss Fanshawe,” he pursued, “has led me through a phase of feeling
 which is over: I have entered another condition, and am now much
-disposed to exact love for love—passion for passion—and good measure of
+disposed to exact [[Love|love]] for [[Love|love]]—passion for passion—and good measure of
 it, too.”
 
-“Ah, Doctor! Doctor! you said it was your nature to pursue Love under
+“Ah, Doctor! Doctor! you said it was your [[Nature|nature]] to pursue [[Love]] under
 difficulties—to be charmed by a proud insensibility!”.
 
-He laughed, and answered, “My nature varies: the mood of one hour is
-sometimes the mockery of the next. Well, Lucy” (drawing on his gloves),
-“will the Nun come again to-night, think you?”
+He laughed, and answered, “My [[Nature|nature]] varies: the mood of one hour is
+sometimes the mockery of the next. [[Well]], Lucy” (drawing on his gloves),
+“will the Nun come again to-[[Night|night]], think you?”
 
 “I don’t think she will.”
 
@@ -170,23 +170,23 @@ least she had handsome eyes—bright and soft.”
 that shake of the hand, if she comes again. Will she stand _that_, do
 you think?”
 
-I thought it too kind and cordial for a ghost to stand: and so was the
-smile which matched it, and accompanied his “Good-night.”
+I thought it too kind and cordial for a [[Ghost|ghost]] to stand: and so was the
+smile which matched it, and accompanied his “Good-[[Night|night]].”
 
 And had there been anything in the garret? What did they discover? I
 believe, on the closest examination, their discoveries amounted to very
 little. They talked, at first, of the cloaks being disturbed; but
-Madame Beck told me afterwards she thought they hung much as usual: and
+[[Madame Beck]] told me afterwards she thought they hung much as usual: and
 as for the broken pane in the skylight, she affirmed that aperture was
 rarely without one or more panes broken or cracked: and besides, a
-heavy hail-storm had fallen a few days ago. Madame questioned me very
+heavy hail-[[Storm|storm]] had fallen a few days ago. Madame questioned me very
 closely as to what I had seen, but I only described an obscure figure
 clothed in black: I took care not to breathe the word “nun,” certain
-that this word would at once suggest to her mind an idea of romance and
+that this word would at once suggest to her mind an idea of [[Romance|romance]] and
 unreality. She charged me to say nothing on the subject to any servant,
 pupil, or teacher, and highly commended my discretion in coming to her
 private salle-à-manger, instead of carrying the tale of horror to the
 school refectory. Thus the subject dropped. I was left secretly and
-sadly to wonder, in my own mind, whether that strange thing was of this
-world, or of a realm beyond the grave; or whether indeed it was only
-the child of malady, and I of that malady the prey.
+sadly to [[Wonder|wonder]], in my own mind, whether that strange thing was of this
+world, or of a realm beyond the [[Grave|grave]]; or whether indeed it was only
+the [[Child|child]] of malady, and I of that malady the prey.

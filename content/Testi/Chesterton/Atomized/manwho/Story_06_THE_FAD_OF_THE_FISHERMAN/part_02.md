@@ -1,5 +1,5 @@
 ---
-title: "manwho — THE FAD OF THE FISHERMAN (part 2)"
+title: "[[manwho]] — THE FAD OF THE FISHERMAN (part 2)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/manwho-(Chesterton)"
@@ -16,21 +16,21 @@ tags:
 
 quality in all that watery landscape which perpetually reminded a
 
-traveler that the river was near. White gleams of water would shine
+traveler that the [[River|river]] was near. White gleams of [[Water|water]] would shine
 
 suddenly like swords or spears in the green thickets. And even in
 
-the garden itself, divided into courts and curtained with hedges and
+the [[Garden|garden]] itself, divided into courts and curtained with hedges and
 
-high garden trees, there hung everywhere in the air the music of
+high [[Garden|garden]] trees, there hung everywhere in the air the music of
 
-water. The first of the green courts which he entered appeared to be
+[[Water|water]]. The first of the green courts which he entered appeared to be
 
 a somewhat neglected croquet lawn, in which was a solitary young man
 
 playing croquet against himself. Yet he was not an enthusiast for
 
-the game, or even for the garden; and his sallow but well-featured
+the game, or even for the [[Garden|garden]]; and his sallow but [[Well|well]]-featured
 
 face looked rather sullen than otherwise. He was only one of those
 
@@ -38,7 +38,7 @@ young men who cannot support the burden of consciousness unless they
 
 are doing something, and whose conceptions of doing something are
 
-limited to a game of some kind. He was dark and well. dressed in a
+limited to a game of some kind. He was dark and [[Well|well]]. dressed in a
 
 light holiday fashion, and Fisher recognized him at once as a young
 
@@ -60,7 +60,7 @@ wanted to see. Has your chief come down yet?"
 
 yellow ball. "He's got a great speech to-morrow at Birmingham and
 
-he's going straight through to-night. He's motoring himself there;
+he's going straight through to-[[Night|night]]. He's motoring himself there;
 
 driving the car, I mean. It's the one thing he's really proud of."
 
@@ -78,7 +78,7 @@ the epigrams whispered to him by his brilliant secretary?"
 
 "I'm only too glad not to go trailing after him. He doesn't know a
 
-thing about maps or money or hotels or anything, and I have to dance
+thing about maps or money or hotels or anything, and I have to [[Dance|dance]]
 
 about like a courier. As for my uncle, as I'm supposed to come into
 
@@ -86,7 +86,7 @@ the estate, it's only decent to be here sometimes."
 
 
 
-"Very proper," replied the other.  "Well, I shall see you later on,"
+"Very proper," replied the other.  "[[Well]], I shall see you later on,"
 
 and, crossing the lawn, he passed out through a gap in the hedge.
 
@@ -94,11 +94,11 @@ and, crossing the lawn, he passed out through a gap in the hedge.
 
 He was walking across the lawn toward the landing stage on the
 
-river, and still felt all around him, under the dome of golden
+[[River|river]], and still felt all around him, under the dome of golden
 
 evening, an Old World savor and reverberation in that riverhaunted
 
-garden. The next square of turf which he crossed seemed at first
+[[Garden|garden]]. The next square of turf which he crossed seemed at first
 
 sight quite deserted, till he saw in the twilight of trees in one
 
@@ -112,9 +112,9 @@ Him also he hailed by name, and the man slipped to the ground and
 
 strolled forward. It seemed fated that he should feel something of
 
-the past in the accidents of that place, for the figure might well
+the past in the accidents of that place, for the figure might [[Well|well]]
 
-have been an early-Victorian ghost revisiting the ghosts of the
+have been an early-Victorian [[Ghost|ghost]] revisiting the [[Ghosts|ghosts]] of the
 
 croquet hoops and mallets. It was the figure of an elderly man with
 
@@ -130,7 +130,7 @@ hammock behind him. This was the Duke of Westmoreland, the relic of
 
 a family really some centuries old; and the antiquity was not
 
-heraldry but history. Nobody knew better than Fisher how rare such
+heraldry but [[history]]. Nobody knew better than Fisher how rare such
 
 noblemen are in fact, and how numerous in fiction. But whether the
 
@@ -154,15 +154,15 @@ hurry."
 
 
 
-"Nor have I, for that matter," replied the duke, with some pride. "I
+"Nor have I, for that matter," replied the duke, with some [[Pride|pride]]. "I
 
 never do. If there's one animal alive I loathe it's a valet. I
 
 learned to dress myself at an early age and was supposed to do it
 
-decently. I may be in my second childhood, but I've not go so far as
+decently. I may be in my second [[Childhood|childhood]], but I've not go so far as
 
-being dressed like a child."
+being dressed like a [[Child|child]]."
 
 
 
@@ -180,19 +180,19 @@ indifferently, and resumed the study of the Morning Post.
 
 
 
-Fisher made his way beyond the last green wall of the garden on to a
+Fisher made his way beyond the last green wall of the [[Garden|garden]] on to a
 
-sort of towing path looking on the river and a wooden island
+sort of towing path looking on the [[River|river]] and a wooden island
 
 opposite. There, indeed, he saw a lean, dark figure with a stoop
 
-almost like that of a vulture, a posture well known in the law
+almost like that of a vulture, a posture [[Well|well]] known in the law
 
 courts as that of Sir John Harker, the Attorney-General. His face
 
-was lined with headwork, for alone among the three idlers in the
+was lined with headwork, for [[Alone|alone]] among the three idlers in the
 
-garden he was a man who had made his own way; and round his bald
+[[Garden|garden]] he was a man who had made his own way; and round his bald
 
 brow and hollow temples clung dull red hair, quite flat, like plates
 

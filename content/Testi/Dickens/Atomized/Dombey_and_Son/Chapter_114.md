@@ -20,29 +20,29 @@ After a Lapse
 
 The sea had ebbed and flowed, through a whole year. Through a whole
 year, the winds and clouds had come and gone; the ceaseless work of
-Time had been performed, in storm and sunshine. Through a whole year,
+[[Time]] had been performed, in [[Storm|storm]] and sunshine. Through a whole year,
 the tides of human chance and change had set in their allotted courses.
-Through a whole year, the famous House of Dombey and Son had fought a
-fight for life, against cross accidents, doubtful rumours, unsuccessful
+Through a whole year, the famous [[house|House]] of Dombey and Son had fought a
+fight for life, against [[Cross|cross]] accidents, doubtful rumours, unsuccessful
 ventures, unpropitious times, and most of all, against the infatuation
 of its head, who would not contract its enterprises by a hair’s
-breadth, and would not listen to a word of warning that the ship he
-strained so hard against the storm, was weak, and could not bear it.
+breadth, and would not listen to a word of warning that the [[Ship|ship]] he
+strained so hard against the [[Storm|storm]], was weak, and could not bear it.
 
-The year was out, and the great House was down.
+The year was out, and the [[Great House|great House]] was down.
 
-One summer afternoon; a year, wanting some odd days, after the marriage
-in the City church; there was a buzz and whisper upon “Change of a
-great failure. A certain cold proud man, well known there, was not
+One [[Summer|summer]] afternoon; a year, wanting some odd days, after the [[Marriage|marriage]]
+in the [[City]] church; there was a buzz and whisper upon “Change of a
+great failure. A certain cold proud man, [[Well|well]] known there, was not
 there, nor was he represented there. Next day it was noised abroad that
-Dombey and Son had stopped, and next night there was a List of
+Dombey and Son had stopped, and next [[Night|night]] there was a List of
 Bankrupts published, headed by that name.
 
 The world was very busy now, in sooth, and had a deal to say. It was an
 innocently credulous and a much ill-used world. It was a world in which
 there was no other sort of bankruptcy whatever. There were no
 conspicuous people in it, trading far and wide on rotten banks of
-religion, patriotism, virtue, honour. There was no amount worth
+religion, patriotism, virtue, [[Honour|honour]]. There was no amount worth
 mentioning of mere paper in circulation, on which anybody lived pretty
 handsomely, promising to pay great sums of goodness with no effects.
 There were no shortcomings anywhere, in anything but money. The world
@@ -58,16 +58,16 @@ celebrity of the elopement and the events that followed it; and now he
 was made a more important man than ever, by the bankruptcy. Gliding
 from his bracket in the outer office where he now sat, watching the
 strange faces of accountants and others, who quickly superseded nearly
-all the old clerks, Mr Perch had but to show himself in the court
-outside, or, at farthest, in the bar of the King’s Arms, to be asked a
+all the old clerks, Mr Perch had but to show himself in the [[Court|court]]
+outside, or, at farthest, in the bar of the [[King]]’s Arms, to be asked a
 multitude of questions, almost certain to include that interesting
 question, what would he take to drink? Then would Mr Perch descant upon
 the hours of acute uneasiness he and Mrs Perch had suffered out at
 Balls Pond, when they first suspected “things was going wrong.” Then
 would Mr Perch relate to gaping listeners, in a low voice, as if the
-corpse of the deceased House were lying unburied in the next room, how
+corpse of the deceased [[house|House]] were lying unburied in the next room, how
 Mrs Perch had first come to surmise that things was going wrong by
-hearing him (Perch) moaning in his sleep, “twelve and ninepence in the
+hearing him (Perch) moaning in his [[Sleep|sleep]], “twelve and ninepence in the
 pound, twelve and ninepence in the pound!” Which act of somnambulism he
 supposed to have originated in the impression made upon him by the
 change in Mr Dombey’s face. Then would he inform them how he had once
@@ -75,26 +75,26 @@ said, “Might I make so bold as ask, Sir, are you unhappy in your mind?”
 and how Mr Dombey had replied, “My faithful Perch—but no, it cannot
 be!” and with that had struck his hand upon his forehead, and said,
 “Leave me, Perch!” Then, in short, would Mr Perch, a victim to his
-position, tell all manner of lies; affecting himself to tears by those
-that were of a moving nature, and really believing that the inventions
-of yesterday had, on repetition, a sort of truth about them today.
+position, tell all manner of lies; affecting himself to [[Tears|tears]] by those
+that were of a moving [[Nature|nature]], and really believing that the inventions
+of yesterday had, on repetition, a sort of [[Truth|truth]] about them today.
 
 Mr Perch always closed these conferences by meekly remarking, that, of
 course, whatever his suspicions might have been (as if he had ever had
 any!) it wasn’t for _him_ to betray his trust, was it? Which sentiment
 (there never being any creditors present) was received as doing great
-honour to his feelings. Thus, he generally brought away a soothed
-conscience and left an agreeable impression behind him, when he
+[[Honour|honour]] to his feelings. Thus, he generally brought away a soothed
+[[Conscience|conscience]] and left an agreeable impression behind him, when he
 returned to his bracket: again to sit watching the strange faces of the
 accountants and others, making so free with the great mysteries, the
 Books; or now and then to go on tiptoe into Mr Dombey’s empty room, and
-stir the fire; or to take an airing at the door, and have a little more
+stir the [[Fire|fire]]; or to take an airing at the door, and have a little more
 doleful chat with any straggler whom he knew; or to propitiate, with
 various small attentions, the head accountant: from whom Mr Perch had
-expectations of a messengership in a Fire Office, when the affairs of
-the House should be wound up.
+expectations of a messengership in a [[Fire]] Office, when the affairs of
+the [[house|House]] should be wound up.
 
-To Major Bagstock, the bankruptcy was quite a calamity. The Major was
+To [[Major Bagstock]], the bankruptcy was quite a calamity. The Major was
 not a sympathetic character—his attention being wholly concentrated on
 J. B.—nor was he a man subject to lively emotions, except in the
 physical regards of gasping and choking. But he had so paraded his
@@ -111,13 +111,13 @@ was chasing that vagabond up and down France, J. Bagstock would have
 pooh-pooh’d you—would have pooh-pooh’d you, Sir, by the Lord! That Joe
 had been deceived, Sir, taken in, hoodwinked, blindfolded, but was
 broad awake again and staring; insomuch, Sir, that if Joe’s father were
-to rise up from the grave to-morrow, he wouldn’t trust the old blade
+to rise up from the [[Grave|grave]] to-morrow, he wouldn’t trust the old blade
 with a penny piece, but would tell him that his son Josh was too old a
 soldier to be done again, Sir. That he was a suspicious, crabbed,
 cranky, used-up, J. B. infidel, Sir; and that if it were consistent
 with the dignity of a rough and tough old Major, of the old school, who
-had had the honour of being personally known to, and commended by,
-their late Royal Highnesses the Dukes of Kent and York, to retire to a
+had had the [[Honour|honour]] of being personally known to, and commended by,
+their late Royal Highnesses the Dukes of [[Kent]] and York, to retire to a
 tub and live in it, by Gad! Sir, he’d have a tub in Pall Mall
 to-morrow, to show his contempt for mankind!
 
@@ -125,8 +125,8 @@ Of all this, and many variations of the same tune, the Major would
 deliver himself with so many apoplectic symptoms, such rollings of his
 head, and such violent growls of ill usage and resentment, that the
 younger members of the club surmised he had invested money in his
-friend Dombey’s House, and lost it; though the older soldiers and
-deeper dogs, who knew Joe better, wouldn’t hear of such a thing. The
+friend Dombey’s [[house|House]], and lost it; though the older soldiers and
+deeper [[dogs]], who knew Joe better, wouldn’t hear of such a thing. The
 unfortunate Native, expressing no opinion, suffered dreadfully; not
 merely in his moral feelings, which were regularly fusilladed by the
 Major every hour in the day, and riddled through and through, but in
@@ -139,49 +139,49 @@ Mrs Chick had three ideas upon the subject of the terrible reverse. The
 first was that she could not understand it. The second, that her
 brother had not made an effort. The third, that if she had been invited
 to dinner on the day of that first party, it never would have happened;
-and that she had said so, at the time.
+and that she had said so, at the [[Time|time]].
 
 Nobody’s opinion stayed the misfortune, lightened it, or made it
-heavier. It was understood that the affairs of the House were to be
+heavier. It was understood that the affairs of the [[house|House]] were to be
 wound up as they best could be; that Mr Dombey freely resigned
 everything he had, and asked for no favour from anyone. That any
 resumption of the business was out of the question, as he would listen
 to no friendly negotiation having that compromise in view; that he had
 relinquished every post of trust or distinction he had held, as a man
 respected among merchants; that he was dying, according to some; that
-he was going melancholy mad, according to others; that he was a broken
+he was going [[Melancholy|melancholy]] mad, according to others; that he was a broken
 man, according to all.
 
 The clerks dispersed after holding a little dinner of condolence among
 themselves, which was enlivened by comic singing, and went off
 admirably. Some took places abroad, and some engaged in other Houses at
-home; some looked up relations in the country, for whom they suddenly
+[[Home|home]]; some looked up relations in the country, for whom they suddenly
 remembered they had a particular affection; and some advertised for
-employment in the newspapers. Mr Perch alone remained of all the late
+employment in the newspapers. Mr Perch [[Alone|alone]] remained of all the late
 establishment, sitting on his bracket looking at the accountants, or
 starting off it, to propitiate the head accountant, who was to get him
-into the Fire Office. The Counting House soon got to be dirty and
-neglected. The principal slipper and dogs’ collar seller, at the corner
-of the court, would have doubted the propriety of throwing up his
+into the [[Fire]] Office. The Counting [[house|House]] soon got to be dirty and
+neglected. The principal slipper and [[dogs]]’ collar seller, at the corner
+of the [[Court|court]], would have doubted the propriety of throwing up his
 forefinger to the brim of his hat, any more, if Mr Dombey had appeared
 there now; and the ticket porter, with his hands under his white apron,
-moralised good sound morality about ambition, which (he observed) was
+moralised good sound [[morality]] about [[Ambition|ambition]], which (he observed) was
 not, in his opinion, made to rhyme to perdition, for nothing.
 
 Mr Morfin, the hazel-eyed bachelor, with the hair and whiskers
 sprinkled with grey, was perhaps the only person within the atmosphere
-of the House—its head, of course, excepted—who was heartily and deeply
+of the [[house|House]]—its head, of course, excepted—who was heartily and deeply
 affected by the disaster that had befallen it. He had treated Mr Dombey
 with due respect and deference through many years, but he had never
 disguised his natural character, or meanly truckled to him, or pampered
 his master passion for the advancement of his own purposes. He had,
-therefore, no self-disrespect to avenge; no long-tightened springs to
+therefore, no [[Self|self]]-disrespect to avenge; no long-tightened springs to
 release with a quick recoil. He worked early and late to unravel
 whatever was complicated or difficult in the records of the
-transactions of the House; was always in attendance to explain whatever
-required explanation; sat in his old room sometimes very late at night,
+transactions of the [[house|House]]; was always in attendance to explain whatever
+required explanation; sat in his old room sometimes very late at [[Night|night]],
 studying points by his mastery of which he could spare Mr Dombey the
-pain of being personally referred to; and then would go home to
+[[Pain|pain]] of being personally referred to; and then would go [[Home|home]] to
 Islington, and calm his mind by producing the most dismal and forlorn
 sounds out of his violoncello before going to bed.
 
@@ -197,7 +197,7 @@ The violoncello stopped immediately; and the performer, laying it on
 the sofa with great tenderness and care, made a sign that the lady was
 to come in. He followed directly, and met Harriet Carker on the stair.
 
-“Alone!” he said, “and John here this morning! Is there anything the
+“[[Alone]]!” he said, “and John here this morning! Is there anything the
 matter, my dear? But no,” he added, “your face tells quite another
 story.”
 
@@ -207,10 +207,10 @@ answered.
 “It is a very pleasant one,” said he; “and, if selfish, a novelty too,
 worth seeing in you. But I don’t believe that.”
 
-He had placed a chair for her by this time, and sat down opposite; the
+He had placed a chair for her by this [[Time|time]], and sat down opposite; the
 violoncello lying snugly on the sofa between them.
 
-“You will not be surprised at my coming alone, or at John’s not having
+“You will not be surprised at my coming [[Alone|alone]], or at John’s not having
 told you I was coming,” said Harriet; “and you will believe that, when
 I tell you why I have come. May I do so now?”
 
@@ -222,7 +222,7 @@ He pointed to the violoncello lying on the sofa, and said “I have been,
 all day. Here’s my witness. I have been confiding all my cares to it. I
 wish I had none but my own to tell.”
 
-“Is the House at an end?” said Harriet, earnestly.
+“Is the [[house|House]] at an end?” said Harriet, earnestly.
 
 “Completely at an end.”
 
@@ -236,7 +236,7 @@ involuntary surprise: and said again:
 
 “Never. You remember what I told you. It has been, all along,
 impossible to convince him; impossible to reason with him; sometimes,
-impossible even to approach him. The worst has happened; and the House
+impossible even to approach him. The worst has happened; and the [[house|House]]
 has fallen, never to be built up any more.”
 
 “And Mr Dombey, is he personally ruined?”
@@ -253,16 +253,16 @@ his head, said, after a pause:
 
 “The extent of Mr Dombey’s resources is not accurately within my
 knowledge; but though they are doubtless very large, his obligations
-are enormous. He is a gentleman of high honour and integrity. Any man
+are enormous. He is a gentleman of high [[Honour|honour]] and integrity. Any man
 in his position could, and many a man in his position would, have saved
 himself, by making terms which would have very slightly, almost
 insensibly, increased the losses of those who had had dealings with
 him, and left him a remnant to live upon. But he is resolved on payment
 to the last farthing of his means. His own words are, that they will
-clear, or nearly clear, the House, and that no one can lose much. Ah,
+clear, or nearly clear, the [[house|House]], and that no one can lose much. Ah,
 Miss Harriet, it would do us no harm to remember oftener than we do,
-that vices are sometimes only virtues carried to excess! His pride
-shows well in this.”
+that vices are sometimes only virtues carried to excess! His [[Pride|pride]]
+shows [[Well|well]] in this.”
 
 She heard him with little or no change in her expression, and with a
 divided attention that showed her to be busy with something in her own
@@ -271,19 +271,19 @@ mind. When he was silent, she asked him hurriedly:
 “Have you seen him lately?”
 
 “No one sees him. When this crisis of his affairs renders it necessary
-for him to come out of his house, he comes out for the occasion, and
-again goes home, and shuts himself up, and will see no one. He has
+for him to come out of his [[house]], he comes out for the occasion, and
+again goes [[Home|home]], and shuts himself up, and will see no one. He has
 written me a letter, acknowledging our past connexion in higher terms
 than it deserved, and parting from me. I am delicate of obtruding
 myself upon him now, never having had much intercourse with him in
 better times; but I have tried to do so. I have written, gone there,
 entreated. Quite in vain.”
 
-He watched her, as in the hope that she would testify some greater
+He watched her, as in the [[Hope|hope]] that she would testify some greater
 concern than she had yet shown; and spoke gravely and feelingly, as if
 to impress her the more; but there was no change in her.
 
-“Well, well, Miss Harriet,” he said, with a disappointed air, “this is
+“[[Well]], [[Well|well]], Miss Harriet,” he said, with a disappointed air, “this is
 not to the purpose. You have not come here to hear this. Some other and
 pleasanter theme is in your mind. Let it be in mine, too, and we shall
 talk upon more equal terms. Come!”
@@ -295,7 +295,7 @@ these great changes? Mr Dombey, whom he served so many years—you know
 upon what terms—reduced, as you describe; and we quite rich!”
 
 Good, true face, as that face of hers was, and pleasant as it had been
-to him, Mr Morfin, the hazel-eyed bachelor, since the first time he had
+to him, Mr Morfin, the hazel-eyed bachelor, since the first [[Time|time]] he had
 ever looked upon it, it pleased him less at that moment, lighted with a
 ray of exultation, than it had ever pleased him before.
 
@@ -304,10 +304,10 @@ black dress, “through what means our circumstances changed. You have
 not forgotten that our brother James, upon that dreadful day, left no
 will, no relations but ourselves.”
 
-The face was pleasanter to him now, though it was pale and melancholy,
+The face was pleasanter to him now, though it was pale and [[Melancholy|melancholy]],
 than it had been a moment since. He seemed to breathe more cheerily.
 
-“You know,” she said, “our history, the history of both my brothers, in
+“You know,” she said, “our [[history]], the [[history]] of both my brothers, in
 connexion with the unfortunate, unhappy gentleman, of whom you have
 spoken so truly. You know how few our wants are—John’s and mine—and
 what little use we have for money, after the life we have led together
@@ -340,21 +340,21 @@ restitution is to do it secretly, unknown, and unapproved of: that only
 a very small part of the inheritance may be reserved to us, until Mr
 Dombey shall have possessed the interest of the rest for the remainder
 of his life; that you will keep our secret, faithfully—but that I am
-sure you will; and that, from this time, it may seldom be whispered,
+sure you will; and that, from this [[Time|time]], it may seldom be whispered,
 even between you and me, but may live in my thoughts only as a new
-reason for thankfulness to Heaven, and joy and pride in my brother.”
+reason for thankfulness to Heaven, and joy and [[Pride|pride]] in my brother.”
 
 Such a look of exultation there may be on Angels’ faces when the one
 repentant sinner enters Heaven, among ninety-nine just men. It was not
-dimmed or tarnished by the joyful tears that filled her eyes, but was
+dimmed or tarnished by the joyful [[Tears|tears]] that filled her eyes, but was
 the brighter for them.
 
-“My dear Harriet,” said Mr Morfin, after a silence, “I was not prepared
+“My dear Harriet,” said Mr Morfin, after a [[Silence|silence]], “I was not prepared
 for this. Do I understand you that you wish to make your own part in
-the inheritance available for your good purpose, as well as John’s?”
+the inheritance available for your good purpose, as [[Well|well]] as John’s?”
 
 “Oh, yes,” she returned “When we have shared everything together for so
-long a time, and have had no care, hope, or purpose apart, could I bear
+long a [[Time|time]], and have had no care, [[Hope|hope]], or purpose apart, could I bear
 to be excluded from my share in this? May I not urge a claim to be my
 brother’s partner and companion to the last?”
 
@@ -362,10 +362,10 @@ brother’s partner and companion to the last?”
 
 “We may rely on your friendly help?” she said. “I knew we might!”
 
-“I should be a worse man than,—than I hope I am, or would willingly
+“I should be a worse man than,—than I [[Hope|hope]] I am, or would willingly
 believe myself, if I could not give you that assurance from my heart
-and soul. You may, implicitly. Upon my honour, I will keep your secret.
-And if it should be found that Mr Dombey is so reduced as I fear he
+and [[Soul|soul]]. You may, implicitly. Upon my [[Honour|honour]], I will keep your secret.
+And if it should be found that Mr Dombey is so reduced as I [[Fear|fear]] he
 will be, acting on a determination that there seem to be no means of
 influencing, I will assist you to accomplish the design, on which you
 and John are jointly resolved.”
@@ -377,21 +377,21 @@ of any sacrifice that you can make now—above all, of any sacrifice of
 mere money—would be idle and presumptuous. To put before you any appeal
 to reconsider your purpose or to set narrow limits to it, would be, I
 feel, not less so. I have no right to mar the great end of a great
-history, by any obtrusion of my own weak self. I have every right to
+[[history]], by any obtrusion of my own weak [[Self|self]]. I have every right to
 bend my head before what you confide to me, satisfied that it comes
 from a higher and better source of inspiration than my poor worldly
 knowledge. I will say only this: I am your faithful steward; and I
 would rather be so, and your chosen friend, than I would be anybody in
 the world, except yourself.”
 
-She thanked him again, cordially, and wished him good-night.
+She thanked him again, cordially, and wished him good-[[Night|night]].
 
-“Are you going home?” he said. “Let me go with you.”
+“Are you going [[Home|home]]?” he said. “Let me go with you.”
 
-“Not tonight. I am not going home now; I have a visit to make alone.
+“Not tonight. I am not going [[Home|home]] now; I have a visit to make [[Alone|alone]].
 Will you come to-morrow?”
 
-“Well, well,” said he, “I’ll come to-morrow. In the meantime, I’ll
+“[[Well]], [[Well|well]],” said he, “I’ll come to-morrow. In the meantime, I’ll
 think of this, and how we can best proceed. And perhaps I’ll think of
 it, dear Harriet, and—and—think of me a little in connexion with it.”
 
@@ -402,7 +402,7 @@ creatures of habit, and it was a sorrowful habit to be an old bachelor.
 
 The violoncello lying on the sofa between the two chairs, he took it
 up, without putting away the vacant chair, and sat droning on it, and
-slowly shaking his head at the vacant chair, for a long, long time. The
+slowly shaking his head at the vacant chair, for a long, long [[Time|time]]. The
 expression he communicated to the instrument at first, though
 monstrously pathetic and bland, was nothing to the expression he
 communicated to his own face, and bestowed upon the empty chair: which
@@ -418,19 +418,19 @@ up on end in the sofa corner, big with the latent harmony of a whole
 foundry full of harmonious blacksmiths, seemed to ogle the empty chair
 out of its crooked eyes, with unutterable intelligence.
 
-When Harriet left the house, the driver of her hired coach, taking a
+When Harriet left the [[house]], the driver of her hired coach, taking a
 course that was evidently no new one to him, went in and out by
 bye-ways, through that part of the suburbs, until he arrived at some
 open ground, where there were a few quiet little old houses standing
-among gardens. At the garden-gate of one of these he stopped, and
+among gardens. At the [[Garden|garden]]-gate of one of these he stopped, and
 Harriet alighted.
 
 Her gentle ringing at the bell was responded to by a dolorous-looking
 woman, of light complexion, with raised eyebrows, and head drooping on
 one side, who curtseyed at sight of her, and conducted her across the
-garden to the house.
+[[Garden|garden]] to the [[house]].
 
-“How is your patient, nurse, tonight?” said Harriet.
+“How is your patient, [[Nurse|nurse]], tonight?” said Harriet.
 
 “In a poor way, Miss, I am afraid. Oh how she do remind me, sometimes,
 of my Uncle’s Betsey Jane!” returned the woman of the light complexion,
@@ -439,12 +439,12 @@ in a sort of doleful rapture.
 “In what respect?” asked Harriet.
 
 “Miss, in all respects,” replied the other, “except that she’s grown
-up, and Betsey Jane, when at death’s door, was but a child.”
+up, and Betsey Jane, when at [[Death|death]]’s door, was but a [[Child|child]].”
 
 “But you have told me she recovered,” observed Harriet mildly; “so
-there is the more reason for hope, Mrs Wickam.”
+there is the more reason for [[Hope|hope]], Mrs Wickam.”
 
-“Ah, Miss, hope is an excellent thing for such as has the spirits to
+“Ah, Miss, [[Hope|hope]] is an excellent thing for such as has the spirits to
 bear it!” said Mrs Wickam, shaking her head. “My own spirits is not
 equal to it, but I don’t owe it any grudge. I envys them that is so
 blest!”
@@ -452,29 +452,29 @@ blest!”
 “You should try to be more cheerful,” remarked Harriet.
 
 “Thank you, Miss, I’m sure,” said Mrs Wickam grimly. “If I was so
-inclined, the loneliness of this situation—you’ll excuse my speaking so
+inclined, the [[Loneliness|loneliness]] of this situation—you’ll excuse my speaking so
 free—would put it out of my power, in four and twenty hours; but I
 ain’t at all. I’d rather not. The little spirits that I ever had, I was
 bereaved of at Brighton some few years ago, and I think I feel myself
 the better for it.”
 
-In truth, this was the very Mrs Wickam who had superseded Mrs Richards
-as the nurse of little Paul, and who considered herself to have gained
+In [[Truth|truth]], this was the very Mrs Wickam who had superseded Mrs Richards
+as the [[Nurse|nurse]] of little Paul, and who considered herself to have gained
 the loss in question, under the roof of the amiable Pipchin. The
 excellent and thoughtful old system, hallowed by long prescription,
 which has usually picked out from the rest of mankind the most dreary
 and uncomfortable people that could possibly be laid hold of, to act as
 instructors of youth, finger-posts to the virtues, matrons, monitors,
 attendants on sick beds, and the like, had established Mrs Wickam in
-very good business as a nurse, and had led to her serious qualities
+very good business as a [[Nurse|nurse]], and had led to her serious qualities
 being particularly commended by an admiring and numerous connexion.
 
 Mrs Wickam, with her eyebrows elevated, and her head on one side,
 lighted the way upstairs to a clean, neat chamber, opening on another
 chamber dimly lighted, where there was a bed. In the first room, an old
-woman sat mechanically staring out at the open window, on the darkness.
-In the second, stretched upon the bed, lay the shadow of a figure that
-had spurned the wind and rain, one wintry night; hardly to be
+woman sat mechanically staring out at the open [[Window|window]], on the darkness.
+In the second, stretched upon the bed, lay the [[Shadow|shadow]] of a figure that
+had spurned the [[Wind|wind]] and rain, one wintry [[Night|night]]; hardly to be
 recognised now, but by the long black hair that showed so very black
 against the colourless face, and all the white things about it.
 
@@ -499,23 +499,23 @@ position.
 worse today, is but a day’s difference—perhaps not so much.”
 
 Mrs Wickam, as a serious character, expressed her approval with a
-groan; and having made some cold dabs at the bottom of the bedclothes,
+groan; and having made some cold dabs at the [[Bottom|bottom]] of the bedclothes,
 as feeling for the patient’s feet and expecting to find them stony;
 went clinking among the medicine bottles on the table, as who should
 say, “while we are here, let us repeat the mixture as before.”
 
 “No,” said Alice, whispering to her visitor, “evil courses, and
-remorse, travel, want, and weather, storm within, and storm without,
+remorse, travel, want, and weather, [[Storm|storm]] within, and [[Storm|storm]] without,
 have worn my life away. It will not last much longer.
 
 She drew the hand up as she spoke, and laid her face against it.
 
 “I lie here, sometimes, thinking I should like to live until I had had
-a little time to show you how grateful I could be! It is a weakness,
+a little [[Time|time]] to show you how grateful I could be! It is a weakness,
 and soon passes. Better for you as it is. Better for me!”
 
 How different her hold upon the hand, from what it had been when she
-took it by the fireside on the bleak winter evening! Scorn, rage,
+took it by the fireside on the bleak [[Winter|winter]] evening! Scorn, rage,
 defiance, recklessness, look here! This is the end.
 
 Mrs Wickam having clinked sufficiently among the bottles, now produced
@@ -523,8 +523,8 @@ the mixture. Mrs Wickam looked hard at her patient in the act of
 drinking, screwed her mouth up tight, her eyebrows also, and shook her
 head, expressing that tortures shouldn’t make her say it was a hopeless
 case. Mrs Wickam then sprinkled a little cooling-stuff about the room,
-with the air of a female grave-digger, who was strewing ashes on ashes,
-dust on dust—for she was a serious character—and withdrew to partake of
+with the air of a female [[Grave|grave]]-digger, who was strewing ashes on ashes,
+[[Dust|dust]] on [[Dust|dust]]—for she was a serious character—and withdrew to partake of
 certain funeral baked meats downstairs.
 
 “How long is it,” asked Alice, “since I went to you and told you what I
@@ -547,8 +547,8 @@ lying as before, with the hand against her face, asked to have her
 mother called.
 
 Harriet called to her more than once, but the old woman was so absorbed
-looking out at the open window on the darkness, that she did not hear.
-It was not until Harriet went to her and touched her, that she rose up,
+looking out at the open [[Window|window]] on the darkness, that she did not hear.
+It was not until Harriet went to her and touched her, that she [[Rose|rose]] up,
 and came.
 
 “Mother,” said Alice, taking the hand again, and fixing her lustrous
@@ -587,25 +587,25 @@ contradicted her—“my daughter has been turned away from, and cast out,
 but she could boast relationship to proud folks too, if she chose. Ah!
 To proud folks! There’s relationship without your clergy and your
 wedding rings—they may make it, but they can’t break it—and my
-daughter’s well related. Show me Mrs Dombey, and I’ll show you my
+daughter’s [[Well|well]] related. Show me Mrs Dombey, and I’ll show you my
 Alice’s first cousin.”
 
 Harriet glanced from the old woman to the lustrous eyes intent upon her
 face, and derived corroboration from them.
 
 “What!” cried the old woman, her nodding head bridling with a ghastly
-vanity. “Though I am old and ugly now,—much older by life and habit
+[[Vanity|vanity]]. “Though I am old and ugly now,—much older by life and habit
 than years though,—I was once as young as any. Ah! as pretty too, as
-many! I was a fresh country wench in my time, darling,” stretching out
+many! I was a fresh country wench in my [[Time|time]], darling,” stretching out
 her arm to Harriet, across the bed, “and looked it, too. Down in my
 country, Mrs Dombey’s father and his brother were the gayest gentlemen
-and the best-liked that came a visiting from London—they have long been
+and the best-liked that came a visiting from [[London]]—they have long been
 dead, though! Lord, Lord, this long while! The brother, who was my
 Ally’s father, longest of the two.”
 
 She raised her head a little, and peered at her daughter’s face; as if
 from the remembrance of her own youth, she had flown to the remembrance
-of her child’s. Then, suddenly, she laid her face down on the bed, and
+of her [[Child|child]]’s. Then, suddenly, she laid her face down on the bed, and
 shut her head up in her hands and arms.
 
 “They were as like,” said the old woman, without looking up, as you
@@ -629,7 +629,7 @@ returned, and creeping up to Harriet, said:
 
 “That’s what Alice bade me tell you, deary. That’s all. I found it out
 when I began to ask who she was, and all about her, away in
-Warwickshire there, one summer-time. Such relations was no good to me,
+Warwickshire there, one [[Summer|summer]]-[[Time|time]]. Such relations was no good to me,
 then. They wouldn’t have owned me, and had nothing to give me. I should
 have asked ’em, maybe, for a little money, afterwards, if it hadn’t
 been for my Alice; she’d a’most have killed me, if I had, I think. She
@@ -643,7 +643,7 @@ burst of imbecile lamentation in which it ended; worse than the doting
 air with which she sat down in her old seat, and stared out at the
 darkness.
 
-The eyes of Alice had all this time been fixed on Harriet, whose hand
+The eyes of Alice had all this [[Time|time]] been fixed on Harriet, whose hand
 she had never released. She said now:
 
 “I have felt, lying here, that I should like you to know this. It might
@@ -653,8 +653,8 @@ up with the belief that duty had not been done to me, and that as the
 seed was sown, the harvest grew. I somehow made it out that when ladies
 had bad homes and mothers, they went wrong in their way, too; but that
 their way was not so foul a one as mine, and they had need to bless God
-for it. That is all past. It is like a dream, now, which I cannot quite
-remember or understand. It has been more and more like a dream, every
+for it. That is all past. It is like [[A Dream|a dream]], now, which I cannot quite
+remember or understand. It has been more and more like [[A Dream|a dream]], every
 day, since you began to sit here, and to read to me. I only tell it
 you, as I can recollect it. Will you read to me a little more?”
 
@@ -672,14 +672,14 @@ words in your kind face.”
 
 Harriet complied and read—read the eternal book for all the weary, and
 the heavy-laden; for all the wretched, fallen, and neglected of this
-earth—read the blessed history, in which the blind lame palsied beggar,
+earth—read the blessed [[history]], in which the blind lame palsied beggar,
 the criminal, the woman stained with shame, the shunned of all our
-dainty clay, has each a portion, that no human pride, indifference, or
+dainty clay, has each a portion, that no human [[Pride|pride]], indifference, or
 sophistry, through all the ages that this world shall last, can take
 away, or by the thousandth atom of a grain reduce—read the ministry of
 Him who, through the round of human life, and all its hopes and griefs,
-from birth to death, from infancy to age, had sweet compassion for, and
-interest in, its every scene and stage, its every suffering and sorrow.
+from birth to [[Death|death]], from infancy to age, had sweet compassion for, and
+interest in, its every scene and stage, its every [[Suffering|suffering]] and sorrow.
 
 “I shall come,” said Harriet, when she shut the book, “very early in
 the morning.”
@@ -694,6 +694,6 @@ They never turned away. She laid her hand upon her breast, murmuring
 the sacred name that had been read to her; and life passed from her
 face, like light removed.
 
-Nothing lay there, any longer, but the ruin of the mortal house on
+Nothing lay there, any longer, but the ruin of the mortal [[house]] on
 which the rain had beaten, and the black hair that had fluttered in the
-wintry wind.
+wintry [[Wind|wind]].

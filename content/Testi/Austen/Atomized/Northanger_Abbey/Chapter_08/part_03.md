@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 7 (part 3)"
+title: "[[Northanger Abbey]] — Chapter 7 (part 3)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -26,11 +26,11 @@ consequence was that, when the two Morlands, after sitting an hour with
 
 the Thorpes, set off to walk together to Mr. Allen’s, and James, as the
 
-door was closed on them, said, “Well, Catherine, how do you like my
+door was closed on them, said, “[[Well]], Catherine, how do you like my
 
 friend Thorpe?” instead of answering, as she probably would have done,
 
-had there been no friendship and no flattery in the case, “I do not
+had there been no [[Friendship|friendship]] and no flattery in the case, “I do not
 
 like him at all,” she directly replied, “I like him very much; he seems
 
@@ -46,7 +46,7 @@ the rest of the family?”
 
 
 
-“Very, very much indeed: Isabella particularly.”
+“Very, very much indeed: [[Isabella]] particularly.”
 
 
 
@@ -66,7 +66,7 @@ proud of.”
 
 
 
-“Indeed I am,” she replied; “I love her exceedingly, and am delighted
+“Indeed I am,” she replied; “I [[Love|love]] her exceedingly, and am delighted
 
 to find that you like her too. You hardly mentioned anything of her
 
@@ -74,7 +74,7 @@ when you wrote to me after your visit there.”
 
 
 
-“Because I thought I should soon see you myself. I hope you will be a
+“Because I thought I should soon see you myself. I [[Hope|hope]] you will be a
 
 great deal together while you are in Bath. She is a most amiable girl;
 
@@ -94,9 +94,9 @@ girl in Bath.”
 
 “I dare say he does; and I do not know any man who is a better judge of
 
-beauty than Mr. Allen. I need not ask you whether you are happy here,
+[[Beauty|beauty]] than Mr. Allen. I need not ask you whether you are happy here,
 
-my dear Catherine; with such a companion and friend as Isabella Thorpe,
+my dear Catherine; with such a companion and friend as [[Isabella Thorpe]],
 
 it would be impossible for you to be otherwise; and the Allens, I am
 
@@ -112,11 +112,11 @@ on purpose to see _me_.”
 
 
 
-James accepted this tribute of gratitude, and qualified his conscience
+James accepted this tribute of gratitude, and qualified his [[Conscience|conscience]]
 
 for accepting it too, by saying with perfect sincerity, “Indeed,
 
-Catherine, I love you dearly.”
+Catherine, I [[Love|love]] you dearly.”
 
 
 
@@ -134,17 +134,17 @@ Allen, invited by the former to dine with them, and summoned by the
 
 latter to guess the price and weigh the merits of a new muff and
 
-tippet. A pre-engagement in Edgar’s Buildings prevented his accepting
+tippet. A pre-engagement in [[Edgar]]’s Buildings prevented his accepting
 
 the invitation of one friend, and obliged him to hurry away as soon as
 
-he had satisfied the demands of the other. The time of the two parties
+he had satisfied the demands of the other. The [[Time|time]] of the two parties
 
 uniting in the Octagon Room being correctly adjusted, Catherine was
 
 then left to the luxury of a raised, restless, and frightened
 
-imagination over the pages of Udolpho, lost from all worldly concerns
+[[Imagination|imagination]] over the pages of Udolpho, lost from all worldly concerns
 
 of dressing and dinner, incapable of soothing Mrs. Allen’s fears on the
 

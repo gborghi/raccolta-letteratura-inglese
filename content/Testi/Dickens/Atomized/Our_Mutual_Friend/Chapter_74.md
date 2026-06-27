@@ -19,25 +19,25 @@ Chapter 15
 WHAT WAS CAUGHT IN THE TRAPS THAT WERE SET
 
 
-How Bradley Headstone had been racked and riven in his mind since the
-quiet evening when by the river-side he had risen, as it were, out of
+How [[Bradley Headstone]] had been racked and riven in his mind since the
+quiet evening when by the [[River|river]]-side he had risen, as it were, out of
 the ashes of the Bargeman, none but he could have told. Not even he
 could have told, for such misery can only be felt.
 
 First, he had to bear the combined weight of the knowledge of what he
 had done, of that haunting reproach that he might have done it so much
 better, and of the dread of discovery. This was load enough to crush
-him, and he laboured under it day and night. It was as heavy on him in
-his scanty sleep, as in his red-eyed waking hours. It bore him down with
+him, and he laboured under it day and [[Night|night]]. It was as heavy on him in
+his scanty [[Sleep|sleep]], as in his red-eyed waking hours. It bore him down with
 a dread unchanging monotony, in which there was not a moment’s variety.
 The overweighted beast of burden, or the overweighted slave, can for
 certain instants shift the physical load, and find some slight respite
-even in enforcing additional pain upon such a set of muscles or such
+even in enforcing additional [[Pain|pain]] upon such a set of muscles or such
 a limb. Not even that poor mockery of relief could the wretched man
 obtain, under the steady pressure of the infernal atmosphere into which
 he had entered.
 
-Time went by, and no visible suspicion dogged him; time went by, and
+[[Time]] went by, and no visible suspicion dogged him; [[Time|time]] went by, and
 in such public accounts of the attack as were renewed at intervals,
 he began to see Mr Lightwood (who acted as lawyer for the injured man)
 straying further from the fact, going wider of the issue, and evidently
@@ -50,14 +50,14 @@ light what he had brought about.
 
 For, then he saw that through his desperate attempt to separate those
 two for ever, he had been made the means of uniting them. That he had
-dipped his hands in blood, to mark himself a miserable fool and tool.
-That Eugene Wrayburn, for his wife’s sake, set him aside and left him to
-crawl along his blasted course. He thought of Fate, or Providence, or
+dipped his hands in [[Blood|blood]], to mark himself a miserable [[Fool|fool]] and tool.
+That [[Eugene Wrayburn]], for his wife’s sake, set him aside and left him to
+crawl along his blasted course. He thought of Fate, or [[Providence]], or
 be the directing Power what it might, as having put a fraud upon
 him—overreached him—and in his impotent mad rage bit, and tore, and
 had his fit.
 
-New assurance of the truth came upon him in the next few following days,
+New assurance of the [[Truth|truth]] came upon him in the next few following days,
 when it was put forth how the wounded man had been married on his bed,
 and to whom, and how, though always in a dangerous condition, he was a
 shade better. Bradley would far rather have been seized for his murder,
@@ -66,17 +66,17 @@ knowing why.
 
 But, not to be still further defrauded and overreached—which he would
 be, if implicated by Riderhood, and punished by the law for his abject
-failure, as though it had been a success—he kept close in his school
-during the day, ventured out warily at night, and went no more to the
+failure, as though it had been a [[success]]—he kept close in his school
+during the day, ventured out warily at [[Night|night]], and went no more to the
 railway station. He examined the advertisements in the newspapers for
 any sign that Riderhood acted on his hinted threat of so summoning him
 to renew their acquaintance, but found none. Having paid him handsomely
-for the support and accommodation he had had at the Lock House, and
+for the support and accommodation he had had at the Lock [[house|House]], and
 knowing him to be a very ignorant man who could not write, he began to
-doubt whether he was to be feared at all, or whether they need ever meet
+[[Doubt|doubt]] whether he was to be feared at all, or whether they need ever meet
 again.
 
-All this time, his mind was never off the rack, and his raging sense of
+All this [[Time|time]], his mind was never off the rack, and his raging sense of
 having been made to fling himself across the chasm which divided those
 two, and bridge it over for their coming together, never cooled down.
 This horrible condition brought on other fits. He could not have said
@@ -84,7 +84,7 @@ how many, or when; but he saw in the faces of his pupils that they had
 seen him in that state, and that they were possessed by a dread of his
 relapsing.
 
-One winter day when a slight fall of snow was feathering the sills and
+One [[Winter|winter]] day when a slight fall of [[Snow|snow]] was feathering the sills and
 frames of the schoolroom windows, he stood at his black board, crayon in
 hand, about to commence with a class; when, reading in the countenances
 of those boys that there was something wrong, and that they seemed in
@@ -95,7 +95,7 @@ Riderhood.
 
 He sat down on a stool which one of his boys put for him, and he had a
 passing knowledge that he was in danger of falling, and that his face
-was becoming distorted. But, the fit went off for that time, and he
+was becoming distorted. But, the fit went off for that [[Time|time]], and he
 wiped his mouth, and stood up again.
 
 ‘Beg your pardon, governor! By your leave!’ said Riderhood, knuckling
@@ -131,21 +131,21 @@ class, ‘but I do admire learning in others. I should dearly like to hear
 these here young folks read that there name off, from the writing.’
 
 The arms of the class went up. At the miserable master’s nod, the shrill
-chorus arose: ‘Bradley Headstone!’
+[[Chorus|chorus]] arose: ‘[[Bradley Headstone]]!’
 
 ‘No?’ cried Riderhood. ‘You don’t mean it? Headstone! Why, that’s in a
 churchyard. Hooroar for another turn!’
 
-Another tossing of arms, another nod, and another shrill chorus:
+Another tossing of arms, another nod, and another shrill [[Chorus|chorus]]:
 
-‘Bradley Headstone!’
+‘[[Bradley Headstone]]!’
 
 ‘I’ve got it now!’ said Riderhood, after attentively listening, and
 internally repeating: ‘Bradley. I see. Chris’en name, Bradley sim’lar to
 Roger which is my own. Eh? Fam’ly name, Headstone, sim’lar to Riderhood
 which is my own. Eh?’
 
-Shrill chorus. ‘Yes!’
+Shrill [[Chorus|chorus]]. ‘Yes!’
 
 ‘Might you be acquainted, learned governor,’ said Riderhood, ‘with a
 person of about your own heighth and breadth, and wot ’ud pull down in
@@ -167,7 +167,7 @@ With a half glance around him at his pupils, Bradley returned:
 Riderhood, with a laugh, ‘how could I suppose he’s here, when there’s
 nobody here but you, and me, and these young lambs wot you’re a learning
 on? But he is most excellent company, that man, and I want him to come
-and see me at my Lock, up the river.’
+and see me at my Lock, up the [[River|river]].’
 
 ‘I’ll tell him so.’
 
@@ -183,7 +183,7 @@ don’t come precious soon, I’ll look him up.’
 
 ‘Thankee. As I says a while ago,’ pursued Riderhood, changing his hoarse
 tone and leering round upon the class again, ‘though not a learned
-character my own self, I do admire learning in others, to be sure! Being
+character my own [[Self|self]], I do admire learning in others, to be sure! Being
 here and having met with your kind attention, Master, might I, afore I
 go, ask a question of these here young lambs of yourn?’
 
@@ -191,34 +191,34 @@ go, ask a question of these here young lambs of yourn?’
 dark look at the other, and speaking in his suppressed voice, ‘you may.’
 
 ‘Oh! It’s in the way of school!’ cried Riderhood. ‘I’ll pound it,
-Master, to be in the way of school. Wot’s the diwisions of water, my
-lambs? Wot sorts of water is there on the land?’
+Master, to be in the way of school. Wot’s the diwisions of [[Water|water]], my
+lambs? Wot sorts of [[Water|water]] is there on the land?’
 
-Shrill chorus: ‘Seas, rivers, lakes, and ponds.’
+Shrill [[Chorus|chorus]]: ‘Seas, rivers, lakes, and ponds.’
 
 ‘Seas, rivers, lakes, and ponds,’ said Riderhood. ‘They’ve got all the
 lot, Master! Blowed if I shouldn’t have left out lakes, never having
 clapped eyes upon one, to my knowledge. Seas, rivers, lakes, and ponds.
 Wot is it, lambs, as they ketches in seas, rivers, lakes, and ponds?’
 
-Shrill chorus (with some contempt for the ease of the question):
+Shrill [[Chorus|chorus]] (with some contempt for the ease of the question):
 
 ‘Fish!’
 
 ‘Good a-gin!’ said Riderhood. ‘But wot else is it, my lambs, as they
 sometimes ketches in rivers?’
 
-Chorus at a loss. One shrill voice: ‘Weed!’
+[[Chorus]] at a loss. One shrill voice: ‘Weed!’
 
 ‘Good agin!’ cried Riderhood. ‘But it ain’t weed neither. You’ll never
 guess, my dears. Wot is it, besides fish, as they sometimes ketches in
-rivers? Well! I’ll tell you. It’s suits o’ clothes.’
+rivers? [[Well]]! I’ll tell you. It’s suits o’ clothes.’
 
 Bradley’s face changed.
 
 ‘Leastways, lambs,’ said Riderhood, observing him out of the corners
-of his eyes, ‘that’s wot I my own self sometimes ketches in rivers. For
-strike me blind, my lambs, if I didn’t ketch in a river the wery bundle
+of his eyes, ‘that’s wot I my own [[Self|self]] sometimes ketches in rivers. For
+strike me blind, my lambs, if I didn’t ketch in a [[River|river]] the wery bundle
 under my arm!’
 
 The class looked at the master, as if appealing from the irregular
@@ -227,8 +227,8 @@ examiner, as if he would have torn him to pieces.
 
 ‘I ask your pardon, learned governor,’ said Riderhood, smearing his
 sleeve across his mouth as he laughed with a relish, ‘tain’t fair to the
-lambs, I know. It wos a bit of fun of mine. But upon my soul I drawed
-this here bundle out of a river! It’s a Bargeman’s suit of clothes. You
+lambs, I know. It wos a bit of fun of mine. But upon my [[Soul|soul]] I drawed
+this here bundle out of a [[River|river]]! It’s a Bargeman’s suit of clothes. You
 see, it had been sunk there by the man as wore it, and I got it up.’
 
 ‘How do you know it was sunk by the man who wore it?’ asked Bradley.
@@ -239,9 +239,9 @@ They looked at each other. Bradley, slowly withdrawing his eyes, turned
 his face to the black board and slowly wiped his name out.
 
 ‘A heap of thanks, Master,’ said Riderhood, ‘for bestowing so much of
-your time, and of the lambses’ time, upon a man as hasn’t got no other
+your [[Time|time]], and of the lambses’ [[Time|time]], upon a man as hasn’t got no other
 recommendation to you than being a honest man. Wishing to see at my Lock
-up the river, the person as we’ve spoke of, and as you’ve answered for,
+up the [[River|river]], the person as we’ve spoke of, and as you’ve answered for,
 I takes my leave of the lambs and of their learned governor both.’
 
 With those words, he slouched out of the school, leaving the master
@@ -249,35 +249,35 @@ to get through his weary work as he might, and leaving the whispering
 pupils to observe the master’s face until he fell into the fit which had
 been long impending.
 
-The next day but one was Saturday, and a holiday. Bradley rose early,
-and set out on foot for Plashwater Weir Mill Lock. He rose so early that
-it was not yet light when he began his journey. Before extinguishing the
+The next day but one was Saturday, and a holiday. Bradley [[Rose|rose]] early,
+and set out on foot for Plashwater Weir Mill Lock. He [[Rose|rose]] so early that
+it was not yet light when he began his [[Journey|journey]]. Before extinguishing the
 candle by which he had dressed himself, he made a little parcel of his
 decent silver watch and its decent guard, and wrote inside the paper:
 ‘Kindly take care of these for me.’ He then addressed the parcel to Miss
 Peecher, and left it on the most protected corner of the little seat in
 her little porch.
 
-It was a cold hard easterly morning when he latched the garden gate
+It was a cold hard easterly morning when he latched the [[Garden|garden]] gate
 and turned away. The light snowfall which had feathered his schoolroom
-windows on the Thursday, still lingered in the air, and was falling
-white, while the wind blew black. The tardy day did not appear until he
-had been on foot two hours, and had traversed a greater part of London
+windows on the [[thursday|Thursday]], still lingered in the air, and was falling
+white, while the [[Wind|wind]] blew black. The tardy day did not appear until he
+had been on foot two hours, and had traversed a greater part of [[London]]
 from east to west. Such breakfast as he had, he took at the comfortless
-public-house where he had parted from Riderhood on the occasion of
-their night-walk. He took it, standing at the littered bar, and looked
+public-[[house]] where he had parted from Riderhood on the occasion of
+their [[Night|night]]-walk. He took it, standing at the littered bar, and looked
 loweringly at a man who stood where Riderhood had stood that early
 morning.
 
-He outwalked the short day, and was on the towing-path by the river,
-somewhat footsore, when the night closed in. Still two or three miles
+He outwalked the short day, and was on the towing-path by the [[River|river]],
+somewhat footsore, when the [[Night|night]] closed in. Still two or three miles
 short of the Lock, he slackened his pace then, but went steadily on. The
-ground was now covered with snow, though thinly, and there were floating
-lumps of ice in the more exposed parts of the river, and broken sheets
+ground was now covered with [[Snow|snow]], though thinly, and there were floating
+lumps of ice in the more exposed parts of the [[River|river]], and broken sheets
 of ice under the shelter of the banks. He took heed of nothing but the
-ice, the snow, and the distance, until he saw a light ahead, which he
-knew gleamed from the Lock House window. It arrested his steps, and he
-looked all around. The ice, and the snow, and he, and the one light, had
+ice, the [[Snow|snow]], and the distance, until he saw a light ahead, which he
+knew gleamed from the Lock [[house|House]] [[Window|window]]. It arrested his steps, and he
+looked all around. The ice, and the [[Snow|snow]], and he, and the one light, had
 absolute possession of the dreary scene. In the distance before him, lay
 the place where he had struck the worse than useless blows that mocked
 him with Lizzie’s presence there as Eugene’s wife. In the distance
@@ -293,19 +293,19 @@ to him and draw him on. When he struck the door with his hand, his foot
 followed so quickly on his hand, that he was in the room before he was
 bidden to enter.
 
-The light was the joint product of a fire and a candle. Between the two,
+The light was the joint product of a [[Fire|fire]] and a candle. Between the two,
 with his feet on the iron fender, sat Riderhood, pipe in mouth.
 
 He looked up with a surly nod when his visitor came in. His visitor
 looked down with a surly nod. His outer clothing removed, the visitor
-then took a seat on the opposite side of the fire.
+then took a seat on the opposite side of the [[Fire|fire]].
 
 ‘Not a smoker, I think?’ said Riderhood, pushing a bottle to him across
 the table.
 
 ‘No.’
 
-They both lapsed into silence, with their eyes upon the fire.
+They both lapsed into [[Silence|silence]], with their eyes upon the [[Fire|fire]].
 
 ‘You don’t need to be told I am here,’ said Bradley at length. ‘Who is
 to begin?’
@@ -315,7 +315,7 @@ to begin?’
 He finished it with great deliberation, knocked out the ashes on the
 hob, and put it by.
 
-‘I’ll begin,’ he then repeated, ‘Bradley Headstone, Master, if you wish
+‘I’ll begin,’ he then repeated, ‘[[Bradley Headstone]], Master, if you wish
 it.’
 
 ‘Wish it? I wish to know what you want with me.’
@@ -354,13 +354,13 @@ force, ‘and smash you!’
 
 ‘Go on,’ said Bradley, after moistening his lips.
 
-‘O! I’m a going on. Don’t you fear but I’ll go on full-fast enough for
+‘O! I’m a going on. Don’t you [[Fear|fear]] but I’ll go on full-fast enough for
 you, and fur enough for you, without your telling. Look here, Bradley
 Headstone, Master. You might have split the T’other governor to chips
 and wedges, without my caring, except that I might have come upon you
 for a glass or so now and then. Else why have to do with you at all? But
 when you copied my clothes, and when you copied my neckhankercher, and
-when you shook blood upon me after you had done the trick, you did wot
+when you shook [[Blood|blood]] upon me after you had done the trick, you did wot
 I’ll be paid for and paid heavy for. If it come to be throw’d upon you,
 you was to be ready to throw it upon me, was you? Where else but
 in Plashwater Weir Mill Lock was there a man dressed according as
@@ -371,33 +371,33 @@ and with that same answering red neckhankercher, and see whether his
 clothes happens to be bloody or not. Yes, they do happen to be bloody.
 Ah, you sly devil!’
 
-Bradley, very white, sat looking at him in silence.
+Bradley, very white, sat looking at him in [[Silence|silence]].
 
 ‘But two could play at your game,’ said Riderhood, snapping his fingers
 at him half a dozen times, ‘and I played it long ago; long afore you
 tried your clumsy hand at it; in days when you hadn’t begun croaking
 your lecters or what not in your school. I know to a figure how you
 done it. Where you stole away, I could steal away arter you, and do it
-knowinger than you. I know how you come away from London in your own
+knowinger than you. I know how you come away from [[London]] in your own
 clothes, and where you changed your clothes, and hid your clothes. I see
 you with my own eyes take your own clothes from their hiding-place
-among them felled trees, and take a dip in the river to account for
+among them felled trees, and take a dip in the [[River|river]] to account for
 your dressing yourself, to any one as might come by. I see you rise up
-Bradley Headstone, Master, where you sat down Bargeman. I see you pitch
-your Bargeman’s bundle into the river. I hooked your Bargeman’s bundle
-out of the river. I’ve got your Bargeman’s clothes, tore this way and
+[[Bradley Headstone]], Master, where you sat down Bargeman. I see you pitch
+your Bargeman’s bundle into the [[River|river]]. I hooked your Bargeman’s bundle
+out of the [[River|river]]. I’ve got your Bargeman’s clothes, tore this way and
 that way with the scuffle, stained green with the grass, and spattered
 all over with what bust from the blows. I’ve got them, and I’ve got you.
 I don’t care a curse for the T’other governor, alive or dead, but I care
-a many curses for my own self. And as you laid your plots agin me and
+a many curses for my own [[Self|self]]. And as you laid your plots agin me and
 was a sly devil agin me, I’ll be paid for it—I’ll be paid for it—I’ll
 be paid for it—till I’ve drained you dry!’
 
-Bradley looked at the fire, with a working face, and was silent for a
+Bradley looked at the [[Fire|fire]], with a working face, and was silent for a
 while. At last he said, with what seemed an inconsistent composure of
 voice and feature:
 
-‘You can’t get blood out of a stone, Riderhood.’
+‘You can’t get [[Blood|blood]] out of a stone, Riderhood.’
 
 ‘I can get money out of a schoolmaster though.’
 
@@ -408,7 +408,7 @@ for a long and arduous training) to earn such a sum?’
 
 ‘I don’t know, nor I don’t care. Yours is a ’spectable calling. To
 save your ’spectability, it’s worth your while to pawn every article of
-clothes you’ve got, sell every stick in your house, and beg and borrow
+clothes you’ve got, sell every stick in your [[house]], and beg and borrow
 every penny you can get trusted with. When you’ve done that and handed
 over, I’ll leave you. Not afore.’
 
@@ -418,13 +418,13 @@ over, I’ll leave you. Not afore.’
 here. Let the Lock take care of itself. I’ll take care of you, once I’ve
 got you.’
 
-Bradley again looked at the fire. Eyeing him aside, Riderhood took up
+Bradley again looked at the [[Fire|fire]]. Eyeing him aside, Riderhood took up
 his pipe, refilled it, lighted it, and sat smoking. Bradley leaned his
-elbows on his knees, and his head upon his hands, and looked at the fire
+elbows on his knees, and his head upon his hands, and looked at the [[Fire|fire]]
 with a most intent abstraction.
 
 ‘Riderhood,’ he said, raising himself in his chair, after a long
-silence, and drawing out his purse and putting it on the table. ‘Say
+[[Silence|silence]], and drawing out his purse and putting it on the table. ‘Say
 I part with this, which is all the money I have; say I let you have
 my watch; say that every quarter, when I draw my salary, I pay you a
 certain portion of it.’
@@ -445,7 +445,7 @@ Bradley’s face darkened, and his hand slowly closed on the purse and
 drew it back, as he sat listening for what the other should go on to
 say.
 
-‘I went into the wrong shop, fust, last Thursday,’ said Riderhood.
+‘I went into the wrong shop, fust, last [[thursday|Thursday]],’ said Riderhood.
 ‘Found myself among the young ladies, by George! Over the young ladies,
 I see a Missis. That Missis is sweet enough upon you, Master, to sell
 herself up, slap, to get you out of trouble. Make her do it then.’
@@ -461,64 +461,64 @@ averted eyes.
 ‘Poof! Yes,’ said Riderhood, withdrawing his attention from the smoke.
 ‘I spoke to her. I didn’t say much to her. She was put in a fluster by
 my dropping in among the young ladies (I never did set up for a lady’s
-man), and she took me into her parlour to hope as there was nothink
+man), and she took me into her parlour to [[Hope|hope]] as there was nothink
 wrong. I tells her, “O no, nothink wrong. The master’s my wery good
 friend.” But I see how the land laid, and that she was comfortable off.’
 
 Bradley put the purse in his pocket, grasped his left wrist with his
-right hand, and sat rigidly contemplating the fire.
+right hand, and sat rigidly contemplating the [[Fire|fire]].
 
 ‘She couldn’t live more handy to you than she does,’ said Riderhood,
-‘and when I goes home with you (as of course I am a going), I recommend
-you to clean her out without loss of time. You can marry her, arter you
+‘and when I goes [[Home|home]] with you (as of course I am a going), I recommend
+you to clean her out without loss of [[Time|time]]. You can marry her, arter you
 and me have come to a settlement. She’s nice-looking, and I know
 you can’t be keeping company with no one else, having been so lately
 disapinted in another quarter.’
 
-Not one other word did Bradley utter all that night. Not once did he
+Not one other word did Bradley utter all that [[Night|night]]. Not once did he
 change his attitude, or loosen his hold upon his wrist. Rigid before the
-fire, as if it were a charmed flame that was turning him old, he sat,
+[[Fire|fire]], as if it were a charmed flame that was turning him old, he sat,
 with the dark lines deepening in his face, its stare becoming more and
 more haggard, its surface turning whiter and whiter as if it were being
 overspread with ashes, and the very texture and colour of his hair
 degenerating.
 
-Not until the late daylight made the window transparent, did this
-decaying statue move. Then it slowly arose, and sat in the window
+Not until the late daylight made the [[Window|window]] transparent, did this
+decaying statue move. Then it slowly arose, and sat in the [[Window|window]]
 looking out.
 
-Riderhood had kept his chair all night. In the earlier part of the night
+Riderhood had kept his chair all [[Night|night]]. In the earlier part of the [[Night|night]]
 he had muttered twice or thrice that it was bitter cold; or that the
-fire burnt fast, when he got up to mend it; but, as he could elicit from
+[[Fire|fire]] burnt fast, when he got up to mend it; but, as he could elicit from
 his companion neither sound nor movement, he had afterwards held his
 peace. He was making some disorderly preparations for coffee, when
-Bradley came from the window and put on his outer coat and hat.
+Bradley came from the [[Window|window]] and put on his outer coat and hat.
 
 ‘Hadn’t us better have a bit o’ breakfast afore we start?’ said
 Riderhood. ‘It ain’t good to freeze a empty stomach, Master.’
 
 Without a sign to show that he heard, Bradley walked out of the Lock
-House. Catching up from the table a piece of bread, and taking his
+[[house|House]]. Catching up from the table a piece of bread, and taking his
 Bargeman’s bundle under his arm, Riderhood immediately followed him.
-Bradley turned towards London. Riderhood caught him up, and walked at
+Bradley turned towards [[London]]. Riderhood caught him up, and walked at
 his side.
 
-The two men trudged on, side by side, in silence, full three miles.
+The two men trudged on, side by side, in [[Silence|silence]], full three miles.
 Suddenly, Bradley turned to retrace his course. Instantly, Riderhood
 turned likewise, and they went back side by side.
 
-Bradley re-entered the Lock House. So did Riderhood. Bradley sat down in
-the window. Riderhood warmed himself at the fire. After an hour or more,
-Bradley abruptly got up again, and again went out, but this time turned
+Bradley re-entered the Lock [[house|House]]. So did Riderhood. Bradley sat down in
+the [[Window|window]]. Riderhood warmed himself at the [[Fire|fire]]. After an hour or more,
+Bradley abruptly got up again, and again went out, but this [[Time|time]] turned
 the other way. Riderhood was close after him, caught him up in a few
 paces, and walked at his side.
 
-This time, as before, when he found his attendant not to be shaken off,
-Bradley suddenly turned back. This time, as before, Riderhood turned
-back along with him. But, not this time, as before, did they go into the
-Lock House, for Bradley came to a stand on the snow-covered turf by the
-Lock, looking up the river and down the river. Navigation was impeded by
-the frost, and the scene was a mere white and yellow desert.
+This [[Time|time]], as before, when he found his attendant not to be shaken off,
+Bradley suddenly turned back. This [[Time|time]], as before, Riderhood turned
+back along with him. But, not this [[Time|time]], as before, did they go into the
+Lock [[house|House]], for Bradley came to a stand on the [[Snow|snow]]-covered turf by the
+Lock, looking up the [[River|river]] and down the [[River|river]]. Navigation was impeded by
+the [[Frost|frost]], and the scene was a mere white and yellow [[Desert|desert]].
 
 ‘Come, come, Master,’ urged Riderhood, at his side. ‘This is a dry game.
 And where’s the good of it? You can’t get rid of me, except by coming to
@@ -529,18 +529,18 @@ bridge on the lock gates. ‘Why, there’s even less sense in this move
 than t’other,’ said Riderhood, following. ‘The Weir’s there, and you’ll
 have to come back, you know.’
 
-Without taking the least notice, Bradley leaned his body against a post,
+Without taking the least notice, Bradley leaned his [[Body|body]] against a post,
 in a resting attitude, and there rested with his eyes cast down. ‘Being
 brought here,’ said Riderhood, gruffly, ‘I’ll turn it to some use by
-changing my gates.’ With a rattle and a rush of water, he then swung-to
+changing my gates.’ With a rattle and a rush of [[Water|water]], he then swung-to
 the lock gates that were standing open, before opening the others. So,
 both sets of gates were, for the moment, closed.
 
-‘You’d better by far be reasonable, Bradley Headstone, Master,’ said
+‘You’d better by far be reasonable, [[Bradley Headstone]], Master,’ said
 Riderhood, passing him, ‘or I’ll drain you all the dryer for it, when we
 do settle.—Ah! Would you!’
 
-Bradley had caught him round the body. He seemed to be girdled with an
+Bradley had caught him round the [[Body|body]]. He seemed to be girdled with an
 iron ring. They were on the brink of the Lock, about midway between the
 two sets of gates.
 
@@ -559,7 +559,7 @@ be drowned? I can’t be drowned.’
 resolved to be. I’ll hold you living, and I’ll hold you dead. Come
 down!’
 
-Riderhood went over into the smooth pit, backward, and Bradley Headstone
+Riderhood went over into the smooth pit, backward, and [[Bradley Headstone]]
 upon him. When the two were found, lying under the ooze and scum behind
 one of the rotting gates, Riderhood’s hold had relaxed, probably in
 falling, and his eyes were staring upward. But, he was girdled still

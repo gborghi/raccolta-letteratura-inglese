@@ -1,5 +1,5 @@
 ---
-title: "The Mystery of Edwin Drood — Chapter 14 (part 1)"
+title: "The Mystery of [[Edwin Drood]] — Chapter 14 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
@@ -21,12 +21,12 @@ WHEN SHALL THESE THREE MEET AGAIN?
 Christmas Eve in Cloisterham. A few strange faces in the streets; a few
 other faces, half strange and half familiar, once the faces of
 Cloisterham children, now the faces of men and women who come back from
-the outer world at long intervals to find the city wonderfully shrunken
-in size, as if it had not washed by any means well in the meanwhile. To
-these, the striking of the Cathedral clock, and the cawing of the rooks
-from the Cathedral tower, are like voices of their nursery time. To
+the outer world at long intervals to find the [[City|city]] wonderfully shrunken
+in size, as if it had not washed by any means [[Well|well]] in the meanwhile. To
+these, the striking of the [[Cathedral]] [[Clock|clock]], and the cawing of the rooks
+from the [[Cathedral]] tower, are like voices of their nursery [[Time|time]]. To
 such as these, it has happened in their dying hours afar off, that they
-have imagined their chamber-floor to be strewn with the autumnal leaves
+have imagined their chamber-floor to be strewn with the autumnal [[Leaves|leaves]]
 fallen from the elm-trees in the Close: so have the rustling sounds and
 fresh scents of their earliest impressions revived when the circle of
 their lives was very nearly traced, and the beginning and the end were
@@ -34,7 +34,7 @@ drawing close together.
 
 Seasonable tokens are about. Red berries shine here and there in the
 lattices of Minor Canon Corner; Mr. and Mrs. Tope are daintily sticking
-sprigs of holly into the carvings and sconces of the Cathedral stalls,
+sprigs of holly into the carvings and sconces of the [[Cathedral]] stalls,
 as if they were sticking them into the coat-button-holes of the Dean
 and Chapter. Lavish profusion is in the shops: particularly in the
 articles of currants, raisins, spices, candied peel, and moist sugar.
@@ -46,14 +46,14 @@ called it a Twenty-fourth Cake or a Forty-eighth Cake—to be raffled for
 at the pastrycook’s, terms one shilling per member. Public amusements
 are not wanting. The Wax-Work which made so deep an impression on the
 reflective mind of the Emperor of China is to be seen by particular
-desire during Christmas Week only, on the premises of the bankrupt
+[[Desire|desire]] during Christmas Week only, on the premises of the bankrupt
 livery-stable-keeper up the lane; and a new grand comic Christmas
 pantomime is to be produced at the Theatre: the latter heralded by the
 portrait of Signor Jacksonini the clown, saying “How do you do
 to-morrow?” quite as large as life, and almost as miserably. In short,
 Cloisterham is up and doing: though from this description the High
 School and Miss Twinkleton’s are to be excluded. From the former
-establishment the scholars have gone home, every one of them in love
+establishment the scholars have gone [[Home|home]], every one of them in [[Love|love]]
 with one of Miss Twinkleton’s young ladies (who knows nothing about
 it); and only the handmaidens flutter occasionally in the windows of
 the latter. It is noticed, by the bye, that these damsels become,
@@ -61,24 +61,24 @@ within the limits of decorum, more skittish when thus intrusted with
 the concrete representation of their sex, than when dividing the
 representation with Miss Twinkleton’s young ladies.
 
-Three are to meet at the gatehouse to-night. How does each one of the
+Three are to meet at the gatehouse to-[[Night|night]]. How does each one of the
 three get through the day?
 
-Neville Landless, though absolved from his books for the time by Mr.
-Crisparkle—whose fresh nature is by no means insensible to the charms
+[[Neville Landless]], though absolved from his books for the [[Time|time]] by Mr.
+Crisparkle—whose fresh [[Nature|nature]] is by no means insensible to the charms
 of a holiday—reads and writes in his quiet room, with a concentrated
-air, until it is two hours past noon. He then sets himself to clearing
+air, until it is two hours past [[Noon|noon]]. He then sets himself to clearing
 his table, to arranging his books, and to tearing up and burning his
 stray papers. He makes a clean sweep of all untidy accumulations, puts
-all his drawers in order, and leaves no note or scrap of paper
+all his drawers in order, and [[Leaves|leaves]] no note or scrap of paper
 undestroyed, save such memoranda as bear directly on his studies. This
 done, he turns to his wardrobe, selects a few articles of ordinary
 wear—among them, change of stout shoes and socks for walking—and packs
 these in a knapsack. This knapsack is new, and he bought it in the High
-Street yesterday. He also purchased, at the same time and at the same
+Street yesterday. He also purchased, at the same [[Time|time]] and at the same
 place, a heavy walking-stick; strong in the handle for the grip of the
 hand, and iron-shod. He tries this, swings it, poises it, and lays it
-by, with the knapsack, on a window-seat. By this time his arrangements
+by, with the knapsack, on a [[Window|window]]-seat. By this [[Time|time]] his arrangements
 are complete.
 
 He dresses for going out, and is in the act of going—indeed has left
@@ -111,7 +111,7 @@ come back before dinner?”
 Mr. Crisparkle gives him a bright nod and a cheerful good-bye;
 expressing (not without intention) absolute confidence and ease.
 
-Neville repairs to the Nuns’ House, and requests that Miss Landless may
+Neville repairs to the Nuns’ [[house|House]], and requests that Miss Landless may
 be informed that her brother is there, by appointment. He waits at the
 gate, not even crossing the threshold; for he is on his parole not to
 put himself in Rosa’s way.
@@ -121,7 +121,7 @@ themselves as he can be, and loses not a moment in joining him. They
 meet affectionately, avoid lingering there, and walk towards the upper
 inland country.
 
-“I am not going to tread upon forbidden ground, Helena,” says Neville,
+“I am not going to tread upon forbidden ground, [[Helena]],” says Neville,
 when they have walked some distance and are turning; “you will
 understand in another moment that I cannot help referring to—what shall
 I say?—my infatuation.”

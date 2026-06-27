@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 24 (part 1)"
+title: "[[The Professor]] — Chapter 24 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,9 +18,9 @@ CHAPTER XXIV.
 
 
 
-ONE fine, frosty Sunday in November, Frances and I took a long walk; we
+ONE fine, frosty [[Sunday]] in November, Frances and I took a long walk; we
 
-made the tour of the city by the Boulevards; and, afterwards, Frances
+made the tour of the [[City|city]] by the Boulevards; and, afterwards, Frances
 
 being a little tired, we sat down on one of those wayside seats placed
 
@@ -40,7 +40,7 @@ tongue, when she stopped and remarked--
 
 I looked up; three fashionably dressed men were just then
 
-passing--Englishmen, I knew by their air and gait as well as by their
+passing--Englishmen, I knew by their air and gait as [[Well|well]] as by their
 
 features; in the tallest of the trio I at once recognized Mr. Hunsden;
 
@@ -96,7 +96,7 @@ gone.”
 
 “I read that and more, Frances; I read that he will probably call on me
 
-this evening, or on some future occasion shortly; and I have no doubt
+this evening, or on some future occasion shortly; and I have no [[Doubt|doubt]]
 
 he will insist on being introduced to you; shall I bring him to your
 
@@ -120,7 +120,7 @@ said was:--
 
 appointment to ---- College, and all that; Brown has told me.” Then
 
-he intimated that he had returned from Germany but a day or two since;
+he intimated that he had returned from [[Germany]] but a day or two since;
 
 afterwards, he abruptly demanded whether that was Madame Pelet-Reuter
 
@@ -148,7 +148,7 @@ in foreign hodge-podge of this sort.”
 
 “She’s too good for you evidently; she is like you, but something better
 
-than you--no beauty, though; yet when she rose (for I looked back to
+than you--no [[Beauty|beauty]], though; yet when she [[Rose|rose]] (for I looked back to
 
 see you both walk away) I thought her figure and carriage good. These
 
@@ -210,7 +210,7 @@ I smiled. Hunsden unconsciously laid stress on the word caste, and, in
 
 fact, republican, lord-hater as he was, Hunsden was as proud of his old
 
-----shire blood, of his descent and family standing, respectable and
+----shire [[Blood|blood]], of his descent and family standing, respectable and
 
 respected through long generations back, as any peer in the realm of
 
@@ -242,13 +242,13 @@ remonstrance, he only answered--
 
 
 
-“Well, you are the best judge of your own affairs. A lace-mender may
+“[[Well]], you are the best judge of your own affairs. A lace-mender may
 
-make a good wife as well as a lady; but of course you have taken care
+make a good wife as [[Well|well]] as a lady; but of course you have taken care
 
-to ascertain thoroughly that since she has not education, fortune or
+to ascertain thoroughly that since she has not [[Education|education]], fortune or
 
-station, she is well furnished with such natural qualities as you think
+station, she is [[Well|well]] furnished with such natural qualities as you think
 
 most likely to conduce to your happiness. Has she many relations?”
 
@@ -266,30 +266,30 @@ bore to you to your life’s end.”
 
 
 
-After sitting in silence a little while longer, Hunsden rose, and was
+After sitting in [[Silence|silence]] a little while longer, Hunsden [[Rose|rose]], and was
 
 quietly bidding me good evening; the polite, considerate manner in which
 
 he offered me his hand (a thing he had never done before), convinced me
 
-that he thought I had made a terrible fool of myself; and that, ruined
+that he thought I had made a terrible [[Fool|fool]] of myself; and that, ruined
 
-and thrown away as I was, it was no time for sarcasm or cynicism, or
+and thrown away as I was, it was no [[Time|time]] for sarcasm or cynicism, or
 
 indeed for anything but indulgence and forbearance.
 
 
 
-“Good night, William,” he said, in a really soft voice, while his face
+“Good [[Night|night]], William,” he said, in a really soft voice, while his face
 
-looked benevolently compassionate. “Good night, lad. I wish you and your
+looked benevolently compassionate. “Good [[Night|night]], lad. I wish you and your
 
-future wife much prosperity; and I hope she will satisfy your fastidious
+future wife much prosperity; and I [[Hope|hope]] she will satisfy your fastidious
 
-soul.”
+[[Soul|soul]].”
 
 
 
 I had much ado to refrain from laughing as I beheld the magnanimous pity
 
-of his mien; maintaining, however, a grave air, I said:--
+of his mien; maintaining, however, a [[Grave|grave]] air, I said:--

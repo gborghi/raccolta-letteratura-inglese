@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 27 (part 1)"
+title: "[[Nicholas Nickleby]] — Chapter 27 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -21,23 +21,23 @@ Affection and Interest are beyond all Bounds
 
 
 Mrs. Nickleby had not felt so proud and important for many a day, as
-when, on reaching home, she gave herself wholly up to the pleasant
+when, on reaching [[Home|home]], she gave herself wholly up to the pleasant
 visions which had accompanied her on her way thither. Lady Mulberry
 Hawk--that was the prevalent idea. Lady Mulberry Hawk!--On Tuesday last,
 at St George’s, Hanover Square, by the Right Reverend the Bishop
-of Llandaff, Sir Mulberry Hawk, of Mulberry Castle, North Wales, to
-Catherine, only daughter of the late Nicholas Nickleby, Esquire, of
-Devonshire. ‘Upon my word!’ cried Mrs. Nicholas Nickleby, ‘it sounds very
-well.’
+of Llandaff, Sir Mulberry Hawk, of Mulberry [[Castle]], North Wales, to
+Catherine, only daughter of the late [[Nicholas Nickleby]], Esquire, of
+Devonshire. ‘Upon my word!’ cried Mrs. [[Nicholas Nickleby]], ‘it sounds very
+[[Well|well]].’
 
 Having dispatched the ceremony, with its attendant festivities, to the
 perfect satisfaction of her own mind, the sanguine mother pictured to
-her imagination a long train of honours and distinctions which could
+her [[Imagination|imagination]] a long train of honours and distinctions which could
 not fail to accompany Kate in her new and brilliant sphere. She would be
-presented at court, of course. On the anniversary of her birthday, which
-was upon the nineteenth of July [‘at ten minutes past three o’clock in
+presented at [[Court|court]], of course. On the anniversary of her birthday, which
+was upon the nineteenth of July [‘at ten minutes past three o’[[Clock|clock]] in
 the morning,’ thought Mrs. Nickleby in a parenthesis, ‘for I recollect
-asking what o’clock it was’), Sir Mulberry would give a great feast to
+asking what o’[[Clock|clock]] it was’), Sir Mulberry would give a great feast to
 all his tenants, and would return them three and a half per cent on the
 amount of their last half-year’s rent, as would be fully described and
 recorded in the fashionable intelligence, to the immeasurable delight
@@ -55,17 +55,17 @@ reason why they are always so charming and agreeable.
 
 With such triumphs of aerial architecture did Mrs. Nickleby occupy
 the whole evening after her accidental introduction to Ralph’s titled
-friends; and dreams, no less prophetic and equally promising, haunted
-her sleep that night. She was preparing for her frugal dinner next day,
+friends; and [[Dreams|dreams]], no less prophetic and equally promising, haunted
+her [[Sleep|sleep]] that [[Night|night]]. She was preparing for her frugal dinner next day,
 still occupied with the same ideas--a little softened down perhaps by
-sleep and daylight--when the girl who attended her, partly for company,
+[[Sleep|sleep]] and daylight--when the girl who attended her, partly for company,
 and partly to assist in the household affairs, rushed into the room in
 unwonted agitation, and announced that two gentlemen were waiting in the
 passage for permission to walk upstairs.
 
 ‘Bless my heart!’ cried Mrs. Nickleby, hastily arranging her cap and
 front, ‘if it should be--dear me, standing in the passage all this
-time--why don’t you go and ask them to walk up, you stupid thing?’
+[[Time|time]]--why don’t you go and ask them to walk up, you stupid thing?’
 
 While the girl was gone on this errand, Mrs. Nickleby hastily swept into
 a cupboard all vestiges of eating and drinking; which she had scarcely
@@ -79,7 +79,7 @@ word of the inquiry.
 to give variety to the salutation.
 
 Mrs. Nickleby curtseyed and smiled, and curtseyed again, and remarked,
-rubbing her hands as she did so, that she hadn’t the--really--the honour
+rubbing her hands as she did so, that she hadn’t the--really--the [[Honour|honour]]
 to--
 
 ‘To know us,’ said the first gentleman. ‘The loss has been ours, Mrs

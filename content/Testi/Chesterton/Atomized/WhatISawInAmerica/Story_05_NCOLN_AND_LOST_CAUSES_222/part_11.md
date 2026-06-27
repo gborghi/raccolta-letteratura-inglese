@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 11)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 11)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -24,7 +24,7 @@ carry on the traditions of remote European valleys almost untouched. In
 
 short, there is a sort of slender bridge between their old country and
 
-their new, which they either cross or do not cross, but which they
+their new, which they either [[Cross|cross]] or do not [[Cross|cross]], but which they
 
 seldom simply occupy. They are exiles or they are citizens; there is no
 
@@ -36,7 +36,7 @@ them not only rooted traditions, but rooted truths.
 
 Indeed it is to a great extent the thought of these strange souls in
 
-crude American garb that gives a meaning to the masquerade of New York.
+crude American garb that gives a meaning to the masquerade of [[New York]].
 
 In the hotel where I stayed the head waiter in one room was a Bohemian;
 
@@ -48,7 +48,7 @@ of perpetually talking about Czecho-Slovakia. I suggested to my American
 
 friends that the abandonment of the word Bohemian in its historical
 
-sense might well extend to its literary and figurative sense. We might
+sense might [[Well|well]] extend to its literary and figurative sense. We might
 
 be expected to say, 'I'm afraid Henry has got into very Czecho-Slovakian
 
@@ -58,7 +58,7 @@ affair.' Anyhow my Bohemian would have nothing to do with such nonsense;
 
 he called himself a son of Bohemia, and spoke as such in his criticisms
 
-of America, which were both favourable and unfavourable. He was a squat
+of [[America]], which were both favourable and unfavourable. He was a squat
 
 man, with a sturdy figure and a steady smile; and his eyes were like
 
@@ -68,7 +68,7 @@ ever been deceived by the lights of Broadway.
 
 
 
-But I found something like my real innocent abroad, my real peasant
+But I found something like my real [[Innocent|innocent]] abroad, my real peasant
 
 among the sky-signs, in another part of the same establishment. He was a
 
@@ -94,11 +94,11 @@ people get away from that they are lost.'
 
 
 
-To hear such a thing said by the waiter was alone an epoch in the life
+To hear such a thing said by the waiter was [[Alone|alone]] an epoch in the life
 
 of an unfortunate writer of fantastic novels. To see him clear away the
 
-clam chowder like an automaton, and bring me more iced water like an
+clam chowder like an automaton, and bring me more iced [[Water|water]] like an
 
 automaton or like nothing on earth except an American waiter (for piling
 
@@ -112,7 +112,7 @@ of the peasant admiring Broadway. So he passed, with his artificial
 
 clothes and manners, lit up with all the ghastly artificial light of the
 
-hotel, and all the ghastly artificial life of the city; and his heart
+hotel, and all the ghastly artificial life of the [[City|city]]; and his heart
 
 was like his own remote and rocky valley, where those unchanging words
 
@@ -122,23 +122,23 @@ were carved as on a rock.
 
 I do not profess to discuss here at all adequately the question this
 
-raises about the Americanisation of the Bulgar. It has many aspects, of
+raises about the [[americanisation|Americanisation]] of the Bulgar. It has many aspects, of
 
 some of which most Englishmen and even some Americans are rather
 
 unconscious. For one thing, a man with so rugged a loyalty to land could
 
-not be Americanised in New York; but it is not so certain that he could
+not be Americanised in [[New York]]; but it is not so certain that he could
 
-not be Americanised in America. We might almost say that a peasantry is
+not be Americanised in [[America]]. We might almost say that a peasantry is
 
-hidden in the heart of America. So far as our impressions go, it is a
+hidden in the heart of [[America]]. So far as our impressions go, it is a
 
 secret. It is rather an open secret; covering only some thousand square
 
 miles of open prairie. But for most of our countrymen it is something
 
-invisible, unimagined, and unvisited; the simple truth that where all
+invisible, unimagined, and unvisited; the simple [[Truth|truth]] that where all
 
 those acres are there is agriculture, and where all that agriculture is
 
@@ -148,7 +148,7 @@ equalised property, as in a peasantry. On the other hand, there are
 
 those who say that the Bulgar will never be Americanised, that he only
 
-comes to be a waiter in America that he may afford to return to be a
+comes to be a waiter in [[America]] that he may afford to return to be a
 
 peasant in Bulgaria. I cannot decide this issue, and indeed I did not
 
@@ -158,13 +158,13 @@ reflection that runs along the Great White Way, and I will continue to
 
 follow it. The criticism, if we could put it rightly, not only covers
 
-more than New York but more than the whole New World. Any argument
+more than [[New York]] but more than the whole New World. Any argument
 
 against it is quite as valid against the largest and richest cities of
 
-the Old World, against London or Liverpool or Frankfort or Belfast. But
+the Old World, against [[London]] or Liverpool or Frankfort or Belfast. But
 
-it is in New York that we see the argument most clearly, because we see
+it is in [[New York]] that we see the argument most clearly, because we see
 
 the thing thus towering into its own turrets and breaking into its own
 
@@ -172,13 +172,13 @@ fireworks.
 
 
 
-I disagree with the aesthetic condemnation of the modern city with its
+I disagree with the aesthetic condemnation of the modern [[City|city]] with its
 
-sky-scrapers and sky-signs. I mean that which laments the loss of beauty
+sky-scrapers and sky-signs. I mean that which laments the loss of [[Beauty|beauty]]
 
 and its sacrifice to utility. It seems to me the very reverse of the
 
-truth. Years ago, when people used to say the Salvation Army doubtless
+[[Truth|truth]]. Years ago, when people used to say the Salvation Army doubtless
 
 had good intentions, but we must all deplore its methods, I pointed out
 
@@ -188,11 +188,11 @@ democratic appeal, is that of the Franciscans or any other march of the
 
 Church Militant. It was precisely its aims that were dubious, with their
 
-dissenting morality and despotic finance. It is somewhat the same with
+dissenting [[morality]] and despotic finance. It is somewhat the same with
 
 things like the sky-signs in Broadway. The aesthete must not ask me to
 
-mingle my tears with his, because these things are merely useful and
+mingle my [[Tears|tears]] with his, because these things are merely useful and
 
 ugly. For I am not specially inclined to think them ugly; but I am
 

@@ -29,7 +29,7 @@ the little man. "Anything else, John?"
 
 "A small box," replied the Carrier. "Here you are!"
 
-"'For Caleb Plummer,'" said the little man, spelling out the direction.
+"'For [[Caleb Plummer]],'" said the little man, spelling out the direction.
 "'With Cash.' With Cash, John? I don't think it's for me."
 
 "With Care," returned the Carrier, looking over his shoulder. "Where do
@@ -38,7 +38,7 @@ you make out cash?"
 "Oh! To be sure!" said Caleb. "It's all right. With care! Yes, yes;
 that's mine. It might have been with cash, indeed, if my dear Boy in the
 Golden South Americas had lived, John. You loved him like a son; didn't
-you? You needn't say you did. _I_ know, of course. 'Caleb Plummer. With
+you? You needn't say you did. _I_ know, of course. '[[Caleb Plummer]]. With
 care.' Yes, yes, it's all right. It's a box of dolls' eyes for my
 daughters' work. I wish it was her own sight in a box, John."
 
@@ -50,7 +50,7 @@ day long! That's where it cuts. What's the damage, John?"
 
 "I'll damage you," said John, "if you inquire. Dot! Very near?"
 
-"Well! it's like you to say so," observed the little man. "It's your
+"[[Well]]! it's like you to say so," observed the little man. "It's your
 kind way. Let me see. I think that's all."
 
 "I think not," said the Carrier. "Try again."
@@ -62,14 +62,14 @@ them Arks and things! He hasn't been here, has he?"
 "Not he," returned the Carrier. "He's too busy, courting."
 
 "He's coming round, though," said Caleb; "for he told me to keep on the
-near side of the road going home, and it was ten to one he'd take me up.
+near side of the [[Road|road]] going [[Home|home]], and it was ten to one he'd take me up.
 I had better go, by-the-bye.--You couldn't have the goodness to let me
 pinch Boxer's tail, mum, for half a moment, could you?"
 
 "Why, Caleb, what a question!"
 
 "Oh, never mind, mum!" said the little man. "He mightn't like it,
-perhaps. There's a small order just come in for barking dogs; and I
+perhaps. There's a small order just come in for barking [[dogs]]; and I
 should wish to go as close to Natur' as I could for sixpence. That's
 all. Never mind, mum."
 
@@ -80,12 +80,12 @@ to a more convenient season, shouldered the round box, and took a
 hurried leave. He might have spared himself the trouble, for he met the
 visitor upon the threshold.
 
-"Oh! You are here, are you? Wait a bit. I'll take you home. John
+"Oh! You are here, are you? Wait a bit. I'll take you [[Home|home]]. John
 Peerybingle, my service to you. More of my service to your pretty wife.
 Handsomer every day! Better too, if possible! And younger," mused the
 speaker in a low voice, "that's the devil of it!"
 
-"I should be astonished at your paying compliments, Mr. Tackleton," said
+"I should be astonished at your paying compliments, Mr. [[Tackleton]]," said
 Dot, not with the best grace in the world, "but for your condition."
 
 "You know all about it, then?"
@@ -96,10 +96,10 @@ Dot, not with the best grace in the world, "but for your condition."
 
 "Very."
 
-Tackleton the Toy merchant, pretty generally known as Gruff and
-Tackleton--for that was the firm, though Gruff had been bought out long
-ago; only leaving his name, and, as some said, his nature, according to
-its Dictionary meaning, in the business--Tackleton the Toy merchant was
+[[Tackleton]] the Toy merchant, pretty generally known as Gruff and
+[[Tackleton]]--for that was the firm, though Gruff had been bought out long
+ago; only leaving his name, and, as some said, his [[Nature|nature]], according to
+its Dictionary meaning, in the business--[[Tackleton]] the Toy merchant was
 a man whose vocation had been quite misunderstood by his Parents and
 Guardians. If they had made him a Money Lender, or a sharp Attorney, or
 a Sheriff's Officer, or a Broker, he might have sown his discontented
@@ -115,15 +115,15 @@ consciences, movable old ladies who darned stockings or carved pies; and
 other like samples of his stock-in-trade. In appalling masks; hideous,
 hairy, red-eyed Jacks in Boxes; Vampire Kites; demoniacal Tumblers who
 wouldn't lie down, and were perpetually flying forward, to stare infants
-out of countenance; his soul perfectly revelled. They were his only
+out of countenance; his [[Soul|soul]] perfectly revelled. They were his only
 relief, and safety-valve. He was great in such inventions. Anything
-suggestive of a Pony nightmare was delicious to him. He had even lost
+suggestive of a Pony [[nightmare]] was delicious to him. He had even lost
 money (and he took to that toy very kindly) by getting up Goblin slides
-for magic lanterns, whereon the Powers of Darkness were depicted as a
-sort of supernatural shell-fish, with human faces. In intensifying the
+for [[Magic|magic]] lanterns, whereon the Powers of Darkness were depicted as a
+sort of [[Supernatural|supernatural]] shell-fish, with human faces. In intensifying the
 portraiture of Giants, he had sunk quite a little capital; and, though
 no painter himself, he could indicate, for the instruction of his
-artists, with a piece of chalk, a certain furtive leer for the
+artists, with a piece of [[chalk]], a certain furtive leer for the
 countenances of those monsters, which was safe to destroy the peace of
 mind of any young gentleman between the ages of six and eleven, for the
 whole Christmas or Midsummer Vacation.
@@ -135,6 +135,6 @@ chin an uncommonly pleasant fellow; and that he was about as choice a
 spirit, and as agreeable a companion, as ever stood in a pair of
 bull-headed-looking boots with mahogany-coloured tops.
 
-Still, Tackleton, the toy merchant, was going to be married. In spite of
+Still, [[Tackleton]], the toy merchant, was going to be married. In spite of
 all this, he was going to be married. And to a young wife too, a
 beautiful young wife.

@@ -18,8 +18,8 @@ Paul now slipped away from the cushioned corner of a sofa, which had
 been his post of observation, and went downstairs into the tea-room to
 be ready for Florence, whom he had not seen for nearly a fortnight, as
 he had remained at Doctor Blimber’s on the previous Saturday and
-Sunday, lest he should take cold. Presently she came: looking so
-beautiful in her simple ball dress, with her fresh flowers in her hand,
+[[Sunday]], lest he should take cold. Presently she came: looking so
+beautiful in her simple ball dress, with her fresh [[Flowers|flowers]] in her hand,
 that when she knelt down on the ground to take Paul round the neck and
 kiss him (for there was no one there, but his friend and another young
 woman waiting to serve out the tea), he could hardly make up his mind
@@ -34,9 +34,9 @@ tear there.
 Paul touched her cheek gently with his finger—and it was a tear! “Why,
 Floy!” said he.
 
-“We’ll go home together, and I’ll nurse you, love,” said Florence.
+“We’ll go [[Home|home]] together, and I’ll [[Nurse|nurse]] you, [[Love|love]],” said Florence.
 
-“Nurse me!” echoed Paul.
+“[[Nurse]] me!” echoed Paul.
 
 Paul couldn’t understand what that had to do with it, nor why the two
 young women looked on so seriously, nor why Florence turned away her
@@ -51,14 +51,14 @@ His sister laughed, and fondled him, and told him “No.”
 “Because I know they say so,” returned Paul, “and I want to know what
 they mean, Floy.”
 
-But a loud double knock coming at the door, and Florence hurrying to
+But a loud [[Double|double]] knock coming at the door, and Florence hurrying to
 the table, there was no more said between them. Paul wondered again
 when he saw his friend whisper to Florence, as if she were comforting
 her; but a new arrival put that out of his head speedily.
 
 It was Sir Barnet Skettles, Lady Skettles, and Master Skettles. Master
 Skettles was to be a new boy after the vacation, and Fame had been
-busy, in Mr Feeder’s room, with his father, who was in the House of
+busy, in Mr Feeder’s room, with his father, who was in the [[house|House]] of
 Commons, and of whom Mr Feeder had said that when he did catch the
 Speaker’s eye (which he had been expected to do for three or four
 years), it was anticipated that he would rather touch up the Radicals.
@@ -77,16 +77,16 @@ assented, but Master Skettles looked suspicious and doubtful.
 
 “Young gentlemen, Ma’am; yes, Ma’am,” said Paul’s friend.
 
-“And what is your name, my pale child?” said Lady Skettles.
+“And what is your name, my pale [[Child|child]]?” said Lady Skettles.
 
 “Dombey,” answered Paul.
 
 Sir Barnet Skettles immediately interposed, and said that he had had
-the honour of meeting Paul’s father at a public dinner, and that he
-hoped he was very well. Then Paul heard him say to Lady Skettles,
-“City—very rich—most respectable—Doctor mentioned it.” And then he said
+the [[Honour|honour]] of meeting Paul’s father at a public dinner, and that he
+hoped he was very [[Well|well]]. Then Paul heard him say to Lady Skettles,
+“[[City]]—very rich—most respectable—Doctor mentioned it.” And then he said
 to Paul, “Will you tell your good Papa that Sir Barnet Skettles
-rejoiced to hear that he was very well, and sent him his best
+rejoiced to hear that he was very [[Well|well]], and sent him his best
 compliments?”
 
 “Yes, Sir,” answered Paul.
@@ -108,12 +108,12 @@ went upstairs together: Sir Barnet Skettles taking care of Florence,
 and young Barnet following.
 
 Young Barnet did not remain long in the background after they had
-reached the drawing-room, for Dr Blimber had him out in no time,
+reached the drawing-room, for Dr Blimber had him out in no [[Time|time]],
 dancing with Florence. He did not appear to Paul to be particularly
 happy, or particularly anything but sulky, or to care much what he was
 about; but as Paul heard Lady Skettles say to Mrs Blimber, while she
-beat time with her fan, that her dear boy was evidently smitten to
-death by that angel of a child, Miss Dombey, it would seem that
+beat [[Time|time]] with her fan, that her dear boy was evidently smitten to
+[[Death|death]] by that angel of a [[Child|child]], Miss Dombey, it would seem that
 Skettles Junior was in a state of bliss, without showing it.
 
 Little Paul thought it a singular coincidence that nobody had occupied
@@ -127,12 +127,12 @@ spoke to him every now and then, and asked him how he was, and if his
 head ached, and whether he was tired. He was very much obliged to them
 for all their kindness and attention, and reclining propped up in his
 corner, with Mrs Blimber and Lady Skettles on the same sofa, and
-Florence coming and sitting by his side as soon as every dance was
+Florence coming and sitting by his side as soon as every [[Dance|dance]] was
 ended, he looked on very happily indeed.
 
-Florence would have sat by him all night, and would not have danced at
+Florence would have sat by him all [[Night|night]], and would not have danced at
 all of her own accord, but Paul made her, by telling her how much it
-pleased him. And he told her the truth, too; for his small heart
+pleased him. And he told her the [[Truth|truth]], too; for his small heart
 swelled, and his face glowed, when he saw how much they all admired
 her, and how she was the beautiful little rosebud of the room.
 
@@ -146,6 +146,6 @@ return for your drain of gold—which was such a mystery to Paul that he
 was quite desirous to know what ought to be done with them. Sir Barnet
 Skettles had much to say upon the question, and said it; but it did not
 appear to solve the question, for Mr Baps retorted, Yes, but supposing
-Russia stepped in with her tallows; which struck Sir Barnet almost
+[[Russia]] stepped in with her tallows; which struck Sir Barnet almost
 dumb, for he could only shake his head after that, and say, Why then
 you must fall back upon your cottons, he supposed.

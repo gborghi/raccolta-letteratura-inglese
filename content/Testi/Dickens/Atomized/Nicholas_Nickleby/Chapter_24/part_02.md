@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 24 (part 2)"
+title: "[[Nicholas Nickleby]] — Chapter 24 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -34,23 +34,23 @@ the centre, and the whole of the stage-box.’
 children, and they never come unless the phenomenon plays.’
 
 It would have been difficult for any party, family, or otherwise, to
-have visited the theatre on a night when the phenomenon did NOT play,
+have visited the theatre on a [[Night|night]] when the phenomenon did NOT play,
 inasmuch as she always sustained one, and not uncommonly two or three,
-characters, every night; but Nicholas, sympathising with the feelings of
+characters, every [[Night|night]]; but Nicholas, sympathising with the feelings of
 a father, refrained from hinting at this trifling circumstance, and Mr
 Crummles continued to talk, uninterrupted by him.
 
 ‘Six,’ said that gentleman; ‘pa and ma eight, aunt nine, governess
 ten, grandfather and grandmother twelve. Then, there’s the footman, who
-stands outside, with a bag of oranges and a jug of toast-and-water,
+stands outside, with a bag of oranges and a jug of toast-and-[[Water|water]],
 and sees the play for nothing through the little pane of glass in the
 box-door--it’s cheap at a guinea; they gain by taking a box.’
 
-‘I wonder you allow so many,’ observed Nicholas.
+‘I [[Wonder|wonder]] you allow so many,’ observed Nicholas.
 
 ‘There’s no help for it,’ replied Mr. Crummles; ‘it’s always expected in
 the country. If there are six children, six people come to hold them in
-their laps. A family-box carries double always. Ring in the orchestra,
+their laps. A family-box carries [[Double|double]] always. Ring in the orchestra,
 Grudden!’
 
 That useful lady did as she was requested, and shortly afterwards the
@@ -74,32 +74,32 @@ scene. The plot was most interesting. It belonged to no particular age,
 people, or country, and was perhaps the more delightful on that account,
 as nobody’s previous information could afford the remotest glimmering of
 what would ever come of it. An outlaw had been very successful in doing
-something somewhere, and came home, in triumph, to the sound of shouts
+something somewhere, and came [[Home|home]], in triumph, to the sound of shouts
 and fiddles, to greet his wife--a lady of masculine mind, who talked
 a good deal about her father’s bones, which it seemed were unburied,
 though whether from a peculiar taste on the part of the old gentleman
 himself, or the reprehensible neglect of his relations, did not appear.
 This outlaw’s wife was, somehow or other, mixed up with a patriarch,
-living in a castle a long way off, and this patriarch was the father
+living in a [[Castle|castle]] a long way off, and this patriarch was the father
 of several of the characters, but he didn’t exactly know which, and was
-uncertain whether he had brought up the right ones in his castle, or the
+uncertain whether he had brought up the right ones in his [[Castle|castle]], or the
 wrong ones; he rather inclined to the latter opinion, and, being uneasy,
 relieved his mind with a banquet, during which solemnity somebody in
 a cloak said ‘Beware!’ which somebody was known by nobody (except the
 audience) to be the outlaw himself, who had come there, for reasons
 unexplained, but possibly with an eye to the spoons. There was an
-agreeable little surprise in the way of certain love passages between
+agreeable little surprise in the way of certain [[Love|love]] passages between
 the desponding captive and Miss Snevellicci, and the comic fighting-man
 and Miss Bravassa; besides which, Mr. Lenville had several very tragic
 scenes in the dark, while on throat-cutting expeditions, which were
 all baffled by the skill and bravery of the comic fighting-man (who
 overheard whatever was said all through the piece) and the intrepidity
 of Miss Snevellicci, who adopted tights, and therein repaired to the
-prison of her captive lover, with a small basket of refreshments and a
+[[Prison|prison]] of her captive [[Lover|lover]], with a small basket of refreshments and a
 dark lantern. At last, it came out that the patriarch was the man
 who had treated the bones of the outlaw’s father-in-law with so much
 disrespect, for which cause and reason the outlaw’s wife repaired to
-his castle to kill him, and so got into a dark room, where, after a good
+his [[Castle|castle]] to kill him, and so got into a dark room, where, after a good
 deal of groping in the dark, everybody got hold of everybody else, and
 took them for somebody besides, which occasioned a vast quantity of
 confusion, with some pistolling, loss of life, and torchlight; after

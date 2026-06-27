@@ -1,5 +1,5 @@
 ---
-title: "Mellonta Tauta (part 1)"
+title: "[[Mellonta Tauta]] (part 1)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/Mellonta-Tauta-(Poe)"
@@ -22,9 +22,9 @@ TO THE EDITORS OF THE LADY’S BOOK:
 
       I have the honor of sending you, for your magazine, an article
 
-      which I hope you will be able to comprehend rather more
+      which I [[Hope|hope]] you will be able to comprehend rather more
 
-      distinctly than I do myself. It is a translation, by my friend,
+      distinctly than I do myself. It is a [[Translation|translation]], by my friend,
 
       Martin Van Buren Mavis, (sometimes called the “Poughkeepsie
 
@@ -32,7 +32,7 @@ TO THE EDITORS OF THE LADY’S BOOK:
 
       tightly corked up in a jug floating in the Mare Tenebrarum—a sea
 
-      well described by the Nubian geographer, but seldom visited
+      [[Well|well]] described by the Nubian geographer, but seldom visited
 
       now-a-days, except for the transcendentalists and divers for
 
@@ -44,7 +44,7 @@ TO THE EDITORS OF THE LADY’S BOOK:
 
 
 
-      EDGAR A. POE
+      [[Edgar|EDGAR]] A. POE
 
 
 
@@ -78,7 +78,7 @@ ON BOARD BALLOON “SKYLARK”
 
       Nobody to talk to. Nothing to do. When one has nothing to do,
 
-      then is the time to correspond with ones friends. You perceive,
+      then is the [[Time|time]] to correspond with ones friends. You perceive,
 
       then, why it is that I write you this letter—it is on account of
 
@@ -102,15 +102,15 @@ ON BOARD BALLOON “SKYLARK”
 
       than positive torture. Upon my word we have not made more than a
 
-      hundred miles the hour since leaving home! The very birds beat
+      hundred miles the hour since leaving [[Home|home]]! The very [[Birds|birds]] beat
 
       us—at least some of them. I assure you that I do not exaggerate
 
-      at all. Our motion, no doubt, seems slower than it actually
+      at all. Our motion, no [[Doubt|doubt]], seems slower than it actually
 
       is—this on account of our having no objects about us by which to
 
-      estimate our velocity, and on account of our going with the wind.
+      estimate our velocity, and on account of our going with the [[Wind|wind]].
 
       To be sure, whenever we meet a balloon we have a chance of
 
@@ -140,7 +140,7 @@ ON BOARD BALLOON “SKYLARK”
 
       species of earth-worm. The worm was carefully fed on mulberries—a
 
-      kind of fruit resembling a water-melon—and, when sufficiently
+      kind of fruit resembling a [[Water|water]]-melon—and, when sufficiently
 
       fat, was crushed in a mill. The paste thus arising was called
 
@@ -156,9 +156,9 @@ ON BOARD BALLOON “SKYLARK”
 
       surrounding the seed-vessels of a plant vulgarly called
 
-      euphorbium, and at that time botanically termed milk-weed. This
+      euphorbium, and at that [[Time|time]] botanically termed milk-weed. This
 
-      latter kind of silk was designated as silk-buckingham, on account
+      latter kind of silk was designated as silk-[[Buckingham|buckingham]], on account
 
       of its superior durability, and was usually prepared for use by
 
@@ -168,7 +168,7 @@ ON BOARD BALLOON “SKYLARK”
 
       in common use. This caoutchouc was occasionally called Indian
 
-      rubber or rubber of twist, and was no doubt one of the numerous
+      rubber or rubber of twist, and was no [[Doubt|doubt]] one of the numerous
 
       fungi. Never tell me again that I am not at heart an antiquarian.
 

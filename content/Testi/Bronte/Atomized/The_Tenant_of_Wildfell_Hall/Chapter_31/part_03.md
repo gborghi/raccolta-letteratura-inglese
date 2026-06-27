@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 31 (part 3)"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 31 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -48,13 +48,13 @@ him to remember the ladies.
 
 
 
-“Ah! you do well to remind me of the ladies, you dastardly deserter,”
+“Ah! you do [[Well|well]] to remind me of the ladies, you dastardly deserter,”
 
 cried he, shaking his formidable fist at his brother-in-law. “If it
 
-were not for them, you well know, I’d demolish you in the twinkling of
+were not for them, you [[Well|well]] know, I’d demolish you in the twinkling of
 
-an eye, and give your body to the fowls of heaven and the lilies of the
+an eye, and give your [[Body|body]] to the fowls of heaven and the lilies of the
 
 fields!” Then, planting a chair by Lady Lowborough’s side, he stationed
 
@@ -72,7 +72,7 @@ Meantime Mr. Grimsby seated himself by me, in the chair vacated by
 
 Hargrave as they entered, and gravely stated that he would thank me for
 
-a cup of tea: and Arthur placed himself beside poor Milicent,
+a cup of tea: and [[arthur|Arthur]] placed himself beside poor Milicent,
 
 confidentially pushing his head into her face, and drawing in closer to
 
@@ -90,11 +90,11 @@ said but herself.
 
 “What fools they are!” drawled Mr. Grimsby, who had been talking away,
 
-at my elbow, with sententious gravity all the time; but I had been too
+at my elbow, with sententious gravity all the [[Time|time]]; but I had been too
 
 much absorbed in contemplating the deplorable state of the other
 
-two—especially Arthur—to attend to him.
+two—especially [[arthur|Arthur]]—to attend to him.
 
 
 
@@ -120,9 +120,9 @@ those candles, will you?”
 
 
 
-“‘The light of the body is the eye,’” observed Hargrave, with a
+“‘The light of the [[Body|body]] is the eye,’” observed Hargrave, with a
 
-sarcastic smile. “‘If thine eye be _single_, thy whole body shall be
+sarcastic smile. “‘If thine eye be _single_, thy whole [[Body|body]] shall be
 
 full of light.’”
 
@@ -136,9 +136,9 @@ of utterance and heavy gravity of aspect as before: “But as I was
 
 saying, Mrs. Huntingdon, they have no head at all: they can’t take half
 
-a bottle without being affected some way; whereas I—well, I’ve taken
+a bottle without being affected some way; whereas I—[[Well|well]], I’ve taken
 
-three times as much as they have to-night, and you see I’m perfectly
+three times as much as they have to-[[Night|night]], and you see I’m perfectly
 
 steady. Now that may strike you as very singular, but I think I can
 
@@ -186,7 +186,7 @@ this cup of tea, and been constrained to trouble you for another.”
 
 too; and I’ll thank you to ring for some more, for here is Lord
 
-Lowborough at last; and I hope his lordship will condescend to sit down
+Lowborough at last; and I [[Hope|hope]] his lordship will condescend to sit down
 
 with us, such as we are, and allow me to give him some tea.”
 
@@ -198,11 +198,11 @@ Meantime, Hargrave volunteered to ring for the sugar, while Grimsby
 
 lamented his mistake, and attempted to prove that it was owing to the
 
-shadow of the urn and the badness of the lights.
+[[Shadow|shadow]] of the urn and the badness of the lights.
 
 
 
-Lord Lowborough had entered a minute or two before, unobserved by
+[[Lord Lowborough]] had entered a minute or two before, unobserved by
 
 anyone but me, and had been standing before the door, grimly surveying
 
@@ -214,7 +214,7 @@ to her, being occupied in vociferously abusing and bullying his host.
 
 
 
-“Well, Annabella,” said her husband, as he leant over the back of her
+“[[Well]], Annabella,” said her husband, as he leant over the back of her
 
 chair, “which of these three ‘bold, manly spirits’ would you have me to
 
@@ -230,10 +230,10 @@ shouted—“_I’ve_ got him! Come, man, and help me! And d—n me, if I don’
 
 make him drunk before I let him go! He shall make up for all past
 
-delinquencies as sure as I’m a living soul!”
+delinquencies as sure as I’m a living [[Soul|soul]]!”
 
 
 
-There followed a disgraceful contest: Lord Lowborough, in desperate
+There followed a disgraceful contest: [[Lord Lowborough]], in desperate
 
 earnest, and pale with anger, silently struggling to release himself

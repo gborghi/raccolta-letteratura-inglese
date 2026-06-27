@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 40 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 40 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -26,13 +26,13 @@ say any thing, after taking a chair.
 
 least I understood her so—or I certainly should not have intruded on
 
-you in such a manner; though at the same time, I should have been
+you in such a manner; though at the same [[Time|time]], I should have been
 
-extremely sorry to leave London without seeing you and your sister;
+extremely sorry to leave [[London]] without seeing you and your sister;
 
-especially as it will most likely be some time—it is not probable that
+especially as it will most likely be some [[Time|time]]—it is not probable that
 
-I should soon have the pleasure of meeting you again. I go to Oxford
+I should soon have the pleasure of meeting you again. I go to [[Oxford]]
 
 tomorrow.”
 
@@ -60,7 +60,7 @@ offering you the living of Delaford now just vacant, and only wishes it
 
 were more valuable. Allow me to congratulate you on having so
 
-respectable and well-judging a friend, and to join in his wish that the
+respectable and [[Well|well]]-judging a friend, and to join in his wish that the
 
 living—it is about two hundred a-year—were much more considerable, and
 
@@ -82,13 +82,13 @@ exciting; but he said only these two words,—
 
 
 
-“Colonel Brandon!”
+“[[Colonel Brandon]]!”
 
 
 
 “Yes,” continued Elinor, gathering more resolution, as some of the
 
-worst was over, “Colonel Brandon means it as a testimony of his concern
+worst was over, “[[Colonel Brandon]] means it as a testimony of his concern
 
 for what has lately passed—for the cruel situation in which the
 
@@ -102,13 +102,13 @@ his particular approbation of your behaviour on the present occasion.”
 
 
 
-“Colonel Brandon give _me_ a living!—Can it be possible?”
+“[[Colonel Brandon]] give _me_ a living!—Can it be possible?”
 
 
 
 “The unkindness of your own relations has made you astonished to find
 
-friendship any where.”
+[[Friendship|friendship]] any where.”
 
 
 
@@ -116,7 +116,7 @@ friendship any where.”
 
 for I cannot be ignorant that to you, to your goodness, I owe it all.—I
 
-feel it—I would express it if I could—but, as you well know, I am no
+feel it—I would express it if I could—but, as you [[Well|well]] know, I am no
 
 orator.”
 
@@ -124,7 +124,7 @@ orator.”
 
 “You are very much mistaken. I do assure you that you owe it entirely,
 
-at least almost entirely, to your own merit, and Colonel Brandon’s
+at least almost entirely, to your own merit, and [[Colonel Brandon]]’s
 
 discernment of it. I have had no hand in it. I did not even know, till
 
@@ -140,21 +140,21 @@ nothing to my solicitation.”
 
 
 
-Truth obliged her to acknowledge some small share in the action, but
+[[Truth]] obliged her to acknowledge some small share in the action, but
 
-she was at the same time so unwilling to appear as the benefactress of
+she was at the same [[Time|time]] so unwilling to appear as the benefactress of
 
 Edward, that she acknowledged it with hesitation; which probably
 
 contributed to fix that suspicion in his mind which had recently
 
-entered it. For a short time he sat deep in thought, after Elinor had
+entered it. For a short [[Time|time]] he sat deep in thought, after Elinor had
 
 ceased to speak;—at last, and as if it were rather an effort, he said,
 
 
 
-“Colonel Brandon seems a man of great worth and respectability. I have
+“[[Colonel Brandon]] seems a man of great worth and respectability. I have
 
 always heard him spoken of as such, and your brother I know esteems him
 
@@ -170,7 +170,7 @@ acquaintance, all that you have heard him to be, and as you will be
 
 such very near neighbours (for I understand the parsonage is almost
 
-close to the mansion-house,) it is particularly important that he
+close to the mansion-[[house]],) it is particularly important that he
 
 _should_ be all this.”
 
@@ -182,17 +182,17 @@ a look so serious, so earnest, so uncheerful, as seemed to say, that he
 
 might hereafter wish the distance between the parsonage and the
 
-mansion-house much greater.
+mansion-[[house]] much greater.
 
 
 
-“Colonel Brandon, I think, lodges in St. James Street,” said he, soon
+“[[Colonel Brandon]], I think, lodges in St. James Street,” said he, soon
 
 afterwards, rising from his chair.
 
 
 
-Elinor told him the number of the house.
+Elinor told him the number of the [[house]].
 
 
 
@@ -230,7 +230,7 @@ Edward; and, of course, to reflect on her own with discontent.
 
 
 
-When Mrs. Jennings came home, though she returned from seeing people
+When Mrs. Jennings came [[Home|home]], though she returned from seeing people
 
 whom she had never seen before, and of whom therefore she must have a
 
@@ -242,7 +242,7 @@ it again as soon as Elinor appeared.
 
 
 
-“Well, my dear,” she cried, “I sent you up the young man. Did not I do
+“[[Well]], my dear,” she cried, “I sent you up the young man. Did not I do
 
 right?—And I suppose you had no great difficulty—You did not find him
 

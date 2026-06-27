@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 46)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 46)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -16,13 +16,13 @@ tags:
 
 ‘The Author submitted that this difficulty was easily overcome, or
 rather that there was no difficulty at all in the case. Obviously the
-course to be pursued, if Her Majesty’s government could be prevailed
+course to be pursued, if Her Majesty’s [[government]] could be prevailed
 upon to take up the plan, would be, to secure at a remunerative salary
 the individual to whom he had alluded as presiding over the exhibition
 in Regent-street at the period of his visit. That gentleman would at
 once be able to put himself in communication with the mass of the
 fleas, and to instruct them in pursuance of some general plan of
-education, to be sanctioned by Parliament, until such time as the more
+[[Education|education]], to be sanctioned by Parliament, until such [[Time|time]] as the more
 intelligent among them were advanced enough to officiate as teachers to
 the rest.
 
@@ -33,7 +33,7 @@ the immediate consideration of the council.
 
 ‘Mr. Wigsby produced a cauliflower somewhat larger than a
 chaise-umbrella, which had been raised by no other artificial means
-than the simple application of highly carbonated soda-water as manure.
+than the simple application of highly carbonated soda-[[Water|water]] as manure.
 He explained that by scooping out the head, which would afford a new
 and delicious species of nourishment for the poor, a parachute, in
 principle something similar to that constructed by M. Garnerin, was at
@@ -42,17 +42,17 @@ he was perfectly willing to make a descent from a height of not less
 than three miles and a quarter; and had in fact already proposed the
 same to the proprietors of Vauxhall Gardens, who in the handsomest
 manner at once consented to his wishes, and appointed an early day next
-summer for the undertaking; merely stipulating that the rim of the
+[[Summer|summer]] for the undertaking; merely stipulating that the rim of the
 cauliflower should be previously broken in three or four places to
 ensure the safety of the descent.
 
 ‘The President congratulated the public on the _grand gala_ in store
 for them, and warmly eulogised the proprietors of the establishment
-alluded to, for their love of science, and regard for the safety of
-human life, both of which did them the highest honour.
+alluded to, for their [[Love|love]] of science, and regard for the safety of
+human life, both of which did them the highest [[Honour|honour]].
 
 ‘A Member wished to know how many thousand additional lamps the royal
-property would be illuminated with, on the night after the descent.
+property would be illuminated with, on the [[Night|night]] after the descent.
 
 ‘Mr. Wigsby replied that the point was not yet finally decided; but he
 believed it was proposed, over and above the ordinary illuminations, to
@@ -71,19 +71,19 @@ in the profession, as many designing persons had falsely stated,
 inasmuch as his father, mother, brothers and sisters, had all fallen
 victims to the butcher at different times. An uncle of his indeed, had
 with very great labour been traced to a sty in Somers Town; but as he
-was in a very infirm state at the time, being afflicted with measles,
+was in a very infirm state at the [[Time|time]], being afflicted with measles,
 and shortly afterwards disappeared, there appeared too much reason to
 conjecture that he had been converted into sausages. The disorder of
 the learned pig was originally a severe cold, which, being aggravated
 by excessive trough indulgence, finally settled upon the lungs, and
-terminated in a general decay of the constitution. A melancholy
+terminated in a general [[Decay|decay]] of the constitution. A [[Melancholy|melancholy]]
 instance of a presentiment entertained by the animal of his approaching
 dissolution, was recorded. After gratifying a numerous and fashionable
 company with his performances, in which no falling off whatever was
 visible, he fixed his eyes on the biographer, and, turning to the watch
 which lay on the floor, and on which he was accustomed to point out the
 hour, deliberately passed his snout twice round the dial. In precisely
-four-and-twenty hours from that time he had ceased to exist!
+four-and-twenty hours from that [[Time|time]] he had ceased to exist!
 
 ‘Professor Wheezy inquired whether, previous to his demise, the animal
 had expressed, by signs or otherwise, any wishes regarding the disposal

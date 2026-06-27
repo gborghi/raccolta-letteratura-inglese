@@ -46,7 +46,7 @@ tags:
 
       square, had remained uninjured. I did not hesitate, however, to
 
-      attempt the descent; and a rope being fastened round my body as
+      attempt the descent; and a rope being fastened round my [[Body|body]] as
 
       before, I plunged boldly in, feet foremost, made my way quickly
 
@@ -62,7 +62,7 @@ tags:
 
       We now commenced cutting at the deck with all the energy of
 
-      rekindled hope, Peters and myself taking the axe by turns,
+      rekindled [[Hope|hope]], Peters and myself taking the axe by turns,
 
       Augustus’s wounded arm not permitting him to aid us in any
 
@@ -78,7 +78,7 @@ tags:
 
       storeroom. This consideration, however, did not discourage us;
 
-      and, working all night by the light of the moon, we succeeded in
+      and, working all [[Night|night]] by the light of the [[Moon|moon]], we succeeded in
 
       effecting our purpose by daybreak on the morning of the
 
@@ -96,7 +96,7 @@ tags:
 
       with the greatest avidity, we proceeded to let him down again.
 
-      This time he succeeded beyond our utmost expectations, returning
+      This [[Time|time]] he succeeded beyond our utmost expectations, returning
 
       instantly with a large ham and a bottle of Madeira wine. Of the
 
@@ -106,7 +106,7 @@ tags:
 
       except about two pounds near the bone, was not in a condition to
 
-      be eaten, having been entirely spoiled by the salt water. The
+      be eaten, having been entirely spoiled by the salt [[Water|water]]. The
 
       sound part was divided among us. Peters and Augustus, not being
 
@@ -120,11 +120,11 @@ tags:
 
 
 
-      By noon, feeling somewhat strengthened and refreshed, we again
+      By [[Noon|noon]], feeling somewhat strengthened and refreshed, we again
 
       renewed our attempt at getting up provisions, Peters and myself
 
-      going down alternately, and always with more or less success,
+      going down alternately, and always with more or less [[success]],
 
       until sundown. During this interval we had the good fortune to
 
@@ -152,7 +152,7 @@ tags:
 
       islands called the Gallipagos, which, indeed, derive their name
 
-      from the animal—the Spanish word Gallipago meaning a fresh-water
+      from the animal—the Spanish word Gallipago meaning a fresh-[[Water|water]]
 
       terrapin. From the peculiarity of their shape and action they
 
@@ -180,24 +180,24 @@ tags:
 
       resemblance to that of a serpent. They can exist without food for
 
-      an almost incredible length of time, instances having been known
+      an almost incredible length of [[Time|time]], instances having been known
 
       where they have been thrown into the hold of a vessel and lain
 
       two years without nourishment of any kind—being as fat, and, in
 
-      every respect, in as good order at the expiration of the time as
+      every respect, in as good order at the expiration of the [[Time|time]] as
 
       when they were first put in. In one particular these
 
-      extraordinary animals bear a resemblance to the dromedary, or
+      extraordinary [[Animals|animals]] bear a resemblance to the dromedary, or
 
-      camel of the desert. In a bag at the root of the neck they carry
+      camel of the [[Desert|desert]]. In a bag at the root of the neck they carry
 
-      with them a constant supply of water. In some instances, upon
+      with them a constant supply of [[Water|water]]. In some instances, upon
 
       killing them after a full year’s deprivation of all nourishment,
 
-      as much as three gallons of perfectly sweet and fresh water have
+      as much as three gallons of perfectly sweet and fresh [[Water|water]] have
 
       been found in their bags. Their food is chiefly wild parsley and

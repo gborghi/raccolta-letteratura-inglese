@@ -1,5 +1,5 @@
 ---
-title: "longbow2 — Chapter 5 (part 1)"
+title: "[[longbow2]] — Chapter 5 (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/longbow2-(Chesterton)"
@@ -23,7 +23,7 @@ The Exclusive Luxury of Enoch Oates
 
 
 The conscientious scribe cannot but be aware that the above sentence,
-standing alone and without reference to previous matters, may not
+standing [[Alone|alone]] and without reference to previous matters, may not
 entirely explain itself.  Anyone trying the experiment of using
 that sentence for practical social purposes; tossing that sentence
 lightly as a greeting to a passer-by; sending that sentence as a
@@ -38,11 +38,11 @@ course of these narratives, and return to a date very much earlier,
 when men now more than middle-aged were quite young.
 
 It was in the days when the Colonel was not the Colonel, but only
-Jimmy Crane, a restless youth tossed about by every wind of adventure,
+Jimmy Crane, a restless youth tossed about by every [[Wind|wind]] of adventure,
 but as yet as incapable of discipline as of dressing for dinner. 
 It was in days before Robert Owen Hood, the lawyer, had ever
 begun to study the law and had only got so far as to abolish it;
-coming down to the club every night with a new plan for a revolution
+coming down to the club every [[Night|night]] with a new plan for a revolution
 to turn all earthly tribunals upside down.  It was in days before
 Wilding White settled down as a country parson, returning to the creed
 though not the conventions of his class and country; when he was
@@ -97,7 +97,7 @@ than the bewildering successive philosophies of his friend White.
 He had an enthusiasm for the myths of savages, and while White was
 balancing the relative claims of Buddhism and Brahminism, Crane would
 boldly declare his preference for the belief that a big fish ate
-the sun every night, or that the whole cosmos was created by cutting
+the sun every [[Night|night]], or that the whole cosmos was created by cutting
 up a giant.  Moreover, there was with all this something indefinable
 but in some way more serious about Crane even in those days. 
 There was much that was merely boyish about the blind impetuosity
@@ -116,15 +116,15 @@ in particular, except a large revolver slung round him in a case like
 a field-glass, and a big, green umbrella that he flourished resolutely
 as he walked.
 
-"Well, he'll come back a queerer figure than he went, I suppose,"
+"[[Well]], he'll come back a queerer figure than he went, I suppose,"
 said Wilding White.
 
 "He couldn't," answered Hood, the lawyer, shaking his head. 
 "I don't believe all the devil-worship in Africa could make him any
 madder than he is."
 
-"But he's going to America first, isn't he?" said the other.
+"But he's going to [[America]] first, isn't he?" said the other.
 
-"Yes," said Hood.  "He's going to America, but not to see
+"Yes," said Hood.  "He's going to [[America]], but not to see
 the Americans.  He would think the Americans very dull compared with
 the American Indians.  Possibly he will come back in feathers and war-paint."

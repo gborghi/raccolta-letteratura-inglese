@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 1: desire to say as little as possible; I will discuss any other (part 7)"
+title: "[[ApprAndCritOfChDickens]] — Book 1: [[Desire|desire]] to say as little as possible; I will discuss any other (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -30,7 +30,7 @@ he had the power to live. And indeed it is most valuable to have these
 
 early specimens of the Dickens work if only because they are specimens
 
-of his spirit apart from his matured intelligence. It is well to be able
+of his spirit apart from his matured intelligence. It is [[Well|well]] to be able
 
 to realise that contact with the Dickens world is almost like a physical
 
@@ -48,7 +48,7 @@ Ramsgate_. He will not find very much of that verbal felicity or
 
 fantastic irony that Dickens afterwards developed; the incidents are
 
-upon the plain lines of the stock comedy of the day: sharpers who entrap
+upon the plain lines of the stock [[Comedy|comedy]] of the day: sharpers who entrap
 
 simpletons, spinsters who angle for husbands, youths who try to look
 
@@ -62,25 +62,25 @@ fun. Doubtless, for instance, a million comic writers of that epoch had
 
 made game of the dark, romantic young man who pretended to abysses of
 
-philosophy and despair. And it is not easy to say exactly why we feel
+[[philosophy]] and [[Despair|despair]]. And it is not easy to say exactly why we feel
 
-that the few metaphysical remarks of Mr. Horatio Sparkins are in some
+that the few metaphysical remarks of Mr. [[Horatio]] Sparkins are in some
 
 way really much funnier than any of those old stock jokes. It is in a
 
-certain quality of deep enjoyment in the writer as well as the reader;
+certain quality of deep enjoyment in the writer as [[Well|well]] as the reader;
 
 as if the few words written had been dipped in dark nonsense and were,
 
 as it were, reeking with derision. "Because if Effect be the result of
 
-Cause and Cause be the Precursor of Effect," said Mr. Horatio Sparkins,
+Cause and Cause be the Precursor of Effect," said Mr. [[Horatio]] Sparkins,
 
 "I apprehend that you are wrong." Nobody can get at the real secret of
 
 sentences like that; sentences which were afterwards strewed with
 
-reckless liberality over the conversation of Dick Swiveller or Mr.
+reckless liberality over the conversation of [[Dick Swiveller]] or Mr.
 
 Mantalini, Sim Tappertit or Mr. Pecksniff. Though the joke seems most
 
@@ -94,7 +94,7 @@ drinking, or in Mr. Mantalini deceiving his wife. It is something in
 
 the arrangement of the words; something in a last inspired turn of
 
-absurdity given to a sentence. In spite of everything Horatio Sparkins
+absurdity given to a sentence. In spite of everything [[Horatio]] Sparkins
 
 is funny. We cannot tell why he is funny. When we know why he is funny
 
@@ -104,13 +104,13 @@ we shall know why Dickens is great.
 
 Standing as we do here upon the threshold, as it were, of the work of
 
-Dickens, it may be well perhaps to state this truth as being, after all,
+Dickens, it may be [[Well|well]] perhaps to state this [[Truth|truth]] as being, after all,
 
 the most important one. This first work had, as I have said, the faults
 
 of first work and the special faults that arose from its author's
 
-accidental history; he was deprived of education, and therefore it was
+accidental [[history]]; he was deprived of [[Education|education]], and therefore it was
 
 in some ways uneducated; he was confronted with the folly and failure of
 
@@ -154,13 +154,13 @@ the phrase goes) by the fact that he seems to be echoing a poor kind of
 
 claptrap in his choice of incidents and images. Partly, of course, he
 
-suffers from the very fact of his success; his play with these topics
+suffers from the very fact of his [[success]]; his play with these topics
 
 was so good that every one else has played with them increasingly since;
 
 he may indeed have copied the old jokes, but he certainly renewed them.
 
-For instance, "Ally Sloper" was certainly copied from Wilkins Micawber.
+For instance, "Ally Sloper" was certainly copied from [[Wilkins Micawber]].
 
 To this day you may see (in the front page of that fine periodical) the
 
@@ -172,7 +172,7 @@ from Micawber, for that very reason the new generation feels as if
 
 Micawber were stolen from "Sloper." Many modern readers feel as if
 
-Dickens were copying the comic papers, whereas in truth the comic papers
+Dickens were copying the comic papers, whereas in [[Truth|truth]] the comic papers
 
 are still copying Dickens.
 
@@ -184,8 +184,8 @@ established topics. There is no clearer sign of the absence of
 
 originality among modern poets than their disposition to find new
 
-themes. Really original poets write poems about the spring. They are
+themes. Really original poets write [[Poems|poems]] about the [[spring]]. They are
 
-always fresh, just as the spring is always fresh. Men wholly without
+always fresh, just as the [[spring]] is always fresh. Men wholly without
 
-originality write poems about torture, or new religions, of some
+originality write [[Poems|poems]] about torture, or new religions, of some

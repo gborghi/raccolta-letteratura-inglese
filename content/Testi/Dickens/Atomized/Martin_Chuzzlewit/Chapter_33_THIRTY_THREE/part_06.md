@@ -1,5 +1,5 @@
 ---
-title: "Martin Chuzzlewit — Chapter 33: THIRTY THREE (part 6)"
+title: "[[Martin Chuzzlewit]] — Chapter 33: THIRTY THREE (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Martin-Chuzzlewit-(Dickens)"
@@ -15,9 +15,9 @@ tags:
 
 
 ‘Shall I tell him so, and only ask him for money enough to enable us by
-the cheapest means to reach New York, or any port from which we may hope
-to get a passage home, by serving in any capacity? Explaining to him
-at the same time how I am connected, and that I will endeavour to
+the cheapest means to reach [[New York]], or any port from which we may [[Hope|hope]]
+to get a passage [[Home|home]], by serving in any capacity? Explaining to him
+at the same [[Time|time]] how I am connected, and that I will endeavour to
 repay him, even through my grandfather, immediately on our arrival in
 England?’
 
@@ -41,7 +41,7 @@ straightforward terms. Mark highly commended it; and they determined to
 dispatch it by the next steamboat going the right way, that might call
 to take in wood at Eden--where there was plenty of wood to spare.
 Not knowing how to address Mr Bevan at his own place of abode, Martin
-superscribed it to the care of the memorable Mr Norris of New York,
+superscribed it to the care of the memorable Mr Norris of [[New York]],
 and wrote upon the cover an entreaty that it might be forwarded without
 delay.
 
@@ -54,7 +54,7 @@ the boat depart, stopped up the gangway; an instance of neglect which
 caused the ‘Capting’ of the Esau Slodge to ‘wish he might be sifted fine
 as flour, and whittled small as chips; that if they didn’t come off that
 there fixing right smart too, he’d spill ‘em in the drink;’ whereby the
-Capting metaphorically said he’d throw them in the river.
+Capting metaphorically said he’d throw them in the [[River|river]].
 
 They were not likely to receive an answer for eight or ten weeks at the
 earliest. In the meantime they devoted such strength as they had to
@@ -69,20 +69,20 @@ each other after their own manner in these struggles, and in all others;
 but they worked as hopelessly and sadly as a gang of convicts in a penal
 settlement.
 
-Often at night when Mark and Martin were alone, and lying down to sleep,
-they spoke of home, familiar places, houses, roads, and people whom they
-knew; sometimes in the lively hope of seeing them again, and sometimes
-with a sorrowful tranquillity, as if that hope were dead. It was a
-source of great amazement to Mark Tapley to find, pervading all these
+Often at [[Night|night]] when Mark and Martin were [[Alone|alone]], and lying down to [[Sleep|sleep]],
+they spoke of [[Home|home]], familiar places, houses, roads, and people whom they
+knew; sometimes in the lively [[Hope|hope]] of seeing them again, and sometimes
+with a sorrowful tranquillity, as if that [[Hope|hope]] were dead. It was a
+source of great amazement to [[Mark Tapley]] to find, pervading all these
 conversations, a singular alteration in Martin.
 
-‘I don’t know what to make of him,’ he thought one night, ‘he ain’t what
+‘I don’t know what to make of him,’ he thought one [[Night|night]], ‘he ain’t what
 I supposed. He don’t think of himself half as much. I’ll try him again.
 Asleep, sir?’
 
 ‘No, Mark.’
 
-‘Thinking of home, sir?’
+‘Thinking of [[Home|home]], sir?’
 
 ‘Yes, Mark.’
 
@@ -95,17 +95,17 @@ now.’
 nothing, sir. Takes no care of himself?’
 
 ‘I wish he took a little more, indeed,’ said Martin. ‘Though I don’t
-know why I should. We shouldn’t like him half as well, perhaps.’
+know why I should. We shouldn’t like him half as [[Well|well]], perhaps.’
 
 ‘He gets put upon, sir,’ hinted Mark.
 
-‘Yes!’ said Martin, after a short silence. ‘I know that, Mark.’
+‘Yes!’ said Martin, after a short [[Silence|silence]]. ‘I know that, Mark.’
 
 He spoke so regretfully that his partner abandoned the theme, and was
-silent for a short time until he had thought of another.
+silent for a short [[Time|time]] until he had thought of another.
 
 ‘Ah, sir!’ said Mark, with a sigh. ‘Dear me! You’ve ventured a good deal
-for a young lady’s love!’
+for a young lady’s [[Love|love]]!’
 
 ‘I tell you what. I’m not so sure of that, Mark,’ was the reply; so
 hastily and energetically spoken, that Martin sat up in his bed to give
@@ -114,7 +114,7 @@ very unhappy. She has sacrificed her peace of mind; she has endangered
 her interests very much; she can’t run away from those who are jealous
 of her, and opposed to her, as I have done. She has to endure, Mark; to
 endure without the possibility of action, poor girl! I begin to think
-that she has more to bear than ever I had. Upon my soul I do!’
+that she has more to bear than ever I had. Upon my [[Soul|soul]] I do!’
 
 Mr Tapley opened his eyes wide in the dark; but did not interrupt.
 
@@ -131,26 +131,26 @@ knowing I was poor and proud (Heaven help me! Proud!) and wanted money.’
 ‘I say so. I know it. I thought of it, my good fellow, hundreds of
 times, while you were lying ill. And like a beast, I took it from her
 hand, and wore it on my own, and never dreamed of this even at the
-moment when I parted with it, when some faint glimmering of the truth
+moment when I parted with it, when some faint glimmering of the [[Truth|truth]]
 might surely have possessed me! But it’s late,’ said Martin, checking
 himself, ‘and you are weak and tired, I know. You only talk to cheer me
-up. Good night! God bless you, Mark!’
+up. Good [[Night|night]]! God bless you, Mark!’
 
 ‘God bless you, sir! But I’m reg’larly defrauded,’ thought Mr Tapley,
 turning round with a happy face. ‘It’s a swindle. I never entered for
 this sort of service. There’ll be no credit in being jolly with HIM!’
 
-The time wore on, and other steamboats coming from the point on which
+The [[Time|time]] wore on, and other steamboats coming from the point on which
 their hopes were fixed, arrived to take in wood; but still no answer
 to the letter. Rain, heat, foul slime, and noxious vapour, with all the
 ills and filthy things they bred, prevailed. The earth, the air, the
-vegetation, and the water that they drank, all teemed with deadly
+vegetation, and the [[Water|water]] that they drank, all teemed with deadly
 properties. Their fellow-passenger had lost two children long before;
 and buried now her last. Such things are much too common to be widely
 known or cared for. Smart citizens grow rich, and friendless victims
 smart and die, and are forgotten. That is all.
 
-At last a boat came panting up the ugly river, and stopped at Eden. Mark
+At last a boat came panting up the ugly [[River|river]], and stopped at Eden. Mark
 was waiting at the wood hut when it came, and had a letter handed to
 him from on board. He bore it off to Martin. They looked at one another,
 trembling.
@@ -159,29 +159,29 @@ trembling.
 dollar-notes fell out upon the ground.
 
 What either of them said, or did, or felt, at first, neither of them
-knew. All Mark could ever tell was, that he was at the river’s bank
+knew. All Mark could ever tell was, that he was at the [[River|river]]’s bank
 again out of breath, before the boat had gone, inquiring when it would
 retrace its track and put in there.
 
 The answer was, in ten or twelve days; notwithstanding which they began
-to get their goods together and to tie them up that very night. When
+to get their goods together and to tie them up that very [[Night|night]]. When
 this stage of excitement was passed, each of them believed (they found
 this out, in talking of it afterwards) that he would surely die before
 the boat returned.
 
 They lived, however, and it came, after the lapse of three long crawling
-weeks. At sunrise, on an autumn day, they stood upon her deck.
+weeks. At sunrise, on an [[Autumn|autumn]] day, they stood upon her deck.
 
-‘Courage! We shall meet again!’ cried Martin, waving his hand to two
+‘[[Courage]]! We shall meet again!’ cried Martin, waving his hand to two
 thin figures on the bank. ‘In the Old World!’
 
 ‘Or in the next one,’ added Mark below his breath. ‘To see them standing
 side by side, so quiet, is a’most the worst of all!’
 
 They looked at one another as the vessel moved away, and then looked
-backward at the spot from which it hurried fast. The log-house, with the
+backward at the spot from which it hurried fast. The log-[[house]], with the
 open door, and drooping trees about it; the stagnant morning mist, and
-red sun, dimly seen beyond; the vapour rising up from land and river;
+red sun, dimly seen beyond; the vapour rising up from land and [[River|river]];
 the quick stream making the loathsome banks it washed more flat and
-dull; how often they returned in dreams! How often it was happiness to
+dull; how often they returned in [[Dreams|dreams]]! How often it was happiness to
 wake and find them Shadows that had vanished!

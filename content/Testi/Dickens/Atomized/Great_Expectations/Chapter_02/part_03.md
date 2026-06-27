@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 2 (part 3)"
+title: "[[Great Expectations]] — Chapter 2 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -19,14 +19,14 @@ tags:
 “What does that mean, Joe?” said I.
 
 Mrs. Joe, who always took explanations upon herself, said, snappishly,
-“Escaped. Escaped.” Administering the definition like Tar-water.
+“Escaped. Escaped.” Administering the definition like Tar-[[Water|water]].
 
 While Mrs. Joe sat with her head bending over her needlework, I put my
 mouth into the forms of saying to Joe, “What’s a convict?” Joe put
 _his_ mouth into the forms of returning such a highly elaborate answer,
 that I could make out nothing of it but the single word “Pip.”
 
-“There was a conwict off last night,” said Joe, aloud, “after
+“There was a conwict off last [[Night|night]],” said Joe, aloud, “after
 sunset-gun. And they fired warning of him. And now it appears they’re
 firing warning of another.”
 
@@ -56,20 +56,20 @@ that but rather the contrary. “From the Hulks!”
 
 “Oh-h!” said I, looking at Joe. “Hulks!”
 
-Joe gave a reproachful cough, as much as to say, “Well, I told you so.”
+Joe gave a reproachful cough, as much as to say, “[[Well]], I told you so.”
 
 “And please, what’s Hulks?” said I.
 
 “That’s the way with this boy!” exclaimed my sister, pointing me out
 with her needle and thread, and shaking her head at me. “Answer him one
-question, and he’ll ask you a dozen directly. Hulks are prison-ships,
-right ’cross th’ meshes.” We always used that name for marshes, in our
+question, and he’ll ask you a dozen directly. Hulks are [[Prison|prison]]-ships,
+right ’[[Cross|cross]] th’ meshes.” We always used that name for marshes, in our
 country.
 
-“I wonder who’s put into prison-ships, and why they’re put there?” said
+“I [[Wonder|wonder]] who’s put into [[Prison|prison]]-ships, and why they’re put there?” said
 I, in a general way, and with quiet desperation.
 
-It was too much for Mrs. Joe, who immediately rose. “I tell you what,
+It was too much for Mrs. Joe, who immediately [[Rose|rose]]. “I tell you what,
 young fellow,” said she, “I didn’t bring you up by hand to badger
 people’s lives out. It would be blame to me and not praise, if I had.
 People are put in the Hulks because they murder, and because they rob,
@@ -83,49 +83,49 @@ felt fearfully sensible of the great convenience that the hulks were
 handy for me. I was clearly on my way there. I had begun by asking
 questions, and I was going to rob Mrs. Joe.
 
-Since that time, which is far enough away now, I have often thought
+Since that [[Time|time]], which is far enough away now, I have often thought
 that few people know what secrecy there is in the young under terror.
 No matter how unreasonable the terror, so that it be terror. I was in
 mortal terror of the young man who wanted my heart and liver; I was in
 mortal terror of my interlocutor with the iron leg; I was in mortal
 terror of myself, from whom an awful promise had been extracted; I had
-no hope of deliverance through my all-powerful sister, who repulsed me
+no [[Hope|hope]] of deliverance through my all-powerful sister, who repulsed me
 at every turn; I am afraid to think of what I might have done on
 requirement, in the secrecy of my terror.
 
-If I slept at all that night, it was only to imagine myself drifting
-down the river on a strong spring-tide, to the Hulks; a ghostly pirate
+If I slept at all that [[Night|night]], it was only to imagine myself drifting
+down the [[River|river]] on a strong [[spring]]-tide, to the Hulks; a ghostly pirate
 calling out to me through a speaking-trumpet, as I passed the
 gibbet-station, that I had better come ashore and be hanged there at
-once, and not put it off. I was afraid to sleep, even if I had been
-inclined, for I knew that at the first faint dawn of morning I must rob
-the pantry. There was no doing it in the night, for there was no
+once, and not put it off. I was afraid to [[Sleep|sleep]], even if I had been
+inclined, for I knew that at the first faint [[Dawn|dawn]] of morning I must rob
+the pantry. There was no doing it in the [[Night|night]], for there was no
 getting a light by easy friction then; to have got one I must have
 struck it out of flint and steel, and have made a noise like the very
-pirate himself rattling his chains.
+pirate himself rattling his [[Chains|chains]].
 
-As soon as the great black velvet pall outside my little window was
+As soon as the great black velvet pall outside my little [[Window|window]] was
 shot with grey, I got up and went downstairs; every board upon the way,
 and every crack in every board calling after me, “Stop thief!” and “Get
 up, Mrs. Joe!” In the pantry, which was far more abundantly supplied
 than usual, owing to the season, I was very much alarmed by a hare
 hanging up by the heels, whom I rather thought I caught, when my back
-was half turned, winking. I had no time for verification, no time for
-selection, no time for anything, for I had no time to spare. I stole
-some bread, some rind of cheese, about half a jar of mincemeat (which I
-tied up in my pocket-handkerchief with my last night’s slice), some
+was half turned, winking. I had no [[Time|time]] for verification, no [[Time|time]] for
+selection, no [[Time|time]] for anything, for I had no [[Time|time]] to spare. I stole
+some bread, some rind of [[cheese]], about half a jar of mincemeat (which I
+tied up in my pocket-handkerchief with my last [[Night|night]]’s slice), some
 brandy from a stone bottle (which I decanted into a glass bottle I had
 secretly used for making that intoxicating fluid,
-Spanish-liquorice-water, up in my room: diluting the stone bottle from
+Spanish-liquorice-[[Water|water]], up in my room: diluting the stone bottle from
 a jug in the kitchen cupboard), a meat bone with very little on it, and
 a beautiful round compact pork pie. I was nearly going away without the
 pie, but I was tempted to mount upon a shelf, to look what it was that
 was put away so carefully in a covered earthenware dish in a corner,
-and I found it was the pie, and I took it in the hope that it was not
-intended for early use, and would not be missed for some time.
+and I found it was the pie, and I took it in the [[Hope|hope]] that it was not
+intended for early use, and would not be missed for some [[Time|time]].
 
 There was a door in the kitchen, communicating with the forge; I
 unlocked and unbolted that door, and got a file from among Joe’s tools.
 Then I put the fastenings as I had found them, opened the door at which
-I had entered when I ran home last night, shut it, and ran for the
+I had entered when I ran [[Home|home]] last [[Night|night]], shut it, and ran for the
 misty marshes.

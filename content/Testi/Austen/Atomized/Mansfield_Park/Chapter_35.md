@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 35"
+title: "[[Mansfield Park]] — Chapter 35"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -17,7 +17,7 @@ tags:
 CHAPTER XXXV
 
 
-Edmund had determined that it belonged entirely to Fanny to chuse
+[[Edmund]] had determined that it belonged entirely to Fanny to chuse
 whether her situation with regard to Crawford should be mentioned
 between them or not; and that if she did not lead the way, it should
 never be touched on by him; but after a day or two of mutual reserve,
@@ -25,9 +25,9 @@ he was induced by his father to change his mind, and try what his
 influence might do for his friend.
 
 A day, and a very early day, was actually fixed for the Crawfords’
-departure; and Sir Thomas thought it might be as well to make one more
+departure; and Sir Thomas thought it might be as [[Well|well]] to make one more
 effort for the young man before he left Mansfield, that all his
-professions and vows of unshaken attachment might have as much hope to
+professions and vows of unshaken attachment might have as much [[Hope|hope]] to
 sustain them as possible.
 
 Sir Thomas was most cordially anxious for the perfection of Mr.
@@ -35,9 +35,9 @@ Crawford’s character in that point. He wished him to be a model of
 constancy; and fancied the best means of effecting it would be by not
 trying him too long.
 
-Edmund was not unwilling to be persuaded to engage in the business; he
+[[Edmund]] was not unwilling to be persuaded to engage in the business; he
 wanted to know Fanny’s feelings. She had been used to consult him in
-every difficulty, and he loved her too well to bear to be denied her
+every difficulty, and he loved her too [[Well|well]] to bear to be denied her
 confidence now; he hoped to be of service to her, he thought he must be
 of service to her; whom else had she to open her heart to? If she did
 not need counsel, she must need the comfort of communication. Fanny
@@ -46,9 +46,9 @@ things; a state which he must break through, and which he could easily
 learn to think she was wanting him to break through.
 
 “I will speak to her, sir: I will take the first opportunity of
-speaking to her alone,” was the result of such thoughts as these; and
-upon Sir Thomas’s information of her being at that very time walking
-alone in the shrubbery, he instantly joined her.
+speaking to her [[Alone|alone]],” was the result of such thoughts as these; and
+upon Sir Thomas’s information of her being at that very [[Time|time]] walking
+[[Alone|alone]] in the shrubbery, he instantly joined her.
 
 “I am come to walk with you, Fanny,” said he. “Shall I?” Drawing her
 arm within his. “It is a long while since we have had a comfortable
@@ -86,7 +86,7 @@ This is such a comfort!”
 
 “This comfort you might have had sooner, Fanny, had you sought it. But
 how could you possibly suppose me against you? How could you imagine me
-an advocate for marriage without love? Were I even careless in general
+an advocate for [[Marriage|marriage]] without [[Love|love]]? Were I even careless in general
 on such matters, how could you imagine me so where your happiness was
 at stake?”
 
@@ -94,48 +94,48 @@ at stake?”
 
 “As far as you have gone, Fanny, I think you perfectly right. I may be
 sorry, I may be surprised—though hardly _that_, for you had not had
-time to attach yourself—but I think you perfectly right. Can it admit
-of a question? It is disgraceful to us if it does. You did not love
+[[Time|time]] to attach yourself—but I think you perfectly right. Can it admit
+of a question? It is disgraceful to us if it does. You did not [[Love|love]]
 him; nothing could have justified your accepting him.”
 
 Fanny had not felt so comfortable for days and days.
 
 “So far your conduct has been faultless, and they were quite mistaken
 who wished you to do otherwise. But the matter does not end here.
-Crawford’s is no common attachment; he perseveres, with the hope of
+Crawford’s is no common attachment; he perseveres, with the [[Hope|hope]] of
 creating that regard which had not been created before. This, we know,
-must be a work of time. But” (with an affectionate smile) “let him
+must be a work of [[Time|time]]. But” (with an affectionate smile) “let him
 succeed at last, Fanny, let him succeed at last. You have proved
 yourself upright and disinterested, prove yourself grateful and
 tender-hearted; and then you will be the perfect model of a woman which
 I have always believed you born for.”
 
 “Oh! never, never, never! he never will succeed with me.” And she spoke
-with a warmth which quite astonished Edmund, and which she blushed at
+with a warmth which quite astonished [[Edmund]], and which she blushed at
 the recollection of herself, when she saw his look, and heard him
 reply, “Never! Fanny!—so very determined and positive! This is not like
-yourself, your rational self.”
+yourself, your rational [[Self|self]].”
 
 “I mean,” she cried, sorrowfully correcting herself, “that I _think_ I
 never shall, as far as the future can be answered for; I think I never
 shall return his regard.”
 
-“I must hope better things. I am aware, more aware than Crawford can
-be, that the man who means to make you love him (you having due notice
+“I must [[Hope|hope]] better things. I am aware, more aware than Crawford can
+be, that the man who means to make you [[Love|love]] him (you having due notice
 of his intentions) must have very uphill work, for there are all your
 early attachments and habits in battle array; and before he can get
 your heart for his own use he has to unfasten it from all the holds
 upon things animate and inanimate, which so many years’ growth have
 confirmed, and which are considerably tightened for the moment by the
 very idea of separation. I know that the apprehension of being forced
-to quit Mansfield will for a time be arming you against him. I wish he
+to quit Mansfield will for a [[Time|time]] be arming you against him. I wish he
 had not been obliged to tell you what he was trying for. I wish he had
-known you as well as I do, Fanny. Between us, I think we should have
+known you as [[Well|well]] as I do, Fanny. Between us, I think we should have
 won you. My theoretical and his practical knowledge together could not
-have failed. He should have worked upon my plans. I must hope, however,
-that time, proving him (as I firmly believe it will) to deserve you by
+have failed. He should have worked upon my plans. I must [[Hope|hope]], however,
+that [[Time|time]], proving him (as I firmly believe it will) to deserve you by
 his steady affection, will give him his reward. I cannot suppose that
-you have not the _wish_ to love him—the natural wish of gratitude. You
+you have not the _wish_ to [[Love|love]] him—the natural wish of gratitude. You
 must have some feeling of that sort. You must be sorry for your own
 indifference.”
 
@@ -149,7 +149,7 @@ dissimilar. We have not one taste in common. We should be miserable.”
 quite enough alike. You _have_ tastes in common. You have moral and
 literary tastes in common. You have both warm hearts and benevolent
 feelings; and, Fanny, who that heard him read, and saw you listen to
-Shakespeare the other night, will think you unfitted as companions? You
+Shakespeare the other [[Night|night]], will think you unfitted as companions? You
 forget yourself: there is a decided difference in your tempers, I
 allow. He is lively, you are serious; but so much the better: his
 spirits will support yours. It is your disposition to be easily
@@ -162,15 +162,15 @@ I am myself convinced that it is rather a favourable circumstance. I am
 perfectly persuaded that the tempers had better be unlike: I mean
 unlike in the flow of the spirits, in the manners, in the inclination
 for much or little company, in the propensity to talk or to be silent,
-to be grave or to be gay. Some opposition here is, I am thoroughly
+to be [[Grave|grave]] or to be gay. Some opposition here is, I am thoroughly
 convinced, friendly to matrimonial happiness. I exclude extremes, of
 course; and a very close resemblance in all those points would be the
 likeliest way to produce an extreme. A counteraction, gentle and
 continual, is the best safeguard of manners and conduct.”
 
-Full well could Fanny guess where his thoughts were now: Miss
+Full [[Well|well]] could Fanny guess where his thoughts were now: Miss
 Crawford’s power was all returning. He had been speaking of her
-cheerfully from the hour of his coming home. His avoiding her was quite
+cheerfully from the hour of his coming [[Home|home]]. His avoiding her was quite
 at an end. He had dined at the Parsonage only the preceding day.
 
 After leaving him to his happier thoughts for some minutes, Fanny,
@@ -179,44 +179,44 @@ not merely in _temper_ that I consider him as totally unsuited to
 myself; though, in _that_ respect, I think the difference between us
 too great, infinitely too great: his spirits often oppress me; but
 there is something in him which I object to still more. I must say,
-cousin, that I cannot approve his character. I have not thought well of
-him from the time of the play. I then saw him behaving, as it appeared
+cousin, that I cannot approve his character. I have not thought [[Well|well]] of
+him from the [[Time|time]] of the play. I then saw him behaving, as it appeared
 to me, so very improperly and unfeelingly—I may speak of it now because
 it is all over—so improperly by poor Mr. Rushworth, not seeming to care
-how he exposed or hurt him, and paying attentions to my cousin Maria,
-which—in short, at the time of the play, I received an impression which
+how he exposed or hurt him, and paying attentions to my cousin [[Maria]],
+which—in short, at the [[Time|time]] of the play, I received an impression which
 will never be got over.”
 
-“My dear Fanny,” replied Edmund, scarcely hearing her to the end, “let
+“My dear Fanny,” replied [[Edmund]], scarcely hearing her to the end, “let
 us not, any of us, be judged by what we appeared at that period of
-general folly. The time of the play is a time which I hate to
-recollect. Maria was wrong, Crawford was wrong, we were all wrong
+general folly. The [[Time|time]] of the play is a [[Time|time]] which I hate to
+recollect. [[Maria]] was wrong, Crawford was wrong, we were all wrong
 together; but none so wrong as myself. Compared with me, all the rest
-were blameless. I was playing the fool with my eyes open.”
+were blameless. I was playing the [[Fool|fool]] with my eyes open.”
 
 “As a bystander,” said Fanny, “perhaps I saw more than you did; and I
 do think that Mr. Rushworth was sometimes very jealous.”
 
-“Very possibly. No wonder. Nothing could be more improper than the
-whole business. I am shocked whenever I think that Maria could be
+“Very possibly. No [[Wonder|wonder]]. Nothing could be more improper than the
+whole business. I am shocked whenever I think that [[Maria]] could be
 capable of it; but, if she could undertake the part, we must not be
 surprised at the rest.”
 
 “Before the play, I am much mistaken if _Julia_ did not think he was
 paying her attentions.”
 
-“Julia! I have heard before from some one of his being in love with
-Julia; but I could never see anything of it. And, Fanny, though I hope
+“[[Julia]]! I have heard before from some one of his being in [[Love|love]] with
+[[Julia]]; but I could never see anything of it. And, Fanny, though I [[Hope|hope]]
 I do justice to my sisters’ good qualities, I think it very possible
 that they might, one or both, be more desirous of being admired by
-Crawford, and might shew that desire rather more unguardedly than was
+Crawford, and might shew that [[Desire|desire]] rather more unguardedly than was
 perfectly prudent. I can remember that they were evidently fond of his
 society; and with such encouragement, a man like Crawford, lively, and
 it may be, a little unthinking, might be led on to—there could be
 nothing very striking, because it is clear that he had no pretensions:
 his heart was reserved for you. And I must say, that its being for you
 has raised him inconceivably in my opinion. It does him the highest
-honour; it shews his proper estimation of the blessing of domestic
+[[Honour|honour]]; it shews his proper estimation of the blessing of domestic
 happiness and pure attachment. It proves him unspoilt by his uncle. It
 proves him, in short, everything that I had been used to wish to
 believe him, and feared he was not.”
@@ -226,13 +226,13 @@ subjects.”
 
 “Say, rather, that he has not thought at all upon serious subjects,
 which I believe to be a good deal the case. How could it be otherwise,
-with such an education and adviser? Under the disadvantages, indeed,
+with such an [[Education|education]] and adviser? Under the disadvantages, indeed,
 which both have had, is it not wonderful that they should be what they
 are? Crawford’s _feelings_, I am ready to acknowledge, have hitherto
 been too much his guides. Happily, those feelings have generally been
 good. You will supply the rest; and a most fortunate man he is to
 attach himself to such a creature—to a woman who, firm as a rock in her
-own principles, has a gentleness of character so well adapted to
+own principles, has a gentleness of character so [[Well|well]] adapted to
 recommend them. He has chosen his partner, indeed, with rare felicity.
 He will make you happy, Fanny; I know he will make you happy; but you
 will make him everything.”
@@ -241,15 +241,15 @@ will make him everything.”
 accent; “in such an office of high responsibility!”
 
 “As usual, believing yourself unequal to anything! fancying everything
-too much for you! Well, though I may not be able to persuade you into
+too much for you! [[Well]], though I may not be able to persuade you into
 different feelings, you will be persuaded into them, I trust. I confess
 myself sincerely anxious that you may. I have no common interest in
-Crawford’s well-doing. Next to your happiness, Fanny, his has the first
+Crawford’s [[Well|well]]-doing. Next to your happiness, Fanny, his has the first
 claim on me. You are aware of my having no common interest in
 Crawford.”
 
-Fanny was too well aware of it to have anything to say; and they walked
-on together some fifty yards in mutual silence and abstraction. Edmund
+Fanny was too [[Well|well]] aware of it to have anything to say; and they walked
+on together some fifty yards in mutual [[Silence|silence]] and abstraction. [[Edmund]]
 first began again—
 
 “I was very much pleased by her manner of speaking of it yesterday,
@@ -269,7 +269,7 @@ much a part of herself. Mrs. Grant laughed at her for her rapidity.”
 
 “Was Mrs. Grant in the room, then?”
 
-“Yes, when I reached the house I found the two sisters together by
+“Yes, when I reached the [[house]] I found the two sisters together by
 themselves; and when once we had begun, we had not done with you,
 Fanny, till Crawford and Dr. Grant came in.”
 
@@ -285,9 +285,9 @@ esteems you with all her heart.”
 
 “I knew she would be very angry with me.”
 
-“My dearest Fanny,” cried Edmund, pressing her arm closer to him, “do
+“My dearest Fanny,” cried [[Edmund]], pressing her arm closer to him, “do
 not let the idea of her anger distress you. It is anger to be talked of
-rather than felt. Her heart is made for love and kindness, not for
+rather than felt. Her heart is made for [[Love|love]] and kindness, not for
 resentment. I wish you could have overheard her tribute of praise; I
 wish you could have seen her countenance, when she said that you
 _should_ be Henry’s wife. And I observed that she always spoke of you
@@ -295,12 +295,12 @@ as ‘Fanny,’ which she was never used to do; and it had a sound of most
 sisterly cordiality.”
 
 “And Mrs. Grant, did she say—did she speak; was she there all the
-time?”
+[[Time|time]]?”
 
 “Yes, she was agreeing exactly with her sister. The surprise of your
 refusal, Fanny, seems to have been unbounded. That you could refuse
-such a man as Henry Crawford seems more than they can understand. I
-said what I could for you; but in good truth, as they stated the
+such a man as [[Henry Crawford]] seems more than they can understand. I
+said what I could for you; but in good [[Truth|truth]], as they stated the
 case—you must prove yourself to be in your senses as soon as you can by
 a different conduct; nothing else will satisfy them. But this is
 teasing you. I have done. Do not turn away from me.”
@@ -317,19 +317,19 @@ prepared to meet him with any feeling answerable to his own? He took me
 wholly by surprise. I had not an idea that his behaviour to me before
 had any meaning; and surely I was not to be teaching myself to like him
 only because he was taking what seemed very idle notice of me. In my
-situation, it would have been the extreme of vanity to be forming
+situation, it would have been the extreme of [[Vanity|vanity]] to be forming
 expectations on Mr. Crawford. I am sure his sisters, rating him as they
 do, must have thought it so, supposing he had meant nothing. How, then,
-was I to be—to be in love with him the moment he said he was with me?
+was I to be—to be in [[Love|love]] with him the moment he said he was with me?
 How was I to have an attachment at his service, as soon as it was asked
-for? His sisters should consider me as well as him. The higher his
+for? His sisters should consider me as [[Well|well]] as him. The higher his
 deserts, the more improper for me ever to have thought of him. And,
-and—we think very differently of the nature of women, if they can
+and—we think very differently of the [[Nature|nature]] of women, if they can
 imagine a woman so very soon capable of returning an affection as this
 seems to imply.”
 
-“My dear, dear Fanny, now I have the truth. I know this to be the
-truth; and most worthy of you are such feelings. I had attributed them
+“My dear, dear Fanny, now I have the [[Truth|truth]]. I know this to be the
+[[Truth|truth]]; and most worthy of you are such feelings. I had attributed them
 to you before. I thought I could understand you. You have now given
 exactly the explanation which I ventured to make for you to your friend
 and Mrs. Grant, and they were both better satisfied, though your
@@ -342,8 +342,8 @@ disfavour; that you could tolerate nothing that you were not used to;
 and a great deal more to the same purpose, to give them a knowledge of
 your character. Miss Crawford made us laugh by her plans of
 encouragement for her brother. She meant to urge him to persevere in
-the hope of being loved in time, and of having his addresses most
-kindly received at the end of about ten years’ happy marriage.”
+the [[Hope|hope]] of being loved in [[Time|time]], and of having his addresses most
+kindly received at the end of about ten years’ happy [[Marriage|marriage]].”
 
 Fanny could with difficulty give the smile that was here asked for. Her
 feelings were all in revolt. She feared she had been doing wrong:
@@ -352,12 +352,12 @@ necessary; in guarding against one evil, laying herself open to
 another; and to have Miss Crawford’s liveliness repeated to her at such
 a moment, and on such a subject, was a bitter aggravation.
 
-Edmund saw weariness and distress in her face, and immediately resolved
+[[Edmund]] saw weariness and distress in her face, and immediately resolved
 to forbear all farther discussion; and not even to mention the name of
 Crawford again, except as it might be connected with what _must_ be
 agreeable to her. On this principle, he soon afterwards observed—“They
 go on Monday. You are sure, therefore, of seeing your friend either
-to-morrow or Sunday. They really go on Monday; and I was within a
+to-morrow or [[Sunday]]. They really go on Monday; and I was within a
 trifle of being persuaded to stay at Lessingby till that very day! I
 had almost promised it. What a difference it might have made! Those
 five or six days more at Lessingby might have been felt all my life.”
@@ -370,15 +370,15 @@ on, I believe I should certainly have staid; but I knew nothing that
 had happened here for a fortnight, and felt that I had been away long
 enough.”
 
-“You spent your time pleasantly there?”
+“You spent your [[Time|time]] pleasantly there?”
 
 “Yes; that is, it was the fault of my own mind if I did not. They were
-all very pleasant. I doubt their finding me so. I took uneasiness with
+all very pleasant. I [[Doubt|doubt]] their finding me so. I took uneasiness with
 me, and there was no getting rid of it till I was in Mansfield again.”
 
 “The Miss Owens—you liked them, did not you?”
 
-“Yes, very well. Pleasant, good-humoured, unaffected girls. But I am
+“Yes, very [[Well|well]]. Pleasant, good-humoured, unaffected girls. But I am
 spoilt, Fanny, for common female society. Good-humoured, unaffected
 girls will not do for a man who has been used to sensible women. They
 are two distinct orders of being. You and Miss Crawford have made me
@@ -387,4 +387,4 @@ too nice.”
 Still, however, Fanny was oppressed and wearied; he saw it in her
 looks, it could not be talked away; and attempting it no more, he led
 her directly, with the kind authority of a privileged guardian, into
-the house.
+the [[house]].

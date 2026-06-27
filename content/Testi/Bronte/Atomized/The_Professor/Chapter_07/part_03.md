@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 6 (part 3)"
+title: "[[The Professor]] — Chapter 6 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -26,7 +26,7 @@ pen-and-ink?”
 
 
 
-“I hope so,” and I produced writing materials with alacrity; for I
+“I [[Hope|hope]] so,” and I produced writing materials with alacrity; for I
 
 guessed what he was going to do. He sat down, wrote a few lines, folded,
 
@@ -36,7 +36,7 @@ sealed, and addressed a letter, and held it out to me.
 
 “There, Prudence, there’s a pioneer to hew down the first rough
 
-difficulties of your path. I know well enough, lad, you are not one of
+difficulties of your path. I know [[Well|well]] enough, lad, you are not one of
 
 those who will run their neck into a noose without seeing how they
 
@@ -72,7 +72,7 @@ his recommendation.”
 
 
 
-“Well, and where’s your gratitude?” demanded Mr. Hunsden; “don’t you
+“[[Well]], and where’s your gratitude?” demanded Mr. Hunsden; “don’t you
 
 know how to say ‘Thank you?’”
 
@@ -92,7 +92,7 @@ being in Christendom.
 
 
 
-“I shall be off presently, Mr. Hunsden--to-morrow, if all be well: I’ll
+“I shall be off presently, Mr. Hunsden--to-morrow, if all be [[Well|well]]: I’ll
 
 not stay a day longer in X---- than I’m obliged.”
 
@@ -114,7 +114,7 @@ to bed.”
 
 
 
-The house clock struck seven.
+The [[house]] [[Clock|clock]] struck seven.
 
 
 

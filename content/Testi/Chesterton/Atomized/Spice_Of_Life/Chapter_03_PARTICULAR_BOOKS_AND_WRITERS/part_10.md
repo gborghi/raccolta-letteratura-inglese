@@ -14,41 +14,41 @@ tags:
 </nav>
 
 
-There are many evidences that the great truth and passion
+There are many evidences that the great [[Truth|truth]] and passion
 behind the work of Dickens was this sense of joy in things;
-just as much as the great truth and passion behind Thackeray
-was a sense of their almost sacred pathos, or the great truth
+just as much as the great [[Truth|truth]] and passion behind Thackeray
+was a sense of their almost sacred pathos, or the great [[Truth|truth]]
 and passion behind Hawthorne a sense of their weird significance.
 But the best evidence of all lies in the fact that Dickens was
 never so triumphantly successful as in describing the type of man
 whose existence in this world, in which he has neither money
-nor honour, seems to depend entirely on his high spirits and his
+nor [[Honour|honour]], seems to depend entirely on his high spirits and his
 capacity for realizing the magnificence of the flying moment.
 All Dickens' sticks of heroes and dolls of heroines may, of course,
 be thrown aside:  the real ideal figure of Dickens is William Micawber.
-Dick Swiveller, his next best character, is a man of the same type;
+[[Dick Swiveller]], his next best character, is a man of the same type;
 they both represent a kind of shabby poet, whose continual lack
 of money and utter antagonism to the order of society can never
 kill him, because of his everlasting pleasure in old memories
-and very old quotations.  They have alike the same mutability,
+and very old quotations.  They have alike the same [[Mutability|mutability]],
 the same impecuniosity, the same florid, but genuine, taste in literature,
 the same continual and crushing misfortunes, the same mysterious,
-but unbreakable, immortality.  They are never ended, because,
+but unbreakable, [[Immortality|immortality]].  They are never ended, because,
 fools and rascals as they are they hold on to something
-which belongs, not to society but to the soul:  the power of joy.
+which belongs, not to society but to the [[Soul|soul]]:  the power of joy.
 And note here that Dickens, describing these men who are nearest
 to his heart, is not only vigorous, living and entertaining,
 as he always is, but far truer to the facts even than is his wont.
 Pecksniff is a spirited and amusing bogey for a pure farce,
 but such a hypocrite never lived in this mean earth; we shall
 meet him in a better and bolder world.  Mr. Squeers is a good,
-black grotesque figure from the outside, but he has no inside.
+black [[Grotesque|grotesque]] figure from the outside, but he has no inside.
 But Micawber and Swiveller (especially the latter)
-are true to the tenor of life; they see the humour of their
+are true to the tenor of life; they see the [[Humour|humour]] of their
 own exaggerations, they live avowedly on their own good spirits.
-And in them Dickens really touches problems and elements of greatness
-which are as old as the world and as great as any tragedy.
-He touches, for example, the great tragedy of Ireland, which after
+And in them Dickens really touches problems and elements of [[Greatness|greatness]]
+which are as old as the world and as great as any [[Tragedy|tragedy]].
+He touches, for example, the great [[Tragedy|tragedy]] of Ireland, which after
 innumerable sorrows still lives upon an outrageous gaiety.  Above all
 he touches the case of the great masses of the poor, whom he loved.
 He saw deeper than a hundred statisticians and philanthropic economists.
@@ -59,7 +59,7 @@ out the everlasting moment.
 
 DISPUTES ON DICKENS
 
-AN INTERESTING little controversy began some time ago in the Academy
+AN INTERESTING little controversy began some [[Time|time]] ago in the Academy
 on the position of Dickens, and it throws a flood of light on
 the real character of the temporary reaction against that great
 novelist's fame.  `E.A.B.', the able and decisive Academy critic
@@ -68,7 +68,7 @@ more technical sense, and like all the critics of that school he has
 a clear, hard and almost scientific critical method of critical test.
 Dickens falls in his eyes because of what he calls his `artistic
 ignorance and indifference' and his lack of `feeling for literature',
-all of which means that Dickens was not an artist of the particular
+all of which means that Dickens was not an [[Artist|artist]] of the particular
 pattern which French fiction in the nineteenth century has made
 essential and even popular.
 
@@ -111,13 +111,13 @@ good or bad but simply not a drama at all.  If they had seen it
 acted they would not have thought that the drama was deteriorating.
 They would only have thought that they themselves were going mad.
 
-The truth is that whole schools of art and of great art can become
+The [[Truth|truth]] is that whole schools of art and of great art can become
 merely mysterious and imbecile to the most enlightened generations
 if those generations do not cultivate the particular emotions
 by which those schools of art are inspired.  Thus, for example,
 the whole of the Italian art, from Giotto to Botticelli would have
 appeared and did appear to the critics of the eighteenth century
-an ugly and infantile exhibition like the scrawlings of a child
+an ugly and infantile exhibition like the scrawlings of a [[Child|child]]
 upon a slate.  To the eighteenth century it was quite obvious
 that these medieval pictures were mere despicable beginnings.
 Their lines were drawn wrong, their colours were arranged wrong,
@@ -127,8 +127,8 @@ of an army of idiots.  No blasphemer had ever dared to draw upon
 his darkest page a picture so impious as this picture of an
 insane universe with its grinning angels, its gaping saints.
 Not the most secret volume of eighteenth-century atheism had conceived
-in its wrath and satire such a celestial parody as these painters
-had conceived in their humility and faith.  Such was the impression
+in its wrath and [[Satire|satire]] such a celestial [[Parody|parody]] as these painters
+had conceived in their [[Humility|humility]] and [[Faith|faith]].  Such was the impression
 which Christian art produced on the whole of the `age des philosophes':
-that it was an example of an almost shocking innocence like a baby's
+that it was an example of an almost shocking [[innocence]] like a baby's
 picture of God.

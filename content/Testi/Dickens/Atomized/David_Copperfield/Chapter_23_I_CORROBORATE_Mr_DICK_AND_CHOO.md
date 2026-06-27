@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION"
+title: "[[David Copperfield]] — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -18,7 +18,7 @@ CHAPTER 23. I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION
 
 
 When I awoke in the morning I thought very much of little Em’ly, and her
-emotion last night, after Martha had left. I felt as if I had come into
+emotion last [[Night|night]], after Martha had left. I felt as if I had come into
 the knowledge of those domestic weaknesses and tendernesses in a sacred
 confidence, and that to disclose them, even to Steerforth, would be
 wrong. I had no gentler feeling towards anyone than towards the
@@ -27,20 +27,20 @@ persuaded, and shall always be persuaded, to my dying day, I then
 devotedly loved. The repetition to any ears--even to Steerforth’s--of
 what she had been unable to repress when her heart lay open to me by an
 accident, I felt would be a rough deed, unworthy of myself, unworthy of
-the light of our pure childhood, which I always saw encircling her head.
+the light of our pure [[Childhood|childhood]], which I always saw encircling her head.
 I made a resolution, therefore, to keep it in my own breast; and there
 it gave her image a new grace.
 
 While we were at breakfast, a letter was delivered to me from my aunt.
 As it contained matter on which I thought Steerforth could advise me
-as well as anyone, and on which I knew I should be delighted to consult
-him, I resolved to make it a subject of discussion on our journey home.
+as [[Well|well]] as anyone, and on which I knew I should be delighted to consult
+him, I resolved to make it a subject of discussion on our [[Journey|journey]] [[Home|home]].
 For the present we had enough to do, in taking leave of all our friends.
 Mr. Barkis was far from being the last among them, in his regret at
 our departure; and I believe would even have opened the box again, and
 sacrificed another guinea, if it would have kept us eight-and-forty
 hours in Yarmouth. Peggotty and all her family were full of grief at our
-going. The whole house of Omer and Joram turned out to bid us good-bye;
+going. The whole [[house]] of Omer and Joram turned out to bid us good-bye;
 and there were so many seafaring volunteers in attendance on Steerforth,
 when our portmanteaux went to the coach, that if we had had the baggage
 of a regiment with us, we should hardly have wanted porters to carry it.
@@ -59,10 +59,10 @@ knows what he has to do, and he’ll do it.’
 
 Littimer touched his hat in acknowledgement of my good opinion, and I
 felt about eight years old. He touched it once more, wishing us a good
-journey; and we left him standing on the pavement, as respectable a
-mystery as any pyramid in Egypt.
+[[Journey|journey]]; and we left him standing on the pavement, as respectable a
+mystery as any pyramid in [[Egypt]].
 
-For some little time we held no conversation, Steerforth being unusually
+For some little [[Time|time]] we held no conversation, Steerforth being unusually
 silent, and I being sufficiently engaged in wondering, within myself,
 when I should see the old places again, and what new changes might
 happen to me or them in the meanwhile. At length Steerforth, becoming
@@ -81,10 +81,10 @@ expedition to look about me, and to think a little.’
 
 ‘Which, of course, you have done?’
 
-‘Indeed I can’t say I have, particularly. To tell you the truth, I am
+‘Indeed I can’t say I have, particularly. To tell you the [[Truth|truth]], I am
 afraid I have forgotten it.’
 
-‘Well! look about you now, and make up for your negligence,’ said
+‘[[Well]]! look about you now, and make up for your negligence,’ said
 Steerforth. ‘Look to the right, and you’ll see a flat country, with a
 good deal of marsh in it; look to the left, and you’ll see the same.
 Look to the front, and you’ll find no difference; look to the rear,
@@ -98,7 +98,7 @@ the letter in my hand. ‘Does she suggest anything?’
 ‘Why, yes,’ said I. ‘She asks me, here, if I think I should like to be a
 proctor? What do you think of it?’
 
-‘Well, I don’t know,’ replied Steerforth, coolly. ‘You may as well do
+‘[[Well]], I don’t know,’ replied Steerforth, coolly. ‘You may as [[Well|well]] do
 that as anything else, I suppose?’
 
 I could not help laughing again, at his balancing all callings and
@@ -127,8 +127,8 @@ is any affinity between nautical matters and ecclesiastical matters?’
 they are managed and decided by the same set of people, down in that
 same Doctors’ Commons. You shall go there one day, and find them
 blundering through half the nautical terms in Young’s Dictionary,
-apropos of the “Nancy” having run down the “Sarah Jane”, or Mr. Peggotty
-and the Yarmouth boatmen having put off in a gale of wind with an anchor
+apropos of the “[[Nancy]]” having run down the “Sarah Jane”, or Mr. Peggotty
+and the Yarmouth boatmen having put off in a gale of [[Wind|wind]] with an anchor
 and cable to the “Nelson” Indiaman in distress; and you shall go there
 another day, and find them deep in the evidence, pro and con, respecting
 a clergyman who has misbehaved himself; and you shall find the judge
@@ -165,54 +165,54 @@ Commons.’
 
 I quite made up my mind to do so. I then told Steerforth that my aunt
 was in town awaiting me (as I found from her letter), and that she had
-taken lodgings for a week at a kind of private hotel at Lincoln’s Inn
+taken lodgings for a week at a kind of private hotel at [[Lincoln]]’s Inn
 Fields, where there was a stone staircase, and a convenient door in
-the roof; my aunt being firmly persuaded that every house in London was
-going to be burnt down every night.
+the roof; my aunt being firmly persuaded that every [[house]] in [[London]] was
+going to be burnt down every [[Night|night]].
 
-We achieved the rest of our journey pleasantly, sometimes recurring to
+We achieved the rest of our [[Journey|journey]] pleasantly, sometimes recurring to
 Doctors’ Commons, and anticipating the distant days when I should be a
 proctor there, which Steerforth pictured in a variety of humorous and
-whimsical lights, that made us both merry. When we came to our journey’s
-end, he went home, engaging to call upon me next day but one; and I
-drove to Lincoln’s Inn Fields, where I found my aunt up, and waiting
+whimsical lights, that made us both merry. When we came to our [[Journey|journey]]’s
+end, he went [[Home|home]], engaging to call upon me next day but one; and I
+drove to [[Lincoln]]’s Inn Fields, where I found my aunt up, and waiting
 supper.
 
 If I had been round the world since we parted, we could hardly have been
 better pleased to meet again. My aunt cried outright as she embraced me;
 and said, pretending to laugh, that if my poor mother had been alive,
-that silly little creature would have shed tears, she had no doubt.
+that silly little creature would have shed [[Tears|tears]], she had no [[Doubt|doubt]].
 
 ‘So you have left Mr. Dick behind, aunt?’ said I. ‘I am sorry for that.
 Ah, Janet, how do you do?’
 
-As Janet curtsied, hoping I was well, I observed my aunt’s visage
+As Janet curtsied, hoping I was [[Well|well]], I observed my aunt’s visage
 lengthen very much.
 
 ‘I am sorry for it, too,’ said my aunt, rubbing her nose. ‘I have had
 no peace of mind, Trot, since I have been here.’ Before I could ask why,
 she told me.
 
-‘I am convinced,’ said my aunt, laying her hand with melancholy firmness
+‘I am convinced,’ said my aunt, laying her hand with [[Melancholy|melancholy]] firmness
 on the table, ‘that Dick’s character is not a character to keep the
 donkeys off. I am confident he wants strength of purpose. I ought to
-have left Janet at home, instead, and then my mind might perhaps have
-been at ease. If ever there was a donkey trespassing on my green,’ said
-my aunt, with emphasis, ‘there was one this afternoon at four o’clock.
+have left Janet at [[Home|home]], instead, and then my mind might perhaps have
+been at ease. If ever there was a [[donkey]] trespassing on my green,’ said
+my aunt, with emphasis, ‘there was one this afternoon at four o’[[Clock|clock]].
 A cold feeling came over me from head to foot, and I know it was a
-donkey!’
+[[donkey]]!’
 
 I tried to comfort her on this point, but she rejected consolation.
 
-‘It was a donkey,’ said my aunt; ‘and it was the one with the stumpy
+‘It was a [[donkey]],’ said my aunt; ‘and it was the one with the stumpy
 tail which that Murdering sister of a woman rode, when she came to my
-house.’ This had been, ever since, the only name my aunt knew for Miss
-Murdstone. ‘If there is any Donkey in Dover, whose audacity it is harder
+[[house]].’ This had been, ever since, the only name my aunt knew for Miss
+Murdstone. ‘If there is any [[donkey|Donkey]] in Dover, whose audacity it is harder
 to me to bear than another’s, that,’ said my aunt, striking the table,
 ‘is the animal!’
 
 Janet ventured to suggest that my aunt might be disturbing herself
-unnecessarily, and that she believed the donkey in question was then
+unnecessarily, and that she believed the [[donkey]] in question was then
 engaged in the sand-and-gravel line of business, and was not available
 for purposes of trespass. But my aunt wouldn’t hear of it.
 
@@ -221,34 +221,34 @@ high up--whether that she might have more stone stairs for her money, or
 might be nearer to the door in the roof, I don’t know--and consisted of
 a roast fowl, a steak, and some vegetables, to all of which I did ample
 justice, and which were all excellent. But my aunt had her own ideas
-concerning London provision, and ate but little.
+concerning [[London]] provision, and ate but little.
 
 ‘I suppose this unfortunate fowl was born and brought up in a cellar,’
 said my aunt, ‘and never took the air except on a hackney coach-stand. I
-hope the steak may be beef, but I don’t believe it. Nothing’s genuine in
+[[Hope|hope]] the steak may be beef, but I don’t believe it. Nothing’s genuine in
 the place, in my opinion, but the dirt.’
 
 ‘Don’t you think the fowl may have come out of the country, aunt?’ I
 hinted.
 
-‘Certainly not,’ returned my aunt. ‘It would be no pleasure to a London
+‘Certainly not,’ returned my aunt. ‘It would be no pleasure to a [[London]]
 tradesman to sell anything which was what he pretended it was.’
 
 I did not venture to controvert this opinion, but I made a good supper,
 which it greatly satisfied her to see me do. When the table was cleared,
 Janet assisted her to arrange her hair, to put on her nightcap, which
-was of a smarter construction than usual (‘in case of fire’, my aunt
+was of a smarter construction than usual (‘in case of [[Fire|fire]]’, my aunt
 said), and to fold her gown back over her knees, these being her usual
 preparations for warming herself before going to bed. I then made her,
 according to certain established regulations from which no deviation,
 however slight, could ever be permitted, a glass of hot wine and
-water, and a slice of toast cut into long thin strips. With these
-accompaniments we were left alone to finish the evening, my aunt sitting
-opposite to me drinking her wine and water; soaking her strips of toast
+[[Water|water]], and a slice of toast cut into long thin strips. With these
+accompaniments we were left [[Alone|alone]] to finish the evening, my aunt sitting
+opposite to me drinking her wine and [[Water|water]]; soaking her strips of toast
 in it, one by one, before eating them; and looking benignantly on me,
 from among the borders of her nightcap.
 
-‘Well, Trot,’ she began, ‘what do you think of the proctor plan? Or have
+‘[[Well]], Trot,’ she began, ‘what do you think of the proctor plan? Or have
 you not begun to think about it yet?’
 
 ‘I have thought a good deal about it, my dear aunt, and I have talked a
@@ -270,10 +270,10 @@ pounds.’
 
 ‘Now, my dear aunt,’ said I, drawing my chair nearer, ‘I am uneasy in
 my mind about that. It’s a large sum of money. You have expended a
-great deal on my education, and have always been as liberal to me in all
-things as it was possible to be. You have been the soul of generosity.
+great deal on my [[Education|education]], and have always been as liberal to me in all
+things as it was possible to be. You have been the [[Soul|soul]] of generosity.
 Surely there are some ways in which I might begin life with hardly any
-outlay, and yet begin with a good hope of getting on by resolution and
+outlay, and yet begin with a good [[Hope|hope]] of getting on by resolution and
 exertion. Are you sure that it would not be better to try that course?
 Are you certain that you can afford to part with so much money, and that
 it is right that it should be so expended? I only ask you, my second
@@ -284,7 +284,7 @@ engaged, looking me full in the face all the while; and then setting
 her glass on the chimney-piece, and folding her hands upon her folded
 skirts, replied as follows:
 
-‘Trot, my child, if I have any object in life, it is to provide for
+‘Trot, my [[Child|child]], if I have any object in life, it is to provide for
 your being a good, a sensible, and a happy man. I am bent upon it--so is
 Dick. I should like some people that I know to hear Dick’s conversation
 on the subject. Its sagacity is wonderful. But no one knows the
@@ -295,18 +295,18 @@ She stopped for a moment to take my hand between hers, and went on:
 ‘It’s in vain, Trot, to recall the past, unless it works some influence
 upon the present. Perhaps I might have been better friends with your
 poor father. Perhaps I might have been better friends with that poor
-child your mother, even after your sister Betsey Trotwood disappointed
+[[Child|child]] your mother, even after your sister [[Betsey Trotwood]] disappointed
 me. When you came to me, a little runaway boy, all dusty and way-worn,
-perhaps I thought so. From that time until now, Trot, you have ever been
-a credit to me and a pride and a pleasure. I have no other claim upon
+perhaps I thought so. From that [[Time|time]] until now, Trot, you have ever been
+a credit to me and a [[Pride|pride]] and a pleasure. I have no other claim upon
 my means; at least’--here to my surprise she hesitated, and was
 confused--‘no, I have no other claim upon my means--and you are my
-adopted child. Only be a loving child to me in my age, and bear with my
+adopted [[Child|child]]. Only be a loving [[Child|child]] to me in my age, and bear with my
 whims and fancies; and you will do more for an old woman whose prime of
 life was not so happy or conciliating as it might have been, than ever
 that old woman did for you.’
 
-It was the first time I had heard my aunt refer to her past history.
+It was the first [[Time|time]] I had heard my aunt refer to her past [[history]].
 There was a magnanimity in her quiet way of doing so, and of dismissing
 it, which would have exalted her in my respect and affection, if
 anything could.
@@ -315,25 +315,25 @@ anything could.
 ‘and we need talk of this no more. Give me a kiss, and we’ll go to the
 Commons after breakfast tomorrow.’
 
-We had a long chat by the fire before we went to bed. I slept in a room
+We had a long chat by the [[Fire|fire]] before we went to bed. I slept in a room
 on the same floor with my aunt’s, and was a little disturbed in the
-course of the night by her knocking at my door as often as she was
+course of the [[Night|night]] by her knocking at my door as often as she was
 agitated by a distant sound of hackney-coaches or market-carts, and
 inquiring, ‘if I heard the engines?’ But towards morning she slept
 better, and suffered me to do so too.
 
 At about mid-day, we set out for the office of Messrs Spenlow and
 Jorkins, in Doctors’ Commons. My aunt, who had this other general
-opinion in reference to London, that every man she saw was a pickpocket,
+opinion in reference to [[London]], that every man she saw was a pickpocket,
 gave me her purse to carry for her, which had ten guineas in it and some
 silver.
 
 We made a pause at the toy shop in Fleet Street, to see the giants of
-Saint Dunstan’s strike upon the bells--we had timed our going, so as to
-catch them at it, at twelve o’clock--and then went on towards Ludgate
-Hill, and St. Paul’s Churchyard. We were crossing to the former place,
-when I found that my aunt greatly accelerated her speed, and looked
-frightened. I observed, at the same time, that a lowering ill-dressed
+Saint Dunstan’s strike upon [[The Bells|the bells]]--we had timed our going, so as to
+catch them at it, at twelve o’[[Clock|clock]]--and then went on towards Ludgate
+[[Hill]], and St. Paul’s Churchyard. We were crossing to the former place,
+when I found that my aunt greatly accelerated her [[Speed|speed]], and looked
+frightened. I observed, at the same [[Time|time]], that a lowering ill-dressed
 man who had stopped and stared at us in passing, a little before, was
 coming so close after us as to brush against her.
 
@@ -343,7 +343,7 @@ pressing my arm. ‘I don’t know what I am to do.’
 ‘Don’t be alarmed,’ said I. ‘There’s nothing to be afraid of. Step into
 a shop, and I’ll soon get rid of this fellow.’
 
-‘No, no, child!’ she returned. ‘Don’t speak to him for the world. I
+‘No, no, [[Child|child]]!’ she returned. ‘Don’t speak to him for the world. I
 entreat, I order you!’
 
 ‘Good Heaven, aunt!’ said I. ‘He is nothing but a sturdy beggar.’
@@ -359,7 +359,7 @@ get me a coach, my dear, and wait for me in St. Paul’s Churchyard.’
 
 ‘Wait for you?’ I replied.
 
-‘Yes,’ rejoined my aunt. ‘I must go alone. I must go with him.’
+‘Yes,’ rejoined my aunt. ‘I must go [[Alone|alone]]. I must go with him.’
 
 ‘With him, aunt? This man?’
 
@@ -373,36 +373,36 @@ before I could let down the steps, my aunt sprang in, I don’t know how,
 and the man followed. She waved her hand to me to go away, so earnestly,
 that, all confounded as I was, I turned from them at once. In doing so,
 I heard her say to the coachman, ‘Drive anywhere! Drive straight on!’
-and presently the chariot passed me, going up the hill.
+and presently the chariot passed me, going up the [[Hill|hill]].
 
 What Mr. Dick had told me, and what I had supposed to be a delusion of
-his, now came into my mind. I could not doubt that this person was the
+his, now came into my mind. I could not [[Doubt|doubt]] that this person was the
 person of whom he had made such mysterious mention, though what the
-nature of his hold upon my aunt could possibly be, I was quite unable
+[[Nature|nature]] of his hold upon my aunt could possibly be, I was quite unable
 to imagine. After half an hour’s cooling in the churchyard, I saw the
 chariot coming back. The driver stopped beside me, and my aunt was
-sitting in it alone.
+sitting in it [[Alone|alone]].
 
 She had not yet sufficiently recovered from her agitation to be quite
 prepared for the visit we had to make. She desired me to get into the
 chariot, and to tell the coachman to drive slowly up and down a little
-while. She said no more, except, ‘My dear child, never ask me what
+while. She said no more, except, ‘My dear [[Child|child]], never ask me what
 it was, and don’t refer to it,’ until she had perfectly regained her
 composure, when she told me she was quite herself now, and we might get
 out. On her giving me her purse to pay the driver, I found that all the
 guineas were gone, and only the loose silver remained.
 
 Doctors’ Commons was approached by a little low archway. Before we had
-taken many paces down the street beyond it, the noise of the city seemed
-to melt, as if by magic, into a softened distance. A few dull courts
+taken many paces down the street beyond it, the noise of the [[City|city]] seemed
+to melt, as if by [[Magic|magic]], into a softened distance. A few dull courts
 and narrow ways brought us to the sky-lighted offices of Spenlow and
 Jorkins; in the vestibule of which temple, accessible to pilgrims
 without the ceremony of knocking, three or four clerks were at work as
 copyists. One of these, a little dry man, sitting by himself, who wore
-a stiff brown wig that looked as if it were made of gingerbread, rose to
+a stiff brown wig that looked as if it were made of gingerbread, [[Rose|rose]] to
 receive my aunt, and show us into Mr. Spenlow’s room.
 
-‘Mr. Spenlow’s in Court, ma’am,’ said the dry man; ‘it’s an Arches day;
+‘Mr. Spenlow’s in [[Court]], ma’am,’ said the dry man; ‘it’s an Arches day;
 but it’s close by, and I’ll send for him directly.’
 
 As we were left to look about us while Mr. Spenlow was fetched, I
@@ -411,13 +411,13 @@ old-fashioned and dusty; and the green baize on the top of the
 writing-table had lost all its colour, and was as withered and pale as
 an old pauper. There were a great many bundles of papers on it, some
 endorsed as Allegations, and some (to my surprise) as Libels, and some
-as being in the Consistory Court, and some in the Arches Court, and some
-in the Prerogative Court, and some in the Admiralty Court, and some in
-the Delegates’ Court; giving me occasion to wonder much, how many Courts
+as being in the Consistory [[Court]], and some in the Arches [[Court]], and some
+in the Prerogative [[Court]], and some in the Admiralty [[Court]], and some in
+the Delegates’ [[Court]]; giving me occasion to [[Wonder|wonder]] much, how many Courts
 there might be in the gross, and how long it would take to understand
 them all. Besides these, there were sundry immense manuscript Books
 of Evidence taken on affidavit, strongly bound, and tied together in
-massive sets, a set to each cause, as if every cause were a history in
+massive sets, a set to each cause, as if every cause were a [[history]] in
 ten or twenty volumes. All this looked tolerably expensive, I thought,
 and gave me an agreeable notion of a proctor’s business. I was casting
 my eyes with increasing complacency over these and many similar objects,
@@ -434,7 +434,7 @@ golden arm, to draw it out with, like those which are put up over the
 goldbeaters’ shops. He was got up with such care, and was so stiff, that
 he could hardly bend himself; being obliged, when he glanced at some
 papers on his desk, after sitting down in his chair, to move his whole
-body, from the bottom of his spine, like Punch.
+[[Body|body]], from the [[Bottom|bottom]] of his spine, like Punch.
 
 I had previously been presented by my aunt, and had been courteously
 received. He now said:
@@ -442,7 +442,7 @@ received. He now said:
 ‘And so, Mr. Copperfield, you think of entering into our profession?
 I casually mentioned to Miss Trotwood, when I had the pleasure of an
 interview with her the other day,’--with another inclination of his
-body--Punch again--‘that there was a vacancy here. Miss Trotwood was
+[[Body|body]]--Punch again--‘that there was a vacancy here. Miss Trotwood was
 good enough to mention that she had a nephew who was her peculiar care,
 and for whom she was seeking to provide genteelly in life. That
 nephew, I believe, I have now the pleasure of’--Punch again. I bowed my
@@ -454,7 +454,7 @@ something more about it. That although it was little else than a matter
 of form, I presumed I should have an opportunity of trying how I liked
 it, before I bound myself to it irrevocably.
 
-‘Oh surely! surely!’ said Mr. Spenlow. ‘We always, in this house,
+‘Oh surely! surely!’ said Mr. Spenlow. ‘We always, in this [[house]],
 propose a month--an initiatory month. I should be happy, myself, to
 propose two months--three--an indefinite period, in fact--but I have a
 partner. Mr. Jorkins.’
@@ -472,7 +472,7 @@ in short.’
 not the custom here, if an articled clerk were particularly useful,
 and made himself a perfect master of his profession’--I could not help
 blushing, this looked so like praising myself--‘I suppose it is not the
-custom, in the later years of his time, to allow him any--’
+custom, in the later years of his [[Time|time]], to allow him any--’
 
 Mr. Spenlow, by a great effort, just lifted his head far enough out of
 his cravat to shake it, and answered, anticipating the word ‘salary’:
@@ -497,26 +497,26 @@ business on the principle of Spenlow and Jorkins!
 It was settled that I should begin my month’s probation as soon as I
 pleased, and that my aunt need neither remain in town nor return at
 its expiration, as the articles of agreement, of which I was to be the
-subject, could easily be sent to her at home for her signature. When
-we had got so far, Mr. Spenlow offered to take me into Court then and
+subject, could easily be sent to her at [[Home|home]] for her signature. When
+we had got so far, Mr. Spenlow offered to take me into [[Court]] then and
 there, and show me what sort of place it was. As I was willing enough
 to know, we went out with this object, leaving my aunt behind; who would
 trust herself, she said, in no such place, and who, I think, regarded
 all Courts of Law as a sort of powder-mills that might blow up at any
-time.
+[[Time|time]].
 
-Mr. Spenlow conducted me through a paved courtyard formed of grave brick
+Mr. Spenlow conducted me through a paved courtyard formed of [[Grave|grave]] brick
 houses, which I inferred, from the Doctors’ names upon the doors, to be
 the official abiding-places of the learned advocates of whom Steerforth
 had told me; and into a large dull room, not unlike a chapel to my
 thinking, on the left hand. The upper part of this room was fenced off
 from the rest; and there, on the two sides of a raised platform of the
-horse-shoe form, sitting on easy old-fashioned dining-room chairs, were
+[[Horse|horse]]-shoe form, sitting on easy old-fashioned dining-room chairs, were
 sundry gentlemen in red gowns and grey wigs, whom I found to be the
 Doctors aforesaid. Blinking over a little desk like a pulpit-desk, in
-the curve of the horse-shoe, was an old gentleman, whom, if I had seen
+the curve of the [[Horse|horse]]-shoe, was an old gentleman, whom, if I had seen
 him in an aviary, I should certainly have taken for an owl, but who, I
-learned, was the presiding judge. In the space within the horse-shoe,
+learned, was the presiding judge. In the space within the [[Horse|horse]]-shoe,
 lower than these, that is to say, on about the level of the floor, were
 sundry other gentlemen, of Mr. Spenlow’s rank, and dressed like him in
 black gowns with white fur upon them, sitting at a long green table.
@@ -526,28 +526,28 @@ injustice, for when two or three of them had to rise and answer a
 question of the presiding dignitary, I never saw anything more sheepish.
 The public, represented by a boy with a comforter, and a shabby-genteel
 man secretly eating crumbs out of his coat pockets, was warming itself
-at a stove in the centre of the Court. The languid stillness of the
-place was only broken by the chirping of this fire and by the voice of
+at a stove in the centre of the [[Court]]. The languid stillness of the
+place was only broken by the chirping of this [[Fire|fire]] and by the voice of
 one of the Doctors, who was wandering slowly through a perfect library
-of evidence, and stopping to put up, from time to time, at little
-roadside inns of argument on the journey. Altogether, I have never,
+of evidence, and stopping to put up, from [[Time|time]] to [[Time|time]], at little
+roadside inns of argument on the [[Journey|journey]]. Altogether, I have never,
 on any occasion, made one at such a cosey, dosey, old-fashioned,
-time-forgotten, sleepy-headed little family-party in all my life; and
+[[Time|time]]-forgotten, sleepy-headed little family-party in all my life; and
 I felt it would be quite a soothing opiate to belong to it in any
 character--except perhaps as a suitor.
 
-Very well satisfied with the dreamy nature of this retreat, I informed
-Mr. Spenlow that I had seen enough for that time, and we rejoined
+Very [[Well|well]] satisfied with the dreamy [[Nature|nature]] of this retreat, I informed
+Mr. Spenlow that I had seen enough for that [[Time|time]], and we rejoined
 my aunt; in company with whom I presently departed from the Commons,
 feeling very young when I went out of Spenlow and Jorkins’s, on account
 of the clerks poking one another with their pens to point me out.
 
-We arrived at Lincoln’s Inn Fields without any new adventures, except
-encountering an unlucky donkey in a costermonger’s cart, who suggested
+We arrived at [[Lincoln]]’s Inn Fields without any new adventures, except
+encountering an unlucky [[donkey]] in a costermonger’s cart, who suggested
 painful associations to my aunt. We had another long talk about my
 plans, when we were safely housed; and as I knew she was anxious to
-get home, and, between fire, food, and pickpockets, could never be
-considered at her ease for half-an-hour in London, I urged her not to be
+get [[Home|home]], and, between [[Fire|fire]], food, and pickpockets, could never be
+considered at her ease for half-an-hour in [[London]], I urged her not to be
 uncomfortable on my account, but to leave me to take care of myself.
 
 ‘I have not been here a week tomorrow, without considering that too, my
@@ -556,10 +556,10 @@ let in the Adelphi, Trot, which ought to suit you to a marvel.’
 
 With this brief introduction, she produced from her pocket an
 advertisement, carefully cut out of a newspaper, setting forth that in
-Buckingham Street in the Adelphi there was to be let furnished, with a
-view of the river, a singularly desirable, and compact set of chambers,
+[[Buckingham]] Street in the Adelphi there was to be let furnished, with a
+view of the [[River|river]], a singularly desirable, and compact set of chambers,
 forming a genteel residence for a young gentleman, a member of one
-of the Inns of Court, or otherwise, with immediate possession. Terms
+of the Inns of [[Court]], or otherwise, with immediate possession. Terms
 moderate, and could be taken for a month only, if required.
 
 ‘Why, this is the very thing, aunt!’ said I, flushed with the possible
@@ -587,12 +587,12 @@ keys.
 
 So we went upstairs.
 
-They were on the top of the house--a great point with my aunt, being
-near the fire-escape--and consisted of a little half-blind entry where
+They were on the top of the [[house]]--a great point with my aunt, being
+near the [[Fire|fire]]-escape--and consisted of a little half-blind entry where
 you could see hardly anything, a little stone-blind pantry where you
 could see nothing at all, a sitting-room, and a bedroom. The furniture
 was rather faded, but quite good enough for me; and, sure enough, the
-river was outside the windows.
+[[River|river]] was outside the windows.
 
 As I was delighted with the place, my aunt and Mrs. Crupp withdrew into
 the pantry to discuss the terms, while I remained on the sitting-room
@@ -613,7 +613,7 @@ and--ugh! ugh! ugh! dear me!--and he died!’
 
 ‘Hey! What did he die of?’ asked my aunt.
 
-‘Well, ma’am, he died of drink,’ said Mrs. Crupp, in confidence. ‘And
+‘[[Well]], ma’am, he died of drink,’ said Mrs. Crupp, in confidence. ‘And
 smoke.’
 
 ‘Smoke? You don’t mean chimneys?’ said my aunt.
@@ -627,14 +627,14 @@ me.
 
 In short, my aunt, seeing how enraptured I was with the premises, took
 them for a month, with leave to remain for twelve months when that
-time was out. Mrs. Crupp was to find linen, and to cook; every other
+[[Time|time]] was out. Mrs. Crupp was to find linen, and to cook; every other
 necessary was already provided; and Mrs. Crupp expressly intimated that
 she should always yearn towards me as a son. I was to take possession
 the day after tomorrow, and Mrs. Crupp said, thank Heaven she had now
 found summun she could care for!
 
 On our way back, my aunt informed me how she confidently trusted that
-the life I was now to lead would make me firm and self-reliant, which
+the life I was now to lead would make me firm and [[Self|self]]-reliant, which
 was all I wanted. She repeated this several times next day, in the
 intervals of our arranging for the transmission of my clothes and books
 from Mr. Wickfield’s; relative to which, and to all my late holiday, I

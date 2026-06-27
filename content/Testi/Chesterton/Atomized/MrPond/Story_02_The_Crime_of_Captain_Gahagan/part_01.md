@@ -1,5 +1,5 @@
 ---
-title: "MrPond — The Crime of Captain Gahagan (part 1)"
+title: "[[MrPond]] — The Crime of Captain Gahagan (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/MrPond-(Chesterton)"
@@ -22,7 +22,7 @@ THE CRIME OF CAPTAIN GAHAGAN
 
 It must be confessed that some people thought Mr. Pond a bore.  He
 
-had a weakness for long speeches, not out of self-importance, but
+had a weakness for long speeches, not out of [[Self|self]]-importance, but
 
 because he had an old-fashioned taste in literature; and had
 
@@ -40,7 +40,7 @@ Mr. Pond said (referring, I grieve to say, to the greater part of
 
 the female sex, at least in its most modern phase):  "They go so
 
-fast that they get no farther," he did not mean it as an epigram.
+fast that they get no farther," he did not mean it as an [[Epigram|epigram]].
 
 And somehow it did not sound epigrammatic; but only odd and
 
@@ -58,7 +58,7 @@ therefore and great glory belongs to anyone who could successfully
 
 stop Mr. Pond from making long speeches; and this laurel is for the
 
-brows of Miss Artemis Asa-Smith, of Pentapolis, Pa.  She came to
+brows of Miss Artemis Asa-[[smith|Smith]], of Pentapolis, Pa.  She came to
 
 interview Mr. Pond for The Live Wire, touching his alleged views on
 
@@ -76,7 +76,7 @@ murder, but--"
 
 "Forget it," said the young lady briefly.  "It's just too wonderful
 
-for me to be sitting here next to all secrets of your government;
+for me to be sitting here next to all [[Secrets|secrets]] of your [[government]];
 
 why--"
 
@@ -96,7 +96,7 @@ ended.
 
 We have all heard of American interviewers who rip up family
 
-secrets, break down bedroom doors and collect information in the
+[[Secrets|secrets]], break down bedroom doors and collect information in the
 
 manner of burglars.  There are some; but there are also others.
 
@@ -104,7 +104,7 @@ There are, or were, when the writer remembers them, a very large
 
 number of intelligent men ready to discuss intelligent things; and
 
-there was Miss Asa-Smith.  She was small and dark; she was rather
+there was Miss Asa-[[smith|Smith]].  She was small and dark; she was rather
 
 pretty and would have been very pretty if she had not dipped her
 
@@ -112,15 +112,15 @@ lipstick in hues of earthquake and eclipse.  Her finger-nails were
 
 painted five different colours, looking like the paints in a
 
-child's paintbox; and she was as innocent as a child.  She was also
+[[Child|child]]'s paintbox; and she was as [[Innocent|innocent]] as a [[Child|child]].  She was also
 
-as garrulous as a child.  She felt something paternal about Mr.
+as garrulous as a [[Child|child]].  She felt something paternal about Mr.
 
 Pond and told him everything.  He did not have to tell her
 
 anything.  No buried tragedies of the Pond family were dug up; no
 
-secrets of the crimes committed behind Mr. Pond's bedroom door.
+[[Secrets|secrets]] of the crimes committed behind Mr. Pond's bedroom door.
 
 Conversation, so to describe it, revolved largely round her early
 
@@ -142,17 +142,17 @@ written a play; and she just longed to read it to Mr. Pond.
 
 
 
-"Well, I'm just desperate to read you this play, and--you know how
+"[[Well]], I'm just desperate to read you this play, and--you know how
 
 it is.  You see, my play's awfully MODERN.  But even the modernest
 
-people haven't done just that--I mean, beginning in the water and
+people haven't done just that--I mean, beginning in the [[Water|water]] and
 
 then--"
 
 
 
-"Beginning in the water?" inquired Mr. Pond.
+"Beginning in the [[Water|water]]?" inquired Mr. Pond.
 
 
 
@@ -162,7 +162,7 @@ all characters in bathing dresses soon--but they'll only just enter
 
 L. or R.; come on at the side, you know--and all the old stuff.  My
 
-characters enter from above, diving, with a splash--Well, that'll
+characters enter from above, diving, with a splash--[[Well]], that'll
 
 be a splash, won't it?  I mean to say, it begins like that."  She
 
@@ -202,15 +202,15 @@ is the only splash by your--.'
 
 "She calls him Grandpa, you see, because 'splosh' means money in
 
-that ever-so-old comic song--they're quite young really, of course,
+that ever-so-old comic [[Song|song]]--they're quite young really, of course,
 
 and rather . . . you know.  But--"
 
 
 
-Mr. Pond interposed with delicacy and firmness:  "I wonder whether
+Mr. Pond interposed with delicacy and firmness:  "I [[Wonder|wonder]] whether
 
-you would be so very kind, Miss Asa-Smith, as to leave the
+you would be so very kind, Miss Asa-[[smith|Smith]], as to leave the
 
 manuscript with me or send me a copy, so that I can enjoy it at
 
@@ -226,7 +226,7 @@ heights into a stage sea?"
 
 "Oh, I dare say some of the old-stagers would be stuffy about it,"
 
-she replied, "because--can't fancy your great tragedienne, Olivia
+she replied, "because--can't fancy your great tragedienne, [[Olivia]]
 
 Feversham--though she's not so old really and just lovely still,
 
@@ -236,7 +236,7 @@ Varney to PROMISE, and her sister's quite a friend of mine, though
 
 of course not so--and lots of amateurs would do it for fun.  That
 
-Gahagan guy is a good swimmer, and he's acted, too, and--oh, well,
+Gahagan guy is a good swimmer, and he's acted, too, and--oh, [[Well|well]],
 
 he'd click if Joan Varney's in it."
 
@@ -254,10 +254,10 @@ me to Miss Varney.  As to her sister, the one on the stage--"
 
 
 
-"Not a patch on Joan, is she?  But--" said Miss Asa-Smith.
+"Not a patch on Joan, is she?  But--" said Miss Asa-[[smith|Smith]].
 
 
 
-Mr. Pond had formed an impression.  He liked Miss Asa-Smith.  He
+Mr. Pond had formed an impression.  He liked Miss Asa-[[smith|Smith]].  He
 
 liked her very much.  And the thought of the Honourable Violet

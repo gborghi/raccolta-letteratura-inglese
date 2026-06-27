@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 36: ENTHUSIASM (part 6)"
+title: "[[David Copperfield]] — Chapter 36: ENTHUSIASM (part 6)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 ‘Why, the plain state of the case, Mrs. Micawber,’ said Traddles, mildly
-breaking the truth to her. ‘I mean the real prosaic fact, you know--’
+breaking the [[Truth|truth]] to her. ‘I mean the real prosaic fact, you know--’
 
 ‘Just so,’ said Mrs. Micawber, ‘my dear Mr. Traddles, I wish to be as
 prosaic and literal as possible on a subject of so much importance.’
@@ -28,7 +28,7 @@ will not be able to get your eyes back.’)
 
 ‘--Has nothing,’ pursued Traddles, ‘to do with that. Only a barrister
 is eligible for such preferments; and Mr. Micawber could not be a
-barrister, without being entered at an inn of court as a student, for
+barrister, without being entered at an inn of [[Court|court]] as a student, for
 five years.’
 
 ‘Do I follow you?’ said Mrs. Micawber, with her most affable air
@@ -43,13 +43,13 @@ that word.
 the case, and Mr. Micawber forfeits no privilege by entering on these
 duties, my anxiety is set at rest. I speak,’ said Mrs. Micawber, ‘as a
 female, necessarily; but I have always been of opinion that Mr. Micawber
-possesses what I have heard my papa call, when I lived at home, the
-judicial mind; and I hope Mr. Micawber is now entering on a field where
+possesses what I have heard my papa call, when I lived at [[Home|home]], the
+judicial mind; and I [[Hope|hope]] Mr. Micawber is now entering on a field where
 that mind will develop itself, and take a commanding station.’
 
 I quite believe that Mr. Micawber saw himself, in his judicial mind’s
 eye, on the woolsack. He passed his hand complacently over his bald
-head, and said with ostentatious resignation:
+head, and said with ostentatious [[Resignation|resignation]]:
 
 ‘My dear, we will not anticipate the decrees of fortune. If I am
 reserved to wear a wig, I am at least prepared, externally,’ in allusion
@@ -64,8 +64,8 @@ Heep.
 
 ‘Yes,’ said Mr. Micawber. ‘He has a remarkable head-voice, and will
 commence as a chorister. Our residence at Canterbury, and our local
-connexion, will, no doubt, enable him to take advantage of any vacancy
-that may arise in the Cathedral corps.’
+connexion, will, no [[Doubt|doubt]], enable him to take advantage of any vacancy
+that may arise in the [[Cathedral]] corps.’
 
 On looking at Master Micawber again, I saw that he had a certain
 expression of face, as if his voice were behind his eyebrows; where it
@@ -79,7 +79,7 @@ difficulties; and how comfortable and friendly it made them.
 
 When we were nearly come to the last round of the punch, I addressed
 myself to Traddles, and reminded him that we must not separate, without
-wishing our friends health, happiness, and success in their new career.
+wishing our friends health, happiness, and [[success]] in their new career.
 I begged Mr. Micawber to fill us bumpers, and proposed the toast in
 due form: shaking hands with him across the table, and kissing Mrs.
 Micawber, to commemorate that eventful occasion. Traddles imitated me
@@ -107,11 +107,11 @@ recoil--I allude to spectacles--and possessing myself of a cognomen, to
 which I can establish no legitimate pretensions. All I have to say on
 that score is, that the cloud has passed from the dreary scene, and the
 God of Day is once more high upon the mountain tops. On Monday next, on
-the arrival of the four o’clock afternoon coach at Canterbury, my foot
+the arrival of the four o’[[Clock|clock]] afternoon coach at Canterbury, my foot
 will be on my native heath--my name, Micawber!’
 
 Mr. Micawber resumed his seat on the close of these remarks, and
-drank two glasses of punch in grave succession. He then said with much
+drank two glasses of punch in [[Grave|grave]] succession. He then said with much
 solemnity:
 
 ‘One thing more I have to do, before this separation is complete, and
@@ -139,17 +139,17 @@ eleven and a half, and I am happy to recover my moral dignity, and to
 know that I can once more walk erect before my fellow man!’
 
 With this introduction (which greatly affected him), Mr. Micawber placed
-his I.O.U. in the hands of Traddles, and said he wished him well in
+his I.O.U. in the hands of Traddles, and said he wished him [[Well|well]] in
 every relation of life. I am persuaded, not only that this was quite
 the same to Mr. Micawber as paying the money, but that Traddles himself
-hardly knew the difference until he had had time to think about it. Mr.
+hardly knew the difference until he had had [[Time|time]] to think about it. Mr.
 Micawber walked so erect before his fellow man, on the strength of
 this virtuous action, that his chest looked half as broad again when he
 lighted us downstairs. We parted with great heartiness on both sides;
-and when I had seen Traddles to his own door, and was going home alone,
+and when I had seen Traddles to his own door, and was going [[Home|home]] [[Alone|alone]],
 I thought, among the other odd and contradictory things I mused upon,
 that, slippery as Mr. Micawber was, I was probably indebted to some
 compassionate recollection he retained of me as his boy-lodger, for
 never having been asked by him for money. I certainly should not have
-had the moral courage to refuse it; and I have no doubt he knew that (to
-his credit be it written), quite as well as I did.
+had the moral [[Courage|courage]] to refuse it; and I have no [[Doubt|doubt]] he knew that (to
+his credit be it written), quite as [[Well|well]] as I did.

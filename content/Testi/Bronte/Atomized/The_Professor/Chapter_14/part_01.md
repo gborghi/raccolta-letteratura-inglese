@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 13 (part 1)"
+title: "[[The Professor]] — Chapter 13 (part 1)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -18,7 +18,7 @@ CHAPTER XIII.
 
 
 
-NEXT morning I rose with the dawn, and having dressed myself and stood
+NEXT morning I [[Rose|rose]] with the [[Dawn|dawn]], and having dressed myself and stood
 
 half-an-hour, my elbow leaning on the chest of drawers, considering what
 
@@ -34,7 +34,7 @@ expedient of walking out in the cool of the morning to a neighbouring
 
 establishment of baths, and treating myself to a bracing plunge.
 
-The remedy produced the desired effect. I came back at seven o’clock
+The remedy produced the desired effect. I came back at seven o’[[Clock|clock]]
 
 steadied and invigorated, and was able to greet M. Pelet, when he
 
@@ -52,7 +52,7 @@ my heart. Not that I nursed vengeance--no; but the sense of insult and
 
 treachery lived in me like a kindling, though as yet smothered coal. God
 
-knows I am not by nature vindictive; I would not hurt a man because I
+knows I am not by [[Nature|nature]] vindictive; I would not hurt a man because I
 
 can no longer trust or like him; but neither my reason nor feelings
 
@@ -80,27 +80,27 @@ turned, now sternly on his boys and ushers, and now graciously on me.
 
 “Circumstances must guide me,” said I; and meeting Pelet’s false glance
 
-and insinuating smile, I thanked heaven that I had last night opened
+and insinuating smile, I thanked heaven that I had last [[Night|night]] opened
 
-my window and read by the light of a full moon the true meaning of that
+my [[Window|window]] and read by the light of a full [[Moon|moon]] the true meaning of that
 
 guileful countenance. I felt half his master, because the reality of
 
-his nature was now known to me; smile and flatter as he would, I saw his
+his [[Nature|nature]] was now known to me; smile and flatter as he would, I saw his
 
-soul lurk behind his smile, and heard in every one of his smooth phrases
+[[Soul|soul]] lurk behind his smile, and heard in every one of his smooth phrases
 
 a voice interpreting their treacherous import.
 
 
 
-But Zoraide Reuter? Of course her defection had cut me to the quick?
+But [[Zoraide Reuter]]? Of course her defection had cut me to the quick?
 
-That stint must have gone too deep for any consolations of philosophy
+That stint must have gone too deep for any consolations of [[philosophy]]
 
-to be available in curing its smart? Not at all. The night fever over,
+to be available in curing its smart? Not at all. The [[Night|night]] fever over,
 
-I looked about for balm to that wound also, and found some nearer home
+I looked about for balm to that wound also, and found some nearer [[Home|home]]
 
 than at Gilead. Reason was my physician; she began by proving that the
 
@@ -108,7 +108,7 @@ prize I had missed was of little value: she admitted that, physically,
 
 Zoraide might have suited me, but affirmed that our souls were not in
 
-harmony, and that discord must have resulted from the union of her mind
+harmony, and that discord must have resulted from the [[Union|union]] of her mind
 
 with mine. She then insisted on the suppression of all repining,
 
@@ -132,31 +132,31 @@ my changed and careless manner. “I will give her an answer,” thought I;
 
 and, meeting her gaze full, arresting, fixing her glance, I shot into
 
-her eyes, from my own, a look, where there was no respect, no love,
+her eyes, from my own, a look, where there was no respect, no [[Love|love]],
 
 no tenderness, no gallantry; where the strictest analysis could detect
 
 nothing but scorn, hardihood, irony. I made her bear it, and feel it;
 
-her steady countenance did not change, but her colour rose, and she
+her steady countenance did not change, but her colour [[Rose|rose]], and she
 
 approached me as if fascinated. She stepped on to the estrade, and
 
 stood close by my side; she had nothing to say. I would not relieve her
 
-embarrassment, and negligently turned over the leaves of a book.
+embarrassment, and negligently turned over the [[Leaves|leaves]] of a book.
 
 
 
-“I hope you feel quite recovered to-day,” at last she said, in a low
+“I [[Hope|hope]] you feel quite recovered to-day,” at last she said, in a low
 
 tone.
 
 
 
-“And I, mademoiselle, hope that you took no cold last night in
+“And I, mademoiselle, [[Hope|hope]] that you took no cold last [[Night|night]] in
 
-consequence of your late walk in the garden.”
+consequence of your late walk in the [[Garden|garden]].”
 
 
 
@@ -164,7 +164,7 @@ Quick enough of comprehension, she understood me directly; her face
 
 became a little blanched--a very little--but no muscle in her rather
 
-marked features moved; and, calm and self-possessed, she retired from
+marked features moved; and, calm and [[Self|self]]-possessed, she retired from
 
 the estrade, taking her seat quietly at a little distance, and occupying
 
@@ -172,7 +172,7 @@ herself with netting a purse. I proceeded to give my lesson; it was a
 
 “Composition,” i.e., I dictated certain general questions, of which the
 
-pupils were to compose the answers from memory, access to books being
+pupils were to compose the answers from [[Memory|memory]], access to books being
 
 forbidden. While Mdlle. Eulalie, Hortense, Caroline, &c., were pondering
 
@@ -188,9 +188,9 @@ sat netting within two yards of me, was still yet guarded; in her whole
 
 person were expressed at once, and with equal clearness, vigilance and
 
-repose--a rare union! Looking at her, I was forced, as I had often been
+repose--a rare [[Union|union]]! Looking at her, I was forced, as I had often been
 
-before, to offer her good sense, her wondrous self-control, the tribute
+before, to offer her good sense, her wondrous [[Self|self]]-control, the tribute
 
 of involuntary admiration. She had felt that I had withdrawn from her
 

@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-      filled us with the most depressing and melancholy forebodings. We
+      filled us with the most depressing and [[Melancholy|melancholy]] forebodings. We
 
       had experienced indescribable relief in bathing, and to have this
 
@@ -40,7 +40,7 @@ tags:
 
       conceive our sufferings from thirst at this period. We passed a
 
-      sleepless night, both on this account and through dread of the
+      sleepless [[Night|night]], both on this account and through dread of the
 
       sharks.
 
@@ -54,23 +54,23 @@ tags:
 
       tortoise-meat, so that we might not lose them in the event of our
 
-      rolling over. Got out two stout spikes from the forechains, and,
+      [[rolling]] over. Got out two stout spikes from the forechains, and,
 
       by means of the axe, drove them into the hull to windward within
 
-      a couple of feet of the water, this not being very far from the
+      a couple of feet of the [[Water|water]], this not being very far from the
 
       keel, as we were nearly upon our beam-ends. To these spikes we
 
       now lashed our provisions, as being more secure than their former
 
-      position beneath the chains. Suffered great agony from thirst
+      position beneath the [[Chains|chains]]. Suffered great agony from thirst
 
       during the whole day—no chance of bathing on account of the
 
       sharks, which never left us for a moment. Found it impossible to
 
-      sleep.
+      [[Sleep|sleep]].
 
 
 
@@ -80,7 +80,7 @@ tags:
 
       by the movement. At first the roll was slow and gradual, and we
 
-      contrived to clamber over to windward very well, having taken the
+      contrived to clamber over to windward very [[Well|well]], having taken the
 
       precaution to leave ropes hanging from the spikes we had driven
 
@@ -98,7 +98,7 @@ tags:
 
 
 
-      In going under the water I had been obliged to let go my hold
+      In going under the [[Water|water]] I had been obliged to let go my hold
 
       upon the rope; and finding that I was completely beneath the
 
@@ -110,7 +110,7 @@ tags:
 
       consideration the natural rebound of the hull to windward. The
 
-      whirl of the water upward, which the vessel occasioned in rolling
+      whirl of the [[Water|water]] upward, which the vessel occasioned in [[rolling]]
 
       partially back, brought me to the surface still more violently
 
@@ -134,15 +134,15 @@ tags:
 
       knew to be in my vicinity. In order to deter these, if possible,
 
-      from approaching me, I splashed the water vigorously with both
+      from approaching me, I splashed the [[Water|water]] vigorously with both
 
-      hands and feet as I swam towards the hulk, creating a body of
+      hands and feet as I swam towards the hulk, creating a [[Body|body]] of
 
-      foam. I have no doubt that to this expedient, simple as it was, I
+      foam. I have no [[Doubt|doubt]] that to this expedient, simple as it was, I
 
       was indebted for my preservation; for the sea all round the brig,
 
-      just before her rolling over, was so crowded with these monsters,
+      just before her [[rolling]] over, was so crowded with these monsters,
 
       that I must have been, and really was, in actual contact with
 
@@ -172,7 +172,7 @@ tags:
 
       all our care in securing it; and seeing no longer the remotest
 
-      possibility of obtaining more, we gave way both of us to despair,
+      possibility of obtaining more, we gave way both of us to [[Despair|despair]],
 
       weeping aloud like children, and neither of us attempting to
 
@@ -180,7 +180,7 @@ tags:
 
       conceived, and to those who have never been similarly situated
 
-      will, no doubt, appear unnatural; but it must be remembered that
+      will, no [[Doubt|doubt]], appear unnatural; but it must be remembered that
 
       our intellects were so entirely disordered by the long course of
 
@@ -194,7 +194,7 @@ tags:
 
       situation, and Peters, it will be seen, evinced a stoical
 
-      philosophy nearly as incredible as his present childlike
+      [[philosophy]] nearly as incredible as his present childlike
 
       supineness and imbecility—the mental condition made the
 

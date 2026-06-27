@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 18 (part 3)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 18 (part 3)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -34,7 +34,7 @@ temperate, or the northern frigid zones, and were altogether unlike
 
 those of the lower southern latitudes we had already traversed. The
 
-very rocks were novel in their mass, their colour, and their
+very rocks were [[Novel|novel]] in their mass, their colour, and their
 
 stratification; and the streams themselves, utterly incredible as it
 
@@ -44,33 +44,33 @@ we were scrupulous of tasting them, and, indeed, had difficulty in
 
 bringing ourselves to believe that their qualities were purely those of
 
-nature. At a small brook which crossed our path (the first we had
+[[Nature|nature]]. At a small brook which crossed our path (the first we had
 
 reached) Too-wit and his attendants halted to drink. On account of the
 
-singular character of the water, we refused to taste it, supposing it
+singular character of the [[Water|water]], we refused to taste it, supposing it
 
-to be polluted; and it was not until some time afterward we came to
+to be polluted; and it was not until some [[Time|time]] afterward we came to
 
 understand that such was the appearance of the streams throughout the
 
-whole group. I am at a loss to give a distinct idea of the nature of
+whole group. I am at a loss to give a distinct idea of the [[Nature|nature]] of
 
 this liquid, and cannot do so without many words. Although it flowed
 
-with rapidity in all declivities where common water would do so, yet
+with rapidity in all declivities where common [[Water|water]] would do so, yet
 
 never, except when falling in a cascade, had it the customary
 
 appearance of _limpidity_. It was, nevertheless, in point of fact, as
 
-perfectly limpid as any limestone water in existence, the difference
+perfectly limpid as any limestone [[Water|water]] in existence, the difference
 
 being only in appearance. At first sight, and especially in cases where
 
 little declivity was found, it bore resemblance, as regards
 
-consistency, to a thick infusion of gum Arabic in common water. But
+consistency, to a thick infusion of gum Arabic in common [[Water|water]]. But
 
 this was only the least remarkable of its extraordinary qualities. It
 
@@ -82,7 +82,7 @@ of a changeable silk. This variation in shade was produced in a manner
 
 which excited as profound astonishment in the minds of our party as the
 
-mirror had done in the case of Too-wit. Upon collecting a basinful, and
+[[Mirror|mirror]] had done in the case of Too-wit. Upon collecting a basinful, and
 
 allowing it to settle thoroughly, we perceived that the whole mass of
 
@@ -94,7 +94,7 @@ perfect in regard to their own particles among themselves, and
 
 imperfect in regard to neighbouring veins. Upon passing the blade of a
 
-knife athwart the veins, the water closed over it immediately, as with
+knife athwart the veins, the [[Water|water]] closed over it immediately, as with
 
 us, and also, in withdrawing it, all traces of the passage of the knife
 
@@ -104,6 +104,6 @@ accurately between two veins, a perfect separation was effected, which
 
 the power of cohesion did not immediately rectify. The phenomena of
 
-this water formed the first definite link in that vast chain of
+this [[Water|water]] formed the first definite link in that vast chain of
 
 apparent miracles with which I was destined to be at length encircled.

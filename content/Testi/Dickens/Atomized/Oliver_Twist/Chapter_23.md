@@ -1,5 +1,5 @@
 ---
-title: "Oliver Twist — Chapter 23"
+title: "[[Oliver Twist]] — Chapter 23"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Oliver-Twist-(Dickens)"
@@ -20,32 +20,32 @@ BUMBLE AND A LADY; AND SHOWS THAT EVEN A BEADLE MAY BE SUSCEPTIBLE ON
 SOME POINTS
 
 
-The night was bitter cold. The snow lay on the ground, frozen into a
+The [[Night|night]] was bitter cold. The [[Snow|snow]] lay on the ground, frozen into a
 hard thick crust, so that only the heaps that had drifted into byways
-and corners were affected by the sharp wind that howled abroad: which,
+and corners were affected by the sharp [[Wind|wind]] that howled abroad: which,
 as if expending increased fury on such prey as it found, caught it
 savagely up in clouds, and, whirling it into a thousand misty eddies,
-scattered it in air. Bleak, dark, and piercing cold, it was a night for
-the well-housed and fed to draw round the bright fire and thank God
-they were at home; and for the homeless, starving wretch to lay him
+scattered it in air. Bleak, dark, and piercing cold, it was a [[Night|night]] for
+the [[Well|well]]-housed and fed to draw round the bright [[Fire|fire]] and thank God
+they were at [[Home|home]]; and for the homeless, starving wretch to lay him
 down and die. Many hunger-worn outcasts close their eyes in our bare
 streets, at such times, who, let their crimes have been what they may,
 can hardly open them in a more bitter world.
 
 Such was the aspect of out-of-doors affairs, when Mrs. Corney, the
 matron of the workhouse to which our readers have been already
-introduced as the birthplace of Oliver Twist, sat herself down before a
-cheerful fire in her own little room, and glanced, with no small degree
+introduced as the birthplace of [[Oliver Twist]], sat herself down before a
+cheerful [[Fire|fire]] in her own little room, and glanced, with no small degree
 of complacency, at a small round table: on which stood a tray of
 corresponding size, furnished with all necessary materials for the most
 grateful meal that matrons enjoy. In fact, Mrs. Corney was about to
 solace herself with a cup of tea. As she glanced from the table to the
 fireplace, where the smallest of all possible kettles was singing a
-small song in a small voice, her inward satisfaction evidently
+small [[Song|song]] in a small voice, her inward satisfaction evidently
 increased,—so much so, indeed, that Mrs. Corney smiled.
 
-“Well!” said the matron, leaning her elbow on the table, and looking
-reflectively at the fire; “I’m sure we have all on us a great deal to
+“[[Well]]!” said the matron, leaning her elbow on the table, and looking
+reflectively at the [[Fire|fire]]; “I’m sure we have all on us a great deal to
 be grateful for! A great deal, if we did but know it. Ah!”
 
 Mrs. Corney shook her head mournfully, as if deploring the mental
@@ -55,7 +55,7 @@ tea-caddy, proceeded to make the tea.
 
 How slight a thing will disturb the equanimity of our frail minds! The
 black teapot, being very small and easily filled, ran over while Mrs.
-Corney was moralising; and the water slightly scalded Mrs. Corney’s
+Corney was moralising; and the [[Water|water]] slightly scalded Mrs. Corney’s
 hand.
 
 “Drat the pot!” said the worthy matron, setting it down very hastily on
@@ -87,7 +87,7 @@ there, letting the cold air in, don’t. What’s amiss now, eh?”
 Bumble?”
 
 “At your service, ma’am,” said Mr. Bumble, who had been stopping
-outside to rub his shoes clean, and to shake the snow off his coat; and
+outside to rub his shoes clean, and to shake the [[Snow|snow]] off his coat; and
 who now made his appearance, bearing the cocked hat in one hand and a
 bundle in the other. “Shall I shut the door, ma’am?”
 
@@ -100,7 +100,7 @@ himself, shut it without permission.
 
 “Hard, indeed, ma’am,” replied the beadle. “Anti-porochial weather
 this, ma’am. We have given away, Mrs. Corney, we have given away a
-matter of twenty quartern loaves and a cheese and a half, this very
+matter of twenty quartern loaves and a [[cheese]] and a half, this very
 blessed afternoon; and yet them paupers are not contented.”
 
 “Of course not. When would they be, Mr. Bumble?” said the matron,
@@ -108,10 +108,10 @@ sipping her tea.
 
 “When, indeed, ma’am!” rejoined Mr. Bumble. “Why here’s one man that,
 in consideration of his wife and large family, has a quartern loaf and
-a good pound of cheese, full weight. Is he grateful, ma’am? Is he
+a good pound of [[cheese]], full weight. Is he grateful, ma’am? Is he
 grateful? Not a copper farthing’s worth of it! What does he do, ma’am,
 but ask for a few coals; if it’s only a pocket handkerchief full, he
-says! Coals! What would he do with coals? Toast his cheese with ’em and
+says! Coals! What would he do with coals? Toast his [[cheese]] with ’em and
 then come back for more. That’s the way with these people, ma’am; give
 ’em a apron full of coals today, and they’ll come back for another,
 the day after tomorrow, as brazen as alabaster.”
@@ -126,16 +126,16 @@ and I may mention it to you—a man, with hardly a rag upon his back
 when he has got company coming to dinner; and says, he must be
 relieved, Mrs. Corney. As he wouldn’t go away, and shocked the company
 very much, our overseer sent him out a pound of potatoes and half a
-pint of oatmeal. ‘My heart!’ says the ungrateful villain, ‘what’s the
-use of _this_ to me? You might as well give me a pair of iron
+pint of oatmeal. ‘My heart!’ says the ungrateful [[Villain|villain]], ‘what’s the
+use of _this_ to me? You might as [[Well|well]] give me a pair of iron
 spectacles!’ ‘Very good,’ says our overseer, taking ’em away again,
 ‘you won’t get anything else here.’ ‘Then I’ll die in the streets!’
 says the vagrant. ‘Oh no, you won’t,’ says our overseer.”
 
 “Ha! ha! That was very good! So like Mr. Grannett, wasn’t it?”
-interposed the matron. “Well, Mr. Bumble?”
+interposed the matron. “[[Well]], Mr. Bumble?”
 
-“Well, ma’am,” rejoined the beadle, “he went away; and he _did_ die in
+“[[Well]], ma’am,” rejoined the beadle, “he went away; and he _did_ die in
 the streets. There’s a obstinate pauper for you!”
 
 “It beats anything I could have believed,” observed the matron
@@ -149,20 +149,20 @@ properly managed, ma’am: is the porochial safeguard. The great
 principle of out-of-door relief is, to give the paupers exactly what
 they don’t want; and then they get tired of coming.”
 
-“Dear me!” exclaimed Mrs. Corney. “Well, that is a good one, too!”
+“Dear me!” exclaimed Mrs. Corney. “[[Well]], that is a good one, too!”
 
 “Yes. Betwixt you and me, ma’am,” returned Mr. Bumble, “that’s the
 great principle; and that’s the reason why, if you look at any cases
 that get into them owdacious newspapers, you’ll always observe that
-sick families have been relieved with slices of cheese. That’s the rule
+sick families have been relieved with slices of [[cheese]]. That’s the rule
 now, Mrs. Corney, all over the country. But, however,” said the beadle,
-stopping to unpack his bundle, “these are official secrets, ma’am; not
+stopping to unpack his bundle, “these are official [[Secrets|secrets]], ma’am; not
 to be spoken of; except, as I may say, among the porochial officers,
 such as ourselves. This is the port wine, ma’am, that the board ordered
 for the infirmary; real, fresh, genuine port wine; only out of the cask
 this forenoon; clear as a bell, and no sediment!”
 
-Having held the first bottle up to the light, and shaken it well to
+Having held the first bottle up to the light, and shaken it [[Well|well]] to
 test its excellence, Mr. Bumble placed them both on top of a chest of
 drawers; folded the handkerchief in which they had been wrapped; put it
 carefully in his pocket; and took up his hat, as if to go.
@@ -174,7 +174,7 @@ carefully in his pocket; and took up his hat, as if to go.
 
 The matron looked, from the little kettle, to the beadle, who was
 moving towards the door; and as the beadle coughed, preparatory to
-bidding her good-night, bashfully inquired whether—whether he wouldn’t
+bidding her good-[[Night|night]], bashfully inquired whether—whether he wouldn’t
 take a cup of tea?
 
 Mr. Bumble instantaneously turned back his collar again; laid his hat
@@ -182,10 +182,10 @@ and stick upon a chair; and drew another chair up to the table. As he
 slowly seated himself, he looked at the lady. She fixed her eyes upon
 the little teapot. Mr. Bumble coughed again, and slightly smiled.
 
-Mrs. Corney rose to get another cup and saucer from the closet. As she
+Mrs. Corney [[Rose|rose]] to get another cup and saucer from the closet. As she
 sat down, her eyes once again encountered those of the gallant beadle;
 she coloured, and applied herself to the task of making his tea. Again
-Mr. Bumble coughed—louder this time than he had coughed yet.
+Mr. Bumble coughed—louder this [[Time|time]] than he had coughed yet.
 
 “Sweet? Mr. Bumble?” inquired the matron, taking up the sugar-basin.
 
@@ -193,7 +193,7 @@ Mr. Bumble coughed—louder this time than he had coughed yet.
 Mrs. Corney as he said this; and if ever a beadle looked tender, Mr.
 Bumble was that beadle at that moment.
 
-The tea was made, and handed in silence. Mr. Bumble, having spread a
+The tea was made, and handed in [[Silence|silence]]. Mr. Bumble, having spread a
 handkerchief over his knees to prevent the crumbs from sullying the
 splendour of his shorts, began to eat and drink; varying these
 amusements, occasionally, by fetching a deep sigh; which, however, had
@@ -201,22 +201,22 @@ no injurious effect upon his appetite, but, on the contrary, rather
 seemed to facilitate his operations in the tea and toast department.
 
 “You have a cat, ma’am, I see,” said Mr. Bumble, glancing at one who,
-in the centre of her family, was basking before the fire; “and kittens
+in the centre of her family, was basking before the [[Fire|fire]]; “and kittens
 too, I declare!”
 
 “I am so fond of them, Mr. Bumble, you can’t think,” replied the
 matron. “They’re _so_ happy, _so_ frolicsome, and _so_ cheerful, that
 they are quite companions for me.”
 
-“Very nice animals, ma’am,” replied Mr. Bumble, approvingly; “so very
+“Very nice [[Animals|animals]], ma’am,” replied Mr. Bumble, approvingly; “so very
 domestic.”
 
-“Oh, yes!” rejoined the matron with enthusiasm; “so fond of their home
+“Oh, yes!” rejoined the matron with enthusiasm; “so fond of their [[Home|home]]
 too, that it’s quite a pleasure, I’m sure.”
 
-“Mrs. Corney, ma’am,” said Mr. Bumble, slowly, and marking the time
+“Mrs. Corney, ma’am,” said Mr. Bumble, slowly, and marking the [[Time|time]]
 with his teaspoon, “I mean to say this, ma’am; that any cat, or kitten,
-that could live with you, ma’am, and _not_ be fond of its home, must be
+that could live with you, ma’am, and _not_ be fond of its [[Home|home]], must be
 a ass, ma’am.”
 
 “Oh, Mr. Bumble!” remonstrated Mrs. Corney.
@@ -232,37 +232,37 @@ her hand for the beadle’s cup; “and a very hard-hearted man besides.”
 cup without another word; squeezed Mrs. Corney’s little finger as she
 took it; and inflicting two open-handed slaps upon his laced waistcoat,
 gave a mighty sigh, and hitched his chair a very little morsel farther
-from the fire.
+from the [[Fire|fire]].
 
 It was a round table; and as Mrs. Corney and Mr. Bumble had been
 sitting opposite each other, with no great space between them, and
-fronting the fire, it will be seen that Mr. Bumble, in receding from
-the fire, and still keeping at the table, increased the distance
+fronting the [[Fire|fire]], it will be seen that Mr. Bumble, in receding from
+the [[Fire|fire]], and still keeping at the table, increased the distance
 between himself and Mrs. Corney; which proceeding, some prudent readers
 will doubtless be disposed to admire, and to consider an act of great
-heroism on Mr. Bumble’s part: he being in some sort tempted by time,
+[[Heroism|heroism]] on Mr. Bumble’s part: he being in some sort tempted by [[Time|time]],
 place, and opportunity, to give utterance to certain soft nothings,
-which however well they may become the lips of the light and
+which however [[Well|well]] they may become the lips of the light and
 thoughtless, do seem immeasurably beneath the dignity of judges of the
 land, members of parliament, ministers of state, lord mayors, and other
 great public functionaries, but more particularly beneath the
-stateliness and gravity of a beadle: who (as is well known) should be
+stateliness and gravity of a beadle: who (as is [[Well|well]] known) should be
 the sternest and most inflexible among them all.
 
-Whatever were Mr. Bumble’s intentions, however (and no doubt they were
+Whatever were Mr. Bumble’s intentions, however (and no [[Doubt|doubt]] they were
 of the best): it unfortunately happened, as has been twice before
 remarked, that the table was a round one; consequently Mr. Bumble,
 moving his chair by little and little, soon began to diminish the
 distance between himself and the matron; and, continuing to travel
-round the outer edge of the circle, brought his chair, in time, close
+round the outer edge of the circle, brought his chair, in [[Time|time]], close
 to that in which the matron was seated.
 
 Indeed, the two chairs touched; and when they did so, Mr. Bumble
 stopped.
 
 Now, if the matron had moved her chair to the right, she would have
-been scorched by the fire; and if to the left, she must have fallen
-into Mr. Bumble’s arms; so (being a discreet matron, and no doubt
+been scorched by the [[Fire|fire]]; and if to the left, she must have fallen
+into Mr. Bumble’s arms; so (being a discreet matron, and no [[Doubt|doubt]]
 foreseeing these consequences at a glance) she remained where she was,
 and handed Mr. Bumble another cup of tea.
 
@@ -290,18 +290,18 @@ bottles, and began dusting them with great violence: while the matron
 sharply demanded who was there.
 
 It is worthy of remark, as a curious physical instance of the efficacy
-of a sudden surprise in counteracting the effects of extreme fear, that
+of a sudden surprise in counteracting the effects of extreme [[Fear|fear]], that
 her voice had quite recovered all its official asperity.
 
 “If you please, mistress,” said a withered old female pauper, hideously
 ugly: putting her head in at the door, “Old Sally is a-going fast.”
 
-“Well, what’s that to me?” angrily demanded the matron. “I can’t keep
+“[[Well]], what’s that to me?” angrily demanded the matron. “I can’t keep
 her alive, can I?”
 
 “No, no, mistress,” replied the old woman, “nobody can; she’s far
 beyond the reach of help. I’ve seen a many people die; little babes and
-great strong men; and I know when death’s a-coming, well enough. But
+great strong men; and I know when [[Death|death]]’s a-coming, [[Well|well]] enough. But
 she’s troubled in her mind: and when the fits are not on her,—and
 that’s not often, for she is dying very hard,—she says she has got
 something to tell, which you must hear. She’ll never die quiet till you
@@ -312,7 +312,7 @@ invectives against old women who couldn’t even die without purposely
 annoying their betters; and, muffling herself in a thick shawl which
 she hastily caught up, briefly requested Mr. Bumble to stay till she
 came back, lest anything particular should occur. Bidding the messenger
-walk fast, and not be all night hobbling up the stairs, she followed
+walk fast, and not be all [[Night|night]] hobbling up the stairs, she followed
 her from the room with a very ill grace, scolding all the way.
 
 Mr. Bumble’s conduct on being left to himself, was rather inexplicable.
@@ -323,6 +323,6 @@ on his cocked hat corner-wise, and danced with much gravity four
 distinct times round the table.
 
 Having gone through this very extraordinary performance, he took off
-the cocked hat again, and, spreading himself before the fire with his
+the cocked hat again, and, spreading himself before the [[Fire|fire]] with his
 back towards it, seemed to be mentally engaged in taking an exact
 inventory of the furniture.

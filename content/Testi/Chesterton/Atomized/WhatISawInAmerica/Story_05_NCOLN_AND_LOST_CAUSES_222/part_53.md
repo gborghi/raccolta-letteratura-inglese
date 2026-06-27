@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 53)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 53)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -16,7 +16,7 @@ tags:
 
 like a monogram. But the reward of a studious and virtuous life, which
 
-has been spent chiefly in the reading of American detective stories,
+has been spent chiefly in the reading of American [[Detective|detective]] stories,
 
 shone forth for me in that hour of trial; I received at last the prize
 
@@ -24,13 +24,13 @@ of a profound scholarship in the matter of imaginary murders in
 
 tenth-rate magazines. I remembered who it was who in the Yankee
 
-detective yarn flashes before the eyes of Slim Jim or the Lone Hand
+[[Detective|detective]] yarn flashes before the eyes of Slim Jim or the Lone Hand
 
 Crook a badge of metal sometimes called a shield. Assuming all the
 
 desperate composure of Slim Jim himself, I replied, 'You mean you are
 
-connected with the police authorities here, don't you? Well, if I commit
+connected with the police authorities here, don't you? [[Well]], if I commit
 
 a murder here, I'll let you know.' Whereupon that astonishing man waved
 
@@ -46,29 +46,29 @@ Then that moving constellation moved away, disappearing in the dark
 
 tides of humanity, as the vision passed away down the dark tides from
 
-Sir Galahad and, starlike, mingled with the stars.
+Sir Galahad and, starlike, mingled with the [[Stars|stars]].
 
 
 
 That is the problem I would put to all Americans, and to all who claim
 
-to understand America. Who and what was that man? Was he an astronomer?
+to understand [[America]]. Who and what was that man? Was he an astronomer?
 
-Was he a detective? Was he a wandering lunatic? If he was a lunatic who
+Was he a [[Detective|detective]]? Was he a wandering lunatic? If he was a lunatic who
 
 thought he was an astronomer, why did he have a badge to prove he was a
 
-detective? If he was a detective pretending to be an astronomer, why did
+[[Detective|detective]]? If he was a [[Detective|detective]] pretending to be an astronomer, why did
 
-he tell a total stranger that he was a detective two minutes after
+he tell a total stranger that he was a [[Detective|detective]] two minutes after
 
-saying he was an astronomer? If he wished to watch over the city in a
+saying he was an astronomer? If he wished to watch over the [[City|city]] in a
 
 quiet and unobtrusive fashion, why did he blazon himself all over with
 
-all the stars of the sky, and profess to give public lectures on all the
+all the [[Stars|stars]] of the sky, and profess to give public lectures on all the
 
-subjects of the world? Every wise and well-conducted student of murder
+subjects of the world? Every wise and [[Well|well]]-conducted student of murder
 
 stories is acquainted with the notion of a policeman in plain clothes.
 
@@ -84,11 +84,11 @@ committees. Some Americans suggested to me that he was the Sheriff; the
 
 regular hard-riding, free-shooting Sheriff of Bret Harte and my
 
-boyhood's dreams. Others suggested that he was an agent of the Ku-Klux
+boyhood's [[Dreams|dreams]]. Others suggested that he was an agent of the Ku-Klux
 
 Klan, that great nameless revolution of the revival of which there were
 
-rumours at the time; and that the symbol he exhibited was theirs. But
+rumours at the [[Time|time]]; and that the symbol he exhibited was theirs. But
 
 whether he was a sheriff acting for the law, or a conspirator against
 
@@ -110,9 +110,9 @@ not shoot you for keeping it. Only in the presence of that citizen of
 
 Oklahoma I feel I am confronted with the fullness and depth of the
 
-mystery of America. Because I understand nothing, I recognise the thing
+mystery of [[America]]. Because I understand nothing, I recognise the thing
 
-that we call a nation; and I salute the flag.
+that we call a nation; and I salute the [[Flag|flag]].
 
 
 
@@ -122,7 +122,7 @@ which affords another reason for mentioning him. Whether he was a
 
 sheriff or an outlaw, there was certainly something about him that
 
-suggested the adventurous violence of the old border life of America;
+suggested the adventurous violence of the old border life of [[America]];
 
 and whether he was connected with the police or no, there was certainly
 
@@ -142,7 +142,7 @@ acquittal. Nor did the Hamon case appear to be entirely exceptional in
 
 that breezy borderland. The moment the town had received the news that
 
-Clara Smith was free, newsboys rushed down the street shouting, 'Double
+Clara [[smith|Smith]] was free, newsboys rushed down the street shouting, '[[Double]]
 
 stabbing outrage near Oklahoma,' or 'Banker's throat cut on Main
 
@@ -152,7 +152,7 @@ much as to say, 'Do not imagine that our local energies are exhausted in
 
 shooting a Senator,' or 'Come, now, the world is young, even if Clara
 
-Smith is acquitted, and the enthusiasm of Oklahoma is not yet cold.'
+[[smith|Smith]] is acquitted, and the enthusiasm of Oklahoma is not yet cold.'
 
 
 
@@ -190,6 +190,6 @@ total absence of that atmosphere in the trial at Oklahoma. Mr. Hamon was
 
 presumably a member of the Upper Ten, if there is such a thing. He was a
 
-member of the Senate or Upper House in the American Parliament; he was a
+member of the Senate or Upper [[house|House]] in the American Parliament; he was a
 
 millionaire and a pillar of the Republican party, which might be called

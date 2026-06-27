@@ -21,7 +21,7 @@ I
 THE eighteenth century is an excellent illustration of a false
 historical fashion.  It is the fashion of abusing a thing, first for one
 obvious reason, then for another quite opposite reason; and then leaving
-it alone with all its incompatible vices unreconciled and unexplained.
+it [[Alone|alone]] with all its incompatible vices unreconciled and unexplained.
 Any one can describe that age as the age of powder and patches
 and high-heeled shoes and elaborate bows and mincing compliments.
 Anybody can describe it as the age of bludgeons and bloody noses
@@ -45,12 +45,12 @@ But that does not explain anything; not even our own antagonism
 or our own action.
 
 I have had to deal with a similar fallacy in relation to
-religious history.  I have pointed out that the people who only
-wanted to make a case against Christianity or the Middle Ages,
-or what not, were content simply to say that monks were too meek
+religious [[history]].  I have pointed out that the people who only
+wanted to make a case against [[Christianity]] or the Middle Ages,
+or what not, were content simply to say that [[Monks|monks]] were too meek
 and Crusaders too fierce, and feudalism too crude and heraldry
 too complicated.  In other words, they blamed the age for being
-as mild as the Confessor and as violent as Coeur de Lion,
+as mild as the Confessor and as violent as Coeur de [[Lion]],
 but they gave no reason for the same thing being two opposite
 things at once.  Many of them, in criticizing what I said,
 have thought it quite enough to say that the two statements
@@ -60,7 +60,7 @@ its contradiction; until (especially) you under stand
 even its misunderstanding.
 
 The only way to understand an age, whether it be the Age of Reason
-or the Age of Faith, is to get behind these mere criminal charges,
+or the Age of [[Faith]], is to get behind these mere criminal charges,
 which are used to support each other and really destroy each other.
 It is to find some common spirit that can be polished in that particular
 way and coarse in that particular way.  A mystical conviction is the cause
@@ -68,16 +68,16 @@ both of the Franciscan being friendly and the Crusader being hostile.
 A rational conviction is the cause both of Dr Johnson being ceremonious
 and Dr Johnson being rude.  But it is necessary to realize something
 of what that rational conviction really was; and the only spirit
-in which it is worth while to study history is the spirit which can
-feel a certain enthusiasm for the ideal of each time in turn.
+in which it is worth while to study [[history]] is the spirit which can
+feel a certain enthusiasm for the ideal of each [[Time|time]] in turn.
 
 The eighteenth century itself is not a century, as centuries go,
 that is specially attractive to me.  There were not enough
 fairy-tales in it for my taste; certainly there were not anything
 like so many people believing in fairies then as there are now.
 It had no great understanding of children.  The men of that
-time had forgotten the Holy Child of medieval times and had
-not yet heard of the Happy Child of modern literature.
+[[Time|time]] had forgotten the Holy [[Child]] of medieval times and had
+not yet heard of the Happy [[Child]] of modern literature.
 They could not imagine a Peter Pan, for they had lost
 the religious traditions both of Pan and of Peter.
 They had silenced all those subconscious voices which speak
@@ -112,7 +112,7 @@ because to us they are new even in being old.  It may throw some
 light on our character or conditions that this or that detail
 stands out in a startling fashion from the other details.
 But it does not throw much light on the minds of our ancestors.
-The really valuable sort of historical imagination is to guess
+The really valuable sort of historical [[Imagination|imagination]] is to guess
 the things they were thinking about.
 
 The religion of the eighteenth century was finely expressed
@@ -121,12 +121,12 @@ famous as the Associated Societies of Edinburgh University.
 It was Gloria hominis ratio et oratio:  the glory of man is reason
 and speech.  Their ideal was public spirit in the true sense of
 the publishing of things; the power of declaring aloud in the forum
-the secrets of the palace or the corruptions of the senate.
-There were secrets and corruptions enough, of course, as there are
-in all times; not so many, I think, as there are in our own time.
-But this was the vision, the ambition, the daydream.
+the [[Secrets|secrets]] of the palace or the corruptions of the senate.
+There were [[Secrets|secrets]] and corruptions enough, of course, as there are
+in all times; not so many, I think, as there are in our own [[Time|time]].
+But this was the vision, the [[Ambition|ambition]], the daydream.
 This was what an honest man wanted to be and a dishonest man
-pretended to be.  The ideal type of that time was what Walpole
+pretended to be.  The ideal type of that [[Time|time]] was what Walpole
 called a Boy; what the Boy called a Patriot.  He was to be
 a lucid orator denouncing courtiers and placemen; a tribune.
 He can only be under stood in the light of that great Latin

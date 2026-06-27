@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 14"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 14"
 author: "Poe"
 unitType: chapter
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -22,13 +22,13 @@ CHAPTER XIV.
 
 The Jane Guy was a fine-looking topsail schooner of a hundred and
 
-eighty tons burden. She was unusually sharp in the bows, and on a wind,
+eighty tons burden. She was unusually sharp in the bows, and on a [[Wind|wind]],
 
 in moderate weather, the fastest sailer I have ever seen. Her
 
 qualities, however, as a rough sea-boat, were not so good, and her
 
-draught of water was by far too great for the trade to which she was
+draught of [[Water|water]] was by far too great for the trade to which she was
 
 destined. For this peculiar service a larger vessel, and one of a light
 
@@ -38,11 +38,11 @@ three hundred and fifty tons. She should be barque-rigged, and in other
 
 respects of a different construction from the usual South Sea ships. It
 
-is absolutely necessary that she should be well armed. She should have,
+is absolutely necessary that she should be [[Well|well]] armed. She should have,
 
 say ten or twelve twelve pound carronades, and two or three long
 
-twelves, with brass blunderbusses, and water-tight arm-chests for each
+twelves, with brass blunderbusses, and [[Water|water]]-tight arm-chests for each
 
 top. Her anchors and cables should be of far greater strength than is
 
@@ -54,7 +54,7 @@ described, than fifty or sixty able-bodied men. The Jane Guy had a crew
 
 of thirty-five, all able seamen, besides the captain and mate, but she
 
-was not altogether as well armed or otherwise equipped as a navigator
+was not altogether as [[Well|well]] armed or otherwise equipped as a navigator
 
 acquainted with the difficulties and dangers of the trade could have
 
@@ -98,13 +98,13 @@ where she took in salt and other necessaries for the voyage. On the
 
 third of August she left the Cape Verds and steered southwest,
 
-stretching over towards the coast of Brazil so as to cross the equator
+stretching over towards the coast of Brazil so as to [[Cross|cross]] the equator
 
 between the meridians of twenty-eight and thirty degrees west
 
 longitude. This is the course usually taken by vessels bound from
 
-Europe to the Cape of Good Hope, or by that route to the East Indies.
+Europe to the Cape of Good [[Hope]], or by that route to the East Indies.
 
 By proceeding thus they avoid the calms and strong contrary currents
 
@@ -126,13 +126,13 @@ probably, from north to south, _not less than five-and-twenty degrees_.
 
 On board the Jane Guy we were treated with all the kindness our
 
-distressed situation demanded. In about a fortnight, during which time
+distressed situation demanded. In about a fortnight, during which [[Time|time]]
 
 we continued steering to the southeast, with gentle breezes and fine
 
 weather, both Peters and myself recovered entirely from the effects of
 
-our late privation and dreadful suffering, and we began to remember
+our late privation and dreadful [[Suffering|suffering]], and we began to remember
 
 what had passed rather as a frightful dream from which we had been
 
@@ -152,9 +152,9 @@ misery which I endured during the days spent upon the hulk. The
 
 incidents are remembered, but not the feelings which the incidents
 
-elicited at the time of their occurrence. I only know that, when they
+elicited at the [[Time|time]] of their occurrence. I only know that, when they
 
-did occur, I _then_ thought human nature could sustain nothing more of
+did occur, I _then_ thought human [[Nature|nature]] could sustain nothing more of
 
 agony.
 
@@ -170,7 +170,7 @@ contradistinction to the spermaceti. These, however, were chiefly found
 
 south of the twenty-fifth parallel. On the sixteenth of September,
 
-being in the vicinity of the Cape of Good Hope, the schooner
+being in the vicinity of the Cape of Good [[Hope]], the schooner
 
 encountered her first gale of any violence since leaving Liverpool. In
 
@@ -182,13 +182,13 @@ with storms from the northward which rage with great fury. They always
 
 bring with them a heavy sea, and one of their most dangerous features
 
-is the instantaneous chopping round of the wind, an occurrence almost
+is the instantaneous chopping round of the [[Wind|wind]], an occurrence almost
 
 certain to take place during the greatest force of the gale. A perfect
 
 hurricane will be blowing at one moment from the northward or
 
-northeast, and in the next not a breath of wind will be felt in that
+northeast, and in the next not a breath of [[Wind|wind]] will be felt in that
 
 direction, while from the southwest it will come out all at once with a
 
@@ -222,7 +222,7 @@ hour afterward we perceived the little headsail we carried flapping
 
 listlessly against the mast. In two minutes more, in spite of every
 
-preparation, we were hurled on our beam-ends as if by magic, and a
+preparation, we were hurled on our beam-ends as if by [[Magic|magic]], and a
 
 perfect wilderness of foam made a clear breach over us as we lay. The
 
@@ -230,7 +230,7 @@ blow from the southwest, however, luckily proved to be nothing more
 
 than a squall, and we had the good fortune to right the vessel without
 
-the loss of a spar. A heavy cross sea gave us great trouble for a few
+the loss of a spar. A heavy [[Cross|cross]] sea gave us great trouble for a few
 
 hours after this, but towards morning we found ourselves in nearly as
 
@@ -252,21 +252,21 @@ eighteenth we made Kerguelen's or Desolation Island, in the Southern
 
 Indian Ocean, and came to anchor in Christmas Harbour, having four
 
-fathoms of water.
+fathoms of [[Water|water]].
 
 
 
 This island, or rather group of islands, bears southeast from the Cape
 
-of Good Hope, and is distant therefrom nearly eight hundred leagues. It
+of Good [[Hope]], and is distant therefrom nearly eight hundred leagues. It
 
 was first discovered in 1772, by the Baron de Kergulen, or Kerguelen, a
 
 Frenchman, who, thinking the land to form a portion of an extensive
 
-southern continent, carried home information to that effect, which
+southern continent, carried [[Home|home]] information to that effect, which
 
-produced much excitement at the time. The government, taking the matter
+produced much excitement at the [[Time|time]]. The [[government]], taking the matter
 
 up, sent the baron back in the following year for the purpose of giving
 
@@ -276,7 +276,7 @@ discovered. In 1777, Captain Cook fell in with the same group, and gave
 
 to the principal one the name of Desolation Island, a title which it
 
-certainly well deserves. Upon approaching the land, however, the
+certainly [[Well|well]] deserves. Upon approaching the land, however, the
 
 navigator might be induced to suppose otherwise, as the sides of most
 
@@ -298,7 +298,7 @@ cabbage shooting into seed, and which has a bitter and acrid taste.
 
 The face of the country is hilly, although none of the hills can be
 
-called lofty. Their tops are perpetually covered with snow. There are
+called lofty. Their tops are perpetually covered with [[Snow|snow]]. There are
 
 several harbours, of which Christmas Harbour is the most convenient. It
 
@@ -322,13 +322,13 @@ to Wasp Bay, at the head of the harbour. This is a small basin,
 
 completely landlocked, into which you can go with four fathoms, and
 
-find anchorage in from ten to three, hard clay bottom. A ship might lie
+find anchorage in from ten to three, hard clay [[Bottom|bottom]]. A [[Ship|ship]] might lie
 
 here with her best bower ahead all the year round without risk. To the
 
 westward, at the head of Wasp Bay, is a small stream of excellent
 
-water, easily procured.
+[[Water|water]], easily procured.
 
 
 
@@ -340,23 +340,23 @@ discovered in great numbers. Penguins are very plenty, and of these
 
 there are four different kinds. The royal penguin, so called from its
 
-size and beautiful plumage, is the largest. The upper part of the body
+size and beautiful plumage, is the largest. The upper part of the [[Body|body]]
 
 is usually gray, sometimes of a lilach tint; the under portion of the
 
 purest white imaginable. The head is of a glossy and most brilliant
 
-black, the feet also. The chief beauty of the plumage, however,
+black, the feet also. The chief [[Beauty|beauty]] of the plumage, however,
 
 consists in two broad stripes of a gold colour, which pass along from
 
 the head to the breast. The bill is long, and either pink or bright
 
-scarlet. These birds walk erect, with a stately carriage. They carry
+scarlet. These [[Birds|birds]] walk erect, with a stately carriage. They carry
 
 their heads high, with their wings drooping like two arms, and, as
 
-their tails project from their body in a line with the legs, the
+their tails project from their [[Body|body]] in a line with the legs, the
 
 resemblance to a human figure is very striking, and would be apt to
 
@@ -372,7 +372,7 @@ beautiful in plumage, and different in other respects.
 
 
 
-Besides the penguin many other birds are here to be found, among which
+Besides the penguin many other [[Birds|birds]] are here to be found, among which
 
 may be mentioned seahens, blue peterels, teal, ducks, Port Egmont hens,
 
@@ -392,7 +392,7 @@ peterel. They are not at all shy, and, when properly cooked, are
 
 palatable food. In flying they sometimes sail very close to the surface
 
-of the water, with the wings expanded, without appearing to move them
+of the [[Water|water]], with the wings expanded, without appearing to move them
 
 in the least degree, or make any exertion with them whatever.
 
@@ -400,11 +400,11 @@ in the least degree, or make any exertion with them whatever.
 
 The albatross is one of the largest and fiercest of the South Sea
 
-birds. It is of the gull species, and takes its prey on the wing, never
+[[Birds|birds]]. It is of the gull species, and takes its prey on the wing, never
 
 coming on land except for the purpose of breeding. Between this bird
 
-and the penguin the most singular friendship exists. Their nests are
+and the penguin the most singular [[Friendship|friendship]] exists. Their nests are
 
 constructed with great uniformity, upon a plan concerted between the
 
@@ -424,7 +424,7 @@ something here of their mode of building and living.
 
 
 
-When the season for incubation arrives, the birds assemble in vast
+When the season for incubation arrives, the [[Birds|birds]] assemble in vast
 
 numbers, and for some days appear to be deliberating upon the proper
 
@@ -438,21 +438,21 @@ beyond its reach. The spot is chosen with reference to its evenness of
 
 surface, and that is preferred which is the least encumbered with
 
-stones. This matter being arranged, the birds proceed, with one accord,
+stones. This matter being arranged, the [[Birds|birds]] proceed, with one accord,
 
 and actuated apparently by one mind, to trace out, with mathematical
 
 accuracy, either a square or other parallelogram, as may best suit the
 
-nature of the ground, and of just sufficient size to accommodate easily
+[[Nature|nature]] of the ground, and of just sufficient size to accommodate easily
 
-all the birds assembled, and no more--in this particular seeming
+all the [[Birds|birds]] assembled, and no more--in this particular seeming
 
 determined upon preventing the access of future stragglers who have not
 
 participated in the labour of the encampment. One side of the place
 
-thus marked out runs parallel with the water's edge, and is left open
+thus marked out runs parallel with the [[Water|water]]'s edge, and is left open
 
 for ingress or egress.
 
@@ -488,7 +488,7 @@ albatross by a like number of penguins. The penguin's nest consists of
 
 a hole in the earth, very shallow, being only just of sufficient depth
 
-to keep her single egg from rolling. The albatross is somewhat less
+to keep her single egg from [[rolling]]. The albatross is somewhat less
 
 simple in her arrangements, erecting a hillock about a foot high and
 
@@ -498,7 +498,7 @@ summit she builds her nest.
 
 
 
-The birds take especial care never to leave their nests unoccupied for
+The [[Birds|birds]] take especial care never to leave their nests unoccupied for
 
 an instant during the period of incubation, or, indeed, until the young
 
@@ -508,7 +508,7 @@ male is absent at sea in search of food, the female remains on duty,
 
 and it is only upon the return of her partner that she ventures abroad.
 
-The eggs are never left uncovered at all--while one bird leaves the
+The eggs are never left uncovered at all--while one bird [[Leaves|leaves]] the
 
 nest, the other nestling in by its side. This precaution is rendered
 
@@ -522,7 +522,7 @@ good opportunity.
 
 Although there are some rookeries in which the penguin and albatross
 
-are the sole population, yet in most of them a variety of oceanic birds
+are the sole population, yet in most of them a variety of oceanic [[Birds|birds]]
 
 are to be met with, enjoying all the privileges of citizenship, and
 
@@ -538,7 +538,7 @@ darkened with the immense number of the albatross (mingled with the
 
 smaller tribes) which are continually hovering over it, either going to
 
-the ocean or returning home. At the same time a crowd of penguins are
+the ocean or returning [[Home|home]]. At the same [[Time|time]] a crowd of penguins are
 
 to be observed, some passing to and fro in the narrow alleys, and some
 
@@ -550,7 +550,7 @@ it as we will, nothing can be more astonishing than the spirit of
 
 reflection evinced by these feathered beings, and nothing surely can be
 
-better calculated to elicit reflection in every well-regulated human
+better calculated to elicit reflection in every [[Well|well]]-regulated human
 
 intellect.
 
@@ -564,7 +564,7 @@ the season) went in search of seal, leaving the captain and a young
 
 relation of his on a point of barren land to the westward, they having
 
-some business, whose nature I could not ascertain, to transact in the
+some business, whose [[Nature|nature]] I could not ascertain, to transact in the
 
 interior of the island. Captain Guy took with him a bottle, in which
 
@@ -586,7 +586,7 @@ and corner, not only of Kerguelen's Land, but of the several small
 
 islands in the vicinity. Our labours, however, were not crowned with
 
-any important success. We saw a great many fur seal, but they were
+any important [[success]]. We saw a great many fur seal, but they were
 
 exceedingly shy, and, with the greatest exertions, we could only
 

@@ -16,7 +16,7 @@ tags:
 
 ‘O!’ he said softly.  ‘You have come back?’
 
-She looked at the child, and shook her head.
+She looked at the [[Child|child]], and shook her head.
 
 ‘Don’t you think you have lived here long enough without paying any rent?
 Don’t you think that, without any money, you’ve been a pretty constant
@@ -31,7 +31,7 @@ manage it?’
 She said in a low voice, that it was very late.  To-morrow.
 
 ‘Now I see what you want,’ said Tugby; ‘and what you mean.  You know
-there are two parties in this house about you, and you delight in setting
+there are two parties in this [[house]] about you, and you delight in setting
 ’em by the ears.  I don’t want any quarrels; I’m speaking softly to avoid
 a quarrel; but if you don’t go away, I’ll speak out loud, and you shall
 cause words high enough to please you.  But you shan’t come in.  That I
@@ -40,9 +40,9 @@ am determined.’
 She put her hair back with her hand, and looked in a sudden manner at the
 sky, and the dark lowering distance.
 
-‘This is the last night of an Old Year, and I won’t carry ill-blood and
+‘This is the last [[Night|night]] of an Old Year, and I won’t carry ill-[[Blood|blood]] and
 quarrellings and disturbances into a New One, to please you nor anybody
-else,’ said Tugby, who was quite a retail Friend and Father.  ‘I wonder
+else,’ said Tugby, who was quite a retail Friend and Father.  ‘I [[Wonder|wonder]]
 you an’t ashamed of yourself, to carry such practices into a New Year.
 If you haven’t any business in the world, but to be always giving way,
 and always making disturbances between man and wife, you’d be better out
@@ -56,20 +56,20 @@ hovering in the air, and pointing where she went, down the dark street.
 ‘She loves it!’ he exclaimed, in agonised entreaty for her.  ‘Chimes! she
 loves it still!’
 
-‘Follow her!’  The shadow swept upon the track she had taken, like a
+‘Follow her!’  The [[Shadow|shadow]] swept upon the track she had taken, like a
 cloud.
 
 He joined in the pursuit; he kept close to her; he looked into her face.
-He saw the same fierce and terrible expression mingling with her love,
+He saw the same fierce and terrible expression mingling with her [[Love|love]],
 and kindling in her eyes.  He heard her say, ‘Like Lilian!  To be changed
-like Lilian!’ and her speed redoubled.
+like Lilian!’ and her [[Speed|speed]] redoubled.
 
 O, for something to awaken her!  For any sight, or sound, or scent, to
-call up tender recollections in a brain on fire!  For any gentle image of
+call up tender recollections in a brain on [[Fire|fire]]!  For any gentle image of
 the Past, to rise before her!
 
 ‘I was her father!  I was her father!’ cried the old man, stretching out
-his hands to the dark shadows flying on above.  ‘Have mercy on her, and
+his hands to the dark shadows flying on above.  ‘Have [[Mercy|mercy]] on her, and
 on me!  Where does she go?  Turn her back!  I was her father!’
 
 But they only pointed to her, as she hurried on; and said, ‘To
@@ -81,67 +81,67 @@ light in her eyes, the same words in her mouth, ‘Like Lilian!  To be
 changed like Lilian!’  All at once she stopped.
 
 ‘Now, turn her back!’ exclaimed the old man, tearing his white hair.  ‘My
-child!  Meg!  Turn her back!  Great Father, turn her back!’
+[[Child|child]]!  Meg!  Turn her back!  Great Father, turn her back!’
 
 In her own scanty shawl, she wrapped the baby warm.  With her fevered
 hands, she smoothed its limbs, composed its face, arranged its mean
 attire.  In her wasted arms she folded it, as though she never would
 resign it more.  And with her dry lips, kissed it in a final pang, and
-last long agony of Love.
+last long agony of [[Love]].
 
 Putting its tiny hand up to her neck, and holding it there, within her
 dress, next to her distracted heart, she set its sleeping face against
-her: closely, steadily, against her: and sped onward to the River.
+her: closely, steadily, against her: and sped onward to the [[River]].
 
-To the rolling River, swift and dim, where Winter Night sat brooding like
+To the [[rolling]] [[River]], swift and dim, where [[Winter]] [[Night]] sat brooding like
 the last dark thoughts of many who had sought a refuge there before her.
 Where scattered lights upon the banks gleamed sullen, red, and dull, as
-torches that were burning there, to show the way to Death.  Where no
-abode of living people cast its shadow, on the deep, impenetrable,
-melancholy shade.
+torches that were burning there, to show the way to [[Death]].  Where no
+abode of living people cast its [[Shadow|shadow]], on the deep, impenetrable,
+[[Melancholy|melancholy]] shade.
 
-To the River!  To that portal of Eternity, her desperate footsteps tended
+To the [[River]]!  To that portal of [[Eternity]], her desperate footsteps tended
 with the swiftness of its rapid waters running to the sea.  He tried to
 touch her as she passed him, going down to its dark level: but, the wild
-distempered form, the fierce and terrible love, the desperation that had
-left all human check or hold behind, swept by him like the wind.
+distempered form, the fierce and terrible [[Love|love]], the desperation that had
+left all human check or hold behind, swept by him like the [[Wind|wind]].
 
 He followed her.  She paused a moment on the brink, before the dreadful
 plunge.  He fell down on his knees, and in a shriek addressed the figures
-in the Bells now hovering above them.
+in [[The Bells|the Bells]] now hovering above them.
 
 ‘I have learnt it!’ cried the old man.  ‘From the creature dearest to my
 heart!  O, save her, save her!’
 
-He could wind his fingers in her dress; could hold it!  As the words
+He could [[Wind|wind]] his fingers in her dress; could hold it!  As the words
 escaped his lips, he felt his sense of touch return, and knew that he
 detained her.
 
 The figures looked down steadfastly upon him.
 
-‘I have learnt it!’ cried the old man.  ‘O, have mercy on me in this
-hour, if, in my love for her, so young and good, I slandered Nature in
+‘I have learnt it!’ cried the old man.  ‘O, have [[Mercy|mercy]] on me in this
+hour, if, in my [[Love|love]] for her, so young and good, I slandered [[Nature]] in
 the breasts of mothers rendered desperate!  Pity my presumption,
 wickedness, and ignorance, and save her.’  He felt his hold relaxing.
 They were silent still.
 
-‘Have mercy on her!’ he exclaimed, ‘as one in whom this dreadful crime
-has sprung from Love perverted; from the strongest, deepest Love we
+‘Have [[Mercy|mercy]] on her!’ he exclaimed, ‘as one in whom this dreadful crime
+has sprung from [[Love]] perverted; from the strongest, deepest [[Love]] we
 fallen creatures know!  Think what her misery must have been, when such
 seed bears such fruit!  Heaven meant her to be good.  There is no loving
 mother on the earth who might not come to this, if such a life had gone
-before.  O, have mercy on my child, who, even at this pass, means mercy
-to her own, and dies herself, and perils her immortal soul, to save it!’
+before.  O, have [[Mercy|mercy]] on my [[Child|child]], who, even at this pass, means [[Mercy|mercy]]
+to her own, and dies herself, and perils her immortal [[Soul|soul]], to save it!’
 
 She was in his arms.  He held her now.  His strength was like a giant’s.
 
 ‘I see the Spirit of the Chimes among you!’ cried the old man, singling
-out the child, and speaking in some inspiration, which their looks
+out the [[Child|child]], and speaking in some inspiration, which their looks
 conveyed to him.  ‘I know that our inheritance is held in store for us by
-Time.  I know there is a sea of Time to rise one day, before which all
-who wrong us or oppress us will be swept away like leaves.  I see it, on
-the flow!  I know that we must trust and hope, and neither doubt
-ourselves, nor doubt the good in one another.  I have learnt it from the
+[[Time]].  I know there is a sea of [[Time]] to rise one day, before which all
+who wrong us or oppress us will be swept away like [[Leaves|leaves]].  I see it, on
+the flow!  I know that we must trust and [[Hope|hope]], and neither [[Doubt|doubt]]
+ourselves, nor [[Doubt|doubt]] the good in one another.  I have learnt it from the
 creature dearest to my heart.  I clasp her in my arms again.  O Spirits,
 merciful and good, I take your lesson to my breast along with her!  O
 Spirits, merciful and good, I am grateful!’

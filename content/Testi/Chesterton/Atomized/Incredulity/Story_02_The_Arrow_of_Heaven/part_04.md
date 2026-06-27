@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Arrow of Heaven (part 4)"
+title: "[[Incredulity]] — The Arrow of Heaven (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -36,7 +36,7 @@ and leapt up with a catch in his voice.
 
 `There was no shot,' he cried.
 
-`Well,' said Father Brown, `it depends what you mean by a shot.'
+`[[Well]],' said [[Father Brown]], `it depends what you mean by a shot.'
 
 Wilton rushed forward, and they plunged into the inner room together.
 It was a comparatively small room and simply though elegantly furnished.
@@ -57,7 +57,7 @@ spike of grizzled beard thrust up towards the ceiling,
 and out of his throat stood a long, brown--painted arrow
 with red leathers at the other end.
 
-`A silent shot,' said Father Brown, in a low voice; `I was just
+`A silent shot,' said [[Father Brown]], in a low voice; `I was just
 wondering about those new inventions for silencing firearms.
 But this is a very old invention, and quite as silent.'
 
@@ -76,15 +76,15 @@ him through the world till I find him.'
 `None of them will try to climb it, unless one of them ...
 is in a great hurry.'
 
-Father Brown went to the window by which the arrow had evidently
-entered and looked out.  The garden, with its flat flower--
+[[Father Brown]] went to the [[Window|window]] by which the arrow had evidently
+entered and looked out.  The [[Garden|garden]], with its flat flower--
 beds, lay far below like a delicately coloured map of the world.
 The whole vista seemed so vast and empty, the tower seemed set
 so far up in the sky that as he stared out a strange phrase came
-back to his memory.
+back to his [[Memory|memory]].
 
 `A bolt from the blue,' he said.  `What was that somebody said
-about a bolt from the blue and death coming out of the sky?
+about a bolt from the blue and [[Death|death]] coming out of the sky?
 Look how far away everything looks; it seems extraordinary that
 an arrow could come so far, unless it were an arrow from heaven.'
 
@@ -104,13 +104,13 @@ the story the old man told.  I said it had a moral.'
 `Red Indian might shoot a thing farther than you'd fancy.
 It's nonsense your suggesting a parallel.'
 
-`I don't think you've got the moral quite right,' said Father Brown.
+`I don't think you've got the moral quite right,' said [[Father Brown]].
 
 Although the little priest appeared to melt into the millions
-of New York next day, without any apparent attempt to be
+of [[New York]] next day, without any apparent attempt to be
 anything but a number in a numbered street, he was, in fact,
 unobtrusively busy for the next fortnight with the commission
-that had been given him, for he was filled with profound fear about
+that had been given him, for he was filled with profound [[Fear|fear]] about
 a possible miscarriage of justice.  Without having any particular
 air of singling them out from his other new acquaintances,
 he found it easy to fall into talk with the two or three men
@@ -132,16 +132,16 @@ But if by any chance there were one of the old Indian marksmen,
 with one of the old Indian bows, hiding in those trees hundreds
 of yards beyond the Merton outer wall--why, then I wouldn't
 put it past the noble savage to be able to send an arrow
-over the wall and into the top window of Merton's house;
+over the wall and into the top [[Window|window]] of Merton's [[house]];
 no, nor into Merton, either.  I've seen things quite as wonderful
 as that done in the old days.'
 
 `No doubt,' said the priest, `you have done things quite as wonderful,
-as well as seen them.'
+as [[Well|well]] as seen them.'
 
 Old Crake chuckled, and then said gruffly:  `Oh, that's
 all ancient history.'
 
-`Some people have a way of studying ancient history,' the priest said.
+`Some people have a way of studying ancient [[history]],' the priest said.
 'I suppose we may take it there is nothing in your old record In make
 people talk unpleasantly about this affair.'

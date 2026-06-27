@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Ghost of Gideon Wise (part 7)"
+title: "[[Incredulity]] — The [[Ghost]] of Gideon Wise (part 7)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -51,7 +51,7 @@ for that and against that, as they do for and against Bolshevism.
 It has its ultimatums and its invasions and its executions.
 These trust magnates have their courts like kings; they have their
 bodyguard and bravos; they have their spies in the enemy camp.
-Home was one of old Gideon's spies in one of the enemy camps;
+[[Home]] was one of old Gideon's spies in one of the enemy camps;
 but he was used here against another enemy:  the rivals who were
 ruining him for standing out.'
 
@@ -73,9 +73,9 @@ of alibi, of course; improbable and therefore impenetrable.
 Most people would say a man who confesses a murder must
 be sincere; a man who forgives his murderer must be sincere.
 Nobody would think of the notion that the thing never happened,
-so that one man had nothing to forgive and the other nothing to fear.
-They were fixed here for that night by a story against themselves.
-But they were not here that night; for Home was murdering old Gallup
+so that one man had nothing to forgive and the other nothing to [[Fear|fear]].
+They were fixed here for that [[Night|night]] by a story against themselves.
+But they were not here that [[Night|night]]; for [[Home]] was murdering old Gallup
 in the Wood, while Wise was strangling that little Jew in his Roman bath.
 That's why I ask whether Wise was really strong enough for
 the climbing adventure.'
@@ -84,7 +84,7 @@ the climbing adventure.'
 `It fitted into the landscape, and was really very convincing.'
 
 `Too convincing to convince,' said Father Brown, shaking his head.
-`How very vivid was that moonlit foam flung up and turning to a ghost.
-And how very literary!  Home is a sneak and a skunk, but do
-not forget that, like many other sneaks and skunks in history,
+`How very vivid was that moonlit foam flung up and turning to a [[Ghost|ghost]].
+And how very literary!  [[Home]] is a sneak and a skunk, but do
+not forget that, like many other sneaks and skunks in [[history]],
 he is also a poet.'

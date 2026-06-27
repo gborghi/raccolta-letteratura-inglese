@@ -1,5 +1,5 @@
 ---
-title: "Jane Eyre — Chapter 8 (part 2)"
+title: "[[Jane Eyre]] — Chapter 8 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Jane-Eyre-(Bronte)"
@@ -19,7 +19,7 @@ tags:
 “Because I have been wrongly accused; and you, ma’am, and everybody
 else, will now think me wicked.”
 
-“We shall think you what you prove yourself to be, my child. Continue
+“We shall think you what you prove yourself to be, my [[Child|child]]. Continue
 to act as a good girl, and you will satisfy us.”
 
 “Shall I, Miss Temple?”
@@ -36,18 +36,18 @@ care.”
 often heard the servants say, got her to promise before he died that
 she would always keep me.”
 
-“Well now, Jane, you know, or at least I will tell you, that when a
+“[[Well]] now, Jane, you know, or at least I will tell you, that when a
 criminal is accused, he is always allowed to speak in his own defence.
-You have been charged with falsehood; defend yourself to me as well as
-you can. Say whatever your memory suggests is true; but add nothing and
+You have been charged with falsehood; defend yourself to me as [[Well|well]] as
+you can. Say whatever your [[Memory|memory]] suggests is true; but add nothing and
 exaggerate nothing.”
 
 I resolved, in the depth of my heart, that I would be most
 moderate—most correct; and, having reflected a few minutes in order to
 arrange coherently what I had to say, I told her all the story of my
-sad childhood. Exhausted by emotion, my language was more subdued than
+sad [[Childhood|childhood]]. Exhausted by emotion, my language was more subdued than
 it generally was when it developed that sad theme; and mindful of
-Helen’s warnings against the indulgence of resentment, I infused into
+[[Helen]]’s warnings against the indulgence of resentment, I infused into
 the narrative far less of gall and wormwood than ordinary. Thus
 restrained and simplified, it sounded more credible: I felt as I went
 on that Miss Temple fully believed me.
@@ -57,27 +57,27 @@ see me after the fit: for I never forgot the, to me, frightful episode
 of the red-room: in detailing which, my excitement was sure, in some
 degree, to break bounds; for nothing could soften in my recollection
 the spasm of agony which clutched my heart when Mrs. Reed spurned my
-wild supplication for pardon, and locked me a second time in the dark
+wild supplication for pardon, and locked me a second [[Time|time]] in the dark
 and haunted chamber.
 
-I had finished: Miss Temple regarded me a few minutes in silence; she
+I had finished: Miss Temple regarded me a few minutes in [[Silence|silence]]; she
 then said—
 
 “I know something of Mr. Lloyd; I shall write to him; if his reply
 agrees with your statement, you shall be publicly cleared from every
 imputation; to me, Jane, you are clear now.”
 
-She kissed me, and still keeping me at her side (where I was well
-contented to stand, for I derived a child’s pleasure from the
+She kissed me, and still keeping me at her side (where I was [[Well|well]]
+contented to stand, for I derived a [[Child|child]]’s pleasure from the
 contemplation of her face, her dress, her one or two ornaments, her
 white forehead, her clustered and shining curls, and beaming dark
-eyes), she proceeded to address Helen Burns.
+eyes), she proceeded to address [[Helen Burns]].
 
-“How are you to-night, Helen? Have you coughed much to-day?”
+“How are you to-[[Night|night]], [[Helen]]? Have you coughed much to-day?”
 
 “Not quite so much, I think, ma’am.”
 
-“And the pain in your chest?”
+“And the [[Pain|pain]] in your chest?”
 
 “It is a little better.”
 
@@ -85,14 +85,14 @@ Miss Temple got up, took her hand and examined her pulse; then she
 returned to her own seat: as she resumed it, I heard her sigh low. She
 was pensive a few minutes, then rousing herself, she said cheerfully—
 
-“But you two are my visitors to-night; I must treat you as such.” She
+“But you two are my visitors to-[[Night|night]]; I must treat you as such.” She
 rang her bell.
 
 “Barbara,” she said to the servant who answered it, “I have not yet had
 tea; bring the tray and place cups for these two young ladies.”
 
 And a tray was soon brought. How pretty, to my eyes, did the china cups
-and bright teapot look, placed on the little round table near the fire!
+and bright teapot look, placed on the little round table near the [[Fire|fire]]!
 How fragrant was the steam of the beverage, and the scent of the toast!
 of which, however, I, to my dismay (for I was beginning to be hungry)
 discerned only a very small portion: Miss Temple discerned it too.
@@ -107,11 +107,11 @@ Barbara went out: she returned soon—
 Mrs. Harden, be it observed, was the housekeeper: a woman after Mr.
 Brocklehurst’s own heart, made up of equal parts of whalebone and iron.
 
-“Oh, very well!” returned Miss Temple; “we must make it do, Barbara, I
+“Oh, very [[Well|well]]!” returned Miss Temple; “we must make it do, Barbara, I
 suppose.” And as the girl withdrew she added, smiling, “Fortunately, I
 have it in my power to supply deficiencies for this once.”
 
-Having invited Helen and me to approach the table, and placed before
+Having invited [[Helen]] and me to approach the table, and placed before
 each of us a cup of tea with one delicious but thin morsel of toast,
 she got up, unlocked a drawer, and taking from it a parcel wrapped in
 paper, disclosed presently to our eyes a good-sized seed-cake.
@@ -125,29 +125,29 @@ delight of the entertainment was the smile of gratification with which
 our hostess regarded us, as we satisfied our famished appetites on the
 delicate fare she liberally supplied.
 
-Tea over and the tray removed, she again summoned us to the fire; we
+Tea over and the tray removed, she again summoned us to the [[Fire|fire]]; we
 sat one on each side of her, and now a conversation followed between
-her and Helen, which it was indeed a privilege to be admitted to hear.
+her and [[Helen]], which it was indeed a privilege to be admitted to hear.
 
 Miss Temple had always something of serenity in her air, of state in
 her mien, of refined propriety in her language, which precluded
 deviation into the ardent, the excited, the eager: something which
 chastened the pleasure of those who looked on her and listened to her,
 by a controlling sense of awe; and such was my feeling now: but as to
-Helen Burns, I was struck with wonder.
+[[Helen Burns]], I was struck with [[Wonder|wonder]].
 
-The refreshing meal, the brilliant fire, the presence and kindness of
+The refreshing meal, the brilliant [[Fire|fire]], the presence and kindness of
 her beloved instructress, or, perhaps, more than all these, something
 in her own unique mind, had roused her powers within her. They woke,
 they kindled: first, they glowed in the bright tint of her cheek, which
 till this hour I had never seen but pale and bloodless; then they shone
-in the liquid lustre of her eyes, which had suddenly acquired a beauty
-more singular than that of Miss Temple’s—a beauty neither of fine
+in the liquid lustre of her eyes, which had suddenly acquired a [[Beauty|beauty]]
+more singular than that of Miss Temple’s—a [[Beauty|beauty]] neither of fine
 colour nor long eyelash, nor pencilled brow, but of meaning, of
-movement, of radiance. Then her soul sat on her lips, and language
+movement, of radiance. Then her [[Soul|soul]] sat on her lips, and language
 flowed, from what source I cannot tell. Has a girl of fourteen a heart
-large enough, vigorous enough, to hold the swelling spring of pure,
-full, fervid eloquence? Such was the characteristic of Helen’s
+large enough, vigorous enough, to hold the swelling [[Spring|spring]] of pure,
+full, fervid eloquence? Such was the characteristic of [[Helen]]’s
 discourse on that, to me, memorable evening; her spirit seemed
 hastening to live within a very brief span as much as many live during
 a protracted existence.

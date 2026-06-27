@@ -14,13 +14,13 @@ tags:
 </nav>
 
 
-His cry was so like a cry of actual pain, that it rang in Charles
+His cry was so like a cry of actual [[Pain|pain]], that it rang in Charles
 Darnay’s ears long after he had ceased. He motioned with the hand he had
 extended, and it seemed to be an appeal to Darnay to pause. The latter
 so received it, and remained silent.
 
 “I ask your pardon,” said the Doctor, in a subdued tone, after some
-moments. “I do not doubt your loving Lucie; you may be satisfied of it.”
+moments. “I do not [[Doubt|doubt]] your loving Lucie; you may be satisfied of it.”
 
 He turned towards him in his chair, but did not look at him, or
 raise his eyes. His chin dropped upon his hand, and his white hair
@@ -34,7 +34,7 @@ overshadowed his face:
 
 “Never.”
 
-“It would be ungenerous to affect not to know that your self-denial is
+“It would be ungenerous to affect not to know that your [[Self|self]]-denial is
 to be referred to your consideration for her father. Her father thanks
 you.”
 
@@ -45,13 +45,13 @@ Manette, I who have seen you together from day to day, that between
 you and Miss Manette there is an affection so unusual, so touching, so
 belonging to the circumstances in which it has been nurtured, that it
 can have few parallels, even in the tenderness between a father and
-child. I know, Doctor Manette--how can I fail to know--that, mingled
+[[Child|child]]. I know, [[Doctor Manette]]--how can I fail to know--that, mingled
 with the affection and duty of a daughter who has become a woman, there
-is, in her heart, towards you, all the love and reliance of infancy
-itself. I know that, as in her childhood she had no parent, so she is
+is, in her heart, towards you, all the [[Love|love]] and reliance of infancy
+itself. I know that, as in her [[Childhood|childhood]] she had no parent, so she is
 now devoted to you with all the constancy and fervour of her present
 years and character, united to the trustfulness and attachment of the
-early days in which you were lost to her. I know perfectly well that if
+early days in which you were lost to her. I know perfectly [[Well|well]] that if
 you had been restored to her from the world beyond this life, you could
 hardly be invested, in her sight, with a more sacred character than that
 in which you are always with her. I know that when she is clinging to
@@ -59,24 +59,24 @@ you, the hands of baby, girl, and woman, all in one, are round your
 neck. I know that in loving you she sees and loves her mother at her
 own age, sees and loves you at my age, loves her mother broken-hearted,
 loves you through your dreadful trial and in your blessed restoration. I
-have known this, night and day, since I have known you in your home.”
+have known this, [[Night|night]] and day, since I have known you in your [[Home|home]].”
 
 Her father sat silent, with his face bent down. His breathing was a
 little quickened; but he repressed all other signs of agitation.
 
-“Dear Doctor Manette, always knowing this, always seeing her and you
+“Dear [[Doctor Manette]], always knowing this, always seeing her and you
 with this hallowed light about you, I have forborne, and forborne, as
-long as it was in the nature of man to do it. I have felt, and do even
-now feel, that to bring my love--even mine--between you, is to touch
-your history with something not quite so good as itself. But I love her.
-Heaven is my witness that I love her!”
+long as it was in the [[Nature|nature]] of man to do it. I have felt, and do even
+now feel, that to bring my [[Love|love]]--even mine--between you, is to touch
+your [[history]] with something not quite so good as itself. But I [[Love|love]] her.
+Heaven is my witness that I [[Love|love]] her!”
 
 “I believe it,” answered her father, mournfully. “I have thought so
 before now. I believe it.”
 
 “But, do not believe,” said Darnay, upon whose ear the mournful voice
 struck with a reproachful sound, “that if my fortune were so cast as
-that, being one day so happy as to make her my wife, I must at any time
+that, being one day so happy as to make her my wife, I must at any [[Time|time]]
 put any separation between her and you, I could or would breathe a
 word of what I now say. Besides that I should know it to be hopeless, I
 should know it to be a baseness. If I had any such possibility, even at
@@ -86,21 +86,21 @@ now touch this honoured hand.”
 
 He laid his own upon it as he spoke.
 
-“No, dear Doctor Manette. Like you, a voluntary exile from France; like
+“No, dear [[Doctor Manette]]. Like you, a voluntary [[Exile|exile]] from France; like
 you, driven from it by its distractions, oppressions, and miseries; like
 you, striving to live away from it by my own exertions, and trusting
 in a happier future; I look only to sharing your fortunes, sharing your
-life and home, and being faithful to you to the death. Not to divide
-with Lucie her privilege as your child, companion, and friend; but to
+life and [[Home|home]], and being faithful to you to the [[Death|death]]. Not to divide
+with Lucie her privilege as your [[Child|child]], companion, and friend; but to
 come in aid of it, and bind her closer to you, if such a thing can be.”
 
 His touch still lingered on her father’s hand. Answering the touch for a
 moment, but not coldly, her father rested his hands upon the arms of
-his chair, and looked up for the first time since the beginning of the
+his chair, and looked up for the first [[Time|time]] since the beginning of the
 conference. A struggle was evidently in his face; a struggle with that
-occasional look which had a tendency in it to dark doubt and dread.
+occasional look which had a tendency in it to dark [[Doubt|doubt]] and dread.
 
-“You speak so feelingly and so manfully, Charles Darnay, that I thank
+“You speak so feelingly and so manfully, [[Charles Darnay]], that I thank
 you with all my heart, and will open all my heart--or nearly so. Have
 you any reason to believe that Lucie loves you?”
 
@@ -123,20 +123,20 @@ in your power, if you should deem it right, to give me some.”
 
 “What is it?”
 
-“I well understand that, without you, I could have no hope. I well
+“I [[Well|well]] understand that, without you, I could have no [[Hope|hope]]. I [[Well|well]]
 understand that, even if Miss Manette held me at this moment in her
-innocent heart--do not think I have the presumption to assume so much--I
-could retain no place in it against her love for her father.”
+[[Innocent|innocent]] heart--do not think I have the presumption to assume so much--I
+could retain no place in it against her [[Love|love]] for her father.”
 
 “If that be so, do you see what, on the other hand, is involved in it?”
 
-“I understand equally well, that a word from her father in any suitor’s
+“I understand equally [[Well|well]], that a word from her father in any suitor’s
 favour, would outweigh herself and all the world. For which reason,
-Doctor Manette,” said Darnay, modestly but firmly, “I would not ask that
+[[Doctor Manette]],” said Darnay, modestly but firmly, “I would not ask that
 word, to save my life.”
 
-“I am sure of it. Charles Darnay, mysteries arise out of close love, as
-well as out of wide division; in the former case, they are subtle and
+“I am sure of it. [[Charles Darnay]], mysteries arise out of close [[Love|love]], as
+[[Well|well]] as out of wide division; in the former case, they are subtle and
 delicate, and difficult to penetrate. My daughter Lucie is, in this one
 respect, such a mystery to me; I can make no guess at the state of her
 heart.”

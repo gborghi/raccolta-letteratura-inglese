@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 34 (part 2)"
+title: "[[Great Expectations]] — Chapter 34 (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -17,18 +17,18 @@ tags:
 If we had been less attached to one another, I think we must have hated
 one another regularly every morning. I detested the chambers beyond
 expression at that period of repentance, and could not endure the sight
-of the Avenger’s livery; which had a more expensive and a less
-remunerative appearance then than at any other time in the
+of the [[Avenger]]’s livery; which had a more expensive and a less
+remunerative appearance then than at any other [[Time|time]] in the
 four-and-twenty hours. As we got more and more into debt, breakfast
 became a hollower and hollower form, and, being on one occasion at
-breakfast-time threatened (by letter) with legal proceedings, “not
+breakfast-[[Time|time]] threatened (by letter) with legal proceedings, “not
 unwholly unconnected,” as my local paper might put it, “with jewelery,”
-I went so far as to seize the Avenger by his blue collar and shake him
+I went so far as to seize the [[Avenger]] by his blue collar and shake him
 off his feet,—so that he was actually in the air, like a booted
 Cupid,—for presuming to suppose that we wanted a roll.
 
 At certain times—meaning at uncertain times, for they depended on our
-humour—I would say to Herbert, as if it were a remarkable discovery,—
+[[Humour|humour]]—I would say to Herbert, as if it were a remarkable discovery,—
 
 “My dear Herbert, we are getting on badly.”
 
@@ -45,7 +45,7 @@ I know Herbert thought so too.
 
 We ordered something rather special for dinner, with a bottle of
 something similarly out of the common way, in order that our minds
-might be fortified for the occasion, and we might come well up to the
+might be fortified for the occasion, and we might come [[Well|well]] up to the
 mark. Dinner over, we produced a bundle of pens, a copious supply of
 ink, and a goodly show of writing and blotting paper. For there was
 something very comfortable in having plenty of stationery.
@@ -79,7 +79,7 @@ them out of countenance.”
 “So I would, Handel, only they are staring _me_ out of countenance.”
 
 However, my determined manner would have its effect, and Herbert would
-fall to work again. After a time he would give up once more, on the
+fall to work again. After a [[Time|time]] he would give up once more, on the
 plea that he had not got Cobbs’s bill, or Lobbs’s, or Nobbs’s, as the
 case might be.
 
@@ -93,7 +93,7 @@ I thought so too. I established with myself, on these occasions, the
 reputation of a first-rate man of business,—prompt, decisive,
 energetic, clear, cool-headed. When I had got all my responsibilities
 down upon my list, I compared each with the bill, and ticked it off. My
-self-approval when I ticked an entry was quite a luxurious sensation.
+[[Self|self]]-approval when I ticked an entry was quite a luxurious sensation.
 When I had no more ticks to make, I folded all my bills up uniformly,
 docketed each on the back, and tied the whole into a symmetrical
 bundle. Then I did the same for Herbert (who modestly said he had not
@@ -109,11 +109,11 @@ hundred. I had the highest opinion of the wisdom of this same Margin,
 but I am bound to acknowledge that on looking back, I deem it to have
 been an expensive device. For, we always ran into new debt immediately,
 to the full extent of the margin, and sometimes, in the sense of
-freedom and solvency it imparted, got pretty far on into another
+[[Freedom|freedom]] and solvency it imparted, got pretty far on into another
 margin.
 
 But there was a calm, a rest, a virtuous hush, consequent on these
-examinations of our affairs that gave me, for the time, an admirable
+examinations of our affairs that gave me, for the [[Time|time]], an admirable
 opinion of myself. Soothed by my exertions, my method, and Herbert’s
 compliments, I would sit with his symmetrical bundle and my own on the
 table before me among the stationery, and feel like a Bank of some
@@ -123,11 +123,11 @@ We shut our outer door on these solemn occasions, in order that we
 might not be interrupted. I had fallen into my serene state one
 evening, when we heard a letter dropped through the slit in the said
 door, and fall on the ground. “It’s for you, Handel,” said Herbert,
-going out and coming back with it, “and I hope there is nothing the
+going out and coming back with it, “and I [[Hope|hope]] there is nothing the
 matter.” This was in allusion to its heavy black seal and border.
 
 The letter was signed Trabb & Co., and its contents were simply, that I
 was an honoured sir, and that they begged to inform me that Mrs. J.
 Gargery had departed this life on Monday last at twenty minutes past
 six in the evening, and that my attendance was requested at the
-interment on Monday next at three o’clock in the afternoon.
+interment on Monday next at three o’[[Clock|clock]] in the afternoon.

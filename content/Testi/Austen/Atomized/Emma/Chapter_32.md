@@ -1,5 +1,5 @@
 ---
-title: "Emma — Chapter 13"
+title: "[[Emma]] — Chapter 13"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Emma-(Austen)"
@@ -17,14 +17,14 @@ tags:
 CHAPTER XIII
 
 
-Emma continued to entertain no doubt of her being in love. Her ideas
+[[Emma]] continued to entertain no [[Doubt|doubt]] of her being in [[Love|love]]. Her ideas
 only varied as to the how much. At first, she thought it was a good
 deal; and afterwards, but little. She had great pleasure in hearing
-Frank Churchill talked of; and, for his sake, greater pleasure than
+[[Frank Churchill]] talked of; and, for his sake, greater pleasure than
 ever in seeing Mr. and Mrs. Weston; she was very often thinking of him,
 and quite impatient for a letter, that she might know how he was, how
 were his spirits, how was his aunt, and what was the chance of his
-coming to Randalls again this spring. But, on the other hand, she could
+coming to Randalls again this [[spring]]. But, on the other hand, she could
 not admit herself to be unhappy, nor, after the first morning, to be
 less disposed for employment than usual; she was still busy and
 cheerful; and, pleasing as he was, she could yet imagine him to have
@@ -33,10 +33,10 @@ drawing or working, forming a thousand amusing schemes for the progress
 and close of their attachment, fancying interesting dialogues, and
 inventing elegant letters; the conclusion of every imaginary
 declaration on his side was that she _refused_ _him_. Their affection
-was always to subside into friendship. Every thing tender and charming
+was always to subside into [[Friendship|friendship]]. Every thing tender and charming
 was to mark their parting; but still they were to part. When she became
 sensible of this, it struck her that she could not be very much in
-love; for in spite of her previous and fixed determination never to
+[[Love|love]]; for in spite of her previous and fixed determination never to
 quit her father, never to marry, a strong attachment certainly must
 produce more of a struggle than she could foresee in her own feelings.
 
@@ -44,14 +44,14 @@ produce more of a struggle than she could foresee in her own feelings.
 she.—“In not one of all my clever replies, my delicate negatives, is
 there any allusion to making a sacrifice. I do suspect that he is not
 really necessary to my happiness. So much the better. I certainly will
-not persuade myself to feel more than I do. I am quite enough in love.
+not persuade myself to feel more than I do. I am quite enough in [[Love|love]].
 I should be sorry to be more.”
 
 Upon the whole, she was equally contented with her view of his
 feelings.
 
-“_He_ is undoubtedly very much in love—every thing denotes it—very much
-in love indeed!—and when he comes again, if his affection continue, I
+“_He_ is undoubtedly very much in [[Love|love]]—every thing denotes it—very much
+in [[Love|love]] indeed!—and when he comes again, if his affection continue, I
 must be on my guard not to encourage it.—It would be most inexcusable
 to do otherwise, as my own mind is quite made up. Not that I imagine he
 can think I have been encouraging him hitherto. No, if he had believed
@@ -64,15 +64,15 @@ to be quite the sort of man—I do not altogether build upon his
 steadiness or constancy.—His feelings are warm, but I can imagine them
 rather changeable.—Every consideration of the subject, in short, makes
 me thankful that my happiness is not more deeply involved.—I shall do
-very well again after a little while—and then, it will be a good thing
-over; for they say every body is in love once in their lives, and I
+very [[Well|well]] again after a little while—and then, it will be a good thing
+over; for they say every [[Body|body]] is in [[Love|love]] once in their lives, and I
 shall have been let off easily.”
 
-When his letter to Mrs. Weston arrived, Emma had the perusal of it; and
+When his letter to Mrs. Weston arrived, [[Emma]] had the perusal of it; and
 she read it with a degree of pleasure and admiration which made her at
 first shake her head over her own sensations, and think she had
-undervalued their strength. It was a long, well-written letter, giving
-the particulars of his journey and of his feelings, expressing all the
+undervalued their strength. It was a long, [[Well|well]]-written letter, giving
+the particulars of his [[Journey|journey]] and of his feelings, expressing all the
 affection, gratitude, and respect which was natural and honourable, and
 describing every thing exterior and local that could be supposed
 attractive, with spirit and precision. No suspicious flourishes now of
@@ -84,17 +84,17 @@ more might have been said but for the restraints of propriety.—The
 charm of her own name was not wanting. _Miss_ _Woodhouse_ appeared more
 than once, and never without a something of pleasing connexion, either
 a compliment to her taste, or a remembrance of what she had said; and
-in the very last time of its meeting her eye, unadorned as it was by
+in the very last [[Time|time]] of its meeting her eye, unadorned as it was by
 any such broad wreath of gallantry, she yet could discern the effect of
 her influence and acknowledge the greatest compliment perhaps of all
 conveyed. Compressed into the very lowest vacant corner were these
 words—“I had not a spare moment on Tuesday, as you know, for Miss
 Woodhouse’s beautiful little friend. Pray make my excuses and adieus to
-her.” This, Emma could not doubt, was all for herself. Harriet was
+her.” This, [[Emma]] could not [[Doubt|doubt]], was all for herself. Harriet was
 remembered only from being _her_ friend. His information and prospects
 as to Enscombe were neither worse nor better than had been anticipated;
 Mrs. Churchill was recovering, and he dared not yet, even in his own
-imagination, fix a time for coming to Randalls again.
+[[Imagination|imagination]], fix a [[Time|time]] for coming to Randalls again.
 
 Gratifying, however, and stimulative as was the letter in the material
 part, its sentiments, she yet found, when it was folded up and returned
@@ -115,20 +115,20 @@ Harriet, it would be advantageous and delightful indeed.
 the danger of indulging such speculations. But stranger things have
 happened; and when we cease to care for each other as we do now, it
 will be the means of confirming us in that sort of true disinterested
-friendship which I can already look forward to with pleasure.”
+[[Friendship|friendship]] which I can already look forward to with pleasure.”
 
-It was well to have a comfort in store on Harriet’s behalf, though it
+It was [[Well|well]] to have a comfort in store on Harriet’s behalf, though it
 might be wise to let the fancy touch it seldom; for evil in that
-quarter was at hand. As Frank Churchill’s arrival had succeeded Mr.
+quarter was at hand. As [[Frank Churchill]]’s arrival had succeeded Mr.
 Elton’s engagement in the conversation of Highbury, as the latest
 interest had entirely borne down the first, so now upon Frank
 Churchill’s disappearance, Mr. Elton’s concerns were assuming the most
 irresistible form.—His wedding-day was named. He would soon be among
-them again; Mr. Elton and his bride. There was hardly time to talk over
+them again; Mr. Elton and his bride. There was hardly [[Time|time]] to talk over
 the first letter from Enscombe before “Mr. Elton and his bride” was in
-every body’s mouth, and Frank Churchill was forgotten. Emma grew sick
+every [[Body|body]]’s mouth, and [[Frank Churchill]] was forgotten. [[Emma]] grew sick
 at the sound. She had had three weeks of happy exemption from Mr.
-Elton; and Harriet’s mind, she had been willing to hope, had been
+Elton; and Harriet’s mind, she had been willing to [[Hope|hope]], had been
 lately gaining strength. With Mr. Weston’s ball in view at least, there
 had been a great deal of insensibility to other things; but it was now
 too evident that she had not attained such a state of composure as
@@ -136,8 +136,8 @@ could stand against the actual approach—new carriage, bell-ringing, and
 all.
 
 Poor Harriet was in a flutter of spirits which required all the
-reasonings and soothings and attentions of every kind that Emma could
-give. Emma felt that she could not do too much for her, that Harriet
+reasonings and soothings and attentions of every kind that [[Emma]] could
+give. [[Emma]] felt that she could not do too much for her, that Harriet
 had a right to all her ingenuity and all her patience; but it was heavy
 work to be for ever convincing without producing any effect, for ever
 agreed to, without being able to make their opinions the same. Harriet
@@ -145,7 +145,7 @@ listened submissively, and said “it was very true—it was just as Miss
 Woodhouse described—it was not worth while to think about them—and she
 would not think about them any longer” but no change of subject could
 avail, and the next half-hour saw her as anxious and restless about the
-Eltons as before. At last Emma attacked her on another ground.
+Eltons as before. At last [[Emma]] attacked her on another ground.
 
 “Your allowing yourself to be so occupied and so unhappy about Mr.
 Elton’s marrying, Harriet, is the strongest reproach you can make _me_.
@@ -156,18 +156,18 @@ painful reflection to me for ever. Do not imagine me in danger of
 forgetting it.”
 
 Harriet felt this too much to utter more than a few words of eager
-exclamation. Emma continued,
+exclamation. [[Emma]] continued,
 
 “I have not said, exert yourself Harriet for my sake; think less, talk
 less of Mr. Elton for my sake; because for your own sake rather, I
 would wish it to be done, for the sake of what is more important than
-my comfort, a habit of self-command in you, a consideration of what is
+my comfort, a habit of [[Self|self]]-command in you, a consideration of what is
 your duty, an attention to propriety, an endeavour to avoid the
 suspicions of others, to save your health and credit, and restore your
 tranquillity. These are the motives which I have been pressing on you.
 They are very important—and sorry I am that you cannot feel them
-sufficiently to act upon them. My being saved from pain is a very
-secondary consideration. I want you to save yourself from greater pain.
+sufficiently to act upon them. My being saved from [[Pain|pain]] is a very
+secondary consideration. I want you to save yourself from greater [[Pain|pain]].
 Perhaps I may sometimes have felt that Harriet would not forget what
 was due—or rather what would be kind by me.”
 
@@ -182,18 +182,18 @@ gratitude to you!—Nobody is equal to you!—I care for nobody as I do for
 you!—Oh! Miss Woodhouse, how ungrateful I have been!”
 
 Such expressions, assisted as they were by every thing that look and
-manner could do, made Emma feel that she had never loved Harriet so
-well, nor valued her affection so highly before.
+manner could do, made [[Emma]] feel that she had never loved Harriet so
+[[Well|well]], nor valued her affection so highly before.
 
 “There is no charm equal to tenderness of heart,” said she afterwards
 to herself. “There is nothing to be compared to it. Warmth and
 tenderness of heart, with an affectionate, open manner, will beat all
 the clearness of head in the world, for attraction, I am sure it will.
 It is tenderness of heart which makes my dear father so generally
-beloved—which gives Isabella all her popularity.—I have it not—but I
+beloved—which gives [[Isabella]] all her popularity.—I have it not—but I
 know how to prize and respect it.—Harriet is my superior in all the
 charm and all the felicity it gives. Dear Harriet!—I would not change
 you for the clearest-headed, longest-sighted, best-judging female
-breathing. Oh! the coldness of a Jane Fairfax!—Harriet is worth a
+breathing. Oh! the coldness of a [[Jane Fairfax]]!—Harriet is worth a
 hundred such—And for a wife—a sensible man’s wife—it is invaluable. I
-mention no names; but happy the man who changes Emma for Harriet!”
+mention no names; but happy the man who changes [[Emma]] for Harriet!”

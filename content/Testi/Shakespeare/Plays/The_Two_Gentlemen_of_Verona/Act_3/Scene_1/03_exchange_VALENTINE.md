@@ -1,5 +1,5 @@
 ---
-title: "The Two Gentlemen of Verona — Act III, Scene 1 — exchange (VALENTINE) [3]"
+title: "The Two Gentlemen of [[Verona]] — Act III, Scene 1 — exchange ([[Valentine|VALENTINE]]) [3]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/THE-TWO-GENTLEMEN-OF-VERONA-(Shakespeare)"
@@ -15,6 +15,6 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| VALENTINE | Ay, my good lord. |
+| [[Valentine|VALENTINE]] | Ay, my good lord. |
 | DUKE | Then let me see thy cloak, I’ll get me one of such another length. |
-| VALENTINE | Why, any cloak will serve the turn, my lord. |
+| [[Valentine|VALENTINE]] | Why, any cloak will serve the turn, my lord. |

@@ -1,5 +1,5 @@
 ---
-title: "WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 68)"
+title: "[[WhatISawInAmerica]] — NCOLN AND LOST CAUSES              222 (part 68)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/WhatISawInAmerica-(Chesterton)"
@@ -16,9 +16,9 @@ tags:
 
 many, like myself, must have put in this matter; the question of
 
-despotism and democracy. I cannot understand any democrat not seeing the
+despotism and [[democracy]]. I cannot understand any democrat not seeing the
 
-danger of so distant and indirect a system of government. It is hard
+danger of so distant and indirect a system of [[government]]. It is hard
 
 enough anywhere to get representatives to represent. It is hard enough
 
@@ -34,9 +34,9 @@ fellow-creatures from the North Pole or the New Jerusalem, is a vision
 
 of Oriental despotism beyond the towering fancies of Tamberlane. This
 
-difficulty in all representative government is felt everywhere, and not
+difficulty in all representative [[government]] is felt everywhere, and not
 
-least in America. But I think that if there is one truth apparent in
+least in [[america|America]]. But I think that if there is one [[Truth|truth]] apparent in
 
 such a choice of evils, it is that monarchy is at least better than
 
@@ -70,7 +70,7 @@ has a real popular institution in the Presidency. But Mr. Wells would
 
 appear to want the American Constitution without the Presidency. If I
 
-understand his words rightly, he seems to want the great democracy
+understand his words rightly, he seems to want the great [[democracy]]
 
 without its popular institution. Alluding to this danger, that the
 
@@ -120,7 +120,7 @@ command was not a fiction. So the universal peace would only be a
 
 reality if the World State were not a fiction. And it could not be even
 
-a state if it were not a government. This argument amounts to saying,
+a state if it were not a [[government]]. This argument amounts to saying,
 
 first that the World State will be needed because it is strong, and
 
@@ -128,15 +128,15 @@ then that it may safely be weak because it will not be needed.
 
 
 
-Internationalism is in any case hostile to democracy. I do not say it is
+Internationalism is in any case hostile to [[democracy]]. I do not say it is
 
 incompatible with it; but any combination of the two will be a
 
-compromise between the two. The only purely popular government is local,
+compromise between the two. The only purely popular [[government]] is local,
 
-and founded on local knowledge. The citizens can rule the city because
+and founded on local knowledge. The citizens can rule the [[City|city]] because
 
-they know the city; but it will always be an exceptional sort of citizen
+they know the [[City|city]]; but it will always be an exceptional sort of citizen
 
 who has or claims the right to rule over ten cities, and these remote
 
@@ -160,13 +160,13 @@ select minority who have come back.
 
 
 
-Given this difficulty about quite direct democracy over large areas, I
+Given this difficulty about quite direct [[democracy]] over large areas, I
 
-think the nearest thing to democracy is despotism. At any rate I think
+think the nearest thing to [[democracy]] is despotism. At any rate I think
 
 it is some sort of more or less independent monarchy, such as Andrew
 
-Jackson created in America. And I believe it is true to say that the two
+Jackson created in [[america|America]]. And I believe it is true to say that the two
 
 men whom the modern world really and almost reluctantly regards with
 
@@ -180,11 +180,11 @@ But to admire the United States as the United States is one thing. To
 
 admire them as the World State is quite another. The attempt of Mr.
 
-Wells to make America a sort of model for the federation of all the free
+Wells to make [[america|America]] a sort of model for the federation of all the free
 
 nations of the earth, though it is international in intention, is really
 
-as narrowly national, in the bad sense, as the desire of Mr. Kipling to
+as narrowly national, in the bad sense, as the [[Desire|desire]] of Mr. Kipling to
 
 cover the world with British Imperialism, or of Professor Treitschke to
 

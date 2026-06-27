@@ -21,10 +21,10 @@ telephone or the wireless set.  It may be plausibly maintained
 that the telephone is less of an instrument of torture than
 the thumbscrew or the rack; and in the same way that other ages
 had other vices that were worse than this new or modern vice.
-As we may find fanciful sketches of aeroplanes in the sketch-books
+As we may find fanciful sketches of aeroplanes in the [[Sketch|sketch]]-books
 of Leonardo da Vinci or speculations very near to modern physics
-in the philosophers of ancient Greece, so we may find here and
-there in history a hint or foreshadowing of the great and golden
+in the philosophers of [[Ancient Greece|ancient Greece]], so we may find here and
+there in [[history]] a hint or foreshadowing of the great and golden
 vision of Vulgarity that was later to burst on the world.
 We may find it in the smell of Punic plutocracy that stank in
 the nostrils of Greeks and Romans, or in a certain touch of bad
@@ -33,11 +33,11 @@ new that the new world has not yet really found a name for it,
 but has had to borrow a rather misleading name which is really
 the Latin word for something else.  So we have to go on using
 the Greek name of amber as the only name of electricity, because we
-have no notion what is the real name or nature of electricity.
+have no notion what is the real name or [[Nature|nature]] of electricity.
 And so we have to go on using the Latin word vulgus, which only means
 the common people, to describe something that is not particularly
 common among the common people.  Indeed, through long spaces
-of human history and over wide spaces of the habitable globe,
+of human [[history]] and over wide spaces of the habitable globe,
 it is very uncommon amongst the common people.  Farmers living
 by long agricultural traditions, peasants in normal villages,
 even savages in savage tribes, are hardly ever vulgar.
@@ -49,7 +49,7 @@ Even in the more complex modern cities and civilizations, the poor
 as such are not particularly vulgar.  No; there is a new thing
 which really needs a new name and still more a new definition.
 I do not say I can define Vulgarity; but having just been
-reading a modern book about Love, I feel inclined to throw
+reading a modern book about [[Love]], I feel inclined to throw
 out a few suggestions.
 
 In so far as I can get near to its essence, it consists largely
@@ -67,24 +67,24 @@ and illusion of applause.
 
 And the second element is Familiarity which, if understood,
 would be called Profanity.  Horace spoke of the `profane vulgar';
-and it is true that this familiarity is the loss of holy fear
+and it is true that this familiarity is the loss of holy [[Fear|fear]]
 and a sin against the mystical side of man.  In practice
 it means handling things confidently and contemptuously,
 without the sense that all things in their way are sacred things.
 Its most recent mode is the readiness to write torrents
 of tosh on either side of any serious subject; for you
 hardly ever get real vulgarity on a frivolous subject.
-The point is that the fool is so subjective that it never occurs
+The point is that the [[Fool|fool]] is so subjective that it never occurs
 to him to be afraid of the subject.  For instance, he can be a Pagan
-fool as well as a Puritan fool in the debate on modem morals;
+[[Fool|fool]] as [[Well|well]] as a Puritan [[Fool|fool]] in the [[debate]] on modem morals;
 but in the first case there will be torrents of tosh about
-Love and Passion and the Right to Live, and in the other,
+[[Love]] and Passion and the Right to Live, and in the other,
 exactly similar torrents of tosh about Christian Manhood and
 Healthy Boyhood and Noble Motherhood and the rest.  The trouble
 is that they are so infernally familiar with these things.
-Never do you find that note in a real lover writing of the woman
+Never do you find that note in a real [[Lover|lover]] writing of the woman
 he loves, or in a real saint writing of the sin he hates.
 Both say the right thing because they would rather say
 nothing at all.
 
-                                        New York American, July 22nd, 1933
+                                        [[New York]] American, July 22nd, 1933

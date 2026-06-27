@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 31: A GREATER LOSS"
+title: "[[David Copperfield]] — Chapter 31: A GREATER LOSS"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -19,25 +19,25 @@ CHAPTER 31. A GREATER LOSS
 
 It was not difficult for me, on Peggotty’s solicitation, to resolve to
 stay where I was, until after the remains of the poor carrier should
-have made their last journey to Blunderstone. She had long ago bought,
+have made their last [[Journey|journey]] to Blunderstone. She had long ago bought,
 out of her own savings, a little piece of ground in our old churchyard
-near the grave of ‘her sweet girl’, as she always called my mother; and
+near the [[Grave|grave]] of ‘her sweet girl’, as she always called my mother; and
 there they were to rest.
 
 In keeping Peggotty company, and doing all I could for her (little
 enough at the utmost), I was as grateful, I rejoice to think, as even
 now I could wish myself to have been. But I am afraid I had a supreme
-satisfaction, of a personal and professional nature, in taking charge of
+satisfaction, of a personal and professional [[Nature|nature]], in taking charge of
 Mr. Barkis’s will, and expounding its contents.
 
 I may claim the merit of having originated the suggestion that the will
 should be looked for in the box. After some search, it was found in the
-box, at the bottom of a horse’s nose-bag; wherein (besides hay) there
+box, at the [[Bottom|bottom]] of a [[Horse|horse]]’s nose-bag; wherein (besides hay) there
 was discovered an old gold watch, with chain and seals, which Mr. Barkis
 had worn on his wedding-day, and which had never been seen before or
-since; a silver tobacco-stopper, in the form of a leg; an imitation
+since; a silver tobacco-stopper, in the form of a leg; an [[Imitation|imitation]]
 lemon, full of minute cups and saucers, which I have some idea Mr.
-Barkis must have purchased to present to me when I was a child, and
+Barkis must have purchased to present to me when I was a [[Child|child]], and
 afterwards found himself unable to part with; eighty-seven guineas and
 a half, in guineas and half-guineas; two hundred and ten pounds, in
 perfectly clean Bank notes; certain receipts for Bank of England
@@ -50,7 +50,7 @@ never resolved themselves into anything definite.
 For years and years, Mr. Barkis had carried this box, on all his
 journeys, every day. That it might the better escape notice, he had
 invented a fiction that it belonged to ‘Mr. Blackboy’, and was ‘to be
-left with Barkis till called for’; a fable he had elaborately written on
+left with Barkis till called for’; a [[Fable|fable]] he had elaborately written on
 the lid, in characters now scarcely legible.
 
 He had hoarded, all these years, I found, to good purpose. His property
@@ -74,52 +74,52 @@ In this abstruse pursuit; in making an account for Peggotty, of all the
 property into which she had come; in arranging all the affairs in an
 orderly manner; and in being her referee and adviser on every point, to
 our joint delight; I passed the week before the funeral. I did not see
-little Emily in that interval, but they told me she was to be quietly
+[[Little Emily|little Emily]] in that interval, but they told me she was to be quietly
 married in a fortnight.
 
 I did not attend the funeral in character, if I may venture to say so.
 I mean I was not dressed up in a black coat and a streamer, to frighten
-the birds; but I walked over to Blunderstone early in the morning, and
+the [[Birds|birds]]; but I walked over to Blunderstone early in the morning, and
 was in the churchyard when it came, attended only by Peggotty and her
-brother. The mad gentleman looked on, out of my little window; Mr.
+brother. The mad gentleman looked on, out of my little [[Window|window]]; Mr.
 Chillip’s baby wagged its heavy head, and rolled its goggle eyes, at
-the clergyman, over its nurse’s shoulder; Mr. Omer breathed short in
+the clergyman, over its [[Nurse|nurse]]’s shoulder; Mr. Omer breathed short in
 the background; no one else was there; and it was very quiet. We walked
 about the churchyard for an hour, after all was over; and pulled some
-young leaves from the tree above my mother’s grave.
+young [[Leaves|leaves]] from the tree above my mother’s [[Grave|grave]].
 
 A dread falls on me here. A cloud is lowering on the distant town,
-towards which I retraced my solitary steps. I fear to approach it. I
-cannot bear to think of what did come, upon that memorable night; of
+towards which I retraced my solitary steps. I [[Fear|fear]] to approach it. I
+cannot bear to think of what did come, upon that memorable [[Night|night]]; of
 what must come again, if I go on.
 
 It is no worse, because I write of it. It would be no better, if I
 stopped my most unwilling hand. It is done. Nothing can undo it; nothing
 can make it otherwise than as it was.
 
-My old nurse was to go to London with me next day, on the business of
-the will. Little Emily was passing that day at Mr. Omer’s. We were all
-to meet in the old boathouse that night. Ham would bring Emily at the
+My old [[Nurse|nurse]] was to go to [[London]] with me next day, on the business of
+the will. [[Little Emily]] was passing that day at Mr. Omer’s. We were all
+to meet in the old boathouse that [[Night|night]]. Ham would bring Emily at the
 usual hour. I would walk back at my leisure. The brother and sister
 would return as they had come, and be expecting us, when the day closed
 in, at the fireside.
 
 I parted from them at the wicket-gate, where visionary Strap had rested
 with Roderick Random’s knapsack in the days of yore; and, instead of
-going straight back, walked a little distance on the road to Lowestoft.
+going straight back, walked a little distance on the [[Road|road]] to Lowestoft.
 Then I turned, and walked back towards Yarmouth. I stayed to dine at
 a decent alehouse, some mile or two from the Ferry I have mentioned
 before; and thus the day wore away, and it was evening when I reached
-it. Rain was falling heavily by that time, and it was a wild night; but
-there was a moon behind the clouds, and it was not dark.
+it. Rain was falling heavily by that [[Time|time]], and it was a wild [[Night|night]]; but
+there was a [[Moon|moon]] behind the clouds, and it was not dark.
 
-I was soon within sight of Mr. Peggotty’s house, and of the light within
-it shining through the window. A little floundering across the sand,
+I was soon within sight of Mr. Peggotty’s [[house]], and of the light within
+it shining through the [[Window|window]]. A little floundering across the sand,
 which was heavy, brought me to the door, and I went in.
 
 It looked very comfortable indeed. Mr. Peggotty had smoked his evening
-pipe and there were preparations for some supper by and by. The fire was
-bright, the ashes were thrown up, the locker was ready for little Emily
+pipe and there were preparations for some supper by and by. The [[Fire|fire]] was
+bright, the ashes were thrown up, the locker was ready for [[Little Emily|little Emily]]
 in her old place. In her own old place sat Peggotty, once more, looking
 (but for her dress) as if she had never left it. She had fallen back,
 already, on the society of the work-box with St. Paul’s upon the lid,
@@ -138,12 +138,12 @@ face. ‘Doen’t keep in that coat, sir, if it’s wet.’
 down, sir. It ain’t o’ no use saying welcome to you, but you’re welcome,
 kind and hearty.’
 
-‘Thank you, Mr. Peggotty, I am sure of that. Well, Peggotty!’ said I,
+‘Thank you, Mr. Peggotty, I am sure of that. [[Well]], Peggotty!’ said I,
 giving her a kiss. ‘And how are you, old woman?’
 
 ‘Ha, ha!’ laughed Mr. Peggotty, sitting down beside us, and rubbing his
 hands in his sense of relief from recent trouble, and in the genuine
-heartiness of his nature; ‘there’s not a woman in the wureld, sir--as I
+heartiness of his [[Nature|nature]]; ‘there’s not a woman in the wureld, sir--as I
 tell her--that need to feel more easy in her mind than her! She done her
 dooty by the departed, and the departed know’d it; and the departed
 done what was right by her, as she done what was right by the
@@ -153,8 +153,8 @@ Mrs. Gummidge groaned.
 
 ‘Cheer up, my pritty mawther!’ said Mr. Peggotty. (But he shook his head
 aside at us, evidently sensible of the tendency of the late occurrences
-to recall the memory of the old one.) ‘Doen’t be down! Cheer up, for
-your own self, on’y a little bit, and see if a good deal more doen’t
+to recall the [[Memory|memory]] of the old one.) ‘Doen’t be down! Cheer up, for
+your own [[Self|self]], on’y a little bit, and see if a good deal more doen’t
 come nat’ral!’
 
 ‘Not to me, Dan’l,’ returned Mrs. Gummidge. ‘Nothink’s nat’ral to me but
@@ -178,32 +178,32 @@ Mr. Peggotty seemed very much shocked at himself for having made a
 speech capable of this unfeeling construction, but was prevented from
 replying, by Peggotty’s pulling his sleeve, and shaking her head. After
 looking at Mrs. Gummidge for some moments, in sore distress of mind, he
-glanced at the Dutch clock, rose, snuffed the candle, and put it in the
-window.
+glanced at the Dutch [[Clock|clock]], [[Rose|rose]], snuffed the candle, and put it in the
+[[Window|window]].
 
 ‘Theer!’ said Mr. Peggotty, cheerily. ‘Theer we are, Missis Gummidge!’
 Mrs. Gummidge slightly groaned. ‘Lighted up, accordin’ to custom! You’re
-a wonderin’ what that’s fur, sir! Well, it’s fur our little Em’ly. You
+a wonderin’ what that’s fur, sir! [[Well]], it’s fur our little Em’ly. You
 see, the path ain’t over light or cheerful arter dark; and when I’m
-here at the hour as she’s a comin’ home, I puts the light in the winder.
+here at the hour as she’s a comin’ [[Home|home]], I puts the light in the winder.
 That, you see,’ said Mr. Peggotty, bending over me with great glee,
-‘meets two objects. She says, says Em’ly, “Theer’s home!” she says. And
+‘meets two objects. She says, says Em’ly, “Theer’s [[Home|home]]!” she says. And
 likewise, says Em’ly, “My uncle’s theer!” Fur if I ain’t theer, I never
 have no light showed.’
 
 ‘You’re a baby!’ said Peggotty; very fond of him for it, if she thought
 so.
 
-‘Well,’ returned Mr. Peggotty, standing with his legs pretty wide apart,
+‘[[Well]],’ returned Mr. Peggotty, standing with his legs pretty wide apart,
 and rubbing his hands up and down them in his comfortable satisfaction,
-as he looked alternately at us and at the fire. ‘I doen’t know but I am.
+as he looked alternately at us and at the [[Fire|fire]]. ‘I doen’t know but I am.
 Not, you see, to look at.’
 
 ‘Not azackly,’ observed Peggotty.
 
 ‘No,’ laughed Mr. Peggotty, ‘not to look at, but to--to consider on, you
 know. I doen’t care, bless you! Now I tell you. When I go a looking and
-looking about that theer pritty house of our Em’ly’s, I’m--I’m Gormed,’
+looking about that theer pritty [[house]] of our Em’ly’s, I’m--I’m Gormed,’
 said Mr. Peggotty, with sudden emphasis--‘theer! I can’t say more--if
 I doen’t feel as if the littlest things was her, a’most. I takes ‘em up
 and I put ‘em down, and I touches of ‘em as delicate as if they was our
@@ -221,11 +221,11 @@ and sharks, and every wariety of forinners--bless you, yes; and lions
 and whales, and I doen’t know what all!--when she warn’t no higher than
 my knee. I’ve got into the way on it, you know. Why, this here candle,
 now!’ said Mr. Peggotty, gleefully holding out his hand towards it,
-‘I know wery well that arter she’s married and gone, I shall put that
-candle theer, just the same as now. I know wery well that when I’m
+‘I know wery [[Well|well]] that arter she’s married and gone, I shall put that
+candle theer, just the same as now. I know wery [[Well|well]] that when I’m
 here o’ nights (and where else should I live, bless your arts, whatever
 fortun’ I come into!) and she ain’t here or I ain’t theer, I shall
-put the candle in the winder, and sit afore the fire, pretending I’m
+put the candle in the winder, and sit afore the [[Fire|fire]], pretending I’m
 expecting of her, like I’m a doing now. THERE’S a babby for you,’ said
 Mr. Peggotty, with another roar, ‘in the form of a Sea Porkypine! Why,
 at the present minute, when I see the candle sparkle up, I says to
@@ -234,14 +234,14 @@ for you, in the form of a Sea Porkypine! Right for all that,’ said Mr.
 Peggotty, stopping in his roar, and smiting his hands together; ‘fur
 here she is!’
 
-It was only Ham. The night should have turned more wet since I came in,
+It was only Ham. The [[Night|night]] should have turned more wet since I came in,
 for he had a large sou’wester hat on, slouched over his face.
 
 ‘Wheer’s Em’ly?’ said Mr. Peggotty.
 
 Ham made a motion with his head, as if she were outside. Mr. Peggotty
-took the light from the window, trimmed it, put it on the table, and was
-busily stirring the fire, when Ham, who had not moved, said:
+took the light from the [[Window|window]], trimmed it, put it on the table, and was
+busily stirring the [[Fire|fire]], when Ham, who had not moved, said:
 
 ‘Mas’r Davy, will you come out a minute, and see what Em’ly and me has
 got to show you?’
@@ -259,7 +259,7 @@ or what I dreaded. I could only look at him.
 
 ‘Ham! Poor good fellow! For Heaven’s sake, tell me what’s the matter!’
 
-‘My love, Mas’r Davy--the pride and hope of my art--her that I’d have
+‘My [[Love|love]], Mas’r Davy--the [[Pride|pride]] and [[Hope|hope]] of my art--her that I’d have
 died for, and would die for now--she’s gone!’
 
 ‘Gone!’
@@ -270,7 +270,7 @@ things) sooner than let her come to ruin and disgrace!’
 
 The face he turned up to the troubled sky, the quivering of his clasped
 hands, the agony of his figure, remain associated with the lonely waste,
-in my remembrance, to this hour. It is always night there, and he is the
+in my remembrance, to this hour. It is always [[Night|night]] there, and he is the
 only object in the scene.
 
 ‘You’re a scholar,’ he said, hurriedly, ‘and know what’s right and
@@ -278,56 +278,56 @@ best. What am I to say, indoors? How am I ever to break it to him, Mas’r
 Davy?’
 
 I saw the door move, and instinctively tried to hold the latch on the
-outside, to gain a moment’s time. It was too late. Mr. Peggotty thrust
+outside, to gain a moment’s [[Time|time]]. It was too late. Mr. Peggotty thrust
 forth his face; and never could I forget the change that came upon it
 when he saw us, if I were to live five hundred years.
 
 I remember a great wail and cry, and the women hanging about him, and we
 all standing in the room; I with a paper in my hand, which Ham had given
 me; Mr. Peggotty, with his vest torn open, his hair wild, his face and
-lips quite white, and blood trickling down his bosom (it had sprung from
+lips quite white, and [[Blood|blood]] trickling down his bosom (it had sprung from
 his mouth, I think), looking fixedly at me.
 
 ‘Read it, sir,’ he said, in a low shivering voice. ‘Slow, please. I
 doen’t know as I can understand.’
 
-In the midst of the silence of death, I read thus, from a blotted
+In the midst of the [[Silence|silence]] of [[Death|death]], I read thus, from a blotted
 letter:
 
 
-‘“When you, who love me so much better than I ever have deserved, even
-when my mind was innocent, see this, I shall be far away.”’
+‘“When you, who [[Love|love]] me so much better than I ever have deserved, even
+when my mind was [[Innocent|innocent]], see this, I shall be far away.”’
 
 
-‘I shall be fur away,’ he repeated slowly. ‘Stop! Em’ly fur away. Well!’
+‘I shall be fur away,’ he repeated slowly. ‘Stop! Em’ly fur away. [[Well]]!’
 
 
-‘“When I leave my dear home--my dear home--oh, my dear home!--in the
+‘“When I leave my dear [[Home|home]]--my dear [[Home|home]]--oh, my dear [[Home|home]]!--in the
 morning,”’
 
-the letter bore date on the previous night:
+the letter bore date on the previous [[Night|night]]:
 
 ‘“--it will be never to come back, unless he brings me back a lady. This
-will be found at night, many hours after, instead of me. Oh, if you knew
+will be found at [[Night|night]], many hours after, instead of me. Oh, if you knew
 how my heart is torn. If even you, that I have wronged so much, that
 never can forgive me, could only know what I suffer! I am too wicked to
 write about myself! Oh, take comfort in thinking that I am so bad. Oh,
-for mercy’s sake, tell uncle that I never loved him half so dear as
+for [[Mercy|mercy]]’s sake, tell uncle that I never loved him half so dear as
 now. Oh, don’t remember how affectionate and kind you have all been to
 me--don’t remember we were ever to be married--but try to think as if I
 died when I was little, and was buried somewhere. Pray Heaven that I
 am going away from, have compassion on my uncle! Tell him that I never
-loved him half so dear. Be his comfort. Love some good girl that will
+loved him half so dear. Be his comfort. [[Love]] some good girl that will
 be what I was once to uncle, and be true to you, and worthy of you, and
 know no shame but me. God bless all! I’ll pray for all, often, on my
 knees. If he don’t bring me back a lady, and I don’t pray for my own
-self, I’ll pray for all. My parting love to uncle. My last tears, and my
+[[Self|self]], I’ll pray for all. My parting [[Love|love]] to uncle. My last [[Tears|tears]], and my
 last thanks, for uncle!”’
 
 That was all.
 
 He stood, long after I had ceased to read, still looking at me. At
-length I ventured to take his hand, and to entreat him, as well as
+length I ventured to take his hand, and to entreat him, as [[Well|well]] as
 I could, to endeavour to get some command of himself. He replied, ‘I
 thankee, sir, I thankee!’ without moving.
 
@@ -353,45 +353,45 @@ reply; but my tongue was fettered, and my sight was weak.
 
 ‘I want to know his name!’ I heard said once more.
 
-‘For some time past,’ Ham faltered, ‘there’s been a servant about here,
+‘For some [[Time|time]] past,’ Ham faltered, ‘there’s been a servant about here,
 at odd times. There’s been a gen’lm’n too. Both of ‘em belonged to one
 another.’
 
 Mr. Peggotty stood fixed as before, but now looking at him.
 
 ‘The servant,’ pursued Ham, ‘was seen along with--our poor girl--last
-night. He’s been in hiding about here, this week or over. He was thought
+[[Night|night]]. He’s been in hiding about here, this week or over. He was thought
 to have gone, but he was hiding. Doen’t stay, Mas’r Davy, doen’t!’
 
 I felt Peggotty’s arm round my neck, but I could not have moved if the
-house had been about to fall upon me.
+[[house]] had been about to fall upon me.
 
 ‘A strange chay and hosses was outside town, this morning, on the
-Norwich road, a’most afore the day broke,’ Ham went on. ‘The servant
+Norwich [[Road|road]], a’most afore the day broke,’ Ham went on. ‘The servant
 went to it, and come from it, and went to it again. When he went to it
 again, Em’ly was nigh him. The t’other was inside. He’s the man.’
 
-‘For the Lord’s love,’ said Mr. Peggotty, falling back, and putting out
+‘For the Lord’s [[Love|love]],’ said Mr. Peggotty, falling back, and putting out
 his hand, as if to keep off what he dreaded. ‘Doen’t tell me his name’s
 Steerforth!’
 
 ‘Mas’r Davy,’ exclaimed Ham, in a broken voice, ‘it ain’t no fault
 of yourn--and I am far from laying of it to you--but his name is
-Steerforth, and he’s a damned villain!’
+Steerforth, and he’s a damned [[Villain|villain]]!’
 
 Mr. Peggotty uttered no cry, and shed no tear, and moved no more, until
 he seemed to wake again, all at once, and pulled down his rough coat
 from its peg in a corner.
 
 ‘Bear a hand with this! I’m struck of a heap, and can’t do it,’ he said,
-impatiently. ‘Bear a hand and help me. Well!’ when somebody had done so.
+impatiently. ‘Bear a hand and help me. [[Well]]!’ when somebody had done so.
 ‘Now give me that theer hat!’
 
 Ham asked him whither he was going.
 
 ‘I’m a going to seek my niece. I’m a going to seek my Em’ly. I’m a
 going, first, to stave in that theer boat, and sink it where I would
-have drownded him, as I’m a living soul, if I had had one thought of
+have drownded him, as I’m a living [[Soul|soul]], if I had had one thought of
 what was in him! As he sat afore me,’ he said, wildly, holding out his
 clenched right hand, ‘as he sat afore me, face to face, strike me down
 dead, but I’d have drownded him, and thought it right!--I’m a going to
@@ -406,9 +406,9 @@ I tell you I’m a going to seek my niece!’
 ‘No, no!’ cried Mrs. Gummidge, coming between them, in a fit of crying.
 ‘No, no, Dan’l, not as you are now. Seek her in a little while, my lone
 lorn Dan’l, and that’ll be but right! but not as you are now. Sit ye
-down, and give me your forgiveness for having ever been a worrit to you,
+down, and give me your [[Forgiveness|forgiveness]] for having ever been a worrit to you,
 Dan’l--what have my contraries ever been to this!--and let us speak a
-word about them times when she was first an orphan, and when Ham was
+word about them times when she was first an [[Orphan|orphan]], and when Ham was
 too, and when I was a poor widder woman, and you took me in. It’ll
 soften your poor heart, Dan’l,’ laying her head upon his shoulder, ‘and
 you’ll bear your sorrow better; for you know the promise, Dan’l, “As

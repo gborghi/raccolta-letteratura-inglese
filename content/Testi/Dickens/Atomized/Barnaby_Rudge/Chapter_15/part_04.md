@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 15 (part 4)"
+title: "[[Barnaby Rudge]] — Chapter 15 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -23,17 +23,17 @@ pursuit for which I destined you? As to our mode of life, every man
 has a right to live in the best way he can; and to make himself as
 comfortable as he can, or he is an unnatural scoundrel. Our debts, I
 grant, are very great, and therefore it the more behoves you, as a young
-man of principle and honour, to pay them off as speedily as possible.’
+man of principle and [[Honour|honour]], to pay them off as speedily as possible.’
 
-‘The villain’s part,’ muttered Edward, ‘that I have unconsciously
-played! I to win the heart of Emma Haredale! I would, for her sake, I
+‘The [[Villain|villain]]’s part,’ muttered Edward, ‘that I have unconsciously
+played! I to win the heart of [[Emma Haredale]]! I would, for her sake, I
 had died first!’
 
 ‘I am glad you see, Ned,’ returned his father, ‘how perfectly
-self-evident it is, that nothing can be done in that quarter. But apart
+[[Self|self]]-evident it is, that nothing can be done in that quarter. But apart
 from this, and the necessity of your speedily bestowing yourself on
 another (as you know you could to-morrow, if you chose), I wish you’d
-look upon it pleasantly. In a religious point of view alone, how
+look upon it pleasantly. In a religious point of view [[Alone|alone]], how
 could you ever think of uniting yourself to a Catholic, unless she was
 amazingly rich? You ought to be so very Protestant, coming of such a
 Protestant family as you do. Let us be moral, Ned, or we are nothing.
@@ -44,11 +44,11 @@ Consider the impossibility of having any respect for your father-in-law
 under such unpleasant circumstances--think of his having been “viewed”
  by jurors, and “sat upon” by coroners, and of his very doubtful position
 in the family ever afterwards. It seems to me such an indelicate sort
-of thing that I really think the girl ought to have been put to death by
+of thing that I really think the girl ought to have been put to [[Death|death]] by
 the state to prevent its happening. But I tease you perhaps. You would
-rather be alone? My dear Ned, most willingly. God bless you. I shall
-be going out presently, but we shall meet to-night, or if not to-night,
-certainly to-morrow. Take care of yourself in the mean time, for both
+rather be [[Alone|alone]]? My dear Ned, most willingly. God bless you. I shall
+be going out presently, but we shall meet to-[[Night|night]], or if not to-[[Night|night]],
+certainly to-morrow. Take care of yourself in the mean [[Time|time]], for both
 our sakes. You are a person of great consequence to me, Ned--of vast
 consequence indeed. God bless you!’
 

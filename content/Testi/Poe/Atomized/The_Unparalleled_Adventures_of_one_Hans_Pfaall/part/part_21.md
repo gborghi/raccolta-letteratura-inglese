@@ -1,5 +1,5 @@
 ---
-title: "The Unparalleled Adventures of one Hans Pfaall (part 21)"
+title: "[[The Unparalleled Adventures of one Hans Pfaall]] (part 21)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)"
@@ -18,11 +18,11 @@ tags:
 
       be seen so far; much less the minute points particularized in the
 
-      story. Mr. L. speaks about Sir John Herschel’s perceiving flowers
+      story. Mr. L. speaks about Sir John Herschel’s perceiving [[Flowers|flowers]]
 
       (the Papaver rheas, etc.), and even detecting the color and the
 
-      shape of the eyes of small birds. Shortly before, too, he has
+      shape of the eyes of small [[Birds|birds]]. Shortly before, too, he has
 
       himself observed that the lens would not render perceptible
 
@@ -52,11 +52,11 @@ tags:
 
       the great extremes of light and darkness to which all the
 
-      inhabitants of our side of the moon are periodically subjected.”
+      inhabitants of our side of the [[Moon|moon]] are periodically subjected.”
 
       But this cannot be thought a very “acute” observation of the
 
-      Doctor’s. The inhabitants of our side of the moon have,
+      Doctor’s. The inhabitants of our side of the [[Moon|moon]] have,
 
       evidently, no darkness at all, so there can be nothing of the
 
@@ -88,7 +88,7 @@ tags:
 
       spots by former astronomers, Mr. L. has entered into details
 
-      regarding oceans and other large bodies of water in the moon;
+      regarding oceans and other large bodies of [[Water|water]] in the [[Moon|moon]];
 
       whereas there is no astronomical point more positively
 
@@ -96,7 +96,7 @@ tags:
 
       the boundary between light and darkness (in the crescent or
 
-      gibbous moon) where this boundary crosses any of the dark places,
+      gibbous [[Moon|moon]]) where this boundary crosses any of the dark places,
 
       the line of division is found to be rough and jagged; but, were
 
@@ -118,7 +118,7 @@ tags:
 
       must our thirteen times larger globe have exercised upon this
 
-      satellite when an embryo in the womb of time, the passive subject
+      satellite when an embryo in the womb of [[Time|time]], the passive subject
 
       of chemical affinity!” This is very fine; but it should be
 
@@ -128,11 +128,11 @@ tags:
 
       intended, is not only thirteen, but forty-nine times larger than
 
-      the moon. A similar objection applies to the whole of the
+      the [[Moon|moon]]. A similar objection applies to the whole of the
 
       concluding pages, where, by way of introduction to some
 
-      discoveries in Saturn, the philosophical correspondent enters
+      discoveries in [[Saturn]], the philosophical correspondent enters
 
       into a minute schoolboy account of that planet—this to the
 
@@ -144,7 +144,7 @@ tags:
 
       the fiction. Let us imagine the power actually possessed of
 
-      seeing animals upon the moon’s surface—what would first arrest
+      seeing [[Animals|animals]] upon the [[Moon|moon]]’s surface—what would first arrest
 
       the attention of an observer from the earth? Certainly neither
 
@@ -168,11 +168,11 @@ tags:
 
 
 
-      It might as well be remarked, in conclusion, that the size, and
+      It might as [[Well|well]] be remarked, in conclusion, that the size, and
 
       particularly the powers of the man-bats (for example, their
 
-      ability to fly in so rare an atmosphere—if, indeed, the moon have
+      ability to fly in so rare an atmosphere—if, indeed, the [[Moon|moon]] have
 
       any), with most of the other fancies in regard to animal and
 
@@ -196,7 +196,7 @@ tags:
 
       There is a real and very definite limit to optical discovery
 
-      among the stars—a limit whose nature need only be stated to be
+      among the [[Stars|stars]]—a limit whose [[Nature|nature]] need only be stated to be
 
       understood. If, indeed, the casting of large lenses were all that
 

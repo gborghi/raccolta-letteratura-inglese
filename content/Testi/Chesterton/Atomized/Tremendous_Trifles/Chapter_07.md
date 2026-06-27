@@ -18,20 +18,20 @@ VI
 
 An Accident
 
-Some time ago I wrote in these columns an article called
-"The Extraordinary Cabman."  I am now in a position to
+Some [[Time|time]] ago I wrote in these columns an article called
+"The Extraordinary [[cabman|Cabman]]."  I am now in a position to
 contribute my experience of a still more extraordinary cab.
 The extraordinary thing about the cab was that it did not like me;
 it threw me out violently in the middle of the Strand.
 If my friends who read the DAILY NEWS are as romantic (and as rich)
 as I take them to be, I presume that this experience is not uncommon.
-I suppose that they are all being thrown out of cabs, all over London.
+I suppose that they are all being thrown out of cabs, all over [[London]].
 Still, as there are some people, virginal and remote from the world,
 who have not yet had this luxurious experience, I will give
 a short account of the psychology of myself when my hansom cab
-ran into the side of a motor omnibus, and I hope hurt it.
+ran into the side of a motor omnibus, and I [[Hope|hope]] hurt it.
 
-I do not need to dwell on the essential romance of the hansom cab--
+I do not need to dwell on the essential [[Romance|romance]] of the hansom cab--
 that one really noble modern thing which our age,
 when it is judged, will gravely put beside the Parthenon.
 It is really modern in that it is both secret and swift.
@@ -41,13 +41,13 @@ But it is also English; it is not to be found abroad; it belongs
 to a beautiful, romantic country where nearly everybody is
 pretending to be richer than they are, and acting as if they were.
 It is comfortable, and yet it is reckless; and that combination
-is the very soul of England.  But although I had always
+is the very [[Soul|soul]] of England.  But although I had always
 realised all these good qualities in a hansom cab, I had not
 experienced all the possibilities, or, as the moderns put it,
 all the aspects of that vehicle.  My enunciation of the merits
 of a hansom cab had been always made when it was the right way up.
 Let me, therefore, explain how I felt when I fell out of a hansom
-cab for the first and, I am happy to believe, the last time.
+cab for the first and, I am happy to believe, the last [[Time|time]].
 Polycrates threw one ring into the sea to propitiate the Fates.
 I have thrown one hansom cab into the sea (if you will excuse a rather
 violent metaphor) and the Fates are, I am quite sure, propitiated.
@@ -56,30 +56,30 @@ Though I am told they do not like to be told so.
 I was driving yesterday afternoon in a hansom cab down one
 of the sloping streets into the Strand, reading one of my own
 admirable articles with continual pleasure, and still more
-continual surprise, when the horse fell forward, scrambled a moment
+continual surprise, when the [[Horse|horse]] fell forward, scrambled a moment
 on the scraping stones, staggered to his feet again, and went forward.
 The horses in my cabs often do this, and I have learnt to enjoy
 my own articles at any angle of the vehicle.  So I did not see
-anything at all odd about the way the horse went on again.
+anything at all odd about the way the [[Horse|horse]] went on again.
 But I saw it suddenly in the faces of all the people on the pavement.
 They were all turned towards me, and they were all struck
-with fear suddenly, as with a white flame out of the sky.
-And one man half ran out into the road with a movement of the
-elbow as if warding off a blow, and tried to stop the horse.
-Then I knew that the reins were lost, and the next moment the horse
+with [[Fear|fear]] suddenly, as with a white flame out of the sky.
+And one man half ran out into the [[Road|road]] with a movement of the
+elbow as if warding off a blow, and tried to stop the [[Horse|horse]].
+Then I knew that the reins were lost, and the next moment the [[Horse|horse]]
 was like a living thunder-bolt. I try to describe things exactly
 as they seemed to me; many details I may have missed or mis-stated;
-many details may have, so to speak, gone mad in the race down the road.
+many details may have, so to speak, gone mad in the race down the [[Road|road]].
 I remember that I once called one of my experiences narrated in this
-paper "A Fragment of Fact."  This is, at any rate, a fragment of fact.
+paper "A [[Fragment]] of Fact."  This is, at any rate, a [[Fragment|fragment]] of fact.
 No fact could possibly be more fragmentary than the sort of fact
-that I expected to be at the bottom of that street.
+that I expected to be at the [[Bottom|bottom]] of that street.
 
 . . . . .
 
 I believe in preaching to the converted; for I have generally
 found that the converted do not understand their own religion.
-Thus I have always urged in this paper that democracy has
+Thus I have always urged in this paper that [[democracy]] has
 a deeper meaning than democrats understand; that is, that common
 and popular things, proverbs, and ordinary sayings always have
 something in them unrealised by most who repeat them.  Here is one.
@@ -92,13 +92,13 @@ he had ever taken to Wimbledon, or all the times that he had ever
 passed the brown bread and butter.
 
 But in those few moments, while my cab was tearing towards
-the traffic of the Strand, I discovered that there is a truth
+the traffic of the Strand, I discovered that there is a [[Truth|truth]]
 behind this phrase, as there is behind all popular phrases.
 I did really have, in that short and shrieking period,
 a rapid succession of a number of fundamental points of view.
 I had, so to speak, about five religions in almost as many seconds.
 My first religion was pure Paganism, which among sincere men
-is more shortly described as extreme fear.  Then there succeeded
+is more shortly described as extreme [[Fear|fear]].  Then there succeeded
 a state of mind which is quite real, but for which no proper
 name has ever been found.  The ancients called it Stoicism,
 and I think it must be what some German lunatics mean
@@ -109,14 +109,14 @@ came a very strong contrary feeling--that things mattered very
 much indeed, and yet that they were something more than tragic.
 It was a feeling, not that life was unimportant, but that
 life was much too important ever to be anything but life.
-I hope that this was Christianity.  At any rate, it occurred
+I [[Hope|hope]] that this was [[Christianity]].  At any rate, it occurred
 at the moment when we went crash into the omnibus.
 
 It seemed to me that the hansom cab simply turned over on top of me,
 like an enormous hood or hat.  I then found myself crawling
 out from underneath it in attitudes so undignified that they
 must have added enormously to that great cause to which the
-Anti-Puritan League and I have recently dedicated ourselves.
+[[anti-puritan|Anti-Puritan]] League and I have recently dedicated ourselves.
 I mean the cause of the pleasures of the people.
 As to my demeanour when I emerged, I have two confessions
 to make, and they are both made merely in the interests
@@ -140,21 +140,21 @@ who had hitherto taken him seriously.
 There is one other odd thing about the matter which I also mention
 as a curiosity of the human brain or deficiency of brain.
 At intervals of about every three minutes I kept on reminding
-the policeman that I had not paid the cabman, and that I hoped
+the policeman that I had not paid the [[cabman]], and that I hoped
 he would not lose his money.  He said it would be all right,
 and the man would appear.  But it was not until about half an hour
 afterwards that it suddenly struck me with a shock intolerable
-that the man might conceivably have lost more than half a crown;
-that he had been in danger as well as I. I had instinctively
-regarded the cabman as something uplifted above accidents, a god.
+that the man might conceivably have lost more than half a [[Crown|crown]];
+that he had been in danger as [[Well|well]] as I. I had instinctively
+regarded the [[cabman]] as something uplifted above accidents, a god.
 I immediately made inquiries, and I am happy to say that they
 seemed to have been unnecessary.
 
 But henceforward I shall always understand with a darker and more delicate
-charity those who take tythe of mint, and anise, and cumin, and neglect
+[[Charity|charity]] those who take tythe of mint, and anise, and cumin, and neglect
 the weightier matters of the law; I shall remember how I was once really
-tortured with owing half a crown to a man who might have been dead.
-Some admirable men in white coats at the Charing Cross Hospital tied
+tortured with owing half a [[Crown|crown]] to a man who might have been dead.
+Some admirable men in white coats at the Charing [[Cross]] Hospital tied
 up my small injury, and I went out again into the Strand.  I felt upon
 me even a kind of unnatural youth; I hungered for something untried.
 So to open a new chapter in my life I got into a hansom cab.

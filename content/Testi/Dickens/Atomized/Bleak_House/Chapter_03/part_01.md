@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 3 (part 1)"
+title: "Bleak [[house|House]] — Chapter 3 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -22,41 +22,41 @@ A Progress
 I have a great deal of difficulty in beginning to write my portion of
 these pages, for I know I am not clever. I always knew that. I can
 remember, when I was a very little girl indeed, I used to say to my
-doll when we were alone together, “Now, Dolly, I am not clever, you
-know very well, and you must be patient with me, like a dear!” And so
+doll when we were [[Alone|alone]] together, “Now, Dolly, I am not clever, you
+know very [[Well|well]], and you must be patient with me, like a dear!” And so
 she used to sit propped up in a great arm-chair, with her beautiful
 complexion and rosy lips, staring at me—or not so much at me, I
 think, as at nothing—while I busily stitched away and told her every
-one of my secrets.
+one of my [[Secrets|secrets]].
 
 My dear old doll! I was such a shy little thing that I seldom dared
 to open my lips, and never dared to open my heart, to anybody else.
 It almost makes me cry to think what a relief it used to be to me
-when I came home from school of a day to run upstairs to my room and
+when I came [[Home|home]] from school of a day to run upstairs to my room and
 say, “Oh, you dear faithful Dolly, I knew you would be expecting me!”
 and then to sit down on the floor, leaning on the elbow of her great
 chair, and tell her all I had noticed since we parted. I had always
 rather a noticing way—not a quick way, oh, no!—a silent way of
 noticing what passed before me and thinking I should like to
 understand it better. I have not by any means a quick understanding.
-When I love a person very tenderly indeed, it seems to brighten. But
-even that may be my vanity.
+When I [[Love|love]] a person very tenderly indeed, it seems to brighten. But
+even that may be my [[Vanity|vanity]].
 
 I was brought up, from my earliest remembrance—like some of the
 princesses in the fairy stories, only I was not charming—by my
 godmother. At least, I only knew her as such. She was a good, good
-woman! She went to church three times every Sunday, and to morning
+woman! She went to church three times every [[Sunday]], and to morning
 prayers on Wednesdays and Fridays, and to lectures whenever there
 were lectures; and never missed. She was handsome; and if she had
 ever smiled, would have been (I used to think) like an angel—but she
-never smiled. She was always grave and strict. She was so very good
+never smiled. She was always [[Grave|grave]] and strict. She was so very good
 herself, I thought, that the badness of other people made her frown
 all her life. I felt so different from her, even making every
-allowance for the differences between a child and a woman; I felt so
+allowance for the differences between a [[Child|child]] and a woman; I felt so
 poor, so trifling, and so far off that I never could be unrestrained
-with her—no, could never even love her as I wished. It made me very
+with her—no, could never even [[Love|love]] her as I wished. It made me very
 sorry to consider how good she was and how unworthy of her I was, and
-I used ardently to hope that I might have a better heart; and I
+I used ardently to [[Hope|hope]] that I might have a better heart; and I
 talked it over very often with the dear old doll, but I never loved
 my godmother as I ought to have loved her and as I felt I must have
 loved her if I had been a better girl.
@@ -69,31 +69,31 @@ that helped it very much.
 I had never heard my mama spoken of. I had never heard of my papa
 either, but I felt more interested about my mama. I had never worn a
 black frock, that I could recollect. I had never been shown my mama’s
-grave. I had never been told where it was. Yet I had never been
+[[Grave|grave]]. I had never been told where it was. Yet I had never been
 taught to pray for any relation but my godmother. I had more than
 once approached this subject of my thoughts with Mrs. Rachael, our
 only servant, who took my light away when I was in bed (another very
 good woman, but austere to me), and she had only said, “Esther, good
-night!” and gone away and left me.
+[[Night|night]]!” and gone away and left me.
 
 Although there were seven girls at the neighbouring school where I
 was a day boarder, and although they called me little Esther
-Summerson, I knew none of them at home. All of them were older than
+Summerson, I knew none of them at [[Home|home]]. All of them were older than
 I, to be sure (I was the youngest there by a good deal), but there
 seemed to be some other separation between us besides that, and
 besides their being far more clever than I was and knowing much more
 than I did. One of them in the first week of my going to the school
-(I remember it very well) invited me home to a little party, to my
+(I remember it very [[Well|well]]) invited me [[Home|home]] to a little party, to my
 great joy. But my godmother wrote a stiff letter declining for me,
 and I never went. I never went out at all.
 
 It was my birthday. There were holidays at school on other
-birthdays—none on mine. There were rejoicings at home on other
+birthdays—none on mine. There were rejoicings at [[Home|home]] on other
 birthdays, as I knew from what I heard the girls relate to one
-another—there were none on mine. My birthday was the most melancholy
-day at home in the whole year.
+another—there were none on mine. My birthday was the most [[Melancholy|melancholy]]
+day at [[Home|home]] in the whole year.
 
-I have mentioned that unless my vanity should deceive me (as I know
+I have mentioned that unless my [[Vanity|vanity]] should deceive me (as I know
 it may, for I may be very vain without suspecting it, though indeed I
 don’t), my comprehension is quickened when my affection is. My
 disposition is very affectionate, and perhaps I might still feel such
@@ -101,8 +101,8 @@ a wound if such a wound could be received more than once with the
 quickness of that birthday.
 
 Dinner was over, and my godmother and I were sitting at the table
-before the fire. The clock ticked, the fire clicked; not another
-sound had been heard in the room or in the house for I don’t know how
+before the [[Fire|fire]]. The [[Clock|clock]] ticked, the [[Fire|fire]] clicked; not another
+sound had been heard in the room or in the [[house]] for I don’t know how
 long. I happened to look timidly up from my stitching, across the
 table at my godmother, and I saw in her face, looking gloomily at me,
 “It would have been far better, little Esther, that you had had no
@@ -111,7 +111,7 @@ birthday, that you had never been born!”
 I broke out crying and sobbing, and I said, “Oh, dear godmother, tell
 me, pray do tell me, did Mama die on my birthday?”
 
-“No,” she returned. “Ask me no more, child!”
+“No,” she returned. “Ask me no more, [[Child|child]]!”
 
 “Oh, do pray tell me something of her. Do now, at last, dear
 godmother, if you please! What did I do to her? How did I lose her?
@@ -129,7 +129,7 @@ it as she looked at me, and laid it on my fluttering heart. She
 raised me, sat in her chair, and standing me before her, said slowly
 in a cold, low voice—I see her knitted brow and pointed
 finger—“Your mother, Esther, is your disgrace, and you were hers.
-The time will come—and soon enough—when you will understand this
+The [[Time|time]] will come—and soon enough—when you will understand this
 better and will feel it too, as no one save a woman can. I have
 forgiven her”—but her face did not relent—“the wrong she did to me,
 and I say no more of it, though it was greater than you will ever
@@ -137,5 +137,5 @@ know—than any one will ever know but I, the sufferer. For yourself,
 unfortunate girl, orphaned and degraded from the first of these evil
 anniversaries, pray daily that the sins of others be not visited upon
 your head, according to what is written. Forget your mother and leave
-all other people to forget her who will do her unhappy child that
+all other people to forget her who will do her unhappy [[Child|child]] that
 greatest kindness. Now, go!”

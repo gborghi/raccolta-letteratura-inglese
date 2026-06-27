@@ -22,7 +22,7 @@ VOX POPULI VOX DEI
 with a somewhat constrained smile, "that after the
 eloquent and epoch-making speech to which we have
 listened there will be some questions asked, and we
-hope to have a debate afterwards.  I am sure somebody
+[[Hope|hope]] to have a [[debate]] afterwards.  I am sure somebody
 will ask a question."  Then he looked interrogatively
 at one weary looking gentleman in the fourth
 row and said, "Mr. Hinch?"
@@ -34,7 +34,7 @@ I really couldn't!"
 "We should be very pleased," said Mr. Leveson, "if
 any lady would ask a question."
 
-In the silence that followed it was somehow
+In the [[Silence|silence]] that followed it was somehow
 psychologically borne in on the whole audience that one
 particular great large lady (as the lecturer would say)
 sitting at the end of the second row was expected to
@@ -50,7 +50,7 @@ could be heard of "Now then, Garge!"--"Go it
 Garge!  Is there any questions!  Gor!"
 
 Mr. Leveson looked up with an alertness somewhat
-akin to alarm.  He realised for the first time that a few
+akin to alarm.  He realised for the first [[Time|time]] that a few
 quite common men in coarse, unclean clothes, had
 somehow strolled in through the open door.  They
 were not true rustics, but the semi-rustic labourers that
@@ -83,22 +83,22 @@ string.  He did not appear to have had any seat since
 his arrival, and made his remarks standing half way
 down what we may call the central aisle.
 
-"Well, I want to ask the proprietor," he began.
+"[[Well]], I want to ask the proprietor," he began.
 
 "Questions," said Mr. Leveson, swiftly seizing a
-chance for that construction of debate which is the
+chance for that construction of [[debate]] which is the
 main business of a modern chairman, "must be asked
 of the chair, if they are points of order.  If they
 concern the address, they should be asked of the lecturer."
 
-"Well, I ask the lecturer," said the patient Garge,
+"[[Well]], I ask the lecturer," said the patient Garge,
 "whether it ain't right that when you 'ave the thing
 outside you should 'ave the thing inside."  (Hoarse
 applause at the back.)
 
 Mr. Leveson was evidently puzzled and already
 suspicious that something was quite wrong.  But the
-enthusiasm of the Prophet of the Moon sprang up
+enthusiasm of the [[Prophet]] of the [[Moon]] sprang up
 instantly at any sort of question and swept the
 Chairman along with it.
 
@@ -107,7 +107,7 @@ cried, spreading out his arms to embrace the world,
 "that the outer manifestation should be one with the
 inner manifestation.  My friendss, it iss this very
 tru-uth our friend has stated, that iss responsible for
-our apparent lack of symbolism in Islam!  We appear
+our apparent lack of symbolism in [[Islam]]!  We appear
 to neglect the symbol because we insist on the
 satisfactory symbol.  My friend in the middle will
 walk round all our mosques and say loudly, 'Where is
@@ -118,7 +118,7 @@ statue of Allah?"
 Misysra Ammon sat down greatly satisfied with
 his answer, but it was doubted by many whether, he
 had conveyed the satisfaction to his friend in the
-middle.  That seeker after truth wiped his mouth with
+middle.  That seeker after [[Truth|truth]] wiped his mouth with
 the back of his hand with an unsatisfied air and said:
 
 "No offence, sir.  But ain't it the Law, sir, that if
@@ -128,33 +128,33 @@ place like this afore."  (Hoarse laughter behind.)
 
 "No apology is needed, my friend," cried the Eastern
 sage, eagerly, "I can conceive you are not perhaps
-du-uly conversant with such schools of truth.  But
+du-uly conversant with such schools of [[Truth|truth]].  But
 the Law is All.  The Law is Allah.  The inmost
-u-unity of--"
+u-[[unity]] of--"
 
-"Well, ain't it the Law?" repeated the dogged
-George, and every time he mentioned the Law the poor
+"[[Well]], ain't it the Law?" repeated the dogged
+George, and every [[Time|time]] he mentioned the Law the poor
 men who are its chief victims applauded loudly.  "I'm
 not one to make a fuss.  I never was one to make a
 fuss.  I'm a law-abidin' man, I am.  (More applause.)
 Ain't it the Law that if so be such is your sign and
 such is your profession, you ought to serve us?"
 
-"I fear I not quite follow," cried the eager Turk.
+"I [[Fear|fear]] I not quite follow," cried the eager Turk.
 "I ought?"
 
 "To serve us," shouted a throng of thick voices
 from the back of the hall, which was already much
 more crowded than before.
 
-"Serve you!" cried Misysra, leaping up like a spring
-released, "The Holy Prophet came from Heaven to
+"Serve you!" cried Misysra, leaping up like a [[Spring|spring]]
+released, "The Holy [[Prophet]] came from Heaven to
 serve you!  The virtue and valour of a thousand
 years, my friends, has had no hunger but to serve you!
-We are of all faiths, the most the faith of service.
-Our highest prophet is no more than the servant of
+We are of all faiths, the most the [[Faith|faith]] of service.
+Our highest [[Prophet|prophet]] is no more than the servant of
 God, as I am, as you all are.  Even for our symbol
-we choose a satellite, and honour the Moon because it
+we choose a satellite, and [[Honour|honour]] the [[Moon]] because it
 only serves the Earth, and does not pretend to be the
 Sun."
 

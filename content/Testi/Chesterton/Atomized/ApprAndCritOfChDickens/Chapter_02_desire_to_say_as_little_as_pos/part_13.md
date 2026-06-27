@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 1: desire to say as little as possible; I will discuss any other (part 13)"
+title: "[[ApprAndCritOfChDickens]] — Book 1: [[Desire|desire]] to say as little as possible; I will discuss any other (part 13)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -16,17 +16,17 @@ tags:
 
 exception or a solitary excursus in his work. Perhaps it can best be
 
-considered as the extension of one of his old sketches, of some sketch
+considered as the extension of one of his old sketches, of some [[Sketch|sketch]]
 
 that happened to be about a visit to a workhouse or a gaol. In the
 
-_Sketches by Boz_ he might well have visited a workhouse where he saw
+_Sketches by Boz_ he might [[Well|well]] have visited a workhouse where he saw
 
-Bumble; in the _Sketches by Boz_ he might well have visited a prison
+Bumble; in the _Sketches by Boz_ he might [[Well|well]] have visited a [[Prison|prison]]
 
-where he saw Fagin. We are still in the realm of sketches and
+where he saw [[Fagin]]. We are still in the realm of sketches and
 
-sketchiness. _The Pickwick Papers_ may be called an extension of one of
+sketchiness. _The [[Pickwick]] Papers_ may be called an extension of one of
 
 his bright sketches. _Oliver Twist_ may be called an extension of one of
 
@@ -34,7 +34,7 @@ his gloomy ones.
 
 
 
-Had he continued along this line all his books might very well have been
+Had he continued along this line all his books might very [[Well|well]] have been
 
 note-books. It would be very easy to split up all his subsequent books
 
@@ -56,7 +56,7 @@ Shop_. He might have merely written short stories called "The Glorious
 
 Apollos," "Mrs. Quilp's Tea-Party," "Mrs. Jarley's Waxwork," "The Little
 
-Servant," and "The Death of a Dwarf." _Martin Chuzzlewit_ might have
+Servant," and "The [[Death]] of a [[Dwarf]]." _Martin Chuzzlewit_ might have
 
 been twenty stories instead of one story. _Dombey and Son_ might have
 
@@ -64,7 +64,7 @@ been twenty stories instead of one story. We might have lost all
 
 Dickens's novels; we might have lost altogether Dickens the novelist. We
 
-might have lost that steady love of a seminal and growing romance which
+might have lost that steady [[Love|love]] of a seminal and growing [[Romance|romance]] which
 
 grew on him steadily as the years advanced, and which gave us towards
 
@@ -82,9 +82,9 @@ friends the evolutionists go wrong. I suppose that there is an instant
 
 of midsummer as there is an instant of midnight. If in the same way
 
-there is a supreme point of spring, _Nicholas Nickleby_ is the supreme
+there is a supreme point of [[spring]], _Nicholas Nickleby_ is the supreme
 
-point of Dickens's spring. I do not mean that it is the best book that
+point of Dickens's [[spring]]. I do not mean that it is the best book that
 
 he wrote in his youth. _Pickwick_ is a better book. I do not mean that
 
@@ -102,39 +102,39 @@ they have not really been novels at all. There are many indications of
 
 the change I mean. Here is one, for instance, which is more or less
 
-final. _Nicholas Nickleby_ is Dickens's first romantic novel because it
+final. _Nicholas Nickleby_ is Dickens's first romantic [[Novel|novel]] because it
 
-is his first novel with a proper and dignified romantic hero; which
+is his first [[Novel|novel]] with a proper and dignified romantic [[Hero|hero]]; which
 
-means, of course, a somewhat chivalrous young donkey. The hero of
+means, of course, a somewhat chivalrous young [[donkey]]. The [[Hero|hero]] of
 
-_Pickwick_ is an old man. The hero of _Oliver Twist_ is a child. Even
+_Pickwick_ is an old man. The [[Hero|hero]] of _Oliver Twist_ is a [[Child|child]]. Even
 
 after _Nicholas Nickleby_ this non-romantic custom continued. The _Old
 
-Curiosity Shop_ has no hero in particular. The hero of _Barnaby Rudge_
+Curiosity Shop_ has no [[Hero|hero]] in particular. The [[Hero|hero]] of _Barnaby Rudge_
 
-is a lunatic. But Nicholas Nickleby is a proper, formal, and ceremonial
+is a lunatic. But [[Nicholas Nickleby]] is a proper, formal, and ceremonial
 
-hero. He has no psychology; he has not even any particular character;
+[[Hero|hero]]. He has no psychology; he has not even any particular character;
 
-but he is made deliberately a hero--young, poor, brave, unimpeachable,
+but he is made deliberately a [[Hero|hero]]--young, poor, brave, unimpeachable,
 
-and ultimately triumphant. He is, in short, the hero. Mr. Vincent
+and ultimately triumphant. He is, in short, the [[Hero|hero]]. Mr. Vincent
 
 Crummles had a colossal intellect; and I always have a fancy that under
 
 all his pomposity he saw things more keenly than he allowed others to
 
-see. The moment he saw Nicholas Nickleby, almost in rags and limping
+see. The moment he saw [[Nicholas Nickleby]], almost in rags and limping
 
-along the high road, he engaged him (you will remember) as first walking
+along the high [[Road|road]], he engaged him (you will remember) as first walking
 
 gentleman. He was right. Nobody could possibly be more of a first
 
-walking gentleman than Nicholas Nickleby was. He was the first walking
+walking gentleman than [[Nicholas Nickleby]] was. He was the first walking
 
-gentleman before he went on to the boards of Mr. Vincent Crummles's
+gentleman before he went on to the boards of Mr. [[Vincent Crummles]]'s
 
 theatre, and he remained the first walking gentleman after he had come
 
@@ -144,7 +144,7 @@ off.
 
 Now this romantic method involves a certain element of climax which to
 
-us appears crudity. Nicholas Nickleby, for instance, wanders through the
+us appears crudity. [[Nicholas Nickleby]], for instance, wanders through the
 
 world; he takes a situation as assistant to a Yorkshire schoolmaster;
 
@@ -158,13 +158,13 @@ like an old cigar, and he goes away. The modern intellect is positively
 
 prostrated and flattened by this rapid and romantic way of righting
 
-wrongs. If a modern philanthropist came to Dotheboys Hall I fear he
+wrongs. If a modern philanthropist came to Dotheboys Hall I [[Fear|fear]] he
 
 would not employ the simple, sacred, and truly Christian solution of
 
 beating Mr. Squeers with a stick. I fancy he would petition the
 
-Government to appoint a Royal Commission to inquire into Mr. Squeers. I
+[[government|Government]] to appoint a Royal Commission to inquire into Mr. Squeers. I
 
 think he would every now and then write letters to newspapers reminding
 

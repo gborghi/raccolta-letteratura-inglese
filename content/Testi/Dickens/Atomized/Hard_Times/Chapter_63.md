@@ -18,13 +18,13 @@ CHAPTER VIII
 EXPLOSION
 
 
-THE next morning was too bright a morning for sleep, and James Harthouse
-rose early, and sat in the pleasant bay window of his dressing-room,
+THE next morning was too bright a morning for [[Sleep|sleep]], and [[James Harthouse]]
+[[Rose|rose]] early, and sat in the pleasant bay [[Window|window]] of his dressing-room,
 smoking the rare tobacco that had had so wholesome an influence on his
 young friend.  Reposing in the sunlight, with the fragrance of his
 eastern pipe about him, and the dreamy smoke vanishing into the air, so
-rich and soft with summer odours, he reckoned up his advantages as an
-idle winner might count his gains.  He was not at all bored for the time,
+rich and soft with [[Summer|summer]] odours, he reckoned up his advantages as an
+idle winner might count his gains.  He was not at all bored for the [[Time|time]],
 and could give his mind to it.
 
 He had established a confidence with her, from which her husband was
@@ -42,15 +42,15 @@ lived, that he and the legion of whom he was one were designedly bad,
 than indifferent and purposeless.  It is the drifting icebergs setting
 with any current anywhere, that wreck the ships.
 
-When the Devil goeth about like a roaring lion, he goeth about in a shape
+When the Devil goeth about like a roaring [[Lion|lion]], he goeth about in a shape
 by which few but savages and hunters are attracted.  But, when he is
 trimmed, smoothed, and varnished, according to the mode; when he is
 aweary of vice, and aweary of virtue, used up as to brimstone, and used
 up as to bliss; then, whether he take to the serving out of red tape, or
-to the kindling of red fire, he is the very Devil.
+to the kindling of red [[Fire|fire]], he is the very Devil.
 
-So James Harthouse reclined in the window, indolently smoking, and
-reckoning up the steps he had taken on the road by which he happened to
+So [[James Harthouse]] reclined in the [[Window|window]], indolently smoking, and
+reckoning up the steps he had taken on the [[Road|road]] by which he happened to
 be travelling.  The end to which it led was before him, pretty plainly;
 but he troubled himself with no calculations about it.  What will be,
 will be.
@@ -64,14 +64,14 @@ interest for him again.
 
 He got through the day as much (or as little) to his own satisfaction, as
 was to be expected under the fatiguing circumstances; and came riding
-back at six o’clock.  There was a sweep of some half-mile between the
-lodge and the house, and he was riding along at a foot pace over the
+back at six o’[[Clock|clock]].  There was a sweep of some half-mile between the
+lodge and the [[house]], and he was riding along at a foot pace over the
 smooth gravel, once Nickits’s, when Mr. Bounderby burst out of the
-shrubbery, with such violence as to make his horse shy across the road.
+shrubbery, with such violence as to make his [[Horse|horse]] shy across the [[Road|road]].
 
 ‘Harthouse!’ cried Mr. Bounderby.  ‘Have you heard?’
 
-‘Heard what?’ said Harthouse, soothing his horse, and inwardly favouring
+‘Heard what?’ said Harthouse, soothing his [[Horse|horse]], and inwardly favouring
 Mr. Bounderby with no good wishes.
 
 ‘Then you _haven’t_ heard!’
@@ -79,18 +79,18 @@ Mr. Bounderby with no good wishes.
 ‘I have heard you, and so has this brute.  I have heard nothing else.’
 
 Mr. Bounderby, red and hot, planted himself in the centre of the path
-before the horse’s head, to explode his bombshell with more effect.
+before the [[Horse|horse]]’s head, to explode his bombshell with more effect.
 
 ‘The Bank’s robbed!’
 
 ‘You don’t mean it!’
 
-‘Robbed last night, sir.  Robbed in an extraordinary manner.  Robbed with
+‘Robbed last [[Night|night]], sir.  Robbed in an extraordinary manner.  Robbed with
 a false key.’
 
 ‘Of much?’
 
-Mr. Bounderby, in his desire to make the most of it, really seemed
+Mr. Bounderby, in his [[Desire|desire]] to make the most of it, really seemed
 mortified by being obliged to reply, ‘Why, no; not of very much.  But it
 might have been.’
 
@@ -103,9 +103,9 @@ circumstance.  I am surprised you don’t see it.’
 
 ‘My dear Bounderby,’ said James, dismounting, and giving his bridle to
 his servant, ‘I _do_ see it; and am as overcome as you can possibly
-desire me to be, by the spectacle afforded to my mental view.
-Nevertheless, I may be allowed, I hope, to congratulate you—which I do
-with all my soul, I assure you—on your not having sustained a greater
+[[Desire|desire]] me to be, by the spectacle afforded to my mental view.
+Nevertheless, I may be allowed, I [[Hope|hope]], to congratulate you—which I do
+with all my [[Soul|soul]], I assure you—on your not having sustained a greater
 loss.’
 
 ‘Thank’ee,’ replied Bounderby, in a short, ungracious manner.  ‘But I
@@ -121,12 +121,12 @@ disturbed.’
 
 Louisa had come up now, and Mrs. Sparsit, and Bitzer.
 
-‘Here’s Tom Gradgrind’s daughter knows pretty well what it might have
+‘Here’s [[Tom Gradgrind]]’s daughter knows pretty [[Well|well]] what it might have
 been, if you don’t,’ blustered Bounderby.  ‘Dropped, sir, as if she was
 shot when I told her!  Never knew her do such a thing before.  Does her
 credit, under the circumstances, in my opinion!’
 
-She still looked faint and pale.  James Harthouse begged her to take his
+She still looked faint and pale.  [[James Harthouse]] begged her to take his
 arm; and as they moved on very slowly, asked her how the robbery had been
 committed.
 
@@ -135,14 +135,14 @@ to Mrs. Sparsit.  ‘If you hadn’t been so mighty particular about the sum,
 I should have begun to tell you before.  You know this lady (for she _is_
 a lady), Mrs. Sparsit?’
 
-‘I have already had the honour—’
+‘I have already had the [[Honour|honour]]—’
 
-‘Very well.  And this young man, Bitzer, you saw him too on the same
+‘Very [[Well|well]].  And this young man, Bitzer, you saw him too on the same
 occasion?’  Mr. Harthouse inclined his head in assent, and Bitzer
 knuckled his forehead.
 
-‘Very well.  They live at the Bank.  You know they live at the Bank,
-perhaps?  Very well.  Yesterday afternoon, at the close of business
+‘Very [[Well|well]].  They live at the Bank.  You know they live at the Bank,
+perhaps?  Very [[Well|well]].  Yesterday afternoon, at the close of business
 hours, everything was put away as usual.  In the iron room that this
 young fellow sleeps outside of, there was never mind how much.  In the
 little safe in young Tom’s closet, the safe used for petty purposes,
@@ -150,7 +150,7 @@ there was a hundred and fifty odd pound.’
 
 ‘A hundred and fifty-four, seven, one,’ said Bitzer.
 
-‘Come!’ retorted Bounderby, stopping to wheel round upon him, ‘let’s have
+‘Come!’ retorted Bounderby, stopping to [[Wheel|wheel]] round upon him, ‘let’s have
 none of _your_ interruptions.  It’s enough to be robbed while you’re
 snoring because you’re too comfortable, without being put right with
 _your_ four seven ones.  I didn’t snore, myself, when I was your age, let
@@ -163,29 +163,29 @@ Mr. Bounderby’s moral abstinence.
 
 ‘A hundred and fifty odd pound,’ resumed Mr. Bounderby.  ‘That sum of
 money, young Tom locked in his safe, not a very strong safe, but that’s
-no matter now.  Everything was left, all right.  Some time in the night,
+no matter now.  Everything was left, all right.  Some [[Time|time]] in the [[Night|night]],
 while this young fellow snored—Mrs. Sparsit, ma’am, you say you have
 heard him snore?’
 
 ‘Sir,’ returned Mrs. Sparsit, ‘I cannot say that I have heard him
 precisely snore, and therefore must not make that statement.  But on
-winter evenings, when he has fallen asleep at his table, I have heard
+[[Winter|winter]] evenings, when he has fallen asleep at his table, I have heard
 him, what I should prefer to describe as partially choke.  I have heard
-him on such occasions produce sounds of a nature similar to what may be
+him on such occasions produce sounds of a [[Nature|nature]] similar to what may be
 sometimes heard in Dutch clocks.  Not,’ said Mrs. Sparsit, with a lofty
 sense of giving strict evidence, ‘that I would convey any imputation on
 his moral character.  Far from it.  I have always considered Bitzer a
 young man of the most upright principle; and to that I beg to bear my
 testimony.’
 
-‘Well!’ said the exasperated Bounderby, ‘while he was snoring, _or_
+‘[[Well]]!’ said the exasperated Bounderby, ‘while he was snoring, _or_
 choking, _or_ Dutch-clocking, _or_ something _or_ other—being asleep—some
-fellows, somehow, whether previously concealed in the house or not
+fellows, somehow, whether previously concealed in the [[house]] or not
 remains to be seen, got to young Tom’s safe, forced it, and abstracted
 the contents.  Being then disturbed, they made off; letting themselves
-out at the main door, and double-locking it again (it was double-locked,
+out at the main door, and [[Double|double]]-locking it again (it was [[Double|double]]-locked,
 and the key under Mrs. Sparsit’s pillow) with a false key, which was
-picked up in the street near the Bank, about twelve o’clock to-day.  No
+picked up in the street near the Bank, about twelve o’[[Clock|clock]] to-day.  No
 alarm takes place, till this chap, Bitzer, turns out this morning, and
 begins to open and prepare the offices for business.  Then, looking at
 Tom’s safe, he sees the door ajar, and finds the lock forced, and the
@@ -195,30 +195,30 @@ money gone.’
 
 ‘He has been helping the police,’ said Bounderby, ‘and stays behind at
 the Bank.  I wish these fellows had tried to rob me when I was at his
-time of life.  They would have been out of pocket if they had invested
+[[Time|time]] of life.  They would have been out of pocket if they had invested
 eighteenpence in the job; I can tell ’em that.’
 
 ‘Is anybody suspected?’
 
 ‘Suspected?  I should think there was somebody suspected.  Egod!’ said
 Bounderby, relinquishing Mrs. Sparsit’s arm to wipe his heated head.
-‘Josiah Bounderby of Coketown is not to be plundered and nobody
+‘[[Josiah Bounderby]] of Coketown is not to be plundered and nobody
 suspected.  No, thank you!’
 
 Might Mr. Harthouse inquire Who was suspected?
 
-‘Well,’ said Bounderby, stopping and facing about to confront them all,
+‘[[Well]],’ said Bounderby, stopping and facing about to confront them all,
 ‘I’ll tell you.  It’s not to be mentioned everywhere; it’s not to be
 mentioned anywhere: in order that the scoundrels concerned (there’s a
 gang of ’em) may be thrown off their guard.  So take this in confidence.
 Now wait a bit.’  Mr. Bounderby wiped his head again.  ‘What should you
 say to;’ here he violently exploded: ‘to a Hand being in it?’
 
-‘I hope,’ said Harthouse, lazily, ‘not our friend Blackpot?’
+‘I [[Hope|hope]],’ said Harthouse, lazily, ‘not our friend Blackpot?’
 
 ‘Say Pool instead of Pot, sir,’ returned Bounderby, ‘and that’s the man.’
 
-Louisa faintly uttered some word of incredulity and surprise.
+Louisa faintly uttered some word of [[Incredulity|incredulity]] and surprise.
 
 ‘O yes!  I know!’ said Bounderby, immediately catching at the sound.  ‘I
 know!  I am used to that.  I know all about it.  They are the finest
@@ -232,11 +232,11 @@ taken to disseminate—and which some people really believed.
 
 ‘But I am acquainted with these chaps,’ said Bounderby.  ‘I can read ’em
 off, like books.  Mrs. Sparsit, ma’am, I appeal to you.  What warning did
-I give that fellow, the first time he set foot in the house, when the
+I give that fellow, the first [[Time|time]] he set foot in the [[house]], when the
 express object of his visit was to know how he could knock Religion over,
 and floor the Established Church?  Mrs. Sparsit, in point of high
 connexions, you are on a level with the aristocracy,—did I say, or did I
-not say, to that fellow, “you can’t hide the truth from me: you are not
+not say, to that fellow, “you can’t hide the [[Truth|truth]] from me: you are not
 the kind of fellow I like; you’ll come to no good”?’
 
 ‘Assuredly, sir,’ returned Mrs. Sparsit, ‘you did, in a highly impressive
@@ -250,48 +250,48 @@ certainly did so.  Though I do not mean to say but that my feelings may
 be weaker on such points—more foolish if the term is preferred—than they
 might have been, if I had always occupied my present position.’
 
-Mr. Bounderby stared with a bursting pride at Mr. Harthouse, as much as
+Mr. Bounderby stared with a bursting [[Pride|pride]] at Mr. Harthouse, as much as
 to say, ‘I am the proprietor of this female, and she’s worth your
 attention, I think.’  Then, resumed his discourse.
 
 ‘You can recall for yourself, Harthouse, what I said to him when you saw
 him.  I didn’t mince the matter with him.  I am never mealy with ’em.  I
-KNOW ’em.  Very well, sir.  Three days after that, he bolted.  Went off,
+KNOW ’em.  Very [[Well|well]], sir.  Three days after that, he bolted.  Went off,
 nobody knows where: as my mother did in my infancy—only with this
 difference, that he is a worse subject than my mother, if possible.  What
 did he do before he went?  What do you say;’ Mr. Bounderby, with his hat
-in his hand, gave a beat upon the crown at every little division of his
-sentences, as if it were a tambourine; ‘to his being seen—night after
-night—watching the Bank?—to his lurking about there—after dark?—To its
+in his hand, gave a beat upon the [[Crown|crown]] at every little division of his
+sentences, as if it were a tambourine; ‘to his being seen—[[Night|night]] after
+[[Night|night]]—watching the Bank?—to his lurking about there—after dark?—To its
 striking Mrs. Sparsit—that he could be lurking for no good—To her calling
 Bitzer’s attention to him, and their both taking notice of him—And to its
 appearing on inquiry to-day—that he was also noticed by the neighbours?’
 Having come to the climax, Mr. Bounderby, like an oriental dancer, put
 his tambourine on his head.
 
-‘Suspicious,’ said James Harthouse, ‘certainly.’
+‘Suspicious,’ said [[James Harthouse]], ‘certainly.’
 
 ‘I think so, sir,’ said Bounderby, with a defiant nod.  ‘I think so.  But
 there are more of ’em in it.  There’s an old woman.  One never hears of
 these things till the mischief’s done; all sorts of defects are found out
-in the stable door after the horse is stolen; there’s an old woman turns
+in the stable door after the [[Horse|horse]] is stolen; there’s an old woman turns
 up now.  An old woman who seems to have been flying into town on a
 broomstick, every now and then.  _She_ watches the place a whole day
-before this fellow begins, and on the night when you saw him, she steals
+before this fellow begins, and on the [[Night|night]] when you saw him, she steals
 away with him and holds a council with him—I suppose, to make her report
 on going off duty, and be damned to her.’
 
-There was such a person in the room that night, and she shrunk from
+There was such a person in the room that [[Night|night]], and she shrunk from
 observation, thought Louisa.
 
 ‘This is not all of ’em, even as we already know ’em,’ said Bounderby,
 with many nods of hidden meaning.  ‘But I have said enough for the
 present.  You’ll have the goodness to keep it quiet, and mention it to no
-one.  It may take time, but we shall have ’em.  It’s policy to give ’em
+one.  It may take [[Time|time]], but we shall have ’em.  It’s policy to give ’em
 line enough, and there’s no objection to that.’
 
 ‘Of course, they will be punished with the utmost rigour of the law, as
-notice-boards observe,’ replied James Harthouse, ‘and serve them right.
+notice-boards observe,’ replied [[James Harthouse]], ‘and serve them right.
 Fellows who go in for Banks must take the consequences.  If there were no
 consequences, we should all go in for Banks.’  He had gently taken
 Louisa’s parasol from her hand, and had put it up for her; and she walked
@@ -309,7 +309,7 @@ with that domestic establishment, it was that she was so excessively
 regardless of herself and regardful of others, as to be a nuisance.  On
 being shown her chamber, she was so dreadfully sensible of its comforts
 as to suggest the inference that she would have preferred to pass the
-night on the mangle in the laundry.  True, the Powlers and the Scadgerses
+[[Night|night]] on the mangle in the laundry.  True, the Powlers and the Scadgerses
 were accustomed to splendour, ‘but it is my duty to remember,’ Mrs.
 Sparsit was fond of observing with a lofty grace: particularly when any
 of the domestics were present, ‘that what I was, I am no longer.
@@ -318,7 +318,7 @@ Sparsit was a Powler, or that I myself am related to the Scadgers family;
 or if I could even revoke the fact, and make myself a person of common
 descent and ordinary connexions; I would gladly do so.  I should think
 it, under existing circumstances, right to do so.’  The same Hermitical
-state of mind led to her renunciation of made dishes and wines at dinner,
+state of mind led to her [[Renunciation|renunciation]] of made dishes and wines at dinner,
 until fairly commanded by Mr. Bounderby to take them; when she said,
 ‘Indeed you are very good, sir;’ and departed from a resolution of which
 she had made rather formal and public announcement, to ‘wait for the
@@ -343,7 +343,7 @@ to it some three or four score times in the course of the evening.  Her
 repetition of this mistake covered Mrs. Sparsit with modest confusion;
 but indeed, she said, it seemed so natural to say Miss Gradgrind:
 whereas, to persuade herself that the young lady whom she had had the
-happiness of knowing from a child could be really and truly Mrs.
+happiness of knowing from a [[Child|child]] could be really and truly Mrs.
 Bounderby, she found almost impossible.  It was a further singularity of
 this remarkable case, that the more she thought about it, the more
 impossible it appeared; ‘the differences,’ she observed, ‘being such.’
@@ -352,35 +352,35 @@ In the drawing-room after dinner, Mr. Bounderby tried the case of the
 robbery, examined the witnesses, made notes of the evidence, found the
 suspected persons guilty, and sentenced them to the extreme punishment of
 the law.  That done, Bitzer was dismissed to town with instructions to
-recommend Tom to come home by the mail-train.
+recommend Tom to come [[Home|home]] by the mail-train.
 
 When candles were brought, Mrs. Sparsit murmured, ‘Don’t be low, sir.
 Pray let me see you cheerful, sir, as I used to do.’  Mr. Bounderby, upon
 whom these consolations had begun to produce the effect of making him, in
 a bull-headed blundering way, sentimental, sighed like some large
 sea-animal.  ‘I cannot bear to see you so, sir,’ said Mrs. Sparsit.  ‘Try
-a hand at backgammon, sir, as you used to do when I had the honour of
+a hand at backgammon, sir, as you used to do when I had the [[Honour|honour]] of
 living under your roof.’  ‘I haven’t played backgammon, ma’am,’ said Mr.
-Bounderby, ‘since that time.’  ‘No, sir,’ said Mrs. Sparsit, soothingly,
+Bounderby, ‘since that [[Time|time]].’  ‘No, sir,’ said Mrs. Sparsit, soothingly,
 ‘I am aware that you have not.  I remember that Miss Gradgrind takes no
 interest in the game.  But I shall be happy, sir, if you will
 condescend.’
 
-They played near a window, opening on the garden.  It was a fine night:
+They played near a [[Window|window]], opening on the [[Garden|garden]].  It was a fine [[Night|night]]:
 not moonlight, but sultry and fragrant.  Louisa and Mr. Harthouse
-strolled out into the garden, where their voices could be heard in the
+strolled out into the [[Garden|garden]], where their voices could be heard in the
 stillness, though not what they said.  Mrs. Sparsit, from her place at
 the backgammon board, was constantly straining her eyes to pierce the
 shadows without.  ‘What’s the matter, ma’am?’ said Mr. Bounderby; ‘you
-don’t see a Fire, do you?’  ‘Oh dear no, sir,’ returned Mrs. Sparsit, ‘I
+don’t see a [[Fire]], do you?’  ‘Oh dear no, sir,’ returned Mrs. Sparsit, ‘I
 was thinking of the dew.’  ‘What have you got to do with the dew, ma’am?’
 said Mr. Bounderby.  ‘It’s not myself, sir,’ returned Mrs. Sparsit, ‘I am
 fearful of Miss Gradgrind’s taking cold.’  ‘She never takes cold,’ said
 Mr. Bounderby.  ‘Really, sir?’ said Mrs. Sparsit.  And was affected with
 a cough in her throat.
 
-When the time drew near for retiring, Mr. Bounderby took a glass of
-water.  ‘Oh, sir?’ said Mrs. Sparsit.  ‘Not your sherry warm, with
+When the [[Time|time]] drew near for retiring, Mr. Bounderby took a glass of
+[[Water|water]].  ‘Oh, sir?’ said Mrs. Sparsit.  ‘Not your sherry warm, with
 lemon-peel and nutmeg?’  ‘Why, I have got out of the habit of taking it
 now, ma’am,’ said Mr. Bounderby.  ‘The more’s the pity, sir,’ returned
 Mrs. Sparsit; ‘you are losing all your good old habits.  Cheer up, sir!
@@ -393,14 +393,14 @@ Bounderby.  ‘It will do you good, sir.  It will warm your heart.  It is
 the sort of thing you want, and ought to take, sir.’  And when Mr.
 Bounderby said, ‘Your health, ma’am!’ she answered with great feeling,
 ‘Thank you, sir.  The same to you, and happiness also.’  Finally, she
-wished him good night, with great pathos; and Mr. Bounderby went to bed,
-with a maudlin persuasion that he had been crossed in something tender,
+wished him good [[Night|night]], with great pathos; and Mr. Bounderby went to bed,
+with a maudlin [[Persuasion|persuasion]] that he had been crossed in something tender,
 though he could not, for his life, have mentioned what it was.
 
 Long after Louisa had undressed and lain down, she watched and waited for
-her brother’s coming home.  That could hardly be, she knew, until an hour
-past midnight; but in the country silence, which did anything but calm
-the trouble of her thoughts, time lagged wearily.  At last, when the
+her brother’s coming [[Home|home]].  That could hardly be, she knew, until an hour
+past midnight; but in the country [[Silence|silence]], which did anything but calm
+the trouble of her thoughts, [[Time|time]] lagged wearily.  At last, when the
 darkness and stillness had seemed for hours to thicken one another, she
 heard the bell at the gate.  She felt as though she would have been glad
 that it rang on until daylight; but it ceased, and the circles of its
@@ -428,20 +428,20 @@ and have anything concealed from every one besides, tell it to me.’
 flowed over him as if she would hide him from every one but herself: ‘is
 there nothing that you have to tell me?  Is there nothing you can tell me
 if you will?  You can tell me nothing that will change me.  O Tom, tell
-me the truth!’
+me the [[Truth|truth]]!’
 
 ‘I don’t know what you mean, Loo!’
 
-‘As you lie here alone, my dear, in the melancholy night, so you must lie
-somewhere one night, when even I, if I am living then, shall have left
+‘As you lie here [[Alone|alone]], my dear, in the [[Melancholy|melancholy]] [[Night|night]], so you must lie
+somewhere one [[Night|night]], when even I, if I am living then, shall have left
 you.  As I am here beside you, barefoot, unclothed, undistinguishable in
-darkness, so must I lie through all the night of my decay, until I am
-dust.  In the name of that time, Tom, tell me the truth now!’
+darkness, so must I lie through all the [[Night|night]] of my [[Decay|decay]], until I am
+[[Dust|dust]].  In the name of that [[Time|time]], Tom, tell me the [[Truth|truth]] now!’
 
 ‘What is it you want to know?’
 
-‘You may be certain;’ in the energy of her love she took him to her bosom
-as if he were a child; ‘that I will not reproach you.  You may be certain
+‘You may be certain;’ in the energy of her [[Love|love]] she took him to her bosom
+as if he were a [[Child|child]]; ‘that I will not reproach you.  You may be certain
 that I will be compassionate and true to you.  You may be certain that I
 will save you at whatever cost.  O Tom, have you nothing to tell me?
 Whisper very softly.  Say only “yes,” and I shall understand you!’
@@ -500,29 +500,29 @@ a pause, for he had hesitated and stopped.
 ‘In short,’ resumed Tom, as if he had made up his mind, ‘if you come to
 that, perhaps I was so far from being altogether in his favour, that I
 took him outside the door to tell him quietly, that I thought he might
-consider himself very well off to get such a windfall as he had got from
+consider himself very [[Well|well]] off to get such a windfall as he had got from
 my sister, and that I hoped he would make good use of it.  You remember
 whether I took him out or not.  I say nothing against the man; he may be
-a very good fellow, for anything I know; I hope he is.’
+a very good fellow, for anything I know; I [[Hope|hope]] he is.’
 
 ‘Was he offended by what you said?’
 
-‘No, he took it pretty well; he was civil enough.  Where are you, Loo?’
-He sat up in bed and kissed her.  ‘Good night, my dear, good night.’
+‘No, he took it pretty [[Well|well]]; he was civil enough.  Where are you, Loo?’
+He sat up in bed and kissed her.  ‘Good [[Night|night]], my dear, good [[Night|night]].’
 
 ‘You have nothing more to tell me?’
 
 ‘No.  What should I have?  You wouldn’t have me tell you a lie!’
 
-‘I wouldn’t have you do that to-night, Tom, of all the nights in your
-life; many and much happier as I hope they will be.’
+‘I wouldn’t have you do that to-[[Night|night]], Tom, of all the nights in your
+life; many and much happier as I [[Hope|hope]] they will be.’
 
-‘Thank you, my dear Loo.  I am so tired, that I am sure I wonder I don’t
-say anything to get to sleep.  Go to bed, go to bed.’
+‘Thank you, my dear Loo.  I am so tired, that I am sure I [[Wonder|wonder]] I don’t
+say anything to get to [[Sleep|sleep]].  Go to bed, go to bed.’
 
 Kissing her again, he turned round, drew the coverlet over his head, and
-lay as still as if that time had come by which she had adjured him.  She
-stood for some time at the bedside before she slowly moved away.  She
+lay as still as if that [[Time|time]] had come by which she had adjured him.  She
+stood for some [[Time|time]] at the bedside before she slowly moved away.  She
 stopped at the door, looked back when she had opened it, and asked him if
 he had called her?  But he lay still, and she softly closed the door and
 returned to her room.

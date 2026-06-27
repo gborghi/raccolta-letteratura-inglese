@@ -32,13 +32,13 @@ daughter. Your health, Miss Riderhood.’
 
 ‘It was.’
 
-‘That seaman was well beknown to me.’
+‘That seaman was [[Well|well]] beknown to me.’
 
 ‘He was.’
 
 ‘What’s come to him?’
 
-‘Death has come to him. Death came to him in an ugly shape. He looked,’
+‘[[Death]] has come to him. [[Death]] came to him in an ugly shape. He looked,’
 said the man, ‘very horrible after it.’
 
 ‘Arter what?’ said Riderhood, with a frowning stare.
@@ -57,8 +57,8 @@ touched the sleeve, turned the cuff to look at the sleeve-lining (the
 man, in his perfect composure, offering not the least objection), and
 exclaimed, ‘It’s my belief as this here coat was George Radfoot’s too!’
 
-‘You are right. He wore it the last time you ever saw him, and the last
-time you ever will see him—in this world.’
+‘You are right. He wore it the last [[Time|time]] you ever saw him, and the last
+[[Time|time]] you ever will see him—in this world.’
 
 ‘It’s my belief you mean to tell me to my face you killed him!’
 exclaimed Riderhood; but, nevertheless, allowing his glass to be filled
@@ -74,7 +74,7 @@ throat. ‘Let’s know what to make of you. Say something plain.’
 ‘I will,’ returned the other, leaning forward across the table, and
 speaking in a low impressive voice. ‘What a liar you are!’
 
-The honest witness rose, and made as though he would fling his glass in
+The honest witness [[Rose|rose]], and made as though he would fling his glass in
 the man’s face. The man not wincing, and merely shaking his forefinger
 half knowingly, half menacingly, the piece of honesty thought better of
 it and sat down again, putting the glass down too.
@@ -113,8 +113,8 @@ my suspicions of him?’
 
 ‘Because you knew him,’ replied the man; ‘because you had been one with
 him, and knew his real character under a fair outside; because on the
-night which you had afterwards reason to believe to be the very night of
-the murder, he came in here, within an hour of his having left his ship
+[[Night|night]] which you had afterwards reason to believe to be the very [[Night|night]] of
+the murder, he came in here, within an hour of his having left his [[Ship|ship]]
 in the docks, and asked you in what lodgings he could find room. Was
 there no stranger with him?’
 
@@ -142,13 +142,13 @@ brow as a honest man ought.’ Here he filled the footless goblet again,
 and stood chewing one half of its contents and looking down into the
 other as he slowly rolled the wine about in the glass; while Pleasant,
 whose sympathetic hair had come down on her being apostrophised,
-rearranged it, much in the style of the tail of a horse when proceeding
+rearranged it, much in the style of the tail of a [[Horse|horse]] when proceeding
 to market to be sold.
 
-‘Well? Have you finished?’ asked the strange man.
+‘[[Well]]? Have you finished?’ asked the strange man.
 
 ‘No,’ said Riderhood, ‘I ain’t. Far from it. Now then! I want to know
-how George Radfoot come by his death, and how you come by his kit?’
+how George Radfoot come by his [[Death|death]], and how you come by his kit?’
 
 ‘If you ever do know, you won’t know now.’
 

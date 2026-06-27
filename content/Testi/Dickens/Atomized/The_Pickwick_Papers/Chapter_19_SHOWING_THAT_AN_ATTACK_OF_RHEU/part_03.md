@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 17: SHOWING THAT AN ATTACK OF RHEUMATISM, IN SOME CASES, ACTS (part 3)"
+title: "The [[Pickwick]] Papers — Chapter 17: SHOWING THAT AN ATTACK OF RHEUMATISM, IN SOME CASES, ACTS (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -20,25 +20,25 @@ knocking at the street door was no other than old Lobbs himself, who had
 unexpectedly returned, and was hammering away, like a coffin-maker; for
 he wanted his supper. The alarming intelligence was no sooner
 communicated by the bony apprentice with the thin legs, than the girls
-tripped upstairs to Maria Lobbs’s bedroom, and the male cousin and
+tripped upstairs to [[Maria]] Lobbs’s bedroom, and the male cousin and
 Nathaniel Pipkin were thrust into a couple of closets in the sitting-
-room, for want of any better places of concealment; and when Maria Lobbs
+room, for want of any better places of concealment; and when [[Maria]] Lobbs
 and the wicked little cousin had stowed them away, and put the room to
 rights, they opened the street door to old Lobbs, who had never left off
 knocking since he first began.
 
 ‘Now it did unfortunately happen that old Lobbs being very hungry was
-monstrous cross. Nathaniel Pipkin could hear him growling away like an
+monstrous [[Cross|cross]]. Nathaniel Pipkin could hear him growling away like an
 old mastiff with a sore throat; and whenever the unfortunate apprentice
 with the thin legs came into the room, so surely did old Lobbs commence
 swearing at him in a most Saracenic and ferocious manner, though
 apparently with no other end or object than that of easing his bosom by
 the discharge of a few superfluous oaths. At length some supper, which
 had been warming up, was placed on the table, and then old Lobbs fell
-to, in regular style; and having made clear work of it in no time,
+to, in regular style; and having made clear work of it in no [[Time|time]],
 kissed his daughter, and demanded his pipe.
 
-‘Nature had placed Nathaniel Pipkin’s knees in very close juxtaposition,
+‘[[Nature]] had placed Nathaniel Pipkin’s knees in very close juxtaposition,
 but when he heard old Lobbs demand his pipe, they knocked together, as
 if they were going to reduce each other to powder; for, depending from a
 couple of hooks, in the very closet in which he stood, was a large,
@@ -69,10 +69,10 @@ my daughter, now!”
 mortal presumption could have carried Nathaniel Pipkin so far. What was
 his indignation, when that poor man replied--
 
-‘“Yes, I did, Mr. Lobbs, I did come after your daughter. I love her, Mr.
+‘“Yes, I did, Mr. Lobbs, I did come after your daughter. I [[Love|love]] her, Mr.
 Lobbs.”
 
-‘“Why, you snivelling, wry-faced, puny villain,” gasped old Lobbs,
+‘“Why, you snivelling, wry-faced, puny [[Villain|villain]],” gasped old Lobbs,
 paralysed by the atrocious confession; “what do you mean by that? Say
 this to my face! Damme, I’ll throttle you!”
 
@@ -84,7 +84,7 @@ who, stepping out of his closet, and walking up to old Lobbs, said--
 ‘“I cannot allow this harmless person, Sir, who has been asked here, in
 some girlish frolic, to take upon himself, in a very noble manner, the
 fault (if fault it is) which I am guilty of, and am ready to avow. I
-love your daughter, sir; and I came here for the purpose of meeting
+[[Love|love]] your daughter, sir; and I came here for the purpose of meeting
 her.”
 
 ‘Old Lobbs opened his eyes very wide at this, but not wider than
@@ -94,15 +94,15 @@ Nathaniel Pipkin.
 
 ‘“I did.”
 
-‘“And I forbade you this house, long ago.”
+‘“And I forbade you this [[house]], long ago.”
 
-‘“You did, or I should not have been here, clandestinely, to-night.”
+‘“You did, or I should not have been here, clandestinely, to-[[Night|night]].”
 
 ‘I am sorry to record it of old Lobbs, but I think he would have struck
 the cousin, if his pretty daughter, with her bright eyes swimming in
-tears, had not clung to his arm.
+[[Tears|tears]], had not clung to his arm.
 
-‘“Don’t stop him, Maria,” said the young man; “if he has the will to
+‘“Don’t stop him, [[Maria]],” said the young man; “if he has the will to
 strike me, let him. I would not hurt a hair of his gray head, for the
 riches of the world.”
 
@@ -117,7 +117,7 @@ of countenance, with a touch of slyness in it, too, as any man, old or
 young, need look upon. She drew her arm coaxingly through the old man’s,
 and whispered something in his ear; and do what he would, old Lobbs
 couldn’t help breaking out into a smile, while a tear stole down his
-cheek at the same time.
+cheek at the same [[Time|time]].
 
 ‘Five minutes after this, the girls were brought down from the bedroom
 with a great deal of giggling and modesty; and while the young people
@@ -127,13 +127,13 @@ pipe of tobacco, that it was the most soothing and delightful one he
 ever smoked.
 
 ‘Nathaniel Pipkin thought it best to keep his own counsel, and by so
-doing gradually rose into high favour with old Lobbs, who taught him to
-smoke in time; and they used to sit out in the garden on the fine
+doing gradually [[Rose|rose]] into high favour with old Lobbs, who taught him to
+smoke in [[Time|time]]; and they used to sit out in the [[Garden|garden]] on the fine
 evenings, for many years afterwards, smoking and drinking in great
 state. He soon recovered the effects of his attachment, for we find his
-name in the parish register, as a witness to the marriage of Maria Lobbs
+name in the parish register, as a witness to the [[Marriage|marriage]] of [[Maria]] Lobbs
 to her cousin; and it also appears, by reference to other documents,
-that on the night of the wedding he was incarcerated in the village
+that on the [[Night|night]] of the wedding he was incarcerated in the village
 cage, for having, in a state of extreme intoxication, committed sundry
 excesses in the streets, in all of which he was aided and abetted by the
 bony apprentice with the thin legs.’

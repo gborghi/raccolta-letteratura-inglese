@@ -25,11 +25,11 @@ supposed) the flinty and hypocritical character of Mr Riah. She often
 moralized over her work on the tricks and the manners of that venerable
 cheat, but made her little purchases elsewhere, and lived a secluded
 life. After much consultation with herself, she decided not to put
-Lizzie Hexam on her guard against the old man, arguing that the
+[[Lizzie Hexam]] on her guard against the old man, arguing that the
 disappointment of finding him out would come upon her quite soon enough.
 Therefore, in her communication with her friend by letter, she was
 silent on this theme, and principally dilated on the backslidings of her
-bad child, who every day grew worse and worse.
+bad [[Child|child]], who every day grew worse and worse.
 
 ‘You wicked old boy,’ Miss Wren would say to him, with a menacing
 forefinger, ‘you’ll force me to run away from you, after all, you will;
@@ -38,21 +38,21 @@ pieces!’
 
 At this foreshadowing of a desolate decease, the wicked old boy would
 whine and whimper, and would sit shaking himself into the lowest of low
-spirits, until such time as he could shake himself out of the house and
+spirits, until such [[Time|time]] as he could shake himself out of the [[house]] and
 shake another threepennyworth into himself. But dead drunk or dead
 sober (he had come to such a pass that he was least alive in the latter
-state), it was always on the conscience of the paralytic scarecrow that
+state), it was always on the [[Conscience|conscience]] of the paralytic scarecrow that
 he had betrayed his sharp parent for sixty threepennyworths of rum,
 which were all gone, and that her sharpness would infallibly detect his
 having done it, sooner or later. All things considered therefore, and
-addition made of the state of his body to the state of his mind, the bed
-on which Mr Dolls reposed was a bed of roses from which the flowers
-and leaves had entirely faded, leaving him to lie upon the thorns and
+addition made of the state of his [[Body|body]] to the state of his mind, the bed
+on which Mr Dolls reposed was a bed of roses from which the [[Flowers|flowers]]
+and [[Leaves|leaves]] had entirely faded, leaving him to lie upon the thorns and
 stalks.
 
-On a certain day, Miss Wren was alone at her work, with the house-door
+On a certain day, Miss Wren was [[Alone|alone]] at her work, with the [[house]]-door
 set open for coolness, and was trolling in a small sweet voice a
-mournful little song which might have been the song of the doll she was
+mournful little [[Song|song]] which might have been the [[Song|song]] of the doll she was
 dressing, bemoaning the brittleness and meltability of wax, when whom
 should she descry standing on the pavement, looking in at her, but Mr
 Fledgeby.
@@ -63,10 +63,10 @@ Fledgeby.
 Quite a coincidence. You’re not mistaken, and I’m not mistaken. How
 clever we are!’
 
-‘Well, and how are you?’ said Fledgeby.
+‘[[Well]], and how are you?’ said Fledgeby.
 
 ‘I am pretty much as usual, sir,’ replied Miss Wren. ‘A very unfortunate
-parent, worried out of my life and senses by a very bad child.’
+parent, worried out of my life and senses by a very bad [[Child|child]].’
 
 Fledgeby’s small eyes opened so wide that they might have passed for
 ordinary-sized eyes, as he stared about him for the very young person
@@ -74,7 +74,7 @@ whom he supposed to be in question.
 
 ‘But you’re not a parent,’ said Miss Wren, ‘and consequently it’s of no
 use talking to you upon a family subject.—To what am I to attribute the
-honour and favour?’
+[[Honour|honour]] and favour?’
 
 ‘To a wish to improve your acquaintance,’ Mr Fledgeby replied.
 
@@ -85,7 +85,7 @@ Miss Wren, stopping to bite her thread, looked at him very knowingly.
 ‘No,’ said Miss Wren, chopping off the word.
 
 ‘So I had a mind,’ pursued Fledgeby, ‘to come and have a talk with you
-about our dodging friend, the child of Israel.’
+about our dodging friend, the [[Child|child]] of Israel.’
 
 ‘So HE gave you my address; did he?’ asked Miss Wren.
 
@@ -101,7 +101,7 @@ her art was being exercised, ‘done interceding with him yet?’
 
 ‘No,’ said Fledgeby, shaking his head.
 
-‘La! Been interceding with him all this time, and sticking to him
+‘La! Been interceding with him all this [[Time|time]], and sticking to him
 still?’ said Miss Wren, busy with her work.
 
 ‘Sticking to him is the word,’ said Fledgeby.
@@ -124,7 +124,7 @@ not absolutely in either service, but was almost in both.
 
 ‘Oh!’ assented Jenny, screwing up her mouth with an appearance of
 conviction. ‘Yes, to be sure! That accounts for your having so much
-time to give to interceding. But only to think how kind and friendly a
+[[Time|time]] to give to interceding. But only to think how kind and friendly a
 gentleman you must be!’
 
 Mr Fledgeby found that he was skating round a board marked Dangerous,
@@ -146,7 +146,7 @@ knows where she is gone.’
 ‘Cannot undertake to say, sir, really,’ replied Miss Wren.
 
 The quaint little chin met Mr Fledgeby’s gaze with such a baffling
-hitch, that that agreeable gentleman was for some time at a loss how to
+hitch, that that agreeable gentleman was for some [[Time|time]] at a loss how to
 resume his fascinating part in the dialogue. At length he said:
 
 ‘Miss Jenny!—That’s your name, if I don’t mistake?’
@@ -175,7 +175,7 @@ silk.
 appearance of so doing. ‘Another touch of blue in your trimming, my
 dear.’
 
-‘Well, look here,’ said Fledgeby, rather discouraged by the
+‘[[Well]], look here,’ said Fledgeby, rather discouraged by the
 circumstances under which he found himself pursuing the conversation.
 ‘If you’re attending—’
 
@@ -193,10 +193,10 @@ Eyes, that I don’t notice your answering for Pubsey and Co. after all!
 Little Eyes, Little Eyes, you’re too cunning by half.’
 
 ‘And I take it for granted,’ pursued Fledgeby, ‘that to get the most of
-your materials for nothing would be well worth your while, Miss Jenny?’
+your materials for nothing would be [[Well|well]] worth your while, Miss Jenny?’
 
 ‘You may take it for granted,’ returned the dressmaker with many knowing
-nods, ‘that it’s always well worth my while to make money.’
+nods, ‘that it’s always [[Well|well]] worth my while to make money.’
 
 ‘Now,’ said Fledgeby approvingly, ‘you’re answering to a sensible
 purpose. Now, you’re coming out and looking alive! So I make so free,
@@ -240,7 +240,7 @@ tautology here—‘that it should be kept from me, what he has done with
 her. So I put it to you, who know: What HAS he done with her? I ask no
 more. And is that asking much, when you understand that it will pay?’
 
-Miss Jenny Wren, who had cast her eyes upon the bench again after her
+Miss [[Jenny Wren]], who had cast her eyes upon the bench again after her
 last interruption, sat looking at it, needle in hand but not working,
 for some moments. She then briskly resumed her work, and said with a
 sidelong glance of her eyes and chin at Mr Fledgeby:
@@ -249,13 +249,13 @@ sidelong glance of her eyes and chin at Mr Fledgeby:
 
 ‘Albany, Piccadilly,’ replied Fledgeby.
 
-‘When are you at home?’
+‘When are you at [[Home|home]]?’
 
 ‘When you like.’
 
-‘Breakfast-time?’ said Jenny, in her abruptest and shortest manner.
+‘Breakfast-[[Time|time]]?’ said Jenny, in her abruptest and shortest manner.
 
-‘No better time in the day,’ said Fledgeby.
+‘No better [[Time|time]] in the day,’ said Fledgeby.
 
 ‘I’ll look in upon you to-morrow, young man. Those two ladies,’ pointing
 to dolls, ‘have an appointment in Bond Street at ten precisely. When
@@ -276,7 +276,7 @@ Good-day, Miss Jenny.’
 Mr Fledgeby’s prepossessing form withdrew itself; and the little
 dressmaker, clipping and snipping and stitching, and stitching and
 snipping and clipping, fell to work at a great rate; musing and
-muttering all the time.
+muttering all the [[Time|time]].
 
 ‘Misty, misty, misty. Can’t make it out. Little Eyes and the wolf in a
 conspiracy? Or Little Eyes and the wolf against one another? Can’t make
@@ -298,7 +298,7 @@ eyes towards him, there is no adequate name. Moreover it was her habit
 to shake her head at that wretched old boy whenever she caught his eye
 as he shivered and shook. What are popularly called ‘the trembles’ being
 in full force upon him that evening, and likewise what are popularly
-called ‘the horrors,’ he had a very bad time of it; which was not
+called ‘the horrors,’ he had a very bad [[Time|time]] of it; which was not
 made better by his being so remorseful as frequently to moan ‘Sixty
 threepennorths.’ This imperfect sentence not being at all intelligible
 as a confession, but sounding like a Gargantuan order for a dram,
@@ -306,11 +306,11 @@ brought him into new difficulties by occasioning his parent to pounce
 at him in a more than usually snappish manner, and to overwhelm him with
 bitter reproaches.
 
-What was a bad time for Mr Dolls, could not fail to be a bad time for
+What was a bad [[Time|time]] for Mr Dolls, could not fail to be a bad [[Time|time]] for
 the dolls’ dressmaker. However, she was on the alert next morning, and
 drove to Bond Street, and set down the two ladies punctually, and then
 directed her equipage to conduct her to the Albany. Arrived at the
-doorway of the house in which Mr Fledgeby’s chambers were, she found a
+doorway of the [[house]] in which Mr Fledgeby’s chambers were, she found a
 lady standing there in a travelling dress, holding in her hand—of all
 things in the world—a gentleman’s hat.
 
@@ -328,7 +328,7 @@ the staircase, as if prepared to oppose her going up, by force. The
 lady being of a stature to stop her with a hand, and looking mightily
 determined, the dressmaker stood still.
 
-‘Well? Why do you listen?’ asked the lady.
+‘[[Well]]? Why do you listen?’ asked the lady.
 
 ‘I am not listening,’ said the dressmaker.
 
@@ -343,17 +343,17 @@ inquiring look.
 
 ‘Mr Fledgeby’s carpet, I dare say,’ replied the smiling lady.
 
-Miss Wren had a reasonably good eye for smiles, being well accustomed
+Miss Wren had a reasonably good eye for smiles, being [[Well|well]] accustomed
 to them on the part of her young friends, though their smiles mostly ran
-smaller than in nature. But she had never seen so singular a smile
+smaller than in [[Nature|nature]]. But she had never seen so singular a smile
 as that upon this lady’s face. It twitched her nostrils open in a
 remarkable manner, and contracted her lips and eyebrows. It was a smile
 of enjoyment too, though of such a fierce kind that Miss Wren thought
 she would rather not enjoy herself than do it in that way.
 
-‘Well!’ said the lady, watching her. ‘What now?’
+‘[[Well]]!’ said the lady, watching her. ‘What now?’
 
-‘I hope there’s nothing the matter!’ said the dressmaker.
+‘I [[Hope|hope]] there’s nothing the matter!’ said the dressmaker.
 
 ‘Where?’ inquired the lady.
 
@@ -398,7 +398,7 @@ Mary Axe!’
 With a gleam of new intelligence in her sharp face, the dolls’
 dressmaker pulled at Fledgeby’s bell. No one answered; but, from within
 the chambers, there proceeded a continuous spluttering sound of a highly
-singular and unintelligible nature.
+singular and unintelligible [[Nature|nature]].
 
 ‘Good gracious! Is Little Eyes choking?’ cried Miss Jenny.
 
@@ -407,19 +407,19 @@ door, and found it standing ajar. No one being visible on her opening it
 wider, and the spluttering continuing, she took the liberty of opening
 an inner door, and then beheld the extraordinary spectacle of Mr
 Fledgeby in a shirt, a pair of Turkish trousers, and a Turkish cap,
-rolling over and over on his own carpet, and spluttering wonderfully.
+[[rolling]] over and over on his own carpet, and spluttering wonderfully.
 
 ‘Oh Lord!’ gasped Mr Fledgeby. ‘Oh my eye! Stop thief! I am strangling.
-Fire! Oh my eye! A glass of water. Give me a glass of water. Shut the
+[[Fire]]! Oh my eye! A glass of [[Water|water]]. Give me a glass of [[Water|water]]. Shut the
 door. Murder! Oh Lord!’ And then rolled and spluttered more than ever.
 
-Hurrying into another room, Miss Jenny got a glass of water, and brought
+Hurrying into another room, Miss Jenny got a glass of [[Water|water]], and brought
 it for Fledgeby’s relief: who, gasping, spluttering, and rattling in his
-throat betweenwhiles, drank some water, and laid his head faintly on her
+throat betweenwhiles, drank some [[Water|water]], and laid his head faintly on her
 arm.
 
 ‘Oh my eye!’ cried Fledgeby, struggling anew. ‘It’s salt and snuff. It’s
-up my nose, and down my throat, and in my wind-pipe. Ugh! Ow! Ow! Ow!
+up my nose, and down my throat, and in my [[Wind|wind]]-pipe. Ugh! Ow! Ow! Ow!
 Ah—h—h—h!’ And here, crowing fearfully, with his eyes starting out of
 his head, appeared to be contending with every mortal disease incidental
 to poultry.
@@ -429,13 +429,13 @@ back, in a spasmodic way that caused the dressmaker to retreat to the
 wall. ‘Oh I smart so! Do put something to my back and arms, and legs and
 shoulders. Ugh! It’s down my throat again and can’t come up. Ow! Ow! Ow!
 Ah—h—h—h! Oh I smart so!’ Here Mr Fledgeby bounded up, and bounded
-down, and went rolling over and over again.
+down, and went [[rolling]] over and over again.
 
 The dolls’ dressmaker looked on until he rolled himself into a corner
 with his Turkish slippers uppermost, and then, resolving in the first
 place to address her ministration to the salt and snuff, gave him more
-water and slapped his back. But, the latter application was by no means
-a success, causing Mr Fledgeby to scream, and to cry out, ‘Oh my eye!
+[[Water|water]] and slapped his back. But, the latter application was by no means
+a [[success]], causing Mr Fledgeby to scream, and to cry out, ‘Oh my eye!
 don’t slap me! I’m covered with weales and I smart so!’
 
 However, he gradually ceased to choke and crow, saving at intervals,
@@ -472,7 +472,7 @@ up, he gave me the pieces for you, and I was to say, “With Mr Alfred
 Lammle’s compliments on his leaving England.”’ Miss Jenny said it with
 such spiteful satisfaction, and such a hitch of her chin and eyes as
 might have added to Mr Fledgeby’s miseries, if he could have noticed
-either, in his bodily pain with his hand to his head.
+either, in his bodily [[Pain|pain]] with his hand to his head.
 
 ‘Shall I go for the police?’ inquired Miss Jenny, with a nimble start
 towards the door.
@@ -498,11 +498,11 @@ Everywhere!’
 
 The busy little dressmaker quickly snipped the shirt away, and laid
 bare the results of as furious and sound a thrashing as even Mr Fledgeby
-merited. ‘You may well smart, young man!’ exclaimed Miss Jenny. And
+merited. ‘You may [[Well|well]] smart, young man!’ exclaimed Miss Jenny. And
 stealthily rubbed her little hands behind him, and poked a few exultant
-pokes with her two forefingers over the crown of his head.
+pokes with her two forefingers over the [[Crown|crown]] of his head.
 
-‘What do you think of vinegar and brown paper?’ inquired the suffering
+‘What do you think of vinegar and brown paper?’ inquired the [[Suffering|suffering]]
 Fledgeby, still rocking and moaning. ‘Does it look as if vinegar and
 brown paper was the sort of application?’
 
@@ -535,7 +535,7 @@ plasters with a judicious hand. She then went back to Mr Fledgeby, and
 stuck them all on him: Mr Fledgeby uttering a sharp howl as each was put
 in its place.
 
-‘There, young man!’ said the dolls’ dressmaker. ‘Now I hope you feel
+‘There, young man!’ said the dolls’ dressmaker. ‘Now I [[Hope|hope]] you feel
 pretty comfortable?’
 
 Apparently, Mr Fledgeby did not, for he cried by way of answer, ‘Oh—h
@@ -544,7 +544,7 @@ how I do smart!’
 Miss Jenny got his Persian gown upon him, extinguished his eyes
 crookedly with his Persian cap, and helped him to his bed: upon which he
 climbed groaning. ‘Business between you and me being out of the question
-to-day, young man, and my time being precious,’ said Miss Jenny then,
+to-day, young man, and my [[Time|time]] being precious,’ said Miss Jenny then,
 ‘I’ll make myself scarce. Are you comfortable now?’
 
 ‘Oh my eye!’ cried Mr Fledgeby. ‘No, I ain’t. Oh—h—h! how I do smart!’
@@ -554,6 +554,6 @@ room door, was Mr Fledgeby in the act of plunging and gambolling all
 over his bed, like a porpoise or dolphin in its native element. She then
 shut the bedroom door, and all the other doors, and going down stairs
 and emerging from the Albany into the busy streets, took omnibus for
-Saint Mary Axe: pressing on the road all the gaily-dressed ladies whom
-she could see from the window, and making them unconscious lay-figures
+Saint Mary Axe: pressing on the [[Road|road]] all the gaily-dressed ladies whom
+she could see from the [[Window|window]], and making them unconscious lay-figures
 for dolls, while she mentally cut them out and basted them.

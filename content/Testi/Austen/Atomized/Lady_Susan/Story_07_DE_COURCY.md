@@ -1,5 +1,5 @@
 ---
-title: "Lady Susan — DE COURCY."
+title: "[[Lady Susan]] — DE COURCY."
 author: "Austen"
 unitType: story
 parentWork: "Works/Lady-Susan-(Austen)"
@@ -54,7 +54,7 @@ choose to make herself and her family uneasy by apprehending an event
 
 which no one but herself, I can affirm, would ever have thought
 
-possible. To impute such a design to Lady Susan would be taking from
+possible. To impute such a design to [[Lady Susan]] would be taking from
 
 her every claim to that excellent understanding which her bitterest
 
@@ -70,7 +70,7 @@ a suspicion which cannot be more injurious to your own peace than to
 
 our understandings. I can have no other view in remaining with Lady
 
-Susan, than to enjoy for a short time (as you have yourself expressed
+Susan, than to enjoy for a short [[Time|time]] (as you have yourself expressed
 
 it) the conversation of a woman of high intellectual powers. If Mrs.
 
@@ -78,27 +78,27 @@ Vernon would allow something to my affection for herself and her
 
 husband in the length of my visit, she would do more justice to us all;
 
-but my sister is unhappily prejudiced beyond the hope of conviction
+but my sister is unhappily prejudiced beyond the [[Hope|hope]] of conviction
 
-against Lady Susan. From an attachment to her husband, which in itself
+against [[Lady Susan]]. From an attachment to her husband, which in itself
 
-does honour to both, she cannot forgive the endeavours at preventing
+does [[Honour|honour]] to both, she cannot forgive the endeavours at preventing
 
-their union, which have been attributed to selfishness in Lady Susan;
+their [[Union|union]], which have been attributed to selfishness in [[Lady Susan]];
 
-but in this case, as well as in many others, the world has most grossly
+but in this case, as [[Well|well]] as in many others, the world has most grossly
 
 injured that lady, by supposing the worst where the motives of her
 
-conduct have been doubtful. Lady Susan had heard something so
+conduct have been doubtful. [[Lady Susan]] had heard something so
 
 materially to the disadvantage of my sister as to persuade her that the
 
 happiness of Mr. Vernon, to whom she was always much attached, would be
 
-wholly destroyed by the marriage. And this circumstance, while it
+wholly destroyed by the [[Marriage|marriage]]. And this circumstance, while it
 
-explains the true motives of Lady Susan’s conduct, and removes all the
+explains the true motives of [[Lady Susan]]’s conduct, and removes all the
 
 blame which has been so lavished on her, may also convince us how
 
@@ -120,29 +120,29 @@ committing.
 
 I blame myself severely for having so easily believed the slanderous
 
-tales invented by Charles Smith to the prejudice of Lady Susan, as I am
+tales invented by Charles [[smith|Smith]] to the prejudice of [[Lady Susan]], as I am
 
 now convinced how greatly they have traduced her. As to Mrs.
 
-Mainwaring’s jealousy it was totally his own invention, and his account
+Mainwaring’s [[Jealousy|jealousy]] it was totally his own invention, and his account
 
-of her attaching Miss Mainwaring’s lover was scarcely better founded.
+of her attaching Miss Mainwaring’s [[Lover|lover]] was scarcely better founded.
 
 Sir James Martin had been drawn in by that young lady to pay her some
 
 attention; and as he is a man of fortune, it was easy to see _her_
 
-views extended to marriage. It is well known that Miss M. is absolutely
+views extended to [[Marriage|marriage]]. It is [[Well|well]] known that Miss M. is absolutely
 
 on the catch for a husband, and no one therefore can pity her for
 
 losing, by the superior attractions of another woman, the chance of
 
-being able to make a worthy man completely wretched. Lady Susan was far
+being able to make a worthy man completely wretched. [[Lady Susan]] was far
 
 from intending such a conquest, and on finding how warmly Miss
 
-Mainwaring resented her lover’s defection, determined, in spite of Mr.
+Mainwaring resented her [[Lover|lover]]’s defection, determined, in spite of Mr.
 
 and Mrs. Mainwaring’s most urgent entreaties, to leave the family. I
 
@@ -152,11 +152,11 @@ James, but her removing from Langford immediately on the discovery of
 
 his attachment, must acquit her on that article with any mind of common
 
-candour. You will, I am sure, my dear Sir, feel the truth of this, and
+candour. You will, I am sure, my dear Sir, feel the [[Truth|truth]] of this, and
 
 will hereby learn to do justice to the character of a very injured
 
-woman. I know that Lady Susan in coming to Churchhill was governed only
+woman. I know that [[Lady Susan]] in coming to Churchhill was governed only
 
 by the most honourable and amiable intentions; her prudence and economy
 
@@ -166,21 +166,21 @@ and her wish of obtaining my sister’s good opinion merits a better
 
 return than it has received. As a mother she is unexceptionable; her
 
-solid affection for her child is shown by placing her in hands where
+solid affection for her [[Child|child]] is shown by placing her in hands where
 
-her education will be properly attended to; but because she has not the
+her [[Education|education]] will be properly attended to; but because she has not the
 
 blind and weak partiality of most mothers, she is accused of wanting
 
 maternal tenderness. Every person of sense, however, will know how to
 
-value and commend her well-directed affection, and will join me in
+value and commend her [[Well|well]]-directed affection, and will join me in
 
-wishing that Frederica Vernon may prove more worthy than she has yet
+wishing that [[Frederica Vernon]] may prove more worthy than she has yet
 
 done of her mother’s tender care. I have now, my dear father, written
 
-my real sentiments of Lady Susan; you will know from this letter how
+my real sentiments of [[Lady Susan]]; you will know from this letter how
 
 highly I admire her abilities, and esteem her character; but if you are
 
@@ -228,7 +228,7 @@ congratulations; but, between ourselves, I must own it has only
 
 convinced _me_ of my brother’s having no _present_ intention of
 
-marrying Lady Susan, not that he is in no danger of doing so three
+marrying [[Lady Susan]], not that he is in no danger of doing so three
 
 months hence. He gives a very plausible account of her behaviour at
 
@@ -240,9 +240,9 @@ of intimacy subsisting between them, implied by the discussion of such
 
 a subject. I am sorry to have incurred his displeasure, but can expect
 
-nothing better while he is so very eager in Lady Susan’s justification.
+nothing better while he is so very eager in [[Lady Susan]]’s justification.
 
-He is very severe against me indeed, and yet I hope I have not been
+He is very severe against me indeed, and yet I [[Hope|hope]] I have not been
 
 hasty in my judgment of her. Poor woman! though I have reasons enough
 
@@ -258,7 +258,7 @@ attempt to run away. Why, or whither she intended to go, does not
 
 appear; but, as her situation seems to have been unexceptionable, it is
 
-a sad thing, and of course highly distressing to Lady Susan. Frederica
+a sad thing, and of course highly distressing to [[Lady Susan]]. Frederica
 
 must be as much as sixteen, and ought to know better; but from what her
 
@@ -266,7 +266,7 @@ mother insinuates, I am afraid she is a perverse girl. She has been
 
 sadly neglected, however, and her mother ought to remember it. Mr.
 
-Vernon set off for London as soon as she had determined what should be
+Vernon set off for [[London]] as soon as she had determined what should be
 
 done. He is, if possible, to prevail on Miss Summers to let Frederica
 
@@ -280,9 +280,9 @@ shrubbery with Reginald, calling forth all his tender feelings, I
 
 suppose, on this distressing occasion. She has been talking a great
 
-deal about it to me. She talks vastly well; I am afraid of being
+deal about it to me. She talks vastly [[Well|well]]; I am afraid of being
 
-ungenerous, or I should say, _too_ well to feel so very deeply; but I
+ungenerous, or I should say, _too_ [[Well|well]] to feel so very deeply; but I
 
 will not look for her faults; she may be Reginald’s wife! Heaven forbid
 
@@ -308,17 +308,17 @@ will _endeavour_ to submit to it. I am afraid I have often been too
 
 indulgent, but my poor Frederica’s temper could never bear opposition
 
-well: you must support and encourage me; you must urge the necessity of
+[[Well|well]]: you must support and encourage me; you must urge the necessity of
 
 reproof if you see me too lenient.” All this sounds very reasonable.
 
 Reginald is so incensed against the poor silly girl! Surely it is not
 
-to Lady Susan’s credit that he should be so bitter against her
+to [[Lady Susan]]’s credit that he should be so bitter against her
 
 daughter; his idea of her must be drawn from the mother’s description.
 
-Well, whatever may be his fate, we have the comfort of knowing that we
+[[Well]], whatever may be his fate, we have the comfort of knowing that we
 
 have done our utmost to save him. We must commit the event to a higher
 

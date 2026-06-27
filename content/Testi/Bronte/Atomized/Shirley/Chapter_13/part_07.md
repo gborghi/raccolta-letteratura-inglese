@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 13 (part 7)"
+title: "[[Shirley]] — Chapter 13 (part 7)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,7 +24,7 @@ He said nothing to that effect.
 
 
 
-"Very well; but she complains of being unemployed. She misses you."
+"Very [[Well|well]]; but she complains of being unemployed. She misses you."
 
 
 
@@ -34,13 +34,13 @@ every day."
 
 
 
-"She will ask if you sent your love; she is always particular on that
+"She will ask if you sent your [[Love|love]]; she is always particular on that
 
 point. You know she likes attention."
 
 
 
-"My best love--my very best. And say to her that whenever she has time
+"My best [[Love|love]]--my very best. And say to her that whenever she has [[Time|time]]
 
 to write me a little note I shall be glad to hear from her."
 
@@ -62,11 +62,11 @@ to write me a little note I shall be glad to hear from her."
 
 
 
-"Hortense will be ready to shed tears. She is tenderhearted on the
+"Hortense will be ready to shed [[Tears|tears]]. She is tenderhearted on the
 
 subject of her pupil; yet she reproaches you sometimes for obeying your
 
-uncle's injunctions too literally. Affection, like love, will be unjust
+uncle's injunctions too literally. Affection, like [[Love|love]], will be unjust
 
 now and then."
 
@@ -78,11 +78,11 @@ was troubled, and to her eyes she would have raised her handkerchief if
 
 she had dared. If she had dared, too, she would have declared how the
 
-very flowers in the garden of Hollow's Cottage were dear to her; how the
+very [[Flowers|flowers]] in the [[Garden|garden]] of Hollow's Cottage were dear to her; how the
 
-little parlour of that house was her earthly paradise; how she longed to
+little parlour of that [[house]] was her earthly paradise; how she longed to
 
-return to it, as much almost as the first woman, in her exile, must have
+return to it, as much almost as the first woman, in her [[Exile|exile]], must have
 
 longed to revisit Eden. Not daring, however, to say these things, she
 
@@ -94,7 +94,7 @@ since his voice had addressed her; could she, with any show of
 
 probability, even of possibility, have imagined that the meeting gave
 
-him pleasure, to her it would have given deep bliss. Yet, even in doubt
+him pleasure, to her it would have given deep bliss. Yet, even in [[Doubt|doubt]]
 
 that it pleased, in dread that it might annoy him, she received the
 
@@ -126,7 +126,7 @@ attitude are the best means of averting bloodshed."
 
 He then inquired if she had observed some particular paragraph, to which
 
-she replied in the negative, and he rose to show it to her. He continued
+she replied in the negative, and he [[Rose|rose]] to show it to her. He continued
 
 the conversation standing before her. From the tenor of what he said, it
 
@@ -146,9 +146,9 @@ details to themselves, unimportuned by the curiosity of their listeners.
 
 Miss Keeldar, in speaking to Mr. Moore, took a tone at once animated and
 
-dignified, confidential and self-respecting. When, however, the candles
+dignified, confidential and [[Self|self]]-respecting. When, however, the candles
 
-were brought in, and the fire was stirred up, and the fullness of light
+were brought in, and the [[Fire|fire]] was stirred up, and the fullness of light
 
 thus produced rendered the expression of her countenance legible, you
 
@@ -168,11 +168,11 @@ now and then, though involuntarily and unintentionally, bore down by
 
 some peremptory phrase or tone the mellow accents and susceptible, if
 
-high, nature of Shirley. Miss Keeldar looked happy in conversing with
+high, [[Nature|nature]] of [[Shirley]]. Miss Keeldar looked happy in conversing with
 
 him, and her joy seemed twofold--a joy of the past and present, of
 
-memory and of hope.
+[[Memory|memory]] and of [[Hope|hope]].
 
 
 
@@ -194,11 +194,11 @@ banquet.
 
 
 
-The clock struck nine; it was Caroline's time for going home. She
+The [[Clock|clock]] struck nine; it was Caroline's [[Time|time]] for going [[Home|home]]. She
 
 gathered up her work, put the embroidery, the scissors, the thimble into
 
-her bag. She bade Mrs. Pryor a quiet good-night, receiving from that
+her bag. She bade Mrs. Pryor a quiet good-[[Night|night]], receiving from that
 
 lady a warmer pressure of the hand than usual. She stepped up to Miss
 
@@ -206,11 +206,11 @@ Keeldar.
 
 
 
-"Good-night, Shirley!"
+"Good-[[Night|night]], [[Shirley]]!"
 
 
 
-Shirley started up. "What! so soon? Are you going already?"
+[[Shirley]] started up. "What! so soon? Are you going already?"
 
 
 
@@ -218,9 +218,9 @@ Shirley started up. "What! so soon? Are you going already?"
 
 
 
-"I never heard the clock. You will come again to-morrow, and you will be
+"I never heard the [[Clock|clock]]. You will come again to-morrow, and you will be
 
-happy to-night, will you not? Remember our plans."
+happy to-[[Night|night]], will you not? Remember our plans."
 
 
 
@@ -244,13 +244,13 @@ indicated.
 
 
 
-"Good-night!" she said, shaking like a leaf, offering her thin hand
+"Good-[[Night|night]]!" she said, shaking like a leaf, offering her thin hand
 
 hastily, anxious to part from him quickly.
 
 
 
-"You are going home?" he asked, not touching her hand.
+"You are going [[Home|home]]?" he asked, not touching her hand.
 
 
 
@@ -266,6 +266,6 @@ hastily, anxious to part from him quickly.
 
 
 
-"I may as well accompany you a step of the way; not up to the rectory,
+"I may as [[Well|well]] accompany you a step of the way; not up to the rectory,
 
-though, lest my old friend Helstone should shoot me from the window."
+though, lest my old friend Helstone should shoot me from the [[Window|window]]."

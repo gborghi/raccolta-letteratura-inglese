@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 19 (part 3)"
+title: "[[Shirley]] — Chapter 19 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -24,11 +24,11 @@ tread. They were gone.
 
 
 
-Shirley stood erect, looked over the wall, along the road.
+[[Shirley]] stood erect, looked over the wall, along the [[Road|road]].
 
 
 
-"Not a soul remains," she said.
+"Not a [[Soul|soul]] remains," she said.
 
 
 
@@ -50,11 +50,11 @@ They have passed us by that they may make sure of others."
 
 
 
-"They have done well," returned Shirley, with composure. "The others
+"They have done [[Well|well]]," returned [[Shirley]], with composure. "The others
 
 will defend themselves. They can do it. They are prepared for them. With
 
-us it is otherwise. My finger was on the trigger of this pistol. I was
+us it is otherwise. My finger was on the trigger of this [[Pistol|pistol]]. I was
 
 quite ready to give that man, if he had entered, such a greeting as he
 
@@ -78,7 +78,7 @@ walk over to the Hollow."
 
 
 
-"To the Hollow, Shirley?"
+"To the Hollow, [[Shirley]]?"
 
 
 
@@ -90,7 +90,7 @@ walk over to the Hollow."
 
 
 
-"They have taken the highway; we should not encounter them. The road
+"They have taken the highway; we should not encounter them. The [[Road|road]]
 
 over the fields is as safe, silent, and solitary as a path through the
 
@@ -104,7 +104,7 @@ wished or was prepared to go, or, indeed, was otherwise than scared at
 
 the prospect of going, but because she felt she could not abandon
 
-Shirley.
+[[Shirley]].
 
 
 
@@ -120,7 +120,7 @@ behind us. Do you know what we are going for, Cary?"
 
 "Is that all? And are you so obedient to a mere caprice of mine? What a
 
-docile wife you would make to a stern husband! The moon's face is not
+docile wife you would make to a stern husband! The [[Moon|moon]]'s face is not
 
 whiter than yours at this moment, and the aspen at the gate does not
 
@@ -136,23 +136,23 @@ effort to warn him of what is coming."
 
 
 
-"To be sure! I am a blind, weak fool, and you are acute and sensible,
+"To be sure! I am a blind, weak [[Fool|fool]], and you are acute and sensible,
 
-Shirley. I will go with you; I will gladly go with you!"
-
-
-
-"I do not doubt it. You would die blindly and meekly for me, but you
-
-would intelligently and gladly die for Moore. But, in truth, there is no
-
-question of death to-night; we run no risk at all."
+[[Shirley]]. I will go with you; I will gladly go with you!"
 
 
 
-Caroline rapidly closed shutter and lattice. "Do not fear that I shall
+"I do not [[Doubt|doubt]] it. You would die blindly and meekly for me, but you
 
-not have breath to run as fast as you can possibly run, Shirley. Take my
+would intelligently and gladly die for Moore. But, in [[Truth|truth]], there is no
+
+question of [[Death|death]] to-[[Night|night]]; we run no risk at all."
+
+
+
+Caroline rapidly closed shutter and lattice. "Do not [[Fear|fear]] that I shall
+
+not have breath to run as fast as you can possibly run, [[Shirley]]. Take my
 
 hand. Let us go straight across the fields."
 
@@ -162,29 +162,29 @@ hand. Let us go straight across the fields."
 
 
 
-"To-night I can."
+"To-[[Night|night]] I can."
 
 
 
 "You are afraid of hedges, and the beck which we shall be forced to
 
-cross?"
+[[Cross|cross]]?"
 
 
 
-"I can cross it."
+"I can [[Cross|cross]] it."
 
 
 
 They started; they ran. Many a wall checked but did not baffle them.
 
-Shirley was surefooted and agile; she could spring like a deer when she
+[[Shirley]] was surefooted and agile; she could [[spring]] like a deer when she
 
 chose. Caroline, more timid and less dexterous, fell once or twice, and
 
-bruised herself; but she rose again directly, saying she was not hurt. A
+bruised herself; but she [[Rose|rose]] again directly, saying she was not hurt. A
 
-quickset hedge bounded the last field; they lost time in seeking a gap
+quickset hedge bounded the last field; they lost [[Time|time]] in seeking a gap
 
 in it. The aperture, when found, was narrow, but they worked their way
 
@@ -192,13 +192,13 @@ through. The long hair, the tender skin, the silks and the muslins
 
 suffered; but what was chiefly regretted was the impediment this
 
-difficulty had caused to speed. On the other side they met the beck,
+difficulty had caused to [[Speed|speed]]. On the other side they met the beck,
 
 flowing deep in a rough bed. At this point a narrow plank formed the
 
-only bridge across it. Shirley had trodden the plank successfully and
+only bridge across it. [[Shirley]] had trodden the plank successfully and
 
-fearlessly many a time before; Caroline had never yet dared to risk the
+fearlessly many a [[Time|time]] before; Caroline had never yet dared to risk the
 
 transit.
 
@@ -216,13 +216,13 @@ squeeze compressed her hand. Caroline, without pausing, trod forward on
 
 the trembling plank as if it were a continuation of the firm turf.
 
-Shirley, who followed, did not cross it more resolutely or safely. In
+[[Shirley]], who followed, did not [[Cross|cross]] it more resolutely or safely. In
 
-their present humour, on their present errand, a strong and foaming
+their present [[Humour|humour]], on their present errand, a strong and foaming
 
 channel would have been a barrier to neither. At the moment they were
 
-above the control either of fire or water. All Stilbro' Moor, alight and
+above the control either of [[Fire|fire]] or [[Water|water]]. All Stilbro' Moor, alight and
 
 aglow with bonfires, would not have stopped them, nor would Calder or
 
@@ -238,7 +238,7 @@ east and west.
 
 
 
-"I thought we were dead at the first explosion," observed Shirley,
+"I thought we were dead at the first explosion," observed [[Shirley]],
 
 drawing a long breath. "I felt myself hit in the temples, and I
 
@@ -256,11 +256,11 @@ A portion of the copse was now to clear. When they emerged from it the
 
 mill lay just below them. They could look down upon the buildings, the
 
-yard; they could see the road beyond. And the first glance in that
+yard; they could see the [[Road|road]] beyond. And the first glance in that
 
-direction told Shirley she was right in her conjecture. They were
+direction told [[Shirley]] she was right in her conjecture. They were
 
-already too late to give warning. It had taken more time than they
+already too late to give warning. It had taken more [[Time|time]] than they
 
 calculated on to overcome the various obstacles which embarrassed the
 
@@ -268,6 +268,6 @@ short cut across the fields.
 
 
 
-The road, which should have been white, was dark with a moving mass. The
+The [[Road|road]], which should have been white, was dark with a moving mass. The
 
 rioters were assembled in front of the closed yard gates, and a single

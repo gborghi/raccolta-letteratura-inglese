@@ -1,5 +1,5 @@
 ---
-title: "Mansfield Park — Chapter 39"
+title: "[[Mansfield Park]] — Chapter 39"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Mansfield-Park-(Austen)"
@@ -19,29 +19,29 @@ CHAPTER XXXIX
 
 Could Sir Thomas have seen all his niece’s feelings, when she wrote her
 first letter to her aunt, he would not have despaired; for though a
-good night’s rest, a pleasant morning, the hope of soon seeing William
-again, and the comparatively quiet state of the house, from Tom and
+good [[Night|night]]’s rest, a pleasant morning, the [[Hope|hope]] of soon seeing William
+again, and the comparatively quiet state of the [[house]], from Tom and
 Charles being gone to school, Sam on some project of his own, and her
 father on his usual lounges, enabled her to express herself cheerfully
-on the subject of home, there were still, to her own perfect
+on the subject of [[Home|home]], there were still, to her own perfect
 consciousness, many drawbacks suppressed. Could he have seen only half
 that she felt before the end of a week, he would have thought Mr.
 Crawford sure of her, and been delighted with his own sagacity.
 
 Before the week ended, it was all disappointment. In the first place,
-William was gone. The Thrush had had her orders, the wind had changed,
+William was gone. The Thrush had had her orders, the [[Wind|wind]] had changed,
 and he was sailed within four days from their reaching Portsmouth; and
 during those days she had seen him only twice, in a short and hurried
 way, when he had come ashore on duty. There had been no free
 conversation, no walk on the ramparts, no visit to the dockyard, no
 acquaintance with the Thrush, nothing of all that they had planned and
 depended on. Everything in that quarter failed her, except William’s
-affection. His last thought on leaving home was for her. He stepped
+affection. His last thought on leaving [[Home|home]] was for her. He stepped
 back again to the door to say, “Take care of Fanny, mother. She is
 tender, and not used to rough it like the rest of us. I charge you,
 take care of Fanny.”
 
-William was gone: and the home he had left her in was, Fanny could not
+William was gone: and the [[Home|home]] he had left her in was, Fanny could not
 conceal it from herself, in almost every respect the very reverse of
 what she could have wished. It was the abode of noise, disorder, and
 impropriety. Nobody was in their right place, nothing was done as it
@@ -62,16 +62,16 @@ much, and found almost nothing. Every flattering scheme of being of
 consequence to her soon fell to the ground. Mrs. Price was not unkind;
 but, instead of gaining on her affection and confidence, and becoming
 more and more dear, her daughter never met with greater kindness from
-her than on the first day of her arrival. The instinct of nature was
+her than on the first day of her arrival. The instinct of [[Nature|nature]] was
 soon satisfied, and Mrs. Price’s attachment had no other source. Her
-heart and her time were already quite full; she had neither leisure nor
+heart and her [[Time|time]] were already quite full; she had neither leisure nor
 affection to bestow on Fanny. Her daughters never had been much to her.
 She was fond of her sons, especially of William, but Betsey was the
 first of her girls whom she had ever much regarded. To her she was most
-injudiciously indulgent. William was her pride; Betsey her darling; and
-John, Richard, Sam, Tom, and Charles occupied all the rest of her
+injudiciously indulgent. William was her [[Pride|pride]]; Betsey her darling; and
+John, [[Richard]], Sam, Tom, and Charles occupied all the rest of her
 maternal solicitude, alternately her worries and her comforts. These
-shared her heart: her time was given chiefly to her house and her
+shared her heart: her [[Time|time]] was given chiefly to her [[house]] and her
 servants. Her days were spent in a kind of slow bustle; all was busy
 without getting on, always behindhand and lamenting it, without
 altering her ways; wishing to be an economist, without contrivance or
@@ -79,28 +79,28 @@ regularity; dissatisfied with her servants, without skill to make them
 better, and whether helping, or reprimanding, or indulging them,
 without any power of engaging their respect.
 
-Of her two sisters, Mrs. Price very much more resembled Lady Bertram
+Of her two sisters, Mrs. Price very much more resembled Lady [[Bertram]]
 than Mrs. Norris. She was a manager by necessity, without any of Mrs.
 Norris’s inclination for it, or any of her activity. Her disposition
-was naturally easy and indolent, like Lady Bertram’s; and a situation
+was naturally easy and indolent, like Lady [[Bertram]]’s; and a situation
 of similar affluence and do-nothingness would have been much more
-suited to her capacity than the exertions and self-denials of the one
-which her imprudent marriage had placed her in. She might have made
-just as good a woman of consequence as Lady Bertram, but Mrs. Norris
+suited to her capacity than the exertions and [[Self|self]]-denials of the one
+which her imprudent [[Marriage|marriage]] had placed her in. She might have made
+just as good a woman of consequence as Lady [[Bertram]], but Mrs. Norris
 would have been a more respectable mother of nine children on a small
 income.
 
 Much of all this Fanny could not but be sensible of. She might scruple
 to make use of the words, but she must and did feel that her mother was
 a partial, ill-judging parent, a dawdle, a slattern, who neither taught
-nor restrained her children, whose house was the scene of mismanagement
+nor restrained her children, whose [[house]] was the scene of mismanagement
 and discomfort from beginning to end, and who had no talent, no
 conversation, no affection towards herself; no curiosity to know her
-better, no desire of her friendship, and no inclination for her company
+better, no [[Desire|desire]] of her [[Friendship|friendship]], and no inclination for her company
 that could lessen her sense of such feelings.
 
-Fanny was very anxious to be useful, and not to appear above her home,
-or in any way disqualified or disinclined, by her foreign education,
+Fanny was very anxious to be useful, and not to appear above her [[Home|home]],
+or in any way disqualified or disinclined, by her foreign [[Education|education]],
 from contributing her help to its comforts, and therefore set about
 working for Sam immediately; and by working early and late, with
 perseverance and great despatch, did so much that the boy was shipped
@@ -119,15 +119,15 @@ as many years as they were his juniors distant from that age of feeling
 and reason, which might suggest the expediency of making friends, and
 of endeavouring to be less disagreeable. Their sister soon despaired of
 making the smallest impression on _them_; they were quite untameable by
-any means of address which she had spirits or time to attempt. Every
-afternoon brought a return of their riotous games all over the house;
+any means of address which she had spirits or [[Time|time]] to attempt. Every
+afternoon brought a return of their riotous games all over the [[house]];
 and she very early learned to sigh at the approach of Saturday’s
 constant half-holiday.
 
-Betsey, too, a spoiled child, trained up to think the alphabet her
+Betsey, too, a spoiled [[Child|child]], trained up to think the alphabet her
 greatest enemy, left to be with the servants at her pleasure, and then
 encouraged to report any evil of them, she was almost as ready to
-despair of being able to love or assist; and of Susan’s temper she had
+[[Despair|despair]] of being able to [[Love|love]] or assist; and of Susan’s temper she had
 many doubts. Her continual disagreements with her mother, her rash
 squabbles with Tom and Charles, and petulance with Betsey, were at
 least so distressing to Fanny that, though admitting they were by no
@@ -135,8 +135,8 @@ means without provocation, she feared the disposition that could push
 them to such length must be far from amiable, and from affording any
 repose to herself.
 
-Such was the home which was to put Mansfield out of her head, and teach
-her to think of her cousin Edmund with moderated feelings. On the
+Such was the [[Home|home]] which was to put Mansfield out of her head, and teach
+her to think of her cousin [[Edmund]] with moderated feelings. On the
 contrary, she could think of nothing but Mansfield, its beloved
 inmates, its happy ways. Everything where she now was in full contrast
 to it. The elegance, propriety, regularity, harmony, and perhaps, above
@@ -153,10 +153,10 @@ of cheerful orderliness; everybody had their due importance;
 everybody’s feelings were consulted. If tenderness could be ever
 supposed wanting, good sense and good breeding supplied its place; and
 as to the little irritations sometimes introduced by aunt Norris, they
-were short, they were trifling, they were as a drop of water to the
+were short, they were trifling, they were as a drop of [[Water|water]] to the
 ocean, compared with the ceaseless tumult of her present abode. Here
 everybody was noisy, every voice was loud (excepting, perhaps, her
-mother’s, which resembled the soft monotony of Lady Bertram’s, only
+mother’s, which resembled the soft monotony of Lady [[Bertram]]’s, only
 worn into fretfulness). Whatever was wanted was hallooed for, and the
 servants hallooed out their excuses from the kitchen. The doors were in
 constant banging, the stairs were never at rest, nothing was done

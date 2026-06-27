@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 31 (part 3)"
+title: "[[Nicholas Nickleby]] — Chapter 31 (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 ‘There,’ said Newman, picking up his hat; ‘that’s done me good. Now I’m
 better, and I’ll tell you all about it.’
 
-It took some little time to reassure Miss La Creevy, who had been almost
+It took some little [[Time|time]] to reassure Miss La Creevy, who had been almost
 frightened out of her senses by this remarkable demonstration; but that
 done, Newman faithfully related all that had passed in the interview
 between Kate and her uncle, prefacing his narrative with a statement
@@ -27,12 +27,12 @@ secretly writing to Nicholas.
 
 Though little Miss La Creevy’s indignation was not so singularly
 displayed as Newman’s, it was scarcely inferior in violence and
-intensity. Indeed, if Ralph Nickleby had happened to make his appearance
-in the room at that moment, there is some doubt whether he would not
+intensity. Indeed, if [[Ralph Nickleby]] had happened to make his appearance
+in the room at that moment, there is some [[Doubt|doubt]] whether he would not
 have found Miss La Creevy a more dangerous opponent than even Newman
 Noggs himself.
 
-‘God forgive me for saying so,’ said Miss La Creevy, as a wind-up to all
+‘God forgive me for saying so,’ said Miss La Creevy, as a [[Wind|wind]]-up to all
 her expressions of anger, ‘but I really feel as if I could stick this
 into him with pleasure.’
 
@@ -58,7 +58,7 @@ Noggs, if you tell him all at once.’
 Newman left off rubbing his hands, and assumed a thoughtful look.
 
 ‘Depend upon it,’ said Miss La Creevy, earnestly, ‘if you are not very
-careful in breaking out the truth to him, he will do some violence upon
+careful in breaking out the [[Truth|truth]] to him, he will do some violence upon
 his uncle or one of these men that will bring some terrible calamity
 upon his own head, and grief and sorrow to us all.’
 
@@ -81,9 +81,9 @@ some demur, was conceded. They then consulted together on the safest and
 surest mode of communicating to him the circumstances which had rendered
 his presence necessary.
 
-‘He must have time to cool before he can possibly do anything,’ said
+‘He must have [[Time|time]] to cool before he can possibly do anything,’ said
 Miss La Creevy. ‘That is of the greatest consequence. He must not be
-told until late at night.’
+told until late at [[Night|night]].’
 
 ‘But he’ll be in town between six and seven this evening,’ replied
 Newman. ‘I can’t keep it from him when he asks me.’
@@ -94,8 +94,8 @@ midnight.’
 
 ‘Then he will come straight here,’ retorted Newman.
 
-‘So I suppose,’ observed Miss La Creevy; ‘but he won’t find me at home,
-for I’ll go straight to the city the instant you leave me, make up
+‘So I suppose,’ observed Miss La Creevy; ‘but he won’t find me at [[Home|home]],
+for I’ll go straight to the [[City|city]] the instant you leave me, make up
 matters with Mrs. Nickleby, and take her away to the theatre, so that he
 may not even know where his sister lives.’
 

@@ -1,5 +1,5 @@
 ---
-title: "queertrades — Chapter 6 (part 4)"
+title: "[[queertrades]] — Chapter 6 (part 4)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/queertrades-(Chesterton)"
@@ -20,9 +20,9 @@ enlighten you further about their ethics."
 "And may I ask," said Basil gloomily, "what it is that you
 propose to do?"
 
-"I propose, first of all," said Rupert, "to get into this house;
-secondly, to have a look at these nice young Oxford men; thirdly, to knock
-them down, bind them, gag them, and search the house."
+"I propose, first of all," said Rupert, "to get into this [[house]];
+secondly, to have a look at these nice young [[Oxford]] men; thirdly, to knock
+them down, bind them, gag them, and search the [[house]]."
 
 Basil stared indignantly for a few minutes.  Then he was shaken
 for an instant with one of his sudden laughs.
@@ -51,16 +51,16 @@ and a square, snub-nosed face.  He wore slippers and a sort of blazer
 of some incredible college purple.
 
 "This way," he said; "mind the steps by the staircase.
-This house is more crooked and old-fashioned than you would think
+This [[house]] is more crooked and old-fashioned than you would think
 from its snobbish exterior.  There are quite a lot of odd corners
 in the place really."
 
 "That," said Rupert, with a savage smile, "I can quite believe."
 
-We were by this time in the study or back parlour, used by
+We were by this [[Time|time]] in the study or back parlour, used by
 the young inhabitants as a sitting-room, an apartment littered
-with magazines and books ranging from Dante to detective stories.
-The other youth, who stood with his back to the fire smoking
+with magazines and books ranging from [[Dante]] to [[Detective|detective]] stories.
+The other youth, who stood with his back to the [[Fire|fire]] smoking
 a corncob, was big and burly, with dead brown hair brushed forward
 and a Norfolk jacket.  He was that particular type of man whose
 every feature and action is heavy and clumsy, and yet who is,
@@ -72,19 +72,19 @@ of science such as we.  I've half a mind to chuck my D.Sc. and
 turn minor poet."
 
 "Bosh," answered Grant.  "I never said a word against eminent men
-of science.  What I complain of is a vague popular philosophy
+of science.  What I complain of is a vague popular [[philosophy]]
 which supposes itself to be scientific when it is really nothing
 but a sort of new religion and an uncommonly nasty one.
 When people talked about the fall of man they knew they were
 talking about a mystery, a thing they didn't understand.
-Now that they talk about the survival of the fittest they think
+Now that they talk about the [[Survival|survival]] of the fittest they think
 they do understand it, whereas they have not merely no notion,
 they have an elaborately false notion of what the words mean.
 The Darwinian movement has made no difference to mankind,
-except that, instead of talking unphilosophically about philosophy,
+except that, instead of talking unphilosophically about [[philosophy]],
 they now talk unscientifically about science."
 
-"That is all very well," said the big young man, whose name appeared
+"That is all very [[Well|well]]," said the big young man, whose name appeared
 to be Burrows.  "Of course, in a sense, science, like mathematics
 or the violin, can only be perfectly understood by specialists.
 Still, the rudiments may be of public use.  Greenwood here,"
@@ -123,16 +123,16 @@ Rupert and Basil were both particularly strong, but so was Mr Burrows;
 how strong, we knew a second afterwards.  His head was held back
 by Rupert's arm, but a convulsive heave went over his whole frame.
 An instant after his head plunged forward like a bull's,
-and Rupert Grant was slung head over heels, a catherine wheel of legs,
+and Rupert Grant was slung head over heels, a catherine [[Wheel|wheel]] of legs,
 on the floor in front of him.  Simultaneously the bull's head butted
 Basil in the chest, bringing him also to the ground with a crash,
-and the monster, with a Berserker roar, leaped at me and knocked
+and the [[Monster|monster]], with a Berserker roar, leaped at me and knocked
 me into the corner of the room, smashing the waste-paper basket.
 The bewildered Greenwood sprang furiously to his feet.
 Basil did the same.  But they had the best of it now.
 
 Greenwood dashed to the bell and pulled it violently, sending peals
-through the great house.  Before I could get panting to my feet,
+through the [[Great House|great house]].  Before I could get panting to my feet,
 and before Rupert, who had been literally stunned for a few moments,
 could even lift his head from the floor, two footmen were in the room.
 Defeated even when we were in a majority, we were now outnumbered.

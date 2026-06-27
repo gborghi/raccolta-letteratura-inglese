@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 57"
+title: "[[Pride and Prejudice]] — Chapter 57"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -22,30 +22,30 @@ CHAPTER LVII.
 The discomposure of spirits which this extraordinary visit threw
 Elizabeth into could not be easily overcome; nor could she for many
 hours learn to think of it less than incessantly. Lady Catherine, it
-appeared, had actually taken the trouble of this journey from Rosings
+appeared, had actually taken the trouble of this [[Journey|journey]] from Rosings
 for the sole purpose of breaking off her supposed engagement with Mr.
 Darcy. It was a rational scheme, to be sure! but from what the report of
 their engagement could originate, Elizabeth was at a loss to imagine;
 till she recollected that _his_ being the intimate friend of Bingley,
-and _her_ being the sister of Jane, was enough, at a time when the
+and _her_ being the sister of Jane, was enough, at a [[Time|time]] when the
 expectation of one wedding made everybody eager for another, to supply
-the idea. She had not herself forgotten to feel that the marriage of her
+the idea. She had not herself forgotten to feel that the [[Marriage|marriage]] of her
 sister must bring them more frequently together. And her neighbours at
 Lucas Lodge, therefore, (for through their communication with the
 Collinses, the report, she concluded, had reached Lady Catherine,) had
 only set _that_ down as almost certain and immediate which _she_ had
-looked forward to as possible at some future time.
+looked forward to as possible at some future [[Time|time]].
 
 In revolving Lady Catherine’s expressions, however, she could not help
 feeling some uneasiness as to the possible consequence of her persisting
 in this interference. From what she had said of her resolution to
-prevent the marriage, it occurred to Elizabeth that she must meditate an
+prevent the [[Marriage|marriage]], it occurred to Elizabeth that she must meditate an
 application to her nephew; and how he might take a similar
 representation of the evils attached to a connection with her she dared
 not pronounce. She knew not the exact degree of his affection for his
 aunt, or his dependence on her judgment, but it was natural to suppose
 that he thought much higher of her Ladyship than _she_ could do; and it
-was certain, that in enumerating the miseries of a marriage with _one_
+was certain, that in enumerating the miseries of a [[Marriage|marriage]] with _one_
 whose immediate connections were so unequal to his own, his aunt would
 address him on his weakest side. With his notions of dignity, he would
 probably feel that the arguments, which to Elizabeth had appeared weak
@@ -53,7 +53,7 @@ and ridiculous, contained much good sense and solid reasoning.
 
 If he had been wavering before, as to what he should do, which had often
 seemed likely, the advice and entreaty of so near a relation might
-settle every doubt, and determine him at once to be as happy as dignity
+settle every [[Doubt|doubt]], and determine him at once to be as happy as dignity
 unblemished could make him. In that case he would return no more. Lady
 Catherine might see him in her way through town; and his engagement to
 Bingley of coming again to Netherfield must give way.
@@ -114,14 +114,14 @@ her eldest sister has resigned it; and the chosen partner of her fate
 may be reasonably looked up to as one of the most illustrious personages
 in this land.’ Can you possibly guess, Lizzy, who is meant by this?
 ‘This young gentleman is blessed, in a peculiar way, with everything the
-heart of mortal can most desire,--splendid property, noble kindred, and
+heart of mortal can most [[Desire|desire]],--splendid property, noble kindred, and
 extensive patronage. Yet, in spite of all these temptations, let me warn
 my cousin Elizabeth, and yourself, of what evils you may incur by a
 precipitate closure with this gentleman’s proposals, which, of course,
 you will be inclined to take immediate advantage of.’ Have you any idea,
 Lizzy, who this gentleman is? But now it comes out. ‘My motive for
 cautioning you is as follows:--We have reason to imagine that his aunt,
-Lady Catherine de Bourgh, does not look on the match with a friendly
+[[Lady Catherine de Bourgh]], does not look on the match with a friendly
 eye.’ _Mr. Darcy_, you see, is the man! Now, Lizzy, I think I _have_
 surprised you. Could he, or the Lucases, have pitched on any man, within
 the circle of our acquaintance, whose name would have given the lie more
@@ -137,28 +137,28 @@ little agreeable to her.
 
 “Oh, yes. Pray read on.”
 
-“‘After mentioning the likelihood of this marriage to her Ladyship last
-night, she immediately, with her usual condescension, expressed what she
+“‘After mentioning the likelihood of this [[Marriage|marriage]] to her Ladyship last
+[[Night|night]], she immediately, with her usual condescension, expressed what she
 felt on the occasion; when it became apparent, that, on the score of
 some family objections on the part of my cousin, she would never give
 her consent to what she termed so disgraceful a match. I thought it my
 duty to give the speediest intelligence of this to my cousin, that she
 and her noble admirer may be aware of what they are about, and not run
-hastily into a marriage which has not been properly sanctioned.’ Mr.
+hastily into a [[Marriage|marriage]] which has not been properly sanctioned.’ Mr.
 Collins, moreover, adds, ‘I am truly rejoiced that my cousin Lydia’s sad
-business has been so well hushed up, and am only concerned that their
-living together before the marriage took place should be so generally
+business has been so [[Well|well]] hushed up, and am only concerned that their
+living together before the [[Marriage|marriage]] took place should be so generally
 known. I must not, however, neglect the duties of my station, or refrain
 from declaring my amazement, at hearing that you received the young
-couple into your house as soon as they were married. It was an
+couple into your [[house]] as soon as they were married. It was an
 encouragement of vice; and had I been the rector of Longbourn, I should
 very strenuously have opposed it. You ought certainly to forgive them as
 a Christian, but never to admit them in your sight, or allow their
 names to be mentioned in your hearing.’ _That_ is his notion of
-Christian forgiveness! The rest of his letter is only about his dear
+Christian [[Forgiveness|forgiveness]]! The rest of his letter is only about his dear
 Charlotte’s situation, and his expectation of a young olive-branch. But,
 Lizzy, you look as if you did not enjoy it. You are not going to be
-_missish_, I hope, and pretend to be affronted at an idle report. For
+_missish_, I [[Hope|hope]], and pretend to be affronted at an idle report. For
 what do we live, but to make sport for our neighbours, and laugh at them
 in our turn?”
 
@@ -180,7 +180,7 @@ repeating it. Elizabeth had never been more at a loss to make her
 feelings appear what they were not. It was necessary to laugh when she
 would rather have cried. Her father had most cruelly mortified her by
 what he said of Mr. Darcy’s indifference; and she could do nothing but
-wonder at such a want of penetration, or fear that, perhaps, instead of
+[[Wonder|wonder]] at such a want of penetration, or [[Fear|fear]] that, perhaps, instead of
 his seeing too _little_, she might have fancied too _much_.
 
 

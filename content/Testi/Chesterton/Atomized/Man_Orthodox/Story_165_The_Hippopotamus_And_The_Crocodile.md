@@ -18,7 +18,7 @@ THE HIPPOPOTAMUS AND THE CROCODILE
 
 There is one central conception of the book of Job which
 literally makes it immortal, which will make it survive
-our modern time and our modern philosophies, as it has
+our modern [[Time|time]] and our modern philosophies, as it has
 survived many better times and many better philosophies.
 That is the conception that the universe, if it is to be admired,
 is to be admired for its strangeness and not for its rationality,
@@ -28,27 +28,27 @@ like the intellectuals of the eighteenth century.
 Job tries to comfort himself with philosophical pessimism,
 like the intellectuals of the nineteenth century.
 But God comforts Job with indecipherable mystery, and for the first
-time Job is comforted.  Eliphaz gives one answer, Job gives
+[[Time|time]] Job is comforted.  Eliphaz gives one answer, Job gives
 another answer, and the question still remains an open wound.
 God simply refuses to answer, and somehow the question is answered.
-Job flings at God one riddle, God flings back at Job a hundred riddles,
+Job flings at God one [[Riddle|riddle]], God flings back at Job a hundred riddles,
 and Job is at peace.  He is comforted with conundrums.
 For the grand and enduring idea in the poem, as suggested above,
 is that if we are to be reconciled to this great cosmic experience,
 it must be as something divinely strange and divinely violent,
-a quest or a conspiracy or some sacred joke.  The last chapters
+a [[Quest|quest]] or a conspiracy or some sacred joke.  The last chapters
 of the colossal monologue of the Almighty are devoted,
 in a style superficially queer enough, to the detailed description
 of two monsters.  Behemoth and Leviathan may or may not be
 the hippopotamus and the crocodile.  But whatever they are,
-they are evidently embodiments of the enormous absurdity of nature.
+they are evidently embodiments of the enormous absurdity of [[Nature|nature]].
 They typify that cosmic trait which anyone may see in the
 Zoological Gardens, the folly of the Lord which is wisdom.
 And in connection with one of them, God is made to utter a splendid
-satire upon the prim and orderly piety of the vulgar optimist.
+[[Satire|satire]] upon the prim and orderly piety of the vulgar optimist.
 `Wilt thou play with him as with a bird?  Wilt thou bind him
 for thy maidens?'  That is the main message of the book of Job.
-What ever this cosmic monster may be, a good animal or a
+What ever this cosmic [[Monster|monster]] may be, a good animal or a
 bad animal, he is at least a wild animal and not a tame animal.
 It is a wild world and not a tame world.
 

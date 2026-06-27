@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Good Miss Pross! As if the estrangement between them had come of any
+Good [[Miss Pross]]! As if the estrangement between them had come of any
 culpability of hers. As if Mr. Lorry had not known it for a fact, years
 ago, in the quiet corner in Soho, that this precious brother had spent
 her money and left her!
@@ -36,12 +36,12 @@ previously uttered a word.
 was more than he could do himself.) “John Solomon, or Solomon John? She
 calls you Solomon, and she must know, being your sister. And _I_ know
 you’re John, you know. Which of the two goes first? And regarding that
-name of Pross, likewise. That warn’t your name over the water.”
+name of Pross, likewise. That warn’t your name over the [[Water|water]].”
 
 “What do you mean?”
 
-“Well, I don’t know all I mean, for I can’t call to mind what your name
-was, over the water.”
+“[[Well]], I don’t know all I mean, for I can’t call to mind what your name
+was, over the [[Water|water]].”
 
 “No?”
 
@@ -51,36 +51,36 @@ was, over the water.”
 
 “Yes. T’other one’s was one syllable. I know you. You was a spy--witness
 at the Bailey. What, in the name of the Father of Lies, own father to
-yourself, was you called at that time?”
+yourself, was you called at that [[Time|time]]?”
 
 “Barsad,” said another voice, striking in.
 
 “That’s the name for a thousand pound!” cried Jerry.
 
-The speaker who struck in, was Sydney Carton. He had his hands behind
+The speaker who struck in, was [[Sydney Carton]]. He had his hands behind
 him under the skirts of his riding-coat, and he stood at Mr. Cruncher’s
 elbow as negligently as he might have stood at the Old Bailey itself.
 
-“Don’t be alarmed, my dear Miss Pross. I arrived at Mr. Lorry’s, to his
+“Don’t be alarmed, my dear [[Miss Pross]]. I arrived at Mr. Lorry’s, to his
 surprise, yesterday evening; we agreed that I would not present myself
-elsewhere until all was well, or unless I could be useful; I present
+elsewhere until all was [[Well|well]], or unless I could be useful; I present
 myself here, to beg a little talk with your brother. I wish you had a
 better employed brother than Mr. Barsad. I wish for your sake Mr. Barsad
 was not a Sheep of the Prisons.”
 
-Sheep was a cant word of the time for a spy, under the gaolers. The spy,
+Sheep was a cant word of the [[Time|time]] for a spy, under the gaolers. The spy,
 who was pale, turned paler, and asked him how he dared--
 
 “I’ll tell you,” said Sydney. “I lighted on you, Mr. Barsad, coming out
-of the prison of the Conciergerie while I was contemplating the walls,
+of the [[Prison|prison]] of the Conciergerie while I was contemplating the walls,
 an hour or more ago. You have a face to be remembered, and I remember
-faces well. Made curious by seeing you in that connection, and having
+faces [[Well|well]]. Made curious by seeing you in that connection, and having
 a reason, to which you are no stranger, for associating you with
 the misfortunes of a friend now very unfortunate, I walked in your
 direction. I walked into the wine-shop here, close after you, and
 sat near you. I had no difficulty in deducing from your unreserved
 conversation, and the rumour openly going about among your admirers, the
-nature of your calling. And gradually, what I had done at random, seemed
+[[Nature|nature]] of your calling. And gradually, what I had done at random, seemed
 to shape itself into a purpose, Mr. Barsad.”
 
 “What purpose?” the spy asked.
@@ -117,12 +117,12 @@ satisfaction. Do you go with me to the Bank?”
 “I’ll hear what you have got to say. Yes, I’ll go with you.”
 
 “I propose that we first conduct your sister safely to the corner of her
-own street. Let me take your arm, Miss Pross. This is not a good city,
-at this time, for you to be out in, unprotected; and as your escort
+own street. Let me take your arm, [[Miss Pross]]. This is not a good [[City|city]],
+at this [[Time|time]], for you to be out in, unprotected; and as your escort
 knows Mr. Barsad, I will invite him to Mr. Lorry’s with us. Are we
 ready? Come then!”
 
-Miss Pross recalled soon afterwards, and to the end of her life
+[[Miss Pross]] recalled soon afterwards, and to the end of her life
 remembered, that as she pressed her hands on Sydney’s arm and looked up
 in his face, imploring him to do no hurt to Solomon, there was a braced
 purpose in the arm and a kind of inspiration in the eyes, which not only
@@ -136,13 +136,13 @@ Lorry’s, which was within a few minutes’ walk. John Barsad, or Solomon
 Pross, walked at his side.
 
 Mr. Lorry had just finished his dinner, and was sitting before a cheery
-little log or two of fire--perhaps looking into their blaze for the
+little log or two of [[Fire|fire]]--perhaps looking into their blaze for the
 picture of that younger elderly gentleman from Tellson’s, who had looked
 into the red coals at the Royal George at Dover, now a good many years
 ago. He turned his head as they entered, and showed the surprise with
 which he saw a stranger.
 
-“Miss Pross’s brother, sir,” said Sydney. “Mr. Barsad.”
+“[[Miss Pross]]’s brother, sir,” said Sydney. “Mr. Barsad.”
 
 “Barsad?” repeated the old gentleman, “Barsad? I have an association
 with the name--and with the face.”

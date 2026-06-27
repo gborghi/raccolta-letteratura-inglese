@@ -19,12 +19,12 @@ with some general opinions upon young hussies as a race, and especially
 upon their demerits after being spoiled by Miss Dombey, withdrew to
 prepare the Nipper’s wages. Susan then bestirred herself to get her
 trunks in order, that she might take an immediate and dignified
-departure; sobbing heartily all the time, as she thought of Florence.
+departure; sobbing heartily all the [[Time|time]], as she thought of Florence.
 
 [Illustration]
 
 The object of her regret was not long in coming to her, for the news
-soon spread over the house that Susan Nipper had had a disturbance with
+soon spread over the [[house]] that [[Susan Nipper]] had had a disturbance with
 Mrs Pipchin, and that they had both appealed to Mr Dombey, and that
 there had been an unprecedented piece of work in Mr Dombey’s room, and
 that Susan was going. The latter part of this confused rumour, Florence
@@ -43,7 +43,7 @@ without you! Can you bear to go away so?”
 “No-n-o-o, my darling dear Miss Floy, I can’t indeed,” sobbed Susan.
 “But it can’t be helped, I’ve done my duty, Miss, I have indeed. It’s
 no fault of mine. I am quite resigned. I couldn’t stay my month or I
-could never leave you then my darling and I must at last as well as at
+could never leave you then my darling and I must at last as [[Well|well]] as at
 first, don’t speak to me Miss Floy, for though I’m pretty firm I’m not
 a marble doorpost, my own dear.”
 
@@ -60,8 +60,8 @@ With which entreaty, very heartily delivered, Susan hugged her mistress
 in her arms.
 
 “My darling there’s a many that may come to serve you and be glad to
-serve you and who’ll serve you well and true,” said Susan, “but there
-can’t be one who’ll serve you so affectionate as me or love you half as
+serve you and who’ll serve you [[Well|well]] and true,” said Susan, “but there
+can’t be one who’ll serve you so affectionate as me or [[Love|love]] you half as
 dearly, that’s my comfort. Go-ood-bye, sweet Miss Floy!”
 
 “Where will you go, Susan?” asked her weeping mistress.
@@ -74,7 +74,7 @@ another service just yet, which I couldn’t, couldn’t, couldn’t do, my
 heart’s own mistress!” Susan finished with a burst of sorrow, which was
 opportunely broken by the voice of Mrs Pipchin talking downstairs; on
 hearing which, she dried her red and swollen eyes, and made a
-melancholy feint of calling jauntily to Mr Towlinson to fetch a cab and
+[[Melancholy|melancholy]] feint of calling jauntily to Mr Towlinson to fetch a cab and
 carry down her boxes.
 
 Florence, pale and hurried and distressed, but withheld from useless
@@ -97,7 +97,7 @@ dinner—preserved her haughty face, and took not the least notice.
 system, and in recollection of the Mines, was accustomed to rout the
 servants about, as she had routed her young Brighton boarders; to the
 everlasting acidulation of Master Bitherstone, “and the sooner this
-house sees your back the better.”
+[[house]] sees your back the better.”
 
 Susan had no spirits even for the look that belonged to Ma Pipchin by
 right; so she dropped her curtsey to Mrs Dombey (who inclined her head
@@ -116,13 +116,13 @@ and Master is.”
 
 Quick as thought, Florence glided out and hastened downstairs, where Mr
 Toots, in the most splendid vestments, was breathing very hard with
-doubt and agitation on the subject of her coming.
+[[Doubt|doubt]] and agitation on the subject of her coming.
 
-“Oh, how de do, Miss Dombey,” said Mr Toots, “God bless my soul!”
+“Oh, how de do, Miss Dombey,” said Mr Toots, “God bless my [[Soul|soul]]!”
 
 This last ejaculation was occasioned by Mr Toots’s deep concern at the
 distress he saw in Florence’s face; which caused him to stop short in a
-fit of chuckles, and become an image of despair.
+fit of chuckles, and become an image of [[Despair|despair]].
 
 “Dear Mr Toots,” said Florence, “you are so friendly to me, and so
 honest, that I am sure I may ask a favour of you.”
@@ -132,6 +132,6 @@ you’ll—you’ll give me an appetite. To which,” said Mr Toots, with some
 sentiment, “I have long been a stranger.”
 
 “Susan, who is an old friend of mine, the oldest friend I have,” said
-Florence, “is about to leave here suddenly, and quite alone, poor girl.
-She is going home, a little way into the country. Might I ask you to
+Florence, “is about to leave here suddenly, and quite [[Alone|alone]], poor girl.
+She is going [[Home|home]], a little way into the country. Might I ask you to
 take care of her until she is in the coach?”

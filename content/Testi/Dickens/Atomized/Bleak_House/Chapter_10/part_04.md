@@ -1,5 +1,5 @@
 ---
-title: "Bleak House — Chapter 10 (part 4)"
+title: "Bleak [[house|House]] — Chapter 10 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Bleak-House-(Dickens)"
@@ -29,7 +29,7 @@ But Mr. Tulkinghorn does not go on to the Fields at present. He goes
 a short way, turns back, comes again to the shop of Mr. Krook, and
 enters it straight. It is dim enough, with a blot-headed candle or so
 in the windows, and an old man and a cat sitting in the back part by
-a fire. The old man rises and comes forward, with another blot-headed
+a [[Fire|fire]]. The old man rises and comes forward, with another blot-headed
 candle in his hand.
 
 “Pray is your lodger within?”
@@ -51,7 +51,7 @@ call him down? But it’s a weak chance if he’d come, sir!”
 “I’ll go up to him, then,” says Mr. Tulkinghorn.
 
 “Second floor, sir. Take the candle. Up there!” Mr. Krook, with his
-cat beside him, stands at the bottom of the staircase, looking after
+cat beside him, stands at the [[Bottom|bottom]] of the staircase, looking after
 Mr. Tulkinghorn. “Hi-hi!” he says when Mr. Tulkinghorn has nearly
 disappeared. The lawyer looks down over the hand-rail. The cat
 expands her wicked mouth and snarls at him.
@@ -72,19 +72,19 @@ accidentally extinguishes his candle in doing so.
 
 The air of the room is almost bad enough to have extinguished it if
 he had not. It is a small room, nearly black with soot, and grease,
-and dirt. In the rusty skeleton of a grate, pinched at the middle as
-if poverty had gripped it, a red coke fire burns low. In the corner
+and dirt. In the rusty [[skeleton]] of a grate, pinched at the middle as
+if [[Poverty|poverty]] had gripped it, a red coke [[Fire|fire]] burns low. In the corner
 by the chimney stand a deal table and a broken desk, a wilderness
 marked with a rain of ink. In another corner a ragged old portmanteau
 on one of the two chairs serves for cabinet or wardrobe; no larger
 one is needed, for it collapses like the cheeks of a starved man. The
 floor is bare, except that one old mat, trodden to shreds of
 rope-yarn, lies perishing upon the hearth. No curtain veils the
-darkness of the night, but the discoloured shutters are drawn
+darkness of the [[Night|night]], but the discoloured shutters are drawn
 together, and through the two gaunt holes pierced in them, famine
 might be staring in—the banshee of the man upon the bed.
 
-For, on a low bed opposite the fire, a confusion of dirty patchwork,
+For, on a low bed opposite the [[Fire|fire]], a confusion of dirty patchwork,
 lean-ribbed ticking, and coarse sacking, the lawyer, hesitating just
 within the doorway, sees a man. He lies there, dressed in shirt and
 trousers, with bare feet. He has a yellow look in the spectral
@@ -107,5 +107,5 @@ but his eyes are surely open.
 “Hallo, my friend!” he cries again. “Hallo! Hallo!”
 
 As he rattles on the door, the candle which has drooped so long goes
-out and leaves him in the dark, with the gaunt eyes in the shutters
+out and [[Leaves|leaves]] him in the dark, with the gaunt eyes in the shutters
 staring down upon the bed.

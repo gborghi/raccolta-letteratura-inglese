@@ -21,17 +21,17 @@ see?’ said Mr Meagles on this head. ‘As I always say to Mother, why
 not have something pretty to look at, if you have anything at all?’
 
 A certain Mrs Tickit, who was Cook and Housekeeper when the family were
-at home, and Housekeeper only when the family were away, completed the
-establishment. Mr Meagles regretted that the nature of the duties in
+at [[Home|home]], and Housekeeper only when the family were away, completed the
+establishment. Mr Meagles regretted that the [[Nature|nature]] of the duties in
 which she was engaged, rendered Mrs Tickit unpresentable at present,
 but hoped to introduce her to the new visitor to-morrow. She was an
 important part of the Cottage, he said, and all his friends knew her.
 That was her picture up in the corner. When they went away, she always
 put on the silk-gown and the jet-black row of curls represented in that
 portrait (her hair was reddish-grey in the kitchen), established herself
-in the breakfast-room, put her spectacles between two particular leaves
+in the breakfast-room, put her spectacles between two particular [[Leaves|leaves]]
 of Doctor Buchan’s Domestic Medicine, and sat looking over the blind all
-day until they came back again. It was supposed that no persuasion could
+day until they came back again. It was supposed that no [[Persuasion|persuasion]] could
 be invented which would induce Mrs Tickit to abandon her post at the
 blind, however long their absence, or to dispense with the attendance
 of Dr Buchan; the lucubrations of which learned practitioner, Mr Meagles
@@ -40,33 +40,33 @@ word in her life.
 
 In the evening they played an old-fashioned rubber; and Pet sat looking
 over her father’s hand, or singing to herself by fits and starts at the
-piano. She was a spoilt child; but how could she be otherwise? Who could
+piano. She was a spoilt [[Child|child]]; but how could she be otherwise? Who could
 be much with so pliable and beautiful a creature, and not yield to her
-endearing influence? Who could pass an evening in the house, and not
-love her for the grace and charm of her very presence in the room? This
+endearing influence? Who could pass an evening in the [[house]], and not
+[[Love|love]] her for the grace and charm of her very presence in the room? This
 was Clennam’s reflection, notwithstanding the final conclusion at which
 he had arrived up-stairs.
 
 In making it, he revoked. ‘Why, what are you thinking of, my good sir?’
 asked the astonished Mr Meagles, who was his partner. ‘I beg your
-pardon. Nothing,’ returned Clennam. ‘Think of something, next time;
+pardon. Nothing,’ returned Clennam. ‘Think of something, next [[Time|time]];
 that’s a dear fellow,’ said Mr Meagles. Pet laughingly believed he had
 been thinking of Miss Wade. ‘Why of Miss Wade, Pet?’ asked her father.
-‘Why, indeed!’ said Arthur Clennam. Pet coloured a little, and went to
+‘Why, indeed!’ said [[Arthur Clennam]]. Pet coloured a little, and went to
 the piano again.
 
-As they broke up for the night, Arthur overheard Doyce ask his host if
+As they broke up for the [[Night|night]], [[Arthur]] overheard Doyce ask his host if
 he could give him half an hour’s conversation before breakfast in the
-morning? The host replying willingly, Arthur lingered behind a moment,
+morning? The host replying willingly, [[Arthur]] lingered behind a moment,
 having his own word to add to that topic.
 
-‘Mr Meagles,’ he said, on their being left alone, ‘do you remember when
-you advised me to go straight to London?’
+‘Mr Meagles,’ he said, on their being left [[Alone|alone]], ‘do you remember when
+you advised me to go straight to [[London]]?’
 
-‘Perfectly well.’
+‘Perfectly [[Well|well]].’
 
 ‘And when you gave me some other good advice which I needed at that
-time?’
+[[Time|time]]?’
 
 ‘I won’t say what it was worth,’ answered Mr Meagles: ‘but of course I
 remember our being very pleasant and confidential together.’
@@ -93,7 +93,7 @@ likely to coincide, perhaps you will let him know my available position.
 I speak, of course, in ignorance of the details, and they may be
 unsuitable on both sides.’
 
-‘No doubt, no doubt,’ said Mr Meagles, with the caution belonging to the
+‘No [[Doubt|doubt]], no [[Doubt|doubt]],’ said Mr Meagles, with the caution belonging to the
 scales and scoop.
 
 ‘But they will be a question of figures and accounts--’
@@ -102,7 +102,7 @@ scales and scoop.
 belonging to the scales and scoop.
 
 ‘--And I shall be glad to enter into the subject, provided Mr Doyce
-responds, and you think well of it. If you will at present, therefore,
+responds, and you think [[Well|well]] of it. If you will at present, therefore,
 allow me to place it in your hands, you will much oblige me.’
 
 ‘Clennam, I accept the trust with readiness,’ said Mr Meagles. ‘And
@@ -117,12 +117,12 @@ you.’
 ‘You must guide him, you know; you must steer him; you must direct him;
 he is one of a crotchety sort,’ said Mr Meagles, evidently meaning
 nothing more than that he did new things and went new ways; ‘but he is
-as honest as the sun, and so good night!’
+as honest as the sun, and so good [[Night|night]]!’
 
-Clennam went back to his room, sat down again before his fire, and made
-up his mind that he was glad he had resolved not to fall in love with
+Clennam went back to his room, sat down again before his [[Fire|fire]], and made
+up his mind that he was glad he had resolved not to fall in [[Love|love]] with
 Pet. She was so beautiful, so amiable, so apt to receive any true
-impression given to her gentle nature and her innocent heart, and make
+impression given to her gentle [[Nature|nature]] and her [[Innocent|innocent]] heart, and make
 the man who should be so happy as to communicate it, the most fortunate
 and enviable of all men, that he was very glad indeed he had come to
 that conclusion.
@@ -133,19 +133,19 @@ justify himself, perhaps.
 
 ‘Suppose that a man,’ so his thoughts ran, ‘who had been of age some
 twenty years or so; who was a diffident man, from the circumstances of
-his youth; who was rather a grave man, from the tenor of his life; who
+his youth; who was rather a [[Grave|grave]] man, from the tenor of his life; who
 knew himself to be deficient in many little engaging qualities which
 he admired in others, from having been long in a distant region, with
 nothing softening near him; who had no kind sisters to present to her;
-who had no congenial home to make her known in; who was a stranger in
+who had no congenial [[Home|home]] to make her known in; who was a stranger in
 the land; who had not a fortune to compensate, in any measure, for
-these defects; who had nothing in his favour but his honest love and his
-general wish to do right--suppose such a man were to come to this house,
+these defects; who had nothing in his favour but his honest [[Love|love]] and his
+general wish to do right--suppose such a man were to come to this [[house]],
 and were to yield to the captivation of this charming girl, and were to
-persuade himself that he could hope to win her; what a weakness it would
+persuade himself that he could [[Hope|hope]] to win her; what a weakness it would
 be!’
 
-He softly opened his window, and looked out upon the serene river. Year
+He softly opened his [[Window|window]], and looked out upon the serene [[River|river]]. Year
 after year so much allowance for the drifting of the ferry-boat, so
 many miles an hour the flowing of the stream, here the rushes, there the
 lilies, nothing uncertain or unquiet.
@@ -154,5 +154,5 @@ Why should he be vexed or sore at heart? It was not his weakness that he
 had imagined. It was nobody’s, nobody’s within his knowledge; why should
 it trouble him? And yet it did trouble him. And he thought--who has not
 thought for a moment, sometimes?--that it might be better to flow away
-monotonously, like the river, and to compound for its insensibility to
-happiness with its insensibility to pain.
+monotonously, like the [[River|river]], and to compound for its insensibility to
+happiness with its insensibility to [[Pain|pain]].

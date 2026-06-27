@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 16 (part 2)"
+title: "[[Shirley]] — Chapter 16 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -42,7 +42,7 @@ and imperious brother. They let him lead and rule.
 
 This notable anniversary had always hitherto been a trying day to
 
-Caroline Helstone, because it dragged her perforce into public,
+[[Caroline Helstone]], because it dragged her perforce into public,
 
 compelling her to face all that was wealthy, respectable, influential in
 
@@ -66,27 +66,27 @@ approach of Whitsuntide.
 
 
 
-But this year Shirley was to be with her, and that changed the aspect of
+But this year [[Shirley]] was to be with her, and that changed the aspect of
 
 the trial singularly--it changed it utterly. It was a trial no
 
 longer--it was almost an enjoyment. Miss Keeldar was better in her
 
-single self than a host of ordinary friends. Quite self-possessed, and
+single [[Self|self]] than a host of ordinary friends. Quite [[Self|self]]-possessed, and
 
 always spirited and easy; conscious of her social importance, yet never
 
-presuming upon it--it would be enough to give one courage only to look
+presuming upon it--it would be enough to give one [[Courage|courage]] only to look
 
-at her. The only fear was lest the heiress should not be punctual to
+at her. The only [[Fear|fear]] was lest the heiress should not be punctual to
 
-tryst. She often had a careless way of lingering behind time, and
+tryst. She often had a careless way of lingering behind [[Time|time]], and
 
 Caroline knew her uncle would not wait a second for any one. At the
 
-moment of the church clock tolling two, the bells would clash out and
+moment of the church [[Clock|clock]] tolling two, [[The Bells|the bells]] would clash out and
 
-the march begin. She must look after Shirley, then, in this matter, or
+the march begin. She must look after [[Shirley]], then, in this matter, or
 
 her expected companion would fail her.
 
@@ -130,7 +130,7 @@ her brown eye and clear forehead showed of her mind was in keeping with
 
 her dress and face--modest, gentle, and, though pensive, harmonious. It
 
-appeared that neither lamb nor dove need fear her, but would welcome
+appeared that neither [[Lamb|lamb]] nor dove need [[Fear|fear]] her, but would welcome
 
 rather, in her look of simplicity and softness, a sympathy with their
 
@@ -152,7 +152,7 @@ Away Caroline went, across some very sequestered fields and through some
 
 quite hidden lanes, to Fieldhead. She glided quickly under the green
 
-hedges and across the greener leas. There was no dust, no moisture, to
+hedges and across the greener leas. There was no [[Dust|dust]], no moisture, to
 
 soil the hem of her stainless garment, or to damp her slender sandal.
 
@@ -166,9 +166,9 @@ Keeldar's dressing-room.
 
 
 
-It was well she had come, or Shirley would have been too late. Instead
+It was [[Well|well]] she had come, or [[Shirley]] would have been too late. Instead
 
-of making ready with all speed, she lay stretched on a couch, absorbed
+of making ready with all [[Speed|speed]], she lay stretched on a couch, absorbed
 
 in reading. Mrs. Pryor stood near, vainly urging her to rise and dress.
 
@@ -176,11 +176,11 @@ Caroline wasted no words. She immediately took the book from her, and
 
 with her own hands commenced the business of disrobing and rerobing her.
 
-Shirley, indolent with the heat, and gay with her youth and pleasurable
+[[Shirley]], indolent with the heat, and gay with her youth and pleasurable
 
-nature, wanted to talk, laugh, and linger; but Caroline, intent on being
+[[Nature|nature]], wanted to talk, laugh, and linger; but Caroline, intent on being
 
-in time, persevered in dressing her as fast as fingers could fasten
+in [[Time|time]], persevered in dressing her as fast as fingers could fasten
 
 strings or insert pins. At length, as she united a final row of hooks
 
@@ -188,7 +188,7 @@ and eyes, she found leisure to chide her, saying she was very naughty to
 
 be so unpunctual, that she looked even now the picture of incorrigible
 
-carelessness; and so Shirley did, but a very lovely picture of that
+carelessness; and so [[Shirley]] did, but a very lovely picture of that
 
 tiresome quality.
 
@@ -202,7 +202,7 @@ better than a simpler costume; the deep embroidered scarf became her.
 
 She wore it negligently but gracefully. The wreath on her bonnet
 
-crowned her well. The attention to fashion, the tasteful appliance of
+crowned her [[Well|well]]. The attention to fashion, the tasteful appliance of
 
 ornament in each portion of her dress, were quite in place with her. All
 

@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 7 (part 3)"
+title: "[[The Professor]] — Chapter 7 (part 3)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -32,15 +32,15 @@ top of the great staircase just beyond, and I looked down into a narrow
 
 back street, which I afterwards learnt was called the Rue d’Isabelle.
 
-I well recollect that my eye rested on the green door of a rather large
+I [[Well|well]] recollect that my eye rested on the green door of a rather large
 
-house opposite, where, on a brass plate, was inscribed, “Pensionnat de
+[[house]] opposite, where, on a brass plate, was inscribed, “Pensionnat de
 
 Demoiselles.” Pensionnat! The word excited an uneasy sensation in
 
 my mind; it seemed to speak of restraint. Some of the demoiselles,
 
-externats no doubt, were at that moment issuing from the door--I looked
+externats no [[Doubt|doubt]], were at that moment issuing from the door--I looked
 
 for a pretty face amongst them, but their close, little French bonnets
 
@@ -48,13 +48,13 @@ hid their features; in a moment they were gone.
 
 
 
-I had traversed a good deal of Brussels before five o’clock arrived,
+I had traversed a good deal of Brussels before five o’[[Clock|clock]] arrived,
 
 but punctually as that hour struck I was again in the Rue Royale.
 
 Re-admitted to Mr. Brown’s breakfast-room, I found him, as before,
 
-seated at the table, and he was not alone--a gentleman stood by the
+seated at the table, and he was not [[Alone|alone]]--a gentleman stood by the
 
 hearth. Two words of introduction designated him as my future master.
 
@@ -66,7 +66,7 @@ ordinary one, I suppose, for I was in a tranquil, commonplace frame of
 
 mind; I felt none of the agitation which had troubled my first interview
 
-with Edward Crimsworth. M. Pelet’s bow was extremely polite, yet not
+with [[Edward Crimsworth]]. M. Pelet’s bow was extremely polite, yet not
 
 theatrical, scarcely French; he and I were presently seated opposite to
 
@@ -92,7 +92,7 @@ was fixed at one thousand francs per annum, besides board and lodging.
 
 in each day during which your services will not be required in my
 
-establishment, you may, in time, obtain employment in other seminaries,
+establishment, you may, in [[Time|time]], obtain employment in other seminaries,
 
 and thus turn your vacant moments to profitable account.”
 
@@ -110,7 +110,7 @@ post the very next day, after which M. Pelet and I parted.
 
 
 
-Well, and what was he like? and what were my impressions concerning him?
+[[Well]], and what was he like? and what were my impressions concerning him?
 
 He was a man of about forty years of age, of middle size, and rather
 
@@ -124,7 +124,7 @@ and parentage), yet the degree of harshness inseparable from Gallic
 
 lineaments was, in his case, softened by a mild blue eye, and a
 
-melancholy, almost suffering, expression of countenance; his physiognomy
+[[Melancholy|melancholy]], almost [[Suffering|suffering]], expression of countenance; his physiognomy
 
 was “fine et spirituelle.” I use two French words because they define
 
@@ -148,17 +148,17 @@ Influenced by the impression I had received of his gentleness, I was a
 
 good deal surprised when, on arriving the next day at my new employer’s
 
-house, and being admitted to a first view of what was to be the
+[[house]], and being admitted to a first view of what was to be the
 
-sphere of my future labours, namely the large, lofty, and well-lighted
+sphere of my future labours, namely the large, lofty, and [[Well|well]]-lighted
 
 schoolrooms, I beheld a numerous assemblage of pupils, boys of course,
 
 whose collective appearance showed all the signs of a full, flourishing,
 
-and well-disciplined seminary. As I traversed the classes in company
+and [[Well|well]]-disciplined seminary. As I traversed the classes in company
 
-with M. Pelet, a profound silence reigned on all sides, and if by chance
+with M. Pelet, a profound [[Silence|silence]] reigned on all sides, and if by chance
 
 a murmur or a whisper arose, one glance from the pensive eye of this
 
@@ -182,7 +182,7 @@ The proposal was unexpected. I had thought I should have been allowed at
 
 least three days to prepare; but it is a bad omen to commence any career
 
-by hesitation, so I just stepped to the professor’s desk near which we
+by hesitation, so I just stepped to [[The Professor|the professor]]’s desk near which we
 
 stood, and faced the circle of my pupils. I took a moment to collect
 
@@ -196,7 +196,7 @@ proposed to open business. I made it as short as possible:--
 
 
 
-“Anglais ou Francais, monsieur?” demanded a thickset, moon-faced young
+“Anglais ou Francais, monsieur?” demanded a thickset, [[Moon|moon]]-faced young
 
 Flamand in a blouse. The answer was fortunately easy:--
 

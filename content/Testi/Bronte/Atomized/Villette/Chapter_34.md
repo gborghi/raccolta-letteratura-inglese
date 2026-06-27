@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 32"
+title: "[[Villette]] — Chapter 32"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/Villette-(Bronte)"
@@ -18,7 +18,7 @@ CHAPTER XXXII.
 THE FIRST LETTER.
 
 
-Where, it becomes time to inquire, was Paulina Mary? How fared my
+Where, it becomes [[Time|time]] to inquire, was [[Paulina]] Mary? How fared my
 intercourse with the sumptuous Hôtel Crécy? That intercourse had, for
 an interval, been suspended by absence; M. and Miss de Bassompierre had
 been travelling, dividing some weeks between the provinces and capital
@@ -33,21 +33,21 @@ smooth, linden-bordered path; on one side a middle-aged gentleman and
 young lady, on the other—a young and handsome man. Very graceful was
 the lady’s mien, choice her appointments, delicate and stately her
 whole aspect. Still, as I looked, I felt they were known to me, and,
-drawing a little nearer, I fully recognised them all: the Count Home de
-Bassompierre, his daughter, and Dr. Graham Bretton.
+drawing a little nearer, I fully recognised them all: the Count [[Home]] de
+Bassompierre, his daughter, and Dr. [[Graham Bretton]].
 
 How animated was Graham’s face! How true, how warm, yet how retiring
 the joy it expressed! This was the state of things, this the
 combination of circumstances, at once to attract and enchain, to subdue
 and excite Dr. John. The pearl he admired was in itself of great price
 and truest purity, but he was not the man who, in appreciating the gem,
-could forget its setting. Had he seen Paulina with the same youth,
-beauty, and grace, but on foot, alone, unguarded, and in simple attire,
+could forget its setting. Had he seen [[Paulina]] with the same youth,
+[[Beauty|beauty]], and grace, but on foot, [[Alone|alone]], unguarded, and in simple attire,
 a dependent worker, a demi-grisette, he would have thought her a pretty
 little creature, and would have loved with his eye her movements and
 her mien, but it required other than this to conquer him as he was now
 vanquished, to bring him safe under dominion as now, without loss, and
-even with gain to his manly honour, one saw that he was reduced; there
+even with gain to his manly [[Honour|honour]], one saw that he was reduced; there
 was about Dr. John all the man of the world; to satisfy himself did not
 suffice; society must approve—the world must admire what he did, or he
 counted his measures false and futile. In his victrix he required all
@@ -56,10 +56,10 @@ of a careful and authoritative protection, the adjuncts that Fashion
 decrees, Wealth purchases, and Taste adjusts; for these conditions his
 spirit stipulated ere it surrendered: they were here to the utmost
 fulfilled; and now, proud, impassioned, yet fearing, he did homage to
-Paulina as his sovereign. As for her, the smile of feeling, rather than
+[[Paulina]] as his sovereign. As for her, the smile of feeling, rather than
 of conscious power, slept soft in her eyes.
 
-They parted. He passed me at speed, hardly feeling the earth he
+They parted. He passed me at [[Speed|speed]], hardly feeling the earth he
 skimmed, and seeing nothing on either hand. He looked very handsome;
 mettle and purpose were roused in him fully.
 
@@ -76,23 +76,23 @@ She named the hour, and I promised compliance.
 
 The morrow’s evening found me with her—she and I shut into her own
 room. I had not seen her since that occasion when her claims were
-brought into comparison with those of Ginevra Fanshawe, and had so
+brought into comparison with those of [[Ginevra Fanshawe]], and had so
 signally prevailed; she had much to tell me of her travels in the
 interval. A most animated, rapid speaker was she in such a tête-à-tête,
 a most lively describer; yet with her artless diction and clear soft
 voice, she never seemed to speak too fast or to say too much. My own
 attention I think would not soon have flagged, but by-and-by, she
-herself seemed to need some change of subject; she hastened to wind up
+herself seemed to need some change of subject; she hastened to [[Wind|wind]] up
 her narrative briefly. Yet why she terminated with so concise an
-abridgment did not immediately appear; silence followed—a restless
-silence, not without symptoms of abstraction. Then, turning to me, in a
+abridgment did not immediately appear; [[Silence|silence]] followed—a restless
+[[Silence|silence]], not without symptoms of abstraction. Then, turning to me, in a
 diffident, half-appealing voice—“Lucy—”
 
-“Well, I am at your side.”
+“[[Well]], I am at your side.”
 
-“Is my cousin Ginevra still at Madame Beck’s?”
+“Is my cousin Ginevra still at [[Madame Beck]]’s?”
 
-“Your cousin is still there; you must be longing to see her.”
+“Your cousin is still there; you must be [[Longing|longing]] to see her.”
 
 “No—not much.”
 
@@ -136,14 +136,14 @@ chair, and came and sat on the stool at my feet.
 
 I liked her. It is not a declaration I have often made concerning my
 acquaintance, in the course of this book: the reader will bear with it
-for once. Intimate intercourse, close inspection, disclosed in Paulina
+for once. Intimate intercourse, close inspection, disclosed in [[Paulina]]
 only what was delicate, intelligent, and sincere; therefore my regard
 for her lay deep. An admiration more superficial might have been more
 demonstrative; mine, however, was quiet.
 
 “What have you to ask of Lucy?” said I; “be brave, and speak out.”
 
-But there was no courage in her eye; as it met mine, it fell; and there
+But there was no [[Courage|courage]] in her eye; as it met mine, it fell; and there
 was no coolness on her cheek—not a transient surface-blush, but a
 gathering inward excitement raised its tint and its temperature.
 
@@ -153,14 +153,14 @@ me your real opinion of his character, his disposition.”
 “His character stands high, and deservedly high.”
 
 “And his disposition? Tell me about his disposition,” she urged; “you
-know him well.”
+know him [[Well|well]].”
 
-“I know him pretty well.”
+“I know him pretty [[Well|well]].”
 
-“You know his home-side. You have seen him with his mother; speak of
+“You know his [[Home|home]]-side. You have seen him with his mother; speak of
 him as a son.”
 
-“He is a fine-hearted son; his mother’s comfort and hope, her pride and
+“He is a fine-hearted son; his mother’s comfort and [[Hope|hope]], her [[Pride|pride]] and
 pleasure.”
 
 She held my hand between hers, and at each favourable word gave it a
@@ -180,8 +180,8 @@ who tremble before some pitiless and selfish surgeons, welcome him.”
 hospital; I saw how he was received: your father’s friends are right.”
 
 The softest gratitude animated her eye as she lifted it a moment. She
-had yet more to say, but seemed hesitating about time and place. Dusk
-was beginning to reign; her parlour fire already glowed with twilight
+had yet more to say, but seemed hesitating about [[Time|time]] and place. Dusk
+was beginning to reign; her parlour [[Fire|fire]] already glowed with twilight
 ruddiness; but I thought she wished the room dimmer, the hour later.
 
 “How quiet and secluded we feel here!” I remarked, to reassure her.
@@ -214,21 +214,21 @@ And she looked and spoke—the little Polly of Bretton—petulant,
 sensitive.
 
 “If,” said she, emphatically, “if I liked Dr. John till I was fit to
-die for liking him, that alone could not license me to be otherwise
-than dumb—dumb as the grave—dumb as you, Lucy Snowe—you know it—and you
-know you would despise me if I failed in self-control, and whined about
+die for liking him, that [[Alone|alone]] could not license me to be otherwise
+than dumb—dumb as the [[Grave|grave]]—dumb as you, [[Lucy Snowe]]—you know it—and you
+know you would despise me if I failed in [[Self|self]]-control, and whined about
 some rickety liking that was all on my side.”
 
 “It is true I little respect women or girls who are loquacious either
 in boasting the triumphs, or bemoaning the mortifications, of feelings.
-But as to you, Paulina, speak, for I earnestly wish to hear you. Tell
+But as to you, [[Paulina]], speak, for I earnestly wish to hear you. Tell
 me all it will give you pleasure or relief to tell: I ask no more.”
 
 “Do you care for me, Lucy?”
 
-“Yes, I do, Paulina.”
+“Yes, I do, [[Paulina]].”
 
-“And I love you. I had an odd content in being with you even when I was
+“And I [[Love|love]] you. I had an odd content in being with you even when I was
 a little, troublesome, disobedient girl; it was charming to me then to
 lavish on you my naughtiness and whims. Now you are acceptable to me,
 and I like to talk with and trust you. So listen, Lucy.”
@@ -243,7 +243,7 @@ business; this was true, but I did not tell you all.”
 “You evaded?”
 
 “I shuffled and equivocated, you know. However, I am going to speak the
-truth now; it is getting darker; one can talk at one’s ease. Papa often
+[[Truth|truth]] now; it is getting darker; one can talk at one’s ease. Papa often
 lets me open the letter-bag and give him out the contents. One morning,
 about three weeks ago, you don’t know how surprised I was to find,
 amongst a dozen letters for M. de Bassompierre, a note addressed to
@@ -252,20 +252,20 @@ handwriting was not strange; it attracted me directly. I was going to
 say, ‘Papa, here is another letter from Dr. Bretton;’ but the ‘Miss’
 struck me mute. I actually never received a letter from a gentleman
 before. Ought I to have shown it to papa, and let him open it and read
-it first? I could not for my life, Lucy. I know so well papa’s ideas
+it first? I could not for my life, Lucy. I know so [[Well|well]] papa’s ideas
 about me: he forgets my age; he thinks I am a mere school-girl; he is
 not aware that other people see I am grown up as tall as I shall be;
-so, with a curious mixture of feelings, some of them self-reproachful,
+so, with a curious mixture of feelings, some of them [[Self|self]]-reproachful,
 and some so fluttering and strong, I cannot describe them, I gave papa
 his twelve letters—his herd of possessions—and kept back my one, my
-ewe-lamb. It lay in my lap during breakfast, looking up at me with an
-inexplicable meaning, making me feel myself a thing double-existent—a
-child to that dear papa, but no more a child to myself. After breakfast
+ewe-[[Lamb|lamb]]. It lay in my lap during breakfast, looking up at me with an
+inexplicable meaning, making me feel myself a thing [[Double|double]]-existent—a
+[[Child|child]] to that dear papa, but no more a [[Child|child]] to myself. After breakfast
 I carried my letter up-stairs, and having secured myself by turning the
 key in the door, I began to study the outside of my treasure: it was
 some minutes before I could get over the direction and penetrate the
 seal; one does not take a strong place of this kind by instant
-storm—one sits down awhile before it, as beleaguers say. Graham’s hand
+[[Storm|storm]]—one sits down awhile before it, as beleaguers say. Graham’s hand
 is like himself, Lucy, and so is his seal—all clear, firm, and
 rounded—no slovenly splash of wax—a full, solid, steady drop—a distinct
 impress; no pointed turns harshly pricking the optic nerve, but a
@@ -294,28 +294,28 @@ adding, at the end, a strong entreaty that whatever happened, I might
 not be tempted or led to cause papa any sorrow, and might never, in
 caring for others, neglect him. The very thought of such a possibility,
 so pierced my heart that it made me cry. But still, Lucy, I felt that
-in time papa would have to be taught the truth, managed, and induced to
+in [[Time|time]] papa would have to be taught the [[Truth|truth]], managed, and induced to
 hear reason.
 
 “I read the letter. Lucy, life is said to be all disappointment. _I_
 was not disappointed. Ere I read, and while I read, my heart did more
 than throb—it trembled fast—every quiver seemed like the pant of an
-animal athirst, laid down at a well and drinking; and the well proved
-quite full, gloriously clear; it rose up munificently of its own
+animal athirst, laid down at a [[Well|well]] and drinking; and the [[Well|well]] proved
+quite full, gloriously clear; it [[Rose|rose]] up munificently of its own
 impulse; I saw the sun through its gush, and not a mote, Lucy, no moss,
 no insect, no atom in the thrice-refined golden gurgle.
 
-“Life,” she went on, “is said to be full of pain to some. I have read
-biographies where the wayfarer seemed to journey on from suffering to
-suffering; where Hope flew before him fast, never alighting so near, or
+“Life,” she went on, “is said to be full of [[Pain|pain]] to some. I have read
+biographies where the wayfarer seemed to [[Journey|journey]] on from [[Suffering|suffering]] to
+[[Suffering|suffering]]; where [[Hope]] flew before him fast, never alighting so near, or
 lingering so long, as to give his hand a chance of one realizing grasp.
-I have read of those who sowed in tears, and whose harvest, so far from
+I have read of those who sowed in [[Tears|tears]], and whose harvest, so far from
 being reaped in joy, perished by untimely blight, or was borne off by
-sudden whirlwind; and, alas! some of these met the winter with empty
+sudden whirlwind; and, alas! some of these met the [[Winter|winter]] with empty
 garners, and died of utter want in the darkest and coldest of the
 year.”
 
-“Was it their fault, Paulina, that they of whom you speak thus died?”
+“Was it their fault, [[Paulina]], that they of whom you speak thus died?”
 
 “Not always their fault. Some of them were good endeavouring people. I
 am not endeavouring, nor actively good, yet God has caused me to grow
@@ -334,23 +334,23 @@ he ventured to risk a step in the matter elsewhere.”
 “How did you reply?”
 
 “I replied briefly, but I did not repulse him. Yet I almost trembled
-for fear of making the answer too cordial: Graham’s tastes are so
+for [[Fear|fear]] of making the answer too cordial: Graham’s tastes are so
 fastidious. I wrote it three times—chastening and subduing the phrases
 at every rescript; at last, having confected it till it seemed to me to
 resemble a morsel of ice flavoured with ever so slight a zest of fruit
 or sugar, I ventured to seal and despatch it.”
 
-“Excellent, Paulina! Your instinct is fine; you understand Dr.
+“Excellent, [[Paulina]]! Your instinct is fine; you understand Dr.
 Bretton.”
 
-“But how must I manage about papa? There I am still in pain.”
+“But how must I manage about papa? There I am still in [[Pain|pain]].”
 
 “Do not manage at all. Wait now. Only maintain no further
 correspondence till your father knows all, and gives his sanction.”
 
 “Will he ever give it?”
 
-“Time will show. Wait.”
+“[[Time]] will show. Wait.”
 
 “Dr. Bretton wrote one other letter, deeply grateful for my calm, brief
 note; but I anticipated your advice, by saying, that while my
@@ -358,9 +358,9 @@ sentiments continued the same, I could not, without my father’s
 knowledge, write again.”
 
 “You acted as you ought to have done; so Dr. Bretton will feel: it will
-increase his pride in you, his love for you, if either be capable of
-increase. Paulina, that gentle hoar-frost of yours, surrounding so much
-pure, fine flame, is a priceless privilege of nature.”
+increase his [[Pride|pride]] in you, his [[Love|love]] for you, if either be capable of
+increase. [[Paulina]], that gentle hoar-[[Frost|frost]] of yours, surrounding so much
+pure, fine flame, is a priceless privilege of [[Nature|nature]].”
 
 “You see I feel Graham’s disposition,” said she. “I feel that no
 delicacy can be too exquisite for his treatment.”
@@ -370,26 +370,26 @@ Bretton’s disposition, were he one who expected to be more nearly
 met—you would still act truthfully, openly, tenderly, with your
 father.”
 
-“Lucy, I trust I shall thus act always. Oh, it will be pain to wake
+“Lucy, I trust I shall thus act always. Oh, it will be [[Pain|pain]] to wake
 papa from his dream, and tell him I am no more a little girl!”
 
-“Be in no hurry to do so, Paulina. Leave the revelation to Time and
+“Be in no hurry to do so, [[Paulina]]. Leave the revelation to [[Time]] and
 your kind Fate. I also have noticed the gentleness of her cares for
-you: doubt not she will benignantly order the circumstances, and fitly
+you: [[Doubt|doubt]] not she will benignantly order the circumstances, and fitly
 appoint the hour. Yes: I have thought over your life just as you have
 yourself thought it over; I have made comparisons like those to which
 you adverted. We know not the future, but the past has been propitious.
 
-“As a child I feared for you; nothing that has life was ever more
-susceptible than your nature in infancy: under harshness or neglect,
-neither your outward nor your inward self would have ripened to what
-they now are. Much pain, much fear, much struggle, would have troubled
+“As a [[Child|child]] I feared for you; nothing that has life was ever more
+susceptible than your [[Nature|nature]] in infancy: under harshness or neglect,
+neither your outward nor your inward [[Self|self]] would have ripened to what
+they now are. Much [[Pain|pain]], much [[Fear|fear]], much struggle, would have troubled
 the very lines of your features, broken their regularity, would have
 harassed your nerves into the fever of habitual irritation; you would
 have lost in health and cheerfulness, in grace and sweetness.
-Providence has protected and cultured you, not only for your own sake,
+[[Providence]] has protected and cultured you, not only for your own sake,
 but I believe for Graham’s. His star, too, was fortunate: to develop
-fully the best of his nature, a companion like you was needed: there
+fully the best of his [[Nature|nature]], a companion like you was needed: there
 you are, ready. You must be united. I knew it the first day I saw you
 together at La Terrasse. In all that mutually concerns you and Graham
 there seems to me promise, plan, harmony. I do not think the sunny
@@ -399,8 +399,8 @@ angels, but as few are happy amongst mortals. Some lives _are_ thus
 blessed: it is God’s will: it is the attesting trace and lingering
 evidence of Eden. Other lives run from the first another course. Other
 travellers encounter weather fitful and gusty, wild and variable—breast
-adverse winds, are belated and overtaken by the early closing winter
-night. Neither can this happen without the sanction of God; and I know
+adverse winds, are belated and overtaken by the early closing [[Winter|winter]]
+[[Night|night]]. Neither can this happen without the sanction of God; and I know
 that, amidst His boundless works, is somewhere stored the secret of
 this last fate’s justice: I know that His treasures contain the proof
-as the promise of its mercy.”
+as the promise of its [[Mercy|mercy]].”

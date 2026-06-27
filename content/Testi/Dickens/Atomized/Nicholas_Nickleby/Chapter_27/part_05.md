@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 27 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 27 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -16,9 +16,9 @@ tags:
 
 ‘Ye--es!’ replied Lord Verisopht. ‘He was a clayver man.’
 
-‘Do you know, my lord,’ said Mrs. Wititterly, after a long silence, ‘I
+‘Do you know, my lord,’ said Mrs. Wititterly, after a long [[Silence|silence]], ‘I
 find I take so much more interest in his plays, after having been to
-that dear little dull house he was born in! Were you ever there, my
+that dear little dull [[house]] he was born in! Were you ever there, my
 lord?’
 
 ‘No, nayver,’ replied Verisopht.
@@ -26,34 +26,34 @@ lord?’
 ‘Then really you ought to go, my lord,’ returned Mrs. Wititterly, in very
 languid and drawling accents. ‘I don’t know how it is, but after you’ve
 seen the place and written your name in the little book, somehow or
-other you seem to be inspired; it kindles up quite a fire within one.’
+other you seem to be inspired; it kindles up quite a [[Fire|fire]] within one.’
 
 ‘Ye--es!’ replied Lord Verisopht, ‘I shall certainly go there.’
 
-‘Julia, my life,’ interposed Mr. Wititterly, ‘you are deceiving his
+‘[[Julia]], my life,’ interposed Mr. Wititterly, ‘you are deceiving his
 lordship--unintentionally, my lord, she is deceiving you. It is
-your poetical temperament, my dear--your ethereal soul--your fervid
-imagination, which throws you into a glow of genius and excitement.
+your poetical temperament, my dear--your ethereal [[Soul|soul]]--your fervid
+[[Imagination|imagination]], which throws you into a glow of genius and excitement.
 There is nothing in the place, my dear--nothing, nothing.’
 
 ‘I think there must be something in the place,’ said Mrs. Nickleby, who
-had been listening in silence; ‘for, soon after I was married, I went
+had been listening in [[Silence|silence]]; ‘for, soon after I was married, I went
 to Stratford with my poor dear Mr. Nickleby, in a post-chaise
 from Birmingham--was it a post-chaise though?’ said Mrs. Nickleby,
 considering; ‘yes, it must have been a post-chaise, because I recollect
-remarking at the time that the driver had a green shade over his
+remarking at the [[Time|time]] that the driver had a green shade over his
 left eye;--in a post-chaise from Birmingham, and after we had seen
 Shakespeare’s tomb and birthplace, we went back to the inn there, where
-we slept that night, and I recollect that all night long I dreamt of
-nothing but a black gentleman, at full length, in plaster-of-Paris,
+we slept that [[Night|night]], and I recollect that all [[Night|night]] long I dreamt of
+nothing but a black gentleman, at full length, in plaster-of-[[Paris]],
 with a lay-down collar tied with two tassels, leaning against a post
 and thinking; and when I woke in the morning and described him to Mr
 Nickleby, he said it was Shakespeare just as he had been when he was
 alive, which was very curious indeed. Stratford--Stratford,’ continued
 Mrs. Nickleby, considering. ‘Yes, I am positive about that, because I
-recollect I was in the family way with my son Nicholas at the time,
+recollect I was in the family way with my son Nicholas at the [[Time|time]],
 and I had been very much frightened by an Italian image boy that very
-morning. In fact, it was quite a mercy, ma’am,’ added Mrs. Nickleby, in
+morning. In fact, it was quite a [[Mercy|mercy]], ma’am,’ added Mrs. Nickleby, in
 a whisper to Mrs. Wititterly, ‘that my son didn’t turn out to be a
 Shakespeare, and what a dreadful thing that would have been!’
 
@@ -72,14 +72,14 @@ opportunity of engrossing her attention.
 
 Lord Frederick Verisopht remained in the next box to be talked to by Mrs
 Wititterly, and Mr. Pyke was in attendance to throw in a word or two when
-necessary. As to Mr. Wititterly, he was sufficiently busy in the body of
-the house, informing such of his friends and acquaintance as happened
+necessary. As to Mr. Wititterly, he was sufficiently busy in the [[Body|body]] of
+the [[house]], informing such of his friends and acquaintance as happened
 to be there, that those two gentlemen upstairs, whom they had seen
 in conversation with Mrs. W., were the distinguished Lord Frederick
 Verisopht and his most intimate friend, the gay Sir Mulberry Hawk--a
-communication which inflamed several respectable house-keepers with the
-utmost jealousy and rage, and reduced sixteen unmarried daughters to the
-very brink of despair.
+communication which inflamed several respectable [[house]]-keepers with the
+utmost [[Jealousy|jealousy]] and rage, and reduced sixteen unmarried daughters to the
+very brink of [[Despair|despair]].
 
 The evening came to an end at last, but Kate had yet to be handed
 downstairs by the detested Sir Mulberry; and so skilfully were the
@@ -119,7 +119,7 @@ from this coarse and unmanly persecution,’ said Kate, scarcely knowing,
 in the tumult of her passions, what she said,--‘I have a brother who
 will resent it dearly, one day.’
 
-‘Upon my soul!’ exclaimed Sir Mulberry, as though quietly communing with
+‘Upon my [[Soul|soul]]!’ exclaimed Sir Mulberry, as though quietly communing with
 himself; passing his arm round her waist as he spoke, ‘she looks more
 beautiful, and I like her better in this mood, than when her eyes are
 cast down, and she is in perfect repose!’
@@ -127,4 +127,4 @@ cast down, and she is in perfect repose!’
 How Kate reached the lobby where her friends were waiting she never
 knew, but she hurried across it without at all regarding them, and
 disengaged herself suddenly from her companion, sprang into the coach,
-and throwing herself into its darkest corner burst into tears.
+and throwing herself into its darkest corner burst into [[Tears|tears]].

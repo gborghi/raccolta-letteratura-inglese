@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 26 (part 2)"
+title: "[[Sense and Sensibility]] — Chapter 26 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -14,9 +14,9 @@ tags:
 </nav>
 
 
-left the room. Elinor was disappointed too; but at the same time her
+left the room. Elinor was disappointed too; but at the same [[Time|time]] her
 
-regard for Colonel Brandon ensured his welcome with her; and she felt
+regard for [[Colonel Brandon]] ensured his welcome with her; and she felt
 
 particularly hurt that a man so partial to her sister should perceive
 
@@ -48,9 +48,9 @@ He heard her with the most earnest attention, but seeming to recollect
 
 himself, said no more on the subject, and began directly to speak of
 
-his pleasure at seeing them in London, making the usual inquiries about
+his pleasure at seeing them in [[London]], making the usual inquiries about
 
-their journey, and the friends they had left behind.
+their [[Journey|journey]], and the friends they had left behind.
 
 
 
@@ -60,11 +60,11 @@ they continued to talk, both of them out of spirits, and the thoughts
 
 of both engaged elsewhere. Elinor wished very much to ask whether
 
-Willoughby were then in town, but she was afraid of giving him pain by
+Willoughby were then in town, but she was afraid of giving him [[Pain|pain]] by
 
 any enquiry after his rival; and at length, by way of saying something,
 
-she asked if he had been in London ever since she had seen him last.
+she asked if he had been in [[London]] ever since she had seen him last.
 
 “Yes,” he replied, with some embarrassment, “almost ever since; I have
 
@@ -94,9 +94,9 @@ come before—beg your pardon, but I have been forced to look about me a
 
 little, and settle my matters; for it is a long while since I have been
 
-at home, and you know one has always a world of little odd things to do
+at [[Home|home]], and you know one has always a world of little odd things to do
 
-after one has been away for any time; and then I have had Cartwright to
+after one has been away for any [[Time|time]]; and then I have had Cartwright to
 
 settle with. Lord, I have been as busy as a bee ever since dinner! But
 
@@ -112,19 +112,19 @@ dining.”
 
 
 
-“Oh, you did; well, and how do they all do at their house? How does
+“Oh, you did; [[Well|well]], and how do they all do at their [[house]]? How does
 
-Charlotte do? I warrant you she is a fine size by this time.”
+Charlotte do? I warrant you she is a fine size by this [[Time|time]].”
 
 
 
-“Mrs. Palmer appeared quite well, and I am commissioned to tell you,
+“Mrs. Palmer appeared quite [[Well|well]], and I am commissioned to tell you,
 
 that you will certainly see her to-morrow.”
 
 
 
-“Ay, to be sure, I thought as much. Well, Colonel, I have brought two
+“Ay, to be sure, I thought as much. [[Well]], Colonel, I have brought two
 
 young ladies with me, you see—that is, you see but one of them now, but
 
@@ -134,17 +134,17 @@ will not be sorry to hear. I do not know what you and Mr. Willoughby
 
 will do between you about her. Ay, it is a fine thing to be young and
 
-handsome. Well! I was young once, but I never was very handsome—worse
+handsome. [[Well]]! I was young once, but I never was very handsome—worse
 
 luck for me. However, I got a very good husband, and I don’t know what
 
-the greatest beauty can do more. Ah! poor man! he has been dead these
+the greatest [[Beauty|beauty]] can do more. Ah! poor man! he has been dead these
 
 eight years and better. But Colonel, where have you been to since we
 
 parted? And how does your business go on? Come, come, let’s have no
 
-secrets among friends.”
+[[Secrets|secrets]] among friends.”
 
 
 
@@ -156,7 +156,7 @@ Marianne was obliged to appear again.
 
 
 
-After her entrance, Colonel Brandon became more thoughtful and silent
+After her entrance, [[Colonel Brandon]] became more thoughtful and silent
 
 than he had been before, and Mrs. Jennings could not prevail on him to
 
@@ -166,7 +166,7 @@ unanimous in agreeing to go early to bed.
 
 
 
-Marianne rose the next morning with recovered spirits and happy looks.
+Marianne [[Rose|rose]] the next morning with recovered spirits and happy looks.
 
 The disappointment of the evening before seemed forgotten in the
 
@@ -184,7 +184,7 @@ their coming to town, though it was what she had rather expected all
 
 along; so angry at their accepting her mother’s invitation after having
 
-declined her own, though at the same time she would never have forgiven
+declined her own, though at the same [[Time|time]] she would never have forgiven
 
 them if they had not come!
 
@@ -230,4 +230,4 @@ every where, her sister could never obtain her opinion of any article
 
 of purchase, however it might equally concern them both: she received
 
-no pleasure from anything; was only impatient to be at home again, and
+no pleasure from anything; was only impatient to be at [[Home|home]] again, and

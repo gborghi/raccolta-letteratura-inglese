@@ -16,4 +16,4 @@ tags:
 
 THE LITTLE THINGS
 
-`MERE PARADOX'
+`MERE [[Paradox|PARADOX]]'

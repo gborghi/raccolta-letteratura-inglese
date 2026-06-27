@@ -25,8 +25,8 @@ Because of the goodness of this Lady
 And because of her loveliness, and because  
 She honours the Virgin in meditation,  
 We shine with brightness. And I who am here dissembled  
-Proffer my deeds to oblivion, and my love  
-To the posterity of the desert and the fruit of the gourd.  
+Proffer my deeds to oblivion, and my [[Love|love]]  
+To the posterity of the [[Desert|desert]] and the fruit of the gourd.  
 It is this which recovers  
 My guts the strings of my eyes and the indigestible portions  
 Which the leopards reject. The Lady is withdrawn  
@@ -35,38 +35,38 @@ Let the whiteness of bones atone to forgetfulness.
 There is no life in them. As I am forgotten  
 And would be forgotten, so I would forget  
 Thus devoted, concentrated in purpose. And God said  
-Prophesy to the wind, to the wind only for only  
-The wind will listen. And the bones sang chirping  
+Prophesy to the [[Wind|wind]], to the [[Wind|wind]] only for only  
+The [[Wind|wind]] will listen. And the bones sang chirping  
 With the burden of the grasshopper, saying  
 Lady of silences  
 Calm and distressed  
 Torn and most whole  
-Rose of memory  
-Rose of forgetfulness  
+[[Rose]] of [[Memory|memory]]  
+[[Rose]] of forgetfulness  
 Exhausted and life-giving  
 Worried reposeful  
-The single Rose  
-Is now the Garden  
+The single [[Rose]]  
+Is now the [[Garden]]  
 Where all loves end  
 Terminate torment  
-Of love unsatisfied  
+Of [[Love|love]] unsatisfied  
 The greater torment  
-Of love satisfied  
+Of [[Love|love]] satisfied  
 End of the endless  
-Journey to no end  
+[[Journey]] to no end  
 Conclusion of all that  
 Is inconclusible  
 Speech without word and  
 Word of no speech  
 Grace to the Mother  
-For the Garden  
-Where all love ends.  
+For the [[Garden]]  
+Where all [[Love|love]] ends.  
 Under a juniper-tree the bones sang, scattered and shining  
 We are glad to be scattered, we did little good to each other,  
 Under a tree in the cool of the day, with the blessing of sand,  
 Forgetting themselves and each other, united  
-In the quiet of the desert. This is the land which ye  
-Shall divide by lot. And neither division nor unity  
+In the quiet of the [[Desert|desert]]. This is the land which ye  
+Shall divide by lot. And neither division nor [[unity]]  
 Matters. This is the land. We have our inheritance.  
 
 III At the first turning of the second stair  
@@ -75,14 +75,14 @@ I turned and saw below
 The same shape twisted on the banister  
 Under the vapour in the fetid air  
 Struggling with the devil of the stairs who wears  
-The deceitful face of hope and of despair.  
+The deceitful face of [[Hope|hope]] and of [[Despair|despair]].  
 At the second turning of the second stair  
 I left them twisting, turning below;  
 There were no more faces and the stair was dark,  
 Damp, jaggèd, like an old man’s mouth drivelling, beyond repair,  
 Or the toothed gullet of an agèd shark.  
 At the first turning of the third stair  
-Was a slotted window bellied like the fig’s fruit  
+Was a slotted [[Window|window]] bellied like the fig’s fruit  
 And beyond the hawthorn blossom and a pasture scene  
 The broadbacked figure drest in blue and green  
 Enchanted the maytime with an antique flute.  
@@ -91,7 +91,7 @@ Lilac and brown hair;
 Distraction, music of the flute, stops and steps of the mind over the third stair,  
 
 
-Fading, fading; strength beyond hope and despair  
+Fading, fading; strength beyond [[Hope|hope]] and [[Despair|despair]]  
 Climbing the third stair.  
 Lord, I am not worthy  
 Lord, I am not worthy  

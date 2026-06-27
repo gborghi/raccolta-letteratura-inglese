@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 3"
+title: "[[Sense and Sensibility]] — Chapter 3"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -22,13 +22,13 @@ CHAPTER III.
 
 Mrs. Dashwood remained at Norland several months; not from any
 
-disinclination to move when the sight of every well known spot ceased
+disinclination to move when the sight of every [[Well|well]] known spot ceased
 
 to raise the violent emotion which it produced for a while; for when
 
 her spirits began to revive, and her mind became capable of some other
 
-exertion than that of heightening its affliction by melancholy
+exertion than that of heightening its affliction by [[Melancholy|melancholy]]
 
 remembrances, she was impatient to be gone, and indefatigable in her
 
@@ -66,7 +66,7 @@ merit before, in believing him incapable of generosity. His attentive
 
 behaviour to herself and his sisters convinced her that their welfare
 
-was dear to him, and, for a long time, she firmly relied on the
+was dear to him, and, for a long [[Time|time]], she firmly relied on the
 
 liberality of his intentions.
 
@@ -100,13 +100,13 @@ man, who was introduced to their acquaintance soon after his sister’s
 
 establishment at Norland, and who had since spent the greatest part of
 
-his time there.
+his [[Time|time]] there.
 
 
 
 Some mothers might have encouraged the intimacy from motives of
 
-interest, for Edward Ferrars was the eldest son of a man who had died
+interest, for [[Edward Ferrars]] was the eldest son of a man who had died
 
 very rich; and some might have repressed it from motives of prudence,
 
@@ -128,7 +128,7 @@ every one who knew her, was to her comprehension impossible.
 
 
 
-Edward Ferrars was not recommended to their good opinion by any
+[[Edward Ferrars]] was not recommended to their good opinion by any
 
 peculiar graces of person or address. He was not handsome, and his
 
@@ -138,7 +138,7 @@ to do justice to himself; but when his natural shyness was overcome,
 
 his behaviour gave every indication of an open, affectionate heart. His
 
-understanding was good, and his education had given it solid
+understanding was good, and his [[Education|education]] had given it solid
 
 improvement. But he was neither fitted by abilities nor disposition to
 
@@ -156,7 +156,7 @@ Dashwood wished it likewise; but in the mean while, till one of these
 
 superior blessings could be attained, it would have quieted her
 
-ambition to see him driving a barouche. But Edward had no turn for
+[[Ambition|ambition]] to see him driving a barouche. But Edward had no turn for
 
 great men or barouches. All his wishes centered in domestic comfort and
 
@@ -166,9 +166,9 @@ more promising.
 
 
 
-Edward had been staying several weeks in the house before he engaged
+Edward had been staying several weeks in the [[house]] before he engaged
 
-much of Mrs. Dashwood’s attention; for she was, at that time, in such
+much of Mrs. Dashwood’s attention; for she was, at that [[Time|time]], in such
 
 affliction as rendered her careless of surrounding objects. She saw
 
@@ -188,7 +188,7 @@ most forcibly to her mother.
 
 “It is enough,” said she; “to say that he is unlike Fanny is enough. It
 
-implies everything amiable. I love him already.”
+implies everything amiable. I [[Love|love]] him already.”
 
 
 
@@ -198,7 +198,7 @@ implies everything amiable. I love him already.”
 
 “Like him!” replied her mother with a smile. “I feel no sentiment of
 
-approbation inferior to love.”
+approbation inferior to [[Love|love]].”
 
 
 
@@ -206,7 +206,7 @@ approbation inferior to love.”
 
 
 
-“I have never yet known what it was to separate esteem and love.”
+“I have never yet known what it was to separate esteem and [[Love|love]].”
 
 
 
@@ -214,7 +214,7 @@ Mrs. Dashwood now took pains to get acquainted with him. Her manners
 
 were attaching, and soon banished his reserve. She speedily
 
-comprehended all his merits; the persuasion of his regard for Elinor
+comprehended all his merits; the [[Persuasion|persuasion]] of his regard for Elinor
 
 perhaps assisted her penetration; but she really felt assured of his
 
@@ -228,11 +228,11 @@ affectionate.
 
 
 
-No sooner did she perceive any symptom of love in his behaviour to
+No sooner did she perceive any symptom of [[Love|love]] in his behaviour to
 
 Elinor, than she considered their serious attachment as certain, and
 
-looked forward to their marriage as rapidly approaching.
+looked forward to their [[Marriage|marriage]] as rapidly approaching.
 
 
 
@@ -248,13 +248,13 @@ happy.”
 
 
 
-“My love, it will be scarcely a separation. We shall live within a few
+“My [[Love|love]], it will be scarcely a separation. We shall live within a few
 
 miles of each other, and shall meet every day of our lives. You will
 
 gain a brother, a real, affectionate brother. I have the highest
 
-opinion in the world of Edward’s heart. But you look grave, Marianne;
+opinion in the world of Edward’s heart. But you look [[Grave|grave]], Marianne;
 
 do you disapprove your sister’s choice?”
 
@@ -262,13 +262,13 @@ do you disapprove your sister’s choice?”
 
 “Perhaps,” said Marianne, “I may consider it with some surprise. Edward
 
-is very amiable, and I love him tenderly. But yet—he is not the kind of
+is very amiable, and I [[Love|love]] him tenderly. But yet—he is not the kind of
 
 young man—there is something wanting—his figure is not striking; it has
 
 none of that grace which I should expect in the man who could seriously
 
-attach my sister. His eyes want all that spirit, that fire, which at
+attach my sister. His eyes want all that spirit, that [[Fire|fire]], which at
 
 once announce virtue and intelligence. And besides all this, I am
 
@@ -280,7 +280,7 @@ admiration of a person who can understand their worth. It is evident,
 
 in spite of his frequent attention to her while she draws, that in fact
 
-he knows nothing of the matter. He admires as a lover, not as a
+he knows nothing of the matter. He admires as a [[Lover|lover]], not as a
 
 connoisseur. To satisfy me, those characters must be united. I could
 
@@ -290,7 +290,7 @@ with my own. He must enter into all my feelings; the same books, the
 
 same music must charm us both. Oh! mama, how spiritless, how tame was
 
-Edward’s manner in reading to us last night! I felt for my sister most
+Edward’s manner in reading to us last [[Night|night]]! I felt for my sister most
 
 severely. Yet she bore it with so much composure, she seemed scarcely
 
@@ -306,7 +306,7 @@ impenetrable calmness, such dreadful indifference!”
 
 “He would certainly have done more justice to simple and elegant prose.
 
-I thought so at the time; but you _would_ give him Cowper.”
+I thought so at the [[Time|time]]; but you _would_ give him Cowper.”
 
 
 
@@ -320,7 +320,7 @@ heart, had I loved him, to hear him read with so little sensibility.
 
 Mama, the more I know of the world, the more am I convinced that I
 
-shall never see a man whom I can really love. I require so much! He
+shall never see a man whom I can really [[Love|love]]. I require so much! He
 
 must have all Edward’s virtues, and his person and manners must
 
@@ -328,9 +328,9 @@ ornament his goodness with every possible charm.”
 
 
 
-“Remember, my love, that you are not seventeen. It is yet too early in
+“Remember, my [[Love|love]], that you are not seventeen. It is yet too early in
 
-life to despair of such a happiness. Why should you be less fortunate
+life to [[Despair|despair]] of such a happiness. Why should you be less fortunate
 
 than your mother? In one circumstance only, my Marianne, may your
 

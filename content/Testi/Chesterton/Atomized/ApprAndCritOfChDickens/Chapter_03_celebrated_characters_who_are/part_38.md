@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 38)"
+title: "[[ApprAndCritOfChDickens]] — Book 2: celebrated characters who are both especially exuberant and (part 38)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -16,17 +16,17 @@ tags:
 
 superstitions. If ever there was a message full of what modern people
 
-call true Christianity, the direct appeal to the common heart, a faith
+call true [[Christianity]], the direct appeal to the common heart, a [[Faith|faith]]
 
-that was simple, a hope that was infinite, and a charity that was
+that was simple, a [[Hope|hope]] that was infinite, and a [[Charity|charity]] that was
 
-omnivorous, if ever there came among men what they call the Christianity
+omnivorous, if ever there came among men what they call the [[Christianity]]
 
-of Christ, it was in the message of Dickens. Christianity has been in
+of [[Christ]], it was in the message of Dickens. [[Christianity]] has been in
 
 the world nearly two thousand years, and it has not yet quite lost, its
 
-enemies being judges, its first fire and charity; but friends and
+enemies being judges, its first [[Fire|fire]] and [[Charity|charity]]; but friends and
 
 enemies would agree that it was from the very first more detailed and
 
@@ -38,9 +38,9 @@ it is loaded with relics. Already it is stiff with antiquity.
 
 
 
-Everything that can be said about the perversion of Christianity can be
+Everything that can be said about the perversion of [[Christianity]] can be
 
-said about the perversion of Dickens. It is said that Christ's words
+said about the perversion of Dickens. It is said that [[Christ]]'s words
 
 are repeated by the very High Priests and Scribes whom He meant to
 
@@ -96,9 +96,9 @@ by a thunderbolt out of heaven or outlawed by the whole human race, all
 
 that would seem quite natural. What has really happened is this: that
 
-two respectable towns in Suffolk are still disputing for the honour of
+two respectable towns in Suffolk are still disputing for the [[Honour|honour]] of
 
-having been the original Eatanswill; as if two innocent hamlets each
+having been the original Eatanswill; as if two [[Innocent|innocent]] hamlets each
 
 claimed to be Gomorrah. I make no comment; the thing is beyond speech.
 
@@ -106,7 +106,7 @@ claimed to be Gomorrah. I make no comment; the thing is beyond speech.
 
 But this strange sentimental and relic-hunting worship of Dickens has
 
-many more innocent manifestations. One of them is that which takes
+many more [[Innocent|innocent]] manifestations. One of them is that which takes
 
 advantage of the fact that Dickens happened to be a journalist by trade.
 
@@ -114,7 +114,7 @@ It occupies itself therefore with hunting through papers and magazines
 
 for unsigned articles which may possibly be proved to be his. Only a
 
-little time ago one of these enthusiasts ran up to me, rubbing his
+little [[Time|time]] ago one of these enthusiasts ran up to me, rubbing his
 
 hands, and told me that he was sure he had found two and a half short
 
@@ -132,7 +132,7 @@ journalist to write bad literature. It is sometimes the first duty of a
 
 good man to write it. Pot-boilers to my feeling are sacred things; but
 
-they may well be secret as well as sacred, like the holy pot which it is
+they may [[Well|well]] be secret as [[Well|well]] as sacred, like the holy pot which it is
 
 their purpose to boil. In the collection called _Reprinted Pieces_ there
 
@@ -150,7 +150,7 @@ solid appreciation of the author.
 
 Of these the first in importance is that which comes last in order. I
 
-mean the three remarkable pamphlets upon the English Sunday, called
+mean the three remarkable pamphlets upon the English [[Sunday]], called
 
 _Sunday under Three Heads_. Here, at least, we find the eternal Dickens,
 
@@ -168,7 +168,7 @@ any other conclusion equally reasonable and unimportant. These things
 
 have no colour of the great man's character. But on the subject of the
 
-English Sunday he does stand for his own philosophy. He stands for a
+English [[Sunday]] he does stand for his own [[philosophy]]. He stands for a
 
 particular view, remote at present both from Liberals and Conservatives.
 
@@ -180,7 +180,7 @@ every sense the last.
 
 In his appeal for the pleasures of the people, Dickens has remained
 
-alone. The pleasures of the people have now no defender, Radical or
+[[Alone|alone]]. The pleasures of the people have now no defender, Radical or
 
 Tory. The Tories despise the people. The Radicals despise the pleasures.
 

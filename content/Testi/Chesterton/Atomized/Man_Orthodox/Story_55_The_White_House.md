@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — The White House"
+title: "Man Orthodox — The White [[house|House]]"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,4 +14,4 @@ tags:
 </nav>
 
 
-THE WHITE HOUSE
+THE WHITE [[house|HOUSE]]

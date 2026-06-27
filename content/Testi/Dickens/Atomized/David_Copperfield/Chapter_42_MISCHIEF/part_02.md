@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 42: MISCHIEF (part 2)"
+title: "[[David Copperfield]] — Chapter 42: MISCHIEF (part 2)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -15,12 +15,12 @@ tags:
 
 
 I endeavoured to appear unconscious and not disquieted, but, I saw in
-his face, with poor success.
+his face, with poor [[success]].
 
 ‘Now, I’m not a-going to let myself be run down, Copperfield,’ he
 continued, raising that part of his countenance, where his red eyebrows
 would have been if he had had any, with malignant triumph, ‘and I shall
-do what I can to put a stop to this friendship. I don’t approve of it.
+do what I can to put a stop to this [[Friendship|friendship]]. I don’t approve of it.
 I don’t mind acknowledging to you that I’ve got rather a grudging
 disposition, and want to keep off all intruders. I ain’t a-going, if I
 know it, to run the risk of being plotted against.’
@@ -37,7 +37,7 @@ way. Really they must come out of the cart, Master Copperfield!’
 
 ‘Don’t you, though?’ he returned, with one of his jerks. ‘I’m astonished
 at that, Master Copperfield, you being usually so quick! I’ll try to be
-plainer, another time.---Is that Mr. Maldon a-norseback, ringing at the
+plainer, another [[Time|time]].---Is that Mr. Maldon a-norseback, ringing at the
 gate, sir?’
 
 ‘It looks like him,’ I replied, as carelessly as I could.
@@ -46,25 +46,25 @@ Uriah stopped short, put his hands between his great knobs of knees, and
 doubled himself up with laughter. With perfectly silent laughter. Not
 a sound escaped from him. I was so repelled by his odious behaviour,
 particularly by this concluding instance, that I turned away without any
-ceremony; and left him doubled up in the middle of the garden, like a
+ceremony; and left him doubled up in the middle of the [[Garden|garden]], like a
 scarecrow in want of support.
 
-It was not on that evening; but, as I well remember, on the next evening
-but one, which was a Sunday; that I took Agnes to see Dora. I had
-arranged the visit, beforehand, with Miss Lavinia; and Agnes was
+It was not on that evening; but, as I [[Well|well]] remember, on the next evening
+but one, which was a [[Sunday]]; that I took Agnes to see Dora. I had
+arranged the visit, beforehand, with Miss [[Lavinia]]; and Agnes was
 expected to tea.
 
-I was in a flutter of pride and anxiety; pride in my dear little
+I was in a flutter of [[Pride|pride]] and anxiety; [[Pride|pride]] in my dear little
 betrothed, and anxiety that Agnes should like her. All the way to
 Putney, Agnes being inside the stage-coach, and I outside, I pictured
-Dora to myself in every one of the pretty looks I knew so well; now
+Dora to myself in every one of the pretty looks I knew so [[Well|well]]; now
 making up my mind that I should like her to look exactly as she looked
-at such a time, and then doubting whether I should not prefer her
-looking as she looked at such another time; and almost worrying myself
+at such a [[Time|time]], and then doubting whether I should not prefer her
+looking as she looked at such another [[Time|time]]; and almost worrying myself
 into a fever about it.
 
-I was troubled by no doubt of her being very pretty, in any case; but
-it fell out that I had never seen her look so well. She was not in the
+I was troubled by no [[Doubt|doubt]] of her being very pretty, in any case; but
+it fell out that I had never seen her look so [[Well|well]]. She was not in the
 drawing-room when I presented Agnes to her little aunts, but was shyly
 keeping out of the way. I knew where to look for her, now; and sure
 enough I found her stopping her ears again, behind the same dull old
@@ -80,18 +80,18 @@ Dora was afraid of Agnes. She had told me that she knew Agnes was
 ‘too clever’. But when she saw her looking at once so cheerful and so
 earnest, and so thoughtful, and so good, she gave a faint little cry of
 pleased surprise, and just put her affectionate arms round Agnes’s neck,
-and laid her innocent cheek against her face.
+and laid her [[Innocent|innocent]] cheek against her face.
 
 I never was so happy. I never was so pleased as when I saw those two sit
 down together, side by side. As when I saw my little darling looking up
 so naturally to those cordial eyes. As when I saw the tender, beautiful
 regard which Agnes cast upon her.
 
-Miss Lavinia and Miss Clarissa partook, in their way, of my joy. It was
+Miss [[Lavinia]] and Miss Clarissa partook, in their way, of my joy. It was
 the pleasantest tea-table in the world. Miss Clarissa presided. I cut
 and handed the sweet seed-cake--the little sisters had a bird-like
-fondness for picking up seeds and pecking at sugar; Miss Lavinia looked
-on with benignant patronage, as if our happy love were all her work; and
+fondness for picking up seeds and pecking at sugar; Miss [[Lavinia]] looked
+on with benignant patronage, as if our happy [[Love|love]] were all her work; and
 we were perfectly contented with ourselves and one another.
 
 The gentle cheerfulness of Agnes went to all their hearts. Her quiet
@@ -102,7 +102,7 @@ and ease, eliciting a crowd of blushing little marks of confidence from
 Dora; seemed to make our circle quite complete.
 
 ‘I am so glad,’ said Dora, after tea, ‘that you like me. I didn’t think
-you would; and I want, more than ever, to be liked, now Julia Mills is
+you would; and I want, more than ever, to be liked, now [[Julia]] Mills is
 gone.’
 
 I have omitted to mention it, by the by. Miss Mills had sailed, and Dora
@@ -127,11 +127,11 @@ can!’
 
 We made merry about Dora’s wanting to be liked, and Dora said I was a
 goose, and she didn’t like me at any rate, and the short evening flew
-away on gossamer-wings. The time was at hand when the coach was to call
-for us. I was standing alone before the fire, when Dora came stealing
+away on gossamer-wings. The [[Time|time]] was at hand when the coach was to call
+for us. I was standing [[Alone|alone]] before the [[Fire|fire]], when Dora came stealing
 softly in, to give me that usual precious little kiss before I went.
 
-‘Don’t you think, if I had had her for a friend a long time ago, Doady,’
+‘Don’t you think, if I had had her for a friend a long [[Time|time]] ago, Doady,’
 said Dora, her bright eyes shining very brightly, and her little right
 hand idly busying itself with one of the buttons of my coat, ‘I might
 have been more clever perhaps?’

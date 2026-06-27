@@ -1,5 +1,5 @@
 ---
-title: "The Narrative of Arthur Gordon Pym of Nantucket — Chapter 24 (part 2)"
+title: "[[The Narrative of Arthur Gordon Pym of Nantucket]] — Chapter 24 (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)"
@@ -18,7 +18,7 @@ mind had been so great as to prevent my hearing what he said, or being
 
 conscious that he had even spoken to me at all. At length, seeing me
 
-totter, he hastened to ascend to my rescue, and arrived just in time
+totter, he hastened to ascend to my rescue, and arrived just in [[Time|time]]
 
 for my preservation. Had I fallen with my full weight, the rope of
 
@@ -32,7 +32,7 @@ returned. This was in about fifteen minutes. On recovery, my
 
 trepidation had entirely vanished; I felt a new being, and, with some
 
-little further aid from my companion, reached the bottom also in
+little further aid from my companion, reached the [[Bottom|bottom]] also in
 
 safety.
 
@@ -40,7 +40,7 @@ safety.
 
 We now found ourselves not far from the ravine which had proved the
 
-tomb of our friends, and to the southward of the spot where the hill
+tomb of our friends, and to the southward of the spot where the [[Hill|hill]]
 
 had fallen. The place was one of singular wildness, and its aspect
 
@@ -82,7 +82,7 @@ the seacoast, distant not more than half a mile, with a view of
 
 catching turtle, several of which we had observed from our place of
 
-concealment on the hill. We had proceeded some hundred yards, threading
+concealment on the [[Hill|hill]]. We had proceeded some hundred yards, threading
 
 our route cautiously between the huge rocks and tumuli, when, upon
 
@@ -90,7 +90,7 @@ turning a corner, five savages sprung upon us from a small cavern,
 
 felling Peters to the ground with a blow from a club. As he fell the
 
-whole party rushed upon him to secure their victim, leaving me time to
+whole party rushed upon him to secure their victim, leaving me [[Time|time]] to
 
 recover from my astonishment. I still had the musket, but the barrel
 
@@ -146,7 +146,7 @@ whom I had shot, and supposed dead, sprang briskly to his feet, and
 
 attempted to make his escape. We overtook him, however, before he had
 
-advanced many paces, and were about to put him to death, when Peters
+advanced many paces, and were about to put him to [[Death|death]], when Peters
 
 suggested that we might derive some benefit from forcing him to
 
@@ -180,7 +180,7 @@ fastnesses of the rougher ground, when I discovered the bows of two
 
 canoes projecting from behind a large rock which ran out into the
 
-water. Towards these we now ran with all speed, and, reaching them,
+[[Water|water]]. Towards these we now ran with all [[Speed|speed]], and, reaching them,
 
 found them unguarded, and without any other freight than three of the
 
@@ -200,10 +200,10 @@ we became sufficiently calm to perceive the great oversight of which we
 
 had been guilty in leaving the other canoe in the power of the savages,
 
-who, by this time, were not more than twice as far from the beach as
+who, by this [[Time|time]], were not more than twice as far from the beach as
 
-ourselves, and were rapidly advancing to the pursuit. No time was now
+ourselves, and were rapidly advancing to the pursuit. No [[Time|time]] was now
 
-to be lost. Our hope was, at best, a forlorn one, but we had none
+to be lost. Our [[Hope|hope]] was, at best, a forlorn one, but we had none
 
 other. It was very doubtful whether, with the utmost exertion, we could

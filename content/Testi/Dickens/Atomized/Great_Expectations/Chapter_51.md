@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 51"
+title: "[[Great Expectations]] — Chapter 51"
 author: "Dickens"
 unitType: chapter
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -18,28 +18,28 @@ Chapter LI.
 
 
 What purpose I had in view when I was hot on tracing out and proving
-Estella’s parentage, I cannot say. It will presently be seen that the
+[[Estella]]’s parentage, I cannot say. It will presently be seen that the
 question was not before me in a distinct shape until it was put before
 me by a wiser head than my own.
 
 But when Herbert and I had held our momentous conversation, I was
 seized with a feverish conviction that I ought to hunt the matter
 down,—that I ought not to let it rest, but that I ought to see Mr.
-Jaggers, and come at the bare truth. I really do not know whether I
-felt that I did this for Estella’s sake, or whether I was glad to
+Jaggers, and come at the bare [[Truth|truth]]. I really do not know whether I
+felt that I did this for [[Estella]]’s sake, or whether I was glad to
 transfer to the man in whose preservation I was so much concerned some
 rays of the romantic interest that had so long surrounded me. Perhaps
-the latter possibility may be the nearer to the truth.
+the latter possibility may be the nearer to the [[Truth|truth]].
 
 Any way, I could scarcely be withheld from going out to Gerrard Street
-that night. Herbert’s representations that, if I did, I should probably
+that [[Night|night]]. Herbert’s representations that, if I did, I should probably
 be laid up and stricken useless, when our fugitive’s safety would
-depend upon me, alone restrained my impatience. On the understanding,
+depend upon me, [[Alone|alone]] restrained my impatience. On the understanding,
 again and again reiterated, that, come what would, I was to go to Mr.
 Jaggers to-morrow, I at length submitted to keep quiet, and to have my
-hurts looked after, and to stay at home. Early next morning we went out
+hurts looked after, and to stay at [[Home|home]]. Early next morning we went out
 together, and at the corner of Giltspur Street by Smithfield, I left
-Herbert to go his way into the City, and took my way to Little Britain.
+Herbert to go his way into the [[City]], and took my way to Little Britain.
 
 There were periodical occasions when Mr. Jaggers and Wemmick went over
 the office accounts, and checked off the vouchers, and put all things
@@ -56,48 +56,48 @@ account of the accident as soon as I had arrived in town, yet I had to
 give him all the details now; and the speciality of the occasion caused
 our talk to be less dry and hard, and less strictly regulated by the
 rules of evidence, than it had been before. While I described the
-disaster, Mr. Jaggers stood, according to his wont, before the fire.
+disaster, Mr. Jaggers stood, according to his wont, before the [[Fire|fire]].
 Wemmick leaned back in his chair, staring at me, with his hands in the
 pockets of his trousers, and his pen put horizontally into the post.
 The two brutal casts, always inseparable in my mind from the official
 proceedings, seemed to be congestively considering whether they didn’t
-smell fire at the present moment.
+smell [[Fire|fire]] at the present moment.
 
 My narrative finished, and their questions exhausted, I then produced
-Miss Havisham’s authority to receive the nine hundred pounds for
+[[Miss Havisham]]’s authority to receive the nine hundred pounds for
 Herbert. Mr. Jaggers’s eyes retired a little deeper into his head when
 I handed him the tablets, but he presently handed them over to Wemmick,
 with instructions to draw the check for his signature. While that was
 in course of being done, I looked on at Wemmick as he wrote, and Mr.
-Jaggers, poising and swaying himself on his well-polished boots, looked
+Jaggers, poising and swaying himself on his [[Well|well]]-polished boots, looked
 on at me. “I am sorry, Pip,” said he, as I put the check in my pocket,
 when he had signed it, “that we do nothing for _you_.”
 
-“Miss Havisham was good enough to ask me,” I returned, “whether she
+“[[Miss Havisham]] was good enough to ask me,” I returned, “whether she
 could do nothing for me, and I told her No.”
 
 “Everybody should know his own business,” said Mr. Jaggers. And I saw
 Wemmick’s lips form the words “portable property.”
 
-“I should _not_ have told her No, if I had been you,” said Mr Jaggers;
+“I should _not_ have told her No, if I had been you,” said [[Mr Jaggers]];
 “but every man ought to know his own business best.”
 
 “Every man’s business,” said Wemmick, rather reproachfully towards me,
 “is portable property.”
 
-As I thought the time was now come for pursuing the theme I had at
+As I thought the [[Time|time]] was now come for pursuing the theme I had at
 heart, I said, turning on Mr. Jaggers:—
 
-“I did ask something of Miss Havisham, however, sir. I asked her to
+“I did ask something of [[Miss Havisham]], however, sir. I asked her to
 give me some information relative to her adopted daughter, and she gave
 me all she possessed.”
 
 “Did she?” said Mr. Jaggers, bending forward to look at his boots and
 then straightening himself. “Hah! I don’t think I should have done so,
-if I had been Miss Havisham. But _she_ ought to know her own business
+if I had been [[Miss Havisham]]. But _she_ ought to know her own business
 best.”
 
-“I know more of the history of Miss Havisham’s adopted child than Miss
+“I know more of the [[history]] of [[Miss Havisham]]’s adopted [[Child|child]] than Miss
 Havisham herself does, sir. I know her mother.”
 
 Mr. Jaggers looked at me inquiringly, and repeated “Mother?”
@@ -110,17 +110,17 @@ Mr. Jaggers looked at me inquiringly, and repeated “Mother?”
 
 “Yes?” said Mr. Jaggers.
 
-“Perhaps I know more of Estella’s history than even you do,” said I. “I
+“Perhaps I know more of [[Estella]]’s [[history]] than even you do,” said I. “I
 know her father too.”
 
 A certain stop that Mr. Jaggers came to in his manner—he was too
-self-possessed to change his manner, but he could not help its being
+[[Self|self]]-possessed to change his manner, but he could not help its being
 brought to an indefinably attentive stop—assured me that he did not
 know who her father was. This I had strongly suspected from Provis’s
 account (as Herbert had repeated it) of his having kept himself dark;
 which I pieced on to the fact that he himself was not Mr. Jaggers’s
 client until some four years later, and when he could have no reason
-for claiming his identity. But, I could not be sure of this
+for claiming his [[Identity|identity]]. But, I could not be sure of this
 unconsciousness on Mr. Jaggers’s part before, though I was quite sure
 of it now.
 
@@ -149,10 +149,10 @@ without completing the usual performance, folded his arms, and looked
 with stern attention at me, though with an immovable face.
 
 Then I told him all I knew, and how I knew it; with the one reservation
-that I left him to infer that I knew from Miss Havisham what I in fact
+that I left him to infer that I knew from [[Miss Havisham]] what I in fact
 knew from Wemmick. I was very careful indeed as to that. Nor did I look
 towards Wemmick until I had finished all I had to tell, and had been
-for some time silently meeting Mr. Jaggers’s look. When I did at last
+for some [[Time|time]] silently meeting Mr. Jaggers’s look. When I did at last
 turn my eyes in Wemmick’s direction, I found that he had unposted his
 pen, and was intent upon the table before him.
 
@@ -162,21 +162,21 @@ table. “What item was it you were at, Wemmick, when Mr. Pip came in?”
 But I could not submit to be thrown off in that way, and I made a
 passionate, almost an indignant appeal, to him to be more frank and
 manly with me. I reminded him of the false hopes into which I had
-lapsed, the length of time they had lasted, and the discovery I had
+lapsed, the length of [[Time|time]] they had lasted, and the discovery I had
 made: and I hinted at the danger that weighed upon my spirits. I
 represented myself as being surely worthy of some little confidence
 from him, in return for the confidence I had just now imparted. I said
 that I did not blame him, or suspect him, or mistrust him, but I wanted
-assurance of the truth from him. And if he asked me why I wanted it,
+assurance of the [[Truth|truth]] from him. And if he asked me why I wanted it,
 and why I thought I had any right to it, I would tell him, little as he
-cared for such poor dreams, that I had loved Estella dearly and long,
+cared for such poor [[Dreams|dreams]], that I had loved [[Estella]] dearly and long,
 and that although I had lost her, and must live a bereaved life,
 whatever concerned her was still nearer and dearer to me than anything
 else in the world. And seeing that Mr. Jaggers stood quite still and
 silent, and apparently quite obdurate, under this appeal, I turned to
 Wemmick, and said, “Wemmick, I know you to be a man with a gentle
-heart. I have seen your pleasant home, and your old father, and all the
-innocent, cheerful playful ways with which you refresh your business
+heart. I have seen your pleasant [[Home|home]], and your old father, and all the
+[[Innocent|innocent]], cheerful playful ways with which you refresh your business
 life. And I entreat you to say a word for me to Mr. Jaggers, and to
 represent to him that, all circumstances considered, he ought to be
 more open with me!”
@@ -190,11 +190,11 @@ like a smile, and Wemmick become bolder.
 “What’s all this?” said Mr. Jaggers. “You with an old father, and you
 with pleasant and playful ways?”
 
-“Well!” returned Wemmick. “If I don’t bring ’em here, what does it
+“[[Well]]!” returned Wemmick. “If I don’t bring ’em here, what does it
 matter?”
 
 “Pip,” said Mr. Jaggers, laying his hand upon my arm, and smiling
-openly, “this man must be the most cunning impostor in all London.”
+openly, “this man must be the most cunning impostor in all [[London]].”
 
 “Not a bit of it,” returned Wemmick, growing bolder and bolder. “I
 think you’re another.”
@@ -202,16 +202,16 @@ think you’re another.”
 Again they exchanged their former odd looks, each apparently still
 distrustful that the other was taking him in.
 
-“_You_ with a pleasant home?” said Mr. Jaggers.
+“_You_ with a pleasant [[Home|home]]?” said Mr. Jaggers.
 
 “Since it don’t interfere with business,” returned Wemmick, “let it be
-so. Now, I look at you, sir, I shouldn’t wonder if _you_ might be
-planning and contriving to have a pleasant home of your own one of
+so. Now, I look at you, sir, I shouldn’t [[Wonder|wonder]] if _you_ might be
+planning and contriving to have a pleasant [[Home|home]] of your own one of
 these days, when you’re tired of all this work.”
 
 Mr. Jaggers nodded his head retrospectively two or three times, and
 actually drew a sigh. “Pip,” said he, “we won’t talk about ‘poor
-dreams;’ you know more about such things than I, having much fresher
+[[Dreams|dreams]];’ you know more about such things than I, having much fresher
 experience of that kind. But now about this other matter. I’ll put a
 case to you. Mind! I admit nothing.”
 
@@ -219,11 +219,11 @@ He waited for me to declare that I quite understood that he expressly
 said that he admitted nothing.
 
 “Now, Pip,” said Mr. Jaggers, “put this case. Put the case that a
-woman, under such circumstances as you have mentioned, held her child
+woman, under such circumstances as you have mentioned, held her [[Child|child]]
 concealed, and was obliged to communicate the fact to her legal
 adviser, on his representing to her that he must know, with an eye to
-the latitude of his defence, how the fact stood about that child. Put
-the case that, at the same time he held a trust to find a child for an
+the latitude of his defence, how the fact stood about that [[Child|child]]. Put
+the case that, at the same [[Time|time]] he held a trust to find a [[Child|child]] for an
 eccentric rich lady to adopt and bring up.”
 
 “I follow you, sir.”
@@ -241,16 +241,16 @@ prosecuted, defended, forsworn, made orphans, bedevilled somehow.”
 
 “I follow you, sir.”
 
-“Put the case, Pip, that here was one pretty little child out of the
+“Put the case, Pip, that here was one pretty little [[Child|child]] out of the
 heap who could be saved; whom the father believed dead, and dared make
 no stir about; as to whom, over the mother, the legal adviser had this
 power: “I know what you did, and how you did it. You came so and so,
 you did such and such things to divert suspicion. I have tracked you
-through it all, and I tell it you all. Part with the child, unless it
+through it all, and I tell it you all. Part with the [[Child|child]], unless it
 should be necessary to produce it to clear you, and then it shall be
-produced. Give the child into my hands, and I will do my best to bring
-you off. If you are saved, your child is saved too; if you are lost,
-your child is still saved.” Put the case that this was done, and that
+produced. Give the [[Child|child]] into my hands, and I will do my best to bring
+you off. If you are saved, your [[Child|child]] is saved too; if you are lost,
+your [[Child|child]] is still saved.” Put the case that this was done, and that
 the woman was cleared.”
 
 “I understand you perfectly.”
@@ -259,21 +259,21 @@ the woman was cleared.”
 
 “That you make no admissions.” And Wemmick repeated, “No admissions.”
 
-“Put the case, Pip, that passion and the terror of death had a little
+“Put the case, Pip, that passion and the terror of [[Death|death]] had a little
 shaken the woman’s intellects, and that when she was set at liberty,
 she was scared out of the ways of the world, and went to him to be
 sheltered. Put the case that he took her in, and that he kept down the
-old, wild, violent nature whenever he saw an inkling of its breaking
+old, wild, violent [[Nature|nature]] whenever he saw an inkling of its breaking
 out, by asserting his power over her in the old way. Do you comprehend
 the imaginary case?”
 
 “Quite.”
 
-“Put the case that the child grew up, and was married for money. That
+“Put the case that the [[Child|child]] grew up, and was married for money. That
 the mother was still living. That the father was still living. That the
 mother and father, unknown to one another, were dwelling within so many
 miles, furlongs, yards if you like, of one another. That the secret was
-still a secret, except that you had got wind of it. Put that last case
+still a secret, except that you had got [[Wind|wind]] of it. Put that last case
 to yourself very carefully.”
 
 “I do.”
@@ -289,14 +289,14 @@ the daughter’s? I think it would hardly serve her to establish her
 parentage for the information of her husband, and to drag her back to
 disgrace, after an escape of twenty years, pretty secure to last for
 life. But add the case that you had loved her, Pip, and had made her
-the subject of those ‘poor dreams’ which have, at one time or another,
+the subject of those ‘poor [[Dreams|dreams]]’ which have, at one [[Time|time]] or another,
 been in the heads of more men than you think likely, then I tell you
-that you had better—and would much sooner when you had thought well of
+that you had better—and would much sooner when you had thought [[Well|well]] of
 it—chop off that bandaged left hand of yours with your bandaged right
 hand, and then pass the chopper on to Wemmick there, to cut _that_ off
 too.”
 
-I looked at Wemmick, whose face was very grave. He gravely touched his
+I looked at Wemmick, whose face was very [[Grave|grave]]. He gravely touched his
 lips with his forefinger. I did the same. Mr. Jaggers did the same.
 “Now, Wemmick,” said the latter then, resuming his usual manner, “what
 item was it you were at when Mr. Pip came in?”
@@ -309,7 +309,7 @@ light to the other. For this reason, I suppose, they were now
 inflexible with one another; Mr. Jaggers being highly dictatorial, and
 Wemmick obstinately justifying himself whenever there was the smallest
 point in abeyance for a moment. I had never seen them on such ill
-terms; for generally they got on very well indeed together.
+terms; for generally they got on very [[Well|well]] indeed together.
 
 But they were both happily relieved by the opportune appearance of
 Mike, the client with the fur cap and the habit of wiping his nose on
@@ -318,8 +318,8 @@ within those walls. This individual, who, either in his own person or
 in that of some member of his family, seemed to be always in trouble
 (which in that place meant Newgate), called to announce that his eldest
 daughter was taken up on suspicion of shoplifting. As he imparted this
-melancholy circumstance to Wemmick, Mr. Jaggers standing magisterially
-before the fire and taking no share in the proceedings, Mike’s eye
+[[Melancholy|melancholy]] circumstance to Wemmick, Mr. Jaggers standing magisterially
+before the [[Fire|fire]] and taking no share in the proceedings, Mike’s eye
 happened to twinkle with a tear.
 
 “What are you about?” demanded Wemmick, with the utmost indignation.

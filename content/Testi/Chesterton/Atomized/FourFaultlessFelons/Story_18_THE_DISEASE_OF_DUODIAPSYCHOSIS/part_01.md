@@ -1,5 +1,5 @@
 ---
-title: "FourFaultlessFelons — THE DISEASE OF DUODIAPSYCHOSIS (part 1)"
+title: "[[FourFaultlessFelons]] — THE DISEASE OF DUODIAPSYCHOSIS (part 1)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/FourFaultlessFelons-(Chesterton)"
@@ -24,7 +24,7 @@ shades and different degrees of indignation, only on the present occasion
 
 she had them all at once. She was angry because a visitor turned up at
 
-that time of night and entered by the window instead of the door; she was
+that [[Time|time]] of [[Night|night]] and entered by the [[Window|window]] instead of the door; she was
 
 angry that a person for whom she had felt some regard should behave like
 
@@ -52,9 +52,9 @@ unfinished pictures and peered into it. Then, equally feverishly, he
 
 examined another and then another. Then he turned on her a face about as
 
-reassuring as a skull and cross-bones, and said: "I am greatly grieved to
+reassuring as a skull and [[Cross|cross]]-bones, and said: "I am greatly grieved to
 
-say it, Miss Windrush. In plain words, your father is suffering from
+say it, Miss Windrush. In plain words, your father is [[Suffering|suffering]] from
 
 Duodiapsychosis."
 
@@ -88,9 +88,9 @@ wanted to live in a tree like a monkey?"
 
 painful business; but the hypothesis clearly covers the facts. Why should
 
-he wish always to be alone with the tree, unless his dealings with it
+he wish always to be [[Alone|alone]] with the tree, unless his dealings with it
 
-were more grotesque than seemed suitable to his social dignity?--you know
+were more [[Grotesque|grotesque]] than seemed suitable to his social dignity?--you know
 
 what this suburb is like! For that matter, his own horror of the suburb,
 
@@ -102,15 +102,15 @@ except the same Arboreal Atavism? For that matter, what else can explain
 
 the whole story-the story of how he found the tree and fixed on the tree?
 
-What was the nature of that ungovernable craving that first surged up in
+What was the [[Nature|nature]] of that ungovernable craving that first surged up in
 
 him at the very sight of the tree? An appetite as powerful as that must
 
-have come out of the depths of nature, out of the very roots of the
+have come out of the depths of [[Nature|nature]], out of the very roots of the
 
 evolutionary origin of man. It can only have been an anthropoid appetite.
 
-It is a melancholy but most convincing example of Doone's Law."
+It is a [[Melancholy|melancholy]] but most convincing example of Doone's Law."
 
 
 
@@ -124,7 +124,7 @@ never seen a tree before?"
 
 voice, "the peculiar features of the tree. It might have been designed to
 
-stimulate the faint memories of the original home of man. It is a tree
+stimulate the faint memories of the original [[Home|home]] of man. It is a tree
 
 that seems all branches, of which the very roots are like branches, and
 
@@ -204,7 +204,7 @@ canvases and frames of brown paper that hung above them, on which were
 
 traced in vortical lines and lurid colours the visions of the
 
-ambidextrous artist.
+ambidextrous [[artist]].
 
 
 
@@ -216,15 +216,15 @@ again and again like a monomania; for a tree has a radiating and
 
 centrifugal pattern that suggests the waving of both hands at once, with
 
-a brush in each. But a tree is not a wheel-there would be less harm in a
+a brush in each. But a tree is not a [[Wheel|wheel]]-there would be less harm in a
 
-wheel. Though a tree has branches on each side, they are not the same on
+[[Wheel|wheel]]. Though a tree has branches on each side, they are not the same on
 
 each side. And that is where the curse and the creeping peril begins."
 
 
 
-This time there was a deadly silence, which he himself broke by going on
+This [[Time|time]] there was a deadly [[Silence|silence]], which he himself broke by going on
 
 with the lecture.
 
@@ -232,7 +232,7 @@ with the lecture.
 
 "The attempt to render the variation of branches by simultaneous
 
-ambidextrous action leads to a dissociation of cerebral unity and
+ambidextrous action leads to a dissociation of cerebral [[unity]] and
 
 continuity, a breach of responsible moral control and co-ordinated
 
@@ -240,6 +240,6 @@ consecutive conservation--"
 
 
 
-In the black storm of her mind she had a lightning blaze of intuition and
+In the black [[Storm|storm]] of her mind she had a [[Lightning|lightning]] blaze of intuition and
 
-said: "Is this a sort of revenge?"
+said: "Is this a sort of [[Revenge|revenge]]?"

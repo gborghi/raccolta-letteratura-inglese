@@ -15,30 +15,30 @@ tags:
 
 
 Uncle Sol and Mr Toots wait patiently in the churchyard, sitting on the
-coping-stone of the railings, until Captain Cuttle and Susan come back.
+coping-stone of the railings, until [[Captain Cuttle]] and Susan come back.
 Neither being at all desirous to speak, or to be spoken to, they are
 excellent company, and quite satisfied. When they all arrive again at
 the little Midshipman, and sit down to breakfast, nobody can touch a
-morsel. Captain Cuttle makes a feint of being voracious about toast,
+morsel. [[Captain Cuttle]] makes a feint of being voracious about toast,
 but gives it up as a swindle. Mr Toots says, after breakfast, he will
 come back in the evening; and goes wandering about the town all day,
 with a vague sensation upon him as if he hadn’t been to bed for a
 fortnight.
 
-There is a strange charm in the house, and in the room, in which they
+There is a strange charm in the [[house]], and in the room, in which they
 have been used to be together, and out of which so much is gone. It
 aggravates, and yet it soothes, the sorrow of the separation. Mr Toots
-tells Susan Nipper when he comes at night, that he hasn’t been so
+tells [[Susan Nipper]] when he comes at [[Night|night]], that he hasn’t been so
 wretched all day long, and yet he likes it. He confides in Susan
-Nipper, being alone with her, and tells her what his feelings were when
+Nipper, being [[Alone|alone]] with her, and tells her what his feelings were when
 she gave him that candid opinion as to the probability of Miss Dombey’s
 ever loving him. In the vein of confidence engendered by these common
-recollections, and their tears, Mr Toots proposes that they shall go
+recollections, and their [[Tears|tears]], Mr Toots proposes that they shall go
 out together, and buy something for supper. Miss Nipper assenting, they
 buy a good many little things; and, with the aid of Mrs Richards, set
-the supper out quite showily before the Captain and old Sol came home.
+the supper out quite showily before the Captain and old Sol came [[Home|home]].
 
-The Captain and old Sol have been on board the ship, and have
+The Captain and old Sol have been on board the [[Ship|ship]], and have
 established Di there, and have seen the chests put aboard. They have
 much to tell about the popularity of Walter, and the comforts he will
 have about him, and the quiet way in which it seems he has been working
@@ -54,7 +54,7 @@ property over jintly. You see how the land bore, Ed’ard,” says the
 Captain, “and it does you credit, my lad.”
 
 The old Instrument-maker is more distraught and misty than he used to
-be, and takes the marriage and the parting very much to heart. But he
+be, and takes the [[Marriage|marriage]] and the parting very much to heart. But he
 is greatly comforted by having his old ally, Ned Cuttle, at his side;
 and he sits down to supper with a grateful and contented face.
 
@@ -62,7 +62,7 @@ and he sits down to supper with a grateful and contented face.
 his hands. “What right have I to be otherwise than thankful and happy!”
 
 The Captain, who has not yet taken his seat at the table, but who has
-been fidgeting about for some time, and now stands hesitating in his
+been fidgeting about for some [[Time|time]], and now stands hesitating in his
 place, looks doubtfully at Mr Gills, and says:
 
 “Sol! There’s the last bottle of the old Madeira down below. Would you
@@ -73,7 +73,7 @@ into the breast-pocket of his coffee-coloured coat, brings forth his
 pocket-book, and takes a letter out.
 
 “To Mr Dombey,” says the old man. “From Walter. To be sent in three
-weeks’ time. I’ll read it.”
+weeks’ [[Time|time]]. I’ll read it.”
 
 “‘Sir. I am married to your daughter. She is gone with me upon a
 distant voyage. To be devoted to her is to have no claim on her or you,
@@ -85,7 +85,7 @@ not say to you. You know why, and you are her father.
 
 “‘Do not reproach her. She has never reproached you.
 
-“‘I do not think or hope that you will ever forgive me. There is
+“‘I do not think or [[Hope|hope]] that you will ever forgive me. There is
 nothing I expect less. But if an hour should come when it will comfort
 you to believe that Florence has someone ever near her, the great
 charge of whose life is to cancel her remembrance of past sorrow, I
@@ -99,34 +99,34 @@ old man thoughtfully. “Not yet.
 
 “Not yet,” assents the Captain. “No. Not yet.”
 
-Susan and Mr Toots are of the same opinion. After a silence they all
+Susan and Mr Toots are of the same opinion. After a [[Silence|silence]] they all
 sit down to supper, and drink to the young husband and wife in
 something else; and the last bottle of the old Madeira still remains
-among its dust and cobwebs, undisturbed.
+among its [[Dust|dust]] and cobwebs, undisturbed.
 
-A few days have elapsed, and a stately ship is out at sea, spreading
-its white wings to the favouring wind.
+A few days have elapsed, and a stately [[Ship|ship]] is out at sea, spreading
+its white wings to the favouring [[Wind|wind]].
 
 Upon the deck, image to the roughest man on board of something that is
 graceful, beautiful, and harmless—something that it is good and
 pleasant to have there, and that should make the voyage prosperous—is
-Florence. It is night, and she and Walter sit alone, watching the
-solemn path of light upon the sea between them and the moon.
+Florence. It is [[Night|night]], and she and Walter sit [[Alone|alone]], watching the
+solemn path of light upon the sea between them and the [[Moon|moon]].
 
-At length she cannot see it plainly, for the tears that fill her eyes;
+At length she cannot see it plainly, for the [[Tears|tears]] that fill her eyes;
 and then she lays her head down on his breast, and puts her arms around
-his neck, saying, “Oh Walter, dearest love, I am so happy!”
+his neck, saying, “Oh Walter, dearest [[Love|love]], I am so happy!”
 
 Her husband holds her to his heart, and they are very quiet, and the
-stately ship goes on serenely.
+stately [[Ship|ship]] goes on serenely.
 
 “As I hear the sea,” says Florence, “and sit watching it, it brings so
 many days into my mind. It makes me think so much—”
 
-“Of Paul, my love. I know it does.”
+“Of Paul, my [[Love|love]]. I know it does.”
 
 Of Paul and Walter. And the voices in the waves are always whispering
-to Florence, in their ceaseless murmuring, of love—of love, eternal and
+to Florence, in their ceaseless murmuring, of [[Love|love]]—of [[Love|love]], eternal and
 illimitable, not bounded by the confines of this world, or by the end
-of time, but ranging still, beyond the sea, beyond the sky, to the
+of [[Time|time]], but ranging still, beyond the sea, beyond the sky, to the
 invisible country far away!

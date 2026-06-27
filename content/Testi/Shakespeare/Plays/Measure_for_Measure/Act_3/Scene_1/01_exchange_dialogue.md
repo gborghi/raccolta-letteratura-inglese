@@ -15,6 +15,6 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter the Duke, disguised as a friar, Claudio, and the Provost |
-| DUKE | So then you hope of pardon from Lord Angelo? |
-| CLAUDIO | The miserable have no other medicine But only hope. I’ve hope to live, and am prepared to die. |
+| *(didascalia)* | Enter the Duke, disguised as a friar, [[Claudio]], and the Provost |
+| DUKE | So then you [[Hope|hope]] of pardon from Lord [[Angelo]]? |
+| [[Claudio|CLAUDIO]] | The miserable have no other medicine But only [[Hope|hope]]. I’ve [[Hope|hope]] to live, and am prepared to die. |

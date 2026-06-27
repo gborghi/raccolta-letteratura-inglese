@@ -16,7 +16,7 @@ tags:
 
 SOLDIERS AND TALKS
 
-Soldiers, soldiers, soldiers, you meet everywhere about the city,
+Soldiers, soldiers, soldiers, you meet everywhere about the [[City|city]],
 often superb-looking men, though invalids dress'd in worn uniforms, and
 carrying canes or crutches. I often have talks with them, occasionally
 quite long and interesting. One, for instance, will have been all
@@ -31,13 +31,13 @@ hardy, bright, intuitive, American young men, (experienc'd soldiers with
 all their youth.) The vocal play and significance moves one more than
 books. Then there hangs something majestic about a man who has borne his
 part in battles, especially if he is very quiet regarding it when you
-desire him to unbosom. I am continually lost at the absence of blowing
+[[Desire|desire]] him to unbosom. I am continually lost at the absence of blowing
 and blowers among these old-young American militaires. I have found some
 man or other who has been in every battle since the war began, and have
 talk'd with them about each one in every part of the United States, and
 many of the engagements on the rivers and harbors too. I find men
-here from every State in the Union, without exception. (There are more
-Southerners, especially border State men, in the Union army than is
-generally supposed. [A]) I now doubt whether one can get a fair idea
-of what this war practically is, or what genuine America is, and her
+here from every State in the [[Union]], without exception. (There are more
+Southerners, especially border State men, in the [[Union]] army than is
+generally supposed. [A]) I now [[Doubt|doubt]] whether one can get a fair idea
+of what this war practically is, or what genuine [[America]] is, and her
 character, without some such experience as this I am having.

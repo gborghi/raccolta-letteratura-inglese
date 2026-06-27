@@ -1,5 +1,5 @@
 ---
-title: "Well And Shallows — Killing The Nerve"
+title: "[[Well]] And Shallows — Killing The Nerve"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Well-And-Shallows-(Chesterton)"
@@ -24,21 +24,21 @@ even as these Latins.  Relatively, we seem almost reconciled
 to the general notion of killing; so long as we can feel a real
 assurance that it is aimless and purposeless and fruitless.
 If an old woman is knocked down dead in the quiet village street
-where she played as a child, if a gutter-boy is not quite quick
-enough in getting out of the gutter and suffers the death penalty
+where she played as a [[Child|child]], if a gutter-boy is not quite quick
+enough in getting out of the gutter and suffers the [[Death|death]] penalty
 for his negligence, we all agree that it is very regrettable.
 But it does not withdraw the attention of some of us from a quite
 exclusive concentration upon the horrors of war, because nobody
-could confuse an old woman crossing the road with an old-world
-romance in any way connected with adventure or valour;
-and the boy has not ventured into the road (thank God) under any
+could confuse an old woman crossing the [[Road|road]] with an old-world
+[[Romance|romance]] in any way connected with adventure or valour;
+and the boy has not ventured into the [[Road|road]] (thank God) under any
 delusion that he is sacrificing himself for his native land.
-If death strikes down suddenly somebody who does not expect to die,
+If [[Death|death]] strikes down suddenly somebody who does not expect to die,
 and is not deceived by any nonsense about being faithful unto
-death ... 0 death, where is thy sting?  If a tramp is taken
-to a pauper's grave unstained by any hopes or dreams of war
-or revolution, or any vision of justice victorious.  ... 0 grave,
-where is thy victory?  It is obvious that death is a very different
+[[Death|death]] ... 0 [[Death|death]], where is thy sting?  If a tramp is taken
+to a pauper's [[Grave|grave]] unstained by any hopes or [[Dreams|dreams]] of war
+or revolution, or any vision of justice victorious.  ... 0 [[Grave|grave]],
+where is thy victory?  It is obvious that [[Death|death]] is a very different
 thing when it is the product of such peaceful surroundings.
 The modern version of Killing No Murder is that only militarism
 is murder; and there is nothing wrong with killing when it
@@ -54,10 +54,10 @@ And, as one example out of many, it may be noted that we do live
 in a scheme of social life in which colours kill each other.
 That is, we live in a world which gives us a vast
 exhibition of that vividness which is symbolised by colour,
-but which is wholly without that concerted unity of rule
+but which is wholly without that concerted [[unity]] of rule
 or tradition which is symbolised by harmony in colour.
-The illuminated advertisements of a big city like London,
-which is now in this respect almost indistinguishable from New York,
+The illuminated advertisements of a big [[City|city]] like [[London]],
+which is now in this respect almost indistinguishable from [[New York]],
 exhibit exactly that contradiction between colour and design.
 The design, even in the sense of the purpose, is patchy and personal
 and not only vulgar but essentially venal.  The colour is often
@@ -77,45 +77,45 @@ been taught to drink; and commercial advertising wastes its
 artistic materials, even when it possesses them, because it
 has never been taught to colour or even to enjoy colours.
 Colours are being killed; and they are being killed by being
-worked to death.  The nerve is being killed; and it is being
+worked to [[Death|death]].  The nerve is being killed; and it is being
 killed by being overstimulated and therefore stunted and stunned.
 
-When I was a child, I had a toy-theatre, illuminated in those days
+When I was a [[Child|child]], I had a toy-theatre, illuminated in those days
 by candles (to which perhaps the psycho-analyst will trace my
 subsequent downfall into ecclesiastical crypts and cloisters)
 and in the ordinary way I was quite content with this type
 of illumination, the candles seeming to my barbarous mind to be
-themselves like a forest of fairy trees, with flames for flowers.
+themselves like a forest of fairy trees, with flames for [[Flowers|flowers]].
 There were also yet more rich and rare delights, which were sufficiently
 rare to those not sufficiently rich.  It was sometimes possible
 to purchase a sort of dark red powder, which when ignited burst
-into a rich red light.  Fire was wonderful enough--but red fire!
+into a rich red light.  [[Fire]] was wonderful enough--but red [[Fire|fire]]!
 But then I was only a dull Victorian infant somewhere between five
-and seven; and I only used red fire rarely; when it was effective.
+and seven; and I only used red [[Fire|fire]] rarely; when it was effective.
 Living under such limitations, my immature brain perceived that it
 was more suitable to some things than to others; as, for instance,
-to a goblin coming up through a trap-door out of the cavern of the King
+to a goblin coming up through a trap-door out of the cavern of the [[King]]
 of the Copper Mines, or to the final conflagration that made a crimson
-halo round the dark mill and castle of the execrable Mad Miller.
-I should not even then have used red fire in a scene showing
+halo round the dark mill and [[Castle|castle]] of the execrable Mad Miller.
+I should not even then have used red [[Fire|fire]] in a scene showing
 the shepherd (doubtless a prince in disguise) piping to his lambs
-in the pale green meadows of spring; or in a scene in which glassy
+in the pale green meadows of [[spring]]; or in a scene in which glassy
 gauzes of green and blue waved in the manner of waves round
-the cold weeds and fishes at the entrance to Davy Jones's Locker.
-Science and progress and practical education and knowledge of
+the cold weeds and fishes at the entrance to Davy [[Jones]]'s Locker.
+Science and progress and practical [[Education|education]] and knowledge of
 the world are necessary before people can make blunders like that.
-Therefore, that red fire of the nursery still glows in my memory as an
-inward imaginative revelation, in spite of years, in spite of time,
-in spite even of passing through the streets of modern London.
+Therefore, that red [[Fire|fire]] of the nursery still glows in my [[Memory|memory]] as an
+inward imaginative revelation, in spite of years, in spite of [[Time|time]],
+in spite even of passing through the streets of modern [[London]].
 
-In the London streets to-day, in what Mr. Cuthbert Baines
+In the [[London]] streets to-day, in what Mr. Cuthbert Baines
 has so vividly called, "the floodlit, bloodlit street,"
-the rare effect of red fire is wholly wasted and ruined,
+the rare effect of red [[Fire|fire]] is wholly wasted and ruined,
 by the loss of its rarity and by the loss of its suitability.
-The child who has been made too familiar with all that redhot
-lettering will probably never have the romance that I
-remember in my childhood; and it is perhaps strictly true
-to say that he will never see red fire in his life.
+The [[Child|child]] who has been made too familiar with all that redhot
+lettering will probably never have the [[Romance|romance]] that I
+remember in my [[Childhood|childhood]]; and it is perhaps strictly true
+to say that he will never see red [[Fire|fire]] in his life.
 First, of course, because he has seen too much of it.
 For this is not the decorative process of using red in a scheme
 of colour; it is simply the dull process of painting the town red.

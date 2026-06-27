@@ -16,29 +16,29 @@ tags:
 
 No wise man will wish to bring more long words into the world.
 But it may be allowable to say that we need a new thing;
-which may be called psychological history.  I mean the consideration
+which may be called psychological [[history]].  I mean the consideration
 of what things meant in the mind of a man, especially an ordinary man;
 as distinct from what is defined or deduced merely from official
 forms or political pronouncements.  I have already touched on it
 in such a case as the totem or indeed any other popular myth.
 It is not enough to be told that a tom-cat was called a totem;
 especially when it was not called a totem.  We want to know what it
-felt like.  Was it like Whittington's cat or like a witch's cat?
+felt like.  Was it like Whittington's cat or like a [[Witch|witch]]'s cat?
 Was its real name Pashtl or Puss-in-Boots?  That is the sort of thing
-we need touching the nature of political and social relations.
+we need touching the [[Nature|nature]] of political and social relations.
 We want to know the real sentiment that was the social bond of many
 common men, as sane and as selfish as we are.  What did soldiers feel
 when they saw splendid in the sky that strange totem that we call
 the Golden Eagle of the Legions?  What did vassals feel about those
 other totems the lions or the leopards upon the shield of their lord?
-So long as we neglect this subjective side of history, which may more
-simply be called the inside of history, there will always be a certain
+So long as we neglect this subjective side of [[history]], which may more
+simply be called the inside of [[history]], there will always be a certain
 limitation on that science which can be better transcended by art.
 So long as the historian cannot do that, fiction will be truer than fact.
-There will be more reality in a novel; yes, even in a historical novel.
+There will be more reality in a [[Novel|novel]]; yes, even in a [[Historical Novel|historical novel]].
 
-In nothing is this new history needed so much as in the psychology
-of war.  Our history is stiff with official documents,
+In nothing is this new [[history]] needed so much as in the psychology
+of war.  Our [[history]] is stiff with official documents,
 public or private, which tell us nothing of the thing itself.
 At the worst we only have the official posters, which could
 not have been spontaneous precisely because they were official.
@@ -73,49 +73,49 @@ But the vision called up by real politik, or realistic politics,
 is beyond example crazy and incredible.  Does anybody in the world
 believe that a soldier says, 'My leg is nearly dropping off, but I shall
 go on till it drops; for after all I shall enjoy all the advantages
-of my government obtaining a warm-water port in the Gulf of Finland.'
+of my [[government]] obtaining a warm-[[Water|water]] port in the Gulf of Finland.'
 Can anybody suppose that a clerk turned conscript says, 'If I
 am gassed I shall probably die in torments, but it is a comfort
 to reflect that should I ever decide to become a pearl-diver in
 the South Seas, that career is now open to me and my countrymen.'
-Materialist history is the most madly incredible of all histories,
+Materialist [[history]] is the most madly incredible of all histories,
 or even of all romances.  Whatever starts wars, the thing that
-sustains wars is something in the soul; that is something akin
-to religion.  It is what men feel about life and about death.
-A man near to death is dealing directly with an absolute;
+sustains wars is something in the [[Soul|soul]]; that is something akin
+to religion.  It is what men feel about life and about [[Death|death]].
+A man near to [[Death|death]] is dealing directly with an absolute;
 it is nonsense to say he is concerned only with relative and remote
-complications that death in any case will end.  If he is sustained
-by certain loyalties, they must be loyalties as simple as death.
+complications that [[Death|death]] in any case will end.  If he is sustained
+by certain loyalties, they must be loyalties as simple as [[Death|death]].
 They are generally two ideas, which are only two sides of one idea.
-The first is the love of something said to be threatened, if it
-be only vaguely known as home; the second is dislike and defiance
+The first is the [[Love|love]] of something said to be threatened, if it
+be only vaguely known as [[Home|home]]; the second is dislike and defiance
 of some strange thing that threatens it.  The first is far more
 philosophical than it sounds, though we need not discuss it here.
-A man does not want his national home destroyed or even changed,
+A man does not want his national [[Home|home]] destroyed or even changed,
 because he cannot even remember all the good things that go with it;
-just as he does not want his house burnt down, because he can
+just as he does not want his [[house]] burnt down, because he can
 hardly count all the things he would miss.  Therefore he fights
-for what sounds like a hazy abstraction, but is really a house.
-But the negative side of it is quite as noble as well as quite as strong.
+for what sounds like a hazy abstraction, but is really a [[house]].
+But the negative side of it is quite as noble as [[Well|well]] as quite as strong.
 Men fight hardest when they feel that the foe is at once an old enemy
 and an eternal stranger, that his atmosphere is alien and antagonistic,
 as the French feel about the Prussian or the Eastern Christians
 about the Turk.  If we say it is a difference of religion,
 people will drift into dreary bickerings about sects and dogmas.
-We will pity them and say it is a difference about death and daylight;
-a difference that does really come like a dark shadow between our eyes
+We will pity them and say it is a difference about [[Death|death]] and daylight;
+a difference that does really come like a dark [[Shadow|shadow]] between our eyes
 and the day.  Men can think of this difference even at the point
-of death; for it is a difference about the meaning of life.
+of [[Death|death]]; for it is a difference about the meaning of life.
 
 Men are moved in these things by something far higher and holier
 than policy; by hatred.  When men hung on in the darkest days
-of the Great War, suffering either in their bodies or in their souls
+of the Great War, [[Suffering|suffering]] either in their bodies or in their souls
 for those they loved, they were long past caring about details
 of diplomatic objects as motives for their refusal to surrender.
 Of myself and those I knew best I can answer for the vision that made
 surrender impossible.  It was the vision of the German Emperor's
-face as he rode into Paris.  This is not the sentiment which some
-of my idealistic friends describe as Love.  I am quite content
+face as he rode into [[Paris]].  This is not the sentiment which some
+of my idealistic friends describe as [[Love]].  I am quite content
 to call it hatred; the hatred of hell and all its works, and to agree
 that as they do not believe in hell they need not believe in hatred.
 But in the face of this prevalent prejudice, this long introduction
@@ -123,7 +123,7 @@ has been unfortunately necessary, to ensure an understanding
 of what is meant by a religious war.  There is a religious war
 when two worlds meet; that is when two visions of the world meet;
 or in more modern language when two moral atmospheres meet.
-What is the one man's breath is the other man's poison;
+What is the one man's breath is the other man's [[Poison|poison]];
 and it is vain to talk of giving a pestilence a place in the sun.
 And this is what we must understand, even at the expense of digression,
 if we would see what really happened in the Mediterranean;

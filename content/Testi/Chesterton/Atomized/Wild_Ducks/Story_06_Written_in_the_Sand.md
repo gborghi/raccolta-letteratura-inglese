@@ -18,7 +18,7 @@ Written in the Sand
 
 
 In the mid-way of this our mortal life, I find myself
-(as in one of the changes of a dream) at a watering-place on
+(as in one of the changes of [[A Dream|a dream]]) at a watering-place on
 the East Coast.  I find among other things that it is raining
 and that my fellow creatures, or at least my fellow visitors,
 are in a state of irrational indignation over that circumstance.
@@ -28,14 +28,14 @@ I explain to them how unjust, how fundamentally unpoetic is
 the current prejudice against rain.
 
 I point out to them how singular an example this prejudice
-affords of the perverse and artificial nature of our modern
+affords of the perverse and artificial [[Nature|nature]] of our modern
 English patriotism... All Englishmen join in reviling that
 lovable and admirable English thing, the English climate.
 Everybody blasphemously rails against those mutable and
 magnificent skies which are a perpetual transformation scene.
 Everybody vilifies this land of violent and benignant clouds,
 the only land that could have produced the stormy summers of
-Constable or the red apocalypse of Turner.  Of these mysterious
+Constable or the red [[Apocalypse|apocalypse]] of Turner.  Of these mysterious
 phases rain is only one, and not the least beautiful.
 When I point this out to my fellow Englishmen their spirit takes
 on something of the turbid transformations of the English sky.
@@ -46,7 +46,7 @@ The waters below the firmament were divided from the waters
 that were above the firmament.  And lo! they are wedded again.'
 This kind of conversation naturally makes me popular.
 
-I am particularly beloved by those who are frustrated in their desire
+I am particularly beloved by those who are frustrated in their [[Desire|desire]]
 for sea-bathing. `What,' I exclaim, `your whole heart is set on wetting
 yourself in that silly pool of salt.  Give me,' I cry ecstatically,
 `the Baths of Heaven!'  After thus discussing the matter with various
@@ -91,7 +91,7 @@ in large letters all over the newspapers, `What is Wrong?'
 
 The thing that is wrong is a certain fallacy with which we
 English have comforted ourselves for same decades, which may be
-called the fallacy of unity, or in another and slighter form,
+called the fallacy of [[unity]], or in another and slighter form,
 the fallacy of sociability.  What I mean is this, that we
 have fallen into a habit of regarding the fact that some school
 or nation is full of quarrelling as a sign that it is weak.
@@ -104,7 +104,7 @@ It is simply that they have something to do.  The reason that
 the French groups split and fight is not that they are Latins;
 it is not even that they are French.  It is simply that they
 have something to do.  And the reason that English politicians
-work together in unity is certainly not that they are English.
+work together in [[unity]] is certainly not that they are English.
 It is that they have nothing to do; when, for instance, they had
 James II to dethrone, or when they had Walpole to howl against,
 or when they had Napoleon to fight, they behaved exactly as

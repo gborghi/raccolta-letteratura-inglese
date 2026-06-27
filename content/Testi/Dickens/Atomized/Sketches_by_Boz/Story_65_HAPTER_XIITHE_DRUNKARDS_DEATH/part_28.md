@@ -1,5 +1,5 @@
 ---
-title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 28)"
+title: "Sketches by Boz — HAPTER XII—THE DRUNKARD’S [[Death|DEATH]] (part 28)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Sketches-by-Boz-(Dickens)"
@@ -16,7 +16,7 @@ tags:
 
 Doctor Johnson used to tell a story of a man who had but one idea,
 which was a wrong one. The couple who dote upon their children are in
-the same predicament: at home or abroad, at all times, and in all
+the same predicament: at [[Home|home]] or abroad, at all times, and in all
 places, their thoughts are bound up in this one subject, and have no
 sphere beyond. They relate the clever things their offspring say or do,
 and weary every company with their prolixity and absurdity. Mr.
@@ -27,11 +27,11 @@ account of all her own past sufferings and present expectations. In
 such cases the sins of the fathers indeed descend upon the children;
 for people soon come to regard them as predestined little bores. The
 couple who dote upon their children cannot be said to be actuated by a
-general love for these engaging little people (which would be a great
-excuse); for they are apt to underrate and entertain a jealousy of any
+general [[Love|love]] for these engaging little people (which would be a great
+excuse); for they are apt to underrate and entertain a [[Jealousy|jealousy]] of any
 children but their own. If they examined their own hearts, they would,
-perhaps, find at the bottom of all this, more self-love and egotism
-than they think of. Self-love and egotism are bad qualities, of which
+perhaps, find at the [[Bottom|bottom]] of all this, more [[Self|self]]-[[Love|love]] and egotism
+than they think of. [[Self]]-[[Love|love]] and egotism are bad qualities, of which
 the unrestrained exhibition, though it may be sometimes amusing, never
 fails to be wearisome and unpleasant. Couples who dote upon their
 children, therefore, are best avoided.
@@ -42,7 +42,7 @@ children, therefore, are best avoided.
 THE COOL COUPLE
 
 
-There is an old-fashioned weather-glass representing a house with two
+There is an old-fashioned weather-glass representing a [[house]] with two
 doorways, in one of which is the figure of a gentleman, in the other
 the figure of a lady. When the weather is to be fine the lady comes out
 and the gentleman goes in; when wet, the gentleman comes out and the
@@ -53,22 +53,22 @@ politeness and consideration about the behaviour of the gentleman in
 the weather-glass, in which, neither of the cool couple can be said to
 participate.
 
-The cool couple are seldom alone together, and when they are, nothing
+The cool couple are seldom [[Alone|alone]] together, and when they are, nothing
 can exceed their apathy and dulness: the gentleman being for the most
 part drowsy, and the lady silent. If they enter into conversation, it
-is usually of an ironical or recriminatory nature. Thus, when the
+is usually of an ironical or recriminatory [[Nature|nature]]. Thus, when the
 gentleman has indulged in a very long yawn and settled himself more
-snugly in his easy-chair, the lady will perhaps remark, ‘Well, I am
-sure, Charles! I hope you’re comfortable.’ To which the gentleman
+snugly in his easy-chair, the lady will perhaps remark, ‘[[Well]], I am
+sure, Charles! I [[Hope|hope]] you’re comfortable.’ To which the gentleman
 replies, ‘Oh yes, he’s quite comfortable quite.’ ‘There are not many
-married men, I hope,’ returns the lady, ‘who seek comfort in such
+married men, I [[Hope|hope]],’ returns the lady, ‘who seek comfort in such
 selfish gratifications as you do.’ ‘Nor many wives who seek comfort in
-such selfish gratifications as _you_ do, I hope,’ retorts the
+such selfish gratifications as _you_ do, I [[Hope|hope]],’ retorts the
 gentleman. ‘Whose fault is that?’ demands the lady. The gentleman
 becoming more sleepy, returns no answer. ‘Whose fault is that?’ the
 lady repeats. The gentleman still returning no answer, she goes on to
 say that she believes there never was in all this world anybody so
-attached to her home, so thoroughly domestic, so unwilling to seek a
+attached to her [[Home|home]], so thoroughly domestic, so unwilling to seek a
 moment’s gratification or pleasure beyond her own fireside as she. God
 knows that before she was married she never thought or dreamt of such a
 thing; and she remembers that her poor papa used to say again and
@@ -77,31 +77,31 @@ marry a man who understands you, and takes the trouble to consider your
 happiness and accommodate himself a very little to your disposition,
 what a treasure he will find in you!’ She supposes her papa knew what
 her disposition was—he had known her long enough—he ought to have been
-acquainted with it, but what can she do? If her home is always dull and
+acquainted with it, but what can she do? If her [[Home|home]] is always dull and
 lonely, and her husband is always absent and finds no pleasure in her
 society, she is naturally sometimes driven (seldom enough, she is sure)
 to seek a little recreation elsewhere; she is not expected to pine and
-mope to death, she hopes. ‘Then come, Louisa,’ says the gentleman,
-waking up as suddenly as he fell asleep, ‘stop at home this evening,
+mope to [[Death|death]], she hopes. ‘Then come, Louisa,’ says the gentleman,
+waking up as suddenly as he fell asleep, ‘stop at [[Home|home]] this evening,
 and so will I.’ ‘I should be sorry to suppose, Charles, that you took a
-pleasure in aggravating me,’ replies the lady; ‘but you know as well as
+pleasure in aggravating me,’ replies the lady; ‘but you know as [[Well|well]] as
 I do that I am particularly engaged to Mrs. Mortimer, and that it would
 be an act of the grossest rudeness and ill-breeding, after accepting a
 seat in her box and preventing her from inviting anybody else, not to
 go.’ ‘Ah! there it is!’ says the gentleman, shrugging his shoulders, ‘I
-knew that perfectly well. I knew you couldn’t devote an evening to your
-own home. Now all I have to say, Louisa, is this—recollect that _I_ was
-quite willing to stay at home, and that it’s no fault of _mine_ we are
+knew that perfectly [[Well|well]]. I knew you couldn’t devote an evening to your
+own [[Home|home]]. Now all I have to say, Louisa, is this—recollect that _I_ was
+quite willing to stay at [[Home|home]], and that it’s no fault of _mine_ we are
 not oftener together.’
 
 With that the gentleman goes away to keep an old appointment at his
 club, and the lady hurries off to dress for Mrs. Mortimer’s; and
 neither thinks of the other until by some odd chance they find
-themselves alone again.
+themselves [[Alone|alone]] again.
 
 But it must not be supposed that the cool couple are habitually a
 quarrelsome one. Quite the contrary. These differences are only
-occasions for a little self-excuse,—nothing more. In general they are
+occasions for a little [[Self|self]]-excuse,—nothing more. In general they are
 as easy and careless, and dispute as seldom, as any common
 acquaintances may; for it is neither worth their while to put each
 other out of the way, nor to ruffle themselves.
@@ -115,7 +115,7 @@ coming this way too.’ ‘How very odd!’ says the lady, in a languid tone,
 to all the other ladies and nodding slightly to his wife, it turns out
 that he has been at Dover, and has just now returned. ‘What a strange
 creature you are!’ cries his wife; ‘and what on earth brought you here,
-I wonder?’ ‘I came to look after you, _of course_,’ rejoins her
+I [[Wonder|wonder]]?’ ‘I came to look after you, _of course_,’ rejoins her
 husband. This is so pleasant a jest that the lady is mightily amused,
 as are all the other ladies similarly situated who are within hearing;
 and while they are enjoying it to the full, the gentleman nods again,

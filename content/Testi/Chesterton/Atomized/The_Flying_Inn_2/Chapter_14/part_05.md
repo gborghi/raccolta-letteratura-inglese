@@ -20,11 +20,11 @@ the copse, hallooing, "The police are here!"
 Dalroy, who loved leaving everything to the last
 instant, tore up the sign, with Bullrose literally
 hanging to it, shook him off like a ripe fruit, and then
-plunged into the tunnel, the clamorous Quoodle at
+plunged into the tunnel, the clamorous [[quoodle|Quoodle]] at
 his heels.  Before even Ivywood (the promptest of
 his party) could reach the spot, he had clashed to the
 wood door and bolted it across with his wooden staple.
-He had not had time even to sheath his sword.
+He had not had [[Time|time]] even to sheath his [[Sword|sword]].
 
 "Break down this door," said Lord Ivywood, calmly.
 "I noticed they haven't finished loading their cart."
@@ -47,23 +47,23 @@ was, he only heard a publican wanted by the police.--Yet even he paused, and ind
 "My lord, I would like a word.  I learned my catechism
 and never was with the Radicals.  I want you
 to look at what you've done to me.  You've stolen a
-house that was mine as that one's yours.  You've
+[[house]] that was mine as that one's yours.  You've
 made me a dirty tramp, that was a man respected in
 church and market.  Now you send me where I might
 have cells or the Cat.  If I might make so bold, what
 do you suppose I think of you?  Do you think because
-you go up to London and settle it with lords in
+you go up to [[London]] and settle it with lords in
 Parliament and bring back a lot of papers and long words,
 that makes any difference to the man you do it to?
 By what I can see, you're just a bad and cruel master,
 like those God punished in the old days; like Squire
-Varney the weasels killed in Holy Wood.  Well,
+Varney the weasels killed in Holy Wood.  [[Well]],
 parson always said one might shoot at robbers, and I
 want to tell your lordship," he ended respectfully, "that
 I have a gun."
 
 Ivywood instantly stepped into the darkness, and
-spoke in a voice shaken with some emotion, the nature
+spoke in a voice shaken with some emotion, the [[Nature|nature]]
 of which was never certainly known.
 
 "The police are here," he said, "but I'll arrest you
@@ -77,7 +77,7 @@ with a bullet above his knee.
 Almost at the same instant a shout and a bark
 announced that the cart had started as a complete
 equipage.  It was even more than complete, for the instant
-before it moved Mr. Quoodle had sprung into it, and,
+before it moved Mr. [[quoodle|Quoodle]] had sprung into it, and,
 as it was driven off, sat erect in it, looking solemn.
 
 * * *

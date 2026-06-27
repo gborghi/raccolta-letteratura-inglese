@@ -1,5 +1,5 @@
 ---
-title: "Great Expectations — Chapter 22 (part 1)"
+title: "[[Great Expectations]] — Chapter 22 (part 1)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Great-Expectations-(Dickens)"
@@ -20,16 +20,16 @@ Chapter XXII.
 The pale young gentleman and I stood contemplating one another in
 Barnard’s Inn, until we both burst out laughing. “The idea of its being
 you!” said he. “The idea of its being _you_!” said I. And then we
-contemplated one another afresh, and laughed again. “Well!” said the
+contemplated one another afresh, and laughed again. “[[Well]]!” said the
 pale young gentleman, reaching out his hand good-humouredly, “it’s all
-over now, I hope, and it will be magnanimous in you if you’ll forgive
+over now, I [[Hope|hope]], and it will be magnanimous in you if you’ll forgive
 me for having knocked you about so.”
 
-I derived from this speech that Mr. Herbert Pocket (for Herbert was the
+I derived from this speech that Mr. [[Herbert Pocket]] (for Herbert was the
 pale young gentleman’s name) still rather confounded his intention with
 his execution. But I made a modest reply, and we shook hands warmly.
 
-“You hadn’t come into your good fortune at that time?” said Herbert
+“You hadn’t come into your good fortune at that [[Time|time]]?” said Herbert
 Pocket.
 
 “No,” said I.
@@ -39,7 +39,7 @@ rather on the lookout for good fortune then.”
 
 “Indeed?”
 
-“Yes. Miss Havisham had sent for me, to see if she could take a fancy
+“Yes. [[Miss Havisham]] had sent for me, to see if she could take a fancy
 to me. But she couldn’t,—at all events, she didn’t.”
 
 I thought it polite to remark that I was surprised to hear that.
@@ -47,7 +47,7 @@ I thought it polite to remark that I was surprised to hear that.
 “Bad taste,” said Herbert, laughing, “but a fact. Yes, she had sent for
 me on a trial visit, and if I had come out of it successfully, I
 suppose I should have been provided for; perhaps I should have been
-what-you-may-called it to Estella.”
+what-you-may-called it to [[Estella]].”
 
 “What’s that?” I asked, with sudden gravity.
 
@@ -60,23 +60,23 @@ Engaged. What’s-his-named. Any word of that sort.”
 
 “Pooh!” said he, “I didn’t care much for it. _She’s_ a Tartar.”
 
-“Miss Havisham?”
+“[[Miss Havisham]]?”
 
-“I don’t say no to that, but I meant Estella. That girl’s hard and
+“I don’t say no to that, but I meant [[Estella]]. That girl’s hard and
 haughty and capricious to the last degree, and has been brought up by
-Miss Havisham to wreak revenge on all the male sex.”
+[[Miss Havisham]] to wreak [[Revenge|revenge]] on all the male sex.”
 
-“What relation is she to Miss Havisham?”
+“What relation is she to [[Miss Havisham]]?”
 
 “None,” said he. “Only adopted.”
 
-“Why should she wreak revenge on all the male sex? What revenge?”
+“Why should she wreak [[Revenge|revenge]] on all the male sex? What [[Revenge|revenge]]?”
 
 “Lord, Mr. Pip!” said he. “Don’t you know?”
 
 “No,” said I.
 
-“Dear me! It’s quite a story, and shall be saved till dinner-time. And
+“Dear me! It’s quite a story, and shall be saved till dinner-[[Time|time]]. And
 now let me take the liberty of asking you a question. How did you come
 there, that day?”
 
@@ -89,27 +89,27 @@ established.
 
 “Yes.”
 
-“You know he is Miss Havisham’s man of business and solicitor, and has
+“You know he is [[Miss Havisham]]’s man of business and solicitor, and has
 her confidence when nobody else has?”
 
 This was bringing me (I felt) towards dangerous ground. I answered with
 a constraint I made no attempt to disguise, that I had seen Mr. Jaggers
-in Miss Havisham’s house on the very day of our combat, but never at
-any other time, and that I believed he had no recollection of having
+in [[Miss Havisham]]’s [[house]] on the very day of our combat, but never at
+any other [[Time|time]], and that I believed he had no recollection of having
 ever seen me there.
 
 “He was so obliging as to suggest my father for your tutor, and he
 called on my father to propose it. Of course he knew about my father
-from his connection with Miss Havisham. My father is Miss Havisham’s
+from his connection with [[Miss Havisham]]. My father is [[Miss Havisham]]’s
 cousin; not that that implies familiar intercourse between them, for he
 is a bad courtier and will not propitiate her.”
 
-Herbert Pocket had a frank and easy way with him that was very taking.
+[[Herbert Pocket]] had a frank and easy way with him that was very taking.
 I had never seen any one then, and I have never seen any one since, who
 more strongly expressed to me, in every look and tone, a natural
 incapacity to do anything secret and mean. There was something
 wonderfully hopeful about his general air, and something that at the
-same time whispered to me he would never be very successful or rich. I
+same [[Time|time]] whispered to me he would never be very successful or rich. I
 don’t know how this was. I became imbued with the notion on that first
 occasion before we sat down to dinner, but I cannot define by what
 means.

@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 7: HOW MR. WINKLE, INSTEAD OF SHOOTING AT THE PIGEON AND (part 4)"
+title: "The [[Pickwick]] Papers — Chapter 7: HOW MR. WINKLE, INSTEAD OF SHOOTING AT THE PIGEON AND (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -14,7 +14,7 @@ tags:
 </nav>
 
 
-Mr. Pickwick was sufficiently versed in the stranger’s system of
+Mr. [[Pickwick]] was sufficiently versed in the stranger’s system of
 stenography to infer from this rapid and disjointed communication that
 he had, somehow or other, contracted an acquaintance with the All-
 Muggletons, which he had converted, by a process peculiar to himself,
@@ -37,7 +37,7 @@ indeed it is generally supposed that it is quite impossible to look out
 properly in any other position.
 
 The umpires were stationed behind the wickets; the scorers were prepared
-to notch the runs; a breathless silence ensued. Mr. Luffey retired a few
+to notch the runs; a breathless [[Silence|silence]] ensued. Mr. Luffey retired a few
 paces behind the wicket of the passive Podder, and applied the ball to
 his right eye for several seconds. Dumkins confidently awaited its
 coming with his eyes fixed on the motions of Luffey.
@@ -56,11 +56,11 @@ to garnish himself and Muggleton. He blocked the doubtful balls, missed
 the bad ones, took the good ones, and sent them flying to all parts of
 the field. The scouts were hot and tired; the bowlers were changed and
 bowled till their arms ached; but Dumkins and Podder remained
-unconquered. Did an elderly gentleman essay to stop the progress of the
+unconquered. Did an elderly gentleman [[Essay|essay]] to stop the progress of the
 ball, it rolled between his legs or slipped between his fingers. Did a
 slim gentleman try to catch it, it struck him on the nose, and bounded
 pleasantly off with redoubled violence, while the slim gentleman’s eyes
-filled with water, and his form writhed with anguish. Was it thrown
+filled with [[Water|water]], and his form writhed with anguish. Was it thrown
 straight up to the wicket, Dumkins had reached it before the ball. In
 short, when Dumkins was caught out, and Podder stumped out, All-
 Muggleton had notched some fifty-four, while the score of the Dingley
@@ -83,7 +83,7 @@ seemed to establish him in the opinion of all around, as a most
 excellent and undeniable judge of the whole art and mystery of the noble
 game of cricket.
 
-‘Capital game--well played--some strokes admirable,’ said the stranger,
+‘Capital game--[[Well|well]] played--some strokes admirable,’ said the stranger,
 as both sides crowded into the tent, at the conclusion of the game.
 
 ‘You have played it, sir?’ inquired Mr. Wardle, who had been much amused
@@ -91,11 +91,11 @@ by his loquacity.
 
 ‘Played it! Think I have--thousands of times--not here--West Indies--
 exciting thing--hot work--very.’ ‘It must be rather a warm pursuit in
-such a climate,’ observed Mr. Pickwick.
+such a climate,’ observed Mr. [[Pickwick]].
 
 ‘Warm!--red hot--scorching--glowing. Played a match once--single wicket-
 -friend the colonel--Sir Thomas Blazo--who should get the greatest
-number of runs.--Won the toss--first innings--seven o’clock A.M.--six
+number of runs.--Won the toss--first innings--seven o’[[Clock|clock]] A.M.--six
 natives to look out--went in; kept in--heat intense--natives all
 fainted--taken away--fresh half-dozen ordered--fainted also--Blazo
 bowling--supported by two natives--couldn’t bowl me out--fainted too--
@@ -119,10 +119,10 @@ on his own--died, sir.’ Here the stranger buried his countenance in a
 brown jug, but whether to hide his emotion or imbibe its contents, we
 cannot distinctly affirm. We only know that he paused suddenly, drew a
 long and deep breath, and looked anxiously on, as two of the principal
-members of the Dingley Dell club approached Mr. Pickwick, and said--
+members of the Dingley Dell club approached Mr. [[Pickwick]], and said--
 
-‘We are about to partake of a plain dinner at the Blue Lion, Sir; we
-hope you and your friends will join us.’
+‘We are about to partake of a plain dinner at the Blue [[Lion]], Sir; we
+[[Hope|hope]] you and your friends will join us.’
 
 Of course,’ said Mr. Wardle, ‘among our friends we include Mr.--;’ and
 he looked towards the stranger.

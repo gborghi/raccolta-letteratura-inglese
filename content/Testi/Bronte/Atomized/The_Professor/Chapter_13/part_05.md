@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 12 (part 5)"
+title: "[[The Professor]] — Chapter 12 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -24,7 +24,7 @@ through the persiennes of one croisee, seemed to direct me to it.
 
 is a fascinating little woman,” I continued in voiceless soliloquy; “her
 
-image forms a pleasant picture in memory; I know she is not what the
+image forms a pleasant picture in [[Memory|memory]]; I know she is not what the
 
 world calls pretty--no matter, there is harmony in her aspect, and I
 
@@ -32,9 +32,9 @@ like it; her brown hair, her blue eye, the freshness of her cheek, the
 
 whiteness of her neck, all suit my taste. Then I respect her talent;
 
-the idea of marrying a doll or a fool was always abhorrent to me: I know
+the idea of marrying a doll or a [[Fool|fool]] was always abhorrent to me: I know
 
-that a pretty doll, a fair fool, might do well enough for the honeymoon;
+that a pretty doll, a fair [[Fool|fool]], might do [[Well|well]] enough for the honeymoon;
 
 but when passion cooled, how dreadful to find a lump of wax and wood
 
@@ -46,7 +46,7 @@ rest of my dreary life with a creature incapable of understanding what
 
 I said, of appreciating what I thought, or of sympathizing with what I
 
-felt! “Now, Zoraide Reuter,” thought I, “has tact, CARACTERE, judgment,
+felt! “Now, [[Zoraide Reuter]],” thought I, “has tact, CARACTERE, judgment,
 
 discretion; has she heart? What a good, simple little smile played
 
@@ -60,7 +60,7 @@ the efforts made by a bland temper to traverse quietly perplexing
 
 difficulties? And as to interest, she wishes to make her way in the
 
-world, no doubt, and who can blame her? Even if she be truly deficient
+world, no [[Doubt|doubt]], and who can blame her? Even if she be truly deficient
 
 in sound principle, is it not rather her misfortune than her fault? She
 
@@ -86,7 +86,7 @@ a bugle, very skilfully played, in the neighbourhood of the park, I
 
 thought, or on the Place Royale. So sweet were the tones, so subduing
 
-their effect at that hour, in the midst of silence and under the
+their effect at that hour, in the midst of [[Silence|silence]] and under the
 
 quiet reign of moonlight, I ceased to think, that I might listen more
 
@@ -96,11 +96,11 @@ gone; my ear prepared to repose on the absolute hush of midnight once
 
 more. No. What murmur was that which, low, and yet near and approaching
 
-nearer, frustrated the expectation of total silence? It was some one
+nearer, frustrated the expectation of total [[Silence|silence]]? It was some one
 
 conversing--yes, evidently, an audible, though subdued voice spoke in
 
-the garden immediately below me. Another answered; the first voice was
+the [[Garden|garden]] immediately below me. Another answered; the first voice was
 
 that of a man, the second that of a woman; and a man and a woman I saw
 
@@ -110,7 +110,7 @@ could but discern a dusk outline of each, but a ray of moonlight met
 
 them at the termination of the walk, when they were under my very nose,
 
-and revealed very plainly, very unequivocally, Mdlle. Zoraide Reuter,
+and revealed very plainly, very unequivocally, Mdlle. [[Zoraide Reuter]],
 
 arm-in-arm, or hand-in-hand (I forget which) with my principal,
 
@@ -154,17 +154,17 @@ trousseau.”
 
 devotedly as I do: my torment is your sport; you scruple not to stretch
 
-my soul on the rack of jealousy; for, deny it as you will, I am certain
+my [[Soul|soul]] on the rack of [[Jealousy|jealousy]]; for, deny it as you will, I am certain
 
 you have cast encouraging glances on that school-boy, Crimsworth; he has
 
-presumed to fall in love, which he dared not have done unless you had
+presumed to fall in [[Love|love]], which he dared not have done unless you had
 
-given him room to hope.”
+given him room to [[Hope|hope]].”
 
 
 
-“What do you say, Francois? Do you say Crimsworth is in love with me?”
+“What do you say, Francois? Do you say Crimsworth is in [[Love|love]] with me?”
 
 
 
@@ -222,7 +222,7 @@ least, from her reply.
 
 “What folly! How could I prefer an unknown foreigner to you? And
 
-then--not to flatter your vanity--Crimsworth could not bear comparison
+then--not to flatter your [[Vanity|vanity]]--Crimsworth could not bear comparison
 
 with you either physically or mentally; he is not a handsome man at all;
 
@@ -238,16 +238,16 @@ from the chair in which they had been seated, moved away. I waited their
 
 return, but soon the opening and shutting of a door informed me that
 
-they had re-entered the house; I listened a little longer, all was
+they had re-entered the [[house]]; I listened a little longer, all was
 
 perfectly still; I listened more than an hour--at last I heard M. Pelet
 
 come in and ascend to his chamber. Glancing once more towards the long
 
-front of the garden-house, I perceived that its solitary light was
+front of the [[Garden|garden]]-[[house]], I perceived that its solitary light was
 
-at length extinguished; so, for a time, was my faith in love and
+at length extinguished; so, for a [[Time|time]], was my [[Faith|faith]] in [[Love|love]] and
 
-friendship. I went to bed, but something feverish and fiery had got into
+[[Friendship|friendship]]. I went to bed, but something feverish and fiery had got into
 
-my veins which prevented me from sleeping much that night.
+my veins which prevented me from sleeping much that [[Night|night]].

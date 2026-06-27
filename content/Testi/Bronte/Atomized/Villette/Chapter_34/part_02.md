@@ -1,5 +1,5 @@
 ---
-title: "Villette — Chapter 32 (part 2)"
+title: "[[Villette]] — Chapter 32 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Villette-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 “What have you to ask of Lucy?” said I; “be brave, and speak out.”
 
-But there was no courage in her eye; as it met mine, it fell; and there
+But there was no [[Courage|courage]] in her eye; as it met mine, it fell; and there
 was no coolness on her cheek—not a transient surface-blush, but a
 gathering inward excitement raised its tint and its temperature.
 
@@ -26,14 +26,14 @@ me your real opinion of his character, his disposition.”
 “His character stands high, and deservedly high.”
 
 “And his disposition? Tell me about his disposition,” she urged; “you
-know him well.”
+know him [[Well|well]].”
 
-“I know him pretty well.”
+“I know him pretty [[Well|well]].”
 
-“You know his home-side. You have seen him with his mother; speak of
+“You know his [[Home|home]]-side. You have seen him with his mother; speak of
 him as a son.”
 
-“He is a fine-hearted son; his mother’s comfort and hope, her pride and
+“He is a fine-hearted son; his mother’s comfort and [[Hope|hope]], her [[Pride|pride]] and
 pleasure.”
 
 She held my hand between hers, and at each favourable word gave it a
@@ -53,8 +53,8 @@ who tremble before some pitiless and selfish surgeons, welcome him.”
 hospital; I saw how he was received: your father’s friends are right.”
 
 The softest gratitude animated her eye as she lifted it a moment. She
-had yet more to say, but seemed hesitating about time and place. Dusk
-was beginning to reign; her parlour fire already glowed with twilight
+had yet more to say, but seemed hesitating about [[Time|time]] and place. Dusk
+was beginning to reign; her parlour [[Fire|fire]] already glowed with twilight
 ruddiness; but I thought she wished the room dimmer, the hour later.
 
 “How quiet and secluded we feel here!” I remarked, to reassure her.
@@ -87,21 +87,21 @@ And she looked and spoke—the little Polly of Bretton—petulant,
 sensitive.
 
 “If,” said she, emphatically, “if I liked Dr. John till I was fit to
-die for liking him, that alone could not license me to be otherwise
-than dumb—dumb as the grave—dumb as you, Lucy Snowe—you know it—and you
-know you would despise me if I failed in self-control, and whined about
+die for liking him, that [[Alone|alone]] could not license me to be otherwise
+than dumb—dumb as the [[Grave|grave]]—dumb as you, [[Lucy Snowe]]—you know it—and you
+know you would despise me if I failed in [[Self|self]]-control, and whined about
 some rickety liking that was all on my side.”
 
 “It is true I little respect women or girls who are loquacious either
 in boasting the triumphs, or bemoaning the mortifications, of feelings.
-But as to you, Paulina, speak, for I earnestly wish to hear you. Tell
+But as to you, [[Paulina]], speak, for I earnestly wish to hear you. Tell
 me all it will give you pleasure or relief to tell: I ask no more.”
 
 “Do you care for me, Lucy?”
 
-“Yes, I do, Paulina.”
+“Yes, I do, [[Paulina]].”
 
-“And I love you. I had an odd content in being with you even when I was
+“And I [[Love|love]] you. I had an odd content in being with you even when I was
 a little, troublesome, disobedient girl; it was charming to me then to
 lavish on you my naughtiness and whims. Now you are acceptable to me,
 and I like to talk with and trust you. So listen, Lucy.”
@@ -116,7 +116,7 @@ business; this was true, but I did not tell you all.”
 “You evaded?”
 
 “I shuffled and equivocated, you know. However, I am going to speak the
-truth now; it is getting darker; one can talk at one’s ease. Papa often
+[[Truth|truth]] now; it is getting darker; one can talk at one’s ease. Papa often
 lets me open the letter-bag and give him out the contents. One morning,
 about three weeks ago, you don’t know how surprised I was to find,
 amongst a dozen letters for M. de Bassompierre, a note addressed to
@@ -125,20 +125,20 @@ handwriting was not strange; it attracted me directly. I was going to
 say, ‘Papa, here is another letter from Dr. Bretton;’ but the ‘Miss’
 struck me mute. I actually never received a letter from a gentleman
 before. Ought I to have shown it to papa, and let him open it and read
-it first? I could not for my life, Lucy. I know so well papa’s ideas
+it first? I could not for my life, Lucy. I know so [[Well|well]] papa’s ideas
 about me: he forgets my age; he thinks I am a mere school-girl; he is
 not aware that other people see I am grown up as tall as I shall be;
-so, with a curious mixture of feelings, some of them self-reproachful,
+so, with a curious mixture of feelings, some of them [[Self|self]]-reproachful,
 and some so fluttering and strong, I cannot describe them, I gave papa
 his twelve letters—his herd of possessions—and kept back my one, my
-ewe-lamb. It lay in my lap during breakfast, looking up at me with an
-inexplicable meaning, making me feel myself a thing double-existent—a
-child to that dear papa, but no more a child to myself. After breakfast
+ewe-[[Lamb|lamb]]. It lay in my lap during breakfast, looking up at me with an
+inexplicable meaning, making me feel myself a thing [[Double|double]]-existent—a
+[[Child|child]] to that dear papa, but no more a [[Child|child]] to myself. After breakfast
 I carried my letter up-stairs, and having secured myself by turning the
 key in the door, I began to study the outside of my treasure: it was
 some minutes before I could get over the direction and penetrate the
 seal; one does not take a strong place of this kind by instant
-storm—one sits down awhile before it, as beleaguers say. Graham’s hand
+[[Storm|storm]]—one sits down awhile before it, as beleaguers say. Graham’s hand
 is like himself, Lucy, and so is his seal—all clear, firm, and
 rounded—no slovenly splash of wax—a full, solid, steady drop—a distinct
 impress; no pointed turns harshly pricking the optic nerve, but a

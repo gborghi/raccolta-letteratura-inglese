@@ -1,5 +1,5 @@
 ---
-title: "The Landscape Garden (part 2)"
+title: "[[The Landscape Garden]] (part 2)"
 author: "Poe"
 unitType: excerpt
 parentWork: "Works/The-Landscape-Garden-(Poe)"
@@ -22,7 +22,7 @@ tags:
 
       and Art; or endowing and bestowing his name upon extensive
 
-      institutions of charity. But, for the inconceivable wealth in the
+      institutions of [[Charity|charity]]. But, for the inconceivable wealth in the
 
       actual possession of the young heir, these objects and all
 
@@ -62,7 +62,7 @@ tags:
 
       discussion to his friends. Nor was I greatly astonished at the
 
-      nature of his decision. In the widest and noblest sense, he was a
+      [[Nature|nature]] of his decision. In the widest and noblest sense, he was a
 
       poet. He comprehended, moreover, the true character, the august
 
@@ -70,9 +70,9 @@ tags:
 
       The proper gratification of the sentiment he instinctively felt
 
-      to lie in the creation of novel forms of Beauty. Some
+      to lie in the creation of [[Novel|novel]] forms of [[Beauty]]. Some
 
-      peculiarities, either in his early education, or in the nature of
+      peculiarities, either in his early [[Education|education]], or in the [[Nature|nature]] of
 
       his intellect, had tinged with what is termed materialism the
 
@@ -82,7 +82,7 @@ tags:
 
       advantageous, if not the sole legitimate field for the exercise
 
-      of the poetic sentiment, was to be found in the creation of novel
+      of the poetic sentiment, was to be found in the creation of [[Novel|novel]]
 
       moods of purely physical loveliness. Thus it happened that he
 
@@ -94,15 +94,15 @@ tags:
 
       which I have already mentioned—the idea, that in the contempt of
 
-      ambition lay one of the essential principles of happiness on
+      [[Ambition|ambition]] lay one of the essential principles of happiness on
 
       earth. Is it not, indeed, possible that while a high order of
 
       genius is necessarily ambitious, the highest is invariably above
 
-      that which is termed ambition? And may it not thus happen that
+      that which is termed [[Ambition|ambition]]? And may it not thus happen that
 
-      many far greater than Milton, have contentedly remained “mute and
+      many far greater than [[Milton]], have contentedly remained “mute and
 
       inglorious?” I believe the world has never yet seen, and that,
 
@@ -112,7 +112,7 @@ tags:
 
       that full extent of triumphant execution, in the richer
 
-      productions of Art, of which the human nature is absolutely
+      productions of Art, of which the human [[Nature|nature]] is absolutely
 
       capable.
 
@@ -126,11 +126,11 @@ tags:
 
       impossible that he would have become a painter. The field of
 
-      sculpture, although in its nature rigidly poetical, was too
+      sculpture, although in its [[Nature|nature]] rigidly poetical, was too
 
       limited in its extent and in its consequences, to have occupied,
 
-      at any time, much of his attention. And I have now mentioned all
+      at any [[Time|time]], much of his attention. And I have now mentioned all
 
       the provinces in which even the most liberal understanding of the
 
@@ -148,13 +148,13 @@ tags:
 
       of the poet; yet my friend could not fail to perceive that the
 
-      creation of the Landscape-Garden offered to the true muse the
+      creation of the Landscape-[[Garden]] offered to the true muse the
 
       most magnificent of opportunities. Here was, indeed, the fairest
 
-      field for the display of invention, or imagination, in the
+      field for the display of invention, or [[Imagination|imagination]], in the
 
-      endless combining of forms of novel Beauty; the elements which
+      endless combining of forms of [[Novel|novel]] [[Beauty]]; the elements which
 
       should enter into combination being, at all times, and by a vast
 
@@ -164,7 +164,7 @@ tags:
 
       he recognized the most direct and the most energetic efforts of
 
-      Nature at physical loveliness. And in the direction or
+      [[Nature]] at physical loveliness. And in the direction or
 
       concentration of this effort, or, still more properly, in its
 
@@ -180,11 +180,11 @@ tags:
 
       In his explanation of this phraseology, Mr. Ellison did much
 
-      towards solving what has always seemed to me an enigma. I mean
+      towards solving what has always seemed to me [[An Enigma|an enigma]]. I mean
 
       the fact (which none but the ignorant dispute) that no such
 
-      combinations of scenery exist in Nature as the painter of genius
+      combinations of scenery exist in [[Nature]] as the painter of genius
 
       has in his power to produce. No such Paradises are to be found in
 

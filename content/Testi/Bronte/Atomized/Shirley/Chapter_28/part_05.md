@@ -1,5 +1,5 @@
 ---
-title: "Shirley — Chapter 28 (part 5)"
+title: "[[Shirley]] — Chapter 28 (part 5)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/Shirley-(Bronte)"
@@ -40,13 +40,13 @@ Moore, though tortured with suspense, did not demand a quick
 
 explanation. He suffered neither gesture, glance, nor word to betray
 
-impatience. His tranquillity tranquillized Shirley; his confidence
+impatience. His tranquillity tranquillized [[Shirley]]; his confidence
 
 reassured her.
 
 
 
-"Great effects may spring from trivial causes," she remarked, as she
+"Great effects may [[spring]] from trivial causes," she remarked, as she
 
 loosened a bracelet from her wrist. Then, unfastening her sleeve, and
 
@@ -66,13 +66,13 @@ take it quietly."
 
 
 
-"Certainly there is nothing in the little mark to shock. Its history
+"Certainly there is nothing in the little mark to shock. Its [[history]]
 
 will explain."
 
 
 
-"Small as it is, it has taken my sleep away, and made me nervous, thin,
+"Small as it is, it has taken my [[Sleep|sleep]] away, and made me nervous, thin,
 
 and foolish; because, on account of that little mark, I am obliged to
 
@@ -92,7 +92,7 @@ man, but my pulse is quickening."
 
 "Whatever happens, you will befriend me, Mr. Moore? You will give me the
 
-benefit of your self-possession, and not leave me at the mercy of
+benefit of your [[Self|self]]-possession, and not leave me at the [[Mercy|mercy]] of
 
 agitated cowards?"
 
@@ -104,9 +104,9 @@ will."
 
 
 
-"It is a very short tale. I took a walk with Isabella and Gertrude one
+"It is a very short tale. I took a walk with [[Isabella]] and [[Gertrude]] one
 
-day, about three weeks ago. They reached home before me; I stayed behind
+day, about three weeks ago. They reached [[Home|home]] before me; I stayed behind
 
 to speak to John. After leaving him, I pleased myself with lingering in
 
@@ -130,19 +130,19 @@ parenthetically.
 
 "I heard a panting sound; a dog came running up the lane. I know most of
 
-the dogs in this neighbourhood. It was Phœbe, one of Mr. Sam Wynne's
+the [[dogs]] in this neighbourhood. It was Phœbe, one of Mr. Sam Wynne's
 
 pointers. The poor creature ran with her head down, her tongue hanging
 
 out; she looked as if bruised and beaten all over. I called her. I meant
 
-to coax her into the house and give her some water and dinner. I felt
+to coax her into the [[house]] and give her some [[Water|water]] and dinner. I felt
 
 sure she had been ill-used. Mr. Sam often flogs his pointers cruelly.
 
 She was too flurried to know me; and when I attempted to pat her head,
 
-she turned and snatched at my arm. She bit it so as to draw blood, then
+she turned and snatched at my arm. She bit it so as to draw [[Blood|blood]], then
 
 ran panting on. Directly after, Mr. Wynne's keeper came up, carrying a
 
@@ -152,7 +152,7 @@ gun. He asked if I had seen a dog. I told him I had seen Phœbe.
 
 "'You had better chain up Tartar, ma'am,' he said, 'and tell your people
 
-to keep within the house. I am after Phœbe to shoot her, and the groom
+to keep within the [[house]]. I am after Phœbe to shoot her, and the groom
 
 is gone another way. She is raging mad.'"
 
@@ -172,7 +172,7 @@ me?"
 
 
 
-"I got as far as the schoolroom door; there my courage failed. I
+"I got as far as the schoolroom door; there my [[Courage|courage]] failed. I
 
 preferred to cushion the matter."
 
@@ -192,11 +192,11 @@ preferred to cushion the matter."
 
 "Yes. I walked straight into the laundry, where they are ironing most of
 
-the week, now that I have so many guests in the house. While the maid
+the week, now that I have so many guests in the [[house]]. While the maid
 
-was busy crimping or starching, I took an Italian iron from the fire,
+was busy crimping or starching, I took an Italian iron from the [[Fire|fire]],
 
-and applied the light scarlet glowing tip to my arm. I bored it well
+and applied the light scarlet glowing tip to my arm. I bored it [[Well|well]]
 
 in. It cauterized the little wound. Then I went upstairs."
 
@@ -212,7 +212,7 @@ all, I think. There was no calm in my mind."
 
 
 
-"There was calm in your person. I remember listening the whole time we
+"There was calm in your person. I remember listening the whole [[Time|time]] we
 
 sat at luncheon, to hear if you moved in the room above. All was quiet."
 
@@ -224,7 +224,7 @@ me."
 
 
 
-"And alone. You like solitude."
+"And [[Alone|alone]]. You like [[Solitude|solitude]]."
 
 
 
@@ -282,7 +282,7 @@ voice, "how is it, then?"
 
 "Because nobody can give the high price you require for your confidence.
 
-Nobody is rich enough to purchase it. Nobody has the honour, the
+Nobody is rich enough to purchase it. Nobody has the [[Honour|honour]], the
 
 intellect, the power you demand in your adviser. There is not a shoulder
 
@@ -290,13 +290,13 @@ in England on which you would rest your hand for support, far less a
 
 bosom which you would permit to pillow your head. Of course you must
 
-live alone."
+live [[Alone|alone]]."
 
 
 
-"I _can_ live alone, if need be. But the question is not how to live,
+"I _can_ live [[Alone|alone]], if need be. But the question is not how to live,
 
-but how to die alone. That strikes me in a more grisly light."
+but how to die [[Alone|alone]]. That strikes me in a more grisly light."
 
 
 

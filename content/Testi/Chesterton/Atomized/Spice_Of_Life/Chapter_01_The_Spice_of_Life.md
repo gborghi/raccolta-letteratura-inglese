@@ -36,35 +36,35 @@ Sources
 
 
 
-THE ESSAY by G. K. Chesterton.
+THE [[Essay|ESSAY]] by G. K. Chesterton.
 
 
 
-THE ESSAY is the only literary form which confesses, in its very name,
+THE [[Essay|ESSAY]] is the only literary form which confesses, in its very name,
 that the rash act known as writing is really a leap in the dark.
-When men try to write a tragedy, they do not call the tragedy
-a try-on. Those who have toiled through the twelve books of an epic,
+When men try to write a [[Tragedy|tragedy]], they do not call the [[Tragedy|tragedy]]
+a try-on. Those who have toiled through the twelve books of an [[Epic|epic]],
 writing it with their own hands, have seldom pretended that they
-have merely tossed off an epic as an experiment.  But an essay,
-by its very name as well as its very nature, really is a try-on
-and really is an experiment.  A man does not really write an essay.
-He does really essay to write an essay.  One result is that,
-while there are many famous essays, there is fortunately no model essay.
-The perfect essay has never been written, for the simple reason
-that the essay has never really been written.  Men have tried
+have merely tossed off an [[Epic|epic]] as an experiment.  But an [[Essay|essay]],
+by its very name as [[Well|well]] as its very [[Nature|nature]], really is a try-on
+and really is an experiment.  A man does not really write an [[Essay|essay]].
+He does really [[Essay|essay]] to write an [[Essay|essay]].  One result is that,
+while there are many famous essays, there is fortunately no model [[Essay|essay]].
+The perfect [[Essay|essay]] has never been written, for the simple reason
+that the [[Essay|essay]] has never really been written.  Men have tried
 to write something, to find out what it was supposed to be.
-In this respect the essay is a typically modern product and is
+In this respect the [[Essay|essay]] is a typically modern product and is
 full of the future and the praise of experiment and adventure.
 In itself it remains somewhat elusive, and I will own that I am
-haunted with a faint suspicion that the essay will probably become
+haunted with a faint suspicion that the [[Essay|essay]] will probably become
 rather more cogent and dogmatic, merely because of the deep and deadly
 divisions which ethical and economic problems may force upon us.
-But let us hope there will always be a place for the essay that is
-really an essay.  St. Thomas Aquinas, with his usual common sense,
+But let us [[Hope|hope]] there will always be a place for the [[Essay|essay]] that is
+really an [[Essay|essay]].  St. Thomas [[aquinas|Aquinas]], with his usual common sense,
 said that neither the active nor the contemplative life could
 be lived without relaxation, in the form of jokes and games.
-The drama or the epic might be called the active life of literature;
-the sonnet or the ode the contemplative life.  The essay is the joke.
+The drama or the [[Epic|epic]] might be called the active life of literature;
+the [[Sonnet|sonnet]] or the ode the contemplative life.  The [[Essay|essay]] is the joke.
 
-Extract from introductory essay by G. K. Chesterton to Essays
+Extract from introductory [[Essay|essay]] by G. K. Chesterton to Essays
 of the Year.  See pp.  173-5 for all sources.

@@ -1,5 +1,5 @@
 ---
-title: "The Professor — Chapter 2 (part 2)"
+title: "[[The Professor]] — Chapter 2 (part 2)"
 author: "Bronte"
 unitType: excerpt
 parentWork: "Works/The-Professor-(Bronte)"
@@ -16,7 +16,7 @@ tags:
 
 a moment thinking, his lips compressed, his brow knit. I had nothing to
 
-do but to watch him--how well his features were cut! what a handsome man
+do but to watch him--how [[Well|well]] his features were cut! what a handsome man
 
 he was! Whence, then, came that air of contraction--that narrow and hard
 
@@ -44,7 +44,7 @@ Turning to me he began abruptly:
 
 
 
-“Well, I am not bound to help you, but I have a place here vacant, if
+“[[Well]], I am not bound to help you, but I have a place here vacant, if
 
 you are qualified for it. I will take you on trial. What can you do? Do
 
@@ -82,13 +82,13 @@ whether he was gratified or not--his countenance remained fixed.
 
 
 
-“It is well,” he said, after a pause, “that you are acquainted with
+“It is [[Well|well]],” he said, after a pause, “that you are acquainted with
 
 something useful, something that may enable you to earn your board and
 
 lodging: since you know French and German, I will take you as second
 
-clerk to manage the foreign correspondence of the house. I shall give
+clerk to manage the foreign correspondence of the [[house]]. I shall give
 
 you a good salary--90l. a year--and now,” he continued, raising his
 
@@ -100,7 +100,7 @@ would never suit me. I shall excuse you nothing on the plea of being my
 
 brother; if I find you stupid, negligent, dissipated, idle, or possessed
 
-of any faults detrimental to the interests of the house, I shall dismiss
+of any faults detrimental to the interests of the [[house]], I shall dismiss
 
 you as I would any other clerk. Ninety pounds a year are good wages, and
 
@@ -124,11 +124,11 @@ consent to be your clerk.”
 
 
 
-I turned on my heel, and walked to the window; this time I did not
+I turned on my heel, and walked to the [[Window|window]]; this [[Time|time]] I did not
 
 consult his face to learn his opinion: what it was I do not know, nor
 
-did I then care. After a silence of some minutes he recommenced:--
+did I then care. After a [[Silence|silence]] of some minutes he recommenced:--
 
 
 
@@ -140,13 +140,13 @@ aware that such an arrangement would be quite inconvenient to me. I
 
 like to have the seat in my gig at liberty for any gentleman whom for
 
-business reasons I may wish to take down to the hall for a night or so.
+business reasons I may wish to take down to the hall for a [[Night|night]] or so.
 
 You will seek out lodgings in X----.”
 
 
 
-Quitting the window, I walked back to the hearth.
+Quitting the [[Window|window]], I walked back to the hearth.
 
 
 
@@ -158,7 +158,7 @@ not suit me either to lodge at Crimsworth Hall.”
 
 My tone was quiet. I always speak quietly. Yet Mr. Crimsworth’s blue eye
 
-became incensed; he took his revenge rather oddly. Turning to me he said
+became incensed; he took his [[Revenge|revenge]] rather oddly. Turning to me he said
 
 bluntly--
 
@@ -192,11 +192,11 @@ shilling extra, whatever liabilities you may incur--mind that.”
 
 
 
-“Yes, Mr. Crimsworth, you will find I have a good memory.”
+“Yes, Mr. Crimsworth, you will find I have a good [[Memory|memory]].”
 
 
 
-I said no more. I did not think the time was come for much parley. I
+I said no more. I did not think the [[Time|time]] was come for much parley. I
 
 had an instinctive feeling that it would be folly to let one’s temper
 
@@ -250,7 +250,7 @@ effort to earn my own living--a sentiment neither poisoned nor weakened
 
 by the presence of the taskmaster, who stood and watched me for some
 
-time as I wrote. I thought he was trying to read my character, but I
+[[Time|time]] as I wrote. I thought he was trying to read my character, but I
 
 felt as secure against his scrutiny as if I had had on a casque with the
 
@@ -260,16 +260,16 @@ that one would show an unlearned man a letter written in Greek; he might
 
 see lines, and trace characters, but he could make nothing of them; my
 
-nature was not his nature, and its signs were to him like the words of
+[[Nature|nature]] was not his [[Nature|nature]], and its signs were to him like the words of
 
 an unknown tongue. Ere long he turned away abruptly, as if baffled, and
 
-left the counting-house; he returned to it but twice in the course of
+left the counting-[[house]]; he returned to it but twice in the course of
 
-that day; each time he mixed and swallowed a glass of brandy-and-water,
+that day; each [[Time|time]] he mixed and swallowed a glass of brandy-and-[[Water|water]],
 
 the materials for making which he extracted from a cupboard on one side
 
 of the fireplace; having glanced at my translations--he could read both
 
-French and German--he went out again in silence.
+French and German--he went out again in [[Silence|silence]].

@@ -1,5 +1,5 @@
 ---
-title: "Sense and Sensibility — Chapter 26"
+title: "[[Sense and Sensibility]] — Chapter 26"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Sense-and-Sensibility-(Austen)"
@@ -22,7 +22,7 @@ CHAPTER XXVI.
 
 Elinor could not find herself in the carriage with Mrs. Jennings, and
 
-beginning a journey to London under her protection, and as her guest,
+beginning a [[Journey|journey]] to [[London]] under her protection, and as her guest,
 
 without wondering at her own situation, so short had their acquaintance
 
@@ -34,11 +34,11 @@ only a few days before! But these objections had all, with that happy
 
 ardour of youth which Marianne and her mother equally shared, been
 
-overcome or overlooked; and Elinor, in spite of every occasional doubt
+overcome or overlooked; and Elinor, in spite of every occasional [[Doubt|doubt]]
 
 of Willoughby’s constancy, could not witness the rapture of delightful
 
-expectation which filled the whole soul and beamed in the eyes of
+expectation which filled the whole [[Soul|soul]] and beamed in the eyes of
 
 Marianne, without feeling how blank was her own prospect, how cheerless
 
@@ -46,9 +46,9 @@ her own state of mind in the comparison, and how gladly she would
 
 engage in the solicitude of Marianne’s situation to have the same
 
-animating object in view, the same possibility of hope. A short, a very
+animating object in view, the same possibility of [[Hope|hope]]. A short, a very
 
-short time however must now decide what Willoughby’s intentions were;
+short [[Time|time]] however must now decide what Willoughby’s intentions were;
 
 in all probability he was already in town. Marianne’s eagerness to be
 
@@ -68,7 +68,7 @@ observations be unfavourable, she was determined at all events to open
 
 the eyes of her sister; should it be otherwise, her exertions would be
 
-of a different nature—she must then learn to avoid every selfish
+of a different [[Nature|nature]]—she must then learn to avoid every selfish
 
 comparison, and banish every regret which might lessen her satisfaction
 
@@ -76,15 +76,15 @@ in the happiness of Marianne.
 
 
 
-They were three days on their journey, and Marianne’s behaviour as they
+They were three days on their [[Journey|journey]], and Marianne’s behaviour as they
 
 travelled was a happy specimen of what future complaisance and
 
 companionableness to Mrs. Jennings might be expected to be. She sat in
 
-silence almost all the way, wrapt in her own meditations, and scarcely
+[[Silence|silence]] almost all the way, wrapt in her own meditations, and scarcely
 
-ever voluntarily speaking, except when any object of picturesque beauty
+ever voluntarily speaking, except when any object of picturesque [[Beauty|beauty]]
 
 within their view drew from her an exclamation of delight exclusively
 
@@ -106,15 +106,15 @@ own dinners at the inn, nor extort a confession of their preferring
 
 salmon to cod, or boiled fowls to veal cutlets. They reached town by
 
-three o’clock the third day, glad to be released, after such a journey,
+three o’[[Clock|clock]] the third day, glad to be released, after such a [[Journey|journey]],
 
 from the confinement of a carriage, and ready to enjoy all the luxury
 
-of a good fire.
+of a good [[Fire|fire]].
 
 
 
-The house was handsome, and handsomely fitted up, and the young ladies
+The [[house]] was handsome, and handsomely fitted up, and the young ladies
 
 were immediately put in possession of a very comfortable apartment. It
 
@@ -132,7 +132,7 @@ arrival, Elinor determined to employ the interval in writing to her
 
 mother, and sat down for that purpose. In a few moments Marianne did
 
-the same. “_I_ am writing home, Marianne,” said Elinor; “had not you
+the same. “_I_ am writing [[Home|home]], Marianne,” said Elinor; “had not you
 
 better defer your letter for a day or two?”
 
@@ -186,7 +186,7 @@ things were brought in, and already had Marianne been disappointed more
 
 than once by a rap at a neighbouring door, when a loud one was suddenly
 
-heard which could not be mistaken for one at any other house, Elinor
+heard which could not be mistaken for one at any other [[house]], Elinor
 
 felt secure of its announcing Willoughby’s approach, and Marianne,
 
@@ -204,15 +204,15 @@ she could not help exclaiming, “Oh, Elinor, it is Willoughby, indeed it
 
 is!” and seemed almost ready to throw herself into his arms, when
 
-Colonel Brandon appeared.
+[[Colonel Brandon]] appeared.
 
 
 
 It was too great a shock to be borne with calmness, and she immediately
 
-left the room. Elinor was disappointed too; but at the same time her
+left the room. Elinor was disappointed too; but at the same [[Time|time]] her
 
-regard for Colonel Brandon ensured his welcome with her; and she felt
+regard for [[Colonel Brandon]] ensured his welcome with her; and she felt
 
 particularly hurt that a man so partial to her sister should perceive
 
@@ -244,9 +244,9 @@ He heard her with the most earnest attention, but seeming to recollect
 
 himself, said no more on the subject, and began directly to speak of
 
-his pleasure at seeing them in London, making the usual inquiries about
+his pleasure at seeing them in [[London]], making the usual inquiries about
 
-their journey, and the friends they had left behind.
+their [[Journey|journey]], and the friends they had left behind.
 
 
 
@@ -256,11 +256,11 @@ they continued to talk, both of them out of spirits, and the thoughts
 
 of both engaged elsewhere. Elinor wished very much to ask whether
 
-Willoughby were then in town, but she was afraid of giving him pain by
+Willoughby were then in town, but she was afraid of giving him [[Pain|pain]] by
 
 any enquiry after his rival; and at length, by way of saying something,
 
-she asked if he had been in London ever since she had seen him last.
+she asked if he had been in [[London]] ever since she had seen him last.
 
 “Yes,” he replied, with some embarrassment, “almost ever since; I have
 
@@ -290,9 +290,9 @@ come before—beg your pardon, but I have been forced to look about me a
 
 little, and settle my matters; for it is a long while since I have been
 
-at home, and you know one has always a world of little odd things to do
+at [[Home|home]], and you know one has always a world of little odd things to do
 
-after one has been away for any time; and then I have had Cartwright to
+after one has been away for any [[Time|time]]; and then I have had Cartwright to
 
 settle with. Lord, I have been as busy as a bee ever since dinner! But
 
@@ -308,19 +308,19 @@ dining.”
 
 
 
-“Oh, you did; well, and how do they all do at their house? How does
+“Oh, you did; [[Well|well]], and how do they all do at their [[house]]? How does
 
-Charlotte do? I warrant you she is a fine size by this time.”
+Charlotte do? I warrant you she is a fine size by this [[Time|time]].”
 
 
 
-“Mrs. Palmer appeared quite well, and I am commissioned to tell you,
+“Mrs. Palmer appeared quite [[Well|well]], and I am commissioned to tell you,
 
 that you will certainly see her to-morrow.”
 
 
 
-“Ay, to be sure, I thought as much. Well, Colonel, I have brought two
+“Ay, to be sure, I thought as much. [[Well]], Colonel, I have brought two
 
 young ladies with me, you see—that is, you see but one of them now, but
 
@@ -330,17 +330,17 @@ will not be sorry to hear. I do not know what you and Mr. Willoughby
 
 will do between you about her. Ay, it is a fine thing to be young and
 
-handsome. Well! I was young once, but I never was very handsome—worse
+handsome. [[Well]]! I was young once, but I never was very handsome—worse
 
 luck for me. However, I got a very good husband, and I don’t know what
 
-the greatest beauty can do more. Ah! poor man! he has been dead these
+the greatest [[Beauty|beauty]] can do more. Ah! poor man! he has been dead these
 
 eight years and better. But Colonel, where have you been to since we
 
 parted? And how does your business go on? Come, come, let’s have no
 
-secrets among friends.”
+[[Secrets|secrets]] among friends.”
 
 
 
@@ -352,7 +352,7 @@ Marianne was obliged to appear again.
 
 
 
-After her entrance, Colonel Brandon became more thoughtful and silent
+After her entrance, [[Colonel Brandon]] became more thoughtful and silent
 
 than he had been before, and Mrs. Jennings could not prevail on him to
 
@@ -362,7 +362,7 @@ unanimous in agreeing to go early to bed.
 
 
 
-Marianne rose the next morning with recovered spirits and happy looks.
+Marianne [[Rose|rose]] the next morning with recovered spirits and happy looks.
 
 The disappointment of the evening before seemed forgotten in the
 
@@ -380,7 +380,7 @@ their coming to town, though it was what she had rather expected all
 
 along; so angry at their accepting her mother’s invitation after having
 
-declined her own, though at the same time she would never have forgiven
+declined her own, though at the same [[Time|time]] she would never have forgiven
 
 them if they had not come!
 
@@ -426,7 +426,7 @@ every where, her sister could never obtain her opinion of any article
 
 of purchase, however it might equally concern them both: she received
 
-no pleasure from anything; was only impatient to be at home again, and
+no pleasure from anything; was only impatient to be at [[Home|home]] again, and
 
 could with difficulty govern her vexation at the tediousness of Mrs.
 
@@ -434,13 +434,13 @@ Palmer, whose eye was caught by every thing pretty, expensive, or new;
 
 who was wild to buy all, could determine on none, and dawdled away her
 
-time in rapture and indecision.
+[[Time|time]] in rapture and indecision.
 
 
 
-It was late in the morning before they returned home; and no sooner had
+It was late in the morning before they returned [[Home|home]]; and no sooner had
 
-they entered the house than Marianne flew eagerly up stairs, and when
+they entered the [[house]] than Marianne flew eagerly up stairs, and when
 
 Elinor followed, she found her turning from the table with a sorrowful
 
@@ -464,7 +464,7 @@ The man replied that none had.
 
 “How very odd!” said she, in a low and disappointed voice, as she
 
-turned away to the window.
+turned away to the [[Window|window]].
 
 
 
@@ -506,18 +506,18 @@ engagements; and Elinor was obliged to assist in making a whist table
 
 for the others. Marianne was of no use on these occasions, as she would
 
-never learn the game; but though her time was therefore at her own
+never learn the game; but though her [[Time|time]] was therefore at her own
 
 disposal, the evening was by no means more productive of pleasure to
 
 her than to Elinor, for it was spent in all the anxiety of expectation
 
-and the pain of disappointment. She sometimes endeavoured for a few
+and the [[Pain|pain]] of disappointment. She sometimes endeavoured for a few
 
 minutes to read; but the book was soon thrown aside, and she returned
 
 to the more interesting employment of walking backwards and forwards
 
-across the room, pausing for a moment whenever she came to the window,
+across the room, pausing for a moment whenever she came to the [[Window|window]],
 
 in hopes of distinguishing the long-expected rap.

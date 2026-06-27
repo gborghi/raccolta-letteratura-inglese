@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 7)"
+title: "The [[Pickwick]] Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES (part 7)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -31,7 +31,7 @@ power to state, with the utmost confidence, that he was the man who
 would eventually be returned.
 
 There was a show of hands; the mayor decided in favour of the Honourable
-Samuel Slumkey, of Slumkey Hall. Horatio Fizkin, Esquire, of Fizkin
+Samuel Slumkey, of Slumkey Hall. [[Horatio]] Fizkin, Esquire, of Fizkin
 Lodge, demanded a poll, and a poll was fixed accordingly. Then a vote of
 thanks was moved to the mayor for his able conduct in the chair; and the
 mayor, devoutly wishing that he had had a chair to display his able
@@ -40,20 +40,20 @@ returned thanks. The processions reformed, the carriages rolled slowly
 through the crowd, and its members screeched and shouted after them as
 their feelings or caprice dictated.
 
-During the whole time of the polling, the town was in a perpetual fever
+During the whole [[Time|time]] of the polling, the town was in a perpetual fever
 of excitement. Everything was conducted on the most liberal and
 delightful scale. Excisable articles were remarkably cheap at all the
-public-houses; and spring vans paraded the streets for the accommodation
+public-houses; and [[Spring|spring]] vans paraded the streets for the accommodation
 of voters who were seized with any temporary dizziness in the head--an
 epidemic which prevailed among the electors, during the contest, to a
 most alarming extent, and under the influence of which they might
 frequently be seen lying on the pavements in a state of utter
-insensibility. A small body of electors remained unpolled on the very
+insensibility. A small [[Body|body]] of electors remained unpolled on the very
 last day. They were calculating and reflecting persons, who had not yet
 been convinced by the arguments of either party, although they had
 frequent conferences with each. One hour before the close of the poll,
-Mr. Perker solicited the honour of a private interview with these
+Mr. Perker solicited the [[Honour|honour]] of a private interview with these
 intelligent, these noble, these patriotic men. It was granted. His
-arguments were brief but satisfactory. They went in a body to the poll;
+arguments were brief but satisfactory. They went in a [[Body|body]] to the poll;
 and when they returned, the Honourable Samuel Slumkey, of Slumkey Hall,
 was returned also.

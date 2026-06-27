@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — The Peacemaker"
+title: "ball and [[Cross|cross]] — The Peacemaker"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -18,28 +18,28 @@ V. THE PEACEMAKER
 
 When the combatants, with crossed swords, became suddenly
 conscious of a third party, they each made the same movement.
-It was as quick as the snap of a pistol, and they altered it
+It was as quick as the snap of a [[Pistol|pistol]], and they altered it
 instantaneously and recovered their original pose, but they had both
 made it, they had both seen it, and they both knew what it was.
 It was not a movement of anger at being interrupted.
 Say or think what they would, it was a movement of relief.
 A force within them, and yet quite beyond them, seemed slowly
 and pitilessly washing away the adamant of their oath.
-As mistaken lovers might watch the inevitable sunset of first love,
+As mistaken [[lovers]] might watch the inevitable sunset of first [[Love|love]],
 these men watched the sunset of their first hatred.
 
 Their hearts were growing weaker and weaker against each other.
-When their weapons rang and riposted in the little London garden,
+When their weapons rang and riposted in the little [[London]] [[Garden|garden]],
 they could have been very certain that if a third party had
 interrupted them something at least would have happened.
 They would have killed each other or they would have killed him.
 But now nothing could undo or deny that flash of fact, that for a second
 they had been glad to be interrupted.  Some new and strange thing was
-rising higher and higher in their hearts like a high sea at night.
+rising higher and higher in their hearts like a high sea at [[Night|night]].
 It was something that seemed all the more merciless, because it
-might turn out an enormous mercy.  Was there, perhaps, some such
-fatalism in friendship as all lovers talk about in love?
-Did God make men love each other against their will?
+might turn out an enormous [[Mercy|mercy]].  Was there, perhaps, some such
+fatalism in [[Friendship|friendship]] as all [[lovers]] talk about in [[Love|love]]?
+Did God make men [[Love|love]] each other against their will?
 
 "I'm sure you'll excuse my speaking to you," said the stranger,
 in a voice at once eager and deprecating.
@@ -70,30 +70,30 @@ coming out of so heavy and hearty a type of man was, as I have said,
 startlingly shrill and deferential.
 
 "I'm sure you'll excuse my speaking to you," he said.
-"Now, I wonder if you are in some little difficulty which, after all,
+"Now, I [[Wonder|wonder]] if you are in some little difficulty which, after all,
 we could settle very comfortably together?  Now, you don't mind
 my saying this, do you?"
 
 The face of both combatants remained somewhat solid under this appeal.
-But the stranger, probably taking their silence for a gathering shame,
+But the stranger, probably taking their [[Silence|silence]] for a gathering shame,
 continued with a kind of gaiety:
 
 "So you are the young men I have read about in the papers.
-Well, of course, when one is young, one is rather romantic.
+[[Well]], of course, when one is young, one is rather romantic.
 Do you know what I always say to young people?"
 
-A blank silence followed this gay inquiry.  Then Turnbull said
+A blank [[Silence|silence]] followed this gay inquiry.  Then Turnbull said
 in a colourless voice:
 
 "As I was forty-seven last birthday, I probably came into the world
 too soon for the experience."
 
-"Very good, very good," said the friendly person.  "Dry Scotch humour.
-Dry Scotch humour.  Well now.  I understand that you two people want
+"Very good, very good," said the friendly person.  "Dry Scotch [[Humour|humour]].
+Dry Scotch [[Humour|humour]].  [[Well]] now.  I understand that you two people want
 to fight a duel.  I suppose you aren't much up in the modern world.
-We've quite outgrown duelling, you know.  In fact, Tolstoy tells
+We've quite outgrown duelling, you know.  In fact, [[tolstoy|Tolstoy]] tells
 us that we shall soon outgrow war, which he says is simply a duel
-between nations.  A duel between nations.  But there is no doubt
+between nations.  A duel between nations.  But there is no [[Doubt|doubt]]
 about our having outgrown duelling."
 
 Waiting for some effect upon his wooden auditors, the stranger
@@ -114,19 +114,19 @@ and he assumed a good-humoured gravity.
 "But you know this is a serious matter," he said, eyeing Turnbull
 and MacIan, as if they had just been keeping the table in a roar
 with their frivolities.  "I am sure that if I appealed to your higher
-natures...your higher natures.  Every man has a higher nature
-and a lower nature.  Now, let us put the matter very plainly,
-and without any romantic nonsense about honour or anything of that sort.
+natures...your higher natures.  Every man has a higher [[Nature|nature]]
+and a lower [[Nature|nature]].  Now, let us put the matter very plainly,
+and without any romantic nonsense about [[Honour|honour]] or anything of that sort.
 Is not bloodshed a great sin?"
 
-"No," said MacIan, speaking for the first time.
+"No," said MacIan, speaking for the first [[Time|time]].
 
-"Well, really, really!" said the peacemaker.
+"[[Well]], really, really!" said the peacemaker.
 
 "Murder is a sin," said the immovable Highlander.  "There is no
 sin of bloodshed."
 
-"Well, we won't quarrel about a word," said the other, pleasantly.
+"[[Well]], we won't quarrel about a word," said the other, pleasantly.
 
 "Why on earth not?" said MacIan, with a sudden asperity.
 "Why shouldn't we quarrel about a word?  What is the good
@@ -152,48 +152,48 @@ MacIan made a violent gesture; and Turnbull broke into open laughter.
 The peacemaker did not seem to be in the least annoyed, but continued
 in unabated enjoyment.
 
-"Well, well," he said, "let us get back to the point.
-Now Tolstoy has shown that force is no remedy; so you see
+"[[Well]], [[Well|well]]," he said, "let us get back to the point.
+Now [[tolstoy|Tolstoy]] has shown that force is no remedy; so you see
 the position in which I am placed.  I am doing my best
 to stop what I'm sure you won't mind my calling this really
 useless violence, this really quite wrong violence of yours.
 But it's against my principles to call in the police against you,
 because the police are still on a lower moral plane, so to speak,
 because, in short, the police undoubtedly sometimes employ force.
-Tolstoy has shown that violence merely breeds violence in the person
-towards whom it is used, whereas Love, on the other hand, breeds Love.
-So you see how I am placed.  I am reduced to use Love in order
-to stop you.  I am obliged to use Love."
+[[tolstoy|Tolstoy]] has shown that violence merely breeds violence in the person
+towards whom it is used, whereas [[Love]], on the other hand, breeds [[Love]].
+So you see how I am placed.  I am reduced to use [[Love]] in order
+to stop you.  I am obliged to use [[Love]]."
 
 He gave to the word an indescribable sound of something hard and heavy,
-as if he were saying "boots". Turnbull suddenly gripped his sword
-and said, shortly, "I see how you are placed quite well, sir.
+as if he were saying "boots". Turnbull suddenly gripped his [[Sword|sword]]
+and said, shortly, "I see how you are placed quite [[Well|well]], sir.
 You will not call the police.  Mr. MacIan, shall we engage?"
-MacIan plucked his sword out of the grass.
+MacIan plucked his [[Sword|sword]] out of the grass.
 
 "I must and will stop this shocking crime," cried the Tolstoian,
 crimson in the face.  "It is against all modern ideas.
-It is against the principle of love.  How you, sir, who pretend
+It is against the principle of [[Love|love]].  How you, sir, who pretend
 to be a Christian..."
 
 MacIan turned upon him with a white face and bitter lip.
-"Sir," he said, "talk about the principle of love as much as you like.
+"Sir," he said, "talk about the principle of [[Love|love]] as much as you like.
 You seem to me colder than a lump of stone; but I am willing to believe
-that you may at some time have loved a cat, or a dog, or a child.
+that you may at some [[Time|time]] have loved a cat, or a dog, or a [[Child|child]].
 When you were a baby, I suppose you loved your mother.
-Talk about love, then, till the world is sick of the word.
-But don't you talk about Christianity.  Don't you dare to say one word,
-white or black, about it.  Christianity is, as far as you are concerned,
+Talk about [[Love|love]], then, till the world is sick of the word.
+But don't you talk about [[Christianity]].  Don't you dare to say one word,
+white or black, about it.  [[Christianity]] is, as far as you are concerned,
 a horrible mystery.  Keep clear of it, keep silent upon it,
 as you would upon an abomination.  It is a thing that has made
 men slay and torture each other; and you will never know why.
 It is a thing that has made men do evil that good might come;
-and you will never understand the evil, let alone the good.
-Christianity is a thing that could only make you vomit, till you are
+and you will never understand the evil, let [[Alone|alone]] the good.
+[[Christianity]] is a thing that could only make you vomit, till you are
 other than you are.  I would not justify it to you even if I could.
 Hate it, in God's name, as Turnbull does, who is a man.
 It is a monstrous thing, for which men die.  And if you will stand
-here and talk about love for another ten minutes it is very probable
+here and talk about [[Love|love]] for another ten minutes it is very probable
 that you will see a man die for it."
 
 And he fell on guard.  Turnbull was busy settling something loose
@@ -206,9 +206,9 @@ in his elaborate hilt, and the pause was broken by the stranger.
 "Dogma!" cried the man, in a sort of dismay.  "Oh, we have
 no _dogmas_, you know!"
 
-There was another silence, and he said again, airily:
+There was another [[Silence|silence]], and he said again, airily:
 
-"You know, I think, there's something in what Shaw teaches
+"You know, I think, there's something in what [[Shaw]] teaches
 about no moral principles being quite fixed.  Have you ever read
 _The Quintessence of Ibsenism_?  Of course he went very wrong
 over the war."
@@ -218,14 +218,14 @@ piece of the pommel with string.  With the string in his teeth,
 he said, "Oh, make up your damned mind and clear out!"
 
 "It's a serious thing," said the philosopher, shaking his head.
-"I must be alone and consider which is the higher point of view.
+"I must be [[Alone|alone]] and consider which is the higher point of view.
 I rather feel that in a case so extreme as this..." and he went
 slowly away.  As he disappeared among the trees, they heard him
-murmuring in a sing-song voice, "New occasions teach new duties,"
+murmuring in a sing-[[Song|song]] voice, "New occasions teach new duties,"
 out of a poem by James Russell Lowell.
 
 "Ah," said MacIan, drawing a deep breath.  "Don't you believe
-in prayer now?  I prayed for an angel."
+in [[Prayer|prayer]] now?  I prayed for an angel."
 
 "I am afraid I don't understand," answered Turnbull.
 
@@ -233,12 +233,12 @@ in prayer now?  I prayed for an angel."
 "I felt the devil weakening my heart and my oath against you,
 and I prayed that God would send an angel to my aid."
 
-"Well?" inquired the other, finishing his mending and wrapping
+"[[Well]]?" inquired the other, finishing his [[mending]] and wrapping
 the rest of the string round his hand to get a firmer grip.
 
-"Well?"
+"[[Well]]?"
 
-"Well, that man was an angel," said MacIan.
+"[[Well]], that man was an angel," said MacIan.
 
 "I didn't know they were as bad as that," answered Turnbull.
 
@@ -249,21 +249,21 @@ If that man had not tried to stop us...I might...I might have stopped."
 
 "I know what you mean," said Turnbull, grimly.
 
-"But then he came," broke out MacIan, "and my soul said to me:
+"But then he came," broke out MacIan, "and my [[Soul|soul]] said to me:
 'Give up fighting, and you will become like That.  Give up vows
 and dogmas, and fixed things, and you may grow like That.
-You may learn, also, that fog of false philosophy.  You may grow
+You may learn, also, that fog of false [[philosophy]].  You may grow
 fond of that mire of crawling, cowardly morals, and you may come
 to think a blow bad, because it hurts, and not because it humiliates.
 You may come to think murder wrong, because it is violent,
 and not because it is unjust.'  Oh, you blasphemer of the good,
-an hour ago I almost loved you!  But do not fear for me now.
-I have heard the word Love pronounced in _his_ intonation;
+an hour ago I almost loved you!  But do not [[Fear|fear]] for me now.
+I have heard the word [[Love]] pronounced in _his_ intonation;
 and I know exactly what it means.  On guard!"
 
 The swords caught on each other with a dreadful clang and jar,
 full of the old energy and hate; and at once plunged and replunged.
-Once more each man's heart had become the magnet of a mad sword.
+Once more each man's heart had become the magnet of a mad [[Sword|sword]].
 Suddenly, furious as they were, they were frozen for a moment motionless.
 
 "What noise is that?" asked the Highlander, hoarsely.
@@ -272,5 +272,5 @@ Suddenly, furious as they were, they were frozen for a moment motionless.
 
 "What?... What?" cried the other.
 
-"The student of Shaw and Tolstoy has made up his remarkable mind,"
-said Turnbull, quietly.  "The police are coming up the hill."
+"The student of [[Shaw]] and [[tolstoy|Tolstoy]] has made up his remarkable mind,"
+said Turnbull, quietly.  "The police are coming up the [[Hill|hill]]."

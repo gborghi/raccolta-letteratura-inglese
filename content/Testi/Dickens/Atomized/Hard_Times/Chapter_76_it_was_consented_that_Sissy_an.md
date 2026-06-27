@@ -15,7 +15,7 @@ tags:
 
 
 part—it was consented that Sissy and Louisa should repair to the place in
-question, by a circuitous course, alone; and that the unhappy father,
+question, by a circuitous course, [[Alone|alone]]; and that the unhappy father,
 setting forth in an opposite direction, should get round to the same
 bourne by another and wider route.  It was further agreed that he should
 not present himself to Mr. Sleary, lest his intentions should be
@@ -23,31 +23,31 @@ mistrusted, or the intelligence of his arrival should cause his son to
 take flight anew; but, that the communication should be left to Sissy and
 Louisa to open; and that they should inform the cause of so much misery
 and disgrace, of his father’s being at hand and of the purpose for which
-they had come.  When these arrangements had been well considered and were
-fully understood by all three, it was time to begin to carry them into
+they had come.  When these arrangements had been [[Well|well]] considered and were
+fully understood by all three, it was [[Time|time]] to begin to carry them into
 execution.  Early in the afternoon, Mr. Gradgrind walked direct from his
-own house into the country, to be taken up on the line by which he was to
-travel; and at night the remaining two set forth upon their different
+own [[house]] into the country, to be taken up on the line by which he was to
+travel; and at [[Night|night]] the remaining two set forth upon their different
 course, encouraged by not seeing any face they knew.
 
-The two travelled all night, except when they were left, for odd numbers
+The two travelled all [[Night|night]], except when they were left, for odd numbers
 of minutes, at branch-places, up illimitable flights of steps, or down
 wells—which was the only variety of those branches—and, early in the
 morning, were turned out on a swamp, a mile or two from the town they
 sought.  From this dismal spot they were rescued by a savage old
-postilion, who happened to be up early, kicking a horse in a fly: and so
+postilion, who happened to be up early, kicking a [[Horse|horse]] in a fly: and so
 were smuggled into the town by all the back lanes where the pigs lived:
 which, although not a magnificent or even savoury approach, was, as is
 usual in such cases, the legitimate highway.
 
-The first thing they saw on entering the town was the skeleton of
+The first thing they saw on entering the town was the [[skeleton]] of
 Sleary’s Circus.  The company had departed for another town more than
-twenty miles off, and had opened there last night.  The connection
-between the two places was by a hilly turnpike-road, and the travelling
-on that road was very slow.  Though they took but a hasty breakfast, and
+twenty miles off, and had opened there last [[Night|night]].  The connection
+between the two places was by a hilly turnpike-[[Road|road]], and the travelling
+on that [[Road|road]] was very slow.  Though they took but a hasty breakfast, and
 no rest (which it would have been in vain to seek under such anxious
-circumstances), it was noon before they began to find the bills of
-Sleary’s Horse-riding on barns and walls, and one o’clock when they
+circumstances), it was [[Noon|noon]] before they began to find the bills of
+Sleary’s [[Horse]]-riding on barns and walls, and one o’[[Clock|clock]] when they
 stopped in the market-place.
 
 A Grand Morning Performance by the Riders, commencing at that very hour,
@@ -59,8 +59,8 @@ would be sure to know her, and would proceed with discretion.  If he were
 not, he would be sure to see them inside; and, knowing what he had done
 with the fugitive, would proceed with discretion still.
 
-Therefore, they repaired, with fluttering hearts, to the well-remembered
-booth.  The flag with the inscription SLEARY’S HORSE-RIDING was there;
+Therefore, they repaired, with fluttering hearts, to the [[Well|well]]-remembered
+booth.  The [[Flag|flag]] with the [[Inscription|inscription]] SLEARY’S [[Horse|HORSE]]-RIDING was there;
 and the Gothic niche was there; but Mr. Sleary was not there.  Master
 Kidderminster, grown too maturely turfy to be received by the wildest
 credulity as Cupid any more, had yielded to the invincible force of
@@ -71,9 +71,9 @@ moments and superfluous forces.  In the extreme sharpness of his look out
 for base coin, Mr. Kidderminster, as at present situated, never saw
 anything but money; so Sissy passed him unrecognised, and they went in.
 
-The Emperor of Japan, on a steady old white horse stencilled with black
+The Emperor of Japan, on a steady old white [[Horse|horse]] stencilled with black
 spots, was twirling five wash-hand basins at once, as it is the favourite
-recreation of that monarch to do.  Sissy, though well acquainted with his
+recreation of that monarch to do.  Sissy, though [[Well|well]] acquainted with his
 Royal line, had no personal knowledge of the present Emperor, and his
 reign was peaceful.  Miss Josephine Sleary, in her celebrated graceful
 Equestrian Tyrolean Flower Act, was then announced by a new clown (who
@@ -81,21 +81,21 @@ humorously said Cauliflower Act), and Mr. Sleary appeared, leading her
 in.
 
 Mr. Sleary had only made one cut at the Clown with his long whip-lash,
-and the Clown had only said, ‘If you do it again, I’ll throw the horse at
+and the Clown had only said, ‘If you do it again, I’ll throw the [[Horse|horse]] at
 you!’ when Sissy was recognised both by father and daughter.  But they
-got through the Act with great self-possession; and Mr. Sleary, saving
+got through the Act with great [[Self|self]]-possession; and Mr. Sleary, saving
 for the first instant, conveyed no more expression into his locomotive
 eye than into his fixed one.  The performance seemed a little long to
 Sissy and Louisa, particularly when it stopped to afford the Clown an
 opportunity of telling Mr. Sleary (who said ‘Indeed, sir!’ to all his
-observations in the calmest way, and with his eye on the house) about two
+observations in the calmest way, and with his eye on the [[house]]) about two
 legs sitting on three legs looking at one leg, when in came four legs,
 and laid hold of one leg, and up got two legs, caught hold of three legs,
 and threw ’em at four legs, who ran away with one leg.  For, although an
-ingenious Allegory relating to a butcher, a three-legged stool, a dog,
-and a leg of mutton, this narrative consumed time; and they were in great
+ingenious [[Allegory]] relating to a butcher, a three-legged stool, a dog,
+and a leg of mutton, this narrative consumed [[Time|time]]; and they were in great
 suspense.  At last, however, little fair-haired Josephine made her
-curtsey amid great applause; and the Clown, left alone in the ring, had
+curtsey amid great applause; and the Clown, left [[Alone|alone]] in the ring, had
 just warmed himself, and said, ‘Now _I_’ll have a turn!’ when Sissy was
 touched on the shoulder, and beckoned out.
 
@@ -103,16 +103,16 @@ She took Louisa with her; and they were received by Mr. Sleary in a very
 little private apartment, with canvas sides, a grass floor, and a wooden
 ceiling all aslant, on which the box company stamped their approbation,
 as if they were coming through.  ‘Thethilia,’ said Mr. Sleary, who had
-brandy and water at hand, ‘it doth me good to thee you.  You wath alwayth
+brandy and [[Water|water]] at hand, ‘it doth me good to thee you.  You wath alwayth
 a favourite with uth, and you’ve done uth credith thinth the old timeth
 I’m thure.  You mutht thee our people, my dear, afore we thpeak of
 bithnith, or they’ll break their hearth—ethpethially the women.  Here’th
 Jothphine hath been and got married to E. W. B. Childerth, and thee hath
 got a boy, and though he’th only three yearth old, he thtickth on to any
-pony you can bring againtht him.  He’th named The Little Wonder of
+pony you can bring againtht him.  He’th named The Little [[Wonder]] of
 Thcolathtic Equitation; and if you don’t hear of that boy at Athley’th,
 you’ll hear of him at Parith.  And you recollect Kidderminthter, that
-wath thought to be rather thweet upon yourthelf?  Well.  He’th married
+wath thought to be rather thweet upon yourthelf?  [[Well]].  He’th married
 too.  Married a widder.  Old enough to be hith mother.  Thee wath
 Tightrope, thee wath, and now thee’th nothing—on accounth of fat.
 They’ve got two children, tho we’re thtrong in the Fairy bithnith and the
@@ -121,23 +121,23 @@ father and mother both a dyin’ on a horthe—their uncle a retheiving of
 ’em ath hith wardth, upon a horthe—themthelvth both a goin’ a
 black-berryin’ on a horthe—and the Robinth a coming in to cover ’em with
 leavth, upon a horthe—you’d thay it wath the completetht thing ath ever
-you thet your eyeth on!  And you remember Emma Gordon, my dear, ath wath
-a’motht a mother to you?  Of courthe you do; I needn’t athk.  Well!
-Emma, thee lotht her huthband.  He wath throw’d a heavy back-fall off a
+you thet your eyeth on!  And you remember [[Emma]] Gordon, my dear, ath wath
+a’motht a mother to you?  Of courthe you do; I needn’t athk.  [[Well]]!
+[[Emma]], thee lotht her huthband.  He wath throw’d a heavy back-fall off a
 Elephant in a thort of a Pagoda thing ath the Thultan of the Indieth, and
-he never got the better of it; and thee married a thecond time—married a
-Cheethemonger ath fell in love with her from the front—and he’th a
+he never got the better of it; and thee married a thecond [[Time|time]]—married a
+Cheethemonger ath fell in [[Love|love]] with her from the front—and he’th a
 Overtheer and makin’ a fortun.’
 
 These various changes, Mr. Sleary, very short of breath now, related with
-great heartiness, and with a wonderful kind of innocence, considering
+great heartiness, and with a wonderful kind of [[innocence]], considering
 what a bleary and brandy-and-watery old veteran he was.  Afterwards he
 brought in Josephine, and E. W. B. Childers (rather deeply lined in the
-jaws by daylight), and the Little Wonder of Scholastic Equitation, and in
+jaws by daylight), and the Little [[Wonder]] of Scholastic Equitation, and in
 a word, all the company.  Amazing creatures they were in Louisa’s eyes,
 so white and pink of complexion, so scant of dress, and so demonstrative
 of leg; but it was very agreeable to see them crowding about Sissy, and
-very natural in Sissy to be unable to refrain from tears.
+very natural in Sissy to be unable to refrain from [[Tears|tears]].
 
 ‘There!  Now Thethilia hath kithd all the children, and hugged all the
 women, and thaken handth all round with all the men, clear, every one of
@@ -149,8 +149,8 @@ to be Mith Thquire.’
 
 ‘This is his sister.  Yes.’
 
-‘And t’other on’th daughter.  That’h what I mean.  Hope I thee you well,
-mith.  And I hope the Thquire’th well?’
+‘And t’other on’th daughter.  That’h what I mean.  [[Hope]] I thee you [[Well|well]],
+mith.  And I [[Hope|hope]] the Thquire’th [[Well|well]]?’
 
 ‘My father will be here soon,’ said Louisa, anxious to bring him to the
 point.  ‘Is my brother safe?’
@@ -171,7 +171,7 @@ ecthpenthive bathket one), he an’t on yet.  Now, do you thee ’em all?’
 
 ‘Yes,’ they both said.
 
-‘Look at ’em again,’ said Sleary, ‘look at ’em well.  You thee em all?
+‘Look at ’em again,’ said Sleary, ‘look at ’em [[Well|well]].  You thee em all?
 Very good.  Now, mith;’ he put a form for them to sit on; ‘I have my
 opinionth, and the Thquire your father hath hith.  I don’t want to know
 what your brother’th been up to; ith better for me not to know.  All I
@@ -187,24 +187,24 @@ after the performanth.  I thant undreth him, nor yet wath hith paint off.
 Let the Thquire come here after the performanth, or come here yourthelf
 after the performanth, and you thall find your brother, and have the
 whole plathe to talk to him in.  Never mind the lookth of him, ath long
-ath he’th well hid.’
+ath he’th [[Well|well]] hid.’
 
 Louisa, with many thanks and with a lightened load, detained Mr. Sleary
-no longer then.  She left her love for her brother, with her eyes full of
-tears; and she and Sissy went away until later in the afternoon.
+no longer then.  She left her [[Love|love]] for her brother, with her eyes full of
+[[Tears|tears]]; and she and Sissy went away until later in the afternoon.
 
 Mr. Gradgrind arrived within an hour afterwards.  He too had encountered
 no one whom he knew; and was now sanguine with Sleary’s assistance, of
-getting his disgraced son to Liverpool in the night.  As neither of the
+getting his disgraced son to Liverpool in the [[Night|night]].  As neither of the
 three could be his companion without almost identifying him under any
 disguise, he prepared a letter to a correspondent whom he could trust,
-beseeching him to ship the bearer off at any cost, to North or South
-America, or any distant part of the world to which he could be the most
+beseeching him to [[Ship|ship]] the bearer off at any cost, to North or South
+[[America]], or any distant part of the world to which he could be the most
 speedily and privately dispatched.
 
 This done, they walked about, waiting for the Circus to be quite vacated;
 not only by the audience, but by the company and by the horses.  After
-watching it a long time, they saw Mr. Sleary bring out a chair and sit
+watching it a long [[Time|time]], they saw Mr. Sleary bring out a chair and sit
 down by the side-door, smoking; as if that were his signal that they
 might approach.
 
@@ -222,7 +222,7 @@ In a preposterous coat, like a beadle’s, with cuffs and flaps exaggerated
 to an unspeakable extent; in an immense waistcoat, knee-breeches, buckled
 shoes, and a mad cocked hat; with nothing fitting him, and everything of
 coarse material, moth-eaten and full of holes; with seams in his black
-face, where fear and heat had started through the greasy composition
+face, where [[Fear|fear]] and heat had started through the greasy composition
 daubed all over it; anything so grimly, detestably, ridiculously shameful
 as the whelp in his comic livery, Mr. Gradgrind never could by any other
 means have believed in, weighable and measurable fact though it was.  And
@@ -241,10 +241,10 @@ limits from where his father sat.
 
 ‘This robbery,’ said the father, raising his voice upon the word.
 
-‘I forced the safe myself over night, and shut it up ajar before I went
+‘I forced the safe myself over [[Night|night]], and shut it up ajar before I went
 away.  I had had the key that was found, made long before.  I dropped it
 that morning, that it might be supposed to have been used.  I didn’t take
-the money all at once.  I pretended to put my balance away every night,
+the money all at once.  I pretended to put my balance away every [[Night|night]],
 but I didn’t.  Now you know all about it.’
 
 ‘If a thunderbolt had fallen on me,’ said the father, ‘it would have
@@ -259,7 +259,7 @@ yourself!’
 The father buried his face in his hands, and the son stood in his
 disgraceful grotesqueness, biting straw: his hands, with the black partly
 worn away inside, looking like the hands of a monkey.  The evening was
-fast closing in; and from time to time, he turned the whites of his eyes
+fast closing in; and from [[Time|time]] to [[Time|time]], he turned the whites of his eyes
 restlessly and impatiently towards his father.  They were the only parts
 of his face that showed any life or expression, the pigment upon it was
 so thick.
@@ -273,7 +273,7 @@ thing.’
 Mr. Gradgrind went to the door, and returned with Sleary, to whom he
 submitted the question, How to get this deplorable object away?
 
-‘Why, I’ve been thinking of it, Thquire.  There’th not muth time to
+‘Why, I’ve been thinking of it, Thquire.  There’th not muth [[Time|time]] to
 lothe, tho you muth thay yeth or no.  Ith over twenty mileth to the rail.
 There’th a coath in half an hour, that goeth _to_ the rail, ‘purpothe to
 cath the mail train.  That train will take him right to Liverpool.’
@@ -306,18 +306,18 @@ shocking action you have committed, and the dreadful consequences to
 which it has led.  Give me your hand, my poor boy, and may God forgive
 you as I do!’
 
-The culprit was moved to a few abject tears by these words and their
+The culprit was moved to a few abject [[Tears|tears]] by these words and their
 pathetic tone.  But, when Louisa opened her arms, he repulsed her afresh.
 
 ‘Not you.  I don’t want to have anything to say to you!’
 
-‘O Tom, Tom, do we end so, after all my love!’
+‘O Tom, Tom, do we end so, after all my [[Love|love]]!’
 
-‘After all your love!’ he returned, obdurately.  ‘Pretty love!  Leaving
+‘After all your [[Love|love]]!’ he returned, obdurately.  ‘Pretty [[Love|love]]!  Leaving
 old Bounderby to himself, and packing my best friend Mr. Harthouse off,
-and going home just when I was in the greatest danger.  Pretty love that!
+and going [[Home|home]] just when I was in the greatest danger.  Pretty [[Love|love]] that!
 Coming out with every word about our having gone to that place, when you
-saw the net was gathering round me.  Pretty love that!  You have
+saw the net was gathering round me.  Pretty [[Love|love]] that!  You have
 regularly given me up.  You never cared for me.’
 
 ‘Tharp’th the word!’ said Sleary, at the door.
@@ -332,12 +332,12 @@ For, there was Bitzer, out of breath, his thin lips parted, his thin
 nostrils distended, his white eyelashes quivering, his colourless face
 more colourless than ever, as if he ran himself into a white heat, when
 other people ran themselves into a glow.  There he stood, panting and
-heaving, as if he had never stopped since the night, now long ago, when
+heaving, as if he had never stopped since the [[Night|night]], now long ago, when
 he had run them down before.
 
 ‘I’m sorry to interfere with your plans,’ said Bitzer, shaking his head,
-‘but I can’t allow myself to be done by horse-riders.  I must have young
-Mr. Tom; he mustn’t be got away by horse-riders; here he is in a smock
+‘but I can’t allow myself to be done by [[Horse|horse]]-riders.  I must have young
+Mr. Tom; he mustn’t be got away by [[Horse|horse]]-riders; here he is in a smock
 frock, and I must have him!’
 
 By the collar, too, it seemed.  For, so he took possession of him.

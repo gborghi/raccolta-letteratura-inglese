@@ -1,5 +1,5 @@
 ---
-title: "Persuasion — Chapter 17"
+title: "[[Persuasion]] — Chapter 17"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Persuasion-(Austen)"
@@ -32,21 +32,21 @@ She had called on her former governess, and had heard from her of there
 
 being an old schoolfellow in Bath, who had the two strong claims on
 
-her attention of past kindness and present suffering. Miss Hamilton,
+her attention of past kindness and present [[Suffering|suffering]]. Miss Hamilton,
 
-now Mrs Smith, had shewn her kindness in one of those periods of her
+now Mrs [[smith|Smith]], had shewn her kindness in one of those periods of her
 
 life when it had been most valuable. Anne had gone unhappy to school,
 
 grieving for the loss of a mother whom she had dearly loved, feeling
 
-her separation from home, and suffering as a girl of fourteen, of
+her separation from [[Home|home]], and [[Suffering|suffering]] as a girl of fourteen, of
 
-strong sensibility and not high spirits, must suffer at such a time;
+strong sensibility and not high spirits, must suffer at such a [[Time|time]];
 
 and Miss Hamilton, three years older than herself, but still from the
 
-want of near relations and a settled home, remaining another year at
+want of near relations and a settled [[Home|home]], remaining another year at
 
 school, had been useful and good to her in a way which had considerably
 
@@ -66,7 +66,7 @@ situation forward in a more decided but very different form.
 
 She was a widow and poor. Her husband had been extravagant; and at his
 
-death, about two years before, had left his affairs dreadfully
+[[Death|death]], about two years before, had left his affairs dreadfully
 
 involved. She had had difficulties of every sort to contend with, and
 
@@ -86,15 +86,15 @@ excluded from society.
 
 Their mutual friend answered for the satisfaction which a visit from
 
-Miss Elliot would give Mrs Smith, and Anne therefore lost no time in
+Miss Elliot would give Mrs [[smith|Smith]], and Anne therefore lost no [[Time|time]] in
 
 going. She mentioned nothing of what she had heard, or what she
 
-intended, at home. It would excite no proper interest there. She only
+intended, at [[Home|home]]. It would excite no proper interest there. She only
 
-consulted Lady Russell, who entered thoroughly into her sentiments, and
+consulted [[Lady Russell]], who entered thoroughly into her sentiments, and
 
-was most happy to convey her as near to Mrs Smith’s lodgings in
+was most happy to convey her as near to Mrs [[smith|Smith]]’s lodgings in
 
 Westgate Buildings, as Anne chose to be taken.
 
@@ -112,11 +112,11 @@ other had imagined. Twelve years had changed Anne from the blooming,
 
 silent, unformed girl of fifteen, to the elegant little woman of
 
-seven-and-twenty, with every beauty except bloom, and with manners as
+seven-and-twenty, with every [[Beauty|beauty]] except bloom, and with manners as
 
 consciously right as they were invariably gentle; and twelve years had
 
-transformed the fine-looking, well-grown Miss Hamilton, in all the glow
+transformed the fine-looking, [[Well|well]]-grown Miss Hamilton, in all the glow
 
 of health and confidence of superiority, into a poor, infirm, helpless
 
@@ -130,7 +130,7 @@ talking over old times.
 
 
 
-Anne found in Mrs Smith the good sense and agreeable manners which she
+Anne found in Mrs [[smith|Smith]] the good sense and agreeable manners which she
 
 had almost ventured to depend on, and a disposition to converse and be
 
@@ -148,11 +148,11 @@ In the course of a second visit she talked with great openness, and
 
 Anne’s astonishment increased. She could scarcely imagine a more
 
-cheerless situation in itself than Mrs Smith’s. She had been very fond
+cheerless situation in itself than Mrs [[smith|Smith]]’s. She had been very fond
 
 of her husband: she had buried him. She had been used to affluence: it
 
-was gone. She had no child to connect her with life and happiness
+was gone. She had no [[Child|child]] to connect her with life and happiness
 
 again, no relations to assist in the arrangement of perplexed affairs,
 
@@ -162,9 +162,9 @@ limited to a noisy parlour, and a dark bedroom behind, with no
 
 possibility of moving from one to the other without assistance, which
 
-there was only one servant in the house to afford, and she never
+there was only one servant in the [[house]] to afford, and she never
 
-quitted the house but to be conveyed into the warm bath. Yet, in spite
+quitted the [[house]] but to be conveyed into the warm bath. Yet, in spite
 
 of all this, Anne had reason to believe that she had moments only of
 
@@ -172,7 +172,7 @@ languor and depression, to hours of occupation and enjoyment. How could
 
 it be? She watched, observed, reflected, and finally determined that
 
-this was not a case of fortitude or of resignation only. A submissive
+this was not a case of fortitude or of [[Resignation|resignation]] only. A submissive
 
 spirit might be patient, a strong understanding would supply
 
@@ -182,7 +182,7 @@ mind, that disposition to be comforted, that power of turning readily
 
 from evil to good, and of finding employment which carried her out of
 
-herself, which was from nature alone. It was the choicest gift of
+herself, which was from [[Nature|nature]] [[Alone|alone]]. It was the choicest gift of
 
 Heaven; and Anne viewed her friend as one of those instances in which,
 
@@ -192,19 +192,19 @@ every other want.
 
 
 
-There had been a time, Mrs Smith told her, when her spirits had nearly
+There had been a [[Time|time]], Mrs [[smith|Smith]] told her, when her spirits had nearly
 
 failed. She could not call herself an invalid now, compared with her
 
 state on first reaching Bath. Then she had, indeed, been a pitiable
 
-object; for she had caught cold on the journey, and had hardly taken
+object; for she had caught cold on the [[Journey|journey]], and had hardly taken
 
 possession of her lodgings before she was again confined to her bed and
 
-suffering under severe and constant pain; and all this among strangers,
+[[Suffering|suffering]] under severe and constant [[Pain|pain]]; and all this among strangers,
 
-with the absolute necessity of having a regular nurse, and finances at
+with the absolute necessity of having a regular [[Nurse|nurse]], and finances at
 
 that moment particularly unfit to meet any extraordinary expense. She
 
@@ -218,13 +218,13 @@ disinterested attachment anywhere, but her illness had proved to her
 
 that her landlady had a character to preserve, and would not use her
 
-ill; and she had been particularly fortunate in her nurse, as a sister
+ill; and she had been particularly fortunate in her [[Nurse|nurse]], as a sister
 
-of her landlady, a nurse by profession, and who had always a home in
+of her landlady, a [[Nurse|nurse]] by profession, and who had always a [[Home|home]] in
 
-that house when unemployed, chanced to be at liberty just in time to
+that [[house]] when unemployed, chanced to be at liberty just in [[Time|time]] to
 
-attend her. “And she,” said Mrs Smith, “besides nursing me most
+attend her. “And she,” said Mrs [[smith|Smith]], “besides nursing me most
 
 admirably, has really proved an invaluable acquaintance. As soon as I
 
@@ -242,21 +242,21 @@ acquaintance, of course professionally, among those who can afford to
 
 buy, and she disposes of my merchandise. She always takes the right
 
-time for applying. Everybody’s heart is open, you know, when they have
+[[Time|time]] for applying. Everybody’s heart is open, you know, when they have
 
-recently escaped from severe pain, or are recovering the blessing of
+recently escaped from severe [[Pain|pain]], or are recovering the blessing of
 
-health, and Nurse Rooke thoroughly understands when to speak. She is a
+health, and [[Nurse]] Rooke thoroughly understands when to speak. She is a
 
 shrewd, intelligent, sensible woman. Hers is a line for seeing human
 
-nature; and she has a fund of good sense and observation, which, as a
+[[Nature|nature]]; and she has a fund of good sense and observation, which, as a
 
 companion, make her infinitely superior to thousands of those who
 
-having only received ‘the best education in the world,’ know nothing
+having only received ‘the best [[Education|education]] in the world,’ know nothing
 
-worth attending to. Call it gossip, if you will, but when Nurse Rooke
+worth attending to. Call it gossip, if you will, but when [[Nurse]] Rooke
 
 has half an hour’s leisure to bestow on me, she is sure to have
 
@@ -266,7 +266,7 @@ makes one know one’s species better. One likes to hear what is going
 
 on, to be _au fait_ as to the newest modes of being trifling and silly.
 
-To me, who live so much alone, her conversation, I assure you, is a
+To me, who live so much [[Alone|alone]], her conversation, I assure you, is a
 
 treat.”
 
@@ -276,17 +276,17 @@ Anne, far from wishing to cavil at the pleasure, replied, “I can easily
 
 believe it. Women of that class have great opportunities, and if they
 
-are intelligent may be well worth listening to. Such varieties of human
+are intelligent may be [[Well|well]] worth listening to. Such varieties of human
 
-nature as they are in the habit of witnessing! And it is not merely in
+[[Nature|nature]] as they are in the habit of witnessing! And it is not merely in
 
-its follies, that they are well read; for they see it occasionally
+its follies, that they are [[Well|well]] read; for they see it occasionally
 
 under every circumstance that can be most interesting or affecting.
 
 What instances must pass before them of ardent, disinterested,
 
-self-denying attachment, of heroism, fortitude, patience, resignation:
+[[Self|self]]-denying attachment, of [[Heroism|heroism]], fortitude, patience, [[Resignation|resignation]]:
 
 of all the conflicts and all the sacrifices that ennoble us most. A
 
@@ -294,17 +294,17 @@ sick chamber may often furnish the worth of volumes.”
 
 
 
-“Yes,” said Mrs Smith more doubtingly, “sometimes it may, though I fear
+“Yes,” said Mrs [[smith|Smith]] more doubtingly, “sometimes it may, though I [[Fear|fear]]
 
 its lessons are not often in the elevated style you describe. Here and
 
-there, human nature may be great in times of trial; but generally
+there, human [[Nature|nature]] may be great in times of trial; but generally
 
 speaking, it is its weakness and not its strength that appears in a
 
 sick chamber: it is selfishness and impatience rather than generosity
 
-and fortitude, that one hears of. There is so little real friendship in
+and fortitude, that one hears of. There is so little real [[Friendship|friendship]] in
 
 the world! and unfortunately” (speaking low and tremulously) “there are
 
@@ -318,7 +318,7 @@ ought, and the wife had been led among that part of mankind which made
 
 her think worse of the world than she hoped it deserved. It was but a
 
-passing emotion however with Mrs Smith; she shook it off, and soon
+passing emotion however with Mrs [[smith|Smith]]; she shook it off, and soon
 
 added in a different tone—
 
@@ -354,7 +354,7 @@ evening in Westgate Buildings. She was not sorry for the excuse. They
 
 were only asked, she was sure, because Lady Dalrymple being kept at
 
-home by a bad cold, was glad to make use of the relationship which had
+[[Home|home]] by a bad cold, was glad to make use of the relationship which had
 
 been so pressed on her; and she declined on her own account with great
 
@@ -370,15 +370,15 @@ disdainful, and Sir Walter severe.
 
 
 
-“Westgate Buildings!” said he, “and who is Miss Anne Elliot to be
+“Westgate Buildings!” said he, “and who is Miss [[Anne Elliot]] to be
 
-visiting in Westgate Buildings? A Mrs Smith. A widow Mrs Smith; and who
+visiting in Westgate Buildings? A Mrs [[smith|Smith]]. A widow Mrs [[smith|Smith]]; and who
 
 was her husband? One of five thousand Mr Smiths whose names are to be
 
 met with everywhere. And what is her attraction? That she is old and
 
-sickly. Upon my word, Miss Anne Elliot, you have the most extraordinary
+sickly. Upon my word, Miss [[Anne Elliot]], you have the most extraordinary
 
 taste! Everything that revolts other people, low company, paltry rooms,
 
@@ -386,7 +386,7 @@ foul air, disgusting associations are inviting to you. But surely you
 
 may put off this old lady till to-morrow: she is not so near her end, I
 
-presume, but that she may hope to see another day. What is her age?
+presume, but that she may [[Hope|hope]] to see another day. What is her age?
 
 Forty?”
 
@@ -394,7 +394,7 @@ Forty?”
 
 “No, sir, she is not one-and-thirty; but I do not think I can put off
 
-my engagement, because it is the only evening for some time which will
+my engagement, because it is the only evening for some [[Time|time]] which will
 
 at once suit her and myself. She goes into the warm bath to-morrow, and
 
@@ -402,7 +402,7 @@ for the rest of the week, you know, we are engaged.”
 
 
 
-“But what does Lady Russell think of this acquaintance?” asked
+“But what does [[Lady Russell]] think of this acquaintance?” asked
 
 Elizabeth.
 
@@ -412,7 +412,7 @@ Elizabeth.
 
 approves it, and has generally taken me when I have called on Mrs
 
-Smith.”
+[[smith|Smith]].”
 
 
 
@@ -422,19 +422,19 @@ of a carriage drawn up near its pavement,” observed Sir Walter. “Sir
 
 Henry Russell’s widow, indeed, has no honours to distinguish her arms,
 
-but still it is a handsome equipage, and no doubt is well known to
+but still it is a handsome equipage, and no [[Doubt|doubt]] is [[Well|well]] known to
 
-convey a Miss Elliot. A widow Mrs Smith lodging in Westgate Buildings!
+convey a Miss Elliot. A widow Mrs [[smith|Smith]] lodging in Westgate Buildings!
 
 A poor widow barely able to live, between thirty and forty; a mere Mrs
 
-Smith, an every-day Mrs Smith, of all people and all names in the
+[[smith|Smith]], an every-day Mrs [[smith|Smith]], of all people and all names in the
 
-world, to be the chosen friend of Miss Anne Elliot, and to be preferred
+world, to be the chosen friend of Miss [[Anne Elliot]], and to be preferred
 
 by her to her own family connections among the nobility of England and
 
-Ireland! Mrs Smith! Such a name!”
+Ireland! Mrs [[smith|Smith]]! Such a name!”
 
 
 
@@ -448,7 +448,7 @@ claims to theirs, but her sense of personal respect to her father
 
 prevented her. She made no reply. She left it to himself to recollect,
 
-that Mrs Smith was not the only widow in Bath between thirty and forty,
+that Mrs [[smith|Smith]] was not the only widow in Bath between thirty and forty,
 
 with little to live on, and no surname of dignity.
 
@@ -464,19 +464,19 @@ not only been quite at her ladyship’s service themselves, but had
 
 actually been happy to be employed by her in collecting others, and had
 
-been at the trouble of inviting both Lady Russell and Mr Elliot; and Mr
+been at the trouble of inviting both [[Lady Russell]] and Mr Elliot; and Mr
 
 Elliot had made a point of leaving Colonel Wallis early, and Lady
 
 Russell had fresh arranged all her evening engagements in order to wait
 
-on her. Anne had the whole history of all that such an evening could
+on her. Anne had the whole [[history]] of all that such an evening could
 
-supply from Lady Russell. To her, its greatest interest must be, in
+supply from [[Lady Russell]]. To her, its greatest interest must be, in
 
 having been very much talked of between her friend and Mr Elliot; in
 
-having been wished for, regretted, and at the same time honoured for
+having been wished for, regretted, and at the same [[Time|time]] honoured for
 
 staying away in such a cause. Her kind, compassionate visits to this
 
@@ -496,9 +496,9 @@ sensations which her friend meant to create.
 
 
 
-Lady Russell was now perfectly decided in her opinion of Mr Elliot. She
+[[Lady Russell]] was now perfectly decided in her opinion of Mr Elliot. She
 
-was as much convinced of his meaning to gain Anne in time as of his
+was as much convinced of his meaning to gain Anne in [[Time|time]] as of his
 
 deserving her, and was beginning to calculate the number of weeks which
 
@@ -520,11 +520,11 @@ blushed, and gently shook her head.
 
 
 
-“I am no match-maker, as you well know,” said Lady Russell, “being much
+“I am no match-maker, as you [[Well|well]] know,” said [[Lady Russell]], “being much
 
-too well aware of the uncertainty of all human events and calculations.
+too [[Well|well]] aware of the uncertainty of all human events and calculations.
 
-I only mean that if Mr Elliot should some time hence pay his addresses
+I only mean that if Mr Elliot should some [[Time|time]] hence pay his addresses
 
 to you, and if you should be disposed to accept him, I think there
 
@@ -542,25 +542,25 @@ think highly of him,” said Anne; “but we should not suit.”
 
 
 
-Lady Russell let this pass, and only said in rejoinder, “I own that to
+[[Lady Russell]] let this pass, and only said in rejoinder, “I own that to
 
 be able to regard you as the future mistress of Kellynch, the future
 
 Lady Elliot, to look forward and see you occupying your dear mother’s
 
-place, succeeding to all her rights, and all her popularity, as well as
+place, succeeding to all her rights, and all her popularity, as [[Well|well]] as
 
 to all her virtues, would be the highest possible gratification to me.
 
-You are your mother’s self in countenance and disposition; and if I
+You are your mother’s [[Self|self]] in countenance and disposition; and if I
 
 might be allowed to fancy you such as she was, in situation and name,
 
-and home, presiding and blessing in the same spot, and only superior to
+and [[Home|home]], presiding and blessing in the same spot, and only superior to
 
 her in being more highly valued! My dearest Anne, it would give me more
 
-delight than is often felt at my time of life!”
+delight than is often felt at my [[Time|time]] of life!”
 
 
 
@@ -568,15 +568,15 @@ Anne was obliged to turn away, to rise, to walk to a distant table,
 
 and, leaning there in pretended employment, try to subdue the feelings
 
-this picture excited. For a few moments her imagination and her heart
+this picture excited. For a few moments her [[Imagination|imagination]] and her heart
 
 were bewitched. The idea of becoming what her mother had been; of
 
 having the precious name of “Lady Elliot” first revived in herself; of
 
-being restored to Kellynch, calling it her home again, her home for
+being restored to Kellynch, calling it her [[Home|home]] again, her [[Home|home]] for
 
-ever, was a charm which she could not immediately resist. Lady Russell
+ever, was a charm which she could not immediately resist. [[Lady Russell]]
 
 said not another word, willing to leave the matter to its own
 
@@ -602,7 +602,7 @@ Though they had now been acquainted a month, she could not be satisfied
 
 that she really knew his character. That he was a sensible man, an
 
-agreeable man, that he talked well, professed good opinions, seemed to
+agreeable man, that he talked [[Well|well]], professed good opinions, seemed to
 
 judge properly and as a man of principle, this was all clear enough. He
 
@@ -618,7 +618,7 @@ to former practices and pursuits, suggested suspicions not favourable
 
 of what he had been. She saw that there had been bad habits; that
 
-Sunday travelling had been a common thing; that there had been a period
+[[Sunday]] travelling had been a common thing; that there had been a period
 
 of his life (and probably not a short one) when he had been, at least,
 
@@ -654,24 +654,24 @@ varied, whose tongue never slipped.
 
 Mr Elliot was too generally agreeable. Various as were the tempers in
 
-her father’s house, he pleased them all. He endured too well, stood too
+her father’s [[house]], he pleased them all. He endured too [[Well|well]], stood too
 
-well with every body. He had spoken to her with some degree of openness
+[[Well|well]] with every [[Body|body]]. He had spoken to her with some degree of openness
 
 of Mrs Clay; had appeared completely to see what Mrs Clay was about,
 
 and to hold her in contempt; and yet Mrs Clay found him as agreeable as
 
-any body.
+any [[Body|body]].
 
 
 
-Lady Russell saw either less or more than her young friend, for she saw
+[[Lady Russell]] saw either less or more than her young friend, for she saw
 
 nothing to excite distrust. She could not imagine a man more exactly
 
 what he ought to be than Mr Elliot; nor did she ever enjoy a sweeter
 
-feeling than the hope of seeing him receive the hand of her beloved
+feeling than the [[Hope|hope]] of seeing him receive the hand of her beloved
 
-Anne in Kellynch church, in the course of the following autumn.
+Anne in Kellynch church, in the course of the following [[Autumn|autumn]].

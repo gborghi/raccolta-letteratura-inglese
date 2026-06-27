@@ -1,5 +1,5 @@
 ---
-title: "Incredulity — The Oracle of the Dog (part 8)"
+title: "[[Incredulity]] — The Oracle of the Dog (part 8)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/Incredulity-(Chesterton)"
@@ -59,10 +59,10 @@ and went on talking almost as if he were alone.
 `It's the first effect of not believing in God that you
 lose your common sense and can't see things as they are.
 Anything that anybody talks about, and says there's a good deal
-in it, extends itself indefinitely like a vista in a nightmare.
+in it, extends itself indefinitely like a vista in a [[nightmare]].
 And a dog is an omen, and a cat is a mystery, and a pig is a mascot,
 and a beetle is a scarab, calling up all the menagerie of
-polytheism from Egypt and old India; Dog Anubis and great green--
+polytheism from [[Egypt]] and old India; Dog Anubis and great green--
 eyed Pasht and all the holy howling Bulls of Bashan; reeling back
 to the bestial gods of the beginning, escaping into elephants
 and snakes and crocodiles; and all because you are frightened
@@ -74,4 +74,4 @@ The young man got up with a little embarrassment, almost as if he had
 overheard a soliloquy.  He called to the dog and left the room
 with vague but breezy farewells.  But he had to call the dog twice,
 for the dog had remained behind quite motionless for a moment,
-looking up steadily at Father Brown as the wolf looked at St Francis.
+looking up steadily at [[Father Brown]] as the wolf looked at St Francis.

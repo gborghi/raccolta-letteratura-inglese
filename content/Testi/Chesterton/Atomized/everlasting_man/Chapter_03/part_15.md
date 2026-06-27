@@ -14,29 +14,29 @@ tags:
 </nav>
 
 
-They took the body down from the cross and one of the few rich
+They took the [[Body|body]] down from the [[Cross|cross]] and one of the few rich
 men among the first Christians obtained permission to bury it
-in a rock tomb in his garden; the Romans setting a military guard
-lest there should be some riot and attempt to recover the body.
+in a rock tomb in his [[Garden|garden]]; the Romans setting a military guard
+lest there should be some riot and attempt to recover the [[Body|body]].
 There was once more a natural symbolism in these natural proceedings;
-it was well that the tomb should be sealed with all the secrecy of
+it was [[Well|well]] that the tomb should be sealed with all the secrecy of
 ancient eastern sepulture and guarded by the authority of the Caesars.
 For in that second cavern the whole of that great and glorious
 humanity which we call antiquity was gathered up and covered over;
 and in that place it was buried.  It was the end of a very great
-thing called human history; the history that was merely human.
+thing called human [[history]]; the [[history]] that was merely human.
 The mythologies and the philosophies were buried there,
 the gods and the heroes and the sages.  In the great Roman phrase,
 they had lived.  But as they could only live, so they could only die;
 and they were dead.
 
-On the third day the friends of Christ coming at daybreak
-to the place found the grave empty and the stone rolled away.
-In varying ways they realised the new wonder; but even they hardly
-realised that the world had died in the night.  What they were looking
+On the third day the friends of [[Christ]] coming at daybreak
+to the place found the [[Grave|grave]] empty and the stone rolled away.
+In varying ways they realised the new [[Wonder|wonder]]; but even they hardly
+realised that the world had died in the [[Night|night]].  What they were looking
 at was the first day of a new creation, with a new heaven and a new earth;
-and in a semblance of the gardener God walked again in the garden,
-in the cool not of the evening but the dawn.
+and in a semblance of the gardener God walked again in the [[Garden|garden]],
+in the cool not of the evening but the [[Dawn|dawn]].
 
 * * *
 
@@ -44,23 +44,23 @@ IV
 
 THE WITNESS OF THE HERETICS
 
-Christ founded the Church with two great figures of speech;
+[[Christ]] founded the Church with two great figures of speech;
 in the final words to the Apostles who received authority to found it.
 The first was the phrase about founding it on Peter as on a rock;
 the second was the symbol of the keys.  About the meaning of the former
-there is naturally no doubt in my own case; but it does not directly
+there is naturally no [[Doubt|doubt]] in my own case; but it does not directly
 affect the argument here save in two more secondary aspects.
 It is yet another example of a thing that could only fully
 expand and explain itself afterwards, and even long afterwards.
 And it is yet another example of something the very reverse of simple
-and self-evident even in the language, in so far as it described
+and [[Self|self]]-evident even in the language, in so far as it described
 a man as a rock when he had much more the appearance of a reed.
 
 But the other image of the keys has an exactitude that has hardly
 been exactly noticed.  The keys have been conspicuous enough
 in the art and heraldry of Christendom; but not everyone has
-noted the peculiar aptness of the allegory.  We have now reached
-the point in history where something must be said of the first
+noted the peculiar aptness of the [[Allegory|allegory]].  We have now reached
+the point in [[history]] where something must be said of the first
 appearance and activities of the Church in the Roman Empire;
 and for that brief description nothing could be more perfect than
 that ancient metaphor.  The Early Christian was very precisely
@@ -73,21 +73,21 @@ As we shall see in a moment, it rather definitely refused to do so.
 It definitely asserted that there was a key and that it possessed
 that key and that no other key was like it; in that sense it
 was as narrow as you please.  Only it happened to be the key that
-could unlock the prison of the whole world; and let in the white
+could unlock the [[Prison|prison]] of the whole world; and let in the white
 daylight of liberty.
 
 The creed was like a key in three respects; which can be most
 conveniently summed up under this symbol.  First, a key is above
 all things a thing with a shape.  It is a thing that depends
 entirely upon keeping its shape.  The Christian creed is above all
-things the philosophy of shapes and the enemy of shapelessness.
+things the [[philosophy]] of shapes and the enemy of shapelessness.
 That is where it differs from all that formless infinity,
-Manichean or Buddhist, which makes a sort of pool of night in
+Manichean or Buddhist, which makes a sort of pool of [[Night|night]] in
 the dark heart of Asia; the ideal of uncreating all the creatures.
 That is where it differs also from the analogous vagueness of mere
 evolutionism, the idea of creatures constantly losing their shape.
 A man told that his solitary latchkey had been melted down
-with a million others into a Buddhistic unity would be annoyed.
+with a million others into a Buddhistic [[unity]] would be annoyed.
 But a man told that his key was gradually growing and sprouting
 in his pocket, and branching into new wards or complications,
 would not be more gratified.
@@ -109,9 +109,9 @@ with theology and things of the kind, they forget that the world
 had not only got into a hole, but had got into a whole maze of holes
 and corners.  The problem itself was a complicated problem; it did
 not in the ordinary sense merely involve anything so simple as sin.
-It was also full of secrets, of unexplored and unfathomable fallacies,
+It was also full of [[Secrets|secrets]], of unexplored and unfathomable fallacies,
 of unconscious mental diseases, of dangers in all directions.
-If the faith had faced the world only with the platitudes about peace
+If the [[Faith|faith]] had faced the world only with the platitudes about peace
 and simplicity some moralists would confine it to, it would not have had
 the faintest effect on that luxurious and labyrinthine lunatic asylum.
 What it did do we must now roughly describe; it is enough to say here
@@ -121,25 +121,25 @@ It opened the door.
 
 There are certain recognised and accepted statements in this matter
 which may for brevity and convenience be described as lies.  We have
-all heard people say that Christianity arose in an age of barbarism.
-They might just as well say that Christian Science arose in an age
-of barbarism.  They may think Christianity was a symptom of
-social decay, as I think Christian Science a symptom of mental decay.
-They may think Christianity a superstition that ultimately destroyed
+all heard people say that [[Christianity]] arose in an age of barbarism.
+They might just as [[Well|well]] say that Christian Science arose in an age
+of barbarism.  They may think [[Christianity]] was a symptom of
+social [[Decay|decay]], as I think Christian Science a symptom of mental [[Decay|decay]].
+They may think [[Christianity]] a superstition that ultimately destroyed
 a civilisation, as I think Christian Science a superstition capable
 (if taken seriously) of destroying any number of civilisations.
 But to say that a Christian of the fourth or fifth centuries
-was a barbarian living in a barbarous time is exactly like saying
+was a barbarian living in a barbarous [[Time|time]] is exactly like saying
 that Mrs. Eddy was a Red Indian.  And if I allowed my constitutional
 impatience with Mrs. Eddy to impel me to call her a Red Indian, I should
 incidentally be telling a lie.  We may like or dislike the imperial
 civilisation of Rome in the fourth century; we may like or dislike
-the industrial civilisation of America in the nineteenth century;
+the industrial civilisation of [[america|America]] in the nineteenth century;
 but that they both were what we commonly mean by a civilisation
 no person of commonsense could deny if he wanted to.  This is a very
 obvious fact but it is also a very fundamental one; and we must
 make it the foundation of any further description of constructive
-Christianity in the past.  For good or evil, it was pre-eminently
+[[Christianity]] in the past.  For good or evil, it was pre-eminently
 the product of a civilised age, perhaps of an over-civilised age.
 This is the first fact apart from all praise or blame; indeed I am
 so unfortunate as not to feel that I praise a thing when I compare

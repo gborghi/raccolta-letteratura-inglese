@@ -18,10 +18,10 @@ tags:
 learnt it here. I taught myself. I asked leave to--”
 
 He lapsed away, even for minutes, ringing those measured changes on his
-hands the whole time. His eyes came slowly back, at last, to the face
+hands the whole [[Time|time]]. His eyes came slowly back, at last, to the face
 from which they had wandered; when they rested on it, he started, and
 resumed, in the manner of a sleeper that moment awake, reverting to a
-subject of last night.
+subject of last [[Night|night]].
 
 “I asked leave to teach myself, and I got it with much difficulty after
 a long while, and I have made shoes ever since.”
@@ -36,7 +36,7 @@ questioner.
 
 “Monsieur Manette”; Mr. Lorry laid his hand upon Defarge’s arm; “do you
 remember nothing of this man? Look at him. Look at me. Is there no old
-banker, no old business, no old servant, no old time, rising in your
+banker, no old business, no old servant, no old [[Time|time]], rising in your
 mind, Monsieur Manette?”
 
 As the captive of many years sat looking fixedly, by turns, at Mr.
@@ -50,7 +50,7 @@ she now stood looking at him, with hands which at first had been only
 raised in frightened compassion, if not even to keep him off and
 shut out the sight of him, but which were now extending towards him,
 trembling with eagerness to lay the spectral face upon her warm young
-breast, and love it back to life and hope--so exactly was the expression
+breast, and [[Love|love]] it back to life and [[Hope|hope]]--so exactly was the expression
 repeated (though in stronger characters) on her fair young face, that it
 looked as though it had passed like a moving light, from him to her.
 
@@ -63,7 +63,7 @@ took the shoe up, and resumed his work.
 
 “Yes; for a moment. At first I thought it quite hopeless, but I have
 unquestionably seen, for a single moment, the face that I once knew so
-well. Hush! Let us draw further back. Hush!”
+[[Well|well]]. Hush! Let us draw further back. Hush!”
 
 She had moved from the wall of the garret, very near to the bench on
 which he sat. There was something awful in his unconsciousness of the
@@ -78,7 +78,7 @@ in his hand, for his shoemaker’s knife. It lay on that side of him
 which was not the side on which she stood. He had taken it up, and was
 stooping to work again, when his eyes caught the skirt of her dress. He
 raised them, and saw her face. The two spectators started forward,
-but she stayed them with a motion of her hand. She had no fear of his
+but she stayed them with a motion of her hand. She had no [[Fear|fear]] of his
 striking at her with the knife, though they had.
 
 He stared at her with a fearful look, and after a while his lips began
@@ -87,7 +87,7 @@ the pauses of his quick and laboured breathing, he was heard to say:
 
 “What is this?”
 
-With the tears streaming down her face, she put her two hands to her
+With the [[Tears|tears]] streaming down her face, she put her two hands to her
 lips, and kissed them to him; then clasped them on her breast, as if she
 laid his ruined head there.
 
@@ -123,12 +123,12 @@ As the concentrated expression returned to his forehead, he seemed to
 become conscious that it was in hers too. He turned her full to the
 light, and looked at her.
 
-“She had laid her head upon my shoulder, that night when I was summoned
-out--she had a fear of my going, though I had none--and when I was
+“She had laid her head upon my shoulder, that [[Night|night]] when I was summoned
+out--she had a [[Fear|fear]] of my going, though I had none--and when I was
 brought to the North Tower they found these upon my sleeve. ‘You will
-leave me them? They can never help me to escape in the body, though they
+leave me them? They can never help me to escape in the [[Body|body]], though they
 may in the spirit.’ Those were the words I said. I remember them very
-well.”
+[[Well|well]].”
 
 He formed this speech with his lips many times before he could utter it.
 But when he did find spoken words for it, they came to him coherently,

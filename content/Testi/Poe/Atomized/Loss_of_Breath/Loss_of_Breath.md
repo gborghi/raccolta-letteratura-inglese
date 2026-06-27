@@ -1,5 +1,5 @@
 ---
-title: "Loss of Breath"
+title: "[[Loss of Breath]]"
 author: "Poe"
 unitType: work
 parentWork: "Works/Loss-of-Breath-(Poe)"
@@ -21,7 +21,7 @@ O breathe not, etc.
 
       The most notorious ill-fortune must in the end yield to the
 
-      untiring courage of philosophy—as the most stubborn city to the
+      untiring [[Courage|courage]] of [[philosophy]]—as the most stubborn [[City|city]] to the
 
       ceaseless vigilance of an enemy. Shalmanezer, as we have it in
 
@@ -31,7 +31,7 @@ O breathe not, etc.
 
       but to no purpose. Troy expired at the close of the second
 
-      lustrum; and Azoth, as Aristaeus declares upon his honour as a
+      lustrum; and Azoth, as Aristaeus declares upon his [[Honour|honour]] as a
 
       gentleman, opened at last her gates to Psammetichus, after having
 
@@ -41,7 +41,7 @@ O breathe not, etc.
 
       “Thou wretch!—thou vixen!—thou shrew!” said I to my wife on the
 
-      morning after our wedding; “thou witch!—thou hag!—thou
+      morning after our wedding; “thou [[Witch|witch]]!—thou hag!—thou
 
       whippersnapper—thou sink of iniquity!—thou fiery-faced
 
@@ -69,9 +69,9 @@ O breathe not, etc.
 
       could _bona fide_ and actually happen! Imagine—that is if you
 
-      have a fanciful turn—imagine, I say, my wonder—my
+      have a fanciful turn—imagine, I say, my [[Wonder|wonder]]—my
 
-      consternation—my despair!
+      consternation—my [[Despair|despair]]!
 
 
 
@@ -125,7 +125,7 @@ O breathe not, etc.
 
       entirely gone. I could not have stirred with it a feather if my
 
-      life had been at issue, or sullied even the delicacy of a mirror.
+      life had been at issue, or sullied even the delicacy of a [[Mirror|mirror]].
 
       Hard fate!—yet there was some alleviation to the first
 
@@ -149,23 +149,23 @@ O breathe not, etc.
 
 
 
-      Throwing myself upon a chair, I remained for some time absorbed
+      Throwing myself upon a chair, I remained for some [[Time|time]] absorbed
 
       in meditation. My reflections, be sure, were of no consolatory
 
       kind. A thousand vague and lachrymatory fancies took possession
 
-      of my soul—and even the idea of suicide flitted across my brain;
+      of my [[Soul|soul]]—and even the idea of [[suicide]] flitted across my brain;
 
-      but it is a trait in the perversity of human nature to reject the
+      but it is a trait in the perversity of human [[Nature|nature]] to reject the
 
       obvious and the ready, for the far-distant and equivocal. Thus I
 
-      shuddered at self-murder as the most decided of atrocities while
+      shuddered at [[Self|self]]-murder as the most decided of atrocities while
 
       the tabby cat purred strenuously upon the rug, and the very
 
-      water-dog wheezed assiduously under the table, each taking to
+      [[Water|water]]-dog wheezed assiduously under the table, each taking to
 
       itself much merit for the strength of its lungs, and all
 
@@ -193,7 +193,7 @@ O breathe not, etc.
 
       might even have a tangible form. Most philosophers, upon many
 
-      points of philosophy, are still very unphilosophical. William
+      points of [[philosophy]], are still very unphilosophical. William
 
       Godwin, however, says in his “Mandeville,” that “invisible things
 
@@ -203,7 +203,7 @@ O breathe not, etc.
 
       such asseverations of an undue quantum of absurdity. Anaxagoras,
 
-      it will be remembered, maintained that snow is black, and this I
+      it will be remembered, maintained that [[Snow|snow]] is black, and this I
 
       have since found to be the case.
 
@@ -215,7 +215,7 @@ O breathe not, etc.
 
       only a set of false teeth, two pair of hips, an eye, and a bundle
 
-      of billets-doux from Mr. Windenough to my wife. I might as well
+      of billets-doux from Mr. Windenough to my wife. I might as [[Well|well]]
 
       here observe that this confirmation of my lady’s partiality for
 
@@ -223,11 +223,11 @@ O breathe not, etc.
 
       should admire anything so dissimilar to myself was a natural and
 
-      necessary evil. I am, it is well known, of a robust and corpulent
+      necessary evil. I am, it is [[Well|well]] known, of a robust and corpulent
 
-      appearance, and at the same time somewhat diminutive in stature.
+      appearance, and at the same [[Time|time]] somewhat diminutive in stature.
 
-      What wonder, then, that the lath-like tenuity of my acquaintance,
+      What [[Wonder|wonder]], then, that the lath-like tenuity of my acquaintance,
 
       and his altitude, which has grown into a proverb, should have met
 
@@ -241,7 +241,7 @@ O breathe not, etc.
 
       after closet—drawer after drawer—corner after corner—were
 
-      scrutinized to no purpose. At one time, however, I thought myself
+      scrutinized to no purpose. At one [[Time|time]], however, I thought myself
 
       sure of my prize, having, in rummaging a dressing-case,
 
@@ -261,21 +261,21 @@ O breathe not, etc.
 
       already made up my mind. In a foreign climate, being unknown, I
 
-      might, with some probability of success, endeavor to conceal my
+      might, with some probability of [[success]], endeavor to conceal my
 
       unhappy calamity—a calamity calculated, even more than beggary,
 
       to estrange the affections of the multitude, and to draw down
 
-      upon the wretch the well-merited indignation of the virtuous and
+      upon the wretch the [[Well|well]]-merited indignation of the virtuous and
 
       the happy. I was not long in hesitation. Being naturally quick, I
 
-      committed to memory the entire tragedy of “Metamora.” I had the
+      committed to [[Memory|memory]] the entire [[Tragedy|tragedy]] of “Metamora.” I had the
 
       good fortune to recollect that in the accentuation of this drama,
 
-      or at least of such portion of it as is allotted to the hero, the
+      or at least of such portion of it as is allotted to the [[Hero|hero]], the
 
       tones of voice in which I found myself deficient were altogether
 
@@ -285,7 +285,7 @@ O breathe not, etc.
 
 
 
-      I practised for some time by the borders of a well frequented
+      I practised for some [[Time|time]] by the borders of a [[Well|well]] frequented
 
       marsh;—herein, however, having no reference to a similar
 
@@ -301,9 +301,9 @@ O breathe not, etc.
 
       most frog-like and sepulchral tones with some passage from the
 
-      tragedy—any portion of which, as I soon took great pleasure in
+      [[Tragedy|tragedy]]—any portion of which, as I soon took great pleasure in
 
-      observing, would apply equally well to any particular subject. It
+      observing, would apply equally [[Well|well]] to any particular subject. It
 
       is not to be supposed, however, that in the delivery of such
 
@@ -329,7 +329,7 @@ O breathe not, etc.
 
       importance required my immediate personal attendance in that
 
-      city.
+      [[City|city]].
 
 
 
@@ -343,7 +343,7 @@ O breathe not, etc.
 
       size larger, requesting pardon for the liberty he was about to
 
-      take, threw himself upon my body at full length, and falling
+      take, threw himself upon my [[Body|body]] at full length, and falling
 
       asleep in an instant, drowned all my guttural ejaculations for
 
@@ -359,7 +359,7 @@ O breathe not, etc.
 
       As, however, the day broke more distinctly in our approach to the
 
-      outskirts of the city, my tormentor, arising and adjusting his
+      outskirts of the [[City|city]], my tormentor, arising and adjusting his
 
       shirt-collar, thanked me in a very friendly manner for my
 
@@ -371,11 +371,11 @@ O breathe not, etc.
 
       communicated, in a very decided manner, his opinion that a dead
 
-      man had been palmed upon them during the night for a living and
+      man had been palmed upon them during the [[Night|night]] for a living and
 
       responsible fellow-traveller; here giving me a thump on the right
 
-      eye, by way of demonstrating the truth of his suggestion.
+      eye, by way of demonstrating the [[Truth|truth]] of his suggestion.
 
 
 
@@ -383,7 +383,7 @@ O breathe not, etc.
 
       believed it their duty to pull me by the ear. A young practising
 
-      physician, too, having applied a pocket-mirror to my mouth, and
+      physician, too, having applied a pocket-[[Mirror|mirror]] to my mouth, and
 
       found me without breath, the assertion of my persecutor was
 
@@ -403,7 +403,7 @@ O breathe not, etc.
 
       with any farther accident than the breaking of both my arms,
 
-      under the left hind wheel of the vehicle. I must besides do the
+      under the left hind [[Wheel|wheel]] of the vehicle. I must besides do the
 
       driver the justice to state that he did not forget to throw after
 
@@ -485,9 +485,9 @@ O breathe not, etc.
 
       tied up my jaws with a pocket-handkerchief—then bolted the door
 
-      on the outside as he hurried to his dinner, leaving me alone to
+      on the outside as he hurried to his dinner, leaving me [[Alone|alone]] to
 
-      silence and to meditation.
+      [[Silence|silence]] and to meditation.
 
 
 
@@ -499,7 +499,7 @@ O breathe not, etc.
 
       some passages of the “Omnipresence of the Deity,” as is my custom
 
-      before resigning myself to sleep, when two cats, of a greedy and
+      before resigning myself to [[Sleep|sleep]], when two cats, of a greedy and
 
       vituperative turn, entering at a hole in the wall, leaped up with
 
@@ -519,7 +519,7 @@ O breathe not, etc.
 
       loss of a few ounces of my countenance proved the salvation of my
 
-      body. Aroused by the pain, and burning with indignation, I burst,
+      [[Body|body]]. Aroused by the [[Pain|pain]], and burning with indignation, I burst,
 
       at a single effort, the fastenings and the bandage. Stalking
 
@@ -529,13 +529,13 @@ O breathe not, etc.
 
       disappointment, precipitated myself, very dexterously, from the
 
-      window.
+      [[Window|window]].
 
 
 
       The mail-robber W——, to whom I bore a singular resemblance, was
 
-      at this moment passing from the city jail to the scaffold erected
+      at this moment passing from the [[City|city]] jail to the scaffold erected
 
       for his execution in the suburbs. His extreme infirmity and long
 
@@ -543,7 +543,7 @@ O breathe not, etc.
 
       unmanacled; and habited in his gallows costume—one very similar
 
-      to my own,—he lay at full length in the bottom of the hangman’s
+      to my own,—he lay at full length in the [[Bottom|bottom]] of the hangman’s
 
       cart (which happened to be under the windows of the surgeon at
 
@@ -597,17 +597,17 @@ O breathe not, etc.
 
       here, undoubtedly, I could speak to the point, and it is a topic
 
-      upon which nothing has been well said. In fact, to write upon
+      upon which nothing has been [[Well|well]] said. In fact, to write upon
 
       such a theme it is necessary to have been hanged. Every author
 
-      should confine himself to matters of experience. Thus Mark Antony
+      should confine himself to matters of experience. Thus [[Mark Antony]]
 
       composed a treatise upon getting drunk.
 
 
 
-      I may just mention, however, that die I did not. My body was, but
+      I may just mention, however, that die I did not. My [[Body|body]] was, but
 
       I had no breath to be, suspended; and but for the knot under my
 
@@ -631,9 +631,9 @@ O breathe not, etc.
 
       The populace encored. Several gentlemen swooned; and a multitude
 
-      of ladies were carried home in hysterics. Pinxit availed himself
+      of ladies were carried [[Home|home]] in hysterics. Pinxit availed himself
 
-      of the opportunity to retouch, from a sketch taken upon the spot,
+      of the opportunity to retouch, from a [[Sketch|sketch]] taken upon the spot,
 
       his admirable painting of the “Marsyas flayed alive.”
 
@@ -641,7 +641,7 @@ O breathe not, etc.
 
       When I had afforded sufficient amusement, it was thought proper
 
-      to remove my body from the gallows;—this the more especially as
+      to remove my [[Body|body]] from the gallows;—this the more especially as
 
       the real culprit had in the meantime been retaken and recognized,
 
@@ -659,11 +659,11 @@ O breathe not, etc.
 
       Here, after due interval, I was deposited. The sexton departed,
 
-      and I was left alone. A line of Marston’s “Malcontent”—
+      and I was left [[Alone|alone]]. A line of Marston’s “Malcontent”—
 
 
 
-      Death’s a good fellow and keeps open house—
+      [[Death]]’s a good fellow and keeps open [[house]]—
 
 
 
@@ -681,13 +681,13 @@ O breathe not, etc.
 
       and breaking open their lids, busied myself in speculations about
 
-      the mortality within.
+      the [[Mortality|mortality]] within.
 
 
 
       “This,” I soliloquized, tumbling over a carcass, puffy, bloated,
 
-      and rotund—“this has been, no doubt, in every sense of the word,
+      and rotund—“this has been, no [[Doubt|doubt]], in every sense of the word,
 
       an unhappy—an unfortunate man. It has been his terrible lot not
 
@@ -707,11 +707,11 @@ O breathe not, etc.
 
       and three toward the left. His studies have been confined to the
 
-      poetry of Crabbe. He can have no idea of the wonder of a
+      poetry of Crabbe. He can have no idea of the [[Wonder|wonder]] of a
 
       pirouette. To him a pas de papillon has been an abstract
 
-      conception. He has never ascended the summit of a hill. He has
+      conception. He has never ascended the summit of a [[Hill|hill]]. He has
 
       never viewed from any steeple the glories of a metropolis. Heat
 
@@ -719,13 +719,13 @@ O breathe not, etc.
 
       days of a dog. Therein, he has dreamed of flames and
 
-      suffocation—of mountains upon mountains—of Pelion upon Ossa. He
+      suffocation—of [[Mountains|mountains]] upon [[Mountains|mountains]]—of Pelion upon Ossa. He
 
       was short of breath—to say all in a word, he was short of breath.
 
-      He thought it extravagant to play upon wind instruments. He was
+      He thought it extravagant to play upon [[Wind|wind]] instruments. He was
 
-      the inventor of self-moving fans, wind-sails, and ventilators. He
+      the inventor of [[Self|self]]-moving fans, [[Wind|wind]]-sails, and ventilators. He
 
       patronized Du Pont the bellows-maker, and he died miserably in
 
@@ -757,11 +757,11 @@ O breathe not, etc.
 
       “Entitled,” I repeated, “to no earthly commiseration. Who indeed
 
-      would think of compassioning a shadow? Besides, has he not had
+      would think of compassioning a [[Shadow|shadow]]? Besides, has he not had
 
-      his full share of the blessings of mortality? He was the
+      his full share of the blessings of [[Mortality|mortality]]? He was the
 
-      originator of tall monuments—shot-towers—lightning-rods—Lombardy
+      originator of tall monuments—shot-towers—[[Lightning|lightning]]-rods—Lombardy
 
       poplars. His treatise upon “Shades and Shadows” has immortalized
 
@@ -769,13 +769,13 @@ O breathe not, etc.
 
       “South on the Bones.” He went early to college and studied
 
-      pneumatics. He then came home, talked eternally, and played upon
+      pneumatics. He then came [[Home|home]], talked eternally, and played upon
 
       the French-horn. He patronized the bagpipes. Captain Barclay, who
 
-      walked against Time, would not walk against him. Windham and
+      walked against [[Time]], would not walk against him. Windham and
 
-      Allbreath were his favorite writers,—his favorite artist, Phiz.
+      Allbreath were his favorite writers,—his favorite [[Artist|artist]], Phiz.
 
       He died gloriously while inhaling gas—levique flatu corrupitur,
 
@@ -809,15 +809,15 @@ of a gentleman’s discourse. Interruptions are annoying and should
 
 undoubtedly be abolished—don’t you think so?—no reply, I beg you,—one
 
-person is enough to be speaking at a time.—I shall be done by and by,
+person is enough to be speaking at a [[Time|time]].—I shall be done by and by,
 
 and then you may begin.—How the devil sir, did you get into this
 
-place?—not a word I beseech you—been here some time myself—terrible
+place?—not a word I beseech you—been here some [[Time|time]] myself—terrible
 
 accident!—heard of it, I suppose?—awful calamity!—walking under your
 
-windows—some short while ago—about the time you were
+windows—some short while ago—about the [[Time|time]] you were
 
 stage-struck—horrible occurrence!—heard of “catching one’s breath,”
 
@@ -849,7 +849,7 @@ cetera—et cetera—et cetera—et cetera—”
 
       identical expiration mislaid by myself in the conversation with
 
-      my wife. Time, place, and circumstances rendered it a matter
+      my wife. [[Time]], place, and circumstances rendered it a matter
 
       beyond question. I did not, however, immediately release my hold
 
@@ -889,7 +889,7 @@ cetera—et cetera—et cetera—et cetera—”
 
       opportunities with even a next door neighbor, and (this remark is
 
-      from Epictetus) it is precisely at that time when men are most
+      from Epictetus) it is precisely at that [[Time|time]] when men are most
 
       anxious to throw off the burden of their own calamities that they
 
@@ -905,9 +905,9 @@ cetera—et cetera—et cetera—et cetera—”
 
 
 
-      “Monster!” I began in a tone of the deepest indignation—“monster
+      “[[Monster]]!” I began in a tone of the deepest indignation—“[[Monster|monster]]
 
-      and double-winded idiot!—dost thou, whom for thine iniquities it
+      and [[Double|double]]-winded idiot!—dost thou, whom for thine iniquities it
 
       has pleased heaven to accurse with a two-fold respimtion—dost
 
@@ -925,7 +925,7 @@ cetera—et cetera—et cetera—et cetera—”
 
 
 
-      Like Brutus, I paused for a reply—with which, like a tornado, Mr.
+      Like [[Brutus]], I paused for a reply—with which, like a tornado, Mr.
 
       Windenough immediately overwhelmed me. Protestation followed upon
 
@@ -955,7 +955,7 @@ cetera—et cetera—et cetera—et cetera—”
 
       light might be thrown upon a highly interesting branch of
 
-      physical philosophy.
+      physical [[philosophy]].
 
 
 
@@ -967,9 +967,9 @@ cetera—et cetera—et cetera—et cetera—”
 
       possible about an affair so delicate—so delicate, I repeat, and
 
-      at the time involving the interests of a third party whose
+      at the [[Time|time]] involving the interests of a third party whose
 
-      sulphurous resentment I have not the least desire, at this
+      sulphurous resentment I have not the least [[Desire|desire]], at this
 
       moment, of incurring.
 
@@ -981,7 +981,7 @@ cetera—et cetera—et cetera—et cetera—”
 
       our resuscitated voices was soon sufficiently apparent. Scissors,
 
-      the Whig editor, republished a treatise upon “the nature and
+      the Whig editor, republished a treatise upon “the [[Nature|nature]] and
 
       origin of subterranean noises.” A reply—rejoinder—confutation—and
 
@@ -1001,7 +1001,7 @@ cetera—et cetera—et cetera—et cetera—”
 
       recalling to the attention of the reader the merits of that
 
-      indiscriminate philosophy which is a sure and ready shield
+      indiscriminate [[philosophy]] which is a sure and ready shield
 
       against those shafts of calamity which can neither be seen, felt
 

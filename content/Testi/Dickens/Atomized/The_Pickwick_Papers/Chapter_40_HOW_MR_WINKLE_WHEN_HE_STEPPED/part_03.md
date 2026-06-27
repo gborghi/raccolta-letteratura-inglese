@@ -1,5 +1,5 @@
 ---
-title: "The Pickwick Papers — Chapter 38: HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN, (part 3)"
+title: "The [[Pickwick]] Papers — Chapter 38: HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN, (part 3)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/The-Pickwick-Papers-(Dickens)"
@@ -20,7 +20,7 @@ dispense some of the second-hand leeches, previously referred to; ‘my
 dear friend, I am very miserable.’
 
 Mr. Winkle professed his heartfelt regret to hear it, and begged to know
-whether he could do anything to alleviate the sorrows of the suffering
+whether he could do anything to alleviate the sorrows of the [[Suffering|suffering]]
 student.
 
 ‘Nothing, my dear boy, nothing,’ said Ben. ‘You recollect Arabella,
@@ -32,7 +32,7 @@ countenance to your recollection?’
 Mr. Winkle required nothing to recall the charming Arabella to his mind;
 and it was rather fortunate he did not, for the features of her brother
 Benjamin would unquestionably have proved but an indifferent refresher
-to his memory. He answered, with as much calmness as he could assume,
+to his [[Memory|memory]]. He answered, with as much calmness as he could assume,
 that he perfectly remembered the young lady referred to, and sincerely
 trusted she was in good health.
 
@@ -71,7 +71,7 @@ the poker again, more fiercely than before.
 
 All this was, of course, very soothing to the feelings of Mr. Winkle,
 who remained silent for a few minutes; but at length mustered up
-resolution to inquire whether Miss Allen was in Kent.
+resolution to inquire whether Miss Allen was in [[Kent]].
 
 ‘No, no,’ said Mr. Ben Allen, laying aside the poker, and looking very
 cunning; ‘I didn’t think Wardle’s exactly the place for a headstrong
@@ -96,7 +96,7 @@ here an insurmountable objection presented itself, for whether the
 explanatory ‘over that way,’ and ‘down there,’ of Mr. Ben Allen, meant
 three miles off, or thirty, or three hundred, he could in no wise guess.
 
-But he had no opportunity of pondering over his love just then, for Bob
+But he had no opportunity of pondering over his [[Love|love]] just then, for Bob
 Sawyer’s return was the immediate precursor of the arrival of a meat-pie
 from the baker’s, of which that gentleman insisted on his staying to
 partake. The cloth was laid by an occasional charwoman, who officiated
@@ -110,7 +110,7 @@ After dinner, Mr. Bob Sawyer ordered in the largest mortar in the shop,
 and proceeded to brew a reeking jorum of rum-punch therein, stirring up
 and amalgamating the materials with a pestle in a very creditable and
 apothecary-like manner. Mr. Sawyer, being a bachelor, had only one
-tumbler in the house, which was assigned to Mr. Winkle as a compliment
+tumbler in the [[house]], which was assigned to Mr. Winkle as a compliment
 to the visitor, Mr. Ben Allen being accommodated with a funnel with a
 cork in the narrow end, and Bob Sawyer contented himself with one of
 those wide-lipped crystal vessels inscribed with a variety of cabalistic
@@ -128,4 +128,4 @@ at the end of the street. Which conversation materially lightened the
 hours and improved the mind of Mr. Bob Sawyer’s boy, who, instead of
 devoting the evening to his ordinary occupation of writing his name on
 the counter, and rubbing it out again, peeped through the glass door,
-and thus listened and looked on at the same time.
+and thus listened and looked on at the same [[Time|time]].

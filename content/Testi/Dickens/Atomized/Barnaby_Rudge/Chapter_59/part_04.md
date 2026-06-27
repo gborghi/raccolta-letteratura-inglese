@@ -1,5 +1,5 @@
 ---
-title: "Barnaby Rudge — Chapter 59 (part 4)"
+title: "[[Barnaby Rudge]] — Chapter 59 (part 4)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Barnaby-Rudge-(Dickens)"
@@ -18,15 +18,15 @@ As he said these words he advanced towards her. Dolly retreated till she
 could go no farther, and then sank down upon the floor. Thinking it very
 possible that this might be maiden modesty, Simon essayed to raise her;
 on which Dolly, goaded to desperation, wound her hands in his hair, and
-crying out amidst her tears that he was a dreadful little wretch, and
+crying out amidst her [[Tears|tears]] that he was a dreadful little wretch, and
 always had been, shook, and pulled, and beat him, until he was fain to
 call for help, most lustily. Hugh had never admired her half so much as
 at that moment.
 
-‘She’s in an excited state to-night,’ said Simon, as he smoothed his
-rumpled feathers, ‘and don’t know when she’s well off. Let her be by
+‘She’s in an excited state to-[[Night|night]],’ said Simon, as he smoothed his
+rumpled feathers, ‘and don’t know when she’s [[Well|well]] off. Let her be by
 herself till to-morrow, and that’ll bring her down a little. Carry her
-into the next house!’
+into the next [[house]]!’
 
 Hugh had her in his arms directly. It might be that Mr Tappertit’s heart
 was really softened by her distress, or it might be that he felt it in
@@ -49,19 +49,19 @@ unknown reason, with tenfold violence.
 Mr Tappertit surveyed him from head to foot with lofty scorn (this only
 made him laugh the more), and turning to the prisoners, said:
 
-‘You’ll take notice, ladies, that this place is well watched on every
+‘You’ll take notice, ladies, that this place is [[Well|well]] watched on every
 side, and that the least noise is certain to be attended with unpleasant
 consequences. You’ll hear--both of you--more of our intentions
-to-morrow. In the mean time, don’t show yourselves at the window, or
+to-morrow. In the mean [[Time|time]], don’t show yourselves at the [[Window|window]], or
 appeal to any of the people you may see pass it; for if you do, it’ll
-be known directly that you come from a Catholic house, and all the
+be known directly that you come from a Catholic [[house]], and all the
 exertions our men can make, may not be able to save your lives.’
 
 With this last caution, which was true enough, he turned to the door,
 followed by Hugh and Dennis. They paused for a moment, going out, to
 look at them clasped in each other’s arms, and then left the cottage;
 fastening the door, and setting a good watch upon it, and indeed all
-round the house.
+round the [[house]].
 
 ‘I say,’ growled Dennis, as they walked away in company, ‘that’s a
 dainty pair. Muster Gashford’s one is as handsome as the other, eh?’
@@ -84,10 +84,10 @@ Strike who dead?’ demanded Hugh.
 she.’
 
 Hugh looked, for a moment, as though he would have made some further
-inquiry into this incoherent recollection; but Simon Tappertit, who had
+inquiry into this incoherent recollection; but [[Simon Tappertit]], who had
 been meditating deeply, gave his thoughts a new direction.
 
-‘Hugh!’ said Sim. ‘You have done well to-day. You shall be rewarded.
+‘Hugh!’ said Sim. ‘You have done [[Well|well]] to-day. You shall be rewarded.
 So have you, Dennis.--There’s no young woman YOU want to carry off, is
 there?’
 

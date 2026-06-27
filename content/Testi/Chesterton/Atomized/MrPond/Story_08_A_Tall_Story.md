@@ -1,5 +1,5 @@
 ---
-title: "MrPond — A Tall Story"
+title: "[[MrPond]] — A Tall Story"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/MrPond-(Chesterton)"
@@ -16,9 +16,9 @@ tags:
 
 A TALL STORY
 
-They had been discussing the new troubles in Germany: the three old
+They had been discussing the new troubles in [[Germany]]: the three old
 
-friends, Sir Hubert Wotton, the famous official; Mr. Pond, the
+friends, Sir [[Hubert]] Wotton, the famous official; Mr. Pond, the
 
 obscure official; and Captain Gahagan, who never did a stroke of
 
@@ -38,9 +38,9 @@ Captain to rather excessive flights of showing-off.
 
 Captain Gahagan looked like a Regency buck; Mr. Pond looked like a
 
-round-eyed fish, with the beard and brow of Socrates; Sir Hubert
+round-eyed fish, with the beard and brow of Socrates; Sir [[Hubert]]
 
-Wotton looked like Sir Hubert Wotton--it summed up a very sound and
+Wotton looked like Sir [[Hubert]] Wotton--it summed up a very sound and
 
 virile quality in him, for which his friends had a great respect.
 
@@ -66,7 +66,7 @@ think it was a damned shame that they should be kicked out or
 
 kicked at all.  But I fancy they must be kicking themselves, for
 
-having been so faithful to Germany and even, everywhere else,
+having been so faithful to [[Germany]] and even, everywhere else,
 
 pretty generally pro-German."
 
@@ -78,7 +78,7 @@ all kept rather quiet, as I have reason to know; for the thing
 
 happened, in some sense, in my department.  I have generally found
 
-spy stories the dullest of all forms of detective fiction; in my
+spy stories the dullest of all forms of [[Detective Fiction|detective fiction]]; in my
 
 own modest researches into the light literature of murder, I
 
@@ -106,7 +106,7 @@ being extraordinary; one would be too small to be noticed, another
 
 too tall to be seen; one was apparently paralysed in a hospital and
 
-got out of the window at night--"
+got out of the [[Window|window]] at [[Night|night]]--"
 
 Joan looked across at him with a troubled expression in her honest
 
@@ -126,7 +126,7 @@ a thousand instances that would meet the case.  Take, for example,
 
 the case of my unfortunate friends the Balham-Browns who lived at
 
-Muswell Hill.  Mr. Balham-Brown had just come home from the office
+Muswell [[Hill]].  Mr. Balham-Brown had just come [[Home|home]] from the office
 
 (of the Imperial and International Lead-Piping Company) and was
 
@@ -148,13 +148,13 @@ spitefulness of the scientific world, Professor Pooter countered
 
 with the theory that Jupiter buried the Titans, one under Etna,
 
-another under Ossa, and a third under Muswell Hill.  Anyhow, the
+another under Ossa, and a third under Muswell [[Hill]].  Anyhow, the
 
 villa of my ill-fated friends the Balham-Browns was ruined, and the
 
 whole suburb overturned as by an earthquake, in order to excavate
 
-the monster.  When his head alone emerged, it was like a colossal
+the [[Monster|monster]].  When his head [[Alone|alone]] emerged, it was like a colossal
 
 sphinx; and Mrs. Balham-Brown complained to the authorities that
 
@@ -162,7 +162,7 @@ the face frightened her, because it was too large.  Mr. Pond, who
 
 happened to be passing at the moment, immediately produced a
 
-paradox (of which he always carries a small supply) and said that,
+[[Paradox|paradox]] (of which he always carries a small supply) and said that,
 
 on the contrary, they would soon find that the face was too small.
 
@@ -182,11 +182,11 @@ walk across the Atlantic, where even he was apparently submerged.
 
 It is believed that the unfortunate creature was going to give
 
-lectures in America; driven by that mysterious instinct which leads
+lectures in [[america|America]]; driven by that mysterious instinct which leads
 
 any person who is notorious for any reason to adopt that course."
 
-"Well, have you done?" demanded Joan.  "We know all about you and
+"[[Well]], have you done?" demanded Joan.  "We know all about you and
 
 your yarns; and they don't mean anything.  But when Mr. Pond says
 
@@ -194,7 +194,7 @@ that somebody was too tall to be seen, he does mean something.  And
 
 what can he possibly mean?"
 
-"Well," said Mr. Pond, coughing slightly, "it was really a part of
+"[[Well]]," said Mr. Pond, coughing slightly, "it was really a part of
 
 the story to which I was alluding just now.  I did not notice
 
@@ -212,11 +212,11 @@ famous seaport, and, therefore, naturally a place of concentration
 
 for all the vigilance against spies, whether official or amateur.
 
-Sir Hubert Wotton was in general charge of the district, but Mr.
+Sir [[Hubert]] Wotton was in general charge of the district, but Mr.
 
 Pond was in more practical though private occupation of the town,
 
-watching events from a narrow house in a back street, an upper room
+watching events from a narrow [[house]] in a back street, an upper room
 
 of which had been unobtrusively turned into an office; and he had
 
@@ -224,13 +224,13 @@ two assistants under him; a sturdy and very silent young man named
 
 Butt, bull-necked and broad-shouldered, but quite short; and a much
 
-taller and more talkative and elegant government-office clerk named
+taller and more talkative and elegant [[government]]-office clerk named
 
-Travers, but referred to by nearly everybody as Arthur.  The
+Travers, but referred to by nearly everybody as [[Arthur]].  The
 
 stalwart Butt commonly occupied a desk on the ground floor,
 
-watching the door and anyone who entered it; while Arthur Travers
+watching the door and anyone who entered it; while [[Arthur]] Travers
 
 worked in the office upstairs, where there were some very valuable
 
@@ -246,9 +246,9 @@ neighbourhood; indeed, it consisted of a few genteel, old-fashioned
 
 houses, now mostly shuttered and empty, standing on the very edge
 
-of a sort of slum of small houses, at that time riddled with what
+of a sort of slum of small houses, at that [[Time|time]] riddled with what
 
-is called Unrest in a degree very dangerous, especially in time of
+is called Unrest in a degree very dangerous, especially in [[Time|time]] of
 
 war.  Immediately outside his door, he found but few things that
 
@@ -274,7 +274,7 @@ passionately patriotic, not to say militaristic.  And, indeed, it
 
 is often true that those two extremes lend themselves to the same
 
-sort of fluent fanaticism.  Poor Mr. Pond had reason to remember
+sort of fluent [[Fanaticism|fanaticism]].  Poor Mr. Pond had reason to remember
 
 the woeful day when he first saw her angular and agitated figure
 
@@ -290,7 +290,7 @@ removed sufficiently promptly from her path: was, in fact, as she
 
 declared, removed reluctantly and in a grumbling spirit by the
 
-workmen employed on the job; and by the time she had reached the
+workmen employed on the job; and by the [[Time|time]] she had reached the
 
 responsible official, a theory had fully formed and hardened in her
 
@@ -300,7 +300,7 @@ mind.
 
 that unfortunate functionary.  "I heard him with my own ears mutter
 
-something about what his Trade Union would say.  What is he doing
+something about what his Trade [[Union]] would say.  What is he doing
 
 so near to your office?"
 
@@ -338,7 +338,7 @@ was Peterson: it was possible that it was really Petersen.  But
 
 that was not all.  Mr. Pond had learned the last lesson of the wise
 
-man: that the fool is sometimes right.
+man: that the [[Fool|fool]] is sometimes right.
 
 He soon forgot the incident in the details of his work; and next
 
@@ -346,17 +346,17 @@ day it was with a start that he looked up from his desk, or rather
 
 from Mr. Butt's desk which he was using at the moment, and saw once
 
-again the patriotic lady hovering like an avenging shadow in the
+again the patriotic lady hovering like an avenging [[Shadow|shadow]] in the
 
-doorway.  This time she glided swiftly in, unchecked by any
+doorway.  This [[Time|time]] she glided swiftly in, unchecked by any
 
 Socialist barricade, and warned him that she had news of the most
 
 terrible kind.  She seemed to have forgotten all about her last
 
-suspicions; and, in truth, her new ones were naturally more
+suspicions; and, in [[Truth|truth]], her new ones were naturally more
 
-important to her.  This time she had warmed the viper on her own
+important to her.  This [[Time|time]] she had warmed the viper on her own
 
 hearth.  She had suddenly become conscious of the existence of her
 
@@ -384,13 +384,13 @@ the lady; and saw no reason to move in the matter.
 
 Mrs. Hartog-Haggard was already breathing hoarsely in his ear.  "Do
 
-you think she is signalling, or does she climb down the fire-
+you think she is signalling, or does she climb down the [[Fire|fire]]-
 
 escape?  What do you think it means, Mr. Pond?"
 
 "Hysterics," said Mr. Pond.  "What, do you think the poor lady
 
-cannot be hysterical, because she does not scream the house down?
+cannot be hysterical, because she does not scream the [[house]] down?
 
 But any doctor will tell you that hysteria is mostly secretive and
 
@@ -400,9 +400,9 @@ the Germans; it is at the very opposite extreme to the external
 
 excitability of the Latins.  No, madam, I do not think she is
 
-climbing down the fire-escape.  I think she is saying that her
+climbing down the [[Fire|fire]]-escape.  I think she is saying that her
 
-pupils do not love her, and thinking about weltschmerz and suicide.
+pupils do not [[Love|love]] her, and thinking about weltschmerz and [[suicide]].
 
 And really, poor woman, she is in a very hard position."
 
@@ -414,7 +414,7 @@ victory."
 
 "You had better pray," said Mr. Pond, "for all the unhappy
 
-Englishwomen stranded in Germany by poverty or duty or dependence.
+Englishwomen stranded in [[Germany]] by [[Poverty|poverty]] or duty or dependence.
 
 If she loves her native land, it only shows she is a human being.
 
@@ -436,11 +436,11 @@ if anything she touched could remain trivial.
 
 sometimes recall to you the greatest and noblest work that ever
 
-came out of Germany."
+came out of [[Germany]]."
 
-"You refer to Goethe's Faust, I presume," she replied.
+"You refer to Goethe's [[Faust]], I presume," she replied.
 
-"I refer to Grimm's Fairy-Tales," said Mr. Pond.  "I fear I have
+"I refer to Grimm's Fairy-Tales," said Mr. Pond.  "I [[Fear|fear]] I have
 
 forgotten for the moment whether the story we call Puss-in-Boots
 
@@ -462,13 +462,13 @@ Pickles, in lights and various other embellishments, supported by
 
 that world-famed comedian who called himself Alberto Tizzi and was
 
-born in the Blackfriars Road.
+born in the Blackfriars [[Road]].
 
 When he returned to his office at twilight, and, turning, beheld
 
 the figure of Mrs. Hartog-Haggard again hovering without, Mr. Pond
 
-began to think he was in a nightmare.  He wondered wildly whether
+began to think he was in a [[nightmare]].  He wondered wildly whether
 
 she had drawn some dark conclusions from his own meeting with the
 
@@ -484,9 +484,9 @@ ever; she ducked under the frame of scaffolding and darted into the
 
 room, crying out as she came:
 
-"Mr. Pond, do you know what is right opposite your own house?"
+"Mr. Pond, do you know what is right opposite your own [[house]]?"
 
-"Well, I think so," said Mr. Pond, doubtfully, "more or less."
+"[[Well]], I think so," said Mr. Pond, doubtfully, "more or less."
 
 "I never read the name over the shop before!" cried the lady.  "You
 
@@ -504,15 +504,15 @@ name," said Mr. Pond.
 
 names?  Why, that makes it worse than ever!"
 
-"Well," said Mr. Pond, rising suddenly, and with a curtness that
+"[[Well]]," said Mr. Pond, rising suddenly, and with a curtness that
 
 cut all his own courtesy, "I'll see what I can do about it."
 
-And for the third time did Mr. Pond take some steps to verify the
+And for the third [[Time|time]] did Mr. Pond take some steps to verify the
 
 Hartog-Haggard revelations.  He took the ten or twelve steps
 
-necessary to take him across the road and into the shop of C.
+necessary to take him across the [[Road|road]] and into the shop of C.
 
 Schiller, amid all the shining sabres and yataghans.  It was a very
 
@@ -528,7 +528,7 @@ your own fault if there's a row of some kind and a Jingo mob comes
 
 here and breaks your windows for your absurd German name.  I know
 
-very well this is no quarrel of yours.  I am well aware," Mr. Pond
+very [[Well|well]] this is no quarrel of yours.  I am [[Well|well]] aware," Mr. Pond
 
 continued with an earnest gaze, "that you never invaded Belgium.  I
 
@@ -544,7 +544,7 @@ your fathers who go back to the most ancient priesthood of the
 
 world?  And you'll get into trouble with the Germans, too, some
 
-day, if you go about calling yourself Schiller.  You might as well
+day, if you go about calling yourself Schiller.  You might as [[Well|well]]
 
 go and live in Stratford-on-Avon and call yourself Shakespeare."
 
@@ -558,9 +558,9 @@ with unusual brevity; and left the shop to return to the office.
 
 The square figure of Mr. Butt, who was sitting at the desk looking
 
-towards the doorway, rose at his entrance; but Pond waved him to
+towards the doorway, [[Rose|rose]] at his entrance; but Pond waved him to
 
-his seat again and, lighting a cigarette, began to moon about the
+his seat again and, lighting a cigarette, began to [[Moon|moon]] about the
 
 room in a rather moody fashion.  He did not believe that there was
 
@@ -572,7 +572,7 @@ possibilities about the last.  Mr. Levy was certainly not a German;
 
 and it was very improbable that he was a real enthusiast for
 
-Germany; but it was not altogether impossible to suppose, in the
+[[Germany]]; but it was not altogether impossible to suppose, in the
 
 tangle and distraction of all the modern international muddle, that
 
@@ -602,7 +602,7 @@ suggestion of a cluster or network of lines to confuse the prospect
 
 at that very confusing turn of the twilight.  Once he fancied he
 
-saw something flicker behind them, as if a shadow had shifted; and
+saw something flicker behind them, as if a [[Shadow|shadow]] had shifted; and
 
 there arose within him the terror of Mrs. Hartog-Haggard, which is
 
@@ -610,7 +610,7 @@ the terror of boredom and a sort of paralysed impatience, one of
 
 the worst of the woes of life.
 
-Then he saw that the shifting shadow must have been produced by the
+Then he saw that the shifting [[Shadow|shadow]] must have been produced by the
 
 fact that the lights had been turned up in the shop opposite; and
 
@@ -654,7 +654,7 @@ sharply around, to find that Butt was not working at all; but, like
 
 himself, was staring, not to say glaring, as in a congested
 
-mystification, into the twilight.  Butt was commonly the most calm
+[[Mystification|mystification]], into the twilight.  Butt was commonly the most calm
 
 and prosaic of subordinates; but the look on his face was quite
 
@@ -670,35 +670,35 @@ to be a beast or not.  It's a beastly caddish thing to say a word,
 
 or hint a word, against your comrades or anybody connected with
 
-them.  But after all--well, sir, there is the country, isn't
+them.  But after all--[[Well|well]], sir, there is the country, isn't
 
 there?"
 
 "There is certainly the country," said Mr. Pond, very seriously.
 
-"Well," Butt blurted out at last, "I'm not a bit comfortable about
+"[[Well]]," Butt blurted out at last, "I'm not a bit comfortable about
 
-Arthur."
+[[Arthur]]."
 
 Then, after a sort of gasp, he tried again:  "At least, it isn't so
 
-much Arthur as Arthur's . . . what Arthur's doing.  It makes it all
+much [[Arthur]] as [[Arthur]]'s . . . what [[Arthur]]'s doing.  It makes it all
 
 the nastier to have put it like that.  But you know he got engaged
 
 last week.  Have you met his fiancée, sir?"
 
-"I have not yet had the honour," replied Pond, in his punctilious
+"I have not yet had the [[Honour|honour]]," replied Pond, in his punctilious
 
 way.
 
-"Well, sir, Arthur brought her in here to-day while you were out;
+"[[Well]], sir, [[Arthur]] brought her in here to-day while you were out;
 
 he'd just taken her to the pantomime of Puss-in-Boots on the pier,
 
 and they were laughing like anything.  Of course, that's quite all
 
-right; it was his off time; but it seemed to me it wasn't quite all
+right; it was his off [[Time|time]]; but it seemed to me it wasn't quite all
 
 right that she walked straight upstairs without any invitation,
 
@@ -714,25 +714,25 @@ door, and you or I are always sitting bang in front of it; and
 
 there's only one staircase, and nobody uses it but we three.  Of
 
-course, she might have done it in all innocence; that's what made
+course, she might have done it in all [[innocence]]; that's what made
 
-it seem quite too ghastly to snub her.  And yet. . . .  Well, she's
+it seem quite too ghastly to snub her.  And yet. . . .  [[Well]], she's
 
-a very nice-looking girl, and no doubt a very nice girl; but
+a very nice-looking girl, and no [[Doubt|doubt]] a very nice girl; but
 
 somehow that's just the one word that wouldn't jump to my mind
 
-about her--innocence."
+about her--[[innocence]]."
 
 "Why, what sort of a girl is she?" asked Pond.
 
-"Well," said Mr. Butt, gloomily seeking words, "we all know that
+"[[Well]]," said Mr. Butt, gloomily seeking words, "we all know that
 
 making-up and even dyeing your hair doesn't mean what it once did;
 
 lots of women do it who are perfectly decent; but not those who
 
-are--well, utterly inexperienced.  It seemed to me that, while she
+are--[[Well|well]], utterly inexperienced.  It seemed to me that, while she
 
 might be perfectly honest, she WOULD know very decidedly whether a
 
@@ -742,13 +742,13 @@ thing is done or not."
 
 severity, "she must know that he is here on highly confidential
 
-work, and she must be as anxious to protect his honour as we are.
+work, and she must be as anxious to protect his [[Honour|honour]] as we are.
 
 I'm afraid that I shall have to ask you for some sort of
 
 description."
 
-"Well," said Butt, "she's very tall and elegant, or . . . no,
+"[[Well]]," said Butt, "she's very tall and elegant, or . . . no,
 
 elegant is exactly the word.  She has beautiful golden hair--very
 
@@ -768,9 +768,9 @@ tooth, in any sense, her teeth are just a little to the fore."
 
 did."
 
-Mr. Pond received the news in silence.
+Mr. Pond received the news in [[Silence|silence]].
 
-"I hope, sir, you won't assume anything against Arthur," said Butt,
+"I [[Hope|hope]], sir, you won't assume anything against [[Arthur]]," said Butt,
 
 huskily.  "I'm sure I'd do anything to clear him of any--"
 
@@ -786,11 +786,11 @@ did just then.
 
 They flung open the door, and they saw all that was to be seen.
 
-All that was to be seen was Arthur Travers stretched out face
+All that was to be seen was [[Arthur]] Travers stretched out face
 
 downwards on the ground, and between his shoulder-blades stood out
 
-the very long hilt of a very strange-looking sword.  Butt
+the very long hilt of a very strange-looking [[Sword|sword]].  Butt
 
 impetuously laid hold of it, and was startled to find that it was
 
@@ -814,7 +814,7 @@ added:
 
 certain: that he is quite cleared."
 
-Pond then walked in silence to the desk, which contained the secret
+Pond then walked in [[Silence|silence]] to the desk, which contained the secret
 
 drawer and the secret plan of the harbour.  He only compressed his
 
@@ -826,7 +826,7 @@ different people.  He did about twenty things, but he did not speak
 
 again for about three-quarters of an hour.  It was only about the
 
-same time that the stunned and bewildered Butt stumbled into
+same [[Time|time]] that the stunned and bewildered Butt stumbled into
 
 speech.
 
@@ -840,7 +840,7 @@ like that."
 
 once more.
 
-And indeed the riddle revolved more and more on the one thing that
+And indeed the [[Riddle|riddle]] revolved more and more on the one thing that
 
 thief and murderer had left behind him: the enormous misshapen
 
@@ -848,15 +848,15 @@ weapon.  It was not difficult to guess why he had left it behind;
 
 it was so difficult to tug out of the floor that he probably had no
 
-time to try effectually, hearing Pond clattering up the stairs; he
+[[Time|time]] to try effectually, hearing Pond clattering up the stairs; he
 
-thought it wiser to escape somehow, presumably through the window.
+thought it wiser to escape somehow, presumably through the [[Window|window]].
 
-But about the nature of the thing itself it was hard to say
+But about the [[Nature|nature]] of the thing itself it was hard to say
 
 anything, for it seemed quite abnormal.  It was as long as a
 
-claymore; yet it was not upon the pattern of any known sword.  It
+claymore; yet it was not upon the pattern of any known [[Sword|sword]].  It
 
 had no guard or pommel of any kind.  The hilt was as long as the
 
@@ -870,7 +870,7 @@ gazed musingly at this uncouth weapon, which was made very rudely
 
 of iron and wood painted with garish colours; and his thoughts
 
-crept slowly back to that shop across the road that was hung with
+crept slowly back to that shop across the [[Road|road]] that was hung with
 
 strange and savage weapons.  Yet this seemed to be in a somewhat
 
@@ -886,11 +886,11 @@ thing before.
 
 Touching many other things, the darkness began to thin away to a
 
-somewhat dreary dawn.  It was ascertained that poor Arthur's
+somewhat dreary [[Dawn|dawn]].  It was ascertained that poor [[Arthur]]'s
 
 equivocal fiancée had indeed fled; very possibly in company with
 
-the missing plan.  She was known by this time to be a woman quite
+the missing plan.  She was known by this [[Time|time]] to be a woman quite
 
 capable of stealing a document or even stabbing a man.  But it was
 
@@ -902,9 +902,9 @@ floor; and quite impossible to imagine why she should select it for
 
 the purpose.
 
-"It would all be as clear as death," said Mr. Butt, bitterly,
+"It would all be as clear as [[Death|death]]," said Mr. Butt, bitterly,
 
-"except for that lumbering, long-hilted short-sword, or whatever it
+"except for that lumbering, long-hilted short-[[Sword|sword]], or whatever it
 
 is.  It never was in Levy's shop.  It never was in Asia or Africa
 
@@ -920,7 +920,7 @@ days.
 
 beginning to understand."
 
-It has been hinted, with every delicacy, we may hope, that the
+It has been hinted, with every delicacy, we may [[Hope|hope]], that the
 
 attitude of Mr. Pond towards the visits of Mrs. Hartog-Haggard was,
 
@@ -928,7 +928,7 @@ perhaps, rather passive than receptive; that he did not look
 
 forward to them as pants the hart for cooling streams; and that for
 
-him they rather resembled getting into hot water.  It is all the
+him they rather resembled getting into hot [[Water|water]].  It is all the
 
 more worthy of record that, on the last occasion of her bringing
 
@@ -938,7 +938,7 @@ excitement and even of triumph.  He had been right in his
 
 premonitions about the wisdom of folly; and the triumph was truly
 
-the triumph of the fool.  Mrs. Hartog-Haggard gave him the clue
+the triumph of the [[Fool|fool]].  Mrs. Hartog-Haggard gave him the clue
 
 after all.
 
@@ -956,7 +956,7 @@ governess.  On the former occasion she had appeared to claim the
 
 fairy-tale used for pantomimes as exclusively English and part of
 
-the healthy innocence of the stately homes of England.  Now she was
+the healthy [[innocence]] of the stately homes of England.  Now she was
 
 denouncing the German woman for taking the children to the
 
@@ -972,9 +972,9 @@ our children's nerves and minds.  Could any other nation be such
 
 fiends, Mr. Pond?  She's been poisoning their poor little minds
 
-with horrors about magicians and magic cats; and now the worst has
+with horrors about magicians and [[Magic|magic]] cats; and now the worst has
 
-happened, as I knew it would.  Well--YOU haven't done anything to
+happened, as I knew it would.  [[Well]]--YOU haven't done anything to
 
 stop it; and my life is simply ruined.  My three girls are all
 
@@ -1010,15 +1010,15 @@ mother.  Your son is not mad."
 
 He looked more judicial, and even severe, when he next sat in
 
-consultation with Mr. Butt, Sir Hubert Wotton, and Inspector Grote,
+consultation with Mr. Butt, Sir [[Hubert]] Wotton, and Inspector Grote,
 
-the leading detective of the district.
+the leading [[Detective|detective]] of the district.
 
 "What it comes to is this," said Mr. Pond, very sternly: "that you
 
 do not really know the story of Puss-in-Boots.  And they talk about
 
-this as an epoch of Education."
+this as an epoch of [[Education]]."
 
 "Oh, I know it's about a clever cat and all the rest of it," said
 
@@ -1034,7 +1034,7 @@ first there was something wrong about that bit of scaffolding round
 
 the door; but I soon saw it was far too low and small for anybody
 
-to climb up to the window by it.  But, of course, if we're talking
+to climb up to the [[Window|window]] by it.  But, of course, if we're talking
 
 about a really clever cat burglar, there's always some chance that--"
 
@@ -1042,7 +1042,7 @@ about a really clever cat burglar, there's always some chance that--"
 
 any burglar, any more than any cat, load himself with a gigantic
 
-knife rather bigger than a garden spade?  Nobody carries a gigantic
+knife rather bigger than a [[Garden|garden]] spade?  Nobody carries a gigantic
 
 knife except a giant.  This crime was committed by a giant."
 
@@ -1052,7 +1052,7 @@ rebuke:
 
 "What I remark upon, what I regret and regard as symptomatic of
 
-serious intellectual decay, is that you apparently do not know that
+serious intellectual [[Decay|decay]], is that you apparently do not know that
 
 the story of Puss-in-Boots includes a giant.  He is also a
 
@@ -1060,7 +1060,7 @@ magician; but he is always depicted, in pictures and pantomimes, as
 
 an ogre with a large knife.  Signor Alberto Tizzi, that somewhat
 
-dubious foreign artist, enacts the part on the pier by the usual
+dubious foreign [[artist]], enacts the part on the pier by the usual
 
 expedient of walking on very high stilts, covered by very long
 
@@ -1068,21 +1068,21 @@ trousers.  But he sometimes walks about on the stilts and dispenses
 
 with the trousers; taking a walk through the almost entirely
 
-deserted streets at night.  Just round here, especially, the
+deserted streets at [[Night|night]].  Just round here, especially, the
 
 chances are against his being even seen; all the big houses are
 
 shut up, except ours and Mrs. Hartog-Haggard's, which only looks on
 
-the street through a landing window; through which her little boy
+the street through a landing [[Window|window]]; through which her little boy
 
 (probably in his nightgown) peered and beheld a real ogre, with a
 
 great gory knife, and, perhaps, a great grinning mask, walking
 
-majestically under the moon--rather a fine sight to put among the
+majestically under the [[Moon|moon]]--rather a fine sight to put among the
 
-memories of childhood.  For the rest, all the poor houses are low
+memories of [[Childhood|childhood]].  For the rest, all the poor houses are low
 
 houses of one storey; and the people would see nothing but his
 
@@ -1106,9 +1106,9 @@ ledge or roof or other upper level.  So he left them standing
 
 outside our doorway, among the poles of the little scaffolding,
 
-while he climbed in at the upper window and killed poor Travers."
+while he climbed in at the upper [[Window|window]] and killed poor Travers."
 
-"If you are sure of this," cried Sir Hubert Wotton, starting to his
+"If you are sure of this," cried Sir [[Hubert]] Wotton, starting to his
 
 feet hastily, "you ought to act on it at once!"
 
@@ -1128,9 +1128,9 @@ But he sighed again.
 
 after, "though we did manage to save the secret plans, the incident
 
-was much more of a tragedy than a triumph.  And what I most
+was much more of a [[Tragedy|tragedy]] than a triumph.  And what I most
 
-intensely disliked about the tragedy was the irony--what I believe
+intensely disliked about the [[Tragedy|tragedy]] was the irony--what I believe
 
 is called the tragic irony, or, alternatively, the Greek irony.  We
 

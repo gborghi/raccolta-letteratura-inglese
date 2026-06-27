@@ -1,5 +1,5 @@
 ---
-title: "Man Orthodox — The Philosophy Of Pumpkins"
+title: "Man Orthodox — The [[philosophy|Philosophy]] Of Pumpkins"
 author: "Chesterton"
 unitType: story
 parentWork: "Works/Man-Orthodox-(Chesterton)"
@@ -14,6 +14,6 @@ tags:
 </nav>
 
 
-THE PHILOSOPHY OF PUMPKINS
+THE [[philosophy|PHILOSOPHY]] OF PUMPKINS
 
 `IN THE BEGINNING'

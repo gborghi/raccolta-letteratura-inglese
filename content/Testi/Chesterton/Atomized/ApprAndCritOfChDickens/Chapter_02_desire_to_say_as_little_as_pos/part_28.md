@@ -1,5 +1,5 @@
 ---
-title: "ApprAndCritOfChDickens — Book 1: desire to say as little as possible; I will discuss any other (part 28)"
+title: "[[ApprAndCritOfChDickens]] — Book 1: [[Desire|desire]] to say as little as possible; I will discuss any other (part 28)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ApprAndCritOfChDickens-(Chesterton)"
@@ -26,7 +26,7 @@ enjoy it. For no man can entirely enjoy that which he loves; contentment
 
 is always unpatriotic. The difference can indeed be put with approximate
 
-perfection in one phrase. In Italy he was on a holiday; in America he
+perfection in one phrase. In [[Italy]] he was on a holiday; in [[america|America]] he
 
 was on a tour. But indeed Dickens himself has quite sufficiently
 
@@ -38,9 +38,9 @@ especially in small matters. The _American Notes_ really are notes, like
 
 the notes of a student or a professional witness. The _Pictures from
 
-Italy_ are only pictures from Italy, like the miscellaneous pictures
+Italy_ are only pictures from [[Italy]], like the miscellaneous pictures
 
-that all tourists bring from Italy.
+that all tourists bring from [[Italy]].
 
 
 
@@ -88,11 +88,11 @@ else. Perhaps the most attractive of them is the incomparable
 
 description of the Italian Marionette Theatre in which they acted a play
 
-about the death of Napoleon in St. Helena. The description is better
+about the [[Death|death]] of Napoleon in St. [[Helena]]. The description is better
 
 than that of Codlin and Short's Punch and Judy, and almost as good as
 
-that of Mrs. Jarley's Wax Works. Indeed the humour is similar; for Punch
+that of Mrs. Jarley's Wax Works. Indeed the [[Humour|humour]] is similar; for Punch
 
 is supposed to be funny, but Napoleon (as Mrs. Jarley said when asked if
 
@@ -108,7 +108,7 @@ for calling him General Bonaparte--"Sir Hudson Low, call me not thus; I
 
 am Napoleon, Emperor of the French." There is also something singularly
 
-gratifying about the scene of Napoleon's death, in which he lay in bed
+gratifying about the scene of Napoleon's [[Death|death]], in which he lay in bed
 
 with his little wooden hands outside the counterpane and the doctor (who
 
@@ -122,7 +122,7 @@ which Dickens probably valued highly. But it is not for such things that
 
 he is valued. In all his writings, from his most reasoned and sustained
 
-novel to his maddest private note, it is always this obstreperous
+[[Novel|novel]] to his maddest private note, it is always this obstreperous
 
 instinct for farce which stands out as his in the highest sense. His
 
@@ -130,7 +130,7 @@ wisdom is at the best talent, his foolishness is genius. Just that
 
 exuberant levity which we associate with a moment we associate in his
 
-case with immortality. It is said of certain old masonry that the mortar
+case with [[Immortality|immortality]]. It is said of certain old masonry that the mortar
 
 was so hard that it has survived the stones. So if Dickens could revisit
 
@@ -156,7 +156,7 @@ for ever.
 
 
 
-MARTIN CHUZZLEWIT
+[[Martin Chuzzlewit|MARTIN CHUZZLEWIT]]
 
 
 
@@ -168,11 +168,11 @@ _Martin Chuzzlewit_ to which it is difficult for either friends or foes
 
 to put a name. I think the reader who enjoys Dickens's other books has
 
-an impression that it is a kind of melancholy. There are grotesque
+an impression that it is a kind of [[Melancholy|melancholy]]. There are [[Grotesque|grotesque]]
 
 figures of the most gorgeous kind; there are scenes that are farcical
 
-even by the standard of the farcical license of Dickens; there is humour
+even by the standard of the farcical license of Dickens; there is [[Humour|humour]]
 
 both of the heaviest and of the lightest kind; there are two great comic
 
@@ -180,7 +180,7 @@ personalities who run like a rich vein through the whole story,
 
 Pecksniff and Mrs. Gamp; there is one blinding patch of brilliancy, the
 
-satire on American cant; there is Todgers's boarding-house; there is
+[[Satire|satire]] on American cant; there is Todgers's boarding-[[house]]; there is
 
 Bailey; there is Mr. Mould, the incomparable undertaker. But yet in
 
@@ -190,9 +190,9 @@ No one I think ever went to it in that mixed mood of a tired tenderness
 
 and a readiness to believe and laugh in which most of Dickens's novels
 
-are most enjoyed. We go for a particular novel to Dickens as we go for a
+are most enjoyed. We go for a particular [[Novel|novel]] to Dickens as we go for a
 
-particular inn. We go to the sign of the Pickwick Papers. We go to the
+particular inn. We go to the sign of the [[Pickwick]] Papers. We go to the
 
 sign of the Rudge and Raven. We go to the sign of the Old Curiosities.
 

@@ -1,5 +1,5 @@
 ---
-title: "ball and cross — Some Old Curiosities (part 3)"
+title: "ball and [[Cross|cross]] — Some Old Curiosities (part 3)"
 author: "Chesterton"
 unitType: excerpt
 parentWork: "Works/ball-and-cross-(Chesterton)"
@@ -20,22 +20,22 @@ masses of vehicles going by, and could even see an individual
 hansom cab passing the corner at the instant.  Turnbull put his
 fingers to his mouth like a gutter-snipe and whistled twice.
 Even as he did so he could hear the loud voices of the neighbours
-and the police coming down the garden.
+and the police coming down the [[Garden|garden]].
 
 The hansom swung sharply and came tearing down the little lane at
-his call.  When the cabman saw his fares, however, two wild-haired
+his call.  When the [[cabman]] saw his fares, however, two wild-haired
 men in their shirts and socks with naked swords under their arms,
 he not unnaturally brought his readiness to a rigid stop
 and stared suspiciously.
 
 "You talk to him a minute," whispered Turnbull, and stepped back
-into the shadow of the wall.
+into the [[Shadow|shadow]] of the wall.
 
-"We want you," said MacIan to the cabman, with a superb Scotch drawl
+"We want you," said MacIan to the [[cabman]], with a superb Scotch drawl
 of indifference and assurance, "to drive us to St. Pancras Station--
 verra quick."
 
-"Very sorry, sir," said the cabman, "but I'd like to know it was
+"Very sorry, sir," said the [[cabman]], "but I'd like to know it was
 all right.  Might I arst where you come from, sir?"
 
 A second after he spoke MacIan heard a heavy voice on the other side
@@ -47,11 +47,11 @@ lowland Scotch intonation, "if ye're really verra anxious to ken whar a'
 come fra', I'll tell ye as a verra great secret.  A' come from Scotland.
 And a'm gaein' to St. Pancras Station.  Open the doors, cabby."
 
-The cabman stared, but laughed.  The heavy voice behind the wall said:
-"Now then, a better back this time, Mr. Price."  And from the shadow
+The [[cabman]] stared, but laughed.  The heavy voice behind the wall said:
+"Now then, a better back this [[Time|time]], Mr. Price."  And from the [[Shadow|shadow]]
 of the wall Turnbull crept out.  He had struggled wildly into
 his coat (leaving his waistcoat on the pavement), and he was
-with a fierce pale face climbing up the cab behind the cabman.
+with a fierce pale face climbing up the cab behind the [[cabman]].
 MacIan had no glimmering notion of what he was up to, but an instinct
 of discipline, inherited from a hundred men of war, made him stick
 to his own part and trust the other man's.
@@ -60,8 +60,8 @@ to his own part and trust the other man's.
 solemnity of a drunkard, "open the doors.  Did ye no hear me say
 St. Pancras Station?"
 
-The top of a policeman's helmet appeared above the garden wall.
-The cabman did not see it, but he was still suspicious and began:
+The top of a policeman's helmet appeared above the [[Garden|garden]] wall.
+The [[cabman]] did not see it, but he was still suspicious and began:
 
 "Very sorry, sir, but..." and with that the catlike Turnbull
 tore him out of his seat and hurled him into the street below,
@@ -71,7 +71,7 @@ where he lay suddenly stunned.
 obeyed like a bugle.  "And get inside with the swords."
 
 And just as the red and raging face of a policeman appeared above
-the wall, Turnbull struck the horse with a terrible cut of the whip
+the wall, Turnbull struck the [[Horse|horse]] with a terrible cut of the whip
 and the two went whirling away like a boomerang.
 
 They had spun through seven streets and three or four squares before
@@ -84,7 +84,7 @@ wholly common in conversations through that aperture.
 "Mr. Turnbull," replied his motionless fare.
 
 "Under circumstances such as those in which we were both recently
-placed there was no time for anything but very abrupt action.
+placed there was no [[Time|time]] for anything but very abrupt action.
 I trust therefore that you have no cause to complain of me
 if I have deferred until this moment a consultation with you
 on our present position or future action.  Our present position,
@@ -103,29 +103,29 @@ in order to speak up through the open door.
 "Mr. Turnbull," he said, "I have nothing to add to what I have
 said before.  It is strongly borne in upon me that you and I,
 the sole occupants of this runaway cab, are at this moment
-the two most important people in London, possibly in Europe.
+the two most important people in [[London]], possibly in Europe.
 I have been looking at all the streets as we went past,
 I have been looking at all the shops as we went past,
 I have been looking at all the churches as we went past.
 At first, I felt a little dazed with the vastness of it all.
 I could not understand what it all meant.  But now I know exactly what it
-all means.  It means us.  This whole civilization is only a dream.
+all means.  It means us.  This whole civilization is only [[A Dream|a dream]].
 You and I are the realities."
 
 "Religious symbolism," said Mr. Turnbull, through the trap,
 "does not, as you are probably aware, appeal ordinarily to thinkers
 of the school to which I belong.  But in symbolism as you use
-it in this instance, I must, I think, concede a certain truth.
+it in this instance, I must, I think, concede a certain [[Truth|truth]].
 We _must_ fight this thing out somewhere; because, as you truly say,
 we have found each other's reality.  We _must_ kill each other--
-or convert each other.  I used to think all Christians were hypocrites,
+or [[convert]] each other.  I used to think all Christians were hypocrites,
 and I felt quite mildly towards them really.  But I know you are sincere--
-and my soul is mad against you.  In the same way you used, I suppose,
+and my [[Soul|soul]] is mad against you.  In the same way you used, I suppose,
 to think that all atheists thought atheism would leave them free
 for immorality--and yet in your heart you tolerated them entirely.
 Now you _know_ that I am an honest man, and you are mad against me,
 as I am against you.  Yes, that's it.  You can't be angry with bad men.
-But a good man in the wrong--why one thirsts for his blood.
+But a good man in the wrong--why one thirsts for his [[Blood|blood]].
 Yes, you open for me a vista of thought."
 
 "Don't run into anything," said Evan, immovably.
@@ -138,9 +138,9 @@ Mr. Turnbull had evidently a great deal of unused practical
 talent which was unrolling itself in this ridiculous adventure.
 They had got away with such stunning promptitude that the police
 chase had in all probability not even properly begun.  But in case
-it had, the amateur cabman chose his dizzy course through London
+it had, the amateur [[cabman]] chose his dizzy course through [[London]]
 with a strange dexterity.  He did not do what would have first
-occurred to any ordinary outsider desiring to destroy his tracks.
+occurred to any ordinary [[Outsider|outsider]] desiring to destroy his tracks.
 He did not cut into by-ways or twist his way through mean streets.
 His amateur common sense told him that it was precisely the poor street,
 the side street, that would be likely to remember and report
@@ -149,11 +149,11 @@ He kept chiefly to the great roads, so full of hansoms that a
 wilder pair than they might easily have passed in the press.
 In one of the quieter streets Evan put on his boots.
 
-Towards the top of Albany Street the singular cabman again
+Towards the top of Albany Street the singular [[cabman]] again
 opened the trap.
 
 "Mr. MacIan," he said, "I understand that we have now definitely
-settled that in the conventional language honour is not satisfied.
+settled that in the conventional language [[Honour|honour]] is not satisfied.
 Our action must at least go further than it has gone under recent
 interrupted conditions.  That, I believe, is understood."
 
@@ -171,7 +171,7 @@ exchange of politeness between man and man would be not only elegant
 but uncommonly practical."
 
 "You are perfectly right," answered MacIan, with his
-melancholy voice, "in saying that all this has occurred to me.
+[[Melancholy|melancholy]] voice, "in saying that all this has occurred to me.
 All duellists should behave like gentlemen to each other.
 But we, by the queerness of our position, are something much
 more than either duellists or gentlemen.  We are, in the oddest
@@ -180,7 +180,7 @@ and most exact sense of the term, brothers--in arms."
 "Mr. MacIan," replied Turnbull, calmly, "no more need be said."
 And he closed the trap once more.
 
-They had reached Finchley Road before he opened it again.
+They had reached Finchley [[Road]] before he opened it again.
 
 Then he said, "Mr. MacIan, may I offer you a cigar.
 It will be a touch of realism."

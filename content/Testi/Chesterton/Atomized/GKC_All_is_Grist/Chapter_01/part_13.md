@@ -20,7 +20,7 @@ I WAS recently reading an article on Anthony Trollope, one of the many
 that have appeared in literary magazines since critics have discovered
 that his work can be treated as literature, when they used only to
 treat it as fiction.  He is a rather rare example of a man who has
-been taken more seriously after his death than in his presence.
+been taken more seriously after his [[Death|death]] than in his presence.
 The Victorians tended to regard Trollope as light literature,
 and Thackeray and even Dickens as more serious literature.
 The modern critics, rightly or wrongly, are disposed to treat Trollope
@@ -30,13 +30,13 @@ of the critic.  Mr. Hugh Walpole has cultivated the Trollope style
 both by precept and example; and Father Ronald Knox has made a most
 elaborate and detailed map of Barsetshire, and annotated it with stern
 queries about why Dr. Thorne took so long to get to Plumstead Episcopi,
-or what Mr. Gresham was doing on the wrong road to Framley Parsonage.
+or what Mr. Gresham was doing on the wrong [[Road|road]] to Framley Parsonage.
 These are not the right examples; for I, alas! have not the powerful
-detective and documentary brain of Father Knox.  But it is broadly
+[[Detective|detective]] and documentary brain of Father Knox.  But it is broadly
 true that Trollope has again attracted many people from many aspects.
 And yet there is one aspect of Trollope which I think has been
 entirely neglected, and which I think is of very great and vital
-importance to the history of England.
+importance to the [[history]] of England.
 
 The critic in question says of Trollope, truly enough in the main:
 `He scarcely concerned himself with the lower orders.'
@@ -44,10 +44,10 @@ We may add that the whole system of English squirearchy scarcely
 concerned itself with the lower orders; or only in the same vague
 and well meaning way as Trollope.  But when the critic adds,
 `His values were those of the middle class', he misses the point--
-the point which I think important about English history.
+the point which I think important about English [[history]].
 It is not really true, as a whole, that his characters were middle class.
 It might be said more truly that Dickens dealt largely with the middle
-class, though doubt less more largely with the lower middle class,
+class, though [[Doubt|doubt]] less more largely with the lower middle class,
 and even the lower class.  But Trollope really deals with the upper
 middle class in so far as it is attached to the upper class.
 Squire Gresham was not middle class; and I fancy that Archdeacon Grantly
@@ -57,13 +57,13 @@ I admit, have been even more indignant at the description if it
 happened to be true.  Dr. Thorne was, in the ordinary sense,
 of the professional middle class but we are never allowed to forget
 that his family was older and prouder than the De Courcys.
-Most of the Government clerks are of the more or less aristocratic
-class from which Government clerks were, and to some extent
+Most of the [[government|Government]] clerks are of the more or less aristocratic
+class from which [[government|Government]] clerks were, and to some extent
 still are, chiefly drawn.  In other words, we shall not learn
 the first historical lesson from Trollope till we realize that
 he bears witness to England as an aristocratic State; and not,
 as our friends the Communists would say, as a bourgeois State.
-But there is a further development of this historical truth,
+But there is a further development of this historical [[Truth|truth]],
 which I think rather curious.  Trollope bears witness to a big
 historical fact about our past, and does it all the more solidly
 and sincerely because he has no notion that he is doing it at all.
@@ -85,22 +85,22 @@ that he never read the newspapers, everybody laughed, as if he had
 said that he could not read the alphabet.  In fact, of course,
 he never read the newspapers because he had read the State papers.
 Why should he read all the nonsense that was served out to the public,
-when he knew all the real secrets which were kept as secrets of State?
+when he knew all the real [[Secrets|secrets]] which were kept as [[Secrets|secrets]] of State?
 
 But when we have realized that the England of Trollope was
 still an aristocratic England, there is a further distinction,
 which Trollope never notices, but always makes clear.
-His evidence is alone enough to upset Macaulay and Green and
-the whole Whig theory of our history taught in the schools.
+His evidence is [[Alone|alone]] enough to upset Macaulay and Green and
+the whole Whig theory of our [[history]] taught in the schools.
 The really interesting fact to be inferred from Trollope is this.
 Nineteenth-century England is not a country in which we have a populace
 led by a Liberal middle class on one side and a powerful Tory nobility
 led by Dukes and Earls on the other.  The division of the parties is
 totally different, and unconsciously betrays the real secret, not only
 of the nineteenth, but of the eighteenth and seventeenth centuries.
-It betrays the truth about the Glorious Revolution of 1688,
-and the nature of the new system which it really introduced.
-The Crown did not pass from James II to William III.  Like many
+It betrays the [[Truth|truth]] about the Glorious Revolution of 1688,
+and the [[Nature|nature]] of the new system which it really introduced.
+The [[Crown]] did not pass from James II to William III.  Like many
 stolen treasures, it was cut up:  it was cut up into coronets.
 
 Let anybody, reading Trollope carefully, note what the real division
@@ -109,7 +109,7 @@ who may be called middle class, if we will, who are certainly
 numerous and not very rich:  doctors, parsons, small squires,
 and yeomen and all sorts of plain and hard-working people.
 Now these people are all Tories.  They inherit the old Tory tradition
-of loyalty to a king, which belonged to purely middle-class people
+of loyalty to a [[King|king]], which belonged to purely middle-class people
 like Dr. Johnson or Dr. Goldsmith.
 
 Far above all these people, like gods on Olympus, like higher

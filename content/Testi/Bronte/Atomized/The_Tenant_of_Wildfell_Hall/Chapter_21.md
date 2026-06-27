@@ -1,5 +1,5 @@
 ---
-title: "The Tenant of Wildfell Hall — Chapter 21"
+title: "[[The Tenant of Wildfell Hall]] — Chapter 21"
 author: "Bronte"
 unitType: chapter
 parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
@@ -22,7 +22,7 @@ tags:
 
 October 1st.—All is settled now. My father has given his consent, and
 
-the time is fixed for Christmas, by a sort of compromise between the
+the [[Time|time]] is fixed for Christmas, by a sort of compromise between the
 
 respective advocates for hurry and delay. Milicent Hargrave is to be
 
@@ -42,7 +42,7 @@ said,—
 
 
 
-“Well, Helen, I suppose I ought to congratulate you—and I _am_ glad to
+“[[Well]], [[Helen]], I suppose I ought to congratulate you—and I _am_ glad to
 
 see you so happy; but I did not think you would take him; and I can’t
 
@@ -68,7 +68,7 @@ wish to get out of his way when I see him approach.”
 
 “And then his look,” continued she. “People say he’s handsome, and of
 
-course he is; but _I_ don’t _like_ that kind of beauty, and I wonder
+course he is; but _I_ don’t _like_ that kind of [[Beauty|beauty]], and I [[Wonder|wonder]]
 
 that you should.”
 
@@ -78,21 +78,21 @@ that you should.”
 
 
 
-“Well, you know, I think there’s nothing noble or lofty in his
+“[[Well]], you know, I think there’s nothing noble or lofty in his
 
 appearance.”
 
 
 
-“In fact, you wonder that I can like any one so unlike the stilted
+“In fact, you [[Wonder|wonder]] that I can like any one so unlike the stilted
 
-heroes of romance. Well, give me my flesh and blood lover, and I’ll
+heroes of [[Romance|romance]]. [[Well]], give me my flesh and [[Blood|blood]] [[Lover|lover]], and I’ll
 
 leave all the Sir Herberts and Valentines to you—if you can find them.”
 
 
 
-“I don’t want them,” said she. “I’ll be satisfied with flesh and blood
+“I don’t want them,” said she. “I’ll be satisfied with flesh and [[Blood|blood]]
 
 too—only the spirit must shine through and predominate. But don’t you
 
@@ -114,9 +114,9 @@ yellow.”
 
 
 
-“Well, tastes differ—but _I_ like pale or dark,” replied she. “But, to
+“[[Well]], tastes differ—but _I_ like pale or dark,” replied she. “But, to
 
-tell you the truth, Helen, I had been deluding myself with the hope
+tell you the [[Truth|truth]], [[Helen]], I had been deluding myself with the [[Hope|hope]]
 
 that you would one day be my sister. I expected Walter would be
 
@@ -140,7 +140,7 @@ him.”
 
 that account, I’ll forgive you; but nobody else should so disparage
 
-Arthur Huntingdon to me with impunity.”
+[[Arthur Huntingdon]] to me with impunity.”
 
 
 
@@ -148,7 +148,7 @@ Miss Wilmot expressed her feelings on the subject almost as openly.
 
 
 
-“And so, Helen,” said she, coming up to me with a smile of no amiable
+“And so, [[Helen]],” said she, coming up to me with a smile of no amiable
 
 import, “you are to be Mrs. Huntingdon, I suppose?”
 
@@ -174,13 +174,13 @@ some day, and then you know, dear, I shall be in a capacity to inquire,
 
 very like a cloud of disappointment shadowed her face. “And does he
 
-love you—I mean, does he idolise you as much as you do him?” she added,
+[[Love|love]] you—I mean, does he idolise you as much as you do him?” she added,
 
 fixing her eyes upon me with ill-disguised anxiety for the reply.
 
 
 
-“I don’t want to be idolised,” I answered; “but I am well assured that
+“I don’t want to be idolised,” I answered; “but I am [[Well|well]] assured that
 
 he _loves_ me more than anybody else in the world—as I do him.”
 
@@ -200,7 +200,7 @@ her countenance.
 
 points and desirable qualifications of the two gentlemen were united in
 
-one—that Lord Lowborough had Huntingdon’s handsome face and good
+one—that [[Lord Lowborough]] had Huntingdon’s handsome face and good
 
 temper, and all his wit, and mirth and charm, or else that Huntingdon
 
@@ -212,21 +212,21 @@ and I had him; and you might have the other and welcome.”
 
 “Thank you, dear Annabella: I am better satisfied with things as they
 
-are, for my own part; and for you, I wish you were as well content with
+are, for my own part; and for you, I wish you were as [[Well|well]] content with
 
 your intended as I am with mine,” said I; and it was true enough; for,
 
 though vexed at first at her unamiable spirit, her frankness touched
 
-me, and the contrast between our situations was such, that I could well
+me, and the contrast between our situations was such, that I could [[Well|well]]
 
-afford to pity her and wish her well.
+afford to pity her and wish her [[Well|well]].
 
 
 
 Mr. Huntingdon’s acquaintances appear to be no better pleased with our
 
-approaching union than mine. This morning’s post brought him letters
+approaching [[Union|union]] than mine. This morning’s post brought him letters
 
 from several of his friends, during the perusal of which, at the
 
@@ -236,7 +236,7 @@ singular variety of his grimaces. But he crushed them all into his
 
 pocket, with a private laugh, and said nothing till the meal was
 
-concluded. Then, while the company were hanging over the fire or
+concluded. Then, while the company were hanging over the [[Fire|fire]] or
 
 loitering through the room, previous to settling to their various
 
@@ -248,7 +248,7 @@ kiss, poured forth the following complaints into my ear:—
 
 
 
-“Helen, you witch, do you know that you’ve entailed upon me the curses
+“[[Helen]], you [[Witch|witch]], do you know that you’ve entailed upon me the curses
 
 of all my friends? I wrote to them the other day, to tell them of my
 
@@ -262,9 +262,9 @@ there’ll be no more fun now, no more merry days and glorious nights—and
 
 all my fault—I am the first to break up the jovial band, and others, in
 
-pure despair, will follow my example. I was the very life and prop of
+pure [[Despair|despair]], will follow my example. I was the very life and prop of
 
-the community, they do me the honour to say, and I have shamefully
+the community, they do me the [[Honour|honour]] to say, and I have shamefully
 
 betrayed my trust—”
 
@@ -274,17 +274,17 @@ betrayed my trust—”
 
 sorrowful tone of his discourse. “I should be sorry to stand between
 
-any man—or body of men, and so much happiness; and perhaps I can manage
+any man—or [[Body|body]] of men, and so much happiness; and perhaps I can manage
 
-to do without you, as well as your poor deserted friends.”
+to do without you, as [[Well|well]] as your poor deserted friends.”
 
 
 
-“Bless you, no,” murmured he. “It’s ‘all for love or the world well
+“Bless you, no,” murmured he. “It’s ‘all for [[Love|love]] or the world [[Well|well]]
 
 lost,’ with me. Let them go to—where they belong, to speak politely.
 
-But if you saw how they abuse me, Helen, you would love me all the more
+But if you saw how they abuse me, [[Helen]], you would [[Love|love]] me all the more
 
 for having ventured so much for your sake.”
 
@@ -296,19 +296,19 @@ to me, and told him I did not wish to see them.
 
 
 
-“I’m not going to show them to you, love,” said he. “They’re hardly fit
+“I’m not going to show them to you, [[Love|love]],” said he. “They’re hardly fit
 
 for a lady’s eyes—the most part of them. But look here. This is
 
 Grimsby’s scrawl—only three lines, the sulky dog! He doesn’t say much,
 
-to be sure, but his very silence implies more than all the others’
+to be sure, but his very [[Silence|silence]] implies more than all the others’
 
 words, and the less he says, the more he thinks—and this is Hargrave’s
 
 missive. He is particularly grieved at me, because, forsooth he had
 
-fallen in love with you from his sister’s reports, and meant to have
+fallen in [[Love|love]] with you from his sister’s reports, and meant to have
 
 married you himself, as soon as he had sown his wild oats.”
 
@@ -324,13 +324,13 @@ page stuffed full of railing accusations, bitter curses, and lamentable
 
 complaints, ending up with swearing that he’ll get married himself in
 
-revenge: he’ll throw himself away on the first old maid that chooses to
+[[Revenge|revenge]]: he’ll throw himself away on the first old maid that chooses to
 
 set her cap at him,—as if _I_ cared what he did with himself.”
 
 
 
-“Well,” said I, “if you do give up your intimacy with these men, I
+“[[Well]],” said I, “if you do give up your intimacy with these men, I
 
 don’t think you will have much cause to regret the loss of their
 
@@ -338,9 +338,9 @@ society; for it’s my belief they never did you much good.”
 
 
 
-“Maybe not; but we’d a merry time of it, too, though mingled with
+“Maybe not; but we’d a merry [[Time|time]] of it, too, though mingled with
 
-sorrow and pain, as Lowborough knows to his cost—Ha, ha!” and while he
+sorrow and [[Pain|pain]], as Lowborough knows to his cost—Ha, ha!” and while he
 
 was laughing at the recollection of Lowborough’s troubles, my uncle
 
@@ -348,7 +348,7 @@ came and slapped him on the shoulder.
 
 
 
-“Come, my lad!” said he. “Are you too busy making love to my niece to
+“Come, my lad!” said he. “Are you too busy making [[Love|love]] to my niece to
 
 make war with the pheasants?—First of October, remember! Sun shines
 
@@ -362,7 +362,7 @@ boots; and Wilmot and I are going to beat you all. I declare, we old
 
 “I’ll show you what I can do to-day, however,” said my companion. “I’ll
 
-murder your birds by wholesale, just for keeping me away from better
+murder your [[Birds|birds]] by wholesale, just for keeping me away from better
 
 company than either you or them.”
 
@@ -370,7 +370,7 @@ company than either you or them.”
 
 And so saying he departed; and I saw no more of him till dinner. It
 
-seemed a weary time; I wonder what I shall do without him.
+seemed a weary [[Time|time]]; I [[Wonder|wonder]] what I shall do without him.
 
 
 
@@ -378,7 +378,7 @@ It is very true that the three elder gentlemen have proved themselves
 
 much keener sportsmen than the two younger ones; for both Lord
 
-Lowborough and Arthur Huntingdon have of late almost daily neglected
+Lowborough and [[Arthur Huntingdon]] have of late almost daily neglected
 
 the shooting excursions to accompany us in our various rides and
 
@@ -392,6 +392,6 @@ to tease me, and my aunt has ceased to lecture me, and I have ceased to
 
 be jealous of Annabella—and even to dislike her—and now that Mr.
 
-Huntingdon is become _my_ Arthur, and I may enjoy his society without
+Huntingdon is become _my_ [[arthur|Arthur]], and I may enjoy his society without
 
 restraint. What _shall_ I do without him, I repeat?

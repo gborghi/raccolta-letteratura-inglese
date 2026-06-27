@@ -16,9 +16,9 @@ tags:
 
 stopped for tea in a large riverside town, and he had a pink evening
 
-paper sticking out of his pocket. He fell on the riverside garden
+paper sticking out of his pocket. He fell on the riverside [[Garden|garden]]
 
-like a quiet and well-behaved thunderbolt, but he was a thunderbolt
+like a quiet and [[Well|well]]-behaved thunderbolt, but he was a thunderbolt
 
 without knowing it.
 The first exchange of salutations and introductions was commonplace
@@ -32,7 +32,7 @@ again, of course, and must not be disturbed till the appointed hour,
 though he sat within a stone's throw of where they stood.
 "You see it's his only hobby," observed Harker, apologetically,
 
-"and, after all, it's his own house; and he's very hospitable in
+"and, after all, it's his own [[house]]; and he's very hospitable in
 
 other ways."
 "I'm rather afraid," said Fisher, in a lower voice, "that it's
@@ -41,15 +41,15 @@ becoming more of a mania than a hobby. I know how it is when a man
 
 of that age begins to collect things, if it's only collecting those
 
-rotten little river fish. You remember Talbot's uncle with his
+rotten little [[River|river]] fish. You remember Talbot's uncle with his
 
 toothpicks, and poor old Buzzy and the waste of cigar ashes. Hook
 
-has done a lot of big things in his time—the great deal in the
+has done a lot of big things in his [[Time|time]]—the great deal in the
 
 Swedish timber trade and the Peace Conference at Chicago—but I
 
-doubt whether he cares now for any of those big things as he cares
+[[Doubt|doubt]] whether he cares now for any of those big things as he cares
 
 for those little fish."
 "Oh, come, come," protested the Attorney-General. "You'll make Mr.
@@ -61,9 +61,9 @@ does it for fun, like any other sport, only he's of the kind that
 takes his fun sadly. But I bet if there were big news about timber
 
 or shipping, he would drop his fun and his fish all right."
-"Well, I wonder," said Horne Fisher, looking sleepily at the island
+"[[Well]], I [[Wonder|wonder]]," said Horne Fisher, looking sleepily at the island
 
-in the river.
+in the [[River|river]].
 "By the way, is there any news of anything?" asked Harker of Harold
 
 March. "I see you've got an evening paper; one of those enterprising
@@ -87,7 +87,7 @@ for a moment his leathery jaw was loosened. He looked in some odd
 fashion like a very old man. Then, hardening his voice and handing
 
 the paper to Fisher without a tremor, he simply said:
-"Well, here's a chance for the bet. You've got your big news to
+"[[Well]], here's a chance for the bet. You've got your big news to
 
 disturb the old man's fishing."
 Horne Fisher was looking at the paper, and over his more languid and
@@ -136,12 +136,12 @@ devil of it comes in, to knock us all silly. It's admirable. It's
 inestimable. It is also quite incredible."
 He gazed again at the gray and green colors of the island and the
 
-river, and his rather dreary eye traveled slowly round to the hedges
+[[River|river]], and his rather dreary eye traveled slowly round to the hedges
 
 and the lawns.
-"I felt this garden was a sort of dream," he said, "and I suppose I
+"I felt this [[Garden|garden]] was a sort of dream," he said, "and I suppose I
 
-must be dreaming. But there is grass growing and water moving; and
+must be dreaming. But there is grass growing and [[Water|water]] moving; and
 
 something impossible has happened."
 Even as he spoke the dark figure with a stoop like a vulture
@@ -149,7 +149,7 @@ Even as he spoke the dark figure with a stoop like a vulture
 appeared in the gap of the hedge just above him.
 "You have won your bet," said Harker, in a harsh and almost croaking
 
-voice. "The old fool cares for nothing but fishing. He cursed me and
+voice. "The old [[Fool|fool]] cares for nothing but fishing. He cursed me and
 
 told me he would talk no politics."
 "I thought it might be so," said Fisher, modestly. "What are you
@@ -159,16 +159,16 @@ going to do next?"
 
 "I must find out exactly what has happened. I've got to speak for
 
-the Government myself to-morrow." And he hurried away toward the
+the [[government|Government]] myself to-morrow." And he hurried away toward the
 
-house.
-In the silence that followed, a very bewildering silence so far as
+[[house]].
+In the [[Silence|silence]] that followed, a very bewildering [[Silence|silence]] so far as
 
 March was concerned, they saw the quaint figure of the Duke of
 
 Westmoreland, with his white hat and whiskers, approaching them
 
-across the garden. Fisher instantly stepped toward him with the pink
+across the [[Garden|garden]]. Fisher instantly stepped toward him with the pink
 
 paper in his hand, and, with a few words, pointed out the
 
@@ -190,7 +190,7 @@ something almost comical about the clear picture of the old
 
 gentleman in his wonderful white hat carefully stepping from stone
 
-to stone across the river, like a figure crossing the traffic in
+to stone across the [[River|river]], like a figure crossing the traffic in
 
 Piccadilly. Then he disappeared behind the trees of the island, and
 

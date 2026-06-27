@@ -14,26 +14,26 @@ tags:
 </nav>
 
 
-“When I speak of success, I speak of success with the young lady; and
-when I speak of causes and reasons to make success probable, I speak of
+“When I speak of [[success]], I speak of [[success]] with the young lady; and
+when I speak of causes and reasons to make [[success]] probable, I speak of
 causes and reasons that will tell as such with the young lady. The young
 lady, my good sir,” said Mr. Lorry, mildly tapping the Stryver arm, “the
 young lady. The young lady goes before all.”
 
 “Then you mean to tell me, Mr. Lorry,” said Stryver, squaring his
 elbows, “that it is your deliberate opinion that the young lady at
-present in question is a mincing Fool?”
+present in question is a mincing [[Fool]]?”
 
 “Not exactly so. I mean to tell you, Mr. Stryver,” said Mr. Lorry,
 reddening, “that I will hear no disrespectful word of that young lady
-from any lips; and that if I knew any man--which I hope I do not--whose
+from any lips; and that if I knew any man--which I [[Hope|hope]] I do not--whose
 taste was so coarse, and whose temper was so overbearing, that he could
 not restrain himself from speaking disrespectfully of that young lady at
 this desk, not even Tellson’s should prevent my giving him a piece of my
 mind.”
 
 The necessity of being angry in a suppressed tone had put Mr. Stryver’s
-blood-vessels into a dangerous state when it was his turn to be angry;
+[[Blood|blood]]-vessels into a dangerous state when it was his turn to be angry;
 Mr. Lorry’s veins, methodical as their courses could usually be, were in
 no better state now it was his turn.
 
@@ -42,10 +42,10 @@ be no mistake about it.”
 
 Mr. Stryver sucked the end of a ruler for a little while, and then stood
 hitting a tune out of his teeth with it, which probably gave him the
-toothache. He broke the awkward silence by saying:
+toothache. He broke the awkward [[Silence|silence]] by saying:
 
 “This is something new to me, Mr. Lorry. You deliberately advise me not
-to go up to Soho and offer myself--_my_self, Stryver of the King’s Bench
+to go up to Soho and offer myself--_my_self, Stryver of the [[King]]’s Bench
 bar?”
 
 “Do you ask me for my advice, Mr. Stryver?”
@@ -77,11 +77,11 @@ gentleman breathing.”
 
 “There! I beg your pardon!” said Stryver.
 
-“Granted. Thank you. Well, Mr. Stryver, I was about to say:--it might be
+“Granted. Thank you. [[Well]], Mr. Stryver, I was about to say:--it might be
 painful to you to find yourself mistaken, it might be painful to Doctor
 Manette to have the task of being explicit with you, it might be very
 painful to Miss Manette to have the task of being explicit with you. You
-know the terms upon which I have the honour and happiness to stand with
+know the terms upon which I have the [[Honour|honour]] and happiness to stand with
 the family. If you please, committing you in no way, representing you
 in no way, I will undertake to correct my advice by the exercise of a
 little new observation and judgment expressly brought to bear upon
@@ -97,7 +97,7 @@ evening, and come to your chambers afterwards.”
 
 “Then I say yes,” said Stryver: “I won’t go up there now, I am not so
 hot upon it as that comes to; I say yes, and I shall expect you to look
-in to-night. Good morning.”
+in to-[[Night|night]]. Good morning.”
 
 Then Mr. Stryver turned and burst out of the Bank, causing such a
 concussion of air on his passage through, that to stand up against it
@@ -110,7 +110,7 @@ the empty office until they bowed another customer in.
 The barrister was keen enough to divine that the banker would not have
 gone so far in his expression of opinion on any less solid ground than
 moral certainty. Unprepared as he was for the large pill he had to
-swallow, he got it down. “And now,” said Mr. Stryver, shaking his
+[[Swallow|swallow]], he got it down. “And now,” said Mr. Stryver, shaking his
 forensic forefinger at the Temple in general, when it was down, “my way
 out of this, is, to put you all in the wrong.”
 
@@ -118,20 +118,20 @@ It was a bit of the art of an Old Bailey tactician, in which he found
 great relief. “You shall not put me in the wrong, young lady,” said Mr.
 Stryver; “I’ll do that for you.”
 
-Accordingly, when Mr. Lorry called that night as late as ten o’clock,
+Accordingly, when Mr. Lorry called that [[Night|night]] as late as ten o’[[Clock|clock]],
 Mr. Stryver, among a quantity of books and papers littered out for the
 purpose, seemed to have nothing less on his mind than the subject of
 the morning. He even showed surprise when he saw Mr. Lorry, and was
 altogether in an absent and preoccupied state.
 
-“Well!” said that good-natured emissary, after a full half-hour of
+“[[Well]]!” said that good-natured emissary, after a full half-hour of
 bootless attempts to bring him round to the question. “I have been to
 Soho.”
 
 “To Soho?” repeated Mr. Stryver, coldly. “Oh, to be sure! What am I
 thinking of!”
 
-“And I have no doubt,” said Mr. Lorry, “that I was right in the
+“And I have no [[Doubt|doubt]],” said Mr. Lorry, “that I was right in the
 conversation we had. My opinion is confirmed, and I reiterate my
 advice.”
 
@@ -148,10 +148,10 @@ final way; “no matter, no matter.”
 “But it does matter,” Mr. Lorry urged.
 
 “No it doesn’t; I assure you it doesn’t. Having supposed that there was
-sense where there is no sense, and a laudable ambition where there is
-not a laudable ambition, I am well out of my mistake, and no harm is
+sense where there is no sense, and a laudable [[Ambition|ambition]] where there is
+not a laudable [[Ambition|ambition]], I am [[Well|well]] out of my mistake, and no harm is
 done. Young women have committed similar follies often before, and have
-repented them in poverty and obscurity often before. In an unselfish
+repented them in [[Poverty|poverty]] and obscurity often before. In an unselfish
 aspect, I am sorry that the thing is dropped, because it would have been
 a bad thing for me in a worldly point of view; in a selfish aspect, I am
 glad that the thing has dropped, because it would have been a bad thing
@@ -171,7 +171,7 @@ Mr. Lorry was so taken aback, that he looked quite stupidly at Mr.
 Stryver shouldering him towards the door, with an appearance of
 showering generosity, forbearance, and goodwill, on his erring head.
 “Make the best of it, my dear sir,” said Stryver; “say no more about it;
-thank you again for allowing me to sound you; good night!”
+thank you again for allowing me to sound you; good [[Night|night]]!”
 
-Mr. Lorry was out in the night, before he knew where he was. Mr. Stryver
+Mr. Lorry was out in the [[Night|night]], before he knew where he was. Mr. Stryver
 was lying back on his sofa, winking at his ceiling.

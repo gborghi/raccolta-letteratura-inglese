@@ -17,12 +17,12 @@ tags:
 CHAPTER 24. The Evening of a Long Day
 
 
-That illustrious man and great national ornament, Mr Merdle, continued
+That illustrious man and great national ornament, [[Mr Merdle]], continued
 his shining course. It began to be widely understood that one who had
 done society the admirable service of making so much money out of it,
 could not be suffered to remain a commoner. A baronetcy was spoken of
 with confidence; a peerage was frequently mentioned. Rumour had it
-that Mr Merdle had set his golden face against a baronetcy; that he had
+that [[Mr Merdle]] had set his golden face against a baronetcy; that he had
 plainly intimated to Lord Decimus that a baronetcy was not enough
 for him; that he had said, ‘No--a Peerage, or plain Merdle.’ This was
 reported to have plunged Lord Decimus as nigh to his noble chin in a
@@ -37,21 +37,21 @@ into collision with that of the master spirit. Right or wrong, Rumour
 was very busy; and Lord Decimus, while he was, or was supposed to be, in
 stately excogitation of the difficulty, lent her some countenance by
 taking, on several public occasions, one of those elephantine trots of
-his through a jungle of overgrown sentences, waving Mr Merdle about on
+his through a jungle of overgrown sentences, waving [[Mr Merdle]] about on
 his trunk as Gigantic Enterprise, The Wealth of England, Elasticity,
 Credit, Capital, Prosperity, and all manner of blessings.
 
 So quietly did the mowing of the old scythe go on, that fully three
 months had passed unnoticed since the two English brothers had been laid
 in one tomb in the strangers’ cemetery at Rome. Mr and Mrs Sparkler were
-established in their own house: a little mansion, rather of the Tite
+established in their own [[house]]: a little mansion, rather of the Tite
 Barnacle class, quite a triumph of inconvenience, with a perpetual smell
 in it of the day before yesterday’s soup and coach-horses, but extremely
 dear, as being exactly in the centre of the habitable globe. In this
 enviable abode (and envied it really was by many people), Mrs Sparkler
 had intended to proceed at once to the demolition of the Bosom, when
 active hostilities had been suspended by the arrival of the Courier with
-his tidings of death. Mrs Sparkler, who was not unfeeling, had received
+his tidings of [[Death|death]]. Mrs Sparkler, who was not unfeeling, had received
 them with a violent burst of grief, which had lasted twelve hours;
 after which, she had arisen to see about her mourning, and to take every
 precaution that could ensure its being as becoming as Mrs Merdle’s. A
@@ -59,23 +59,23 @@ gloom was then cast over more than one distinguished family (according
 to the politest sources of intelligence), and the Courier went back
 again.
 
-Mr and Mrs Sparkler had been dining alone, with their gloom cast over
+Mr and Mrs Sparkler had been dining [[Alone|alone]], with their gloom cast over
 them, and Mrs Sparkler reclined on a drawing-room sofa. It was a hot
-summer Sunday evening. The residence in the centre of the habitable
+[[Summer|summer]] [[Sunday]] evening. The residence in the centre of the habitable
 globe, at all times stuffed and close as if it had an incurable cold in
-its head, was that evening particularly stifling. The bells of the
+its head, was that evening particularly stifling. [[The Bells|The bells]] of the
 churches had done their worst in the way of clanging among the
 unmelodious echoes of the streets, and the lighted windows of the
 churches had ceased to be yellow in the grey dusk, and had died out
 opaque black. Mrs Sparkler, lying on her sofa, looking through an open
-window at the opposite side of a narrow street over boxes of mignonette
-and flowers, was tired of the view. Mrs Sparkler, looking at another
-window where her husband stood in the balcony, was tired of that view.
+[[Window|window]] at the opposite side of a narrow street over boxes of mignonette
+and [[Flowers|flowers]], was tired of the view. Mrs Sparkler, looking at another
+[[Window|window]] where her husband stood in the balcony, was tired of that view.
 Mrs Sparkler, looking at herself in her mourning, was even tired of that
 view: though, naturally, not so tired of that as of the other two.
 
-‘It’s like lying in a well,’ said Mrs Sparkler, changing her position
-fretfully. ‘Dear me, Edmund, if you have anything to say, why don’t you
+‘It’s like lying in a [[Well|well]],’ said Mrs Sparkler, changing her position
+fretfully. ‘Dear me, [[Edmund]], if you have anything to say, why don’t you
 say it?’
 
 Mr Sparkler might have replied with ingenuousness, ‘My life, I have
@@ -83,15 +83,15 @@ nothing to say.’ But, as the repartee did not occur to him, he contented
 himself with coming in from the balcony and standing at the side of his
 wife’s couch.
 
-‘Good gracious, Edmund!’ said Mrs Sparkler more fretfully still, ‘you are
+‘Good gracious, [[Edmund]]!’ said Mrs Sparkler more fretfully still, ‘you are
 absolutely putting mignonette up your nose! Pray don’t!’
 
 Mr Sparkler, in absence of mind--perhaps in a more literal absence of
 mind than is usually understood by the phrase--had smelt so hard at a
 sprig in his hand as to be on the verge of the offence in question. He
-smiled, said, ‘I ask your pardon, my dear,’ and threw it out of window.
+smiled, said, ‘I ask your pardon, my dear,’ and threw it out of [[Window|window]].
 
-‘You make my head ache by remaining in that position, Edmund,’ said Mrs
+‘You make my head ache by remaining in that position, [[Edmund]],’ said Mrs
 Sparkler, raising her eyes to him after another minute; ‘you look so
 aggravatingly large by this light. Do sit down.’
 
@@ -102,10 +102,10 @@ spot.
 a dreary manner, ‘I should have felt certain this was the longest day. I
 never did experience such a day.’
 
-‘Is that your fan, my love?’ asked Mr Sparkler, picking up one and
+‘Is that your fan, my [[Love|love]]?’ asked Mr Sparkler, picking up one and
 presenting it.
 
-‘Edmund,’ returned his wife, more wearily yet, ‘don’t ask weak
+‘[[Edmund]],’ returned his wife, more wearily yet, ‘don’t ask weak
 questions, I entreat you not. Whose can it be but mine?’
 
 ‘Yes, I thought it was yours,’ said Mr Sparkler.
@@ -127,7 +127,7 @@ And she is, as I believe you are aware, a remarkably fine woman, with no
 non--’
 
 ‘Good Gracious!’ exclaimed Fanny, starting up again. ‘It’s beyond all
-patience! This is the most wearisome day that ever did dawn upon the
+patience! This is the most wearisome day that ever did [[Dawn|dawn]] upon the
 world, I am certain.’
 
 Mr Sparkler looked meekly after her as she lounged about the room, and
@@ -136,7 +136,7 @@ about, and had looked down into the darkening street out of all the
 three windows, she returned to her sofa, and threw herself among its
 pillows.
 
-‘Now Edmund, come here! Come a little nearer, because I want to be able
+‘Now [[Edmund]], come here! Come a little nearer, because I want to be able
 to touch you with my fan, that I may impress you very much with what I
 am going to say. That will do. Quite close enough. Oh, you _do_ look so
 big!’
@@ -152,11 +152,11 @@ Flestrin, Junior, or the Young Man Mountain.
 It would interest you, or I would have made a point of telling you.’
 
 ‘There! For goodness sake, don’t talk,’ said Fanny; ‘I want to talk,
-myself. Edmund, we must not be alone any more. I must take such
+myself. [[Edmund]], we must not be [[Alone|alone]] any more. I must take such
 precautions as will prevent my being ever again reduced to the state of
 dreadful depression in which I am this evening.’
 
-‘My dear,’ answered Mr Sparkler; ‘being as you are well known to be, a
+‘My dear,’ answered Mr Sparkler; ‘being as you are [[Well|well]] known to be, a
 remarkably fine woman with no--’
 
 ‘Oh, good GRACIOUS!’ cried Fanny.
@@ -171,26 +171,26 @@ society.’
 
 ‘Calculated to shine in society,’ retorted Fanny with great
 irritability; ‘yes, indeed! And then what happens? I no sooner recover,
-in a visiting point of view, the shock of poor dear papa’s death, and my
+in a visiting point of view, the shock of poor dear papa’s [[Death|death]], and my
 poor uncle’s--though I do not disguise from myself that the last was
 a happy release, for, if you are not presentable you had much better
 die--’
 
-‘You are not referring to me, my love, I hope?’ Mr Sparkler humbly
+‘You are not referring to me, my [[Love|love]], I [[Hope|hope]]?’ Mr Sparkler humbly
 interrupted.
 
-‘Edmund, Edmund, you would wear out a Saint. Am I not expressly speaking
+‘[[Edmund]], [[Edmund]], you would wear out a Saint. Am I not expressly speaking
 of my poor uncle?’
 
 ‘You looked with so much expression at myself, my dear girl,’ said Mr
-Sparkler, ‘that I felt a little uncomfortable. Thank you, my love.’
+Sparkler, ‘that I felt a little uncomfortable. Thank you, my [[Love|love]].’
 
 ‘Now you have put me out,’ observed Fanny with a resigned toss of her
 fan, ‘and I had better go to bed.’
 
-‘Don’t do that, my love,’ urged Mr Sparkler. ‘Take time.’
+‘Don’t do that, my [[Love|love]],’ urged Mr Sparkler. ‘Take [[Time|time]].’
 
-Fanny took a good deal of time: lying back with her eyes shut, and her
+Fanny took a good deal of [[Time|time]]: lying back with her eyes shut, and her
 eyebrows raised with a hopeless expression as if she had utterly given
 up all terrestrial affairs. At length, without the slightest notice, she
 opened her eyes again, and recommenced in a short, sharp manner:
@@ -202,19 +202,19 @@ which to a certain extent disqualifies me for going into society. It’s
 too bad, really!’
 
 ‘My dear,’ said Mr Sparkler. ‘I don’t think it need keep you at
-home.’
+[[Home|home]].’
 
-‘Edmund, you ridiculous creature,’ returned Fanny, with great
+‘[[Edmund]], you ridiculous creature,’ returned Fanny, with great
 indignation; ‘do you suppose that a woman in the bloom of youth and not
 wholly devoid of personal attractions, can put herself, at such a
-time, in competition as to figure with a woman in every other way her
+[[Time|time]], in competition as to figure with a woman in every other way her
 inferior? If you do suppose such a thing, your folly is boundless.’
 
 Mr Sparkler submitted that he had thought ‘it might be got over.’
 
 ‘Got over!’ repeated Fanny, with immeasurable scorn.
 
-‘For a time,’ Mr Sparkler submitted.
+‘For a [[Time|time]],’ Mr Sparkler submitted.
 
 Honouring the last feeble suggestion with no notice, Mrs Sparkler
 declared with bitterness that it really was too bad, and that positively
@@ -226,18 +226,18 @@ I suppose it must be submitted to.’
 
 ‘Especially as it was to be expected,’ said Mr Sparkler.
 
-‘Edmund,’ returned his wife, ‘if you have nothing more becoming to do
+‘[[Edmund]],’ returned his wife, ‘if you have nothing more becoming to do
 than to attempt to insult the woman who has honoured you with her hand,
 when she finds herself in adversity, I think _you_ had better go to bed!’
 
 Mr Sparkler was much afflicted by the charge, and offered a most
 tender and earnest apology. His apology was accepted; but Mrs Sparkler
 requested him to go round to the other side of the sofa and sit in the
-window-curtain, to tone himself down.
+[[Window|window]]-curtain, to tone himself down.
 
-‘Now, Edmund,’ she said, stretching out her fan, and touching him with
+‘Now, [[Edmund]],’ she said, stretching out her fan, and touching him with
 it at arm’s length, ‘what I was going to say to you when you began as
-usual to prose and worry, is, that I shall guard against our being alone
+usual to prose and worry, is, that I shall guard against our being [[Alone|alone]]
 any more, and that when circumstances prevent my going out to my own
 satisfaction, I must arrange to have some people or other always here;
 for I really cannot, and will not, have another such day as this has
@@ -248,36 +248,36 @@ nonsense about it. He added, ‘And besides, you know it’s likely that
 you’ll soon have your sister--’
 
 ‘Dearest Amy, yes!’ cried Mrs Sparkler with a sigh of affection.
-‘Darling little thing! Not, however, that Amy would do here alone.’
+‘Darling little thing! Not, however, that Amy would do here [[Alone|alone]].’
 
 Mr Sparkler was going to say ‘No?’ interrogatively, but he saw his
 danger and said it assentingly, ‘No, Oh dear no; she wouldn’t do here
-alone.’
+[[Alone|alone]].’
 
-‘No, Edmund. For not only are the virtues of the precious child of that
+‘No, [[Edmund]]. For not only are the virtues of the precious [[Child|child]] of that
 still character that they require a contrast--require life and movement
-around them to bring them out in their right colours and make one love
+around them to bring them out in their right colours and make one [[Love|love]]
 them of all things; but she will require to be roused, on more accounts
 than one.’
 
 ‘That’s it,’ said Mr Sparkler. ‘Roused.’
 
-‘Pray don’t, Edmund! Your habit of interrupting without having the least
+‘Pray don’t, [[Edmund]]! Your habit of interrupting without having the least
 thing in the world to say, distracts one. You must be broken of it.
 Speaking of Amy;--my poor little pet was devotedly attached to poor
-papa, and no doubt will have lamented his loss exceedingly, and grieved
+papa, and no [[Doubt|doubt]] will have lamented his loss exceedingly, and grieved
 very much. I have done so myself. I have felt it dreadfully. But Amy
-will no doubt have felt it even more, from having been on the spot the
-whole time, and having been with poor dear papa at the last; which I
+will no [[Doubt|doubt]] have felt it even more, from having been on the spot the
+whole [[Time|time]], and having been with poor dear papa at the last; which I
 unhappily was not.’
 
 Here Fanny stopped to weep, and to say, ‘Dear, dear, beloved papa! How
 truly gentlemanly he was! What a contrast to poor uncle!’
 
-‘From the effects of that trying time,’ she pursued, ‘my good little
+‘From the effects of that trying [[Time|time]],’ she pursued, ‘my good little
 Mouse will have to be roused. Also, from the effects of this long
 attendance upon Edward in his illness; an attendance which is not
-yet over, which may even go on for some time longer, and which in the
+yet over, which may even go on for some [[Time|time]] longer, and which in the
 meanwhile unsettles us all by keeping poor dear papa’s affairs from
 being wound up. Fortunately, however, the papers with his agents
 here being all sealed up and locked up, as he left them when he
@@ -286,25 +286,25 @@ that they can wait until my brother Edward recovers his health in
 Sicily, sufficiently to come over, and administer, or execute, or
 whatever it may be that will have to be done.’
 
-‘He couldn’t have a better nurse to bring him round,’ Mr Sparkler made
+‘He couldn’t have a better [[Nurse|nurse]] to bring him round,’ Mr Sparkler made
 bold to opine.
 
-‘For a wonder, I can agree with you,’ returned his wife, languidly
+‘For a [[Wonder|wonder]], I can agree with you,’ returned his wife, languidly
 turning her eyelids a little in his direction (she held forth, in
 general, as if to the drawing-room furniture), ‘and can adopt your
-words. He couldn’t have a better nurse to bring him round. There are
-times when my dear child is a little wearing to an active mind; but, as
-a nurse, she is Perfection. Best of Amys!’
+words. He couldn’t have a better [[Nurse|nurse]] to bring him round. There are
+times when my dear [[Child|child]] is a little wearing to an active mind; but, as
+a [[Nurse|nurse]], she is Perfection. Best of Amys!’
 
-Mr Sparkler, growing rash on his late success, observed that Edward had
+Mr Sparkler, growing rash on his late [[success]], observed that Edward had
 had, biggodd, a long bout of it, my dear girl.
 
-‘If Bout, Edmund,’ returned Mrs Sparkler, ‘is the slang term for
+‘If Bout, [[Edmund]],’ returned Mrs Sparkler, ‘is the slang term for
 indisposition, he has. If it is not, I am unable to give an opinion
 on the barbarous language you address to Edward’s sister. That he
-contracted Malaria Fever somewhere, either by travelling day and night
+contracted Malaria Fever somewhere, either by travelling day and [[Night|night]]
 to Rome, where, after all, he arrived too late to see poor dear papa
-before his death--or under some other unwholesome circumstances--is
+before his [[Death|death]]--or under some other unwholesome circumstances--is
 indubitable, if that is what you mean. Likewise that his extremely
 careless life has made him a very bad subject for it indeed.’
 
@@ -316,12 +316,12 @@ or of Yellow Jack.
 ‘So, Amy,’ she pursued, when she reopened her eyelids, ‘will require
 to be roused from the effects of many tedious and anxious weeks. And
 lastly, she will require to be roused from a low tendency which I know
-very well to be at the bottom of her heart. Don’t ask me what it is,
-Edmund, because I must decline to tell you.’
+very [[Well|well]] to be at the [[Bottom|bottom]] of her heart. Don’t ask me what it is,
+[[Edmund]], because I must decline to tell you.’
 
 ‘I am not going to, my dear,’ said Mr Sparkler.
 
-‘I shall thus have much improvement to effect in my sweet child,’ Mrs
+‘I shall thus have much improvement to effect in my sweet [[Child|child]],’ Mrs
 Sparkler continued, ‘and cannot have her near me too soon. Amiable and
 dear little Twoshoes! As to the settlement of poor papa’s affairs, my
 interest in that is not very selfish. Papa behaved very generously to me
@@ -334,13 +334,13 @@ soon stimulated her to dry her eyes and say:
 
 ‘It is a highly encouraging circumstance in Edward’s illness, I am
 thankful to think, and gives one the greatest confidence in his sense
-not being impaired, or his proper spirit weakened--down to the time
-of poor dear papa’s death at all events--that he paid off Mrs General
-instantly, and sent her out of the house. I applaud him for it. I could
+not being impaired, or his proper spirit weakened--down to the [[Time|time]]
+of poor dear papa’s [[Death|death]] at all events--that he paid off Mrs General
+instantly, and sent her out of the [[house]]. I applaud him for it. I could
 forgive him a great deal for doing, with such promptitude, so exactly
 what I would have done myself!’
 
-Mrs Sparkler was in the full glow of her gratification, when a double
+Mrs Sparkler was in the full glow of her gratification, when a [[Double|double]]
 knock was heard at the door. A very odd knock. Low, as if to avoid
 making a noise and attracting attention. Long, as if the person knocking
 were preoccupied in mind, and forgot to leave off.
@@ -365,84 +365,84 @@ afterwards.
 
 ‘Candles!’ said Mrs Sparkler, with a word of excuse for the darkness.
 
-‘It’s light enough for me,’ said Mr Merdle.
+‘It’s light enough for me,’ said [[Mr Merdle]].
 
-When the candles were brought in, Mr Merdle was discovered standing
+When the candles were brought in, [[Mr Merdle]] was discovered standing
 behind the door, picking his lips. ‘I thought I’d give you a call,’ he
 said. ‘I am rather particularly occupied just now; and, as I happened to
 be out for a stroll, I thought I’d give you a call.’
 
 As he was in dinner dress, Fanny asked him where he had been dining?
 
-‘Well,’ said Mr Merdle, ‘I haven’t been dining anywhere, particularly.’
+‘[[Well]],’ said [[Mr Merdle]], ‘I haven’t been dining anywhere, particularly.’
 
 ‘Of course you have dined?’ said Fanny.
 
-‘Why--no, I haven’t exactly dined,’ said Mr Merdle.
+‘Why--no, I haven’t exactly dined,’ said [[Mr Merdle]].
 
 He had passed his hand over his yellow forehead and considered, as if he
 were not sure about it. Something to eat was proposed. ‘No, thank you,’
-said Mr Merdle, ‘I don’t feel inclined for it. I was to have dined out
+said [[Mr Merdle]], ‘I don’t feel inclined for it. I was to have dined out
 along with Mrs Merdle. But as I didn’t feel inclined for dinner, I let
 Mrs Merdle go by herself just as we were getting into the carriage, and
 thought I’d take a stroll instead.’
 
-Would he have tea or coffee? ‘No, thank you,’ said Mr Merdle. ‘I looked
+Would he have tea or coffee? ‘No, thank you,’ said [[Mr Merdle]]. ‘I looked
 in at the Club, and got a bottle of wine.’
 
-At this period of his visit, Mr Merdle took the chair which Edmund
+At this period of his visit, [[Mr Merdle]] took the chair which [[Edmund]]
 Sparkler had offered him, and which he had hitherto been pushing slowly
 about before him, like a dull man with a pair of skates on for the first
-time, who could not make up his mind to start. He now put his hat upon
+[[Time|time]], who could not make up his mind to start. He now put his hat upon
 another chair beside him, and, looking down into it as if it were some
 twenty feet deep, said again: ‘You see I thought I’d give you a call.’
 
 ‘Flattering to us,’ said Fanny, ‘for you are not a calling man.’
 
-‘No--no,’ returned Mr Merdle, who was by this time taking himself into
+‘No--no,’ returned [[Mr Merdle]], who was by this [[Time|time]] taking himself into
 custody under both coat-sleeves. ‘No, I am not a calling man.’
 
 ‘You have too much to do for that,’ said Fanny. ‘Having so much to do,
-Mr Merdle, loss of appetite is a serious thing with you, and you must
+[[Mr Merdle]], loss of appetite is a serious thing with you, and you must
 have it seen to. You must not be ill.’
 
-‘Oh! I am very well,’ replied Mr Merdle, after deliberating about it. ‘I
-am as well as I usually am. I am well enough. I am as well as I want to
+‘Oh! I am very [[Well|well]],’ replied [[Mr Merdle]], after deliberating about it. ‘I
+am as [[Well|well]] as I usually am. I am [[Well|well]] enough. I am as [[Well|well]] as I want to
 be.’
 
 The master-mind of the age, true to its characteristic of being at all
 times a mind that had as little as possible to say for itself and great
-difficulty in saying it, became mute again. Mrs Sparkler began to wonder
+difficulty in saying it, became mute again. Mrs Sparkler began to [[Wonder|wonder]]
 how long the master-mind meant to stay.
 
 ‘I was speaking of poor papa when you came in, sir.’
 
-‘Aye! Quite a coincidence,’ said Mr Merdle.
+‘Aye! Quite a coincidence,’ said [[Mr Merdle]].
 
 Fanny did not see that; but felt it incumbent on her to continue
 talking. ‘I was saying,’ she pursued, ‘that my brother’s illness has
 occasioned a delay in examining and arranging papa’s property.’
 
-‘Yes,’ said Mr Merdle; ‘yes. There has been a delay.’
+‘Yes,’ said [[Mr Merdle]]; ‘yes. There has been a delay.’
 
 ‘Not that it is of consequence,’ said Fanny.
 
-‘Not,’ assented Mr Merdle, after having examined the cornice of all
+‘Not,’ assented [[Mr Merdle]], after having examined the cornice of all
 that part of the room which was within his range: ‘not that it is of any
 consequence.’
 
 ‘My only anxiety is,’ said Fanny, ‘that Mrs General should not get
 anything.’
 
-‘_She_ won’t get anything,’ said Mr Merdle.
+‘_She_ won’t get anything,’ said [[Mr Merdle]].
 
-Fanny was delighted to hear him express the opinion. Mr Merdle, after
+Fanny was delighted to hear him express the opinion. [[Mr Merdle]], after
 taking another gaze into the depths of his hat as if he thought he saw
-something at the bottom, rubbed his hair and slowly appended to his last
+something at the [[Bottom|bottom]], rubbed his hair and slowly appended to his last
 remark the confirmatory words, ‘Oh dear no. No. Not she. Not likely.’
 
-As the topic seemed exhausted, and Mr Merdle too, Fanny inquired if he
-were going to take up Mrs Merdle and the carriage in his way home?
+As the topic seemed exhausted, and [[Mr Merdle]] too, Fanny inquired if he
+were going to take up Mrs Merdle and the carriage in his way [[Home|home]]?
 
 ‘No,’ he answered; ‘I shall go by the shortest way, and leave Mrs Merdle
 to--’ here he looked all over the palms of both his hands as if he were
@@ -451,44 +451,44 @@ manage to do it.’
 
 ‘Probably,’ said Fanny.
 
-There was then a long silence; during which, Mrs Sparkler, lying back
+There was then a long [[Silence|silence]]; during which, Mrs Sparkler, lying back
 on her sofa again, shut her eyes and raised her eyebrows in her former
 retirement from mundane affairs.
 
-‘But, however,’ said Mr Merdle, ‘I am equally detaining you and myself.
+‘But, however,’ said [[Mr Merdle]], ‘I am equally detaining you and myself.
 I thought I’d give you a call, you know.’
 
 ‘Charmed, I am sure,’ said Fanny.
 
-‘So I am off,’ added Mr Merdle, getting up. ‘Could you lend me a
+‘So I am off,’ added [[Mr Merdle]], getting up. ‘Could you lend me a
 penknife?’
 
 It was an odd thing, Fanny smilingly observed, for her who could seldom
 prevail upon herself even to write a letter, to lend to a man of such
-vast business as Mr Merdle. ‘Isn’t it?’ Mr Merdle acquiesced; ‘but
+vast business as [[Mr Merdle]]. ‘Isn’t it?’ [[Mr Merdle]] acquiesced; ‘but
 I want one; and I know you have got several little wedding keepsakes
 about, with scissors and tweezers and such things in them. You shall
 have it back to-morrow.’
 
-‘Edmund,’ said Mrs Sparkler, ‘open (now, very carefully, I beg and
+‘[[Edmund]],’ said Mrs Sparkler, ‘open (now, very carefully, I beg and
 beseech, for you are so very awkward) the mother of pearl box on my
-little table there, and give Mr Merdle the mother of pearl penknife.’
+little table there, and give [[Mr Merdle]] the mother of pearl penknife.’
 
-‘Thank you,’ said Mr Merdle; ‘but if you have got one with a darker
+‘Thank you,’ said [[Mr Merdle]]; ‘but if you have got one with a darker
 handle, I think I should prefer one with a darker handle.’
 
 ‘Tortoise-shell?’
 
-‘Thank you,’ said Mr Merdle; ‘yes. I think I should prefer
+‘Thank you,’ said [[Mr Merdle]]; ‘yes. I think I should prefer
 tortoise-shell.’
 
-Edmund accordingly received instructions to open the tortoise-shell box,
-and give Mr Merdle the tortoise-shell knife. On his doing so, his wife
+[[Edmund]] accordingly received instructions to open the tortoise-shell box,
+and give [[Mr Merdle]] the tortoise-shell knife. On his doing so, his wife
 said to the master-spirit graciously:
 
 ‘I will forgive you, if you ink it.’
 
-‘I’ll undertake not to ink it,’ said Mr Merdle.
+‘I’ll undertake not to ink it,’ said [[Mr Merdle]].
 
 The illustrious visitor then put out his coat-cuff, and for a moment
 entombed Mrs Sparkler’s hand: wrist, bracelet, and all. Where his own
@@ -501,5 +501,5 @@ longest day that ever did come to an end at last, and that there never
 was a woman, not wholly devoid of personal attractions, so worn out by
 idiotic and lumpish people, Fanny passed into the balcony for a breath
 of air. Waters of vexation filled her eyes; and they had the effect of
-making the famous Mr Merdle, in going down the street, appear to leap,
+making the famous [[Mr Merdle]], in going down the street, appear to leap,
 and waltz, and gyrate, as if he were possessed of several Devils.

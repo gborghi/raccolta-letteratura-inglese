@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 24"
+title: "[[Northanger Abbey]] — Chapter 24"
 author: "Austen"
 unitType: chapter
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -22,23 +22,23 @@ CHAPTER 24
 
 The next day afforded no opportunity for the proposed examination of
 
-the mysterious apartments. It was Sunday, and the whole time between
+the mysterious apartments. It was [[Sunday]], and the whole [[Time|time]] between
 
 morning and afternoon service was required by the General in exercise
 
-abroad or eating cold meat at home; and great as was Catherine’s
+abroad or eating cold meat at [[Home|home]]; and great as was Catherine’s
 
-curiosity, her courage was not equal to a wish of exploring them after
+curiosity, her [[Courage|courage]] was not equal to a wish of exploring them after
 
 dinner, either by the fading light of the sky between six and seven
 
-o’clock, or by the yet more partial though stronger illumination of a
+o’[[Clock|clock]], or by the yet more partial though stronger illumination of a
 
 treacherous lamp. The day was unmarked therefore by anything to
 
-interest her imagination beyond the sight of a very elegant monument to
+interest her [[Imagination|imagination]] beyond the sight of a very elegant monument to
 
-the memory of Mrs. Tilney, which immediately fronted the family pew. By
+the [[Memory|memory]] of Mrs. Tilney, which immediately fronted the family pew. By
 
 that her eye was instantly caught and long retained; and the perusal of
 
@@ -46,7 +46,7 @@ the highly strained epitaph, in which every virtue was ascribed to her
 
 by the inconsolable husband, who must have been in some way or other
 
-her destroyer, affected her even to tears.
+her destroyer, affected her even to [[Tears|tears]].
 
 
 
@@ -60,13 +60,13 @@ fearlessly around, nay, that he should even enter the church, seemed
 
 wonderful to Catherine. Not, however, that many instances of beings
 
-equally hardened in guilt might not be produced. She could remember
+equally hardened in [[Guilt|guilt]] might not be produced. She could remember
 
 dozens who had persevered in every possible vice, going on from crime
 
 to crime, murdering whomsoever they chose, without any feeling of
 
-humanity or remorse; till a violent death or a religious retirement
+humanity or remorse; till a violent [[Death|death]] or a religious retirement
 
 closed their black career. The erection of the monument itself could
 
@@ -90,9 +90,9 @@ The succeeding morning promised something better. The General’s early
 
 walk, ill-timed as it was in every other view, was favourable here; and
 
-when she knew him to be out of the house, she directly proposed to Miss
+when she knew him to be out of the [[house]], she directly proposed to Miss
 
-Tilney the accomplishment of her promise. Eleanor was ready to oblige
+Tilney the accomplishment of her promise. [[Eleanor]] was ready to oblige
 
 her; and Catherine reminding her as they went of another promise, their
 
@@ -106,11 +106,11 @@ not in every respect answered, for Catherine had depended upon meeting
 
 with features, hair, complexion, that should be the very counterpart,
 
-the very image, if not of Henry’s, of Eleanor’s—the only portraits of
+the very image, if not of Henry’s, of [[Eleanor]]’s—the only portraits of
 
 which she had been in the habit of thinking, bearing always an equal
 
-resemblance of mother and child. A face once taken was taken for
+resemblance of mother and [[Child|child]]. A face once taken was taken for
 
 generations. But here she was obliged to look and consider and study
 
@@ -124,7 +124,7 @@ would have left it unwillingly.
 
 Her agitation as they entered the great gallery was too much for any
 
-endeavour at discourse; she could only look at her companion. Eleanor’s
+endeavour at discourse; she could only look at her companion. [[Eleanor]]’s
 
 countenance was dejected, yet sedate; and its composure spoke her
 
@@ -138,7 +138,7 @@ close the former with fearful caution, when the figure, the dreaded
 
 figure of the General himself at the further end of the gallery, stood
 
-before her! the name of “Eleanor” at the same moment, in his loudest
+before her! the name of “[[Eleanor]]” at the same moment, in his loudest
 
 tone, resounded through the building, giving to his daughter the first
 
@@ -146,7 +146,7 @@ intimation of his presence, and to Catherine terror upon terror. An
 
 attempt at concealment had been her first instinctive movement on
 
-perceiving him, yet she could scarcely hope to have escaped his eye;
+perceiving him, yet she could scarcely [[Hope|hope]] to have escaped his eye;
 
 and when her friend, who with an apologizing look darted hastily by
 
@@ -154,7 +154,7 @@ her, had joined and disappeared with him, she ran for safety to her own
 
 room, and, locking herself in, believed that she should never have
 
-courage to go down again. She remained there at least an hour, in the
+[[Courage|courage]] to go down again. She remained there at least an hour, in the
 
 greatest agitation, deeply commiserating the state of her poor friend,
 
@@ -168,15 +168,15 @@ meet him under the protection of visitors. The breakfast-room was gay
 
 with company; and she was named to them by the General as the friend of
 
-his daughter, in a complimentary style, which so well concealed his
+his daughter, in a complimentary style, which so [[Well|well]] concealed his
 
 resentful ire, as to make her feel secure at least of life for the
 
-present. And Eleanor, with a command of countenance which did honour to
+present. And [[Eleanor]], with a command of countenance which did [[Honour|honour]] to
 
 her concern for his character, taking an early occasion of saying to
 
-her, “My father only wanted me to answer a note,” she began to hope
+her, “My father only wanted me to answer a note,” she began to [[Hope|hope]]
 
 that she had either been unseen by the General, or that from some
 
@@ -190,11 +190,11 @@ company left them, and nothing occurred to disturb it.
 
 In the course of this morning’s reflections, she came to a resolution
 
-of making her next attempt on the forbidden door alone. It would be
+of making her next attempt on the forbidden door [[Alone|alone]]. It would be
 
-much better in every respect that Eleanor should know nothing of the
+much better in every respect that [[Eleanor]] should know nothing of the
 
-matter. To involve her in the danger of a second detection, to court
+matter. To involve her in the danger of a second detection, to [[Court|court]]
 
 her into an apartment which must wring her heart, could not be the
 
@@ -204,7 +204,7 @@ what it might be to a daughter; and, besides, she thought the
 
 examination itself would be more satisfactory if made without any
 
-companion. It would be impossible to explain to Eleanor the suspicions,
+companion. It would be impossible to explain to [[Eleanor]] the suspicions,
 
 from which the other had, in all likelihood, been hitherto happily
 
@@ -220,17 +220,17 @@ the way to the apartment she was now perfectly mistress; and as she
 
 wished to get it over before Henry’s return, who was expected on the
 
-morrow, there was no time to be lost. The day was bright, her courage
+morrow, there was no [[Time|time]] to be lost. The day was bright, her [[Courage|courage]]
 
-high; at four o’clock, the sun was now two hours above the horizon, and
+high; at four o’[[Clock|clock]], the sun was now two hours above the horizon, and
 
 it would be only her retiring to dress half an hour earlier than usual.
 
 
 
-It was done; and Catherine found herself alone in the gallery before
+It was done; and Catherine found herself [[Alone|alone]] in the gallery before
 
-the clocks had ceased to strike. It was no time for thought; she
+the clocks had ceased to strike. It was no [[Time|time]] for thought; she
 
 hurried on, slipped with the least possible noise through the folding
 
@@ -244,7 +244,7 @@ room was before her; but it was some minutes before she could advance
 
 another step. She beheld what fixed her to the spot and agitated every
 
-feature. She saw a large, well-proportioned apartment, an handsome
+feature. She saw a large, [[Well|well]]-proportioned apartment, an handsome
 
 dimity bed, arranged as unoccupied with an housemaid’s care, a bright
 
@@ -254,7 +254,7 @@ warm beams of a western sun gaily poured through two sash windows!
 
 Catherine had expected to have her feelings worked, and worked they
 
-were. Astonishment and doubt first seized them; and a shortly
+were. Astonishment and [[Doubt|doubt]] first seized them; and a shortly
 
 succeeding ray of common sense added some bitter emotions of shame. She
 
@@ -326,7 +326,7 @@ her lips did not afford. She moved on towards the gallery. “And may I
 
 not, in my turn,” said he, as he pushed back the folding doors, “ask
 
-how _you_ came here? This passage is at least as extraordinary a road
+how _you_ came here? This passage is at least as extraordinary a [[Road|road]]
 
 from the breakfast-parlour to your apartment, as that staircase can be
 
@@ -366,9 +366,9 @@ from the offices in common use?”
 
 
 
-“Very; and does Eleanor leave you to find your way into all the rooms
+“Very; and does [[Eleanor]] leave you to find your way into all the rooms
 
-in the house by yourself?”
+in the [[house]] by yourself?”
 
 
 
@@ -402,13 +402,13 @@ She could not contradict it, and therefore suffered herself to be
 
 detained, though her dread of further questions made her, for the first
 
-time in their acquaintance, wish to leave him. They walked slowly up
+[[Time|time]] in their acquaintance, wish to leave him. They walked slowly up
 
 the gallery. “Have you had any letter from Bath since I saw you?”
 
 
 
-“No, and I am very much surprised. Isabella promised so faithfully to
+“No, and I am very much surprised. [[Isabella]] promised so faithfully to
 
 write directly.”
 
@@ -420,13 +420,13 @@ heard of a faithful performance. But a faithful promise—the fidelity of
 
 promising! it is a power little worth knowing, however, since it can
 
-deceive and pain you. My mother’s room is very commodious, is it not?
+deceive and [[Pain|pain]] you. My mother’s room is very commodious, is it not?
 
-Large and cheerful-looking, and the dressing-closets so well disposed!
+Large and cheerful-looking, and the dressing-closets so [[Well|well]] disposed!
 
-It always strikes me as the most comfortable apartment in the house,
+It always strikes me as the most comfortable apartment in the [[house]],
 
-and I rather wonder that Eleanor should not take it for her own. She
+and I rather [[Wonder|wonder]] that [[Eleanor]] should not take it for her own. She
 
 sent you to look at it, I suppose?”
 
@@ -438,13 +438,13 @@ sent you to look at it, I suppose?”
 
 “It has been your own doing entirely?” Catherine said nothing. After a
 
-short silence, during which he had closely observed her, he added, “As
+short [[Silence|silence]], during which he had closely observed her, he added, “As
 
 there is nothing in the room in itself to raise curiosity, this must
 
 have proceeded from a sentiment of respect for my mother’s character,
 
-as described by Eleanor, which does honour to her memory. The world, I
+as described by [[Eleanor]], which does [[Honour|honour]] to her [[Memory|memory]]. The world, I
 
 believe, never saw a better woman. But it is not often that virtue can
 
@@ -452,7 +452,7 @@ boast an interest such as this. The domestic, unpretending merits of a
 
 person never known do not often create that kind of fervent, venerating
 
-tenderness which would prompt a visit like yours. Eleanor, I suppose,
+tenderness which would prompt a visit like yours. [[Eleanor]], I suppose,
 
 has talked of her a great deal?”
 
@@ -462,7 +462,7 @@ has talked of her a great deal?”
 
 interesting. Her dying so suddenly” (slowly, and with hesitation it was
 
-spoken), “and you—none of you being at home—and your father, I
+spoken), “and you—none of you being at [[Home|home]]—and your father, I
 
 thought—perhaps had not been very fond of her.”
 
@@ -478,7 +478,7 @@ something still less pardonable.” She raised her eyes towards him more
 
 fully than she had ever done before. “My mother’s illness,” he
 
-continued, “the seizure which ended in her death, _was_ sudden. The
+continued, “the seizure which ended in her [[Death|death]], _was_ sudden. The
 
 malady itself, one from which she had often suffered, a bilious
 
@@ -494,13 +494,13 @@ the next day, and remained in almost constant attendance for four and
 
 twenty hours. On the fifth day she died. During the progress of her
 
-disorder, Frederick and I (_we_ were both at home) saw her repeatedly;
+disorder, Frederick and I (_we_ were both at [[Home|home]]) saw her repeatedly;
 
 and from our own observation can bear witness to her having received
 
-every possible attention which could spring from the affection of those
+every possible attention which could [[spring]] from the affection of those
 
-about her, or which her situation in life could command. Poor Eleanor
+about her, or which her situation in life could command. Poor [[Eleanor]]
 
 was absent, and at such a distance as to return only to see her mother
 
@@ -512,9 +512,9 @@ in her coffin.”
 
 
 
-“For a time, greatly so. You have erred in supposing him not attached
+“For a [[Time|time]], greatly so. You have erred in supposing him not attached
 
-to her. He loved her, I am persuaded, as well as it was possible for
+to her. He loved her, I am persuaded, as [[Well|well]] as it was possible for
 
 him to—we have not all, you know, the same tenderness of
 
@@ -524,7 +524,7 @@ might not often have had much to bear, but though his temper injured
 
 her, his judgment never did. His value of her was sincere; and, if not
 
-permanently, he was truly afflicted by her death.”
+permanently, he was truly afflicted by her [[Death|death]].”
 
 
 
@@ -538,7 +538,7 @@ shocking!”
 
 as I have hardly words to—Dear Miss Morland, consider the dreadful
 
-nature of the suspicions you have entertained. What have you been
+[[Nature|nature]] of the suspicions you have entertained. What have you been
 
 judging from? Remember the country and the age in which we live.
 
@@ -546,7 +546,7 @@ Remember that we are English, that we are Christians. Consult your own
 
 understanding, your own sense of the probable, your own observation of
 
-what is passing around you. Does our education prepare us for such
+what is passing around you. Does our [[Education|education]] prepare us for such
 
 atrocities? Do our laws connive at them? Could they be perpetrated
 
@@ -562,6 +562,6 @@ admitting?”
 
 
 
-They had reached the end of the gallery, and with tears of shame she
+They had reached the end of the gallery, and with [[Tears|tears]] of shame she
 
 ran off to her own room.

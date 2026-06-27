@@ -1,5 +1,5 @@
 ---
-title: "Northanger Abbey — Chapter 13 (part 2)"
+title: "[[Northanger Abbey]] — Chapter 13 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Northanger-Abbey-(Austen)"
@@ -14,21 +14,21 @@ tags:
 </nav>
 
 
-“I suspect,” said Isabella, in a low voice, “there is no great
+“I suspect,” said [[Isabella]], in a low voice, “there is no great
 
 struggle.”
 
 
 
-Catherine’s heart swelled; she drew away her arm, and Isabella made no
+Catherine’s heart swelled; she drew away her arm, and [[Isabella]] made no
 
 opposition. Thus passed a long ten minutes, till they were again joined
 
-by Thorpe, who, coming to them with a gayer look, said, “Well, I have
+by Thorpe, who, coming to them with a gayer look, said, “[[Well]], I have
 
 settled the matter, and now we may all go to-morrow with a safe
 
-conscience. I have been to Miss Tilney, and made your excuses.”
+[[Conscience|conscience]]. I have been to Miss Tilney, and made your excuses.”
 
 
 
@@ -36,13 +36,13 @@ conscience. I have been to Miss Tilney, and made your excuses.”
 
 
 
-“I have, upon my soul. Left her this moment. Told her you had sent me
+“I have, upon my [[Soul|soul]]. Left her this moment. Told her you had sent me
 
 to say that, having just recollected a prior engagement of going to
 
 Clifton with us to-morrow, you could not have the pleasure of walking
 
-with her till Tuesday. She said very well, Tuesday was just as
+with her till Tuesday. She said very [[Well|well]], Tuesday was just as
 
 convenient to her; so there is an end of all our difficulties. A pretty
 
@@ -50,7 +50,7 @@ good thought of mine—hey?”
 
 
 
-Isabella’s countenance was once more all smiles and good humour, and
+[[Isabella]]’s countenance was once more all smiles and good [[Humour|humour]], and
 
 James too looked happy again.
 
@@ -70,13 +70,13 @@ run after Miss Tilney directly and set her right.”
 
 
 
-Isabella, however, caught hold of one hand, Thorpe of the other, and
+[[Isabella]], however, caught hold of one hand, Thorpe of the other, and
 
 remonstrances poured in from all three. Even James was quite angry.
 
 When everything was settled, when Miss Tilney herself said that Tuesday
 
-would suit her as well, it was quite ridiculous, quite absurd, to make
+would suit her as [[Well|well]], it was quite ridiculous, quite absurd, to make
 
 any further objection.
 
@@ -92,7 +92,7 @@ that Mr. Thorpe has—He may be mistaken again perhaps; he led me into
 
 one act of rudeness by his mistake on Friday. Let me go, Mr. Thorpe;
 
-Isabella, do not hold me.”
+[[Isabella]], do not hold me.”
 
 
 
@@ -100,7 +100,7 @@ Thorpe told her it would be in vain to go after the Tilneys; they were
 
 turning the corner into Brock Street, when he had overtaken them, and
 
-were at home by this time.
+were at [[Home|home]] by this [[Time|time]].
 
 
 
@@ -138,17 +138,17 @@ disappoint and displease them, particularly to displease her brother;
 
 but she could not repent her resistance. Setting her own inclination
 
-apart, to have failed a second time in her engagement to Miss Tilney,
+apart, to have failed a second [[Time|time]] in her engagement to Miss Tilney,
 
 to have retracted a promise voluntarily made only five minutes before,
 
 and on a false pretence too, must have been wrong. She had not been
 
-withstanding them on selfish principles alone, she had not consulted
+withstanding them on selfish principles [[Alone|alone]], she had not consulted
 
 merely her own gratification; _that_ might have been ensured in some
 
-degree by the excursion itself, by seeing Blaize Castle; no, she had
+degree by the excursion itself, by seeing Blaize [[Castle]]; no, she had
 
 attended to what was due to others, and to her own character in their
 
@@ -174,7 +174,7 @@ proceeded upstairs. Then, opening the first door before her, which
 
 happened to be the right, she immediately found herself in the
 
-drawing-room with General Tilney, his son, and daughter. Her
+drawing-room with [[General Tilney]], his son, and daughter. Her
 
 explanation, defective only in being—from her irritation of nerves and
 
@@ -192,7 +192,7 @@ the servant.”
 
 The business, however, though not perfectly elucidated by this speech,
 
-soon ceased to be a puzzle. Catherine found that John Thorpe _had_
+soon ceased to be a puzzle. Catherine found that [[John Thorpe]] _had_
 
 given the message; and Miss Tilney had no scruple in owning herself
 
@@ -206,7 +206,7 @@ knowing. Whatever might have been felt before her arrival, her eager
 
 declarations immediately made every look and sentence as friendly as
 
-she could desire.
+she could [[Desire|desire]].
 
 
 
@@ -220,7 +220,7 @@ think with pleasure that he might be sometimes depended on. To such
 
 anxious attention was the General’s civility carried, that not aware of
 
-her extraordinary swiftness in entering the house, he was quite angry
+her extraordinary swiftness in entering the [[house]], he was quite angry
 
 with the servant whose neglect had reduced her to open the door of the
 
@@ -228,10 +228,10 @@ apartment herself. “What did William mean by it? He should make a point
 
 of inquiring into the matter.” And if Catherine had not most warmly
 
-asserted his innocence, it seemed likely that William would lose the
+asserted his [[innocence]], it seemed likely that William would lose the
 
 favour of his master forever, if not his place, by her rapidity.
 
 
 
-After sitting with them a quarter of an hour, she rose to take leave,
+After sitting with them a quarter of an hour, she [[Rose|rose]] to take leave,

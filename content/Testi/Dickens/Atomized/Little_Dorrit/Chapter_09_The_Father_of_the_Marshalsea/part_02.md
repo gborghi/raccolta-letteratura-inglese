@@ -26,14 +26,14 @@ ill.
 ‘We intended,’ he returned, ‘that she should go to a country lodging
 only to-morrow. What am I to do! Oh, good heaven, what am I to do!’
 
-‘Don’t waste your time in clasping your hands and biting your fingers,’
+‘Don’t waste your [[Time|time]] in clasping your hands and biting your fingers,’
 responded the practical turnkey, taking him by the elbow, ‘but come
 along with me.’
 
 The turnkey conducted him--trembling from head to foot, and constantly
 crying under his breath, What was he to do! while his irresolute fingers
-bedabbled the tears upon his face--up one of the common staircases in
-the prison to a door on the garret story. Upon which door the turnkey
+bedabbled the [[Tears|tears]] upon his face--up one of the common staircases in
+the [[Prison|prison]] to a door on the garret story. Upon which door the turnkey
 knocked with the handle of his key.
 
 ‘Come in!’ cried a voice inside.
@@ -43,15 +43,15 @@ little room, two hoarse, puffy, red-faced personages seated at a
 rickety table, playing at all-fours, smoking pipes, and drinking brandy.
 
 ‘Doctor,’ said the turnkey, ‘here’s a gentleman’s wife in want of you
-without a minute’s loss of time!’
+without a minute’s loss of [[Time|time]]!’
 
 The doctor’s friend was in the positive degree of hoarseness, puffiness,
 red-facedness, all-fours, tobacco, dirt, and brandy; the doctor in
 the comparative--hoarser, puffier, more red-faced, more all-fourey,
 tobaccoer, dirtier, and brandier. The doctor was amazingly shabby, in
 a torn and darned rough-weather sea-jacket, out at elbows and eminently
-short of buttons (he had been in his time the experienced surgeon
-carried by a passenger ship), the dirtiest white trousers conceivable by
+short of buttons (he had been in his [[Time|time]] the experienced surgeon
+carried by a passenger [[Ship|ship]]), the dirtiest white trousers conceivable by
 mortal man, carpet slippers, and no visible linen. ‘Childbed?’ said
 the doctor. ‘I’m the boy!’ With that the doctor took a comb from the
 chimney-piece and stuck his hair upright--which appeared to be his
@@ -62,7 +62,7 @@ a ghastly medical scarecrow.
 
 The doctor and the debtor ran down-stairs, leaving the turnkey to return
 to the lock, and made for the debtor’s room. All the ladies in the
-prison had got hold of the news, and were in the yard. Some of them
+[[Prison|prison]] had got hold of the news, and were in the yard. Some of them
 had already taken possession of the two children, and were hospitably
 carrying them off; others were offering loans of little comforts from
 their own scanty store; others were sympathising with the greatest
@@ -73,30 +73,30 @@ complimented the doctor with whistles as he passed below, while others,
 with several stories between them, interchanged sarcastic references to
 the prevalent excitement.
 
-It was a hot summer day, and the prison rooms were baking between the
+It was a hot [[Summer|summer]] day, and the [[Prison|prison]] rooms were baking between the
 high walls. In the debtor’s confined chamber, Mrs Bangham, charwoman and
 messenger, who was not a prisoner (though she had been once), but
 was the popular medium of communication with the outer world, had
 volunteered her services as fly-catcher and general attendant. The walls
 and ceiling were blackened with flies. Mrs Bangham, expert in sudden
 device, with one hand fanned the patient with a cabbage leaf, and with
-the other set traps of vinegar and sugar in gallipots; at the same time
-enunciating sentiments of an encouraging and congratulatory nature,
+the other set traps of vinegar and sugar in gallipots; at the same [[Time|time]]
+enunciating sentiments of an encouraging and congratulatory [[Nature|nature]],
 adapted to the occasion.
 
 ‘The flies trouble you, don’t they, my dear?’ said Mrs Bangham. ‘But
 p’raps they’ll take your mind off of it, and do you good. What between
-the buryin ground, the grocer’s, the waggon-stables, and the paunch
+the buryin ground, the [[grocer]]’s, the waggon-stables, and the paunch
 trade, the Marshalsea flies gets very large. P’raps they’re sent as a
 consolation, if we only know’d it. How are you now, my dear? No better?
 No, my dear, it ain’t to be expected; you’ll be worse before you’re
 better, and you know it, don’t you? Yes. That’s right! And to think of
 a sweet little cherub being born inside the lock! Now ain’t it pretty,
 ain’t _that_ something to carry you through it pleasant? Why, we ain’t
-had such a thing happen here, my dear, not for I couldn’t name the time
+had such a thing happen here, my dear, not for I couldn’t name the [[Time|time]]
 when. And you a crying too?’ said Mrs Bangham, to rally the patient more
 and more. ‘You! Making yourself so famous! With the flies a falling into
-the gallipots by fifties! And everything a going on so well! And here if
+the gallipots by fifties! And everything a going on so [[Well|well]]! And here if
 there ain’t,’ said Mrs Bangham as the door opened, ‘if there ain’t your
 dear gentleman along with Dr Haggage! And now indeed we _are_ complete, I
 _think_!’
@@ -104,7 +104,7 @@ _think_!’
 The doctor was scarcely the kind of apparition to inspire a patient
 with a sense of absolute completeness, but as he presently delivered the
 opinion, ‘We are as right as we can be, Mrs Bangham, and we shall
-come out of this like a house afire;’ and as he and Mrs Bangham took
+come out of this like a [[house]] afire;’ and as he and Mrs Bangham took
 possession of the poor helpless pair, as everybody else and anybody else
 had always done, the means at hand were as good on the whole as better
 would have been. The special feature in Dr Haggage’s treatment of the

@@ -1,5 +1,5 @@
 ---
-title: "David Copperfield — Chapter 17: SOMEBODY TURNS UP (part 5)"
+title: "[[David Copperfield]] — Chapter 17: SOMEBODY TURNS UP (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/David-Copperfield-(Dickens)"
@@ -15,7 +15,7 @@ tags:
 
 
 I could do no less, under these circumstances, than make Mr. Micawber
-known to Uriah Heep and his mother; which I accordingly did. As they
+known to [[Uriah Heep]] and his mother; which I accordingly did. As they
 abased themselves before him, Mr. Micawber took a seat, and waved his
 hand in his most courtly manner.
 
@@ -31,7 +31,7 @@ your notice.’
 what are you doing, Copperfield? Still in the wine trade?’
 
 I was excessively anxious to get Mr. Micawber away; and replied, with my
-hat in my hand, and a very red face, I have no doubt, that I was a pupil
+hat in my hand, and a very red face, I have no [[Doubt|doubt]], that I was a pupil
 at Doctor Strong’s.
 
 ‘A pupil?’ said Mr. Micawber, raising his eyebrows. ‘I am extremely
@@ -59,8 +59,8 @@ Sometimes my difficulties have--in short, have floored me. There have
 been times when I have administered a succession of facers to them;
 there have been times when they have been too many for me, and I have
 given in, and said to Mrs. Micawber, in the words of Cato, “Plato, thou
-reasonest well. It’s all up now. I can show fight no more.” But at no
-time of my life,’ said Mr. Micawber, ‘have I enjoyed a higher degree of
+reasonest [[Well|well]]. It’s all up now. I can show fight no more.” But at no
+[[Time|time]] of my life,’ said Mr. Micawber, ‘have I enjoyed a higher degree of
 satisfaction than in pouring my griefs (if I may describe difficulties,
 chiefly arising out of warrants of attorney and promissory notes at two
 and four months, by that word) into the bosom of my friend Copperfield.’
@@ -76,8 +76,8 @@ flavoured with tobacco-smoke. I think it was over the kitchen, because
 a warm greasy smell appeared to come up through the chinks in the floor,
 and there was a flabby perspiration on the walls. I know it was near the
 bar, on account of the smell of spirits and jingling of glasses. Here,
-recumbent on a small sofa, underneath a picture of a race-horse, with
-her head close to the fire, and her feet pushing the mustard off the
+recumbent on a small sofa, underneath a picture of a race-[[Horse|horse]], with
+her head close to the [[Fire|fire]], and her feet pushing the mustard off the
 dumb-waiter at the other end of the room, was Mrs. Micawber, to whom Mr.
 Micawber entered first, saying, ‘My dear, allow me to introduce to you a
 pupil of Doctor Strong’s.’
@@ -91,7 +91,7 @@ see her too, and, after an affectionate greeting on both sides, sat down
 on the small sofa near her.
 
 ‘My dear,’ said Mr. Micawber, ‘if you will mention to Copperfield what
-our present position is, which I have no doubt he will like to know, I
+our present position is, which I have no [[Doubt|doubt]] he will like to know, I
 will go and look at the paper the while, and see whether anything turns
 up among the advertisements.’
 
@@ -102,8 +102,8 @@ went out.
 
 ‘To be on the spot,’ I hinted.
 
-‘Just so,’ said Mrs. Micawber. ‘To be on the spot. But, the truth is,
-talent is not wanted in the Custom House. The local influence of my
+‘Just so,’ said Mrs. Micawber. ‘To be on the spot. But, the [[Truth|truth]] is,
+talent is not wanted in the Custom [[house|House]]. The local influence of my
 family was quite unavailing to obtain any employment in that department,
 for a man of Mr. Micawber’s abilities. They would rather NOT have a man
 of Mr. Micawber’s abilities. He would only show the deficiency of the
@@ -120,7 +120,7 @@ was cool.’
 
 ‘Yes,’ said Mrs. Micawber. ‘It is truly painful to contemplate mankind
 in such an aspect, Master Copperfield, but our reception was, decidedly,
-cool. There is no doubt about it. In fact, that branch of my family
+cool. There is no [[Doubt|doubt]] about it. In fact, that branch of my family
 which is settled in Plymouth became quite personal to Mr. Micawber,
 before we had been there a week.’
 
@@ -129,7 +129,7 @@ I said, and thought, that they ought to be ashamed of themselves.
 ‘Still, so it was,’ continued Mrs. Micawber. ‘Under such circumstances,
 what could a man of Mr. Micawber’s spirit do? But one obvious course
 was left. To borrow, of that branch of my family, the money to return to
-London, and to return at any sacrifice.’
+[[London]], and to return at any sacrifice.’
 
 ‘Then you all came back again, ma’am?’ I said.
 

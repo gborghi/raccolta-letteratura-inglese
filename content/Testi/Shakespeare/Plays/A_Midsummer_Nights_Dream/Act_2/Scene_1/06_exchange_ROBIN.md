@@ -15,4 +15,4 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| ROBIN | Fear not, my lord. Your servant shall do so. Exeunt severally |
+| ROBIN | [[Fear]] not, my lord. Your servant shall do so. Exeunt severally |

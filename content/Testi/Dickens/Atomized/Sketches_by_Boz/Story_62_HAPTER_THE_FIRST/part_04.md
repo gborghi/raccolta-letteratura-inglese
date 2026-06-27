@@ -33,34 +33,34 @@ ridiculous circumstances possible.’
 
 ‘What were they, if one may inquire?’ asked Timson, who had heard the
 story, on an average, twice a week for the last six months. Mr. Watkins
-Tottle listened attentively, in the hope of picking up some suggestion
+Tottle listened attentively, in the [[Hope|hope]] of picking up some suggestion
 that might be useful to him in his new undertaking.
 
-‘I spent my wedding-night in a back-kitchen chimney,’ said Parsons, by
+‘I spent my wedding-[[Night|night]] in a back-kitchen chimney,’ said Parsons, by
 way of a beginning.
 
 ‘In a back-kitchen chimney!’ ejaculated Watkins Tottle. ‘How dreadful!’
 
 ‘Yes, it wasn’t very pleasant,’ replied the small host. ‘The fact is,
-Fanny’s father and mother liked me well enough as an individual, but
+Fanny’s father and mother liked me [[Well|well]] enough as an individual, but
 had a decided objection to my becoming a husband. You see, I hadn’t any
 money in those days, and they had; and so they wanted Fanny to pick up
 somebody else. However, we managed to discover the state of each
 other’s affections somehow. I used to meet her, at some mutual friends’
 parties; at first we danced together, and talked, and flirted, and all
-that sort of thing; then, I used to like nothing so well as sitting by
+that sort of thing; then, I used to like nothing so [[Well|well]] as sitting by
 her side—we didn’t talk so much then, but I remember I used to have a
 great notion of looking at her out of the extreme corner of my left
 eye—and then I got very miserable and sentimental, and began to write
 verses, and use Macassar oil. At last I couldn’t bear it any longer,
-and after I had walked up and down the sunny side of Oxford-street in
-tight boots for a week—and a devilish hot summer it was too—in the hope
+and after I had walked up and down the sunny side of [[Oxford]]-street in
+tight boots for a week—and a devilish hot [[Summer|summer]] it was too—in the [[Hope|hope]]
 of meeting her, I sat down and wrote a letter, and begged her to manage
 to see me clandestinely, for I wanted to hear her decision from her own
 mouth. I said I had discovered, to my perfect satisfaction, that I
 couldn’t live without her, and that if she didn’t have me, I had made
 up my mind to take prussic acid, or take to drinking, or emigrate, so
-as to take myself off in some way or other. Well, I borrowed a pound,
+as to take myself off in some way or other. [[Well]], I borrowed a pound,
 and bribed the housemaid to give her the note, which she did.’
 
 ‘And what was the reply?’ inquired Timson, who had found, before, that
@@ -68,12 +68,12 @@ to encourage the repetition of old stories is to get a general
 invitation.
 
 ‘Oh, the usual one! Fanny expressed herself very miserable; hinted at
-the possibility of an early grave; said that nothing should induce her
+the possibility of an early [[Grave|grave]]; said that nothing should induce her
 to swerve from the duty she owed her parents; implored me to forget
 her, and find out somebody more deserving, and all that sort of thing.
 She said she could, on no account, think of meeting me unknown to her
 pa and ma; and entreated me, as she should be in a particular part of
-Kensington Gardens at eleven o’clock next morning, not to attempt to
+Kensington Gardens at eleven o’[[Clock|clock]] next morning, not to attempt to
 meet her there.’
 
 ‘You didn’t go, of course?’ said Watkins Tottle.
@@ -84,14 +84,14 @@ about, for a couple of hours; made ourselves delightfully miserable;
 and were regularly engaged. Then, we began to “correspond”—that is to
 say, we used to exchange about four letters a day; what we used to say
 in ’em I can’t imagine. And I used to have an interview, in the
-kitchen, or the cellar, or some such place, every evening. Well, things
-went on in this way for some time; and we got fonder of each other
-every day. At last, as our love was raised to such a pitch, and as my
+kitchen, or the cellar, or some such place, every evening. [[Well]], things
+went on in this way for some [[Time|time]]; and we got fonder of each other
+every day. At last, as our [[Love|love]] was raised to such a pitch, and as my
 salary had been raised too, shortly before, we determined on a secret
-marriage. Fanny arranged to sleep at a friend’s, on the previous night;
+[[Marriage|marriage]]. Fanny arranged to [[Sleep|sleep]] at a friend’s, on the previous [[Night|night]];
 we were to be married early in the morning; and then we were to return
-to her home and be pathetic. She was to fall at the old gentleman’s
-feet, and bathe his boots with her tears; and I was to hug the old lady
+to her [[Home|home]] and be pathetic. She was to fall at the old gentleman’s
+feet, and bathe his boots with her [[Tears|tears]]; and I was to hug the old lady
 and call her “mother,” and use my pocket-handkerchief as much as
 possible. Married we were, the next morning; two girls-friends of
 Fanny’s—acting as bridesmaids; and a man, who was hired for five
@@ -99,34 +99,34 @@ shillings and a pint of porter, officiating as father. Now, the old
 lady unfortunately put off her return from Ramsgate, where she had been
 paying a visit, until the next morning; and as we placed great reliance
 on her, we agreed to postpone our confession for four-and-twenty hours.
-My newly-made wife returned home, and I spent my wedding-day in
+My newly-made wife returned [[Home|home]], and I spent my wedding-day in
 strolling about Hampstead-heath, and execrating my father-in-law. Of
-course, I went to comfort my dear little wife at night, as much as I
+course, I went to comfort my dear little wife at [[Night|night]], as much as I
 could, with the assurance that our troubles would soon be over. I
-opened the garden-gate, of which I had a key, and was shown by the
+opened the [[Garden|garden]]-gate, of which I had a key, and was shown by the
 servant to our old place of meeting—a back kitchen, with a stone-floor
 and a dresser: upon which, in the absence of chairs, we used to sit and
-make love.’
+make [[Love|love]].’
 
-‘Make love upon a kitchen-dresser!’ interrupted Mr. Watkins Tottle,
+‘Make [[Love|love]] upon a kitchen-dresser!’ interrupted Mr. Watkins Tottle,
 whose ideas of decorum were greatly outraged.
 
 ‘Ah! On a kitchen-dresser!’ replied Parsons. ‘And let me tell you, old
-fellow, that, if you were really over head-and-ears in love, and had no
-other place to make love in, you’d be devilish glad to avail yourself
+fellow, that, if you were really over head-and-ears in [[Love|love]], and had no
+other place to make [[Love|love]] in, you’d be devilish glad to avail yourself
 of such an opportunity. However, let me see;—where was I?’
 
 ‘On the dresser,’ suggested Timson.
 
-‘Oh—ah! Well, here I found poor Fanny, quite disconsolate and
-uncomfortable. The old boy had been very cross all day, which made her
+‘Oh—ah! [[Well]], here I found poor Fanny, quite disconsolate and
+uncomfortable. The old boy had been very [[Cross|cross]] all day, which made her
 feel still more lonely; and she was quite out of spirits. So, I put a
 good face on the matter, and laughed it off, and said we should enjoy
 the pleasures of a matrimonial life more by contrast; and, at length,
 poor Fanny brightened up a little. I stopped there, till about eleven
-o’clock, and, just as I was taking my leave for the fourteenth time,
+o’[[Clock|clock]], and, just as I was taking my leave for the fourteenth [[Time|time]],
 the girl came running down the stairs, without her shoes, in a great
-fright, to tell us that the old villain—Heaven forgive me for calling
+fright, to tell us that the old [[Villain|villain]]—Heaven forgive me for calling
 him so, for he is dead and gone now!—prompted I suppose by the prince
 of darkness, was coming down, to draw his own beer for supper—a thing
 he had not done before, for six months, to my certain knowledge; for
@@ -145,12 +145,12 @@ never heard beer run so slowly. He was just leaving the kitchen, and I
 was preparing to descend, when down came the infernal chimney-board
 with a tremendous crash. He stopped and put down the candle and the jug
 of beer on the dresser; he was a nervous old fellow, and any unexpected
-noise annoyed him. He coolly observed that the fire-place was never
+noise annoyed him. He coolly observed that the [[Fire|fire]]-place was never
 used, and sending the frightened servant into the next kitchen for a
 hammer and nails, actually nailed up the board, and locked the door on
-the outside. So, there was I, on my wedding-night, in the light
+the outside. So, there was I, on my wedding-[[Night|night]], in the light
 kerseymere trousers, fancy waistcoat, and blue coat, that I had been
-married in in the morning, in a back-kitchen chimney, the bottom of
+married in in the morning, in a back-kitchen chimney, the [[Bottom|bottom]] of
 which was nailed up, and the top of which had been formerly raised some
 fifteen feet, to prevent the smoke from annoying the neighbours. And
 there,’ added Mr. Gabriel Parsons, as he passed the bottle, ‘there I
@@ -165,7 +165,7 @@ was not satisfied until he heard a story to the very end.
 
 ‘Why, the affair of the chimney so tickled his fancy, that he pardoned
 us off-hand, and allowed us something to live on till he went the way
-of all flesh. I spent the next night in his second-floor front, much
+of all flesh. I spent the next [[Night|night]] in his second-floor front, much
 more comfortably than I had spent the preceding one; for, as you will
 probably guess—’
 
@@ -188,16 +188,16 @@ Tea being concluded, and the toast and cups having been duly handed,
 and occasionally upset, by Mr. Watkins Tottle, a rubber was proposed.
 They cut for partners—Mr. and Mrs. Parsons; and Mr. Watkins Tottle and
 Miss Lillerton. Mr. Timson having conscientious scruples on the subject
-of card-playing, drank brandy-and-water, and kept up a running spar
-with Mr. Watkins Tottle. The evening went off well; Mr. Watkins Tottle
+of card-playing, drank brandy-and-[[Water|water]], and kept up a running spar
+with Mr. Watkins Tottle. The evening went off [[Well|well]]; Mr. Watkins Tottle
 was in high spirits, having some reason to be gratified with his
 reception by Miss Lillerton; and before he left, a small party was made
 up to visit the Beulah Spa on the following Saturday.
 
 ‘It’s all right, I think,’ said Mr. Gabriel Parsons to Mr. Watkins
-Tottle as he opened the garden gate for him.
+Tottle as he opened the [[Garden|garden]] gate for him.
 
-‘I hope so,’ he replied, squeezing his friend’s hand.
+‘I [[Hope|hope]] so,’ he replied, squeezing his friend’s hand.
 
 ‘You’ll be down by the first coach on Saturday,’ said Mr. Gabriel
 Parsons.
@@ -206,4 +206,4 @@ Parsons.
 
 But fortune had decreed that Mr. Watkins Tottle should not be down by
 the first coach on Saturday. His adventures on that day, however, and
-the success of his wooing, are subjects for another chapter.
+the [[success]] of his wooing, are subjects for another chapter.

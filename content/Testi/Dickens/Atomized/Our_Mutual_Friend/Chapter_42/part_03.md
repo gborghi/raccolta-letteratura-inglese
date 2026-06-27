@@ -26,8 +26,8 @@ Fledgeby took a note from his extended hand and read it aloud. ‘Alfred
 Lammle, Esquire. Sir: Allow Mrs Podsnap and myself to express our united
 sense of the polite attentions of Mrs Alfred Lammle and yourself towards
 our daughter, Georgiana. Allow us also, wholly to reject them for the
-future, and to communicate our final desire that the two families
-may become entire strangers. I have the honour to be, Sir, your most
+future, and to communicate our final [[Desire|desire]] that the two families
+may become entire strangers. I have the [[Honour|honour]] to be, Sir, your most
 obedient and very humble servant, JOHN PODSNAP.’ Fledgeby looked at the
 three blank sides of this note, quite as long and earnestly as at the
 first expressive side, and then looked at Lammle, who responded with
@@ -48,12 +48,12 @@ connected with that feature operating as a timely warning, he took it
 thoughtfully between his thumb and forefinger, and pondered; Lammle
 meanwhile eyeing him with furtive eyes.
 
-‘Well!’ said Fledgeby. ‘This won’t improve with talking about. If we
+‘[[Well]]!’ said Fledgeby. ‘This won’t improve with talking about. If we
 ever find out who did it, we’ll mark that person. There’s nothing more
 to be said, except that you undertook to do what circumstances prevent
 your doing.’
 
-‘And that you undertook to do what you might have done by this time, if
+‘And that you undertook to do what you might have done by this [[Time|time]], if
 you had made a prompter use of circumstances,’ snarled Lammle.
 
 ‘Hah! That,’ remarked Fledgeby, with his hands in the Turkish trousers,
@@ -67,7 +67,7 @@ affair?’
 your pocket, and now hand it over.’
 
 Lammle produced it, not without reluctance. Fledgeby looked at it,
-identified it, twisted it up, and threw it into the fire. They both
+identified it, twisted it up, and threw it into the [[Fire|fire]]. They both
 looked at it as it blazed, went out, and flew in feathery ash up the
 chimney.
 
@@ -114,7 +114,7 @@ Fledgeby, watching him with a twitch in his mean face which did duty
 there for a smile, looked very like the tormentor who was pinching.
 
 ‘But I mustn’t keep him waiting too long,’ said Fledgeby, ‘or he’ll
-revenge it on my unfortunate friend. How’s your very clever and
+[[Revenge|revenge]] it on my unfortunate friend. How’s your very clever and
 agreeable wife? She knows we have broken down?’
 
 ‘I showed her the letter.’
@@ -138,8 +138,8 @@ lay it upon me? To ask another question.’
 to her. Good-bye!’
 
 They shook hands, and Lammle strode out pondering. Fledgeby saw him
-into the fog, and, returning to the fire and musing with his face to it,
-stretched the legs of the rose-coloured Turkish trousers wide apart, and
+into the fog, and, returning to the [[Fire|fire]] and musing with his face to it,
+stretched the legs of the [[Rose|rose]]-coloured Turkish trousers wide apart, and
 meditatively bent his knees, as if he were going down upon them.
 
 ‘You have a pair of whiskers, Lammle, which I never liked,’ murmured
@@ -154,4 +154,4 @@ Turkish trousers, straightened himself on his knees, and called out
 to Riah in the next room, ‘Halloa, you sir!’ At sight of the old man
 re-entering with a gentleness monstrously in contrast with the character
 he had given him, Mr Fledgeby was so tickled again, that he exclaimed,
-laughing, ‘Good! Good! Upon my soul it is uncommon good!’
+laughing, ‘Good! Good! Upon my [[Soul|soul]] it is uncommon good!’

@@ -1,5 +1,5 @@
 ---
-title: "Pride and Prejudice — Chapter 44 (part 2)"
+title: "[[Pride and Prejudice]] — Chapter 44 (part 2)"
 author: "Austen"
 unitType: excerpt
 parentWork: "Works/Pride-and-Prejudice-(Austen)"
@@ -29,8 +29,8 @@ change was so great, and struck so forcibly on her mind, that she could
 hardly restrain her astonishment from being visible. Never, even in the
 company of his dear friends at Netherfield, or his dignified relations
 at Rosings, had she seen him so desirous to please, so free from
-self-consequence or unbending reserve, as now, when no importance could
-result from the success of his endeavours, and when even the
+[[Self|self]]-consequence or unbending reserve, as now, when no importance could
+result from the [[success]] of his endeavours, and when even the
 acquaintance of those to whom his attentions were addressed, would draw
 down the ridicule and censure of the ladies both of Netherfield and
 Rosings.
@@ -52,20 +52,20 @@ Bingley expressed great pleasure in the certainty of seeing Elizabeth
 again, having still a great deal to say to her, and many inquiries to
 make after all their Hertfordshire friends. Elizabeth, construing all
 this into a wish of hearing her speak of her sister, was pleased; and
-on this account, as well as some others, found herself, when their
+on this account, as [[Well|well]] as some others, found herself, when their
 visitors left them, capable of considering the last half hour with some
 satisfaction, though while it was passing the enjoyment of it had been
-little. Eager to be alone, and fearful of inquiries or hints from her
+little. Eager to be [[Alone|alone]], and fearful of inquiries or hints from her
 uncle and aunt, she stayed with them only long enough to hear their
 favourable opinion of Bingley, and then hurried away to dress.
 
-But she had no reason to fear Mr. and Mrs. Gardiner’s curiosity; it was
+But she had no reason to [[Fear|fear]] Mr. and Mrs. Gardiner’s curiosity; it was
 not their wish to force her communication. It was evident that she was
 much better acquainted with Mr. Darcy than they had before any idea of;
-it was evident that he was very much in love with her. They saw much to
+it was evident that he was very much in [[Love|love]] with her. They saw much to
 interest, but nothing to justify inquiry.
 
-Of Mr. Darcy it was now a matter of anxiety to think well; and, as far
+Of Mr. Darcy it was now a matter of anxiety to think [[Well|well]]; and, as far
 as their acquaintance reached, there was no fault to find. They could
 not be untouched by his politeness; and had they drawn his character
 from their own feelings and his servant’s report, without any reference
@@ -76,14 +76,14 @@ that the authority of a servant, who had known him since he was four
 years old, and whose own manners indicated respectability, was not to be
 hastily rejected. Neither had anything occurred in the intelligence of
 their Lambton friends that could materially lessen its weight. They had
-nothing to accuse him of but pride; pride he probably had, and if not,
+nothing to accuse him of but [[Pride|pride]]; [[Pride|pride]] he probably had, and if not,
 it would certainly be imputed by the inhabitants of a small market town
 where the family did not visit. It was acknowledged, however, that he
 was a liberal man, and did much good among the poor.
 
 With respect to Wickham, the travellers soon found that he was not held
 there in much estimation; for though the chief of his concerns with the
-son of his patron were imperfectly understood, it was yet a well-known
+son of his patron were imperfectly understood, it was yet a [[Well|well]]-known
 fact that, on his quitting Derbyshire, he had left many debts behind
 him, which Mr. Darcy afterwards discharged.
 
@@ -95,13 +95,13 @@ certainly did not hate him. No; hatred had vanished long ago, and she
 had almost as long been ashamed of ever feeling a dislike against him,
 that could be so called. The respect created by the conviction of his
 valuable qualities, though at first unwillingly admitted, had for some
-time ceased to be repugnant to her feelings; and it was now heightened
-into somewhat of a friendlier nature by the testimony so highly in his
+[[Time|time]] ceased to be repugnant to her feelings; and it was now heightened
+into somewhat of a friendlier [[Nature|nature]] by the testimony so highly in his
 favour, and bringing forward his disposition in so amiable a light,
 which yesterday had produced. But above all, above respect and esteem,
 there was a motive within her of good-will which could not be
 overlooked. It was gratitude;--gratitude, not merely for having once
-loved her, but for loving her still well enough to forgive all the
+loved her, but for loving her still [[Well|well]] enough to forgive all the
 petulance and acrimony of her manner in rejecting him, and all the
 unjust accusations accompanying her rejection. He who, she had been
 persuaded, would avoid her as his greatest enemy, seemed, on this
@@ -109,8 +109,8 @@ accidental meeting, most eager to preserve the acquaintance; and
 without any indelicate display of regard, or any peculiarity of manner,
 where their two selves only were concerned, was soliciting the good
 opinion of her friends, and bent on making her known to his sister. Such
-a change in a man of so much pride excited not only astonishment but
-gratitude--for to love, ardent love, it must be attributed; and, as
+a change in a man of so much [[Pride|pride]] excited not only astonishment but
+gratitude--for to [[Love|love]], ardent [[Love|love]], it must be attributed; and, as
 such, its impression on her was of a sort to be encouraged, as by no
 means unpleasing, though it could not be exactly defined. She respected,
 she esteemed, she was grateful to him, she felt a real interest in his
@@ -130,12 +130,12 @@ she asked herself the reason, she had very little to say in reply.
 
 Mr. Gardiner left them soon after breakfast. The fishing scheme had been
 renewed the day before, and a positive engagement made of his meeting
-some of the gentlemen at Pemberley by noon.
+some of the gentlemen at Pemberley by [[Noon|noon]].
 
 
 
 
 [Illustration:
 
-     “Engaged by the river”
+     “Engaged by the [[River|river]]”
 ]

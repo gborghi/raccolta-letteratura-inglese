@@ -1,5 +1,5 @@
 ---
-title: "Nicholas Nickleby — Chapter 34 (part 5)"
+title: "[[Nicholas Nickleby]] — Chapter 34 (part 5)"
 author: "Dickens"
 unitType: excerpt
 parentWork: "Works/Nicholas-Nickleby-(Dickens)"
@@ -17,7 +17,7 @@ tags:
 ‘I believe you,’ rejoined Squeers. ‘We always do it. Why, when Mrs
 Squeers was brought to bed with little Wackford here, we ran the
 hooping-cough through half-a-dozen boys, and charged her expenses among
-‘em, monthly nurse included. Ha! ha! ha!’
+‘em, monthly [[Nurse|nurse]] included. Ha! ha! ha!’
 
 Ralph never laughed, but on this occasion he produced the nearest
 approach to it that he could, and waiting until Mr. Squeers had enjoyed
@@ -45,10 +45,10 @@ people’s ingratitude would carry them quite as far as that; would you?’
 
 ‘A hard case, indeed,’ observed Ralph.
 
-‘You don’t say more than the truth when you say that,’ replied Squeers.
+‘You don’t say more than the [[Truth|truth]] when you say that,’ replied Squeers.
 ‘I don’t suppose there’s a man going, as possesses the fondness for
 youth that I do. There’s youth to the amount of eight hundred pound a
-year at Dotheboys Hall at this present time. I’d take sixteen hundred
+year at Dotheboys Hall at this present [[Time|time]]. I’d take sixteen hundred
 pound worth if I could get ‘em, and be as fond of every individual
 twenty pound among ‘em as nothing should equal it!’
 
@@ -56,13 +56,13 @@ twenty pound among ‘em as nothing should equal it!’
 
 ‘Yes, we are at the Saracen,’ replied Squeers, ‘and as it don’t want
 very long to the end of the half-year, we shall continney to stop there
-till I’ve collected the money, and some new boys too, I hope. I’ve
+till I’ve collected the money, and some new boys too, I [[Hope|hope]]. I’ve
 brought little Wackford up, on purpose to show to parents and
-guardians. I shall put him in the advertisement, this time. Look at that
+guardians. I shall put him in the advertisement, this [[Time|time]]. Look at that
 boy--himself a pupil. Why he’s a miracle of high feeding, that boy is!’
 
 ‘I should like to have a word with you,’ said Ralph, who had both
-spoken and listened mechanically for some time, and seemed to have been
+spoken and listened mechanically for some [[Time|time]], and seemed to have been
 thinking.
 
 ‘As many words as you like, sir,’ rejoined Squeers. ‘Wackford, you go
@@ -110,7 +110,7 @@ compensation--’
 ‘Ah!’ cried Ralph, interrupting him. ‘You needn’t go on.’
 
 After a long pause, during which Ralph appeared absorbed in
-contemplation, he again broke silence by asking:
+contemplation, he again broke [[Silence|silence]] by asking:
 
 ‘Who is this boy that he took with him?’
 
@@ -124,32 +124,32 @@ you know.’
 
 ‘That is, he was not a boy at all, I suppose?’ interrupted Ralph.
 
-‘Well,’ returned Squeers, briskly, as if he felt relieved by the
+‘[[Well]],’ returned Squeers, briskly, as if he felt relieved by the
 suggestion, ‘he might have been nigh twenty. He wouldn’t seem so old,
 though, to them as didn’t know him, for he was a little wanting here,’
-touching his forehead; ‘nobody at home, you know, if you knocked ever so
+touching his forehead; ‘nobody at [[Home|home]], you know, if you knocked ever so
 often.’
 
 ‘And you DID knock pretty often, I dare say?’ muttered Ralph.
 
-‘Pretty well,’ returned Squeers with a grin.
+‘Pretty [[Well|well]],’ returned Squeers with a grin.
 
 ‘When you wrote to acknowledge the receipt of this trifle of money as
 you call it,’ said Ralph, ‘you told me his friends had deserted him long
 ago, and that you had not the faintest clue or trace to tell you who he
-was. Is that the truth?’
+was. Is that the [[Truth|truth]]?’
 
 ‘It is, worse luck!’ replied Squeers, becoming more and more easy and
 familiar in his manner, as Ralph pursued his inquiries with the less
 reserve. ‘It’s fourteen years ago, by the entry in my book, since a
-strange man brought him to my place, one autumn night, and left him
+strange man brought him to my place, one [[Autumn|autumn]] [[Night|night]], and left him
 there; paying five pound five, for his first quarter in advance. He
-might have been five or six year old at that time--not more.’
+might have been five or six year old at that [[Time|time]]--not more.’
 
 ‘What more do you know about him?’ demanded Ralph.
 
 ‘Devilish little, I’m sorry to say,’ replied Squeers. ‘The money was
 paid for some six or eight year, and then it stopped. He had given an
-address in London, had this chap; but when it came to the point, of
+address in [[London]], had this chap; but when it came to the point, of
 course nobody knowed anything about him. So I kept the lad out of--out
 of--’

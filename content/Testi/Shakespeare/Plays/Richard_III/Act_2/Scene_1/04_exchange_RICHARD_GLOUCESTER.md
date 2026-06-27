@@ -1,5 +1,5 @@
 ---
-title: "Richard III — Act II, Scene 1 — exchange (RICHARD GLOUCESTER) [4]"
+title: "[[Richard III]] — Act II, Scene 1 — exchange ([[Richard|RICHARD]] [[Gloucester|GLOUCESTER]]) [4]"
 author: "Shakespeare"
 unitType: work
 parentWork: "Works/RICHARD-III-(Shakespeare)"
@@ -15,5 +15,5 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| RICHARD GLOUCESTER | This is the fruits of rashness. Marked you not How that the guilty kindred of the Queen Looked pale, when they did hear of Clarence’ death? O, they did urge it still unto the King. God will revenge it. Come, lords, will you go To comfort Edward with our company? |
-| BUCKINGHAM | We wait upon your grace. Exeunt |
+| [[Richard|RICHARD]] [[Gloucester|GLOUCESTER]] | This is the fruits of rashness. Marked you not How that the guilty kindred of the [[Queen]] Looked pale, when they did hear of [[Clarence]]’ [[Death|death]]? O, they did urge it still unto the [[King]]. God will [[Revenge|revenge]] it. Come, lords, will you go To comfort Edward with our company? |
+| [[Buckingham|BUCKINGHAM]] | We wait upon your grace. Exeunt |

@@ -1,5 +1,5 @@
 ---
-title: "Antony and Cleopatra — Act III, Scene 9"
+title: "Antony and [[Cleopatra]] — Act III, Scene 9"
 author: "Shakespeare"
 unitType: scene
 parentWork: "Works/ANTONY-AND-CLEOPATRA-(Shakespeare)"
@@ -16,6 +16,6 @@ tags:
 
 | Chi parla | Battuta |
 |---|---|
-| *(didascalia)* | Enter Antony and Enobarbus |
-| ANTONY | Set we our squadrons on yon side o’th’ hill<br>In eye of Caesar’s battle, from which place<br>We may the number of the ships behold,<br>And so proceed accordingly. |
+| *(didascalia)* | Enter Antony and [[Enobarbus]] |
+| ANTONY | Set we our squadrons on yon side o’th’ [[Hill|hill]]<br>In eye of Caesar’s battle, from which place<br>We may the number of the ships behold,<br>And so proceed accordingly. |
 | *(didascalia)* | Exeunt |
